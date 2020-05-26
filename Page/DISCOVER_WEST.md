@@ -5,7 +5,7 @@
 
 ## 概要
 
-2003年10月1日、[東海道](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")・[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")が開業以来最大規模となる[ダイヤ改正を実施したことをきっかけとして](https://ja.wikipedia.org/wiki/2001年以降のJRダイヤ改正 "wikilink")、[首都圏から西日本エリア](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")（特に[中国地方](../Page/中国地方.md "wikilink")）への観光客誘致を図るために実施された。
+2003年10月1日、[東海道](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")・[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")が開業以来最大規模となる[ダイヤ改正を実施したことをきっかけとして](https://ja.wikipedia.org/wiki/2001年以降のJRダイヤ改正 "wikilink")、[首都圏から西日本エリア](../Page/首都圏_\(日本\).md "wikilink")（特に[中国地方](../Page/中国地方.md "wikilink")）への観光客誘致を図るために実施された。
 
 キャンペーン名の「ディスカバー・ウエスト」は、[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）時代に行われた[DISCOVER JAPANキャンペーンを](../Page/ディスカバー・ジャパン.md "wikilink")[リメイク](../Page/リメイク.md "wikilink")したものである。メインコピーは「**それは、西にある。**」。
 

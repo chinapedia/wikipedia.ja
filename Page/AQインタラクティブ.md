@@ -12,7 +12,7 @@
 ## 沿革
 
   - 2000年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [株式会社キャビア設立](../Page/キャビア_\(企業\).md "wikilink")。
-  - [2002年](../Page/2002年.md "wikilink")3月 - 資本金3億円で東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[虎ノ門](https://ja.wikipedia.org/wiki/虎ノ門 "wikilink")に設立。
+  - [2002年](../Page/2002年.md "wikilink")3月 - 資本金3億円で東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[虎ノ門](../Page/虎ノ門.md "wikilink")に設立。
   - 2002年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 本社を東京都港区虎ノ門から東京都[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")へ移転。
   - 2002年[9月](../Page/9月.md "wikilink") - 株式会社スカラベを連結子会社化。
   - [2004年](../Page/2004年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 本社を東京都目黒区から東京都港区[六本木](../Page/六本木.md "wikilink")へ移転。株式会社アートゥーンを連結子会社化。

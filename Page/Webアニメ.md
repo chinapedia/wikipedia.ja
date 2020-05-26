@@ -627,7 +627,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ザ・マジカルナイト_シンデレラとアリスとアラジンのアナザーストーリー" title="wikilink">ザ・マジカルナイト シンデレラとアリスとアラジンのアナザーストーリー</a></p></td>
 <td><p><a href="../Page/第2日本テレビ.md" title="wikilink">第2日本テレビ</a></p></td>
 <td><p>2009年2月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン" title="wikilink">USJの</a><a href="https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン#マジカル・スターライト・パレード" title="wikilink">アトラクションと連動</a></p></td>
+<td><p><a href="../Page/ユニバーサル・スタジオ・ジャパン.md" title="wikilink">USJの</a><a href="https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン#マジカル・スターライト・パレード" title="wikilink">アトラクションと連動</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/うるまでるびのGO!GO!選挙" title="wikilink">うるまでるびのGO!GO!選挙</a></p></td>
@@ -978,7 +978,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/こいけん!" title="wikilink">こいけん 〜私たちアニメになっちゃった!〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobage" title="wikilink">Mobage</a><br />
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
 <a href="https://ja.wikipedia.org/wiki/GREE" title="wikilink">GREE</a></p></td>
 <td><p>2012年3月1日</p></td>
 <td><p>後にTV放映</p></td>
@@ -2650,7 +2650,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">シンデレラガールズ劇場 5周年記念ショートアニメ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobage" title="wikilink">Mobage</a></p></td>
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a></p></td>
 <td><p>2016年11月28日</p></td>
 <td></td>
 </tr>
@@ -2901,7 +2901,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第1期）</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobage" title="wikilink">Mobage</a></p></td>
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a></p></td>
 <td><p>2017年4月4日</p></td>
 <td></td>
 </tr>
@@ -3275,7 +3275,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第2期）</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobage" title="wikilink">Mobage</a></p></td>
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a></p></td>
 <td><p>2017年10月3日</p></td>
 <td></td>
 </tr>
@@ -3782,7 +3782,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第3期）</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobage" title="wikilink">Mobage</a><br />
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
 <a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2018年7月3日</p></td>
 <td></td>
@@ -4335,7 +4335,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第4期）</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobage" title="wikilink">Mobage</a><br />
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
 <a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2019年4月2日</p></td>
 <td></td>
@@ -5008,7 +5008,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 Extra Stage</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Mobage" title="wikilink">Mobage</a><br />
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
 <a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2020年3月24日</p></td>
 <td></td>

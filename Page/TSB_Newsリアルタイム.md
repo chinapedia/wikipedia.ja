@@ -5,7 +5,7 @@
 
 ## 概要
 
-[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』の終了と『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の開始を受けて放送開始。TSBでは2001年4月以降、平日夕方のローカルニュースを[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")『[ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")プラス1』に内包する番組編成が取られていたが、この『TSB Newsリアルタイム』の開始によって再びローカルニュース枠を完全に切り離す形になった。ただし、一部の[新聞](../Page/新聞.md "wikilink")と[インターネット](../Page/インターネット.md "wikilink")上にある[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")では、『NNN Newsリアルタイム』と『TSB Newsリアルタイム』を一括りに掲載しているケースも見られた。
+[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』の終了と『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』の開始を受けて放送開始。TSBでは2001年4月以降、平日夕方のローカルニュースを[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")『[ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")プラス1』に内包する番組編成が取られていたが、この『TSB Newsリアルタイム』の開始によって再びローカルニュース枠を完全に切り離す形になった。ただし、一部の[新聞](../Page/新聞.md "wikilink")と[インターネット](../Page/インターネット.md "wikilink")上にある[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")では、『NNN Newsリアルタイム』と『TSB Newsリアルタイム』を一括りに掲載しているケースも見られた。
 
 キャスターには、[伊東秀一](../Page/伊東秀一.md "wikilink")（TSB[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）が『[ニュースプラス1信州](../Page/ニュースプラス1信州.md "wikilink")』から続投起用。また、2006年3月末まで『ゆうがたGet\!プラス1』の司会を務めていた[加納美也子](../Page/加納美也子.md "wikilink")（当時TSBアナウンサー）も起用された。
 
@@ -49,7 +49,7 @@
 
 ### 平日
 
-  - 17:50 [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink") - 『[ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")』から[ステーションブレイク無しで接続](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")。
+  - 17:50 [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink") - 『[ゆうがたGet\!](../Page/ゆうがたGet!.md "wikilink")』から[ステーションブレイク無しで接続](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")。
   - 18:16 オープニング・ニュース - 『NNN Newsリアルタイム』からステーションブレイク無しで接続。
   - 18:36 エンタメSPORTS - 日本テレビとの同時ネットだったが、最後までは放送されないことが多かった。不定期でコーナー全編が休止にされることもあった。「エンタメSPORTS」飛び降り後、長野県内のスポーツニュースを伝える場合があった。
   - 18:42 天気予報 - 火曜日・木曜日のみ「八十二ウェザーリポート」（提供：[八十二銀行](../Page/八十二銀行.md "wikilink")）のコーナータイトルで放送。予報提供は[ウェザーニュース](https://ja.wikipedia.org/wiki/ウェザーニュース "wikilink")で、天気予報のみ[ステレオ放送](../Page/ステレオ放送.md "wikilink")。

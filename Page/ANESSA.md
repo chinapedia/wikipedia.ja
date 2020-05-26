@@ -40,7 +40,7 @@
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")：[長谷川理恵](https://ja.wikipedia.org/wiki/長谷川理恵 "wikilink")
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")：[中本奈奈](../Page/中本奈奈.md "wikilink")
   - [1999年](../Page/1999年.md "wikilink")：[理衣](../Page/理衣.md "wikilink")・[花楓](../Page/花楓.md "wikilink")
-  - [2000年](../Page/2000年.md "wikilink")：[小泉深雪](https://ja.wikipedia.org/wiki/小泉深雪 "wikilink")
+  - [2000年](../Page/2000年.md "wikilink")：[小泉深雪](../Page/小泉深雪.md "wikilink")
   - [2001年](../Page/2001年.md "wikilink")：[高橋マリ子](../Page/高橋マリ子.md "wikilink")・[篠原ゆりこ](https://ja.wikipedia.org/wiki/篠原ゆりこ "wikilink")・[松井政美](https://ja.wikipedia.org/wiki/松井政美 "wikilink")
   - [2002年](../Page/2002年.md "wikilink")：[吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink")
   - [2003年](../Page/2003年.md "wikilink")：[橋本麗香](../Page/橋本麗香.md "wikilink")

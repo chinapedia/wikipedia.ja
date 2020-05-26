@@ -50,7 +50,7 @@
   - [夢子](https://ja.wikipedia.org/wiki/夢子 "wikilink")
   - [福田明子](../Page/福田明子.md "wikilink")
   - [岡本裕里](https://ja.wikipedia.org/wiki/岡本裕里 "wikilink")
-  - [松田園子](https://ja.wikipedia.org/wiki/松田園子 "wikilink")
+  - [松田園子](../Page/松田園子.md "wikilink")
   - [原裕美子](../Page/原裕美子_\(モデル\).md "wikilink")
   - [チェルシー舞花](../Page/チェルシー舞花.md "wikilink")
   - [徳田いずみ](../Page/徳田いずみ.md "wikilink")

@@ -9,7 +9,7 @@
 
 ## 放送時間
 
-  - 月曜～金曜 18:16～19:00（YBC [Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")、「[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")」を内包）
+  - 月曜～金曜 18:16～19:00（YBC [Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")、「[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")」を内包）
   - 土曜 17:48～17:56（YBC Newsリアルタイム・サタデー）
 
 ## 出演者

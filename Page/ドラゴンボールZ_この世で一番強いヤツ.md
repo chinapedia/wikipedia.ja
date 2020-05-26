@@ -76,7 +76,7 @@
   - 美術監督 - [池田祐二](https://ja.wikipedia.org/wiki/池田祐二 "wikilink")
   - 作画監督 - [前田実](../Page/前田実.md "wikilink")
   - 監督 - [西尾大介](../Page/西尾大介.md "wikilink")
-  - 原画 - [海老沢幸男](https://ja.wikipedia.org/wiki/海老沢幸男 "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](../Page/江口寿志.md "wikilink")、[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、[志田直俊](https://ja.wikipedia.org/wiki/志田直俊 "wikilink") 他
+  - 原画 - [海老沢幸男](../Page/海老沢幸男.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](../Page/江口寿志.md "wikilink")、[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、[志田直俊](https://ja.wikipedia.org/wiki/志田直俊 "wikilink") 他
   - 宣伝協力 - [週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 主題歌

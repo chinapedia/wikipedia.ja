@@ -1,7 +1,7 @@
 > この記事は[Finder](https://ja.wikipedia.org/wiki/Finder)から翻訳されています。
 
 
-**Finder**（ファインダ）は、[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")（[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")）用の[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")であり、同時に[デスクトップを提供するグラフィカル](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink") (GUI) [シェル](../Page/シェル.md "wikilink")としても設計されている。
+**Finder**（ファインダ）は、[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")（[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")）用の[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")であり、同時に[デスクトップを提供するグラフィカル](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink") (GUI) [シェル](../Page/シェル.md "wikilink")としても設計されている。
 
 ## 概要
 

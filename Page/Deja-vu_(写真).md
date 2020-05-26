@@ -20,7 +20,7 @@
 ### No.2 「モードの劇場」
 
   - 人物
-      - [ティエリー・ミュグレー](https://ja.wikipedia.org/wiki/ティエリー・ミュグレー "wikilink")
+      - [ティエリー・ミュグレー](../Page/ティエリー・ミュグレー.md "wikilink")
       - [上田義彦](../Page/上田義彦.md "wikilink")
       - [ヤン・サウデク](https://ja.wikipedia.org/wiki/ヤン・サウデク "wikilink")
       - [伊島薫](https://ja.wikipedia.org/wiki/伊島薫 "wikilink")

@@ -15,7 +15,7 @@
 
 ## 会場
 
-当初は自社施設の（旧）[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")で開催されていたが、同施設が[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")再開発事業に伴い[2003年](../Page/2003年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")に閉鎖・解体されて以降は[文京シビックホール](https://ja.wikipedia.org/wiki/文京シビックホール "wikilink")（大ホール。[文京区役所](../Page/文京区役所.md "wikilink")庁舎内）にて開催されている。その後[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に（新）赤坂ACTシアターが再開業したが、引き続き文京シビックホールでの開催である。
+当初は自社施設の（旧）[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")で開催されていたが、同施設が[赤坂サカス](../Page/赤坂サカス.md "wikilink")再開発事業に伴い[2003年](../Page/2003年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")に閉鎖・解体されて以降は[文京シビックホール](https://ja.wikipedia.org/wiki/文京シビックホール "wikilink")（大ホール。[文京区役所](../Page/文京区役所.md "wikilink")庁舎内）にて開催されている。その後[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に（新）赤坂ACTシアターが再開業したが、引き続き文京シビックホールでの開催である。
 
 ## 開催日程
 

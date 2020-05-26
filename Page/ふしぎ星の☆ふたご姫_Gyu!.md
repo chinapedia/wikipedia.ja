@@ -51,7 +51,7 @@
 ### エンディングテーマ
 
   - 「[学園天国](../Page/学園天国_\(曲\).md "wikilink")」（第1話（2006年4月1日）- 第26話（2006年9月23日））
-    作詞 - [阿久悠](../Page/阿久悠.md "wikilink") / 作曲 - [井上忠夫](https://ja.wikipedia.org/wiki/井上大輔 "wikilink") / 編曲 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")・[坂部剛](https://ja.wikipedia.org/wiki/坂部剛 "wikilink") / 歌 - [ワンダー☆5](https://ja.wikipedia.org/wiki/ワンダー☆5 "wikilink")
+    作詞 - [阿久悠](../Page/阿久悠.md "wikilink") / 作曲 - [井上忠夫](https://ja.wikipedia.org/wiki/井上大輔 "wikilink") / 編曲 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")・[坂部剛](https://ja.wikipedia.org/wiki/坂部剛 "wikilink") / 歌 - [ワンダー☆5](../Page/ワンダー☆5.md "wikilink")
 
     [フィンガー5](../Page/フィンガー5.md "wikilink")が[1974年](../Page/1974年.md "wikilink")に発売した曲のカバー曲。
 
@@ -614,7 +614,7 @@
 #### 雑誌
 
   - [（小学館の）幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")（2006年4月号 - 2007年3月号）
-  - [めばえ](https://ja.wikipedia.org/wiki/めばえ_\(雑誌\) "wikilink")（2006年4月号 - 2007年3月号）
+  - [めばえ](../Page/めばえ_\(雑誌\).md "wikilink")（2006年4月号 - 2007年3月号）
   - [学習幼稚園](https://ja.wikipedia.org/wiki/学習幼稚園 "wikilink")
   - [小学一年生](../Page/小学館の学年別学習雑誌.md "wikilink")（2006年4月号 - 9月号）
       - 前作で行われていた『[ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")』への漫画版の掲載は今作では一切行われなかった。
@@ -663,7 +663,7 @@ DVDは[バンダイビジュアル](../Page/バンダイビジュアル.md "wiki
 ## その他
 
   - [都営バス](../Page/都営バス.md "wikilink")が、2006年6月末から2007年1月中旬まで練馬・巣鴨・渋谷・江戸川地区を中心に『ふしぎ星の☆ふたご姫 Gyu\!』の[ラッピングバス](https://ja.wikipedia.org/wiki/ラッピングバス "wikilink")を1台ずつ計4台運行した\[5\]。
-  - 2006年5月には、[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")本店での関連CD購入者を対象にしたトーク&ライブイベントが[代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink")[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")校で開かれた。司会は[おたっきぃ佐々木](../Page/おたっきぃ佐々木.md "wikilink")、出演は総監督の[佐藤順一](../Page/佐藤順一.md "wikilink")、主題歌を歌う[FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink")・[ワンダー☆5](https://ja.wikipedia.org/wiki/ワンダー☆5 "wikilink")、ファイン役の[小島めぐみ](../Page/小島めぐみ.md "wikilink")、レイン役の[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")。
+  - 2006年5月には、[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")本店での関連CD購入者を対象にしたトーク&ライブイベントが[代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink")[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")校で開かれた。司会は[おたっきぃ佐々木](../Page/おたっきぃ佐々木.md "wikilink")、出演は総監督の[佐藤順一](../Page/佐藤順一.md "wikilink")、主題歌を歌う[FLIP-FLAP](../Page/FLIP-FLAP.md "wikilink")・[ワンダー☆5](../Page/ワンダー☆5.md "wikilink")、ファイン役の[小島めぐみ](../Page/小島めぐみ.md "wikilink")、レイン役の[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink")。
       - 上記のイベントによると、ふしぎ星の☆ふたご姫第2期の番組タイトル候補に『ふしぎ星の☆ふたご姫PE（*Princess Edition*）』があったが、「ふしぎ星の☆ふたご姫 ペ」と読めることから[お蔵入り](../Page/お蔵入り.md "wikilink")になった。
   - 小学館の幼稚園の連載期間中、人物作画担当として[大西陽一](https://ja.wikipedia.org/wiki/大西陽一 "wikilink")が担当しており、その後に発売されたテレビ絵本でも確認が出来る。
   - このアニメ終了後、テレビ東京土曜朝10時前半枠における女児向けアニメは2011年4月9日開始の『[プリティーリズム・オーロラドリーム](https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリーム "wikilink")』まで存在しなかった\[6\]。

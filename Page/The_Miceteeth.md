@@ -54,7 +54,7 @@
 
   - いくつかの春の光 （[2003年](../Page/2003年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
   - one small humming to big pining （夜明けの小舟）（2003年[6月25日](../Page/6月25日.md "wikilink")）
-  - 霧の中 （[2004年](../Page/2004年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）
+  - 霧の中 （[2004年](../Page/2004年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")）
   - Sleep on Steps （[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")）
   - シュガープールでつかまえて （[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")）
   - Tomorrow more than words （[2007年](../Page/2007年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")）

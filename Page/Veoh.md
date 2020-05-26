@@ -17,7 +17,7 @@ Veohに[動画](../Page/動画.md "wikilink")を[アップロード](../Page/ア
 
 Veohに投稿されている全ての動画は無料で閲覧できるが、30分以上の動画を閲覧するにはVeohの無料会員にならなくてはならない。
 
-Veohが[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")と称するとおり、Veoh独自の[ファイル共有システムを応用することにより大容量な動画ファイルを容易にダウンロードすることができる](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")。なお、ダウンロードしたビデオは[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")やその他携帯型プレーヤーなどでも再生が可能である。
+Veohが[P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")と称するとおり、Veoh独自の[ファイル共有システムを応用することにより大容量な動画ファイルを容易にダウンロードすることができる](../Page/ファイル共有ソフト.md "wikilink")。なお、ダウンロードしたビデオは[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")やその他携帯型プレーヤーなどでも再生が可能である。
 
 [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")等と同じように誰もが自由に動画をアップロードできることから[著作権侵害](../Page/著作権侵害.md "wikilink")が問題となっている。
 

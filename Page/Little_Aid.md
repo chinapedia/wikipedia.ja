@@ -5,7 +5,7 @@
 
 ## 概要
 
-過去にTAKUYOから発売された『[Cherryblossom](https://ja.wikipedia.org/wiki/Cherryblossom "wikilink")』『[e'tude prologue～揺れ動く心のかたち～](../Page/Etude_prologue_〜揺れ動く心のかたち〜.md "wikilink")』と世界観を共有しており、前者から10年後、後者から1年後が舞台となっている。続編『[Panic Palette](https://ja.wikipedia.org/wiki/Panic_Palette "wikilink")』では半年後の物語が描かれ、本作サブキャラの内沼葛が主人公の従兄として登場し、攻略対象となった。
+過去にTAKUYOから発売された『[Cherryblossom](https://ja.wikipedia.org/wiki/Cherryblossom "wikilink")』『[e'tude prologue～揺れ動く心のかたち～](../Page/Etude_prologue_〜揺れ動く心のかたち〜.md "wikilink")』と世界観を共有しており、前者から10年後、後者から1年後が舞台となっている。続編『[Panic Palette](../Page/Panic_Palette.md "wikilink")』では半年後の物語が描かれ、本作サブキャラの内沼葛が主人公の従兄として登場し、攻略対象となった。
 
 ## ストーリー
 

@@ -34,7 +34,7 @@ Tとは大陸を[アジア](../Page/アジア.md "wikilink")・[ヨーロッパ]
 ## 関連項目
 
   - [地球平面説](https://ja.wikipedia.org/wiki/地球平面説 "wikilink")
-  - [マッパ・ムンディ](https://ja.wikipedia.org/wiki/マッパ・ムンディ "wikilink")
+  - [マッパ・ムンディ](../Page/マッパ・ムンディ.md "wikilink")
 
 [Category:地図学](https://ja.wikipedia.org/wiki/Category:地図学 "wikilink") [Category:古地図](https://ja.wikipedia.org/wiki/Category:古地図 "wikilink") [Category:中世ヨーロッパ](https://ja.wikipedia.org/wiki/Category:中世ヨーロッパ "wikilink") [Category:中世ヨーロッパのキリスト教](https://ja.wikipedia.org/wiki/Category:中世ヨーロッパのキリスト教 "wikilink") [Category:技術史](https://ja.wikipedia.org/wiki/Category:技術史 "wikilink")
 

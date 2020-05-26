@@ -157,7 +157,7 @@
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/恋のドッキドキ大作戦" title="wikilink">恋のドッキドキ大作戦</a></strong></p></td>
 <td><p>CRCP-10219</p></td>
-<td><p>恋のドッキドキ大作戦(Feat. <a href="https://ja.wikipedia.org/wiki/渡瀬マキ" title="wikilink">渡瀬マキ</a>from<a href="../Page/LINDBERG.md" title="wikilink">LINDBERG</a>)／情熱／応援歌～友へ～／恋のドッキドキ大作戦(less vocal)</p></td>
+<td><p>恋のドッキドキ大作戦(Feat. <a href="../Page/渡瀬マキ.md" title="wikilink">渡瀬マキ</a>from<a href="../Page/LINDBERG.md" title="wikilink">LINDBERG</a>)／情熱／応援歌～友へ～／恋のドッキドキ大作戦(less vocal)</p></td>
 <td><p>オリコン最高83位</p></td>
 </tr>
 <tr class="odd">
@@ -427,7 +427,7 @@ SLRL-10017:通常盤</p></td>
   - 「[ズッコケ男道](../Page/ズッコケ男道.md "wikilink")」(作詞)
   - 「[強情にGO\!](../Page/KJ2_ズッコケ大脱走.md "wikilink")」(作詞)
   - 「[地元の王様](../Page/KJ2_ズッコケ大脱走.md "wikilink")」(作詞)
-  - 「[イッツ マイ ソウル](https://ja.wikipedia.org/wiki/イッツ_マイ_ソウル "wikilink")」(作詞)
+  - 「[イッツ マイ ソウル](../Page/イッツ_マイ_ソウル.md "wikilink")」(作詞)
   - 「[ゴリゴリ](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\) "wikilink")」(作詞)
   - 「[ギガマジメ我ファイト](https://ja.wikipedia.org/wiki/PUZZLE_\(関ジャニ∞のアルバム\) "wikilink")」(作詞)
 
@@ -440,7 +440,7 @@ SLRL-10017:通常盤</p></td>
 
   - 「[Silver Moon](https://ja.wikipedia.org/wiki/one_Sexy_Zone "wikilink")」(作詞)
 
-**[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")**
+**[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
 
   - 「[テレパシーOne\! Two\!](https://ja.wikipedia.org/wiki/5_Performer-Z "wikilink")」(作詞)
 

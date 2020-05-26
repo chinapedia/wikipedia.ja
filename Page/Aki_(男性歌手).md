@@ -17,13 +17,13 @@
 
 [2011年](../Page/2011年.md "wikilink")11月27日、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で開催された[KISAKI](../Page/KISAKI.md "wikilink")プロデュースによるイベント「輪・廻・転・生〜A RETURN of "VISUAL MONSTER"〜」に出演\[6\]。
 
-[2013年](../Page/2013年.md "wikilink")8月、[DEAD ENDのトリビュートアルバム](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』の第4弾情報解禁参加アーティストとして発表され\[7\]、収録曲「Sacrifice Of The Vision」にヴォーカリストとして参加\[8\]。
+[2013年](../Page/2013年.md "wikilink")8月、[DEAD ENDのトリビュートアルバム](../Page/DEAD_END_\(バンド\).md "wikilink")『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』の第4弾情報解禁参加アーティストとして発表され\[7\]、収録曲「Sacrifice Of The Vision」にヴォーカリストとして参加\[8\]。
 
 [2015年](../Page/2015年.md "wikilink")2月、ソロ活動10周年の幕開けとなる東名ツアー「BIAS - Early2015」を開催し\[9\]、約4年ぶりとなる4thアルバム『FORCE』をリリース\[10\]。
 
 ## 影響
 
-中学生の頃に[チェッカーズ](../Page/チェッカーズ.md "wikilink")をきいたことがきっかけでバンドを好きになる\[11\]。高校時代に[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")を聴いたことで衝撃を受けて[LAメタル](../Page/LAメタル.md "wikilink")にはまり、その後は[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[LOUDNESS](../Page/LOUDNESS.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")、[GASTANK](../Page/GASTUNK.md "wikilink")、[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")、SNIPER、MARINO、TILTなどの[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")をよく聴いていたという\[12\]。なかでもDEAD ENDからの影響は大きく、かつて[MORRIE](../Page/MORRIE.md "wikilink")のコピーをしていたことが「今現在のボーカルスタイルの基礎になって」いるとのこと\[13\]。DEAD ENDのトリビュートアルバム『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』のレコーディングの際には「『[DEAD LINE](https://ja.wikipedia.org/wiki/DEAD_LINE_\(DEAD_ENDのアルバム\) "wikilink")』のアナログ盤（通常盤とピクチャー盤）二枚をスタジオに持込み、当時の初期衝動を思い出しながら歌いました」と語っている\[14\]。
+中学生の頃に[チェッカーズ](../Page/チェッカーズ.md "wikilink")をきいたことがきっかけでバンドを好きになる\[11\]。高校時代に[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")を聴いたことで衝撃を受けて[LAメタル](../Page/LAメタル.md "wikilink")にはまり、その後は[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[LOUDNESS](../Page/LOUDNESS.md "wikilink")、[44MAGNUM](../Page/44MAGNUM.md "wikilink")、[GASTANK](../Page/GASTUNK.md "wikilink")、[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")、SNIPER、MARINO、TILTなどの[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")をよく聴いていたという\[12\]。なかでもDEAD ENDからの影響は大きく、かつて[MORRIE](../Page/MORRIE.md "wikilink")のコピーをしていたことが「今現在のボーカルスタイルの基礎になって」いるとのこと\[13\]。DEAD ENDのトリビュートアルバム『[DEAD END Tribute -SONG OF LUNATICS-](https://ja.wikipedia.org/wiki/DEAD_END_Tribute_-SONG_OF_LUNATICS- "wikilink")』のレコーディングの際には「『[DEAD LINE](https://ja.wikipedia.org/wiki/DEAD_LINE_\(DEAD_ENDのアルバム\) "wikilink")』のアナログ盤（通常盤とピクチャー盤）二枚をスタジオに持込み、当時の初期衝動を思い出しながら歌いました」と語っている\[14\]。
 
 ## エピソード
 

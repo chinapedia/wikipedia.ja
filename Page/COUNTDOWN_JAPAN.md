@@ -1266,7 +1266,7 @@ RESIDENT DJ's
 <li><a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/a_flood_of_circle" title="wikilink">a flood of circle</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/キャプテンストライダム" title="wikilink">キャプテンストライダム</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ミドリ_(バンド)" title="wikilink">ミドリ</a></li>
+<li><a href="../Page/ミドリ_(バンド).md" title="wikilink">ミドリ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/avengers_in_sci-fi" title="wikilink">avengers in sci-fi</a></li>
 <li><a href="../Page/UNCHAIN.md" title="wikilink">UNCHAIN</a></li>
 </ul></td>
@@ -2305,7 +2305,7 @@ RESIDENT DJ's
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/The_Flickers" title="wikilink">The Flickers</a></li>
 <li>長澤知之</li>
-<li><a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a></li>
+<li><a href="../Page/DEAD_END_(バンド).md" title="wikilink">DEAD END</a></li>
 <li>SEAMO</li>
 <li>TRICERATOPS</li>
 <li><a href="../Page/Hermann_H.&amp;The_Pacemakers.md" title="wikilink">Hermann H.&amp;The Pacemakers</a></li>

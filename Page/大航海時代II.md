@@ -3,7 +3,7 @@
 
 『**大航海時代II**』（だいこうかいじだい・ツー、*Uncharted Waters: NEW HORIZONS*）は、[1993年](../Page/1993年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に光栄（現[コーエー](../Page/コーエー.md "wikilink")）から発売された[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")（同社は[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")と呼称）。「[大航海時代シリーズ](../Page/大航海時代シリーズ.md "wikilink")」の第2作目である。
 
-PC-98版の発売後に家庭用ゲーム機などに移植されたが、最初の[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版の際にインターフェースやゲームシステムが大幅に改善されており、その後も[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")・Windows版・携帯電話版（『**mobile大航海時代2**』に改題）にて若干の仕様が変更されて移植発売された。また、「[コーエー定番シリーズ](https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ "wikilink")」などの廉価版シリーズや、PC-98版の復刻版である「[コーエー25周年記念パック](https://ja.wikipedia.org/wiki/コーエー25周年記念パック "wikilink") Vol.7」も発売されている。本作のシステムを流用した『[大航海時代外伝](../Page/大航海時代外伝.md "wikilink")』も発売されている。
+PC-98版の発売後に家庭用ゲーム機などに移植されたが、最初の[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版の際にインターフェースやゲームシステムが大幅に改善されており、その後も[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")・Windows版・携帯電話版（『**mobile大航海時代2**』に改題）にて若干の仕様が変更されて移植発売された。また、「[コーエー定番シリーズ](https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ "wikilink")」などの廉価版シリーズや、PC-98版の復刻版である「[コーエー25周年記念パック](../Page/コーエー25周年記念パック.md "wikilink") Vol.7」も発売されている。本作のシステムを流用した『[大航海時代外伝](../Page/大航海時代外伝.md "wikilink")』も発売されている。
 
 Windows版（コーエー定番シリーズ版含む）は、公式動作保証がされているのは[WindowsMeまでである](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")。
 

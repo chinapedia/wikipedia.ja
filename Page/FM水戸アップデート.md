@@ -93,7 +93,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡正美" title="wikilink">松岡正美</a></p></td>
+<td><p><a href="../Page/松岡正美.md" title="wikilink">松岡正美</a></p></td>
 <td><p>2004年4月〜2005年11月</p></td>
 <td><p>現：<a href="../Page/ボイスワークス.md" title="wikilink">ボイスワークス</a>所属</p></td>
 </tr>

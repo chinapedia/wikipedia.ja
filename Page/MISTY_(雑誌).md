@@ -30,7 +30,7 @@ My Birthday増刊号として1980年にスタート。「MISTY」と名前を変
   - マドモアゼル・愛のアクエリアス・オラシオン（[マドモアゼル・愛](https://ja.wikipedia.org/wiki/マドモアゼル・愛 "wikilink")）
   - 中国神話 昔がたり（[真矢茉子](https://ja.wikipedia.org/wiki/真矢茉子 "wikilink")）
   - 不思議研究所（[マーク矢崎](https://ja.wikipedia.org/wiki/マーク・矢崎治信 "wikilink")）
-  - ジョナサン・ケイナーの英国占星術直行便（[ジョナサン・ケイナー](https://ja.wikipedia.org/wiki/ジョナサン・ケイナー "wikilink")）
+  - ジョナサン・ケイナーの英国占星術直行便（[ジョナサン・ケイナー](../Page/ジョナサン・ケイナー.md "wikilink")）
   - 幸せ<M>の館 - 読者のお便りコーナー(イラスト担当 前田典子）
   - Dream Culture\!　ココロをリッチに\! - 今月のBrilliantという形で毎月ゲストが変わる。
   - フォーチュン★トラベルin asia（[伊泉龍一](https://ja.wikipedia.org/wiki/伊泉龍一 "wikilink")）

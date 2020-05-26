@@ -99,7 +99,7 @@
   - [ポンポン](../Page/ポンポン.md "wikilink")
   - [万国旗](https://ja.wikipedia.org/wiki/万国旗 "wikilink")
   - [ブロッコリー](../Page/ブロッコリー.md "wikilink")栽培
-  - [殺虫剤](https://ja.wikipedia.org/wiki/殺虫剤 "wikilink")
+  - [殺虫剤](../Page/殺虫剤.md "wikilink")
   - [救命アフロ](../Page/救命胴衣.md "wikilink")
   - [パラシュート](../Page/パラシュート.md "wikilink")
 

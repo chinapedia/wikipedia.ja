@@ -7,7 +7,7 @@
 
 シナリオを細かいショートストーリーに分け、それを選択する「ストーリースティック」というシステムを採用している。選択するストーリーによって、攻略対象となるキャラが決まっていく形になっている。
 
-また、[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[コンプエース](../Page/月刊コンプエース.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）にて、[かんきりこ](https://ja.wikipedia.org/wiki/かんきりこ "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品が連載された。
+また、[漫画雑誌](../Page/漫画雑誌.md "wikilink")『[コンプエース](../Page/月刊コンプエース.md "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）にて、[かんきりこ](https://ja.wikipedia.org/wiki/かんきりこ "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品が連載された。
 
 ## ストーリー
 

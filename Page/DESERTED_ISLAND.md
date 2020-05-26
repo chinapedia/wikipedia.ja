@@ -352,7 +352,7 @@
 
 **ジャイアン**　
 
-  - 南西部などに生息する、巨大な[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")。
+  - 南西部などに生息する、巨大な[ゴキブリ](../Page/ゴキブリ.md "wikilink")。
   - 実在する大きなゴキブリは[モグラゴキブリ](https://ja.wikipedia.org/wiki/モグラゴキブリ "wikilink")のようにずんぐりむっくりした体型であるが、これは[クロゴキブリ](https://ja.wikipedia.org/wiki/クロゴキブリ "wikilink")がそのまま巨大化したような外見となっている。
 
 **投網グモ**　

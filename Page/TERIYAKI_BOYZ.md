@@ -1,7 +1,7 @@
 > この記事は[TERIYAKI BOYZ](https://ja.wikipedia.org/wiki/TERIYAKI_BOYZ)から翻訳されています。
 
 
-**TERIYAKI BOYZ®**（テリヤキ・ボーイズ）は、[MCの](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[ILMARI](../Page/ILMARI.md "wikilink")、[RYO-Z](../Page/RYO-Z.md "wikilink")、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、[WISE](../Page/WISE.md "wikilink")、[DJの](../Page/ディスクジョッキー.md "wikilink")[NIGO](../Page/NIGO.md "wikilink")の、4MC+1DJで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。所属[レーベルはSTAR](../Page/レコードレーベル.md "wikilink") TRAK/(B)APE SOUNDS®。
+**TERIYAKI BOYZ®**（テリヤキ・ボーイズ）は、[MCの](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[ILMARI](../Page/ILMARI.md "wikilink")、[RYO-Z](../Page/RYO-Z.md "wikilink")、[VERBAL](../Page/VERBAL.md "wikilink")、[WISE](../Page/WISE.md "wikilink")、[DJの](../Page/ディスクジョッキー.md "wikilink")[NIGO](../Page/NIGO.md "wikilink")の、4MC+1DJで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。所属[レーベルはSTAR](../Page/レコードレーベル.md "wikilink") TRAK/(B)APE SOUNDS®。
 
 [2005年](../Page/2005年.md "wikilink")（[酉](../Page/酉.md "wikilink")年）限定で活動予定と発表されていたが、その後も新曲を発表するなど活動を続けている。
 
@@ -18,13 +18,13 @@
   - [2009年](../Page/2009年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")、先行シングル「WORK THAT feat. PHARRELL & [CHRIS BROWN](../Page/クリス・ブラウン_\(歌手\).md "wikilink")」をリリース。
   - [2009年](../Page/2009年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")、[ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink")が運営するSTAR TRAKレーベルから2ndアルバム『[SERIOUS JAPANESE](https://ja.wikipedia.org/wiki/SERIOUS_JAPANESE "wikilink")』をリリース。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月14日](../Page/8月14日.md "wikilink")、MTV ZUSHI FESに出演。
-  - [2012年](../Page/2012年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")プロデュースのイベント「ATO_MATSURI」に出演。
+  - [2012年](../Page/2012年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")、[VERBAL](../Page/VERBAL.md "wikilink")プロデュースのイベント「ATO_MATSURI」に出演。
 
 ## メンバー
 
   - [ILMARI](../Page/ILMARI.md "wikilink")（イルマリ） - MC。リーダー。[RIP SLYMEのメンバー](../Page/RIP_SLYME.md "wikilink")。
   - [RYO-Z](../Page/RYO-Z.md "wikilink")（リョージ） - MC。RIP SLYMEのメンバー。
-  - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（バーバル） - MC。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバー。
+  - [VERBAL](../Page/VERBAL.md "wikilink")（バーバル） - MC。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバー。
   - [WISE](../Page/WISE.md "wikilink")（ワイズ） - MC。(B)APE SOUNDS所属。
   - [NIGO](../Page/NIGO.md "wikilink")®（ニゴー） - DJ。[ユニクロ](../Page/ユニクロ.md "wikilink")(UT)のクリエイティブディレクター。
 

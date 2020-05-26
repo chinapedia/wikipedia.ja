@@ -73,7 +73,7 @@
 | Change my Style 〜あなた好みの私に〜 | [PCゲーム](../Page/パソコンゲーム.md "wikilink")『コスって\!MyHoney』[主題歌](../Page/主題歌.md "wikilink")                       |
 | 恋愛CHU\!                    | PCゲーム『[恋愛CHU\! -彼女のヒミツはオトコのコ?-](../Page/恋愛CHU!_-彼女のヒミツはオトコのコ?-.md "wikilink")』主題歌                           |
 | 消えない想い                     | PCゲーム『[金曜日の仔猫](../Page/金曜日の仔猫.md "wikilink")』主題歌                                                            |
-| さくらんぼキッス 〜爆発だも〜ん〜          | PCゲーム『[カラフルキッス 〜12コの胸キュン\!〜](https://ja.wikipedia.org/wiki/カラフルキッス_〜12コの胸キュン!〜 "wikilink")』オープニングテーマ        |
+| さくらんぼキッス 〜爆発だも〜ん〜          | PCゲーム『[カラフルキッス 〜12コの胸キュン\!〜](../Page/カラフルキッス_〜12コの胸キュン!〜.md "wikilink")』オープニングテーマ                           |
 | You're My Treasure         | PCゲーム『SPOTLIGHT 〜羡望と欲望の狭間〜』主題歌                                                                              |
 | Senecio                    | TVアニメ『[おねがい☆ティーチャー](../Page/おねがい☆ティーチャー.md "wikilink")』イメージソング                                              |
 | あちちな夏の物語                   | PCゲーム『Ripple 〜ブルシールへようこそっ〜』オープニングテーマ                                                                        |

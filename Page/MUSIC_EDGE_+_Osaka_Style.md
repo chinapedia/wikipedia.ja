@@ -356,7 +356,7 @@
 
 2005年以降、これとは別にスペシャルバージョンのEDGE LIVEも行われた。こちらはメジャーなミュージシャンの出演が多く、チケット料金もまちまち。2012年からは、番組スタッフが薦める新人アーティストが出演する「EDGE LIVE + Next Style ○○の旬穫祭」と題した招待制のライブイベントも行われている\[10\]。
 
-『+3 style』 - 『6MIX』および『2011』では、U.K.とジョンさんたちが毎回さまざまな挑戦を行なってきた。『+3 style』では[バンド](../Page/バンド_\(音楽\).md "wikilink")（演奏曲・[T.REX](../Page/T・レックス.md "wikilink")「[20th Century Boy](https://ja.wikipedia.org/wiki/20センチュリー・ボーイ "wikilink")」）、『4U』では[ギター](../Page/ギター.md "wikilink")（演奏曲・[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")「[空も飛べるはず](../Page/空も飛べるはず.md "wikilink")」、[押尾コータロー](../Page/押尾コータロー.md "wikilink")が指導）、『Hi-5』では[ピアノ](../Page/ピアノ.md "wikilink")（演奏曲・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")「[Tomorrow never knows](https://ja.wikipedia.org/wiki/Tomorrow_never_knows "wikilink")」）、『6MIX』では[アカペラ](../Page/ア・カペラ.md "wikilink")（歌唱曲・[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」、[Baby Booが指導](../Page/Baby_Boo.md "wikilink")）、『2011』ではピアノ伴奏（伴奏曲・[KAN](../Page/KAN.md "wikilink")「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」）を課せられ、その成果をライブ当日に披露してきた\[11\]。さらに『10th Anniversary』では、[Skoop On Somebodyが作曲した](../Page/Skoop_On_Somebody.md "wikilink")10周年記念の楽曲に、イベント開催中の2時間でU.K.が作詞した「十年の奇跡」\[12\]をエンディングでSkoop On Somebody、ジョンさんとともに来場者と合唱した。『12』では、[三浦大知](../Page/三浦大知.md "wikilink")から直々にオファーを受け、「[Two Hearts](https://ja.wikipedia.org/wiki/Two_Hearts_\(三浦大知の曲\) "wikilink")」の歌唱中、U.K.がバックダンサーと一緒にダンスに参加。この他『八番』では、U.K.が他の仕事とダブルブッキングとなってしまったため、仕事先からZepp Osakaまで走って駆けつけ、約50分の遅刻となった。
+『+3 style』 - 『6MIX』および『2011』では、U.K.とジョンさんたちが毎回さまざまな挑戦を行なってきた。『+3 style』では[バンド](../Page/バンド_\(音楽\).md "wikilink")（演奏曲・[T.REX](../Page/T・レックス.md "wikilink")「[20th Century Boy](https://ja.wikipedia.org/wiki/20センチュリー・ボーイ "wikilink")」）、『4U』では[ギター](../Page/ギター.md "wikilink")（演奏曲・[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")「[空も飛べるはず](../Page/空も飛べるはず.md "wikilink")」、[押尾コータロー](../Page/押尾コータロー.md "wikilink")が指導）、『Hi-5』では[ピアノ](../Page/ピアノ.md "wikilink")（演奏曲・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")「[Tomorrow never knows](https://ja.wikipedia.org/wiki/Tomorrow_never_knows "wikilink")」）、『6MIX』では[アカペラ](../Page/ア・カペラ.md "wikilink")（歌唱曲・[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」、[Baby Booが指導](../Page/Baby_Boo.md "wikilink")）、『2011』ではピアノ伴奏（伴奏曲・[KAN](../Page/KAN.md "wikilink")「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」）を課せられ、その成果をライブ当日に披露してきた\[11\]。さらに『10th Anniversary』では、[Skoop On Somebodyが作曲した](../Page/Skoop_On_Somebody.md "wikilink")10周年記念の楽曲に、イベント開催中の2時間でU.K.が作詞した「十年の奇跡」\[12\]をエンディングでSkoop On Somebody、ジョンさんとともに来場者と合唱した。『12』では、[三浦大知](../Page/三浦大知.md "wikilink")から直々にオファーを受け、「[Two Hearts](../Page/Two_Hearts_\(三浦大知の曲\).md "wikilink")」の歌唱中、U.K.がバックダンサーと一緒にダンスに参加。この他『八番』では、U.K.が他の仕事とダブルブッキングとなってしまったため、仕事先からZepp Osakaまで走って駆けつけ、約50分の遅刻となった。
 
 <table>
 <thead>
@@ -464,7 +464,7 @@ SOUL'd OUT</p></td>
 Universal Studios Japan<br />
 〜5th Anniversary Special〜</strong>[13]</p></td>
 <td><p>2006.11.4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン" title="wikilink">ユニバーサル・スタジオ・ジャパン</a></p></td>
+<td><p><a href="../Page/ユニバーサル・スタジオ・ジャパン.md" title="wikilink">ユニバーサル・スタジオ・ジャパン</a></p></td>
 <td><p><a href="../Page/エイジアエンジニア.md" title="wikilink">エイジアエンジニア</a><br />
 <a href="https://ja.wikipedia.org/wiki/misono" title="wikilink">misono</a><br />
 <a href="../Page/TRF.md" title="wikilink">TRF</a></p></td>
@@ -647,5 +647,5 @@ mihimaru GT</p></td>
 10. 「2 初夏の旬穫祭」「3 冬の旬穫祭」は別途ドリンク代が必要。
 11. なお、『Hi-5』のピアノ演奏は当日成功しなかったため、2003年9月6日に[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で改めてリベンジ演奏会が行われ、シークレットゲストとして[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が応援に駆けつけた。
 12. U.K.の書いた歌詞があまりにも後ろ向きすぎる内容だったため、Skoop On Somebodyが一部手直ししている。
-13. [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")の開園5周年と、番組の放送5周年を祝う形で[コラボレーション](../Page/コラボレーション.md "wikilink")が実現したものである。
+13. [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")の開園5周年と、番組の放送5周年を祝う形で[コラボレーション](../Page/コラボレーション.md "wikilink")が実現したものである。
 14. 番組で開催された「桜うたグランプリ2012」でグランプリを受賞。その副賞として、3ヵ月間番組へのレギュラー出演が決まるが、バンドの解散を賭け、6月末まで（その後EDGE LIVE 12への出演権がかかっているため、期限が9日間早まった）にグランプリ受賞曲「桜ノ宮駅」のCD1000枚（番組で制作）を近畿2府4県をまわって完売させるライブツアー（全9ヵ所で開催）を行うノルマが課せられ、完売させたご褒美として出演が決まった。

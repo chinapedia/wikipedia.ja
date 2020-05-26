@@ -176,7 +176,7 @@ D67を追う「赤い盾」は、その出所が[ベトナム](https://ja.wikipe
   - 「[This Love](../Page/This_Love.md "wikilink")」\[11\]（26 - 38話）
     作詞・作曲・歌 - [アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink") / 編曲 - [松岡モトキ](https://ja.wikipedia.org/wiki/松岡基樹 "wikilink") & アンジェラ・アキ
   - 「[Brand New Map](https://ja.wikipedia.org/wiki/Brand_New_Map "wikilink")」\[12\]（39 - 49話）
-    作詞 - [立田野純](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") / 作曲 - [和田昌哉](https://ja.wikipedia.org/wiki/和田昌哉 "wikilink") / 編曲 - [Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")、和田昌哉 / 歌 - [K](../Page/K_\(歌手\).md "wikilink")
+    作詞 - [立田野純](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") / 作曲 - [和田昌哉](https://ja.wikipedia.org/wiki/和田昌哉 "wikilink") / 編曲 - [Jin Nakamura](../Page/Jin_Nakamura.md "wikilink")、和田昌哉 / 歌 - [K](../Page/K_\(歌手\).md "wikilink")
 
 ## 各話リスト
 

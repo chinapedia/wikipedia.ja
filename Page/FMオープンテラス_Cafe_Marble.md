@@ -9,7 +9,7 @@
 
 番組は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")内各地からの生中継や[公開生放送を実施していた](../Page/公開放送.md "wikilink")。金曜日には12:00 - 12:50に[Date fmの](../Page/エフエム仙台.md "wikilink")『[ザ・ラジオ〜心のコミュニケーションを大切に〜](https://ja.wikipedia.org/wiki/ザ・ラジオ〜心のコミュニケーションを大切に〜 "wikilink")』が放送されていたので本番組の放送は無かったが、代わりに11:30 - 11:55に25分バージョンの『**FMオープンテラス Mini Marble**』（エフエムオープンテラス ミニマーブル）が放送されていた\[1\]。
 
-番組の終了後、この時間帯は[JFN系番組](../Page/全国FM放送協議会.md "wikilink")『[Switch\!](../Page/Switch!.md "wikilink")』のネット受け枠に切り替えられた。これにより、平日の自社製作ワイド番組は夕方に放送の『[IT'S MY RADIO\!](https://ja.wikipedia.org/wiki/IT'S_MY_RADIO! "wikilink")』のみとなった。
+番組の終了後、この時間帯は[JFN系番組](../Page/全国FM放送協議会.md "wikilink")『[Switch\!](../Page/Switch!.md "wikilink")』のネット受け枠に切り替えられた。これにより、平日の自社製作ワイド番組は夕方に放送の『[IT'S MY RADIO\!](../Page/IT'S_MY_RADIO!.md "wikilink")』のみとなった。
 
 ## 出演者
 

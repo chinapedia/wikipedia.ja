@@ -24,7 +24,7 @@
       - [iPhoto](https://ja.wikipedia.org/wiki/iPhoto "wikilink")
       - [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")
   - [Final Cut](https://ja.wikipedia.org/wiki/Final_Cut "wikilink")
-      - [Final Cut Studio](https://ja.wikipedia.org/wiki/Final_Cut_Studio "wikilink")
+      - [Final Cut Studio](../Page/Final_Cut_Studio.md "wikilink")
           - [Final Cut Pro](../Page/Final_Cut_Pro.md "wikilink")
           - [DVD Studio Pro](https://ja.wikipedia.org/wiki/DVD_Studio_Pro "wikilink")
       - [Final Cut Express](https://ja.wikipedia.org/wiki/Final_Cut_Express "wikilink")

@@ -36,7 +36,7 @@
   - キャロル・ハーミソン - フランシス・バーバー（[弥永和子](../Page/弥永和子.md "wikilink")）
   - マル・ブライスウェイト - ゲイリー・ルイス（[原康義](../Page/原康義.md "wikilink")）
   - アイヴス - レスリー・ランドール（[藤本譲](../Page/藤本譲.md "wikilink")）
-  - クリスティーナ - [カサンドラ・ベル](https://ja.wikipedia.org/wiki/カサンドラ・ベル "wikilink")（[きのしたゆうこ](https://ja.wikipedia.org/wiki/きのしたゆうこ "wikilink")）
+  - クリスティーナ - [カサンドラ・ベル](https://ja.wikipedia.org/wiki/カサンドラ・ベル "wikilink")（[きのしたゆうこ](../Page/きのしたゆうこ.md "wikilink")）
 
 <!-- end list -->
 

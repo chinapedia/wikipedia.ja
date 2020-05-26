@@ -89,7 +89,7 @@
   - キャラクターデザイン・作画監修 - [前田実](../Page/前田実.md "wikilink")
   - 作画監督 - [中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、佐藤正樹
   - 監督 - [橋本光夫](https://ja.wikipedia.org/wiki/橋本みつお "wikilink")
-  - 原画 - [海老沢幸男](https://ja.wikipedia.org/wiki/海老沢幸男 "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[石浜まさし](../Page/石浜真史.md "wikilink")、[北爪宏幸](../Page/北爪宏幸.md "wikilink") 他
+  - 原画 - [海老沢幸男](../Page/海老沢幸男.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[石浜まさし](../Page/石浜真史.md "wikilink")、[北爪宏幸](../Page/北爪宏幸.md "wikilink") 他
   - 口笛奏者 - 上柴はじめ
   - 宣伝協力 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 

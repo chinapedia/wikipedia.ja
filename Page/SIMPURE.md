@@ -67,7 +67,7 @@
   - 外部メモリーは非対応。
   - カメラは有効・記録ともに約131万画素[CMOS](../Page/CMOSイメージセンサ.md "wikilink")。ヒンジ部に搭載されており、回転させることが出来る。
 
-### [SIMPURE N1](https://ja.wikipedia.org/wiki/SIMPURE_N1 "wikilink") (N601i)
+### [SIMPURE N1](../Page/SIMPURE_N1.md "wikilink") (N601i)
 
   - NEC製。
   - 折りたたみ式。「ナチュラルスクエアフォルム」という、[直方体](../Page/直方体.md "wikilink")に近い、持ちやすい形状。

@@ -1,7 +1,7 @@
 > この記事は[Pinkの遺伝子](https://ja.wikipedia.org/wiki/Pinkの遺伝子)から翻訳されています。
 
 
-『**Pinkの遺伝子**』（ピンクのいでんし）は、[講談社](../Page/講談社.md "wikilink")発行の少女[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[別冊フレンド](../Page/別冊フレンド.md "wikilink")」に連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。全7巻。原作は[柚月純](https://ja.wikipedia.org/wiki/柚月純 "wikilink")。
+『**Pinkの遺伝子**』（ピンクのいでんし）は、[講談社](../Page/講談社.md "wikilink")発行の少女[漫画雑誌](../Page/漫画雑誌.md "wikilink")「[別冊フレンド](../Page/別冊フレンド.md "wikilink")」に連載されていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。全7巻。原作は[柚月純](https://ja.wikipedia.org/wiki/柚月純 "wikilink")。
 
 ## 作品概要
 

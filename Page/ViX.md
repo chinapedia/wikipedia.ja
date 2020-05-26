@@ -5,7 +5,7 @@
 
 ## 概要
 
-中核となるのは画像の[サムネイル](../Page/サムネイル.md "wikilink")表示を行う[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")で、レイアウトは初期状態で[Windows Explorerと同様の](../Page/Windows_Explorer.md "wikilink")[ディレクトリ](../Page/ディレクトリ.md "wikilink")・ツリー表示ももつほか、設定により「イメージビュー」「プロパティビュー」｢パーソナルビュー｣の[ペインを同時表示可能であり](https://ja.wikipedia.org/wiki/ペインド・ウィンドウ "wikilink")、それぞれ画像のプレビュー、[EXIF情報表示画面](../Page/Exchangeable_image_file_format.md "wikilink")、[ショートカット](https://ja.wikipedia.org/wiki/ショートカット "wikilink")として機能する。圧縮ファイルの閲覧・解凍・作成、[ファイル名](../Page/ファイル名.md "wikilink")の[連番](https://ja.wikipedia.org/wiki/連番 "wikilink")指定や[画像形式](https://ja.wikipedia.org/wiki/画像形式 "wikilink")の一括変換など高度なファイル管理機能も備える\[7\]\[8\]\[9\]。
+中核となるのは画像の[サムネイル](../Page/サムネイル.md "wikilink")表示を行う[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")で、レイアウトは初期状態で[Windows Explorerと同様の](../Page/Windows_Explorer.md "wikilink")[ディレクトリ](../Page/ディレクトリ.md "wikilink")・ツリー表示ももつほか、設定により「イメージビュー」「プロパティビュー」｢パーソナルビュー｣の[ペインを同時表示可能であり](https://ja.wikipedia.org/wiki/ペインド・ウィンドウ "wikilink")、それぞれ画像のプレビュー、[EXIF情報表示画面](../Page/Exchangeable_image_file_format.md "wikilink")、[ショートカット](https://ja.wikipedia.org/wiki/ショートカット "wikilink")として機能する。圧縮ファイルの閲覧・解凍・作成、[ファイル名](../Page/ファイル名.md "wikilink")の[連番](https://ja.wikipedia.org/wiki/連番 "wikilink")指定や[画像形式](https://ja.wikipedia.org/wiki/画像形式 "wikilink")の一括変換など高度なファイル管理機能も備える\[7\]\[8\]\[9\]。
 
 [サムネイル](../Page/サムネイル.md "wikilink")をダブルクリックすると画像ウインドウが開き、フルサイズで表示される。画像ウインドウでは[スライドショー](../Page/スライドショー.md "wikilink")や画像の[印刷](../Page/印刷.md "wikilink")、拡大縮小などの基本的な機能のほか、[トリミング](../Page/トリミング_\(写真\).md "wikilink")、リサイズ、色調変換、回転、連結など、簡単な画像編集もできる\[10\]\[11\]\[12\]。
 

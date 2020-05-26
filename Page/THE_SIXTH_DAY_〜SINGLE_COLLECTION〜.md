@@ -6,7 +6,7 @@
 ## 概要
 
   - Gacktとしては、初のベストアルバムで1枚目のシングル・コレクションである。本作品発売から、6年後に2作目のシングルコレクションとなる『[THE ELEVENTH DAY 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/THE_ELEVENTH_DAY_〜SINGLE_COLLECTION〜 "wikilink")』が発売された。また、付属のブックレットには[東條雅人](https://ja.wikipedia.org/wiki/東條雅人 "wikilink")による文章が掲載されている。
-  - 今回はGacktがソロデビューしてから発表された1stシングル「[Mizérable](https://ja.wikipedia.org/wiki/Mizerable_\(GACKTの曲\) "wikilink")」から16thシングル「[Last Song](https://ja.wikipedia.org/wiki/Last_Song_\(Gacktの曲\) "wikilink")」までのシングルが再収録された。ただし、10thシングル「[12月のLove song](../Page/12月のLove_song.md "wikilink")」と12thシングル「[12月のLove song / December Love](../Page/12月のLove_song.md "wikilink")」は収録されていない。また、全曲とも本作用にリミックスあるいはリテイクが施されている。
+  - 今回はGacktがソロデビューしてから発表された1stシングル「[Mizérable](https://ja.wikipedia.org/wiki/Mizerable_\(GACKTの曲\) "wikilink")」から16thシングル「[Last Song](../Page/Last_Song_\(Gacktの曲\).md "wikilink")」までのシングルが再収録された。ただし、10thシングル「[12月のLove song](../Page/12月のLove_song.md "wikilink")」と12thシングル「[12月のLove song / December Love](../Page/12月のLove_song.md "wikilink")」は収録されていない。また、全曲とも本作用にリミックスあるいはリテイクが施されている。
 
 ## 収録曲
 
@@ -31,12 +31,12 @@
     <!-- end list -->
       -
         13thシングルの表題曲。
-5.  **[忘れないから](https://ja.wikipedia.org/wiki/忘れないから "wikilink")** (4:43)
+5.  **[忘れないから](../Page/忘れないから.md "wikilink")** (4:43)
       - 作詞: Gackt.C、作曲: Gackt.C、編曲: Gackt.C, chachamaru
     <!-- end list -->
       -
         11thシングルの表題曲。
-6.  **[月の詩](https://ja.wikipedia.org/wiki/月の詩 "wikilink")** (4:47)
+6.  **[月の詩](../Page/月の詩.md "wikilink")** (4:47)
       - 作詞: Gackt.C、作曲: Gackt.C、編曲: Gackt.C, chachamaru
     <!-- end list -->
       -
@@ -63,7 +63,7 @@
       -
         15thシングル「Lu:na/OASIS」の1曲目。元がシングル曲ではない唯一の楽曲(3rdアルバム『[MOON](../Page/MOON_\(GACKTのアルバム\).md "wikilink")』発売後、この曲が4thシングルと共に、OVA『[新・北斗の拳](https://ja.wikipedia.org/wiki/小説・北斗の拳-呪縛の街- "wikilink")』の主題歌にタイアップされることを受け、シングルとして改めてリリースされることになったため)。
         イントロが新たに録り直されている。
-11. **[Last Song](https://ja.wikipedia.org/wiki/Last_Song_\(Gacktの曲\) "wikilink")** (4:46)
+11. **[Last Song](../Page/Last_Song_\(Gacktの曲\).md "wikilink")** (4:46)
       - 作詞: Gackt.C、作曲: Gackt.C、編曲: Gackt.C, chachamaru
     <!-- end list -->
       -

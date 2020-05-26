@@ -11,7 +11,7 @@
 
 1995年、新加入の[トロント・ラプターズ](../Page/トロント・ラプターズ.md "wikilink")に[エクスパンション・ドラフト](../Page/エクスパンション・ドラフト.md "wikilink")で指名されたが入団を拒否、[ゴールデンステート・ウォリアーズ](../Page/ゴールデンステート・ウォリアーズ.md "wikilink")に移籍して2年間プレイした。
 
-1997年、シーズン開幕後4試合プレイした後、[マグシー・ボーグス](https://ja.wikipedia.org/wiki/マグシー・ボーグス "wikilink")、[トニー・デルク](https://ja.wikipedia.org/wiki/トニー・デルク "wikilink")との交換で[シャーロット・ホーネッツにトレードされた](https://ja.wikipedia.org/wiki/ニューオーリンズ・ホーネッツ "wikilink")。その後1999年3月10日、[グレン・ライス](../Page/グレン・ライス.md "wikilink")、[J・R・リード](https://ja.wikipedia.org/wiki/J・R・リード "wikilink")と共に[ロサンゼルス・レイカーズ](../Page/ロサンゼルス・レイカーズ.md "wikilink")の[エディー・ジョーンズ](../Page/エディー・ジョーンズ_\(バスケットボール\).md "wikilink")、[エルデン・キャンベル](https://ja.wikipedia.org/wiki/エルデン・キャンベル "wikilink")とトレードされたがレイカーズにより即日[ウェイバー公示](../Page/ウェイバー公示.md "wikilink")されて3月14日に[オーランド・マジック](../Page/オーランド・マジック.md "wikilink")と契約を交わした。同年8月30日、彼は2度の栄光が終わり再建途上にあるブルズに復帰し1シーズンプレイした。
+1997年、シーズン開幕後4試合プレイした後、[マグシー・ボーグス](../Page/マグシー・ボーグス.md "wikilink")、[トニー・デルク](https://ja.wikipedia.org/wiki/トニー・デルク "wikilink")との交換で[シャーロット・ホーネッツにトレードされた](https://ja.wikipedia.org/wiki/ニューオーリンズ・ホーネッツ "wikilink")。その後1999年3月10日、[グレン・ライス](../Page/グレン・ライス.md "wikilink")、[J・R・リード](https://ja.wikipedia.org/wiki/J・R・リード "wikilink")と共に[ロサンゼルス・レイカーズ](../Page/ロサンゼルス・レイカーズ.md "wikilink")の[エディー・ジョーンズ](../Page/エディー・ジョーンズ_\(バスケットボール\).md "wikilink")、[エルデン・キャンベル](https://ja.wikipedia.org/wiki/エルデン・キャンベル "wikilink")とトレードされたがレイカーズにより即日[ウェイバー公示](../Page/ウェイバー公示.md "wikilink")されて3月14日に[オーランド・マジック](../Page/オーランド・マジック.md "wikilink")と契約を交わした。同年8月30日、彼は2度の栄光が終わり再建途上にあるブルズに復帰し1シーズンプレイした。
 
 現役引退後、ブルズのフロントに入り、[ゼネラルマネージャー](../Page/ゼネラルマネージャー.md "wikilink")、[ジェリー・クラウス](https://ja.wikipedia.org/wiki/ジェリー・クラウス "wikilink")の補佐をした。2003年にゼネラルマネージャーにジョン・パクソンが就任したときも、彼はチームに2年間留まり2005年に退団した。
 

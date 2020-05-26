@@ -37,7 +37,7 @@ SINPOコードは、ITUにより受信状態を記述する分類としてITU-R 
 <th><p>混信</p></th>
 <th><p>雑音</p></th>
 <th><p>伝播障害</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/フェージング" title="wikilink">フェーディング周期</a></p></th>
+<th><p><a href="../Page/フェージング.md" title="wikilink">フェーディング周期</a></p></th>
 <th><p>変調の質</p></th>
 <th><p>変調の深度</p></th>
 <th><p>総合評価</p></th>

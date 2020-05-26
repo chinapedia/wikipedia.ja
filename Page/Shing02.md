@@ -143,7 +143,7 @@
 17. [jizue](https://ja.wikipedia.org/wiki/jizue "wikilink")「shiori」(2014/8/6)
       - 7\. 真黒 feat.Shing02
 18. [DJ Deckstream](../Page/DJ_Deckstream.md "wikilink")「DRESS CODE」(2014/12/10)
-      - 1\. Young World feat. [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")) & Shing02
+      - 1\. Young World feat. [VERBAL](../Page/VERBAL.md "wikilink")([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")) & Shing02
 
 ## CM
 

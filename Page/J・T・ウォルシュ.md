@@ -351,7 +351,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カラー・オブ・ハート" title="wikilink">カラー・オブ・ハート</a><br />
+<td><p><a href="../Page/カラー・オブ・ハート.md" title="wikilink">カラー・オブ・ハート</a><br />
 <em>Pleasantville</em></p></td>
 <td><p>ビッグ・ボブ</p></td>
 <td></td>

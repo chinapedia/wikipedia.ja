@@ -394,7 +394,7 @@
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/罪と罰_A_Falsified_Romance" title="wikilink">罪と罰 A Falsified Romance</a></p></td>
+<td><p><a href="../Page/罪と罰_A_Falsified_Romance.md" title="wikilink">罪と罰 A Falsified Romance</a></p></td>
 <td><p>4月29日 - 6月3日</p></td>
 <td><p>全6回</p></td>
 <td><p>麻生学</p></td>
@@ -838,7 +838,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/権野元" title="wikilink">権野元</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺千穂" title="wikilink">渡辺千穂</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松雪泰子" title="wikilink">松雪泰子</a>、<a href="https://ja.wikipedia.org/wiki/ミムラ_(女優)" title="wikilink">ミムラ</a>、<a href="https://ja.wikipedia.org/wiki/西田尚美" title="wikilink">西田尚美</a>、<a href="https://ja.wikipedia.org/wiki/麻生祐未" title="wikilink">麻生祐未</a>、<a href="https://ja.wikipedia.org/wiki/小池栄子" title="wikilink">小池栄子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/真梨幸子" title="wikilink">真梨幸子</a></p></td>
+<td><p><a href="../Page/真梨幸子.md" title="wikilink">真梨幸子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1191,7 +1191,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/清水友佳子" title="wikilink">清水友佳子</a><br />
 <a href="https://ja.wikipedia.org/wiki/吉川菜美" title="wikilink">吉川菜美</a><br />
 藤澤浩和</p></td>
-<td><p><a href="../Page/寺島しのぶ.md" title="wikilink">寺島しのぶ</a>、<a href="https://ja.wikipedia.org/wiki/足立梨花" title="wikilink">足立梨花</a>、<a href="https://ja.wikipedia.org/wiki/清原果耶" title="wikilink">清原果耶</a>、中村ゆり、倉科カナ、伊藤歩</p></td>
+<td><p><a href="../Page/寺島しのぶ.md" title="wikilink">寺島しのぶ</a>、<a href="../Page/足立梨花.md" title="wikilink">足立梨花</a>、<a href="https://ja.wikipedia.org/wiki/清原果耶" title="wikilink">清原果耶</a>、中村ゆり、倉科カナ、伊藤歩</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/湊かなえ" title="wikilink">湊かなえ</a></p></td>
 <td></td>
 </tr>

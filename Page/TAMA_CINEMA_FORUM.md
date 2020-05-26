@@ -992,7 +992,7 @@
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2000年9月17日</p></td>
-<td><p>僕らは21世紀のシネアスト 〜大学映研編 <a href="https://ja.wikipedia.org/wiki/千葉大学" title="wikilink">千葉大学</a>シネマウント VS <a href="https://ja.wikipedia.org/wiki/成城大学" title="wikilink">成城大学</a>映画研究部〜</p></td>
+<td><p>僕らは21世紀のシネアスト 〜大学映研編 <a href="https://ja.wikipedia.org/wiki/千葉大学" title="wikilink">千葉大学</a>シネマウント VS <a href="../Page/成城大学.md" title="wikilink">成城大学</a>映画研究部〜</p></td>
 <td><p>【千葉大学シネマウント作品】<br />
 「ロボのひと」「WITH」「GAME OVER」「ある日ある町で」「三月」<br />
 【成城大学映画研究部作品】<br />

@@ -70,7 +70,7 @@
     声 - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
     迅雷、疾風を運用する部隊の現場指揮官。
   - 別府
-    声 - [勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")
+    声 - [勝沼紀義](../Page/勝沼紀義.md "wikilink")
   - 岩室
     声 - [風間勇刀](../Page/風間勇刀.md "wikilink")
   - 山田
@@ -301,7 +301,7 @@
 ## 主題歌
 
   - オープニングテーマ「[manacles](https://ja.wikipedia.org/wiki/Van. "wikilink")」
-    作詞 - sheena、[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink") / 作曲 - [Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink") / 編曲 - 西川レオ / 歌 - 伴都美子
+    作詞 - sheena、[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink") / 作曲 - [Jin Nakamura](../Page/Jin_Nakamura.md "wikilink") / 編曲 - 西川レオ / 歌 - 伴都美子
   - エンディングテーマ「[駆け足の生き様](../Page/天までとどけ_\(アルバム\).md "wikilink")」
     歌・作詞・作曲 - [中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink") / 編曲 - [浦清英](../Page/浦清英.md "wikilink")
 

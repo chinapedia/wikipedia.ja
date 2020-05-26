@@ -1,11 +1,11 @@
 > この記事は[中京テレビNewsリアルタイム](https://ja.wikipedia.org/wiki/中京テレビNewsリアルタイム)から翻訳されています。
 
 
-『**中京テレビNEWSリアルタイム**』（ちゅうきょうテレビニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[中京テレビ](../Page/中京テレビ放送.md "wikilink")（CTV）で放送されていた夕方の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[中京広域圏](https://ja.wikipedia.org/wiki/中京広域圏 "wikilink")（[東海3県](../Page/東海3県.md "wikilink")）ローカル版。前番組は『[中京テレビニュースプラス1](../Page/中京テレビニュースプラス1.md "wikilink")』、後番組は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』[中京テレビローカルパート](https://ja.wikipedia.org/wiki/news_every._\(中京テレビ\) "wikilink")。
+『**中京テレビNEWSリアルタイム**』（ちゅうきょうテレビニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[中京テレビ](../Page/中京テレビ放送.md "wikilink")（CTV）で放送されていた夕方の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』の[中京広域圏](https://ja.wikipedia.org/wiki/中京広域圏 "wikilink")（[東海3県](../Page/東海3県.md "wikilink")）ローカル版。前番組は『[中京テレビニュースプラス1](../Page/中京テレビニュースプラス1.md "wikilink")』、後番組は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』[中京テレビローカルパート](https://ja.wikipedia.org/wiki/news_every._\(中京テレビ\) "wikilink")。
 
 ## 概要
 
-[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[NNN NEWS PLUS1](../Page/NNNニュースプラス1.md "wikilink")』が終了し、急遽『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』としてスタートさせることとなった。そのため、中京テレビも日テレに合わせて急遽夕方のニュース番組を新しくすることとなった。しかし、『プラス1』は2005年11月にリニューアルしたばかりだったため、わずか4か月での再リニューアルとなった。そのため、キャスター陣の続投やスタジオセット、タイムテーブルは、基本的には前番組のを踏襲する形をとっている（日テレも同じく前番組を踏襲する形となっている）。
+[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[NNN NEWS PLUS1](../Page/NNNニュースプラス1.md "wikilink")』が終了し、急遽『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』としてスタートさせることとなった。そのため、中京テレビも日テレに合わせて急遽夕方のニュース番組を新しくすることとなった。しかし、『プラス1』は2005年11月にリニューアルしたばかりだったため、わずか4か月での再リニューアルとなった。そのため、キャスター陣の続投やスタジオセット、タイムテーブルは、基本的には前番組のを踏襲する形をとっている（日テレも同じく前番組を踏襲する形となっている）。
 
 ## 内容の傾向
 
@@ -15,7 +15,7 @@
 
 ### 2006年9月のリニューアル
 
-同年9月4日から16:48スタートに約1時間拡大、3部構成となる。第1部（17時台前半）と第3部（[全国ニュース以降の](../Page/報道番組.md "wikilink")18時台）はニュースをメインに、第2部（17時台後半）はニュース以外の情報をメインにする構成となった。全国ニュース（17:50 - 18:16）のみネットしていた日本テレビからの『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』については、新たに17時台のニュースと芸能コーナー「リアルエンタメ」のネットを開始。ローカル枠については、主婦層をターゲットに生活・グルメ情報をメインにした新コーナー「楽ナビ」が第2部でスタート。『[クスクス](../Page/クスクス_\(テレビ番組\).md "wikilink")』などの情報番組を担当してきた[本田恵美](../Page/本田恵美.md "wikilink")が中継リポーターとして登場するなど、情報番組としての側面を強くした。ちなみに、7月と8月の各1回に16:48スタートで拡大スペシャルが放送されたが、この時のタイムテーブルが、今回のリニューアル時のタイムテーブルとほぼ同じである。このことから、拡大スペシャルはこのリニューアルのシミュレーションを兼ねていたものと思われる。このリニューアルにより、夕方ニュース時間帯で放送開始時間が[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")を抜いて在名局で一番早くなり、放送時間も一番長くなった。また、夕方のニュース番組が元々17時台の[テレビ愛知](../Page/テレビ愛知.md "wikilink")を除くと、[東海テレビ以外の在名局の夕方のニュース番組は](../Page/東海テレビ放送.md "wikilink")2時間で放送することとなった。
+同年9月4日から16:48スタートに約1時間拡大、3部構成となる。第1部（17時台前半）と第3部（[全国ニュース以降の](../Page/報道番組.md "wikilink")18時台）はニュースをメインに、第2部（17時台後半）はニュース以外の情報をメインにする構成となった。全国ニュース（17:50 - 18:16）のみネットしていた日本テレビからの『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』については、新たに17時台のニュースと芸能コーナー「リアルエンタメ」のネットを開始。ローカル枠については、主婦層をターゲットに生活・グルメ情報をメインにした新コーナー「楽ナビ」が第2部でスタート。『[クスクス](../Page/クスクス_\(テレビ番組\).md "wikilink")』などの情報番組を担当してきた[本田恵美](../Page/本田恵美.md "wikilink")が中継リポーターとして登場するなど、情報番組としての側面を強くした。ちなみに、7月と8月の各1回に16:48スタートで拡大スペシャルが放送されたが、この時のタイムテーブルが、今回のリニューアル時のタイムテーブルとほぼ同じである。このことから、拡大スペシャルはこのリニューアルのシミュレーションを兼ねていたものと思われる。このリニューアルにより、夕方ニュース時間帯で放送開始時間が[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")を抜いて在名局で一番早くなり、放送時間も一番長くなった。また、夕方のニュース番組が元々17時台の[テレビ愛知](../Page/テレビ愛知.md "wikilink")を除くと、[東海テレビ以外の在名局の夕方のニュース番組は](../Page/東海テレビ放送.md "wikilink")2時間で放送することとなった。
 
 2007年8月6日、「地域密着」を視野に入れた小規模なリニューアルを実施。17時台ニュースのネットを打ち切り（ニュース1、2本を録画放送に変更）、「楽ナビ」の枠を拡大し、日テレの17時台特集コーナー「リアル目線」の時差ネットを開始するなど、17時台のタイムテーブルを変更した。しかし、実験的な変更だったのか同年9月に、タイムテーブルが再び2006年9月のリニューアル時のタイムテーブルに戻った。
 
@@ -112,7 +112,7 @@
 #### 月曜日 - 木曜日
 
   - 16:49 中京テレビ出しのオープニング、ニュース - 中京テレビのスタジオからスタートする。
-  - 16:53 [Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink") - [日本テレビからニュース](../Page/日本テレビ放送網.md "wikilink")、「リアルエンタメ」を放送。
+  - 16:53 [Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink") - [日本テレビからニュース](../Page/日本テレビ放送網.md "wikilink")、「リアルエンタメ」を放送。
   - 17:20頃 リアルウオッチ
   - 17:35頃 ローカルニュース、ヘッドライン※
   - 17:45頃 リアルエンタメ - ただし、放送するのは一部であり、全部は放送されなかった。
@@ -123,7 +123,7 @@
 #### 金曜日
 
   - 16:49 中京テレビ出しのオープニング、ローカルニュース、ヘッドライン - 中京テレビのスタジオからスタートする。
-  - 17:00 [Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink") - 日本テレビからニュース、「リアルエンタメ」を放送。
+  - 17:00 [Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink") - 日本テレビからニュース、「リアルエンタメ」を放送。
   - 17:20頃 マル秘ウオッチ永田町
   - 17:37頃 東海地方の天気予報
   - 17:40頃 リアルエンタメ - 再び日本テレビからの放送。
@@ -131,7 +131,7 @@
 
 ### 平日18時台
 
-  - 17:50 [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")（[全国ニュース](../Page/報道番組.md "wikilink")、[NNN系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[全国ネット枠](../Page/ニュース系列.md "wikilink")）
+  - 17:50 [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")（[全国ニュース](../Page/報道番組.md "wikilink")、[NNN系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[全国ネット枠](../Page/ニュース系列.md "wikilink")）
   - 18:16 ローカルニュース
   - 18:17頃 その日の気になるニュース1本 - これ以降の時間帯では、日によってはタイムテーブルが変動するケースもあった。
   - 18:20頃 特集 - 「カラクリ」「リアルタイム特集」「激撮リアル」のいずれかを放送。
@@ -154,7 +154,7 @@
 #### 月曜日 - 木曜日
 
   - 16:48 オープニング、ニュース - 16:52頃に、このあとの予告をする場合があった。
-  - 16:53 [Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink") - 日本テレビからのニュースを放送。
+  - 16:53 [Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink") - 日本テレビからのニュースを放送。
   - 17:20頃 ニュース、天気予報、楽ナビ
   - 17:40頃 リアルエンタメ - 日本テレビから芸能情報を放送。都合上、基本的には日本テレビより数分遅れの同日時差ネット。
   - 17:49頃 中京テレビのスタジオから後半の特集の紹介 - 時間の都合上、実施しない場合もあった。
@@ -170,7 +170,7 @@
 
 ### 平日18時台
 
-  - 17:50 [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")（[全国ニュース](../Page/報道番組.md "wikilink")、[NNN系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[全国ネット枠](../Page/ニュース系列.md "wikilink")）
+  - 17:50 [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")（[全国ニュース](../Page/報道番組.md "wikilink")、[NNN系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[全国ネット枠](../Page/ニュース系列.md "wikilink")）
   - 18:16 ローカルニュース
   - 18:20頃 特集（激撮リアル）
   - 18:45頃 天気予報
@@ -322,7 +322,7 @@
 
 ## 関連項目
 
-  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
+  - [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")
   - [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")
   - [ウォッチ・ザ・にっぽん列島](../Page/ウォッチ・ザ・にっぽん列島.md "wikilink")
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")

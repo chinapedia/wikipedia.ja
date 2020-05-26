@@ -59,7 +59,7 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
       - [9月19日](../Page/9月19日.md "wikilink") 下北沢251のライブより新ギタリストにNISHI加入。
   - [2004年](../Page/2004年.md "wikilink")
       - [3月3日](../Page/3月3日.md "wikilink") インフィニティレコードよりMaxiシングル「BRIDGE」を発売。FM802のプライムヒッツに選ばれる。
-      - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") 六本木morph-tokyoにて東京では初のASIAN2主催イベント"5000 Monroes Night vol.1"を開催。
+      - [6月2日](../Page/6月2日.md "wikilink") 六本木morph-tokyoにて東京では初のASIAN2主催イベント"5000 Monroes Night vol.1"を開催。
       - [9月19日](../Page/9月19日.md "wikilink") 松本ALECXワンマンライブをもって、ギターNISHIが音楽性の相違により脱退。
       - [9月24日](../Page/9月24日.md "wikilink") 渋谷VUENOSのライブより、NEWギタリストKENSUKEが加入。
   - [2005年](../Page/2005年.md "wikilink")

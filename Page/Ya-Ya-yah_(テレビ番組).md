@@ -80,7 +80,7 @@
   - 都道府県検索
     G-1選手権
     公開オーディション
-    2004年8月12日にジャニーズJr.の公開オーディションを行った。そのオーディションからは、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")、[橋本良亮](https://ja.wikipedia.org/wiki/橋本良亮 "wikilink")、[阿部亮平](../Page/阿部亮平_\(ジャニーズ\).md "wikilink")、[深澤辰哉](../Page/深澤辰哉.md "wikilink")らを生み出した。また、不合格者に[PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")のメンバーを務めている[島田翼](https://ja.wikipedia.org/wiki/島田翼 "wikilink")（[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属）らがいる。
+    2004年8月12日にジャニーズJr.の公開オーディションを行った。そのオーディションからは、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")、[橋本良亮](../Page/橋本良亮.md "wikilink")、[阿部亮平](../Page/阿部亮平_\(ジャニーズ\).md "wikilink")、[深澤辰哉](../Page/深澤辰哉.md "wikilink")らを生み出した。また、不合格者に[PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")のメンバーを務めている[島田翼](https://ja.wikipedia.org/wiki/島田翼 "wikilink")（[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属）らがいる。
 
 ## 放送局
 

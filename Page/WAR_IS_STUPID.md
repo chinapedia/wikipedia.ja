@@ -55,7 +55,7 @@
 
 ## 演出
 
-本作を製作・販売した[PojkART](../Page/PojkART.md "wikilink")は少年を主体とした[ナチュリストビデオを主として取り扱っており](../Page/ヌーディズム.md "wikilink")、それは本作も例外ではない。ナチュリスムにおける思想哲学は、[レクリエーション](https://ja.wikipedia.org/wiki/レクリエーション "wikilink")の先にある[平和主義](https://ja.wikipedia.org/wiki/平和主義 "wikilink")にも通じる概念は確かに存在していると言え、その意味では本作の主張するものはあるだろう。
+本作を製作・販売した[PojkART](../Page/PojkART.md "wikilink")は少年を主体とした[ナチュリストビデオを主として取り扱っており](../Page/ヌーディズム.md "wikilink")、それは本作も例外ではない。ナチュリスムにおける思想哲学は、[レクリエーション](https://ja.wikipedia.org/wiki/レクリエーション "wikilink")の先にある[平和主義](../Page/平和主義.md "wikilink")にも通じる概念は確かに存在していると言え、その意味では本作の主張するものはあるだろう。
 
 一方、[PojkART](../Page/PojkART.md "wikilink")は[少年愛](../Page/少年愛.md "wikilink")者を強く意識した作品を多く発表しており、これもまた本作は例外とは言えない。それは単に出演するメインキャストのすべてが少年で構成されていることに留まらず、本編中3場面存在する歴代の戦争シーンでは、それを演じる彼らは衣装こそそれらの場面を象徴するものであるものの、その衣装を纏うのが[上半身](https://ja.wikipedia.org/wiki/上半身 "wikilink")だけであることからも窺える。
 
@@ -90,7 +90,7 @@
 ## 関連項目
 
   - [反戦運動](../Page/反戦運動.md "wikilink")
-  - [平和主義](https://ja.wikipedia.org/wiki/平和主義 "wikilink")
+  - [平和主義](../Page/平和主義.md "wikilink")
   - [ヌーディズム](../Page/ヌーディズム.md "wikilink")
   - [少年性愛](../Page/少年性愛.md "wikilink")（性嗜好としての少年愛）
 

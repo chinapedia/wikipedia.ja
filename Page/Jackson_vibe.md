@@ -167,7 +167,7 @@
 <li>LIFE[4:38]（作詞・作曲：グローバー義和／編曲：Jackson vibe）
 <dl>
 <dt></dt>
-<dd><a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">日本テレビ系</a> 「<a href="https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム" title="wikilink">NNN Newsリアルタイム</a>」 エンタメSPORTSテーマソング。
+<dd><a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">日本テレビ系</a> 「<a href="../Page/NNN_Newsリアルタイム.md" title="wikilink">NNN Newsリアルタイム</a>」 エンタメSPORTSテーマソング。
 </dd>
 </dl></li>
 <li>ピーター[3:42]（作詞・作曲：橋谷康一／編曲：Jackson vibe）</li>

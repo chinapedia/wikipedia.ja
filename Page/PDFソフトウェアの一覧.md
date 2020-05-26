@@ -75,7 +75,7 @@
 
   - [Ascertia Docs](http://docs.ascertia.com) - オンラインのPDFドキュメントの署名。
 
-  - [ApowerPDF](https://ja.wikipedia.org/wiki/ApowerPDF "wikilink") [1](https://www.apowersoft.jp/pdf-editor) - PDFの編集、変換、署名、パスワード設定、圧縮、結合機能を搭載
+  - [ApowerPDF](../Page/ApowerPDF.md "wikilink") [1](https://www.apowersoft.jp/pdf-editor) - PDFの編集、変換、署名、パスワード設定、圧縮、結合機能を搭載
 
   - [callas pdfToolbox](http://www.too.com/product/software/pdftoolbox.html)（カラス）
 

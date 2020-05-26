@@ -47,7 +47,7 @@ IASマシンの派生の例：
 
   - \- 1957年、[ミシガン州立大学](../Page/ミシガン州立大学.md "wikilink")
 
-  - \- 1961年?、アメリカ [オークリッジ国立研究所](https://ja.wikipedia.org/wiki/オークリッジ国立研究所 "wikilink")
+  - \- 1961年?、アメリカ [オークリッジ国立研究所](../Page/オークリッジ国立研究所.md "wikilink")
 
   - [ORDVAC](../Page/ORDVAC.md "wikilink") - 1951年、米陸軍 [アバディーン性能試験場](../Page/アバディーン性能試験場.md "wikilink")
 

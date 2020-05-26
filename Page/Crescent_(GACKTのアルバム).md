@@ -7,7 +7,7 @@
 
 前作『[MOON](../Page/MOON_\(GACKTのアルバム\).md "wikilink")』から続く「MOON Project」の続編として発表されたアルバム。
 
-13thシングル「[君が追いかけた夢](https://ja.wikipedia.org/wiki/君が追いかけた夢 "wikilink")」から、16thシングル「[Last Song](https://ja.wikipedia.org/wiki/Last_Song_\(Gacktの曲\) "wikilink")」の6曲(それぞれのシングルのカップリング曲含む)と、他6曲を収録。ただし、15thシングル「[Lu:na/OASIS](https://ja.wikipedia.org/wiki/Lu:na/OASIS "wikilink")」は収録されていない。また、17thシングル「[12月のLove song / 十二月的情歌](../Page/12月のLove_song.md "wikilink")」と同時発売された。
+13thシングル「[君が追いかけた夢](https://ja.wikipedia.org/wiki/君が追いかけた夢 "wikilink")」から、16thシングル「[Last Song](../Page/Last_Song_\(Gacktの曲\).md "wikilink")」の6曲(それぞれのシングルのカップリング曲含む)と、他6曲を収録。ただし、15thシングル「[Lu:na/OASIS](https://ja.wikipedia.org/wiki/Lu:na/OASIS "wikilink")」は収録されていない。また、17thシングル「[12月のLove song / 十二月的情歌](../Page/12月のLove_song.md "wikilink")」と同時発売された。
 
 このアルバムに収録された多くの曲は、[2005年](../Page/2005年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された6thアルバム『[DIABOLOS](../Page/DIABOLOS.md "wikilink")』をひっさげて行われたアルバムツアー『Gackt Live Tour 2005 DIABOLOS 〜哀婉の詩〜』にて上演された。
 
@@ -17,7 +17,7 @@
       - 作詞: Gackt.C、作曲: Gackt.C
     <!-- end list -->
       -
-        [アウトロ](../Page/アウトロ.md "wikilink")が次曲につながる構成となっている。後に、25thシングル「[Love Letter](../Page/Love_Letter_\(GACKTの曲\).md "wikilink")」にて、[リミックス](../Page/リミックス.md "wikilink")バージョンが、コンピレーション・アルバム『[0079-0088](https://ja.wikipedia.org/wiki/0079-0088 "wikilink")』と、『[ARE YOU "FRIED CHICKENz"??](https://ja.wikipedia.org/wiki/ARE_YOU_"FRIED_CHICKENz"?? "wikilink")』の2作には、それぞれミックスが異なるバージョンで収録された。
+        [アウトロ](../Page/アウトロ.md "wikilink")が次曲につながる構成となっている。後に、25thシングル「[Love Letter](../Page/Love_Letter_\(GACKTの曲\).md "wikilink")」にて、[リミックス](../Page/リミックス.md "wikilink")バージョンが、コンピレーション・アルバム『[0079-0088](../Page/0079-0088.md "wikilink")』と、『[ARE YOU "FRIED CHICKENz"??](https://ja.wikipedia.org/wiki/ARE_YOU_"FRIED_CHICKENz"?? "wikilink")』の2作には、それぞれミックスが異なるバージョンで収録された。
 2.  **mind forest** (4:24)
       - 作詞: Gackt.C、作曲: Gackt.C
     <!-- end list -->

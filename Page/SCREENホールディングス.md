@@ -70,7 +70,7 @@
   - 2006年 滋賀県彦根事業所に第2の300ミリウエハ対応半導体製造装置生産工場、第8世代対応液晶ディスプレー製造装置の生産工場を建設。
   - [2007年](../Page/2007年.md "wikilink") BRICS向け印刷版出力装置を開発。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 彦根事業所内に半導体製造プロセスの研究センターとして「プロセス技術センター」開設。
-  - 2008年 3月15日 彦根事業所敷地内に[近江鉄道](../Page/近江鉄道.md "wikilink")[多賀線](https://ja.wikipedia.org/wiki/多賀線 "wikilink")[スクリーン駅](https://ja.wikipedia.org/wiki/スクリーン駅 "wikilink")を新設。
+  - 2008年 3月15日 彦根事業所敷地内に[近江鉄道](../Page/近江鉄道.md "wikilink")[多賀線](https://ja.wikipedia.org/wiki/多賀線 "wikilink")[スクリーン駅](../Page/スクリーン駅.md "wikilink")を新設。
   - [2009年](../Page/2009年.md "wikilink") 株式会社SOKUDO（現・株式会社SCREENセミコンダクターソリューションズ）を子会社化する。
   - [2011年](../Page/2011年.md "wikilink") 東京都江東区に「ホワイトカンバス MON-NAKA」を開設。
   - [2014年](../Page/2014年.md "wikilink") 持株会社体制に移行。
@@ -94,7 +94,7 @@
 
 ## 関連項目
 
-  - [スクリーン駅](https://ja.wikipedia.org/wiki/スクリーン駅 "wikilink")
+  - [スクリーン駅](../Page/スクリーン駅.md "wikilink")
 
 ## 外部リンク
 

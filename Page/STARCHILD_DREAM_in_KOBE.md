@@ -59,7 +59,7 @@
   - 野中藍（『[さよなら絶望先生](https://ja.wikipedia.org/wiki/さよなら絶望先生_\(アニメ\) "wikilink")』でも出演）
   - [榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")
   - [浦壁多恵](../Page/浦壁多恵.md "wikilink")
-  - [井上麻里奈](../Page/井上麻里奈.md "wikilink")（『さよなら絶望先生』・『[みなみけ](https://ja.wikipedia.org/wiki/みなみけ "wikilink")』から）
+  - [井上麻里奈](../Page/井上麻里奈.md "wikilink")（『さよなら絶望先生』・『[みなみけ](../Page/みなみけ.md "wikilink")』から）
   - [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")（『さよなら絶望先生』から）
   - [新谷良子](../Page/新谷良子.md "wikilink")（同上）
   - [佐藤利奈](../Page/佐藤利奈.md "wikilink")（『みなみけ』から）

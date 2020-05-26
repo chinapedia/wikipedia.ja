@@ -165,7 +165,7 @@ Acrobat 8 Professional (CS 2.3)</p></td>
 | [Photoshop CS2](../Page/Adobe_Photoshop.md "wikilink")                      | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") |
 | [Illustrator CS2](../Page/Adobe_Illustrator.md "wikilink")                  |                                                                     | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") |
 | [Audition 2.0](../Page/Adobe_Audition.md "wikilink")                        |                                                                     | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") |
-| [Encore DVD 2.0](https://ja.wikipedia.org/wiki/Adobe_Encore "wikilink")     |                                                                     | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") |
+| [Encore DVD 2.0](../Page/Adobe_Encore.md "wikilink")                        |                                                                     | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") |
 | 共有機能、サービス、アプリケーション                                                          |                                                                     |                                                                     |
 | [Bridge](../Page/Adobe_Bridge.md "wikilink")                                | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") |
 | [Dynamic Link](https://ja.wikipedia.org/wiki/Adobe_Dynamic_Link "wikilink") | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") | [20px](https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg "wikilink") |
@@ -280,7 +280,7 @@ Acrobat 9 Pro (CS 3.3)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS3</a></p></td>
+<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS3</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -456,7 +456,7 @@ Collection</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg" title="wikilink">20px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS4</a></p></td>
+<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -633,7 +633,7 @@ Collection</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg" title="wikilink">20px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS5</a></p></td>
+<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS5</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -813,7 +813,7 @@ Collection</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg" title="wikilink">20px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS5</a></p></td>
+<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS5</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1005,7 +1005,7 @@ Cloud</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg" title="wikilink">20px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Adobe_Encore" title="wikilink">Encore CS6</a></p></td>
+<td><p><a href="../Page/Adobe_Encore.md" title="wikilink">Encore CS6</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Yes_check.svg" title="wikilink">20px</a></p></td>

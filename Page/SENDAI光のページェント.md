@@ -19,7 +19,7 @@
 
 ## 電飾の特徴とその様子
 
-[thumbから東方向の様子](https://ja.wikipedia.org/wiki/ファイル:View_of_Sendai_Pageant_of_Starlight_from_Sendai_Mediatheque\(2008\).JPG "wikilink")（2008年12月）。おおむね[落葉しているため](https://ja.wikipedia.org/wiki/落葉性 "wikilink")、上から眺めても電飾が見える。\]\]
+[thumbから東方向の様子](https://ja.wikipedia.org/wiki/ファイル:View_of_Sendai_Pageant_of_Starlight_from_Sendai_Mediatheque\(2008\).JPG "wikilink")（2008年12月）。おおむね[落葉しているため](../Page/落葉性.md "wikilink")、上から眺めても電飾が見える。\]\]
 
 ### 電球・LED
 
@@ -31,7 +31,7 @@
 
 ### 電飾法
 
-他の都市で行われているケヤキへの電飾法は、資金的な理由、あるいは、暖かい地方では[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")でも[落葉が終わらないことなどから](https://ja.wikipedia.org/wiki/落葉性 "wikilink")、木の幹から大枝沿いに豆電球またはLED付き電飾コードをくくり付ける方法である。そのため、夜陰に「冬枯れ木」の形が浮かび上がるように見える。
+他の都市で行われているケヤキへの電飾法は、資金的な理由、あるいは、暖かい地方では[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")でも[落葉が終わらないことなどから](../Page/落葉性.md "wikilink")、木の幹から大枝沿いに豆電球またはLED付き電飾コードをくくり付ける方法である。そのため、夜陰に「冬枯れ木」の形が浮かび上がるように見える。
 
 他方、仙台の場合は[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")にはケヤキの落葉がほぼ終わっているため、幹や枝沿いの他に、枝と枝の間の空中にも電飾コードを渡すことが出来る。そのため「夏季に葉が生い茂っている状態のケヤキの形」のように見える。また、概ね落葉しているために、上から眺めても電飾が見える（暖かい地方では、この時期に落葉し切っていないため、上から見ても葉が邪魔して電飾はほぼ見えない）。上からの観賞が可能なことによってSENDAI光のページェントは、[仙台七夕](../Page/仙台七夕.md "wikilink")と関連付けもあって「地上に舞い降りた[天の川](../Page/天の川.md "wikilink")\[15\]」との形容がなされ、また、沿道のビルの上階に位置する[レストラン](../Page/レストラン.md "wikilink")などが上からの眺めを売りにした観光ディナーブランを設定したり、[セスナ機](https://ja.wikipedia.org/wiki/セスナ機 "wikilink")や[ヘリコプター](../Page/ヘリコプター.md "wikilink")によるナイトフライトが観光商品として成立したりしている。
 

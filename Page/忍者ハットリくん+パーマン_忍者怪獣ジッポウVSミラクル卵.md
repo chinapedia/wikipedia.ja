@@ -56,7 +56,7 @@
 ## スタッフ
 
   - 原作：[藤子不二雄](../Page/藤子不二雄.md "wikilink")
-  - 脚本：[桜井正明](https://ja.wikipedia.org/wiki/桜井正明 "wikilink")
+  - 脚本：[桜井正明](../Page/桜井正明.md "wikilink")
   - 作画監督：[なかじまちゅうじ](../Page/なかじまちゅうじ.md "wikilink")
   - 美術監督：宮野隆
   - 撮影監督：都島雅義

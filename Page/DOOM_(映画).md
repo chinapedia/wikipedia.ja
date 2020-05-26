@@ -32,7 +32,7 @@
 
 ## スタッフ
 
-  - 監督 - [アンジェイ・バートコウィアク](https://ja.wikipedia.org/wiki/アンジェイ・バートコウィアク "wikilink")
+  - 監督 - [アンジェイ・バートコウィアク](../Page/アンジェイ・バートコウィアク.md "wikilink")
   - 製作総指揮 - ジョン・D・スコフィールド
   - 脚本 - デビット・キャラハム、[ウェズリー・ストリック](https://ja.wikipedia.org/wiki/ウェズリー・ストリック "wikilink")
   - 音楽 - [クリント・マンセル](https://ja.wikipedia.org/wiki/クリント・マンセル "wikilink")

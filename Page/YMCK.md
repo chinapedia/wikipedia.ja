@@ -157,7 +157,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/春夏秋冬_(泉谷しげるの曲)" title="wikilink">春夏秋冬</a> / <a href="../Page/泉谷しげる.md" title="wikilink">泉谷しげる</a></li>
 <li>満足できるかな / <a href="../Page/遠藤賢司.md" title="wikilink">遠藤賢司</a></li>
 <li><a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a> / <a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/今はまだ人生を語らず" title="wikilink">人生を語らず</a> / 吉田拓郎</li>
+<li><a href="../Page/今はまだ人生を語らず.md" title="wikilink">人生を語らず</a> / 吉田拓郎</li>
 <li>まるで正直者のように / <a href="../Page/友部正人.md" title="wikilink">友部正人</a>
 </div>
 </div></li>
@@ -305,7 +305,7 @@
 <li>夢</li>
 <li>Wild Wild Caravan</li>
 <li>ファミリーサーカスのテーマ</li>
-<li>Floor99 (<a href="https://ja.wikipedia.org/wiki/寺田創一" title="wikilink">Soichi Terada</a> House Remix)</li>
+<li>Floor99 (<a href="../Page/寺田創一.md" title="wikilink">Soichi Terada</a> House Remix)</li>
 <li>You Can Be A Star ( <a href="../Page/パソコン音楽クラブ.md" title="wikilink">パソコン音楽クラブ</a> Go Go General MIDI Remix)</li>
 </ol>
 </div>

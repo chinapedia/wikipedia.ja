@@ -898,7 +898,7 @@ so-to
 
 <!-- end list -->
 
-  - 柴咲コウ　[嬉々](https://ja.wikipedia.org/wiki/嬉々 "wikilink")♥ (2007年4月25日)
+  - 柴咲コウ　[嬉々](../Page/嬉々.md "wikilink")♥ (2007年4月25日)
       - 「甘いさきくさ。」に作曲で参加
 
 <!-- end list -->

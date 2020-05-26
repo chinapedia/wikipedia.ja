@@ -35,7 +35,7 @@
   - [KENKEN](../Page/KenKen.md "wikilink")（ベース）
       - 金子賢輔（現[RIZE](../Page/RIZE.md "wikilink") ）
       - 元々、FUZZY CONTROLはJUONとsatoko、そしてkenkenの構成であったが、kenkenが諸事情により脱退、残りの2人はオーディションを行い、JOEが加入する。
-  - [ジン](../Page/ジン_\(バンド\).md "wikilink")、[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")、[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、[UVERworld](../Page/UVERworld.md "wikilink")、[LAID BACK OCEAN](https://ja.wikipedia.org/wiki/LAID_BACK_OCEAN "wikilink")、[ザ・キャプテンズ](../Page/ザ・キャプテンズ.md "wikilink")、[DAITA](../Page/DAITA.md "wikilink")らと交流がある。
+  - [ジン](../Page/ジン_\(バンド\).md "wikilink")、[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")、[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")、[UVERworld](../Page/UVERworld.md "wikilink")、[LAID BACK OCEAN](https://ja.wikipedia.org/wiki/LAID_BACK_OCEAN "wikilink")、[ザ・キャプテンズ](../Page/ザ・キャプテンズ.md "wikilink")、[DAITA](../Page/DAITA.md "wikilink")らと交流がある。
 
 ## 主な活動
 

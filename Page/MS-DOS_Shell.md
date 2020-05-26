@@ -1,7 +1,7 @@
 > この記事は[MS-DOS Shell](https://ja.wikipedia.org/wiki/MS-DOS_Shell)から翻訳されています。
 
 
-**DOSシェル**(どすシェル、)は、[MS-DOS](../Page/MS-DOS.md "wikilink")および[IBM DOS (PC DOS)のバージョン](https://ja.wikipedia.org/wiki/IBM_PC_DOS "wikilink")4から標準搭載された[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")。名称はIBM DOS版では「DOSシェル」、MS-DOS版では「**MS-DOSシェル**」（）。
+**DOSシェル**(どすシェル、)は、[MS-DOS](../Page/MS-DOS.md "wikilink")および[IBM DOS (PC DOS)のバージョン](https://ja.wikipedia.org/wiki/IBM_PC_DOS "wikilink")4から標準搭載された[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")。名称はIBM DOS版では「DOSシェル」、MS-DOS版では「**MS-DOSシェル**」（）。
 
 ## 概要
 

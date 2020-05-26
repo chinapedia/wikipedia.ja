@@ -1,7 +1,7 @@
 > この記事は[Poderosa](https://ja.wikipedia.org/wiki/Poderosa)から翻訳されています。
 
 
-**Poderosa**（ポデローザ）は、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink")（[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")）で開発・公開している[タブ型リモートログオン](../Page/タブ_\(GUI\).md "wikilink")[クライアントで](../Page/クライアント_\(コンピュータ\).md "wikilink")、**Poderosa Terminal**は同一の作者が開発している有償のソフトウェア。
+**Poderosa**（ポデローザ）は、[Apache License](../Page/Apache_License.md "wikilink")（[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")）で開発・公開している[タブ型リモートログオン](../Page/タブ_\(GUI\).md "wikilink")[クライアントで](../Page/クライアント_\(コンピュータ\).md "wikilink")、**Poderosa Terminal**は同一の作者が開発している有償のソフトウェア。
 
 Poderosaは、[SSH](../Page/Secure_Shell.md "wikilink")・[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")・[Cygwin](../Page/Cygwin.md "wikilink")・Service for Unix・[シリアルの各](../Page/シリアルポート.md "wikilink")[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応し、[.NET Frameworkが](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")[インストール](../Page/インストール.md "wikilink")された[Windowsで使用できる](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Poderosa TerminalはmacOSでも使用可能。
 

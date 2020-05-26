@@ -44,7 +44,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>～<a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月.md" title="wikilink">6月</a><br />
-<a href="https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR" title="wikilink">HIGH and MIGHTY COLOR</a><br />
+<a href="../Page/HIGH_and_MIGHTY_COLOR.md" title="wikilink">HIGH and MIGHTY COLOR</a><br />
 『<strong><a href="../Page/傲音プログレッシヴ.md" title="wikilink">ガーデンオブMYハート</a></strong>』</p></td>
 </tr>
 </tbody>

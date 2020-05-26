@@ -3,7 +3,7 @@
 
 **ブラジリエンセFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")・[タグアチンガを本拠地とする](https://ja.wikipedia.org/wiki/タグアチンガ_\(ブラジリア連邦直轄区\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-[ユニフォーム](../Page/ユニフォーム.md "wikilink")が[黄色](../Page/黄色.md "wikilink")のため、ブラジリエンセのサポーターはフェブレ・アマレラ（*Febre Amarela*、[黄熱](https://ja.wikipedia.org/wiki/黄熱 "wikilink")病）と呼ばれている。ナショナルカラーである黄色と緑色を身にまとう数少ないチームである。[ライバル](../Page/ライバル.md "wikilink")は同じく連邦直轄区に本拠地を置く[SEガマ](../Page/SEガマ.md "wikilink")。
+[ユニフォーム](../Page/ユニフォーム.md "wikilink")が[黄色](../Page/黄色.md "wikilink")のため、ブラジリエンセのサポーターはフェブレ・アマレラ（*Febre Amarela*、[黄熱](../Page/黄熱.md "wikilink")病）と呼ばれている。ナショナルカラーである黄色と緑色を身にまとう数少ないチームである。[ライバル](../Page/ライバル.md "wikilink")は同じく連邦直轄区に本拠地を置く[SEガマ](../Page/SEガマ.md "wikilink")。
 
 ## 歴史
 

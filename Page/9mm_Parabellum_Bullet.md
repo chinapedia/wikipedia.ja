@@ -1525,7 +1525,7 @@ Release Party at SHIBUYA CLUB QUATTRO</strong></p></td>
 <td><p>Vol.4</p></td>
 <td><p>2007年9月9日</p></td>
 <td><p>渋谷 CLUB QUATTRO</p></td>
-<td><p><a href="../Page/OGRE_YOU_ASSHOLE.md" title="wikilink">OGRE YOU ASSHOLE</a>/<a href="https://ja.wikipedia.org/wiki/ミドリ_(バンド)" title="wikilink">ミドリ</a></p></td>
+<td><p><a href="../Page/OGRE_YOU_ASSHOLE.md" title="wikilink">OGRE YOU ASSHOLE</a>/<a href="../Page/ミドリ_(バンド).md" title="wikilink">ミドリ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

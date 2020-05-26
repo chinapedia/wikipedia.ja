@@ -87,7 +87,7 @@ hideのツアーメンバーでもあるINAだが、元々はXのレコーディ
   - 2012年 [アリス十番](https://ja.wikipedia.org/wiki/アリス十番 "wikilink") 『シンデレラ』（編曲・プログラミング・オールインスト）
   - 2012年 [スチームガールズ](https://ja.wikipedia.org/wiki/スチームガールズ "wikilink") 『未来ノヒカリ』（編曲・プログラミング・オールインスト）
   - 2012年 [Dragon Ash](../Page/Dragon_Ash.md "wikilink") 『[Run to the Sun/Walk with Dream](https://ja.wikipedia.org/wiki/Run_to_the_Sun/Walk_with_Dreams "wikilink")』（「Run to the Sun」リミックス）
-  - 2013年 [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") 『[UNDER:COVER2](https://ja.wikipedia.org/wiki/UNDER:COVER_2 "wikilink")』 （「[Burnin' X'mas](https://ja.wikipedia.org/wiki/Burnin'_X'mas "wikilink")」編曲・プログラミング・デジタル編集）
+  - 2013年 [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") 『[UNDER:COVER2](https://ja.wikipedia.org/wiki/UNDER:COVER_2 "wikilink")』 （「[Burnin' X'mas](../Page/Burnin'_X'mas.md "wikilink")」編曲・プログラミング・デジタル編集）
   - 2013年 hide TRIBUTE VII -ROCK SPIRITS-（「MISERY GLAY remixed by INA」編曲・プログラミング・デジタル編集）
   - 2013年 [defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink") 『brilliant』（「Masquerade - Im+Moral MIX -」リミックス）
 

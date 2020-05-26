@@ -104,7 +104,7 @@
 <td><p>2001年12月23日（第94話）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中江真司" title="wikilink">中江真司</a></p></td>
+<td><p><a href="../Page/中江真司.md" title="wikilink">中江真司</a></p></td>
 <td><p>2007年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/空島_(ONE_PIECE)#酋長" title="wikilink">酋長</a></p></td>
 <td><p>2003年</p></td>

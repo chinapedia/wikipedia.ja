@@ -67,7 +67,7 @@ WebCoreは、WebKitプロジェクトにより開発された、HTMLおよびSVG
 
 JavaScriptCoreは、WebKitの実装に[JavaScriptエンジン](https://ja.wikipedia.org/wiki/JavaScriptエンジン "wikilink")を提供するフレームワークであり、またmacOSのその他の場面で使用される同様のスクリプティングを提供する\[20\]\[21\]。JavaScriptCoreはKDE's JavaScript engine ([KJS](../Page/KJS.md "wikilink")) ライブラリおよび[Perl Compatible Regular Expressions](https://ja.wikipedia.org/wiki/Perl_Compatible_Regular_Expressions "wikilink") (PCRE) [正規表現](../Page/正規表現.md "wikilink")ライブラリに由来している。KJSおよびPCREからフォークされてから、JavaScriptCoreは多くの新機能について改良がなされ、パフォーマンスも大幅に向上している\[22\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、発表時点で従来より1.6倍の高速化を果たした、新たなJavaScriptCoreとして[バイトコードインタプリタ](https://ja.wikipedia.org/wiki/インタプリタ#バイトコードインタプリタ "wikilink")[VM](../Page/仮想機械.md "wikilink")\[23\]のSquirrelFishが発表された\[24\]。また、[9月18日](../Page/9月18日.md "wikilink")には、SquirrelFishよりおよそ2倍の高速化を果たしたSquirrelFish Extreme (SFX) が発表された\[25\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")、発表時点で従来より1.6倍の高速化を果たした、新たなJavaScriptCoreとして[バイトコードインタプリタ](https://ja.wikipedia.org/wiki/インタプリタ#バイトコードインタプリタ "wikilink")[VM](../Page/仮想機械.md "wikilink")\[23\]のSquirrelFishが発表された\[24\]。また、[9月18日](../Page/9月18日.md "wikilink")には、SquirrelFishよりおよそ2倍の高速化を果たしたSquirrelFish Extreme (SFX) が発表された\[25\]。
 
 ### Drosera
 

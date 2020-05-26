@@ -10,7 +10,7 @@
   - [もみじ銀行](../Page/もみじ銀行.md "wikilink")
   - [西京銀行](../Page/西京銀行.md "wikilink")
 
-ただし本サービスのほか、別の無料提携サービス（もみじ銀行に関しては、他に[山口銀行](../Page/山口銀行.md "wikilink")（同じ[YMFGに属する](../Page/山口フィナンシャルグループ.md "wikilink")）及び[ひろしまネットサービス](../Page/ひろしまネットサービス.md "wikilink")加盟金融機関ともATM利用手数料無料提携をしているほか、トマト銀行に関しては[広島銀行](../Page/広島銀行.md "wikilink")及び[おかやまATMネットサービス](https://ja.wikipedia.org/wiki/おかやまATMネットサービス "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")開始）加盟金融機関ともATM利用手数料無料提携、西京銀行に関しては広島銀行ともATM利用手数料無料提携、島根銀行に関しては[さんいんクロスネットサービス](../Page/さんいんクロスネットサービス.md "wikilink")等がある。）が適用される場合がある。
+ただし本サービスのほか、別の無料提携サービス（もみじ銀行に関しては、他に[山口銀行](../Page/山口銀行.md "wikilink")（同じ[YMFGに属する](../Page/山口フィナンシャルグループ.md "wikilink")）及び[ひろしまネットサービス](../Page/ひろしまネットサービス.md "wikilink")加盟金融機関ともATM利用手数料無料提携をしているほか、トマト銀行に関しては[広島銀行](../Page/広島銀行.md "wikilink")及び[おかやまATMネットサービス](https://ja.wikipedia.org/wiki/おかやまATMネットサービス "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")開始）加盟金融機関ともATM利用手数料無料提携、西京銀行に関しては広島銀行ともATM利用手数料無料提携、島根銀行に関しては[さんいんクロスネットサービス](../Page/さんいんクロスネットサービス.md "wikilink")等がある。）が適用される場合がある。
 
 ## 利用時間と手数料
 

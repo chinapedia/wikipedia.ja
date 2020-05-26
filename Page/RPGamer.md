@@ -21,7 +21,7 @@
   - [ナイトメアハンター＝ディープ](../Page/ナイトメアハンター＝ディープ.md "wikilink")
   - [d20ファイティングファンタジー](../Page/ファイティング・ファンタジー.md "wikilink")
   - [モンスターメーカー](../Page/モンスターメーカー.md "wikilink")RPGレジェンド
-  - [ルール・ザ・ワールド](https://ja.wikipedia.org/wiki/ルール・ザ・ワールド "wikilink")：ワイルド7
+  - [ルール・ザ・ワールド](../Page/ルール・ザ・ワールド.md "wikilink")：ワイルド7
   - [カットスロート・プラネット](https://ja.wikipedia.org/wiki/カットスロート・プラネット "wikilink")
 
 ## 付録ゲームリスト

@@ -48,7 +48,7 @@
 
   - [もしも、あの世にゆけたら](https://ja.wikipedia.org/wiki/もしも、あの世にゆけたら "wikilink")（Suicide Is Painless）
   - [私の青空](https://ja.wikipedia.org/wiki/私の青空_\(歌\) "wikilink") 歌：[二村定一](../Page/二村定一.md "wikilink")
-  - 東京シューシャインボーイ 歌：[暁テル子](https://ja.wikipedia.org/wiki/暁テル子 "wikilink")
+  - 東京シューシャインボーイ 歌：[暁テル子](../Page/暁テル子.md "wikilink")
 
 ## 逸話
 

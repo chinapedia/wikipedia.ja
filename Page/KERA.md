@@ -51,7 +51,7 @@
         2006年からは3.4ヶ月に1回のペースで起用され、現在起用回数が最多となっている。
   - [上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink") - 2006年8月号. 12月号. 2007年5月号. 8月号. 11月号.2008年3月号
   - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink") - 2006年9月号. 2007年10月号. 2009年4月号. 12月号
-  - [マーキー](https://ja.wikipedia.org/wiki/マーキー "wikilink") ([HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")) - 2007年4月号
+  - [マーキー](https://ja.wikipedia.org/wiki/マーキー "wikilink") ([HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")) - 2007年4月号
   - [小林涼子](../Page/小林涼子.md "wikilink") - 2008年2月号. 6月号. 9月号. 2009年3月号. 7月号. 10月号. 2010年11月号. 2011年3月号
   - [夏帆](https://ja.wikipedia.org/wiki/夏帆 "wikilink") - 2008年4月号
   - [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink") - 2008年5月号

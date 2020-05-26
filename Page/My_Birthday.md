@@ -65,7 +65,7 @@
   - [内田有紀](../Page/内田有紀.md "wikilink")
   - [小林明実](https://ja.wikipedia.org/wiki/小林明実 "wikilink")
   - [大堀恵](../Page/大堀恵.md "wikilink")
-  - [佐藤愛子](https://ja.wikipedia.org/wiki/佐藤愛子_\(モデル\) "wikilink")　
+  - [佐藤愛子](../Page/佐藤愛子_\(モデル\).md "wikilink")　
 
 ## 表紙イラストレーター
 

@@ -192,7 +192,7 @@
   - [おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")/[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")
   - [サイレント・イヴ](../Page/サイレント・イヴ.md "wikilink")/[辛島美登里](https://ja.wikipedia.org/wiki/辛島美登里 "wikilink")
   - [WON'T BE LONG](../Page/WON'T_BE_LONG.md "wikilink")/[バブルガム・ブラザーズ](../Page/バブルガム・ブラザーズ.md "wikilink")
-  - [今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")/[LINDBERG](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")
+  - [今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")/[LINDBERG](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")
   - [恋しくて](../Page/恋しくて_\(BEGINの曲\).md "wikilink")/[BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")
 
 #### 1991年

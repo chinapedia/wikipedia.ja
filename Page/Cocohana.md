@@ -1,7 +1,7 @@
 > この記事は[Cocohana](https://ja.wikipedia.org/wiki/Cocohana)から翻訳されています。
 
 
-『**Cocohana**』（ココハナ）は、[集英社](../Page/集英社.md "wikilink")が発行する大人の女性を対象読者とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少女漫画誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")（[レディースコミック](../Page/レディースコミック.md "wikilink")誌ではない）。月刊。発売日は前々月28日（日曜日の場合はその前日）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「ココロに花を」。
+『**Cocohana**』（ココハナ）は、[集英社](../Page/集英社.md "wikilink")が発行する大人の女性を対象読者とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[少女漫画誌](../Page/漫画雑誌.md "wikilink")（[レディースコミック](../Page/レディースコミック.md "wikilink")誌ではない）。月刊。発売日は前々月28日（日曜日の場合はその前日）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「ココロに花を」。
 
 ## 概要
 
@@ -77,7 +77,7 @@
   - [式田奈央](https://ja.wikipedia.org/wiki/式田奈央 "wikilink") 「トゥルーラブ・ノット」
   - [下吉田本郷](https://ja.wikipedia.org/wiki/下吉田本郷 "wikilink") 「万福児」
   - [高梨みつば](../Page/高梨みつば.md "wikilink") 「[スミカスミレ](https://ja.wikipedia.org/wiki/スミカスミレ "wikilink")」
-  - [たかはしみき](https://ja.wikipedia.org/wiki/たかはしみき "wikilink") 「[うち旅](https://ja.wikipedia.org/wiki/うち旅 "wikilink")」※イラストコラム
+  - [たかはしみき](../Page/たかはしみき.md "wikilink") 「[うち旅](https://ja.wikipedia.org/wiki/うち旅 "wikilink")」※イラストコラム
   - [田島みみ](https://ja.wikipedia.org/wiki/田島みみ "wikilink") 「[東南角部屋](https://ja.wikipedia.org/wiki/東南角部屋 "wikilink")」
   - [田島みみ](https://ja.wikipedia.org/wiki/田島みみ "wikilink") 「わたしの上司」
   - [谷川史子](../Page/谷川史子.md "wikilink") 「他人暮らし」

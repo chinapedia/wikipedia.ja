@@ -268,7 +268,7 @@
 
 [Category:平原綾香](https://ja.wikipedia.org/wiki/Category:平原綾香 "wikilink") [Category:TOKYO_FMの音楽番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組 "wikilink") [Category:エフエム大阪の番組](https://ja.wikipedia.org/wiki/Category:エフエム大阪の番組 "wikilink") [Category:エフエム愛知の番組](https://ja.wikipedia.org/wiki/Category:エフエム愛知の番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:森永乳業](https://ja.wikipedia.org/wiki/Category:森永乳業 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
 
-1.  初代の[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")(1996年4月 - 1999年9月)、2代目の[SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")（1999年10月 - 2002年9月）、3代目の川村(2002年10月 - 2006年3月）はいずれも3年 - 4年で交替している。
+1.  初代の[渡瀬マキ](../Page/渡瀬マキ.md "wikilink")(1996年4月 - 1999年9月)、2代目の[SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")（1999年10月 - 2002年9月）、3代目の川村(2002年10月 - 2006年3月）はいずれも3年 - 4年で交替している。
 2.  [秦基博さんがゲスト](http://www.tfm.co.jp/hv/index.php?itemid=25218)（番組公式サイト 2009年12月20日）
 3.  後継の森永乳業一社提供番組は当初決まっていなかったがその後、TOKYO　FMのプレスリリースにより「[ディア・フレンズ](../Page/ディア・フレンズ.md "wikilink")」内に新コーナーとして2019年4月1日～『森永乳業・カフエトーク』というコーナーを設けることが発表された。
 4.  2013年2月から、メッセージを送ったリスナーに抽選でプレゼントされている。

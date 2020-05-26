@@ -43,7 +43,7 @@
 
 Hotel Granvia Kyoto 20111007-001.jpg|ホテルグランヴィア京都 South Gate Building Osaka Japan01-r.jpg |ホテルグランヴィア大阪 Granvia Okayama.JPG|ホテルグランヴィア岡山 ホテルグランヴィア広島01.jpg|ホテルグランヴィア広島
 
-なお、[ビジネスホテル](https://ja.wikipedia.org/wiki/ビジネスホテル "wikilink")の[ヴィアイン](../Page/ヴィアイン.md "wikilink")は同じJR西日本系列ではあるが、別企業である[ジェイアール西日本デイリーサービスネット](../Page/ジェイアール西日本デイリーサービスネット.md "wikilink")の運営であり、また[JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")とはならない。但し、広告出稿やキャンペーンについては共同で実施することがある。 また、同じく[JR西日本米子メンテック](https://ja.wikipedia.org/wiki/JR西日本米子メンテック "wikilink")が運営するビジネスホテル「[グリーンホテル米子](https://ja.wikipedia.org/wiki/グリーンホテル米子 "wikilink")」や[ジェイアール西日本ウェルネット](https://ja.wikipedia.org/wiki/ジェイアール西日本ウェルネット "wikilink")が運営する「[JRくろしお荘](https://ja.wikipedia.org/wiki/JRくろしお荘 "wikilink")」、[JR西日本ファーストキャビン](../Page/JR西日本ファーストキャビン.md "wikilink")が運営する[ファーストキャビンステーション](https://ja.wikipedia.org/wiki/ファーストキャビンステーション "wikilink")もJR西日本ホテルズ・[JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")には属していない。
+なお、[ビジネスホテル](https://ja.wikipedia.org/wiki/ビジネスホテル "wikilink")の[ヴィアイン](../Page/ヴィアイン.md "wikilink")は同じJR西日本系列ではあるが、別企業である[ジェイアール西日本デイリーサービスネット](../Page/ジェイアール西日本デイリーサービスネット.md "wikilink")の運営であり、また[JRホテルグループ](../Page/JRホテルグループ.md "wikilink")とはならない。但し、広告出稿やキャンペーンについては共同で実施することがある。 また、同じく[JR西日本米子メンテック](https://ja.wikipedia.org/wiki/JR西日本米子メンテック "wikilink")が運営するビジネスホテル「[グリーンホテル米子](https://ja.wikipedia.org/wiki/グリーンホテル米子 "wikilink")」や[ジェイアール西日本ウェルネット](https://ja.wikipedia.org/wiki/ジェイアール西日本ウェルネット "wikilink")が運営する「[JRくろしお荘](https://ja.wikipedia.org/wiki/JRくろしお荘 "wikilink")」、[JR西日本ファーストキャビン](../Page/JR西日本ファーストキャビン.md "wikilink")が運営する[ファーストキャビンステーション](https://ja.wikipedia.org/wiki/ファーストキャビンステーション "wikilink")もJR西日本ホテルズ・[JRホテルグループ](../Page/JRホテルグループ.md "wikilink")には属していない。
 
 ### 新規オープン予定
 
@@ -72,7 +72,7 @@ Sannomiya Terminal Building.JPG|三宮ターミナルホテル
 
 ## 関連項目
 
-  - [JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")
+  - [JRホテルグループ](../Page/JRホテルグループ.md "wikilink")
 
 ## 外部リンク
 

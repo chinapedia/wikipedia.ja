@@ -1,7 +1,7 @@
 > この記事は[Rn=City](https://ja.wikipedia.org/wiki/Rn=City)から翻訳されています。
 
 
-**Rn=City**（らどんしてぃー）は、[大阪](../Page/大阪.md "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[大阪](../Page/大阪.md "wikilink")の[専門学校](../Page/専門学校.md "wikilink")に在学中のVo.KENとGu.KOHEI、それまで[城天](https://ja.wikipedia.org/wiki/城天 "wikilink")([大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")ストリート)で別々のバンドで活動していたBa.DAIKIとDr.SEISHINの4人で活動開始。[セブンハウス](../Page/セブンハウス.md "wikilink")のお披露目ライブの会場で総合エンタテインメントプロデューサー・[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）と出会い、つんく♂プロデュースでデビュー。[2006年](../Page/2006年.md "wikilink")に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。[2009年](../Page/2009年.md "wikilink")に[復活](https://ja.wikipedia.org/wiki/復活 "wikilink")。
+**Rn=City**（らどんしてぃー）は、[大阪](../Page/大阪.md "wikilink")出身の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[大阪](../Page/大阪.md "wikilink")の[専門学校](../Page/専門学校.md "wikilink")に在学中のVo.KENとGu.KOHEI、それまで[城天](https://ja.wikipedia.org/wiki/城天 "wikilink")([大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")ストリート)で別々のバンドで活動していたBa.DAIKIとDr.SEISHINの4人で活動開始。[セブンハウス](../Page/セブンハウス.md "wikilink")のお披露目ライブの会場で総合エンタテインメントプロデューサー・[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")）と出会い、つんく♂プロデュースでデビュー。[2006年](../Page/2006年.md "wikilink")に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。[2009年](../Page/2009年.md "wikilink")に[復活](../Page/復活.md "wikilink")。
 
 ## メンバー
 

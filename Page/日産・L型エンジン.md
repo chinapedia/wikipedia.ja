@@ -46,7 +46,7 @@
     搭載車種
       - ブルーバード（510）
       - [サニー](../Page/日産・サニー.md "wikilink")・エクセレント（B110・210）
-      - [バイオレット](https://ja.wikipedia.org/wiki/日産・バイオレット "wikilink")（710）
+      - [バイオレット](../Page/日産・バイオレット.md "wikilink")（710）
 
 #### L16
 

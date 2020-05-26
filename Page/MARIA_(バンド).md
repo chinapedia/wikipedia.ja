@@ -303,7 +303,7 @@ TATTSU
         デビュー前の東京でのお披露目ライブとして、[新宿ステーションスクエア](https://ja.wikipedia.org/wiki/新宿ステーションスクエア "wikilink")（[新宿](../Page/新宿.md "wikilink")[スタジオアルタ](../Page/スタジオアルタ.md "wikilink")前）で行われた。ライブ開始の15時にはステージ真後ろのアルタビジョンにMARIAの[PVが流された](../Page/ミュージック・ビデオ.md "wikilink")。またこのライブは当日の午前中に詳細が明かされるシークレットライブであったが、会場には延べ5,000人以上が集まり、新人アーティストとしては異例の記録である。
   - HIGH and MIGHTY COLOR LIVE BEE LOUD vol.1 〜倣音プログレッシヴ〜＜対バンシリーズ＞（[6月17日](../Page/6月17日.md "wikilink")、[横浜CLUB24](https://ja.wikipedia.org/wiki/横浜CLUB24 "wikilink") / [6月18日](../Page/6月18日.md "wikilink")、[HEAVEN'S ROCKさいたま新都心VJ-3](https://ja.wikipedia.org/wiki/HEAVEN'S_ROCKさいたま新都心VJ-3 "wikilink")）
       -
-        [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、MARIA、[midnight pumpkin](https://ja.wikipedia.org/wiki/midnight_pumpkin "wikilink")、[サザーランド](../Page/サザーランド.md "wikilink")との対バン。
+        [HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")、MARIA、[midnight pumpkin](https://ja.wikipedia.org/wiki/midnight_pumpkin "wikilink")、[サザーランド](../Page/サザーランド.md "wikilink")との対バン。
   - MARIA LIVE TOUR 2006 We are "MARIA"（[8月10日](../Page/8月10日.md "wikilink")〜[8月27日](../Page/8月27日.md "wikilink")）
       -
         初のライブツアーにして全国ツアー。全会場でハイタッチ会を行う。
@@ -373,7 +373,7 @@ TATTSU
         舞衣子、[長瀬実夕](../Page/長瀬実夕.md "wikilink")、PRINCESS PRINCESSの渡辺敦子、富田京子と4人で一夜限りのバンド「ゾンプリ」を結成しZONEの代表曲「secretbase 〜君がくれたもの〜」を披露した。舞衣子、長瀬はボーカルを務め、演奏はSHOW-YAのメンバーもサポートとして参加している。
   - POWER of ART PROJECT KICK OFF LIVE 〜stay clean,be happy〜（[6月26日](../Page/6月26日.md "wikilink")、[Shibuya O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
       -
-        MARIAの他に、長瀬実夕、[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、[タイナカサチが出演した](https://ja.wikipedia.org/wiki/タイナカ彩智 "wikilink")。
+        MARIAの他に、長瀬実夕、[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")、[タイナカサチが出演した](https://ja.wikipedia.org/wiki/タイナカ彩智 "wikilink")。
   - 北海道情報大学 蒼天祭「So-ten Live」2008 〜やっぱMARIA じゃ NIGHT〜（[10月5日](../Page/10月5日.md "wikilink")）
       -
         [AIR-G'](https://ja.wikipedia.org/wiki/AIR-G' "wikilink")から抽選でペア150組300名が招待された。

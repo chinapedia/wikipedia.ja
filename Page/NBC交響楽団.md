@@ -197,7 +197,7 @@ NBC交響楽団はトスカニーニ以外、上述の[ロジンスキ](../Page/
         出演中に[イェフディ・メニューイン](https://ja.wikipedia.org/wiki/イェフディ・メニューイン "wikilink")と共演している（[1945年](../Page/1945年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")）。
   - [レナード・バーンスタイン](../Page/レナード・バーンスタイン.md "wikilink")（1946年）
       -
-        この当時はRCA専属。[モーリス・ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")の[ピアノ協奏曲を弾き振りで演奏した](https://ja.wikipedia.org/wiki/ピアノ協奏曲_\(ラヴェル\) "wikilink")（[1946年](../Page/1946年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）。
+        この当時はRCA専属。[モーリス・ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")の[ピアノ協奏曲を弾き振りで演奏した](https://ja.wikipedia.org/wiki/ピアノ協奏曲_\(ラヴェル\) "wikilink")（[1946年](../Page/1946年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")）。
   - [ウラディミール・ゴルシュマン](https://ja.wikipedia.org/wiki/ウラディミール・ゴルシュマン "wikilink")（1946年）
       -
         NBC響では、[ウィリアム・カペル](https://ja.wikipedia.org/wiki/ウィリアム・カペル "wikilink")との録音がある。

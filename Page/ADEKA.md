@@ -62,7 +62,7 @@
 
   - [ポッポちゃん](https://ja.wikipedia.org/wiki/ポッポちゃん "wikilink") - [ニッポン放送](../Page/ニッポン放送.md "wikilink")の開局（1954年）から始まった[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")。
   - [変幻三日月丸](https://ja.wikipedia.org/wiki/変幻三日月丸 "wikilink") - [フジテレビの開局](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（1959年）から始まった[時代劇](../Page/時代劇.md "wikilink")。
-  - [九ちゃん☆ハイ☆でした\!](https://ja.wikipedia.org/wiki/九ちゃん☆ハイ☆でした! "wikilink") - 1962年から1963年までフジテレビで放送された、[坂本九](../Page/坂本九.md "wikilink")メインの音楽[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。それまで[明治屋](https://ja.wikipedia.org/wiki/明治屋 "wikilink")が提供していた『[マイ・マイ・ショー](https://ja.wikipedia.org/wiki/マイ・マイ・ショー "wikilink")』の提供変更と共に改題、当社が発売していた合成洗剤「テル」に因んで、「テルテルショー」という冠名称が付いた。
+  - [九ちゃん☆ハイ☆でした\!](https://ja.wikipedia.org/wiki/九ちゃん☆ハイ☆でした! "wikilink") - 1962年から1963年までフジテレビで放送された、[坂本九](../Page/坂本九.md "wikilink")メインの音楽[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。それまで[明治屋](../Page/明治屋.md "wikilink")が提供していた『[マイ・マイ・ショー](https://ja.wikipedia.org/wiki/マイ・マイ・ショー "wikilink")』の提供変更と共に改題、当社が発売していた合成洗剤「テル」に因んで、「テルテルショー」という冠名称が付いた。
   - [アベック歌合戦](https://ja.wikipedia.org/wiki/アベック歌合戦 "wikilink") - 1966年10月から[ナショナル魔法瓶工業](https://ja.wikipedia.org/wiki/ナショナル魔法瓶工業 "wikilink")（「エヴェレストヂャー」名義）と共に提供を担当。名義は「アデカソフト」。
   - [塩谷育代](../Page/塩谷育代.md "wikilink")のゴルフ魅せます、[吉川なよ子](../Page/吉川なよ子.md "wikilink")の爽やかゴルフ - 古河グループの1社として提供に参加。
 

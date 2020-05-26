@@ -133,7 +133,7 @@ DVD字幕、テキストファイル (MicroDVD、[SubRIP](https://ja.wikipedia.o
 
   - [Debian GNU/Linux](https://ja.wikipedia.org/wiki/Debian_GNU/Linux "wikilink")
   - [Ubuntu](../Page/Ubuntu.md "wikilink")
-  - [Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink")
+  - [Mint](../Page/Linux_Mint.md "wikilink")
   - [openSUSE](https://ja.wikipedia.org/wiki/openSUSE "wikilink")
   - [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")
   - [Fedora](../Page/Fedora.md "wikilink")

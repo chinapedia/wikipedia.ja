@@ -83,7 +83,7 @@
 | -- | ----------------------------------------------------------------------------- | -------------------------------------------- | ----------- | -------------- |
 | 曲順 | タイトル                                                                          | アーティスト                                       | 発売日         | レーベル           |
 | 01 | [My Revolution](../Page/My_Revolution.md "wikilink")                          | 渡辺美里                                         | 1986年1月12日  | EPIC Records   |
-| 02 | [フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")              | レベッカ                                         | 1985年10月21日 | Ki/oon Records |
+| 02 | [フレンズ](../Page/フレンズ_\(レベッカの曲\).md "wikilink")                                 | レベッカ                                         | 1985年10月21日 | Ki/oon Records |
 | 03 | [ZOO](https://ja.wikipedia.org/wiki/ZOO_\(曲\) "wikilink")                     | [ECHOES](../Page/ECHOES.md "wikilink")       | 1989年3月21日  | Sony Records   |
 | 04 | [め組のひと](https://ja.wikipedia.org/wiki/め組のひと "wikilink")                       | [ラッツ&スター](../Page/ラッツ&スター.md "wikilink")     | 1983年4月1日   | EPIC Records   |
 | 05 | [大迷惑](https://ja.wikipedia.org/wiki/大迷惑 "wikilink")                           | ユニコーン                                        | 1989年4月29日  | Sony Records   |

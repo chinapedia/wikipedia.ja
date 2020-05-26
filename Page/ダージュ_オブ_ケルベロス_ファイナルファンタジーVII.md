@@ -167,7 +167,7 @@
 
 ## 主題歌
 
-  - メインテーマ「[REDEMPTION](https://ja.wikipedia.org/wiki/REDEMPTION "wikilink")」 歌 - [Gackt](https://ja.wikipedia.org/wiki/GACKT "wikilink")
+  - メインテーマ「[REDEMPTION](../Page/REDEMPTION.md "wikilink")」 歌 - [Gackt](https://ja.wikipedia.org/wiki/GACKT "wikilink")
   - 挿入歌「LONGING」 歌 - Gackt
 
 ## スタッフ

@@ -383,7 +383,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アレックス・オブライエン" title="wikilink">アレックス・オブライエン</a></strong><br />
+<td><p><strong><a href="../Page/アレックス・オブライエン.md" title="wikilink">アレックス・オブライエン</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/ジャレッド・パーマー" title="wikilink">ジャレッド・パーマー</a></strong></p></td>
 <td><p><a href="../Page/ポール・ハーフース.md" title="wikilink">ポール・ハーフース</a><br />
  <a href="../Page/サンドン・ストール.md" title="wikilink">サンドン・ストール</a></p></td>

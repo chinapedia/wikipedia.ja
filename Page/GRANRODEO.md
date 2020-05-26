@@ -11,7 +11,7 @@
 
 ほぼ全ての作詞をKISHOWが、全ての作編曲をe-ZUKAが手掛ける。2人が好む[ハードロック](../Page/ハードロック.md "wikilink")、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")調を主軸としつつ、[ポップス](../Page/ポピュラー音楽.md "wikilink")、[オルタナ](../Page/オルタナティヴ・ロック.md "wikilink")、[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー "wikilink")、[メロコア](../Page/メロディック・ハードコア.md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[ブラスロック](../Page/ブラス・ロック.md "wikilink")、[AOR](../Page/AOR.md "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[フォークなど](../Page/フォークソング.md "wikilink")、枠にこだわらない様々なタイプの楽曲を発表している。
 
-メンバーはe-ZUKAとKISHOWのみ。ライブはドラムス・[長井"VAL"一郎とベース](https://ja.wikipedia.org/wiki/長井一郎 "wikilink")・[瀧田イサム](https://ja.wikipedia.org/wiki/瀧田イサム "wikilink")をサポートに加えた[4ピース体制で行われているが](../Page/四人組.md "wikilink")、ドラムスの長井"VAL"一郎に関しては2017年2月19日をもって専属のライブサポートから離れることになった。その理由は明らかにされていない。その後のドラムスサポートはSHiNに変更された。
+メンバーはe-ZUKAとKISHOWのみ。ライブはドラムス・[長井"VAL"一郎とベース](../Page/長井一郎.md "wikilink")・[瀧田イサム](../Page/瀧田イサム.md "wikilink")をサポートに加えた[4ピース体制で行われているが](../Page/四人組.md "wikilink")、ドラムスの長井"VAL"一郎に関しては2017年2月19日をもって専属のライブサポートから離れることになった。その理由は明らかにされていない。その後のドラムスサポートはSHiNに変更された。
 
 [2009年](../Page/2009年.md "wikilink")頃から発売したCDが[オリコン](../Page/オリコン.md "wikilink")（[オリコンチャート](../Page/オリコンチャート.md "wikilink")）ランキングの上位に入るようになり（詳細は『[\#ディスコグラフィ](https://ja.wikipedia.org/wiki/#ディスコグラフィ "wikilink")』を参照）、2012年[10月10日](../Page/10月10日.md "wikilink")発売の5thアルバム『[CRACK STAR FLASH](https://ja.wikipedia.org/wiki/CRACK_STAR_FLASH "wikilink")』は10月10日付のオリコンデイリーアルバムチャートで初の1位となる。その後[2014年](../Page/2014年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")発売の6thアルバム『カルマとラビリンス』では、デイリー2位、ウィークリー3位を記録し、また初動売上枚数は21,944枚と自己最高を記録した。
 
@@ -36,9 +36,9 @@
 ## 主な楽曲参加ミュージシャン
 
   - [ドラム](../Page/ドラムセット.md "wikilink")
-      - [長井"VAL"一郎](https://ja.wikipedia.org/wiki/長井一郎 "wikilink")（ライブサポート）、[SHiN](https://ja.wikipedia.org/wiki/SHiN "wikilink")（ライブサポート）、[SOUL TOUL](../Page/そうる透.md "wikilink")、[渡邊豊](../Page/渡辺豊.md "wikilink")、[村石雅行](../Page/村石雅行.md "wikilink")、[真矢](../Page/真矢_\(ドラマー\).md "wikilink")、[青山英樹](https://ja.wikipedia.org/wiki/青山英樹 "wikilink")、[河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")、[佐野康夫](../Page/佐野康夫.md "wikilink")、かどしゅんたろう、[岩田ガンタ康彦](../Page/岩田ガンタ康彦.md "wikilink")
+      - [長井"VAL"一郎](../Page/長井一郎.md "wikilink")（ライブサポート）、[SHiN](https://ja.wikipedia.org/wiki/SHiN "wikilink")（ライブサポート）、[SOUL TOUL](../Page/そうる透.md "wikilink")、[渡邊豊](../Page/渡辺豊.md "wikilink")、[村石雅行](../Page/村石雅行.md "wikilink")、[真矢](../Page/真矢_\(ドラマー\).md "wikilink")、[青山英樹](https://ja.wikipedia.org/wiki/青山英樹 "wikilink")、[河村"カースケ"智康](../Page/河村智康.md "wikilink")、[佐野康夫](../Page/佐野康夫.md "wikilink")、かどしゅんたろう、[岩田ガンタ康彦](../Page/岩田ガンタ康彦.md "wikilink")
   - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-      - [瀧田イサム](https://ja.wikipedia.org/wiki/瀧田イサム "wikilink")（ライブサポート）、[坂本尭之](https://ja.wikipedia.org/wiki/Fo'xTails "wikilink")（ライブサポートのみ\[3\]）、[種子田健](../Page/種子田健.md "wikilink")、[黒須克彦](../Page/黒須克彦.md "wikilink")、松田卓己、[田辺トシノ](../Page/田辺トシノ.md "wikilink")
+      - [瀧田イサム](../Page/瀧田イサム.md "wikilink")（ライブサポート）、[坂本尭之](https://ja.wikipedia.org/wiki/Fo'xTails "wikilink")（ライブサポートのみ\[3\]）、[種子田健](../Page/種子田健.md "wikilink")、[黒須克彦](../Page/黒須克彦.md "wikilink")、松田卓己、[田辺トシノ](../Page/田辺トシノ.md "wikilink")
   - [ピアノ](../Page/ピアノ.md "wikilink")
       - 山田秀俊、柴田俊文
   - [ストリング](https://ja.wikipedia.org/wiki/ストリングス "wikilink")
@@ -59,7 +59,7 @@
 | 初回限定盤 | 通常盤                                        | アニメ盤                                                                                        |              |            |
 | 1st   | 2005年11月23日                                | **[Go For It\!](../Page/Go_For_It!.md "wikilink")**                                         |              | LACM-4230  |
 | 2nd   | 2006年7月26日                                 | **[Infinite Love](../Page/Infinite_Love.md "wikilink")**                                    | LACM-4765    | 43位        |
-| 3rd   | 2006年8月23日                                 | **[DECADENCE](https://ja.wikipedia.org/wiki/DECADENCE_\(GRANRODEOの曲\) "wikilink")**         | LACM-4285    | 83位        |
+| 3rd   | 2006年8月23日                                 | **[DECADENCE](../Page/DECADENCE_\(GRANRODEOの曲\).md "wikilink")**                            | LACM-4285    | 83位        |
 | 4th   | 2007年1月24日                                 | **[慟哭ノ雨](../Page/慟哭ノ雨.md "wikilink")**                                                      | LACM-4336    | 33位        |
 | 5th   | 2007年5月23日                                 | **[HEAVEN](../Page/HEAVEN_\(GRANRODEOの曲\).md "wikilink")**                                  | LACM-4369    | 36位        |
 | 6th   | 2007年12月26日                                | **[delight song](https://ja.wikipedia.org/wiki/delight_song "wikilink")**                   | LACM-4446    | 34位        |
@@ -397,7 +397,7 @@
 <td><p>2010年</p></td>
 <td><p>GRANRODEO 5TH ANNIVERSARY EVENT "GR感謝祭" AT ユニバーサル・スタジオ・ジャパン®</p></td>
 <td><div class="NavContent" style="text-align:center;">
-<p><a href="../Page/11月13日.md" title="wikilink">11月13日</a>　<a href="https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン" title="wikilink">ユニバーサル・スタジオ・ジャパン</a>® ウィケッド会場（ランド・オブ・オズ）<br />
+<p><a href="../Page/11月13日.md" title="wikilink">11月13日</a>　<a href="../Page/ユニバーサル・スタジオ・ジャパン.md" title="wikilink">ユニバーサル・スタジオ・ジャパン</a>® ウィケッド会場（ランド・オブ・オズ）<br />
 </p>
 </div></td>
 </tr>

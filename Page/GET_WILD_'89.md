@@ -37,7 +37,7 @@
   - [TMN final LAST GROOVE 5.18](../Page/TMN_final_live_LAST_GROOVE.md "wikilink") (ライブバージョン)
   - [TIME CAPSULE all the singles](../Page/TIME_CAPSULE_all_the_singles.md "wikilink")
   - [STAR BOX TM NETWORK](../Page/STAR_BOX_TM_NETWORK.md "wikilink")
-  - [ALL the “Get Wild” ALBUM](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")
+  - [ALL the “Get Wild” ALBUM](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")
   - [DEBF3](https://ja.wikipedia.org/wiki/DEBF3 "wikilink")
   - [GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink") (オリジナル・techno overdub mix・ライブバージョン全て収録)
   - [TM NETWORK THE SINGLES 2](https://ja.wikipedia.org/wiki/THE_SINGLES_2 "wikilink")

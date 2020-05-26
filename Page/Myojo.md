@@ -140,7 +140,7 @@
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2009年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橋本良亮" title="wikilink">橋本良亮</a></p></td>
+<td><p><a href="../Page/橋本良亮.md" title="wikilink">橋本良亮</a></p></td>
 <td><p>中島健人</p></td>
 <td></td>
 </tr>
@@ -289,7 +289,7 @@
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
-  - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")
+  - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")
   - [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")
   - [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")
   - [King\&Prince](https://ja.wikipedia.org/wiki/King&Prince "wikilink")

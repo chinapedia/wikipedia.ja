@@ -1,7 +1,7 @@
 > この記事は[BANZAI!](https://ja.wikipedia.org/wiki/BANZAI!)から翻訳されています。
 
 
-『**BANZAI\!**』（バンザイ）は、[ドイツ語](../Page/ドイツ語.md "wikilink")の月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[出版社](../Page/出版社.md "wikilink")・[カールセンが](https://ja.wikipedia.org/wiki/カールセン出版社 "wikilink")[2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで発行していた。主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の漫画雑誌『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）掲載作品を翻訳して連載していた。
+『**BANZAI\!**』（バンザイ）は、[ドイツ語](../Page/ドイツ語.md "wikilink")の月刊[漫画雑誌](../Page/漫画雑誌.md "wikilink")。[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[出版社](../Page/出版社.md "wikilink")・[カールセンが](https://ja.wikipedia.org/wiki/カールセン出版社 "wikilink")[2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")まで発行していた。主に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の漫画雑誌『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）掲載作品を翻訳して連載していた。
 
 ## 連載作品
 

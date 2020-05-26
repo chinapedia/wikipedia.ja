@@ -1577,7 +1577,7 @@ VPXQ-79003:Blu-ray 通常盤</p></td>
 
 ## タイアップ
 
-2008年/[アニメ](../Page/アニメ.md "wikilink")『[Mnemosyne-ムネモシュネの娘たち-](https://ja.wikipedia.org/wiki/Mnemosyne-ムネモシュネの娘たち- "wikilink")』
+2008年/[アニメ](../Page/アニメ.md "wikilink")『[Mnemosyne-ムネモシュネの娘たち-](../Page/Mnemosyne-ムネモシュネの娘たち-.md "wikilink")』
 
   - ALSATIA (OP)
   - CAUSE DISARRAY (ED)

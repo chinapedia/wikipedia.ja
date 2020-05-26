@@ -6,7 +6,7 @@
 ## 解説
 
   - この作品は拓郎にとって『[みんな大好き](https://ja.wikipedia.org/wiki/みんな大好き "wikilink")』以来2年振りのBEST10入り作品となった。
-  - タイトルに「ペニーレイン」とあるが、「ペニーレインでバーボン」（『[今はまだ人生を語らず](https://ja.wikipedia.org/wiki/今はまだ人生を語らず "wikilink")』収録曲）、「ペニーレインには行かない」（『[FOREVER YOUNG](https://ja.wikipedia.org/wiki/FOREVER_YOUNG_\(吉田拓郎のアルバム\) "wikilink")』収録曲）は収録されていない。
+  - タイトルに「ペニーレイン」とあるが、「ペニーレインでバーボン」（『[今はまだ人生を語らず](../Page/今はまだ人生を語らず.md "wikilink")』収録曲）、「ペニーレインには行かない」（『[FOREVER YOUNG](https://ja.wikipedia.org/wiki/FOREVER_YOUNG_\(吉田拓郎のアルバム\) "wikilink")』収録曲）は収録されていない。
 
 ## 収録曲
 
@@ -78,7 +78,7 @@
     <!-- end list -->
       - 3rdアルバム『元気です。』より。
 16. **人生を語らず**
-      - 5thアルバム『[今はまだ人生を語らず](https://ja.wikipedia.org/wiki/今はまだ人生を語らず "wikilink")』より。
+      - 5thアルバム『[今はまだ人生を語らず](../Page/今はまだ人生を語らず.md "wikilink")』より。
 17. **[外は白い雪の夜](https://ja.wikipedia.org/wiki/外は白い雪の夜 "wikilink")**
       -
         作詞:松本隆

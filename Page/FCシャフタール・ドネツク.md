@@ -535,7 +535,7 @@
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Armenia.svg" title="wikilink">25px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCピュニク・エレバン" title="wikilink">ピュニク・エレバン</a></p></td>
+<td><p><a href="../Page/FCピュニク・エレバン.md" title="wikilink">ピュニク・エレバン</a></p></td>
 <td><p>3-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''4-1</p></td>
@@ -755,7 +755,7 @@
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2007-08.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Armenia.svg" title="wikilink">25px</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCピュニク・エレバン" title="wikilink">ピュニク・エレバン</a></p></td>
+<td><p><a href="../Page/FCピュニク・エレバン.md" title="wikilink">ピュニク・エレバン</a></p></td>
 <td><p>2-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''4-1</p></td>

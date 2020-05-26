@@ -245,7 +245,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
       - 26\. ハルマゲドン 90’Mashup Feat. Kダブシャイン & Zeebra
   - Zeebra 『[Black World/White Heat](https://ja.wikipedia.org/wiki/Black_World/White_Heat "wikilink")』（2011年12月14日）
       - 3\. Pop feat.K DUB SHINE & DJ OASIS - ※Black Worldに収録。
-  - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") 『THE ORIGINAL II』（2012年9月5日）
+  - [DJ PMX](../Page/DJ_PMX.md "wikilink") 『THE ORIGINAL II』（2012年9月5日）
       - 2\. その時が来るまで… feat. K DUB SHINE
   - [AKLO](https://ja.wikipedia.org/wiki/AKLO "wikilink") 『THE ARRIVAL』（2014年9月3日）
       - 5\. RGTO feat. [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink"), [H.TEFLON](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink") & K DUB SHINE

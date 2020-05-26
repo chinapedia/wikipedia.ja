@@ -11,7 +11,7 @@
 
 [2006年](../Page/2006年.md "wikilink")は[11月14日](../Page/11月14日.md "wikilink")に[WBC祝勝会も合わせて](../Page/2006_ワールド・ベースボール・クラシック.md "wikilink")[新高輪プリンスホテル](../Page/グランドプリンスホテル新高輪.md "wikilink")「飛天」で開催された\[1\]。
 
-[2009年](../Page/2009年.md "wikilink")と[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")は[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")で開催。年間表彰式は[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で行われた。また、サカス広場には[レッドカーペット](https://ja.wikipedia.org/wiki/レッドカーペット "wikilink")も敷かれ、集まった多くのファンの前で選手らがレッドカーペットウォークを披露するのも名物となった。
+[2009年](../Page/2009年.md "wikilink")と[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")は[赤坂サカス](../Page/赤坂サカス.md "wikilink")で開催。年間表彰式は[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で行われた。また、サカス広場には[レッドカーペット](https://ja.wikipedia.org/wiki/レッドカーペット "wikilink")も敷かれ、集まった多くのファンの前で選手らがレッドカーペットウォークを披露するのも名物となった。
 
 [2013年](../Page/2013年.md "wikilink")からは[ドレスコードを設けることとなった](../Page/服装規定.md "wikilink")。選手のユニフォームだけでなく、マスコミ関係者や観客までドレスコードを設ける徹底ぶりである。
 
@@ -32,7 +32,7 @@
   - 2006年 [新高輪プリンスホテル](https://ja.wikipedia.org/wiki/新高輪プリンスホテル "wikilink")
   - 2007年 [JALリゾートシーホークホテル福岡](https://ja.wikipedia.org/wiki/ヒルトン福岡シーホーク "wikilink")
   - 2008年 [グランドプリンスホテル新高輪](../Page/グランドプリンスホテル新高輪.md "wikilink")
-  - 2009年〜2010年 [赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")
+  - 2009年〜2010年 [赤坂サカス](../Page/赤坂サカス.md "wikilink")
   - 2011年〜 グランドプリンスホテル新高輪
 
 ## 司会進行など
@@ -171,7 +171,7 @@
 | [二塁手](../Page/二塁手.md "wikilink")   | [千葉茂](../Page/千葉茂_\(野球\).md "wikilink")                                          | 巨人                                                                                                                  | 7  |
 | [高木守道](../Page/高木守道.md "wikilink") | [中日](../Page/中日ドラゴンズ.md "wikilink")                                              |                                                                                                                     |    |
 | [三塁手](../Page/三塁手.md "wikilink")   | [長嶋茂雄](../Page/長嶋茂雄.md "wikilink")                                               | 巨人                                                                                                                  | 17 |
-| [遊撃手](../Page/遊撃手.md "wikilink")   | [吉田義男](https://ja.wikipedia.org/wiki/吉田義男 "wikilink")                            | [阪神](../Page/阪神タイガース.md "wikilink")                                                                                 | 9  |
+| [遊撃手](../Page/遊撃手.md "wikilink")   | [吉田義男](../Page/吉田義男.md "wikilink")                                               | [阪神](../Page/阪神タイガース.md "wikilink")                                                                                 | 9  |
 | [外野手](../Page/外野手.md "wikilink")   | [張本勲](../Page/張本勲.md "wikilink")                                                 | [東映→日拓→日本ハム](../Page/北海道日本ハムファイターズ.md "wikilink")、巨人、ロッテ                                                            | 16 |
 | [山内一弘](../Page/山内一弘.md "wikilink") | [毎日→大毎](../Page/千葉ロッテマリーンズ.md "wikilink")、阪神、[広島](../Page/広島東洋カープ.md "wikilink") | 10                                                                                                                  |    |
 | [山本浩二](../Page/山本浩二.md "wikilink") | 広島                                                                               |                                                                                                                     |    |

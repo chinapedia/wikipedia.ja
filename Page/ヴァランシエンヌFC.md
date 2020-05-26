@@ -58,7 +58,7 @@
 
 ## 歴代監督
 
-  - [ボロ・プリモラツ](https://ja.wikipedia.org/wiki/ボロ・プリモラツ "wikilink") 1992-1993
+  - [ボロ・プリモラツ](../Page/ボロ・プリモラツ.md "wikilink") 1992-1993
 
   - [ブルーノ・メツ](../Page/ブルーノ・メツ.md "wikilink") 1993-1994
 

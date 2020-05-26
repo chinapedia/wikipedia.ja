@@ -13,7 +13,7 @@
 
 『IV』開発の発端であり（詳細は[イースIV\#開発経緯](https://ja.wikipedia.org/wiki/イースIV#開発経緯 "wikilink")を参照）、ハドソンとファルコムが密に連絡を取り合って開発が進められた\[1\]事から、発売当時はこちらが『イースIV』の正史という扱いであった\[2\]。しかし[2003年](../Page/2003年.md "wikilink")（平成15年）に発売された『[イースVI ナピシュテムの匣](../Page/イースVI.md "wikilink")』開発時に行われたシリーズ設定総括後の公式設定では、SFC版を正史として本作をアナザーストーリーと位置づけている\[3\]\[4\]。
 
-本作はPCE版『I・II』の続編として制作されているため、サラが生存している、フィーナとレアが再登場する、ダルク＝ファクトの設定などといった、オリジナルの『[I](https://ja.wikipedia.org/wiki/イースI "wikilink")』・『[II](../Page/イースII.md "wikilink")』の設定とは矛盾が見られる\[5\]。
+本作はPCE版『I・II』の続編として制作されているため、サラが生存している、フィーナとレアが再登場する、ダルク＝ファクトの設定などといった、オリジナルの『[I](../Page/イースI.md "wikilink")』・『[II](../Page/イースII.md "wikilink")』の設定とは矛盾が見られる\[5\]。
 
 [2011年](../Page/2011年.md "wikilink")（平成23年）[7月6日](../Page/7月6日.md "wikilink")より[PlayStation 3と](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[PlayStation Portable向けの](../Page/PlayStation_Portable.md "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")において[エミュレート版が配信されている](../Page/エミュレータ_\(コンピュータ\).md "wikilink")。
 

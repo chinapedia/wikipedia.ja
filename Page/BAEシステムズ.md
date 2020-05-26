@@ -5,7 +5,7 @@
 
 北アメリカに進出した子会社の[BAEシステムズ・インク](https://ja.wikipedia.org/wiki/BAEシステムズ・インク "wikilink")（[BAE Systems Inc.](https://ja.wikipedia.org/wiki/:en:BAE_Systems_Inc. "wikilink")）を介して世界的な影響力を持つ。航空宇宙関連企業としては[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")最大の規模を有すほか、[軍需](../Page/軍需産業.md "wikilink")・国防分野においても、2008年に売上高が[米ドルベースで約](https://ja.wikipedia.org/wiki/アメリカ・ドル "wikilink")324億2000万ドルを記録、[ボーイング](../Page/ボーイング.md "wikilink")や[ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink")など[アメリカ系の企業を抑えて同分野の売上高世界第](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")1位を記録するなど、事業規模の大きな企業として知られる\[2\]\[3\]。2009年についても、売上高1位の座はロッキード・マーティンに明け渡したものの、売上高約332億5000万ドル（米ドルベース，英ポンドベースでは約224億ポンド）で第2位に付けている\[4\]。
 
-「BAEシステムズ」が英語の社名に従ったより正確な表記であるが、しばしば「BAEシステム」とも表記される。多くの場合、傘下の多数の企業を含めた単一の[コングロマリット](../Page/コングロマリット.md "wikilink")として扱われる。BAEは[アクサ](../Page/アクサ.md "wikilink")（9.02%）、[バークレイズ](https://ja.wikipedia.org/wiki/バークレイズ "wikilink")（3.98%）、[フランクリン・リソース](https://ja.wikipedia.org/wiki/フランクリン・リソース "wikilink")及び系列会社（4.92%）、[リーガル&ジェネラル](https://ja.wikipedia.org/wiki/リーガル&ジェネラル "wikilink")（4.07%）、[ブラックロック](https://ja.wikipedia.org/wiki/ブラックロック "wikilink")（4.96%）が、自社にとって重要な株主だと発表した。
+「BAEシステムズ」が英語の社名に従ったより正確な表記であるが、しばしば「BAEシステム」とも表記される。多くの場合、傘下の多数の企業を含めた単一の[コングロマリット](../Page/コングロマリット.md "wikilink")として扱われる。BAEは[アクサ](../Page/アクサ.md "wikilink")（9.02%）、[バークレイズ](../Page/バークレイズ.md "wikilink")（3.98%）、[フランクリン・リソース](https://ja.wikipedia.org/wiki/フランクリン・リソース "wikilink")及び系列会社（4.92%）、[リーガル&ジェネラル](https://ja.wikipedia.org/wiki/リーガル&ジェネラル "wikilink")（4.07%）、[ブラックロック](https://ja.wikipedia.org/wiki/ブラックロック "wikilink")（4.96%）が、自社にとって重要な株主だと発表した。
 
 ## 概要
 

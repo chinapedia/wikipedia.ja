@@ -109,7 +109,7 @@
 :\* [剣幸](../Page/剣幸.md "wikilink")（2015年度 - 2017年度）
 
   -
-    ※なお、題名が「NHK歌壇」だった頃は、[俵万智](../Page/俵万智.md "wikilink")や[水原紫苑](../Page/水原紫苑.md "wikilink")、[梅内美華子](../Page/梅内美華子.md "wikilink")らの[歌人](https://ja.wikipedia.org/wiki/歌人 "wikilink")や、語り部の[平野啓子](../Page/平野啓子.md "wikilink")が司会を務めたこともある。
+    ※なお、題名が「NHK歌壇」だった頃は、[俵万智](../Page/俵万智.md "wikilink")や[水原紫苑](../Page/水原紫苑.md "wikilink")、[梅内美華子](../Page/梅内美華子.md "wikilink")らの[歌人](../Page/歌人.md "wikilink")や、語り部の[平野啓子](../Page/平野啓子.md "wikilink")が司会を務めたこともある。
 
 ## 選者
 

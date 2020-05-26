@@ -7,7 +7,7 @@
 
 OLEは文書の一部分を他のソフトで編集させ、それを元の文書に取り込むことも可能にしている。たとえば、[DTP](../Page/DTP.md "wikilink")では、テキストを[ワープロソフト](../Page/ワープロソフト.md "wikilink")、図を[ペイントツール](https://ja.wikipedia.org/wiki/ペイントツール "wikilink")や[ドローツール](https://ja.wikipedia.org/wiki/ドローツール "wikilink")で編集するといった具合である。また、他のデータへの参照を文書に含めることもでき、その場合参照先のデータが変更されると、参照が含まれる文書にも即座にその変更が反映される。
 
-OLEの初期の用途は**[複合文書](https://ja.wikipedia.org/wiki/複合文書 "wikilink")**の管理のためであるが、ドラッグアンドドロップや[クリップボード](../Page/クリップボード.md "wikilink")による[アプリケーション間でのデータの転送のためにも使われている](../Page/アプリケーションソフトウェア.md "wikilink")。また、OLEによるオートメーションは、[JScript](../Page/JScript.md "wikilink")や[VBScript](../Page/VBScript.md "wikilink")を経由して、アプリケーションの動作を自動化するスクリプティングにも使われている。
+OLEの初期の用途は**[複合文書](../Page/複合文書.md "wikilink")**の管理のためであるが、ドラッグアンドドロップや[クリップボード](../Page/クリップボード.md "wikilink")による[アプリケーション間でのデータの転送のためにも使われている](../Page/アプリケーションソフトウェア.md "wikilink")。また、OLEによるオートメーションは、[JScript](../Page/JScript.md "wikilink")や[VBScript](../Page/VBScript.md "wikilink")を経由して、アプリケーションの動作を自動化するスクリプティングにも使われている。
 
 OLEを活用しているソフトウェア実例としては、[Microsoft Office製品のほか](../Page/Microsoft_Office.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版[Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")クリエイティブ製品の\[2\]が挙げられる。
 

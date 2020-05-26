@@ -21,7 +21,7 @@
 <!-- end list -->
 
   - Mocchi
-    （もっち: 本名 岩本 孝文（いわもと たかふみ）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")-） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+    （もっち: 本名 岩本 孝文（いわもと たかふみ）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")-） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
     [熱唱オンエアバトル](../Page/熱唱オンエアバトル.md "wikilink")のセミファイナルの曲は彼が選んだ。その結果433KBで見事にファイナル進出を決めた。
     Mocchiは学生時代のあだ名らしい。
 

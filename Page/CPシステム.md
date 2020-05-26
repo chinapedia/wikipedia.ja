@@ -204,7 +204,7 @@ CPシステム初期の各タイトルは、同時期のゲームと比較して
 </tr>
 <tr class="odd">
 <td><p>1993年05月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パニッシャー_(ベルトスクロールアクション)" title="wikilink">パニッシャー</a></p></td>
+<td><p><a href="../Page/パニッシャー_(ベルトスクロールアクション).md" title="wikilink">パニッシャー</a></p></td>
 <td><p>The Punisher</p></td>
 <td><p>CPシステムDASH作品</p></td>
 </tr>

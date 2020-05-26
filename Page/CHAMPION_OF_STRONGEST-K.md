@@ -15,7 +15,7 @@
   - [2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")の[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会にて第4代王者のJOEは2度目の防衛戦と[STRONGEST-K TAG王座の挑戦試合のダブルタイトルマッチを戦い勝利し](../Page/STRONGEST-K_TAG王座.md "wikilink")、見事二冠王者となった。
   - 2013年7月2日、第14代王者の[滝澤大志](../Page/滝澤大志.md "wikilink")が自らの不祥事により無期限謹慎処分を受け、王座を剥奪された\[1\]。
   - [2014年](../Page/2014年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")、[MIYAWAKIが](../Page/MIYAWAKI_\(プロレスラー\).md "wikilink")[稲松三郎](../Page/稲松三郎.md "wikilink")から勝利し王座を獲得するも稲松の負傷によるレフェリーストップだったためMIYAWAKIが王座返上の意向を示していたが、6月25日にSTRONGEST-K管理委員会から「試合途中の負傷によるレフェリーストップでの決着でも王座移動の結果は変わらない」としてMIYAWAKIを正式に第17代王者と認定する旨の発表がなされた\[2\]。
-  - [2019年](../Page/2019年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")から団体名を2AWへ変更するに伴い、KAIENTAI DOJOが認定していた同王座は封印され、新たに2AWが認定する王座（[2AW無差別級王座](https://ja.wikipedia.org/wiki/2AW無差別級王座 "wikilink")）が作られる事になった。
+  - [2019年](../Page/2019年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")から団体名を2AWへ変更するに伴い、KAIENTAI DOJOが認定していた同王座は封印され、新たに2AWが認定する王座（[2AW無差別級王座](https://ja.wikipedia.org/wiki/2AW無差別級王座 "wikilink")）が作られる事になった。
 
 ## 歴代王者
 

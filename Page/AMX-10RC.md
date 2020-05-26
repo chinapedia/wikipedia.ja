@@ -78,7 +78,7 @@ NATO Triple Heavy Target 2200 m</p></td>
   - [第9海兵軽機甲旅団](../Page/第9海兵軽機甲旅団_\(フランス陸軍\).md "wikilink") - [海兵歩兵戦車連隊および](../Page/海兵歩兵戦車連隊_\(フランス軍\).md "wikilink")[第1海兵歩兵連隊](../Page/第1海兵歩兵連隊_\(フランス軍\).md "wikilink")
   - [ドイツ・フランス合同旅団](../Page/ドイツ・フランス合同旅団.md "wikilink") - [第3驃騎兵連隊](../Page/第3驃騎兵連隊_\(フランス軍\).md "wikilink")
   - [第5海外混成連隊](../Page/第5海外混成連隊_\(フランス軍\).md "wikilink")（[ジブチ](../Page/ジブチ.md "wikilink")に駐屯）
-  - [第1アフリカ猟兵連隊](https://ja.wikipedia.org/wiki/第1アフリカ猟兵連隊_\(フランス軍\) "wikilink")（新兵訓練・戦術研究・車両評価部隊）
+  - [第1アフリカ猟兵連隊](../Page/第1アフリカ猟兵連隊_\(フランス軍\).md "wikilink")（新兵訓練・戦術研究・車両評価部隊）
 
 現在、フランス陸軍に装備されているAMX-10RCには[電子機器](https://ja.wikipedia.org/wiki/電子機器 "wikilink")の更新、[NATOで広く使用されている](../Page/北大西洋条約機構.md "wikilink")105mm[砲と共通する](https://ja.wikipedia.org/wiki/ライフル砲 "wikilink")[弾薬](../Page/弾薬.md "wikilink")が使用可能な[主砲](../Page/主砲.md "wikilink")への換装、[装甲](../Page/装甲.md "wikilink")防御力の強化のための補助装甲の付与、[エンジン](../Page/エンジン.md "wikilink")・[トランスミッションの換装などが行われている](https://ja.wikipedia.org/wiki/クラッチ "wikilink")。
 

@@ -244,7 +244,7 @@
 8.  旅人よ
 9.  ブーメラン・ベイビー
 10. ブラック・サンド・ビーチ
-11. [君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink")
+11. [君といつまでも](../Page/君といつまでも.md "wikilink")
 12. [海 その愛](https://ja.wikipedia.org/wiki/海_その愛 "wikilink") 〜 夕陽は赤く
 
 <!-- end list -->

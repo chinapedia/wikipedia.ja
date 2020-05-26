@@ -1345,7 +1345,7 @@
     プロ野球ファンテレネットスタジアム（ROM/DISK）
 
   - 日本ファルコム
-    [イース](https://ja.wikipedia.org/wiki/イースI "wikilink")（DISK）
+    [イース](../Page/イースI.md "wikilink")（DISK）
 
     [ザナドゥ](../Page/ザナドゥ_\(ゲーム\).md "wikilink"): DRAGON SLAYER II（ROM）※MSX1版
 

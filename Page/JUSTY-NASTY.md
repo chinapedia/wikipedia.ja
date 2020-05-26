@@ -17,7 +17,7 @@
 
 2015年7月25日に渋谷チェルシーホテル公演「Original Justy-Nasty Live -4 FRENEMIES-」が行われ、アルバム『PLEASURE OF THE SLUTS』収録曲を中心に演奏\[5\]。メンバー書き下ろし新曲4曲を収録した6曲入りNEWミニアルバム『4 FRENEMIES』を会場発売\[6\]。2015年8月22日に大阪 心斎橋パラダイム\[7\]公演が行われた。
 
-2015年9月12日東京 [渋谷 TSUTAYA O-EASTで行われたDEAD](../Page/Shibuya_O-EAST.md "wikilink") END主催LIVE「四鬼夜行 - 六喰 -」に、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、[GARGOYLEと共に出演](../Page/Gargoyle.md "wikilink")\[8\]。
+2015年9月12日東京 [渋谷 TSUTAYA O-EASTで行われたDEAD](../Page/Shibuya_O-EAST.md "wikilink") END主催LIVE「四鬼夜行 - 六喰 -」に、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、[GARGOYLEと共に出演](../Page/Gargoyle.md "wikilink")\[8\]。
 
 2015年10月18日東京 池袋手刀(CHOP)で行われた大人世代のライブガイド「ライブイコーゼ」presents『Amplifier』vol.4に、vez（ヴェズ）と共に出演。
 
@@ -2785,7 +2785,7 @@ New Mini Album「4 FRENEMIES」会場発売。</p></td>
 <td><p>ライブイベント</p></td>
 <td><p>DEAD END主催LIVE「四鬼夜行-六喰-」</p></td>
 <td><p>9月12日 渋谷<a href="../Page/Shibuya_O-EAST.md" title="wikilink">TSUTAYA O-EAST</a><br />
-（対バン：<a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a>、<a href="../Page/D&#39;ERLANGER.md" title="wikilink">D'ERLANGER</a>、<a href="../Page/Gargoyle.md" title="wikilink">GARGOYLE</a>）</p></td>
+（対バン：<a href="../Page/DEAD_END_(バンド).md" title="wikilink">DEAD END</a>、<a href="../Page/D&#39;ERLANGER.md" title="wikilink">D'ERLANGER</a>、<a href="../Page/Gargoyle.md" title="wikilink">GARGOYLE</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

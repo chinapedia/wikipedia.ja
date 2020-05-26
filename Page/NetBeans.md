@@ -1,7 +1,7 @@
 > この記事は[NetBeans](https://ja.wikipedia.org/wiki/NetBeans)から翻訳されています。
 
 
-**NetBeans**（**ネットビーンズ**）とは、[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（買収以前は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")、以下同）を中心としたコミュニティにより開発されている、[オープンソース](../Page/オープンソース.md "wikilink")の[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE) である。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")/[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")/[C言語](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")/[JavaScript](../Page/JavaScript.md "wikilink")/[Groovy](../Page/Groovy.md "wikilink")等のいくつかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")に対応している。NetBeans Platformを利用して開発されており、様々な[モジュール](../Page/モジュール.md "wikilink")を組み込むことが可能である。NetBeansの特徴の一つである[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[エディタ](https://ja.wikipedia.org/wiki/エディタ "wikilink") (Project Matisse) もその一つである。
+**NetBeans**（**ネットビーンズ**）とは、[オラクル](../Page/オラクル_\(企業\).md "wikilink")（買収以前は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")、以下同）を中心としたコミュニティにより開発されている、[オープンソース](../Page/オープンソース.md "wikilink")の[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE) である。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")/[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")/[C言語](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")/[JavaScript](../Page/JavaScript.md "wikilink")/[Groovy](../Page/Groovy.md "wikilink")等のいくつかの[プログラミング言語](../Page/プログラミング言語.md "wikilink")に対応している。NetBeans Platformを利用して開発されており、様々な[モジュール](../Page/モジュール.md "wikilink")を組み込むことが可能である。NetBeansの特徴の一つである[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[エディタ](https://ja.wikipedia.org/wiki/エディタ "wikilink") (Project Matisse) もその一つである。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 NetBeansは始めから[多言語](../Page/多言語.md "wikilink")に対応しており[日本語](../Page/日本語.md "wikilink")などの多くの言語をインストール直後から利用可能である。
 
-パッケージによって異なるが開発できる言語として、Java・[JavaScript](../Page/JavaScript.md "wikilink")・[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")・[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")・[Groovy](../Page/Groovy.md "wikilink")がある。また[Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")を動作させるのに必要な[Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")・[GlassFish](https://ja.wikipedia.org/wiki/GlassFish "wikilink")といった[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")が同封されているパッケージもあるため、別途インストールすることなく利用できる。
+パッケージによって異なるが開発できる言語として、Java・[JavaScript](../Page/JavaScript.md "wikilink")・[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")・[C](../Page/C言語.md "wikilink")/[C++](../Page/C++.md "wikilink")・[Groovy](../Page/Groovy.md "wikilink")がある。また[Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")を動作させるのに必要な[Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")・[GlassFish](../Page/GlassFish.md "wikilink")といった[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")が同封されているパッケージもあるため、別途インストールすることなく利用できる。
 
 Java IDEとして既に広く使われている[Eclipseと比較されることが多い](../Page/Eclipse_\(統合開発環境\).md "wikilink")。現状、シェア、多機能性、[プラグイン](../Page/プラグイン.md "wikilink")の豊富さは、Eclipseに一日の長がある。NetBeansは3.51までJava [Look\&Feelを使用していたため](https://ja.wikipedia.org/wiki/Look_and_feel "wikilink")、特にWindowsユーザーに受け入れられにくかったようである。3.6でLook\&FeelをSystemLook\&Feelに変更したことにより、ユーザーが増加しはじめた。
 

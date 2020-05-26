@@ -188,7 +188,7 @@
 ### CM
 
   - [TOYOTA](https://ja.wikipedia.org/wiki/TOYOTA "wikilink") (2007年）
-  - [高橋書店](https://ja.wikipedia.org/wiki/高橋書店 "wikilink") TV−CM 『未来がはじまるよ。』篇（2014年）
+  - [高橋書店](../Page/高橋書店.md "wikilink") TV−CM 『未来がはじまるよ。』篇（2014年）
 
 ## 外部リンク
 

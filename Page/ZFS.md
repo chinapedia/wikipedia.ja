@@ -1,7 +1,7 @@
 > この記事は[ZFS](https://ja.wikipedia.org/wiki/ZFS)から翻訳されています。
 
 
-**ZFS**は、主に[オラクルのOracle](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink") [Solaris](../Page/Solaris.md "wikilink")上で実装されている[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")・アドレッシングを特徴とする[ファイルシステム](../Page/ファイルシステム.md "wikilink")。今まで Solaris (SunOS) で用いられてきた [Unix File System](../Page/Unix_File_System.md "wikilink") (UFS) の次世代ファイルシステムと位置づけられている。名称は *Zettabyte File System* に由来する\[1\]が、現在は何の略称でもないとされる\[2\]。
+**ZFS**は、主に[オラクルのOracle](../Page/オラクル_\(企業\).md "wikilink") [Solaris](../Page/Solaris.md "wikilink")上で実装されている[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")・アドレッシングを特徴とする[ファイルシステム](../Page/ファイルシステム.md "wikilink")。今まで Solaris (SunOS) で用いられてきた [Unix File System](../Page/Unix_File_System.md "wikilink") (UFS) の次世代ファイルシステムと位置づけられている。名称は *Zettabyte File System* に由来する\[1\]が、現在は何の略称でもないとされる\[2\]。
 
 ## 概要
 

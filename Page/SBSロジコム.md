@@ -187,7 +187,7 @@
 <!-- end list -->
 
   - 香川県
-      - 香川物流センター支店 [坂出市](https://ja.wikipedia.org/wiki/坂出市 "wikilink")大屋冨町2577-4
+      - 香川物流センター支店 [坂出市](../Page/坂出市.md "wikilink")大屋冨町2577-4
 
 <!-- end list -->
 

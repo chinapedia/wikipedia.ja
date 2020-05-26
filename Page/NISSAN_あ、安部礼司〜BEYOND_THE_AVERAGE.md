@@ -58,7 +58,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - 安部 蘭（あべ らん）：[冨岡美沙子](https://ja.wikipedia.org/wiki/冨岡美沙子 "wikilink")（乳児期※心の声）　[渡辺弥咲](https://ja.wikipedia.org/wiki/渡辺弥咲 "wikilink")（シーズン13～）
     [2014年](../Page/2014年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")生まれ。
     安部礼司・優夫妻の長女。
-  - 飯野 平太（いいの へいた）：[市川訓睦](https://ja.wikipedia.org/wiki/市川訓睦 "wikilink")\[5\]
+  - 飯野 平太（いいの へいた）：[市川訓睦](../Page/市川訓睦.md "wikilink")\[5\]
     [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月14日](../Page/2月14日.md "wikilink")生まれのサラリーマン。血液型O型。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊橋市](../Page/豊橋市.md "wikilink")出身。
     名前の由来は革新者を意味する「イノベータ（innovater）」。
     「…っす\!」という、体育会系を連想させる雑な敬語を話す。
@@ -218,7 +218,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
   - [木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink") - [LINEの安部礼司スタンプ開発を提案する大日本ジェネラル](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")[TMN](../Page/TM_NETWORK.md "wikilink")(多摩ネットワークセンター)プロフェッショナルエアワーカー「木根」役\[19\]
   - [FROGMAN](../Page/FROGMAN.md "wikilink") - 本人・総統・吉田君役
   - [高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink") - 本人役。アンジュが新入社員時代で世話になったという伝説のリーダー社員として登場。TOKYO FMのラジオ番組『[高橋みなみの これから、何する?](https://ja.wikipedia.org/wiki/高橋みなみの_これから、何する? "wikilink")』とのコラボ企画\[20\]。
-  - [足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink") - 永太の通う小学校の教育実習生役として登場\[21\]。
+  - [足立梨花](../Page/足立梨花.md "wikilink") - 永太の通う小学校の教育実習生役として登場\[21\]。
   - [フジファブリック](../Page/フジファブリック.md "wikilink") - 本人役。後述するイベントにも出演。
   - [佐野ひなこ](https://ja.wikipedia.org/wiki/佐野ひなこ "wikilink")、[筧美和子](https://ja.wikipedia.org/wiki/筧美和子 "wikilink") - 旅行代理店から出てきたOL「真野 奈々子」「影井ミワ」役として出演\[22\]。
   - [武井壮](https://ja.wikipedia.org/wiki/武井壮 "wikilink") - 新入社員「百獣野 王太郎」として出演。
@@ -782,7 +782,7 @@ TOKYO FM制作・[JFN系](../Page/全国FM放送協議会.md "wikilink")38局ネ
 <!-- end list -->
 
   -
-    [コミカライズ版が](https://ja.wikipedia.org/wiki/漫画化 "wikilink")[しりあがり寿](../Page/しりあがり寿.md "wikilink")作画で[フリーペーパー](../Page/フリーペーパー.md "wikilink")式の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[コミック・ガンボ](../Page/コミック・ガンボ.md "wikilink")』に連載された、全10回。
+    [コミカライズ版が](https://ja.wikipedia.org/wiki/漫画化 "wikilink")[しりあがり寿](../Page/しりあがり寿.md "wikilink")作画で[フリーペーパー](../Page/フリーペーパー.md "wikilink")式の[漫画雑誌](../Page/漫画雑誌.md "wikilink")『[コミック・ガンボ](../Page/コミック・ガンボ.md "wikilink")』に連載された、全10回。
 
 <!-- end list -->
 

@@ -26,7 +26,7 @@
 
   - 1期：[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")
   - 2期：[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")
-  - 4期：[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
+  - 4期：[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
   - 5期：[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")
   - 6期：[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[亀井絵里](../Page/亀井絵里.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")
 

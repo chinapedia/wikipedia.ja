@@ -81,7 +81,7 @@
   - [安西美穂](../Page/安西美穂.md "wikilink")（あんざい みほ、2004年7月 - ）デビュー
   - [泉麻那](https://ja.wikipedia.org/wiki/泉麻那 "wikilink")（いずみ まな、2010年4月23日）
   - [板野有紀](https://ja.wikipedia.org/wiki/板野有紀 "wikilink")（いたの ゆうき、2012年12月28日）
-  - [伊東エリ](https://ja.wikipedia.org/wiki/伊東エリ "wikilink")（いとう えり、2008年7月 - ）
+  - [伊東エリ](../Page/伊東エリ.md "wikilink")（いとう えり、2008年7月 - ）
   - [伊東紅](https://ja.wikipedia.org/wiki/伊東紅 "wikilink")（いとう べに、2013年8月9日AVデビュー - 2014年6月27日）
   - [稲見亜矢](https://ja.wikipedia.org/wiki/稲見亜矢 "wikilink")（いなみ あや、2010年2月26日）
   - [井上詩織](../Page/井上詩織.md "wikilink")（いのうえ しおり、1998年8月28日 - 9月18日）
@@ -117,7 +117,7 @@
   - [管野しずか](https://ja.wikipedia.org/wiki/管野しずか "wikilink")（かんの しずか、2012年7月23日 - 10月26日）
   - [妃すみれ](https://ja.wikipedia.org/wiki/妃すみれ "wikilink")（きさき すみれ、2007年8月 - ）デビュー
   - [妃悠愛](https://ja.wikipedia.org/wiki/妃悠愛 "wikilink")（きさき ゆあ、2010年5月28日）
-  - [希志あいの](https://ja.wikipedia.org/wiki/希志あいの "wikilink")（きし あいの、2008年2月 - ）デビュー
+  - [希志あいの](../Page/希志あいの.md "wikilink")（きし あいの、2008年2月 - ）デビュー
   - [希志真理子](https://ja.wikipedia.org/wiki/希志真理子 "wikilink") （きし まりこ、1990年 - 、1996年再デビューしたが何時引退したのかは不明）
   - [来生ひかり](../Page/来生ひかり.md "wikilink")（きすぎ ひかり、2002年6月 - ）
   - [北川エリカ](https://ja.wikipedia.org/wiki/北川エリカ "wikilink")（きたがわ えりか、2012年7月27日）
@@ -175,7 +175,7 @@
   - [鈴音りおな](https://ja.wikipedia.org/wiki/鈴音りおな "wikilink")（すずね りおな、2010年4月23日 - 10月22日）
   - [春原未来](https://ja.wikipedia.org/wiki/春原未来 "wikilink")（すのはら みき、2012年12月28日）
   - [芹沢ゆい](https://ja.wikipedia.org/wiki/芹沢ゆい "wikilink")（せりざわ ゆい、2011年1月14日AVデビュー - 8月12日）
-  - [芹沢恋](https://ja.wikipedia.org/wiki/芹沢恋 "wikilink")（せりざわ れん、2007年12月 - 2009年9月）デビュー
+  - [芹沢恋](../Page/芹沢恋.md "wikilink")（せりざわ れん、2007年12月 - 2009年9月）デビュー
 
 ### た・な・は行
 
@@ -246,7 +246,7 @@
   - [宮地由梨香](https://ja.wikipedia.org/wiki/宮地由梨香 "wikilink")（みやぢ ゆりか、2012年11月23日）
   - [宮瀬リコ](https://ja.wikipedia.org/wiki/宮瀬リコ "wikilink")（みやせ りこ、2011年9月23日）
   - [美雪ありす](https://ja.wikipedia.org/wiki/美雪ありす "wikilink")（みゆき ありす、2010年12月10日AVデビュー - 2012年8月10日）
-  - [モカ](https://ja.wikipedia.org/wiki/モカ_\(AV女優\) "wikilink")（2010年3月26日）
+  - [モカ](../Page/モカ_\(AV女優\).md "wikilink")（2010年3月26日）
   - [持田百恵](https://ja.wikipedia.org/wiki/持田百恵 "wikilink")（もちだ ももえ、2010年2月26日）
   - [望月ちひろ](https://ja.wikipedia.org/wiki/望月ちひろ "wikilink")（もちづき ちひろ、2010年7月9日AVデビュー - 12月10日）
   - [百花エミリ](https://ja.wikipedia.org/wiki/百花エミリ "wikilink")（ももか えみり、2011年5月27日）

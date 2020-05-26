@@ -9,7 +9,7 @@
 
 [2006年](../Page/2006年.md "wikilink")には[コンビニコミック](../Page/コンビニコミック.md "wikilink")版が全2巻、[2011年](../Page/2011年.md "wikilink")にはゼノンコミックDX版が全3巻で発売された。
 
-[2013年](../Page/2013年.md "wikilink")1月には[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")『CR CYBERブルー』が発売されている。ストーリー仕立てとなっており、原作の後日談が書き下ろされている。
+[2013年](../Page/2013年.md "wikilink")1月には[三洋物産](../Page/三洋物産.md "wikilink")から[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")『CR CYBERブルー』が発売されている。ストーリー仕立てとなっており、原作の後日談が書き下ろされている。
 
 ### 本作のリメイク
 
@@ -116,7 +116,7 @@
 
 ## 外部リンク
 
-  - [CR CYBERブルー](http://www.sanyobussan.co.jp/products/pk_cyberblue/#top) - [三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")
+  - [CR CYBERブルー](http://www.sanyobussan.co.jp/products/pk_cyberblue/#top) - [三洋物産](../Page/三洋物産.md "wikilink")
 
 [Category:原哲夫の漫画作品](https://ja.wikipedia.org/wiki/Category:原哲夫の漫画作品 "wikilink") [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:1988年の漫画](https://ja.wikipedia.org/wiki/Category:1988年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:ディストピア漫画](https://ja.wikipedia.org/wiki/Category:ディストピア漫画 "wikilink") [Category:サイボーグを主人公にした作品](https://ja.wikipedia.org/wiki/Category:サイボーグを主人公にした作品 "wikilink") [Category:サイボーグを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:サイボーグを題材とした漫画作品 "wikilink") [Category:テクノスリラー漫画](https://ja.wikipedia.org/wiki/Category:テクノスリラー漫画 "wikilink")
 

@@ -148,7 +148,7 @@
 | 12月27日 | [人生ゲームWii](https://ja.wikipedia.org/wiki/人生ゲーム#人生ゲームWii "wikilink")                                                                | タカラトミー                                                                              |               |                  |    |                                                                          |
 | 12月27日 | [SIMPLE Wiiシリーズ Vol.3 遊んで覚える THE パーティー・カジノ](../Page/SIMPLEシリーズ.md "wikilink")                                                      | ディースリー・パブリッシャー                                                                      | Wi-Fi         |                  |    |                                                                          |
 | 12月27日 | [SIMPLE Wiiシリーズ Vol.4 誰でも遊べる THE シューティング・アクション](../Page/SIMPLEシリーズ.md "wikilink")                                                  | ディースリー・パブリッシャー                                                                      | Wi-Fi         |                  |    |                                                                          |
-| 12月27日 | [アニメスロットレボリューション パチスロ「機動戦士ガンダムII 〜哀・戦士編〜」](https://ja.wikipedia.org/wiki/パチスロ機動戦士ガンダムII_〜哀・戦士編〜 "wikilink")                        | バンダイナムコゲームス                                                                         |               |                  |    |                                                                          |
+| 12月27日 | [アニメスロットレボリューション パチスロ「機動戦士ガンダムII 〜哀・戦士編〜」](../Page/パチスロ機動戦士ガンダムII_〜哀・戦士編〜.md "wikilink")                                           | バンダイナムコゲームス                                                                         |               |                  |    |                                                                          |
 | 12月27日 | [のだめカンタービレ ドリーム☆オーケストラ](../Page/のだめカンタービレ_ドリーム☆オーケストラ.md "wikilink")                                                               | バンダイナムコゲームス                                                                         |               |                  |    |                                                                          |
 | 12月27日 | [財団法人日本漢字能力検定協会公認 漢検Wii 〜漢字王決定戦〜](../Page/財団法人日本漢字能力検定協会公認_漢検DS.md "wikilink")                                                     | [ロケットカンパニー](../Page/ロケットカンパニー.md "wikilink")                                        |               |                  |    |                                                                          |
 |        |                                                                                                                                    |                                                                                     |               |                  |    |                                                                          |
@@ -279,7 +279,7 @@
 </tr>
 <tr class="odd">
 <td><p>02月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/全国デコトラ祭り" title="wikilink">全国デコトラ祭り</a></p></td>
+<td><p><a href="../Page/全国デコトラ祭り.md" title="wikilink">全国デコトラ祭り</a></p></td>
 <td><p><a href="../Page/ジャレコ.md" title="wikilink">ジャレコ</a></p></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@
 </tr>
 <tr class="even">
 <td><p>04月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/お掃除戦隊くりーんきーぱー" title="wikilink">お掃除戦隊くりーんきーぱー</a></p></td>
+<td><p><a href="../Page/お掃除戦隊くりーんきーぱー.md" title="wikilink">お掃除戦隊くりーんきーぱー</a></p></td>
 <td><p><a href="../Page/アイディアファクトリー.md" title="wikilink">アイディアファクトリー</a></p></td>
 <td></td>
 <td></td>
@@ -1943,7 +1943,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大神_(ゲーム)" title="wikilink">大神</a></p></td>
+<td><p><a href="../Page/大神_(ゲーム).md" title="wikilink">大神</a></p></td>
 <td><p>カプコン</p></td>
 <td></td>
 <td></td>
@@ -2772,7 +2772,7 @@
 </tr>
 <tr class="even">
 <td><p>12月02日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クッキングママ" title="wikilink">ベビーシッターママ</a></p></td>
+<td><p><a href="../Page/クッキングママ.md" title="wikilink">ベビーシッターママ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オフィスクリエイト_(ゲーム会社)" title="wikilink">オフィスクリエイト</a></p></td>
 <td></td>
 <td></td>

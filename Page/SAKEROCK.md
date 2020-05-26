@@ -1,7 +1,7 @@
 > この記事は[SAKEROCK](https://ja.wikipedia.org/wiki/SAKEROCK)から翻訳されています。
 
 
-**SAKEROCK**（サケロック）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インストゥルメンタル](../Page/器楽曲.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーの[星野源](../Page/星野源.md "wikilink")が同じ[自由の森学園高等学校出身のメンバーを集め](../Page/自由の森学園中学校・高等学校.md "wikilink")、2000年に結成。インディーズレーベル[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")所属。バンド名の由来は、[マーティン・デニー](https://ja.wikipedia.org/wiki/マーティン・デニー "wikilink")の同名曲から。
+**SAKEROCK**（サケロック）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[インストゥルメンタル](../Page/器楽曲.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。リーダーの[星野源](../Page/星野源.md "wikilink")が同じ[自由の森学園高等学校出身のメンバーを集め](../Page/自由の森学園中学校・高等学校.md "wikilink")、2000年に結成。インディーズレーベル[カクバリズム](../Page/カクバリズム.md "wikilink")所属。バンド名の由来は、[マーティン・デニー](https://ja.wikipedia.org/wiki/マーティン・デニー "wikilink")の同名曲から。
 
 [2015年](../Page/2015年.md "wikilink")2月28日に解散発表\[1\]し、6月2日に[両国国技館](../Page/両国国技館.md "wikilink")でラストライブを開催し解散した。
 

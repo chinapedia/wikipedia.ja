@@ -11,7 +11,7 @@
 
   - [Symfony](https://ja.wikipedia.org/wiki/Symfony "wikilink") バージョン 2 以降
   - [Laravel](https://ja.wikipedia.org/wiki/Laravel "wikilink") バージョン 4 以降
-  - [CodeIgniter](https://ja.wikipedia.org/wiki/CodeIgniter "wikilink") バージョン 3.0 以降
+  - [CodeIgniter](../Page/CodeIgniter.md "wikilink") バージョン 3.0 以降
   - [CakePHP](../Page/CakePHP.md "wikilink") バージョン 3.0 以降
   - [FuelPHP](https://ja.wikipedia.org/wiki/FuelPHP "wikilink") バージョン 2.0 以降
   - [Drupal](../Page/Drupal.md "wikilink") バージョン 8 以降

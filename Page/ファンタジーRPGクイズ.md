@@ -98,7 +98,7 @@
   - [岡崎武士](../Page/岡崎武士.md "wikilink") - イラストレーター
   - [こいでたく](../Page/こいでたく.md "wikilink") - イラストレーター
   - [望月基弘](../Page/鈴木猛.md "wikilink") - イラストレーター
-  - [草川遊也](https://ja.wikipedia.org/wiki/草河遊也 "wikilink") - イラストレーター
+  - [草川遊也](../Page/草河遊也.md "wikilink") - イラストレーター
   - [佐々野悟](https://ja.wikipedia.org/wiki/佐々野悟 "wikilink") - イラストレーター
   - [竜胆丈二](https://ja.wikipedia.org/wiki/竜胆丈二 "wikilink") - イラストレーター
   - [峰岸達実](../Page/峰岸達実.md "wikilink") - イラストレーター

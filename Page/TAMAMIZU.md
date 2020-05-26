@@ -99,7 +99,7 @@
   - チャッピーという名前の[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")（[ヨークシャテリア](https://ja.wikipedia.org/wiki/ヨークシャテリア "wikilink")）を飼っており、ブログにもよく写真を載せていたが、[2009年](../Page/2009年.md "wikilink")（平成21年）5月23日に事故死した。その前はタッタという名前の犬を飼っていた。
   - [ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")（特に豚骨）と[レモン](../Page/レモン.md "wikilink")が大好物。
   - [フィギュア](../Page/フィギュア.md "wikilink")収集が趣味で、中でも『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』シリーズが1番好き。
-  - [ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")が大の苦手。
+  - [ゴキブリ](../Page/ゴキブリ.md "wikilink")が大の苦手。
   - 漫画好きであり、『[NARUTO](https://ja.wikipedia.org/wiki/NARUTO "wikilink")』『[金色のガッシュベル\!\!](https://ja.wikipedia.org/wiki/金色のガッシュベル!! "wikilink")』などを愛読している。
 
 ## 関連項目

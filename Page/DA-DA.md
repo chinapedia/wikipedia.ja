@@ -30,7 +30,7 @@
   - [くるくるドカン〜新しい波を探して〜](../Page/くるくるドカン〜新しい波を探して〜.md "wikilink")
   - [カツ玉ドン\!](https://ja.wikipedia.org/wiki/カツ玉ドン! "wikilink")
   - [お笑い青田ガリッ\!](https://ja.wikipedia.org/wiki/お笑い青田ガリッ! "wikilink")
-  - [エンタの天使](https://ja.wikipedia.org/wiki/エンタの天使 "wikilink") -キャッチコピーは「関西系コント侍」
+  - [エンタの天使](../Page/エンタの天使.md "wikilink") -キャッチコピーは「関西系コント侍」
   - わらいのちから（[CATV系](../Page/ケーブルテレビ.md "wikilink")）
   - [森脇健児の切磋たく丸\!\!](../Page/森脇健児の切磋たく丸!!.md "wikilink")([朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink"))‐過去
   - [森脇健児のサタデーミーティング](../Page/森脇健児のサタデーミーティング.md "wikilink")（[KBS京都](../Page/京都放送.md "wikilink")）

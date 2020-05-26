@@ -377,7 +377,7 @@
 
   - オビプレス - クチコミ情報をオビ記者（レポーター）が紹介ロケVTRと、スタジオに数名のオビ記者（[高野貴裕](../Page/高野貴裕.md "wikilink")、[伊藤隆佑](../Page/伊藤隆佑.md "wikilink")、[新井麻希](https://ja.wikipedia.org/wiki/新井麻希 "wikilink")、[蓮見孝之](../Page/蓮見孝之.md "wikilink")、[ハローバイバイ](../Page/ハローバイバイ.md "wikilink")[金成公信](../Page/金成公信.md "wikilink")・[関暁夫](../Page/関暁夫.md "wikilink")、[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[入江慎也](../Page/入江慎也.md "wikilink")、2007年11月22日加入の[あびる優](../Page/あびる優.md "wikilink")らのうち3～5名）がクチコミ情報をフリップでプレゼンする「*プチプレス*」と2部構成に。
   - あつプレ人類[分類学](../Page/分類学.md "wikilink") - 2007年11月1日放送から[心理テスト](https://ja.wikipedia.org/wiki/心理テスト "wikilink")を実施。オビガールG4名（稀にゲストも）らを診断結果によって中田がツッコミ。番組初期にあった掛け軸教訓格言も中田直筆の字で復活。
-  - [三木聡](../Page/三木聡.md "wikilink")監督と中田の[転々](https://ja.wikipedia.org/wiki/転々 "wikilink")東京散歩 - 2007年11月22日、12月6日の前後編に分けて放送。ロケトーク。
+  - [三木聡](../Page/三木聡.md "wikilink")監督と中田の[転々](../Page/転々.md "wikilink")東京散歩 - 2007年11月22日、12月6日の前後編に分けて放送。ロケトーク。
 
 ### 2007年6月16日 - 9月27日
 
@@ -700,7 +700,7 @@
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/テレビユー福島.md" title="wikilink">テレビユー福島</a>（TUF）</p></td>
 <td><p>同時ネット<br />
-水曜のみ「<a href="https://ja.wikipedia.org/wiki/MUSIC_BARパロパロ" title="wikilink">MUSIC BARパロパロ</a>」放送の為、1時間遅れ</p></td>
+水曜のみ「<a href="../Page/MUSIC_BARパロパロ.md" title="wikilink">MUSIC BARパロパロ</a>」放送の為、1時間遅れ</p></td>
 <td></td>
 </tr>
 <tr class="even">

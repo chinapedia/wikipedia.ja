@@ -13,7 +13,7 @@
 <!-- end list -->
 
   -
-    番組開始当初の放送時間は、『CUTIE PARTY』の前は同じハロー\!プロジェクトの[美勇伝](../Page/美勇伝.md "wikilink")がパーソナリティを務める『[B.B.L.](../Page/B.B.L..md "wikilink")』が放送されており、それを引き継いだ形となる。『B.B.L.』の最終回では、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")より、後輩に引き継ぐ旨の告知があった。
+    番組開始当初の放送時間は、『CUTIE PARTY』の前は同じハロー\!プロジェクトの[美勇伝](../Page/美勇伝.md "wikilink")がパーソナリティを務める『[B.B.L.](../Page/B.B.L..md "wikilink")』が放送されており、それを引き継いだ形となる。『B.B.L.』の最終回では、[石川梨華](../Page/石川梨華.md "wikilink")より、後輩に引き継ぐ旨の告知があった。
 
 ## 出演
 

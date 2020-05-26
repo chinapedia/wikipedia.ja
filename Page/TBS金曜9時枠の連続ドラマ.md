@@ -131,7 +131,7 @@
 
   - 1月～3月：[もしも願いが叶うなら](../Page/もしも願いが叶うなら.md "wikilink") 主演：中山美穂
   - 4月～6月：[アリよさらば](../Page/アリよさらば.md "wikilink") 企画・原作[秋元康](../Page/秋元康.md "wikilink")、音楽・主演：[矢沢永吉](../Page/矢沢永吉.md "wikilink")
-  - 7月～9月：[カミング・ホーム](../Page/カミング・ホーム_\(テレビドラマ\).md "wikilink") 原作：[宮本輝](../Page/宮本輝.md "wikilink")（KADOKAWA角川文庫刊・『[彗星物語](https://ja.wikipedia.org/wiki/彗星物語 "wikilink")』より）、主演：[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")
+  - 7月～9月：[カミング・ホーム](../Page/カミング・ホーム_\(テレビドラマ\).md "wikilink") 原作：[宮本輝](../Page/宮本輝.md "wikilink")（KADOKAWA角川文庫刊・『[彗星物語](../Page/彗星物語.md "wikilink")』より）、主演：[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")
   - 10月～12月：[夢見る頃を過ぎても](../Page/夢見る頃を過ぎても_\(テレビドラマ\).md "wikilink") 主演：[葉月里緒菜](https://ja.wikipedia.org/wiki/葉月里緒奈 "wikilink")、[保阪尚輝](../Page/保阪尚希.md "wikilink")
 
 ### 1995年

@@ -23,12 +23,12 @@
 
 ### アルバム
 
-|      | 発売日                                                        | タイトル                                                                  | 最高位 | 形態 |
-| ---- | ---------------------------------------------------------- | --------------------------------------------------------------------- | --- | -- |
-| 1st  | 1991年[10月31日](../Page/10月31日.md "wikilink")                | [幻惑されて](https://ja.wikipedia.org/wiki/幻惑されて_\(アルバム\) "wikilink")      | 26位 | CD |
-| 2nd  | 1992年[8月26日](../Page/8月26日.md "wikilink")                  | [LOVE JACK](https://ja.wikipedia.org/wiki/LOVE_JACK "wikilink")       | 35位 | CD |
-| LIVE | 1993年[4月21日](../Page/4月21日.md "wikilink")                  | [History Live](https://ja.wikipedia.org/wiki/History_Live "wikilink") | 16位 | CD |
-| 3rd  | 1993年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") | [嵐の明日](https://ja.wikipedia.org/wiki/嵐の明日_\(アルバム\) "wikilink")        | 16位 | CD |
+|      | 発売日                                         | タイトル                                                                  | 最高位 | 形態 |
+| ---- | ------------------------------------------- | --------------------------------------------------------------------- | --- | -- |
+| 1st  | 1991年[10月31日](../Page/10月31日.md "wikilink") | [幻惑されて](https://ja.wikipedia.org/wiki/幻惑されて_\(アルバム\) "wikilink")      | 26位 | CD |
+| 2nd  | 1992年[8月26日](../Page/8月26日.md "wikilink")   | [LOVE JACK](https://ja.wikipedia.org/wiki/LOVE_JACK "wikilink")       | 35位 | CD |
+| LIVE | 1993年[4月21日](../Page/4月21日.md "wikilink")   | [History Live](https://ja.wikipedia.org/wiki/History_Live "wikilink") | 16位 | CD |
+| 3rd  | 1993年[6月2日](../Page/6月2日.md "wikilink")     | [嵐の明日](https://ja.wikipedia.org/wiki/嵐の明日_\(アルバム\) "wikilink")        | 16位 | CD |
 
 ### 映像作品
 

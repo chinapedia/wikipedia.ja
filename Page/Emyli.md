@@ -59,7 +59,7 @@
 
 m-floのライブツアー「m-flo TOUR 2007 COSMICOLOR」に全会場出演。
 
-[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、6thシングル「テキトーLover」（Emyli feat. [VERBAL (m-flo)](https://ja.wikipedia.org/wiki/VERBAL "wikilink") 名義）をリリース。
+[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、6thシングル「テキトーLover」（Emyli feat. [VERBAL (m-flo)](../Page/VERBAL.md "wikilink") 名義）をリリース。
 
 [8月](../Page/8月.md "wikilink")、アップルストア銀座にて行なわれたライブイベント「TOKYO JUICE」にて、新曲「My Love」を初披露。
 
@@ -353,7 +353,7 @@ RADICAL HARDCORE CLIQUE の「Choke」にフィーチャリングボーカリス
   - [Mint](https://ja.wikipedia.org/wiki/Mint_\(安室奈美恵の曲\) "wikilink") / [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")
   - [Chit Chat](https://ja.wikipedia.org/wiki/Mint_\(安室奈美恵の曲\) "wikilink") / [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")
   - Neon Twilight / [FEMM](https://ja.wikipedia.org/wiki/FEMM "wikilink")
-  - [世界一](https://ja.wikipedia.org/wiki/Take_a_"5"_Train "wikilink") / [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")
+  - [世界一](https://ja.wikipedia.org/wiki/Take_a_"5"_Train "wikilink") / [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")
   - I'M YOUNG / [Nam Tae-hyun](https://ja.wikipedia.org/wiki/Nam_Tae-hyun "wikilink") from [Winner (band)](https://ja.wikipedia.org/wiki/Winner_\(band\) "wikilink")
   - [Fighter](https://ja.wikipedia.org/wiki/Dear_Diary/Fighter "wikilink") / [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")
   - [Christmas Wish](https://ja.wikipedia.org/wiki/Christmas_Wish "wikilink") / [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")

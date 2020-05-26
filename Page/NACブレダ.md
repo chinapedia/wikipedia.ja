@@ -141,7 +141,7 @@
 
 \=== GK ===
 
-  - [バボシュ・ガボール](https://ja.wikipedia.org/wiki/バボシュ・ガボール "wikilink") 2000-2004, 2013-2015
+  - [バボシュ・ガボール](../Page/バボシュ・ガボール.md "wikilink") 2000-2004, 2013-2015
 
   - [アルノ・ヴァンズワム](https://ja.wikipedia.org/wiki/アルノ・ヴァンズワム "wikilink") 2003-2007
 

@@ -1,7 +1,7 @@
 > この記事は[GOAL](https://ja.wikipedia.org/wiki/GOAL)から翻訳されています。
 
 
-『**GOAL**』（ゴール）は、[岡村賢二](../Page/岡村賢二.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")8号から25号まで連載された。主人公が必殺[シュート](https://ja.wikipedia.org/wiki/シュート_\(サッカー\) "wikilink")「**爆裂消球**」を使って活躍する[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[魔球](../Page/魔球.md "wikilink")漫画。
+『**GOAL**』（ゴール）は、[岡村賢二](../Page/岡村賢二.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")8号から25号まで連載された。主人公が必殺[シュート](../Page/シュート_\(サッカー\).md "wikilink")「**爆裂消球**」を使って活躍する[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[魔球](../Page/魔球.md "wikilink")漫画。
 
 ## ストーリー
 

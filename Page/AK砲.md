@@ -15,7 +15,7 @@
 
 ## 阪神タイガースのAK砲
 
-阪神タイガース時代の[新井貴浩](https://ja.wikipedia.org/wiki/新井貴浩 "wikilink")（2008年 - 2014年在籍）と[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")（2003年 - 2012年在籍）も「AK砲」と言われていた\[2\]。[クレイグ・ブラゼル](https://ja.wikipedia.org/wiki/クレイグ・ブラゼル "wikilink")（2009年 - 2012年在籍）も含めて「AKB砲」と言う場合もあったが、移籍や引退で解消している。
+阪神タイガース時代の[新井貴浩](https://ja.wikipedia.org/wiki/新井貴浩 "wikilink")（2008年 - 2014年在籍）と[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")（2003年 - 2012年在籍）も「AK砲」と言われていた\[2\]。[クレイグ・ブラゼル](../Page/クレイグ・ブラゼル.md "wikilink")（2009年 - 2012年在籍）も含めて「AKB砲」と言う場合もあったが、移籍や引退で解消している。
 
 ## 脚注
 

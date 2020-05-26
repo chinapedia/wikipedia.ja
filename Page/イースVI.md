@@ -242,16 +242,16 @@
   - オルハ / キサ / マーヴ - [さくら](../Page/丹下桜.md "wikilink")
   - イーシャ - [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")
   - オード / ガッシュ / ロイド / ミハイル - [高橋広樹](../Page/高橋広樹.md "wikilink")
-  - ウル / ナーリャ / ソラ - [相橋愛子](https://ja.wikipedia.org/wiki/相橋愛子 "wikilink")
+  - ウル / ナーリャ / ソラ - [相橋愛子](../Page/相橋愛子.md "wikilink")
   - リーヴ / セラ / シア - [文月かな](../Page/文月かな.md "wikilink")
-  - エルンスト / ケビン / ロムン兵 - [松本健太](https://ja.wikipedia.org/wiki/松本健太 "wikilink")
+  - エルンスト / ケビン / ロムン兵 - [松本健太](../Page/松本健太.md "wikilink")
   - アガレス提督 / マナン / イザック / ガゼル / ロムン兵 - [鶴岡聡](../Page/鶴岡聡.md "wikilink")
   - ドギ / サウド / アグ / ロムン兵 - [菊地慧](https://ja.wikipedia.org/wiki/菊地慧 "wikilink")
   - テラ / ユエ / ロロ / メイプル - 山田容子
   - ラドック船長 / カルマン - 黒木勝志
   - クレヴィア / ウェヌカ / ニース - [太田佳織](https://ja.wikipedia.org/wiki/太田佳織 "wikilink")
-  - アトリ / エミリオ / グエン - [宮原弘和](https://ja.wikipedia.org/wiki/宮原弘和 "wikilink")
-  - クヴァル / オーガスト / ジェド / ロムン兵 - [安部慎二郎](https://ja.wikipedia.org/wiki/安部慎二郎 "wikilink")
+  - アトリ / エミリオ / グエン - [宮原弘和](../Page/宮原弘和.md "wikilink")
+  - クヴァル / オーガスト / ジェド / ロムン兵 - [安部慎二郎](../Page/安部慎二郎.md "wikilink")
   - ラクシュ / ノイ / ティセ - 岩崎恵美
   - バスラム / セブロ / ザクソン - [石川大介](../Page/石川大介.md "wikilink")
   - トクサ / ラーゴ - [皆木俊彦](https://ja.wikipedia.org/wiki/皆木俊彦 "wikilink")

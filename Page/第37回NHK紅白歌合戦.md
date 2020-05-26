@@ -58,7 +58,7 @@
   - [雁屋哲](https://ja.wikipedia.org/wiki/雁屋哲 "wikilink")（劇画作家。漫画『[美味しんぼ](../Page/美味しんぼ.md "wikilink")』の原作者）
   - [黒柳朝](https://ja.wikipedia.org/wiki/黒柳朝 "wikilink")（エッセイスト。翌年上期の連続テレビ小説『[チョッちゃん](../Page/チョッちゃん.md "wikilink")』の原作者）
   - [加藤芳郎](../Page/加藤芳郎.md "wikilink")（漫画家。『[連想ゲーム](../Page/連想ゲーム.md "wikilink")』の白組キャプテン）
-  - [山崎洋子](https://ja.wikipedia.org/wiki/山崎洋子 "wikilink")（作家。この年『[花園の迷宮](https://ja.wikipedia.org/wiki/花園の迷宮 "wikilink")』で[第32回江戸川乱歩賞を受賞](https://ja.wikipedia.org/wiki/江戸川乱歩賞#第31回から第40回 "wikilink")）
+  - [山崎洋子](../Page/山崎洋子.md "wikilink")（作家。この年『[花園の迷宮](https://ja.wikipedia.org/wiki/花園の迷宮 "wikilink")』で[第32回江戸川乱歩賞を受賞](https://ja.wikipedia.org/wiki/江戸川乱歩賞#第31回から第40回 "wikilink")）
   - [渡辺謙](../Page/渡辺謙.md "wikilink")（俳優。この年上期の連続テレビ小説『はね駒』のヒロインの夫・小野寺源造役および翌年の[大河ドラマ](https://ja.wikipedia.org/wiki/NHK大河ドラマ "wikilink")『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』の主人公・[伊達政宗](../Page/伊達政宗.md "wikilink")役）
   - [加納みゆき](../Page/加納みゆき.md "wikilink")（女優。この年下期の連続テレビ小説『[都の風](../Page/都の風.md "wikilink")』のヒロイン・竹田（吉野）悠役）
   - [千代の富士貢](https://ja.wikipedia.org/wiki/千代の富士貢 "wikilink")（大相撲・横綱）

@@ -1,7 +1,7 @@
 > この記事は[Kiss \(雑誌\)](https://ja.wikipedia.org/wiki/Kiss_\(雑誌\))から翻訳されています。
 
 
-『**Kiss**』（キス）は、[講談社](../Page/講談社.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。刊行頻度は[月刊であり](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、毎月25日に発売される\[1\]。
+『**Kiss**』（キス）は、[講談社](../Page/講談社.md "wikilink")が発行する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](../Page/漫画雑誌.md "wikilink")。刊行頻度は[月刊であり](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、毎月25日に発売される\[1\]。
 
 ## 概要
 
@@ -115,7 +115,7 @@
   - […すぎなレボリューション](../Page/…すぎなレボリューション.md "wikilink")（[小池田マヤ](../Page/小池田マヤ.md "wikilink")）
   - [スティーブ・ジョブズ](https://ja.wikipedia.org/wiki/スティーブ・ジョブズ_\(書籍\)#漫画 "wikilink")（原作：ウォルター・アイザックソン、漫画：ヤマザキマリ）※『ハツキス』に移籍
   - 青春★オノマトペ（江本晴）
-  - 青春上等\!\!（[松本美緒](https://ja.wikipedia.org/wiki/松本美緒 "wikilink")）
+  - 青春上等\!\!（[松本美緒](../Page/松本美緒.md "wikilink")）
 
 ### た行
 
@@ -158,7 +158,7 @@
 
 ### ま行
 
-  - 猫嬢ムーム（[今日マチ子](https://ja.wikipedia.org/wiki/今日マチ子 "wikilink")）
+  - 猫嬢ムーム（[今日マチ子](../Page/今日マチ子.md "wikilink")）
   - 見かけの二重星（[つばな](https://ja.wikipedia.org/wiki/つばな "wikilink")）
   - 30婚 miso-com（米沢りか）
   - 道草教室（[長原万里子](https://ja.wikipedia.org/wiki/長原万里子 "wikilink")）

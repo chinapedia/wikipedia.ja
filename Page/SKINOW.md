@@ -128,7 +128,7 @@
 
 ### 基礎スキー
 
-  - [伊東秀人](https://ja.wikipedia.org/wiki/伊東秀人 "wikilink")
+  - [伊東秀人](../Page/伊東秀人.md "wikilink")
   - [伊藤真紀子](https://ja.wikipedia.org/wiki/伊藤真紀子 "wikilink")
   - [上原由](https://ja.wikipedia.org/wiki/上原由 "wikilink")
   - [小熊恵一](https://ja.wikipedia.org/wiki/小熊恵一 "wikilink")

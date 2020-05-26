@@ -135,7 +135,7 @@
       - [ギター侍のうた](https://ja.wikipedia.org/wiki/ギター侍のうた "wikilink")（2004年11月17日）
       - ギター侍のうた弐～完全保存盤～（2005年2月9日）
   - [バナナマン](../Page/バナナマン.md "wikilink")（[設楽統](../Page/設楽統.md "wikilink")、[日村勇紀](../Page/日村勇紀.md "wikilink")）
-      - [東京ひとりぼっち](https://ja.wikipedia.org/wiki/東京ひとりぼっち "wikilink")（1999年1月）
+      - [東京ひとりぼっち](../Page/東京ひとりぼっち.md "wikilink")（1999年1月）
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")
       - [佐賀県](https://ja.wikipedia.org/wiki/佐賀県_\(曲\) "wikilink")（2003年5月21日）
       - [HANAWA ROCK](../Page/HANAWA_ROCK.md "wikilink")（2003年10月1日）

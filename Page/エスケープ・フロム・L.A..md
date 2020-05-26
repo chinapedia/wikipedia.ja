@@ -104,7 +104,7 @@
 </tr>
 <tr class="odd">
 <td><p>下院議員</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・バーテル" title="wikilink">ポール・バーテル</a></p></td>
+<td><p><a href="../Page/ポール・バーテル.md" title="wikilink">ポール・バーテル</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

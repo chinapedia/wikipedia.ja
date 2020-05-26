@@ -57,7 +57,7 @@
   - [その横顔を見つめてしまう〜A Profile 完全版〜](../Page/その横顔を見つめてしまう〜A_Profile_完全版〜.md "wikilink")
   - [ちょこっと☆ばんぱいあ\!](https://ja.wikipedia.org/wiki/ちょこっと☆ばんぱいあ! "wikilink") OP
   - [はぴくり -HAPPY CHRISTMAS-](https://ja.wikipedia.org/wiki/はぴくり_-HAPPY_CHRISTMAS- "wikilink") OP
-  - [BALDR BULLET EQUILIBRIUM](https://ja.wikipedia.org/wiki/BALDR_BULLET "wikilink") OP
+  - [BALDR BULLET EQUILIBRIUM](../Page/BALDR_BULLET.md "wikilink") OP
   - [プリンセスうぃっちぃず EXCELLENT](https://ja.wikipedia.org/wiki/プリンセスうぃっちぃず_EXCELLENT "wikilink") OP
   - [マスカレード 学園SO/DO/MU](https://ja.wikipedia.org/wiki/マスカレード_学園SO/DO/MU "wikilink") OP
   - [メンアットワーク！4](../Page/メンアットワーク!.md "wikilink") OP・デモ
@@ -118,7 +118,7 @@
 ### 2003年
 
   - [ANGELIUM -ときめきLOVE GOD-](https://ja.wikipedia.org/wiki/ANGELIUM_-ときめきLOVE_GOD- "wikilink") イベント用デモ
-  - [カラフルキッス 〜12コの胸キュン\!〜](https://ja.wikipedia.org/wiki/カラフルキッス_〜12コの胸キュン!〜 "wikilink") OP
+  - [カラフルキッス 〜12コの胸キュン\!〜](../Page/カラフルキッス_〜12コの胸キュン!〜.md "wikilink") OP
   - [君の想い、その願い](https://ja.wikipedia.org/wiki/君の想い、その願い "wikilink") OP
   - [汚された夏 〜10本の手で嬲られた少女〜](https://ja.wikipedia.org/wiki/汚された夏_〜10本の手で嬲られた少女〜 "wikilink") OP
   - [黒の図書館](https://ja.wikipedia.org/wiki/黒の図書館 "wikilink") OP

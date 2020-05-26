@@ -19,7 +19,7 @@
 
 2006年1月1日、テューは最後の1,000ピクセルの購入希望者が多いため、「最も公平で論理的な方法」として[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")でのオークションを行うことを発表した。第2のミリオンダラー・ホームページを立ち上げるという方法も考えられたが、「100万ピクセルというコンセプトの完全性と唯一性」を失うことを避けたという\[27\]。オークションは10日間で99の妥当な入札があった。最高入札額は160,109.99ドルにもなったが、多くは入札者が撤回したり、悪ふざけとしてキャンセルされた\[28\]\[29\]。「私が実際に相手に電話してみると、真面目な入札でなかったとわかる。これにはイライラさせられた。だから、最後の瞬間にそれらの入札者を削除した」とテューは述べている\[30\]。落札価格は38,100ドルで\[31\]\[32\]、ダイエット関連商品のオンラインストア MillionDollarWeightLoss.com が落札した\[33\]。メディアの注目が集まっているため、テューはもっと高額で落札すると期待していたと述べた\[34\]。ミリオンダラー・ホームページの総売り上げは5か月間で1,037,100ドルとなった\[35\]\[36\]。コスト、税金、子供や若者のための募金である[The Prince's Trust (en)への寄付を差し引くと](https://ja.wikipedia.org/wiki/:en:The_Prince's_Trust "wikilink")、テューの収入はだいたい650,000ドルから700,000ドルになった\[37\]。
 
-ピクセル購入者は、[Panda Software](https://ja.wikipedia.org/wiki/Panda_Software "wikilink")、[タイムズ](../Page/タイムズ.md "wikilink")、[テネイシャスD](https://ja.wikipedia.org/wiki/テネイシャスD "wikilink")、[Yahoo\!](../Page/Yahoo!.md "wikilink")といった有名なところから、[オンラインカジノ](https://ja.wikipedia.org/wiki/オンラインカジノ "wikilink")、[出会い系サイト](../Page/出会い系サイト.md "wikilink")、個人向け金融、[ウェブデザイン](../Page/ウェブデザイン.md "wikilink")などまで様々である\[38\]。
+ピクセル購入者は、[Panda Software](https://ja.wikipedia.org/wiki/Panda_Software "wikilink")、[タイムズ](../Page/タイムズ.md "wikilink")、[テネイシャスD](https://ja.wikipedia.org/wiki/テネイシャスD "wikilink")、[Yahoo\!](../Page/Yahoo!.md "wikilink")といった有名なところから、[オンラインカジノ](../Page/オンラインカジノ.md "wikilink")、[出会い系サイト](../Page/出会い系サイト.md "wikilink")、個人向け金融、[ウェブデザイン](../Page/ウェブデザイン.md "wikilink")などまで様々である\[38\]。
 
 ## メディアの注目
 

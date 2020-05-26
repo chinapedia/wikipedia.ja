@@ -64,7 +64,7 @@
 
 ## エピソード
 
-  - [HARRYとJAMESの](https://ja.wikipedia.org/wiki/HARRY_\(ミュージシャン\) "wikilink")[明星大学](../Page/明星大学.md "wikilink")軽音部後輩に漫画家[浦沢直樹](../Page/浦沢直樹.md "wikilink")が居た。彼は音楽の道を志していたがスライダーズと自分とのレベルの違いに現実を見て挫折した、とか。彼の作品[20世紀少年](https://ja.wikipedia.org/wiki/20世紀少年 "wikilink")第1巻には[HARRYそっくりのキャラクター](https://ja.wikipedia.org/wiki/HARRY_\(ミュージシャン\) "wikilink")「スパイダーさん」が主人公ケンヂの先輩として登場している。
+  - [HARRYとJAMESの](https://ja.wikipedia.org/wiki/HARRY_\(ミュージシャン\) "wikilink")[明星大学](../Page/明星大学.md "wikilink")軽音部後輩に漫画家[浦沢直樹](../Page/浦沢直樹.md "wikilink")が居た。彼は音楽の道を志していたがスライダーズと自分とのレベルの違いに現実を見て挫折した、とか。彼の作品[20世紀少年](../Page/20世紀少年.md "wikilink")第1巻には[HARRYそっくりのキャラクター](https://ja.wikipedia.org/wiki/HARRY_\(ミュージシャン\) "wikilink")「スパイダーさん」が主人公ケンヂの先輩として登場している。
   - アマチュア時代から評判のバンドだったスライダーズだが、プロになることに当初懐疑的だったらしく、コンテスト出場も知り合いの楽器屋店員から「欠員が出たから出てくれない？」という、誘いにたまたま応えたものだった。
   - デビュー曲のBLOW THE NIGHTは映画「夜をぶっとばせ（[曽根中生](../Page/曽根中生.md "wikilink")監督・[可愛かずみ](../Page/可愛かずみ.md "wikilink")出演）」の主題歌。映画本編にはスライダーズも出演しており、デビュー前の貴重な姿を見ることができる。
   - [HARRYと言えば](https://ja.wikipedia.org/wiki/HARRY_\(ミュージシャン\) "wikilink")[テレキャスター](../Page/フェンダー・テレキャスター.md "wikilink")、蘭丸と言えば[SGのイメージだが](../Page/ギブソン・SG.md "wikilink")、お互いが初めて買ったエレキ・ギターは[HARRYが](https://ja.wikipedia.org/wiki/HARRY_\(ミュージシャン\) "wikilink")[SG](../Page/ギブソン・SG.md "wikilink")、蘭丸は[テレキャスターだった](../Page/フェンダー・テレキャスター.md "wikilink")。

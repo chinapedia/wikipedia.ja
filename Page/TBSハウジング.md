@@ -15,7 +15,7 @@ TBSハウジングの事業主は[東京放送ホールディングス](../Page/
 
 [2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")よりCMソングが変更され、[白井貴子が歌っている](../Page/白井貴子_\(歌手\).md "wikilink")。
 
-展示場は主に[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[郊外](../Page/郊外.md "wikilink")の、付近に大型ショッピングセンターなどがある場所に展開している。現在は[埼玉県](../Page/埼玉県.md "wikilink")・[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")・[東京都](../Page/東京都.md "wikilink")に展示場がある。2013年4月には[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")環内唯一の住宅展示場\[6\]である渋谷会場がオープンした。
+展示場は主に[首都圏](../Page/首都圏_\(日本\).md "wikilink")[郊外](../Page/郊外.md "wikilink")の、付近に大型ショッピングセンターなどがある場所に展開している。現在は[埼玉県](../Page/埼玉県.md "wikilink")・[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")・[東京都](../Page/東京都.md "wikilink")に展示場がある。2013年4月には[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")環内唯一の住宅展示場\[6\]である渋谷会場がオープンした。
 
 ## 展示場一覧
 

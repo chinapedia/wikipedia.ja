@@ -31,7 +31,7 @@ Linux では、procfs は動作中プロセスに関する情報を `/proc/`*[`P
   - `/proc/`*`PID`*`/task` - そのプロセスを親プロセスとしている全プロセスへの[ハードリンク](../Page/ハードリンク.md "wikilink")を格納したディレクトリ
   - `/proc/`*`PID`*`/maps` - そのプロセスの仮想アドレス空間のマッピング状況（アドレス範囲とマッピングされているリソース）
 
-特定のプロセスの[PIDは](../Page/プロセス識別子.md "wikilink")、[`pgrep`](https://ja.wikipedia.org/wiki/pgrep "wikilink")、[`pidof`](https://ja.wikipedia.org/wiki/pidof "wikilink")、[`ps`](https://ja.wikipedia.org/wiki/Ps_\(UNIX\) "wikilink") といったユーティリティで得られる。
+特定のプロセスの[PIDは](../Page/プロセス識別子.md "wikilink")、[`pgrep`](https://ja.wikipedia.org/wiki/pgrep "wikilink")、[`pidof`](https://ja.wikipedia.org/wiki/pidof "wikilink")、[`ps`](../Page/Ps_\(UNIX\).md "wikilink") といったユーティリティで得られる。
 
 ``` bash
 $ ls -l /proc/$(pgrep -n python)/fd        # 最近起動された `python' というプロセスの全ファイル識別子を一覧表示

@@ -1,7 +1,7 @@
 > この記事は[Windows Explorer](https://ja.wikipedia.org/wiki/Windows_Explorer)から翻訳されています。
 
 
-**Windows Explorer**（ウィンドウズ エクスプローラ）とは、[Windows 95と](../Page/Microsoft_Windows_95.md "wikilink")[Windows NT 4.0からの](https://ja.wikipedia.org/wiki/Microsoft_Windows_NT_4.0 "wikilink") [Microsoft Windowsにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[ファイルシステム](../Page/ファイルシステム.md "wikilink")にアクセスするために使われる[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")型の[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")である。また、Windowsの[シェル](../Page/シェル.md "wikilink")として[タスクバー](../Page/タスクバー.md "wikilink")や[デスクトップなどの画面表示用のインタフェースも提供する](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")。[Windows 3.xまでの](../Page/Microsoft_Windows_3.x.md "wikilink")[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")と[プログラムマネージャ](../Page/プログラムマネージャ.md "wikilink")を置き換えたもので、単にエクスプローラ、Explorerと表記されることも多い。
+**Windows Explorer**（ウィンドウズ エクスプローラ）とは、[Windows 95と](../Page/Microsoft_Windows_95.md "wikilink")[Windows NT 4.0からの](https://ja.wikipedia.org/wiki/Microsoft_Windows_NT_4.0 "wikilink") [Microsoft Windowsにおいて](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[ファイルシステム](../Page/ファイルシステム.md "wikilink")にアクセスするために使われる[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")型の[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")である。また、Windowsの[シェル](../Page/シェル.md "wikilink")として[タスクバー](../Page/タスクバー.md "wikilink")や[デスクトップなどの画面表示用のインタフェースも提供する](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")。[Windows 3.xまでの](../Page/Microsoft_Windows_3.x.md "wikilink")[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")と[プログラムマネージャ](../Page/プログラムマネージャ.md "wikilink")を置き換えたもので、単にエクスプローラ、Explorerと表記されることも多い。
 
 ## 概要
 
@@ -31,7 +31,7 @@ Windows Vista以降ではアクティブ デスクトップは削除された。
 
 ### Windows 95とWindows NT 4.0
 
-Windows Explorer最初のバージョンである。[プログラムマネージャ](../Page/プログラムマネージャ.md "wikilink")と[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")を統合した。プログラムマネージャの機能はスタートメニューに、ファイルマネージャの機能はデスクトップに組み込まれ、従来のプログラムとの互換性を有する。[NeXTSTEPのシェルをほぼ模倣したデザイン](../Page/NEXTSTEP.md "wikilink")、[Mac OSの](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[Finder](../Page/Finder.md "wikilink")のような使い勝手を備える。[ビル・ゲイツ](../Page/ビル・ゲイツ.md "wikilink")と[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")の仲が良く、またゲイツがジョブズの業績を高く評価していた故に実現した。 Windows NT 4.0のWindows ExplorerはWindows 95版と同一のものに、セキュリティ設定機能を追加したもの。複数のユーザーがスタートメニューを共有できるよう、標準状態、全ユーザの設定状態、個別ユーザ毎の設定を保持出来る様に変更。
+Windows Explorer最初のバージョンである。[プログラムマネージャ](../Page/プログラムマネージャ.md "wikilink")と[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")を統合した。プログラムマネージャの機能はスタートメニューに、ファイルマネージャの機能はデスクトップに組み込まれ、従来のプログラムとの互換性を有する。[NeXTSTEPのシェルをほぼ模倣したデザイン](../Page/NEXTSTEP.md "wikilink")、[Mac OSの](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")[Finder](../Page/Finder.md "wikilink")のような使い勝手を備える。[ビル・ゲイツ](../Page/ビル・ゲイツ.md "wikilink")と[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")の仲が良く、またゲイツがジョブズの業績を高く評価していた故に実現した。 Windows NT 4.0のWindows ExplorerはWindows 95版と同一のものに、セキュリティ設定機能を追加したもの。複数のユーザーがスタートメニューを共有できるよう、標準状態、全ユーザの設定状態、個別ユーザ毎の設定を保持出来る様に変更。
 
 ### Windows 98
 

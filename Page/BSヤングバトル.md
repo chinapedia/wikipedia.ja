@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - [小林克也](../Page/小林克也.md "wikilink")
-  - [きのしたゆうこ](https://ja.wikipedia.org/wiki/きのしたゆうこ "wikilink")
+  - [きのしたゆうこ](../Page/きのしたゆうこ.md "wikilink")
   - 木ノ島成美
   - [赤坂泰彦](../Page/赤坂泰彦.md "wikilink")
   - NHK[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   - 赤坂泰彦
-  - [きのしたゆうこ](https://ja.wikipedia.org/wiki/きのしたゆうこ "wikilink")
+  - [きのしたゆうこ](../Page/きのしたゆうこ.md "wikilink")
   - 木ノ島成美
   - [中村貴子](../Page/中村貴子.md "wikilink")
   - NHK各放送局アナウンサー

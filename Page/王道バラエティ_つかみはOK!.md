@@ -56,7 +56,7 @@
 ## スタッフ
 
   - 構成：[佐々木勝俊](../Page/佐々木勝俊.md "wikilink")、廣岡豊、[清水東](https://ja.wikipedia.org/wiki/清水東 "wikilink")、[井上知幸](../Page/井上知幸.md "wikilink")
-  - ナレーション：[中江真司](https://ja.wikipedia.org/wiki/中江真司 "wikilink")
+  - ナレーション：[中江真司](../Page/中江真司.md "wikilink")
   - 演出：[園田憲](../Page/園田憲.md "wikilink")、合田隆信、荒井光明
   - プロデューサー：[桂邦彦](../Page/桂邦彦.md "wikilink")
 

@@ -7,7 +7,7 @@
 
 作者の個人的趣味で描かれたというお色気作品であり、[OL](../Page/OL.md "wikilink")、[ナース](https://ja.wikipedia.org/wiki/看護師 "wikilink")、[バニー](../Page/バニーガール.md "wikilink")、[メイド](../Page/メイド.md "wikilink")、[モデル](../Page/ファッションモデル.md "wikilink")、[レースクイーン](../Page/レースクイーン.md "wikilink")、[婦警](../Page/女性警察官.md "wikilink")、[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")、[女子高生](../Page/女子高生.md "wikilink")、[チャイナドレス](../Page/チャイナドレス.md "wikilink")姿、[水着](../Page/水着.md "wikilink")姿など、さまざまな女性キャラクターが登場する。また、『[2人におまかせ\!](https://ja.wikipedia.org/wiki/2人におまかせ! "wikilink")』や『[DEAR BOYS](../Page/DEAR_BOYS.md "wikilink")』といった他の八神作品の女性キャラクターも登場する。
 
-『[ミスターマガジン](https://ja.wikipedia.org/wiki/ミスターマガジン "wikilink")』[1996年](../Page/1996年.md "wikilink")9号より連載が開始された。[2000年](../Page/2000年.md "wikilink")1月に同誌休刊により連載中断。『[ヤングマガジンアッパーズ](../Page/ヤングマガジンアッパーズ.md "wikilink")』2000年10号より連載を再開するが、後に同誌も[2004年](../Page/2004年.md "wikilink")10月に休刊となり、それと同時に本作も終了した。
+『[ミスターマガジン](../Page/ミスターマガジン.md "wikilink")』[1996年](../Page/1996年.md "wikilink")9号より連載が開始された。[2000年](../Page/2000年.md "wikilink")1月に同誌休刊により連載中断。『[ヤングマガジンアッパーズ](../Page/ヤングマガジンアッパーズ.md "wikilink")』2000年10号より連載を再開するが、後に同誌も[2004年](../Page/2004年.md "wikilink")10月に休刊となり、それと同時に本作も終了した。
 
 『[月刊ヤングマガジン](../Page/月刊ヤングマガジン.md "wikilink")』10号（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月）で一度だけ掲載された。2010年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に、アニメーションDVD付きのコミックの『G-Best G-taste ベストセレクション』が発売された。
 

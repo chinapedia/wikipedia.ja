@@ -202,7 +202,7 @@
   - プロデュース：岡島広和、神子力
   - 制作協力：アットアームズ、マジカル、共同テレビジョン
   - 製作：SS製作委員会（[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")、マジカル、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、リベロ、コムセント）
-  - 主題歌：「[I Promise You](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")」[DEEN](../Page/DEEN.md "wikilink")
+  - 主題歌：「[I Promise You](../Page/DEEN_The_Best_Classics.md "wikilink")」[DEEN](../Page/DEEN.md "wikilink")
   - 上映時間：100分
 
 ### キャスト
@@ -210,7 +210,7 @@
   - ダイブツ：[哀川翔](../Page/哀川翔.md "wikilink")
   - 栗原：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
   - ギラ子：[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")
-  - カブキ：[TEAH](https://ja.wikipedia.org/wiki/TEAH "wikilink")
+  - カブキ：[TEAH](../Page/TEAH.md "wikilink")
   - アンキモ：[幸将司](https://ja.wikipedia.org/wiki/幸将司 "wikilink")
   - タモツ：[山田亮平](https://ja.wikipedia.org/wiki/山田亮平 "wikilink")
   - ハニー：[立花彩野](../Page/立花彩野.md "wikilink")

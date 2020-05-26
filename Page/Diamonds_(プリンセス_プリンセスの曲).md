@@ -36,7 +36,7 @@
         前年1988年にリリースされたアルバム『[LET'S GET CRAZY](../Page/LET'S_GET_CRAZY.md "wikilink")』からのカットで、プリンセス・プリンセスの代表曲のひとつに数えられる曲でもあるが、[タイアップ](../Page/タイアップ.md "wikilink")はなく、当初は単なるB面の曲でしかなかった。この曲には富田がイニシャル“M”の男性と破局した切ない思いを、その“仕返し”のつもりで歌詞にし、奥居が曲をつけて完成したといういきさつがある\[5\]\[6\]。なお、奥居は当時、ロック色を全面に出したバンドにしたいとしていたことから、バラードであるこの曲は相応しくないとしてボツにしようとしていた。しかし周りのスタッフに止められて本作収録に至ったという\[7\]。
         アルバムでの初出から26年後の[2014年](../Page/2014年.md "wikilink")11月度[日本レコード協会](../Page/日本レコード協会.md "wikilink")リリースにて、フル配信でのダウンロード数75万件に認定された\[8\]。初出が1980年代以前の楽曲としては、フル配信件数において史上最多記録となっている。
         [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")『[ざまぁKANKAN\!](../Page/ざまぁKANKAN!.md "wikilink")』のコーナー「失恋伝言板」の挿入歌として使用された。
-        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[だんだん](https://ja.wikipedia.org/wiki/だんだん "wikilink")』の劇中歌として使用された。
+        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[だんだん](../Page/だんだん.md "wikilink")』の劇中歌として使用された。
         [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink") [プレミアムドラマ](https://ja.wikipedia.org/wiki/プレミアムドラマ "wikilink")『[昨夜のカレー、明日のパン](https://ja.wikipedia.org/wiki/昨夜のカレー、明日のパン "wikilink")』の主題歌として使用された。
         [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が[2000年](../Page/2000年.md "wikilink")にリリースした「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」とは関連はないが、浜崎は自身の[音楽番組](../Page/音楽番組.md "wikilink")『[ayu ready?](https://ja.wikipedia.org/wiki/ayu_ready? "wikilink")』内でプリンセス・プリンセスの「M」を歌唱したことがある。
 

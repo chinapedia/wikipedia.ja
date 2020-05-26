@@ -11,7 +11,7 @@
 2.  **いまある勇気**
       -
         作詞：戸沢暢美、作曲・編曲：[西脇辰弥](../Page/西脇辰弥.md "wikilink")
-3.  **[みみかきをしていると](https://ja.wikipedia.org/wiki/みみかきをしていると "wikilink")（album version）**
+3.  **[みみかきをしていると](../Page/みみかきをしていると.md "wikilink")（album version）**
       -
         作詞：戸沢暢美、作曲：[亀井登志夫](../Page/亀井登志夫.md "wikilink")、編曲：西脇辰弥
 4.  **夏の果て**

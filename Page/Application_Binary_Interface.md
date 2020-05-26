@@ -53,7 +53,7 @@ EABIの選択は性能に影響することがある\[8\]\[9\]。
 
   - [プログラミング (コンピュータ)](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")
   - [バイナリ](../Page/バイナリ.md "wikilink")
-  - [束縛 (情報工学)](https://ja.wikipedia.org/wiki/束縛_\(情報工学\) "wikilink")
+  - [束縛 (情報工学)](../Page/束縛_\(情報工学\).md "wikilink")
   - [SWIG](https://ja.wikipedia.org/wiki/SWIG "wikilink")
 
 ## 外部リンク

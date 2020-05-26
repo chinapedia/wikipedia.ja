@@ -1,7 +1,7 @@
 > この記事は[OYSTER \(漫画家\)](https://ja.wikipedia.org/wiki/OYSTER_\(漫画家\))から翻訳されています。
 
 
-**ÖYSTER**（オイスター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。既婚。配偶者は漫画家の[成原とんみ](https://ja.wikipedia.org/wiki/成原とんみ "wikilink")\[1\]。ペンネームの由来は[ブルー・オイスター・カルト](../Page/ブルー・オイスター・カルト.md "wikilink")から\[2\]。
+**ÖYSTER**（オイスター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](../Page/漫画家.md "wikilink")。既婚。配偶者は漫画家の[成原とんみ](https://ja.wikipedia.org/wiki/成原とんみ "wikilink")\[1\]。ペンネームの由来は[ブルー・オイスター・カルト](../Page/ブルー・オイスター・カルト.md "wikilink")から\[2\]。
 
 代表作は『**[超可動ガール1/6](https://ja.wikipedia.org/wiki/超可動ガール1/6 "wikilink")**』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）、『**[男爵校長](https://ja.wikipedia.org/wiki/男爵校長 "wikilink")**』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）、『**[光の大社員](../Page/光の大社員.md "wikilink")**』（双葉社）。
 

@@ -10,7 +10,7 @@
   - 当初はシングルのカップリングか、続いてリリースのアルバム『[Queen of Hip-Pop](../Page/Queen_of_Hip-Pop.md "wikilink")』に収録される予定だったが、安室本人の強い意向により急遽シングル曲としてリリースされた。
   - 同年3月に開催された日本最大級の[ファッション・イベント](../Page/ファッションショー.md "wikilink")“[神戸コレクション](../Page/神戸コレクション.md "wikilink")”に出演。[3月5日](../Page/3月5日.md "wikilink")に開催された「神戸コレクション2005 in [神戸ファッションマート](../Page/神戸ファッションマート.md "wikilink")」では、WANT ME, WANT MEにのって、この日一番の歓声を浴びながらステージをウォーキング。3月20日に開催された「神戸コレクション2005 in [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")」では、シークレット・ゲストとして大トリで登場し、発売に先駆けてWANT ME, WANT MEを初披露。
   - 同年[5月29日](../Page/5月29日.md "wikilink")に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")で開催された「[MTV Video Music Awards Japan 2005](../Page/MTV_Video_Music_Awards.md "wikilink")」にパフォーミングアーティストとして出演し、WANT ME, WANT MEをパフォーマンス。「Best R\&B Video（受賞作品：GIRL TALK）」、SPECIAL AWARDSとして「Most Impressivle Performing Artist In Asia（アジア最優秀パフォーミング・ビデオ賞）」の2冠を達成（4年連続受賞）。
-  - コラボレーション・ベストアルバム『[Checkmate\!](https://ja.wikipedia.org/wiki/Checkmate! "wikilink")』には、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）と[コラボレーション](../Page/コラボレーション.md "wikilink")したものが[シークレット・トラックとして収録されている](../Page/隠しトラック.md "wikilink")。
+  - コラボレーション・ベストアルバム『[Checkmate\!](https://ja.wikipedia.org/wiki/Checkmate! "wikilink")』には、[VERBAL](../Page/VERBAL.md "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）と[コラボレーション](../Page/コラボレーション.md "wikilink")したものが[シークレット・トラックとして収録されている](../Page/隠しトラック.md "wikilink")。
 
 ## 収録曲
 
@@ -47,7 +47,7 @@
   - ベストアルバム『[BEST FICTION](../Page/BEST_FICTION.md "wikilink")』
   - コラボレーション・ベストアルバム『[Checkmate\!](https://ja.wikipedia.org/wiki/Checkmate! "wikilink")』
       -
-        [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）との[コラボレーション](../Page/コラボレーション.md "wikilink")
+        [VERBAL](../Page/VERBAL.md "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）との[コラボレーション](../Page/コラボレーション.md "wikilink")
   - ベストアルバム『[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")』
       -
         楽曲を再録・ニューレコーディングで収録。

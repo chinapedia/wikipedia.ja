@@ -13,7 +13,7 @@
 
 翌[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")にはシングル『VEGA/CRYBABY』をリリース、この2作品は[オリコンインディーズチャートで連続](../Page/オリコンチャート.md "wikilink")1位となる。この間、2005年[10月31日](../Page/10月31日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで、47全都道府県を回るコンサートツアー（146日間、54公演）を行う。
 
-この全国ツアー中の2006年[1月11日](../Page/1月11日.md "wikilink")をもって、[ベーシスト](../Page/ベーシスト.md "wikilink")の**83**（現[CHERRYBLOSSOM](https://ja.wikipedia.org/wiki/CHERRYBLOSSOM "wikilink")）が脱退。同年[8月14日](../Page/8月14日.md "wikilink")で[トロンボーン](../Page/トロンボーン.md "wikilink")担当の**Mipo**も脱退する。
+この全国ツアー中の2006年[1月11日](../Page/1月11日.md "wikilink")をもって、[ベーシスト](../Page/ベーシスト.md "wikilink")の**83**（現[CHERRYBLOSSOM](../Page/CHERRYBLOSSOM.md "wikilink")）が脱退。同年[8月14日](../Page/8月14日.md "wikilink")で[トロンボーン](../Page/トロンボーン.md "wikilink")担当の**Mipo**も脱退する。
 
 2006年[10月18日](../Page/10月18日.md "wikilink")、シングル『BOYS\&GIRLS』でメジャーデビュー。
 
@@ -524,21 +524,21 @@
 <td><p>PCCA-03010</p></td>
 <td><ol>
 <li>MONSTER TREE / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
-<li>DIVE TO WORLD / <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></li>
+<li>DIVE TO WORLD / <a href="../Page/CHERRYBLOSSOM.md" title="wikilink">CHERRYBLOSSOM</a></li>
 <li><strong>BOYS &amp; GIRLS / midnightPumpkin</strong></li>
 <li>感電 / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
 <li>午前五時の汽車に乗り / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 <li>Pivot / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
 <li>I say good-bye / ムラマサ☆</li>
 <li><strong>TimeLimit / midnightPumpkin</strong></li>
-<li>信号 / <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></li>
+<li>信号 / <a href="../Page/CHERRYBLOSSOM.md" title="wikilink">CHERRYBLOSSOM</a></li>
 <li>月曜日の未明 / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
 <li>SO-EXCITED! / <a href="https://ja.wikipedia.org/wiki/SHAKA_LABBITS" title="wikilink">SHAKA LABBITS</a></li>
 <li>炭酸水 / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
 <li><strong>夕立ちラプソディー / midnightPumpkin</strong></li>
 <li>GO GIRL / <a href="https://ja.wikipedia.org/wiki/SHAKA_LABBITS" title="wikilink">SHAKA LABBITS</a></li>
 <li>夢風鈴 / ムラマサ☆</li>
-<li>春風LOVER SONG / <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></li>
+<li>春風LOVER SONG / <a href="../Page/CHERRYBLOSSOM.md" title="wikilink">CHERRYBLOSSOM</a></li>
 </ol></td>
 <td><p>ポニーキャニオン</p></td>
 </tr>

@@ -233,7 +233,7 @@
 
   - [在日ファンク](https://ja.wikipedia.org/wiki/在日ファンク "wikilink") - [ジェームス・ブラウン](../Page/ジェームス・ブラウン.md "wikilink")のトリビュートライブで共演。
 
-  - [さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink") - アルバム『How's it going?』に参加。
+  - [さかいゆう](../Page/さかいゆう.md "wikilink") - アルバム『How's it going?』に参加。
 
   - [Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink") - 自主企画イベント「Suchmos The Blow Your Mind vol.1」にリスペクトするアーティストとして招かれて[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")。
 

@@ -149,7 +149,7 @@ taspoは、たばこ自動販売機での[未成年者](../Page/未成年者.md 
 
 また、taspo対応たばこ自販機のみ備えた小売店・飲食店・ホテルなどにて、taspoを所持していないが、たばこ購入希望の成人客に店員や従業員などのtaspoを貸し出していることがある\[20\]\[21\]。福岡県では、taspoを自動販売機に吊り下げていた販売店があった\[22\]。これらは、taspoの申し込み手続きが煩雑なため、自動販売機でたばこを購入できない客への配慮と見られる。貸す際に身分証明書などの提示を求めなければ、年齢詐称に対処できない問題もあるが[JTでは](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")、未成年者喫煙禁止法上、taspoを想定した規定がないため、「貸す時に成人かどうかが判るので問題はない」との見解を出している。日本たばこ協会は当初、「未成年者喫煙禁止法に抵触する恐れがあり、taspoの趣旨にも反する」などの声明を出したが、現在は[JT同様成人か判れば問題ないという見解に変更している](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")。「タスポカードの貸与および不正使用について」と題し報道関係者へコメントを発表した。(2009年6月13日)
 
-他、[厚生労働省](../Page/厚生労働省.md "wikilink")研究班が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[秋](../Page/秋.md "wikilink")に実施した調査で、喫煙する中高生のうち約3割が、taspoを使ってたばこを購入していることが判明しており、また、そのうちの4割近くが、家族からtaspoを借りるなどしていた\[23\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")には、taspoを15歳の次男に貸して[喫煙](https://ja.wikipedia.org/wiki/喫煙 "wikilink")を容認したとして、[未成年者喫煙禁止法](https://ja.wikipedia.org/wiki/未成年者喫煙禁止法 "wikilink")違反の疑いで41歳の母親が書類送検された\[24\]。親が自分のtaspoを子に渡し喫煙を黙認し処罰された例はこの他にも確認されている。
+他、[厚生労働省](../Page/厚生労働省.md "wikilink")研究班が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[秋](../Page/秋.md "wikilink")に実施した調査で、喫煙する中高生のうち約3割が、taspoを使ってたばこを購入していることが判明しており、また、そのうちの4割近くが、家族からtaspoを借りるなどしていた\[23\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")には、taspoを15歳の次男に貸して[喫煙](https://ja.wikipedia.org/wiki/喫煙 "wikilink")を容認したとして、[未成年者喫煙禁止法](https://ja.wikipedia.org/wiki/未成年者喫煙禁止法 "wikilink")違反の疑いで41歳の母親が書類送検された\[24\]。親が自分のtaspoを子に渡し喫煙を黙認し処罰された例はこの他にも確認されている。
 
 ### 小売店の対応
 

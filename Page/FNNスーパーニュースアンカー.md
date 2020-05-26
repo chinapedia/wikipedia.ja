@@ -509,7 +509,7 @@
   - [大西ユカリ](../Page/大西ユカリ.md "wikilink")（[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")） 木曜日、2006年4月6日 - 2007年9月27日
   - [蟹瀬誠一](../Page/蟹瀬誠一.md "wikilink")（ジャーナリスト、[明治大学](../Page/明治大学.md "wikilink")[教授](../Page/教授.md "wikilink")） 木曜日、2006年4月6日 - 2008年6月26日
   - [室井佑月](https://ja.wikipedia.org/wiki/室井佑月 "wikilink")（[小説家](../Page/小説家.md "wikilink")、[随筆家](../Page/随筆家.md "wikilink")、タレント） 水曜日、2006年4月5日 - 2009年3月25日
-  - [倉田真由美](../Page/倉田真由美.md "wikilink")（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")） 金曜日、2007年12月7日 - 2009年3月27日
+  - [倉田真由美](../Page/倉田真由美.md "wikilink")（[漫画家](../Page/漫画家.md "wikilink")） 金曜日、2007年12月7日 - 2009年3月27日
   - [ピーコ](../Page/ピーコ.md "wikilink")（タレント、[ファッション](../Page/ファッション.md "wikilink")[評論家](../Page/評論家.md "wikilink")、[シャンソン](../Page/シャンソン.md "wikilink")[歌手](../Page/歌手.md "wikilink")） 月曜日、2006年4月3日 - 2009年3月23日
   - [奥野史子](../Page/奥野史子.md "wikilink")（スポーツコメンテーター） 月曜日、2007年10月1日 - 2009年3月23日
   - [住田裕子](../Page/住田裕子.md "wikilink")（[弁護士](../Page/弁護士.md "wikilink")） 火曜日、2006年4月4日 - 2009年3月24日、隔週担当。

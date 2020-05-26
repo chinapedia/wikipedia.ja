@@ -192,7 +192,7 @@
 <td><p><a href="../Page/2006年のNBAオールスターゲーム.md" title="wikilink">2006年</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年のNBAオールスターゲーム" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/2007年のNBAオールスターゲーム.md" title="wikilink">2007年</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2008年のNBAオールスターゲーム.md" title="wikilink">2008年</a></p></td>

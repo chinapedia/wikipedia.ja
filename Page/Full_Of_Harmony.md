@@ -220,7 +220,7 @@
 
 #### その他のアルバム
 
-1.  [Wishing A Special Christmas To You](https://ja.wikipedia.org/wiki/Wishing_A_Special_Christmas_To_You "wikilink") (2000年11月22日／ミニアルバム) オリコン30位
+1.  [Wishing A Special Christmas To You](../Page/Wishing_A_Special_Christmas_To_You.md "wikilink") (2000年11月22日／ミニアルバム) オリコン30位
 2.  SINGLES 9905 (2005年6月29日／ベストアルバム)オリコン34位
 3.  White Album ～Winter Best～ (2007年11月14日)オリコン69位
 4.  BEST FEAT 9909 (2009年1月14日／フィーチャーリングベストアルバム)オリコン71位

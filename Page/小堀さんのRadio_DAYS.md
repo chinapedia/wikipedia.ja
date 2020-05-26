@@ -1,7 +1,7 @@
 > この記事は[小堀さんのRadio DAYS](https://ja.wikipedia.org/wiki/小堀さんのRadio_DAYS)から翻訳されています。
 
 
-**小堀さんのRadio DAYS**（こぼりさんのラジオデイズ）は、[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")まで、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（[中部日本放送](../Page/中部日本放送.md "wikilink")）で放送されたラジオ番組。放送時間は、月曜日 - 金曜日12時 - 15時30分。
+**小堀さんのRadio DAYS**（こぼりさんのラジオデイズ）は、[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")まで、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（[中部日本放送](../Page/中部日本放送.md "wikilink")）で放送されたラジオ番組。放送時間は、月曜日 - 金曜日12時 - 15時30分。
 
 ## 出演者
 
@@ -59,6 +59,6 @@
   - 小堀さんの[ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink") - 野球に無知な小堀アナと重松アナが、知識を深めるコーナー。リスナーから送られてくる「この野球用語知ってる?」という問題を、小堀・重松が回答に苦心しながら考えていた。二人とも野球音痴であり、珍答・珍発言の連発で、番組終盤の人気コーナーになっていた。木、金の加藤アナは野球に詳しかった。この趣向は後に、CBCテレビの野球放送副音声『小堀勝啓の野球でブギウギ』に受け継がれている。
   - カトレヤミュージック
 
-[2000年](../Page/2000年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、小堀がCBC創立50周年特番のプロデューサーに専念するため、番組を降板。1年3ヶ月の短命に終わった。
+[2000年](../Page/2000年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")、小堀がCBC創立50周年特番のプロデューサーに専念するため、番組を降板。1年3ヶ月の短命に終わった。
 
 [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:CBCラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")

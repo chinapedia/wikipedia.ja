@@ -11,7 +11,7 @@
 
 ### 司会者
 
-  - 紅組司会：[丹下キヨ子](https://ja.wikipedia.org/wiki/丹下キヨ子 "wikilink") - 女優。『[日曜娯楽版](https://ja.wikipedia.org/wiki/日曜娯楽版 "wikilink")』出演者。
+  - 紅組司会：[丹下キヨ子](../Page/丹下キヨ子.md "wikilink") - 女優。『[日曜娯楽版](https://ja.wikipedia.org/wiki/日曜娯楽版 "wikilink")』出演者。
   - 白組司会：[藤倉修一](../Page/藤倉修一.md "wikilink") - NHKアナウンサー。
   - 総合司会：[田辺正晴](https://ja.wikipedia.org/wiki/田辺正晴 "wikilink") - NHKアナウンサー。
 
@@ -32,7 +32,7 @@
 <td><p>曲</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/暁テル子" title="wikilink">暁テル子</a>(2)</p></td>
+<td><p><a href="../Page/暁テル子.md" title="wikilink">暁テル子</a>(2)</p></td>
 <td><p>メロンはいかが<br />
 （東京シューシャイン・ボーイ、とする説あり）</p></td>
 </tr>
@@ -69,7 +69,7 @@
 （腰抜け二挺拳銃、とする説あり）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/平野愛子" title="wikilink">平野愛子</a>(初)</p></td>
+<td><p><a href="../Page/平野愛子.md" title="wikilink">平野愛子</a>(初)</p></td>
 <td><p>君待てども<br />
 （虹よいつまでも、とする説あり）</p></td>
 </tr>

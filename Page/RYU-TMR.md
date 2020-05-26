@@ -1,7 +1,7 @@
 > この記事は[RYU-TMR](https://ja.wikipedia.org/wiki/RYU-TMR)から翻訳されています。
 
 
-**RYU-TMR**（リュウ・ティーエムアール、[7月24日](../Page/7月24日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")在住\[2\]。ペンネームは本名のもじり\[3\]。血液型はB型\[4\]。男性。
+**RYU-TMR**（リュウ・ティーエムアール、[7月24日](../Page/7月24日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")在住\[2\]。ペンネームは本名のもじり\[3\]。血液型はB型\[4\]。男性。
 
 ## 作品一覧
 

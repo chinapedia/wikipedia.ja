@@ -21,7 +21,7 @@
 ## スタッフ
 
   - 原作（ニャロメと仲間たち） - [赤塚不二夫](../Page/赤塚不二夫.md "wikilink")
-  - 小学館掲載誌 - [ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")、[おひさま](../Page/おひさま_\(雑誌\).md "wikilink")、[めばえ](https://ja.wikipedia.org/wiki/めばえ_\(雑誌\) "wikilink")、[幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")、[学習幼稚園、小学一年生、小学二年生、小学三年生、小学四年生、小学五年生、小学六年生](../Page/小学館の学年別学習雑誌.md "wikilink")
+  - 小学館掲載誌 - [ちゃお](https://ja.wikipedia.org/wiki/ちゃお "wikilink")、[おひさま](../Page/おひさま_\(雑誌\).md "wikilink")、[めばえ](../Page/めばえ_\(雑誌\).md "wikilink")、[幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")、[学習幼稚園、小学一年生、小学二年生、小学三年生、小学四年生、小学五年生、小学六年生](../Page/小学館の学年別学習雑誌.md "wikilink")
   - 声の出演（ニャロメ） - [西村朋紘](../Page/西村朋紘.md "wikilink")
   - キャラクターデザイン（ニャロメ） - 直井正博
   - 製作担当 - 目黒宏、松坂一光

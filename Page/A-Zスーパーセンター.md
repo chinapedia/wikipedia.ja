@@ -69,7 +69,7 @@
 6.
 7.  [NHK総合](../Page/NHK総合テレビジョン.md "wikilink") ドキュメント にっぽんの現場 「千客万来 まちの“不夜城”〜鹿児島・巨大スーパー〜」 2008年5月放映
     [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[新報道2001](https://ja.wikipedia.org/wiki/新報道2001 "wikilink")』マネーコンパスコーナー 2008年11月16日放映
-    [日本テレビ系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』地域によって放映日が異なる（東海地域では2009年7月29日『[中京テレビNewsリアルタイム](../Page/中京テレビNewsリアルタイム.md "wikilink")』内で放送）。
+    [日本テレビ系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』地域によって放映日が異なる（東海地域では2009年7月29日『[中京テレビNewsリアルタイム](../Page/中京テレビNewsリアルタイム.md "wikilink")』内で放送）。
 8.  例えば、醤油だけでも約260種類の品揃えを誇っている。
 9.  『朝日新聞』 2007年4月13日、30頁、鹿児島版。
 10. 「（南北600キロ）「利益第2」、躍進のAZ商法　過疎地で24時間営業 /鹿児島県」『朝日新聞』 2009年4月6日、24頁、鹿児島版。

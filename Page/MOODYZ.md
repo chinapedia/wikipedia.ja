@@ -405,7 +405,7 @@ MECUMI<br />
   - 石橋渉の素人生ドル
   - [チンポを見たがる女たち](../Page/チンポを見たがる女たち.md "wikilink")
   - [バコバコバスツアー](https://ja.wikipedia.org/wiki/バコバコバスツアー "wikilink")
-  - [ドリーム学園](https://ja.wikipedia.org/wiki/ドリーム学園 "wikilink")
+  - [ドリーム学園](../Page/ドリーム学園.md "wikilink")
   - 石橋渉のHUNTING
   - [クリムゾンガールズ](https://ja.wikipedia.org/wiki/クリムゾンガールズ "wikilink")
 

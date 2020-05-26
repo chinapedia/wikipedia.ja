@@ -410,7 +410,7 @@
     3月号 : [南沢奈央](../Page/南沢奈央.md "wikilink")
     4月号 : 原幹恵
     5月号 : [多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")
-    6月号 : [辰巳奈都子](https://ja.wikipedia.org/wiki/辰巳奈都子 "wikilink")
+    6月号 : [辰巳奈都子](../Page/辰巳奈都子.md "wikilink")
     7月号 : [川島海荷](https://ja.wikipedia.org/wiki/川島海荷 "wikilink")
     8月号 : 川村ゆきえ
     9月号 : [アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")
@@ -421,7 +421,7 @@
 ### 2010年代
 
   - 2010年
-    1月号 : [足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink")
+    1月号 : [足立梨花](../Page/足立梨花.md "wikilink")
     2月号 : 木口亜矢
     3月号 : [山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")
     4月号 : 小池里奈

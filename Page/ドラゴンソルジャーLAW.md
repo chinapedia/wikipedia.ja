@@ -138,7 +138,7 @@
 
 <!-- end list -->
 
-  - [2012年](../Page/2012年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、新木場1stリングで行われた[クズプロ](https://ja.wikipedia.org/wiki/クズプロ "wikilink")の旗揚げ戦に参戦。
+  - [2012年](../Page/2012年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")、新木場1stリングで行われた[クズプロ](https://ja.wikipedia.org/wiki/クズプロ "wikilink")の旗揚げ戦に参戦。
 
 <!-- end list -->
 

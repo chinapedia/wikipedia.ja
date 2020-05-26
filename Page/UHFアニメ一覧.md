@@ -2281,7 +2281,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/殿といっしょ" title="wikilink">殿といっしょ 〜眼帯の野望〜</a></p></td>
+<td><p><a href="../Page/殿といっしょ.md" title="wikilink">殿といっしょ 〜眼帯の野望〜</a></p></td>
 <td><p>ytv</p></td>
 <td><p>5分間のショートアニメ。第1期はytvのみで放送</p></td>
 <td></td>
@@ -2895,7 +2895,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/みなみけ" title="wikilink">みなみけ ただいま</a></p></td>
+<td><p><a href="../Page/みなみけ.md" title="wikilink">みなみけ ただいま</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -4325,7 +4325,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/うしおととら" title="wikilink">うしおととら</a></p></td>
+<td><p><a href="../Page/うしおととら.md" title="wikilink">うしおととら</a></p></td>
 <td><p>-</p></td>
 <td><p>7月3日</p></td>
 <td></td>
@@ -8276,7 +8276,7 @@ TOKYO MXで3話連続集中放送。</p></td>
 | The World of GOLDEN EGGS SEASON2                                                                                | \-                                                 | 10月7日  | tvk                                                                                                                    |
 | **2008年**                                                                                                       |                                                    |        |                                                                                                                        |
 | [ファイアボール](https://ja.wikipedia.org/wiki/ファイアボール_\(アニメ\) "wikilink")                                             | \-                                                 | 4月7日   | MX                                                                                                                     |
-| [エレキング the Animation](https://ja.wikipedia.org/wiki/エレキング_\(漫画\) "wikilink")                                    | \-                                                 | \-     | tvk                                                                                                                    |
+| [エレキング the Animation](../Page/エレキング_\(漫画\).md "wikilink")                                                       | \-                                                 | \-     | tvk                                                                                                                    |
 | [ワンダフルワールド](../Page/ファーストクラス_\(バラエティー番組\).md "wikilink")                                                        | \-                                                 | \-     | tvk\[11\]                                                                                                              |
 | [ペンギン娘](../Page/ペンギン娘.md "wikilink")?はぁと                                                                        | \-                                                 | 7月31日  | tvk。『[@Tunes.](../Page/@Tunes..md "wikilink")』内 特別番組「公開収録版+α」                                                          |
 | [天体戦士サンレッド](../Page/天体戦士サンレッド.md "wikilink")（第1シリーズ）                                                            | \-                                                 | 10月3日  | tvk                                                                                                                    |

@@ -49,7 +49,7 @@
   - [エンジェル](../Page/エンジェル_\(テレビドラマ\).md "wikilink")
   - [キャッスル 〜ミステリー作家は事件がお好き](https://ja.wikipedia.org/wiki/キャッスル_〜ミステリー作家は事件がお好き "wikilink")
   - [ゴースト 〜天国からのささやき](https://ja.wikipedia.org/wiki/ゴースト_〜天国からのささやき "wikilink")
-  - [ザ・プラクティス ボストン弁護士ファイル](https://ja.wikipedia.org/wiki/ザ・プラクティス_ボストン弁護士ファイル "wikilink")
+  - [ザ・プラクティス ボストン弁護士ファイル](../Page/ザ・プラクティス_ボストン弁護士ファイル.md "wikilink")
   - [サン・オブ・ザ・ビーチ](https://ja.wikipedia.org/wiki/サン・オブ・ザ・ビーチ "wikilink")
   - [ジャーニーマン 時空を越えた赤い糸](https://ja.wikipedia.org/wiki/ジャーニーマン_時空を越えた赤い糸 "wikilink")
   - [スリーピー・ホロウ](https://ja.wikipedia.org/wiki/スリーピー・ホロウ_\(テレビドラマ\) "wikilink")

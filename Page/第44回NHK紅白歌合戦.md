@@ -174,7 +174,7 @@
 
   - [野原しんのすけ](../Page/野原しんのすけ.md "wikilink")（アニメ『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』のキャラクター）：同上。
 
-  - ハンス&モーリーン・ハンター（[イリュージョニスト](https://ja.wikipedia.org/wiki/イリュージョン_\(奇術\) "wikilink")）：「マジックショー」。
+  - ハンス&モーリーン・ハンター（[イリュージョニスト](../Page/イリュージョン_\(奇術\).md "wikilink")）：「マジックショー」。
 
   - [オール阪神・巨人](https://ja.wikipedia.org/wiki/オール阪神・巨人 "wikilink")：同上。
 

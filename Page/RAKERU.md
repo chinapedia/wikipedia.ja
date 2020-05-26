@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1963年](../Page/1963年.md "wikilink")に[卵料理](https://ja.wikipedia.org/wiki/卵料理 "wikilink")専門店としてRAKERUを創業。プレミアム卵のヨード卵光を使用した、手作りのふんわりとした食感のオムライスで知られる。[首都圏を中心に](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、インショップ型店舗を主力として都心部へ出店を続けている。（主に[丸井](../Page/丸井.md "wikilink")・[イオン](../Page/イオン.md "wikilink")などに出店）
+[1963年](../Page/1963年.md "wikilink")に[卵料理](https://ja.wikipedia.org/wiki/卵料理 "wikilink")専門店としてRAKERUを創業。プレミアム卵のヨード卵光を使用した、手作りのふんわりとした食感のオムライスで知られる。[首都圏を中心に](../Page/首都圏_\(日本\).md "wikilink")、インショップ型店舗を主力として都心部へ出店を続けている。（主に[丸井](../Page/丸井.md "wikilink")・[イオン](../Page/イオン.md "wikilink")などに出店）
 
 近年は東北・東海・近畿・中国・九州地区へも進出。[フランチャイズ](../Page/フランチャイズ.md "wikilink")事業として[フードコート](../Page/フードコート.md "wikilink")出店に対応した、[ファーストフード](../Page/ファーストフード.md "wikilink")型店舗の「ラケルファスト」他、新業態の開発も行っている。
 

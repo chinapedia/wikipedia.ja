@@ -41,7 +41,7 @@
 3.  **[you](https://ja.wikipedia.org/wiki/you_\(倖田來未の曲\) "wikilink")**
       -
         19thシングル。
-4.  **[Candy feat.Mr. Blistah](https://ja.wikipedia.org/wiki/Candy_feat.Mr._Blistah "wikilink")**
+4.  **[Candy feat.Mr. Blistah](../Page/Candy_feat.Mr._Blistah.md "wikilink")**
       -
         25thシングル。本作リリース時、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』ではこの曲がテレビで初披露された。[Mr.Blistahは](../Page/クレンチ&ブリスタ.md "wikilink")2ndアルバム『[grow into one](https://ja.wikipedia.org/wiki/grow_into_one "wikilink")』収録の楽曲「Teaser」にも参加している。
 5.  **[Shake It Up](../Page/Shake_It_Up_\(倖田來未の曲\).md "wikilink")**

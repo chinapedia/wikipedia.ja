@@ -160,7 +160,7 @@
 <tr class="odd">
 <td><p>1996</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/恋のマカレナ" title="wikilink">MACARENA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロス・デル・リオ" title="wikilink">LOS DEL RIO</a></p></td>
+<td><p><a href="../Page/ロス・デル・リオ.md" title="wikilink">LOS DEL RIO</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

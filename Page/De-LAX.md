@@ -106,7 +106,7 @@
 
   - [2月18日](../Page/2月18日.md "wikilink") - 新宿LOFTにて、彼らの初ライブ『"LATE NIGHT SHOW"』を行った。
   - [4月10日](../Page/4月10日.md "wikilink") - [5月24日](../Page/5月24日.md "wikilink") - コンサートツアー『De-LAX TOUR '88 SPRING "DIAMOND SENSATION"』を行った。
-  - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - イベント『KID'S ALIVE』に参加。
+  - [6月2日](../Page/6月2日.md "wikilink") - イベント『KID'S ALIVE』に参加。
   - [7月16日](../Page/7月16日.md "wikilink") - 1980年代後半から1990年代、『PATi-PATi』(雑誌)と[tvk](https://ja.wikipedia.org/wiki/tvk "wikilink")(テレビ)のメディアミックスで実施されていたコラボイベント『PATI-PATI TOMATO』に参加。
   - [7月23日](../Page/7月23日.md "wikilink") - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")主催のイベント『サマーピクニック』に参加。
   - [8月7日](../Page/8月7日.md "wikilink") - イベント『NEW KID'S IN THE ROCK '88』に参加。

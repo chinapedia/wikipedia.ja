@@ -1,7 +1,7 @@
 > この記事は[TEMPO](https://ja.wikipedia.org/wiki/TEMPO)から翻訳されています。
 
 
-[有機化合物](../Page/有機化合物.md "wikilink")の**TEMPO** とは、[ニトロキシル](https://ja.wikipedia.org/wiki/ニトロキシル "wikilink")ラジカル (R<sub>2</sub>N-O•) の一種、**2,2,6,6-テトラメチルピペリジン 1-オキシル** (2,2,6,6-tetramethylpiperidine 1-oxyl) の略称である。安定な有機[フリーラジカルの代表例であり](../Page/ラジカル_\(化学\).md "wikilink")、試薬として市販されている\[1\]\[2\]。[有機合成](https://ja.wikipedia.org/wiki/有機合成 "wikilink")において、[再酸化剤](https://ja.wikipedia.org/wiki/再酸化剤 "wikilink")とともに酸化反応の[触媒](../Page/触媒.md "wikilink")として用いられる。また、ラジカル[捕捉剤](https://ja.wikipedia.org/wiki/捕捉剤 "wikilink")として、反応系中のラジカル発生を探知するプローブとなる。一般に「テンポ」と読まれる。
+[有機化合物](../Page/有機化合物.md "wikilink")の**TEMPO** とは、[ニトロキシル](https://ja.wikipedia.org/wiki/ニトロキシル "wikilink")ラジカル (R<sub>2</sub>N-O•) の一種、**2,2,6,6-テトラメチルピペリジン 1-オキシル** (2,2,6,6-tetramethylpiperidine 1-oxyl) の略称である。安定な有機[フリーラジカルの代表例であり](../Page/ラジカル_\(化学\).md "wikilink")、試薬として市販されている\[1\]\[2\]。[有機合成](https://ja.wikipedia.org/wiki/有機合成 "wikilink")において、[再酸化剤](https://ja.wikipedia.org/wiki/再酸化剤 "wikilink")とともに酸化反応の[触媒](../Page/触媒.md "wikilink")として用いられる。また、ラジカル[捕捉剤](../Page/捕捉剤.md "wikilink")として、反応系中のラジカル発生を探知するプローブとなる。一般に「テンポ」と読まれる。
 
 TEMPO は1960年、Lebelev と Kazarnowskii により開発された。彼らは [2,2,6,6-テトラメチルピペリジン](https://ja.wikipedia.org/wiki/2,2,6,6-テトラメチルピペリジン "wikilink")を酸化し、TEMPO を得た\[3\]。
 

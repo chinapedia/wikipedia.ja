@@ -155,7 +155,7 @@
   - [GAHAHAキング 爆笑王決定戦](../Page/GAHAHAキング_爆笑王決定戦.md "wikilink")（テレビ朝日）
   - [GAHAHA王国](../Page/GAHAHA王国.md "wikilink")（テレビ朝日）
   - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（テレビ朝日）さがねのみ
-  - [伊集院光のばんぐみ](https://ja.wikipedia.org/wiki/伊集院光のばんぐみ "wikilink")（[BS11デジタル](../Page/日本BS放送.md "wikilink")）
+  - [伊集院光のばんぐみ](../Page/伊集院光のばんぐみ.md "wikilink")（[BS11デジタル](../Page/日本BS放送.md "wikilink")）
   - [ジャガイモン](https://ja.wikipedia.org/wiki/ジャガイモン "wikilink")（[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")）さがねのみ不定期出演
   - 健康カプセル\!ゲンキの時間（CBC・TBS）
 

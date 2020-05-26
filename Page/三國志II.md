@@ -3,7 +3,7 @@
 
 『**三國志II**』（さんごくし・ツー）は、1989年に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第2作。前作の基本的なシステムは引き継ぎつつ、新たな工夫が施されている。音楽は[向谷実](../Page/向谷実.md "wikilink")が担当\[1\]。
 
-PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")などに移植された。またPC-98版の復刻収録は「[コーエー25周年記念パック](https://ja.wikipedia.org/wiki/コーエー25周年記念パック "wikilink") Vol.5」、「my GAMECITY クラシックゲーム館」でのブラウザゲーム版、[Steam](../Page/Steam.md "wikilink")でのダウンロード販売で行われている。
+PC-88SR版が発売された後、さまざまなパソコン機種や[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")などに移植された。またPC-98版の復刻収録は「[コーエー25周年記念パック](../Page/コーエー25周年記念パック.md "wikilink") Vol.5」、「my GAMECITY クラシックゲーム館」でのブラウザゲーム版、[Steam](../Page/Steam.md "wikilink")でのダウンロード販売で行われている。
 
 なお本項では、本作の各リメイク版についても併せて記述する。
 

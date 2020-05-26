@@ -60,7 +60,7 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
       - 頭文字D ARCADE STAGE 6 AAから頭文字D ARCADE STAGE 8 インフィニティまでは[RINGEDGE](https://ja.wikipedia.org/wiki/RINGEDGE "wikilink")に、頭文字D ARCADE STAGE Zeroから[Nu2へ使用基板がそれぞれ変更された](https://ja.wikipedia.org/wiki/Nu_\(アーケードゲーム基板\) "wikilink")。
   - [セガネットワークカジノクラブ](../Page/セガネットワークカジノクラブ.md "wikilink")（メダルゲーム、2007年02月）
       - 2016年3月をもってオンライン稼働が終了。
-  - [SEGA-RaceTV](https://ja.wikipedia.org/wiki/SEGA-RaceTV "wikilink")（2008年2月）
+  - [SEGA-RaceTV](../Page/SEGA-RaceTV.md "wikilink")（2008年2月）
   - [R-TUNED：Ultimate Street Racing](https://ja.wikipedia.org/wiki/R-TUNED：Ultimate_Street_Racing "wikilink")（2008年12月）
 
 **LINDBERGH RED**

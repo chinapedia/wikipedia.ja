@@ -22,7 +22,7 @@
         [1964年](../Page/1964年.md "wikilink")の[東京オリンピックや](../Page/1964年東京オリンピック.md "wikilink")[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")の[アポロ月面着陸といった](../Page/アポロ11号.md "wikilink")[1960年代](../Page/1960年代.md "wikilink")の世相と当時の自分を思い起こすノスタルジックな歌。
 2.  **青いエアメイル** *-Blue Airmail Envelope-*
       -
-        [2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『Yuming Films』でドラマ化された（第2話「バイバイ、ベアー〜青いエアメイル」、監督：[甲斐さやか](https://ja.wikipedia.org/wiki/甲斐さやか "wikilink")、主演：[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")、ただしドラマの中では、歌詞内容と状況が異なっている）。[岩崎宏美](../Page/岩崎宏美.md "wikilink")に提供する予定の曲だったが没になった(本人談)。
+        [2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『Yuming Films』でドラマ化された（第2話「バイバイ、ベアー〜青いエアメイル」、監督：[甲斐さやか](../Page/甲斐さやか.md "wikilink")、主演：[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")、ただしドラマの中では、歌詞内容と状況が異なっている）。[岩崎宏美](../Page/岩崎宏美.md "wikilink")に提供する予定の曲だったが没になった(本人談)。
         カバー：[今井美樹](../Page/今井美樹.md "wikilink")（2013年）
 3.  **ツバメのように**
       -

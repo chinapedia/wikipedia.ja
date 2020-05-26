@@ -1134,7 +1134,7 @@ YRCN-11104</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_PMX" title="wikilink">DJ PMX</a>『locoHAMA CRUSING mixed by DJ PMX (DS 455)』</p></td>
+<td><p><a href="../Page/DJ_PMX.md" title="wikilink">DJ PMX</a>『locoHAMA CRUSING mixed by DJ PMX (DS 455)』</p></td>
 <td><p>VICP-64030/1</p></td>
 <td><p>DISC1-10.HEY GIRL feat.CORN HEAD</p></td>
 <td><p>オリコン最高53位、登場回数14回</p></td>
@@ -1417,7 +1417,7 @@ RZCD-46651</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DJ_PMX" title="wikilink">DJ PMX</a>『ロコハマ・クルージング 001 -ジャパニーズ・ウエストコースト・スタイル・ミックス-』</p></td>
+<td><p><a href="../Page/DJ_PMX.md" title="wikilink">DJ PMX</a>『ロコハマ・クルージング 001 -ジャパニーズ・ウエストコースト・スタイル・ミックス-』</p></td>
 <td><p>VICL-63775</p></td>
 <td><p>10.HEY GIRL feat.CORN HEAD</p></td>
 <td><p>オリコン最高173位</p></td>

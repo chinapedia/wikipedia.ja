@@ -56,7 +56,7 @@
 
   - [laica breeze](https://ja.wikipedia.org/wiki/laica_breeze "wikilink") （[2004年](../Page/2004年.md "wikilink")、[サンプリング](../Page/サンプリング.md "wikilink")、シングル「STANDING STILL (winter fall Re-calling)」に収録）
   - [SATOMI'](../Page/SATOMI'.md "wikilink") （[2007年](../Page/2007年.md "wikilink")、[カバー](../Page/カバー.md "wikilink")、カバーミニアルバム『SINGS 〜Winter, and Luv〜』に収録）
-  - [玉置成実](../Page/玉置成実.md "wikilink") （2007年、カバー、シングル「[Winter Ballades](https://ja.wikipedia.org/wiki/Winter_Ballades "wikilink")」に収録）
+  - [玉置成実](../Page/玉置成実.md "wikilink") （2007年、カバー、シングル「[Winter Ballades](../Page/Winter_Ballades.md "wikilink")」に収録）
   - [moumoon](https://ja.wikipedia.org/wiki/moumoon "wikilink") （[2013年](../Page/2013年.md "wikilink")、カバー、配信楽曲「winter fall」）
 
 ## 収録アルバム

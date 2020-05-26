@@ -3,7 +3,7 @@
 
 **Visual Component Library** (VCL) とは、視覚化された（ビジュアルな）[ソフトウェアコンポーネント](../Page/ソフトウェアコンポーネント.md "wikilink")を元にして、[Microsoft Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[アプリケーションを作成するためのソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")および[フレームワークである](../Page/アプリケーションフレームワーク.md "wikilink")。[ボーランド](../Page/ボーランド.md "wikilink")が、自社のソフトウェア[統合開発環境](../Page/統合開発環境.md "wikilink") (IDE) である[Delphi](../Page/Delphi.md "wikilink")と[C++ Builderのために開発した](../Page/C++_Builder.md "wikilink")。[Object Pascalで記述されている](../Page/Object_Pascal.md "wikilink")。
 
-VCLはボーランドの[RADツールと密接に統合されており](../Page/Rapid_Application_Development.md "wikilink")、プログラミング言語でコードを記述することなく[GUI部品の配置や外観設定をGUI](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")（フォームデザイナー）で視覚的かつ直感的に行なうこともできるようになっている\[1\]。これが人気の元である。
+VCLはボーランドの[RADツールと密接に統合されており](../Page/Rapid_Application_Development.md "wikilink")、プログラミング言語でコードを記述することなく[GUI部品の配置や外観設定をGUI](../Page/ウィジェット_\(GUI\).md "wikilink")（フォームデザイナー）で視覚的かつ直感的に行なうこともできるようになっている\[1\]。これが人気の元である。
 
 後に、同等の機能を持つ[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")のライブラリとして[Component Library for Cross Platform](../Page/Component_Library_for_Cross_Platform.md "wikilink") (CLX) がDelphi、C++ Builder、[Kylix](../Page/Kylix.md "wikilink")用に開発されたが、VCLの人気の前には太刀打ちできなかった。
 

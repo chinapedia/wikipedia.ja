@@ -19,7 +19,7 @@
 2.  **[Shine We Are\!](https://ja.wikipedia.org/wiki/Shine_We_Are!/Earthsong "wikilink")**
       - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲・編曲：原一博
       - 10thシングル。
-3.  **SOME DAY ONE DAY feat. [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）**
+3.  **SOME DAY ONE DAY feat. [VERBAL](../Page/VERBAL.md "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）**
       - 作詞：高籐晶・VERBAL／作曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")／編曲：k-muto・前田和彦
       - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のVERBALとのコラボレーション曲。
 4.  **LOVE & HONESTY**

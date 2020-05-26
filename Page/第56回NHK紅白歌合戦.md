@@ -46,7 +46,7 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
   - 歌詞のテロップの書体はフォントワークスのニューロダンが使われた（前回はフォントワークスのスーラ、それ以前は写研のナールが使用されていた）。
   - [アンガールズ](../Page/アンガールズ.md "wikilink")、[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")、[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")、[ヒロシ](../Page/ヒロシ.md "wikilink")、[まちゃまちゃ](../Page/まちゃまちゃ.md "wikilink")、[安田大サーカス](../Page/安田大サーカス.md "wikilink")（上記6組が[裏番組](../Page/裏番組.md "wikilink")として[日本テレビ系列で放送された](../Page/日本テレビ放送網.md "wikilink")[お笑い番組](../Page/お笑い番組.md "wikilink")にも出演）など数多くの[お笑いタレント](../Page/お笑いタレント.md "wikilink")が応援ゲストとして出演。
   - 終戦60年を記念し、[吉永小百合](../Page/吉永小百合.md "wikilink")が[山梨県](../Page/山梨県.md "wikilink")[北巨摩郡](../Page/北巨摩郡.md "wikilink")[小淵沢町](../Page/小淵沢町.md "wikilink")（現：[北杜市](../Page/北杜市.md "wikilink")）のフィリア美術館から原爆詩を朗読した。その後、[さだまさし](../Page/さだまさし.md "wikilink")の「[広島の空](../Page/逢ひみての.md "wikilink")」、[森山良子](../Page/森山良子.md "wikilink")・[直太朗親子の](../Page/森山直太朗.md "wikilink")「[さとうきび畑](../Page/さとうきび畑.md "wikilink")」\[12\]という[平和](../Page/平和.md "wikilink")を考える歌が続く演出がとられた。この2曲は、歌詞表示テロップの書体も特に楷書体になった。
-  - [氣志團](../Page/氣志團.md "wikilink")の「[One Night Carnival](https://ja.wikipedia.org/wiki/One_Night_Carnival "wikilink")」では[TBS系列](../Page/TBSテレビ.md "wikilink")『[K-1 PREMIUM 2005 Dynamite\!\!](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2005_Dynamite!! "wikilink")』、[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[PRIDE 男祭り 2005](https://ja.wikipedia.org/wiki/PRIDE_男祭り_2005 "wikilink")』といった裏番組の[格闘技](../Page/格闘技.md "wikilink")中継を意識した演出があり、[曙が](../Page/曙太郎.md "wikilink")[ボブサップ](https://ja.wikipedia.org/wiki/ボブサップ "wikilink")にKO負けしたシーンも再現された。紹介時のテロップ出しも『PRIDE』と同じ形式だった。
+  - [氣志團](../Page/氣志團.md "wikilink")の「[One Night Carnival](https://ja.wikipedia.org/wiki/One_Night_Carnival "wikilink")」では[TBS系列](../Page/TBSテレビ.md "wikilink")『[K-1 PREMIUM 2005 Dynamite\!\!](../Page/K-1_PREMIUM_2005_Dynamite!!.md "wikilink")』、[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[PRIDE 男祭り 2005](../Page/PRIDE_男祭り_2005.md "wikilink")』といった裏番組の[格闘技](../Page/格闘技.md "wikilink")中継を意識した演出があり、[曙が](../Page/曙太郎.md "wikilink")[ボブサップ](https://ja.wikipedia.org/wiki/ボブサップ "wikilink")にKO負けしたシーンも再現された。紹介時のテロップ出しも『PRIDE』と同じ形式だった。
   - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")の「[少年よ](../Page/少年よ.md "wikilink")」では、同曲を主題歌とする[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列『[仮面ライダー響鬼](../Page/仮面ライダー響鬼.md "wikilink")』のヒーロー（[響鬼・威吹鬼・轟鬼](https://ja.wikipedia.org/wiki/音撃戦士 "wikilink")）たちが登場し、怪人との殺陣を披露した（[スーツアクター](../Page/スーツアクター.md "wikilink")も番組と同じく[JAEのメンバーによる](../Page/ジャパンアクションエンタープライズ.md "wikilink")）。さらに終盤には、同作で主演を務めた[細川茂樹](../Page/細川茂樹.md "wikilink")が登場\[13\]。布施が歌い終わると同じに「ヒビキ、鍛えてます\! 全国の少年、来年も一緒に鍛えようぜ\!」と、劇中のキャラクターそのままのメッセージを披露した。この演出にはみのも驚嘆していた。
   - [森山直太朗](../Page/森山直太朗.md "wikilink")はこの年下期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[風のハルカ](../Page/風のハルカ.md "wikilink")』の主題歌「[風花](https://ja.wikipedia.org/wiki/風花 "wikilink")」を歌唱。曲前には同作の出演者である[村川絵梨](../Page/村川絵梨.md "wikilink")、[渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")、[真矢みき](https://ja.wikipedia.org/wiki/真矢みき "wikilink")、[黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")が登場した。
   - [平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")は[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[優しい時間](../Page/優しい時間.md "wikilink")』の主題歌「[明日](https://ja.wikipedia.org/wiki/明日_\(平原綾香の曲\) "wikilink")」を歌唱。歌唱前、司会席にゲスト審査員で同作に出演していた[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")が登場した。
@@ -92,7 +92,7 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
 ## 司会者
 
   - 総合司会：[みのもんた](../Page/みのもんた.md "wikilink")、[山根基世](../Page/山根基世.md "wikilink")（[東京アナウンス室長](https://ja.wikipedia.org/wiki/NHK放送センター#東京アナウンス室 "wikilink")）
-  - 紅組司会：[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[功名が辻](../Page/功名が辻_\(NHK大河ドラマ\).md "wikilink")』の主人公・[千代役](https://ja.wikipedia.org/wiki/見性院_\(山内一豊室\) "wikilink")）
+  - 紅組司会：[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[功名が辻](../Page/功名が辻_\(NHK大河ドラマ\).md "wikilink")』の主人公・[千代役](../Page/見性院_\(山内一豊室\).md "wikilink")）
   - 白組司会：[山本耕史](../Page/山本耕史.md "wikilink")（翌年の[NHK正月時代劇](../Page/NHK正月時代劇.md "wikilink")『[新選組\!\! 土方歳三 最期の一日](../Page/新選組!!_土方歳三_最期の一日.md "wikilink")』の主人公・[土方歳三](../Page/土方歳三.md "wikilink")役）
 
 元NHK会長の[海老沢勝二](../Page/海老沢勝二.md "wikilink")による「NHK色を強めたい」との強い意向により、ここ4年間NHK[アナウンサーで司会陣が固められていたが](../Page/日本のアナウンサー.md "wikilink")、海老沢がこの年NHK会長を辞任したこともあり、今回より[第51回](../Page/第51回NHK紅白歌合戦.md "wikilink")（[2000年](../Page/2000年.md "wikilink")）以前と同じくNHKアナウンサー以外も務める体制に戻った。
@@ -310,7 +310,7 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
       - 「[UFO](../Page/UFO_\(ピンク・レディーの曲\).md "wikilink")」／美川憲一、ゴリエ
       - 「[プレイバックPart2](../Page/プレイバックPart2.md "wikilink")」／夏川りみ、平原綾香
       - 「[YOUNG MAN (Y.M.C.A.)](../Page/YOUNG_MAN_\(Y.M.C.A.\).md "wikilink")」／和田アキ子、氣志團
-      - 「[セーラー服を脱がさないで](../Page/セーラー服を脱がさないで.md "wikilink")」／[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")・[小川麻琴](../Page/小川麻琴.md "wikilink")（モーニング娘。）、[安倍なつみ](../Page/安倍なつみ.md "wikilink")・[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（DEF.DIVA）
+      - 「[セーラー服を脱がさないで](../Page/セーラー服を脱がさないで.md "wikilink")」／[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")・[小川麻琴](../Page/小川麻琴.md "wikilink")（モーニング娘。）、[安倍なつみ](../Page/安倍なつみ.md "wikilink")・[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")・[石川梨華](../Page/石川梨華.md "wikilink")（DEF.DIVA）
       - 「[恋のマイアヒ](../Page/恋のマイアヒ.md "wikilink")」／SMAP、コーナー出演者全員
 
 ## ゲスト出演者
@@ -366,11 +366,11 @@ NHKワールド・プレミアムでは翌[2006年](../Page/2006年.md "wikilink
 
 ## 視聴率
 
-放送日の[12月31日](../Page/12月31日.md "wikilink")の夜、[TBSと](../Page/TBSテレビ.md "wikilink")[フジテレビでは高い](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[視聴率](../Page/視聴率.md "wikilink")が見込める格闘技の特別番組を用意し（「[K-1 PREMIUM 2005 Dynamite\!\!](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2005_Dynamite!! "wikilink")」・「[PRIDE 男祭り 2005](https://ja.wikipedia.org/wiki/PRIDE_男祭り_2005 "wikilink")」）、[日本テレビや](../Page/日本テレビ放送網.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")も各自特別番組を編成して紅白に対抗した。また例年『[年忘れにっぽんの歌](../Page/にっぽんの歌.md "wikilink")』を放送している[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")は紅白の開始時間である19時20分前後に（紅白には落選した）[松平健](../Page/松平健.md "wikilink")の「[マツケンサンバ](../Page/マツケンサンバ.md "wikilink")I〜III」のメドレーを放送した。
+放送日の[12月31日](../Page/12月31日.md "wikilink")の夜、[TBSと](../Page/TBSテレビ.md "wikilink")[フジテレビでは高い](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[視聴率](../Page/視聴率.md "wikilink")が見込める格闘技の特別番組を用意し（「[K-1 PREMIUM 2005 Dynamite\!\!](../Page/K-1_PREMIUM_2005_Dynamite!!.md "wikilink")」・「[PRIDE 男祭り 2005](../Page/PRIDE_男祭り_2005.md "wikilink")」）、[日本テレビや](../Page/日本テレビ放送網.md "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")も各自特別番組を編成して紅白に対抗した。また例年『[年忘れにっぽんの歌](../Page/にっぽんの歌.md "wikilink")』を放送している[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")は紅白の開始時間である19時20分前後に（紅白には落選した）[松平健](../Page/松平健.md "wikilink")の「[マツケンサンバ](../Page/マツケンサンバ.md "wikilink")I〜III」のメドレーを放送した。
 
 視聴率競争のさらなる激化が予想された中で、司会の[みのもんた](../Page/みのもんた.md "wikilink")は「視聴率65%、最低でも50%」と意欲を見せていたが、結果は1部が35.4%（前年30.8%）、2部が42.9%（前年39.3%）で、前年を4.6%、3.6%上回った（以下、データは関東地区、総合テレビのみでBS2・BSハイビジョンは含まない。[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ。以下同じ）。最後の紅白得点結果発表で、瞬間最高視聴率50.1%を記録した。例年史上最低を更新する状況にこそ歯止めがかかったものの、目標とした65%にははるかに及ばず、みのは「自分の非力を嘆いています」とのコメントを発表した。
 
-また、視聴率は、フジテレビ『[PRIDE 男祭り 2005](https://ja.wikipedia.org/wiki/PRIDE_男祭り_2005 "wikilink")』が17.0%（20時〜23時、番組全体では16.2%（前年14.0%））、TBS『[K-1 PREMIUM 2005 Dynamite\!\!](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2005_Dynamite!! "wikilink")』（21時〜23時40分）が14.8%（前年20.1%）などとなった。
+また、視聴率は、フジテレビ『[PRIDE 男祭り 2005](../Page/PRIDE_男祭り_2005.md "wikilink")』が17.0%（20時〜23時、番組全体では16.2%（前年14.0%））、TBS『[K-1 PREMIUM 2005 Dynamite\!\!](../Page/K-1_PREMIUM_2005_Dynamite!!.md "wikilink")』（21時〜23時40分）が14.8%（前年20.1%）などとなった。
 
 過去2年間翌年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に総合テレビで行われていた[再放送](../Page/再放送.md "wikilink")は、[2006年トリノオリンピック](https://ja.wikipedia.org/wiki/2006年トリノオリンピック "wikilink")中心で編成が組まれていたため行われなかった。
 

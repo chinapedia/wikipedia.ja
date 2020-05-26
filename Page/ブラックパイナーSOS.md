@@ -63,7 +63,7 @@
   - [今夜はプネ・プネ](https://ja.wikipedia.org/wiki/今夜はプネ・プネ "wikilink")（日本テレビ）
   - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")（日本テレビ）「新日本正直\!フィルハーモニーオーケストラ」にコーナー出演
   - [特上\!天声慎吾](https://ja.wikipedia.org/wiki/特上!天声慎吾 "wikilink")（日本テレビ）
-  - [エンタの天使](https://ja.wikipedia.org/wiki/エンタの天使 "wikilink")（日本テレビ） キャッチコピー「極限の緊急信号(シグナル)」
+  - [エンタの天使](../Page/エンタの天使.md "wikilink")（日本テレビ） キャッチコピー「極限の緊急信号(シグナル)」
   - [ウルトラマンガイア](../Page/ウルトラマンガイア.md "wikilink") （[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")）
   - [お笑い図鑑 ハマヌキ](https://ja.wikipedia.org/wiki/お笑い図鑑_ハマヌキ "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
   - [イエヤス](../Page/イエヤス.md "wikilink")（[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）

@@ -7,7 +7,7 @@
 
   - BoAは[2006年](../Page/2006年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")に20歳を迎え、20代になって初めてのCDリリースが本作であることがタイトルの由来になっている。
   - 【[CD](../Page/コンパクトディスク.md "wikilink")】・【CD+[DVD](../Page/DVD-Video.md "wikilink")】の2形態で発売される。
-  - CDには、[シングル](../Page/シングル.md "wikilink")5曲を含む13曲+ボーナストラックとして「[LAST CHRISTMAS](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")」のカバーを収録。なお「KEY OF HEART」と[両A面](https://ja.wikipedia.org/wiki/両A面 "wikilink")でリリースされた「DOTCH」は未収録。
+  - CDには、[シングル](../Page/シングル.md "wikilink")5曲を含む13曲+ボーナストラックとして「[LAST CHRISTMAS](../Page/ラスト・クリスマス_\(ワム!の曲\).md "wikilink")」のカバーを収録。なお「KEY OF HEART」と[両A面](https://ja.wikipedia.org/wiki/両A面 "wikilink")でリリースされた「DOTCH」は未収録。
   - DVDには、シングル3曲の[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")に加え、2006年に行われた全国ツアー「BoA THE LIVE」から8曲のライブ映像を収録。
   - 【CD】の初回盤には、CDに「Winter Love (Live Ver.)」を追加収録。
   - 【CD+DVD】の初回盤には、DVDに「BoA THE LIVE」の映像2曲を追加収録。
@@ -51,7 +51,7 @@
         22ndシングルのカップリング曲。
         映画「[百万長者の初恋](https://ja.wikipedia.org/wiki/百万長者の初恋 "wikilink")」日本版エンディング曲
 13. **Gracious Days**
-14. **[LAST CHRISTMAS](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")**（Bonus track）
+14. **[LAST CHRISTMAS](../Page/ラスト・クリスマス_\(ワム!の曲\).md "wikilink")**（Bonus track）
       -
         22ndシングルの初回盤ボーナストラックとしても収録された[ワム\!](../Page/ワム!.md "wikilink")の[カバー](../Page/カバー.md "wikilink")。
 15. **Winter Love (Live Ver.)**（Bonus track）

@@ -162,7 +162,7 @@
     [安藤正信](https://ja.wikipedia.org/wiki/安藤正信 "wikilink")（虎の巻を持つクイズ王・クイズ歴17年）
     [加藤禎久](https://ja.wikipedia.org/wiki/加藤禎久 "wikilink")（神の手を持つ男・クイズ歴18年）
     [古川洋平](https://ja.wikipedia.org/wiki/古川洋平 "wikilink")（新世代のクイズ王・クイズ歴8年）
-    [久保隆二](https://ja.wikipedia.org/wiki/久保隆二 "wikilink")（目指せ\!クイズ維新・クイズ歴15年）
+    [久保隆二](../Page/久保隆二.md "wikilink")（目指せ\!クイズ維新・クイズ歴15年）
 
 ### ルール
 

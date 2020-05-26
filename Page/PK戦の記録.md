@@ -75,7 +75,7 @@
 
   - 2000年 [シドニーオリンピック](../Page/2000年シドニーオリンピックのサッカー競技.md "wikilink") 準々決勝 [アメリカ](https://ja.wikipedia.org/wiki/U-23サッカーアメリカ合衆国代表 "wikilink") 5-4 [日本](https://ja.wikipedia.org/wiki/U-23サッカー日本代表 "wikilink")
   - 2000年 シドニーオリンピック 決勝 [カメルーン](https://ja.wikipedia.org/wiki/U-23サッカーカメルーン代表 "wikilink") 5-4 [スペイン](https://ja.wikipedia.org/wiki/U-23サッカースペイン代表 "wikilink")
-  - 2005年 [ワールドカップ予選](https://ja.wikipedia.org/wiki/2006_FIFAワールドカップ・予選 "wikilink")・大陸間プレーオフ (史上初のPK戦) [オーストラリア](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink") 4-2 [ウルグアイ](../Page/サッカーウルグアイ代表.md "wikilink")
+  - 2005年 [ワールドカップ予選](../Page/2006_FIFAワールドカップ・予選.md "wikilink")・大陸間プレーオフ (史上初のPK戦) [オーストラリア](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink") 4-2 [ウルグアイ](../Page/サッカーウルグアイ代表.md "wikilink")
   - 2012年 [ロンドンオリンピック](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのサッカー競技 "wikilink") 準々決勝 [韓国](https://ja.wikipedia.org/wiki/U-23サッカー大韓民国代表 "wikilink") 5-4 [イギリス](https://ja.wikipedia.org/wiki/オリンピックのサッカー競技・グレートブリテン代表 "wikilink")
 
 ## 女子代表
@@ -98,7 +98,7 @@
 ### [FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")
 
   - 2000年 3位決定戦 [クルブ・ネカクサ](../Page/クルブ・ネカクサ.md "wikilink") 4-3 [レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")
-  - 2000年 決勝 [コリンチャンス](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink") 4-3 [ヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")
+  - 2000年 決勝 [コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink") 4-3 [ヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")
   - 2007年 3位決定戦 [浦和レッズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink") 4-2 [エトワール・サヘル](../Page/エトワール・サヘル.md "wikilink")
   - 2009年 3位決定戦 [浦項スティーラース](../Page/浦項スティーラース.md "wikilink") 4-3 [アトランテ](https://ja.wikipedia.org/wiki/アトランテFC "wikilink")
   - 2010年 5位決定戦 [パチューカ](../Page/CFパチューカ.md "wikilink") 4-2 [アル・ワフダ](https://ja.wikipedia.org/wiki/アル・ワフダ・アブダビ "wikilink")

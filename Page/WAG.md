@@ -102,7 +102,7 @@ WAGへの加入をきっかけにギターからドラムへ転向した。<br /
   - [2001年](../Page/2001年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")、メジャー初のアルバム『WAG』を発売。
   - [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")、シングル「[吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")」を発売。「[Free Magic](../Page/Free_Magic.md "wikilink")」以来のオリコンチャートランクインとなるオリコンチャート最高位64位。
   - 2004年[3月31日](../Page/3月31日.md "wikilink")、南公祐が脱退。翌日公式サイトで発表される。
-  - 2004年[5月26日](../Page/5月26日.md "wikilink")、4人編成での最初で最後のシングルとなった「[Don't look back again](https://ja.wikipedia.org/wiki/Don't_look_back_again "wikilink")」を発売。オリコンチャート最高位104位を獲得した。尚、同シングルに封入されていたアンケート葉書では、3枚目のアルバムを制作中といった内容が記されていたが、今作を最後にリリースが停止した。
+  - 2004年[5月26日](../Page/5月26日.md "wikilink")、4人編成での最初で最後のシングルとなった「[Don't look back again](../Page/Don't_look_back_again.md "wikilink")」を発売。オリコンチャート最高位104位を獲得した。尚、同シングルに封入されていたアンケート葉書では、3枚目のアルバムを制作中といった内容が記されていたが、今作を最後にリリースが停止した。
   - [2005年](../Page/2005年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、公式ファンクラブ『WAG-ON\!』の解散が発表。
   - [2006年](../Page/2006年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")、正式解散。翌[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")にはオフィシャルサイト上で活動を中止した旨が明かされる。
   - [2012年](../Page/2012年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")、解散後、約5年3か月の沈黙を破り、[hillsパン工場](https://ja.wikipedia.org/wiki/hillsパン工場 "wikilink")でのライブ『ロックンロールxシンドローム-hillsパン工場 9th Anniversary　edition』に平山兄弟と柳田がスペシャルゲストとして出演。8年ぶりのライブとなった。
@@ -123,7 +123,7 @@ WAGへの加入をきっかけにギターからドラムへ転向した。<br /
 | 8th  | [2003年](../Page/2003年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")   | [FIGHT SONG](https://ja.wikipedia.org/wiki/FIGHT_SONG "wikilink")                                               | GZCA-7017 |                                                                                        |
 | 9th  | 2003年[8月6日](../Page/8月6日.md "wikilink")                                    | [そして今日も何処かで](https://ja.wikipedia.org/wiki/そして今日も何処かで "wikilink")                                               | GZCA-7028 |                                                                                        |
 | 10th | [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")   | [吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")                                                                    | GZCA-7041 |                                                                                        |
-| 11th | 2004年[5月26日](../Page/5月26日.md "wikilink")                                  | [Don't look back again](https://ja.wikipedia.org/wiki/Don't_look_back_again "wikilink")                         | GZCA-7052 |                                                                                        |
+| 11th | 2004年[5月26日](../Page/5月26日.md "wikilink")                                  | [Don't look back again](../Page/Don't_look_back_again.md "wikilink")                                            | GZCA-7052 |                                                                                        |
 
 ### アルバム
 

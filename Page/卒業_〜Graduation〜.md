@@ -14,7 +14,7 @@
 ### 機種別の相違点
 
   - PC-9800シリーズ版
-    最初に発売。[FM TOWNS版の発売前後に](../Page/FM_TOWNS.md "wikilink")[ソフ倫](https://ja.wikipedia.org/wiki/ソフ倫 "wikilink")審査を受けており「[全年齢対象](../Page/全年齢対象.md "wikilink")」となっている。[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")版及び[2004年](../Page/2004年.md "wikilink")に発売された[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（復刻版）も本バージョンがベース。PC98の音源は貧弱なものであったが、この時点で既に[ビープ音](https://ja.wikipedia.org/wiki/ビープ音 "wikilink")を合成して主要登場人物に発声させていた。
+    最初に発売。[FM TOWNS版の発売前後に](../Page/FM_TOWNS.md "wikilink")[ソフ倫](https://ja.wikipedia.org/wiki/ソフ倫 "wikilink")審査を受けており「[全年齢対象](../Page/全年齢対象.md "wikilink")」となっている。[X68000](https://ja.wikipedia.org/wiki/X68000 "wikilink")版及び[2004年](../Page/2004年.md "wikilink")に発売された[Windows版](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")（復刻版）も本バージョンがベース。PC98の音源は貧弱なものであったが、この時点で既に[ビープ音](../Page/ビープ音.md "wikilink")を合成して主要登場人物に発声させていた。
   - PCエンジン版
     [NECアベニュー](../Page/NECアベニュー.md "wikilink")より発売。以後の移植版はほとんどが本バージョンをベースにしている。声優は中本静役の久川綾を除いた4人全員が変更。[カラオケ](../Page/カラオケ.md "wikilink")イベントで全員の持ち歌が用意されるなどイベントを大幅に追加。また、五重婚エンドが成立した場合に「畜生以下」の評価が追加された。
   - 3DO版

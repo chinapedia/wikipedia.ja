@@ -14,7 +14,7 @@
 <!-- end list -->
 
   - [NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink") - [東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")。
-  - [新潟ビジネス専門学校](https://ja.wikipedia.org/wiki/新潟ビジネス専門学校 "wikilink")（Niigata Business College） - [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区の](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[専門学校](../Page/専門学校.md "wikilink")。
+  - [新潟ビジネス専門学校](../Page/新潟ビジネス専門学校.md "wikilink")（Niigata Business College） - [新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区の](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[専門学校](../Page/専門学校.md "wikilink")。
   - [NBCメッシュテック](../Page/NBCメッシュテック.md "wikilink")（NBCメッシュテック株式会社、NBC Meshtec Inc.） - [スクリーン](../Page/スクリーン.md "wikilink")[印刷](../Page/印刷.md "wikilink")用資材等の製造・販売を行っている企業。旧社名、NBC株式会社。
   - [ナショナル・バルク・キャリア](https://ja.wikipedia.org/wiki/ナショナル・バルク・キャリア "wikilink")（National Bulk Carrier） - 日本の造船業に影響を与えた米国の海運会社。
   - [日本ビジネスコンサルタント](https://ja.wikipedia.org/wiki/日本ビジネスコンサルタント "wikilink")（Nihon Business Consultant） - [日立情報システムズ](../Page/日立情報システムズ.md "wikilink")の旧社名。

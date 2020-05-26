@@ -1,7 +1,7 @@
 > この記事は[月刊COMICリュウ](https://ja.wikipedia.org/wiki/月刊COMICリュウ)から翻訳されています。
 
 
-『**月刊COMICリュウ**』（げっかんコミックリュウ）は、[徳間書店](../Page/徳間書店.md "wikilink")発行の月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
+『**月刊COMICリュウ**』（げっかんコミックリュウ）は、[徳間書店](../Page/徳間書店.md "wikilink")発行の月刊[漫画雑誌](../Page/漫画雑誌.md "wikilink")。
 
 [2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")（2006年11月号）にて「新創刊」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に休刊となった同社の漫画雑誌『[リュウ](../Page/リュウ_\(雑誌\).md "wikilink")』の誌名を受け継ぐ）。 2007年11月号より[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")に変更。[2011年](../Page/2011年.md "wikilink")8月号をもって再び休刊し、翌[2012年](../Page/2012年.md "wikilink")の[3月19日](../Page/3月19日.md "wikilink")（2012年5月号）よりリニューアル[復刊](https://ja.wikipedia.org/wiki/復刊 "wikilink")。2015年には、この休刊からの復刊をネタにした自虐的なテレビCMが制作された\[1\]。
 

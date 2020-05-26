@@ -6,7 +6,7 @@
 ## パーソナリティ
 
   - [美勇伝](../Page/美勇伝.md "wikilink")
-      - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")
+      - [石川梨華](../Page/石川梨華.md "wikilink")
       - [三好絵梨香](../Page/三好絵梨香.md "wikilink")
       - [岡田唯](../Page/岡田唯.md "wikilink")
 

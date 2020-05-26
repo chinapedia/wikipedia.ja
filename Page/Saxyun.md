@@ -1,7 +1,7 @@
 > この記事は[Saxyun](https://ja.wikipedia.org/wiki/Saxyun)から翻訳されています。
 
 
-**saxyun**（さっきゅん、[5月13日](../Page/5月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。
+**saxyun**（さっきゅん、[5月13日](../Page/5月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。
 
 [ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")を中心にイラストレーターとして活動を開始し、平行して[4コマ漫画家としても活動](../Page/4コマ漫画家の一覧.md "wikilink")。現在は主に[竹書房](../Page/竹書房.md "wikilink")、[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")系のコミック誌に作品を掲載している。 2000年代初頭に人気を博した[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")向けソフトウェア「[伺か](../Page/伺か.md "wikilink")」のデフォルトゴースト、「偽春菜（任意）」と「うにゅう」の作者としても知られる。
 

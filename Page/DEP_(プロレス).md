@@ -23,7 +23,7 @@
 2.  [青柳政司](../Page/青柳政司.md "wikilink")
 3.  [後藤達俊](../Page/後藤達俊.md "wikilink")
 4.  豊臣太郎
-5.  [ディアブロ](https://ja.wikipedia.org/wiki/ディアブロ_\(プロレスラー\) "wikilink")
+5.  [ディアブロ](../Page/ディアブロ_\(プロレスラー\).md "wikilink")
 6.  [柴山貴哉](https://ja.wikipedia.org/wiki/柴山貴哉 "wikilink")
 
 <!-- end list -->
@@ -39,7 +39,7 @@
 5.  [高井憲吾](../Page/高井憲吾.md "wikilink")&[影山道雄](https://ja.wikipedia.org/wiki/影山道雄 "wikilink")
 6.  [Drago](https://ja.wikipedia.org/wiki/Drago "wikilink")&根本薫
 7.  深谷友和&柴山貴哉
-8.  [ディアブロ](https://ja.wikipedia.org/wiki/ディアブロ_\(プロレスラー\) "wikilink")&影山道雄
+8.  [ディアブロ](../Page/ディアブロ_\(プロレスラー\).md "wikilink")&影山道雄
 9.  影山道雄&[杉浦透](https://ja.wikipedia.org/wiki/杉浦透 "wikilink")
 10. [TAMURA](https://ja.wikipedia.org/wiki/田村和宏 "wikilink")&伊東優作
 

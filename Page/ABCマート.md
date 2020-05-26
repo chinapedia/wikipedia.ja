@@ -9,7 +9,7 @@
 
 [HAWKINS](https://ja.wikipedia.org/wiki/HAWKINS "wikilink")や[Vans](https://ja.wikipedia.org/wiki/Vans "wikilink")ブランドの[商標権](https://ja.wikipedia.org/wiki/商標権 "wikilink")を取得し、[ナショナルブランド](../Page/ナショナルブランド.md "wikilink")として同ブランドの靴を独占販売をしている。
 
-[ナショナルブランド](../Page/ナショナルブランド.md "wikilink")を主力とした[SPA方式](https://ja.wikipedia.org/wiki/製造小売業 "wikilink")（商品企画から販売までの一括管理）を導入し低価格・高品質な商品を販売。靴小売業としては異例の利益率20%を超える売上げを記録している\[2\]。
+[ナショナルブランド](../Page/ナショナルブランド.md "wikilink")を主力とした[SPA方式](../Page/製造小売業.md "wikilink")（商品企画から販売までの一括管理）を導入し低価格・高品質な商品を販売。靴小売業としては異例の利益率20%を超える売上げを記録している\[2\]。
 
 2009年2月15日放送のNHK番組「[経済羅針盤](../Page/経済羅針盤.md "wikilink")」で取り上げられた\[3\]。
 

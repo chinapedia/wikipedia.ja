@@ -58,7 +58,7 @@
   - ウッドウィンド：[衛藤幸雄](https://ja.wikipedia.org/wiki/衛藤幸雄 "wikilink")
   - ストリングス：トマト・ストリングス・アンサンブル
   - ハープ：[山川恵子](https://ja.wikipedia.org/wiki/山川恵子 "wikilink")
-  - コーラス : [Lilica、Leona、Clara](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")、[BUZZ](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")、[タイムファイブ](../Page/タイム・ファイブ.md "wikilink")、[伊集加代](../Page/伊集加代.md "wikilink")子、[和田夏代子](https://ja.wikipedia.org/wiki/和田夏代子 "wikilink")、[鈴木宏子](https://ja.wikipedia.org/wiki/鈴木宏子 "wikilink")、松任谷由実
+  - コーラス : [Lilica、Leona、Clara](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")、[BUZZ](../Page/バズ_\(バンド\).md "wikilink")、[タイムファイブ](../Page/タイム・ファイブ.md "wikilink")、[伊集加代](../Page/伊集加代.md "wikilink")子、[和田夏代子](https://ja.wikipedia.org/wiki/和田夏代子 "wikilink")、[鈴木宏子](https://ja.wikipedia.org/wiki/鈴木宏子 "wikilink")、松任谷由実
   - シンセサイザー・プログラミング：[浦田恵司](https://ja.wikipedia.org/wiki/浦田恵司 "wikilink")
 
 ## 脚注

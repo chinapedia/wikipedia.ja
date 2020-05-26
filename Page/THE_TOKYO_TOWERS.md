@@ -1,7 +1,7 @@
 > この記事は[THE TOKYO TOWERS](https://ja.wikipedia.org/wiki/THE_TOKYO_TOWERS)から翻訳されています。
 
 
-**THE TOKYO TOWERS**（ザ・トーキョー・タワーズ）は、東京都中央区勝どきにある2棟の[超高層マンション](../Page/超高層マンション.md "wikilink")を中心とする複合施設であり、[首都圏で初めての再開発会社施工となった](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink") 勝どき六丁目地区第一種市街地再開発事業によって[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に完成した。地上58階建ての住居棟は竣工時、分譲マンションとして日本国内最高階層であった。
+**THE TOKYO TOWERS**（ザ・トーキョー・タワーズ）は、東京都中央区勝どきにある2棟の[超高層マンション](../Page/超高層マンション.md "wikilink")を中心とする複合施設であり、[首都圏で初めての再開発会社施工となった](../Page/首都圏_\(日本\).md "wikilink") 勝どき六丁目地区第一種市街地再開発事業によって[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に完成した。地上58階建ての住居棟は竣工時、分譲マンションとして日本国内最高階層であった。
 
 ## 特徴
 

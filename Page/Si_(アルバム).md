@@ -225,7 +225,7 @@
   - 十川知司 - Programming, Keyboards
   - 西川進 - Guitar
   - 上田ケンジ - Bass
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink") - Drums
+  - [河村智康](../Page/河村智康.md "wikilink") - Drums
 
 <!-- end list -->
 

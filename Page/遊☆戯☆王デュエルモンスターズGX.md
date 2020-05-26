@@ -2221,7 +2221,7 @@ You Bong Hyun</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a></p></td>
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">系列</a></p></td>
 <td><p>火曜 15:00 - 15:30</p></td>
-<td><p>2009年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a>に終了。<br />
+<td><p>2009年<a href="../Page/6月2日.md" title="wikilink">6月2日</a>に終了。<br />
 翌週より引き続き『5D's』を放送。</p></td>
 </tr>
 <tr class="even">

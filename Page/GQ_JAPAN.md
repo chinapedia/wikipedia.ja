@@ -97,7 +97,7 @@
 
 :\* [野口聡一](../Page/野口聡一.md "wikilink")
 
-:\* [白鵬翔](https://ja.wikipedia.org/wiki/白鵬翔 "wikilink")（第69代[横綱](https://ja.wikipedia.org/wiki/横綱 "wikilink")）
+:\* [白鵬翔](../Page/白鵬翔.md "wikilink")（第69代[横綱](https://ja.wikipedia.org/wiki/横綱 "wikilink")）
 
 :\* [本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")（[2010 FIFAワールドカップ](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink") [日本代表](https://ja.wikipedia.org/wiki/2010年のサッカー日本代表 "wikilink") 選手）
 
@@ -109,7 +109,7 @@
 
 :\* [坂本龍一](../Page/坂本龍一.md "wikilink")
 
-:\* [佐々木則夫](https://ja.wikipedia.org/wiki/佐々木則夫_\(サッカー指導者\) "wikilink")（[サッカー日本女子代表](https://ja.wikipedia.org/wiki/2011_FIFA女子ワールドカップ日本女子代表 "wikilink") 監督）
+:\* [佐々木則夫](../Page/佐々木則夫_\(サッカー指導者\).md "wikilink")（[サッカー日本女子代表](https://ja.wikipedia.org/wiki/2011_FIFA女子ワールドカップ日本女子代表 "wikilink") 監督）
 
 :\* [田中良和](../Page/田中良和_\(実業家\).md "wikilink")（[グリー](../Page/グリー_\(企業\).md "wikilink") 代表取締役社長）
 

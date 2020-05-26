@@ -332,7 +332,7 @@ Nintendo Switch Online</a></p></td>
 
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ツインビー](https://ja.wikipedia.org/wiki/Category:ツインビー "wikilink") [Category:ニンテンドウパワー書き換えソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドウパワー書き換えソフト "wikilink")
 
-1.  ステージBGMのボーカルアレンジ曲「Twin memories」は、OVA「ウインビーの1/8パニック」、ラジオドラマ「ツインビーPARADISE」の主題歌およびプレイステーションソフト「ツインビー[対戦ぱずるだま](../Page/対戦ぱずるだま.md "wikilink")」のエンディング曲に起用された。アルバム『[Twinbee Vocal Paradise featuring Mariko Kouda](https://ja.wikipedia.org/wiki/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda "wikilink")』も参照。
+1.  ステージBGMのボーカルアレンジ曲「Twin memories」は、OVA「ウインビーの1/8パニック」、ラジオドラマ「ツインビーPARADISE」の主題歌およびプレイステーションソフト「ツインビー[対戦ぱずるだま](../Page/対戦ぱずるだま.md "wikilink")」のエンディング曲に起用された。アルバム『[Twinbee Vocal Paradise featuring Mariko Kouda](../Page/Twinbee_Vocal_Paradise_featuring_Mariko_Kouda.md "wikilink")』も参照。
 2.  パッケージアートになっているステージ。
 3.  ステージBGMのボーカルアレンジ曲「Fantasian」は、ラジオドラマ「ツインビーPARADISE」でマドカが経営する喫茶店、喫茶ファンタジアンの店内BGMに使用された。
 4.  クリア後は難易度が大幅にアップした2周目が開始される。ツインビーシリーズ最後の2周目となった。

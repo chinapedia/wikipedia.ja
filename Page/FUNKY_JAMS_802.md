@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - [浅井博章](https://ja.wikipedia.org/wiki/浅井博章 "wikilink")(1993年10月-1996年9月)
+  - [浅井博章](../Page/浅井博章.md "wikilink")(1993年10月-1996年9月)
   - [西田新](https://ja.wikipedia.org/wiki/西田新 "wikilink")
   - [仁井聡子](../Page/仁井聡子.md "wikilink")
   - [大抜卓人](../Page/大抜卓人.md "wikilink")

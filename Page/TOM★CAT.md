@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[東京造形大学](../Page/東京造形大学.md "wikilink")で結成されたバンド「FUNKY NOISE」を前身とする。その後、「NOISE MAKER」を経て[1984年](../Page/1984年.md "wikilink")に「TOMCAT」を結成。同年10月、第28回 [ポピュラーソングコンテストに出場して](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")「[ふられ気分でRock'n' Roll](https://ja.wikipedia.org/wiki/ふられ気分でRock'n'_Roll "wikilink")」でグランプリを受賞\[1\]。同年11月、第15回[世界歌謡祭](../Page/世界歌謡祭.md "wikilink")グランプリ受賞曲でもある同曲でキャニオン・レコード（現：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）の[AARD-VARKレーベルからメジャーデビュー](../Page/アードバーク_\(レーベル\).md "wikilink")。メンバーチェンジを経て[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に事務所を離れ、自主運営での活動を開始した。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[東京造形大学](../Page/東京造形大学.md "wikilink")で結成されたバンド「FUNKY NOISE」を前身とする。その後、「NOISE MAKER」を経て[1984年](../Page/1984年.md "wikilink")に「TOMCAT」を結成。同年10月、第28回 [ポピュラーソングコンテストに出場して](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")「[ふられ気分でRock'n' Roll](https://ja.wikipedia.org/wiki/ふられ気分でRock'n'_Roll "wikilink")」でグランプリを受賞\[1\]。同年11月、第15回[世界歌謡祭](../Page/世界歌謡祭.md "wikilink")グランプリ受賞曲でもある同曲でキャニオン・レコード（現：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）の[AARD-VARKレーベルからメジャーデビュー](../Page/アードバーク_\(レーベル\).md "wikilink")。メンバーチェンジを経て[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に事務所を離れ、自主運営での活動を開始した。
 
 2009年、シングル曲「[TOUGH BOY](https://ja.wikipedia.org/wiki/TOUGH_BOY "wikilink")」およびカップリング曲「LOVE SONG」のリメイクを含むミニアルバム『ラヂオ』をリリース。
 
@@ -81,7 +81,7 @@
 
 ## 関連項目
 
-  - [ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")
+  - [ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")
   - [世界歌謡祭](../Page/世界歌謡祭.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ポプコン出身者](https://ja.wikipedia.org/wiki/Category:ポプコン出身者 "wikilink") [Category:1984年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1984年に結成した音楽グループ "wikilink")

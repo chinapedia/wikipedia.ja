@@ -148,7 +148,7 @@
 #### 選考を巡って
 
   - 前回の出場歌手の中より今回不選出となった歌手は以下。
-      - 紅組:[及川三千代](https://ja.wikipedia.org/wiki/及川三千代 "wikilink")・[大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")・[中原美紗緒](../Page/中原美紗緒.md "wikilink")・[松尾和子](../Page/松尾和子.md "wikilink")・[宮城まり子](../Page/宮城まり子.md "wikilink")・[森山加代子](https://ja.wikipedia.org/wiki/森山加代子 "wikilink")
+      - 紅組:[及川三千代](https://ja.wikipedia.org/wiki/及川三千代 "wikilink")・[大津美子](../Page/大津美子.md "wikilink")・[中原美紗緒](../Page/中原美紗緒.md "wikilink")・[松尾和子](../Page/松尾和子.md "wikilink")・[宮城まり子](../Page/宮城まり子.md "wikilink")・[森山加代子](https://ja.wikipedia.org/wiki/森山加代子 "wikilink")
       - 白組:[飯田久彦](../Page/飯田久彦.md "wikilink")・[佐川ミツオ](https://ja.wikipedia.org/wiki/佐川ミツオ "wikilink")・[ダニー飯田とパラダイス・キング](https://ja.wikipedia.org/wiki/ダニー飯田とパラダイス・キング "wikilink")・[藤島桓夫](../Page/藤島桓夫.md "wikilink")
 
 ### 演奏
@@ -179,7 +179,7 @@
   - [トニー谷](../Page/トニー谷.md "wikilink")
   - [清川虹子](../Page/清川虹子.md "wikilink")
   - [藤田まこと](../Page/藤田まこと.md "wikilink")・[長谷百合](https://ja.wikipedia.org/wiki/長谷百合 "wikilink") - [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[南区](../Page/南区_\(大阪市\).md "wikilink")（現：[中央区](../Page/中央区_\(大阪市\).md "wikilink")）の[法善寺横丁より中継で出演](https://ja.wikipedia.org/wiki/法善寺#法善寺横丁 "wikilink")。同年に放送されたドラマ『法善寺横丁』に出演していたことから、応援ゲストに起用された。藤田は[朝日放送](../Page/朝日放送テレビ.md "wikilink")『[てなもんや三度笠](../Page/てなもんや三度笠.md "wikilink")』で人気を博していた時期であり、江利が「てなもんやのお兄さん」と紹介していた。
-  - [武智豊子](https://ja.wikipedia.org/wiki/武智豊子 "wikilink")
+  - [武智豊子](../Page/武智豊子.md "wikilink")
   - [三木のり平](../Page/三木のり平.md "wikilink")
   - [八波むと志](../Page/八波むと志.md "wikilink")
   - [千葉信男](https://ja.wikipedia.org/wiki/千葉信男 "wikilink")

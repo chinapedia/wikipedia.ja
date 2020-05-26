@@ -108,7 +108,7 @@
 
   - 司会：[マイク・マイヤーズ](../Page/マイク・マイヤーズ.md "wikilink")
   - 最優秀映画:[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")
-  - 最優秀男優:[ウィル・スミス](../Page/ウィル・スミス.md "wikilink") ([アイ・アム・レジェンド](https://ja.wikipedia.org/wiki/アイ・アム・レジェンド "wikilink"))
+  - 最優秀男優:[ウィル・スミス](../Page/ウィル・スミス.md "wikilink") ([アイ・アム・レジェンド](../Page/アイ・アム・レジェンド.md "wikilink"))
   - 最優秀女優:[エレン・ペイジ](../Page/エレン・ペイジ.md "wikilink")（[JUNO/ジュノ](https://ja.wikipedia.org/wiki/JUNO/ジュノ "wikilink")）
   - 最優秀新人:[ザック・エフロン](../Page/ザック・エフロン.md "wikilink") ([ヘアスプレー](../Page/ヘアスプレー_\(2007年の映画\).md "wikilink"))
   - 最優秀コメディ・パフォーマンス:[ジョニー・デップ](../Page/ジョニー・デップ.md "wikilink") ([パイレーツ・オブ・カリビアン/ワールド・エンド](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/ワールド・エンド "wikilink"))
@@ -122,14 +122,14 @@
   - 司会：[アンディ・サムバーグ](https://ja.wikipedia.org/wiki/アンディ・サムバーグ "wikilink")
   - 最優秀映画:[トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink")
   - 最優秀男優:[ザック・エフロン](../Page/ザック・エフロン.md "wikilink") ([ハイスクール・ミュージカル/ザ・ムービー](https://ja.wikipedia.org/wiki/ハイスクール・ミュージカル/ザ・ムービー "wikilink"))
-  - 最優秀女優:[クリステン・スチュワート](https://ja.wikipedia.org/wiki/クリステン・スチュワート "wikilink")（[トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink")）
-  - 最優秀新人男優:[ロバート・パティンソン](https://ja.wikipedia.org/wiki/ロバート・パティンソン "wikilink") ([トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink"))
+  - 最優秀女優:[クリステン・スチュワート](../Page/クリステン・スチュワート.md "wikilink")（[トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink")）
+  - 最優秀新人男優:[ロバート・パティンソン](../Page/ロバート・パティンソン.md "wikilink") ([トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink"))
   - 最優秀新人女優:[アシュレイ・ティスデイル](../Page/アシュレイ・ティスデイル.md "wikilink") ([ハイスクール・ミュージカル/ザ・ムービー](https://ja.wikipedia.org/wiki/ハイスクール・ミュージカル/ザ・ムービー "wikilink"))
   - 最優秀コメディ・パフォーマンス:[ジム・キャリー](../Page/ジム・キャリー.md "wikilink") ([イエスマン “YES”は人生のパスワード](https://ja.wikipedia.org/wiki/イエスマン_“YES”は人生のパスワード "wikilink"))
   - 最優秀悪役：[ヒース・レジャー](https://ja.wikipedia.org/wiki/ヒース・レジャー "wikilink") ([ダークナイト](https://ja.wikipedia.org/wiki/ダークナイト "wikilink"))
   - 最優秀映画音楽賞 (Best Song From a Movie (Best musical performance))：[マイリー・サイラス](../Page/マイリー・サイラス.md "wikilink") / ザ・クライム ([ハンナ・モンタナ ザ・ムービー](https://ja.wikipedia.org/wiki/ハンナ・モンタナ_ザ・ムービー "wikilink"))
-  - ベスト・キス：[クリステン・スチュワート](https://ja.wikipedia.org/wiki/クリステン・スチュワート "wikilink")&[ロバート・パティンソン](https://ja.wikipedia.org/wiki/ロバート・パティンソン "wikilink") ([トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink"))
-  - ベスト・ファイト：[キャム・ギガンデット](https://ja.wikipedia.org/wiki/キャム・ギガンデット "wikilink") vs [ロバート・パティンソン](https://ja.wikipedia.org/wiki/ロバート・パティンソン "wikilink") ([トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink"))
+  - ベスト・キス：[クリステン・スチュワート](../Page/クリステン・スチュワート.md "wikilink")&[ロバート・パティンソン](../Page/ロバート・パティンソン.md "wikilink") ([トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink"))
+  - ベスト・ファイト：[キャム・ギガンデット](https://ja.wikipedia.org/wiki/キャム・ギガンデット "wikilink") vs [ロバート・パティンソン](../Page/ロバート・パティンソン.md "wikilink") ([トワイライト〜初恋〜](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink"))
   - 最優秀WTF(What the fuckの略)賞：[エイミー・ポーラー](../Page/エイミー・ポーラー.md "wikilink") ([ベイビー・ママ](https://ja.wikipedia.org/wiki/ベイビー・ママ "wikilink"))
   - ジェネレーション賞：[ベン・スティラー](../Page/ベン・スティラー.md "wikilink")
 

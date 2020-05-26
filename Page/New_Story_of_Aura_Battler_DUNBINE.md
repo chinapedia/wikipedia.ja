@@ -93,7 +93,7 @@
 
 ## ゲーム作品
 
-ゲーム作品『[サンライズ英雄譚](https://ja.wikipedia.org/wiki/サンライズ英雄譚 "wikilink")』、『[スーパーロボット大戦](../Page/スーパーロボット大戦.md "wikilink")』各シリーズに登場。主にメカニック中心の出演だが、『[スーパーロボット大戦COMPACT3](../Page/スーパーロボット大戦COMPACT3.md "wikilink")』、『[スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")』ではキャラクターやストーリーも再現された。
+ゲーム作品『[サンライズ英雄譚](../Page/サンライズ英雄譚.md "wikilink")』、『[スーパーロボット大戦](../Page/スーパーロボット大戦.md "wikilink")』各シリーズに登場。主にメカニック中心の出演だが、『[スーパーロボット大戦COMPACT3](../Page/スーパーロボット大戦COMPACT3.md "wikilink")』、『[スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")』ではキャラクターやストーリーも再現された。
 
 ## 脚注
 

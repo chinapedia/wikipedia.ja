@@ -9,7 +9,7 @@
 
 1.  **why, or why not**
       -
-        作詞：interface・英語補、作詞：[綾菓](https://ja.wikipedia.org/wiki/綾菓 "wikilink")、作曲・編曲：[大嶋啓之](../Page/大嶋啓之.md "wikilink")
+        作詞：interface・英語補、作詞：[綾菓](../Page/綾菓.md "wikilink")、作曲・編曲：[大嶋啓之](../Page/大嶋啓之.md "wikilink")
 2.  **誰そ彼**
       -
         作詞：interface、作曲・編曲：bermei.inazawa

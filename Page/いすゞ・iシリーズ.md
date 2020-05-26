@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2005年](../Page/2005年.md "wikilink")の[ニューヨーク国際オートショー](../Page/ニューヨーク国際オートショー.md "wikilink")で発表された。[2000年](../Page/2000年.md "wikilink")に発売された[いすゞ・オンブレ](https://ja.wikipedia.org/wiki/いすゞ・オンブレ "wikilink")(Hombre)の後継車種となる。[シボレー・コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")、[GMC・キャニオン](https://ja.wikipedia.org/wiki/GMC・キャニオン "wikilink")の[OEM](../Page/OEM.md "wikilink")であり、生産もこれらの[姉妹車](../Page/姉妹車.md "wikilink")同様、[シュリーブポートで行われていた](https://ja.wikipedia.org/wiki/シュリーブポート_\(ルイジアナ州\) "wikilink")。姉妹車との違いはフロントグリルのデザインのみ。また、これらの姉妹車はいすゞ自動車が[タイで製造する](../Page/タイ王国.md "wikilink")[D-MAXや](../Page/いすゞ・D-MAX.md "wikilink")[H3とも基本設計を共有している](https://ja.wikipedia.org/wiki/ハマー・H3 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")の[ニューヨーク国際オートショー](../Page/ニューヨーク国際オートショー.md "wikilink")で発表された。[2000年](../Page/2000年.md "wikilink")に発売された[いすゞ・オンブレ](https://ja.wikipedia.org/wiki/いすゞ・オンブレ "wikilink")(Hombre)の後継車種となる。[シボレー・コロラド](../Page/シボレー・コロラド.md "wikilink")、[GMC・キャニオン](https://ja.wikipedia.org/wiki/GMC・キャニオン "wikilink")の[OEM](../Page/OEM.md "wikilink")であり、生産もこれらの[姉妹車](../Page/姉妹車.md "wikilink")同様、[シュリーブポートで行われていた](https://ja.wikipedia.org/wiki/シュリーブポート_\(ルイジアナ州\) "wikilink")。姉妹車との違いはフロントグリルのデザインのみ。また、これらの姉妹車はいすゞ自動車が[タイで製造する](../Page/タイ王国.md "wikilink")[D-MAXや](../Page/いすゞ・D-MAX.md "wikilink")[H3とも基本設計を共有している](https://ja.wikipedia.org/wiki/ハマー・H3 "wikilink")。
 
 いすゞのアメリカでのライトトラック事業撤退に伴い、[2009年](../Page/2009年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")をもって販売を終了。
 
@@ -26,7 +26,7 @@
 ## 関連項目
 
   - [いすゞ・D-MAX](../Page/いすゞ・D-MAX.md "wikilink")
-  - [シボレー・コロラド](https://ja.wikipedia.org/wiki/シボレー・コロラド "wikilink")
+  - [シボレー・コロラド](../Page/シボレー・コロラド.md "wikilink")
 
 ## 外部リンク
 

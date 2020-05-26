@@ -57,7 +57,7 @@
   - 4月14日 [パチ夫くん パチンコランド大冒険](../Page/パチ夫くんシリーズ.md "wikilink")（[ココナッツジャパン](https://ja.wikipedia.org/wiki/ココナッツジャパン "wikilink")）●
   - 4月21日 [金沢将棋](../Page/金沢将棋.md "wikilink")'95（[セタ](https://ja.wikipedia.org/wiki/セタ_\(企業\) "wikilink")）
   - 4月28日 [ミスランド まちがい探しゲーム](https://ja.wikipedia.org/wiki/ミスランド "wikilink")（[アルトロン](https://ja.wikipedia.org/wiki/アルトロン "wikilink")）
-  - 4月28日 [ぐっすんおよよ](https://ja.wikipedia.org/wiki/ぐっすんおよよ "wikilink")（[エクシング](../Page/エクシング.md "wikilink")）
+  - 4月28日 [ぐっすんおよよ](../Page/ぐっすんおよよ.md "wikilink")（[エクシング](../Page/エクシング.md "wikilink")）
   - 4月28日 [ジャンピングフラッシュ アロハ男爵ファンキー大作戦の巻](https://ja.wikipedia.org/wiki/ジャンピングフラッシュ "wikilink")\!（ソニー・コンピュータエンタテインメント）\[C\]
   - 4月28日 [ガンナーズ ヘブン](https://ja.wikipedia.org/wiki/ガンナーズ_ヘブン "wikilink")（ソニー・コンピュータエンタテインメント）
   - 5月12日 [ザッツ・ポン\! エンターテイメント雀荘](https://ja.wikipedia.org/wiki/ザッツ・ポン!_エンターテイメント雀荘 "wikilink")（[翔泳社](../Page/翔泳社.md "wikilink")）
@@ -149,7 +149,7 @@
   - 12月15日 [鉄道王 いくぜ億万長者\!\!](../Page/鉄道王.md "wikilink")'96（アトラス）
   - 12月15日 [クラシックロード](https://ja.wikipedia.org/wiki/クラシックロード "wikilink")（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
   - 12月15日 [爆笑\!\! オール吉本クイズ王決定戦DX](https://ja.wikipedia.org/wiki/爆笑!!_オール吉本クイズ王決定戦DX "wikilink")（[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")）●
-  - 12月15日 [GUNBIRD ガンバード](https://ja.wikipedia.org/wiki/ガンバード "wikilink")（アトラス）
+  - 12月15日 [GUNBIRD ガンバード](../Page/ガンバード.md "wikilink")（アトラス）
   - 12月15日 [祇園花](https://ja.wikipedia.org/wiki/祇園花 "wikilink")（日本物産）
   - 12月15日 [幻想水滸伝](../Page/幻想水滸伝.md "wikilink")（コナミ）
   - 12月15日 [ストリートファイターII ムービー](../Page/ストリートファイターII_MOVIE.md "wikilink")（カプコン）●

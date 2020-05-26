@@ -693,7 +693,7 @@ SANYOブランド<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/W51SH.md" title="wikilink">AQUOSケータイ W51SH</a>/<a href="../Page/W52SH.md" title="wikilink">W52SH</a>/<a href="https://ja.wikipedia.org/wiki/W61SH" title="wikilink">AQUOSケータイ W61SH</a>/<a href="https://ja.wikipedia.org/wiki/URBANO" title="wikilink">URBANO</a>（W63SH）</p></td>
+<td><p><a href="../Page/W51SH.md" title="wikilink">AQUOSケータイ W51SH</a>/<a href="../Page/W52SH.md" title="wikilink">W52SH</a>/<a href="../Page/W61SH.md" title="wikilink">AQUOSケータイ W61SH</a>/<a href="https://ja.wikipedia.org/wiki/URBANO" title="wikilink">URBANO</a>（W63SH）</p></td>
 <td></td>
 </tr>
 <tr class="even">

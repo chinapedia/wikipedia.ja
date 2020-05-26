@@ -11,7 +11,7 @@
 
 かつては、本社のあるフィンランドにちなんで、イメージキャラクターに[ムーミン](../Page/ムーミン.md "wikilink")が採用されており、ソフトの操作画面には、ムーミン谷の登場人物たちが使用されていた。
 
-[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")として、[マルウェア](../Page/マルウェア.md "wikilink")対策機能には、ウイルスや[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")、[ルートキット](../Page/ルートキット.md "wikilink")などを検出する、守備範囲の異なる3種の検出エンジン（Aquarius、Hydora、Blacklight）を採用しており、その他に、[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")保護、[ファイアウォール](../Page/ファイアウォール.md "wikilink")、迷惑メール対策、[ペアレンタルコントロール](https://ja.wikipedia.org/wiki/ペアレンタルコントロール "wikilink")などの機能を備えている。
+[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")として、[マルウェア](../Page/マルウェア.md "wikilink")対策機能には、ウイルスや[スパイウェア](../Page/スパイウェア.md "wikilink")、[ルートキット](../Page/ルートキット.md "wikilink")などを検出する、守備範囲の異なる3種の検出エンジン（Aquarius、Hydora、Blacklight）を採用しており、その他に、[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")保護、[ファイアウォール](../Page/ファイアウォール.md "wikilink")、迷惑メール対策、[ペアレンタルコントロール](https://ja.wikipedia.org/wiki/ペアレンタルコントロール "wikilink")などの機能を備えている。
 
 マルチエンジンやプロアクティブディフェンスなど、他社に先駆けて実装された機能も多く、特に、同社がDeepGuardと呼ぶ、「システム内で稼働する全てのプロセスを監視して、[クラウド](https://ja.wikipedia.org/wiki/クラウド "wikilink")上の定義ファイルと連動する、[サンドボックス型のセキュリティモデル](../Page/サンドボックス_\(セキュリティ\).md "wikilink")」は、他社が実装する2、3年前から、いち早く製品化が行われてきた。2011年版では、[マルウェア](../Page/マルウェア.md "wikilink")対策機能だけでなく、その他の保護機能についても、定義ファイルのほとんどが[クラウド](https://ja.wikipedia.org/wiki/クラウド "wikilink")上で扱われるようになった。また、ユーザーの意見を反映して、近年に再設計された[インターフェイス](https://ja.wikipedia.org/wiki/インターフェイス "wikilink")は、専門用語を省いた表現と、シンプルな操作画面が特徴的である。
 
@@ -33,7 +33,7 @@
   - Orion : F-Secure社が独自に開発した、未知のウイルスに対して効力の高い。ヒューリスティックエンジン。
     Libra : F-Protの後継である、ブートセクタなどに感染する[ウイルスに対して](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")、高い効果を発揮するエンジン。
     Pegasus : Norman製のサンドボックス（仮想環境）型エンジン。
-    Draco : [Ad-Aware](../Page/Ad-Aware.md "wikilink") で有名な、Lavasoft製の[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")や[アドウェア](../Page/アドウェア.md "wikilink")検出に特化したエンジン。
+    Draco : [Ad-Aware](../Page/Ad-Aware.md "wikilink") で有名な、Lavasoft製の[スパイウェア](../Page/スパイウェア.md "wikilink")や[アドウェア](../Page/アドウェア.md "wikilink")検出に特化したエンジン。
     AVP : 他社にOEM提供している、[Kaspersky](https://ja.wikipedia.org/wiki/Kaspersky "wikilink")製のエンジン。提供されるバージョンは最新のものより、一つ前のものとなる。
 
 ## ディープガード

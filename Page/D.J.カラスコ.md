@@ -41,7 +41,7 @@
 
 ### ダイヤモンドバックス時代
 
-2010年7月31日に、[ボビー・クロスビー](../Page/ボビー・クロスビー.md "wikilink")と[ライアン・チャーチ](../Page/ライアン・チャーチ.md "wikilink")と共に、[クリス・スナイダー](https://ja.wikipedia.org/wiki/クリス・スナイダー "wikilink")と[ペドロ・シリアコ](https://ja.wikipedia.org/wiki/ペドロ・シリアコ "wikilink")とのトレードで[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")へ移籍\[2\]。
+2010年7月31日に、[ボビー・クロスビー](../Page/ボビー・クロスビー.md "wikilink")と[ライアン・チャーチ](../Page/ライアン・チャーチ.md "wikilink")と共に、[クリス・スナイダー](../Page/クリス・スナイダー.md "wikilink")と[ペドロ・シリアコ](https://ja.wikipedia.org/wiki/ペドロ・シリアコ "wikilink")とのトレードで[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")へ移籍\[2\]。
 
 ### メッツ時代
 

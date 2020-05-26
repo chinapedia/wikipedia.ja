@@ -1,7 +1,7 @@
 > この記事は[月刊ComicREX](https://ja.wikipedia.org/wiki/月刊ComicREX)から翻訳されています。
 
 
-『**月刊ComicREX**』（げっかんコミックレックス）は、[一迅社](../Page/一迅社.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
+『**月刊ComicREX**』（げっかんコミックレックス）は、[一迅社](../Page/一迅社.md "wikilink")発行の[漫画雑誌](../Page/漫画雑誌.md "wikilink")。
 
 ## 概要
 

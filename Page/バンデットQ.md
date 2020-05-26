@@ -112,7 +112,7 @@
 </tr>
 <tr class="odd">
 <td><p>パンジー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シェリー・デュヴァル" title="wikilink">シェリー・デュヴァル</a></p></td>
+<td><p><a href="../Page/シェリー・デュヴァル.md" title="wikilink">シェリー・デュヴァル</a></p></td>
 <td><p><a href="../Page/鵜飼るみ子.md" title="wikilink">鵜飼るみ子</a><br />
 （<a href="../Page/加納千秋.md" title="wikilink">加納千秋</a>）</p></td>
 </tr>

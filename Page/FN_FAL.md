@@ -173,7 +173,7 @@ FALM PIIIと[IMI ガリルをベースに](../Page/IMI_ガリル.md "wikilink")[
 <!-- end list -->
 
   -
-    第二次及び第三次印パ戦争で[インド軍](https://ja.wikipedia.org/wiki/インド軍 "wikilink")が装備。
+    第二次及び第三次印パ戦争で[インド軍](../Page/インド軍.md "wikilink")が装備。
 
 <!-- end list -->
 

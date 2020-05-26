@@ -5,7 +5,7 @@
 
 ## 用途
 
-かつて塩化水銀(II)を水で薄めた昇汞水は[殺虫剤](https://ja.wikipedia.org/wiki/殺虫剤 "wikilink")や[伝染病予防法](../Page/伝染病予防法.md "wikilink")施行規則第24条に指定された3番目の[消毒液](https://ja.wikipedia.org/wiki/消毒液 "wikilink")\[1\]、[防腐剤](https://ja.wikipedia.org/wiki/防腐剤 "wikilink")として使われていたものの、毒性が強いために現在では使用されていない。また、写真の現像液としても使用された\[2\]。[生物学](../Page/生物学.md "wikilink")の実験に際して昆虫を無菌飼育するときに卵を無菌化する殺菌剤や、ギルソン液などの[固定液](https://ja.wikipedia.org/wiki/固定液 "wikilink")の原料として塩化水銀(II) が挙げられることがある。なお、ギルソン液（Gilson's solution）とは、水880 mlに、60 ％のエタノールまたは60 ％のメタノールを100 ml、氷酢酸を18 ml、80 ％の硝酸を15 ml、20 gの塩化水銀(II)を加えて作った溶液である\[3\]。
+かつて塩化水銀(II)を水で薄めた昇汞水は[殺虫剤](../Page/殺虫剤.md "wikilink")や[伝染病予防法](../Page/伝染病予防法.md "wikilink")施行規則第24条に指定された3番目の[消毒液](https://ja.wikipedia.org/wiki/消毒液 "wikilink")\[1\]、[防腐剤](https://ja.wikipedia.org/wiki/防腐剤 "wikilink")として使われていたものの、毒性が強いために現在では使用されていない。また、写真の現像液としても使用された\[2\]。[生物学](../Page/生物学.md "wikilink")の実験に際して昆虫を無菌飼育するときに卵を無菌化する殺菌剤や、ギルソン液などの[固定液](https://ja.wikipedia.org/wiki/固定液 "wikilink")の原料として塩化水銀(II) が挙げられることがある。なお、ギルソン液（Gilson's solution）とは、水880 mlに、60 ％のエタノールまたは60 ％のメタノールを100 ml、氷酢酸を18 ml、80 ％の硝酸を15 ml、20 gの塩化水銀(II)を加えて作った溶液である\[3\]。
 
 ## 生産
 

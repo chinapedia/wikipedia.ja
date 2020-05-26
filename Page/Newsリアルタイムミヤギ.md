@@ -1,7 +1,7 @@
 > この記事は[Newsリアルタイムミヤギ](https://ja.wikipedia.org/wiki/Newsリアルタイムミヤギ)から翻訳されています。
 
 
-『**Newsリアルタイムミヤギ**』（ニュースリアルタイムミヤギ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[ミヤギテレビで放送していた](../Page/宮城テレビ放送.md "wikilink")[平日](../Page/平日.md "wikilink")夕方の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向け[ローカル](../Page/ローカル番組.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。『[OH\!バンデス](../Page/OH!バンデス.md "wikilink")』の第3部\[1\]であり、放送時間は18:16 - 19:00。第1部・第2部に引き続き[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。なお、『OH\!バンデス』休止の際は『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』と『Newsリアルタイムミヤギ』のみが放送された。
+『**Newsリアルタイムミヤギ**』（ニュースリアルタイムミヤギ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[ミヤギテレビで放送していた](../Page/宮城テレビ放送.md "wikilink")[平日](../Page/平日.md "wikilink")夕方の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")向け[ローカル](../Page/ローカル番組.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")。『[OH\!バンデス](../Page/OH!バンデス.md "wikilink")』の第3部\[1\]であり、放送時間は18:16 - 19:00。第1部・第2部に引き続き[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。なお、『OH\!バンデス』休止の際は『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』と『Newsリアルタイムミヤギ』のみが放送された。
 
 ## 概要
 
@@ -144,7 +144,7 @@
 
 ## 関連項目
 
-  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
+  - [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")
   - [NNN夕方ローカルニュース一覧](../Page/NNN夕方ローカルニュース一覧.md "wikilink")
   - [OH\!バンデス](../Page/OH!バンデス.md "wikilink")
   - [ミヤギテレビNewsリアルタイムサタデー](../Page/ミヤギテレビNewsリアルタイムサタデー.md "wikilink")（土曜日）

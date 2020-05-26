@@ -237,7 +237,7 @@
 
 **[清浦夏実](../Page/清浦夏実.md "wikilink")**
 
-  - 「[夏の記憶](https://ja.wikipedia.org/wiki/風さがし "wikilink")」（編曲）
+  - 「[夏の記憶](../Page/風さがし.md "wikilink")」（編曲）
 
 **[楠田亜衣奈](https://ja.wikipedia.org/wiki/楠田亜衣奈 "wikilink")**
 
@@ -353,7 +353,7 @@
 
 **[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")**関連
 
-  - **[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")**
+  - **[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
       - 「[Reboot\!\!\!](https://ja.wikipedia.org/wiki/Reboot!!! "wikilink")」（編曲）
 
 <!-- end list -->

@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - the keel (Nu-Style Gabba mix)（16 PARTY♪） - [Akino](https://ja.wikipedia.org/wiki/Akino "wikilink")の楽曲のリミックス。
+  - the keel (Nu-Style Gabba mix)（16 PARTY♪） - [Akino](../Page/Akino.md "wikilink")の楽曲のリミックス。
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[Berkeley DB](https://ja.wikipedia.org/wiki/Berkeley_DB)から翻訳されています。
 
 
-**Berkeley DB**は、[アプリケーション組み込み型の](../Page/アプリケーションソフトウェア.md "wikilink")[データベース](../Page/データベース.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")である。現在は[オラクルの製品であり](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、また[オープンソース](../Page/オープンソース.md "wikilink")として公開されている。
+**Berkeley DB**は、[アプリケーション組み込み型の](../Page/アプリケーションソフトウェア.md "wikilink")[データベース](../Page/データベース.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")である。現在は[オラクルの製品であり](../Page/オラクル_\(企業\).md "wikilink")、また[オープンソース](../Page/オープンソース.md "wikilink")として公開されている。
 
 ## 歴史
 
@@ -17,7 +17,7 @@ Berkeley DBには、[Cで実装されたオリジナルの](../Page/C言語.md "
 
 オリジナルの*Berkeley DB*は、[UNIX](../Page/UNIX.md "wikilink")に古くから含まれていた[dbm](https://ja.wikipedia.org/wiki/dbm "wikilink")より発展したアプリケーション組み込み型データベースである。dbmと同じく、[SQL](../Page/SQL.md "wikilink")のような[データ操作言語](https://ja.wikipedia.org/wiki/データ操作言語 "wikilink")を持たず、データベースへのアクセスは全て[サブルーチン](../Page/サブルーチン.md "wikilink")呼び出しによって行う。しかしdbmとは異なり、データ操作機能に[トランザクション](../Page/トランザクション.md "wikilink")や[レプリケーション](../Page/レプリケーション.md "wikilink")に対応する[インタフェースが備わっているのが特徴である](../Page/インタフェース_\(情報技術\).md "wikilink")（[X/Open XAなど](https://ja.wikipedia.org/wiki/X/Open_XA "wikilink")）。その他に[ロックやオンライン](https://ja.wikipedia.org/wiki/ロック_\(情報工学\)#データベースのロック "wikilink")[バックアップ](../Page/バックアップ.md "wikilink")機能を持つ。
 
-*Berkeley DB*本体が対応する[プログラミング言語](../Page/プログラミング言語.md "wikilink")はCおよび[C++](../Page/C++.md "wikilink")だけだが、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Tcl](https://ja.wikipedia.org/wiki/Tcl "wikilink")他多くの言語に[バインディングが用意されており](https://ja.wikipedia.org/wiki/束縛_\(情報工学\) "wikilink")、それらから容易に利用することができる。
+*Berkeley DB*本体が対応する[プログラミング言語](../Page/プログラミング言語.md "wikilink")はCおよび[C++](../Page/C++.md "wikilink")だけだが、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Tcl](https://ja.wikipedia.org/wiki/Tcl "wikilink")他多くの言語に[バインディングが用意されており](../Page/束縛_\(情報工学\).md "wikilink")、それらから容易に利用することができる。
 
 ### Berkeley DB Java Edition
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-名前のとおり、Spybot類（つまり[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")など）を掃討、除去することを主目的としたソフトウェアである。「サーチ・アンド・デストロイ」の語は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")で米国側がベトコンに対して行った[索敵](https://ja.wikipedia.org/wiki/索敵 "wikilink")、掃討の方法（戦術名）に由来する。
+名前のとおり、Spybot類（つまり[スパイウェア](../Page/スパイウェア.md "wikilink")など）を掃討、除去することを主目的としたソフトウェアである。「サーチ・アンド・デストロイ」の語は[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")で米国側がベトコンに対して行った[索敵](https://ja.wikipedia.org/wiki/索敵 "wikilink")、掃討の方法（戦術名）に由来する。
 
 ウェブサイトでは「無料ソフト」として紹介されることが多いが、正確には、個人かつ非商用用途の場合のみ[ドネーションウェア](https://ja.wikipedia.org/wiki/ドネーションウェア "wikilink")（カンパウェア）として使用できる。同系統のソフトでは、[Ad-Aware](../Page/Ad-Aware.md "wikilink")と並び高い普及率を誇る。
 
@@ -20,7 +20,7 @@
 ## 主な機能
 
   - 検索・修正 / 削除
-    パソコン内部の全データを検索し、[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")などの有無を調べる。不要になった[HTTP cookieを削除することもできる](../Page/HTTP_cookie.md "wikilink")。右クリックによるファイル単位・フォルダ単位のスキャンも可能となっている。
+    パソコン内部の全データを検索し、[スパイウェア](../Page/スパイウェア.md "wikilink")などの有無を調べる。不要になった[HTTP cookieを削除することもできる](../Page/HTTP_cookie.md "wikilink")。右クリックによるファイル単位・フォルダ単位のスキャンも可能となっている。
   - リカバリー
     検出後に削除したファイルが重要なファイルだった場合に備え、削除前に自動でバックアップを行っている。これにより削除したファイルが復元できる。
   - 免疫
@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")
+  - [スパイウェア](../Page/スパイウェア.md "wikilink")
   - [アンチスパイソフトウェア](https://ja.wikipedia.org/wiki/アンチスパイソフトウェア "wikilink")
   - [アドウェア](../Page/アドウェア.md "wikilink")
 

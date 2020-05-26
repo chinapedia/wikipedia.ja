@@ -2133,7 +2133,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 <td><p>16266</p></td>
 <td><p>CDシングル</p></td>
 <td><p>三浦大知</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Two_Hearts_(三浦大知の曲)" title="wikilink">Two Hearts</a>(DVD付/MUSIC VIDEO盤)</p></td>
+<td><p><a href="../Page/Two_Hearts_(三浦大知の曲).md" title="wikilink">Two Hearts</a>(DVD付/MUSIC VIDEO盤)</p></td>
 <td><p>2012年5月2日</p></td>
 </tr>
 <tr class="odd">
@@ -4200,7 +4200,7 @@ SoulJaはソロとしては<a href="https://ja.wikipedia.org/wiki/cutting_edge" 
 ## 関連項目
 
   - [avex tune](https://ja.wikipedia.org/wiki/avex_tune "wikilink")
-  - [RISING RECORDS](https://ja.wikipedia.org/wiki/RISING_RECORDS "wikilink")
+  - [RISING RECORDS](../Page/RISING_RECORDS.md "wikilink")
   - [ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")
 
 ## 外部リンク

@@ -17,7 +17,7 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
 
 前後の作品同様[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")仕様だが、歌詞カードは通常のブックレット式ではなく、屏風式となっている\[7\]。
 
-初回限定盤には、[9月1日](../Page/9月1日.md "wikilink")になんばHatchで開催されたリリース記念を兼ねた完全招待制のライブ『[B'z NETWORK LIVE in Japan](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")』の応募抽選ハガキが封入されている\[8\]。
+初回限定盤には、[9月1日](../Page/9月1日.md "wikilink")になんばHatchで開催されたリリース記念を兼ねた完全招待制のライブ『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』の応募抽選ハガキが封入されている\[8\]。
 
 [アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")の[徳永暁人](../Page/徳永暁人.md "wikilink")がアルバム全般の楽曲制作に参加した最後の作品であり、次作『[ACTION](../Page/ACTION_\(アルバム\).md "wikilink")』は一部の楽曲のみ参加、それ以降はB'zにまったく関与していない\[9\]。
 
@@ -128,7 +128,7 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
 **ALL-OUT ATTACK**
 
   - [B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")（特典DVD）
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
 
@@ -139,13 +139,13 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
 **MONSTER**
 
   - [B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
 
 **ネテモサメテモ**
 
   - [B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
 
 **Happy Birthday**
@@ -156,7 +156,7 @@ B'zはあまり[コンセプト](https://ja.wikipedia.org/wiki/コンセプト "
 **雨だれぶるーず**
 
   - [B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
 
 **明日また陽が昇るなら**

@@ -260,7 +260,7 @@ STRAWBERRY MOON（neut mix）</p></td>
 
   - なりきりボニー&クライド
 
-:\*[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[ウイークエンドドラマ](../Page/ウイークエンドドラマ.md "wikilink")『[金魚のフン](https://ja.wikipedia.org/wiki/金魚のフン "wikilink")』エンディングテーマ
+:\*[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[ウイークエンドドラマ](../Page/ウイークエンドドラマ.md "wikilink")『[金魚のフン](../Page/金魚のフン.md "wikilink")』エンディングテーマ
 
   - YELLOW YELLOW FIRE
 

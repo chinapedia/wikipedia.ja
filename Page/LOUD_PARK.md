@@ -5,7 +5,7 @@
 
 ## 概要
 
-LOUD PARKは正統派のヘヴィメタルに加え、[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")、[メタルコア](../Page/メタルコア.md "wikilink")、[デスメタル](../Page/デスメタル.md "wikilink")、[メロディックスピードメタル](../Page/メロディックスピードメタル.md "wikilink")、[ゴシックメタル](../Page/ゴシックメタル.md "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")、[ロックンロール](../Page/ロックンロール.md "wikilink")など、多彩なサブジャンルを包括するヘヴィメタルの総合的なフェスティバルである。[2006年](../Page/2006年.md "wikilink")以降、毎年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[首都圏で行われている](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。[近畿](https://ja.wikipedia.org/wiki/近畿 "wikilink")地方でも、より小規模のジョイントライヴが同名を冠して行われることもある。首都圏の公演では、ステージのMCは[サッシャ](https://ja.wikipedia.org/wiki/サッシャ "wikilink")が務めている。
+LOUD PARKは正統派のヘヴィメタルに加え、[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")、[メタルコア](../Page/メタルコア.md "wikilink")、[デスメタル](../Page/デスメタル.md "wikilink")、[メロディックスピードメタル](../Page/メロディックスピードメタル.md "wikilink")、[ゴシックメタル](../Page/ゴシックメタル.md "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")、[ロックンロール](../Page/ロックンロール.md "wikilink")など、多彩なサブジャンルを包括するヘヴィメタルの総合的なフェスティバルである。[2006年](../Page/2006年.md "wikilink")以降、毎年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[首都圏で行われている](../Page/首都圏_\(日本\).md "wikilink")。[近畿](https://ja.wikipedia.org/wiki/近畿 "wikilink")地方でも、より小規模のジョイントライヴが同名を冠して行われることもある。首都圏の公演では、ステージのMCは[サッシャ](https://ja.wikipedia.org/wiki/サッシャ "wikilink")が務めている。
 
 2006年より一貫してクリエイティブマンプロダクション(creativeman)が企画・招聘。creativemanは米資本の[ライブ・ネイション](https://ja.wikipedia.org/wiki/ライブ・ネイション "wikilink")/[チケットマスター](https://ja.wikipedia.org/wiki/チケットマスター "wikilink")と2013年より提携関係を結び\[1\]、2014年に資本傘下となった\[2\]。
 
@@ -41,7 +41,7 @@ LOUD PARKは正統派のヘヴィメタルに加え、[スラッシュメタル]
 
 音楽演奏の他に各出演バンドのメンバーによる[サイン会](https://ja.wikipedia.org/wiki/サイン会 "wikilink")なども開催される。各出演バンドのロゴ入り[Tシャツ](../Page/Tシャツ.md "wikilink")などを購入できるグッズ売り場も大変人気があり、毎回長蛇の列ができる。早い時間に売り切れてしまう商品もあるため、欲しいものを確実に手に入れるためには時間の余裕を見て会場に到着しなければならない場合もある。
 
-長時間にわたる公演の最中、観客の飲食はいったん外出するか、もしくは会場内に設けられた[屋台](../Page/屋台.md "wikilink")や[バーを利用することとなる](../Page/バー_\(酒場\).md "wikilink")。屋台で提供される料理には、[タイ料理](../Page/タイ料理.md "wikilink")（トムヤムラーメン等）、[ハワイ料理](https://ja.wikipedia.org/wiki/ハワイ料理 "wikilink")（[ロコモコ](../Page/ロコモコ.md "wikilink")等）、[ケバブ](../Page/ケバブ.md "wikilink")、[まぐろ丼](../Page/丼物.md "wikilink")、スモークターキーなどがある。
+長時間にわたる公演の最中、観客の飲食はいったん外出するか、もしくは会場内に設けられた[屋台](../Page/屋台.md "wikilink")や[バーを利用することとなる](../Page/バー_\(酒場\).md "wikilink")。屋台で提供される料理には、[タイ料理](../Page/タイ料理.md "wikilink")（トムヤムラーメン等）、[ハワイ料理](../Page/ハワイ料理.md "wikilink")（[ロコモコ](../Page/ロコモコ.md "wikilink")等）、[ケバブ](../Page/ケバブ.md "wikilink")、[まぐろ丼](../Page/丼物.md "wikilink")、スモークターキーなどがある。
 
 ## 出演者
 

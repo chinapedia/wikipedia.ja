@@ -38,7 +38,7 @@
   - [高橋優](../Page/高橋ユウ.md "wikilink")
   - [菜々緒](https://ja.wikipedia.org/wiki/菜々緒 "wikilink")
   - [西田美歩](../Page/西田美歩.md "wikilink")
-  - [吉田夏海](https://ja.wikipedia.org/wiki/吉田夏海 "wikilink")
+  - [吉田夏海](../Page/吉田夏海.md "wikilink")
   - [Riena](../Page/Riena.md "wikilink")
 
 ### 過去の専属モデル

@@ -70,7 +70,7 @@
   - 翼面積: 153 m
   - 自重: 2850 kg
   - 離陸重量: 5400 kg
-  - 動力: [ノーム・ローン](https://ja.wikipedia.org/wiki/ノーム・エ・ローヌ "wikilink") [ジュピター](../Page/ブリストル_ジュピター.md "wikilink") 450 HP (331 KW) x2
+  - 動力: [ノーム・ローン](../Page/ノーム・エ・ローヌ.md "wikilink") [ジュピター](../Page/ブリストル_ジュピター.md "wikilink") 450 HP (331 KW) x2
   - 最大速度: 154 km/h
   - 上昇限度: 4200 m
   - 航続距離: 1200 km

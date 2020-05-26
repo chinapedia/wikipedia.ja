@@ -76,7 +76,7 @@
 <dd>作詞：RYOHEI／作曲：Blues T／編曲：見良津健雄
 </dd>
 </dl></li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/心もよう" title="wikilink">心もよう</a></strong>[4:11]
+<li><strong><a href="../Page/心もよう.md" title="wikilink">心もよう</a></strong>[4:11]
 <dl>
 <dt></dt>
 <dd>作詞・作曲：<a href="../Page/井上陽水.md" title="wikilink">井上陽水</a>／編曲：勝又隆一

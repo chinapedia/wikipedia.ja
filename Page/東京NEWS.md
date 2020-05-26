@@ -53,7 +53,7 @@
   - [塚本美也子](https://ja.wikipedia.org/wiki/塚本美也子 "wikilink")
   - [荒川(大輪)香菊](https://ja.wikipedia.org/wiki/荒川香菊 "wikilink")
   - [池戸美香](https://ja.wikipedia.org/wiki/池戸美香 "wikilink")
-  - [奥野国英](https://ja.wikipedia.org/wiki/奥野国英 "wikilink")
+  - [奥野国英](../Page/奥野国英.md "wikilink")
   - [原ゆう子](../Page/原ゆう子.md "wikilink")
   - [有馬孝榮](https://ja.wikipedia.org/wiki/有馬孝榮 "wikilink")
   - [宗宮修一](https://ja.wikipedia.org/wiki/宗宮修一 "wikilink")

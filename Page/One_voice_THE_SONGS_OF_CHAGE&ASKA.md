@@ -7,7 +7,7 @@
 
 海外のアーティスト達がChage & Askaの楽曲を[カバー](../Page/カバー.md "wikilink")したアルバム。いわゆる「逆カバー」と呼ばれるものである。これらの作品の多くは日本国内のみでの発売であるが、本作は海外でも発売され[ビルボード](../Page/ビルボード.md "wikilink")誌にも取り上げられた\[1\]。
 
-この企画は発売される数年前から進行しており、1994年5月にモナコで開催された[The World Music Awards授賞式に合わせて現地で行われたCHAGE](https://ja.wikipedia.org/wiki/ワールド・ミュージック・アワード "wikilink")\&ASKAの記者会見では、[INXS](../Page/INXS.md "wikilink") の[マイケル・ハッチェンス](../Page/マイケル・ハッチェンス.md "wikilink")も参加しており、記者からの質問に対して「今度、『Red Hill』を歌う予定だ。」と話していた\[2\]。また、1995年には[キャシー・デニス](https://ja.wikipedia.org/wiki/キャシー・デニス "wikilink")が「天気予報の恋人」をカバーした曲「Love's A Cradle」が、[SUBARU](https://ja.wikipedia.org/wiki/スバル "wikilink") 「[VIVIO](../Page/スバル・ヴィヴィオ.md "wikilink")」 CMソングに起用され、シングル発売されていた。Chage & Aska も「The River」と「Castles In The Air」で参加している。
+この企画は発売される数年前から進行しており、1994年5月にモナコで開催された[The World Music Awards授賞式に合わせて現地で行われたCHAGE](../Page/ワールド・ミュージック・アワード.md "wikilink")\&ASKAの記者会見では、[INXS](../Page/INXS.md "wikilink") の[マイケル・ハッチェンス](../Page/マイケル・ハッチェンス.md "wikilink")も参加しており、記者からの質問に対して「今度、『Red Hill』を歌う予定だ。」と話していた\[2\]。また、1995年には[キャシー・デニス](https://ja.wikipedia.org/wiki/キャシー・デニス "wikilink")が「天気予報の恋人」をカバーした曲「Love's A Cradle」が、[SUBARU](https://ja.wikipedia.org/wiki/スバル "wikilink") 「[VIVIO](../Page/スバル・ヴィヴィオ.md "wikilink")」 CMソングに起用され、シングル発売されていた。Chage & Aska も「The River」と「Castles In The Air」で参加している。
 
 ## リリース
 

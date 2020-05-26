@@ -24,7 +24,7 @@
 
   - 冷たくしないで（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、SPEED「[ALL MY TRUE LOVE](../Page/ALL_MY_TRUE_LOVE.md "wikilink")」のカップリング）
   - EVERYDAY, BE WITH YOU（[1999年](../Page/1999年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")、SPEED「[Breakin' out to the morning](../Page/Breakin'_out_to_the_morning.md "wikilink")」のカップリング）
-  - [Red Beat of My Life](https://ja.wikipedia.org/wiki/Red_Beat_of_My_Life "wikilink")（[2000年](../Page/2000年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")） - Eriko with Crunchとしてのファーストシングル
+  - [Red Beat of My Life](../Page/Red_Beat_of_My_Life.md "wikilink")（[2000年](../Page/2000年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")） - Eriko with Crunchとしてのファーストシングル
   - [Luv is Magic](https://ja.wikipedia.org/wiki/Luv_is_Magic "wikilink")（2000年[8月2日](../Page/8月2日.md "wikilink")）
 
 <!-- end list -->

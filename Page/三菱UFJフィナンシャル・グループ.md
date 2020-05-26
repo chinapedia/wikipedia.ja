@@ -15,7 +15,7 @@
 
 [コーポレートカラー](../Page/コーポレートカラー.md "wikilink")は「MUFGレッド」。グループスローガンは「Quality for You」（確かなクオリティを、明日へ。世界へ。）である。
 
-傘下の三菱UFJ銀行は、[三菱グループ](../Page/三菱グループ.md "wikilink")などを取引先に擁する。前身の旧[三菱銀行](../Page/三菱銀行.md "wikilink")、旧[三和銀行](../Page/三和銀行.md "wikilink")、旧[東海銀行](../Page/東海銀行.md "wikilink")はそれぞれ[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")圏、[名古屋圏の三大都市圏を地盤としている](../Page/名古屋市.md "wikilink")。旧[東京銀行](../Page/東京銀行.md "wikilink")の流れを汲み、国際業務でも優位性をもつ。また国外に[アメリカの地銀](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ユニオン・バンク](../Page/ユニオン・バンク.md "wikilink")を子会社としているほか、[アユタヤ銀行](../Page/アユタヤ銀行.md "wikilink")を傘下に置いているのも特徴的である。
+傘下の三菱UFJ銀行は、[三菱グループ](../Page/三菱グループ.md "wikilink")などを取引先に擁する。前身の旧[三菱銀行](../Page/三菱銀行.md "wikilink")、旧[三和銀行](../Page/三和銀行.md "wikilink")、旧[東海銀行](../Page/東海銀行.md "wikilink")はそれぞれ[首都圏](../Page/首都圏_\(日本\).md "wikilink")、[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")圏、[名古屋圏の三大都市圏を地盤としている](../Page/名古屋市.md "wikilink")。旧[東京銀行](../Page/東京銀行.md "wikilink")の流れを汲み、国際業務でも優位性をもつ。また国外に[アメリカの地銀](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ユニオン・バンク](../Page/ユニオン・バンク.md "wikilink")を子会社としているほか、[アユタヤ銀行](../Page/アユタヤ銀行.md "wikilink")を傘下に置いているのも特徴的である。
 
 2015年3月期決算では、国内銀行グループにおいて初の[純利益](https://ja.wikipedia.org/wiki/純利益 "wikilink")が1兆円を超えた\[1\]\[2\]。また同6月25日付で[委員会設置会社](https://ja.wikipedia.org/wiki/委員会設置会社 "wikilink")に移行した\[3\]。
 
@@ -133,7 +133,7 @@
         [三菱電機](../Page/三菱電機.md "wikilink")、[三菱ケミカルホールディングス](../Page/三菱ケミカルホールディングス.md "wikilink")、[三菱マテリアル](../Page/三菱マテリアル.md "wikilink")、[三菱重工業](../Page/三菱重工業.md "wikilink")、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")、[小岩井乳業](../Page/小岩井乳業.md "wikilink")、[ニコン](../Page/ニコン.md "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、[帝人](../Page/帝人.md "wikilink")、[神戸製鋼所](../Page/神戸製鋼所.md "wikilink")、[宇部興産](../Page/宇部興産.md "wikilink")、[近畿車輛](../Page/近畿車輛.md "wikilink")、[東洋ゴム工業](https://ja.wikipedia.org/wiki/東洋ゴム工業 "wikilink")、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、[豊田自動織機](../Page/豊田自動織機.md "wikilink")
   - 商業
       -
-        [三菱商事](../Page/三菱商事.md "wikilink")、[兼松](../Page/兼松.md "wikilink")、[双日](../Page/双日.md "wikilink")、[豊田通商](https://ja.wikipedia.org/wiki/豊田通商 "wikilink")、[三菱食品](../Page/三菱食品.md "wikilink")、[明治屋](https://ja.wikipedia.org/wiki/明治屋 "wikilink")、[大丸松坂屋百貨店](https://ja.wikipedia.org/wiki/大丸松坂屋百貨店 "wikilink")、[阪急阪神百貨店](https://ja.wikipedia.org/wiki/阪急阪神百貨店 "wikilink")
+        [三菱商事](../Page/三菱商事.md "wikilink")、[兼松](../Page/兼松.md "wikilink")、[双日](../Page/双日.md "wikilink")、[豊田通商](https://ja.wikipedia.org/wiki/豊田通商 "wikilink")、[三菱食品](../Page/三菱食品.md "wikilink")、[明治屋](../Page/明治屋.md "wikilink")、[大丸松坂屋百貨店](https://ja.wikipedia.org/wiki/大丸松坂屋百貨店 "wikilink")、[阪急阪神百貨店](https://ja.wikipedia.org/wiki/阪急阪神百貨店 "wikilink")
   - 運輸
       -
         [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")、[小田急電鉄](../Page/小田急電鉄.md "wikilink")、[東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")、[南海電気鉄道](../Page/南海電気鉄道.md "wikilink")、[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")、[阪急電鉄](../Page/阪急電鉄.md "wikilink")

@@ -26,7 +26,7 @@ C.T.Uレンジャーは2006年7月30日に[後楽園ホール](../Page/後楽園
   - [ザ・グレート・サスケ](../Page/ザ・グレート・サスケ.md "wikilink")（[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")）
   - [ミラノコレクションA.T.](../Page/ミラノコレクションA.T..md "wikilink")（C.T.U CATS-MIKE A.T）※C.T.Uフレンド
   - [Mr.カラスコ](../Page/Mr.カラスコ.md "wikilink")（[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")非公認[マスコット](../Page/マスコット.md "wikilink")キャラクター）
-  - [ディアブロ](https://ja.wikipedia.org/wiki/ディアブロ_\(プロレスラー\) "wikilink")（[プロレスリング華☆激](../Page/プロレスリング華☆激.md "wikilink")、[福岡支部員](../Page/福岡県.md "wikilink")）
+  - [ディアブロ](../Page/ディアブロ_\(プロレスラー\).md "wikilink")（[プロレスリング華☆激](../Page/プロレスリング華☆激.md "wikilink")、[福岡支部員](../Page/福岡県.md "wikilink")）
   - [黒影](https://ja.wikipedia.org/wiki/黒影 "wikilink")（プロレスリング華☆激、福岡支部員）
 
 ## 元メンバー

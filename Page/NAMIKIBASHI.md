@@ -26,7 +26,7 @@
       - 12sec.（出演：片桐仁、小林賢太郎）
   - 「VIDEO VICTIM 2」（2005年）
       - The Japanese Tradition -SUSHI- 鮨（出演：片桐仁、小林賢太郎、[森谷ふみ](../Page/森谷ふみ.md "wikilink")、[室岡悟](../Page/室岡悟.md "wikilink")、[山田太一](../Page/山田太一_\(タレント\).md "wikilink")）
-      - SAKURA WONDERFUL JET（出演：片桐仁、小林賢太郎、森谷ふみ、室岡悟、[平田敦子](https://ja.wikipedia.org/wiki/平田敦子 "wikilink")、メリッサ・ベネット、ゲオルグ・エシャート、社会人）
+      - SAKURA WONDERFUL JET（出演：片桐仁、小林賢太郎、森谷ふみ、室岡悟、[平田敦子](../Page/平田敦子.md "wikilink")、メリッサ・ベネット、ゲオルグ・エシャート、社会人）
       - BATH JACK（出演：片桐仁　音楽：[徳澤青弦](../Page/徳澤青弦.md "wikilink")）
       - TRASH BOY
       - VOICES（出演：片桐仁、小林賢太郎）ラーメンズ超特別公演「RMS1」にて初出

@@ -19,7 +19,7 @@
 | -- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 1  | [季節の中で](../Page/季節の中で.md "wikilink")                                                    | [松山千春](../Page/松山千春.md "wikilink")                              | 1978年8月21日  | PONY CANYON                                                                 | CM「[グリコアーモンドチョコレート](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")」 |
 | 2  | [悪女](https://ja.wikipedia.org/wiki/悪女_\(中島みゆきの曲\) "wikilink")                           | [中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")         | 1981年10月21日 | [YAMAHA MUSIC FOUNDATION](../Page/ヤマハ音楽振興会.md "wikilink")                   | \-                                                                   |
-| 3  | [燃えろいい女](https://ja.wikipedia.org/wiki/燃えろいい女 "wikilink")                               | [世良公則&ツイスト](../Page/世良公則&ツイスト.md "wikilink")                    | 1979年4月5日   | [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")'79夏キャンペーンソング            |                                                                      |
+| 3  | [燃えろいい女](../Page/燃えろいい女.md "wikilink")                                                  | [世良公則&ツイスト](../Page/世良公則&ツイスト.md "wikilink")                    | 1979年4月5日   | [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")'79夏キャンペーンソング            |                                                                      |
 | 4  | [メリーアン](../Page/メリーアン_\(曲\).md "wikilink")                                              | [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink") | 1983年6月21日  | PONY CANYON                                                                 | \-                                                                   |
 | 5  | [てぃーんず ぶるーす](https://ja.wikipedia.org/wiki/てぃーんず_ぶるーす "wikilink")                       | [原田真二](../Page/原田真二.md "wikilink")                              | 1977年10月25日 | [FORLIFE MUSIC ENTERTAINMENT](../Page/フォーライフミュージックエンタテイメント.md "wikilink")   | \-                                                                   |
 | 6  | [オリビアを聴きながら](https://ja.wikipedia.org/wiki/オリビアを聴きながら "wikilink")                       | [尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")           | 1980年9月5日   | PONY CANYON                                                                 | \-                                                                   |
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いっそ_セレナーデ" title="wikilink">いっそ セレナーデ</a></p></td>
+<td><p><a href="../Page/いっそ_セレナーデ.md" title="wikilink">いっそ セレナーデ</a></p></td>
 <td><p><a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></p></td>
 <td><p>1984年10月24日</p></td>
 <td><p>FORLIFE MUSIC ENTERTAINMENT</p></td>

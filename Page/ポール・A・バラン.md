@@ -3,7 +3,7 @@
 
 **ポール・アレグザンダー・バラン**（Paul Alexander Baran, [1910年](../Page/1910年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[経済学者](../Page/経済学者.md "wikilink")。[資本主義](../Page/資本主義.md "wikilink")における[独占](../Page/独占.md "wikilink")の研究で知られる。
 
-[ロシア帝国](../Page/ロシア帝国.md "wikilink")のニコラーエフ（現在の[ウクライナ](../Page/ウクライナ.md "wikilink")・[ムィコラーイウ](https://ja.wikipedia.org/wiki/ムィコラーイウ "wikilink")）生まれ。[ベルリン大学経済学部の助手を務めた後](../Page/フンボルト大学ベルリン.md "wikilink")、米国へ亡命。[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")で学び、[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で[マルクス経済学](../Page/マルクス経済学.md "wikilink")者初の[テニュア](https://ja.wikipedia.org/wiki/テニュア "wikilink")を取得した。同じ経済学者の[ポール・スウィージー](../Page/ポール・スウィージー.md "wikilink")と[都留重人](../Page/都留重人.md "wikilink")はハーバード大学の同期で、友人である。
+[ロシア帝国](../Page/ロシア帝国.md "wikilink")のニコラーエフ（現在の[ウクライナ](../Page/ウクライナ.md "wikilink")・[ムィコラーイウ](../Page/ムィコラーイウ.md "wikilink")）生まれ。[ベルリン大学経済学部の助手を務めた後](../Page/フンボルト大学ベルリン.md "wikilink")、米国へ亡命。[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")で学び、[スタンフォード大学](../Page/スタンフォード大学.md "wikilink")で[マルクス経済学](../Page/マルクス経済学.md "wikilink")者初の[テニュア](https://ja.wikipedia.org/wiki/テニュア "wikilink")を取得した。同じ経済学者の[ポール・スウィージー](../Page/ポール・スウィージー.md "wikilink")と[都留重人](../Page/都留重人.md "wikilink")はハーバード大学の同期で、友人である。
 
 1964年3月26日、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[パロアルトで死去](../Page/パロアルト_\(カリフォルニア州\).md "wikilink")。
 

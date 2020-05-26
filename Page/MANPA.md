@@ -176,7 +176,7 @@
 <td><p>2010年4月6日 - 6月29日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/殿といっしょ" title="wikilink">殿といっしょ</a></p></td>
+<td><p><a href="../Page/殿といっしょ.md" title="wikilink">殿といっしょ</a></p></td>
 <td><p>2010年7月6日 - 9月21日</p></td>
 <td><p>第2部（2:14 - 2:16）</p></td>
 <td></td>

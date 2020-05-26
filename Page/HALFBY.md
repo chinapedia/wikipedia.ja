@@ -405,7 +405,7 @@ VIZL-175</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年12月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ゴー!チーム" title="wikilink">ザ・ゴー!チーム</a>「THE WRATH OF MARCIE」</p></td>
+<td><p><a href="../Page/ザ・ゴー!チーム.md" title="wikilink">ザ・ゴー!チーム</a>「THE WRATH OF MARCIE」</p></td>
 <td><p>NFCT-27066</p></td>
 <td><p>8曲目「TEAM OF CHUCK MIX(Remixed by HALFBY)」</p></td>
 </tr>

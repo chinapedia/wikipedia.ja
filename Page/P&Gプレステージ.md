@@ -111,7 +111,7 @@
   - [ジョーン・シェパード](https://ja.wikipedia.org/wiki/ジョーン・シェパード "wikilink") - 「サマー・クリエーション」「I LOVE BEING A WOMAN」
   - [大塚博堂](../Page/大塚博堂.md "wikilink") - 「春は横顔」
   - [沢田研二](../Page/沢田研二.md "wikilink") - 「[渚のラブレター](../Page/渚のラブレター.md "wikilink")」
-  - [BUZZ](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink") - 「そして…瞳、少年風」
+  - [BUZZ](../Page/バズ_\(バンド\).md "wikilink") - 「そして…瞳、少年風」
   - [ブッシュマン](https://ja.wikipedia.org/wiki/ブッシュマン_\(歌手\) "wikilink") - 「キスラ・キスラ」
   - [二名敦子](https://ja.wikipedia.org/wiki/二名敦子 "wikilink") - 「渚のフェイム」
   - [小比類巻かほる](../Page/小比類巻かほる.md "wikilink") - 「SUMMER FACTOR」

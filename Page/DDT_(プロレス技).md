@@ -7,7 +7,7 @@
 
 [ジェイク・ロバーツ](../Page/ジェイク・ロバーツ.md "wikilink")のオリジナル技であり、代名詞的ともいえる[フィニッシュ・ホールド](../Page/フィニッシュ・ホールド.md "wikilink")。正対する相手の頭部を[フロント・ヘッド・ロックの要領で片脇に捕らえ](../Page/ヘッドロック.md "wikilink")、そのまま後ろに倒れこんで相手の頭部を打ちつける。
 
-ロバーツは自身のDVD『Pick Your Poison』に収録されているインタビューでDDTの名称は[殺虫剤](https://ja.wikipedia.org/wiki/殺虫剤 "wikilink")の[DDT](../Page/DDT.md "wikilink")（**D**ichloro **D**iphenyl **T**richloroethane）に由来していると語っている。[ダブル・ミーニング](../Page/ダブル・ミーニング.md "wikilink")として相棒である[ニシキヘビ](https://ja.wikipedia.org/wiki/ニシキヘビ "wikilink")のダミアンにちなんだダミアンズ・ディナー・タイム（Damien's Dinner Time）にも掛けられており、他にも、「Drop Dead Twice」「Demonic Death Trap」「Death Drop Technique」など様々な言われようもあった。ロバーツのDDT以前にも似た形のプロレス技は存在していたとも言われるが、1つの必殺技としてDDTを開発と確立したのはロバーツである。
+ロバーツは自身のDVD『Pick Your Poison』に収録されているインタビューでDDTの名称は[殺虫剤](../Page/殺虫剤.md "wikilink")の[DDT](../Page/DDT.md "wikilink")（**D**ichloro **D**iphenyl **T**richloroethane）に由来していると語っている。[ダブル・ミーニング](../Page/ダブル・ミーニング.md "wikilink")として相棒である[ニシキヘビ](https://ja.wikipedia.org/wiki/ニシキヘビ "wikilink")のダミアンにちなんだダミアンズ・ディナー・タイム（Damien's Dinner Time）にも掛けられており、他にも、「Drop Dead Twice」「Demonic Death Trap」「Death Drop Technique」など様々な言われようもあった。ロバーツのDDT以前にも似た形のプロレス技は存在していたとも言われるが、1つの必殺技としてDDTを開発と確立したのはロバーツである。
 
 [天龍源一郎](../Page/天龍源一郎.md "wikilink")がインタビューでDDTを自身の名前と掛けて、「DDTはデンジャラス・ドライバー・オブ・テンリューの頭文字である」という旨の発言をしたため、命名の由来に若干の誤解が生じていた。
 

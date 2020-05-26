@@ -17,33 +17,33 @@
 
 ### 出場歌手
 
-| 紅組                                                                     | 白組                                                                    |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 歌手                                                                     | 曲                                                                     |
-| [天地真理](../Page/天地真理.md "wikilink")(初)                                  | [ひとりじゃないの](../Page/ひとりじゃないの.md "wikilink")                            |
-| [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(3)             | 孤独                                                                    |
-| [朱里エイコ](../Page/朱里エイコ.md "wikilink")(初)                                | 北国行きで                                                                 |
-| [渚ゆう子](../Page/渚ゆう子.md "wikilink")(2)                                  | 風の日のバラード                                                              |
-| [奥村チヨ](../Page/奥村チヨ.md "wikilink")(3)                                  | [終着駅](https://ja.wikipedia.org/wiki/終着駅_\(奥村チヨの曲\) "wikilink")        |
-| [由紀さおり](../Page/由紀さおり.md "wikilink")(4)                                | 故郷                                                                    |
-| [佐良直美](../Page/佐良直美.md "wikilink")(6)                                  | [オー・シャンゼリゼ](https://ja.wikipedia.org/wiki/オー・シャンゼリゼ "wikilink")       |
-| [山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")(2)             | [どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")       |
-| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(4)                              | 生まれかわれるものならば                                                          |
-| [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")(2)                 | [純潔](../Page/純潔_\(南沙織の曲\).md "wikilink")                              |
-| [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(14)                           | [さよならは突然に](../Page/さよならは突然に.md "wikilink")                            |
-| [本田路津子](../Page/本田路津子.md "wikilink")(2)                                | [耳をすましてごらん](https://ja.wikipedia.org/wiki/耳をすましてごらん "wikilink")       |
-| [森山良子](../Page/森山良子.md "wikilink")(3)                                  | 美しい星                                                                  |
-| [藤圭子](../Page/藤圭子.md "wikilink")(3)                                    | [京都から博多まで](https://ja.wikipedia.org/wiki/京都から博多まで "wikilink")         |
-| [欧陽菲菲](../Page/欧陽菲菲.md "wikilink")(初)                                  | 恋の追跡（ラブ・チェイス）                                                         |
-| [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(2)                                | [瀬戸の花嫁](../Page/瀬戸の花嫁.md "wikilink")                                  |
-| [平田隆夫とセルスターズ](https://ja.wikipedia.org/wiki/平田隆夫とセルスターズ "wikilink")(初) | [ハチのムサシは死んだのさ](https://ja.wikipedia.org/wiki/ハチのムサシは死んだのさ "wikilink") |
-| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(16)            | すみだ川                                                                  |
-| [都はるみ](../Page/都はるみ.md "wikilink")(8)                                  | おんなの海峡                                                                |
-| [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(3)                              | [喝采](../Page/喝采_\(曲\).md "wikilink")                                  |
-| [青江三奈](../Page/青江三奈.md "wikilink")(6)                                  | 日本列島・みなと町                                                             |
-| [水前寺清子](../Page/水前寺清子.md "wikilink")(8)                                | [昭和放浪記](https://ja.wikipedia.org/wiki/昭和放浪記_\(水前寺清子の曲\) "wikilink")   |
-| [美空ひばり](../Page/美空ひばり.md "wikilink")(17)                               | ある女の詩                                                                 |
-|                                                                        |                                                                       |
+| 紅組                                                          | 白組                                                                    |
+| ----------------------------------------------------------- | --------------------------------------------------------------------- |
+| 歌手                                                          | 曲                                                                     |
+| [天地真理](../Page/天地真理.md "wikilink")(初)                       | [ひとりじゃないの](../Page/ひとりじゃないの.md "wikilink")                            |
+| [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(3)  | 孤独                                                                    |
+| [朱里エイコ](../Page/朱里エイコ.md "wikilink")(初)                     | 北国行きで                                                                 |
+| [渚ゆう子](../Page/渚ゆう子.md "wikilink")(2)                       | 風の日のバラード                                                              |
+| [奥村チヨ](../Page/奥村チヨ.md "wikilink")(3)                       | [終着駅](https://ja.wikipedia.org/wiki/終着駅_\(奥村チヨの曲\) "wikilink")        |
+| [由紀さおり](../Page/由紀さおり.md "wikilink")(4)                     | 故郷                                                                    |
+| [佐良直美](../Page/佐良直美.md "wikilink")(6)                       | [オー・シャンゼリゼ](https://ja.wikipedia.org/wiki/オー・シャンゼリゼ "wikilink")       |
+| [山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")(2)  | [どうにもとまらない](https://ja.wikipedia.org/wiki/どうにもとまらない "wikilink")       |
+| [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")(4)                   | 生まれかわれるものならば                                                          |
+| [南沙織](https://ja.wikipedia.org/wiki/南沙織 "wikilink")(2)      | [純潔](../Page/純潔_\(南沙織の曲\).md "wikilink")                              |
+| [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(14)                | [さよならは突然に](../Page/さよならは突然に.md "wikilink")                            |
+| [本田路津子](../Page/本田路津子.md "wikilink")(2)                     | [耳をすましてごらん](https://ja.wikipedia.org/wiki/耳をすましてごらん "wikilink")       |
+| [森山良子](../Page/森山良子.md "wikilink")(3)                       | 美しい星                                                                  |
+| [藤圭子](../Page/藤圭子.md "wikilink")(3)                         | [京都から博多まで](https://ja.wikipedia.org/wiki/京都から博多まで "wikilink")         |
+| [欧陽菲菲](../Page/欧陽菲菲.md "wikilink")(初)                       | 恋の追跡（ラブ・チェイス）                                                         |
+| [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(2)                     | [瀬戸の花嫁](../Page/瀬戸の花嫁.md "wikilink")                                  |
+| [平田隆夫とセルスターズ](../Page/平田隆夫とセルスターズ.md "wikilink")(初)         | [ハチのムサシは死んだのさ](https://ja.wikipedia.org/wiki/ハチのムサシは死んだのさ "wikilink") |
+| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(16) | すみだ川                                                                  |
+| [都はるみ](../Page/都はるみ.md "wikilink")(8)                       | おんなの海峡                                                                |
+| [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(3)                   | [喝采](../Page/喝采_\(曲\).md "wikilink")                                  |
+| [青江三奈](../Page/青江三奈.md "wikilink")(6)                       | 日本列島・みなと町                                                             |
+| [水前寺清子](../Page/水前寺清子.md "wikilink")(8)                     | [昭和放浪記](https://ja.wikipedia.org/wiki/昭和放浪記_\(水前寺清子の曲\) "wikilink")   |
+| [美空ひばり](../Page/美空ひばり.md "wikilink")(17)                    | ある女の詩                                                                 |
+|                                                             |                                                                       |
 
 #### 選考を巡って
 

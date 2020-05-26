@@ -13,7 +13,7 @@
 
       -
         [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")のボーカル増子直純は実兄。[ボアダムス](../Page/ボアダムス.md "wikilink")などでも活動
-        左利き、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[白石区](../Page/白石区.md "wikilink")[北郷出身](https://ja.wikipedia.org/wiki/北郷_\(札幌市\) "wikilink")
+        左利き、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[白石区](../Page/白石区.md "wikilink")[北郷出身](../Page/北郷_\(札幌市\).md "wikilink")
         [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")『[ROCK](https://ja.wikipedia.org/wiki/ROCK_\(木村カエラのアルバム\) "wikilink")』内の「Girls Just Want To Have Fun」に編曲で参加
 
 <!-- end list -->

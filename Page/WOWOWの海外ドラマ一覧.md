@@ -30,7 +30,7 @@
   - [フリッパー](https://ja.wikipedia.org/wiki/フリッパー_\(テレビシリーズ\) "wikilink")
   - [VR.5](https://ja.wikipedia.org/wiki/VR.5 "wikilink")
   - [ダークスカイ](https://ja.wikipedia.org/wiki/ダークスカイ "wikilink")
-  - [フェリシティの青春](https://ja.wikipedia.org/wiki/フェリシティの青春 "wikilink")
+  - [フェリシティの青春](../Page/フェリシティの青春.md "wikilink")
   - [となりのサインフェルド](../Page/となりのサインフェルド.md "wikilink") （第4シーズンと第5シーズンのみ）
   - [ドーソンズ・クリーク](../Page/ドーソンズ・クリーク.md "wikilink") （第5シーズンより副題に「青春の輝き」）
   - [サード・ウォッチ](../Page/サード・ウォッチ.md "wikilink") （第4シーズンより副題に「NY事件ファイル」）
@@ -174,7 +174,7 @@
   - [ヒットラー](https://ja.wikipedia.org/wiki/ヒットラー_\(テレビドラマ\) "wikilink")
   - [失われた世界](../Page/失われた世界.md "wikilink")
   - [エンジェルス・イン・アメリカ](../Page/エンジェルス・イン・アメリカ.md "wikilink")
-  - [スティーヴン・キングのキングダム・ホスピタル](https://ja.wikipedia.org/wiki/スティーヴン・キングのキングダム・ホスピタル "wikilink")
+  - [スティーヴン・キングのキングダム・ホスピタル](../Page/スティーヴン・キングのキングダム・ホスピタル.md "wikilink")
   - [ラストキングダム 10番目の王国](https://ja.wikipedia.org/wiki/ラストキングダム_10番目の王国 "wikilink")
   - [ザ・グリッド](../Page/ザ・グリッド.md "wikilink")
   - [キング・ソロモンの秘宝](https://ja.wikipedia.org/wiki/キング・ソロモンの秘宝 "wikilink")

@@ -9,7 +9,7 @@
 
 ### 国内タイトル
 
-  - **[リーグ](https://ja.wikipedia.org/wiki/デンマーク・スーペルリーガ "wikilink"):13回**
+  - **[リーグ](../Page/デンマーク・スーペルリーガ.md "wikilink"):13回**
       - 1992-93, 2000-01, 2002-03, 2003-04, 2005-06, 2006-07, 2008-09, 2009-10, 2010-11, 2012-13, 2015-16, 2016-17, 2018-19
 
 <!-- end list -->
@@ -504,7 +504,7 @@
 <td><p>2007-08</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2007-08.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベイタル・エルサレムFC" title="wikilink">ベイタル・エルサレム</a></p></td>
+<td><p><a href="../Page/ベイタル・エルサレムFC.md" title="wikilink">ベイタル・エルサレム</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-1<br />
 (a.e.t.)</p></td>

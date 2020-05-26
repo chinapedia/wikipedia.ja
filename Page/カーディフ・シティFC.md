@@ -3,7 +3,7 @@
 
 **カーディフ・シティFC**（、 ）は、[ウェールズ](../Page/ウェールズ.md "wikilink")の首都[カーディフ](../Page/カーディフ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。イングランドプロサッカーリーグ（[フットボールリーグ・チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")）に加盟するプロサッカークラブ。1899年に**リヴァーサイドAFC**（**Riverside A.F.C.**）として創設され、1908年に**カーディフ・シティ**（**Cardiff City**）に改名。1910-11シーズンから[サザンフットボールリーグ](../Page/サザンフットボールリーグ.md "wikilink")に所属。1920-21シーズンに[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")（2部）に昇格。
 
-1927年には、イングランド以外のクラブとして唯一、[FAカップ](../Page/FAカップ.md "wikilink")優勝を果たし、1925年および2008年には準優勝した。[ウェルシュカップ](https://ja.wikipedia.org/wiki/ウェルシュカップ "wikilink")は[レクサムに次ぐ](https://ja.wikipedia.org/wiki/レクサムFC "wikilink")22回の優勝を誇る。
+1927年には、イングランド以外のクラブとして唯一、[FAカップ](../Page/FAカップ.md "wikilink")優勝を果たし、1925年および2008年には準優勝した。[ウェルシュカップ](https://ja.wikipedia.org/wiki/ウェルシュカップ "wikilink")は[レクサムに次ぐ](../Page/レクサムFC.md "wikilink")22回の優勝を誇る。
 
 ## 概要
 

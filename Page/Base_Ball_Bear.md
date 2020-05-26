@@ -1216,7 +1216,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <td><p>若若男女サマーツアー'08</p></td>
 <td><ol>
 <li>7月14日 Zepp Osaka</li>
-<li>7月16日 東京 <a href="https://ja.wikipedia.org/wiki/ミーツポート" title="wikilink">JCB HALL</a></li>
+<li>7月16日 東京 <a href="../Page/ミーツポート.md" title="wikilink">JCB HALL</a></li>
 <li>7月18日 Zepp Sapporo</li>
 </ol></td>
 <td><p>チャットモンチー、シュノーケルとのスプリット・ツアー</p></td>
@@ -1904,7 +1904,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
       - 8月29日 - SWEET LOVE SHOWER 2009
       - 9月12日 - YOUNG FLAG 09
       - 9月20日 - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink") presents "太陽と月の下の往来"
-      - 11月27日 - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink") 全国2マンツアー「初体験 VS ツアー」
+      - 11月27日 - [ミドリ](../Page/ミドリ_\(バンド\).md "wikilink") 全国2マンツアー「初体験 VS ツアー」
       - 11月28日 - ミドリ 全国2マンツアー「初体験 VS ツアー」
       - 12月29日 - COUNTDOWN JAPAN 09/10
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")

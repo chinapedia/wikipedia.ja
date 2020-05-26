@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **[タケト](https://ja.wikipedia.org/wiki/タケト "wikilink")** [ツッコミ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。衣装の色は青。
+  - **[タケト](../Page/タケト.md "wikilink")** [ツッコミ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。衣装の色は青。
 
 <!-- end list -->
 

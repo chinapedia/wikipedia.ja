@@ -28,4 +28,4 @@ TF1グループはTF1の他、ニュース専門局の[LCI](https://ja.wikipedia
 
 1.  『ドラゴンボール』の放送当時に残酷なシーンが流れた直後、謝罪放送を行った逸話がある。
 2.  [日本テレビがフランス・TF1と協力協定を締結へ ～ 日・仏 No1民放局の提携でデジタル放送をリード ～ 04.07.26](http://www.ntv.co.jp/info/news/174.html)
-3.  かつては[欧州最大のスポーツ専門放送局である](../Page/ヨーロッパ.md "wikilink")[ユーロスポーツ](https://ja.wikipedia.org/wiki/ユーロスポーツ "wikilink")（Eurosport、[1991年](../Page/1991年.md "wikilink")放送開始）を保有、ライバルである公共放送会社、[フランス・テレビジョン](../Page/フランス・テレビジョン.md "wikilink")と共同で立ち上げた24時間放送の[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")によるニュース専門局である[France 24の運営にも関わっていた](../Page/France_24.md "wikilink")。
+3.  かつては[欧州最大のスポーツ専門放送局である](../Page/ヨーロッパ.md "wikilink")[ユーロスポーツ](../Page/ユーロスポーツ.md "wikilink")（Eurosport、[1991年](../Page/1991年.md "wikilink")放送開始）を保有、ライバルである公共放送会社、[フランス・テレビジョン](../Page/フランス・テレビジョン.md "wikilink")と共同で立ち上げた24時間放送の[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")によるニュース専門局である[France 24の運営にも関わっていた](../Page/France_24.md "wikilink")。

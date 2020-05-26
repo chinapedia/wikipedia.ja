@@ -346,7 +346,7 @@
 </tr>
 <tr class="odd">
 <td><p>1959</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/波も涙も暖かい" title="wikilink">波も涙も暖かい</a><br />
+<td><p><a href="../Page/波も涙も暖かい.md" title="wikilink">波も涙も暖かい</a><br />
 <em>A Hole in the Head</em></p></td>
 <td><p>マリオ・マネッタ</p></td>
 <td></td>
@@ -396,7 +396,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シャイアン_(映画)" title="wikilink">シャイアン</a><br />
 <em>Cheyenne Autumn</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カール・シュルツ" title="wikilink">カール・シュルツ</a></p></td>
+<td><p><a href="../Page/カール・シュルツ.md" title="wikilink">カール・シュルツ</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -37,7 +37,7 @@
 
 ### ゲスト
 
-  - 隊長 - [草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")（第1・5話）
+  - 隊長 - [草見潤平](../Page/草見潤平.md "wikilink")（第1・5話）
   - G機関のスナイパー - [高杉俊介](../Page/高杉俊介.md "wikilink")（第2話）
   - 早乙女鉄二 - [福田健次](../Page/福田健次.md "wikilink")（第6話）
   - 署長 - [本郷直樹](../Page/本郷直樹.md "wikilink")（第6話）

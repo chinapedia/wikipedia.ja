@@ -37,7 +37,7 @@
   - [ボディアーマー](../Page/ボディアーマー.md "wikilink")
     [爆発物](../Page/爆発物.md "wikilink")や[砲弾](../Page/砲弾.md "wikilink")の破片、[銃弾などから胴体を守るための防具](../Page/弾丸.md "wikilink")。
   - [盾](https://ja.wikipedia.org/wiki/ライオットシールド "wikilink")
-    重武装ではない[民間人](../Page/民間人.md "wikilink")が暴徒化した場合の治安維持や立て篭もり事件などでは、拳銃弾や[爆弾](../Page/爆弾.md "wikilink")の破片、[火炎瓶](../Page/火炎瓶.md "wikilink")の直撃や[投石](https://ja.wikipedia.org/wiki/投石 "wikilink")などを防ぐ程度の比較的小型軽量なものが使用されるが、より高度な防御力を備える規格になると大きく重いため、下部に脚や車輪を備えた物もある。
+    重武装ではない[民間人](../Page/民間人.md "wikilink")が暴徒化した場合の治安維持や立て篭もり事件などでは、拳銃弾や[爆弾](../Page/爆弾.md "wikilink")の破片、[火炎瓶](../Page/火炎瓶.md "wikilink")の直撃や[投石](../Page/投石.md "wikilink")などを防ぐ程度の比較的小型軽量なものが使用されるが、より高度な防御力を備える規格になると大きく重いため、下部に脚や車輪を備えた物もある。
 
 上記のほか、閃光手榴弾使用時に[火傷防止のために難燃性の物](../Page/熱傷.md "wikilink")（[ヘリコプター](../Page/ヘリコプター.md "wikilink")や車輌搭乗者用の難燃性の[ツナギなどを流用する事もある](../Page/つなぎ.md "wikilink")）を着用する場合もある。また、対[テロ部隊などの場合](https://ja.wikipedia.org/wiki/テロリズム "wikilink")、隊員への報復を防止するために[目出し帽](../Page/目出し帽.md "wikilink")を着用する事が多い。[ポリカーボネート](../Page/ポリカーボネート.md "wikilink")製の[防弾](https://ja.wikipedia.org/wiki/防弾 "wikilink")フェイスマスクを導入している例もある。
 

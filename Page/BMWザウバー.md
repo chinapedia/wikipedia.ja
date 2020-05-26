@@ -81,7 +81,7 @@ BMWは1952年と1953年の[ドイツGPの](../Page/ドイツグランプリ.md "
 
 ### 2006年
 
-[2006年](../Page/2006年.md "wikilink")、新生BMWザウバーF1チームは、この頃は珍しくなかった型落ちのマシンで戦いで後から新車を導入するのではなく、開幕戦から新車[BMWザウバー・F1.06](https://ja.wikipedia.org/wiki/BMWザウバー・F1.06 "wikilink")を投入。BMWウイリアムズ時代に良い働きを見せ、また前オーナーのペーター・ザウバーのお気に入りでもあったニック・ハイドフェルドをファーストドライバーに迎え、ザウバーとの間に交わした契約が依然有効だった1997年のチャンピオン、[ジャック・ヴィルヌーヴ](../Page/ジャック・ヴィルヌーヴ.md "wikilink")とのコンビネーションでシーズンに臨んだ。控えのサードドライバーは、[WSBRのチャンピオンである](../Page/フォーミュラ・ルノー3.5.md "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")人の[ロバート・クビサ](https://ja.wikipedia.org/wiki/ロバート・クビサ "wikilink")であった。
+[2006年](../Page/2006年.md "wikilink")、新生BMWザウバーF1チームは、この頃は珍しくなかった型落ちのマシンで戦いで後から新車を導入するのではなく、開幕戦から新車[BMWザウバー・F1.06](../Page/BMWザウバー・F1.06.md "wikilink")を投入。BMWウイリアムズ時代に良い働きを見せ、また前オーナーのペーター・ザウバーのお気に入りでもあったニック・ハイドフェルドをファーストドライバーに迎え、ザウバーとの間に交わした契約が依然有効だった1997年のチャンピオン、[ジャック・ヴィルヌーヴ](../Page/ジャック・ヴィルヌーヴ.md "wikilink")とのコンビネーションでシーズンに臨んだ。控えのサードドライバーは、[WSBRのチャンピオンである](../Page/フォーミュラ・ルノー3.5.md "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")人の[ロバート・クビサ](https://ja.wikipedia.org/wiki/ロバート・クビサ "wikilink")であった。
 
 ハイドフェルドは第3戦[オーストラリアGPの](../Page/オーストラリアグランプリ.md "wikilink")4位を最高にしてコンスタントにポイントを獲得したが、ヴィルヌーヴは不調が続き、第12戦[ドイツGPを最後にチームを離脱した](../Page/ドイツグランプリ.md "wikilink")。続く[ハンガリーGPからサードドライバーのクビサがデビューし](../Page/ハンガリーグランプリ.md "wikilink")、いきなり7位入賞で才能の片鱗を見せ付けたがレース終了後の車検で規定重量違反が発覚しポイントを剥奪された。しかしクビサは第15戦[イタリアGPでは](../Page/イタリアグランプリ.md "wikilink")3位入賞して参戦3戦目にして表彰台を飾った。ハイドフェルドも第13戦ハンガリーGPでチーム初の表彰台となる3位を獲得するなどの活躍を見せ、この年チームは36ポイントを獲得しコンストラクターランキングは5位であった。
 
@@ -93,7 +93,7 @@ BMWは1952年と1953年の[ドイツGPの](../Page/ドイツグランプリ.md "
 
 ハイドフェルドは、カナダGPで2位、ハンガリーGPで3位として表彰台に上がり、バーレーンGPと富士では、[フェルナンド・アロンソ](../Page/フェルナンド・アロンソ.md "wikilink")を追い抜くという活発的・積極的な姿も示せた。
 
-クビサも序盤からコンスタントにポイントを獲得していたが、カナダGPで[トヨタの](https://ja.wikipedia.org/wiki/トヨタF1 "wikilink")[ヤルノ・トゥルーリ](../Page/ヤルノ・トゥルーリ.md "wikilink")と接触し派手にクラッシュした。この事故はBMWザウバー発足以来最も重大なアクシデントであり、一昔前であれば確実にドライバーは死亡しているような事故であったが、[HANS](../Page/HANS.md "wikilink")を着用していたこと、そして[F1.07がクラッシュテストで想定されたとおり](https://ja.wikipedia.org/wiki/BMWザウバー・F1.07 "wikilink")「きちんと壊れた」ことからドライバーへのダメージを吸収したため、奇跡的なことにクビサ自身は足を捻挫しただけで済んだ。ただしFIAの医師団の薦めに従いクビサは次戦アメリカGPを欠場することになった。
+クビサも序盤からコンスタントにポイントを獲得していたが、カナダGPで[トヨタの](https://ja.wikipedia.org/wiki/トヨタF1 "wikilink")[ヤルノ・トゥルーリ](../Page/ヤルノ・トゥルーリ.md "wikilink")と接触し派手にクラッシュした。この事故はBMWザウバー発足以来最も重大なアクシデントであり、一昔前であれば確実にドライバーは死亡しているような事故であったが、[HANS](../Page/HANS.md "wikilink")を着用していたこと、そして[F1.07がクラッシュテストで想定されたとおり](../Page/BMWザウバー・F1.07.md "wikilink")「きちんと壊れた」ことからドライバーへのダメージを吸収したため、奇跡的なことにクビサ自身は足を捻挫しただけで済んだ。ただしFIAの医師団の薦めに従いクビサは次戦アメリカGPを欠場することになった。
 
 アメリカGPではクビサの代役でドイツ人の[セバスチャン・ベッテル](https://ja.wikipedia.org/wiki/セバスチャン・ベッテル "wikilink")が出走することになった。ベッテルはこのレースで完走8位入賞して1ポイントを獲得した。新人ドライバーがいきなり出走してポイントを獲得できたのはベッテルの才能もさることながら、F1.07のポテンシャルの高さを示したともいえる。
 
@@ -156,7 +156,7 @@ BMWは1952年と1953年の[ドイツGPの](../Page/ドイツグランプリ.md "
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2006年のF1世界選手権.md" title="wikilink">2006</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BMWザウバー・F1.06" title="wikilink">F1.06</a></p></td>
+<td><p><a href="../Page/BMWザウバー・F1.06.md" title="wikilink">F1.06</a></p></td>
 <td><p><a href="../Page/BMW.md" title="wikilink">BMW</a>P86(<a href="../Page/V型8気筒.md" title="wikilink">V8</a>)</p></td>
 <td></td>
 <td></td>
@@ -282,7 +282,7 @@ BMWは1952年と1953年の[ドイツGPの](../Page/ドイツグランプリ.md "
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年のF1世界選手権.md" title="wikilink">2007</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BMWザウバー・F1.07" title="wikilink">F1.07</a></p></td>
+<td><p><a href="../Page/BMWザウバー・F1.07.md" title="wikilink">F1.07</a></p></td>
 <td><p><a href="../Page/BMW.md" title="wikilink">BMW</a>P86/7(<a href="../Page/V型8気筒.md" title="wikilink">V8</a>)</p></td>
 <td></td>
 <td></td>
@@ -294,7 +294,7 @@ BMWは1952年と1953年の[ドイツGPの](../Page/ドイツグランプリ.md "
 </p></td>
 <td><p><a href="../Page/2007年スペイングランプリ.md" title="wikilink">ESP</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年モナコグランプリ" title="wikilink">MON</a><br />
+<td><p><a href="../Page/2007年モナコグランプリ.md" title="wikilink">MON</a><br />
 </p></td>
 <td><p><a href="../Page/2007年カナダグランプリ.md" title="wikilink">CAN</a><br />
 </p></td>

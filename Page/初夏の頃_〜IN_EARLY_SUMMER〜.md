@@ -54,7 +54,7 @@
 
   - Produced & Arranged by [斎藤誠](../Page/斎藤誠.md "wikilink")
   - Record & Mixed by 山口州治
-  - Drums：[河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")
+  - Drums：[河村"カースケ"智康](../Page/河村智康.md "wikilink")
   - Bass：角田俊介
   - Keyboards：片山敦夫
   - Percussion：成田昭彦

@@ -39,7 +39,7 @@
 ## テーマ曲
 
   - [ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")他：Sonny Jの「Disastro\[13\]」
-  - テーマ：[The Go\! Teamの](https://ja.wikipedia.org/wiki/ザ・ゴー!チーム "wikilink")「Bust-Out Brigade」
+  - テーマ：[The Go\! Teamの](../Page/ザ・ゴー!チーム.md "wikilink")「Bust-Out Brigade」
   - エンディング：Mansfieldの「Birds of Paradise (Readymade Disco Mix)\[14\]」
 
 ## 番組の特徴

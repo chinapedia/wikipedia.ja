@@ -32,13 +32,13 @@ SMCタンパク質の進化的起源は古く、[真正細菌](https://ja.wikipe
 
 ## 分子構造と活性
 
-[SMCfolding.png](https://ja.wikipedia.org/wiki/File:SMCfolding.png "fig:SMCfolding.png") SMC タンパク質は、1,000-1,500アミノ酸残基からなる。 常に2量体（[原核生物](../Page/原核生物.md "wikilink")ではホモ2量体、[真核生物](../Page/真核生物.md "wikilink")ではヘテロ2量体）を形成し、特徴的な**V字型構造**をつくる\[20\]\[21\]。個々のSMCサブユニットは、まず反平行の[コイルドコイル](https://ja.wikipedia.org/wiki/コイルドコイル "wikilink")によって折り畳まれ、長い棒状の形態をとる。この際、一方の末端には [ATP](../Page/アデノシン三リン酸.md "wikilink") 結合部位（"ヘッド"）が、もう一方の末端には"ヒンジ"が形成される。2つのSMCサブユニットはヒンジを介して結合し、V字型の巨大な2量体を構築する\[22\]\[23\]。反平行のコイルドコイルによって形成される腕部の長さは、\~50 nmにも達する（これは2重鎖DNA\~150 bpに相当する長さである）。同程度あるいはそれ以上の長さをもつ「平行」のコイルドコイルは[ミオシン](../Page/ミオシン.md "wikilink")や[キネシン](../Page/キネシン.md "wikilink")等の[モータータンパク質](https://ja.wikipedia.org/wiki/モータータンパク質 "wikilink")によくみられるが、これだけ長い「反平行」のコイルドコイルをもつものはSMCタンパク質以外に知られていない。
+[SMCfolding.png](https://ja.wikipedia.org/wiki/File:SMCfolding.png "fig:SMCfolding.png") SMC タンパク質は、1,000-1,500アミノ酸残基からなる。 常に2量体（[原核生物](../Page/原核生物.md "wikilink")ではホモ2量体、[真核生物](../Page/真核生物.md "wikilink")ではヘテロ2量体）を形成し、特徴的な**V字型構造**をつくる\[20\]\[21\]。個々のSMCサブユニットは、まず反平行の[コイルドコイル](../Page/コイルドコイル.md "wikilink")によって折り畳まれ、長い棒状の形態をとる。この際、一方の末端には [ATP](../Page/アデノシン三リン酸.md "wikilink") 結合部位（"ヘッド"）が、もう一方の末端には"ヒンジ"が形成される。2つのSMCサブユニットはヒンジを介して結合し、V字型の巨大な2量体を構築する\[22\]\[23\]。反平行のコイルドコイルによって形成される腕部の長さは、\~50 nmにも達する（これは2重鎖DNA\~150 bpに相当する長さである）。同程度あるいはそれ以上の長さをもつ「平行」のコイルドコイルは[ミオシン](../Page/ミオシン.md "wikilink")や[キネシン](../Page/キネシン.md "wikilink")等の[モータータンパク質](https://ja.wikipedia.org/wiki/モータータンパク質 "wikilink")によくみられるが、これだけ長い「反平行」のコイルドコイルをもつものはSMCタンパク質以外に知られていない。
 
 SMC ヘッドドメインは、[ABC輸送体](https://ja.wikipedia.org/wiki/ABC輸送体 "wikilink")や DNA修復タンパク質 Rad50 のATP結合部位と構造上の共通点を有する。このクラスの ATP 結合ドメイン（**ATP結合カセット**; **ATP-binding cassette \[ABC\]**）では、Walker AモチーフとWalker Bモチーフに加えて、signatureモチーフ（別名C motif）と呼ばれる特有の配列が高度に保存されている。ATP結合と加水分解のサイクルは、2つのヘッドドメインの会合と解離のサイクルとカップルし、その結果としてV字型構造の開閉を制御する。こうした SMC 2量体の構造変換が制御サブユニット（[kleisin](https://ja.wikipedia.org/wiki/kleisin "wikilink")サブユニットや[HEATリピート](https://ja.wikipedia.org/wiki/HEATリピート "wikilink")サブユニット\]）およびDNAとのダイナミックな相互作用を制御すると考えられているが、その詳細はまだ明らかではない\[24\]\[25\]。
 
 ## 関連項目
 
-  - [ATPアーゼ](../Page/ATPアーゼ.md "wikilink")・[コイルドコイル](https://ja.wikipedia.org/wiki/コイルドコイル "wikilink")
+  - [ATPアーゼ](../Page/ATPアーゼ.md "wikilink")・[コイルドコイル](../Page/コイルドコイル.md "wikilink")
   - [染色体](../Page/染色体.md "wikilink")・[核様体](https://ja.wikipedia.org/wiki/核様体 "wikilink")
   - [染色体凝縮](../Page/染色体凝縮.md "wikilink")・[姉妹染色分体](../Page/姉妹染色分体.md "wikilink")
   - [コンデンシン](https://ja.wikipedia.org/wiki/コンデンシン "wikilink")・[コヒーシン](../Page/コヒーシン.md "wikilink")

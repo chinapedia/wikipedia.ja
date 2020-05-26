@@ -14,7 +14,7 @@
 
 古くは[ランチア](../Page/ランチア.md "wikilink")、近年では[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")が自動車用エンジンとして採用している。直列エンジンより短い全長を持ち、通常の[V型エンジン](../Page/V型エンジン.md "wikilink")だとふたつになる[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")がひとつになる等の特徴を持つ。V型とはいうが極端に狭いバンク角のために外見は直列エンジンに近く、吸気、排気もそれぞれのバンクに分かれるのではなく直列エンジンと同じくそれぞれ1列に並んでいる。
 
-[Lancia_Fulvia_5M_1972_m2_engine.jpg](https://ja.wikipedia.org/wiki/File:Lancia_Fulvia_5M_1972_m2_engine.jpg "fig:Lancia_Fulvia_5M_1972_m2_engine.jpg")が最後に製造した狭角[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンの[ランチア・フルヴィア](https://ja.wikipedia.org/wiki/ランチア・フルヴィア "wikilink") V4\]\] ランチアは1920年代から1960年代に掛けて生産した[:en:Lancia_V4_engine](https://ja.wikipedia.org/wiki/:en:Lancia_V4_engine "wikilink")シリーズの[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンに伝統的に狭角V型構造を採用していたが、このエンジンは「narrow-angle V-engine」や「staggered-bank V-engine」などと呼ばれていた程度で、一般的には通常のV型エンジンの亜種として分類されていた。
+[Lancia_Fulvia_5M_1972_m2_engine.jpg](https://ja.wikipedia.org/wiki/File:Lancia_Fulvia_5M_1972_m2_engine.jpg "fig:Lancia_Fulvia_5M_1972_m2_engine.jpg")が最後に製造した狭角[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンの[ランチア・フルヴィア](../Page/ランチア・フルヴィア.md "wikilink") V4\]\] ランチアは1920年代から1960年代に掛けて生産した[:en:Lancia_V4_engine](https://ja.wikipedia.org/wiki/:en:Lancia_V4_engine "wikilink")シリーズの[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンに伝統的に狭角V型構造を採用していたが、このエンジンは「narrow-angle V-engine」や「staggered-bank V-engine」などと呼ばれていた程度で、一般的には通常のV型エンジンの亜種として分類されていた。
 
 フォルクスワーゲンから最初に発表された狭角V型6気筒エンジンは「[VR6](https://ja.wikipedia.org/wiki/VR6エンジン "wikilink")」と呼ばれた。VR6のVはV型エンジン、Rはドイツ語での[直列型エンジン](../Page/直列型エンジン.md "wikilink")(Reihenmotor)の頭文字をとったことによる。現在は単にV型エンジンと表記されることが多い。
 

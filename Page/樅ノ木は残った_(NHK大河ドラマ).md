@@ -322,7 +322,7 @@
   - およし：[石井富子](https://ja.wikipedia.org/wiki/石井富子 "wikilink")
   - 源助：[小宮山清](../Page/小宮山清.md "wikilink")
   - 坂本家家士：**[宮内幸平](../Page/宮内幸平.md "wikilink")**
-  - 用人柿本：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")
+  - 用人柿本：[宗近晴見](../Page/宗近晴見.md "wikilink")
   - 和尚：[加藤嘉](../Page/加藤嘉.md "wikilink")
   - 船の男：[田村錦人](../Page/田村錦人.md "wikilink")
   - 部屋子：[林寛子](../Page/林寛子_\(タレント\).md "wikilink")

@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [ニューヨーク市の経済](https://ja.wikipedia.org/wiki/ニューヨーク市の経済 "wikilink")
+  - [ニューヨーク市の経済](../Page/ニューヨーク市の経済.md "wikilink")
   - [ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")
 
 ## 脚注

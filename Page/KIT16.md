@@ -11,7 +11,7 @@
 
   - [田中一郎](../Page/田中一郎_\(ミュージシャン\).md "wikilink")　ボーカル、ギター
   - 榎本高　ベース
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")　ドラム
+  - [河村智康](../Page/河村智康.md "wikilink")　ドラム
   - [大森信和](../Page/大森信和.md "wikilink")　ギター
   - [斉藤光浩](https://ja.wikipedia.org/wiki/斉藤光浩 "wikilink")　ベース
 
@@ -74,7 +74,7 @@
 
   - [大森信和](../Page/大森信和.md "wikilink")
   - [田中一郎](../Page/田中一郎_\(ミュージシャン\).md "wikilink")
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")
+  - [河村智康](../Page/河村智康.md "wikilink")
   - [榎本高](https://ja.wikipedia.org/wiki/榎本高 "wikilink")
   - [斉藤光浩](https://ja.wikipedia.org/wiki/斉藤光浩 "wikilink")
 

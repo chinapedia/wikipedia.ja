@@ -45,7 +45,7 @@ DVD司会進行役　 5代目三遊亭圓楽、桂歌丸、 林家木久蔵(2007
 
   - →[林家九蔵](../Page/林家九蔵.md "wikilink")
 
-  - [三笑亭夢之助](https://ja.wikipedia.org/wiki/三笑亭夢之助 "wikilink")
+  - [三笑亭夢之助](../Page/三笑亭夢之助.md "wikilink")
 
   - 三遊亭楽太郎
 
@@ -297,7 +297,7 @@ DVD司会進行役　 5代目三遊亭圓楽、桂歌丸、 林家木久蔵(2007
 8.  ドレミファ大喜利（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）[1月2日](../Page/1月2日.md "wikilink")放送）
       - 司会：林家こん平 - 当初司会を行う予定だった三波が急逝したため、代わりに司会を行った。
       - [高英男](../Page/高英男.md "wikilink")
-      - [大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")
+      - [大津美子](../Page/大津美子.md "wikilink")
       - [田端義夫](../Page/田端義夫.md "wikilink")
       - [近江俊郎](../Page/近江俊郎.md "wikilink")
       - [松尾和子](../Page/松尾和子.md "wikilink")

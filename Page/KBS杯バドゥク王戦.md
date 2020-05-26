@@ -24,7 +24,7 @@
 4.  1984年 曺薫鉉 2-1 徐奉洙
 5.  1985年 [河燦錫](https://ja.wikipedia.org/wiki/河燦錫 "wikilink") 2-1 金熙中
 6.  1986年 曺薫鉉 2-1 金熙中
-7.  1987年 曺薫鉉 2-1 [徐能旭](https://ja.wikipedia.org/wiki/徐能旭 "wikilink")
+7.  1987年 曺薫鉉 2-1 [徐能旭](../Page/徐能旭.md "wikilink")
 8.  1988年 [李昌鎬](../Page/李昌鎬.md "wikilink") 2-1 [金秀壮](https://ja.wikipedia.org/wiki/金秀壮 "wikilink")
 9.  1989年 曺薫鉉 2-1 徐能旭
 10. 1990年 曺薫鉉 2-0 徐能旭

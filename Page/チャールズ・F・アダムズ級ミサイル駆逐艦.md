@@ -121,7 +121,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/AN/ULQ-6" title="wikilink">AN/ULQ-6</a>B ECM装置</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mk_36_SRBOC" title="wikilink">Mk.137</a> 6連装<a href="https://ja.wikipedia.org/wiki/デコイ_(兵器)" title="wikilink">デコイ発射機</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/Mk_36_SRBOC" title="wikilink">Mk.137</a> 6連装<a href="../Page/デコイ_(兵器).md" title="wikilink">デコイ発射機</a><br />
 <small>※後日装備</small></p></td>
 </tr>
 </tbody>
@@ -157,7 +157,7 @@
 
 [ソナー](../Page/ソナー.md "wikilink")としては、低周波・大出力の[AN/SQS-23](https://ja.wikipedia.org/wiki/AN/SQS-23 "wikilink")が搭載される。また後の改修で、4隻については、信号処理装置などに改良を加えたAN/SQQ-23に更新された。
 
-またその後、[海軍戦術情報システム](../Page/海軍戦術情報システム.md "wikilink")（NTDS）の艦隊配備の進展を受けて、艦隊の主たるワークホースである本級にもこれをバックフィットする計画が生まれた。ただし本級では、容積や発電容量等の制約のためにフルスペックのNTDSの[戦術情報処理装置](https://ja.wikipedia.org/wiki/戦術情報処理装置 "wikilink")を搭載出来なかったことから、簡易型として[JPTDS（Junior Participating Tactical Data System）が開発された](https://ja.wikipedia.org/wiki/海軍戦術情報システム#ハードウェア "wikilink")。これは処理目標数や武器管制能力、処理装置や端末の台数との[トレードオフ](../Page/トレードオフ.md "wikilink")のもとで小型化・省電力化したものであるが、空母戦闘群（現 [空母打撃群](../Page/空母打撃群.md "wikilink")）の一員としての行動を考慮して、[リンク 11への連接能力は維持された](https://ja.wikipedia.org/wiki/リンク_11 "wikilink")。コスト高騰を受けて、アメリカ海軍では4隻が搭載したのみであったが、[オーストラリア海軍](../Page/オーストラリア海軍.md "wikilink")では[パース級駆逐艦](../Page/パース級駆逐艦.md "wikilink")の3隻全艦に搭載し、また[海上自衛隊](../Page/海上自衛隊.md "wikilink")の[たちかぜ型護衛艦](../Page/たちかぜ型護衛艦.md "wikilink")向けの[WES](https://ja.wikipedia.org/wiki/WES "wikilink")のベースともなった。またこの搭載に伴い、[武器管制システム](https://ja.wikipedia.org/wiki/武器管制システム "wikilink")（WDS）はMk.4からMk.13 mod.4に更新された。
+またその後、[海軍戦術情報システム](../Page/海軍戦術情報システム.md "wikilink")（NTDS）の艦隊配備の進展を受けて、艦隊の主たるワークホースである本級にもこれをバックフィットする計画が生まれた。ただし本級では、容積や発電容量等の制約のためにフルスペックのNTDSの[戦術情報処理装置](../Page/戦術情報処理装置.md "wikilink")を搭載出来なかったことから、簡易型として[JPTDS（Junior Participating Tactical Data System）が開発された](https://ja.wikipedia.org/wiki/海軍戦術情報システム#ハードウェア "wikilink")。これは処理目標数や武器管制能力、処理装置や端末の台数との[トレードオフ](../Page/トレードオフ.md "wikilink")のもとで小型化・省電力化したものであるが、空母戦闘群（現 [空母打撃群](../Page/空母打撃群.md "wikilink")）の一員としての行動を考慮して、[リンク 11への連接能力は維持された](https://ja.wikipedia.org/wiki/リンク_11 "wikilink")。コスト高騰を受けて、アメリカ海軍では4隻が搭載したのみであったが、[オーストラリア海軍](../Page/オーストラリア海軍.md "wikilink")では[パース級駆逐艦](../Page/パース級駆逐艦.md "wikilink")の3隻全艦に搭載し、また[海上自衛隊](../Page/海上自衛隊.md "wikilink")の[たちかぜ型護衛艦](../Page/たちかぜ型護衛艦.md "wikilink")向けの[WES](https://ja.wikipedia.org/wiki/WES "wikilink")のベースともなった。またこの搭載に伴い、[武器管制システム](https://ja.wikipedia.org/wiki/武器管制システム "wikilink")（WDS）はMk.4からMk.13 mod.4に更新された。
 
 ### 武器システム
 
@@ -244,7 +244,7 @@ USS <em>Robison</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>DDG-13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホーエル_(ミサイル駆逐艦)" title="wikilink">ホーエル</a><br />
+<td><p><a href="../Page/ホーエル_(ミサイル駆逐艦).md" title="wikilink">ホーエル</a><br />
 USS <em>Hoel</em></p></td>
 </tr>
 <tr class="even">

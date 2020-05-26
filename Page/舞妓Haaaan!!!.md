@@ -11,7 +11,7 @@
 
 DVDは2007年12月7日にレンタル開始、12月12日に発売開始。
 
-[第31回日本アカデミー賞](https://ja.wikipedia.org/wiki/第31回日本アカデミー賞 "wikilink")主演男優賞、助演男優賞、脚本賞優秀賞。
+[第31回日本アカデミー賞](../Page/第31回日本アカデミー賞.md "wikilink")主演男優賞、助演男優賞、脚本賞優秀賞。
 
 ## あらすじ
 
@@ -57,7 +57,7 @@ DVDは2007年12月7日にレンタル開始、12月12日に発売開始。
   - 監督補：相沢淳
   - 助監督：蔵方政俊
   - 音響効果：[柴崎憲治](https://ja.wikipedia.org/wiki/柴崎憲治 "wikilink")
-  - VFXスーパーバイザー：[小田一生](https://ja.wikipedia.org/wiki/小田一生 "wikilink")
+  - VFXスーパーバイザー：[小田一生](../Page/小田一生.md "wikilink")
   - ビジュアルエフェクト：[ナイス・デー](https://ja.wikipedia.org/wiki/ナイス・デー_\(企業\) "wikilink")、シネ・ボーイ、[東京現像所](../Page/東京現像所.md "wikilink")、NTTメディアラボ
   - 衣裳デザイン：伊藤佐智子
   - 日舞振付指導：[花柳糸之](https://ja.wikipedia.org/wiki/花柳糸之 "wikilink")

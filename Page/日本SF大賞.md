@@ -58,9 +58,9 @@
 
   - 第11回（1990年） - [椎名誠](../Page/椎名誠.md "wikilink") 『[アド・バード](../Page/アド・バード.md "wikilink")』
   - 第12回（1991年） - [梶尾真治](../Page/梶尾真治.md "wikilink")『[サラマンダー殲滅](https://ja.wikipedia.org/wiki/サラマンダー殲滅 "wikilink")』、特別賞 [石原藤夫](../Page/石原藤夫.md "wikilink")『SF図書解説総目録』および『「SFマガジン」インデックス』
-  - 第13回（1992年） - [筒井康隆](../Page/筒井康隆.md "wikilink") 『[朝のガスパール](https://ja.wikipedia.org/wiki/朝のガスパール "wikilink")』
+  - 第13回（1992年） - [筒井康隆](../Page/筒井康隆.md "wikilink") 『[朝のガスパール](../Page/朝のガスパール.md "wikilink")』
   - 第14回（1993年） - [柾悟郎](../Page/柾悟郎.md "wikilink")『ヴィーナス・シティ』、特別賞 [黒丸尚](../Page/黒丸尚.md "wikilink")
-  - 第15回（1994年） - [大原まり子](../Page/大原まり子.md "wikilink")『戦争を演じた神々たち』、[小谷真理](https://ja.wikipedia.org/wiki/小谷真理 "wikilink")『女性状無意識』
+  - 第15回（1994年） - [大原まり子](../Page/大原まり子.md "wikilink")『戦争を演じた神々たち』、[小谷真理](../Page/小谷真理.md "wikilink")『女性状無意識』
   - 第16回（1995年） - [神林長平](../Page/神林長平.md "wikilink")『言壷』、特別賞 [野田昌宏](../Page/野田昌宏.md "wikilink")『「科學小説」神髄』
   - 第17回（1996年） - [金子修介](../Page/金子修介.md "wikilink") 『[ガメラ2 レギオン襲来](../Page/ガメラ2_レギオン襲来.md "wikilink")』
   - 第18回（1997年） - [宮部みゆき](../Page/宮部みゆき.md "wikilink") 『[蒲生邸事件](../Page/蒲生邸事件.md "wikilink")』、[庵野秀明](../Page/庵野秀明.md "wikilink") 『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』
@@ -78,7 +78,7 @@
   - 第27回（2006年） - [萩尾望都](../Page/萩尾望都.md "wikilink") 『[バルバラ異界](../Page/バルバラ異界.md "wikilink")』
   - 第28回（2007年） - [最相葉月](../Page/最相葉月.md "wikilink") 『[星新一](../Page/星新一.md "wikilink") 一〇〇一話をつくった人』
   - 第29回（2008年） - [貴志祐介](../Page/貴志祐介.md "wikilink") 『[新世界より](https://ja.wikipedia.org/wiki/新世界より_\(小説\) "wikilink")』、[磯光雄](../Page/磯光雄.md "wikilink") 『[電脳コイル](../Page/電脳コイル.md "wikilink")』、特別賞 野田昌宏
-  - 第30回（2009年） - [伊藤計劃](https://ja.wikipedia.org/wiki/伊藤計劃 "wikilink") 『[ハーモニー](https://ja.wikipedia.org/wiki/ハーモニー_\(小説\) "wikilink")』、特別賞 [栗本薫](../Page/栗本薫.md "wikilink") 『[グイン・サーガ](https://ja.wikipedia.org/wiki/グイン・サーガ "wikilink")』
+  - 第30回（2009年） - [伊藤計劃](https://ja.wikipedia.org/wiki/伊藤計劃 "wikilink") 『[ハーモニー](https://ja.wikipedia.org/wiki/ハーモニー_\(小説\) "wikilink")』、特別賞 [栗本薫](../Page/栗本薫.md "wikilink") 『[グイン・サーガ](../Page/グイン・サーガ.md "wikilink")』
 
 ### 第31回から
 
@@ -124,7 +124,7 @@
   - 2001年　川又千秋、巽孝之、とり・みき、中島梓、南山宏
   - 2002年　川又千秋、[高千穂遙](../Page/高千穂遙.md "wikilink")、巽孝之、中島梓、難波弘之
   - 2003年　川又千秋、[神林長平](../Page/神林長平.md "wikilink")、高千穂遙、巽孝之、難波弘之
-  - 2004年　笠井潔、[小谷真理](https://ja.wikipedia.org/wiki/小谷真理 "wikilink")、高千穂遙、[辻真先](../Page/辻真先.md "wikilink")、森下一仁
+  - 2004年　笠井潔、[小谷真理](../Page/小谷真理.md "wikilink")、高千穂遙、[辻真先](../Page/辻真先.md "wikilink")、森下一仁
   - 2005年　笠井潔、神林長平、小谷真理、辻真先、森下一仁
   - 2006年　[新井素子](../Page/新井素子.md "wikilink")、笠井潔、小谷真理、辻真先、森下一仁
   - 2007年-2008年　[東浩紀](../Page/東浩紀.md "wikilink")、新井素子、[太田忠司](../Page/太田忠司.md "wikilink")、[飛浩隆](../Page/飛浩隆.md "wikilink")、萩尾望都

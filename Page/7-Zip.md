@@ -65,7 +65,7 @@ ZIPやgzipの電子ファイルを圧縮するとき、7-Zipは自家製の[Defl
 
   - [暗号化](https://ja.wikipedia.org/wiki/暗号化 "wikilink")方式として、[7z](../Page/7z.md "wikilink")書庫は256[ビット](../Page/ビット.md "wikilink")の[AESをサポートする](../Page/Advanced_Encryption_Standard.md "wikilink")。暗号化は電子ファイルと 7z ディレクトリ構造の両方に対して有効にできる。ディレクトリ構造が暗号化された場合、利用者は書庫内に含まれるファイル名を見るために[パスワード](../Page/パスワード.md "wikilink")を与える必要がある。WinZipが開発したAESによるZIP書庫暗号化の規格も利用可能だが、7z 書庫のようなファイル名の暗号化は提供されていない\[12\]。
   - 7-Zipは動的にサイズの変わる[ボリュームを柔軟にサポートする](https://ja.wikipedia.org/wiki/ボリューム_\(圧縮\) "wikilink")。これは書き換え可能[CDや](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")などのリムーバブルメディアへのバックアップに有用である。
-  - 2分割画面モードのとき、7-Zipは基本的な伝統的[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")であるとみなせる。
+  - 2分割画面モードのとき、7-Zipは基本的な伝統的[ファイルマネージャ](../Page/ファイルマネージャ.md "wikilink")であるとみなせる。
   - 7-Zipは壊れたファイル名を含む書庫を展開（解凍）し、必要に応じて改名する機能を持つ。
   - 自己解凍書庫を作成すれば、7z展開ソフトウェアを持たない利用者も圧縮された電子ファイルを展開（解凍）できる。
 

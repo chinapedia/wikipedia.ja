@@ -7,7 +7,7 @@
 
 ## 概説
 
-[CSS](../Page/Content_Scramble_System.md "wikilink") は[コピーコントロール技術ではなく](../Page/コピーガード.md "wikilink")[アクセスコントロール](https://ja.wikipedia.org/wiki/アクセスコントロール "wikilink")技術であるため、再生時にも CSS を解読する。またこのソフトを利用して抽出したと思しきディスクイメージが 、[Winny](../Page/Winny.md "wikilink") や [Share](../Page/Share_\(ソフトウェア\).md "wikilink") などの[ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")に違法に[アップロード](../Page/アップロード.md "wikilink")されることが問題となっている。
+[CSS](../Page/Content_Scramble_System.md "wikilink") は[コピーコントロール技術ではなく](../Page/コピーガード.md "wikilink")[アクセスコントロール](https://ja.wikipedia.org/wiki/アクセスコントロール "wikilink")技術であるため、再生時にも CSS を解読する。またこのソフトを利用して抽出したと思しきディスクイメージが 、[Winny](../Page/Winny.md "wikilink") や [Share](../Page/Share_\(ソフトウェア\).md "wikilink") などの[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")に違法に[アップロード](../Page/アップロード.md "wikilink")されることが問題となっている。
 
 [2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")現在、公式[サイトは閉鎖されており](../Page/ウェブサイト.md "wikilink")、そこから本ソフトを[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")するのは不可能だが、[ミラーサイト](../Page/ミラーサイト.md "wikilink")からはダウンロードすることが可能である。さらに、DVD-Video をコピーする方法を記した[書籍や](../Page/本.md "wikilink")[雑誌](../Page/雑誌.md "wikilink")の付録に付いている事があるため、入手はさほど困難ではない。日経PC21 2009年3月号に「マクロビジョン保護を除去」のチェックを外す形で同ソフトが記述されている。
 
@@ -29,7 +29,7 @@ DVD-Video をリッピングして[ハードディスクドライブ](https://ja
   - [不正競争防止法](../Page/不正競争防止法.md "wikilink")
   - [DeCSS](../Page/DeCSS.md "wikilink")
   - [DVDFab HD Decrypter](../Page/DVDFab_HD_Decrypter.md "wikilink")　（本ソフトと類似する機能を持つが、直接の関係は持たない。）
-  - [DAEMON Tools](https://ja.wikipedia.org/wiki/DAEMON_Tools "wikilink")
+  - [DAEMON Tools](../Page/DAEMON_Tools.md "wikilink")
   - [Qrpff](https://ja.wikipedia.org/wiki/Qrpff "wikilink")
   - [ゲームラボ](../Page/ゲームラボ.md "wikilink")
   - [ネットランナー](../Page/ネトラン.md "wikilink")

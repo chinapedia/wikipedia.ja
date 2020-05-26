@@ -286,7 +286,7 @@
 <td><p>マフィア・ジャパン・スタイル</p></td>
 <td><p>永原秀一</p></td>
 <td><p>長谷部安春</p></td>
-<td><p><a href="../Page/深江章喜.md" title="wikilink">深江章喜</a>、<a href="../Page/中庸助.md" title="wikilink">中庸介</a>、市村昌治、<a href="https://ja.wikipedia.org/wiki/山口豪久" title="wikilink">山口あきら</a>、<a href="https://ja.wikipedia.org/wiki/金子研三" title="wikilink">金子研三</a>、<a href="../Page/志賀圭二郎.md" title="wikilink">志賀圭二郎</a>、<a href="../Page/上田耕一.md" title="wikilink">上田耕一</a>、檀喧太、<a href="https://ja.wikipedia.org/wiki/谷口芳昭" title="wikilink">谷口永伍</a>、村木勲、<a href="https://ja.wikipedia.org/wiki/池松隆介" title="wikilink">池松隆介</a>、大竹義夫、<a href="https://ja.wikipedia.org/wiki/久本昇" title="wikilink">久本昇</a></p></td>
+<td><p><a href="../Page/深江章喜.md" title="wikilink">深江章喜</a>、<a href="../Page/中庸助.md" title="wikilink">中庸介</a>、市村昌治、<a href="../Page/山口豪久.md" title="wikilink">山口あきら</a>、<a href="https://ja.wikipedia.org/wiki/金子研三" title="wikilink">金子研三</a>、<a href="../Page/志賀圭二郎.md" title="wikilink">志賀圭二郎</a>、<a href="../Page/上田耕一.md" title="wikilink">上田耕一</a>、檀喧太、<a href="https://ja.wikipedia.org/wiki/谷口芳昭" title="wikilink">谷口永伍</a>、村木勲、<a href="https://ja.wikipedia.org/wiki/池松隆介" title="wikilink">池松隆介</a>、大竹義夫、<a href="https://ja.wikipedia.org/wiki/久本昇" title="wikilink">久本昇</a></p></td>
 <td><p>24.3%</p></td>
 </tr>
 <tr class="odd">

@@ -35,7 +35,7 @@
 2.  [SWEET MEMORIES](https://ja.wikipedia.org/wiki/ガラスの林檎/SWEET_MEMORIES "wikilink")／松田聖子
 3.  [異邦人](https://ja.wikipedia.org/wiki/異邦人_\(久保田早紀の曲\) "wikilink")／[久保田早紀](https://ja.wikipedia.org/wiki/久保田早紀 "wikilink")
 4.  [雨音はショパンの調べ](https://ja.wikipedia.org/wiki/雨音はショパンの調べ "wikilink")／[小林麻美](../Page/小林麻美.md "wikilink")
-5.  [誰より好きなのに](https://ja.wikipedia.org/wiki/誰より好きなのに "wikilink")／[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")
+5.  [誰より好きなのに](../Page/誰より好きなのに.md "wikilink")／[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")
 6.  [恋人よ](../Page/恋人よ_\(五輪真弓の曲\).md "wikilink")／[五輪真弓](../Page/五輪真弓.md "wikilink")
 7.  [早春物語](../Page/早春物語_\(原田知世の曲\).md "wikilink")／原田知世
 8.  [TAXI](https://ja.wikipedia.org/wiki/TAXI_\(曲\) "wikilink")／[鈴木聖美 with Rats\&Star](https://ja.wikipedia.org/wiki/鈴木聖美_with_Rats&Star "wikilink")

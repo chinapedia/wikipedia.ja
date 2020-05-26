@@ -32,7 +32,7 @@
 
 ## 関連項目
 
-  - [ファイル共有ソフト](https://ja.wikipedia.org/wiki/ファイル共有ソフト "wikilink")
+  - [ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")
   - [Peer to Peer](../Page/Peer_to_Peer.md "wikilink")
 
 ## 外部リンク

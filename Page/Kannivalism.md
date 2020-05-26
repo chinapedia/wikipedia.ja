@@ -486,7 +486,7 @@ AVCD-38043:通常盤</p></td>
 | 監督                                                    | 曲名                                                                                             |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [河谷英夫](https://ja.wikipedia.org/wiki/河谷英夫 "wikilink") | 「life is」「[mum.](https://www.youtube.com/watch?v=kJa-321kaeA)」「rememorari」「split recollection」 |
-| [長谷川信](https://ja.wikipedia.org/wiki/長谷川信 "wikilink") | 「リトリ」                                                                                          |
+| [長谷川信](../Page/長谷川信.md "wikilink")                    | 「リトリ」                                                                                          |
 | [日野雄介](https://ja.wikipedia.org/wiki/日野雄介 "wikilink") | 「モノクローム」(出演:[飯田孝男](../Page/飯田孝男.md "wikilink"))                                                |
 | [増山準哉](https://ja.wikipedia.org/wiki/増山準哉 "wikilink") | 「ホシの夜」                                                                                         |
 | [八若道洋](https://ja.wikipedia.org/wiki/八若道洋 "wikilink") | 「small world」                                                                                  |

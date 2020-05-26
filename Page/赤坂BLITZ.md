@@ -1,7 +1,7 @@
 > この記事は[赤坂BLITZ](https://ja.wikipedia.org/wiki/赤坂BLITZ)から翻訳されています。
 
 
-**赤坂BLITZ**（あかさかブリッツ、[英語](../Page/英語.md "wikilink")：*Akasaka BLITZ*）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")・[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内にある、[TBSテレビ](../Page/TBSテレビ.md "wikilink")運営の[ライブハウス](../Page/ライブハウス.md "wikilink")である。2017年11月1日[マイナビ](../Page/マイナビ.md "wikilink")が[施設命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")（ネーミングライツ）を取得したことにより、同日から呼称を「**マイナビBLITZ赤坂**」としている\[1\]。
+**赤坂BLITZ**（あかさかブリッツ、[英語](../Page/英語.md "wikilink")：*Akasaka BLITZ*）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")・[赤坂サカス](../Page/赤坂サカス.md "wikilink")内にある、[TBSテレビ](../Page/TBSテレビ.md "wikilink")運営の[ライブハウス](../Page/ライブハウス.md "wikilink")である。2017年11月1日[マイナビ](../Page/マイナビ.md "wikilink")が[施設命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")（ネーミングライツ）を取得したことにより、同日から呼称を「**マイナビBLITZ赤坂**」としている\[1\]。
 
 旧施設は[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）にオープンしたが、[2003年](../Page/2003年.md "wikilink")（平成15年）をもって再開発計画のため閉鎖、その5年後の[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月20日に復活させた。
 
@@ -9,11 +9,11 @@
 
 ## 概要
 
-旧施設は [1996年](../Page/1996年.md "wikilink")（平成8年）4月16日、東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）の現放送センター移転に伴い、旧テレビ局舎・鉄塔跡地に開設された。2000年（平成12年）に[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")がオープンするまでは都内で唯一の1,500人 - 2,000人規模のライブハウスであり、日本国内外の約2,000組（2003年9月時点）に渡るアーティストが頻繁に利用していた\[3\]\[4\]。旧施設の杮落しは[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")であった\[5\]。[2003年](../Page/2003年.md "wikilink")（平成15年）9月5日、[Dragon Ashの公演をもって](../Page/Dragon_Ash.md "wikilink")[「TBS赤坂五丁目再開発計画」（現・赤坂サカスプロジェクト）により閉鎖した](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")\[6\]\[7\]\[8\]。
+旧施設は [1996年](../Page/1996年.md "wikilink")（平成8年）4月16日、東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）の現放送センター移転に伴い、旧テレビ局舎・鉄塔跡地に開設された。2000年（平成12年）に[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")がオープンするまでは都内で唯一の1,500人 - 2,000人規模のライブハウスであり、日本国内外の約2,000組（2003年9月時点）に渡るアーティストが頻繁に利用していた\[3\]\[4\]。旧施設の杮落しは[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")であった\[5\]。[2003年](../Page/2003年.md "wikilink")（平成15年）9月5日、[Dragon Ashの公演をもって](../Page/Dragon_Ash.md "wikilink")[「TBS赤坂五丁目再開発計画」（現・赤坂サカスプロジェクト）により閉鎖した](../Page/赤坂サカス.md "wikilink")\[6\]\[7\]\[8\]。
 
 [2004年](../Page/2004年.md "wikilink")（平成16年）11月14日、赤坂BLITZの移転施設として[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")がオープンした。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月20日、赤坂サカス内の旧赤坂BLITZとほぼ同じ位置に[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")と併設される形で新築・再オープンした。位置的にはTBS放送センターと[赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")に挟まれる形になる。杮落し公演は[KREVA](../Page/KREVA.md "wikilink")が行った\[9\]。なお、横浜BLITZは併存して運営されていたが、2013年10月14日をもって閉鎖となった\[10\]。2009年（平成21年）4月には東京放送の持株会社化（[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）に伴い、運営が[TBSテレビ](../Page/TBSテレビ.md "wikilink")に移行した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）3月20日、赤坂サカス内の旧赤坂BLITZとほぼ同じ位置に[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")と併設される形で新築・再オープンした。位置的にはTBS放送センターと[赤坂Bizタワー](../Page/赤坂Bizタワー.md "wikilink")に挟まれる形になる。杮落し公演は[KREVA](../Page/KREVA.md "wikilink")が行った\[9\]。なお、横浜BLITZは併存して運営されていたが、2013年10月14日をもって閉鎖となった\[10\]。2009年（平成21年）4月には東京放送の持株会社化（[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）に伴い、運営が[TBSテレビ](../Page/TBSテレビ.md "wikilink")に移行した。
 
 2017年11月1日、[マイナビ](../Page/マイナビ.md "wikilink")の[施設命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")（ネーミングライツ）取得により、呼称を「マイナビBLITZ赤坂」に変更。
 

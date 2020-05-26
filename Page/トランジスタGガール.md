@@ -24,7 +24,7 @@
     <!-- end list -->
       - 25thシングルのアコースティックバージョン
 3.  トランジスタG（グラマー）ガール（Backing Track）\[4:04\]
-4.  **[Julia](https://ja.wikipedia.org/wiki/Julia_\(TOKIOの曲\) "wikilink")**（Piano version）\[5:17\]
+4.  **[Julia](../Page/Julia_\(TOKIOの曲\).md "wikilink")**（Piano version）\[5:17\]
       -
         作詞・作曲：[ジョー・リノイエ](../Page/ジョー・リノイエ.md "wikilink")、編曲：[国分太一](../Page/国分太一.md "wikilink")
     <!-- end list -->

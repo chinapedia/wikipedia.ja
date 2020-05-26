@@ -11,7 +11,7 @@
   - [ハワード・ジョーンズ](../Page/ハワード・ジョーンズ.md "wikilink")
   - [マーク・ガードナー](https://ja.wikipedia.org/wiki/マーク・ガードナー "wikilink")（ライド）
   - Manda-rin（Bis <small></small>）
-  - サイス（[ブー・ラドリーズ](https://ja.wikipedia.org/wiki/ブー・ラドリーズ "wikilink")）
+  - サイス（[ブー・ラドリーズ](../Page/ブー・ラドリーズ.md "wikilink")）
   - Gary Stringer（Reef <small></small>）
   - Idha <small></small>
   - ダニエル・ベルクヴィスト（[エスコバ](../Page/エスコバ.md "wikilink")）

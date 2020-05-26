@@ -81,7 +81,7 @@
 [Category:かつて存在した神奈川県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した神奈川県の企業 "wikilink") [Category:かつて存在した日本の貸金業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の貸金業者 "wikilink") [Category:経営破綻した企業(神奈川県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(神奈川県\) "wikilink") [Category:1973年設立の企業](https://ja.wikipedia.org/wiki/Category:1973年設立の企業 "wikilink") [Category:2017年廃止の企業](https://ja.wikipedia.org/wiki/Category:2017年廃止の企業 "wikilink")
 
 1.  [（仮称）新宿区西新宿８丁目　新築工事  （ 賃貸住宅 ）](http://www7.kankyo.metro.tokyo.jp/building/detail/130125_011.html)
-2.  SFコーポレーションは貸付を中止し、債権回収だけを行っているため、同時に株式会社イッコー（現・[Jトラスト](https://ja.wikipedia.org/wiki/Jトラスト "wikilink")株式会社）との間で借り換えに関して業務提携をしている。
+2.  SFコーポレーションは貸付を中止し、債権回収だけを行っているため、同時に株式会社イッコー（現・[Jトラスト](../Page/Jトラスト.md "wikilink")株式会社）との間で借り換えに関して業務提携をしている。
     [株式会社SFコーポレーションとの業務提携に関するお知らせ](http://www.ikko-corp.co.jp/ir/pdf/33/H20103111.pdf) 株式会社イッコー・プレスリリース2008年10月31日
 3.  [お知らせ](http://sf-corp.jp/news/20110808.pdf)
 4.  [破産手続開始決定のお知らせ](http://sf-corp.jp/news/20110826.pdf)

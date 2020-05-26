@@ -228,7 +228,7 @@
 
   - [デニス・ヘンテナール](https://ja.wikipedia.org/wiki/デニス・ヘンテナール "wikilink") 1995-2005
 
-  - [バボシュ・ガボール](https://ja.wikipedia.org/wiki/バボシュ・ガボール "wikilink") 2005-2013
+  - [バボシュ・ガボール](../Page/バボシュ・ガボール.md "wikilink") 2005-2013
 
   - [ハンネス・ソール・ハルドーソン](https://ja.wikipedia.org/wiki/ハンネス・ソール・ハルドーソン "wikilink")　2015-2016
 

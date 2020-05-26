@@ -21,7 +21,7 @@
   - 2008年[2月28日](../Page/2月28日.md "wikilink") - ソネットエンタテインメントが[株式公開買い付け](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")（TOB）にて完全子会社化することを表明。TOB価格は、2008年2月22日までの過去３ヶ月間の終値の単純平均78267円に対して約40.54％のプレミアムを加えた金額の110000円。\[2\]
   - 2008年[4月21日](../Page/4月21日.md "wikilink") - TOBの完了に伴い親会社が[アエリア](../Page/アエリア.md "wikilink")からソネットエンタテインメントに変更。
   - 2008年[4月1日](../Page/4月1日.md "wikilink") - オンラインゲーム運営会社[GPコアエッジ](https://ja.wikipedia.org/wiki/GPコアエッジ "wikilink")を出資、設立。
-  - 2008年[4月28日](../Page/4月28日.md "wikilink") - [Paperman](https://ja.wikipedia.org/wiki/Paperman "wikilink")の韓国運営権以外の全ての権利を[サイカンゲームズ](https://ja.wikipedia.org/wiki/サイカンゲームズ "wikilink")から譲渡、取得\[3\]。
+  - 2008年[4月28日](../Page/4月28日.md "wikilink") - [Paperman](https://ja.wikipedia.org/wiki/Paperman "wikilink")の韓国運営権以外の全ての権利を[サイカンゲームズ](../Page/サイカンゲームズ.md "wikilink")から譲渡、取得\[3\]。
   - 2008年[6月19日](../Page/6月19日.md "wikilink") - ソネットエンタテインメントの完全子会社になることが臨時[株主総会](../Page/株主総会.md "wikilink")において承認。
   - 2008年[7月20日](../Page/7月20日.md "wikilink") - 上場廃止。終値は108000円。
   - 2008年[7月29日](../Page/7月29日.md "wikilink") - ソネットエンタテインメントの完全子会社となる。

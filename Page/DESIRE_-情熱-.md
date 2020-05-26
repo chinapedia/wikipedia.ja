@@ -35,7 +35,7 @@
 
 「DESIRE」はリリース後、[TBS系の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』や[フジテレビ系の](../Page/フジテレビ系列.md "wikilink")『[夜のヒットスタジオDELUXE](https://ja.wikipedia.org/wiki/夜のヒットスタジオ#夜のヒットスタジオDELUXE "wikilink")』といった[音楽番組](../Page/音楽番組.md "wikilink")や、1986年に行われた[第37回NHK紅白歌合戦](../Page/第37回NHK紅白歌合戦.md "wikilink")でも歌唱された\[48\]\[49\]\[50\]。[コンサート・ツアー](https://ja.wikipedia.org/wiki/コンサート・ツアー "wikilink")では1986年のLIGHT & SHADE以降、1987年の[A HUNDRED days](https://ja.wikipedia.org/wiki/Live_in_'87_A_HUNDRED_days#A_HUNDRED_days "wikilink")、1997年の[Felicidad](https://ja.wikipedia.org/wiki/felicidad_AKINA_NAKAMORI_LIVE_'97#Felicidad_\(中森明菜のコンサート・ツアー\) "wikilink")、2001年の[ALL ABOUT AKINA 20th Anniversary IT'S BRAND NEW DAY](https://ja.wikipedia.org/wiki/Akina_Nakamori._2001._20th_Anniversary_Live_〜It's_brand_new_day〜#ALL_ABOUT_AKINA_20th_Anniversary_IT'S_BRAND_NEW_DAY "wikilink")、2002年の[MUSICA FIESTA TOUR 2002](https://ja.wikipedia.org/wiki/AKINA_NAKAMORI_MUSICA_FIESTA_TOUR_2002#MUSICA_FIESTA_TOUR_2002 "wikilink")、2004年のAKINA NAKAMORI A-1 tour 2004、2006年の[AKINA NAKAMORI LIVE TOUR 2006 〜The Last destination〜など複数のツアーで本曲を披露した](https://ja.wikipedia.org/wiki/LIVE_TOUR_2006_The_Last_Destination#AKINA_NAKAMORI_LIVE_TOUR_2006_〜The_Last_destination〜 "wikilink")\[51\]\[52\]\[53\]\[54\]\[55\]\[56\]\[57\]\[58\]。
 
-「LA BOHÈME」は、NHKの音楽番組『[レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")』・『[ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")』で歌唱された。後年のコンサート・ツアーでも複数回選曲される人気の高い曲である\[59\]。
+「LA BOHÈME」は、NHKの音楽番組『[レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")』・『[ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")』で歌唱された。後年のコンサート・ツアーでも複数回選曲される人気の高い曲である\[59\]。
 
 歌詞とは全く関係なく、特定箇所で「ハードッコイ」と合いの手を入れることが通例化しており、中森本人も黙認しているが、発祥は不詳である。
 

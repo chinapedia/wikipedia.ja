@@ -264,7 +264,7 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中尾敏浩" title="wikilink">中尾敏浩</a></p></td>
+<td><p><a href="../Page/中尾敏浩.md" title="wikilink">中尾敏浩</a></p></td>
 <td><p>JR東日本硬式野球部</p></td>
 <td><p>右</p></td>
 <td><p>左</p></td>
@@ -289,11 +289,11 @@
 
   - 予選リーグ
       - 第1戦（[11月9日](../Page/11月9日.md "wikilink")：台中）　日本 4-3 [オーストラリア](../Page/野球オーストラリア代表.md "wikilink") （延長10回）
-      - 第2戦（[10日](../Page/11月10日.md "wikilink")：インター）　日本 4-3 [チャイニーズタイペイ](https://ja.wikipedia.org/wiki/野球中華民国代表 "wikilink")
+      - 第2戦（[10日](../Page/11月10日.md "wikilink")：インター）　日本 4-3 [チャイニーズタイペイ](../Page/野球中華民国代表.md "wikilink")
       - 第3戦（[11日](../Page/11月11日.md "wikilink")：インター）　日本 2x-1 [韓国](../Page/野球大韓民国代表.md "wikilink")
-      - 第4戦（[12日](../Page/11月12日.md "wikilink")：台中）　日本 3-0 [オランダ](https://ja.wikipedia.org/wiki/野球オランダ代表 "wikilink")
+      - 第4戦（[12日](../Page/11月12日.md "wikilink")：台中）　日本 3-0 [オランダ](../Page/野球オランダ代表.md "wikilink")
       - 第5戦（[14日](../Page/11月14日.md "wikilink")：インター）　日本 3-6 [キューバ](../Page/野球キューバ代表.md "wikilink")
-      - 第6戦（[15日](../Page/11月15日.md "wikilink")：台中）　日本 6-3 [イタリア](https://ja.wikipedia.org/wiki/野球イタリア代表 "wikilink")
+      - 第6戦（[15日](../Page/11月15日.md "wikilink")：台中）　日本 6-3 [イタリア](../Page/野球イタリア代表.md "wikilink")
       - 第7戦（[16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")：台中）　日本 17-0 [フィリピン](../Page/野球フィリピン代表.md "wikilink")　（7回コールド）
     <!-- end list -->
       -
@@ -309,7 +309,7 @@
 
 ## 関連項目
 
-  - [第14回IBAFインターコンチネンタルカップ日本代表](https://ja.wikipedia.org/wiki/第14回IBAFインターコンチネンタルカップ日本代表 "wikilink")
+  - [第14回IBAFインターコンチネンタルカップ日本代表](../Page/第14回IBAFインターコンチネンタルカップ日本代表.md "wikilink")
   - [第15回IBAFインターコンチネンタルカップ日本代表](../Page/第15回IBAFインターコンチネンタルカップ日本代表.md "wikilink")
   - [第17回IBAFインターコンチネンタルカップ日本代表](https://ja.wikipedia.org/wiki/第17回IBAFインターコンチネンタルカップ日本代表 "wikilink")
 

@@ -521,7 +521,7 @@ DISC-4:[Warner Music](../Page/ワーナーミュージック・ジャパン.md "
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今すぐKiss_Me" title="wikilink">今すぐKiss Me</a></p></td>
+<td><p><a href="../Page/今すぐKiss_Me.md" title="wikilink">今すぐKiss Me</a></p></td>
 <td><p><a href="../Page/LINDBERG.md" title="wikilink">LINDBERG</a></p></td>
 <td><p>1990年2月7日</p></td>
 <td><p><a href="../Page/徳間ジャパンコミュニケーションズ.md" title="wikilink">TOKUMA JAPAN COMMUNICATIONS</a></p></td>

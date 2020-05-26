@@ -9,7 +9,7 @@
     上京後、1年間はソロで活動していたが、のちにバンドで歌うようになる。
     デモテープを録音し、レコード会社に送るなどしていたがなかなか採用されず、その間も曲を作り続けていたという。
     [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")、自主制作盤『[新宿の片隅で](../Page/新宿の片隅で.md "wikilink")』を発表。以後、現在まで精力的に活動を続けている。
-  - ハスキーな声で語りかけるような独特の歌い方が特徴。代表曲に「俺の声」「SORRY BABY」（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")のカバー版が[ダイドーブレンドコーヒーCMソング](../Page/ダイドードリンコ.md "wikilink")）「ノスタルジア」「螢」「ありがてぇ」（[サントリー](../Page/サントリー.md "wikilink")[焼酎](../Page/焼酎.md "wikilink")「[樹氷](https://ja.wikipedia.org/wiki/サントリー樹氷 "wikilink")」CMソング）「がんばれがんばれ」（同）「ここまでおいで」（アニメ「[NieA_7](../Page/NieA_7.md "wikilink")」OP）「影」（「NieA_7」挿入歌）などがある。
+  - ハスキーな声で語りかけるような独特の歌い方が特徴。代表曲に「俺の声」「SORRY BABY」（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")のカバー版が[ダイドーブレンドコーヒーCMソング](../Page/ダイドードリンコ.md "wikilink")）「ノスタルジア」「螢」「ありがてぇ」（[サントリー](../Page/サントリー.md "wikilink")[焼酎](../Page/焼酎.md "wikilink")「[樹氷](../Page/サントリー樹氷.md "wikilink")」CMソング）「がんばれがんばれ」（同）「ここまでおいで」（アニメ「[NieA_7](../Page/NieA_7.md "wikilink")」OP）「影」（「NieA_7」挿入歌）などがある。
   - 音楽だけでなく、ドラマ『[私立探偵 濱マイク](../Page/私立探偵_濱マイク.md "wikilink")』『[悪夢ちゃん](https://ja.wikipedia.org/wiki/悪夢ちゃん "wikilink")』や[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[龍馬伝](https://ja.wikipedia.org/wiki/龍馬伝 "wikilink")』にゲスト出演するなど多才な一面ものぞかせる。
   - [伊集院光](../Page/伊集院光.md "wikilink")や福山雅治や[荒井淳](https://ja.wikipedia.org/wiki/荒井淳 "wikilink")をはじめ、多くの音楽関係者・芸能関係者が熱烈なファンを公言している。2005年には福山雅治と、2006年には[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[森重樹一](../Page/森重樹一.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")も行っている。
 

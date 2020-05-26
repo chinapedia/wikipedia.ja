@@ -205,7 +205,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2014 <a href="https://ja.wikipedia.org/wiki/崑山市" title="wikilink">崑山市</a></p></td>
+<td><p>2014 <a href="../Page/崑山市.md" title="wikilink">崑山市</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -223,7 +223,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:2017_FINA_Women&#39;s_Water_Polo_World_League" title="wikilink">2017</a> <a href="https://ja.wikipedia.org/wiki/崑山市" title="wikilink">崑山市</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:2017_FINA_Women&#39;s_Water_Polo_World_League" title="wikilink">2017</a> <a href="../Page/崑山市.md" title="wikilink">崑山市</a></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
 <td></td>

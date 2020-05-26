@@ -136,7 +136,7 @@ featuring <a href="../Page/長嶋茂雄.md" title="wikilink">長嶋茂雄</a></p
 <td><p>05</p></td>
 <td><p><a href="../Page/裸足の女神.md" title="wikilink">裸足の女神</a></p></td>
 <td><p>B'z</p></td>
-<td><p>1993年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p>1993年<a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p>R</p></td>
 <td></td>
 </tr>

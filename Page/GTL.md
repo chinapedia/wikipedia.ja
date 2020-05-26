@@ -1,7 +1,7 @@
 > この記事は[GTL](https://ja.wikipedia.org/wiki/GTL)から翻訳されています。
 
 
-**GTL**（；ジーティーエル）とは、[天然ガス](../Page/天然ガス.md "wikilink")を[一酸化炭素](../Page/一酸化炭素.md "wikilink")と[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")に分解後、分子構造を組み替えて液体燃料などを作る技術である。
+**GTL**（；ジーティーエル）とは、[天然ガス](../Page/天然ガス.md "wikilink")を[一酸化炭素](../Page/一酸化炭素.md "wikilink")と[水素](../Page/水素.md "wikilink")に分解後、分子構造を組み替えて液体燃料などを作る技術である。
 
 ## 概要
 

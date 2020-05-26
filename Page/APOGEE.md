@@ -229,7 +229,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>『アヒル』<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>「<a href="https://ja.wikipedia.org/wiki/業界技術狩人_ギョーテック" title="wikilink">業界技術狩人 ギョーテック</a>」2007年10月～12月度エンディングテーマ。<br />
+<td><p>『アヒル』<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>「<a href="../Page/業界技術狩人_ギョーテック.md" title="wikilink">業界技術狩人 ギョーテック</a>」2007年10月～12月度エンディングテーマ。<br />
 PV担当は<strong>東弘明</strong>。日本のPVで初めて、映画のVFXシーン等に使われる映像ソフト『boujou』が導入された[29]。<br />
 オリコン初登場は97位。</p></td>
 </tr>

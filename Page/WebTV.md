@@ -64,7 +64,7 @@
 
 ## 備考
 
-  - [オラクルも](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、同様のコンセプトを持った「[NCTV(Network Computer TV)](https://ja.wikipedia.org/wiki/ネットワークコンピュータ "wikilink")」を開発していた\[17\]。
+  - [オラクルも](../Page/オラクル_\(企業\).md "wikilink")、同様のコンセプトを持った「[NCTV(Network Computer TV)](https://ja.wikipedia.org/wiki/ネットワークコンピュータ "wikilink")」を開発していた\[17\]。
 
 ## 脚注
 

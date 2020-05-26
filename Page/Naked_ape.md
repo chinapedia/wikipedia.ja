@@ -1,7 +1,7 @@
 > この記事は[Naked ape](https://ja.wikipedia.org/wiki/Naked_ape)から翻訳されています。
 
 
-**naked ape**（ネイキッド エイプ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。ストーリー・デザイン担当の**逢川里羅**（あいかわ りら、[12月16日](../Page/12月16日.md "wikilink") - ）と、漫画担当の**中村友美**（なかむら ともみ、[3月17日](../Page/3月17日.md "wikilink") - ）による、女性2人のコラボレーションネームである。
+**naked ape**（ネイキッド エイプ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。ストーリー・デザイン担当の**逢川里羅**（あいかわ りら、[12月16日](../Page/12月16日.md "wikilink") - ）と、漫画担当の**中村友美**（なかむら ともみ、[3月17日](../Page/3月17日.md "wikilink") - ）による、女性2人のコラボレーションネームである。
 
 ## メンバー
 

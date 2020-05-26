@@ -19,7 +19,7 @@
       - 作詞:[S.Bennett](https://ja.wikipedia.org/wiki/S.Bennett "wikilink")・Clench・Blistah / 作曲:[渡辺未来](../Page/渡辺未来.md "wikilink") / 編曲:渡辺未来
     <!-- end list -->
       -
-        Blistahとは後に2006年も25thシングル「[Candy feat.Mr. Blistah](https://ja.wikipedia.org/wiki/Candy_feat.Mr._Blistah "wikilink")」で再びコラボを行った。
+        Blistahとは後に2006年も25thシングル「[Candy feat.Mr. Blistah](../Page/Candy_feat.Mr._Blistah.md "wikilink")」で再びコラボを行った。
 2.  **[real Emotion](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")**
       - 作詞:[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲:[原一博](../Page/原一博.md "wikilink") / 編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->

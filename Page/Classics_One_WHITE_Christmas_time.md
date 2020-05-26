@@ -39,7 +39,7 @@
 ## 収録アルバム
 
   - 『[pray](https://ja.wikipedia.org/wiki/pray_\(DEENのアルバム\) "wikilink")』(\#2 a capella) (初回限定盤のみ)
-  - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』(\#2,3,5,6)
+  - 『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』(\#2,3,5,6)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#3)
   - 『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』(\#2)
 

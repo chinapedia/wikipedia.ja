@@ -193,7 +193,7 @@
 
 ## スタッフ
 
-  - 構成 : [小笠原英樹](https://ja.wikipedia.org/wiki/小笠原英樹 "wikilink")、[長谷川朝二](https://ja.wikipedia.org/wiki/長谷川朝二 "wikilink")、[鈴木しげき](https://ja.wikipedia.org/wiki/鈴木しげき "wikilink")
+  - 構成 : [小笠原英樹](https://ja.wikipedia.org/wiki/小笠原英樹 "wikilink")、[長谷川朝二](../Page/長谷川朝二.md "wikilink")、[鈴木しげき](https://ja.wikipedia.org/wiki/鈴木しげき "wikilink")
   - AP (アシスタントプロデューサー) : [西島淳一](https://ja.wikipedia.org/wiki/西島淳一 "wikilink")（ytv）、望月靖子（CELL）
   - ディレクター : [荷見基成](https://ja.wikipedia.org/wiki/荷見基成 "wikilink")、佐藤麗（CELL）
   - 演出 : [深沢一浩](https://ja.wikipedia.org/wiki/深沢一浩 "wikilink")〔通称：深沢ボン〕（CELL）

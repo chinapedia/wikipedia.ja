@@ -19,7 +19,7 @@
     演 - [杉田かおる](../Page/杉田かおる.md "wikilink")
     内科病棟主任看護師。
   - 小峰タク
-    演 - [小川光樹](https://ja.wikipedia.org/wiki/小川光樹 "wikilink")
+    演 - [小川光樹](../Page/小川光樹.md "wikilink")
     響子の長男。
   - 江藤誠
     演 - [八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")
@@ -183,7 +183,7 @@
 
 :; 高樹美保
 
-:: 演 - [森本更紗](https://ja.wikipedia.org/wiki/森本更紗 "wikilink")
+:: 演 - [森本更紗](../Page/森本更紗.md "wikilink")
 
 :: 高樹の娘。
 

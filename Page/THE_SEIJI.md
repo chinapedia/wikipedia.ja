@@ -1,7 +1,7 @@
 > この記事は[THE SEIJI](https://ja.wikipedia.org/wiki/THE_SEIJI)から翻訳されています。
 
 
-**THE SEIJI**（ザ・セイジ、本名：吉村せいじ、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")出身\[2\]、[大阪府](../Page/大阪府.md "wikilink")在住\[3\]。[京都市立芸術大学](../Page/京都市立芸術大学.md "wikilink")大学院修了\[4\]。[芥川賞作家の](../Page/芥川龍之介賞.md "wikilink")[吉村萬壱](../Page/吉村萬壱.md "wikilink")は双子の兄\[5\]。血液型はB型\[6\]。デビュー時のペンネームは**青空みどり**\[7\]。別ペンネームとして**今西精二**がある。
+**THE SEIJI**（ザ・セイジ、本名：吉村せいじ、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")出身\[2\]、[大阪府](../Page/大阪府.md "wikilink")在住\[3\]。[京都市立芸術大学](../Page/京都市立芸術大学.md "wikilink")大学院修了\[4\]。[芥川賞作家の](../Page/芥川龍之介賞.md "wikilink")[吉村萬壱](../Page/吉村萬壱.md "wikilink")は双子の兄\[5\]。血液型はB型\[6\]。デビュー時のペンネームは**青空みどり**\[7\]。別ペンネームとして**今西精二**がある。
 
 ## 来歴
 

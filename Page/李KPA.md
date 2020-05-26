@@ -1,7 +1,7 @@
 > この記事は[李KPA](https://ja.wikipedia.org/wiki/李KPA)から翻訳されています。
 
 
-**李 KPA**（すもも ケイピーエイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[三沢市](../Page/三沢市.md "wikilink")出身。
+**李 KPA**（すもも ケイピーエイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](../Page/漫画家.md "wikilink")。[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[三沢市](../Page/三沢市.md "wikilink")出身。
 
 雑誌表紙、カラー[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、CGアート、ゲーム原画、[4コマ漫画](../Page/4コマ漫画.md "wikilink")、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")やアイテムデザイン等を行なっている。[リアル](../Page/リアル.md "wikilink")と[デフォルメ](../Page/デフォルメ.md "wikilink")を融合させた手法を用い、それは成年向け漫画雑誌「[MOOG](https://ja.wikipedia.org/wiki/MOOG "wikilink")」の編集により「ネオリアル」と称されている。
 

@@ -499,11 +499,11 @@ AG-ON Premiumでは、超\!A\&G+で配信された番組や文化放送で放送
 ### 関連放送枠
 
   - [文化放送月曜 - 木曜夜9時30分枠](../Page/文化放送月曜_-_木曜夜9時30分枠.md "wikilink")
-  - [文化放送日曜早朝4時台](https://ja.wikipedia.org/wiki/文化放送日曜早朝4時台 "wikilink")
+  - [文化放送日曜早朝4時台](../Page/文化放送日曜早朝4時台.md "wikilink")
   - [文化放送日曜夜9時枠](../Page/文化放送日曜夜9時枠.md "wikilink")
   - [文化放送日曜夜10時枠](https://ja.wikipedia.org/wiki/文化放送日曜夜10時枠 "wikilink")
-  - [文化放送日曜夜11時枠](https://ja.wikipedia.org/wiki/文化放送日曜夜11時枠 "wikilink")
-  - [文化放送日曜深夜0時枠](https://ja.wikipedia.org/wiki/文化放送日曜深夜0時枠 "wikilink")
+  - [文化放送日曜夜11時枠](../Page/文化放送日曜夜11時枠.md "wikilink")
+  - [文化放送日曜深夜0時枠](../Page/文化放送日曜深夜0時枠.md "wikilink")
   - [文化放送日曜深夜1時枠](../Page/文化放送日曜深夜1時枠.md "wikilink")
   - [文化放送平日深夜0時枠](../Page/文化放送平日深夜0時枠.md "wikilink")
   - [文化放送平日深夜1時枠](../Page/文化放送平日深夜1時枠.md "wikilink")
@@ -515,7 +515,7 @@ AG-ON Premiumでは、超\!A\&G+で配信された番組や文化放送で放送
   - [文化放送土曜深夜0時枠](../Page/文化放送土曜深夜0時枠.md "wikilink")
   - [文化放送土曜深夜1時枠](../Page/文化放送土曜深夜1時枠.md "wikilink")
   - [文化放送土曜深夜2時枠](../Page/文化放送土曜深夜2時枠.md "wikilink")
-  - [文化放送土曜深夜3時枠](https://ja.wikipedia.org/wiki/文化放送土曜深夜3時枠 "wikilink")
+  - [文化放送土曜深夜3時枠](../Page/文化放送土曜深夜3時枠.md "wikilink")
   - [文化放送土曜ナイターオフ](../Page/文化放送土曜ナイターオフ.md "wikilink")
   - [文化放送日曜ナイターオフ](https://ja.wikipedia.org/wiki/文化放送日曜ナイターオフ "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 特徴
 
-PVMは、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オークリッジ国立研究所](https://ja.wikipedia.org/wiki/オークリッジ国立研究所 "wikilink")のメンバーを中心に開発された。動作するマシンの種類が多いこと（[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Windowsで動作可能](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）や、入手方法が容易であるため、研究機関などで広く利用されている。
+PVMは、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オークリッジ国立研究所](../Page/オークリッジ国立研究所.md "wikilink")のメンバーを中心に開発された。動作するマシンの種類が多いこと（[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Windowsで動作可能](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）や、入手方法が容易であるため、研究機関などで広く利用されている。
 
 PVMをインストールすると、ネットワークに接続された複数台のコンピュータを、単一の計算機として利用できるようになる。このことにより、複数台のマシンが持つ計算パワーを、1つの大規模計算問題に結集して処理を行うことができる。
 

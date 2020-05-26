@@ -220,7 +220,7 @@
 ### 参加作品
 
   - 「真っ黒になる迄」 MURO （「Multidirection」 に収録）
-  - 「GO YELLOWS GO」 MAZZ + [PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") feat. MURO, BOYEE KANE
+  - 「GO YELLOWS GO」 MAZZ + [PMX](../Page/DJ_PMX.md "wikilink") feat. MURO, BOYEE KANE
   - 「No Sense Of Justice」 Dub Master X + [DJ Doc Holiday](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink") feat. MAZZ + MURO
   - 「MADE IN JAPAN」 [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink") & DJ BEN feat. MURO, [TWIGY](../Page/TWIGY.md "wikilink"), P.R.C., MINIDON （『TIGHT BUT FAT』 に収録）
   - 「Made in JAPAN '93 remix」 [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink") & DJ BEN feat. MURO, [TWIGY](../Page/TWIGY.md "wikilink"), P.R.C., MINIDON

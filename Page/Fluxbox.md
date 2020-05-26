@@ -7,7 +7,7 @@ Fluxboxは[MIT Licenseの元にリリースされている](../Page/MIT_License.
 
 ## 関連項目
 
-  - [Fluxbuntu](https://ja.wikipedia.org/wiki/Fluxbuntu "wikilink")
+  - [Fluxbuntu](../Page/Fluxbuntu.md "wikilink")
 
 ## 外部リンク
 

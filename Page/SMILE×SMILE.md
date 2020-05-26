@@ -29,7 +29,7 @@ CDジャーナルは、「[トーレやウルフ](https://ja.wikipedia.org/wiki/
 
   - Guitars & [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：[松岡モトキ](https://ja.wikipedia.org/wiki/松岡基樹 "wikilink")
   - Bass：阿部光一郎
-  - Drums & [Tambourine](https://ja.wikipedia.org/wiki/タンブリン "wikilink")：[小西昭次郎](https://ja.wikipedia.org/wiki/小西昭次郎 "wikilink")
+  - Drums & [Tambourine](https://ja.wikipedia.org/wiki/タンブリン "wikilink")：[小西昭次郎](../Page/小西昭次郎.md "wikilink")
   - Keyboards：奥野真哉
 
 **ドライブしようよ！**

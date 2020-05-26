@@ -86,7 +86,7 @@ TRPG初心者を強く意識したほか、[トレーディングカードゲー
   - ゲーマー列伝（高山浩）
   - [実戦\!コンピュータ冒険箱](https://ja.wikipedia.org/wiki/実戦!コンピュータ冒険箱 "wikilink")（文：[あすたけいた](https://ja.wikipedia.org/wiki/あすたけいた "wikilink")、イラスト：[鈴木猛](../Page/鈴木猛.md "wikilink")）
   - レスキュー・ザ・TRPG（水野良）
-  - [クロちゃんのRPG千夜一夜](https://ja.wikipedia.org/wiki/クロちゃんのRPG千夜一夜 "wikilink")（[黒田幸弘](https://ja.wikipedia.org/wiki/黒田幸弘 "wikilink")）
+  - [クロちゃんのRPG千夜一夜](https://ja.wikipedia.org/wiki/クロちゃんのRPG千夜一夜 "wikilink")（[黒田幸弘](../Page/黒田幸弘.md "wikilink")）
   - TRPGわがまま言いほうだい（[細江ひろみ](../Page/細江ひろみ.md "wikilink")・[井上純弌](https://ja.wikipedia.org/wiki/井上純弌 "wikilink")）
   - [冒険ウォーカー](https://ja.wikipedia.org/wiki/冒険ウォーカー "wikilink")（[藤浪智之](../Page/藤浪智之.md "wikilink")・[佐々木亮](../Page/佐々木亮.md "wikilink")）
 

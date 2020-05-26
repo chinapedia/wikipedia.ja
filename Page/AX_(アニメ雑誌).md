@@ -30,7 +30,7 @@
 2.  佐藤良平 [「AX」創刊号徹底分析](http://netcity.or.jp/otakuweekly/BW1.3/topics1.html) 岡田斗司夫のおたくWeekly
 3.  「アニメ情報誌『AX』休刊」 2001年10月19日 ANIMAXIS
 4.
-5.  [岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink") [おたく雑誌2誌創刊だ！](http://netcity.or.jp/otakuweekly/BW1.3/FORUM1.html) 岡田斗司夫のおたくWeekly
+5.  [岡田斗司夫](../Page/岡田斗司夫.md "wikilink") [おたく雑誌2誌創刊だ！](http://netcity.or.jp/otakuweekly/BW1.3/FORUM1.html) 岡田斗司夫のおたくWeekly
 6.  佐藤良平 [「AX」創刊号徹底分析・・・NTより出でて](http://netcity.or.jp/otakuweekly/BW1.3/topics1-1.html) 岡田斗司夫のおたくWeekly
 7.  ABC（阿部広樹）[いや、10年ぶりですネ！！](http://netcity.or.jp/otakuweekly/BW1.3/topics2.html) 岡田斗司夫のおたくWeekly
 8.  佐藤良平 [「AX」創刊号徹底分析・・・で、何で今？](http://netcity.or.jp/otakuweekly/BW1.3/topics1-2.html) 岡田斗司夫のおたくWeekly

@@ -9,7 +9,7 @@
 
 当初ゲームソフト開発など[ITを中心としたさまざまな分野を手広く手がけたが経営は芳しくなかった](../Page/情報技術.md "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")に[香港電訊](https://ja.wikipedia.org/wiki/:en:Hong_Kong_Telecom "wikilink")（香港テレコム）\[1\]を買収して一躍脚光を浴びた。シンガポール国有企業である[シンガポール・テレコム](../Page/シンガポール・テレコム.md "wikilink")も買収を試みていたが、PCCWは政府支援のもと[中国銀行から買収資金を調達する一方](../Page/中国銀行_\(香港\).md "wikilink")、[HSBC](https://ja.wikipedia.org/wiki/HSBC "wikilink")、[BNPパリバ](../Page/BNPパリバ.md "wikilink")、そして[バークレイズ](https://ja.wikipedia.org/wiki/バークレイズ "wikilink")からも借りて競り勝った。香港テレコムの買収によりPCCWは香港最大の[通信事業者となり](../Page/電気通信事業者.md "wikilink")、[ISP事業も可能となった](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")。しかし、これが元で[ITバブル](https://ja.wikipedia.org/wiki/ITバブル "wikilink")が崩壊すると巨額の債務を抱え資産を処分することになった。
+[2000年](../Page/2000年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")に[香港電訊](https://ja.wikipedia.org/wiki/:en:Hong_Kong_Telecom "wikilink")（香港テレコム）\[1\]を買収して一躍脚光を浴びた。シンガポール国有企業である[シンガポール・テレコム](../Page/シンガポール・テレコム.md "wikilink")も買収を試みていたが、PCCWは政府支援のもと[中国銀行から買収資金を調達する一方](../Page/中国銀行_\(香港\).md "wikilink")、[HSBC](https://ja.wikipedia.org/wiki/HSBC "wikilink")、[BNPパリバ](../Page/BNPパリバ.md "wikilink")、そして[バークレイズ](../Page/バークレイズ.md "wikilink")からも借りて競り勝った。香港テレコムの買収によりPCCWは香港最大の[通信事業者となり](../Page/電気通信事業者.md "wikilink")、[ISP事業も可能となった](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")。しかし、これが元で[ITバブル](https://ja.wikipedia.org/wiki/ITバブル "wikilink")が崩壊すると巨額の債務を抱え資産を処分することになった。
 
 2000年3月にリチャード・リー・パシフィック・センチュリー・グループは香港政府と当時の香港行政長官の[董建華](../Page/董建華.md "wikilink")との間で香港島に「サイバーポート」というハイテクを駆使した居住型複合施設を開発するという協定に調印した。これは実質的なオフィルビル開発などの不動産開発事業だった。テクノロジー企業を香港に誘致するために計画されたサイバーポートは、後にPCCWに引き継がれた。
 

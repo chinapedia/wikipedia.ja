@@ -86,7 +86,7 @@
     14. Hanging in there\[4:07\] 作詞：Rin'／作曲・編曲：YUKIYOSHI
 3.  〜Rin' Christmas Cover Songs〜聖夜（2004.11.14）オリコン175位
     1.  [Happy Xmas(War Is Over)](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")\[3:35\] 作詞・作曲：[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")・[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")／編曲：Akira Murata
-    2.  [Last Christmas](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")\[4:16\] 作詞・作曲：[ジョージ・マイケル](../Page/ジョージ・マイケル.md "wikilink")／編曲：YUKIYOSHI
+    2.  [Last Christmas](../Page/ラスト・クリスマス_\(ワム!の曲\).md "wikilink")\[4:16\] 作詞・作曲：[ジョージ・マイケル](../Page/ジョージ・マイケル.md "wikilink")／編曲：YUKIYOSHI
     3.  Rin'Xmas Medley〜[Silent Night](../Page/きよしこの夜.md "wikilink")〜[赤鼻のトナカイ](https://ja.wikipedia.org/wiki/赤鼻のトナカイ "wikilink")〜[I Saw Mommy Kissing Santa Claus](https://ja.wikipedia.org/wiki/ママがサンタにキッスした "wikilink")〜[Jingle Bells](../Page/ジングルベル.md "wikilink")〜[We Wish You A Merry Christmas](https://ja.wikipedia.org/wiki/おめでとうクリスマス "wikilink")\[5:33\] 作曲：Franz Gruber・JOHNNY MARKS・Tommie Corner・James Pierpont／編曲：YUKIYOSHI
     4.  [交響曲 第九番](../Page/交響曲第9番_\(ベートーヴェン\).md "wikilink")\[3:14\] 作曲：[ベートーヴェン](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")／編曲：Jin Nakamura
     5.  [クリスマス・イブ](https://ja.wikipedia.org/wiki/クリスマス・イブ_\(山下達郎の曲\) "wikilink")\[3:35\] 作曲：[山下達郎](../Page/山下達郎.md "wikilink")／編曲：Akira Murata

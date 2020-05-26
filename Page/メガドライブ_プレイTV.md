@@ -19,7 +19,7 @@
 
   - **メガドライブ プレイTV** （2004年9月9日発売、4,179円（税込））
       - [ソニック・ザ・ヘッジホッグ](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink") (Sonic the Hedgehog)
-      - [獣王記](https://ja.wikipedia.org/wiki/獣王記 "wikilink") (Altered Beast)
+      - [獣王記](../Page/獣王記.md "wikilink") (Altered Beast)
       - [ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink") (Golden Axe)
       - [Dr.エッグマンのミーンビーンマシーン](https://ja.wikipedia.org/wiki/Dr.エッグマンのミーンビーンマシーン "wikilink") (Dr. Robotnik's Mean Bean Machine) - 『ぷよぷよ』の北米版で、キャラクターが差し替えられている。
       - [カメレオンキッド](https://ja.wikipedia.org/wiki/カメレオンキッド "wikilink") (Kid Chameleon)
@@ -28,7 +28,7 @@
       - [ソニック・ザ・ヘッジホッグ2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink") (Sonic the Hedgehog 2)
       - [エコー・ザ・ドルフィン](https://ja.wikipedia.org/wiki/エコー・ザ・ドルフィン "wikilink") (Ecco the Dolphin)
       - [ゲイングランド](../Page/ゲイングランド.md "wikilink") (Gain Ground)
-      - [ジ・ウーズ](https://ja.wikipedia.org/wiki/ジ・ウーズ "wikilink") (The Ooze)
+      - [ジ・ウーズ](../Page/ジ・ウーズ.md "wikilink") (The Ooze)
       - [コラムス](../Page/コラムス.md "wikilink") (Columns)
       - [アレックスキッド 天空魔城](https://ja.wikipedia.org/wiki/アレックスキッド_天空魔城 "wikilink") (Alex Kidd in the Enchanted Castle)
   - **メガドライブ プレイTV3** （2005年4月2日発売、3,980円（税込））

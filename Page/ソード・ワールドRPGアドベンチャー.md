@@ -1,7 +1,7 @@
 > この記事は[ソード・ワールドRPGアドベンチャー](https://ja.wikipedia.org/wiki/ソード・ワールドRPGアドベンチャー)から翻訳されています。
 
 
-「**ソード・ワールドRPGアドベンチャー**」は[月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")[1993年](../Page/1993年.md "wikilink")5月号で企画が発表・アイディア募集が開始され、同年9月号から[1996年](../Page/1996年.md "wikilink")まで連載された、[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")の読者参加企画、および小説作品全5巻の題名。略称は「アドベンチャー」。執筆者は[山本弘](../Page/山本弘_\(作家\).md "wikilink")。イラストレーターは[田中久仁彦](../Page/田中久仁彦.md "wikilink")、[草河遊也](https://ja.wikipedia.org/wiki/草河遊也 "wikilink")、[針玉ヒロキ](../Page/針玉ヒロキ.md "wikilink")。
+「**ソード・ワールドRPGアドベンチャー**」は[月刊ドラゴンマガジン](https://ja.wikipedia.org/wiki/月刊ドラゴンマガジン "wikilink")[1993年](../Page/1993年.md "wikilink")5月号で企画が発表・アイディア募集が開始され、同年9月号から[1996年](../Page/1996年.md "wikilink")まで連載された、[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")の読者参加企画、および小説作品全5巻の題名。略称は「アドベンチャー」。執筆者は[山本弘](../Page/山本弘_\(作家\).md "wikilink")。イラストレーターは[田中久仁彦](../Page/田中久仁彦.md "wikilink")、[草河遊也](../Page/草河遊也.md "wikilink")、[針玉ヒロキ](../Page/針玉ヒロキ.md "wikilink")。
 
 ## ナイトブレイカーズ
 

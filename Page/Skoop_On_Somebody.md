@@ -220,7 +220,7 @@ SECL-284:CD</p></td>
 <tr class="odd">
 <td><p>19th</p></td>
 <td><p>2003年8月20日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Sing_a_Song_(Skoop_On_Somebodyの曲)" title="wikilink">Sing a Song</a></strong></p></td>
+<td><p><strong><a href="../Page/Sing_a_Song_(Skoop_On_Somebodyの曲).md" title="wikilink">Sing a Song</a></strong></p></td>
 <td><p>SECL-23:CCCD<br />
 SECL-112:CCCD<br />
 SECL-288:CD</p></td>

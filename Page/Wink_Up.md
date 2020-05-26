@@ -14,7 +14,7 @@
   - [中山優馬](../Page/中山優馬.md "wikilink")
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
   - [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")
-  - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")
+  - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")
   - [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")
   - [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")
   - [内博貴](../Page/内博貴.md "wikilink")

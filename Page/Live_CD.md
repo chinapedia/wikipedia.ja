@@ -104,7 +104,7 @@
   - [Tails](https://ja.wikipedia.org/wiki/Tails_\(オペレーティングシステム\) "wikilink") - Debian系でプライバシーと匿名性に特化している。
   - [Ubuntu](../Page/Ubuntu.md "wikilink") - ポピュラーなDebian派生ディストリビューション。[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")に雑誌社特製のLive CD/DVDとして付属される場合がある。
       - [elementary OS](https://ja.wikipedia.org/wiki/elementary_OS "wikilink")\[2\] : 独自の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")「Pantheon」を採用した[MacOS](../Page/MacOS.md "wikilink")風の画面。Ubuntu派生でLive起動にも対応。
-      - [Linux Mint](https://ja.wikipedia.org/wiki/Linux_Mint "wikilink") : [MATEや](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")の採用でデザインやソフトウェア環境を改善し、[マルチメディア](../Page/マルチメディア.md "wikilink")関係の[コーデック](../Page/コーデック.md "wikilink")を充実させている。Ubuntu派生とDebian派生があり、Live起動にも対応。
+      - [Linux Mint](../Page/Linux_Mint.md "wikilink") : [MATEや](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")の採用でデザインやソフトウェア環境を改善し、[マルチメディア](../Page/マルチメディア.md "wikilink")関係の[コーデック](../Page/コーデック.md "wikilink")を充実させている。Ubuntu派生とDebian派生があり、Live起動にも対応。
       - [Voyager](https://ja.wikipedia.org/wiki/Voyager_\(オペレーティングシステム\) "wikilink")\[3\] - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink")から派生した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")産のOSで、[Xfce](../Page/Xfce.md "wikilink")を採用したMacOS風の画面が美しい。[32bit版と](../Page/32ビット.md "wikilink")[64bit版があり](https://ja.wikipedia.org/wiki/64ビット "wikilink")、Live起動にも対応。
   - [WindOS](https://ja.wikipedia.org/wiki/WindOS "wikilink") - Debian Squeeze派生で作られた軽量OS。
 

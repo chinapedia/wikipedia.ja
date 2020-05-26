@@ -83,7 +83,7 @@ W_0 (x) = \\sum_{n=1}^\\infty \\frac{(-n)^{n-1}}{n\!}\\ x^n = x - x^2 + \\frac{3
 `& =L_1-L_2+\sum_{\ell=0}^{\infty}\sum_{m=1}^{\infty}\frac{(-1)^{\ell}\left[{ \ell+m \atop \ell + 1 }\right]}{m!} L_1^{-\ell-m} L_2^{m}\\`
 `& =\ln(x)-\ln(\ln(x))+o(1)`
 
-\\end{align}</math> と展開される。ただし、 であり、\[\] は非負の第一種[スターリング数](https://ja.wikipedia.org/wiki/スターリング数 "wikilink")である\[7\]。
+\\end{align}</math> と展開される。ただし、 であり、\[\] は非負の第一種[スターリング数](../Page/スターリング数.md "wikilink")である\[7\]。
 
 もう一つの、区間 }} 上で定義される実函数な枝  は、 と書けば、 が十分  に近いとき同じ形の漸近展開を持つ。
 

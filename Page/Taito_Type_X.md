@@ -121,7 +121,7 @@ os:windows xp embedded standard
   - [KOF MAXIMUM IMPACT REGULATION"A"](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")（SNKプレイモア／タイトー） - 2007年7月14日
   - [悠久の車輪](../Page/悠久の車輪.md "wikilink")（スクウェア・エニックス／タイトー） - 2008年3月
   - [サムライスピリッツ閃](../Page/サムライスピリッツ閃.md "wikilink")（SNKプレイモア（実開発は[K2スタジオ](https://ja.wikipedia.org/wiki/K2スタジオ "wikilink")）／タイトー） - 2008年4月
-  - [LORD of VERMILION](https://ja.wikipedia.org/wiki/LORD_of_VERMILION "wikilink")（スクウェア・エニックス） - 2008年6月17日
+  - [LORD of VERMILION](../Page/LORD_of_VERMILION.md "wikilink")（スクウェア・エニックス） - 2008年6月17日
   - [ストリートファイターIV](../Page/ストリートファイターIV.md "wikilink")（カプコン）- 2008年7月18日
   - [D1GP ARCADE](https://ja.wikipedia.org/wiki/D1GP_ARCADE "wikilink")（タイトー）- 2008年9月
   - [BLAZBLUE -CALAMITY TRIGGER-](../Page/BLAZBLUE.md "wikilink")（アークシステムワークス） - 2008年11月20日
@@ -131,7 +131,7 @@ os:windows xp embedded standard
   - [ミュージックガンガン\!](https://ja.wikipedia.org/wiki/ミュージックガンガン! "wikilink")（タイトー） - 2009年7月17日
   - [ホーンテッド ミュージアム](https://ja.wikipedia.org/wiki/ホーンテッド_ミュージアム "wikilink")（タイトー） - 2009年7月
   - [旋光の輪舞 Dis-United Order](../Page/旋光の輪舞.md "wikilink")（グレフ／タイトー） - 2009年7月
-  - [LORD of VERMILION II](https://ja.wikipedia.org/wiki/LORD_of_VERMILION "wikilink")（スクウェア・エニックス） - 2009年10月27日
+  - [LORD of VERMILION II](../Page/LORD_of_VERMILION.md "wikilink")（スクウェア・エニックス） - 2009年10月27日
   - [エレベーターアクション デスパレード](https://ja.wikipedia.org/wiki/エレベーターアクション_デスパレード "wikilink")（タイトー） - 2009年11月
   - [BLAZBLUE -CONTINUUM SHIFT-](../Page/BLAZBLUE.md "wikilink")（アークシステムワークス） - 2009年11月20日
   - [サイバーダイバー](https://ja.wikipedia.org/wiki/サイバーダイバー "wikilink")（タイトー） - 2009年12月17日
@@ -156,7 +156,7 @@ os:windows xp embedded standard
   - [ドラゴンダンス](https://ja.wikipedia.org/wiki/ドラゴンダンス "wikilink")（サクセス） - 2011年4月27日 ★
   - [AQUAPAZZA](https://ja.wikipedia.org/wiki/AQUAPAZZA "wikilink")（[エクサム](https://ja.wikipedia.org/wiki/エクサム "wikilink")／[アクアプラス](../Page/アクアプラス.md "wikilink")／タイトー） - 2011年6月22日 ★
   - 超・ちゃぶ台返し\!巨人の星ド根性編（タイトー） - 2011年7月
-  - [LORD of VERMILION Re:2](https://ja.wikipedia.org/wiki/LORD_of_VERMILION "wikilink")（スクウェア・エニックス） - 2011年7月26日
+  - [LORD of VERMILION Re:2](../Page/LORD_of_VERMILION.md "wikilink")（スクウェア・エニックス） - 2011年7月26日
   - [exception](https://ja.wikipedia.org/wiki/exception "wikilink")（サクセス） - 2011年 ★
   - [ペルソナ4 ジ・アルティメット イン マヨナカアリーナ](https://ja.wikipedia.org/wiki/ペルソナ4_ジ・アルティメット_イン_マヨナカアリーナ "wikilink")（アトラス、アークシステムワークス） - 2012年3月1日
   - [ハイパーストリートファイターII for NESiCAxLive](../Page/ストリートファイターII.md "wikilink")（カプコン） - 2014年10月9日 ★
@@ -205,7 +205,7 @@ os:windows xp embedded standard
 ## 関連項目
 
   - [VEWLIX](https://ja.wikipedia.org/wiki/VEWLIX "wikilink")
-  - [NESYS](https://ja.wikipedia.org/wiki/NESYS "wikilink")
+  - [NESYS](../Page/NESYS.md "wikilink")
   - [NESiCAxLive](https://ja.wikipedia.org/wiki/NESiCAxLive "wikilink")
 
 ## 脚注

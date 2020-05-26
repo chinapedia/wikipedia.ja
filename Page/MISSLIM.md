@@ -19,7 +19,7 @@
 1.  **生まれた街で**
       -
         当初は[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")のCMソングに使われる予定だったという。また、この歌の「生まれた街」とは、ユーミンの「生まれた街」である[八王子を指す](https://ja.wikipedia.org/wiki/八王子市 "wikilink")。
-2.  **[瞳を閉じて](https://ja.wikipedia.org/wiki/瞳を閉じて "wikilink")**
+2.  **[瞳を閉じて](../Page/瞳を閉じて.md "wikilink")**
       -
         ラジオ番組の[DJをしていたユーミンの元に](../Page/ディスクジョッキー.md "wikilink")、[校歌](../Page/校歌.md "wikilink")がなかった[長崎県立奈留高等学校](https://ja.wikipedia.org/wiki/長崎県立奈留高等学校 "wikilink")の生徒から依頼の葉書が来て、同校の校歌として作られ、愛唱歌となった。[1988年](../Page/1988年.md "wikilink")歌碑が作られ、除幕式にユーミンも参加。同時発売のシングル『12月の雨』のB面に収録された。[2000年](../Page/2000年.md "wikilink")映画「スイート・スイート・ゴースト」主題歌。[2004年](../Page/2004年.md "wikilink")～NHK総合『[NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")』のテーマ曲。
         カバー：[ポニーテール](https://ja.wikipedia.org/wiki/ポニーテール_\(日本の歌手グループ\) "wikilink")（1976年）、[倍賞千恵子](../Page/倍賞千恵子.md "wikilink")（1979年）、[yanokami](https://ja.wikipedia.org/wiki/yanokami "wikilink")（2011年）

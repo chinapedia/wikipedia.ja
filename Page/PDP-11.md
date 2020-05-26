@@ -567,7 +567,7 @@ DEC製:
   - Solo - [Concurrent Pascal](https://ja.wikipedia.org/wiki/:en:Concurrent_Pascal "wikilink") で書かれたシングルユーザーOS\[29\]
   - [TRIPOS](https://ja.wikipedia.org/wiki/TRIPOS "wikilink") - [ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")の実験的OS。PDP-11以外にも[データゼネラル](../Page/データゼネラル.md "wikilink") Nova や[MC68000](../Page/MC68000.md "wikilink")で動作した。
   - [TSX-Plus](https://ja.wikipedia.org/wiki/:en:TSX-Plus "wikilink") - RT-11ベースのマルチユーザーOS
-  - [UCSD p-System](https://ja.wikipedia.org/wiki/UCSD_p-System "wikilink") - [UCSD Pascal](../Page/UCSD_Pascal.md "wikilink") の開発環境を発展させたOS。
+  - [UCSD p-System](../Page/UCSD_p-System.md "wikilink") - [UCSD Pascal](../Page/UCSD_Pascal.md "wikilink") の開発環境を発展させたOS。
   - [UNIX](../Page/UNIX.md "wikilink") - 様々なバージョンがあり、主なものとして [Version 6 Unix](../Page/Version_6_Unix.md "wikilink")、[Version 7 Unix](../Page/Version_7_Unix.md "wikilink")、[UNIX System III](../Page/UNIX_System_III.md "wikilink")、[2BSD](https://ja.wikipedia.org/wiki/BSD#PDP-11版 "wikilink")、[Venix](https://ja.wikipedia.org/wiki/:en:Venix "wikilink") がある。
   - [Xinu](https://ja.wikipedia.org/wiki/Xinu "wikilink") - 教育用[Unix系](../Page/Unix系.md "wikilink")OS。
 

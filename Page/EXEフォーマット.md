@@ -67,7 +67,7 @@ C言語による表記は以下の通りである。尚、この定義は[Wine](
 ## 関連項目
 
   - [実行可能ファイルフォーマットの比較](https://ja.wikipedia.org/wiki/実行可能ファイルフォーマットの比較 "wikilink")
-  - [実行ファイル圧縮](https://ja.wikipedia.org/wiki/実行ファイル圧縮 "wikilink")
+  - [実行ファイル圧縮](../Page/実行ファイル圧縮.md "wikilink")
   - [オブジェクトファイル](../Page/オブジェクトファイル.md "wikilink")
   - [実行ファイル](../Page/実行ファイル.md "wikilink")
   - [COMファイル](../Page/COMファイル.md "wikilink")

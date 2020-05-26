@@ -20,7 +20,7 @@ THKの名前の由来はタフネス「Toughness」、ハイクオリティ「Hi
   - [2001年](../Page/2001年.md "wikilink") - 2月 [東証](../Page/東京証券取引所.md "wikilink")1部に上場。
   - [2003年](../Page/2003年.md "wikilink") - 販売拠点のTHK上海を設立。
   - [2005年](../Page/2005年.md "wikilink") - 生産拠点のTHK精密工業有限公司(無錫・遼寧)を設立。
-  - [2017年](../Page/2017年.md "wikilink") - 本社を[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西五反田](https://ja.wikipedia.org/wiki/西五反田 "wikilink")から港区芝浦へ移転。
+  - [2017年](../Page/2017年.md "wikilink") - 本社を[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西五反田](../Page/西五反田.md "wikilink")から港区芝浦へ移転。
 
 ## 主な事業所
 

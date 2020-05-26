@@ -61,7 +61,7 @@ PWCプロモーションに[高野拳磁](../Page/高野拳磁.md "wikilink")が
   - [野沢一茂](../Page/NOSAWA論外.md "wikilink")（現：NOSAWA論外）
   - [足立知也](https://ja.wikipedia.org/wiki/斗猛矢 "wikilink")（現：斗猛矢）
   - [三上恭平](../Page/MIKAMI.md "wikilink")（現：MIKAMI）
-  - [アイアン・ホース](https://ja.wikipedia.org/wiki/アイアン・ホース "wikilink")
+  - [アイアン・ホース](../Page/アイアン・ホース.md "wikilink")
   - [森谷俊之](https://ja.wikipedia.org/wiki/森谷俊之 "wikilink")
   - [柴田正人](https://ja.wikipedia.org/wiki/柴田正人 "wikilink")
 

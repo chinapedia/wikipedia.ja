@@ -1,7 +1,7 @@
 > この記事は[ジョインヴィレEC](https://ja.wikipedia.org/wiki/ジョインヴィレEC)から翻訳されています。
 
 
-**ジョインヴィレEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")[ジョインヴィレ](https://ja.wikipedia.org/wiki/ジョインヴィレ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1976年](../Page/1976年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")設立。
+**ジョインヴィレEC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")[ジョインヴィレ](../Page/ジョインヴィレ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1976年](../Page/1976年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")設立。
 
 1976年、ジョインヴィレをホームとする2つのサッカークラブ、とのサッカー部門が合併して設立された。1970年代から1980年代にかけての黄金期には、州選手権で8連覇を遂げた。
 

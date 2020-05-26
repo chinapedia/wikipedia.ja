@@ -16,7 +16,7 @@
   - レイアウト
     [線路は直線](../Page/線路_\(鉄道\).md "wikilink")・曲線だけでなく勾配や高低差を含んだ配置が可能であり、[立体交差](../Page/立体交差.md "wikilink")を含む線路網を構築できる。時間経過の概念もあり、列車や駅に対して[ダイヤを設定することも可能となっている](../Page/ダイヤグラム.md "wikilink")。
   - グラフィック
-    風景の描画には[Direct3D](../Page/Direct3D.md "wikilink")が用いられており、影や夜景も表示可能である。モデルデータのアニメーションにより、開閉する客用扉や[振り子式車両](https://ja.wikipedia.org/wiki/振り子式車両 "wikilink")などの再現が可能となった。また、[スクリーンショット](https://ja.wikipedia.org/wiki/スクリーンショット "wikilink")や連番[BMPによる動画の撮影機能も実装されている](https://ja.wikipedia.org/wiki/ビットマップ "wikilink")。
+    風景の描画には[Direct3D](../Page/Direct3D.md "wikilink")が用いられており、影や夜景も表示可能である。モデルデータのアニメーションにより、開閉する客用扉や[振り子式車両](https://ja.wikipedia.org/wiki/振り子式車両 "wikilink")などの再現が可能となった。また、[スクリーンショット](../Page/スクリーンショット.md "wikilink")や連番[BMPによる動画の撮影機能も実装されている](https://ja.wikipedia.org/wiki/ビットマップ "wikilink")。
   - ネットワーク接続
     インターネットなどを通して他のユーザーと接続することにより、鉄道模型の運転会のように1つのレイアウト上で複数の列車を個別に運転することができる。
 

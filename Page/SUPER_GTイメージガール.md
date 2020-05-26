@@ -29,7 +29,7 @@
   - [石川加奈子](https://ja.wikipedia.org/wiki/石川加奈子 "wikilink")
   - 山口五和
   - [原田梢](https://ja.wikipedia.org/wiki/原田梢 "wikilink")
-  - [真崎麻衣](https://ja.wikipedia.org/wiki/真崎麻衣 "wikilink")
+  - [真崎麻衣](../Page/真崎麻衣.md "wikilink")
 
 ※山口以外メンバーチェンジ。この年にGTの冠スポンサーである[AUTOBACSのロゴと](../Page/オートバックスセブン.md "wikilink")、レコード会社エイベックスのロゴが現在のものに変更された。
 

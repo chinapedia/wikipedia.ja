@@ -3,7 +3,7 @@
 
 『**Newsリアルタイムやまぐち**』（ニュースリアルタイムやまぐち）は、[山口放送](../Page/山口放送.md "wikilink")（KRYテレビ）で放送されていた[報道番組](../Page/報道番組.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、毎週月曜日 - 金曜日 18:16 - 18:54（[JST](../Page/日本標準時.md "wikilink")）に放送された。
 
-[山口県](../Page/山口県.md "wikilink")内の出来事を伝える番組だった『**プラス1やまぐち**』（プラスワンやまぐち）が、改題されたもの。番組タイトルは直前の全国ニュースが『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』であったが、全国ニュースが『[NNNニュースリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』へと移行したのを受けて『**Newsリアルタイムやまぐち**』と改題した。
+[山口県](../Page/山口県.md "wikilink")内の出来事を伝える番組だった『**プラス1やまぐち**』（プラスワンやまぐち）が、改題されたもの。番組タイトルは直前の全国ニュースが『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』であったが、全国ニュースが『[NNNニュースリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』へと移行したのを受けて『**Newsリアルタイムやまぐち**』と改題した。
 
 ## 放送時間の変遷
 
@@ -33,7 +33,7 @@
 
 ## 関連項目
 
-  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
+  - [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")
 
 ## 外部リンク
 

@@ -5,7 +5,7 @@
 
 ## 特徴
 
-リーガACBの参加クラブのうち、[レアル・マドリード](../Page/レアル・マドリード・バロンセスト.md "wikilink")、[バルセロナ](../Page/FCバルセロナ_\(バスケットボール\).md "wikilink")、[サスキ・バスコニア](../Page/サスキ・バスコニア.md "wikilink")の3クラブは[ユーロリーグ](../Page/ユーロリーグ.md "wikilink")にも参加している。ユーロリーグに参加する3クラブ以外の中で上位3クラブは[ULEBユーロカップ](https://ja.wikipedia.org/wiki/ULEBユーロカップ "wikilink")の出場権を得る。その他のクラブの中で数クラブは[バスケットボール・チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バスケットボール・チャンピオンズリーグ "wikilink")の出場権を得る。
+リーガACBの参加クラブのうち、[レアル・マドリード](../Page/レアル・マドリード・バロンセスト.md "wikilink")、[バルセロナ](../Page/FCバルセロナ_\(バスケットボール\).md "wikilink")、[サスキ・バスコニア](../Page/サスキ・バスコニア.md "wikilink")の3クラブは[ユーロリーグ](../Page/ユーロリーグ.md "wikilink")にも参加している。ユーロリーグに参加する3クラブ以外の中で上位3クラブは[ULEBユーロカップ](../Page/ULEBユーロカップ.md "wikilink")の出場権を得る。その他のクラブの中で数クラブは[バスケットボール・チャンピオンズリーグ](https://ja.wikipedia.org/wiki/バスケットボール・チャンピオンズリーグ "wikilink")の出場権を得る。
 
 2018-19シーズンの1試合平均観客数は6,236人であり、アメリカ合衆国の[NBA](../Page/NBA.md "wikilink")、[ユーロリーグ](../Page/ユーロリーグ.md "wikilink")、アメリカ合衆国の[WNBA](https://ja.wikipedia.org/wiki/WNBA "wikilink")に次いで4番目に観客数の多いバスケットボールリーグだった。
 

@@ -154,7 +154,7 @@
     ネェル・アーガマ艦載MS部隊の隊長。階級は[少佐](../Page/少佐.md "wikilink")。搭乗機はリゼル隊長機仕様。コールサインは「ロメオ1」。
     暗礁宙域でのシナンジュ迎撃戦においてリディらと共にフロンタルの駆るシナンジュと交戦。最終的にリディをかばう形で接近戦を敢行し、乗機を撃破され死亡。
   -
-    声 - [勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")
+    声 - [勝沼紀義](../Page/勝沼紀義.md "wikilink")
     ネェル・アーガマ艦載MS部隊のMSパイロット。階級は中尉。搭乗機はリゼル。コールサインは「ロメオ4」。暗礁宙域でのシナンジュ迎撃戦においてカタパルトからの発艦中にシナンジュの[ビーム・ライフルの狙撃により撃墜され](../Page/ビームライフル_\(ガンダムシリーズ\).md "wikilink")、死亡。
   -
     声 - [興津和幸](../Page/興津和幸.md "wikilink")
@@ -1041,7 +1041,7 @@ episode 1は、2010年11月に[WOWOW](../Page/WOWOW.md "wikilink")、2011年2月
 | [中京広域圏](../Page/広域放送.md "wikilink")                          | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")                  | 2014年[5月20日](../Page/5月20日.md "wikilink")                                | 火曜 1:59 - 4:21（月曜深夜） | [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")   | episode 1・episode 2 |
 | 2014年[5月24日](../Page/5月24日.md "wikilink")                    | 土曜 1:44 - 4:01（金曜深夜）                                    | episode 3・episode 4                                                      |                      |                                                       |                     |
 | 2014年[6月7日](../Page/6月7日.md "wikilink")                      | 土曜 1:44 - 3:55（金曜深夜）                                    | episode 5・episode 6                                                      |                      |                                                       |                     |
-| [近畿広域圏](../Page/広域放送.md "wikilink")                          | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") | 2014年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")               | 月曜 1:20 - 3:36（日曜深夜） | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink") | episode 1・episode 2 |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                          | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") | 2014年[6月2日](../Page/6月2日.md "wikilink")                                  | 月曜 1:20 - 3:36（日曜深夜） | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink") | episode 1・episode 2 |
 | 2014年[6月9日](../Page/6月9日.md "wikilink")                      | 月曜 1:20 - 3:39（日曜深夜）                                    | episode 3・episode 4                                                      |                      |                                                       |                     |
 | 2014年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") | 月曜 1:40 - 3:49（日曜深夜）                                    | episode 5・episode 6                                                      |                      |                                                       |                     |
 

@@ -7,7 +7,7 @@
 
 前作「[NECESSARY](../Page/NECESSARY.md "wikilink")」より、約4ヶ月振りのリリース。
 
-この曲で年末の[NHK紅白歌合戦にも出演した](../Page/第50回NHK紅白歌合戦.md "wikilink")（対戦相手は[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")で「[君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink")」）。
+この曲で年末の[NHK紅白歌合戦にも出演した](../Page/第50回NHK紅白歌合戦.md "wikilink")（対戦相手は[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")で「[君といつまでも](../Page/君といつまでも.md "wikilink")」）。
 
 1999年のファンクラブイベントと同年のクリスマスライブ等で歌われているが、オリジナルツアーで初披露されたのは、発売から約10年後の『concert tour 2009-2010 MEET』（2009年10月 - ）である。また、近年ではコンサートの終盤とエンドロールと合わせて披露されることも少なくはない。
 

@@ -53,7 +53,7 @@
   - [木尾士目](../Page/木尾士目.md "wikilink") 「点の領域」 (1994年 夏四季賞)
   - [安倍吉俊](../Page/安倍吉俊.md "wikilink") 「雨の降る場所」 (1994年 夏準入選)
   - 木葉功一 「JAGUA」 (1995年 夏四季大賞)
-  - [弐瓶勉](../Page/弐瓶勉.md "wikilink") 「[BLAME](https://ja.wikipedia.org/wiki/BLAME! "wikilink")」 (1995年 夏特別賞)
+  - [弐瓶勉](../Page/弐瓶勉.md "wikilink") 「[BLAME](../Page/BLAME!.md "wikilink")」 (1995年 夏特別賞)
   - [遠藤浩輝](../Page/遠藤浩輝.md "wikilink") 「きっとかわいい女の子だから」 (1995年 秋四季大賞)
   - [鬼頭莫宏](../Page/鬼頭莫宏.md "wikilink") 「[ヴァンデミエールの右手](../Page/ヴァンデミエールの翼.md "wikilink")」 (1995年 秋準入選)
   - [浅田寅ヲ](../Page/浅田寅ヲ.md "wikilink") 「Spoonman 3.18」 (1996年 秋四季大賞)

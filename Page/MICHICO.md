@@ -297,7 +297,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』（アルバム）
           -
             「EVOLUTION」
-      - 『[EXILE LOVE](https://ja.wikipedia.org/wiki/EXILE_LOVE "wikilink")』（アルバム）
+      - 『[EXILE LOVE](../Page/EXILE_LOVE.md "wikilink")』（アルバム）
           -
             「What Is Love」「Make Love」
       - 『[EXILE ENTERTAINMENT BEST](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』（アルバム）
@@ -305,7 +305,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
             「SUPER SHINE」「STAY」「Eastern Boyz 'N Eastern Girlz」「New Jack Swing」「EVOLUTION」「What Is Love」「Make Love」「My Buddy / EXILE TAKAHIRO + NESMITH, SHOKICHI ([J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink"))」
       - 「[The Birthday〜Ti Amo〜](https://ja.wikipedia.org/wiki/The_Birthday〜Ti_Amo〜 "wikilink")」（シングル）
           -
-            「SUPER SHINE feat. [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）」
+            「SUPER SHINE feat. [VERBAL](../Page/VERBAL.md "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）」
       - 「[THE HURRICANE 〜FIREWORKS〜](https://ja.wikipedia.org/wiki/THE_HURRICANE_〜FIREWORKS〜 "wikilink")」（シングル）
           -
             「FIREWORKS」

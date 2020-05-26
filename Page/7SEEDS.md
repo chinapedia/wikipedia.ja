@@ -267,7 +267,7 @@
     声 - [千葉進歩](../Page/千葉進歩.md "wikilink")
     龍宮シェルターの映像係。
   - 坂田 時々（さかた ときどき）
-    人気[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。
+    人気[漫画家](../Page/漫画家.md "wikilink")。
   - 火野 武留（ひの たける）
     [メジャーリーグで活躍する野球選手](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。鷹弘も憧れていた。
   - 織田 道綱（おだ みちつな）

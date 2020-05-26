@@ -7,7 +7,7 @@
 
 フィンランドのハウスユニット「3rd Nation」の専属ダンスメンバーとしての5年間の活動を経て、2003年[Def Jam Japanよりシングル](https://ja.wikipedia.org/wiki/Def_Jam_Japan "wikilink")『Girlfriends feat.ZEEBRA』で歌手デビュー。また、[木梨憲武](../Page/木梨憲武.md "wikilink")率いる[あじさいのメンバーでもある](../Page/あじさい_\(音楽グループ\).md "wikilink")。
 
-子役俳優の[平野心暖](https://ja.wikipedia.org/wiki/平野心暖 "wikilink")は甥。
+子役俳優の[平野心暖](../Page/平野心暖.md "wikilink")は甥。
 
 ## ディスコグラフィー
 
@@ -52,7 +52,7 @@
   - ["E"qual](../Page/"E"qual.md "wikilink")「Let's go feat. HI-D」「WOW Oh feat. HI-D」
   - [DS455](../Page/DS455.md "wikilink")「PARTY'S OVER HERE feat. HI-D」
   - [AK-69 a.k.a. Kalassy Nikoff](https://ja.wikipedia.org/wiki/AK-69 "wikilink")「Homie... feat. HI-D」「CUT SOLO feat. HI-D」
-  - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") 「Miss Luxury feat.MACCHO, GIPPER,KOZ, HI-D, Foxxi misQ」「Bad Moon feat.YOUNG DAIS, SIMON, TWO-J, HI-D」
+  - [DJ PMX](../Page/DJ_PMX.md "wikilink") 「Miss Luxury feat.MACCHO, GIPPER,KOZ, HI-D, Foxxi misQ」「Bad Moon feat.YOUNG DAIS, SIMON, TWO-J, HI-D」
   - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")「Up in the sky feat. HI-D」
   - [KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink")「『哀愁'97』feat. HI-D」
   - [S-WORD](../Page/S-WORD.md "wikilink")「Devil May Kry feat. HI-D」
@@ -63,7 +63,7 @@
   - [Miss Monday](../Page/Miss_Monday.md "wikilink")「HANDLE W / CARE feat. HI-D」
   - [LUVandSOUL](../Page/LUVandSOUL.md "wikilink")「Why I cry」
   - [童子-T](../Page/童子-T.md "wikilink")「Special Girl feat. HI-D」「男一匹 feat. HI-D, AKTION」
-  - [ANTY the 紅乃壱](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink")「雨の日 feat. HI-D」
+  - [ANTY the 紅乃壱](../Page/ANTY_the_紅乃壱.md "wikilink")「雨の日 feat. HI-D」
   - [MIYABI](https://ja.wikipedia.org/wiki/MIYABI "wikilink")「thank you girl feat. HI-D」
   - [ARIA](../Page/ARIA_\(歌手\).md "wikilink")「Dream Drive feat. HI-D」
   - [Q](https://ja.wikipedia.org/wiki/Q_\(ラッパー\) "wikilink")「GET BU$￥ feat. HI-D」「Techniqes Party feat. HI-D」

@@ -33,7 +33,7 @@
 
 ### た行
 
-  - 〈対話〉のない社会（[中島義道](https://ja.wikipedia.org/wiki/中島義道 "wikilink")）
+  - 〈対話〉のない社会（[中島義道](../Page/中島義道.md "wikilink")）
   - 知識人の生態（[西部邁](../Page/西部邁.md "wikilink")）
   - 知性の磨きかた（[林望](../Page/林望.md "wikilink")）
   - 中国人の宗教・道教とは何か（[松本浩一](https://ja.wikipedia.org/wiki/松本浩一 "wikilink")）
@@ -45,7 +45,7 @@
 
   - 日本を創った12人（[堺屋太一](../Page/堺屋太一.md "wikilink")）※全2巻
   - なぜ国家は衰亡するのか（[中西輝政](../Page/中西輝政.md "wikilink")）
-  - 日本の総理学（[中曽根康弘](https://ja.wikipedia.org/wiki/中曽根康弘 "wikilink")）
+  - 日本の総理学（[中曽根康弘](../Page/中曽根康弘.md "wikilink")）
   - 軟弱者の戦争論（[由紀草一](https://ja.wikipedia.org/wiki/由紀草一 "wikilink")）
   - 日本の社会戦略（[稲盛和夫](../Page/稲盛和夫.md "wikilink")、[堺屋太一](../Page/堺屋太一.md "wikilink")）
 

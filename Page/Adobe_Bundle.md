@@ -63,7 +63,7 @@ CS Production Studio Premium に Flash Professional 8を組み合わせたパッ
       - Adobe Photoshop CS2
       - Adobe Illustrator CS2
       - [Adobe Audition](../Page/Adobe_Audition.md "wikilink") 2.0
-      - [Adobe Encore](https://ja.wikipedia.org/wiki/Adobe_Encore "wikilink") DVD 2.0
+      - [Adobe Encore](../Page/Adobe_Encore.md "wikilink") DVD 2.0
       - Adobe Bridge
       - [Adobe Dynamic Link](https://ja.wikipedia.org/wiki/Adobe_Dynamic_Link "wikilink")
   - Macromedia Flash Professional 8

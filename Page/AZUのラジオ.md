@@ -56,7 +56,7 @@
       - 1月・uza・[堀口文宏](../Page/堀口文宏.md "wikilink")「トニー ～師匠の憂鬱～」
       - 2月・uza・[木内秀信](../Page/木内秀信.md "wikilink")「冷凍団地妻」
       - 3月・uza・平成ギター兄弟(仮)（[高橋広樹](../Page/高橋広樹.md "wikilink")・アキラ）「焼き団子ブルース」(4月1日まで)
-      - 4月・uza・[スワベジュンイチ](https://ja.wikipedia.org/wiki/スワベジュンイチ "wikilink")「サクラ」(4月8日から)
+      - 4月・uza・[スワベジュンイチ](../Page/スワベジュンイチ.md "wikilink")「サクラ」(4月8日から)
       - 5月・uza・[堀口文宏](../Page/堀口文宏.md "wikilink")「故郷 ～振り向けばごんのすけ坂～」
       - 6月・uza・[咲坂こばと](https://ja.wikipedia.org/wiki/咲坂こばと "wikilink")「こばと80% 夢枕に立つぞ」
       - 7月・NAruZA(uza・[川本成](../Page/川本成.md "wikilink"))「遠ざかる渚」

@@ -35,8 +35,8 @@
 
 前回の出場歌手の中より不選出となった歌手は以下。
 
-  - 紅組:[赤坂小梅](https://ja.wikipedia.org/wiki/赤坂小梅 "wikilink")・[池真理子](../Page/池真理子.md "wikilink")・[織井茂子](../Page/織井茂子.md "wikilink")・[小唄勝太郎](../Page/小唄勝太郎.md "wikilink")・[三条町子](../Page/三条町子.md "wikilink")・[三味線豊吉](../Page/三味線豊吉.md "wikilink")・[菅原都々子](../Page/菅原都々子.md "wikilink")・[服部富子](https://ja.wikipedia.org/wiki/服部富子 "wikilink")・[松島詩子](../Page/松島詩子.md "wikilink")
-  - 白組:[宇都美清](https://ja.wikipedia.org/wiki/宇都美清 "wikilink")・[笈田敏夫](../Page/笈田敏夫.md "wikilink")・[岸井明](https://ja.wikipedia.org/wiki/岸井明 "wikilink")・[鈴木正夫](../Page/鈴木正夫.md "wikilink")・[竹山逸郎](../Page/竹山逸郎.md "wikilink")・[鶴田六郎](../Page/鶴田六郎.md "wikilink")・[灰田勝彦](../Page/灰田勝彦.md "wikilink")・[林伊佐緒](../Page/林伊佐緒.md "wikilink")
+  - 紅組:[赤坂小梅](https://ja.wikipedia.org/wiki/赤坂小梅 "wikilink")・[池真理子](../Page/池真理子.md "wikilink")・[織井茂子](../Page/織井茂子.md "wikilink")・[小唄勝太郎](../Page/小唄勝太郎.md "wikilink")・[三条町子](../Page/三条町子.md "wikilink")・[三味線豊吉](../Page/三味線豊吉.md "wikilink")・[菅原都々子](../Page/菅原都々子.md "wikilink")・[服部富子](../Page/服部富子.md "wikilink")・[松島詩子](../Page/松島詩子.md "wikilink")
+  - 白組:[宇都美清](../Page/宇都美清.md "wikilink")・[笈田敏夫](../Page/笈田敏夫.md "wikilink")・[岸井明](../Page/岸井明.md "wikilink")・[鈴木正夫](../Page/鈴木正夫.md "wikilink")・[竹山逸郎](../Page/竹山逸郎.md "wikilink")・[鶴田六郎](../Page/鶴田六郎.md "wikilink")・[灰田勝彦](../Page/灰田勝彦.md "wikilink")・[林伊佐緒](../Page/林伊佐緒.md "wikilink")
 
 ### 審査員
 
@@ -47,7 +47,7 @@
   - [西崎緑](https://ja.wikipedia.org/wiki/西崎緑_\(舞踊家\) "wikilink") - 舞踊家。
   - [貝谷八百子](https://ja.wikipedia.org/wiki/貝谷八百子 "wikilink") - バレリーナ。
   - [田付辰子](https://ja.wikipedia.org/wiki/田付辰子 "wikilink") - [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")市名誉市民。
-  - [メイ牛山](https://ja.wikipedia.org/wiki/メイ牛山 "wikilink") - 美容家。
+  - [メイ牛山](../Page/メイ牛山.md "wikilink") - 美容家。
 
 ## 放送まで
 

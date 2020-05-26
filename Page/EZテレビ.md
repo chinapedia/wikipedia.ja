@@ -313,7 +313,7 @@
 
 <!-- end list -->
 
-  - [AQUOSケータイ W61SH](https://ja.wikipedia.org/wiki/W61SH "wikilink")
+  - [AQUOSケータイ W61SH](../Page/W61SH.md "wikilink")
 
 <!-- end list -->
 

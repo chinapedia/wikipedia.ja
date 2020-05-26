@@ -171,7 +171,7 @@
 
 <!-- end list -->
 
-  - [BATON＝RELAY](https://ja.wikipedia.org/wiki/BATON=RELAY "wikilink")
+  - [BATON＝RELAY](../Page/BATON=RELAY.md "wikilink")
       - Start me up(2019年)
       - かけだしのモノローグ(2019年)
       - ミライ＝バトン(2019年)

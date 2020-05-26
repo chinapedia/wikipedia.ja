@@ -1,7 +1,7 @@
 > この記事は[VOFAN](https://ja.wikipedia.org/wiki/VOFAN)から翻訳されています。
 
 
-**VOFAN**（ヴォーハン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。男性。[台南市](../Page/台南市.md "wikilink")生まれ。私立[中原大学](../Page/中原大学.md "wikilink")建築学科卒。[国立台北芸術大学](../Page/国立台北芸術大学.md "wikilink")大学院科技芸術科修士課程修了。本名は**戴源亨**。 ペンネームの由来が[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")ファンを略したものであるため、台湾での一般的な読まれ方はブイオーファンである。
+**VOFAN**（ヴォーハン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](../Page/漫画家.md "wikilink")。男性。[台南市](../Page/台南市.md "wikilink")生まれ。私立[中原大学](../Page/中原大学.md "wikilink")建築学科卒。[国立台北芸術大学](../Page/国立台北芸術大学.md "wikilink")大学院科技芸術科修士課程修了。本名は**戴源亨**。 ペンネームの由来が[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")ファンを略したものであるため、台湾での一般的な読まれ方はブイオーファンである。
 
 [イラスト風のカラー掌編](../Page/イラストレーション.md "wikilink")[CG漫画を中心に作品を発表し続け](../Page/コンピュータグラフィックス.md "wikilink")、鮮やかな色を操りながら、爽やかな作風を持ち、色彩の明暗を使って独特な光と[空気感](https://ja.wikipedia.org/wiki/空気感 "wikilink")を描き出す。[2005年](../Page/2005年.md "wikilink")、「台湾からの光の魔術師」として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に紹介された。
 

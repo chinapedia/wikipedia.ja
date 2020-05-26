@@ -32,7 +32,7 @@
 | [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(10)                | [ガラスの城](https://ja.wikipedia.org/wiki/ガラスの城_\(曲\) "wikilink")     |
 | [三沢あけみ](../Page/三沢あけみ.md "wikilink")(5)                     | [木曽節](https://ja.wikipedia.org/wiki/木曽節 "wikilink")               |
 | [伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")(6)  | [恋のしずく](../Page/恋のしずく.md "wikilink")                              |
-| [西田佐知子](../Page/西田佐知子.md "wikilink")(8)                     | [あの人に逢ったら](https://ja.wikipedia.org/wiki/あの人に逢ったら "wikilink")     |
+| [西田佐知子](../Page/西田佐知子.md "wikilink")(8)                     | [あの人に逢ったら](../Page/あの人に逢ったら.md "wikilink")                        |
 | [九重佑三子](../Page/九重佑三子.md "wikilink")(4)                     | ラスト・ワルツ                                                           |
 | [中尾ミエ](../Page/中尾ミエ.md "wikilink")(7)                       | 恋のシャロック                                                           |
 | [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(12) | 愛のさざなみ                                                            |

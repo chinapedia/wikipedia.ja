@@ -48,7 +48,7 @@
   - Electric Guitar：八ッ橋義行
   - Keyboards：[七瀬ミチル](https://ja.wikipedia.org/wiki/七瀬ミチル "wikilink")
   - Electric Bass：阿部光一郎
-  - Drums：[小西昭次郎](https://ja.wikipedia.org/wiki/小西昭次郎 "wikilink")
+  - Drums：[小西昭次郎](../Page/小西昭次郎.md "wikilink")
 
 **ひとりの夜**
 

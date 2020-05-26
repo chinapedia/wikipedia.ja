@@ -690,7 +690,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
   - もっともっとUHBスペシャル（1994年、[北海道文化放送](../Page/北海道文化放送.md "wikilink")）
   - 赤丸スペシャル（1994年、フジテレビ系）
   - See-X（1994年、フジテレビ系）
-  - [おはようテレワッサン](https://ja.wikipedia.org/wiki/おはようテレワッサン "wikilink")（1994年、中京テレビ）
+  - [おはようテレワッサン](../Page/おはようテレワッサン.md "wikilink")（1994年、中京テレビ）
   - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（1996年、NHK-BS2）
   - 新春芸能人マラソン爆走炎の都島決戦（1996年、[TBS系](../Page/TBSテレビ.md "wikilink")）
   - 第5回爆笑オールスター春の紅白大運動会スペシャル（1996年、フジテレビ系）

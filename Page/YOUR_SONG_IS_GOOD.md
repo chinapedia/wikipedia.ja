@@ -1,7 +1,7 @@
 > この記事は[YOUR SONG IS GOOD](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD)から翻訳されています。
 
 
-**YOUR SONG IS GOOD**（ユア・ソング・イズ・グッド）は、日本の[オルガン](../Page/オルガン.md "wikilink")[インストゥルメンタル](../Page/器楽曲.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属は[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")。愛称は「ユアソン」、「YSIG」。
+**YOUR SONG IS GOOD**（ユア・ソング・イズ・グッド）は、日本の[オルガン](../Page/オルガン.md "wikilink")[インストゥルメンタル](../Page/器楽曲.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。所属は[カクバリズム](../Page/カクバリズム.md "wikilink")。愛称は「ユアソン」、「YSIG」。
 
 ## 概要
 
@@ -47,7 +47,7 @@
       - [5月13日](../Page/5月13日.md "wikilink") -DVD『PLAY ALL\!\!\!\!\!\!live,accident,history,idea,We are YSIG 1998-2008』リリース。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [3月3日](../Page/3月3日.md "wikilink") -4thフルアルバム『B.A.N.D.』リリース。
-      - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") -サントラCD『シーサイド・モーテル・オリジナルサウンドトラック』リリース。
+      - [6月2日](../Page/6月2日.md "wikilink") -サントラCD『シーサイド・モーテル・オリジナルサウンドトラック』リリース。
       - [12月1日](../Page/12月1日.md "wikilink") -DVD『B.A.N.D.T.O.U.R.FINAL 日比谷野外大音楽堂』リリース。
   - [2011年](../Page/2011年.md "wikilink")
       - [5月21日](../Page/5月21日.md "wikilink") -ライブ会場限定シングルCD『I WANT YOU BACK EP』リリース。

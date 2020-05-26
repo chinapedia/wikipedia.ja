@@ -105,7 +105,7 @@
 <td><p><a href="../Page/ジョン・ザンディグ.md" title="wikilink">ザンディグ</a>&amp;<a href="https://ja.wikipedia.org/wiki/ニック・ゲージ" title="wikilink">ニック・ゲージ</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
-<td><p>2000年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p>2000年<a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><a href="../Page/長岡市厚生会館.md" title="wikilink">長岡市厚生会館</a></p></td>
 </tr>
 <tr class="even">

@@ -1,7 +1,7 @@
 > この記事は[CR新海物語](https://ja.wikipedia.org/wiki/CR新海物語)から翻訳されています。
 
 
-**CR新海物語**（シーアールしんうみものがたり）は、[2002年](../Page/2002年.md "wikilink")[11月](../Page/11月.md "wikilink")より[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
+**CR新海物語**（シーアールしんうみものがたり）は、[2002年](../Page/2002年.md "wikilink")[11月](../Page/11月.md "wikilink")より[三洋物産](../Page/三洋物産.md "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。
 
 ## 概要
 

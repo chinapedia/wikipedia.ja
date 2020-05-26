@@ -17,7 +17,7 @@
 
 1.  **SIGNAL**
       -
-        作詞：ma-saya、作曲：[Joey Carbone](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink") & リサ・ファン、編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")、Rap詞：[JOKER](../Page/田中聖.md "wikilink")
+        作詞：ma-saya、作曲：[Joey Carbone](../Page/ジョーイ・カーボーン.md "wikilink") & リサ・ファン、編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")、Rap詞：[JOKER](../Page/田中聖.md "wikilink")
     <!-- end list -->
       - [NTT DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「[new 9 series](https://ja.wikipedia.org/wiki/new_9_series "wikilink")」CMソング
       - [ニッポン放送](../Page/ニッポン放送.md "wikilink")『[KAT-TUN スタイル](https://ja.wikipedia.org/wiki/KAT-TUN_スタイル "wikilink")』7月 - 10月中間テーマソング

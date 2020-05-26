@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - [浅井博章](https://ja.wikipedia.org/wiki/浅井博章 "wikilink")(2012年4月 - )
+  - [浅井博章](../Page/浅井博章.md "wikilink")(2012年4月 - )
 
 <!-- end list -->
 

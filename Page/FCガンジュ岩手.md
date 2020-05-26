@@ -35,7 +35,7 @@
 
 ### 2012年
 
-[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")から[長谷部彩翔](https://ja.wikipedia.org/wiki/長谷部彩翔 "wikilink")、[岩崎陽平](https://ja.wikipedia.org/wiki/岩崎陽平 "wikilink")を獲得。さらに[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")から[小寺優輝](https://ja.wikipedia.org/wiki/小寺優輝 "wikilink")を獲得。その他外国籍選手など計10人の選手を補強。シーズン途中に[2011年](../Page/2011年.md "wikilink")から監督を務めていた[今井敏明](../Page/今井敏明.md "wikilink")が退任し、[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")でプレイし[FCコリア](https://ja.wikipedia.org/wiki/FCコリア "wikilink")などで監督経験のある[申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink")と交代。[JFL](../Page/日本フットボールリーグ.md "wikilink")[横河武蔵野FC](https://ja.wikipedia.org/wiki/横河武蔵野FC "wikilink")でプレイした経験を持つ[上田英生](https://ja.wikipedia.org/wiki/上田英生 "wikilink")もコーチとして迎え体制強化を図った。[第48回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第48回全国社会人サッカー選手権大会 "wikilink")東北予選の代表決定戦で[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")に敗れ全社出場はならなかったが、リーグ戦の方ではシーズンを通して安定した力を見せつけ東北2部北で優勝し東北1部昇格を決めた。
+[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")から[長谷部彩翔](../Page/長谷部彩翔.md "wikilink")、[岩崎陽平](https://ja.wikipedia.org/wiki/岩崎陽平 "wikilink")を獲得。さらに[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")から[小寺優輝](https://ja.wikipedia.org/wiki/小寺優輝 "wikilink")を獲得。その他外国籍選手など計10人の選手を補強。シーズン途中に[2011年](../Page/2011年.md "wikilink")から監督を務めていた[今井敏明](../Page/今井敏明.md "wikilink")が退任し、[ジェフユナイテッド市原](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原 "wikilink")でプレイし[FCコリア](https://ja.wikipedia.org/wiki/FCコリア "wikilink")などで監督経験のある[申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink")と交代。[JFL](../Page/日本フットボールリーグ.md "wikilink")[横河武蔵野FC](https://ja.wikipedia.org/wiki/横河武蔵野FC "wikilink")でプレイした経験を持つ[上田英生](https://ja.wikipedia.org/wiki/上田英生 "wikilink")もコーチとして迎え体制強化を図った。[第48回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第48回全国社会人サッカー選手権大会 "wikilink")東北予選の代表決定戦で[福島ユナイテッドFC](../Page/福島ユナイテッドFC.md "wikilink")に敗れ全社出場はならなかったが、リーグ戦の方ではシーズンを通して安定した力を見せつけ東北2部北で優勝し東北1部昇格を決めた。
 
 ### 2013年
 
@@ -404,7 +404,7 @@
 
   - [神谷恭平](https://ja.wikipedia.org/wiki/神谷恭平 "wikilink")（2012年-2013年）
 
-  - [長谷部彩翔](https://ja.wikipedia.org/wiki/長谷部彩翔 "wikilink")（2012年-2014年）
+  - [長谷部彩翔](../Page/長谷部彩翔.md "wikilink")（2012年-2014年）
 
   - [小寺優輝](https://ja.wikipedia.org/wiki/小寺優輝 "wikilink")（2012年-2014年）
 

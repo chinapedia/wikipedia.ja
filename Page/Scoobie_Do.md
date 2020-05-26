@@ -2318,7 +2318,7 @@ Al「Extra Funk-a-lismo!」</p></td>
   - 2009年08月15日 - RISING SUN ROCK FESTIVAL 2009 in EZO
   - 2009年08月29日 - Re:mix 2009
   - 2009年09月05日 - OTODAMA'09 〜音泉魂〜
-  - 2009年11月12日 - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink") 全国2マンツアー「初体験 VS ツアー」
+  - 2009年11月12日 - [ミドリ](../Page/ミドリ_\(バンド\).md "wikilink") 全国2マンツアー「初体験 VS ツアー」
   - 2009年11月16日 - [OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink")『フォグランプ』 Release Tour
   - 2009年12月31日 - COUNTDOWN JAPAN 09/10
   - 2010年01月17日 - MINE★ROCK FESTIVAL

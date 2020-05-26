@@ -624,7 +624,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴッデス!" title="wikilink">ゴッデス!</a></p></td>
 <td><p><a href="../Page/ひかわ玲子.md" title="wikilink">ひかわ玲子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/近衛乙嗣" title="wikilink">近衛乙嗣</a></p></td>
+<td><p><a href="../Page/近衛乙嗣.md" title="wikilink">近衛乙嗣</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
 <tr class="odd">
@@ -1642,7 +1642,7 @@
 <td><p>単巻</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mnemosyne-ムネモシュネの娘たち-" title="wikilink">ムネモシュネの娘たち2008</a></p></td>
+<td><p><a href="../Page/Mnemosyne-ムネモシュネの娘たち-.md" title="wikilink">ムネモシュネの娘たち2008</a></p></td>
 <td><p><a href="../Page/大野木寛.md" title="wikilink">大野木寛</a><br />
 <small>原作：<a href="../Page/ジーベック_(アニメ制作会社).md" title="wikilink">XEBEC</a>・<a href="../Page/ジェンコ.md" title="wikilink">GENCO</a></small></p></td>
 <td><p><a href="../Page/中央東口.md" title="wikilink">中央東口</a></p></td>

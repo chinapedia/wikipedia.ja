@@ -19,7 +19,7 @@
 1.  **PASIO〜パッシオ**
       -
         作詞:[康珍化](../Page/康珍化.md "wikilink") / 作曲・編曲:[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』エンタメSPORTSテーマソング
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』エンタメSPORTSテーマソング
         日本テレビ系『[GOOD LOOKIN′CLUB](../Page/GOOD_LOOKIN′CLUB.md "wikilink")』エンディングテーマ
 2.  **True Blue**
       -

@@ -3,7 +3,7 @@
 
 **Apache XML** (アパッチ・エックスエムエル) プロジェクトは、[XMLに関連した](../Page/Extensible_Markup_Language.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")を開発することなどを目的とした団体であり、[Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")が主催するプロジェクトの一つである。
 
-Apache XMLプロジェクトが開発するソフトウェアは、Apacheソフトウェア財団の他のプロジェクトと同様に、[Apacheライセンスのもとで提供されている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")。Apache XMLプロジェクトは複数のサブプロジェクトをもっていた。
+Apache XMLプロジェクトが開発するソフトウェアは、Apacheソフトウェア財団の他のプロジェクトと同様に、[Apacheライセンスのもとで提供されている](../Page/Apache_License.md "wikilink")。Apache XMLプロジェクトは複数のサブプロジェクトをもっていた。
 
 2012年4月12日にプロジェクトは終了し、[Apache Atticに移管された](https://ja.wikipedia.org/wiki/Apache_Attic "wikilink")。
 

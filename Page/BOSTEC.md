@@ -1,7 +1,7 @@
 > この記事は[BOSTEC](https://ja.wikipedia.org/wiki/BOSTEC)から翻訳されています。
 
 
-**株式会社BOSTEC**（ボステック）は、[券売機](https://ja.wikipedia.org/wiki/券売機 "wikilink")、[両替機](https://ja.wikipedia.org/wiki/両替機 "wikilink")、セルフ[決済](https://ja.wikipedia.org/wiki/決済 "wikilink")機及び売上集計[システム](../Page/システム.md "wikilink")の設計・製造・販売メーカー。デジタルプリントシステムの設計・製造・販売も行っている。本社所在地は[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")[大豆島](https://ja.wikipedia.org/wiki/大豆島 "wikilink")。
+**株式会社BOSTEC**（ボステック）は、[券売機](https://ja.wikipedia.org/wiki/券売機 "wikilink")、[両替機](../Page/両替機.md "wikilink")、セルフ[決済](https://ja.wikipedia.org/wiki/決済 "wikilink")機及び売上集計[システム](../Page/システム.md "wikilink")の設計・製造・販売メーカー。デジタルプリントシステムの設計・製造・販売も行っている。本社所在地は[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")[大豆島](https://ja.wikipedia.org/wiki/大豆島 "wikilink")。
 
 ## 沿革
 
@@ -46,7 +46,7 @@
 
   - [券売機](https://ja.wikipedia.org/wiki/券売機 "wikilink")
   - 窓口発券機
-  - [両替機](https://ja.wikipedia.org/wiki/両替機 "wikilink")
+  - [両替機](../Page/両替機.md "wikilink")
   - [決済端末機](https://ja.wikipedia.org/wiki/決済端末機 "wikilink")
   - セルフ決済機
   - [POSレジ](https://ja.wikipedia.org/wiki/POSレジ "wikilink")システム

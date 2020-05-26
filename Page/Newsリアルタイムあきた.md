@@ -1,7 +1,7 @@
 > この記事は[Newsリアルタイムあきた](https://ja.wikipedia.org/wiki/Newsリアルタイムあきた)から翻訳されています。
 
 
-『**Newsリアルタイムあきた**』（ニュースリアルタイムあきた）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")テレビの夕方ローカルワイド[ニュース番組である](../Page/報道番組.md "wikilink")。実際に放送される正式なオープニングタイトルは、「**リアルタイムアキタ**」（中身は、[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』のオープニングタイトルに、赤いバックでリアルタイムと同一のフォントの「アキタ」を付けたもの）である。試験放送中である番組開始当初から[地上デジタル放送では](../Page/地上デジタルテレビ放送.md "wikilink")、デジタルハイビジョン放送を行っていた。
+『**Newsリアルタイムあきた**』（ニュースリアルタイムあきた）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")テレビの夕方ローカルワイド[ニュース番組である](../Page/報道番組.md "wikilink")。実際に放送される正式なオープニングタイトルは、「**リアルタイムアキタ**」（中身は、[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』のオープニングタイトルに、赤いバックでリアルタイムと同一のフォントの「アキタ」を付けたもの）である。試験放送中である番組開始当初から[地上デジタル放送では](../Page/地上デジタルテレビ放送.md "wikilink")、デジタルハイビジョン放送を行っていた。
 
 ## 放送時間
 

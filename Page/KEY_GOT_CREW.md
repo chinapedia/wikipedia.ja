@@ -12,7 +12,7 @@
 ## 元メンバー
 
   - 吉井信義（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月23日](../Page/4月23日.md "wikilink") - ）ギター
-  - 古賀真人（[1981年](../Page/1981年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - ）ドラム
+  - 古賀真人（[1981年](../Page/1981年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink") - ）ドラム
 
 ## ディスコグラフィー
 

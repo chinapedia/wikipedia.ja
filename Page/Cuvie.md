@@ -1,7 +1,7 @@
 > この記事は[Cuvie](https://ja.wikipedia.org/wiki/Cuvie)から翻訳されています。
 
 
-**Cuvie**（キュービー\[1\]、[1976年](../Page/1976年.md "wikilink")\[2\] [7月20日](../Page/7月20日.md "wikilink")\[3\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[成年向け漫画](https://ja.wikipedia.org/wiki/成年向け漫画 "wikilink")雑誌、一般向け漫画雑誌の双方で活動している。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身\[4\]。
+**Cuvie**（キュービー\[1\]、[1976年](../Page/1976年.md "wikilink")\[2\] [7月20日](../Page/7月20日.md "wikilink")\[3\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[漫画家](../Page/漫画家.md "wikilink")。[成年向け漫画](https://ja.wikipedia.org/wiki/成年向け漫画 "wikilink")雑誌、一般向け漫画雑誌の双方で活動している。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身\[4\]。
 
 [ペンネーム](../Page/ペンネーム.md "wikilink")はファッション雑誌『[CUTiE](../Page/CUTiE.md "wikilink")』に由来する\[5\]。
 

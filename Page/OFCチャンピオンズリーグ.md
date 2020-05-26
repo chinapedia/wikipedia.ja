@@ -65,7 +65,7 @@
 <td><p><strong><a href="../Page/オークランド・シティFC.md" title="wikilink">オークランド・シティ</a></strong></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ASピレー" title="wikilink">ASピレー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノース・ハーバー・スタジアム" title="wikilink">ノース・ハーバー</a>（<a href="https://ja.wikipedia.org/wiki/オールバニ_(ニュージーランド)" title="wikilink">オールバニ</a>）</p></td>
+<td><p><a href="../Page/ノース・ハーバー・スタジアム.md" title="wikilink">ノース・ハーバー</a>（<a href="https://ja.wikipedia.org/wiki/オールバニ_(ニュージーランド)" title="wikilink">オールバニ</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>OFCチャンピオンズリーグ</p></td>
@@ -81,7 +81,7 @@
 <strong>1 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バFC" title="wikilink">4Rエレクトリカル・バ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴーヴィンド・パーク" title="wikilink">ゴーヴィンド・パーク</a>（<a href="https://ja.wikipedia.org/wiki/バ_(フィジー)" title="wikilink">バ</a>）<br />
- <a href="https://ja.wikipedia.org/wiki/マウント・スマート・スタジアム" title="wikilink">マウント・スマート</a>（<a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>）</p></td>
+ <a href="../Page/マウント・スマート・スタジアム.md" title="wikilink">マウント・スマート</a>（<a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFCチャンピオンズリーグ2007-08" title="wikilink">2007-08</a></p></td>
@@ -133,7 +133,7 @@
 <td><p><strong><a href="../Page/オークランド・シティFC.md" title="wikilink">オークランド・シティ</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/ワイタケレ・ユナイテッド.md" title="wikilink">ワイタケレ・ユナイテッド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウント・スマート・スタジアム" title="wikilink">マウント・スマート</a>（<a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>）</p></td>
+<td><p><a href="../Page/マウント・スマート・スタジアム.md" title="wikilink">マウント・スマート</a>（<a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFCチャンピオンズリーグ2013-14" title="wikilink">2013-14</a></p></td>
@@ -157,7 +157,7 @@
 <td><p><strong><a href="../Page/オークランド・シティFC.md" title="wikilink">オークランド・シティ</a></strong></p></td>
 <td><p><strong>3 - 0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チーム・ウェリントンFC" title="wikilink">チーム・ウェリントン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノース・ハーバー・スタジアム" title="wikilink">QBEスタジアム</a>（<a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>）</p></td>
+<td><p><a href="../Page/ノース・ハーバー・スタジアム.md" title="wikilink">QBEスタジアム</a>（<a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFCチャンピオンズリーグ2017" title="wikilink">2017</a></p></td>

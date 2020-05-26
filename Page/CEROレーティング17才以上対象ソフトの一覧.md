@@ -433,7 +433,7 @@ PlayStation 3
   - [CHAOS;HEAD NOAH](https://ja.wikipedia.org/wiki/CHAOS;HEAD "wikilink")（**Xbox 360版は「Z」区分**）（コンテンツアイコン：「暴力、犯罪、言葉・その他」）
   - [ガチトラ\! 〜暴れん坊教師 in High School〜](https://ja.wikipedia.org/wiki/ガチトラ!_〜暴れん坊教師_in_High_School〜 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [クイーンズブレイド スパイラルカオス](../Page/クイーンズブレイド.md "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [クイーンズゲイト スパイラルカオス](https://ja.wikipedia.org/wiki/クイーンズゲイト "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [クイーンズゲイト スパイラルカオス](../Page/クイーンズゲイト.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [クリミナルガールズ](https://ja.wikipedia.org/wiki/クリミナルガールズ "wikilink")（コンテンツアイコン：「セクシャル」）
   - [CROSS†CHANNEL 〜To all people〜](../Page/CROSS†CHANNEL.md "wikilink")（コンテンツアイコン：「犯罪、セクシャル」）
   - [クロヒョウ 龍が如く新章](https://ja.wikipedia.org/wiki/クロヒョウ_龍が如く新章 "wikilink")（コンテンツアイコン：「セクシャル、飲酒・喫煙、ギャンブル」）
@@ -672,7 +672,7 @@ Xbox 360
   - [オペレーション ダークネス](https://ja.wikipedia.org/wiki/オペレーション_ダークネス "wikilink")（コンテンツアイコン：「暴力」）
   - [キャッスルヴァニア ロード オブ シャドウ](https://ja.wikipedia.org/wiki/キャッスルヴァニア_ロード_オブ_シャドウ "wikilink")（コンテンツアイコン：「暴力」）
   - [ぎゃる☆がん](https://ja.wikipedia.org/wiki/ぎゃる☆がん "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [Kingdom Under Fire : Circle Of Doom](https://ja.wikipedia.org/wiki/Kingdom_Under_Fire_:_Circle_Of_Doom "wikilink")（コンテンツアイコン：「暴力」）
+  - [Kingdom Under Fire : Circle Of Doom](../Page/Kingdom_Under_Fire_:_Circle_Of_Doom.md "wikilink")（コンテンツアイコン：「暴力」）
   - [QUANTUM THEORY](https://ja.wikipedia.org/wiki/QUANTUM_THEORY "wikilink")（コンテンツアイコン：「暴力」）
   - [CRYSIS 2](https://ja.wikipedia.org/wiki/Crysis_2 "wikilink")（コンテンツアイコン：「暴力」）
   - [CROSS†CHANNEL 〜In memory of all people〜](../Page/CROSS†CHANNEL.md "wikilink")（コンテンツアイコン：「犯罪、セクシャル」）
@@ -846,7 +846,7 @@ Xbox 360
 
   - [アローン・イン・ザ・ダーク](../Page/アローン・イン・ザ・ダーク.md "wikilink")（コンテンツアイコン：「暴力」）
   - [カンパニー オブ ヒーローズ オポージング フロント](https://ja.wikipedia.org/wiki/カンパニー_オブ_ヒーローズ_オポージング_フロント "wikilink")（コンテンツアイコン：「???」）
-  - [CRYSIS](https://ja.wikipedia.org/wiki/CRYSIS "wikilink")（コンテンツアイコン：「暴力」）
+  - [CRYSIS](../Page/CRYSIS.md "wikilink")（コンテンツアイコン：「暴力」）
   - [CRYSIS WARHEAD](https://ja.wikipedia.org/wiki/Crysis_Warhead "wikilink")（コンテンツアイコン：「???」）
   - [コール オブ デューティ モダン・ウォーフェア2](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_モダン・ウォーフェア2 "wikilink")（コンテンツアイコン：「犯罪、暴力」）
   - [シャドウラン](../Page/シャドウラン.md "wikilink")（コンテンツアイコン：「暴力」）

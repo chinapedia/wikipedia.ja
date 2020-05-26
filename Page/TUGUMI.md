@@ -1,7 +1,7 @@
 > この記事は[TUGUMI](https://ja.wikipedia.org/wiki/TUGUMI)から翻訳されています。
 
 
-『**TUGUMI**』（つぐみ）は、[吉本ばなな](../Page/吉本ばなな.md "wikilink")の代表作である[青春小説](https://ja.wikipedia.org/wiki/青春小説 "wikilink")。英題は*Goodbye Tsugumi*。
+『**TUGUMI**』（つぐみ）は、[吉本ばなな](../Page/吉本ばなな.md "wikilink")の代表作である[青春小説](../Page/青春小説.md "wikilink")。英題は*Goodbye Tsugumi*。
 
 1990年に『**つぐみ**』のタイトルで[市川準](../Page/市川準.md "wikilink")監督によって映画化された。
 

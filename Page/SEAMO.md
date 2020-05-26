@@ -632,10 +632,10 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
       - 14.One Peace / Pieces from Central Japan
       - 最高順位205位
       - 名古屋を拠点に活動中のアーティスト達が、メジャー、インディーズの垣根を越え集結。
-      - HIPHOP中心で、他参加アーティストにはCRYSTAL BOY、ヤス一番（[Nobodyknows+](../Page/Nobodyknows+.md "wikilink")）、"E"qual(M.O.S.A.D.),[AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")等、[來々](https://ja.wikipedia.org/wiki/來々 "wikilink")、[machaco](https://ja.wikipedia.org/wiki/machaco "wikilink")、[ANTY the 紅乃壱が参加](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink")。
+      - HIPHOP中心で、他参加アーティストにはCRYSTAL BOY、ヤス一番（[Nobodyknows+](../Page/Nobodyknows+.md "wikilink")）、"E"qual(M.O.S.A.D.),[AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")等、[來々](https://ja.wikipedia.org/wiki/來々 "wikilink")、[machaco](https://ja.wikipedia.org/wiki/machaco "wikilink")、[ANTY the 紅乃壱が参加](../Page/ANTY_the_紅乃壱.md "wikilink")。
 3.  オムニバス「**[夜のピクニック INSPIRED BEST ALBUM](https://ja.wikipedia.org/wiki/夜のピクニック_INSPIRED_BEST_ALBUM "wikilink")**」（2006年[9月20日](../Page/9月20日.md "wikilink")発売）
       - 3.Friends
-4.  [DJ KAORI](https://ja.wikipedia.org/wiki/DJ_KAORI "wikilink")「**[DJ KAORI'S JMIX](https://ja.wikipedia.org/wiki/DJ_KAORI'S_JMIX "wikilink")**」（[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売）
+4.  [DJ KAORI](https://ja.wikipedia.org/wiki/DJ_KAORI "wikilink")「**[DJ KAORI'S JMIX](../Page/DJ_KAORI'S_JMIX.md "wikilink")**」（[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売）
       - 22.心の声 featuring [AZU](../Page/AZU.md "wikilink")
 5.  オムニバス「**[Rhythm Nation presents TOP HITS 07-08](https://ja.wikipedia.org/wiki/Rhythm_Nation_presents_TOP_HITS_07-08 "wikilink")**」（2007年[12月5日](../Page/12月5日.md "wikilink")発売）
       - 6.心の声 featuring AZU
@@ -730,7 +730,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 | **Brotherhood**                                                                                                       | 第55回[さっぽろ夏まつり](https://ja.wikipedia.org/wiki/さっぽろ夏まつり "wikilink")コラボレーションソング                                                                                                                      |
 | **[Continue](../Page/Continue_\(SEAMOの曲\).md "wikilink")**                                                            | 読売テレビ・日本テレビ系ドラマ『[夢をかなえるゾウ](https://ja.wikipedia.org/wiki/夢をかなえるゾウ "wikilink")』主題歌                                                                                                                 |
 | **やさしい風**                                                                                                             | [グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")・[ポッキー](../Page/ポッキー.md "wikilink")・チョコレート[SSTV](../Page/スペースシャワーTV.md "wikilink") Ver. CFソング                                                |
-| **Kiss Kiss Kiss feat. [AZU](../Page/AZU.md "wikilink") & [yukako](https://ja.wikipedia.org/wiki/yukako "wikilink")** | テレビ朝日系『[業界技術狩人 ギョーテック](https://ja.wikipedia.org/wiki/業界技術狩人_ギョーテック "wikilink")』1～3月度エンディングテーマ                                                                                                     |
+| **Kiss Kiss Kiss feat. [AZU](../Page/AZU.md "wikilink") & [yukako](https://ja.wikipedia.org/wiki/yukako "wikilink")** | テレビ朝日系『[業界技術狩人 ギョーテック](../Page/業界技術狩人_ギョーテック.md "wikilink")』1～3月度エンディングテーマ                                                                                                                        |
 | '''GO                                                                                                                 | '''                                                                                                                                                                                               |
 | '''不景気なんてぶっとばせ                                                                                                        | '''                                                                                                                                                                                               |
 | **My ANSWER**                                                                                                         | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト- 疾風伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_疾風伝 "wikilink")』エンディングテーマ                                               |
@@ -920,5 +920,5 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 4.  2007年10月15日放送の『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』《フジテレビ》にて
 5.
 6.
-7.  『[競馬最強の法則](https://ja.wikipedia.org/wiki/競馬最強の法則 "wikilink")』（[KKベストセラーズ](https://ja.wikipedia.org/wiki/KKベストセラーズ "wikilink")）2008年12月号 pp.124 - 125
+7.  『[競馬最強の法則](../Page/競馬最強の法則.md "wikilink")』（[KKベストセラーズ](https://ja.wikipedia.org/wiki/KKベストセラーズ "wikilink")）2008年12月号 pp.124 - 125
 8.

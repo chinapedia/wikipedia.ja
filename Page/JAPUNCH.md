@@ -1,7 +1,7 @@
 > この記事は[JAPUNCH](https://ja.wikipedia.org/wiki/JAPUNCH)から翻訳されています。
 
 
-**JAPUNCH**（ジャパンチ）は、[一コマ漫画](https://ja.wikipedia.org/wiki/一コマ漫画 "wikilink")を執筆する6人の日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")グループ。
+**JAPUNCH**（ジャパンチ）は、[一コマ漫画](https://ja.wikipedia.org/wiki/一コマ漫画 "wikilink")を執筆する6人の日本の[漫画家](../Page/漫画家.md "wikilink")グループ。
 
 現在のメンバーは、[鮎沢まこと](../Page/鮎沢まこと.md "wikilink")、[ウノ・カマキリ](../Page/ウノ・カマキリ.md "wikilink")、[クミタ・リュウ](https://ja.wikipedia.org/wiki/クミタ・リュウ "wikilink")、[クロイワ・カズ](https://ja.wikipedia.org/wiki/クロイワ・カズ "wikilink")、[所ゆきよし](../Page/所ゆきよし.md "wikilink")、[森田拳次](../Page/森田拳次.md "wikilink")｡
 

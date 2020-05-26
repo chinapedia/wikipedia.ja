@@ -5,7 +5,7 @@
 
 ## 守備範囲
 
-MEDLINEは、米国およびその他80カ国以上の国で出版される、37の言語の5,000以上の学術誌に掲載された1500万を超える文献情報を網羅する（2006年現在）\[7\]。1950年代以降の生命科学に関する非常に広い範囲の文献をカバーしており、[医学](../Page/医学.md "wikilink")、[薬学](../Page/薬学.md "wikilink")、[看護学](../Page/看護学.md "wikilink")、[歯学](../Page/歯学.md "wikilink")、[衛生学](https://ja.wikipedia.org/wiki/衛生学 "wikilink")、[獣医学](../Page/獣医学.md "wikilink")などのほか、[生化学](../Page/生化学.md "wikilink")、[分子生物学](../Page/分子生物学.md "wikilink")や、医学とあまり関係のない[植物生理学](https://ja.wikipedia.org/wiki/植物生理学 "wikilink")や[分子進化](https://ja.wikipedia.org/wiki/分子進化 "wikilink")に至るまで現代的な生命科学のほぼ全領域を含む他、[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")、[サイエンス](../Page/サイエンス.md "wikilink")など総合学術誌については別領域の記事も含む。多くが英語論文であり、2000年から2005年に追加された文献情報の47%は米国で出版された文献で、90%が英語で書かれ、79%が英語の抄録をもつ\[8\]。
+MEDLINEは、米国およびその他80カ国以上の国で出版される、37の言語の5,000以上の学術誌に掲載された1500万を超える文献情報を網羅する（2006年現在）\[7\]。1950年代以降の生命科学に関する非常に広い範囲の文献をカバーしており、[医学](../Page/医学.md "wikilink")、[薬学](../Page/薬学.md "wikilink")、[看護学](../Page/看護学.md "wikilink")、[歯学](../Page/歯学.md "wikilink")、[衛生学](https://ja.wikipedia.org/wiki/衛生学 "wikilink")、[獣医学](../Page/獣医学.md "wikilink")などのほか、[生化学](../Page/生化学.md "wikilink")、[分子生物学](../Page/分子生物学.md "wikilink")や、医学とあまり関係のない[植物生理学](https://ja.wikipedia.org/wiki/植物生理学 "wikilink")や[分子進化](https://ja.wikipedia.org/wiki/分子進化 "wikilink")に至るまで現代的な生命科学のほぼ全領域を含む他、[ネイチャー](../Page/ネイチャー.md "wikilink")、[サイエンス](../Page/サイエンス.md "wikilink")など総合学術誌については別領域の記事も含む。多くが英語論文であり、2000年から2005年に追加された文献情報の47%は米国で出版された文献で、90%が英語で書かれ、79%が英語の抄録をもつ\[8\]。
 
 ## データベース
 

@@ -55,7 +55,7 @@
   -
 
       -
-        特殊法人が集まる街、東京・[虎ノ門](https://ja.wikipedia.org/wiki/虎ノ門 "wikilink")を、浅草キッドがリポート。
+        特殊法人が集まる街、東京・[虎ノ門](../Page/虎ノ門.md "wikilink")を、浅草キッドがリポート。
 
 <!-- end list -->
 

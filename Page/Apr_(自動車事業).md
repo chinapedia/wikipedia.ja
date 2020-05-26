@@ -190,7 +190,7 @@ DOUBLEHEAD apr MR-S（第5〜9戦）</p></td>
 <td><p>チャンピオン</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年のSUPER_GT" title="wikilink">2008年</a></p></td>
+<td><p><a href="../Page/2008年のSUPER_GT.md" title="wikilink">2008年</a></p></td>
 <td><p>No.31</p></td>
 <td><p>DOUBLEHEAD avex apr MR-S（第1〜5,7〜9戦）</p></td>
 <td><p>峰尾恭輔<br />

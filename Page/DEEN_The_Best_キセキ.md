@@ -148,6 +148,6 @@
 
 [Category:DEENのカバー・アルバム](https://ja.wikipedia.org/wiki/Category:DEENのカバー・アルバム "wikilink") [Category:2005年のセルフカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のセルフカバー・アルバム "wikilink")
 
-1.  「翼を広げて」作詞者の坂井泉水(ZARD)によるセルフカバー版は、[劇場版アニメ](../Page/アニメーション映画.md "wikilink")『[名探偵コナン 戦慄の楽譜](https://ja.wikipedia.org/wiki/名探偵コナン_戦慄の楽譜 "wikilink")』主題歌である。
+1.  「翼を広げて」作詞者の坂井泉水(ZARD)によるセルフカバー版は、[劇場版アニメ](../Page/アニメーション映画.md "wikilink")『[名探偵コナン 戦慄の楽譜](../Page/名探偵コナン_戦慄の楽譜.md "wikilink")』主題歌である。
 2.  「手ごたえのない愛」作詞作曲者の小松未歩によるセルフカバー版は、[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[Lの季節 〜A piece of memories〜](../Page/Lの季節_〜A_piece_of_memories〜.md "wikilink")』オープニングテーマである。
 3.  「遠い空で」は、小松未歩による楽曲として、現在のところ唯一、作曲が共作である。

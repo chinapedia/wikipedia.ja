@@ -164,7 +164,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>ここに幸あり(<a href="https://ja.wikipedia.org/wiki/大津美子" title="wikilink">大津美子</a>のカバー)</li>
+<li>ここに幸あり(<a href="../Page/大津美子.md" title="wikilink">大津美子</a>のカバー)</li>
 <li>TABLA BOL「CATASTRPHE」</li>
 <li>ここに幸あり inst.call「タブラマグマボンゴ」</li>
 <li>ラジオのように（<a href="../Page/ブリジット・フォンテーヌ.md" title="wikilink">ブリジット・フォンテーヌ</a>のカバー。原曲名: <em>Comme A La Radio</em>）)</li>

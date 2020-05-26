@@ -39,7 +39,7 @@
 | 33 | [鈴木三重子](../Page/鈴木三重子.md "wikilink")(初)                    |
 | 35 | [奈良光枝](../Page/奈良光枝.md "wikilink")(5)                      |
 | 37 | [越路吹雪](../Page/越路吹雪.md "wikilink")(2)                      |
-| 40 | [大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")(初)   |
+| 40 | [大津美子](../Page/大津美子.md "wikilink")(初)                      |
 | －  | ~~[雪村いづみ](../Page/雪村いづみ.md "wikilink")（2）~~                |
 | 43 | 初代[コロムビア・ローズ](../Page/コロムビア・ローズ.md "wikilink")(初)          |
 | 45 | [渡辺はま子](../Page/渡辺はま子.md "wikilink")(5)                    |
@@ -49,7 +49,7 @@
 
   - 前回の出場歌手の中より不選出となった歌手は以下。
       - 紅組:[大谷冽子](https://ja.wikipedia.org/wiki/大谷冽子 "wikilink")・[織井茂子](../Page/織井茂子.md "wikilink")・[川田孝子](../Page/川田孝子.md "wikilink")・[菊池章子](../Page/菊池章子.md "wikilink")・[長門美保](../Page/長門美保.md "wikilink")・[奈良光枝](../Page/奈良光枝.md "wikilink")・[二葉あき子](../Page/二葉あき子.md "wikilink")
-      - 白組:[河野ヨシユキ](../Page/河野ヨシユキ.md "wikilink")\[1\]・[柴田睦陸](https://ja.wikipedia.org/wiki/柴田睦陸 "wikilink")・[鶴田六郎](../Page/鶴田六郎.md "wikilink")・[浜口庫之助](../Page/浜口庫之助.md "wikilink")・[藤原義江](../Page/藤原義江.md "wikilink")・[三浦洸一](../Page/三浦洸一.md "wikilink")
+      - 白組:[河野ヨシユキ](../Page/河野ヨシユキ.md "wikilink")\[1\]・[柴田睦陸](../Page/柴田睦陸.md "wikilink")・[鶴田六郎](../Page/鶴田六郎.md "wikilink")・[浜口庫之助](../Page/浜口庫之助.md "wikilink")・[藤原義江](../Page/藤原義江.md "wikilink")・[三浦洸一](../Page/三浦洸一.md "wikilink")
   - NHKは今回、元祖三人娘（[江利チエミ](../Page/江利チエミ.md "wikilink")、[美空ひばり](../Page/美空ひばり.md "wikilink")、[雪村いづみ](../Page/雪村いづみ.md "wikilink")）と、この年のレコード市場を席巻した[三橋美智也](../Page/三橋美智也.md "wikilink")の獲得に力を注いだ。結果、ひばりは引き続き裏番組を優先したが、チエミを引き続き確保、いづみが2年ぶりに復帰し、三橋が初の紅白となった（ただし、雪村は急病により直前に降板した（後述））。
   - [鈴木正夫](../Page/鈴木正夫.md "wikilink")、[鈴木三重子](../Page/鈴木三重子.md "wikilink")が史上初めての親子同時出場となった。
 

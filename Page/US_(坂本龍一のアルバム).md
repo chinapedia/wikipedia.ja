@@ -86,7 +86,7 @@
       -
         アルバム『[NEO GEO](../Page/ネオ・ジオ.md "wikilink")』収録。
 15. **NEO GEO**
-      - 作詞・作曲：坂本龍一、[ビル・ラズウェル](https://ja.wikipedia.org/wiki/ビル・ラズウェル "wikilink")、Traditional
+      - 作詞・作曲：坂本龍一、[ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink")、Traditional
     <!-- end list -->
       -
         アルバム『[NEO GEO](../Page/ネオ・ジオ.md "wikilink")』収録。

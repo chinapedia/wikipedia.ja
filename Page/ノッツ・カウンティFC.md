@@ -225,7 +225,7 @@
 
 <!-- end list -->
 
-  - 47,310人 vs [ヨーク・シティFC](https://ja.wikipedia.org/wiki/ヨーク・シティFC "wikilink") FAカップ6回戦 1955.3.12
+  - 47,310人 vs [ヨーク・シティFC](../Page/ヨーク・シティFC.md "wikilink") FAカップ6回戦 1955.3.12
 
 <!-- end list -->
 

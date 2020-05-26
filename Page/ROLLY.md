@@ -379,7 +379,7 @@
   - テアトルミュージカル [星の王子さま](../Page/星の王子さま.md "wikilink")（2003年・2005年（再演））
   - [ア・ラ・カルト 役者と音楽家のいるレストラン](../Page/ア・ラ・カルト_役者と音楽家のいるレストラン.md "wikilink")（2004年・2008年（一部の公演のみ））
   - [The Who's Tommy](https://ja.wikipedia.org/wiki/The_Who's_Tommy "wikilink") （2007年）
-  - [三文オペラ](https://ja.wikipedia.org/wiki/三文オペラ "wikilink")（2007年）
+  - [三文オペラ](../Page/三文オペラ.md "wikilink")（2007年）
   - 人生はショータイム\! （2010年9月30日 - 10月7日、[全労済ホールスペース・ゼロ](https://ja.wikipedia.org/wiki/スペース・ゼロ "wikilink")）
   - [ア・ラ・カルト2 役者と音楽家のいるレストラン](../Page/ア・ラ・カルト_役者と音楽家のいるレストラン.md "wikilink")（2010年12月24日 - 26日） - 日替わりゲストとして登場。
   - [コインロッカー・ベイビーズ](https://ja.wikipedia.org/wiki/コインロッカー・ベイビーズ#舞台 "wikilink")（2016年6月 - 7月、[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")、[福岡市民会館](../Page/福岡市民会館.md "wikilink")、広島文化学園 HBGホール、[オリックス劇場](../Page/オリックス劇場.md "wikilink")） - プロデューサー・D 役

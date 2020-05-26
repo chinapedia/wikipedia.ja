@@ -54,7 +54,7 @@
       -
         琉球の海商の娘だが両親は他界している。琉球舞踊が得意で啓山とは仲が良かった。
         後、銃殺される。
-  - 新垣朝永→鶴球陽：[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")（吹き替え：[赤嶺正一](https://ja.wikipedia.org/wiki/赤嶺正一 "wikilink")）
+  - 新垣朝永→鶴球陽：[羽賀研二](../Page/羽賀研二.md "wikilink")（吹き替え：[赤嶺正一](https://ja.wikipedia.org/wiki/赤嶺正一 "wikilink")）
   - 奇羅波丸：[宮野翔太](https://ja.wikipedia.org/wiki/宮野翔太 "wikilink")→[清水宏次朗](../Page/清水宏次朗.md "wikilink")（吹き替え：[島正廣](https://ja.wikipedia.org/wiki/島正廣 "wikilink")）
   - 震天風：[ショー・コスギ](../Page/ショー・コスギ.md "wikilink")（吹き替え：[普久原明](https://ja.wikipedia.org/wiki/普久原明 "wikilink")）
   - ケン：[ケイン・コスギ](https://ja.wikipedia.org/wiki/ケイン・コスギ "wikilink")

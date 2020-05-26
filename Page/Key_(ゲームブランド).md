@@ -9,7 +9,7 @@ Keyは、株式会社[ビジュアルアーツ](../Page/ビジュアルアーツ
 
 通称は「鍵」と略されることが多く、Keyの熱心なファンは「**鍵っ子**」と呼称されることが多い。また、[アクアプラス](../Page/アクアプラス.md "wikilink")傘下のゲームブランドである[Leaf](../Page/Leaf.md "wikilink")と並ぶ有名ブランドである事から、「**[葉鍵](https://ja.wikipedia.org/wiki/leaf,key掲示板 "wikilink")**」と呼ばれることも多い。
 
-これは、Keyの作曲家である[折戸伸治](../Page/折戸伸治.md "wikilink")が[1996年](../Page/1996年.md "wikilink")までLeafに所属していたことから、2つのブランドのファン層が少なからず重なっていた事も影響している。また、[2000年](../Page/2000年.md "wikilink")に大規模匿名掲示板[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")において、[leaf,key掲示板](https://ja.wikipedia.org/wiki/leaf,key掲示板 "wikilink")(通称：**葉鍵板**)という独立した板が作られ、ファン同士の交流の機会が多かった事も大きい。そして、[2001年](../Page/2001年.md "wikilink")に同人文化の総本山である『[コミックマーケット](../Page/コミックマーケット.md "wikilink")』の[ジャンルコードに](https://ja.wikipedia.org/wiki/コミックマーケットのジャンルコード "wikilink")「Leaf & Key」の項目が設けられた事により\[1\]、この呼び方が一般に浸透していった。このジャンルコードは[2013年](../Page/2013年.md "wikilink")冬開催のコミケまで使用されていた\[2\]。
+これは、Keyの作曲家である[折戸伸治](../Page/折戸伸治.md "wikilink")が[1996年](../Page/1996年.md "wikilink")までLeafに所属していたことから、2つのブランドのファン層が少なからず重なっていた事も影響している。また、[2000年](../Page/2000年.md "wikilink")に大規模匿名掲示板[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")において、[leaf,key掲示板](https://ja.wikipedia.org/wiki/leaf,key掲示板 "wikilink")(通称：**葉鍵板**)という独立した板が作られ、ファン同士の交流の機会が多かった事も大きい。そして、[2001年](../Page/2001年.md "wikilink")に同人文化の総本山である『[コミックマーケット](../Page/コミックマーケット.md "wikilink")』の[ジャンルコードに](../Page/コミックマーケットのジャンルコード.md "wikilink")「Leaf & Key」の項目が設けられた事により\[1\]、この呼び方が一般に浸透していった。このジャンルコードは[2013年](../Page/2013年.md "wikilink")冬開催のコミケまで使用されていた\[2\]。
 
 しかし、2014年現在では両ブランドの作品傾向は大きく異なっているため、ファン層の乖離が顕在化しており、KeyとLeafを一括りにする考え方は、現状に則していない面も大きい。
 
@@ -395,7 +395,7 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 1.
 2.
 3.
-4.  このため、[コミックマーケット](../Page/コミックマーケット.md "wikilink")の[ジャンルコードなどで](https://ja.wikipedia.org/wiki/コミックマーケットのジャンルコード "wikilink")『[MOON.](https://ja.wikipedia.org/wiki/MOON. "wikilink")』、『[ONE 〜輝く季節へ〜](../Page/ONE_〜輝く季節へ〜.md "wikilink")』は、Keyのゲームとして扱われている。
+4.  このため、[コミックマーケット](../Page/コミックマーケット.md "wikilink")の[ジャンルコードなどで](../Page/コミックマーケットのジャンルコード.md "wikilink")『[MOON.](https://ja.wikipedia.org/wiki/MOON. "wikilink")』、『[ONE 〜輝く季節へ〜](../Page/ONE_〜輝く季節へ〜.md "wikilink")』は、Keyのゲームとして扱われている。
 5.  本ブランド作品の売上推移の一例として挙げるが、2005年時点でAIRの累計売上は30万本とされている（詳しくは本項『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』）
 6.  代表作に『[CROSS†CHANNEL](../Page/CROSS†CHANNEL.md "wikilink")』（[フライングシャイン](../Page/フライングシャイン.md "wikilink"))、『[人類は衰退しました](../Page/人類は衰退しました.md "wikilink")』がある。
 7.  代表作に『[ひぐらしのなく頃に](../Page/ひぐらしのなく頃に.md "wikilink")』がある。

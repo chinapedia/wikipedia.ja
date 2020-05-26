@@ -39,25 +39,25 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_男祭り_2006" title="wikilink">PRIDE 男祭り 2006 -FUMETSU-</a></p></td>
+<td><p><a href="../Page/PRIDE_男祭り_2006.md" title="wikilink">PRIDE 男祭り 2006 -FUMETSU-</a></p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_男祭り_2005" title="wikilink">PRIDE 男祭り 2005 頂-ITADAKI-</a></p></td>
+<td><p><a href="../Page/PRIDE_男祭り_2005.md" title="wikilink">PRIDE 男祭り 2005 頂-ITADAKI-</a></p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_男祭り_2004" title="wikilink">PRIDE 男祭り 2004 -SADAME-</a></p></td>
+<td><p><a href="../Page/PRIDE_男祭り_2004.md" title="wikilink">PRIDE 男祭り 2004 -SADAME-</a></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_SPECIAL_男祭り_2003" title="wikilink">PRIDE SPECIAL 男祭り 2003</a></p></td>
+<td><p><a href="../Page/PRIDE_SPECIAL_男祭り_2003.md" title="wikilink">PRIDE SPECIAL 男祭り 2003</a></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a></p></td>

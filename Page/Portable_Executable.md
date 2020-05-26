@@ -52,7 +52,7 @@ PEフォーマットはWindowsとのバイナリ互換を謳っている[ReactOS
   - [Mach-O](https://ja.wikipedia.org/wiki/Mach-O "wikilink")
   - [a.out](https://ja.wikipedia.org/wiki/a.out "wikilink")
   - [実行可能ファイルフォーマットの比較](https://ja.wikipedia.org/wiki/実行可能ファイルフォーマットの比較 "wikilink")
-  - [実行ファイル圧縮](https://ja.wikipedia.org/wiki/実行ファイル圧縮 "wikilink")
+  - [実行ファイル圧縮](../Page/実行ファイル圧縮.md "wikilink")
   - [アプリケーション仮想化](https://ja.wikipedia.org/wiki/アプリケーション仮想化 "wikilink")
 
 ## 外部リンク

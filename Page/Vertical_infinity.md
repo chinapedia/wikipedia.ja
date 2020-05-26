@@ -7,7 +7,7 @@
 
 これまでT.M.Revolutionの楽曲は全て[浅倉大介](../Page/浅倉大介.md "wikilink")が作曲・編曲を手掛けていたが（リアレンジ、リミックスは除く）、本作では浅倉のベーシックアレンジを基に、西川が編曲した曲が収録されている。累計売上は9.7万枚を記録した\[1\]。収録曲「CHASE/THE THRILL」はイベント「AIR-X」テーマソングに起用された。
 
-タイトルは「垂直無限」という意味であるが、「∞」を垂直にすると「8」になり、本作が8枚目のアルバムである事との[ダブルミーニング](https://ja.wikipedia.org/wiki/ダブルミーニング "wikilink")となっている。Tofu Recordsより発売された海外盤には、SEVENTH HEAVENツアーの「[Albireo -アルビレオ-](https://ja.wikipedia.org/wiki/Albireo_-アルビレオ- "wikilink")」の映像を収録したDVDが付属しており、一部の曲のタイトルが英語表記に変更されている。
+タイトルは「垂直無限」という意味であるが、「∞」を垂直にすると「8」になり、本作が8枚目のアルバムである事との[ダブルミーニング](https://ja.wikipedia.org/wiki/ダブルミーニング "wikilink")となっている。Tofu Recordsより発売された海外盤には、SEVENTH HEAVENツアーの「[Albireo -アルビレオ-](../Page/Albireo_-アルビレオ-.md "wikilink")」の映像を収録したDVDが付属しており、一部の曲のタイトルが英語表記に変更されている。
 
 ## 収録曲
 
@@ -26,7 +26,7 @@
   - **4.Timeless -Möbius Rover-**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
-  - **5.[Web of Night](https://ja.wikipedia.org/wiki/Web_of_Night "wikilink") -English Album Version-**
+  - **5.[Web of Night](../Page/Web_of_Night.md "wikilink") -English Album Version-**
       - 作詞：井上秋緒　訳詞：[Lynne Hobday](https://ja.wikipedia.org/wiki/Lynne_Hobday "wikilink")　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
   - **6.ULTIMATE**

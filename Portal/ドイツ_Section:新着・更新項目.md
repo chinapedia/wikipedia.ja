@@ -984,7 +984,7 @@
   - 11/04/19 - [ドイツ領ニューギニア](https://ja.wikipedia.org/wiki/ドイツ領ニューギニア "wikilink")
   - 11/01/23 - [シュタンデスヘル](https://ja.wikipedia.org/wiki/シュタンデスヘル "wikilink")
   - 10/06/05 - [ホフブロイハウス](https://ja.wikipedia.org/wiki/ホフブロイハウス "wikilink")
-  - 07/12/06 - [アルフレート・フーゲンベルク](https://ja.wikipedia.org/wiki/アルフレート・フーゲンベルク "wikilink")
+  - 07/12/06 - [アルフレート・フーゲンベルク](../Page/アルフレート・フーゲンベルク.md "wikilink")
   - 07/11/02 - [パウル・ゲオルク・フォン・メレンドルフ](../Page/パウル・ゲオルク・フォン・メレンドルフ.md "wikilink")
   - 07/07/24 - [ヴォルフガング・ホールバイン](../Page/ヴォルフガング・ホールバイン.md "wikilink")
   - 06/10/07 - [カール・フォン・オシエツキー](../Page/カール・フォン・オシエツキー.md "wikilink")

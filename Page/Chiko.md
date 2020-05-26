@@ -122,7 +122,7 @@
 
 **1992年**
 
-  - [うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink")（中島タツヤ）
+  - [うしおととら](../Page/うしおととら.md "wikilink")（中島タツヤ）
   - [幻想叙譚エルシア](https://ja.wikipedia.org/wiki/幻想叙譚エルシア "wikilink")（シンシン）
 
 **1996年**

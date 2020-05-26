@@ -35,11 +35,11 @@
       - オリジナルアルバム未収録曲「夢の中へ」（シングル）より。
 9.  **[リバーサイド ホテル](https://ja.wikipedia.org/wiki/リバーサイド_ホテル "wikilink")**（作詞・作曲：井上陽水 / 編曲：星勝）
       - 『[LION & PELICAN](https://ja.wikipedia.org/wiki/LION_&_PELICAN "wikilink")』より。
-10. **[心もよう](https://ja.wikipedia.org/wiki/心もよう "wikilink")**（作詞・作曲：井上陽水 / 編曲：星勝）
+10. **[心もよう](../Page/心もよう.md "wikilink")**（作詞・作曲：井上陽水 / 編曲：星勝）
       - 『氷の世界』より。
 11. **[5月の別れ](https://ja.wikipedia.org/wiki/5月の別れ "wikilink")**（作詞・作曲：井上陽水 / 編曲：佐藤準）
       - 『UNDER THE SUN』より。
-12. **[いっそ セレナーデ](https://ja.wikipedia.org/wiki/いっそ_セレナーデ "wikilink")**（作詞・作曲：井上陽水 / 編曲：星勝）
+12. **[いっそ セレナーデ](../Page/いっそ_セレナーデ.md "wikilink")**（作詞・作曲：井上陽水 / 編曲：星勝）
       - 『[9.5カラット](../Page/9.5カラット.md "wikilink")』より
 13. **[クレイジーラブ](https://ja.wikipedia.org/wiki/Crazy_Love_\(山口百恵の曲\) "wikilink")**（作詞・作曲：井上陽水 / 編曲：[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")）
       - 『[EVERY NIGHT](https://ja.wikipedia.org/wiki/EVERY_NIGHT "wikilink")』より。
@@ -48,7 +48,7 @@
 15. **[ジェラシー](https://ja.wikipedia.org/wiki/ジェラシー_\(井上陽水の曲\) "wikilink")**（作詞・作曲：井上陽水 / 編曲：星勝）
       - 『[あやしい夜をまって](https://ja.wikipedia.org/wiki/あやしい夜をまって "wikilink")』より。
 16. **[青空、ひとりきり](https://ja.wikipedia.org/wiki/青空、ひとりきり "wikilink")**（作詞・作曲：井上陽水 / 編曲：[矢野誠](../Page/矢野誠_\(ミュージシャン\).md "wikilink")）
-      - 『[招待状のないショー](https://ja.wikipedia.org/wiki/招待状のないショー "wikilink")』より。
+      - 『[招待状のないショー](../Page/招待状のないショー.md "wikilink")』より。
 17. **[新しいラプソディー](https://ja.wikipedia.org/wiki/新しいラプソディー "wikilink")**（作詞・作曲：井上陽水 / 編曲：星勝）
       - オリジナルアルバム未収録曲「新しいラプソディー」（シングル）より。
 18. **長い坂の絵のフレーム**（作詞・作曲・編曲：井上陽水）
@@ -63,7 +63,7 @@
 3.  **[ダンスはうまく踊れない](https://ja.wikipedia.org/wiki/ダンスはうまく踊れない "wikilink")**（作詞・作曲：井上陽水 / 編曲：久石譲）
       - 『9.5カラット』より。
 4.  **娘がねじれる時**（作詞・作曲：井上陽水 / 編曲：[高中正義](../Page/高中正義.md "wikilink")）
-      - 『[スニーカーダンサー](https://ja.wikipedia.org/wiki/スニーカーダンサー "wikilink")』より。
+      - 『[スニーカーダンサー](../Page/スニーカーダンサー.md "wikilink")』より。
 5.  **[なぜか上海](https://ja.wikipedia.org/wiki/なぜか上海 "wikilink")**（作詞・作曲：井上陽水 / 編曲：高中正義）
       - 『スニーカーダンサー』より。
 6.  **英雄**（作詞・作曲・編曲：井上陽水）

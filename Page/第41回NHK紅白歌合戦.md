@@ -261,7 +261,7 @@
 </tr>
 <tr class="even">
 <td><p>32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大津美子" title="wikilink">大津美子</a>(7)</p></td>
+<td><p><a href="../Page/大津美子.md" title="wikilink">大津美子</a>(7)</p></td>
 <td><p>ここに幸あり</p></td>
 <td><p>31</p></td>
 <td><p><a href="../Page/堀内孝雄.md" title="wikilink">堀内孝雄</a>(3)</p></td>
@@ -419,7 +419,7 @@
   - [青江三奈](../Page/青江三奈.md "wikilink")はこの年[12月2日](../Page/12月2日.md "wikilink")に亡くなった「[恍惚のブルース](https://ja.wikipedia.org/wiki/恍惚のブルース "wikilink")」の[作曲家](../Page/作曲家.md "wikilink")、[浜口庫之助](../Page/浜口庫之助.md "wikilink")を偲ぶ形式で[第34回](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink")（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（[昭和](../Page/昭和.md "wikilink")58年））以来7年ぶりに復帰。しかしその後は青江自身[2000年](../Page/2000年.md "wikilink")（平成12年）[7月2日](../Page/7月2日.md "wikilink")に亡くなる（[享年](../Page/享年.md "wikilink")59）まで紅白出場は果たせず、今回が青江の生涯最後の紅白出場となった。
   - [尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")は[第23回](../Page/第23回NHK紅白歌合戦.md "wikilink")（[1972年](../Page/1972年.md "wikilink")（昭和47年））以来18年ぶりに復帰。代表曲「[また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")」を歌唱したが、これが尾崎の生涯最後の紅白出演となり、[2012年](../Page/2012年.md "wikilink")（平成24年）[5月30日](../Page/5月30日.md "wikilink")（享年69）に死去。
   - [植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")が歌手としては[第18回](../Page/第18回NHK紅白歌合戦.md "wikilink")（[1967年](../Page/1967年.md "wikilink")（昭和42年））以来、23年ぶりに紅白に登場（[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")死去、享年80。最後の出場でもある。ただし植木は[第44回](../Page/第44回NHK紅白歌合戦.md "wikilink")（[1993年](../Page/1993年.md "wikilink")（平成5年））に審査員として出演している）。この年の末に発表した「スーダラ伝説」（植木のソロ名義で発売されたものを含む、[クレージーキャッツの代表的な](https://ja.wikipedia.org/wiki/ハナ肇とクレージーキャッツ "wikilink")[ヒット曲](../Page/ヒット曲.md "wikilink")をつなぎ合わせた[ヒットメドレー的な](../Page/メドレー.md "wikilink")[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")）を白組出場メンバー総出の応援の下で熱唱。この時のパワフルなパフォーマンスがきっかけとなり、翌年にかけて若年層を中心に植木等の歌手・タレントとしての功績の再評価がなされることとなった。
-  - [大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")が[クモ膜下出血](../Page/クモ膜下出血.md "wikilink")の難病を見事に克服し、[第13回](../Page/第13回NHK紅白歌合戦.md "wikilink")（[1962年](../Page/1962年.md "wikilink")（昭和37年））以来28年ぶりにカムバック出場。自身最大の代表作でありながら、これまで紅白では一度も披露されていなかった「ここに幸あり」を歌唱した。
+  - [大津美子](../Page/大津美子.md "wikilink")が[クモ膜下出血](../Page/クモ膜下出血.md "wikilink")の難病を見事に克服し、[第13回](../Page/第13回NHK紅白歌合戦.md "wikilink")（[1962年](../Page/1962年.md "wikilink")（昭和37年））以来28年ぶりにカムバック出場。自身最大の代表作でありながら、これまで紅白では一度も披露されていなかった「ここに幸あり」を歌唱した。
   - [第45回](../Page/第45回NHK紅白歌合戦.md "wikilink")（[1994年](../Page/1994年.md "wikilink")（平成6年））を除き[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")（平成19年））まで連続出場した[さだまさし](../Page/さだまさし.md "wikilink")がカムバックしたのも今回から。演奏時間7分以上の大作「風に立つライオン」を披露した。
   - この他、[郷ひろみ](../Page/郷ひろみ.md "wikilink")や[橋幸夫](../Page/橋幸夫.md "wikilink")、[布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")ら往年の紅白の常連組も久々に紅白に登場。白組司会の[西田敏行](../Page/西田敏行.md "wikilink")も歌手兼業で出場。
   - 「歌合戦」という冠でありながら、インストゥルメンタルバンド[G-クレフ](../Page/G-クレフ.md "wikilink")も出場した（インストバンドとしては初）。
@@ -443,7 +443,7 @@
   - [オール阪神・巨人](https://ja.wikipedia.org/wiki/オール阪神・巨人 "wikilink")：同上。
   - [栗田貫一](../Page/栗田貫一.md "wikilink")：瀬川瑛子の曲紹介。
   - [森口博子](../Page/森口博子.md "wikilink")：[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")より中継およびB.B.クィーンズの曲後。
-  - ティム・コール（[イリュージョニスト](https://ja.wikipedia.org/wiki/イリュージョン_\(奇術\) "wikilink")）：「ティム・コールのイリュージョン」
+  - ティム・コール（[イリュージョニスト](../Page/イリュージョン_\(奇術\).md "wikilink")）：「ティム・コールのイリュージョン」
   - [大竹まこと](../Page/大竹まこと.md "wikilink")：B.B.クィーンズの曲中。
   - [高田純次](../Page/高田純次.md "wikilink")：同上。
   - [チャーリー浜](../Page/チャーリー浜.md "wikilink")：EVEの曲前。

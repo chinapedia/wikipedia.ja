@@ -147,7 +147,7 @@
   - シーズン最高打率
       - （[1899年](../Page/1899年.md "wikilink")近代野球以前）　[1894年](../Page/1894年.md "wikilink") [ヒュー・ダフィー](../Page/ヒュー・ダフィー.md "wikilink")（[ボストン・ビーンイーターズ](../Page/アトランタ・ブレーブス.md "wikilink")） **.440**
       - （[1900年](../Page/1900年.md "wikilink")近代野球以降）　[1901年](../Page/1901年.md "wikilink") [ナップ・ラジョイ](../Page/ナップ・ラジョイ.md "wikilink")（[フィラデルフィア・アスレチックス](../Page/オークランド・アスレチックス.md "wikilink")） **.426**
-      - 参考 [1871年](../Page/1871年.md "wikilink") [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink")（[フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink")）**.492**（[ナショナル・アソシエーション](https://ja.wikipedia.org/wiki/ナショナル・アソシエーション "wikilink")での記録）
+      - 参考 [1871年](../Page/1871年.md "wikilink") [リーヴァイ・メイエール](../Page/リーヴァイ・メイエール.md "wikilink")（[フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink")）**.492**（[ナショナル・アソシエーション](https://ja.wikipedia.org/wiki/ナショナル・アソシエーション "wikilink")での記録）
   - 通算最高打率　[1905年](../Page/1905年.md "wikilink")-[1928年](../Page/1928年.md "wikilink") [タイ・カッブ](../Page/タイ・カッブ.md "wikilink") **.366** （4000打数以上）
 
 ## 19世紀のナショナル・リーグ首位打者
@@ -176,13 +176,13 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ハインズ" title="wikilink">ポール・ハインズ</a></p></td>
+<td><p><a href="../Page/ポール・ハインズ.md" title="wikilink">ポール・ハインズ</a></p></td>
 <td><p>.358</p></td>
 <td><p><a href="../Page/プロビデンス・グレイズ.md" title="wikilink">プロビデンス・グレイズ</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポール・ハインズ" title="wikilink">ポール・ハインズ</a></p></td>
+<td><p><a href="../Page/ポール・ハインズ.md" title="wikilink">ポール・ハインズ</a></p></td>
 <td><p>.357</p></td>
 <td><p><a href="../Page/プロビデンス・グレイズ.md" title="wikilink">プロビデンス・グレイズ</a></p></td>
 </tr>
@@ -292,13 +292,13 @@
 <td></td>
 <td><p><a href="../Page/ウィリー・キーラー.md" title="wikilink">ウィリー・キーラー</a></p></td>
 <td><p>.424</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ_(19世紀)" title="wikilink">ボルチモア・オリオールズ</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ_(19世紀).md" title="wikilink">ボルチモア・オリオールズ</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/ウィリー・キーラー.md" title="wikilink">ウィリー・キーラー</a></p></td>
 <td><p>.385</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ_(19世紀)" title="wikilink">ボルチモア・オリオールズ</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ_(19世紀).md" title="wikilink">ボルチモア・オリオールズ</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -332,71 +332,71 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピート・ブラウニング" title="wikilink">ピート・ブラウニング</a></p></td>
 <td><p>.378</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイビル・カーネルズ" title="wikilink">ルイビル・カーネルズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ルイビル・カーネルズ.md" title="wikilink">ルイビル・カーネルズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>エド・スワートウッド</p></td>
 <td><p>.357</p></td>
 <td><p><a href="../Page/ピッツバーグ・パイレーツ.md" title="wikilink">ピッツバーグ・アレゲニーズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デーブ・オル" title="wikilink">デーブ・オル</a></p></td>
 <td><p>.354</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・メトロポリタンズ" title="wikilink">ニューヨーク・メトロポリタンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ニューヨーク・メトロポリタンズ.md" title="wikilink">ニューヨーク・メトロポリタンズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フレッド・ダンラップ" title="wikilink">フレッド・ダンラップ</a></p></td>
 <td><p>.412</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セントルイス・マルーンズ" title="wikilink">セントルイス・マルーンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニオン・アソシエーション" title="wikilink">ユニオン・アソシエーション</a></p></td>
+<td><p><a href="../Page/セントルイス・マルーンズ.md" title="wikilink">セントルイス・マルーンズ</a></p></td>
+<td><p><a href="../Page/ユニオン・アソシエーション.md" title="wikilink">ユニオン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピート・ブラウニング" title="wikilink">ピート・ブラウニング</a></p></td>
 <td><p>.362</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイビル・カーネルズ" title="wikilink">ルイビル・カーネルズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ルイビル・カーネルズ.md" title="wikilink">ルイビル・カーネルズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガイ・ヘッカー" title="wikilink">ガイ・ヘッカー</a></p></td>
 <td><p>.341</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイビル・カーネルズ" title="wikilink">ルイビル・カーネルズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ルイビル・カーネルズ.md" title="wikilink">ルイビル・カーネルズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/ティップ・オニール_(野球).md" title="wikilink">ティップ・オニール</a></p></td>
 <td><p>.435</p></td>
 <td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・ブラウンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/ティップ・オニール_(野球).md" title="wikilink">ティップ・オニール</a></p></td>
 <td><p>.335</p></td>
 <td><p><a href="../Page/セントルイス・カージナルス.md" title="wikilink">セントルイス・ブラウンズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>トミー・タッカー</p></td>
 <td><p>.372</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ_(19世紀)" title="wikilink">ボルチモア・オリオールズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ_(19世紀).md" title="wikilink">ボルチモア・オリオールズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>ジミー・ウルフ</p></td>
 <td><p>.363</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイビル・カーネルズ" title="wikilink">ルイビル・カーネルズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ルイビル・カーネルズ.md" title="wikilink">ルイビル・カーネルズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -409,8 +409,8 @@
 <td></td>
 <td><p><a href="../Page/ダン・ブローザース.md" title="wikilink">ダン・ブローザース</a></p></td>
 <td><p>.350</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボストン・レッズ" title="wikilink">ボストン・レッズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アメリカン・アソシエーション_(19世紀)" title="wikilink">アメリカン・アソシエーション</a></p></td>
+<td><p><a href="../Page/ボストン・レッズ.md" title="wikilink">ボストン・レッズ</a></p></td>
+<td><p><a href="../Page/アメリカン・アソシエーション_(19世紀).md" title="wikilink">アメリカン・アソシエーション</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -431,13 +431,13 @@
 
 ## ナショナル・アソシエーション首位打者
 
-| 年    | 選手                                                                  | 打率   | チーム                                                                       |
-| ---- | ------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- |
-| 1871 | [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink") | .492 | [フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink") |
-| 1872 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                            | .430 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
-| 1873 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                            | .431 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
-| 1874 | [リーヴァイ・メイエール](https://ja.wikipedia.org/wiki/リーヴァイ・メイエール "wikilink") | .394 | [シカゴ・ホワイトストッキングス](../Page/シカゴ・カブス.md "wikilink")                          |
-| 1875 | [ディーコン・ホワイト](https://ja.wikipedia.org/wiki/ディーコン・ホワイト "wikilink")   | .367 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
+| 年    | 選手                                                                | 打率   | チーム                                                                       |
+| ---- | ----------------------------------------------------------------- | ---- | ------------------------------------------------------------------------- |
+| 1871 | [リーヴァイ・メイエール](../Page/リーヴァイ・メイエール.md "wikilink")                  | .492 | [フィラデルフィア・アスレチックス](../Page/フィラデルフィア・アスレチックス_\(1860-1876年\).md "wikilink") |
+| 1872 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                          | .430 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
+| 1873 | [ロス・バーンズ](../Page/ロス・バーンズ.md "wikilink")                          | .431 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
+| 1874 | [リーヴァイ・メイエール](../Page/リーヴァイ・メイエール.md "wikilink")                  | .394 | [シカゴ・ホワイトストッキングス](../Page/シカゴ・カブス.md "wikilink")                          |
+| 1875 | [ディーコン・ホワイト](https://ja.wikipedia.org/wiki/ディーコン・ホワイト "wikilink") | .367 | [ボストン・レッドストッキングス](../Page/アトランタ・ブレーブス.md "wikilink")                      |
 
 ## 脚注
 

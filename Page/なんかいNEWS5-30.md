@@ -27,7 +27,7 @@
 
 ## 備考
 
-テーマ曲に[浅倉大介](../Page/浅倉大介.md "wikilink")作曲の「[LANDING TIMEMACHINE](https://ja.wikipedia.org/wiki/LANDING_TIMEMACHINE "wikilink")」が使われていた。当時本番組の30分遅れで放送されていた[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")の『[EBCスーパーニュース](../Page/EBCスーパーニュース.md "wikilink")』はこの曲のアレンジ版を使用していたため、一時期[愛媛県](../Page/愛媛県.md "wikilink")のテレビ放送では「LANDING TIMEMACHINE」の原曲とアレンジ版の2バージョンを聞くことができた。
+テーマ曲に[浅倉大介](../Page/浅倉大介.md "wikilink")作曲の「[LANDING TIMEMACHINE](../Page/LANDING_TIMEMACHINE.md "wikilink")」が使われていた。当時本番組の30分遅れで放送されていた[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")の『[EBCスーパーニュース](../Page/EBCスーパーニュース.md "wikilink")』はこの曲のアレンジ版を使用していたため、一時期[愛媛県](../Page/愛媛県.md "wikilink")のテレビ放送では「LANDING TIMEMACHINE」の原曲とアレンジ版の2バージョンを聞くことができた。
 
 ## 関連項目
 

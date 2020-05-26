@@ -5,7 +5,7 @@
 
 ## 概要
 
-コミックシリーズの原作はイタリアの[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")[エリザベッタ・グノーネ](https://ja.wikipedia.org/wiki/エリザベッタ・グノーネ "wikilink")であり、後に7人の作家によって製作されている。また、アメコミテイストと日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")のテイストをミックスさせており、[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")が出版。[2001年](../Page/2001年.md "wikilink")4月から[2012年](../Page/2012年.md "wikilink")10月までに既刊139巻が連載終了した。2004年にフランスのアニメ製作会社で[アニメ化](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")されている。日本では2006年から[2007年](../Page/2007年.md "wikilink")[8月](../Page/8月.md "wikilink")まで[トゥーン・ディズニー](../Page/トゥーン・ディズニー.md "wikilink")の[JETIX](https://ja.wikipedia.org/wiki/JETIX "wikilink")で放送された。
+コミックシリーズの原作はイタリアの[漫画家](../Page/漫画家.md "wikilink")[エリザベッタ・グノーネ](https://ja.wikipedia.org/wiki/エリザベッタ・グノーネ "wikilink")であり、後に7人の作家によって製作されている。また、アメコミテイストと日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")のテイストをミックスさせており、[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")が出版。[2001年](../Page/2001年.md "wikilink")4月から[2012年](../Page/2012年.md "wikilink")10月までに既刊139巻が連載終了した。2004年にフランスのアニメ製作会社で[アニメ化](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")されている。日本では2006年から[2007年](../Page/2007年.md "wikilink")[8月](../Page/8月.md "wikilink")まで[トゥーン・ディズニー](../Page/トゥーン・ディズニー.md "wikilink")の[JETIX](https://ja.wikipedia.org/wiki/JETIX "wikilink")で放送された。
 
 コミックシリーズ発売時にさまざまなメディアミックス展開が行われ、アニメ、[ゲーム](../Page/ゲーム.md "wikilink")の他、漫画や[小説](../Page/小説.md "wikilink")なども発表された。
 

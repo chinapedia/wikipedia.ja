@@ -28,7 +28,7 @@
 1.  **MIRACLE**
       -
         打ち込み音を駆使した曲。メンバー曰く「ORANGE RANGEらしい曲。」
-        CD発売前から[LIVE FANTAZICALの初期から披露されていた](https://ja.wikipedia.org/wiki/ORANGE_RANGE_LIVE_TOUR_006〜FANTAZICAL〜 "wikilink")。
+        CD発売前から[LIVE FANTAZICALの初期から披露されていた](../Page/ORANGE_RANGE_LIVE_TOUR_006〜FANTAZICAL〜.md "wikilink")。
 2.  **[チャンピオーネ](../Page/チャンピオーネ.md "wikilink")**
       -
         13thシングル。[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[2006 FIFAワールドカップ](../Page/2006_FIFAワールドカップ.md "wikilink")」放送テーマソング。

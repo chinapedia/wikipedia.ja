@@ -49,7 +49,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>CHILDREN PARTY</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/子供たちは夜の住人" title="wikilink">子供たちは夜の住人</a>』（原作：<a href="../Page/高河ゆん.md" title="wikilink">高河ゆん</a>）イメージソング</p></td>
+<td><p>『<a href="../Page/子供たちは夜の住人.md" title="wikilink">子供たちは夜の住人</a>』（原作：<a href="../Page/高河ゆん.md" title="wikilink">高河ゆん</a>）イメージソング</p></td>
 <td><p>子供たちは夜の住人・音楽編</p></td>
 <td><p>1991年12月21日</p></td>
 <td><p>KICA-80</p></td>

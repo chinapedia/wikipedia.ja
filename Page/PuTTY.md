@@ -42,7 +42,7 @@ PuTTYから[派生した](../Page/フォーク_\(ソフトウェア開発\).md "
 
 SSHクライアントの一種である[mRemoteNG](https://ja.wikipedia.org/wiki/mRemoteNG "wikilink")や[Solar-PuTTY](https://ja.wikipedia.org/wiki/Solar-PuTTY "wikilink")では、パッケージにPuTTYの機能拡張版が含まれている。 また、VT220の[エミュレーターの一種である](../Page/端末エミュレータ.md "wikilink")[IVTは](https://ja.wikipedia.org/wiki/IVT_\(端末エミュレータ\) "wikilink")、PuTTYのコードを含んでいおり\[3\]、リモートログオンクライアントとしても利用できる。
 
-[Cygwin](../Page/Cygwin.md "wikilink")や[MSYS](../Page/MSYS.md "wikilink")では、PuTTYを基に\[4\]、**[mintty](https://ja.wikipedia.org/wiki/mintty "wikilink")**が独立して開発されている。 [Xming](https://ja.wikipedia.org/wiki/Xming "wikilink")はPuTTYをサポートしており、[パッケージにはPuTTYのplink](../Page/パッケージソフトウェア.md "wikilink").exeも含まれている。
+[Cygwin](../Page/Cygwin.md "wikilink")や[MSYS](../Page/MSYS.md "wikilink")では、PuTTYを基に\[4\]、**[mintty](https://ja.wikipedia.org/wiki/mintty "wikilink")**が独立して開発されている。 [Xming](../Page/Xming.md "wikilink")はPuTTYをサポートしており、[パッケージにはPuTTYのplink](../Page/パッケージソフトウェア.md "wikilink").exeも含まれている。
 
 Androidで動作する[Mobile SSHでは](https://ja.wikipedia.org/wiki/Mobile_SSH "wikilink")、[バックエンド](../Page/フロントエンド.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")にPuTTYが使用されている。
 
@@ -92,7 +92,7 @@ PuTTY内包
 
   - [IVT](https://ja.wikipedia.org/wiki/IVT_\(端末エミュレータ\) "wikilink")
   - [Solar-PuTTY](https://ja.wikipedia.org/wiki/Solar-PuTTY "wikilink") (【元】Dameware SSH client)
-  - [Xming](https://ja.wikipedia.org/wiki/Xming "wikilink")
+  - [Xming](../Page/Xming.md "wikilink")
   - [Secure Shell App](https://ja.wikipedia.org/wiki/Secure_Shell_App "wikilink")
   - [Mobile SSH](https://ja.wikipedia.org/wiki/Mobile_SSH "wikilink")
 

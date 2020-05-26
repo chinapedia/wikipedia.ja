@@ -79,7 +79,7 @@
   - モリダイラ楽器 (SAKAMOTO SAN) - スペシャル・サンクス
   - K.NUWY (YOSHIDA SAN) - スペシャル・サンクス
   - KEY (NAKAZARO SAN) - スペシャル・サンクス
-  - [ヒップランドミュージック](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink") - スペシャル・サンクス
+  - [ヒップランドミュージック](../Page/ヒップランドミュージック.md "wikilink") - スペシャル・サンクス
   - 石垣章 - スペシャル・サンクス
   - TOM 永島 - スペシャル・サンクス
 

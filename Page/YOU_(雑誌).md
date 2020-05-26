@@ -1,7 +1,7 @@
 > この記事は[YOU \(雑誌\)](https://ja.wikipedia.org/wiki/YOU_\(雑誌\))から翻訳されています。
 
 
-『**YOU**』（ユー）は、[集英社](../Page/集英社.md "wikilink")が発行した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。1980年12月創刊。毎月15日に発売された。
+『**YOU**』（ユー）は、[集英社](../Page/集英社.md "wikilink")が発行した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画雑誌](../Page/漫画雑誌.md "wikilink")。1980年12月創刊。毎月15日に発売された。
 
 レディースコミック誌の先駆けで、読者は20代後半から50代と幅が広い。多数の姉妹誌・増刊がある。同誌に掲載された作品の内、『[ぽっかぽか](../Page/ぽっかぽか.md "wikilink")』や『[研修医なな子](../Page/研修医なな子.md "wikilink")』『[ごくせん](../Page/ごくせん.md "wikilink")』『[ハガネの女](https://ja.wikipedia.org/wiki/ハガネの女 "wikilink")』『[デカワンコ](https://ja.wikipedia.org/wiki/デカワンコ "wikilink")』『[アスコーマーチ\!〜県立明日香工業高校行進曲〜](https://ja.wikipedia.org/wiki/アスコーマーチ!〜県立明日香工業高校行進曲〜 "wikilink")』などが[テレビドラマ](../Page/テレビドラマ.md "wikilink")（実写）化されている。なかでも『ぽっかぽか』と『[ごくせん](../Page/ごくせん_\(テレビドラマ\).md "wikilink")』のテレビドラマは数回シリーズ化された。
 

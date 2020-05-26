@@ -132,7 +132,7 @@ TVコードに伴ういくつかの変更点はあるが、物語の大筋に大
   - 色彩設計 - 大武恭子
   - 撮影 - DIGITAL@SHAFT
   - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
-  - 音楽 - [羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")
+  - 音楽 - [羽岡佳](../Page/羽岡佳.md "wikilink")
   - 音響監督 - [明田川仁](../Page/明田川仁.md "wikilink")
   - プロデューサー - [中山佳久](https://ja.wikipedia.org/wiki/中山佳久 "wikilink")、中村伸一、金庭こず恵、シバタミツテル、藤森匠、久保田光俊
   - アニメーション制作 - [SHAFT](../Page/シャフト_\(アニメ制作会社\).md "wikilink")

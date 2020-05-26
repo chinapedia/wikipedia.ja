@@ -416,7 +416,7 @@
   - 「[月光仮面](../Page/月光仮面.md "wikilink")は誰でしょう」：氷川きよし
   - 「[ひみつのアッコちゃん](../Page/ひみつのアッコちゃん.md "wikilink")」：[安倍なつみ](../Page/安倍なつみ.md "wikilink")（モーニング娘。）
   - 「[レッツゴー\!ライダーキック](../Page/仮面ライダー.md "wikilink")」：w-inds.
-  - 「[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")」：[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")（モーニング娘。）、藤本美貴、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（モーニング娘。）
+  - 「[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")」：[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")（モーニング娘。）、藤本美貴、[石川梨華](../Page/石川梨華.md "wikilink")（モーニング娘。）
   - 「[詠人](../Page/おじゃる丸.md "wikilink")」：北島三郎
   - 「[おさかな天国](../Page/おさかな天国.md "wikilink")」：[柴矢裕美](https://ja.wikipedia.org/wiki/柴矢裕美 "wikilink")
 

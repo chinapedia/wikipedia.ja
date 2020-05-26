@@ -43,7 +43,7 @@ ncurses ライブラリは当初[Linux](../Page/Linux.md "wikilink")、[OpenBSD]
 
 cursesは、テキストのみの表示デバイス（PCのコンソールモード、ANSI端末、[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")や[SSHのクライアントなど](../Page/Secure_Shell.md "wikilink")）で[GUI風の機能を提供するよう設計されている](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")。
 
-cursesを使ったプログラムは、テキストのみの表示デバイスでよくある[コマンドラインインタフェース](../Page/キャラクタユーザインタフェース.md "wikilink") (CLI) ではなく、一般的なGUIに似たユーザインタフェースを採用することが多く、[テキストボックス](../Page/テキストボックス.md "wikilink")やスクロール可能なリストといった[ウィジェットを使う](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")。それによってCLIよりも使いやすいものになり、同時にテキストのみを表示する各種デバイスでも利用可能である。また、GUIを使うよりも少ないリソースで動作可能である。
+cursesを使ったプログラムは、テキストのみの表示デバイスでよくある[コマンドラインインタフェース](../Page/キャラクタユーザインタフェース.md "wikilink") (CLI) ではなく、一般的なGUIに似たユーザインタフェースを採用することが多く、[テキストボックス](../Page/テキストボックス.md "wikilink")やスクロール可能なリストといった[ウィジェットを使う](../Page/ウィジェット_\(GUI\).md "wikilink")。それによってCLIよりも使いやすいものになり、同時にテキストのみを表示する各種デバイスでも利用可能である。また、GUIを使うよりも少ないリソースで動作可能である。
 
 [SVR4では](../Page/UNIX_System_V.md "wikilink") curses を利用した言語 FMLI を導入し、それを使ったテキストのみのユーザインタフェース FACE を実装した。FACEはシステム管理用インタフェースに使われた。FMLIはSolarisでも使われていた。
 

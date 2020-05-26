@@ -2111,7 +2111,7 @@ LineData =
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a> - <a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a> - <a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p>A-kon 2002</p></td>
 <td><p>Hyatt Regency DFW（<a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ合衆国</a> <a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="../Page/ダラス.md" title="wikilink">ダラス</a>）</p></td>
 <td><ul>

@@ -58,7 +58,7 @@
 
   - この年[紫綬褒章](https://ja.wikipedia.org/wiki/紫綬褒章 "wikilink")を受章した[渡辺はま子](../Page/渡辺はま子.md "wikilink")と[藤山一郎](../Page/藤山一郎.md "wikilink")が特別出演という形式で復帰した（両者いずれも今回は正式な紅白出場回数には含まれていない）。
   - 前回の出場歌手の中より今回不選出となった歌手は以下。
-      - 紅組:[奥村チヨ](../Page/奥村チヨ.md "wikilink")・[渚ゆう子](../Page/渚ゆう子.md "wikilink")・[平田隆夫とセルスターズ](https://ja.wikipedia.org/wiki/平田隆夫とセルスターズ "wikilink")・[藤圭子](../Page/藤圭子.md "wikilink")・[本田路津子](../Page/本田路津子.md "wikilink")・[美空ひばり](../Page/美空ひばり.md "wikilink")\[2\]・[森山良子](../Page/森山良子.md "wikilink")
+      - 紅組:[奥村チヨ](../Page/奥村チヨ.md "wikilink")・[渚ゆう子](../Page/渚ゆう子.md "wikilink")・[平田隆夫とセルスターズ](../Page/平田隆夫とセルスターズ.md "wikilink")・[藤圭子](../Page/藤圭子.md "wikilink")・[本田路津子](../Page/本田路津子.md "wikilink")・[美空ひばり](../Page/美空ひばり.md "wikilink")\[2\]・[森山良子](../Page/森山良子.md "wikilink")
       - 白組:[青い三角定規](../Page/青い三角定規.md "wikilink")・[石橋正次](../Page/石橋正次.md "wikilink")・[ビリー・バンバン](https://ja.wikipedia.org/wiki/ビリー・バンバン "wikilink")・[村田英雄](../Page/村田英雄.md "wikilink")\[3\]
   - 前年まで10年連続トリをつとめていた美空ひばりが、実弟の不祥事により好感度が低下。歌手選考の最終過程で外部の「ご意見を伺う会」に提出されたNHKの原案にはひばりも含まれていたが、世論の支持の低下がネックとなり不選出となった。
   - [南こうせつとかぐや姫は](../Page/かぐや姫_\(フォークグループ\).md "wikilink")、この年のヒット曲「[神田川](../Page/神田川_\(曲\).md "wikilink")」の歌詞の中の「[クレパス](../Page/サクラクレパス.md "wikilink")」が商標名であるため「[クレヨン](../Page/クレヨン.md "wikilink")」に歌い直すように要請されたものの、それを拒否し辞退した。かぐや姫の紅白出場は[第50回](../Page/第50回NHK紅白歌合戦.md "wikilink")（[1999年](../Page/1999年.md "wikilink")）まで待つことになる（リーダーの[南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")は[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")（[1992年](../Page/1992年.md "wikilink")）に初出場）。

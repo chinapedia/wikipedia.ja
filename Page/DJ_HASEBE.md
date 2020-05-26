@@ -93,7 +93,7 @@
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2002年1月23日</p></td>
-<td><p><strong>Get Out! feat. <a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a> &amp; <a href="https://ja.wikipedia.org/wiki/VERBAL" title="wikilink">VERBAL</a>/<br />
+<td><p><strong>Get Out! feat. <a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a> &amp; <a href="../Page/VERBAL.md" title="wikilink">VERBAL</a>/<br />
 Red Hot Shoes feat. BONNIE PINK</strong></p></td>
 <td><p>WPC6-10190</p></td>
 <td><ol>

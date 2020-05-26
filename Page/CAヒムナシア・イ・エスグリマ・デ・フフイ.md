@@ -1,7 +1,7 @@
 > この記事は[CAヒムナシア・イ・エスグリマ・デ・フフイ](https://ja.wikipedia.org/wiki/CAヒムナシア・イ・エスグリマ・デ・フフイ)から翻訳されています。
 
 
-**CAヒムナシア・イ・エスグリマ・デ・フフイ** () 、通称**ヒムナシア・デ・フフイ** (Gimnasia de Jujuy) は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[フフイ州](https://ja.wikipedia.org/wiki/フフイ州 "wikilink")の州都[サン・サルバドール・デ・フフイ](https://ja.wikipedia.org/wiki/サン・サルバドール・デ・フフイ "wikilink")を本拠地とする[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。1931年に創立され、サッカー部門が最もよく知られている。2016-17シーズンは[プリメーラB・ナシオナル](https://ja.wikipedia.org/wiki/プリメーラB・ナシオナル "wikilink")（2部）に所属している。
+**CAヒムナシア・イ・エスグリマ・デ・フフイ** () 、通称**ヒムナシア・デ・フフイ** (Gimnasia de Jujuy) は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[フフイ州](../Page/フフイ州.md "wikilink")の州都[サン・サルバドール・デ・フフイ](https://ja.wikipedia.org/wiki/サン・サルバドール・デ・フフイ "wikilink")を本拠地とする[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。1931年に創立され、サッカー部門が最もよく知られている。2016-17シーズンは[プリメーラB・ナシオナル](https://ja.wikipedia.org/wiki/プリメーラB・ナシオナル "wikilink")（2部）に所属している。
 
 アルゼンチン北西部の主要クラブとして知られる。1993-94シーズンにプリメーラB・ナシオナルを制し、その後2000年まで[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink")（1部）に在籍した。2004-05シーズンに再びプリメーラB・ナシオナルを制して昇格したが、2008-09シーズン終了後にプリメーラB・ナシオナルに降格した。
 

@@ -162,7 +162,7 @@
 
 <!-- end list -->
 
-  - [猪子兵助](https://ja.wikipedia.org/wiki/猪子兵助 "wikilink")：**[常田富士男](../Page/常田富士男.md "wikilink")**
+  - [猪子兵助](../Page/猪子兵助.md "wikilink")：**[常田富士男](../Page/常田富士男.md "wikilink")**
 
 <!-- end list -->
 
@@ -528,7 +528,7 @@
 
 <!-- end list -->
 
-  - [千代](https://ja.wikipedia.org/wiki/見性院_\(山内一豊室\) "wikilink")：**[樫山文枝](../Page/樫山文枝.md "wikilink")**
+  - [千代](../Page/見性院_\(山内一豊室\).md "wikilink")：**[樫山文枝](../Page/樫山文枝.md "wikilink")**
 
 <!-- end list -->
 

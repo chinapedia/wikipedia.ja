@@ -128,7 +128,7 @@
 
 :\* 駒吉 - [塩屋俊](../Page/塩屋俊.md "wikilink")
 
-:\* 菱川碌山 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+:\* 菱川碌山 - [楠年明](../Page/楠年明.md "wikilink")
 
 :\* 辰蔵 - [下元年世](https://ja.wikipedia.org/wiki/下元年世 "wikilink")
 
@@ -160,7 +160,7 @@
 
 :\* お竜 - [鈴川法子](https://ja.wikipedia.org/wiki/鈴川法子 "wikilink")
 
-:\* おとめ - [森愛子](https://ja.wikipedia.org/wiki/森愛子 "wikilink")
+:\* おとめ - [森愛子](../Page/森愛子.md "wikilink")
 
 :\* 以蔵 - [志茂山高也](../Page/チャンバラトリオ.md "wikilink")
 
@@ -280,7 +280,7 @@
 
 :\* 平吉 - [粟津號](../Page/粟津號.md "wikilink")
 
-:\* 神保右門 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")（2回目）
+:\* 神保右門 - [楠年明](../Page/楠年明.md "wikilink")（2回目）
 
 :\* 池田屋 - [牧冬吉](../Page/牧冬吉.md "wikilink")
 
@@ -356,7 +356,7 @@
 
 :\* 志津 - [朝比奈順子](../Page/朝比奈順子.md "wikilink")
 
-:\* 情報屋 - [三笑亭夢之助](https://ja.wikipedia.org/wiki/三笑亭夢之助 "wikilink")
+:\* 情報屋 - [三笑亭夢之助](../Page/三笑亭夢之助.md "wikilink")
 
 :\* 後宮多聞 - 五十嵐義弘　
 

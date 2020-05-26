@@ -9,7 +9,7 @@
 
 [2005年](../Page/2005年.md "wikilink")2月12日、[DEEPライト級王者決定戦で](../Page/DEEP_\(格闘技団体\).md "wikilink")[三島☆ド根性ノ助](../Page/三島☆ド根性ノ助.md "wikilink")と対戦し、0-3の判定負けを喫し王座獲得に失敗した。
 
-2005年5月22日、[PRIDE初参戦となった](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[PRIDE 武士道 -其の七-で](https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の七- "wikilink")[ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")と対戦し、左フックでKO負け。
+2005年5月22日、[PRIDE初参戦となった](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[PRIDE 武士道 -其の七-で](../Page/PRIDE_武士道_-其の七-.md "wikilink")[ジェンス・パルヴァー](../Page/ジェンス・パルヴァー.md "wikilink")と対戦し、左フックでKO負け。
 
 2005年10月28日、DEEP 21 IMPACTのフェザー級（-65kg）トーナメント1回戦で[前田吉朗](../Page/前田吉朗.md "wikilink")と対戦し、開始32秒左ハイキックでKO負け。試合前から「負けたら引退」と語っていたが、試合後も「悔いはない」と語り、総合格闘技を一度引退した\[2\]。
 

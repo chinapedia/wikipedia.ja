@@ -215,7 +215,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャガディッシュ・チャンドラ・ボース" title="wikilink">ボースによる世界初の</a><a href="../Page/ミリ波.md" title="wikilink">ミリ波</a>通信実験</p></td>
+<td><p><a href="../Page/ジャガディッシュ・チャンドラ・ボース.md" title="wikilink">ボースによる世界初の</a><a href="../Page/ミリ波.md" title="wikilink">ミリ波</a>通信実験</p></td>
 <td><p><a href="../Page/1894年.md" title="wikilink">1894年</a>-<a href="../Page/1896年.md" title="wikilink">1896年</a></p></td>
 <td><p><a href="../Page/コルカタ.md" title="wikilink">コルカタ</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
@@ -663,7 +663,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/EBR-I" title="wikilink">Experimental Breeder Reactor I</a>（）</p></td>
+<td><p><a href="../Page/EBR-I.md" title="wikilink">Experimental Breeder Reactor I</a>（）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1951年" title="wikilink">1951年</a></p></td>
 <td><p><a href="../Page/アイダホ州.md" title="wikilink">アイダホ州</a><a href="https://ja.wikipedia.org/wiki/アイダホフォールズ_(アイダホ州)" title="wikilink">アイダホフォールズ</a></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>

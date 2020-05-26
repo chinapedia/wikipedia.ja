@@ -95,7 +95,7 @@ UNIXライクなシステムにおけるユーザは、[ロケール](https://ja
 
 ## 関連項目
 
-  - [エラーメッセージ](https://ja.wikipedia.org/wiki/エラーメッセージ "wikilink")
+  - [エラーメッセージ](../Page/エラーメッセージ.md "wikilink")
 
 ## 外部リンク
 

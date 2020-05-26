@@ -319,7 +319,7 @@
   - 10月10日 [リーディングジョッキー ハイブリッド](https://ja.wikipedia.org/wiki/リーディングジョッキー_ハイブリッド "wikilink")（ハーベストワン）
   - 10月10日 [ヒロイン・ドリーム](https://ja.wikipedia.org/wiki/ヒロイン・ドリーム "wikilink")（マップジャパン）
   - 10月10日 [結婚 Marriage](https://ja.wikipedia.org/wiki/結婚_Marriage "wikilink")（小学館プロダクション）
-  - 10月10日 [続ぐっすんおよよ](https://ja.wikipedia.org/wiki/ぐっすんおよよ "wikilink")（バンプレスト）
+  - 10月10日 [続ぐっすんおよよ](../Page/ぐっすんおよよ.md "wikilink")（バンプレスト）
   - 10月10日 [フィッシュアイズ](https://ja.wikipedia.org/wiki/フィッシュアイズ "wikilink")（ビクター インタラクティブ ソフトウェア・パック・イン・ビデオ）
   - 10月18日 [首領蜂](../Page/首領蜂.md "wikilink")（エス・ピー・エス）
   - 10月18日 [ストーンウォーカーズ](https://ja.wikipedia.org/wiki/ストーンウォーカーズ "wikilink")（サンソフト）

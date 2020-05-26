@@ -104,7 +104,7 @@
         「愛のバクダン」より後に制作された曲で本来は収録予定はなかったが、急遽追加された。レコーディングは2月(つまりアルバム発売2ヶ月前)に行われた。
         歌詞は最初から英語で書こうと思い、「シェーンとかに協力してもらって、歌詞のフレージングと、歌になったときの英語の音の感じとかを試してみた」とのこと。そのため、メロディにあまり言葉を詰め込まずに緩やかに表情豊かに、[韻を踏むというよりもストーリーを重視したという](../Page/押韻.md "wikilink")。歌詞カードには日本語訳が記載されている。
         2007年に海外の[iTunes Storeで配信されたミニ](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")・アルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』にミックス違いのバージョンが収録されている。
-        アルバムツアーでは未演奏となったが、2006年9月1日に行われた、[ドワンゴ](../Page/ドワンゴ.md "wikilink")提供の完全招待制の『[B'z NETWORK LIVE in Japan](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")』にて初披露された。また、[2012年](../Page/2012年.md "wikilink")に行われた『PEPSI NEX presents B'z PREMIUM LIVE OSAKA/TOKYO』、『[B'z LIVE-GYM 2012 -Into Free-](https://ja.wikipedia.org/wiki/LIVE-GYM_#2009年〜2013年 "wikilink")』でも演奏され、主に国外向けのライブでの演奏が多い。
+        アルバムツアーでは未演奏となったが、2006年9月1日に行われた、[ドワンゴ](../Page/ドワンゴ.md "wikilink")提供の完全招待制の『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露された。また、[2012年](../Page/2012年.md "wikilink")に行われた『PEPSI NEX presents B'z PREMIUM LIVE OSAKA/TOKYO』、『[B'z LIVE-GYM 2012 -Into Free-](https://ja.wikipedia.org/wiki/LIVE-GYM_#2009年〜2013年 "wikilink")』でも演奏され、主に国外向けのライブでの演奏が多い。
 
 ## タイアップ
 
@@ -151,7 +151,7 @@
 
 **Brighter Day**
 
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
   - [EPIC DAY](https://ja.wikipedia.org/wiki/EPIC_DAY "wikilink") (特典DVD)
 

@@ -5,7 +5,7 @@
 
 ## 内容
 
-  - 4期メンバー（[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")）の4人にとっては、加入後初のオリジナルアルバムであり、5期メンバー（[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")）の4人にとっては、加入後初のアルバム。
+  - 4期メンバー（[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")）の4人にとっては、加入後初のオリジナルアルバムであり、5期メンバー（[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")）の4人にとっては、加入後初のアルバム。
   - シングル曲は生音主体だが、アルバムの新曲は[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")主体の楽曲が多くなっている。
   - 2019年4月1日には[タワーレコード](../Page/タワーレコード.md "wikilink")限定販売として[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")がリリースされた\[1\]。
 
@@ -48,7 +48,7 @@
         このアルバムのタイトルになった1曲。
 9.  **電車の二人**
       -
-        歌：[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")、[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")。
+        歌：[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")、[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")。
         編曲：[前嶋康明](../Page/前嶋康明.md "wikilink")
 10. **本気で熱いテーマソング**
       -
@@ -71,7 +71,7 @@
   - 1期：[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")、[安倍なつみ](../Page/安倍なつみ.md "wikilink")
   - 2期：[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")
   - 3期：[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
-  - 4期：[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
+  - 4期：[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
   - 5期：[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")
 
 ## 参加ミュージシャン

@@ -102,7 +102,7 @@
 
 ### アニメ
 
-  - [スペースオズの冒険](https://ja.wikipedia.org/wiki/スペースオズの冒険 "wikilink") （1992年10月 - 1993年4月）
+  - [スペースオズの冒険](../Page/スペースオズの冒険.md "wikilink") （1992年10月 - 1993年4月）
   - [KURAU Phantom Memory](../Page/KURAU_Phantom_Memory.md "wikilink")（2004年6月 - 12月）勝木ゆかり（S.E.N.S.）名義・エンディングテーマ・音楽担当
   - [xxxHOLiC](../Page/XXXHOLiC.md "wikilink")（2006年4月 - 9月）S.E.N.S. Project名義
   - [xxxHOLiC◆継](../Page/XXXHOLiC.md "wikilink")（2008年4月 - 6月）S.E.N.S. Project名義
@@ -211,7 +211,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/スペースオズの冒険" title="wikilink">スペースオズの冒険</a>」オリジナル・サウンドトラック</p></td>
+<td><p>「<a href="../Page/スペースオズの冒険.md" title="wikilink">スペースオズの冒険</a>」オリジナル・サウンドトラック</p></td>
 <td><p>1992年11月26日</p></td>
 <td></td>
 </tr>

@@ -34,7 +34,7 @@
 6.  **Where so ever** (4:18)
     （作詞：五十嵐充 / 作曲：北野正人 / 編曲：五十嵐充、day after tomorrow）
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』エンタメSPORTSテーマソング。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』エンタメSPORTSテーマソング。
 7.  **honestly** (3:35)
     （作詞：五十嵐充 / 作曲：北野正人 / 編曲：五十嵐充、day after tomorrow 弦編曲：[弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")）
 8.  **[追伸](../Page/君と逢えた奇蹟.md "wikilink")** (4:05)

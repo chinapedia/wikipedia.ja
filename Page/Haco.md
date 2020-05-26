@@ -17,7 +17,7 @@ Hacoのキャリアは、[1981年](../Page/1981年.md "wikilink")に活動を開
 
 [1999年](../Page/1999年.md "wikilink")には「ヴューマスターズ〜現音採集観察学会」を結成、[2005年](../Page/2005年.md "wikilink")まで活動を行う。2005年には『Stereo Bugscope 00』が[アルス・エレクトロニカ](../Page/アルス・エレクトロニカ.md "wikilink")の「デジタルミュージック部門」にて入賞している。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からは[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")の[音楽](../Page/音楽.md "wikilink")[イベント](../Page/イベント.md "wikilink")「JAZZ ART せんがわ」に参加し、[せんがわ劇場](https://ja.wikipedia.org/wiki/せんがわ劇場 "wikilink")で「Hacoの音虫眼鏡ワークショップ」を開催した。
 
-近年は[ポップス](../Page/ポップス.md "wikilink")作品だけでなく、電子的な[発振音を採取するというスタイルで静謐な作品も発表しており](https://ja.wikipedia.org/wiki/ビープ音 "wikilink")、デビューから長く経っても音楽の幅を広げつつある。
+近年は[ポップス](../Page/ポップス.md "wikilink")作品だけでなく、電子的な[発振音を採取するというスタイルで静謐な作品も発表しており](../Page/ビープ音.md "wikilink")、デビューから長く経っても音楽の幅を広げつつある。
 
 ## 関連項目
 

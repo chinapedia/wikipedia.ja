@@ -57,7 +57,7 @@
 
 :\* 西本裕之（東亜珈琲 元社員・盗難カードの被害者） - [森川正太](../Page/森川正太.md "wikilink")
 
-:\* 楡俊彦\[7\]（輸入雑貨店「プレミア」店主） - [草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")
+:\* 楡俊彦\[7\]（輸入雑貨店「プレミア」店主） - [草見潤平](../Page/草見潤平.md "wikilink")
 
 :\* 丸山正人（社会福祉法人「のぞみの会」秘書） - [五森大輔](https://ja.wikipedia.org/wiki/五森大輔 "wikilink")\[8\]
 

@@ -61,7 +61,7 @@
 
 ### 十文字姉妹としての戦歴
 
-  - [2007年](../Page/2007年.md "wikilink")12月31日 [後楽園ホール](../Page/後楽園ホール.md "wikilink")JWP「第5回[ジュニア・オールスター戦](https://ja.wikipedia.org/wiki/ジュニア・オールスター戦 "wikilink")」、vs紫雷姉妹（[紫雷美央](https://ja.wikipedia.org/wiki/紫雷美央 "wikilink")・[イオ](https://ja.wikipedia.org/wiki/紫雷イオ "wikilink")）戦で勝利。同大会敢闘賞を受賞。
+  - [2007年](../Page/2007年.md "wikilink")12月31日 [後楽園ホール](../Page/後楽園ホール.md "wikilink")JWP「第5回[ジュニア・オールスター戦](https://ja.wikipedia.org/wiki/ジュニア・オールスター戦 "wikilink")」、vs紫雷姉妹（[紫雷美央](../Page/紫雷美央.md "wikilink")・[イオ](../Page/紫雷イオ.md "wikilink")）戦で勝利。同大会敢闘賞を受賞。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月21日 仙台大会、[デビル雅美](../Page/デビル雅美.md "wikilink")引退記念1dayタッグトーナメント準優勝。
   - [2011年](../Page/2011年.md "wikilink")9月24日 [アイスリボン](../Page/アイスリボン.md "wikilink")横浜大会、[インターナショナル・リボンタッグ王座](https://ja.wikipedia.org/wiki/インターナショナル・リボンタッグ王座 "wikilink")次期王者決定トーナメントで優勝し、同王座獲得。
   - [2012年](../Page/2012年.md "wikilink")1月9日 「JWP[タッグリーグ・ザ・ベスト](https://ja.wikipedia.org/wiki/タッグリーグ・ザ・ベスト "wikilink")2012」に参戦。

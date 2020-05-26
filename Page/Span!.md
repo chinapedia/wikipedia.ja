@@ -24,7 +24,7 @@
   - 大阪府出身、[寝屋川](../Page/寝屋川.md "wikilink")生まれ、[城東区](../Page/城東区.md "wikilink")[野江](../Page/野江.md "wikilink")育ち。[啓光学園中学校・高校](https://ja.wikipedia.org/wiki/啓光学園中学校・高等学校 "wikilink")、[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")卒業。顔ちぇき\!の結果から、[エスパー伊東](https://ja.wikipedia.org/wiki/エスパー伊東 "wikilink")に似ていると本人も言っている。
   - 2人兄妹で、妹がいる。10年ほどの同棲を経て、2012年に結婚。2013年に第1子が生れる。マコト「りんこ（りんちゃん）」、妻「まんぢゅう」、子供「にゃんちゅう」という呼び名がある。
   - 血液型O型。身長164cm。体重45kg。立ち位置は向かって右。
-  - 現コンビ結成前は相方募集サイトでカズ（谷本和之）と出会い、「Gyu-Guts」というコンビ組んで主に[ミナミ](https://ja.wikipedia.org/wiki/ミナミ "wikilink")・[梅田](../Page/梅田.md "wikilink")・[京橋で路上漫才をしていた](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")。当時は[モンスターエンジン](../Page/モンスターエンジン.md "wikilink")の大林健二の元コンビ（みかんとんがらし）と路上ライブもやっていたこともあった。[スマイルとも路上ライブをする予定だったが](../Page/スマイル_\(お笑いコンビ\).md "wikilink")、スマイルに人気が出た為、この計画はなくなった。
+  - 現コンビ結成前は相方募集サイトでカズ（谷本和之）と出会い、「Gyu-Guts」というコンビ組んで主に[ミナミ](https://ja.wikipedia.org/wiki/ミナミ "wikilink")・[梅田](../Page/梅田.md "wikilink")・[京橋で路上漫才をしていた](../Page/京橋_\(大阪市\).md "wikilink")。当時は[モンスターエンジン](../Page/モンスターエンジン.md "wikilink")の大林健二の元コンビ（みかんとんがらし）と路上ライブもやっていたこともあった。[スマイルとも路上ライブをする予定だったが](../Page/スマイル_\(お笑いコンビ\).md "wikilink")、スマイルに人気が出た為、この計画はなくなった。
   - 一見すると小学生かと見間違えられるため、[居酒屋](../Page/居酒屋.md "wikilink")に行った際に身分証明書を確認させられた。
   - 「マコッちゃん」もしくは「マコラス」と呼ばれる事が多い。水本は「マコ」と呼ぶ。
   - 好きな食べ物は[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")、好きな漫画は[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")。ルービックキューブが得意。好きなテレビ番組はNHKの『[ドキュメント72時間](../Page/ドキュメント72時間.md "wikilink")』。
@@ -35,7 +35,7 @@
 
 ## 概要
 
-  - 現コンビ結成前は水本は「フーリッシュボム」というコンビを組んで活動、マコトは相方募集サイトで出会った谷本和之（カズ）と出会い、「Gyu-Guts」というコンビ組んで主に[ミナミ](https://ja.wikipedia.org/wiki/ミナミ "wikilink")・[梅田](../Page/梅田.md "wikilink")・[京橋で路上漫才をしていたが](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")、マコトが水本を勧誘しコンビを結成。当初、マコトは「限定的なユニットで構わないのでコンビを組みませんか？」と水本を誘ったが、「それなら正式なコンビにしよう」という水本の提案で現在に至る。
+  - 現コンビ結成前は水本は「フーリッシュボム」というコンビを組んで活動、マコトは相方募集サイトで出会った谷本和之（カズ）と出会い、「Gyu-Guts」というコンビ組んで主に[ミナミ](https://ja.wikipedia.org/wiki/ミナミ "wikilink")・[梅田](../Page/梅田.md "wikilink")・[京橋で路上漫才をしていたが](../Page/京橋_\(大阪市\).md "wikilink")、マコトが水本を勧誘しコンビを結成。当初、マコトは「限定的なユニットで構わないのでコンビを組みませんか？」と水本を誘ったが、「それなら正式なコンビにしよう」という水本の提案で現在に至る。
   - 現在の[出囃子は](https://ja.wikipedia.org/wiki/出囃子_\(お笑い\) "wikilink")[Ken Yokoyamaの](../Page/横山健.md "wikilink")「Ten Years from Now」。以前は[DA PUMP](../Page/DA_PUMP.md "wikilink")「[Crazy Beat Goes On\!](https://ja.wikipedia.org/wiki/Crazy_Beat_Goes_On! "wikilink")」を使用していた。
   - [2009年](../Page/2009年.md "wikilink")7月よりワラbに出演していたが、後にオーディションTryメンバーに降格。
   - [2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")より2代目の大阪府住みます芸人に就任。

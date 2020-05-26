@@ -9,7 +9,7 @@
 
 ## 解説
 
-前作に引き続き、全編に[EXOTICSを従えたアルバム](../Page/エキゾティクス.md "wikilink")。音楽性も前作の延長線上にある、[ロックンロール](../Page/ロックンロール.md "wikilink")色の強い作品。楽曲制作陣には、当時まだデビュー前の[大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink")の楽曲を大きく取り上げており、先行シングルとなった「"おまえにチェックイン"」も大沢の作品。大沢はこの時期、沢田以外のミュージシャンにも楽曲を多数提供しており「デビュー前に百万枚売った男」と言われた。他に作詞は三浦徳子と初共演の柳川英巳、[売野雅勇](../Page/売野雅勇.md "wikilink")、木下恵介（映画監督の[木下惠介](../Page/木下惠介.md "wikilink")とは別人と思われる）を迎え、作曲では大沢、[加瀬邦彦](../Page/加瀬邦彦.md "wikilink")、[伊藤銀次](../Page/伊藤銀次.md "wikilink")の他に初共演の[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")、[佐藤健を迎えており](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")、[佐野元春](../Page/佐野元春.md "wikilink")が1曲で作詞、作曲を手がけている。編曲は伊藤、[後藤次利](../Page/後藤次利.md "wikilink")とEXOTICSの[吉田建](../Page/吉田建.md "wikilink")。
+前作に引き続き、全編に[EXOTICSを従えたアルバム](../Page/エキゾティクス.md "wikilink")。音楽性も前作の延長線上にある、[ロックンロール](../Page/ロックンロール.md "wikilink")色の強い作品。楽曲制作陣には、当時まだデビュー前の[大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink")の楽曲を大きく取り上げており、先行シングルとなった「"おまえにチェックイン"」も大沢の作品。大沢はこの時期、沢田以外のミュージシャンにも楽曲を多数提供しており「デビュー前に百万枚売った男」と言われた。他に作詞は三浦徳子と初共演の柳川英巳、[売野雅勇](../Page/売野雅勇.md "wikilink")、木下恵介（映画監督の[木下惠介](../Page/木下惠介.md "wikilink")とは別人と思われる）を迎え、作曲では大沢、[加瀬邦彦](../Page/加瀬邦彦.md "wikilink")、[伊藤銀次](../Page/伊藤銀次.md "wikilink")の他に初共演の[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")、[佐藤健を迎えており](../Page/佐藤健_\(作曲家\).md "wikilink")、[佐野元春](../Page/佐野元春.md "wikilink")が1曲で作詞、作曲を手がけている。編曲は伊藤、[後藤次利](../Page/後藤次利.md "wikilink")とEXOTICSの[吉田建](../Page/吉田建.md "wikilink")。
 
 ## 収録曲
 

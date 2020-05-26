@@ -37,7 +37,7 @@
   - [globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")（アルバムバージョン）
   - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")（アルバムバージョン）
   - [8 Years ～Many Classic Moments～](https://ja.wikipedia.org/wiki/8_Years_～Many_Classic_Moments～ "wikilink")
-  - [Ballads & Memories](https://ja.wikipedia.org/wiki/Ballads_&_Memories "wikilink")（ARRIVAL version）
+  - [Ballads & Memories](../Page/Ballads_&_Memories.md "wikilink")（ARRIVAL version）
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
   - [\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")（COVER+BEST盤のみ短縮バージョンを収録）
@@ -46,7 +46,7 @@
 
 音源として発売された[カバー](../Page/カバー.md "wikilink")楽曲を挙げる（[セルフカバー](../Page/セルフカバー.md "wikilink")を含む）。
 
-  - [globe](https://ja.wikipedia.org/wiki/globe "wikilink") - ベスト盤『[Ballads & Memories](https://ja.wikipedia.org/wiki/Ballads_&_Memories "wikilink")』（2002/12/26）に「DEPARTURES（ARRIVAL version）」として
+  - [globe](https://ja.wikipedia.org/wiki/globe "wikilink") - ベスト盤『[Ballads & Memories](../Page/Ballads_&_Memories.md "wikilink")』（2002/12/26）に「DEPARTURES（ARRIVAL version）」として
   - [デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") - アルバム『[GIRLS' ROCK 〜Tiara〜](https://ja.wikipedia.org/wiki/GIRLS'_ROCK_〜Tiara〜 "wikilink")』（[魔暦](../Page/魔暦.md "wikilink")11年/2009/2/11）
   - [Spontania](../Page/Spontania.md "wikilink") - シングル『DEPARTURES』（2010/11/10）、アルバム『スポンテニア』（2010/12/15）
   - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink") - シングル『[PARADISE/Endless Fighters](https://ja.wikipedia.org/wiki/PARADISE/Endless_Fighters "wikilink")』ジャケットCのみ（2010/11/17）、アルバム『[Buzz Communication](https://ja.wikipedia.org/wiki/Buzz_Communication "wikilink")』mu-moショップ限定盤のみ（2011/2/16）

@@ -1192,7 +1192,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1967年.md" title="wikilink">1967年</a></p></td>
 <td><p><strong><a href="../Page/ボブ・ヒューイット.md" title="wikilink">ボブ・ヒューイット</a></strong><br />
- <strong><a href="https://ja.wikipedia.org/wiki/フルー・マクミラン" title="wikilink">フルー・マクミラン</a></strong></p></td>
+ <strong><a href="../Page/フルー・マクミラン.md" title="wikilink">フルー・マクミラン</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オーウェン・デビッドソン" title="wikilink">オーウェン・デビッドソン</a><br />
  <a href="../Page/ビル・ボウリー.md" title="wikilink">ビル・ボウリー</a></p></td>
 <td><p>6-3, 2-6, 6-3, 9-7</p></td>
@@ -1234,7 +1234,7 @@
 <td><p><strong><a href="../Page/イリ・ナスターゼ.md" title="wikilink">イリ・ナスターゼ</a></strong><br />
  <strong><a href="https://ja.wikipedia.org/wiki/イオン・ティリアック" title="wikilink">イオン・ティリアック</a></strong></p></td>
 <td><p><a href="../Page/ルー・ホード.md" title="wikilink">ルー・ホード</a><br />
- <a href="https://ja.wikipedia.org/wiki/フルー・マクミラン" title="wikilink">フルー・マクミラン</a></p></td>
+ <a href="../Page/フルー・マクミラン.md" title="wikilink">フルー・マクミラン</a></p></td>
 <td><p>3-6, 3-6, 6-4, 6-4, 5-3（途中棄権）</p></td>
 </tr>
 <tr class="odd">
@@ -1434,7 +1434,7 @@
 <td><p><strong><a href="../Page/ダニエル・ネスター.md" title="wikilink">ダニエル・ネスター</a></strong><br />
  <strong><a href="../Page/マーク・ノールズ.md" title="wikilink">マーク・ノールズ</a></strong></p></td>
 <td><p><a href="../Page/バイロン・ブラック.md" title="wikilink">バイロン・ブラック</a><br />
- <a href="https://ja.wikipedia.org/wiki/アレックス・オブライエン" title="wikilink">アレックス・オブライエン</a></p></td>
+ <a href="../Page/アレックス・オブライエン.md" title="wikilink">アレックス・オブライエン</a></p></td>
 <td><p>6-3, 4-6, 7-5</p></td>
 </tr>
 <tr class="even">
@@ -2458,7 +2458,7 @@
 <td><p><a href="../Page/1967年.md" title="wikilink">1967年</a></p></td>
 <td><p><strong><a href="../Page/ビル・ボウリー.md" title="wikilink">ビル・ボウリー</a></strong><br />
  <strong><a href="../Page/レスリー・ターナー.md" title="wikilink">レスリー・ターナー</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フルー・マクミラン" title="wikilink">フルー・マクミラン</a><br />
+<td><p><a href="../Page/フルー・マクミラン.md" title="wikilink">フルー・マクミラン</a><br />
  <a href="../Page/フランソワーズ・デュール.md" title="wikilink">フランソワーズ・デュール</a></p></td>
 <td><p>6-2, 7-5</p></td>
 </tr>

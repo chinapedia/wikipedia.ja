@@ -108,7 +108,7 @@
 <!-- end list -->
 
   -
-    レサス軍が誇る超大型戦略飛行艇。その名は[北欧神話](../Page/北欧神話.md "wikilink")に登場する[フェンリル](../Page/フェンリル.md "wikilink")を拘束するための魔法の紐[グレイプニル](https://ja.wikipedia.org/wiki/グレイプニル "wikilink")に由来する。緒戦に於けるオーレリア軍敗退の主たる要因である。[光学迷彩](https://ja.wikipedia.org/wiki/光学迷彩 "wikilink")や空域制圧用衝撃波[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")「SWBM」、近距離衝撃波砲「ショックカノン」などの特殊兵装を有する。
+    レサス軍が誇る超大型戦略飛行艇。その名は[北欧神話](../Page/北欧神話.md "wikilink")に登場する[フェンリル](../Page/フェンリル.md "wikilink")を拘束するための魔法の紐[グレイプニル](https://ja.wikipedia.org/wiki/グレイプニル "wikilink")に由来する。緒戦に於けるオーレリア軍敗退の主たる要因である。[光学迷彩](../Page/光学迷彩.md "wikilink")や空域制圧用衝撃波[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")「SWBM」、近距離衝撃波砲「ショックカノン」などの特殊兵装を有する。
 
   - フェンリア（Fenrir）
 

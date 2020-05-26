@@ -1,7 +1,7 @@
 > この記事は[QNX](https://ja.wikipedia.org/wiki/QNX)から翻訳されています。
 
 
-**QNX**（キューエヌエックス、またはキューニックスと発音）は商用の[リアルタイム](../Page/リアルタイムオペレーティングシステム.md "wikilink")[Unix系](../Page/Unix系.md "wikilink")オペレーティングシステムであり、[POSIX](../Page/POSIX.md "wikilink")と[POSIX 1003.1bに対応している](https://ja.wikipedia.org/wiki/POSIX_1003.1b "wikilink")。主に[組み込みシステム](../Page/組み込みシステム.md "wikilink")向けに販売されている。元々はカナダの企業QNXソフトウェアシステムズが開発していたが、同社は後にリサーチ・イン・モーション（現[ブラックベリー](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")）が取得した。
+**QNX**（キューエヌエックス、またはキューニックスと発音）は商用の[リアルタイム](../Page/リアルタイムオペレーティングシステム.md "wikilink")[Unix系](../Page/Unix系.md "wikilink")オペレーティングシステムであり、[POSIX](../Page/POSIX.md "wikilink")と[POSIX 1003.1bに対応している](https://ja.wikipedia.org/wiki/POSIX_1003.1b "wikilink")。主に[組み込みシステム](../Page/組み込みシステム.md "wikilink")向けに販売されている。元々はカナダの企業QNXソフトウェアシステムズが開発していたが、同社は後にリサーチ・イン・モーション（現[ブラックベリー](../Page/ブラックベリー_\(企業\).md "wikilink")）が取得した。
 
 ## 詳細
 
@@ -13,7 +13,7 @@ QNXのシステムは非常に小さく、[フロッピーディスク](../Page/
 
 2007年9月12日、非商用利用のためのライセンスも用意するようになった。
 
-QNXを現在所有しているのは[ブラックベリーであり](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")、同社の[タブレットコンピュータ用](../Page/タブレット_\(コンピュータ\).md "wikilink")[モバイルOSの](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")[BlackBerry Tablet OSおよび](https://ja.wikipedia.org/wiki/BlackBerry_Tablet_OS "wikilink")[BlackBerry 10はQNXベースである](https://ja.wikipedia.org/wiki/BlackBerry_10 "wikilink")。
+QNXを現在所有しているのは[ブラックベリーであり](../Page/ブラックベリー_\(企業\).md "wikilink")、同社の[タブレットコンピュータ用](../Page/タブレット_\(コンピュータ\).md "wikilink")[モバイルOSの](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")[BlackBerry Tablet OSおよび](https://ja.wikipedia.org/wiki/BlackBerry_Tablet_OS "wikilink")[BlackBerry 10はQNXベースである](https://ja.wikipedia.org/wiki/BlackBerry_10 "wikilink")。
 
 ## 歴史
 

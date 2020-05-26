@@ -15,7 +15,7 @@
 
 AV女優3人によるアイドルユニット・[RaCCo組](https://ja.wikipedia.org/wiki/RaCCo組 "wikilink")の末期に参加。また、ソロで[シングル](../Page/シングル.md "wikilink")を1枚リリースしている。
 
-AV引退後は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")や声優を目指していたようで、成年向けコミック誌に漫画が何度か掲載されたことがある。また、[ウルトラマンロビン](../Page/ウルトラマンロビン.md "wikilink")率いるプロレス団体[SGPのイベントに](../Page/SGP_\(プロレス\).md "wikilink")[京本政樹](../Page/京本政樹.md "wikilink")と共に幾度か出演している。
+AV引退後は[漫画家](../Page/漫画家.md "wikilink")や声優を目指していたようで、成年向けコミック誌に漫画が何度か掲載されたことがある。また、[ウルトラマンロビン](../Page/ウルトラマンロビン.md "wikilink")率いるプロレス団体[SGPのイベントに](../Page/SGP_\(プロレス\).md "wikilink")[京本政樹](../Page/京本政樹.md "wikilink")と共に幾度か出演している。
 
 なお、『[ラ・セーヌの星](../Page/ラ・セーヌの星.md "wikilink")』で有名な漫画家の[森村あすかとは関係ない](https://ja.wikipedia.org/wiki/森村あすか_\(漫画家\) "wikilink")。
 

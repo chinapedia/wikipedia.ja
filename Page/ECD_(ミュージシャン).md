@@ -105,12 +105,12 @@
       - 10\. Straight outta 138
   - Filastine『LOOT』（2012年）
       - 4\. Lost Records (with ECD)
-  - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")『THE ORIGINAL II』（2012年）
+  - [DJ PMX](../Page/DJ_PMX.md "wikilink")『THE ORIGINAL II』（2012年）
       - 10.Three The Hard Way feat. [宇多丸](../Page/宇多丸.md "wikilink") ([RHYMESTER](../Page/RHYMESTER.md "wikilink")), [高木完](../Page/高木完.md "wikilink"), ECD
   - [SOAKUBEATS](https://ja.wikipedia.org/wiki/SOAKUBEATS "wikilink")『NEVER PAY 4 MUSIC』（2012年）
       - 4\. ラップごっこはこれでおしまい feat. ECD
   - [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")『加山雄三の新世界』（2017年）
-      - 8\. [君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink") (Together Forever Mix) feat. ECD x DJ Mitsu the Beats
+      - 8\. [君といつまでも](../Page/君といつまでも.md "wikilink") (Together Forever Mix) feat. ECD x DJ Mitsu the Beats
 
 ### オムニバス参加
 

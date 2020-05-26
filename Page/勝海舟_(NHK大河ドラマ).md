@@ -25,7 +25,7 @@
   - [島田虎之助](../Page/島田虎之助.md "wikilink")：[垂水悟郎](../Page/垂水悟郎.md "wikilink")
       -
         海舟の剣術の師匠。実直な性格で開明的な考えにも理解を示す。
-  - [杉純道](https://ja.wikipedia.org/wiki/杉亨二 "wikilink")：[江守徹](../Page/江守徹.md "wikilink")
+  - [杉純道](../Page/杉亨二.md "wikilink")：[江守徹](../Page/江守徹.md "wikilink")
   - [高野長英](../Page/高野長英.md "wikilink")：[戸浦六宏](../Page/戸浦六宏.md "wikilink")
   - [佐久間象山](https://ja.wikipedia.org/wiki/佐久間象山 "wikilink")：[米倉斉加年](../Page/米倉斉加年.md "wikilink")
   - [佐久間恪二郎](../Page/三浦啓之助.md "wikilink")：[木下清](https://ja.wikipedia.org/wiki/木下清 "wikilink")

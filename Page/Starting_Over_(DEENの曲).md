@@ -21,7 +21,7 @@
 ## 収録アルバム
 
   - 『[Diamonds](../Page/Diamonds_\(DEENのアルバム\).md "wikilink")』(\#1)
-  - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』(\#3)
+  - 『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』(\#3)
   - 『[DEEN PERFECT SINGLES +](https://ja.wikipedia.org/wiki/DEEN_PERFECT_SINGLES_+ "wikilink")』(\#1)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#2)
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』(\#1)

@@ -1,7 +1,7 @@
 > この記事は[ヨシモトファンダンゴTV](https://ja.wikipedia.org/wiki/ヨシモトファンダンゴTV)から翻訳されています。
 
 
-**ヨシモトファンダンゴTV**（ヨシモトファンダンゴテレビ）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")系列会社の[よしもとファンダンゴ](https://ja.wikipedia.org/wiki/よしもとファンダンゴ "wikilink")が運営していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")。[スカパー\!と一部の](../Page/スカパー!プレミアムサービス.md "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で放送されていた。略称はファンダンゴTV、YFTV。
+**ヨシモトファンダンゴTV**（ヨシモトファンダンゴテレビ）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")系列会社の[よしもとファンダンゴ](../Page/よしもとファンダンゴ.md "wikilink")が運営していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")。[スカパー\!と一部の](../Page/スカパー!プレミアムサービス.md "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で放送されていた。略称はファンダンゴTV、YFTV。
 
 ## 概要
 

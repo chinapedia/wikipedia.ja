@@ -77,7 +77,7 @@
 
 :\*合体魔神レイアース / プリメーラ
 
-  - [こばと。](https://ja.wikipedia.org/wiki/こばと。 "wikilink")
+  - [こばと。](../Page/こばと。.md "wikilink")
 
 :\*花戸小鳩 / いおりょぎ
 

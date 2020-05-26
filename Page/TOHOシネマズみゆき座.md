@@ -103,7 +103,7 @@ Screen13</p></td>
   - 2007年9月 - [西遊記](../Page/西遊記_\(2007年の映画\).md "wikilink")（スカラ座(現・[TOHOシネマズスカラ座](../Page/TOHOシネマズスカラ座.md "wikilink"))上映後のムーブオーバー作品）、[デス・プルーフ in グラインドハウス](../Page/デス・プルーフ_in_グラインドハウス.md "wikilink")&[プラネット・テラー in グラインドハウス](../Page/プラネット・テラー_in_グラインドハウス.md "wikilink")
   - 2007年11月 - [HERO](../Page/HERO_\(2007年の映画\).md "wikilink")（[TOHOシネマズスカラ座](../Page/TOHOシネマズスカラ座.md "wikilink")上映後のムーブオーバー作品）
   - 2007年12月 - [スマイル 聖夜の奇跡](../Page/スマイル_聖夜の奇跡.md "wikilink")
-  - 2008年1月 - [ALWAYS 続・三丁目の夕日](https://ja.wikipedia.org/wiki/ALWAYS_続・三丁目の夕日 "wikilink")（日劇2(現・[TOHOシネマズ日劇](../Page/TOHOシネマズ日劇.md "wikilink")スクリーン2)上映後の有楽座(現・[TOHOシネマズ有楽座](../Page/TOHOシネマズ有楽座.md "wikilink"))からのムーブオーバー作品）、[Mr.ビーン カンヌで大迷惑?\!](https://ja.wikipedia.org/wiki/Mr.ビーン_カンヌで大迷惑?! "wikilink")
+  - 2008年1月 - [ALWAYS 続・三丁目の夕日](../Page/ALWAYS_続・三丁目の夕日.md "wikilink")（日劇2(現・[TOHOシネマズ日劇](../Page/TOHOシネマズ日劇.md "wikilink")スクリーン2)上映後の有楽座(現・[TOHOシネマズ有楽座](../Page/TOHOシネマズ有楽座.md "wikilink"))からのムーブオーバー作品）、[Mr.ビーン カンヌで大迷惑?\!](https://ja.wikipedia.org/wiki/Mr.ビーン_カンヌで大迷惑?! "wikilink")
   - 2008年2月 - [アース](../Page/アース_\(2007年の映画\).md "wikilink")（[TOHOシネマズスカラ座](../Page/TOHOシネマズスカラ座.md "wikilink")上映後のムーブオーバー作品）、[いつか眠りにつく前に](../Page/いつか眠りにつく前に.md "wikilink")
   - 2008年3月 - [燃えよ\!ピンポン](../Page/燃えよ!ピンポン.md "wikilink")
   - 2008年8月 - [インディ・ジョーンズ/クリスタル・スカルの王国](https://ja.wikipedia.org/wiki/インディ・ジョーンズ/クリスタル・スカルの王国 "wikilink")（[TOHOシネマズ日劇](../Page/TOHOシネマズ日劇.md "wikilink")スクリーン1上映後のムーブオーバー作品）
@@ -160,7 +160,7 @@ Screen13</p></td>
 
 :\*2011年6月 - [第三の男](../Page/第三の男.md "wikilink")、[十二人の怒れる男](https://ja.wikipedia.org/wiki/十二人の怒れる男#映画版 "wikilink")、[激突\!](../Page/激突!.md "wikilink")、[羊たちの沈黙](../Page/羊たちの沈黙_\(映画\).md "wikilink")
 
-:\*2011年7月 - [薔薇の名前](../Page/薔薇の名前.md "wikilink")、[ライトスタッフ](../Page/ライトスタッフ.md "wikilink")、[ミクロの決死圏](../Page/ミクロの決死圏.md "wikilink")、[パピヨン](https://ja.wikipedia.org/wiki/パピヨン_\(1973年の映画\) "wikilink")、[ブリット](../Page/ブリット.md "wikilink")
+:\*2011年7月 - [薔薇の名前](../Page/薔薇の名前.md "wikilink")、[ライトスタッフ](../Page/ライトスタッフ.md "wikilink")、[ミクロの決死圏](../Page/ミクロの決死圏.md "wikilink")、[パピヨン](../Page/パピヨン_\(1973年の映画\).md "wikilink")、[ブリット](../Page/ブリット.md "wikilink")
 
 :\*2011年8月 - [ウエスト・サイド物語](../Page/ウエスト・サイド物語_\(映画\).md "wikilink")、[雨に唄えば](../Page/雨に唄えば.md "wikilink")、[アラビアのロレンス](../Page/アラビアのロレンス.md "wikilink")、[ベン・ハー](../Page/ベン・ハー.md "wikilink")
 
@@ -204,7 +204,7 @@ Screen13</p></td>
 
 :\*2012年8月 - [E.T. 20周年アニバーサリー特別版](https://ja.wikipedia.org/wiki/E.T.#20周年記念特別版 "wikilink")、[シザーハンズ](../Page/シザーハンズ.md "wikilink")、[バック・トゥ・ザ・フューチャー](../Page/バック・トゥ・ザ・フューチャー.md "wikilink")、[アメリカン・グラフィティ](../Page/アメリカン・グラフィティ.md "wikilink")
 
-:\*2012年9月 - [情婦](https://ja.wikipedia.org/wiki/情婦_\(映画\) "wikilink")、[サンセット大通り](../Page/サンセット大通り_\(映画\).md "wikilink")、[レベッカ](../Page/レベッカ_\(映画\).md "wikilink")、[鳥](../Page/鳥_\(映画\).md "wikilink")、[エイリアン](../Page/エイリアン_\(映画\).md "wikilink")
+:\*2012年9月 - [情婦](../Page/情婦_\(映画\).md "wikilink")、[サンセット大通り](../Page/サンセット大通り_\(映画\).md "wikilink")、[レベッカ](../Page/レベッカ_\(映画\).md "wikilink")、[鳥](../Page/鳥_\(映画\).md "wikilink")、[エイリアン](../Page/エイリアン_\(映画\).md "wikilink")
 
 :\*2012年10月 - [キャリー](../Page/キャリー_\(1976年の映画\).md "wikilink")、[荒野の七人](../Page/荒野の七人.md "wikilink")、[荒野の用心棒](../Page/荒野の用心棒.md "wikilink")、[シェーン](../Page/シェーン.md "wikilink")
 
@@ -310,7 +310,7 @@ Screen13</p></td>
   - 1978年10月 - [愛の亡霊](https://ja.wikipedia.org/wiki/愛の亡霊 "wikilink")
   - 1979年3月 - [限りなく透明に近いブルー](../Page/限りなく透明に近いブルー.md "wikilink")
   - 1979年7月 - [指輪物語](../Page/指輪物語_\(前編\).md "wikilink")
-  - 1980年9月 - [オール・ザット・ジャズ](https://ja.wikipedia.org/wiki/オール・ザット・ジャズ "wikilink")
+  - 1980年9月 - [オール・ザット・ジャズ](../Page/オール・ザット・ジャズ.md "wikilink")
   - 1981年2月 - [ウディ・アレンの誰でも知りたがっているくせにちょっと聞きにくいSEXのすべてについて教えましょう](https://ja.wikipedia.org/wiki/ウディ・アレンの誰でも知りたがっているくせにちょっと聞きにくいSEXのすべてについて教えましょう "wikilink")
   - 1981年3月 - [普通の人々](../Page/普通の人々.md "wikilink")
   - 1981年5月 - [9時から5時まで](https://ja.wikipedia.org/wiki/9時から5時まで "wikilink")
@@ -368,7 +368,7 @@ Screen13</p></td>
   - 1995年5月 - [プレタポルテ](../Page/プレタポルテ_\(映画\).md "wikilink")
   - 1995年10月 - [キャンプで逢いましょう](../Page/キャンプで逢いましょう.md "wikilink")
   - 1995年11月 - [チャタレイ夫人の恋人](../Page/チャタレイ夫人の恋人.md "wikilink")
-  - 1995年12月 - [あなたが寝てる間に…](https://ja.wikipedia.org/wiki/あなたが寝てる間に… "wikilink")
+  - 1995年12月 - [あなたが寝てる間に…](../Page/あなたが寝てる間に….md "wikilink")
   - 1996年1月 - [ザ・インターネット](https://ja.wikipedia.org/wiki/ザ・インターネット "wikilink")
   - 1996年4月 - [陽のあたる教室](https://ja.wikipedia.org/wiki/陽のあたる教室 "wikilink")
   - 1996年4月 - [Shall we ダンス?](../Page/Shall_we_ダンス?.md "wikilink")

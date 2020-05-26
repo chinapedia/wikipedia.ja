@@ -9,7 +9,7 @@
 
 ### プロ入りとヤンキース時代
 
-ロス・アラミトス高校時代は後に再び同僚となる[ロブ・ネン](https://ja.wikipedia.org/wiki/ロブ・ネン "wikilink")と一緒にプレーした。[アリゾナ大学](../Page/アリゾナ大学.md "wikilink")在学時のの[MLBドラフトで](https://ja.wikipedia.org/wiki/1989年のMLBドラフト "wikilink")[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")から5巡目（全体127位）指名され、プロ入り。
+ロス・アラミトス高校時代は後に再び同僚となる[ロブ・ネン](../Page/ロブ・ネン.md "wikilink")と一緒にプレーした。[アリゾナ大学](../Page/アリゾナ大学.md "wikilink")在学時のの[MLBドラフトで](https://ja.wikipedia.org/wiki/1989年のMLBドラフト "wikilink")[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")から5巡目（全体127位）指名され、プロ入り。
 
 [9月20日](../Page/9月20日.md "wikilink")の[カンザスシティ・ロイヤルズ](../Page/カンザスシティ・ロイヤルズ.md "wikilink")戦でメジャーデビュー。
 

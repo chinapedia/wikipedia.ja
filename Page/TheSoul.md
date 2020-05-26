@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")、河野と村井の2人で結成。[2004年](../Page/2004年.md "wikilink")に現メンバーとなる。
 
-[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内の[キャナルシティ博多](../Page/キャナルシティ博多.md "wikilink")、[警固公園](https://ja.wikipedia.org/wiki/警固公園 "wikilink")などでストリートライヴを行い、多くの聴衆を集めたことで、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")の『[ドォーモ](../Page/ドォーモ.md "wikilink")』でも紹介されたことがあった。その後[2005年](../Page/2005年.md "wikilink")2月に[東京](../Page/東京.md "wikilink")に活動の中心を移すため上京。[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")周辺から東京でのストリートライヴを始め、ここでも300人を超すなど多くの観客を集めた。
+[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内の[キャナルシティ博多](../Page/キャナルシティ博多.md "wikilink")、[警固公園](../Page/警固公園.md "wikilink")などでストリートライヴを行い、多くの聴衆を集めたことで、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")の『[ドォーモ](../Page/ドォーモ.md "wikilink")』でも紹介されたことがあった。その後[2005年](../Page/2005年.md "wikilink")2月に[東京](../Page/東京.md "wikilink")に活動の中心を移すため上京。[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")周辺から東京でのストリートライヴを始め、ここでも300人を超すなど多くの観客を集めた。
 
 [2006年](../Page/2006年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[Zepp Fukuokaでワンマンライブを行う](https://ja.wikipedia.org/wiki/Zepp_Fukuoka "wikilink")。同年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[東芝EMIより](../Page/EMIミュージック・ジャパン.md "wikilink")「誰も知らない歌」でメジャーデビュー。
 

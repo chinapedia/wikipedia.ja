@@ -1,7 +1,7 @@
 > この記事は[中村K太郎](https://ja.wikipedia.org/wiki/中村K太郎)から翻訳されています。
 
 
-**中村 K太郎**（なかむら けいたろう、[1984年](../Page/1984年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。本名は**中村 圭太**（なかむら けいた）。[東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身。[和術慧舟會](../Page/和術慧舟會.md "wikilink")K太郎道場所属。元[DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink")[ウェルター級](../Page/ウェルター級.md "wikilink")王者。[SRCウェルター級グランプリシリーズ](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")2010王者。
+**中村 K太郎**（なかむら けいたろう、[1984年](../Page/1984年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")。本名は**中村 圭太**（なかむら けいた）。[東京都](../Page/東京都.md "wikilink")[葛飾区](https://ja.wikipedia.org/wiki/葛飾区 "wikilink")出身。[和術慧舟會](../Page/和術慧舟會.md "wikilink")K太郎道場所属。元[DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink")[ウェルター級](../Page/ウェルター級.md "wikilink")王者。[SRCウェルター級グランプリシリーズ](../Page/SENGOKU_RAIDEN_CHAMPIONSHIP.md "wikilink")2010王者。
 
 ## 来歴
 
@@ -98,7 +98,7 @@ Twitterで自身の誕生日2013年5月22日に入籍したことを発表。同
   - [アブダビコンバット](../Page/アブダビコンバット.md "wikilink")アジア予選 77kg未満級 優勝（2009年）
   - Gi2009 グラップリング部門 優勝（2009年）
   - [DEEP](../Page/DEEP_\(格闘技団体\).md "wikilink") X リアルキングトーナメント ミドル超級 優勝（2010年）
-  - [SRC](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")[ウェルター級](../Page/ウェルター級.md "wikilink")グランプリシリーズ2010 優勝（2010年）
+  - [SRC](../Page/SENGOKU_RAIDEN_CHAMPIONSHIP.md "wikilink")[ウェルター級](../Page/ウェルター級.md "wikilink")グランプリシリーズ2010 優勝（2010年）
   - 第8代[DEEPウェルター級王座](../Page/DEEP_\(格闘技団体\).md "wikilink")（2015年）
 
 ## 表彰

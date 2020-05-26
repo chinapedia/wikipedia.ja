@@ -346,7 +346,7 @@
       - 8月上旬：[わっしょいYOSAKOI北九州](https://ja.wikipedia.org/wiki/わっしょいYOSAKOI北九州 "wikilink")（[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")） - 「[わっしょい百万夏まつり](../Page/わっしょい百万夏まつり.md "wikilink")」の構成要素の1つ
       - 8月下旬：[関門よさこい大会](https://ja.wikipedia.org/wiki/関門よさこい大会 "wikilink")（北九州市） - 関門海峡を挟んで[山口県](../Page/山口県.md "wikilink")[下関市](../Page/下関市.md "wikilink")との2会場で開催
       - 11月中旬：[ふくこいアジア祭り](https://ja.wikipedia.org/wiki/ふくこいアジア祭り "wikilink")（[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）
-      - 10月上旬：[YOSAKOIかすや祭り](https://ja.wikipedia.org/wiki/YOSAKOIかすや祭り "wikilink")（[粕屋町](https://ja.wikipedia.org/wiki/粕屋町 "wikilink")）
+      - 10月上旬：[YOSAKOIかすや祭り](https://ja.wikipedia.org/wiki/YOSAKOIかすや祭り "wikilink")（[粕屋町](../Page/粕屋町.md "wikilink")）
       - 10月下旬：[YOSAKOIさせぼ祭り](../Page/YOSAKOIさせぼ祭り.md "wikilink")（[佐世保市](../Page/佐世保市.md "wikilink")）
 
 <!-- end list -->

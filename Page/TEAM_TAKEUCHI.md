@@ -136,7 +136,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年のSUPER_GT" title="wikilink">2008年</a></p></td>
+<td><p><a href="../Page/2008年のSUPER_GT.md" title="wikilink">2008年</a></p></td>
 <td><p><a href="../Page/レクサス・IS.md" title="wikilink">レクサス・IS</a>350</p></td>
 <td><p><a href="../Page/黒澤琢弥.md" title="wikilink">黒澤琢弥</a><br />
  <a href="https://ja.wikipedia.org/wiki/井口卓人" title="wikilink">井口卓人</a><br />

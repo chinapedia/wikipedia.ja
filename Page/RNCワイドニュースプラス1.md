@@ -3,7 +3,7 @@
 
 『**RNCワイドニュースプラス1**』（アールエヌシーワイドニュースプラスワン）は、[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[西日本放送で放送されていたローカル](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")のローカルニュースを伝えていた一方で料理コーナーも設けるなど、[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")としての側面も併せ持っていた。
 
-2006年4月3日、[日本テレビ発の夕方のニュースが](../Page/日本テレビ放送網.md "wikilink")『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』から『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』へ移行するのに合わせ、この番組も『[RNC Newsリアルタイム](../Page/RNC_Newsリアルタイム.md "wikilink")』と改題リニューアルした。
+2006年4月3日、[日本テレビ発の夕方のニュースが](../Page/日本テレビ放送網.md "wikilink")『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』から『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』へ移行するのに合わせ、この番組も『[RNC Newsリアルタイム](../Page/RNC_Newsリアルタイム.md "wikilink")』と改題リニューアルした。
 
 ## 放送時間の変遷
 

@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より[宙出版](../Page/宙出版.md "wikilink")の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[アップルミステリー](https://ja.wikipedia.org/wiki/アップルミステリー "wikilink")」で連載開始。しかし1998年に同誌が休刊。以降は[ぶんか社](../Page/ぶんか社.md "wikilink")の月刊漫画雑誌「[ホラーM](https://ja.wikipedia.org/wiki/ホラーM "wikilink")」で連載されていた。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より[宙出版](../Page/宙出版.md "wikilink")の[月刊](https://ja.wikipedia.org/wiki/月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")「[アップルミステリー](https://ja.wikipedia.org/wiki/アップルミステリー "wikilink")」で連載開始。しかし1998年に同誌が休刊。以降は[ぶんか社](../Page/ぶんか社.md "wikilink")の月刊漫画雑誌「[ホラーM](https://ja.wikipedia.org/wiki/ホラーM "wikilink")」で連載されていた。
 
 [1999年](../Page/1999年.md "wikilink")3月に[アニメ化](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")され、[TBSの](../Page/TBSテレビ.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")である『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』枠内で放送された。
 

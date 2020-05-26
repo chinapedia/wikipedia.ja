@@ -345,7 +345,7 @@ MH-6 (RACS)</p></td>
 AV-8B (GBU)<br />
 <a href="../Page/A-10_(航空機).md" title="wikilink">A-10</a><br />
 <a href="../Page/ソッピース_キャメル.md" title="wikilink">Camel</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Su-34_(航空機)" title="wikilink">Su-34</a><br />
+<td><p><a href="../Page/Su-34_(航空機).md" title="wikilink">Su-34</a><br />
 Su-34B<br />
 Camel E</p></td>
 <td></td>

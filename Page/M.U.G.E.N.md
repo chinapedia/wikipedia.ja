@@ -13,7 +13,7 @@ M.U.G.E.N本体には、**Kung Fu Man**\[2\]という[カンフー](https://ja.w
 
 [2007年](../Page/2007年.md "wikilink")、異なるハック版でステージとキャラクター選択画面の高解像度表示がサポートされた。
 
-2007年半ば、Elecbyte公式サイトは復活した。初めは[Google AdSenseのみが表示されており正統性を疑う声もあったが](https://ja.wikipedia.org/wiki/Google_AdSense "wikilink")、[7月26日](../Page/7月26日.md "wikilink")にFAQが追加された。このFAQでは、M.U.G.E.Nの次期メジャーリリースの前に、Windows版の修正版を公開するつもりだと書かれていた。
+2007年半ば、Elecbyte公式サイトは復活した。初めは[Google AdSenseのみが表示されており正統性を疑う声もあったが](../Page/Google_AdSense.md "wikilink")、[7月26日](../Page/7月26日.md "wikilink")にFAQが追加された。このFAQでは、M.U.G.E.Nの次期メジャーリリースの前に、Windows版の修正版を公開するつもりだと書かれていた。
 
 [2009年](../Page/2009年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に公式サイトにて新バージョン、**M.U.G.E.N 1.0**が公開された。実に7年ぶりの更新となる\[3\]。そして2011年1月18日、遂にM.U.G.E.N 1.0が完成した。
 

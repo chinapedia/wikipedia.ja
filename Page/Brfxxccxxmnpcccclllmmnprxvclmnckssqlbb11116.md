@@ -15,7 +15,7 @@
 
 ## 関連項目
 
-  - [長大語](https://ja.wikipedia.org/wiki/長大語 "wikilink")
+  - [長大語](../Page/長大語.md "wikilink")
   - [寿限無](../Page/寿限無.md "wikilink")
   - [悪魔ちゃん命名騒動](https://ja.wikipedia.org/wiki/悪魔ちゃん命名騒動 "wikilink")
   - [キラキラネーム](https://ja.wikipedia.org/wiki/キラキラネーム "wikilink")

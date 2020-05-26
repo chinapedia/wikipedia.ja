@@ -11,7 +11,7 @@
 
 ## 放送時間
 
-  - 平日 17:50 - 19:00 （『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』を内包）
+  - 平日 17:50 - 19:00 （『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』を内包）
   - 土曜 17:50 - 18:00
 
 ## キャスター

@@ -1353,7 +1353,7 @@
   - MF [マルシオ・リシャルデス](https://ja.wikipedia.org/wiki/マルシオ・リシャルデス・デ・アンドラージ "wikilink") (2007年-2010年、)
   - FW [アレッサンドロ](https://ja.wikipedia.org/wiki/アレッサンドロ・ヌネス "wikilink") (2008年、)
   - FW [ダヴィ](../Page/ダヴィ・ロドリゲス・デ・ジェズス.md "wikilink") (2008年、)
-  - DF [マイケル・ジェームズ](https://ja.wikipedia.org/wiki/フィッツジェラルド舞行龍ジェームズ "wikilink") (2008年、→日本)
+  - DF [マイケル・ジェームズ](../Page/フィッツジェラルド舞行龍ジェームズ.md "wikilink") (2008年、→日本)
   - MF [アウグスト](../Page/ルイス・アウグスト・オゾリオ・ハモン.md "wikilink") (2008年、)
   - DF [ジウトン](https://ja.wikipedia.org/wiki/ジウトン・ヒベイロ "wikilink") (2009年、)
   - FW [ペドロ・ジュニオール](https://ja.wikipedia.org/wiki/ペドロ・ビスポ・モレイラ・ジュニオール "wikilink") (2009年、)
@@ -1397,7 +1397,7 @@
   - FW [ファビオ](../Page/ファビオ・ロベルト・ゴメス・ネット.md "wikilink") (2020年-、)
   - FW [ペドロ・マンジー](../Page/ペドロ・マンジー.md "wikilink") (2020年-、)
 
-### [カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")
+### [カターレ富山](../Page/カターレ富山.md "wikilink")
 
   - DF [金明輝](../Page/金明輝.md "wikilink") (キン・ミョンヒ) (2008年-2010年、)
   - MF [姜鉉守](../Page/姜鉉守.md "wikilink") (カン・ヒョンス) (2008年-2010年、[朝鮮](../Page/朝鮮籍.md "wikilink"))
@@ -1590,7 +1590,7 @@
 
   - FW [ジョルジーニョ](../Page/ジョルジ・アントニオ・プチナッチ.md "wikilink") (1990年-1994年、)
   - GK [ディド](https://ja.wikipedia.org/wiki/ディド・ハーフナー "wikilink") (1992年-1994年、→日本)
-  - DF [ガルサ](https://ja.wikipedia.org/wiki/エジソン・ロドリゲス "wikilink") (1992年-1994年、)
+  - DF [ガルサ](../Page/エジソン・ロドリゲス.md "wikilink") (1992年-1994年、)
   - FW [リネカー](../Page/ゲーリー・リネカー.md "wikilink") (1993年-1994年、)
   - MF [ピッタ](https://ja.wikipedia.org/wiki/ピッタ "wikilink") (1993年、)
   - FW [エリベウトン](../Page/エリベウトン.md "wikilink") (1993年-1994年、)
@@ -1653,7 +1653,7 @@
 
 ### [FC岐阜](../Page/FC岐阜.md "wikilink")
 
-  - MF [李成浩](https://ja.wikipedia.org/wiki/李成浩 "wikilink") (リ・ソンホ) (2006年-2008年、[朝鮮](../Page/朝鮮籍.md "wikilink"))
+  - MF [李成浩](../Page/李成浩.md "wikilink") (リ・ソンホ) (2006年-2008年、[朝鮮](../Page/朝鮮籍.md "wikilink"))
   - FW [姜曉一](https://ja.wikipedia.org/wiki/姜曉一 "wikilink") (カン・ヒョイル) (2008年、)
   - MF [徐冠秀](https://ja.wikipedia.org/wiki/徐冠秀 "wikilink") (ソウ・クァンス) (2009年、)
   - FW [朴俊慶](https://ja.wikipedia.org/wiki/朴俊慶 "wikilink") (パク・チュンギョン) (2009年-2010年、)
@@ -1868,7 +1868,7 @@
 ### [セレッソ大阪](../Page/セレッソ大阪.md "wikilink")
 
   - DF [トニーニョ](../Page/アントニオ・ジョルジ・セシリオ・ソブリホ.md "wikilink") (1994年-1995年、)
-  - FW [マルキーニョス](https://ja.wikipedia.org/wiki/マルコ・アントニオ・ダ・シルバ "wikilink") (1994年-1996年、)
+  - FW [マルキーニョス](../Page/マルコ・アントニオ・ダ・シルバ.md "wikilink") (1994年-1996年、)
   - DF [ジュニオール](https://ja.wikipedia.org/wiki/アデマール・ダ・シルバ・ブラガ・ジュニオール "wikilink") (1995年、)
   - FW [バルデス](../Page/ホルヘ・ルイス・デリー・バルデス.md "wikilink") (1995年、)
   - GK [ジルマール](../Page/ジルマール・ルイス・リナルジ.md "wikilink") (1995年-1997年、)
@@ -2433,7 +2433,7 @@
 
 ### [V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")
 
-  - DF [マイケル・ジェームズ](https://ja.wikipedia.org/wiki/フィッツジェラルド舞行龍ジェームズ "wikilink") (2012年-2013年、→日本)
+  - DF [マイケル・ジェームズ](../Page/フィッツジェラルド舞行龍ジェームズ.md "wikilink") (2012年-2013年、→日本)
   - DF [呉昌炫](https://ja.wikipedia.org/wiki/呉昌ヒョン "wikilink") (オ・チャンヒョン) (2013年、)
   - DF [趙民宇](https://ja.wikipedia.org/wiki/趙民宇 "wikilink") (チョ・ミヌ) (2013年・2015年-2016年、)
   - MF [鄭薫聖](https://ja.wikipedia.org/wiki/鄭薫聖 "wikilink") (チョン・フンソン) (2013年-2014年、)

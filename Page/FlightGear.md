@@ -21,7 +21,7 @@
 
 ### 開発
 
-FlightGear本体は、[C++](../Page/C++.md "wikilink")を中心とした言語で記述されている。3Dグラフィックスは[OpenGL](../Page/OpenGL.md "wikilink")を使用しており、1.0.0まではライブラリに[PLIB](https://ja.wikipedia.org/wiki/PLIB "wikilink")を採用していた。しかし、1.9.0からは[OpenSceneGraph](https://ja.wikipedia.org/wiki/OpenSceneGraph "wikilink")に変更された。また、[nasal](https://ja.wikipedia.org/wiki/nasal "wikilink")スクリプトをサポートしており、機体の電装品の動作や、先述の空中給油、Wildfireなど、広範囲に利用されている。
+FlightGear本体は、[C++](../Page/C++.md "wikilink")を中心とした言語で記述されている。3Dグラフィックスは[OpenGL](../Page/OpenGL.md "wikilink")を使用しており、1.0.0まではライブラリに[PLIB](https://ja.wikipedia.org/wiki/PLIB "wikilink")を採用していた。しかし、1.9.0からは[OpenSceneGraph](../Page/OpenSceneGraph.md "wikilink")に変更された。また、[nasal](https://ja.wikipedia.org/wiki/nasal "wikilink")スクリプトをサポートしており、機体の電装品の動作や、先述の空中給油、Wildfireなど、広範囲に利用されている。
 
 航空機やビルディングなど3Dモデルのデータは、[Blender](../Page/Blender.md "wikilink")、[AC3D](https://ja.wikipedia.org/wiki/AC3D "wikilink")等を利用して、AC3D形式（.ac）で作成されている。またビルディングなど一部分は[SketchUp](../Page/SketchUp.md "wikilink")を利用して作成される事もある。
 

@@ -1,7 +1,7 @@
 > この記事は[PRIDE \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
-「**PRIDE**」（プライド）は、[HIGH and MIGHTY COLORの通算](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")2作目、メジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。また、表題曲が[リミックス](../Page/リミックス.md "wikilink")された音源を収録し[3月24日](../Page/3月24日.md "wikilink")にSME Recordsから発売されたシングル「**PRIDE Remix**」（プライド リミックス）も本項で記述する。
+「**PRIDE**」（プライド）は、[HIGH and MIGHTY COLORの通算](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")2作目、メジャーデビュー[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に[SME Recordsから発売された](../Page/エスエムイーレコーズ.md "wikilink")。また、表題曲が[リミックス](../Page/リミックス.md "wikilink")された音源を収録し[3月24日](../Page/3月24日.md "wikilink")にSME Recordsから発売されたシングル「**PRIDE Remix**」（プライド リミックス）も本項で記述する。
 
 ## 解説
 
@@ -12,13 +12,13 @@
 
 ## 収録曲
 
-全作詞・作曲・編曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")
+全作詞・作曲・編曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")
 
 1.  **PRIDE**
       -
         [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』オープニングテーマ。また[ロックマン エグゼ オペレート シューティングスターCM使用曲](https://ja.wikipedia.org/wiki/ロックマン_エグゼ_オペレート_シューティングスター "wikilink")。
         2005年1月の[fm osaka邦楽パワープレイに選ばれた](../Page/エフエム大阪.md "wikilink")。
-        [ユウスケのラップパートが歌詞カードに記載されていなかったが](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、2009年3月15日のユウスケのブログで発表された。
+        [ユウスケのラップパートが歌詞カードに記載されていなかったが](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")、2009年3月15日のユウスケのブログで発表された。
         [PVは](../Page/ミュージック・ビデオ.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")に存在する[かずさアカデミアホールで撮影された](https://ja.wikipedia.org/wiki/かずさアカデミアパーク "wikilink")。
 2.  **光るカケラ**
       -
@@ -31,12 +31,12 @@
 ## 収録アルバム
 
   - [G∞VER](../Page/G∞VER.md "wikilink") (\#1)
-  - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
+  - [10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink") (\#1)
   - [BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink") (\#1)
 
 ## PRIDE Remix
 
-「**PRIDE Remix**」（プライド・リミックス）は[HIGH and MIGHTY COLORのリミックスシングルの名称](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")。
+「**PRIDE Remix**」（プライド・リミックス）は[HIGH and MIGHTY COLORのリミックスシングルの名称](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")。
 
 ### 解説
 
@@ -44,7 +44,7 @@
 
 ### 収録曲
 
-  - 作詞・作曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink") (ALL)
+  - 作詞・作曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink") (ALL)
 
 <!-- end list -->
 

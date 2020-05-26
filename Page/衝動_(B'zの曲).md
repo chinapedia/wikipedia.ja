@@ -51,7 +51,7 @@ B'zのCDが1月に発売されるのは、18年目にして初めてのことだ
 **衝動**
 
   - [B'z LIVE-GYM 2006 "MONSTER'S GARAGE"](../Page/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE".md "wikilink")
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
   - [EPIC DAY](https://ja.wikipedia.org/wiki/EPIC_DAY "wikilink")（特典DVD）
   - [B'z COMPLETE SINGLE BOX](https://ja.wikipedia.org/wiki/B'z_COMPLETE_SINGLE_BOX "wikilink")（特典DVD）

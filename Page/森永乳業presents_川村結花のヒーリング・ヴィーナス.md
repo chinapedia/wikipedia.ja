@@ -9,7 +9,7 @@
 
 番組は2006年3月26日で終了。4月2日からは[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")がパーソナリティーを務める[森永乳業presents 平原綾香のヒーリング・ヴィーナスがスタートした](../Page/森永乳業presents_平原綾香のヒーリング・ヴィーナス.md "wikilink")。
 
-ちなみに、川村がパーソナリティーになる前には「[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")の[ヒーリング・ヴィーナス](https://ja.wikipedia.org/wiki/ヒーリング・ヴィーナス "wikilink")」「[SAKURAのヒーリング](../Page/SAKURA_\(歌手\).md "wikilink")・ヴィーナス」（日曜21：00 - 21:55、後に18：00 - 18:55）があり、川村は3代目にあたる。
+ちなみに、川村がパーソナリティーになる前には「[渡瀬マキ](../Page/渡瀬マキ.md "wikilink")の[ヒーリング・ヴィーナス](https://ja.wikipedia.org/wiki/ヒーリング・ヴィーナス "wikilink")」「[SAKURAのヒーリング](../Page/SAKURA_\(歌手\).md "wikilink")・ヴィーナス」（日曜21：00 - 21:55、後に18：00 - 18:55）があり、川村は3代目にあたる。
 
 ## 主なコーナー
 

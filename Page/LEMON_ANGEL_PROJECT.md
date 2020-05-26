@@ -9,7 +9,7 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に放送されたテレビアニメ「[レモンエンジェル](../Page/レモンエンジェル_\(テレビアニメ\).md "wikilink")」の21世紀版と位置づけられているが、キャラクターの名前に「（アイドルグループの）[レモンエンジェル](../Page/レモンエンジェル_\(アイドルグループ\).md "wikilink")」の3人と同じ名前のミキ・トモ・エリカと名付けていること以外、関連性は皆無に等しい。また、旧作のテレビアニメ「レモンエンジェル」ではメインでもあった性描写（放送局の倫理規制をクリアする程度の）も、この作品にはなかった。
 
-当時中学生で[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")だった[しほの涼](https://ja.wikipedia.org/wiki/しほの涼 "wikilink")が主人公の声を演じた。[平間樹里](https://ja.wikipedia.org/wiki/平間樹里 "wikilink")は[2005年](../Page/2005年.md "wikilink")放送のラジオ番組「アニメ魂 こえっち」内でのオーディション合格により、声をあてることとなった。
+当時中学生で[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")だった[しほの涼](../Page/しほの涼.md "wikilink")が主人公の声を演じた。[平間樹里](https://ja.wikipedia.org/wiki/平間樹里 "wikilink")は[2005年](../Page/2005年.md "wikilink")放送のラジオ番組「アニメ魂 こえっち」内でのオーディション合格により、声をあてることとなった。
 
 ## あらすじ
 
@@ -20,7 +20,7 @@
 ### 新生Lemon Angelメンバー
 
   - 皆口 智（みなぐち とも）
-    [声](../Page/声優.md "wikilink") - [しほの涼](https://ja.wikipedia.org/wiki/しほの涼 "wikilink")
+    [声](../Page/声優.md "wikilink") - [しほの涼](../Page/しほの涼.md "wikilink")
     主人公。白鴎学園高校1年生の15歳、[1月11日](../Page/1月11日.md "wikilink")生まれ。血液型O型。明るく元気な少女。鴻野唯（後述）の中学時代の後輩で、第1期のLemon Angelでメインヴォーカル・アンのモデルとなった。第1期のLemon Angel解散後、小暮に注目され彼の薦めによって応募。合格後、第2期Lemon Angelのメインヴォーカルの座を掴む。歌唱力はみると同等かそれ以上の才能を持つ。
   - 結城 早夜（ゆうき さや）
     声 - [小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink")
@@ -28,7 +28,7 @@
     料理の腕前はかなり悪い。
   - 渚砂 みる（なぎさ みる）
     声 - [門脇舞](../Page/門脇舞以.md "wikilink")
-    不登校児の15歳、[9月14日](../Page/9月14日.md "wikilink")生まれ。血液型AB型。幼い頃の事故で両親を失い、そのことが尾を引いて内向的な性格になってしまい学校も[不登校](https://ja.wikipedia.org/wiki/不登校 "wikilink")となるほどの茫然自失に陥るが、第1期のLemon Angelの歌に慰められ、メインヴォーカル・アンへの憧れから応募。普段はあまりしゃべらないが、歌唱力は抜群で第2期Lemon Angelのメインヴォーカル候補に挙がったほど。
+    不登校児の15歳、[9月14日](../Page/9月14日.md "wikilink")生まれ。血液型AB型。幼い頃の事故で両親を失い、そのことが尾を引いて内向的な性格になってしまい学校も[不登校](../Page/不登校.md "wikilink")となるほどの茫然自失に陥るが、第1期のLemon Angelの歌に慰められ、メインヴォーカル・アンへの憧れから応募。普段はあまりしゃべらないが、歌唱力は抜群で第2期Lemon Angelのメインヴォーカル候補に挙がったほど。
     熊のぬいぐるみが好き。
   - エリカ・キャンベル
     声 - [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")
@@ -110,7 +110,7 @@
   - オープニング曲「Angel addict」
     作詞 - [藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲 - 谷本新 / 編曲 - [佐々木章](https://ja.wikipedia.org/wiki/佐々木章 "wikilink")
     歌 - （下記参照）
-      - 1〜5話：智（[しほの涼](https://ja.wikipedia.org/wiki/しほの涼 "wikilink")）・早夜（[小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink")）・美希（[丸山美紀](../Page/美木沙文.md "wikilink")）
+      - 1〜5話：智（[しほの涼](../Page/しほの涼.md "wikilink")）・早夜（[小清水亜美](https://ja.wikipedia.org/wiki/小清水亜美 "wikilink")）・美希（[丸山美紀](../Page/美木沙文.md "wikilink")）
       - 6話：みる（[門脇舞](../Page/門脇舞以.md "wikilink")）
       - 7話：冬美（[平間樹里](https://ja.wikipedia.org/wiki/平間樹里 "wikilink")）
       - 8話：智
@@ -263,7 +263,7 @@
 
 アニメに関連する[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組として**RADIO LEMON ANGEL PROJECT 〜い・け・な・い☆レッスン〜**（ラジオレモンエンジェルプロジェクト いけないレッスン）が2006年1月10日から同年7月24日まで配信された。
 
-公式サイトと[音泉](../Page/音泉.md "wikilink")で毎週[火曜日](../Page/火曜日.md "wikilink")に配信・更新され、パーソナリティは[しほの涼](https://ja.wikipedia.org/wiki/しほの涼 "wikilink")と[清水香里](../Page/清水香里.md "wikilink")。代々木公園での収録もあった。
+公式サイトと[音泉](../Page/音泉.md "wikilink")で毎週[火曜日](../Page/火曜日.md "wikilink")に配信・更新され、パーソナリティは[しほの涼](../Page/しほの涼.md "wikilink")と[清水香里](../Page/清水香里.md "wikilink")。代々木公園での収録もあった。
 
   - コーナー
 

@@ -304,7 +304,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>パーティは腹ペコ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桜井正明" title="wikilink">桜井正明</a></p></td>
+<td><p><a href="../Page/桜井正明.md" title="wikilink">桜井正明</a></p></td>
 <td><p>原征太郎</p></td>
 <td><p>金子伸吾</p></td>
 <td><p>大武正枝</p></td>

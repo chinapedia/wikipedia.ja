@@ -11,7 +11,7 @@
 
 1.  **Little wing** \[3:24\]
       -
-        作詞:5963 Production/Shoko、作曲:[ジョーイ・カーボーン](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink")・ロン・ハリス/アンソニー・マッツァ、編曲：家原正樹・ジョーイ・カーボーン/ロン・ハリス/アンソニー・マッツァ
+        作詞:5963 Production/Shoko、作曲:[ジョーイ・カーボーン](../Page/ジョーイ・カーボーン.md "wikilink")・ロン・ハリス/アンソニー・マッツァ、編曲：家原正樹・ジョーイ・カーボーン/ロン・ハリス/アンソニー・マッツァ
 2.  **[グッド・バイ・マイ・ラブ](https://ja.wikipedia.org/wiki/グッド・バイ・マイ・ラブ#福田沙紀バージョン "wikilink")** \[4:54\]
       -
         作詞：[なかにし礼](../Page/なかにし礼.md "wikilink")、作曲：[平尾昌晃](../Page/平尾昌晃.md "wikilink")、編曲：[吉川慶](../Page/吉川慶.md "wikilink")

@@ -1354,7 +1354,7 @@ UPJH-9016</p></td>
 <td><p><strong>曲名</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/飯塚健" title="wikilink">飯塚健</a></p></td>
+<td><p><a href="../Page/飯塚健.md" title="wikilink">飯塚健</a></p></td>
 <td><p>「<a href="https://www.youtube.com/watch?v=nWnePUo6c-w">天地ガエシ</a>」(出演:<a href="https://ja.wikipedia.org/wiki/大友花恋" title="wikilink">大友花恋</a>)</p></td>
 </tr>
 <tr class="odd">

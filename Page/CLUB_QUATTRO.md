@@ -52,7 +52,7 @@
   - オープン：[1991年](../Page/1991年.md "wikilink")5月
   - 営業終了：[2011年](../Page/2011年.md "wikilink")9月
   - 所在地：[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[心斎橋](../Page/心斎橋.md "wikilink")筋　心斎橋[PARCO](../Page/パルコ.md "wikilink")8階
-  - 最寄駅：[大阪市営地下鉄](https://ja.wikipedia.org/wiki/大阪市営地下鉄 "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/大阪市営地下鉄御堂筋線 "wikilink")・[長堀鶴見緑地線](https://ja.wikipedia.org/wiki/大阪市営地下鉄長堀鶴見緑地線 "wikilink")[心斎橋駅](https://ja.wikipedia.org/wiki/心斎橋駅 "wikilink")
+  - 最寄駅：[大阪市営地下鉄](../Page/大阪市営地下鉄.md "wikilink")[御堂筋線](https://ja.wikipedia.org/wiki/大阪市営地下鉄御堂筋線 "wikilink")・[長堀鶴見緑地線](https://ja.wikipedia.org/wiki/大阪市営地下鉄長堀鶴見緑地線 "wikilink")[心斎橋駅](https://ja.wikipedia.org/wiki/心斎橋駅 "wikilink")
   - 収容人数：650人
   - 入居しているビルの老朽化による建て替えならびに[パルコ](../Page/パルコ.md "wikilink")とオーナーとの賃貸借契約期間満了に伴い、2011年9月で一旦営業終了。営業終了後の移転・営業再開については未定と発表されていた\[2\]\[3\]。その後、2011年9月29日、[FM802](../Page/FM802.md "wikilink")の番組『[BEAT EXPO](https://ja.wikipedia.org/wiki/BEAT_EXPO "wikilink")』で、2012年4月13日に[梅田ピカデリー](https://ja.wikipedia.org/wiki/梅田ピカデリー "wikilink")跡地（現プラザ梅田）にて営業を再開することが発表された。
 

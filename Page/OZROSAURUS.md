@@ -327,8 +327,8 @@
 
   -
     4.JUICE / OZROSAURUS Remixed by [DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink") aka Mr.BEATS
-    6.BONDS feat.MACCHO & [TOKONA-X](../Page/TOKONA-X.md "wikilink") / Mr.BEATS aka [DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink") Remixed by [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")
-    7.NO PAIN NO GAIN feat.MACCHO & [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") / [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") Remixed by [INOVADER](https://ja.wikipedia.org/wiki/INOVADER "wikilink")
+    6.BONDS feat.MACCHO & [TOKONA-X](../Page/TOKONA-X.md "wikilink") / Mr.BEATS aka [DJ CELORY](https://ja.wikipedia.org/wiki/DJ_CELORY "wikilink") Remixed by [DJ PMX](../Page/DJ_PMX.md "wikilink")
+    7.NO PAIN NO GAIN feat.MACCHO & [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") / [DJ PMX](../Page/DJ_PMX.md "wikilink") Remixed by [INOVADER](https://ja.wikipedia.org/wiki/INOVADER "wikilink")
     12.Hey Girl feat.[CORN HEAD](../Page/CORN_HEAD.md "wikilink") / OZROSAURUS Remixed by FIRSTKLAS
 
 <!-- end list -->
@@ -454,7 +454,7 @@
 
 <!-- end list -->
 
-  - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") 「[THE ORIGINAL](https://ja.wikipedia.org/wiki/THE_ORIGINAL "wikilink")」（2008年6月25日）
+  - [DJ PMX](../Page/DJ_PMX.md "wikilink") 「[THE ORIGINAL](https://ja.wikipedia.org/wiki/THE_ORIGINAL "wikilink")」（2008年6月25日）
 
 <!-- end list -->
 
@@ -586,7 +586,7 @@
 
 <!-- end list -->
 
-  - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「THE ORIGINALⅡ」(2012年9月5日)
+  - [DJ PMX](../Page/DJ_PMX.md "wikilink")「THE ORIGINALⅡ」(2012年9月5日)
 
 <!-- end list -->
 

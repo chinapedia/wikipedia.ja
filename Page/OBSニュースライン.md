@@ -73,7 +73,7 @@
 
 18:36前後。2006年3月31日まではニュースライン終了後、2008年9月26日までは18:43頃の放送だった。提供は月曜・水曜・金曜が[ヤンマー](../Page/ヤンマー.md "wikilink")（『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』として放送）、火曜・木曜は[八鹿酒造](../Page/八鹿酒造.md "wikilink")。
 
-  - [小野裕子](https://ja.wikipedia.org/wiki/小野裕子 "wikilink")（月曜 - 水曜担当、OBSアナウンサー）
+  - [小野裕子](../Page/小野裕子.md "wikilink")（月曜 - 水曜担当、OBSアナウンサー）
   - [後藤なぎさ](../Page/後藤なぎさ.md "wikilink")（木曜・金曜担当、OBSアナウンサー）
   - [米浜由圭](https://ja.wikipedia.org/wiki/米浜由圭 "wikilink")（2006年から1年間担当）
 

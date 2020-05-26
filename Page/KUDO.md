@@ -82,7 +82,7 @@
     相手のラリアットに対し、その腕を掴んで逆上がりで回避する、KUDOのオリジナルムーブ。
 
   - [トペ・スイシーダ](https://ja.wikipedia.org/wiki/トペ・スイシーダ "wikilink")
-    [PK](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")
+    [PK](../Page/サッカーボールキック.md "wikilink")
 
 ## タイトル歴
 

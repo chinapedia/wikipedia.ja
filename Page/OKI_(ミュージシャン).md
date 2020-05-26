@@ -61,7 +61,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 *参加作品*
 
-  - **「[白い船](https://ja.wikipedia.org/wiki/白い船 "wikilink")」オリジナル・サウンドトラック**　[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")　2002年6月26日
+  - **「[白い船](../Page/白い船.md "wikilink")」オリジナル・サウンドトラック**　[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")　2002年6月26日
   - **[INCARNATIO](https://ja.wikipedia.org/wiki/INCARNATIO "wikilink")**　角松敏生　2002年10月30日　（トンコリとコーラス）
   - **[Summer 4 Rhythm](https://ja.wikipedia.org/wiki/Summer_4_Rhythm "wikilink")**　角松敏生　2003年8月6日
 

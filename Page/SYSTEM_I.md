@@ -41,7 +41,7 @@ CPU:
   - [プロテニス ワールドコート](../Page/プロテニス_ワールドコート.md "wikilink")（第11弾）
   - [スプラッターハウス](../Page/スプラッターハウス.md "wikilink")（第12弾）
   - [フェイスオフ](https://ja.wikipedia.org/wiki/フェイスオフ "wikilink")（第13弾）
-  - [ロンパーズ](https://ja.wikipedia.org/wiki/ロンパーズ "wikilink")（第14弾）
+  - [ロンパーズ](../Page/ロンパーズ.md "wikilink")（第14弾）
   - [ブラストオフ](https://ja.wikipedia.org/wiki/ブラストオフ "wikilink")（第15弾）
   - プロ野球ワールドスタジアム'89開幕版（第16弾）
   - [デンジャラスシード](https://ja.wikipedia.org/wiki/デンジャラスシード "wikilink")（第17弾）

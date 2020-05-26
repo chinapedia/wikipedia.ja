@@ -220,7 +220,7 @@ Hiramekin Goldと[亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](
   - 飯田恭平（元Kis-My-Ft.2、事務所脱退）
   - [藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink")（Kis-My-Ft.2）
   - 藤ヶ谷友輔（藤ヶ谷太輔の弟）
-  - [塚田僚一](https://ja.wikipedia.org/wiki/塚田僚一 "wikilink")（[A.B.C.](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")）
+  - [塚田僚一](https://ja.wikipedia.org/wiki/塚田僚一 "wikilink")（[A.B.C.](../Page/A.B.C-Z.md "wikilink")）
   - [河合郁人](../Page/河合郁人.md "wikilink")（A.B.C.）
   - 冨田真央（当時[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")）
   - マル亨（事務所脱退、父親はプロレスラーの[ブラック・キャット](../Page/ブラック・キャット_\(プロレスラー\).md "wikilink")）

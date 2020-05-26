@@ -23,12 +23,12 @@
 | 3  | [久慈あさみ](../Page/久慈あさみ.md "wikilink")(2)                    |
 | 5  | [松山恵子](../Page/松山恵子.md "wikilink")(初)                      |
 | 7  | [藤沢嵐子](../Page/藤沢嵐子.md "wikilink")(初)                      |
-| 9  | [暁テル子](https://ja.wikipedia.org/wiki/暁テル子 "wikilink")(4)   |
+| 9  | [暁テル子](../Page/暁テル子.md "wikilink")(4)                      |
 | 11 | [淡谷のり子](../Page/淡谷のり子.md "wikilink")(4)                    |
 | 13 | [朝丘雪路](../Page/朝丘雪路.md "wikilink")(初)                      |
 | 15 | [江利チエミ](../Page/江利チエミ.md "wikilink")(5)                    |
 | 17 | [菊池章子](../Page/菊池章子.md "wikilink")(6)                      |
-| 19 | [大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")(2)   |
+| 19 | [大津美子](../Page/大津美子.md "wikilink")(2)                      |
 | 21 | [池真理子](../Page/池真理子.md "wikilink")(6)                      |
 | 23 | [二葉あき子](../Page/二葉あき子.md "wikilink")(8)                    |
 | 26 | [鈴木三重子](../Page/鈴木三重子.md "wikilink")(2)                    |
@@ -48,7 +48,7 @@
 
   - 前回の出場歌手の中より不選出となった歌手は以下。
       - 紅組:[赤坂小梅](https://ja.wikipedia.org/wiki/赤坂小梅 "wikilink")・[荒井恵子](../Page/荒井恵子.md "wikilink")・[生田恵子](https://ja.wikipedia.org/wiki/生田恵子 "wikilink")・[笠置シヅ子](../Page/笠置シヅ子.md "wikilink")・[小唄勝太郎](../Page/小唄勝太郎.md "wikilink")・[菅原都々子](../Page/菅原都々子.md "wikilink")・[宝とも子](../Page/宝とも子.md "wikilink")・[照菊](https://ja.wikipedia.org/wiki/照菊 "wikilink")・[西村つた江](https://ja.wikipedia.org/wiki/西村つた江 "wikilink")・[吉岡妙子](../Page/吉岡妙子.md "wikilink")
-      - 白組:[宇都美清](https://ja.wikipedia.org/wiki/宇都美清 "wikilink")・[岡本敦郎](../Page/岡本敦郎.md "wikilink")・[霧島昇](../Page/霧島昇.md "wikilink")・[東海林太郎](../Page/東海林太郎.md "wikilink")・[鈴木正夫](../Page/鈴木正夫.md "wikilink")・[瀬川伸](../Page/瀬川伸.md "wikilink")・[ディック・ミネ](../Page/ディック・ミネ.md "wikilink")・[真木不二夫](../Page/真木不二夫.md "wikilink")・[山形英夫](https://ja.wikipedia.org/wiki/山形英夫 "wikilink")
+      - 白組:[宇都美清](../Page/宇都美清.md "wikilink")・[岡本敦郎](../Page/岡本敦郎.md "wikilink")・[霧島昇](../Page/霧島昇.md "wikilink")・[東海林太郎](../Page/東海林太郎.md "wikilink")・[鈴木正夫](../Page/鈴木正夫.md "wikilink")・[瀬川伸](../Page/瀬川伸.md "wikilink")・[ディック・ミネ](../Page/ディック・ミネ.md "wikilink")・[真木不二夫](../Page/真木不二夫.md "wikilink")・[山形英夫](https://ja.wikipedia.org/wiki/山形英夫 "wikilink")
 
 ### 審査員
 

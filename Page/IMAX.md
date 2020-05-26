@@ -442,7 +442,7 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン" title="wikilink">ユニバーサル・スタジオ・ジャパン</a> <a href="../Page/バック・トゥ・ザ・フューチャー・ザ・ライド.md" title="wikilink">バック・トゥ・ザ・フューチャー・ザ・ライド</a></p></td>
+<td><p><a href="../Page/ユニバーサル・スタジオ・ジャパン.md" title="wikilink">ユニバーサル・スタジオ・ジャパン</a> <a href="../Page/バック・トゥ・ザ・フューチャー・ザ・ライド.md" title="wikilink">バック・トゥ・ザ・フューチャー・ザ・ライド</a></p></td>
 <td><p>ドーム径24m（特殊形状）</p></td>
 <td><p>2001年3月31日～2016年5月31日</p></td>
 <td></td>

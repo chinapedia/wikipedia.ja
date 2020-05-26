@@ -72,7 +72,7 @@ __NOTOC__
   - [窪田崇](../Page/窪田崇.md "wikilink")
   - [栗原博之](https://ja.wikipedia.org/wiki/栗原博之 "wikilink")
   - [ジョナサン・グレイザー](https://ja.wikipedia.org/wiki/ジョナサン・グレイザー "wikilink")
-  - [黒田秀樹](https://ja.wikipedia.org/wiki/黒田秀樹 "wikilink")
+  - [黒田秀樹](../Page/黒田秀樹.md "wikilink")
   - [畔柳恵輔](https://ja.wikipedia.org/wiki/畔柳恵輔 "wikilink")
 
 ### こ
@@ -253,7 +253,7 @@ __NOTOC__
   - [大林宣彦](../Page/大林宣彦.md "wikilink")
   - [市川準](../Page/市川準.md "wikilink")
   - [中島信也](../Page/中島信也.md "wikilink")
-  - [黒田秀樹](https://ja.wikipedia.org/wiki/黒田秀樹 "wikilink")
+  - [黒田秀樹](../Page/黒田秀樹.md "wikilink")
   - [松浦雅子](https://ja.wikipedia.org/wiki/松浦雅子 "wikilink")
   - [犬童一心](../Page/犬童一心.md "wikilink")
   - [長澤雅彦](../Page/長澤雅彦.md "wikilink")

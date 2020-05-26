@@ -61,7 +61,7 @@ FreeBSD、NetBSD、またはOpenBSDのBSD系オペレーティングシステム
 
 ## 受験方法と有効期限
 
-LPICの試験は、コンピュータベーステスト（[CBT](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")）として提供されており、Linuxやオープンソースのイベントでオンサイトで受験したり、[ピアソンVUE](../Page/ピアソンVUE.md "wikilink")などのテストセンターのネットワークを利用して受験することができる。受験には[LPIのWebサイト](https://cs.lpi.org/caf/Xamman/register)で取得できるLPI IDの登録が必要である。
+LPICの試験は、コンピュータベーステスト（[CBT](../Page/Computer_Based_Testing.md "wikilink")）として提供されており、Linuxやオープンソースのイベントでオンサイトで受験したり、[ピアソンVUE](../Page/ピアソンVUE.md "wikilink")などのテストセンターのネットワークを利用して受験することができる。受験には[LPIのWebサイト](https://cs.lpi.org/caf/Xamman/register)で取得できるLPI IDの登録が必要である。
 
 LPIの認定は5年間有効である。Linux Essentialsの認定だけは例外で、一度認定されると生涯有効となる。
 

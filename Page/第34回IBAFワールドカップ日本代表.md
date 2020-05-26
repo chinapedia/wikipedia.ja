@@ -37,7 +37,7 @@ No.は背番号。所属や年齢は選出当時。
 | 20                               | [黒須隆](../Page/黒須隆.md "wikilink")                      | [日産自動車](../Page/日産自動車硬式野球部.md "wikilink")                           | 33                                                            |    |
 | [内野手](../Page/内野手.md "wikilink") | 1                                                     | [東出輝裕](../Page/東出輝裕.md "wikilink")                                  | [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")                      | 21 |
 | 2                                | [井端弘和](https://ja.wikipedia.org/wiki/井端弘和 "wikilink") | [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")                            | 26                                                            |    |
-| 4                                | [前田新悟](https://ja.wikipedia.org/wiki/前田新悟 "wikilink") | [明治大学](../Page/明治大学硬式野球部.md "wikilink")                             | 21                                                            |    |
+| 4                                | [前田新悟](../Page/前田新悟.md "wikilink")                    | [明治大学](../Page/明治大学硬式野球部.md "wikilink")                             | 21                                                            |    |
 | 6                                | [西郷泰之](../Page/西郷泰之.md "wikilink")                    | [三菱ふそう川崎](../Page/三菱ふそう川崎硬式野球部.md "wikilink")                       | 29                                                            |    |
 | 7                                | [井口資仁](https://ja.wikipedia.org/wiki/井口資仁 "wikilink") | 福岡ダイエーホークス                                                          | 27                                                            |    |
 | 25                               | [後藤武敏](../Page/後藤武敏.md "wikilink")                    | [法政大学](../Page/法政大学野球部.md "wikilink")                               | 21                                                            |    |
@@ -60,13 +60,13 @@ No.は背番号。所属や年齢は選出当時。
         日本が国際試合でキューバから挙げた3つ目の白星。
   - 第5戦（11月11日）　日本 8-0 [オーストラリア](../Page/野球オーストラリア代表.md "wikilink")
   - 第6戦（11月13日）　日本 6-2 [カナダ](../Page/野球カナダ代表.md "wikilink")
-  - 第7戦（11月14日）　日本 6-5 [オランダ](https://ja.wikipedia.org/wiki/野球オランダ代表 "wikilink")
+  - 第7戦（11月14日）　日本 6-5 [オランダ](../Page/野球オランダ代表.md "wikilink")
 
 ### 決勝トーナメント
 
   - 準々決勝（11月16日）　日本 3-1 [韓国](../Page/野球大韓民国代表.md "wikilink")
   - 準決勝（11月17日）　日本 1-3 キューバ　（延長11回）
-  - 3位決定戦（11月18日）　日本 0-3 [チャイニーズタイペイ](https://ja.wikipedia.org/wiki/野球中華民国代表 "wikilink")
+  - 3位決定戦（11月18日）　日本 0-3 [チャイニーズタイペイ](../Page/野球中華民国代表.md "wikilink")
       -
         メダルに届かず、4位に終わる。
 

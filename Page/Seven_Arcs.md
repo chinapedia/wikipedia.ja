@@ -110,7 +110,7 @@
 <td><p><a href="../Page/アニメインターナショナルカンパニー.md" title="wikilink">AIC Build</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/みなみけ" title="wikilink">みなみけ ただいま</a></p></td>
+<td><p><a href="../Page/みなみけ.md" title="wikilink">みなみけ ただいま</a></p></td>
 <td><p>feel.</p></td>
 <td></td>
 <td></td>

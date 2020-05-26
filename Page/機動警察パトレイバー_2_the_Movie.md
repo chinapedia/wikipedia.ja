@@ -87,7 +87,7 @@
   - エグゼクティブプロデューサー - 山科誠、植村徹
   - コンピューターグラフィックス - [オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
   - アニメーション制作 - [IG TATSUNOKO](../Page/プロダクション・アイジー.md "wikilink")
-  - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")株式会社、株式会社[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、株式会社[イング](https://ja.wikipedia.org/wiki/IGポート "wikilink")
+  - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")株式会社、株式会社[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、株式会社[イング](../Page/IGポート.md "wikilink")
   - 配給 - [松竹](../Page/松竹.md "wikilink")株式会社
 
 ### サウンドリニューアル版スタッフ

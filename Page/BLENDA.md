@@ -19,7 +19,7 @@
   - [小泉梓](https://ja.wikipedia.org/wiki/小泉梓 "wikilink")
   - [中野唯花](https://ja.wikipedia.org/wiki/中野唯花 "wikilink")
   - [麻乃](https://ja.wikipedia.org/wiki/麻乃_\(モデル\) "wikilink")
-  - [吉田夏海](https://ja.wikipedia.org/wiki/吉田夏海 "wikilink")
+  - [吉田夏海](../Page/吉田夏海.md "wikilink")
   - [ソンイ](https://ja.wikipedia.org/wiki/ソンイ "wikilink")
   - [長谷川唯](https://ja.wikipedia.org/wiki/長谷川唯_\(モデル\) "wikilink")
   - [香川沙耶](https://ja.wikipedia.org/wiki/香川沙耶 "wikilink")

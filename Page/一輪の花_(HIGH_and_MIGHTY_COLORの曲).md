@@ -1,7 +1,7 @@
 > この記事は[一輪の花 \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/一輪の花_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
-「**一輪の花**」（いちりんのはな）は、[HIGH and MIGHTY COLORの楽曲で](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、6枚目の[シングル](../Page/シングル.md "wikilink")。 [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")に[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")から発売された。
+「**一輪の花**」（いちりんのはな）は、[HIGH and MIGHTY COLORの楽曲で](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")、6枚目の[シングル](../Page/シングル.md "wikilink")。 [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")に[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")から発売された。
 
 ## 解説
 
@@ -29,17 +29,17 @@
 2.  **Warped Reflection** \[4:07\]
       -
         1stシングル「[PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")」と同時期に制作、レコーディングされていたが、再度アレンジしなおし、歌詞も全て書きなおされ、新たにレコーディングされている。
-        [ユウスケの早口の英語詞ではじまる楽曲](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")。
+        [ユウスケの早口の英語詞ではじまる楽曲](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")。
 3.  一輪の花 〜huge hollow mix〜
 4.  一輪の花（less vocal track）
 
 ## 収録アルバム
 
-| 曲名                                                                                  | 収録アルバム                                                                                                           | 発売日                                                                    | 備考                                              |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- |
-| 一輪の花                                                                                | 『**[傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink")**』                                                               | [2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") | 2nd[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
-| 『**[10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink")**』 | [2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")                                       | 1st[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")                           |                                                 |
-| 『**[BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink")**』               | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | 2ndベストアルバム                                                             |                                                 |
+| 曲名                                                                    | 収録アルバム                                                                                                           | 発売日                                                                    | 備考                                              |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- |
+| 一輪の花                                                                  | 『**[傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink")**』                                                               | [2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") | 2nd[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink") |
+| 『**[10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink")**』      | [2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")                                       | 1st[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")                           |                                                 |
+| 『**[BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink")**』 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | 2ndベストアルバム                                                             |                                                 |
 
 1.  Warped Reflection
       -

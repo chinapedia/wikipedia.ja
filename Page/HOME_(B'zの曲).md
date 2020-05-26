@@ -28,7 +28,7 @@
         オリジナル・アルバムには未収録であり、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』でアルバム初収録となった\[11\]。
         音楽番組においては、アコースティック・ギターのパートから始まるアレンジで披露された\[12\]。
         リリース直前まで行われていた『B'z LIVE-GYM '98 "SURVIVE"』では披露されず、翌年に開催された『[B'z LIVE-GYM '99 "Brotherhood"](../Page/Once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜.md "wikilink")』でライブ初演奏となった。なおこの際イントロのアコースティック・ギターのパートは省かれている。
-        ベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』発売時に[iTunes Music Storeにてこの曲の英語バージョンが現れたが](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")、すぐに姿を消した(その後ミニアルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』に収録され配信されていた)。このバージョンはベストアルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』でファン投票17位にランクインされ\[13\]、初CD化された(ライブでは2006年9月1日に行われたdwango提供の完全招待制のプレミアムライブ『[B'z NETWORK LIVE in Japan](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")』にて初披露されている)。2011年に、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の支援を目的としたコンピレーションアルバム『[ダウンロード・トゥ・ドネート・フォー・ジャパン](https://ja.wikipedia.org/wiki/ダウンロード・トゥ・ドネート・フォー・ジャパン "wikilink")』にも収録された\[14\]。
+        ベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』発売時に[iTunes Music Storeにてこの曲の英語バージョンが現れたが](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")、すぐに姿を消した(その後ミニアルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』に収録され配信されていた)。このバージョンはベストアルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』でファン投票17位にランクインされ\[13\]、初CD化された(ライブでは2006年9月1日に行われたdwango提供の完全招待制のプレミアムライブ『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露されている)。2011年に、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の支援を目的としたコンピレーションアルバム『[ダウンロード・トゥ・ドネート・フォー・ジャパン](https://ja.wikipedia.org/wiki/ダウンロード・トゥ・ドネート・フォー・ジャパン "wikilink")』にも収録された\[14\]。
         2020年4月27日、[新型コロナウイルスの外出自粛に伴い](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")、公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルにてメンバー2人でこの曲をセッションする動画が公開され\[15\]\[16\]\[17\]、4月30日には『[B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-](../Page/B'z_LIVE-GYM_2019_-Whole_Lotta_NEW_LOVE-.md "wikilink")』のサポートメンバーを加えたバンドセッション動画を公開した\[18\]\[19\]\[20\]。
 2.  **The Wild Wind** (3:45)
       -
@@ -78,7 +78,7 @@
 
   - [once upon a time in 横浜 〜B'z LIVE GYM'99 "Brotherhood"〜](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")
   - [B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink") (特典映像ダウンロード)
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")（英語詞バージョン「Home」）
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")（英語詞バージョン「Home」）
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink") (英語詞バージョン「Home」)
   - [B'z LIVE-GYM 2001 -ELEVEN-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")
   - [EPIC DAY](https://ja.wikipedia.org/wiki/EPIC_DAY "wikilink") (特典DVD/英語詞バージョン「Home」)

@@ -59,7 +59,7 @@
 <td><p>4</p></td>
 <td><p>プリズムアイ</p></td>
 <td><p>漫画『グラス･マジック』イメージソング</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マインドサイズ" title="wikilink">マインドサイズ</a></p></td>
+<td><p><a href="../Page/マインドサイズ.md" title="wikilink">マインドサイズ</a></p></td>
 <td><p>1989年7月5日</p></td>
 <td><p>292A-7002</p></td>
 <td><p>原曲：<a href="https://ja.wikipedia.org/wiki/木村真紀" title="wikilink">木村真紀</a></p></td>
@@ -122,7 +122,7 @@
 <td><p>11</p></td>
 <td><p>浜辺のダイアリー</p></td>
 <td><p>漫画『メタルハート』イメージソング</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マインドサイズ" title="wikilink">マインドサイズ</a></p></td>
+<td><p><a href="../Page/マインドサイズ.md" title="wikilink">マインドサイズ</a></p></td>
 <td><p>1989年7月5日</p></td>
 <td><p>292A-7002</p></td>
 <td><p>原曲：林原めぐみ</p></td>

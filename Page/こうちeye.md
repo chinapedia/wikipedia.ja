@@ -7,7 +7,7 @@
 
 [1989年](../Page/1989年.md "wikilink")から17年半にわたって放送された夕方の[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")『[こうちNOW](../Page/こうちNOW.md "wikilink")』の後継番組との位置づけにある。
 
-その後、[日本テレビ発の全国ニュースが](../Page/日本テレビ放送網.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月29日をもって『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』から『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』に変更されたことから、[EPGと高知放送公式サイトの](../Page/電子番組ガイド.md "wikilink")[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")における表記が「こうちeye」からピリオド有りの「**こうちeye.**」に変更された。また、番組内容も一部リニューアルが施された。土曜昼に『[ごきげん ボニートっ\!](https://ja.wikipedia.org/wiki/ごきげん_ボニートっ! "wikilink")』が放送されていた当時は、金曜のエンディングで同番組の告知をしていた。また、2010年末は12月24日で年内の放送が終了したため、12月27日・28日は『news every.・第2部（当時・現在の第3部に相当するパート）』を関東ローカル枠も含めた臨時フルネットで放送した（但し、「木原さんのお天気」部分は高知発の県内ニュース・天気予報に差し替えた）。
+その後、[日本テレビ発の全国ニュースが](../Page/日本テレビ放送網.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月29日をもって『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』から『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』に変更されたことから、[EPGと高知放送公式サイトの](../Page/電子番組ガイド.md "wikilink")[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")における表記が「こうちeye」からピリオド有りの「**こうちeye.**」に変更された。また、番組内容も一部リニューアルが施された。土曜昼に『[ごきげん ボニートっ\!](https://ja.wikipedia.org/wiki/ごきげん_ボニートっ! "wikilink")』が放送されていた当時は、金曜のエンディングで同番組の告知をしていた。また、2010年末は12月24日で年内の放送が終了したため、12月27日・28日は『news every.・第2部（当時・現在の第3部に相当するパート）』を関東ローカル枠も含めた臨時フルネットで放送した（但し、「木原さんのお天気」部分は高知発の県内ニュース・天気予報に差し替えた）。
 
 2011年3月11日に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響によって、発生当日は同災害に関するNNN報道特番のため急遽放送休止となった。その後も、14日 - 18日は『news every.』を震災関連のNNN報道特番の扱いで臨時フルネットしたため放送休止となった\[1\]。22日に放送を再開したが、25日までは震災関連ニュースのため『every.』が18:36まで全国ネットで放送されたのに伴い、18:36開始の短縮放送となった。
 
@@ -111,6 +111,6 @@
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:高知放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:高知放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink") [Category:News_every.](https://ja.wikipedia.org/wiki/Category:News_every. "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")
 
-1.  21日も放送休止となったが、この日は16:53 - 19:00（日本テレビでは15:55から放送）に『[ACTION 日本を動かすプロジェクト](https://ja.wikipedia.org/wiki/ACTION_日本を動かすプロジェクト "wikilink")』が編成されていたため、元々放送予定が無かった。
+1.  21日も放送休止となったが、この日は16:53 - 19:00（日本テレビでは15:55から放送）に『[ACTION 日本を動かすプロジェクト](../Page/ACTION_日本を動かすプロジェクト.md "wikilink")』が編成されていたため、元々放送予定が無かった。
 2.  なお、県内ニュースは15:50 - 15:55に『[RKCニュース](../Page/RKCニュース.md "wikilink")』を放送し補完したほか、県内の天気予報は18:50過ぎにCM扱いで放送した（通常18:55 - 19:00の『チャンネルはそのまま\!』枠で放送しているもののスライド）。
 3.  「おらんく」とは、主に「俺の所」といった意味で使われる[土佐弁](../Page/土佐弁.md "wikilink")（高知弁）であり、「私たちの球団」という愛着の意を示している。

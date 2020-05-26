@@ -7,7 +7,7 @@
 
 Gacktが発表したコンセプトアルバムで、一連のプロジェクトは「MOON Project」と呼ばれ、『MOON』と後に発表される『[Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink")』と共に同じ世界観を表現し、Gacktの創作作品として構成されている。Gacktは音楽の世界だけでなく、映画『[MOON CHILD](../Page/MOON_CHILD_\(映画\).md "wikilink")』にて製作段階から携わり、この世界観を映像でも表現した。
 
-最大のヒットシングルとなった9枚目の「[ANOTHER WORLD](https://ja.wikipedia.org/wiki/ANOTHER_WORLD_\(Gacktの曲\) "wikilink")」と、11枚目のシングル「[忘れないから](https://ja.wikipedia.org/wiki/忘れないから "wikilink")」の4曲（それぞれのシングルのカップリング曲含む）と、他8曲を収録（1曲目の「Noah」は[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")）。なお、10枚目のシングル「[12月のLove song](../Page/12月のLove_song.md "wikilink")」は収録されていない。また、本作から、シングルのカップリング曲も収録されるようになった。
+最大のヒットシングルとなった9枚目の「[ANOTHER WORLD](../Page/ANOTHER_WORLD_\(Gacktの曲\).md "wikilink")」と、11枚目のシングル「[忘れないから](../Page/忘れないから.md "wikilink")」の4曲（それぞれのシングルのカップリング曲含む）と、他8曲を収録（1曲目の「Noah」は[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")）。なお、10枚目のシングル「[12月のLove song](../Page/12月のLove_song.md "wikilink")」は収録されていない。また、本作から、シングルのカップリング曲も収録されるようになった。
 
 このアルバムには歌詞カードが収録されておらず、次作の『[Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink")』に『MOON』用の歌詞カードが付いている。
 

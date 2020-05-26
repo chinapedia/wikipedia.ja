@@ -21,7 +21,7 @@
 
 新製品投入サイクルの短さと高品質とをモットーとしていたが、製品によっては[BIOSの完成度が十分ではなくアップデート頻度が高いものもあった](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。
 
-現在の製品分野は、業界最大手の1つに数えられるマザーボードのほか、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[ビデオカード](../Page/ビデオカード.md "wikilink")、[DVD](../Page/DVD.md "wikilink")ドライブなど多岐に渡る。[OEM](../Page/OEM.md "wikilink")では、かつて[ソニー](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")シリーズへ供給していた他、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）や[アップル](../Page/アップル_\(企業\).md "wikilink")（[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iPod shuffle](https://ja.wikipedia.org/wiki/iPod_shuffle "wikilink")、[MacBook](../Page/MacBook.md "wikilink")）、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[エプソンダイレクト](../Page/エプソンダイレクト.md "wikilink")などへ部品の供給を行っている。消費者向け市場では、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春頃から自社ブランドで[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")「[Eee PC](https://ja.wikipedia.org/wiki/Eee_PC "wikilink")」を本格的に販売している。
+現在の製品分野は、業界最大手の1つに数えられるマザーボードのほか、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[ビデオカード](../Page/ビデオカード.md "wikilink")、[DVD](../Page/DVD.md "wikilink")ドライブなど多岐に渡る。[OEM](../Page/OEM.md "wikilink")では、かつて[ソニー](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")シリーズへ供給していた他、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）や[アップル](../Page/アップル_\(企業\).md "wikilink")（[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")、[iPod shuffle](https://ja.wikipedia.org/wiki/iPod_shuffle "wikilink")、[MacBook](../Page/MacBook.md "wikilink")）、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")、[エプソンダイレクト](../Page/エプソンダイレクト.md "wikilink")などへ部品の供給を行っている。消費者向け市場では、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春頃から自社ブランドで[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")「[Eee PC](../Page/Eee_PC.md "wikilink")」を本格的に販売している。
 
 [ASRock](../Page/ASRock.md "wikilink")はASUSの技術者による独立起業が出自であり、現在もASUSの製造部門が分離独立した[Pegatron](https://ja.wikipedia.org/wiki/Pegatron "wikilink")の傘下ではあることから、 現在もASUSの子会社という誤解が生じがちであるが、 信頼性重視のASUSブランドとは異なる個性的なマザーボードの製造は独立起業当初からなされていた。例えばi865[チップセット](../Page/チップセット.md "wikilink")で対応不可であるはずの[Intel Core 2が動作する](../Page/Intel_Core_2.md "wikilink")「ConRoe865PE」では、[メモリは](../Page/記憶装置.md "wikilink")[DDR400](../Page/DDR_SDRAM.md "wikilink")（これもチップセットメーカーの仕様では非対応）に独自に対応させ、更にDDR533に[オーバークロック](../Page/オーバークロック.md "wikilink")して動作させているという。また、[コンデンサ](../Page/コンデンサ.md "wikilink")等部品面でも差別化が図られていた。
 
@@ -79,7 +79,7 @@
 
   - ASUSPROシリーズ - 法人向けノートパソコン。
 
-  - [Eee PC](https://ja.wikipedia.org/wiki/Eee_PC "wikilink")
+  - [Eee PC](../Page/Eee_PC.md "wikilink")
 
   - シリーズ - ローエンド～ミッドレンジモデルのノートパソコン。EeeBookにおいてはVivoBook Eシリーズへ引き継がれた。
 

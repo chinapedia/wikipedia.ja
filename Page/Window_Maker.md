@@ -18,7 +18,7 @@ Window Makerは、他の[ウィンドウマネージャ](../Page/ウィンドウ
 
 1990年代後半ごろでは、いくつかの[ディストリビューション](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")で標準のウィンドウマネージャとして採用されていた（日本では、1990年代末の時点で代表的な日本産ディストリビューションであった[Vine Linuxで採用されていたのが有名](../Page/Vine_Linux.md "wikilink")）。 しかし2011年現在、Window Makerを標準で採用しているディストリビューションは少なくなっている。
 
-[Ubuntu](../Page/Ubuntu.md "wikilink")や[Debian](../Page/Debian.md "wikilink")、[OpenSUSE](https://ja.wikipedia.org/wiki/OpenSUSE "wikilink")などのメジャーなディストリビューションに後からインストールして使うこともできる。
+[Ubuntu](../Page/Ubuntu.md "wikilink")や[Debian](../Page/Debian.md "wikilink")、[OpenSUSE](../Page/OpenSUSE.md "wikilink")などのメジャーなディストリビューションに後からインストールして使うこともできる。
 
 WINGs Display Manager(WDM)や多くのdockappsなどのWINGsウィジェットを他のアプリケーションと共有して使用する。Window MakerのDock, Clipに統合されたアプレットは、[Afterstep](https://ja.wikipedia.org/wiki/Afterstep "wikilink")のWharfと互換性がある。
 

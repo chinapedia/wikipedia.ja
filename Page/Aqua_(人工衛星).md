@@ -1,7 +1,7 @@
 > この記事は[Aqua \(人工衛星\)](https://ja.wikipedia.org/wiki/Aqua_\(人工衛星\))から翻訳されています。
 
 
-**Aqua (EOS PM-1)**とは、アメリカ ([NASA](../Page/アメリカ航空宇宙局.md "wikilink"))、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink") ([宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") NASDA)、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink") ([ブラジル国立宇宙研究所](https://ja.wikipedia.org/wiki/ブラジル国立宇宙研究所 "wikilink") INPE) の3か国共同による[地球観測衛星](../Page/地球観測衛星.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")5月4日に[デルタIIロケットにより打ち上げられ](../Page/デルタロケット.md "wikilink")、高度705km、傾斜角98度、軌道周期98分の[太陽同期軌道](https://ja.wikipedia.org/wiki/太陽同期軌道 "wikilink")に投入された。名は[ラテン語](../Page/ラテン語.md "wikilink")の「水」の意。設計寿命は6年である。
+**Aqua (EOS PM-1)**とは、アメリカ ([NASA](../Page/アメリカ航空宇宙局.md "wikilink"))、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink") ([宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") NASDA)、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink") ([ブラジル国立宇宙研究所](https://ja.wikipedia.org/wiki/ブラジル国立宇宙研究所 "wikilink") INPE) の3か国共同による[地球観測衛星](../Page/地球観測衛星.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")5月4日に[デルタIIロケットにより打ち上げられ](../Page/デルタロケット.md "wikilink")、高度705km、傾斜角98度、軌道周期98分の[太陽同期軌道](../Page/太陽同期軌道.md "wikilink")に投入された。名は[ラテン語](../Page/ラテン語.md "wikilink")の「水」の意。設計寿命は6年である。
 
 他の衛星と[A-trainという](https://ja.wikipedia.org/wiki/A-train_\(衛星コンステレーション\) "wikilink")[衛星コンステレーション](../Page/衛星コンステレーション.md "wikilink")を構成し、隊列の先頭に位置する。
 

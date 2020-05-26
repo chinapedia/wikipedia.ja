@@ -135,7 +135,7 @@
 <td><p>デュエット・ショー</p>
 <ul>
 <li>「<a href="https://ja.wikipedia.org/wiki/バラが咲いた" title="wikilink">バラが咲いた</a>」：黒柳徹子 &amp; 山川静夫</li>
-<li>「<a href="https://ja.wikipedia.org/wiki/一杯のコーヒーから" title="wikilink">一杯のコーヒーから</a>」：研ナオコ &amp; 五木ひろし、都はるみ &amp; <a href="https://ja.wikipedia.org/wiki/桑田佳祐" title="wikilink">桑田佳祐</a>（サザンオールスターズ）</li>
+<li>「<a href="../Page/一杯のコーヒーから.md" title="wikilink">一杯のコーヒーから</a>」：研ナオコ &amp; 五木ひろし、都はるみ &amp; <a href="https://ja.wikipedia.org/wiki/桑田佳祐" title="wikilink">桑田佳祐</a>（サザンオールスターズ）</li>
 <li>「<a href="https://ja.wikipedia.org/wiki/二人の世界_(1966年の映画)#主題歌" title="wikilink">二人の世界</a>」：島倉千代子 &amp; 近藤真彦</li>
 <li>「<a href="https://ja.wikipedia.org/wiki/小さな喫茶店" title="wikilink">小さな喫茶店</a>」：八代亜紀 &amp; 田原俊彦</li>
 <li>「黄色いサクランボ」：松田聖子、河合奈保子、三原順子 &amp; 三波春夫、村田英雄、菅原洋一</li>

@@ -44,7 +44,7 @@
 <td><p><a href="../Page/宮沢吾朗.md" title="wikilink">宮沢吾朗</a>（<a href="https://ja.wikipedia.org/wiki/邵煒剛" title="wikilink">邵煒剛</a>）<br />
 <a href="../Page/劉昌赫.md" title="wikilink">劉昌赫</a>（宮沢、<a href="../Page/兪斌.md" title="wikilink">兪斌</a>）<br />
 <a href="../Page/依田紀基.md" title="wikilink">依田紀基</a>（劉）<br />
-<a href="../Page/曹大元.md" title="wikilink">曹大元</a>（依田、<a href="https://ja.wikipedia.org/wiki/張秀英" title="wikilink">張秀英</a>、<a href="https://ja.wikipedia.org/wiki/淡路修三" title="wikilink">淡路修三</a>）<br />
+<a href="../Page/曹大元.md" title="wikilink">曹大元</a>（依田、<a href="https://ja.wikipedia.org/wiki/張秀英" title="wikilink">張秀英</a>、<a href="../Page/淡路修三.md" title="wikilink">淡路修三</a>）<br />
 <a href="../Page/李昌鎬.md" title="wikilink">李昌鎬</a>（曹）<br />
 <a href="https://ja.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a>（李、<a href="../Page/劉小光.md" title="wikilink">劉小光</a>）<br />
 <a href="../Page/徐奉洙.md" title="wikilink">徐奉洙</a>（林、<a href="../Page/馬暁春.md" title="wikilink">馬暁春</a>）<br />
@@ -144,7 +144,7 @@
 <td><p>日本（3-5）</p></td>
 <td><p>劉昌赫（小松英樹、曹大元、依田紀基）<br />
 兪斌（劉、武宮正樹）<br />
-<a href="https://ja.wikipedia.org/wiki/徐能旭" title="wikilink">徐能旭</a>（兪）<br />
+<a href="../Page/徐能旭.md" title="wikilink">徐能旭</a>（兪）<br />
 加藤正夫（徐）<br />
 劉小光（加藤）<br />
 李昌鎬（劉）<br />

@@ -73,7 +73,7 @@
 4.  **Super Super Night** - ナイトスタイルピーポー（[知念侑李](https://ja.wikipedia.org/wiki/知念侑李 "wikilink")・[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")・[薮宏太](../Page/薮宏太.md "wikilink")）
       -
         作詞：Vandrythem、作曲・編曲：Janne Andersson、Peter Heden/Chorus Arrangement:高橋哲也
-5.  **Oh\!アイドル\!** - 愛追I隊（[有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")・[岡本圭人](https://ja.wikipedia.org/wiki/岡本圭人 "wikilink")・[伊野尾慧](../Page/伊野尾慧.md "wikilink")）
+5.  **Oh\!アイドル\!** - 愛追I隊（[有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")・[岡本圭人](../Page/岡本圭人.md "wikilink")・[伊野尾慧](../Page/伊野尾慧.md "wikilink")）
       -
         作詞・作曲・編曲：SRI
 

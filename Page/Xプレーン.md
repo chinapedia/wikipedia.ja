@@ -390,7 +390,7 @@ USAF</p></td>
 <td><p>Micro Craft<br />
 NASA</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:X-43_NASA.jpg" title="fig:X-43_NASA.jpg">X-43_NASA.jpg</a></p></td>
-<td><p>2001年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p>2001年<a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p>極超音速<a href="../Page/スクラムジェットエンジン.md" title="wikilink">スクラムジェットエンジン</a>試験機。</p></td>
 </tr>
 <tr class="even">

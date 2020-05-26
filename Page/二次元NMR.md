@@ -7,7 +7,7 @@
 
 ## 原理
 
-[FT-NMR](https://ja.wikipedia.org/wiki/FT-NMR "wikilink")（フーリエ変換 NMR、Fourier Transform NMR）において一番簡単な測定では1個の励起パルスの直後から[FID](https://ja.wikipedia.org/wiki/FID "wikilink")（Free Induction Decay, [自由誘導減衰](https://ja.wikipedia.org/wiki/自由誘導減衰 "wikilink")）を観測するが、FIDの前に一連のパルスおよびパルス間隔を入れて測定することで特徴あるスペクトルが得られる。この一連のパルス列を「パルスシーケンス (pulse sequence)」と呼び、2D-NMRではパルスシーケンスの中のあるパルス間隔の長さを変えた複数の1D-NMRスペクトルを得る。この長さ可変な期間を展開期 (evolution period) と呼び、2D-NMRではひとつの軸にFID期間中の時間 *t*<sub>2</sub>、他方の軸に展開期間中の時間 *t*<sub>1</sub> を示す[時間領域](https://ja.wikipedia.org/wiki/時間領域 "wikilink") (time-domain) スペクトルが得られる。時間領域スペクトルの両軸をフーリエ変換して[周波数領域](../Page/周波数領域.md "wikilink") (frequency-domain) スペクトルを得る。パルスシーケンス中で展開期がFIDより先であるため、伝統的に展開期を *t*<sub>1</sub> で示しFIDを *t*<sub>2</sub>で示す。''t<sub>1</sub> ''と *t*<sub>2</sub> に対応した周波数領域スペクトルの両軸はそれぞれ *F*<sub>1</sub> および *F*<sub>2</sub> と表す。
+[FT-NMR](https://ja.wikipedia.org/wiki/FT-NMR "wikilink")（フーリエ変換 NMR、Fourier Transform NMR）において一番簡単な測定では1個の励起パルスの直後から[FID](https://ja.wikipedia.org/wiki/FID "wikilink")（Free Induction Decay, [自由誘導減衰](https://ja.wikipedia.org/wiki/自由誘導減衰 "wikilink")）を観測するが、FIDの前に一連のパルスおよびパルス間隔を入れて測定することで特徴あるスペクトルが得られる。この一連のパルス列を「パルスシーケンス (pulse sequence)」と呼び、2D-NMRではパルスシーケンスの中のあるパルス間隔の長さを変えた複数の1D-NMRスペクトルを得る。この長さ可変な期間を展開期 (evolution period) と呼び、2D-NMRではひとつの軸にFID期間中の時間 *t*<sub>2</sub>、他方の軸に展開期間中の時間 *t*<sub>1</sub> を示す[時間領域](../Page/時間領域.md "wikilink") (time-domain) スペクトルが得られる。時間領域スペクトルの両軸をフーリエ変換して[周波数領域](../Page/周波数領域.md "wikilink") (frequency-domain) スペクトルを得る。パルスシーケンス中で展開期がFIDより先であるため、伝統的に展開期を *t*<sub>1</sub> で示しFIDを *t*<sub>2</sub>で示す。''t<sub>1</sub> ''と *t*<sub>2</sub> に対応した周波数領域スペクトルの両軸はそれぞれ *F*<sub>1</sub> および *F*<sub>2</sub> と表す。
 
 パルスシーケンスによりクロスピークの出現機構が変わり、さまざまな種類の測定法が考えだされている。
 

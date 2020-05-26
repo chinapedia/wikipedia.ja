@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - [吉永雅人](https://ja.wikipedia.org/wiki/吉永雅人 "wikilink")、[勝俣泰](https://ja.wikipedia.org/wiki/勝俣泰 "wikilink") - ホルン
+  - [吉永雅人](../Page/吉永雅人.md "wikilink")、[勝俣泰](https://ja.wikipedia.org/wiki/勝俣泰 "wikilink") - ホルン
   - [Saigenji](../Page/Saigenji.md "wikilink") - ギター
   - [TOYO草薙](https://ja.wikipedia.org/wiki/TOYO草薙 "wikilink") - チャランゴ
   - [岡田浩安](https://ja.wikipedia.org/wiki/岡田浩安 "wikilink") - サンポーニャ

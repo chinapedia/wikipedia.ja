@@ -10,7 +10,7 @@
 3.  **手を握って歩きたい**
 4.  **やる気\! IT'S EASY**
 5.  **[サン・トワ・マミー](https://ja.wikipedia.org/wiki/サン・トワ・マミー "wikilink")**
-6.  **[君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink")**
+6.  **[君といつまでも](../Page/君といつまでも.md "wikilink")**
 7.  **うわさのSEXY GUY**
 8.  **スクランブル**
 9.  **抱いてよ\! PLEASE GO ON**

@@ -52,10 +52,10 @@
 
   - 脚本 - [関根俊夫](https://ja.wikipedia.org/wiki/関根俊夫 "wikilink")、[宮原氣](https://ja.wikipedia.org/wiki/宮原氣 "wikilink")、[芝田知子](https://ja.wikipedia.org/wiki/芝田知子 "wikilink")
   - プロデューサー - [清弘誠](https://ja.wikipedia.org/wiki/清弘誠 "wikilink")、[壁谷悌之](https://ja.wikipedia.org/wiki/壁谷悌之 "wikilink")
-  - 演出 - [清弘誠](https://ja.wikipedia.org/wiki/清弘誠 "wikilink")、[片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")、[梶原紀尚](https://ja.wikipedia.org/wiki/梶原紀尚 "wikilink")
+  - 演出 - [清弘誠](https://ja.wikipedia.org/wiki/清弘誠 "wikilink")、[片山修](../Page/片山修.md "wikilink")、[梶原紀尚](https://ja.wikipedia.org/wiki/梶原紀尚 "wikilink")
   - 音楽 - [城之内ミサ](https://ja.wikipedia.org/wiki/城之内ミサ "wikilink")
   - 主題歌 - [Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")「[tears](https://ja.wikipedia.org/wiki/tears_\(Fayrayの曲\) "wikilink")」（[アンティノスレコード](https://ja.wikipedia.org/wiki/アンティノスレコード "wikilink")）
-  - 写真協力 - [田代眞人](https://ja.wikipedia.org/wiki/田代眞人 "wikilink")
+  - 写真協力 - [田代眞人](../Page/田代眞人.md "wikilink")
   - パステル画 - [今井みろり](https://ja.wikipedia.org/wiki/今井みろり "wikilink")
   - 協力 - [緑山スタジオ・シティ](../Page/緑山スタジオ・シティ.md "wikilink")、[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[インナップ](https://ja.wikipedia.org/wiki/インナップ "wikilink")、[タカハシレーシング](../Page/タカハシレーシング.md "wikilink")、[日音](../Page/日音.md "wikilink")
   - 制作 - TBSエンタテインメント（現：[TBSテレビ](../Page/TBSテレビ.md "wikilink")）

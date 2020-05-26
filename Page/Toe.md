@@ -865,7 +865,7 @@ AICL-2717</p></td>
   - 2008年05月05日 - [ROVO](../Page/ROVO.md "wikilink") presents MDT Festival 2008
   - 2009年06月20日 - enemies with toe
   - 2009年08月14日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2009 in EZO
-  - 2010年04月02日 - [THE ALBUM LEAF](https://ja.wikipedia.org/wiki/アルバム・リーフ "wikilink") JAPAN TOUR 2010
+  - 2010年04月02日 - [THE ALBUM LEAF](../Page/アルバム・リーフ.md "wikilink") JAPAN TOUR 2010
   - 2010年07月30日 - FUJI ROCK FESTIVAL '10
   - 2010年11月02日 - New Audiogram ver.4 -1102east-
   - 2010年12月26日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") presents tantrism vol.7

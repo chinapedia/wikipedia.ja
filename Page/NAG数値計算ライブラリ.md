@@ -45,9 +45,9 @@
   - オペレーションズリサーチ (OR)
       - 整数計画、最短経路問題
   - 統計分散関数 (偏差、確率)
-      - [正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、スチューデントの[t分布](https://ja.wikipedia.org/wiki/t分布 "wikilink")、χ二乗分布 ([カイ二乗分布](../Page/カイ二乗分布.md "wikilink"))、[F分布](../Page/F分布.md "wikilink")、[ベータ分布](https://ja.wikipedia.org/wiki/ベータ分布 "wikilink")、[ガンマ分布](../Page/ガンマ分布.md "wikilink")、[離散分布](https://ja.wikipedia.org/wiki/離散分布 "wikilink")
+      - [正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、スチューデントの[t分布](https://ja.wikipedia.org/wiki/t分布 "wikilink")、χ二乗分布 ([カイ二乗分布](../Page/カイ二乗分布.md "wikilink"))、[F分布](../Page/F分布.md "wikilink")、[ベータ分布](../Page/ベータ分布.md "wikilink")、[ガンマ分布](../Page/ガンマ分布.md "wikilink")、[離散分布](https://ja.wikipedia.org/wiki/離散分布 "wikilink")
   - 乱数発生
-      - 準乱数系列、[一様分布](https://ja.wikipedia.org/wiki/一様分布 "wikilink")、[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、[多変量正規分布](https://ja.wikipedia.org/wiki/多変量正規分布 "wikilink")、[ベータ分布](https://ja.wikipedia.org/wiki/ベータ分布 "wikilink")、[指数分布](../Page/指数分布.md "wikilink")、[ガンマ分布](../Page/ガンマ分布.md "wikilink")、[二項分布](../Page/二項分布.md "wikilink")、[超幾何分布](https://ja.wikipedia.org/wiki/超幾何分布 "wikilink")、[フォン・ミーゼス分布](https://ja.wikipedia.org/wiki/フォン・ミーゼス分布 "wikilink")、離散分布
+      - 準乱数系列、[一様分布](../Page/一様分布.md "wikilink")、[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")、[多変量正規分布](https://ja.wikipedia.org/wiki/多変量正規分布 "wikilink")、[ベータ分布](../Page/ベータ分布.md "wikilink")、[指数分布](../Page/指数分布.md "wikilink")、[ガンマ分布](../Page/ガンマ分布.md "wikilink")、[二項分布](../Page/二項分布.md "wikilink")、[超幾何分布](../Page/超幾何分布.md "wikilink")、[フォン・ミーゼス分布](https://ja.wikipedia.org/wiki/フォン・ミーゼス分布 "wikilink")、離散分布
   - 一変量推定
       - [二項分布](../Page/二項分布.md "wikilink")信頼区間、[ポアソン分布](../Page/ポアソン分布.md "wikilink")信頼区間、[ワイブル分布](../Page/ワイブル分布.md "wikilink")信頼区間、[ロバスト推定](https://ja.wikipedia.org/wiki/ロバスト推定 "wikilink")
   - [回帰分析](../Page/回帰分析.md "wikilink")

@@ -7,7 +7,7 @@
 
 [ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")から[ラウドロック](../Page/ラウドロック.md "wikilink")まで幅広いジャンルの楽曲を[エレクトリック・ベース](https://ja.wikipedia.org/wiki/エレクトリック・ベース "wikilink")と[エレクトリック・アップライト・ベース](../Page/エレクトリック・アップライト・ベース.md "wikilink")で自在に弾きこなす確かなテクニックと華のあるパフォーマンスで数々のアーティストの[ライブ](../Page/ライブ.md "wikilink")や[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")に参加するベーシスト\[2\]\[3\]。
 
-近年は、[大友良英](../Page/大友良英.md "wikilink")や[芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")とのトリオでライブを行ったり、[ビル・ラズウェル](https://ja.wikipedia.org/wiki/ビル・ラズウェル "wikilink")/[中村達也](https://ja.wikipedia.org/wiki/中村達也 "wikilink")/[山下洋輔](../Page/山下洋輔.md "wikilink")らの[ギグ](https://ja.wikipedia.org/wiki/ギグ "wikilink")にゲスト出演したりと、フリー・ミュージック/ジャズ奏者との交流も持つようになった\[4\]。
+近年は、[大友良英](../Page/大友良英.md "wikilink")や[芳垣安洋](https://ja.wikipedia.org/wiki/芳垣安洋 "wikilink")とのトリオでライブを行ったり、[ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink")/[中村達也](https://ja.wikipedia.org/wiki/中村達也 "wikilink")/[山下洋輔](../Page/山下洋輔.md "wikilink")らの[ギグ](https://ja.wikipedia.org/wiki/ギグ "wikilink")にゲスト出演したりと、フリー・ミュージック/ジャズ奏者との交流も持つようになった\[4\]。
 
 趣味は料理\[5\]。
 
@@ -69,7 +69,7 @@
   - [清春](../Page/清春.md "wikilink")
   - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")
   - [GLIM SPANKY](https://ja.wikipedia.org/wiki/GLIM_SPANKY "wikilink")
-  - [さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
+  - [さかいゆう](../Page/さかいゆう.md "wikilink")
   - [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")
   - [櫻井敦司](../Page/櫻井敦司.md "wikilink")
   - [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")

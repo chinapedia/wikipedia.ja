@@ -182,7 +182,7 @@ NTTデータが運営する[ブログ](../Page/ブログ.md "wikilink")サービ
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_DATA_Shinagawa.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Area_Shinagawa.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:NTTDATA-Fushimibldg.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Data_Kansai_Dojima_Building.jpg "wikilink")
 
-現在は地域分社制をとっているため、直轄の拠点は[首都圏に限られている](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。各地域会社の社名は後ろに地域名が付いている。（北海道、東北、信越、東海、北陸、関西、中国、四国及び九州）
+現在は地域分社制をとっているため、直轄の拠点は[首都圏に限られている](../Page/首都圏_\(日本\).md "wikilink")。各地域会社の社名は後ろに地域名が付いている。（北海道、東北、信越、東海、北陸、関西、中国、四国及び九州）
 
 | 地域                                                        | 拠点                                                                                    |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------- |

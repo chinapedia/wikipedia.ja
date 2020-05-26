@@ -211,4 +211,4 @@
 
 1.  [【西武ライオンズ公式ニュース】スタジアムエンターテイナー『BLUE LEGENDS』デビュー決定](http://www.seibulions.jp/news/detail/4083.html)
 2.  チームカラーは、2009年より旧ライオンズブルー（鮮やかな青色）からレジェンドブルー（群青色）に変更された。
-3.  [ロス・デル・リオ](https://ja.wikipedia.org/wiki/ロス・デル・リオ "wikilink")の『Macarena（邦題：恋のマカレナ）』リミックス・バージョン
+3.  [ロス・デル・リオ](../Page/ロス・デル・リオ.md "wikilink")の『Macarena（邦題：恋のマカレナ）』リミックス・バージョン

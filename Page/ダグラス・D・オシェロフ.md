@@ -3,7 +3,7 @@
 
 ` `
 
-**ダグラス・ディーン・オシェロフ**（Douglas Dean Osheroff, [1945年](../Page/1945年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の物理学者。[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")3の[超流動](../Page/超流動.md "wikilink")の発見により、共同研究者の[デビッド・リー](../Page/デビッド・リー_\(物理学者\).md "wikilink")、[ロバート・C・リチャードソン](https://ja.wikipedia.org/wiki/ロバート・C・リチャードソン "wikilink")と共に1996年の[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を受賞した。この発見は1971年になされ、オシェロフは[コーネル大学](../Page/コーネル大学.md "wikilink")の大学院生であった。
+**ダグラス・ディーン・オシェロフ**（Douglas Dean Osheroff, [1945年](../Page/1945年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の物理学者。[ヘリウム](../Page/ヘリウム.md "wikilink")3の[超流動](../Page/超流動.md "wikilink")の発見により、共同研究者の[デビッド・リー](../Page/デビッド・リー_\(物理学者\).md "wikilink")、[ロバート・C・リチャードソン](https://ja.wikipedia.org/wiki/ロバート・C・リチャードソン "wikilink")と共に1996年の[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")を受賞した。この発見は1971年になされ、オシェロフは[コーネル大学](../Page/コーネル大学.md "wikilink")の大学院生であった。
 
 ## 来歴
 

@@ -40,7 +40,7 @@
 
 ## 参考文献
 
-  - [根本健](https://ja.wikipedia.org/wiki/根本健 "wikilink")『グランプリを走りたい』[枻(エイ)出版社](https://ja.wikipedia.org/wiki/エイ出版社 "wikilink")、2002年11月20日 初版発行、ISBN 978-4-87099-756-1
+  - [根本健](https://ja.wikipedia.org/wiki/根本健 "wikilink")『グランプリを走りたい』[枻(エイ)出版社](../Page/エイ出版社.md "wikilink")、2002年11月20日 初版発行、ISBN 978-4-87099-756-1
   - [泉優二](https://ja.wikipedia.org/wiki/泉優二 "wikilink")、[竹島将](https://ja.wikipedia.org/wiki/竹島将 "wikilink")『片山敬済の戦い - オランダGPの16ラップ』[CBS・ソニー出版](https://ja.wikipedia.org/wiki/ソニー・マガジンズ#CBS・ソニー出版時代 "wikilink")、1984年4月21日 発行、ISBN 978-4-7897-0135-8
 
 ## 脚注

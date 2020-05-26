@@ -83,7 +83,7 @@
 | 12月06日 | [アンチャーテッド エル・ドラドの秘宝](../Page/アンチャーテッド_エル・ドラドの秘宝.md "wikilink")                              | ソニー・コンピュータエンタテインメント                                                                                              |   |   |   |    |
 | 12月06日 | [パイレーツ・オブ・カリビアン/ワールド・エンド](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/ワールド・エンド "wikilink") | [ディズニー・インタラクティブ・スタジオ](https://ja.wikipedia.org/wiki/ディズニー・インタラクティブ・スタジオ "wikilink")                              |   |   |   |    |
 | 12月06日 | [CONAN](../Page/CONAN.md "wikilink")                                                        | THQジャパン                                                                                                          |   |   |   |    |
-| 12月13日 | [グランツーリスモ5プロローグ](https://ja.wikipedia.org/wiki/グランツーリスモ5プロローグ "wikilink")                   | ソニー・コンピュータエンタテインメント                                                                                              | ● |   |   |    |
+| 12月13日 | [グランツーリスモ5プロローグ](../Page/グランツーリスモ5プロローグ.md "wikilink")                                      | ソニー・コンピュータエンタテインメント                                                                                              | ● |   |   |    |
 | 12月20日 | [FIFA 08 ワールドクラス サッカー](../Page/FIFA_08.md "wikilink")                                       | エレクトロニック・アーツ                                                                                                     | ● |   |   |    |
 | 12月20日 | [メダル・オブ・オナー エアボーン](../Page/メダル・オブ・オナー_エアボーン.md "wikilink")                                  | エレクトロニック・アーツ                                                                                                     | ● |   |   |    |
 | 12月20日 | [タイムクライシス4](../Page/タイムクライシス4.md "wikilink")                                                | バンダイナムコゲームス                                                                                                      |   |   |   |    |
@@ -110,7 +110,7 @@
 | 03月13日 | [スケート](../Page/スケート.md "wikilink")                                                                                  | エレクトロニック・アーツ                                     | ● |    |
 | 03月13日 | [ウイニングポスト7 マキシマム2008](https://ja.wikipedia.org/wiki/ウイニングポスト7 "wikilink")                                           | コーエー                                             |   |    |
 | 03月19日 | [アーミー オブ ツー](../Page/アーミー_オブ_ツー.md "wikilink")                                                                      | エレクトロニック・アーツ                                     | ● |    |
-| 03月19日 | [アーマード・コア フォーアンサー](https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー "wikilink")                                       | フロム・ソフトウェア                                       | ● |    |
+| 03月19日 | [アーマード・コア フォーアンサー](../Page/アーマード・コア_フォーアンサー.md "wikilink")                                                          | フロム・ソフトウェア                                       | ● |    |
 | 03月19日 | [ブレイジング・エンジェル2: シークレット・ミッション・オブ・WWII](https://ja.wikipedia.org/wiki/ブレイジング・エンジェル2:_シークレット・ミッション・オブ・WWII "wikilink") | ユービーアイソフト                                        | ● |    |
 | 03月27日 | [レゴ スター・ウォーズ コンプリート サーガ](https://ja.wikipedia.org/wiki/レゴ_スター・ウォーズ "wikilink")                                      | アクティビジョン                                         |   |    |
 | 03月27日 | [ライラの冒険 黄金の羅針盤](https://ja.wikipedia.org/wiki/ライラの冒険/黄金の羅針盤 "wikilink")                                             | セガ                                               |   |    |
@@ -155,7 +155,7 @@
 | 10月30日 | [フラクチャー](../Page/フラクチャー.md "wikilink")                                                                              | アクティビジョン                                         | ● |    |
 | 10月30日 | [山佐DigiワールドSP バウンティキラー](https://ja.wikipedia.org/wiki/バウンティキラー "wikilink")                                          | ヤマサエンタテインメント                                     |   |    |
 | 10月30日 | [SOCOM：CONFRONTATION](https://ja.wikipedia.org/wiki/SOCOM：CONFRONTATION "wikilink")                                 | ソニー・コンピュータエンタテインメント                              | ○ |    |
-| 10月30日 | [グランツーリスモ5プロローグ III](https://ja.wikipedia.org/wiki/グランツーリスモ5プロローグ "wikilink")Spec                                   | ソニー・コンピュータエンタテインメント                              | ● |    |
+| 10月30日 | [グランツーリスモ5プロローグ III](../Page/グランツーリスモ5プロローグ.md "wikilink")Spec                                                      | ソニー・コンピュータエンタテインメント                              | ● |    |
 | 11月13日 | [侍道3](https://ja.wikipedia.org/wiki/侍道3 "wikilink")                                                                 | スパイク                                             |   |    |
 | 11月13日 | [FIFA 09 ワールドクラスサッカー](../Page/FIFAシリーズ.md "wikilink")                                                               | エレクトロニック・アーツ                                     | ● |    |
 | 11月13日 | [メジャーリーグベースボール 2K8](https://ja.wikipedia.org/wiki/メジャーリーグベースボール_2K8 "wikilink")                                     | [サイバーフロント](../Page/サイバーフロント.md "wikilink")       | ● |    |
@@ -183,7 +183,7 @@
 
 | 発売日    | タイトル                                                                                                | 発売元                                                           | オ | 備考          |
 | ------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | - | ----------- |
-| 01月15日 | [RACE DRIVER GRID](https://ja.wikipedia.org/wiki/レースドライバーシリーズ "wikilink")                           | [コードマスターズ](https://ja.wikipedia.org/wiki/コードマスターズ "wikilink") | ● |             |
+| 01月15日 | [RACE DRIVER GRID](../Page/レースドライバーシリーズ.md "wikilink")                                              | [コードマスターズ](https://ja.wikipedia.org/wiki/コードマスターズ "wikilink") | ● |             |
 | 01月15日 | [NARUTO -ナルト- ナルティメットストーム](../Page/NARUTO_-ナルト-_\(ゲーム\).md "wikilink")                              | バンダイナムコゲームス                                                   |   |             |
 | 01月15日 | [Fallout 3](https://ja.wikipedia.org/wiki/Fallout_3 "wikilink")                                     | ベセスダ・ソフトワークス                                                  |   |             |
 | 01月22日 | [プリンス・オブ・ペルシャ](../Page/プリンス・オブ・ペルシャ.md "wikilink")                                                  | ユービーアイソフト                                                     |   |             |
@@ -3705,7 +3705,7 @@ HDリマスター</p></td>
 </tr>
 <tr class="even">
 <td><p>11月01日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大神_(ゲーム)" title="wikilink">大神　絶景版</a></p></td>
+<td><p><a href="../Page/大神_(ゲーム).md" title="wikilink">大神　絶景版</a></p></td>
 <td><p>カプコン</p></td>
 <td></td>
 <td><p>●</p></td>
@@ -5846,7 +5846,7 @@ Move対応</p></td>
 </tr>
 <tr class="even">
 <td><p>10月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CRYSIS" title="wikilink">CRYSIS</a></p></td>
+<td><p><a href="../Page/CRYSIS.md" title="wikilink">CRYSIS</a></p></td>
 <td><p>エレクトロニック・アーツ</p></td>
 <td></td>
 <td></td>
@@ -6858,7 +6858,7 @@ Move対応</p></td>
 | 2011年07月28日 | [ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink")                                               | AC | 0,016MB | ● |              |
 | 2011年07月28日 | [ベア・ナックルII 死闘への鎮魂歌](https://ja.wikipedia.org/wiki/ベア・ナックルII_死闘への鎮魂歌 "wikilink")            | MD | 0,018MB | ● |              |
 | 2011年08月31日 | [コミックスゾーン](../Page/コミックスゾーン.md "wikilink")                                                 | MD | 0,021MB |   |              |
-| 2011年08月31日 | [獣王記](https://ja.wikipedia.org/wiki/獣王記 "wikilink")                                        | AC | 0,017MB | ● |              |
+| 2011年08月31日 | [獣王記](../Page/獣王記.md "wikilink")                                                           | AC | 0,017MB | ● |              |
 | 2011年10月05日 | [ゲットバス](https://ja.wikipedia.org/wiki/ゲットバス "wikilink")                                    | DC | 0,398MB |   | Move対応       |
 | 2011年10月05日 | [スペースチャンネル5 パート2](https://ja.wikipedia.org/wiki/スペースチャンネル5_パート2 "wikilink")                | DC | 1,584MB |   |              |
 | 2011年10月26日 | [デイトナUSA](../Page/デイトナUSA.md "wikilink")                                                   | AC | 0,225MB | ● |              |
@@ -6950,14 +6950,14 @@ Move対応</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年04月02日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アレスの翼" title="wikilink">アレスの翼</a></p></td>
+<td><p><a href="../Page/アレスの翼.md" title="wikilink">アレスの翼</a></p></td>
 <td><p>0,001MB</p></td>
 <td><p>●</p></td>
 <td><p>1986パック</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年04月02日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/闘いの挽歌" title="wikilink">闘いの挽歌</a></p></td>
+<td><p><a href="../Page/闘いの挽歌.md" title="wikilink">闘いの挽歌</a></p></td>
 <td><p>0,001MB</p></td>
 <td></td>
 <td><p>1986パック</p></td>

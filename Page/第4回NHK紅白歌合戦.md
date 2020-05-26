@@ -34,7 +34,7 @@
 | [三味線豊吉](../Page/三味線豊吉.md "wikilink")(初)                  | カモン・ナ・マイ・ハウス（家へおいでよ）                                                      |
 | [菅原都々子](../Page/菅原都々子.md "wikilink")(3)                  | 佐渡ケ島悲歌                                                                    |
 | [奈良光枝](../Page/奈良光枝.md "wikilink")(2)                    | 赤い靴のタンゴ                                                                   |
-| [服部富子](https://ja.wikipedia.org/wiki/服部富子 "wikilink")(初) | アリラン・ルムバ                                                                  |
+| [服部富子](../Page/服部富子.md "wikilink")(初)                    | アリラン・ルムバ                                                                  |
 | [二葉あき子](../Page/二葉あき子.md "wikilink")(4)                  | 別れても                                                                      |
 | [松島詩子](../Page/松島詩子.md "wikilink")(3)                    | マロニエの並木路                                                                  |
 | [渡辺はま子](../Page/渡辺はま子.md "wikilink")(3)                  | [ああモンテンルパの夜は更けて](https://ja.wikipedia.org/wiki/ああモンテンルパの夜は更けて "wikilink") |
@@ -43,7 +43,7 @@
 
 前回の出場歌手の中より不選出となった歌手は以下。
 
-  - 紅組:[暁テル子](https://ja.wikipedia.org/wiki/暁テル子 "wikilink")・[荒井恵子](../Page/荒井恵子.md "wikilink")・[乙羽信子](../Page/乙羽信子.md "wikilink")・[久慈あさみ](../Page/久慈あさみ.md "wikilink")・[月丘夢路](../Page/月丘夢路.md "wikilink")・[平野愛子](https://ja.wikipedia.org/wiki/平野愛子 "wikilink")
+  - 紅組:[暁テル子](../Page/暁テル子.md "wikilink")・[荒井恵子](../Page/荒井恵子.md "wikilink")・[乙羽信子](../Page/乙羽信子.md "wikilink")・[久慈あさみ](../Page/久慈あさみ.md "wikilink")・[月丘夢路](../Page/月丘夢路.md "wikilink")・[平野愛子](../Page/平野愛子.md "wikilink")
   - 白組:[霧島昇](../Page/霧島昇.md "wikilink")・[高英男](../Page/高英男.md "wikilink")
 
 ### 審査員

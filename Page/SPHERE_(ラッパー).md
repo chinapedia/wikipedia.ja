@@ -24,7 +24,7 @@
     2.  BOUNCE\[3:22\]
           -
             作詞：SPHERE of INFLUENCE／作曲：P.LAWRENCE・SPHERE of INFLUENCE
-    3.  WE DONE DID IT feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")\[3:54\]
+    3.  WE DONE DID IT feat.[VERBAL](../Page/VERBAL.md "wikilink")\[3:54\]
           -
             作詞：SPHERE of INFLUENCE・VERBAL
     4.  DAY ONE (Instrumental)\[3:40\]
@@ -159,7 +159,7 @@
 <!-- end list -->
 
   -
-    2\. NUTS feat. SPHERE of INFLUENCE & [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") ([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))
+    2\. NUTS feat. SPHERE of INFLUENCE & [VERBAL](../Page/VERBAL.md "wikilink") ([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))
 
 <!-- end list -->
 

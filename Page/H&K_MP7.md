@@ -60,7 +60,7 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
   -
     アルバニア警察のRENEAに配備\[5\]。
   -
-    [EKOコブラで使用](https://ja.wikipedia.org/wiki/コブラ_\(特殊部隊\) "wikilink")\[6\]。
+    [EKOコブラで使用](../Page/コブラ_\(特殊部隊\).md "wikilink")\[6\]。
 
 <!-- end list -->
 
@@ -170,7 +170,7 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
   - 『[Alliance of Valiant Arms](https://ja.wikipedia.org/wiki/Alliance_of_Valiant_Arms "wikilink")』
     ゲーム内[兵科](../Page/兵科.md "wikilink")「ポイントマン」のメイン[武器](../Page/武器.md "wikilink")として登場。
 
-  - 『[CRYSIS](https://ja.wikipedia.org/wiki/CRYSIS "wikilink")』
+  - 『[CRYSIS](../Page/CRYSIS.md "wikilink")』
     「SMG」という名称で登場。
 
   - 『[Killing Floor](https://ja.wikipedia.org/wiki/Killing_Floor "wikilink")』

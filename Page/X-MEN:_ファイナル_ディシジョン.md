@@ -150,7 +150,7 @@
 </tr>
 <tr class="odd">
 <td><p>トラスク局長</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビル・デューク" title="wikilink">ビル・デューク</a></p></td>
+<td><p><a href="../Page/ビル・デューク.md" title="wikilink">ビル・デューク</a></p></td>
 <td><p><a href="../Page/石住昭彦.md" title="wikilink">石住昭彦</a></p></td>
 </tr>
 <tr class="even">

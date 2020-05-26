@@ -309,10 +309,10 @@
 | 1990-91                                                             | [エステバン・ゴンサレス](https://ja.wikipedia.org/wiki/エステバン・ゴンサレス "wikilink")     | 18 |
 | 1994-95[C](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink") | [ホセ・オスカル・フローレス](https://ja.wikipedia.org/wiki/ホセ・オスカル・フローレス "wikilink") | 14 |
 | 2003-04C                                                            | [ロランド・サラテ](https://ja.wikipedia.org/wiki/ロランド・サラテ "wikilink")           | 13 |
-| 2005-06[A](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink") | [マウロ・サラテ](https://ja.wikipedia.org/wiki/マウロ・サラテ "wikilink")             | 12 |
+| 2005-06[A](https://ja.wikipedia.org/wiki/アペルトゥーラとクラウスーラ "wikilink") | [マウロ・サラテ](../Page/マウロ・サラテ.md "wikilink")                                | 12 |
 | 2010-11A                                                            | [サンティアゴ・シルバ](https://ja.wikipedia.org/wiki/サンティアゴ・シルバ "wikilink")       | 11 |
 | 2012-13I                                                            | [ファクンド・フェレイラ](https://ja.wikipedia.org/wiki/ファクンド・フェレイラ "wikilink")     | 13 |
-| 2013-14F                                                            | [マウロ・サラテ](https://ja.wikipedia.org/wiki/マウロ・サラテ "wikilink")             | 13 |
+| 2013-14F                                                            | [マウロ・サラテ](../Page/マウロ・サラテ.md "wikilink")                                | 13 |
 | 2014                                                                | [ルーカス・プラット](https://ja.wikipedia.org/wiki/ルーカス・プラット "wikilink")         | 14 |
 
 ### 国際大会での得点王

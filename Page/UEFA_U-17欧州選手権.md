@@ -842,7 +842,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権2006" title="wikilink">2006</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニ・クロース" title="wikilink">トニ・クロース</a></p></td>
+<td><p><a href="../Page/トニ・クロース.md" title="wikilink">トニ・クロース</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マヌエル・フィッシャー" title="wikilink">マヌエル・フィッシャー</a><br />
  <a href="../Page/ボージャン・クルキッチ.md" title="wikilink">ボージャン・クルキッチ</a><br />
  <a href="https://ja.wikipedia.org/wiki/トマーシュ・ネツィド" title="wikilink">トマーシュ・ネツィド</a></p></td>
@@ -851,7 +851,7 @@
 <tr class="even">
 <td><p><a href="../Page/UEFA_U-17欧州選手権2007.md" title="wikilink">2007</a></p></td>
 <td><p><a href="../Page/ボージャン・クルキッチ.md" title="wikilink">ボージャン・クルキッチ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニ・クロース" title="wikilink">トニ・クロース</a><br />
+<td><p><a href="../Page/トニ・クロース.md" title="wikilink">トニ・クロース</a><br />
  <a href="https://ja.wikipedia.org/wiki/ビクター・モーゼス" title="wikilink">ビクター・モーゼス</a></p></td>
 <td><p>3</p></td>
 </tr>

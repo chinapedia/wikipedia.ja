@@ -51,7 +51,7 @@
 
 またライブでは、ゲストとして参加した劇団「[白虎社](https://ja.wikipedia.org/wiki/白虎社 "wikilink")」による前衛舞踏とのコラボレーションが披露された他、当時の妻である[山下久美子](../Page/山下久美子.md "wikilink")もゲストとして登場した。
 
-現在まで単独のライブビデオとしての商品化はされていない。当時[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の音楽番組「[HITS](https://ja.wikipedia.org/wiki/HITS "wikilink")」で数曲がオンエアされた他、後にアルバム『[GUITARHYTHM II](../Page/GUITARHYTHM_II.md "wikilink")』のアナログ版に数曲が収録された。ライブ映像が『HOTEI LIVE JUKEBOX』、『GUITARHYTHM BOX』それぞれに数曲ずつ収録されており、2012年に限定リリースされた『[MEMORIAL SUPER BOX](https://ja.wikipedia.org/wiki/MEMORIAL_SUPER_BOX "wikilink")』にもライブの模様が一部収録されている。
+現在まで単独のライブビデオとしての商品化はされていない。当時[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の音楽番組「[HITS](../Page/HITS.md "wikilink")」で数曲がオンエアされた他、後にアルバム『[GUITARHYTHM II](../Page/GUITARHYTHM_II.md "wikilink")』のアナログ版に数曲が収録された。ライブ映像が『HOTEI LIVE JUKEBOX』、『GUITARHYTHM BOX』それぞれに数曲ずつ収録されており、2012年に限定リリースされた『[MEMORIAL SUPER BOX](https://ja.wikipedia.org/wiki/MEMORIAL_SUPER_BOX "wikilink")』にもライブの模様が一部収録されている。
 
 ## 収録曲
 

@@ -158,7 +158,7 @@
       - Go for it（作曲・編曲）
   - [陰からマモル\!](../Page/陰からマモル!.md "wikilink")
       - ミリオン・ラブ／rainy beat（作詞・作曲・編曲）
-  - [今日の5の2](https://ja.wikipedia.org/wiki/今日の5の2 "wikilink")
+  - [今日の5の2](../Page/今日の5の2.md "wikilink")
       - Baby Love（作曲・編曲）
       - 約束（作詞・作曲）
   - [吉永さん家のガーゴイル](../Page/吉永さん家のガーゴイル.md "wikilink")

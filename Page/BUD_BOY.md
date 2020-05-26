@@ -1,7 +1,7 @@
 > この記事は[BUD BOY](https://ja.wikipedia.org/wiki/BUD_BOY)から翻訳されています。
 
 
-『**BUD BOY**』（バッドボーイ）は、[市東亮子](../Page/市東亮子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1992年](../Page/1992年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")にかけて[秋田書店](../Page/秋田書店.md "wikilink")の発行する[少女漫画](../Page/少女漫画.md "wikilink")[雑誌各誌で連載された](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
+『**BUD BOY**』（バッドボーイ）は、[市東亮子](../Page/市東亮子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1992年](../Page/1992年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")にかけて[秋田書店](../Page/秋田書店.md "wikilink")の発行する[少女漫画](../Page/少女漫画.md "wikilink")[雑誌各誌で連載された](../Page/漫画雑誌.md "wikilink")。
 
 ## 概要
 

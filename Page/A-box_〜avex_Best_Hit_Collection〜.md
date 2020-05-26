@@ -88,7 +88,7 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トラブルメイカー_(相川七瀬の曲)" title="wikilink">トラブルメイカー</a></p></td>
+<td><p><a href="../Page/トラブルメイカー_(相川七瀬の曲).md" title="wikilink">トラブルメイカー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/相川七瀬" title="wikilink">相川七瀬</a></p></td>
 <td><p>1997年2月13日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/cutting_edge" title="wikilink">cutting edge</a><br />

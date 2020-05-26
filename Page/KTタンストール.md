@@ -17,7 +17,7 @@
 
 [2004年](../Page/2004年.md "wikilink")にデビュー・アルバム『[アイ・トゥ・ザ・テレスコープ](https://ja.wikipedia.org/wiki/アイ・トゥ・ザ・テレスコープ "wikilink")』（[Eye to the Telescope](https://ja.wikipedia.org/wiki/:en:Eye_to_the_Telescope "wikilink")）を発売。同作の収録曲「[Suddenly I See](https://ja.wikipedia.org/wiki/サドゥンリー・アイ・シー "wikilink")」は映画『[プラダを着た悪魔](../Page/プラダを着た悪魔.md "wikilink")』やドラマ「[アグリー・ベティ](../Page/アグリー・ベティ.md "wikilink")」の主題歌に起用された。
 
-楽曲「Black Horse and the Cherry Tree」が2007年の[グラミー賞にノミネートされた](https://ja.wikipedia.org/wiki/第49回グラミー賞 "wikilink")\[6\]他、通算3つの[ブリット・アワード](../Page/ブリット・アワード.md "wikilink")を受賞し、2度[グラミー賞](../Page/グラミー賞.md "wikilink")にノミネートされた。
+楽曲「Black Horse and the Cherry Tree」が2007年の[グラミー賞にノミネートされた](../Page/第49回グラミー賞.md "wikilink")\[6\]他、通算3つの[ブリット・アワード](../Page/ブリット・アワード.md "wikilink")を受賞し、2度[グラミー賞](../Page/グラミー賞.md "wikilink")にノミネートされた。
 
 一人で演奏し、一人で歌うという独特なスタイルが特徴。演奏形態としては、ギターのクラッキングの音や、タンバリンの音を演奏前に録音し、リズムを取る。[AKAIの](../Page/AKAI_professional.md "wikilink")[ループペダル](https://ja.wikipedia.org/wiki/ループペダル "wikilink")を使用。
 

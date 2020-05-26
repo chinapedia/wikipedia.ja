@@ -1,7 +1,7 @@
 > この記事は[Newsリアルタイムふくい](https://ja.wikipedia.org/wiki/Newsリアルタイムふくい)から翻訳されています。
 
 
-『**Newsリアルタイムふくい**』（ニュースリアルタイムふくい）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[福井放送](../Page/福井放送.md "wikilink")（FBCテレビ）で放送されていた平日夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")（『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の[福井県](../Page/福井県.md "wikilink")ローカルパート）。通称は『**リアルタイムふくい**』。
+『**Newsリアルタイムふくい**』（ニュースリアルタイムふくい）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[福井放送](../Page/福井放送.md "wikilink")（FBCテレビ）で放送されていた平日夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")（『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』の[福井県](../Page/福井県.md "wikilink")ローカルパート）。通称は『**リアルタイムふくい**』。
 
 基本的に前番組『[夕方いちばんプラス1](../Page/夕方いちばんプラス1.md "wikilink")』を踏襲しており、同年[5月1日](../Page/5月1日.md "wikilink")からは全編が[HDで制作されていた](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")。2007年10月1日以降、[月曜日](../Page/月曜日.md "wikilink")から[木曜日](../Page/木曜日.md "wikilink")までは17時台を『[おじゃまっテレ](../Page/おじゃまっテレ.md "wikilink")』に分割し、本番組は18時台のローカルニュース番組となっていた。
 
@@ -38,7 +38,7 @@
 
 ※**太字**は、[日本テレビからの放送](../Page/日本テレビ放送網.md "wikilink")
 
-  - 17:50 *[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")*（全国ニュース）
+  - 17:50 *[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")*（全国ニュース）
   - 18:16 ヘッドライン・オープニング・ニュース
   - 18:24 特集
   - 18:30 ニュース
@@ -65,7 +65,7 @@
 
   - 17時台キャスター：[粕谷康太郎](../Page/粕谷康太郎.md "wikilink")・[森本茂樹](../Page/森本茂樹.md "wikilink")（代理出演時）・[鈴木沙和子](../Page/鈴木沙和子.md "wikilink")(月曜日・火曜日）・[中嶋智子](../Page/中嶋智子.md "wikilink")（水曜日 - 金曜日）
   - 18時台キャスター：[大島さやか](../Page/大島さやか.md "wikilink")（初代女性）・ [山田恵梨子](../Page/山田恵梨子.md "wikilink")（2代目女性）・[江守美穂](../Page/江守美穂.md "wikilink")（3代目女性）・[森本茂樹](../Page/森本茂樹.md "wikilink")・[鈴木沙和子](../Page/鈴木沙和子.md "wikilink")（4代目女性）
-  - 中継・天気：[つっちー](https://ja.wikipedia.org/wiki/つっちー "wikilink")（全曜日）・[鶴渕さやか](https://ja.wikipedia.org/wiki/鶴渕さやか "wikilink")・[堀内くみ子](../Page/堀内くみ子.md "wikilink")・[吉川圭一](https://ja.wikipedia.org/wiki/吉川圭一 "wikilink")
+  - 中継・天気：[つっちー](https://ja.wikipedia.org/wiki/つっちー "wikilink")（全曜日）・[鶴渕さやか](https://ja.wikipedia.org/wiki/鶴渕さやか "wikilink")・[堀内くみ子](../Page/堀内くみ子.md "wikilink")・[吉川圭一](../Page/吉川圭一.md "wikilink")
   - MINIさわのらんらん♪Ranking：[鈴木沙和子](../Page/鈴木沙和子.md "wikilink")
   - げんき米プロジェクト：[川島秀成](../Page/川島秀成.md "wikilink")
 

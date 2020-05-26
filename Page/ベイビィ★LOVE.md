@@ -5,7 +5,7 @@
 
 ## 概要
 
-[集英社](../Page/集英社.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』1995年9月号から1999年5月号にかけて連載された。
+[集英社](../Page/集英社.md "wikilink")の[漫画雑誌](../Page/漫画雑誌.md "wikilink")『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』1995年9月号から1999年5月号にかけて連載された。
 
 『[こどものおもちゃ](../Page/こどものおもちゃ.md "wikilink")』、『[ミントな僕ら](../Page/ミントな僕ら.md "wikilink")』、『[グッドモーニング・コール](../Page/グッドモーニング・コール.md "wikilink")』と共に1990年代後半の『りぼん』を支えた。非売品ながら[OVA](../Page/OVA.md "wikilink")化されている。
 

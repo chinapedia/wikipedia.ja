@@ -152,7 +152,7 @@
   - 作画監督 - 中鶴勝祥
   - シリーズディレクター - [西尾大介](../Page/西尾大介.md "wikilink")
   - 作画監督補佐 - 佐藤正樹
-  - 原画 - [江口寿志](../Page/江口寿志.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[海老沢幸男](https://ja.wikipedia.org/wiki/海老沢幸男 "wikilink")、[井上栄作](../Page/井上栄作.md "wikilink") ほか
+  - 原画 - [江口寿志](../Page/江口寿志.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[海老沢幸男](../Page/海老沢幸男.md "wikilink")、[井上栄作](../Page/井上栄作.md "wikilink") ほか
   - 動画 - [館直樹](https://ja.wikipedia.org/wiki/館直樹 "wikilink") ほか
   - オーディオディレクター - 小松亘弘
   - 選曲 - 宮下滋

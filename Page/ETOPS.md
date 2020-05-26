@@ -45,7 +45,7 @@ ETOPSルール適用の旅客機は3発機（[ボーイング727](../Page/ボー
 
 ## ETOPS-370
 
-2014年10月に欧州航空安全機関が[エアバスA350-900に対し](https://ja.wikipedia.org/wiki/エアバスA350_XWB "wikilink")、ETOPS-180からETOPS-300・ETOPS-370の認定を与えた\[8\]。
+2014年10月に欧州航空安全機関が[エアバスA350-900に対し](../Page/エアバスA350_XWB.md "wikilink")、ETOPS-180からETOPS-300・ETOPS-370の認定を与えた\[8\]。
 
 ## 空港要件
 

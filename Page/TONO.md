@@ -1,7 +1,7 @@
 > この記事は[TONO](https://ja.wikipedia.org/wiki/TONO)から翻訳されています。
 
 
-**TONO**（との）は、日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")出身、[大阪府](../Page/大阪府.md "wikilink")在住。血液型はO型。3人兄弟の長女。弟は皮膚科の医者、妹は同じく漫画家の[うぐいすみつる](https://ja.wikipedia.org/wiki/うぐいすみつる "wikilink")、妹と共に[同人サークル](../Page/同人サークル.md "wikilink")「うぐいす姉妹」として活動している。
+**TONO**（との）は、日本の[漫画家](../Page/漫画家.md "wikilink")。[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")出身、[大阪府](../Page/大阪府.md "wikilink")在住。血液型はO型。3人兄弟の長女。弟は皮膚科の医者、妹は同じく漫画家の[うぐいすみつる](../Page/うぐいすみつる.md "wikilink")、妹と共に[同人サークル](../Page/同人サークル.md "wikilink")「うぐいす姉妹」として活動している。
 
 ## 来歴
 
@@ -45,7 +45,7 @@
 
 ### エッセイ
 
-  - しましまえぶりでぃ 1〜4巻（朝日ソノラマ、朝日新聞社）※[うぐいすみつる](https://ja.wikipedia.org/wiki/うぐいすみつる "wikilink")との共著
+  - しましまえぶりでぃ 1〜4巻（朝日ソノラマ、朝日新聞社）※[うぐいすみつる](../Page/うぐいすみつる.md "wikilink")との共著
   - おれたちの葬式本（朝日ソノラマ、朝日新聞社）※同上
   - よからぬ話 1〜2巻（朝日ソノラマ、朝日新聞社）※同上
   - けしからぬ話（朝日ソノラマ）※同上
@@ -53,7 +53,7 @@
   - TONOちゃんのしましまえぶりでぃ 1〜2巻（朝日ソノラマ、朝日新聞社/ネムキ）
   - 私の部屋の猫放題（[学習研究社](../Page/学研ホールディングス.md "wikilink")/ねこかん）
   - とのとのとのこのなんとかしま～す1（[フロンティアワークス](../Page/フロンティアワークス.md "wikilink")、Daria)既刊2巻
-  - うぐいす姉妹　海外うろうろ本（フロンティアワークス）※[うぐいすみつる](https://ja.wikipedia.org/wiki/うぐいすみつる "wikilink")との共著
+  - うぐいす姉妹　海外うろうろ本（フロンティアワークス）※[うぐいすみつる](../Page/うぐいすみつる.md "wikilink")との共著
   - うぐいす姉妹のへっぽこ子育て録 ([ぶんか社](../Page/ぶんか社.md "wikilink")) ※同上
   - 新・私の部屋の猫放題 ([大都社](https://ja.wikipedia.org/wiki/大都社 "wikilink"))
   - だらだら日和 (朝日新聞出版)

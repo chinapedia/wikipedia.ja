@@ -31,7 +31,7 @@
   - 1st[木部祥太](../Page/木部ショータ.md "wikilink")
   - 1st[小島めぐみ](../Page/小島めぐみ.md "wikilink")
   - 1st[喜多村英梨](../Page/喜多村英梨.md "wikilink")
-  - 1st～3rd[勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")
+  - 1st～3rd[勝沼紀義](../Page/勝沼紀義.md "wikilink")
   - [大橋佳野人](../Page/佳月大人.md "wikilink")（公式には充電期間と表記されていたが、自然脱退）
   - [木下涼介](https://ja.wikipedia.org/wiki/木下涼介 "wikilink")
   - [星奈美紀](https://ja.wikipedia.org/wiki/星奈美紀 "wikilink")2015年に卒業。

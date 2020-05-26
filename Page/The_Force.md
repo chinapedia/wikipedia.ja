@@ -8,20 +8,20 @@
   - [オリコンチャート](../Page/オリコンチャート.md "wikilink")での累計売上は68.1万枚を記録\[1\]。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の出荷枚数ではミリオンの認定を受けた。
   - タイトルは「力」を意味するが、「4th」即ち4作目のアルバムであることにかけている。
   - ジャケットはデジパック仕様で[観音開き](../Page/観音開き.md "wikilink")になっており、折りたたむと表は[西川貴教](../Page/西川貴教.md "wikilink")が青い空の下の草原に座って微笑んでいる写真、裏は黒ずくめの服を着た西川が足を投げ出している写真であり、観音開きの左側を開くと2人の西川が背中合わせに立っている写真が現れる。壁に掛けるための穴や歌詞カードの代わりに差し替えるための写真が付いていて、CDの盤面とCD収納部に日付や曜日が印刷されており、パッケージ全体をカレンダーとして使う事を意図したデザインである。なお、当時のCMでは、このジャケットを使った間違い探しが行われた。
-  - [Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")に対応したCD-EXTRAも封入されており、対応機種のパソコンに挿入すると「[WILD RUSH](https://ja.wikipedia.org/wiki/WILD_RUSH "wikilink")」のPV（一部）が見られるほか、ミニゲームを楽しむことが出来る。なお、発売当時に開設されていた特設サイトへのリンクもあるが、現在は閉鎖されている。
+  - [Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Macintosh](../Page/Macintosh.md "wikilink")に対応したCD-EXTRAも封入されており、対応機種のパソコンに挿入すると「[WILD RUSH](../Page/WILD_RUSH.md "wikilink")」のPV（一部）が見られるほか、ミニゲームを楽しむことが出来る。なお、発売当時に開設されていた特設サイトへのリンクもあるが、現在は閉鎖されている。
   - 本作で、T.M.R.はデビュー以来の目標と公言していた[東京ドーム](../Page/東京ドーム.md "wikilink")ライブを実現させ、翌[2000年](../Page/2000年.md "wikilink")までの1年間、T.M.R.を「封印」しT.M.R.-eとしての活動に移行した。
   - 「あなどりがたきボクら」は、2ndアルバム『[restoration LEVEL→3](https://ja.wikipedia.org/wiki/restoration_LEVEL→3 "wikilink")』収録曲「とめどなさそうなボクら〜BEDLESS NIGHT SLIDER〜」の歌詞違いバージョン。
   - 「True Merry Rings」は、『restoration LEVEL→3』以来の恒例となっているタイトルの頭文字をT、M、Rで揃えた曲。西川が、当時の婚約者であった[PUFFY](../Page/PUFFY.md "wikilink")の[吉村由美](https://ja.wikipedia.org/wiki/吉村由美 "wikilink")にこの曲を贈った。
 
 ## 収録曲
 
-1.  **[WILD RUSH](https://ja.wikipedia.org/wiki/WILD_RUSH "wikilink") (Album mix)**
+1.  **[WILD RUSH](../Page/WILD_RUSH.md "wikilink") (Album mix)**
       - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
       - 出版社：[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")
 2.  **アンタッチャブルGirls (Album mix)**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
-3.  **[THUNDERBIRD](https://ja.wikipedia.org/wiki/THUNDERBIRD_\(T.M.Revolutionの曲\) "wikilink") (Album mix)**
+3.  **[THUNDERBIRD](../Page/THUNDERBIRD_\(T.M.Revolutionの曲\).md "wikilink") (Album mix)**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：[日音](../Page/日音.md "wikilink")
 4.  **あなどりがたきボクら**
@@ -42,7 +42,7 @@
 9.  **DREAM DRUNKER**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
-10. **[Burnin' X'mas](https://ja.wikipedia.org/wiki/Burnin'_X'mas "wikilink") (Album mix)**
+10. **[Burnin' X'mas](../Page/Burnin'_X'mas.md "wikilink") (Album mix)**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
 11. **True Merry Rings**

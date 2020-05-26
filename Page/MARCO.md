@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - [On・On・On](https://ja.wikipedia.org/wiki/On・On・On "wikilink")
+  - [On・On・On](../Page/On・On・On.md "wikilink")
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[SEX PISTOLS \(漫画\)](https://ja.wikipedia.org/wiki/SEX_PISTOLS_\(漫画\))から翻訳されています。
 
 
-『**SEX PISTOLS**』（セックス・ピストルズ）は、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")[寿たらこ](../Page/寿たらこ.md "wikilink")による[ボーイズラブ](../Page/ボーイズラブ.md "wikilink")漫画作品。
+『**SEX PISTOLS**』（セックス・ピストルズ）は、[漫画家](../Page/漫画家.md "wikilink")[寿たらこ](../Page/寿たらこ.md "wikilink")による[ボーイズラブ](../Page/ボーイズラブ.md "wikilink")漫画作品。
 
 [株式会社ビブロス出版の月刊誌](../Page/ビブロス_\(出版社\).md "wikilink")「MAGAZINE BE×BOY」2003年1月号より連載開始。2006年4月5日のビブロスの倒産により、その後は[リブレ出版](https://ja.wikipedia.org/wiki/リブレ出版 "wikilink")株式会社から出版される「MAGAZINE BE×BOY」に掲載されている。
 

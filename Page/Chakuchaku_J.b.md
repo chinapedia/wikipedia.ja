@@ -82,7 +82,7 @@ L.A.Angel、HbG等も含む。
   - 千尋（ammaliatore初代キャプテン）
   - [手塚りえ](../Page/手塚りえ.md "wikilink")（ - 2007年12月16日）
   - [外池真由美](https://ja.wikipedia.org/wiki/外池真由美 "wikilink")
-  - [永瀬はるか](https://ja.wikipedia.org/wiki/永瀬はるか "wikilink")（2007年12月 - 2009年7月5日）
+  - [永瀬はるか](../Page/永瀬はるか.md "wikilink")（2007年12月 - 2009年7月5日）
   - [西方敦子](https://ja.wikipedia.org/wiki/西方敦子 "wikilink")
   - [二宮優](https://ja.wikipedia.org/wiki/二宮優 "wikilink")
   - [早坂さゆり](https://ja.wikipedia.org/wiki/早坂さゆり "wikilink")

@@ -114,7 +114,7 @@
   - [とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")（制作元請：[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink")、各話制作協力、2009年-2010年）
   - [犬夜叉 完結編](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")（制作元請：サンライズ、各話制作協力、2009年-2010年）
   - [ミラクル☆トレイン](https://ja.wikipedia.org/wiki/ミラクル☆トレイン "wikilink")〜大江戸線へようこそ〜（制作元請：[ゆめ太カンパニー](../Page/ゆめ太カンパニー.md "wikilink")、各話制作協力、2009年）
-  - [こばと。](https://ja.wikipedia.org/wiki/こばと。 "wikilink")（制作元請：[マッドハウス](../Page/マッドハウス.md "wikilink")、各話制作協力、2009年-2010年）
+  - [こばと。](../Page/こばと。.md "wikilink")（制作元請：[マッドハウス](../Page/マッドハウス.md "wikilink")、各話制作協力、2009年-2010年）
   - [FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")（制作元請：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")・[サテライト](../Page/サテライト_\(アニメ制作会社\).md "wikilink")、各話制作協力、2009年-2013年）
   - [スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")（制作元請：[旭プロダクション](../Page/旭プロダクション.md "wikilink")、各話制作協力、2011年）
   - [STAR DRIVER 輝きのタクト](https://ja.wikipedia.org/wiki/STAR_DRIVER_輝きのタクト "wikilink")（制作元請：ボンズ、各話制作協力、2010年-2011年）
@@ -123,7 +123,7 @@
   - [もっとTo LOVEる -とらぶる-](../Page/To_LOVEる_-とらぶる-.md "wikilink")（制作元請：[XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")、各話制作協力、2010年）
   - [FORTUNE ARTERIAL 赤い約束](../Page/FORTUNE_ARTERIAL.md "wikilink")（制作元請：[ZEXCS](../Page/ゼクシズ.md "wikilink")・[feel.](https://ja.wikipedia.org/wiki/フィール_\(アニメーション制作会社\) "wikilink")、各話制作協力、2010年）
   - [魔法少女まどか☆マギカ](https://ja.wikipedia.org/wiki/魔法少女まどか☆マギカ "wikilink")（制作元請：[シャフト](../Page/シャフト_\(アニメ制作会社\).md "wikilink")、各話制作協力、2011年）
-  - [殿といっしょ 〜眼帯の野望〜](https://ja.wikipedia.org/wiki/殿といっしょ "wikilink")（制作元請：[ギャザリング](https://ja.wikipedia.org/wiki/ギャザリング_\(アニメ制作会社\) "wikilink")、制作協力、2011年）
+  - [殿といっしょ 〜眼帯の野望〜](../Page/殿といっしょ.md "wikilink")（制作元請：[ギャザリング](https://ja.wikipedia.org/wiki/ギャザリング_\(アニメ制作会社\) "wikilink")、制作協力、2011年）
   - [神のみぞ知るセカイ](https://ja.wikipedia.org/wiki/神のみぞ知るセカイ "wikilink")II（制作元請：マングローブ、各話制作協力、2011年）
   - [うたの☆プリンスさまっ♪ マジLOVE1000%](https://ja.wikipedia.org/wiki/うたの☆プリンスさまっ♪ "wikilink")（制作元請：A-1 Pictures、各話制作協力、2011年）
   - [NO.6](../Page/NO.6.md "wikilink")（制作元請：ボンズ、各話制作協力、2011年）

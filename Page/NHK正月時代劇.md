@@ -54,7 +54,7 @@
 <td><p>藤沢周平</p></td>
 <td><p><a href="../Page/大野靖子.md" title="wikilink">大野靖子</a></p></td>
 <td><p><a href="../Page/中井貴一.md" title="wikilink">中井貴一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高岡早紀" title="wikilink">高岡早紀</a>、<a href="../Page/鶴田真由.md" title="wikilink">鶴田真由</a>、<a href="https://ja.wikipedia.org/wiki/渡辺徹_(俳優)" title="wikilink">渡辺徹</a>、<a href="../Page/白島靖代.md" title="wikilink">白島靖代</a>、<a href="../Page/葛山信吾.md" title="wikilink">葛山信吾</a>、<a href="https://ja.wikipedia.org/wiki/持田真樹" title="wikilink">持田真樹</a>、<a href="../Page/津川雅彦.md" title="wikilink">津川雅彦</a>、<a href="https://ja.wikipedia.org/wiki/中村梅雀_(2代目)" title="wikilink">中村梅雀</a>、<a href="../Page/田村高廣.md" title="wikilink">田村高廣</a>、<a href="../Page/神田正輝.md" title="wikilink">神田正輝</a>、<a href="../Page/八千草薫.md" title="wikilink">八千草薫</a>、<a href="../Page/黒沢年雄.md" title="wikilink">黒沢年雄</a>、<a href="https://ja.wikipedia.org/wiki/羽賀研二" title="wikilink">羽賀研二</a>、<a href="../Page/坂上二郎.md" title="wikilink">坂上二郎</a>、<a href="../Page/小倉久寛.md" title="wikilink">小倉久寛</a>、<a href="../Page/小野寺昭.md" title="wikilink">小野寺昭</a>、<a href="../Page/井川比佐志.md" title="wikilink">井川比佐志</a>、<a href="../Page/江守徹.md" title="wikilink">江守徹</a>、<a href="../Page/里見浩太朗.md" title="wikilink">里見浩太朗</a>、<a href="../Page/丹波哲郎.md" title="wikilink">丹波哲郎</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高岡早紀" title="wikilink">高岡早紀</a>、<a href="../Page/鶴田真由.md" title="wikilink">鶴田真由</a>、<a href="https://ja.wikipedia.org/wiki/渡辺徹_(俳優)" title="wikilink">渡辺徹</a>、<a href="../Page/白島靖代.md" title="wikilink">白島靖代</a>、<a href="../Page/葛山信吾.md" title="wikilink">葛山信吾</a>、<a href="https://ja.wikipedia.org/wiki/持田真樹" title="wikilink">持田真樹</a>、<a href="../Page/津川雅彦.md" title="wikilink">津川雅彦</a>、<a href="https://ja.wikipedia.org/wiki/中村梅雀_(2代目)" title="wikilink">中村梅雀</a>、<a href="../Page/田村高廣.md" title="wikilink">田村高廣</a>、<a href="../Page/神田正輝.md" title="wikilink">神田正輝</a>、<a href="../Page/八千草薫.md" title="wikilink">八千草薫</a>、<a href="../Page/黒沢年雄.md" title="wikilink">黒沢年雄</a>、<a href="../Page/羽賀研二.md" title="wikilink">羽賀研二</a>、<a href="../Page/坂上二郎.md" title="wikilink">坂上二郎</a>、<a href="../Page/小倉久寛.md" title="wikilink">小倉久寛</a>、<a href="../Page/小野寺昭.md" title="wikilink">小野寺昭</a>、<a href="../Page/井川比佐志.md" title="wikilink">井川比佐志</a>、<a href="../Page/江守徹.md" title="wikilink">江守徹</a>、<a href="../Page/里見浩太朗.md" title="wikilink">里見浩太朗</a>、<a href="../Page/丹波哲郎.md" title="wikilink">丹波哲郎</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -166,7 +166,7 @@
 </tr>
 <tr class="even">
 <td><p>2008年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/雪之丞変化" title="wikilink">雪之丞変化</a></p></td>
+<td><p><a href="../Page/雪之丞変化.md" title="wikilink">雪之丞変化</a></p></td>
 <td><p>1月3日</p></td>
 <td><p><a href="../Page/三上於菟吉.md" title="wikilink">三上於菟吉</a></p></td>
 <td><p>中島丈博</p></td>

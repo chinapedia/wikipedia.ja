@@ -127,7 +127,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/カターレ富山" title="wikilink">カターレ富山</a></p></td>
+<td><p><a href="../Page/カターレ富山.md" title="wikilink">カターレ富山</a></p></td>
 <td><p>JFL</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富山市" title="wikilink">富山市</a>を中心とする<a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a>全県</p></td>
 <td><p>2008年1月</p></td>

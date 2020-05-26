@@ -23,7 +23,7 @@ Carl Zeiss（[カール・ツァイス](../Page/カール・ツァイス.md "wik
 
 [Office](https://ja.wikipedia.org/wiki/Office "wikilink")ドキュメントの閲覧ソフトや容易にPCと同期出来るPIMアプリケーションなども入っている。
 
-パソコン向けサイトの閲覧ができる Nokia Web Browserも搭載されるが、一部のソフトバンク携帯電話に搭載されている「PCサイトブラウザ」とは異なり、各種パケット定額サービスは対象外。定額で利用できる[モバイルブラウザ](https://ja.wikipedia.org/wiki/モバイルブラウザ "wikilink")(Wap Browser)も搭載。
+パソコン向けサイトの閲覧ができる Nokia Web Browserも搭載されるが、一部のソフトバンク携帯電話に搭載されている「PCサイトブラウザ」とは異なり、各種パケット定額サービスは対象外。定額で利用できる[モバイルブラウザ](../Page/モバイルブラウザ.md "wikilink")(Wap Browser)も搭載。
 
 [国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")機能では、事業者を自動選択するため、現地に持っていくだけで通常通り使用することが可能。事業者も電波の良好なものを選択するため、必然的に他の[ドコモやソフトバンクなどの国際ローミング機能付きの携帯端末よりも電波感度が良い](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")。
 

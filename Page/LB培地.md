@@ -10,7 +10,7 @@
 LB培地の基本処方は次の通りであり、これにより[アミノ酸](https://ja.wikipedia.org/wiki/アミノ酸 "wikilink")、[ビタミン](../Page/ビタミン.md "wikilink")、[ミネラル](../Page/ミネラル.md "wikilink")、[微量元素](https://ja.wikipedia.org/wiki/微量元素 "wikilink")などに富んだ培地が構成される。
 
   - [トリプトン](https://ja.wikipedia.org/wiki/トリプトン "wikilink") 1% (w/v)
-  - [酵母エキス](https://ja.wikipedia.org/wiki/酵母エキス "wikilink") 0.5% (w/v)
+  - [酵母エキス](../Page/酵母エキス.md "wikilink") 0.5% (w/v)
   - [塩化ナトリウム](../Page/塩化ナトリウム.md "wikilink") 1% (w/v)
 
 塩濃度の違う複数の処方が知られている。[抗生物質](https://ja.wikipedia.org/wiki/抗生物質 "wikilink")の中には塩濃度に影響を受けるものがあり、細菌によっては浸透圧の影響を受けるものもあるので、適切な処方を選ぶ必要があることもある。またベルターニによる原処方では0.1% (w/v) の[グルコース](../Page/グルコース.md "wikilink")を加えていた。

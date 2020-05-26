@@ -19,7 +19,7 @@
 | 10位 | <small>大分</small> | <small>[鈴木裕紀](../Page/鈴木裕紀.md "wikilink")</small>                    | <small>高松</small> | <small>[城間修平](../Page/城間修平.md "wikilink")</small>                             |
 | 11位 | <small>大分</small> | <small>[佐藤博紀](../Page/佐藤博紀.md "wikilink")</small>                    | <small>新潟</small> | <small>[池田雄一](../Page/池田雄一_\(バスケットボール\).md "wikilink")</small>                |
 | 12位 | <small>埼玉</small> | <small>[原一希](../Page/原一希.md "wikilink")</small>                      | <small>新潟</small> | <small>[田中千尋](https://ja.wikipedia.org/wiki/田中千尋 "wikilink")</small>          |
-| 13位 | <small>仙台</small> | <small>[斉藤恵一](https://ja.wikipedia.org/wiki/斉藤恵一 "wikilink")</small> | <small>高松</small> | <small>[菊池宏之](https://ja.wikipedia.org/wiki/菊池宏之 "wikilink")</small>          |
+| 13位 | <small>仙台</small> | <small>[斉藤恵一](https://ja.wikipedia.org/wiki/斉藤恵一 "wikilink")</small> | <small>高松</small> | <small>[菊池宏之](../Page/菊池宏之.md "wikilink")</small>                             |
 | 14位 | <small>大阪</small> | <small>[石橋晴行](https://ja.wikipedia.org/wiki/石橋晴行 "wikilink")</small> | <small>富山</small> | <small>[石橋貴俊](../Page/石橋貴俊.md "wikilink")</small>                             |
 | 15位 | <small>大阪</small> | <small>[太田和利](../Page/太田和利.md "wikilink")</small>                    | <small>富山</small> | <small>[野尻晴一](../Page/野尻晴一.md "wikilink")</small>                             |
 | 16位 | <small>新潟</small> | <small>[佐藤公威](../Page/佐藤公威.md "wikilink")</small>                    | <small>高松</small> | <small>[アイザック・ソジャナー](../Page/アイザック・ソジャナー.md "wikilink")</small>               |
@@ -55,7 +55,7 @@
 <tr class="odd">
 <td><p>1位</p></td>
 <td><p><small>京都</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/瀬戸山京介" title="wikilink">瀬戸山京介</a></strong></p></td>
+<td><p><strong><a href="../Page/瀬戸山京介.md" title="wikilink">瀬戸山京介</a></strong></p></td>
 <td><p><small>島根</small></p></td>
 </tr>
 <tr class="even">
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p>3位</p></td>
 <td><p><small>富山</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/加藤真" title="wikilink">加藤真</a></small></p></td>
+<td><p><small><a href="../Page/加藤真.md" title="wikilink">加藤真</a></small></p></td>
 <td><p><small>新潟[2]</small></p></td>
 </tr>
 <tr class="even">
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p>育2位</p></td>
 <td><p><small>富山</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/熊谷渡" title="wikilink">熊谷渡</a></small></p></td>
+<td><p><small><a href="../Page/熊谷渡.md" title="wikilink">熊谷渡</a></small></p></td>
 <td><p><small>秋田</small></p></td>
 </tr>
 <tr class="odd">
@@ -266,7 +266,7 @@
 </tr>
 <tr class="even">
 <td><p><small>東京</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上聡人" title="wikilink">井上聡人</a></p></td>
+<td><p><a href="../Page/井上聡人.md" title="wikilink">井上聡人</a></p></td>
 <td><p><small>長野</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木大_(バスケットボール)" title="wikilink">鈴木大</a></p></td>
 <td><p><small>秋田</small></p></td>

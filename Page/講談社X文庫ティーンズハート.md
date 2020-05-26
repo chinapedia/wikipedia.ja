@@ -16,7 +16,7 @@
 ## 主な作家
 
   - [青山えりか](https://ja.wikipedia.org/wiki/青山えりか "wikilink")
-  - [秋野ひとみ](https://ja.wikipedia.org/wiki/秋野ひとみ_\(小説家\) "wikilink")
+  - [秋野ひとみ](../Page/秋野ひとみ_\(小説家\).md "wikilink")
   - [あさぎり夕](../Page/あさぎり夕.md "wikilink")
   - [石井ゆうみ](https://ja.wikipedia.org/wiki/石井ゆうみ "wikilink")
   - [井出千昌](https://ja.wikipedia.org/wiki/井出千昌 "wikilink")
@@ -43,12 +43,12 @@
   - [津原やすみ](../Page/津原泰水.md "wikilink")
   - [中原涼](../Page/中原涼.md "wikilink")
   - [野原野枝実](../Page/桐野夏生.md "wikilink")
-  - [花井愛子](https://ja.wikipedia.org/wiki/花井愛子 "wikilink")（神戸あやか、浦根絵夢:裏ネームのもじり）
+  - [花井愛子](../Page/花井愛子.md "wikilink")（神戸あやか、浦根絵夢:裏ネームのもじり）
   - [林葉直子](https://ja.wikipedia.org/wiki/林葉直子 "wikilink")
   - [氷堂るびい](https://ja.wikipedia.org/wiki/氷堂るびい "wikilink")
   - [まついなつき](../Page/まついなつき.md "wikilink")
   - [水木マリ](https://ja.wikipedia.org/wiki/水木マリ "wikilink")
-  - [皆川ゆか](https://ja.wikipedia.org/wiki/皆川ゆか "wikilink")
+  - [皆川ゆか](../Page/皆川ゆか.md "wikilink")
   - [宮本りり子](https://ja.wikipedia.org/wiki/宮本りり子 "wikilink")
   - [萌木智佳](https://ja.wikipedia.org/wiki/萌木智佳 "wikilink")
   - [森本由紀子](https://ja.wikipedia.org/wiki/森本由紀子 "wikilink")

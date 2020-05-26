@@ -23,7 +23,7 @@
 2.  **Parasitic Plants**※
       -
         作詞・作曲：[コダマックス](../Page/コダマセントラルステーション.md "wikilink")、編曲：[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲\) "wikilink")
-3.  **[Symphonic](https://ja.wikipedia.org/wiki/5_AHEAD "wikilink")**（Live version）※※
+3.  **[Symphonic](../Page/5_AHEAD.md "wikilink")**（Live version）※※
       -
         作詞・作曲：[HIKARI](../Page/HIKARI.md "wikilink")
     <!-- end list -->

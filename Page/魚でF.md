@@ -33,7 +33,7 @@
     [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")出身。
     身長167cm、体重50kg。
     [血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
-    趣味：[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")、特技：すぐ[オナラを出せる](https://ja.wikipedia.org/wiki/屁 "wikilink")
+    趣味：[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")、特技：すぐ[オナラを出せる](../Page/屁.md "wikilink")
     かつて「[ポプラ並木](https://ja.wikipedia.org/wiki/ポプラ並木_\(お笑い芸人\) "wikilink")」というコンビでも活動していた。
     ポプラ並木解散後、[電波少年](https://ja.wikipedia.org/wiki/電波少年 "wikilink")出演者のその後をインタビューした雑誌特集において、元相方である[青木史幸](https://ja.wikipedia.org/wiki/青木史幸 "wikilink")は及川の事を「嘘つき野郎」、また及川も「青木とはもうやっていけない」と発言するなど、解散時には相当険悪な仲になっていたことが伺える。
     事務所の先輩である[日村勇紀](../Page/日村勇紀.md "wikilink")（[バナナマン](../Page/バナナマン.md "wikilink")）と長年同居していた\[1\]。

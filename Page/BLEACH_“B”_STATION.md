@@ -72,7 +72,7 @@
 <tr class="even">
 <td><p>4月</p></td>
 <td><p>|<a href="../Page/折笠富美子.md" title="wikilink">折笠富美子</a><br />
-（<a href="https://ja.wikipedia.org/wiki/朽木ルキア" title="wikilink">朽木ルキア</a>役）</p></td>
+（<a href="../Page/朽木ルキア.md" title="wikilink">朽木ルキア</a>役）</p></td>
 <td><p>|折笠富美子<br />
 （朽木ルキア役）</p></td>
 <td><p>|折笠富美子<br />
@@ -542,7 +542,7 @@
     5.  ENDING TALK
     6.  響 -Urge String Mix-
           -
-            歌：[朽木ルキア](https://ja.wikipedia.org/wiki/朽木ルキア "wikilink")（折笠富美子）
+            歌：[朽木ルキア](../Page/朽木ルキア.md "wikilink")（折笠富美子）
 2.  BLEACH “B” STATION FIFTH SEASON VOL.2（2011年3月23日、SVWC-7742）
     1.  OPENING TALK
     2.  KENJI HAMADA ON THE AIR 〜記憶がない記憶がない〜

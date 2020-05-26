@@ -10,7 +10,7 @@
   - 新設にあたり[2005年](../Page/2005年.md "wikilink")に行われた「[KAIENTAI DOJOという名のタッグリーグ戦](https://ja.wikipedia.org/wiki/KAIENTAI_DOJOという名のタッグリーグ戦 "wikilink")」の優勝者が初代王者ということになり、[千葉ブルーフィールドで開催された決勝戦にて](https://ja.wikipedia.org/wiki/Blue_Field "wikilink")[TAKAみちのく](../Page/TAKAみちのく.md "wikilink")、[筑前りょう太](../Page/筑前りょう太.md "wikilink")組を破り[真霜拳號](../Page/真霜拳號.md "wikilink")、[KAZMA](https://ja.wikipedia.org/wiki/KAZMA "wikilink")組が初代王者となった。
   - 団体のカラーである青いベルトであり中央に団体ロゴが掲げられている。
   - 2010年11月10日の新木場大会で[山縣優](../Page/山縣優.md "wikilink")、[バンビ組が女子選手として初めて王座に挑戦した](../Page/バンビ_\(プロレスラー\).md "wikilink")。
-  - [2019年](../Page/2019年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")から団体名を2AWへ変更するに伴い、KAIENTAI DOJOに関わる王座は封印され、新たに2AWが認定する王座が作られる事になった。
+  - [2019年](../Page/2019年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")から団体名を2AWへ変更するに伴い、KAIENTAI DOJOに関わる王座は封印され、新たに2AWが認定する王座が作られる事になった。
 
 ## 歴代王者
 

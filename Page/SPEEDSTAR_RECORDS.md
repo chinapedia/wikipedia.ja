@@ -431,7 +431,7 @@ BMG JAPANから移籍</p></td>
 <td><p><a href="../Page/キセル_(バンド).md" title="wikilink">キセル</a></p></td>
 <td><p>キセル</p></td>
 <td><p>2001年〜2005年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カクバリズム" title="wikilink">カクバリズム</a>へ移籍</p></td>
+<td><p><a href="../Page/カクバリズム.md" title="wikilink">カクバリズム</a>へ移籍</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1210,7 +1210,7 @@ VICL-61506</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/ナキムシのうた" title="wikilink">ナキムシのうた</a> / 風味堂</li>
 <li><a href="../Page/おなじ星.md" title="wikilink">おなじ星</a> / Jungle Smile</li>
 <li><a href="https://ja.wikipedia.org/wiki/未来_(THE_BACK_HORNの曲)未来" title="wikilink">未来 (THE BACK HORNの曲)未来</a> / THE BACK HORN</li>
-<li><a href="https://ja.wikipedia.org/wiki/PULSE" title="wikilink">PULSE</a> / THE MAD CAPSULE MARKETS</li>
+<li><a href="../Page/PULSE.md" title="wikilink">PULSE</a> / THE MAD CAPSULE MARKETS</li>
 <li>THE JUNGLE OF LOVE(You maybe King, but I'm the Wild Thing) / SHEENA &amp; THE ROKKETS</li>
 <li>ハナレバナレ / キセル</li>
 <li>夜明け前 / TOKYO No.1 SOUL SET</li>

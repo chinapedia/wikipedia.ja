@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - [インド系移民](https://ja.wikipedia.org/wiki/インド系移民と在外インド人 "wikilink")(Person of Indian Origin)の略称。
+  - [インド系移民](../Page/インド系移民と在外インド人.md "wikilink")(Person of Indian Origin)の略称。
 
   -
   - \- [電気通信事業者](../Page/電気通信事業者.md "wikilink")同士が相互に通信網を接続する際の接続点のこと。

@@ -102,7 +102,7 @@ MELLOW YELLOW、Funky Lemonadeの作品は除く
   - [DJ SUDA](https://ja.wikipedia.org/wiki/DJ_SUDA "wikilink"),『family』（KOHEI JAPANアルバム内） CD 2（2007年6月20日）
       - 「森の音楽家 feat.KOHEI JAPAN」
   - [童子-T](../Page/童子-T.md "wikilink")『[ONE MIC](../Page/ONE_MIC.md "wikilink")』（2007年[8月29日](../Page/8月29日.md "wikilink")）
-      - 「Turn It Up feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), LITTLE, KOHEI JAPAN, [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")」
+      - 「Turn It Up feat.[VERBAL](../Page/VERBAL.md "wikilink"), LITTLE, KOHEI JAPAN, [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")」
   - [KREVA](../Page/KREVA.md "wikilink")『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")\[DVD付限定盤\]』（2007年[9月5日](../Page/9月5日.md "wikilink")）
       - 「アグレッシ部(Remix) feat.KOHEI JAPAN & [SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")」
   - [DJ MITSU THE BEATS](https://ja.wikipedia.org/wiki/DJ_MITSU_THE_BEATS "wikilink")（KOHEI JAPANアルバム内）『[Family E.P](https://ja.wikipedia.org/wiki/Family_E.P "wikilink")』（2008年2月6日）

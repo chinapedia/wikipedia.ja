@@ -254,7 +254,7 @@
 
   - [ズドラヴコ・クズマノヴィッチ](../Page/ズドラヴコ・クズマノヴィッチ.md "wikilink") 2005-2007, 2015-
 
-  - [イヴァン・ラキティッチ](https://ja.wikipedia.org/wiki/イヴァン・ラキティッチ "wikilink") 2005-2007
+  - [イヴァン・ラキティッチ](../Page/イヴァン・ラキティッチ.md "wikilink") 2005-2007
 
   - [ファビアン・フライ](https://ja.wikipedia.org/wiki/ファビアン・フライ "wikilink") 2007-2015, 2018
 

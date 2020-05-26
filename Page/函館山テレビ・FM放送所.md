@@ -415,7 +415,7 @@
 
   - [NHK亀田ラジオ放送所](../Page/NHK亀田ラジオ放送所.md "wikilink")
   - [HBC函館ラジオ送信所](../Page/HBC函館ラジオ送信所.md "wikilink")
-  - [STV函館ラジオ送信所](https://ja.wikipedia.org/wiki/STV函館ラジオ送信所 "wikilink")
+  - [STV函館ラジオ送信所](../Page/STV函館ラジオ送信所.md "wikilink")
 
 <!-- end list -->
 

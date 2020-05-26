@@ -46,7 +46,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [1月13日](../Page/1月13日.md "wikilink") - 11thシングル「[さくらびと](https://ja.wikipedia.org/wiki/さくらびと "wikilink")」発売。アニメ『BLEACH』[2009年](../Page/2009年.md "wikilink")10月～2010年1月期のエンディングテーマ。同時に3rdアルバム『[夕暮れマエストロ](https://ja.wikipedia.org/wiki/夕暮れマエストロ "wikilink")』を発表。
       - [2月17日](../Page/2月17日.md "wikilink") - 3rdアルバム『夕暮れマエストロ』発売。
-      - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - 12thシングル「[バライロ](https://ja.wikipedia.org/wiki/バライロ "wikilink")」発売。テレビドラマ『[三代目明智小五郎〜今日も明智が殺される〜](https://ja.wikipedia.org/wiki/三代目明智小五郎〜今日も明智が殺される〜 "wikilink")』主題歌に起用。
+      - [6月2日](../Page/6月2日.md "wikilink") - 12thシングル「[バライロ](https://ja.wikipedia.org/wiki/バライロ "wikilink")」発売。テレビドラマ『[三代目明智小五郎〜今日も明智が殺される〜](https://ja.wikipedia.org/wiki/三代目明智小五郎〜今日も明智が殺される〜 "wikilink")』主題歌に起用。
       - [12月22日](../Page/12月22日.md "wikilink") - 1stベストアルバム『[SunSet Swish 5th Anniversary Complete Best](https://ja.wikipedia.org/wiki/SunSet_Swish_5th_Anniversary_Complete_Best "wikilink")』発売。
   - [2011年](../Page/2011年.md "wikilink")
       - [2月21日](../Page/2月21日.md "wikilink") - オフィシャルHPにて活動一時休止が発表される。
@@ -158,7 +158,7 @@
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
-<td><p>2010年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p>2010年<a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><em>' <a href="https://ja.wikipedia.org/wiki/バライロ" title="wikilink">バライロ</a></em>'</p></td>
 <td><p>110位</p></td>
 </tr>

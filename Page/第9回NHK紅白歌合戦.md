@@ -49,7 +49,7 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本二三代" title="wikilink">藤本二三代</a>（初）</p></td>
+<td><p><a href="../Page/藤本二三代.md" title="wikilink">藤本二三代</a>（初）</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -69,7 +69,7 @@
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大津美子" title="wikilink">大津美子</a>(3)</p></td>
+<td><p><a href="../Page/大津美子.md" title="wikilink">大津美子</a>(3)</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
@@ -140,7 +140,7 @@
 #### 選考を巡って
 
   - 前回の出場歌手の中より不選出となった歌手は以下。
-      - 紅組:[暁テル子](https://ja.wikipedia.org/wiki/暁テル子 "wikilink")・[朝丘雪路](../Page/朝丘雪路.md "wikilink")・[池真理子](../Page/池真理子.md "wikilink")・[菊池章子](../Page/菊池章子.md "wikilink")・[久慈あさみ](../Page/久慈あさみ.md "wikilink")・[鈴木三重子](../Page/鈴木三重子.md "wikilink")
+      - 紅組:[暁テル子](../Page/暁テル子.md "wikilink")・[朝丘雪路](../Page/朝丘雪路.md "wikilink")・[池真理子](../Page/池真理子.md "wikilink")・[菊池章子](../Page/菊池章子.md "wikilink")・[久慈あさみ](../Page/久慈あさみ.md "wikilink")・[鈴木三重子](../Page/鈴木三重子.md "wikilink")
       - 白組:[青木光一](../Page/青木光一.md "wikilink")・[近江俊郎](../Page/近江俊郎.md "wikilink")・[高英男](../Page/高英男.md "wikilink")・[小畑実](../Page/小畑実_\(歌手\).md "wikilink")\[1\]・[白根一男](https://ja.wikipedia.org/wiki/白根一男 "wikilink")・[灰田勝彦](../Page/灰田勝彦.md "wikilink")・[藤山一郎](../Page/藤山一郎.md "wikilink")
   - ダークダックスが初出場。それまでの紅白は全てソロ歌手の出場が原則であったため、初めてグループの出場が解禁となった。
   - 今回前後しばらくの間は出場歌手の選考方針として、「各ジャンルの代表歌手を必ず一人は入れる」というのが基礎になっていたため、[ラテン](../Page/ラテン音楽.md "wikilink")・[シャンソン](../Page/シャンソン.md "wikilink")・[タンゴ](../Page/タンゴ.md "wikilink")・[ジャズ](../Page/ジャズ.md "wikilink")など様々な歌手が出場している。
@@ -169,7 +169,7 @@
   - [藤家虹二](../Page/藤家虹二.md "wikilink")
   - [由利徹](../Page/由利徹.md "wikilink")
   - [南利明](../Page/南利明_\(俳優\).md "wikilink")
-  - [武智豊子](https://ja.wikipedia.org/wiki/武智豊子 "wikilink")
+  - [武智豊子](../Page/武智豊子.md "wikilink")
   - [藤間清](https://ja.wikipedia.org/wiki/藤間清 "wikilink")
   - [高倉健](../Page/高倉健.md "wikilink")
 
@@ -186,7 +186,7 @@
 ## 後日譚
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")放送の[NHK-FM](../Page/NHK-FM放送.md "wikilink")『[今日は一日“戦後歌謡”三昧](https://ja.wikipedia.org/wiki/今日は一日○○三昧#第60回「今日は一日“戦後歌謡”三昧」 "wikilink")』の中で、現存するラジオ中継の音声のうち、8人の出場歌手達の歌の音声が紹介された（音声はモノラル）。紹介された歌手達は以下の通り（各組歌唱順）。
-      - 紅組 … [松山恵子](../Page/松山恵子.md "wikilink")、[江利チエミ](../Page/江利チエミ.md "wikilink")、[大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")、[淡谷のり子](../Page/淡谷のり子.md "wikilink")
+      - 紅組 … [松山恵子](../Page/松山恵子.md "wikilink")、[江利チエミ](../Page/江利チエミ.md "wikilink")、[大津美子](../Page/大津美子.md "wikilink")、[淡谷のり子](../Page/淡谷のり子.md "wikilink")
       - 白組 … [神戸一郎](../Page/神戸一郎.md "wikilink")、[フランキー堺](../Page/フランキー堺.md "wikilink")、[三波春夫](../Page/三波春夫.md "wikilink")、[三浦洸一](../Page/三浦洸一.md "wikilink")
 
 ## 脚注

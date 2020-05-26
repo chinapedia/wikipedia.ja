@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")のファンであり、好きな作品ベスト3は『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』『[超神ビビューン](../Page/超神ビビューン.md "wikilink")』『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")』
+  - [漫画家](../Page/漫画家.md "wikilink")の[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")のファンであり、好きな作品ベスト3は『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』『[超神ビビューン](../Page/超神ビビューン.md "wikilink")』『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")』
 
 <!-- end list -->
 

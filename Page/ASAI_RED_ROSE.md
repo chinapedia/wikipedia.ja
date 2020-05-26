@@ -41,8 +41,8 @@
   - [宮島里奈](../Page/宮島里奈.md "wikilink")
   - [山中美代子](https://ja.wikipedia.org/wiki/山中美代子 "wikilink")（ - 2008年12月7日）
   - [たまこ](../Page/たまこ.md "wikilink")（ - 2008年12月7日）
-  - [吉野みづほ](https://ja.wikipedia.org/wiki/吉野みづほ "wikilink")（ - 2008年12月7日）
-  - [中西里菜](https://ja.wikipedia.org/wiki/中西里菜_\(スタイリッシュハート\) "wikilink")（ - 2008年12月7日）
+  - [吉野みづほ](../Page/吉野みづほ.md "wikilink")（ - 2008年12月7日）
+  - [中西里菜](../Page/中西里菜_\(スタイリッシュハート\).md "wikilink")（ - 2008年12月7日）
 
 ## 戦績
 

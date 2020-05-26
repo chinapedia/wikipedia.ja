@@ -152,7 +152,7 @@
 <tr class="odd">
 <td><p>HO</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺耕平" title="wikilink">渡辺耕平</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/関東学院大学ラグビー部" title="wikilink">関東学院大</a></p></td>
+<td><p><a href="../Page/関東学院大学ラグビー部.md" title="wikilink">関東学院大</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

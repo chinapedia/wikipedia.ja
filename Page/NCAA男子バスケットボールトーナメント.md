@@ -968,7 +968,7 @@
 <td><p><a href="../Page/シラキューズ・オレンジ.md" title="wikilink">シラキュース・オレンジメン</a><br />
 （<a href="../Page/シラキュース大学.md" title="wikilink">シラキュース大学</a>）<br />
 <a href="../Page/ビッグ・イースト・カンファレンス.md" title="wikilink">Big East</a> / 29勝8敗・勝率.784 / AP #15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイゾッド・センター" title="wikilink">コンチネンタル・エアラインズ・<br />
+<td><p><a href="../Page/アイゾッド・センター.md" title="wikilink">コンチネンタル・エアラインズ・<br />
 アリーナ</a>（<a href="../Page/ニュージャージー州.md" title="wikilink">ニュージャージー州</a><br />
 <a href="../Page/イーストラザフォード.md" title="wikilink">イーストラザフォード</a>）</p></td>
 <td><p>19,229人</p></td>
@@ -1002,7 +1002,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ユタ・ユーツ" title="wikilink">ユタ・ユーツ</a><br />
 （<a href="../Page/ユタ大学.md" title="wikilink">ユタ大学</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/ウェスタン・アスレチック・カンファレンス" title="wikilink">WAC</a> / 30勝3敗・勝率.909 / AP #7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラモドーム" title="wikilink">アラモドーム</a><br />
+<td><p><a href="../Page/アラモドーム.md" title="wikilink">アラモドーム</a><br />
 （<a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="https://ja.wikipedia.org/wiki/サンアントニオ" title="wikilink">サンアントニオ</a>）</p></td>
 <td><p>40,509人</p></td>
 </tr>
@@ -1099,7 +1099,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョージアテック・イエロージャケッツ" title="wikilink">ジョージアテック・イエロージャケッツ</a><br />
 （<a href="../Page/ジョージア工科大学.md" title="wikilink">ジョージア工科大学</a>）<br />
 <a href="../Page/アトランティック・コースト・カンファレンス.md" title="wikilink">ACC</a> / 28勝9敗・勝率.757 / AP #14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラモドーム" title="wikilink">アラモドーム</a><br />
+<td><p><a href="../Page/アラモドーム.md" title="wikilink">アラモドーム</a><br />
 （<a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="https://ja.wikipedia.org/wiki/サンアントニオ" title="wikilink">サンアントニオ</a>）</p></td>
 <td><p>44,468人</p></td>
 </tr>
@@ -1164,7 +1164,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/メンフィス・タイガース" title="wikilink">メンフィス・タイガース</a><br />
 （<a href="https://ja.wikipedia.org/wiki/メンフィス大学" title="wikilink">メンフィス大学</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/カンファレンスUSA" title="wikilink">C-USA</a> / 38勝1敗・勝率.974 / AP #2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラモドーム" title="wikilink">アラモドーム</a><br />
+<td><p><a href="../Page/アラモドーム.md" title="wikilink">アラモドーム</a><br />
 （<a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="https://ja.wikipedia.org/wiki/サンアントニオ" title="wikilink">サンアントニオ</a>）</p></td>
 <td><p>43,257人</p></td>
 </tr>
@@ -1325,7 +1325,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ミシガン・ウルヴァリンズ" title="wikilink">ミシガン・ウルヴァリンズ</a><br />
 （<a href="../Page/ミシガン大学.md" title="wikilink">ミシガン大学</a>）<br />
 <a href="../Page/ビッグ・テン・カンファレンス.md" title="wikilink">Big Ten</a> / 33勝7敗・勝率.825 / AP #7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラモドーム" title="wikilink">アラモドーム</a><br />
+<td><p><a href="../Page/アラモドーム.md" title="wikilink">アラモドーム</a><br />
 （<a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="https://ja.wikipedia.org/wiki/サンアントニオ" title="wikilink">サンアントニオ</a>）</p></td>
 <td><p>67,831人</p></td>
 </tr>

@@ -20,7 +20,7 @@
 
 ### テレビ番組
 
-  - [伝説の教師](https://ja.wikipedia.org/wiki/伝説の教師 "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
+  - [伝説の教師](../Page/伝説の教師.md "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
   - [愛のエプロン2](https://ja.wikipedia.org/wiki/愛のエプロン2 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系、[深夜番組](../Page/深夜番組.md "wikilink")時代に準レギュラー。この番組で芸能界引退を伝えた）
   - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、YURIMARI時代から一時引退まで準レギュラーとして出演。2006年8月より再び準レギュラーとなった）
   - [たかじんONEMAN](https://ja.wikipedia.org/wiki/たかじんONEMAN "wikilink")（毎日放送、不定期出演）

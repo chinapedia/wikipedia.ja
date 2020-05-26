@@ -81,7 +81,7 @@ HD DVD事業の終息でAシリーズで録画したTSタイトルがHD DVD-Rに
 
 RD-A301ではDVDメディアにハイビジョン記録する[HD Recに対応した](../Page/HD_Rec.md "wikilink")。HD DVD-Rの存在意義を自ら否定するような機能だが、HD DVD-RはDVD-Rと同じ生産ラインで製造可能なためBD陣営に比べて悪影響は少ないと主張していた\[17\]。なおBD陣営の[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")も同様の規格[AVCREC](../Page/AVCREC.md "wikilink")を採用したが、HD Recとの互換性は現在のところない。
 
-当時高価だったHD DVDなどの次世代メディア（当時）よりも、手軽なハイビジョン記録を普及させることで「次世代DVD」（当時）の規格争いの決着を遅らせる目的があったと言われていたが\[18\]、年末商戦では発売が12月中旬と大きく遅れたことも影響し[ソニー](../Page/ソニー.md "wikilink")の[BDレコーダー](https://ja.wikipedia.org/wiki/BDZ "wikilink")（DVDへのハイビジョン記録は不可）が大幅にシェアを伸ばしこの目論見は外れた形となった。
+当時高価だったHD DVDなどの次世代メディア（当時）よりも、手軽なハイビジョン記録を普及させることで「次世代DVD」（当時）の規格争いの決着を遅らせる目的があったと言われていたが\[18\]、年末商戦では発売が12月中旬と大きく遅れたことも影響し[ソニー](../Page/ソニー.md "wikilink")の[BDレコーダー](../Page/BDZ.md "wikilink")（DVDへのハイビジョン記録は不可）が大幅にシェアを伸ばしこの目論見は外れた形となった。
 
 2008年5月、東芝のHD DVD事業収束後としては初めてHD Rec対応VARDIAが発表されHD Recの規格は継続する事が判明した\[19\]。ちなみに発表された3機種（X7/S502/S302）から、A301では記録に問題があったDVD-RWとDVD-RAMにも正式に対応されるようになった。
 
@@ -210,7 +210,7 @@ RD-A301のCMにはモデルの[長谷川潤を起用し](https://ja.wikipedia.or
 ## 競合他社製品
 
   - [DIGA](https://ja.wikipedia.org/wiki/DIGA "wikilink")（[Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）
-  - [スゴ録](../Page/スゴ録.md "wikilink") ⇒ [Blu-rayレコーダー](https://ja.wikipedia.org/wiki/BDZ "wikilink")（[SONY](../Page/ソニー.md "wikilink")）
+  - [スゴ録](../Page/スゴ録.md "wikilink") ⇒ [Blu-rayレコーダー](../Page/BDZ.md "wikilink")（[SONY](../Page/ソニー.md "wikilink")）
   - [D-Combo](https://ja.wikipedia.org/wiki/D-Combo "wikilink") ⇒ [AQUOSハイビジョンレコーダー、AQUOSブルーレイ](../Page/アクオス.md "wikilink")（[SHARP](../Page/シャープ.md "wikilink")）
   - [Wooo](../Page/Wooo.md "wikilink")（[HITACHI](../Page/日立製作所.md "wikilink")）
   - [楽レコ](https://ja.wikipedia.org/wiki/楽レコ "wikilink") ⇒ [REAL](../Page/リアル_\(三菱電機\).md "wikilink")（[MITSUBISHI](../Page/三菱電機.md "wikilink")）

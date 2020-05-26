@@ -29,7 +29,7 @@
 
 ## 証明
 
-この  *mc*}} と言う関係式は、アインシュタインによる公式の中で最も有名なものではあるが、[経験則](../Page/経験則.md "wikilink")に基づく[仮説](../Page/仮説.md "wikilink")として、長年の間厳密な[証明](../Page/証明.md "wikilink")はされないままであった。しかし、[原子核](../Page/原子核.md "wikilink")の[核子](../Page/核子.md "wikilink")を構成する[クォーク](https://ja.wikipedia.org/wiki/クォーク "wikilink")と核子同士を結び付ける[グルーオン](../Page/グルーオン.md "wikilink")は、それぞれ質量が全体の5%および0であるにもかかわらず、これらクォークとグルーオンの動きや相互作用によって発生するエネルギーが原子核の質量の源となるという[論文](../Page/論文.md "wikilink")が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売の[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[学術誌](../Page/学術雑誌.md "wikilink")『[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")』に掲載された\[5\]\[6\]。このことにより、これまでは仮説だったこの関係式が、ようやく実証されたことになる\[7\]。
+この  *mc*}} と言う関係式は、アインシュタインによる公式の中で最も有名なものではあるが、[経験則](../Page/経験則.md "wikilink")に基づく[仮説](../Page/仮説.md "wikilink")として、長年の間厳密な[証明](../Page/証明.md "wikilink")はされないままであった。しかし、[原子核](../Page/原子核.md "wikilink")の[核子](../Page/核子.md "wikilink")を構成する[クォーク](https://ja.wikipedia.org/wiki/クォーク "wikilink")と核子同士を結び付ける[グルーオン](../Page/グルーオン.md "wikilink")は、それぞれ質量が全体の5%および0であるにもかかわらず、これらクォークとグルーオンの動きや相互作用によって発生するエネルギーが原子核の質量の源となるという[論文](../Page/論文.md "wikilink")が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売の[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[学術誌](../Page/学術雑誌.md "wikilink")『[ネイチャー](../Page/ネイチャー.md "wikilink")』に掲載された\[5\]\[6\]。このことにより、これまでは仮説だったこの関係式が、ようやく実証されたことになる\[7\]。
 
 ## 脚注
 

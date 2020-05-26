@@ -84,7 +84,7 @@
   - [ココリコミリオン家族](../Page/ココリコミリオン家族.md "wikilink")（[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")、2008年11月25日、山本のみ）
   - [クギづけ](https://ja.wikipedia.org/wiki/クギづけ "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2009年2月19日、山本のみ）
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2009年5月6日、2009年7月15日、2009年10月21日）
-  - [エンタの天使](https://ja.wikipedia.org/wiki/エンタの天使 "wikilink")（日本テレビ、2009年5月27日） - キャッチコピーは「摩訶不思議なアドベンチャー」
+  - [エンタの天使](../Page/エンタの天使.md "wikilink")（日本テレビ、2009年5月27日） - キャッチコピーは「摩訶不思議なアドベンチャー」
   - [やりすぎコージー](../Page/やりすぎコージー.md "wikilink")カウントダウン芸人（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2009年6月22日）
   - [BS吉テレ](https://ja.wikipedia.org/wiki/BS吉テレ "wikilink")「デジ魂」（[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")、2013年6月18日、2013年7月23日、山本のみ）
   - コミュニてれび（[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink") ch.241、2013年9月2日、山本のみ）コスプレ芸人として出演

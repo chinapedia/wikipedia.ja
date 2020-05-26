@@ -86,7 +86,7 @@
       -
         本作は従前とは違う歴史観によって描かれているが、義経は定説どおりのスーパーヒーローとして描かれている。
   - [鎌田政清](../Page/鎌田政清.md "wikilink")：**[成田次穂](https://ja.wikipedia.org/wiki/成田次穂 "wikilink")**
-  - [鎌田正近](../Page/鎌田光政.md "wikilink")：**[根岸一正](https://ja.wikipedia.org/wiki/根岸一正 "wikilink")**
+  - [鎌田正近](../Page/鎌田光政.md "wikilink")：**[根岸一正](../Page/根岸一正.md "wikilink")**
   - [金子十郎](../Page/金子家忠.md "wikilink")：**[児玉謙次](../Page/児玉謙次_\(俳優\).md "wikilink")**
   - 横山相模介：[西田敏行](../Page/西田敏行.md "wikilink")（二役）
   - [長田忠致](../Page/長田忠致.md "wikilink")：**[穂高稔](../Page/穂高稔.md "wikilink")**

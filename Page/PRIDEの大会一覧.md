@@ -28,7 +28,7 @@
 <tr class="even">
 <td><p><a href="../Page/PRIDE.33.md" title="wikilink">PRIDE.33 "THE SECOND COMING"</a></p></td>
 <td><p>2007年2月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トーマス&amp;マック・センター" title="wikilink">トーマス&amp;マック・センター</a></p></td>
+<td><p><a href="../Page/トーマス&amp;マック・センター.md" title="wikilink">トーマス&amp;マック・センター</a></p></td>
 <td><p><a href="../Page/ネバダ州.md" title="wikilink">ネバダ州</a><a href="../Page/ラスベガス.md" title="wikilink">ラスベガス</a></p></td>
 <td><p>12,911</p></td>
 </tr>
@@ -282,35 +282,35 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_無差別級グランプリ_2006_決勝戦" title="wikilink">PRIDE 無差別級グランプリ 2006 決勝戦</a></p></td>
+<td><p><a href="../Page/PRIDE_無差別級グランプリ_2006_決勝戦.md" title="wikilink">PRIDE 無差別級グランプリ 2006 決勝戦</a></p></td>
 <td><p>2006年9月10日</p></td>
 <td><p>さいたまスーパーアリーナ</p></td>
 <td><p>埼玉県さいたま市</p></td>
 <td><p>47,410</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_無差別級グランプリ_2006_2nd_ROUND" title="wikilink">PRIDE 無差別級グランプリ 2006 2nd ROUND</a></p></td>
+<td><p><a href="../Page/PRIDE_無差別級グランプリ_2006_2nd_ROUND.md" title="wikilink">PRIDE 無差別級グランプリ 2006 2nd ROUND</a></p></td>
 <td><p>2006年7月1日</p></td>
 <td><p>44,606</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_無差別級グランプリ_2006_開幕戦" title="wikilink">PRIDE 無差別級グランプリ 2006 開幕戦</a></p></td>
+<td><p><a href="../Page/PRIDE_無差別級グランプリ_2006_開幕戦.md" title="wikilink">PRIDE 無差別級グランプリ 2006 開幕戦</a></p></td>
 <td><p>2006年5月5日</p></td>
 <td><p><a href="../Page/大阪ドーム.md" title="wikilink">大阪ドーム</a></p></td>
 <td><p>大阪府大阪市</p></td>
 <td><p>47,423</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_GRANDPRIX_2005_決勝戦" title="wikilink">PRIDE GRANDPRIX 2005 決勝戦</a></p></td>
+<td><p><a href="../Page/PRIDE_GRANDPRIX_2005_決勝戦.md" title="wikilink">PRIDE GRANDPRIX 2005 決勝戦</a></p></td>
 <td><p>2005年8月28日</p></td>
 <td><p>さいたまスーパーアリーナ</p></td>
 <td><p>埼玉県さいたま市</p></td>
 <td><p>47,629</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_GRANDPRIX_2005_2nd_ROUND" title="wikilink">PRIDE GRANDPRIX 2005 2nd ROUND</a></p></td>
+<td><p><a href="../Page/PRIDE_GRANDPRIX_2005_2nd_ROUND.md" title="wikilink">PRIDE GRANDPRIX 2005 2nd ROUND</a></p></td>
 <td><p>2005年6月26日</p></td>
 <td><p>45,102</p></td>
 <td></td>
@@ -324,7 +324,7 @@
 <td><p>45,423</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_GRANDPRIX_2004_決勝戦" title="wikilink">PRIDE GRANDPRIX 2004 決勝戦</a></p></td>
+<td><p><a href="../Page/PRIDE_GRANDPRIX_2004_決勝戦.md" title="wikilink">PRIDE GRANDPRIX 2004 決勝戦</a></p></td>
 <td><p>2004年8月15日</p></td>
 <td><p>さいたまスーパーアリーナ</p></td>
 <td><p>埼玉県さいたま市</p></td>
@@ -398,91 +398,91 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の十三-" title="wikilink">PRIDE 武士道 -其の十三-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の十三-.md" title="wikilink">PRIDE 武士道 -其の十三-</a></p></td>
 <td><p>2006年11月5日</p></td>
 <td><p>横浜アリーナ</p></td>
 <td><p>神奈川県横浜市</p></td>
 <td><p>10,868</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の十二-" title="wikilink">PRIDE 武士道 -其の十二-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の十二-.md" title="wikilink">PRIDE 武士道 -其の十二-</a></p></td>
 <td><p>2006年8月26日</p></td>
 <td><p>名古屋レインボーホール</p></td>
 <td><p>愛知県名古屋市</p></td>
 <td><p>9,952</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の十一-" title="wikilink">PRIDE 武士道 -其の十一-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の十一-.md" title="wikilink">PRIDE 武士道 -其の十一-</a></p></td>
 <td><p>2006年6月4日</p></td>
 <td><p>さいたまスーパーアリーナ</p></td>
 <td><p>埼玉県さいたま市</p></td>
 <td><p>13,371</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の拾-" title="wikilink">PRIDE 武士道 -其の拾-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の拾-.md" title="wikilink">PRIDE 武士道 -其の拾-</a></p></td>
 <td><p>2006年4月2日</p></td>
 <td><p>有明コロシアム</p></td>
 <td><p>東京都江東区</p></td>
 <td><p>9,313</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の九-" title="wikilink">PRIDE 武士道 -其の九-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の九-.md" title="wikilink">PRIDE 武士道 -其の九-</a></p></td>
 <td><p>2005年9月25日</p></td>
 <td><p>10,775</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の八-" title="wikilink">PRIDE 武士道 -其の八-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の八-.md" title="wikilink">PRIDE 武士道 -其の八-</a></p></td>
 <td><p>2005年7月17日</p></td>
 <td><p>名古屋レインボーホール</p></td>
 <td><p>愛知県名古屋市</p></td>
 <td><p>9,784</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の七-" title="wikilink">PRIDE 武士道 -其の七-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の七-.md" title="wikilink">PRIDE 武士道 -其の七-</a></p></td>
 <td><p>2005年5月22日</p></td>
 <td><p>有明コロシアム</p></td>
 <td><p>東京都江東区</p></td>
 <td><p>8,861</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の六-" title="wikilink">PRIDE 武士道 -其の六-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の六-.md" title="wikilink">PRIDE 武士道 -其の六-</a></p></td>
 <td><p>2005年4月3日</p></td>
 <td><p>横浜アリーナ</p></td>
 <td><p>神奈川県横浜市</p></td>
 <td><p>14,121</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の伍-" title="wikilink">PRIDE 武士道 -其の伍-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の伍-.md" title="wikilink">PRIDE 武士道 -其の伍-</a></p></td>
 <td><p>2004年10月14日</p></td>
 <td><p>大阪城ホール</p></td>
 <td><p>大阪府大阪市</p></td>
 <td><p>9,437</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の四-" title="wikilink">PRIDE 武士道 -其の四-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の四-.md" title="wikilink">PRIDE 武士道 -其の四-</a></p></td>
 <td><p>2004年7月19日</p></td>
 <td><p>名古屋レインボーホール</p></td>
 <td><p>愛知県名古屋市</p></td>
 <td><p>10,892</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の参-" title="wikilink">PRIDE 武士道 -其の参-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の参-.md" title="wikilink">PRIDE 武士道 -其の参-</a></p></td>
 <td><p>2004年5月23日</p></td>
 <td><p>横浜アリーナ</p></td>
 <td><p>神奈川県横浜市</p></td>
 <td><p>14,536</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の弐-" title="wikilink">PRIDE 武士道 -其の弐-</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の弐-.md" title="wikilink">PRIDE 武士道 -其の弐-</a></p></td>
 <td><p>2004年2月15日</p></td>
 <td><p>14,117</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_武士道_-其の壱-" title="wikilink">PRIDE 武士道</a></p></td>
+<td><p><a href="../Page/PRIDE_武士道_-其の壱-.md" title="wikilink">PRIDE 武士道</a></p></td>
 <td><p>2003年10月5日</p></td>
 <td><p>さいたまスーパーアリーナ</p></td>
 <td><p>埼玉県さいたま市</p></td>
@@ -514,28 +514,28 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_男祭り_2006" title="wikilink">PRIDE 男祭り 2006 -FUMETSU-</a></p></td>
+<td><p><a href="../Page/PRIDE_男祭り_2006.md" title="wikilink">PRIDE 男祭り 2006 -FUMETSU-</a></p></td>
 <td><p>2006年12月31日</p></td>
 <td><p>さいたまスーパーアリーナ</p></td>
 <td><p>埼玉県さいたま市</p></td>
 <td><p>48,709</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_男祭り_2005" title="wikilink">PRIDE 男祭り 2005 頂-ITADAKI-</a></p></td>
+<td><p><a href="../Page/PRIDE_男祭り_2005.md" title="wikilink">PRIDE 男祭り 2005 頂-ITADAKI-</a></p></td>
 <td><p>2005年12月31日</p></td>
 <td><p>49,801</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_男祭り_2004" title="wikilink">PRIDE 男祭り 2004 -SADAME-</a></p></td>
+<td><p><a href="../Page/PRIDE_男祭り_2004.md" title="wikilink">PRIDE 男祭り 2004 -SADAME-</a></p></td>
 <td><p>2004年12月31日</p></td>
 <td><p>48,398</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PRIDE_SPECIAL_男祭り_2003" title="wikilink">PRIDE SPECIAL 男祭り 2003</a></p></td>
+<td><p><a href="../Page/PRIDE_SPECIAL_男祭り_2003.md" title="wikilink">PRIDE SPECIAL 男祭り 2003</a></p></td>
 <td><p>2003年12月31日</p></td>
 <td><p>39,716</p></td>
 <td></td>
@@ -567,21 +567,21 @@ PRIDEへの登竜門的存在。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_BEST_Vol.3" title="wikilink">THE BEST Vol.3</a></p></td>
+<td><p><a href="../Page/THE_BEST_Vol.3.md" title="wikilink">THE BEST Vol.3</a></p></td>
 <td><p>2002年10月20日</p></td>
 <td><p><a href="../Page/ディファ有明.md" title="wikilink">ディファ有明</a></p></td>
 <td><p>東京都江東区</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_BEST_Vol.2" title="wikilink">THE BEST Vol.2</a></p></td>
+<td><p><a href="../Page/THE_BEST_Vol.2.md" title="wikilink">THE BEST Vol.2</a></p></td>
 <td><p>2002年7月20日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_BEST_(格闘技イベント)" title="wikilink">THE BEST</a></p></td>
+<td><p><a href="../Page/THE_BEST_(格闘技イベント).md" title="wikilink">THE BEST</a></p></td>
 <td><p>2002年2月22日</p></td>
 <td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都文京区</p></td>

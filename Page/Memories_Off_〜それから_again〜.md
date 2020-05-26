@@ -80,7 +80,7 @@ Memories offシリーズで唯一[稲穂信が登場しない作品である](ht
     声 - [西垣俊作](../Page/西垣俊作.md "wikilink")
     雅の伯父。
   - 柏崎 とおこ（かしわざき とおこ）
-    声 - [上原さやか](https://ja.wikipedia.org/wiki/上原さやか "wikilink")
+    声 - [上原さやか](../Page/上原さやか.md "wikilink")
     雅の叔母。
   - 柏崎のおばあちゃん（かしわざきのおばあちゃん）
     声 - [山口茜](../Page/山口茜_\(声優\).md "wikilink")

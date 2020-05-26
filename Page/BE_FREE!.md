@@ -207,7 +207,7 @@
 
 #### 教師
 
-  - 笹錦洸：[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
+  - 笹錦洸：[羽賀研二](../Page/羽賀研二.md "wikilink")
   - 島本圭子：[伊藤かずえ](../Page/伊藤かずえ.md "wikilink")
   - 如月博：[岡本信人](../Page/岡本信人.md "wikilink")
   - 歯車比呂志：[うえだ峻](../Page/うえだ峻.md "wikilink")

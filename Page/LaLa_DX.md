@@ -1,7 +1,7 @@
 > この記事は[LaLa DX](https://ja.wikipedia.org/wiki/LaLa_DX)から翻訳されています。
 
 
-『**LaLa DX**』（ララ デラックス）は、[白泉社](../Page/白泉社.md "wikilink")が発行する[隔月刊](https://ja.wikipedia.org/wiki/隔月刊 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")[雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。偶数月発行の前月10日発売。
+『**LaLa DX**』（ララ デラックス）は、[白泉社](../Page/白泉社.md "wikilink")が発行する[隔月刊](https://ja.wikipedia.org/wiki/隔月刊 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")[雑誌](../Page/漫画雑誌.md "wikilink")。偶数月発行の前月10日発売。
 
 ## 概要
 
@@ -41,7 +41,7 @@
 
 ### か行
 
-  - [火宵の月](https://ja.wikipedia.org/wiki/火宵の月 "wikilink")（[平井摩利](https://ja.wikipedia.org/wiki/平井摩利 "wikilink")）
+  - [火宵の月](../Page/火宵の月.md "wikilink")（[平井摩利](https://ja.wikipedia.org/wiki/平井摩利 "wikilink")）
   - [家族ごっこ。](https://ja.wikipedia.org/wiki/家族ごっこ。 "wikilink")（[唐沢千晶](https://ja.wikipedia.org/wiki/唐沢千晶 "wikilink")）
   - [かたつむり前線](https://ja.wikipedia.org/wiki/かたつむり前線 "wikilink")（[藤川佳世](https://ja.wikipedia.org/wiki/藤川佳世 "wikilink"))
   - [かな、かも。](https://ja.wikipedia.org/wiki/かな、かも。 "wikilink")（[橘裕](../Page/橘裕.md "wikilink")）

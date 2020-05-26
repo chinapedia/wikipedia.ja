@@ -78,7 +78,7 @@ ARPUには音声ARPUとデータARPUがあり、それらを合計して総合AR
 
 [Category:指標](https://ja.wikipedia.org/wiki/Category:指標 "wikilink") [Category:管理会計](https://ja.wikipedia.org/wiki/Category:管理会計 "wikilink") [Category:携帯電話](https://ja.wikipedia.org/wiki/Category:携帯電話 "wikilink")
 
-1.  [ARPUとAMPU](http://www.gii.co.jp/press/hs13632_jp.shtml) グローバルインフォメーション [2003年](../Page/2003年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")
+1.  [ARPUとAMPU](http://www.gii.co.jp/press/hs13632_jp.shtml) グローバルインフォメーション [2003年](../Page/2003年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")
 2.  [金額とARPUで見た市場の質](http://wirelesswire.jp/Global_Trendline/201004011200-2.html) WirelessWire News [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")
 3.  [市場別の移動体通信市場の予測 中国携帯電話市場の予測（2009年全期の分析・2010年～2013年の市場予測） ～2009年全期の分析及び2010年～2013年の市場予測～](http://japan.researchonasia.com/report/report_name.html?num=275) ROA Group 2010年4月
 4.  [3G（第3世代携帯電話）化が進む韓国携帯市場](http://www.venture.nict.go.jp/ezp/index.php/venture/node_2672/node_2755/node_24722/3g) NICT情報通信ベンチャー支援センター

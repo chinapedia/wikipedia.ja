@@ -254,7 +254,7 @@
   - 現在はFNN単独局の[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")もクロスネット局当時この時間帯はアニメ枠であり、テレビ新潟開局まで新潟県では放送しなかった。
   - キャスターの國弘正雄が挨拶を行うスタジオシーンで、走査線にビデオテープのドロップアウトが認められた事がある。当時のオープニングでは、いち早く導入された最新のタイプCフォーマットVTRをパンするシーンを流していたが、一部または全シーンを事前収録してオフライン放映していたと考えられる。
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")では18:50 - 19:00に自社制作のクイズ番組『[ビバ\!クイズ](https://ja.wikipedia.org/wiki/ビバ!クイズ "wikilink")』を放送していたため18:50に当番組のネットを飛び降りており、後述の列島事件簿やAround The Worldは放送されなかった。
-  - [1979年](../Page/1979年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦（[後楽園球場](../Page/後楽園球場.md "wikilink")）で、[江川卓](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）が[プロ野球デビューを果たした](../Page/日本プロ野球.md "wikilink")。その時は19時から[プロ野球土曜ナイター中継が始まることになっていたが](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")、それに先駆け1回の立ち上がりの部分について[ディレード](../Page/撮って出し.md "wikilink")（映像には「中継録画」と表記。解説・[中村稔](../Page/中村稔_\(投手\).md "wikilink")、実況・[小川光明](../Page/小川光明.md "wikilink")）で放送された。
+  - [1979年](../Page/1979年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦（[後楽園球場](../Page/後楽園球場.md "wikilink")）で、[江川卓](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）が[プロ野球デビューを果たした](../Page/日本プロ野球.md "wikilink")。その時は19時から[プロ野球土曜ナイター中継が始まることになっていたが](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")、それに先駆け1回の立ち上がりの部分について[ディレード](../Page/撮って出し.md "wikilink")（映像には「中継録画」と表記。解説・[中村稔](../Page/中村稔_\(投手\).md "wikilink")、実況・[小川光明](../Page/小川光明.md "wikilink")）で放送された。
 
 <!-- end list -->
 

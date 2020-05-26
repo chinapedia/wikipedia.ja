@@ -5645,7 +5645,7 @@ DVDは『月刊 FAIRY TAIL マガジン』に内包されている。
 ### モバイルゲーム
 
   - フェアリーテイル
-    2010年10月11日より[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から、[携帯電話](../Page/携帯電話.md "wikilink")用[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")として[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")で運用開始。
+    2010年10月11日より[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から、[携帯電話](../Page/携帯電話.md "wikilink")用[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")として[Mobage](../Page/Mobage.md "wikilink")で運用開始。
     原作者の描き下ろしイラスト、が採用されている。
     サービス開始2周年にあたる2012年10月11日から1週間、女性キャラ限定の人気投票「ミスフェアリーテイルコンテスト2012」が開催された。投票対象キャラはアニメ版に準拠、上位3名には原作者の描き下ろしカードとなる。
     また、同月よりTVアニメの声優陣のキャラクターボイスを収録したカードがサービスに採用されている。

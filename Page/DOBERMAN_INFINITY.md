@@ -383,7 +383,7 @@ DOBERMAN INFINITY LIVE TOUR 2017 "TERMINAL"
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2月11日：静岡・[富士市文化会館ロゼシアター](https://ja.wikipedia.org/wiki/富士市文化会館ロゼシアター "wikilink")
+  - 2月11日：静岡・[富士市文化会館ロゼシアター](../Page/富士市文化会館ロゼシアター.md "wikilink")
   - 2月17日：神奈川・[よこすか芸術劇場](https://ja.wikipedia.org/wiki/よこすか芸術劇場 "wikilink")
   - 2月28日、3月01日：大阪・[大阪国際会議場](https://ja.wikipedia.org/wiki/大阪国際会議場 "wikilink") グランキューブ大阪 メインホール
   - 3月04日：愛知・[愛知県芸術劇場](../Page/愛知県芸術劇場.md "wikilink") 大ホール

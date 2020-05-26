@@ -53,7 +53,7 @@ CDジャーナルは、「彼女の持つピュア・ラブな姿を、どの楽
 **青空スクールデイズ**
 
   - Special Background Vocal & Guitars & Bass：松岡モトキ
-  - Drums：[小西昭次郎](https://ja.wikipedia.org/wiki/小西昭次郎 "wikilink")
+  - Drums：[小西昭次郎](../Page/小西昭次郎.md "wikilink")
   - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink")：伊藤隆博
   - Programming：[阿部尚徳](https://ja.wikipedia.org/wiki/阿部尚徳 "wikilink")
 

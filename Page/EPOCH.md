@@ -34,7 +34,7 @@
 6.  **パーリーピーポー (Hosted by Verbal)**
       -
         （作詞：RYO-Z, ILMARI, PES, SU　作曲：DJ FUMIYA）
-        [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")が参加している。
+        [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](../Page/VERBAL.md "wikilink")が参加している。
 7.  **DIG DUG**
       -
         （作詞：RYO-Z, ILMARI, PES, SU　作曲：DJ FUMIYA）

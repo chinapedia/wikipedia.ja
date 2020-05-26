@@ -111,7 +111,7 @@
     （津田征子→岩田征子）
     演：[高松涼子](https://ja.wikipedia.org/wiki/高松涼子 "wikilink")→[宮原永海](../Page/宮原永海.md "wikilink")→[小林綾子](../Page/小林綾子.md "wikilink")→[岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink")
   - 岩田豊
-    演：[草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")
+    演：[草見潤平](../Page/草見潤平.md "wikilink")
   - 岩田久子
     演：[菅原チネ子](https://ja.wikipedia.org/wiki/菅原チネ子 "wikilink")
   - 岩田真希

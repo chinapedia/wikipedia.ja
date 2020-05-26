@@ -53,7 +53,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCチャレンジカップ2006" title="wikilink">1</a></p></td>
+<td><p><a href="../Page/AFCチャレンジカップ2006.md" title="wikilink">1</a></p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td></td>

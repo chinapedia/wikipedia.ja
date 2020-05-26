@@ -18,7 +18,7 @@
   - [前回](../Page/第47回NHK紅白歌合戦.md "wikilink")（[1996年](../Page/1996年.md "wikilink")）に引き続きオープニングで「[乾杯の歌](https://ja.wikipedia.org/wiki/乾杯の歌_\(ドイツ民謡\) "wikilink")」が使用された。
   - 冒頭で中居は「**ド緊張**」と書かれた扇子を披露。以後、中居は組司会を担当する際、冒頭で文字の書かれた扇子を披露することが恒例となった。
   - 初出場の[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")が紅組トップバッターを担当、女性のみで構成されるグループがトップバッターを務めるのは初めて。
-  - 「[フラれて元気](https://ja.wikipedia.org/wiki/フラれて元気 "wikilink")」を披露した[TOKIO](../Page/TOKIO.md "wikilink")は、一部歌詞を白組を応援するものに変えて歌った。
+  - 「[フラれて元気](../Page/フラれて元気.md "wikilink")」を披露した[TOKIO](../Page/TOKIO.md "wikilink")は、一部歌詞を白組を応援するものに変えて歌った。
   - [反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")は自身主演の[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ビーチボーイズ](../Page/ビーチボーイズ_\(テレビドラマ\).md "wikilink")』の主題歌「[Forever](../Page/Forever_\(反町隆史_with_Richie_Samboraの曲\).md "wikilink")」を歌唱。歌唱終了後、反町と『ビーチボーイズ』で共演した[竹野内豊](../Page/竹野内豊.md "wikilink")が登場し、「紅白出場おめでとう」と祝辞を述べ、握手で激励した。
   - 第1部には[長野オリンピックを先駆けたコーナーが設けられた](../Page/1998年長野オリンピック.md "wikilink")。コーナーのラストには同オリンピックの公式テーマソングである[AGHARTA](../Page/AGHARTA.md "wikilink")の「[ILE AIYE〜WAになっておどろう〜](../Page/WAになっておどろう.md "wikilink")」が[三倉茉奈・佳奈](../Page/マナカナ.md "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[前田亜季](../Page/前田亜季.md "wikilink")、[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")と出場歌手らで大合唱された。
   - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")の歌唱前、和田は松が前回紅組司会を務めたことに触れた後、松が和田に「去年はありがとうございました」、和田が松に「いえいえ、どう致しまして」とのやりとりがそれぞれ交わされた。

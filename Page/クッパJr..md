@@ -39,7 +39,7 @@
   - 『[マリオテニスGC](../Page/マリオテニスGC.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")）
     プレイヤーキャラクターとして登場。トリッキータイプ。
     なお、本作は2009年に『[Wiiであそぶセレクション](https://ja.wikipedia.org/wiki/Wiiであそぶセレクション "wikilink")』で移植されている。
-  - 『[役満DS](https://ja.wikipedia.org/wiki/役満DS "wikilink")』（[2005年](../Page/2005年.md "wikilink")）
+  - 『[役満DS](../Page/役満DS.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）
     CPU専用キャラクターとして登場。『Wi-Fi対応 役満DS』（2006年）にも登場。
   - 『[スーパーマリオスタジアム ミラクルベースボール](https://ja.wikipedia.org/wiki/スーパーマリオスタジアム_ミラクルベースボール "wikilink")』（2005年）
     「クッパモンスターズ」のチームメンバーとしてクッパと共に登場。
@@ -146,7 +146,7 @@
   - [マリオパーティシリーズ](../Page/マリオパーティシリーズ.md "wikilink")（DS版マリオパーティDS以降）
   - [マリオゴルフ](../Page/マリオゴルフ.md "wikilink")シリーズ（GC版ファミリーツアー以降）
   - [マリオテニス](../Page/マリオテニス.md "wikilink")シリーズ（GC版マリオテニスGC以降）
-  - [役満DS](https://ja.wikipedia.org/wiki/役満DS "wikilink")
+  - [役満DS](../Page/役満DS.md "wikilink")
   - [スーパーマリオスタジアムシリーズ](https://ja.wikipedia.org/wiki/スーパーマリオスタジアム_\(ゲームソフト\) "wikilink")
   - [マリオバスケ3on3](https://ja.wikipedia.org/wiki/マリオバスケ3on3 "wikilink")
   - [マリオストライカーズ チャージド](../Page/マリオストライカーズ_チャージド.md "wikilink")

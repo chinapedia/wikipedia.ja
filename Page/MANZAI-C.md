@@ -49,7 +49,7 @@
   - [GAHAHA王国](../Page/GAHAHA王国.md "wikilink")（テレビ朝日）
   - [爆笑王誕生](https://ja.wikipedia.org/wiki/爆笑王誕生 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）5週勝抜き第3代チャンピオン
   - [艶々ナイト](../Page/艶々ナイト.md "wikilink")（[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
-  - [AHERA](https://ja.wikipedia.org/wiki/AHERA "wikilink")（テレビ朝日）
+  - [AHERA](../Page/AHERA.md "wikilink")（テレビ朝日）
   - [新しい波](https://ja.wikipedia.org/wiki/新しい波 "wikilink")（フジテレビ）
   - [お笑いダンクシュート](../Page/お笑いダンクシュート.md "wikilink")（NHK総合テレビ）
   - [ゲーム王国](../Page/ゲーム王国.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）

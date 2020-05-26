@@ -7,7 +7,7 @@
 
   - カフェでは飲み物はもちろん、ファン向けの様々なサービスが提供され、オリジナル・グッズ（コンサートグッズも一部取り扱っている）や[CD](../Page/コンパクトディスク.md "wikilink")、[ビデオ](https://ja.wikipedia.org/wiki/ビデオソフト "wikilink")、[DVD](../Page/DVD-Video.md "wikilink")、[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")も販売されている。
   - 飲み物はオープン当初は[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")が無料で提供されていたが、南青山に移転してからは料金制になっている。種類はコーヒー（ホット、アイス）の他、[紅茶](../Page/紅茶.md "wikilink")（ホット、アイス）、[ウーロン茶](../Page/烏龍茶.md "wikilink")、[ジュース](../Page/ジュース.md "wikilink")類（[炭酸を除く](../Page/炭酸飲料.md "wikilink")）、[ビール](../Page/ビール.md "wikilink")（夜間のみ）がある。
-  - 7月30日の開店記念日には記念の[タンブラーが製作され](../Page/タンブラーグラス.md "wikilink")、[クリスマス](../Page/クリスマス.md "wikilink")や[バレンタインデー](../Page/バレンタインデー.md "wikilink")には飲み物とケーキ（小田の誕生日やクリスマスには小田の似顔絵がプリントされた[クッキー](../Page/クッキー.md "wikilink")、バレンタインには[ブラウニーが提供される](https://ja.wikipedia.org/wiki/ブラウニー_\(ケーキ\) "wikilink")）をセットにして販売するサービスもある。小田のコンサートが[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")（主に[東京](../Page/東京都.md "wikilink")、[横浜](../Page/横浜市.md "wikilink")）で開催される日にはファンでごった返すことがある。
+  - 7月30日の開店記念日には記念の[タンブラーが製作され](../Page/タンブラーグラス.md "wikilink")、[クリスマス](../Page/クリスマス.md "wikilink")や[バレンタインデー](../Page/バレンタインデー.md "wikilink")には飲み物とケーキ（小田の誕生日やクリスマスには小田の似顔絵がプリントされた[クッキー](../Page/クッキー.md "wikilink")、バレンタインには[ブラウニーが提供される](https://ja.wikipedia.org/wiki/ブラウニー_\(ケーキ\) "wikilink")）をセットにして販売するサービスもある。小田のコンサートが[首都圏](../Page/首都圏_\(日本\).md "wikilink")（主に[東京](../Page/東京都.md "wikilink")、[横浜](../Page/横浜市.md "wikilink")）で開催される日にはファンでごった返すことがある。
   - 9月20日の小田の誕生日には、お祝いの[色紙](https://ja.wikipedia.org/wiki/色紙 "wikilink")を書くサービスも実施されており、この日に来店するファンも多い。
   - かつては横浜店も存在していたが、併設されていた喫茶店と同時に閉店された。
 
@@ -327,7 +327,7 @@
 
 <!-- end list -->
 
-  - 楽天本拠地開幕戦（[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")追悼試合）始球式　
+  - 楽天本拠地開幕戦（[星野仙一](../Page/星野仙一.md "wikilink")追悼試合）始球式　
   - ツアー2018「ENCORE\!\!」
   - TBS特番スタッフとのミーティング
   - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")ライブイベント出演

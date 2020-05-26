@@ -51,7 +51,7 @@
 
 番組のエンドロールは、番組が「テレビCMの日スペシャルドラマ」ということから、昭和を代表するテレビCMの名場面が音声入りで流された。放映されたテレビCMは次の通り。
 
-  - [文明堂](../Page/文明堂.md "wikilink")の[カステラ](https://ja.wikipedia.org/wiki/カステラ "wikilink")（カステラ一番、電話は2番）
+  - [文明堂](../Page/文明堂.md "wikilink")の[カステラ](../Page/カステラ.md "wikilink")（カステラ一番、電話は2番）
   - [三共](../Page/三共_\(製薬会社\).md "wikilink")「[ルル](../Page/ルル_\(風邪薬\).md "wikilink")」（クシャミ3回、ルル3錠）
   - [桃屋](../Page/桃屋.md "wikilink")「江戸むらさき」（[のり平の](../Page/三木のり平.md "wikilink")[国定忠治](../Page/国定忠治.md "wikilink")）
   - [丸善石油](../Page/コスモ石油.md "wikilink")「丸善ガソリン100ダッシュ」（オー！モーレツ、[小川ローザ](../Page/小川ローザ.md "wikilink")）

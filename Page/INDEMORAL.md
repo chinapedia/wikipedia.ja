@@ -166,7 +166,7 @@
 
   - INDEMORAL
       - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")　「WE ARE SOHMATOH」　『NO HIPHOP NO LIFE』（2006年10月4日）
-      - [走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink")　「挑戦状」「THE BIGGEST CAMP」「CHANGE」「HISTORY」『走馬党』（2006年9月27日）
+      - [走馬党](../Page/走馬党.md "wikilink")　「挑戦状」「THE BIGGEST CAMP」「CHANGE」「HISTORY」『走馬党』（2006年9月27日）
       - [V.A](https://ja.wikipedia.org/wiki/V.A "wikilink")　「SUMMER TIME」「糸」『「ガチャポン」THE ORIGINAL MOTION PICTURE SOUND TRACK』（2004年9月17日）
       - [三善/善三](https://ja.wikipedia.org/wiki/三善/善三 "wikilink")　「激論\!\!日本列島 feat.INDEMORAL,ARK from BACKGAMMON」『鉄拳外伝』
       - [REALSTYLA](https://ja.wikipedia.org/wiki/REALSTYLA "wikilink")　「志人」『爆弾発言』
@@ -175,7 +175,7 @@
 
   - SKIPP
       - [随喜と真田2.0](https://ja.wikipedia.org/wiki/随喜と真田2.0 "wikilink")　「WALK THIS WAY 58」（2007年9月22日）
-      - [走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink")　「2ターンテーブル＆マイクス」「ドリームジャンボ」「夜と朝の間」「やっぱ生」「ミナデパーティー」『走馬党』（2006年9月27日）
+      - [走馬党](../Page/走馬党.md "wikilink")　「2ターンテーブル＆マイクス」「ドリームジャンボ」「夜と朝の間」「やっぱ生」「ミナデパーティー」『走馬党』（2006年9月27日）
       - [LITTLE](../Page/LITTLE.md "wikilink")　「踏み上がり」 『I SING I SAY』
       - [H☆G☆S☆P](https://ja.wikipedia.org/wiki/H☆G☆S☆P "wikilink")　「SHAKER SHAKER」『HIGH-GRADE-SPECIAL』
       - [ahhco](https://ja.wikipedia.org/wiki/ahhco "wikilink")　「SHAKER SHAKER」『made in love』
@@ -188,7 +188,7 @@
 <!-- end list -->
 
   - PAULEY
-      - [走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink")　「炎」「STANCE」『走馬党』（2006年9月27日）
+      - [走馬党](../Page/走馬党.md "wikilink")　「炎」「STANCE」『走馬党』（2006年9月27日）
       - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") 「人間太鼓箱」『ヤバスギルスキルPart2』
       - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")　「ヤバスギルスキルPart5」『日本改造計画』
       - [ZINGI](../Page/ZINGI.md "wikilink") 「RHYME遊戯」『TOKYO TRIBE』

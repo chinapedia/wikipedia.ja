@@ -26,7 +26,7 @@
 
 ### 与えた影響
 
-後続のアーティストに対する影響では、[Sadieのギタリスト剣](../Page/Sadie_\(バンド\).md "wikilink")\[16\] と[DIAURA](https://ja.wikipedia.org/wiki/DIAURA "wikilink")のギタリスト佳衣\[17\]、[DのギタリストRuizaとHIDE](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink")-ZOU\[18\] などがKouichiに対するリスペクトを表明している。とくに、HIDE-ZOUはグッズもたくさん持ってるほか、「Kouichiさんの機材を参考に買ったことがありました」と述べている\[19\]。
+後続のアーティストに対する影響では、[Sadieのギタリスト剣](../Page/Sadie_\(バンド\).md "wikilink")\[16\] と[DIAURA](https://ja.wikipedia.org/wiki/DIAURA "wikilink")のギタリスト佳衣\[17\]、[DのギタリストRuizaとHIDE](../Page/D_\(バンド\).md "wikilink")-ZOU\[18\] などがKouichiに対するリスペクトを表明している。とくに、HIDE-ZOUはグッズもたくさん持ってるほか、「Kouichiさんの機材を参考に買ったことがありました」と述べている\[19\]。
 
 ## 交友関係
 

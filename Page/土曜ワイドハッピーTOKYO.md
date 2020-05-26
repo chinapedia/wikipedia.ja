@@ -12,7 +12,7 @@ TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.w
   - [吉田照美](../Page/吉田照美.md "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）
   - [毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")（1988年4月 - 1989年3月）
   - [井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")（1988年4月 - 1988年9月）
-  - [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")（1988年10月 - 1989年9月、在任当時は[LINDBERG](../Page/LINDBERG.md "wikilink")が結成前後の時期だが、この番組では本名の「渡瀬麻紀」名義で出演していた。）
+  - [渡瀬マキ](../Page/渡瀬マキ.md "wikilink")（1988年10月 - 1989年9月、在任当時は[LINDBERG](../Page/LINDBERG.md "wikilink")が結成前後の時期だが、この番組では本名の「渡瀬麻紀」名義で出演していた。）
   - [小林千絵](../Page/小林千絵.md "wikilink")（1989年10月 - 終了まで）
   - [小林豊](../Page/小林豊_\(アナウンサー\).md "wikilink")（時期不詳 - 終了まで）
   - [笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")

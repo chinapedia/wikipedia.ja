@@ -13,7 +13,7 @@
 
 [2001年](../Page/2001年.md "wikilink")秋には[プロレスラー](../Page/プロレスラー.md "wikilink")の[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")選手に入場曲「The World」を提供し、同年12月には、当時佐々木が所属していた[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の設立30周年記念テーマ曲「Steel Flame」を提供。
 
-2002年に、2000年に作成したデモをきっかけとして、[和田誠が設立したレーベル](../Page/和田誠_\(評論家\).md "wikilink")[Captain Rockと契約し](https://ja.wikipedia.org/wiki/Captain_Rock "wikilink")、同年[7月17日](../Page/7月17日.md "wikilink")に1stアルバム『Silence Of Northern Hell』をリリース。リード・トラックの「Silence Of Northern Hell」は[JFN系](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")「[カドカワ・サウンドシネマ](https://ja.wikipedia.org/wiki/カドカワ・サウンドシネマ "wikilink")　[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")～Rage　Against The Moon」のエンディングテーマとなり、同年秋には同アルバムが韓国でもリリースされた。
+2002年に、2000年に作成したデモをきっかけとして、[和田誠が設立したレーベル](../Page/和田誠_\(評論家\).md "wikilink")[Captain Rockと契約し](https://ja.wikipedia.org/wiki/Captain_Rock "wikilink")、同年[7月17日](../Page/7月17日.md "wikilink")に1stアルバム『Silence Of Northern Hell』をリリース。リード・トラックの「Silence Of Northern Hell」は[JFN系](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")「[カドカワ・サウンドシネマ](../Page/カドカワ・サウンドシネマ.md "wikilink")　[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")～Rage　Against The Moon」のエンディングテーマとなり、同年秋には同アルバムが韓国でもリリースされた。
 
 [2003年](../Page/2003年.md "wikilink")6月18日に2ndアルバム『MYSTIC YOUR HEART』をリリース。
 

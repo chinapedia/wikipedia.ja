@@ -58,4 +58,4 @@ TMNリニューアルが発表される2ヶ月前にリリース。[ギターは
 2.
 3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1990年12月号89Pより。
 4.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1990年5月号付属MINI BOOKより。
-5.  TM NETWORK『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』ブックレットより。
+5.  TM NETWORK『[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOX](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』ブックレットより。

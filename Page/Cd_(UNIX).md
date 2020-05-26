@@ -40,7 +40,7 @@ C:\games>
 
 ## 外部リンク
 
-  - [cd(1)](https://docs.oracle.com/cd/E19253-01/819-1210/6n3j74jla/index.html) man page（SunOS リファレンスマニュアル 1 : ユーザーコマンド） - [オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")
+  - [cd(1)](https://docs.oracle.com/cd/E19253-01/819-1210/6n3j74jla/index.html) man page（SunOS リファレンスマニュアル 1 : ユーザーコマンド） - [オラクル](../Page/オラクル_\(企業\).md "wikilink")
 
 [Category:標準UNIXプログラム](https://ja.wikipedia.org/wiki/Category:標準UNIXプログラム "wikilink") [Category:DOSの内部コマンド](https://ja.wikipedia.org/wiki/Category:DOSの内部コマンド "wikilink")
 

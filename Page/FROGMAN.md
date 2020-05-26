@@ -9,7 +9,7 @@
 
 東京都にて7人兄弟の末っ子として生まれる。
 
-映画監督を夢見て[東京都立清瀬高等学校](../Page/東京都立清瀬高等学校.md "wikilink")卒業後、[読売映画社](https://ja.wikipedia.org/wiki/読売映画社 "wikilink")に撮影部として契約入社。その後、[フリーランス](../Page/フリーランス.md "wikilink")の制作部として活動を始める。『[北の国から](../Page/北の国から.md "wikilink")98時代』などのテレビドラマや、[錦織良成](https://ja.wikipedia.org/wiki/錦織良成 "wikilink")監督作品『[守ってあげたい\!](../Page/守ってあげたい!.md "wikilink")』といった映画の撮影に参加。その後、映画「[白い船](https://ja.wikipedia.org/wiki/白い船 "wikilink")」（これも錦織が監督を手掛けた作品である）の撮影先である[島根県](../Page/島根県.md "wikilink")[平田市](../Page/平田市.md "wikilink")（現[出雲市](../Page/出雲市.md "wikilink")平田地区）で知り合った松江出身の女性と結婚したことを機に一旦映像業界を離れ\[1\]、島根に移り住む。 当時借りていた平屋は家賃3万円だった。
+映画監督を夢見て[東京都立清瀬高等学校](../Page/東京都立清瀬高等学校.md "wikilink")卒業後、[読売映画社](https://ja.wikipedia.org/wiki/読売映画社 "wikilink")に撮影部として契約入社。その後、[フリーランス](../Page/フリーランス.md "wikilink")の制作部として活動を始める。『[北の国から](../Page/北の国から.md "wikilink")98時代』などのテレビドラマや、[錦織良成](https://ja.wikipedia.org/wiki/錦織良成 "wikilink")監督作品『[守ってあげたい\!](../Page/守ってあげたい!.md "wikilink")』といった映画の撮影に参加。その後、映画「[白い船](../Page/白い船.md "wikilink")」（これも錦織が監督を手掛けた作品である）の撮影先である[島根県](../Page/島根県.md "wikilink")[平田市](../Page/平田市.md "wikilink")（現[出雲市](../Page/出雲市.md "wikilink")平田地区）で知り合った松江出身の女性と結婚したことを機に一旦映像業界を離れ\[1\]、島根に移り住む。 当時借りていた平屋は家賃3万円だった。
 
 「地方発の映像配信」をコンセプトにウェブサイトを立ち上げ、創作活動を行うも注目されなかったが、[青池良輔](../Page/青池良輔.md "wikilink")の『[CATMAN](../Page/CATMAN.md "wikilink")』に触発されて、[2002年](../Page/2002年.md "wikilink")頃にツールを[Adobe Flashに移行し](../Page/Adobe_Flash.md "wikilink")、「練習がてら」に作った『[菅井君と家族石](../Page/菅井君と家族石.md "wikilink")』が大きな注目を浴びる。以降は積極的なセールス展開を続け、「蛙男商会」の設立に至る。[2003年](../Page/2003年.md "wikilink")には[錦織良成](https://ja.wikipedia.org/wiki/錦織良成 "wikilink")が塾長を務める「[しまね映画塾](https://ja.wikipedia.org/wiki/しまね映画塾 "wikilink")」には「小野リョウ」名義で映像制作講座講師として、[2004年](../Page/2004年.md "wikilink")にもスタッフとして参加している。
 

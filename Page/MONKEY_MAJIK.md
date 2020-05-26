@@ -598,7 +598,7 @@ Japan Hot 100)</p></th>
 | ----------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | 発売日                                                                                       | 曲名                  | 収録された作品                                                                                                                       |
 | [2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")                  | Everybody           | [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「[Pop Up\! SMAP](../Page/Pop_Up!_SMAP.md "wikilink")」                    |
-| [2007年](../Page/2007年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")                  | 輝く夜\[53\]           | [CHEMISTRY](../Page/CHEMISTRY.md "wikilink") SUPPORTED BY MONKEY MAJIK「[輝く夜](https://ja.wikipedia.org/wiki/輝く夜 "wikilink")」   |
+| [2007年](../Page/2007年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")                  | 輝く夜\[53\]           | [CHEMISTRY](../Page/CHEMISTRY.md "wikilink") SUPPORTED BY MONKEY MAJIK「[輝く夜](../Page/輝く夜.md "wikilink")」                      |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink") | そのまま\[54\]          | SMAP「[そのまま／White Message](https://ja.wikipedia.org/wiki/そのまま/White_Message "wikilink")」                                       |
 | [2009年](../Page/2009年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") | every-body          | [谷村奈南](https://ja.wikipedia.org/wiki/谷村奈南 "wikilink")「[every-body](https://ja.wikipedia.org/wiki/every-body "wikilink")」      |
 | 2009年[9月30日](../Page/9月30日.md "wikilink")                                                 | Beautiful summer    | [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")「[F's シネマ](https://ja.wikipedia.org/wiki/F's_シネマ "wikilink")」                             |
@@ -1328,7 +1328,7 @@ MONKEY MAJIK Live at BUDOKAN -15th Anniversary-
 
 <div class="NavContent" style="text-align: left;">
 
-  - 02.07　東京・[日本武道館](../Page/日本武道館.md "wikilink")（ゲスト：吉田兄弟、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[タケカワユキヒデ](../Page/タケカワユキヒデ.md "wikilink")、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")、疾風、[ジョン・ルーカス](https://ja.wikipedia.org/wiki/ジョン・ルーカス_\(ミュージシャン\) "wikilink") & JL Gospel Family、[セロ](../Page/セロ_\(マジシャン\).md "wikilink")）
+  - 02.07　東京・[日本武道館](../Page/日本武道館.md "wikilink")（ゲスト：吉田兄弟、[VERBAL](../Page/VERBAL.md "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[タケカワユキヒデ](../Page/タケカワユキヒデ.md "wikilink")、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")、疾風、[ジョン・ルーカス](https://ja.wikipedia.org/wiki/ジョン・ルーカス_\(ミュージシャン\) "wikilink") & JL Gospel Family、[セロ](../Page/セロ_\(マジシャン\).md "wikilink")）
 
 </div>
 

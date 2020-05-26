@@ -11,7 +11,7 @@
 
   - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [恋愛部活](../Page/恋愛部活.md "wikilink")（日本テレビ）
-  - [NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")→[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")・特集コーナー（日本テレビ）
+  - [NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")→[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")・特集コーナー（日本テレビ）
   - [メントレG](../Page/メントレG.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [スキヤキ\!\!ロンドンブーツ大作戦](../Page/スキヤキ!!ロンドンブーツ大作戦.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [MUSIC JAPAN (岩手めんこいテレビ)](../Page/MUSIC_JAPAN_\(岩手めんこいテレビ\).md "wikilink")

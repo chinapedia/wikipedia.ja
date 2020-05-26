@@ -13,7 +13,7 @@
 
   - [小針克之助](https://ja.wikipedia.org/wiki/小針克之助 "wikilink")（プロデューサー）（元ギター、ヴォーカル）（元[竜童組](https://ja.wikipedia.org/wiki/竜童組 "wikilink")）
   - [飯塚昌明](../Page/飯塚昌明.md "wikilink")（ギター）
-  - [瀧田イサム](https://ja.wikipedia.org/wiki/瀧田イサム "wikilink")（6弦ベース）
+  - [瀧田イサム](../Page/瀧田イサム.md "wikilink")（6弦ベース）
   - [西元](https://ja.wikipedia.org/wiki/西元 "wikilink")（津軽三味線）
   - [大塚宝](https://ja.wikipedia.org/wiki/大塚宝 "wikilink")（和太鼓、ヴォーカル）
   - [き乃はち](https://ja.wikipedia.org/wiki/き乃はち "wikilink")（旧名：佐藤康夫）（尺八、能管、横笛、ヴォーカル）

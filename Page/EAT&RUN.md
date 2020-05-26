@@ -40,7 +40,7 @@
   - 兼田：[五代高之](../Page/五代高之.md "wikilink")
   - 花屋のマリ：[國府田マリ子](../Page/國府田マリ子.md "wikilink")
   - 光岡マキ：[小桜エツ子](../Page/小桜エツコ.md "wikilink")
-  - 那須：[伊藤英敏](https://ja.wikipedia.org/wiki/伊藤英敏 "wikilink")
+  - 那須：[伊藤英敏](../Page/伊藤英敏.md "wikilink")
   - 佐藤：[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")
   - AD・田中：[千葉紗子](../Page/千葉紗子.md "wikilink")
 

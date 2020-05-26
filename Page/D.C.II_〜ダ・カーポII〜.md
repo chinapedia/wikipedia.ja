@@ -914,7 +914,7 @@ Shln Jgglck</p></td>
 
 ## 関連ゲーム
 
-  - [ヴァイスシュヴァルツ](https://ja.wikipedia.org/wiki/ヴァイスシュヴァルツ "wikilink")
+  - [ヴァイスシュヴァルツ](../Page/ヴァイスシュヴァルツ.md "wikilink")
     [ブシロード](../Page/ブシロード.md "wikilink")発売されている[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")。「D.C. 〜ダ・カーポ〜（シリーズ第1作目）」とセット。
   - [ai sp@ce](https://ja.wikipedia.org/wiki/ai_sp@ce "wikilink")
     [ドワンゴ](../Page/ドワンゴ.md "wikilink")が運営していた3D生活空間サービス。

@@ -77,7 +77,7 @@
       - [名探偵コナン 水平線上の陰謀](../Page/名探偵コナン_水平線上の陰謀.md "wikilink") （2005年）
       - [名探偵コナン 探偵たちの鎮魂歌](../Page/名探偵コナン_探偵たちの鎮魂歌.md "wikilink") （2006年）
       - [名探偵コナン 紺碧の棺](../Page/名探偵コナン_紺碧の棺.md "wikilink") （2007年）
-      - [名探偵コナン 戦慄の楽譜](https://ja.wikipedia.org/wiki/名探偵コナン_戦慄の楽譜 "wikilink") （2008年）
+      - [名探偵コナン 戦慄の楽譜](../Page/名探偵コナン_戦慄の楽譜.md "wikilink") （2008年）
   - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink") （2000年-）
   - [BLOOD THE LAST VAMPIRE](https://ja.wikipedia.org/wiki/BLOOD_THE_LAST_VAMPIRE "wikilink") （2000年）
   - [劇場版ポケットモンスターシリーズ](../Page/ポケットモンスター_\(劇場版\).md "wikilink")

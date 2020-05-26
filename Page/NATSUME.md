@@ -126,7 +126,7 @@
 #### イメージビデオ
 
   - Sexy Pride（2003年、ベガファクトリー）
-  - Sexy GRAND PRIX（2004年、[マーレ](https://ja.wikipedia.org/wiki/マーレ "wikilink")）
+  - Sexy GRAND PRIX（2004年、[マーレ](../Page/マーレ.md "wikilink")）
   - プリシラ（2004年、ベガファクトリー）
   - Dream Girl（2004年、ジーオーティー）
   - Pure Smile（2004年、[竹書房](../Page/竹書房.md "wikilink")）

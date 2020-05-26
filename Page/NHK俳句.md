@@ -278,7 +278,7 @@
 
 :\*\*「さく咲く\!ミニ句会」出演者・さく咲くセブン
 
-:\*\*\*[赤嶺総理](https://ja.wikipedia.org/wiki/赤嶺総理 "wikilink")（すぽっと→ピン芸人）・[三浦友加](https://ja.wikipedia.org/wiki/三浦唯歌 "wikilink")・舛方一真（[エレファンツ](https://ja.wikipedia.org/wiki/エレファンツ "wikilink")→舛方・高見）・シシオガイ・[おばたかずき](https://ja.wikipedia.org/wiki/おばたのお兄さん "wikilink")（[ひので](https://ja.wikipedia.org/wiki/ひので_\(お笑い\) "wikilink")→ピン芸人）・宮戸洋行（[GAG少年楽団](../Page/GAG_\(お笑いトリオ\).md "wikilink")）
+:\*\*\*[赤嶺総理](https://ja.wikipedia.org/wiki/赤嶺総理 "wikilink")（すぽっと→ピン芸人）・[三浦友加](../Page/三浦唯歌.md "wikilink")・舛方一真（[エレファンツ](https://ja.wikipedia.org/wiki/エレファンツ "wikilink")→舛方・高見）・シシオガイ・[おばたかずき](https://ja.wikipedia.org/wiki/おばたのお兄さん "wikilink")（[ひので](https://ja.wikipedia.org/wiki/ひので_\(お笑い\) "wikilink")→ピン芸人）・宮戸洋行（[GAG少年楽団](../Page/GAG_\(お笑いトリオ\).md "wikilink")）
 
 :\*2016年度
 

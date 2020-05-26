@@ -1,7 +1,7 @@
 > この記事は[蜈蚣Melibe](https://ja.wikipedia.org/wiki/蜈蚣Melibe)から翻訳されています。
 
 
-**蜈蚣 Melibe**（むかで めりべ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[筑波大学](../Page/筑波大学.md "wikilink")卒。既婚の男性。
+**蜈蚣 Melibe**（むかで めりべ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[筑波大学](../Page/筑波大学.md "wikilink")卒。既婚の男性。
 
 ## 概要
 

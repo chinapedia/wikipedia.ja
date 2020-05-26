@@ -825,7 +825,7 @@
 <tr class="odd">
 <td><p>051</p></td>
 <td><p>06月22日</p></td>
-<td><p><span style="display:none">ふ10</span><a href="https://ja.wikipedia.org/wiki/ファイヤープロレスリング_コンビネーションタッグ" title="wikilink">ファイヤープロレスリング コンビネーションタッグ</a></p></td>
+<td><p><span style="display:none">ふ10</span><a href="../Page/ファイヤープロレスリング_コンビネーションタッグ.md" title="wikilink">ファイヤープロレスリング コンビネーションタッグ</a></p></td>
 <td><p><a href="../Page/ヒューマン_(ゲーム会社).md" title="wikilink">ヒューマン</a></p></td>
 <td><p>HC</p></td>
 <td><p>SPT</p></td>
@@ -1105,7 +1105,7 @@
 <tr class="odd">
 <td><p>071</p></td>
 <td><p>09月22日</p></td>
-<td><p><span style="display:none">し29</span><a href="https://ja.wikipedia.org/wiki/獣王記" title="wikilink">獣王記</a></p></td>
+<td><p><span style="display:none">し29</span><a href="../Page/獣王記.md" title="wikilink">獣王記</a></p></td>
 <td><p><span style="display:none">エヌ1</span><a href="../Page/NECアベニュー.md" title="wikilink">NECアベニュー</a></p></td>
 <td><p><span style="display:none">R</span>CR</p></td>
 <td><p>ACT</p></td>
@@ -1119,7 +1119,7 @@
 <tr class="even">
 <td><p>072</p></td>
 <td><p>09月29日</p></td>
-<td><p><span style="display:none">し30</span><a href="https://ja.wikipedia.org/wiki/獣王記" title="wikilink">獣王記</a></p></td>
+<td><p><span style="display:none">し30</span><a href="../Page/獣王記.md" title="wikilink">獣王記</a></p></td>
 <td><p><span style="display:none">エヌ1</span><a href="../Page/NECアベニュー.md" title="wikilink">NECアベニュー</a></p></td>
 <td><p>HC</p></td>
 <td><p>ACT</p></td>
@@ -4154,7 +4154,7 @@
 <tr class="odd">
 <td><p>284</p></td>
 <td><p>08月30日</p></td>
-<td><p><span style="display:none">ふ11</span><a href="https://ja.wikipedia.org/wiki/ファイヤープロレスリング2nd_BOUT" title="wikilink">ファイヤープロレスリング2nd BOUT</a></p></td>
+<td><p><span style="display:none">ふ11</span><a href="../Page/ファイヤープロレスリング2nd_BOUT.md" title="wikilink">ファイヤープロレスリング2nd BOUT</a></p></td>
 <td><p><a href="../Page/ヒューマン_(ゲーム会社).md" title="wikilink">ヒューマン</a></p></td>
 <td><p>HC</p></td>
 <td><p>SPT</p></td>
@@ -5727,7 +5727,7 @@
 <tr class="odd">
 <td><p>394</p></td>
 <td><p>08月10日</p></td>
-<td><p><span style="display:none">く07</span><a href="https://ja.wikipedia.org/wiki/クイズの星" title="wikilink">クイズの星</a></p></td>
+<td><p><span style="display:none">く07</span><a href="../Page/クイズの星.md" title="wikilink">クイズの星</a></p></td>
 <td><p><a href="../Page/サン電子.md" title="wikilink">サン電子</a></p></td>
 <td><p>SC</p></td>
 <td><p>QUIZ</p></td>

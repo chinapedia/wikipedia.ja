@@ -22,7 +22,7 @@
 
   - 初代 [柳井麻希](../Page/柳井麻希.md "wikilink")（1997年3月31日-[2003年](../Page/2003年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")）
       - [TBSラジオで](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[帯番組を担当するため降板](https://ja.wikipedia.org/wiki/mix "wikilink")。
-  - 2代目 [澤美代子](https://ja.wikipedia.org/wiki/澤美代子 "wikilink")（2003年[10月1日](../Page/10月1日.md "wikilink")-[2009年](../Page/2009年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")）
+  - 2代目 [澤美代子](../Page/澤美代子.md "wikilink")（2003年[10月1日](../Page/10月1日.md "wikilink")-[2009年](../Page/2009年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")）
       - 産休に伴い降板。
 
 ### ショッピングパーソナリティ
@@ -427,8 +427,8 @@
 <!-- end list -->
 
   -
-    リスナーからのお便りにて書かれていた、[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")に登場する技の名前「[かめはめ波](../Page/かめはめ波.md "wikilink")（かめはめは）」を、[澤美代子](https://ja.wikipedia.org/wiki/澤美代子 "wikilink")が**「かめはめなみ」**と誤読したのが発端。その日のリスナーからのお便りには、その「かめはめなみ」をネタにしたものが多数届いた。その後、土屋やリスナーに「かめはめなみ」をネタにされた。
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")-[24日のスペシャルウィークに](../Page/10月24日.md "wikilink")、「かめはめ相談室」というコーナーが設けられた。世界で唯一の「かめはめなみ」の使い手である澤美代子師範が、リスナーのダメなところ、やってしまったところを逆電で聴き、「かめはめなみ」で[お祓いする](https://ja.wikipedia.org/wiki/祓 "wikilink")。
+    リスナーからのお便りにて書かれていた、[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")に登場する技の名前「[かめはめ波](../Page/かめはめ波.md "wikilink")（かめはめは）」を、[澤美代子](../Page/澤美代子.md "wikilink")が**「かめはめなみ」**と誤読したのが発端。その日のリスナーからのお便りには、その「かめはめなみ」をネタにしたものが多数届いた。その後、土屋やリスナーに「かめはめなみ」をネタにされた。
+    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")-[24日のスペシャルウィークに](../Page/10月24日.md "wikilink")、「かめはめ相談室」というコーナーが設けられた。世界で唯一の「かめはめなみ」の使い手である澤美代子師範が、リスナーのダメなところ、やってしまったところを逆電で聴き、「かめはめなみ」で[お祓いする](../Page/祓.md "wikilink")。
 
 <!-- end list -->
 
@@ -456,7 +456,7 @@
 <!-- end list -->
 
   -
-    土屋のモノマネレパートリーが多く「[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")」、「[ジャック・バウアー](../Page/ジャック・バウアー.md "wikilink")」、[BEAT SHUFFLEパーソナリティの](https://ja.wikipedia.org/wiki/BEAT_SHUFFLE "wikilink")「[浅井博章](https://ja.wikipedia.org/wiki/浅井博章 "wikilink")」、[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")の「山さん」、[アフラック](https://ja.wikipedia.org/wiki/アフラック "wikilink")CMの「アフラックダック」、「[ミッキー](../Page/ミッキー.md "wikilink")」、「電車の車掌アナウンス」、「[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")」、「[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")」などある。その他にもお笑い芸人などもモノマネをする。
+    土屋のモノマネレパートリーが多く「[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")」、「[ジャック・バウアー](../Page/ジャック・バウアー.md "wikilink")」、[BEAT SHUFFLEパーソナリティの](https://ja.wikipedia.org/wiki/BEAT_SHUFFLE "wikilink")「[浅井博章](../Page/浅井博章.md "wikilink")」、[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")の「山さん」、[アフラック](https://ja.wikipedia.org/wiki/アフラック "wikilink")CMの「アフラックダック」、「[ミッキー](../Page/ミッキー.md "wikilink")」、「電車の車掌アナウンス」、「[美輪明宏](https://ja.wikipedia.org/wiki/美輪明宏 "wikilink")」、「[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")」などある。その他にもお笑い芸人などもモノマネをする。
     澤はレパートリーが少ないもののレベルが高い。「[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")」、[WEEKLY NACK5のパーソナリティー](https://ja.wikipedia.org/wiki/WEEKLY_NACK5 "wikilink")「[遠近由美子](../Page/遠近由美子.md "wikilink")」、「[maylee](https://ja.wikipedia.org/wiki/maylee "wikilink")」、DreamCaravanリポーター「[棚橋麻衣](../Page/棚橋麻衣.md "wikilink")」など。
 
 <!-- end list -->
@@ -504,7 +504,7 @@
 
   -
     事の発端は、同じ[NACK5の番組](../Page/エフエムナックファイブ.md "wikilink")「[HITS\! THE TOWN](../Page/HITS!_THE_TOWN.md "wikilink")」にリスナーから「ON TOWN のツッチーと澤さんは仲良しですよね?」のメールから始まった。そのメールを読んだパーソナリティーのバカボン鬼塚は、「ああ、あの二人出来てるんだよ〜」とあっさり答えたために騒動になった。
-    翌週月曜日の鬼玉で、再びその事についてリスナーからメールが届き、相方でもある菊池淳介も「あの二人怪しいよね?付き合ってんじゃね?」と答えた。その年の年末カウントダウンイベント「[様ソニ](https://ja.wikipedia.org/wiki/様ソニ "wikilink")」の総合司会をする事となった土屋、アシスタントに誰にするか HITS\! THE TOWN で話題になりリスナー投票で澤美代子になったが、アシスタント選びがいつの間にか「土屋滋生の結婚相手は澤美代子」と趣旨に変わってしまい盛り上がり、カウントダウン当日2人が親密にいた所をバカボン鬼塚が目撃し放送で暴露した為に、また恋人疑惑が過熱した。
+    翌週月曜日の鬼玉で、再びその事についてリスナーからメールが届き、相方でもある菊池淳介も「あの二人怪しいよね?付き合ってんじゃね?」と答えた。その年の年末カウントダウンイベント「[様ソニ](../Page/様ソニ.md "wikilink")」の総合司会をする事となった土屋、アシスタントに誰にするか HITS\! THE TOWN で話題になりリスナー投票で澤美代子になったが、アシスタント選びがいつの間にか「土屋滋生の結婚相手は澤美代子」と趣旨に変わってしまい盛り上がり、カウントダウン当日2人が親密にいた所をバカボン鬼塚が目撃し放送で暴露した為に、また恋人疑惑が過熱した。
     その後、2人はもう時期結婚するという話の展開にまで発展し、当番組にその事についてメールが殺到した。土屋自身番組で異例の否定会見を行ったが、相方の澤が「土屋さんに振られて捨てられちゃった」と冗談を飛ばした。数ヶ月後に澤は別の男性と結婚した（相手の男性は未だに発表されていない）。その後、[maylee](https://ja.wikipedia.org/wiki/maylee "wikilink") の代打で出演した HITS\! THE TOWN でバカボン鬼塚に「結婚した相手は土屋?」と聞かれ、「土屋さんに振られて捨てられちゃった」と同じ冗談を言い、結婚相手は土屋では無い事が判明し、あえなく一連の騒動は終結した。[2009年](../Page/2009年.md "wikilink")12月には、結婚相手（通称：こうちゃん）が「どらTOWN」のクイズの出題者として録音で出演した。
 
 <!-- end list -->
@@ -616,7 +616,7 @@ NACK5全体で2ヶ月に1度行われ、2週間続く。当番組でも以前ま
   - [The Nutty Radio Show 鬼玉](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")
   - [NACK AFTER5](../Page/NACK_AFTER5.md "wikilink")
   - [土屋滋生](../Page/土屋滋生.md "wikilink")
-  - [澤美代子](https://ja.wikipedia.org/wiki/澤美代子 "wikilink")
+  - [澤美代子](../Page/澤美代子.md "wikilink")
   - [豊田エリー](../Page/豊田エリー.md "wikilink")（DREAM CARAVAN レポーター）
 
 ## 外部リンク

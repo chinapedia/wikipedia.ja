@@ -5,7 +5,7 @@
 
 生放送番組内での放送の場合は、コーナージングルの前または後に当該番組のナビゲーター(DJ)による「この後はニュース」である旨のアナウンスが入ることが多い。生放送番組への組込でない場合（週末など）でスポンサーが付く場合は、[福ノ上達也](../Page/福ノ上達也.md "wikilink")によるスポンサー紹介が入る。なお、2005年ごろから平日ワイド番組内では「Headline News」の後に「Weather Information」がセットで放送されるようになった（「Weather Information」は単独の場合もある）。
 
-これらの番組は、[SOUND PLANETを通じJ](../Page/SOUND_PLANET.md "wikilink")-WAVEの番組をネットしている一部コミュニティFM局でもそのまま放送されているが\[1\]、J-WAVEは本来関東ローカル向けの放送なので、天気予報や交通情報はJ-WAVEの地上波のサービスエリアである[首都圏のものしか放送されない](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。また、金曜日の16:30 - 20:00に放送される[GOLD RUSHが](https://ja.wikipedia.org/wiki/GOLD_RUSH_\(J-WAVEのラジオ番組\) "wikilink")2019年7月から北海道の[JFL系列局である](../Page/JAPAN_FM_LEAGUE.md "wikilink")[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")でも放送されているが\[2\]、北海道向けの情報は含まれておらず、ノースウェーブ側でも差し替えを行っていない。
+これらの番組は、[SOUND PLANETを通じJ](../Page/SOUND_PLANET.md "wikilink")-WAVEの番組をネットしている一部コミュニティFM局でもそのまま放送されているが\[1\]、J-WAVEは本来関東ローカル向けの放送なので、天気予報や交通情報はJ-WAVEの地上波のサービスエリアである[首都圏のものしか放送されない](../Page/首都圏_\(日本\).md "wikilink")。また、金曜日の16:30 - 20:00に放送される[GOLD RUSHが](https://ja.wikipedia.org/wiki/GOLD_RUSH_\(J-WAVEのラジオ番組\) "wikilink")2019年7月から北海道の[JFL系列局である](../Page/JAPAN_FM_LEAGUE.md "wikilink")[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")でも放送されているが\[2\]、北海道向けの情報は含まれておらず、ノースウェーブ側でも差し替えを行っていない。
 
 ## 概要・放送時間
 

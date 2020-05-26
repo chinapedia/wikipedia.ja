@@ -43,7 +43,7 @@
   - ギター:[鈴木茂](../Page/鈴木茂_\(ギタリスト\).md "wikilink")
   - キーボード:[松任谷正隆](../Page/松任谷正隆.md "wikilink")、[武部聡志](../Page/武部聡志.md "wikilink")
   - サキソフォン:[Jake H. Conception](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
-  - コーラス:[東郷昌和 (BUZZ)](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")、[小出博志 (BUZZ)](../Page/バズ.md "wikilink")、松岡奈穂美、[山本潤子](../Page/山本潤子.md "wikilink")（あの日にかえりたい）
+  - コーラス:[東郷昌和 (BUZZ)](../Page/バズ_\(バンド\).md "wikilink")、[小出博志 (BUZZ)](../Page/バズ.md "wikilink")、松岡奈穂美、[山本潤子](../Page/山本潤子.md "wikilink")（あの日にかえりたい）
   - ヴァイオリン:日色純一（CHINESE SOUP）
 
 ## 外部リンク

@@ -389,7 +389,7 @@
       - Velingara Elementary School (2003)
       - Sam Ndiaye Primary School (2006)
       - Ndiakhipe Niang School (2006)
-  - [シエラレオネ](https://ja.wikipedia.org/wiki/シエラレオネ "wikilink")／ Sierra Leone
+  - [シエラレオネ](../Page/シエラレオネ.md "wikilink")／ Sierra Leone
       - Church of God School (2004)
   - [スリランカ](../Page/スリランカ.md "wikilink")／ Sri Lanka
       - Netolpitiya M.V. (2003)

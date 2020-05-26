@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本二三代" title="wikilink">藤本二三代</a>(2)</p></td>
+<td><p><a href="../Page/藤本二三代.md" title="wikilink">藤本二三代</a>(2)</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -87,7 +87,7 @@
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大津美子" title="wikilink">大津美子</a>(4)</p></td>
+<td><p><a href="../Page/大津美子.md" title="wikilink">大津美子</a>(4)</p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>

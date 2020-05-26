@@ -8,7 +8,7 @@
 ### 0番台
 
   - 1
-    [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")（旧・日本陸運産業）が所有し[クラレ](../Page/クラレ.md "wikilink")が借受ける[クロロスルホニルイソシアナート](https://ja.wikipedia.org/wiki/クロロスルホニルイソシアナート "wikilink")専用コンテナ。
+    [日陸](../Page/日陸.md "wikilink")（旧・日本陸運産業）が所有し[クラレ](../Page/クラレ.md "wikilink")が借受ける[クロロスルホニルイソシアナート](https://ja.wikipedia.org/wiki/クロロスルホニルイソシアナート "wikilink")専用コンテナ。
   - 2
     [保土谷化学工業](../Page/保土谷化学工業.md "wikilink")が所有する[塩化ベンジル](../Page/塩化ベンジル.md "wikilink")専用コンテナ。
 

@@ -103,7 +103,7 @@
   - [たまごっちのキラキラおみせっち](https://ja.wikipedia.org/wiki/たまごっちのキラキラおみせっち "wikilink")（[あるくみアスカ](https://ja.wikipedia.org/wiki/あるくみアスカ "wikilink")）
   - ヒーローバトルコロシアム（[菊野郎](https://ja.wikipedia.org/wiki/菊野郎 "wikilink")）
   - [太鼓の達人 Wii](https://ja.wikipedia.org/wiki/太鼓の達人_Wii_\(漫画\) "wikilink")（[おぎのひとし](https://ja.wikipedia.org/wiki/おぎのひとし "wikilink")）
-  - [高速カードバトル カードヒーロー](https://ja.wikipedia.org/wiki/高速カードバトル_カードヒーロー "wikilink")（[横井三歩](https://ja.wikipedia.org/wiki/横井三歩 "wikilink")）
+  - [高速カードバトル カードヒーロー](../Page/高速カードバトル_カードヒーロー.md "wikilink")（[横井三歩](https://ja.wikipedia.org/wiki/横井三歩 "wikilink")）
 
 ## 歴代編集長
 

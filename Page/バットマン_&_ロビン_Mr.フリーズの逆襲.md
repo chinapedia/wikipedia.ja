@@ -1,7 +1,7 @@
 > この記事は[バットマン \& ロビン Mr.フリーズの逆襲](https://ja.wikipedia.org/wiki/バットマン_\&_ロビン_Mr.フリーズの逆襲)から翻訳されています。
 
 
-『**バットマン&ロビン Mr.フリーズの逆襲**』（バットマンアンドロビン ミスターフリーズのぎゃくしゅう、*BATMAN & ROBIN*）は、[DCコミックス](../Page/DCコミックス.md "wikilink")の『[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")』を原作とした[1997年の](../Page/1997年の映画.md "wikilink") [スーパーヒーロー映画](https://ja.wikipedia.org/wiki/スーパーヒーロー映画 "wikilink")である。監督は[ジョエル・シュマッカー](../Page/ジョエル・シュマッカー.md "wikilink")、脚本は[アキヴァ・ゴールズマン](../Page/アキヴァ・ゴールズマン.md "wikilink")、出演は[ジョージ・クルーニー](https://ja.wikipedia.org/wiki/ジョージ・クルーニー "wikilink")、[クリス・オドネル](https://ja.wikipedia.org/wiki/クリス・オドネル "wikilink")、[アリシア・シルヴァーストーン](../Page/アリシア・シルヴァーストーン.md "wikilink")、[ユマ・サーマン](../Page/ユマ・サーマン.md "wikilink")、[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")らで、[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")が配給した。[映画『バットマン』シリーズの](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")4作目であり、バットマンとロビンが[ゴッサム・シティ](../Page/ゴッサム・シティ.md "wikilink")を氷漬けにしようと企む[Mr.フリーズ](../Page/ミスター・フリーズ.md "wikilink")、[ポイズン・アイビー](../Page/ポイズン・アイビー.md "wikilink")、[ベイン](../Page/ベイン.md "wikilink")に立ち向かう物語である。
+『**バットマン&ロビン Mr.フリーズの逆襲**』（バットマンアンドロビン ミスターフリーズのぎゃくしゅう、*BATMAN & ROBIN*）は、[DCコミックス](../Page/DCコミックス.md "wikilink")の『[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")』を原作とした[1997年の](../Page/1997年の映画.md "wikilink") [スーパーヒーロー映画](https://ja.wikipedia.org/wiki/スーパーヒーロー映画 "wikilink")である。監督は[ジョエル・シュマッカー](../Page/ジョエル・シュマッカー.md "wikilink")、脚本は[アキヴァ・ゴールズマン](../Page/アキヴァ・ゴールズマン.md "wikilink")、出演は[ジョージ・クルーニー](https://ja.wikipedia.org/wiki/ジョージ・クルーニー "wikilink")、[クリス・オドネル](../Page/クリス・オドネル.md "wikilink")、[アリシア・シルヴァーストーン](../Page/アリシア・シルヴァーストーン.md "wikilink")、[ユマ・サーマン](../Page/ユマ・サーマン.md "wikilink")、[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")らで、[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")が配給した。[映画『バットマン』シリーズの](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")4作目であり、バットマンとロビンが[ゴッサム・シティ](../Page/ゴッサム・シティ.md "wikilink")を氷漬けにしようと企む[Mr.フリーズ](../Page/ミスター・フリーズ.md "wikilink")、[ポイズン・アイビー](../Page/ポイズン・アイビー.md "wikilink")、[ベイン](../Page/ベイン.md "wikilink")に立ち向かう物語である。
 
 企画は『[バットマン フォーエヴァー](../Page/バットマン_フォーエヴァー.md "wikilink")』が興行的に成功した直後に始まり、撮影は1996年9月から1997年1月まで行われた。
 
@@ -111,7 +111,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディック・グレイソン" title="wikilink">ディック・グレイソン / ロビン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・オドネル" title="wikilink">クリス・オドネル</a></p></td>
+<td><p><a href="../Page/クリス・オドネル.md" title="wikilink">クリス・オドネル</a></p></td>
 <td><p><a href="../Page/宮本充.md" title="wikilink">宮本充</a></p></td>
 </tr>
 <tr class="even">

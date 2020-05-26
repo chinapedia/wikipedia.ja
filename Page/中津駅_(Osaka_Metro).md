@@ -74,7 +74,7 @@
   - [プラザモータープール](https://ja.wikipedia.org/wiki/大阪駅周辺バスのりば#高速バス#非_バス停/バスターミナル#プラザモータープール "wikilink")（[高速バス](../Page/高速バス.md "wikilink")・[ツアーバス](../Page/ツアーバス.md "wikilink")の出発地）
   - [ホテルサンルート梅田](../Page/サンルートホテルチェーン.md "wikilink")
   - [ちゃやまちアプローズ](../Page/ちゃやまちアプローズ.md "wikilink")
-      - [ホテル阪急インターナショナル](https://ja.wikipedia.org/wiki/ホテル阪急インターナショナル "wikilink")
+      - [ホテル阪急インターナショナル](../Page/ホテル阪急インターナショナル.md "wikilink")
       - [梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")
       - 阪急茶屋町ビル内郵便局
   - [梅田ロフト](../Page/ロフト_\(雑貨店\).md "wikilink")

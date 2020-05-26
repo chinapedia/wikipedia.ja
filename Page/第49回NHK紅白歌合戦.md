@@ -71,7 +71,7 @@
   - [琴錦功宗](../Page/琴錦功宗.md "wikilink")（[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")・[小結](../Page/小結.md "wikilink")）：この年の大相撲[九州場所で](../Page/本場所.md "wikilink")[平幕優勝](../Page/前頭.md "wikilink")。
   - [中村玉緒](../Page/中村玉緒.md "wikilink")（女優）：翌年上期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[すずらん](../Page/すずらん_\(テレビドラマ\).md "wikilink")』の川村とし役。
   - [松平健](../Page/松平健.md "wikilink")（[俳優](../Page/俳優.md "wikilink")）：翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[元禄繚乱](../Page/元禄繚乱.md "wikilink")』の[色部又四郎役](../Page/色部安長.md "wikilink")。
-  - [俵万智](../Page/俵万智.md "wikilink")（[歌人](https://ja.wikipedia.org/wiki/歌人 "wikilink")）：歌集『そこまでの空 俵万智の贈り物』を出版。
+  - [俵万智](../Page/俵万智.md "wikilink")（[歌人](../Page/歌人.md "wikilink")）：歌集『そこまでの空 俵万智の贈り物』を出版。
   - [ジェームス三木](../Page/ジェームス三木.md "wikilink")（[脚本家](../Page/脚本家.md "wikilink")）：翌々年の大河ドラマ『[葵 徳川三代](../Page/葵_徳川三代.md "wikilink")』の作者。
   - [服部道子](https://ja.wikipedia.org/wiki/服部道子 "wikilink")（[プロゴルファー](../Page/プロゴルファー.md "wikilink")）：この年、年間5勝を挙げ賞金女王に輝く。
   - [熊川哲也](../Page/熊川哲也.md "wikilink")（[バレエダンサー](https://ja.wikipedia.org/wiki/バレエダンサー "wikilink")）：翌年[Kバレエカンパニー](https://ja.wikipedia.org/wiki/Kバレエカンパニー "wikilink")を創立。

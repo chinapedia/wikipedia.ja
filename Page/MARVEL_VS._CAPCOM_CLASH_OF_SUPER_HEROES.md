@@ -310,7 +310,7 @@
 
 :: 上空から複数のサイコロを降らせる。
 
-:; ミシェルハート (Miechele Heart)（[アレスの翼](https://ja.wikipedia.org/wiki/アレスの翼 "wikilink")）
+:; ミシェルハート (Miechele Heart)（[アレスの翼](../Page/アレスの翼.md "wikilink")）
 
 :: 3ウェイショットを放つ。
 

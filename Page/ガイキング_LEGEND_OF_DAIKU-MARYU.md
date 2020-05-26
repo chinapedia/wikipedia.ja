@@ -231,7 +231,7 @@
     西方将軍ヴェスターヌ配下の諜報員。地上人になりすまし大空魔竜に単身乗り込んだ。情報収集の最中、アイドルコンテストのゲストとして招かれ赤っ恥をかいたのち、大空魔竜の情報を持ち帰ったつもりが、サコンに見破られて腕輪に記録した情報を爆破された。
     終盤、救援として再登場する予定だった\[12\]。
   - ドクターワン
-    声 - [中江真司](https://ja.wikipedia.org/wiki/中江真司 "wikilink")
+    声 - [中江真司](../Page/中江真司.md "wikilink")
     箱舟計画の責任者。ダリウス17世の命令で箱舟計画を進める。仮面で顔を隠している。
   - ドクターツー
     声 - 大川透
@@ -691,12 +691,12 @@
   - 美術デザイン - [中村光毅](../Page/中村光毅.md "wikilink") → 本多敬
   - 色彩設計 - [辻田邦夫](../Page/辻田邦夫.md "wikilink")
   - 音響効果 - [今野康之、古谷友二](../Page/スワラ・プロ.md "wikilink")
-  - 音楽 - [手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")
+  - 音楽 - [手塚理](../Page/手塚理.md "wikilink")
   - 音楽協力 - [テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")、東映アニメーション音楽出版
   - 編集 - 後藤正浩
   - ドッキングアニメーション - [大張正己](../Page/大張正己.md "wikilink")、[愛姫みかん](../Page/江端里沙.md "wikilink")、牟田口裕貴、大籠之仁、[まさひろ山根](https://ja.wikipedia.org/wiki/山根理宏 "wikilink")
   - イラスト - [羽山淳一](../Page/羽山淳一.md "wikilink")
-  - アイキャッチ - [渡部圭祐](https://ja.wikipedia.org/wiki/渡部圭祐 "wikilink")
+  - アイキャッチ - [渡部圭祐](../Page/渡部圭祐.md "wikilink")
   - プロデューサー - [梶淳](../Page/梶淳.md "wikilink")、櫻田博之
   - 製作協力 - [東映](../Page/東映.md "wikilink")
   - 製作 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
@@ -788,7 +788,7 @@
 <a href="../Page/大塚健_(アニメーター).md" title="wikilink">大塚健</a></p></td>
 <td><p>細田雅弘</p></td>
 <td><p>直井正博</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡部圭祐" title="wikilink">渡部圭祐</a></p></td>
+<td><p><a href="../Page/渡部圭祐.md" title="wikilink">渡部圭祐</a></p></td>
 <td><p><a href="../Page/中村光毅.md" title="wikilink">中村光毅</a></p></td>
 <td><p><strong>2005年</strong><br />
 11月12日</p></td>

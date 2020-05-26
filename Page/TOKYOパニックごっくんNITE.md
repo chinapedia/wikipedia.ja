@@ -72,11 +72,11 @@
   - [斉藤ノブ](https://ja.wikipedia.org/wiki/斉藤ノブ "wikilink") （1987年[5月26日](../Page/5月26日.md "wikilink")、同年[9月22日](../Page/9月22日.md "wikilink")）
   - [松岡直也](../Page/松岡直也.md "wikilink") （1987年[5月27日](../Page/5月27日.md "wikilink")）
   - [TOSHITARO](https://ja.wikipedia.org/wiki/TOSHITARO "wikilink") （1987年[5月28日](../Page/5月28日.md "wikilink")）
-  - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink") （1987年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）
+  - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink") （1987年[6月2日](../Page/6月2日.md "wikilink")）
   - [前田賀奈子](https://ja.wikipedia.org/wiki/前田賀奈子 "wikilink") （1987年[6月10日](../Page/6月10日.md "wikilink") - 当時『[光戦隊マスクマン](../Page/光戦隊マスクマン.md "wikilink")』にレギュラー出演）
   - [鈴木さえ子](../Page/鈴木さえ子.md "wikilink") （1987年[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")）
   - [ジャドーズ](../Page/ジャドーズ.md "wikilink") （1987年[6月23日](../Page/6月23日.md "wikilink")、同年[11月10日](../Page/11月10日.md "wikilink")、1988年[1月5日](../Page/1月5日.md "wikilink")）
-  - [羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink") （1987年[6月24日](../Page/6月24日.md "wikilink")）
+  - [羽賀研二](../Page/羽賀研二.md "wikilink") （1987年[6月24日](../Page/6月24日.md "wikilink")）
   - スクランブル （1987年[6月25日](../Page/6月25日.md "wikilink")）
   - [森雪之丞](../Page/森雪之丞.md "wikilink") （1987年[6月30日](../Page/6月30日.md "wikilink")）
   - [千年コメッツ](https://ja.wikipedia.org/wiki/千年コメッツ "wikilink") （1987年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、同年[10月27日](../Page/10月27日.md "wikilink")、同年[11月24日](../Page/11月24日.md "wikilink")、1988年[3月15日](../Page/3月15日.md "wikilink")）

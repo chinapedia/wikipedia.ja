@@ -1316,7 +1316,7 @@
 <td><p>渋谷ON AIR WEST</p></td>
 <td><p>JUST A BEAT SHOW</p></td>
 <td><p>イベント</p></td>
-<td><p><a href="../Page/TIMESLIP.md" title="wikilink">TimeSlip-Rendezvous</a>、<a href="../Page/In_the_Soup.md" title="wikilink">In the Soup</a>、<a href="https://ja.wikipedia.org/wiki/THE_JUMPS" title="wikilink">THE JUMPS</a>、<a href="https://ja.wikipedia.org/wiki/久保田光太郎" title="wikilink">SUPER TRAPP</a></p></td>
+<td><p><a href="../Page/TIMESLIP.md" title="wikilink">TimeSlip-Rendezvous</a>、<a href="../Page/In_the_Soup.md" title="wikilink">In the Soup</a>、<a href="https://ja.wikipedia.org/wiki/THE_JUMPS" title="wikilink">THE JUMPS</a>、<a href="../Page/久保田光太郎.md" title="wikilink">SUPER TRAPP</a></p></td>
 <td><p>MAD大内ゲスト参加</p></td>
 </tr>
 <tr class="odd">

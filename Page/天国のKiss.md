@@ -253,7 +253,7 @@
 
   - 脚本：[楠本ひろみ](https://ja.wikipedia.org/wiki/楠本ひろみ "wikilink")、[山崎淳也](https://ja.wikipedia.org/wiki/山崎淳也 "wikilink")
   - 原案協力：「幽麗演戯レディゴースト」（[角川書店](../Page/角川書店.md "wikilink")）
-  - 演出：[唐木希浩](https://ja.wikipedia.org/wiki/唐木希浩 "wikilink")（[5年D組](../Page/5年D組.md "wikilink")）、[久野昌宏](https://ja.wikipedia.org/wiki/久野昌宏 "wikilink")・[秋山純](https://ja.wikipedia.org/wiki/秋山純_\(演出家\) "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - 演出：[唐木希浩](https://ja.wikipedia.org/wiki/唐木希浩 "wikilink")（[5年D組](../Page/5年D組.md "wikilink")）、[久野昌宏](https://ja.wikipedia.org/wiki/久野昌宏 "wikilink")・[秋山純](../Page/秋山純_\(演出家\).md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - プロデューサー：[内山聖子](https://ja.wikipedia.org/wiki/内山聖子 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、[伊藤正昭](https://ja.wikipedia.org/wiki/伊藤正昭 "wikilink")（[ホリプロ](../Page/ホリプロ.md "wikilink")）
   - チーフプロデューサー：[桑田潔](https://ja.wikipedia.org/wiki/桑田潔 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - 音楽：[溝口肇](../Page/溝口肇.md "wikilink")

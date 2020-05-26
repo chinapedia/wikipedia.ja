@@ -21,7 +21,7 @@ CNI (Compiled Native Interface)は、ネイティブアプリケーションや[
 
   - [GNU Interpreter for Java](https://ja.wikipedia.org/wiki/GNU_Interpreter_for_Java "wikilink")
   - [GNUコンパイラコレクション](../Page/GNUコンパイラコレクション.md "wikilink")
-  - [Kaffe](https://ja.wikipedia.org/wiki/Kaffe "wikilink")
+  - [Kaffe](../Page/Kaffe.md "wikilink")
 
 ## 外部リンク
 

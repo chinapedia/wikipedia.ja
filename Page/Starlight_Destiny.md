@@ -38,7 +38,7 @@
 ## 収録アルバム
 
   - [Single Collection](../Page/Single_Collection_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1)
-  - [ATTITUDE](https://ja.wikipedia.org/wiki/ATTITUDE_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1)
+  - [ATTITUDE](../Page/ATTITUDE_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1)
       - 先にSingle Collectionに収録されたが、1年4ヶ月後に発売されたオリジナルアルバムにも収録された。
   - [Flip Side Collection](../Page/Flip_Side_Collection.md "wikilink")（\#2)
 

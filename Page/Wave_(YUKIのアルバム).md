@@ -29,7 +29,7 @@
 2.  **[メランコリニスタ](../Page/メランコリニスタ.md "wikilink")** (4:24)
     （作詞：YUKI／作曲：蔦谷好位置／編曲：[田中隼人](https://ja.wikipedia.org/wiki/田中隼人 "wikilink")）
       - [花王](../Page/花王.md "wikilink")「[エッセンシャル ダメージケア](../Page/エッセンシャル_\(シャンプー\).md "wikilink")」CMソング。本曲の前にこの商品のCM曲だったのが「[ハローグッバイ](../Page/ハローグッバイ_\(YUKIの曲\).md "wikilink")」である。
-3.  **[ドラマチック](https://ja.wikipedia.org/wiki/ドラマチック_\(YUKIの曲\) "wikilink")** (4:21)
+3.  **[ドラマチック](../Page/ドラマチック_\(YUKIの曲\).md "wikilink")** (4:21)
     （作詞：YUKI／作曲・編曲：蔦谷好位置／ストリングスアレンジ：[弦一徹](../Page/落合徹也.md "wikilink")）
       - [テレビアニメ](../Page/アニメ.md "wikilink")「[ハチミツとクローバー](../Page/ハチミツとクローバー.md "wikilink")」オープニングテーマ曲。YUKI自身、原作の大ファンである。
 4.  **[裸の太陽](../Page/ふがいないや.md "wikilink")** (5:54)

@@ -285,7 +285,7 @@
       - あなたを照らす、月になりましょう（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
       - これからずっと…（作曲・編曲：樋口秀樹、コーラス：WHITE-LIPS）
   - [かいわれっ\!](../Page/かいわれっ!.md "wikilink")（[FlyingShine](../Page/フライングシャイン.md "wikilink")）
-      - ボクとキミのこと（作詞・作曲・編曲：樋口秀樹、歌：[月子](https://ja.wikipedia.org/wiki/月子_\(歌手\) "wikilink")）
+      - ボクとキミのこと（作詞・作曲・編曲：樋口秀樹、歌：[月子](../Page/月子_\(歌手\).md "wikilink")）
 
 <!-- end list -->
 
@@ -399,7 +399,7 @@
       - リズ（作詞・作曲・編曲：樋口秀樹、歌：WHITE-LIPS）
   - もしも明日が晴れならば Extra Soundtrack（Tynwald music）
       - if（作詞・作曲・編曲：樋口秀樹・[ぱれっと](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")、歌：WHITE-LIPS）
-      - then... 〜生まれ来る子供のために（作詞・作曲・編曲：樋口秀樹・ぱれっと、歌：[月子](https://ja.wikipedia.org/wiki/月子_\(歌手\) "wikilink")）
+      - then... 〜生まれ来る子供のために（作詞・作曲・編曲：樋口秀樹・ぱれっと、歌：[月子](../Page/月子_\(歌手\).md "wikilink")）
       - ゆうれいの心得（作詞・作曲・編曲：樋口秀樹・ぱれっと、歌：WHITE-LIPS）
   - Class words（GWAVE/Tynwald music）
       - いざないの扉（作曲・編曲：樋口秀樹、コーラス：WHITE-LIPS）

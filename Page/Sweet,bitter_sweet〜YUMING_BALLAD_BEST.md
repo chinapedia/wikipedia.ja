@@ -16,7 +16,7 @@
 1.  **[やさしさに包まれたなら](../Page/やさしさに包まれたなら.md "wikilink")**（album version）
       -
         アルバム『[MISSLIM](../Page/MISSLIM.md "wikilink")』より。
-2.  **[瞳を閉じて](https://ja.wikipedia.org/wiki/瞳を閉じて "wikilink")**
+2.  **[瞳を閉じて](../Page/瞳を閉じて.md "wikilink")**
       -
         アルバム『MISSLIM』より。
 3.  **雨のステイション**

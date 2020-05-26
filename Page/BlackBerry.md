@@ -1,7 +1,7 @@
 > この記事は[BlackBerry](https://ja.wikipedia.org/wiki/BlackBerry)から翻訳されています。
 
 
-**BlackBerry**（ブラックベリー）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[ブラックベリー](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")（旧リサーチ・イン・モーション）社が開発し、現在は[中国の](../Page/中華人民共和国.md "wikilink")[TCL集団](../Page/TCL集団.md "wikilink")などが企画・製造・販売を行っている[携帯端末と関連するサービス](../Page/携帯機器.md "wikilink")。
+**BlackBerry**（ブラックベリー）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[ブラックベリー](../Page/ブラックベリー_\(企業\).md "wikilink")（旧リサーチ・イン・モーション）社が開発し、現在は[中国の](../Page/中華人民共和国.md "wikilink")[TCL集団](../Page/TCL集団.md "wikilink")などが企画・製造・販売を行っている[携帯端末と関連するサービス](../Page/携帯機器.md "wikilink")。
 
 ## 概要
 

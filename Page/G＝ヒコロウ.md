@@ -1,7 +1,7 @@
 > この記事は[G＝ヒコロウ](https://ja.wikipedia.org/wiki/G＝ヒコロウ)から翻訳されています。
 
 
-**G＝ヒコロウ**（ジーヒコロウ、本名：**遠藤 総理**（えんどう まさおみ）、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月13日](../Page/1月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink") 出身。
+**G＝ヒコロウ**（ジーヒコロウ、本名：**遠藤 総理**（えんどう まさおみ）、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月13日](../Page/1月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](../Page/漫画家.md "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink") 出身。
 
 代表作は『[不死身探偵オルロック](../Page/不死身探偵オルロック.md "wikilink")』、『みんなはどぅ?』など。2ページから8ページほどのショート[ギャグ](../Page/ギャグ.md "wikilink")を主に掲載。ほかにも[カードゲーム](../Page/カードゲーム.md "wikilink")など[イラスト関係の仕事や](../Page/イラストレーション.md "wikilink")、[アンソロジーなどの仕事もこなす](../Page/アンソロジーコミック.md "wikilink")。また、[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動も行っている。[少年雑誌](../Page/少年雑誌.md "wikilink")や[青年雑誌](https://ja.wikipedia.org/wiki/青年雑誌 "wikilink")で連載を持つことはほとんどなく、[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")雑誌を主な活動の場としている。
 

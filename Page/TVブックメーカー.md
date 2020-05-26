@@ -252,7 +252,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="../Page/5月26日.md" title="wikilink">5月26日</a>の<a href="https://ja.wikipedia.org/wiki/大相撲" title="wikilink">大相撲</a>夏場所千秋楽での<a href="https://ja.wikipedia.org/wiki/貴乃花光司" title="wikilink">貴花田関の取り組みで</a><br />
+<td><p><a href="../Page/5月26日.md" title="wikilink">5月26日</a>の<a href="https://ja.wikipedia.org/wiki/大相撲" title="wikilink">大相撲</a>夏場所千秋楽での<a href="../Page/貴乃花光司.md" title="wikilink">貴花田関の取り組みで</a><br />
 <a href="../Page/懸賞_(相撲).md" title="wikilink">懸賞が何本かかるか</a>?</p></td>
 <td><p>6本<br />
 （5本か6本）</p></td>
@@ -964,7 +964,7 @@
 </tr>
 <tr class="even">
 <td><p>68</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第68回東京箱根間往復大学駅伝競走" title="wikilink">箱根駅伝で</a>、<a href="../Page/山梨学院大学.md" title="wikilink">山梨学院大学</a>（当時）の<br />
+<td><p><a href="../Page/第68回東京箱根間往復大学駅伝競走.md" title="wikilink">箱根駅伝で</a>、<a href="../Page/山梨学院大学.md" title="wikilink">山梨学院大学</a>（当時）の<br />
 <a href="../Page/ジョセフ・オツオリ.md" title="wikilink">ジョセフ・オツオリ</a>選手は何人抜くか?</p></td>
 <td><p>3人<br />
 （3人以下）</p></td>

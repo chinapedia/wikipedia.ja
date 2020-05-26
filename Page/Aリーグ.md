@@ -73,7 +73,7 @@ Aリーグ発足以前より存在しているクラブは、[アデレード・
 <td><p><a href="../Page/クイーンズランド州.md" title="wikilink">クイーンズランド州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブリスベン・ロアーFC" title="wikilink">ブリスベン・ロアーFC</a></p></td>
 <td><p><a href="../Page/ブリスベン.md" title="wikilink">ブリスベン</a><br />
-（<a href="https://ja.wikipedia.org/wiki/サンコープ・スタジアム" title="wikilink">サンコープ・スタジアム</a>）</p></td>
+（<a href="../Page/サンコープ・スタジアム.md" title="wikilink">サンコープ・スタジアム</a>）</p></td>
 <td><p>2005-06</p></td>
 <td></td>
 </tr>
@@ -124,7 +124,7 @@ Aリーグ発足以前より存在しているクラブは、[アデレード・
 <td><p>ウェリントン広域自治体</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェリントン・フェニックスFC" title="wikilink">ウェリントン・フェニックスFC</a></p></td>
 <td><p><a href="../Page/ウェリントン.md" title="wikilink">ウェリントン</a><br />
-（<a href="https://ja.wikipedia.org/wiki/ウエストパック・スタジアム" title="wikilink">ウエストパック・スタジアム</a>）</p></td>
+（<a href="../Page/ウエストパック・スタジアム.md" title="wikilink">ウエストパック・スタジアム</a>）</p></td>
 <td><p>2007-08</p></td>
 </tr>
 </tbody>
@@ -164,7 +164,7 @@ Aリーグ発足以前より存在しているクラブは、[アデレード・
 <td></td>
 <td><p>オークランド広域自治体</p></td>
 <td><p>ニュージーランド・ナイツFC</p></td>
-<td><p><a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>（<a href="https://ja.wikipedia.org/wiki/ノース・ハーバー・スタジアム" title="wikilink">ノース・ハーバー・スタジアム</a>）</p></td>
+<td><p><a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a>（<a href="../Page/ノース・ハーバー・スタジアム.md" title="wikilink">ノース・ハーバー・スタジアム</a>）</p></td>
 <td><p>2005-07</p></td>
 </tr>
 </tbody>

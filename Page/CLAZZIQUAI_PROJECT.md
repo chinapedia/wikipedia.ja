@@ -34,7 +34,7 @@ DJ Clazziquaiが自身のWebサイトに「Sweety」の[MP3](../Page/MP3.md "wik
 
 [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")には2集のリミックスアルバム『PINCH YOUR SOUL』を発売。新曲としてエピック・ハイのMCである[タブロ](https://ja.wikipedia.org/wiki/タブロ "wikilink")と競演した「Love Mode」、「Chi Chi」、韓国伝統音楽祭参加記念の「Bye」が収録された。
 
-[8月](../Page/8月.md "wikilink")にミニアルバム 『Love Mode』を日本で発売。タイトルトラックである「Love Mode」で[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（m-flo）および[PE'Z](../Page/PE'Z.md "wikilink")と共演。
+[8月](../Page/8月.md "wikilink")にミニアルバム 『Love Mode』を日本で発売。タイトルトラックである「Love Mode」で[VERBAL](../Page/VERBAL.md "wikilink")（m-flo）および[PE'Z](../Page/PE'Z.md "wikilink")と共演。
 
 [2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")、3集『LOVE CHILD of the CENTURY』発売。
 

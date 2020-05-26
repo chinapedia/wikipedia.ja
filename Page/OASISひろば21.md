@@ -64,7 +64,7 @@
 ## アクセス
 
   - 鉄道・徒歩
-      - 大分市街地の中心部からは徒歩で10分～15分程度の若干離れた場所にあるが、[大分駅](https://ja.wikipedia.org/wiki/大分駅 "wikilink")から地下道と[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")商店街（[セントポルタ中央町](https://ja.wikipedia.org/wiki/セントポルタ中央町 "wikilink")及び[ガレリア竹町](https://ja.wikipedia.org/wiki/ガレリア竹町 "wikilink")）を通れば、雨天でもほぼ濡れずに通行が可能である。
+      - 大分市街地の中心部からは徒歩で10分～15分程度の若干離れた場所にあるが、[大分駅](https://ja.wikipedia.org/wiki/大分駅 "wikilink")から地下道と[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")商店街（[セントポルタ中央町](../Page/セントポルタ中央町.md "wikilink")及び[ガレリア竹町](../Page/ガレリア竹町.md "wikilink")）を通れば、雨天でもほぼ濡れずに通行が可能である。
       - [国道197号](../Page/国道197号.md "wikilink")を横切っている連絡通路の反対側にある「ソレイユ」はOASISひろば21と同時期に完成し連絡通路からそのまま出入りできるが、この建物の管理者は[全国労働者共済生活協同組合連合会](../Page/全国労働者共済生活協同組合連合会.md "wikilink")であり、OASISひろば21との直接的な関係はない。
   - バス
       - NHK大分放送局正面玄関前に[大分交通](../Page/大分交通.md "wikilink")バスの「オアシスひろば前」停留所が、また、ガレリア竹町側に[大分バス](../Page/大分バス.md "wikilink")の「オアシス広場前（東側）」停留所がある。

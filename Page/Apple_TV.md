@@ -208,7 +208,7 @@ IRレシーバ<br />
 <tr class="odd">
 <td><p>ネットワーク</p></td>
 <td><p><a href="../Page/IEEE_802.11.md" title="wikilink">IEEE 802.11b/g/n</a> WiFi<br />
-<a href="https://ja.wikipedia.org/wiki/10メガビット・イーサネット" title="wikilink">10</a>/<a href="https://ja.wikipedia.org/wiki/100メガビット・イーサネット" title="wikilink">100BASE-T</a> <a href="../Page/イーサネット.md" title="wikilink">Ethernet</a></p></td>
+<a href="../Page/10メガビット・イーサネット.md" title="wikilink">10</a>/<a href="../Page/100メガビット・イーサネット.md" title="wikilink">100BASE-T</a> <a href="../Page/イーサネット.md" title="wikilink">Ethernet</a></p></td>
 <td><p>IEEE 802.11a/b/g/n Wi-Fi<br />
 10/100BASE-T Ethernet</p></td>
 <td><p><a href="../Page/MIMO.md" title="wikilink">MIMO</a>対応 IEEE 802.11ac Wi-Fi<br />

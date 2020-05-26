@@ -154,7 +154,7 @@ NECインフロンティアの汎用型リーダライタ（Suica・iD・Edy・Q
 
   - [4月15日](../Page/4月15日.md "wikilink") - [ポケモンセンター](../Page/ポケモンセンター.md "wikilink")トウキョー・ヨコハマで開始。
   - [5月10日](../Page/5月10日.md "wikilink") - [かえつ有明中学校・高等学校](https://ja.wikipedia.org/wiki/かえつ有明中学校・高等学校 "wikilink")校内売店で開始。
-  - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - [成田国際空港](../Page/成田国際空港.md "wikilink")内の飲食店・売店で開始（初の空港内店舗への本格的導入）。
+  - [6月2日](../Page/6月2日.md "wikilink") - [成田国際空港](../Page/成田国際空港.md "wikilink")内の飲食店・売店で開始（初の空港内店舗への本格的導入）。
   - [7月10日](../Page/7月10日.md "wikilink") - [デイリーヤマザキ](../Page/デイリーヤマザキ.md "wikilink")の新潟県内3店舗で開始。
   - [9月](../Page/9月.md "wikilink") - ビックカメラ天神1・2号館で開始（JR東日本エリア外としては初の店舗）。
   - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")東京23区・千葉（一部）エリアを皮切りにチャージを含めた本格展開開始。
@@ -210,7 +210,7 @@ NECインフロンティアの汎用型リーダライタ（Suica・iD・Edy・Q
 
   - [3月18日](../Page/3月18日.md "wikilink") - 東京・神奈川の一部を除くJR東日本エリア内の[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")全店で導入、同時にそれ以外の全店にSuicaと相互利用可能な各地のICカードを導入するため、Suicaはセブン-イレブン国内全店での利用が可能になった\[29\]（名古屋地区のmanaca導入店舗を除く）。
   - [5月23日](../Page/5月23日.md "wikilink") - [ヤマト運輸](../Page/ヤマト運輸.md "wikilink")直営店およびセールスドライバーのモバイル端末にて利用開始\[30\]。
-  - [11月14日](../Page/11月14日.md "wikilink") - [JR東日本ホテルズ](https://ja.wikipedia.org/wiki/JR東日本ホテルズ "wikilink")の新会員組織「EASTYLE MEMBERS」で「[ホテルメッツ](https://ja.wikipedia.org/wiki/ホテルメッツ "wikilink")」に加盟している各ホテルにおいてSuicaが利用可能になった\[31\]。以降、順次使用できる店舗を増やす予定。
+  - [11月14日](../Page/11月14日.md "wikilink") - [JR東日本ホテルズ](../Page/JR東日本ホテルズ.md "wikilink")の新会員組織「EASTYLE MEMBERS」で「[ホテルメッツ](https://ja.wikipedia.org/wiki/ホテルメッツ "wikilink")」に加盟している各ホテルにおいてSuicaが利用可能になった\[31\]。以降、順次使用できる店舗を増やす予定。
 
 ### 2012年
 

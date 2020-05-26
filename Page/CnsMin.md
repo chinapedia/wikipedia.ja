@@ -3,7 +3,7 @@
 
 **CnsMin**（シーエヌエスミン）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")の3721 Network Software社(旧Inter China Network Software社、[Yahoo\!](../Page/Yahoo!.md "wikilink")の子会社)が製作した[プログラムの一つ](../Page/プログラム_\(コンピュータ\).md "wikilink")。
 
-その動作・性質から、[アドウェア](../Page/アドウェア.md "wikilink")、あるいは[マルウェア](../Page/マルウェア.md "wikilink")（[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")、[ブラウザハイジャッカー](https://ja.wikipedia.org/wiki/ブラウザハイジャッカー "wikilink")）の一種であると指摘される。日本語版は、JWord株式会社が配布する[JWord](https://ja.wikipedia.org/wiki/JWord "wikilink")や、壁紙.comが提供する壁Naviに含まれる。
+その動作・性質から、[アドウェア](../Page/アドウェア.md "wikilink")、あるいは[マルウェア](../Page/マルウェア.md "wikilink")（[スパイウェア](../Page/スパイウェア.md "wikilink")、[ブラウザハイジャッカー](https://ja.wikipedia.org/wiki/ブラウザハイジャッカー "wikilink")）の一種であると指摘される。日本語版は、JWord株式会社が配布する[JWord](https://ja.wikipedia.org/wiki/JWord "wikilink")や、壁紙.comが提供する壁Naviに含まれる。
 
 2006年11月および2007年1月・2月・5月にはウェブルート・ソフトウェアの調査において、2008年下半期には[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[悪意のあるソフトウェアの削除ツール](https://ja.wikipedia.org/wiki/悪意のあるソフトウェアの削除ツール "wikilink")（MSRT）の調査において、最も流行したアドウェア、スパイウェアとして報告された\[1\]\[2\]\[3\]\[4\]\[5\]。
 

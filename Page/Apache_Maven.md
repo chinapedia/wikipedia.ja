@@ -1,7 +1,7 @@
 > この記事は[Apache Maven](https://ja.wikipedia.org/wiki/Apache_Maven)から翻訳されています。
 
 
-**Apache Maven**（アパッチ メイヴン／メイヴェン）は、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用プロジェクト管理ツールである。[Apache Antに代わるものとして作られた](../Page/Apache_Ant.md "wikilink")。[Apacheライセンスにて配布されている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")である。
+**Apache Maven**（アパッチ メイヴン／メイヴェン）は、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")用プロジェクト管理ツールである。[Apache Antに代わるものとして作られた](../Page/Apache_Ant.md "wikilink")。[Apacheライセンスにて配布されている](../Page/Apache_License.md "wikilink")[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")である。
 
 ## 特徴
 

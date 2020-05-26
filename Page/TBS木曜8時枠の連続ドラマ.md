@@ -38,7 +38,7 @@
   - [捜査線](https://ja.wikipedia.org/wiki/捜査線 "wikilink")（1961年10月5日 - 12月28日）▲
   - [裸の街](https://ja.wikipedia.org/wiki/裸の街_\(アメリカ合衆国のテレビドラマ\) "wikilink")（1962年1月4日 - 9月）▲ - 枠交換で[水曜20:00に移動](https://ja.wikipedia.org/wiki/TBS水曜8時枠の連続ドラマ "wikilink")。
   - [七人の刑事](../Page/七人の刑事.md "wikilink")（第1期） - 水曜20:00より移動。
-  - [ただいま11人](https://ja.wikipedia.org/wiki/ただいま11人 "wikilink")
+  - [ただいま11人](../Page/ただいま11人.md "wikilink")
   - [青春の条件](https://ja.wikipedia.org/wiki/青春の条件 "wikilink")
   - [パパ長生きしてねッ\!](https://ja.wikipedia.org/wiki/パパ長生きしてねッ! "wikilink")
   - [肝っ玉かあさん](../Page/肝っ玉かあさん.md "wikilink")

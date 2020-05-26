@@ -1,7 +1,7 @@
 > この記事は[ReStructuredText](https://ja.wikipedia.org/wiki/ReStructuredText)から翻訳されています。
 
 
-**reStructuredText** は、[軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")のひとつ。[ソースコード](../Page/ソースコード.md "wikilink")の状態で高い[可読性](https://ja.wikipedia.org/wiki/可読性 "wikilink")を持つように設計されている。reStructuredText [パーサ](https://ja.wikipedia.org/wiki/パーサ "wikilink")は、テキスト処理フレームワークである [Docutils](https://ja.wikipedia.org/wiki/Docutils "wikilink") のコンポーネントのひとつであり、[Python](../Page/Python.md "wikilink") で実装されている。
+**reStructuredText** は、[軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")のひとつ。[ソースコード](../Page/ソースコード.md "wikilink")の状態で高い[可読性](../Page/可読性.md "wikilink")を持つように設計されている。reStructuredText [パーサ](https://ja.wikipedia.org/wiki/パーサ "wikilink")は、テキスト処理フレームワークである [Docutils](https://ja.wikipedia.org/wiki/Docutils "wikilink") のコンポーネントのひとつであり、[Python](../Page/Python.md "wikilink") で実装されている。
 
 reStructuredText は、RST、reST、ReST と略されることもある。
 

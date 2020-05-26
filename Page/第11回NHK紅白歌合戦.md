@@ -47,7 +47,7 @@
 <td><p>ロマンティカ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/藤本二三代" title="wikilink">藤本二三代</a>(3)</p></td>
+<td><p><a href="../Page/藤本二三代.md" title="wikilink">藤本二三代</a>(3)</p></td>
 <td><p>東京の空の下で</p></td>
 </tr>
 <tr class="odd">
@@ -99,7 +99,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジーラ・ジーラ" title="wikilink">ジーラ・ジーラ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大津美子" title="wikilink">大津美子</a>(5)</p></td>
+<td><p><a href="../Page/大津美子.md" title="wikilink">大津美子</a>(5)</p></td>
 <td><p>東京ドライブ</p></td>
 </tr>
 <tr class="even">
@@ -179,7 +179,7 @@
   - [鰐淵晴子](../Page/鰐淵晴子.md "wikilink")
   - [伴淳三郎](../Page/伴淳三郎.md "wikilink")
   - [桜京美](../Page/桜京美.md "wikilink")
-  - [武智豊子](https://ja.wikipedia.org/wiki/武智豊子 "wikilink")
+  - [武智豊子](../Page/武智豊子.md "wikilink")
 
 ## 当日のステージ・エピソード
 

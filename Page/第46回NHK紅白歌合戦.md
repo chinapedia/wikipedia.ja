@@ -123,7 +123,7 @@
   - [笑福亭仁鶴](../Page/笑福亭仁鶴_\(3代目\).md "wikilink")（『[バラエティー生活笑百科](../Page/バラエティー生活笑百科.md "wikilink")』相談室長役）：中村美律子の曲紹介。
   - [オール阪神・巨人](https://ja.wikipedia.org/wiki/オール阪神・巨人 "wikilink")（同じく『バラエティー生活笑百科』相談者役）：同上。
   - [春風亭小朝](https://ja.wikipedia.org/wiki/春風亭小朝 "wikilink")（『[ふるさと愉快亭 小朝が参りました](https://ja.wikipedia.org/wiki/ふるさと愉快亭_小朝が参りました "wikilink")』司会者）：加門亮の曲紹介。
-  - [桂三木助](../Page/桂三木助_\(4代目\).md "wikilink")、[林家たい平](../Page/林家たい平.md "wikilink")、[桂あやめ](../Page/桂あやめ_\(3代目\).md "wikilink")、[柳家花緑](https://ja.wikipedia.org/wiki/柳家花緑 "wikilink")、[三笑亭夢之助](https://ja.wikipedia.org/wiki/三笑亭夢之助 "wikilink")（同じく『ふるさと愉快亭 小朝が参りました』出演者）：同上。
+  - [桂三木助](../Page/桂三木助_\(4代目\).md "wikilink")、[林家たい平](../Page/林家たい平.md "wikilink")、[桂あやめ](../Page/桂あやめ_\(3代目\).md "wikilink")、[柳家花緑](https://ja.wikipedia.org/wiki/柳家花緑 "wikilink")、[三笑亭夢之助](../Page/三笑亭夢之助.md "wikilink")（同じく『ふるさと愉快亭 小朝が参りました』出演者）：同上。
   - [コロッケ](../Page/コロッケ_\(タレント\).md "wikilink")：美川憲一の曲紹介。
 
 ### 演奏ゲスト

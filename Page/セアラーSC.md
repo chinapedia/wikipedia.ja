@@ -1,7 +1,7 @@
 > この記事は[セアラーSC](https://ja.wikipedia.org/wiki/セアラーSC)から翻訳されています。
 
 
-**セアラーSC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セアラー州](../Page/セアラー州.md "wikilink")の州都[フォルタレザ](https://ja.wikipedia.org/wiki/フォルタレザ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1914年](../Page/1914年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")設立。
+**セアラーSC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セアラー州](../Page/セアラー州.md "wikilink")の州都[フォルタレザ](https://ja.wikipedia.org/wiki/フォルタレザ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[1914年](../Page/1914年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")設立。
 
 ## 歴史
 

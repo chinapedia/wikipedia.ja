@@ -136,7 +136,7 @@ T・ZONEホールディングスは、自らは事業を行わない純粋持株
     2007年（平成19年）[12月26日](../Page/12月26日.md "wikilink")に保有株式全て (99.51%) をSFCGに譲渡、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")にSFCGに吸収合併された。したがって、TZCS傘下にあった子会社は以下のようになった。
       - [エステー](../Page/エステー.md "wikilink")株式会社（[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")） - 旧T-ZONEキャピタル第2位株主だったが TZCSに商号変更時に株式を売却、第16位株主となり大株主ではなくなった。
       - [理研ビタミン](../Page/理研ビタミン.md "wikilink")株式会社 - TZCSのSFCGとの合併により筆頭株主がSFCGに変更、その後、2008年（平成20年）[6月20日](../Page/6月20日.md "wikilink")に全株式を[キッコーマン](../Page/キッコーマン.md "wikilink")へ譲渡。
-      - [日本管財](https://ja.wikipedia.org/wiki/日本管財 "wikilink")株式会社 - TZCSのSFCGとの合併により筆頭株主がSFCGに変更、その後、所有株式の一部売却により筆頭株主でなくなる。
+      - [日本管財](../Page/日本管財.md "wikilink")株式会社 - TZCSのSFCGとの合併により筆頭株主がSFCGに変更、その後、所有株式の一部売却により筆頭株主でなくなる。
       - [佐藤食品工業株式会社](../Page/佐藤食品工業_\(愛知県\).md "wikilink")（[小牧市](../Page/小牧市.md "wikilink")） - 2007年（平成19年）[12月5日](../Page/12月5日.md "wikilink")にTZCSからT・ZONEホールディングスに、2008年（平成20年）[12月26日](../Page/12月26日.md "wikilink")にT・ZONEホールディングスからTZCIに株式譲渡（その後、2009年2月に日本振興銀行による担保権実行によりSFCG傘下ではなくなる）。
       - [ビオフェルミン製薬](../Page/ビオフェルミン製薬.md "wikilink")株式会社 - 2008年（平成20年）[2月18日](../Page/2月18日.md "wikilink")より[大正製薬](../Page/大正製薬.md "wikilink")による株式公開買付が行われ、TZCSもこれに賛同し、決済日の同年[3月19日](../Page/3月19日.md "wikilink")付で保有する全株式を譲渡した。
 

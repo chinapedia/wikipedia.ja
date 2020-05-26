@@ -128,7 +128,7 @@
   - [SPICY CHOCOLATE](https://ja.wikipedia.org/wiki/SPICY_CHOCOLATE "wikilink")「東京RAGGA BLAZE」（2007年7月2日）
       - (DISC-1) 5.UNCHAINED TRIBE / [LISA](../Page/LISA_\(歌手\).md "wikilink") & Miss Monday
   - SPICY CHOCOLATE「東京RAGGA BLAZE 2」（2008年7月9日）
-      - (DISC-1) 9.DANCEHALL JUNGLE / [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") from [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") & Miss Monday
+      - (DISC-1) 9.DANCEHALL JUNGLE / [VERBAL](../Page/VERBAL.md "wikilink") from [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") & Miss Monday
   - オムニバス「COTATSU REGGAE」（2008年12月3日）
       - 2\.[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")
   - オムニバス「SPARKS」（2009年4月29日）

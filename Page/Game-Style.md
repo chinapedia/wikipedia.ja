@@ -31,7 +31,7 @@
 [大野まりな](../Page/大野まりな.md "wikilink") |- | 第 8回 |- | 第 9回 ||rowspan="2"|[Innocent Grey](../Page/Innocent_Grey.md "wikilink")
 [如月美琴](https://ja.wikipedia.org/wiki/如月美琴 "wikilink")（第 9回）
 [如月葵](../Page/如月葵.md "wikilink")（第10回） |- | 第10回 |- | 第11回 ||rowspan="2"|[すたじおみりす](../Page/すたじおみりす.md "wikilink")
-[茶谷やすら](https://ja.wikipedia.org/wiki/茶谷やすら "wikilink") |- | 第12回 |- | 第13回 ||rowspan="2"|[PULLTOP](../Page/PULLTOP.md "wikilink") |- | 第14回 |- | 第15回 ||rowspan="2"|[テックアーツ](../Page/テックアーツ.md "wikilink") |- | 第16回 |- |}
+[茶谷やすら](../Page/茶谷やすら.md "wikilink") |- | 第12回 |- | 第13回 ||rowspan="2"|[PULLTOP](../Page/PULLTOP.md "wikilink") |- | 第14回 |- | 第15回 ||rowspan="2"|[テックアーツ](../Page/テックアーツ.md "wikilink") |- | 第16回 |- |}
 
   -
 

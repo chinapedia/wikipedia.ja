@@ -327,7 +327,7 @@
 （回想シーン）</p></td>
 <td><p><a href="../Page/ジョン・カザール.md" title="wikilink">ジョン・カザール</a><br />
 （クレジットなし）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中江真司" title="wikilink">中江真司</a></p></td>
+<td><p><a href="../Page/中江真司.md" title="wikilink">中江真司</a></p></td>
 <td></td>
 </tr>
 </tbody>

@@ -286,7 +286,7 @@
 ### オープニングテーマ
 
   - 「[Jolly Jolly](https://ja.wikipedia.org/wiki/Jolly_Jolly/アイロニー "wikilink")」（第1話 - 第21話）
-    歌 - [JiLL-Decoy association](../Page/JiLL-Decoy_association.md "wikilink") / 作詞 - chihiRo / 作曲 - [Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink") / 編曲 - Jin Nakamura & JiLL-Decoy association
+    歌 - [JiLL-Decoy association](../Page/JiLL-Decoy_association.md "wikilink") / 作詞 - chihiRo / 作曲 - [Jin Nakamura](../Page/Jin_Nakamura.md "wikilink") / 編曲 - Jin Nakamura & JiLL-Decoy association
 
 ### エンディングテーマ
 

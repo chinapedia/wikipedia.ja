@@ -29,7 +29,7 @@
 
 ## 番組の歴史
 
-第1回のゲストは、[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")と[鳳蘭](../Page/鳳蘭.md "wikilink")で、たかじんが鳳蘭と宝塚で共演した話で盛り上がり落ち着いた雰囲気の放送だった。また、この2人はたかじん本人がブッキングしたという\[1\]。
+第1回のゲストは、[星野仙一](../Page/星野仙一.md "wikilink")と[鳳蘭](../Page/鳳蘭.md "wikilink")で、たかじんが鳳蘭と宝塚で共演した話で盛り上がり落ち着いた雰囲気の放送だった。また、この2人はたかじん本人がブッキングしたという\[1\]。
 
 [1994年](../Page/1994年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")放送で番組最高視聴率25.1%（関西地区）を記録\[2\]。
 
@@ -131,7 +131,7 @@
 当番組の放送終了から10年3ヶ月後の2007年[10月26日](../Page/10月26日.md "wikilink")に『**たかじんnoばぁ〜 DVD BOX THEガオー\!LEGEND**』と題した3枚組DVD-BOXとして発売された。（発売元:ytv、販売元：東宝）
 
   - 1992年10月10日放送分
-    ゲスト：[星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")、[鳳蘭](../Page/鳳蘭.md "wikilink")（放送第1回分）
+    ゲスト：[星野仙一](../Page/星野仙一.md "wikilink")、[鳳蘭](../Page/鳳蘭.md "wikilink")（放送第1回分）
   - 1993年2月6日放送分
     ゲスト：[桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")、遥洋子（収録前まで不仲だったたかじんとざこばが、収録中に和解）
   - 1993年4月3日放送分
@@ -187,7 +187,7 @@
 
 <!-- end list -->
 
-  - [星野仙一](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")
+  - [星野仙一](../Page/星野仙一.md "wikilink")
   - [坂田利夫](../Page/坂田利夫.md "wikilink")
   - [かとうかず子](../Page/かとうかず子.md "wikilink")
   - [夏川純](https://ja.wikipedia.org/wiki/夏川純 "wikilink")

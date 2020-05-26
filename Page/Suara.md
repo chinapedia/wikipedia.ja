@@ -97,7 +97,7 @@ Suaraの参加しているコラボレーションシングルとスプリット
 <td><p>2012年3月7日</p></td>
 <td><p><strong>OVA『ToHeart2ダンジョントラベラーズ』主題歌シングル</strong></p></td>
 <td><p>1. <strong>虹色の未来</strong> 《Suara》<br />
-2. ただひとつの星 《<a href="https://ja.wikipedia.org/wiki/上原れな" title="wikilink">上原れな</a>》<br />
+2. ただひとつの星 《<a href="../Page/上原れな.md" title="wikilink">上原れな</a>》<br />
 3. この世界に 《<a href="https://ja.wikipedia.org/wiki/津田朱里" title="wikilink">津田朱里</a>》</p></td>
 <td><p>FCCM-0344（初回盤）<br />
 FCCM-0345（通常盤）</p></td>

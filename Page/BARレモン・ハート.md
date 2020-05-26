@@ -157,7 +157,7 @@
   - 監修 - 古谷陸\[61\]（ファミリー企画）
   - 企画協力 - [双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")（杉山敦夫、平田昌幸）
   - プロデュース - 田平秀雄（BSフジ）、湯谷幸司
-  - 製作 - BSフジ、[NEXTEP](https://ja.wikipedia.org/wiki/ネクステップ "wikilink")
+  - 製作 - BSフジ、[NEXTEP](../Page/ネクステップ.md "wikilink")
 
 ### 放送日程
 

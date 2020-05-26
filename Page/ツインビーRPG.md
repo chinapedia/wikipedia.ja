@@ -117,7 +117,7 @@
 
   - オープニング主題歌「[きっと、ずっと](https://ja.wikipedia.org/wiki/colorful_\(國府田マリ子のアルバム\) "wikilink")」
     歌 - マドカ（國府田マリ子） / 作詞 - PONとツインビーRPG作詞委員会 / 作曲 - [田廻弘志](https://ja.wikipedia.org/wiki/田廻弘志 "wikilink")、[ながつきまろん](https://ja.wikipedia.org/wiki/ながつきまろん "wikilink") / 編曲 - [亀田誠治](../Page/亀田誠治.md "wikilink")
-  - エンディング主題歌「[あいことばはBe\!\!](https://ja.wikipedia.org/wiki/B_Side_Collection "wikilink")」
+  - エンディング主題歌「[あいことばはBe\!\!](../Page/B_Side_Collection.md "wikilink")」
     歌・作詞 - 國府田マリ子 / 作曲 - [松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink") / 編曲 - 亀田誠治
 
 これら2曲は、当該ゲームのオリジナルサウンドトラック([コナミレーベル](../Page/コナミレーベル.md "wikilink")より1998年4月3日に発売)には収録されておらず、CD『[ツインビーPARADISE 5th Anniversary](../Page/ツインビーPARADISE.md "wikilink")』に収録されている。

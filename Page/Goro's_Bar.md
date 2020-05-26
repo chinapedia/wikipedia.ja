@@ -57,7 +57,7 @@
         特別企画としてごく稀にロケを行うこともある。
         2006年1月12日の「新春スペシャル番外編・大茶番劇スペシャル\!」では、フロアレディ・[しずちゃんを探す旅として](../Page/山崎静代.md "wikilink")、[海ほたるパーキングエリア](../Page/海ほたるパーキングエリア.md "wikilink")、[マザー牧場](../Page/マザー牧場.md "wikilink")、舘山漁港でのロケを行った。ただし、だいたひかるが待機していた海ほたるは間違えて通過してしまったため結局行かなかった。この際、一行はオーナーが[次元大介](../Page/次元大介.md "wikilink")、友近ママが[峰不二子](../Page/峰不二子.md "wikilink")、河本が[ルパン三世](../Page/ルパン三世_\(架空の人物\).md "wikilink")、井上が[石川五右衛門](../Page/石川五右衛門.md "wikilink")と『[ルパン三世](../Page/ルパン三世.md "wikilink")』のコスプレをし、茶番劇を体現した。
         2006年10月、3週にわたって放送されたスペシャルでは、オーナーゴローが[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の活動で大阪へ来たことに便乗して、大阪珍道中が繰り広げられた。このスペシャルの最後である第3夜が番組100回目で、そのエンディングでは、[松田聖子](../Page/松田聖子.md "wikilink")の物真似をする[メグマリコ](https://ja.wikipedia.org/wiki/メグマリコ "wikilink")と[橋幸夫](../Page/橋幸夫.md "wikilink")の物真似を得意とする[天津の木村卓寛という](https://ja.wikipedia.org/wiki/天津_\(お笑い\) "wikilink")、全国ネットでは当時なかなかお目にかかれないコンビが登場した（[ストリーク](../Page/ストリーク.md "wikilink")の[吉本峰之](https://ja.wikipedia.org/wiki/吉本峰之 "wikilink")も登場したが、唯一のギャグが受けなかった）。
-        2007年9月には、次長課長とディラン&キャサリン（[なだぎ武](../Page/なだぎ武.md "wikilink")&友近）が、オーナー・ゴローや従業員に内緒で1泊4日のアメリカ横断ロケを敢行した模様を、約1カ月にわたり放送。ロサンゼルスで筋肉留学中のキャプテン・ボンバー（[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")）や本物のディラン・マッケイ（[ルーク・ペリー](https://ja.wikipedia.org/wiki/ルーク・ペリー "wikilink")）と対面した。なお、オーナー・ゴローは、フジテレビの[27時間テレビに出演していたため](../Page/FNS27時間テレビ.md "wikilink")、この「過酷な低予算ロケ」には参加できなかったらしい。
+        2007年9月には、次長課長とディラン&キャサリン（[なだぎ武](../Page/なだぎ武.md "wikilink")&友近）が、オーナー・ゴローや従業員に内緒で1泊4日のアメリカ横断ロケを敢行した模様を、約1カ月にわたり放送。ロサンゼルスで筋肉留学中のキャプテン・ボンバー（[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")）や本物のディラン・マッケイ（[ルーク・ペリー](../Page/ルーク・ペリー.md "wikilink")）と対面した。なお、オーナー・ゴローは、フジテレビの[27時間テレビに出演していたため](../Page/FNS27時間テレビ.md "wikilink")、この「過酷な低予算ロケ」には参加できなかったらしい。
 
 ## 放送時間の変遷
 
@@ -258,7 +258,7 @@
   - [5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")（未公開映像蔵だし総集編）
   - [5月11日](../Page/5月11日.md "wikilink")・[5月18日](../Page/5月18日.md "wikilink")：[大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")、インリン・オブ・ジョイトイ、さとう珠緒
   - [5月25日](../Page/5月25日.md "wikilink")：[磯野貴理子](../Page/磯野貴理子.md "wikilink")
-  - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")：[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")
+  - [6月2日](../Page/6月2日.md "wikilink")：[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")
   - [6月8日](../Page/6月8日.md "wikilink")・[6月15日](../Page/6月15日.md "wikilink")：[石黒彩](https://ja.wikipedia.org/wiki/石黒彩 "wikilink")、[三船美佳](https://ja.wikipedia.org/wiki/三船美佳 "wikilink")
   - [6月22日](../Page/6月22日.md "wikilink")（未公開映像蔵だし総集編）
   - [6月29日](../Page/6月29日.md "wikilink")・[7月6日](../Page/7月6日.md "wikilink")：[井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")、[くまきりあさ美](https://ja.wikipedia.org/wiki/くまきりあさ美 "wikilink")、[浜口順子](../Page/浜口順子.md "wikilink")
@@ -305,7 +305,7 @@
   - [8月2日](../Page/8月2日.md "wikilink")・[8月9日](../Page/8月9日.md "wikilink")：[水川あさみ](https://ja.wikipedia.org/wiki/水川あさみ "wikilink")、[多部未華子](https://ja.wikipedia.org/wiki/多部未華子 "wikilink")
   - [8月16日](../Page/8月16日.md "wikilink")：[山本モナ](../Page/山本モナ.md "wikilink")
   - [8月23日](../Page/8月23日.md "wikilink")（未公開映像蔵だし総集編）
-  - [8月30日](../Page/8月30日.md "wikilink")・[9月6日](../Page/9月6日.md "wikilink")・[9月13日](../Page/9月13日.md "wikilink")・[9月20日](../Page/9月20日.md "wikilink")（キャサリン&次長課長海外編）：なだぎ武（ディラン）、[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")（キャプテン・ボンバー）、[ルーク・ペリー](https://ja.wikipedia.org/wiki/ルーク・ペリー "wikilink")（[ビバリーヒルズ高校白書](../Page/ビバリーヒルズ高校白書.md "wikilink")のディラン・マッケイ役）
+  - [8月30日](../Page/8月30日.md "wikilink")・[9月6日](../Page/9月6日.md "wikilink")・[9月13日](../Page/9月13日.md "wikilink")・[9月20日](../Page/9月20日.md "wikilink")（キャサリン&次長課長海外編）：なだぎ武（ディラン）、[なかやまきんに君](../Page/なかやまきんに君.md "wikilink")（キャプテン・ボンバー）、[ルーク・ペリー](../Page/ルーク・ペリー.md "wikilink")（[ビバリーヒルズ高校白書](../Page/ビバリーヒルズ高校白書.md "wikilink")のディラン・マッケイ役）
   - [9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")（3周年記念未公開映像蔵だし総集編）
   - [10月11日](../Page/10月11日.md "wikilink")：[石川さゆり](../Page/石川さゆり.md "wikilink")
   - [10月18日](../Page/10月18日.md "wikilink")：[桜井裕美](../Page/桜井裕美.md "wikilink")、[土岐田麗子](../Page/土岐田麗子.md "wikilink")、[LIZA](../Page/LIZA.md "wikilink")

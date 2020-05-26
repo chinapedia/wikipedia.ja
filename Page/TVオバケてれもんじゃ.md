@@ -87,7 +87,7 @@
   - 制作担当：小貫綮子、鈴木勝政
   - 資料担当：青柳誠（石森プロ）
   - プロデューサー補：北崎広実
-  - 監督：加藤盟、[田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")、佐伯孚治
+  - 監督：加藤盟、[田中秀夫](../Page/田中秀夫.md "wikilink")、佐伯孚治
   - 制作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[東映](../Page/東映.md "wikilink")
 
 ## 主題歌

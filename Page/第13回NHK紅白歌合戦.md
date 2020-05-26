@@ -19,7 +19,7 @@
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 歌手                                                                 | 曲                                                                          |
 | [仲宗根美樹](https://ja.wikipedia.org/wiki/仲宗根美樹 "wikilink")(初)         | 川は流れる                                                                      |
-| [大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")(6)           | 忘れないで                                                                      |
+| [大津美子](../Page/大津美子.md "wikilink")(6)                              | 忘れないで                                                                      |
 | [弘田三枝子](https://ja.wikipedia.org/wiki/弘田三枝子 "wikilink")(初)         | ヴァケーション                                                                    |
 | [中原美紗緒](../Page/中原美紗緒.md "wikilink")(7)                            | フル・フル                                                                      |
 | [ザ・ピーナッツ](../Page/ザ・ピーナッツ.md "wikilink")(4)                        | [ふりむかないで](../Page/ふりむかないで_\(ザ・ピーナッツの曲\).md "wikilink")                     |
@@ -49,7 +49,7 @@
 
 前回の出場歌手の中より今回不選出となった歌手は以下。
 
-  - 紅組:[淡谷のり子](../Page/淡谷のり子.md "wikilink")・[石井好子](../Page/石井好子.md "wikilink")・[神楽坂浮子](../Page/神楽坂浮子.md "wikilink")・[寿美花代](../Page/寿美花代.md "wikilink")・[花村菊江](../Page/花村菊江.md "wikilink")・[藤沢嵐子](../Page/藤沢嵐子.md "wikilink")・[藤本二三代](https://ja.wikipedia.org/wiki/藤本二三代 "wikilink")・[水谷良重](https://ja.wikipedia.org/wiki/水谷良重 "wikilink")・[雪村いづみ](../Page/雪村いづみ.md "wikilink")
+  - 紅組:[淡谷のり子](../Page/淡谷のり子.md "wikilink")・[石井好子](../Page/石井好子.md "wikilink")・[神楽坂浮子](../Page/神楽坂浮子.md "wikilink")・[寿美花代](../Page/寿美花代.md "wikilink")・[花村菊江](../Page/花村菊江.md "wikilink")・[藤沢嵐子](../Page/藤沢嵐子.md "wikilink")・[藤本二三代](../Page/藤本二三代.md "wikilink")・[水谷良重](https://ja.wikipedia.org/wiki/水谷良重 "wikilink")・[雪村いづみ](../Page/雪村いづみ.md "wikilink")
   - 白組:[伊藤久男](../Page/伊藤久男.md "wikilink")・[井上ひろし](../Page/井上ひろし.md "wikilink")・[神戸一郎](../Page/神戸一郎.md "wikilink")・[高英男](../Page/高英男.md "wikilink")・[林伊佐緒](../Page/林伊佐緒.md "wikilink")・[フランキー堺](../Page/フランキー堺.md "wikilink")・[水原弘](https://ja.wikipedia.org/wiki/水原弘 "wikilink")
 
 ### 演奏

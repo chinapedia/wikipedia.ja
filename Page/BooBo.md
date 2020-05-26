@@ -7,7 +7,7 @@
 
 [日光江戸村](../Page/日光江戸村.md "wikilink")の[ニャンまげ](../Page/ニャンまげ.md "wikilink")や、[KDDI](../Page/KDDI.md "wikilink")（[auブランド](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）の[LISMO](../Page/LISMO.md "wikilink")の[グラフィックデザイン](../Page/グラフィックデザイン.md "wikilink")を手がけた[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")[アートディレクター](../Page/アートディレクター.md "wikilink")の佐野研二郎が黒豚をモチーフにしてデザインした。TBSの「B」をキャラクターの顔にして「**TブーS\!**」というサインでお茶の間へアピールしていた。
 
-登場しばらくはテレビの中のキャラクターロゴであった。のちに[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")や[文具](https://ja.wikipedia.org/wiki/文具 "wikilink")などのグッズなどが作られ、[TBSストアなどのグッズショップで販売されている](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")。また、全国各地で[コラボレーション](../Page/コラボレーション.md "wikilink")した[根付](../Page/根付.md "wikilink")などが[お土産店で販売されている](../Page/土産.md "wikilink")。
+登場しばらくはテレビの中のキャラクターロゴであった。のちに[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")や[文具](https://ja.wikipedia.org/wiki/文具 "wikilink")などのグッズなどが作られ、[TBSストアなどのグッズショップで販売されている](../Page/赤坂サカス.md "wikilink")。また、全国各地で[コラボレーション](../Page/コラボレーション.md "wikilink")した[根付](../Page/根付.md "wikilink")などが[お土産店で販売されている](../Page/土産.md "wikilink")。
 
 TBSのキャラクターである事に加えて、TBSグループ各社並びに[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")/[TBSネットワークの統一](../Page/TBS系列.md "wikilink")[シンボルマーク](../Page/シンボルマーク.md "wikilink")として「[ジ〜ン](../Page/ジ〜ン.md "wikilink")」がBooBoよりも先に制定されていた事情もあり\[3\]、TBS以外の放送局への登場はあまりないが、『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』『[全日本実業団女子駅伝](https://ja.wikipedia.org/wiki/全日本実業団女子駅伝 "wikilink")』など、積極的に用いている番組もある。
 

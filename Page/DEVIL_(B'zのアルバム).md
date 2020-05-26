@@ -62,7 +62,7 @@
 **DEVIL**
 
   - [a BEAUTIFUL REEL. B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜](https://ja.wikipedia.org/wiki/a_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜 "wikilink")
-  - [B'z LIVE in なんば](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば "wikilink")
+  - [B'z LIVE in なんば](../Page/B'z_LIVE_in_なんば.md "wikilink")
   - [B'z LIVE in なんば 2006 & B'z SHOWCASE 2007 -19- at Zepp Tokyo](https://ja.wikipedia.org/wiki/B'z_LIVE_in_なんば_2006_&_B'z_SHOWCASE_2007_-19-_at_Zepp_Tokyo "wikilink")
 
 ## 備考

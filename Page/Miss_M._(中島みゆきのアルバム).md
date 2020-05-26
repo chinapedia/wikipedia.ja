@@ -73,7 +73,7 @@
   - Piano：エルトン永田
   - Synthesizer：エルトン永田・[チト河内](../Page/チト河内.md "wikilink")
   - Saxophone：[ジェイク, H, コンセプション](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
-  - Chorus：杉本和世・[東郷昌和・小出博志](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")
+  - Chorus：杉本和世・[東郷昌和・小出博志](../Page/バズ_\(バンド\).md "wikilink")
   - Synthesizer Programmer：梅原篤・土岐幸男
 
 **それ以上言わないで**

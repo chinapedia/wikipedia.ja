@@ -6,7 +6,7 @@
   - [ISO 639-2で](../Page/ISO_639.md "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")をあらわす。
   - [扶桑社](../Page/扶桑社.md "wikilink")から発行している総合[週刊誌](../Page/週刊誌.md "wikilink")。→[SPA\!](../Page/SPA!.md "wikilink")
   - 療養目的の[温泉](../Page/温泉.md "wikilink")、[療養温泉](https://ja.wikipedia.org/wiki/療養温泉 "wikilink")。
-  - [製造小売業](https://ja.wikipedia.org/wiki/製造小売業 "wikilink") （製造型小売業）（**S**pecialty store retailer of **P**rivate label **A**pparel）
+  - [製造小売業](../Page/製造小売業.md "wikilink") （製造型小売業）（**S**pecialty store retailer of **P**rivate label **A**pparel）
   - 皮膚電位活動（**S**kin **p**otential **a**cterity）
   - [シングルページアプリケーション](https://ja.wikipedia.org/wiki/シングルページアプリケーション "wikilink") (Single-page Application)
   - 日本ソフトウェア学会のワークショップ（**S**ystems for **P**rogramming and **A**pplications） - 学術研究と開発を両立させることを趣旨とする。

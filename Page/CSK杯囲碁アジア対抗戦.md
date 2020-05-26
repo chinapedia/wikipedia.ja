@@ -45,7 +45,7 @@
 | [大竹英雄](https://ja.wikipedia.org/wiki/大竹英雄 "wikilink") | × | ○ | [曺薫鉉](https://ja.wikipedia.org/wiki/曺薫鉉 "wikilink") |
 | [依田紀基](../Page/依田紀基.md "wikilink")                    | × | ○ | [李昌鎬](../Page/李昌鎬.md "wikilink")                    |
 | [本田邦久](../Page/本田邦久.md "wikilink")                    | × | ○ | [朴永訓](../Page/朴永訓.md "wikilink")                    |
-| [淡路修三](https://ja.wikipedia.org/wiki/淡路修三 "wikilink") | × | ○ | [劉昌赫](../Page/劉昌赫.md "wikilink")                    |
+| [淡路修三](../Page/淡路修三.md "wikilink")                    | × | ○ | [劉昌赫](../Page/劉昌赫.md "wikilink")                    |
 | [羽根直樹](../Page/羽根直樹.md "wikilink")                    | × | ○ | [李世乭](../Page/李世ドル.md "wikilink")                   |
 |                                                       |   |   |                                                     |
 

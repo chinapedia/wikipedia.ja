@@ -147,7 +147,7 @@
   - [ビンジョウバカネ](https://ja.wikipedia.org/wiki/ビンジョウバカネ "wikilink") (2005年)
   - [フレアオッズ](https://ja.wikipedia.org/wiki/フレアオッズ "wikilink") (2008年)
   - [舞華](https://ja.wikipedia.org/wiki/舞華 "wikilink") (2014年)
-  - [まえだまえだ](https://ja.wikipedia.org/wiki/まえだまえだ "wikilink") (2008年)
+  - [まえだまえだ](../Page/まえだまえだ.md "wikilink") (2008年)
   - [牧伸二](../Page/牧伸二.md "wikilink") (1995年)
   - [マニ★ラバ](../Page/マニ★ラバ.md "wikilink") (2003年)2004年自主レーベル「青森レコード」設立。2007年解散。
   - [みうらじゅん](../Page/みうらじゅん.md "wikilink") (1999年〜2013年)
@@ -762,7 +762,7 @@ living, dining and kitchen records (1995年 - )
 </tr>
 <tr class="odd">
 <td><p>2008年09月09日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/まえだまえだ" title="wikilink">まえだまえだ</a>『ぐっちょきパンダ』</p></td>
+<td><p><a href="../Page/まえだまえだ.md" title="wikilink">まえだまえだ</a>『ぐっちょきパンダ』</p></td>
 <td><p>203-LDKCD</p></td>
 </tr>
 <tr class="even">

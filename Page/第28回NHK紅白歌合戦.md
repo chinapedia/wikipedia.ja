@@ -32,7 +32,7 @@
 | 歌手                                                          | 曲                                                                                                                                                |
 | [桜田淳子](../Page/桜田淳子.md "wikilink")(4)                       | [気まぐれヴィーナス](../Page/気まぐれヴィーナス.md "wikilink")                                                                                                     |
 | [ピンク・レディー](../Page/ピンク・レディー.md "wikilink")(初)               | [ウォンテッド (指名手配)](../Page/ウォンテッド_\(指名手配\).md "wikilink")                                                                                           |
-| [太田裕美](../Page/太田裕美.md "wikilink")(2)                       | [九月の雨](https://ja.wikipedia.org/wiki/九月の雨 "wikilink")                                                                                            |
+| [太田裕美](../Page/太田裕美.md "wikilink")(2)                       | [九月の雨](../Page/九月の雨.md "wikilink")                                                                                                               |
 | [西川峰子](../Page/仁支川峰子.md "wikilink")(3)                      | [ギター流して今晩わ](https://ja.wikipedia.org/wiki/ギター流して今晩わ "wikilink")                                                                                  |
 | [高田みづえ](../Page/高田みづえ.md "wikilink")(初)                     | [硝子坂](https://ja.wikipedia.org/wiki/硝子坂 "wikilink")                                                                                              |
 | [岩崎宏美](../Page/岩崎宏美.md "wikilink")(3)                       | [悲恋白書](../Page/悲恋白書.md "wikilink")                                                                                                               |

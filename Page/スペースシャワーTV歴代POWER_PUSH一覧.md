@@ -68,7 +68,7 @@
 | 6月  | [はつ恋](https://ja.wikipedia.org/wiki/はつ恋_\(小島麻由美のシングル\) "wikilink")                      | [小島麻由美](https://ja.wikipedia.org/wiki/小島麻由美 "wikilink")                 |
 | 7月  | [ENDLESS SUMMER NUDE](https://ja.wikipedia.org/wiki/ENDLESS_SUMMER_NUDE "wikilink")     | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                |
 | 8月  | [チャイナ・カフェ](https://ja.wikipedia.org/wiki/チャイナ・カフェ "wikilink")                           | [高橋徹也](../Page/高橋徹也.md "wikilink")                                      |
-| 9月  | [覚醒](https://ja.wikipedia.org/wiki/覚醒_\(アルバム\) "wikilink")                              | [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")                            |
+| 9月  | [覚醒](../Page/覚醒_\(アルバム\).md "wikilink")                                                 | [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")                            |
 | 10月 | [終わりなき世界](https://ja.wikipedia.org/wiki/終わりなき世界 "wikilink")                             | カーマイン (音楽ユニット)|カーマイン                                                    |
 | 11月 | [WALKING IN THE RHYTHM](https://ja.wikipedia.org/wiki/WALKING_IN_THE_RHYTHM "wikilink") | [Fishmans](https://ja.wikipedia.org/wiki/Fishmans "wikilink")           |
 | 12月 | [青すぎる空](https://ja.wikipedia.org/wiki/青すぎる空 "wikilink")                                 | [eastern youth](https://ja.wikipedia.org/wiki/eastern_youth "wikilink") |
@@ -551,7 +551,7 @@
 | 9月  | YOU GIVE ME SOMETHING   | [JAMES MORRISON](https://ja.wikipedia.org/wiki/:en:James_Morrison_\(singer\) "wikilink") |
 | 10月 | LDN                     | [LILY ALLEN](../Page/リリー・アレン.md "wikilink")                                              |
 | 11月 | PUT YOU IN YOUR PLACE   | [THE SUNSHINE UNDERGROUND](../Page/サンシャイン・アンダーグラウンド.md "wikilink")                       |
-| 12月 | YOUNG FOLKS             | [PETER BJORN AND JOHN](https://ja.wikipedia.org/wiki/ピーター・ビヨーン・アンド・ジョン "wikilink")       |
+| 12月 | YOUNG FOLKS             | [PETER BJORN AND JOHN](../Page/ピーター・ビヨーン・アンド・ジョン.md "wikilink")                          |
 
 ### 2007年
 

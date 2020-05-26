@@ -69,6 +69,6 @@
 
 [Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:1983年のシングル](https://ja.wikipedia.org/wiki/Category:1983年のシングル "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
-1.  例えば、[マンフレッド・マン・チャプター・スリー](https://ja.wikipedia.org/wiki/マンフレッド・マン・チャプター・スリー "wikilink")の前身となった1969年のプロジェクトの名前に使われている。
+1.  例えば、[マンフレッド・マン・チャプター・スリー](../Page/マンフレッド・マン・チャプター・スリー.md "wikilink")の前身となった1969年のプロジェクトの名前に使われている。
 2.  [映画 エマノン](http://www.allcinema.net/prog/show_c.php?num_c=3046) - [allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")
 3.  [「栞のテーマ」「イエローマン」など、あんまりヒットしなかったサザンの曲特集](https://middle-edge.jp/articles/Efg6e) ミドルエッジ 2017年11月29日閲覧

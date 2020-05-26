@@ -113,7 +113,7 @@
 <td><p>27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田村知佳_(野球)" title="wikilink">田村知佳</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/國學院大學久我山中学高等学校" title="wikilink">國學院大學久我山中学高等学校</a>、<br />
-<a href="https://ja.wikipedia.org/wiki/日本体育大学" title="wikilink">日本体育大学</a>、町田、<a href="../Page/サウザンリーフ市原.md" title="wikilink">サウザンリーフ市原</a></p></td>
+<a href="../Page/日本体育大学.md" title="wikilink">日本体育大学</a>、町田、<a href="../Page/サウザンリーフ市原.md" title="wikilink">サウザンリーフ市原</a></p></td>
 <td><p>26歳</p></td>
 <td></td>
 <td></td>

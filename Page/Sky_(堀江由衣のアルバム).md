@@ -7,7 +7,7 @@
 
   - 前作「[黒猫と月気球をめぐる冒険](../Page/黒猫と月気球をめぐる冒険.md "wikilink")」から1年8ヶ月ぶりにリリースされたアルバムである。
   - 夏にリリースされた為、ジャケット及び初回限定で付いた写真集は夏を連想させるものが多い。
-  - 収録楽曲は堀江自身が出演したアニメーションの主題歌及び劇中音楽を手掛けた作曲家による提供が多い（ex.[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")（[フルーツバスケット](../Page/フルーツバスケット_\(漫画\).md "wikilink")）、D.R.Y（[SAMURAI DEEPER KYO](../Page/SAMURAI_DEEPER_KYO.md "wikilink")）、[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")（[魔探偵ロキRAGNAROK](https://ja.wikipedia.org/wiki/魔探偵ロキRAGNAROK "wikilink")）、[Funta](../Page/Funta.md "wikilink")（[ななか6/17](https://ja.wikipedia.org/wiki/ななか6/17 "wikilink")）等）
+  - 収録楽曲は堀江自身が出演したアニメーションの主題歌及び劇中音楽を手掛けた作曲家による提供が多い（ex.[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")（[フルーツバスケット](../Page/フルーツバスケット_\(漫画\).md "wikilink")）、D.R.Y（[SAMURAI DEEPER KYO](../Page/SAMURAI_DEEPER_KYO.md "wikilink")）、[羽岡佳](../Page/羽岡佳.md "wikilink")（[魔探偵ロキRAGNAROK](https://ja.wikipedia.org/wiki/魔探偵ロキRAGNAROK "wikilink")）、[Funta](../Page/Funta.md "wikilink")（[ななか6/17](https://ja.wikipedia.org/wiki/ななか6/17 "wikilink")）等）
 
 ## 収録曲
 
@@ -45,7 +45,7 @@
         作詞・作曲：伊藤千夏、編曲：[小西貴雄](../Page/小西貴雄.md "wikilink")
 11. **tomorrow** \[4:43\]
       -
-        作詞：aki、作曲・編曲：[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")
+        作詞：aki、作曲・編曲：[羽岡佳](../Page/羽岡佳.md "wikilink")
 12. **I just wanna be with you** \[4:00\]
       -
         作詞・作曲：[Funta](../Page/Funta.md "wikilink")、編曲：[鈴木‘Daichi’秀行](../Page/鈴木Daichi秀行.md "wikilink")

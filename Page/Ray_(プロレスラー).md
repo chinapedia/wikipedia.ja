@@ -84,7 +84,7 @@
   - 3月26日、さくらえみとの師弟タッグで[マッスルビーナス](https://ja.wikipedia.org/wiki/マッスルビーナス "wikilink")（[志田光](https://ja.wikipedia.org/wiki/志田光 "wikilink")&[藤本つかさ](../Page/藤本つかさ.md "wikilink")）の持つ[インターナショナル・リボンタッグ王座](https://ja.wikipedia.org/wiki/インターナショナル・リボンタッグ王座 "wikilink")に挑戦。藤本からフォールを奪い自身初タイトルを奪取。試合後、アイスリボン入団を直訴し、了承された。
   - 5月8日、復帰後初となる[JWP参戦](../Page/JWP女子プロレス.md "wikilink")。シングルトーナメント「J-1グランプリ」に負傷欠場となった[米山香織](../Page/米山香織.md "wikilink")に代わってエントリーし、1回戦で[ハイスピード選手権も兼ねて](https://ja.wikipedia.org/wiki/ハイスピード王座 "wikilink")[Leonと対戦するが](../Page/Leon_\(プロレスラー\).md "wikilink")、キャプチュードバスターからの片エビ固めで敗れる。
   - 6月4日、REINA 5新木場大会[REINA初参戦](https://ja.wikipedia.org/wiki/レイナ・コーポレーション "wikilink")。[上林愛貴](../Page/上林愛貴.md "wikilink")とタッグを組み、[豊田真奈美](../Page/豊田真奈美.md "wikilink")&[セウシス](https://ja.wikipedia.org/wiki/セウシス "wikilink")と対戦。スーパーラナでセウシスからピンフォール。
-  - 7月15日、後楽園ホールでのSMASH.19で[SMASH初参戦](https://ja.wikipedia.org/wiki/SMASH_\(格闘技団体\) "wikilink")。[ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")&[カズ・ハヤシ](../Page/カズ・ハヤシ.md "wikilink")と組み、[大原はじめ](https://ja.wikipedia.org/wiki/大原はじめ "wikilink")&[Gamma](../Page/Gamma.md "wikilink")&[紫雷イオ](https://ja.wikipedia.org/wiki/紫雷イオ "wikilink")と6人タッグで対戦。大原にマスクを剥がされ反則勝ち。
+  - 7月15日、後楽園ホールでのSMASH.19で[SMASH初参戦](https://ja.wikipedia.org/wiki/SMASH_\(格闘技団体\) "wikilink")。[ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")&[カズ・ハヤシ](../Page/カズ・ハヤシ.md "wikilink")と組み、[大原はじめ](https://ja.wikipedia.org/wiki/大原はじめ "wikilink")&[Gamma](../Page/Gamma.md "wikilink")&[紫雷イオ](../Page/紫雷イオ.md "wikilink")と6人タッグで対戦。大原にマスクを剥がされ反則勝ち。
   - 8月21日、後楽園大会で[Mentallo](https://ja.wikipedia.org/wiki/Mentallo "wikilink")と組み、[都宮ちい](https://ja.wikipedia.org/wiki/ミクロ_\(プロレスラー\) "wikilink")・[佐々木貴](../Page/佐々木貴.md "wikilink")組とハードコアリボンで対戦。勝利。
   - 9月10日、[東部フレンドホール](https://ja.wikipedia.org/wiki/東部フレンドホール "wikilink")でのREINA 12にてセウシスと初代[CMLL-REINAインターナショナルジュニア王座](https://ja.wikipedia.org/wiki/CMLL-REINAインターナショナルジュニア王座 "wikilink")決定戦を戦い、王座戴冠。自身初のシングルタイトルとなる。
   - 9月28日、メキシコ遠征で[CMLL](../Page/CMLL.md "wikilink")初参戦。ルチャリブレの聖地[アレナ・メヒコ](https://ja.wikipedia.org/wiki/アレナ・メヒコ "wikilink")で[マルセラ](https://ja.wikipedia.org/wiki/マルセラ_\(プロレスラー\) "wikilink")、[ダリス・ラ・カリベーニャ](https://ja.wikipedia.org/wiki/ダリス・ラ・カリベーニャ "wikilink")と組み、[アマポラ](https://ja.wikipedia.org/wiki/ラ・アマポーラ "wikilink")、[プリンセサ・ブランカ](https://ja.wikipedia.org/wiki/プリンセサ・ブランカ "wikilink")、[下田美馬](../Page/下田美馬.md "wikilink")と対戦。2-1で勝利。
@@ -258,7 +258,7 @@
 <td><p>第2試合 3WAYマッチ 1/15 2フォールカウントルール</p></td>
 </tr>
 <tr class="odd">
-<td><p>○<strong><a href="https://ja.wikipedia.org/wiki/紫雷美央" title="wikilink">紫雷美央</a></strong></p></td>
+<td><p>○<strong><a href="../Page/紫雷美央.md" title="wikilink">紫雷美央</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>第3試合 タッグマッチ 1/20</p></td>

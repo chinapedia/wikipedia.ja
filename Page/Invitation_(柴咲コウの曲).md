@@ -16,7 +16,7 @@
 
 1.  **invitation**
       -
-        （作詞：[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") 作曲：[Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink") 編曲：[市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink")）
+        （作詞：[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") 作曲：[Jin Nakamura](../Page/Jin_Nakamura.md "wikilink") 編曲：[市川淳](https://ja.wikipedia.org/wiki/市川淳 "wikilink")）
         TBS系ドラマ『タイヨウのうた』主題歌
 2.  **one’s heart**
       -
@@ -34,7 +34,7 @@
 
 <!-- end list -->
 
-  - 『[嬉々](https://ja.wikipedia.org/wiki/嬉々 "wikilink")♥』
+  - 『[嬉々](../Page/嬉々.md "wikilink")♥』
   - 『[Single Best](https://ja.wikipedia.org/wiki/Single_Best_\(柴咲コウのアルバム\) "wikilink")』
   - 『[KO SHIBASAKI ALL TIME BEST 詩](https://ja.wikipedia.org/wiki/KO_SHIBASAKI_ALL_TIME_BEST#KO_SHIBASAKI_ALL_TIME_BEST_詩 "wikilink")』
 

@@ -5,7 +5,7 @@
 
   - [句構造文法](https://ja.wikipedia.org/wiki/句構造文法 "wikilink")（phrase structure grammars）
   - [ポストシーズン](../Page/ポストシーズン.md "wikilink")ゲーム（post season game）
-  - [睡眠ポリグラフ検査](https://ja.wikipedia.org/wiki/睡眠ポリグラフ検査 "wikilink") - [睡眠障害](../Page/睡眠障害.md "wikilink")の診断に用いられる検査の一つ
+  - [睡眠ポリグラフ検査](../Page/睡眠ポリグラフ検査.md "wikilink") - [睡眠障害](../Page/睡眠障害.md "wikilink")の診断に用いられる検査の一つ
   - [Programmable Sound Generator](../Page/Programmable_Sound_Generator.md "wikilink") - [音源](../Page/音源.md "wikilink")チップ([シンセサイザー](../Page/シンセサイザー.md "wikilink"))の一種
   - [H\&K PSG-1](https://ja.wikipedia.org/wiki/H&K_PSG-1 "wikilink") - [ヘッケラー&コッホ](../Page/ヘッケラー&コッホ.md "wikilink")社が開発した狙撃銃
   - リンケイ酸ガラス(Phosphosilicate Glass) - 特殊[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")の一種。

@@ -396,7 +396,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a> - 2011年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a> - 2011年<a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p>木曜 25時44分 - 25時59分</p></td>
 <td><p>放送再開</p></td>
 <td></td>

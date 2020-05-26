@@ -42,7 +42,7 @@ FC社が発行するJCBカードの会員は、JCBが発行するJCBカードの
   - とみんカード
   - [第四ジェーシービーカード](https://ja.wikipedia.org/wiki/第四ジェーシービーカード "wikilink")
   - 北越カード
-  - [北陸カード](https://ja.wikipedia.org/wiki/北陸カード "wikilink")
+  - [北陸カード](../Page/北陸カード.md "wikilink")
   - 北国クレジットサービス
   - 十六ジェーシービー
   - [OKBペイメントプラット](../Page/OKBペイメントプラット.md "wikilink")

@@ -15,7 +15,7 @@
 
   - 草薙 誠（くさなぎ まこと）:[声](../Page/声優.md "wikilink")：[石田彰](../Page/石田彰.md "wikilink")
     主人公。演劇部の脚本担当。少ない部員数のため、時には自身が出演する。[剣道](../Page/剣道.md "wikilink")の有段者で、怒らせたら部長より怖い。
-    「平安編」では「**[安倍晴明](https://ja.wikipedia.org/wiki/安倍晴明 "wikilink")**（あべの せいめい）《本名**[平将国](../Page/平将国.md "wikilink")**（たいらの まさくに）》」（声：[子安武人](../Page/子安武人.md "wikilink")）、「鎌倉編」では[木曾義仲の息子](../Page/源義仲.md "wikilink")「**[木曾義高](https://ja.wikipedia.org/wiki/源義高_\(清水冠者\) "wikilink")**（きそ よしたか）」、「大正編」では誠二の[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄・[小説家](../Page/小説家.md "wikilink")の「**仲本慎一**（なかもと しんいち）」（声：子安武人）を演じる。
+    「平安編」では「**[安倍晴明](https://ja.wikipedia.org/wiki/安倍晴明 "wikilink")**（あべの せいめい）《本名**[平将国](../Page/平将国.md "wikilink")**（たいらの まさくに）》」（声：[子安武人](../Page/子安武人.md "wikilink")）、「鎌倉編」では[木曾義仲の息子](../Page/源義仲.md "wikilink")「**[木曾義高](../Page/源義高_\(清水冠者\).md "wikilink")**（きそ よしたか）」、「大正編」では誠二の[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄・[小説家](../Page/小説家.md "wikilink")の「**仲本慎一**（なかもと しんいち）」（声：子安武人）を演じる。
   - 草薙 小雪（くさなぎ こゆき）:声：[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
     草薙誠の従妹。誠のことが大好きで、兄のように慕っている。誠の為に手料理を作ることもあるが、その過程及び見た目は壊滅的。メインヒロインの1人。可愛いものが好き。
     「平安編」では謎の少女「**雪**（ゆき）」、「鎌倉編」では[源頼朝](../Page/源頼朝.md "wikilink")の娘「**[大姫](../Page/大姫_\(源頼朝の娘\).md "wikilink")**（おおひめ）」、「大正編」では病弱な「**麻生雪美**（あそう ゆきみ）」を演じる。

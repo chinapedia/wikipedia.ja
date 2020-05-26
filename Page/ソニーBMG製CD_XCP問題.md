@@ -39,11 +39,11 @@
   - 2005年[11月10日](../Page/11月10日.md "wikilink") - ソニーBMGのCDに、[LAME](../Page/LAME.md "wikilink")のソースを流用した形跡があることが報じられる\[5\]。これが事実なら[LGPL](https://ja.wikipedia.org/wiki/LGPL "wikilink")に違反する。
   - 2005年[11月11日](../Page/11月11日.md "wikilink") - ソニーBMGが、問題の技術の使われたCDの生産を一時停止すると発表。
   - 2005年[11月15日](../Page/11月15日.md "wikilink") - [プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")のEd Felten教授が、ソニーBMGがリリースした、この問題に関するWebベース版のアンインストールツールに、重大な[セキュリティーホール](https://ja.wikipedia.org/wiki/セキュリティーホール "wikilink")があることを、自らの[ブログ](../Page/ブログ.md "wikilink")で明らかにする\[6\]。
-  - 2005年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ソニーBMGが、問題の技術の使われたCDを[リコールすると発表](https://ja.wikipedia.org/wiki/リコール_\(一般製品\) "wikilink")。
+  - 2005年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ソニーBMGが、問題の技術の使われたCDを[リコールすると発表](../Page/リコール_\(一般製品\).md "wikilink")。
   - 2005年[11月17日](../Page/11月17日.md "wikilink") - さらに2件のGPL違反（FAACとmpg123のソース流用）を指摘される\[7\]。
   - 同日 - ソニーBMGのXCPとは別の技術を使った、MediaMaxのアンインストーラーにも、重大なセキュリティーホールがあることを指摘される\[8\]。
   - 2005年[11月21日](../Page/11月21日.md "wikilink") - LAMEプロジェクトが、LAMEプロジェクト管理人名義でソニーBMGに対して公開質問状を出す\[9\]。
-  - 同日 [テキサス州](../Page/テキサス州.md "wikilink")が、ソニーBMGの一部CDに「[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")」が入っていて、州法に違反しているとして、ソニーBMGを提訴\[10\]。認められれば、最大で違反1件当たり罰金10万ドル。また、市民団体「[電子フロンティア財団](../Page/電子フロンティア財団.md "wikilink")（EFF）」が、XCPだけでなく、MediaMaxを使用したCDも合わせた、2400万枚についての損害賠償を請求した。
+  - 同日 [テキサス州](../Page/テキサス州.md "wikilink")が、ソニーBMGの一部CDに「[スパイウェア](../Page/スパイウェア.md "wikilink")」が入っていて、州法に違反しているとして、ソニーBMGを提訴\[10\]。認められれば、最大で違反1件当たり罰金10万ドル。また、市民団体「[電子フロンティア財団](../Page/電子フロンティア財団.md "wikilink")（EFF）」が、XCPだけでなく、MediaMaxを使用したCDも合わせた、2400万枚についての損害賠償を請求した。
   - 2005年[11月28日](../Page/11月28日.md "wikilink") - プリンストン大学のEd Felten教授が、MediaMaxプロテクトに関しても、問題があることを指摘する\[11\]。教授は、MediaMaxには旧式のCD-3と新方式のMM-5の2種類があるが、CD-3を入れた後、MM-5を入れるか、MM-5を入れてから、CD-3を入れるか、MM-5を2回入れると、ソフトの利用規約の同意の有無にかかわらず、ドライバがインストールされると主張している。
   - [2006年](../Page/2006年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink") - 米連邦裁判所判事が、和解案を最終承認する\[12\]<ref>
 

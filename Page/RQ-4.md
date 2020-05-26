@@ -101,7 +101,7 @@ EO/IRセンサーは、1mの分解能で約4万平方mi（約10万平方km）に
 
 :\*ペイロード：907.2kg
 
-:\*エンジン：[ロールスロイス製](https://ja.wikipedia.org/wiki/ロールス・ロイス・ホールディングス "wikilink")[AE3007Hターボファン](https://ja.wikipedia.org/wiki/ロールス・ロイス_AE_3007 "wikilink")×1
+:\*エンジン：[ロールスロイス製](../Page/ロールス・ロイス・ホールディングス.md "wikilink")[AE3007Hターボファン](https://ja.wikipedia.org/wiki/ロールス・ロイス_AE_3007 "wikilink")×1
 
 :\*エンジン推力：37kN
 

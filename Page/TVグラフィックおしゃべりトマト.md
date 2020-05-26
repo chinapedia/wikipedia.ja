@@ -117,7 +117,7 @@
 <td></td>
 <td></td>
 <td><p>|<a href="../Page/小池達子.md" title="wikilink">小池達子</a><br />
-<a href="https://ja.wikipedia.org/wiki/小西雅子" title="wikilink">小西雅子</a></p></td>
+<a href="../Page/小西雅子.md" title="wikilink">小西雅子</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -50,7 +50,7 @@
   - [2016年](../Page/2016年.md "wikilink") -- [ザック・ラヴィーン](https://ja.wikipedia.org/wiki/ザック・ラヴィーン "wikilink")（[ミネソタ・ティンバーウルブズ](../Page/ミネソタ・ティンバーウルブズ.md "wikilink")）
   - [2017年](../Page/2017年.md "wikilink") -- [グレン・ロビンソン3世](https://ja.wikipedia.org/wiki/グレン・ロビンソン3世 "wikilink")（[インディアナ・ペイサーズ](../Page/インディアナ・ペイサーズ.md "wikilink"))
   - [2018年](../Page/2018年.md "wikilink") -- [ドノバン・ミッチェル](https://ja.wikipedia.org/wiki/ドノバン・ミッチェル "wikilink")（[ユタ・ジャズ](../Page/ユタ・ジャズ.md "wikilink"))
-  - [2019年](../Page/2019年.md "wikilink") -- [ハミドゥ・ディアロ](https://ja.wikipedia.org/wiki/ハミドゥ・ディアロ "wikilink")（[オクラホマシティ・サンダー](https://ja.wikipedia.org/wiki/オクラホマシティ・サンダー "wikilink"))
+  - [2019年](../Page/2019年.md "wikilink") -- [ハミドゥ・ディアロ](../Page/ハミドゥ・ディアロ.md "wikilink")（[オクラホマシティ・サンダー](https://ja.wikipedia.org/wiki/オクラホマシティ・サンダー "wikilink"))
   - [2020年](../Page/2020年.md "wikilink") -- [デリック・ジョーンズ·ジュニア](https://ja.wikipedia.org/wiki/デリック・ジョーンズ·ジュニア "wikilink")（[マイアミ・ヒート](../Page/マイアミ・ヒート.md "wikilink"))
 
 ## 関連項目

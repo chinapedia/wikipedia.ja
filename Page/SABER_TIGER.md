@@ -58,7 +58,7 @@
   - **白井進一** (ドラム) 元SUPERSTITION。
   - **滝沢貴幸** (ボーカル、ベース) その後[REDに参加](../Page/RED_\(日本のロックバンド\).md "wikilink")。
   - **武田秀敏** (ギター) 元LEO、その後REDに参加。
-  - **[湊雅史](../Page/湊雅史.md "wikilink")** (ドラム) その後RED、T.N.T、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、RAEL、60/40、Optical 8、FORE、13oz、Aに参加。
+  - **[湊雅史](../Page/湊雅史.md "wikilink")** (ドラム) その後RED、T.N.T、[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、RAEL、60/40、Optical 8、FORE、13oz、Aに参加。
   - **礒田良雄** (ドラム) 元HARD GEAR、その後SIXRIDE、[DOUBLE DEALERに参加](../Page/DOUBLE_DEALER.md "wikilink")。
   - **山口洋徹** (ボーカル) 元SHRIEVE。
   - **茂木憲** (ベース) 元DUSTY STARDUST。

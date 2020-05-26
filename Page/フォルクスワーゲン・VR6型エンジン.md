@@ -83,9 +83,9 @@ V型6気筒エンジンでは[シリンダーヘッド](https://ja.wikipedia.org
   - [フォルクスワーゲン・ゴルフ Mk3](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")
   - [フォルクスワーゲン・ゴルフ Mk4](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")
   - [フォルクスワーゲン・ゴルフ Mk5](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")
-  - [フォルクスワーゲン・ジェッタ Mk3](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ジェッタ "wikilink")/ヴェント
-  - [フォルクスワーゲン・ジェッタ Mk4](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ジェッタ "wikilink")/ヴェント/ボーラ
-  - [フォルクスワーゲン・ジェッタ Mk6](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ジェッタ "wikilink")
+  - [フォルクスワーゲン・ジェッタ Mk3](../Page/フォルクスワーゲン・ジェッタ.md "wikilink")/ヴェント
+  - [フォルクスワーゲン・ジェッタ Mk4](../Page/フォルクスワーゲン・ジェッタ.md "wikilink")/ヴェント/ボーラ
+  - [フォルクスワーゲン・ジェッタ Mk6](../Page/フォルクスワーゲン・ジェッタ.md "wikilink")
   - [フォルクスワーゲン・ニュービートル](../Page/フォルクスワーゲン・ニュービートル.md "wikilink")
   - [フォルクスワーゲン・コラード](../Page/フォルクスワーゲン・コラード.md "wikilink")
   - [フォルクスワーゲン・パサート](../Page/フォルクスワーゲン・パサート.md "wikilink") (B3, B4, B6)
@@ -106,7 +106,7 @@ V型6気筒エンジンでは[シリンダーヘッド](https://ja.wikipedia.org
 ### VR5型
 
   - [フォルクスワーゲン・ゴルフ Mk4](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")
-  - [フォルクスワーゲン・ボーラ](https://ja.wikipedia.org/wiki/フォルクスワーゲン・ジェッタ "wikilink")
+  - [フォルクスワーゲン・ボーラ](../Page/フォルクスワーゲン・ジェッタ.md "wikilink")
   - [フォルクスワーゲン・パサート](../Page/フォルクスワーゲン・パサート.md "wikilink") (B5)
   - [フォルクスワーゲン・ニュービートル](../Page/フォルクスワーゲン・ニュービートル.md "wikilink")
   - [セアト・トレド](https://ja.wikipedia.org/wiki/:en:SEAT_Toledo "wikilink") Mk2

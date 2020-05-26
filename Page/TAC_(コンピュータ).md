@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - [山内恭彦](https://ja.wikipedia.org/wiki/山内恭彦 "wikilink") - 理学部教授。（やまのうち たかひこ、生年1902年 - 没年1986年）
+  - [山内恭彦](../Page/山内恭彦.md "wikilink") - 理学部教授。（やまのうち たかひこ、生年1902年 - 没年1986年）
   - [茅誠司](../Page/茅誠司.md "wikilink") - 後に[総長](https://ja.wikipedia.org/wiki/総長 "wikilink")になる。（かや せいじ、生年1898年 - 没年1988年）
   - [阪本椀房](https://ja.wikipedia.org/wiki/阪本椀房 "wikilink") - 教授。
   - [高橋秀俊](../Page/高橋秀俊.md "wikilink") （生年1915年 - 没年1985年）- 助教授。

@@ -74,7 +74,7 @@
   - [MROテレポート6](../Page/MROテレポート6.md "wikilink")
   - [MRO NEWS ON 6](../Page/MRO_NEWS_ON_6.md "wikilink")
   - [MROイブニングニュース](../Page/MROイブニングニュース.md "wikilink")
-  - [MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink")
+  - [MROニュースランナー](../Page/MROニュースランナー.md "wikilink")
   - [総力報道\!THE NEWS MRO](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS_MRO "wikilink")
   - [ホウトク\!](https://ja.wikipedia.org/wiki/ホウトク! "wikilink")
 

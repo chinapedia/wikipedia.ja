@@ -49,7 +49,7 @@
 
 その後、1986年にリリースされた『[Best sellection](https://ja.wikipedia.org/wiki/Best_sellection "wikilink")』にて次作アルバム『[虫](../Page/虫_\(アルバム\).md "wikilink")』とのカップリングで初CD化され、以後1988年、1993年、1998年に再リリースされている。2003年には初めてデジタルリマスタリングされ、紙ジャケット仕様にて再リリースされた他、2015年には[SHM-CD仕様で再リリース](https://ja.wikipedia.org/wiki/スーパー・ハイ・マテリアルCD "wikilink")\[38\]。2016年にはアナログ盤として再リリースされた\[39\]\[40\]。
 
-また、本作の歌詞修正前のお蔵入りの音源は、後に『[STOP JAP NAKED](https://ja.wikipedia.org/wiki/STOP_JAP_NAKED "wikilink")』（[2007年](../Page/2007年.md "wikilink")）としてリリースされている\[41\]\[42\]。
+また、本作の歌詞修正前のお蔵入りの音源は、後に『[STOP JAP NAKED](../Page/STOP_JAP_NAKED.md "wikilink")』（[2007年](../Page/2007年.md "wikilink")）としてリリースされている\[41\]\[42\]。
 
 ## プロモーション
 
@@ -288,7 +288,7 @@ CT版は「LIGHT MY FIRE」「NO FUN」収録</p></td>
   -
 [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:クライマックスレコードのアルバム](https://ja.wikipedia.org/wiki/Category:クライマックスレコードのアルバム "wikilink") [Category:ザ・スターリンのアルバム](https://ja.wikipedia.org/wiki/Category:ザ・スターリンのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink")
 
-1.  いぬん堂 「ライナーノーツ」 『[STOP JAP NAKED](https://ja.wikipedia.org/wiki/STOP_JAP_NAKED "wikilink")』、徳間ジャパンコミュニケーションズ、2007年。
+1.  いぬん堂 「ライナーノーツ」 『[STOP JAP NAKED](../Page/STOP_JAP_NAKED.md "wikilink")』、徳間ジャパンコミュニケーションズ、2007年。
 2.
 3.
 4.

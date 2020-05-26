@@ -333,7 +333,7 @@
 
 <!-- end list -->
 
-  - [Gたかし](https://ja.wikipedia.org/wiki/Gたかし "wikilink")
+  - [Gたかし](../Page/Gたかし.md "wikilink")
 
 <!-- end list -->
 

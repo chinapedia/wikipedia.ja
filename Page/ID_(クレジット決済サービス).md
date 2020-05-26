@@ -261,7 +261,7 @@ iDの発行元の内、[三井住友銀行](../Page/三井住友銀行.md "wikil
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/北陸カード" title="wikilink">北陸カード</a></p></td>
+<td><p><a href="../Page/北陸カード.md" title="wikilink">北陸カード</a></p></td>
 <td></td>
 <td></td>
 <td></td>

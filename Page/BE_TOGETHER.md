@@ -21,7 +21,7 @@
 
 このように[1994年](../Page/1994年.md "wikilink")のTMN「終了」前のセレクション・アルバム2枚に収録されており、後記の鈴木あみ版のシングルがリリースされる[1999年](../Page/1999年.md "wikilink")より前から、TM NETWORKの[ファンの間では知られた定番曲であった](../Page/FANKS.md "wikilink")。
 
-[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOXでリマスタリングされたアルバム](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")『DRESS』収録のこの曲のアウトロの部分が音飛びするというCD製造上の不良が発覚している。これについては無償での交換対応がされた。 {{-}}
+[WORLD HERITAGE DOUBLE-DECADE COMPLETE BOXでリマスタリングされたアルバム](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")『DRESS』収録のこの曲のアウトロの部分が音飛びするというCD製造上の不良が発覚している。これについては無償での交換対応がされた。 {{-}}
 
 ## 鈴木あみ
 

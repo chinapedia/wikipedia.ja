@@ -78,7 +78,7 @@
 <td><p>愛と感謝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Superfly" title="wikilink">Superfly</a></p></td>
 <td><ul>
-<li>iTunes Storeにてオンライン配信を実施。シングル『<a href="https://ja.wikipedia.org/wiki/愛をこめて花束を" title="wikilink">愛をこめて花束を</a>』（<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月27日.md" title="wikilink">2月27日</a>発売）および、アルバム『<a href="https://ja.wikipedia.org/wiki/Superfly_(アルバム)" title="wikilink">Superfly</a>』（2008年<a href="../Page/5月14日.md" title="wikilink">5月14日</a>発売）に収録。</li>
+<li>iTunes Storeにてオンライン配信を実施。シングル『<a href="../Page/愛をこめて花束を.md" title="wikilink">愛をこめて花束を</a>』（<a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/2月27日.md" title="wikilink">2月27日</a>発売）および、アルバム『<a href="https://ja.wikipedia.org/wiki/Superfly_(アルバム)" title="wikilink">Superfly</a>』（2008年<a href="../Page/5月14日.md" title="wikilink">5月14日</a>発売）に収録。</li>
 </ul></td>
 </tr>
 </tbody>

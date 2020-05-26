@@ -198,7 +198,7 @@ LLI解散後も王座のみ存続して[WAR](../Page/WAR_\(プロレス\).md "wi
 </tr>
 <tr class="odd">
 <td><p>第29代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/茂木正淑" title="wikilink">茂木正淑</a></p></td>
+<td><p><a href="../Page/茂木正淑.md" title="wikilink">茂木正淑</a></p></td>
 <td><p>1</p></td>
 <td><p>1996年6月11日 即日王座返上</p></td>
 </tr>

@@ -5,7 +5,7 @@
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ジャパンレコーズよりリリースされた](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。
 
-ザ・スターリンは[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")の[大映スタジオでのラストライブを以って解散していたが](https://ja.wikipedia.org/wiki/角川大映撮影所 "wikilink")、解散から1年10ヶ月後に本作はリリースされた。同バンドの通算4枚目のアルバム『[Fish Inn](../Page/Fish_Inn.md "wikilink")』（[1984年](../Page/1984年.md "wikilink")）を、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[ビル・ラズウェル](https://ja.wikipedia.org/wiki/ビル・ラズウェル "wikilink")およびがリミックスを施した作品であり、リリース当初はビルが初めて日本のロックバンドの作品をプロデュースした事で話題となった\[1\]。
+ザ・スターリンは[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")の[大映スタジオでのラストライブを以って解散していたが](https://ja.wikipedia.org/wiki/角川大映撮影所 "wikilink")、解散から1年10ヶ月後に本作はリリースされた。同バンドの通算4枚目のアルバム『[Fish Inn](../Page/Fish_Inn.md "wikilink")』（[1984年](../Page/1984年.md "wikilink")）を、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink")およびがリミックスを施した作品であり、リリース当初はビルが初めて日本のロックバンドの作品をプロデュースした事で話題となった\[1\]。
 
 リミックスに際してはのギターが加えられ、アレンジャーとして[難波弘之](../Page/難波弘之.md "wikilink")も参加している。また、一部遠藤のボーカルも録音し直され、歌詞も変更されている。
 
@@ -48,7 +48,7 @@
 
 ### 参加ミュージシャン
 
-  - [ビル・ラズウェル](https://ja.wikipedia.org/wiki/ビル・ラズウェル "wikilink") - 6弦ベース
+  - [ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink") - 6弦ベース
 
   - \- ギター
 

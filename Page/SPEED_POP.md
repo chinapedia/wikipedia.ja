@@ -3,7 +3,7 @@
 
 『**SPEED POP**』（スピード ポップ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")のメジャーデビュー・アルバムである。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[プラチナム・レコード](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")よりリリースされた。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")よりリリースされた。
 
 [2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")に[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")より、[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[東芝EMIより再リリースされている](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
@@ -205,7 +205,7 @@ SPEED POP Anthology Demo & Bootleg
 ## スタッフ
 
   - [ディレクター](../Page/ディレクター.md "wikilink")
-    Hiro Inoguchi / [Platinum Records](https://ja.wikipedia.org/wiki/プラチナム・レコード "wikilink")
+    Hiro Inoguchi / [Platinum Records](../Page/プラチナム・レコード.md "wikilink")
   - [ミキシング](../Page/レコーディング・エンジニア.md "wikilink")
     Michael Zimmerling（\#1～11）
   - [レコーディング](../Page/レコーディング・エンジニア.md "wikilink")

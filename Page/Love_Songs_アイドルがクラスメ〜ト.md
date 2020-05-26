@@ -94,7 +94,7 @@
 
 ### SIMPLE2000シリーズvol.63 もぎたて水着！女まみれのTHE水泳大会
 
-[2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発売された[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。開発は[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")。
+[2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に発売された[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。開発は[タムソフト](../Page/タムソフト.md "wikilink")。
 
 [アイドル水泳大会](../Page/アイドル水泳大会.md "wikilink")をモチーフにしており、『Love Songs』のヒロイン8人を含む10人の女性キャラクターのうち1人を操作して、他のキャラクターとミニゲームで対決する。
 

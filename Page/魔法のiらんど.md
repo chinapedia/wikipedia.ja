@@ -20,7 +20,7 @@
       - [7月5日](../Page/7月5日.md "wikilink")ごろ - 「魔法のiらんど」データサーバーへの[不正アクセス](https://ja.wikipedia.org/wiki/不正アクセス "wikilink")に遭い、閲覧者が[トロイの木馬に感染するよう改竄された](../Page/トロイの木馬_\(ソフトウェア\).md "wikilink")。このため、[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")午前10時より緊急[メンテナンス](../Page/メンテナンス.md "wikilink")が行われ、[7月17日](../Page/7月17日.md "wikilink")午後2時頃、約196時間ぶりにサービスを再開し、不正アプリケーションの配布が行われていたことを認める声明文を各ページに掲載した。
       - [10月25日](../Page/10月25日.md "wikilink") - 株式会社[メディアワークス](../Page/メディアワークス.md "wikilink")が魔法のiらんど文庫を創刊。
       - [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - 映画『[恋空](../Page/恋空.md "wikilink")』公開。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月 - アスミック・エース エンタテインメント株式会社と提携し、ビデオレーベル「魔法のiらんどDVD」からケータイドラマ『[teddy bear](https://ja.wikipedia.org/wiki/Teddy_bear_\(小説\) "wikilink")』と『幼なじみ』をリリース。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月 - アスミック・エース エンタテインメント株式会社と提携し、ビデオレーベル「魔法のiらんどDVD」からケータイドラマ『[teddy bear](../Page/Teddy_bear_\(小説\).md "wikilink")』と『幼なじみ』をリリース。
   - 2010年3月4日 - 株式会社アスキー・メディアワークスが発行済み株式の70%（後に100%）を取得し、親会社となる。
   - [2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - 株式会社アスキー・メディアワークスに吸収[合併され解散](https://ja.wikipedia.org/wiki/企業合併 "wikilink")、同社のブランドとなる。
   - [2013年](../Page/2013年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - 株式会社アスキー・メディアワークスが株式会社[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")に吸収合併され、魔法のiらんどはKADOKAWAのブランドとなる。
@@ -74,7 +74,7 @@
   - [携帯彼氏](https://ja.wikipedia.org/wiki/携帯彼氏 "wikilink")
   - [激恋](https://ja.wikipedia.org/wiki/激恋〜運命のラブストーリー〜 "wikilink")
   - [金魚倶楽部](https://ja.wikipedia.org/wiki/金魚倶楽部 "wikilink")
-  - [Teddy bear (小説)](https://ja.wikipedia.org/wiki/Teddy_bear_\(小説\) "wikilink")
+  - [Teddy bear (小説)](../Page/Teddy_bear_\(小説\).md "wikilink")
   - [恋愛約束](https://ja.wikipedia.org/wiki/恋愛約束 "wikilink")
 
 ## 著作権規約

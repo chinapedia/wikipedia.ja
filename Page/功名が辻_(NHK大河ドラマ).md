@@ -5,7 +5,7 @@
 
 ## 概要
 
-原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")が1960年代初頭に執筆した[同名小説](../Page/功名が辻.md "wikilink")\[1\]で、司馬作品の大河ドラマ化は6作目となる。主人公である[千代とその夫](https://ja.wikipedia.org/wiki/見性院_\(山内一豊室\) "wikilink")・[山内一豊](../Page/山内一豊.md "wikilink")は[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")と[上川隆也](../Page/上川隆也.md "wikilink")がそれぞれ演じた。脚本は大河ドラマは初執筆となる[大石静](../Page/大石静.md "wikilink")であった。音楽担当は[1996年](../Page/1996年.md "wikilink")の『[秀吉](../Page/秀吉_\(NHK大河ドラマ\).md "wikilink")』と同じ[小六禮次郎](../Page/小六禮次郎.md "wikilink")である。
+原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")が1960年代初頭に執筆した[同名小説](../Page/功名が辻.md "wikilink")\[1\]で、司馬作品の大河ドラマ化は6作目となる。主人公である[千代とその夫](../Page/見性院_\(山内一豊室\).md "wikilink")・[山内一豊](../Page/山内一豊.md "wikilink")は[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")と[上川隆也](../Page/上川隆也.md "wikilink")がそれぞれ演じた。脚本は大河ドラマは初執筆となる[大石静](../Page/大石静.md "wikilink")であった。音楽担当は[1996年](../Page/1996年.md "wikilink")の『[秀吉](../Page/秀吉_\(NHK大河ドラマ\).md "wikilink")』と同じ[小六禮次郎](../Page/小六禮次郎.md "wikilink")である。
 
 オープニングは「夫婦の絆を意味する一本の糸が複雑にさまざまに変化し、その移り変わりの背景に、色々な素材が登場しては消えて行く。その流れが、夫婦の絆と、それを取り巻く事象を意味している」というコンセプトで製作された\[2\]。
 
@@ -23,7 +23,7 @@
 
 ## あらすじ
 
-「[桶狭間の戦い](../Page/桶狭間の戦い.md "wikilink")」直前、風雲急を告げる[尾張領内で一人の浪人が一人の少女を助ける](../Page/尾張国.md "wikilink")。少女は両親を戦によって失い、浪人は[岩倉](https://ja.wikipedia.org/wiki/岩倉城 "wikilink")[織田氏の家老だった父を](https://ja.wikipedia.org/wiki/織田氏#室町戦国〜安土桃山時代 "wikilink")[織田信長](../Page/織田信長.md "wikilink")によって攻め滅ぼされていた。少女の名は[千代](https://ja.wikipedia.org/wiki/見性院_\(山内一豊室\) "wikilink")、浪人の名は[山内伊右衛門一豊](../Page/山内一豊.md "wikilink")。一豊は古参の家臣・五藤吉兵衛、祖父江新右衛門とともに、信長の首を狙うため尾張領内をさすらい歩いていた。
+「[桶狭間の戦い](../Page/桶狭間の戦い.md "wikilink")」直前、風雲急を告げる[尾張領内で一人の浪人が一人の少女を助ける](../Page/尾張国.md "wikilink")。少女は両親を戦によって失い、浪人は[岩倉](https://ja.wikipedia.org/wiki/岩倉城 "wikilink")[織田氏の家老だった父を](https://ja.wikipedia.org/wiki/織田氏#室町戦国〜安土桃山時代 "wikilink")[織田信長](../Page/織田信長.md "wikilink")によって攻め滅ぼされていた。少女の名は[千代](../Page/見性院_\(山内一豊室\).md "wikilink")、浪人の名は[山内伊右衛門一豊](../Page/山内一豊.md "wikilink")。一豊は古参の家臣・五藤吉兵衛、祖父江新右衛門とともに、信長の首を狙うため尾張領内をさすらい歩いていた。
 
 戦いののち、信長の草履取りとして働いていた木下藤吉郎（後の[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")）の[与力となった一豊と](https://ja.wikipedia.org/wiki/与力#中世 "wikilink")、戦を嫌って[美濃国](../Page/美濃国.md "wikilink")へと去っていった千代。
 
@@ -33,7 +33,7 @@
 
 ### 主人公
 
-  - [千代](https://ja.wikipedia.org/wiki/見性院_\(山内一豊室\) "wikilink")（ちよ）
+  - [千代](../Page/見性院_\(山内一豊室\).md "wikilink")（ちよ）
     演：[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（少女期：[永井杏](../Page/永井杏.md "wikilink")）
     一豊の正室。一豊の死後は出家して**見性院**（けんしょういん）と名乗る。
     発想の閃きは秀吉・信長といった多くの武将を魅了し、画期的な機転で夫を助けた。父母の命を奪った「戦」を嫌っている。
@@ -779,7 +779,7 @@
 <td><p>2月12日</p></td>
 <td><p>山内家旗揚げ</p></td>
 <td><p>加藤拓</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明智城_(美濃国可児郡)" title="wikilink">明智城跡</a>（岐阜県<a href="../Page/可児市.md" title="wikilink">可児市</a>）<br />
+<td><p><a href="../Page/明智城_(美濃国可児郡).md" title="wikilink">明智城跡</a>（岐阜県<a href="../Page/可児市.md" title="wikilink">可児市</a>）<br />
 光秀公供養塔（岐阜県<a href="../Page/恵那市.md" title="wikilink">恵那市</a>）</p></td>
 </tr>
 <tr class="odd">

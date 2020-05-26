@@ -73,7 +73,7 @@
   - [金原千恵子](../Page/金原千恵子.md "wikilink")ストリングス - [ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")(\#3)
   - 高桑英世 - [フルート](../Page/フルート.md "wikilink")(\#3)
   - 山根公男 - [クラリネット](../Page/クラリネット.md "wikilink")(\#3)
-  - [吉永雅人](https://ja.wikipedia.org/wiki/吉永雅人 "wikilink")、萩原顕彰 - [ホルン](../Page/ホルン.md "wikilink")(\#3)
+  - [吉永雅人](../Page/吉永雅人.md "wikilink")、萩原顕彰 - [ホルン](../Page/ホルン.md "wikilink")(\#3)
   - 西村浩二、奥村晶 - [トランペット](../Page/トランペット.md "wikilink")(\#5,8)
   - [山本拓夫](../Page/山本拓夫.md "wikilink") - [サックス](../Page/サクソフォーン.md "wikilink")(\#5,8)
   - [SIMON HALE](https://ja.wikipedia.org/wiki/w:Simon_Hale "wikilink") - [指揮者](../Page/指揮者.md "wikilink")(\#7)

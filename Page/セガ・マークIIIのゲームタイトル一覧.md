@@ -102,7 +102,7 @@
   - 9月23日 [孔雀王](../Page/孔雀王.md "wikilink")（セガ、4Mカセット）◎
   - 10月1日 [R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")（セガ、4Mカセット）★◎
   - 10月1日 [ダブルドラゴン](../Page/ダブルドラゴンシリーズ.md "wikilink")（セガ、2Mカセット）◎
-  - 10月15日 [イース](https://ja.wikipedia.org/wiki/イースI "wikilink")（セガ、2Mカセット）◎
+  - 10月15日 [イース](../Page/イースI.md "wikilink")（セガ、2Mカセット）◎
   - 10月29日 [スポーツパッドサッカー](https://ja.wikipedia.org/wiki/スポーツパッドサッカー "wikilink")（セガ、1Mカセット）◎
   - 12月1日 [超音戦士ボーグマン](../Page/超音戦士ボーグマン.md "wikilink")（セガ、1Mカセット）◎
   - 日付不明 [ゲームでチェック！交通安全](https://ja.wikipedia.org/wiki/ゲームでチェック！交通安全 "wikilink")（セガ) ※店舗では販売していません。
@@ -168,7 +168,7 @@
   - 4月不日 [American Pro Football](https://ja.wikipedia.org/wiki/American_Pro_Football "wikilink")（セガ、256Kカセット）
   - 4月不日 [Poseidon Wars 3D](https://ja.wikipedia.org/wiki/Poseidon_Wars_3D "wikilink")（セガ、256Kカセット）
   - 4月不日 [ラスタン・サーガ](https://ja.wikipedia.org/wiki/ラスタン・サーガ "wikilink")（タイトー、256Kカセット）
-  - 5月31日 [獣王記](https://ja.wikipedia.org/wiki/獣王記 "wikilink")（セガ、256Kカセット）
+  - 5月31日 [獣王記](../Page/獣王記.md "wikilink")（セガ、256Kカセット）
   - 5月不日 [カリフォルニアゲームス](https://ja.wikipedia.org/wiki/カリフォルニアゲームス "wikilink")（セガ、256Kカセット）
   - 5月不日 [R.C. Grand Prix](https://ja.wikipedia.org/wiki/R.C._Grand_Prix "wikilink")（セガ、256Kカセット）
   - 5月不日 [Time Soldiers](https://ja.wikipedia.org/wiki/Time_Soldiers "wikilink") [(バトル フィールド)](https://ja.wikipedia.org/wiki/\(バトル_フィールド\) "wikilink")（セガ、256Kカセット

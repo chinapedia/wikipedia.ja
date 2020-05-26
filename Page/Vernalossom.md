@@ -651,7 +651,7 @@ AKB48\[3\]・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](h
   - [鈴木まりや](https://ja.wikipedia.org/wiki/鈴木まりや "wikilink") - ドレスコードへ移籍（現在はフレイヴ エンターテインメントに所属）。
   - [高城亜樹](https://ja.wikipedia.org/wiki/高城亜樹 "wikilink") - ビスケットエンターティメント・ワタナベエンターテインメント・フリー期間を経て、[アイエス・フィールド](https://ja.wikipedia.org/wiki/アイエス・フィールド "wikilink")へ移籍。
   - [田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink") - [セントラルへ移籍](../Page/セントラルグループ.md "wikilink")。
-  - [中田ちさと](https://ja.wikipedia.org/wiki/中田ちさと "wikilink") - 一時[Mousa](https://ja.wikipedia.org/wiki/Mousa "wikilink")に在籍、2015年10月1日復帰、2017年4月24日に卒業。
+  - [中田ちさと](../Page/中田ちさと.md "wikilink") - 一時[Mousa](https://ja.wikipedia.org/wiki/Mousa "wikilink")に在籍、2015年10月1日復帰、2017年4月24日に卒業。
   - [仲谷明香](../Page/仲谷明香.md "wikilink") - Mousa・フリー期間を経て、[アミュレート](https://ja.wikipedia.org/wiki/アミュレート "wikilink")へ移籍。
   - [永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink") - アービングへ移籍。
   - [成瀬理沙](../Page/成瀬理沙.md "wikilink")

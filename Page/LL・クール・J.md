@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td><p>1992</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トイズ_(映画)" title="wikilink">トイズ</a><br />
+<td><p><a href="../Page/トイズ_(映画).md" title="wikilink">トイズ</a><br />
 <em>Toys</em></p></td>
 <td><p>パトリック・ゼヴォ</p></td>
 <td></td>

@@ -81,7 +81,7 @@
         作曲：CREA / 編曲：HIKARI
 17. **Humming 7/4**
       -
-        作曲：CREA / 編曲：[久保田光太郎](https://ja.wikipedia.org/wiki/久保田光太郎 "wikilink")
+        作曲：CREA / 編曲：[久保田光太郎](../Page/久保田光太郎.md "wikilink")
 
 ### DISC2 (DVD)
 

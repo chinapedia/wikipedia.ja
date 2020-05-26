@@ -35,7 +35,7 @@ A面はマッドスタジオでのスタジオ録音による音源、B面は[19
 
 ## アートワーク
 
-[ジャケットイラストは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[宮西計三](https://ja.wikipedia.org/wiki/宮西計三 "wikilink")による\[16\]。これは当時遠藤が知り合いの編集者から漫画雑誌『[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")』に連載していた漫画家の副業として紹介されて実現したものである\[17\]。
+[ジャケットイラストは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[漫画家](../Page/漫画家.md "wikilink")の[宮西計三](https://ja.wikipedia.org/wiki/宮西計三 "wikilink")による\[16\]。これは当時遠藤が知り合いの編集者から漫画雑誌『[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")』に連載していた漫画家の副業として紹介されて実現したものである\[17\]。
 
 ## ツアー
 

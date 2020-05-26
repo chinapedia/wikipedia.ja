@@ -133,7 +133,7 @@
 
 :\* 小夜 - [本城ゆき](https://ja.wikipedia.org/wiki/本城ゆき "wikilink")
 
-:\* 間部信玄 - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+:\* 間部信玄 - [楠年明](../Page/楠年明.md "wikilink")
 
 :\* 米倉小太郎 - [谷口孝史](../Page/谷口高史.md "wikilink")
 

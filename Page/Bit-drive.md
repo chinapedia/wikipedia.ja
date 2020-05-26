@@ -14,7 +14,7 @@
   - 1999年4月27日 - ソニーが、第1種通信事業免許申請（同年6月24日、免許取得）。
   - 2000年7月 - WLLサービス開始（bit-driveとしてサービス開始）。
   - 2000年7月 - ネットワークサーバー「Digital Gate」の提供開始。
-  - 2001年7月 - [アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")を利用したADSLサービス「ADSLpro」を、[首都圏および](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[大阪](../Page/大阪.md "wikilink")で提供開始。
+  - 2001年7月 - [アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")を利用したADSLサービス「ADSLpro」を、[首都圏および](../Page/首都圏_\(日本\).md "wikilink")[大阪](../Page/大阪.md "wikilink")で提供開始。
   - 2001年9月 - DSLサービスに「ADSL light」「SDSLlight」「SDSLpro」を追加。WLLサービスは1.5Mbpsから10Mbpsに増速。
   - 2001年10月 - ウイルスチェックゲートウェイサービスの提供開始。
   - 2002年5月 - 「ADSL 8M pro」サービスを開始。

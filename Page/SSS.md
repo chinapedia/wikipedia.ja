@@ -6,7 +6,7 @@
 ## 科学・技術
 
   - [サブサーフェイス・スキャタリング](../Page/サブサーフェイス・スキャタリング.md "wikilink") (Subsurface scattering) の略
-  - ソフトウェア・サービス・システムの略。[超流通](https://ja.wikipedia.org/wiki/超流通 "wikilink")を参照。
+  - ソフトウェア・サービス・システムの略。[超流通](../Page/超流通.md "wikilink")を参照。
   - [洞不全症候群](../Page/洞不全症候群.md "wikilink") (Sick sinus syndrome) の略。
   - [サイディング・スプリングサーベイ](https://ja.wikipedia.org/wiki/サイディング・スプリングサーベイ "wikilink") (Siding Spring Survey) の略。
 

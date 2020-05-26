@@ -406,7 +406,7 @@
     本作の[サウンドトラック](../Page/サウンドトラック.md "wikilink")。海外歌手を起用したボーカルアレンジ曲がメインで、全11曲内、2曲がインストアレンジ曲となっている。最終トラックには、ゲーム中の使用BGMの原曲をゲーム進行に沿った形でメドレー形式で編集・収録した『THE WORLD OF MOTHER』が約16分に渡り収録されている。
     収録された『Eight Melodies』（主人公たちが集めるメロディ及びエンディング）は本作のCMのBGMとして使用された他、[教育出版](../Page/教育出版.md "wikilink")が[1992年](../Page/1992年.md "wikilink")に発行した小学6年生向けの音楽の教科書『新版 音楽6』には楽譜が掲載された。
     [2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")には[デジタルリマスター](../Page/デジタルリマスター.md "wikilink")版が[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")から発売された。『THE WORLD OF MOTHER』の内容が一部変更されているほか、シリーズ2作目『MOTHER2 ギーグの逆襲』の曲『Smiles And Tears』のデモバージョンが追加収録されている。
-  - songs of instrumental（[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")、[SAKEROCK](../Page/SAKEROCK.md "wikilink")、[カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink")）
+  - songs of instrumental（[2006年](../Page/2006年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")、[SAKEROCK](../Page/SAKEROCK.md "wikilink")、[カクバリズム](../Page/カクバリズム.md "wikilink")）
     [インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")「SAKEROCK」の2ndアルバム。5曲目に『Eight Melodies』のカバー曲が収録されている。
 
 ### ゲームソフト

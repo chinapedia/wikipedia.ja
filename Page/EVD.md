@@ -28,7 +28,7 @@ EVDを日本語訳すると**強化多用途ディスク**となり、[DVD](../P
   - [ブラックマスク2](https://ja.wikipedia.org/wiki/ブラックマスク2 "wikilink")（2002年）
   - [ビッグ・ママズ・ハウス](https://ja.wikipedia.org/wiki/ビッグ・ママズ・ハウス "wikilink")（2002年）
   - [HERO ディレクターズカット版](../Page/HERO_\(2002年の映画\).md "wikilink")（2002年）
-  - [LOVERS](https://ja.wikipedia.org/wiki/LOVERS_\(映画\) "wikilink")（原題『十面埋伏』、House of Flying Daggers）（2004年）
+  - [LOVERS](../Page/LOVERS_\(映画\).md "wikilink")（原題『十面埋伏』、House of Flying Daggers）（2004年）
 
 ## 脚注
 

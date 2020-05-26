@@ -5,7 +5,7 @@
 
 ## 概要
 
-「[東京コーリング](https://ja.wikipedia.org/wiki/東京コーリング "wikilink")」「[FMモーニング東京](https://ja.wikipedia.org/wiki/FMモーニング東京 "wikilink")」など、長年に亘り午前7時からの放送だった、TOKYO FM (FM東京) の朝の情報生ワイド番組が、前番組「[おはようTOKYOITE](https://ja.wikipedia.org/wiki/おはようTOKYOITE "wikilink")（トーキョーアイト）」から6時45分開始になり、さらに時間を早め、午前6時スタートとした。メインキャスターには[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")の[橋本克彦](https://ja.wikipedia.org/wiki/橋本克彦 "wikilink")を起用。番組開始時には東京都内の駅や通勤電車に「朝起きたら、あなたに伝えたいことがある…BIG BANG TOKYO」のキャッチフレーズが記されたポスターや、中吊り広告が多く掲載された。
+「[東京コーリング](https://ja.wikipedia.org/wiki/東京コーリング "wikilink")」「[FMモーニング東京](../Page/FMモーニング東京.md "wikilink")」など、長年に亘り午前7時からの放送だった、TOKYO FM (FM東京) の朝の情報生ワイド番組が、前番組「[おはようTOKYOITE](https://ja.wikipedia.org/wiki/おはようTOKYOITE "wikilink")（トーキョーアイト）」から6時45分開始になり、さらに時間を早め、午前6時スタートとした。メインキャスターには[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")の[橋本克彦](https://ja.wikipedia.org/wiki/橋本克彦 "wikilink")を起用。番組開始時には東京都内の駅や通勤電車に「朝起きたら、あなたに伝えたいことがある…BIG BANG TOKYO」のキャッチフレーズが記されたポスターや、中吊り広告が多く掲載された。
 
 番組の内容は、朝一番のニュース、朝刊紙面紹介、交通情報、天気予報。またJFN系列各局からのトピックスや海外情報などを伝える一方で、1992年より同局が展開した高い支持を集めた「JAPANESE POPS REFRAIN」キャンペーンで、[聴取率](../Page/聴取率.md "wikilink")調査週間 (スペシャルウィーク) には[電話リクエストなどを行うなどの展開が行われた](../Page/電リク.md "wikilink")。
 

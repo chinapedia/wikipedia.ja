@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に株式移転により、株式会社博報堂DYホールディングスが設立された。[2003年](../Page/2003年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")、[大広](../Page/大広.md "wikilink")、[読売広告社](../Page/読売広告社.md "wikilink")のメディア事業を統合、[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")を設立した。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")　本社事務所およびグループ企業本社事務所を、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内[赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")に移転。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")　本社事務所およびグループ企業本社事務所を、[赤坂サカス](../Page/赤坂サカス.md "wikilink")内[赤坂Bizタワー](../Page/赤坂Bizタワー.md "wikilink")に移転。
 
 ## AD+VENTURE
 

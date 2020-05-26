@@ -44,7 +44,7 @@
 
 映像および音声データの多重化記録フォーマットには、[MPEG2システムのMPEG](../Page/MPEG-2システム.md "wikilink")2 TSを採用している\[6\]。システムの総ビットレートの最大は54Mbps（うち映像ビットレートの最大は40Mbps）となっている。
 
-DVDとの親和性がある「**HDMV**」（high definition movie mode）と高度なインタラクティブ機能をプログラム可能な「**[BD-J](https://ja.wikipedia.org/wiki/BD-J "wikilink")**」（Blu-ray Disc Java）の2つの機能がある。
+DVDとの親和性がある「**HDMV**」（high definition movie mode）と高度なインタラクティブ機能をプログラム可能な「**[BD-J](../Page/BD-J.md "wikilink")**」（Blu-ray Disc Java）の2つの機能がある。
 
 「BD-J」は欧米のデジタル放送用インタラクティブ規格、[MHP](https://ja.wikipedia.org/wiki/MHP "wikilink")、[OCAP](https://ja.wikipedia.org/wiki/OCAP "wikilink")等で採用されている[Java](https://ja.wikipedia.org/wiki/Java "wikilink")規格をベースに開発された。このため、特定の[OSに依存しないで互換性を取ることができる](../Page/オペレーティングシステム.md "wikilink")。
 

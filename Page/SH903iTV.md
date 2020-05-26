@@ -41,11 +41,11 @@
   - ミュージック機能　[SD-Audio](../Page/SD-Audio.md "wikilink")(AAC)/[AAC](../Page/AAC.md "wikilink")/[着うたフル](../Page/着うたフル.md "wikilink")
   - AQUOSケータイで本体が液晶側を挟み込むヒンジ構造になっているのは、現在のところ本機と[SH-01A](https://ja.wikipedia.org/wiki/SH-01A "wikilink")、[SH-07A](https://ja.wikipedia.org/wiki/SH-07A "wikilink")のみである。
   - 同機以降、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")冬モデルの[SH-01A](https://ja.wikipedia.org/wiki/SH-01A "wikilink")までドコモ向けのAQUOSケータイは[テレビコマーシャルが放映されなかった](../Page/コマーシャルメッセージ.md "wikilink")。
-  - AQUOSケータイで初めて、15KBのFeliCaチップ及びiC通信を搭載。[au向けの](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[W61SH](https://ja.wikipedia.org/wiki/W61SH "wikilink")発売までは、Faver2.0に対応した唯一のAQUOSケータイであった。
+  - AQUOSケータイで初めて、15KBのFeliCaチップ及びiC通信を搭載。[au向けの](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[W61SH](../Page/W61SH.md "wikilink")発売までは、Faver2.0に対応した唯一のAQUOSケータイであった。
 
 ## 歴史
 
-  - [2006年](../Page/2006年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink"): [D903i](../Page/D903i.md "wikilink")・[D903iTV](../Page/D903iTV.md "wikilink")・[F903i](../Page/F903i.md "wikilink")・[F903iX HIGH-SPEED](../Page/F903iX_HIGH-SPEED.md "wikilink")・[N903i](../Page/N903i.md "wikilink")・[N902iL](../Page/N902iL.md "wikilink")・[P903i](../Page/P903i.md "wikilink")・[P903iTV](../Page/P903iTV.md "wikilink")・[P903iX HIGH-SPEED](../Page/P903iX_HIGH-SPEED.md "wikilink")・[SH903i](../Page/SH903i.md "wikilink")・SH903iTV・[SO903i](../Page/SO903i.md "wikilink")・[SIMPURE L1](../Page/SIMPURE_L1.md "wikilink")・[SIMPURE N1の開発発表](https://ja.wikipedia.org/wiki/SIMPURE_N1 "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink"): [D903i](../Page/D903i.md "wikilink")・[D903iTV](../Page/D903iTV.md "wikilink")・[F903i](../Page/F903i.md "wikilink")・[F903iX HIGH-SPEED](../Page/F903iX_HIGH-SPEED.md "wikilink")・[N903i](../Page/N903i.md "wikilink")・[N902iL](../Page/N902iL.md "wikilink")・[P903i](../Page/P903i.md "wikilink")・[P903iTV](../Page/P903iTV.md "wikilink")・[P903iX HIGH-SPEED](../Page/P903iX_HIGH-SPEED.md "wikilink")・[SH903i](../Page/SH903i.md "wikilink")・SH903iTV・[SO903i](../Page/SO903i.md "wikilink")・[SIMPURE L1](../Page/SIMPURE_L1.md "wikilink")・[SIMPURE N1の開発発表](../Page/SIMPURE_N1.md "wikilink")。
   - 2006年[11月24日](../Page/11月24日.md "wikilink")：[技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink") (TELEC) 通過。
   - 2006年[11月30日](../Page/11月30日.md "wikilink")：[電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE) 通過。
   - [2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") : 発売開始。

@@ -1,7 +1,7 @@
 > この記事は[藤子・F・不二雄プロ](https://ja.wikipedia.org/wiki/藤子・F・不二雄プロ)から翻訳されています。
 
 
-**株式会社藤子・F・不二雄プロ**（ふじこエフふじおプロ）は、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")が立ち上げた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")制作会社。代表取締役社長は[伊藤善章](https://ja.wikipedia.org/wiki/伊藤善章 "wikilink")（元[小学館プロダクション取締役](../Page/小学館集英社プロダクション.md "wikilink")）。所在地は[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。通称「**藤子プロ**」。
+**株式会社藤子・F・不二雄プロ**（ふじこエフふじおプロ）は、[漫画家](../Page/漫画家.md "wikilink")の[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")が立ち上げた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")制作会社。代表取締役社長は[伊藤善章](https://ja.wikipedia.org/wiki/伊藤善章 "wikilink")（元[小学館プロダクション取締役](../Page/小学館集英社プロダクション.md "wikilink")）。所在地は[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")。通称「**藤子プロ**」。
 
 ## 概要
 

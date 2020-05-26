@@ -1452,9 +1452,9 @@
   - 05.03 GOING KOBE'08 神戸ワールド記念ホール
   - 05.30 下北沢CLUB251
   - 06.01 名古屋CLUB QUATTRO/[SAKAE SP-RING](https://ja.wikipedia.org/wiki/SAKAE_SP-RING "wikilink") 2008 ZIPFM
-  - 07.25 - 宮城Zepp MATCH UP '08 SUMMER SERIES ([HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink"))
+  - 07.25 - 宮城Zepp MATCH UP '08 SUMMER SERIES ([HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink"))
   - 08.14 - 名古屋E.L.L.[175R](../Page/175R.md "wikilink") 2MAN
-  - 08.15 -Zepp Nagoya TREASURE05X ([HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink"))
+  - 08.15 -Zepp Nagoya TREASURE05X ([HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink"))
   - 11.12 - NHK BS2「最新ヒット ウエンズデーJ-POP」ライブ＆公開生放送
   - 11.27 - 渋谷O-EAST『[鶴](https://ja.wikipedia.org/wiki/鶴 "wikilink") vs ONE OK ROCK』
 

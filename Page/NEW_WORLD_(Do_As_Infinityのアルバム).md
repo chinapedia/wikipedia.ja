@@ -53,7 +53,7 @@
   - **[プログラミング](../Page/プログラミング.md "wikilink")(Programming)** ： [中山信彦](https://ja.wikipedia.org/wiki/中山信彦 "wikilink")・[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")・長尾大・[亀田誠治](../Page/亀田誠治.md "wikilink")
   - **[ベース](../Page/ベース_\(弦楽器\).md "wikilink")(Bass)** ： 亀田誠治・[渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")・[小池道昭](https://ja.wikipedia.org/wiki/小池道昭 "wikilink")
   - **[キーボード](../Page/キーボード_\(楽器\).md "wikilink")(Keyboard)** ： [上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")
-  - **[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")(Drums)** ： [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")・[そうる透](../Page/そうる透.md "wikilink")・[倉内充](https://ja.wikipedia.org/wiki/倉内充 "wikilink")・[村石雅行](../Page/村石雅行.md "wikilink")
+  - **[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")(Drums)** ： [河村智康](../Page/河村智康.md "wikilink")・[そうる透](../Page/そうる透.md "wikilink")・[倉内充](https://ja.wikipedia.org/wiki/倉内充 "wikilink")・[村石雅行](../Page/村石雅行.md "wikilink")
   - **[ホーン](https://ja.wikipedia.org/wiki/ホーン "wikilink")(Horn)** ： [Yokan](https://ja.wikipedia.org/wiki/Yokan "wikilink")
   - **[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")(Str.)** ： [弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")グループ・[金原千恵子](../Page/金原千恵子.md "wikilink")グループ
   - **ギター・テクニシャン(Guitar Technician)** ： [小黒康之](https://ja.wikipedia.org/wiki/小黒康之 "wikilink")

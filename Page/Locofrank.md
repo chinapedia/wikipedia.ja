@@ -1043,7 +1043,7 @@ XQEJ-1006（通常盤）</p></td>
   - 2005年12月31日 - COUNTDOWN JAPAN 05/06
   - 2006年04月30日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")06
   - 2006年07月29日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '06
-  - 2006年08月05日 - [MUSIC BARパロパロ](https://ja.wikipedia.org/wiki/MUSIC_BARパロパロ "wikilink") '06トロロロックフェスティバル
+  - 2006年08月05日 - [MUSIC BARパロパロ](../Page/MUSIC_BARパロパロ.md "wikilink") '06トロロロックフェスティバル
   - 2006年08月19日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2006 in EZO
   - 2006年12月29日,31日 - COUNTDOWN JAPAN 06/07
   - 2007年08月04日 - [八食サマーフリーライブ](https://ja.wikipedia.org/wiki/八食サマーフリーライブ "wikilink") 2007

@@ -122,7 +122,7 @@
   - 編集 - 花井正明
   - 録音 - 二宮健治
   - 監督 - [永丘昭典](../Page/永丘昭典.md "wikilink")
-  - 原画 - [進藤満尾](https://ja.wikipedia.org/wiki/進藤満尾 "wikilink")、[内山まさゆき](https://ja.wikipedia.org/wiki/内山正幸 "wikilink")、[平野俊貴](../Page/平野俊貴.md "wikilink") 、[平山智](../Page/平山智_\(アニメーター\).md "wikilink")、[須田正己](../Page/須田正己.md "wikilink")、[北原健雄](../Page/北原健雄.md "wikilink")、前田実、[渡辺浩](../Page/わたなべひろし.md "wikilink") 他
+  - 原画 - [進藤満尾](../Page/進藤満尾.md "wikilink")、[内山まさゆき](../Page/内山正幸.md "wikilink")、[平野俊貴](../Page/平野俊貴.md "wikilink") 、[平山智](../Page/平山智_\(アニメーター\).md "wikilink")、[須田正己](../Page/須田正己.md "wikilink")、[北原健雄](../Page/北原健雄.md "wikilink")、前田実、[渡辺浩](../Page/わたなべひろし.md "wikilink") 他
   - 動画 - 玉沢君子、こむら直美、奥野明子、多田雅治、黒見紗子、岩田せつ子 他
   - 動画チェッカー - 新井豊
   - ゼログラフ - 戸塚友子、酒井日出子

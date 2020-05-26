@@ -21,7 +21,7 @@
 
 現在の放送時間は15:50 - 17:53であるが、編成上は15:50 - 16:50を第1部、16:50 - 17:53を第2部と分けている。ただし、番組進行上、実際に第1・2部の間に区切りが入ることはない\[3\]。また、18時台のニュースを内包していた時期には『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』（全国ニュース）を第3部、『[ニュースプラス1信州](../Page/ニュースプラス1信州.md "wikilink")』（ローカルニュース）を第4部と位置付けていた。
 
-16時台は料理と特集コーナー（生活情報）を中心に編成され、17時台は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』の[関東ローカル](../Page/関東ローカル.md "wikilink")の時間帯に放送される特集コーナーを数日遅れで、[時差ネットしている](../Page/遅れネット.md "wikilink")（本番組はこれを「突撃\!Get情報」と称している）。また、後半にはレギュラーコーナーとニュース・天気予報を放送している。特別な事情がある場合には16:50で打ち切り、『news every.』の[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")に切り替える（『[NEWSリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』特報など）。または『news every.』を録画し、時差ネットで放送する。
+16時台は料理と特集コーナー（生活情報）を中心に編成され、17時台は『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』の[関東ローカル](../Page/関東ローカル.md "wikilink")の時間帯に放送される特集コーナーを数日遅れで、[時差ネットしている](../Page/遅れネット.md "wikilink")（本番組はこれを「突撃\!Get情報」と称している）。また、後半にはレギュラーコーナーとニュース・天気予報を放送している。特別な事情がある場合には16:50で打ち切り、『news every.』の[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")に切り替える（『[NEWSリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』特報など）。または『news every.』を録画し、時差ネットで放送する。
 
 ## 放送時間
 
@@ -125,7 +125,7 @@
   - [原山紅花](https://ja.wikipedia.org/wiki/原山紅花 "wikilink")○（2013年4月1日 - 2016年4月1日）
   - [横田光幸](../Page/横田光幸.md "wikilink")○（2008年8月22日 - 2016年8月26日）
   - [内田有紗](https://ja.wikipedia.org/wiki/内田有紗 "wikilink")○（月 - 木曜日、2016年1月6日 - 2018年3月29日）
-  - [厚芝智行](https://ja.wikipedia.org/wiki/厚芝智行 "wikilink")○（月 - 火曜日、2018年4月2日 - 2019年3月26日）
+  - [厚芝智行](../Page/厚芝智行.md "wikilink")○（月 - 火曜日、2018年4月2日 - 2019年3月26日）
   - [松井美幸](https://ja.wikipedia.org/wiki/松井美幸 "wikilink")○（月 - 木曜日、2008年4月 - 2015年12月24日、2017年4月3日 - 2019年9月26日）\[11\]
 
 #### コメンテーター
@@ -139,11 +139,11 @@
   - 北沢房子（[フリー](../Page/フリーランス.md "wikilink")[ライター](../Page/著作家.md "wikilink")）
   - 小出博治（長野国際親善クラブ会長）
   - [小林可奈子](https://ja.wikipedia.org/wiki/小林可奈子 "wikilink")（[アトランタ五輪](https://ja.wikipedia.org/wiki/アトランタ五輪 "wikilink")[MTB](https://ja.wikipedia.org/wiki/MTB "wikilink")日本代表）
-  - [小林節子](https://ja.wikipedia.org/wiki/小林節子_\(フリーアナウンサー\) "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
+  - [小林節子](../Page/小林節子_\(フリーアナウンサー\).md "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
   - [小長谷悠紀](https://ja.wikipedia.org/wiki/小長谷悠紀 "wikilink")（[長野大学](../Page/長野大学.md "wikilink")環境ツーリズム学部[准教授](../Page/准教授.md "wikilink")）\[12\]
   - 佐藤隆平（[キルト](https://ja.wikipedia.org/wiki/キルト "wikilink")[作家](../Page/作家.md "wikilink")）
   - [清水まなぶ](../Page/清水まなぶ.md "wikilink")（[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")）
-  - 杉野BEAT（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
+  - 杉野BEAT（[漫画家](../Page/漫画家.md "wikilink")）
   - 瀬川ナミ（ジャズダンサー）
   - [藤原浩](https://ja.wikipedia.org/wiki/藤原浩 "wikilink")（[フードアナリスト](https://ja.wikipedia.org/wiki/フードアナリスト "wikilink")）
   - [元川悦子](https://ja.wikipedia.org/wiki/元川悦子 "wikilink")（[スポーツライター](https://ja.wikipedia.org/wiki/スポーツライター "wikilink")）

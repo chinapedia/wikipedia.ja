@@ -810,7 +810,7 @@
 <tr class="even">
 <td><p><strong>14</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森潤也" title="wikilink">森潤也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鵬学園高等学校" title="wikilink">鵬学園高校</a></p></td>
+<td><p><a href="../Page/鵬学園高等学校.md" title="wikilink">鵬学園高校</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -943,7 +943,7 @@
 ### 下部組織所属選手
 
   - [松下幸平](../Page/松下幸平.md "wikilink")
-  - [鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(サッカー選手\) "wikilink")：[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")
+  - [鈴木大輔](../Page/鈴木大輔_\(サッカー選手\).md "wikilink")：[浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")
 
 ## ユニフォーム
 

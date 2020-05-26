@@ -67,7 +67,7 @@
 
   - [ERTMS](https://ja.wikipedia.org/wiki/ERTMS "wikilink")
       - [ETCS](../Page/ETCS.md "wikilink")
-      - [GSM-R](https://ja.wikipedia.org/wiki/GSM-R "wikilink")
+      - [GSM-R](../Page/GSM-R.md "wikilink")
   - [自動列車保安装置](../Page/自動列車保安装置.md "wikilink")
   - [列車集中制御装置](../Page/列車集中制御装置.md "wikilink") (CTC)
   - [自動列車停止装置](../Page/自動列車停止装置.md "wikilink") (ATS)

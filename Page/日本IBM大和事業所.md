@@ -52,7 +52,7 @@ IBM大和開発研究所 (Yamato Development Laboratory) 沿革\[4\]
   - Double-byte Technical Coordination Office (DTCO) アジア言語のサポートセンター - 1982
   - [マルチステーション5550](https://ja.wikipedia.org/wiki/マルチステーション5550 "wikilink")、[日本語DOS](https://ja.wikipedia.org/wiki/日本語DOS "wikilink")、文書プログラム - 1983
   - IBM 3270漢字エミュレーター、IBM 5250漢字エミュレーター
-  - [IBM JX](https://ja.wikipedia.org/wiki/IBM_JX "wikilink") - 1984
+  - [IBM JX](../Page/IBM_JX.md "wikilink") - 1984
   - [VM](https://ja.wikipedia.org/wiki/:en:VM_\(operating_system\) "wikilink")/[オフィスシステム](https://ja.wikipedia.org/wiki/IBM_OfficeVision#日本・韓国・台湾ではODPS "wikilink") (Office & Document Prosessing System、略称：[ODPS](https://ja.wikipedia.org/wiki/ODPS "wikilink")） - 1986
   - [IBM 4680](https://ja.wikipedia.org/wiki/:en:IBM_4683 "wikilink") ストア・システム日本版（5550を利用）、[IBM 4692](https://ja.wikipedia.org/wiki/:en:IBM_4694 "wikilink") POSワークステーション日本版 - 1986
   - **IBM4700金融機関通信システム 銀行用窓口通帳記帳端末機 -1985 (グッドデザイン賞受賞）**

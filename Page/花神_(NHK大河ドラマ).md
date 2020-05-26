@@ -341,7 +341,7 @@
   - [伊達宗城](../Page/伊達宗城.md "wikilink")
     演：[大木実](https://ja.wikipedia.org/wiki/大木実 "wikilink")
     宇和島藩8代藩主。蔵六と嘉蔵に砲台と蒸気船を造ることを命じる。
-  - [松根図書](https://ja.wikipedia.org/wiki/松根図書 "wikilink")
+  - [松根図書](../Page/松根図書.md "wikilink")
     演：[庄司永建](../Page/庄司永建.md "wikilink")
     宇和島藩家老。蒸気船が動いて喜んでいると、「船が動くのは当たり前です。動かない方が驚きです。当たり前にするのが技術というものです。」とたしなめられた。
   - [嘉蔵](../Page/前原巧山.md "wikilink") （前原巧山）

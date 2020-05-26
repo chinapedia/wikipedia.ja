@@ -31,7 +31,7 @@
 
 この番組の企画で生まれた香田晋の「[おかあさん](https://ja.wikipedia.org/wiki/おかあさん_\(香田晋の曲\) "wikilink")」は『クイズ\!ヘキサゴンII』のエンディングテーマに使用された。
 
-一方、「カシアス島田」と言う役名は島田紳助が作詞・プロデュースする際の名義として使用されている。2008年以降の 『クイズ\!ヘキサゴンII』関連において[ラクダとカッパ](https://ja.wikipedia.org/wiki/ラクダとカッパ "wikilink")「[ラクダになるぞ](https://ja.wikipedia.org/wiki/ラクダになるぞ "wikilink")」以降、それまでの島田紳助からカシアス島田に切り替えた。それとともに発表当時紳助名義だった[Pabo](https://ja.wikipedia.org/wiki/Pabo "wikilink")「[恋のヘキサゴン](https://ja.wikipedia.org/wiki/恋のヘキサゴン "wikilink")」と[羞恥心](../Page/羞恥心_\(ユニット\).md "wikilink")「[羞恥心](https://ja.wikipedia.org/wiki/羞恥心_\(曲\) "wikilink")」もカシアス名義として紹介されるようになった。
+一方、「カシアス島田」と言う役名は島田紳助が作詞・プロデュースする際の名義として使用されている。2008年以降の 『クイズ\!ヘキサゴンII』関連において[ラクダとカッパ](https://ja.wikipedia.org/wiki/ラクダとカッパ "wikilink")「[ラクダになるぞ](https://ja.wikipedia.org/wiki/ラクダになるぞ "wikilink")」以降、それまでの島田紳助からカシアス島田に切り替えた。それとともに発表当時紳助名義だった[Pabo](https://ja.wikipedia.org/wiki/Pabo "wikilink")「[恋のヘキサゴン](../Page/恋のヘキサゴン.md "wikilink")」と[羞恥心](../Page/羞恥心_\(ユニット\).md "wikilink")「[羞恥心](https://ja.wikipedia.org/wiki/羞恥心_\(曲\) "wikilink")」もカシアス名義として紹介されるようになった。
 
 ただし、ヘキサゴン関連以外の楽曲では引き続き紳助名義となる。例えば「[我が敵は我にあり](https://ja.wikipedia.org/wiki/我が敵は我にあり "wikilink")」の場合、羞恥心版はカシアス名義だが、[RYOEI](https://ja.wikipedia.org/wiki/RYOEI "wikilink")版は紳助名義となる。一方、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[人生が変わる1分間の深イイ話](../Page/人生が変わる1分間の深イイ話.md "wikilink")』の「新撰組プロジェクト」用の楽曲では「島田紳助（カシアス島田）」として併記されている。
 

@@ -1,7 +1,7 @@
 > この記事は[OSCE](https://ja.wikipedia.org/wiki/OSCE)から翻訳されています。
 
 
-**OSCE**（オスキー、Objective Structured Clinical Examination）は、客観的臨床能力試験のこと。日本の[医学部](../Page/医学部.md "wikilink")、[歯学部](../Page/歯学部.md "wikilink")、[薬学部](../Page/薬学部.md "wikilink")6年制課程、[獣医学部](../Page/獣医学部.md "wikilink")の学生が臨床実習に上がる前に、この試験と[CBTの](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")2つに合格することが、臨床実習に進むための条件となる\[1\]。日本において、医学部・歯学部は[社団法人](../Page/社団法人.md "wikilink")医療系大学間共用試験実施評価機構\[2\]、6年制薬学部では[NPO法人薬学共用試験実施センター](../Page/特定非営利活動法人.md "wikilink")\[3\]、獣医学部ではNPO法人獣医学教育支援機構\[4\]が実施している。医学部では[2020年](../Page/2020年.md "wikilink")から上記の臨床実習前に加え、6年次に受験するPost-CC OSCE（Post-Clinical Clerkship OSCE、臨床実習後OSCE）の正式実施が予定されている\[5\]。
+**OSCE**（オスキー、Objective Structured Clinical Examination）は、客観的臨床能力試験のこと。日本の[医学部](../Page/医学部.md "wikilink")、[歯学部](../Page/歯学部.md "wikilink")、[薬学部](../Page/薬学部.md "wikilink")6年制課程、[獣医学部](../Page/獣医学部.md "wikilink")の学生が臨床実習に上がる前に、この試験と[CBTの](../Page/Computer_Based_Testing.md "wikilink")2つに合格することが、臨床実習に進むための条件となる\[1\]。日本において、医学部・歯学部は[社団法人](../Page/社団法人.md "wikilink")医療系大学間共用試験実施評価機構\[2\]、6年制薬学部では[NPO法人薬学共用試験実施センター](../Page/特定非営利活動法人.md "wikilink")\[3\]、獣医学部ではNPO法人獣医学教育支援機構\[4\]が実施している。医学部では[2020年](../Page/2020年.md "wikilink")から上記の臨床実習前に加え、6年次に受験するPost-CC OSCE（Post-Clinical Clerkship OSCE、臨床実習後OSCE）の正式実施が予定されている\[5\]。
 
 ## 概要
 
@@ -26,7 +26,7 @@
   - [歯学部](../Page/歯学部.md "wikilink")
   - [薬学部](../Page/薬学部.md "wikilink")
   - [獣医学部](../Page/獣医学部.md "wikilink")
-  - [Computer Based Testing](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")
+  - [Computer Based Testing](../Page/Computer_Based_Testing.md "wikilink")
 
 [Category:試験](https://ja.wikipedia.org/wiki/Category:試験 "wikilink") [Category:医学教育](https://ja.wikipedia.org/wiki/Category:医学教育 "wikilink") [Category:日本の医療教育](https://ja.wikipedia.org/wiki/Category:日本の医療教育 "wikilink")
 

@@ -98,7 +98,7 @@
   - 2002年 [ニール・ゲイマン](../Page/ニール・ゲイマン.md "wikilink")「[コララインとボタンの魔女](https://ja.wikipedia.org/wiki/コララインとボタンの魔女 "wikilink")」"Coraline"
   - 2003年 ニール・ゲイマン "The Wolves in the Walls"
   - 2004年 スティーヴン・バクスター "Mayflower II"
-  - 2005年 [ケリー・リンク](https://ja.wikipedia.org/wiki/ケリー・リンク "wikilink")「マジック・フォー・ビギナーズ」"Magic for Beginners"
+  - 2005年 [ケリー・リンク](../Page/ケリー・リンク.md "wikilink")「マジック・フォー・ビギナーズ」"Magic for Beginners"
   - 2006年 [イアン・マクドナルド](https://ja.wikipedia.org/wiki/イアン・マクドナルド_\(作家\) "wikilink") 「ジンの花嫁」"The Djinn's Wife"
   - 2007年 ケン・マクラウド "Lighting Out"
   - 2008年 [テッド・チャン](../Page/テッド・チャン.md "wikilink")「息吹」"Exhalation"

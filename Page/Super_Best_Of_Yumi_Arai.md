@@ -34,7 +34,7 @@
 7.  **そのまま**
       -
         アルバム『ひこうき雲』より。
-8.  **[瞳を閉じて](https://ja.wikipedia.org/wiki/瞳を閉じて "wikilink")**
+8.  **[瞳を閉じて](../Page/瞳を閉じて.md "wikilink")**
       -
         アルバム『[MISSLIM](../Page/MISSLIM.md "wikilink")』より。
 9.  **[やさしさに包まれたなら](../Page/やさしさに包まれたなら.md "wikilink")**（album version）

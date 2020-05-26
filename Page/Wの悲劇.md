@@ -262,7 +262,7 @@
   - 原作 - 夏樹静子『Wの悲劇』（光文社文庫、角川文庫）
   - 脚本 - [寺田敏雄](https://ja.wikipedia.org/wiki/寺田敏雄 "wikilink")、[旺季志ずか](../Page/旺季志ずか.md "wikilink")
   - 音楽 - [末廣健一郎](https://ja.wikipedia.org/wiki/末廣健一郎 "wikilink")、[神坂享輔](https://ja.wikipedia.org/wiki/神坂享輔 "wikilink")
-  - 演出 - [片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")（テレビ朝日）、[植田尚](../Page/植田尚.md "wikilink")（MMJ）、常廣丈太（テレビ朝日）
+  - 演出 - [片山修](../Page/片山修.md "wikilink")（テレビ朝日）、[植田尚](../Page/植田尚.md "wikilink")（MMJ）、常廣丈太（テレビ朝日）
   - 演出補 - 松川嵩史、安食大輔、加藤美咲、藤崎絵三
   - 主題歌 - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")「[告白](https://ja.wikipedia.org/wiki/告白_\(平井堅の曲\) "wikilink")」（[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")）
   - 挿入歌 - 平井堅「[Woman"Wの悲劇"より](https://ja.wikipedia.org/wiki/告白_\(平井堅の曲\) "wikilink")」（デフスターレコーズ）

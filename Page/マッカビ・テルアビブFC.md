@@ -720,7 +720,7 @@
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCピュニク・エレバン" title="wikilink">ピュニク・エレバン</a></p></td>
+<td><p><a href="../Page/FCピュニク・エレバン.md" title="wikilink">ピュニク・エレバン</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-0</p></td>
 <td><p>'''2-1</p></td>

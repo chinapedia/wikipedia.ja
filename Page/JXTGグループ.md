@@ -252,7 +252,7 @@ JX日鉱日石シッピング株式会社</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/京極運輸商事" title="wikilink">京極運輸商事</a>株式会社</p></td>
+<td><p><a href="../Page/京極運輸商事.md" title="wikilink">京極運輸商事</a>株式会社</p></td>
 <td><p>東京都中央区</p></td>
 <td><p>石油製品の陸上輸送</p></td>
 <td><p>-</p></td>
@@ -781,7 +781,7 @@ JOMOエンタープライズ株式会社の不動産事業部門</p></td>
 JX日鉱日石トレーディングの保険代理店事業</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本グラファイトファイバー" title="wikilink">日本グラファイトファイバー</a>株式会社</p></td>
+<td><p><a href="../Page/日本グラファイトファイバー.md" title="wikilink">日本グラファイトファイバー</a>株式会社</p></td>
 <td><p>東京都中央区</p></td>
 <td><p><a href="../Page/炭素繊維.md" title="wikilink">炭素繊維</a>製品の製造・販売</p></td>
 <td><p>-</p></td>

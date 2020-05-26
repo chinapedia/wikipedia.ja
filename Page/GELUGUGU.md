@@ -634,7 +634,7 @@ LIVE会場限定</p></td>
 <li>EMOTION / <a href="https://ja.wikipedia.org/wiki/LOSTBOY" title="wikilink">LOSTBOY</a></li>
 <li>MOON / <a href="https://ja.wikipedia.org/wiki/Black_Cat&#39;s_Tail" title="wikilink">Black Cat's Tail</a></li>
 <li>RUDY / <a href="https://ja.wikipedia.org/wiki/Subliminal_Ripple" title="wikilink">Subliminal Ripple</a></li>
-<li>WE ARE GELUGUGU / <a href="https://ja.wikipedia.org/wiki/希望_(曖昧さ回避)" title="wikilink">希望</a></li>
+<li>WE ARE GELUGUGU / <a href="../Page/希望_(曖昧さ回避).md" title="wikilink">希望</a></li>
 <li>CHANGE / <a href="https://ja.wikipedia.org/wiki/SEVEN_STEP" title="wikilink">SEVEN STEP</a></li>
 <li>涙のラストチャンス / <a href="https://ja.wikipedia.org/wiki/THE_LITTLE_BITCH" title="wikilink">THE LITTLE BITCH</a></li>
 <li>100SKA / <a href="https://ja.wikipedia.org/wiki/CAN&#39;T_A_MAN_ATTACK!" title="wikilink">CAN'T A MAN ATTACK!</a></li>

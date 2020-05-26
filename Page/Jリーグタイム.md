@@ -103,7 +103,7 @@
     他に、Jリーグとのコラボレーション企画に伴いキャラクターが登場することがある。
       - [Mr. ピッチ](https://ja.wikipedia.org/wiki/Mr._ピッチ "wikilink")（毎年[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")前後に行われる[ファミリーJoinデイズ](https://ja.wikipedia.org/wiki/ファミリーJoinデイズ "wikilink")の告知のために登場）
       - パッカ（[BSハイビジョン他で放送されるサッカーアニメ](https://ja.wikipedia.org/wiki/NHK衛星デジタルハイビジョン "wikilink")「[GIANT KILLING](../Page/GIANT_KILLING.md "wikilink")」に登場する架空のチーム「EAST TOKYO UNITED」のマスコットキャラクターの[河童](https://ja.wikipedia.org/wiki/河童 "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")に同番組とのコラボレーション企画で登場）
-      - [足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink")（2010・2011Jリーグ特命女子マネジャー。[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")の「2011開幕スペシャル」の終わりに登場）
+      - [足立梨花](../Page/足立梨花.md "wikilink")（2010・2011Jリーグ特命女子マネジャー。[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")の「2011開幕スペシャル」の終わりに登場）
 
 ## 主なコーナー
 

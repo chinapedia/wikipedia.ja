@@ -60,7 +60,7 @@
 ### 日本製アニメ（シンジケート放送含む）
 
   - [アイシールド21](../Page/アイシールド21.md "wikilink")
-  - [うずまき](https://ja.wikipedia.org/wiki/うずまき_\(漫画\) "wikilink")（[Production I.Gと共同制作](../Page/プロダクション・アイジー.md "wikilink")）
+  - [うずまき](../Page/うずまき_\(漫画\).md "wikilink")（[Production I.Gと共同制作](../Page/プロダクション・アイジー.md "wikilink")）
   - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")（Toonamiでも放送）
       - [機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")（Toonamiでも放送）
       - [機動戦士ガンダム0083 スターダストメモリー](https://ja.wikipedia.org/wiki/機動戦士ガンダム0083_スターダストメモリー "wikilink")（最終回のみTV-PG指定）
@@ -131,7 +131,7 @@
 
 同じく2004年頃までアイキャッチや次の番組を紹介する案内役としてTOM（声 - [草尾毅](../Page/草尾毅.md "wikilink")/英 - [スティーヴン・ブルーム](../Page/スティーヴン・ブルーム.md "wikilink")）というロボットキャラクターがいたが、2005年のリニューアルに伴い一切登場しなくなり、実質解雇となった。TOMの共催はサラ（声 - [野沢雅子](../Page/野沢雅子.md "wikilink")/英 - サリー・ティムズ）であった。あいつらの敵はスワイザック（声 - [喜田あゆ美](../Page/喜田あゆ美.md "wikilink")/英 - [カリー・ペイトン](https://ja.wikipedia.org/wiki/カリー・ペイトン "wikilink")）というコンピュータウイルスキャラクターでもあった。
 
-サムライジャックの新エピソード放送時にgrooviesというミュージッククリップを想定したコーナーで新エピソード放送直後（もしくは直前）に[寺田創一](https://ja.wikipedia.org/wiki/寺田創一 "wikilink")作曲の「SAMURAI JACK」という新曲が放送されていた。この「SAMURAI JACK」は新エピソード放送期間終了後、CARTOON TUNES（旧・groovies）でも放送されている。
+サムライジャックの新エピソード放送時にgrooviesというミュージッククリップを想定したコーナーで新エピソード放送直後（もしくは直前）に[寺田創一](../Page/寺田創一.md "wikilink")作曲の「SAMURAI JACK」という新曲が放送されていた。この「SAMURAI JACK」は新エピソード放送期間終了後、CARTOON TUNES（旧・groovies）でも放送されている。
 
 ## 脚注
 

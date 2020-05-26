@@ -13,7 +13,7 @@
       -
         [作詞](../Page/作詞.md "wikilink")：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、[作曲](../Page/作曲.md "wikilink")：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[岩本正樹](../Page/岩本正樹.md "wikilink")
         『[ツインビーPARADISE2](https://ja.wikipedia.org/wiki/ツインビー#ツインビーPARADISE "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
-2.  **[誰のせいでもない二人](https://ja.wikipedia.org/wiki/みみかきをしていると "wikilink")**
+2.  **[誰のせいでもない二人](../Page/みみかきをしていると.md "wikilink")**
       -
         作詞：戸沢暢美、作曲：[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")、編曲：岩本正樹
         翌年の[2](../Page/2.md "wikilink")nd[シングル](../Page/シングル.md "wikilink")「みみかきをしていると」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")としてリカットされた。

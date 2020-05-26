@@ -25,7 +25,7 @@
       -
         アルバム『[ネオ・ジオ](../Page/ネオ・ジオ.md "wikilink")』収録。
 4.  **Risky**
-      - 作詞：[イギー・ポップ](../Page/イギー・ポップ.md "wikilink") / 作曲：イギー・ポップ、坂本龍一、[ビル・ラズウェル](https://ja.wikipedia.org/wiki/ビル・ラズウェル "wikilink")
+      - 作詞：[イギー・ポップ](../Page/イギー・ポップ.md "wikilink") / 作曲：イギー・ポップ、坂本龍一、[ビル・ラズウェル](../Page/ビル・ラズウェル.md "wikilink")
     <!-- end list -->
       -
         アルバム『Behind The Mask + 3』収録。

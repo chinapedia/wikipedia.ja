@@ -7,7 +7,7 @@
 
 創刊は[2003年](../Page/2003年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")より『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』（小学館）の増刊号として隔月で発行された『**スピリッツ増刊IKKI**』が前身であり、そのリニューアル新創刊という形で月刊化された。創刊時からのキャッチコピーは「コミックは未だ黎明期である」。編集長は[江上英樹](../Page/江上英樹.md "wikilink")。
 
-『スピリッツ』の増刊が元となっているため、執筆陣の一部が共通した。また、[小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")や[ジョージ朝倉](../Page/ジョージ朝倉.md "wikilink")など、女性誌で活動する漫画家の起用も多かった。新人賞「[イキマン](../Page/イキマン.md "wikilink")」を実施しており、2ヶ月に1度、応募作の中から優秀なものを必ず1作品以上掲載していた。マニア好みの漫画が多く「小学館の[アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")」「小学館の[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")」とも呼ばれている。
+『スピリッツ』の増刊が元となっているため、執筆陣の一部が共通した。また、[小野塚カホリ](../Page/小野塚カホリ.md "wikilink")や[ジョージ朝倉](../Page/ジョージ朝倉.md "wikilink")など、女性誌で活動する漫画家の起用も多かった。新人賞「[イキマン](../Page/イキマン.md "wikilink")」を実施しており、2ヶ月に1度、応募作の中から優秀なものを必ず1作品以上掲載していた。マニア好みの漫画が多く「小学館の[アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")」「小学館の[ガロ](../Page/ガロ_\(雑誌\).md "wikilink")」とも呼ばれている。
 
 [装丁](https://ja.wikipedia.org/wiki/装丁 "wikilink")は、他の小学館での漫画雑誌を担当している[ベイブリッジ・スタジオ](https://ja.wikipedia.org/wiki/ベイブリッジ・スタジオ "wikilink")ではなく、雑誌ロゴを含めたほとんど全てを[祖父江慎](../Page/祖父江慎.md "wikilink")率いる[コズフィッシュ](https://ja.wikipedia.org/wiki/コズフィッシュ "wikilink")が行っている。コズフィッシュはその他にも、単行本「**IKKI COMIX**」の装丁、雑誌名考案など、雑誌と非常に深い関わりを持っていた。
 
@@ -69,7 +69,7 @@
 
   - [I【アイ】](https://ja.wikipedia.org/wiki/I_\(いがらしみきおの漫画\) "wikilink")（[いがらしみきお](../Page/いがらしみきお.md "wikilink")）
   - あいらぶ日和（アキタコウ）
-  - 愛い奴（[小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")）
+  - 愛い奴（[小野塚カホリ](../Page/小野塚カホリ.md "wikilink")）
   - アカシヤの星（[たくまる圭](https://ja.wikipedia.org/wiki/たくまる圭 "wikilink")）
   - [安住の地](https://ja.wikipedia.org/wiki/安住の地 "wikilink")（[山本直樹](../Page/山本直樹.md "wikilink")） ※増刊時代
   - エンゼルマーク（[松永豊和](https://ja.wikipedia.org/wiki/松永豊和 "wikilink")） ※増刊時代
@@ -81,7 +81,7 @@
   - ガンズ&ブレイズ（[滝沢聖峰](../Page/滝沢聖峰.md "wikilink")） ※増刊時代
   - [羣青](https://ja.wikipedia.org/wiki/羣青 "wikilink")（[中村珍](https://ja.wikipedia.org/wiki/中村珍 "wikilink")）
   - 答えは3つ（とんだばやし）
-  - 小町風伝（[小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")）
+  - 小町風伝（[小野塚カホリ](../Page/小野塚カホリ.md "wikilink")）
   - [さらい屋 五葉](https://ja.wikipedia.org/wiki/さらい屋_五葉 "wikilink")（[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")）
   - [SARU](https://ja.wikipedia.org/wiki/SARU_\(漫画\) "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
   - [海獣の子供](../Page/海獣の子供.md "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
@@ -130,7 +130,7 @@
   - まほおつかいミミッチ（[松田洋子](../Page/松田洋子.md "wikilink")）
   - 漫画家超残酷物語（[唐沢なをき](../Page/唐沢なをき.md "wikilink")）
   - めくるたび（写真：[丸田祥三](../Page/丸田祥三.md "wikilink")）
-  - [夜回り先生](https://ja.wikipedia.org/wiki/夜回り先生_\(漫画\) "wikilink")（漫画：[土田世紀](../Page/土田世紀.md "wikilink")、原作：[水谷修](https://ja.wikipedia.org/wiki/水谷修 "wikilink")）
+  - [夜回り先生](../Page/夜回り先生_\(漫画\).md "wikilink")（漫画：[土田世紀](../Page/土田世紀.md "wikilink")、原作：[水谷修](https://ja.wikipedia.org/wiki/水谷修 "wikilink")）
   - [よるくも](https://ja.wikipedia.org/wiki/よるくも "wikilink")（[漆原ミチ](https://ja.wikipedia.org/wiki/漆原ミチ "wikilink")）
   - [RIDEBACK](https://ja.wikipedia.org/wiki/RIDEBACK "wikilink")（[カサハラテツロー](../Page/カサハラテツロー.md "wikilink")）
   - [螺旋のドギー](https://ja.wikipedia.org/wiki/螺旋のドギー "wikilink")（[北田おか](https://ja.wikipedia.org/wiki/北田おか "wikilink")）

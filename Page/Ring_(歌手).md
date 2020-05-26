@@ -17,7 +17,7 @@
 
   - Process（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")発売） - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
   - ONE, TWO STEP（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売）
-  - PRIVATE PARADISE（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")発売）- 映画『[始皇帝暗殺](https://ja.wikipedia.org/wiki/始皇帝暗殺 "wikilink")』主題歌
+  - PRIVATE PARADISE（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")発売）- 映画『[始皇帝暗殺](../Page/始皇帝暗殺.md "wikilink")』主題歌
 
 ### アルバム
 

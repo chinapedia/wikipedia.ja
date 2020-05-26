@@ -14,7 +14,7 @@
 1.  **JESUS**
       -
         [J原曲](../Page/J_\(ミュージシャン\).md "wikilink")。ライブでは頻繁に演奏される定番曲。
-2.  **[BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(LUNA_SEAの曲\) "wikilink")**
+2.  **[BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")**
       -
         [SUGIZO](../Page/SUGIZO.md "wikilink")原曲。1st[シングル](../Page/シングル.md "wikilink")。シングルバージョンとは[ミックスの違いや](../Page/ミキシング.md "wikilink")、最初の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の音がカットされているといった違いがある。
 3.  **Rejuvenescence**
@@ -29,7 +29,7 @@
 6.  **LASTLY**
       -
         INORAN原曲。元々は[インディーズ](../Page/インディーズ.md "wikilink")時代に無料配布したテープに入っていた曲だったが再録された。
-7.  **[IN MY DREAM (WITH SHIVER)](https://ja.wikipedia.org/wiki/IN_MY_DREAM_\(WITH_SHIVER\) "wikilink")**
+7.  **[IN MY DREAM (WITH SHIVER)](../Page/IN_MY_DREAM_\(WITH_SHIVER\).md "wikilink")**
       -
         J原曲。トラックダウン直前に、Jがベースラインを変えるためベースを弾き直した\[2\]。後に2ndシングルとして[リカット](../Page/リカット.md "wikilink")。シングル版とはミックスや終わり方などが異なる。
 8.  **STEAL**

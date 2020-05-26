@@ -246,7 +246,7 @@
 
 <!-- end list -->
 
-  - [土屋飛鳥](https://ja.wikipedia.org/wiki/土屋飛鳥 "wikilink")
+  - [土屋飛鳥](../Page/土屋飛鳥.md "wikilink")
       - 『Super Sunday』
       - 『三つ星』
       - 『Brand New Day Brand New Me』

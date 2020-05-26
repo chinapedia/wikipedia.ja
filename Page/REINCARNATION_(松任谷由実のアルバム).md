@@ -52,7 +52,7 @@
   - トランペット&フリューゲルホルン：[数原晋](../Page/数原晋.md "wikilink")
   - トロンボーン：新井英治
   - ストリングス：日色グループ
-  - コーラス：[BUZZ](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")、[Lilica、Leona、Clara](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、[須藤薫](../Page/須藤薫.md "wikilink")、平塚文子、松任谷由実
+  - コーラス：[BUZZ](../Page/バズ_\(バンド\).md "wikilink")、[Lilica、Leona、Clara](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")、桐ヶ谷仁、桐ヶ谷"Bobby"俊博、[須藤薫](../Page/須藤薫.md "wikilink")、平塚文子、松任谷由実
   - シンセサイザー・プログラミング：[浦田恵司](https://ja.wikipedia.org/wiki/浦田恵司 "wikilink")
 
 ## 脚注

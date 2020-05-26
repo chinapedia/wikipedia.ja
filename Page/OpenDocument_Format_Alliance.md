@@ -430,7 +430,7 @@
   - OPS\! Consulting
   - Optaros
   - Optio Software, Inc.
-  - [Oracle](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")
+  - [Oracle](../Page/オラクル_\(企業\).md "wikilink")
   - Orion eServices Private Ltd
   - OSDL (Open Source Development Lab)
   - OSS Alliance

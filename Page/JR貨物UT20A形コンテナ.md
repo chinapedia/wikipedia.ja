@@ -18,7 +18,7 @@
     エム・ティー・ビー（[日本陸運産業](https://ja.wikipedia.org/wiki/日本陸運産業 "wikilink")株式会社）所有、[塩化ビニル樹脂専用](../Page/ポリ塩化ビニル.md "wikilink")20ftコンテナ。総重量13.5t。
     一部にポリフェニレンエーテルや活性炭専用の物もある。
   - 5024 - 5035, 5045 - 5048
-    [千葉製粉](https://ja.wikipedia.org/wiki/千葉製粉 "wikilink")所有、[小麦粉](https://ja.wikipedia.org/wiki/小麦粉 "wikilink")専用20ftコンテナ。総重量13.5t。
+    [千葉製粉](../Page/千葉製粉.md "wikilink")所有、[小麦粉](https://ja.wikipedia.org/wiki/小麦粉 "wikilink")専用20ftコンテナ。総重量13.5t。
   - 5036 - 5042
     [日本ゼオン](../Page/日本ゼオン.md "wikilink")所有、塩化ビニル樹脂用20ftコンテナ。総重量13.5t。
   - 5043, 5044
@@ -41,7 +41,7 @@
 ※この番台の所有及び借受社名は、改名・移籍・合併等で変更が多々ある。
 
   - 25001, 25002
-    [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有（[三菱化学](https://ja.wikipedia.org/wiki/三菱化学 "wikilink")借受）、塩化ビニル樹脂専用22.5ftコンテナ。総重量13.5t。
+    [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有（[三菱化学](../Page/三菱化学.md "wikilink")借受）、塩化ビニル樹脂専用22.5ftコンテナ。総重量13.5t。
   - 25003
     日本陸運産業所有（旧、[三菱化成ビニル借受](https://ja.wikipedia.org/wiki/三菱化学エムケーブイ "wikilink")）、塩化ビニル樹脂専用22.5ftコンテナ。総重量13.5t。
   - 25004

@@ -34,7 +34,7 @@
 
   - [イギリス](../Page/イギリス軍.md "wikilink")
 
-  - [インド](https://ja.wikipedia.org/wiki/インド軍 "wikilink")
+  - [インド](../Page/インド軍.md "wikilink")
 
   - [オーストラリア](../Page/オーストラリア国防軍.md "wikilink")
 

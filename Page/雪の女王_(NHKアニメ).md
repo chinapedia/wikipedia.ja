@@ -45,7 +45,7 @@
 ### ゲスト
 
   - 村人 - [仲野裕](../Page/仲野裕.md "wikilink")、[相沢正輝](../Page/相沢まさき.md "wikilink")、[大西健晴](../Page/大西健晴.md "wikilink")（第1話）
-  - 子ども - [西村朋紘](../Page/西村朋紘.md "wikilink")、[有島モユ](../Page/有島モユ.md "wikilink")、[青山桐子](../Page/青山桐子.md "wikilink")、[相橋愛子](https://ja.wikipedia.org/wiki/相橋愛子 "wikilink")（第1話）
+  - 子ども - [西村朋紘](../Page/西村朋紘.md "wikilink")、[有島モユ](../Page/有島モユ.md "wikilink")、[青山桐子](../Page/青山桐子.md "wikilink")、[相橋愛子](../Page/相橋愛子.md "wikilink")（第1話）
   - 洗濯屋の男 - [星野充昭](../Page/星野充昭.md "wikilink")（第2話）
   - 洗濯する女 - [真山亜子](../Page/真山亜子.md "wikilink")、[村上はるみ](../Page/村上はるみ.md "wikilink")（第2，3話）
   - 男の子 - 西村朋紘（第3話）

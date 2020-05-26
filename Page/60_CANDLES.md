@@ -11,7 +11,7 @@
 
 ### Disk-1
 
-1.  [君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink") / [カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")
+1.  [君といつまでも](../Page/君といつまでも.md "wikilink") / [カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")
       -
         （[作詞](../Page/作詞.md "wikilink"): [岩谷時子](../Page/岩谷時子.md "wikilink") / [作曲](../Page/作曲.md "wikilink"): [弾厚作](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")）
 2.  夜空の星 / [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")

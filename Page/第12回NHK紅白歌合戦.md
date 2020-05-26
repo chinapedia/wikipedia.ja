@@ -19,7 +19,7 @@
 | ---------------------------------------------------------- | ----------------------------------------------------------------- |
 | 歌手                                                         | 曲                                                                 |
 | [朝丘雪路](../Page/朝丘雪路.md "wikilink")(4)                      | チャチャで飲みましょう                                                       |
-| [藤本二三代](https://ja.wikipedia.org/wiki/藤本二三代 "wikilink")(4) | 花のマーブル通り                                                          |
+| [藤本二三代](../Page/藤本二三代.md "wikilink")(4)                    | 花のマーブル通り                                                          |
 | [中原美紗緒](../Page/中原美紗緒.md "wikilink")(6)                    | [ボーイ・ハント](https://ja.wikipedia.org/wiki/ボーイ・ハント_\(曲\) "wikilink") |
 | [水谷良重](../Page/水谷八重子_\(2代目\).md "wikilink")(4)             | ペピート                                                              |
 | [雪村いづみ](../Page/雪村いづみ.md "wikilink")(5)                    | [マック・ザ・ナイフ](https://ja.wikipedia.org/wiki/マック・ザ・ナイフ "wikilink")   |
@@ -48,7 +48,7 @@
 #### 選考を巡って
 
   - 前回の出場歌手の中より今回不選出となった歌手は以下。
-      - 紅組:[荒井恵子](../Page/荒井恵子.md "wikilink")・[有明ユリ](https://ja.wikipedia.org/wiki/有明ユリ "wikilink")・[大津美子](https://ja.wikipedia.org/wiki/大津美子 "wikilink")・[織井茂子](../Page/織井茂子.md "wikilink")・[小割まさ江](https://ja.wikipedia.org/wiki/小割まさ江 "wikilink")・[沢たまき](../Page/沢たまき.md "wikilink")・[高美アリサ](https://ja.wikipedia.org/wiki/高美アリサ "wikilink")・[宝とも子](../Page/宝とも子.md "wikilink")・[奈良光枝](../Page/奈良光枝.md "wikilink")・[松島詩子](../Page/松島詩子.md "wikilink")
+      - 紅組:[荒井恵子](../Page/荒井恵子.md "wikilink")・[有明ユリ](https://ja.wikipedia.org/wiki/有明ユリ "wikilink")・[大津美子](../Page/大津美子.md "wikilink")・[織井茂子](../Page/織井茂子.md "wikilink")・[小割まさ江](https://ja.wikipedia.org/wiki/小割まさ江 "wikilink")・[沢たまき](../Page/沢たまき.md "wikilink")・[高美アリサ](https://ja.wikipedia.org/wiki/高美アリサ "wikilink")・[宝とも子](../Page/宝とも子.md "wikilink")・[奈良光枝](../Page/奈良光枝.md "wikilink")・[松島詩子](../Page/松島詩子.md "wikilink")
       - 白組:[青木光一](../Page/青木光一.md "wikilink")・[笈田敏夫](../Page/笈田敏夫.md "wikilink")・[旗照夫](../Page/旗照夫.md "wikilink")・[ミッキー・カーチス](../Page/ミッキー・カーチス.md "wikilink")・[三船浩](../Page/三船浩.md "wikilink")・[若原一郎](../Page/若原一郎.md "wikilink")・[若山彰](../Page/若山彰.md "wikilink")
 
 ### 審査員
@@ -74,7 +74,7 @@
   - [三木のり平](../Page/三木のり平.md "wikilink")
   - [藤村有弘](../Page/藤村有弘.md "wikilink")
   - [若水ヤエ子](https://ja.wikipedia.org/wiki/若水ヤエ子 "wikilink")
-  - [武智豊子](https://ja.wikipedia.org/wiki/武智豊子 "wikilink")
+  - [武智豊子](../Page/武智豊子.md "wikilink")
   - [音羽美子](https://ja.wikipedia.org/wiki/音羽美子 "wikilink")
   - [桜京美](../Page/桜京美.md "wikilink")
   - [林家三平](../Page/林家三平_\(初代\).md "wikilink")

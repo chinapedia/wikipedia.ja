@@ -597,7 +597,7 @@ SL内では、一般企業によるビジネス向けの活動や、政府機関
 ## 関連項目
 
   - [MMORPG](../Page/MMORPG.md "wikilink")
-  - [NaviSL](https://ja.wikipedia.org/wiki/NaviSL "wikilink")
+  - [NaviSL](../Page/NaviSL.md "wikilink")
   - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")
   - [サイバースペース](../Page/サイバースペース.md "wikilink")
   - [シミュレーテッドリアリティ](https://ja.wikipedia.org/wiki/シミュレーテッドリアリティ "wikilink")

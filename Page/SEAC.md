@@ -29,7 +29,7 @@ SEACは[テレタイプによって遠隔地から使用することもできた
   - [ロスアラモス国立研究所](../Page/ロスアラモス国立研究所.md "wikilink")による利用
   - [LORAN](../Page/LORAN.md "wikilink")航法用の数表作成
   - 統計的サンプリング計画
-  - [ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")原子の波動関数
+  - [ヘリウム](../Page/ヘリウム.md "wikilink")原子の波動関数
   - [陽子](../Page/陽子.md "wikilink")[シンクロトロン](../Page/シンクロトロン.md "wikilink")の設計
 
 <File:SEACComputer> 008.jpg|SEACのブロック図 <File:SEACComputer> 011.jpg|SEACの入出力図 <File:SEACComputer> 030.jpg|磁気ワイヤードライブとカートリッジ <File:SEACComputer> 025.jpg|磁気ワイヤから紙テープへの変換器と、紙テープの内容をプリントアウトする装置 <File:SEACComputer> 031.jpg|SEACのスキャナ [File:NBSFirstScanImage.jpg|初めてSEACでスキャンされた画像](File:NBSFirstScanImage.jpg%7C初めてSEACでスキャンされた画像)。の息子の写真。 <File:SEACComputer> 018.jpg|とSEAC <File:SEACComputer> 047.jpg|1960年にHorace JosephとGeorge A. MooreがSEACイメージスキャナを使用して冶金写真を分析している様子。Mooreは法的盲だった\[12\]。 <File:SEACComputer> 039.jpg|SEACの配線 <File:SEACComputer> 024.jpg|SEACの制御卓にいるEthel Marden（1959年）

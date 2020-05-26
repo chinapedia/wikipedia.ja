@@ -284,7 +284,7 @@ AVCHDはH.264+AC-3という一般的なCodecでありながら、古い編集ソ
 
   - ソニー（メーカーサイトにリンクが張ってあるのは現行機種。）
 
-:;[ブルーレイディスクレコーダー](https://ja.wikipedia.org/wiki/BDZ "wikilink")
+:;[ブルーレイディスクレコーダー](../Page/BDZ.md "wikilink")
 
 ::\*BDZ-V9/V7
 

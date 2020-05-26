@@ -196,7 +196,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFA欧州女子選手権2021" title="wikilink">13</a></p></td>
+<td><p><a href="../Page/UEFA欧州女子選手権2021.md" title="wikilink">13</a></p></td>
 <td><p><a href="../Page/2022年.md" title="wikilink">2022年</a></p></td>
 <td></td>
 <td></td>

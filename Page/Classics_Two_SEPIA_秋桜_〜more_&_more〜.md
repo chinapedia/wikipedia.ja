@@ -18,7 +18,7 @@
 
 ## 収録アルバム
 
-  - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』(\#2,3,4,5)
+  - 『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』(\#2,3,4,5)
   - 『[Another Side Memories〜Precious Best〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best〜 "wikilink")』(\#3)
   - 『[DEEN The Best FOREVER 〜Complete Singles +〜](https://ja.wikipedia.org/wiki/DEEN_The_Best_FOREVER_〜Complete_Singles_+〜 "wikilink")』(\#2)
 

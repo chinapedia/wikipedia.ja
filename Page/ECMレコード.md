@@ -42,12 +42,12 @@
   - [オレゴン](https://ja.wikipedia.org/wiki/オレゴン_\(バンド\) "wikilink") ([:en:Oregon (band)](https://ja.wikipedia.org/wiki/:en:Oregon_\(band\) "wikilink"))
   - [カーラ・ブレイ](../Page/カーラ・ブレイ.md "wikilink")
   - [キース・ジャレット](../Page/キース・ジャレット.md "wikilink")
-  - [クリス・ポッター](https://ja.wikipedia.org/wiki/クリス・ポッター "wikilink")
+  - [クリス・ポッター](../Page/クリス・ポッター.md "wikilink")
   - [ゲイリー・バートン](../Page/ゲイリー・バートン.md "wikilink")
   - [ゲイリー・ピーコック](../Page/ゲイリー・ピーコック.md "wikilink")
   - [ケニー・ホイーラー](../Page/ケニー・ホイーラー.md "wikilink")\*
   - [ケティル・ビヨルンスタ](https://ja.wikipedia.org/wiki/ケティル・ビヨルンスタ "wikilink")
-  - [コリン・ウォルコット](https://ja.wikipedia.org/wiki/コリン・ウォルコット "wikilink")（[:en:Collin Walcott](https://ja.wikipedia.org/wiki/:en:Collin_Walcott "wikilink")）
+  - [コリン・ウォルコット](../Page/コリン・ウォルコット.md "wikilink")（[:en:Collin Walcott](https://ja.wikipedia.org/wiki/:en:Collin_Walcott "wikilink")）
   - [シニッカ・ランゲラン](https://ja.wikipedia.org/wiki/シニッカ・ランゲラン "wikilink") ([:en:Sinikka Langeland](https://ja.wikipedia.org/wiki/:en:Sinikka_Langeland "wikilink"))
   - [ジャック・ディジョネット](../Page/ジャック・ディジョネット.md "wikilink")
   - [ジョン・アバークロンビー](https://ja.wikipedia.org/wiki/ジョン・アバークロンビー "wikilink")

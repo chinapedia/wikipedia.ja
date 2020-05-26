@@ -15,7 +15,7 @@
   - [青森県サッカー協会](https://ja.wikipedia.org/wiki/青森県サッカー協会 "wikilink") ()
   - [秋田県サッカー協会](https://ja.wikipedia.org/wiki/秋田県サッカー協会 "wikilink") ()
   - [アフガニ](../Page/アフガニ.md "wikilink") (; ISO 4127: AFN; 旧ISO 4127: AFA) - アフガニスタンの通貨。
-  - [サン・ラファエル (アルゼンチン)](https://ja.wikipedia.org/wiki/サン・ラファエル_\(アルゼンチン\) "wikilink") (; IATA: AFA) - アルゼンチン [メンドーサ州](https://ja.wikipedia.org/wiki/メンドーサ州 "wikilink")の都市。
+  - [サン・ラファエル (アルゼンチン)](https://ja.wikipedia.org/wiki/サン・ラファエル_\(アルゼンチン\) "wikilink") (; IATA: AFA) - アルゼンチン [メンドーサ州](../Page/メンドーサ州.md "wikilink")の都市。
   - [サンラファエル空港](https://ja.wikipedia.org/wiki/サンラファエル空港 "wikilink") (; IATA: AFA) - アルゼンチン サン・ラファエルの空港。
   - 団体
       - [アルゼンチンサッカー協会](../Page/アルゼンチンサッカー協会.md "wikilink") ()

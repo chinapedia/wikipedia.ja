@@ -15,7 +15,7 @@
 
 ## LilyPond のソースファイルの例
 
-パーセント記号 (%) が書かれると、その行は以後コメントと見なされる。ここでは[可読性](https://ja.wikipedia.org/wiki/可読性 "wikilink")の向上のために `%%` と書かれている。
+パーセント記号 (%) が書かれると、その行は以後コメントと見なされる。ここでは[可読性](../Page/可読性.md "wikilink")の向上のために `%%` と書かれている。
 
 LilyPondにおいては、[音名](https://ja.wikipedia.org/wiki/音名 "wikilink")、[オクターヴ](../Page/オクターヴ.md "wikilink")、[音価](https://ja.wikipedia.org/wiki/音価 "wikilink")の順に記述される。オクターブを指定するためには、[引用符](../Page/引用符.md "wikilink") (') と[コンマ](../Page/コンマ.md "wikilink") (,) を使用し、それぞれが基準音から1オクターヴ上、1オクターヴ下を意味する。なお、デフォルトでは基準音は[中央ハ](https://ja.wikipedia.org/wiki/中央ハ "wikilink")の1オクターヴ下のハ音である。たとえば、 `a'4` と記述すればそれは440Hz付近のA音（イタリア音名：ラ）の四分音符を意味する。
 

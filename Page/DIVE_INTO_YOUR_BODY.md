@@ -11,7 +11,7 @@
 
 この曲で小室は初めて[シンクラヴィア](../Page/シンクラヴィア.md "wikilink")を使う。ただし、この時点ではまだ知人のシンクラヴィアオペレータを起用していた（そのシンクラヴィアは、人の背より高いラックを数個並べて成立するセットであった）。
 
-小室哲哉としてのソロデビューシングルである「[RUNNING TO HORIZON](https://ja.wikipedia.org/wiki/RUNNING_TO_HORIZON "wikilink")」は、この曲のデモテープから生まれた曲である。Aメロの[コード進行](https://ja.wikipedia.org/wiki/コード進行 "wikilink")がほとんど同一である。また歌い出しが「LA LA LA～」というのも共通点として挙げられる。
+小室哲哉としてのソロデビューシングルである「[RUNNING TO HORIZON](../Page/RUNNING_TO_HORIZON.md "wikilink")」は、この曲のデモテープから生まれた曲である。Aメロの[コード進行](https://ja.wikipedia.org/wiki/コード進行 "wikilink")がほとんど同一である。また歌い出しが「LA LA LA～」というのも共通点として挙げられる。
 
 また、このシングルには購入者特典として、「DIVE INTO YOUR BODY」の[リミックス](../Page/リミックス.md "wikilink")バージョン(12”CLUB MIX) が用意された。なおこのバージョンは[2004年](../Page/2004年.md "wikilink")にリリースされたベストアルバム『**[Welcome to the FANKS\!](../Page/Welcome_to_the_FANKS!.md "wikilink")**』に収録されている。
 

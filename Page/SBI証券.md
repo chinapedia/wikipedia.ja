@@ -13,7 +13,7 @@
 
 国内[株式](../Page/株式.md "wikilink")（現物・信用）、米国株、中国株、韓国株、ロシア株、ベトナム株、1000本以上の[投資信託](../Page/投資信託.md "wikilink")、120銘柄以上の海外[ETF](../Page/上場投資信託.md "wikilink")、[REIT](../Page/REIT.md "wikilink")、[国債](../Page/日本国債.md "wikilink")、[社債](../Page/社債.md "wikilink")、[外債](../Page/外債.md "wikilink")、FX（[外国為替証拠金取引](../Page/外国為替証拠金取引.md "wikilink")）、S株（単元未満株）、[CFD](https://ja.wikipedia.org/wiki/差金決済取引 "wikilink")、国内株式PTS夜間取引、貸株サービス（信用口座と兼用不可）、[日経225先物取引](../Page/日経225先物取引.md "wikilink")、[日経225オプション取引](../Page/日経225オプション取引.md "wikilink")、[eワラント](https://ja.wikipedia.org/wiki/eワラント "wikilink")などを取り扱っている。
 
-[住信SBIネット銀行](https://ja.wikipedia.org/wiki/住信SBIネット銀行 "wikilink")と連携したサービスを行っている。[楽天証券](https://ja.wikipedia.org/wiki/楽天証券 "wikilink")・[マネックス証券](../Page/マネックス証券.md "wikilink")など[ネット証券](https://ja.wikipedia.org/wiki/ネット証券 "wikilink")同業者間で手数料引き下げの競争をすることが多い。
+[住信SBIネット銀行](../Page/住信SBIネット銀行.md "wikilink")と連携したサービスを行っている。[楽天証券](https://ja.wikipedia.org/wiki/楽天証券 "wikilink")・[マネックス証券](../Page/マネックス証券.md "wikilink")など[ネット証券](https://ja.wikipedia.org/wiki/ネット証券 "wikilink")同業者間で手数料引き下げの競争をすることが多い。
 
 ### MRF
 
@@ -21,7 +21,7 @@
 
 ### ATMカード
 
-ATMカードは[セブン銀行](../Page/セブン銀行.md "wikilink")と[ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink")のATMでのみ利用可能\[3\]。ATMカードで[住信SBIネット銀行](https://ja.wikipedia.org/wiki/住信SBIネット銀行 "wikilink")のSBIハイブリッド預金に直接入金する。以前は、MRFへの入金のケースもあったが、MRFの新規扱いを停止したため、MRFの残高が完全になくなって解約扱いとなった場合はSBIハイブリッド預金へ入金される。SBIハイブリッド預金を利用しない場合は、単なる証券総合口座の預かり金として処理される。
+ATMカードは[セブン銀行](../Page/セブン銀行.md "wikilink")と[ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink")のATMでのみ利用可能\[3\]。ATMカードで[住信SBIネット銀行](../Page/住信SBIネット銀行.md "wikilink")のSBIハイブリッド預金に直接入金する。以前は、MRFへの入金のケースもあったが、MRFの新規扱いを停止したため、MRFの残高が完全になくなって解約扱いとなった場合はSBIハイブリッド預金へ入金される。SBIハイブリッド預金を利用しない場合は、単なる証券総合口座の預かり金として処理される。
 
 ## システム
 

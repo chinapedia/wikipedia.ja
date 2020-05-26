@@ -149,7 +149,7 @@
 <li>Quick &amp; Simple</li>
 <li>H2O</li>
 <li>SPVM</li>
-<li>Golden Ballers feat.<a href="https://ja.wikipedia.org/wiki/VERBAL" title="wikilink">VERBAL</a>(<a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>),<a href="../Page/NIPPS.md" title="wikilink">NIPPS</a></li>
+<li>Golden Ballers feat.<a href="../Page/VERBAL.md" title="wikilink">VERBAL</a>(<a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>),<a href="../Page/NIPPS.md" title="wikilink">NIPPS</a></li>
 <li>Nice</li>
 <li>Let The Music Take You Higher feat.ロボ宙,SHIVA,ZOI</li>
 <li>Tighten Up</li>

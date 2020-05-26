@@ -1,7 +1,7 @@
 > この記事は[CLAMP](https://ja.wikipedia.org/wiki/CLAMP)から翻訳されています。
 
 
-**CLAMP**（クランプ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")集団。**大川七瀬**（ストーリー担当）、**いがらし寒月**、**猫井椿**、**もこな**の4人からなる。
+**CLAMP**（クランプ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[漫画家](../Page/漫画家.md "wikilink")集団。**大川七瀬**（ストーリー担当）、**いがらし寒月**、**猫井椿**、**もこな**の4人からなる。
 
 ## 来歴
 
@@ -124,7 +124,7 @@
   - **[ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")**（講談社 2003年-2009年）
       - [ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")（講談社 2014年-2016年）
   - [ソエルとラーグ モコナ=モドキの冒険](https://ja.wikipedia.org/wiki/ソエルとラーグ_モコナ=モドキの冒険 "wikilink")（講談社 2004年）
-  - **[こばと。](https://ja.wikipedia.org/wiki/こばと。 "wikilink")**（角川書店 2006年-2011年）
+  - **[こばと。](../Page/こばと。.md "wikilink")**（角川書店 2006年-2011年）
   - [GATE 7](https://ja.wikipedia.org/wiki/GATE_7 "wikilink")（[集英社](../Page/集英社.md "wikilink") 2011年-休載中）
   - [ドラッグ＆ドロップ](../Page/合法ドラッグ_\(漫画\).md "wikilink")（角川書店 2011年-休載中）
   - [HiGH\&LOW g-sword](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜#漫画 "wikilink")（講談社 2017年）

@@ -1,7 +1,7 @@
 > この記事は[SHARPワールドドキュメント・世界のこれがNo\'1](https://ja.wikipedia.org/wiki/SHARPワールドドキュメント・世界のこれがNo\'1)から翻訳されています。
 
 
-『'''SHARPワールドドキュメント・世界のこれがNo'1 '''』（シャープワールドドキュメント せかいのこれがナンバーワン）は、[1981年](../Page/1981年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")から[1982年](../Page/1982年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[日本テレビ系列局ほかで放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。放送時間は毎週火曜 19:00 - 19:30 ([JST](../Page/日本標準時.md "wikilink")) 。
+『'''SHARPワールドドキュメント・世界のこれがNo'1 '''』（シャープワールドドキュメント せかいのこれがナンバーワン）は、[1981年](../Page/1981年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")から[1982年](../Page/1982年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[日本テレビ系列局ほかで放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。放送時間は毎週火曜 19:00 - 19:30 ([JST](../Page/日本標準時.md "wikilink")) 。
 
 ## 概要
 

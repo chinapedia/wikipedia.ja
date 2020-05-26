@@ -349,7 +349,7 @@
 <td><p>砂山蔵澄</p></td>
 <td><p>陣野翔成</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石倉賢一" title="wikilink">石倉賢一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下敏成" title="wikilink">山下敏成</a></p></td>
+<td><p><a href="../Page/山下敏成.md" title="wikilink">山下敏成</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>

@@ -1,7 +1,7 @@
 > この記事は[Hungry Spider](https://ja.wikipedia.org/wiki/Hungry_Spider)から翻訳されています。
 
 
-「**Hungry Spider**」（ハングリー・スパイダー）は、[1999年](../Page/1999年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された[槇原敬之](../Page/槇原敬之.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")元は[SME Records](../Page/エスエムイーレコーズ.md "wikilink")。
+「**Hungry Spider**」（ハングリー・スパイダー）は、[1999年](../Page/1999年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された[槇原敬之](../Page/槇原敬之.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")元は[SME Records](../Page/エスエムイーレコーズ.md "wikilink")。
 
 ## 解説
 

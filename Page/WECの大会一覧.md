@@ -521,14 +521,14 @@
     ○ [アレックス・スティーブリング](../Page/アレックス・スティーブリング.md "wikilink")（2R 1:54 [三角絞め](../Page/三角絞め.md "wikilink")）[ジョー・リッグス](https://ja.wikipedia.org/wiki/ジョー・リッグス "wikilink") ×
     ○ [ショーニー・カーター](https://ja.wikipedia.org/wiki/ショーニー・カーター "wikilink")（1R 0:30 TKO）[ゲイブ・ガルシア](https://ja.wikipedia.org/wiki/ゲイブ・ガルシア "wikilink") ×
     ○ [イーブス・エドワーズ](../Page/イーブス・エドワーズ.md "wikilink")（判定3-0）[デシャウン・ジョンソン](https://ja.wikipedia.org/wiki/デシャウン・ジョンソン "wikilink") ×
-    ○ [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink")（2R 0:45 KO）[マイク・スウィック](../Page/マイク・スウィック.md "wikilink") × **【ミドル級王座決定戦】**
+    ○ [クリス・リーベン](../Page/クリス・リーベン.md "wikilink")（2R 0:45 KO）[マイク・スウィック](../Page/マイク・スウィック.md "wikilink") × **【ミドル級王座決定戦】**
 
 ### 2001年 - 2003年
 
   - **WEC 8: Halloween Fury 2**（2003年10月17日）
     ○ [コール・エスコヴィード](https://ja.wikipedia.org/wiki/コール・エスコヴィード "wikilink")（2R 1:30 TKO）[アンソニー・ハムレット](https://ja.wikipedia.org/wiki/アンソニー・ハムレット "wikilink") × **【フェザー級タイトルマッチ】**
     ○ [ショーニー・カーター](https://ja.wikipedia.org/wiki/ショーニー・カーター "wikilink")（判定2-1）[JTテイラー](https://ja.wikipedia.org/wiki/JTテイラー "wikilink") × **【ウェルター級王座決定戦】**
-    ○ [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink")（1R 3:15 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")）[ブライアン・スリーマン](https://ja.wikipedia.org/wiki/ブライアン・スリーマン "wikilink") ×
+    ○ [クリス・リーベン](../Page/クリス・リーベン.md "wikilink")（1R 3:15 [腕ひしぎ十字固め](../Page/腕挫十字固.md "wikilink")）[ブライアン・スリーマン](https://ja.wikipedia.org/wiki/ブライアン・スリーマン "wikilink") ×
     ○ [ライアン・シュルツ](../Page/ライアン・シュルツ.md "wikilink")（1R 0:25 KO）[ハンニバル・アドフォ](https://ja.wikipedia.org/wiki/ハンニバル・アドフォ "wikilink") ×
   - **WEC 7: This Time It's Personal**（2003年8月9日）
     ○ [ロン・ウォーターマン](../Page/ロン・ウォーターマン.md "wikilink")（3R 2:31 TKO）[ジェームス・ネヴァレズ](https://ja.wikipedia.org/wiki/ジェームス・ネヴァレズ "wikilink") × **【スーパーヘビー級王座決定戦】**
@@ -546,7 +546,7 @@
     ○ [ギルバート・メレンデス](../Page/ギルバート・メレンデス.md "wikilink")（1R 4:37 TKO）[ゲーリー・クアン](https://ja.wikipedia.org/wiki/ゲーリー・クアン "wikilink") ×
   - **WEC 4: Rumble Under the Sun**（2002年8月31日）
     ○ [ジェレミー・ホーン](../Page/ジェレミー・ホーン.md "wikilink")（1R 0:54 [チョークスリーパー](../Page/裸絞.md "wikilink")）[アーロン・ブリンク](https://ja.wikipedia.org/wiki/アーロン・ブリンク "wikilink") ×
-    ○ [カート・ペレグリーノ](https://ja.wikipedia.org/wiki/カート・ペレグリーノ "wikilink")（判定3-0）[マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink") ×
+    ○ [カート・ペレグリーノ](https://ja.wikipedia.org/wiki/カート・ペレグリーノ "wikilink")（判定3-0）[マック・ダンジグ](../Page/マック・ダンジグ.md "wikilink") ×
     ○ [クリスチャン・ウェリッシュ](../Page/クリスチャン・ウェリッシュ.md "wikilink")（3R 3:42 TKO）[ジェイ・ホワイト](https://ja.wikipedia.org/wiki/ジェイ・ホワイト "wikilink") ×
     ○ [マイク・スウィック](../Page/マイク・スウィック.md "wikilink")（判定3-0）[ジェームス・ゲイバート](https://ja.wikipedia.org/wiki/ジェームス・ゲイバート "wikilink") ×
     ○ [ジェフ・カラン](../Page/ジェフ・カラン.md "wikilink")（判定2-1）[バオ・クァーチ](https://ja.wikipedia.org/wiki/バオ・クァーチ "wikilink") ×

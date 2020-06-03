@@ -7,7 +7,7 @@
 
 同社発行の白肌ギャル雑誌『[Vanilla girl](https://ja.wikipedia.org/wiki/Vanilla_girl "wikilink")』創刊と同時に、もともと白肌だったり、創刊を機に白肌になったモデルが移籍したりしたことから、本誌は対照的に黒肌ギャル向けの雑誌として力を入れるようになった。2008年12月号で、創刊通算100号を迎えた。専属モデルは「R's」と呼ばれ、加入時からあだ名が付けられる。 2013年12月号のリニューアルにより、大幅な路線変更が図られた。新しい誌面のテーマは「クラス1かわいくてオシャレなJKになれる」。
 
-2016年10月号をもち休刊\[2\]。ウェブサイトは継続される。
+2016年10月号をもって休刊\[2\]。
 
 ## 在籍モデル（カッコ内は愛称）
 
@@ -98,7 +98,6 @@
 
 ## 外部リンク
 
-  -
   -
   -
 [Category:ぶんか社](https://ja.wikipedia.org/wiki/Category:ぶんか社 "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink")

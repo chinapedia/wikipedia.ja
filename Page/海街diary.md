@@ -228,11 +228,11 @@
   - 看護師 - [野村麻純](https://ja.wikipedia.org/wiki/野村麻純 "wikilink")
   - 緒方将志（湘南オクトパスの選手） - [関ファイト](https://ja.wikipedia.org/wiki/関ファイト "wikilink")
   - 金子美帆（湘南オクトパスの選手） - [三上紗弥](https://ja.wikipedia.org/wiki/三上紗弥 "wikilink")
-  - 緒方ミドリ（海猫食堂の店員） - 原扶貴子
+  - 緒方ミドリ（海猫食堂の店員） - [原扶貴子](https://ja.wikipedia.org/wiki/原扶貴子 "wikilink")
   - 得納好美（佳乃の先輩） - [きむらゆき](https://ja.wikipedia.org/wiki/きむらゆき "wikilink")
   - 山根志乃（看護師） - [安宅陽子](https://ja.wikipedia.org/wiki/安宅陽子 "wikilink")
   - 紺野（零細工場の社長） - [小倉一郎](../Page/小倉一郎.md "wikilink")
-  - 他：[平田薫](../Page/平田薫_\(タレント\).md "wikilink")、野中隆光、斉藤加奈子、[工藤時子](../Page/工藤時子.md "wikilink")、長尾卓磨、柾賢志
+  - 他：[平田薫](../Page/平田薫_\(タレント\).md "wikilink")、[野中隆光](https://ja.wikipedia.org/wiki/野中隆光 "wikilink")、[斉藤加奈子](https://ja.wikipedia.org/wiki/斉藤加奈子 "wikilink")、[工藤時子](../Page/工藤時子.md "wikilink")、[長尾卓磨](https://ja.wikipedia.org/wiki/長尾卓磨 "wikilink")、[柾賢志](https://ja.wikipedia.org/wiki/柾賢志 "wikilink")
 
 ### スタッフ
 
@@ -402,7 +402,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/松尾彩加" title="wikilink">松尾彩加</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/内田健太" title="wikilink">内田健太</a></li>
+<li><a href="../Page/内田健太.md" title="wikilink">内田健太</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/大崎捺希" title="wikilink">大崎捺希</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/加藤央睦" title="wikilink">加藤央睦</a></li>
 </ul></td>

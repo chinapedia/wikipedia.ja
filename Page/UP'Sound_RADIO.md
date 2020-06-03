@@ -15,7 +15,7 @@
 
   - 2005年10月 -
   - 全国36ヶ所の[コミュニティーFMと](../Page/コミュニティ放送.md "wikilink")[有線放送CG](../Page/有線ラジオ放送.md "wikilink")-25ch「インディーズ・ステーション」（毎週日曜日 10:00 - /16:00 - /22:00 - /28:00 - ）にて放送。
-  - [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[三野友華子](https://ja.wikipedia.org/wiki/三野友華子 "wikilink")。
+  - [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[三野友華子](../Page/三野友華子.md "wikilink")。
   - 内容は1時間の[音楽番組](../Page/音楽番組.md "wikilink")。全国のライブハウスからの推薦[バンドの紹介](https://ja.wikipedia.org/wiki/音楽バンド "wikilink")、ゲストを呼んでの[インタビュー](../Page/インタビュー.md "wikilink")など。
 
 ### 第2期

@@ -356,7 +356,7 @@
 
 ## 脚注
 
-[Category:1989年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1989年のファミリーコンピュータ用ソフト "wikilink") [Category:イマジニアのゲームソフト](https://ja.wikipedia.org/wiki/Category:イマジニアのゲームソフト "wikilink") [Category:経営シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:経営シミュレーションゲーム "wikilink") [Category:タレントゲーム](https://ja.wikipedia.org/wiki/Category:タレントゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink")
+[Category:1989年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1989年のファミリーコンピュータ用ソフト "wikilink") [Category:イマジニアのゲームソフト](https://ja.wikipedia.org/wiki/Category:イマジニアのゲームソフト "wikilink") [Category:経営シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:経営シミュレーションゲーム "wikilink") [Category:実在の人物を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:実在の人物を題材としたコンピュータゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink")
 
 1.
 2.

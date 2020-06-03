@@ -131,7 +131,7 @@
   - 9月24日 [ステークスウィナー2](https://ja.wikipedia.org/wiki/ステークスウィナー2 "wikilink")（ザウルス）☆
   - 10月16日 [得点王 炎のリベロ](https://ja.wikipedia.org/wiki/得点王_\(ゲーム\) "wikilink")（SNK）☆
   - 10月25日 [サムライスピリッツ 天草降臨](../Page/サムライスピリッツ_天草降臨.md "wikilink")（SNK）☆
-  - 11月21日 [わくわく7](https://ja.wikipedia.org/wiki/わくわく7 "wikilink")（サンソフト）☆
+  - 11月21日 [わくわく7](../Page/わくわく7.md "wikilink")（サンソフト）☆
   - 11月25日 [ティンクルスタースプライツ](../Page/ティンクルスタースプライツ.md "wikilink")（SNK/ADK）☆
   - 12月17日 [ブレイカーズ](../Page/ブレイカーズ_\(テレビゲーム\).md "wikilink")（ビスコ）
   - [くにおの熱血闘球伝説](../Page/くにおの熱血闘球伝説.md "wikilink")\[6\]（[テクノスジャパン](../Page/テクノスジャパン.md "wikilink")）◎

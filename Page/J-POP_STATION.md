@@ -40,7 +40,7 @@
 | 01 | [Garden](https://ja.wikipedia.org/wiki/Garden_\(Sugar_Soulの曲\) "wikilink")                          | [Sugar Soul](https://ja.wikipedia.org/wiki/Sugar_Soul "wikilink") feat. [Kenji](../Page/降谷建志.md "wikilink") | 1999年9月8日   | WARNER MUSIC JAPAN                                     |
 | 02 | [マルシェ](https://ja.wikipedia.org/wiki/マルシェ_\(曲\) "wikilink")                                         | [KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")                                                | 2002年1月23日  |                                                        |
 | 03 | [TOMORROW](../Page/TOMORROW_\(岡本真夜の曲\).md "wikilink")                                               | [岡本真夜](../Page/岡本真夜.md "wikilink")                                                                          | 1995年5月10日  | [TOKUMA JAPAN](../Page/徳間ジャパンコミュニケーションズ.md "wikilink") |
-| 04 | [今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")                                   | [LINDBERG](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")                                         | 1990年2月7日   |                                                        |
+| 04 | [今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")                                                      | [LINDBERG](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")                                         | 1990年2月7日   |                                                        |
 | 05 | [情熱の薔薇](../Page/情熱の薔薇.md "wikilink")                                                                | [THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")                                                    | 1990年7月25日  | WARNER MUSIC JAPAN                                     |
 | 06 | [SPY](../Page/SPY_\(槇原敬之の曲\).md "wikilink")                                                         | 槇原敬之                                                                                                        | 1994年8月25日  |                                                        |
 | 07 | [長い夜](../Page/長い夜_\(松山千春の曲\).md "wikilink")                                                         | [松山千春](../Page/松山千春.md "wikilink")                                                                          | 1981年4月21日  | [PONY CANYON](../Page/ポニーキャニオン.md "wikilink")          |
@@ -100,7 +100,7 @@
 | 17 | [星空のディスタンス](../Page/星空のディスタンス.md "wikilink")                                          | [THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")         | 1984年1月21日  |                                            |
 | 18 | \[\[愛をとりもどせ                                                                           | |愛をとりもどせ                                                                | \]\]        | [クリスタルキング](../Page/クリスタルキング.md "wikilink") |
 | 19 | [気絶するほど悩ましい](https://ja.wikipedia.org/wiki/気絶するほど悩ましい "wikilink")                     | [Char](../Page/Char.md "wikilink")                                      | 1977年6月25日  |                                            |
-| 20 | [燃えろいい女](https://ja.wikipedia.org/wiki/燃えろいい女 "wikilink")                             | [ツイスト](../Page/世良公則&ツイスト.md "wikilink")                                 | 1979年4月5日   |                                            |
+| 20 | [燃えろいい女](../Page/燃えろいい女.md "wikilink")                                                | [ツイスト](../Page/世良公則&ツイスト.md "wikilink")                                 | 1979年4月5日   |                                            |
 
 ### CD-5：WARNER MUSIC JAPAN
 

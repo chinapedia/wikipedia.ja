@@ -56,7 +56,7 @@
 
   - 制作：[田久保正之](https://ja.wikipedia.org/wiki/田久保正之 "wikilink")、[森岡道夫](https://ja.wikipedia.org/wiki/森岡道夫 "wikilink")
   - プロデューサー：[田中はくどう](https://ja.wikipedia.org/wiki/田中はくどう "wikilink")
-  - 監督：[福原進](https://ja.wikipedia.org/wiki/福原進 "wikilink")
+  - 監督：[福原進](../Page/福原進.md "wikilink")
   - 助監督：[南柱根](../Page/南柱根.md "wikilink")
   - 脚本：[石堂淑朗](../Page/石堂淑朗.md "wikilink")、[西村雄一郎](../Page/西村雄一郎.md "wikilink")
   - 音楽：[池辺晋一郎](../Page/池辺晋一郎.md "wikilink")
@@ -117,7 +117,7 @@
   - 装飾：大庭信正
   - 衣裳：岩崎文男、小磯和代
   - ヘアメイク：佐藤光栄
-  - VFXスーパーバイザー：[オダイッセイ](https://ja.wikipedia.org/wiki/小田一生 "wikilink")
+  - VFXスーパーバイザー：[オダイッセイ](../Page/小田一生.md "wikilink")
   - 音響効果：伊藤瑞樹
   - スクリプター：近藤真智子
   - 助監督：吉田和弘

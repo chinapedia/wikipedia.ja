@@ -189,7 +189,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・リーベン" title="wikilink">クリス・リーベン</a></p></td>
+<td><p><a href="../Page/クリス・リーベン.md" title="wikilink">クリス・リーベン</a></p></td>
 <td><p>2004年1月16日 - 2005年1月</p></td>
 <td><p>0</p></td>
 <td></td>

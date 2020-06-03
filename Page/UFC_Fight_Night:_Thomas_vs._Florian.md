@@ -40,7 +40,7 @@
     ○  [ネイサン・ディアス](https://ja.wikipedia.org/wiki/ネイト・ディアス "wikilink") vs.  ジュニオール・アスンソン ×
     1R 4:10 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第8試合 ミドル級 5分3R
-    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
+    ○  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") vs.  [テリー・マーティン](../Page/テリー・マーティン.md "wikilink") ×
     3R 3:56 KO（左フック）
   - 第9試合 ライト級 5分3R
     ○  [ケニー・フロリアン](../Page/ケニー・フロリアン.md "wikilink") vs.  [ディン・トーマス](../Page/ディン・トーマス.md "wikilink") ×

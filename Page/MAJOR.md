@@ -212,7 +212,7 @@ MAJORシリーズは内容から以下のように分けることができ、本
 ## 外部リンク
 
   - [WEBサンデー｜MAJOR 2nd](http://websunday.net/rensai/major2nd/)
-  - [NHKアニメワールド メジャー MAJOR](http://www6.nhk.or.jp/anime/program/detail.html?i=major)
+  - [NHKアニメワールド メジャー MAJOR](https://www6.nhk.or.jp/anime/program/detail.html?i=major)
 
 [Category:MAJOR](https://ja.wikipedia.org/wiki/Category:MAJOR "wikilink") [Category:漫画作品_め](https://ja.wikipedia.org/wiki/Category:漫画作品_め "wikilink") [Category:1994年の漫画](https://ja.wikipedia.org/wiki/Category:1994年の漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:小学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:小学校を舞台とした漫画作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:神奈川県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした漫画作品 "wikilink") [Category:アメリカ合衆国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台とした作品 "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink")
 

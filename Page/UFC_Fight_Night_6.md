@@ -44,7 +44,7 @@ UFC初参戦となった[佐々木有生](../Page/佐々木有生.md "wikilink")
     ○  [ディーン・リスター](../Page/ディーン・リスター.md "wikilink") vs.  [佐々木有生](../Page/佐々木有生.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第8試合 ミドル級 5分3R
-    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  [ジョルジ・サンチアゴ](../Page/ジョルジ・サンチアゴ.md "wikilink") ×
+    ○  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") vs.  [ジョルジ・サンチアゴ](../Page/ジョルジ・サンチアゴ.md "wikilink") ×
     2R 0:35 KO（左フック）
   - 第9試合 ウェルター級 5分3R
     ○  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") vs.  [カロ・パリジャン](../Page/カロ・パリジャン.md "wikilink") ×

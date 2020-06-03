@@ -91,10 +91,10 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.nhk.or.jp/sun-asia/)
-  - [第9回　NHK アジア・フィルム・フェスティバル](http://www.nhk.or.jp/sun-asia/aff/9th/index.html)
-  - [第10回 NHK アジア・フィルム・フェスティバル](http://www.nhk.or.jp/sun-asia/aff/10th/index.html)
-  - [第11回 NHK アジア・フィルム・フェスティバル](http://www.nhk.or.jp/sun-asia/aff/11th/)
-  - [第12回 NHK アジア・フィルム・フェスティバル](http://www.nhk.or.jp/sun-asia/aff/12th/)
+  - [公式サイト](https://www.nhk.or.jp/sun-asia/)
+  - [第9回　NHK アジア・フィルム・フェスティバル](https://www.nhk.or.jp/sun-asia/aff/9th/index.html)
+  - [第10回 NHK アジア・フィルム・フェスティバル](https://www.nhk.or.jp/sun-asia/aff/10th/index.html)
+  - [第11回 NHK アジア・フィルム・フェスティバル](https://www.nhk.or.jp/sun-asia/aff/11th/)
+  - [第12回 NHK アジア・フィルム・フェスティバル](https://www.nhk.or.jp/sun-asia/aff/12th/)
 
 [Category:日本の映画祭](https://ja.wikipedia.org/wiki/Category:日本の映画祭 "wikilink") [Category:アジアの文化](https://ja.wikipedia.org/wiki/Category:アジアの文化 "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink")

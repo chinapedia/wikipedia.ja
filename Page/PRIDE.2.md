@@ -29,7 +29,7 @@
     ○  [ヘンゾ・グレイシー](../Page/ヘンゾ・グレイシー.md "wikilink") vs.  [菊田早苗](../Page/菊田早苗.md "wikilink") ×
     6R 0:43 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第6試合 スタンディングバウト 3分5R
-    ○  [タシス・"トスカ"・ペトリディス](https://ja.wikipedia.org/wiki/トスカ・ペトリディス "wikilink") vs.  ["ビッグ"・ジョージ・ランドルフ](../Page/ジョージ・ランドルフ_\(格闘家\).md "wikilink") ×
+    ○  [タシス・"トスカ"・ペトリディス](../Page/トスカ・ペトリディス.md "wikilink") vs.  ["ビッグ"・ジョージ・ランドルフ](../Page/ジョージ・ランドルフ_\(格闘家\).md "wikilink") ×
     5R終了 判定
   - 第7試合 PRIDEルール 10分無制限R
     ○  [マルコ・ファス](../Page/マルコ・ファス.md "wikilink") vs.  [ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") ×

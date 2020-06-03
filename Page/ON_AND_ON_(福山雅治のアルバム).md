@@ -52,7 +52,7 @@
 
   - 福山雅治：ボーカル・エレキギター・作詞・作曲
   - [山木秀夫](../Page/山木秀夫.md "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
-  - [河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：ドラム
+  - [河村"カースケ"智康](../Page/河村智康.md "wikilink")：ドラム
   - 小原礼：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・コーラス・編曲
   - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")：ベース
   - バズ・フェイテン：ギター

@@ -29,7 +29,7 @@
 10. RIDE ON THE EDGE
 11. LAST SMILE “style GR”
       - シングル「君が望む永遠 キャラクターイメージソング Portrait\*5 -孝之-」に収録されていた楽曲のリメイク版
-12. [DECADENCE](https://ja.wikipedia.org/wiki/DECADENCE_\(GRANRODEOの曲\) "wikilink")
+12. [DECADENCE](../Page/DECADENCE_\(GRANRODEOの曲\).md "wikilink")
       - OVA『[鬼公子炎魔](../Page/鬼公子炎魔.md "wikilink")』エンディングテーマ
 13. Vanessa
       - KISHOWと女性による掛け合いドラマ。ライブでは様々な趣向を凝らし、ファンを楽しませている。

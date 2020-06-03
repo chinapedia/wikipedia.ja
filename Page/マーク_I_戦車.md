@@ -1,11 +1,11 @@
 > この記事は[マーク I 戦車](https://ja.wikipedia.org/wiki/マーク_I_戦車)から翻訳されています。
 
 
-**マーク I 戦車**（マーク 1 せんしゃ、Mark I tank）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中に開発、使用した世界初の実用[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")である。
+**マーク I 戦車**（マーク 1 せんしゃ、）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中に開発し、世界で初めて実戦で使用された[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")である。
 
 ## 概要
 
-第一次世界大戦最中の[西部戦線における](../Page/西部戦線_\(第一次世界大戦\).md "wikilink")、[塹壕](../Page/塹壕.md "wikilink")と[機関銃](../Page/機関銃.md "wikilink")の圧倒的優位を打破するために誕生した世界初の近代的な実用戦車である。[ウィリアム・アシュビー・トリットン](https://ja.wikipedia.org/wiki/ウィリアム・アシュビー・トリットン "wikilink")([Sir William Ashbee Tritton](https://ja.wikipedia.org/wiki/:en:William_Tritton "wikilink"))と[ウォルター・ゴードン・ウィルソン](https://ja.wikipedia.org/wiki/ウォルター・ゴードン・ウィルソン "wikilink")([Walter Gordon Wilson](https://ja.wikipedia.org/wiki/:en:Walter_Gordon_Wilson "wikilink"))海軍大尉が設計を担当し、製造は（ウィリアム・アシュビー・トリットンが取締役を務める）「ウィリアム・フォスター農業機械会社（ウィリアム・フォスター社）」が行った。その形状から菱形戦車（）とも呼ばれる。
+第一次世界大戦最中の[西部戦線における](../Page/西部戦線_\(第一次世界大戦\).md "wikilink")、[塹壕](../Page/塹壕.md "wikilink")と[機関銃](../Page/機関銃.md "wikilink")の圧倒的優位を打破するために誕生した世界初の近代的な実用戦車である。[ウィリアム・アシュビー・トリットン](https://ja.wikipedia.org/wiki/ウィリアム・アシュビー・トリットン "wikilink")([Sir William Ashbee Tritton](https://ja.wikipedia.org/wiki/:en:William_Tritton "wikilink"))と[ウォルター・ゴードン・ウィルソン](https://ja.wikipedia.org/wiki/ウォルター・ゴードン・ウィルソン "wikilink")([Walter Gordon Wilson](https://ja.wikipedia.org/wiki/:en:Walter_Gordon_Wilson "wikilink"))海軍大尉が設計を担当し、製造は（ウィリアム・アシュビー・トリットンが取締役を務める）が行った。その形状から菱形戦車（）とも呼ばれる。
 
 イギリス海軍の主導により「[リトル・ウィリー](https://ja.wikipedia.org/wiki/リトル・ウィリー "wikilink")」の試作を経て、[1915年](../Page/1915年.md "wikilink")12月3日、「ビッグ・ウィリー」が初の走行試験に成功、[1916年](../Page/1916年.md "wikilink")2月、制式採用され量産化が決定し、「Mark I」の正式名称が与えられた。[1916年](../Page/1916年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")の[ソンムの戦い](../Page/ソンムの戦い.md "wikilink")における第3次攻勢にて初めて戦闘に投入されたが、機械的信頼性の低さや当初から乗員の居住性・操縦性が劣悪であるなどの問題を孕み続けた。また、歩兵の連携を得られないなど、それに見合う戦果を残すことができなかったとされる。
 
@@ -15,17 +15,17 @@
 
 ### 前史
 
-第一次世界大戦最中の[西部戦線において塹壕戦が始まり](../Page/西部戦線_\(第一次世界大戦\).md "wikilink")、各陣営共に長大な塹壕を掘り進めた結果、戦線は膠着状態に陥ってしまう。[機関銃](../Page/機関銃.md "wikilink")などの投入により、事態打破のための歩兵による突撃は簡単に阻止される、防御優位の状態となった。
+第一次世界大戦最中の[西部戦線において塹壕戦が始まり](../Page/西部戦線_\(第一次世界大戦\).md "wikilink")、各陣営共に長大な塹壕を掘り進めた結果、戦線は膠着状態に陥ってしまった。塹壕と塹壕の間には鉄条網が張られ、[機関銃](../Page/機関銃.md "wikilink")・迫撃砲・大砲などが配置され、たとえ歩兵が塹壕から出て突撃しても、敵陣にたどりつく前に、機関銃などの「恰好のまと」になって、ただむなしく撃ち殺されていってしまい、後から後から国民を徴兵しては戦線に投入しても、ただむなしく死んでしまう国民の数、そして[遺族](../Page/遺族.md "wikilink")の数が際限なく増えてゆくばかりで、泥沼のような状態、対峙する両軍や両国がどちらも疲弊してゆくばかりの状態に陥ってしまったのである。
 
 この状況を打開するため、各国では新しい戦術や兵器の考案が始められた。
 
-その中でイギリス陸軍の[アーネスト・ダンロップ・スウィントン](https://ja.wikipedia.org/wiki/アーネスト・ダンロップ・スウィントン "wikilink")[中佐](../Page/中佐.md "wikilink")（[Sir Ernest Dunlop Swinton](https://ja.wikipedia.org/wiki/:en:Ernest_Swinton "wikilink")、1868年 - 1951年）は、[アメリカのホルト社](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（現[キャタピラー社](../Page/キャタピラー_\(企業\).md "wikilink")）が実用化に成功した[無限軌道](../Page/無限軌道.md "wikilink")式トラクター（元は1908年にイギリスのホーンズビー社で開発された物だが、どこも関心を示さず、アメリカのホルト社に設計が売却された）をヒントに、これに装甲を施した戦闘室を搭載した戦闘車輌を着想する\[1\]。スウィントンによれば、このアイディアは[H・G・ウェルズ](https://ja.wikipedia.org/wiki/H・G・ウェルズ "wikilink")の小説「陸の甲鉄艦（The Land Ironclads）」から着想を得たものだったという。このアイディアは陸軍では却下されてしまうが、海軍が関心を持ち、[1915年](../Page/1915年.md "wikilink")3月、[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")により「陸上軍艦委員会」（委員長：ユースタス・テニソン・ダインコート）が創設され、超壕兵器「陸上軍艦（Landship）」の開発が始まった\[2\]。
+その中でイギリス陸軍の[アーネスト・ダンロップ・スウィントン](https://ja.wikipedia.org/wiki/アーネスト・ダンロップ・スウィントン "wikilink")[中佐](../Page/中佐.md "wikilink")（[Sir Ernest Dunlop Swinton](https://ja.wikipedia.org/wiki/:en:Ernest_Swinton "wikilink")、1868年 - 1951年）は、（スウィントン自身によると、[H・G・ウェルズ](https://ja.wikipedia.org/wiki/H・G・ウェルズ "wikilink")の小説『陸の甲鉄艦（[The Land Ironclads](https://ja.wikipedia.org/wiki/:en:The_Land_Ironclads "wikilink")）』から着想を得て）、[アメリカのホルト社](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（現[キャタピラー社](../Page/キャタピラー_\(企業\).md "wikilink")）が実用化に成功した[無限軌道](../Page/無限軌道.md "wikilink")式トラクター（元は1908年にイギリスのホーンズビー社で開発された物だが、どこも関心を示さず、アメリカのホルト社に設計が売却された）をヒントに、これに装甲を施した戦闘室を搭載した戦闘車輌を着想した\[1\]。このアイディアは陸軍では却下されてしまうが、海軍が関心を持ち、[1915年](../Page/1915年.md "wikilink")3月、[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")により「陸上軍艦委員会」（委員長：ユースタス・テニソン・ダインコート）が創設され、超壕兵器「陸上軍艦（Landship）」の開発が始まった\[2\]。
 
 ### 試作・試験
 
 [Little_Willie1915.jpg](https://ja.wikipedia.org/wiki/File:Little_Willie1915.jpg "fig:Little_Willie1915.jpg") [MkITankMotherHatfieldPark1916.jpg](https://ja.wikipedia.org/wiki/File:MkITankMotherHatfieldPark1916.jpg "fig:MkITankMotherHatfieldPark1916.jpg") 陸上軍艦の試験車輌は、1915年9月に完成し、開発担当者の名前から「トリットン・マシン」と呼ばれた\[3\]。だが、この試験車輌は軍が要求した超壕課題こそクリアしたものの、所定の段差を越えることができず、また足回りのトラブルも多かった\[4\]。そこで、トリットン・マシンの主に足回りを改良すべく、民生部品の流用を見直し、部品の専用設計を行い、製作されたのが、1915年12月に完成した「[リトル・ウィリー](https://ja.wikipedia.org/wiki/リトル・ウィリー "wikilink")」である\[5\]。だが、リトル・ウィリー自体は塹壕や不整地を走破する能力が低く、兵器としての実用に耐える物ではなかったことから、履帯が車体側面全体を回る形の菱形戦車の開発が進められる\[6\]。
 
-防諜のため、菱形戦車の試作車輌には、1915年11月4日に「水運搬車」というコードネームが名付けられたが、1915年12月24日に名称の変更が決定され、さまざまな名称が検討されたが、最終的に「タンク」が選ばれ、表向きにはメソポタミアの植民地向けに貯水槽（タンク）を製造していることになっていたが、植民地を失ったため、偽の契約の顧客としてロシア帝国が選ばれた。
+防諜のため、菱形戦車の試作車輌には、1915年11月4日に「water carrier 水運搬車」というコードネームが名付けられたが、1915年12月24日に名称の変更が決定され、さまざまな秘匿名が検討されたが、最終的に「tank タンク」（≒水槽）が選ばれ、表向きにはメソポタミアの植民地向けに貯水槽（タンク）を製造していることにされたが、この植民地を失ったため、偽(架空）の契約の顧客としてロシア帝国が選ばれた。
 
 完成した菱形戦車の試作車輌「ビッグ・ウィリー」は、[1916年](../Page/1916年.md "wikilink")2月2日、[ソールズベリー侯](../Page/ソールズベリー侯.md "wikilink")の邸宅にて、デモンストレーションを行い、丘、小川、鉄条網、塹壕といった課題をクリアした\[7\]。
 
@@ -39,7 +39,7 @@
 
 ### オールドベリー・トランスミッション・トライアル
 
-イギリス軍はマークI系戦車の変速機をより扱いやすいものとすべく、当時の[連合国各国の](https://ja.wikipedia.org/wiki/連合国_\(第一次世界大戦\) "wikilink")[自動車メーカー](https://ja.wikipedia.org/wiki/自動車メーカー "wikilink")や自動車技師達に改良案を募り、1917年3月に**オールドベリー変速機試験**（Oldbury transmission trials）が実施された。試験に参加したのは下記の6つの改良案であった\[16\]。
+イギリス軍はマークI系戦車の変速機をより扱いやすいものとすべく、当時の[連合国各国の](../Page/連合国_\(第一次世界大戦\).md "wikilink")[自動車メーカー](https://ja.wikipedia.org/wiki/自動車メーカー "wikilink")や自動車技師達に改良案を募り、1917年3月に**オールドベリー変速機試験**（Oldbury transmission trials）が実施された。試験に参加したのは下記の6つの改良案であった\[16\]。
 
   - 、（英国）の[ガス・エレクトリック方式](https://ja.wikipedia.org/wiki/ガス・エレクトリック方式 "wikilink")
 

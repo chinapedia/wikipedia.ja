@@ -25,7 +25,7 @@ UTF-32は、[テキストファイル](../Page/テキストファイル.md "wiki
 
 最初の[ISO/IEC 10646規格は](https://ja.wikipedia.org/wiki/ISO/IEC_10646 "wikilink")**UCS-4**と呼ばれる[31ビット](https://ja.wikipedia.org/wiki/31ビット "wikilink")の**符号化[文字集合](../Page/文字集合.md "wikilink")**（UTF（符号化形式/符号化スキーム）ではなくUCSであることに注意）を定義していた。この形式では、UCSに含まれるおのおのの符号化された[文字は](../Page/キャラクタ_\(コンピュータ\).md "wikilink")32ビットで扱いやすい、0〜7FFFFFFFの[符号位置で表現される](https://ja.wikipedia.org/wiki/符号点 "wikilink")。
 
-[最上位ビット](https://ja.wikipedia.org/wiki/最上位ビット "wikilink")が1になる値を避け、32ビットではなく31ビットとしたのは、これをコンピュータの内部表現として使用した場合に、最上位ビットが1のコードをエスケープなどの目的に使い、[ISO/IEC 2022などUnicodeないしISO](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink") 10646と異なるコード体系のための内部表現と共用するといった便宜のためである。参考として、4バイトコードで最上位ビットが1のコードを使うものに[GB 18030がある](https://ja.wikipedia.org/wiki/GB_18030 "wikilink")。
+[最上位ビット](https://ja.wikipedia.org/wiki/最上位ビット "wikilink")が1になる値を避け、32ビットではなく31ビットとしたのは、これをコンピュータの内部表現として使用した場合に、最上位ビットが1のコードをエスケープなどの目的に使い、[ISO/IEC 2022などUnicodeないしISO](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink") 10646と異なるコード体系のための内部表現と共用するといった便宜のためである。参考として、4バイトコードで最上位ビットが1のコードを使うものに[GB 18030がある](../Page/GB_18030.md "wikilink")。
 
 1114112個(= 2<sup>20</sup>+2<sup>16</sup>)の符号位置を持ち、そのため十六進で10FFFFまでしか必要としないUnicode符号空間のすべてを表現するのに、UCS-4は十分である。比較的小さな符号位置の集合へのマッピングのためにそのように大きな符号空間を予約するのは浪費だと考える者がいるので、新しい符号化形式UTF-32が提案された。UTF-32はUCS-4の部分集合で、32ビットの符号値を0から10FFFFの符号空間の範囲でのみ使用する。
 

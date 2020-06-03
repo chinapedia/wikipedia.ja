@@ -84,7 +84,7 @@
 ### 水戸満國高校
 
   - 小石川孝彰（こいしかわ たかあき）
-    前陣速攻型。気の遠くなるような反復練習で身につけたストップ性ナックルシュートで90%の確率でネットイン出来る。
+    前陣速攻型。気の遠くなるような反復練習で身につけたストップ性ナックルシュートで90%の確率でネットインできる。
 
   - 佐木淳三（さき じゅんぞう）
     シェークドライブ型。三球目ドライブやバックサイドに引き付けてからの広角ドライブなど、基本に忠実なラリーを展開する。
@@ -97,4 +97,4 @@
 
   - 猿渡翔太（さるわたり しょうた）
 
-[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:月刊少年チャンピオン](https://ja.wikipedia.org/wiki/Category:月刊少年チャンピオン "wikilink") [Category:卓球漫画](https://ja.wikipedia.org/wiki/Category:卓球漫画 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:茨城県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:茨城県を舞台とした作品 "wikilink")
+[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:2004年の漫画](https://ja.wikipedia.org/wiki/Category:2004年の漫画 "wikilink") [Category:月刊少年チャンピオン](https://ja.wikipedia.org/wiki/Category:月刊少年チャンピオン "wikilink") [Category:卓球漫画](https://ja.wikipedia.org/wiki/Category:卓球漫画 "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:茨城県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:茨城県を舞台とした漫画作品 "wikilink")

@@ -338,7 +338,7 @@ BNCP-163</p></td>
 <li><a href="../Page/ロックンロール_(くるりの曲).md" title="wikilink">ロックンロール</a> / <a href="https://ja.wikipedia.org/wiki/andymori" title="wikilink">andymori</a></li>
 <li><a href="../Page/Baby_I_Love_You_(くるりの曲).md" title="wikilink">Baby I Love You</a> / <a href="../Page/矢野顕子.md" title="wikilink">矢野顕子</a></li>
 <li><a href="../Page/ばらの花.md" title="wikilink">ばらの花</a> / <a href="../Page/奥田民生.md" title="wikilink">奥田民生</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/言葉はさんかく_こころは四角" title="wikilink">言葉はさんかく こころは四角</a> / <a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
+<li><a href="../Page/言葉はさんかく_こころは四角.md" title="wikilink">言葉はさんかく こころは四角</a> / <a href="https://ja.wikipedia.org/wiki/木村カエラ" title="wikilink">木村カエラ</a></li>
 <li>さよならストレンジャー / <a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
 <li><a href="../Page/虹_(くるりの曲).md" title="wikilink">虹</a> / <a href="../Page/ハンバート_ハンバート.md" title="wikilink">ハンバート ハンバート</a></li>
 <li><a href="../Page/ワンダーフォーゲル_(曲).md" title="wikilink">ワンダーフォーゲル</a> / <a href="../Page/高野寛.md" title="wikilink">高野寛</a></li>

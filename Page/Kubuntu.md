@@ -44,11 +44,11 @@ Kubuntu 8.04以前はKDE 3を搭載していた。Kubuntu 8.04 KDE 4.0 Remix\[4\
 
 ## 関連項目
 
-  - [Fluxbuntu](https://ja.wikipedia.org/wiki/Fluxbuntu "wikilink")
+  - [Fluxbuntu](../Page/Fluxbuntu.md "wikilink")
   - [Lubuntu](https://ja.wikipedia.org/wiki/Lubuntu "wikilink")
   - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink")
   - [Ubuntu GNOME](https://ja.wikipedia.org/wiki/Ubuntu_GNOME "wikilink")
-  - [Edubuntu](https://ja.wikipedia.org/wiki/Edubuntu "wikilink")
+  - [Edubuntu](../Page/Edubuntu.md "wikilink")
   - [Wubi](../Page/Wubi.md "wikilink")
   - [Linuxディストリビューションの比較](../Page/Linuxディストリビューションの比較.md "wikilink")
   - [Linuxライブディストリビューションの比較](../Page/Linuxライブディストリビューションの比較.md "wikilink")

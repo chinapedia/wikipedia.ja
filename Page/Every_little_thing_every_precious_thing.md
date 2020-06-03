@@ -5,7 +5,7 @@
 
 ## 解説
 
-[1991年世界陸上選手権](https://ja.wikipedia.org/wiki/1991年世界陸上選手権 "wikilink")の男子400m走において日本人初の決勝出場を決め、7位入賞を果たした[高野進](../Page/高野進.md "wikilink")選手に対し、夫人が「私が彼に[金メダル](../Page/金メダル.md "wikilink")をあげたい」とねぎらったシーンを[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")が見て、感動したことでこの曲が生まれた\[1\]。
+[1991年世界陸上選手権](https://ja.wikipedia.org/wiki/1991年世界陸上選手権 "wikilink")の男子400m走において日本人初の決勝出場を決め、7位入賞を果たした[高野進](../Page/高野進.md "wikilink")選手に対し、夫人が「私が彼に[金メダル](../Page/金メダル.md "wikilink")をあげたい」とねぎらったシーンを[渡瀬マキ](../Page/渡瀬マキ.md "wikilink")が見て、感動したことでこの曲が生まれた\[1\]。
 
 [阪神タイガース](../Page/阪神タイガース.md "wikilink")の[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")が登場する際のテーマ曲に使用したことで人気を集め、[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に、音源は当時のままだが、藤川の写真をジャケットにし、「球児の歌」として再発売されることとなった。初週に3,629枚を売り上げ[オリコン](../Page/オリコンチャート.md "wikilink")38位にランクインした。
 
@@ -15,7 +15,7 @@
 
 1.  **every little thing every precious thing**
       -
-        作詞：[渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")　作曲：[川添智久](../Page/川添智久.md "wikilink")　編曲：LINDBERG・[神長弘一](https://ja.wikipedia.org/wiki/神長弘一 "wikilink")・[井上龍仁](https://ja.wikipedia.org/wiki/井上龍仁 "wikilink")・[佐藤準](../Page/佐藤準.md "wikilink")（ストリングス・アレンジ）
+        作詞：[渡瀬マキ](../Page/渡瀬マキ.md "wikilink")　作曲：[川添智久](../Page/川添智久.md "wikilink")　編曲：LINDBERG・[神長弘一](https://ja.wikipedia.org/wiki/神長弘一 "wikilink")・[井上龍仁](https://ja.wikipedia.org/wiki/井上龍仁 "wikilink")・[佐藤準](../Page/佐藤準.md "wikilink")（ストリングス・アレンジ）
     <!-- end list -->
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[第16回全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")』エンディングテーマ曲
       - パナソニック（[松下電器産業](https://ja.wikipedia.org/wiki/パナソニック "wikilink")）「[ハイビジョンヨコヅナ](https://ja.wikipedia.org/wiki/パナソニックのテレビブランドの変遷#画王（がおう） "wikilink")」[CF曲](../Page/コマーシャルメッセージ.md "wikilink")

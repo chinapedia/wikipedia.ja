@@ -27,7 +27,7 @@
   - [2004年](../Page/2004年.md "wikilink") - [BoA](../Page/BoA.md "wikilink")＋[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")（久保田利伸の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[SOUL TREE〜a musical tribute to toshinobu kubota〜](../Page/SOUL_TREE〜a_musical_tribute_to_toshinobu_kubota〜.md "wikilink")』に収録）
   - [2004年](../Page/2004年.md "wikilink") - [ローラ・フィジィ](https://ja.wikipedia.org/wiki/ローラ・フィジィ "wikilink") (英語版。カバーアルバム『Song Book: 20 Jazz Greatest Hits』に収録)
   - [2005年](../Page/2005年.md "wikilink") - [パク・ヨンハ](../Page/パク・ヨンハ.md "wikilink")（ミニアルバム『sometime』に収録）
-  - [2007年](../Page/2007年.md "wikilink") - [カレン・コン](https://ja.wikipedia.org/wiki/カレン・コン "wikilink")「Na Na Na Nada Cinta」（[マレー語](../Page/マレー語.md "wikilink")版。アルバム『Mulakan』に収録\[1\]。日本版未発売）
+  - [2007年](../Page/2007年.md "wikilink") - [カレン・コン](https://ja.wikipedia.org/wiki/カレン・コン "wikilink")「Na Na Na Nada Cinta」（[マレー語](../Page/マレー語.md "wikilink")版。アルバム『Mulakan』に収録\[1\]）
   - [2009年](../Page/2009年.md "wikilink") - [三浦大知](../Page/三浦大知.md "wikilink")（ライブDVD『[DAICHI MIURA LIVE 2009-Encore of Our Love-](https://ja.wikipedia.org/wiki/Encore_of_Our_Love "wikilink")』に収録）
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [NOKKO](../Page/NOKKO.md "wikilink")「LA LA LA LOVE SONG feat.KG」（アルバム『KISS』に収録）
   - [2011年](../Page/2011年.md "wikilink") - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")（この歌のボーカルは[ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")、[NESMITH](https://ja.wikipedia.org/wiki/NESMITH "wikilink")）（アルバム『[願いの塔](https://ja.wikipedia.org/wiki/願いの塔 "wikilink")』の初回生産限定盤に付属している『EXILE COVER』に収録）、[あやまんJAPAN](https://ja.wikipedia.org/wiki/あやまんJAPAN "wikilink")（アルバム『[ぽいぽい](https://ja.wikipedia.org/wiki/ぽいぽい "wikilink")』に、「LA・LA・LA LOVE SONG〜久保田と潤子のラブソング〜 」として収録）

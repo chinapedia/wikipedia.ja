@@ -1,7 +1,7 @@
 > この記事は[GD Graphics Library](https://ja.wikipedia.org/wiki/GD_Graphics_Library)から翻訳されています。
 
 
-**GD グラフィック ライブラリ** (GD Graphics Library) は[トーマス・ボーテル](https://ja.wikipedia.org/wiki/トーマス・ボーテル "wikilink") (Thomas Boutell) 他によって作られた[イメージ](../Page/イメージ.md "wikilink")を動的に操作する[ライブラリ](../Page/ライブラリ.md "wikilink")である。本来の[プログラミング言語](../Page/プログラミング言語.md "wikilink")は[ANSI](../Page/米国国家規格協会.md "wikilink") [Cであるが](../Page/C言語.md "wikilink")、他の多くのプログラミング言語との[インタフェースが作成されている](../Page/インタフェース_\(情報技術\).md "wikilink")。[GIF](../Page/Graphics_Interchange_Format.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[PNG](../Page/Portable_Network_Graphics.md "wikilink")、[WBMP](https://ja.wikipedia.org/wiki/Wireless_Application_Protocol_Bitmap_Format "wikilink") を生成できる。
+**GD グラフィック ライブラリ** (GD Graphics Library) は[トーマス・ボーテル](https://ja.wikipedia.org/wiki/トーマス・ボーテル "wikilink") (Thomas Boutell) 他によって作られた[イメージ](../Page/イメージ.md "wikilink")を動的に操作する[ライブラリ](../Page/ライブラリ.md "wikilink")である。本来の[プログラミング言語](../Page/プログラミング言語.md "wikilink")は[ANSI](../Page/米国国家規格協会.md "wikilink") [Cであるが](../Page/C言語.md "wikilink")、他の多くのプログラミング言語との[インタフェースが作成されている](../Page/インタフェース_\(情報技術\).md "wikilink")。[GIF](../Page/Graphics_Interchange_Format.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[PNG](../Page/Portable_Network_Graphics.md "wikilink")、[WBMP](../Page/Wireless_Application_Protocol_Bitmap_Format.md "wikilink") を生成できる。
 
 [1999年](../Page/1999年.md "wikilink")に米[ユニシス](../Page/ユニシス.md "wikilink")がGIFに使用されている [LZW圧縮法の非商業的な](../Page/Lempel–Ziv–Welch.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")・プロジェクトに許可していた無償のライセンスを取り消したことにより、GIF を操作する機能は削除された。[2004年](../Page/2004年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、ユニシスの特許が世界中で失効した時に、GIFを操作する機能が再び実装された。
 

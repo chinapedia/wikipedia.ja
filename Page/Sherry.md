@@ -1,21 +1,23 @@
 > この記事は[Sherry](https://ja.wikipedia.org/wiki/Sherry)から翻訳されています。
 
 
-**sherry**（シェリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性2人組[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")。[藤賀事務所](https://ja.wikipedia.org/wiki/藤賀事務所 "wikilink")所属。
+**Sherry**（シェリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性2人組[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")。[藤賀事務所](https://ja.wikipedia.org/wiki/藤賀事務所 "wikilink")所属。
 
-## 来歴
+## 略歴
 
-**CASSIS：2007年 - 2008年**
+LDHとポニーキャニオンミュージックが合同で実施したオーディションによって結成された。グループ名のCASSISは、**C**reator **A**ctress **S**inger **Sis**tersという意味である\[1\]。
+
+**2007年 - 2008年：CASSIS**
 
   - 2007年8月17日、6人組グループ「**CASSIS**」としてデビュー。
   - 2008年5月、後藤真美が脱退し5人組となる。
 
-'''sherry：2009年 -
+**2009年 - 現在：Sherry**
 
-  - 2009年1月1日、事務所を移籍しグループ名を「**sherry**」に改名する。
+  - 2009年1月1日、事務所とレーベルを移籍しグループ名を「**Sherry**」に改名する。
   - 2009年12月 、斉藤優子、山本沙友里が脱退し3人組となる。
-  - 2013年5月16日、鈴木蛍が脱退し2人組となる\[1\]。
-  - 2014年8月より、メンバー2人がダンスボーカルグループ「[BeBeeLand](https://ja.wikipedia.org/wiki/BeBeeLand "wikilink")」を兼任する\[2\]\[3\]。
+  - 2013年5月16日、鈴木蛍が脱退し2人組となる\[2\]。
+  - 2014年8月より、メンバー2人がダンスボーカルグループ「[BeBeeLand](https://ja.wikipedia.org/wiki/BeBeeLand "wikilink")」を兼任する\[3\]\[4\]。
 
 ## メンバー
 
@@ -71,10 +73,10 @@
 <!-- end list -->
 
   -
-    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[士別市](../Page/士別市.md "wikilink")出身。血液型はA型。身長：161cm。姉が1人いる\[4\]。
-    特技はテニスとピアノ。中学時代はテニス部のキャプテンを務めていた\[5\]。
+    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[士別市](../Page/士別市.md "wikilink")出身。血液型はA型。身長：161cm。姉が1人いる\[5\]。
+    特技はテニスとピアノ。中学時代はテニス部のキャプテンを務めていた\[6\]。
     2011年、[D1グランプリのイメージガール](../Page/全日本プロドリフト選手権.md "wikilink")「D Sign」にタレントの[小林アナ](https://ja.wikipedia.org/wiki/小林アナ "wikilink")と共に選ばれる。
-    2013年5月16日に脱退\[6\]。現在はソロでタレント業に専念している。
+    2013年5月16日に脱退\[7\]。現在はソロでタレント業に専念している。
 
 ## ディスコグラフィー
 
@@ -134,7 +136,7 @@
 
   - ウサニ（2012年8月3日-26日、[ル テアトル銀座 by PARCO](https://ja.wikipedia.org/wiki/ル_テアトル銀座_by_PARCO "wikilink")） - ヘビイチゴの精霊役
 
-## 脚注・出典
+## 脚注
 
 <references />
 
@@ -160,3 +162,4 @@
 4.
 5.
 6.
+7.

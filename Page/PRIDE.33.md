@@ -1,11 +1,11 @@
 > この記事は[PRIDE.33](https://ja.wikipedia.org/wiki/PRIDE.33)から翻訳されています。
 
 
-**PRIDE.33 "THE SECOND COMING"**（プライド・サーティースリー "ザ・セカンドカミング"）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[トーマス&マック・センター](https://ja.wikipedia.org/wiki/トーマス&マック・センター "wikilink")で開催された。
+**PRIDE.33 "THE SECOND COMING"**（プライド・サーティースリー "ザ・セカンドカミング"）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2007年](../Page/2007年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[トーマス&マック・センター](../Page/トーマス&マック・センター.md "wikilink")で開催された。
 
 ## 大会概要
 
-本大会では[ジェームス・リー](../Page/ジェームス・リー.md "wikilink")、[トラビス・ビュー](https://ja.wikipedia.org/wiki/トラビス・ビュー "wikilink")、[ソクジュ](../Page/ソクジュ.md "wikilink")、[マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink")、[マイク・ルソー](../Page/マイク・ルソー.md "wikilink")、[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")の6名がPRIDEに初参戦を果たした。トラビス・ビューとの対戦が予定されていた[中村和裕](../Page/中村和裕.md "wikilink")は練習中の負傷（左膝[外側半月板損傷](https://ja.wikipedia.org/wiki/半月板損傷 "wikilink")）により、欠場となった\[1\]。
+本大会では[ジェームス・リー](../Page/ジェームス・リー.md "wikilink")、[トラビス・ビュー](https://ja.wikipedia.org/wiki/トラビス・ビュー "wikilink")、[ソクジュ](../Page/ソクジュ.md "wikilink")、[マック・ダンジグ](../Page/マック・ダンジグ.md "wikilink")、[マイク・ルソー](../Page/マイク・ルソー.md "wikilink")、[ニック・ディアス](../Page/ニック・ディアス.md "wikilink")の6名がPRIDEに初参戦を果たした。トラビス・ビューとの対戦が予定されていた[中村和裕](../Page/中村和裕.md "wikilink")は練習中の負傷（左膝[外側半月板損傷](https://ja.wikipedia.org/wiki/半月板損傷 "wikilink")）により、欠場となった\[1\]。
 
 第2試合の[フランク・トリッグ](../Page/フランク・トリッグ.md "wikilink")対[三崎和雄](../Page/三崎和雄.md "wikilink")を除いてはいずれの試合もKOまたは一本による決着となった。今大会がPRIDEデビュー戦となるPRIDE初のアフリカ人選手である[ソクジュ](../Page/ソクジュ.md "wikilink")は[アントニオ・ホジェリオ・ノゲイラ](../Page/アントニオ・ホジェリオ・ノゲイラ.md "wikilink")を試合開始23秒でTKOし、白星デビューを果たした。
 
@@ -15,7 +15,7 @@
 
 ### ルール変更
 
-本大会は[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")の管理下で行われたため、従来のPRIDEルールではなく、同コミッションの認可した統一総合格闘技ルールが適用された。そのため、試合時間は5分3Rとなり、また選手の体重差にかかわらず、グラウンド状態の相手の頭部への蹴りによる攻撃（[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")、踏みつけ、がぶりからの膝等）は全て禁止となった。なお、頭部への肘打ちは従来のPRIDEルール通り禁止とされた。当該ルールは[PRIDE.32](../Page/PRIDE.32.md "wikilink")においても同様に適用された。
+本大会は[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")の管理下で行われたため、従来のPRIDEルールではなく、同コミッションの認可した統一総合格闘技ルールが適用された。そのため、試合時間は5分3Rとなり、また選手の体重差にかかわらず、グラウンド状態の相手の頭部への蹴りによる攻撃（[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")、踏みつけ、がぶりからの膝等）は全て禁止となった。なお、頭部への肘打ちは従来のPRIDEルール通り禁止とされた。当該ルールは[PRIDE.32](../Page/PRIDE.32.md "wikilink")においても同様に適用された。
 
 ## 試合結果
 
@@ -32,7 +32,7 @@
     ○  [ソクジュ](../Page/ソクジュ.md "wikilink") vs.  [アントニオ・ホジェリオ・ノゲイラ](../Page/アントニオ・ホジェリオ・ノゲイラ.md "wikilink") ×
     1R 0:23 TKO（レフェリーストップ：左フック）
   - 第5試合 ライト級ワンマッチ 5分3R
-    ○  [桜井"マッハ"速人](../Page/桜井速人.md "wikilink") vs.  [マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink") ×
+    ○  [桜井"マッハ"速人](../Page/桜井速人.md "wikilink") vs.  [マック・ダンジグ](../Page/マック・ダンジグ.md "wikilink") ×
     2R 4:01 TKO（レフェリーストップ：右フック）
   - 第6試合 ヘビー級ワンマッチ 5分3R
     ○  [セルゲイ・ハリトーノフ](../Page/セルゲイ・ハリトーノフ.md "wikilink") vs.  [マイク・ルソー](../Page/マイク・ルソー.md "wikilink") ×

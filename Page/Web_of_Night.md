@@ -36,6 +36,6 @@
 
 ## 脚注
 
-[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:夜を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夜を題材とした楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:映画主題歌](https://ja.wikipedia.org/wiki/Category:映画主題歌 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
 
 1.

@@ -1,7 +1,7 @@
 > この記事は[High Level Shading Language](https://ja.wikipedia.org/wiki/High_Level_Shading_Language)から翻訳されています。
 
 
-**High Level Shading Language**（ハイレベル シェーディング ランゲージ、略称: **HLSL**）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")によって開発された、[Direct3D](../Page/Direct3D.md "wikilink") ([DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")) で使われる[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")のための[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[シェーディング言語](https://ja.wikipedia.org/wiki/シェーディング言語 "wikilink")である。かつては **High Level Shader Language** という呼び方もされていた\[1\]。ただしMSDNの日本語版では、Direct3D 11がリリースされた後でも**上位レベル シェーダー言語**（じょういれべるシェーダーげんご）という訳語を使用している\[2\] \[3\]。
+**High Level Shading Language**（ハイレベル シェーディング ランゲージ、略称: **HLSL**）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")によって開発された、[Direct3D](../Page/Direct3D.md "wikilink") ([DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")) で使われる[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")のための[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[シェーディング言語](../Page/シェーディング言語.md "wikilink")である。かつては **High Level Shader Language** という呼び方もされていた\[1\]。ただしMSDNの日本語版では、Direct3D 11がリリースされた後でも**上位レベル シェーダー言語**（じょういれべるシェーダーげんご）という訳語を使用している\[2\] \[3\]。
 
 HLSLは[OpenGL](../Page/OpenGL.md "wikilink")で使われるシェーディング言語である[GLSL](../Page/GLSL.md "wikilink")と（機能的には）類似の物である。また、[NVIDIA](../Page/NVIDIA.md "wikilink")と協力して開発されたことから、言語文法が[Cg](../Page/Cg_\(プログラミング言語\).md "wikilink")（C for Graphics）言語に非常によく似ている。
 

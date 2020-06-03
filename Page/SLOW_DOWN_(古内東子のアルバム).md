@@ -38,7 +38,7 @@
 8.  **彼の背中**
       -
         編曲：[十川知司](../Page/十川ともじ.md "wikilink")
-9.  **[はやくいそいで](https://ja.wikipedia.org/wiki/はやくいそいで "wikilink")**
+9.  **[はやくいそいで](../Page/はやくいそいで.md "wikilink")**
       -
         編曲：田辺恵二
         [MBS](../Page/毎日放送.md "wikilink")・[TBS系テレビ](../Page/TBSテレビ.md "wikilink")「[地球ZIGZAG](https://ja.wikipedia.org/wiki/地球ZIGZAG "wikilink")」エンディング・テーマ

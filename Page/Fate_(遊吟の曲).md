@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 前作「[水花火](https://ja.wikipedia.org/wiki/水花火 "wikilink")」から約5ヶ月ぶりとなる[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[Days](https://ja.wikipedia.org/wiki/Days_\(アルバム\) "wikilink")』と同時発売された。
+  - 前作「[水花火](https://ja.wikipedia.org/wiki/水花火 "wikilink")」から約5ヶ月ぶりとなる[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")『[Days](../Page/Days_\(アルバム\).md "wikilink")』と同時発売された。
   - 表題曲は[フジテレビ系列](../Page/フジネットワーク.md "wikilink")[恋愛バラエティ番組](../Page/恋愛バラエティ番組.md "wikilink")『[あいのり](../Page/あいのり.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に起用され\[1\]、[2007年](../Page/2007年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")から1年間番組内でオンエアされた。デビュー曲が同番組の主題歌に起用されるのは、[Miの](../Page/Mi_\(バンド\).md "wikilink")「[未来の地図](../Page/未来の地図.md "wikilink")」以来3年ぶり3組目となった。
   - 今作からメンバーのクレジットが[平仮名](../Page/平仮名.md "wikilink")表記から[漢字](../Page/漢字.md "wikilink")表記に変わった。
   - 初回生産限定盤と通常盤の2形態で発売され、初回生産限定盤には表題曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を収録した[DVD](../Page/DVD.md "wikilink")が同梱された。

@@ -39,7 +39,7 @@ m-floとしての活動以外にも、フィーチャリングワーク、様々
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [MIC BANDITZ](../Page/MIC_BANDITZ.md "wikilink")
   - L12：今井大介とのプロデューサーユニット
-  - TOSS & TURN：GIORGIO（[So' Fly](https://ja.wikipedia.org/wiki/So'_Fly "wikilink")、[DELiGHTED MINT](https://ja.wikipedia.org/wiki/DELiGHTED_MINT "wikilink")）とのユニット
+  - TOSS & TURN：[GIORGIO](https://ja.wikipedia.org/wiki/GIORGIO_13_CANCEMI "wikilink")（[So' Fly](https://ja.wikipedia.org/wiki/So'_Fly "wikilink")、[DELiGHTED MINT](https://ja.wikipedia.org/wiki/DELiGHTED_MINT "wikilink")）とのユニット
   - [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")
   - VMO：[おちまさと](../Page/おちまさと.md "wikilink")とのユニット
   - [PKCZ](https://ja.wikipedia.org/wiki/PKCZ "wikilink")

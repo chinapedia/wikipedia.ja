@@ -48,8 +48,8 @@
 <!-- end list -->
 
   - [となりのシムラ](https://ja.wikipedia.org/wiki/となりのシムラ "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - [こそこそチャップリン](https://ja.wikipedia.org/wiki/こそこそチャップリン "wikilink")（テレビ東京）
-  - [そこそこチャップリン](https://ja.wikipedia.org/wiki/そこそこチャップリン "wikilink")（テレビ東京）
+  - [こそこそチャップリン](https://ja.wikipedia.org/wiki/にちようチャップリン "wikilink")（テレビ東京）
+  - [そこそこチャップリン](https://ja.wikipedia.org/wiki/にちようチャップリン "wikilink")（テレビ東京）
   - [出川哲朗のリアルガチ](https://ja.wikipedia.org/wiki/出川哲朗のリアルガチ "wikilink")（テレビ東京）
   - [AKB48コント「何もそこまで…」](https://ja.wikipedia.org/wiki/AKB48コント「何もそこまで…」 "wikilink")（[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")）
   - [夜遊び三姉妹](https://ja.wikipedia.org/wiki/夜遊び三姉妹 "wikilink")（日本テレビ）

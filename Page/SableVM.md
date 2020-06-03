@@ -1,7 +1,7 @@
 > この記事は[SableVM](https://ja.wikipedia.org/wiki/SableVM)から翻訳されています。
 
 
-**SableVM** は、[クリーンルーム設計](https://ja.wikipedia.org/wiki/クリーンルーム設計 "wikilink")の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")[バイトコード](../Page/バイトコード.md "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")であり、[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")仕様第2版を実装している。
+**SableVM** は、[クリーンルーム設計](../Page/クリーンルーム設計.md "wikilink")の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")[バイトコード](../Page/バイトコード.md "wikilink")[インタプリタ](../Page/インタプリタ.md "wikilink")であり、[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")仕様第2版を実装している。
 
 SableVM プロジェクトは、頑健で、移植性に優れ、効率的で、完全標準仕様準拠（JVM仕様、[JNI](../Page/Java_Native_Interface.md "wikilink")、呼び出しインタフェース、デバッグインタフェースなど）で、保守と拡張が容易なJava仮想マシンを一から作ることを目的として開始された。
 

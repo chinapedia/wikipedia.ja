@@ -20,7 +20,7 @@
 1.  **5 AHEAD**（inst.）
 2.  **HEY\! Mr.SAMPLING MAN**
       -
-        作詞・作曲・編曲：[久保田光太郎](https://ja.wikipedia.org/wiki/久保田光太郎 "wikilink")
+        作詞・作曲・編曲：[久保田光太郎](../Page/久保田光太郎.md "wikilink")
 3.  **[DR](https://ja.wikipedia.org/wiki/DR/Only_One_Song "wikilink")**
       -
         作詞・作曲：久保田光太郎、編曲：久保田光太郎・[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")

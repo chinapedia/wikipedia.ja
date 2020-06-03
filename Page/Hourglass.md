@@ -12,7 +12,7 @@
 1.  **いつかきっと**
       -
         「かわいくなりたい」のカップリング曲。
-2.  **[誰より好きなのに](https://ja.wikipedia.org/wiki/誰より好きなのに "wikilink")**（Album Remix）
+2.  **[誰より好きなのに](../Page/誰より好きなのに.md "wikilink")**（Album Remix）
 3.  **ルール**
 4.  **心を全部くれるまで**
 5.  **[かわいくなりたい](https://ja.wikipedia.org/wiki/かわいくなりたい "wikilink")**

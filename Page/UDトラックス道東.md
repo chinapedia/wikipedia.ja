@@ -40,7 +40,7 @@
 ## 関連項目
 
   - [UDトラックスジャパン](https://ja.wikipedia.org/wiki/UDトラックスジャパン "wikilink")
-  - [UDトラックス北海道](https://ja.wikipedia.org/wiki/UDトラックス北海道 "wikilink")
+  - [UDトラックス北海道](../Page/UDトラックス北海道.md "wikilink")
   - [UDトラックス岩手](https://ja.wikipedia.org/wiki/UDトラックス岩手 "wikilink")
   - [UDトラックス新潟](../Page/UDトラックス新潟.md "wikilink")
   - [UDトラックス栃木](../Page/UDトラックス栃木.md "wikilink")

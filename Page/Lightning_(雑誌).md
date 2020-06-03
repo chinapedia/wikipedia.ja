@@ -1,7 +1,7 @@
 > この記事は[Lightning \(雑誌\)](https://ja.wikipedia.org/wiki/Lightning_\(雑誌\))から翻訳されています。
 
 
-『**Lightning**』（ライトニング）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[枻（エイ）出版社発行の男性向け総合](https://ja.wikipedia.org/wiki/エイ出版社 "wikilink")[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")。毎月30日発売。編集人：小池彰吾、発行人：角謙二。
+『**Lightning**』（ライトニング）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[枻（エイ）出版社発行の男性向け総合](../Page/エイ出版社.md "wikilink")[月刊誌](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")。毎月30日発売。編集人：小池彰吾、発行人：角謙二。
 
 ## 概要
 

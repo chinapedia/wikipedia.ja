@@ -142,9 +142,9 @@
 ## 関連項目
 
   - [大崎市](https://ja.wikipedia.org/wiki/大崎市 "wikilink")
-  - [鳴子鬼首テレビ中継局](https://ja.wikipedia.org/wiki/鳴子鬼首テレビ中継局 "wikilink")
-  - [東鳴子テレビ中継局](https://ja.wikipedia.org/wiki/東鳴子テレビ中継局 "wikilink")
-  - [白石中継局](https://ja.wikipedia.org/wiki/白石中継局 "wikilink")
+  - [鳴子鬼首テレビ中継局](../Page/鳴子鬼首テレビ中継局.md "wikilink")
+  - [東鳴子テレビ中継局](../Page/東鳴子テレビ中継局.md "wikilink")
+  - [白石中継局](../Page/白石中継局.md "wikilink")
 
 [Category:大崎市の建築物](https://ja.wikipedia.org/wiki/Category:大崎市の建築物 "wikilink") [Category:宮城県の放送送信所](https://ja.wikipedia.org/wiki/Category:宮城県の放送送信所 "wikilink") [Category:東北放送](https://ja.wikipedia.org/wiki/Category:東北放送 "wikilink") [Category:NHK仙台](https://ja.wikipedia.org/wiki/Category:NHK仙台 "wikilink") [Category:宮城テレビ放送](https://ja.wikipedia.org/wiki/Category:宮城テレビ放送 "wikilink") [Category:東日本放送](https://ja.wikipedia.org/wiki/Category:東日本放送 "wikilink") [Category:仙台放送](https://ja.wikipedia.org/wiki/Category:仙台放送 "wikilink") [Category:エフエム仙台](https://ja.wikipedia.org/wiki/Category:エフエム仙台 "wikilink")
 

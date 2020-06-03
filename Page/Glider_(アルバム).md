@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作『[5 AHEAD](https://ja.wikipedia.org/wiki/5_AHEAD "wikilink")』以来1年2ヶ月ぶりのリリースとなったオリジナル･アルバム。
+前作『[5 AHEAD](../Page/5_AHEAD.md "wikilink")』以来1年2ヶ月ぶりのリリースとなったオリジナル･アルバム。
 
 シングルからは、『[メッセージ/ひとりぼっちのハブラシ](https://ja.wikipedia.org/wiki/メッセージ/ひとりぼっちのハブラシ "wikilink")』以来のオリコン･シングルチャート初登場1位となった｢[ding-dong/glider](https://ja.wikipedia.org/wiki/ding-dong/glider "wikilink")｣をはじめ、ロングヒットとなった「[花唄](../Page/花唄_\(TOKIOの曲\).md "wikilink")」、シングルでは3部作形式をとった「[GREEN](../Page/GREEN_\(TOKIOの曲\).md "wikilink")」他、テレビCMや番組のテーマソングになった楽曲が多く収録されている。
 
@@ -21,7 +21,7 @@
 
 1.  **HUM A TUNE** \[4:34\]
       -
-        作詞・作曲・編曲：[久保田光太郎](https://ja.wikipedia.org/wiki/久保田光太郎 "wikilink")
+        作詞・作曲・編曲：[久保田光太郎](../Page/久保田光太郎.md "wikilink")
 2.  **『コンクリート』『ジャパニーズ』『サンデー』** \[4:45\]
       -
         作詞・作曲・編曲：久保田光太郎

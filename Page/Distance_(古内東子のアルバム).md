@@ -16,7 +16,7 @@
 1.  **[Distance](https://ja.wikipedia.org/wiki/Distance_\(古内東子の曲\) "wikilink")**
       -
         編曲：遠藤亮
-2.  **[逢いたいから](https://ja.wikipedia.org/wiki/逢いたいから "wikilink")**
+2.  **[逢いたいから](../Page/逢いたいから.md "wikilink")**
       -
         編曲：遠藤亮
         [MBS](../Page/毎日放送.md "wikilink")・[TBS系](../Page/TBSテレビ.md "wikilink")[JTドラマBOX](https://ja.wikipedia.org/wiki/JTドラマBOX "wikilink")「[デザートはあなた](../Page/デザートはあなた.md "wikilink")」テーマ曲

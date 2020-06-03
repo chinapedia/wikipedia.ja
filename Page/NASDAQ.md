@@ -52,7 +52,6 @@
   - [ワコール](../Page/ワコール.md "wikilink")ホールディングス（WACLY）
   - [三菱電機](../Page/三菱電機.md "wikilink")（MISEY）
   - [FRONTEO](https://ja.wikipedia.org/wiki/FRONTEO "wikilink")（FTEO）
-  - [ペッパーフードサービス](../Page/ペッパーフードサービス.md "wikilink")(KPFS)
   - [くら寿司](https://ja.wikipedia.org/wiki/くら寿司 "wikilink")USA（KRUS）\[4\]\[5\]
 
 ## 関連する取引所

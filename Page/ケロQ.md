@@ -56,6 +56,6 @@
   - [プチケロＱ](https://www.keroq.co.jp/petitkeroq/index.htm)
 
   -
-[Category:ケロQ](https://ja.wikipedia.org/wiki/Category:ケロQ "wikilink")
+[Category:ケロQ](https://ja.wikipedia.org/wiki/Category:ケロQ "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:1998年設立の企業](https://ja.wikipedia.org/wiki/Category:1998年設立の企業 "wikilink")
 
 1.  ※18禁

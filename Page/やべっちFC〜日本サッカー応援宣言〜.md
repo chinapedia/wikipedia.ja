@@ -434,7 +434,7 @@ Jリーグの全日程終了から「[Jリーグアウォーズ](https://ja.wiki
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>（EX）<br />
 <strong>『やべっち FC』制作局</strong></p></td>
 <td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
-<td><p>月曜 0:05 - 0:40（日曜深夜）</p></td>
+<td><p>日曜 23:55 - 翌0:25</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>

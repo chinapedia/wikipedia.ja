@@ -1,9 +1,13 @@
 > この記事は[Amazon.com](https://ja.wikipedia.org/wiki/Amazon.com)から翻訳されています。
 
 
-61万3,300人<small>（2018年）</small>\[1\] | 決算期 = [12月末日](../Page/12月31日.md "wikilink")\[2\] | 主要株主 = [ジェフ・ベゾス](../Page/ジェフ・ベゾス.md "wikilink") 19.1%
-キャピタル・ワールド・インベスターズ 6.2%
-（2013年2月22日現在）\[3\] | 主要子会社 = NYサービシズ・インク 100%
+61万3,300人<small>（2018年）</small>\[1\] | 決算期 = [12月末日](../Page/12月31日.md "wikilink")\[2\] | 主要株主 = [ジェフ・ベゾス](../Page/ジェフ・ベゾス.md "wikilink") 11.1%
+[The Vanguard Group, Inc.](https://ja.wikipedia.org/wiki/バンガード・グループ "wikilink") 6.30%
+[マッケンジー・ベゾス](https://ja.wikipedia.org/wiki/マッケンジー・ベゾス "wikilink") 3.92%
+SSgA Funds Management, Inc. 3.40%
+Fidelity Management & Research Co. 3.02%
+T. Rowe Price Associates, Inc. (Investment Management) 3.01%
+(2020年5月9日現在)\[3\] | 主要子会社 = NYサービシズ・インク 100%
 アマゾン・サービシズLLC 100%
 アマゾン・サービシズ・インターナショナル・インク 100%
 アマゾン・イーユー・エス・エイ・アール・エル 100%
@@ -18,7 +22,9 @@
 アマゾン・ドット・コムNVインベストメント・ホールディングスLLC 100%
 アマゾン・ドット・コムディーイーディーシーLLC 100%
 ラブフィルムUKリミテッド 100%
-（2012年12月31日現在）\[4\] | 関係する人物 = | 外部リンク =  | 特記事項 = 1994年7月に[ワシントン州](../Page/ワシントン州.md "wikilink")法人として設立。1996年6月に[デラウェア州](../Page/デラウェア州.md "wikilink")法人として再設立\[5\]。2010年上期に本社移転。 }} （**アマゾン・ドット・コム・インク**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](../Page/シアトル.md "wikilink")に本拠を構える[ECサイト](https://ja.wikipedia.org/wiki/ECサイト "wikilink")、[Webサービス](../Page/Webサービス.md "wikilink")会社である。アレクサ・インターネット、[A9.com](https://ja.wikipedia.org/wiki/A9.com "wikilink")、[Internet Movie Database](https://ja.wikipedia.org/wiki/Internet_Movie_Database "wikilink")（IMDb）などを保有している。アメリカ合衆国の主要な[IT企業で](../Page/情報技術.md "wikilink")、**[GAFA](https://ja.wikipedia.org/wiki/GAFA "wikilink")**\[6\]\[7\]\[8\]、また**[FAANG](https://ja.wikipedia.org/wiki/FAANG "wikilink")**\[9\]\[10\]のひとつである。
+（2012年12月31日現在）\[4\] | 関係する人物 = | 外部リンク =  | 特記事項 = 1994年7月に[ワシントン州](../Page/ワシントン州.md "wikilink")法人として設立。1996年6月に[デラウェア州](../Page/デラウェア州.md "wikilink")法人として再設立\[5\]。2010年上期に本社移転。 }} （**アマゾン・ドット・コム・インク**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](../Page/シアトル.md "wikilink")に本拠を構える多国籍テクノロジー企業、並びに同社が運営する[ECサイト](https://ja.wikipedia.org/wiki/ECサイト "wikilink")の名称である。
+
+同社は[電子商取引](../Page/電子商取引.md "wikilink")、[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、[デジタルストリーミング](../Page/ストリーミング.md "wikilink")、[AI開発に重点を置くアメリカ合衆国の主要な](../Page/人工知能.md "wikilink")[IT企業の一つで](../Page/情報技術.md "wikilink")、**[GAFA](https://ja.wikipedia.org/wiki/GAFA "wikilink")**\[6\]\[7\]\[8\]、また**[FAANG](https://ja.wikipedia.org/wiki/FAANG "wikilink")**\[9\]\[10\]のひとつである。
 
 2019年現在、Amazon.comがアメリカ国外でサイトを運営している国は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")\[11\]、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")\[12\]、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")\[13\]、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")\[14\]、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")\[15\]、[中国](../Page/中華人民共和国.md "wikilink")\[16\]、[イタリア](../Page/イタリア.md "wikilink")\[17\]、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")\[18\]、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")\[19\]、[インド](../Page/インド.md "wikilink")\[20\]、[メキシコ](../Page/メキシコ.md "wikilink")\[21\]、[オーストラリア](../Page/オーストラリア.md "wikilink")\[22\]、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")\[23\]、[トルコ](../Page/トルコ.md "wikilink")\[24\]、[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")\[25\]の15か国である。
 
@@ -46,7 +52,7 @@ Amazonが創業時に掲げた[ビジネスモデル](../Page/ビジネスモデ
 
 2011年、Amazonはアメリカでフルタイム従業員を3万人雇用していた。2016年末の時点で、アメリカにおける従業員は18万人、全世界のフルタイムおよびパートタイム従業員は30万6,800人となっていた\[48\]。
 
-本社のある[シアトル](../Page/シアトル.md "wikilink")は[ボーイング](../Page/ボーイング.md "wikilink")の[企業城下町](../Page/企業城下町.md "wikilink")として知られていたが、2010年代には市内のオフィスの20パーセントを占有し経済効果の累計が4兆円を超えるなど、アマゾンの企業城下町となりつつある\[49\]。
+本社のある[シアトル](../Page/シアトル.md "wikilink")は[ボーイング](../Page/ボーイング.md "wikilink")の[企業城下町](../Page/企業城下町.md "wikilink")として知られていたが、2018年現在では市内オフィスの20パーセントをAmazonが使用しており、同社による経済効果の累計が4兆円を超えるなど、アマゾンの企業城下町となりつつある\[49\]。
 
 ## 沿革
 
@@ -406,8 +412,8 @@ Amazon ビデオはインターネットの[ビデオ・オン・デマンド](.
 3.
 4.
 5.
-6.  [ガーファ【GAFA】 - デジタル大辞泉](https://kotobank.jp/word/GAFA-1999733#E3.83.8ゆたふぬかてしねーーーー7.E3.82.B8.E3.82.BF.E3.83.AB.E5.A4.A7.E8.BE.9E.E6.B3.89) [コトバンク](https://ja.wikipedia.org/wiki/コトバンク "wikilink"). 2ぬ辞めねふスなぬな）か018年12月27日閲覧。
-7.  \[<https://kotobank.jp/word/GAFA-1999733#E7.9F.うんこーーー>。
+6.  [ガーファ【GAFA】 - デジタル大辞泉](https://kotobank.jp/word/GAFA-1999733#E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E5.A4.A7.E8.BE.9E.E6.B3.89) [コトバンク](https://ja.wikipedia.org/wiki/コトバンク "wikilink"). 2018年12月27日閲覧。
+7.  \[<https://kotobank.jp/word/GAFA-1999733#E7.9F>.\]
 8.  [GAFA Approach to Digital Banking Transformation](https://www.accentunking-beyond-everyday-bank) [Accenture](../Page/アクセンチュア.md "wikilink"). 2018年12月27日閲覧。
 9.  [ファング【FAANG】 - デジタル大辞泉](https://kotobank.jp/word/FAANG-2095708#E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E5.A4.A7.E8.BE.9E.E6.B3.89) [コトバンク](https://ja.wikipedia.org/wiki/コトバンク "wikilink"). 2018年12月27日閲覧。
 10. [焦点：ＦＡＡＮＧ株の「落日」鮮明、スダック弱気相場入りで](https://jp.reuters.com/article/faang-investment-idJPKCN1OK0F4?il=0) [ロイター](../Page/ロイター.md "wikilink"). (2018年12月21日, 15:21) 2018年12月27日閲覧。

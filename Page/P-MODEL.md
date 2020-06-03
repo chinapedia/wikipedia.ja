@@ -34,7 +34,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/平沢進" title="wikilink">平沢 進</a></strong><br />
+<td><p><strong><a href="../Page/平沢進.md" title="wikilink">平沢 進</a></strong><br />
 （ひらさわ すすむ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a><br />
 <a href="../Page/ギター.md" title="wikilink">ギター</a><br />
@@ -332,14 +332,16 @@ CROW</p></td>
 
 Colors =
 
-`id:vo   value:red                       legend:Vocal`
-`id:gt   value:green                     legend:Guitar`
-`id:ba   value:rgb(0.000,0.000,0.753)    legend:Bass`
-`id:dr   value:rgb(0.999,0.059,0.529)    legend:Drums,_Percussion`
-`id:key  value:purple                    legend:Keyboard,_Synthesizer`
-`id:vio  value:rgb(0.925,0.471,0.000)    legend:Violin`
-`id:cho  value:yellow                    legend:Chorus`
-`id:lines   value:black                  legend:Studio_albums`
+`id:vo     value:red                       legend:Vocal`
+`id:gt     value:green                     legend:Guitar`
+`id:ba     value:blue                      legend:Bass`
+`id:dr     value:redorange                 legend:Drums,_Percussion`
+`id:key    value:purple                    legend:Keyboard,_Synthesizer`
+`id:sys    value:magenta                   legend:Systems`
+`id:vio    value:teal                      legend:Violin`
+`id:cho    value:yellow                    legend:Chorus`
+`id:virDr  value:coral                     legend:Virtual_drums`
+`id:lines   value:black                    legend:Studio_albums`
 `id:bars    value:gray(0.9)`
 `id:bs      value:gray(0.1)`
 `id:hh      value:gray(0.3)`
@@ -368,12 +370,12 @@ BarData =
 `bar:kikuchi   text:Tatsuya Kikuchi`
 `bar:yokogawa  text:Tadahiko Yokogawa`
 `bar:nakano    text:Teruo Nakano`
-`bar:konishi   text:Kenji Konishi`
 `bar:tanaka    text:Yasumi Tanaka`
 `bar:miura     text:Syunichi Miura`
 `bar:takahashi text:Yoshikazu Takahashi`
 `bar:kotobuki  text:Hikaru Kotobuki`
 `bar:fukuma    text:Hajime Fukuma`
+`bar:konishi   text:Kenji Konishi`
 `bar:tainaka   text:Sadatoshi Tainaka`
 `bar:araki     text:Yasuhiro Araki`
 `bar:fujii     text:Yasuchika Fujii`
@@ -382,49 +384,50 @@ BarData =
 
 PlotData=
 
-`width:15 textcolor:black align:left anchor:from shift:(10,-4)`
+`width:13 textcolor:black align:left anchor:from shift:(10,-4)`
 `bar:hirasawa  from:01/01/1979 till:28/12/1988 color:vo`
 `bar:hirasawa  from:01/01/1979 till:28/12/1988 color:gt  width:7`
+`bar:hirasawa  from:01/01/1979 till:05/08/1984 color:key width:3`
 `bar:hirasawa  from:23/09/1991 till:11/10/1993 color:vo`
 `bar:hirasawa  from:23/09/1991 till:11/10/1993 color:gt  width:7`
 `bar:hirasawa  from:30/11/1994 till:20/12/2000 color:vo`
-`bar:hirasawa  from:30/11/1994 till:20/12/2000 color:gt  width:9`
-`bar:hirasawa  from:15/05/1997 till:20/12/2000 color:key width:3`
+`bar:hirasawa  from:30/11/1994 till:20/12/2000 color:gt  width:7`
+`bar:hirasawa  from:30/11/1994 till:20/12/2000 color:key width:3`
 `bar:akiyama   from:01/01/1979 till:03/11/1980 color:ba`
-`bar:akiyama   from:01/01/1979 till:03/11/1980 color:cho width:9`
+`bar:akiyama   from:01/01/1979 till:03/11/1980 color:cho width:7`
 `bar:akiyama   from:01/01/1979 till:03/11/1980 color:key width:3`
 `bar:akiyama   from:23/09/1991 till:11/10/1993 color:key`
-`bar:akiyama   from:23/09/1991 till:11/10/1993 color:cho width:9`
+`bar:akiyama   from:23/09/1991 till:11/10/1993 color:cho width:7`
 `bar:akiyama   from:23/09/1991 till:11/10/1993 color:ba  width:3`
 `bar:kikuchi   from:21/11/1980 till:05/08/1984 color:ba`
-`bar:kikuchi   from:21/11/1980 till:05/08/1984 color:cho width:7`
+`bar:kikuchi   from:21/11/1980 till:05/08/1984 color:cho width:5`
 `bar:yokogawa  from:28/08/1984 till:26/12/1985 color:ba`
-`bar:yokogawa  from:28/08/1984 till:26/12/1985 color:cho width:9`
+`bar:yokogawa  from:28/08/1984 till:26/12/1985 color:cho width:7`
 `bar:yokogawa  from:28/08/1984 till:26/12/1985 color:vio width:3`
 `bar:nakano    from:23/01/1986 till:28/12/1988 color:ba`
-`bar:nakano    from:23/01/1986 till:28/12/1988 color:cho width:9`
+`bar:nakano    from:23/01/1986 till:28/12/1988 color:cho width:7`
 `bar:nakano    from:23/01/1986 till:28/12/1988 color:key width:3`
-`bar:konishi   from:30/11/1994 till:20/12/2000 color:key`
-`bar:konishi   from:30/11/1994 till:20/12/2000 color:cho width:9`
+`bar:konishi   from:30/11/1994 till:20/12/2000 color:sys`
+`bar:konishi   from:30/11/1994 till:20/12/2000 color:cho width:7`
 `bar:konishi   from:30/11/1994 till:20/12/2000 color:ba  width:3`
 `bar:tanaka    from:01/01/1979 till:20/03/1983 color:key`
-`bar:tanaka    from:01/01/1979 till:20/03/1983 color:cho width:7`
+`bar:tanaka    from:01/01/1979 till:20/03/1983 color:cho width:5`
 `bar:miura     from:27/03/1983 till:26/12/1985 color:key`
-`bar:miura     from:27/03/1983 till:26/12/1985 color:cho width:7`
-`bar:takahashi from:23/01/1986 till:27/09/1987 color:key`
-`bar:takahashi from:23/01/1986 till:27/09/1987 color:cho width:7`
+`bar:miura     from:27/03/1983 till:26/12/1985 color:cho width:5`
+`bar:takahashi from:23/01/1986 till:27/09/1987 color:sys`
+`bar:takahashi from:23/01/1986 till:27/09/1987 color:cho width:5`
 `bar:kotobuki  from:01/11/1987 till:28/12/1988 color:key`
-`bar:kotobuki  from:01/11/1987 till:28/12/1988 color:cho width:7`
+`bar:kotobuki  from:01/11/1987 till:28/12/1988 color:cho width:5`
 `bar:kotobuki  from:23/09/1991 till:11/10/1993 color:key`
-`bar:kotobuki  from:23/09/1991 till:11/10/1993 color:cho width:7`
-`bar:fukuma    from:30/11/1994 till:20/12/2000 color:key`
-`bar:fukuma    from:30/11/1994 till:20/12/2000 color:cho width:7`
+`bar:kotobuki  from:23/09/1991 till:11/10/1993 color:cho width:5`
+`bar:fukuma    from:30/11/1994 till:20/12/2000 color:sys`
+`bar:fukuma    from:30/11/1994 till:20/12/2000 color:cho width:5`
 `bar:tainaka   from:01/01/1979 till:23/12/1984 color:dr`
 `bar:tainaka   from:14/03/1987 till:28/12/1988 color:dr`
 `bar:araki     from:21/12/1984 till:14/03/1987 color:dr`
 `bar:fujii     from:23/09/1991 till:11/10/1993 color:dr`
 `bar:kamiryo   from:30/11/1994 till:15/05/1997 color:dr`
-`bar:tainaco   from:21/10/1997 till:20/12/2000 color:dr`
+`bar:tainaco   from:21/10/1997 till:20/12/2000 color:virDr`
 
 </timeline>
 
@@ -434,7 +437,7 @@ PlotData=
 
 <!-- end list -->
 
-  - 5thアルバム『[ANOTHER GAME](https://ja.wikipedia.org/wiki/ANOTHER_GAME "wikilink")』の発売延期に関して、当時のマネージャーである広瀬充が[ジャパンレコードと揉めて帰ってきたところ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、平沢に「その怒りを音で表現するんだ」と言われて結成したバンド。LPを1枚リリースしている他、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に“P-MODELの前座”という形で1回ライブを行っている。
+  - 5thアルバム『[ANOTHER GAME](https://ja.wikipedia.org/wiki/ANOTHER_GAME "wikilink")』の発売延期に関して、当時のマネージャーである広瀬充が[ジャパンレコードと揉めて帰ってきたところ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、平沢に「その怒りを音で表現するんだ」と言われて結成したバンド。ソノシートを1枚リリースしている他、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に“P-MODELの前座”という形で1回ライブを行っている。
 
 <table>
 <thead>
@@ -813,7 +816,7 @@ TAKA</p></td>
 
     6月10日 - 新宿LOFTにて2Daysライブを開催。このライブから試験的に[Amiga](../Page/Amiga.md "wikilink")が導入される。
 
-    7月1日 - 初の全国流通映像作品『**三界の人体地図**』リリース。4月のFUJI AV LIVEの映像と、平沢がAmigaで制作したオリジナルCGが収録された。
+    7月1日 - 初の全国流通映像作品『**三界の人体地図**』リリース。4月のFUJI AV LIVEの映像と、平沢裕一が制作した立体アニメーションが収録された。
 
     12月28日 - [渋谷・CLUB QUATTROで行われたライブにて](https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO "wikilink")「凍結宣言」を発表。同日を以て活動休止となる。
 
@@ -1526,7 +1529,7 @@ TAKA</p></td>
   - **[P-PLANT CD Vol.1](https://ja.wikipedia.org/wiki/P-PLANT_CD_Vol.1 "wikilink")**（2000年6月1日）
       -
         1999年に配信されたサンプル集などがすべて収録。
-  - **太陽系亞種音**（オリジナル版:2002年5月10日　再発売版:2014年7月4日）
+  - **[太陽系亞種音](https://ja.wikipedia.org/wiki/太陽系亞種音 "wikilink")**（オリジナル版:2002年5月10日　再発売版:2014年7月4日）
       -
         クロニクル・アルバム集ボックス（バインダー）セット。オリジナル・アルバム12枚をはじめ、過去発表されたP-MODELの音源のほぼ全てを収録した「P-MODEL全集」とも言えるボックスセット。2010年にバインダー版の販売を終了し、装丁を変更して2014年7月に再発売された。
 

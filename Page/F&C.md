@@ -427,7 +427,7 @@ F\&Cは[2001年](../Page/2001年.md "wikilink")の組織改編以降、積極的
   -
   -
   -
-[Category:F\&C](https://ja.wikipedia.org/wiki/Category:F&C "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink")
+[Category:F\&C](https://ja.wikipedia.org/wiki/Category:F&C "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink")
 
 1.
 2.  [シャルラク、時限課金システムにより“おたく向け”コンテンツ販売](https://internet.watch.impress.co.jp/www/article/2000/0630/shall.htm)（[INTERNET Watch](../Page/Impress_Watch.md "wikilink")、2000年6月30日

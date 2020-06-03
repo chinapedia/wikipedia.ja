@@ -15,7 +15,7 @@
 
 [thumbのMiG](https://ja.wikipedia.org/wiki/ファイル:MiG-29-2008-Vasylkiv.jpg "wikilink")-29\]\] 操縦装置は[フライ・バイ・ワイヤ](../Page/フライ・バイ・ワイヤ.md "wikilink")方式ではなく、[リンク機構](../Page/リンク機構.md "wikilink")による機械式を採用している。主翼は、前縁には[コンピュータ](../Page/コンピュータ.md "wikilink")制御の前縁[フラップ](../Page/高揚力装置.md "wikilink")、後縁には外側に補助翼と内側にフラップを装備している。主翼付け根部分から前方にかけて長く伸びた[LERX](https://ja.wikipedia.org/wiki/ストレーキ "wikilink")（前縁付け根延長）が形成されており、中央胴体とともに[揚力](../Page/揚力.md "wikilink")を発生させる。主翼前縁の上部には[失速](../Page/失速.md "wikilink")防止のため[ヴォルテックス・ジェネレーターが装備されており](https://ja.wikipedia.org/wiki/ヴォルテックスジェネレータ "wikilink")、主翼上部からの気流を乱流化することで剝離を防いでいる。[垂直尾翼](../Page/垂直尾翼.md "wikilink")は外側に6度の角度をつけて取り付けられており、[水平尾翼](../Page/水平尾翼.md "wikilink")は全遊動式である。[補助翼](../Page/補助翼.md "wikilink")と水平尾翼と垂直尾翼の[方向舵](../Page/方向舵.md "wikilink")を連動させて[ロール軸（ローリング）の操縦性を強化している他](https://ja.wikipedia.org/wiki/ローリング "wikilink")、機械式の[ヨー軸（ヨーイング）操縦安定増強装置が付加されている](https://ja.wikipedia.org/wiki/ヨーイング "wikilink")。主翼の付け根部分の下部に取付けられている[エンジン](../Page/エンジン.md "wikilink")の[空気取り入れ口には](../Page/エアインテーク.md "wikilink")、開閉式のドアが設けられており、[タキシング](../Page/タキシング.md "wikilink")時にはこのドアを閉めて異物の侵入を防いでいる、ドアには小さい穴を設けて閉じた状態でも空気を取り入れられるようになっているが、それだけでは[吸気](https://ja.wikipedia.org/wiki/吸気 "wikilink")流量が不足するため、機体上部のLERX部分に装備された[ルーバー](../Page/ルーバー.md "wikilink")型の補助空気取り入れ口を開いて、そこから必要な空気を取り入れるようになっている。これは国土が極端に広いソ連の国情を反映したもので、不整地や[凍土](../Page/凍土.md "wikilink")など滑走路以外から離着陸する際に[異物を吸い込んでのエンジン損傷を防ぎ](https://ja.wikipedia.org/wiki/FOD_\(航空用語\) "wikilink")、より安全に運用するための工夫である。
 
-[コックピットには](../Page/軍用機のコックピット.md "wikilink")、前面にアナログ型の計器が並んでおり、前方中央上部に[ヘッドアップディスプレイ](../Page/ヘッドアップディスプレイ.md "wikilink")（HUD）がある。[操縦桿](../Page/操縦桿.md "wikilink")とエンジンの出力を制御するスロットル・レバーには計10個のスイッチが装備されており、HUDに飛行に必要な情報を映し出すことで、[パイロットが飛行中でも視線を逸らしたり手を離すことなく](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、スイッチを操作することができる[HOTASを導入している](https://ja.wikipedia.org/wiki/操縦桿#操縦桿上の装置 "wikilink")。
+[MiG-29_cockpit_3.jpg](https://ja.wikipedia.org/wiki/File:MiG-29_cockpit_3.jpg "fig:MiG-29_cockpit_3.jpg") [コックピットには](../Page/軍用機のコックピット.md "wikilink")、前面にアナログ型の計器が並んでおり、前方中央上部に[ヘッドアップディスプレイ](../Page/ヘッドアップディスプレイ.md "wikilink")（HUD）がある。[操縦桿](../Page/操縦桿.md "wikilink")とエンジンの出力を制御するスロットル・レバーには計10個のスイッチが装備されており、HUDに飛行に必要な情報を映し出すことで、[パイロットが飛行中でも視線を逸らしたり手を離すことなく](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、スイッチを操作することができる[HOTASを導入している](https://ja.wikipedia.org/wiki/操縦桿#操縦桿上の装置 "wikilink")。
 
 機首には、ファザトロンN019ルービンコヒーレント型パルス・[ドップラー・レーダー](../Page/ドップラー・レーダー.md "wikilink")を搭載しており、最大探知距離は100km、目標の最大追跡距離は70kmで、[ルックダウン・シュートダウン能力を持ち](https://ja.wikipedia.org/wiki/ルックダウン能力 "wikilink")、最大で10目標追尾が可能で、中距離[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")により視程外射程（BVR)攻撃が可能である。複座型は前方のスペースを潰す形で座席を追加したため、一部を除いて簡単な測距レーダーしか搭載していない。
 
@@ -47,9 +47,11 @@
 
 ## 戦歴
 
-MiG-29は、機動性には優れていると評価されていたが、実戦では十分な支援を受けた敵方との戦闘が相次いだことから、[湾岸戦争](../Page/湾岸戦争.md "wikilink")では5機（[イラク空軍機](https://ja.wikipedia.org/wiki/イラク治安部隊#イラク軍 "wikilink")）、[コソボ紛争](https://ja.wikipedia.org/wiki/コソボ紛争 "wikilink")では6機（[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")所属）のMiG-29 <small>var.B</small>が[撃墜](../Page/撃墜.md "wikilink")されるなど、芳しい戦果を挙げられずにいた。
+MiG-29は、機動性には優れていると評価されていたが、実戦では十分な支援を受けた敵方との戦闘が相次いだことから、[湾岸戦争](../Page/湾岸戦争.md "wikilink")では5機（[イラク空軍](../Page/イラク空軍.md "wikilink")機）、[コソボ紛争](https://ja.wikipedia.org/wiki/コソボ紛争 "wikilink")では6機（[ユーゴスラビア連邦共和国](../Page/ユーゴスラビア連邦共和国.md "wikilink")/[セルビア](../Page/セルビア.md "wikilink")所属）のMiG-29 <small>var.B</small>が[撃墜](../Page/撃墜.md "wikilink")されるなど、芳しい戦果を挙げられずにいた。
 
 MiG-29が真価を見せたのは、双方共に十分な支援を得られなかった[エチオピアとエリトリア国境紛争における](../Page/エチオピア・エリトリア国境紛争.md "wikilink")[Su-27との空戦および](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")[2009年](../Page/2009年.md "wikilink")[南オセチア](https://ja.wikipedia.org/wiki/南オセチア "wikilink")州の帰属に関して[ロシア](../Page/ロシア.md "wikilink")・[グルジア](https://ja.wikipedia.org/wiki/グルジア "wikilink")間に発生した[南オセチア紛争](../Page/南オセチア紛争.md "wikilink")においてである。
+
+また、インド空軍のMiG-29は1999年のにおいて、レーザー誘導爆弾を用いての精密攻撃を行う[ミラージュ2000](https://ja.wikipedia.org/wiki/ミラージュ2000 "wikilink")の護衛機として活動した。
 
 ### エリトリア国境紛争
 

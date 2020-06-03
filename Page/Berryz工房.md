@@ -817,6 +817,15 @@ Buono!メンバー<br />
 43. Berryz工房 DVD MAGAZINE Vol.41（2015年2月28日） - メンバー別7種
 44. Berryz工房 DVD MAGAZINE Vol.42（2015年2月28日）
 45. Berryz工房 DVD MAGAZINE Vol.43（2015年3月3日）
+46. Berryz工房&℃-ute DVD PAMPHLET
+47. Berryz工房&℃-ute DVD MAGAZINE Vol.1
+48. Berryz工房&℃-ute DVD MAGAZINE Vol.2
+49. Berryz工房&℃-ute DVD MAGAZINE Vol.3
+50. Berryz工房&℃-ute DVD MAGAZINE Vol.4
+51. Berryz工房&℃-ute DVD MAGAZINE Vol.5
+52. Berryz工房\&S/mileage DVD MAGAZINE Vol.1
+53. Berryz工房\&juice=juice DVD MAGAZINE Vol.1
+54. Berryz工房\&juice=juice DVD MAGAZINE Vol.2
 
 #### FC限定
 

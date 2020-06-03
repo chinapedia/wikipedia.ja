@@ -5,7 +5,7 @@
 
 ## 概要
 
-[USMC-111215-M-JU941-001.jpg](https://ja.wikipedia.org/wiki/File:USMC-111215-M-JU941-001.jpg "fig:USMC-111215-M-JU941-001.jpg") このヘリコプターは[ペーパークリップ作戦](../Page/ペーパークリップ作戦.md "wikilink")で[カマン](https://ja.wikipedia.org/wiki/カマン "wikilink")社に入った[ドイツ人](../Page/ドイツ人.md "wikilink")の[アントン・フレットナー](../Page/アントン・フレットナー.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")[中に開発した](https://ja.wikipedia.org/wiki/戦時 "wikilink")[フレットナー Fl 282](https://ja.wikipedia.org/wiki/フレットナー_Fl_282 "wikilink") *Kolibri*と同じ原理が使われている。
+[USMC-111215-M-JU941-001.jpg](https://ja.wikipedia.org/wiki/File:USMC-111215-M-JU941-001.jpg "fig:USMC-111215-M-JU941-001.jpg") このヘリコプターは[ペーパークリップ作戦](../Page/ペーパークリップ作戦.md "wikilink")で[カマン](https://ja.wikipedia.org/wiki/カマン "wikilink")社に入った[ドイツ人](../Page/ドイツ人.md "wikilink")の[アントン・フレットナー](../Page/アントン・フレットナー.md "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")[中に開発した](https://ja.wikipedia.org/wiki/戦時 "wikilink")[フレットナー Fl 282](../Page/フレットナー_Fl_282.md "wikilink") *Kolibri*と同じ原理が使われている。
 
 K-1200 K-MAX "aerial truck"は世界初の外部に貨物を吊り下げて垂直に飛行する事に特化した設計のヘリコプターである。幅の狭い[機体](https://ja.wikipedia.org/wiki/機体 "wikilink")構造は[パイロット両側の視界を確保する為である](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。また機体による[ダウンウォッシュ](https://ja.wikipedia.org/wiki/ダウンウォッシュ "wikilink")[空気抵抗](https://ja.wikipedia.org/wiki/空気抵抗 "wikilink")が減るメリットもある。
 

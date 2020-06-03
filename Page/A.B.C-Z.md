@@ -19,10 +19,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/橋本良亮.md" title="wikilink">橋本良亮</a></strong><br />
-<small>（はしもと りょうすけ）</small></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/イケメン太郎" title="wikilink">イケメン太郎</a></strong><br />
+<small>（いけめんたろう）</small></p></td>
 <td></td>
-<td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イケメンアイランド" title="wikilink">イケメンアイランド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a></p></td>
 <td><p><a href="../Page/赤.md" title="wikilink">赤</a></p></td>
 </tr>
@@ -35,24 +35,24 @@
 <td><p><a href="../Page/ピンク.md" title="wikilink">ピンク</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/河合郁人.md" title="wikilink">河合郁人</a></strong><br />
-<small>（かわい ふみと）</small></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/加工した後藤輝基" title="wikilink">加工した後藤輝基</a></strong><br />
+</p></td>
 <td></td>
-<td><p>東京都</p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/東淀川区.md" title="wikilink">東淀川区</a>淡路4丁目8-27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">A型</a></p></td>
 <td><p><a href="../Page/紫.md" title="wikilink">紫</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/五関晃一.md" title="wikilink">五関晃一</a></strong><br />
-<small>（ごせき こういち）</small></p></td>
-<td></td>
-<td><p>東京都</p></td>
-<td><p>A型</p></td>
-<td><p><a href="../Page/青.md" title="wikilink">青</a></p></td>
+<td><p>五関晃一<br />
+</p></td>
+<td><p>不明</p></td>
+<td><p>不明</p></td>
+<td><p>不明</p></td>
+<td><p>なし</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/塚田僚一" title="wikilink">塚田僚一</a></strong><br />
-<small>（つかだ りょういち）</small></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/面白担当" title="wikilink">面白担当</a></strong><br />
+<small>【おもしろたとう】</small></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">O型</a></p></td>
@@ -63,7 +63,7 @@
 
 ## 概要
 
-  - グループ名は「**A**crobat **B**oys **C**lub」の略\[4\]\[5\]に「Z」を加えたものである。Zは“ゼロ”や、アルファベットの最後で“完結した”ということから、「この5人でゼロからスタートを切っていく」\[6\]、「ゼロにもなるから、常に再出発、リ・スタートが切れる」\[7\]という意味が込められている。
+  - グループ名は「**A**crobat **B**oys **C**lub」の略\[4\]\[5\]に「Z」を加えたものである。ABCはアルファベットの始まりの文字で、Zは“ゼロ”や、アルファベットの最後で“完結した”ということから、「この5人でゼロからスタートを切っていく」\[6\]、「ゼロにもなるから、常に再出発、リ・スタートが切れる」\[7\]という意味が込められている。
   - 主に[堂本光一](../Page/堂本光一.md "wikilink")や[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")らジャニーズ事務所の先輩の舞台への出演、コンサートでのバックダンサーなどで活動してきた\[8\]。ステージ上でのダンスやバック転などの[アクロバット](../Page/アクロバット.md "wikilink")を得意とするユニットであり\[9\]、全員がバク宙できる\[10\]\[11\]。そのため、音だけのCDより映像が見られるDVDの方が自分たちの良さが伝わるということから2012年にジャニーズ史上初めてDVDでデビューを果たした\[12\]。CDは2014年に初リリースされた。
 
 ## 来歴
@@ -120,43 +120,47 @@
 
 :\* 7月18日 - 10月14日、アミューズメント施設・[東京ジョイポリスとのコラボレーションイベント](https://ja.wikipedia.org/wiki/ジョイポリス#東京ジョイポリス "wikilink")「A.B.C-Z 5stars CIRCUS in JOYPOLIS」が開催され、グループにとって初の広告出演を果たす\[27\]。歴代のシングル楽曲を含む全18曲を聴きながら楽しめる絶叫アトラクション「ハーフパイプトーキョー」や、デビュー曲「Za ABC〜5stars〜」と新曲「JOYしたいキモチ」によるプレミアムデジタルライブが企画される他、コラボカフェ「A.B.C-Z cafe」では「A.B.Sea Market サンド」や「Vanilla フロート」、メンバーカラーを使用したカラーフロートなどが販売された\[28\]\[29\]。
 
+  - 2020年
+
+:\*5月13日、ジャニーズ事務所所属グループによる[新型コロナウイルス感染拡大防止の支援活動](../Page/2019新型コロナウイルス.md "wikilink")『[Smile Up\! Project](https://ja.wikipedia.org/wiki/Smile_Up!_Project "wikilink")』の一環として、A.B.C-Zのメンバーを含む76名の期間限定ユニット「[Twenty★Twenty](https://ja.wikipedia.org/wiki/Twenty★Twenty "wikilink")」を結成することが発表された\[30\]。
+
 ## 作品
 
 ### CDシングル
 
-| 枚                      | 発売日         | タイトル                                                                                                                                | 販売形態           | 規格品番      | 順位                  | 収録アルバム         |
-| ---------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- | ------------------- | -------------- |
-| 1                      | 2015年9月30日  | **[Moonlight walker](https://ja.wikipedia.org/wiki/Moonlight_walker "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04288          | 1位\[30\]       |
-| 初回限定盤B                 | CD+DVD      | PCCA-04289                                                                                                                          |                |           |                     |                |
-| 初回限定盤C                 | CD+DVD      | PCCA-04290                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-04291                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (橋本ver.) | CD          | SCCA-00026                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (戸塚ver.) | CD          | SCCA-00027                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (河合ver.) | CD          | SCCA-00028                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (五関ver.) | CD          | SCCA-00029                                                                                                                          |                |           |                     |                |
-| A.B.C-Z SHOP盤 (塚田ver.) | CD          | SCCA-00030                                                                                                                          |                |           |                     |                |
-| 2                      | 2016年6月22日  | **[Take a "5" Train](https://ja.wikipedia.org/wiki/Take_a_"5"_Train "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04411          | 3位             |
-| 初回限定盤B                 | CD+DVD      | PCCA-04412                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-04413                                                                                                                          |                |           |                     |                |
-| 3                      | 2017年2月1日   | '''\[\[Reboot                                                                                                                       | \!|Reboot      | \!\]\]''' | 初回限定5周年Anniversary盤 | CD+2DVD        |
-| 初回限定5周年Best盤           | CD+2DVD     | PCCA-04507                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-04508                                                                                                                          |                |           |                     |                |
-| 4                      | 2017年12月13日 | **[終電を超えて〜Christmas Night/忘年会\!BOU\!NEN\!KAI\!](https://ja.wikipedia.org/wiki/終電を超えて〜Christmas_Night/忘年会!BOU!NEN!KAI! "wikilink")** | 初回限定ジングルベル盤    | CD+DVD    | PCCA-04613          | 2位\[31\]</ref> |
-| 初回限定BU\! REI\! KOU\!盤  | CD+DVD      | PCCA-04614                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-04615                                                                                                                          |                |           |                     |                |
-| 5                      | 2018年8月29日  | **[JOYしたいキモチ](https://ja.wikipedia.org/wiki/JOYしたいキモチ "wikilink")**                                                                 | 初回限定盤A         | CD+DVD    | PCCA-04710          | 1位\[32\]       |
-| 初回限定盤B                 | CD+DVD      | PCCA-04711                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-04712                                                                                                                          |                |           |                     |                |
-| 6                      | 2019年3月27日  | **[Black Sugar](https://ja.wikipedia.org/wiki/Black_Sugar_\(A.B.C-Zの曲\) "wikilink")**                                               | 初回限定盤A         | CD+DVD    | PCCA-04754          | 3位\[33\]       |
-| 初回限定盤B                 | CD+DVD      | PCCA-04755                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-04756                                                                                                                          |                |           |                     |                |
-| 7                      | 2019年9月25日  | '''\[\[DAN_DAN_Dance                                                                                                              | |DAN DAN Dance | \]\]'''   | 初回限定盤A              | CD+DVD         |
-| 初回限定盤B                 | CD+DVD      | PCCA-04857                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-04858                                                                                                                          |                |           |                     |                |
-| 8                      | 2020年3月18日  | **[チートタイム](https://ja.wikipedia.org/wiki/チートタイム "wikilink")**                                                                       | 初回限定盤A         | CD+DVD    | PCCA-04945          | 2位             |
-| 初回限定盤B                 | CD+DVD      | PCCA-04946                                                                                                                          |                |           |                     |                |
-| 通常盤                    | CD          | PCCA-70552                                                                                                                          |                |           |                     |                |
-|                        |             |                                                                                                                                     |                |           |                     |                |
+| 枚                                    | 発売日         | タイトル                                                                                                                                | 販売形態           | 規格品番      | 順位                  | 収録アルバム         |
+| ------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- | ------------------- | -------------- |
+| 1                                    | 2015年9月30日  | **[Moonlight walker](https://ja.wikipedia.org/wiki/Moonlight_walker "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04288          | 1位\[31\]       |
+| 初回限定盤B                               | CD+DVD      | PCCA-04289                                                                                                                          |                |           |                     |                |
+| 初回限定盤C                               | CD+DVD      | PCCA-04290                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-04291                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (王子ラブ❤ver.)            | CD          | SCCA-00026                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (戸塚ver.)               | CD          | SCCA-00027                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (あのニュースで得する人損する人ver.)  | CD          | SCCA-00028                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (通りすがりのちょっと顔整った男性ver.) | CD          | SCCA-00029                                                                                                                          |                |           |                     |                |
+| A.B.C-Z SHOP盤 (金髪筋肉ver.)             | CD          | SCCA-00030                                                                                                                          |                |           |                     |                |
+| 2                                    | 2016年6月22日  | **[Take a "5" Train](https://ja.wikipedia.org/wiki/Take_a_"5"_Train "wikilink")**                                                   | 初回限定盤A         | CD+DVD    | PCCA-04411          | 3位             |
+| 初回限定盤B                               | CD+DVD      | PCCA-04412                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-04413                                                                                                                          |                |           |                     |                |
+| 3                                    | 2017年2月1日   | '''\[\[Reboot                                                                                                                       | \!|Reboot      | \!\]\]''' | 初回限定5周年Anniversary盤 | CD+2DVD        |
+| 初回限定5周年Best盤                         | CD+2DVD     | PCCA-04507                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-04508                                                                                                                          |                |           |                     |                |
+| 4                                    | 2017年12月13日 | **[終電を超えて〜Christmas Night/忘年会\!BOU\!NEN\!KAI\!](https://ja.wikipedia.org/wiki/終電を超えて〜Christmas_Night/忘年会!BOU!NEN!KAI! "wikilink")** | 初回限定ジングルベル盤    | CD+DVD    | PCCA-04613          | 2位\[32\]</ref> |
+| 初回限定BU\! REI\! KOU\!盤                | CD+DVD      | PCCA-04614                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-04615                                                                                                                          |                |           |                     |                |
+| 5                                    | 2018年8月29日  | **[キュキュッとしたいキモチ? キモチ\!](https://ja.wikipedia.org/wiki/キュキュッとしたいキモチ?_キモチ! "wikilink")**                                              | 初回限定盤A         | CD+DVD    | PCCA-04710          | 1位\[33\]       |
+| 初回限定盤B                               | CD+DVD      | PCCA-04711                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-04712                                                                                                                          |                |           |                     |                |
+| 6                                    | 2019年3月27日  | **[Black Sugar](https://ja.wikipedia.org/wiki/Black_Sugar_\(A.B.C-Zの曲\) "wikilink")**                                               | 初回限定盤A         | CD+DVD    | PCCA-04754          | 3位\[34\]       |
+| 急がなくても買える初回限定盤B                      | CD+DVD      | PCCA-04755                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-04756                                                                                                                          |                |           |                     |                |
+| 7                                    | 2019年9月25日  | '''\[\[DAN_DAN_Dance                                                                                                              | |DAN DAN Dance | \]\]'''   | 初回限定盤A              | CD+DVD         |
+| 初回限定盤B                               | CD+DVD      | PCCA-04857                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-04858                                                                                                                          |                |           |                     |                |
+| 8                                    | 2020年3月18日  | **[タイム](../Page/タイム.md "wikilink")**                                                                                                | 初回限定盤A         | CD+DVD    | PCCA-04945          | 2位             |
+| 初回限定盤B                               | CD+DVD      | PCCA-04946                                                                                                                          |                |           |                     |                |
+| 通常盤                                  | CD          | PCCA-70552                                                                                                                          |                |           |                     |                |
+|                                      |             |                                                                                                                                     |                |           |                     |                |
 
 ### アルバム
 
@@ -168,7 +172,7 @@
 <th><p>　　　タイトル　　　</p></th>
 <th><p>販売形態</p></th>
 <th><p>規格品番</p></th>
-<th><p>順位[34]</p></th>
+<th><p>順位[35]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -400,8 +404,8 @@
 <td><p>DVD</p></td>
 <td><p>PCBP-55556</p></td>
 <td><p>1位</p></td>
-<td><p>[35]<br />
-[36]</p></td>
+<td><p>[36]<br />
+[37]</p></td>
 </tr>
 <tr class="odd">
 <td><p>通常盤</p></td>
@@ -421,8 +425,8 @@
 <td><p>DVD+CD</p></td>
 <td><p>PCBP-55558</p></td>
 <td><p>2位</p></td>
-<td><p>[37]<br />
-[38]</p></td>
+<td><p>[38]<br />
+[39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>通常盤</p></td>
@@ -502,8 +506,8 @@
 <td><p>DVD+CD</p></td>
 <td><p>PCBP-55564</p></td>
 <td><p>2位</p></td>
-<td><p>[39]<br />
-[40]</p></td>
+<td><p>[40]<br />
+[41]</p></td>
 </tr>
 <tr class="odd">
 <td><p>初回限定盤Z</p></td>
@@ -543,7 +547,7 @@
 <td><p>DVD+CD</p></td>
 <td><p>PCBP-55567</p></td>
 <td><p>1位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A.B.Sea_Market" title="wikilink">A.B.Sea Market</a>[41]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/A.B.Sea_Market" title="wikilink">A.B.Sea Market</a>[42]</p></td>
 </tr>
 <tr class="odd">
 <td><p>通常盤</p></td>
@@ -653,24 +657,24 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1</strong></p></td>
-<td><p>2012年7月4日[42]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABC座_星（スター）劇場" title="wikilink">ABC座 星（スター）劇場</a>[43]</p></td>
+<td><p>2012年7月4日[43]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ABC座_星（スター）劇場" title="wikilink">ABC座 星（スター）劇場</a>[44]</p></td>
 <td><p>DVD / BD</p></td>
 <td><p>1位（DVD）<br />
 2位（BD）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2</strong></p></td>
-<td><p>2013年1月16日[44]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Johnny&#39;s_Dome_Theater〜SUMMARY2012〜_A.B.C-Z" title="wikilink">Johnny's Dome Theater〜SUMMARY2012〜 A.B.C-Z</a>[45]</p></td>
+<td><p>2013年1月16日[45]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Johnny&#39;s_Dome_Theater〜SUMMARY2012〜_A.B.C-Z" title="wikilink">Johnny's Dome Theater〜SUMMARY2012〜 A.B.C-Z</a>[46]</p></td>
 <td><p>5位（DVD）<br />
 6位（BD）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>3</strong></p></td>
-<td><p>2013年10月16日[46]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_2013_Twinkle×2_Star_Tour" title="wikilink">A.B.C-Z 2013 Twinkle×2 Star Tour</a>[47]</p></td>
+<td><p>2013年10月16日[47]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_2013_Twinkle×2_Star_Tour" title="wikilink">A.B.C-Z 2013 Twinkle×2 Star Tour</a>[48]</p></td>
 <td><p>5位（DVD）<br />
 5位（BD）</p></td>
 <td></td>
@@ -719,7 +723,7 @@
 <td><p>2018年2月7日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_5Stars_5Years_Tour" title="wikilink">A.B.C-Z 5Stars 5Years Tour</a></p></td>
 <td><p>2位（DVD）<br />
-1位（BD）[48]</p></td>
+1位（BD）[49]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -727,7 +731,7 @@
 <td><p>2018年8月29日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABC座_ジャニーズ伝説2017" title="wikilink">ABC座 2017 ジャニーズ伝説</a></p></td>
 <td><p>6位（DVD）<br />
-6位（BD）[49]</p></td>
+6位（BD）[50]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -735,15 +739,15 @@
 <td><p>2019年1月30日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_2018_Love_Battle_Tour" title="wikilink">A.B.C-Z 2018 Love Battle Tour</a></p></td>
 <td><p>3位（DVD）<br />
-1位（BD）[50]</p></td>
+1位（BD）[51]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>12</strong></p></td>
 <td><p>2019年12月25日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_Concert_Tour_2019_Going_with_Zephyr" title="wikilink">A.B.C-Z Concert Tour 2019 Going with Zephyr</a></p></td>
-<td><p>10位（DVD）[51]<br />
-7位（BD）[52]</p></td>
+<td><p>10位（DVD）[52]<br />
+7位（BD）[53]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -760,8 +764,8 @@
 ### バラエティ番組
 
   - [裸の少年](../Page/裸の少年.md "wikilink")（2008年 - 2009年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
-  - [J'J A.B.C-Z オーストラリア縦断 資金0円ワーホリの旅](https://ja.wikipedia.org/wiki/J'J_A.B.C-Z_オーストラリア縦断_資金0円ワーホリの旅 "wikilink")（2013年4月1日 - 6月17日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[53\]
-  - [ABChanZoo](https://ja.wikipedia.org/wiki/ABChanZoo "wikilink")（2013年7月21日 - 、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[54\]
+  - [J'J A.B.C-Z オーストラリア縦断 資金0円ワーホリの旅](https://ja.wikipedia.org/wiki/J'J_A.B.C-Z_オーストラリア縦断_資金0円ワーホリの旅 "wikilink")（2013年4月1日 - 6月17日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[54\]
+  - [ABChanZoo](https://ja.wikipedia.org/wiki/ABChanZoo "wikilink")（2013年7月21日 - 、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[55\]
 
 ### 音楽番組
 
@@ -770,58 +774,70 @@
 
 ### テレビドラマ
 
-  - [魔法★男子チェリーズ](https://ja.wikipedia.org/wiki/魔法★男子チェリーズ "wikilink")（2014年6月21日 - 9月27日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[55\]
-  - ぼくらのショウタイム（2019年4月5日、[メ〜テレ](https://ja.wikipedia.org/wiki/メ〜テレ "wikilink")）\[56\]
+  - [魔法★男子チェリーズ](https://ja.wikipedia.org/wiki/魔法★男子チェリーズ "wikilink")（2014年6月21日 - 9月27日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）\[56\]
+  - ぼくらのショウタイム（2019年4月5日、[メ〜テレ](https://ja.wikipedia.org/wiki/メ〜テレ "wikilink")）\[57\]
 
 ### 映画
 
-  - オレたち応援屋\!\! We are Oh＆Yeah\!\!（2020年公開予定、東宝）\[57\]
+  - オレたち応援屋\!\! We are Oh＆Yeah\!\!（2020年公開予定、東宝）\[58\]
 
 ### 舞台
 
-  - 新春滝沢革命（2009年1月1日 - 27日、帝国劇場）\[58\]
-  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2009年） "wikilink")（2009年9月4日 - 29日、帝国劇場 / 10月13日 - 25日、梅田芸術劇場メインホール）\[59\]
-  - SHE LOVES ME（2009年12月12日 - 2010年1月31日、シアタークリエ） - 橋本除く\[60\]
-  - 新春 人生革命（2010年1月8日 - 28日、帝国劇場）／ 新春 滝沢革命（2010年1月1日 - 27日、帝国劇場）\[61\]
-  - [滝沢歌舞伎 -TAKIZAWA KABUKI-](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢歌舞伎_-TAKIZAWA_KABUKI- "wikilink")（2010年4月4日 - 5月8日、日生劇場）\[62\]
-  - [PLAYZONE 2010 〜ROAD TO PLAYZONE〜](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE_2010_〜ROAD_TO_PLAYZONE〜 "wikilink")（2010年7月9日 - 8月1日、青山劇場 / 8月14日 - 8月22日、梅田芸術劇場）
-  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")（2010年9月3日 - 26日、日生劇場）\[63\] - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")と主演\[64\]
-  - 新春滝沢革命 帝劇開場100周年記念公演（2011年1月1日 - 27日、帝国劇場）\[65\]
-  - [PLAYZONE'11 SONG & DANC'N.](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'11_SONG_&_DANC'N. "wikilink")（2011年7月8日 - 8月7日、青山劇場 / 8月19日 - 8月21日、中日劇場 / 8月28日 - 8月31日、梅田芸術劇場）\[66\]
-  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2011年\) "wikilink")（2011年9月5日 - 9月29日、日生劇場）\[67\]
-  - ABC座 星（スター）劇場（2012年2月4日 - 2月29日、日生劇場 他）\[68\]\[69\]\[70\]
-      - ABC座 全国公演（2012年3月5日 - 5月5日、NHK大阪ホール 他）\[71\]
-  - [Johnny's Dome Theatre〜SUMMARY〜](https://ja.wikipedia.org/wiki/SUMMARY#Johnny's_Dome_Theatre_〜SUMMARY〜 "wikilink")（2012年8月6日 - 19日、TOKYO DOME CITY HALL / 8月29日 - 9月1日、中日劇場）\[72\]
-  - [少年たち〜Jail in the Sky〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_Jail_in_the_Sky_\(2012年\) "wikilink")（2012年9月4日 - 24日、日生劇場） - 主演\[73\]
-  - [JOHNNYS' World -ジャニーズ・ワールド-](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_World_-ジャニーズ・ワールド-（2012年） "wikilink")（2012年11月10日 - 2013年1月27日、帝国劇場）
-  - ABC座 2013 ジャニーズ伝説（2013年10月6日 - 10月28日、日生劇場）\[74\]
-  - [JOHNNYS' 2020 WORLD -ジャニーズ トニトニ ワールド-](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_2020_World（2013年-2014年） "wikilink")（2013年12月7日 - 2014年1月27日、帝国劇場） - [Sexy Zoneと主演](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")\[75\]
-  - ABC座 2014 ジャニーズ伝説（2014年5月9日 - 5月30日、日生劇場）\[76\]
-  - [2015新春 JOHNNYS' World](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#2015新春_JOHNNYS'_World（2015年） "wikilink")（2015年1月1日 - 27日、帝国劇場）\[77\]
-  - ABC座 2015（2015年10月7日 - 28日、日生劇場）\[78\]
-  - [JOHNNYS' World](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_World（2015年-2016年） "wikilink")（2015年12月11日 - 2016年1月27日、帝国劇場）\[79\]
-  - ABC座 2016 株式会社 応援屋\!\!〜OH\&YEAH\!\!〜（2016年10月5日 - 27日、日生劇場）\[80\]
-  - ABC座 2017 ジャニーズ伝説（2017年10月7日 - 28日、日生劇場）\[81\]
-  - ABC座 2018 ジャニーズ伝説（2018年10月7日 - 29日、日生劇場）\[82\]\[83\]
-  - ABC座 ジャニーズ伝説2019（2019年10月7日-29日、日生劇場）\[84\]
+  - 新春滝沢革命（2009年1月1日 - 27日、帝国劇場）\[59\]
+  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2009年） "wikilink")（2009年9月4日 - 29日、帝国劇場 / 10月13日 - 25日、梅田芸術劇場メインホール）\[60\]
+  - SHE LOVES ME（2009年12月12日 - 2010年1月31日、シアタークリエ） - 橋本除く\[61\]
+  - 新春 人生革命（2010年1月8日 - 28日、帝国劇場）／ 新春 滝沢革命（2010年1月1日 - 27日、帝国劇場）\[62\]
+  - [滝沢歌舞伎 -TAKIZAWA KABUKI-](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢歌舞伎_-TAKIZAWA_KABUKI- "wikilink")（2010年4月4日 - 5月8日、日生劇場）\[63\]
+  - [みんなクリエに来てクリエ\!](https://ja.wikipedia.org/wiki/ジャニーズ銀座#ファン感謝ライブ_in_シアタークリエ（2010年） "wikilink")（2010年5月11日 - 31日、[シアタークリエ](../Page/シアタークリエ.md "wikilink")）\[64\]
+  - [PLAYZONE 2010 〜ROAD TO PLAYZONE〜](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE_2010_〜ROAD_TO_PLAYZONE〜 "wikilink")（2010年7月9日 - 8月1日、青山劇場 / 8月14日 - 22日、梅田芸術劇場）\[65\]
+  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2010年\) "wikilink")（2010年9月3日 - 26日、日生劇場）\[66\] - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")と主演\[67\]
+  - 新春滝沢革命 帝劇開場100周年記念公演（2011年1月1日 - 27日、帝国劇場）\[68\]
+  - [みんなクリエに来てクリエ 2011](https://ja.wikipedia.org/wiki/ジャニーズ銀座#みんなクリエに来てクリエ！2011 "wikilink")（2011年4月29日 - 5月29日、シアタークリエ）\[69\]
+  - [PLAYZONE'11 SONG & DANC'N.](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'11_SONG_&_DANC'N. "wikilink")（2011年7月8日 - 8月7日、青山劇場 / 8月19日 - 8月21日、中日劇場 / 8月28日 - 8月31日、梅田芸術劇場）\[70\]
+  - [少年たち〜格子無き牢獄〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_格子無き牢獄_\(2011年\) "wikilink")（2011年9月5日 - 9月29日、日生劇場）\[71\]
+  - ABC座 星（スター）劇場（2012年2月4日 - 2月29日、日生劇場 他）\[72\]\[73\]\[74\]
+      - ABC座 全国公演（2012年3月5日 - 5月5日、NHK大阪ホール 他）\[75\]
+  - [ジャニーズ銀座 Youの前にはMeがいる！](https://ja.wikipedia.org/wiki/ジャニーズ銀座#ジャニーズ銀座_Youの前にはMeがいる！（2012年） "wikilink")（2012年5月8日 - 10日・15日 - 17日〔ABC座 東京凱旋公演〕\[76\]、5月11日 - 13日〔A.B.C-Z with [noon boyz](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#noon_boyz "wikilink")〕、5月18日 - 20日・6月1日 - 3日〔A.B.C-Z with ジャニーズJr.〕、シアタークリエ）\[77\]
+  - [Johnny's Dome Theatre〜SUMMARY〜](https://ja.wikipedia.org/wiki/SUMMARY#Johnny's_Dome_Theatre_〜SUMMARY〜 "wikilink")（2012年8月6日 - 19日、TOKYO DOME CITY HALL / 8月29日 - 9月1日、中日劇場）\[78\]
+  - [少年たち〜Jail in the Sky〜](https://ja.wikipedia.org/wiki/少年たち_\(ミュージカル\)#少年たち_Jail_in_the_Sky_\(2012年\) "wikilink")（2012年9月4日 - 24日、日生劇場） - 主演\[79\]
+  - [JOHNNYS' World -ジャニーズ・ワールド-](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_World_-ジャニーズ・ワールド-（2012年） "wikilink")（2012年11月10日 - 2013年1月27日、帝国劇場）\[80\]
+  - ABC座 2013 ジャニーズ伝説（2013年10月6日 - 10月28日、日生劇場）\[81\]
+  - [JOHNNYS' 2020 WORLD -ジャニーズ トニトニ ワールド-](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_2020_World（2013年-2014年） "wikilink")（2013年12月7日 - 2014年1月27日、帝国劇場） - [Sexy Zoneと主演](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")\[82\]
+  - ABC座 2014 ジャニーズ伝説（2014年5月9日 - 5月30日、日生劇場）\[83\]
+  - [2015新春 JOHNNYS' World](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#2015新春_JOHNNYS'_World（2015年） "wikilink")（2015年1月1日 - 27日、帝国劇場）\[84\]
+  - ABC座 2015（2015年10月7日 - 28日、日生劇場）\[85\]
+  - [JOHNNYS' World](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_World（2015年-2016年） "wikilink")（2015年12月11日 - 2016年1月27日、帝国劇場）\[86\]
+  - ABC座 2016 株式会社 応援屋\!\!〜OH\&YEAH\!\!〜（2016年10月5日 - 27日、日生劇場）\[87\]
+  - ABC座 2017 ジャニーズ伝説（2017年10月7日 - 28日、日生劇場）\[88\]
+  - ABC座 2018 ジャニーズ伝説（2018年10月7日 - 29日、日生劇場）\[89\]\[90\]
+  - ABC座 ジャニーズ伝説2019（2019年10月7日 - 29日、日生劇場）\[91\]
 
-### ラジオ
+### コンサート
 
-  - ファミラジ\[85\]（2014年7月29日 - 10月27日、[ファミリーマート](../Page/ファミリーマート.md "wikilink")店内放送（17:00 - 4:00））
-  - A.B.C-Z Go\!Go\!5（2016年4月2日 -、[FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink"))
-  - [A.B.C-Z 今夜はJ's倶楽部](https://ja.wikipedia.org/wiki/A.B.C-Z_今夜はJ's_倶楽部 "wikilink")（2016年4月26日 - 、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")）\[86\]\[87\]
-  - [ダイヤルA.B.C☆E](https://ja.wikipedia.org/wiki/ダイヤルA.B.C☆E "wikilink")（2016年9月30日 - 2017年3月24日、[TBSラジオ](../Page/TBSラジオ.md "wikilink")）
-  - A.B.C-Z えびラジ（2019年3月27日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）\[88\]
+  - フォーラム新記録\!\!ジャニーズJr.〔1日4公演やるぞ\!〕コンサート（2009年6月7日、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")） - 特別出演\[92\]
+  - ジャニーズJr.夏休み全員集合1日4公演\!\!（2009年8月18日、東京国際フォーラムホールA）\[93\]
+  - 年末ヤング東西歌合戦\!東西Jr.選抜大集合2010\!A.B.C-Z+ジャニーズJr.選抜 VS 中山優馬+関西Jr.選抜（2010年11月26日 - 27日、NHKホール）\[94\]
+  - [JOHNNYS' Worldの感謝祭 in DOME TOKYO・OSAKA](https://ja.wikipedia.org/wiki/JOHNNYS'_World_-ジャニーズ・ワールド-#JOHNNYS'_World_-ジャニーズ・ワールド-（2012年-2013年） "wikilink")（2013年3月16日・17日、[東京ドーム](../Page/東京ドーム.md "wikilink") / 3月30日・31日、京セラドーム）\[95\]
 
 ### イベント
 
-  - [ジャニーズJr.選抜 野球大会 2012春](https://ja.wikipedia.org/wiki/ジャニーズ大運動会 "wikilink")（2012年3月18日、[東京ドーム](../Page/東京ドーム.md "wikilink")）\[89\]
-  - ジャニーズ大運動会2017（2017年4月16日、東京ドーム）\[90\]
-  - A.B.C-Z 5stars CIRCUS in JOYPOLIS（2018年7月18日 - 10月14日、[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")） - 東京ジョイポリスとのコラボイベント\[91\]\[92\]
+  - [ジャニーズJr.選抜 野球大会 2012春](https://ja.wikipedia.org/wiki/ジャニーズ大運動会 "wikilink")（2012年3月18日、[東京ドーム](../Page/東京ドーム.md "wikilink")）\[96\]
+  - ジャニーズ大運動会2017（2017年4月16日、東京ドーム）\[97\]
+  - A.B.C-Z 5stars CIRCUS in JOYPOLIS（2018年7月18日 - 10月14日、[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")） - 東京ジョイポリスとのコラボイベント\[98\]\[99\]
 
-## コンサート
+### ラジオ
 
-### 単独コンサート
+  - ファミラジ\[100\]（2014年7月29日 - 10月27日、[ファミリーマート](../Page/ファミリーマート.md "wikilink")店内放送（17:00 - 4:00））
+  - A.B.C-Z Go\!Go\!5（2016年4月2日 -、[FM NACK5](https://ja.wikipedia.org/wiki/FM_NACK5 "wikilink"))
+  - [A.B.C-Z 今夜はJ's倶楽部](https://ja.wikipedia.org/wiki/A.B.C-Z_今夜はJ's_倶楽部 "wikilink")（2016年4月26日 - 、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")）\[101\]\[102\]
+  - [ダイヤルA.B.C☆E](https://ja.wikipedia.org/wiki/ダイヤルA.B.C☆E "wikilink")（2016年9月30日 - 2017年3月24日、[TBSラジオ](../Page/TBSラジオ.md "wikilink")）
+  - A.B.C-Z えびラジ（2019年3月27日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）\[103\]
+
+### Web
+
+  - A.B.C-Zの馬チャレ☆（2020年4月3日 - 7月2日、JRA）\[104\]
+
+## 単独コンサート
 
 <table>
 <colgroup>
@@ -843,16 +859,16 @@
 <tbody>
 <tr class="odd">
 <td><p>2008年</p></td>
-<td><p><span id="A.B.C.-Z Kis-My-Ft2 ファーストコンサート">A.B.C.-Z Kis-My-Ft2 ファーストコンサート</span> in 横浜アリーナ[93]</p></td>
-<td><p>10月11 - 13日 <a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a>[94]</p></td>
+<td><p><span id="A.B.C.-Z Kis-My-Ft2 ファーストコンサート">A.B.C.-Z Kis-My-Ft2 ファーストコンサート</span> in 横浜アリーナ[105]</p></td>
+<td><p>10月11 - 13日 <a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a>[106]</p></td>
 <td><p>2会場・8公演<br />
-11万1000人動員[95]</p></td>
-<td><p><a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a>と共に単独コンサートデビュー[96]。横浜アリーナ公演のチケット応募総数が40万件を超えたことから[97][98]当初より公演数が増やされたが、それだけでは追い付かず国立代々木競技場での追加3公演も決定した[99]。</p></td>
+11万1000人動員[107]</p></td>
+<td><p><a href="../Page/Kis-My-Ft2.md" title="wikilink">Kis-My-Ft2</a>と共に単独コンサートデビュー[108]。横浜アリーナ公演のチケット応募総数が40万件を超えたことから[109][110]当初より公演数が増やされたが、それだけでは追い付かず国立代々木競技場での追加3公演も決定した[111]。</p></td>
 </tr>
 <tr class="even">
 <td><p>A.B.C-Z Kis-My-Ft2 ファーストコンサート再再追加公演!<br />
-A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
-<td><p>11月8・9日 <a href="https://ja.wikipedia.org/wiki/国立代々木競技場#第一体育館" title="wikilink">国立代々木競技場 第一体育館</a>[101]</p></td>
+A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![112]</p></td>
+<td><p>11月8・9日 <a href="https://ja.wikipedia.org/wiki/国立代々木競技場#第一体育館" title="wikilink">国立代々木競技場 第一体育館</a>[113]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -862,12 +878,12 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 <td><p>A.B.C-Z 2011 first Concert in YOYOGI</p></td>
 <td><p>11月6日 国立代々木競技場 第一体育館</p></td>
 <td><p>1会場・2公演<br />
-2万6000人動員[102]</p></td>
-<td><p>初の単独アリーナコンサート[103]。誕生日が近い戸塚祥太はファンからのサプライズで「ハッピーバースデー」コールを受けた[104]。また、Kis-My-Ft2や<a href="https://ja.wikipedia.org/wiki/Sexy_Zone" title="wikilink">Sexy Zoneも駆けつけた</a>[105]。2012年2月に『ABC座 星（スター）劇場』を公演することも発表された[106]。</p></td>
+2万6000人動員[114]</p></td>
+<td><p>初の単独アリーナコンサート[115]。誕生日が近い戸塚祥太はファンからのサプライズで「ハッピーバースデー」コールを受けた[116]。また、Kis-My-Ft2や<a href="https://ja.wikipedia.org/wiki/Sexy_Zone" title="wikilink">Sexy Zoneも駆けつけた</a>[117]。2012年2月に『ABC座 星（スター）劇場』を公演することも発表された[118]。</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_2013_Twinkle×2_Star_Tour" title="wikilink">A.B.C-Z 2013 Twinkle×2 Star Tour</a>[107]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_2013_Twinkle×2_Star_Tour" title="wikilink">A.B.C-Z 2013 Twinkle×2 Star Tour</a>[119]</p></td>
 <td><p>3月23日 <a href="https://ja.wikipedia.org/wiki/さっぽろ芸術文化の館#ニトリ文化ホール" title="wikilink">札幌ニトリ文化ホール</a><br />
 3月28日 <a href="../Page/広島市文化交流会館.md" title="wikilink">広島文化学園HBGホール</a><br />
 4月7日 <a href="https://ja.wikipedia.org/wiki/鳴門市文化会館" title="wikilink">鳴門市文化会館</a><br />
@@ -898,10 +914,10 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Sexy Zone A.B.C-Z　Summer Paradise in TDC[108]</p></td>
+<td><p>Sexy Zone A.B.C-Z　Summer Paradise in TDC[120]</p></td>
 <td><p>8月25 - 30日 <a href="https://ja.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL" title="wikilink">TOKYO DOME CITY HALL</a></p></td>
 <td><p>1都市・10公演<br />
-2万4000人動員[109]</p></td>
+2万4000人動員[121]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -910,25 +926,25 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_Star_Line_Travel_Concert" title="wikilink">A.B.C-Z Star Line Travel Concert</a></p></td>
 <td><p>8月10・11日 国立代々木競技場 第一体育館<br />
 10月1日・2日 大阪城ホール</p></td>
-<td><p>2都市・6公演[110]<br />
-8万4000人動員[111]</p></td>
+<td><p>2都市・6公演[122]<br />
+8万4000人動員[123]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_5Stars_5Years_Tour" title="wikilink">A.B.C-Z 5Stars 5Years Tour</a>[112]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_5Stars_5Years_Tour" title="wikilink">A.B.C-Z 5Stars 5Years Tour</a>[124]</p></td>
 <td><p>7月30日 大阪城ホール 8月8・9日 横浜アリーナ<br />
 8月19・20日 名古屋国際会議場 センチュリーホール<br />
 8月30・31日 大宮ソニックシティホール<br />
 9月6日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館 こくさいホール</a><br />
 9月8日 福岡サンパレスホール<br />
 9月15日 仙台サンプラザホール</p></td>
-<td><p>7都市・13公演[113]</p></td>
-<td><p>名古屋公演にはメンバーからのオファーを受けて<a href="../Page/よゐこ.md" title="wikilink">よゐこ</a>の<a href="../Page/濱口優.md" title="wikilink">濱口優</a>がゲスト出演し、その様子が<a href="../Page/名古屋テレビ放送.md" title="wikilink">メ〜テレの特番</a>『よゐこ濱口×A.B.C-Z 夢の一夜に完全密着』で放送された[114]。</p></td>
+<td><p>7都市・13公演[125]</p></td>
+<td><p>名古屋公演にはメンバーからのオファーを受けて<a href="../Page/よゐこ.md" title="wikilink">よゐこ</a>の<a href="../Page/濱口優.md" title="wikilink">濱口優</a>がゲスト出演し、その様子が<a href="../Page/名古屋テレビ放送.md" title="wikilink">メ〜テレの特番</a>『よゐこ濱口×A.B.C-Z 夢の一夜に完全密着』で放送された[126]。</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年 - 2019年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_2018_Love_Battle_Tour" title="wikilink">A.B.C-Z 2018 Love Battle Tour</a>[115]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_2018_Love_Battle_Tour" title="wikilink">A.B.C-Z 2018 Love Battle Tour</a>[127]</p></td>
 <td><p>2018年6月5・6日 神戸国際会館 こくさいホール<br />
 6月15日 札幌ニトリ文化ホール<br />
 6月20日 仙台サンプラザホール<br />
@@ -942,11 +958,11 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 9月3・4日 大宮ソニックシティホール<br />
 2019年1月8日 <a href="https://ja.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></p></td>
 <td><p>12都市・23公演</p></td>
-<td><p>「ラブバトルツアー」という名前にちなみ、ステージ上には巨大なハート形のセットが設置され[116]、初めて<a href="https://ja.wikipedia.org/wiki/ジャニーズJr." title="wikilink">ジャニーズJr.</a>などのバックダンサーを置かず、5人だけでパフォーマンスを行い[117]、グループ結成10周年記念日にあたる2018年8月29日に発売する「<a href="https://ja.wikipedia.org/wiki/JOYしたいキモチ" title="wikilink">JOYしたいキモチ</a>」など31曲を披露した[118]。2019年1月に横浜アリーナでの追加公演が決定[119]。</p></td>
+<td><p>「ラブバトルツアー」という名前にちなみ、ステージ上には巨大なハート形のセットが設置され[128]、初めて<a href="https://ja.wikipedia.org/wiki/ジャニーズJr." title="wikilink">ジャニーズJr.</a>などのバックダンサーを置かず、5人だけでパフォーマンスを行い[129]、グループ結成10周年記念日にあたる2018年8月29日に発売する「<a href="https://ja.wikipedia.org/wiki/JOYしたいキモチ" title="wikilink">JOYしたいキモチ</a>」など31曲を披露した[130]。2019年1月に横浜アリーナでの追加公演が決定[131]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_Concert_Tour_2019_Going_with_Zephyr" title="wikilink">A.B.C-Z Concert Tour 2019 Going with Zephyr</a>[120]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/A.B.C-Z_Concert_Tour_2019_Going_with_Zephyr" title="wikilink">A.B.C-Z Concert Tour 2019 Going with Zephyr</a>[132]</p></td>
 <td><p>8月15・16日 <a href="https://ja.wikipedia.org/wiki/幕張イベントホール" title="wikilink">幕張メッセ 幕張イベントホール</a><br />
 8月19日 名古屋国際会議場 センチュリーホール<br />
 8月21日 福岡サンパレス<br />
@@ -962,46 +978,49 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 </tbody>
 </table>
 
-### その他のコンサート
-
-  - フォーラム新記録\!\!ジャニーズJr.〔1日4公演やるぞ\!〕コンサート（2009年6月7日、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")） - 特別出演\[121\]
-  - ジャニーズJr.夏休み全員集合1日4公演\!\!（2009年8月18日、東京国際フォーラムホールA）\[122\]
-  - みんなクリエに来てクリエ\!（2010年5月11日 - 31日、[シアタークリエ](../Page/シアタークリエ.md "wikilink")）\[123\]
-  - 年末ヤング東西歌合戦\!東西Jr.選抜大集合2010\!A.B.C-Z+ジャニーズJr.選抜 VS 中山優馬+関西Jr.選抜（2010年11月26日 - 27日、NHKホール）\[124\]
-  - みんなクリエに来てクリエ 2011（2011年4月29日 - 5月29日、シアタークリエ）\[125\]
-  - ジャニーズ銀座 Youの前にはMeがいる！（2012年5月8日 - 10日・15日 - 17日〔ABC座 東京凱旋公演〕\[126\]、5月11日 - 13日〔A.B.C-Z with [noon boyz](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(2000年以降\)#noon_boyz "wikilink")〕、5月18日 - 20日・6月1日 - 3日〔A.B.C-Z with ジャニーズJr.〕、シアタークリエ）\[127\]
-  - JOHNNYS' Worldの感謝祭 in DOME TOKYO・OSAKA（2013年3月16日・17日、[東京ドーム](../Page/東京ドーム.md "wikilink") / 3月30日・31日、京セラドーム）\[128\]
-
 ## A.B.C.
 
-**A.B.C.**（エー.ビー.シー.）は、A.B.C-Zの前身ユニットである。[辰巳雄大](../Page/辰巳雄大.md "wikilink")、[越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")がメンバーだったこともあるが、最終メンバーは戸塚祥太、河合郁人、五関晃一、塚田僚一の4人\[129\]。2001年\[130\]から2008年のA.B.C-Z結成\[131\]まで活動。
+**A.B.C.**（エー.ビー.シー.）は、A.B.C-Zの前身ユニットである。[辰巳雄大](../Page/辰巳雄大.md "wikilink")、[越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")がメンバーだったこともあるが、最終メンバーは戸塚祥太、河合郁人、五関晃一、塚田僚一の4人\[133\]。2001年\[134\]から2008年のA.B.C-Z結成\[135\]まで活動。
 
 ### 主な出演
 
 #### コンサート
 
-  - [Johnnys Theater "SUMMARY"](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2004 "wikilink")（2004年、原宿新ビッグトップ）
-  - ジャニーズJr.の大冒険\!（2006年8月15日 - 25日、[ホテル・グランパシフィック・メリディアン](https://ja.wikipedia.org/wiki/ホテル・グランパシフィック・メリディアン "wikilink")）\[132\]
-  - you達の音楽大運動会（2006年9月30日・10月1日、代々木体育館）\[133\]
-  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 7日、日本武道館）\[134\]
-  - 関西ジャニーズJr. 大阪城ホール FIRST CONCERT2007（2007年5月6日、大阪城ホール）\[135\]
-  - ジャニーズJr.の大冒険\!'07 @メリディアン（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン）\[136\]
-  - [SUMMARY 2008](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2008 "wikilink")（2008年8月2日 - 9月5日、Johnnys Theater）\[137\]
+  - ジャニーズJr.の大冒険\!（2006年8月15日 - 25日、[ホテル・グランパシフィック・メリディアン](https://ja.wikipedia.org/wiki/ホテル・グランパシフィック・メリディアン "wikilink")）\[136\]
+  - you達の音楽大運動会（2006年9月30日・10月1日、代々木体育館）\[137\]
+  - 2007 謹賀新年 あけましておめでとう ジャニーズJr.大集合（2007年1月2日 - 7日、日本武道館）\[138\]
+  - 関西ジャニーズJr. 大阪城ホール FIRST CONCERT2007（2007年5月6日、大阪城ホール）\[139\]
+  - ジャニーズJr.の大冒険\!'07 @メリディアン（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン）\[140\]
 
 #### 舞台
 
-  - [SHOCK is Real Shock](https://ja.wikipedia.org/wiki/SHOCK#SHOCK_is_Real_Shock_（2003年） "wikilink")（2003年、帝国劇場）
-  - [DREAM BOY](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOY "wikilink")（2004年、帝国劇場）
-  - [Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_（2005年_-_） "wikilink")（2005年、帝国劇場）
-  - [Hey\! Say\! Dream Boy](https://ja.wikipedia.org/wiki/DREAM_BOY#Hey!_Say!_Dream_Boy "wikilink")（2005年、梅田芸術劇場）
-  - [PLAYZONE'05 〜20th Anniversary〜Twenty Years…](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'05_〜20th_Anniversary〜Twenty_Years… "wikilink")（2005年、[青山劇場](../Page/青山劇場.md "wikilink")）\[138\]
-  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2006年） "wikilink")（2006年、帝国劇場）
-  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](../Page/新橋演舞場.md "wikilink")）\[139\]
-  - [PLAYZONE'06 Change](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'06_Change "wikilink")（2006年、青山劇場）
-  - One\! -the history of Tackey-（2006年、[日生劇場](../Page/日生劇場.md "wikilink")）\[140\]
-  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2007年） "wikilink")（2007年、帝国劇場）\[141\]
-  - [滝沢演舞城 2007](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2007 "wikilink")（2007年、新橋演舞場）
+  - [SHOCK is Real Shock](https://ja.wikipedia.org/wiki/SHOCK#SHOCK_is_Real_Shock_（2003年） "wikilink")（2003年1月8日 - 2月25日、帝国劇場）\[141\]
+
+  - [SHOCK\#Shocking SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Shocking_SHOCK "wikilink")（2004年2月6日 - 29日、帝国劇場）\[142\]
+
+  -
+  - [DREAM BOY](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOY "wikilink")（2004年、帝国劇場）\[143\]
+
+  - [Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_（2005年_-_） "wikilink")（2005年1月8日 - 2月28日、帝国劇場）\[144\]
+
+  -
+  - [PLAYZONE'05 〜20th Anniversary〜Twenty Years…](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'05_〜20th_Anniversary〜Twenty_Years… "wikilink")（2005年、[青山劇場](../Page/青山劇場.md "wikilink")）\[145\]
+
+  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2006年） "wikilink")（2006年1月3日 - 29日、帝国劇場）\[146\]
+
+  - [滝沢演舞城](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城 "wikilink")（2006年3月7日 - 4月25日、[新橋演舞場](../Page/新橋演舞場.md "wikilink")）\[147\]
+
+  - [PLAYZONE'06 Change](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'06_Change "wikilink")（2006年7月9日 - 8月5日、青山劇場）\[148\]
+
+  - One\! -the history of Tackey-（2006年、[日生劇場](../Page/日生劇場.md "wikilink")）\[149\]
+
+  - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2007年） "wikilink")（2007年、帝国劇場）\[150\]
+
+  - [滝沢演舞城 2007](https://ja.wikipedia.org/wiki/滝沢演舞城#滝沢演舞城_2007 "wikilink")（2007年7月3日 - 29日、新橋演舞場）\[151\]
+
   - [DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS（2008年） "wikilink")（2008年、帝国劇場） - 東京公演：全員、大阪公演：塚田＆五関
+
+  - [SUMMARY 2008](https://ja.wikipedia.org/wiki/SUMMARY#SUMMARY_2008 "wikilink")（2008年8月2日 - 9月5日、Johnnys Theater）\[152\]
 
 ## 脚注
 
@@ -1056,8 +1075,8 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 38.
 39.
 40.
-41. 「SPACE TRAVELERS」 は通常盤bonus trackとしてalbum ver.で収録されており、オリジナルはCD化されていない
-42.
+41.
+42. 「SPACE TRAVELERS」 は通常盤bonus trackとしてalbum ver.で収録されており、オリジナルはCD化されていない
 43.
 44.
 45.
@@ -1066,9 +1085,9 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 48.
 49.
 50.
-51.  A.B.C-Z|url=[https://www.oricon.co.jp/prof/473953/products/1344461/1/|website=ORICON](https://www.oricon.co.jp/prof/473953/products/1344461/1/%7Cwebsite=ORICON) NEWS|accessdate=2020-01-11}}
-52.  A.B.C-Z|url=[https://www.oricon.co.jp/prof/473953/products/1344458/1/|website=ORICON](https://www.oricon.co.jp/prof/473953/products/1344458/1/%7Cwebsite=ORICON) NEWS|accessdate=2020-01-11}}
-53.
+51.
+52.  A.B.C-Z|url=[https://www.oricon.co.jp/prof/473953/products/1344461/1/|website=ORICON](https://www.oricon.co.jp/prof/473953/products/1344461/1/%7Cwebsite=ORICON) NEWS|accessdate=2020-01-11}}
+53.  A.B.C-Z|url=[https://www.oricon.co.jp/prof/473953/products/1344458/1/|website=ORICON](https://www.oricon.co.jp/prof/473953/products/1344458/1/%7Cwebsite=ORICON) NEWS|accessdate=2020-01-11}}
 54.
 55.
 56.
@@ -1099,14 +1118,14 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 81.
 82.
 83.
-84.  Johnny's net|url=[https://www.johnnys-net.jp/page?id=consta\&artist=26|website=ジャニーズ事務所公式サイト「Johnny's](https://www.johnnys-net.jp/page?id=consta&artist=26%7Cwebsite=ジャニーズ事務所公式サイト「Johnny's) net」|accessdate=2019-10-27|language=ja}}
+84.
 85.
 86.
 87.
 88.
 89.
 90.
-91.
+91.  Johnny's net|url=[https://www.johnnys-net.jp/page?id=consta\&artist=26|website=ジャニーズ事務所公式サイト「Johnny's](https://www.johnnys-net.jp/page?id=consta&artist=26%7Cwebsite=ジャニーズ事務所公式サイト「Johnny's) net」|accessdate=2019-10-27|language=ja}}
 92.
 93.
 94.
@@ -1135,7 +1154,7 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 117.
 118.
 119.
-120.  Johnny's net|url=[https://www.johnnys-net.jp/page?id=consta\&artist=26|website=ジャニーズ事務所公式サイト「Johnny's](https://www.johnnys-net.jp/page?id=consta&artist=26%7Cwebsite=ジャニーズ事務所公式サイト「Johnny's) net」|accessdate=2019-06-21|language=ja|archiveurl=[https://web.archive.org/web/20190629200710/http://www.johnnys-net.jp/page?id=consta\&artist=26\#165|archivedate=2019-06-29](https://web.archive.org/web/20190629200710/http://www.johnnys-net.jp/page?id=consta&artist=26#165%7Carchivedate=2019-06-29)}}
+120.
 121.
 122.
 123.
@@ -1147,7 +1166,7 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 129.
 130.
 131.
-132.
+132.  Johnny's net|url=[https://www.johnnys-net.jp/page?id=consta\&artist=26|website=ジャニーズ事務所公式サイト「Johnny's](https://www.johnnys-net.jp/page?id=consta&artist=26%7Cwebsite=ジャニーズ事務所公式サイト「Johnny's) net」|accessdate=2019-06-21|language=ja|archiveurl=[https://web.archive.org/web/20190629200710/http://www.johnnys-net.jp/page?id=consta\&artist=26\#165|archivedate=2019-06-29](https://web.archive.org/web/20190629200710/http://www.johnnys-net.jp/page?id=consta&artist=26#165%7Carchivedate=2019-06-29)}}
 133.
 134.
 135.
@@ -1157,3 +1176,14 @@ A.B.C.に橋本良亮参加決定!A.B.C-Z誕生![100]</p></td>
 139.
 140.
 141.
+142.
+143.
+144.
+145.
+146.
+147.
+148.
+149.
+150.
+151.
+152.

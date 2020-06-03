@@ -48,13 +48,13 @@
 
 ## 外部リンク
 
-  - [地上デジタル放送チャンネル･エリア一覧](http://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
+  - [地上デジタル放送チャンネル･エリア一覧](https://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
 
 ## 関連項目
 
   - [一関市](../Page/一関市.md "wikilink")
   - [NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")
-  - [NHK花泉永井テレビ中継局](https://ja.wikipedia.org/wiki/NHK花泉永井テレビ中継局 "wikilink")
+  - [NHK花泉永井テレビ中継局](../Page/NHK花泉永井テレビ中継局.md "wikilink")
   - [花泉テレビ中継局](../Page/花泉テレビ中継局.md "wikilink")
   - [NHK胆沢市野々テレビ中継局](../Page/NHK胆沢市野々テレビ中継局.md "wikilink")
   - [NHK衣川テレビ中継局](../Page/NHK衣川テレビ中継局.md "wikilink")

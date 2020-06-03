@@ -1,9 +1,9 @@
 > この記事は[めぐり逢い \(CHAGE and ASKAの曲\)](https://ja.wikipedia.org/wiki/めぐり逢い_\(CHAGE_and_ASKAの曲\))から翻訳されています。
 
 
-「**めぐり逢い**」（めぐりあい）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の36枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に発売された。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+「**めぐり逢い**」（めぐりあい）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の楽曲。自身の36作目の[シングル](../Page/シングル.md "wikilink")。[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に発売された。
 
-## 解説
+## 背景
 
 前作「[HEART/NATURAL/On Your Mark](https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark "wikilink")」から約3か月ぶりとなるシングルリリース。
 
@@ -28,7 +28,7 @@
       -
         CHAGEは、「自分の中のチャゲアスのイメージを壊しにかかった曲」だと述べている\[6\]。だから、「めぐり逢い」の曲調とは敢えて異なる方向性のものを[カップリングに収録した](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。
 3.  **めぐり逢い （オリジナル・カラオケ）**
-4.  **濡れた夢 （オリジナル・カラオケ）** ※8㎝CDには収録なし。
+4.  **濡れた夢 （オリジナル・カラオケ）**
 
 ## 収録アルバム
 

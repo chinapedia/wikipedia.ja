@@ -27,7 +27,7 @@
 
   - [Dedication](../Page/Dedication.md "wikilink")
   - sonnet
-  - [河合その子 ベスト・コレクション](https://ja.wikipedia.org/wiki/河合その子_ベスト・コレクション "wikilink")
+  - [河合その子 ベスト・コレクション](../Page/河合その子_ベスト・コレクション.md "wikilink")
   - [おニャン子クラブA面コレクション Vol.5](https://ja.wikipedia.org/wiki/おニャン子クラブA面コレクション#収録曲 "wikilink")
 
 **赤道を越えたサマセットモーム**

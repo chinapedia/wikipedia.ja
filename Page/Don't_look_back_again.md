@@ -5,7 +5,7 @@
 
 ## 概要・解説
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[最遊記RELOAD GUNLOCK](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』のオープニングテーマ。ちなみにWAGは、前作『[吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")』で『[最遊記RELOAD](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』のエンディングテーマも担当しているため、今作によって『最遊記』アニメシリーズで唯一、オープニングとエンディングの両[主題歌](../Page/主題歌.md "wikilink")を歌ったアーティストになった。同時に「Don't look back again」の作曲・編曲を手掛けた[徳永暁人](../Page/徳永暁人.md "wikilink")は、[doaとしても](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")『最遊記RELOAD GUNLOCK』のエンディングテーマ「[白の呪文](../Page/白の呪文.md "wikilink")」を担当しているため、オープニングとエンディングの両テーマソングの制作を手掛け、また歌手としても主題歌を歌った唯一のアーティストとなった。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[最遊記RELOAD GUNLOCK](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』のオープニングテーマ。ちなみにWAGは、前作『[吹きすさぶ風の中で](../Page/吹きすさぶ風の中で.md "wikilink")』で『[最遊記RELOAD](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")』のエンディングテーマも担当しているため、今作によって『最遊記』アニメシリーズで唯一、オープニングとエンディングの両[主題歌](../Page/主題歌.md "wikilink")を歌ったアーティストになった。同時に「Don't look back again」の作曲・編曲を手掛けた[徳永暁人](../Page/徳永暁人.md "wikilink")は、[doaとしても](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")『最遊記RELOAD GUNLOCK』のエンディングテーマ「[白の呪文](../Page/白の呪文.md "wikilink")」を担当しているため、オープニングとエンディングの両テーマソングの制作を手掛け、また歌手としても主題歌を歌った唯一のアーティストとなった。
 
 [ベースの南公祐が脱退後](../Page/ベース_\(弦楽器\).md "wikilink")、4人編成のWAGでリリースした最初で最後のシングルとなった。
 

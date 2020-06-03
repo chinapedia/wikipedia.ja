@@ -12,7 +12,7 @@
   - Disc 1は、岡村孝子[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")のナンバーのみを収録。[1982年のオリコン年間ヒットチャートの第](https://ja.wikipedia.org/wiki/1982年の音楽#シングル "wikilink")1位に輝いた「**[待つわ](../Page/待つわ.md "wikilink")**」（1982年7月21日）のアルバム・バージョンが久しぶりにCD化された。曲の並びは原則としてオリジナル音源のリリース順であるが、「待つわ ～ALBUM VERSION～」はこの原則に反し、Disc 1の末尾に収録されている。また、1stアルバム『[P.S. あなたへ…](../Page/P.S._あなたへ….md "wikilink")』には先行シングルとして発売された曲も含まれているため、同アルバムの収録順と一部異同がある。
   - Disc 2は、他の作家による作品や、カヴァー・ソングを収録。M-1～3にはアルバム『P.S. あなたへ…』収録曲、M-4～14にはアルバム『[メモリアル](../Page/メモリアル_\(あみんのアルバム\).md "wikilink")』収録曲が収められている。
 
-同日、2007年9月15日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（当時の名称は "渋谷C.C.Lemonホール"）で行われた24年ぶりのコンサートのファイナル公演を収録した[DVD](../Page/DVD.md "wikilink")『[25th Anniversary Aming Concert Tour 2007 In the prime 〜ひまわり〜](https://ja.wikipedia.org/wiki/25th_Anniversary_Aming_Concert_Tour_2007_In_the_prime_〜ひまわり〜 "wikilink")』が発売された。本アルバムからは、「**[琥珀色の想い出](https://ja.wikipedia.org/wiki/琥珀色の想い出 "wikilink")**」「**ペパーミントの香り**」「**ごめんね**」「**冬**」が収録されている（「待つわ」「**未知標**」も披露されたが、ともに2ndアルバム『[In the prime](../Page/In_the_prime.md "wikilink")』収録の'07バージョン）。なお、このライブの模様は10月27日に[NHK BS2で放送されたが](../Page/NHK衛星第2テレビジョン.md "wikilink")、DVDはその番組とは別編集になっている。
+同日、2007年9月15日に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（当時の名称は "渋谷C.C.Lemonホール"）で行われた24年ぶりのコンサートのファイナル公演を収録した[DVD](../Page/DVD.md "wikilink")『[25th Anniversary Aming Concert Tour 2007 In the prime 〜ひまわり〜](https://ja.wikipedia.org/wiki/25th_Anniversary_Aming_Concert_Tour_2007_In_the_prime_〜ひまわり〜 "wikilink")』が発売された。本アルバムからは、「**[琥珀色の想い出](../Page/琥珀色の想い出.md "wikilink")**」「**ペパーミントの香り**」「**ごめんね**」「**冬**」が収録されている（「待つわ」「**未知標**」も披露されたが、ともに2ndアルバム『[In the prime](../Page/In_the_prime.md "wikilink")』収録の'07バージョン）。なお、このライブの模様は10月27日に[NHK BS2で放送されたが](../Page/NHK衛星第2テレビジョン.md "wikilink")、DVDはその番組とは別編集になっている。
 
 [録音が](https://ja.wikipedia.org/wiki/レコーディング "wikilink")1980年代ながら本アルバム未収録の楽曲としては、[2000年代](../Page/2000年代.md "wikilink")に入って企画盤CDで初音源化された[CMソング](../Page/コマーシャルソング.md "wikilink")「[明治チェルシーの唄](../Page/チェルシーの唄.md "wikilink")」がある。元々あみん名義の作品に収録されたことはなく、同タイトルの[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")にのみ収録されている（2005年5月25日発売）。
 
@@ -24,7 +24,7 @@
       -
         デビュー曲。2007年、再結成した際には[セルフカヴァーで発売された](../Page/セルフカバー.md "wikilink")（『[ひまわり／待つわ'07](https://ja.wikipedia.org/wiki/ひまわり/待つわ'07 "wikilink")』2007.6.20）。
 2.  **未知標**（4:37）
-3.  **[琥珀色の想い出](https://ja.wikipedia.org/wiki/琥珀色の想い出 "wikilink")**（3:50）
+3.  **[琥珀色の想い出](../Page/琥珀色の想い出.md "wikilink")**（3:50）
 4.  **ごめんね**（3:16）
 5.  **[心こめて 愛をこめて](../Page/心こめて_愛をこめて.md "wikilink")**（4:05）
 6.  **Lover My Love**（5:07）

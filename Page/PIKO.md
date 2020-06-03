@@ -13,7 +13,7 @@
 
 [1949年](../Page/1949年.md "wikilink")、[ザクセン州](../Page/ザクセン州.md "wikilink")[ケムニッツ](../Page/ケムニッツ.md "wikilink")に設立された。最初の製品は流線型の[機関車](https://ja.wikipedia.org/wiki/機関車 "wikilink")と優等列車用の[客車](../Page/客車.md "wikilink")と[ブリキ](../Page/ブリキ.md "wikilink")製の[レールから構成される](../Page/軌道_\(鉄道\).md "wikilink")“PICO Express”であった。当時、PIKOはCを綴っていたが後年、Kに変更した。“PIKO”は“Pionier-Konstruktionen”の短縮と言われる。
 
-[1950年代](../Page/1950年代.md "wikilink")初頭、[テューリンゲン州](../Page/テューリンゲン州.md "wikilink")の[玩具](../Page/玩具.md "wikilink")の街として有名な[ゾンネベルク](https://ja.wikipedia.org/wiki/ゾンネベルク "wikilink")に移転した。
+[1950年代](../Page/1950年代.md "wikilink")初頭、[テューリンゲン州](../Page/テューリンゲン州.md "wikilink")の[玩具](../Page/玩具.md "wikilink")の街として有名な[ゾンネベルク](../Page/ゾンネベルク.md "wikilink")に移転した。
 
 [1964年](../Page/1964年.md "wikilink")から、PIKOは[Nゲージ](../Page/Nゲージ.md "wikilink")に参入し生産を開始したが、[1989年](../Page/1989年.md "wikilink")に生産を中止した。[2000年代](../Page/2000年代.md "wikilink")後半にフランス向けとして再参入した。かつてのNゲージ製品は、現在ではコレクターズアイテムとなっている。
 

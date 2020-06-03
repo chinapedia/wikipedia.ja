@@ -24,7 +24,7 @@
 
   - [増田隆宣](../Page/増田隆宣.md "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [シェーン・ガラース](../Page/シェーン・ガラース.md "wikilink") ：[ドラム](../Page/ドラムセット.md "wikilink")
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")（from [doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（from [doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（from doa）：ボーカル＆ギター
 
 ## 収録曲

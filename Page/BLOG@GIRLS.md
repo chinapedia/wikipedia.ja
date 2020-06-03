@@ -35,7 +35,7 @@
 
 ## 備考
 
-  - 番組開始前の[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")に宣伝を兼ねて、夏川純が[プロ野球](../Page/プロ野球.md "wikilink")「[横浜](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")×[巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")」（[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")）で[始球式](../Page/始球式.md "wikilink")を務めた。
+  - 番組開始前の[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")に宣伝を兼ねて、夏川純が[プロ野球](../Page/プロ野球.md "wikilink")「[横浜](../Page/横浜DeNAベイスターズ.md "wikilink")×[巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")」（[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")）で[始球式](../Page/始球式.md "wikilink")を務めた。
   - 2006年[12月23日](../Page/12月23日.md "wikilink")は「[クリスマス](../Page/クリスマス.md "wikilink")スペシャル」として、20:30から90分の拡大版で放送した。
   - 2007年[2月6日](../Page/2月6日.md "wikilink")には番組へのインタビューが『Web3.0への会議』（ゴマブックス社）に掲載された。具体的にはプロデューサー・落合芳行、司会の 夏川純、辺見えみりが掲載。番組のブログにて2007年[2月13日](../Page/2月13日.md "wikilink")番組プロデューサーの落合芳行が報告。
 

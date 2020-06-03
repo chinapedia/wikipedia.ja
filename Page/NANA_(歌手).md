@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p>ナギサの</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/ナギサの" title="wikilink">ナギサの</a>』主題歌</p></td>
+<td><p>PCゲーム『<a href="../Page/ナギサの.md" title="wikilink">ナギサの</a>』主題歌</p></td>
 <td><p>初アルバム『NANA』に収録</p></td>
 </tr>
 <tr class="odd">

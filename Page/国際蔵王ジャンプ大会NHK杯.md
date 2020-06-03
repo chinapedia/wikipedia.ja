@@ -57,10 +57,10 @@
 | 20 | 2008年3月8日  | 蔵王ジャンプ台 | [アネッテ・サーゲン](https://ja.wikipedia.org/wiki/アネッテ・サーゲン "wikilink")     | [ノルウェー](../Page/ノルウェー.md "wikilink")                  | 224.0 | 89.0   | 93.5   | LadiesContinentalCup |
 | 21 | 2009年3月3日  | 蔵王ジャンプ台 | アネッテ・サーゲン                                                           | ノルウェー                                                 | 254.5 | 99.0   | 97.0   | LadiesContinentalCup |
 | 22 | 2010年3月1日  | 蔵王ジャンプ台 | ダニエラ・イラシュコ                                                          | オーストリア                                                | 241.0 | 99.5   | 89.5   | LadiesContinentalCup |
-| 23 | 2011年3月9日  | 蔵王ジャンプ台 | [伊藤有希](https://ja.wikipedia.org/wiki/伊藤有希 "wikilink")               | [下川商業高校](../Page/北海道下川商業高等学校.md "wikilink")           | 226.5 | 94.0   | 87.0   | LadiesContinentalCup |
+| 23 | 2011年3月9日  | 蔵王ジャンプ台 | [伊藤有希](../Page/伊藤有希.md "wikilink")                                  | [下川商業高校](../Page/北海道下川商業高等学校.md "wikilink")           | 226.5 | 94.0   | 87.0   | LadiesContinentalCup |
 |    |            |         |                                                                     |                                                       |       |        |        |                      |
 
-※第19回大会では下川小学校6年生の[伊藤有希](https://ja.wikipedia.org/wiki/伊藤有希 "wikilink")選手が日本勢最高の5位に入賞した。
+※第19回大会では下川小学校6年生の[伊藤有希](../Page/伊藤有希.md "wikilink")選手が日本勢最高の5位に入賞した。
 
 ## NHK杯蔵王ジャンプ大会歴代優勝者
 

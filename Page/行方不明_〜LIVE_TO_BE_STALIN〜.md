@@ -62,7 +62,7 @@
   - TOM 永島（協同プロモーション） - マネージメント
   - 旭浩樹（協同プロモーション） - マネージメント
   - 安江みいな (BQ) - マネージメント
-  - [ヒップランドミュージック](https://ja.wikipedia.org/wiki/ヒップランドミュージック "wikilink") - スペシャル・サンクス
+  - [ヒップランドミュージック](../Page/ヒップランドミュージック.md "wikilink") - スペシャル・サンクス
   - インクスティック鈴江ファクトリー - スペシャル・サンクス
 
 [Category:1991年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1991年のライブ・アルバム "wikilink") [Category:ザ・スターリンのライブ・アルバム](https://ja.wikipedia.org/wiki/Category:ザ・スターリンのライブ・アルバム "wikilink") [Category:アルファレコードのアルバム](https://ja.wikipedia.org/wiki/Category:アルファレコードのアルバム "wikilink")

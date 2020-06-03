@@ -74,7 +74,7 @@
 | 2006-07 | [デイビッド・パルマー](../Page/デイビッド・パルマー.md "wikilink")（大阪）                                                                              |                                                                           |                      |
 | 2007-08 | リン・ワシントン（大阪）                                                                                                                    |                                                                           |                      |
 | 2008-09 | [ジェフ・ニュートン](../Page/ジェフ・ニュートン.md "wikilink")（[沖縄](../Page/琉球ゴールデンキングス.md "wikilink")）                                           | ジェフ・ニュートン（沖縄）                                                             | レギュラー・プレイオフ別個に1名ずつ選出 |
-| 2009-10 | [ウェンデル・ホワイト](https://ja.wikipedia.org/wiki/ウェンデル・ホワイト "wikilink")（[浜松](https://ja.wikipedia.org/wiki/浜松・東三河フェニックス "wikilink")）  | [大口真洋](https://ja.wikipedia.org/wiki/大口真洋 "wikilink")（浜松）                 |                      |
+| 2009-10 | [ウェンデル・ホワイト](https://ja.wikipedia.org/wiki/ウェンデル・ホワイト "wikilink")（[浜松](https://ja.wikipedia.org/wiki/浜松・東三河フェニックス "wikilink")）  | [大口真洋](../Page/大口真洋.md "wikilink")（浜松）                                    |                      |
 | 2010-11 | [ジェフリー・パーマー](https://ja.wikipedia.org/wiki/ジェフリー・パーマー "wikilink")（浜松）                                                           | ジェフリー・パーマー（浜松）                                                            |                      |
 | 2011-12 | [ジャスティン・バーレル](https://ja.wikipedia.org/wiki/ジャスティン・バーレル "wikilink")（[横浜](https://ja.wikipedia.org/wiki/横浜ビー・コルセアーズ "wikilink")） | [アンソニー・マクヘンリー](https://ja.wikipedia.org/wiki/アンソニー・マクヘンリー "wikilink")（沖縄） |                      |
 | 2012-13 | [アンソニー・マクヘンリー](https://ja.wikipedia.org/wiki/アンソニー・マクヘンリー "wikilink")（沖縄）                                                       | [蒲谷正之](../Page/蒲谷正之.md "wikilink")（横浜）                                    |                      |
@@ -165,7 +165,7 @@
 （浜松）</p></td>
 <td><p>城宝匡史<br />
 （富山）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太田敦也" title="wikilink">太田敦也</a><br />
+<td><p><a href="../Page/太田敦也.md" title="wikilink">太田敦也</a><br />
 （浜松）</p></td>
 </tr>
 <tr class="even">

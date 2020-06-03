@@ -32,13 +32,17 @@ B'zデビュー15周年の記念日となった2003年9月20、21日に[渚園](
 
   - [静岡県](../Page/静岡県.md "wikilink")[弁天島海浜公園](../Page/弁天島_\(浜松市\).md "wikilink")[渚園](../Page/渚園.md "wikilink")（2003年9月20、21日）
 
+## ステージ
+
+ライブは当時の日本国内最大規模で行われ、ステージの建設費用は約10億円である。スタッフおよそ1300人で9日間に及ぶ作業で会場設営がなされた。ステージの全長は120m、電気は1658[kw使用し](../Page/ワット.md "wikilink")、演出として1500発の[花火](../Page/花火.md "wikilink")が使用された\[3\]。
+
 ## 収録映像曲
 
 ### DISC 1
 
 1.  **[アラクレ](../Page/BIG_MACHINE.md "wikilink")**
       -
-        オープニングに流れるBGMは歴代ライブのオープニングSEを繋げたもの。実際のライブではオープニングSEと共に歴代のLIVE-GYMを年代順に振り返る映像が流された\[3\]\[4\]。
+        オープニングに流れるBGMは歴代ライブのオープニングSEを繋げたもの。実際のライブではオープニングSEと共に歴代のLIVE-GYMを年代順に振り返る映像が流された\[4\]\[5\]。
         ライブ開催直前の9月17日に発売されたアルバム『[BIG MACHINE](../Page/BIG_MACHINE.md "wikilink")』からの選曲であり、メンバー曰く「前回の[JAP THE RIPPERと同様](../Page/LIVE_RIPPER.md "wikilink")、初披露となる曲をオープニングにしたかった」とのこと。また、カウントダウンから始まるのも前回の渚園ライブと同じ演出。
 2.  **[Pleasure 2003 〜人生の快楽〜](../Page/LADY_NAVIGATION.md "wikilink")**
       -
@@ -86,16 +90,16 @@ B'zデビュー15周年の記念日となった2003年9月20、21日に[渚園](
 
 1.  **[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")**
       -
-        メインステージへ。なお、映像ではカットされているが演奏が始まる前に「B'z LIVE-GYM'96 "Spirit LOOSE"」のOPENING MOVIEのディレクターズ・カット版が上映されており\[5\]、同ライブのオープニング演出の再現となっている。
+        メインステージへ。なお、映像ではカットされているが演奏が始まる前に「B'z LIVE-GYM'96 "Spirit LOOSE"」のOPENING MOVIEのディレクターズ・カット版が上映されており\[6\]、同ライブのオープニング演出の再現となっている。
 2.  **[LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")**
       -
-        演奏中の稲葉の衣装替えや高所からのダイブなどは、「B'z LIVE-GYM Pleasure'95 "BUZZ\!\!"」の演出を再現\[6\]。ファン投票7位。
+        演奏中の稲葉の衣装替えや高所からのダイブなどは、「B'z LIVE-GYM Pleasure'95 "BUZZ\!\!"」の演出を再現\[7\]。ファン投票7位。
 3.  **[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")**
       -
         「B'z LIVE-GYM Pleasure'95 "BUZZ\!\!"」と同じく「[ねがい](../Page/ねがい_\(B'zの曲\).md "wikilink")」のイントロで稲葉が登場し、途中から「ZERO」に切り替わるアレンジで演奏。
 4.  **[juice](https://ja.wikipedia.org/wiki/juice_\(B'zの曲\) "wikilink")**
       -
-        「B'z LIVE-GYM Pleasure 2000 "juice"」のツアータイトルナンバー。ギター・ソロ終了後に恒例の[コール&レスポンス](https://ja.wikipedia.org/wiki/コール&レスポンス "wikilink")があるが、今回は短めとなっている。エンディングでは前回の渚園公演でみせた松本のギター爆破パフォーマンスを再現\[7\]。
+        「B'z LIVE-GYM Pleasure 2000 "juice"」のツアータイトルナンバー。ギター・ソロ終了後に恒例の[コール&レスポンス](https://ja.wikipedia.org/wiki/コール&レスポンス "wikilink")があるが、今回は短めとなっている。エンディングでは前回の渚園公演でみせた松本のギター爆破パフォーマンスを再現\[8\]。
 5.  **[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")**
       -
         ラストは3連発ジャンプとなっており、「[B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜](https://ja.wikipedia.org/wiki/a_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜 "wikilink")」と同様である。
@@ -105,16 +109,16 @@ B'zデビュー15周年の記念日となった2003年9月20、21日に[渚園](
 7.  **[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")**
       -
         20日の映像。前回の渚園ライブと同じく本編ラストナンバーとなり、エンディングでは「B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER"」の演出を再現し、ラストにはシェーンのドラムに合わせて爆発の特効を見せた。ファン投票10位。
-        なお、本作演奏後に映像ではカットされているが、会場内では「B'z LIVE-GYM Pleasure 2000 "juice"」での演出の再現としてメンバー2人の「ファイト\!一発」の映像が上映された\[8\]。
+        なお、本作演奏後に映像ではカットされているが、会場内では「B'z LIVE-GYM Pleasure 2000 "juice"」での演出の再現としてメンバー2人の「ファイト\!一発」の映像が上映された\[9\]。
 8.  **[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")**
       -
-        ここからアンコール。20日の映像。「B'z LIVE-GYM'94 "The 9th Blues" <PART1>」以来、9年ぶりの演奏。映像化は本作が初。松本のゼブラのオーバーオール衣装は、前回の渚園ライブで着用した衣装をリメイクしたもの\[9\]\[10\]。ファン投票21位。
+        ここからアンコール。20日の映像。「B'z LIVE-GYM'94 "The 9th Blues" <PART1>」以来、9年ぶりの演奏。映像化は本作が初。松本のゼブラのオーバーオール衣装は、前回の渚園ライブで着用した衣装をリメイクしたもの\[10\]\[11\]。ファン投票21位。
 9.  **[裸足の女神](../Page/裸足の女神.md "wikilink")**
       -
         巨大バボットの演出は、「B'z LIVE-GYM Pleasure 2000 "juice"」の再現。
 10. **[RUN](../Page/RUN_\(アルバム\).md "wikilink")**
       -
-        本ライブ最終ナンバー。曲ラストには、1500発の花火が発射され、終了と同時に爆発という特効演習がある。また、9月21日公演では、メンバーには内緒で観客に[サイリウムが配布され](../Page/ケミカルライト.md "wikilink")、スクリーンの指示で5万人が一斉にサイリウムを掲げるというスタッフによるメンバーへのサプライズ演出が行われた\[11\]。ファン投票23位。
+        本ライブ最終ナンバー。曲ラストには、1500発の花火が発射され、終了と同時に爆発という特効演習がある。また、9月21日公演では、メンバーには内緒で観客に[サイリウムが配布され](../Page/ケミカルライト.md "wikilink")、スクリーンの指示で5万人が一斉にサイリウムを掲げるというスタッフによるメンバーへのサプライズ演出が行われた\[12\]。ファン投票23位。
 
 エンディングは退場曲だった「[眩しいサイン](../Page/BIG_MACHINE.md "wikilink")」だが、会場で1回流された後、再度本作のエンドロールで使用されている。
 
@@ -186,7 +190,7 @@ B'zデビュー15周年の記念日となった2003年9月20、21日に[渚園](
 
 1.  ソロを含めると、[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の「[LIVE 2004 〜en〜](../Page/LIVE_2004_〜en〜.md "wikilink")」が最後。
 2.  15年後の「B'z LIVE-GYM Pleasure 2018 -HINOTORI-」にも「FIREBIRD」をアレンジしたステージセットが登場した。
-3.
+3.  『Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in 渚園〜』 DVD DISC 3「The Days of Pleasure」
 4.
 5.
 6.
@@ -195,3 +199,4 @@ B'zデビュー15周年の記念日となった2003年9月20、21日に[渚園](
 9.
 10.
 11.
+12.

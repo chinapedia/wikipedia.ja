@@ -68,7 +68,7 @@
 11. **MISTREATED**　(7:47)
       -
         原曲：[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")「Mistreated」（邦題「ミストゥリーテッド」）
-        イギリスのロックバンド、ディープ・パープルの1974年のアルバム『[Burn](https://ja.wikipedia.org/wiki/:en:Burn_\(Deep_Purple_album\) "wikilink")』（邦題『[紫の炎](https://ja.wikipedia.org/wiki/紫の炎 "wikilink")』）収録曲。
+        イギリスのロックバンド、ディープ・パープルの1974年のアルバム『[Burn](https://ja.wikipedia.org/wiki/:en:Burn_\(Deep_Purple_album\) "wikilink")』（邦題『[紫の炎](../Page/紫の炎.md "wikilink")』）収録曲。
         原曲の終盤に出てしまっているギターのノイズ音も、忠実に再現している。
 
 ## 参加アーティスト

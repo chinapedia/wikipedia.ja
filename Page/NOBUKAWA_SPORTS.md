@@ -1,7 +1,7 @@
 > この記事は[NOBUKAWA SPORTS](https://ja.wikipedia.org/wiki/NOBUKAWA_SPORTS)から翻訳されています。
 
 
-**NOBUKAWA SPORTS**（のぶかわ・スポーツ）はかつて[CROSS FMで金曜](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")20:00 - 23:00に放送されたスポーツ情報番組。[ベイサイドプレイス博多](https://ja.wikipedia.org/wiki/ベイサイドプレイス博多 "wikilink")スタジオから放送されていた。 放送期間は[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - [2017年](../Page/2017年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")。
+**NOBUKAWA SPORTS**（のぶかわ・スポーツ）は[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2017年](../Page/2017年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで、[CROSS FMで金曜](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")20:00 - 23:00に放送されたスポーツ情報番組。[ベイサイドプレイス博多](https://ja.wikipedia.org/wiki/ベイサイドプレイス博多 "wikilink")スタジオから放送されていた。
 
 ## 概要
 

@@ -63,7 +63,7 @@
   - [欧陽菲菲](../Page/欧陽菲菲.md "wikilink") - 「[ラヴ・イズ・オーヴァー](https://ja.wikipedia.org/wiki/ラヴ・イズ・オーヴァー "wikilink")」
   - [もんた&ブラザース](https://ja.wikipedia.org/wiki/もんたよしのり "wikilink") - 「[ダンシング・オールナイト](../Page/ダンシング・オールナイト.md "wikilink")」
   - [加藤登紀子](../Page/加藤登紀子.md "wikilink") - 「ひとり寝の子守唄」
-  - [C-C-B](../Page/C-C-B.md "wikilink") - 「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」
+  - [C-C-B](../Page/C-C-B.md "wikilink") - 「[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")」
   - [小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink") - 「さらば青春」
   - [喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")&チャンプルーズ - 「[花〜すべての人の心に花を〜](../Page/花〜すべての人の心に花を〜.md "wikilink")」
 
@@ -89,7 +89,7 @@
         2003年12月16日より、日本全国で順次発売\[8\]
     <!-- end list -->
       - [チェッカーズ](../Page/チェッカーズ.md "wikilink") - 「[星屑のステージ](../Page/星屑のステージ.md "wikilink")」「[ジュリアに傷心](../Page/ジュリアに傷心.md "wikilink")」
-      - [レベッカ](../Page/レベッカ_\(バンド\).md "wikilink") - 「[フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")」「[RASPBERRY DREAM](https://ja.wikipedia.org/wiki/RASPBERRY_DREAM "wikilink")」
+      - [レベッカ](../Page/レベッカ_\(バンド\).md "wikilink") - 「[フレンズ](../Page/フレンズ_\(レベッカの曲\).md "wikilink")」「[RASPBERRY DREAM](https://ja.wikipedia.org/wiki/RASPBERRY_DREAM "wikilink")」
       - [中村あゆみ](../Page/中村あゆみ.md "wikilink") - 「[翼の折れたエンジェル](../Page/翼の折れたエンジェル.md "wikilink")」「[ちょっとやそっとじゃCAN'T GET LOVE](../Page/ちょっとやそっとじゃCAN'T_GET_LOVE.md "wikilink")」
       - [杉山清貴&オメガトライブ](https://ja.wikipedia.org/wiki/杉山清貴&オメガトライブ "wikilink") - 「[ふたりの夏物語](https://ja.wikipedia.org/wiki/ふたりの夏物語 "wikilink")」「[ガラスのPALM TREE](https://ja.wikipedia.org/wiki/FIRST_FINALE#収録曲 "wikilink")」
       - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink") - 「[セカンド・ラブ](../Page/セカンド・ラブ_\(曲\).md "wikilink")」「[少女A](../Page/少女A.md "wikilink")」

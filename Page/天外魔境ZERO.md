@@ -34,7 +34,7 @@
   - ふたたび
     ゲームを一度クリアすると、クリアした時点でのステータスのまま物語を開始する事ができる。
   - 戦闘
-    味方が全員「[戦闘不能](https://ja.wikipedia.org/wiki/戦闘不能 "wikilink")」か「[石化](../Page/石化.md "wikilink")」になると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")となり、[記録](../Page/記録.md "wikilink")したところからのやり直しとなる。「戦闘不能」は戦闘が終われば体力１で[復活](https://ja.wikipedia.org/wiki/復活 "wikilink")するが、「石化」は戦闘が終わっても継続するので道具などで回復するしかない。
+    味方が全員「[戦闘不能](https://ja.wikipedia.org/wiki/戦闘不能 "wikilink")」か「[石化](../Page/石化.md "wikilink")」になると[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")となり、[記録](../Page/記録.md "wikilink")したところからのやり直しとなる。「戦闘不能」は戦闘が終われば体力１で[復活](../Page/復活.md "wikilink")するが、「石化」は戦闘が終わっても継続するので道具などで回復するしかない。
 
 ### PLGS
 

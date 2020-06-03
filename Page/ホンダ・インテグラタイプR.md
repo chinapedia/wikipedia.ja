@@ -1,7 +1,7 @@
 > この記事は[ホンダ・インテグラタイプR](https://ja.wikipedia.org/wiki/ホンダ・インテグラタイプR)から翻訳されています。
 
 
-**インテグラタイプR**（Integra type-R）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[クーペ](../Page/クーペ.md "wikilink")または[ハードトップ](../Page/ハードトップ.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。
+**インテグラ タイプR**（Integra type-R）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[クーペ](../Page/クーペ.md "wikilink")または[ハードトップ](../Page/ハードトップ.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。
 
 [NSXタイプRに続く](../Page/ホンダ・NSX.md "wikilink")[タイプR](../Page/タイプR.md "wikilink")シリーズ第2弾で、[インテグラの](../Page/ホンダ・インテグラ.md "wikilink")[スポーツバージョンである](../Page/スポーツカー.md "wikilink")。略称は「**インテR**」。
 

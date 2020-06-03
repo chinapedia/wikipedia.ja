@@ -7,7 +7,7 @@
 
   - 前作「[花 -Mémento-Mori-](../Page/花_-Memento-Mori-.md "wikilink")」から、約4か月後に発売された。
   - 同年[6月24日](../Page/6月24日.md "wikilink")発売の5thアルバム『[深海](../Page/深海_\(アルバム\).md "wikilink")』の収録曲「マシンガンをぶっ放せ」の[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")。カップリングが2曲収録されるのは自身初。なお、リカットシングルをリリースするのは1stシングル「[君がいた夏](../Page/君がいた夏_\(曲\).md "wikilink")」以来約4年ぶりであり、当時の[J-POP](../Page/J-POP.md "wikilink")シングルとしては珍しかった[マキシシングル](https://ja.wikipedia.org/wiki/シングル#12cmCDシングル（マキシシングル）への移行 "wikilink")（12cmCD）で発売された。
-  - 副題にある「[Bootleg](../Page/ブートレグ.md "wikilink")」とは、[英語](../Page/英語.md "wikilink")で「海賊版」の意味。『深海』レコーディング時に作られていながらアルバムには収録されなかったという意味で付けられた。
+  - 副題にある「Bootleg」とは、[英語](../Page/英語.md "wikilink")で「[海賊版](https://ja.wikipedia.org/wiki/海賊版 "wikilink")」の意味。『深海』レコーディング時に作られていながらアルバムには収録されなかったという意味で付けられた。
   - [オリコン](../Page/オリコンチャート.md "wikilink")・[日本レコード協会](../Page/日本レコード協会.md "wikilink")共に、3rdシングル「[Replay](../Page/Replay_\(曲\).md "wikilink")」以来のミリオンに達しないシングルとなり、連続ミリオンセラーの記録が8作でストップした。
   - アートディレクターは[信藤三雄](../Page/信藤三雄.md "wikilink")。
 

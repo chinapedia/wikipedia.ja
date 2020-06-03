@@ -50,7 +50,7 @@
 
 2008年12月20日に公開された。「暗黒系」「記憶」をベースとしたオリジナルストーリーである。
 
-CMイメージソングとして[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド[Dの楽曲](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink")「what is **G**oing **O**n with **T**he **H**uman」が起用された。
+CMイメージソングとして[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド[Dの楽曲](../Page/D_\(バンド\).md "wikilink")「what is **G**oing **O**n with **T**he **H**uman」が起用された。
 
 ### キャスト
 

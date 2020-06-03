@@ -1,7 +1,7 @@
 > この記事は[山田J太](https://ja.wikipedia.org/wiki/山田J太)から翻訳されています。
 
 
-**山田 J太**（やまだ ジェイた、[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身\[2\]。血液型はO型\[3\]。代表作に[テレビアニメ化された](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")「[あさっての方向。](../Page/あさっての方向。.md "wikilink")」や[ドラマCD](../Page/ドラマCD.md "wikilink")化された「[マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")」など。
+**山田 J太**（やまだ ジェイた、[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身\[2\]。血液型はO型\[3\]。代表作に[テレビアニメ化された](https://ja.wikipedia.org/wiki/アニメ化 "wikilink")「[あさっての方向。](../Page/あさっての方向。.md "wikilink")」や[ドラマCD](../Page/ドラマCD.md "wikilink")化された「[マジナ\!](https://ja.wikipedia.org/wiki/マジナ! "wikilink")」など。
 
 [同人活動も行なっており](../Page/同人誌.md "wikilink")、[個人サークル](../Page/同人サークル.md "wikilink")『J36』で主に女性向けの[同人誌即売会](../Page/同人誌即売会.md "wikilink")に参加している。
 

@@ -573,11 +573,24 @@ BLWT-004:UK</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a></p></td>
 <td><p>BALL &amp; CHAIN</p></td>
-<td><p>FT97</p></td>
-<td></td>
+<td><p>FT-97</p></td>
+<td><ol>
+<li>BALL &amp; CHAIN</li>
+<li>FULL / VACANT</li>
+</ol></td>
 <td><p>File 13 Records(US)</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月2日.md" title="wikilink">5月2日</a></p></td>
+<td><p>Fantasize for Another Day</p></td>
+<td><p>FT-</p></td>
+<td><ol>
+<li>Fantasize for Another Day</li>
+<li>Diamond Sky is Swallowing My Storage</li>
+</ol></td>
+<td><p>File 13 Records(US)</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1847,7 +1860,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / ANOYO / SiM / rega / able and cain / The jerry<br />
 <a href="../Page/5月19日.md" title="wikilink">5月19日</a> 千葉LOOK<br />
 ・出演: <strong>my way my love</strong> / trico / Qomolangma Tomato / TN!T<br />
-<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a> 下北沢CLUB 251<br />
+<a href="../Page/6月2日.md" title="wikilink">6月2日</a> 下北沢CLUB 251<br />
 ・出演: <strong>my way my love</strong> (ワンマン)</p>
 </div>
 </div></td>
@@ -2114,7 +2127,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / BUGY CRAXONE / BlieAN / runny stools / 雪山遭難隊<br />
 <a href="../Page/6月1日.md" title="wikilink">6月1日</a> 酒田FLAVOR<br />
 ・出演: <strong>my way my love</strong> / TRASH / Spice / マルチ放電 / WINY<br />
-<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a> 盛岡CLUB CHANGE<br />
+<a href="../Page/6月2日.md" title="wikilink">6月2日</a> 盛岡CLUB CHANGE<br />
 ・出演: <strong>my way my love</strong> / PLASTIC GIRL IN CLOSET<br />
 <a href="../Page/6月3日.md" title="wikilink">6月3日</a> 秋田LIVE SPOT 2000<br />
 ・出演: <strong>my way my love</strong> / Rubber Johnny / 黒<br />
@@ -2458,7 +2471,7 @@ BLWT-004:UK</p></td>
 ・出演: <strong>my way my love</strong> / dustbox / ロットングラフィティ / 6EYES<br />
 <a href="../Page/5月31日.md" title="wikilink">5月31日</a> 十三FANDANGO<br />
 ・出演: <strong>my way my love</strong> / dustbox / ロットングラフィティ<br />
-<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a> 京都MOJO<br />
+<a href="../Page/6月2日.md" title="wikilink">6月2日</a> 京都MOJO<br />
 ・出演: <strong>my way my love</strong> / dustbox / BONE MACHINE<br />
 <a href="../Page/6月4日.md" title="wikilink">6月4日</a> 神戸STARCLUB<br />
 ・出演: <strong>my way my love</strong> / the brown / シリカ / eco system / The DARARS<br />

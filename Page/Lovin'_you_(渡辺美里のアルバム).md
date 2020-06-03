@@ -17,60 +17,11 @@
 
 ## 収録曲
 
+  - （特記以外）編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
+
 ### HERE
 
-1.  **[Long Night](../Page/Long_Night.md "wikilink")**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
-2.  **天使にかまれる**
-      - 作詞：渡辺美里、作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：大村雅朗・小室哲哉
-3.  **[My Revolution](../Page/My_Revolution.md "wikilink")**
-      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")、作曲：小室哲哉、編曲：大村雅朗
-4.  **そばにいるよ**
-      - 作詞：[神沢礼江](../Page/神沢礼江.md "wikilink")、作曲：小室哲哉、編曲：大村雅朗
-5.  **素敵になりたい**\[Album Version\]
-      - 作詞：神沢礼江、作曲：岡村靖幸、編曲：大村雅朗
-    <!-- end list -->
-      -
-        「Teenage Walk」カップリング曲、表記はないがシングルとは別バージョンとなっており、シングルではフェイドアウトだったが、アルバムではカットアウトになっている。
-6.  **19才の秘かな欲望**
-      - 作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：岡村靖幸、編曲：大村雅朗
-7.  **This Moment**
-      - 作詞：川村真澄、作曲：小室哲哉、編曲：大村雅朗
-8.  **君はクロール**
-      - 作詞：渡辺美里、作曲・編曲：大村雅朗
-9.  **Resistance**
-      - 作詞：神沢礼江、作曲：岡村靖幸、編曲：大村雅朗
-10. **My Revolution (Hello Version)**
-      - 作詞：川村真澄、作曲：小室哲哉、編曲：大村雅朗
-
 ### THERE
-
-1.  **悲しき願い (Here & There)**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：大村雅朗
-2.  **みつめていたい (Restin' in Your Room)** \[Album Mix\]
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：大村雅朗
-    <!-- end list -->
-      -
-        「My Revolution」カップリング曲、特に表記はないがシングルとは別バージョンになっており、シングルにはなかったイントロが追加されている。
-3.  **言いだせないまま**
-      - 作詞：神沢礼江、作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、編曲：大村雅朗
-4.  **雨よ降らないで**
-      - 作詞：渡辺美里、作曲：小室哲哉、編曲：大村雅朗
-    <!-- end list -->
-      -
-        「Long Night」カップリング曲
-5.  **Steppin' Now**
-      - 作詞・作曲：渡辺美里、編曲：大村雅朗
-6.  **男の子のように**
-      - 作詞：渡辺美里、作曲：[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")、編曲：大村雅朗
-7.  **A Happy Ending**
-      - 作詞：川村真澄、作曲：岡村靖幸、編曲：大村雅朗
-8.  **[Teenage Walk](../Page/Teenage_Walk.md "wikilink")**
-      - 作詞：神沢礼江、作曲：小室哲哉、編曲：大村雅朗
-9.  **嵐ヶ丘**
-      - 作詞：渡辺美里、作曲：小室哲哉、編曲：大村雅朗・小室哲哉
-10. **Lovin' you**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：大村雅朗
 
 ## 30th Anniversary Edition
 
@@ -128,179 +79,178 @@
 
 **[Long Night](../Page/Long_Night.md "wikilink")**
 
-  - Drums : [山木秀夫](../Page/山木秀夫.md "wikilink")
-  - Bass : [高水健司](https://ja.wikipedia.org/wiki/高水健司 "wikilink")
-  - Acoustic piano & Keyboards : [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
-  - Electric Guitar : [今剛](../Page/今剛.md "wikilink")
-  - Synthesizer Operator : [松武秀樹](../Page/松武秀樹.md "wikilink")
-  - Timpany : 金山功
-  - Chorus : [Eve](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink"), The others
+  - Drums：[山木秀夫](../Page/山木秀夫.md "wikilink")
+  - E.Bass：高水健司
+  - A.Piano＆Keyboards：西本明
+  - E.Guitar：[今剛](../Page/今剛.md "wikilink")
+  - Synthesizer Operator：[松武秀樹](../Page/松武秀樹.md "wikilink")
+  - Timpany：金山功
+  - Chorus：[Eve](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")＆The others
 
 **天使にかまれる**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - A. Piano : 西本明
-  - Synthesizers : 西本明, [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-  - E. Guitar : [清水信之](../Page/清水信之.md "wikilink"), 今剛
-  - Synthesizer Operator : 松武秀樹, 迫田到
+  - Synthesizers Programming：西本明・小室哲哉
+  - Synthesizer Operator：松武秀樹・迫田到
+  - A.Piano：西本明
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：[清水信之](../Page/清水信之.md "wikilink")・今剛
 
 **[My Revolution](../Page/My_Revolution.md "wikilink")**
 
-  - Drums : [島村英二](../Page/島村英二.md "wikilink")
-  - Bass : 高水健司
-  - Keyboards : 西本明
-  - Electric Guitar : [松原正樹](../Page/松原正樹.md "wikilink")
-  - Synthesizer Operator : 迫田到
-  - Chorus : [楠木勇有行](https://ja.wikipedia.org/wiki/楠木勇有行 "wikilink"), [木戸泰弘](../Page/木戸やすひろ.md "wikilink")
+  - Synthesizer Operator：迫田到
+  - Drums：[島村英二](../Page/島村英二.md "wikilink")
+  - E.Bass：高水健司
+  - Keyboards：西本明
+  - E.Guitar：[松原正樹](../Page/松原正樹.md "wikilink")
+  - Chorus：[楠木勇有行](https://ja.wikipedia.org/wiki/楠木勇有行 "wikilink")・[木戸泰弘](../Page/木戸やすひろ.md "wikilink")
 
 **そばにいるよ**
 
-  - Keyboards : 西本明
-  - Synthesizer Operator : [浦田恵司](https://ja.wikipedia.org/wiki/浦田恵司 "wikilink")
-  - Chorus : [MISATO](../Page/渡辺美里.md "wikilink"), [山田秀俊](https://ja.wikipedia.org/wiki/山田秀俊 "wikilink")
+  - Synthesizer Operator：浦田恵司
+  - Keyboards：西本明
+  - Chorus：[MISATO](../Page/渡辺美里.md "wikilink")・山田秀俊
 
 **[素敵になりたい](../Page/Teenage_Walk.md "wikilink")**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - Keyboards : 西本明
-  - E. Guitar : 松原正樹
-  - Synthesizer Operator : [森達彦](https://ja.wikipedia.org/wiki/森達彦 "wikilink"), 迫田到 & 浦田恵司
-  - Saxophone : [Jake H. Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
-  - Trumpet : [数原晋](../Page/数原晋.md "wikilink"), 林健一郎
-  - Trombone : 西山健治
-  - Chorus : MISATO, 岡村靖幸
+  - Synthesizer Operator：[森達彦](https://ja.wikipedia.org/wiki/森達彦 "wikilink")・迫田到・浦田恵司
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：松原正樹
+  - Keyboards：西本明
+  - Saxophone：[Jake H. Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
+  - Trumpet：[数原晋](../Page/数原晋.md "wikilink")・林健一郎
+  - Trombone：西山健治
+  - Chorus：MISATO・岡村靖幸
 
 **19才の秘かな欲望**
 
-  - Drums : 山木秀夫
-  - Bass : [浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")
-  - Keyboards : 西本明
-  - E. Guitar : [佐橋佳幸](../Page/佐橋佳幸.md "wikilink"), 松原正樹
-  - Synthesizer Operator : 浦田恵司
-  - Chorus : MISATO, [Frank Simms](https://ja.wikipedia.org/wiki/:en:Frank_Simms "wikilink"), Peter Hewlett
+  - Synthesizer Operator：浦田恵司
+  - Keyboards：西本明
+  - Drums：山木秀夫
+  - E.Bass：[浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink")
+  - E.Guitar：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")・松原正樹
+  - Chorus：MISATO・[Frank Simms](https://ja.wikipedia.org/wiki/:en:Frank_Simms "wikilink")・Peter Hewlett
 
 **This Moment**
 
-  - Drums : 山木秀夫
-  - Bass : 浅田孟
-  - Keyboards : 西本明
-  - E. Guitar : 佐橋佳幸, Randy Fredericks & 松原正樹
-  - Synthesizer Operator : 松武秀樹, 浦田恵司
-  - Chorus : 楠木勇有行
+  - Synthesizer Operator：松武秀樹・浦田恵司
+  - Keyboards：西本明
+  - Drums：山木秀夫
+  - E.Bass：浅田孟
+  - E.Guitar：佐橋佳幸・Randy Fredericks・松原正樹
+  - Chorus：楠木勇有行
 
 **君はクロール**
 
-  - Keyboards : [富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink"), 高水健司
-  - E. Guitar : 清水信之
-  - Synthesizer Operator : 松武秀樹, 浦田恵司
-  - Bali Drum : 山木秀夫
-  - Latin Percussion : Pecker
+  - Synthesizer Operator・松武秀樹・浦田恵司
+  - Keyboards：[富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")・高水健司
+  - E.Guitar：清水信之
+  - Bali Drum：山木秀夫
+  - Latin Percussion・Pecker
 
 **Resistance**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - Keyboards : 西本明
-  - E. Guitar : 佐橋佳幸, 松原正樹
-  - A. Guitar : 松原正樹
-  - Synthesizer Operator : 浦田恵司
-  - Chorus : MISATO, Frank Simms, Peter Hewlett
+  - Synthesizer Operator：浦田恵司
+  - Keyboards：西本明
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：佐橋佳幸・松原正樹
+  - A.Guitar：松原正樹
+  - Chorus：MISATO・Frank Simms・Peter Hewlett
 
-**My Revolution (Hello Version)**
+**My Revolution（Hello Version）**
 
-  - Chorus : 楠木勇有行, 山田秀俊
+  - Chorus：楠木勇有行・山田秀俊
 
 ### THERE
 
-**悲しき願い (Here & There)**
+**悲しき願い〜Here & There〜**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - Keyboards : 西本明
-  - E. Guitar : 佐橋佳幸, 松原正樹
-  - Synthesizer Operator : 浦田恵司
-  - Chorus : MISATO, Eve
+  - Synthesizer Operator：浦田恵司
+  - Keyboards：西本明
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：佐橋佳幸・松原正樹
+  - Chorus：MISATO・Eve
 
-**[みつめていたい (Restin' In Your Room)](../Page/My_Revolution.md "wikilink")**
+**[みつめていたい〜Restin' In Your Room〜](../Page/My_Revolution.md "wikilink")**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - Keyboards : 西本明
-  - Electric Guitar : 松原正樹
-  - Synthesizer Operator : 森達彦, 迫田到 & 浦田恵司
-  - Chorus : 楠木勇有行
+  - Synthesizer Operator：森達彦・迫田到・浦田恵司
+  - Keyboards：西本明
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：松原正樹
+  - Chorus：楠木勇有行
 
 **言いだせないまま**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - Keyboards : 西本明, [大村雅朗](../Page/大村雅朗.md "wikilink")
-  - E. Guitar : 今剛
-  - Synthesizer Operator : 浦田恵司, 松武秀樹
-  - Chorus : 木戸泰弘
+  - Synthesizer Operator：浦田恵司・松武秀樹
+  - Keyboards：西本明・大村雅朗
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：今剛
+  - Chorus：木戸泰弘
 
 **[雨よ降らないで](../Page/Long_Night.md "wikilink")**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - Keyboards : 西本明
-  - E. Guitar : 今剛, Randy Fredericks
-  - Synthesizer Operator : 迫田到
-  - Chorus : [TM NETWORK](../Page/TM_NETWORK.md "wikilink")
+  - Synthesizer Operator：迫田到
+  - Keyboards：西本明
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：今剛・Randy Fredericks
+  - Chorus：[TM NETWORK](../Page/TM_NETWORK.md "wikilink")
 
 **Steppin' Now**
 
-  - Keyboards : 大村雅朗
-  - Synthesizer Operator : 松武秀樹
-  - A. Guitar : 佐橋佳幸
-  - Footsteps : MISATO
-  - Chorus : MISATO
+  - Synthesizer Operator：松武秀樹
+  - Keyboards：大村雅朗
+  - A.Guitar：佐橋佳幸
+  - Footsteps＆Chorus：MISATO
 
 **男の子のように**
 
-  - A. Piano & Keyboards : 西本明
-  - Synthesizer Operator : 浦田恵司
+  - A. Piano＆Keyboards：西本明
+  - Synthesizer Operator：浦田恵司
 
 **A Happy Ending**
 
-  - Drums : 山木秀夫
-  - Bass : 浅田孟
-  - Keyboards : 西本明, 富樫春生
-  - E. Guitar : 松原正樹
-  - Synthesizer Operator : 松武秀樹, 浦田恵司
-  - Saxophone Solo : Jake H. Conception
-  - Chorus : MISATO, Eve, [浜田良美](https://ja.wikipedia.org/wiki/浜田良美 "wikilink")
+  - Synthesizer Operator：松武秀樹・浦田恵司
+  - Keyboards：西本明・富樫春生
+  - Drums：山木秀夫
+  - E.Bass：浅田孟
+  - E.Guitar：松原正樹
+  - Saxophone Solo：Jake H. Conception
+  - Chorus：MISATO・Eve・浜田良美
 
 **[Teenage Walk](../Page/Teenage_Walk.md "wikilink")**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - A. Piano & Keyboards : 西本明
-  - E. Guitar : 佐橋佳幸, 松原正樹
-  - Synthesizer Operator : 浦田恵司
-  - Chorus : MISATO, 楠木勇有行
+  - Synthesizer Operator：浦田恵司
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - A.Piano＆Keyboards：西本明
+  - E.Guitar：佐橋佳幸・松原正樹
+  - Chorus：MISATO・楠木勇有行
 
 **嵐ヶ丘**
 
-  - Drums : 山木秀夫
-  - Bass : 高水健司
-  - Keyboards : 西本明, 小室哲哉
-  - E. Guitar : 佐橋佳幸, 松原正樹
-  - Synthesizer Operator : 松武秀樹, 迫田到
-  - Chorus : MISATO, TM NETWORK
-  - Saxophone & Horns Arrangement : [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
-  - Trumpet : 兼崎“Don-pei”順一
-  - Trombone : 早川隆章
+  - Synthesizer Operator：松武秀樹・迫田到
+  - Keyboards：西本明・小室哲哉
+  - Drums：山木秀夫
+  - E.Bass：高水健司
+  - E.Guitar：佐橋佳幸・松原正樹
+  - Saxophone＆Horns Arrangement：[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
+  - Trumpet：兼崎“Don-pei”順一
+  - Trombone：早川隆章
+  - Chorus：MISATO・TM NETWORK
 
 **Lovin' you**
 
-  - Drums : [青山純](../Page/青山純.md "wikilink")
-  - Bass : 浅田孟
-  - A. Piano & Hammond Organ : 西本明
-  - E. Guitar : 佐橋佳幸, 今剛
-  - Chorus : Eve, 浜田良美
+  - A.Piano＆Hammond Organ：西本明
+  - Drums：[青山純](../Page/青山純.md "wikilink")
+  - E.Bass：浅田孟
+  - E.Guitar：佐橋佳幸・今剛
+  - Chorus：Eve・浜田良美
 
 ## 脚注
 

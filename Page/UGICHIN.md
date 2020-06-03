@@ -19,7 +19,8 @@
   - [Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink") - 「on the run」「Velonica」
   - [ASPARAGUS](../Page/ASPARAGUS.md "wikilink") - 「KNOCK ME OUT」「LIKE A DEAD」
   - [UPPER](https://ja.wikipedia.org/wiki/UPPER "wikilink") - 「CLOSE MY EYES」
-  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") - 「ALARM」「GIRL TALK」「Put 'Em Up」「shine more」「the SPEED STAR」
+  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") - 「ALARM」「GIRL TALK」「Put 'Em Up」「shine more」「the SPEED STAR
+  - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") - 「夢を味方に」
   - [安良城紅](https://ja.wikipedia.org/wiki/安良城紅 "wikilink") - 「Ｈｅｒｅ　ａｌｏｎｅ」「Infinite…」
   - [安藤裕子](https://ja.wikipedia.org/wiki/安藤裕子_\(歌手\) "wikilink") - 「あなたと私にできる事」「隣人に光が差すとき」「Lost child,」
   - [UNCHAIN](../Page/UNCHAIN.md "wikilink") - 「Brighter Days」
@@ -101,10 +102,11 @@
   - [DOES](https://ja.wikipedia.org/wiki/DOES "wikilink") - 「僕たちの季節」「[夜明け前](https://ja.wikipedia.org/wiki/夜明け前/チョコレート "wikilink")」
   - [TOAST](https://ja.wikipedia.org/wiki/TOAST "wikilink") - 「LONG COAST」
   - [童埜陽子](https://ja.wikipedia.org/wiki/童埜陽子 "wikilink") - 「ワイルド！！」
-  - [TOKIO](../Page/TOKIO.md "wikilink") - 「[忘れえぬ君へ…](../Page/忘れえぬ君へ….md "wikilink")」「[愛の嵐](https://ja.wikipedia.org/wiki/愛の嵐_\(TOKIOの曲\) "wikilink")」
+  - [TOKIO](../Page/TOKIO.md "wikilink") - 「[忘れえぬ君へ…](../Page/忘れえぬ君へ….md "wikilink")」「[愛の嵐](../Page/愛の嵐_\(TOKIOの曲\).md "wikilink")」
   - [DRADNATS](https://ja.wikipedia.org/wiki/DRADNATS "wikilink") - 「Good Morning And Good Night」
   - [AAA](../Page/AAA.md "wikilink") - 「MIRAGE」
   - [Naht](https://ja.wikipedia.org/wiki/Naht "wikilink") - 「Feeling can change the same view」
+  - [9nine](../Page/9nine.md "wikilink") - 「Cross Over」「SHINING☆STAR」
   - [ナガハタゼンジ](../Page/ナガハタゼンジ.md "wikilink") - 「モンキーフェイス」
   - [中村俊介](https://ja.wikipedia.org/wiki/中村俊介 "wikilink") - 「旅の者 ～Love\&Peaceって一体何ですか？～」
   - [AKIHIRO NAMBA](../Page/難波章浩.md "wikilink") - 「MY WAY」「WILD AT HEART」「LEVEL 7」「YOU ARE THE ONE」

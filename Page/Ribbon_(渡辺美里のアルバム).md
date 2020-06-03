@@ -14,49 +14,9 @@
 
 ## 収録曲
 
-1.  **[センチメンタル カンガルー](https://ja.wikipedia.org/wiki/センチメンタル_カンガルー "wikilink")**
-      - 作詞：渡辺美里、作曲・編曲：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")、ホーンアレンジ：[清水信之](../Page/清水信之.md "wikilink")
-2.  **[恋したっていいじゃない](../Page/恋したっていいじゃない.md "wikilink")**
-      - 作詞：渡辺美里、作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：清水信之
-3.  **さくらの花の咲くころに**
-      - 作詞：渡辺美里、作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、編曲：清水信之
-4.  **[Believe](../Page/BELIEVE_\(渡辺美里の曲\).md "wikilink") (Remix Version)**
-      - 作詞：渡辺美里、作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
-          - シングルでは「BELIEVE」と大文字表記だったがここでは「Believe」に変更されている
-5.  **シャララ**
-      - 作詞：渡辺美里、作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：佐橋佳幸・[西平彰](../Page/西平彰.md "wikilink")
-6.  **[19才の秘かな欲望](../Page/Lovin'_you_\(渡辺美里のアルバム\).md "wikilink") (The Lover Soul Version)**
-      - 作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：岡村靖幸、編曲：佐橋佳幸、ホーンアレンジ：[清岡太郎](https://ja.wikipedia.org/wiki/清岡太郎 "wikilink")
-7.  **彼女の彼**
-      - 作詞：渡辺美里、作曲・編曲：佐橋佳幸
-8.  **ぼくでなくっちゃ**
-      - 作詞・作曲：渡辺美里、編曲：清水信之
-          - シングル「センチメンタル カンガルー」カップリング曲
-9.  **Tokyo Calling**
-      - 作詞：渡辺美里、作曲：伊秩弘将、編曲：清水信之
-10. **[悲しいね](https://ja.wikipedia.org/wiki/悲しいね "wikilink") (Remix Version)**
-      - 作詞：渡辺美里、作曲・編曲：小室哲哉
-11. **10 years**
-      - 作詞：渡辺美里、作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲：[有賀啓雄](../Page/有賀啓雄.md "wikilink")
-          - 本アルバムからシングルカット。シングル「君の弱さ」カップリング曲
+  - （特記以外）作詞：渡辺美里
 
 ### 「ribbon -30th Anniversary Edition-」ボーナストラック収録曲
-
-1.
-
-    <li value="12">
-
-    **Half Moon**
-
-      - 作詞：渡辺美里、作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：岡村靖幸・[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
-
-2.  **New Boyfriend**
-
-      - 作詞：渡辺美里　作曲・編曲：西平彰　佐橋佳幸
-
-3.  **君の弱さ**
-
-      - 作詞：渡辺美里　作曲・編曲：佐橋佳幸　ホーンアレンジ：Greg Adams
 
 ## 30th Anniversary Edition
 

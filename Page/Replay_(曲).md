@@ -23,6 +23,7 @@
         イントロの後、[サビ](../Page/サビ.md "wikilink")から始まる部分は15秒でちょうど[CMに収まるようになっている](../Page/コマーシャルメッセージ.md "wikilink")。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は岡田俊二。
         ライブで演奏されることはとても少なく、『[Mr.Children STADIUM TOUR 2011 SENSE -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_STADIUM_TOUR_2011_SENSE_-in_the_field- "wikilink")』で17年ぶりに演奏され、同時に初めて映像化された。
+        『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』の宣伝でラジオ番組に出演していた際、休憩時間にメロディーが思い浮かんだという。
 2.  **All by myself** \[4:32\]
       - 作詞・作曲：桜井和寿・小林武史
     <!-- end list -->

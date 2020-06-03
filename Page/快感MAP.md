@@ -3,7 +3,7 @@
 
 『**快感MAP**』（かいかんまっぷ）は、[2006年](../Page/2006年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")（2日深夜）から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")（3月31日深夜）まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で毎週[火曜日](../Page/火曜日.md "wikilink")0:15 - 0:45（[月曜日](../Page/月曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")、『[ネオネオバラエティ](../Page/ネオネオバラエティ.md "wikilink")』枠）にて放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
-姉妹番組にあたる『**[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")**』がゴールデン枠のレギュラー番組に昇格したことに伴い、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")より『**快感MAP〜もしものシミュレーション〜**』に改題され、内容も大幅にリニューアルした。2008年4月より『[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』と改題し、月曜『[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")』枠に移動。
+姉妹番組にあたる『**[大胆MAP](../Page/大胆MAP.md "wikilink")**』がゴールデン枠のレギュラー番組に昇格したことに伴い、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")より『**快感MAP〜もしものシミュレーション〜**』に改題され、内容も大幅にリニューアルした。2008年4月より『[お試しかっ\!](https://ja.wikipedia.org/wiki/もしものシミュレーションバラエティー_お試しかっ! "wikilink")』と改題し、月曜『[ネオバラエティ](../Page/ネオバラエティ.md "wikilink")』枠に移動。
 
 ## 2007年12月まで
 
@@ -35,7 +35,7 @@
 
 ### 『大胆MAP』との関係
 
-『[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")』は、『快感MAP』の姉妹番組にあたる。2007年4月より[ドスペ2](../Page/ドスペ2.md "wikilink")枠・[日曜ワイド枠で不定期に放映されていた](../Page/スペシャルサンデー.md "wikilink")。内容は『快感MAP』とほぼ同じだが、ロケを担当する出演者がコーディネーターと名乗らず調査員と名乗ること、そしてその取材した内容が審査され「保存」か「削除」かが決められることなどの違いがある。
+『[大胆MAP](../Page/大胆MAP.md "wikilink")』は、『快感MAP』の姉妹番組にあたる。2007年4月より[ドスペ2](../Page/ドスペ2.md "wikilink")枠・[日曜ワイド枠で不定期に放映されていた](../Page/スペシャルサンデー.md "wikilink")。内容は『快感MAP』とほぼ同じだが、ロケを担当する出演者がコーディネーターと名乗らず調査員と名乗ること、そしてその取材した内容が審査され「保存」か「削除」かが決められることなどの違いがある。
 
 2007年[9月22日](../Page/9月22日.md "wikilink")、[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")（19:00 - 20:54）にアニメの声優をテーマにした『大胆MAP』特番が放映された。これが好評だったため、『大胆MAP』は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月20日](../Page/1月20日.md "wikilink")から日曜19時台でのゴールデン進出およびレギュラー化が決定し、それまで『快感MAP』で扱われていた内容や出演者のほとんどが『大胆MAP』に移行することとなった。
 
@@ -77,7 +77,7 @@
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")                    | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")（NKT）                | 火曜 2時01分 - 2時31分（月曜深夜）                                                      | 23週遅れ                  |         |
 
   - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・[鹿児島放送](../Page/鹿児島放送.md "wikilink")を除くANNフルネット22局で放送された。
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")では2008年3月をもって[大胆MAP](https://ja.wikipedia.org/wiki/大胆MAP "wikilink")開始によるリニューアル前にネット打ち切りとなり、4月20日から同じく日曜日に『[お試しかっ\!](https://ja.wikipedia.org/wiki/お試しかっ! "wikilink")』が開始している。
+  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")では2008年3月をもって[大胆MAP](../Page/大胆MAP.md "wikilink")開始によるリニューアル前にネット打ち切りとなり、4月20日から同じく日曜日に『[お試しかっ\!](https://ja.wikipedia.org/wiki/お試しかっ! "wikilink")』が開始している。
   - [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")では2008年4月20日 を以って打ち切られた。後番組は[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")の『[アグレッシブですけど、何か?](../Page/アグレッシブですけど、何か?.md "wikilink")』。
 
 ## スタッフ

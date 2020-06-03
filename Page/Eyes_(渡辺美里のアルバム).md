@@ -21,49 +21,7 @@
 
 ## 収録曲
 
-1.  **SOMEWHERE**
-      - 作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-2.  **[GROWIN' UP](https://ja.wikipedia.org/wiki/GROWIN'_UP "wikilink")**
-      - 作詞：[神沢礼江](../Page/神沢礼江.md "wikilink")、作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：[後藤次利](../Page/後藤次利.md "wikilink")
-3.  **すべて君のため**
-      - 作詞：神沢礼江、作曲：岡村靖幸、編曲：後藤次利
-4.  **18才のライブ**
-      - 作詞：[竹花いち子](https://ja.wikipedia.org/wiki/竹花いち子 "wikilink")、作曲：[亀井登志夫](../Page/亀井登志夫.md "wikilink")、編曲：[大村憲司](../Page/大村憲司.md "wikilink")
-5.  **悲しいボーイフレンド**
-      - 作詞・作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲：後藤次利
-6.  **eyes**
-      - 作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、編曲：[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
-7.  **[死んでるみたいに生きたくない](https://ja.wikipedia.org/wiki/死んでるみたいに生きたくない "wikilink")**
-      - 作詞：戸沢暢美、作曲：小室哲哉、編曲：後藤次利
-8.  **追いかけてRAINBOW**
-      - 作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")、作曲：[白井貴子](../Page/白井貴子_\(歌手\).md "wikilink")、編曲：後藤次利
-9.  **Lazy Crazy Blueberry Pie**
-      - 作詞：神沢礼江、作曲・編曲：岡村靖幸
-10. **きみに会えて**
-      - 作詞：神沢礼江、作曲：小室哲哉、編曲：[清水信之](../Page/清水信之.md "wikilink")
-11. **Bye Bye Yesterday**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：清水信之
-    <!-- end list -->
-      -
-        「死んでるみたいに生きたくない」のカップリング曲
-
 ### 「eyes -30th Anniversary Edition-」ボーナストラック収録曲
-
-1.
-
-    <li value="12">
-
-    **I'm Free**
-
-      - 日本語詞：[康珍化](../Page/康珍化.md "wikilink")、原作詞：[DEAN PITCHFORD](https://ja.wikipedia.org/wiki/:en:Dean_Pitchford "wikilink")、作曲：[KENNY LOGGINS](../Page/ケニー・ロギンス.md "wikilink")、編曲：[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
-
-2.  **タフな気持で (Don't Cry)**
-
-      - 日本語詞：[只野菜摘](https://ja.wikipedia.org/wiki/只野菜摘 "wikilink")、原作詞・作曲：[JOHN WETTON](../Page/ジョン・ウェットン.md "wikilink") & [GEOFF DOWNES](../Page/ジェフ・ダウンズ.md "wikilink")、編曲：中村哲
-
-3.  **ルージュの色よりもっと**
-
-      - 作詞：神沢礼江、作曲：亀井登志夫、編曲：大村憲司
 
 ## 30th Anniversary Edition
 
@@ -100,14 +58,16 @@
 
 ## 参加ミュージシャン
 
-  - Drums：[青山純](../Page/青山純.md "wikilink"), [山木秀夫](../Page/山木秀夫.md "wikilink"), [島村英二](../Page/島村英二.md "wikilink")
-  - Bass : [後藤次利](../Page/後藤次利.md "wikilink"), [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink"), 富倉安生
-  - Guitar : [鈴木賢司](https://ja.wikipedia.org/wiki/鈴木賢司 "wikilink") (Solo on 9), [大村憲司](../Page/大村憲司.md "wikilink") (Solo on 4), [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink") (Solo on 6), [佐橋佳幸](../Page/佐橋佳幸.md "wikilink") (10), [今剛](../Page/今剛.md "wikilink"), [北島健二](../Page/北島健二.md "wikilink")
-  - Keyboards : [倉田信雄](../Page/倉田信雄.md "wikilink"), [国吉良一](../Page/国吉良一.md "wikilink"), [中村哲](../Page/中村哲_\(作曲家\).md "wikilink"), 渋井博, [富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink"), [西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink"), [岡村靖幸](../Page/岡村靖幸.md "wikilink")
-  - Synthesizer Operator : 迫田到, 梅原篤, 遠山淳 (10,11)
+  - Drums：[青山純](../Page/青山純.md "wikilink")・[山木秀夫](../Page/山木秀夫.md "wikilink")・[島村英二](../Page/島村英二.md "wikilink")
+  - Bass : [後藤次利](../Page/後藤次利.md "wikilink")・[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")・富倉安生
+  - Guitar : [鈴木賢司](https://ja.wikipedia.org/wiki/鈴木賢司 "wikilink") (Solo on 9), [大村憲司](../Page/大村憲司.md "wikilink") (Solo on 4), [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink") (Solo on 6), [佐橋佳幸](../Page/佐橋佳幸.md "wikilink") (10)・[今剛](../Page/今剛.md "wikilink")・[北島健二](../Page/北島健二.md "wikilink")
+  - Keyboards : [倉田信雄](../Page/倉田信雄.md "wikilink")・[国吉良一](../Page/国吉良一.md "wikilink")・[中村哲](../Page/中村哲_\(作曲家\).md "wikilink")・渋井博・[富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")・[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")・[岡村靖幸](../Page/岡村靖幸.md "wikilink")
+  - Synthesizer Operator : 迫田到・梅原篤・遠山淳 (10,11)
   - Percussion：[浜口茂外也](https://ja.wikipedia.org/wiki/浜口茂外也 "wikilink")
   - Saxophone Solo : [Jake H. Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
   - Co Produse and Instruments : [清水信之](../Page/清水信之.md "wikilink") (10,11)
+  - Chorus Arranged：小室哲哉（All）\[4\]
+  - Chorus：渡辺美里（1,2,5,7）・岡村靖幸（2,9）・[TM NETWORK](../Page/TM_NETWORK.md "wikilink")（2,3,7）
 
 ## 脚注
 
@@ -122,3 +82,4 @@
 1.
 2.
 3.
+4.  「eyes -30th Anniversary Edition-」ボーナストラック収録曲を除く。

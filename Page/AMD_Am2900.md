@@ -19,7 +19,7 @@
 
   - [DEC](https://ja.wikipedia.org/wiki/デジタル・イクイップメント・コーポレーション "wikilink") [PDP-10](../Page/PDP-10.md "wikilink") の KS10 モデル\[7\]
 
-  - NCRの [Joel McCormack](https://ja.wikipedia.org/wiki/:en:Joel_McCormack "wikilink") が設計した [UCSD Pascal](https://ja.wikipedia.org/wiki/UCSD_p-System "wikilink") P-machine プロセッサ
+  - NCRの [Joel McCormack](https://ja.wikipedia.org/wiki/:en:Joel_McCormack "wikilink") が設計した [UCSD Pascal](../Page/UCSD_p-System.md "wikilink") P-machine プロセッサ
 
   - [MAI Basic Four](https://ja.wikipedia.org/wiki/:en:MAI_Basic_Four "wikilink") の一部マシン\[8\]
 

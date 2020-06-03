@@ -75,7 +75,7 @@
   - 2008年[3月8日](../Page/3月8日.md "wikilink") - [L705iX](../Page/L705iX.md "wikilink")を発売。
   - 2008年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - [PROSOLID μ(P705iCL)を発売](https://ja.wikipedia.org/wiki/PROSOLID_μ "wikilink")。
   - 2008年[6月1日](../Page/6月1日.md "wikilink") - [PRADA Phone by LG(L852i)](https://ja.wikipedia.org/wiki/L852i "wikilink")、[P906i](https://ja.wikipedia.org/wiki/P906i "wikilink")を発売。
-  - 2008年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - [SO906i](https://ja.wikipedia.org/wiki/SO906i "wikilink")を発売。
+  - 2008年[6月2日](../Page/6月2日.md "wikilink") - [SO906i](https://ja.wikipedia.org/wiki/SO906i "wikilink")を発売。
   - 2008年[6月3日](../Page/6月3日.md "wikilink") - [SH906i](../Page/SH906i.md "wikilink")を発売。
   - 2008年[6月4日](../Page/6月4日.md "wikilink") - [N906iμ](https://ja.wikipedia.org/wiki/N906iμ "wikilink")を発売。
   - 2008年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") - [F906i](https://ja.wikipedia.org/wiki/F906i "wikilink")を発売。

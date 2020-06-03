@@ -70,7 +70,7 @@
 
 ## 歴代所属選手
 
-  - [アンドレア・ゾルジ](https://ja.wikipedia.org/wiki/アンドレア・ゾルジ "wikilink")
+  - [アンドレア・ゾルジ](../Page/アンドレア・ゾルジ.md "wikilink")
 
   - [ロベルト・マッシァレッリ](https://ja.wikipedia.org/wiki/ロベルト・マッシァレッリ "wikilink")
 

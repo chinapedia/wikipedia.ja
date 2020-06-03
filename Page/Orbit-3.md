@@ -1,7 +1,7 @@
 > この記事は[Orbit-3](https://ja.wikipedia.org/wiki/Orbit-3)から翻訳されています。
 
 
-『**orbit-3**』 (オービット・スリー) は[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。
+『**orbit-3**』 (オービット・スリー) は[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。
 
 ## 解説
 

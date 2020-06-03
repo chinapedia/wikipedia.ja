@@ -499,7 +499,7 @@ VICL-62091:通常盤</p></td>
 <li>涙のパレード / <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
 <li>MONDAY DATE / <a href="https://ja.wikipedia.org/wiki/カーミット・ラフィンズ" title="wikilink">カーミット・ラフィンズ</a></li>
 <li>Beautiful / <a href="../Page/MONGOL800.md" title="wikilink">MONGOL800</a></li>
-<li>Can’t stop lovin’ you / <a href="https://ja.wikipedia.org/wiki/VERBAL" title="wikilink">VERBAL</a>,<a href="https://ja.wikipedia.org/wiki/日之内エミ" title="wikilink">日之内エミ</a></li>
+<li>Can’t stop lovin’ you / <a href="../Page/VERBAL.md" title="wikilink">VERBAL</a>,<a href="https://ja.wikipedia.org/wiki/日之内エミ" title="wikilink">日之内エミ</a></li>
 <li>助けて!フラワーマン / トータス松本</li>
 <li>こたえは風の中 / <a href="../Page/Leyona.md" title="wikilink">Leyona</a></li>
 <li>Jesus on the Main Line / <a href="https://ja.wikipedia.org/wiki/ボー・ドリス" title="wikilink">ボー・ドリス</a>,<a href="../Page/ワイルド・マグノリアス.md" title="wikilink">ワイルド・マグノリアス</a>,<a href="https://ja.wikipedia.org/wiki/マーヴァ・ライト" title="wikilink">マーヴァ・ライト</a></li>

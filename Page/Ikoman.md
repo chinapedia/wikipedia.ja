@@ -24,7 +24,7 @@
     アルバム・エピソード1(DJ YUTAKA)収録曲「BELIEVE」（作曲・編曲）
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")
     シングル「[Like a Love?](../Page/Like_a_Love?.md "wikilink")」
-    アルバム「[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")」収録「新しい日々」（編曲）
+    アルバム「[DOLCE](../Page/DOLCE_\(鈴木亜美のアルバム\).md "wikilink")」収録「新しい日々」（編曲）
   - [アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")
     シングル「告白」（編曲）
   - [紗希](../Page/紗希.md "wikilink")
@@ -44,7 +44,7 @@
     アルバム「Rie fu」収録曲「笑って、恵みのもとへ」「Beautiful Words」「I So Wanted」「decay」「Shine」（編曲）
     アルバム「Tobira Album」収録曲「Come To My Door」「On It's Way」（編曲）
   - [RYTHEM](../Page/RYTHEM.md "wikilink")
-    シングル「[一人旅シャラルラン](https://ja.wikipedia.org/wiki/一人旅シャラルラン "wikilink")」（作曲）
+    シングル「[一人旅シャラルラン](../Page/一人旅シャラルラン.md "wikilink")」（作曲）
   - [FLOW](../Page/FLOW.md "wikilink")
     シングル「[WORLD END](../Page/WORLD_END.md "wikilink")」（編曲）
   - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")

@@ -32,7 +32,7 @@
     [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")出身。ボケ担当。血液型A型。
     身長168cm、体重68kg。
     趣味は演歌を聴くこと。
-    かつては[吉村崇](https://ja.wikipedia.org/wiki/吉村崇 "wikilink")（[平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")）、てつみち（元[フクロトジ](https://ja.wikipedia.org/wiki/フクロトジ "wikilink")）と一緒に[幡ヶ谷](../Page/幡ヶ谷.md "wikilink")に住んでいた。
+    かつては[吉村崇](https://ja.wikipedia.org/wiki/吉村崇 "wikilink")（[平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")）、てつみち（元[フクロトジ](../Page/フクロトジ.md "wikilink")）と一緒に[幡ヶ谷](../Page/幡ヶ谷.md "wikilink")に住んでいた。
     2017年に結婚。妻は[福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")にある[スパリゾートハワイアンズ](../Page/スパリゾートハワイアンズ.md "wikilink")の元[フラガール](../Page/フラガール.md "wikilink")。
     [いかりや長介](../Page/いかりや長介.md "wikilink")の[モノマネ](https://ja.wikipedia.org/wiki/モノマネ "wikilink")が非常に得意。
     [痛風](../Page/痛風.md "wikilink")と[腎臓病](https://ja.wikipedia.org/wiki/腎臓病 "wikilink")を患い、2016年に父親から生体[腎移植](../Page/腎移植.md "wikilink")を受けた。
@@ -56,7 +56,7 @@
 
 ## 出演番組
 
-  - [新しい波8](../Page/新しい波8.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [新しい波8](../Page/新しい波8.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2000年11月17日）
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")） 戦績6勝1敗 最高521KB
 
 <!-- end list -->

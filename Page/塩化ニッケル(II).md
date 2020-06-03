@@ -12,7 +12,7 @@
 しかしながら塩化ニッケル(II) は廉価であり、劣化もしないため実験室で合成が行われることはまず無い。水和物を[塩化チオニル](../Page/塩化チオニル.md "wikilink")の存在下、または[塩化水素](../Page/塩化水素.md "wikilink")の気流中で加熱すると無水物が得られる。単に加熱するだけでは無水物にならない。
 
   -
-    <ce>NiCl2 \\cdot 6H2O\\ + 6 SOCl2 -\> NiCl2\\ + 6SO2\\ + 12HCl</ce>
+    <chem>NiCl2 \\cdot 6H2O\\ + 6 SOCl2 -\> NiCl2\\ + 6SO2\\ + 12HCl</chem>
 
 脱水が起こったことは緑から黄への色の変化で確認できる\[1\]。
 
@@ -30,10 +30,10 @@
 
 配位子 H<sub>2</sub>O は容易に[アンモニア](../Page/アンモニア.md "wikilink")、[アミン](../Page/アミン.md "wikilink")、[チオエーテル](../Page/スルフィド.md "wikilink")、[チオラート](../Page/チオール.md "wikilink")、[ホスフィン](../Page/ホスフィン.md "wikilink")などによって置換されるため、NiCl<sub>2</sub>•6H<sub>2</sub>O は様々な錯体の前駆物質となりえる。塩化物イオンが錯体中に残ることもあるが、強い配位子を加ればこれも置き換わる。以下に例を示す。
 
-  - <ce>\[Ni(NH3)6\]Cl2</ce> - 紫、常磁性、八面体型。
-  - <ce>NiCl2(Ph2PCH2CH2PPh2)</ce> - オレンジ、反磁性、平面4配位。
-  - <ce>\[Ni(CN)4\]^{2-}</ce> - 無色、反磁性、平面4配位。
-  - <ce>\[NiCl4\]^{2-}</ce> - 青、常磁性、四面体型\[4\]\[5\]。
+  - <chem>\[Ni(NH3)6\]Cl2</chem> - 紫、常磁性、八面体型。
+  - <chem>NiCl2(Ph2PCH2CH2PPh2)</chem> - オレンジ、反磁性、平面4配位。
+  - <chem>\[Ni(CN)4\]^{2-}</chem> - 無色、反磁性、平面4配位。
+  - <chem>\[NiCl4\]^{2-}</chem> - 青、常磁性、四面体型\[4\]\[5\]。
 
 塩化ニッケル錯体のうちある種のものは、溶液中で2種類の構造の平衡混合物として存在する。これはニッケル(II) 錯体に見られる特徴的な性質である。例えば NiCl<sub>2</sub>(PPh<sub>3</sub>)<sub>2</sub> は4配位だが、溶液中では反磁性の平面4配位型と常磁性の四面体型構造の間で平衡がみられる。平面4配位錯体はもう1個配位子が追加されて5配位をとることができる。
 
@@ -48,20 +48,20 @@
 <!-- end list -->
 
   -
-    例えば <ce>RCH=CH-CH=CH-CH2OH -\> RCH(OH)-CH=CH-CH=CH2</ce> など。
+    例えば <chem>RCH=CH-CH=CH-CH2OH -\> RCH(OH)-CH=CH-CH=CH2</chem> など。
 
 <!-- end list -->
 
   - [塩化クロム(II)](https://ja.wikipedia.org/wiki/塩化クロム\(II\) "wikilink") CrCl<sub>2</sub> と組み合わせ、[アルデヒド](../Page/アルデヒド.md "wikilink")とヨウ化ビニル化合物からの[アリルアルコール](../Page/アリルアルコール.md "wikilink")の合成。
   - [水素化リチウムアルミニウム](https://ja.wikipedia.org/wiki/水素化リチウムアルミニウム "wikilink") LiAlH<sub>4</sub> で還元を行う際に選択性を向上させる添加剤。アルケンからアルカンなど。
   - [水素化ホウ素ナトリウム](../Page/水素化ホウ素ナトリウム.md "wikilink") NaBH<sub>4</sub> との反応による[ホウ化ニッケル](https://ja.wikipedia.org/wiki/ホウ化ニッケル "wikilink")の調製。この試薬は[ラネーニッケルと同様な作用を持ち](../Page/ラネー合金.md "wikilink")、不飽和カルボニル化合物の[水素化](../Page/水素化.md "wikilink")に有効である。
-  - 金属亜鉛で還元することによる活性金属ニッケル粉末の調製。これはアルデヒド、[ケトン](../Page/ケトン.md "wikilink")、芳香族[ニトロ化合物](../Page/ニトロ化合物.md "wikilink")の還元に用いられる。[芳香族](https://ja.wikipedia.org/wiki/芳香族 "wikilink")化合物やビニル化合物のホモカップリング <ce>2RX \\to\\ R-R</ce> にも使われる。
+  - 金属亜鉛で還元することによる活性金属ニッケル粉末の調製。これはアルデヒド、[ケトン](../Page/ケトン.md "wikilink")、芳香族[ニトロ化合物](../Page/ニトロ化合物.md "wikilink")の還元に用いられる。[芳香族](https://ja.wikipedia.org/wiki/芳香族 "wikilink")化合物やビニル化合物のホモカップリング <chem>2RX \\to\\ R-R</chem> にも使われる。
   - 亜リン酸エステルとアリールヨージド ArI からアリールホスホナートジアルキルエステルを合成する際の触媒。
 
 <!-- end list -->
 
   -
-    <ce>{ArI} + P(OEt)3 -\> {ArP(O)(OEt)2} + EtI</ce>
+    <chem>{ArI} + P(OEt)3 -\> {ArP(O)(OEt)2} + EtI</chem>
 
 ## 参考文献
 

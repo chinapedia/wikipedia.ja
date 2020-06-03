@@ -79,7 +79,7 @@
   - [萌えコン](https://ja.wikipedia.org/wiki/萌えコン "wikilink")（[マキダマサヤ](https://ja.wikipedia.org/wiki/マキダマサヤ "wikilink")）
   - [Moto\! -La chica de la motocicleta-](https://ja.wikipedia.org/wiki/Moto!_-La_chica_de_la_motocicleta- "wikilink")（[小川こうじ](https://ja.wikipedia.org/wiki/小川こうじ "wikilink") 監修：[モトチャンプ](https://ja.wikipedia.org/wiki/モトチャンプ "wikilink")編集部）
   - [ユルミとシメル](../Page/ユルミとシメル.md "wikilink")（[こいでたく](../Page/こいでたく.md "wikilink")）
-  - [Leader's High\!](../Page/Leader's_High!.md "wikilink")（[神堂あらし](https://ja.wikipedia.org/wiki/神堂あらし "wikilink")）
+  - [Leader's High\!](../Page/Leader's_High!.md "wikilink")（[神堂あらし](../Page/神堂あらし.md "wikilink")）
   - [私がお姉ちゃんなんだからね\!](https://ja.wikipedia.org/wiki/私がお姉ちゃんなんだからね! "wikilink")（[鰻丸](https://ja.wikipedia.org/wiki/鰻丸 "wikilink")）
   - [プピポー\!](../Page/プピポー!.md "wikilink")（[押切蓮介](../Page/押切蓮介.md "wikilink")）
 
@@ -100,7 +100,7 @@
 
 <!-- end list -->
 
-  - [幻燈師シリーズ](https://ja.wikipedia.org/wiki/幻燈師シリーズ "wikilink")（[カザマアヤミ](https://ja.wikipedia.org/wiki/カザマアヤミ "wikilink")）
+  - [幻燈師シリーズ](https://ja.wikipedia.org/wiki/幻燈師シリーズ "wikilink")（[カザマアヤミ](../Page/カザマアヤミ.md "wikilink")）
   - [MAID DE KNIGHT+\! -メイドでないとプラス\!-](https://ja.wikipedia.org/wiki/MAID_DE_KNIGHT+!_-メイドでないとプラス!- "wikilink")（TOBI）
 
 #### 派生誌への移籍作品
@@ -118,8 +118,8 @@
 <!-- end list -->
 
   - [神様のパズル](../Page/神様のパズル.md "wikilink")（[内田征宏](https://ja.wikipedia.org/wiki/内田征宏 "wikilink") 原作：[機本伸司](https://ja.wikipedia.org/wiki/機本伸司 "wikilink")）
-  - [まじょま witch×maniac](../Page/まじょま_witch×maniac.md "wikilink")（[神吉](../Page/神吉_\(漫画家\).md "wikilink")）
-  - [武蔵野線の姉妹](https://ja.wikipedia.org/wiki/武蔵野線の姉妹 "wikilink")（[ユキヲ](../Page/ユキヲ.md "wikilink")）
+  - [まじょま witch×maniac](../Page/まじょま_witch×maniac.md "wikilink")（[神吉](https://ja.wikipedia.org/wiki/神吉李花 "wikilink")）
+  - [武蔵野線の姉妹](../Page/武蔵野線の姉妹.md "wikilink")（[ユキヲ](../Page/ユキヲ.md "wikilink")）
   - [メイド刑事](../Page/メイド刑事.md "wikilink")（[宇佐美道子](https://ja.wikipedia.org/wiki/宇佐美道子 "wikilink") 原作：[早見裕司](https://ja.wikipedia.org/wiki/早見裕司 "wikilink") キャラクター原案：[はいむらきよたか](https://ja.wikipedia.org/wiki/灰村キヨタカ "wikilink")）
   - [ランペイジ](../Page/ランペイジ_\(漫画\).md "wikilink")（吉永裕ノ介） - 『[ヤングマガジンアッパーズ](../Page/ヤングマガジンアッパーズ.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）初出。
 

@@ -1,11 +1,11 @@
 > この記事は[RSKエキサイトナイター](https://ja.wikipedia.org/wiki/RSKエキサイトナイター)から翻訳されています。
 
 
-**RSKエキサイトナイター**（アールエスケーエキサイトナイター）は[山陽放送ラジオ](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")のナイター中継。
+**RSKエキサイトナイター**（アールエスケーエキサイトナイター）は[RSK山陽放送ラジオのナイター中継](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")。
 
 ## 概要
 
-全国向けに制作されている[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")主体のカードを主に放送している。そのため、隣県の[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")戦中継専門の[中国放送](../Page/中国放送.md "wikilink")（RCC）や、[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦中心の[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")や[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")と放送内容がかち合うことが少ない（ただ、[ラジオ関西](../Page/ラジオ関西.md "wikilink")とかち合うことはある。同様の例が[山口放送](../Page/山口放送.md "wikilink")の[KRYエキサイトナイター](../Page/KRYエキサイトナイター.md "wikilink")）。
+全国向けに制作されている[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")主体のカードを主に放送している。そのため、隣県の[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")戦中継専門の[中国放送](../Page/中国放送.md "wikilink")（RCC）や、[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦中心の[ABCラジオや](../Page/朝日放送ラジオ.md "wikilink")[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")と放送内容がかち合うことが少ない（ただ、[ラジオ関西](../Page/ラジオ関西.md "wikilink")とかち合うことはある。同様の例が[山口放送](../Page/山口放送.md "wikilink")の[KRYエキサイトナイター](../Page/KRYエキサイトナイター.md "wikilink")）。
 
 なお、[倉敷マスカットスタジアム](https://ja.wikipedia.org/wiki/倉敷マスカットスタジアム "wikilink")（過去には[岡山県野球場](../Page/岡山県野球場.md "wikilink")）で阪神タイガースが主催試合を行うことがあるが、岡山県内にABCやMBSを直接受信できる地域が多いことや、2012年以前は[山陽新聞社](https://ja.wikipedia.org/wiki/山陽新聞社 "wikilink")以外の新聞社が主催していたため、全国放送カードにならない限り、RSKラジオでの当該カードの差し替え放送は行っていない。
 

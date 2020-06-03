@@ -22,16 +22,17 @@
 
 ## アンプラグドに出演した主なアーティスト
 
-※…後にライブがCD、またはDVD化されたアーティスト。その他の公演も「Best of MTV Unplugged」など、オムニバス形式でCD音源化されているものがある。
+※…後にライブがCD、またはビデオ、DVD化されたアーティスト。その他の公演も「Best of MTV Unplugged」など、オムニバス形式でCD音源化されているものがある。
 
   - [エアロスミス](../Page/エアロスミス.md "wikilink")（1990年）
   - [ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")（1991年）※
-  - [スティング](../Page/スティング_\(ミュージシャン\).md "wikilink")（1991年）
+  - [スティング](../Page/スティング_\(ミュージシャン\).md "wikilink")（1991年）※
   - [R.E.M.](../Page/R.E.M..md "wikilink")（1991年、2001年）
   - [マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")（1992年）※
   - [エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")（1992年）※
   - [パール・ジャム](../Page/パール・ジャム.md "wikilink")（1992年）※
   - [ブルース・スプリングスティーン](https://ja.wikipedia.org/wiki/ブルース・スプリングスティーン "wikilink")（1992年）※
+  - [k.d.ラング](https://ja.wikipedia.org/wiki/k.d.ラング "wikilink")（1993年）※
   - [ロッド・スチュワート](../Page/ロッド・スチュワート.md "wikilink")（1993年）※
   - [ニール・ヤング](../Page/ニール・ヤング.md "wikilink")（1993年）※
   - [ニルヴァーナ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")（1993年）※

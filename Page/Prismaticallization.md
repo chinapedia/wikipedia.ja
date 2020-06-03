@@ -1,7 +1,7 @@
 > この記事は[Prismaticallization](https://ja.wikipedia.org/wiki/Prismaticallization)から翻訳されています。
 
 
-『**Prismaticallization**』（プリズマティカリゼーション）は、[PlayStation用の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。開発元の[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")は「サークレイト（circulate: 循環する）・アドベンチャー」と称している。「[ループもの](https://ja.wikipedia.org/wiki/ループもの "wikilink")」の一作とされる。
+『**Prismaticallization**』（プリズマティカリゼーション）は、[PlayStation用の](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。開発元の[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")は「サークレイト（circulate: 循環する）・アドベンチャー」と称している。「[ループもの](../Page/ループもの.md "wikilink")」の一作とされる。
 
 1999年にPlayStationで発売され、2000年に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")に移植された。また、2002年には[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite1500シリーズとして再発売された](../Page/SuperLiteシリーズ.md "wikilink")。2007年8月30日には[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")用ソフトとして配信されている。
 

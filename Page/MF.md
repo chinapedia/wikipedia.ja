@@ -28,7 +28,7 @@
 ## コード・形式名
 
   - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、[廈門航空](https://ja.wikipedia.org/wiki/廈門航空 "wikilink")を示す。
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")佐世保局コールサイン（JOMF）。
+  - [長崎放送](../Page/長崎放送.md "wikilink")佐世保局コールサイン（JOMF）。
 
 ## フィクションのことがら
 

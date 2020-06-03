@@ -88,7 +88,7 @@
       - 日本の[プロ野球球団](../Page/日本プロ野球.md "wikilink")[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink") (**S**wallows) の略号。
       - [セーブ](../Page/セーブ.md "wikilink") (**s**ave) の略。
       - [犠打](../Page/犠打.md "wikilink")をスコアブックに記載する際の略号。SH、SACを使う場合もある。
-      - [野球](../Page/野球.md "wikilink")の[テレビ中継](https://ja.wikipedia.org/wiki/テレビ中継 "wikilink")画面や[球場](https://ja.wikipedia.org/wiki/球場 "wikilink")内[電光掲示板](../Page/電光掲示板.md "wikilink")における、[ボールカウント](../Page/ボールカウント.md "wikilink")の略表記 (**S**trike)→[ストライク (野球)](../Page/ストライク_\(野球\).md "wikilink")
+      - [野球](../Page/野球.md "wikilink")の[テレビ中継](https://ja.wikipedia.org/wiki/テレビ中継 "wikilink")画面や[球場内](../Page/野球場.md "wikilink")[電光掲示板](../Page/電光掲示板.md "wikilink")における、[ボールカウント](../Page/ボールカウント.md "wikilink")の略表記 (**S**trike)→[ストライク (野球)](../Page/ストライク_\(野球\).md "wikilink")
       - [競馬](../Page/競馬.md "wikilink")の[ステークス方式](https://ja.wikipedia.org/wiki/ステークス方式 "wikilink")の略表記
   - [音楽](../Page/音楽.md "wikilink")
       - しばしば[変ホ](https://ja.wikipedia.org/wiki/変ホ "wikilink")（イタリア式では**ミ♭**、英米式では**E♭**）をあらわす。これは、ドイツ式でこの音を**Es**と表記し、「エス」と読むことに由来する。

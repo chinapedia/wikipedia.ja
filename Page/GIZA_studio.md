@@ -168,7 +168,7 @@
 
 2018年
 
-  - 3月20日 - hillsパン工場・ライブハウスの15周年記念ライブ「TUESDAY LIVE〜15周年祝わNIGHT〜」開催。大野愛果、doa、Sensation、植田真梨恵が出演。
+  - 3月20日 - hillsパン工場・ライブハウスの15周年記念ライブ「TUESDAY LIVE〜15周年祝わNIGHT〜」開催。大野愛果、[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")、Sensation、植田真梨恵が出演。
 
 2019年
 
@@ -178,7 +178,7 @@
 
 所属アーティストの大半が関西出身、在住のアーティストが多く、ノンタイアップながらデビューシングルでミリオンセラーを獲得した[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")を除き、所属する大半のアーティストが、アニメ（[フジテレビ系を除く](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[民放番組が主](../Page/民間放送.md "wikilink")）[主題歌](../Page/主題歌.md "wikilink")との[タイアップ](../Page/タイアップ.md "wikilink")でデビューしてブレイクを狙うのが特徴であった。
 
-設立翌年の1999年から2000年代中期までは、[小松未歩](../Page/小松未歩.md "wikilink")・倉木麻衣・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")・[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")・[上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")・[三枝夕夏 IN db](../Page/三枝夕夏_IN_db.md "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa "wikilink")らのアーティストが着実に売り上げを確保していた。しかし、彼らを除く知名度がさほど高くない歌手はCDの売上が減少している昨今、アニメのタイアップだけでは安易にヒットが出せなくなっている為、東京を中心に活動する作家や[TUBE](../Page/TUBE.md "wikilink")、[B'z](../Page/B'z.md "wikilink")、[DIMENSION](../Page/DIMENSION.md "wikilink")、[FEEL SO BADのメンバーが楽曲制作に関わっている事をアピールする等の販売戦略をとっていることと](../Page/FEEL_SO_BAD.md "wikilink")、ビーイングでのメディアコントロールを受け継いでおり小松未歩のようにまったくメディアに姿を見せない戦略から登場当初のみ露出させその後は姿を見せないなどほとんどの所属アーティストのメディア露出が極端に少ないのも特徴である。
+設立翌年の1999年から2000年代中期までは、[小松未歩](../Page/小松未歩.md "wikilink")・倉木麻衣・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")・[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")・[上原あずみ](https://ja.wikipedia.org/wiki/上原あずみ "wikilink")・[三枝夕夏 IN db](../Page/三枝夕夏_IN_db.md "wikilink")・[doaらのアーティストが着実に売り上げを確保していた](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")。しかし、彼らを除く知名度がさほど高くない歌手はCDの売上が減少している昨今、アニメのタイアップだけでは安易にヒットが出せなくなっている為、東京を中心に活動する作家や[TUBE](../Page/TUBE.md "wikilink")、[B'z](../Page/B'z.md "wikilink")、[DIMENSION](../Page/DIMENSION.md "wikilink")、[FEEL SO BADのメンバーが楽曲制作に関わっている事をアピールする等の販売戦略をとっていることと](../Page/FEEL_SO_BAD.md "wikilink")、ビーイングでのメディアコントロールを受け継いでおり小松未歩のようにまったくメディアに姿を見せない戦略から登場当初のみ露出させその後は姿を見せないなどほとんどの所属アーティストのメディア露出が極端に少ないのも特徴である。
 
 [2001年](../Page/2001年.md "wikilink")以降は上原あずみ、[松橋未樹](../Page/松橋未樹.md "wikilink")、[長谷実果](https://ja.wikipedia.org/wiki/長谷実果 "wikilink")、菅崎茜、岸本早未、[スパークリング☆ポイント](../Page/スパークリング☆ポイント.md "wikilink")、[宇浦冴香](https://ja.wikipedia.org/wiki/宇浦冴香 "wikilink")、岩田さゆりなど、中高生がデビューする機会も増えた。
 
@@ -314,7 +314,7 @@ GIZA studio内に設置されていたメジャーレーベル。元々は当社
 
   - [白石乃梨](../Page/白石乃梨.md "wikilink")
   - [Chicago Poodle](../Page/Chicago_Poodle.md "wikilink")
-  - [doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")
+  - [doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")
   - [植田真梨恵](https://ja.wikipedia.org/wiki/植田真梨恵 "wikilink")
   - [大野愛果](../Page/大野愛果.md "wikilink")
   - [d-project](https://ja.wikipedia.org/wiki/d-project "wikilink")

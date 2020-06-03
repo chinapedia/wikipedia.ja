@@ -31,7 +31,7 @@ SOUL'd OUT以外では、「[E.P.O](https://ja.wikipedia.org/wiki/EdgePlayer "wi
 
 幼少時代から絵画に興味を持ち、[ビジュアルアートを学ぶ傍らで音楽活動を行って来た](../Page/視覚芸術.md "wikilink")。尊敬するアーティストの1人として、『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』の作者である[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")を挙げており、現在では公私共に付き合いが深い。仕事場を訪問した際に描かれていた漫画『[スティール・ボール・ラン](../Page/スティール・ボール・ラン.md "wikilink")』の一コマに参加した事もある。
 
-2018年からは[buzz☆Vibes](https://ja.wikipedia.org/wiki/buzz☆Vibes "wikilink")のメンバーとしても活動。
+2018年からは[buzz★Vibesのメンバーとしても活動](https://ja.wikipedia.org/wiki/buzz☆Vibes "wikilink")。
 
 ### サポート・メンバー
 

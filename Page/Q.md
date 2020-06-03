@@ -121,7 +121,7 @@
   - フリーのPC[エミュレータ](../Page/エミュレータ.md "wikilink")[QEMU](../Page/QEMU.md "wikilink")の[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")向けポート。
   - [シャ乱Q](../Page/シャ乱Q.md "wikilink")。6枚目のアルバムは『[GOLDEN Q](../Page/GOLDEN_Q.md "wikilink")』、公式ファンクラブはCLUB QUE（クラブキュー）。
   - [天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")内の企画「高校生ダンス甲子園」において当イベントに参加した無名時代の[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")（のちに俳優、現政治家）が名乗った名前は『メロリンQ』。
-  - [円谷プロ](https://ja.wikipedia.org/wiki/円谷プロ "wikilink")が製作したテレビ特撮作品第一作は『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』。[ウルトラマンA](../Page/ウルトラマンA.md "wikilink")の第14話の必殺光線『スペースQ』や第48話の『Q歯科医院』、[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")第43話の小型吸血円盤『デモスQ』や第47話の『テリナQ』、[マイティジャック](../Page/マイティジャック.md "wikilink")に登場する敵組織の名称『Q』など、円谷プロ作品においてQの文字はよく使用される。
+  - [円谷プロが製作したテレビ特撮作品第一作は](../Page/円谷プロダクション.md "wikilink")『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』。[ウルトラマンA](../Page/ウルトラマンA.md "wikilink")の第14話の必殺光線『スペースQ』や第48話の『Q歯科医院』、[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")第43話の小型吸血円盤『デモスQ』や第47話の『テリナQ』、[マイティジャック](../Page/マイティジャック.md "wikilink")に登場する敵組織の名称『Q』など、円谷プロ作品においてQの文字はよく使用される。
   - [デ・ハビランド・カナダ](../Page/デ・ハビランド・カナダ.md "wikilink")社が開発し、現在でも[ボンバルディア](../Page/ボンバルディア.md "wikilink")社が製造している「ボンバルディア Qシリーズ」。（例:[Q400](https://ja.wikipedia.org/wiki/Q400 "wikilink")など）
   - [INFINITI](https://ja.wikipedia.org/wiki/INFINITI "wikilink")の車種、[Q](https://ja.wikipedia.org/wiki/インフィニティ・Q "wikilink")
   - [1980年代](../Page/1980年代.md "wikilink")中ごろに[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")が発行していた関西圏向け情報誌『Q』。後に[ぴあ](../Page/ぴあ.md "wikilink")との提携で『ぴあQ』を経て『ぴあ関西版』となる。

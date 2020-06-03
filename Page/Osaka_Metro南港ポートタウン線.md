@@ -1,13 +1,15 @@
 > この記事は[Osaka Metro南港ポートタウン線](https://ja.wikipedia.org/wiki/Osaka_Metro南港ポートタウン線)から翻訳されています。
 
 
-**南港ポートタウン線**（なんこうポートタウンせん）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")の[コスモスクエア駅](https://ja.wikipedia.org/wiki/コスモスクエア駅 "wikilink")から[住之江公園駅](https://ja.wikipedia.org/wiki/住之江公園駅 "wikilink")を結ぶ[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") (Osaka Metro) の[自動案内軌条式旅客輸送システム](https://ja.wikipedia.org/wiki/自動案内軌条式旅客輸送システム "wikilink") (AGT) 路線。愛称は**ニュートラム**。[駅番号を表す際に用いられる路線記号は](../Page/駅ナンバリング.md "wikilink")「**P**」\[1\]。[ラインカラーは海と空を模した水色](https://ja.wikipedia.org/wiki/日本の鉄道ラインカラー一覧 "wikilink")（セルリアンブルー [Osaka_Metro_Nanko_Port_Town_line_symbol.svg](https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nanko_Port_Town_line_symbol.svg "fig:Osaka_Metro_Nanko_Port_Town_line_symbol.svg")）である。
+**南港ポートタウン線**（なんこうポートタウンせん）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")の[コスモスクエア駅](https://ja.wikipedia.org/wiki/コスモスクエア駅 "wikilink")から[住之江公園駅](https://ja.wikipedia.org/wiki/住之江公園駅 "wikilink")を結ぶ[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") (Osaka Metro) の[自動案内軌条式旅客輸送システム](https://ja.wikipedia.org/wiki/自動案内軌条式旅客輸送システム "wikilink") (AGT) 路線。愛称は**ニュートラム**。[駅番号を表す際に用いられる路線記号は](../Page/駅ナンバリング.md "wikilink")「**P**」\[1\]。[ラインカラーは海と空を模した](https://ja.wikipedia.org/wiki/日本の鉄道ラインカラー一覧 "wikilink")[水色](../Page/水色.md "wikilink")（[セルリアンブルー](https://ja.wikipedia.org/wiki/セルリアンブルー "wikilink") [Osaka_Metro_Nanko_Port_Town_line_symbol.svg](https://ja.wikipedia.org/wiki/File:Osaka_Metro_Nanko_Port_Town_line_symbol.svg "fig:Osaka_Metro_Nanko_Port_Town_line_symbol.svg")）である。
 
 ## 概要
 
 [大阪南港](../Page/大阪港.md "wikilink")・[咲洲](../Page/咲洲.md "wikilink")に造られた住宅団地[南港ポートタウン](https://ja.wikipedia.org/wiki/南港ポートタウン "wikilink")やフェリーターミナルへの交通手段として1981年に住之江公園駅 - 中ふ頭駅間が開業した。[神戸新交通ポートアイランド線](../Page/神戸新交通ポートアイランド線.md "wikilink")（ポートライナー）に次ぐ日本で2番目の本格的なAGTの路線で、[公営交通](../Page/公営交通.md "wikilink")（[地方公営企業](../Page/地方公営企業.md "wikilink")である交通局）のAGT路線としては初であり、2008年に[東京都交通局](../Page/東京都交通局.md "wikilink")の[日暮里・舎人ライナーが開業するまでは公営交通による唯一のAGT路線であった](https://ja.wikipedia.org/wiki/東京都交通局日暮里・舎人ライナー "wikilink")。
 
-すべての駅が開業時から[ホームドア](../Page/ホームドア.md "wikilink")設置の[島式ホーム](https://ja.wikipedia.org/wiki/島式ホーム "wikilink")1面2線（停車時は終点駅以外は進行方向から向かって右側の扉が開く）となっている。両端駅は[Osaka Metroの地下鉄路線と改札内で乗り換えすることができ](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")、運賃も地下鉄と一体計算されるため、実質Osaka Metroの1路線のような扱いとなっている（運賃額は「[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink")」を参照）。
+当路線は地下鉄と同じくOsaka Metroが直接運営しているAGT路線 である。[運賃](../Page/運賃.md "wikilink")体系も地下鉄路線と一体化されており、両端駅はOsaka Metroの地下鉄路線と改札内で乗り換えすることができる（運賃額は「[大阪市高速電気軌道\#運賃](https://ja.wikipedia.org/wiki/大阪市高速電気軌道#運賃 "wikilink")」を参照）。
+
+すべての駅が開業時から[ホームドア](../Page/ホームドア.md "wikilink")設置の[島式ホーム](https://ja.wikipedia.org/wiki/島式ホーム "wikilink")1面2線（停車時は終点駅以外は進行方向から向かって右側の扉が開く）となっている。
 
 駅構内案内表示板における案内表記は、開業当時から「ニュートラム」で統一されていたが、近年更新された案内表示では「南港ポートタウン線」へと変更されている。地下鉄では長らく「ニュートラムはお乗り換えです」と案内していたが、2014年3月頃から「ニュートラム南港ポートタウン線はお乗り換えです」と放送が変更されている\[2\]。
 

@@ -47,7 +47,7 @@
         作詞:[三井拓](../Page/森浩美.md "wikilink") / 作曲・編曲:谷本新 / 編曲：佐々木章
     <!-- end list -->
       - 11thアルバム収録曲
-6.  **[それじゃまた](https://ja.wikipedia.org/wiki/SMAP_008_TACOMAX "wikilink")**
+6.  **[それじゃまた](../Page/SMAP_008_TACOMAX.md "wikilink")**
       -
         作詞:小倉めぐみ / 作曲・編曲:岩田雅之
     <!-- end list -->
@@ -102,7 +102,7 @@
       - 2ndアルバム「SMAP 002」収録曲の新録バージョン
 15. **[さよならの恋人](https://ja.wikipedia.org/wiki/SMAP_001 "wikilink")**（2001 version）- [草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・香取慎吾
       -
-        作詞:真名杏樹 / 作曲:[ジョーイ・カーボーン](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink") / 編曲:椎名和夫
+        作詞:真名杏樹 / 作曲:[ジョーイ・カーボーン](../Page/ジョーイ・カーボーン.md "wikilink") / 編曲:椎名和夫
     <!-- end list -->
       - 1stアルバム「SMAP 001」収録曲の新録バージョン
 16. **[Don't Cry Baby](https://ja.wikipedia.org/wiki/SMAP_001 "wikilink")**

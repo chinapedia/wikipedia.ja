@@ -83,7 +83,7 @@ AGM-45は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink"
 
 [thumb所蔵](https://ja.wikipedia.org/wiki/ファイル:Kachlilit-hatzerim-2.jpg "wikilink")\]\]  **キルション** (Kilshon、ヘブライ語で[三叉槍](../Page/三叉槍.md "wikilink")（Trident）の意味）または**Kachlilit**
 
-地上から[対レーダーミサイル](../Page/対レーダーミサイル.md "wikilink")を発射することによって[SAM制圧](../Page/地対空ミサイル.md "wikilink")[航空機](../Page/航空機.md "wikilink")が被る損失を減らすために[イスラエル空軍](https://ja.wikipedia.org/wiki/イスラエル航空宇宙軍 "wikilink") (IDFAF)によって開発された。回転[砲塔](../Page/砲塔.md "wikilink")を取り外した[スーパーシャーマン](https://ja.wikipedia.org/wiki/スーパーシャーマン "wikilink")の車体にAGM-45 の[ランチャー](../Page/ランチャー.md "wikilink")を搭載したもので、地上からの飛翔および射程延伸のために、ブースターを追加して特別な改修を施されたAGM-45が使用された。
+地上から[対レーダーミサイル](../Page/対レーダーミサイル.md "wikilink")を発射することによって[SAM制圧](../Page/地対空ミサイル.md "wikilink")[航空機](../Page/航空機.md "wikilink")が被る損失を減らすために[イスラエル空軍](https://ja.wikipedia.org/wiki/イスラエル航空宇宙軍 "wikilink") (IDFAF)によって開発された。回転[砲塔](../Page/砲塔.md "wikilink")を取り外した[スーパーシャーマン](../Page/スーパーシャーマン.md "wikilink")の車体にAGM-45 の[ランチャー](../Page/ランチャー.md "wikilink")を搭載したもので、地上からの飛翔および射程延伸のために、ブースターを追加して特別な改修を施されたAGM-45が使用された。
 
 また、[AGM-78 スタンダードARMを同様に地上発射する車両も開発され](../Page/AGM-78_\(ミサイル\).md "wikilink")、[ケーレスと呼ばれた](https://ja.wikipedia.org/wiki/ケーレス_\(ミサイル\) "wikilink")。ケーレスの車台はスーパーシャーマンではなく[M809 5tトラックに変更されていた](https://ja.wikipedia.org/wiki/M809_5tトラック "wikilink")。 {{-}}
 

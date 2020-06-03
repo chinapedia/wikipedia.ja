@@ -45,7 +45,7 @@ JavaOSは[組み込みシステム](../Page/組み込みシステム.md "wikilin
 ## 関連項目
 
   - [Java](https://ja.wikipedia.org/wiki/Java "wikilink")
-  - [JNode](https://ja.wikipedia.org/wiki/JNode "wikilink") ほとんどJavaで書かれ、Javaプログラムをネイティブのように走らせるOSを開発している、アクティブなプロジェクト。
+  - [JNode](../Page/JNode.md "wikilink") ほとんどJavaで書かれ、Javaプログラムをネイティブのように走らせるOSを開発している、アクティブなプロジェクト。
   - [Inferno](https://ja.wikipedia.org/wiki/Inferno_\(オペレーティングシステム\) "wikilink")
 
 ## 外部リンク

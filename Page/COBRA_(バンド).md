@@ -5,11 +5,19 @@
 
 ## 来歴
 
-[1982年](../Page/1982年.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")にて中学校同級生の[YOSU-KO](https://ja.wikipedia.org/wiki/YOSU-KO "wikilink")（ボーカル）と[NAOKI](../Page/宮本直樹.md "wikilink")（ギター）らで結成。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")よりメジャーデビューしたが同年に活動を停止。
+[1982年](../Page/1982年.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")にて中学校同級生の[YOSU-KO](https://ja.wikipedia.org/wiki/YOSU-KO "wikilink")（ボーカル）と[NAOKI](../Page/宮本直樹.md "wikilink")（ギター）MI-CHANG（ドラム）らで結成。
+
+1984年、現[GARLIC BOYSのLARRY](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink")（ギター）で加入。同時にNAOKIが[LAUGHIN' NOSEに移籍](../Page/LAUGHIN'_NOSE.md "wikilink")。
+
+1985年、AAレコードよりアルバム「**[STAND THE PRESSURE](https://ja.wikipedia.org/wiki/STAND_THE_PRESSURE "wikilink")**」をリリース。初回のみソノシート付き。
+
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")よりメジャーデビューしたが同年に活動を停止。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に新メンバーを迎え[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャー再デビューを果たしたが、[1991年](../Page/1991年.md "wikilink")に解散。
 
-[1999年](../Page/1999年.md "wikilink")に再結成、[東芝EMIで活動するも](../Page/EMIミュージック・ジャパン.md "wikilink")[2005年](../Page/2005年.md "wikilink")に再び活動休止。[2007年](../Page/2007年.md "wikilink")に復活するも、YOSU-KOの体調不良により[2012年](../Page/2012年.md "wikilink")末を以て再度の活動停止。
+1991年、ハウスユニット、KAMIKAZE名義で初ライブ。[COW COWに名称変更し活動](https://ja.wikipedia.org/wiki/COW_COW_\(バンド\) "wikilink")。
+
+[1999年](../Page/1999年.md "wikilink")にCOBRA再結成、[東芝EMIで活動するも](../Page/EMIミュージック・ジャパン.md "wikilink")[2005年](../Page/2005年.md "wikilink")に再び活動休止。[2007年](../Page/2007年.md "wikilink")に復活するも、YOSU-KOの体調不良により[2012年](../Page/2012年.md "wikilink")末を以て再度の活動停止。
 
 [2015年](../Page/2015年.md "wikilink")に元メンバーであるPON（現[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")）を迎え、活動を一時的に再開したが、数度のライブを行った後、[2016年](../Page/2016年.md "wikilink")再び活動を停止。
 

@@ -25,7 +25,7 @@ YAMATOのクレジット欄は「球技はボクを裏切らない。VOX」、NA
         同年7月に発売された[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[ORANGE RANGE](../Page/ORANGE_RANGE_\(2007年のアルバム\).md "wikilink")』には収録されず、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月に発売された[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『[PANIC FANCY](../Page/PANIC_FANCY.md "wikilink")』に収録された。
 2.  **SJK06** \[3:55\]
       -
-        『[LIVE FANTAZICAL](https://ja.wikipedia.org/wiki/ORANGE_RANGE_LIVE_TOUR_006〜FANTAZICAL〜 "wikilink")』で、アレンジして[セッション](../Page/セッション.md "wikilink")で演奏された、インディーズ時代のアルバム『[オレンジボール](../Page/オレンジボール.md "wikilink")』収録の「奏重鼓」のセッションバーション。元曲と比べて、歌詞やメロディはほとんど別物であるが、セッションアレンジなので最後の部分は元の歌詞に沿っていた。収録された理由は「記念に」。
+        『[LIVE FANTAZICAL](../Page/ORANGE_RANGE_LIVE_TOUR_006〜FANTAZICAL〜.md "wikilink")』で、アレンジして[セッション](../Page/セッション.md "wikilink")で演奏された、インディーズ時代のアルバム『[オレンジボール](../Page/オレンジボール.md "wikilink")』収録の「奏重鼓」のセッションバーション。元曲と比べて、歌詞やメロディはほとんど別物であるが、セッションアレンジなので最後の部分は元の歌詞に沿っていた。収録された理由は「記念に」。
         最初は「SJK 07」と発表されたが、[2006年](../Page/2006年.md "wikilink")にアレンジされたものなので、後に「SJK 06」に曲名が変更された。
 3.  **DANCE2 (DJ KAGAMI Remix)** \[4:18\]
       -

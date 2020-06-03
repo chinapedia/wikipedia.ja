@@ -10,9 +10,9 @@
 塩化チタン(II) の合成法として代表的なものは、熱による塩化チタン(III) の[不均化](../Page/不均化.md "wikilink")反応である。副生する塩化チタン(IV) が揮発し、塩化チタン(II) が残る。
 
   -
-    <ce>2TiCl3\\ + \\mathit{heat}</ce>*(500℃)*<ce> -\> TiCl2\\ + TiCl4 \\uparrow</ce>
+    <chem>2TiCl3\\ + \\mathit{heat}</chem>*(500℃)*<chem> -\> TiCl2\\ + TiCl4 \\uparrow</chem>
 
-塩化チタン(IV) を熱した[石英ガラス](../Page/石英ガラス.md "wikilink")管中で[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")により還元して得る手法も知られる。
+塩化チタン(IV) を熱した[石英ガラス](../Page/石英ガラス.md "wikilink")管中で[水素](../Page/水素.md "wikilink")により還元して得る手法も知られる。
 
 ## 結晶構造
 
@@ -25,21 +25,21 @@
 [アルデヒド](../Page/アルデヒド.md "wikilink")または[ケトン](../Page/ケトン.md "wikilink")に塩化チタン(II) と亜鉛、または塩化チタン(IV) と亜鉛とを作用させると[ピナコールカップリング](https://ja.wikipedia.org/wiki/ピナコールカップリング "wikilink")が起こり、メソ体の 1,2-ジオールが選択的に得られる。この反応は[向山光昭](../Page/向山光昭.md "wikilink")らによって報告された\[4\]。
 
   -
-    <ce>2R-CHO\\ + TiCl2\\ + Zn -\> R-CH(OH)-CH(OH)-R</ce>
+    <chem>2R-CHO\\ + TiCl2\\ + Zn -\> R-CH(OH)-CH(OH)-R</chem>
 
 向山らはさらにこの C-C結合生成反応を、[タキソール骨格のシクロヘキセン環合成へと展開させた](../Page/パクリタキセル.md "wikilink")\[5\]。
 
 塩化チタン(II) と銅の組み合わせにより、α-ブロモケトンまたはチオエステルをアルデヒドと還元的に縮合させられる。この反応も高い立体選択性を示す\[6\]。
 
   -
-    <ce>R-CHO\\ + Br-CH(R')-C(=O)-R*\\ + TiCl2\\ + Cu -\> R-CH(OH)-CH(R')-C(=O)-R*</ce>
+    <chem>R-CHO\\ + Br-CH(R')-C(=O)-R*\\ + TiCl2\\ + Cu -\> R-CH(OH)-CH(R')-C(=O)-R*</chem>
 
 ### 還元反応
 
 [ニトロ化合物](../Page/ニトロ化合物.md "wikilink")に塩化チタン(II) を加えると、還元が起こり対応する[アミン](../Page/アミン.md "wikilink")が得られる\[7\]\[8\]。
 
   -
-    <ce>R-NO2\\ + TiCl2 -\> R-NH2</ce>
+    <chem>R-NO2\\ + TiCl2 -\> R-NH2</chem>
 
 ## 関連項目
 

@@ -510,7 +510,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kentucky.svg" title="wikilink">22px</a></p></td>
 <td><p><a href="../Page/タラ・コナー.md" title="wikilink">タラ・コナー</a></p></td>
 <td><p><a href="../Page/ケンタッキー州.md" title="wikilink">ケンタッキー州</a></p></td>
-<td><p>メリーランド州ボルチモア、<a href="https://ja.wikipedia.org/wiki/ファースト・マリナー・アリーナ" title="wikilink">ファースト・マリナー・アリーナ</a></p></td>
+<td><p>メリーランド州ボルチモア、<a href="../Page/ファースト・マリナー・アリーナ.md" title="wikilink">ファースト・マリナー・アリーナ</a></p></td>
 <td><p>5位</p></td>
 </tr>
 <tr class="odd">

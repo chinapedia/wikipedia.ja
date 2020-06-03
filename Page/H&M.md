@@ -35,7 +35,7 @@
 
 同年11月には2号店が[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[原宿](../Page/原宿.md "wikilink")・[明治通りに開店](../Page/明治通り_\(東京都\).md "wikilink")。この際には、[コム・デ・ギャルソン](../Page/コム・デ・ギャルソン.md "wikilink")とのコラボレーション商品も先行発売された\[9\]。さらに、2009年9月に[横浜市](../Page/横浜市.md "wikilink")[西区の](https://ja.wikipedia.org/wiki/西区_\(横浜市\) "wikilink")[ランドマークプラザに出店](../Page/横浜ランドマークタワー.md "wikilink")。この店舗では、日本では初となる[子供服](../Page/子供服.md "wikilink")を取り扱う\[10\]。2014年、[京都市](../Page/京都市.md "wikilink")に日本国内最多・最大フロア面積 (3,400 [m<sup>2</sup>](../Page/平方メートル.md "wikilink")) の大型店を出店\[11\]。2016年5月現在、29都道府県で57店舗を展開している。
 
-[首都圏以外の地域で初出店となった店舗は以下の通り](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。
+[首都圏以外の地域で初出店となった店舗は以下の通り](../Page/首都圏_\(日本\).md "wikilink")。
 
   - 2010年
       - [大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink") ラズ心斎橋・[戎橋](../Page/戎橋.md "wikilink")店（[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")）

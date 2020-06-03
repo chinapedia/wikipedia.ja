@@ -1,7 +1,7 @@
 > この記事は[ALARM \(安室奈美恵の曲\)](https://ja.wikipedia.org/wiki/ALARM_\(安室奈美恵の曲\))から翻訳されています。
 
 
-「**ALARM**」（アラーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では26枚目のシングル。
+「**ALARM**」（アラーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では26枚目のシングル。
 
 ## 解説
 

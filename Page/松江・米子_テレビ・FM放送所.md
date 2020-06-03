@@ -228,7 +228,7 @@ NHK鳥取およびNKTを除くデジタル全局とFM山陰の親局送信所な
 </table>
 
   - 全局が澄水山（しんじさん）に送信所を置いた。アナログUHF各局がここにあったことから決められた。
-  - NKTの親局は[鳥取県内にある](https://ja.wikipedia.org/wiki/毛無山_\(鳥取市\) "wikilink")。
+  - NKTの親局は[鳥取県内にある](../Page/毛無山_\(鳥取市\).md "wikilink")。
   - NHK鳥取教育テレビはデジタル新局。
   - [鳥取県](../Page/鳥取県.md "wikilink")および[島根県](../Page/島根県.md "wikilink")のリモコンキーIDについては、1・3は鳥取県のアナログテレビのパターンに従った。このため、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")とはリモコンキーID・チャンネル数とともに全く同一パターン。
 

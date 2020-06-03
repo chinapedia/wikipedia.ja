@@ -18,7 +18,7 @@
 ## 所属アーティスト
 
   - [WANDS](../Page/WANDS.md "wikilink")(1991年 - 1993年、2019年 - )
-  - [doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")
+  - [doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")
   - [dps](https://ja.wikipedia.org/wiki/dps_\(バンド\) "wikilink")
   - [白石乃梨](../Page/白石乃梨.md "wikilink")
   - [植田真梨恵](https://ja.wikipedia.org/wiki/植田真梨恵 "wikilink")

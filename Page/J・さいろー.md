@@ -1,27 +1,30 @@
 > この記事は[J・さいろー](https://ja.wikipedia.org/wiki/J・さいろー)から翻訳されています。
 
 
-**J・さいろー**（ジェイ・さいろー、[2月9日](../Page/2月9日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[小説家](../Page/小説家.md "wikilink")、[ゲームシナリオライター](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")。「豺狼出版」・「さいろー書店」名義での[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動もしている。
+**J・さいろー**（ジェイ・さいろー、[2月9日](../Page/2月9日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")、[小説家](../Page/小説家.md "wikilink")、[ゲームシナリオライター](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")。「豺狼出版」・「さいろー書店」名義での[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動もしている。
 
 ## 経歴
 
-  - 小学4年生の時に母親の購入した『[はてしない物語](../Page/はてしない物語.md "wikilink")』を読んだことが小説を描くきっかけになる。
+  - 小学4年生の時に母親が購入した『[はてしない物語](../Page/はてしない物語.md "wikilink")』を読んだことが小説を描くきっかけになる。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[株式会社ウルフ・チーム入社](../Page/ウルフチーム.md "wikilink")。ゲーム企画職に就く。
-  - [1991年](../Page/1991年.md "wikilink")、ウルフチームが株式会社日本テレネットに再合併。同年9月退社。その後有限会社アイオン立ち上げの発起人の一人となる。
+  - [1991年](../Page/1991年.md "wikilink")、ウルフチームが株式会社[日本テレネットに再合併](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")。同年9月退社。その後有限会社アイオン立ち上げの発起人の一人となる。
   - [1993年](../Page/1993年.md "wikilink")、有限会社アイオン退社。以降フリーとなり同人活動を始める。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、コアマガジン社『[漫画ばんがいち](https://ja.wikipedia.org/wiki/漫画ばんがいち "wikilink")』7月号に掲載された『徳川玄徳対エルフの小娘』で漫画家デビュー。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[コアマガジン](../Page/コアマガジン.md "wikilink")『[漫画ばんがいち](https://ja.wikipedia.org/wiki/漫画ばんがいち "wikilink")』7月号に掲載された『徳川玄徳対エルフの小娘』で漫画家デビュー。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、同人活動の確定申告を始めたため、著述・出版業の個人事業者になる。
-  - [1999年](../Page/1999年.md "wikilink")、フランス書院『斬\! -少女剣客千冬-』で小説家デビュー。
+  - [1999年](../Page/1999年.md "wikilink")、[フランス書院](../Page/フランス書院.md "wikilink")『斬\! -少女剣客千冬-』で小説家デビュー。
 
 ## 作風
 
-  - 思春期の少年少女の、性への興味から実際に行為を行うまでの流れの描写に定評がある\[2\]。
+  - 漫画家時代は、成人向け漫画でもギャグ漫画に近い作風だったが、小説家としては、思春期の少年少女の性への興味から実際に行為を行うまでの流れの描写に定評がある\[2\]。
   - 「[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")」・「[ローティーン](https://ja.wikipedia.org/wiki/ローティーン "wikilink")」といったテーマに「[エロス](https://ja.wikipedia.org/wiki/エロス "wikilink")」を織り交ぜた[ジュブナイルポルノ](../Page/ジュブナイルポルノ.md "wikilink")を執筆。
+  - [アダルトゲーム](../Page/アダルトゲーム.md "wikilink")のシナリオライターとしても活動しているが、ジュブナイルポルノでの作風と漫画家時代のギャグ系の作風が入り混じったものが多い。
+  - 一時期、2007年創刊の[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")で一般向け[ライトノベル](../Page/ライトノベル.md "wikilink")作家としても活動していた。
 
 ## エピソード
 
   - アダルトゲームのシナリオを執筆中にゲームの進行上必要な一枚画が足りずに思い悩み、原画担当へ負担をかけさせまいとして自分でコンテを描いて用意したことがある。
   - 『[ローデビル\!](../Page/ローデビル!.md "wikilink")』で担当した幼馴染キャラクターの、冒頭での清楚さから物語中盤以降の淫乱な精液中毒キャラクターへの変貌のギャップがネット上の口コミで評判を広げていき、後にソフト単体での通信販売が開始されるほどになった（元々は3本セットで販売されていたうちの1本）。それ以降アダルトゲームのシナリオを手がける機会が増えていった。
+  - 漫画家時代は同じく『漫画ばんがいち』で執筆していた[秋葉凪樹](../Page/秋葉凪人.md "wikilink")、[太田虎一郎](https://ja.wikipedia.org/wiki/太田虎一郎 "wikilink")と交流があった。その関係から、2001年と2007年にコアノベルズで作品を発表しているが、同レーベルはこの2作しか刊行しておらず、実質的に**J・さいろー専用レーベル**であった。
 
 ## 作品
 
@@ -43,7 +46,7 @@
       - [2001年](../Page/2001年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")発売、コアマガジン刊、ISBN 4-87734-474-8
   - **ノクターナルプレイグラウンド**
       - イラスト：[間垣亮太](https://ja.wikipedia.org/wiki/間垣亮太 "wikilink")
-      - [2004年](../Page/2004年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")発売、[司書房](https://ja.wikipedia.org/wiki/司書房 "wikilink")刊、ISBN 4-8128-1132-5
+      - [2004年](../Page/2004年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")発売、[司書房](../Page/司書房.md "wikilink")刊、ISBN 4-8128-1132-5
   - **クラスメイト** コアノベルズ002
       - イラスト：[さそりがため](https://ja.wikipedia.org/wiki/さそりがため "wikilink")
       - [2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")発売、コアマガジン刊、ISBN 4-86252-097-9

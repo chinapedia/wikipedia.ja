@@ -15,7 +15,7 @@ c/wには、これまでのCHEMISTRYの楽曲を10分間に収めたメドレー
 
 1.  **Top of the World**
       -
-        （作詞：[小山内舞](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") 作曲：[JIN NAKAMURA](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")）
+        （作詞：[小山内舞](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") 作曲：[JIN NAKAMURA](../Page/Jin_Nakamura.md "wikilink")）
         [FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink") 2006年大会テーマソング
 2.  **10 Minutes of CHEMISTRY**
 3.  Top of the World「Less Vocal」

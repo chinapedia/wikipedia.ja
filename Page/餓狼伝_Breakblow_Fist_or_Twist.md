@@ -1,7 +1,9 @@
 > この記事は[餓狼伝 Breakblow Fist or Twist](https://ja.wikipedia.org/wiki/餓狼伝_Breakblow_Fist_or_Twist)から翻訳されています。
 
 
-『**餓狼伝 Breakblow Fist or Twist**（がろうでん ブレイクブロウ フィストオアツイスト）』は、[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売のPlayStation 2用ゲームソフト。『[餓狼伝 Breakblow](https://ja.wikipedia.org/wiki/餓狼伝_Breakblow "wikilink")』の第2弾であり、漫画に登場しなかった原作キャラクター梅川丈次や、力王山・工藤健介などの新キャラクターが追加されている。
+『**餓狼伝 Breakblow Fist or Twist**』（がろうでん ブレイクブロウ フィストオアツイスト）は、[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売したPlayStation 2用ゲームソフト。[夢枕獏](../Page/夢枕獏.md "wikilink")の小説および、[板垣恵介](../Page/板垣恵介.md "wikilink")作画の漫画『[餓狼伝](../Page/餓狼伝.md "wikilink")』を題材としている。
+
+『[餓狼伝 Breakblow](https://ja.wikipedia.org/wiki/餓狼伝_Breakblow "wikilink")』の続編であり、漫画に登場しなかった原作キャラクター梅川丈次や、力王山・工藤健介などの新キャラクターが追加されている。
 
 ## キャスト
 
@@ -23,11 +25,5 @@
   - 神山徹 / [範馬勇次郎](../Page/範馬勇次郎.md "wikilink") - [堀秀行](../Page/堀秀行.md "wikilink")
   - 立脇如水 / 南米のゴロツキ - [松本考平](../Page/松本考平.md "wikilink")
   - 鞍馬彦一 / 安原健次 / 井野康生 - [吉水孝宏](../Page/吉水孝宏.md "wikilink")
-
-## 関連項目
-
-  - [餓狼伝](../Page/餓狼伝.md "wikilink")
-  - [夢枕獏](../Page/夢枕獏.md "wikilink")（原作者）
-  - [板垣恵介](../Page/板垣恵介.md "wikilink")（作画）
 
 [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:対戦型格闘ゲーム "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink")

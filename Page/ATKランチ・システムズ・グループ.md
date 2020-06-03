@@ -41,7 +41,7 @@
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - スキーリフト事業をCTECに、雪装置事業をローガン・マニュファクチャリング社（Logan Manufacturing, LMC）に売却する。ジョン・デロリアンがオーナーとなる。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink") - [オハイオ州](../Page/オハイオ州.md "wikilink")[シンシナティ](../Page/シンシナティ.md "wikilink")のカーライル・ケミカル社を買収。
   - [1982年](../Page/1982年.md "wikilink") - サイオコールは、モートン-ノリッジ・プロダクツ（モートン・サルト事業、Simoniz自動車製品ブランド、及び様々な化学事業を保有）と合併し、モートン・サイオコール社（Morton Thiokol Incorporated, MTI）となる。
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - MTI社製SRBのOリング欠陥により、[チャレンジャー号爆発事故](https://ja.wikipedia.org/wiki/チャレンジャー号爆発事故 "wikilink")を引き起こす。
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") - MTI社製SRBのOリング欠陥により、[チャレンジャー号爆発事故](../Page/チャレンジャー号爆発事故.md "wikilink")を引き起こす。
   - [1989年](../Page/1989年.md "wikilink") - モートン・サイオコールは、大部分の化学事業をモートンに分割し、推進システム事業はサイオコール社（Thiokol Inc.）になる。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 社名をコーダント・テクノロジー（Cordant Technologies）に変更。
   - [2000年](../Page/2000年.md "wikilink") - [アルコア](../Page/アルコア.md "wikilink")の2つの部門、ホーメット・キャスティングス（Howmet Castings）とハック・ファステネーズ（Huck Fasteners）と合併し、AICグループ（Alcoa Industrial Components）となる。

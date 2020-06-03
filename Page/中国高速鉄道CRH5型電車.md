@@ -11,7 +11,7 @@
 
 [2006年](../Page/2006年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")にイタリアから[長春](https://ja.wikipedia.org/wiki/長春 "wikilink")へ船便で発送され、[2007年](../Page/2007年.md "wikilink")1月に到着した。中国生産車両については2007年4月に鉄道部に納入され、営業運転で使用されている。
 
-[2014年](../Page/2014年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[CRHシリーズの車両番号表記が変更され](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")、元の番号（CRH5-xxxA）が（CRH5A-5xxx）に変更されたのと同時に、CRH5Aのうち耐寒設備を備えた編成は**CRH5G**、乾燥地帯向けの編成は**CRH5H**と形式が改められている\[1\]。
+[2014年](../Page/2014年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に[CRHシリーズの車両番号表記が変更され](../Page/中国鉄路高速.md "wikilink")、元の番号（CRH5-xxxA）が（CRH5A-5xxx）に変更されたのと同時に、CRH5Aのうち耐寒設備を備えた編成は**CRH5G**、乾燥地帯向けの編成は**CRH5H**と形式が改められている\[1\]。
 
 [2016年](../Page/2016年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")には、中国初の寒冷・乾燥地域への対策を施した寝台高速列車**CRH5E**が完成し、中国鉄道公社試験を通じて量産資格を取得した\[2\]。
 
@@ -176,8 +176,8 @@ ZE 5xxx00</p></td>
 
 ## 関連項目
 
-  - [中華人民共和国の高速鉄道](https://ja.wikipedia.org/wiki/中華人民共和国の高速鉄道 "wikilink")
-  - [中国鉄路高速](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")
+  - [中華人民共和国の高速鉄道](../Page/中華人民共和国の高速鉄道.md "wikilink")
+  - [中国鉄路高速](../Page/中国鉄路高速.md "wikilink")
   - [和諧号](../Page/和諧号.md "wikilink")
   - [中国高速鉄道CRH1型電車](../Page/中国高速鉄道CRH1型電車.md "wikilink")（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")との技術提携車両）
   - [中国高速鉄道CRH2型電車](../Page/中国高速鉄道CRH2型電車.md "wikilink")（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[新幹線](../Page/新幹線.md "wikilink")[E2系に準じた高速鉄道車両](../Page/新幹線E2系電車.md "wikilink")）

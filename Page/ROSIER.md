@@ -9,8 +9,6 @@
 
 [プロモーション・ビデオは](../Page/ミュージック・ビデオ.md "wikilink")1994年[第36回日本レコード大賞](https://ja.wikipedia.org/wiki/第36回日本レコード大賞 "wikilink")最優秀プロモーションビデオ賞に選ばれた。
 
-アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## 収録曲
 
 全作詞・作曲・編曲: [LUNA SEA](../Page/LUNA_SEA.md "wikilink")
@@ -24,7 +22,7 @@
 
 ## カバー
 
-  - [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")（[2007年](../Page/2007年.md "wikilink")、[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[LUNA SEA MEMORIAL COVER ALBUM -Re:birth-](../Page/LUNA_SEA_MEMORIAL_COVER_ALBUM_-Re:birth-.md "wikilink")』の5曲目/[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、4thアルバム『[ROCK PIT](../Page/ROCK_PIT.md "wikilink")』の11曲目にそれぞれ収録）。
+  - [HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")（[2007年](../Page/2007年.md "wikilink")、[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[LUNA SEA MEMORIAL COVER ALBUM -Re:birth-](../Page/LUNA_SEA_MEMORIAL_COVER_ALBUM_-Re:birth-.md "wikilink")』の5曲目/[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、4thアルバム『[ROCK PIT](../Page/ROCK_PIT.md "wikilink")』の11曲目にそれぞれ収録）。
   - [defspiral](https://ja.wikipedia.org/wiki/defspiral "wikilink")（[2012年](../Page/2012年.md "wikilink")、[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『CRUSH\!3 -90's V-Rock best hit cover LOVE songs-』に収録）
   - [華原朋美](../Page/華原朋美.md "wikilink")（[2014年](../Page/2014年.md "wikilink")、『[喰女-クイメ-](https://ja.wikipedia.org/wiki/喰女-クイメ- "wikilink")』イメージソング\[2\]。[カバー・アルバム](https://ja.wikipedia.org/wiki/カバー・アルバム "wikilink")『[MEMORIES 2 -Kahara All Time Covers-](https://ja.wikipedia.org/wiki/MEMORIES_2_-Kahara_All_Time_Covers- "wikilink")』に収録）
   - [SHOW-YA](../Page/SHOW-YA.md "wikilink")（2014年、カバー・アルバム『Glamorous Show～Japanese Legendary Rock Cover Album～』に収録）\[3\]

@@ -23,4 +23,4 @@
   - [MathWorld ホームページ](http://mathworld.wolfram.com/)
 
   -
-[Category:数学のウェブサイト](https://ja.wikipedia.org/wiki/Category:数学のウェブサイト "wikilink") [Category:オンライン百科事典](https://ja.wikipedia.org/wiki/Category:オンライン百科事典 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink") [Category:ウェブ上の数学辞典類](https://ja.wikipedia.org/wiki/Category:ウェブ上の数学辞典類 "wikilink")
+[Category:数学のウェブサイト](https://ja.wikipedia.org/wiki/Category:数学のウェブサイト "wikilink") [Category:オンライン百科事典](https://ja.wikipedia.org/wiki/Category:オンライン百科事典 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink") [Category:ウェブ上の数学辞典類](https://ja.wikipedia.org/wiki/Category:ウェブ上の数学辞典類 "wikilink") [Category:1995年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1995年開設のウェブサイト "wikilink")

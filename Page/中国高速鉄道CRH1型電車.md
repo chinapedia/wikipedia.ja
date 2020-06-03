@@ -413,8 +413,8 @@ ZET 1xxx00</p></td>
 ## 関連項目
 
   - [2011年温州市鉄道衝突脱線事故](https://ja.wikipedia.org/wiki/2011年温州市鉄道衝突脱線事故 "wikilink")
-  - [中華人民共和国の高速鉄道](https://ja.wikipedia.org/wiki/中華人民共和国の高速鉄道 "wikilink")
-  - [中国鉄路高速](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")
+  - [中華人民共和国の高速鉄道](../Page/中華人民共和国の高速鉄道.md "wikilink")
+  - [中国鉄路高速](../Page/中国鉄路高速.md "wikilink")
   - [和諧号](../Page/和諧号.md "wikilink")
   - [中国高速鉄道CRH2型電車](../Page/中国高速鉄道CRH2型電車.md "wikilink")（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[新幹線](../Page/新幹線.md "wikilink")[E2系に準じた高速鉄道車両](../Page/新幹線E2系電車.md "wikilink")）
   - [中国高速鉄道CRH3型電車](../Page/中国高速鉄道CRH3型電車.md "wikilink")（[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ICE](../Page/ICE.md "wikilink")3に準じた高速鉄道車両）

@@ -1,11 +1,11 @@
 > この記事は[MEN\'S KNUCKLE](https://ja.wikipedia.org/wiki/MEN\'S_KNUCKLE)から翻訳されています。
 
 
-『**MEN'S KNUCKLE**』（メンズナックル）は[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")より発行されている[お兄系](../Page/お兄系.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』の増刊として創刊された。通称「メンナク」。毎月24日発売の月刊誌。[表紙](https://ja.wikipedia.org/wiki/表紙 "wikilink")に記されている[サブタイトル](../Page/サブタイトル.md "wikilink")は「New Outlaw Fasion & Lifestyle Magazine」。創刊編集長は[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")。
+『**MEN'S KNUCKLE**』（メンズナックル）は[ミリオン出版](../Page/ミリオン出版.md "wikilink")より発行されている[お兄系](../Page/お兄系.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。『[men's egg](https://ja.wikipedia.org/wiki/men's_egg "wikilink")』の増刊として創刊された。通称「メンナク」。毎月24日発売の月刊誌。[表紙](https://ja.wikipedia.org/wiki/表紙 "wikilink")に記されている[サブタイトル](../Page/サブタイトル.md "wikilink")は「New Outlaw Fasion & Lifestyle Magazine」。創刊編集長は[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")の[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")・編集長が『MEN'S KNUCKLE』の前身『G-STYLE（ジー スタイル、GIGOLO-style）』を立ち上げる。『G-STYLE』は[ファッションモデル](../Page/ファッションモデル.md "wikilink")全員を[歌舞伎町](../Page/歌舞伎町.md "wikilink")の[ホストから起用するという業界初の試みを行なった雑誌だった](../Page/ホストクラブ.md "wikilink")。
+[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[ミリオン出版](../Page/ミリオン出版.md "wikilink")の[倉科典仁](https://ja.wikipedia.org/wiki/倉科典仁 "wikilink")・編集長が『MEN'S KNUCKLE』の前身『G-STYLE（ジー スタイル、GIGOLO-style）』を立ち上げる。『G-STYLE』は[ファッションモデル](../Page/ファッションモデル.md "wikilink")全員を[歌舞伎町](../Page/歌舞伎町.md "wikilink")の[ホストから起用するという業界初の試みを行なった雑誌だった](../Page/ホストクラブ.md "wikilink")。
 
 この試みは書籍『カリスマホストたちの「帝王学」』、そしてホストを主役にした[写真集](../Page/写真集.md "wikilink")『アジアンジゴロ』　の発売を通してホストに関心を持った倉科編集長のアイディアだった。
 

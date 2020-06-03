@@ -1,7 +1,7 @@
 > この記事は[COUNTDOWN CONNECTIONS](https://ja.wikipedia.org/wiki/COUNTDOWN_CONNECTIONS)から翻訳されています。
 
 
-**COUNTDOWN CONNECTIONS**（カウントダウン コネクションズ）は、[首都圏のラジオ局](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")・[FM-FUJIで](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")に[生放送](../Page/生放送.md "wikilink")されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。
+**COUNTDOWN CONNECTIONS**（カウントダウン コネクションズ）は、[首都圏のラジオ局](../Page/首都圏_\(日本\).md "wikilink")・[FM-FUJIで](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで毎週[土曜日](../Page/土曜日.md "wikilink")に[生放送](../Page/生放送.md "wikilink")されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。
 
 ## 概要
 

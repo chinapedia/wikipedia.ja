@@ -7,7 +7,7 @@
 
 キャラクター名義のアルバム『départ chisato×nana』が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売されているが、本人名義では住吉中をプロデューサーに迎えた本作がデビュー作となる。この時はまだ[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")プロデュースではなかったこともあり、後のアルバムと比較するとバラードが多いなど作風が若干異なっている。また、ここでは歌手水樹の特長として挙げられることの多い[ヴィブラートがあまり用いられていないのも特徴的である](../Page/ビブラート.md "wikilink")。後にしばらくの間プロデューサーとなる[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")が\#7「TRANSMIGRATION」で参加している。この曲は後のベストアルバム「[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")」にも再録して収録された。
 
-ちなみにsupersonic girlの由来は、イギリスのロックバンドである[オアシスが](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")[1994年に発表したデビューシングルから](https://ja.wikipedia.org/wiki/スーパーソニック "wikilink")。
+ちなみにsupersonic girlの由来は、イギリスのロックバンドである[オアシスが](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")[1994年に発表したデビューシングルから](../Page/スーパーソニック.md "wikilink")。
 
 ## 収録曲
 

@@ -9,7 +9,9 @@
 
 ## メンバー
 
-☆印は1993年の解散時のメンバー。名前の後ろはコードネーム。なお、オリジナルアルバム『BLIND SPOT』以降は本名を名乗るようになる。
+☆印は1993年の解散時のメンバー。
+
+名前の後ろはコードネームで、MickeyとHiro以外はすべてセガの[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")に由来している。なお、オリジナルアルバム『BLIND SPOT』以降は本名を名乗るようになる。
 
 ### 現メンバー
 
@@ -24,7 +26,7 @@
   - [宮内博史](../Page/川口博史.md "wikilink") - Hiro（キーボード）
   - [小森伸吾](https://ja.wikipedia.org/wiki/小森伸吾 "wikilink") - [Burner](../Page/アフターバーナー_\(ゲーム\).md "wikilink")（ベース）
   - [田辺健彦](https://ja.wikipedia.org/wiki/田辺健彦 "wikilink") - [Thunder](https://ja.wikipedia.org/wiki/サンダーブレード "wikilink")（ドラム）
-  - 塚原啓介 - [獣王](https://ja.wikipedia.org/wiki/獣王記 "wikilink")（キーボード）
+  - 塚原啓介 - [獣王](../Page/獣王記.md "wikilink")（キーボード）
       -
         1989年11月の[MZA有明公演のみ参加](https://ja.wikipedia.org/wiki/ディファ有明#MZA有明 "wikilink")
   - ☆[光吉猛修](../Page/光吉猛修.md "wikilink") - [R三郎丸](../Page/Sega_R-360.md "wikilink")（キーボード）
@@ -113,7 +115,7 @@ PlotData=
 
 ### S.S.T.BAND
 
-[1988年](../Page/1988年.md "wikilink")発売のアルバム『GALAXY FORCE -G.S.M.SEGA 1-』にてデビュー。ただしこの時は松前と並木の2人のみ\[2\]で、その2人も名は前面に出していなかった。翌[1989年](../Page/1989年.md "wikilink")、セガがイベント「[メガドライブ](../Page/メガドライブ.md "wikilink") スパークリング1989」を開催、そのステージでバンドとしてデビューを果たす。松前は飯島・小森・田辺をバンドに誘い、それにセガ社員のHiroと並木が加わる編成となった\[3\]。
+[1988年](../Page/1988年.md "wikilink")7月発売のアルバム『GALAXY FORCE -G.S.M.SEGA 1-』にてデビュー。ただしこの時は松前と並木の2人のみ\[2\]で、その2人も名は前面に出していなかった。翌[1989年](../Page/1989年.md "wikilink")2月、セガがイベント「[メガドライブ](../Page/メガドライブ.md "wikilink") スパークリング1989」を[東京・名古屋・大阪で開催](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")、そのステージでバンドとしてデビューを果たす。松前は飯島・小森・田辺をバンドに誘い（イベントのパンフレットには松前含むこの4名のコードネームしか書かれていない）、それにセガ社員のHiroと並木が加わる編成となった\[3\]。同年11月の[MZA有明公演においては](https://ja.wikipedia.org/wiki/ディファ有明#MZA有明 "wikilink")、7人目のメンバーとして塚原がステージに立ったが、この公演のみの加入となった。
 
 その後もライブ活動を重ねるが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に本来[プログラマ](../Page/プログラマ.md "wikilink")であった小森が多忙のため脱退\[4\]。後任に斉藤が加入し、アルバム『HYPER DRIVE -G.S.M.SEGA 4-』にてデビュー。バンドは同年開催の[ゲームミュージックフェスティバル](../Page/ゲームミュージックフェスティバル.md "wikilink")'90で、[ZUNTATA](../Page/ZUNTATA.md "wikilink")とともにステージを踏んだ。
 
@@ -125,7 +127,7 @@ PlotData=
 
 ### Blind Spot
 
-[2011年](../Page/2011年.md "wikilink")、並木の呼びかけで、光吉を除く解散時オリジナルメンバーに加え、キーボードの[森藤晶司](https://ja.wikipedia.org/wiki/森藤晶司 "wikilink")（コードネーム「Rally」）を新たに迎えた“ほぼS.S.T.BAND”こと「**Blind Spot**」として再結成。同年[8月27日](../Page/8月27日.md "wikilink")にライブを行った（飛び入りゲストで田辺も参加）。
+[2011年](../Page/2011年.md "wikilink")、並木の呼びかけで、光吉を除く解散時オリジナルメンバーに加え、キーボードの[森藤晶司](https://ja.wikipedia.org/wiki/森藤晶司 "wikilink")（コードネーム「Rally」）を新たに迎えた“ほぼS.S.T.BAND”こと「**Blind Spot**」として18年ぶりに再結成。同年[8月27日](../Page/8月27日.md "wikilink")にライブを行った（飛び入りゲストで田辺も参加）。
 
 以降も活動を続けており、[2013年](../Page/2013年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")には21年ぶりとなる新譜もリリースした。
 
@@ -133,7 +135,7 @@ PlotData=
 
 [2017年](../Page/2017年.md "wikilink")4月29日の東京公演をもって、松前がライブへの参加を終了（脱退はしていない）\[9\]。
 
-[2018年](../Page/2018年.md "wikilink")2月12 - 17日、S.S.T.BANDから数えて30周年を記念した[東名阪](https://ja.wikipedia.org/wiki/東名阪 "wikilink")ツアー「Sanju Shunen Tour」を開催。大阪および名古屋公演では松前がゲスト出演、東京公演では初代ベースの小森、初代ドラムの田辺、2013年に脱退した飯島がゲスト出演した。また同年12月には、30周年を記念した[CD\&DVD-BOX](../Page/ボックス・セット.md "wikilink")『S.S.T.BAND -30th Anniversary Box-』がリリースされた。
+[2018年](../Page/2018年.md "wikilink")2月12 - 17日、S.S.T.BANDから数えて30周年を記念した[東名阪ツアー](https://ja.wikipedia.org/wiki/三大都市圏 "wikilink")「Sanju Shunen Tour」を開催。大阪および名古屋公演では松前がゲスト出演、東京公演では初代ベースの小森・初代ドラムの田辺・2013年に脱退した飯島がゲスト出演した。また同年12月には、30周年を記念した[CD\&DVD-BOX](../Page/ボックス・セット.md "wikilink")『S.S.T.BAND -30th Anniversary Box-』がリリースされた。
 
 [2019年](../Page/2019年.md "wikilink")6月10日、熊丸が脱退\[10\]。新ドラマーに[今井義頼](https://ja.wikipedia.org/wiki/今井義頼 "wikilink")が加入\[11\]。
 

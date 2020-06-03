@@ -1008,11 +1008,11 @@ WR 2xxx00</p></td>
   - [あじあ号](https://ja.wikipedia.org/wiki/あじあ号 "wikilink")
   - [新幹線](../Page/新幹線.md "wikilink")
   - [台湾高速鉄道](https://ja.wikipedia.org/wiki/台湾高速鉄道 "wikilink")
-  - [中国鉄路高速](https://ja.wikipedia.org/wiki/中国鉄路高速 "wikilink")
+  - [中国鉄路高速](../Page/中国鉄路高速.md "wikilink")
   - [和諧号](../Page/和諧号.md "wikilink")
   - [京滬高速鉄道](../Page/京滬高速鉄道.md "wikilink")
   - [新幹線E2系電車](../Page/新幹線E2系電車.md "wikilink")
-  - [中華人民共和国の高速鉄道](https://ja.wikipedia.org/wiki/中華人民共和国の高速鉄道 "wikilink")
+  - [中華人民共和国の高速鉄道](../Page/中華人民共和国の高速鉄道.md "wikilink")
   - [2011年温州市鉄道衝突脱線事故](https://ja.wikipedia.org/wiki/2011年温州市鉄道衝突脱線事故 "wikilink")
   - [中国高速鉄道CRH1型電車](../Page/中国高速鉄道CRH1型電車.md "wikilink")（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")との技術提携車両）
   - [中国高速鉄道CRH3型電車](../Page/中国高速鉄道CRH3型電車.md "wikilink")（[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ICE](../Page/ICE.md "wikilink")3に準じた高速鉄道車両）

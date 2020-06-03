@@ -112,6 +112,6 @@ D6ならば普通の文房具店などでも購入できるが、それ以外の
 2.  1〜100の乱数を発生させる際に、もっぱら10の位を決定するために、1〜10(0)ではなく、10〜100(00)が印刷されたダイスも市販されている。こちらは「DT10」と呼ばれることがある。
 3.  国内で欧米のゲームフィギュアメーカーからの輸入販売を行っているサイト[1](https://www.malefic.jp/)[2](http://www.hobbymetal-iconoclasm.com/)
 4.  [赤い手は滅びのしるし Webエンハンスメント](http://www.hobbyjapan.co.jp/dd/news/rhod/rhod.html) - ダンジョンズ&ドラゴンズのキャンペーンシナリオ集の公式サイト。ゲームで使われるマップが[PDF形式でダウンロードできるようになっている](../Page/Portable_Document_Format.md "wikilink")
-5.  [黒田幸弘](https://ja.wikipedia.org/wiki/黒田幸弘 "wikilink")　『『D\&D』がよくわかる本 改訂版』　メディアワークス〈[電撃ゲーム文庫](../Page/電撃ゲーム文庫.md "wikilink")〉、1994年、28頁。
+5.  [黒田幸弘](../Page/黒田幸弘.md "wikilink")　『『D\&D』がよくわかる本 改訂版』　メディアワークス〈[電撃ゲーム文庫](../Page/電撃ゲーム文庫.md "wikilink")〉、1994年、28頁。
 6.  日本オリジナルタイルを出しているグループとしてはFM企画が知られている。[FM企画商品ページ](http://homepage1.nifty.com/fmkikaku/Items/AC/AC.html)。なお、[ホビージャパン](../Page/ホビージャパン.md "wikilink")がダンジョンズ・アンド・ドラゴンズ関連の製品として輸入販売を行っている。[ホビージャパンのダンジョンタイル紹介ページ](http://www.hobbyjapan.co.jp/dd/products/tile.html)
 7.  MASTER MAZE社が発売している"Dwarven Forge"というシリーズが有名。[公式サイト（画像あり）](http://www.dwarvenforge.com/store/home.php)

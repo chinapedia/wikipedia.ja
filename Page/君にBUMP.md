@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - PVの振り付けは[パパイヤ鈴木](../Page/パパイヤ鈴木.md "wikilink")で、[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")が出演している。[サタデーナイトフィーバー](https://ja.wikipedia.org/wiki/サタデーナイトフィーバー "wikilink")を意識したとのこと。
+  - PVの振り付けは[パパイヤ鈴木](../Page/パパイヤ鈴木.md "wikilink")で、[羽賀研二](../Page/羽賀研二.md "wikilink")が出演している。[サタデーナイトフィーバー](https://ja.wikipedia.org/wiki/サタデーナイトフィーバー "wikilink")を意識したとのこと。
   - 表題曲および[C/Wの](https://ja.wikipedia.org/wiki/コンパクトディスク#タイトル曲・カップリング曲 "wikilink")「そばにいて」は、『[ケツノポリス4](../Page/ケツノポリス4.md "wikilink")』にも収録されている。
   - [2019年](../Page/2019年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")～[9月15日](../Page/9月15日.md "wikilink")放送の[KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink")「京都・時の証言者」で2004年のBGMでも使用。
 

@@ -78,7 +78,7 @@ VSシリーズ</p></td>
 
   - 原作：[八手三郎](../Page/八手三郎.md "wikilink")
   - 連載：[テレビマガジン](../Page/テレビマガジン.md "wikilink")、[てれびくん](../Page/てれびくん.md "wikilink")
-  - プロデューサー：[髙寺成紀](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")（東映）、[加藤和夫](../Page/加藤和夫.md "wikilink")（東映ビデオ）
+  - プロデューサー：[髙寺成紀](https://ja.wikipedia.org/wiki/高寺重徳 "wikilink")、[武部直美](../Page/武部直美.md "wikilink")（東映）、[加藤和夫](../Page/加藤和夫.md "wikilink")（東映ビデオ）
   - 監督：[田﨑竜太](../Page/田崎竜太.md "wikilink")
   - 脚本：[荒川稔久](../Page/荒川稔久.md "wikilink")
   - 撮影：[いのくままさお](../Page/いのくままさお.md "wikilink")

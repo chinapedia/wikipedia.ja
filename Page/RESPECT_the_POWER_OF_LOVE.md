@@ -1,7 +1,7 @@
 > この記事は[RESPECT the POWER OF LOVE](https://ja.wikipedia.org/wiki/RESPECT_the_POWER_OF_LOVE)から翻訳されています。
 
 
-「**RESPECT the POWER OF LOVE**」（リスペクト・ザ・パワー・オブ・ラブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では13枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲。
+「**RESPECT the POWER OF LOVE**」（リスペクト・ザ・パワー・オブ・ラブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では13枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 

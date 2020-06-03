@@ -1,7 +1,7 @@
 > この記事は[SOMETHING \'BOUT THE KISS](https://ja.wikipedia.org/wiki/SOMETHING_\'BOUT_THE_KISS)から翻訳されています。
 
 
-「**SOMETHING 'BOUT THE KISS**」（サムシング・バウト・ザ・キス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では15枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[ダラス・オースティン共同プロデュース](https://ja.wikipedia.org/wiki/:en:Dallas_Austin "wikilink")。
+「**SOMETHING 'BOUT THE KISS**」（サムシング・バウト・ザ・キス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では15枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[ダラス・オースティン共同プロデュースによる楽曲である](https://ja.wikipedia.org/wiki/:en:Dallas_Austin "wikilink")。
 
 ## 解説
 
@@ -89,4 +89,4 @@ YOU ARE THE ONE FEATURING IMAJIN
 
 ## 脚注
 
-[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:コーセーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーセーのコマーシャルソング "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:コーセーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーセーのコマーシャルソング "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")

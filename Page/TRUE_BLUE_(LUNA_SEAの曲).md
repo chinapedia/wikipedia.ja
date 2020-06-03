@@ -5,7 +5,7 @@
 
 ## 解説
 
-「[ROSIER](../Page/ROSIER.md "wikilink")」に続く、4th[アルバム](../Page/アルバム.md "wikilink")『[MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")』の先行シングル。バンド初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。\<\!--\>この曲で[テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」への初出演も果たしている。\<--\>デビュー時からのノンタイアップを貫き通してのオリコン1位獲得に対して、[SUGIZO](../Page/SUGIZO.md "wikilink")は「今までの俺等とファンの子たちが正しかったことの証明」と形容した。\[1\]アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+「[ROSIER](../Page/ROSIER.md "wikilink")」に続く、4th[アルバム](../Page/アルバム.md "wikilink")『[MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")』の先行シングル。バンド初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。\<\!--\>この曲で[テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」への初出演も果たしている。\<--\>デビュー時からのノンタイアップを貫き通してのオリコン1位獲得に対して、[SUGIZO](../Page/SUGIZO.md "wikilink")は「今までの俺等とファンの子たちが正しかったことの証明」と形容した。\[1\]
 
 ## 収録曲
 

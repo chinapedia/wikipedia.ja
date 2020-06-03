@@ -18,7 +18,7 @@
 1.  **2Bfree**
       -
         川瀬智子が自分自身と自問自答して書き下ろした歌詞。なおタイトルの「2BFree」とは歌詞中の「to be free」と言う英単語をもじったもの。
-2.  **[Ready?](https://ja.wikipedia.org/wiki/Ready? "wikilink")**
+2.  **[Ready?](../Page/Ready?.md "wikilink")**
       -
         3rdシングル
         [TBS系列のバラエティ番組](../Page/TBSテレビ.md "wikilink")「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」のエンディングテーマに起用。

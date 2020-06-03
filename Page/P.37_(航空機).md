@@ -17,7 +17,7 @@
 
 ウォシも27機がルーマニアに逃れ（22機説、30機説もあり）、これらはルーマニア空軍に接収され、2つの爆撃中隊に配備されて、対ソ戦に投入された。
 
-[ノーム・ローン系のエンジンを搭載した輸出型や](https://ja.wikipedia.org/wiki/ノーム・エ・ローヌ "wikilink")、後継機種として[PZL.49ミシや](https://ja.wikipedia.org/wiki/PZL.49_\(航空機\) "wikilink")[PZL.62も開発されたが](https://ja.wikipedia.org/wiki/PZL.62_\(航空機\) "wikilink")、戦争により開発中止とされた。
+[ノーム・ローン系のエンジンを搭載した輸出型や](../Page/ノーム・エ・ローヌ.md "wikilink")、後継機種として[PZL.49ミシや](https://ja.wikipedia.org/wiki/PZL.49_\(航空機\) "wikilink")[PZL.62も開発されたが](https://ja.wikipedia.org/wiki/PZL.62_\(航空機\) "wikilink")、戦争により開発中止とされた。
 
 ## 派生型
 

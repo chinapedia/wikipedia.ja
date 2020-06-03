@@ -53,11 +53,11 @@
 10. **If**
       - 作詞・作曲：David Gates / 編曲：河野圭
       - [ブレッドのカバー曲](../Page/ブレッド_\(バンド\).md "wikilink")。アルバムには英語版の楽曲のひとつ。
-11. **[切手のないおくりもの](https://ja.wikipedia.org/wiki/切手のないおくりもの "wikilink")**
+11. **[切手のないおくりもの](../Page/切手のないおくりもの.md "wikilink")**
       - 作詞・作曲：[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink") / 編曲：高橋哲也
       - 財津和夫のカバー曲。
 12. **[夢路 -acoustic version-](../Page/夢路_\(伴都美子の曲\).md "wikilink")**
-      - 作詞：伴都美子 / 作曲：[Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink") / 編曲：村上正芳
+      - 作詞：伴都美子 / 作曲：[Jin Nakamura](../Page/Jin_Nakamura.md "wikilink") / 編曲：村上正芳
       - ボーナストラック。本人の3rdシングル。
 
 ### DVD

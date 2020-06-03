@@ -21,7 +21,7 @@
 
 ※通常盤はこのディスクのみ
 
-1.  **[GOOD DAYS](https://ja.wikipedia.org/wiki/GOOD_DAYS_\(ZONEの曲\) "wikilink")**
+1.  **[GOOD DAYS](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")**
       -
         作詞：[たくや](https://ja.wikipedia.org/wiki/楠瀬拓哉 "wikilink")、作曲：[原一博](../Page/原一博.md "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
 2.  **[大爆発 NO.1](../Page/大爆発_NO.1.md "wikilink")**
@@ -40,8 +40,8 @@
         シングル・バージョンは、アルバム初収録。
 6.  **[一雫](../Page/一雫.md "wikilink")**
       -
-        作詞：町田紀彦、作曲：[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")、編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
-7.  **[証](https://ja.wikipedia.org/wiki/証_\(ZONEの曲\) "wikilink")**
+        作詞：町田紀彦、作曲：[羽岡佳](../Page/羽岡佳.md "wikilink")、編曲：[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
+7.  **[証](../Page/証_\(ZONEの曲\).md "wikilink")**
       -
         作詞・作曲：町田紀彦、編曲：高橋katsu
 8.  **[白い花](../Page/白い花_\(ZONEの曲\).md "wikilink")**

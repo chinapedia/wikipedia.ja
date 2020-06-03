@@ -5,7 +5,7 @@
 
 ## 概要・来歴
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[三井雅弘](../Page/三井雅弘.md "wikilink")を中心に京都で結成されたファンクバンド**ITACHI\!\!**（イタチ）が前身で、京阪神のライブハウスを中心に活躍。人気を集めて[憂歌団](../Page/憂歌団.md "wikilink")の所属事務所のユニオンシャッフルに所属しながら、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")のバックバンドを勤めていた。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[三井雅弘](../Page/三井雅弘.md "wikilink")を中心に京都で結成されたファンクバンド**ITACHI\!\!**（イタチ）が前身で、京阪神のライブハウスを中心に活躍。人気を集めて[憂歌団](../Page/憂歌団.md "wikilink")の所属事務所のユニオンシャッフルに所属しながら、[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")のバックバンドを務めていた。
 
 前事務所退社直後に上京。女性ボーカル2名を加え、元[スペクトラムの](../Page/スペクトラム_\(日本のバンド\).md "wikilink")[新田一郎のプロデュースにより](../Page/新田一郎_\(ミュージシャン\).md "wikilink")10名体制のTOPSとして1986年にデビューした。
 
@@ -197,6 +197,10 @@
     14. I, My, Mine
     15. FRIENDS
     16. はるかなる想い
+
+## 関連項目
+
+  - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink") - TOPSがバックバンドを務めていた。アルバム「[Hippies](https://ja.wikipedia.org/wiki/Hippies_\(小泉今日子のアルバム\) "wikilink")」では編曲にも参加している。
 
 ## 脚注
 

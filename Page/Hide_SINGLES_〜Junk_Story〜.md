@@ -7,7 +7,6 @@
 
   - リマスタリングが施された全てのシングルA面曲を、年代順に収録。
   - 初回限定特典は、未発表写真を含むスペシャルパッケージ
-  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
   - [HDCD](../Page/HDCD.md "wikilink")対応
 
 ## 収録曲

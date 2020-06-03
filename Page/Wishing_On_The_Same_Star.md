@@ -1,7 +1,7 @@
 > この記事は[Wishing On The Same Star](https://ja.wikipedia.org/wiki/Wishing_On_The_Same_Star)から翻訳されています。
 
 
-「**Wishing On The Same Star**」（ウィッシング・オン・ザ・セイム・スター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では22枚目の[シングル](../Page/シングル.md "wikilink")で、[2002年](../Page/2002年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に[avex traxより](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、[CCCDで発売された](../Page/コピーコントロールCD.md "wikilink")。
+「**Wishing On The Same Star**」（ウィッシング・オン・ザ・セイム・スター）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では22枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 

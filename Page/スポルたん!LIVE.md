@@ -111,7 +111,7 @@
 
 <!-- end list -->
 
-  - [足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink")
+  - [足立梨花](../Page/足立梨花.md "wikilink")
 
 <!-- end list -->
 

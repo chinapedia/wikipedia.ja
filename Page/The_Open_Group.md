@@ -5,7 +5,7 @@
 
 ## メンバー
 
-メーカー、サービスプロバイダ、ユーザー企業、政府機関、大学など、世界中の500以上の組織が参加しており、メンバーリストは公開されている\[2\]。 プラチナメンバーが運営に関わる主要な会員である\[3\]。現在は、[Capgemini](https://ja.wikipedia.org/wiki/キャップジェミニ "wikilink")、[DXC](https://ja.wikipedia.org/wiki/DXCテクノロジー "wikilink")、[富士通](../Page/富士通.md "wikilink")、[Huawei](https://ja.wikipedia.org/wiki/華為技術 "wikilink")、[IBM](../Page/IBM.md "wikilink")、[Oracle](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、[Phillipsからなる](../Page/フィリップス.md "wikilink")。
+メーカー、サービスプロバイダ、ユーザー企業、政府機関、大学など、世界中の500以上の組織が参加しており、メンバーリストは公開されている\[2\]。 プラチナメンバーが運営に関わる主要な会員である\[3\]。現在は、[Capgemini](https://ja.wikipedia.org/wiki/キャップジェミニ "wikilink")、[DXC](https://ja.wikipedia.org/wiki/DXCテクノロジー "wikilink")、[富士通](../Page/富士通.md "wikilink")、[Huawei](https://ja.wikipedia.org/wiki/華為技術 "wikilink")、[IBM](../Page/IBM.md "wikilink")、[Oracle](../Page/オラクル_\(企業\).md "wikilink")、[Phillipsからなる](../Page/フィリップス.md "wikilink")。
 
 ## 認証
 

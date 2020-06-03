@@ -5,7 +5,7 @@
 
 ## 沿革・概要
 
-[1935年](../Page/1935年.md "wikilink")に設立された。[カール・アントン・リッケンバッハー](https://ja.wikipedia.org/wiki/カール・アントン・リッケンバッハー "wikilink")(1978年 - 1980年)、[イェジー・マクシミウク](https://ja.wikipedia.org/wiki/イェジー・マクシミウク "wikilink")（1983年 - 1993年）、[オスモ・ヴァンスカ](../Page/オスモ・ヴァンスカ.md "wikilink")（1996年 - 2002年）、[イラン・ヴォルコフ](https://ja.wikipedia.org/wiki/イラン・ヴォルコフ "wikilink")（2003年 - 2009年）らが首席[指揮者](../Page/指揮者.md "wikilink")を務めた。現在は[ドナルド・ラニクルズ](https://ja.wikipedia.org/wiki/ドナルド・ラニクルズ "wikilink")が首席指揮者である。
+[1935年](../Page/1935年.md "wikilink")に設立された。[カール・アントン・リッケンバッハー](https://ja.wikipedia.org/wiki/カール・アントン・リッケンバッハー "wikilink")(1978年 - 1980年)、[イェジー・マクシミウク](../Page/イェジー・マクシミウク.md "wikilink")（1983年 - 1993年）、[オスモ・ヴァンスカ](../Page/オスモ・ヴァンスカ.md "wikilink")（1996年 - 2002年）、[イラン・ヴォルコフ](https://ja.wikipedia.org/wiki/イラン・ヴォルコフ "wikilink")（2003年 - 2009年）らが首席[指揮者](../Page/指揮者.md "wikilink")を務めた。現在は[ドナルド・ラニクルズ](https://ja.wikipedia.org/wiki/ドナルド・ラニクルズ "wikilink")が首席指揮者である。
 
 ## 外部リンク
 

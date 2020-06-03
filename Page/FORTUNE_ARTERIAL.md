@@ -637,12 +637,12 @@ SHOT MUSICより発売。
 
 ## 外部リンク
 
-  - [オーガスト](http://august-soft.com/)
+  - [オーガスト](https://august-soft.com/)
 
   - [オーガスト放送局 修智館学院出張生徒会](http://www.marine-e.co.jp/sakuhin/fortune_arterial/radio/)
 
   -
-  - [テレビ東京・あにてれ FORTUNE ARTERIAL 赤い約束](http://www.tv-tokyo.co.jp/anime/fortune/)
+  - [テレビ東京・あにてれ FORTUNE ARTERIAL 赤い約束](https://www.tv-tokyo.co.jp/anime/fortune/)
 
 [Category:オーガストのゲームソフト](https://ja.wikipedia.org/wiki/Category:オーガストのゲームソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:2008年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2008年のアダルトゲーム "wikilink") [Category:テレビアニメ化されたアダルトゲーム](https://ja.wikipedia.org/wiki/Category:テレビアニメ化されたアダルトゲーム "wikilink") [Category:吸血鬼を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたコンピュータゲーム "wikilink") [Category:島を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:島を舞台としたコンピュータゲーム "wikilink") [Category:学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:学校を舞台としたコンピュータゲーム "wikilink") [Category:生徒会を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:生徒会を題材としたコンピュータゲーム "wikilink") [Category:生徒会を題材とした作品](https://ja.wikipedia.org/wiki/Category:生徒会を題材とした作品 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:電撃G's_magazineの漫画作品](https://ja.wikipedia.org/wiki/Category:電撃G's_magazineの漫画作品 "wikilink") [Category:コンプティークの漫画作品](https://ja.wikipedia.org/wiki/Category:コンプティークの漫画作品 "wikilink") [Category:学園漫画](https://ja.wikipedia.org/wiki/Category:学園漫画 "wikilink") [Category:島を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:島を舞台とした漫画作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:発売中止となったコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:発売中止となったコンピュータゲーム "wikilink")
 

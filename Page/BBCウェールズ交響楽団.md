@@ -1,7 +1,7 @@
 > この記事は[BBCウェールズ交響楽団](https://ja.wikipedia.org/wiki/BBCウェールズ交響楽団)から翻訳されています。
 
 
-**BBCウェールズ・ナショナル管弦楽団**（）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ウェールズ](../Page/ウェールズ.md "wikilink")の首都[カーディフ](../Page/カーディフ.md "wikilink")を本拠地とする、[英国放送協会](../Page/英国放送協会.md "wikilink")（BBC）傘下の[オーケストラ](../Page/オーケストラ.md "wikilink")の一つである。日本語メディアでは主に旧称（BBC Welsh Symphony Orchestra）の訳である「BBCウェールズ交響楽団」の名称が用いられている。
+**BBCウェールズ・ナショナル管弦楽団**（）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ウェールズ](../Page/ウェールズ.md "wikilink")の首都[カーディフ](../Page/カーディフ.md "wikilink")を本拠地とする、[英国放送協会](../Page/英国放送協会.md "wikilink")（BBC）傘下の[オーケストラ](../Page/オーケストラ.md "wikilink")の一つである。日本語メディアでは主に旧称（BBC Welsh Symphony Orchestra）の訳である**BBCウェールズ交響楽団**の名称が用いられている。
 
 ## 沿革・概要
 

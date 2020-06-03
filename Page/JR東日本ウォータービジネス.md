@@ -39,7 +39,7 @@ JR東日本管内の駅構内にある飲料自動販売機は、原則として
 
 <!-- end list -->
 
-  - 設立の際に、[ジェイアール高崎商事](https://ja.wikipedia.org/wiki/ジェイアール高崎商事 "wikilink")が営んでいた大清水事業の移管も受けており、[2007年](../Page/2007年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")より**「[From AQUA](https://ja.wikipedia.org/wiki/From_AQUA "wikilink")」～谷川連峰の天然水～**という商品名の[ミネラルウォーター](../Page/ミネラルウォーター.md "wikilink")として発売を開始。「From AQUA」ブランドとして、今後商品展開を進めていく予定である\[4\]。
+  - 設立の際に、[ジェイアール高崎商事](../Page/ジェイアール高崎商事.md "wikilink")が営んでいた大清水事業の移管も受けており、[2007年](../Page/2007年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")より**「[From AQUA](https://ja.wikipedia.org/wiki/From_AQUA "wikilink")」～谷川連峰の天然水～**という商品名の[ミネラルウォーター](../Page/ミネラルウォーター.md "wikilink")として発売を開始。「From AQUA」ブランドとして、今後商品展開を進めていく予定である\[4\]。
   - Jリーグ[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")（JR東日本が50%出資）にオフィシャルサプライヤーとして「From AQUA」を提供。
 
 ### 共同企画

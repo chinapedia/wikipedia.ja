@@ -1,11 +1,13 @@
 > この記事は[F-BLOOD](https://ja.wikipedia.org/wiki/F-BLOOD)から翻訳されています。
 
 
-**F-BLOOD**（エフブラッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[男性](../Page/男性.md "wikilink")2人によって構成される。
+**F-BLOOD**（エフブラッド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。元[チェッカーズ](../Page/チェッカーズ.md "wikilink")のメンバーで、実の[兄弟](../Page/兄弟.md "wikilink")である[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")と[藤井尚之](../Page/藤井尚之.md "wikilink")によって構成される。
 
 ## 概要・来歴
 
-メンバーは[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")と[藤井尚之](../Page/藤井尚之.md "wikilink")。二人は[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身の実の[兄弟](../Page/兄弟.md "wikilink")であることから、ユニット名は「藤井家の血」という意味をもって名付けられた。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[チェッカーズ](../Page/チェッカーズ.md "wikilink")のメンバーとして共にデビューし、[1992年](../Page/1992年.md "wikilink")のチェッカーズ解散後はそれぞれソロ活動を行う。
+ユニット名は藤井フミヤと藤井尚之の二人が[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身の実の[兄弟](../Page/兄弟.md "wikilink")であることから、「藤井家の血」という意味をもって名付けられた。
+
+二人は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[1992年](../Page/1992年.md "wikilink")までチェッカーズのメンバーとして活動し、グループ解散後はそれぞれソロ活動を行っていた。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月27日、福岡マリンメッセにて「F-BLOOD」と題した一夜限りの兄弟ジョイントコンサートを開催。正式にユニットとして結成したのは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月。兄の藤井フミヤが作詞、弟の藤井尚之が作曲をそれぞれ担当する。兄弟ならではのグルーブ感とハモリが特徴的である。
 
@@ -49,6 +51,7 @@
       - タイアップ：「恋するPOWER」が[バイク王](https://ja.wikipedia.org/wiki/バイク王 "wikilink")、「Serendipity」が[西鉄のCMに使用](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")。
   - [POP'N'ROLL](https://ja.wikipedia.org/wiki/POP'N'ROLL "wikilink") （2017年6月21日）
       - タイアップ：「Make me」が[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系[情報ライブ　ミヤネ屋のエンディングテーマに使用](../Page/情報ライブ_ミヤネ屋.md "wikilink")。
+  - Positive （2020年4月8日）
 
 ### DVD
 

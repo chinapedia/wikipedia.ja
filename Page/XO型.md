@@ -1,7 +1,7 @@
 > この記事は[XO型](https://ja.wikipedia.org/wiki/XO型)から翻訳されています。
 
 
-**XO型**性決定システムとは、[バッタ](../Page/バッタ.md "wikilink")、[コオロギ](../Page/コオロギ.md "wikilink")、[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")、その他の[昆虫類](https://ja.wikipedia.org/wiki/昆虫類 "wikilink")が[性別を決定するために使用するシステムである](https://ja.wikipedia.org/wiki/性決定 "wikilink")。このシステムでは、Xと呼ばれる一種類の[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")のみが存在する。オスはX染色体を一つだけ持ち(XO)、メスはX染色体を2つ持つ(XX)。ここでゼロまたはOはX染色体が1つだけであることを表している。メスの[配偶子](../Page/配偶子.md "wikilink")は常にX染色体を含む。したがって、子供の性別はオスによって定まる。[精子](../Page/精子.md "wikilink")は通常X染色体を一つだけ含むか、まったく含まないかのいずれかである。
+**XO型**性決定システムとは、[バッタ](../Page/バッタ.md "wikilink")、[コオロギ](../Page/コオロギ.md "wikilink")、[ゴキブリ](../Page/ゴキブリ.md "wikilink")、その他の[昆虫類](https://ja.wikipedia.org/wiki/昆虫類 "wikilink")が[性別を決定するために使用するシステムである](https://ja.wikipedia.org/wiki/性決定 "wikilink")。このシステムでは、Xと呼ばれる一種類の[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")のみが存在する。オスはX染色体を一つだけ持ち(XO)、メスはX染色体を2つ持つ(XX)。ここでゼロまたはOはX染色体が1つだけであることを表している。メスの[配偶子](../Page/配偶子.md "wikilink")は常にX染色体を含む。したがって、子供の性別はオスによって定まる。[精子](../Page/精子.md "wikilink")は通常X染色体を一つだけ含むか、まったく含まないかのいずれかである。
 
 このシステムの変形として、ある種の動物ではX遺伝子を2つ持つ(XX)とき[雌雄同体](../Page/雌雄同体.md "wikilink")で、1つのとき(XO)オスになる。1例を挙げると、[モデル生物](https://ja.wikipedia.org/wiki/モデル生物 "wikilink")として生物学研究でしばしば用いられる[線形動物](../Page/線形動物.md "wikilink")の*[Caenorhabditis elegans](https://ja.wikipedia.org/wiki/C._elegans "wikilink")*がこの種の性決定システムを持つ。
 

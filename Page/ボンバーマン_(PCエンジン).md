@@ -172,7 +172,7 @@
   -
   - （英語）
 
-[Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:ボンバーマン](https://ja.wikipedia.org/wiki/Category:ボンバーマン "wikilink") [Category:ユービーアイソフト](https://ja.wikipedia.org/wiki/Category:ユービーアイソフト "wikilink")
+[Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:ボンバーマン](https://ja.wikipedia.org/wiki/Category:ボンバーマン "wikilink") [Category:ユービーアイソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:ユービーアイソフトのゲームソフト "wikilink")
 
 1.  シリーズで初めて対戦自体を搭載したのは[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』（1990年）である。
 2.  ここでは『[ボンバーマン (ファミリーコンピュータ)](../Page/ボンバーマン_\(ファミリーコンピュータ\).md "wikilink")』（1985年）、『[ボンバーキング](../Page/ボンバーキング.md "wikilink")』（1987年）、『[ボンバーボーイ](../Page/ボンバーボーイ.md "wikilink")』（1990年）を指す。

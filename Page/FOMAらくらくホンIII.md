@@ -30,7 +30,7 @@
 ## 関連項目
 
   - [FOMAらくらくホンII](../Page/FOMAらくらくホンII.md "wikilink")
-  - [らくらくホンIV](https://ja.wikipedia.org/wiki/らくらくホンIV "wikilink")
+  - [らくらくホンIV](../Page/らくらくホンIV.md "wikilink")
   - [らくらくホンシンプル](../Page/らくらくホンシンプル.md "wikilink")
   - [らくらくホンベーシック](../Page/らくらくホンベーシック.md "wikilink")
   - [SoftBank 821T](../Page/SoftBank_821T.md "wikilink")

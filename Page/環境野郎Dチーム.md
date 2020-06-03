@@ -223,6 +223,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:テレビの環境番組](https://ja.wikipedia.org/wiki/Category:テレビの環境番組 "wikilink")

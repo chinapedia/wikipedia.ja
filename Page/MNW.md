@@ -119,7 +119,7 @@
   - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")
   - [ナイナイサイズ\!](../Page/ナイナイサイズ!.md "wikilink")
   - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")
-  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
+  - [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")
   - [ミラクル☆シェイプ](../Page/ミラクル☆シェイプ.md "wikilink")
   - [ニッポン旅×旅ショー](../Page/ニッポン旅×旅ショー.md "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")）
   - [ラジかるッ](../Page/ラジかるッ.md "wikilink")

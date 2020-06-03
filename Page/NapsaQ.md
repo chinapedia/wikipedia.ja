@@ -68,10 +68,10 @@
 <li>M（作詞：<a href="../Page/富田京子.md" title="wikilink">富田京子</a>　作曲：<a href="../Page/岸谷香.md" title="wikilink">奥居香</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/駅_(曲)" title="wikilink">駅</a>（作詞・作曲：<a href="https://ja.wikipedia.org/wiki/竹内まりや" title="wikilink">竹内まりや</a>）</li>
 <li><a href="../Page/青春の影_(チューリップの曲).md" title="wikilink">青春の影</a>（作詞・作曲：<a href="https://ja.wikipedia.org/wiki/財津和夫" title="wikilink">財津和夫</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/悲しくてやりきれない" title="wikilink">悲しくてやりきれない</a>（作詞：<a href="../Page/サトウハチロー.md" title="wikilink">サトウ・ハチロー</a>　作曲：<a href="../Page/加藤和彦.md" title="wikilink">加藤和彦</a>）</li>
+<li><a href="../Page/悲しくてやりきれない.md" title="wikilink">悲しくてやりきれない</a>（作詞：<a href="../Page/サトウハチロー.md" title="wikilink">サトウ・ハチロー</a>　作曲：<a href="../Page/加藤和彦.md" title="wikilink">加藤和彦</a>）</li>
 <li><a href="../Page/あなたに会えてよかった.md" title="wikilink">あなたに会えてよかった</a>（作詞：<a href="https://ja.wikipedia.org/wiki/小泉今日子" title="wikilink">小泉今日子</a>　作曲：<a href="../Page/小林武史.md" title="wikilink">小林武史</a>）</li>
 <li>突然の贈りもの（作詞・作曲：<a href="../Page/大貫妙子.md" title="wikilink">大貫妙子</a>）</li>
-<li><a href="https://ja.wikipedia.org/wiki/フレンズ_(レベッカの曲)" title="wikilink">フレンズ</a>（作詞：<a href="../Page/NOKKO.md" title="wikilink">NOKKO</a>　作曲：<a href="../Page/土橋安騎夫.md" title="wikilink">土橋安騎夫</a>）</li>
+<li><a href="../Page/フレンズ_(レベッカの曲).md" title="wikilink">フレンズ</a>（作詞：<a href="../Page/NOKKO.md" title="wikilink">NOKKO</a>　作曲：<a href="../Page/土橋安騎夫.md" title="wikilink">土橋安騎夫</a>）</li>
 <li><a href="../Page/想い出がいっぱい.md" title="wikilink">想い出がいっぱい</a>（作詞：<a href="../Page/阿木燿子.md" title="wikilink">阿木燿子</a> 作曲:<a href="../Page/鈴木キサブロー.md" title="wikilink">鈴木キサブロー</a>）</li>
 <li>Pickniq(Bonus Track) （作詞：下川みくに　作曲：松ヶ下宏之）</li>
 <li>ｵﾔｽﾐ(Bonus Track) （作詞：下川みくに　作曲：松ヶ下宏之）</li>

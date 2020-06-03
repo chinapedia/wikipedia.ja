@@ -520,7 +520,7 @@
   - 全国あいどるmap 2012-2013（2012年6月30日、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）
   - TJ MOOK あえるアイドル大百科 (2012年8月2日、[宝島社](../Page/宝島社.md "wikilink")) ISBN 978-4800201171
   - ガレージア（2012年11月号 (株)プロトリオス） - 春菜が表紙\[158\]
-  - 別冊Discover Japan 地域ブランドのつくりかた (2013年10月9日、[枻出版社](https://ja.wikipedia.org/wiki/エイ出版社 "wikilink"))
+  - 別冊Discover Japan 地域ブランドのつくりかた (2013年10月9日、[枻出版社](../Page/エイ出版社.md "wikilink"))
   - [Tokyo graffiti](https://ja.wikipedia.org/wiki/東京グラフィティ "wikilink")（2014年2月23日、[グラフィティ](https://ja.wikipedia.org/wiki/グラフィティ_\(企業\) "wikilink")）
   - [ベストカー](../Page/ベストカー.md "wikilink")4月26日号（2014年3月26日、[講談社](../Page/講談社.md "wikilink")）
   - 加須市観光ガイドブック かぞYOU(悠)遊 (2015年3月、加須市） - ピンキッシュの写真56枚掲載\[159\]

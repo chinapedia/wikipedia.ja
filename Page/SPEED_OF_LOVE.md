@@ -1,7 +1,7 @@
 > この記事は[SPEED OF LOVE](https://ja.wikipedia.org/wiki/SPEED_OF_LOVE)から翻訳されています。
 
 
-**SPEED OF LOVE**（スピード・オブ・ラヴ）は[1993年](../Page/1993年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")にリリースされた[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")8thアルバム。
+**SPEED OF LOVE**（スピード・オブ・ラヴ）は[1993年](../Page/1993年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")にリリースされた[FENCE OF DEFENSEの](../Page/FENCE_OF_DEFENSE.md "wikilink")8thアルバム。
 
 ## 解説
 

@@ -29,7 +29,7 @@
   - **Linux/Unix** - [Ver,1.0.4](http://messenger.yahoo.com/unix.php) / [2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")
       - Version 1.0.6.1 が [Gentoo Linuxで使用可能](../Page/Gentoo_Linux.md "wikilink")
       - Version 1.0.6 のソースコードはUnix Beta pageからダウンロード可能: <http://public.yahoo.com/~mmk/>
-  - **[BlackBerry](../Page/BlackBerry.md "wikilink")** - [ブラックベリーの携帯端末](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")。Yahoo\! Messengerのクライアントとして利用可能（北米のみ？）。
+  - **[BlackBerry](../Page/BlackBerry.md "wikilink")** - [ブラックベリーの携帯端末](../Page/ブラックベリー_\(企業\).md "wikilink")。Yahoo\! Messengerのクライアントとして利用可能（北米のみ？）。
 
 ## その他のクライアント
 

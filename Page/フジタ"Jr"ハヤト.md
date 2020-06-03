@@ -27,7 +27,9 @@
 
 [2017年](../Page/2017年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")、プロレスリングZERO1いわき市平体育館大会の試合中に左膝を負傷して外側側副靭帯完全断裂、内側側副靭帯部分断裂と診断されて欠場。
 
-[2018年](../Page/2018年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")、みちのくプロレス[仙台ヒルズホテル](https://ja.wikipedia.org/wiki/仙台ヒルズホテル "wikilink")みちのくホール大会に来場して脊髄腫瘍髄内腫瘍上衣腫によるガンが発見されて闘病中であることを告白。
+[2018年](../Page/2018年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")、みちのくプロレス[仙台ヒルズホテル](https://ja.wikipedia.org/wiki/仙台ヒルズホテル "wikilink")みちのくホール大会に来場し、脊髄腫瘍髄内腫瘍上衣腫によるガンが発見されて闘病中であることを告白。
+
+[2019年](../Page/2019年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、みちのくプロレス後楽園ホール大会において、[拳剛](https://ja.wikipedia.org/wiki/拳剛 "wikilink")を相手に2年8ヶ月ぶりに一夜限りの復帰戦をおこなった\[1\]。
 
 ## 得意技
 
@@ -68,8 +70,12 @@
 
   - [ガチ☆ボーイ](../Page/ガチ☆ボーイ.md "wikilink")（2008年3月1日） - 安藤銀次郎 / シーラカンズ2号役
 
+## 脚注
+
 ## 外部リンク
 
   - [みちのくプロレス公式サイト プロフィール](http://www.michipro.jp/profile/hayato.html)
 
 [Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:アマチュアレスリング出身のプロレスラー](https://ja.wikipedia.org/wiki/Category:アマチュアレスリング出身のプロレスラー "wikilink") [Category:みちのくプロレスに所属するプロレスラー](https://ja.wikipedia.org/wiki/Category:みちのくプロレスに所属するプロレスラー "wikilink") [Category:DRAGON_GATEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに参戦したプロレスラー "wikilink") [Category:ZERO1](https://ja.wikipedia.org/wiki/Category:ZERO1 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.

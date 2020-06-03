@@ -506,7 +506,7 @@
   -
 
       -
-        作詞 - マーキー&ユウスケ、作曲 - HIGH and MIGHTY COLOR、編曲 - [山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")・HIGH and MIGHTY COLOR、歌 - [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")
+        作詞 - マーキー&ユウスケ、作曲 - HIGH and MIGHTY COLOR、編曲 - [山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink")・HIGH and MIGHTY COLOR、歌 - [HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")
           - 使用話数：第2クール（第15話 - 第24話、第26話）
 
   - OVA版テーマ

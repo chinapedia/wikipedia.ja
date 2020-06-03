@@ -42,7 +42,7 @@
 <!-- end list -->
 
   - [光邦](../Page/宮沢光邦.md "wikilink") - メインパーソナリティ（[2007年](../Page/2007年.md "wikilink")3月までは水曜日 - 金曜日）
-  - [じゅんご](https://ja.wikipedia.org/wiki/じゅんご "wikilink") - アシスタントパーソナリティ、木曜コーナーMC
+  - [じゅんご](../Page/じゅんご.md "wikilink") - アシスタントパーソナリティ、木曜コーナーMC
 
 <!-- end list -->
 
@@ -271,7 +271,7 @@
 ## 番組独自のヒットチャートについて
 
   - tre-sen独自の音楽ヒットチャートを毎日放送している。
-  - このチャートは、[CDショップ](https://ja.wikipedia.org/wiki/CDショップ "wikilink")の売上（[新星堂](../Page/新星堂.md "wikilink")・[横浜ジョイナス](https://ja.wikipedia.org/wiki/横浜ジョイナス "wikilink")店、[タワーレコード](../Page/タワーレコード.md "wikilink")・[横浜モアーズ](https://ja.wikipedia.org/wiki/横浜モアーズ "wikilink")店のCDセールスデータ）やエアプレイ、[iTunes](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")のダウンロードポイント、音楽情報サイト「[hotexpress](https://ja.wikipedia.org/wiki/hotexpress "wikilink")」を運営する[プランテック](https://ja.wikipedia.org/wiki/プランテック "wikilink")調査による[首都圏のラジオオンエアチャート](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、そして[リスナー](../Page/リスナー.md "wikilink")のリクエストを集計して作成した番組オリジナルのデイリーチャートである。
+  - このチャートは、[CDショップ](https://ja.wikipedia.org/wiki/CDショップ "wikilink")の売上（[新星堂](../Page/新星堂.md "wikilink")・[横浜ジョイナス](https://ja.wikipedia.org/wiki/横浜ジョイナス "wikilink")店、[タワーレコード](../Page/タワーレコード.md "wikilink")・[横浜モアーズ](https://ja.wikipedia.org/wiki/横浜モアーズ "wikilink")店のCDセールスデータ）やエアプレイ、[iTunes](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")のダウンロードポイント、音楽情報サイト「[hotexpress](https://ja.wikipedia.org/wiki/hotexpress "wikilink")」を運営する[プランテック](https://ja.wikipedia.org/wiki/プランテック "wikilink")調査による[首都圏のラジオオンエアチャート](../Page/首都圏_\(日本\).md "wikilink")、そして[リスナー](../Page/リスナー.md "wikilink")のリクエストを集計して作成した番組オリジナルのデイリーチャートである。
   - だが、リクエストなど変動要因が大きな影響力を持っていることもあり、変動がとても激しい（特に水曜日、これを利用して水曜日の上3位を当てる「トレセン水曜ダービー」などもある。前述。）ほか、まだ発売されていない曲がチャートにランクインすることもある。
 
 ## tre-senオリジナルグッズ

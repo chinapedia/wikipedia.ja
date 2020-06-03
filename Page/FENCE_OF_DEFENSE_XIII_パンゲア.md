@@ -29,7 +29,7 @@
     　（作詞:西村麻聡　作曲:西村麻聡　編曲:FENCE OF DEFENSE）
       - 24thシングル。
 9.  **無常24/7**
-    　（作詞:ma-saya　作曲:FENCE OF DEFENSE　編曲：FENCE OF DEFENSE）
+    　（作詞:[ma-saya](https://ja.wikipedia.org/wiki/ma-saya "wikilink")　作曲:FENCE OF DEFENSE　編曲：FENCE OF DEFENSE）
 10. **TRIANGLE**
     　（作詞:K.INOJO　作曲:FENCE OF DEFENSE　編曲:FENCE OF DEFENSE）
       - 24thシングル『mesto』のカップリング曲。

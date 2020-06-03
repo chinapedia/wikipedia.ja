@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - [梶原阿貴](https://ja.wikipedia.org/wiki/梶原阿貴 "wikilink")
+  - [梶原阿貴](../Page/梶原阿貴.md "wikilink")
   - [森川由紀子](https://ja.wikipedia.org/wiki/森川由紀子 "wikilink")
   - [金子恵実](../Page/金子恵実.md "wikilink")
 

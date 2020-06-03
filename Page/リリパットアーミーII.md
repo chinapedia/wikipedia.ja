@@ -6,7 +6,7 @@
 ## 主な俳優
 
   - [わかぎゑふ](../Page/わかぎゑふ.md "wikilink")
-  - [朝深大介](https://ja.wikipedia.org/wiki/朝深大介 "wikilink")
+  - [朝深大介](../Page/朝深大介.md "wikilink")
   - [コング桑田](../Page/コング桑田.md "wikilink")
   - [野田晋市](../Page/野田晋市.md "wikilink")
   - [千田訓子](https://ja.wikipedia.org/wiki/千田訓子 "wikilink")

@@ -14,7 +14,7 @@
       - [作詞](../Page/作詞.md "wikilink")：水樹奈々、[作曲](../Page/作曲.md "wikilink")：[本間昭光](../Page/本間昭光.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：本間昭光・[大平勉](../Page/大平勉.md "wikilink")
       - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")「[ロスト・アヤ・ソフィア](https://ja.wikipedia.org/wiki/ロスト・アヤ・ソフィア "wikilink")」[OPテーマソング](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
           - [アルバム](../Page/アルバム.md "wikilink")『[ALIVE & KICKING](../Page/ALIVE_&_KICKING.md "wikilink")』、[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")』にも収録
-          - シングルタイトル曲としては、初めて水樹奈々本人が作詞を担当した。以降は二枚（17thシングル『[STARCAMP EP](https://ja.wikipedia.org/wiki/STARCAMP_EP "wikilink")』、及び27thシングル『[TIME SPACE EP](https://ja.wikipedia.org/wiki/TIME_SPACE_EP "wikilink")』）を除く、全てのシングルタイトル曲を作詞している。（『TIME SPACE EP』の一曲目、『[METRO BAROQUE](https://ja.wikipedia.org/wiki/TIME_SPACE_EP "wikilink")』は、同じく本人の作詞となっている）
+          - シングルタイトル曲としては、初めて水樹奈々本人が作詞を担当した。以降は二枚（17thシングル『[STARCAMP EP](../Page/STARCAMP_EP.md "wikilink")』、及び27thシングル『[TIME SPACE EP](https://ja.wikipedia.org/wiki/TIME_SPACE_EP "wikilink")』）を除く、全てのシングルタイトル曲を作詞している。（『TIME SPACE EP』の一曲目、『[METRO BAROQUE](https://ja.wikipedia.org/wiki/TIME_SPACE_EP "wikilink")』は、同じく本人の作詞となっている）
 2.  **cherish**
       - 作詞・作曲・編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
           - アルバム『ALIVE & KICKING』にも収録

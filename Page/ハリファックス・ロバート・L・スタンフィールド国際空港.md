@@ -24,7 +24,7 @@
   - [セントジョン](../Page/セントジョン_\(ニューブランズウィック州\).md "wikilink")
   - [セントジョンズ](../Page/セントジョンズ_\(ニューファンドランド・ラブラドール州\).md "wikilink")
   - [ハミルトン](../Page/ハミルトン・ジョン・C・マンロ国際空港.md "wikilink")
-  - [フォートマクマレー](https://ja.wikipedia.org/wiki/フォートマクマレー "wikilink")
+  - [フォートマクマレー](../Page/フォートマクマレー.md "wikilink")
   - [フレデリクトン](../Page/フレデリクトン.md "wikilink")
 
 ### 国際線

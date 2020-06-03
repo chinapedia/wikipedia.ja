@@ -93,7 +93,7 @@
 ## メディアファクトリー
 
   - [MFコミックス](../Page/MFコミックス.md "wikilink") - 1998年10月創刊。描き下ろし・他社作品の再刊など
-      - MFコミックス・フラッパーシリーズ - [コミックフラッパー](../Page/コミックフラッパー.md "wikilink")・[コミックヒストリア](https://ja.wikipedia.org/wiki/コミックヒストリア "wikilink")（旧[コミック三国志マガジン](https://ja.wikipedia.org/wiki/コミック三国志マガジン "wikilink")）掲載作品
+      - MFコミックス・フラッパーシリーズ - [コミックフラッパー](../Page/コミックフラッパー.md "wikilink")・[コミックヒストリア](https://ja.wikipedia.org/wiki/コミックヒストリア "wikilink")（旧[コミック三国志マガジン](../Page/コミック三国志マガジン.md "wikilink")）掲載作品
       - MFコミックス・アライブシリーズ - [月刊コミックアライブ](../Page/月刊コミックアライブ.md "wikilink")掲載作品
       - MFコミックス・ジーンシリーズ - [月刊コミックジーン](https://ja.wikipedia.org/wiki/月刊コミックジーン "wikilink")掲載作品
       - MFC ジーンピクシブシリーズ - [ピクシブとの共同レーベル](https://ja.wikipedia.org/wiki/ピクシブ_\(企業\) "wikilink")。ジーンピクシブ掲載作品

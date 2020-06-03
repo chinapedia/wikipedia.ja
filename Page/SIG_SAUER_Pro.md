@@ -55,10 +55,6 @@ SIG PROは[.40S\&W弾](https://ja.wikipedia.org/wiki/.40S&W弾 "wikilink")と[.3
 
 現行モデルはグリップが[P250や](../Page/SIG_SAUER_P250.md "wikilink")[P226E2に準拠したデザインのものに変更されている](https://ja.wikipedia.org/wiki/SIG_SAUER_P226#バリエーション "wikilink")。
 
-## 登場作品
-
-### 映画
-
 ## 関連項目
 
   - [自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")

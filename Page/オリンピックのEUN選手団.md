@@ -1,13 +1,13 @@
 > この記事は[オリンピックのEUN選手団](https://ja.wikipedia.org/wiki/オリンピックのEUN選手団)から翻訳されています。
 
 
-**オリンピックのEUN選手団**（オリンピックのイーユーエヌせんしゅだん、）は、[1992年アルベールビルオリンピック](https://ja.wikipedia.org/wiki/1992年アルベールビルオリンピック "wikilink")と[1992年バルセロナオリンピック](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピック "wikilink")に出場した、旧[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[バルト三国](../Page/バルト三国.md "wikilink")を除く[構成12国によって臨時に編成された選手団](https://ja.wikipedia.org/wiki/ソビエト連邦構成共和国 "wikilink")（チーム）である。“**EUN**”は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「統一チーム」と言う意味の“”に由来する[国際オリンピック委員会](../Page/国際オリンピック委員会.md "wikilink") (IOC) での[国・地域名コード](../Page/IOCコード一覧.md "wikilink")。
+**オリンピックのEUN選手団**（オリンピックのイーユーエヌせんしゅだん、）は、[1992年アルベールビルオリンピック](https://ja.wikipedia.org/wiki/1992年アルベールビルオリンピック "wikilink")と[1992年バルセロナオリンピック](https://ja.wikipedia.org/wiki/1992年バルセロナオリンピック "wikilink")に出場した、旧[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[バルト三国](../Page/バルト三国.md "wikilink")を除く[構成12国によって臨時に編成された統一選手団](https://ja.wikipedia.org/wiki/ソビエト連邦構成共和国 "wikilink")（統一チーム）である。 **EUN** は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「統一チーム」と言う意味の“”に由来する[国際オリンピック委員会](../Page/国際オリンピック委員会.md "wikilink") (IOC) での[国・地域名コード](../Page/IOCコード一覧.md "wikilink")。
 
 ## 概要
 
 EUNが結成されたのは、[1991年](../Page/1991年.md "wikilink")の[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")直後の事であり、各国の[国内オリンピック委員会](../Page/国内オリンピック委員会.md "wikilink")が、IOCから承認されていなかったためである。EUNは1992年の2つのオリンピックに限定されたチームであり、これより後のオリンピックでは各国独自のオリンピックチームが結成されている。
 
-このチームに関しては、当時の[日本語](../Page/日本語.md "wikilink")報道ではしばしば[独立国家共同体](../Page/独立国家共同体.md "wikilink") (CIS) として言及されていた。しかし、EUN構成国の一つである[ジョージア](../Page/ジョージア_\(国\).md "wikilink")（グルジア）\[1\]が1992年のオリンピック開催時点でCISに加盟していなかったことから\[2\]、当該チームについては「CIS」とせずに中立的な意味合いで「**EUN**」のコードを用いていた経緯がある。そのため「EUN＝CIS」とするのは正しくない。
+このチームに関しては、当時の[日本語](../Page/日本語.md "wikilink")報道ではしばしば[独立国家共同体](../Page/独立国家共同体.md "wikilink") (CIS) として言及されていた。しかし、EUN構成国の一つである[ジョージア](../Page/ジョージア_\(国\).md "wikilink")\[1\]が1992年のオリンピック開催時点でCISに加盟していなかったことから\[2\]、そのため「EUN＝CIS」とするのは正しくない。
 
 ## メダル獲得数一覧
 
@@ -79,5 +79,5 @@ EUNが結成されたのは、[1991年](../Page/1991年.md "wikilink")の[ソ連
 
 [Category:オリンピックのEUN選手団](https://ja.wikipedia.org/wiki/Category:オリンピックのEUN選手団 "wikilink")
 
-1.  日本では2015年4月から政府の[外名](../Page/外名.md "wikilink")変更を受けて「ジョージア」に呼称が変更されているが、IOCでは[国内委員会の加盟当初から一貫してIOC公用語の](https://ja.wikipedia.org/wiki/ジョージア国内オリンピック委員会 "wikilink")[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")では""（ジェオルジ）、[英語](../Page/英語.md "wikilink")では"Georgia"（ジョージア）の名称である。
+1.  日本では2015年4月から政府の[外名](../Page/外名.md "wikilink")変更前は「グルジア」と呼ばれていた国。IOCでは[国内委員会の加盟当初から一貫してIOC公用語の](https://ja.wikipedia.org/wiki/ジョージア国内オリンピック委員会 "wikilink")[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")では""（ジェオルジ）、[英語](../Page/英語.md "wikilink")では"Georgia"（ジョージア）の名称である。
 2.  ジョージアはオリンピック開催の翌[1993年](../Page/1993年.md "wikilink")にCISへ加盟し、[2009年](../Page/2009年.md "wikilink")に脱退した。

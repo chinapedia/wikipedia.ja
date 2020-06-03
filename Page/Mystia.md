@@ -1,11 +1,11 @@
 > この記事は[Mystia](https://ja.wikipedia.org/wiki/Mystia)から翻訳されています。
 
 
-『**mystia**』（ミスティア）とは、株式会社[ジー・モード](../Page/ジー・モード.md "wikilink") (G-mode) が製作する[携帯電話](../Page/携帯電話.md "wikilink")向けの[ロールプレイングゲームである](../Page/コンピュータRPG.md "wikilink")。
+『**mystia**』（ミスティア）とは、[モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")が開発し[ジー・モード](../Page/ジー・モード.md "wikilink") (G-mode)より配信された[携帯電話](../Page/携帯電話.md "wikilink")向けの[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")、およびシリーズ名である。
 
 ## 概要
 
-「mystia」は、[2002年](../Page/2002年.md "wikilink")9月にJ-phone（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）で[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")初の100円RPGとして配信をはじめ、わずか一か月で10万ダウンロードを記録。その後[2004年](../Page/2004年.md "wikilink")9月にボーダフォン（現ソフトバンクモバイル）で、「mystia2前編・後編」と2つのアプリに分かれた続編と同時に、「mystiaハイクオリティー版」という前作のグラフィック強化版が配信される。その後[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[auへの提供](../Page/Au_\(携帯電話\).md "wikilink")。[2005年](../Page/2005年.md "wikilink")には「mystia2完全版」がボーダフォンソフトバンクモバイルで配信。[2006年](../Page/2006年.md "wikilink")3月にはボーダフォン（現ソフトバンクモバイル）で、「mystia3」が配信される。現在ソフトバンクモバイルのみで50万ダウンロードを記録する。開発は[ジー・モード](../Page/ジー・モード.md "wikilink")、[モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")で行っている。
+「mystia」は、[2002年](../Page/2002年.md "wikilink")9月にJ-phone（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）で[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")初の100円RPGとして配信をはじめ、わずか一か月で10万ダウンロードを記録。その後[2004年](../Page/2004年.md "wikilink")9月にボーダフォン（現ソフトバンクモバイル）で、「mystia2前編・後編」と2つのアプリに分かれた続編と同時に、「mystiaハイクオリティー版」という前作のグラフィック強化版が配信される。その後[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[auへの提供](../Page/Au_\(携帯電話\).md "wikilink")。[2005年](../Page/2005年.md "wikilink")には「mystia2完全版」がボーダフォンソフトバンクモバイルで配信。[2006年](../Page/2006年.md "wikilink")3月にはボーダフォン（現ソフトバンクモバイル）で、「mystia3」が配信されソフトバンクモバイルのみで50万ダウンロードを記録する。
 
 ## システム
 
@@ -126,13 +126,10 @@
   - [鈴木香織](https://ja.wikipedia.org/wiki/鈴木香織 "wikilink")（キャラクターデザイン）
   - 早坂匠（サウンド）
 
-## 関連項目
-
-  - [ジー・モード](../Page/ジー・モード.md "wikilink")
-  - [モバイル&ゲームスタジオ](https://ja.wikipedia.org/wiki/モバイル&ゲームスタジオ "wikilink")
-
 ## 外部リンク
 
-  - [mystia3オフィシャルHP](http://www.g-mode.jp/title/mystia/)
+  - [mystia 公式サイト](https://web.archive.org/web/20111013002308/http://g-mode.jp/title/mystia/mystia1.html)（アーカイブ）
+  - [mystia2 公式サイト](https://web.archive.org/web/20111124224836/http://g-mode.jp/title/mystia/mystia2.html)（アーカイブ）
+  - [mystia3 公式サイト](https://web.archive.org/web/20130223055756/http://www.g-mode.jp/title/mystia/)（アーカイブ）
 
-[Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink")
+[Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ジー・モードのゲームソフト](https://ja.wikipedia.org/wiki/Category:ジー・モードのゲームソフト "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")

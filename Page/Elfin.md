@@ -28,7 +28,7 @@
 6.  **ラスト・シークエンス**
       - 作詞：青木景子、作曲・編曲：佐藤準
 7.  **SAYONARAの行方**
-      - 作詞：青木景子、作曲：[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")、編曲：[奈良部匠平](../Page/奈良部匠平.md "wikilink")
+      - 作詞：青木景子、作曲：[佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink")、編曲：[奈良部匠平](../Page/奈良部匠平.md "wikilink")
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")『[ワールドクイズ ザ・びっくり地球人\!](../Page/ワールドクイズ_ザ・びっくり地球人!.md "wikilink")』のエンディングテーマ曲に使用された。
 8.  **光の夢**
       - 作詞：佐藤純子、作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲：奈良部匠平

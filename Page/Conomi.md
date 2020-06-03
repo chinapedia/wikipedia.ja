@@ -186,7 +186,7 @@
 
 ### CF
 
-  - [早慶外語ゼミ](../Page/早慶外語ゼミ.md "wikilink")（2007年3月6日 - 、[首都圏のみ](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")）- 表久禎（[速水もこみち](../Page/速水もこみち.md "wikilink")の弟）と共演
+  - [早慶外語ゼミ](../Page/早慶外語ゼミ.md "wikilink")（2007年3月6日 - 、[首都圏のみ](../Page/首都圏_\(日本\).md "wikilink")）- 表久禎（[速水もこみち](../Page/速水もこみち.md "wikilink")の弟）と共演
 
 ### イベント
 

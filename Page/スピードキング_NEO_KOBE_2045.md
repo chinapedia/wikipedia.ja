@@ -25,7 +25,7 @@
 
 『MR.MACHINE』などの様にギターサウンドを多用したハイスピードなテクノ調の曲が特徴。コナミの[レトロゲーム](../Page/レトロゲーム.md "wikilink")曲のフレーズを用いた曲などもある。
 
-アーケード版の作曲者は、『スナッチャー』の作曲も担当した[泉陸奥彦](../Page/泉陸奥彦.md "wikilink")。家庭用の追加曲は[山岡晃](../Page/山岡晃.md "wikilink")が担当。[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")ソフトの時代から多数近未来的な[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")を作曲していた「テクノウチ」こと[竹ノ内裕治](https://ja.wikipedia.org/wiki/竹ノ内裕治 "wikilink")も効果音制作として参加している。
+アーケード版の作曲者は、『スナッチャー』の作曲も担当した[泉陸奥彦](../Page/泉陸奥彦.md "wikilink")。家庭用の追加曲は[山岡晃](../Page/山岡晃.md "wikilink")が担当。[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")ソフトの時代から多数近未来的な[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")を作曲していた「テクノウチ」こと[竹ノ内裕治](../Page/竹ノ内裕治.md "wikilink")も効果音制作として参加している。
 
 ### サウンドトラック
 

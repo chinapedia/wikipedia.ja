@@ -8,6 +8,7 @@
   - [AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")（元[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）の、作詞家としてのデビュー作である。
   - 初のノンタイアップ曲。
   - [PVは](../Page/ミュージック・ビデオ.md "wikilink")2番の歌詞が省略されたバージョンである。
+  - 2020年5月時点、カップリング曲はアルバム未収録。
 
 ## 収録曲
 

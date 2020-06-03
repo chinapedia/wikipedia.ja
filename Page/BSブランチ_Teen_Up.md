@@ -39,7 +39,7 @@
   - ＃4 （[4月28日](../Page/4月28日.md "wikilink")） 「[シュレック3](../Page/シュレック3.md "wikilink")」、「[オレンジレンジ](../Page/ORANGE_RANGE.md "wikilink")/[イカSUMMER](../Page/イカSUMMER.md "wikilink")」
   - ＃5 （[5月5日](../Page/5月5日.md "wikilink")・[12日](../Page/5月12日.md "wikilink")） なし（MEILINとTeen Upガールの番組未放送ティーントーク）
   - ＃6 （[5月19日](../Page/5月19日.md "wikilink")・[26日](../Page/5月26日.md "wikilink")） 「[女帝 ［エンペラー］](../Page/女帝_［エンペラー］.md "wikilink")」、「[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")/[Denim](../Page/Denim.md "wikilink")」
-  - ＃7 （[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")・23日） 「[ハリー・ポッターと不死鳥の騎士団](../Page/ハリー・ポッターと不死鳥の騎士団.md "wikilink")」、「[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")/恋しよう♪」
+  - ＃7 （[6月2日](../Page/6月2日.md "wikilink")・23日） 「[ハリー・ポッターと不死鳥の騎士団](../Page/ハリー・ポッターと不死鳥の騎士団.md "wikilink")」、「[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")/恋しよう♪」
 
 ## その他
 

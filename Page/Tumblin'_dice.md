@@ -6,11 +6,11 @@
 ## 解説
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月17日](../Page/6月17日.md "wikilink")にリリース。本人出演の「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMソング。
-  - [ORUMOK RECORDS](../Page/ORUMOK_RECORDS.md "wikilink")（[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")）から[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")への移籍第一弾シングル。当時移籍金は30億とも言われた。
+  - [ORUMOK RECORDS](../Page/ORUMOK_RECORDS.md "wikilink")（[パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")）から[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")への移籍第一弾シングル。当時移籍金は30億とも言われた}}。
   - 前作シングルカットの「[YOU DON'T GIVE UP](../Page/YOU_DON'T_GIVE_UP.md "wikilink")」から約2ヶ月ぶり、新曲としては「[たのしく たのしく やさしくね](../Page/たのしく_たのしく_やさしくね.md "wikilink")」以来9ヶ月ぶりのシングルとなった。
-  - オリコン初登場2位。1位は当時人気絶頂だった[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")[FOREVER YOURSであり](../Page/FOREVER_YOURS.md "wikilink")、これは脱小室戦略を図っていた[エイベックスによるものであった](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。新曲(シングルカットは除き)「[save your dream](https://ja.wikipedia.org/wiki/save_your_dream "wikilink")」から続く初登場1位記録はストップした。
+  - オリコン初登場2位\[1\]。
   - PVは赤いサイコロの中のソファーで歌っているという凝った作品であるが、未だこの映像は商品化されていない。
-  - 歌詞のモチーフは「[すうじのうた](https://ja.wikipedia.org/wiki/すうじのうた "wikilink")」から引用している\[1\]。
+  - 歌詞のモチーフは「[すうじのうた](https://ja.wikipedia.org/wiki/すうじのうた "wikilink")」から引用している\[2\]。
   - 「tumblin' dice」とは「ダイス（サイコロ）を転がせ」という意味で、「いちかばちか勝負に出てみろよ」という意味がこめられている（[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")より）。
 
 ## 収録曲
@@ -71,4 +71,5 @@
 
 [Category:華原朋美の楽曲](https://ja.wikipedia.org/wiki/Category:華原朋美の楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:桃の天然水のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:桃の天然水のコマーシャルソング "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")
 
-1.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1998年7月5日号20Pより。
+1.  1位は当時人気絶頂だった[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")「[FOREVER YOURS](../Page/FOREVER_YOURS.md "wikilink")」
+2.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1998年7月5日号20Pより。

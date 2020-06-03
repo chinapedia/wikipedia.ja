@@ -9,7 +9,7 @@
 
 [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の携帯電話「FOMA 900i」シリーズで「[着うた](../Page/着うた.md "wikilink")」として採用されている[ファイル形式でもある](../Page/ファイルフォーマット.md "wikilink")。
 
-一般にAMRと言えば**AMR-NB**（Narrowband）のことを指すが、AMR-NBを発展させた[AMR-WB](../Page/AMR-WB.md "wikilink")（Wideband）、[AMR-WB+](https://ja.wikipedia.org/wiki/AMR-WB+ "wikilink")というコーデックも存在する。
+AMRを発展させた[AMR-WB](../Page/AMR-WB.md "wikilink")（Wideband）や[AMR-WB+](https://ja.wikipedia.org/wiki/AMR-WB+ "wikilink")というコーデックが登場したことにより、呼び分けの為にAMRを**AMR-NB**（Narrowband）と呼ぶことがある。
 
 ## 関連項目
 

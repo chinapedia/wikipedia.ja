@@ -26,11 +26,17 @@
 ## アニメ
 
   - [くりいむレモン New Generation](../Page/くりいむレモン.md "wikilink")（2006年）
-  - [ふたりエッチ](../Page/ふたりエッチ.md "wikilink")（2014年）
+  - [ふたりエッチ](https://ja.wikipedia.org/wiki/ふたりエッチ#アニメーション "wikilink")（第3期 Ep.1 - 3、2014年）
 
 ## ドラマ・映画
 
   - [AMG動物ドラマシリーズ](https://ja.wikipedia.org/wiki/AMG動物ドラマシリーズ "wikilink")
+  - [ふたりエッチ](https://ja.wikipedia.org/wiki/ふたりエッチ#実写映画 "wikilink")（[実写映画、2011 - 2012年、4作品](https://ja.wikipedia.org/wiki/ふたりエッチ#2011年の映画 "wikilink")）（[実写映画、2019年、2作品](https://ja.wikipedia.org/wiki/ふたりエッチ#2019年の映画 "wikilink")）
+  - [ジョーカーゲーム](https://ja.wikipedia.org/wiki/ジョーカーゲーム "wikilink")（2012年）
+  - [ジョーカーゲーム 脱出](https://ja.wikipedia.org/wiki/ジョーカーゲーム#ジョーカーゲーム_脱出 "wikilink")（2013年）
+  - スキマスキ（2015年、原作：[宇仁田ゆみ](../Page/宇仁田ゆみ.md "wikilink")、監督・脚本：[吉田浩太](https://ja.wikipedia.org/wiki/吉田浩太 "wikilink")、出演：[町田啓太](https://ja.wikipedia.org/wiki/町田啓太 "wikilink")、[佐々木心音](https://ja.wikipedia.org/wiki/佐々木心音 "wikilink")、[中村映里子](../Page/中村映里子.md "wikilink")、[八木将康](https://ja.wikipedia.org/wiki/八木将康 "wikilink")、久住翠希ほか）
+  - [おいしい給食](https://ja.wikipedia.org/wiki/おいしい給食 "wikilink")（2019年、[独立局系](https://ja.wikipedia.org/wiki/独立局系 "wikilink")TVドラマ）
+  - [劇場版 おいしい給食 Final Battle](https://ja.wikipedia.org/wiki/おいしい給食#映画 "wikilink")（2020年3月、劇場公開・配信映画）
 
 ## 出典
 

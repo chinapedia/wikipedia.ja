@@ -93,7 +93,7 @@
 </tr>
 <tr class="even">
 <td><p>ヒンジス本部長</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビル・デューク" title="wikilink">ビル・デューク</a></p></td>
+<td><p><a href="../Page/ビル・デューク.md" title="wikilink">ビル・デューク</a></p></td>
 <td><p><a href="../Page/斎藤志郎.md" title="wikilink">斎藤志郎</a></p></td>
 </tr>
 <tr class="odd">
@@ -170,7 +170,7 @@
 ## スタッフ
 
   - 製作：[ジョエル・シルバー](../Page/ジョエル・シルバー.md "wikilink")/ダン・クラッキオーロ
-  - 監督：[アンジェイ・バートコウィアク](https://ja.wikipedia.org/wiki/アンジェイ・バートコウィアク "wikilink")
+  - 監督：[アンジェイ・バートコウィアク](../Page/アンジェイ・バートコウィアク.md "wikilink")
   - 原作：ジョン・ウェスタマン
   - 脚本：エド・ホロウィッツ/リチャード・ドービディオ
   - 撮影：[グレン・マクファーソン](https://ja.wikipedia.org/wiki/グレン・マクファーソン "wikilink")

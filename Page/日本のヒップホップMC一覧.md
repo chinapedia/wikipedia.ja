@@ -24,8 +24,9 @@
   - [AMIDA](../Page/アミダ_\(ミュージシャン\).md "wikilink") (ex. NOTABLE MC, [韻踏合組合](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink"))
   - [ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink") ([Romancrew](../Page/Romancrew.md "wikilink"))
   - あるぱちかぶと
-  - [ANTY the 紅乃壱](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink")
+  - [ANTY the 紅乃壱](../Page/ANTY_the_紅乃壱.md "wikilink")
   - Authority
+  - Awich
 
 ### い
 
@@ -41,7 +42,7 @@
   - [ILMARI](../Page/ILMARI.md "wikilink") ([RIP SLYME](../Page/RIP_SLYME.md "wikilink"), [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink"), [The Beatmoss](https://ja.wikipedia.org/wiki/The_Beatmoss "wikilink"), ex. [Steady\&Co.](../Page/Steady&Co..md "wikilink"))
   - [imiga](https://ja.wikipedia.org/wiki/imiga "wikilink")（[カイワレハンマー](https://ja.wikipedia.org/wiki/カイワレハンマー "wikilink")）
   - ILLMURA
-  - [イルリメ](../Page/イルリメ.md "wikilink") ([カクバリズム](https://ja.wikipedia.org/wiki/カクバリズム "wikilink"))
+  - [イルリメ](../Page/イルリメ.md "wikilink") ([カクバリズム](../Page/カクバリズム.md "wikilink"))
   - INHA (JUNK BEAT TOKYO)
   - [韻マン](https://ja.wikipedia.org/wiki/韻マン "wikilink")(一二三屋)
 
@@ -138,6 +139,7 @@
   - [QN](https://ja.wikipedia.org/wiki/菊地一谷 "wikilink") (MUTANTANERS, ex. [SIMI LAB](https://ja.wikipedia.org/wiki/SIMI_LAB "wikilink"))
   - [CUEZERO](../Page/CUEZERO.md "wikilink") ([BY PHAR THE DOPEST](../Page/BY_PHAR_THE_DOPEST.md "wikilink"))
   - CUTE ([Da.Me.Records](../Page/Da.Me.Records.md "wikilink"))
+  - Kyomo THE HANNARI
   - キリコ (ex. [ダイダラボッチ](https://ja.wikipedia.org/wiki/ダイダラボッチ_\(ユニット\) "wikilink"))
   - [KIN](../Page/KIN.md "wikilink") ([MELLOW YELLOW](../Page/MELLOW_YELLOW.md "wikilink"))
   - KINDA SHER ROCK (CYPHER BREAKA)
@@ -410,7 +412,7 @@
 
 ### は
 
-  - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") ([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"), [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink"), [HONEST BOYZ](https://ja.wikipedia.org/wiki/HONEST_BOYZ "wikilink"))
+  - [VERBAL](../Page/VERBAL.md "wikilink") ([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"), [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink"), [HONEST BOYZ](https://ja.wikipedia.org/wiki/HONEST_BOYZ "wikilink"))
   - [HAIIRO DE ROSSI](https://ja.wikipedia.org/wiki/HAIIRO_DE_ROSSI "wikilink") (forte)
   - BUZZ (EIGHT TRACK)
   - はなび ([Da.Me.Records](../Page/Da.Me.Records.md "wikilink"))
@@ -503,8 +505,8 @@
   - Mr.麿 (stillichimiya)
   - ミメイ
   - [Mr.Low-D](https://ja.wikipedia.org/wiki/Mr.Low-D "wikilink")
-  - MINESIN-HOLD ([走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink"))
-  - [三善/善三](https://ja.wikipedia.org/wiki/三善出 "wikilink") ([走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink"), ex. [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink"))
+  - MINESIN-HOLD ([走馬党](../Page/走馬党.md "wikilink"))
+  - [三善/善三](https://ja.wikipedia.org/wiki/三善出 "wikilink") ([走馬党](../Page/走馬党.md "wikilink"), ex. [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink"))
   - Mili (Naked Artz)
   - MINT (ex. [韻踏合組合](https://ja.wikipedia.org/wiki/韻踏合組合 "wikilink"))
   - MIKA (ex. twenty4-7)

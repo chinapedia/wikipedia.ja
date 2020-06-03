@@ -299,12 +299,17 @@ Apple Pay に対応している Apple Watch は、次の通りである\[10\]。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/住信SBIネット銀行" title="wikilink">住信SBIネット銀行</a></p></td>
+<td><p><a href="../Page/住信SBIネット銀行.md" title="wikilink">住信SBIネット銀行</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/トマト銀行.md" title="wikilink">トマト銀行</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/楽天銀行.md" title="wikilink">楽天銀行</a></p></td>
 <td></td>
 <td></td>
 </tr>

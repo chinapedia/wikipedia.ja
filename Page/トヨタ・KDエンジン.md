@@ -17,7 +17,7 @@
 
 [水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[DOHC](../Page/DOHC.md "wikilink")[ターボ](../Page/ターボチャージャー.md "wikilink") 電子制御コモンレール筒内直接噴射
 
-なおトヨタ製の[プレジャーボート](https://ja.wikipedia.org/wiki/プレジャーボート "wikilink")に搭載される「M1KD-V」は本エンジンをベースに開発されたものである。
+なおトヨタ製の[プレジャーボート](../Page/プレジャーボート.md "wikilink")に搭載される「M1KD-V」は本エンジンをベースに開発されたものである。
 
 ### 1KD-FTV - 3000cc
 

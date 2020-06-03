@@ -100,7 +100,7 @@
 
   - [小松奈央](https://ja.wikipedia.org/wiki/小松奈央_\(プロレスラー\) "wikilink")
   - [カルロス天野](../Page/カルロス天野.md "wikilink")
-  - [紫雷美央](https://ja.wikipedia.org/wiki/紫雷美央 "wikilink")（[アイスリボン](../Page/アイスリボン.md "wikilink")、[プロレスリングWAVE](https://ja.wikipedia.org/wiki/プロレスリングWAVE "wikilink")、[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")兼任所属）
+  - [紫雷美央](../Page/紫雷美央.md "wikilink")（[アイスリボン](../Page/アイスリボン.md "wikilink")、[プロレスリングWAVE](https://ja.wikipedia.org/wiki/プロレスリングWAVE "wikilink")、[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")兼任所属）
   - [永島千佳世](../Page/永島千佳世.md "wikilink")
   - [西尾美香](../Page/西尾美香.md "wikilink")
   - [ダイナマイト関西](../Page/ダイナマイト・関西.md "wikilink")

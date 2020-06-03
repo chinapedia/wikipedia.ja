@@ -27,7 +27,7 @@
 
 ## 収録アルバム
 
-  - [ATTITUDE](https://ja.wikipedia.org/wiki/ATTITUDE_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1）
+  - [ATTITUDE](../Page/ATTITUDE_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1）
   - [Movies\&Remixies 4](https://ja.wikipedia.org/wiki/Movies&Remixies_4 "wikilink")（\#3)
 
 [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")

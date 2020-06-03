@@ -8,7 +8,7 @@
 [アジ化ナトリウム](../Page/アジ化ナトリウム.md "wikilink")と[硝酸銀](https://ja.wikipedia.org/wiki/硝酸銀 "wikilink")から合成される\[1\]。
 
   -
-    <ce>NaN3\\ + AgNO3 -\> AgN3\\ + NaNO3</ce>
+    <chem>NaN3\\ + AgNO3 -\> AgN3\\ + NaNO3</chem>
 
 ## 出典
 

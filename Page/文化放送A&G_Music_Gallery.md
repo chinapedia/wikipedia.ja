@@ -123,19 +123,19 @@
 
 #### 4月28日放送（1998年）
 
-| 曲名                                                                      | アーティスト                                                                       | 概要                                                              |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **[ロマンス](../Page/ロマンス.md "wikilink")**                                  | [PENICILLIN](../Page/PENICILLIN.md "wikilink")                               | TVアニメ「\[\[セクシーコマンドー外伝_すごいよ                                     |
-| **IN MY DREAM**                                                         | [真行寺恵里](../Page/真行寺恵里.md "wikilink")                                         | TVアニメ「[ブレンパワード](../Page/ブレンパワード.md "wikilink")」OP               |
-| **[Birth](https://ja.wikipedia.org/wiki/Birth_\(奥井雅美の曲\) "wikilink")**  | [奥井雅美](../Page/奥井雅美.md "wikilink")                                           | TVアニメ「[アキハバラ電脳組](../Page/アキハバラ電脳組.md "wikilink")」OP             |
-| **THE REAL FOLK BLUES**                                                 | [山根麻衣](../Page/山根麻以.md "wikilink")                                           | TVアニメ「[カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")」ED           |
-| **[〜infinity〜∞](../Page/〜infinity〜∞.md "wikilink")**                    | [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")                      | TVアニメ「[ロスト・ユニバース](../Page/ロスト・ユニバース.md "wikilink")」OP           |
-| **[奇跡の海](../Page/奇跡の海_\(曲\).md "wikilink")**                            | [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")                        | TVアニメ「[ロードス島戦記-英雄騎士伝-](../Page/ロードス島戦記-英雄騎士伝-.md "wikilink")」OP |
-| **[Looking For](https://ja.wikipedia.org/wiki/Looking_For "wikilink")** | [國府田マリ子](../Page/國府田マリ子.md "wikilink")                                       | 映画「Looking For」テーマソング                                           |
-| **パレード**                                                                | [水野愛日](../Page/水野愛日.md "wikilink")                                           | ラジオ 「水野愛日のHARA PECO PIE\!」 初代OP                                 |
-| **[Catch You Catch Me](../Page/Catch_You_Catch_Me.md "wikilink")**      | グミ（[日向めぐみ](../Page/日向めぐみ.md "wikilink")）                                     | TVアニメ「[カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")」初代OP     |
-| **[夢の中へ](../Page/夢の中へ.md "wikilink")**\[3\]                             | [榎本温子](../Page/榎本温子.md "wikilink")、[鈴木千尋](../Page/鈴木千尋_\(声優\).md "wikilink") | TVアニメ「[彼氏彼女の事情](../Page/彼氏彼女の事情.md "wikilink")」ED               |
-|                                                                         |                                                                              |                                                                 |
+| 曲名                                                                     | アーティスト                                                                       | 概要                                                              |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **[ロマンス](../Page/ロマンス.md "wikilink")**                                 | [PENICILLIN](../Page/PENICILLIN.md "wikilink")                               | TVアニメ「\[\[セクシーコマンドー外伝_すごいよ                                     |
+| **IN MY DREAM**                                                        | [真行寺恵里](../Page/真行寺恵里.md "wikilink")                                         | TVアニメ「[ブレンパワード](../Page/ブレンパワード.md "wikilink")」OP               |
+| **[Birth](https://ja.wikipedia.org/wiki/Birth_\(奥井雅美の曲\) "wikilink")** | [奥井雅美](../Page/奥井雅美.md "wikilink")                                           | TVアニメ「[アキハバラ電脳組](../Page/アキハバラ電脳組.md "wikilink")」OP             |
+| **THE REAL FOLK BLUES**                                                | [山根麻衣](../Page/山根麻以.md "wikilink")                                           | TVアニメ「[カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")」ED           |
+| **[〜infinity〜∞](../Page/〜infinity〜∞.md "wikilink")**                   | [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")                      | TVアニメ「[ロスト・ユニバース](../Page/ロスト・ユニバース.md "wikilink")」OP           |
+| **[奇跡の海](../Page/奇跡の海_\(曲\).md "wikilink")**                           | [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")                        | TVアニメ「[ロードス島戦記-英雄騎士伝-](../Page/ロードス島戦記-英雄騎士伝-.md "wikilink")」OP |
+| **[Looking For](../Page/Looking_For.md "wikilink")**                   | [國府田マリ子](../Page/國府田マリ子.md "wikilink")                                       | 映画「Looking For」テーマソング                                           |
+| **パレード**                                                               | [水野愛日](../Page/水野愛日.md "wikilink")                                           | ラジオ 「水野愛日のHARA PECO PIE\!」 初代OP                                 |
+| **[Catch You Catch Me](../Page/Catch_You_Catch_Me.md "wikilink")**     | グミ（[日向めぐみ](../Page/日向めぐみ.md "wikilink")）                                     | TVアニメ「[カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")」初代OP     |
+| **[夢の中へ](../Page/夢の中へ.md "wikilink")**\[3\]                            | [榎本温子](../Page/榎本温子.md "wikilink")、[鈴木千尋](../Page/鈴木千尋_\(声優\).md "wikilink") | TVアニメ「[彼氏彼女の事情](../Page/彼氏彼女の事情.md "wikilink")」ED               |
+|                                                                        |                                                                              |                                                                 |
 
 #### 5月5日放送（1999年）
 
@@ -163,15 +163,15 @@
 
 #### 5月19日放送（2001年）
 
-| 曲名                                                                                | アーティスト                                                | 概要                                                                                      |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **For フルーツバスケット**                                                                 | [岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink") | TVアニメ「[フルーツバスケット](../Page/フルーツバスケット_\(漫画\).md "wikilink")」OP                            |
-| **[Love Destiny](../Page/Love_Destiny.md "wikilink")**                            | [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink") | TVアニメ「[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")」OP                                 |
-| **花右京メイド隊の歌**                                                                     | 花右京メイド隊\[7\]                                          | TVアニメ「[花右京メイド隊](../Page/花右京メイド隊.md "wikilink")」OP                                       |
-| **ギャラクシー☆Bang\!Bang\!**                                                           | [エンジェル隊](../Page/ムーンエンジェル隊.md "wikilink")             | TVアニメ「[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル_\(アニメ\).md "wikilink")（第1期）」OP                  |
-| **[Over the FANTASY](https://ja.wikipedia.org/wiki/Over_the_FANTASY "wikilink")** | [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink") | TVアニメ「[FF：U 〜ファイナルファンタジー:アンリミテッド〜](../Page/FF：U_〜ファイナルファンタジー:アンリミテッド〜.md "wikilink")」OP |
-| **Sugar Baby Love**                                                               | [石田燿子](../Page/石田燿子.md "wikilink")                    | TVアニメ「[ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")」OP                             |
-|                                                                                   |                                                       |                                                                                         |
+| 曲名                                                             | アーティスト                                                | 概要                                                                                      |
+| -------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **For フルーツバスケット**                                              | [岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink") | TVアニメ「[フルーツバスケット](../Page/フルーツバスケット_\(漫画\).md "wikilink")」OP                            |
+| **[Love Destiny](../Page/Love_Destiny.md "wikilink")**         | [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink") | TVアニメ「[シスター・プリンセス](../Page/シスター・プリンセス.md "wikilink")」OP                                 |
+| **花右京メイド隊の歌**                                                  | 花右京メイド隊\[7\]                                          | TVアニメ「[花右京メイド隊](../Page/花右京メイド隊.md "wikilink")」OP                                       |
+| **ギャラクシー☆Bang\!Bang\!**                                        | [エンジェル隊](../Page/ムーンエンジェル隊.md "wikilink")             | TVアニメ「[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル_\(アニメ\).md "wikilink")（第1期）」OP                  |
+| **[Over the FANTASY](../Page/Over_the_FANTASY.md "wikilink")** | [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink") | TVアニメ「[FF：U 〜ファイナルファンタジー:アンリミテッド〜](../Page/FF：U_〜ファイナルファンタジー:アンリミテッド〜.md "wikilink")」OP |
+| **Sugar Baby Love**                                            | [石田燿子](../Page/石田燿子.md "wikilink")                    | TVアニメ「[ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")」OP                             |
+|                                                                |                                                       |                                                                                         |
 
 #### 5月26日放送（2002年）
 
@@ -341,7 +341,7 @@
 | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | **[COLORS](../Page/COLORS_\(FLOWの曲\).md "wikilink")**           | [FLOW](../Page/FLOW.md "wikilink")                                                                                                           | TVアニメ「[コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")」初代OP |
 | **[ハレ晴レユカイ](https://ja.wikipedia.org/wiki/ハレ晴レユカイ "wikilink")** | [平野綾](../Page/平野綾.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[後藤邑子](https://ja.wikipedia.org/wiki/後藤邑子 "wikilink") | TVアニメ「[涼宮ハルヒの憂鬱](../Page/涼宮ハルヒの憂鬱_\(アニメ\).md "wikilink")」ED         |
-| **[桜キッス](https://ja.wikipedia.org/wiki/桜キッス "wikilink")**       | [河辺千恵子](https://ja.wikipedia.org/wiki/越智千恵子 "wikilink")                                                                                      | TVアニメ「[桜蘭高校ホスト部](../Page/桜蘭高校ホスト部.md "wikilink")」OP                 |
+| **[桜キッス](../Page/桜キッス.md "wikilink")**                          | [河辺千恵子](https://ja.wikipedia.org/wiki/越智千恵子 "wikilink")                                                                                      | TVアニメ「[桜蘭高校ホスト部](../Page/桜蘭高校ホスト部.md "wikilink")」OP                 |
 | **はぴねす\!**                                                      | [村田あゆみ](../Page/村田あゆみ.md "wikilink")                                                                                                         | TVアニメ「[はぴねす\!](../Page/はぴねす!.md "wikilink")」OP                      |
 | **マ・ジ・ヤ・バ**                                                     | 練馬大根ブラザーズ\[10\]                                                                                                                              | TVアニメ「[おろしたてミュージカル 練馬大根ブラザーズ](../Page/練馬大根ブラザーズ.md "wikilink")」OP   |
 | **Last regrets**                                                | [彩菜](../Page/彩菜.md "wikilink")                                                                                                               | TVアニメ「[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")（第2作）」OP          |

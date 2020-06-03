@@ -39,7 +39,7 @@
 
 ## 影響
 
-影響を受けたアーティストは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")と[DEAD ENDのベーシストであるCRAZY](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink") COOL JOE\[2\]。CRAZY COOL JOEとは師弟関係で、彼のことは"師匠"と呼んでいる。CRAZY COOL JOEの影響で、[フライングVのベースを愛用しており](../Page/ギブソン・フライングV.md "wikilink")、特に[青色](https://ja.wikipedia.org/wiki/青色 "wikilink")は一番のお気に入りである。また、彼から[赤のSGベースを数年間借りており](https://ja.wikipedia.org/wiki/赤色 "wikilink")、[ライブでも使用している](../Page/演奏会.md "wikilink")。このベースは、某番組に出演した際、yasuがこのベースを触りまくった際に、「手垢着くやろ、あぁもういい捨てる」と言うと、yasuが「いらないそうなので番組プレゼント\!」と言ったところ焦って「あかん\!それ師匠のベースやから\!」と言って取り返した。
+影響を受けたアーティストは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")と[DEAD ENDのベーシストであるCRAZY](../Page/DEAD_END_\(バンド\).md "wikilink") COOL JOE\[2\]。CRAZY COOL JOEとは師弟関係で、彼のことは"師匠"と呼んでいる。CRAZY COOL JOEの影響で、[フライングVのベースを愛用しており](../Page/ギブソン・フライングV.md "wikilink")、特に[青色](https://ja.wikipedia.org/wiki/青色 "wikilink")は一番のお気に入りである。また、彼から[赤のSGベースを数年間借りており](https://ja.wikipedia.org/wiki/赤色 "wikilink")、[ライブでも使用している](../Page/演奏会.md "wikilink")。このベースは、某番組に出演した際、yasuがこのベースを触りまくった際に、「手垢着くやろ、あぁもういい捨てる」と言うと、yasuが「いらないそうなので番組プレゼント\!」と言ったところ焦って「あかん\!それ師匠のベースやから\!」と言って取り返した。
 
 ## 奏法
 

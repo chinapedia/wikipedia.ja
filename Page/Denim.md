@@ -354,7 +354,9 @@
       -
         1994年発売のシングル『明日の私』のカップリング。薬師丸ひろ子の[1984年](../Page/1984年.md "wikilink")発売のファーストアルバム『古今集』に提供した楽曲のセルフカヴァー。提供からかなり間を空けての本人版が発表された楽曲のひとつ。セルフカヴァーに[ピーター・ポール&マリー](../Page/ピーター・ポール&マリー.md "wikilink")風のハーモニーをつけるというコンセプトで製作されている。歌詞の「女の子はずるいものね」と言う部分があまりにくさすぎて吹き出してしまい目を閉じて歌いきったという逸話がある。余談だが、この楽曲を提供した『古今集』にはシングルカットこそされなかったが同じくまりやの提供した「元気を出して」も収録されている。
 
-### Hey\!Baby
+### クレジット
+
+#### Hey\!Baby
 
   - Words & Music by 竹内まりや
   - Arranged by [山下達郎](../Page/山下達郎.md "wikilink")
@@ -369,7 +371,7 @@
   - c/w 「[シングル・アゲイン](https://ja.wikipedia.org/wiki/シングル・アゲイン "wikilink")」 MOON-779(MOON) Sep, 1989
   - Originally writtern for [森下恵理](https://ja.wikipedia.org/wiki/森下恵理 "wikilink"), 1985
 
-### 夜景
+#### 夜景
 
   - Words & Music by 竹内まりや
   - Arranged by 山下達郎
@@ -388,7 +390,7 @@
 
   - c/w 「[恋の嵐](https://ja.wikipedia.org/wiki/恋の嵐 "wikilink")」 MOON-726(MOON) March, 1986
 
-### 約束
+#### 約束
 
   - Words & Music by 竹内まりや
   - Arranged by 山下達郎
@@ -404,7 +406,7 @@
   - c/w 「[純愛ラプソディ](../Page/純愛ラプソディ.md "wikilink")」 AMDM-6110(MOON) May, 1994
   - Originally writtern for [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink"), 1986
 
-### ミラクル・ラブ
+#### ミラクル・ラブ
 
   - Words & Music by 竹内まりや
   - Arranged by 山下達郎
@@ -424,7 +426,7 @@
   - c/w 「[マンハッタン・キス](../Page/マンハッタン・キス.md "wikilink")」 AMDM-6055(MOON) May, 1992
   - Originally writtern for [牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink"), 1991
 
-### 真冬のデイト
+#### 真冬のデイト
 
   - Words & Music by 竹内まりや
   - Arranged by 山下達郎
@@ -440,7 +442,7 @@
 
   - c/w 「[今夜はHEARTY PARTY](https://ja.wikipedia.org/wiki/今夜はHearty_Party "wikilink")」 AMDM-6155(MOON) Nov, 1995 Originally writtern for 森下恵理, 1985
 
-### トライアングル
+#### トライアングル
 
   - Words & Music by 竹内まりや
   - Arranged by 山下達郎
@@ -455,7 +457,7 @@
   - c/w 「[明日の私](https://ja.wikipedia.org/wiki/明日の私 "wikilink")」 AMDM-6109(MOON) March, 1994
   - Originally writtern for [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink"), 1988
 
-### スタッフ
+#### スタッフ
 
   - Produced and Arranged by [山下達郎](../Page/山下達郎.md "wikilink")
   - Executive Producer : [小杉理宇造](../Page/小杉理宇造.md "wikilink")

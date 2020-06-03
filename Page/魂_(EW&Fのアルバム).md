@@ -13,17 +13,17 @@
 
 ## 参加ミュージシャン
 
-  - ボーカル - [モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")、[フィリップ・ベイリー](../Page/フィリップ・ベイリー.md "wikilink")、[ヴァーダイン・ホワイト](https://ja.wikipedia.org/wiki/ヴァーダイン・ホワイト "wikilink")
+  - ボーカル - [モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")、[フィリップ・ベイリー](../Page/フィリップ・ベイリー.md "wikilink")、[ヴァーダイン・ホワイト](../Page/ヴァーダイン・ホワイト.md "wikilink")
   - [ピアノ](../Page/ピアノ.md "wikilink") - [ラリー・ダン](https://ja.wikipedia.org/wiki/ラリー・ダン "wikilink")、[ジェリー・ピータース](https://ja.wikipedia.org/wiki/ジェリー・ピータース "wikilink")
   - [オルガン](../Page/オルガン.md "wikilink") - [ラリー・ダン](https://ja.wikipedia.org/wiki/ラリー・ダン "wikilink")
   - [モーグ・シンセサイザー](../Page/モーグ・シンセサイザー.md "wikilink") - [ラリー・ダン](https://ja.wikipedia.org/wiki/ラリー・ダン "wikilink")
   - [エレクトリック・ギター](../Page/エレクトリック・ギター.md "wikilink") - [ジョニー・グラハム](https://ja.wikipedia.org/wiki/ジョニー・グラハム "wikilink")、[アル・マッケイ](https://ja.wikipedia.org/wiki/アル・マッケイ "wikilink")
-  - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink") - [ヴァーダイン・ホワイト](https://ja.wikipedia.org/wiki/ヴァーダイン・ホワイト "wikilink")
+  - [エレクトリックベース](../Page/エレクトリックベース.md "wikilink") - [ヴァーダイン・ホワイト](../Page/ヴァーダイン・ホワイト.md "wikilink")
   - [コンガ](../Page/コンガ.md "wikilink") - [フィリップ・ベイリー](../Page/フィリップ・ベイリー.md "wikilink")
   - [カリンバ](../Page/カリンバ.md "wikilink") - [モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")
   - [ティンバレス](../Page/ティンバレス.md "wikilink") - [モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")
   - [ドラムス](../Page/ドラムセット.md "wikilink") - [フレッド・ホワイト](https://ja.wikipedia.org/wiki/フレッド・ホワイト "wikilink")、[ラルフ・ジョンソン](https://ja.wikipedia.org/wiki/ラルフ・ジョンソン "wikilink")、[モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")
-  - [パーカッション](../Page/打楽器.md "wikilink") - [フレッド・ホワイト](https://ja.wikipedia.org/wiki/フレッド・ホワイト "wikilink")、[ラルフ・ジョンソン](https://ja.wikipedia.org/wiki/ラルフ・ジョンソン "wikilink")、[アル・マッケイ](https://ja.wikipedia.org/wiki/アル・マッケイ "wikilink")、[アンドリュー・ウールフォーク](https://ja.wikipedia.org/wiki/アンドリュー・ウールフォーク "wikilink")、[ヴァーダイン・ホワイト](https://ja.wikipedia.org/wiki/ヴァーダイン・ホワイト "wikilink")、[フィリップ・ベイリー](../Page/フィリップ・ベイリー.md "wikilink")、[ハーヴィー・メイソン](../Page/ハーヴィー・メイソン.md "wikilink")
+  - [パーカッション](../Page/打楽器.md "wikilink") - [フレッド・ホワイト](https://ja.wikipedia.org/wiki/フレッド・ホワイト "wikilink")、[ラルフ・ジョンソン](https://ja.wikipedia.org/wiki/ラルフ・ジョンソン "wikilink")、[アル・マッケイ](https://ja.wikipedia.org/wiki/アル・マッケイ "wikilink")、[アンドリュー・ウールフォーク](https://ja.wikipedia.org/wiki/アンドリュー・ウールフォーク "wikilink")、[ヴァーダイン・ホワイト](../Page/ヴァーダイン・ホワイト.md "wikilink")、[フィリップ・ベイリー](../Page/フィリップ・ベイリー.md "wikilink")、[ハーヴィー・メイソン](../Page/ハーヴィー・メイソン.md "wikilink")
   - [サクソフォーン](../Page/サクソフォーン.md "wikilink") - [ドン・マイリック](https://ja.wikipedia.org/wiki/ドン・マイリック "wikilink")、[アンドリュー・ウールフォーク](https://ja.wikipedia.org/wiki/アンドリュー・ウールフォーク "wikilink")
   - [トロンボーン](../Page/トロンボーン.md "wikilink") - [チャーリー・ローパー](https://ja.wikipedia.org/wiki/チャーリー・ローパー "wikilink")、[ジョージ・ボハノン](https://ja.wikipedia.org/wiki/ジョージ・ボハノン "wikilink")、[ルーイ･サタフィールド](https://ja.wikipedia.org/wiki/ルーイ･サタフィールド "wikilink")
   - [バス・トロンボーン](../Page/トロンボーン.md "wikilink") - [ルー・マクリアリ](https://ja.wikipedia.org/wiki/ルー・マクリアリ "wikilink")

@@ -60,7 +60,7 @@ SDカードアダプタの導入は「何らかのカタチで村のデータを
 「[SDカードアダプタ](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ#周辺機器 "wikilink")」を用いることで、以下のようなことが出来る。
 
   - 記念写真の撮影
-    ゲーム中にコントローラのZボタンを押すと、ゲームの記念[写真](../Page/写真.md "wikilink")（[スクリーンショット](https://ja.wikipedia.org/wiki/スクリーンショット "wikilink")）を撮影できる。画像形式は[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")。
+    ゲーム中にコントローラのZボタンを押すと、ゲームの記念[写真](../Page/写真.md "wikilink")（[スクリーンショット](../Page/スクリーンショット.md "wikilink")）を撮影できる。画像形式は[TIFF](../Page/Tagged_Image_File_Format.md "wikilink")。
   - 村の貸し出し
     村の記録を他人に貸し出すことができる。[メール](https://ja.wikipedia.org/wiki/メール "wikilink")などでデータを送り、そのデータを使うことで遠く離れた友人・家族などが送った側の村に「おでかけ」できる。村の記録を返却すると、変更点などがセーブデータに反映される。ただし、村の記録を貸し出すと、村は「ぬけがら状態」となり、村を返却しないでプレイすると、「モチモノ」以外のアイテムはすべて消えてしまう。
 

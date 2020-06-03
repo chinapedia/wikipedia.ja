@@ -15,7 +15,7 @@
 
 2014年4月1日、この時点での運営母体である[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")(TBSHD)は、デジタルラジオへの取り組みを見直すことを理由として同年6月30日をもって放送の休止を公式サイトで発表\[5\]。
 
-2014年6月23日、一転して同年7月以降の放送継続を発表 。音源提供元のナクソス・ジャパンが運営を引き継ぎ、商標「OTTAVA」やドメイン「ottava.jp」についても譲渡を受け、同社が中心となって運営会社を設立することになった\[6\]。なお、OTTAVAの事業譲渡に伴いスタジオは東京・[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")から移転したほか、[TBSテレビ](../Page/TBSテレビ.md "wikilink")・ラジオの公式HPからはOTTAVAへのリンクが削除された。
+2014年6月23日、一転して同年7月以降の放送継続を発表 。音源提供元のナクソス・ジャパンが運営を引き継ぎ、商標「OTTAVA」やドメイン「ottava.jp」についても譲渡を受け、同社が中心となって運営会社を設立することになった\[6\]。なお、OTTAVAの事業譲渡に伴いスタジオは東京・[赤坂サカス](../Page/赤坂サカス.md "wikilink")から移転したほか、[TBSテレビ](../Page/TBSテレビ.md "wikilink")・ラジオの公式HPからはOTTAVAへのリンクが削除された。
 
 第2の開局後のスタジオ(目白スタジオ)は[オービチューン](https://ja.wikipedia.org/wiki/オービチューン "wikilink")内に設置された。また第2の開局後の配信システム、技術支援もオービチューンである。
 
@@ -175,7 +175,7 @@
 <tr class="even">
 <td><p>9:00-12:00</p></td>
 <td><p><strong>OTTAVA Fresca</strong>[51] <small>(オッターヴァ　フレスカ)</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a>(月 - 水)<ref group="注">2018年12月11 - 12日は本田が勤務先の大学の試験のため休演。長井が代演をつとめた。{{Cite web</p></td>
+<td><p><a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a>(月 - 水)<ref group="注">2018年12月11 - 12日は本田が勤務先の大学の試験のため休演。長井が代演をつとめた。{{Cite web</p></td>
 </tr>
 <tr class="odd">
 <td><p>12:00-13:00</p></td>
@@ -319,15 +319,15 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
   - The World of OTTAVA<small>(ザ　ワールド　オブ　オッターヴァ)</small>
     プレゼンターがそれぞれのテーマで選んだ楽曲とトークでOTTAVAのエッセンスを紹介する60分の録音番組\[61\]。
     第1弾は、2014年6月ごろ、OTTAVAのナクソスによる承継が決定した後、7月1日の移管までの間に制作された模様\[62\]。番組数は34本。2018年12月2日現在は、一部の番組を、OTTAVA Premioで有料会員が24時間聴取できる。プレゼンターは[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")。
-    第2弾は、2018年の、オンデマンドシステム開発費用を募る[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")で目標金額を超える資金が集まったことにより、制作が決定。2019年8月23日現在登場しているプレゼンターは、[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")・[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")・[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")・[長井進之介](https://ja.wikipedia.org/wiki/長井進之介 "wikilink")・[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")。
+    第2弾は、2018年の、オンデマンドシステム開発費用を募る[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")で目標金額を超える資金が集まったことにより、制作が決定。2019年8月23日現在登場しているプレゼンターは、[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")・[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")・[本田聖嗣](../Page/本田聖嗣.md "wikilink")・[長井進之介](https://ja.wikipedia.org/wiki/長井進之介 "wikilink")・[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")。
   - Classic High\! <small>(クラシック　ハイ)</small>
-    いつもよりも少し「ハイ」テンションの、プレゼンターのトーク多めの録音番組\[63\]。2018年11月30日まで、ニコニコ動画OTTAVAチャンネルで、有料会員が24時間聴取できた。番組数は12本(2017年3月26日時点)。[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")や[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")による60分のオリジナル番組のほか、ニコニコ動画には『OTTAVA Salone』でのゲストのインタビューを切り出したものや、2015年の[ラ・フォル・ジュルネ会場で公開録音された特別番組](../Page/ラ・フォル・ジュルネ・オ・ジャポン_「熱狂の日」音楽祭.md "wikilink")(メイン・プレゼンターは[高野麻衣](https://ja.wikipedia.org/wiki/高野麻衣 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink"))も登録されていた。
+    いつもよりも少し「ハイ」テンションの、プレゼンターのトーク多めの録音番組\[63\]。2018年11月30日まで、ニコニコ動画OTTAVAチャンネルで、有料会員が24時間聴取できた。番組数は12本(2017年3月26日時点)。[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")や[本田聖嗣](../Page/本田聖嗣.md "wikilink")による60分のオリジナル番組のほか、ニコニコ動画には『OTTAVA Salone』でのゲストのインタビューを切り出したものや、2015年の[ラ・フォル・ジュルネ会場で公開録音された特別番組](../Page/ラ・フォル・ジュルネ・オ・ジャポン_「熱狂の日」音楽祭.md "wikilink")(メイン・プレゼンターは[高野麻衣](https://ja.wikipedia.org/wiki/高野麻衣 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[本田聖嗣](../Page/本田聖嗣.md "wikilink"))も登録されていた。
   - OTTAVA Mall <small>(オッターヴァ　モール)</small>
-    音楽を始めとする文化やライフスタイルについての情報を雑誌感覚で紹介する30分の録音番組。無料。OTTAVA公式サイトとYouTubeのOTTAVAチャンネルで24時間聴取できる\[64\]。2018年7月1日時点で登場しているプレゼンターは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")・[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")・[鈴木優人](https://ja.wikipedia.org/wiki/鈴木優人 "wikilink")\[65\]・[オザワ部長](https://ja.wikipedia.org/wiki/オザワ部長 "wikilink")・[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")。
+    音楽を始めとする文化やライフスタイルについての情報を雑誌感覚で紹介する30分の録音番組。無料。OTTAVA公式サイトとYouTubeのOTTAVAチャンネルで24時間聴取できる\[64\]。2018年7月1日時点で登場しているプレゼンターは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")・[本田聖嗣](../Page/本田聖嗣.md "wikilink")・[鈴木優人](https://ja.wikipedia.org/wiki/鈴木優人 "wikilink")\[65\]・[オザワ部長](https://ja.wikipedia.org/wiki/オザワ部長 "wikilink")・[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")。
   - OTTAVA for You <small>(オッターヴァ　フォー　ユー)</small>
     [ラ・フォル・ジュルネ参加に向けたクラウドファンディングのコレクター](../Page/ラ・フォル・ジュルネ・オ・ジャポン_「熱狂の日」音楽祭.md "wikilink")(支援者)へのリターンとして、コレクターの企画により制作された60分番組。YouTubeのOTTAVAチャンネルで24時間聴取できる。
-    2016年に支援を受けた分は、10月11日に第1弾の5本、11月18日に第2弾の2本、2017年1月12日に第3弾の2本が公開された\[66\]\[67\]。登場したプレゼンターは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")・[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")・227・[石橋和巳](https://ja.wikipedia.org/wiki/石橋和巳 "wikilink")。
-    2017年に支援を受けた分は、2018年1月24日に第1弾の4本が、2月1日に第2弾の1本が、3月28日に第3弾の3本が、4月27日に最後の1本が公開された\[68\]\[69\]。登場したプレゼンターは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")・[石橋和巳](https://ja.wikipedia.org/wiki/石橋和巳 "wikilink")・[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")。
+    2016年に支援を受けた分は、10月11日に第1弾の5本、11月18日に第2弾の2本、2017年1月12日に第3弾の2本が公開された\[66\]\[67\]。登場したプレゼンターは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")・[本田聖嗣](../Page/本田聖嗣.md "wikilink")・227・[石橋和巳](https://ja.wikipedia.org/wiki/石橋和巳 "wikilink")。
+    2017年に支援を受けた分は、2018年1月24日に第1弾の4本が、2月1日に第2弾の1本が、3月28日に第3弾の3本が、4月27日に最後の1本が公開された\[68\]\[69\]。登場したプレゼンターは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")・[石橋和巳](https://ja.wikipedia.org/wiki/石橋和巳 "wikilink")・[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")・[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[本田聖嗣](../Page/本田聖嗣.md "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")。
   - OTTAVA Caffe Selection<small>(オッターヴァ　カフェ　セレクション)</small>
     Classic＆Modernなクラシック音楽の楽曲を独自にミックスした30分弱の番組。TBS時代に制作された。番組数は40本以上とみられる。2018年12月2日現在は、一部の番組を、OTTAVA Premioで有料会員が24時間聴取できる。
   - OTTAVA Presents...<small>(オッターヴァ　プレゼンツ)</small>
@@ -591,7 +591,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 </tr>
 <tr class="odd">
 <td><p>(月 - 金)14:00-15:00</p></td>
-<td><p><strong>The World of OTTAVA</strong><ref group="注" name="LFJ2017_1">2017年5月4日と5日のこの枠では、<a href="../Page/ラ・フォル・ジュルネ・オ・ジャポン_「熱狂の日」音楽祭.md" title="wikilink">ラ・フォル・ジュルネ会場からの生番組が放送された</a>。プレゼンターは<a href="https://ja.wikipedia.org/wiki/林田直樹_(音楽ジャーナリスト)" title="wikilink">林田直樹</a>・<a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a>(4日)、<a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a>・<a href="https://ja.wikipedia.org/wiki/飯田有抄" title="wikilink">飯田有抄</a>(5日)。{{Cite web</p></td>
+<td><p><strong>The World of OTTAVA</strong><ref group="注" name="LFJ2017_1">2017年5月4日と5日のこの枠では、<a href="../Page/ラ・フォル・ジュルネ・オ・ジャポン_「熱狂の日」音楽祭.md" title="wikilink">ラ・フォル・ジュルネ会場からの生番組が放送された</a>。プレゼンターは<a href="https://ja.wikipedia.org/wiki/林田直樹_(音楽ジャーナリスト)" title="wikilink">林田直樹</a>・<a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a>(4日)、<a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a>・<a href="https://ja.wikipedia.org/wiki/飯田有抄" title="wikilink">飯田有抄</a>(5日)。{{Cite web</p></td>
 <td><p>url=<a href="http://ottava.jp/news/2017_0502.html">http://ottava.jp/news/2017_0502.html</a></p></td>
 </tr>
 <tr class="even">
@@ -605,7 +605,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <td><p><a href="https://ja.wikipedia.org/wiki/斎藤茂" title="wikilink">斎藤茂</a><br />
 <a href="https://ja.wikipedia.org/wiki/林田直樹_(音楽ジャーナリスト)" title="wikilink">林田直樹</a><br />
 <a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a><br />
-<a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a><br />
+<a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a><br />
 <a href="https://ja.wikipedia.org/wiki/鈴木優人" title="wikilink">鈴木優人</a><br />
 <a href="https://ja.wikipedia.org/wiki/オザワ部長" title="wikilink">オザワ部長</a><br />
 <a href="https://ja.wikipedia.org/wiki/飯田有抄" title="wikilink">飯田有抄</a><br />
@@ -635,7 +635,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <td><p>(金)23:00-24:00</p></td>
 <td><p><strong>Classic High!</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a><br />
-<a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a></p></td>
+<a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(土)08:00-12:00</p></td>
@@ -776,7 +776,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <td><p><a href="https://ja.wikipedia.org/wiki/斎藤茂" title="wikilink">斎藤茂</a><br />
 <a href="https://ja.wikipedia.org/wiki/林田直樹_(音楽ジャーナリスト)" title="wikilink">林田直樹</a><br />
 <a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a><br />
-<a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a><br />
+<a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a><br />
 <a href="https://ja.wikipedia.org/wiki/鈴木優人" title="wikilink">鈴木優人</a><br />
 <a href="https://ja.wikipedia.org/wiki/オザワ部長" title="wikilink">オザワ部長</a><br />
 (いずれも『OTTAVA Mall』を担当)</p></td>
@@ -812,7 +812,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <td><p>(水)23:00-24:00</p></td>
 <td><p><strong>Classic High!</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a><br />
-<a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a></p></td>
+<a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(木・金)23:00-24:00</p></td>
@@ -833,7 +833,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <tr class="odd">
 <td><p>(土)10:00-13:00</p></td>
 <td><p><strong>PrimeSeat/OTTAVA Liberta</strong> (再放送・月曜日放送分)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a></p></td>
+<td><p><a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(土)17:00-20:00</p></td>
@@ -843,7 +843,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <tr class="odd">
 <td><p>(土)24:00-27:00</p></td>
 <td><p><strong>PrimeSeat/OTTAVA Liberta</strong> (再放送・火曜日放送分)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a></p></td>
+<td><p><a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(日)08:00-11:00</p></td>
@@ -853,7 +853,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <tr class="odd">
 <td><p>(日)11:00-14:00</p></td>
 <td><p><strong>PrimeSeat/OTTAVA Liberta</strong> (再放送・水曜日放送分)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a></p></td>
+<td><p><a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(日)14:00-17:00</p></td>
@@ -887,9 +887,9 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 | 時間             | 番組名                                                                                                                                                                   | プレゼンター                                                              |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| (土)20:00-23:00 | **PrimeSeat/OTTAVA Liberta** (再放送・火曜日放送分)                                                                                                                             | [本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")               |
+| (土)20:00-23:00 | **PrimeSeat/OTTAVA Liberta** (再放送・火曜日放送分)                                                                                                                             | [本田聖嗣](../Page/本田聖嗣.md "wikilink")                                  |
 | (土)23:00-26:00 | **PrimeSeat/OTTAVA Aria** (再放送・水曜日放送分)                                                                                                                                | [ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")             |
-| (日)08:00-11:00 | **PrimeSeat/OTTAVA Liberta** (再放送・水曜日放送分)\[100\]                                                                                                                      | [本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")               |
+| (日)08:00-11:00 | **PrimeSeat/OTTAVA Liberta** (再放送・水曜日放送分)\[100\]                                                                                                                      | [本田聖嗣](../Page/本田聖嗣.md "wikilink")                                  |
 | (日)11:00-14:00 | **PrimeSeat/OTTAVA Aria** (再放送・木曜日放送分)                                                                                                                                | [ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")             |
 | (日)14:00-17:00 | **PrimeSeat/OTTAVA Liberta** (再放送・木曜日放送分)\[101\]                                                                                                                      | [林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink") |
 | (日)17:00-20:00 | **PrimeSeat/OTTAVA Aria** (再放送・金曜日放送分)\[102\]2016年5月29日は、17:00-19:00に『Contemporary Classics』が、19:00-23:00にラ・フォル・ジュルネ・オ・ジャポンの総集編となる特別生番組が放送された。プレゼンターは斎藤と飯田。{{Cite web | url=<http://ottava.jp/news/2016_0527.html>                          |
@@ -922,7 +922,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <tr class="odd">
 <td><p>(土)11:00-14:00</p></td>
 <td><p><strong>PrimeSeat/OTTAVA Liberta</strong>(再放送・月曜日放送分)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a></p></td>
+<td><p><a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(土)14:00-17:00</p></td>
@@ -989,14 +989,14 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <td><p><a href="https://ja.wikipedia.org/wiki/斎藤茂" title="wikilink">斎藤茂</a>(月)<br />
 <a href="https://ja.wikipedia.org/wiki/森雄一" title="wikilink">森雄一</a>(火)<br />
 <a href="https://ja.wikipedia.org/wiki/林田直樹_(音楽ジャーナリスト)" title="wikilink">林田直樹</a>(水)<br />
-<a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a>(木)<br />
+<a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a>(木)<br />
 <a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a>(金)</p></td>
 </tr>
 <tr class="even">
 <td><p>(月 - 金)19:00-23:00</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/OTTAVA_Salone" title="wikilink">OTTAVA Salone</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/林田直樹_(音楽ジャーナリスト)" title="wikilink">林田直樹</a>(月)<br />
-<a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a>(火)<br />
+<a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a>(火)<br />
 <a href="https://ja.wikipedia.org/wiki/ゲレン大嶋" title="wikilink">ゲレン大嶋</a>(水)<br />
 <a href="https://ja.wikipedia.org/wiki/斎藤茂" title="wikilink">斎藤茂</a>(木)<br />
 <a href="https://ja.wikipedia.org/wiki/森雄一" title="wikilink">森雄一</a>(金)</p></td>
@@ -1004,7 +1004,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <tr class="odd">
 <td><p>(土)08:00-12:00</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/OTTAVA_Salone" title="wikilink">OTTAVA Salone</a></strong>(再放送)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田聖嗣" title="wikilink">本田聖嗣</a></p></td>
+<td><p><a href="../Page/本田聖嗣.md" title="wikilink">本田聖嗣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(土)13:00-17:00</p></td>
@@ -1159,11 +1159,11 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 #### 2014年3月末まで
 
-| 時間                 | 番組名                                                                                                                                                                                                                                                                                       | プレゼンター                                                                               |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| (月 - 金)17:30-18:00 | **Caffè bleu**<small> (カフェ ブルー)</small>                                                                                                                                                                                                                                                   |                                                                                      |
-| (土)10:00-11:00     | **OTTAVA atrio**<small> (オッターヴァ　アートリオ)</small><ref group="注">2014年1月4日 - 3月29日に放送。[赤坂Bizタワー](https://ja.wikipedia.org/wiki/赤坂Bizタワー "wikilink")の[アトリウム](../Page/アトリウム.md "wikilink")・ステージで毎週開催されたライヴイベントの模様を1週間後に配信。「atrio」はイタリア語で「アトリウム」の意。期間限定の番組だったためか、当時のタイムテーブルには掲載されていない。{{Cite web | url=<http://web.archive.org/web/20140218025517/http://ottava.jp/news/2013_1216.html> |
-| (日)10:00-14:00     | **OTTAVA amoroso**\[107\]                                                                                                                                                                                                                                                                 | [林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")                  |
+| 時間                 | 番組名                                                                                                                                                                                                                                                                    | プレゼンター                                                                               |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| (月 - 金)17:30-18:00 | **Caffè bleu**<small> (カフェ ブルー)</small>                                                                                                                                                                                                                                |                                                                                      |
+| (土)10:00-11:00     | **OTTAVA atrio**<small> (オッターヴァ　アートリオ)</small><ref group="注">2014年1月4日 - 3月29日に放送。[赤坂Bizタワー](../Page/赤坂Bizタワー.md "wikilink")の[アトリウム](../Page/アトリウム.md "wikilink")・ステージで毎週開催されたライヴイベントの模様を1週間後に配信。「atrio」はイタリア語で「アトリウム」の意。期間限定の番組だったためか、当時のタイムテーブルには掲載されていない。{{Cite web | url=<http://web.archive.org/web/20140218025517/http://ottava.jp/news/2013_1216.html> |
+| (日)10:00-14:00     | **OTTAVA amoroso**\[107\]                                                                                                                                                                                                                                              | [林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")                  |
 
 #### 2013年4月末まで
 
@@ -1388,7 +1388,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 第2の開局後のこの年は、再び会場内にスタジオを設置。コンサートの出演者や関係者をゲストに迎えて、録音番組の公開収録を行った\[130\]。番組は翌日の『OTTAVA Domenica\[131\]』『[OTTAVA Salone](https://ja.wikipedia.org/wiki/OTTAVA_Salone "wikilink")』枠で放送されたほか、『Clsssic High\!』の番組としてニコニコ動画OTTAVAチャンネルに登録された。費用はOTTAVAスポンサーシップ\[132\]で集まった寄付金をあてた。
 
-メイン・プレゼンターは[高野麻衣](https://ja.wikipedia.org/wiki/高野麻衣 "wikilink")(収録日：5月2日\[133\])、[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")(3日)、[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")(4日)。
+メイン・プレゼンターは[高野麻衣](https://ja.wikipedia.org/wiki/高野麻衣 "wikilink")(収録日：5月2日\[133\])、[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")(3日)、[本田聖嗣](../Page/本田聖嗣.md "wikilink")(4日)。
 
 ### 2016年
 
@@ -1396,7 +1396,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 2016年3月18日から4月27日、[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")サイト・[MotionGallery](https://ja.wikipedia.org/wiki/MotionGallery "wikilink")にて、番組の制作や送出に必要な費用の寄付を募集した\[137\]\[138\]。録音番組の公開収録が可能な100万円を3月23日に、公開生放送が可能な250万円を4月13日に、生放送に加えて総集編となる特別番組が制作できる350万円を4月26日に達成。最終的には、のべ455人から385万1000円が寄せられた。
 
-ラ・フォル・ジュルネ・オ・ジャポンが開催された5月3日から5日、会場内に特設スタジオを設け、『PrimeSeat/OTTAVA Liberta』枠で公開生放送を行った\[139\]。メイン・プレゼンターは[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")(3日と4日)と[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")(5日)。ルネ・マルタンをはじめ、コンサートの出演者や公式レポートブログ隊の隊員、音楽ライターたちをゲストに迎えた。生放送の模様はニコニコ動画OTTAVAチャンネルに登録された\[140\]\[141\]\[142\]。
+ラ・フォル・ジュルネ・オ・ジャポンが開催された5月3日から5日、会場内に特設スタジオを設け、『PrimeSeat/OTTAVA Liberta』枠で公開生放送を行った\[139\]。メイン・プレゼンターは[本田聖嗣](../Page/本田聖嗣.md "wikilink")(3日と4日)と[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")(5日)。ルネ・マルタンをはじめ、コンサートの出演者や公式レポートブログ隊の隊員、音楽ライターたちをゲストに迎えた。生放送の模様はニコニコ動画OTTAVAチャンネルに登録された\[140\]\[141\]\[142\]。
 
 [IDC大塚家具と](../Page/大塚家具.md "wikilink")[CASIOが協賛企業となった](../Page/カシオ計算機.md "wikilink")\[143\]。当日はIDC大塚家具のベッド「レガリア」や波動スピーカー「グラナダ(M's System)」、CASIOのピアノ「CELVIANO Grand Hybrid」が特設スタジオに設置され、生放送やオフエアイベントで宣伝が行われた。
 
@@ -1410,7 +1410,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 また、同時期に、『[OTTAVA Mall](https://ja.wikipedia.org/wiki/#24時間聴取可能なオリジナル番組 "wikilink")』でルネ・マルタンへのインタビュー番組(プレゼンター：[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink"))\[150\]\[151\]\[152\]を公開した。
 
-ラ・フォル・ジュルネ・オ・ジャポンが開催された5月4日 - 6日、会場内に特設スタジオを設け、公開生放送を行った。プレゼンターは[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")(4日)、[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")・[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")(5日)、[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")・[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")(6日)\[153\]。
+ラ・フォル・ジュルネ・オ・ジャポンが開催された5月4日 - 6日、会場内に特設スタジオを設け、公開生放送を行った。プレゼンターは[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink")・[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")(4日)、[本田聖嗣](../Page/本田聖嗣.md "wikilink")・[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")(5日)、[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")・[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")(6日)\[153\]。
 
 [CASIO](../Page/カシオ計算機.md "wikilink")、[MDパートナーズ](https://ja.wikipedia.org/wiki/MDパートナーズ "wikilink")、[テラダ・ミュージック・スコア](https://ja.wikipedia.org/wiki/テラダ・ミュージック・スコア "wikilink")、[YAMAHAが協賛企業となった](../Page/ヤマハ.md "wikilink")。当日は特設スタジオ脇にブースを設けて「CELVIANO Grand Hybrid」「電子[楽譜](../Page/楽譜.md "wikilink")GVIDO」「mysound」などを展示したほか、番組内やオフエアイベントで宣伝を行った\[154\]。
 
@@ -1430,7 +1430,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 4月30日、『OTTAVA Mall』でルネ・マルタンへのインタビュー番組(プレゼンター：[林田直樹](https://ja.wikipedia.org/wiki/林田直樹_\(音楽ジャーナリスト\) "wikilink"))\[165\]が公開された。
 
-ラ・フォル・ジュルネTOKYOが開催された5月3日 - 5日、公開生番組をオンエアした。会場側のプレゼンターは[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")・[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")(3日)、[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")・[長井進之介](https://ja.wikipedia.org/wiki/長井進之介 "wikilink")(4日)、林田直樹・[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")(5日)。天王洲側は3日間とも[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")が担当した\[166\]\[167\]。
+ラ・フォル・ジュルネTOKYOが開催された5月3日 - 5日、公開生番組をオンエアした。会場側のプレゼンターは[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")・[小室敬幸](https://ja.wikipedia.org/wiki/小室敬幸 "wikilink")(3日)、[本田聖嗣](../Page/本田聖嗣.md "wikilink")・[長井進之介](https://ja.wikipedia.org/wiki/長井進之介 "wikilink")(4日)、林田直樹・[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")(5日)。天王洲側は3日間とも[ゲレン大嶋](https://ja.wikipedia.org/wiki/ゲレン大嶋 "wikilink")が担当した\[166\]\[167\]。
 
 ### 2020年
 
@@ -1454,7 +1454,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 </ref>
 
-  - vol.2 パリのクリスマス〜Christmas in Paris(2014年11月、[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink"))<ref>
+  - vol.2 パリのクリスマス〜Christmas in Paris(2014年11月、[本田聖嗣](../Page/本田聖嗣.md "wikilink"))<ref>
 
 </ref>
 
@@ -1498,7 +1498,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
   - Flowers(演奏：三枝伸太郎 Orquesta de la Esperanza、リリース：2019年8月2日、品番：OTVA-0024)\[199\]
   - マイ・ソングス・フロム・ニューヨーク(演奏：[まきみちる](../Page/槇みちる.md "wikilink")(ヴォーカル)・[ケニー・バロン](../Page/ケニー・バロン.md "wikilink")(ピアノ)・(ベース)・(ドラムス)・[直居隆雄](https://ja.wikipedia.org/wiki/直居隆雄 "wikilink")(ギター)、リリース：2019年11月8日、品番：OTTAVA-10001)\[200\]\[201\]
   - [リスト](../Page/フランツ・リスト.md "wikilink")・[パラフレーズ](../Page/パラフレーズ.md "wikilink")(演奏：[近藤嘉宏](https://ja.wikipedia.org/wiki/近藤嘉宏 "wikilink")(ピアノ)、リリース：2019年12月12日、品番：OTTAVA-10002)\[202\]\[203\]
-  - Je ne t'aime pas　あなたなんか愛していない(演奏：[福田美樹子](https://ja.wikipedia.org/wiki/福田美樹子 "wikilink")(ソプラノ)・[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")(ピアノ)、リリース：2020年4月17日、品番：OTTAVA-10003)\[204\]\[205\]
+  - Je ne t'aime pas　あなたなんか愛していない(演奏：[福田美樹子](https://ja.wikipedia.org/wiki/福田美樹子 "wikilink")(ソプラノ)・[本田聖嗣](../Page/本田聖嗣.md "wikilink")(ピアノ)、リリース：2020年4月17日、品番：OTTAVA-10003)\[204\]\[205\]
 
 #### OTTAVA Selection(vol.5 - )
 
@@ -1527,7 +1527,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <!-- end list -->
 
   -
-    [本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")が選曲・ライナーノーツ<ref>
+    [本田聖嗣](../Page/本田聖嗣.md "wikilink")が選曲・ライナーノーツ<ref>
 
 </ref>を担当。2017年5月17日から31日まで募集。CDが制作可能な60万円を5月29日に達成。最終的には、のべ371人から76万4400円が寄せられた\[211\]。リターン(応援のお礼)の一つとして、「南フランスの車窓から」(本田がフランスのバカンスをテーマにたっぷりと語る「解（怪）説CD-R」)が用意された。また、11月18日には本田による「南フランスのバカンスの回想」をテーマにしたサロンコンサートが開催された\[212\]。
 
@@ -1564,7 +1564,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
       - [与儀巧](https://ja.wikipedia.org/wiki/与儀巧 "wikilink")
       - [村田恵理子](https://ja.wikipedia.org/wiki/村田恵理子 "wikilink")
       - [柳瀬大輔](https://ja.wikipedia.org/wiki/柳瀬大輔 "wikilink")
-      - [本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")
+      - [本田聖嗣](../Page/本田聖嗣.md "wikilink")
       - [coco←musika](https://ja.wikipedia.org/wiki/coco←musika "wikilink")
 
 <!-- end list -->
@@ -1572,7 +1572,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
   - サロンコンサート
     2015年4月から、プレゼンターの企画によるサロンコンサートを開催している。
       - 本田聖嗣定季演奏会　2015年春「海峡と大洋を挟んで！」
-        2015年4月4日に開催。[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")が企画・出演。[唐津健](https://ja.wikipedia.org/wiki/唐津健 "wikilink")([チェロ](../Page/チェロ.md "wikilink"))、[山田麗](../Page/山田麗.md "wikilink")([ソプラノ](../Page/ソプラノ.md "wikilink"))がゲスト出演した<ref>
+        2015年4月4日に開催。[本田聖嗣](../Page/本田聖嗣.md "wikilink")が企画・出演。[唐津健](https://ja.wikipedia.org/wiki/唐津健 "wikilink")([チェロ](../Page/チェロ.md "wikilink"))、[山田麗](../Page/山田麗.md "wikilink")([ソプラノ](../Page/ソプラノ.md "wikilink"))がゲスト出演した<ref>
 
 </ref>。
 
@@ -1587,7 +1587,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 
 :;本田聖嗣定季演奏会　2015年夏「ピアニスト4人、3台のピアノに向かう。」
 
-::2015年7月4日に開催。本田聖嗣が企画・出演。[中川佳彦](https://ja.wikipedia.org/wiki/中川佳彦 "wikilink")、[佐々木京子](https://ja.wikipedia.org/wiki/佐々木京子 "wikilink")、[佐々木祐子](https://ja.wikipedia.org/wiki/佐々木祐子 "wikilink")がゲスト出演した。当日演奏された楽曲は、その日の夜に配信された『OTTAVA Phonica』で、OTTAVAのアーカイヴの音源により再現された。
+::2015年7月4日に開催。本田聖嗣が企画・出演。[中川佳彦](https://ja.wikipedia.org/wiki/中川佳彦 "wikilink")、[佐々木京子](../Page/佐々木京子.md "wikilink")、[佐々木祐子](https://ja.wikipedia.org/wiki/佐々木祐子 "wikilink")がゲスト出演した。当日演奏された楽曲は、その日の夜に配信された『OTTAVA Phonica』で、OTTAVAのアーカイヴの音源により再現された。
 
 :;OTTAVA Listener's Party～Salon Paraiso Vol.2～ 純名里沙&笹子重治 Duo Live
 
@@ -1630,7 +1630,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
   -
 
       -
-        2016年5月22日に開催。本田聖嗣が企画・出演。[安江佐和子](https://ja.wikipedia.org/wiki/安江佐和子 "wikilink")([パーカッション](../Page/パーカッション.md "wikilink"))と[佐々木京子](https://ja.wikipedia.org/wiki/佐々木京子 "wikilink")(ピアノ)がゲスト出演した<ref>
+        2016年5月22日に開催。本田聖嗣が企画・出演。[安江佐和子](https://ja.wikipedia.org/wiki/安江佐和子 "wikilink")([パーカッション](../Page/パーカッション.md "wikilink"))と[佐々木京子](../Page/佐々木京子.md "wikilink")(ピアノ)がゲスト出演した<ref>
 
 </ref>\[217\]。「ディマーシュ」は[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「[日曜日](../Page/日曜日.md "wikilink")」の意。
 
@@ -1639,7 +1639,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
   -
 
       -
-        2016年8月6日に開催。本田聖嗣が企画・出演。[中川佳彦](https://ja.wikipedia.org/wiki/中川佳彦 "wikilink")、[佐々木京子](https://ja.wikipedia.org/wiki/佐々木京子 "wikilink")、[佐々木祐子](https://ja.wikipedia.org/wiki/佐々木祐子 "wikilink")がゲスト出演した<ref>
+        2016年8月6日に開催。本田聖嗣が企画・出演。[中川佳彦](https://ja.wikipedia.org/wiki/中川佳彦 "wikilink")、[佐々木京子](../Page/佐々木京子.md "wikilink")、[佐々木祐子](https://ja.wikipedia.org/wiki/佐々木祐子 "wikilink")がゲスト出演した<ref>
 
 </ref>。
 
@@ -1699,11 +1699,11 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 MINFA SHOP |accessdate=2015-10-10 }}</ref>\[221\]。
 
   -
-    下記の音楽家のほか、OTTAVAのプレゼンターでは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")、[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")、[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")が出演した。[吹奏楽](../Page/吹奏楽.md "wikilink")のパートでは、[オザワ部長](https://ja.wikipedia.org/wiki/オザワ部長 "wikilink")も登場した。
+    下記の音楽家のほか、OTTAVAのプレゼンターでは、[斎藤茂](https://ja.wikipedia.org/wiki/斎藤茂 "wikilink")、[森雄一](https://ja.wikipedia.org/wiki/森雄一 "wikilink")、[本田聖嗣](../Page/本田聖嗣.md "wikilink")が出演した。[吹奏楽](../Page/吹奏楽.md "wikilink")のパートでは、[オザワ部長](https://ja.wikipedia.org/wiki/オザワ部長 "wikilink")も登場した。
       - [清塚信也](../Page/清塚信也.md "wikilink")
       - [NAOTO](../Page/NAOTO_\(ヴァイオリニスト\).md "wikilink")
       - [東海大学付属高輪台高等学校](https://ja.wikipedia.org/wiki/東海大学付属高輪台高等学校 "wikilink")吹奏楽部(指揮：[畠田貴生](https://ja.wikipedia.org/wiki/畠田貴生 "wikilink"))
-      - セイジホンダ・ピアノ・オーケストラ・ウィズ・フレンズ([佐々木京子](https://ja.wikipedia.org/wiki/佐々木京子 "wikilink")、[佐々木祐子](https://ja.wikipedia.org/wiki/佐々木祐子 "wikilink")、[佐野隆哉](https://ja.wikipedia.org/wiki/佐野隆哉 "wikilink")、[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink"))
+      - セイジホンダ・ピアノ・オーケストラ・ウィズ・フレンズ([佐々木京子](../Page/佐々木京子.md "wikilink")、[佐々木祐子](https://ja.wikipedia.org/wiki/佐々木祐子 "wikilink")、[佐野隆哉](https://ja.wikipedia.org/wiki/佐野隆哉 "wikilink")、[本田聖嗣](../Page/本田聖嗣.md "wikilink"))
       - 上田純子(声楽家)
       - [Saxphone Quartet桜](https://ja.wikipedia.org/wiki/Saxphone_Quartet桜 "wikilink")
     このコンサートでは「[サンタクロース](../Page/サンタクロース.md "wikilink")・シート」の募集も行われた。OTTAVAリスナーが購入した枚数分、大田区内の児童養護施設の子どもたちをコンサートに招待するという企画である。
@@ -1730,7 +1730,7 @@ MINFA SHOP |accessdate=2015-10-10 }}</ref>\[221\]。
 
 :\*いちむじん([ギター](../Page/ギター.md "wikilink")デュオ:[宇高靖人](https://ja.wikipedia.org/wiki/宇高靖人 "wikilink")/[山下俊輔](https://ja.wikipedia.org/wiki/山下俊輔 "wikilink"))
 
-:\*[辛島小恵](https://ja.wikipedia.org/wiki/辛島小恵 "wikilink")([ソプラノ](../Page/ソプラノ.md "wikilink"))&[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink") - 本田は独奏も行った
+:\*[辛島小恵](https://ja.wikipedia.org/wiki/辛島小恵 "wikilink")([ソプラノ](../Page/ソプラノ.md "wikilink"))&[本田聖嗣](../Page/本田聖嗣.md "wikilink") - 本田は独奏も行った
 
 :\*一番町小町([菅谷詩織](https://ja.wikipedia.org/wiki/菅谷詩織 "wikilink")([鍵盤ハーモニカ](../Page/鍵盤ハーモニカ.md "wikilink"))/[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")([トイピアノ](../Page/トイピアノ.md "wikilink")))
 
@@ -1873,7 +1873,7 @@ MINFA SHOP |accessdate=2015-10-10 }}</ref>\[221\]。
   -
 
       -
-        2018年1月25日に開催。[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")が企画・出演。[塙美里](https://ja.wikipedia.org/wiki/塙美里 "wikilink")([サクソフォーン](../Page/サクソフォーン.md "wikilink"))・[シリル・コピーニ](https://ja.wikipedia.org/wiki/シリル・コピーニ "wikilink")([落語](../Page/落語.md "wikilink"))・[羽室芽衣](https://ja.wikipedia.org/wiki/羽室芽衣 "wikilink")(ピアノ、OTTAVA Verde枠)が出演した<ref>
+        2018年1月25日に開催。[本田聖嗣](../Page/本田聖嗣.md "wikilink")が企画・出演。[塙美里](https://ja.wikipedia.org/wiki/塙美里 "wikilink")([サクソフォーン](../Page/サクソフォーン.md "wikilink"))・[シリル・コピーニ](https://ja.wikipedia.org/wiki/シリル・コピーニ "wikilink")([落語](../Page/落語.md "wikilink"))・[羽室芽衣](https://ja.wikipedia.org/wiki/羽室芽衣 "wikilink")(ピアノ、OTTAVA Verde枠)が出演した<ref>
 
 </ref>。
 
@@ -1927,7 +1927,7 @@ MINFA SHOP |accessdate=2015-10-10 }}</ref>\[221\]。
   -
 
       -
-        2018年7月26日に開催。[本田聖嗣](https://ja.wikipedia.org/wiki/本田聖嗣 "wikilink")が企画・出演。小林明子([ヴィオラ](../Page/ヴィオラ.md "wikilink"))・[宇野美奈子](https://ja.wikipedia.org/wiki/宇野美奈子 "wikilink")(ヴィオラ)・[佐々木真史](https://ja.wikipedia.org/wiki/佐々木真史 "wikilink")(ヴィオラ)・本田聖嗣(ピアノ)・[大野寿乙](https://ja.wikipedia.org/wiki/大野寿乙 "wikilink")(ピアノ、OTTAVA Verde枠)が出演した<ref>
+        2018年7月26日に開催。[本田聖嗣](../Page/本田聖嗣.md "wikilink")が企画・出演。小林明子([ヴィオラ](../Page/ヴィオラ.md "wikilink"))・[宇野美奈子](https://ja.wikipedia.org/wiki/宇野美奈子 "wikilink")(ヴィオラ)・[佐々木真史](https://ja.wikipedia.org/wiki/佐々木真史 "wikilink")(ヴィオラ)・本田聖嗣(ピアノ)・[大野寿乙](https://ja.wikipedia.org/wiki/大野寿乙 "wikilink")(ピアノ、OTTAVA Verde枠)が出演した<ref>
 
 </ref>。
 
@@ -2112,6 +2112,12 @@ MINFA SHOP |accessdate=2015-10-10 }}</ref>\[221\]。
 
   - 本田聖嗣定季演奏会～名古屋編～
     2019年9月14日に名古屋・アーク栄サロンホールで開催。「OTTAVA Premio」立ち上げの際のクラウドファンディングのリターン。東京以外で開かれた初のコンサートとなった<ref>
+
+</ref>。
+
+  - The Concert at Home
+    2020年4月にスタートした、無観客ライブコンサートのシリーズ。YouTubeで配信されるほか、4K[アクトビラ](../Page/アクトビラ.md "wikilink")でも視聴可能。
+      - 第1回　林愛実 フルートリサイタル with 長井進之介(2020年4月29日公開)<ref>
 
 </ref>。
 

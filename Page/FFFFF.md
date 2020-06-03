@@ -174,4 +174,4 @@ Disk2「祝 2012パ・リーグ優勝スペシャルディスク」<br />
   - [FFFFF（エフファイブ）](https://www.htb.co.jp/fffff/) - 公式サイト
 
   -
-[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink")
+[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:北海道日本ハムファイターズ](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

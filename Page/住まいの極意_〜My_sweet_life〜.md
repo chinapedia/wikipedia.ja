@@ -15,7 +15,7 @@
 
 ## 外部リンク
 
-  - [テレビ東京公式サイト内 住まいの極意 〜My sweet life〜](http://www.tv-tokyo.co.jp/gokui/concept.htm)
+  - [テレビ東京公式サイト内 住まいの極意 〜My sweet life〜](https://www.tv-tokyo.co.jp/gokui/concept.htm)
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の番組の歴史 "wikilink") [Category:テレビ東京の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の情報・ワイドショー番組 "wikilink") [Category:住宅を題材とした番組](https://ja.wikipedia.org/wiki/Category:住宅を題材とした番組 "wikilink") [Category:日本の建築](https://ja.wikipedia.org/wiki/Category:日本の建築 "wikilink")
 

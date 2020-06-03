@@ -186,7 +186,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カターレ富山" title="wikilink">カターレ富山</a></p></td>
+<td><p><a href="../Page/カターレ富山.md" title="wikilink">カターレ富山</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/久世サトシ" title="wikilink">久世サトシ</a>、土田由香里</p></td>
 <td><p>2012年</p></td>
 <td><p>過去には<a href="../Page/佐藤ドミンゴ.md" title="wikilink">佐藤ドミンゴ</a>（2008年-2010年）が担当。</p></td>

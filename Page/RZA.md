@@ -7,7 +7,7 @@
 
 名前は、本名の頭文字と、「カミソリ」を意味する「Razor」をもじったもので、曲中では「レザ」と発音されることが多い（ときに「Razor Sharp」と自称する）。[ウータン・クラン](https://ja.wikipedia.org/wiki/ウータン・クラン "wikilink")の事実上の[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")であり、また[グレイブディガズ](https://ja.wikipedia.org/wiki/グレイブディガズ "wikilink")の一員でもある。
 
-ほとんどすべてのウータン・クランのアルバム、メンバーたちのソロ活動、さらにグループと関係するアーティストたちの作品のプロデュースも手がけてきた。ボビー・デジタル名義の2枚のアルバムを含め、ソロアルバムでの成功も収めた他、いくつかの映画音楽も手がけてきた。彼の音楽性は、常に進化してきている。また、早回しにされたソウル音楽のサンプリングの使用、[カニエ・ウエスト](https://ja.wikipedia.org/wiki/カニエ・ウエスト "wikilink")や[ジャスト・ブレイズ](https://ja.wikipedia.org/wiki/ジャスト・ブレイズ "wikilink")などの人気プロデューサーに影響を与えたこと、非常に高音で活用される弦楽器音、[アバンギャルド](../Page/アバンギャルド.md "wikilink")的な音楽性、[アンダーグランド・ヒップホップ](https://ja.wikipedia.org/wiki/アンダーグランド・ヒップホップ "wikilink")界のアーティストたちの創造性を刺激してきた実験的な手法など、ヒップホップに革新をもたらしてきた。ウータン・クランの特徴的な音作りは、彼の手でなされてきたと言ってよい存在である。マーシャルアーツ映画を愛好し、創作活動の面で映画からは大きな影響を受けている。彼にとっての特別な作品としては『[五毒拳](https://ja.wikipedia.org/wiki/五毒拳 "wikilink")』、『[少林寺三十六房](https://ja.wikipedia.org/wiki/少林寺三十六房 "wikilink")』\[1\]、『[獣兵衛忍風帖](../Page/獣兵衛忍風帖.md "wikilink")』、『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』\[2\]等の[カンフー映画](https://ja.wikipedia.org/wiki/カンフー映画 "wikilink")や[アニメ](../Page/アニメ.md "wikilink")があり、そのことから、映画関係者から仕事を依頼されることも多い。これまで映画関連で携わった仕事は音楽製作に留まらず出演や監督にまで及ぶ。
+ほとんどすべてのウータン・クランのアルバム、メンバーたちのソロ活動、さらにグループと関係するアーティストたちの作品のプロデュースも手がけてきた。ボビー・デジタル名義の2枚のアルバムを含め、ソロアルバムでの成功も収めた他、いくつかの映画音楽も手がけてきた。彼の音楽性は、常に進化してきている。また、早回しにされたソウル音楽のサンプリングの使用、[カニエ・ウエスト](https://ja.wikipedia.org/wiki/カニエ・ウエスト "wikilink")や[ジャスト・ブレイズ](https://ja.wikipedia.org/wiki/ジャスト・ブレイズ "wikilink")などの人気プロデューサーに影響を与えたこと、非常に高音で活用される弦楽器音、[アバンギャルド](../Page/アバンギャルド.md "wikilink")的な音楽性、[アンダーグランド・ヒップホップ](https://ja.wikipedia.org/wiki/アンダーグランド・ヒップホップ "wikilink")界のアーティストたちの創造性を刺激してきた実験的な手法など、ヒップホップに革新をもたらしてきた。ウータン・クランの特徴的な音作りは、彼の手でなされてきたと言ってよい存在である。マーシャルアーツ映画を愛好し、創作活動の面で映画からは大きな影響を受けている。彼にとっての特別な作品としては『[五毒拳](https://ja.wikipedia.org/wiki/五毒拳 "wikilink")』、『[少林寺三十六房](../Page/少林寺三十六房.md "wikilink")』\[1\]、『[獣兵衛忍風帖](../Page/獣兵衛忍風帖.md "wikilink")』、『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』\[2\]等の[カンフー映画](https://ja.wikipedia.org/wiki/カンフー映画 "wikilink")や[アニメ](../Page/アニメ.md "wikilink")があり、そのことから、映画関係者から仕事を依頼されることも多い。これまで映画関連で携わった仕事は音楽製作に留まらず出演や監督にまで及ぶ。
 
 ## ディスコグラフィー
 
@@ -24,7 +24,7 @@
   - [キル・ビル Vol.2](https://ja.wikipedia.org/wiki/キル・ビル_Vol.2 "wikilink") *Kill Bill: Vol.2* (2004) - 音楽
   - *Getting Up: Contents Under Pressure* (2005) - テレビゲーム、声の出演
   - [すべてはその朝始まった](https://ja.wikipedia.org/wiki/すべてはその朝始まった "wikilink") *Derailed* (2005) - 出演
-  - [アフロサムライ](https://ja.wikipedia.org/wiki/アフロサムライ "wikilink") *Afro Samurai* (2007) - 音楽
+  - [アフロサムライ](../Page/アフロサムライ.md "wikilink") *Afro Samurai* (2007) - 音楽
   - [アメリカン・ギャングスター](../Page/アメリカン・ギャングスター.md "wikilink") *American Gangster* (2007) - 出演
   - *Gospel Hill* (2008) - 出演
   - [素敵な人生の終り方](https://ja.wikipedia.org/wiki/素敵な人生の終り方 "wikilink") *Funny People* (2009) - 出演

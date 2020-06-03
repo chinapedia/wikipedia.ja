@@ -1,7 +1,7 @@
 > この記事は[HotSpot](https://ja.wikipedia.org/wiki/HotSpot)から翻訳されています。
 
 
-**HotSpot**（ホットスポット）は[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（旧[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）が提供している[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")で使われている高速化のための技術の名称。デスクトップ向け・サーバ向け・組み込み環境向け ([Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink")\[1\]) がある。[性能](https://ja.wikipedia.org/wiki/性能 "wikilink")を改善するために[ジャストインタイムコンパイル方式](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")、[適応的最適化](https://ja.wikipedia.org/wiki/適応的最適化 "wikilink") ([adaptive optimization](https://ja.wikipedia.org/wiki/:en:Adaptive_optimization "wikilink")) などの技術を使っている。
+**HotSpot**（ホットスポット）は[オラクル](../Page/オラクル_\(企業\).md "wikilink")（旧[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）が提供している[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")で使われている高速化のための技術の名称。デスクトップ向け・サーバ向け・組み込み環境向け ([Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink")\[1\]) がある。[性能](https://ja.wikipedia.org/wiki/性能 "wikilink")を改善するために[ジャストインタイムコンパイル方式](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")、[適応的最適化](https://ja.wikipedia.org/wiki/適応的最適化 "wikilink") ([adaptive optimization](https://ja.wikipedia.org/wiki/:en:Adaptive_optimization "wikilink")) などの技術を使っている。
 
 ## 歴史
 

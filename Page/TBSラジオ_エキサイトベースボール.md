@@ -3,7 +3,7 @@
 
 『**TBSラジオ エキサイトベースボール**』（ティービーエスラジオ エキサイトベースボール、*TBS Radio Excite Baseball*）は、[2006年](../Page/2006年.md "wikilink")から[2017年](../Page/2017年.md "wikilink")まで[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[TBSラジオ](../Page/TBSラジオ.md "wikilink")が放送していた[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組である。放送上では『**TBSラジオ954 エキサイトベースボール**』（ティービーエスラジオきゅうごーよん エキサイトベースボール）と呼称されることがあった。基本的に[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（NPB）内に属する球団の試合を中継していた。
 
-TBSラジオは[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")をエリアとする放送局であるが、[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列の[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")でもあるため、[ナイター](../Page/ナイター.md "wikilink")については『**JRNナイター**』（ジェイアールエヌナイター）の総称\[1\] のもと全国ネットで放送される場合があった\[2\]。
+TBSラジオは[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")をエリアとする放送局であるが、[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列の[キー局](../Page/キー局.md "wikilink")でもあるため、[ナイター](../Page/ナイター.md "wikilink")については『**JRNナイター**』（ジェイアールエヌナイター）の総称\[1\] のもと全国ネットで放送される場合があった\[2\]。
 
 本項では、前身となる番組や、放送を終了した2018年以降の各系列局におけるプロ野球中継の状況についても併せて記述する。
 
@@ -37,7 +37,7 @@ TBSラジオは[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikili
 
 #### 1960年代後半
 
-[1965年](../Page/1965年.md "wikilink")、木曜のスポンサーが[大関酒造に変更](../Page/大関_\(酒造メーカー\).md "wikilink")\[33\]。また、同年[5月2日](../Page/5月2日.md "wikilink")にTBSラジオを[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")とする[ネットワーク組織](../Page/ラジオネットワーク.md "wikilink")「Japan Radio Network」（[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")）が発足した事に伴い、中継カードによりJRN系列全国ネット番組としての役割も担うこととなる。[10月10日](../Page/10月10日.md "wikilink")をもって『日曜薄暮ゲーム』の放送を終了\[34\]。
+[1965年](../Page/1965年.md "wikilink")、木曜のスポンサーが[大関酒造に変更](../Page/大関_\(酒造メーカー\).md "wikilink")\[33\]。また、同年[5月2日](../Page/5月2日.md "wikilink")にTBSラジオを[キー局](../Page/キー局.md "wikilink")とする[ネットワーク組織](../Page/ラジオネットワーク.md "wikilink")「Japan Radio Network」（[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")）が発足した事に伴い、中継カードによりJRN系列全国ネット番組としての役割も担うこととなる。[10月10日](../Page/10月10日.md "wikilink")をもって『日曜薄暮ゲーム』の放送を終了\[34\]。
 
 [1966年](../Page/1966年.md "wikilink")4月には、『**月曜ナイター**』（げつようナイター。[ロッテの一社提供](../Page/ロッテホールディングス.md "wikilink")）も開始し週6回となる\[35\]。また、試合のない場合の予備枠として、20:00まで『ナイタージョッキー』、それ以降は『○曜リクエストジョッキー』\[36\] を設けた\[37\]。土曜ナイターのスポンサーから資生堂が外れ別の複数社による提供となる\[38\]。
 
@@ -804,7 +804,7 @@ RCCについては、過去にヤクルト主催（火曜日のLF）・在阪球
 <!-- end list -->
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（土曜日は自社制作の『[土曜ワラッター\!](../Page/土曜ワラッター!.md "wikilink")』（2015年まで）を放送）
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")◎
+  - [秋田放送](../Page/秋田放送.md "wikilink")◎
   - [山形放送](../Page/山形放送.md "wikilink")◎（2011年度までNRN土曜ナイターを定時放送）
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")◎
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")◎（2012年度までNRN土曜ナイターを定時放送）
@@ -822,7 +822,7 @@ RCCについては、過去にヤクルト主催（火曜日のLF）・在阪球
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")◎・※
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")◎・※（2010年度のみNRN土曜ナイターを定時放送。愛媛県内で公式戦がある場合は中継することがある）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")※・☆（2015年度までNRN土曜ナイターを定時放送）
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")◎
   - [大分放送](../Page/大分放送.md "wikilink")◎（2010年度のみNRN土曜ナイターを定時放送）

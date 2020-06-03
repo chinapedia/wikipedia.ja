@@ -33,7 +33,7 @@
 **クイーン**
 
   - [フレディ・マーキュリー](../Page/フレディ・マーキュリー.md "wikilink") – [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ハープシコード](https://ja.wikipedia.org/wiki/ハープシコード "wikilink") (\#7)
-  - [ブライアン・メイ](../Page/ブライアン・メイ.md "wikilink") – [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")(\#2)、[ベル](../Page/ベル.md "wikilink")(\#9)
+  - [ブライアン・メイ](../Page/ブライアン・メイ.md "wikilink") – [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")(\#2)、[チューブラーベル](../Page/チューブラーベル.md "wikilink")(\#9)
   - [ロジャー・メドウズ・テイラー](../Page/ロジャー・テイラー.md "wikilink") – [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、[マリンバ](../Page/マリンバ.md "wikilink")(\#5)、[ゴング](../Page/ゴング.md "wikilink")(\#6)
   - [ジョン・ディーコン](../Page/ジョン・ディーコン.md "wikilink") – [ベース](../Page/エレクトリックベース.md "wikilink")、[ギター](../Page/ギター.md "wikilink")(\#2)
 

@@ -101,7 +101,7 @@
 ## 提供番組
 
   - [全国高校野球選手権大会中継](../Page/全国高校野球選手権大会中継.md "wikilink")([朝日放送](../Page/朝日放送テレビ.md "wikilink"))※住友グループの一員として。明光証券・泉証券時代。1970年代〜1994年。
-  - [ナショナル劇場](https://ja.wikipedia.org/wiki/ナショナル劇場 "wikilink")([TBS系列](../Page/TBS系列.md "wikilink")と[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink"))※松下グループの一員として。1989年4月から2003年3月まで。ナショナル証券→明光ナショナル証券時代。
+  - [ナショナル劇場](https://ja.wikipedia.org/wiki/ナショナル劇場 "wikilink")([TBS系列](../Page/TBS系列.md "wikilink")と[秋田放送](../Page/秋田放送.md "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink"))※松下グループの一員として。1989年4月から2003年3月まで。ナショナル証券→明光ナショナル証券時代。
   - [全国高等学校ラグビーフットボール大会](../Page/全国高等学校ラグビーフットボール大会.md "wikilink")([毎日放送](../Page/毎日放送.md "wikilink")製作・同上と[独立UHF局](../Page/全国独立放送協議会.md "wikilink")・先ほどと同上)※全国高等学校野球選手権大会と同上、明光証券→明光ナショナル証券・泉証券時代。
   - [サンデーモーニング](../Page/サンデーモーニング.md "wikilink")-(同上)。かつてはSMBC日興証券が提供していた。
 

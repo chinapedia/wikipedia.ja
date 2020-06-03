@@ -8,7 +8,7 @@
 ATPアーゼは以下の反応を触媒する酵素の総称である。
 
   -
-    <ce>{ATP} -\> {ADP} + P_i</ce> （[アデノシン三リン酸](../Page/アデノシン三リン酸.md "wikilink")　→　[アデノシン二リン酸](../Page/アデノシン二リン酸.md "wikilink") + [リン酸](../Page/リン酸.md "wikilink")）
+    <chem>{ATP} -\> {ADP} + P_i</chem> （[アデノシン三リン酸](../Page/アデノシン三リン酸.md "wikilink")　→　[アデノシン二リン酸](../Page/アデノシン二リン酸.md "wikilink") + [リン酸](../Page/リン酸.md "wikilink")）
 
 この時に発生するエネルギーを利用して、エネルギーを要する生物体内作用に寄与している。通常は ATP 以外の[ヌクレオチド](https://ja.wikipedia.org/wiki/ヌクレオチド "wikilink")三リン酸（GTP、UTP、CTPなど）に作用することが知られている。しかしながら存在している部位によって少しずつ性状が異なっている。
 

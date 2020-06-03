@@ -163,7 +163,7 @@
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")
   - [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")
   - [テレビ金沢](../Page/テレビ金沢.md "wikilink")（当初は火曜 1:10 - 2:05（月曜深夜）の放送だった\[13\]が、その後は土曜の朝に放送されていた）
   - [中京テレビ](../Page/中京テレビ放送.md "wikilink")
   - [西日本放送](../Page/西日本放送.md "wikilink")

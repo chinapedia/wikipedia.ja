@@ -5,9 +5,11 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[Macintosh](../Page/Macintosh.md "wikilink")専用の音楽再生・管理ソフトとしてリリースされ、同年に[音楽プレーヤーの](../Page/デジタルオーディオプレーヤー.md "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")が発売されてからはその管理[ソフトとしての役割を持つようになった](../Page/ソフトウェア.md "wikilink")。[2003年](../Page/2003年.md "wikilink")には[Windows版もリリースされた](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[Macintosh](../Page/Macintosh.md "wikilink")専用の音楽再生・管理ソフトとしてリリースされ、同年に[音楽プレーヤーの](../Page/デジタルオーディオプレーヤー.md "wikilink")[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")が発売されてからはその管理[ソフトとしての役割を持つようになった](../Page/ソフトウェア.md "wikilink")。
 
-[2004年](../Page/2004年.md "wikilink")には[iTunes Storeへの接続機能が追加され](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、音楽のダウンロード購入プラットフォームとしての役割も果たすようになった。その後[映画](../Page/映画.md "wikilink")の購入および[動画](../Page/動画.md "wikilink")[ファイルの再生](../Page/ファイル_\(コンピュータ\).md "wikilink")・管理にも対応するなど、多数の機能が盛り込まれていった。iPodと同じくiTunesを通じて管理が可能な[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")である[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")が[2007年](../Page/2007年.md "wikilink")に登場してからは、その普及とともに音楽・映画再生を行わないユーザにもiTunesが浸透していった。
+[2003年](../Page/2003年.md "wikilink")にはiTunes Music Store(現[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink"))の有料型ダウンロード音楽配信サービスの開始に伴い、iTunes Music Storeへの接続機能が追加され、音楽のダウンロード購入プラットフォームとしての役割も果たすようになった。同年には[Windows向けのアプリケーションソフトの統一を図るため](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Windows版もリリースされた。
+
+その後[映画](../Page/映画.md "wikilink")の購入および[動画](../Page/動画.md "wikilink")[ファイルの再生](../Page/ファイル_\(コンピュータ\).md "wikilink")・管理にも対応するなど、多数の機能が盛り込まれていった。iPodと同じくiTunesを通じて管理が可能な[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")である[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")が[2007年](../Page/2007年.md "wikilink")に登場してからは、その普及とともに音楽・映画再生を行わないユーザにもiTunesが浸透していった。
 
 しかし、あまりに多くの機能を搭載し複雑化した結果、[2019年](../Page/2019年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の[macOS Catalinaの登場とともにmacOS版iTunesは廃止され](https://ja.wikipedia.org/wiki/macOS_Catalina "wikilink")、音楽は「[ミュージック](https://ja.wikipedia.org/wiki/:en:Music_\(software\) "wikilink")」に、ポッドキャストは「[Podcast](https://ja.wikipedia.org/wiki/:en:Podcasts_\(software\) "wikilink")」に、映画は「[TV](https://ja.wikipedia.org/wiki/:en:Apple_TV_\(software\) "wikilink")」にといった具合に、各機能は個別の新たなアプリケーションに分割・継承されるに至った。また、iPod・iPhoneの管理機能は「[Finder](../Page/Finder.md "wikilink")」に移された。ただし、これらの代替ができない旧バージョンのmacOS向けおよびWindows版のiTunesは当面現状維持される見込みである。
 
@@ -27,7 +29,7 @@
   - [ポッドキャスト](../Page/ポッドキャスト.md "wikilink")のダウンロード、iTunes Storeでの音楽・ビデオ購入
   - [ビジュアライザ](https://ja.wikipedia.org/wiki/ビジュアライザ "wikilink")を実行して、リズムに合わせた映像効果を画面に表示する
   - 自動でボリュームを平均に近づける「サウンドチェック」機能（[音量正規化](https://ja.wikipedia.org/wiki/音量正規化 "wikilink")）
-  - [Bonjour](../Page/Bonjour.md "wikilink")を用いたローカルネットワーク内で他のコンピュータのiTunesの楽曲やビデオを再生する機能。この機能では、ほかのコンピュータに保存されている音楽ファイルを複製し保存する事は出来ない。
+  - [Bonjour](../Page/Bonjour.md "wikilink")を用いたローカルネットワーク内で他のコンピュータのiTunesの楽曲やビデオを再生する機能(ホームシェアリング)。この機能では、ほかのコンピュータに保存されている音楽ファイルを複製し保存する事は出来ない。また、iOSのMusicアプリに転送された楽曲を別のiOS機種で再生することもできない。尚、登録できる機器は最大で5台までの制約がある。
     ※ 音楽をコピーするにはOS自体のファイル共有機能などを用いてファイルそのものをコピーしiTunesに取り込む必要がある
   - ローカルネットワーク内で、AirTunes搭載の[AirMac Express用いた無線LANで音楽を送信し](../Page/AirMac.md "wikilink")、AirMac Expressへ接続したスピーカーで聴くことができる
   - よく使われる多くの音声ファイルの形式（[MP3](../Page/MP3.md "wikilink")・[AAC](../Page/AAC.md "wikilink")・[WAV](../Page/WAV.md "wikilink")・[AIFF](../Page/AIFF.md "wikilink")・[Apple Lossless](../Page/Apple_Lossless.md "wikilink")）に対応（Windows版のみ[WMAからAACやMP](../Page/Windows_Media_Audio.md "wikilink")3などへの変換機能対応）

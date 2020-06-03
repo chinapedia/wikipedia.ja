@@ -1,7 +1,7 @@
 > この記事は[FUJIWARA](https://ja.wikipedia.org/wiki/FUJIWARA)から翻訳されています。
 
 
-****（ふじわら）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属の[お笑いコンビ](../Page/お笑いタレント.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")結成。[大阪NSC](../Page/吉本総合芸能学院.md "wikilink")8期生。[お笑い第四世代](../Page/お笑い第四世代.md "wikilink")。
+**FUJIWARA**（ふじわら）は、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属の[お笑いコンビ](../Page/お笑いタレント.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")結成。[大阪NSC](../Page/吉本総合芸能学院.md "wikilink")8期生。[お笑い第四世代](../Page/お笑い第四世代.md "wikilink")。
 
 ## メンバー
 

@@ -36,7 +36,7 @@
 <!-- end list -->
 
   - [レゴ](../Page/レゴ.md "wikilink")シリーズ
-      - [レゴシティ アンダーカバー](https://ja.wikipedia.org/wiki/レゴシティ_アンダーカバー "wikilink")（コンテンツアイコン：「犯罪」）
+      - [レゴシティ アンダーカバー](https://ja.wikipedia.org/wiki/レゴシティ_アンダーカバー "wikilink")（コンテンツアイコン：「暴力、犯罪」）
       - レゴ ワールド 目指せマスタービルダー（コンテンツアイコン：「暴力」）
       - レゴ DCスーパーヴィランズ（コンテンツアイコン：「暴力、犯罪」）
   - [LOST SPHEAR](https://ja.wikipedia.org/wiki/LOST_SPHEAR "wikilink")（コンテンツアイコン：「犯罪、言葉・その他」）
@@ -553,10 +553,6 @@
 
 ### スーパーファミコン
 
-<div class="NavFrame" style="clear: both; border:0;">
-
-<div class="NavContent" style="text-align: left;">
-
   - [悪魔城ドラキュラXX](../Page/悪魔城ドラキュラXX.md "wikilink")（コンテンツアイコン：「暴力」）
   - [クロックタワー](../Page/クロックタワー.md "wikilink")（コンテンツアイコン：「暴力、恐怖、犯罪」）
   - [ストリートファイターII](../Page/ストリートファイターII.md "wikilink")シリーズ（コンテンツアイコン：「暴力」）
@@ -588,10 +584,6 @@
   - [ライブ・ア・ライブ](../Page/ライブ・ア・ライブ.md "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪、言葉・その他」）
   - [ラストバイブルIII](https://ja.wikipedia.org/wiki/ラストバイブルIII "wikilink")（コンテンツアイコン：「セクシャル、犯罪」）
   - [ルドラの秘宝](../Page/ルドラの秘宝.md "wikilink")（コンテンツアイコン：「犯罪」）
-
-</div>
-
-</div>
 
 ### ファミリーコンピュータ
 

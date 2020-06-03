@@ -3,7 +3,7 @@
 
 **HISASHI**（ヒサシ、[1972年](../Page/1972年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[GLAY](../Page/GLAY.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")。本名、**外村 尚**（とのむら ひさし）。愛称は、**トノ**。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長168cm。既婚。
 
-[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")生まれ、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")で育つ。函館市立北日吉小学校、函館市立北中学校、[北海道函館稜北高等学校](../Page/北海道函館稜北高等学校.md "wikilink")卒業。[Radio Carolineの](../Page/Radio_Caroline.md "wikilink")[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")、[THE MAD CAPSULE MARKETSの](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")[MOTOKATSU](../Page/宮上元克.md "wikilink")、[TERU](../Page/TERU.md "wikilink")と組んだバンド「**[rally](https://ja.wikipedia.org/wiki/rally_\(バンド\) "wikilink")**」のギターとリーダーも務める。
+[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")出身で、[1981年](../Page/1981年.md "wikilink")以降は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")で育つ。函館市立北日吉小学校、函館市立北中学校、[北海道函館稜北高等学校](../Page/北海道函館稜北高等学校.md "wikilink")卒業。[Radio Carolineの](../Page/Radio_Caroline.md "wikilink")[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")、[THE MAD CAPSULE MARKETSの](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")[MOTOKATSU](../Page/宮上元克.md "wikilink")、[TERU](../Page/TERU.md "wikilink")と組んだバンド「**[rally](https://ja.wikipedia.org/wiki/rally_\(バンド\) "wikilink")**」のギターとリーダーも務める。
 
 2012年、期間限定企画として、ボーカルに[TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")（[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink"))、ドラムに[宮上元克](../Page/宮上元克.md "wikilink")、ベースに[TOKIE](../Page/TOKIE.md "wikilink")を迎えたロックバンド「**[ACE OF SPADES](https://ja.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")**」のギターとリーダーを担当。
 
@@ -673,6 +673,13 @@ JUST MOVIN' ON 〜ALL THE-S-HIT〜</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三森すずこ" title="wikilink">三森すずこ</a></p></td>
 <td><p>「比翼の鳥」を作詞·作曲。</p></td>
 <td><p>CD</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年5月8日</p></td>
+<td><p><strong>僕たちはまだ世界を知らない</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/燦鳥ノム" title="wikilink">燦鳥ノム</a></p></td>
+<td><p>クラフトボスレモンティーpresents曲。ギターで参加</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -1,7 +1,7 @@
 > この記事は[NHKスタジオパーク](https://ja.wikipedia.org/wiki/NHKスタジオパーク)から翻訳されています。
 
 
-**NHKスタジオパーク**（エヌエイチケイスタジオパーク）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")神南の[NHK放送センター](../Page/NHK放送センター.md "wikilink")内に所在する観光施設。[1965年](../Page/1965年.md "wikilink")に「見学者コース」として公開、1985年に「NHK展示プラザ」に改称、放送70周年記念事業の一環として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月22日](../Page/3月22日.md "wikilink")に視聴者体験型にリニューアルし開業した\[1\]。愛称・略称は**スタパ**。
+**NHKスタジオパーク**（エヌエイチケイスタジオパーク）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")神南の[NHK放送センター](../Page/NHK放送センター.md "wikilink")内にあった観光施設。[1965年](../Page/1965年.md "wikilink")に「見学者コース」として公開、1985年に「NHK展示プラザ」に改称、放送70周年記念事業の一環として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月22日](../Page/3月22日.md "wikilink")に視聴者体験型にリニューアルし開業した\[1\]。放送センター建て替え計画に伴い2020年5月で閉館\[2\]。愛称・略称は**スタパ**。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 テレビの[地上デジタル化に伴う展示内容更新のため](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から閉鎖して半年間工事を行う予定としていたが、直前の[3月11日](../Page/3月11日.md "wikilink")に[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")が発生したため、[3月18日](../Page/3月18日.md "wikilink")まで臨時休館となったほか、それ以降についても[計画停電](https://ja.wikipedia.org/wiki/計画停電 "wikilink")の影響で営業再開できるかどうか微妙な情勢となっていた。また、震災に伴い[3月19日](../Page/3月19日.md "wikilink")から実施されるはずだったイベント『春“スタパ祭り2011”』は中止となった。
 
-2011年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に改装工事を終えて、[10月10日](../Page/10月10日.md "wikilink")にリニューアルオープン。この日行われたオープニングセレモニーでは、[NHK会長の](https://ja.wikipedia.org/wiki/日本放送協会会長 "wikilink")[松本正之](../Page/松本正之.md "wikilink")（当時）と、連続テレビ小説『[カーネーション](https://ja.wikipedia.org/wiki/カーネーション_\(テレビドラマ\) "wikilink")』のヒロイン役を務める女優の[尾野真千子](https://ja.wikipedia.org/wiki/尾野真千子 "wikilink")がテープカットを行った\[2\]。この他『[どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")ファミリーステージ』等のイベントも行われたほか、[NHK総合テレビで午前](../Page/NHK総合テレビジョン.md "wikilink")10時過ぎより特別番組『これがデジタル時代のテーマパークだ\!』\[3\]の生放送を行った。またこの日放送の『スタジオパークからこんにちは 新装開店SP』のゲストには同番組初代司会を務めた[堀尾正明](../Page/堀尾正明.md "wikilink")（元NHKアナウンサー）が出演した。
+2011年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に改装工事を終えて、[10月10日](../Page/10月10日.md "wikilink")にリニューアルオープン。この日行われたオープニングセレモニーでは、[NHK会長の](https://ja.wikipedia.org/wiki/日本放送協会会長 "wikilink")[松本正之](../Page/松本正之.md "wikilink")（当時）と、連続テレビ小説『[カーネーション](https://ja.wikipedia.org/wiki/カーネーション_\(テレビドラマ\) "wikilink")』のヒロイン役を務める女優の[尾野真千子](https://ja.wikipedia.org/wiki/尾野真千子 "wikilink")がテープカットを行った\[3\]。この他『[どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")ファミリーステージ』等のイベントも行われたほか、[NHK総合テレビで午前](../Page/NHK総合テレビジョン.md "wikilink")10時過ぎより特別番組『これがデジタル時代のテーマパークだ\!』\[4\]の生放送を行った。またこの日放送の『スタジオパークからこんにちは 新装開店SP』のゲストには同番組初代司会を務めた[堀尾正明](../Page/堀尾正明.md "wikilink")（元NHKアナウンサー）が出演した。
 
 ### 新放送センター建替計画に伴う扱い
 
-スタジオパークが所在するNHK放送センターは、築年数の経過・施設の狭隘化に伴い、[2020年](../Page/2020年.md "wikilink")度から順次施設の建替が予定されている。スタジオパークは、建替後の新放送センターにおいても敷地北側に設けられる公開棟への設置が予定されているが、建替工事に伴い[2026年](../Page/2026年.md "wikilink")を以て現行施設での運営を終了し、長期休館となる予定だったのだが、当初よりも予定が大幅に早まり、東京オリンピック・東京パラリンピック終了後の[2020年](../Page/2020年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")を以て運営を終了し、長期休館となることになった。新放送センターでの再オープンは[2036年](../Page/2036年.md "wikilink")を予定しているが、その間の代替施設として渋谷駅前の[NHKプラスクロスSHIBUYA](../Page/NHKプラスクロスSHIBUYA.md "wikilink")や港区の[NHK放送博物館](../Page/NHK放送博物館.md "wikilink")、地域のNHKの放送局などを活用する予定、としている\[4\]。
+スタジオパークが所在するNHK放送センターは、築年数の経過・施設の狭隘化に伴い、[2020年](../Page/2020年.md "wikilink")度から順次施設の建替が予定されている。スタジオパークは、建替後の新放送センターにおいても敷地北側に設けられる公開棟への設置が予定されているが、建替工事に伴い[2026年](../Page/2026年.md "wikilink")を以て現行施設での運営を終了し、長期休館となる予定だったのだが、当初よりも予定が大幅に早まり、東京オリンピック・東京パラリンピック終了後の[2020年](../Page/2020年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")を以て運営を終了し、長期休館となることになったものの、[新型コロナウイルス感染拡大で](../Page/2019新型コロナウイルス.md "wikilink")、さらに閉館日を前倒しし、同年5月11日に閉館した。新放送センターでの再オープンは[2036年](../Page/2036年.md "wikilink")を予定しているが、その間の代替施設として渋谷駅前の[NHKプラスクロスSHIBUYA](../Page/NHKプラスクロスSHIBUYA.md "wikilink")や港区の[NHK放送博物館](../Page/NHK放送博物館.md "wikilink")、地域のNHKの放送局などを活用する予定、としている\[5\]。
 
 ## 沿革
 
@@ -32,7 +32,7 @@
   - 2019年3月24日 - スタジオカフェが閉鎖。
   - 2019年3月31日 - スタジオショップとイベントホールが閉鎖。
   - 2019年6月 - 休館日を毎週火曜日に変更。
-  - 2020年10月から2036年まで、NHKスタジオパークからこんにちはを閉館。2036年は16年後、NHKスタジオパークからこんにちはを新装会開店と新放送会館。
+  - 2020年5月11日 - [新型コロナ感染拡大で](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")2月26日から臨時休館していたが、放送センター建て替え計画に伴う工期に支障が出たことで、再開する事なく前倒しで閉館した\[6\]。
 
 ## スタジオパークの施設
 
@@ -598,11 +598,13 @@
 
 ## 外部リンク
 
-  - [NHKスタジオパーク](http://www.nhk.or.jp/studiopark/)
+  - [NHKスタジオパーク](https://www.nhk.or.jp/studiopark/)
 
 [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:日本のテレビスタジオ](https://ja.wikipedia.org/wiki/Category:日本のテレビスタジオ "wikilink") [Category:ラジオスタジオ](https://ja.wikipedia.org/wiki/Category:ラジオスタジオ "wikilink") [Category:東京都の観光地](https://ja.wikipedia.org/wiki/Category:東京都の観光地 "wikilink") [Category:渋谷区の建築物](https://ja.wikipedia.org/wiki/Category:渋谷区の建築物 "wikilink")
 
 1.
-2.  尾野真千子、朝ドラな日々で「ちょい太った」スポーツ報知 2011年10月10日
-3.  [スタジオパーク リニューアル特番](http://cgi2.nhk.or.jp/navi/detail/index.cgi?id=11a3) NHK 秋の新番組・注目番組 秋ナビ、2011年10月（随時更新）
-4.  [放送センター建替 基本計画の概要 - NHK](https://www.nhk.or.jp/pr/keiei/otherpress/pdf/20160830.pdf)
+2.
+3.  尾野真千子、朝ドラな日々で「ちょい太った」スポーツ報知 2011年10月10日
+4.  [スタジオパーク リニューアル特番](http://cgi2.nhk.or.jp/navi/detail/index.cgi?id=11a3) NHK 秋の新番組・注目番組 秋ナビ、2011年10月（随時更新）
+5.  [放送センター建替 基本計画の概要 - NHK](https://www.nhk.or.jp/pr/keiei/otherpress/pdf/20160830.pdf)
+6.

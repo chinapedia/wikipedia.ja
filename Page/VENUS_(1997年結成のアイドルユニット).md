@@ -40,7 +40,7 @@
   - Love Letter（1998年7月、エイベックス、詞：[阿久津健太郎](../Page/阿久津健太郎.md "wikilink")、作・編曲：家原正樹）テレビ東京系「アルテミッシュNIGHT」オープニング・テーマ、テレビ東京「ヤンNight」エンディング・テーマ
       - C/W：SHININ' LOVE STORY（詞：[えびね遊子](https://ja.wikipedia.org/wiki/えびね遊子 "wikilink")、作・編曲：家原正樹）
   - [恋のバカンス](../Page/恋のバカンス_\(曲\).md "wikilink")（1999年9月、エイベックス、詞：[岩谷時子](../Page/岩谷時子.md "wikilink")、曲：[宮川泰](../Page/宮川泰.md "wikilink")、編曲：磯村英司）
-      - C/W：Runaway Emotion、close to you （詞：[森浩美](../Page/森浩美.md "wikilink")、曲：[ジョーイ・カーボーン](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink")、編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、上野圭市）※1997年10月“[ベイキャニオンズ](../Page/ベイキャニオンズ.md "wikilink")”のカバー
+      - C/W：Runaway Emotion、close to you （詞：[森浩美](../Page/森浩美.md "wikilink")、曲：[ジョーイ・カーボーン](../Page/ジョーイ・カーボーン.md "wikilink")、編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、上野圭市）※1997年10月“[ベイキャニオンズ](../Page/ベイキャニオンズ.md "wikilink")”のカバー
 
 ## ビデオ
 

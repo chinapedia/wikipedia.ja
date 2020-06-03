@@ -44,13 +44,13 @@
         出版社：[ソニー・ミュージックパブリッシング](../Page/ソニー・ミュージックパブリッシング.md "wikilink")
     <!-- end list -->
       - 7thアルバム『SEVENTH HEAVEN』収録曲。このアルバムの曲の中で唯一、T.M.Rのツアーでのサポートメンバー（2006年当時）が揃った楽曲。ギターが[SUNAO](../Page/SUNAO.md "wikilink")と柴崎浩、ベースが[Ikuo](../Page/Ikuo.md "wikilink")、ドラムが[淳士](../Page/淳士.md "wikilink")。『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink") スペシャルエディションI 砕かれた世界』にて、挿入歌として使用された。投票数第2位。
-6.  **[THUNDERBIRD](https://ja.wikipedia.org/wiki/THUNDERBIRD_\(T.M.Revolutionの曲\) "wikilink")**
+6.  **[THUNDERBIRD](../Page/THUNDERBIRD_\(T.M.Revolutionの曲\).md "wikilink")**
       -
         作詞：井上秋緒　作曲：浅倉大介　編曲：[菅野よう子](../Page/菅野よう子.md "wikilink")
         出版社：[日音](../Page/日音.md "wikilink")
     <!-- end list -->
       - 9thシングル。[菅野よう子](../Page/菅野よう子.md "wikilink")がピアノで参加、アレンジもしている。投票数第6位。
-7.  **[BOARDING](https://ja.wikipedia.org/wiki/BOARDING "wikilink")**
+7.  **[BOARDING](../Page/BOARDING.md "wikilink")**
       -
         作詞：井上秋緒　作曲：浅倉大介　編曲：西川貴教、鈴木覚
         出版社：[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")

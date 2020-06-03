@@ -49,7 +49,7 @@
   - [ザ・グリッド](../Page/ザ・グリッド.md "wikilink")（2010年6月17日～）
   - [MI-5 英国機密諜報部](https://ja.wikipedia.org/wiki/MI-5_英国機密諜報部 "wikilink")
   - フラッシュポイント 特殊機動隊SRU シーズン2（2010年8月～）
-  - [ザ・プラクティス ボストン弁護士ファイル](https://ja.wikipedia.org/wiki/ザ・プラクティス_ボストン弁護士ファイル "wikilink")
+  - [ザ・プラクティス ボストン弁護士ファイル](../Page/ザ・プラクティス_ボストン弁護士ファイル.md "wikilink")
   - 9mm [サンパウロ](../Page/サンパウロ.md "wikilink")市警捜査線（2010年4月6日～）
   - [アウトバーンコップ](https://ja.wikipedia.org/wiki/アウトバーンコップ "wikilink") シーズン9（2010年8月～）
   - [Persons Unknown 〜そして彼らは囚われた](https://ja.wikipedia.org/wiki/Persons_Unknown_〜そして彼らは囚われた "wikilink")

@@ -54,47 +54,48 @@
 
 **2018年**\[15\]
 
-| 号                | 表紙モデル                                                                                                                                                                         | 備考                                                             |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 2018年1月号 (381号)  | [有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink") ([Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink"))                                           | 専属モデル以外                                                        |
-| 2018年2月号 (382号)  | [亀梨和也](../Page/亀梨和也.md "wikilink") ([KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink"))                                                                              | 専属モデル以外                                                        |
-| 2018年3月号 (383号)  | [小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink") ([ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink"))                                                         |                                                                |
-| 2018年4月号 (384号)  | [藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink") ([Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink"))                                                                                         | 専属モデル以外                                                        |
-| 2018年5月号 (385号)  | [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")                                                                                                                   | 専属モデル以外                                                        |
-| 2018年6月号 (386号)  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                                                                                       | 専属モデル以外                                                        |
-| 2018年7月号 (387号)  | [新田真剣佑](https://ja.wikipedia.org/wiki/新田真剣佑 "wikilink")                                                                                                                       | 専属モデル以外                                                        |
-| 2018年8月号 (388号)  | [伊野尾慧](../Page/伊野尾慧.md "wikilink") ([Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink"))                                                              | 専属モデル以外                                                        |
-| 2018年9月号 (389号)  | [重岡大樹](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink") ([ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink"))                                                       | 専属モデル以外                                                        |
-| 2018年10月号 (390号) | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink") ([Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink"))                                                       | 専属モデル以外                                                        |
-| 2018年11月号 (391号) | [小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink") & [藤井流星](https://ja.wikipedia.org/wiki/藤井流星 "wikilink") ([ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")) | 専属モデルである[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")を含む |
-| 2018年12月号 (392号) | [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")                                                                                                                | 専属モデル以外 / 初表紙\[16\]                                            |
+| 号               | 表紙モデル                                                                                                                                                                        | 備考                                                             |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 2018年1月号（381号）  | [有岡大貴](https://ja.wikipedia.org/wiki/有岡大貴 "wikilink")（[Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")）                                           | 専属モデル以外                                                        |
+| 2018年2月号（382号）  | [亀梨和也](../Page/亀梨和也.md "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）                                                                              | 専属モデル以外                                                        |
+| 2018年3月号（383号）  | [小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")）                                                         |                                                                |
+| 2018年4月号（384号）  | [藤ヶ谷太輔](../Page/藤ヶ谷太輔.md "wikilink")（[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")）                                                                                         | 専属モデル以外                                                        |
+| 2018年5月号（385号）  | [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")                                                                                                                  | 専属モデル以外                                                        |
+| 2018年6月号（386号）  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                                                                                      | 専属モデル以外                                                        |
+| 2018年7月号（387号）  | [新田真剣佑](https://ja.wikipedia.org/wiki/新田真剣佑 "wikilink")                                                                                                                      | 専属モデル以外                                                        |
+| 2018年8月号（388号）  | [伊野尾慧](../Page/伊野尾慧.md "wikilink")（[Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")）                                                              | 専属モデル以外                                                        |
+| 2018年9月号（389号）  | [重岡大樹](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")）                                                       | 専属モデル以外                                                        |
+| 2018年10月号（390号） | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")（[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")）                                                       | 専属モデル以外                                                        |
+| 2018年11月号（391号） | [小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink") & [藤井流星](https://ja.wikipedia.org/wiki/藤井流星 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")） | 専属モデルである[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")を含む |
+| 2018年12月号（392号） | [NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")                                                                                                               | 専属モデル以外 / 初表紙\[16\]                                            |
 
 **2019年**\[17\]
 
-| 号                | 表紙モデル                                                                                                                         | 備考                                                                 |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 2019年1月号 (393号)  | [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")                                                               | 専属モデルである[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")を含む     |
-| 2019年2月号 (394号)  | [菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") ([Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink"))       | 専属モデル以外                                                            |
-| 2019年3月号 (395号)  | [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink") ([Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink"))                        | 専属モデル以外                                                            |
-| 2019年4月号 (396号)  | [杉野遥亮](https://ja.wikipedia.org/wiki/杉野遥亮 "wikilink")                                                                         | 初表紙                                                                |
-| 2019年5月号 (397号)  | [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")                                                               | 専属モデルである[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")を含む     |
-| 2019年6月号 (398号)  | [玉森裕太](../Page/玉森裕太.md "wikilink") ([Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink"))                                           | 専属モデル以外                                                            |
-| 2019年7月号 (399号)  | [岸優太](https://ja.wikipedia.org/wiki/岸優太 "wikilink") ([King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")) | 専属モデル以外                                                            |
-| 2019年8月号 (400号)  | [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")                                                                                | 専属モデル以外                                                            |
-| 2019年9月号 (401号)  | [重岡大樹](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink") ([ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink"))       | 専属モデル以外                                                            |
-| 2019年10月号 (402号) | [小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink") ([ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink"))         |                                                                    |
-| 2019年11月号 (403号) | [永瀬廉](https://ja.wikipedia.org/wiki/永瀬廉 "wikilink") ([King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")) | 専属モデル以外                                                            |
-| 2019年12月号 (404号) | [杉野遥亮](https://ja.wikipedia.org/wiki/杉野遥亮 "wikilink")                                                                         | 2度目の表紙 / [杉野遥亮](https://ja.wikipedia.org/wiki/杉野遥亮 "wikilink") 卒業号 |
+| 号               | 表紙モデル                                                                                                                        | 備考                                                                 |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 2019年1月号（393号）  | [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")                                                              | 専属モデルである[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")を含む     |
+| 2019年2月号（394号）  | [菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink")（[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")）       | 専属モデル以外                                                            |
+| 2019年3月号（395号）  | [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")（[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")）                        | 専属モデル以外                                                            |
+| 2019年4月号（396号）  | [杉野遥亮](https://ja.wikipedia.org/wiki/杉野遥亮 "wikilink")                                                                        | 初表紙                                                                |
+| 2019年5月号（397号）  | [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")                                                              | 専属モデルである[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")を含む     |
+| 2019年6月号（398号）  | [玉森裕太](../Page/玉森裕太.md "wikilink")（[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")）                                           | 専属モデル以外                                                            |
+| 2019年7月号（399号）  | [岸優太](https://ja.wikipedia.org/wiki/岸優太 "wikilink")（[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")） | 専属モデル以外                                                            |
+| 2019年8月号（400号）  | [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")                                                                               | 専属モデル以外                                                            |
+| 2019年9月号（401号）  | [重岡大樹](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")）       | 専属モデル以外                                                            |
+| 2019年10月号（402号） | [小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")（[ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")）         |                                                                    |
+| 2019年11月号（403号） | [永瀬廉](https://ja.wikipedia.org/wiki/永瀬廉 "wikilink")（[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")） | 専属モデル以外                                                            |
+| 2019年12月号（404号） | [杉野遥亮](https://ja.wikipedia.org/wiki/杉野遥亮 "wikilink")                                                                        | 2度目の表紙 / [杉野遥亮](https://ja.wikipedia.org/wiki/杉野遥亮 "wikilink") 卒業号 |
 
 **2020年**\[18\]
 
-| 号               | 表紙モデル                                                           | 備考                                                                      |
-| --------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 2020年1月号 (405号) | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")   | 専属モデルである[目黒蓮](https://ja.wikipedia.org/wiki/目黒蓮 "wikilink")を含む          |
-| 2020年2月号 (406号) | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")   | 専属モデルである[ジェシーを含む](https://ja.wikipedia.org/wiki/ジェシー_\(俳優\) "wikilink") |
-| 2020年3月号 (407号) | [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink") | 専属モデル以外                                                                 |
-| 2020年4月号 (408号) | 藤井流星                                                            | 専属モデル以外                                                                 |
-| 2020年5月号 (409号) | 伊野尾慧                                                            | 専属モデル以外                                                                 |
+| 号              | 表紙モデル                                                           | 備考                                                                      |
+| -------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 2020年1月号（405号） | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")   | 専属モデルである[目黒蓮](https://ja.wikipedia.org/wiki/目黒蓮 "wikilink")を含む          |
+| 2020年2月号（406号） | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")   | 専属モデルである[ジェシーを含む](https://ja.wikipedia.org/wiki/ジェシー_\(俳優\) "wikilink") |
+| 2020年3月号（407号） | [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink") | 専属モデル以外                                                                 |
+| 2020年4月号（408号） | 藤井流星                                                            | 専属モデル以外                                                                 |
+| 2020年5月号（409号） | 伊野尾慧                                                            | 専属モデル以外                                                                 |
+| 2020年6月号（410号） | 目黒蓮（Snow Man）                                                   |                                                                         |
 
 ## FINEBOYS専属モデルオーディション
 

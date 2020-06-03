@@ -1,7 +1,7 @@
 > この記事は[MAD \(雑誌\)](https://ja.wikipedia.org/wiki/MAD_\(雑誌\))から翻訳されています。
 
 
-**MAD**は[1952年](../Page/1952年.md "wikilink")から[DCコミックス](../Page/DCコミックス.md "wikilink")が発行している[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の風刺雑誌。
+**MAD**は[1952年](../Page/1952年.md "wikilink")から[ECコミックス](https://ja.wikipedia.org/wiki/ECコミックス "wikilink")が発行している[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の風刺雑誌。
 
 ## 概要
 
@@ -14,5 +14,9 @@
 ## 外部リンク
 
   - [MAD](http://www.madmagazine.com/) - 公式サイト
+
+## 関連項目
+
+  - [スーパーデューパーマン](https://ja.wikipedia.org/wiki/スーパーデューパーマン "wikilink")
 
 [Category:アメリカ合衆国の雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑誌 "wikilink") [Category:1952年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1952年創刊の雑誌 "wikilink") [Category:ワーナーメディア](https://ja.wikipedia.org/wiki/Category:ワーナーメディア "wikilink") [Category:風刺雑誌](https://ja.wikipedia.org/wiki/Category:風刺雑誌 "wikilink") [Category:シュール・コメディ](https://ja.wikipedia.org/wiki/Category:シュール・コメディ "wikilink") [Category:自己言及作品](https://ja.wikipedia.org/wiki/Category:自己言及作品 "wikilink") [Category:ブラック・コメディ](https://ja.wikipedia.org/wiki/Category:ブラック・コメディ "wikilink")

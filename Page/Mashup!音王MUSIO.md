@@ -161,7 +161,7 @@ PVコメント：<a href="../Page/Every_Little_Thing.md" title="wikilink">ELT</a
 <td><p>15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">8月20日</a></p></td>
 <td><p><a href="../Page/ナナムジカ.md" title="wikilink">ナナムジカ</a><br />
-<a href="https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR" title="wikilink">HIGH and MIGHTY COLOR</a></p></td>
+<a href="../Page/HIGH_and_MIGHTY_COLOR.md" title="wikilink">HIGH and MIGHTY COLOR</a></p></td>
 <td><p>「トークスペシャル」として「緊急集会」を2本放送<br />
 HIGH and MIGHTY COLORを代表して、マーキーとユウスケが出演<br />
 PVコメント：<a href="https://ja.wikipedia.org/wiki/愛内里菜" title="wikilink">愛内里菜</a></p></td>
@@ -222,7 +222,7 @@ ET-KINGはメンバー7名全員が出演した。<br />
 <td><p>「仙台放送大感謝まつり」での公開収録<br />
 「桜塚突撃隊」で仙台牛タン焼きに桜塚が挑戦<br />
 ゲストの生歌を2曲放送<br />
-PVコメント：<a href="https://ja.wikipedia.org/wiki/doa_(ミュージシャン)" title="wikilink">doa</a></p></td>
+PVコメント：<a href="https://ja.wikipedia.org/wiki/doa_(バンド)" title="wikilink">doa</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>

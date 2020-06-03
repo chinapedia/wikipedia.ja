@@ -34,7 +34,7 @@
 
 ## 外部リンク
 
-  - [NHKトップページ](http://www.nhk.or.jp/)
+  - [NHKトップページ](https://www.nhk.or.jp/)
 
 [Category:NHK総合テレビジョンのミニ番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのミニ番組 "wikilink") [Category:広報・番組宣伝番組](https://ja.wikipedia.org/wiki/Category:広報・番組宣伝番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")
 

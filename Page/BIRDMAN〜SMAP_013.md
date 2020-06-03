@@ -66,7 +66,7 @@
 ### living large
 
   - Guitar: 石成正人
-  - Rap: [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") (from m-flo by the courstey of AVEX INC.)
+  - Rap: [VERBAL](../Page/VERBAL.md "wikilink") (from m-flo by the courstey of AVEX INC.)
   - Chorus: [LISA](../Page/LISA_\(歌手\).md "wikilink"), [Taku](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")
   - Manipulate: Taku
 

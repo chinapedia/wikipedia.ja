@@ -16,7 +16,7 @@ StAXは、その中間の手法として設計された。StAXの考え方では
 
 ## 起源
 
-StAXは、互換性のない多数のpull型XML APIにその起源を持つ。これらAPIのうち最も有名なXMLPULLの作者（Stefan HausteinとAleksandr Slominski）と、その他のAPIの作者である[BEAシステムズ](../Page/BEAシステムズ.md "wikilink")や[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、[サン](../Page/サン・マイクロシステムズ.md "wikilink")、[Breeze Factor](http://www.breezefactor.com/)、[ジェームズ・クラークの協働により誕生した](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")。
+StAXは、互換性のない多数のpull型XML APIにその起源を持つ。これらAPIのうち最も有名なXMLPULLの作者（Stefan HausteinとAleksandr Slominski）と、その他のAPIの作者である[BEAシステムズ](../Page/BEAシステムズ.md "wikilink")や[オラクル](../Page/オラクル_\(企業\).md "wikilink")、[サン](../Page/サン・マイクロシステムズ.md "wikilink")、[Breeze Factor](http://www.breezefactor.com/)、[ジェームズ・クラークの協働により誕生した](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")。
 
 ## 例
 

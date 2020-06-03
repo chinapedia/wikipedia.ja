@@ -1,7 +1,7 @@
 > この記事は[MATSUDA98](https://ja.wikipedia.org/wiki/MATSUDA98)から翻訳されています。
 
 
-**MATSUDA98**（まつだきゅうじゅうはち、[1982年](../Page/1982年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")作家、[配信者](../Page/ネット配信.md "wikilink")。 [女性](../Page/女性.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。
+**MATSUDA98**（まつだきゅうじゅうはち、[1982年](../Page/1982年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）は[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")作家、[配信者](../Page/ネット配信.md "wikilink")。 [女性](../Page/女性.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。
 
 漫画家の[蒼樹うめ](https://ja.wikipedia.org/wiki/蒼樹うめ "wikilink")とは互いに「戦友」。
 

@@ -1,7 +1,7 @@
 > この記事は[DO YA DO](https://ja.wikipedia.org/wiki/DO_YA_DO)から翻訳されています。
 
 
-「**DO YA DO**」（ドゥー・ヤー・ドゥー）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の25枚目の[シングル](../Page/シングル.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")に発売された。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+「**DO YA DO**」（ドゥー・ヤー・ドゥー）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の楽曲。自身の25作目の[シングル](../Page/シングル.md "wikilink")として、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")に発売された。
 
 ## 解説
 

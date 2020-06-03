@@ -1,7 +1,8 @@
 > この記事は[G.55 \(航空機\)](https://ja.wikipedia.org/wiki/G.55_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称 = G.55 チェンタウロ | 画像 = Image:FIAT G-55 Centauro (1).jpg | キャプション = G.55 チェンタウロ | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = 戦闘機 | 設計者 = [ジュゼッペ・ガブリエッリ](../Page/ジュゼッペ・ガブリエッリ.md "wikilink") | 製造者 = [フィアット](../Page/フィアット.md "wikilink")社 | 運用者 =
+{{ Infobox 航空機 | 名称 = G.55 チェンタウロ | 画像 = <File:Fiat> G.55 in volo II gruppo ANR 1944.jpg | キャプション = 飛行するG.55
+(第2グルッポ所属、[1944年](../Page/1944年.md "wikilink")撮影) | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = 戦闘機 | 設計者 = [ジュゼッペ・ガブリエッリ](../Page/ジュゼッペ・ガブリエッリ.md "wikilink") | 製造者 = [フィアット](../Page/フィアット.md "wikilink")社 | 運用者 =
 \*\*  [イタリア王立空軍](https://ja.wikipedia.org/wiki/イタリア空軍#戦間期:_王立空軍の創設 "wikilink")
 
   -   - [イタリア国家空軍](https://ja.wikipedia.org/wiki/:en:Aeronautica_Nazionale_Repubblicana "wikilink")
@@ -71,6 +72,14 @@ G.56はG.55により高出力の[DB603液冷エンジンを搭載した試作機
   -
   -
   -
+## 現存する機体
+
+G.55の現存する機体は無いが、[ヴィーニャ・ディ・ヴァッレ空軍歴史博物館](../Page/ヴィーニャ・ディ・ヴァッレ空軍歴史博物館.md "wikilink")（イタリア空軍博物館）には、G.55と基本設計は同様である練習機、[G.59-2A セリエIVのMM](https://ja.wikipedia.org/wiki/:en:Fiat_G.59 "wikilink")53265号機を改造したG.55が展示されている。
+
+[博物館公式サイト　説明ページ](http://www.aeronautica.difesa.it/storia/museostorico/Pagine/FIATG55.aspx)
+
+[博物館公式サイト　諸元ページ](http://www.aeronautica.difesa.it/mezzi/mstorici/Pagine/FIAT-G-55.aspx) [Fiat_G.55_5_(really_G.59_MM53265)_(6446493081).jpg](https://ja.wikipedia.org/wiki/File:Fiat_G.55_5_\(really_G.59_MM53265\)_\(6446493081\).jpg "fig:Fiat_G.55_5_(really_G.59_MM53265)_(6446493081).jpg")
+
 ## 登場作品
 
 ### アニメ

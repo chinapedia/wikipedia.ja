@@ -28,7 +28,7 @@
 
 二井原は活動休止が決定した時、「この時代に自分のような歌い手は居場所が無い」とシンガーとしての引退を考えたという。しかし、元[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")（後に復帰）の[橘高文彦](../Page/橘高文彦.md "wikilink")、旧友だった[ファンキー末吉](../Page/ファンキー末吉.md "wikilink")、その同僚だった[和佐田達彦](https://ja.wikipedia.org/wiki/和佐田達彦 "wikilink")の4人で[X.Y.Z.→A](../Page/X.Y.Z.→A.md "wikilink")を結成（結成当初のバンド名はX.Y.Z.）。その活動と並行し、樋口と共にLOUDNESSに復帰。2008年11月に樋口が他界するまで、全盛期のラインナップで活動していた。石原も活動休止後、EARTHSHAKERを再結成し活動。寺沢は[野村義男](../Page/野村義男.md "wikilink")と[RIDER CHIPSを結成した](../Page/RIDER_CHIPS.md "wikilink")。
 
-[2012年](../Page/2012年.md "wikilink")、LOUDNESS 樋口宗孝追悼ライブ vol4の中で、二井原・石原・寺沢による一夜限りの再結成を披露。ドラムは樋口のライブ音源が映像と合わせて使われた。
+[2012年](../Page/2012年.md "wikilink")12月、LOUDNESSが主催したイベント『樋口宗孝追悼ライブ vol.4 EVERLASTING MUNETAKA HIGUCHI 2012 5th Memorial』にて、二井原・石原・寺沢による一夜限りの再結成を披露。ドラムは樋口のライブ音源が映像と合わせて使われた。
 
 ### 柴田直人加入～脱退の経緯
 

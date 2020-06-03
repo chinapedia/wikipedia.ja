@@ -31,7 +31,7 @@
 
 2008年10月1日、第4代ライトヘビー級キング・オブ・パンクラス決定戦で[川村亮](../Page/川村亮.md "wikilink")と対戦し、判定負けを喫し王座獲得に失敗した。
 
-[2009年](../Page/2009年.md "wikilink")5月2日、[戦極初参戦となった](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP "wikilink")[戦極 〜第八陣〜で](https://ja.wikipedia.org/wiki/戦極_〜第八陣〜 "wikilink")[シャンジ・ヒベイロ](../Page/シャンジ・ヒベイロ.md "wikilink")と対戦し、右フックでKO負け。
+[2009年](../Page/2009年.md "wikilink")5月2日、[戦極初参戦となった](../Page/SENGOKU_RAIDEN_CHAMPIONSHIP.md "wikilink")[戦極 〜第八陣〜で](https://ja.wikipedia.org/wiki/戦極_〜第八陣〜 "wikilink")[シャンジ・ヒベイロ](../Page/シャンジ・ヒベイロ.md "wikilink")と対戦し、右フックでKO負け。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月5日、第5代ウェルター級キング・オブ・パンクラス王座決定戦で[宇良健吾と対戦](https://ja.wikipedia.org/wiki/URAKEN "wikilink")。判定は3者とも30-30となるも、マストシステムで1-2の判定負けを喫し王座獲得に失敗した\[7\]。
 

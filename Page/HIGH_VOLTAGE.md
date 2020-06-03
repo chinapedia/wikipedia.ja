@@ -120,7 +120,7 @@
 
   - [HIGH VOLTAGE](http://www.high-voltage.jp/) - 公式ウェブサイト
 
-  - [HIGH VOLTAGE](http://ip.tosp.co.jp/i.asp?i=hivol) - 携帯用公式ウェブサイト
+  - \- 携帯用公式ウェブサイト
 
   - [HIGHblogTAGE](http://blog.livedoor.jp/hivol/) - 公式ブログ
 

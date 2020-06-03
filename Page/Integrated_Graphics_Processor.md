@@ -1,7 +1,7 @@
 > この記事は[Integrated Graphics Processor](https://ja.wikipedia.org/wiki/Integrated_Graphics_Processor)から翻訳されています。
 
 
-**Integrated Graphics Processor**（**IGP**、統合グラフィックスプロセッサ）とは、[チップセット](../Page/チップセット.md "wikilink")または[CPU](../Page/CPU.md "wikilink")に統合された[グラフィックスプロセッサ](https://ja.wikipedia.org/wiki/グラフィックコントローラ "wikilink")（[GPU](../Page/Graphics_Processing_Unit.md "wikilink")）のこと。統合グラフィックスとも呼ばれる。IGPはグラフィックスプロセッサを搭載するチップセットを指すこともある。
+**Integrated Graphics Processor**（**IGP**、統合グラフィックスプロセッサ）とは、[チップセット](../Page/チップセット.md "wikilink")または[CPU](../Page/CPU.md "wikilink")に統合された[グラフィックスプロセッサ](../Page/グラフィックコントローラ.md "wikilink")（[GPU](../Page/Graphics_Processing_Unit.md "wikilink")）のこと。統合グラフィックスとも呼ばれる。IGPはグラフィックスプロセッサを搭載するチップセットを指すこともある。
 
 特に[NVIDIA](../Page/NVIDIA.md "wikilink")の[nForceシリーズにおいてグラフィックス機能を搭載した](https://ja.wikipedia.org/wiki/NVIDIA#チップセット「nForce」について "wikilink")[ノースブリッジ](../Page/ノースブリッジ.md "wikilink")チップを指すことが多いが、NVIDIAに限らず、[ATIや](../Page/ATI_Technologies.md "wikilink")[VIA](../Page/VIA_Technologies.md "wikilink")、[SiSのチップセットにおいてもIGPは多数存在した](../Page/Silicon_Integrated_Systems.md "wikilink")。ただし、VIAだけはチップセットそのものではなく、グラフィックスコアとなる[S3 ChromeをIGPと呼んでいる](../Page/S3_Chrome.md "wikilink")。
 

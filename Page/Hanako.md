@@ -7,7 +7,7 @@
 
 20代女性を主要読者とした情報系雑誌。創刊から[2005年](../Page/2005年.md "wikilink")までは[週刊誌](../Page/週刊誌.md "wikilink")。[2006年](../Page/2006年.md "wikilink")1月26日号（867号）以降は隔週刊。さらに2018年9月より月刊化。
 
-[1988年](../Page/1988年.md "wikilink")6月2日創刊。創刊号の表紙は[ケン・ドーンのイラスト](https://ja.wikipedia.org/wiki/ケン・ドーン_\(アーティスト\) "wikilink")。タイトルロゴもケン・ドーン作。250円。発行人は[木滑良久](https://ja.wikipedia.org/wiki/木滑良久 "wikilink")、初代編集長は[椎根和](https://ja.wikipedia.org/wiki/椎根和 "wikilink")。初期目標は35万部。[首都圏の情報だけを集めた雑誌は数少なかった](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")。創刊号の特集は「いい部屋はステイタス」\[1\]。
+[1988年](../Page/1988年.md "wikilink")6月2日創刊。創刊号の表紙は[ケン・ドーンのイラスト](https://ja.wikipedia.org/wiki/ケン・ドーン_\(アーティスト\) "wikilink")。タイトルロゴもケン・ドーン作。250円。発行人は[木滑良久](https://ja.wikipedia.org/wiki/木滑良久 "wikilink")、初代編集長は[椎根和](https://ja.wikipedia.org/wiki/椎根和 "wikilink")。初期目標は35万部。[首都圏の情報だけを集めた雑誌は数少なかった](../Page/首都圏_\(日本\).md "wikilink")。創刊号の特集は「いい部屋はステイタス」\[1\]。
 
 対象とする読者像は当時の首都圏の結婚平均年齢の27歳女性。年2回は[海外旅行](https://ja.wikipedia.org/wiki/海外旅行 "wikilink")へ行き、[ブランド](../Page/ブランド.md "wikilink")物を思い切って買うけれども、お得情報にも敏感で貯蓄もする。女性誌では珍しい金融関係の広告がある。東京近郊の[大学](../Page/大学.md "wikilink")を出て、一流会社に勤めて3～5年以上、今すぐ会社を辞めても、海外で3カ月は暮らせる資金があり。キャリアと結婚だけではイヤ、というものであった\[2\]。
 

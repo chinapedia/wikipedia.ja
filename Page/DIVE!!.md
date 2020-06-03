@@ -1,7 +1,7 @@
 > この記事は[DIVE!!](https://ja.wikipedia.org/wiki/DIVE!!)から翻訳されています。
 
 
-『**DIVE\!\!**』（ダイブ）は、[森絵都](https://ja.wikipedia.org/wiki/森絵都 "wikilink")による、[水泳](../Page/水泳.md "wikilink")の[飛込み競技](https://ja.wikipedia.org/wiki/飛込み競技 "wikilink")を題材とした「[スポ根](../Page/スポ根.md "wikilink")」[青春小説](https://ja.wikipedia.org/wiki/青春小説 "wikilink")。[2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて、[講談社](../Page/講談社.md "wikilink")より全4巻が刊行された。第52回[小学館児童出版文化賞](../Page/小学館児童出版文化賞.md "wikilink")受賞作。[2006年](../Page/2006年.md "wikilink")に[角川文庫](../Page/角川文庫.md "wikilink")より[文庫版](https://ja.wikipedia.org/wiki/文庫版 "wikilink")（上・下）が発売された。
+『**DIVE\!\!**』（ダイブ）は、[森絵都](https://ja.wikipedia.org/wiki/森絵都 "wikilink")による、[水泳](../Page/水泳.md "wikilink")の[飛込み競技](https://ja.wikipedia.org/wiki/飛込み競技 "wikilink")を題材とした「[スポ根](../Page/スポ根.md "wikilink")」[青春小説](../Page/青春小説.md "wikilink")。[2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて、[講談社](../Page/講談社.md "wikilink")より全4巻が刊行された。第52回[小学館児童出版文化賞](../Page/小学館児童出版文化賞.md "wikilink")受賞作。[2006年](../Page/2006年.md "wikilink")に[角川文庫](../Page/角川文庫.md "wikilink")より[文庫版](https://ja.wikipedia.org/wiki/文庫版 "wikilink")（上・下）が発売された。
 
 [2003年](../Page/2003年.md "wikilink")に[NHK-FMの](../Page/NHK-FM放送.md "wikilink")「[青春アドベンチャー](../Page/青春アドベンチャー.md "wikilink")」で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")化、[熊澤尚人](https://ja.wikipedia.org/wiki/熊澤尚人 "wikilink")監督で映画化、2008年6月公開。また、[池野雅博](../Page/池野雅博.md "wikilink")作画で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化されたものが『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』[2007年](../Page/2007年.md "wikilink")28号より2008年27号まで連載されていた。2017年より、紅柴るづる作画による新たな漫画版が『[ヤングエース](https://ja.wikipedia.org/wiki/ヤングエース "wikilink")』2017年7月号から連載中。2018年9月に舞台版が上演予定\[1\]。
 
@@ -201,7 +201,7 @@
   - スクリプター：[赤澤環](https://ja.wikipedia.org/wiki/赤澤環 "wikilink")
   - 助監督：[阿部溝良](https://ja.wikipedia.org/wiki/阿部溝良 "wikilink")
   - 制作担当：[山下秀治](https://ja.wikipedia.org/wiki/山下秀治 "wikilink")、[中村秀康](https://ja.wikipedia.org/wiki/中村秀康 "wikilink")
-  - エキストラなど協力　[日本体育大学](https://ja.wikipedia.org/wiki/日本体育大学 "wikilink")・[天理大学](../Page/天理大学.md "wikilink")水泳部飛込部員など
+  - エキストラなど協力　[日本体育大学](../Page/日本体育大学.md "wikilink")・[天理大学](../Page/天理大学.md "wikilink")水泳部飛込部員など
   - 製作：「ダイブ\!\!」製作委員会（[角川映画](../Page/角川映画.md "wikilink")、[日本映画ファンド](https://ja.wikipedia.org/wiki/日本映画ファンド "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[C\&Iエンタテインメント](https://ja.wikipedia.org/wiki/C&Iエンタテインメント "wikilink")、[WOWOW](../Page/WOWOW.md "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")）
 
 ### 主題歌
@@ -362,7 +362,7 @@ Cha Sanghoon</p></td>
 <td><p>植田羊一</p></td>
 <td><p>倉谷涼一</p></td>
 <td><p>植田羊一、<a href="https://ja.wikipedia.org/wiki/加野晃" title="wikilink">加野晃</a>、冨永拓生<br />
-谷津美弥子、<a href="https://ja.wikipedia.org/wiki/山下敏成" title="wikilink">山下敏成</a><br />
+谷津美弥子、<a href="../Page/山下敏成.md" title="wikilink">山下敏成</a><br />
 <a href="https://ja.wikipedia.org/wiki/山根まさひろ" title="wikilink">山根まさひろ</a>、横田和彦</p></td>
 <td></td>
 </tr>

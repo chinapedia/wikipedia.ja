@@ -69,7 +69,7 @@
   - 小松未歩 - コーラス
       - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")（[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")・[Mi-Ke](../Page/Mi-Ke.md "wikilink")） - コーラス（\#9）\[7\]
       - [生沢佑一](../Page/生沢佑一.md "wikilink")（[TWINZER](../Page/TWINZER.md "wikilink")・[BLAZE](https://ja.wikipedia.org/wiki/BLAZE_\(ロックバンド\) "wikilink")） - コーラス（\#9）
-      - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - コーラス（\#1,\#7,\#13）、アコースティックギター＆エレクトリックギター＆プログラミング（\#1,\#3,\#7,\#13）、エレクトリックベース（\#3,\#7）
+      - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")） - コーラス（\#1,\#7,\#13）、アコースティックギター＆エレクトリックギター＆プログラミング（\#1,\#3,\#7,\#13）、エレクトリックベース（\#3,\#7）
       - [岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")） - コーラス（\#6）、アコースティックギター（\#11）、エレクトリックギター＆プログラミング（\#6,\#11）
       - [大賀好修](../Page/大賀好修.md "wikilink")（[nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")） - アコースティックギター（\#2,\#5,\#8）、エレクトリックギター（\#2,\#5,\#8,\#12）、プログラミング（\#8,\#12）
       - [新津健二](https://ja.wikipedia.org/wiki/新津健二 "wikilink")（[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")） - アコースティックギター（\#10）
@@ -85,7 +85,7 @@
 
   - [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
   - [岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")（GARNET CROW）
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
   - [大賀好修](../Page/大賀好修.md "wikilink")（[nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
   - [麻井寛史](../Page/麻井寛史.md "wikilink")（[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")・[WAR-ED](https://ja.wikipedia.org/wiki/WAR-ED "wikilink")・Sensation）

@@ -18,7 +18,7 @@
 1.  **愛は風のように**
     （作詞・作曲：福山雅治 / 編曲：[小原礼](../Page/小原礼.md "wikilink")）
       -
-        1972年発表の[BUZZの](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")「ケンとメリー〜愛と風のように〜」に触発されて書き下ろした楽曲\[2\]\[3\]。
+        1972年発表の[BUZZの](../Page/バズ_\(バンド\).md "wikilink")「ケンとメリー〜愛と風のように〜」に触発されて書き下ろした楽曲\[2\]\[3\]。
         ライブアルバム『[fukuyama masaharu acoustic live best selection "Live Fukuyamania"](https://ja.wikipedia.org/wiki/fukuyama_masaharu_acoustic_live_best_selection_"Live_Fukuyamania" "wikilink")』と30thシングル「[誕生日には真白な百合を／Get the groove](https://ja.wikipedia.org/wiki/誕生日には真白な百合を/Get_the_groove "wikilink")」にライブ音源を収録している。
         2012年には[東芝](../Page/東芝.md "wikilink")企業CM「社会のecoスタイル」[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")。
 2.  **[Heart](https://ja.wikipedia.org/wiki/Heart/you "wikilink")**

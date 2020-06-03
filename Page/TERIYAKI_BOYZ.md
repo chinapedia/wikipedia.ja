@@ -26,7 +26,7 @@
   - [RYO-Z](../Page/RYO-Z.md "wikilink")（リョージ） - MC。RIP SLYMEのメンバー。
   - [VERBAL](../Page/VERBAL.md "wikilink")（バーバル） - MC。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメンバー。
   - [WISE](../Page/WISE.md "wikilink")（ワイズ） - MC。(B)APE SOUNDS所属。
-  - [NIGO](../Page/NIGO.md "wikilink")®（ニゴー） - DJ。[ユニクロ](../Page/ユニクロ.md "wikilink")(UT)のクリエイティブディレクター。
+  - [NIGO](../Page/NIGO.md "wikilink")®（ニゴー） - DJ。\[A BATHING APE\]のクリエイティブディレクター。
 
 ## ディスコグラフィ
 

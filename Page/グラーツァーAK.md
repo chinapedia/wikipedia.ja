@@ -102,6 +102,6 @@
   - [公式サイト](http://www.grazerak.at)
   - [fansite with basic information in English, French, Spanish, Polish and Dutch](http://www.g-a-k.at)
 
-[Category:グラーツのスポーツ](https://ja.wikipedia.org/wiki/Category:グラーツのスポーツ "wikilink")
+[Category:グラーツのスポーツ](https://ja.wikipedia.org/wiki/Category:グラーツのスポーツ "wikilink") [Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:1902年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1902年設立のスポーツチーム "wikilink")
 
 1.

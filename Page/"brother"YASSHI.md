@@ -127,11 +127,15 @@
 
 <references/>
 
+## 関連作品
+
+  - [井上章一](../Page/井上章一.md "wikilink")『京都ぎらい』朝日新聞出版, 2015.
+
 ## 外部リンク
 
   -
   - [SHERDOG 選手データ](https://www.sherdog.com/fighter/Yasushi-Tsujimoto-23561)
 
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:アマチュアレスリング出身のプロレスラー](https://ja.wikipedia.org/wiki/Category:アマチュアレスリング出身のプロレスラー "wikilink") [Category:全日本プロレス](https://ja.wikipedia.org/wiki/Category:全日本プロレス "wikilink") [Category:エルドラド](https://ja.wikipedia.org/wiki/Category:エルドラド "wikilink") [Category:DRAGON_GATEに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに所属したプロレスラー "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:京都廣学館高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:京都廣学館高等学校出身の人物 "wikilink") [Category:在メキシコ日本人](https://ja.wikipedia.org/wiki/Category:在メキシコ日本人 "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:アマチュアレスリング出身のプロレスラー](https://ja.wikipedia.org/wiki/Category:アマチュアレスリング出身のプロレスラー "wikilink") [Category:全日本プロレス](https://ja.wikipedia.org/wiki/Category:全日本プロレス "wikilink") [Category:エルドラド](https://ja.wikipedia.org/wiki/Category:エルドラド "wikilink") [Category:DRAGON_GATEに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに所属したプロレスラー "wikilink") [Category:ハッスルの人物](https://ja.wikipedia.org/wiki/Category:ハッスルの人物 "wikilink") [Category:京都廣学館高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:京都廣学館高等学校出身の人物 "wikilink") [Category:在メキシコ日本人](https://ja.wikipedia.org/wiki/Category:在メキシコ日本人 "wikilink") [Category:京都府出身の人物](https://ja.wikipedia.org/wiki/Category:京都府出身の人物 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  週刊プロレス2017年9月13日号p.82.

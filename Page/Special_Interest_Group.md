@@ -5,7 +5,7 @@
 
 「Special Interest Group」という言葉そのものは一般的な名称だが、日本国内ではパソコン通信の[電子掲示板](../Page/電子掲示板.md "wikilink")を中心とする同好の士の集う場の意味として使われた。中でも[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")の運営する大手商用パソコン通信サービス[PC-VAN](../Page/PC-VAN.md "wikilink")がテーマ別のコミュニティシステムの名称として使ったことから、特に「PC-VAN内のコミュニティシステム」のことを意味する場合が多い（同様に、一般的な言葉が特定のサービスの名称として使われたものに、[ニフティサーブ](https://ja.wikipedia.org/wiki/ニフティサーブ "wikilink")におけるフォーラムがある）。PC-VANのSIGには、PC-VANの会員なら誰でもが参加できた。
 
-SIG の管理者を SIGOP （シグオペ、 SIG Operator ）という。
+SIG の管理者を SIGOP （シグオペ、SIG Operator ）という。
 
 SIGという名称は[アスキーの運営する](../Page/アスキー_\(企業\).md "wikilink")[アスキーネット](../Page/アスキーネット.md "wikilink")や[草の根BBS](https://ja.wikipedia.org/wiki/草の根BBS "wikilink")でも使われていたが、ここでは、PC-VANのSIGを例にとって解説する。
 

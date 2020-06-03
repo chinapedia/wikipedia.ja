@@ -1,13 +1,13 @@
 > この記事は[Pocket PC](https://ja.wikipedia.org/wiki/Pocket_PC)から翻訳されています。
 
 
-[PDA_HP.jpg](https://ja.wikipedia.org/wiki/File:PDA_HP.jpg "fig:PDA_HP.jpg") [O2xda2i.jpg](https://ja.wikipedia.org/wiki/File:O2xda2i.jpg "fig:O2xda2i.jpg") **Pocket PC**（ポケットピーシー）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[PDA向け](../Page/携帯情報端末.md "wikilink")[プラットフォームの名称](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")、およびそれに基づいたハードウェアの名称である。[OSには](../Page/オペレーティングシステム.md "wikilink")[組み込みオペレーティングシステム](../Page/組み込みオペレーティングシステム.md "wikilink")である[Windows CEを使用する](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")。なお、2003年以降は「Pocket PC」の名称は使われなくなっている（下記参照）。
+[PDA_HP.jpg](https://ja.wikipedia.org/wiki/File:PDA_HP.jpg "fig:PDA_HP.jpg") [O2xda2i.jpg](https://ja.wikipedia.org/wiki/File:O2xda2i.jpg "fig:O2xda2i.jpg") **Pocket PC**（ポケットピーシー）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[PDA向け](../Page/携帯情報端末.md "wikilink")[プラットフォームの名称](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")、およびそれに基づいたハードウェアの名称である。[OSには](../Page/オペレーティングシステム.md "wikilink")[組み込みオペレーティングシステム](../Page/組み込みオペレーティングシステム.md "wikilink")である[Windows CEを使用する](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")。
 
 ## 概要
 
 ハードウェアの名称として使う場合、当初は通話機能を持たないもの（狭義のPDA）を指していたが、「Pocket PC Phone Edition」が開発されて2002年に米国で携帯電話に搭載されてからは、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")にもPocket PCに当てはまるものがでてくるようになった。
 
-PocketPCという語が考案されて普及する以前の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に**Palm PC**として発表されたが、この名称はPalm Computing社から発売されてヒット中だった[Palm](../Page/Palm.md "wikilink")シリーズに酷似しすぎていたため、すぐに**Palm-size PC**という名前に変更され、さらに[2000年](../Page/2000年.md "wikilink")に発表されたバージョンからは**Pocket PC**と改称された。[2003年](../Page/2003年.md "wikilink")のバージョンからOSの正式名称が「Windows Mobile」になったことから、機器についても**Windows Mobile**あるいは**Windows Mobile機**と呼ばれるようになった。
+PocketPCという語が考案されて普及する以前の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に**Palm PC**として発表されたが、この名称はPalm Computing社から発売されてヒット中だった[Palm](../Page/Palm.md "wikilink")シリーズに酷似しすぎていたため、すぐに**Palm-size PC**という名前に変更され、さらに[2000年](../Page/2000年.md "wikilink")に発表されたバージョンからは**Pocket PC**と改称された。[2003年](../Page/2003年.md "wikilink")のバージョンからOSの正式名称が「Windows Mobile （バージョン名）for Pocket PC」となったが、その後もOS名の略称や商品名は引き続き「Pocket PC」であった。2005年の「Windows Mobile 5.0 for Pocket PC」以降は**Windows Mobile**あるいは**Windows Mobile機**と呼ばれることが増えた。
 
 日本国内では[2002年](../Page/2002年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")ごろにかけて相次いで国内外各社が参入し、多くのPocketPC機が投入された。しかし多機能型の[携帯電話](../Page/携帯電話.md "wikilink")が急速に普及したことから通話機能を持たない純粋なPDAの売り上げは低迷し、さらに2007年になって[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")や[UMPCの登場が追い討ちをかけた](../Page/Ultra-Mobile_PC.md "wikilink")。その結果、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")のiPAQ、[デル](../Page/デル.md "wikilink")のAximなどを最後にPocketPC機は市場から消えた。2012年現在、通話機能を持たないPDAとしては[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[Android](../Page/Android.md "wikilink")搭載[タブレットが主流となっている](../Page/タブレット_\(コンピュータ\).md "wikilink")。
 
@@ -37,13 +37,13 @@ Windows CE3.0ベース。2001年10月5日発表。正式名称は「Microsoft Po
 
 [Windows XPに準じたインターフェイスを採用したほか](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")、Windows Media Playerが標準で搭載される。また、これ以降は[ARM系](../Page/ARMアーキテクチャ.md "wikilink")[CPU](../Page/CPU.md "wikilink")のみ対応となった。
 
-### Windows Mobile 2003
+### Pocket PC 2003
 
 Windows CE .NET 4.2ベース。2003年6月30日発表。正式名称は「Microsoft Windows Mobile 2003 Software for Pocket PC」。略称は「PPC2003」。
 
 入力方式が新しくなったほか、[無線LAN](../Page/無線LAN.md "wikilink")や[Bluetooth](../Page/Bluetooth.md "wikilink")の機能が強化された。新たに[画像ビューワ](https://ja.wikipedia.org/wiki/画像ビューワ "wikilink")「Pictures」等が標準搭載。このバージョンから「Windows Mobile」という正式名称が使われるようになったが、Pocket PC、Pocket PC 2002の後継バージョンということで「Pocket PC 2003」という呼称の方が一般的だった。
 
-### Windows Mobile 2003 SE
+### Pocket PC 2003 SE
 
 Windows CE .NET 4.21ベース。2004年7月6日発表。正式名称は「Microsoft Windows Mobile 2003 Second Edition Software for Pocket PC」。略称は「PPC2003SE」。
 

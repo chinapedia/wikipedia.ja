@@ -389,12 +389,13 @@
   - 第14巻 [2016年](../Page/2016年.md "wikilink")9月26日発売、ISBN 978-4-04-104814-6
   - 第15巻 [2017年](../Page/2017年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")発売、ISBN 978-4-04-106192-3
   - 第16巻 [2019年](../Page/2019年.md "wikilink")2月23日発売、ISBN 978-4-04-107809-9
+  - 第17巻 2019年[10月24日](../Page/10月24日.md "wikilink")発売、ISBN 978-4-04-108769-5
 
 ## 脚注
 
 <references />
 
-[Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:ビーンズエース](https://ja.wikipedia.org/wiki/Category:ビーンズエース "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:妖怪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:妖怪を題材とした漫画作品 "wikilink") [Category:薬物を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした漫画作品 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
+[Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:2000年の漫画](https://ja.wikipedia.org/wiki/Category:2000年の漫画 "wikilink") [Category:ビーンズエース](https://ja.wikipedia.org/wiki/Category:ビーンズエース "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:妖怪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:妖怪を題材とした漫画作品 "wikilink") [Category:薬物を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした漫画作品 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  <http://www.lantis.jp/special/zone-00/>
 2.  この刀は浄阿弥が持つ刀「道成寺」と対になっており、同時に志萬家の証である。当代が「清姫」を鞘から抜けなくなると当主交代となる。

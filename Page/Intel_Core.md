@@ -133,7 +133,7 @@ Yonahは、Banias（バニアス）やDothan（ドタン、ドーサン）など
 
 **Intel Core 2**（インテル コア ツー）は、インテルが[2006年](../Page/2006年.md "wikilink")[8月](../Page/8月.md "wikilink")に発売した、64ビットのシングルコア、デュアルコア、またはクアッドコアの[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")-[64マイクロプロセッサのブランド名である](https://ja.wikipedia.org/wiki/x64 "wikilink")。
 
-65nm（第1世代）または45nm（第2世代）プロセスルールで製造されるマルチコアコアCPUであり、Intel Coreだけでなく、[Pentium 4](../Page/Pentium_4.md "wikilink")、[Pentium D](../Page/Pentium_D.md "wikilink")、[Pentium Extreme Editionの後継モデルにあたる](../Page/Pentium_Extreme_Edition.md "wikilink")。開発系統上の前モデルにあたるCoreとのスペック上の差異として、クアッドコア対応、[Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")（当時はIntel EM64Tと呼称した）、[vPro](https://ja.wikipedia.org/wiki/vPro "wikilink")テクノロジ、[Intel TXTなどの機能面の対応などが挙げられる](https://ja.wikipedia.org/wiki/:en:Trusted_Execution_Technology "wikilink")。
+65nm（第1世代）または45nm（第2世代）プロセスルールで製造されるマルチコアCPUであり、Intel Coreだけでなく、[Pentium 4](../Page/Pentium_4.md "wikilink")、[Pentium D](../Page/Pentium_D.md "wikilink")、[Pentium Extreme Editionの後継モデルにあたる](../Page/Pentium_Extreme_Edition.md "wikilink")。開発系統上の前モデルにあたるCoreとのスペック上の差異として、クアッドコア対応、[Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink")（当時はIntel EM64Tと呼称した）、[vPro](https://ja.wikipedia.org/wiki/vPro "wikilink")テクノロジ、[Intel TXTなどの機能面の対応などが挙げられる](https://ja.wikipedia.org/wiki/:en:Trusted_Execution_Technology "wikilink")。
 
 ### ラインナップ
 

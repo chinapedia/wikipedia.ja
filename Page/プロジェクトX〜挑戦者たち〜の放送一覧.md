@@ -549,7 +549,7 @@ YS-11・運命の初飛行</p></td>
 〜純国産・屈辱からの復活戦〜</p></td>
 <td><p><a href="../Page/H-IIロケット.md" title="wikilink">H-IIロケット</a>開発</p></td>
 <td><p><a href="../Page/宇宙開発事業団.md" title="wikilink">宇宙開発事業団</a><br />
-（現・<a href="https://ja.wikipedia.org/wiki/宇宙航空研究開発機構" title="wikilink">宇宙航空研究開発機構</a>）</p></td>
+（現・<a href="../Page/宇宙航空研究開発機構.md" title="wikilink">宇宙航空研究開発機構</a>）</p></td>
 <td><p>前編</p></td>
 </tr>
 <tr class="even">

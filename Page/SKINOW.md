@@ -84,7 +84,7 @@
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink")→[テレビ北海道](../Page/テレビ北海道.md "wikilink")
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")（'84を放送）
   - [富山テレビ](../Page/富山テレビ放送.md "wikilink")

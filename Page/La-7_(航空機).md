@@ -1,11 +1,11 @@
 > この記事は[La-7 \(航空機\)](https://ja.wikipedia.org/wiki/La-7_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称 = La-7 / Ла-7 | 画像 = <File:La-7> 4 ld.jpg | キャプション = チェコスロヴァキア機の画像 | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = | 設計者 = | 製造者 = [ラヴァーチュキン設計局](https://ja.wikipedia.org/wiki/S・A・ラヴォーチキン記念科学製造合同 "wikilink") | 運用者 more =
-\*\*  [労働者・農民赤色空軍](../Page/赤色空軍.md "wikilink")
+{{ Infobox 航空機 | 名称 = La-7 / Ла-7 | 画像 = <File:La-7> 4 ld.jpg | キャプション = チェコスロヴァキア機の画像 | 用途 = [戦闘機](../Page/戦闘機.md "wikilink") | 分類 = 陸上戦闘機 | 設計者 = [ラヴォーチュキン設計局](https://ja.wikipedia.org/wiki/S・A・ラヴォーチキン記念科学製造合同 "wikilink") | 製造者 = 第21工場、第381工場、第99工場 | 運用者 more =
+\*\*  [労働者・農民赤色空軍](../Page/赤色空軍.md "wikilink")→[ソ連空軍](../Page/ソ連空軍.md "wikilink")
 
   -   -
-| 初飛行年月日 = [1944年](../Page/1944年.md "wikilink") | 生産数 = 5753機 | 生産開始年月日 = | 運用開始年月日 = | 退役年月日 = | 運用状況 = 退役 | ユニットコスト = }} **La-7**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):**** ラー・スィェーミ）は、[ラヴァーチュキン設計局が開発し](https://ja.wikipedia.org/wiki/S・A・ラヴォーチキン記念科学製造合同 "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時の[ソヴィエト連邦の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[赤色空軍](../Page/赤色空軍.md "wikilink")などで運用された[戦闘機](../Page/戦闘機.md "wikilink")。
+| 初飛行年月日 = [1944年](../Page/1944年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") | 生産数 = 5,753機 | 生産開始年月日 = 1944年 | 運用開始年月日 = 1944年6月 | 退役年月日 = [1952年](../Page/1952年.md "wikilink")（ソ連空軍） | 運用状況 = 退役 | ユニットコスト = }} **La-7**（*Lavochkin La-7* ラ7 / [ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):**** ）は、[ラヴァーチュキン設計局が開発し](https://ja.wikipedia.org/wiki/S・A・ラヴォーチキン記念科学製造合同 "wikilink")、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時の[ソヴィエト連邦の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[赤色空軍](../Page/赤色空軍.md "wikilink")などで運用された[戦闘機](../Page/戦闘機.md "wikilink")。
 
 第二次世界大戦時に運用された最も優秀とされる戦闘機のひとつ。[La-5FNの改良型で](https://ja.wikipedia.org/wiki/La-5_\(航空機\) "wikilink")、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")にも使われた。
 
@@ -19,11 +19,14 @@
 
 三度ソ連の英雄となり、連合軍の優れたエースでもあったコジェドゥーブは、62機撃墜の栄光を、すべてラボーチキン戦闘機によって勝ち取った。 コジェドゥーブに供与された最後のラボーチキン戦闘機は、La-7であった。このLa-7でメッサーシュミット[Me262を含むドイツ機](../Page/メッサーシュミット_Me262.md "wikilink")17機を撃墜した。
 
-## スペック
+## 諸元
 
 [thumb](https://ja.wikipedia.org/wiki/file:La-7.svg "wikilink")
 
-  - 初飛行：1944年
+  - La-7
+
+<!-- end list -->
+
   - 翼幅：9.80 m
   - 全長：8.67 m
   - 全高：2.54 m
@@ -39,6 +42,15 @@
   - 最大上昇力：1111 m/min
   - 乗員：1 名
   - 武装：20 mm機銃 [ShVAK](https://ja.wikipedia.org/wiki/ShVAK_\(機関砲\) "wikilink") （） ×2、または 20 mm機銃 [B-20](https://ja.wikipedia.org/wiki/B-20_\(機関砲\) "wikilink")（） ×3、200 kgまでの爆弾（両翼下）
+
+## 現存する機体
+
+| 型名   | 番号 | 機体写真                                                                                                                                                                                  | 所在地       | 所有者                                                                                   | 公開状況 | 状態   | 備考                                                                                                                                                          |
+| ---- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------- | ---- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| La-7 | 21 | [Memorial_La-7_open_7-may-2007.jpg](https://ja.wikipedia.org/wiki/File:Memorial_La-7_open_7-may-2007.jpg "fig:Memorial_La-7_open_7-may-2007.jpg")                                  | ロシア モスクワ州 | [S・A・ラヴォーチキン記念科学製造合同](https://ja.wikipedia.org/wiki/S・A・ラヴォーチキン記念科学製造合同 "wikilink")本社 | 公開   | 静態展示 |                                                                                                                                                             |
+| La-7 | 27 | [Lavochkin_La-7_’27_white’_(38154945275).jpg](https://ja.wikipedia.org/wiki/File:Lavochkin_La-7_’27_white’_\(38154945275\).jpg "fig:Lavochkin_La-7_’27_white’_(38154945275).jpg") | ロシア モスクワ州 | [ロシア連邦空軍中央博物館](https://ja.wikipedia.org/wiki/モニノ空軍博物館 "wikilink")                     | 公開   | 静態展示 | [撃墜王](https://ja.wikipedia.org/wiki/撃墜王 "wikilink")である[イヴァーン・ムィクィートヴィチ・コジェドゥーブの乗機](../Page/イヴァーン・コジェドゥーブ.md "wikilink")。塗装のデザインは本物であるが、再塗装などによって詳細な色彩は諸説ある。 |
+| La-7 | 77 | [Lavochkin_La-7_77_white_(8238008376).jpg](https://ja.wikipedia.org/wiki/File:Lavochkin_La-7_77_white_\(8238008376\).jpg "fig:Lavochkin_La-7_77_white_(8238008376).jpg")          | チェコ プラハ   | [クベリー航空博物館](https://ja.wikipedia.org/wiki/:en:Kbely_Aviation_Museum "wikilink")       | 公開   | 静態展示 |                                                                                                                                                             |
+|      |    |                                                                                                                                                                                       |           |                                                                                       |      |      |                                                                                                                                                             |
 
 ## 関連項目
 

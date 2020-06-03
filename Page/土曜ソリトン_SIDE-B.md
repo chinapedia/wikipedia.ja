@@ -31,4 +31,4 @@
 
   - [土曜ソリトン　～ＳＩＤＥ・Ｂ～ - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010638_00000)
 
-[Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:NHK教育テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの深夜番組 "wikilink") [Category:NHK教育テレビジョンの教養番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組の歴史 "wikilink") [Category:NHK教育テレビジョンのトーク番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンのトーク番組 "wikilink")
+[Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:NHK教育テレビジョンの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの深夜番組の歴史 "wikilink") [Category:NHK教育テレビジョンの教養番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組の歴史 "wikilink") [Category:NHK教育テレビジョンのトーク番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンのトーク番組の歴史 "wikilink")

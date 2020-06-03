@@ -32,7 +32,7 @@ WAP2.0の規格制定にあたっては、WMLは、[cHTML](https://ja.wikipedia.
 
   - [Compact HTML](../Page/Compact_HTML.md "wikilink")
   - [WMLScript](https://ja.wikipedia.org/wiki/WMLScript "wikilink")
-  - [Wireless Bitmap](https://ja.wikipedia.org/wiki/Wireless_Application_Protocol_Bitmap_Format "wikilink")
+  - [Wireless Bitmap](../Page/Wireless_Application_Protocol_Bitmap_Format.md "wikilink")
   - [マイクロブラウザ](https://ja.wikipedia.org/wiki/マイクロブラウザ "wikilink")
   - [XHTML Mobile Profile](../Page/XHTML_Mobile_Profile.md "wikilink")
 

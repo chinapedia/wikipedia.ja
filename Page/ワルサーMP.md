@@ -38,7 +38,7 @@
 
 :; 『[アーバンスクウェア 琥珀の追撃](https://ja.wikipedia.org/wiki/アーバンスクウェア_琥珀の追撃 "wikilink")』
 
-:; 『[オメガ7](https://ja.wikipedia.org/wiki/オメガ7 "wikilink")』
+:; 『[オメガ7](../Page/オメガ7.md "wikilink")』
 
 :; 『[ルパン三世シリーズ](https://ja.wikipedia.org/wiki/ルパン三世#テレビシリーズ "wikilink")』
 

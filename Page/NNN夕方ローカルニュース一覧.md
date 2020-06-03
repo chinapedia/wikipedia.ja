@@ -476,7 +476,7 @@
 ## 関連項目
 
   - [日本テレビ系列夕方ニュース枠](../Page/日本テレビ系列夕方ニュース枠.md "wikilink")
-  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")（放送終了）
+  - [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")（放送終了）
   - [NNN JUST NEWS](../Page/NNN_JUST_NEWS.md "wikilink")（放送終了）
   - [NNN6:30きょうのニュース](../Page/NNN6:30きょうのニュース.md "wikilink")（放送終了）
   - [NNNライブオンネットワーク](../Page/NNNライブオンネットワーク.md "wikilink")（放送終了）

@@ -19,7 +19,7 @@
 
 1.  **ファンキー・ランド**
       -
-        作詞：[松本一起](../Page/松本一起.md "wikilink")、作曲：[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")
+        作詞：[松本一起](../Page/松本一起.md "wikilink")、作曲：[佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink")
 2.  **サマースクール**
       -
         作詞：原真弓、作曲：[濱田金吾](../Page/濱田金吾.md "wikilink")、コーラスアレンジ：JIN

@@ -13,7 +13,7 @@ JOnASにはリモート管理コンソール機能があり、Webアプリケー
 
 ## 環境
 
-JOnASはJava EEアプリケーションサーバである。連携する[Webサーバ](../Page/Webサーバ.md "wikilink")としては[Apache Tomcatや](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")[Jetty](https://ja.wikipedia.org/wiki/Jetty "wikilink")が選択可能である。JVMも[GNU Classpathなどを使ったフリーな基盤上で動作できる可能性もある](../Page/GNU_Classpath.md "wikilink")。JOnASは適切なJVMさえ動作すれば、WindowsやPOSIX系プラットフォームなど各種オペレーティングシステムで動作する。
+JOnASはJava EEアプリケーションサーバである。連携する[Webサーバ](../Page/Webサーバ.md "wikilink")としては[Apache Tomcatや](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")[Jetty](../Page/Jetty.md "wikilink")が選択可能である。JVMも[GNU Classpathなどを使ったフリーな基盤上で動作できる可能性もある](../Page/GNU_Classpath.md "wikilink")。JOnASは適切なJVMさえ動作すれば、WindowsやPOSIX系プラットフォームなど各種オペレーティングシステムで動作する。
 
 ## 脚注
 

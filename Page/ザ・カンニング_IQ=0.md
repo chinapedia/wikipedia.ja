@@ -3,7 +3,7 @@
 
 『**ザ・カンニング\[IQ=0\]**』（ザ・カンニング アイキューゼロ、仏題：**、英題：**）は[1980年に製作された](../Page/1980年の映画.md "wikilink")[フランスの](../Page/フランスの映画.md "wikilink")[コメディ映画](../Page/コメディ映画.md "wikilink")。フランスの[大学入学資格検定](../Page/大学入学資格検定.md "wikilink")「[バカロレア](https://ja.wikipedia.org/wiki/バカロレア資格 "wikilink")」の[予備校](../Page/予備校.md "wikilink")生たちが[カンニング](../Page/カンニング.md "wikilink")を駆使して[合格](https://ja.wikipedia.org/wiki/合格 "wikilink")を目指すまでを面白おかしく描いた物語。フィンランドとノルウェーではK-12（12歳未満は視聴不可）規制を受けている。
 
-日本では[1982年](../Page/1982年.md "wikilink")に劇場公開され、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月29日[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")」で放送されたときは初代[いいとも青年隊](../Page/いいとも青年隊.md "wikilink")が吹き替えに参加、[久保田篤](../Page/久保田篤.md "wikilink")がベベル、[野々村真](../Page/野々村真.md "wikilink")がエコロ、[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")がジュリアンを担当した。
+日本では[1982年](../Page/1982年.md "wikilink")に劇場公開され、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月29日[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")」で放送されたときは初代[いいとも青年隊](../Page/いいとも青年隊.md "wikilink")が吹き替えに参加、[久保田篤](../Page/久保田篤.md "wikilink")がベベル、[野々村真](../Page/野々村真.md "wikilink")がエコロ、[羽賀研二](../Page/羽賀研二.md "wikilink")がジュリアンを担当した。
 
 日本初公開時のテレビCMでは**「[文部省](../Page/文部省.md "wikilink")非推薦」**・**「学校関係の方は立入禁止です」**など[教育](../Page/教育.md "wikilink")関係者を挑発するような[キャッチコピー](../Page/キャッチコピー.md "wikilink")が挿入されていた。
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - ベベル - [ダニエル・オートゥイユ](../Page/ダニエル・オートゥイユ.md "wikilink")（日本語吹き替え：[久保田篤](../Page/久保田篤.md "wikilink")）
-  - ジュリアン - （日本語吹き替え：[羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")）
+  - ジュリアン - （日本語吹き替え：[羽賀研二](../Page/羽賀研二.md "wikilink")）
   - ガエタン - （日本語吹き替え：[安西正弘](../Page/安西正弘.md "wikilink")）
   - グラフィティ - [パトリック・ローラン](https://ja.wikipedia.org/wiki/パトリック・ローラン "wikilink")（日本語吹き替え：[石丸博也](../Page/石丸博也.md "wikilink")）
   - ジャンヌ - （日本語吹き替え：[川浪葉子](../Page/川浪葉子.md "wikilink")）

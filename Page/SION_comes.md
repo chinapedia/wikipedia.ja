@@ -28,7 +28,7 @@
 
   - SION：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
   - 池畑潤二：[ドラム](../Page/ドラムセット.md "wikilink")
-  - [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：ドラム
+  - [河村智康](../Page/河村智康.md "wikilink")：ドラム
   - [小田原豊](../Page/小田原豊.md "wikilink")：ドラム
   - 井上富雄：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 市川洋二：ベース

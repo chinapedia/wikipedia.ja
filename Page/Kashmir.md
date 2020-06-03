@@ -1,7 +1,7 @@
 > この記事は[Kashmir](https://ja.wikipedia.org/wiki/Kashmir)から翻訳されています。
 
 
-**kashmir**（かしみーる）は日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。代表作に『[百合星人ナオコサン](../Page/百合星人ナオコサン.md "wikilink")』『[○本の住人](../Page/○本の住人.md "wikilink")』。別名義に**かしみヰる**、**戸隠イズミ**など。
+**kashmir**（かしみーる）は日本の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")。代表作に『[百合星人ナオコサン](../Page/百合星人ナオコサン.md "wikilink")』『[○本の住人](../Page/○本の住人.md "wikilink")』。別名義に**かしみヰる**、**戸隠イズミ**など。
 
 1990年代より[同人誌](../Page/同人誌.md "wikilink")や[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")雑誌において散発的に作品を発表してきた。一般商業誌での作品はいずれもギャグ指向が強いが、同人誌上ではそうでない作品も多い。
 
@@ -11,7 +11,7 @@
 
   - [○本の住人](../Page/○本の住人.md "wikilink")（『[まんがタイムきららMAX](../Page/まんがタイムきららMAX.md "wikilink")』2004年11月号 - 2015年12月号）[芳文社](../Page/芳文社.md "wikilink")、全7巻
   - [百合星人ナオコサン](../Page/百合星人ナオコサン.md "wikilink")（『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』2005年2月号 - 2014年4月号）[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、全5巻
-  - [デイドリームネイション](https://ja.wikipedia.org/wiki/デイドリームネイション "wikilink")（『[月刊コミックアライブ](../Page/月刊コミックアライブ.md "wikilink")』2006年8月号 - 2013年5月号）[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、全5巻
+  - [デイドリームネイション](../Page/デイドリームネイション.md "wikilink")（『[月刊コミックアライブ](../Page/月刊コミックアライブ.md "wikilink")』2006年8月号 - 2013年5月号）[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")、全5巻
   - [彼女はUXO](https://ja.wikipedia.org/wiki/彼女はUXO "wikilink")（『[チャンピオンRED いちご](../Page/チャンピオンRED_いちご.md "wikilink")』VOL.8 - VOL.28）[秋田書店](../Page/秋田書店.md "wikilink")、全1巻
   - [※生徒会がおいしくいただきました。](https://ja.wikipedia.org/wiki/※生徒会がおいしくいただきました。 "wikilink")（『チャンピオンRED いちご』VOL.35 - VOL.45）秋田書店、全1巻
   - [ゆせそま。](https://ja.wikipedia.org/wiki/ゆせそま。 "wikilink")（『月刊コミック電撃大王』2015年6月号 - 2017年3月号）[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、全2巻

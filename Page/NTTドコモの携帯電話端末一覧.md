@@ -381,7 +381,7 @@
 <td><p>2002年</p></td>
 <td><p>春</p></td>
 <td></td>
-<td><p><em><a href="https://ja.wikipedia.org/wiki/D504i" title="wikilink">D504i</a></em>・<a href="https://ja.wikipedia.org/wiki/D2101V" title="wikilink">D2101V</a></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/D504i" title="wikilink">D504i</a></em>・<a href="../Page/D2101V.md" title="wikilink">D2101V</a></p></td>
 <td></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/F504i" title="wikilink">F504i</a></em>・<a href="https://ja.wikipedia.org/wiki/F2611" title="wikilink">F2611</a></p></td>
 <td></td>
@@ -606,7 +606,7 @@
 <td></td>
 <td><p><a href="../Page/SIMPURE_L1.md" title="wikilink">L601i</a></p></td>
 <td><p><a href="../Page/M2501_HIGH-SPEED.md" title="wikilink">M2501</a></p></td>
-<td><p><a href="../Page/N903i.md" title="wikilink">N903i</a>・<a href="https://ja.wikipedia.org/wiki/SIMPURE_N1" title="wikilink">N601i</a></p></td>
+<td><p><a href="../Page/N903i.md" title="wikilink">N903i</a>・<a href="../Page/SIMPURE_N1.md" title="wikilink">N601i</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
@@ -627,7 +627,7 @@
 <td><p><a href="../Page/D904i.md" title="wikilink">D904i</a>・<a href="../Page/D704i.md" title="wikilink">D704i</a></p></td>
 <td></td>
 <td><p><a href="../Page/F904i.md" title="wikilink">F904i</a>・<a href="../Page/F704i.md" title="wikilink">F704i</a><br />
-<a href="https://ja.wikipedia.org/wiki/らくらくホンIV" title="wikilink">F883iES</a></p></td>
+<a href="../Page/らくらくホンIV.md" title="wikilink">F883iES</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/SIMPURE_L2.md" title="wikilink">L602i</a>・<a href="../Page/L704i.md" title="wikilink">L704i</a></p></td>
@@ -639,7 +639,7 @@
 <td><p><a href="../Page/A2502_HIGH-SPEED.md" title="wikilink">A2502</a></p></td>
 <td><p><a href="../Page/D905i.md" title="wikilink">D905i</a>・<a href="../Page/D705i.md" title="wikilink">D705i</a>・<a href="../Page/D705iμ.md" title="wikilink">D705iμ</a></p></td>
 <td></td>
-<td><p><a href="../Page/F905i.md" title="wikilink">F905i</a>・<a href="../Page/F705i.md" title="wikilink">F705i</a>・<a href="https://ja.wikipedia.org/wiki/F801i" title="wikilink">F801i</a></p></td>
+<td><p><a href="../Page/F905i.md" title="wikilink">F905i</a>・<a href="../Page/F705i.md" title="wikilink">F705i</a>・<a href="../Page/F801i.md" title="wikilink">F801i</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/L705i.md" title="wikilink">L705i</a>・<a href="../Page/L705iX.md" title="wikilink">L705iX</a></p></td>
@@ -654,7 +654,7 @@
 <td></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/F1100" title="wikilink">F1100</a>・<a href="../Page/らくらくホンベーシック.md" title="wikilink">F883iS</a><br />
-<a href="https://ja.wikipedia.org/wiki/らくらくホンIV" title="wikilink">F883iESS</a>・<a href="https://ja.wikipedia.org/wiki/らくらくホンプレミアム" title="wikilink">F884i</a></p></td>
+<a href="../Page/らくらくホンIV.md" title="wikilink">F883iESS</a>・<a href="https://ja.wikipedia.org/wiki/らくらくホンプレミアム" title="wikilink">F884i</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/HT1100" title="wikilink">HT1100</a></p></td>
 <td></td>
 <td></td>
@@ -698,7 +698,7 @@
 (SA)\!\![シャープ](../Page/シャープ.md "wikilink")
 (SH)\!\![ソニー・エリクソン](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")
 (SO)\!\![東芝](../Page/東芝.md "wikilink")
-(T)\!\![リサーチ・イン・モーション](https://ja.wikipedia.org/wiki/ブラックベリー_\(企業\) "wikilink")
+(T)\!\![リサーチ・イン・モーション](../Page/ブラックベリー_\(企業\).md "wikilink")
 (BlackBerry) |- |1998年||冬||||||*[R207](https://ja.wikipedia.org/wiki/R207 "wikilink")*||*[SA207](https://ja.wikipedia.org/wiki/SA207 "wikilink")*||||*[SO502i](https://ja.wikipedia.org/wiki/SO502i "wikilink")*・*[SO601ps](https://ja.wikipedia.org/wiki/SO601ps "wikilink")*|||| |- |rowspan="4"|1999年||春||||*[P501i](https://ja.wikipedia.org/wiki/P501i "wikilink")*・*[P811](https://ja.wikipedia.org/wiki/P811 "wikilink")*・*[P601ev](https://ja.wikipedia.org/wiki/P601ev "wikilink")*・*[P157](https://ja.wikipedia.org/wiki/P157 "wikilink")*||||||*[SH811](https://ja.wikipedia.org/wiki/SH811 "wikilink")*|||||| |- |夏||*[NM157](https://ja.wikipedia.org/wiki/NM157 "wikilink")*|||||||||||||| |- |秋||||*[P208](https://ja.wikipedia.org/wiki/P208 "wikilink")*・*[P601es](../Page/P601es.md "wikilink")*||*[R208](https://ja.wikipedia.org/wiki/R208 "wikilink")*|||||||||| |- |冬||||*[P502i](https://ja.wikipedia.org/wiki/P502i "wikilink")*・*[P158](https://ja.wikipedia.org/wiki/P158 "wikilink")*|||||||||||| |- |rowspan="4"|2000年||春||*[NM502i](https://ja.wikipedia.org/wiki/NM502i "wikilink")*|||||||||||||| |- |夏||||*[P209i](https://ja.wikipedia.org/wiki/P209i "wikilink")*・*[P209iS](../Page/P209iS.md "wikilink")*||||||*[SH821i](https://ja.wikipedia.org/wiki/SH821i "wikilink")*|||||| |- |秋||||*[P821i](https://ja.wikipedia.org/wiki/P821i "wikilink")*||*[R209i](https://ja.wikipedia.org/wiki/R209i "wikilink")*|||||||||| |- |冬||||*[P503i](../Page/P503i.md "wikilink")*・*[P651ps](https://ja.wikipedia.org/wiki/P651ps "wikilink")*||||||||*[SO502iWM](https://ja.wikipedia.org/wiki/SO502iWM "wikilink")*・*[SO503i](https://ja.wikipedia.org/wiki/SO503i "wikilink")*・*[ER209i](https://ja.wikipedia.org/wiki/ER209i "wikilink")*|||| |- |rowspan="3"|2001年||春||||*[P503iS](../Page/P503iS.md "wikilink")*・*[P210i](https://ja.wikipedia.org/wiki/P210i "wikilink")*||*[R691i](https://ja.wikipedia.org/wiki/R691i "wikilink")*||||||*[SO210i](https://ja.wikipedia.org/wiki/SO210i "wikilink")*|||| |- |秋||||[P2101V](https://ja.wikipedia.org/wiki/P2101V "wikilink")・[P2401](https://ja.wikipedia.org/wiki/P2401 "wikilink")||||||||*[SO503iS](https://ja.wikipedia.org/wiki/SO503iS "wikilink")*・*[SO212i](https://ja.wikipedia.org/wiki/SO212i "wikilink")*|||| |- |冬||||*[P211i](../Page/P211i.md "wikilink")*||||||||*[SO211i](https://ja.wikipedia.org/wiki/SO211i "wikilink")*|||| |- |rowspan="4"|2002年||春||||*[P211iS](https://ja.wikipedia.org/wiki/P211iS "wikilink")*||*[R211i](https://ja.wikipedia.org/wiki/R211i "wikilink")*|||||||||| |- |夏||||*[P504i](../Page/P504i.md "wikilink")*・[P2002](https://ja.wikipedia.org/wiki/P2002 "wikilink")||*[R692i](../Page/R692i.md "wikilink")*||||*[SH251i](../Page/SH251i.md "wikilink")*・[SH2101V](https://ja.wikipedia.org/wiki/SH2101V "wikilink")||*[SO504i](https://ja.wikipedia.org/wiki/SO504i "wikilink")*|||| |- |秋||||*[P504iS](../Page/P504iS.md "wikilink")*||||||*[SH251iS](https://ja.wikipedia.org/wiki/SH251iS "wikilink")*||||[T2101V](../Page/T2101V.md "wikilink")|| |- |冬||||*[P251iS](https://ja.wikipedia.org/wiki/P251iS "wikilink")*・[P2102V](../Page/P2102V.md "wikilink")・*[P751iS](https://ja.wikipedia.org/wiki/P751iS "wikilink")*|||||||||||| |- |rowspan="3"|2003年||夏||||*[P505i](../Page/P505i.md "wikilink")*||||||*[SH505i](../Page/SH505i.md "wikilink")*||*[SO505i](../Page/SO505i.md "wikilink")*|||| |- |秋||||*[P505iS](../Page/P505iS.md "wikilink")*・*[P252i](https://ja.wikipedia.org/wiki/P252i "wikilink")*・[P2402](https://ja.wikipedia.org/wiki/P2402 "wikilink")||||||*[SH252i](../Page/SH252i.md "wikilink")*|||||| |- |冬||||[P900i](../Page/P900i.md "wikilink")||||||*[SH505iS](https://ja.wikipedia.org/wiki/SH505iS "wikilink")*・[SH900i](../Page/SH900i.md "wikilink")||*[SO505iS](https://ja.wikipedia.org/wiki/SO505iS "wikilink")*|||| |- |rowspan="4"|2004年||春||||*[P252iS](https://ja.wikipedia.org/wiki/P252iS "wikilink")*|||||||||||| |- |夏||||**''[P506iC](../Page/P506iC.md "wikilink")***・[P900iV](../Page/P900iV.md "wikilink")||||||*[SH506iC](https://ja.wikipedia.org/wiki/SH506iC "wikilink")*||*[SO213i](../Page/Premini.md "wikilink")*・*[SO506iC](../Page/SO506iC.md "wikilink")*|||| |- |秋||||*[P253i](https://ja.wikipedia.org/wiki/P253i "wikilink")*||||||||*[SO213iS](../Page/Premini.md "wikilink")*|||| |- |冬||||*[P253iS](../Page/Lechiffon.md "wikilink")*・*[P213i](https://ja.wikipedia.org/wiki/Prosolid#mova_P213i_prosolid "wikilink")*・[P901i](../Page/P901i.md "wikilink")・[P700i](../Page/P700i.md "wikilink")||||||[SH901iC](../Page/SH901iC.md "wikilink")・[SH700i](../Page/SH700i.md "wikilink")||*[SO506i](../Page/Premini.md "wikilink")*|||| |- |rowspan="4"|2005年||春||||||||||||*[SO506iS](../Page/Premini.md "wikilink")*|||| |- |夏||||[P901iS](../Page/P901iS.md "wikilink")||||||[SH901iS](../Page/SH901iS.md "wikilink")・[SH700iS](../Page/SH700iS.md "wikilink")・[SH851i](https://ja.wikipedia.org/wiki/SH851i "wikilink")|||||| |- |秋||||[P701iD](../Page/P701iD.md "wikilink")・[P851i](https://ja.wikipedia.org/wiki/Prosolid#FOMA_P851i_prosolid_II "wikilink")||||[SA700iS](../Page/SA700iS.md "wikilink")||||*[SO213iWR](https://ja.wikipedia.org/wiki/RADIDEN "wikilink")*|||| |- |冬||[NM850iG](../Page/NM850iG.md "wikilink")||[P901iTV](../Page/P901iTV.md "wikilink")・[P902i](../Page/P902i.md "wikilink")・[P702i](../Page/P702i.md "wikilink")||||[SA800i](../Page/SA800i.md "wikilink")||[SH902i](../Page/SH902i.md "wikilink")・[SH702iD](../Page/SH702iD.md "wikilink")||[SO902i](../Page/SO902i.md "wikilink")|||| |- |rowspan="3"|2006年||春||||*[P506iCII](https://ja.wikipedia.org/wiki/P506iCII "wikilink")''・[P2403](https://ja.wikipedia.org/wiki/P2403 "wikilink")||||||[SH902iS](../Page/SH902iS.md "wikilink")||[SO702i](../Page/SO702i.md "wikilink")|||| |- |夏||||[P902iS](../Page/P902iS.md "wikilink")・[P702iD](../Page/P702iD.md "wikilink")||||[SA702i](../Page/SA702i.md "wikilink")||[SH902iSL](../Page/DOLCE_SL.md "wikilink")・[SH702iS](../Page/SH702iS.md "wikilink")||[SO902iWP+](../Page/SO902iWP+.md "wikilink")|||| |- |秋||||[P903i](../Page/P903i.md "wikilink")・[P903iTV](../Page/P903iTV.md "wikilink")||||||[SH903iTV](../Page/SH903iTV.md "wikilink")・[SH903i](../Page/SH903i.md "wikilink")||[SO903i](../Page/SO903i.md "wikilink")||||[BlackBerry 8707h](https://ja.wikipedia.org/wiki/BlackBerry_8707h "wikilink") |- |rowspan="3"|2007年||春||||[P903iX](../Page/P903iX_HIGH-SPEED.md "wikilink")・[P703i](../Page/P703i.md "wikilink")・[P703iμ](../Page/P703iμ.md "wikilink")||||||[SH703i](../Page/SH703i.md "wikilink")||[SO903iTV](../Page/SO903iTV.md "wikilink")・[SO703i](../Page/SO703i.md "wikilink")|||| |- |夏||||[P904i](../Page/P904i.md "wikilink")・[P704i](../Page/P704i.md "wikilink")・[P704iμ](../Page/P704iμ.md "wikilink")||||||[SH904i](../Page/SH904i.md "wikilink")・[SH704i](../Page/SH704i.md "wikilink")||[SO704i](../Page/SO704i.md "wikilink")|||| |- |冬||[NM705i](../Page/NM705i.md "wikilink")||[P905i](../Page/P905i.md "wikilink")・[P905iTV](../Page/P905iTV.md "wikilink")・[P705i](../Page/P705i.md "wikilink")
 [P705iμ](../Page/P705iμ.md "wikilink")・[P705iCL](https://ja.wikipedia.org/wiki/PROSOLID_μ "wikilink")||||||[SH905i](../Page/SH905i.md "wikilink")・[SH905iTV](../Page/SH905iTV.md "wikilink")・[SH705i](../Page/SH705i.md "wikilink")||[SO905i](../Page/SO905i.md "wikilink")・[SO905iCS](../Page/SO905iCS.md "wikilink")・[SO705i](../Page/SO705i.md "wikilink")|||| |- |rowspan="2"|2008年||春||||||||||[SH705iII](https://ja.wikipedia.org/wiki/SH705iII "wikilink")|||||| |- |夏||**[NM706i](../Page/NM706i.md "wikilink")**||[P906i](https://ja.wikipedia.org/wiki/P906i "wikilink")・**[P706iμ](https://ja.wikipedia.org/wiki/P706iμ "wikilink")**・**[P706ie](../Page/P706ie.md "wikilink")**||||||[SH906i](../Page/SH906i.md "wikilink")・**[SH906iTV](../Page/SH906iTV.md "wikilink")**・**[SH706i](../Page/SH706i.md "wikilink")**
 **[SH706ie](../Page/SH706ie.md "wikilink")**・**[SH706iw](https://ja.wikipedia.org/wiki/SH706iw "wikilink")**||[SO906i](https://ja.wikipedia.org/wiki/SO906i "wikilink")・**[SO706i](../Page/SO706i.md "wikilink")**|||| |- |}
@@ -771,7 +771,7 @@
 (Sony Tablet)</p></th>
 <th><p>東芝<br />
 (T)[3]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ブラックベリー_(企業)" title="wikilink">リサーチ・イン・モーション</a><br />
+<th><p><a href="../Page/ブラックベリー_(企業).md" title="wikilink">リサーチ・イン・モーション</a><br />
 (BlackBerry)</p></th>
 </tr>
 </thead>

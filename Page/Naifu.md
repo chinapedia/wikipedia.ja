@@ -1,7 +1,7 @@
 > この記事は[Naifu](https://ja.wikipedia.org/wiki/Naifu)から翻訳されています。
 
 
-**Naifu**（ナイフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。[GIZA studio所属の](../Page/GIZA_studio.md "wikilink")[男性](../Page/男性.md "wikilink")バンドとしては[doa以来となる](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")。
+**Naifu**（ナイフ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 来歴
 
@@ -112,7 +112,7 @@
 | [恋心 輝きながら](https://ja.wikipedia.org/wiki/恋心_輝きながら "wikilink")                                     | よみうりテレビ系テレビアニメ「名探偵コナン」エンディングテーマ                                                                                                      |
 | テレビ東京系「JAPAN COUNTDOWN」2009年3月度オープニングテーマ                                                          |                                                                                                                                      |
 | [テレビ金沢](../Page/テレビ金沢.md "wikilink")「[びービーみつばち](../Page/びービーみつばち.md "wikilink")」2009年2月度エンディングテーマ |                                                                                                                                      |
-| [ONE](https://ja.wikipedia.org/wiki/ONE_\(Naifuのアルバム\) "wikilink")                                | 日本テレビ系「[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")」リアルSPORTSテーマソング                                     |
+| [ONE](https://ja.wikipedia.org/wiki/ONE_\(Naifuのアルバム\) "wikilink")                                | 日本テレビ系「[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")」リアルSPORTSテーマソング                                                        |
 | [SUNSET](https://ja.wikipedia.org/wiki/SUNSET/在りのままで "wikilink")                                  | 日本テレビ系「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」2009年6月度エンディングテーマ                                              |
 | テレビ金沢「びービーみつばち」2009年6月度エンディングテーマ                                                                  |                                                                                                                                      |
 | テーマパーク「スペースワールド」ギャラクシーサマーパーティーCMソング                                                               |                                                                                                                                      |

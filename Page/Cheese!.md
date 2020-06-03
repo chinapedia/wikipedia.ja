@@ -1,9 +1,9 @@
 > この記事は[Cheese!](https://ja.wikipedia.org/wiki/Cheese!)から翻訳されています。
 
 
-『**Cheese\!**』（**チーズ\!**）は、[小学館](../Page/小学館.md "wikilink")が発行する少女向けの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。刊行月の前々月24日に発売されている。
+『**Cheese\!**』（**チーズ\!**）は、[小学館](../Page/小学館.md "wikilink")が発行する少女向けの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。刊行月の前々月24日に発売されている。
 
-[1996年](../Page/1996年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に創刊。1996年10月号が創刊号。『[少女コミック](../Page/少女コミック.md "wikilink")』（小学館）の派生誌。 創刊当初は『少女コミックCheese\!（SHO-COMIチーズ\!）』の誌名で毎月28日に発売され、作家陣も[赤石路代](../Page/赤石路代.md "wikilink")、[北川みゆき](../Page/北川みゆき.md "wikilink")、[すもと亜夢](https://ja.wikipedia.org/wiki/すもと亜夢 "wikilink")など『少女コミック』からの移籍組だった。現在も[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")、[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")などSho-Comiからの移籍組も多いが、[嶋木あこ](../Page/嶋木あこ.md "wikilink")を筆頭にCheese\!生え抜き作家も多い。
+[1996年](../Page/1996年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に創刊。1996年10月号が創刊号。『[少女コミック](../Page/少女コミック.md "wikilink")』（小学館）の派生誌。 創刊当初は『少女コミックCheese\!（SHO-COMIチーズ\!）』の誌名で毎月28日に発売され、作家陣も[赤石路代](../Page/赤石路代.md "wikilink")、[北川みゆき](../Page/北川みゆき.md "wikilink")、[すもと亜夢](https://ja.wikipedia.org/wiki/すもと亜夢 "wikilink")など『少女コミック』からの移籍組だった。現在も[青木琴美](https://ja.wikipedia.org/wiki/青木琴美_\(漫画家\) "wikilink")、[宮坂香帆](../Page/宮坂香帆.md "wikilink")などSho-Comiからの移籍組も多いが、[嶋木あこ](../Page/嶋木あこ.md "wikilink")を筆頭にCheese\!生え抜き作家も多い。
 
 女子高校生・大学生～社会人を主なターゲットとしており、ラブストーリーが主に掲載されているが、歌舞伎や病児保育など硬派なテーマも取り扱っている。
 
@@ -17,7 +17,7 @@
 
   - うちの犬が子ネコ拾いました。（[竜山さゆり](../Page/竜山さゆり.md "wikilink")）
   - 王の獣（[藤間麗](https://ja.wikipedia.org/wiki/藤間麗 "wikilink")）
-  - 金色ジャパネスク～横濱華恋譚～（[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")）
+  - 金色ジャパネスク～横濱華恋譚～（[宮坂香帆](../Page/宮坂香帆.md "wikilink")）
   - 恋と弾丸（箕野希望）：2019年6月号 -
   - [コーヒー&バニラ](https://ja.wikipedia.org/wiki/コーヒー&バニラ "wikilink")（[朱神宝](https://ja.wikipedia.org/wiki/朱神宝 "wikilink")）
   - [5時から9時まで](https://ja.wikipedia.org/wiki/5時から9時まで "wikilink")（[相原実貴](../Page/相原実貴.md "wikilink")）
@@ -37,7 +37,7 @@
 ### あ行
 
   - [愛†少女](https://ja.wikipedia.org/wiki/愛†少女 "wikilink")（[すぎ恵美子](../Page/すぎ恵美子.md "wikilink")）
-  - あかいいと（[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")）
+  - あかいいと（[宮坂香帆](../Page/宮坂香帆.md "wikilink")）
   - [青の微熱](https://ja.wikipedia.org/wiki/青の微熱 "wikilink")（椎名チカ）
   - R-18（すぎ恵美子）
   - 後にも先にもキミだけ（川上ちひろ）
@@ -77,7 +77,7 @@
   - 式神男子（[七尾美緒](https://ja.wikipedia.org/wiki/七尾美緒 "wikilink")）
   - [しなやかに傷ついて](https://ja.wikipedia.org/wiki/しなやかに傷ついて "wikilink")（[北川みゆき](../Page/北川みゆき.md "wikilink")）
   - 囚-愛玩少女-（刑部真芯）
-  - 10万分の1（[宮坂香帆](https://ja.wikipedia.org/wiki/宮坂香帆 "wikilink")）
+  - 10万分の1（[宮坂香帆](../Page/宮坂香帆.md "wikilink")）
   - 殉血LOVERS（高宮智）
   - [水神の生贄](https://ja.wikipedia.org/wiki/水神の生贄 "wikilink")（[藤間麗](https://ja.wikipedia.org/wiki/藤間麗 "wikilink")）
   - 好きになってもいいの?（[太田早紀](https://ja.wikipedia.org/wiki/太田早紀 "wikilink")）

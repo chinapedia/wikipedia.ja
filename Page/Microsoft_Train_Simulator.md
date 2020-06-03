@@ -35,7 +35,7 @@ MSTSでは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[アメリ
 
 <!-- end list -->
 
-  - [ミッドランド鉄道](https://ja.wikipedia.org/wiki/ミッドランド鉄道 "wikilink") （セトル - [カーライル](https://ja.wikipedia.org/wiki/カーライル_\(イングランド\) "wikilink")） - [1920年代](../Page/1920年代.md "wikilink")
+  - [ミッドランド鉄道](https://ja.wikipedia.org/wiki/ミッドランド鉄道 "wikilink") （セトル - [カーライル](../Page/カーライル_\(イングランド\).md "wikilink")） - [1920年代](../Page/1920年代.md "wikilink")
 
 <!-- end list -->
 

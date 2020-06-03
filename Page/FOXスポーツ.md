@@ -74,7 +74,7 @@
 ### 過去に放送されていた番組
 
   - [NHL](https://ja.wikipedia.org/wiki/NHL "wikilink")（1994年 - 1999年）
-  - [NFLヨーロッパ](../Page/NFLヨーロッパ.md "wikilink")（1997年 - 2005年、2006年から[NFLネットワーク](https://ja.wikipedia.org/wiki/NFLネットワーク "wikilink")で放送）
+  - [NFLヨーロッパ](../Page/NFLヨーロッパ.md "wikilink")（1997年 - 2005年、2006年から[NFLネットワーク](../Page/NFLネットワーク.md "wikilink")で放送）
   - [ボウル・チャンピオンシップ・シリーズ](https://ja.wikipedia.org/wiki/ボウル・チャンピオンシップ・シリーズ "wikilink")（[ローズボウル](../Page/ローズボウル.md "wikilink")を除く。[2007年](../Page/2007年.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")。2011年より[ESPN](../Page/ESPN.md "wikilink")で放送）
   - [F1](../Page/フォーミュラ1.md "wikilink")（[2007年](../Page/2007年.md "wikilink") - 2012年）
 

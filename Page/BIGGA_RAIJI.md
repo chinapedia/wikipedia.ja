@@ -60,6 +60,6 @@
 ## 外部リンク
 
   - [公式サイト](http://www.biggaraiji.com/index.html)
-  - [SPICY CHOCOLATE公式サイト](http://ip.tosp.co.jp/i.asp?i=spicychocolate)
 
+  -
 [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink")

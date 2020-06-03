@@ -39,7 +39,7 @@
       - 放送時間：平日16:50 - 18:55（ローカルニュース枠は18:15 - 18:55、金曜のみ17:36 - 17:53）
   - KFB [福島放送](../Page/福島放送.md "wikilink")
       - 『[ふくしまスーパーJチャンネル](../Page/ふくしまスーパーJチャンネル.md "wikilink")』
-      - キャスター：[内田智之](https://ja.wikipedia.org/wiki/内田智之_\(アナウンサー\) "wikilink")、[飯田麻菜美](https://ja.wikipedia.org/wiki/飯田麻菜美 "wikilink") / 天気キャスター：[土井邦裕](https://ja.wikipedia.org/wiki/土井邦裕 "wikilink")
+      - キャスター：[内田智之](../Page/内田智之_\(アナウンサー\).md "wikilink")、[飯田麻菜美](https://ja.wikipedia.org/wiki/飯田麻菜美 "wikilink") / 天気キャスター：[土井邦裕](https://ja.wikipedia.org/wiki/土井邦裕 "wikilink")
       - 放送時間：月曜 - 木曜16:50 - 19:00、金曜16:50 - 18:55（ローカルニュース枠は17:36 - 17:53、18:15 - 19:00(金曜 - 18:55)）
 
 ## 中部
@@ -64,7 +64,7 @@
           - 金曜 16:50 - 18:53（ローカルニュース枠は17:36 - 17:53、18:15 - 18:53）
   - メ～テレ [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")
       - 『[アップ\!](https://ja.wikipedia.org/wiki/UP! "wikilink")』
-      - キャスター：[鈴木しおり](https://ja.wikipedia.org/wiki/鈴木しおり "wikilink")、[星恭博](../Page/星恭博.md "wikilink")、[石神愛子](https://ja.wikipedia.org/wiki/石神愛子 "wikilink")、[倉橋友和](../Page/倉橋友和.md "wikilink")（すべてメ～テレアナウンサー） / 天気キャスター：[山田修作](../Page/山田修作.md "wikilink")
+      - キャスター：[鈴木しおり](../Page/鈴木しおり.md "wikilink")、[星恭博](../Page/星恭博.md "wikilink")、[石神愛子](https://ja.wikipedia.org/wiki/石神愛子 "wikilink")、[倉橋友和](../Page/倉橋友和.md "wikilink")（すべてメ～テレアナウンサー） / 天気キャスター：[山田修作](../Page/山田修作.md "wikilink")
       - 放送時間：平日15:46 - 18:56（ローカルニュース枠は15:46 - 16:50、18:15 - 18:56）
       - 18:56 - 19:00はミニ番組枠だが、曜日により本番組に内包されるコーナー扱いのものと、完全に独立したミニ番組とに分かれる。
 
@@ -142,7 +142,7 @@
     [AABステーションEYE](../Page/AABステーションEYE.md "wikilink") - [チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")（月曜 - 木曜） - [チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")金曜版（金曜） - [スーパーJチャンネルあきた](../Page/スーパーJチャンネルあきた.md "wikilink")
 
   - **YTS 山形テレビ**（1993年3月以前は[FNN夕方ローカルニュース一覧を参照](https://ja.wikipedia.org/wiki/FNN夕方ローカルニュース一覧#過去に放送した番組 "wikilink")）
-    [YTSステーションEYE](../Page/YTSステーションEYE.md "wikilink") - [情報わいどYTSゴジダス](https://ja.wikipedia.org/wiki/情報わいどYTSゴジダス "wikilink") (月曜のみ)
+    [YTSステーションEYE](../Page/YTSステーションEYE.md "wikilink") - [情報わいどYTSゴジダス](../Page/情報わいどYTSゴジダス.md "wikilink") (月曜のみ)
 
   - KFB 福島放送
     [イブニングふくしま](https://ja.wikipedia.org/wiki/イブニングふくしま "wikilink") - [KFBニュースレーダー](https://ja.wikipedia.org/wiki/KFBニュースレーダー "wikilink") - [KFBニュースシャトル](https://ja.wikipedia.org/wiki/KFBニュースシャトル "wikilink") - [KFB 600ステーション](https://ja.wikipedia.org/wiki/KFB_600ステーション "wikilink") - [KFB 530ステーション](https://ja.wikipedia.org/wiki/KFB_600ステーション "wikilink") - [KFBステーションEYE](../Page/KFBステーションEYE.md "wikilink") - [ふくしまニュース1番街](../Page/ふくしまニュース1番街.md "wikilink")
@@ -215,6 +215,7 @@
   - [朝日ニュースター](../Page/朝日ニュースター.md "wikilink")（現 [テレ朝チャンネル2](https://ja.wikipedia.org/wiki/テレ朝チャンネル#テレ朝チャンネル2_ニュース・情報・スポーツ "wikilink")）
   - [AbemaNews](https://ja.wikipedia.org/wiki/AbemaNews "wikilink")
   - [朝日新聞社](../Page/朝日新聞社.md "wikilink")
+  - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 
 [Category:ANN番組](https://ja.wikipedia.org/wiki/Category:ANN番組 "wikilink") [Category:ローカルテレビ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のニュース・報道番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink") [Category:ANN番組の歴史](https://ja.wikipedia.org/wiki/Category:ANN番組の歴史 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 

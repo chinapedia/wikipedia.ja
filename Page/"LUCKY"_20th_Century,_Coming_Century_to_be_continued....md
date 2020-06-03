@@ -64,7 +64,7 @@
       -
         編曲：[横田商会](../Page/横田商会_\(DJユニット\).md "wikilink")
     <!-- end list -->
-      - Coming Centuryの1stシングル・V6の13thシングルカップリング・Coming CenturyのVHS/DVD「? -question-」収録曲のメドレー
+      - Coming Century 1stシングル・13thシングルカップリング・Coming Century VHS/DVD「? -question-」収録曲のメドレー
 13. **20th Century Non-stop Remix** - 20th Century
     1.  **[FLY TO THE WORLD\!](../Page/翼になれ.md "wikilink")**
     2.  **[always](../Page/Be_Yourself!.md "wikilink")**

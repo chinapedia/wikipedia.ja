@@ -47,7 +47,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/イマドコサーチ" title="wikilink">イマドコサーチ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/おまかせロック" title="wikilink">おまかせロック</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/電話帳お預かりサービス" title="wikilink">電話帳お預かりサービス</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/エリアメール" title="wikilink">エリアメール</a></li>
+<li><a href="../Page/エリアメール.md" title="wikilink">エリアメール</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/きせかえツール" title="wikilink">きせかえツール</a>　他</li>
 </ul></td>
 </tr>

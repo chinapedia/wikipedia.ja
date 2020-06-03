@@ -1,7 +1,7 @@
 > この記事は[UFC 32](https://ja.wikipedia.org/wiki/UFC_32)から翻訳されています。
 
 
-**UFC 32: Showdown in the Meadowlands**（ユーエフシー・サーティツー：ショウダウン・イン・ザ・メドウランズ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2001年](../Page/2001年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[イーストラザフォード](../Page/イーストラザフォード.md "wikilink")の[コンチネンタル・エアラインズ・アリーナで開催された](https://ja.wikipedia.org/wiki/アイゾッド・センター "wikilink")。
+**UFC 32: Showdown in the Meadowlands**（ユーエフシー・サーティツー：ショウダウン・イン・ザ・メドウランズ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2001年](../Page/2001年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[イーストラザフォード](../Page/イーストラザフォード.md "wikilink")の[コンチネンタル・エアラインズ・アリーナで開催された](../Page/アイゾッド・センター.md "wikilink")。
 
 ## 大会概要
 

@@ -6,7 +6,7 @@
 ## 解説
 
   - SPEEDの人気絶頂期に発売された作品で、初回出荷枚数が300万枚を記録し、新聞などでも大きく扱われた。
-  - 累計売上は300万枚\[1\]\[2\]。
+  - 累計出荷は300万枚\[1\]で、オリコン売上は204.8万枚と前作を上回った。
   - ボックス・ロゴ入りの白いプラケース仕様で、別冊の写真集が付属している。初回プレス分のみピクチャーCD。
 
 ## 収録曲
@@ -50,4 +50,3 @@
 [Category:SPEEDのアルバム](https://ja.wikipedia.org/wiki/Category:SPEEDのアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:トイズファクトリーのアルバム](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアルバム "wikilink") [Category:1998年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.  [SPEEDさよならツアー涙、涙…](http://web.archive.org/web/20010316014911/www.sanspo.com/enter/music/m9911/m1120.html)、SANSPO.COM、1999年11月20日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-2.  オリコン上の記録は204.8万枚。

@@ -26,7 +26,7 @@
     ○  [ヒカルド・アルメイダ](../Page/ヒカルド・アルメイダ.md "wikilink") vs.  [ユージーン・ジャクソン](https://ja.wikipedia.org/wiki/ユージーン・ジャクソン "wikilink") ×
     1R 4:06 [三角絞め](../Page/三角絞め.md "wikilink")
   - 第3試合 ウェルター級 5分3R
-    ○  [中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink") vs.  [トニー・デソーザ](https://ja.wikipedia.org/wiki/トニー・デソーザ "wikilink") ×
+    ○  [中尾受太郎](../Page/中尾受太郎.md "wikilink") vs.  [トニー・デソーザ](https://ja.wikipedia.org/wiki/トニー・デソーザ "wikilink") ×
     2R 0:15 KO（左フック）
 
 ### メインカード

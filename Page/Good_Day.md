@@ -32,7 +32,7 @@
   - [グッデイ\! (FM AICHI)](https://ja.wikipedia.org/wiki/グッデイ!_\(FM_AICHI\) "wikilink") - [FM AICHI（@FM）で放送されているワイド番組](../Page/エフエム愛知.md "wikilink")（2014年 - 2015年）。
   - [グッディ\! (和歌山放送)](https://ja.wikipedia.org/wiki/グッディ!_\(和歌山放送\) "wikilink") - [和歌山放送](../Page/和歌山放送.md "wikilink")で平日に放送されている朝番組（2012年）。
   - [グッデイ (ニュース番組)](https://ja.wikipedia.org/wiki/グッデイ_\(ニュース番組\) "wikilink") - アメリカ・[FOX系列各局で平日の朝に放送されている](../Page/フォックス放送.md "wikilink")[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。[Good Day L.A.](https://ja.wikipedia.org/wiki/:en:Good_Day_L.A. "wikilink")、[:en:Good Day New Yorkなどを参照](https://ja.wikipedia.org/wiki/:en:Good_Day_New_York "wikilink")。
-  - おはようGood Day - [西日本放送などで放送されている](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")[綜合放送](../Page/綜合放送.md "wikilink")配給の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。「[Wake Up メロディー](https://ja.wikipedia.org/wiki/Wake_Up_メロディー "wikilink")」を参照。
+  - おはようGood Day - [西日本放送などで放送されている](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")[綜合放送](../Page/綜合放送.md "wikilink")配給の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。「[Wake Up メロディー](../Page/Wake_Up_メロディー.md "wikilink")」を参照。
 
 ## 関連項目
 

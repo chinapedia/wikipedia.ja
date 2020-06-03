@@ -61,7 +61,7 @@
 18. [少年時代](../Page/少年時代_\(井上陽水の曲\).md "wikilink")（[井上陽水](../Page/井上陽水.md "wikilink")、[8月6日](../Page/8月6日.md "wikilink")）
 19. Love Somebody（[織田裕二](../Page/織田裕二.md "wikilink")、[8月13日](../Page/8月13日.md "wikilink")）
 20. [Baby if,](../Page/Baby_if,.md "wikilink")（[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")、[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")）
-21. [THUNDERBIRD](https://ja.wikipedia.org/wiki/THUNDERBIRD_\(T.M.Revolutionの曲\) "wikilink")（[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[8月27日](../Page/8月27日.md "wikilink")）
+21. [THUNDERBIRD](../Page/THUNDERBIRD_\(T.M.Revolutionの曲\).md "wikilink")（[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[8月27日](../Page/8月27日.md "wikilink")）
 22. [secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")（[ZONE](../Page/ZONE_\(バンド\).md "wikilink")、[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")）
 23. [想い出がいっぱい](../Page/想い出がいっぱい.md "wikilink")（[H2O](../Page/H2O_\(日本の歌手グループ\).md "wikilink")、[9月10日](../Page/9月10日.md "wikilink")）
 24. [未来予想図II](../Page/LOVE_GOES_ON….md "wikilink")（[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[9月17日](../Page/9月17日.md "wikilink")）

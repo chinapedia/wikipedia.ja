@@ -1,7 +1,7 @@
 > この記事は[FEEL YOUNG](https://ja.wikipedia.org/wiki/FEEL_YOUNG)から翻訳されています。
 
 
-『**FEEL YOUNG**』（フィール・ヤング）は、[祥伝社](../Page/祥伝社.md "wikilink")から発売されている[ヤング女性向けの](../Page/ヤング・レディース.md "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。発売日は毎月8日（[日曜日](../Page/日曜日.md "wikilink")の場合は7日）。略称「**フィーヤン**」。
+『**FEEL YOUNG**』（フィール・ヤング）は、[祥伝社](../Page/祥伝社.md "wikilink")から発売されている[ヤング女性向けの](../Page/ヤング・レディース.md "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。発売日は毎月8日（[日曜日](../Page/日曜日.md "wikilink")の場合は7日）。略称「**フィーヤン**」。
 
 先だって発行されていた『FEEL』（現在休刊）の姉妹誌として[1989年](../Page/1989年.md "wikilink")に創刊。読者は20代独身女性が中心\[1\]。[レディコミ](../Page/レディースコミック.md "wikilink")[バブル](../Page/バブル.md "wikilink")とも呼ばれたブーム終焉後、大手出版社以外の競合誌が休廃刊する中で、それまで青年誌を中心に活躍していた[岡崎京子](../Page/岡崎京子.md "wikilink")、[内田春菊](../Page/内田春菊.md "wikilink")、[やまだないと](../Page/やまだないと.md "wikilink")、[南Q太](https://ja.wikipedia.org/wiki/南Q太 "wikilink")らを迎える。[少女漫画](../Page/少女漫画.md "wikilink")界で伸び悩んでいた[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")をブレイクさせるなど、質の高い誌面を維持し生き残った。現在では誌名に「ヤング」が含まれる唯一のヤングレディース誌である。 2011年3月号よりコミック誌で初めて紙と電子版の同時販売を開始した。
 
@@ -38,7 +38,7 @@
   - いとへん（[宇仁田ゆみ](../Page/宇仁田ゆみ.md "wikilink")）
   - [うさぎドロップ](https://ja.wikipedia.org/wiki/うさぎドロップ "wikilink")（宇仁田ゆみ）
   - 夫すごろく（堀内三佳）
-  - 鬼と羽衣（[今日マチ子](https://ja.wikipedia.org/wiki/今日マチ子 "wikilink")）
+  - 鬼と羽衣（[今日マチ子](../Page/今日マチ子.md "wikilink")）
   - [オハナホロホロ](https://ja.wikipedia.org/wiki/オハナホロホロ "wikilink")（鳥野しの）
   - [CGH\!](https://ja.wikipedia.org/wiki/CGH! "wikilink")（[小池田マヤ](../Page/小池田マヤ.md "wikilink")）
   - [かことみらい](https://ja.wikipedia.org/wiki/かことみらい "wikilink")（今日マチ子）
@@ -55,7 +55,7 @@
   - [夏雪ランデブー](https://ja.wikipedia.org/wiki/夏雪ランデブー "wikilink")（[河内遙](https://ja.wikipedia.org/wiki/河内遙 "wikilink")）
   - [ハッピー・マニア](../Page/ハッピー・マニア.md "wikilink")（[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")）
   - パリパリ伝説（[かわかみじゅんこ](../Page/かわかみじゅんこ.md "wikilink")）
-  - [ピース オブ ケイク](https://ja.wikipedia.org/wiki/ピース_オブ_ケイク "wikilink")（ジョージ朝倉）
+  - [ピース オブ ケイク](../Page/ピース_オブ_ケイク.md "wikilink")（ジョージ朝倉）
   - [鼻下長紳士回顧録](https://ja.wikipedia.org/wiki/鼻下長紳士回顧録 "wikilink")（[安野モヨコ](https://ja.wikipedia.org/wiki/安野モヨコ "wikilink")）
   - ひばりの朝（[ヤマシタトモコ](https://ja.wikipedia.org/wiki/ヤマシタトモコ "wikilink")）
   - ファム･フォーミュラ（市川ラク）
@@ -82,7 +82,7 @@
 
   - [朝倉世界一](../Page/朝倉世界一.md "wikilink")
   - [いわみちさくら](../Page/いわみちさくら.md "wikilink")
-  - [小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")
+  - [小野塚カホリ](../Page/小野塚カホリ.md "wikilink")
   - [楠本まき](../Page/楠本まき.md "wikilink")
   - [こいずみまり](../Page/こいずみまり.md "wikilink")
   - [魚喃キリコ](../Page/魚喃キリコ.md "wikilink")
@@ -140,7 +140,7 @@
   - [フィーヤン・ネットWEBコミック&コラム](http://www.shodensha.co.jp/fy/comic/)
   - [シュークリーム（編集プロダクション）](http://www.shu-cream.com/)
 
-[Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:祥伝社](https://ja.wikipedia.org/wiki/Category:祥伝社 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:女性漫画雑誌](https://ja.wikipedia.org/wiki/Category:女性漫画雑誌 "wikilink") [Category:レディースコミック誌](https://ja.wikipedia.org/wiki/Category:レディースコミック誌 "wikilink") [Category:FEEL_YOUNG](https://ja.wikipedia.org/wiki/Category:FEEL_YOUNG "wikilink") [Category:1989年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1989年創刊の雑誌 "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink")
+[Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:祥伝社の出版物](https://ja.wikipedia.org/wiki/Category:祥伝社の出版物 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:女性漫画雑誌](https://ja.wikipedia.org/wiki/Category:女性漫画雑誌 "wikilink") [Category:レディースコミック誌](https://ja.wikipedia.org/wiki/Category:レディースコミック誌 "wikilink") [Category:FEEL_YOUNG](https://ja.wikipedia.org/wiki/Category:FEEL_YOUNG "wikilink") [Category:1989年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1989年創刊の雑誌 "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink")
 
 1.  JMPA読者構成データ（日本雑誌協会）による。
 2.  [日本雑誌協会](http://www.j-magazine.or.jp/)JMPAマガジンデータによる1号当たり平均部数。

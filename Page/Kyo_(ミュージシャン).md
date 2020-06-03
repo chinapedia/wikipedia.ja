@@ -1,7 +1,7 @@
 > この記事は[Kyo \(ミュージシャン\)](https://ja.wikipedia.org/wiki/Kyo_\(ミュージシャン\))から翻訳されています。
 
 
-**kyo**（キョウ、[1967年](../Page/1967年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[千葉県？](https://ja.wikipedia.org/wiki/千葉県？ "wikilink")出身。
+**kyo**（キョウ、[1967年](../Page/1967年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[千葉県](../Page/千葉県.md "wikilink")出身。
 
 ## 略歴
 

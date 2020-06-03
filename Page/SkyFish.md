@@ -237,7 +237,16 @@
 ## 外部リンク
 
   - [SkyFish official web site](http://www.sky-fish.jp/)
+  - [SkyFish poco official web site](http://www.sky-fish.jp/sf-poco/poco_index.html)
+  - [Cabbit official web site](http://www.cabbit.jp/)
+  - [Carol Works official web site](http://www.carolworks.com/)
 
+<!-- end list -->
+
+  -
+  -
+  -
+  -
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
 1.  白銀・鋼炎・蒼穹を収録

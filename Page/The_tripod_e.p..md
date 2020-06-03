@@ -3,7 +3,7 @@
 
 『**the tripod e.p.**』（ザ・トライポット・イーピー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")である[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のメジャー[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に発売された。
 
-タイトル "tripod"とは「3本の柱（三脚）」の意味で、[LISA](../Page/LISA_\(歌手\).md "wikilink")、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Takuの3人が団結して曲を作り上げる、という意味が込められている。インディーズ時代にリリースした「been so long」を収録している。
+タイトル "tripod"とは「3本の柱（三脚）」の意味で、[LISA](../Page/LISA_\(歌手\).md "wikilink")、[VERBAL](../Page/VERBAL.md "wikilink")、☆Takuの3人が団結して曲を作り上げる、という意味が込められている。インディーズ時代にリリースした「been so long」を収録している。
 
 ## 解説
 

@@ -25,9 +25,7 @@
   - [2013年](../Page/2013年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")、4thアルバム『おかげさまです。』を発売。
   - [2014年](../Page/2014年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")、これまでの客演仕事をまとめたMIX CD『ラガッ&ラパッ \~客演曲ほとんど\&REMIXちょい\~ ディジェッ by DJ FUKU』を発売。
   - [2014年](../Page/2014年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、3年ぶりに[なんばグランド花月](../Page/なんばグランド花月.md "wikilink")にてワンマンライブを開催。
-  - [2017年](../Page/2017年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、5thアルバム『
-
-ここから・・・いまから』を発売。
+  - [2017年](../Page/2017年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、5thアルバム『ここから・・・いまから』を発売。
 
 ## 人物
 

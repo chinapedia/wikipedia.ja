@@ -192,7 +192,7 @@
 | 赤煉瓦ビル（ドーム屋根）                                                                 | ×  | ×   | × | ×   | ×  | × | ○ |
 | [ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")                       | ×  | ○   | ○ | ○   | ×  | × |   |
 | [ヒューネックス](../Page/ヒューネックス.md "wikilink")                                     | ×  | ○   | ○ | ○   | ×  | × |   |
-| [タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")                      | ×  | ○   | ○ | ○   | ×  | × |   |
+| [タムソフト](../Page/タムソフト.md "wikilink")                                         | ×  | ○   | ○ | ○   | ×  | × |   |
 | [サニーサイドアップ](https://ja.wikipedia.org/wiki/サニーサイドアップ_\(マネジメント会社\) "wikilink") | ×  | ○   | ○ | ○   | ×  | × |   |
 | [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")                        | ×  | ○   | × | ×   | ×  | × |   |
 | [JTB](../Page/JTB.md "wikilink")                                             | ×  | ×   | ○ | ○   | ○  | ○ | ○ |

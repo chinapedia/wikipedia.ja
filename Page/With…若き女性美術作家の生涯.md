@@ -19,7 +19,7 @@
 
   - [2000年](../Page/2000年.md "wikilink")
       - 第30回[国際エミー賞アジア代表](https://ja.wikipedia.org/wiki/エミー賞#国際エミー賞 "wikilink")
-      - 第27回[NHK日本賞特別賞](../Page/日本賞.md "wikilink")（[ユニセフ賞](../Page/国際連合児童基金.md "wikilink")）（[1](http://www.nhk.or.jp/jp-prize/past/27/unicef-j.html)）
+      - 第27回[NHK日本賞特別賞](../Page/日本賞.md "wikilink")（[ユニセフ賞](../Page/国際連合児童基金.md "wikilink")）（[1](https://www.nhk.or.jp/jp-prize/past/27/unicef-j.html)）
       - 第5回[アジア・テレビジョン・アワード](https://ja.wikipedia.org/wiki/アジア・テレビジョン・アワード "wikilink")最優秀ドキュメンタリー部門第2位
       - [放送と女性ネットワーク賞最優秀賞](https://ja.wikipedia.org/wiki/放送と女性ネットワークin関西 "wikilink")
   - [2001年](../Page/2001年.md "wikilink")
@@ -98,9 +98,9 @@
 
 ## 外部リンク
 
-  - [ドキュメンタリー映画『With…若き女性美術作家の生涯』](http://with2001.com/) - 公式サイト
+  - [ドキュメンタリー映画『With…若き女性美術作家の生涯』](https://with2001.com/) - 公式サイト
 
-  - [NHK JAPAN PRIZE](http://www.nhk.or.jp/jp-prize/past/27/unicef-j.html) - 日本賞による作品紹介
+  - [NHK JAPAN PRIZE](https://www.nhk.or.jp/jp-prize/past/27/unicef-j.html) - 日本賞による作品紹介
 
   - [阿倍野ヒューマンドキュメンタリー映画祭 上映作品](http://www.abeno-hdff.jp/sakuhin/with.html) - 作品紹介
 

@@ -52,7 +52,7 @@
   - 2005年[11月11日](../Page/11月11日.md "wikilink") - 医辱（開発：Love Juice）
   - 2005年[12月9日](../Page/12月9日.md "wikilink") - 凌辱連鎖（開発：SuppleEntertainment）
   - 2006年[5月12日](../Page/5月12日.md "wikilink") - 少女狩り（開発：sunshine61）
-  - 2006年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - 辱アナ（開発：Love Juice）
+  - 2006年[6月2日](../Page/6月2日.md "wikilink") - 辱アナ（開発：Love Juice）
 
 ### Scramble House
 

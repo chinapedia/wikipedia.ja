@@ -78,7 +78,7 @@
   -
   - [Welcome to Circle Right-Arrow](http://www.rightarrow.nu/circle/)（前身となった同人サークル「みぎやじるし」HP）
 
-[Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink") [Category:feng](https://ja.wikipedia.org/wiki/Category:feng "wikilink")
+[Category:feng](https://ja.wikipedia.org/wiki/Category:feng "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink")
 
 1.  [PC Angel](../Page/PC_Angel_neo.md "wikilink") 2006年7月号 pp.222-224
 2.

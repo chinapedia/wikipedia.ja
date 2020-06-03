@@ -589,7 +589,7 @@ JR四国では、2012年3月17日に本四備讃線と[高松駅](https://ja.wik
     今後、以下の区間でICOCAが利用可能になることが明らかになっている。
       - [福知山線](../Page/福知山線.md "wikilink") 篠山口駅 - [福知山駅](../Page/福知山駅.md "wikilink")間（2021年春予定\[102\]）
       - [山陰本線](https://ja.wikipedia.org/wiki/山陰本線 "wikilink") 園部駅 - [城崎温泉駅](https://ja.wikipedia.org/wiki/城崎温泉駅 "wikilink")間（園部駅 - [胡麻駅](../Page/胡麻駅.md "wikilink")間の各駅及び胡麻駅以南・[綾部駅](../Page/綾部駅.md "wikilink")・福知山駅・[和田山駅](https://ja.wikipedia.org/wiki/和田山駅 "wikilink")・[八鹿駅](https://ja.wikipedia.org/wiki/八鹿駅 "wikilink")・[江原駅](https://ja.wikipedia.org/wiki/江原駅 "wikilink")・[豊岡駅](https://ja.wikipedia.org/wiki/豊岡駅_\(兵庫県\) "wikilink")・城崎温泉駅の各駅相互発着区間、2021年春予定\[103\]）
-      - [関西本線](../Page/関西本線.md "wikilink") 加茂駅 - [亀山駅](https://ja.wikipedia.org/wiki/亀山駅 "wikilink")間（2021年春予定\[104\]）
+      - [関西本線](../Page/関西本線.md "wikilink") 加茂駅 - [亀山駅間](https://ja.wikipedia.org/wiki/亀山駅_\(三重県\) "wikilink")（2021年春予定\[104\]）
       - [舞鶴線](../Page/舞鶴線.md "wikilink") 綾部駅 - [東舞鶴駅](../Page/東舞鶴駅.md "wikilink")間（綾部駅・[西舞鶴駅](../Page/西舞鶴駅.md "wikilink")・東舞鶴駅の各駅相互発着区間、2021年春予定\[105\]）
       - [播但線](../Page/播但線.md "wikilink") 寺前駅 - 和田山駅間（寺前駅以南・[生野駅](https://ja.wikipedia.org/wiki/生野駅_\(兵庫県\) "wikilink")・[竹田駅](https://ja.wikipedia.org/wiki/竹田駅_\(兵庫県\) "wikilink")・和田山駅の各駅相互発着区間、2021年春予定\[106\]）
       - [七尾線](../Page/七尾線.md "wikilink") [津幡駅](https://ja.wikipedia.org/wiki/津幡駅 "wikilink") - [和倉温泉駅](https://ja.wikipedia.org/wiki/和倉温泉駅 "wikilink")間全線（2021年春予定\[107\]）

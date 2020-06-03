@@ -1,7 +1,7 @@
 > この記事は[SARSコロナウイルス](https://ja.wikipedia.org/wiki/SARSコロナウイルス)から翻訳されています。
 
 
-**SARSコロナウイルス**（サーズコロナウイルス、）は[一本鎖プラス鎖RNAウイルス](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")で、[SARS関連コロナウイルス](../Page/SARS関連コロナウイルス.md "wikilink") (SARSr-CoV) に属する[コロナウイルス](../Page/コロナウイルス.md "wikilink")。[2003年](../Page/2003年.md "wikilink")に流行した[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (Severe acute respiratory syndrome = **SARS**) の[病原体](https://ja.wikipedia.org/wiki/病原体 "wikilink")として同定された。通称 **SARSウイルス**。[飛沫感染により広がるとみられている](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")。
+**SARSコロナウイルス**（サーズコロナウイルス、）は、[一本鎖プラス鎖RNAウイルス](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")で、[SARS関連コロナウイルス](../Page/SARS関連コロナウイルス.md "wikilink") (SARSr-CoV) に属する[コロナウイルス](../Page/コロナウイルス.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")に流行した[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (Severe acute respiratory syndrome = **SARS**) の[病原体](https://ja.wikipedia.org/wiki/病原体 "wikilink")として同定された。通称 **SARSウイルス**。[飛沫感染により広がるとみられている](https://ja.wikipedia.org/wiki/感染経路#飛沫感染 "wikilink")。
 
 ## 状況推移
 

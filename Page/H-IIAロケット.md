@@ -11,7 +11,7 @@ H-IIAロケットは、先代の[H-IIロケット](../Page/H-IIロケット.md "
 
 打ち上げ費用は構成によって異なるが約85億円 - 120億円であり、H-IIロケットの140億円 - 190億円に比べると大幅に低減されている。 [静止トランスファ軌道](../Page/静止トランスファ軌道.md "wikilink")への打ち上げ能力は4.0 - 6.0 [tであり](../Page/トン.md "wikilink")、H-IIロケットと同等 - 約1.5倍の能力である。
 
-[2001年](../Page/2001年.md "wikilink")夏に試験機1号機が打ち上げられて以来、41回中40回の打ち上げに成功している。打ち上げ成功率は97.6%。H-IIAと同エンジンを使用する[H-IIBロケット](../Page/H-IIBロケット.md "wikilink")も含めると49回中48回の打ち上げに成功しており、打ち上げ成功率は98.0%（2020年2月9日時点）。
+[2001年](../Page/2001年.md "wikilink")夏に試験機1号機が打ち上げられて以来、41回中40回の打ち上げに成功している。打ち上げ成功率は97.6%。H-IIAと同エンジンを使用する[H-IIBロケット](../Page/H-IIBロケット.md "wikilink")も含めると50回中49回の打ち上げに成功しており、打ち上げ成功率は98.0%（2020年5月21日時点）。
 
 [2020年](../Page/2020年.md "wikilink")度に後継機の[H3ロケット](https://ja.wikipedia.org/wiki/H3ロケット "wikilink")の運用が開始される予定だが、その後もH-IIAロケットの運用は継続し、最終的に[2023年](../Page/2023年.md "wikilink")度に退役する予定である\[6\]。
 
@@ -2025,20 +2025,12 @@ LEO</p></td>
 
 <!-- end list -->
 
-  - [2021年](../Page/2021年.md "wikilink")（令和3年）度
-
-<!-- end list -->
-
-  - [X線分光撮像衛星 XRISM](https://ja.wikipedia.org/wiki/X線分光撮像衛星 "wikilink")（[X線天文衛星ひとみ代替機](https://ja.wikipedia.org/wiki/ひとみ_\(人工衛星\) "wikilink")）\[92\]
-    以下ひとみ代替機と同時打ち上げ
-      - [月着陸機](../Page/月面着陸.md "wikilink") [SLIM](https://ja.wikipedia.org/wiki/SLIM "wikilink")
-
-<!-- end list -->
-
   - 2022年（令和4年）度
 
 <!-- end list -->
 
+  - [X線分光撮像衛星 XRISM](https://ja.wikipedia.org/wiki/X線分光撮像衛星 "wikilink")（[X線天文衛星ひとみ代替機](https://ja.wikipedia.org/wiki/ひとみ_\(人工衛星\) "wikilink")）\[92\]
+      - [月着陸機](../Page/月面着陸.md "wikilink") [SLIM](https://ja.wikipedia.org/wiki/SLIM "wikilink")（XRISMと相乗りで打ち上げ）
   - [情報収集衛星](../Page/情報収集衛星.md "wikilink")レーダ7号機\[93\]
 
 <!-- end list -->

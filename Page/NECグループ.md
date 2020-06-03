@@ -20,7 +20,7 @@
   - [NECトーキンテクノサービス](https://ja.wikipedia.org/wiki/NECトーキンテクノサービス "wikilink")
   - [NECトーキン物産](https://ja.wikipedia.org/wiki/NECトーキン物産 "wikilink")
   - [NECネクサソリューションズ](https://ja.wikipedia.org/wiki/NECネクサソリューションズ "wikilink")（[アウトソーシング](../Page/ITアウトソーシング.md "wikilink")、[システム開発](https://ja.wikipedia.org/wiki/開発#システム開発 "wikilink")・導入等）
-  - **[NECネッツエスアイ](../Page/NECネッツエスアイ.md "wikilink")**（旧日本電気システム建設、傘下に複数の子会社を持つネットワーク工事・保守中心にネットワークインテグレーションまで含めた[NIer](../Page/システムインテグレーター.md "wikilink")、2007年4月NECテレネットワークスを吸収合併）
+  - **[NECネッツエスアイ](../Page/NECネッツエスアイ.md "wikilink")**（旧日本電気システム建設、傘下に複数の子会社を持つネットワーク工事・保守中心にネットワークインテグレーションまで含めた[SIer](../Page/システムインテグレーター.md "wikilink")、2007年4月NECテレネットワークスを吸収合併）
   - [NECネッツエスアイ・エンジニアリング](https://ja.wikipedia.org/wiki/NECネッツエスアイ・エンジニアリング "wikilink")
   - [NECネッツエスアイ・サービス](https://ja.wikipedia.org/wiki/NECネッツエスアイ・サービス "wikilink")
   - [NECネットイノベーション](https://ja.wikipedia.org/wiki/NECネットイノベーション "wikilink")

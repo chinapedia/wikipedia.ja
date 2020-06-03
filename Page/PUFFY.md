@@ -99,7 +99,7 @@
           -
             PUFFYの師匠である[奥田民生](../Page/奥田民生.md "wikilink")のサポートも行っており、それ以前には[ユニコーンの](../Page/UNICORN.md "wikilink")[川西幸一](../Page/川西幸一.md "wikilink")が脱退した後にも共にツアーを回ったことがある。また、古田がPUFFYのサポートに回れない時に川西が入るようになった。
       - 松川恒二（1997年）
-      - ナカジマノブ（人間椅子、PONI-CAMP、ドミンゴス、テレビ出演時、2003年 - ）
+      - ナカジマノブ（人間椅子、[PONI-CAMP](https://ja.wikipedia.org/wiki/PONI-CAMP "wikilink")、ドミンゴス、テレビ出演時、2003年 - ）
       - 川西幸一（ユニコーン、2007年 - ）
           -
             以前には、1996年の事務所の年末イベントで「アジアのボイン」（「[アジアの純真](../Page/アジアの純真.md "wikilink")」+「[ヒゲとボイン](https://ja.wikipedia.org/wiki/ヒゲとボイン "wikilink")」）などをサポートしたことがあった。
@@ -110,14 +110,14 @@
   - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - [井上富雄](https://ja.wikipedia.org/wiki/井上富雄 "wikilink")（1997年 - ）
       - [木下裕晴](../Page/木下裕晴.md "wikilink")（ex.[L⇔R](https://ja.wikipedia.org/wiki/L⇔R "wikilink")、2代目バンマス鬼軍曹、1998年 - ）
-      - レイ（PONI-CAMP、テレビ出演時、2003年 - ）
+      - レイ（[PONI-CAMP](https://ja.wikipedia.org/wiki/PONI-CAMP "wikilink")、テレビ出演時、2003年 - ）
       - KATARU（[ニューロティカ](../Page/ニューロティカ.md "wikilink")、テレビ出演時、2005年 - ）
   - [ギター](../Page/ギター.md "wikilink")
       - 柳沢二三男（1997年 - 2007年）
       - [辻剛](https://ja.wikipedia.org/wiki/辻剛 "wikilink")（ex.[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")、1997年 - 2006年）
       - [藤井謙二](../Page/藤井謙二.md "wikilink")（ex.[MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")、2006年）
       - ゴロー（ex.[ロリータ18号](../Page/ロリータ18号.md "wikilink")、2006年 - ）
-      - [エナポゥ](https://ja.wikipedia.org/wiki/エナポゥ "wikilink")（PONI-CAMP、ex.[ロリータ18号](../Page/ロリータ18号.md "wikilink")、テレビ出演時、2003年 - ）
+      - [エナポゥ](https://ja.wikipedia.org/wiki/エナポゥ "wikilink")（[PONI-CAMP](https://ja.wikipedia.org/wiki/PONI-CAMP "wikilink")、ex.[ロリータ18号](../Page/ロリータ18号.md "wikilink")、テレビ出演時、2003年 - ）
       - シズヲ（ex.[ニューロティカ](../Page/ニューロティカ.md "wikilink")、ゲタカルビ、シズヲバンド、2004年）
       - [中シゲオ](https://ja.wikipedia.org/wiki/中重雄 "wikilink")（[The Surf Coasters](../Page/ザ・サーフコースターズ.md "wikilink")、2007年 - ）
       - [岩瀬敬吾](../Page/岩瀬敬吾.md "wikilink")（ex.19、2008年）
@@ -547,6 +547,7 @@
 
 ## 外部リンク
 
+  -
   -
   -
   -

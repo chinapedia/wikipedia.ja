@@ -3,7 +3,7 @@
 
 **ジョアン・ローリング**, [CH](https://ja.wikipedia.org/wiki/:en:Order_of_the_Companions_of_Honour "wikilink") [OBE](../Page/大英帝国勲章.md "wikilink") （ 、[1965年](../Page/1965年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") -）、ペンネーム: **J・K・ローリング**  または**ロバート・ガルブレイス**  は、イギリスの小説家兼脚本家。
 
-『[ハリーポッターシリーズ](https://ja.wikipedia.org/wiki/ハリーポッターシリーズ "wikilink")』の作者であり、この本は世界中で反響を呼び幾多の賞を獲得し4億部以上出版\[1\]。これは[史上最も売れたシリーズ作品であり](../Page/ベストセラー本の一覧.md "wikilink")\[2\]、また[劇場版シリーズは](https://ja.wikipedia.org/wiki/ハリー・ポッター_\(映画シリーズ\) "wikilink")[世界歴代12位の興行収入](../Page/世界歴代興行収入上位の映画一覧.md "wikilink")(2019年10月25日現在)をあげた\[3\]又ファンタスエィクビーストと魔法使いの旅で脚本家デビュー。
+『[ハリーポッターシリーズ](https://ja.wikipedia.org/wiki/ハリーポッターシリーズ "wikilink")』の作者であり、この本は世界中で反響を呼び幾多の賞を獲得し4億部以上出版\[1\]。これは[史上最も売れたシリーズ作品であり](../Page/ベストセラー本の一覧.md "wikilink")\[2\]、また[劇場版シリーズは](https://ja.wikipedia.org/wiki/ハリー・ポッター_\(映画シリーズ\) "wikilink")[世界歴代12位の興行収入](../Page/世界歴代興行収入上位の映画一覧.md "wikilink")(2019年10月25日現在)をあげた\[3\]又、ファンタスティックビーストと魔法使いの旅で脚本家デビュー。
 
 [大英帝国勲章](../Page/大英帝国勲章.md "wikilink")、[ローカス賞](https://ja.wikipedia.org/wiki/ローカス賞_ファンタジイ長篇部門 "wikilink")、[ヒューゴー賞](../Page/ヒューゴー賞_長編小説部門.md "wikilink")、[アストゥリアス皇太子賞](https://ja.wikipedia.org/wiki/アストゥリアス皇太子賞 "wikilink")、[アンデルセン文学賞](https://ja.wikipedia.org/wiki/アンデルセン文学賞 "wikilink")、[英国アカデミー賞](../Page/英国アカデミー賞.md "wikilink")受賞。
 
@@ -77,7 +77,7 @@
 
 ### ロバート・ガルブレイス名義
 
-2013年、ロバート・ガルブレイス（）という男性のペンネームで『』（邦題）という探偵小説を出版していたことが、[サンデー・タイムズ](https://ja.wikipedia.org/wiki/サンデー・タイムズ "wikilink")の調査により発覚した\[21\]。本人は「もう少し長く秘密にしておきたかった」と語った\[22\]。
+2013年、ロバート・ガルブレイス（）という男性のペンネームで『[カッコウの呼び声](https://ja.wikipedia.org/wiki/カッコウの呼び声 "wikilink")』という探偵小説を出版していたことが、[サンデー・タイムズ](https://ja.wikipedia.org/wiki/サンデー・タイムズ "wikilink")の調査により発覚した\[21\]。本人は「もう少し長く秘密にしておきたかった」と語った\[22\]。
 
 ロバート・ガルブレイスは2003年から民間の警備保障会社に勤務している英軍警察の元隊員だと説明していたが、初めて書いたにしては出来が良すぎるのではないかと疑問を抱いたサンデー・タイムズ紙が、正体について調査した\[23\]。
 
@@ -171,9 +171,9 @@
 
 ※イギリス郊外の町を舞台とした、作者初の大人向け長編小説。原書は2012年9月27日に刊行。独占翻訳権は[講談社](../Page/講談社.md "wikilink")が取得した\[37\]\[38\]。　
 
-#### 『私立探偵コーモラン・ストライク』シリーズ
+#### 『[私立探偵コーモラン・ストライク](https://ja.wikipedia.org/wiki/私立探偵コーモラン・ストライク "wikilink")』シリーズ
 
-  - 『カッコウの呼び声 私立探偵コーモラン・ストライク』(*[:en:The Cuckoo's Calling](https://ja.wikipedia.org/wiki/:en:The_Cuckoo's_Calling "wikilink")*) 2013.4.18
+  - 『[カッコウの呼び声](https://ja.wikipedia.org/wiki/カッコウの呼び声 "wikilink") 私立探偵コーモラン・ストライク』(*[The Cuckoo's Calling](https://ja.wikipedia.org/wiki/:en:The_Cuckoo's_Calling "wikilink")*) 2013.4.18
   - 『カイコの紡ぐ嘘 私立探偵コーモラン・ストライク』(*[:en:The Silkworm](https://ja.wikipedia.org/wiki/:en:The_Silkworm "wikilink")*) 2014.6.19
   - 『（邦題未定）』(*[:en:Career of Evil](https://ja.wikipedia.org/wiki/:en:Career_of_Evil "wikilink")*) 2015.10.20（未出版）
   - 『（邦題未定）』(*[:en:Lethal White](https://ja.wikipedia.org/wiki/:en:Lethal_White "wikilink")*) 2018.9.18（未出版）

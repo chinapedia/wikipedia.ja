@@ -49,3 +49,7 @@
   - [エターナル (ガンダムシリーズ)所属であることを示す識別略号](../Page/エターナル_\(ガンダムシリーズ\).md "wikilink")。
 
   - [ストーマ療法士](https://ja.wikipedia.org/wiki/ストーマ療法士 "wikilink")（enterostomal therapist）の略。
+
+  - [大紀元時報](https://ja.wikipedia.org/wiki/大紀元時報 "wikilink")（Epoch Times）
+
+  - [東森電視](https://ja.wikipedia.org/wiki/東森電視 "wikilink")（Eastern Television）

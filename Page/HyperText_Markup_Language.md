@@ -3,7 +3,7 @@
 
 （ハイパーテキスト マークアップ ランゲージ）は、[ハイパーテキスト](../Page/ハイパーテキスト.md "wikilink")を記述するための[マークアップ言語](../Page/マークアップ言語.md "wikilink")の1つ。略して**HTML**（エイチティーエムエル）と呼ばれることが多い。[SGML](https://ja.wikipedia.org/wiki/SGML "wikilink")を元に開発された。[World Wide Web](../Page/World_Wide_Web.md "wikilink") (WWW)において、[ウェブページ](../Page/ウェブページ.md "wikilink")（1990年代後半頃からは[コンテンツ](../Page/コンテンツ.md "wikilink")という語も利用されている。「中身」という意味の語であり、大層な意味は無い）を表現するために用いられる。[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")や画像等の[マルチメディア](../Page/マルチメディア.md "wikilink")を埋め込むハイパーテキストとしての機能、[見出し](../Page/見出し.md "wikilink")や[段落](../Page/段落.md "wikilink")といったドキュメントの抽象構造、[フォント](../Page/フォント.md "wikilink")や文字色の指定などの見た目の指定、などといった機能がある。
 
-2019年6月以降\[1\]、[WHATWG](../Page/Web_Hypertext_Application_Technology_Working_Group.md "wikilink") により仕様が作られ、それが[W3C勧告](https://ja.wikipedia.org/wiki/W3C勧告 "wikilink")となる流れになっている（ただし、この体制になってから[W3C勧告](https://ja.wikipedia.org/wiki/W3C勧告 "wikilink")に至った仕様はまだ存在しない）。W3C は、[XML](../Page/Extensible_Markup_Language.md "wikilink") ベースの規格である [XHTML](../Page/Extensible_HyperText_Markup_Language.md "wikilink") の勧告も行っている。
+2019年6月以降\[1\]、[WHATWG](../Page/Web_Hypertext_Application_Technology_Working_Group.md "wikilink") により仕様が作られ、それが[W3C勧告](https://ja.wikipedia.org/wiki/W3C勧告 "wikilink")となる流れになっている（ただし、この体制になってからW3C勧告に至った仕様はまだ存在しない）。W3C は、[XML](../Page/Extensible_Markup_Language.md "wikilink") ベースの規格である [XHTML](../Page/Extensible_HyperText_Markup_Language.md "wikilink") の勧告も行っている。
 
 ## 特徴
 

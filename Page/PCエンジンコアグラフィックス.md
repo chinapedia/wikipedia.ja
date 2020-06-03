@@ -7,7 +7,7 @@
 
 初代PCエンジンからの[マイナーチェンジ版](../Page/モデルチェンジ.md "wikilink")。[PCエンジンシャトル](../Page/PCエンジンシャトル.md "wikilink")、[PCエンジンスーパーグラフィックス](../Page/PCエンジンスーパーグラフィックス.md "wikilink")と並んで発表された新型PCエンジンの一つ。デザインが一部改良され、カラーリングを暗灰色に変更しただけでなく、テレビへの出力端子を従来の[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")から[AV端子](../Page/AV端子.md "wikilink")に変更。本体同梱の付属コントローラには連射機能を付け、[利便性の向上を図った](../Page/アクセシビリティ.md "wikilink")。 本体およびコントローラの[色](../Page/色.md "wikilink")は濃い[グレーとし](../Page/灰色.md "wikilink")、[ロゴや](../Page/ロゴタイプ.md "wikilink")[文字](../Page/文字.md "wikilink")などの[アクセント](../Page/アクセント.md "wikilink")は[青色](https://ja.wikipedia.org/wiki/青色 "wikilink")とした。
 
-[1991年](../Page/1991年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")には、同時発売の[SUPER CD-ROM<sup>2</sup>にカラーリングを合わせ](../Page/SUPER_CD-ROM2.md "wikilink")、本体およびコントローラの色を薄いグレーとし、アクセントを[オレンジ色](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")に変えた改良版である**PCエンジンコアグラフィックスII** (*PC Engine CoreGrafx II*) （当時のメーカー希望小売価格は19,800円）も発売された。
+[1991年](../Page/1991年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")には、同時発売の[SUPER CD-ROM<sup>2</sup>にカラーリングを合わせ](../Page/SUPER_CD-ROM2.md "wikilink")、本体およびコントローラの色を薄いグレーとし、アクセントを[オレンジ色](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")に変えたマイナーチェンジ版である**PCエンジンコアグラフィックスII** (*PC Engine CoreGrafx II*) （当時のメーカー希望小売価格は19,800円）も発売された。
 
 どちらも[拡張バス](https://ja.wikipedia.org/wiki/拡張バス "wikilink")を備えており、[CD-ROM<sup>2</sup>](../Page/CD-ROM2.md "wikilink") 等の各種[周辺機器](../Page/周辺機器.md "wikilink")が接続が可能である。また、以降のPCエンジンのコントローラには標準的に連射機能が内蔵されることとなった。
 

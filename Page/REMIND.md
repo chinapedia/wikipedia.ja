@@ -6,7 +6,7 @@
 ## 概要
 
   - シングルとしては初となる全英語詞。
-  - カップリングにはこれまでのsecond lineシリーズではなく、[光の三原色](https://ja.wikipedia.org/wiki/光の三原色 "wikilink")をイメージしたインストナンバーが収録されており、「[UNFOLD](https://ja.wikipedia.org/wiki/UNFOLD "wikilink")」と「[式日](../Page/式日_\(曲\).md "wikilink")」の2作とあわせて3部作となる（本作は「赤」）。
+  - カップリングにはこれまでのsecond lineシリーズではなく、[光の三原色](https://ja.wikipedia.org/wiki/光の三原色 "wikilink")をイメージしたインストナンバーが収録されており、「[UNFOLD](../Page/UNFOLD.md "wikilink")」と「[式日](../Page/式日_\(曲\).md "wikilink")」の2作とあわせて3部作となる（本作は「赤」）。
   - [TOYOTA BIG AIR](../Page/TOYOTA_BIG_AIR.md "wikilink") 2008の大会公式ホームページ\[[http://www.toyota-bigair.jp/2008/index.html\]でこの楽曲が使用された（ホームページを開くとこの楽曲がフルコーラスで流れていたが、現在は使われていない。なお](http://www.toyota-bigair.jp/2008/index.html%5Dでこの楽曲が使用された（ホームページを開くとこの楽曲がフルコーラスで流れていたが、現在は使われていない。なお)、「テーマソング」などの情報や発表も無い）。
 
 ## 収録曲
@@ -18,7 +18,7 @@
 2.  **赤色群像 (inst.)** (4:03)
       -
         大木曰く「[火の鳥](../Page/火の鳥_\(漫画\).md "wikilink")・未来編、ロビタの行進」のイメージとのこと。
-        [PVや](../Page/ミュージック・ビデオ.md "wikilink")[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")「[THIS IS INSTRUMENTAL](https://ja.wikipedia.org/wiki/THIS_IS_INSTRUMENTAL "wikilink")」では「[ベガの呼応 (inst.)](https://ja.wikipedia.org/wiki/UNFOLD "wikilink")」や「[EVERGREEN (inst.)](../Page/式日.md "wikilink")」と合わせて[組曲](../Page/組曲.md "wikilink")「THE LIGHT」を構成し、この曲のパートは3分程度に短縮されている。
+        [PVや](../Page/ミュージック・ビデオ.md "wikilink")[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")「[THIS IS INSTRUMENTAL](https://ja.wikipedia.org/wiki/THIS_IS_INSTRUMENTAL "wikilink")」では「[ベガの呼応 (inst.)](../Page/UNFOLD.md "wikilink")」や「[EVERGREEN (inst.)](../Page/式日.md "wikilink")」と合わせて[組曲](../Page/組曲.md "wikilink")「THE LIGHT」を構成し、この曲のパートは3分程度に短縮されている。
 
 ## 収録アルバム
 

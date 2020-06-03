@@ -231,7 +231,7 @@ PCCA-02934:通常盤</p></td>
   - 抱かれたいMENZラップ feat. COMA-CHI / D.M.R（2006年1月14日）『とぐろ』
   - ファブリーズ feat. COMA-CHI / D.M.R（2006年1月14日）『とぐろ』
   - 早朝WALK feat. COMA-CHI / D.M.R（2006年1月14日）『とぐろ』
-  - 大和撫子 feat. 蝶々, COMA-CHI / [ANTY the 紅乃壱](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink")（2006年2月14日）『HOW TO=B=EAT』
+  - 大和撫子 feat. 蝶々, COMA-CHI / [ANTY the 紅乃壱](../Page/ANTY_the_紅乃壱.md "wikilink")（2006年2月14日）『HOW TO=B=EAT』
   - すれ違い feat. COMA-CHI / [KEN THE 390](../Page/KEN_THE_390.md "wikilink")（2006年3月25日）『プロローグ』
   - Can't Stop Feat. COMA-CHI / TARO SOUL（2006年6月3日）『SOUL SPITS』
   - Strange Voyage / DJ YAS feat. COMA-CHI produced by DJ YAS（2006年9月6日）V.A.『HIBACHI TIMES Vol.3』

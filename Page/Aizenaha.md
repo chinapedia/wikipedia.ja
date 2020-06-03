@@ -21,7 +21,7 @@
 
 1.  イロ
 2.  ほんとはね。
-      - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink")』枠内放送スペシャルドラマ『[天使の歌声 〜小児病棟の奇跡〜](https://ja.wikipedia.org/wiki/天使の歌声_〜小児病棟の奇跡〜 "wikilink")』主題歌、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『世界密着TV\!ワレワレハ地球人ダ\!\!』挿入歌
+      - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink")』枠内放送スペシャルドラマ『[天使の歌声 〜小児病棟の奇跡〜](../Page/天使の歌声_〜小児病棟の奇跡〜.md "wikilink")』主題歌、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『世界密着TV\!ワレワレハ地球人ダ\!\!』挿入歌
 3.  LAST OF PAST
 4.  My REVoLUTIoN
 5.  鏡

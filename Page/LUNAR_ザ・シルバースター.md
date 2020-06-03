@@ -3,7 +3,7 @@
 
 『**LUNAR ザ・シルバースター**』（ルナ ザ・シルバースター）は、[1992年](../Page/1992年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に日本の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")から発売された[メガCD](../Page/メガCD.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
 
-同社の『[LUNAR](https://ja.wikipedia.org/wiki/LUNAR "wikilink")シリーズ』（1992年 - [2015年](../Page/2015年.md "wikilink")）の第1作目。主人公のアレス・ノアを操作し、魔法皇帝を倒して魔法世界ルナを救出する事を目的としている。人と会話をして情報を集め、戦闘で経験値とお金を増やし、冒険をしていくオーソドックスなRPGである。戦闘システムは距離や移動距離など、「長さ」の概念を搭載し、戦略的な戦闘が出来るようになっている。
+同社の『[LUNAR](../Page/LUNAR.md "wikilink")シリーズ』（1992年 - [2015年](../Page/2015年.md "wikilink")）の第1作目。主人公のアレス・ノアを操作し、魔法皇帝を倒して魔法世界ルナを救出する事を目的としている。人と会話をして情報を集め、戦闘で経験値とお金を増やし、冒険をしていくオーソドックスなRPGである。戦闘システムは距離や移動距離など、「長さ」の概念を搭載し、戦略的な戦闘が出来るようになっている。
 
 開発はゲームアーツが行い、プロデューサーはパソコン用ソフト『[シルフィード](../Page/シルフィード_\(ゲーム\).md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）や『[VEIGUES](../Page/VEIGUES.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）を手掛けた[宮路洋一](https://ja.wikipedia.org/wiki/宮路洋一 "wikilink")、シナリオは小説家の[重馬敬](https://ja.wikipedia.org/wiki/重馬敬 "wikilink")、音楽は[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『[鋼鉄帝国](https://ja.wikipedia.org/wiki/鋼鉄帝国 "wikilink")』（1992年）を手掛けた[溝口功](https://ja.wikipedia.org/wiki/溝口功 "wikilink")、[岩垂徳行](../Page/岩垂徳行.md "wikilink")、窪寺義明やメガドライブ用ソフト『[ラングリッサー](../Page/ラングリッサーシリーズ.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）を手掛けた藤岡央、キャラクター・デザインは[アニメーター](../Page/アニメーター.md "wikilink")の[窪岡俊之](../Page/窪岡俊之.md "wikilink")が担当している。
 

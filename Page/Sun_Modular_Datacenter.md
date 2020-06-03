@@ -17,7 +17,7 @@
 
 第一号製品は[SLAC](https://ja.wikipedia.org/wiki/SLAC "wikilink")へ納品されている[1](http://today.slac.stanford.edu/feature/2007/blackbox1.asp)。
 
-2007年11月14日にはサン、[IIJ](https://ja.wikipedia.org/wiki/IIJ "wikilink")、[ベリングポイント](https://ja.wikipedia.org/wiki/ベリングポイント "wikilink")他12団体が共同でSun MDを地下鉱跡に大量設置する「地底空間トラステッド・エコ・データセンター・プロジェクト」を発足させた[2](http://jp.sun.com/company/Press/release/2007/1114.html)[3](http://www.iij.ad.jp/news/pressrelease/2007/1114.html)。地下100メートルに設置する事で[耐震](../Page/耐震.md "wikilink")性にすぐれ（安定した岩盤中ならば地下空間は地震に強い）、かつ[偵察衛星](../Page/偵察衛星.md "wikilink")に発見されにくくなるなどの[機密](https://ja.wikipedia.org/wiki/機密 "wikilink")の保持がやりやすくなるメリットがある。当該施設は2010年4月に稼動予定。また専任の合弁会社の設置が予定されている。日本政府も全面バックアップしており、[国土交通省](../Page/国土交通省.md "wikilink")、[経済産業省](../Page/経済産業省.md "wikilink")、[総務省](../Page/総務省.md "wikilink")、そして[環境省](../Page/環境省.md "wikilink")が本プロジェクトにアドバイザリーメンバーとして加わっている。
+2007年11月14日にはサン、[IIJ](https://ja.wikipedia.org/wiki/IIJ "wikilink")、[ベリングポイント](../Page/ベリングポイント.md "wikilink")他12団体が共同でSun MDを地下鉱跡に大量設置する「地底空間トラステッド・エコ・データセンター・プロジェクト」を発足させた[2](http://jp.sun.com/company/Press/release/2007/1114.html)[3](http://www.iij.ad.jp/news/pressrelease/2007/1114.html)。地下100メートルに設置する事で[耐震](../Page/耐震.md "wikilink")性にすぐれ（安定した岩盤中ならば地下空間は地震に強い）、かつ[偵察衛星](../Page/偵察衛星.md "wikilink")に発見されにくくなるなどの[機密](https://ja.wikipedia.org/wiki/機密 "wikilink")の保持がやりやすくなるメリットがある。当該施設は2010年4月に稼動予定。また専任の合弁会社の設置が予定されている。日本政府も全面バックアップしており、[国土交通省](../Page/国土交通省.md "wikilink")、[経済産業省](../Page/経済産業省.md "wikilink")、[総務省](../Page/総務省.md "wikilink")、そして[環境省](../Page/環境省.md "wikilink")が本プロジェクトにアドバイザリーメンバーとして加わっている。
 
 ## 発売開始
 

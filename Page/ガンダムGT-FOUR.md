@@ -34,7 +34,7 @@
 
 ## 関連項目
 
-  - [宇宙世紀の登場機動兵器一覧](https://ja.wikipedia.org/wiki/宇宙世紀の登場機動兵器一覧 "wikilink")
+  - [宇宙世紀の登場機動兵器一覧](../Page/宇宙世紀の登場機動兵器一覧.md "wikilink")
   - [可変モビルスーツ](../Page/可変モビルスーツ.md "wikilink")
 
 [Category:地球連邦軍_(宇宙世紀)_の機動兵器](https://ja.wikipedia.org/wiki/Category:地球連邦軍_\(宇宙世紀\)_の機動兵器 "wikilink")

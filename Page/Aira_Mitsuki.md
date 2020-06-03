@@ -30,7 +30,7 @@
   - 2009年[7月22日](../Page/7月22日.md "wikilink")、2ndAlbum『PLASTIC』をリリース。[AYUSE KOZUE](https://ja.wikipedia.org/wiki/AYUSE_KOZUE "wikilink")、[Shigeo](https://ja.wikipedia.org/wiki/Shigeo "wikilink")（[SBK](../Page/スケボーキング.md "wikilink")/[the samos](https://ja.wikipedia.org/wiki/the_samos "wikilink")）、[□□□](../Page/□□□.md "wikilink")がゲストボーカルとして参加。さらに初回限定盤に付属する特典CDには[80kidz](https://ja.wikipedia.org/wiki/80kidz "wikilink")、斉藤祐樹（[髭 (HiGE)](https://ja.wikipedia.org/wiki/髭_\(HiGE\) "wikilink")）ほか計8組のアーティストによるリミックス音源が収録される。また、これに伴い初の東名阪ツアーを開催することが決定。
   - 2009年[11月2日](../Page/11月2日.md "wikilink")、オフィシャル[ファンクラブ](../Page/ファンクラブ.md "wikilink")「I LOVE」発足。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")より、[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")「[Tokyo graffiti](https://ja.wikipedia.org/wiki/Tokyo_graffiti "wikilink")×[グリコビジョン渋谷](https://ja.wikipedia.org/wiki/グリコビジョン渋谷 "wikilink")[コラボCM](../Page/コラボレーション.md "wikilink")」がグリコビジョン渋谷にて放映開始。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、Aira Mitsukiの2nd Seasonを告げるmini Album『6 FORCE』をリリース。ゲストプロデューサーに新進インストバンド「[Sawagi](https://ja.wikipedia.org/wiki/Sawagi "wikilink")」を迎えることが発表された。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")、Aira Mitsukiの2nd Seasonを告げるmini Album『6 FORCE』をリリース。ゲストプロデューサーに新進インストバンド「[Sawagi](https://ja.wikipedia.org/wiki/Sawagi "wikilink")」を迎えることが発表された。
   - 2010年[8月7日](../Page/8月7日.md "wikilink")、「[SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2010」大阪会場DANCE STAGEに出演し、プロデューサーTerukadoとともにDJセットによるライブセットを披露した。
   - 2010年[8月13日](../Page/8月13日.md "wikilink")、「[LOWRYS FARM](https://ja.wikipedia.org/wiki/LOWRYS_FARM "wikilink")」や「[GLOBAL WORK](https://ja.wikipedia.org/wiki/GLOBAL_WORK "wikilink")」などのファッションブランドを有する株式会社ポイントと[MySpace](https://ja.wikipedia.org/wiki/MySpace "wikilink")のコラボプロジェクト「[point presents enjoy? 100music](https://ja.wikipedia.org/wiki/point_presents_enjoy?_100music "wikilink")」の[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")番組のオープニングにワンマンライブをUstream生配信。
   - 2010年[11月17日](../Page/11月17日.md "wikilink")、3rd Album『???(スリークエスチョン)』を新レーベル[D-TOPIA UNIVERSEよりリリース](https://ja.wikipedia.org/wiki/D-TOPIA_UNIVERSE "wikilink")。「[HAN JAE HO](https://ja.wikipedia.org/wiki/ハン・ジェホ "wikilink"),[KIM SEUNG SOO](https://ja.wikipedia.org/wiki/KIM_SEUNG_SOO "wikilink"),[AN JUN SUNG](https://ja.wikipedia.org/wiki/AN_JUN_SUNG "wikilink")」が楽曲提供し、「[環ROY](https://ja.wikipedia.org/wiki/環ROY "wikilink")」とのアーティストコラボを実現。さらに、[小沢健二](../Page/小沢健二.md "wikilink")の「[愛し愛されて生きるのさ](https://ja.wikipedia.org/wiki/愛し愛されて生きるのさ "wikilink")」をカヴァーしている。そしてAlbum発売に伴い、TOWER RECORDS限定店舗企画「はてなショップクローリング」、Aira Mitsuki LiVE TOUR 2011 「？？？」を6都市で開催した。
@@ -144,7 +144,7 @@
 
 ### ミニアルバム
 
-  - 6 FORCE（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")）
+  - 6 FORCE（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")）
       - 初回盤
         ＜Produced by Terukado＞
     <!-- end list -->

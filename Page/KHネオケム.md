@@ -35,7 +35,7 @@
 
 ## グループ会社
 
-  - [ジェイ・プラス](../Page/ジェイ・プラス.md "wikilink")（[三菱ケミカルとの合弁](https://ja.wikipedia.org/wiki/三菱化学 "wikilink")）
+  - [ジェイ・プラス](../Page/ジェイ・プラス.md "wikilink")（[三菱ケミカルとの合弁](../Page/三菱化学.md "wikilink")）
   - [黒金化成](https://ja.wikipedia.org/wiki/黒金化成 "wikilink")
   - 黒金ファインズ
   - KH Neochem Americas, Inc.

@@ -24,7 +24,7 @@
     最大10万件、容量：無料版 2GB（有料のgooメールアドバンスは5GB）
 
   - 送受信容量
-    10MBまで、[添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")：20MBまで
+    10MBまで、[添付ファイル](../Page/添付ファイル.md "wikilink")：20MBまで
 
   - ふり
 

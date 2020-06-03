@@ -68,7 +68,7 @@
 
 ### 主な配役
 
-  - ルードウィヒ・ヴァン・ベートーヴェン　：　[橋本良亮](https://ja.wikipedia.org/wiki/橋本良亮 "wikilink")（[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")）
+  - ルードウィヒ・ヴァン・ベートーヴェン　：　[橋本良亮](../Page/橋本良亮.md "wikilink")（[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
   - アマデウス・モーツァルト　：　[河合郁人](../Page/河合郁人.md "wikilink")（A.B.C-Z）
   - ヨハン（宮廷歌手、ベートーヴェンの父）　：　[里見浩太郎](https://ja.wikipedia.org/wiki/里見浩太郎 "wikilink")
   - マリア・マグダレーナ（宮廷料理人の娘、ベートヴェンの母）　：　[浅野温子](../Page/浅野温子.md "wikilink")

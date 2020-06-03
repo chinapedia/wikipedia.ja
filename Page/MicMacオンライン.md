@@ -600,7 +600,7 @@
   - SM、メイト、ソルメ
     [\#ソウルメイトのこと](https://ja.wikipedia.org/wiki/#ソウルメイトシステム "wikilink")。
   - SS
-    [スクリーンショット](https://ja.wikipedia.org/wiki/スクリーンショット "wikilink")のこと。
+    [スクリーンショット](../Page/スクリーンショット.md "wikilink")のこと。
   - [\#アクティブアタックスキル](https://ja.wikipedia.org/wiki/#攻撃スキル "wikilink")、AAスキル、アタックスキル
     いわゆる攻撃スキル。
   - [\#アクティブ補助スキル](https://ja.wikipedia.org/wiki/#アクティブ補助スキル "wikilink")、アクティブサブスキル、ASスキル

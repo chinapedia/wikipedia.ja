@@ -14,8 +14,8 @@
   - 笹川了平：[木内秀信](../Page/木内秀信.md "wikilink")
   - 雲雀恭弥：[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")
   - 六道骸：[飯田利信](../Page/飯田利信.md "wikilink")
-  - [子供ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink")：[竹内順子](../Page/竹内順子.md "wikilink")
-  - [大人ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink")：[津田健次郎](../Page/津田健次郎.md "wikilink")
+  - [子供ランボ](../Page/ランボ.md "wikilink")：[竹内順子](../Page/竹内順子.md "wikilink")
+  - [大人ランボ](../Page/ランボ.md "wikilink")：[津田健次郎](../Page/津田健次郎.md "wikilink")
   - 笹川京子：稲村優奈
   - 三浦ハル：吉田仁美
   - イーピン：チャン・リーメイ

@@ -9,7 +9,7 @@
 
 本社・スタジオは[四ヶ町商店街](../Page/四ヶ町商店街.md "wikilink")に面している。 [送信所](../Page/送信所.md "wikilink")は、[県域放送](../Page/県域放送.md "wikilink")局も佐世保中継局を設けるなど立地条件の良い[烏帽子岳にあり](../Page/烏帽子岳_\(佐世保市\).md "wikilink")、[コールサインJOZZ](https://ja.wikipedia.org/wiki/識別信号#呼出符号 "wikilink")0BE-FM、[周波数](../Page/周波数.md "wikilink")87.3MHz、[空中線電力](../Page/空中線電力.md "wikilink")20W（[ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink")55W）で送信している。
 
-放送エリアは、[宇久島](https://ja.wikipedia.org/wiki/宇久島 "wikilink")を含む佐世保市全域 \[1\]。
+放送エリアは、[宇久島](../Page/宇久島.md "wikilink")を含む佐世保市全域 \[1\]。
 
 2013年（平成25年）からは防災体制の強化や難聴取地域（[ノイズ](../Page/ノイズ.md "wikilink")が入って聞き取りづらい地域）のカバーを目的に[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")放送（[サイマル放送](../Page/サイマル放送.md "wikilink")）を開始したことにより、佐世保市外からの聴取も可能となった。元々は専用アプリケーションを通じて[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に限定していたが、開始と同時に[パソコンからの聴取にも対応した](../Page/パーソナルコンピュータ.md "wikilink")。
 
@@ -193,7 +193,7 @@
 ## 外部リンク
 
   - [はっぴぃ\!FM（公式サイト）](https://happyfm873.com/)
-  - [コミュニティ放送局に予備免許 〜佐世保市において長崎県内４局目が開局予定〜](https://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.kbt.go.jp/press/070706-1-1.html) [九州総合通信局](https://ja.wikipedia.org/wiki/九州総合通信局 "wikilink") 平成19年7月6日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2007年8月8日収集）
+  - [コミュニティ放送局に予備免許 〜佐世保市において長崎県内４局目が開局予定〜](https://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.kbt.go.jp/press/070706-1-1.html) [九州総合通信局](../Page/九州総合通信局.md "wikilink") 平成19年7月6日（[国立国会図書館](../Page/国立国会図書館.md "wikilink")のアーカイブ:2007年8月8日収集）
   - [コミュニティ放送局に免許状交付 〜佐世保市において長崎県内４局目が開局〜](https://warp.da.ndl.go.jp/info:ndljp/pid/258151/www.kbt.go.jp/press/070719-1-1.html) 同上 平成19年7月19日（同上）
 
 [Category:九州地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:九州地方のコミュニティ放送局 "wikilink") [Category:長崎県のマスメディア](https://ja.wikipedia.org/wiki/Category:長崎県のマスメディア "wikilink") [Category:佐世保市の企業](https://ja.wikipedia.org/wiki/Category:佐世保市の企業 "wikilink") [Category:2007年設立の企業](https://ja.wikipedia.org/wiki/Category:2007年設立の企業 "wikilink")

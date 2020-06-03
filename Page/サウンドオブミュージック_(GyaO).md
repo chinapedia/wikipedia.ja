@@ -58,7 +58,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/吉澤ひとみ.md" title="wikilink">吉澤ひとみ</a>（<a href="../Page/音楽ガッタス.md" title="wikilink">音楽ガッタス</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/石川梨華" title="wikilink">石川梨華</a>（同）<br />
+<a href="../Page/石川梨華.md" title="wikilink">石川梨華</a>（同）<br />
 <a href="../Page/紺野あさ美.md" title="wikilink">紺野あさ美</a>（同）<br />
 <a href="../Page/真野恵里菜.md" title="wikilink">真野恵里菜</a>（同）<br />
 <a href="https://ja.wikipedia.org/wiki/山田タマル" title="wikilink">山田タマル</a><br />

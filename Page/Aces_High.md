@@ -137,7 +137,7 @@
 #### [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")
 
   - **戦車**
-      - [ファイアフライ](https://ja.wikipedia.org/wiki/シャーマン_ファイアフライ "wikilink")
+      - [ファイアフライ](../Page/シャーマン_ファイアフライ.md "wikilink")
 
 #### [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
 

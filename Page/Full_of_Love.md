@@ -1,7 +1,7 @@
 > この記事は[Full of Love](https://ja.wikipedia.org/wiki/Full_of_Love)から翻訳されています。
 
 
-『**Full of Love**』（フル・オブ・ラブ）は、[工藤静香](../Page/工藤静香.md "wikilink")の14枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+『**Full of Love**』（フル・オブ・ラブ）は、[工藤静香](../Page/工藤静香.md "wikilink")の14枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
 ## 解説
 

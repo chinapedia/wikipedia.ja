@@ -39,7 +39,7 @@
   - [武部聡志](../Page/武部聡志.md "wikilink")：[Sound Produced](../Page/音楽プロデューサー.md "wikilink") & [Keyboards](../Page/キーボード_\(楽器\).md "wikilink") (\#1,3)
   - 益田TOSH：Programming (\#2,4)
   - [Philip Woo](https://ja.wikipedia.org/wiki/フィリップ・ウー "wikilink")：Keyboards & Programming (\#2,4)
-  - [河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") (\#1,3)
+  - [河村"カースケ"智康](../Page/河村智康.md "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") (\#1,3)
   - [種子田健](../Page/種子田健.md "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#1,3)
   - [狩野良昭](https://ja.wikipedia.org/wiki/狩野良昭 "wikilink")：[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") (\#1,3)
   - [石井マサユキ](https://ja.wikipedia.org/wiki/石井マサユキ "wikilink")：[Gut Guitar](../Page/クラシック・ギター.md "wikilink") (\#2,4)

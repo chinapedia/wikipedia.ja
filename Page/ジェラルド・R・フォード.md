@@ -37,7 +37,7 @@
 
 フォードは、さらに[マヤグエース号事件](../Page/マヤグエース号事件.md "wikilink")で外交危機に直面した。[1975年](../Page/1975年.md "wikilink")5月に、[クメール・ルージュ](../Page/クメール・ルージュ.md "wikilink")が[カンボジア](../Page/カンボジア.md "wikilink")で政権をとった直後、カンボジア領海でクメール・ルージュ軍が、アメリカ国[商船マヤグエース号](https://ja.wikipedia.org/wiki/船#分類 "wikilink")（SS Mayaguez　乗員37名）を[拿捕](../Page/拿捕.md "wikilink")した。フォードは乗組員救出のために[海兵隊を派遣したが](https://ja.wikipedia.org/wiki/アメリカ合衆国海兵隊 "wikilink")、救助の海兵隊員は誤った島に上陸して抵抗を受け、18名の隊員の命が失われた。
 
-1975年[9月5日](../Page/9月5日.md "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サクラメントで](../Page/サクラメント_\(カリフォルニア州\).md "wikilink")、[アナーキスト](https://ja.wikipedia.org/wiki/アナーキスト "wikilink")、[チャールズ・マンソン](../Page/チャールズ・マンソン.md "wikilink")の信奉者がフォードに銃を向けたが、[シークレット・サービスによって暗殺は防がれた](../Page/アメリカ合衆国シークレットサービス.md "wikilink")。その17日後の[9月22日](../Page/9月22日.md "wikilink")に、が[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")でフォードに発砲したが、銃撃はによって妨がれた。
+1975年[9月5日](../Page/9月5日.md "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サクラメントで](../Page/サクラメント_\(カリフォルニア州\).md "wikilink")、[アナーキスト](https://ja.wikipedia.org/wiki/アナーキスト "wikilink")、[チャールズ・マンソン](../Page/チャールズ・マンソン.md "wikilink")の信奉者がフォードに銃を向けたが、[シークレット・サービスによって暗殺は防がれた](../Page/アメリカ合衆国シークレットサービス.md "wikilink")。その17日後の[9月22日](../Page/9月22日.md "wikilink")に、[サラ・ジェーン・ムーア](../Page/サラ・ジェーン・ムーア.md "wikilink")が[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")でフォードに発砲したが、銃撃はによって妨がれた。
 
 また、1974年[11月18日](../Page/11月18日.md "wikilink")に現職のアメリカ大統領として初めて日本を公式訪問し、[昭和天皇](../Page/昭和天皇.md "wikilink")と会見した。また[1975年](../Page/1975年.md "wikilink")には[天皇](https://ja.wikipedia.org/wiki/天皇 "wikilink")として初訪米した昭和天皇を迎えている。
 

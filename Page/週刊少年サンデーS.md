@@ -1,7 +1,7 @@
 > この記事は[週刊少年サンデーS](https://ja.wikipedia.org/wiki/週刊少年サンデーS)から翻訳されています。
 
 
-『**週刊少年サンデーS**』（しゅうかんしょうねんサンデースーパー）は、[小学館](../Page/小学館.md "wikilink")の発行する[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。
+『**週刊少年サンデーS**』（しゅうかんしょうねんサンデースーパー）は、[小学館](../Page/小学館.md "wikilink")の発行する[漫画雑誌](../Page/漫画雑誌.md "wikilink")。
 
 ## 概要と変遷
 
@@ -177,7 +177,8 @@
 <td><p>2010.10</p></td>
 <td><p>2009.08.28</p></td>
 <td><p>2010.10.12</p></td>
-<td><p>2011.06号より「常住戦陣</p></td>
+<td><p>2011.06号より<br />
+「常住戦陣</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -276,9 +277,10 @@
 <td><p>2015.05</p></td>
 <td><p>2010.12.24</p></td>
 <td><p>2015.04.24</p></td>
-<td><p>2014.02・03合併号より並行して<br />
-本誌で月1連載<br />
-2015.19号より月1連載で本誌に完全移行</p></td>
+<td><p>2014.02・03合併号より<br />
+並行して本誌で月1連載<br />
+2015.19号より月1連載で<br />
+本誌に完全移行</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">19.5</span></p></td>
@@ -517,7 +519,8 @@
 <td><p>39</p></td>
 <td><p><span style="display:none;">あうらまりゆういんこうかさいこのたたかい</span><a href="https://ja.wikipedia.org/wiki/AURA_〜魔竜院光牙最後の闘い〜" title="wikilink">AURA 〜魔竜院光牙最後の闘い〜</a></p></td>
 <td><p><span style="display:none"> ほしの こういちろう</span> <a href="../Page/星野倖一郎.md" title="wikilink">星野倖一郎</a><br />
-<span style="display:none"> めはえ</span> <a href="https://ja.wikipedia.org/wiki/mebae" title="wikilink">mebae</a>　</p></td>
+<span style="display:none"> めはえ</span> <a href="https://ja.wikipedia.org/wiki/mebae" title="wikilink">mebae</a><br />
+　</p></td>
 <td><p><span style="display:none"> なたか ろみお </span> <a href="../Page/田中ロミオ.md" title="wikilink">田中ロミオ</a></p></td>
 <td><p>2012.04</p></td>
 <td><p>2013.05</p></td>
@@ -587,7 +590,8 @@
 <td><p><span style="display:none;">ちいさいひとあおはしとうそうたんしよものかたり</span><a href="https://ja.wikipedia.org/wiki/ちいさいひと_青葉児童相談所物語" title="wikilink">ちいさいひと 青葉児童相談所物語</a></p></td>
 <td><p><span style="display:none"> きようちくとう しん</span> <a href="https://ja.wikipedia.org/wiki/夾竹桃ジン" title="wikilink">夾竹桃ジン</a></p></td>
 <td><p><span style="display:none"> みすの みつひろ </span> <a href="https://ja.wikipedia.org/wiki/水野光博" title="wikilink">水野光博</a><br />
-<span style="display:none"> こみや しゆんいち </span> <a href="https://ja.wikipedia.org/wiki/小宮純一" title="wikilink">小宮純一</a>　</p></td>
+<span style="display:none"> こみや しゆんいち </span> <a href="https://ja.wikipedia.org/wiki/小宮純一" title="wikilink">小宮純一</a><br />
+　</p></td>
 <td><p>2012.08</p></td>
 <td><p>2013.12</p></td>
 <td><p>—</p></td>
@@ -631,7 +635,8 @@
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
-<td><p><span style="display:none;">きゆひこふしまつてんしのみすまねえしめんと</span><a href="https://ja.wikipedia.org/wiki/キュピコ!_〜ふしまつ天使のミスマネージメント〜" title="wikilink">キュピコ! 〜ふしまつ天使のミスマネージメント〜</a></p></td>
+<td><p><span style="display:none;">きゆひこふしまつてんしのみすまねえしめんと</span><a href="https://ja.wikipedia.org/wiki/キュピコ!_〜ふしまつ天使のミスマネージメント〜" title="wikilink">キュピコ!<br />
+〜ふしまつ天使のミスマネージメント〜</a></p></td>
 <td><p><span style="display:none;">しもやま ふんこ</span><a href="https://ja.wikipedia.org/wiki/下山文吾" title="wikilink">下山文吾</a></p></td>
 <td><p>—</p></td>
 <td><p>2012.12</p></td>
@@ -897,7 +902,8 @@
 <td><p>70</p></td>
 <td><p><span style="display:none;">とあるひくうしへのこいうた</span><a href="https://ja.wikipedia.org/wiki/とある飛空士への恋歌" title="wikilink">とある飛空士への恋歌</a></p></td>
 <td><p><span style="display:none"> こしま たけし</span> <a href="https://ja.wikipedia.org/wiki/こじまたけし" title="wikilink">こじまたけし</a><br />
-<span style="display:none"> もりさわ はるゆき</span> <a href="https://ja.wikipedia.org/wiki/森沢晴行" title="wikilink">森沢晴行</a></p></td>
+<span style="display:none"> もりさわ はるゆき</span> <a href="https://ja.wikipedia.org/wiki/森沢晴行" title="wikilink">森沢晴行</a><br />
+</p></td>
 <td><p><span style="display:none"> いぬむら ころく </span> <a href="https://ja.wikipedia.org/wiki/犬村小六" title="wikilink">犬村小六</a></p></td>
 <td><p>2014.04</p></td>
 <td><p>2015.11</p></td>
@@ -1269,7 +1275,8 @@
 <td><p><span style="display:none;">しんちいさいひとあおはしとうそうたんしよものかたり</span><strong><a href="https://ja.wikipedia.org/wiki/ちいさいひと_青葉児童相談所物語" title="wikilink">新・ちいさいひと 青葉児童相談所物語</a></strong></p></td>
 <td><p><span style="display:none"> きようちくとう しん</span> <a href="https://ja.wikipedia.org/wiki/夾竹桃ジン" title="wikilink">夾竹桃ジン</a></p></td>
 <td><p><span style="display:none"> みすの みつひろ </span> <a href="https://ja.wikipedia.org/wiki/水野光博" title="wikilink">水野光博</a><br />
-<span style="display:none"> こみや しゆんいち </span> <a href="https://ja.wikipedia.org/wiki/小宮純一" title="wikilink">小宮純一</a>　</p></td>
+<span style="display:none"> こみや しゆんいち </span> <a href="https://ja.wikipedia.org/wiki/小宮純一" title="wikilink">小宮純一</a><br />
+　</p></td>
 <td><p>2016.09</p></td>
 <td><p>連載中</p></td>
 <td><p>2016.07.25</p></td>
@@ -1314,7 +1321,8 @@
 <td><p>104</p></td>
 <td><p><span style="display:none;">すなつくわあると</span><a href="https://ja.wikipedia.org/wiki/スナックワールド" title="wikilink">スナックワールド</a></p></td>
 <td><p><span style="display:none"> しよつと </span><a href="https://ja.wikipedia.org/wiki/sho.t" title="wikilink">sho.t</a></p></td>
-<td><p><span style="display:none"> れへるふあいふ </span> <a href="../Page/レベルファイブ.md" title="wikilink">レベルファイブ</a></p></td>
+<td><p><span style="display:none"> れへるふあいふ </span> <a href="../Page/レベルファイブ.md" title="wikilink">レベルファイブ</a><br />
+</p></td>
 <td><p>2017.07</p></td>
 <td><p>2018.04</p></td>
 <td><p>2017.04.28</p></td>
@@ -1449,8 +1457,7 @@
 <td><p>114</p></td>
 <td><p><span style="display:none;">きようからおれはゆうしやさかわとあのふたりへん</span>[[今日から俺は</p></td>
 <td><p>|今日から俺は</p></td>
-<td><p><br />
-〜勇者サガワとあの二人編〜]]</p></td>
+<td><p>〜勇者サガワとあの二人編〜]]</p></td>
 <td><p><span style="display:none">にしもり ひろゆき </span> <a href="../Page/西森博之.md" title="wikilink">西森博之</a></p></td>
 <td><p>—</p></td>
 <td><p>2019.01</p></td>

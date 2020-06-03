@@ -19,7 +19,7 @@
 ### Second Stage
 
 1.  Initial D Second Stage D Selection 1（発売日：1999年12月1日）
-2.  頭文字D Second Stage D NON STOP SELECTION （発売日：2000年2月9日）
+2.  Initial D Second Stage D NON STOP SELECTION （発売日：2000年2月9日）
 
 ### Third Stage
 
@@ -62,19 +62,24 @@
   - INITIAL D ARCADE STAGE 4 original soundtracks（発売日：2007年6月27日）
   - INITIAL D ARCADE STAGE 5 original soundtracks（発売日：2009年3月4日）
 
+### Dream Collection
+
+  - INITIAL D Dream Collection（発売日：2019年1月11日）
+  - INITIAL D Dream Collection Vol. 2（発売日：2019年11月20日）
+  - INITIAL D Dream Collection Vol. 3（発売日：2020年1月8日）
+
 ### その他
 
-  - 頭文字D D BEST SELECTION（発売日：2000年3月8日）
+  - INITIAL D D BEST SELECTION（発売日：2000年3月8日）
   - INITIAL D MILLENNIUM BOX（発売日：2000年9月27日）
   - INITIAL D SUPER EURO-BEST（発売日：2000年11月22日）
       -
         Second Stageの終盤2話で使用されたSEBは、このアルバムに収録されている。
-  - 頭文字D BEST SONG COLLECTION 1998-2004（発売日：2005年3月9日）
+  - INITIAL D BEST SONG COLLECTION 1998-2004（発売日：2005年3月9日）
   - INITIAL D ABSOLUTE ALBUM feat.TAKUMI FUJIWARA（発売日：2006年3月23日）
   - INITIAL D ABSOLUTE ALBUM feat. KEISUKE TAKAHASHI（発売日：2006年11月29日）
   - INITIAL D NON-STOP MIX from TAKUMI-selection（発売日：2007年1月31日）
   - INITIAL D NON-STOP MIX from KEISUKE-selection（発売日：2007年1月31日）
-  - SUPER EUROBEAT presents INITIAL D Dream Collection（発売日：2019年1月25日）
 
 ## 関連項目
 

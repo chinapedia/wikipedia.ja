@@ -9,11 +9,14 @@
   - デビューから一貫して滝川洋がプロデューサーをつとめ、楽曲に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")外部からの制作陣が多く関わり、ライブやPVにバックバンドを取り入れるなど、[ロックサウンド主体のユニットであることから](../Page/ロック_\(音楽\).md "wikilink")、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の中では例外的なユニットである。\[1\]
   - 2007年から2010年まで放映された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")「[しゅごキャラ\!](../Page/しゅごキャラ!.md "wikilink")」\[2\]シリーズのテーマソングを担当。原作は講談社「[なかよし](../Page/なかよし.md "wikilink")」で好評連載中の作品で、5月には第32回[講談社漫画賞](../Page/講談社漫画賞.md "wikilink")の児童部門を受賞した\[3\]。番組終了後もCD制作やライブ活動を継続し、[ピザーラ](../Page/ピザーラ.md "wikilink")やVIVAパエリアのCMに出演するなど多方面の活動にシフトしていった。
   - 2009年、[日本青年館](../Page/日本青年館.md "wikilink")で初の単独ライブ。2010年からは年2回のペースでライブツアーをおこない、2012年2月にはパリでの単独公演を開催している\[4\]。また同年6月には、[日本武道館](../Page/日本武道館.md "wikilink")で開催された[ライブイベントに出演](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")、「[初恋サイダー](https://ja.wikipedia.org/wiki/初恋サイダー "wikilink")」を含む3曲を披露した\[5\]。
-  - 2012年9月、大阪公演以降、単独でのライブは開催されず、[Berryz工房](../Page/Berryz工房.md "wikilink")および[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の出演するライブイベントで楽曲を披露するなど、限定的な活動となっていた。\[6\]
+  - 2012年9月、大阪公演以降、単独でのライブは開催されず、[Berryz工房](../Page/Berryz工房.md "wikilink")および[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の出演するライブイベントで楽曲を披露するなど、限定的な活動となっていた\[6\]。
   - 2016年8月25日、[日本武道館](../Page/日本武道館.md "wikilink")において4年ぶりとなる単独コンサートを開催。チケットは即日完売\[7\]。同公演は海外含めた22会場で[ライブビューイング](../Page/ライブビューイング.md "wikilink")も開催された\[8\]。4年ぶりとなるシングル「[ソラシド〜ねえねえ〜](https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜 "wikilink") 」も同ライブで初披露された。
-  - ジャケット上のセンターは1stシングル「[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")」から3rdシングル「[Kiss\!Kiss\!Kiss\!](https://ja.wikipedia.org/wiki/Kiss!Kiss!Kiss! "wikilink")」までは夏焼雅、4thシングル「[ガチンコでいこう\!](../Page/ガチンコでいこう!.md "wikilink")」から7thシングル「[MY BOY](https://ja.wikipedia.org/wiki/MY_BOY "wikilink")」は嗣永桃子、8thシングル「[Take It Easy\!](https://ja.wikipedia.org/wiki/Take_It_Easy! "wikilink")」からは鈴木愛理、13thシングル「[初恋サイダー/DEEP MIND](https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND "wikilink")」は嗣永桃子である。
-  - 気合い入れの言葉は『今日も美味しくいただきますっ\!\!』。\[9\]
-  - 2017年5月22日、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")においてラストライブ「[Buono\! ライブ 2017 〜Pienezza\!〜](https://ja.wikipedia.org/wiki/Buono!_ライブ_2017_〜Pienezza!〜 "wikilink")」を開催し\[10\]活動完了した。
+  - 2017年5月22日、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")においてラストライブ「[Buono\! ライブ 2017 〜Pienezza\!〜](https://ja.wikipedia.org/wiki/Buono!_ライブ_2017_〜Pienezza!〜 "wikilink")」を開催した\[9\]。
+
+<!-- end list -->
+
+  - 気合い入れの言葉は『今日も美味しくいただきますっ\!\!』\[10\]。
+  - ジャケット上のセンターは1stシングル「[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")」から3rdシングル「[Kiss\!Kiss\!Kiss\!](https://ja.wikipedia.org/wiki/Kiss!Kiss!Kiss! "wikilink")」までは夏焼雅、4thシングル「[ガチンコでいこう\!](../Page/ガチンコでいこう!.md "wikilink")」から7thシングル「[MY BOY](https://ja.wikipedia.org/wiki/MY_BOY "wikilink")」は嗣永桃子、8thシングル「[Take It Easy\!](https://ja.wikipedia.org/wiki/Take_It_Easy! "wikilink")」からは鈴木愛理、13thシングル「[初恋サイダー/DEEP MIND](https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND "wikilink")」、14thシングル「[ソラシド〜ねえねえ〜](https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜 "wikilink")」は嗣永桃子である。
 
 ## メンバー
 
@@ -137,6 +140,12 @@
   - 5月15日、国内30箇所と、香港、台湾の計32箇所での、「Buono\! ライブ 2017 〜Pienezza\!〜」ライブ・ビューングの決定が発表された\[35\]。
   - 5月19日、ニコニコ生放送で「Buono\! ライブ 2017 〜Pienezza\!〜」独占生中継が決定した\[36\]。
   - 5月22日、横浜アリーナにおいて「Buono\! ライブ 2017 〜Pienezza\!〜」\[37\]を単独で開催し、1万5000人を動員、新聞等のマスコミはラストライブとして報じた\[38\]。
+
+**2020年**
+
+  - 5月15日、YouTubeのBuono\!チャンネルにおいて、3年前、横浜アリーナで開演した同日同時刻である5月22日18:00から「【期間限定】「Buono\!ライブ2017 ～Pienezza！～」を公開する。
+
+それに先立ち、[夏焼雅](../Page/夏焼雅.md "wikilink")は、[PINK CRES.チャンネルで](https://ja.wikipedia.org/wiki/PINK_CRES. "wikilink")「おうちでBuono\! リモートセッション 夏焼雅×eji "消失点-Vanishing Point-”」、[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")は、[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")チャンネルで、「おうちでBuono\! リモートセッション鈴木愛理×eji "OVER THE RAINBOW"」を公開した。 また、当日1時間前17:00から、インスタライブで夏焼雅、鈴木愛理のコラボ配信、ライブ映像プレミア公開中に、「＃おうちでBuono」をつけてリアルタイムでSNS実況、配信後21:30頃から鈴木愛理チャンネルにて“打ち合げ生配信”を行う予定である事もSNS等で伝えられた\[39\]。
 
 ## 作品
 
@@ -464,8 +473,8 @@ JUICY HE＠RT</p></td>
 <tr class="odd">
 <td><p>13th</p></td>
 <td><p>2012年1月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND" title="wikilink">初恋サイダー/DEEP MIND</a>[39]</p></td>
-<td><p>7位[40]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/初恋サイダー/DEEP_MIND" title="wikilink">初恋サイダー/DEEP MIND</a>[40]</p></td>
+<td><p>7位[41]</p></td>
 <td><p>NOBE<br />
 しほり<br />
 宮永治郎</p></td>
@@ -484,7 +493,7 @@ AKIRASTAR</p></td>
 <tr class="odd">
 <td><p>14th</p></td>
 <td><p>2016年9月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜" title="wikilink">ソラシド〜ねえねえ〜</a>[41]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ソラシド〜ねえねえ〜" title="wikilink">ソラシド〜ねえねえ〜</a>[42]</p></td>
 <td><p>5位（DVD音楽）<br />
 9位（DVD総合）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/赤い公園#メンバー" title="wikilink">津野米咲</a></p></td>
@@ -574,8 +583,8 @@ AKIRASTAR</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>2012年8月22日[42]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SHERBET" title="wikilink">SHERBET</a>[43]</p></td>
+<td><p>2012年8月22日[43]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SHERBET" title="wikilink">SHERBET</a>[44]</p></td>
 <td><p>14位</p></td>
 </tr>
 </tbody>
@@ -607,8 +616,8 @@ AKIRASTAR</p></td>
 
 | 順   | 発売日        | タイトル                           | 説明                                                   |
 | --- | ---------- | ------------------------------ | ---------------------------------------------------- |
-| 1st | 2011年7月5日  | Buono\! CRUISE\[44\]           | ギタリスト[松原正樹](../Page/松原正樹.md "wikilink")がカバーアルバムを作った。 |
-| 2nd | 2012年2月12日 | Buono\! Paris Collection\[45\] | パリのコンサートで、Buono\!の曲コレクションCDがリリースされた。                 |
+| 1st | 2011年7月5日  | Buono\! CRUISE\[45\]           | ギタリスト[松原正樹](../Page/松原正樹.md "wikilink")がカバーアルバムを作った。 |
+| 2nd | 2012年2月12日 | Buono\! Paris Collection\[46\] | パリのコンサートで、Buono\!の曲コレクションCDがリリースされた。                 |
 
 ### 映像作品
 
@@ -723,7 +732,7 @@ AKIRASTAR</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>2012年7月4日[46]</p></td>
+<td><p>2012年7月4日[47]</p></td>
 <td><p>Buono! 全シングル MUSIC VIDEO Blu-ray File 2012</p></td>
 <td><p>Blu-ray</p></td>
 <td><p>31位</p></td>
@@ -788,7 +797,7 @@ AKIRASTAR</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2011年8月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Buono!_ライブツアー_2011_summer_〜Rock&#39;n_Buono!_4〜" title="wikilink">Buono! ライブツアー 2011 summer 〜Rock'n Buono! 4〜</a>（DVD/Blu-ray）[47]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Buono!_ライブツアー_2011_summer_〜Rock&#39;n_Buono!_4〜" title="wikilink">Buono! ライブツアー 2011 summer 〜Rock'n Buono! 4〜</a>（DVD/Blu-ray）[48]</p></td>
 <td><p><a href="../Page/横浜BLITZ.md" title="wikilink">横浜BLITZ</a></p></td>
 <td><p>2011年12月7日</p></td>
 <td><p>DVD:21位/BD:19位</p></td>
@@ -854,7 +863,7 @@ AKIRASTAR</p></td>
 | 20th | Buono\! ライブツアー 2010 〜Rock'n Buono\! 3〜（嗣永桃子ソロver.）                 | 2011年3月30日  |
 | 21st | Buono\! ライブツアー 2010 〜Rock'n Buono\! 3〜（夏焼雅ソロver.）                  | 2011年3月30日  |
 | 22nd | Buono\! ライブツアー 2010 〜Rock'n Buono\! 3〜（鈴木愛理ソロver.）                 | 2011年3月30日  |
-| 23rd | Buono\!イベントV「夏ダカラ\!」\[48\]                                         | 2011年8月9日   |
+| 23rd | Buono\!イベントV「夏ダカラ\!」\[49\]                                         | 2011年8月9日   |
 | 24th | Buono\! DVD MAGAZINE Vol.9                                         | 2011年8月20日  |
 | 25th | Buono\! DVD MAGAZINE Vol.10                                        | 2011年8月20日  |
 | 26th | Buono\! ライブ 2011 winter 〜Re;Buono\!〜（嗣永桃子ソロver.）                   | 2011年9月11日  |
@@ -1008,9 +1017,9 @@ AKIRASTAR</p></td>
 ### ゲスト出演
 
   - MELON GREETING（2009年10月15日、Shibuya O-EAST）
-  - お台場合衆国2010 〜笑うBayには福きたる\!\!〜（2010年8月10日、東京都港区台場）\[49\]
+  - お台場合衆国2010 〜笑うBayには福きたる\!\!〜（2010年8月10日、東京都港区台場）\[50\]
   - お台場合衆国2011（2011年8月23日、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](https://ja.wikipedia.org/wiki/台場_\(東京都港区\) "wikilink")）
-  - [指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")（2012年6月25日、[日本武道館](../Page/日本武道館.md "wikilink")）\[50\]
+  - [指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』](https://ja.wikipedia.org/wiki/指原莉乃プロデュース『第一回ゆび祭り〜アイドル臨時総会〜』 "wikilink")（2012年6月25日、[日本武道館](../Page/日本武道館.md "wikilink")）\[51\]
 
 ## 書籍
 
@@ -1061,8 +1070,8 @@ AKIRASTAR</p></td>
 6.
 7.
 8.
-9.  ライブDVD「[Buono\!ライブツアー2010 〜We are Buono\!〜](https://ja.wikipedia.org/wiki/Buono!ライブツアー2010_〜We_are_Buono!〜 "wikilink")」Disc 2に収録されている特典映像「Document from Back Stage（on 21 Feb 2010）」を参照。
-10.
+9.
+10. ライブDVD「[Buono\!ライブツアー2010 〜We are Buono\!〜](https://ja.wikipedia.org/wiki/Buono!ライブツアー2010_〜We_are_Buono!〜 "wikilink")」Disc 2に収録されている特典映像「Document from Back Stage（on 21 Feb 2010）」を参照。
 11. [9月30日横浜BLITZ公演に「Buono\!」ゲスト出演決定\!](http://www.helloproject.com/news/cute_0709051800.html)
 12. [モーニング娘。“熱っちぃ地球を冷ますんだっ。”文化祭](http://www.morningmusume-bunkasai.com/)
 13. [Buono\!特設サイトオープン\!](http://www.helloproject.com/news/buono_0710121943.html)
@@ -1099,7 +1108,8 @@ AKIRASTAR</p></td>
 44.
 45.
 46.
-47. [Sony Music Shop](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=2620&cd=EPXE000005017)
-48.
-49. [Buono\!出演決定！お台場合衆国2010 〜笑うBayには福きたる\!\!〜](http://www.fujitv.co.jp/uso2_cx/20100810.html#venue03) [4](http://www.helloproject.com/news/1007072200_hello.html)[Berryz工房](../Page/Berryz工房.md "wikilink")<span>と</span>[スマイレージ](https://ja.wikipedia.org/wiki/スマイレージ "wikilink")<span>も。</span>
-50.
+47.
+48. [Sony Music Shop](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=2620&cd=EPXE000005017)
+49.
+50. [Buono\!出演決定！お台場合衆国2010 〜笑うBayには福きたる\!\!〜](http://www.fujitv.co.jp/uso2_cx/20100810.html#venue03) [4](http://www.helloproject.com/news/1007072200_hello.html)[Berryz工房](../Page/Berryz工房.md "wikilink")<span>と</span>[スマイレージ](https://ja.wikipedia.org/wiki/スマイレージ "wikilink")<span>も。</span>
+51.

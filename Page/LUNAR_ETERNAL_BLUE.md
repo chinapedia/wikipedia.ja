@@ -3,7 +3,7 @@
 
 『**LUNAR エターナルブルー**』（ルナ エターナルブルー）は、[1994年](../Page/1994年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に日本の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")から発売された[メガCD](../Page/メガCD.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
 
-同社の『[LUNAR](https://ja.wikipedia.org/wiki/LUNAR "wikilink")シリーズ』（[1992年](../Page/1992年.md "wikilink") - [2005年](../Page/2005年.md "wikilink")）の第2作である。魔法世界ルナを舞台に主人公のヒイロを操作し、少女ルーシアがアルテナ神団に捕らわれる事を阻止するのが目的。メガCD末期に登場した作品であり、発売時には「MEGA-CD最後の超大作」とのキャッチコピーが打たれた。また、日本国内発売版のみシングルCD（おまけドラマ+歌）が同梱されていた。
+同社の『[LUNAR](../Page/LUNAR.md "wikilink")シリーズ』（[1992年](../Page/1992年.md "wikilink") - [2005年](../Page/2005年.md "wikilink")）の第2作である。魔法世界ルナを舞台に主人公のヒイロを操作し、少女ルーシアがアルテナ神団に捕らわれる事を阻止するのが目的。メガCD末期に登場した作品であり、発売時には「MEGA-CD最後の超大作」とのキャッチコピーが打たれた。また、日本国内発売版のみシングルCD（おまけドラマ+歌）が同梱されていた。
 
 後に[リメイク](../Page/リメイク.md "wikilink")作品として[セガサターン](../Page/セガサターン.md "wikilink")版（以下SS版）が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")にCD2枚組発売され、「LUNAR 2」とナンバリングが施された。さらに後に、[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")（以下PS版）が[1999年](../Page/1999年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")にCD3枚組で発売。PS版はSS版にはなかった各種追加要素が存在する。その後、[2015年](../Page/2015年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")には[PSアーカイブスとしてPS版が配信された](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。
 

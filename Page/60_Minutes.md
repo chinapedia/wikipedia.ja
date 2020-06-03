@@ -40,7 +40,7 @@
 
 ### 日本の放送業界への影響
 
-『60 Minutes』は日本の[報道番組](../Page/報道番組.md "wikilink")にも影響を与えており、1974年4月1日に『[ニュースセンター9時](../Page/ニュースセンター9時.md "wikilink")』([NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink"))を[深夜プライム枠にて](../Page/プライムタイム.md "wikilink")[ワイドニュースショーとして開始](../Page/ワイド番組.md "wikilink")。[1980年代](../Page/1980年代.md "wikilink")に入り、[民放](../Page/民間放送.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")が「**報道元年**」と位置付け報道ワイド番組を編成するようになり、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に『[JNN報道特集](https://ja.wikipedia.org/wiki/JNN報道特集 "wikilink")』（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）、『[TV・EYE](https://ja.wikipedia.org/wiki/TV・EYE "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）、が『[BIG NEWS SHOW いま世界は](https://ja.wikipedia.org/wiki/BIG_NEWS_SHOW_いま世界は "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）等がスタートした。この下地は当番組を踏襲したとされている\[2\]。
+『60 Minutes』は日本の[報道番組](../Page/報道番組.md "wikilink")にも影響を与えており、1974年4月1日に『[ニュースセンター9時](../Page/ニュースセンター9時.md "wikilink")』([NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink"))を[深夜プライム枠にて](../Page/プライムタイム.md "wikilink")[ワイドニュースショーとして開始](../Page/ワイド番組.md "wikilink")。[1980年代](../Page/1980年代.md "wikilink")に入り、[民放](../Page/民間放送.md "wikilink")[キー局](../Page/キー局.md "wikilink")が「**報道元年**」と位置付け報道ワイド番組を編成するようになり、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に『[JNN報道特集](https://ja.wikipedia.org/wiki/JNN報道特集 "wikilink")』（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）、『[TV・EYE](https://ja.wikipedia.org/wiki/TV・EYE "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）、が『[BIG NEWS SHOW いま世界は](https://ja.wikipedia.org/wiki/BIG_NEWS_SHOW_いま世界は "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）等がスタートした。この下地は当番組を踏襲したとされている\[2\]。
 
 ## 脚注
 

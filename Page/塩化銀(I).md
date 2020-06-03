@@ -8,36 +8,36 @@
 [銀](https://ja.wikipedia.org/wiki/銀 "wikilink")と[塩素](../Page/塩素.md "wikilink")の直接反応のほか、銀イオンと塩化物イオンの反応によって生成する。この沈殿反応は塩化物イオンあるいは銀イオンの[定性分析](../Page/定性分析.md "wikilink")、あるいは[定量分析](../Page/定量分析.md "wikilink")に利用される。
 
   -
-    <ce>2Ag\\ + Cl2 -\> 2AgCl</ce>
-    <ce>Ag^+(aq)\\ + Cl^-(aq) -\> AgCl</ce>
+    <chem>2Ag\\ + Cl2 -\> 2AgCl</chem>
+    <chem>Ag^+(aq)\\ + Cl^-(aq) -\> AgCl</chem>
 
 ## 性質
 
 水溶液中ではほとんど電離せず弱電解質\[1\]・難溶性であるため、沈殿する。塩化物イオンの銀(I)イオンに対する錯生成定数は 10<sup>3.04</sup> である\[2\]。[溶解度積](../Page/溶解度積.md "wikilink")は以下の通りである\[3\]。
 
   -
-    <ce>AgCl\\ \\rightleftarrows\\ Ag^+(aq)\\ + Cl^-(aq)\\ ,</ce>\(K \rm{sp} = 1.6 \times 10^{-10}\)
+    <chem>AgCl\\ \\rightleftarrows\\ Ag^+(aq)\\ + Cl^-(aq)\\ ,</chem>\(K \rm{sp} = 1.6 \times 10^{-10}\)
 
 [配位子](https://ja.wikipedia.org/wiki/配位子 "wikilink")となるイオンや分子が存在すれば溶解する。[チオ硫酸](../Page/チオ硫酸.md "wikilink")イオン、[シアン化物](../Page/シアン化物.md "wikilink")イオン、[アンモニア](../Page/アンモニア.md "wikilink")によってそれぞれ
 
   -
-    <ce>{AgCl} + 2S2O3^{2-}\\ \\rightleftarrows\\ \[Ag(S2O3)2\]^{3-}\\ + Cl^-</ce>
+    <chem>{AgCl} + 2S2O3^{2-}\\ \\rightleftarrows\\ \[Ag(S2O3)2\]^{3-}\\ + Cl^-</chem>
 
-` `<ce>`{AgCl} + 2CN^-\ \rightleftarrows\  [Ag(CN)2]^-\ + Cl^-`</ce>
+` `<chem>`{AgCl} + 2CN^-\ \rightleftarrows\  [Ag(CN)2]^-\ + Cl^-`</chem>
 
   -
-    <ce>{AgCl} + 2NH3\\ \\rightleftarrows\\ \[Ag(NH3)2\]^+\\ + Cl^-</ce>
+    <chem>{AgCl} + 2NH3\\ \\rightleftarrows\\ \[Ag(NH3)2\]^+\\ + Cl^-</chem>
 
 となって溶解することは広く知られているが、濃[食塩](https://ja.wikipedia.org/wiki/食塩 "wikilink")水や[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")にも[錯イオン](https://ja.wikipedia.org/wiki/錯イオン "wikilink")を作って溶解する。
 
   -
-    <ce>{AgCl} + Cl^-\\ \\rightleftarrows\\ \[AgCl2\]^-</ce>
+    <chem>{AgCl} + Cl^-\\ \\rightleftarrows\\ \[AgCl2\]^-</chem>
 
 また、濃厚な[硝酸銀(I)](../Page/硝酸銀\(I\).md "wikilink")あるいは[過塩素酸銀(I)](https://ja.wikipedia.org/wiki/過塩素酸銀\(I\) "wikilink")などの銀塩水溶液に対しても幾分溶解度が増大し、以下のような錯イオンを生成することが知られている\[4\]。
 
   -
-    <ce>{AgCl} + Ag^+\\ \\rightleftarrows\\ \[Ag2Cl\]^+</ce>
-    <ce>{\[Ag2Cl\]^+} + Ag^+\\ \\rightleftarrows\\ \[Ag3Cl\]^{2+}</ce>
+    <chem>{AgCl} + Ag^+\\ \\rightleftarrows\\ \[Ag2Cl\]^+</chem>
+    <chem>{\[Ag2Cl\]^+} + Ag^+\\ \\rightleftarrows\\ \[Ag3Cl\]^{2+}</chem>
 
 感光性があり光によって容易に分解し、紫色を経て黒変する。
 

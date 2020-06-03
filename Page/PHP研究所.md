@@ -92,13 +92,13 @@
   - [電子書籍](http://www.php.co.jp/digital/ebook/)
   - [モバイルアプリ](http://www.php.co.jp/digital/appli/)
 
+## 脚注
+
 ## 関連項目
 
   - [松下幸之助商学院](../Page/松下幸之助商学院.md "wikilink")
   - [自己啓発セミナー](../Page/自己啓発セミナー.md "wikilink")
   - [コーチング](../Page/コーチング.md "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

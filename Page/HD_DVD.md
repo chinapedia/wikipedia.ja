@@ -11,7 +11,7 @@ HD DVDはDVD規格をベースにして[ハイビジョン](../Page/ハイビジ
 
 HD DVDはほぼ同時期に規格が策定されたBDと[第3世代光ディスク](../Page/第3世代光ディスク.md "wikilink")規格の地位を争っていたが、市場（消費者と、その動向を受けた映画配給会社）はBDを選択。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")、HD DVD陣営の中心であった東芝が全面的な撤退を発表し規格争いは終結した。
 
-なお[2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には、HD DVDのコンテンツや商品開発の促進や普及を目的とした「[HD DVDプロモーショングループ](https://ja.wikipedia.org/wiki/HD_DVDプロモーショングループ "wikilink")」が[メモリーテック](../Page/メモリーテック.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")、東芝の4社が中心に設立された。だが2008年2月の東芝のHD DVD終息表明を受け関連各社もHD DVD事業の撤退方針を打ち出しており、同グループも約3年以上にわたる規格争いの歴史に終止符を打つこととなり[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")に公式に解散した。
+なお[2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")には、HD DVDのコンテンツや商品開発の促進や普及を目的とした「[HD DVDプロモーショングループ](https://ja.wikipedia.org/wiki/HD_DVDプロモーショングループ "wikilink")」が[メモリーテック](../Page/メモリーテック.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")、東芝の4社が中心に設立された。だが2008年2月の東芝のHD DVD終息表明を受け関連各社もHD DVD事業の撤退方針を打ち出しており、同グループも約3年以上に規格争いの歴史に終止符を打つこととなり[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")に公式に解散した。
 
 HD DVDは製品として展開されることはなくなったものの、物理規格や再生機器設計などの技術の一部が[CBHD](https://ja.wikipedia.org/wiki/CBHD "wikilink")に流用されている。
 

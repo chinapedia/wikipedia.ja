@@ -48,8 +48,8 @@
   - ミリオン・カード (Million Card) - 現[UFJカード](../Page/UFJカード.md "wikilink")
   - [マイクロチップ](https://ja.wikipedia.org/wiki/マイクロチップ "wikilink") (micro chip)
   - [三菱商事](../Page/三菱商事.md "wikilink") (Mitsubishi Corporation)
-  - [丸紅](../Page/丸紅.md "wikilink") (Marubeni Corporation)
       - [キリンMCダノンウォーターズ](../Page/キリンMCダノンウォーターズ.md "wikilink")（キリンエムシーダノンウォーターズ） - [キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")・[ダノン](../Page/ダノン.md "wikilink")・三菱商事の共同出資で設立した日仏合弁のミネラルウォーター「[ボルヴィック](../Page/ボルヴィック.md "wikilink")」輸入専門販社。
+  - [丸紅](../Page/丸紅.md "wikilink") (Marubeni Corporation)
   - [三井化学](../Page/三井化学.md "wikilink") (Mitsui Chemical)
   - [三菱ケミカルホールディングス](../Page/三菱ケミカルホールディングス.md "wikilink") (Mitsubishi Chemical Holdings)
       - [三菱化学](../Page/三菱化学.md "wikilink") (Mitsubishi Chemical)

@@ -1,7 +1,7 @@
 > この記事は[聖伝-RG VEDA-](https://ja.wikipedia.org/wiki/聖伝-RG_VEDA-)から翻訳されています。
 
 
-『**聖伝-RG VEDA-**』（せいでん-リグ・ヴェーダ-）は[CLAMP](../Page/CLAMP.md "wikilink")による漫画作品。
+『**聖伝-RG VEDA-**』（せいでん リグ・ヴェーダ）は[CLAMP](../Page/CLAMP.md "wikilink")による漫画作品。
 
 ## 概要
 
@@ -142,9 +142,6 @@
     8.  1994年06月15日 ISBN 4-403-61350-0
     9.  1995年06月29日 ISBN 4-403-61387-X
     10. 1996年04月25日 ISBN 4-403-61416-7
-
-<!-- end list -->
-
   - 新書館 ウィングス・コミック文庫
     1.  2003年11月25日 ISBN 4-403-50033-1
     2.  2003年11月25日 ISBN 4-403-50034-X
@@ -153,34 +150,17 @@
     5.  2003年12月18日 ISBN 4-403-50037-4
     6.  2004年01月23日 ISBN 4-403-50038-2
     7.  2004年01月23日 ISBN 4-403-50039-0
-
-<!-- end list -->
-
-  -
-
-      -
-        聖伝 Collector’s Edition Box 2003年09月24日 ISBN 4-403-51001-9
-
-<!-- end list -->
-
+    <!-- end list -->
+      - 聖伝 Collector’s Edition Box 2003年09月24日 ISBN 4-403-51001-9
   - [角川書店](../Page/角川書店.md "wikilink") 愛蔵版
     1.  2011年12月03日 ISBN 978-4-04-120001-8-C0979
     2.  2012年02月04日 ISBN 978-4-04-120081-0-C0979
     3.  2012年05月02日 ISBN 978-4-04-120199-2-C0979
     4.  2012年07月04日 ISBN 978-4-04-120234-0-C0979
     5.  2012年11月05日 ISBN 978-4-04-120435-1-C0979
-
-<!-- end list -->
-
   - イラスト集
-
-<!-- end list -->
-
-  -
-
-      -
-        非天夢魔 1991年06月 ISBN 978-4403612602 新書館
-        天魔劫火 2001年04月26日 ISBN 4-403-65014-7 新書館
+      - 非天夢魔 1991年06月 ISBN 978-4403612602 新書館
+      - 天魔劫火 2001年04月26日 ISBN 4-403-65014-7 新書館
 
 ## OVA
 
@@ -211,10 +191,8 @@
 
 ## 関連項目
 
-  - 『[ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")』
-      - CLAMPの歴代作品のキャラクターが登場する作品で、本作からは阿修羅、蘇摩、龍王、阿修羅王、夜叉王、倶摩羅天、乾闥婆王などが登場している。「[ツバサ-RESERVoir CHRoNiCLE-の登場人物\#紗羅ノ国（しゃらのくに）](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-の登場人物#紗羅ノ国（しゃらのくに） "wikilink")」も参照。
-  - 『[天空戦記シュラト](../Page/天空戦記シュラト.md "wikilink")』
-      - [1989年](../Page/1989年.md "wikilink")に放送された、インド神話をモチーフに、[八部衆](../Page/八部衆.md "wikilink")をメインキャラクターにした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。CLAMPは同作品の[サウンドトラック](../Page/サウンドトラック.md "wikilink")のイラストを一部担当し、同人誌も作成している。
+  - [ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink") - CLAMPの歴代作品のキャラクターが登場する作品で、本作からは阿修羅、蘇摩、龍王、阿修羅王、夜叉王、倶摩羅天、乾闥婆王などが登場している。「[ツバサ-RESERVoir CHRoNiCLE-の登場人物\#紗羅ノ国（しゃらのくに）](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-の登場人物#紗羅ノ国（しゃらのくに） "wikilink")」も参照。
+  - [天空戦記シュラト](../Page/天空戦記シュラト.md "wikilink") - [1989年](../Page/1989年.md "wikilink")に放送された、インド神話をモチーフに、[八部衆](../Page/八部衆.md "wikilink")をメインキャラクターにした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。CLAMPは同作品の[サウンドトラック](../Page/サウンドトラック.md "wikilink")のイラストを一部担当し、同人誌も作成している。
 
 ## 外部リンク
 

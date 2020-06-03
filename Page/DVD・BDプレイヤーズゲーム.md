@@ -101,7 +101,7 @@ DVDPGの延長線として、[PSP用に](../Page/PlayStation_Portable.md "wikili
   - [フォレスト](../Page/フォレスト_\(ゲーム会社\).md "wikilink")
   - [イエローピッグ](../Page/エルフ_\(ブランド\).md "wikilink")
   - [Guilty・LUCHA！・rouge・ruf](../Page/ウィルプラス.md "wikilink")
-  - [ディーオー・ZyX・シーディーブロス](https://ja.wikipedia.org/wiki/雄図グループ "wikilink")
+  - [ディーオー・ZyX・シーディーブロス](../Page/雄図グループ.md "wikilink")
   - [アクティブ](../Page/Active_\(アダルトゲームブランド\).md "wikilink")
   - [West Vision](../Page/West_Vision.md "wikilink")
   - 有限会社エイアイアール（レイチェル・GAIA・Tablet・DEVIL'S WORKS）

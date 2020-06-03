@@ -40,18 +40,18 @@
 </tbody>
 </table>
 
-## 略歴
+## 来歴
 
-### 1978年 - 1979年（デビュー前）
+### デビュー前
 
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")
       - 高校時代からの友人だった2人が[第一経済大学在学中](https://ja.wikipedia.org/wiki/日本経済大学 "wikilink")、別々に出場していた[ヤマハ](../Page/ヤマハ音楽振興会.md "wikilink")『第15回[ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")（通称：ポプコン）』福岡大会でチャゲがグランプリを獲り九州大会へ進む際に、ヤマハの九州地区担当ディレクター・秋吉恵介の勧めにより初めてデュオが組まれた\[4\]\[5\]。その後、7人編成のバンド**チャゲと飛鳥**として活動を始め、『第16回ポプコン\[6\]』の直前に**チャゲ&飛鳥**となり、「[流恋情歌](https://ja.wikipedia.org/wiki/流恋情歌 "wikilink")」で念願の『つま恋本選会』に出場し入賞する。
   - [1979年](../Page/1979年.md "wikilink")
       - 『第17回ポプコン\[7\]』には「ひとり咲き」で再び『つま恋本選会』に出場するが、またしてもグランプリ獲得にはならず入賞となる。しかしデビューの話は進行していき、7人編成のバンドとしてではなくチャゲと飛鳥のみでデビューという方向で話が進んでいった\[8\]。2人は何度か断るも悩んだ末に残された5人の了承も得て承諾するが、それと同時に7人編成での最後のステージをポプコンで行いたいことを要求する。そして、『第18回ポプコン』九州大会のゲスト出演という形で7人編成最後のステージを行った。このライブでは、それまで未完成だった楽曲「歌いつづける」をバンドを去る5人への餞の曲として完成させ披露した。残された5人の中には、後にお笑い芸人になった[西田和昭](../Page/西田和昭.md "wikilink")がいた。
 
-### 1979年（デビュー後） - 1985年
+### デビュー後
 
-  - [1979年](../Page/1979年.md "wikilink")
+  - 1979年
       - 8月25日、ワーナー・パイオニア（現：[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）よりシングル「[ひとり咲き](https://ja.wikipedia.org/wiki/ひとり咲き "wikilink")」でデビュー。デビュー時の[キャッチコピー](../Page/キャッチコピー.md "wikilink")は、“**九州から大型台風上陸\!熱い喉が衝き叫ぶ\!**”。
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")
       - シングル「[万里の河](https://ja.wikipedia.org/wiki/万里の河 "wikilink")」をリリース。秋には『[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")』を行う。なお、「万里の河」は年末からチャート上位になり、初のヒットシングルとなる。
@@ -64,7 +64,7 @@
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
       - シングル「[誘惑のベルが鳴る](https://ja.wikipedia.org/wiki/誘惑のベルが鳴る "wikilink")」・「[オンリー・ロンリー](https://ja.wikipedia.org/wiki/オンリー・ロンリー "wikilink")」を2枚同時に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")してから、所属レコード会社のワーナー・パイオニアを去る。レコード会社未定の中、コンサートツアー『SHAKIN' NIGHT』、福岡・大阪で『THE 夏祭り'85』を開催する。10月に[レコード会社をキャニオン](../Page/レコードレーベル.md "wikilink")・レコード（現：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）に移籍。[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Standing Ovation](https://ja.wikipedia.org/wiki/Standing_Ovation_\(チャゲ&飛鳥のアルバム\) "wikilink")』をリリースする。
 
-### 1986年 - 1998年
+### レコード会社の移籍、「SAY YES」のヒット
 
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
       - キャニオン・レコード移籍後初のシングル「[モーニングムーン](../Page/モーニングムーン.md "wikilink")」がスマッシュヒット。この年はシングル4枚、アルバム2枚、[アナログ盤限定で](../Page/レコード.md "wikilink")[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")1枚を発表。コンサートも夏に[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")で開催する等、1年を通して精力的な活動を行う。
@@ -93,7 +93,7 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
       - CHAGEもソロでの音楽活動を開始。初のソロコンサートを[上海体育館](../Page/上海体育館.md "wikilink")で行い、ASKAがスクリーン映像で出演した。その後の日本武道館公演にはASKAが生出演。また、CHAGEもASKAのソロコンサート最終日の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演に生出演。ともに「終章（エピローグ）」を披露した。
 
-### 1999年 - 2009年
+### デビュー20周年を迎え再始動
 
   - [1999年](../Page/1999年.md "wikilink")
       - デビュー20周年。3月、[東芝EMI移籍後初となる](../Page/EMIミュージック・ジャパン.md "wikilink")[両A面](https://ja.wikipedia.org/wiki/両A面 "wikilink")シングル「[この愛のために/VISION](https://ja.wikipedia.org/wiki/この愛のために/VISION "wikilink")」でCHAGE\&ASKA始動。5月、MTV番組収録のためのアコースティックライブを[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で行う。8月25日のデビュー日にリリースしたCHAGE\&ASKA初のセルフプロデュース・アルバム『[NO DOUBT](https://ja.wikipedia.org/wiki/NO_DOUBT "wikilink")』はオリコンアルバムチャート初登場1位を獲得。9月からコンサートツアー『CONCERT TOUR 電光石火』を開催。11月には『ASIAN TOUR NO DOUBT』として[北京](../Page/北京市.md "wikilink")・[上海公演を行う](../Page/上海市.md "wikilink")。12月には初のコンプリートベスト・アルバム『[CHAGE\&ASKA VERY BEST ROLL OVER 20TH](https://ja.wikipedia.org/wiki/CHAGE&ASKA_VERY_BEST_ROLL_OVER_20TH "wikilink")』をリリース。大晦日には故郷[福岡で初のドーム公演にして初のカウントダウン](../Page/福岡県.md "wikilink")・ライブ『千年夜一夜ライブ 〜福岡ドーム 僕らがホーム〜』を開催。ファンとともに[ミレニアム](../Page/ミレニアム.md "wikilink")イヤーを迎えた。また、このライブの模様は[ディレクTV](../Page/ディレクTV.md "wikilink")を通じて全世界に衛星生中継された。
@@ -116,7 +116,7 @@
   - [2009年](../Page/2009年.md "wikilink")
       - デビュー30周年。1月30日、ソロ活動を充実させるべく、CHAGE and ASKAとしての活動を無期限休止にすることを正式発表した\[22\]。
 
-### 無期限活動休止以降
+### 無期限活動休止以降、ASKAの逮捕
 
   - [2013年](../Page/2013年.md "wikilink")
       - 1月25日、公式サイトにて活動再開することを一旦発表\[23\]、当初同年8月末に国立代々木第一体育館において、復活スペシャルライブを開催する予定を組んでいた。だが同年6月11日、公式サイトでASKAに一過性脳虚血症の疑いがあり、静養が必要と診断されたため、スペシャルライブを延期\[24\]。しかし同年12月12日、会報誌で開催の目処が全く立たない状況のため、復活ライブを完全中止する事を発表した。
@@ -136,59 +136,65 @@
       - 3月1日、映像作品『千年夜一夜ライブ 〜福岡ドーム 僕らがホーム〜』『ASIAN TOUR IN TAIPEI』『MTV UNPLUGGED LIVE』『CHAGE and ASKA LIVE DVD BOX 1』『CHAGE and ASKA LIVE DVD BOX 2』『CHAGE and ASKA LIVE DVD BOX 3』の販売が再開された\[37\]。
       - 4月28日、[ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")から再発売された『[風舞](https://ja.wikipedia.org/wiki/風舞 "wikilink")』から『[NO DOUBT](https://ja.wikipedia.org/wiki/NO_DOUBT "wikilink")』までのアルバムが販売再開\[38\]。
       - 11月5日、薬物事件による執行猶予期間が9月に明けたASKAが本格的に音楽活動を再開し、ソロコンサートツアーの初日公演を行う\[39\]。同日、2001年以降に発売された[ユニバーサルミュージック発売元の作品が販売再開](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[40\]。
+
+### デビュー40周年迎えて、ASKAの脱退
+
   - [2019年](../Page/2019年.md "wikilink")
       - 8月25日、デビュー40周年を迎えるこの日に『CHAGE and ASKA LIVE DVD BOX 4』『CHAGE\&ASKA LIVE IN KOREA 韓日親善コンサート Aug.2000』を発売。『DVD BOX 4』は期間限定発売の完全受注生産であり、「CHAGE and ASKA ASIAN TOUR 1994 LIVE IN HONG KONG」「CHAGE & ASKA CONCERT TOUR 電光石火 ～TUG OF C\&A PRESENTS PREVIEW in 幕張メッセ～Aug.1999」「CHAGE & ASKA LIVE IN KOREA 韓日親善コンサート Aug.2000」が収録される\[41\]。
       - 同日、ASKAが脱退を発表\[42\]\[43\]。
+  - [2020年](../Page/2020年.md "wikilink")
+      - 5月13日、1989年から1994年にかけてVHSビデオで発売され、廃盤だった『WALK』『SEE YA』『TREE』『Go to Eleven～GUYS〜』『RED HILL』『On Your Mark』をDVDで発売すると発表\[44\]。
+      - 5月27日、VHSで発売された過去の映像作品『WALK』『SEE YA』がDVDで発売\[45\]。
 
 ## 不仲説・解散騒動
 
-CHAGE and ASKAの2人には人気、収入の格差などで不仲説が度々流れることがあるが、2人は高校からの付き合いでもあり、テレビ出演時に[喧嘩](../Page/喧嘩.md "wikilink")は一度もないとChageもASKAもお互い不仲説を否定している\[44\]\[45\]。
+CHAGE and ASKAの2人には人気、収入の格差などで不仲説が度々流れることがあるが、2人は高校からの付き合いでもあり、テレビ出演時に[喧嘩](../Page/喧嘩.md "wikilink")は一度もないとChageもASKAもお互い不仲説を否定している\[46\]\[47\]。
 
-1996年にチャゲアスの活動休止を発表し、翌年の1997年からお互いソロ活動が発表された際も、解散説がメディアによって流れた\[46\]。2009年の時の無期限活動休止の際は、2人の不仲説や音楽性の違いで解散するとメディアで流れた。実際もChageとASKAで話し合い「中途半端で活動するなら解散しよう」と話しあっていた。しかし、2人は色々と話を詰める内に「解散はやめよう」と決め活動休止を選んでいる。ASKAも「50歳になると色々考える時期で、1人で作るとしたらどれくらいやれるのか今は興味があるけど、気持ちが乗ってきたら、チャゲアスをやろうという気持ちもある」と話している\[47\]\[48\]。
+1996年にチャゲアスの活動休止を発表し、翌年の1997年からお互いソロ活動が発表された際も、解散説がメディアによって流れた\[48\]。2009年の時の無期限活動休止の際は、2人の不仲説や音楽性の違いで解散するとメディアで流れた。実際もChageとASKAで話し合い「中途半端で活動するなら解散しよう」と話しあっていた。しかし、2人は色々と話を詰める内に「解散はやめよう」と決め活動休止を選んでいる。ASKAも「50歳になると色々考える時期で、1人で作るとしたらどれくらいやれるのか今は興味があるけど、気持ちが乗ってきたら、チャゲアスをやろうという気持ちもある」と話している\[49\]\[50\]。
 
-2014年のASKAの薬物逮捕により、チャゲアスの解散が報道された。しかし、活動休止を継続していたが、[2017年](../Page/2017年.md "wikilink")にASKAが[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")』に出演した際に「今、チャゲアスの復活はない。いずれは復活したい。」と述べた\[49\]。
+2014年のASKAの薬物逮捕により、チャゲアスの解散が報道された。しかし、活動休止を継続していたが、[2017年](../Page/2017年.md "wikilink")にASKAが[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")』に出演した際に「今、チャゲアスの復活はない。いずれは復活したい。」と述べた\[51\]。
 
 ## 楽曲製作・活動
 
 ### バンドの由来
 
-アマチュアで活動していた時は“チャゲと飛鳥”で活動を行なっていたが、ポプコンに出場した際にその司会者を担当していた[大石吾朗](../Page/大石吾朗.md "wikilink")に本番で“チャゲ&飛鳥”と言ってくれた際に2人は「&（アンド）」の方が良いと思ったと言う\[50\]。
+アマチュアで活動していた時は“チャゲと飛鳥”で活動を行なっていたが、ポプコンに出場した際にその司会者を担当していた[大石吾朗](../Page/大石吾朗.md "wikilink")に本番で“チャゲ&飛鳥”と言ってくれた際に2人は「&（アンド）」の方が良いと思ったと言う\[52\]。
 
 ### コンサートの二人の距離
 
-コンサート等でステージに立つ際の2人の距離（正確には2人の使用するマイクスタンドの間隔）は**基本的に「210cm」**と決まっており、2004年のコンサートツアーの際に発行されたオフィシャルブック『two-five』の中でも取り上げられている。理由について、『two-five』では「手を伸ばしても相手にぶつかることなく、三歩足を踏み出せばそれぞれの肩に触れることができる」「お互いがお互いを引き立て合い、時に大きく、時にCHAGE and ASKAとしてのまとまりを見せてくれる」と述べられている。また、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』では実際にライブ映像などを元に画像解析を行ってこれを検証したことがあり、その際にも検証に使用されたほぼ全ての映像で2人の距離が210cmであることが確認されている\[51\]。
+コンサート等でステージに立つ際の2人の距離（正確には2人の使用するマイクスタンドの間隔）は**基本的に「210cm」**と決まっており、2004年のコンサートツアーの際に発行されたオフィシャルブック『two-five』の中でも取り上げられている。理由について、『two-five』では「手を伸ばしても相手にぶつかることなく、三歩足を踏み出せばそれぞれの肩に触れることができる」「お互いがお互いを引き立て合い、時に大きく、時にCHAGE and ASKAとしてのまとまりを見せてくれる」と述べられている。また、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』では実際にライブ映像などを元に画像解析を行ってこれを検証したことがあり、その際にも検証に使用されたほぼ全ての映像で2人の距離が210cmであることが確認されている\[53\]。
 
 ### 音楽性
 
-Chage、ASKA各々の自作曲をレパートリーとし、大半のシングル曲の作詞作曲はASKAが担当している。メインボーカルは原則的に作曲者が担当するが、Chageが作曲、ASKAが作詞を手がけた楽曲や、初期の一部のChage曲ではASKAがメインボーカルを務めている。デビュー当時は[ギター](../Page/ギター.md "wikilink")での楽曲作りをしており、"演歌フォーク""大陸的なサウンド"などと評されていた。しかし、デビュー5年目となる1984年頃から、[キーボードや](../Page/キーボード_\(楽器\).md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")などを使った楽曲作りと変わり、ポップスやロック色が強まっていった。1990年に発売されたアルバム『[SEE YA](../Page/SEE_YA.md "wikilink")』は、[ロンドン](../Page/ロンドン.md "wikilink")で制作され、そして1991年に大ヒットとなる「SAY YES」が発売された。このヒットにより、チャゲアスは「**[シンセサイザー](../Page/シンセサイザー.md "wikilink")を使ったロマンチックな[バラード](../Page/バラード.md "wikilink")を歌うラブソングの旗手**」というイメージが定着した\[52\]。なお、コンピュータでの打ち込みは[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が率いる[TM NETWORKが最初とされているが](../Page/TM_NETWORK.md "wikilink")、実際はチャゲアスの方が先にコンピュータでの打ち込みを始めている\[53\]。
+Chage、ASKA各々の自作曲をレパートリーとし、大半のシングル曲の作詞作曲はASKAが担当している。メインボーカルは原則的に作曲者が担当するが、Chageが作曲、ASKAが作詞を手がけた楽曲や、初期の一部のChage曲ではASKAがメインボーカルを務めている。デビュー当時は[ギター](../Page/ギター.md "wikilink")での楽曲作りをしており、"演歌フォーク""大陸的なサウンド"などと評されていた。しかし、デビュー5年目となる1984年頃から、[キーボードや](../Page/キーボード_\(楽器\).md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")などを使った楽曲作りと変わり、ポップスやロック色が強まっていった。1990年に発売されたアルバム『[SEE YA](../Page/SEE_YA.md "wikilink")』は、[ロンドン](../Page/ロンドン.md "wikilink")で制作され、そして1991年に大ヒットとなる「SAY YES」が発売された。このヒットにより、チャゲアスは「**[シンセサイザー](../Page/シンセサイザー.md "wikilink")を使ったロマンチックな[バラード](../Page/バラード.md "wikilink")を歌うラブソングの旗手**」というイメージが定着した\[54\]。なお、コンピュータでの打ち込みは[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が率いる[TM NETWORKが最初とされているが](../Page/TM_NETWORK.md "wikilink")、実際はチャゲアスの方が先にコンピュータでの打ち込みを始めている\[55\]。
 
-作品に関して、大衆から売上枚数が注目されたりすることがあるが、「SAY YES」「[Something There](https://ja.wikipedia.org/wiki/Something_There "wikilink")」の発売時に2人は「楽曲を作った時のテンションが注がれている状態で発売することが自分達のやり方」「売上枚数の数字ばかりが注目されるが、それらに対して意味はない」とコメントしている\[54\]\[55\]。
+作品に関して、大衆から売上枚数が注目されたりすることがあるが、「SAY YES」「[Something There](https://ja.wikipedia.org/wiki/Something_There "wikilink")」の発売時に2人は「楽曲を作った時のテンションが注がれている状態で発売することが自分達のやり方」「売上枚数の数字ばかりが注目されるが、それらに対して意味はない」とコメントしている\[56\]\[57\]。
 
 ### 初めての記録
 
-1991年にシングル「SAY YES」が250万枚以上の売上を記録し、[1980年代](../Page/1980年代.md "wikilink")のレコード市場には予測できなかった記録を作り、1992年に第6回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")を受賞した際シングル390万枚を売り上げての受賞をし、1990年に記録した[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の60.4万枚の記録を大きく更新した。翌年の1993年の第7回も受賞しており、アルバム売上が409万枚となり、[1990年代](../Page/1990年代.md "wikilink")の[CDと](../Page/コンパクトディスク.md "wikilink")[MDの普及の基となった](../Page/ミニディスク.md "wikilink")\[56\]。また、自身のライブ「CHAGE\&ASKA CONCERT MOVIE GUYS」を1992年末に上映した。今では、ライブを映画化することは多々あることだが、当時ライブを映画化にするのは失敗すると言われてた時代に大ヒットさせ、この常識を覆した\[57\]。
+1991年にシングル「SAY YES」が250万枚以上の売上を記録し、[1980年代](../Page/1980年代.md "wikilink")のレコード市場には予測できなかった記録を作り、1992年に第6回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")を受賞した際シングル390万枚を売り上げての受賞をし、1990年に記録した[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の60.4万枚の記録を大きく更新した。翌年の1993年の第7回も受賞しており、アルバム売上が409万枚となり、[1990年代](../Page/1990年代.md "wikilink")の[CDと](../Page/コンパクトディスク.md "wikilink")[MDの普及の基となった](../Page/ミニディスク.md "wikilink")\[58\]。また、自身のライブ「CHAGE\&ASKA CONCERT MOVIE GUYS」を1992年末に上映した。今では、ライブを映画化することは多々あることだが、当時ライブを映画化にするのは失敗すると言われてた時代に大ヒットさせ、この常識を覆した\[59\]。
 
-また、ライブの映画化と同様にミュージシャンの[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")集も日本ではチャゲアスが最初とだと言われてる\[58\]。他には[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink")で初となるコンサート開催を行なったり、日本人初として[1996年](../Page/1996年.md "wikilink")には[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")出演\[59\]、[2000年](../Page/2000年.md "wikilink")には韓国大規模ライブを行なっている。
+また、ライブの映画化と同様にミュージシャンの[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")集も日本ではチャゲアスが最初とだと言われてる\[60\]。他には[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[国立代々木競技場第一体育館](https://ja.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink")で初となるコンサート開催を行なったり、日本人初として[1996年](../Page/1996年.md "wikilink")には[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")出演\[61\]、[2000年](../Page/2000年.md "wikilink")には韓国大規模ライブを行なっている。
 
 ### プロモーション活動
 
-デビュー当時からASKAは[音楽番組](../Page/音楽番組.md "wikilink")での披露の際は、テレビサイズ（番組の放送時間に合わせて、楽曲を短く演奏すること）に抵抗があり、フルサイズでの披露を強く希望していたという。また、「テレビサイズを受け入れなかったから、自分たちの輪郭を世の中に見てもらえるようになった」と語っているが、「SAY YES」の頃からはテレビサイズも受け入れ始めたとしている\[60\]。
+デビュー当時からASKAは[音楽番組](../Page/音楽番組.md "wikilink")での披露の際は、テレビサイズ（番組の放送時間に合わせて、楽曲を短く演奏すること）に抵抗があり、フルサイズでの披露を強く希望していたという。また、「テレビサイズを受け入れなかったから、自分たちの輪郭を世の中に見てもらえるようになった」と語っているが、「SAY YES」の頃からはテレビサイズも受け入れ始めたとしている\[62\]。
 
 ### ファン層
 
-ファンクラブのファンは8割以上が女性であり、年齢別だと「SAY YES」「YAH YAH YAH」が発売された時期の10〜20代からの支持が最も多い\[61\]。
+ファンクラブのファンは8割以上が女性であり、年齢別だと「SAY YES」「YAH YAH YAH」が発売された時期の10〜20代からの支持が最も多い\[63\]。
 
 ## 批評・影響
 
-ミュージシャンやシンガーソングライターでも、[堂本剛](../Page/堂本剛.md "wikilink")（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）、[藤巻亮太](../Page/藤巻亮太.md "wikilink")（[レミオロメン](../Page/レミオロメン.md "wikilink")）、[星野源](../Page/星野源.md "wikilink")、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[鬼龍院翔](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\)#鬼龍院_翔 "wikilink")（[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")）、[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")（[氣志團](../Page/氣志團.md "wikilink")）、[中田裕二](https://ja.wikipedia.org/wiki/中田裕二 "wikilink")、[澤野弘之](../Page/澤野弘之.md "wikilink")などがチャゲアスやソロの楽曲に影響を受けている\[62\]\[63\]\[64\]\[65\]。
+ミュージシャンやシンガーソングライターでも、[堂本剛](../Page/堂本剛.md "wikilink")（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）、[藤巻亮太](../Page/藤巻亮太.md "wikilink")（[レミオロメン](../Page/レミオロメン.md "wikilink")）、[星野源](../Page/星野源.md "wikilink")、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[鬼龍院翔](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\)#鬼龍院_翔 "wikilink")（[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")）、[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")（[氣志團](../Page/氣志團.md "wikilink")）、[中田裕二](https://ja.wikipedia.org/wiki/中田裕二 "wikilink")、[澤野弘之](../Page/澤野弘之.md "wikilink")などがチャゲアスやソロの楽曲に影響を受けている\[64\]\[65\]\[66\]\[67\]。
 
-ミュージシャン以外に[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")、[万城目学](https://ja.wikipedia.org/wiki/万城目学 "wikilink")、[村田修一](../Page/村田修一.md "wikilink")、[和久井映見](../Page/和久井映見.md "wikilink")、[中野浩一](../Page/中野浩一.md "wikilink")、[吉田秀彦](../Page/吉田秀彦.md "wikilink")、[中島史恵](../Page/中島史恵.md "wikilink")、[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")、[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")、[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")、[松陰寺太勇](https://ja.wikipedia.org/wiki/松陰寺太勇 "wikilink")（[ぺこぱ](https://ja.wikipedia.org/wiki/ぺこぱ "wikilink")）など、多岐に活躍する人達がファンを公言している\[66\]\[67\]\[68\]。
+ミュージシャン以外に[天海祐希](https://ja.wikipedia.org/wiki/天海祐希 "wikilink")、[万城目学](https://ja.wikipedia.org/wiki/万城目学 "wikilink")、[村田修一](../Page/村田修一.md "wikilink")、[和久井映見](../Page/和久井映見.md "wikilink")、[中野浩一](../Page/中野浩一.md "wikilink")、[吉田秀彦](../Page/吉田秀彦.md "wikilink")、[中島史恵](../Page/中島史恵.md "wikilink")、[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")、[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")、[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")、[松陰寺太勇](https://ja.wikipedia.org/wiki/松陰寺太勇 "wikilink")（[ぺこぱ](https://ja.wikipedia.org/wiki/ぺこぱ "wikilink")）など、多岐に活躍する人達がファンを公言している\[68\]\[69\]\[70\]。
 
-その中でもケンドーコバヤシはASKAの薬物事件をきっかけに楽曲を聞くようになり、チャゲアスに関して「素晴らしいアーティストだ」と述べている\[69\]。
+その中でもケンドーコバヤシはASKAの薬物事件をきっかけに楽曲を聞くようになり、チャゲアスに関して「素晴らしいアーティストだ」と述べている\[71\]。
 
-1990年代にテレビ等でChageとASKAのモノマネをする人が多く現れ、その中でも[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")が自身の番組『[ウッチャンナンチャンのやるならやらねば\!](../Page/ウッチャンナンチャンのやるならやらねば!.md "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の企画「CHAKE\&YASKA 栄光の軌跡」で、チャゲアスのモノマネを行い、チャゲアス本人達にも公認とされた\[70\]\[71\]。
+1990年代にテレビ等でChageとASKAのモノマネをする人が多く現れ、その中でも[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")が自身の番組『[ウッチャンナンチャンのやるならやらねば\!](../Page/ウッチャンナンチャンのやるならやらねば!.md "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の企画「CHAKE\&YASKA 栄光の軌跡」で、チャゲアスのモノマネを行い、チャゲアス本人達にも公認とされた\[72\]\[73\]。
 
-[2018年](../Page/2018年.md "wikilink")8月に女性[SPA\!](../Page/SPA!.md "wikilink")が調査した復活してほしい音楽グループランキングにて19位にランクインしている\[72\]。
+[2018年](../Page/2018年.md "wikilink")8月に女性[SPA\!](../Page/SPA!.md "wikilink")が調査した復活してほしい音楽グループランキングにて19位にランクインしている\[74\]。
 
 ## 受賞歴
 
@@ -314,177 +320,27 @@ Best-selling Artist/Asia</p></td>
 
 ※この記録は全て[オリコン](../Page/オリコン.md "wikilink")によるものである。
 
-  - シングル・アルバム総売上：3141万枚（歴代13位・2016年12月現在）\[73\]
+  - シングル・アルバム総売上：3141万枚（歴代13位・2016年12月現在）\[75\]
 
 ### シングル記録
 
-  - シングル売り上げランキング（2009年現在）\[74\]
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>曲名</p></th>
-<th><p>発売日</p></th>
-<th><p>売上枚数</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p><a href="../Page/SAY_YES.md" title="wikilink">SAY YES</a></p></td>
-<td></td>
-<td><p>282.2万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人" title="wikilink">YAH YAH YAH/夢の番人</a></p></td>
-<td></td>
-<td><p>241.9万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p><a href="../Page/めぐり逢い_(CHAGE_and_ASKAの曲).md" title="wikilink">めぐり逢い</a></p></td>
-<td></td>
-<td><p>125.2万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HEART/NATURAL/On_Your_Mark" title="wikilink">HEART/NATURAL/On Your Mark</a></p></td>
-<td></td>
-<td><p>114.3万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/if_(CHAGE_and_ASKAの曲)" title="wikilink">if</a></p></td>
-<td></td>
-<td><p>108.3万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p><a href="../Page/僕はこの瞳で嘘をつく.md" title="wikilink">僕はこの瞳で嘘をつく</a></p></td>
-<td></td>
-<td><p>81.1万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Sons_and_Daughters_〜それより僕が伝えたいのは" title="wikilink">Sons and Daughters {{small</a></p></td>
-<td></td>
-<td><p>79.9万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/no_no_darlin&#39;" title="wikilink">no no darlin'</a></p></td>
-<td></td>
-<td><p>67.7万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Something_There" title="wikilink">Something There</a></p></td>
-<td></td>
-<td><p>56.9万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/万里の河" title="wikilink">万里の河</a></p></td>
-<td></td>
-<td><p>53.7万枚</p></td>
-</tr>
-</tbody>
-</table>
-
   - シングル総売上枚数：1649.2万枚（2019年9月現在）
-  - シングルミリオン獲得数：5作品（ミリオン3作品 / ダブルミリオン2作品）（歴代5位タイ）\[75\]\[76\]
-  - 連続ミリオン獲得年数：4年（歴代3位タイ、2020年1月現在）\[77\]\[78\]\[79\]
+  - シングルミリオン獲得数：5作品（ミリオン3作品 / ダブルミリオン2作品）（歴代5位タイ、2016年12月現在）\[76\]\[77\]
+  - 連続ミリオン獲得年数：4年（歴代3位タイ、2020年1月現在）\[78\]\[79\]\[80\]
   - シングル歴代売上ランキング
-      - 7位「SAY YES」\[80\]
+      - 7位「SAY YES」\[81\]
       - 11位「YAH YAH YAH/夢の番人」
     <!-- end list -->
       -
-        [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」に売上を抜かれる前は「YAH YAH YAH/夢の番人」がオリコン歴代シングル売上10位を記録しており、歴代TOP10に「SAY YES」「YAH YAH YAH/夢の番人」がランクインしており、同一アーティストで2作ランクインしていたのはCHAGE and ASKAのみであった\[81\]。なお、シングル2作品ダブルミリオンをもつ同一アーティストとして、歴代1位タイである\[82\]\[83\]。
-  - 歴代週間連続1位獲得数：「SAY YES」（13週連続・歴代5位）\[84\]
+        [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」に売上を抜かれる前は「YAH YAH YAH/夢の番人」がオリコン歴代シングル売上10位を記録しており、歴代TOP10に「SAY YES」「YAH YAH YAH/夢の番人」がランクインしており、同一アーティストで2作ランクインしていたのはCHAGE and ASKAのみであった\[82\]。なお、シングル2作品ダブルミリオンをもつ同一アーティストとして、歴代1位タイである\[83\]\[84\]。
+  - 歴代週間連続1位獲得数：「SAY YES」（13週連続・歴代5位）\[85\]
 
 ### アルバム記録
-
-  - アルバム売り上げランキング（2009年現在）\[85\]\[86\]
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>タイトル</p></th>
-<th><p>発売日</p></th>
-<th><p>売上枚数</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td><p><a href="../Page/SUPER_BEST_II.md" title="wikilink">SUPER BEST II</a></p></td>
-<td></td>
-<td><p>269.7万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td><p><a href="../Page/TREE_(CHAGE_and_ASKAのアルバム).md" title="wikilink">TREE</a></p></td>
-<td></td>
-<td><p>235.1万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td><p><a href="../Page/RED_HILL.md" title="wikilink">RED HILL</a></p></td>
-<td></td>
-<td><p>156.6万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td><p><a href="../Page/GUYS.md" title="wikilink">GUYS</a></p></td>
-<td></td>
-<td><p>140.8万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td><p><a href="../Page/Kiss_〜dramatic_love_story〜.md" title="wikilink">Kiss 〜dramatic love story〜</a>[87]</p></td>
-<td></td>
-<td><p>92.9万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Code_Name.1_Brother_Sun" title="wikilink">Code Name.1 Brother Sun</a></p></td>
-<td></td>
-<td><p>75.0万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Yin&amp;Yang" title="wikilink">Yin&amp;Yang</a></p></td>
-<td></td>
-<td><p>69.3万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p><a href="../Page/SEE_YA.md" title="wikilink">SEE YA</a></p></td>
-<td></td>
-<td><p>51.5万枚</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CHAGE&amp;ASKA_VERY_BEST_ROLL_OVER_20TH" title="wikilink">CHAGE&amp;ASKA VERY BEST ROLL OVER 20TH</a></p></td>
-<td></td>
-<td><p>46.9万枚</p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CODE_NAME.2_SISTER_MOON" title="wikilink">CODE NAME.2 SISTER MOON</a></p></td>
-<td></td>
-<td><p>46.3万枚</p></td>
-</tr>
-</tbody>
-</table>
 
   - アルバムミリオン獲得数：ミリオン2作品 / ダブルミリオン2作品（歴代14位タイ）
   - アルバム1位獲得数：12作品（歴代17位タイ・2017年1月現在）
   - アルバム10位以内獲得数：28作品（歴代11位タイ・2012年12月現在）
-  - 1993年10月18日付のオリコンチャートにてアルバムの総売上が1000万枚を突破し、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループとして初めての快挙となった](../Page/バンド_\(音楽\).md "wikilink")\[88\]。
+  - 1993年10月18日付のオリコンチャートにてアルバムの総売上が1000万枚を突破し、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[グループとして初めての快挙となった](../Page/バンド_\(音楽\).md "wikilink")\[86\]。
 
 ## 作品
 
@@ -492,7 +348,7 @@ Best-selling Artist/Asia</p></td>
 
 ### シングル
 
-  - 1st〜40th、47th、48thシングルは現在**廃盤**となっている\[89\]。
+  - 1st〜40th、47th、48thシングルは現在**廃盤**となっている\[87\]。
 
 <table>
 <thead>
@@ -1427,7 +1283,7 @@ Best-selling Artist/Asia</p></td>
 
 ※一部作品は[LDや](../Page/レーザーディスク.md "wikilink")[βマックスでも発売された](https://ja.wikipedia.org/wiki/ベータマックス "wikilink")。「THE 夏祭り」はステレオ録画だがハイファイVHSデッキ発売前であったためノーマルステレオ。
 
-※2012年4月・5月に、[ハイビジョン](../Page/ハイビジョン.md "wikilink")機材で撮影されたライブ作品がBlu-ray化された\[90\]。
+※2012年4月・5月に、[ハイビジョン](../Page/ハイビジョン.md "wikilink")機材で撮影されたライブ作品がBlu-ray化された\[88\]。
 
 <table>
 <thead>
@@ -2461,7 +2317,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    [ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")が主催していた音楽コンテスト。チャゲ&飛鳥は、第16回大会・第17回大会の福岡大会からエントリーして[つま恋本選会まで進出し](https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋 "wikilink")、ともに入賞する\[91\]\[92\]。
+    [ヤマハ音楽振興会](../Page/ヤマハ音楽振興会.md "wikilink")が主催していた音楽コンテスト。チャゲ&飛鳥は、第16回大会・第17回大会の福岡大会からエントリーして[つま恋本選会まで進出し](https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋 "wikilink")、ともに入賞する\[89\]\[90\]。
 
 <!-- end list -->
 
@@ -2470,7 +2326,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    ヤマハ音楽振興会が制作協力していたラジオ・テレビ番組でヤマハポピュラーソングコンテストと連動して番組が制作されていた。パーソナリティを務めていた[大石吾朗](../Page/大石吾朗.md "wikilink")が、当時 "**チャゲと飛鳥**" としていて7人編成のバンドであったグループ名を、間違えて「チャゲ**&**飛鳥」とラジオ番組でアナウンスしたことがきっかけで "**チャゲ&飛鳥**" となる\[93\]。その後デュオ（2人組）としてデビューするが、グループ名はそのまま使用された。
+    ヤマハ音楽振興会が制作協力していたラジオ・テレビ番組でヤマハポピュラーソングコンテストと連動して番組が制作されていた。パーソナリティを務めていた[大石吾朗](../Page/大石吾朗.md "wikilink")が、当時 "**チャゲと飛鳥**" としていて7人編成のバンドであったグループ名を、間違えて「チャゲ**&**飛鳥」とラジオ番組でアナウンスしたことがきっかけで "**チャゲ&飛鳥**" となる\[91\]。その後デュオ（2人組）としてデビューするが、グループ名はそのまま使用された。
 
 <!-- end list -->
 
@@ -2479,7 +2335,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    [毎日放送](../Page/毎日放送.md "wikilink")で1983年4月 - 1984年9月まで彼らが[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")を務めた番組。2010年に行われた初代番組プロデューサー[渡辺一雄の追悼会では](https://ja.wikipedia.org/wiki/渡邊一雄_\(プロデューサー\) "wikilink")、無期限活動休止中であったが2人揃って公の場に姿を現した\[94\]。
+    [毎日放送](../Page/毎日放送.md "wikilink")で1983年4月 - 1984年9月まで彼らが[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")を務めた番組。2010年に行われた初代番組プロデューサー[渡辺一雄の追悼会では](https://ja.wikipedia.org/wiki/渡邊一雄_\(プロデューサー\) "wikilink")、無期限活動休止中であったが2人揃って公の場に姿を現した\[92\]。
 
 <!-- end list -->
 
@@ -2488,7 +2344,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    1983年9月30日にチャゲ&飛鳥がコンサート会場として初めて使用した会場。当初は、[前年に](../Page/1982年.md "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")でのコンサート開催を計画していたが、事務所関係者の間で賛否が分かれて断念した。その代わり、「まだ誰もやったことのない場所でやろう」となって選ばれたのが国立代々木第一体育館であった\[95\]\[96\]。2007年には無期限活動休止前最後となるコンサートを開催。また、2013年に活動再開後初となるライブ開催を予定していた場所であった\[97\]。
+    1983年9月30日にチャゲ&飛鳥がコンサート会場として初めて使用した会場。当初は、[前年に](../Page/1982年.md "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")でのコンサート開催を計画していたが、事務所関係者の間で賛否が分かれて断念した。その代わり、「まだ誰もやったことのない場所でやろう」となって選ばれたのが国立代々木第一体育館であった\[93\]\[94\]。2007年には無期限活動休止前最後となるコンサートを開催。また、2013年に活動再開後初となるライブ開催を予定していた場所であった\[95\]。
 
 <!-- end list -->
 
@@ -2497,7 +2353,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    [日本レコード協会](../Page/日本レコード協会.md "wikilink")主催の[音楽賞](https://ja.wikipedia.org/wiki/音楽賞 "wikilink")である。CHAGE\&ASKAは、第6回（1992年）\[98\]・第7回（1993年）\[99\]と2年連続で大賞を受賞した\[100\]。
+    [日本レコード協会](../Page/日本レコード協会.md "wikilink")主催の[音楽賞](https://ja.wikipedia.org/wiki/音楽賞 "wikilink")である。CHAGE\&ASKAは、第6回（1992年）\[96\]・第7回（1993年）\[97\]と2年連続で大賞を受賞した\[98\]。
 
 <!-- end list -->
 
@@ -2506,7 +2362,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    [IFPI](../Page/IFPI.md "wikilink")が主催する国際音楽賞。CHAGE\&ASKAは1992年から3年連続で受賞した。1992年の授賞式に日本代表として招待されていたが、スケジュールの都合で出演できず、1993年に改めて日本代表として初出演しパフォーマンスした\[101\]。1994年はアジア代表として出演し、アメリカの[コーラスグループである](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")14カラット・ソウルと共演した\[102\]。2010年には[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が現地でパフォーマンスした。
+    [IFPI](../Page/IFPI.md "wikilink")が主催する国際音楽賞。CHAGE\&ASKAは1992年から3年連続で受賞した。1992年の授賞式に日本代表として招待されていたが、スケジュールの都合で出演できず、1993年に改めて日本代表として初出演しパフォーマンスした\[99\]。1994年はアジア代表として出演し、アメリカの[コーラスグループである](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")14カラット・ソウルと共演した\[100\]。2010年には[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が現地でパフォーマンスした。
 
 <!-- end list -->
 
@@ -2515,7 +2371,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    [MTV](../Page/MTV.md "wikilink")が放送する[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")を基調とするライブ番組。CHAGE\&ASKAは、アジア圏のアーティストとして初めて出演を果たす\[103\]。収録は1996年6月19日にロンドンのファウンテン・スタジオで行われた。
+    [MTV](../Page/MTV.md "wikilink")が放送する[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")を基調とするライブ番組。CHAGE\&ASKAは、アジア圏のアーティストとして初めて出演を果たす\[101\]。収録は1996年6月19日にロンドンのファウンテン・スタジオで行われた。
 
 <!-- end list -->
 
@@ -2524,7 +2380,7 @@ Best-selling Artist/Asia</p></td>
 <!-- end list -->
 
   -
-    1999年12月31日に初のドーム公演と初のカウントダウン・ライブを開催した会場。それまで、コンサートとして最大でも1万人から1万5千人規模の会場になるべく拘って活動してきたが（過去に3万人規模の横浜スタジアムでコンサートを開催するなどの例外はあった）、"特別なお祭り的イベント" ということで2人の故郷でもある福岡で開催した。内容はCHAGEソロ（途中でMULTI MAX登場）、ASKAソロ、CHAGE & ASKAの3部構成であった。なお、韓国の関係者がこのライブを視察に来ていたことで、翌年にソウルでの親善コンサート開催アーティストをCHAGE\&ASKAに決めるきっかけとなった\[104\]。
+    1999年12月31日に初のドーム公演と初のカウントダウン・ライブを開催した会場。それまで、コンサートとして最大でも1万人から1万5千人規模の会場になるべく拘って活動してきたが（過去に3万人規模の横浜スタジアムでコンサートを開催するなどの例外はあった）、"特別なお祭り的イベント" ということで2人の故郷でもある福岡で開催した。内容はCHAGEソロ（途中でMULTI MAX登場）、ASKAソロ、CHAGE & ASKAの3部構成であった。なお、韓国の関係者がこのライブを視察に来ていたことで、翌年にソウルでの親善コンサート開催アーティストをCHAGE\&ASKAに決めるきっかけとなった\[102\]。
 
 <!-- end list -->
 
@@ -2614,64 +2470,62 @@ Best-selling Artist/Asia</p></td>
 41. [リリース情報「CHAGE and ASKA LIVE DVD BOX 4」及び「CHAGE & ASKA LIVE IN KOREA 韓日親善コンサート Aug.2000」をリリースいたします。](https://www.chage-aska.net/information/2019080901.php) CHAGE and ASKA Official Web Site 2019年8月9日配信, 2019年8月9日閲覧
 42.
 43.
-44. [ASKA容疑者、CHAGEを「金目当て」復活を遠ざけた猜疑心](http://www.zakzak.co.jp/smp/entertainment/ent-news/news/20161201/enn1612011130011-s1.htm) 2016年12月3日閲覧
-45. [LOVE LOVEあいしてる CHAGE\&ASKA トーク集](http://www.fujitv.co.jp/LOVELOVE/talk/137.html) フジテレビ 2018年5月19日閲覧。
-46. 「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」1996年11月25日放送 Chageの発言より。
-47. [CHAGE and ASKA公式サイトで解散報道を否定](http://natalie.mu/music/news/12435) 音楽ナタリー 2016年12月3日閲覧
-48. [ASKA、ラジオで“解散”報道を語る＆無料ライブ開催](http://natalie.mu/music/news/13467) 音楽ナタリー 2016年12月3日閲覧
-49. [チャゲアス復活否定で強がるASKA「連絡はあまりしなくていい」](http://www.zakzak.co.jp/smp/ent/news/170819/ent1708192639-s1.html) ZAKZAK 2017年8月21日閲覧
-50.
-51. [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[トリビアの泉](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』2006年5月31日放送
-52. なお、**バラードのチャゲアス**を払拭されるためにASKAは「[YAH YAH YAH](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」「[晴天を誉めるなら夕暮れを待て](https://ja.wikipedia.org/wiki/晴天を誉めるなら夕暮れを待て "wikilink")」（ASKAソロ楽曲）など、CHAGEは「[濡れた夢](https://ja.wikipedia.org/wiki/めぐり逢い_\(CHAGE_and_ASKAの曲\)#収録曲 "wikilink")」などのそれぞれが作詞作曲した作品も発売している。
-53. [『日経エンタテインメント』](http://web.archive.org/web/20010217044722/http://ent.nikkeibp.co.jp/ent/bn/9910/021.html#c&a_int) 1999年10月号（インターネット・アーカイブのキャッシュ）より
-54. [【1991年8月】SAY YES “月9”のメガヒット チャゲアス初のミリオンセラー](https://www.sponichi.co.jp/entertainment/yomimono/music/anokoro/08/kiji/K20110805001347320.html) スポニチアネックス 2011年8月5日配信,2019年3月7日閲覧
-55. [Something There](https://www.chage-aska.net/discography/single/something_there.php) CHAGE and ASKA Official Web Site 2019年3月7日閲覧
-56. [1](http://www.riaj.or.jp/f/pdf/issue/anniversary/60th.pdf)
-57. [CHAGE and ASKAの歴史を振り返る\! CHAGE「ASKAの復活を待っていたのに残念」CDや映像作品、配信まで出荷停止。しかし、復活をみんなが待っている\!](http://ripy-jm.com/news/pickup109_chage_and_aska.html) 2016年12月5日閲覧
-58. [2017-07-11 こういう報告の仕方も良いんじゃないかな。](http://aska-burnishstone.hatenablog.com/entry/2017/07/11/175352) ASKAのブログより
-59. [【特集】『CHAGE\&ASKA VERY BEST ROLL OVER 20TH』時代とともに進化し続けたCHAGE and ASKAの音楽](http://mysound.jp/sp/9226/?tww) mysound 2017年8月7日閲覧
-60. [ASKAが稲垣、草なぎ、香取のネット生出演に持論](https://www.nikkansports.com/m/entertainment/news/201710300000794_m.html?mode=all) 日刊スポーツ 2018年1月31日閲覧
-61.
-62.
-63. [綾小路翔と鬼龍院翔が白熱！チャゲアス「SAY YES」の魅力](http://www.allnightnippon.com/news/20171031-11027/) 2017年11月12日閲覧
-64. [星野源36歳「今とにかく寂しい。お互いが自然に思って結婚、それが僕の理想」と自身の結婚観を語る](https://news.walkerplus.com/article/118694/) ニュースウォーカー 2018年2月11日閲覧
-65. [澤野弘之が初めて行ったライブは、初めて追いかけたアーティスト、CHAGE\&ASKA - DI:GA ONLINE](https://www.diskgarage.com/digaonline/pleasure/33274)
-66.
-67. [ナイスポ](../Page/ナイスポ.md "wikilink") 2006年4月6日付紙面より
+44. [チャゲアス廃盤映像作ＤＶＤ化決定、追加リリースも](https://www.nikkansports.com/m/entertainment/news/202005130000279_m.html?mode=all) 日刊スポーツ 2020年5月13日配信, 2020年5月13日閲覧
+45.
+46. [ASKA容疑者、CHAGEを「金目当て」復活を遠ざけた猜疑心](http://www.zakzak.co.jp/smp/entertainment/ent-news/news/20161201/enn1612011130011-s1.htm) 2016年12月3日閲覧
+47. [LOVE LOVEあいしてる CHAGE\&ASKA トーク集](http://www.fujitv.co.jp/LOVELOVE/talk/137.html) フジテレビ 2018年5月19日閲覧。
+48. 「[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")」1996年11月25日放送 Chageの発言より。
+49. [CHAGE and ASKA公式サイトで解散報道を否定](http://natalie.mu/music/news/12435) 音楽ナタリー 2016年12月3日閲覧
+50. [ASKA、ラジオで“解散”報道を語る＆無料ライブ開催](http://natalie.mu/music/news/13467) 音楽ナタリー 2016年12月3日閲覧
+51. [チャゲアス復活否定で強がるASKA「連絡はあまりしなくていい」](http://www.zakzak.co.jp/smp/ent/news/170819/ent1708192639-s1.html) ZAKZAK 2017年8月21日閲覧
+52.
+53. [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[トリビアの泉](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』2006年5月31日放送
+54. なお、**バラードのチャゲアス**を払拭されるためにASKAは「[YAH YAH YAH](https://ja.wikipedia.org/wiki/YAH_YAH_YAH/夢の番人 "wikilink")」「[晴天を誉めるなら夕暮れを待て](https://ja.wikipedia.org/wiki/晴天を誉めるなら夕暮れを待て "wikilink")」（ASKAソロ楽曲）など、CHAGEは「[濡れた夢](https://ja.wikipedia.org/wiki/めぐり逢い_\(CHAGE_and_ASKAの曲\)#収録曲 "wikilink")」などのそれぞれが作詞作曲した作品も発売している。
+55. [『日経エンタテインメント』](http://web.archive.org/web/20010217044722/http://ent.nikkeibp.co.jp/ent/bn/9910/021.html#c&a_int) 1999年10月号（インターネット・アーカイブのキャッシュ）より
+56. [【1991年8月】SAY YES “月9”のメガヒット チャゲアス初のミリオンセラー](https://www.sponichi.co.jp/entertainment/yomimono/music/anokoro/08/kiji/K20110805001347320.html) スポニチアネックス 2011年8月5日配信,2019年3月7日閲覧
+57. [Something There](https://www.chage-aska.net/discography/single/something_there.php) CHAGE and ASKA Official Web Site 2019年3月7日閲覧
+58. [1](http://www.riaj.or.jp/f/pdf/issue/anniversary/60th.pdf)
+59. [CHAGE and ASKAの歴史を振り返る\! CHAGE「ASKAの復活を待っていたのに残念」CDや映像作品、配信まで出荷停止。しかし、復活をみんなが待っている\!](http://ripy-jm.com/news/pickup109_chage_and_aska.html) 2016年12月5日閲覧
+60. [2017-07-11 こういう報告の仕方も良いんじゃないかな。](http://aska-burnishstone.hatenablog.com/entry/2017/07/11/175352) ASKAのブログより
+61. [【特集】『CHAGE\&ASKA VERY BEST ROLL OVER 20TH』時代とともに進化し続けたCHAGE and ASKAの音楽](http://mysound.jp/sp/9226/?tww) mysound 2017年8月7日閲覧
+62. [ASKAが稲垣、草なぎ、香取のネット生出演に持論](https://www.nikkansports.com/m/entertainment/news/201710300000794_m.html?mode=all) 日刊スポーツ 2018年1月31日閲覧
+63.
+64.
+65. [綾小路翔と鬼龍院翔が白熱！チャゲアス「SAY YES」の魅力](http://www.allnightnippon.com/news/20171031-11027/) 2017年11月12日閲覧
+66. [星野源36歳「今とにかく寂しい。お互いが自然に思って結婚、それが僕の理想」と自身の結婚観を語る](https://news.walkerplus.com/article/118694/) ニュースウォーカー 2018年2月11日閲覧
+67. [澤野弘之が初めて行ったライブは、初めて追いかけたアーティスト、CHAGE\&ASKA - DI:GA ONLINE](https://www.diskgarage.com/digaonline/pleasure/33274)
 68.
-69. [フジモン&ケンコバ、ASKAに熱烈オファー　ギャラはたむけんのビットコインで支払い](https://abematimes.com/posts/2907791) アメバタイムズ 2018年2月17日閲覧
-70. [南原清隆](../Page/南原清隆.md "wikilink")がChageのモノマネで“**チャケ**”、[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")がASKA（飛鳥涼）のモノマネで“**ヤスカ涼**”である。
-71. [シンガーソングライターの原点、藤田麻衣子　90年代J-POPの魅力](https://www.musicvoice.jp/news/201809190103489/) ミュージックヴォイス 2018年10月9日閲覧
-72. [ポケットビスケッツに続け！復活してほしいユニット ランキング](https://joshi-spa.jp/873708/2) 女性SPA\! 2018年9月2日閲覧
-73.
-74. [CHAGE and ASKAが無期限活動休止](http://www.oricon.co.jp/news/62623/full/#rkg) オリコンスタイル 2015年4月12日閲覧。
-75. [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")などが同じく歴代5位となる。
-76. [歴代1位の記録も！ CHAGE and ASKAの凄さを改めて振り返る\!](http://a.excite.co.jp/News/90s/20161202/E1479368070334.html) exciteニュース 2016年12月3日閲覧
-77. [AKB48、初週売上138万枚で43作連続1位 今年度最高シングル売上を記録【オリコンランキング】](https://www.oricon.co.jp/news/2145042/full/) オリコン 2019年9月24日配信, 2020年1月26日閲覧
-78. [B'z、シングル10冠の偉業達成\!](https://www.oricon.co.jp/news/48676/full/) オリコン 2007年10月9日配信, 2020年1月26日閲覧
-79. 歴代1位は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（10年）、2位は[B'z](../Page/B'z.md "wikilink")（7年）であり、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[GLAY](../Page/GLAY.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")も4年連続となる。
-80. [【オリコン】SMAP、25年越し「SAY YES」超え 「世界に一つ～」が歴代6位に](http://www.oricon.co.jp/news/2078334/full/) オリコン 2016年9月13日閲覧
-81. [アスカ残し、チャゲ逝く　「なんかショック…」ちょっとした騒動に](http://withnews.jp/article/f0160206001qq000000000000000G0010401qq000012994A) with news 2016年2月15日閲覧
-82.
-83. [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")（「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」「[名もなき詩](../Page/名もなき詩.md "wikilink")」）と並ぶ。
-84. [1991年ヒストリー](http://www.chage-aska.net/biography/history/1991) CHAGE and ASKA official web site 2016年6月25日閲覧。
-85. [CHAGE\&ASKA、解散報道を事務所が否定](http://www.oricon.co.jp/news/61915/full/) オリコン 2015年11月8日閲覧
-86. [【オリコン】コブクロ、アルバム作品別総売上枚数で2人組ボーカル歴代1位に\!](http://www.oricon.co.jp/news/51088/full/) オリコン 2016年3月27日閲覧
-87. 収録されているCHAGE and ASKAの作品は「SAY YES」のみで、CHAGE and ASKA名義の作品ではない。
-88. [SMAPがアルバム総売上1000万枚を突破\!チャゲアス以来、史上2組目の快挙](https://www.oricon.co.jp/news/58548/full/) オリコン 2008年9月30日配信,2019年7月2日閲覧
-89. [公式サイト](https://www.chage-aska.net/discography/CHAGE_and_ASKA/SINGLE)の各作品ページにて閲覧可能
-90. [CHAGE, ASKA, CHAGE and ASKA 2012 on Blu-ray 特設サイト](http://blu-ray2012.chage-aska.net/)
-91.
+69. [ナイスポ](../Page/ナイスポ.md "wikilink") 2006年4月6日付紙面より
+70.
+71. [フジモン&ケンコバ、ASKAに熱烈オファー　ギャラはたむけんのビットコインで支払い](https://abematimes.com/posts/2907791) アメバタイムズ 2018年2月17日閲覧
+72. [南原清隆](../Page/南原清隆.md "wikilink")がChageのモノマネで“**チャケ**”、[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")がASKA（飛鳥涼）のモノマネで“**ヤスカ涼**”である。
+73. [シンガーソングライターの原点、藤田麻衣子　90年代J-POPの魅力](https://www.musicvoice.jp/news/201809190103489/) ミュージックヴォイス 2018年10月9日閲覧
+74. [ポケットビスケッツに続け！復活してほしいユニット ランキング](https://joshi-spa.jp/873708/2) 女性SPA\! 2018年9月2日閲覧
+75.
+76. [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")などが同じく歴代5位となる。
+77. [歴代1位の記録も！ CHAGE and ASKAの凄さを改めて振り返る\!](http://a.excite.co.jp/News/90s/20161202/E1479368070334.html) exciteニュース 2016年12月3日閲覧
+78. [AKB48、初週売上138万枚で43作連続1位 今年度最高シングル売上を記録【オリコンランキング】](https://www.oricon.co.jp/news/2145042/full/) オリコン 2019年9月24日配信, 2020年1月26日閲覧
+79. [B'z、シングル10冠の偉業達成\!](https://www.oricon.co.jp/news/48676/full/) オリコン 2007年10月9日配信, 2020年1月26日閲覧
+80. 歴代1位は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（10年）、2位は[B'z](../Page/B'z.md "wikilink")（7年）であり、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[GLAY](../Page/GLAY.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")らと同記録になる。
+81. [【オリコン】SMAP、25年越し「SAY YES」超え 「世界に一つ～」が歴代6位に](http://www.oricon.co.jp/news/2078334/full/) オリコン 2016年9月13日閲覧
+82. [アスカ残し、チャゲ逝く　「なんかショック…」ちょっとした騒動に](http://withnews.jp/article/f0160206001qq000000000000000G0010401qq000012994A) with news 2016年2月15日閲覧
+83.
+84. [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")（「[Tomorrow never knows](../Page/Tomorrow_never_knows_\(Mr.Childrenの曲\).md "wikilink")」「[名もなき詩](../Page/名もなき詩.md "wikilink")」）と並ぶ。
+85. [1991年ヒストリー](http://www.chage-aska.net/biography/history/1991) CHAGE and ASKA official web site 2016年6月25日閲覧。
+86. [SMAPがアルバム総売上1000万枚を突破\!チャゲアス以来、史上2組目の快挙](https://www.oricon.co.jp/news/58548/full/) オリコン 2008年9月30日配信,2019年7月2日閲覧
+87. [公式サイト](https://www.chage-aska.net/discography/CHAGE_and_ASKA/SINGLE)の各作品ページにて閲覧可能
+88. [CHAGE, ASKA, CHAGE and ASKA 2012 on Blu-ray 特設サイト](http://blu-ray2012.chage-aska.net/)
+89.
+90.
+91. [日本テレビ系特番](../Page/日本テレビ放送網.md "wikilink")『CHAGE\&ASKA 史上最大のメリークリスマス』 1993年12月23日放送の中でASKAが話しているが、話の途中で[大石吾朗](../Page/大石吾朗.md "wikilink")がゲストで出演する。
 92.
-93. [日本テレビ系特番](../Page/日本テレビ放送網.md "wikilink")『CHAGE\&ASKA 史上最大のメリークリスマス』 1993年12月23日放送の中でASKAが話しているが、話の途中で[大石吾朗](../Page/大石吾朗.md "wikilink")がゲストで出演する。
-94.
-95. [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『CHAGE\&ASKA HISTORY '79 - '90』内でのインタビューより
-96. なお、念願の[日本武道館](../Page/日本武道館.md "wikilink")公演は翌1984年8月8日・9日に開催している。
-97. [CHAGE and ASKA スペシャルライブ 2013 "On Your Mark"](http://calive2013.chage-aska.net/) 特設サイト
+93. [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『CHAGE\&ASKA HISTORY '79 - '90』内でのインタビューより
+94. なお、念願の[日本武道館](../Page/日本武道館.md "wikilink")公演は翌1984年8月8日・9日に開催している。
+95. [CHAGE and ASKA スペシャルライブ 2013 "On Your Mark"](http://calive2013.chage-aska.net/) 特設サイト
+96.
+97.
 98.
 99.
 100.
 101.
-102.
-103.
-104. 『ASKA CONCERT TOUR GOOD TIME』 パンフレット内のインタビューを参照
+102. 『ASKA CONCERT TOUR GOOD TIME』 パンフレット内のインタビューを参照

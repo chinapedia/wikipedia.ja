@@ -21,7 +21,7 @@
   - [2007年](../Page/2007年.md "wikilink")に[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")のTVサポート・ドラマーを務め、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")のアルバム「[嬉々](../Page/嬉々.md "wikilink")」のレコーディングに参加。
   - 2007年から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[SOPHIA](../Page/SOPHIA.md "wikilink")の[都啓一](../Page/都啓一.md "wikilink")と[豊田和貴](https://ja.wikipedia.org/wiki/豊田和貴 "wikilink")の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")バンド「スペースフィルターズ」のライブサポート・ドラマーを務める。
   - [2009年](../Page/2009年.md "wikilink")には[DEAD ENDの](https://ja.wikipedia.org/wiki/DEAD_END "wikilink")[MORRIE](../Page/MORRIE.md "wikilink")のソロバンド[Creature Creatureのライブにもサポートドラムとして参加](https://ja.wikipedia.org/wiki/Creature_Creature "wikilink")。
-  - 2009年にリリースされた[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")のシングル「[Faraway 〜星に願いを〜](https://ja.wikipedia.org/wiki/Faraway_〜星に願いを〜 "wikilink")」の表題曲と、「[LOST ANGELS](https://ja.wikipedia.org/wiki/LOST_ANGELS "wikilink")」に収録されている「No Reason」にレコーディング参加。
+  - 2009年にリリースされた[GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink")のシングル「[Faraway 〜星に願いを〜](https://ja.wikipedia.org/wiki/Faraway_〜星に願いを〜 "wikilink")」の表題曲と、「[LOST ANGELS](https://ja.wikipedia.org/wiki/LOST_ANGELS_\(GACKTの曲\) "wikilink")」に収録されている「No Reason」にレコーディング参加。
   - 2004年から現在まで[シドのプロデューサーとしても活動している](../Page/シド_\(バンド\).md "wikilink")。
   - 2009年から現在までCreature Creatureに固定サポートメンバーとして参加、活動中。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[SOPHIA](../Page/SOPHIA.md "wikilink")の[都啓一](../Page/都啓一.md "wikilink")らと共にロックバンド[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")を結成、活動中。

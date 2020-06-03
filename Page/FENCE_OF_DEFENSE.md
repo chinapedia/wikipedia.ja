@@ -21,47 +21,48 @@
 
 #### EPIC・ソニー
 
-  - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE_\(アルバム\).md "wikilink")（1987年6月21日）
-  - [FENCE OF DEFENSE II](../Page/FENCE_OF_DEFENSE_II.md "wikilink")（1987年12月2日）
-  - [FENCE OF DEFENSE III 2235 ZERO GENERATION](../Page/FENCE_OF_DEFENSE_III_2235_ZERO_GENERATION.md "wikilink")（1988年9月21日）
-  - [FENCE OF DEFENSE IV RED ON LEAD](../Page/FENCE_OF_DEFENSE_IV_RED_ON_LEAD.md "wikilink")（1989年10月8日）
-  - [FENCE OF DEFENSE V TIME](../Page/FENCE_OF_DEFENSE_V_TIME.md "wikilink")（1990年6月21日）
-  - [digitaglam FOD VI](https://ja.wikipedia.org/wiki/digitaglam_FOD_VI "wikilink")（1991年6月21日）
-  - [FENCE OF DEFENSE VII RIDE](../Page/FENCE_OF_DEFENSE_VII_RIDE.md "wikilink")（1992年4月22日）
-  - [SPEED OF LOVE](../Page/SPEED_OF_LOVE.md "wikilink")（1993年6月2日）
-  - [hot dogs](https://ja.wikipedia.org/wiki/hot_dogs "wikilink")（1994年5月21日）
+  - [FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE_\(アルバム\).md "wikilink")（1987年6月21日）☆
+  - [FENCE OF DEFENSE II](../Page/FENCE_OF_DEFENSE_II.md "wikilink")（1987年12月2日）☆
+  - [FENCE OF DEFENSE III 2235 ZERO GENERATION](../Page/FENCE_OF_DEFENSE_III_2235_ZERO_GENERATION.md "wikilink")（1988年9月21日）☆
+  - [FENCE OF DEFENSE IV RED ON LEAD](../Page/FENCE_OF_DEFENSE_IV_RED_ON_LEAD.md "wikilink")（1989年10月8日）☆
+  - [FENCE OF DEFENSE V TIME](../Page/FENCE_OF_DEFENSE_V_TIME.md "wikilink")（1990年6月21日）☆
+  - [digitaglam FOD VI](https://ja.wikipedia.org/wiki/digitaglam_FOD_VI "wikilink")（1991年6月21日）☆
+  - [FENCE OF DEFENSE VII RIDE](../Page/FENCE_OF_DEFENSE_VII_RIDE.md "wikilink")（1992年4月22日）☆
+  - [SPEED OF LOVE](../Page/SPEED_OF_LOVE.md "wikilink")（1993年6月2日）☆
+  - [hot dogs](https://ja.wikipedia.org/wiki/hot_dogs "wikilink")（1994年5月21日）☆
   - [BEST](../Page/BEST_\(FENCE_OF_DEFENSEのアルバム\).md "wikilink")（1995年4月21日）
 
 #### ポリドール/Primitive Records
 
-  - [XXX](../Page/XXX_\(FENCE_OF_DEFENSEのアルバム\).md "wikilink")（1997年6月25日）
+  - [XXX](../Page/XXX_\(FENCE_OF_DEFENSEのアルバム\).md "wikilink")（1997年6月25日）☆
 
 #### イーストウエスト・ジャパン
 
-  - [punk tang edges](https://ja.wikipedia.org/wiki/punk_tang_edges "wikilink")（1998年10月25日）
-  - [LOGICAL AESTHETICS SWIMMING TRAGEDY](../Page/LOGICAL_AESTHETICS_SWIMMING_TRAGEDY.md "wikilink")（1999年5月25日）
+  - [punk tang edges](https://ja.wikipedia.org/wiki/punk_tang_edges "wikilink")（1998年10月25日）☆
+  - [LOGICAL AESTHETICS SWIMMING TRAGEDY](../Page/LOGICAL_AESTHETICS_SWIMMING_TRAGEDY.md "wikilink")（1999年5月25日）☆
 
 #### REBARS RECORDS（インディーズレーベル）
 
   - [REUNITED & STARTING OVER](../Page/REUNITED_&_STARTING_OVER.md "wikilink")（ライブCD＋DVD）（2004年4月16日）
-  - [FENCE OF DEFENSE XIII パンゲア](../Page/FENCE_OF_DEFENSE_XIII_パンゲア.md "wikilink")（2005年3月21日）
-  - [hot dogs 2](https://ja.wikipedia.org/wiki/hot_dogs_2 "wikilink")（2006年12月20日）
+  - [FENCE OF DEFENSE XIII パンゲア](../Page/FENCE_OF_DEFENSE_XIII_パンゲア.md "wikilink")（2005年3月21日）☆
+  - [hot dogs 2](https://ja.wikipedia.org/wiki/hot_dogs_2 "wikilink")（2006年12月20日）☆
 
 #### SONY MUSIC DIRECT
 
   - [GREAT FREAKERS BEST 〜FENCE OF DEFENSE 1987-2007〜](../Page/GREAT_FREAKERS_BEST_〜FENCE_OF_DEFENSE_1987-2007〜.md "wikilink")（20周年記念ベストアルバム2枚組）（2007年9月26日）
-  - [円游律](../Page/円游律.md "wikilink")（2008年1月16日）
-  - [挑戦進化〜HYPER PROGRESS〜](https://ja.wikipedia.org/wiki/挑戦進化〜HYPER_PROGRESS〜 "wikilink")（2009年3月25日）（通販専用商品）
+  - [円游律](../Page/円游律.md "wikilink")（2008年1月16日）☆
+  - [挑戦進化〜HYPER PROGRESS〜](https://ja.wikipedia.org/wiki/挑戦進化〜HYPER_PROGRESS〜 "wikilink")（2009年3月25日）（通販専用商品）☆
 
 #### DATE COURSE RECORDS（インディーズレーベル）
 
   - FENCE OF DEFENSE LIVE Restructive Future:2235 Part1（2010年12月15日）（配信専用）
   - FENCE OF DEFENSE LIVE Restructive Future:2235 Part2（2010年12月15日）（配信専用）
-  - [GOLDIVIN](https://ja.wikipedia.org/wiki/GOLDIVIN "wikilink")（CD＋DVD）（2012年6月29日一般発売）
+  - [GOLDIVIN](https://ja.wikipedia.org/wiki/GOLDIVIN "wikilink")（CD＋DVD）（2012年6月29日一般発売）☆
 
 #### キングレコード
 
-  - [digiTaglam 2 RING WORLD](https://ja.wikipedia.org/wiki/digiTaglam_2_RING_WORLD "wikilink")（2014年1月8日）
+  - [digiTaglam 2 RING WORLD](https://ja.wikipedia.org/wiki/digiTaglam_2_RING_WORLD "wikilink")（2014年1月8日）☆
+  - [Primitive New Essence](https://ja.wikipedia.org/wiki/Primitive_New_Essence "wikilink")（2020年2月19日）☆
 
 #### DUSTRAX RECORDS（インディーズレーベル）
 
@@ -75,6 +76,8 @@
 #### ポニーキャニオン
 
   - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、[プレイステーションソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink") [悠久幻想曲3 Perpetual Blueサウンドトラック](https://ja.wikipedia.org/wiki/悠久幻想曲3_Perpetual_Blue "wikilink")「Get Myself」収録（1999年10月20日）
+
+☆はオリジナルアルバム
 
 ### シングル
 

@@ -137,7 +137,7 @@
   - [喜多ゆかり](../Page/喜多ゆかり.md "wikilink")（朝日放送アナウンサー、2004年10月 - 2005年3月）
   - [羽谷直子](https://ja.wikipedia.org/wiki/羽谷直子 "wikilink")（当時朝日放送アナウンサー、2007年4月 - 2008年10月31日）
   - [清水貴之](../Page/清水貴之.md "wikilink")（4代目メインキャスター、当時朝日放送アナウンサー、2001年 - 2010年3月26日）
-  - [小寺右子](../Page/小寺右子.md "wikilink")（朝日放送アナウンサー、2006年4月からメイン - 2010年3月26日）
+  - [小寺右子](../Page/小寺右子.md "wikilink")（朝日放送アナウンサー、2006年4月からメイン - 2010年3月26日） - レギュラー出演を終了してからも、後任者の休演や新型コロナウイルスの感染拡大などに伴う措置として、メインキャスターの代理を随時担当。
   - [藤崎健一郎](../Page/藤崎健一郎.md "wikilink")（朝日放送アナウンサー、火･水曜スポーツキャスター、2009年3月17日 - 2010年3月24日）
   - [高橋大作](../Page/高橋大作.md "wikilink")（5代目メインキャスター、当時朝日放送アナウンサー、2010年3月29日 - 2011年9月30日）
   - [乾麻梨子](../Page/乾麻梨子.md "wikilink")（朝日放送アナウンサー、2010年3月29日 - 2014年3月28日）
@@ -371,6 +371,7 @@
 ## 外部リンク
 
   - [おはようコールABC](http://www.asahi.co.jp/call/) - 朝日放送テレビ公式サイト
+  - [おはようコールABC](https://www.asahi.co.jp/call_old/) - 2014年3月までの公式サイト
   - [おはようコール](https://twitter.com/call_abc)（@call_ABC） - [Twitter](../Page/Twitter.md "wikilink")
 
 [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:朝日放送テレビの帯番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの帯番組 "wikilink") [Category:朝日放送テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:朝日放送テレビの情報・ワイドショー番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組 "wikilink")

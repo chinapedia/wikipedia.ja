@@ -34,14 +34,15 @@
 ### 現主要メンバー
 
   - [石川勝久](https://ja.wikipedia.org/wiki/石川勝久 "wikilink")（ばび〜）
-    5代目リーダー。担当は効果音の製作やサウンドディレクションが中心で、作編曲は行わない。また、イベントやライブ、ネット配信ではMCを務める。
+    5代目リーダー。担当は効果音の製作やサウンドディレクションが中心で、作編曲は行わない。また、イベントやネット配信ではMCを務めるほか、ライブでは[ショルダーキーボード](https://ja.wikipedia.org/wiki/ショルダーキーボード "wikilink")を担当。
     代表的な効果音製作作品は[ダライアス外伝](../Page/ダライアス外伝.md "wikilink")、[メタルブラック](../Page/メタルブラック.md "wikilink")、[カイザーナックル](../Page/カイザーナックル.md "wikilink")、[ファイターズインパクト](https://ja.wikipedia.org/wiki/ファイターズインパクト "wikilink")、[ジェットでGO\!ポケット](../Page/ジェットでGO!ポケット.md "wikilink")、[ダライアスバースト](https://ja.wikipedia.org/wiki/ダライアスバースト "wikilink")シリーズなど。ZUNTATA-J.A.M.の一人で、「電車で電車でGO\!GO\!GO\!」等ではボーカルを務める。
   - [下田祐](https://ja.wikipedia.org/wiki/下田祐 "wikilink")
-    2017年6月にメンバーとして加入\[11\]。
+    2017年6月にメンバーとして加入\[11\]。ライブではベースを担当。
   - [土屋昇平](https://ja.wikipedia.org/wiki/土屋昇平 "wikilink")
+    2008年8月にメンバーとして加入。ライブではベースを担当。
     **代表作：**[ホーンテッドミュージアム](https://ja.wikipedia.org/wiki/ホーンテッドミュージアム "wikilink")シリーズ、[ダライアスバースト](https://ja.wikipedia.org/wiki/ダライアスバースト "wikilink")シリーズ、[グルーヴコースター](https://ja.wikipedia.org/wiki/グルーヴコースター "wikilink")シリーズ
   - [森正樹](https://ja.wikipedia.org/wiki/森正樹 "wikilink") (MASAKI)
-    2015年11月にメンバーとして加入\[12\]。
+    2015年11月にメンバーとして加入\[12\]。ライブではドラムを担当。
     **代表作：**[グルーヴコースター](https://ja.wikipedia.org/wiki/グルーヴコースター "wikilink")シリーズ
 
 ### 旧主要メンバー
@@ -73,7 +74,7 @@
     **代表作：**[アルカノイド](../Page/アルカノイド.md "wikilink")、[バブルボブル](../Page/バブルボブル.md "wikilink")
   - 国京砂織（Sally）
     [小塩広和](https://ja.wikipedia.org/wiki/小塩広和 "wikilink")（COSIO）
-    2015年11月退社しフリーに。
+    2015年11月退社しフリーに。ライブではキーボード、DJを担当。
     **代表作：**[アルカノイドDS](https://ja.wikipedia.org/wiki/アルカノイドDS "wikilink")、[スペースインベーダーエクストリーム](https://ja.wikipedia.org/wiki/スペースインベーダーエクストリーム "wikilink")シリーズ、、[スペースインベーダー インフィニティジーン](https://ja.wikipedia.org/wiki/スペースインベーダー_インフィニティジーン "wikilink")、電車で電車でGO\!GO\!GO\! れぼりゅ〜しょん、[ダライアスバースト](https://ja.wikipedia.org/wiki/ダライアスバースト "wikilink")シリーズ、[グルーヴコースター](https://ja.wikipedia.org/wiki/グルーヴコースター "wikilink")シリーズ
   - 櫻井浩司（CHERRY）
     **代表作：**逆鱗弾、SuperFootball Champ
@@ -301,13 +302,6 @@ ZUNTATAのほか、SNKおよびCAVEのサウンドスタッフが出演<br />
 来場者のみ対象のプレゼント抽選会を実施</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>年越しZUNTATA NIGHT 2019-2020</p></td>
 <td><p>タイトーステーション池袋西口店PRESENTS</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a><br />
@@ -318,6 +312,19 @@ ZUNTATAのほか、SNKおよびCAVEのサウンドスタッフが出演<br />
 <td><p>初の年越し生配信<br />
 トークのほか「ZUNTATA超難問曲当てクイズ」を実施[50]<br />
 来場者のみ対象のプレゼント抽選会を実施</p></td>
+</tr>
+<tr class="odd">
+<td><p>ZUNTATA NIGHT Special<br />
+TAITO DJ STATION Vol.1</p></td>
+<td><p>タイトーステーションPresents<br />
+タイトー最新情報 &amp; タイトーゲームミュージックDJライブ</p></td>
+<td><p>2020年<a href="https://ja.wikipedia.org/wiki/5月4日" title="wikilink">5月4日</a><br />
+15時00分 - 16時30分</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/廣瀬無線電機#廣瀬本社ビル" title="wikilink">Hey</a></p></td>
+<td><p>トークおよびDJライブで構成<br />
+トークは<a href="../Page/外山雄一.md" title="wikilink">外山雄一</a>および<a href="../Page/M2_(ゲーム会社).md" title="wikilink">エムツー広報担当が出演</a><br />
+DJゲストにCOSIOが出演<br />
+番組初の<a href="https://ja.wikipedia.org/wiki/YouTube#Super_Chat(スーパーチャット)" title="wikilink">Super Chat(スーパーチャット)を実施</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

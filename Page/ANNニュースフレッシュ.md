@@ -186,6 +186,6 @@
 [Category:ANN番組の歴史](https://ja.wikipedia.org/wiki/Category:ANN番組の歴史 "wikilink") [Category:テレビ朝日の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の帯番組の歴史 "wikilink") [Category:テレビ朝日の番組の企画](https://ja.wikipedia.org/wiki/Category:テレビ朝日の番組の企画 "wikilink") [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink")
 
 1.  平日は『[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")』をネットのため未ネットだった。
-2.  平日は自主制作番組『[おはようYBC・けさの主張](../Page/YBC社説放送.md "wikilink")』と統合した『[朝6時\!YBCニュース](https://ja.wikipedia.org/wiki/朝6時!YBCニュース "wikilink")』の1コーナーとして内包ネット。
+2.  平日は自主制作番組『[おはようYBC・けさの主張](../Page/YBC社説放送.md "wikilink")』と統合した『[朝6時\!YBCニュース](../Page/YBCジパングあさ6.md "wikilink")』の1コーナーとして内包ネット。
 3.  自主制作番組『朝6・45』が時間延長により『朝6・35』スタートのため打ち切り、ANN非加盟局だが1991年4月から1993年3月までは「CNNデイブレイク」とセットでネットしていた。
 4.  四国放送と同様にANN非加盟局にも拘らずネットしていた。

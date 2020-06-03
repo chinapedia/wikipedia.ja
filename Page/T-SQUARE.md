@@ -31,7 +31,7 @@
 
 こうした事態はあったものの、本田の加入により音楽的にもルックス的にもイメージを一新し、人気は持続。「ハイパー・サックスプレイヤー」という触れ込みでアルバム『[NEW-S](../Page/NEW-S.md "wikilink")』で鮮烈なデビューを飾った本田は、伊東とは対照的なスタイルながらも、スクェアの音楽性にテクニカルな要素をもたらし、かつそれまでのスクェアの楽曲にも新しい風を吹き込むことに成功した。特に『NEW-S』収録の「MEGALITH」は本田の音楽性、テクニックを大きく知らしめた楽曲で、現在でも本田の代表曲とされる。
 
-また、この時期はホールツアーやライブハウスツアーに加えて[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")におけるスペシャルライブ「野音であそぶ」の開催、タイアップに伴うシングル発売、海外レコーディングや、海外ミュージシャンや名門オーケストラをゲストに招いての企画盤の制作が毎年のように行われており、80年代のようなセールス的な盛り上がりはないものの非常にクリエイティブで充実した活動が行われていた時期でもあった。[1994年](../Page/1994年.md "wikilink")には[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")でコンサートを実施。当時韓国政府により、日本の芸能文化の上演が厳しく規制された中、韓国政府の公認を得ての日本人コンサートの上演を行う。以後現在まで韓国ではコンスタントに公演を行っている。
+また、この時期はホールツアーやライブハウスツアーに加えて[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")におけるスペシャルライブ「野音であそぶ」の開催、タイアップに伴うシングル発売、海外レコーディングや、海外ミュージシャンや名門オーケストラをゲストに招いての企画盤の制作が毎年のように行われており、80年代のようなセールス的な盛り上がりはないものの非常にクリエイティブで充実した活動が行われていた時期でもあった。[1994年](../Page/1994年.md "wikilink")には[韓国でコンサートを実施](../Page/大韓民国.md "wikilink")。当時韓国政府により、日本の芸能文化の上演が厳しく規制された中、韓国政府の公認を得ての日本人コンサートの上演を行う。以後現在まで韓国ではコンスタントに公演を行っている。
 
 本田の在籍期間7年の中でメンバーチェンジは一度もなく、その間7枚のオリジナルアルバムを発表、スクェアの歴史の中で2番目に長く続いた体制となった（[2012年](../Page/2012年.md "wikilink")に、現在の安藤・伊東・河野・坂東の体制が一番長く続いている体制となった）。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にフロントを7年間務めた本田、そして16年の長きに渡ってバンドサウンドの中核を担った和泉の2人が同時に脱退。3人目のフロントマンとして[宮崎隆睦](../Page/宮崎隆睦.md "wikilink")、16年ぶりの新キーボーディストとして[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")を迎える。この時も伊東脱退時と同じく「FAREWELL & WELCOME LIVE」が開催されている。
 
@@ -324,6 +324,7 @@ GROOVE GLOBE</p></td>
   - TRUTH（[ホンダ](../Page/本田技研工業.md "wikilink") - Honda Green Machineキャンペーン）
   - BECAUSE（[富士通テン](https://ja.wikipedia.org/wiki/富士通テン "wikilink")-Biyo）
   - GO FOR IT（[トヨタ・セラ](../Page/トヨタ・セラ.md "wikilink")）
+  - BIG CITY（[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")[カーオーディオ](../Page/カーオーディオ.md "wikilink")G-1V7300）
   - ARCADIA（[ミリオンカード](../Page/UFJカード.md "wikilink")）
   - FACES（[昭和シェル石油](../Page/昭和シェル石油.md "wikilink")）
   - MAYBE TOMORROW（[東洋エクステリア](https://ja.wikipedia.org/wiki/東洋エクステリア "wikilink") - エクシオール）
@@ -417,27 +418,27 @@ GROOVE GLOBE</p></td>
 
 ### シングル
 
-| タイトル                                                                                      | 発売年月日                           | 品番        | 備考              |
-| :---------------------------------------------------------------------------------------- | ------------------------------- | --------- | --------------- |
-| *MAKE ME A STAR*                                                                          | 1979.06.21                      | 06SP-334  |                 |
-| *TOMORROW'S AFFAIR*                                                                       | 1980.01.21                      | 06SP-452  |                 |
-| *I'M WALKMAN*                                                                             | 1980.04.01                      | 07SP-496  |                 |
-| *IT'S MAGIC*                                                                              | 1981.10.21                      | 07SH-1087 |                 |
-| *[TRAVELERS](https://ja.wikipedia.org/wiki/TRAVELERS "wikilink")*                         | 1984.04.01                      | 07SH-1479 |                 |
-| *[OVERNIGHT SENSATION](../Page/OVERNIGHT_SENSATION.md "wikilink")*                        | 1984.11.21                      | 12AH-1814 |                 |
-| *PRIME*                                                                                   | 1985.04.01                      | 12AH-1840 |                 |
-| *[OMENS OF LOVE](../Page/OMENS_OF_LOVE.md "wikilink")*                                    | 1985.06.21                      | 12AH-1835 |                 |
-| *[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")*                         | 1986.03.05                      | 12AH-1998 |                 |
-| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                    | 1991.10.10                      | SRDL-3397 |                 |
-| *CHASER*                                                                                  | 1992.06.21                      | SRDL-3479 |                 |
-| *[FACES](https://ja.wikipedia.org/wiki/FACES "wikilink")*                                 | 1992.06.21                      | SRDL-3504 |                 |
-| *[RISE](https://ja.wikipedia.org/wiki/RISE_\(T-SQUAREの曲\) "wikilink")*                    | 1992.07.22|align=left|SRDL-3510 |           |                 |
-| *[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(T-SQUAREの曲\) "wikilink")*                  | 1993.06.21                      | SRDL-3667 |                 |
-| *TWILIGHT IN UPPER WEST*                                                                  | 1994.01.21                      | SRDL-3786 | オーケストラアレンジ版     |
-| *VICTORY*                                                                                 | 1996.06.01                      | SRDL-4211 |                 |
-| *[TRUTH 21c](https://ja.wikipedia.org/wiki/TRUTH_21c "wikilink")*                         | 2001.05.09                      | VRCL-3336 | T-SQUARE plus名義 |
-| *[TRUTH RESONANCE-T Mix](https://ja.wikipedia.org/wiki/TRUTH_RESONANCE-T_Mix "wikilink")* | 2003.04.23                      | VRCL-3344 |                 |
-|                                                                                           |                                 |           |                 |
+| タイトル                                                                                      | 発売年月日      | 品番        | 備考              |
+| :---------------------------------------------------------------------------------------- | ---------- | --------- | --------------- |
+| *MAKE ME A STAR*                                                                          | 1979.06.21 | 06SP-334  |                 |
+| *TOMORROW'S AFFAIR*                                                                       | 1980.01.21 | 06SP-452  |                 |
+| *I'M WALKMAN*                                                                             | 1980.04.01 | 07SP-496  |                 |
+| *IT'S MAGIC*                                                                              | 1981.10.21 | 07SH-1087 |                 |
+| *[TRAVELERS](https://ja.wikipedia.org/wiki/TRAVELERS "wikilink")*                         | 1984.04.01 | 07SH-1479 |                 |
+| *[OVERNIGHT SENSATION](../Page/OVERNIGHT_SENSATION.md "wikilink")*                        | 1984.11.21 | 12AH-1814 |                 |
+| *PRIME*                                                                                   | 1985.04.01 | 12AH-1840 |                 |
+| *[OMENS OF LOVE](../Page/OMENS_OF_LOVE.md "wikilink")*                                    | 1985.06.21 | 12AH-1835 |                 |
+| *[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")*                         | 1986.03.05 | 12AH-1998 |                 |
+| *[TRUTH](../Page/TRUTH.md "wikilink")*                                                    | 1991.10.10 | SRDL-3397 |                 |
+| *CHASER*                                                                                  | 1992.06.21 | SRDL-3479 |                 |
+| *[FACES](https://ja.wikipedia.org/wiki/FACES "wikilink")*                                 | 1992.06.21 | SRDL-3504 |                 |
+| *[RISE](https://ja.wikipedia.org/wiki/RISE_\(T-SQUAREの曲\) "wikilink")*                    | 1992.07.22 | SRDL-3510 |                 |
+| *[明日への扉](https://ja.wikipedia.org/wiki/明日への扉_\(T-SQUAREの曲\) "wikilink")*                  | 1993.06.21 | SRDL-3667 |                 |
+| *TWILIGHT IN UPPER WEST*                                                                  | 1994.01.21 | SRDL-3786 | オーケストラアレンジ版     |
+| *VICTORY*                                                                                 | 1996.06.01 | SRDL-4211 |                 |
+| *[TRUTH 21c](https://ja.wikipedia.org/wiki/TRUTH_21c "wikilink")*                         | 2001.05.09 | VRCL-3336 | T-SQUARE plus名義 |
+| *[TRUTH RESONANCE-T Mix](https://ja.wikipedia.org/wiki/TRUTH_RESONANCE-T_Mix "wikilink")* | 2003.04.23 | VRCL-3344 |                 |
+|                                                                                           |            |           |                 |
 
 ### 企画アルバム
 

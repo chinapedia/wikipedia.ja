@@ -43,7 +43,7 @@
 
 ### プロ野球
 
-いわゆる巨人贔屓が、スポーツTODAYのプロ野球コーナーの特徴であった。プロ野球コーナーでは、基本的には試合結果をダイジェストで放送するものだったが、注目の1試合のみ放送室風の別室で、実況（主に山田透）・解説者付で重点報道していた。しかし、現実には巨人戦以外が放送室で「ONAIR」されることはなかった。[2001年](../Page/2001年.md "wikilink")3月には、[パリーグ](https://ja.wikipedia.org/wiki/パリーグ "wikilink")が先行開幕していたが、パリーグの開幕戦3カードは試合結果と簡潔な映像をダイジェスト版で放送し、[ヤクルト対](https://ja.wikipedia.org/wiki/ヤクルトスワローズ "wikilink")[巨人の](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[オープン戦](../Page/オープン戦.md "wikilink")が放送室で「ONAIR」されたこともあった。
+いわゆる巨人贔屓が、スポーツTODAYのプロ野球コーナーの特徴であった。プロ野球コーナーでは、基本的には試合結果をダイジェストで放送するものだったが、注目の1試合のみ放送室風の別室で、実況（主に山田透）・解説者付で重点報道していた。しかし、現実には巨人戦以外が放送室で「ONAIR」されることはなかった。[2001年](../Page/2001年.md "wikilink")3月には、[パリーグ](https://ja.wikipedia.org/wiki/パリーグ "wikilink")が先行開幕していたが、パリーグの開幕戦3カードは試合結果と簡潔な映像をダイジェスト版で放送し、[ヤクルト対](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[巨人の](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[オープン戦](../Page/オープン戦.md "wikilink")が放送室で「ONAIR」されたこともあった。
 
 ## 放送時間の変遷
 
@@ -208,10 +208,12 @@
   - [水沼貴史](../Page/水沼貴史.md "wikilink")（サッカー解説）
   - [大仁田厚](../Page/大仁田厚.md "wikilink")
   - [関口郷子](https://ja.wikipedia.org/wiki/関口郷子 "wikilink")
+  - 鈴木敦子
   - [青田昇](../Page/青田昇.md "wikilink")
   - [武上四郎](../Page/武上四郎.md "wikilink")
   - [ダンカン](https://ja.wikipedia.org/wiki/ダンカン_\(お笑い芸人\) "wikilink")
   - [爆笑問題](../Page/爆笑問題.md "wikilink")（競馬予想）
+  - [藤川京子](../Page/藤川京子.md "wikilink")（競馬予想）
 
 ### 以下、当時テレビ東京アナウンサー（契約含む）
 

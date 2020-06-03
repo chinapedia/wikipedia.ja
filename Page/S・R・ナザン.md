@@ -11,7 +11,7 @@
 
 ## 年譜
 
-  - 日本によるシンガポール占領時代、警察に通訳として勤務\[5\]し、戦後独学で[マラヤ大学](../Page/マラヤ大学.md "wikilink")（当時シンガポールにあった）に入学
+  - 日本によるシンガポール占領時代、[警察](../Page/警察.md "wikilink")に[通訳](../Page/通訳.md "wikilink")として勤務\[5\]し、戦後独学で[マラヤ大学](../Page/マラヤ大学.md "wikilink")（当時シンガポールにあった）に入学
   - 1954年　[マラヤ大学](../Page/マラヤ大学.md "wikilink")卒業
   - 1955年　医療ソーシャルワーカーとして公務員としてのキャリアを開始
   - 1966年　外務省に入省
@@ -31,7 +31,7 @@
 
 ## 脚注
 
-[Category:シンガポールの大統領](https://ja.wikipedia.org/wiki/Category:シンガポールの大統領 "wikilink") [Category:シンガポールの実業家](https://ja.wikipedia.org/wiki/Category:シンガポールの実業家 "wikilink") [Category:シンガポールの大使](https://ja.wikipedia.org/wiki/Category:シンガポールの大使 "wikilink") [Category:在アメリカ合衆国大使](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国大使 "wikilink") [Category:在マレーシア大使](https://ja.wikipedia.org/wiki/Category:在マレーシア大使 "wikilink") [Category:三菱重工業の人物](https://ja.wikipedia.org/wiki/Category:三菱重工業の人物 "wikilink") [Category:インド系シンガポール人](https://ja.wikipedia.org/wiki/Category:インド系シンガポール人 "wikilink") [Category:シンガポール出身の人物](https://ja.wikipedia.org/wiki/Category:シンガポール出身の人物 "wikilink") [Category:1924年生](https://ja.wikipedia.org/wiki/Category:1924年生 "wikilink") [Category:2016年没](https://ja.wikipedia.org/wiki/Category:2016年没 "wikilink")
+[Category:シンガポールの大統領](https://ja.wikipedia.org/wiki/Category:シンガポールの大統領 "wikilink") [Category:シンガポールの実業家](https://ja.wikipedia.org/wiki/Category:シンガポールの実業家 "wikilink") [Category:シンガポールの大使](https://ja.wikipedia.org/wiki/Category:シンガポールの大使 "wikilink") [Category:在アメリカ合衆国大使](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国大使 "wikilink") [Category:在マレーシア大使](https://ja.wikipedia.org/wiki/Category:在マレーシア大使 "wikilink") [Category:三菱重工業の人物](https://ja.wikipedia.org/wiki/Category:三菱重工業の人物 "wikilink") [Category:インド系シンガポール人](https://ja.wikipedia.org/wiki/Category:インド系シンガポール人 "wikilink") [Category:シンガポール出身の人物](https://ja.wikipedia.org/wiki/Category:シンガポール出身の人物 "wikilink") [Category:英語通訳](https://ja.wikipedia.org/wiki/Category:英語通訳 "wikilink") [Category:1924年生](https://ja.wikipedia.org/wiki/Category:1924年生 "wikilink") [Category:2016年没](https://ja.wikipedia.org/wiki/Category:2016年没 "wikilink")
 
 1.
 2.  シンガポールの大統領は儀礼的な国家元首で、実権は首相にある。

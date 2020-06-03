@@ -268,7 +268,7 @@
 
 ## 沿革
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Shiroyama_Trust_Tower_Tokyo.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Shiroyama_Trust_Tower_Tokyo.jpg "wikilink") [BS_Japan_logo.png](https://ja.wikipedia.org/wiki/File:BS_Japan_logo.png "fig:BS_Japan_logo.png")
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[12月14日](../Page/12月14日.md "wikilink") - **株式会社ビー・エス・ジャパン**設立。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）[12月1日](../Page/12月1日.md "wikilink") - 本放送開始。テレビ放送用に22スロットを使用。開始当初からフルスペック（1920×1080[ピクセル](../Page/ピクセル.md "wikilink")）での[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送を行う。
@@ -354,7 +354,8 @@
 <tr class="odd">
 <td><p><a href="../Page/美の巨人たち.md" title="wikilink">美の巨人たち</a></p></td>
 <td><p>土曜 23:30 - 24:00</p></td>
-<td><p>放送時間拡大SPも不定期に放送、字幕放送なし</p></td>
+<td><p>2020年3月28日までは土曜 18:00 - 18:30で放送していた。 放送時間拡大SPも不定期に放送。</p>
+<p>地上波より6日遅れ。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/私の履歴書.md" title="wikilink">日経スペシャル 私の履歴書</a></p></td>
@@ -891,67 +892,62 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/生きるを伝える" title="wikilink">生きるを伝える</a></p></td>
-<td><p>日曜 21:54 - 22:00</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>世界で一番近い名画</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/世界で一番近い名画" title="wikilink">世界で一番近い名画</a></p></td>
 <td><p>月曜 20:55 - 21:00</p></td>
 <td><p>2020年4月6日スタート</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/家族記念日" title="wikilink">家族記念日</a></p></td>
-<td><p>火曜 20:55 - 21:00</p></td>
-<td><p>2019年4月9日スタート</p></td>
-</tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/未来レンズ" title="wikilink">未来レンズ</a></p></td>
+<td><p>火曜 20:55 - 21:00</p></td>
+<td><p>2020年4月7日スタート</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NEXCO東日本_Rresents_MY_BEST_WAY" title="wikilink">NEXCO東日本 Rresents MY BEST WAY</a></p></td>
 <td><p>火曜 21:54 - 22:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイデアの方程式" title="wikilink">アイデアの方程式</a></p></td>
 <td><p>水曜 21:54 - 22:00</p></td>
 <td><p>2019年4月10日スタート。地上波では<a href="../Page/関東ローカル.md" title="wikilink">関東ローカル</a>で放送。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おいしさのカタチ" title="wikilink">おいしさのカタチ</a></p></td>
 <td><p>木曜 20:55 - 21:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/チェンジ・ザ・ワールド" title="wikilink">チェンジ・ザ・ワールド</a></p></td>
 <td><p>木曜 21:54 - 22:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Beeワールド" title="wikilink">Beeワールド</a></p></td>
 <td><p>金曜 19:55 - 20:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/夢遺産_リーダーの夢" title="wikilink">夢遺産</a></p></td>
 <td><p>金曜 20:54 - 21:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/教えて!ドクター_家族の健康" title="wikilink">教えて!ドクター 家族の健康</a></p></td>
 <td><p>土曜 20:54 - 21:00</p></td>
 <td><p>2015年3月まで30分番組だった。<br />
 不定期再放送多数有り</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/探求の階段" title="wikilink">探求の階段</a></p></td>
 <td><p>土曜 21:55 - 22:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/100年の音楽" title="wikilink">100年の音楽</a></p></td>
 <td><p>土曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Biz_JAPAN" title="wikilink">Biz JAPAN</a></p></td>
 <td><p>不定期</p></td>
 <td></td>
@@ -1133,13 +1129,13 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 
 #### 単発特別番組枠
 
-・[ゴールデンクロス](https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/201911/25689_201911161700.html)
+  - [ゴールデンクロス](https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/201911/25689_201911161700.html)
 
 #### ミニ番組
 
 ### 深夜アニメ
 
-  - [十兵衛ちゃん -ラブリー眼帯の秘密-](https://ja.wikipedia.org/wiki/十兵衛ちゃん_-ラブリー眼帯の秘密- "wikilink")(本放送終了後に放送。第2期は未放送)
+  - [十兵衛ちゃん -ラブリー眼帯の秘密-](https://ja.wikipedia.org/wiki/十兵衛ちゃん_-ラブリー眼帯の秘密- "wikilink")（本放送終了後に放送。第2期は未放送）
   - [PROJECT ARMS](https://ja.wikipedia.org/wiki/PROJECT_ARMS "wikilink")
   - [PROJECT ARMS The 2nd Chapter](https://ja.wikipedia.org/wiki/PROJECT_ARMS "wikilink")
   - [天使な小生意気](../Page/天使な小生意気.md "wikilink")
@@ -1149,28 +1145,28 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
   - [モンキーターン](../Page/モンキーターン.md "wikilink")
   - [モンキーターンV](https://ja.wikipedia.org/wiki/モンキーターンV "wikilink")
   - [ギャラリーフェイク](../Page/ギャラリーフェイク.md "wikilink")
-  - [鉄人28号 (2004年版アニメ)](../Page/鉄人28号_\(2004年版アニメ\).md "wikilink")(本放送終了後に平日朝に二ヶ月かけて放送)
+  - [鉄人28号 (2004年版アニメ)](../Page/鉄人28号_\(2004年版アニメ\).md "wikilink")（本放送終了後に平日朝に二ヶ月かけて放送）
   - [格闘美神 武龍](../Page/格闘美神_武龍.md "wikilink")
   - [格闘美神 武龍 REBIRTH](https://ja.wikipedia.org/wiki/格闘美神_武龍_REBIRTH "wikilink")
   - [史上最強の弟子ケンイチ](../Page/史上最強の弟子ケンイチ.md "wikilink")
   - [ゴルゴ13](../Page/ゴルゴ13.md "wikilink")
-  - [ハヤテのごとく\!\!](../Page/ハヤテのごとく!_\(アニメ\).md "wikilink")(第3期、第4期は未放送)
+  - [ハヤテのごとく\!\!](../Page/ハヤテのごとく!_\(アニメ\).md "wikilink")（第3期、第4期は未放送）
   - [閃光のナイトレイド](https://ja.wikipedia.org/wiki/閃光のナイトレイド "wikilink")
-  - [バカとテストと召喚獣](https://ja.wikipedia.org/wiki/バカとテストと召喚獣 "wikilink")(本放送終了後に放送。第2期は未放送)
-  - [侵略\!イカ娘](https://ja.wikipedia.org/wiki/侵略!イカ娘 "wikilink")(本放送終了後2話連続で放送。第2期は未放送)
-  - [新テニスの王子様](https://ja.wikipedia.org/wiki/テニスの王子様_\(アニメ\) "wikilink")(本放送終了後に放送)
+  - [バカとテストと召喚獣](https://ja.wikipedia.org/wiki/バカとテストと召喚獣 "wikilink")（本放送終了後に放送。第2期は未放送）
+  - [侵略\!イカ娘](https://ja.wikipedia.org/wiki/侵略!イカ娘 "wikilink")（本放送終了後2話連続で放送。第2期は未放送）
+  - [新テニスの王子様](https://ja.wikipedia.org/wiki/テニスの王子様_\(アニメ\) "wikilink")（本放送終了後に放送）
   - [探検ドリランド](https://ja.wikipedia.org/wiki/探検ドリランド "wikilink")
-  - [戦勇。](https://ja.wikipedia.org/wiki/戦勇。 "wikilink")(本放送終了直前に第13話を除き2日間に渡って放送。第2期は未放送)
-  - [うーさーのその日暮らし](https://ja.wikipedia.org/wiki/うーさーのその日暮らし "wikilink")(本放送終了後2013年8月29日に第1期、2014年9月1日に第2期を一挙放送という形で放送)
+  - [戦勇。](https://ja.wikipedia.org/wiki/戦勇。 "wikilink")（本放送終了直前に第13話を除き2日間に渡って放送。第2期は未放送）
+  - [うーさーのその日暮らし](https://ja.wikipedia.org/wiki/うーさーのその日暮らし "wikilink")（本放送終了後2013年8月29日に第1期、2014年9月1日に第2期を一挙放送という形で放送）
   - [ソウルイーターノット\!](https://ja.wikipedia.org/wiki/ソウルイーターノット! "wikilink")
-  - [咲-Saki-](../Page/咲-Saki-.md "wikilink")(本放送終了後に放送。第2期、第3期は未放送)
+  - [咲-Saki-](../Page/咲-Saki-.md "wikilink")（本放送終了後に放送。第2期、第3期は未放送）
   - [戦国無双](https://ja.wikipedia.org/wiki/戦国無双4 "wikilink")
   - [ワンパンマン](https://ja.wikipedia.org/wiki/ワンパンマン "wikilink")
   - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")
   - [ハンドレッド](https://ja.wikipedia.org/wiki/ハンドレッド_\(小説\) "wikilink")（製作委員会参加）
   - [タブー・タトゥー](https://ja.wikipedia.org/wiki/タブー・タトゥー "wikilink")（製作委員会参加）
   - [D.Gray-man HALLOW](../Page/D.Gray-man.md "wikilink")
-  - [美男高校地球防衛部LOVE\!](https://ja.wikipedia.org/wiki/美男高校地球防衛部LOVE! "wikilink")LOVE\!(第1期は未放送)
+  - [美男高校地球防衛部LOVE\!](https://ja.wikipedia.org/wiki/美男高校地球防衛部LOVE! "wikilink")LOVE\!（第1期は未放送）
   - [灼熱の卓球娘](https://ja.wikipedia.org/wiki/灼熱の卓球娘 "wikilink")（製作委員会参加）
   - [恋愛暴君](https://ja.wikipedia.org/wiki/恋愛暴君 "wikilink")（製作委員会参加）
   - [あおおに〜じ・あにめぇしょん〜](https://ja.wikipedia.org/wiki/青鬼_\(ゲーム\) "wikilink")
@@ -1256,9 +1252,8 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 ## 外部リンク
 
   - [テレビ東京・BSテレ東 7ch](https://www.tv-tokyo.co.jp/)
-  - [会社情報 | 株式会社BSテレビ東京](https://www.bs-tvtokyo.co.jp/company/)
 
-<!-- end list -->
+  - [会社情報 | 株式会社BSテレビ東京](https://www.bs-tvtokyo.co.jp/company/)
 
   -
   -
@@ -1277,7 +1272,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 10. [YOMIURI ONLINE「BSデジタル10年＜スポンサー編＞ 広告媒体の価値が増大」](http://web.archive.org/web/20100822212133/http://www.yomiuri.co.jp/entertainment/tv/tnews/20100811-OYT8T00683.htm) [読売新聞](../Page/読売新聞.md "wikilink")、2010年[8月11日](../Page/8月11日.md "wikilink")（2010年8月11日時点の[アーカイブ](../Page/ウェブアーカイブ.md "wikilink")）
 11. なおBS局の社名に「テレビ」の文言が入るのは当社だけである。
 12.
-13. [そこ、掘り下げます。BSジャパンか、それ以外か。2013年度キャッチコピー](http://www.bs-tvtokyo.co.jp/kyokusen2013/index2.html)（BSジャパン）
+13. [そこ、掘り下げます。BSジャパンか、それ以外か。2013年度キャッチコピー](https://www.bs-tvtokyo.co.jp/kyokusen2013/index2.html)（BSジャパン）
 14. 読み方は「ビーエスジャパン、ななチャンネル」。
 15.
 16. 読み方は「ビーエスてれとう、ななチャンネル」。
@@ -1291,7 +1286,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 24. 月曜日のみ5時45分。ただし、2012年3月までは『NIKKEI Japan Report』が放送される第3月曜日に限り5時15分開始としていた。
 25. これ以前にも、2008年8月の[北京オリンピック開催期間中の深夜に録画中継を行った際](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")、中継の5分前に一度クロージングと停波を挟んだ上で（中継を行う旨の字幕を表示）、1分前からオープニングを経て中継を行ったことがある。また、同年4月13日深夜の[ロンドンマラソン](../Page/ロンドンマラソン.md "wikilink")中継時も、5時40分に終了し、5分後の5時45分から放送開始であった（地上波と同時放送）。
 26.
-27. [BSジャパン　オープニング＆クロージング　映像制作](http://www.tvu.co.jp/program/bsjapan_opcl_201611/)（テレビマンユニオン公式サイト）
+27. [BSジャパン　オープニング＆クロージング　映像制作](https://www.tvu.co.jp/program/bsjapan_opcl_201611/)（テレビマンユニオン公式サイト）
 28.
 29.
 30.
@@ -1315,4 +1310,4 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 48. BSは[NHK BS1で放映](../Page/NHK_BS1.md "wikilink")
 49. テレビ東京制作のBSジャパンオリジナルプログラム
 50. [開運\!なんでも鑑定団](../Page/開運!なんでも鑑定団.md "wikilink")を優先して放送中止しないので卓球の中継ができない為
-51. 参照HP：[1](http://www.bs-tvtokyo.co.jp/main/bangumi/anime_archive.html)
+51. 参照HP：[1](https://www.bs-tvtokyo.co.jp/main/bangumi/anime_archive.html)

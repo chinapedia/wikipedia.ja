@@ -1,9 +1,9 @@
 > この記事は[Help:URL](https://ja.wikipedia.org/wiki/Help:URL)から翻訳されています。
 
 
-ウィキペディアにおける、一般にアドレスと呼ばれる**[URI](https://ja.wikipedia.org/wiki/URI "wikilink")** ([URL](https://ja.wikipedia.org/wiki/URL "wikilink"))について説明します。ウィキペディアのURIは、主に、通常の記事を表示する際の単純な形式と、引数をとる形式の2種類があります。このうち、引数について主に説明しています。
+ウィキペディアにおける、一般にアドレスと呼ばれる**[URI](https://ja.wikipedia.org/wiki/URI "wikilink")** ([URL](https://ja.wikipedia.org/wiki/URL "wikilink"))について説明します。ウィキペディアのURIは、主に、通常の記事を表示する際の単純な形式と、引数をとる形式の2種類があります。このうち、引数について主に説明しています
 
-引数を理解することで、見たい範囲を指定するといったことができるようになるでしょう。
+引数を理解することで、見たい範囲を指定するといったことができるようになるでしょう。 引用してきたら、参考にして書き込むのもいいでしょう
 
 ## ページ
 

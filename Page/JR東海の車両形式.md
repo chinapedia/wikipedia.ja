@@ -146,7 +146,7 @@ style="font-size:120%;"| 表 - JR東海保有新幹線車両の変遷
 
         [制御方式は](https://ja.wikipedia.org/wiki/電気車の速度制御 "wikilink")[VVVFインバータ制御の](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")[半導体素子](../Page/半導体素子.md "wikilink")を313系の[IGBT素子から](../Page/絶縁ゲートバイポーラトランジスタ.md "wikilink")[SiC素子に変更され](../Page/炭化ケイ素.md "wikilink")、211系に比べて消費電力量を35%減とする。また、N700S系確認試験車の設計をフィードバックし、（JR東海の量産車両及び在来線向け車両では初めて）非常走行用二次電池を備え、停電になっても最寄り駅まで自走できる構造とする。最高速度は130km/h。車内はロングシートとなる予定。
 
-        2021年度から2025年度にかけて352両を新製し、名古屋・静岡都市圏を中心に、[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")・[東海道線静岡地区](https://ja.wikipedia.org/wiki/東海道線_\(静岡地区\) "wikilink")・[東海道本線名古屋地区](https://ja.wikipedia.org/wiki/東海道線_\(名古屋地区\) "wikilink")・[関西本線等に順次投入する予定となっており](https://ja.wikipedia.org/wiki/関西線_\(名古屋地区\) "wikilink")、これによって国鉄時代の車両がJR東海から一掃されることになる\[35\]\[36\]。
+        2021年度から2025年度にかけて352両を新製し、名古屋・静岡都市圏を中心に、[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")・[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")・[関西本線等に順次投入する予定となっており](https://ja.wikipedia.org/wiki/関西線_\(名古屋地区\) "wikilink")、これによって国鉄時代の車両がJR東海から一掃されることになる\[35\]\[36\]。
 
 ## 過去の在来線車両
 

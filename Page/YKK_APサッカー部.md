@@ -1,7 +1,7 @@
 > この記事は[YKK APサッカー部](https://ja.wikipedia.org/wiki/YKK_APサッカー部)から翻訳されています。
 
 
-**YKK APサッカー部**（ワイケイケイ・エイピー・サッカーぶ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")を本拠地としていた。[アローズ北陸](../Page/アローズ北陸.md "wikilink")と共に、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[カターレ富山](../Page/カターレ富山.md "wikilink")の前身となったクラブである。
+**YKK APサッカー部**（ワイケイケイ・エイピー・サッカーぶ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")を本拠地としていた。[北陸電力サッカー部アローズ北陸](https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸 "wikilink")と共に、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[カターレ富山](../Page/カターレ富山.md "wikilink")の前身となったクラブである。
 
 ## 概要・歴史
 
@@ -11,7 +11,7 @@
 
 [2004年](../Page/2004年.md "wikilink")からYKKから同社子会社の[YKK APのサッカー部に移行し](../Page/YKK_AP.md "wikilink")、監督に元[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の[楚輪博](../Page/楚輪博.md "wikilink")を迎えた。[2005年](../Page/2005年.md "wikilink")は20勝4分6敗で過去最高の2位となった。[2006年](../Page/2006年.md "wikilink")、[第86回天皇杯全日本サッカー選手権大会](../Page/第86回天皇杯全日本サッカー選手権大会.md "wikilink")3回戦で[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")に勝利を収めた。
 
-[2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")、富山県サッカー協会の要請に応じ、同じ富山を本拠地とする[アローズ北陸](../Page/アローズ北陸.md "wikilink")と2008年度より統合し、[カターレ富山](../Page/カターレ富山.md "wikilink")が発足した。
+[2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")、[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")を本拠地とする[北陸電力サッカー部アローズ北陸](https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸 "wikilink")と2008年度より統合し、富山県サッカー協会が提唱する「富山県民サッカークラブチーム」構想に参画すると発表した\[2\]。11月にチーム名が[カターレ富山](../Page/カターレ富山.md "wikilink")に決定した。
 
 ## チーム成績・歴代監督
 
@@ -563,18 +563,18 @@
 
 ## 主な結果・タイトル
 
-  - [日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")
+  - **[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")**
       - 準優勝：1回（2005)
-  - [北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")1部
+  - **[北信越フットボールリーグ](../Page/北信越フットボールリーグ.md "wikilink")1部**
       - 優勝：11回 (1975, 1981, 1984, 1988, 1989, 1990, 1992, 1993, 1995, 1999, 2000)
       - 準優勝：6回（1976, 1978, 1980, 1982, 1994, 1998)
-  - [富山県フットボールリーグ](https://ja.wikipedia.org/wiki/富山県フットボールリーグ "wikilink")1部
+  - **[富山県フットボールリーグ](https://ja.wikipedia.org/wiki/富山県フットボールリーグ "wikilink")1部**
       - 優勝：2回 (1973, 1974)
-  - [全国地域リーグ決勝大会](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")
+  - **[全国地域リーグ決勝大会](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")**
       - 準優勝：1回（2000)
-  - [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")
+  - **[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")**
       - 準優勝：1回（1993)
-  - [富山県サッカー選手権大会](../Page/富山県サッカー選手権大会.md "wikilink")（兼[天皇杯富山県予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）
+  - **[富山県サッカー選手権大会](../Page/富山県サッカー選手権大会.md "wikilink")（兼[天皇杯富山県予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）**
       - 優勝：5回 (1996, 1998, 2000, 2002, 2006)
       - 準優勝：7回（1997, 1999, 2001, 2003, 2004, 2005, 2007）
 
@@ -630,7 +630,7 @@
 <td><p>8,093</p></td>
 <td></td>
 <td><p>2,477</p></td>
-<td><p><a href="../Page/アローズ北陸.md" title="wikilink">アローズ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸" title="wikilink">アローズ</a></p></td>
 <td><p><a href="../Page/富山県五福公園陸上競技場.md" title="wikilink">五福</a></p></td>
 <td></td>
 <td><p>198</p></td>
@@ -698,7 +698,7 @@
 <td><p><a href="../Page/ホンダロックSC.md" title="wikilink">ロック</a></p></td>
 <td><p>桃山</p></td>
 <td><p>247</p></td>
-<td><p><a href="../Page/三菱水島FC.md" title="wikilink">三菱水島</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三菱自動車水島FC" title="wikilink">三菱水島</a></p></td>
 <td><p>魚津</p></td>
 <td><p>731</p></td>
 <td><p>17</p></td>
@@ -737,7 +737,7 @@
 
 ## 関連項目
 
-  - [アローズ北陸](../Page/アローズ北陸.md "wikilink")
+  - [北陸電力サッカー部アローズ北陸](https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸 "wikilink")
   - [:Category:YKK APサッカー部の選手](https://ja.wikipedia.org/wiki/Category:YKK_APサッカー部の選手 "wikilink")
 
 ## 参考文献
@@ -747,3 +747,4 @@
 [Category:現在活動していない日本のサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のサッカークラブ "wikilink") [Category:カターレ富山](https://ja.wikipedia.org/wiki/Category:カターレ富山 "wikilink") [Category:YKKグループ](https://ja.wikipedia.org/wiki/Category:YKKグループ "wikilink") [Category:1962年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1962年設立のスポーツチーム "wikilink") [Category:2007年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2007年廃止のスポーツチーム "wikilink") [Category:富山県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:富山県のスポーツチーム "wikilink")
 
 1.
+2.

@@ -890,6 +890,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
   - 樋口幸子（現フリーアナウンサー）
   - [小方恵子](../Page/小方恵子.md "wikilink")（[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")より移籍。その後、[FM新潟に移籍し](../Page/エフエムラジオ新潟.md "wikilink")、現在フリー）
   - [関根美紀](../Page/関根美紀.md "wikilink")（現FM新潟パーソナリティ）
+  - [棚橋美稚誉](https://ja.wikipedia.org/wiki/棚橋美稚誉 "wikilink")（1986年 - ）
   - 藤野綾子
   - [山田典子](https://ja.wikipedia.org/wiki/山田典子 "wikilink")
   - 鈴木美佳（退社後は[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")へ移籍）
@@ -898,7 +899,7 @@ NSTでは、『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α
   - [菊野麻子](../Page/菊野麻子.md "wikilink")（1992年 - 2000年。当時の報道制作部所属。現フリーアナウンサー、[Kアプローチ](https://ja.wikipedia.org/wiki/Kアプローチ "wikilink") (K\&A) 代表）
   - [根津ゆかり](../Page/根津ゆかり.md "wikilink")（1992年 - 1995年3月。その後、[ショップチャンネル](../Page/ショップチャンネル.md "wikilink")の開局時からのキャストとなる）
   - [大坪幸代](../Page/大坪幸代.md "wikilink")（1995年 - 2003年。現フリーアナウンサー）
-  - 柳華織
+  - 柳華織（1997年 - ）
   - 北村史子（1998年入社）
   - [草薙厚子](../Page/草薙厚子.md "wikilink")（現[SMAエンタテインメント](../Page/SMAエンタテインメント.md "wikilink")所属のジャーナリスト）
   - [田中真木子](https://ja.wikipedia.org/wiki/田中真木子 "wikilink")（1999年 - 2001年）

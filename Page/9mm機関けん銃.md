@@ -35,7 +35,7 @@
 
 ## 運用
 
-[1999年](../Page/1999年.md "wikilink")から[自衛隊](../Page/自衛隊.md "wikilink")が制式採用。[第1空挺団用](../Page/第1空挺団_\(陸上自衛隊\).md "wikilink")、[第12旅団と](../Page/第12旅団_\(陸上自衛隊\).md "wikilink")[西部方面普通科連隊](https://ja.wikipedia.org/wiki/西部方面普通科連隊 "wikilink")の[幹部自衛官などの自衛用](../Page/自衛官.md "wikilink")[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")、[海上自衛隊](../Page/海上自衛隊.md "wikilink")の[護衛艦](../Page/護衛艦.md "wikilink")と[潜水艦](../Page/潜水艦.md "wikilink")の搭載火器、[航空自衛隊](../Page/航空自衛隊.md "wikilink")の[基地警備隊](https://ja.wikipedia.org/wiki/基地警備隊 "wikilink")用火器として配備されている。
+[1999年](../Page/1999年.md "wikilink")から[自衛隊](../Page/自衛隊.md "wikilink")が制式採用。[第1空挺団用](../Page/第1空挺団_\(陸上自衛隊\).md "wikilink")、[第12旅団と西部方面普通科連隊](../Page/第12旅団_\(陸上自衛隊\).md "wikilink")（現・[第1水陸機動連隊](../Page/第1水陸機動連隊.md "wikilink")）の[幹部自衛官などの自衛用](../Page/自衛官.md "wikilink")[火器](https://ja.wikipedia.org/wiki/火器 "wikilink")、[海上自衛隊](../Page/海上自衛隊.md "wikilink")の[護衛艦](../Page/護衛艦.md "wikilink")と[潜水艦](../Page/潜水艦.md "wikilink")の搭載火器、[航空自衛隊](../Page/航空自衛隊.md "wikilink")の[基地警備隊](https://ja.wikipedia.org/wiki/基地警備隊 "wikilink")用火器として配備されている。
 
 [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")向けの生産はすでに終了しているが、海上、航空自衛隊向けの生産は現在も継続して行われている\[19\]\[20\]。
 

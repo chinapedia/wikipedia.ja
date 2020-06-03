@@ -1,7 +1,7 @@
 > この記事は[Xウイング](https://ja.wikipedia.org/wiki/Xウイング)から翻訳されています。
 
 
-[X-Wing_at_Wings_Over_the_Rockies.jpg](https://ja.wikipedia.org/wiki/File:X-Wing_at_Wings_Over_the_Rockies.jpg "fig:X-Wing_at_Wings_Over_the_Rockies.jpg") **Xウイング**（エックス - 、）は映画『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』に登場する架空の[戦闘機](../Page/戦闘機.md "wikilink")である。
+**Xウイング**（エックス - 、）は映画『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』に登場する架空の[戦闘機](../Page/戦闘機.md "wikilink")である。
 
 ## 概要
 

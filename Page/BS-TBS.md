@@ -285,24 +285,33 @@
 
 ### BS-TBS制作番組
 
+#### 映画
+
+| <small>番組名</small>     | <small>放送日時</small>             | <small>備考</small>                                                               |
+| ---------------------- | ------------------------------- | ------------------------------------------------------------------------------- |
+| <small>邦画デラックス</small> | <small>日曜 22:00 - 23:54</small> | <small>2019年10月13日スタート　邦画のみの放送で洋画は基本放送しない。</small> <small>終了時間は変動の場合あり。</small> |
+| <small>火曜デラックス</small> | <small>火曜 21:00 - 22:54</small> | <small>終了時間は変動の場合あり。</small>                                                    |
+| <small>土曜デラックス</small> | <small>土曜 21:00 - 22:54</small> | <small>終了時間は変動の場合あり。</small>                                                    |
+
 #### 紀行
 
-| 番組名                                                                          | 放送日時                 | 備考                                    |
-| ---------------------------------------------------------------------------- | -------------------- | ------------------------------------- |
-| [BS-TBSセレクション](https://ja.wikipedia.org/wiki/BS-TBSセレクション "wikilink")        | 月曜 - 金曜 7:00 - 7:54  | 2019年4月1日スタート                         |
-| [伊達な旅紀行 いいトコ\!みやぎ](https://ja.wikipedia.org/wiki/伊達な旅紀行_いいトコ!みやぎ "wikilink") | 月曜 22:54 - 23:00     | 2020年3月30日までは月曜 18:24 - 18:30で放送していた。 |
-| [奈良ふしぎ旅図鑑](https://ja.wikipedia.org/wiki/奈良ふしぎ旅図鑑 "wikilink")                | 水曜 20:54 - 21:00     |                                       |
-| [美しい日本に出会う旅](https://ja.wikipedia.org/wiki/美しい日本に出会う旅 "wikilink")            | 水曜 21:00 - 21:54     |                                       |
-| [彩〜日本遺産〜](https://ja.wikipedia.org/wiki/彩〜日本遺産〜 "wikilink")                  | 水曜 21:54 - 22:00     |                                       |
-| 新・地球絶景紀行                                                                     | 木曜 22:00 - 22:54     |                                       |
-| 大人の週末旅行〜にっぽん探訪〜                                                              | 木曜 20:54 - 21:00     |                                       |
-| [世界の窓](https://ja.wikipedia.org/wiki/世界の窓 "wikilink")                        | 金曜 22:54 - 23:00     |                                       |
-| 日本列島！ハテナの旅                                                                   | 年数回 18:30 - 19:30    |                                       |
-| JNNふるさと紀行                                                                    | 不定期 土曜 10:00 - 11:00 | 稀に日曜放送の場合有り。                          |
-| [湯のまち放浪記](https://ja.wikipedia.org/wiki/湯のまち放浪記 "wikilink")〜ちょいと、ひとっ風呂       | 不定期                  |                                       |
-| [極上のクルーズ紀行](https://ja.wikipedia.org/wiki/極上のクルーズ紀行 "wikilink")              | 不定期                  |                                       |
-| [ザ・ベストホテル](https://ja.wikipedia.org/wiki/ザ・ベストホテル "wikilink")                | 不定期                  |                                       |
-| [アメリカの町](https://ja.wikipedia.org/wiki/アメリカの町 "wikilink")                    | 不定期                  |                                       |
+| 番組名                                                                          | 放送日時                 | 備考                                         |
+| ---------------------------------------------------------------------------- | -------------------- | ------------------------------------------ |
+| [BS-TBSセレクション](https://ja.wikipedia.org/wiki/BS-TBSセレクション "wikilink")        | 月曜 - 金曜 7:00 - 7:54  | 2019年4月1日スタート                              |
+| [伊達な旅紀行 いいトコ\!みやぎ](https://ja.wikipedia.org/wiki/伊達な旅紀行_いいトコ!みやぎ "wikilink") | 月曜 22:54 - 23:00     | 2020年3月30日までは月曜 18:24 - 18:30で放送していた。      |
+| [奈良ふしぎ旅図鑑](https://ja.wikipedia.org/wiki/奈良ふしぎ旅図鑑 "wikilink")                | 水曜 20:54 - 21:00     |                                            |
+| [美しい日本に出会う旅](https://ja.wikipedia.org/wiki/美しい日本に出会う旅 "wikilink")            | 水曜 21:00 - 21:54     |                                            |
+| [彩〜日本遺産〜](https://ja.wikipedia.org/wiki/彩〜日本遺産〜 "wikilink")                  | 水曜 21:54 - 22:00     |                                            |
+| 新・地球絶景紀行                                                                     | 木曜 22:00 - 22:54     |                                            |
+| 大人の週末旅行〜にっぽん探訪〜                                                              | 木曜 20:54 - 21:00     |                                            |
+| [世界の窓](https://ja.wikipedia.org/wiki/世界の窓 "wikilink")                        | 金曜 22:54 - 23:00     |                                            |
+| 日本列島！ハテナの旅                                                                   | 年数回 18:30 - 19:30    |                                            |
+| JNNふるさと紀行                                                                    | 不定期 土曜 10:00 - 11:00 | 稀に日曜放送の場合有り。                               |
+| 至福の京都ふらり散歩                                                                   | 不定期                  | 2020年3月30日までは月曜 18:00 - 18:24でレギュラー放送していた。 |
+| [湯のまち放浪記](https://ja.wikipedia.org/wiki/湯のまち放浪記 "wikilink")〜ちょいと、ひとっ風呂       | 不定期                  |                                            |
+| [極上のクルーズ紀行](https://ja.wikipedia.org/wiki/極上のクルーズ紀行 "wikilink")              | 不定期                  |                                            |
+| [ザ・ベストホテル](https://ja.wikipedia.org/wiki/ザ・ベストホテル "wikilink")                | 不定期                  |                                            |
+| [アメリカの町](https://ja.wikipedia.org/wiki/アメリカの町 "wikilink")                    | 不定期                  |                                            |
 
 #### 報道
 
@@ -350,7 +359,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本名曲アルバム" title="wikilink">日本名曲アルバム</a></p></td>
 <td><p>火・水曜 18:00 - 18:24</p></td>
-<td></td>
+<td><p>2020年3月25日を最後に放送中断中。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/SONG_TO_SOUL〜永遠の一曲〜" title="wikilink">SONG TO SOUL〜永遠の一曲〜</a></p></td>
@@ -370,7 +379,7 @@
 </tr>
 <tr class="even">
 <td><p>うた恋！音楽会</p></td>
-<td><p>月1回</p></td>
+<td><p>月1回 19:00 - 20:54</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -387,7 +396,7 @@
 | [吉田類の酒場放浪記](https://ja.wikipedia.org/wiki/吉田類の酒場放浪記 "wikilink")                         | 月曜 21:00 - 22:00   |                                                                                                            |
 | [町中華で飲ろうぜ](../Page/町中華で飲ろうぜ.md "wikilink")                                              | 月曜 23:00 - 24:00   | 2019年4月1日スタート                                                                                              |
 | [TIME is LIFE〜トキメキの時〜](https://ja.wikipedia.org/wiki/TIME_is_LIFE〜トキメキの時〜 "wikilink")   | 火曜 21:54 - 22:00   |                                                                                                            |
-| スイモクチャンネル                                                                               | 水・木曜 23:00 - 23:54 | 2020年4月1日スタート 新型コロナウイルスの感染拡大で現在一時休止中。                                                                      |
+| スイモクチャンネル                                                                               | 水・木曜 23:00 - 23:54 | 2020年4月1日スタート。 2020年4月8日から2020年5月7日までは新型コロナウイルスの感染拡大防止の為放送中止していた。                                          |
 | [釣り百景](https://ja.wikipedia.org/wiki/釣り百景 "wikilink")                                   | 木曜 22:00 - 22:54   |                                                                                                            |
 | [素晴らしい明日](https://ja.wikipedia.org/wiki/素晴らしい明日 "wikilink")                             | 金曜 20:54 - 21:00   | 2018年10月5日スタート                                                                                             |
 | [おんな酒場放浪記](https://ja.wikipedia.org/wiki/おんな酒場放浪記 "wikilink")                           | 金曜 23:00 - 24:00   | 『吉田類の酒場放浪記』の姉妹番組にあたる                                                                                       |
@@ -397,36 +406,6 @@
 | \[\[バナナマンのせっかくグルメ                                                                       | |バナナマンのせっかくグルメ     | 傑作選\]\]                                                                                                    |
 | [〜癒・笑・涙・夢〜夕焼け酒場](https://ja.wikipedia.org/wiki/夕焼け酒場 "wikilink")                        | 土曜 18:00 - 18:30   |                                                                                                            |
 | [ドリップスタイル 〜コーヒーがくれた時間〜](https://ja.wikipedia.org/wiki/ドリップスタイル_〜コーヒーがくれた時間〜 "wikilink") | 土曜 20:54 - 21:00   | 2018年10月13日スタート                                                                                            |
-
-#### 映画
-
-<table>
-<thead>
-<tr class="header">
-<th><p>番組名</p></th>
-<th><p>放送日時</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>邦画デラックス</p></td>
-<td><p>日曜 22:00 - 23:54</p></td>
-<td><p>邦画のみの放送で洋画は放送しない。終了時間は変動の場合あり。<br />
-稀にミステリー・セレクションを放送の場合有り。</p></td>
-</tr>
-<tr class="even">
-<td><p>火曜デラックス</p></td>
-<td><p>火曜 21:00 - 22:54</p></td>
-<td><p>終了時間は変動の場合あり。</p></td>
-</tr>
-<tr class="odd">
-<td><p>土曜デラックス</p></td>
-<td><p>土曜 21:00 - 22:54</p></td>
-<td><p>終了時間は変動の場合あり。</p></td>
-</tr>
-</tbody>
-</table>
 
 #### その他
 
@@ -538,7 +517,7 @@
 ほとんどの作品で<a href="https://ja.wikipedia.org/wiki/文字多重放送" title="wikilink">字幕放送を実施</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p>ドラマ・<a href="../Page/夫婦道.md" title="wikilink">夫婦道</a></p></td>
+<td><p>ドラマ・<a href="../Page/夫婦道.md" title="wikilink">夫婦道</a>（第2シリーズ）</p></td>
 <td><p>月曜 - 金曜 17:00 - 17:54</p></td>
 <td></td>
 </tr>
@@ -835,7 +814,7 @@
 30. 2018年10月現在では地上波レギュラーネット各局より1日遅れ（2015年3月までは毎日放送より2日遅れ）。2020年4月より地上波レギュラーネット各局と同日放送に移行。
 31. 本放送は[BS11で放送](../Page/日本BS放送.md "wikilink")。
 32. 1話のみ、各地の系列局でも放送された。
-33. 地上波では[深夜帯系列10局ネット](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")。本放送終了後[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NBC以外の残りTBS系列局](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")16局で放送。
+33. 地上波では[深夜帯系列10局ネット](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")。本放送終了後[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NBC以外の残りTBS系列局](../Page/長崎放送.md "wikilink")16局で放送。
 34. 『[土6](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")』枠の最終作品。のちにリピート放送を実施。
 35. レギュラー放送版は[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送済み。
 36. 『[日5](../Page/毎日放送制作日曜夕方5時枠のアニメ.md "wikilink")』枠の第1回作品。

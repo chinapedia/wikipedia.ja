@@ -25,6 +25,7 @@
 
   - [MiG-1](../Page/MiG-1_\(航空機\).md "wikilink") - [戦闘機](../Page/戦闘機.md "wikilink")
   - [MiG-3](https://ja.wikipedia.org/wiki/MiG-3_\(航空機\) "wikilink") - 戦闘機
+  - [MiG-5](https://ja.wikipedia.org/wiki/MiG-5_\(航空機\) "wikilink") - 戦闘機
   - [MiG-9](../Page/MiG-9_\(航空機\).md "wikilink") 「ファーゴ」 - 戦闘機
   - [MiG-15](../Page/MiG-15_\(航空機\).md "wikilink") 「ファゴット」 - 戦闘機
   - [MiG-17](../Page/MiG-17_\(航空機\).md "wikilink") 「フレスコ」 - 戦闘機

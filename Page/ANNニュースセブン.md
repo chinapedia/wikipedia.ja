@@ -9,7 +9,7 @@
 
 放送時間は開始当初は午前7:00 - 7:30の30分間で、当時は朝ニュースの放送時間がNHKが20分、他のキー局が15分と言う中で、唯一の[ワイドニュース](../Page/ワイドニュース.md "wikilink")として注目を集めた。1978年10月からは[モスクワオリンピック](https://ja.wikipedia.org/wiki/モスクワオリンピック "wikilink")の情報を伝えるオリンピックニュースをこの番組の後に放送、1979年4月以降は7:15までの放送となり、以降朝のニュースは結果的に15分に戻る形となった。
 
-1985年9月28日に[テレビ朝日アーク放送センター](../Page/テレビ朝日アーク放送センター.md "wikilink")が完成。その日の『ニュースセブン』が同放送センターからの最初の番組となった\[1\]。
+1985年4月1日からはニュースワイド番組『[おはようTODAY](https://ja.wikipedia.org/wiki/おはようTODAY "wikilink")』（6:00-7:15）を開始。当番組も内包されることとなる（1986年3月28日まで）。また、1985年9月28日には[テレビ朝日アーク放送センター](../Page/テレビ朝日アーク放送センター.md "wikilink")が完成。それに伴い同月30日の本番組（厳密には放送当時に当番組を内包していた『おはようTODAY』）が同放送センターから生放送される最初の番組となった\[1\]。
 
 ## 歴代のメインキャスター
 
@@ -44,21 +44,27 @@
 </tr>
 <tr class="even">
 <td><p>1985年4月 - 1985年9月</p></td>
-<td><p>（『おはよう!TODAY』<br />
+<td><p>（『<a href="https://ja.wikipedia.org/wiki/おはようTODAY" title="wikilink">おはようTODAY</a>』<br />
 キャスターが兼務）</p></td>
 <td><p><a href="../Page/吉澤一彦.md" title="wikilink">吉澤一彦</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1985年10月 - 1987年3月</p></td>
-<td><p>（シフト勤務）</p></td>
+<td><p>1985年10月 - 1986年3月</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1987年4月 - 1987年9月</p></td>
-<td><p><a href="../Page/松井康真.md" title="wikilink">松井康真</a>、<a href="../Page/雪野智世.md" title="wikilink">雪野智世</a></p></td>
+<td><p>1986年4月 - 1987年3月</p></td>
+<td><p>（シフト勤務）</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1987年4月 - 1987年9月</p></td>
+<td><p>（シフト勤務）</p></td>
+<td><p><a href="../Page/松井康真.md" title="wikilink">松井康真</a>、<a href="../Page/雪野智世.md" title="wikilink">雪野智世</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -146,8 +152,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
-<td><p>静岡けんみんテレビ<br />
-（現：<a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡朝日テレビ</a>）</p></td>
+<td><p>静岡県民放送<br />
+（静岡けんみんテレビ、現：<a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡朝日テレビ</a>）</p></td>
 <td><p>1979年7月から</p></td>
 <td></td>
 </tr>

@@ -248,7 +248,7 @@
 本来放送するはずだった番組の他日振替先となる木曜 5:00 - 5:30の放送が臨時で休止となる。<br />
 2019年10月から5時台の放送は平日に音楽番組が編成されたため、<br />
 土・日曜日のみとなった（週により休止となる日もある）。<br />
-2020年4月1日から、142chで月曜 - 金曜18:00 - 19:00の放送を開始</p></td>
+2020年3月30日から、142chで月曜 - 金曜18:00 - 19:00の放送を開始</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/深層NEWS" title="wikilink">深層NEWS</a></p></td>
@@ -387,48 +387,54 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴルフサバイバル" title="wikilink">ゴルフサバイバル</a></p></td>
-<td><p>金曜 21:00 - 22:00</p></td>
+<td><p>金曜 21:00 - 22:00 【アンコール】土曜 8:00 - 9:00</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ワールドレディスチャンピオンシップサロンパスカップ" title="wikilink">ワールドレディスチャンピオンシップ サロンパスカップ</a></p></td>
+<td><p>毎年5月第1or2金曜 - 日曜</p></td>
+<td><p>2019年までは金曜深夜と土曜 - 日曜の午前と深夜でダイジェストで放送していた。 2020年は<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルス感染拡大の影響で大会自体が中止の為</a>、2019年の最終日を5月8日 19:30 - 20:54に再放送した。</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モータースポーツ" title="wikilink">モータースポーツ</a></p></td>
 <td><p>速報！MotoGP</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フォーミュラE" title="wikilink">フォーミュラE</a></p></td>
 <td><p>ダイジェスト放送</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FIM世界耐久選手権.md" title="wikilink">FIM世界耐久選手権</a></p></td>
 <td><p>ダイジェスト放送<br />
 （2019年の<a href="https://ja.wikipedia.org/wiki/ル・マン24時間耐久ロードレース" title="wikilink">ル・マン24時間</a>（一部）・<a href="../Page/鈴鹿8時間耐久ロードレース.md" title="wikilink">鈴鹿8耐は生中継</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/世界ラリー選手権.md" title="wikilink">世界ラリー選手権</a></p></td>
 <td><p>ダイジェスト放送</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ロードレース世界選手権.md" title="wikilink">ロードレース世界選手権</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>その他</p></td>
 <td><p>ストロングポイント</p></td>
 <td><p>日曜 17:30 - 18:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ボウリング革命_P★League.md" title="wikilink">ボウリング革命 P★League</a></p></td>
 <td><p>土曜 23:00 - 23:30</p></td>
 <td><p>制作協力 - ワイズメンコミュニケーションズ、オフィスて・ら</p></td>
@@ -489,7 +495,7 @@
 <tr class="even">
 <td><p>KING OF DANCE</p></td>
 <td><p>木曜 23:00 - 23:30</p></td>
-<td><p>2020年5月7日スタート予定 地上波では読売テレビと中京テレビで放送</p></td>
+<td><p>2020年5月7日スタート 地上波では読売テレビと中京テレビで放送</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -497,7 +503,7 @@
 <td><p>サスペンス名作選</p></td>
 <td><p>土曜 - 日曜 12:00 - 13:52</p></td>
 <td><p>火曜サスペンス劇場の再放送枠</p></td>
-<td><p>ドラマ以外の<a href="../Page/特別番組.md" title="wikilink">特別番組</a>や通販番組が編成される週もある</p></td>
+<td><p>ドラマ以外の<a href="../Page/特別番組.md" title="wikilink">特別番組</a>や通販番組が編成される週もある。 その場合、14:00からの放送or休止となる。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -627,7 +633,7 @@
 <tr class="odd">
 <td><p>全国一斉生クイズバトル　Q-フェス！</p></td>
 <td><p>第3金曜 23:00 - 24:00</p></td>
-<td><p><s>2020年4月17日スタート予定</s> 放送開始日変更、開始日未定。</p></td>
+<td><p>2020年5月29日スタート予定 当初は2020年4月17日スタート予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染拡大防止の為延期となった</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>てぇてぇTV</p></td>

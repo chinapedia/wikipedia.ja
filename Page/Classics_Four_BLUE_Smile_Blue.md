@@ -17,7 +17,7 @@
 1.  **Smile Blue 〜DEEN featuring 押尾コータロー〜**
       -
         作詞：[池森秀一](../Page/池森秀一.md "wikilink") / 作曲：[山根公路](../Page/山根公路.md "wikilink") / 編曲：山根公路
-        [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』の「エンタメSPORTS」テーマソング。期間は、8月6日から9月末まで。
+        [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』の「エンタメSPORTS」テーマソング。期間は、8月6日から9月末まで。
 2.  **Sunrise Sunset**
       -
         作詞：池森秀一 / 作曲・編曲：[田川伸治](../Page/田川伸治.md "wikilink")
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』
+  - 『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』
   - 『[ナツベスト 〜DEEN SUMMER TIME MELODIES〜](https://ja.wikipedia.org/wiki/クロール_\(DEENのアルバム\) "wikilink")』 (初回限定盤のみ)
   - 『[DEENAGE MEMORY -20周年記念ベストアルバム-](https://ja.wikipedia.org/wiki/DEENAGE_MEMORY_-20周年記念ベストアルバム- "wikilink")』
   - 『[バタフライ](https://ja.wikipedia.org/wiki/バタフライ_\(DEENのアルバム\) "wikilink")』
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』
+  - 『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』
   - 『[ナツベスト 〜DEEN SUMMER TIME MELODIES〜](https://ja.wikipedia.org/wiki/クロール_\(DEENのアルバム\) "wikilink")』(初回限定盤のみ)
   - 『[Another Side Memories〜Precious Best II〜](https://ja.wikipedia.org/wiki/Another_Side_Memories〜Precious_Best_II〜 "wikilink")』
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』
+  - 『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』
   - 『[ナツベスト 〜DEEN SUMMER TIME MELODIES〜](https://ja.wikipedia.org/wiki/クロール_\(DEENのアルバム\) "wikilink")』(初回限定盤のみ)
 
 <!-- end list -->
@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - 『[DEEN The Best Classics](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")』
+  - 『[DEEN The Best Classics](../Page/DEEN_The_Best_Classics.md "wikilink")』
 
 ## 参加ゲストミュージシャン
 

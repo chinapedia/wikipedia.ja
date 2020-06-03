@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-1.  **[太陽のカサ](https://ja.wikipedia.org/wiki/太陽のカサ "wikilink")**
+1.  **[太陽のカサ](../Page/太陽のカサ.md "wikilink")**
       -
         作詞：水島歌菜 / 作曲：片山義美
         デビューシングル。[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")『[奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")』エンディングテーマ
@@ -49,6 +49,6 @@
 12. **ふたりで〜Acoustic Ver.〜**
       -
         作詞：水島歌菜 / 作曲：片山義美
-        ボーナストラック。[デビューシングルカップリング曲のアコースティックバージョン](https://ja.wikipedia.org/wiki/太陽のカサ "wikilink")。
+        ボーナストラック。[デビューシングルカップリング曲のアコースティックバージョン](../Page/太陽のカサ.md "wikilink")。
 
 [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink")

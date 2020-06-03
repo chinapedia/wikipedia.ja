@@ -70,7 +70,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1995" title="wikilink">1995</a></p></td>
 <td><p><a href="../Page/UEFAインタートトカップ.md" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループ10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベイタル・エルサレムFC" title="wikilink">ベイタル・エルサレム</a></p></td>
+<td><p><a href="../Page/ベイタル・エルサレムFC.md" title="wikilink">ベイタル・エルサレム</a></p></td>
 <td><p>-</p></td>
 <td><p>1–0</p></td>
 <td><p>'''3位敗退</p></td>
@@ -160,7 +160,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">2015-16</a></p></td>
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベイタル・エルサレムFC" title="wikilink">ベイタル・エルサレム</a></p></td>
+<td><p><a href="../Page/ベイタル・エルサレムFC.md" title="wikilink">ベイタル・エルサレム</a></p></td>
 <td><p>5–1</p></td>
 <td><p>4–1</p></td>
 <td><p>'''9–2</p></td>

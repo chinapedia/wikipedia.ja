@@ -44,7 +44,7 @@ Image:ETR 485 Frecciargento in Bolzano (08-2013).JPG|[ETR485](https://ja.wikiped
     現在は在来線を経由しナポリまで運行しているが、高速新線の開業は[2009年](../Page/2009年.md "wikilink")を予定している。この区間は唯一の新駅となるアフラゴラ駅が工事中で在来線との主要連絡駅として機能する。設計はイラク人[建築家](../Page/建築家.md "wikilink")[ザハ・ハディッド](../Page/ザハ・ハディッド.md "wikilink")である。沿線にはトンネルが110箇所（内77箇所は環境問題によりトンネル化）[高架橋](../Page/高架橋.md "wikilink")・[橋梁](https://ja.wikipedia.org/wiki/橋梁 "wikilink")が88箇所、[盛土](../Page/盛土.md "wikilink")268箇所、[切土](../Page/切土.md "wikilink")192箇所である。
     ローマ - ナポリ間には149箇所の埋蔵遺跡がある。TAVは建設工事において入札前に情報を集め、[マフィア](../Page/マフィア.md "wikilink")関連の建設会社の参入を防止している。
       - 信号システム
-          - 列車は[ETCS](../Page/ETCS.md "wikilink")レベル2の信号システムと[GSM-R](https://ja.wikipedia.org/wiki/GSM-R "wikilink")（Grobal System for Communication-Rail デジタル移動電話方式[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")に鉄道向け条件を付加した物）から構成される[ERTMS](https://ja.wikipedia.org/wiki/ERTMS "wikilink")により制御される。この区間はイタリアの鉄道路線では初めてERTMSが採用される路線である。
+          - 列車は[ETCS](../Page/ETCS.md "wikilink")レベル2の信号システムと[GSM-R](../Page/GSM-R.md "wikilink")（Grobal System for Communication-Rail デジタル移動電話方式[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")に鉄道向け条件を付加した物）から構成される[ERTMS](https://ja.wikipedia.org/wiki/ERTMS "wikilink")により制御される。この区間はイタリアの鉄道路線では初めてERTMSが採用される路線である。
       - 電力供給
           - イタリアの鉄道路線では初めて[交流電化](../Page/交流電化.md "wikilink")25[k](../Page/キロ.md "wikilink")[V](../Page/ボルト_\(単位\).md "wikilink")・50[Hzが採用されている](../Page/ヘルツ.md "wikilink")。[直流電化](../Page/直流電化.md "wikilink")より費用が低減出来るため採用された。在来区間は今まで通り直流電化3kVである。
       - 車両

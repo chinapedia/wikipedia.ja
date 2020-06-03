@@ -20,7 +20,7 @@
 ## 関連項目
 
   - [タンジェ＝カサブランカ高速鉄道](https://ja.wikipedia.org/wiki/タンジェ＝カサブランカ高速鉄道 "wikilink")
-  - [ジブラルタルトンネル](https://ja.wikipedia.org/wiki/ジブラルタルトンネル "wikilink")
+  - [ジブラルタルトンネル](../Page/ジブラルタルトンネル.md "wikilink")
   - [E1100形、E1200形、E1250形電気機関車](https://ja.wikipedia.org/wiki/モロッコ国鉄E1100形電気機関車 "wikilink") - [1977年](../Page/1977年.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にかけて日本から輸出された[日立製作所](../Page/日立製作所.md "wikilink")製の[電気機関車](../Page/電気機関車.md "wikilink")。
 
 ## 外部リンク

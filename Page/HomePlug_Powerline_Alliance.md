@@ -58,7 +58,7 @@ HomePlugはライバル団体でもあるHD-PLC Allianceや[UPAと共に](https:
   - [シャープ](../Page/シャープ.md "wikilink") - HN-VA10S、HN-VA40S
   - [ゼクセロン](http://www.zexelon.co.jp/text/product.html#plcadapter) - ZAX-100NS、ZAX-100NW
   - [住友電工](https://ja.wikipedia.org/wiki/住友電工 "wikilink")
-  - [ザイセル](https://ja.wikipedia.org/wiki/ザイセル "wikilink") - PLA-400
+  - [ザイセル](../Page/ザイセル.md "wikilink") - PLA-400
   - [ハロッズ](../Page/ハロッズ.md "wikilink") - HP7050/S
   - [NTTネオメイト](../Page/NTTネオメイト.md "wikilink") - SN-200HP
 

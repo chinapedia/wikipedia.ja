@@ -27,21 +27,25 @@
 
 ## メンバー
 
-  - 加藤沙香菜（かとう さかな）
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。また、楽曲の作詞・作曲も手掛ける。
-    デビュー時から2003年まで、**加藤沙果菜**名義で活動していた。
-  - 林良（はやし りょう）
-    [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。また、楽曲の作曲・編曲も手掛ける。
-    バンドでの活動以外に、[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")の講師も務め、定期的にジャズ・[フュージョン系バンドの](../Page/フュージョン_\(音楽\).md "wikilink")[セッション](../Page/セッション.md "wikilink")・ライブも行っている。
+  - **加藤沙香菜**（かとう さかな）
+
+[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。楽曲の作詞・作曲も手掛ける。デビュー時から2003年まで、**加藤沙果菜**名義で活動していた。
+
+  - **林良**（はやし りょう）
+
+[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。楽曲の作曲・編曲も手掛ける。演奏技術が高く評価されて、2008年2月には[野呂一生](../Page/野呂一生.md "wikilink")リーダーで、[神保彰](../Page/神保彰.md "wikilink")、[扇谷研人](https://ja.wikipedia.org/wiki/扇谷研人 "wikilink")、[箭島裕治](https://ja.wikipedia.org/wiki/箭島裕治 "wikilink")と[ISSEI NORO INSPIRITSを結成し活動を続けている](https://ja.wikipedia.org/wiki/ISSEI_NORO_INSPIRITS "wikilink")。
+
+バンドでの活動以外に、[ミューズ音楽院](https://ja.wikipedia.org/wiki/ミューズ音楽院 "wikilink")の講師も務め、定期的にジャズ・[フュージョン系バンドの](../Page/フュージョン_\(音楽\).md "wikilink")[セッション](../Page/セッション.md "wikilink")・ライブも行っている。
 
 ### 元メンバー
 
-  - 熊井謙二（くまい けんじ）
-    [ドラムス担当](../Page/ドラムセット.md "wikilink")。元バンドリーダー。
-    学校の特待生として[ハリウッド](../Page/ハリウッド.md "wikilink")のスクールに渡米入学する。[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")留学の経験も持つ。
-  - 上平悟史（うえだいら さとし）
-    [ギター](../Page/ギター.md "wikilink")担当。
-    幼少の頃を[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[オハイオ州](../Page/オハイオ州.md "wikilink")で生活。
+  - **熊井謙二**（くまい けんじ）
+
+[ドラムス担当](../Page/ドラムセット.md "wikilink")。元バンドリーダー。学校の特待生として[ハリウッド](../Page/ハリウッド.md "wikilink")のスクールに渡米入学する。[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")留学の経験も持つ。
+
+  - **上平悟史**（うえだいら さとし）
+
+[ギター](../Page/ギター.md "wikilink")担当。幼少の頃を[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[オハイオ州](../Page/オハイオ州.md "wikilink")で生活。
 
 ## 作品
 

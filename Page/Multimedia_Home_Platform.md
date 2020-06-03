@@ -32,14 +32,14 @@ MHP [セットトップボックス](../Page/セットトップボックス.md "
 ## 関連項目
 
   - [電波産業会](../Page/電波産業会.md "wikilink") (ARIB)
-  - [BD-J](https://ja.wikipedia.org/wiki/BD-J "wikilink")
+  - [BD-J](../Page/BD-J.md "wikilink")
   - [双方向番組](../Page/双方向番組.md "wikilink")
   - [IP放送](../Page/IP放送.md "wikilink")
-  - [MHEG-5](https://ja.wikipedia.org/wiki/MHEG-5 "wikilink")
+  - [MHEG-5](../Page/MHEG-5.md "wikilink")
   - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [OSGi](../Page/OSGi.md "wikilink")
   - [データ放送](../Page/データ放送.md "wikilink")
-  - [DVB-H](https://ja.wikipedia.org/wiki/DVB-H "wikilink")
+  - [DVB-H](../Page/DVB-H.md "wikilink")
 
 ## 参考文献
 

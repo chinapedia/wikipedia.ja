@@ -1,7 +1,7 @@
 > この記事は[RBD](https://ja.wikipedia.org/wiki/RBD)から翻訳されています。
 
 
-**RBD**は[メキシコ](../Page/メキシコ.md "wikilink")で活躍していたポップグループ。[テレノベラ](https://ja.wikipedia.org/wiki/テレノベラ "wikilink")（昼ドラマ）Rebeldeの音楽を担当し、[ラテン・グラミー賞](https://ja.wikipedia.org/wiki/ラテン・グラミー賞 "wikilink")にノミネートされたことがあった。現在は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")圏だけでなく、世界で最も人気のある音楽グループであった。RBD は 4 年間以上 5700 万レコードと 1700 万以上のデジタル シングル販売\[1\]
+**RBD**は[メキシコ](../Page/メキシコ.md "wikilink")で活躍していたポップグループ。[テレノベラ](../Page/テレノベラ.md "wikilink")（昼ドラマ）Rebeldeの音楽を担当し、[ラテン・グラミー賞](https://ja.wikipedia.org/wiki/ラテン・グラミー賞 "wikilink")にノミネートされたことがあった。現在は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")圏だけでなく、世界で最も人気のある音楽グループであった。RBD は 4 年間以上 5700 万レコードと 1700 万以上のデジタル シングル販売\[1\]
 
 ## メンバー
 

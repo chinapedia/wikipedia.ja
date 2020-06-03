@@ -105,7 +105,7 @@
 <td><p><a href="../Page/木村祐一.md" title="wikilink">木村祐一</a><br />
 高橋純（監督補）</p></td>
 <td><p>木村祐一<br />
-<a href="https://ja.wikipedia.org/wiki/長谷川朝二" title="wikilink">長谷川朝二</a><br />
+<a href="../Page/長谷川朝二.md" title="wikilink">長谷川朝二</a><br />
 <a href="../Page/遠藤みちスケ.md" title="wikilink">遠藤みちスケ</a></p></td>
 <td><p>木村祐一</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/橋本拓弥" title="wikilink">橋本拓弥</a>（残暑）、<a href="../Page/中野公美子.md" title="wikilink">中野公美子</a>、板尾創路、<a href="../Page/オリエンタルラジオ.md" title="wikilink">オリエンタルラジオ</a>、<a href="../Page/おはよう。.md" title="wikilink">芦澤和哉</a>、<a href="../Page/アホマイルド.md" title="wikilink">アホマイルド</a>、<a href="https://ja.wikipedia.org/wiki/ゆったり感" title="wikilink">ゆったり感</a>、<a href="../Page/えんにち.md" title="wikilink">えんにち</a></p></td>
@@ -115,7 +115,7 @@
 <td><p><a href="../Page/松本康太.md" title="wikilink">松本康太</a>（<a href="../Page/レギュラー_(お笑い).md" title="wikilink">レギュラー</a>）</p></td>
 <td><p>三宮浩嗣</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボン溝黒" title="wikilink">ボン溝黒</a>（<a href="../Page/カナリア_(お笑い).md" title="wikilink">カナリア</a>）</p></td>
-<td><p><a href="../Page/福田転球.md" title="wikilink">福田転球</a>、<a href="https://ja.wikipedia.org/wiki/平田敦子" title="wikilink">平田敦子</a>、<a href="../Page/森三中.md" title="wikilink">森三中</a>、重岡謙作（<a href="../Page/ラフ・コントロール.md" title="wikilink">ラフ・コントロール</a>）、<a href="../Page/石綿文太.md" title="wikilink">石綿文太</a>、<a href="../Page/後藤ひろひと.md" title="wikilink">後藤ひろひと</a>、<a href="../Page/原西孝幸.md" title="wikilink">原西孝幸</a>（<a href="../Page/FUJIWARA.md" title="wikilink">FUJIWARA</a>）、<a href="../Page/なだぎ武.md" title="wikilink">なだぎ武</a>（ザ・プラン9）、<a href="../Page/レギュラー_(お笑い).md" title="wikilink">レギュラー</a>、<a href="../Page/安達健太郎.md" title="wikilink">安達健太郎</a>（カナリア）、<a href="https://ja.wikipedia.org/wiki/石川穂乃華" title="wikilink">大塚まひろ</a>、<a href="../Page/村上ショージ.md" title="wikilink">村上ショージ</a></p></td>
+<td><p><a href="../Page/福田転球.md" title="wikilink">福田転球</a>、<a href="../Page/平田敦子.md" title="wikilink">平田敦子</a>、<a href="../Page/森三中.md" title="wikilink">森三中</a>、重岡謙作（<a href="../Page/ラフ・コントロール.md" title="wikilink">ラフ・コントロール</a>）、<a href="../Page/石綿文太.md" title="wikilink">石綿文太</a>、<a href="../Page/後藤ひろひと.md" title="wikilink">後藤ひろひと</a>、<a href="../Page/原西孝幸.md" title="wikilink">原西孝幸</a>（<a href="../Page/FUJIWARA.md" title="wikilink">FUJIWARA</a>）、<a href="../Page/なだぎ武.md" title="wikilink">なだぎ武</a>（ザ・プラン9）、<a href="../Page/レギュラー_(お笑い).md" title="wikilink">レギュラー</a>、<a href="../Page/安達健太郎.md" title="wikilink">安達健太郎</a>（カナリア）、<a href="https://ja.wikipedia.org/wiki/石川穂乃華" title="wikilink">大塚まひろ</a>、<a href="../Page/村上ショージ.md" title="wikilink">村上ショージ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -185,7 +185,7 @@
 <td><p><a href="../Page/チャド・マレーン.md" title="wikilink">チャド・マレーン</a>（<a href="../Page/チャド・マレーン.md" title="wikilink">ジパング上陸作戦</a>）</p></td>
 <td><p>チャド・マレーン</p></td>
 <td><p>チャド・マレーン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Gordon_Baxter" title="wikilink">Gordon Baxter</a>、加藤貴博（<a href="../Page/チャド・マレーン.md" title="wikilink">ジパング上陸作戦</a>）、ヒデ（ペナルティ）、<a href="../Page/ジャスミン茉莉花.md" title="wikilink">ジャスミン茉莉花</a>、<a href="../Page/水野透.md" title="wikilink">水野透</a>（リットン調査団 ）、<a href="../Page/ぼんちおさむ.md" title="wikilink">ぼんちおさむ</a>、<a href="../Page/鈴木つかさ.md" title="wikilink">鈴木つかさ</a>、<a href="../Page/浅越ゴエ.md" title="wikilink">浅越ゴエ</a>、<a href="../Page/ヤナギブソン.md" title="wikilink">ヤナギブソン</a>、<a href="../Page/福島善成.md" title="wikilink">福島善成</a>（<a href="../Page/ガリットチュウ.md" title="wikilink">ガリットチュウ</a>）、<a href="../Page/関暁夫.md" title="wikilink">関暁夫</a>（<a href="../Page/ハローバイバイ.md" title="wikilink">ハローバイバイ</a>）、ノーパンチ松尾（<a href="../Page/ザ・パンチ.md" title="wikilink">ザ・パンチ</a>）、<a href="../Page/永井佑一郎.md" title="wikilink">永井佑一郎</a>、<a href="../Page/コンマニセンチ.md" title="wikilink">コンマニセンチ</a>、<a href="../Page/阿部智則.md" title="wikilink">阿部智則</a>（<a href="../Page/POISON_GIRL_BAND.md" title="wikilink">POISON GIRL BAND</a>）、<a href="../Page/若井おさむ.md" title="wikilink">若井おさむ</a>、<a href="../Page/もう中学生.md" title="wikilink">もう中学生</a>、<a href="https://ja.wikipedia.org/wiki/平田敦子" title="wikilink">平田敦子</a>、<a href="../Page/本田みずほ.md" title="wikilink">本田みずほ</a>、<a href="../Page/木夏リオ.md" title="wikilink">木夏リオ</a>、<a href="../Page/上床美智子.md" title="wikilink">上床美智子</a>、<a href="../Page/平山昌雄.md" title="wikilink">平山昌雄</a>、<a href="../Page/ムーディ勝山.md" title="wikilink">ムーディ勝山</a>（<a href="../Page/アイスクリーム_(お笑いコンビ).md" title="wikilink">勝山梶</a>）、<a href="https://ja.wikipedia.org/wiki/石ダテコー太郎" title="wikilink">石館光太郎</a>、板尾創路（130R）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Gordon_Baxter" title="wikilink">Gordon Baxter</a>、加藤貴博（<a href="../Page/チャド・マレーン.md" title="wikilink">ジパング上陸作戦</a>）、ヒデ（ペナルティ）、<a href="../Page/ジャスミン茉莉花.md" title="wikilink">ジャスミン茉莉花</a>、<a href="../Page/水野透.md" title="wikilink">水野透</a>（リットン調査団 ）、<a href="../Page/ぼんちおさむ.md" title="wikilink">ぼんちおさむ</a>、<a href="../Page/鈴木つかさ.md" title="wikilink">鈴木つかさ</a>、<a href="../Page/浅越ゴエ.md" title="wikilink">浅越ゴエ</a>、<a href="../Page/ヤナギブソン.md" title="wikilink">ヤナギブソン</a>、<a href="../Page/福島善成.md" title="wikilink">福島善成</a>（<a href="../Page/ガリットチュウ.md" title="wikilink">ガリットチュウ</a>）、<a href="../Page/関暁夫.md" title="wikilink">関暁夫</a>（<a href="../Page/ハローバイバイ.md" title="wikilink">ハローバイバイ</a>）、ノーパンチ松尾（<a href="../Page/ザ・パンチ.md" title="wikilink">ザ・パンチ</a>）、<a href="../Page/永井佑一郎.md" title="wikilink">永井佑一郎</a>、<a href="../Page/コンマニセンチ.md" title="wikilink">コンマニセンチ</a>、<a href="../Page/阿部智則.md" title="wikilink">阿部智則</a>（<a href="../Page/POISON_GIRL_BAND.md" title="wikilink">POISON GIRL BAND</a>）、<a href="../Page/若井おさむ.md" title="wikilink">若井おさむ</a>、<a href="../Page/もう中学生.md" title="wikilink">もう中学生</a>、<a href="../Page/平田敦子.md" title="wikilink">平田敦子</a>、<a href="../Page/本田みずほ.md" title="wikilink">本田みずほ</a>、<a href="../Page/木夏リオ.md" title="wikilink">木夏リオ</a>、<a href="../Page/上床美智子.md" title="wikilink">上床美智子</a>、<a href="../Page/平山昌雄.md" title="wikilink">平山昌雄</a>、<a href="../Page/ムーディ勝山.md" title="wikilink">ムーディ勝山</a>（<a href="../Page/アイスクリーム_(お笑いコンビ).md" title="wikilink">勝山梶</a>）、<a href="https://ja.wikipedia.org/wiki/石ダテコー太郎" title="wikilink">石館光太郎</a>、板尾創路（130R）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -237,7 +237,7 @@
 </tr>
 <tr class="even">
 <td><p>ゆびみず</p></td>
-<td><p>大悟（<a href="../Page/千鳥_(お笑いコンビ).md" title="wikilink">千鳥</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大悟_(お笑い芸人)" title="wikilink">大悟</a>（<a href="../Page/千鳥_(お笑いコンビ).md" title="wikilink">千鳥</a>）</p></td>
 <td><p><a href="../Page/オパヤン.md" title="wikilink">おぱやん</a></p></td>
 <td><p>後藤淳平（<a href="../Page/ジャルジャル.md" title="wikilink">ジャルジャル</a>）</p></td>
 <td><p><a href="../Page/浅香あき恵.md" title="wikilink">浅香あき恵</a>、<a href="../Page/島田一の介.md" title="wikilink">島田一の介</a>、<a href="https://ja.wikipedia.org/wiki/松岡由樹" title="wikilink">松岡由樹</a>、山里亮太（南海キャンディーズ）、<a href="../Page/中山功太.md" title="wikilink">中山功太</a>、<a href="../Page/ダイアン.md" title="wikilink">ダイアン</a>、大悟（千鳥）、福徳秀介（ジャルジャル）、<a href="../Page/山本奈臣実.md" title="wikilink">山本奈臣実</a>、<a href="../Page/秋田久美子.md" title="wikilink">秋田久美子</a>、<a href="https://ja.wikipedia.org/wiki/前田由梨" title="wikilink">前田由梨</a>、<a href="../Page/赤松悠実.md" title="wikilink">赤松悠実</a></p></td>
@@ -310,7 +310,7 @@
 <td><p><a href="../Page/高橋茂雄.md" title="wikilink">高橋茂雄</a>（<a href="../Page/サバンナ_(お笑いコンビ).md" title="wikilink">サバンナ</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プラスチックゴーゴー" title="wikilink">ハスミマサオ</a></p></td>
 <td><p>林克治（カリカ）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村田幹斗" title="wikilink">村田幹斗</a>、<a href="https://ja.wikipedia.org/wiki/元座成稀" title="wikilink">元座成稀</a>、<a href="../Page/インタビューマン山下.md" title="wikilink">山下しげのり</a>（<a href="../Page/ジャリズム.md" title="wikilink">ジャリズム</a>）、<a href="../Page/たむらけんじ.md" title="wikilink">たむらけんじ</a>、ブラックマヨネーズ、<a href="../Page/河本準一.md" title="wikilink">河本準一</a>（<a href="https://ja.wikipedia.org/wiki/次長課長" title="wikilink">次長課長</a>）、綾部祐二（<a href="../Page/ピース_(お笑いコンビ).md" title="wikilink">ピース</a>）、西代洋（<a href="../Page/ミサイルマン_(お笑いコンビ).md" title="wikilink">ミサイルマン</a>）、<a href="https://ja.wikipedia.org/wiki/タケト" title="wikilink">タケト</a>（Bコース）、ウーイェイよしたか（スマイル）、高橋茂雄</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/村田幹斗" title="wikilink">村田幹斗</a>、<a href="https://ja.wikipedia.org/wiki/元座成稀" title="wikilink">元座成稀</a>、<a href="../Page/インタビューマン山下.md" title="wikilink">山下しげのり</a>（<a href="../Page/ジャリズム.md" title="wikilink">ジャリズム</a>）、<a href="../Page/たむらけんじ.md" title="wikilink">たむらけんじ</a>、ブラックマヨネーズ、<a href="../Page/河本準一.md" title="wikilink">河本準一</a>（<a href="https://ja.wikipedia.org/wiki/次長課長" title="wikilink">次長課長</a>）、綾部祐二（<a href="../Page/ピース_(お笑いコンビ).md" title="wikilink">ピース</a>）、西代洋（<a href="../Page/ミサイルマン_(お笑いコンビ).md" title="wikilink">ミサイルマン</a>）、<a href="../Page/タケト.md" title="wikilink">タケト</a>（Bコース）、ウーイェイよしたか（スマイル）、高橋茂雄</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -788,7 +788,7 @@ OHRYS BIRD</p></td>
 <td><p><a href="../Page/竹若元博.md" title="wikilink">竹若元博</a>（バッファロー吾郎）</p></td>
 <td><p><a href="../Page/覚王山.md" title="wikilink">覚王山</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小薮千豊" title="wikilink">小薮千豊</a></p></td>
-<td><p><a href="../Page/風香.md" title="wikilink">風香</a>、<a href="https://ja.wikipedia.org/wiki/平田敦子" title="wikilink">平田敦子</a>、<a href="https://ja.wikipedia.org/wiki/アジェレン・ブスケス" title="wikilink">アジェレン・ブスケス</a>、なだぎ武、平山昌雄、<a href="../Page/友近.md" title="wikilink">友近</a>、<a href="../Page/グレート小鹿.md" title="wikilink">グレート小鹿</a>、<a href="../Page/土平ドンペイ.md" title="wikilink">土平ドンペイ</a>、<a href="../Page/マッスル坂井.md" title="wikilink">マッスル坂井</a></p></td>
+<td><p><a href="../Page/風香.md" title="wikilink">風香</a>、<a href="../Page/平田敦子.md" title="wikilink">平田敦子</a>、<a href="https://ja.wikipedia.org/wiki/アジェレン・ブスケス" title="wikilink">アジェレン・ブスケス</a>、なだぎ武、平山昌雄、<a href="../Page/友近.md" title="wikilink">友近</a>、<a href="../Page/グレート小鹿.md" title="wikilink">グレート小鹿</a>、<a href="../Page/土平ドンペイ.md" title="wikilink">土平ドンペイ</a>、<a href="../Page/マッスル坂井.md" title="wikilink">マッスル坂井</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -909,7 +909,7 @@ OHRYS BIRD</p></td>
 <td><p>マッスル坂井<br />
 佐高美智代</p></td>
 <td><p><a href="../Page/村上ショージ.md" title="wikilink">村上ショージ</a></p></td>
-<td><p><a href="../Page/KINYA_(タレント).md" title="wikilink">KINYA</a>、<a href="../Page/杉本彩.md" title="wikilink">杉本彩</a>、<a href="../Page/川原ひろし.md" title="wikilink">川原ひろし</a>、<a href="../Page/今林久弥.md" title="wikilink">今林久弥</a>、<a href="https://ja.wikipedia.org/wiki/美月凛音" title="wikilink">美月凛音</a>、<a href="../Page/松野行秀.md" title="wikilink">ゴージャス松野</a>、<a href="https://ja.wikipedia.org/wiki/平田敦子" title="wikilink">平田敦子</a>、<a href="https://ja.wikipedia.org/wiki/福田麻衣" title="wikilink">福田麻衣</a></p></td>
+<td><p><a href="../Page/KINYA_(タレント).md" title="wikilink">KINYA</a>、<a href="../Page/杉本彩.md" title="wikilink">杉本彩</a>、<a href="../Page/川原ひろし.md" title="wikilink">川原ひろし</a>、<a href="../Page/今林久弥.md" title="wikilink">今林久弥</a>、<a href="https://ja.wikipedia.org/wiki/美月凛音" title="wikilink">美月凛音</a>、<a href="../Page/松野行秀.md" title="wikilink">ゴージャス松野</a>、<a href="../Page/平田敦子.md" title="wikilink">平田敦子</a>、<a href="https://ja.wikipedia.org/wiki/福田麻衣" title="wikilink">福田麻衣</a></p></td>
 </tr>
 <tr class="even">
 <td><p>指輪</p></td>

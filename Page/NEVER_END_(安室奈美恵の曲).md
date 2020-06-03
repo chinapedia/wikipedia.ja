@@ -1,7 +1,7 @@
 > この記事は[NEVER END \(安室奈美恵の曲\)](https://ja.wikipedia.org/wiki/NEVER_END_\(安室奈美恵の曲\))から翻訳されています。
 
 
-「**NEVER END**」（ネヴァー・エンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では17枚目の[シングル](../Page/シングル.md "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が[2000年](../Page/2000年.md "wikilink")7月に開催された[第26回主要国首脳会議](../Page/第26回主要国首脳会議.md "wikilink")（九州・沖縄サミット）のためにプロデュースした楽曲でもある。
+「**NEVER END**」（ネヴァー・エンド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では17枚目の[シングル](../Page/シングル.md "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。[第26回主要国首脳会議](../Page/第26回主要国首脳会議.md "wikilink")(九州・沖縄サミット)のイメージソングとして製作され、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")にとっては約1年ぶりのヒット曲となった。
 
 ## 概要
 

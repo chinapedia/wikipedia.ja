@@ -54,7 +54,7 @@
     7.  Midnight Wolf feat.[YASUYUKI OKAMURA](../Page/岡村靖幸.md "wikilink")
     8.  What You Gon Give Me Now?
     9.  Mama Told Me feat.RINO
-    10. Funny Money Girl feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))
+    10. Funny Money Girl feat.[VERBAL](../Page/VERBAL.md "wikilink")([m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))
     11. To Things Like That
     12. 大車輪 feat.YASUYUKI OKAMURA
     13. U Got Me feat.RINO

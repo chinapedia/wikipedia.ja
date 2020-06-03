@@ -5,7 +5,7 @@
 
 ## 解説
 
-前[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")アルバム『[THANKS](../Page/THANKS_\(w-inds.のアルバム\).md "wikilink")』より約1年ぶりのリリースとなったオリジナルアルバム。シングル「[TRIAL](../Page/TRIAL_\(曲\).md "wikilink")」「[ブギウギ66](../Page/ブギウギ66.md "wikilink")」「[ハナムケ](https://ja.wikipedia.org/wiki/ハナムケ "wikilink")」の3枚の[シングル](../Page/シングル.md "wikilink")を含む全15曲を収録。
+前[オリジナル](https://ja.wikipedia.org/wiki/オリジナル "wikilink")アルバム『[THANKS](../Page/THANKS_\(w-inds.のアルバム\).md "wikilink")』より約1年ぶりのリリースとなったオリジナルアルバム。シングル「[TRIAL](../Page/TRIAL_\(曲\).md "wikilink")」「[ブギウギ66](../Page/ブギウギ66.md "wikilink")」「[ハナムケ](../Page/ハナムケ.md "wikilink")」の3枚の[シングル](../Page/シングル.md "wikilink")を含む全15曲を収録。
 
 アルバム・タイトル『Journey』は、前年に[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")5周年ということで、感謝の気持ちを込めて『THANKS』（＝ありがとう）というタイトルを冠したアルバムを発表し、「5周年ありがとう」と言ってしまったので、また新たな旅立ち・スタートを切りたい、次なるステップを踏みたいという思いを込め、初心に戻った感覚で『Journey』と命名。\[1\]
 
@@ -17,7 +17,7 @@
 
 収録曲「Crazy for You」（M4）は、同じくDarin Zanyarの「The Anthem」のカバー曲。尚この楽曲で、倖田來未、リア・ディゾンを手掛けるHimari Michikawaが作詞で初起用された。
 
-収録曲「Devil」（M5）の[デビルとは](../Page/悪魔.md "wikilink")、自分の中に潜む邪心を指す。また、[Rap部分で](../Page/ラップ.md "wikilink")、[良心](https://ja.wikipedia.org/wiki/良心 "wikilink")（[天使](../Page/天使.md "wikilink")/[龍一](../Page/緒方龍一.md "wikilink")）と邪心（悪魔/[涼平](../Page/千葉涼平.md "wikilink")）の掛け合いがあり、自問自答を繰り広げている。
+収録曲「Devil」（M5）の[デビルとは](../Page/悪魔.md "wikilink")、自分の中に潜む邪心を指す。また、[Rap部分で](../Page/ラップ.md "wikilink")、[良心](../Page/良心.md "wikilink")（[天使](../Page/天使.md "wikilink")/[龍一](../Page/緒方龍一.md "wikilink")）と邪心（悪魔/[涼平](../Page/千葉涼平.md "wikilink")）の掛け合いがあり、自問自答を繰り広げている。
 
 収録曲「Milky Way」（M8）の[ミルキー・ウェイ](https://ja.wikipedia.org/wiki/ミルキー・ウェイ "wikilink")とは[天の川](../Page/天の川.md "wikilink")のことを指す。[七夕](../Page/七夕.md "wikilink")をテーマに描かれた。
 
@@ -65,7 +65,7 @@
 </tr>
 <tr class="odd">
 <td><p>M-15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハナムケ" title="wikilink">ハナムケ</a></p></td>
+<td><p><a href="../Page/ハナムケ.md" title="wikilink">ハナムケ</a></p></td>
 <td><p><a href="../Page/ブルボン.md" title="wikilink">ブルボン</a>『ビタミンCガム』『はなのどガム』CMソング</p></td>
 </tr>
 </tbody>

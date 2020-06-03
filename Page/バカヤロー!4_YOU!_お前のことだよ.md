@@ -75,4 +75,4 @@
 ## 外部リンク
 
   -
-[Category:1991年の映画](https://ja.wikipedia.org/wiki/Category:1991年の映画 "wikilink") [Category:日本のオムニバス映画](https://ja.wikipedia.org/wiki/Category:日本のオムニバス映画 "wikilink") [Category:宿泊施設を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:宿泊施設を舞台とした映画作品 "wikilink") [Category:企業を舞台とした作品](https://ja.wikipedia.org/wiki/Category:企業を舞台とした作品 "wikilink") [Category:詐欺を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:詐欺を題材とした映画作品 "wikilink")
+[Category:1991年の映画](https://ja.wikipedia.org/wiki/Category:1991年の映画 "wikilink") [Category:日本のオムニバス映画](https://ja.wikipedia.org/wiki/Category:日本のオムニバス映画 "wikilink") [Category:宿泊施設を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:宿泊施設を舞台とした映画作品 "wikilink") [Category:企業を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:企業を舞台とした映画作品 "wikilink") [Category:詐欺を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:詐欺を題材とした映画作品 "wikilink")

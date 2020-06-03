@@ -34,7 +34,7 @@
   - [鎧武乃風](https://ja.wikipedia.org/wiki/鎧武乃風 "wikilink") (2013年)avex traxに移籍
   - [ガガガSP](../Page/ガガガSP.md "wikilink") (2013年)
   - [GACKT](https://ja.wikipedia.org/wiki/GACKT "wikilink") (2009年〜2012年)
-  - [加藤清史郎](https://ja.wikipedia.org/wiki/加藤清史郎 "wikilink") (2012年)
+  - [加藤清史郎](../Page/加藤清史郎.md "wikilink") (2012年)
   - [仮面ライダーGIRLS](https://ja.wikipedia.org/wiki/仮面ライダーGIRLS "wikilink") (2011年〜2014年)avex traxに移籍
   - [きただにひろし](../Page/きただにひろし.md "wikilink") (2011年〜2013年)
   - [鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")（[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")） (2012年)

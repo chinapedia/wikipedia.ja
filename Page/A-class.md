@@ -50,7 +50,7 @@
 2000 - 2001メンバー</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/菅谷はつ乃" title="wikilink">菅谷はつ乃</a><br />
+<td><p><a href="../Page/菅谷はつ乃.md" title="wikilink">菅谷はつ乃</a><br />
 <small>（すがや はつの）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1978年" title="wikilink">1978年</a><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
 <td><p>東京都</p></td>
@@ -226,7 +226,7 @@
 </tbody>
 </table>
 
-この年からA-classのロゴが現在のもの（A-CLASS→A-class）に変更。またオリジナル写真集がこの年から発売されている他、DVD「SHINING☆STAR\! A-class The Movie」（2006年1月11日）も発売された。[札幌オートサロン](https://ja.wikipedia.org/wiki/札幌オートサロン "wikilink")では内田が体調不良で欠席した。
+この年からA-classのロゴが現在のもの（A-CLASS→A-class）に変更。またオリジナル写真集がこの年から発売されている他、DVD「SHINING☆STAR\! A-class The Movie」（2006年1月11日）も発売された。[札幌オートサロン](../Page/札幌オートサロン.md "wikilink")では内田が体調不良で欠席した。
 
 ### 2007年
 
@@ -314,7 +314,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1985年" title="wikilink">1985年</a><a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
 <td><p>埼玉県</p></td>
 <td><p>A型</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年のSUPER_GT" title="wikilink">2008年SUPER GTイメージガール</a>「<a href="../Page/Airy.md" title="wikilink">Airy</a>」メンバー</p></td>
+<td><p><a href="../Page/2008年のSUPER_GT.md" title="wikilink">2008年SUPER GTイメージガール</a>「<a href="../Page/Airy.md" title="wikilink">Airy</a>」メンバー</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/外咲来未.md" title="wikilink">外咲来未</a><br />

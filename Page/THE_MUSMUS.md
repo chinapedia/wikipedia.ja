@@ -358,6 +358,8 @@
   - 2016年04月16日,17日 - [Equal](https://ja.wikipedia.org/wiki/Equal "wikilink") LIVE TOUR 2016
   - 2016年04月30日 - [ANGRY FROG REBIRTH](https://ja.wikipedia.org/wiki/ANGRY_FROG_REBIRTH "wikilink") presents UNDER THE DEAD vol.6
 
+## 脚注
+
 ## 外部リンク
 
   - [公式ウェブサイト](http://www.upliftspice.com/)

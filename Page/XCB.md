@@ -1,7 +1,7 @@
 > この記事は[XCB](https://ja.wikipedia.org/wiki/XCB)から翻訳されています。
 
 
-**XCB**（**X C Binding**）は、[X Window System](../Page/X_Window_System.md "wikilink") の[C言語](../Page/C言語.md "wikilink")[バインディングである](https://ja.wikipedia.org/wiki/バインディング_\(情報工学\) "wikilink")。[Xlib](https://ja.wikipedia.org/wiki/Xlib "wikilink")を置換することを目的としている。このプロジェクトは Bart Massey が[2001年](../Page/2001年.md "wikilink")に開始した。
+**XCB**（**X C Binding**）は、[X Window System](../Page/X_Window_System.md "wikilink") の[C言語](../Page/C言語.md "wikilink")[バインディングである](https://ja.wikipedia.org/wiki/バインディング_\(情報工学\) "wikilink")。[Xlib](../Page/Xlib.md "wikilink")を置換することを目的としている。このプロジェクトは Bart Massey が[2001年](../Page/2001年.md "wikilink")に開始した。
 
 **Xlib/XCB** は Xlib と XCB の[アプリケーション・バイナリ・インタフェース互換性を提供することで](../Page/Application_Binary_Interface.md "wikilink")、段階的な移植経路を提供するものである。Xlib/XCB は Xlib のプロトコル層を使うが、Xlib トランスポート層は XCB で置換しており、XCB を直接使うために XCB コネクションにアクセスできるようになっている。
 
@@ -91,7 +91,7 @@ Massey らは XCB の主要部分の[形式的検証](../Page/形式的検証.md
  }
 ```
 
-XCB はこの例からも分かるとおり、[Xlib](https://ja.wikipedia.org/wiki/Xlib "wikilink")にほぼ相当するものの、API の抽象化レベルは若干低い。
+XCB はこの例からも分かるとおり、[Xlib](../Page/Xlib.md "wikilink")にほぼ相当するものの、API の抽象化レベルは若干低い。
 
 ## プロトコルの記述
 

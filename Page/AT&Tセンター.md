@@ -5,7 +5,7 @@
 
 ## 概要
 
-2002年に**SBCセンター**（[AT\&T](../Page/AT&T.md "wikilink")系）として杮落とし。それまでスパーズの本拠地だった[アラモドーム](https://ja.wikipedia.org/wiki/アラモドーム "wikilink")に代わりオープンした。
+2002年に**SBCセンター**（[AT\&T](../Page/AT&T.md "wikilink")系）として杮落とし。それまでスパーズの本拠地だった[アラモドーム](../Page/アラモドーム.md "wikilink")に代わりオープンした。
 
 また、[2003年](https://ja.wikipedia.org/wiki/2003年のNBAファイナル "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年のNBAファイナル "wikilink")、[2007年と](../Page/2007年のNBAファイナル.md "wikilink")3度の[NBAファイナル](../Page/NBAファイナル.md "wikilink")を開催した他、[アメリカンプロレス](https://ja.wikipedia.org/wiki/アメリカンプロレス "wikilink")のビッグイベントである[WWE](../Page/WWE.md "wikilink")の[ロイヤルランブル](../Page/ロイヤルランブル.md "wikilink")は2007年に当所で開催された。
 

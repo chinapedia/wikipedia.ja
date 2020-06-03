@@ -5,17 +5,17 @@
 
 ## 出場選手
 
-| 車番 | 選手                                                    | 出身[県](../Page/都道府県.md "wikilink")                  | 出場要件事項                                                           |
-| -- | ----------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
-| 1  | **[中野浩一](../Page/中野浩一.md "wikilink")**                | [福岡](../Page/福岡県.md "wikilink")                    | [世界選手権・プロスプリント優勝](../Page/世界選手権自転車競技大会トラックレース1985.md "wikilink") |
-| 2  | [尾崎雅彦](../Page/尾崎雅彦.md "wikilink")                    | [東京](../Page/東京都.md "wikilink")                    | 競走得点上位                                                           |
-| 3  | [滝澤正光](../Page/滝澤正光.md "wikilink")                    | [千葉](../Page/千葉県.md "wikilink")                    | [高松宮杯競輪優勝](../Page/高松宮記念杯競輪.md "wikilink")                       |
-| 4  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")                  | [佐賀](../Page/佐賀県.md "wikilink")                    | [全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink")優勝    |
-| 5  | [山口健治](../Page/山口健治.md "wikilink")                    | 東京                                                 | 競走得点上位                                                           |
-| 6  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink") | [愛媛](../Page/愛媛県.md "wikilink")                    | 競走得点上位                                                           |
-| 7  | [井上茂徳](../Page/井上茂徳.md "wikilink")                    | 佐賀                                                 | [全日本競輪王戦優勝](https://ja.wikipedia.org/wiki/競輪祭 "wikilink")        |
-| 8  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink")           | [愛知](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [オールスター競輪](../Page/オールスター競輪.md "wikilink")優勝                     |
-| 9  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")                    | 東京                                                 | [日本選手権競輪](../Page/日本選手権競輪.md "wikilink")優勝                       |
+| 車番 | 選手                                          | 出身[県](../Page/都道府県.md "wikilink")                  | 出場要件事項                                                           |
+| -- | ------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
+| 1  | **[中野浩一](../Page/中野浩一.md "wikilink")**      | [福岡](../Page/福岡県.md "wikilink")                    | [世界選手権・プロスプリント優勝](../Page/世界選手権自転車競技大会トラックレース1985.md "wikilink") |
+| 2  | [尾崎雅彦](../Page/尾崎雅彦.md "wikilink")          | [東京](../Page/東京都.md "wikilink")                    | 競走得点上位                                                           |
+| 3  | [滝澤正光](../Page/滝澤正光.md "wikilink")          | [千葉](../Page/千葉県.md "wikilink")                    | [高松宮杯競輪優勝](../Page/高松宮記念杯競輪.md "wikilink")                       |
+| 4  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")        | [佐賀](../Page/佐賀県.md "wikilink")                    | [全日本選抜競輪](https://ja.wikipedia.org/wiki/全日本選抜競輪 "wikilink")優勝    |
+| 5  | [山口健治](../Page/山口健治.md "wikilink")          | 東京                                                 | 競走得点上位                                                           |
+| 6  | [伊藤豊明](../Page/伊藤豊明.md "wikilink")          | [愛媛](../Page/愛媛県.md "wikilink")                    | 競走得点上位                                                           |
+| 7  | [井上茂徳](../Page/井上茂徳.md "wikilink")          | 佐賀                                                 | [全日本競輪王戦優勝](https://ja.wikipedia.org/wiki/競輪祭 "wikilink")        |
+| 8  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink") | [愛知](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [オールスター競輪](../Page/オールスター競輪.md "wikilink")優勝                     |
+| 9  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")          | 東京                                                 | [日本選手権競輪](../Page/日本選手権競輪.md "wikilink")優勝                       |
 
   - 誘導員 - [恩田繁雄](https://ja.wikipedia.org/wiki/恩田繁雄 "wikilink")
 
@@ -31,17 +31,17 @@
 
 ## 競走結果
 
-| 着順 | 選手                                                    | [決まり手](../Page/決まり手.md "wikilink") |
-| -- | ----------------------------------------------------- | ---------------------------------- |
-| 1  | **[中野浩一](../Page/中野浩一.md "wikilink")**                | 捲                                  |
-| 2  | [井上茂徳](../Page/井上茂徳.md "wikilink")                    | 差                                  |
-| 3  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")                  |                                    |
-| 4  | [尾崎雅彦](../Page/尾崎雅彦.md "wikilink")                    |                                    |
-| 5  | [伊藤豊明](https://ja.wikipedia.org/wiki/伊藤豊明 "wikilink") |                                    |
-| 6  | [山口健治](../Page/山口健治.md "wikilink")                    |                                    |
-| 7  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink")           |                                    |
-| 8  | [滝澤正光](../Page/滝澤正光.md "wikilink")                    |                                    |
-| 9  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")                    |                                    |
+| 着順 | 選手                                          | [決まり手](../Page/決まり手.md "wikilink") |
+| -- | ------------------------------------------- | ---------------------------------- |
+| 1  | **[中野浩一](../Page/中野浩一.md "wikilink")**      | 捲                                  |
+| 2  | [井上茂徳](../Page/井上茂徳.md "wikilink")          | 差                                  |
+| 3  | [佐々木昭彦](../Page/佐々木昭彦.md "wikilink")        |                                    |
+| 4  | [尾崎雅彦](../Page/尾崎雅彦.md "wikilink")          |                                    |
+| 5  | [伊藤豊明](../Page/伊藤豊明.md "wikilink")          |                                    |
+| 6  | [山口健治](../Page/山口健治.md "wikilink")          |                                    |
+| 7  | [高橋健二](../Page/高橋健二_\(競輪選手\).md "wikilink") |                                    |
+| 8  | [滝澤正光](../Page/滝澤正光.md "wikilink")          |                                    |
+| 9  | [清嶋彰一](../Page/清嶋彰一.md "wikilink")          |                                    |
 
 ### 配当金額
 

@@ -7,7 +7,7 @@
 
 タイトルにある通り、バンドのこれまでの[シングル](../Page/シングル.md "wikilink")8作品を[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")も含め、全曲[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")して網羅した内容である。Disc1にはA面、Disc2にはカップリングが収録されている。ただし、「[MOTHER (Single Version)](../Page/MOTHER_\(Single_Version\).md "wikilink")」のカップリングである「Dejavu (Live Version)」は未収録。オリジナルアルバムに異なる[ミックスで収録されていた曲もすべてシングル](../Page/ミキシング.md "wikilink")・ヴァージョンで収録されている。
 
-LUNA SEAの全作品で最大の売上を記録しており、オリコンでは唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+LUNA SEAの全作品で最大の売上を記録しており、オリコンでは唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録している。
 
 ## 収録曲
 
@@ -15,10 +15,10 @@ LUNA SEAの全作品で最大の売上を記録しており、オリコンでは
 
 Disc1
 
-1.  **[BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(LUNA_SEAの曲\) "wikilink")**
+1.  **[BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")**
       -
         1stシングル。シングルバージョンはアルバム初収録。
-2.  **[IN MY DREAM (WITH SHIVER)](https://ja.wikipedia.org/wiki/IN_MY_DREAM_\(WITH_SHIVER\) "wikilink")**
+2.  **[IN MY DREAM (WITH SHIVER)](../Page/IN_MY_DREAM_\(WITH_SHIVER\).md "wikilink")**
       -
         2ndシングル。シングルバージョンはアルバム初収録。
 3.  **[ROSIER](../Page/ROSIER.md "wikilink")**

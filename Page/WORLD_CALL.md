@@ -47,7 +47,7 @@
 iモードから利用するサービスで、海外の[MMS](../Page/マルチメディアメッセージングサービス.md "wikilink")（[マルチメディアメッセージングサービス](../Page/マルチメディアメッセージングサービス.md "wikilink")）対応利用者と、[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")間でメールの送受信を可能にします。[FOMA](../Page/FOMA.md "wikilink")からは、写真・動画・音源ファイルを添付することも可能。ただし、対応キャリアは3か国・3社のみとなる。実際は通常のメールで届くため、あまり必要とされない。
 
   - 送信方法
-    あて先に [国番号](https://ja.wikipedia.org/wiki/国番号 "wikilink")・相手の電話番号（携帯電話番号の頭が0の場合0を除いた番号）＠mms-i.jpを入力し、[添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")をつけたり、文章を入力し、送信する。FOMAは10000文字、movaは500文字まで送信できる。
+    あて先に [国番号](https://ja.wikipedia.org/wiki/国番号 "wikilink")・相手の電話番号（携帯電話番号の頭が0の場合0を除いた番号）＠mms-i.jpを入力し、[添付ファイル](../Page/添付ファイル.md "wikilink")をつけたり、文章を入力し、送信する。FOMAは10000文字、movaは500文字まで送信できる。
 
 ## 通話料
 

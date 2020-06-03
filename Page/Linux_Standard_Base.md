@@ -8,13 +8,13 @@ LSBの目標は次の通りである。
   -
     「LSBの目標は、Linuxディストリビューション間での互換性を向上させ、準拠システム上でのアプリケーションの動作を保証するよう標準規格を策定・振興することである。さらに、ソフトウェアベンダーがLinux向けに製品を移植したり開発する際の調整努力を助ける。」
 
-LSB準拠製品の認証手続きが定められている。認証は[The Open GroupがLinux](../Page/The_Open_Group.md "wikilink") Foundationの協力の下に行う。なお、Linux Foundationは[Free Standards Groupと](https://ja.wikipedia.org/wiki/Free_Standards_Group "wikilink")[Open Source Development Labsが合併して誕生した](../Page/Open_Source_Development_Labs.md "wikilink")。
+LSB準拠製品の認証手続きが定められている。認証は[The Open GroupがLinux](../Page/The_Open_Group.md "wikilink") Foundationの協力の下に行う。なお、Linux Foundationは[Free Standards Groupと](../Page/Free_Standards_Group.md "wikilink")[Open Source Development Labsが合併して誕生した](../Page/Open_Source_Development_Labs.md "wikilink")。
 
 LSBには以下のような点が規定されている。
 
   - [POSIX](../Page/POSIX.md "wikilink")標準を拡張した、標準[ライブラリ](../Page/ライブラリ.md "wikilink")とコマンド / ユーティリティ群
   - [ファイルシステム](../Page/ファイルシステム.md "wikilink")の階層構造のレイアウト
-  - [ランレベル](https://ja.wikipedia.org/wiki/ランレベル "wikilink")の定義
+  - [ランレベル](../Page/ランレベル.md "wikilink")の定義
   - [CUPSのようなスプーラーや](../Page/Common_Unix_Printing_System.md "wikilink")[Foomatic](https://ja.wikipedia.org/wiki/Foomatic "wikilink")などのツールを含むプリンタシステム
   - [X Window Systemのいくつかの拡張](../Page/X_Window_System.md "wikilink")
 

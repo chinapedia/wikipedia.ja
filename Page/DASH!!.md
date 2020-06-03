@@ -45,8 +45,8 @@
 
 ### ミュージカル
 
-  - [ミュージカル テニスの王子様](https://ja.wikipedia.org/wiki/ミュージカル・テニスの王子様 "wikilink")　The Imperial Presence 氷帝 feat.比嘉（2008年7月 - 11月） - 5代目 桃城武役（延山）
-  - [ミュージカル テニスの王子様](https://ja.wikipedia.org/wiki/ミュージカル・テニスの王子様 "wikilink")　The Treasure Match 四天宝寺 feat. 氷帝（2008年12月 - 2009年3月） - 5代目 桃城武役（延山）
+  - [ミュージカル テニスの王子様](../Page/ミュージカル・テニスの王子様.md "wikilink")　The Imperial Presence 氷帝 feat.比嘉（2008年7月 - 11月） - 5代目 桃城武役（延山）
+  - [ミュージカル テニスの王子様](../Page/ミュージカル・テニスの王子様.md "wikilink")　The Treasure Match 四天宝寺 feat. 氷帝（2008年12月 - 2009年3月） - 5代目 桃城武役（延山）
 
 ### カタログ
 

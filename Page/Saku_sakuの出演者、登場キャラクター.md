@@ -397,7 +397,7 @@
       - 好きな教科は日本史で[武田信玄](../Page/武田信玄.md "wikilink")を尊敬している(信玄の部下の中では[山県昌景](../Page/山県昌景.md "wikilink")がご贔屓)。
       - 頭の中は「[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")・[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")の残金・昔（1970年代〜1980年代）のアイドル・[バケツラン](https://ja.wikipedia.org/wiki/バケツラン "wikilink")」の事でほぼ全てが占められている。
       - 好みの女性のタイプは「アヒル口」(黒幕談アヒル口御三家[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")・[安藤美姫](https://ja.wikipedia.org/wiki/安藤美姫 "wikilink")・[ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink"))、「[森ガール](https://ja.wikipedia.org/wiki/森ガール "wikilink")」。
-      - 好きなスポーツチームは[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")。
+      - 好きなスポーツチームは[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")。
       - 好きなバンドは[スレイヤー](../Page/スレイヤー.md "wikilink")、[キッス](../Page/キッス.md "wikilink")、[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")。[松田聖子](../Page/松田聖子.md "wikilink")ファンでもある。
       - 愛車は[スバルの](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")[レガシィ](../Page/スバル・レガシィ.md "wikilink")、自称[スバリスト](https://ja.wikipedia.org/wiki/スバリスト "wikilink")。
       - 愛用するアコースティックギターは[ギブソンハミングバード](../Page/ギブソン_\(楽器メーカー\).md "wikilink")。色はブラック。ギターへのこだわりはあまり番組では語らないが、オーノキヨフミのギターの音色を聴いて『いい音しますねー』と素が出てしまったこともある。中村優がギターで「天国への階段」を演奏した時には黒幕はライブバージョン\[15\]で伴奏するなどマニアックなテクニックを披露した。エレキギターは[ギブソン・SG](../Page/ギブソン・SG.md "wikilink")を使用し、こちらも色はブラックである。

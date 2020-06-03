@@ -38,7 +38,7 @@
 
   - [本郷猛](../Page/本郷猛.md "wikilink") - [藤岡弘、](../Page/藤岡弘、.md "wikilink")
   - [一文字隼人](https://ja.wikipedia.org/wiki/一文字隼人 "wikilink") - [佐々木剛](../Page/佐々木剛.md "wikilink")
-  - ナレーター - [中江真司](https://ja.wikipedia.org/wiki/中江真司 "wikilink")
+  - ナレーター - [中江真司](../Page/中江真司.md "wikilink")
 
 ## 備考
 

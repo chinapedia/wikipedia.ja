@@ -1,7 +1,7 @@
 > この記事は[遭遇難易度ランキングTV](https://ja.wikipedia.org/wiki/遭遇難易度ランキングTV)から翻訳されています。
 
 
-**遭遇難易度ランキングTV**（そうぐうなんいどランキングテレビ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")『[すくいず\!](https://ja.wikipedia.org/wiki/すくいず! "wikilink")』の中で放送された企画の一つ、企画第5弾および[特別番組](../Page/特別番組.md "wikilink")。
+**遭遇難易度ランキングTV**（そうぐうなんいどランキングテレビ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")『[すくいず\!](../Page/すくいず!.md "wikilink")』の中で放送された企画の一つ、企画第5弾および[特別番組](../Page/特別番組.md "wikilink")。
 
 ## 内容
 

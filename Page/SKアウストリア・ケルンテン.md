@@ -65,4 +65,4 @@
 
   - [公式サイト](http://www.sk-austriakaernten.at/)
 
-[Category:現在活動していないオーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオーストリアのサッカークラブ "wikilink") [Category:ケルンテン州](https://ja.wikipedia.org/wiki/Category:ケルンテン州 "wikilink")
+[Category:現在活動していないオーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオーストリアのサッカークラブ "wikilink") [Category:ケルンテン州](https://ja.wikipedia.org/wiki/Category:ケルンテン州 "wikilink") [Category:2007年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2007年設立のスポーツチーム "wikilink") [Category:2010年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2010年廃止のスポーツチーム "wikilink")

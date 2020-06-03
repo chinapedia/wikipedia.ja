@@ -26,7 +26,7 @@
   - ユウジ：[河合龍之介](../Page/河合龍之介.md "wikilink")
   - メイド：[華沢レモン](https://ja.wikipedia.org/wiki/華沢レモン "wikilink")、[芹沢明菜](https://ja.wikipedia.org/wiki/芹沢明菜 "wikilink")、[新井美奈](https://ja.wikipedia.org/wiki/新井美奈 "wikilink")
   - グロリアン：[佳本周也](https://ja.wikipedia.org/wiki/佳本周也 "wikilink")
-  - ゾンビ：[木村啓介](https://ja.wikipedia.org/wiki/木村啓介 "wikilink")、[高橋良昭](https://ja.wikipedia.org/wiki/高橋良昭 "wikilink")（[キスキスバンバン](../Page/キスキスバンバン_\(お笑いコンビ\).md "wikilink")）、[阿久津紘平](https://ja.wikipedia.org/wiki/阿久津紘平 "wikilink")、[伊藤佳範](https://ja.wikipedia.org/wiki/伊藤佳範 "wikilink")、[川瀬忠行](https://ja.wikipedia.org/wiki/川瀬忠行 "wikilink")、[村岡典文](https://ja.wikipedia.org/wiki/村岡典文 "wikilink")、[渡辺真透](https://ja.wikipedia.org/wiki/渡辺真透 "wikilink")、[安藤清美](https://ja.wikipedia.org/wiki/安藤清美 "wikilink")、[井上礼](https://ja.wikipedia.org/wiki/井上礼 "wikilink")、[菊池絵里子](https://ja.wikipedia.org/wiki/菊池絵里子 "wikilink")、[千葉真美](https://ja.wikipedia.org/wiki/千葉真美 "wikilink")、[藤岡範子](https://ja.wikipedia.org/wiki/藤岡範子 "wikilink") ほか
+  - ゾンビ：[木村啓介](../Page/木村啓介.md "wikilink")、[高橋良昭](https://ja.wikipedia.org/wiki/高橋良昭 "wikilink")（[キスキスバンバン](../Page/キスキスバンバン_\(お笑いコンビ\).md "wikilink")）、[阿久津紘平](https://ja.wikipedia.org/wiki/阿久津紘平 "wikilink")、[伊藤佳範](https://ja.wikipedia.org/wiki/伊藤佳範 "wikilink")、[川瀬忠行](https://ja.wikipedia.org/wiki/川瀬忠行 "wikilink")、[村岡典文](https://ja.wikipedia.org/wiki/村岡典文 "wikilink")、[渡辺真透](https://ja.wikipedia.org/wiki/渡辺真透 "wikilink")、[安藤清美](https://ja.wikipedia.org/wiki/安藤清美 "wikilink")、[井上礼](https://ja.wikipedia.org/wiki/井上礼 "wikilink")、[菊池絵里子](https://ja.wikipedia.org/wiki/菊池絵里子 "wikilink")、[千葉真美](https://ja.wikipedia.org/wiki/千葉真美 "wikilink")、[藤岡範子](https://ja.wikipedia.org/wiki/藤岡範子 "wikilink") ほか
 
 ## スタッフ
 

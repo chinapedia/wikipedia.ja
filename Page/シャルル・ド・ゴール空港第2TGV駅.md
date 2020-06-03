@@ -15,7 +15,7 @@
         LGV東連絡線
           -
             [マルヌ＝ラ＝ヴァレ＝シェシー駅](../Page/マルヌ＝ラ＝ヴァレ＝シェシー駅.md "wikilink") - **シャルル・ド・ゴール空港第2TGV駅** - [TGVオート・ピカルディ駅](../Page/TGVオート・ピカルディ駅.md "wikilink")
-    <span style="color:#537db9">■</span>[RER](https://ja.wikipedia.org/wiki/RER_\(イル＝ド＝フランス\) "wikilink")
+    <span style="color:#537db9">■</span>[RER](../Page/RER_\(イル＝ド＝フランス\).md "wikilink")
       -
         RER B3
           -

@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - 佐藤彗佳　（さとう すいか）　声：[茶谷やすら](https://ja.wikipedia.org/wiki/茶谷やすら "wikilink")
+  - 佐藤彗佳　（さとう すいか）　声：[茶谷やすら](../Page/茶谷やすら.md "wikilink")
 
 <!-- end list -->
 

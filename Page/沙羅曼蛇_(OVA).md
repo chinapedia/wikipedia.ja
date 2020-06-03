@@ -124,4 +124,4 @@
 
 ファミコン版『沙羅曼蛇』をノーコンティニューでクリアするとエンドロールにステファニィの原型と思しき人物が登場する。
 
-[Category:1988年のOVA](https://ja.wikipedia.org/wiki/Category:1988年のOVA "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:コナミのアニメ・特撮作品](https://ja.wikipedia.org/wiki/Category:コナミのアニメ・特撮作品 "wikilink") [Category:コンピュータゲームを原作とするアニメ作品](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを原作とするアニメ作品 "wikilink") [Category:ぴえろ](https://ja.wikipedia.org/wiki/Category:ぴえろ "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:グラディウスシリーズ](https://ja.wikipedia.org/wiki/Category:グラディウスシリーズ "wikilink")
+[Category:1988年のOVA](https://ja.wikipedia.org/wiki/Category:1988年のOVA "wikilink") [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:コナミのコンピュータゲームを原作とするアニメ作品](https://ja.wikipedia.org/wiki/Category:コナミのコンピュータゲームを原作とするアニメ作品 "wikilink") [Category:ぴえろ](https://ja.wikipedia.org/wiki/Category:ぴえろ "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:グラディウスシリーズ](https://ja.wikipedia.org/wiki/Category:グラディウスシリーズ "wikilink")

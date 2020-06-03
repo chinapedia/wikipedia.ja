@@ -244,7 +244,7 @@ Disc2
   - 編集 - 坂本雅紀、田村ゆり
   - 音響監督 - [ハマノカズゾウ](https://ja.wikipedia.org/wiki/ハマノカズゾウ "wikilink")
   - 音楽 - [5zizz](../Page/5zizz.md "wikilink")
-  - プロデューサー - [伊藤誠](https://ja.wikipedia.org/wiki/伊藤誠_\(プロデューサー\) "wikilink")、楠原真理子、小柳路子、小谷哲子
+  - プロデューサー - [伊藤誠](../Page/伊藤誠_\(プロデューサー\).md "wikilink")、楠原真理子、小柳路子、小谷哲子
   - アニメーションプロデューサー - 石黒竜、鎌田肇
   - アニメーション制作 - 動画工房
   - 製作 - Myself ; Yourself製作委員会（[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")、[ハピネット](../Page/ハピネット.md "wikilink")、[5pb.](../Page/5pb..md "wikilink")、[ポニーキャニオンエンタープライズ](../Page/ポニーキャニオンエンタープライズ.md "wikilink")）

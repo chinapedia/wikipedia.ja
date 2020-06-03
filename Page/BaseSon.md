@@ -53,4 +53,4 @@
   - [BaseSon](http://baseson.nexton-net.jp/)
 
   -
-[Category:BaseSon](https://ja.wikipedia.org/wiki/Category:BaseSon "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
+[Category:BaseSon](https://ja.wikipedia.org/wiki/Category:BaseSon "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")

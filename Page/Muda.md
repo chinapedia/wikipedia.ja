@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - タイトルは「無駄」の意味。小文字の「m」が大きく表記される特殊な文字記号を用いている。ジャケットは[トラ](../Page/トラ.md "wikilink")と一緒に[檻](https://ja.wikipedia.org/wiki/檻 "wikilink")に入っているジュリーの上に「**DO NOT FEED THE ANIMAL**」（この動物に餌を与えないで下さい）と書かれている。
+  - タイトルは「無駄」の意味。小文字の「m」が大きく表記される特殊な文字記号を用いている。ジャケットは[トラ](../Page/トラ.md "wikilink")と一緒に[檻](https://ja.wikipedia.org/wiki/檻 "wikilink")に入っている沢田の上に「**DO NOT FEED THE ANIMAL**」（この動物に餌を与えないで下さい）と書かれている。
   - 前作同様、オリジナルアルバムには収録されていない。
   - 歌詞に[シャネル](../Page/シャネル.md "wikilink")、[ヴィトンというブランド名が登場するが](../Page/ルイ・ヴィトン.md "wikilink")[NHK出演時は](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「ブランドかぶれ」などに歌詞が変更された。
 

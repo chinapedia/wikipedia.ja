@@ -7,14 +7,14 @@
 
 ## 解説
 
-  - A、B両面ともジュリーの自作曲となっている。
+  - A、B両面とも沢田の自作曲となっている。
   - [ジャケット写真](https://ja.wikipedia.org/wiki/ジャケット写真 "wikilink")では、無精ひげを伸ばした[ビジュアル](https://ja.wikipedia.org/wiki/ビジュアル "wikilink")が使用された。
   - B面は同年1月31日に逝去した[渡辺晋](../Page/渡辺晋.md "wikilink")への追悼曲（渡辺は[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")経営前に[ベーシスト](../Page/ベーシスト.md "wikilink")として活動していた）。
 
 ## 収録曲
 
 1.  **STEPPIN' STONES**
-      - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：沢田研二／[編曲](../Page/編曲.md "wikilink")：CO-CóLO
+      - 作詞・作曲：[沢田研二](../Page/沢田研二.md "wikilink")／編曲：[CO-CóLO](../Page/CO-CoLO.md "wikilink")
 2.  **THE BASS MAN**
       - 作詞・作曲：沢田研二／編曲:CO-CóLO
 

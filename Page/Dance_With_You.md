@@ -62,6 +62,7 @@
 
 ## 収録アルバム
 
+  - SONY ORIGINAL DEMONSTRATION DISC REBECCA in Liberty（1987年発表の非売品CD、規格品番：YEDS-35） (\#1)
   - [Twilight Swim](https://ja.wikipedia.org/wiki/Twilight_Swim "wikilink") (\#1)
   - [My Favorite Songs](https://ja.wikipedia.org/wiki/My_Favorite_Songs_\(TUBEのアルバム\) "wikilink") (\#1)
   - [TUBEst](https://ja.wikipedia.org/wiki/TUBEst "wikilink") (\#1)

@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - 発売日の6月25日はジュリーの誕生日。
+  - 発売日の6月25日は沢田の誕生日。
   - 同年発売の[アルバム](../Page/アルバム.md "wikilink")『[TRUE BLUE](../Page/TRUE_BLUE_\(沢田研二のアルバム\).md "wikilink")』先行シングルで、[CO-CoLO](../Page/CO-CoLO.md "wikilink")を率いての最後の作品。A、B両面ともアルバムに収録されているが、バージョンは異なる。
   - この作品から[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")と平行して[CDでの](../Page/コンパクトディスク.md "wikilink")[リリースが始まった](https://ja.wikipedia.org/wiki/発売 "wikilink")。平行リリースは「[ポラロイドGIRL](../Page/ポラロイドGIRL.md "wikilink")」まで続いた。
 
 ## 収録曲
 
 1.  **TRUE BLUE**
-      - [作詞](../Page/作詞.md "wikilink"):[加川良](../Page/加川良.md "wikilink")、[作曲](../Page/作曲.md "wikilink"):[チト河内](../Page/チト河内.md "wikilink")、編曲:CO-CoLO
+      - 作詞:[加川良](../Page/加川良.md "wikilink")、作曲:[チト河内](../Page/チト河内.md "wikilink")、編曲:[CO-CoLO](../Page/CO-CoLO.md "wikilink")
 2.  **EDEN**
       - 作詞:[大津あきら](../Page/大津あきら.md "wikilink")、作曲:[石間秀機](../Page/石間秀機.md "wikilink")、編曲:CO-CoLO
 

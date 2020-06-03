@@ -3,13 +3,13 @@
 
 **Internet Protocol** （**インターネット・プロトコル**、**IP**） とは、[インターネット](../Page/インターネット.md "wikilink")における主要な[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。
 
-ネットワークに接続されている全てのコンピュータに対して、[IPアドレス](../Page/IPアドレス.md "wikilink")と呼ばれる数字を付与し、その数字を用いて通信先の指定及び呼び出しを行う（この考え方は[電話番号](../Page/電話番号.md "wikilink")と似ている）。俗に[IPアドレス](../Page/IPアドレス.md "wikilink")を「IP」と呼ぶことがあるが、厳密には誤記・誤称である。
+ネットワークに接続されている全てのコンピュータに対して、[IPアドレス](../Page/IPアドレス.md "wikilink")と呼ばれる番号を付与し、その番号を用いて通信先の指定及び呼び出しを行う（この考え方は[電話番号](../Page/電話番号.md "wikilink")と似ている）。俗に[IPアドレス](../Page/IPアドレス.md "wikilink")を「IP」と呼ぶことがあるが、厳密には誤記・誤称である。
 
 最初の主要なバージョンは[Internet Protocol Version 4](../Page/IPv4.md "wikilink") (IPv4) であり、最も普及しているが、[IPアドレスの枯渇問題により](../Page/IPアドレス枯渇問題.md "wikilink")、後継の [Internet Protocol Version 6](https://ja.wikipedia.org/wiki/IPv6 "wikilink") (IPv6) への移行を推奨している人たちがいる\[1\]。
 
 ## 概要
 
-IPは、[インターネット・プロトコル・スイート](../Page/インターネット・プロトコル・スイート.md "wikilink")に基づく[インターネットワークにおいて](https://ja.wikipedia.org/wiki/インターネットワーキング "wikilink")、[データグラム](https://ja.wikipedia.org/wiki/データグラム "wikilink")（または[パケット](../Page/パケット.md "wikilink")）を中継するのに使われる主要な[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。[インターネット層](https://ja.wikipedia.org/wiki/インターネット層 "wikilink")の主たるプロトコルであり、送信元[ホストから宛先ホストへ](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")[IPアドレス](../Page/IPアドレス.md "wikilink")に基づいてデータグラムを送付する役割を担っている。そのため、送付すべきデータを[カプセル化したデータグラム構造が定義されている](https://ja.wikipedia.org/wiki/カプセル化_\(通信\) "wikilink")。また、送信元と宛先を示すのに使われる[アドレッシング方法も定義されている](../Page/IPアドレス.md "wikilink")。
+IPは、[インターネット・プロトコル・スイート](../Page/インターネット・プロトコル・スイート.md "wikilink")に基づく[インターネットワークにおいて](https://ja.wikipedia.org/wiki/インターネットワーキング "wikilink")、送信元[ホストから宛先ホストへ](https://ja.wikipedia.org/wiki/ホスト_\(ネットワーク\) "wikilink")、[IPアドレス](../Page/IPアドレス.md "wikilink")に基づいて[データグラム](https://ja.wikipedia.org/wiki/データグラム "wikilink")（または[パケット](../Page/パケット.md "wikilink")）を中継・転送する役割を担っている。IPにおいては、送付すべきデータを[カプセル化するためのデータグラム構造と](https://ja.wikipedia.org/wiki/カプセル化_\(通信\) "wikilink")、送信元と宛先を示すための[アドレッシング方法が規定されている](../Page/IPアドレス.md "wikilink")。
 
 [OSI参照モデル](../Page/OSI参照モデル.md "wikilink")の[ネットワーク層](../Page/ネットワーク層.md "wikilink")にほぼ対応する機能を持つ。歴史的には、[ヴィントン・サーフ](../Page/ヴィントン・サーフ.md "wikilink")と[ロバート・カーン](../Page/ロバート・カーン.md "wikilink")が1974年に発表した Transmission Control Program の[コネクションレスのデータグラムサービス部分がIPとなった](https://ja.wikipedia.org/wiki/コネクションレス型通信 "wikilink")。一方のコネクション指向の部分は [Transmission Control Protocol](../Page/Transmission_Control_Protocol.md "wikilink") (TCP) となった。そのため、インターネット・プロトコル・スイートを[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")と呼ぶことが多い。
 

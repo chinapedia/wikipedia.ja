@@ -1,7 +1,7 @@
 > この記事は[OSI参照モデル](https://ja.wikipedia.org/wiki/OSI参照モデル)から翻訳されています。
 
 
-**OSI参照モデル**（OSIさんしょうモデル、）は、OSIにおいて「[コンピュータ](../Page/コンピュータ.md "wikilink")の持つべき」だとされた、通信機能を階層構造に分割したモデルである。[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")(ISO)によって策定された。2020年4月現在広く使われているインターネットがこれとは大幅に違っている[DARPAモデル](https://ja.wikipedia.org/wiki/DARPAモデル "wikilink")であるように、一般論としてこれがコンピュータの持つべきモデルというわけではない。**OSI基本参照モデル**、**OSIモデル**などとも呼ばれ、通信機能（[通信プロトコル](../Page/通信プロトコル.md "wikilink")）を7つの階層に分けて定義している。
+**OSI参照モデル**（OSIさんしょうモデル、）は、[OSIにおいて](https://ja.wikipedia.org/wiki/開放型システム間相互接続 "wikilink")「[コンピュータ](../Page/コンピュータ.md "wikilink")の持つべき」だとされた、通信機能を階層構造に分割したモデルである。[国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")(ISO)によって策定された。2020年4月現在広く使われているインターネットがこれとは大幅に違っている[DARPAモデル](https://ja.wikipedia.org/wiki/DARPAモデル "wikilink")であるように、一般論としてこれがコンピュータの持つべきモデルというわけではない。**OSI基本参照モデル**、**OSIモデル**などとも呼ばれ、通信機能（[通信プロトコル](../Page/通信プロトコル.md "wikilink")）を7つの階層に分けて定義している。
 
 ## 概要
 

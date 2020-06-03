@@ -17,7 +17,7 @@
   - [プラグアンドプレイ](../Page/プラグアンドプレイ.md "wikilink")
   - MS-DOSや以前のバージョンのWindowsとの互換性
 
-ただし、上記の機能の中にはWindows for Workgroups 3.11（日本未発売）や[Windows NT](../Page/Microsoft_Windows_NT.md "wikilink") 3.51で既に実装されていたものもある。また「長いファイル名」（long file name）も、NTFSのようにきちんと対応したファイルシステムが導入されたわけではなく、VFATという、MS-DOSとの互換性のあるシステムに言わば無理矢理に立て増しした方式で実現されており、MS-DOSを介さず直接ディスクを操作することで一部の機能を実現していた[ファイル管理ソフト「FD」などで](../Page/FD_\(ファイル管理ソフト\).md "wikilink")、非互換性が発生した例などがある。
+ただし、上記の機能の中にはWindows for Workgroups 3.11（日本未発売）や[Windows NT](../Page/Microsoft_Windows_NT.md "wikilink") 3.51で既に実装されていたものもある。またVFATと呼ばれる「長いファイル名」（long file name）も導入されたが、MS-DOSを介さず直接ディスクを操作することで一部の機能を実現していたいわゆるマナーの悪いソフト（[ファイル管理ソフト「FD」など](../Page/FD_\(ファイル管理ソフト\).md "wikilink")）で非互換性が発生した例などがある。
 
 ### グラフィカルユーザインタフェースの改善
 
@@ -37,9 +37,7 @@
 
 ### ファイルI/Oの改善
 
-ファイル[I/Oを](../Page/入出力.md "wikilink")32ビット[プロテクトモード](../Page/プロテクトモード.md "wikilink")で行い、MS-DOSのファイルI/O機能を使用せずにファイルI/Oを行えるようになった。これにより、MS-DOSのファイルI/O機能を使用していた以前のバージョンのWindowsよりファイルI/Oの性能が向上した。
-
-なお、[スワップファイルへのアクセスに限っては](https://ja.wikipedia.org/wiki/ファイルシステム#スワップファイルシステム "wikilink")、Windows 3.1の段階で既に32ビットI/Oを実現していた。
+ファイル[I/Oを](../Page/入出力.md "wikilink")32ビット[プロテクトモード](../Page/プロテクトモード.md "wikilink")で行い、MS-DOSのファイルI/O機能を使用せずにファイルI/Oを行えるようになった。これにより、MS-DOSのファイルI/O機能を使用していた以前のバージョンのWindowsよりファイルI/Oの性能が向上した。なお、[スワップファイルへのアクセスに限っては](https://ja.wikipedia.org/wiki/ファイルシステム#スワップファイルシステム "wikilink")、Windows 3.1の段階で既に32ビットI/Oを実現していた。
 
 ### その他
 

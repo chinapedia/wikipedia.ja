@@ -271,7 +271,7 @@ JRマークはわずかな例外を除き、各社の鉄道車両に掲出され
 6.
 7.  本州の[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")北部も含む。
 8.  [北陸3県](../Page/北陸地方.md "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")・[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")・[福井県](../Page/福井県.md "wikilink")）と[新潟県西部がJR西日本の駅](../Page/上越地方.md "wikilink")。
-9.  [山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")の[小倉駅](https://ja.wikipedia.org/wiki/小倉駅 "wikilink")と[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")および[博多南線](../Page/博多南線.md "wikilink")の[博多南駅](https://ja.wikipedia.org/wiki/博多南駅 "wikilink")のことを表す。
+9.  [山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink")の[小倉駅と](https://ja.wikipedia.org/wiki/小倉駅_\(福岡県\) "wikilink")[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink")および[博多南線](../Page/博多南線.md "wikilink")の[博多南駅](https://ja.wikipedia.org/wiki/博多南駅 "wikilink")のことを表す。
 10.
 11.
 12.

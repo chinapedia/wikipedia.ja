@@ -5,7 +5,7 @@
 
 ## 概説
 
-IPアドレスは、IPでネットワーク上の機器を識別するために指定するネットワーク層における識別用の番号である。データリンク層のMACアドレスを物理アドレスということに対応して、論理アドレスとも呼ばれる。IPのバージョン（[IPv4](../Page/IPv4.md "wikilink")と[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")）に応じて、IPv4のIPアドレス（[IPv4アドレス](https://ja.wikipedia.org/wiki/IPv4アドレス "wikilink")）とIPv6のIPアドレス（[IPv6アドレス](https://ja.wikipedia.org/wiki/IPv6アドレス "wikilink")）とがある。当初RFC 791でIPを定義した際に、IPが現在のIPv4に当たるもののみであったことから、狭義では、単にIPアドレスと呼称した場合にIPv4のIPアドレスを意味する場合がある。
+IPアドレスは、[IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")上の[情報機器](../Page/情報機器.md "wikilink")を識別するために指定するネットワーク層における識別用の番号である。データリンク層のMACアドレスを物理アドレスということに対応して、論理アドレスとも呼ばれる。IPのバージョン（[IPv4](../Page/IPv4.md "wikilink")と[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")）に応じて、IPv4のIPアドレス（[IPv4アドレス](https://ja.wikipedia.org/wiki/IPv4アドレス "wikilink")）とIPv6のIPアドレス（[IPv6アドレス](https://ja.wikipedia.org/wiki/IPv6アドレス "wikilink")）とがある。当初RFC 791でIPを定義した際に、IPが現在のIPv4に当たるもののみであったことから、狭義では、単にIPアドレスと呼称した場合にIPv4のIPアドレスを意味する場合がある。
 
 IPアドレスは、IPv4では32bit、IPv6では128bitの数値である。この数値のうち、MSB（[最上位ビット](https://ja.wikipedia.org/wiki/最上位ビット "wikilink")）に近い側をネットワーク部、LSB（[最下位ビット](../Page/最下位ビット.md "wikilink")）に近い側をホスト部として区別する。ネットワーク部がネットワークを指定し、ホスト部がそのネットワーク内の機器を指定する。ネットワーク部とホスト部の区別には[サブネットマスク](../Page/サブネットマスク.md "wikilink")を用いる。
 

@@ -11,6 +11,8 @@ W3Cはまた教育活動も行っており、[ソフトウェア](../Page/ソフ
 
 XHTMLの規格に不満を持った企業等はW3Cに対抗する[WHATWGという対抗団体を立ち上げているが](../Page/Web_Hypertext_Application_Technology_Working_Group.md "wikilink")、両団体は[HTML5](../Page/HTML5.md "wikilink")の策定にあたって協力関係にあり、WHATWGによって2004年に定められたWeb Applications 1.0にWeb Forms 2.0を取り入れたものがW3Cの専門委員会に採用され、W3Cより[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月22日に[ドラフト](https://ja.wikipedia.org/wiki/ドラフト "wikilink")（草案）が発表された。
 
+[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")[SFC研究所が中国を除くアジア圏を担当している](../Page/慶應義塾大学湘南藤沢キャンパス.md "wikilink")。
+
 ## 歴史
 
 World Wide Web Consortium の設立は、今日の[インターネット](../Page/インターネット.md "wikilink")の基礎技術を確立しそれを無償で公開したティム・バーナーズ＝リーの努力によるところが大きい。彼は、[欧州原子核研究機構](../Page/欧州原子核研究機構.md "wikilink")(CERN)における中心的な活動にも係わってきた。

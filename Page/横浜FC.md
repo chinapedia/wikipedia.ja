@@ -184,486 +184,6 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 
 ## 現所属選手
 
-  - [J1リーグ2020シーズン](https://ja.wikipedia.org/wiki/2020年のJ1リーグ "wikilink") 基本フォーメーション
-
-<div style="position: relative;">
-
-[350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
-
-</div>
-
-  - 2020年2月23日現在
-
-### 選手
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Pos</p></td>
-<td><p>No.</p></td>
-<td><p>選手名</p></td>
-<td><p>生年月日 (年齢)</p></td>
-<td><p>在籍年</p></td>
-<td><p>前所属</p></td>
-<td><p>備考</p></td>
-</tr>
-<tr class="even">
-<td><p>GK</p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竹重安希彦" title="wikilink">竹重安希彦</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p><a href="../Page/栃木SC.md" title="wikilink">栃木SC</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>18</strong></p></td>
-<td><p><a href="../Page/南雄太.md" title="wikilink">南雄太</a> </p></td>
-<td></td>
-<td><p>|2014年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>21</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/市川暉記" title="wikilink">市川暉記</a></p></td>
-<td></td>
-<td><p>2017年 - 2018年<br />
-2020年 -</p></td>
-<td><p><a href="../Page/ガイナーレ鳥取.md" title="wikilink">ガイナーレ鳥取</a></p></td>
-<td><p>期限付き移籍より復帰</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>44</strong></p></td>
-<td><p><a href="../Page/六反勇治.md" title="wikilink">六反勇治</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
-<td><p>新加入<br />
-期限付き移籍<br />
-元<a href="../Page/サッカー日本代表.md" title="wikilink">日本代表</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>DF</p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤井悠太" title="wikilink">藤井悠太</a></p></td>
-<td></td>
-<td><p>2016年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>4</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小林友希" title="wikilink">小林友希</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">FC町田ゼルビア</a></p></td>
-<td><p>新加入<br />
-期限付き移籍</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マグノ・ジョゼ・ダ・シルバ" title="wikilink">マギーニョ</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎フロンターレ</a></p></td>
-<td><p>新加入<br />
-期限付き移籍</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>5</strong></p></td>
-<td><p><a href="../Page/田代真一.md" title="wikilink">田代真一</a></p></td>
-<td></td>
-<td><p>2018年7月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">V・ファーレン長崎</a></p></td>
-<td><p>2018年は期限付き移籍</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>14</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/志知孝明" title="wikilink">志知孝明</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>20</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルフィン・ヨン・ア・ピン" title="wikilink">カルフィン・ヨン・ア・ピン</a></p></td>
-<td></td>
-<td><p>2017年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">FC町田ゼルビア</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>26</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/袴田裕太郎" title="wikilink">袴田裕太郎</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>29</strong></p></td>
-<td><p><a href="../Page/星キョーワァン.md" title="wikilink">星キョーワァン</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/駒澤大学体育会サッカー部" title="wikilink">駒澤大学</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>33</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川崎裕大" title="wikilink">川崎裕大</a></p></td>
-<td></td>
-<td><p>2017年8月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C" title="wikilink">サンフレッチェ広島</a></p></td>
-<td><p>2017年は期限付き移籍</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>39</strong></p></td>
-<td><p><a href="../Page/伊野波雅彦.md" title="wikilink">伊野波雅彦</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
-<td><p>副キャプテン<br />
-元日本代表</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>MF</p></td>
-<td><p><strong>6</strong></p></td>
-<td><p><a href="../Page/瀬古樹.md" title="wikilink">瀬古樹</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学</a></p></td>
-<td><p>新加入</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>7</strong></p></td>
-<td><p><a href="../Page/松浦拓弥.md" title="wikilink">松浦拓弥</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p><a href="../Page/ジュビロ磐田.md" title="wikilink">ジュビロ磐田</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>8</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤謙介" title="wikilink">佐藤謙介</a></p></td>
-<td></td>
-<td><p>2011年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中央大学学友会サッカー部" title="wikilink">中央大学</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>17</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田英二郎" title="wikilink">武田英二郎</a></p></td>
-<td></td>
-<td><p>2018年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>22</strong></p></td>
-<td><p><a href="../Page/松井大輔.md" title="wikilink">松井大輔</a></p></td>
-<td></td>
-<td><p>2018年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オードラ・オポーレ" title="wikilink">オードラ・オポーレ</a></p></td>
-<td><p>元日本代表</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>27</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中山克広" title="wikilink">中山克広</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/専修大学体育会サッカー部" title="wikilink">専修大学</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>28</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安永玲央" title="wikilink">安永玲央</a></p></td>
-<td></td>
-<td><p>2019年 - 同年7月<br />
-2020年 -</p></td>
-<td><p><a href="../Page/カターレ富山.md" title="wikilink">カターレ富山</a></p></td>
-<td><p>再加入<br />
-期限付き移籍より復帰</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>30</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/手塚康平" title="wikilink">手塚康平</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a></p></td>
-<td><p>新加入<br />
-期限付き移籍</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>32</strong></p></td>
-<td><p><a href="../Page/古宿理久.md" title="wikilink">古宿理久</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="../Page/青森山田中学高等学校.md" title="wikilink">青森山田高校</a></p></td>
-<td><p>新加入<br />
-ジュニアユース出身</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>34</strong></p></td>
-<td><p><a href="../Page/熊川翔.md" title="wikilink">熊川翔</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>37</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松尾佑介" title="wikilink">松尾佑介</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/仙台大学サッカー部" title="wikilink">仙台大学</a></p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>40</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レアンドロ・ドミンゲス・バルボーザ" title="wikilink">レアンドロ・ドミンゲス</a></p></td>
-<td></td>
-<td><p>2017年7月 -</p></td>
-<td><p><a href="../Page/アソシアソン・ポルトゥゲーザ・ジ・デスポルトス.md" title="wikilink">ポルトゲーザ</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>46</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村俊輔" title="wikilink">中村俊輔</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p>ジュビロ磐田</p></td>
-<td><p>元日本代表</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>FW</p></td>
-<td><p><strong>9</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/一美和成" title="wikilink">一美和成</a></p></td>
-<td></td>
-<td><p>2020年 -</p></td>
-<td><p><a href="../Page/京都サンガF.C..md" title="wikilink">京都サンガF.C.</a></p></td>
-<td><p>新加入<br />
-期限付き移籍</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>10</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アブドゥラーヒム・ラーヤブ" title="wikilink">イバ</a></p></td>
-<td></td>
-<td><p>2016年3月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河北華夏幸福足球倶楽部" title="wikilink">河北華夏幸福</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>11</strong></p></td>
-<td><p><a href="../Page/三浦知良.md" title="wikilink">三浦知良</a></p></td>
-<td></td>
-<td><p>2005年7月 - 11月<br />
-2006年 -</p></td>
-<td><p><a href="../Page/シドニーFC.md" title="wikilink">シドニーFC</a></p></td>
-<td><p>元日本代表</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>13</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬沼優司" title="wikilink">瀬沼優司</a></p></td>
-<td></td>
-<td><p>2018年7月 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>15</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/齋藤功佑" title="wikilink">齋藤功佑</a></p></td>
-<td></td>
-<td><p>2016年 -</p></td>
-<td><p>横浜FCユース</p></td>
-<td><p>副キャプテン</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>16</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/皆川佑介" title="wikilink">皆川佑介</a></p></td>
-<td></td>
-<td><p>2019年7月 -</p></td>
-<td><p>サンフレッチェ広島</p></td>
-<td><p>元日本代表</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>23</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/斉藤光毅" title="wikilink">斉藤光毅</a></p></td>
-<td></td>
-<td><p>2018年3月 -</p></td>
-<td><p>横浜FCユース</p></td>
-<td><p>2018年8月までは2種登録選手</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>25</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/草野侑己" title="wikilink">草野侑己</a></p></td>
-<td></td>
-<td><p>2019年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阪南大学サッカー部" title="wikilink">阪南大学</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 期限付き移籍加入の選手
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Pos</p></td>
-<td><p>選手名</p></td>
-<td><p>生年月日 (年齢)</p></td>
-<td><p>移籍元</p></td>
-<td><p>移籍期間</p></td>
-<td><p>備考</p></td>
-</tr>
-<tr class="even">
-<td><p>GK</p></td>
-<td><p><a href="../Page/六反勇治.md" title="wikilink">六反勇治</a></p></td>
-<td></td>
-<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
-<td><p>2020年2月1日 - 2021年1月31日</p></td>
-<td><p>清水と対戦する公式戦出場不可</p></td>
-</tr>
-<tr class="odd">
-<td><p>DF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マグノ・ジョゼ・ダ・シルバ" title="wikilink">マギーニョ</a></p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎フロンターレ</a></p></td>
-<td><p>川崎と対戦する公式戦出場不可</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/小林友希" title="wikilink">小林友希</a></p></td>
-<td></td>
-<td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
-<td><p>神戸と対戦する公式戦出場不可</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>MF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/手塚康平" title="wikilink">手塚康平</a></p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a></p></td>
-<td><p>柏と対戦する公式戦出場不可</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>FW</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/一美和成" title="wikilink">一美和成</a></p></td>
-<td></td>
-<td><p><a href="../Page/ガンバ大阪.md" title="wikilink">ガンバ大阪</a></p></td>
-<td><p>G大阪と対戦する公式戦出場不可</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 期限付き移籍中の選手
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Pos</p></td>
-<td><p>選手名</p></td>
-<td><p>生年月日 (年齢)</p></td>
-<td><p>在籍年</p></td>
-<td><p>移籍先</p></td>
-<td><p>移籍期間</p></td>
-<td><p>備考</p></td>
-</tr>
-<tr class="even">
-<td><p>GK</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大内一生" title="wikilink">大内一生</a></p></td>
-<td></td>
-<td><p>2019年</p></td>
-<td><p><a href="../Page/横浜スポーツ&amp;カルチャークラブ.md" title="wikilink">Y.S.C.C.横浜</a></p></td>
-<td><p>2020年2月1日 - 2021年1月31日</p></td>
-<td><p>ユース出身<br />
-育成型期限付き移籍<br />
-横浜FCと対戦する公式戦出場不可</p></td>
-</tr>
-<tr class="odd">
-<td><p>MF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/前嶋洋太" title="wikilink">前嶋洋太</a></p></td>
-<td></td>
-<td><p>2016年 - 2017年</p></td>
-<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
-<td><p>ユース出身<br />
-横浜FCと対戦する公式戦出場不可</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>FW</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸島章" title="wikilink">戸島章</a></p></td>
-<td></td>
-<td><p>2018年 - 2019年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a></p></td>
-<td><p>横浜FCと対戦する公式戦出場不可</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## 成績
 
 ## タイトル・表彰
@@ -727,16 +247,14 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 横浜FCは2011年シーズンより対戦相手によって販売価格が異なるチケットのカテゴリー制を導入している。カテゴリ1の対象試合はカテゴリ2のそれに比べて一部の席の種類で価格が最大500円高くなっているのが特徴である\[24\]。各年度のカテゴリの対象クラブは下表の通り。
 
 <table>
-<thead>
-<tr class="header">
-<th><p>年度</p></th>
-<th><p>所属</p></th>
-<th><p>カテゴリ1</p></th>
-<th><p>カテゴリ2</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><p>年度</p></td>
+<td><p>所属</p></td>
+<td><p>カテゴリ1</p></td>
+<td><p>カテゴリ2</p></td>
+</tr>
+<tr class="even">
 <td><p>2011</p></td>
 <td><p>J2</p></td>
 <td><p>札幌、千葉、FC東京、<br />
@@ -744,21 +262,21 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 <td><p>水戸、栃木、草津、東京V、富山、岐阜、鳥取、岡山、<br />
 徳島、愛媛、北九州、鳥栖、熊本、大分</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012</p></td>
 <td><p>千葉、湘南、甲府、京都</p></td>
 <td><p>山形、水戸、栃木、草津、東京V、町田、松本、富山、<br />
 岐阜、鳥取、岡山、徳島、愛媛、福岡、北九州、熊本、大分</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013</p></td>
 <td><p>札幌、千葉、京都、G大阪、神戸</p></td>
 <td><p>山形、水戸、栃木、群馬、東京V、松本、富山、岐阜、<br />
 鳥取、岡山、徳島、愛媛、福岡、北九州、長崎、熊本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014</p></td>
 <td><p>札幌、山形、千葉、湘南、<br />
 松本、磐田、京都</p></td>
@@ -766,7 +284,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 愛媛、福岡、北九州、長崎、熊本、大分</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015</p></td>
 <td><p>札幌、群馬、栃木、大宮、<br />
 千葉、磐田、C大阪</p></td>
@@ -774,7 +292,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 徳島、愛媛、福岡、北九州、長崎、熊本、大分</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016</p></td>
 <td><p>札幌、山形、千葉、東京V、松本、<br />
 金沢、清水、京都、C大阪、讃岐</p></td>
@@ -782,7 +300,7 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 徳島、愛媛、北九州、長崎、熊本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -807,33 +325,31 @@ J1開幕戦は[浦和に](https://ja.wikipedia.org/wiki/浦和レッドダイヤ
 ### ユニフォームスポンサー
 
 <table>
-<thead>
-<tr class="header">
-<th><p>掲出箇所</p></th>
-<th><p>スポンサー名</p></th>
-<th><p>表記</p></th>
-<th><p>掲出年</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><p>掲出箇所</p></td>
+<td><p>スポンサー名</p></td>
+<td><p>表記</p></td>
+<td><p>掲出年</p></td>
+<td><p>備考</p></td>
+</tr>
+<tr class="even">
 <td><p>胸</p></td>
 <td><p><a href="http://www.onodera-group.jp/">ONODERA GROUP</a></p></td>
 <td><p>ONODERA<br />
-GROUP</p></td>
+</p></td>
 <td><p>2019年 -</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>鎖骨</p></td>
-<td><p><a href="https://www.fudealcreation.com/"></a></p></td>
+<td><p><a href="https://www.fudealcreation.com/">フュディアルクリエーション</a></p></td>
 <td><p>FUDEAL<br />
 CREATION</p></td>
-<td><p>2018年4月 -[28]</p></td>
+<td><p>2018年4月 -</p></td>
 <td><p>左側に表記</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/横浜冷凍" title="wikilink">横浜冷凍</a></p></td>
 <td><p>ヨコレイ</p></td>
 <td><p>2019年 -</p></td>
@@ -841,7 +357,7 @@ CREATION</p></td>
 2017年 - 2018年は背中下部及びパンツ</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>背中上部</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">インバースネット</a></p></td>
 <td><p>FRONTIER</p></td>
@@ -849,26 +365,28 @@ CREATION</p></td>
 <td><p>2016年は背中下部<br />
 2016年 - 2018年は「FRONTIER PC」表記</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>背中下部</p></td>
 <td><p><a href="http://www.nittai-since1957.co.jp/">NITTAI</a></p></td>
 <td><p>NITTAI</p></td>
 <td><p>2019年 -</p></td>
-<td><p>2013年 - 2014年はパンツ（旧社名<br />
-「横浜日泰リース」の略称「YNL」表記）<br />
+<td><p>2013年 - 2014年はパンツ<br />
+（旧社名「横浜日泰リース」の略称「YNL」表記）<br />
 2015年 - 2017年は袖<br />
-2018年は鎖骨（右）</p></td>
+2018年は鎖骨右<br />
+2015年は「NITTAI 」表記</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>袖</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャパンエレベーターサービスホールディングス" title="wikilink">ジャパンエレベーター<br />
 サービスホールディングス</a></p></td>
-<td><p>jes</p></td>
+<td><p><br />
+jes</p></td>
 <td><p>2018年 -</p></td>
 <td><p>2011年はパンツ、<br />
 2012年 - 2016年までは背中上部</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>パンツ</p></td>
 <td><p><a href="https://draft.co.jp/">ドラフト</a></p></td>
 <td><p>DRAFT</p></td>
@@ -907,7 +425,8 @@ CREATION</p></td>
 <tr class="odd">
 <td><p>年度</p></td>
 <td><p>胸</p></td>
-<td><p>鎖骨</p></td>
+<td><p>鎖骨左</p></td>
+<td><p>鎖骨右</p></td>
 <td><p>背中上部</p></td>
 <td><p>背中下部</p></td>
 <td><p>袖</p></td>
@@ -923,9 +442,11 @@ CREATION</p></td>
 <td><p><a href="../Page/ロバート・ボッシュ_(企業).md" title="wikilink">BOSCH</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/ミズノ.md" title="wikilink">Mizuno</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -943,12 +464,15 @@ CREATION</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2002</p></td>
-<td><p>- /<br />
-<a href="../Page/藤原紀香.md" title="wikilink">norika.net</a></p></td>
-<td><p><a href="http://www.nittochi.co.jp">日土地</a></p></td>
+<td><p>-/<br />
+<a href="../Page/藤原紀香.md" title="wikilink">norika.net<br />
+{{smaller</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本土地建物" title="wikilink">日土地</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -964,11 +488,13 @@ CREATION</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p>- /<br />
+<td><p>-/<br />
 <a href="../Page/日総工産.md" title="wikilink">NISSO</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -980,7 +506,9 @@ CREATION</p></td>
 <td><p>2005</p></td>
 <td><p><a href="../Page/日総工産.md" title="wikilink">NISSO</a></p></td>
 <td><p><a href="../Page/LEOC.md" title="wikilink">LEOC</a></p></td>
-<td><p><a href="http://www.asuka-group.jp">明日佳グループ</a></p></td>
+<td><p><a href="http://www.asuka-group.jp/">明日佳<br />
+</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -988,9 +516,12 @@ CREATION</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006</p></td>
+<td><p><a href="../Page/日総工産.md" title="wikilink">NISSO<br />
+{{smaller</a></p></td>
 <td><p><a href="../Page/LEOC.md" title="wikilink">LEOC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木下工務店" title="wikilink">ライフコミューン</a></p></td>
-<td><p><a href="../Page/リンクアンドモチベーション.md" title="wikilink">LM</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/木下工務店" title="wikilink">LIFE COMMUNE</a></p></td>
+<td><p><a href="../Page/リンクアンドモチベーション.md" title="wikilink">LM<br />
+{{smaller</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -998,6 +529,7 @@ CREATION</p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
+<td><p><a href="../Page/日総工産.md" title="wikilink">NISSO</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リソー教育グループ" title="wikilink">TOMAS</a></p></td>
 <td></td>
 <td></td>
@@ -1008,8 +540,10 @@ CREATION</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p><a href="../Page/ノジマ.md" title="wikilink">Nojima</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木下工務店" title="wikilink">ライフコミューン</a></p></td>
+<td><p><a href="../Page/ノジマ.md" title="wikilink">nojima</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/木下工務店" title="wikilink">LIFE COMMUNE<br />
+{{smaller</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1019,9 +553,11 @@ CREATION</p></td>
 <tr class="even">
 <td><p>2009</p></td>
 <td><p><a href="../Page/LEOC.md" title="wikilink">LEOC</a></p></td>
-<td><p><a href="http://www.feat-e.com">フィート</a></p></td>
-<td><p><a href="http://www.asuka-group.jp">明日佳グループ</a></p></td>
+<td><p><a href="http://www.feat-e.com/">フィート</a></p></td>
+<td><p><a href="http://www.asuka-group.jp/">明日佳<br />
+</a></p></td>
 <td><p><a href="http://m3d.jp/">M3D</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1029,8 +565,9 @@ CREATION</p></td>
 <tr class="odd">
 <td><p>2010</p></td>
 <td><p><a href="../Page/LEOC.md" title="wikilink">レオックジャパン</a></p></td>
-<td><p><a href="http://www.genova.co.jp/index.html">GENOVA</a></p></td>
+<td><p><a href="http://www.genova.co.jp/">GENOVA</a></p></td>
 <td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1038,9 +575,11 @@ CREATION</p></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="http://www.asuka-group.jp">明日佳グループ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウイルプラスホールディングス" title="wikilink">CHECKER MOTORS</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャパンエレベーターサービスホールディングス" title="wikilink">jes</a></p></td>
+<td><p><a href="http://www.asuka-group.jp/">明日佳グループ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウイルプラスホールディングス" title="wikilink">CHECKER<br />
+{{smaller</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャパンエレベーターサービスホールディングス" title="wikilink">{{smaller</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1048,10 +587,13 @@ CREATION</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャパンエレベーターサービスホールディングス" title="wikilink">jes</a></p></td>
-<td><p>- /<br />
-<a href="http://www.asuka-group.jp">明日佳グループ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ほけんの窓口グループ" title="wikilink">ほけんの窓口</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャパンエレベーターサービスホールディングス" title="wikilink">{{smaller</a></p></td>
+<td><p>-/<br />
+<a href="http://www.asuka-group.jp/">明日佳<br />
+</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ほけんの窓口グループ" title="wikilink">ほけんの<br />
+窓口</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1059,8 +601,10 @@ CREATION</p></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ほけんの窓口グループ" title="wikilink">ほけんの窓口</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ほけんの窓口グループ" title="wikilink">ほけんの<br />
+窓口</a></p></td>
 <td><p><a href="http://www.nittai-since1957.co.jp/">YNL</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1069,7 +613,8 @@ CREATION</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p>|-</p></td>
+<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1079,10 +624,12 @@ CREATION</p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p><a href="http://www.nittai-since1957.co.jp/">NITTAI</a></p></td>
-<td><p>- /<br />
+<td><p><a href="http://www.nittai-since1957.co.jp/">NITTAI<br />
+</a></p></td>
+<td><p>-/<br />
 <a href="https://ja.wikipedia.org/wiki/フォーサイド" title="wikilink">Catchboard</a></p></td>
-<td><p><a href="http://soccerjunky.com/">SOCCER JUNKY</a></p></td>
+<td><p><a href="http://soccerjunky.com/">Soccer Junky</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1090,7 +637,8 @@ CREATION</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p>- /<br />
+<td><p><a href="http://www.nittai-since1957.co.jp/">NITTAI</a></p></td>
+<td><p>-/<br />
 <a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">FRONTIER PC</a></p></td>
 <td><p>-</p></td>
 <td></td>
@@ -1108,14 +656,18 @@ CREATION</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p>-/<a href="https://www.fudealcreation.com/">FUDEAL<br />
-CREATION</a>（左）<br />
-<a href="http://www.nittai-since1957.co.jp/">NITTAI</a>（右）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャパンエレベーターサービスホールディングス" title="wikilink">jes</a></p></td>
-<td></td>
+<td><p>-/<br />
+<a href="https://www.fudealcreation.com/">FUDEAL<br />
+CREATION</a>（通常）<br />
+<a href="../Page/ブリタ.md" title="wikilink">BRITA</a>（20周年記念）</p></td>
+<td><p><a href="http://www.nittai-since1957.co.jp/">NITTAI</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜冷凍" title="wikilink">ヨコレイ</a>（通常）<br />
+<a href="https://ja.wikipedia.org/wiki/横浜冷凍" title="wikilink">yokorei</a>（20周年記念）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャパンエレベーターサービスホールディングス" title="wikilink">{{smaller</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1124,10 +676,10 @@ CREATION</a>（左）<br />
 <tr class="even">
 <td><p>2019</p></td>
 <td><p><a href="http://www.onodera-group.jp/">ONODERA<br />
-GROUP</a></p></td>
+</a></p></td>
 <td><p><a href="https://www.fudealcreation.com/">FUDEAL<br />
-CREATION</a>（左）<br />
-<a href="https://ja.wikipedia.org/wiki/横浜冷凍" title="wikilink">ヨコレイ</a>（右）</p></td>
+CREATION</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/横浜冷凍" title="wikilink">ヨコレイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インバースネット" title="wikilink">FRONTIER</a></p></td>
 <td><p><a href="http://www.nittai-since1957.co.jp/">NITTAI</a></p></td>
 <td><p>-</p></td>
@@ -1143,13 +695,25 @@ CREATION</a>（左）<br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ## アカデミー
 
-横浜FCは、アカデミー（育成組織）として、次の3カテゴリをもっている\[29\]。
+横浜FCは、アカデミー（育成組織）として、次の3カテゴリをもっている\[28\]。
 
 ### 下部組織
 
@@ -1159,17 +723,17 @@ CREATION</a>（左）<br />
 
 ### 横浜FC U-21
 
-2016年度より弊クラブ所属の若手と大学との協力でチームを編成し、U-21タインニエン新聞国際サッカー選手権に参加している。\[30\]
+2016年度より弊クラブ所属の若手と大学との協力でチームを編成し、U-21タインニエン新聞国際サッカー選手権に参加している。\[29\]
 
 ## 横浜FCスポーツクラブ
 
 ### サッカースクール
 
-幼稚園児から大人に至るまでの「横浜FCサッカースクール」は、2012年6月に設立された一般社団法人横浜FCスポーツクラブ\[31\] が運営している。
+幼稚園児から大人に至るまでの「横浜FCサッカースクール」は、2012年6月に設立された一般社団法人横浜FCスポーツクラブ\[30\] が運営している。
 
 ### 女子サッカーチーム
 
-横浜フリエSCは、2013年2月に発足した女子サッカーチーム[横浜FCシーガルズ](https://ja.wikipedia.org/wiki/横浜FCシーガルズ "wikilink")を運営している\[32\]。横浜FCシーガルズの関連クラブとして、[横須賀市](../Page/横須賀市.md "wikilink")に[横須賀シーガルズ](https://ja.wikipedia.org/wiki/横須賀シーガルズ "wikilink")が置かれている。
+横浜フリエSCは、2013年2月に発足した女子サッカーチーム[横浜FCシーガルズ](https://ja.wikipedia.org/wiki/横浜FCシーガルズ "wikilink")を運営している\[31\]。横浜FCシーガルズの関連クラブとして、[横須賀市](../Page/横須賀市.md "wikilink")に[横須賀シーガルズ](https://ja.wikipedia.org/wiki/横須賀シーガルズ "wikilink")が置かれている。
 
 ### サッカー以外のスポーツ
 
@@ -1198,7 +762,7 @@ CREATION</a>（左）<br />
 
 2001年9月、横浜フリエSCはソシオに代る新しいチームの後援組織「横浜FCクラブメンバー」を創設し、新社長に就任した奥寺保有の株式をソシオ会員ではなく、クラブメンバーに割り当てること、また会員には「サッカーをする・ふれるといった体験型のイベントを充実させる」ことや「個人情報の管理・責任をより徹底・明確にする」ことなどを提案。これにはソシオ理事会側が遺憾の意を示す。
 
-その後、ソシオは横浜フリエSCに対し、ソシオの会費の一部（740万円相当）と会員名簿の返還を求めるよう[横浜地方裁判所](../Page/横浜地方裁判所.md "wikilink")に[仮処分](../Page/仮処分.md "wikilink")申請を行ったが、2002年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[却下](https://ja.wikipedia.org/wiki/却下 "wikilink")された。ソシオは[東京高等裁判所](../Page/東京高等裁判所.md "wikilink")に[即時抗告](https://ja.wikipedia.org/wiki/即時抗告 "wikilink")を行ったが、これも[2003年](../Page/2003年.md "wikilink")に却下された。その趣旨は「入会事務・会員名簿の作成は運営会社から委託された業者が行い、団体として内部的にも自立して運営されているとは認めがたいから、ソシオは（[法人格](https://ja.wikipedia.org/wiki/法人格 "wikilink")を有しない団体でも例外的に[当事者能力](https://ja.wikipedia.org/wiki/当事者能力 "wikilink")が認められる）[民事保全法](../Page/民事保全法.md "wikilink")7条・[民事訴訟法](../Page/民事訴訟法.md "wikilink")29条の『法人でない社団』とは認められない。よって、当事者能力がないから、申立ては不適法である」というものだった\[33\]。
+その後、ソシオは横浜フリエSCに対し、ソシオの会費の一部（740万円相当）と会員名簿の返還を求めるよう[横浜地方裁判所](../Page/横浜地方裁判所.md "wikilink")に[仮処分](../Page/仮処分.md "wikilink")申請を行ったが、2002年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[却下](https://ja.wikipedia.org/wiki/却下 "wikilink")された。ソシオは[東京高等裁判所](../Page/東京高等裁判所.md "wikilink")に[即時抗告](https://ja.wikipedia.org/wiki/即時抗告 "wikilink")を行ったが、これも[2003年](../Page/2003年.md "wikilink")に却下された。その趣旨は「入会事務・会員名簿の作成は運営会社から委託された業者が行い、団体として内部的にも自立して運営されているとは認めがたいから、ソシオは（[法人格](https://ja.wikipedia.org/wiki/法人格 "wikilink")を有しない団体でも例外的に[当事者能力](https://ja.wikipedia.org/wiki/当事者能力 "wikilink")が認められる）[民事保全法](../Page/民事保全法.md "wikilink")7条・[民事訴訟法](../Page/民事訴訟法.md "wikilink")29条の『法人でない社団』とは認められない。よって、当事者能力がないから、申立ては不適法である」というものだった\[32\]。
 
 その間、横浜フリエSCが「ソシオの名称は横浜フリエSCに[商標登録](https://ja.wikipedia.org/wiki/商標登録 "wikilink")がある。このまま使用を続けるのなら法的な処置も辞さない」とソシオに通告を行い、2003年にソシオは「ソシオ・フリエスタ」から「ソシオ横浜」に名称を変更した。2003年9月、ソシオと横浜フリエSCは[和解](../Page/和解.md "wikilink")合意書に調印し、2年以上に及んだ横浜フリエSCとソシオの対立は区切りを迎えた。なお、[ソシオ横浜の公式サイト](http://www.socioyokohama.org) は2008年1月を最後に更新が止まっている。
 
@@ -1259,8 +823,7 @@ CREATION</a>（左）<br />
 26.
 27.
 28.
-29.
-30. [ベトナムが憧れるジャパンクオリティ。横浜FCの若武者たちが示した最高の手本](https://headlines.yahoo.co.jp/article?a=20180113-00010001-footballc-socc)フットボールチャンネル（2017年1月13日）
+29. [ベトナムが憧れるジャパンクオリティ。横浜FCの若武者たちが示した最高の手本](https://headlines.yahoo.co.jp/article?a=20180113-00010001-footballc-socc)フットボールチャンネル（2017年1月13日）
+30.
 31.
-32.
-33. [ソシオ横浜（旧ソシオ・フリエスタ）の資料](http://www.socioyokohama.org/sociofuliesta/html/rijikai/doc07/doc59.html)
+32. [ソシオ横浜（旧ソシオ・フリエスタ）の資料](http://www.socioyokohama.org/sociofuliesta/html/rijikai/doc07/doc59.html)

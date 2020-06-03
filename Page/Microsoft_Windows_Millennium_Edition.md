@@ -100,7 +100,6 @@ Windows Meからは[Windows 2000 Professional](../Page/Microsoft_Windows_2000.md
 ## 関連項目
 
   - [Windows 9x系](../Page/Windows_9x系.md "wikilink")
-  - [OSたん](../Page/OSたん.md "wikilink") - Meをモデルに[萌え擬人化](../Page/萌え擬人化.md "wikilink")したキャラクターが元祖とされる
 
 ## 外部リンク
 

@@ -5,34 +5,43 @@
 
 ## 概要
 
-[Linux](../Page/Linux.md "wikilink")カーネルは[プロセス](../Page/プロセス.md "wikilink")や[ソケット通信などの機能を提供する](../Page/ソケット_\(BSD\).md "wikilink")。これらは様々なソフトウェアを動作させるうえで基礎となる重要な機能であるが、ユーザーが利用する機能としては非常にプリミティブである。例えばカーネルそのものにはOS起動時のデーモン自動起動機能は存在しないし、[Bash](../Page/Bash.md "wikilink")のようなインタラクティブコンソール機能も存在しない。これらの機能はすべて[Linux](../Page/Linux.md "wikilink")カーネルを利用する個別のソフトウェアによって実現されている。
+[Linux](../Page/Linux.md "wikilink")カーネルは[プロセス](../Page/プロセス.md "wikilink")や[ソケット通信などの機能を提供する](../Page/ソケット_\(BSD\).md "wikilink")。これらは様々なソフトウェアを動作させるうえで基礎となる重要な機能であるが、ユーザーが利用する機能としては非常にプリミティブである。例えばカーネルそのものにはOS起動時のデーモン自動起動機能は存在しないし、[Bash](../Page/Bash.md "wikilink")のようなインタラクティブコンソール機能も存在しない。これらの機能はすべて[Linux](../Page/Linux.md "wikilink")カーネルを利用する[GNUなどによって作られた個別のソフトウェアによって実現されている](../Page/GNUプロジェクト.md "wikilink")。
 
 ユーザーの利便性を高めるためにLinuxカーネルとこれらソフトウェア群を1つのパッケージにしたものがLinuxディストリビューションである。無償・有償様々な[distribution](https://ja.wikipedia.org/wiki/ディストリビューション "wikilink")＝配布・流通・頒布形態が存在し、各ディストリビューションはその理念・目的によって[派生し](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")、それぞれ異なるソフトウェアをパッケージに含んでいる。ユーザーはLinuxディストリビューションをインストールするだけでシェル機能やパッケージ管理機能、デスクトップ環境などを利用することができる。
 
 ## コンポーネント
 
-[Linux_Distribution_Timeline.svg](https://ja.wikipedia.org/wiki/File:Linux_Distribution_Timeline.svg "fig:Linux_Distribution_Timeline.svg") [カーネル](../Page/カーネル.md "wikilink")の他、基本的なUNIXのツールやユーティリティ、その他[サーバ](../Page/サーバ.md "wikilink")向けや[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")向けの[ソフトウェア](../Page/ソフトウェア.md "wikilink")を集め、ビルドして[バイナリパッケージ](https://ja.wikipedia.org/wiki/バイナリパッケージ "wikilink")を作成し提供している。その他、最初のインストールの際に必要な[インストーラ等といった補助的なシステムが付属する](../Page/インストール.md "wikilink")。バイナリパッケージを利用するという形態のために、rpmやdebなど、何らかのバイナリパッケージシステムの採用がほぼ必須であり、どのシステムを採用しているかがディストリビューションの主要な特徴のひとつとなる。yumなどより上位の[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")も、現代ではほぼ必須である。
+[Linux_Distribution_Timeline.svg](https://ja.wikipedia.org/wiki/File:Linux_Distribution_Timeline.svg "fig:Linux_Distribution_Timeline.svg") [カーネル](../Page/カーネル.md "wikilink")の他、基本的なUNIXのツールやユーティリティ、その他[サーバ](../Page/サーバ.md "wikilink")向けや[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")向けの[ソフトウェア](../Page/ソフトウェア.md "wikilink")を集め、ビルドして[バイナリパッケージ](https://ja.wikipedia.org/wiki/バイナリパッケージ "wikilink")を作成し提供している。その他、最初のインストールの際に必要な[インストーラ等といった補助的なシステムが付属する](../Page/インストール.md "wikilink")。バイナリパッケージを利用するという形態のために、rpmやdebなど、何らかのバイナリパッケージシステムの採用がほぼ必須であり、どのシステムを採用しているかがディストリビューションの主要な特徴のひとつとなる。aptやyumなどより上位の[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")も、現代ではほぼ必須である。
 
   - [Linuxカーネル](../Page/Linuxカーネル.md "wikilink")
-      - （Linuxカーネル以外の場合は「Linuxディストリビューション」ではない（Debian/FreeBSDなど））
+      - （Linuxカーネル以外の場合は「Linuxディストリビューション」ではない（[Debian GNU/kFreeBSDや](https://ja.wikipedia.org/wiki/Debian_GNU/kFreeBSD "wikilink")[Debian GNU/Hurdなど](https://ja.wikipedia.org/wiki/Debian_GNU/Hurd "wikilink")））
       - その他、カーネルモジュール等
   - 必須なツールやユーティリティやライブラリ
       - util-linux（[:en:Util-linux](https://ja.wikipedia.org/wiki/:en:Util-linux "wikilink")）
       - [GNU Core Utilities](../Page/GNU_Core_Utilities.md "wikilink")（coreutilsとも。昔のfileutils, shellutils, textutilsは全てcoreutilsに取り込まれた）
-      - [Bourne Shell](../Page/Bourne_Shell.md "wikilink") 互換シェル（他のシェルと違い /bin/sh として必須である）
+      - [Bourne Shell](../Page/Bourne_Shell.md "wikilink") 互換シェル（他のシェルと違い /bin/sh として必須である(Debian系では[Dashが](https://ja.wikipedia.org/wiki/Debian_Almquist_shell "wikilink")/bin/shに使われることも多い)）
       - [Unixシェル](https://ja.wikipedia.org/wiki/Unixシェル "wikilink")
       - [glibc](https://ja.wikipedia.org/wiki/GNU_Cライブラリ "wikilink")
   - 起動に必要なもの
       - [init](https://ja.wikipedia.org/wiki/init "wikilink")
       - /etc などの基本的なファイル群
+      - [GRUBや](../Page/GNU_GRUB.md "wikilink")[LILO](../Page/LILO.md "wikilink")のようなブートローダー
+  - エディタ
+      - [Emacs](../Page/Emacs.md "wikilink")
+      - [nano](../Page/Nano_\(テキストエディタ\).md "wikilink")
+      - [vim](https://ja.wikipedia.org/wiki/vim "wikilink")
   - コンパイラ等
       - [GNU Binutils](../Page/GNU_Binutils.md "wikilink") (binutils)
       - [GCC](../Page/GNUコンパイラコレクション.md "wikilink")
   - 各種の設定を行うソフト
-  - [スクリプト言語](../Page/スクリプト言語.md "wikilink")（sed, awk, etc）
+  - [スクリプト言語](../Page/スクリプト言語.md "wikilink")
+      - [awk](../Page/AWK.md "wikilink")
+      - [perl](https://ja.wikipedia.org/wiki/perl "wikilink")
+      - [python](https://ja.wikipedia.org/wiki/python "wikilink")
+      - [sed](../Page/Sed_\(コンピュータ\).md "wikilink")
   - GUI関係
       - [X11のフリーな実装である](../Page/X_Window_System.md "wikilink")[XFree86](../Page/XFree86.md "wikilink")、[XOrg](../Page/X.Org_Foundation.md "wikilink")
-          - [デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")として[GNOME](../Page/GNOME.md "wikilink")、[KDE](../Page/KDE.md "wikilink")、[Xfce](../Page/Xfce.md "wikilink")
+          - [デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")として[GNOME](../Page/GNOME.md "wikilink")、[KDE](../Page/KDE.md "wikilink")、[Xfce](../Page/Xfce.md "wikilink")、[LXDE](https://ja.wikipedia.org/wiki/LXDE "wikilink")
           - [ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")
   - デスクトップ向けアプリケーション
       - [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")
@@ -89,13 +98,9 @@
 
       - [Tails](https://ja.wikipedia.org/wiki/Tails_\(オペレーティングシステム\) "wikilink") : Debianベースでプライバシーと匿名性に特化している。[Live CD](../Page/Live_CD.md "wikilink")・[Live USBに対応している](https://ja.wikipedia.org/wiki/Live_USB "wikilink")。
 
-      - [Ubuntu](../Page/Ubuntu.md "wikilink") : 6ヶ月ごとのリリースと商用サポートを掲げる。デスクトップ環境として[Unityを採用している](https://ja.wikipedia.org/wiki/Unity_\(ユーザインタフェース\) "wikilink")。
-
-          - [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink") : ユーザーのカスタマイズを前提としたディストリビューション。
+      - [Ubuntu](../Page/Ubuntu.md "wikilink") : 6ヶ月ごとのリリースと商用サポートを掲げる。デスクトップ環境として[GNOME](../Page/GNOME.md "wikilink")を採用している。
 
           - [Bodhi Linux](../Page/Bodhi_Linux.md "wikilink") : [Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink")から派生したウィンドウマネージャ、Mokshaを採用した軽量版。
-
-          - [Caramel OS](../Page/Caramel_OS.md "wikilink") : 美味しくて可愛いOS。
 
           - [Edubuntu](../Page/Edubuntu.md "wikilink") : 教育用にカスタマイズされている。
 
@@ -132,8 +137,6 @@
           - [Ubuntu Christian Edition](https://ja.wikipedia.org/wiki/Ubuntu_Christian_Edition "wikilink") : 聖書全文とURLフィルタリングを搭載している。
 
           - [Ubuntu Lite](https://ja.wikipedia.org/wiki/Ubuntu_Lite "wikilink") : [レガシーデバイス](../Page/レガシーデバイス.md "wikilink")を備えた古いコンピュータ用。
-
-          - [Ubuntu Pico](https://ja.wikipedia.org/wiki/Ubuntu_Pico "wikilink") : [Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")の非公式の後継。さらに軽く、安定した環境を追い求める。
 
           - [Ubuntu Studio](../Page/Ubuntu_Studio.md "wikilink") : ハイエンドデスクトップ向け。デジタルコンテンツ制作ツールが多数プリインストールされている。[リアルタイムカーネルのパッチも当てられている](../Page/リアルタイムオペレーティングシステム.md "wikilink")。
 
@@ -224,7 +227,6 @@
 
   - [Arch Linux](https://ja.wikipedia.org/wiki/Arch_Linux "wikilink") : [パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")に[Pacman](https://ja.wikipedia.org/wiki/Pacman "wikilink")を使用。
       - [Antergos](https://ja.wikipedia.org/wiki/Antergos "wikilink") : Arch Linuxをベースに、GUIによるインストーラーであるCnchiを備えたもの。
-      - [AlterLinux](../Page/AlterLinux.md "wikilink") : Arch Linux派生で初の完全日本語化されたもの。LXDE版、Xfce版、KDE版がある。
       - [Audiophile Linux](https://ja.wikipedia.org/wiki/Audiophile_Linux "wikilink")\[15\] - [Fluxbox](../Page/Fluxbox.md "wikilink")を採用した、[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")愛好家向けOS。
       - [Manjaro](https://ja.wikipedia.org/wiki/Manjaro "wikilink") : Arch Linuxをベースに、プリインストールされたデスクトップ環境、GUIによるインストーラー等を備えたもの。
       - [Parabola GNU/Linux-libre](https://ja.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink") : Arch Linuxからフリーでないソフトウェアを除去し、100%フリーなソフトウェアで構成されたもの。
@@ -245,7 +247,6 @@
   - [IPnuts](../Page/IPnuts.md "wikilink") : ルータ・ファイアウォール構築に使用。
   - [MkLinux](https://ja.wikipedia.org/wiki/MkLinux "wikilink") : [PowerPC](../Page/PowerPC.md "wikilink")搭載機専用、[Mach](../Page/Mach.md "wikilink")ベース。
   - [Nature's Linux](https://ja.wikipedia.org/wiki/Nature's_Linux "wikilink") : 無料の開発版とOS監視サポート付きの有料版がある。FreeBSDのjailに似た仮想ファイルシステム、jailを利用したバックアップとリカバリ機能、ファイル改竄検出機能などを持つ。
-  - [Omaemona 2ch/Linux](https://ja.wikipedia.org/wiki/Omaemona_2ch/Linux "wikilink") : [Linux from Scratchベース](../Page/Linux_from_Scratch.md "wikilink")。
   - [SLS](https://ja.wikipedia.org/wiki/SLS "wikilink") : GNU/Linuxで最も初期のディストリビューション。
   - [Stataboware](https://ja.wikipedia.org/wiki/Stataboware "wikilink") : Slackwareに似た構造で、[Alpha搭載機専用](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink")。
   - [Splashtop](https://ja.wikipedia.org/wiki/Splashtop "wikilink") : 起動速度を重視して開発されたOS。

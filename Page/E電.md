@@ -64,7 +64,7 @@
   - [シティ電車](https://ja.wikipedia.org/wiki/シティ電車 "wikilink")
   - [国電](../Page/国電.md "wikilink")
 
-[Category:日本の鉄道](https://ja.wikipedia.org/wiki/Category:日本の鉄道 "wikilink") [Category:東日本旅客鉄道の列車](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の列車 "wikilink") [Category:愛称](https://ja.wikipedia.org/wiki/Category:愛称 "wikilink")
+[Category:日本の鉄道](https://ja.wikipedia.org/wiki/Category:日本の鉄道 "wikilink") [Category:東日本旅客鉄道の列車](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の列車 "wikilink") [Category:愛称](https://ja.wikipedia.org/wiki/Category:愛称 "wikilink") [Category:1987年の日本](https://ja.wikipedia.org/wiki/Category:1987年の日本 "wikilink")
 
 1.
 2.

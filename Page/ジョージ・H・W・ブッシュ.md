@@ -1,25 +1,25 @@
 > この記事は[ジョージ・H・W・ブッシュ](https://ja.wikipedia.org/wiki/ジョージ・H・W・ブッシュ)から翻訳されています。
 
 
-**ジョージ・ハーバート・ウォーカー・ブッシュ**（**George Herbert Walker Bush**, [1924年](../Page/1924年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。[下院議員](https://ja.wikipedia.org/wiki/下院議員 "wikilink")、[アメリカ国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")、[CIA長官](https://ja.wikipedia.org/wiki/CIA長官 "wikilink")、第43代[副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")、第41代[大統領を歴任](../Page/アメリカ合衆国大統領.md "wikilink")。日本では、第43代大統領でありファーストネームが同じである長男の[ジョージ・ウォーカー・ブッシュと区別するために](../Page/ジョージ・W・ブッシュ.md "wikilink")、「**父ブッシュ（パパブッシュ）**」「**大ブッシュ**」「**ブッシュ・シニア**」と呼ばれることもある。死去時、最高齢のアメリカ大統領経験者であったが、2019年3月22日に[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")が最高齢記録を更新した。
+**ジョージ・ハーバート・ウォーカー・ブッシュ**（**George Herbert Walker Bush**, [1924年](../Page/1924年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。[下院議員](https://ja.wikipedia.org/wiki/下院議員 "wikilink")、[アメリカ合衆国国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")、[CIA長官](https://ja.wikipedia.org/wiki/CIA長官 "wikilink")、第43代[副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")、第41代[大統領を歴任](../Page/アメリカ合衆国大統領.md "wikilink")。日本では、第43代大統領でありファーストネームが同じである長男の[ジョージ・ウォーカー・ブッシュと区別する為に](../Page/ジョージ・W・ブッシュ.md "wikilink")、「**父ブッシュ（パパブッシュ）**」「**大ブッシュ**」「**ブッシュ・シニア**」と呼ばれることもある。死去時最高齢のアメリカ合衆国大統領経験者であったが、2019年3月22日に[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")が最高齢記録を更新した。
 
 ## 人物、来歴
 
 ### 生い立ち
 
-[George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif](https://ja.wikipedia.org/wiki/File:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif "fig:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif") [ブッシュ家](../Page/ブッシュ家.md "wikilink")は、雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄である。[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
+[George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif](https://ja.wikipedia.org/wiki/File:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif "fig:George_H_W_Bush_at_Age_One_and_One-Half,_ca_1925.gif") [ブッシュ家](../Page/ブッシュ家.md "wikilink")は雑系の先祖が[イギリス王室](../Page/イギリス王室.md "wikilink")に連なる家柄であり、[プレスコット・ブッシュ](../Page/プレスコット・ブッシュ.md "wikilink")とドロシー・ウォーカー夫妻の次男として生まれた。兄に[プレスコット・ブッシュ・ジュニア](https://ja.wikipedia.org/wiki/プレスコット・ブッシュ・ジュニア "wikilink")（[米中商工会議所](https://ja.wikipedia.org/wiki/米中商工会議所 "wikilink")議長）がいる。父親は[コネチカット州](../Page/コネチカット州.md "wikilink")のリベラルな[共和党](../Page/共和党_\(アメリカ\).md "wikilink")[上院議員で](../Page/アメリカ合衆国上院.md "wikilink")、著名な投資銀行「」に在籍していた。
 
 ### 学校
 
-ブッシュは[グリニッジのグリニッジ](https://ja.wikipedia.org/wiki/グリニッジ_\(コネチカット州\) "wikilink")・カントリー・デイスクールからその経歴を開始した。高校卒業後、国への義務を果たすべく[海軍に志願](../Page/アメリカ海軍.md "wikilink")。その年のうちにテキサス州コーパスクリスティで飛行訓練を完了し、[アベンジャー雷撃機のパイロットに任命される](../Page/TBF_\(航空機\).md "wikilink")。
+ブッシュは[グリニッジのグリニッジ](https://ja.wikipedia.org/wiki/グリニッジ_\(コネチカット州\) "wikilink")・カントリー・デイスクールからその経歴を開始した。高校卒業後に国への義務を果たすべく[海軍に志願](../Page/アメリカ海軍.md "wikilink")。その年のうちにテキサス州コーパスクリスティで飛行訓練を完了し、[アベンジャー雷撃機のパイロットに任命される](../Page/TBF_\(航空機\).md "wikilink")。
 
 ### 軍歴
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:George_H._W._Bush,_United_States_Navy_Portrait.jpg "wikilink") [The_Bush_family_in_Midland,_Texas.jpg](https://ja.wikipedia.org/wiki/File:The_Bush_family_in_Midland,_Texas.jpg "fig:The_Bush_family_in_Midland,_Texas.jpg") ブッシュは[1942年](../Page/1942年.md "wikilink")より空母[サン・ジャシントに乗り組み](../Page/サン・ジャシント_\(空母\).md "wikilink")、第51雷撃飛行隊に所属して太平洋戦線に従軍した。彼は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")における最も若い[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")パイロットだった。退役するまでパイロットとして1228時間の飛行時間を記録し、126回の空母着艦を成功させたが、二度の被撃墜も経験した。
 
-[少尉](../Page/少尉.md "wikilink")時代の[1944年](../Page/1944年.md "wikilink")[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")では日本機の銃撃によって乗機のTBF-1Cを、中尉時代の[1944年](../Page/1944年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")には[小笠原諸島](../Page/小笠原諸島.md "wikilink")沖で[父島](../Page/父島.md "wikilink")地上砲台の対空砲火を浴びて乗機のTBMを撃墜されているが、いずれも味方に救助され生還している。
+[少尉](../Page/少尉.md "wikilink")時代の[1944年](../Page/1944年.md "wikilink")[マリアナ沖海戦](../Page/マリアナ沖海戦.md "wikilink")では日本機の銃撃によって乗機の[TBF-1Cを](../Page/TBF_\(航空機\).md "wikilink")、中尉時代の[1944年](../Page/1944年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")には[小笠原諸島](../Page/小笠原諸島.md "wikilink")沖で[父島](../Page/父島.md "wikilink")地上砲台の対空砲火を浴びて乗機の[TBMを撃墜されているが](../Page/TBF_\(航空機\).md "wikilink")、いずれも味方に救助され生還している。
 
-二度目の際には敵地近くであり、同乗していた代理銃手ウィリアム・ホワイト中尉と通信士ジョン・デラニー二等軍曹は戦死し自身も四時間にわたって漂流し捕虜になる危機を迎えた。当時9度目の哨戒任務で同海域にいた[ガトー級潜水艦](../Page/ガトー級潜水艦.md "wikilink")「[フィンバック](../Page/フィンバック_\(潜水艦\).md "wikilink")」に救助された。この父島では後に[小笠原事件](https://ja.wikipedia.org/wiki/小笠原事件 "wikilink")が起きたとされる。この経験から「[神はなぜ自分を生かしたのか](https://ja.wikipedia.org/wiki/ヤハウェ "wikilink")？自分に示された神の意図は何か？」と自問するようになる\[1\]。
+二度目の際には敵地近くであり、同乗していた砲塔機銃手ウィリアム・ホワイト中尉と通信士ジョン・デラニー二等軍曹は戦死し自身も四時間にわたって漂流し捕虜になる危機を迎えた。当時9度目の哨戒任務で同海域にいた[ガトー級潜水艦](../Page/ガトー級潜水艦.md "wikilink")「[フィンバック](../Page/フィンバック_\(潜水艦\).md "wikilink")」に救助された。この父島では後に[小笠原事件](https://ja.wikipedia.org/wiki/小笠原事件 "wikilink")が起きたとされる。この経験から「[神はなぜ自分を生かしたのか](https://ja.wikipedia.org/wiki/ヤハウェ "wikilink")？自分に示された神の意図は何か？」と自問するようになる\[1\]。
 
 翌月までフィンバックで勤務し撃墜されたパイロットの救助にあたった。11月、サン・ジャシントに戻りフィリピン作戦に参加した。ブッシュは彼の飛行隊がアメリカに帰国するまで1944年を通じて58回の戦闘に参加し、[殊勲飛行十字章](https://ja.wikipedia.org/wiki/殊勲飛行十字章 "wikilink")（2度目の被撃墜の際の爆撃の成功によるもの）、さらに[エア・メダル](https://ja.wikipedia.org/wiki/エア・メダル "wikilink")を3回、サン・ジャシントに対する殊勲部隊章 (Presidential Unit Citation) 1回と全部で5個の[勲章](https://ja.wikipedia.org/wiki/勲章 "wikilink")を受章した。その後、海軍中尉にまで昇進し退役した。
 
@@ -33,9 +33,9 @@
 
 ### CIAとの関わり
 
-ジョージ・ブッシュはイェール大学卒業後、土木・建築事業の[コングロマリット](../Page/コングロマリット.md "wikilink")で、[CIA](https://ja.wikipedia.org/wiki/CIA "wikilink")と緊密に協力していた[ドレッサー・インダストリーズ](https://ja.wikipedia.org/wiki/ドレッサー・インダストリーズ "wikilink")社の子会社[アイデコ](https://ja.wikipedia.org/wiki/アイデコ "wikilink")（インターナショナル・デリック・アンド・エクイップメント・カンパニーの略）のセールスマンになり、アイデコ社のサービスを共産圏も含めた世界各国で営業して回るという仕事を与えられた。ブッシュは、[アレン・ダレスのスパイだった](../Page/アレン・ウェルシュ・ダレス.md "wikilink")[ジョージ・ド・モーレンシルツ](https://ja.wikipedia.org/wiki/ジョージ・ド・モーレンシルツ "wikilink")という[ロシア](../Page/ロシア.md "wikilink")の[伯爵](../Page/伯爵.md "wikilink")と頻繁に接触し、CIAが欲しがるような共産圏の石油関連情報を収集し、CIAに提供していたという。
+ジョージ・ブッシュはイェール大学卒業後に土木・建築事業の[コングロマリット](../Page/コングロマリット.md "wikilink")で、[CIA](https://ja.wikipedia.org/wiki/CIA "wikilink")と緊密に協力していた[ドレッサー・インダストリーズ](https://ja.wikipedia.org/wiki/ドレッサー・インダストリーズ "wikilink")社の子会社[アイデコ](https://ja.wikipedia.org/wiki/アイデコ "wikilink")（インターナショナル・デリック・アンド・エクイップメント・カンパニーの略）のセールスマンになり、アイデコ社のサービスを共産圏も含めた世界各国で営業して回るという仕事を与えられた。ブッシュは[アレン・ダレスのスパイだった](../Page/アレン・ウェルシュ・ダレス.md "wikilink")[ジョージ・ド・モーレンシルツ](https://ja.wikipedia.org/wiki/ジョージ・ド・モーレンシルツ "wikilink")という[ロシア](../Page/ロシア.md "wikilink")の[伯爵](../Page/伯爵.md "wikilink")と頻繁に接触し、CIAが欲しがるような共産圏の石油関連情報を収集し、CIAに提供していたという。
 
-彼にこの重要な仕事を与えたのはドレッサー・インダストリーズ社の[ヘンリー・ニール・マロン](https://ja.wikipedia.org/wiki/ヘンリー・ニール・マロン "wikilink")社長であった。マロン社長は父の[プレスコットのイェール大学の同級生で](../Page/プレスコット・ブッシュ.md "wikilink")、ブッシュ家と親しい間柄であった。またマロン社長は、アレン・ダレスとも親密な関係を持ち、将来有望なスパイ候補者を頻繁にダレスのもとに送ったり、CIAの工作のためにスパイに偽装の職場を提供したりと、CIAと緊密に協力していた。ジョージ・ブッシュは[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には[ザパタ石油会社](https://ja.wikipedia.org/wiki/ザパタ石油会社 "wikilink")を立ち上げ、CIAが[メキシコ](../Page/メキシコ.md "wikilink")での工作活動に乗り出した[1959年](../Page/1959年.md "wikilink")には、CIAの活動に積極的に協力した\[2\]。
+彼にこの重要な仕事を与えたのはドレッサー・インダストリーズ社の[ヘンリー・ニール・マロン](https://ja.wikipedia.org/wiki/ヘンリー・ニール・マロン "wikilink")社長であった。マロン社長は父の[プレスコットのイェール大学の同級生で](../Page/プレスコット・ブッシュ.md "wikilink")、ブッシュ家と親しい間柄であった。またマロン社長はアレン・ダレスとも親密な関係を持ち、将来有望なスパイ候補者を頻繁にダレスのもとに送ったり、CIAの工作のためにスパイに偽装の職場を提供したりと、CIAと緊密に協力していた。ジョージ・ブッシュは[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には[ザパタ石油会社](https://ja.wikipedia.org/wiki/ザパタ石油会社 "wikilink")を立ち上げ、CIAが[メキシコ](../Page/メキシコ.md "wikilink")での工作活動に乗り出した[1959年](../Page/1959年.md "wikilink")には、CIAの活動に積極的に協力した\[2\]。
 
 [1963年](../Page/1963年.md "wikilink")に[FBIはブッシュをCIAの職員と証拠づけるもブッシュは否定しなかった](../Page/連邦捜査局.md "wikilink")\[3\]。その後もブッシュはCIA長官に就任し、CIA本部にその名前を冠するまで強い繋がりをCIAと持ち続けた\[4\]。
 
@@ -47,15 +47,15 @@
 
 ヤーボローがブッシュを「ちょうど彼らが[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")の席を買ったように」上院議員の席を買おうとする「渡り政治屋」であると批判したことに対し、ブッシュはヤーボローを「極論者」および「左翼扇動政治家」と呼んで対抗したが、ブッシュは1964年の民主党の地滑り勝利により敗北を喫した。
 
-ブッシュは1966年と1968年の終わりにテキサスの第7区から[下院議員に選任された](../Page/アメリカ合衆国下院.md "wikilink")。彼はその後[1970年](../Page/1970年.md "wikilink")に、民主党の[予備選挙](../Page/予備選挙.md "wikilink")でヤーボローを破った[ロイド・ベンツェン](../Page/ロイド・ベンツェン.md "wikilink")に、二度目の[上院議員選挙で敗れた](../Page/アメリカ合衆国上院.md "wikilink")。
+ブッシュは1966年と1968年の終わりにテキサスの第7区から[下院議員に選任された](../Page/アメリカ合衆国下院.md "wikilink")。彼はその後[1970年](../Page/1970年.md "wikilink")に民主党の[予備選挙](../Page/予備選挙.md "wikilink")でヤーボローを破った[ロイド・ベンツェン](../Page/ロイド・ベンツェン.md "wikilink")に2度目の[上院議員選挙で敗れた](../Page/アメリカ合衆国上院.md "wikilink")。
 
 ### 国連大使とCIA長官
 
-ブッシュは1970年代を通して、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")および[ジェラルド・フォードの](../Page/ジェラルド・R・フォード.md "wikilink")2人の共和党の大統領の下で、[共和党全国委員会](https://ja.wikipedia.org/wiki/共和党全国委員会 "wikilink")委員長、[アメリカ国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")への特命全権公使（[米中連絡事務所](https://ja.wikipedia.org/wiki/米中連絡事務所 "wikilink")所長）、危機委員会評議員などの要職を歴任した。当初、フォード大統領はブッシュを副大統領候補に検討していたが、ブッシュの選挙キャンペーンにニクソンの秘密資金が流入していた疑惑を特別検察官が捜査していたために[ネルソン・ロックフェラー](../Page/ネルソン・ロックフェラー.md "wikilink")を選択したとされる\[5\]。
+ブッシュは1970年代を通して、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")及び[ジェラルド・フォードの](../Page/ジェラルド・R・フォード.md "wikilink")2人の共和党の大統領の下で、[共和党全国委員会](https://ja.wikipedia.org/wiki/共和党全国委員会 "wikilink")委員長・[アメリカ合衆国国連大使](https://ja.wikipedia.org/wiki/アメリカ合衆国国際連合大使 "wikilink")・[中華人民共和国](../Page/中華人民共和国.md "wikilink")への特命全権公使（[米中連絡事務所](https://ja.wikipedia.org/wiki/米中連絡事務所 "wikilink")所長）・危機委員会評議員などの要職を歴任した。当初フォード大統領はブッシュを副大統領候補に検討していたが、ブッシュの選挙キャンペーンにニクソンの秘密資金が流入していた疑惑を特別検察官が捜査していた為に[ネルソン・ロックフェラー](../Page/ネルソン・ロックフェラー.md "wikilink")を選択したとされる\[5\]。
 
-ニクソン政権下で国連大使として中華人民共和国の[国連加盟を認めた](../Page/国際連合.md "wikilink")[アルバニア決議](../Page/アルバニア決議.md "wikilink")やそれに伴う次期[国連事務総長](https://ja.wikipedia.org/wiki/国連事務総長 "wikilink")の選出をめぐるアメリカと[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")と中華人民共和国の三つ巴の駆け引きへの対応に追われ\[6\]\[7\]、米中連絡事務所所長となった際は訪中したフォード大統領に同行して最高指導者の[毛沢東](../Page/毛沢東.md "wikilink")とも2度会見した\[8\]。事実上の特命全権公使として中国で過ごした経験は世界の問題に対するアメリカの強い関与の必要性をブッシュに確信させたとされる\[9\]。
+ニクソン政権下で国連大使として中華人民共和国の[国際連合](../Page/国際連合.md "wikilink")加盟を認めた[アルバニア決議](../Page/アルバニア決議.md "wikilink")やそれに伴う次期[国連事務総長](https://ja.wikipedia.org/wiki/国連事務総長 "wikilink")の選出をめぐるアメリカと[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")と中華人民共和国の三つ巴の駆け引きへの対応に追われ\[6\]\[7\]、米中連絡事務所所長となった際は訪中したフォード大統領に同行して最高指導者の[毛沢東](../Page/毛沢東.md "wikilink")とも2度会見した\[8\]。事実上の特命全権公使として中国で過ごした経験は世界の問題に対するアメリカの強い関与の必要性をブッシュに確信させたとされる\[9\]。
 
-1年間と短い期間ではあったが、[CIA長官](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")（[1976年](../Page/1976年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") – [1977年](../Page/1977年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")）も務め、中国への赴任直後であったため驚きを持って受け取られた。CIA長官就任後最初に直面した問題は、[アンゴラ](../Page/アンゴラ.md "wikilink")の[共産化](https://ja.wikipedia.org/wiki/共産化 "wikilink")を防ぐことであった。しかし、[1975年](../Page/1975年.md "wikilink")11月当時は[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")と[キューバ](../Page/キューバ.md "wikilink")の大規模な支援を受けて[アンゴラ人民共和国](https://ja.wikipedia.org/wiki/アンゴラ人民共和国 "wikilink")を建国した[アンゴラ解放人民運動](../Page/アンゴラ解放人民運動.md "wikilink")（MPLA）が軍事的に優勢だった。[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")で他国への介入に否定的となっていたアメリカ議会は中国と[ザイール](../Page/ザイール.md "wikilink")に支援された[アンゴラ民族解放戦線](../Page/アンゴラ民族解放戦線.md "wikilink") (FNLA)に対する欧米の援助を問題視し、[1976年](../Page/1976年.md "wikilink")にでアンゴラの反政府組織への援助を禁止した。しかし、ブッシュCIA長官はこれを拒否し\[10\]\[11\]、イギリス[陸軍特殊空挺部隊](https://ja.wikipedia.org/wiki/陸軍特殊空挺部隊 "wikilink")（SAS）の元隊員で構成される[傭兵部隊](https://ja.wikipedia.org/wiki/傭兵部隊 "wikilink")を使ってアンゴラの対ソ秘密作戦を展開した。この秘密作戦は一定の成功を収め、[アンゴラ内戦](../Page/アンゴラ内戦.md "wikilink")は泥沼化した\[12\]。同年には[エジプト](../Page/エジプト.md "wikilink")や[サウジアラビア](../Page/サウジアラビア.md "wikilink")などによる[アフリカ](../Page/アフリカ.md "wikilink")の反共反ソ同盟の結成を[国際商業信用銀行](https://ja.wikipedia.org/wiki/国際商業信用銀行 "wikilink")（BCCI）を通じて支援した\[13\]。また、[ラテンアメリカ](../Page/ラテンアメリカ.md "wikilink")の[親米](../Page/親米.md "wikilink")[軍事独裁政権による](../Page/軍事政権.md "wikilink")[コンドル作戦](https://ja.wikipedia.org/wiki/コンドル作戦 "wikilink")も支援したとされる\[14\]\[15\]\[16\]
+1年間と短い期間ではあったが、[CIA長官](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")（[1976年](../Page/1976年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") – [1977年](../Page/1977年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")）も務め、中国への赴任直後であった為驚きを持って受け取られた。CIA長官就任後最初に直面した問題は、[アンゴラ](../Page/アンゴラ.md "wikilink")の[共産化](https://ja.wikipedia.org/wiki/共産化 "wikilink")を防ぐことであった。しかし、[1975年](../Page/1975年.md "wikilink")11月当時は[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")と[キューバ](../Page/キューバ.md "wikilink")の大規模な支援を受けて[アンゴラ人民共和国](https://ja.wikipedia.org/wiki/アンゴラ人民共和国 "wikilink")を建国した[アンゴラ解放人民運動](../Page/アンゴラ解放人民運動.md "wikilink")（MPLA）が軍事的に優勢だった。[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")で他国への介入に否定的となっていたアメリカ議会は中国と[ザイール](../Page/ザイール.md "wikilink")に支援された[アンゴラ民族解放戦線](../Page/アンゴラ民族解放戦線.md "wikilink") (FNLA)に対する欧米の援助を問題視し、[1976年](../Page/1976年.md "wikilink")にでアンゴラの反政府組織への援助を禁止した。しかし、ブッシュCIA長官はこれを拒否し\[10\]\[11\]、イギリス[陸軍特殊空挺部隊](https://ja.wikipedia.org/wiki/陸軍特殊空挺部隊 "wikilink")（SAS）の元隊員で構成される[傭兵部隊](https://ja.wikipedia.org/wiki/傭兵部隊 "wikilink")を使ってアンゴラの対ソ秘密作戦を展開した。この秘密作戦は一定の成功を収め、[アンゴラ内戦](../Page/アンゴラ内戦.md "wikilink")は泥沼化した\[12\]。同年には[エジプト](../Page/エジプト.md "wikilink")や[サウジアラビア](../Page/サウジアラビア.md "wikilink")などによる[アフリカ](../Page/アフリカ.md "wikilink")の反共反ソ同盟の結成を[国際商業信用銀行](https://ja.wikipedia.org/wiki/国際商業信用銀行 "wikilink")（BCCI）を通じて支援した\[13\]。また、[ラテンアメリカ](../Page/ラテンアメリカ.md "wikilink")の[親米](../Page/親米.md "wikilink")[軍事独裁政権による](../Page/軍事政権.md "wikilink")[コンドル作戦](https://ja.wikipedia.org/wiki/コンドル作戦 "wikilink")も支援したとされる\[14\]\[15\]\[16\]
 
 ### 副大統領（1981年 - 1989年）
 
@@ -67,23 +67,23 @@
 
 #### 外交
 
-ブッシュは、元CIA長官や元危機委員会評議員を務めていたように、[外交](../Page/外交.md "wikilink")・[安全保障](https://ja.wikipedia.org/wiki/安全保障 "wikilink")に並々ならぬ関心をもった副大統領であり、結果として2期8年間をレーガン政権の副大統領として勤めた。
+ブッシュは元CIA長官や元危機委員会評議員を務めていたように、[外交](../Page/外交.md "wikilink")・[安全保障](https://ja.wikipedia.org/wiki/安全保障 "wikilink")に並々ならぬ関心を持った副大統領であり、結果として2期8年間をレーガン政権の副大統領として勤めた。
 
-ブッシュは、[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")内の危機管理センターという独自情報機関の責任者に就任し、様々な危機への対応策を計画・実施した。その一つが[イラン・コントラ秘密工作であった](../Page/イラン・コントラ事件.md "wikilink")。この悪名高い工作は、ブッシュ副大統領率いる危機管理センターのSSGで計画が練られ、[ウィリアム・ケーシー](https://ja.wikipedia.org/wiki/ウィリアム・ケーシー "wikilink")[CIA長官](https://ja.wikipedia.org/wiki/CIA長官 "wikilink")が中心となって実施した。ブッシュやケーシーらは反共勢力を支援するために[ラテンアメリカ](../Page/ラテンアメリカ.md "wikilink")の麻薬王とも手を組んだため、アメリカ国内への[麻薬](../Page/麻薬.md "wikilink")の流入も急増した\[17\]。後に敵対することになる[イラク](../Page/イラク.md "wikilink")の[サッダーム・フセイン](../Page/サッダーム・フセイン.md "wikilink")政権との国交正常化と[イラン・イラク戦争](https://ja.wikipedia.org/wiki/イラン・イラク戦争 "wikilink")での対イラク援助の決定にも関わり\[18\]、「**イラクゲート**」と呼ばれるで追及されることになる。
+ブッシュは[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")内の危機管理センターという独自情報機関の責任者に就任し、様々な危機への対応策を計画・実施した。その一つが[イラン・コントラ秘密工作であった](../Page/イラン・コントラ事件.md "wikilink")。この悪名高い工作はブッシュ副大統領率いる危機管理センターのSSGで計画が練られ、[ウィリアム・ケーシー](https://ja.wikipedia.org/wiki/ウィリアム・ケーシー "wikilink")[CIA長官](https://ja.wikipedia.org/wiki/CIA長官 "wikilink")が中心となって実施した。ブッシュやケーシーらは反共勢力を支援するために[ラテンアメリカ](../Page/ラテンアメリカ.md "wikilink")の麻薬王とも手を組んだ為、アメリカ国内への[麻薬](../Page/麻薬.md "wikilink")の流入も急増した\[17\]。後に敵対することになる[イラク](../Page/イラク.md "wikilink")の[サッダーム・フセイン](../Page/サッダーム・フセイン.md "wikilink")政権との国交正常化と[イラン・イラク戦争](https://ja.wikipedia.org/wiki/イラン・イラク戦争 "wikilink")での対イラク援助の決定にも関わり\[18\]、「**イラクゲート**」と呼ばれるで追及されることになる。
 
-[アフガニスタン](../Page/アフガニスタン.md "wikilink")の[ムジャヒディン](https://ja.wikipedia.org/wiki/ムジャヒディン "wikilink")と呼ばれる[イスラム教徒](https://ja.wikipedia.org/wiki/イスラム教徒 "wikilink")の[ゲリラ](../Page/ゲリラ.md "wikilink")に対する支援は、[カーター政権で開始されたが](../Page/ジミー・カーター.md "wikilink")、[レーガン政権](https://ja.wikipedia.org/wiki/レーガン政権 "wikilink")になると、ブッシュ副大統領とケーシーCIA長官が中心となって、さらに大がかりな支援活動を行った。アメリカ製の[スティンガー対空ミサイルを供与し](../Page/スティンガーミサイル.md "wikilink")、軍事訓練を施すために米軍特殊部隊を派遣した。そして世界中から約3万5千人の急進派のイスラム教徒を呼び集めて[パキスタン](../Page/パキスタン.md "wikilink")と中国\[19\]で軍事訓練を施し、アフガニスタンで[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")軍と戦わせた。その中には[オサマ・ビン・ラディン](https://ja.wikipedia.org/wiki/オサマ・ビン・ラディン "wikilink")がいた。また、[サウジアラビア](../Page/サウジアラビア.md "wikilink")からイスラム急進派をアメリカに入国させ、軍事訓練を施してアフガニスタンに送り込むという工作も行ったとされる\[20\]。
+[アフガニスタン](../Page/アフガニスタン.md "wikilink")の[ムジャヒディン](https://ja.wikipedia.org/wiki/ムジャヒディン "wikilink")と呼ばれる[イスラム教徒](https://ja.wikipedia.org/wiki/イスラム教徒 "wikilink")の[ゲリラ](../Page/ゲリラ.md "wikilink")に対する支援は[カーター政権で開始されたが](../Page/ジミー・カーター.md "wikilink")、[レーガン政権](https://ja.wikipedia.org/wiki/レーガン政権 "wikilink")になると、ブッシュ副大統領とケーシーCIA長官が中心となって、さらに大がかりな支援活動を行った。アメリカ製の[スティンガー対空ミサイルを供与し](../Page/スティンガーミサイル.md "wikilink")、軍事訓練を施すためにアメリカ軍特殊部隊を派遣した。そして世界中から約3万5千人の急進派のイスラム教徒を呼び集めて[パキスタン](../Page/パキスタン.md "wikilink")と中国\[19\]で軍事訓練を施し、アフガニスタンで[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")軍と戦わせた。その中には[オサマ・ビン・ラディン](https://ja.wikipedia.org/wiki/オサマ・ビン・ラディン "wikilink")がいた。また、[サウジアラビア](../Page/サウジアラビア.md "wikilink")からイスラム急進派をアメリカに入国させ、軍事訓練を施してアフガニスタンに送り込むという工作も行ったとされる\[20\]。
 
-ブッシュらの秘密工作はソ連の弱体化に成功して冷戦終結に貢献したが、[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")での麻薬の氾濫、[中東](../Page/中東.md "wikilink")での[イスラム過激派](https://ja.wikipedia.org/wiki/イスラム過激派 "wikilink")の[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")の増長という負の遺産を残した\[21\]。
+ブッシュらの秘密工作はソ連の弱体化に成功して冷戦終結に貢献したが、[中南米](https://ja.wikipedia.org/wiki/中南米 "wikilink")での麻薬の氾濫・[中東](../Page/中東.md "wikilink")での[イスラム過激派](https://ja.wikipedia.org/wiki/イスラム過激派 "wikilink")の[テロリスト](https://ja.wikipedia.org/wiki/テロリスト "wikilink")の増長という負の遺産を残した\[21\]。
 
 #### バーバラの貢献
 
-バーバラも副大統領夫人として、様々な公務にあたった。力を入れた事業として、[識字率](https://ja.wikipedia.org/wiki/識字率 "wikilink")の向上を推進する活動があった。動機として三男のニールが[識字障害に苦しんだことがあった](../Page/ディスレクシア.md "wikilink")。バーバラは識字率を高めることは貧困を減らすことだと信じていた\[22\]。
+バーバラも副大統領夫人として様々な公務にあたった。力を入れた事業として[識字率](https://ja.wikipedia.org/wiki/識字率 "wikilink")の向上を推進する活動があった。動機として三男のニールが[識字障害に苦しんだことがあった](../Page/ディスレクシア.md "wikilink")。バーバラは識字率を高めることは貧困を減らすことだと信じていた\[22\]。
 
 ### 1988年の大統領選挙
 
-[George_H._W._Bush_and_Dan_Quayle_at_the_1988_Republican_National_Convention.jpg](https://ja.wikipedia.org/wiki/File:George_H._W._Bush_and_Dan_Quayle_at_the_1988_Republican_National_Convention.jpg "fig:George_H._W._Bush_and_Dan_Quayle_at_the_1988_Republican_National_Convention.jpg")とともに（1988年）\]\] 2期8年にわたりレーガン政権で副大統領を務めた後、満を持して出馬した1988年の大統領選では、共和党選では[ボブ・ドール](../Page/ボブ・ドール.md "wikilink")や[ドナルド・ラムズフェルド](../Page/ドナルド・ラムズフェルド.md "wikilink")などを破って選出された。
+[George_H._W._Bush_and_Dan_Quayle_at_the_1988_Republican_National_Convention.jpg](https://ja.wikipedia.org/wiki/File:George_H._W._Bush_and_Dan_Quayle_at_the_1988_Republican_National_Convention.jpg "fig:George_H._W._Bush_and_Dan_Quayle_at_the_1988_Republican_National_Convention.jpg")とともに（1988年）\]\] 2期8年にわたりレーガン政権で副大統領を務めた後、満を持して出馬した1988年の大統領選挙では、共和党選では[ボブ・ドール](../Page/ボブ・ドール.md "wikilink")や[ドナルド・ラムズフェルド](../Page/ドナルド・ラムズフェルド.md "wikilink")などを破って選出された。
 
-大統領選挙本選では、[ロイド・ベンツェン](../Page/ロイド・ベンツェン.md "wikilink")を大統領候補に選択した[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")知事・[マイケル・デュカキス](../Page/マイケル・デュカキス.md "wikilink")に地滑り的な大勝をおさめた。
+大統領選挙本選では[ロイド・ベンツェン](../Page/ロイド・ベンツェン.md "wikilink")を大統領候補に選択した[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")知事の[マイケル・デュカキス](../Page/マイケル・デュカキス.md "wikilink")に地滑り的な大勝をおさめた。
 
 現職の副大統領としては[マーティン・ヴァンビューレン以来](../Page/マーティン・ヴァン・ビューレン.md "wikilink")144年ぶり4人目、2期目を務めている現職の副大統領としては実に[ジョン・アダムズ](../Page/ジョン・アダムズ.md "wikilink")以来192年ぶり2人目の大統領当選者で、「副大統領は長く務めるほど大統領選が不利になる」というジンクスを覆した。
 
@@ -93,7 +93,7 @@
 
 ### 大統領就任
 
-[1989_Presidential_Inauguration,_George_H._W._Bush,_Opening_Ceremonies,_at_Lincoln_Memorial_(3198999311).jpg](https://ja.wikipedia.org/wiki/File:1989_Presidential_Inauguration,_George_H._W._Bush,_Opening_Ceremonies,_at_Lincoln_Memorial_\(3198999311\).jpg "fig:1989_Presidential_Inauguration,_George_H._W._Bush,_Opening_Ceremonies,_at_Lincoln_Memorial_(3198999311).jpg") [PanamaM-113JustCauseUS-Invasion.jpg](https://ja.wikipedia.org/wiki/File:PanamaM-113JustCauseUS-Invasion.jpg "fig:PanamaM-113JustCauseUS-Invasion.jpg")\]\] [Bush_senior_und_Hans-Dietrich_Genscher.jpg](https://ja.wikipedia.org/wiki/File:Bush_senior_und_Hans-Dietrich_Genscher.jpg "fig:Bush_senior_und_Hans-Dietrich_Genscher.jpg")とともに(1989年)\]\] [Bush_and_Gorbachev_at_the_Malta_summit_in_1989.gif](https://ja.wikipedia.org/wiki/File:Bush_and_Gorbachev_at_the_Malta_summit_in_1989.gif "fig:Bush_and_Gorbachev_at_the_Malta_summit_in_1989.gif") [Bush_saudi_arabia.jpg](https://ja.wikipedia.org/wiki/File:Bush_saudi_arabia.jpg "fig:Bush_saudi_arabia.jpg")司令官の[シュワルツコフと](../Page/ノーマン・シュワルツコフ.md "wikilink")[サウジアラビア](../Page/サウジアラビア.md "wikilink")で(1990年)\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:President_Bush_greets_General_H._Norman_Schwarzkopf_who_leads_the_Desert_Storm_Homecoming_Parade_in_Washington,_D.C_-_NARA_-_186434.jpg "wikilink") [Barbara_and_George_Bush_30884600.jpg](https://ja.wikipedia.org/wiki/File:Barbara_and_George_Bush_30884600.jpg "fig:Barbara_and_George_Bush_30884600.jpg") [thumb調印](https://ja.wikipedia.org/wiki/ファイル:Nafta.jpg "wikilink")（1992年）\]\] [16th_G7_summit_member_19900709.jpg](https://ja.wikipedia.org/wiki/File:16th_G7_summit_member_19900709.jpg "fig:16th_G7_summit_member_19900709.jpg") [17th_G7_summit_member_19910715.jpg](https://ja.wikipedia.org/wiki/File:17th_G7_summit_member_19910715.jpg "fig:17th_G7_summit_member_19910715.jpg") [1989年](../Page/1989年.md "wikilink")1月20日に、ブッシュは[ダン・クエール](../Page/ダン・クエール.md "wikilink")を副大統領に第41代大統領に就任した。保守派からの支持をと[中西部諸州での得票が見込まれることからクエールに白羽の矢が立った](../Page/アメリカ合衆国中西部.md "wikilink")。
+[1989_Presidential_Inauguration,_George_H._W._Bush,_Opening_Ceremonies,_at_Lincoln_Memorial_(3198999311).jpg](https://ja.wikipedia.org/wiki/File:1989_Presidential_Inauguration,_George_H._W._Bush,_Opening_Ceremonies,_at_Lincoln_Memorial_\(3198999311\).jpg "fig:1989_Presidential_Inauguration,_George_H._W._Bush,_Opening_Ceremonies,_at_Lincoln_Memorial_(3198999311).jpg") [PanamaM-113JustCauseUS-Invasion.jpg](https://ja.wikipedia.org/wiki/File:PanamaM-113JustCauseUS-Invasion.jpg "fig:PanamaM-113JustCauseUS-Invasion.jpg")\]\] [Bush_senior_und_Hans-Dietrich_Genscher.jpg](https://ja.wikipedia.org/wiki/File:Bush_senior_und_Hans-Dietrich_Genscher.jpg "fig:Bush_senior_und_Hans-Dietrich_Genscher.jpg")とともに(1989年)\]\] [Bush_and_Gorbachev_at_the_Malta_summit_in_1989.gif](https://ja.wikipedia.org/wiki/File:Bush_and_Gorbachev_at_the_Malta_summit_in_1989.gif "fig:Bush_and_Gorbachev_at_the_Malta_summit_in_1989.gif") [Bush_saudi_arabia.jpg](https://ja.wikipedia.org/wiki/File:Bush_saudi_arabia.jpg "fig:Bush_saudi_arabia.jpg")司令官の[シュワルツコフと](../Page/ノーマン・シュワルツコフ.md "wikilink")[サウジアラビア](../Page/サウジアラビア.md "wikilink")で(1990年)\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:President_Bush_greets_General_H._Norman_Schwarzkopf_who_leads_the_Desert_Storm_Homecoming_Parade_in_Washington,_D.C_-_NARA_-_186434.jpg "wikilink") [Barbara_and_George_Bush_30884600.jpg](https://ja.wikipedia.org/wiki/File:Barbara_and_George_Bush_30884600.jpg "fig:Barbara_and_George_Bush_30884600.jpg") [thumb調印](https://ja.wikipedia.org/wiki/ファイル:Nafta.jpg "wikilink")（1992年）\]\] [16th_G7_summit_member_19900709.jpg](https://ja.wikipedia.org/wiki/File:16th_G7_summit_member_19900709.jpg "fig:16th_G7_summit_member_19900709.jpg") [17th_G7_summit_member_19910715.jpg](https://ja.wikipedia.org/wiki/File:17th_G7_summit_member_19910715.jpg "fig:17th_G7_summit_member_19910715.jpg") [1989年](../Page/1989年.md "wikilink")1月20日にブッシュは[ダン・クエール](../Page/ダン・クエール.md "wikilink")を副大統領に第41代大統領に就任した。保守派からの支持をと[中西部諸州での得票が見込まれることからクエールに白羽の矢が立った](../Page/アメリカ合衆国中西部.md "wikilink")。
 
 ### パナマ侵攻
 
@@ -101,17 +101,17 @@
 
 ノリエガは[1989年](../Page/1989年.md "wikilink")5月に行われた[大統領](../Page/大統領.md "wikilink")[選挙](../Page/選挙.md "wikilink")に自派のを出馬させたが、当選したのは反ノリエガ派のであった。しかしノリエガはアメリカの干渉があったとして軍をあげて選挙の無効を宣言し、会計院長を大統領とし、権力の保持を図った。この動きをうけて5月には[暴動](../Page/暴動.md "wikilink")が発生しただけでなく、9月30日には再びクーデター未遂事件が発生した。12月15日、ノリエガは議会によって「最高の政治指導者」としての地位を承認させ、独裁体制の継続を誇示した。
 
-12月20日、ブッシュ大統領はパナマ在住アメリカ人の保護、パナマ運河条約の保全、ノリエガの拘束を主目的とする「ジャスト・コーズ作戦」（Operation Just Cause）の発動を命令した。15分前にはエンダラを大統領として宣誓させている。ブッシュ大統領はこの侵攻をノリエガの煽動に対するアメリカの自衛権発動であると主張している。2万4千人のアメリカ軍の侵攻によりノリエガは逃亡するが、翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月に逮捕され、アメリカ国内で40年の[禁固刑を受けた](../Page/禁錮.md "wikilink")。
+12月20日にブッシュ大統領はパナマ在住アメリカ人の保護・パナマ運河条約の保全・ノリエガの拘束を主目的とする「ジャスト・コーズ作戦」（Operation Just Cause）の発動を命令した。15分前にはエンダラを大統領として宣誓させている。ブッシュ大統領はこの侵攻をノリエガの煽動に対するアメリカの自衛権発動であると主張している。2万4千人のアメリカ軍の侵攻によりノリエガは逃亡するが、翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")1月に逮捕され、アメリカ国内で40年の[禁固刑を受けた](../Page/禁錮.md "wikilink")。
 
 ### 冷戦終結
 
 [1989年](../Page/1989年.md "wikilink")11月、[ベルリンの壁](../Page/ベルリンの壁.md "wikilink")の崩壊を受けてブッシュは第二次世界大戦の真の終結をもたらすと考えて[ドイツ再統一](../Page/ドイツ再統一.md "wikilink")を支援した\[23\]。さらに同年[12月3日](../Page/12月3日.md "wikilink")、地中海における[マルタ会談](../Page/マルタ会談.md "wikilink")で、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミハイル・ゴルバチョフ](../Page/ミハイル・ゴルバチョフ.md "wikilink")共産党書記長と会談し、**[冷戦](../Page/冷戦.md "wikilink")の終結**を宣言した。これを標語的に「ヤルタからマルタへ（）」という。
 
-この会談には、ソ連側からは[エドゥアルド・シェワルナゼ](../Page/エドゥアルド・シェワルナゼ.md "wikilink")[外務大臣](../Page/外務大臣.md "wikilink")、アメリカ側からは[ジェイムズ・ベイカー](../Page/ジェイムズ・ベイカー_\(国務長官\).md "wikilink")[国務長官及び](../Page/アメリカ合衆国国務長官.md "wikilink")[ブレント・スコウクロフト](../Page/ブレント・スコウクロフト.md "wikilink")[国家安全保障問題担当大統領補佐官](../Page/国家安全保障問題担当大統領補佐官.md "wikilink")などが同席している。ブレント・スコウクロフトをはじめとするアメリカ政権内では当初からマルタ会談は「時期尚早」として、ソ連のスタンドプレーを許す結果になるとして反対していたが、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[フランソワ・ミッテラン](../Page/フランソワ・ミッテラン.md "wikilink")[大統領](https://ja.wikipedia.org/wiki/フランスの大統領 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[マーガレット・ヒルダ・サッチャー](../Page/マーガレット・サッチャー.md "wikilink")[首相をはじめとする](../Page/イギリスの首相.md "wikilink")[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")首脳、及びアメリカ合衆国議会はゴルバチョフとの対談を説得し実現した。
+この会談には、ソ連側からは[エドゥアルド・シェワルナゼ](../Page/エドゥアルド・シェワルナゼ.md "wikilink")[外相](../Page/外務大臣.md "wikilink")、アメリカ側からは[ジェイムズ・ベイカー](../Page/ジェイムズ・ベイカー_\(国務長官\).md "wikilink")[国務長官及び](../Page/アメリカ合衆国国務長官.md "wikilink")[ブレント・スコウクロフト](../Page/ブレント・スコウクロフト.md "wikilink")[国家安全保障問題担当大統領補佐官](../Page/国家安全保障問題担当大統領補佐官.md "wikilink")などが同席している。ブレント・スコウクロフトをはじめとするアメリカ政権内では、当初からマルタ会談は「時期尚早」としてソ連のスタンドプレーを許す結果になるとして反対していたが、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ミッテラン](../Page/フランソワ・ミッテラン.md "wikilink")[大統領](https://ja.wikipedia.org/wiki/フランスの大統領 "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[サッチャー](../Page/マーガレット・サッチャー.md "wikilink")[首相をはじめとする](../Page/イギリスの首相.md "wikilink")[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")首脳及びアメリカ合衆国議会はゴルバチョフとの対談を説得し実現した。
 
 ### 湾岸戦争
 
-マルタ会談から8ヶ月後、1990年8月2日に[イラク軍](https://ja.wikipedia.org/wiki/イラク軍 "wikilink")は隣国クウェートへの侵攻を開始し、8月8日にはクウェート併合を発表した。これに対し、諸外国は第二次世界大戦後初となる、一致結束した事態解決への努力を始めた\[24\]。さらにイラクは8月18日に、クウェートから脱出できなかった外国人を自国内に強制連行し「[人間の盾](../Page/人間の盾.md "wikilink")」として人質にすると国際社会に発表し、その後日本やドイツ、アメリカやイギリスなどの非イスラム国家でアメリカと関係の深い国の民間人を、自国内の軍事施設や政府施設などに「人間の盾」として監禁した。
+マルタ会談から8ヶ月後の1990年8月2日に[イラク軍](https://ja.wikipedia.org/wiki/イラク軍 "wikilink")は隣国であるクウェートへの侵攻を開始し、8月8日にはクウェート併合を発表した。これに対して諸外国は第二次世界大戦後初となる、一致結束した事態解決への努力を始めた\[24\]。さらにイラクは8月18日にクウェートから脱出出来なかった外国人を自国内に強制連行し「[人間の盾](../Page/人間の盾.md "wikilink")」として人質にすると国際社会に発表し、その後日本・ドイツ・アメリカ・イギリスなどの非イスラム国家でアメリカと関係の深い国の民間人を、自国内の軍事施設や政府施設などに「人間の盾」として監禁した。
 
 [国際連合安全保障理事会](../Page/国際連合安全保障理事会.md "wikilink")はイラクへの即時撤退を求めるとともに、11月29日に[武力行使容認決議](https://ja.wikipedia.org/wiki/武力行使容認決議 "wikilink")である[決議678を米ソは一致して可決してマルタ会談とともに当時の](https://ja.wikipedia.org/wiki/国際連合安全保障理事会決議678 "wikilink")[冷戦](../Page/冷戦.md "wikilink")の終結を象徴し、ブッシュは[新世界秩序](https://ja.wikipedia.org/wiki/新世界秩序 "wikilink")を掲げた\[25\]。
 
@@ -133,17 +133,17 @@
 
 #### 対日
 
-対日関係ではアメリカ国内の[双子の赤字](../Page/双子の赤字.md "wikilink")解消問題と日本の[バブル経済](../Page/バブル経済.md "wikilink")を背景に、[日米構造協議](https://ja.wikipedia.org/wiki/日米構造協議 "wikilink")において多くの[自民党](https://ja.wikipedia.org/wiki/自民党 "wikilink")議員の[票田](https://ja.wikipedia.org/wiki/票田 "wikilink")である[農作物](https://ja.wikipedia.org/wiki/農作物 "wikilink")とりわけコメ、牛肉などの輸入自由化を求める一方で、日本経済の柱となる[自動車産業](../Page/自動車産業.md "wikilink")の対米輸出を大幅に規制させるなど、日本に対してアメリカ大統領としては異例といえる[保護貿易](../Page/保護貿易.md "wikilink")主義を取った。
+対日関係ではアメリカ国内の[双子の赤字](../Page/双子の赤字.md "wikilink")解消問題と日本の[バブル経済](../Page/バブル経済.md "wikilink")を背景に、[日米構造協議](https://ja.wikipedia.org/wiki/日米構造協議 "wikilink")において多くの[自民党](https://ja.wikipedia.org/wiki/自民党 "wikilink")議員の[票田](https://ja.wikipedia.org/wiki/票田 "wikilink")である[農作物](https://ja.wikipedia.org/wiki/農作物 "wikilink")とりわけコメ・牛肉などの輸入自由化を求める一方で、日本経済の柱となる[自動車産業](../Page/自動車産業.md "wikilink")の対米輸出を大幅に規制させるなど、日本に対してアメリカ合衆国大統領としては異例といえる[保護貿易](../Page/保護貿易.md "wikilink")主義を取った。
 
-[ジャパンバッシング](../Page/ジャパンバッシング.md "wikilink")なる言葉が流行するほどに問題化し、日本国内の左派だけでなく各種族議員を中心とする保守派議員等からも激しい反発が起きた。この件がきっかけとなり後に[年次改革要望書](https://ja.wikipedia.org/wiki/年次改革要望書 "wikilink")が作成される事になる。なお、1989年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")には、[昭和天皇](../Page/昭和天皇.md "wikilink")の葬儀「[大喪の礼](https://ja.wikipedia.org/wiki/大喪の礼 "wikilink")」に出席した。
+[ジャパンバッシング](../Page/ジャパンバッシング.md "wikilink")なる言葉が流行するほどに問題化し、日本国内の左派だけでなく各種族議員を中心とする保守派議員等からも激しい反発が起きた。この件がきっかけとなり後に[年次改革要望書](https://ja.wikipedia.org/wiki/年次改革要望書 "wikilink")が作成される事になる。なお1989年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")には、[昭和天皇](../Page/昭和天皇.md "wikilink")の葬儀「[大喪の礼](https://ja.wikipedia.org/wiki/大喪の礼 "wikilink")」に出席した。
 
 国防関係では[湾岸戦争](../Page/湾岸戦争.md "wikilink")における[自衛隊](../Page/自衛隊.md "wikilink")派遣問題や、[資金援助](https://ja.wikipedia.org/wiki/資金援助 "wikilink")をめぐり日本政府与党や左派勢力と激しく対立し多額の資金援助を行ったにも関わらず日本への謝意が演説で述べられなかった事などから「金だけ出して人出さない」「大枚をはたかされた上に礼の一言も言われない」など左右両派で議論を呼んだ。
 
 #### 対中
 
-対中関係では[六四天安門事件](../Page/六四天安門事件.md "wikilink")で[経済制裁](../Page/経済制裁.md "wikilink")を行うも議会と対立してまで最恵国待遇を更新するなど制裁全面化に消極的であり\[37\]\[38\]、当時の中国の最高指導者である[鄧小平](https://ja.wikipedia.org/wiki/鄧小平 "wikilink")には書簡で「先日のサミットの共同宣言の草案には中国を過度に非難する文言があったが、アメリカと日本が取り除いた。米議会は中国との経済関係を断ち切ることを求めているが、私は波風を立てないよう全力を尽くす」と述べていた\[39\]。秘密裏に[ヘンリー・キッシンジャー](../Page/ヘンリー・キッシンジャー.md "wikilink")やブレント・スコウクロフトを中国に派遣して民主化運動家の[方励之](https://ja.wikipedia.org/wiki/方励之 "wikilink")の出国をめぐる交渉を行ったとされる\[40\]\[41\]\[42\]。方励之の出国を条件に融資再開を日本は中国に持ちかけたともされ\[43\]、ブッシュは[第16回先進国首脳会議](https://ja.wikipedia.org/wiki/第16回先進国首脳会議 "wikilink")で対中円借款再開を表明した日本の[海部俊樹](../Page/海部俊樹.md "wikilink")首相に同調した\[44\]。
+対中関係では[六四天安門事件](../Page/六四天安門事件.md "wikilink")で[経済制裁](../Page/経済制裁.md "wikilink")を行うも議会と対立してまで最恵国待遇を更新するなど制裁全面化に消極的であり\[37\]\[38\]、当時の中国の最高指導者である[鄧小平](https://ja.wikipedia.org/wiki/鄧小平 "wikilink")には書簡で「先日のサミットの共同宣言の草案には中国を過度に非難する文言があったが、アメリカと日本が取り除いた。アメリカ議会は中国との経済関係を断ち切ることを求めているが、私は波風を立てないよう全力を尽くす」と述べていた\[39\]。秘密裏に[ヘンリー・キッシンジャー](../Page/ヘンリー・キッシンジャー.md "wikilink")やブレント・スコウクロフトを中国に派遣して民主化運動家の[方励之](https://ja.wikipedia.org/wiki/方励之 "wikilink")の出国をめぐる交渉を行ったとされる\[40\]\[41\]\[42\]。方励之の出国を条件に融資再開を日本は中国に持ちかけたともされ\[43\]、ブッシュは[第16回先進国首脳会議](https://ja.wikipedia.org/wiki/第16回先進国首脳会議 "wikilink")で対中円借款再開を表明した日本の[海部俊樹](../Page/海部俊樹.md "wikilink")首相に同調した\[44\]。
 
-また、国連での対イラク武力行使容認決議の際には中国が[拒否権](../Page/拒否権.md "wikilink")を行使しなければ天安門事件以来の制裁の緩和と[銭其琛](https://ja.wikipedia.org/wiki/銭其琛 "wikilink")外交部長の訪米を受け入れると取引を持ちかけたことから中国は棄権して可決できた\[45\]\[46\]。
+また、国際連合での対イラク武力行使容認決議の際には中国が[拒否権](../Page/拒否権.md "wikilink")を行使しなければ天安門事件以来の制裁の緩和と[銭其琛](https://ja.wikipedia.org/wiki/銭其琛 "wikilink")外交部長の訪米を受け入れると取引を持ちかけたことから中国は棄権して可決できた\[45\]\[46\]。
 
 かつて米中連絡事務所所長を務めた中国滞在経験や兄のプレスコットと息子のニールが[中国共産党](../Page/中国共産党.md "wikilink")政府とビジネスもしていたため、後の[北京オリンピック開会式の親子揃っての出席に象徴されるように](../Page/2008年北京オリンピックの開会式.md "wikilink")[親中](https://ja.wikipedia.org/wiki/親中 "wikilink")派だったとも評されている\[47\]。
 
@@ -179,9 +179,9 @@
 
 ### 1992年の大統領選挙
 
-[President_and_Mrs._Bush_tour_the_Illinois_Farm_Exposition_at_the_Illinois_State_Fairgrounds_and_addresses_the_Springfield_Community_in_Springfield,_IL_b.jpg](https://ja.wikipedia.org/wiki/File:President_and_Mrs._Bush_tour_the_Illinois_Farm_Exposition_at_the_Illinois_State_Fairgrounds_and_addresses_the_Springfield_Community_in_Springfield,_IL_b.jpg "fig:President_and_Mrs._Bush_tour_the_Illinois_Farm_Exposition_at_the_Illinois_State_Fairgrounds_and_addresses_the_Springfield_Community_in_Springfield,_IL_b.jpg") 再選をかけた1992年の大統領選では、1991年[2月28日](../Page/2月28日.md "wikilink")に湾岸戦争に勝利し[中東和平会議](https://ja.wikipedia.org/wiki/中東和平会議 "wikilink")を開き、1992年から**[ソマリア内戦](../Page/ソマリア内戦.md "wikilink")**にも介入し、[北米自由貿易協定](../Page/北米自由貿易協定.md "wikilink")調印したことなど対外的成果を強調して[同年の大統領選挙に挑んだ](https://ja.wikipedia.org/wiki/1992年アメリカ合衆国大統領選挙 "wikilink")。
+[President_and_Mrs._Bush_tour_the_Illinois_Farm_Exposition_at_the_Illinois_State_Fairgrounds_and_addresses_the_Springfield_Community_in_Springfield,_IL_b.jpg](https://ja.wikipedia.org/wiki/File:President_and_Mrs._Bush_tour_the_Illinois_Farm_Exposition_at_the_Illinois_State_Fairgrounds_and_addresses_the_Springfield_Community_in_Springfield,_IL_b.jpg "fig:President_and_Mrs._Bush_tour_the_Illinois_Farm_Exposition_at_the_Illinois_State_Fairgrounds_and_addresses_the_Springfield_Community_in_Springfield,_IL_b.jpg") 再選をかけた1992年の大統領選挙では、1991年[2月28日](../Page/2月28日.md "wikilink")に湾岸戦争に勝利し[中東和平会議](https://ja.wikipedia.org/wiki/中東和平会議 "wikilink")を開き、1992年から**[ソマリア内戦](../Page/ソマリア内戦.md "wikilink")**にも介入し、[北米自由貿易協定](../Page/北米自由貿易協定.md "wikilink")調印したことなど対外的成果を強調して[同年の大統領選挙に挑んだ](https://ja.wikipedia.org/wiki/1992年アメリカ合衆国大統領選挙 "wikilink")。
 
-しかし、湾岸戦争後の緩やかな景気後退や4年前の選挙の「増税はしない」という公約を反故にしていたこと、更に4年前と同様の戦術である[ネガティブ・キャンペーン](../Page/ネガティブ・キャンペーン.md "wikilink")が今度は裏目に出たことなどの条件が重なり、[アーカンソー州](../Page/アーカンソー州.md "wikilink")知事で民主党の[ビル・クリントン](../Page/ビル・クリントン.md "wikilink")に敗北した。本人は敗因として景気が悪化しているのにFRB（[連邦準備制度理事会](https://ja.wikipedia.org/wiki/連邦準備制度理事会 "wikilink")）が利下げを行わなかったためだと不満を示した。なお、現職大統領としては1976年の[ジェラルド・フォード](https://ja.wikipedia.org/wiki/ジェラルド・フォード "wikilink")、1980年の[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")に続いて戦後3人目の不名誉な敗北となった。
+しかし、湾岸戦争後の緩やかな景気後退や4年前の選挙の「増税はしない」という公約を反故にしていたこと、更に4年前と同様の戦術である[ネガティブ・キャンペーン](../Page/ネガティブ・キャンペーン.md "wikilink")が今度は裏目に出たことなどの条件が重なり、[アーカンソー州](../Page/アーカンソー州.md "wikilink")知事で民主党の[ビル・クリントン](../Page/ビル・クリントン.md "wikilink")に敗北した。本人は敗因として景気が悪化しているのにFRB（[連邦準備制度理事会](https://ja.wikipedia.org/wiki/連邦準備制度理事会 "wikilink")）が利下げを行わなかった為だと不満を示した。なお現職大統領としては1976年の[ジェラルド・フォード](https://ja.wikipedia.org/wiki/ジェラルド・フォード "wikilink")、1980年の[ジミー・カーター](../Page/ジミー・カーター.md "wikilink")に続いて戦後3人目の不名誉な敗北となった。
 
 *→ 詳細は「[1992年の大統領選挙](https://ja.wikipedia.org/wiki/1992年アメリカ合衆国大統領選挙 "wikilink")」の項を参照。*
 
@@ -230,7 +230,7 @@
 
 [Bush_Rotunda.jpg](https://ja.wikipedia.org/wiki/File:Bush_Rotunda.jpg "fig:Bush_Rotunda.jpg")の[ロタンダ](https://ja.wikipedia.org/wiki/ロタンダ "wikilink")に一時安置された棺\]\]
 
-2018年11月30日、テキサス州ヒューストンで死去\[60\]。。息子のジョージ・ブッシュは「わが父、ジョージ・H・W・ブッシュは高潔な人格で、最高の父親だった。友人や仲間たちの哀悼の意に対し、ブッシュ家の全員が深く感謝している」という声明を出した。トランプ大統領は「ブッシュ氏は正確な判断と良識、そして、確固たるリーダーシップで平和裏にアメリカと世界を冷戦の勝利に導いた。ブッシュ氏の家族に国民とともに祈りをささげ、その生涯と功績に敬意を表したい」と述べた。
+2018年11月30日にテキサス州ヒューストンで死去\[60\]。。息子のジョージ・W・ブッシュは「わが父、ジョージ・H・W・ブッシュは高潔な人格で、最高の父親だった。友人や仲間たちの哀悼の意に対し、ブッシュ家の全員が深く感謝している」という声明を出した。トランプ大統領は「ブッシュ氏は正確な判断と良識、そして、確固たるリーダーシップで平和裏にアメリカと世界を冷戦の勝利に導いた。ブッシュ氏の家族に国民とともに祈りをささげ、その生涯と功績に敬意を表したい」と述べた。
 
 海部元首相は「私が総理大臣に就任してまもなく訪米した際、ブッシュ氏は自宅で家族そろって出迎えてくれ、大変有意義な時間を過ごす事ができた。今は亡きバーバラ夫人が隣に寄り添い、時にブレーキ役になっていたことも印象深い。ブッシュ氏が日本を訪れた際には必ず連絡をくれた、語りきれないほどのたくさんの思い出があり、心より御冥福をお祈りします」と述べた。
 
@@ -248,7 +248,7 @@
 
 ブッシュが国連大使だった際は公邸で[ニューヨーク](../Page/ニューヨーク.md "wikilink")の最高級ホテルでもある[ウォルドルフ＝アストリア](../Page/ウォルドルフ＝アストリア.md "wikilink")42階のスイートルームが夫婦の自宅だった\[66\]。
 
-一方で、ブッシュが[CIA](https://ja.wikipedia.org/wiki/CIA "wikilink")長官になった後、家庭内でも仕事の話を一切共有できなくなったために、会話が減ったことから[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")を患った\[67\]。夫の薦めでホスピスでボランティア活動に勤しみ、中華人民共和国での生活を講演したりしたことで病から回復した\[68\]。
+一方でブッシュが[CIA](https://ja.wikipedia.org/wiki/CIA "wikilink")長官になった後、家庭内でも仕事の話を一切共有出来無くなった為に、会話が減ったことから[うつ病](https://ja.wikipedia.org/wiki/うつ病 "wikilink")を患った\[67\]。夫の薦めでホスピスでボランティア活動に勤しみ、中華人民共和国での生活を講演したりしたことで病から回復した\[68\]。
 
 ### 家族
 
@@ -267,9 +267,9 @@
 
 ### 訪日時の事件
 
-[1992年](../Page/1992年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")の来日では、[天皇](https://ja.wikipedia.org/wiki/明仁 "wikilink")、[宮澤喜一](../Page/宮澤喜一.md "wikilink")首相とそれぞれ会談した。この来日では、最初に[京都御所](../Page/京都御所.md "wikilink")を見学し、その場で行われていた[蹴鞠](../Page/蹴鞠.md "wikilink")に飛び入りで参加。翌日、天皇と2回[テニス](../Page/テニス.md "wikilink")のダブルスで対戦しているが、2回とも父ブッシュが負けている。
+[1992年](../Page/1992年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")の来日では[天皇](https://ja.wikipedia.org/wiki/明仁 "wikilink")・[宮澤喜一](../Page/宮澤喜一.md "wikilink")首相とそれぞれ会談した。この来日では最初に[京都御所](../Page/京都御所.md "wikilink")を見学し、その場で行われていた[蹴鞠](../Page/蹴鞠.md "wikilink")に飛び入りで参加。翌日に天皇と2回[テニス](../Page/テニス.md "wikilink")のダブルスで対戦しているが、2回とも父ブッシュが負けている。
 
-その日の宮澤首相主催の晩餐会の最中、突然隣に座っていた宮澤の膝に嘔吐し、椅子から崩れるように倒れ、その様子は世界中のマスメディアが[トップニュースとして報道した](http://www.youtube.com/watch?v=XnOnDatqENo)。妻[バーバラがとっさの機転で](../Page/バーバラ・ブッシュ.md "wikilink")「ブッシュ家は負けることに慣れていないのです」とジョークを飛ばし、その場を救った。日本政府は、[慶應義塾大学病院](../Page/慶應義塾大学病院.md "wikilink")を手配したが、アメリカ側は、ただの[インフルエンザ](../Page/インフルエンザ.md "wikilink")に過ぎないからとこれを受諾せず、アメリカ[大使館](../Page/大使館.md "wikilink")の[医務官](https://ja.wikipedia.org/wiki/医務官 "wikilink")が対応した。
+その日の宮澤首相主催の晩餐会の最中、突然隣に座っていた宮澤の膝に嘔吐し、椅子から崩れるように倒れ、その様子は世界中のマスメディアが[トップニュースとして報道した](http://www.youtube.com/watch?v=XnOnDatqENo)。妻[バーバラがとっさの機転で](../Page/バーバラ・ブッシュ.md "wikilink")「ブッシュ家は負けることに慣れていないのです」とジョークを飛ばし、その場を救った。日本政府は[慶應義塾大学病院](../Page/慶應義塾大学病院.md "wikilink")を手配したが、アメリカ側はただの[インフルエンザ](../Page/インフルエンザ.md "wikilink")に過ぎないからとこれを受諾せず、アメリカ[大使館](../Page/大使館.md "wikilink")の[医務官](https://ja.wikipedia.org/wiki/医務官 "wikilink")が対応した。
 
 ### ブロッコリー嫌い
 
@@ -277,7 +277,7 @@
 
 ### 撃墜体験
 
-[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")で撃墜された[アベンジャー雷撃機の名前は](../Page/TBF_\(航空機\).md "wikilink")、後の妻の名前である“バーバラ”だった。[1944年](../Page/1944年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")9時前、父ブッシュは[軽空母](../Page/航空母艦.md "wikilink")[サン・ジャシント](../Page/サン・ジャシント_\(空母\).md "wikilink") から友人であるスタンレー・ブッチャーらが搭乗した僚機3機と護衛の[ヘルキャット数機共に発進し](../Page/F6F_\(航空機\).md "wikilink")、[父島](../Page/父島.md "wikilink")の無電塔爆撃任務についた。この無電塔は米軍の通信を傍受し、本土に空襲の警報を発していたため、米軍にしてみれば何としても破壊しておく必要があったのである。
+[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")で撃墜された[アベンジャー雷撃機の名前は](../Page/TBF_\(航空機\).md "wikilink")、後の妻の名前である“バーバラ”だった。[1944年](../Page/1944年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")9時前、父ブッシュは[軽空母](../Page/航空母艦.md "wikilink")[サン・ジャシント](../Page/サン・ジャシント_\(空母\).md "wikilink") から友人であるスタンレー・ブッチャーらが搭乗した僚機3機と護衛の[ヘルキャット数機共に発進し](../Page/F6F_\(航空機\).md "wikilink")、[父島](../Page/父島.md "wikilink")の無電塔爆撃任務についた。この無電塔はアメリカ軍の通信を傍受し、本土に空襲の警報を発していたため、アメリカ軍にしてみれば何としても破壊しておく必要があったのである。
 
 父ブッシュのチームは機長のブッシュ、二等通信士ジョン・デラニーと代理銃手（情報将校）ウィリアム・ホワイト中尉の3人であった。本来父ブッシュの機“バーバラ”の銃手はレオ・W・ナドーであったが、この日は出撃の直前に島の視察を望んだホワイトに交代するよう命じられたため出撃しなかった。彼は前日に父ブッシュたちと父島の砲台を攻撃し、これを破壊する戦果を上げていた。父ブッシュたちの向かった攻撃目標は山岳地帯に隠された砲座によって守られた危険地帯に存在し、父ブッシュたちの機は激しい攻撃にさらされた。父ブッシュはそれでも爆弾槽を開け目標に四個の爆弾を投下したが、乗機バーバラは被弾し、炎上した。父ブッシュは屈せず、サン・ジャシントへの帰還を試みたが機の[コクピット](https://ja.wikipedia.org/wiki/コクピット "wikilink")が炎と煙で満たされたため、高度1500フィートの地点で[パラシュート](../Page/パラシュート.md "wikilink")脱出した。同乗者のうちホワイトは既に死亡していたか、[爆風](../Page/爆風.md "wikilink")による負傷のため脱出できず機体と運命を共にした。デラニーは脱出には成功したもののパラシュートが開かず戦死した。父ブッシュは無事着水し生存した。
 
@@ -285,13 +285,13 @@
 
 救助された父ブッシュ他4人のパイロットはその後一ヶ月、潜水艦の目として、撃墜されたパイロットを発見する任務に就いた。翌日には早くも[母島](../Page/母島.md "wikilink")上空で撃墜された[空母エンタープライズの搭乗員](../Page/エンタープライズ_\(CV-6\).md "wikilink")・ジェームズ・ベックマン中尉を救助する戦果を上げた。彼らは交代で4時間ずつ飛行し、8時間休息するというローテーションで働いた。一月後父ブッシュほかのパイロットたちはニューヨークでフィンバックを下艦し生還した。その後父ブッシュらのパイロットはハワイに移された。彼らはそこで二週間の休暇を与えられることになったが、父ブッシュは早くサンジャシントに戻って出撃することを希望し艦に戻った。
 
-なお、このとき他にも4機の米軍機が撃墜されたが、搭乗員の8人の米軍兵士捕虜の内5人が[小笠原事件](https://ja.wikipedia.org/wiki/小笠原事件 "wikilink")において処刑された後食人されたとされ、ブッシュの対日観に長く影を落としたといわれている。ある席で「初めて日本人を許す気になった」と語ったという話がある。ブッシュ機を撃墜した砲台は、乱戦の最中ということもあり、特定できなかった\[73\]。
+なお、この時他にも4機のアメリカ軍機が撃墜されたが、搭乗員の8人のアメリカ軍兵士捕虜の内5人が[小笠原事件](https://ja.wikipedia.org/wiki/小笠原事件 "wikilink")において処刑された後に食人されたとされ、ブッシュの対日観に長く影を落としたといわれている。ある席で「初めて日本人を許す気になった」と語ったという話がある。ブッシュ機を撃墜した砲台は、乱戦の最中ということもあり、特定できなかった\[73\]。
 
-ただし、当時現場に立ち会っており、この事件が弁護士活動の原点になったという、元日弁連会長の[土屋公献](../Page/土屋公献.md "wikilink")は事件について証言し、食人などの事実は無かったとして事件の内容について語気鋭く否定している\[74\]。
+ただし当時現場に立ち会っており、この事件が弁護士活動の原点になったという、元日弁連会長の[土屋公献](../Page/土屋公献.md "wikilink")は事件について証言し、食人などの事実は無かったとして事件の内容について語気鋭く否定している\[74\]。
 
 ### 七面鳥の「恩赦」
 
-[感謝祭](../Page/感謝祭.md "wikilink")前日に、ホワイトハウスで[七面鳥](https://ja.wikipedia.org/wiki/七面鳥 "wikilink")を「恩赦」で放鳥する行事は、[1963年](../Page/1963年.md "wikilink")に「Good Eatin', Mr. President（美味しく食べてね、大統領）」というメッセージを首からぶら下げた七面鳥を[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")大統領が食べなかったエピソードが由来とされており、このエピソードを[1989年](../Page/1989年.md "wikilink")から定例の行事としたのが父ブッシュである\[75\]\[76\]。
+[感謝祭](../Page/感謝祭.md "wikilink")前日にホワイトハウスで[七面鳥](https://ja.wikipedia.org/wiki/七面鳥 "wikilink")を「恩赦」で放鳥する行事は、[1963年](../Page/1963年.md "wikilink")に「Good Eatin', Mr. President（美味しく食べてね、大統領）」というメッセージを首からぶら下げた七面鳥を[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")大統領が食べなかったエピソードが由来とされており、このエピソードを[1989年](../Page/1989年.md "wikilink")から定例の行事としたのが父ブッシュである\[75\]\[76\]。
 
 ## 脚注
 

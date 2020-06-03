@@ -57,6 +57,22 @@
 
   - [SF サムライ・フィクション](../Page/SF_サムライ・フィクション.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[日本映画](../Page/日本映画.md "wikilink")作品。[中野裕之](../Page/中野裕之.md "wikilink")監督。
 
+#### 音楽
+
+##### SF
+
+  - 『SF』 - [2012年](../Page/2012年.md "wikilink")発売の[Ypsilon](https://ja.wikipedia.org/wiki/Ypsilon "wikilink")の楽曲。
+  - 『SF』 - [2014年](../Page/2014年.md "wikilink")に発売された[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")のアルバム『[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ_\(アルバム\) "wikilink")』に収録されている楽曲。
+  - 『SF』 - [2017年](../Page/2017年.md "wikilink")発売の[popolomonica](https://ja.wikipedia.org/wiki/popolomonica "wikilink")の楽曲。
+
+##### S.F.
+
+  - 『S.F.』 - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")発売の[忌野清志郎 JOHNNY LOUIS & CHARの楽曲](../Page/忌野清志郎.md "wikilink")。
+
+##### S.F
+
+  - 『S.F』 - [2013年](../Page/2013年.md "wikilink")発売の[Rhythmic Toy Worldの楽曲](https://ja.wikipedia.org/wiki/Rhythmic_Toy_World "wikilink")。
+
 #### 出版
 
   - Sci Fi - Syfy局の公式雑誌[1](http://www.syfy.com/magazine/index.php)。

@@ -568,22 +568,38 @@ HTTP/1.1で定義されている最も単純なセキュリティ技術である
 ## 外部リンク
 
   - RFC 7540 - Hypertext Transfer Protocol Version 2 (HTTP/2)
+
   - RFC 7230 - Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing
+
       - [HTTP/1.1 — RFC 7230 〜 7235 — 日本語訳](https://triple-underscore.github.io/RFC723X-ja.html)
+
   - RFC 7231 - Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content
+
   - RFC 7232 - Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests
+
   - RFC 7233 - Hypertext Transfer Protocol (HTTP/1.1): Range Requests
+
   - RFC 7234 - Hypertext Transfer Protocol (HTTP/1.1): Caching
+
   - RFC 7235 - Hypertext Transfer Protocol (HTTP/1.1): Authentication
+
   - RFC 2818 - HTTP Over TLS
+
   - RFC 2817 - Upgrading to TLS Within HTTP/1.1
+
   - RFC 2616 - HTTP/1.1（RFC 2068の改訂版，RFC 7230 から RFC 7235 によって obsolete）
+
       - [ハイパーテキスト転送プロトコル -- HTTP/1.1](https://triple-underscore.github.io/RFC2616-ja.html)
+
   - RFC 2068 - HTTP/1.1（初版，RFC 2616 によって obsolete）
+
       - [TS X 0085:2004](http://www.y-adagio.com/public/standards/tr_http11_2068/toc.htm) - ハイパテキスト転送プロトコル HTTP/1.1 日本標準仕様書(TS X 0085:2004)
+
   - RFC 1945 - HTTP/1.0
+
   - [The HTTP Protocol As Implemented In W3](https://www.w3.org/Protocols/HTTP/AsImplemented.html) - HTTP/0.9
 
+  -
 [Category:RFC](https://ja.wikipedia.org/wiki/Category:RFC "wikilink") [Category:Hypertext_Transfer_Protocol](https://ja.wikipedia.org/wiki/Category:Hypertext_Transfer_Protocol "wikilink")
 
 1.  [The HTTP Protocol As Implemented In W3](https://www.w3.org/Protocols/HTTP/AsImplemented.html)

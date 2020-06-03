@@ -1,7 +1,7 @@
 > この記事は[PHP \(プログラミング言語\)](https://ja.wikipedia.org/wiki/PHP_\(プログラミング言語\))から翻訳されています。
 
 
-`| latest release version = 7.4.5`\[1\]
+`| latest release version = 7.4.6`\[1\]
 `| latest release date    = `
 
 `| typing                 = 強い`[`動的型付け`](../Page/動的型付け.md "wikilink")

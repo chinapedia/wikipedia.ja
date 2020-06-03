@@ -127,7 +127,7 @@ NHKは[教育テレビの開設など業務の拡大を続けていった結果]
 
 ## 外部リンク
 
-  - [NHK経営情報・関連団体運営基準](http://www.nhk.or.jp/pr/keiei/dantai/kijyun.html)
+  - [NHK経営情報・関連団体運営基準](https://www.nhk.or.jp/pr/keiei/dantai/kijyun.html)
 
 [Category:NHKの関連団体・企業](https://ja.wikipedia.org/wiki/Category:NHKの関連団体・企業 "wikilink")
 

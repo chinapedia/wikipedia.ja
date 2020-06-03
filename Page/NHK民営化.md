@@ -109,7 +109,7 @@ TF1はその後、新規参入した民放テレビ局である[ラ・サンク]
 ## 外部リンク
 
   -
-  - [NHKオンライン](http://www.nhk.or.jp/)
+  - [NHKオンライン](https://www.nhk.or.jp/)
 
 [Category:日本放送協会](https://ja.wikipedia.org/wiki/Category:日本放送協会 "wikilink") [Category:民営化](https://ja.wikipedia.org/wiki/Category:民営化 "wikilink")
 

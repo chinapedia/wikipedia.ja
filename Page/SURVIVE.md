@@ -165,7 +165,7 @@ B'zの結成10周年を迎える直前の作品であり、これまでの集大
 
 ## 外部リンク
 
-  - [B'z DISCOGRAPHY 『SURVIVE』](http://bz-vermillion.com/disco/al_09.html) ※楽曲の試聴が可能
+  - [B'z DISCOGRAPHY 『SURVIVE』](http://bz-vermillion.com/discography/al_09.html) ※楽曲の試聴が可能
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1997年のアルバム](https://ja.wikipedia.org/wiki/Category:1997年のアルバム "wikilink") [Category:Rooms_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:Rooms_RECORDSのアルバム "wikilink") [Category:1997年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

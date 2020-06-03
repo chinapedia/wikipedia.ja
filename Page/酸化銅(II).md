@@ -16,26 +16,26 @@
 酸化銅(II) は、[水酸化銅(II)](../Page/水酸化銅\(II\).md "wikilink")、[硝酸銅(II)](https://ja.wikipedia.org/wiki/硝酸銅\(II\) "wikilink")、[炭酸銅(II)](https://ja.wikipedia.org/wiki/炭酸銅\(II\) "wikilink")もしくは単体の銅などの加熱で得られる。
 
   -
-    <ce>Cu(OH)2 -\> CuO\\ + H2O</ce>
-    <ce>CuCO3 -\> CuO\\ + CO2</ce>
-    <ce>2Cu\\ + O2 -\> 2CuO</ce>
+    <chem>Cu(OH)2 -\> CuO\\ + H2O</chem>
+    <chem>CuCO3 -\> CuO\\ + CO2</chem>
+    <chem>2Cu\\ + O2 -\> 2CuO</chem>
 
 ## 反応
 
 酸化銅(II)が[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")、[硫酸](https://ja.wikipedia.org/wiki/硫酸 "wikilink")、[塩化アンモニウム](../Page/塩化アンモニウム.md "wikilink")溶液、[アンモニア](../Page/アンモニア.md "wikilink")水に溶ける際は以下のような反応を起こす。
 
   -
-    <ce>CuO\\ + 2HCl -\> CuCl2\\ + H2O</ce>
-    <ce>CuO\\ + H2SO4 -\> CuSO4\\ + H2O</ce>
-    <ce>2 CuO\\ + 4NH4Cl -\> CuCl2\\ +\\ \[Cu(NH3)4\]Cl2\\ + 2H2O</ce>
-    <ce>CuO\\ + 4NH3\\ + H2O -\>\\ \[Cu(NH3)4\](OH)2</ce>
+    <chem>CuO\\ + 2HCl -\> CuCl2\\ + H2O</chem>
+    <chem>CuO\\ + H2SO4 -\> CuSO4\\ + H2O</chem>
+    <chem>2 CuO\\ + 4NH4Cl -\> CuCl2\\ +\\ \[Cu(NH3)4\]Cl2\\ + 2H2O</chem>
+    <chem>CuO\\ + 4NH3\\ + H2O -\>\\ \[Cu(NH3)4\](OH)2</chem>
 
 また、酸化銅(II)を金属銅に還元する際には水素や一酸化炭素、黒鉛と以下のように反応させる。
 
   -
-    <ce>CuO\\ + H2 -\> Cu\\ + H2O</ce>
-    <ce>CuO\\ + CO -\> Cu\\ + CO2</ce>
-    <ce>2CuO\\ + C -\> 2Cu\\ + CO2</ce>
+    <chem>CuO\\ + H2 -\> Cu\\ + H2O</chem>
+    <chem>CuO\\ + CO -\> Cu\\ + CO2</chem>
+    <chem>2CuO\\ + C -\> 2Cu\\ + CO2</chem>
 
 ## 出典
 

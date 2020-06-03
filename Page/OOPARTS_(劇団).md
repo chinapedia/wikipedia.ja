@@ -1,7 +1,7 @@
 > この記事は[OOPARTS \(劇団\)](https://ja.wikipedia.org/wiki/OOPARTS_\(劇団\))から翻訳されています。
 
 
-**OOPARTS**（**オーパーツ**）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のかつてあった[劇団](../Page/劇団.md "wikilink")で、現在は[鈴井貴之](../Page/鈴井貴之.md "wikilink")による演劇プロジェクトである。劇団時の主宰は[鈴井貴之](../Page/鈴井貴之.md "wikilink")。
+**OOPARTS**（**オーパーツ**）とは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にかつてあった[劇団](../Page/劇団.md "wikilink")で、現在は[鈴井貴之](../Page/鈴井貴之.md "wikilink")による演劇プロジェクトである。劇団時の主宰は[鈴井貴之](../Page/鈴井貴之.md "wikilink")。
 
 ## 概要（旗揚げ～完全消滅）
 
@@ -22,7 +22,7 @@
   - 鈴井貴之 - 主宰
   - [伊藤亜由美](../Page/伊藤亜由美.md "wikilink") - 487パラシュートより参加。鈴井との結婚・出産後はマネジメント業務や飲食店経営で劇団を支える。
   - [稲田博](https://ja.wikipedia.org/wiki/稲田博 "wikilink") - 旗揚げ後まもなく脱退し、[劇団イナダ組](../Page/劇団イナダ組.md "wikilink")を主宰。
-  - [武田晋](https://ja.wikipedia.org/wiki/武田晋 "wikilink") - 劇団イナダ組より移籍加入。解散前に脱退。
+  - [武田晋](https://ja.wikipedia.org/wiki/武田晋 "wikilink") - 劇団イナダ組より移籍加入。消滅前に脱退。
   - [田中護](https://ja.wikipedia.org/wiki/田中護 "wikilink") - 『モザイクな夜』の初代元気くん。東京進出のため脱退するが、最終公演には凱旋。
   - [森崎博之](../Page/森崎博之.md "wikilink") - 劇団イナダ組との掛け持ちで加入したものの、本公演に出演しないまま脱退。後に安田らと[TEAM NACSを結成](../Page/TEAM_NACS.md "wikilink")。
   - 安田顕 - 森崎の紹介（身代わり）で加入。OOPARTS解散後、唯一CUEに残留した。後述の長谷川、金山と「upspeak」を結成。
@@ -30,7 +30,7 @@
   - 岩村真人
   - 長谷川首司
   - 金山幸意
-  - [川島直樹 -](../Page/川島直樹.md "wikilink") 末期に加入し、後年の『[river](../Page/River_\(2003年の映画\).md "wikilink")』スタッフ参加をきっかけにCUEに所属していた時期がある。
+  - [川島直樹](../Page/川島直樹.md "wikilink") - 末期に加入し、後年の『[river](../Page/River_\(2003年の映画\).md "wikilink")』スタッフ参加をきっかけにCUEに所属していた時期がある。
 
 ## 復活
 

@@ -21,8 +21,6 @@ ITVは日本で言う「[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "
 
 ## ITN
 
-  -
-
 ITVは各々の放送局の集合体であったことから、ニュース番組を製作していない。[ITN](../Page/ITN.md "wikilink")という制作会社が制作している。ITNが制作するニュースはチャンネル4や日本の[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BSでも放送された](../Page/衛星放送.md "wikilink")。
 
 ## 朝の放送
@@ -114,6 +112,6 @@ ITVの地方フランチャイズは前記の様に15社、全国向けフラン
 共に英語サイトである。
 
   - [itv.com](http://www.itv.com/)
-  - [ITVplc （運営会社）](http://itvplc.com/)
+  - [ITVplc （運営会社）](https://www.itvplc.com/)
 
 [Category:ITV](https://ja.wikipedia.org/wiki/Category:ITV "wikilink") [Category:イギリスのテレビ局](https://ja.wikipedia.org/wiki/Category:イギリスのテレビ局 "wikilink") [Category:ロンドンの企業](https://ja.wikipedia.org/wiki/Category:ロンドンの企業 "wikilink") [Category:ロンドン証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:ロンドン証券取引所上場企業 "wikilink")

@@ -90,6 +90,6 @@
 
 ## 外部リンク
 
-  - [Pinkの遺伝子 テレビ東京公式](http://www.tv-tokyo.co.jp/pink/)
+  - [Pinkの遺伝子 テレビ東京公式](https://www.tv-tokyo.co.jp/pink/)
 
 [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:別冊フレンド](https://ja.wikipedia.org/wiki/Category:別冊フレンド "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:テレビ東京火曜未明の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京火曜未明の深夜ドラマ "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:オムニバスドラマ](https://ja.wikipedia.org/wiki/Category:オムニバスドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink")

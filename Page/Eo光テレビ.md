@@ -54,9 +54,9 @@ eo光テレビは、ケーブルテレビ局が存在しない地域への多チ
 | [大阪府](../Page/大阪府.md "wikilink")   | [寝屋川市](https://ja.wikipedia.org/wiki/寝屋川市 "wikilink")、[交野市](../Page/交野市.md "wikilink")、[枚方市](../Page/枚方市.md "wikilink") ※、[大阪狭山市](../Page/大阪狭山市.md "wikilink")、[豊能郡](../Page/豊能郡.md "wikilink")、[大阪市](../Page/大阪市.md "wikilink")（全区）、[摂津市](../Page/摂津市.md "wikilink")、[茨木市](../Page/茨木市.md "wikilink")、[箕面市](../Page/箕面市.md "wikilink")、[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")（全区）、[河内長野市](../Page/河内長野市.md "wikilink")、[高石市](../Page/高石市.md "wikilink")、[南河内郡](../Page/南河内郡.md "wikilink")、[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")、[池田市](../Page/池田市.md "wikilink")、[吹田市](../Page/吹田市.md "wikilink")、[泉大津市](../Page/泉大津市.md "wikilink")、[高槻市](../Page/高槻市.md "wikilink")、[貝塚市](https://ja.wikipedia.org/wiki/貝塚市 "wikilink")、[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")、[八尾市](../Page/八尾市.md "wikilink")、[泉佐野市](../Page/泉佐野市.md "wikilink")、[松原市](https://ja.wikipedia.org/wiki/松原市 "wikilink")、[大東市](../Page/大東市.md "wikilink")、[和泉市](../Page/和泉市.md "wikilink")、[柏原市](../Page/柏原市.md "wikilink")、[羽曳野市](https://ja.wikipedia.org/wiki/羽曳野市 "wikilink")、[門真市](../Page/門真市.md "wikilink")、[藤井寺市](https://ja.wikipedia.org/wiki/藤井寺市 "wikilink")、[東大阪市](../Page/東大阪市.md "wikilink")、[泉南市](../Page/泉南市.md "wikilink")、[四條畷市](../Page/四條畷市.md "wikilink")（[田原地区を除く](https://ja.wikipedia.org/wiki/田原台 "wikilink")）、[阪南市](https://ja.wikipedia.org/wiki/阪南市 "wikilink")、[三島郡](https://ja.wikipedia.org/wiki/三島郡_\(大阪府\) "wikilink")、[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")、[泉南郡](../Page/泉南郡.md "wikilink")、[岸和田市](../Page/岸和田市.md "wikilink")（2007年7月から）、[泉北郡](../Page/泉北郡.md "wikilink")[忠岡町](https://ja.wikipedia.org/wiki/忠岡町 "wikilink")（2007年7月から） |
 | [京都府](../Page/京都府.md "wikilink")   | [京都市](../Page/京都市.md "wikilink")（[右京区](../Page/右京区.md "wikilink")の旧[京北町](../Page/京北町.md "wikilink")地域を除く）、[長岡京市](../Page/長岡京市.md "wikilink")、[向日市](../Page/向日市.md "wikilink")、[八幡市](../Page/八幡市.md "wikilink") ※、[宇治市](../Page/宇治市.md "wikilink")、[城陽市](../Page/城陽市.md "wikilink")、[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")\[3\]、[木津川市](../Page/木津川市.md "wikilink")、[亀岡市](../Page/亀岡市.md "wikilink")、[福知山市](../Page/福知山市.md "wikilink")（旧[天田郡](../Page/天田郡.md "wikilink")除く）、[綾部市](../Page/綾部市.md "wikilink")、[舞鶴市](../Page/舞鶴市.md "wikilink")、[相楽郡](../Page/相楽郡.md "wikilink")[精華町](../Page/精華町.md "wikilink")、[綴喜郡](../Page/綴喜郡.md "wikilink")[井手町](../Page/井手町.md "wikilink")、[乙訓郡](../Page/乙訓郡.md "wikilink")[大山崎町](../Page/大山崎町.md "wikilink")、[久世郡](../Page/久世郡.md "wikilink")[久御山町](../Page/久御山町.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | [兵庫県](../Page/兵庫県.md "wikilink")   | [丹波篠山市](../Page/丹波篠山市.md "wikilink")、[淡路市](../Page/淡路市.md "wikilink")、[小野市](../Page/小野市.md "wikilink")、[西脇市](../Page/西脇市.md "wikilink")、[多可郡](../Page/多可郡.md "wikilink")[多可町](../Page/多可町.md "wikilink")\[4\]、[豊岡市](../Page/豊岡市.md "wikilink")、[たつの市](../Page/たつの市.md "wikilink")（旧[新宮町除く](../Page/新宮町_\(兵庫県\).md "wikilink")）、[三木市](https://ja.wikipedia.org/wiki/三木市 "wikilink")、[神戸市](../Page/神戸市.md "wikilink")（全区）、[尼崎市](../Page/尼崎市.md "wikilink")、[伊丹市](../Page/伊丹市.md "wikilink")、[西宮市](../Page/西宮市.md "wikilink")、[芦屋市](https://ja.wikipedia.org/wiki/芦屋市 "wikilink")、[相生市](../Page/相生市.md "wikilink")、[赤穂市](../Page/赤穂市.md "wikilink")、[宝塚市](../Page/宝塚市.md "wikilink")、[川西市](https://ja.wikipedia.org/wiki/川西市 "wikilink")、[三田市](https://ja.wikipedia.org/wiki/三田市 "wikilink")、[加西市](../Page/加西市.md "wikilink")、[明石市](../Page/明石市.md "wikilink")、[加古川市](https://ja.wikipedia.org/wiki/加古川市 "wikilink")、[高砂市](../Page/高砂市.md "wikilink")、[姫路市](../Page/姫路市.md "wikilink")（旧姫路市、旧[香寺町](../Page/香寺町.md "wikilink")、旧[安富町](../Page/安富町.md "wikilink")）、[丹波市](../Page/丹波市.md "wikilink")、[加東市](../Page/加東市.md "wikilink")、[川辺郡](../Page/川辺郡.md "wikilink")、[神崎郡](../Page/神崎郡.md "wikilink")（[福崎町](../Page/福崎町.md "wikilink")）、[加古郡](../Page/加古郡.md "wikilink")、[美方郡](../Page/美方郡.md "wikilink")、[揖保郡](../Page/揖保郡.md "wikilink")[太子町](../Page/太子町_\(兵庫県\).md "wikilink")                                                                                                                                                                                                                                                                                                                       |
-| [滋賀県](../Page/滋賀県.md "wikilink")   | [大津市](../Page/大津市.md "wikilink")、[草津市](../Page/草津市.md "wikilink")、[栗東市](../Page/栗東市.md "wikilink")、[守山市](../Page/守山市.md "wikilink")、[野洲市](../Page/野洲市.md "wikilink")、[近江八幡市](../Page/近江八幡市.md "wikilink")、[東近江市](../Page/東近江市.md "wikilink")、[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")、[米原市](../Page/米原市.md "wikilink")（旧米原町、旧近江町エリアのみ）、[長浜市](../Page/長浜市.md "wikilink")（旧[余呉町](../Page/余呉町.md "wikilink")・旧[西浅井町](../Page/西浅井町.md "wikilink")除く）、[高島市](../Page/高島市.md "wikilink")（旧[朽木村](../Page/朽木村.md "wikilink")除く）、[湖南市](../Page/湖南市.md "wikilink")、[甲賀市](../Page/甲賀市.md "wikilink")、[蒲生郡](../Page/蒲生郡.md "wikilink")（[竜王町](../Page/竜王町.md "wikilink")・[日野町](../Page/日野町_\(滋賀県\).md "wikilink")）、[愛知郡](../Page/愛知郡_\(滋賀県\).md "wikilink")（[愛荘町](../Page/愛荘町.md "wikilink")）、[犬上郡](../Page/犬上郡.md "wikilink")（[豊郷町](../Page/豊郷町.md "wikilink")・[多賀町](https://ja.wikipedia.org/wiki/多賀町 "wikilink")・[甲良町](../Page/甲良町.md "wikilink")）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [滋賀県](../Page/滋賀県.md "wikilink")   | [大津市](../Page/大津市.md "wikilink")、[草津市](../Page/草津市.md "wikilink")、[栗東市](../Page/栗東市.md "wikilink")、[守山市](../Page/守山市.md "wikilink")、[野洲市](../Page/野洲市.md "wikilink")、[近江八幡市](../Page/近江八幡市.md "wikilink")、[東近江市](../Page/東近江市.md "wikilink")、[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")、[米原市](../Page/米原市.md "wikilink")（旧米原町、旧近江町エリアのみ）、[長浜市](../Page/長浜市.md "wikilink")（旧[余呉町](../Page/余呉町.md "wikilink")・旧[西浅井町](../Page/西浅井町.md "wikilink")を除く）、[高島市](../Page/高島市.md "wikilink")（旧[朽木村](../Page/朽木村.md "wikilink")\[5\]・旧[今津町杉山](../Page/今津町_\(滋賀県\).md "wikilink")\[6\]を除く）、[湖南市](../Page/湖南市.md "wikilink")、[甲賀市](../Page/甲賀市.md "wikilink")、[蒲生郡](../Page/蒲生郡.md "wikilink")（[竜王町](../Page/竜王町.md "wikilink")・[日野町](../Page/日野町_\(滋賀県\).md "wikilink")）、[愛知郡](../Page/愛知郡_\(滋賀県\).md "wikilink")（[愛荘町](../Page/愛荘町.md "wikilink")）、[犬上郡](../Page/犬上郡.md "wikilink")（[豊郷町](../Page/豊郷町.md "wikilink")・[多賀町](https://ja.wikipedia.org/wiki/多賀町 "wikilink")・[甲良町](../Page/甲良町.md "wikilink")）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | [和歌山県](../Page/和歌山県.md "wikilink") | [橋本市](../Page/橋本市.md "wikilink")、[伊都郡](../Page/伊都郡.md "wikilink")（[かつらぎ町](../Page/かつらぎ町.md "wikilink")）、[有田市](https://ja.wikipedia.org/wiki/有田市 "wikilink")、[紀の川市](../Page/紀の川市.md "wikilink")、[岩出市](../Page/岩出市.md "wikilink")、[有田郡](../Page/有田郡.md "wikilink")（[湯浅町](../Page/湯浅町.md "wikilink")、[有田川町](https://ja.wikipedia.org/wiki/有田川町 "wikilink")）、[和歌山市](../Page/和歌山市.md "wikilink")、[海南市](../Page/海南市.md "wikilink")、[御坊市](../Page/御坊市.md "wikilink")、[田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")、[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")（[日高町](../Page/日高町_\(和歌山県\).md "wikilink")、[印南町](../Page/印南町.md "wikilink")）、[西牟婁郡](../Page/西牟婁郡.md "wikilink")（[上富田町](../Page/上富田町.md "wikilink")）                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [福井県](../Page/福井県.md "wikilink")   | [大飯郡](../Page/大飯郡.md "wikilink")[高浜町](../Page/高浜町.md "wikilink")\[5\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [福井県](../Page/福井県.md "wikilink")   | [大飯郡](../Page/大飯郡.md "wikilink")[高浜町](../Page/高浜町.md "wikilink")\[7\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 ### 「K-CAT」および「KCN」双方の対象地域
 
@@ -187,7 +187,7 @@ KBS京都（一部のみ）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>3</strong></p></td>
-<td><p><a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビ</a>（兵庫・大阪[6]）、<a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a>（奈良[7]）</p></td>
+<td><p><a href="../Page/サンテレビジョン.md" title="wikilink">サンテレビ</a>（兵庫・大阪[8]）、<a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a>（奈良[9]）</p></td>
 <td><p>NHK総合 <a href="../Page/NHK奈良放送局.md" title="wikilink">奈良局</a>（奈良）</p></td>
 </tr>
 <tr class="odd">
@@ -197,8 +197,8 @@ KBS京都（一部のみ）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>5</strong></p></td>
-<td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a>（京都・大阪・奈良[8][9]）、<a href="../Page/びわ湖放送.md" title="wikilink">びわ湖放送</a>（滋賀）<br />
-サンテレビ（兵庫の一部[10]）、<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a>（和歌山）</p></td>
+<td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a>（京都・大阪・奈良[10][11]）、<a href="../Page/びわ湖放送.md" title="wikilink">びわ湖放送</a>（滋賀）<br />
+サンテレビ（兵庫の一部[12]）、<a href="../Page/テレビ和歌山.md" title="wikilink">テレビ和歌山</a>（和歌山）</p></td>
 <td><p>KBS京都</p></td>
 </tr>
 <tr class="odd">
@@ -213,7 +213,7 @@ KBS京都（一部のみ）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>9</strong></p></td>
-<td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a>（大阪の全域・兵庫と京都と奈良の一部[11]）</p></td>
+<td><p><a href="../Page/テレビ大阪.md" title="wikilink">テレビ大阪</a>（大阪の全域・兵庫と京都と奈良の一部[13]）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/奈良テレビ放送" title="wikilink">奈良テレビ</a></p></td>
 </tr>
 <tr class="even">
@@ -223,7 +223,7 @@ KBS京都（一部のみ）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>11</strong></p></td>
-<td><p>K-CAT eo光チャンネル（コミュニティチャンネル。兵庫・京都のみ[12]）</p></td>
+<td><p>K-CAT eo光チャンネル（コミュニティチャンネル。兵庫・京都のみ[14]）</p></td>
 <td><p>サンテレビ</p></td>
 </tr>
 <tr class="even">
@@ -246,22 +246,22 @@ KBS京都（一部のみ）</p></td>
 | 大阪府                                  | 兵庫県  | 京都府                                                                               | 滋賀県                                                       |
 | 1                                    | D011 | [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")・大阪                                     | NHK総合・神戸                                                  |
 | 2                                    | D021 | [NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")・[大阪](../Page/NHK大阪放送局.md "wikilink") |                                                           |
-| 3                                    | D031 | [サンテレビ](../Page/サンテレビジョン.md "wikilink")（京都府は一部\[13\]）                             | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      |
+| 3                                    | D031 | [サンテレビ](../Page/サンテレビジョン.md "wikilink")（京都府は一部\[15\]）                             | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                      |
 | 4                                    | D041 | [MBS毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")                        |                                                           |
-| 5                                    | D051 | [KBS京都](../Page/京都放送.md "wikilink")（一部\[14\]）                                     |                                                           |
+| 5                                    | D051 | [KBS京都](../Page/京都放送.md "wikilink")（一部\[16\]）                                     |                                                           |
 | 6                                    | D061 | [朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")                                          |                                                           |
-| 7                                    | D071 | [テレビ大阪](../Page/テレビ大阪.md "wikilink")（兵庫県\[15\]と京都府\[16\]は一部）                      |                                                           |
+| 7                                    | D071 | [テレビ大阪](../Page/テレビ大阪.md "wikilink")（兵庫県\[17\]と京都府\[18\]は一部）                      |                                                           |
 | 8                                    | D081 | [関西テレビ](../Page/関西テレビ放送.md "wikilink")                                            |                                                           |
 | 9                                    | D091 |                                                                                   | [奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink") |
 | 10                                   | D101 | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")                                            |                                                           |
-| 11                                   | D111 | K-CAT eo光チャンネル（コミュニティチャンネル）\[17\]                                                 | ファミリーチャンネル（コミュニティチャンネル）                                   |
-| なし                                   | D112 | K-CAT eo光チャンネル（サブチャンネル）\[18\]                                                     |                                                           |
+| 11                                   | D111 | K-CAT eo光チャンネル（コミュニティチャンネル）\[19\]                                                 | ファミリーチャンネル（コミュニティチャンネル）                                   |
+| なし                                   | D112 | K-CAT eo光チャンネル（サブチャンネル）\[20\]                                                     |                                                           |
 
 ### BS・CSデジタル放送
 
 「K-CAT」でのチャンネルのみを掲載する。「KCN」については[近鉄ケーブルネットワーク](../Page/近鉄ケーブルネットワーク.md "wikilink")を参照のこと。
 
-「スマートプレミアム」（84チャンネル　地上波・BSの標準（無料）視聴19チャンネルを含む。以下同）・「スマートベーシック」（50チャンネル）・「地デジ・BS・スター・チャンネルコース」（21チャンネル）・「地デジ・BSコース」（19チャンネル）の4つのコースがあり、CS放送では先頭に挙げたコースほど、視聴できるチャンネルの数が多くなる\[19\]。
+「スマートプレミアム」（84チャンネル　地上波・BSの標準（無料）視聴19チャンネルを含む。以下同）・「スマートベーシック」（50チャンネル）・「地デジ・BS・スター・チャンネルコース」（21チャンネル）・「地デジ・BSコース」（19チャンネル）の4つのコースがあり、CS放送では先頭に挙げたコースほど、視聴できるチャンネルの数が多くなる\[21\]。
 
   - チャンネル番号
       - BS：BSデジタル
@@ -278,9 +278,9 @@ KBS京都（一部のみ）</p></td>
       - 同じく2011年10月1日から新規開局した[FOX bs238（現・FOXスポーツ&エンターテイメント）については](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")、当初1年間はBSでの配信とはなっていたものの、BSパススルー配信の対象とはなっておらず、セットトップボックスの受信のみに対応していた。諸般の都合により有料放送となる2012年10月1日以後のBS配信は見送りとなったが、[2013年](../Page/2013年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")から[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")（CS124・128度放送）での配信開始を受けて、BS打ち切りから半年後の[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")よりCS810chで配信を再開することになった（これには[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")、[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の主管試合放映権が2013年シーズンより[FOX SPORTS ジャパンに移行したことも影響している](https://ja.wikipedia.org/wiki/FOX_SPORTS_ジャパン "wikilink")。このうちソフトバンク以外は2015年以後別チャンネルへ移動している）
       - [放送大学BSについては](../Page/放送大学学園.md "wikilink")、当初はCS再配信を利用していたが、[2012年](../Page/2012年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")の放送からはBS231ch（テレビ）・BS531ch（ラジオ）での放送を開始した。なお[3月31日](../Page/3月31日.md "wikilink")まではCSとの併用放送で、[4月1日](../Page/4月1日.md "wikilink")からはCS配信を廃止しBSのみとなる。こちらもBSパススルーの対象ではないため、セットトップボックスの受信のみの対応である。
       - また[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")（BS258ch）も同日より配信を開始した（こちらはパススルー対応である）。
-      - [2012年](../Page/2012年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")より、さらに一部チャンネルの配信ch番号がハイビジョン化に伴い変更される。\[20\]
-      - [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")についても、[2012年](../Page/2012年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から2チャンネル体制（旧来のTBSチャンネルが「TBSチャンネル1」となり、新規に「TBSチャンネル2」が[スカパー\!で開局](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）に移行してからも、「TBSチャンネル1」のみの配信が続いていたが、[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")でのハイビジョン配信開始に伴い、「TBSch2」もeo光テレビで配信が開始される。（これも[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")の放映権が2014年から従来のTBSニュースバードからTBSch2に移行したことも挙げられる\[21\]）。
-  - 2016年7月1日よりベーシックコースを「スマートプレミアム」「スマートベーシック」にリニューアルし、新たに[ビデオオンデマンド](https://ja.wikipedia.org/wiki/ビデオオンデマンド "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")（対応するセットトップボックスやアプリ必要）で見逃し配信が可能な「eoオンデマンド」のサービスも開始し、左記サービスの利用者はそれらを利用できるようになった\[22\]。
+      - [2012年](../Page/2012年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")より、さらに一部チャンネルの配信ch番号がハイビジョン化に伴い変更される。\[22\]
+      - [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")についても、[2012年](../Page/2012年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から2チャンネル体制（旧来のTBSチャンネルが「TBSチャンネル1」となり、新規に「TBSチャンネル2」が[スカパー\!で開局](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）に移行してからも、「TBSチャンネル1」のみの配信が続いていたが、[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")でのハイビジョン配信開始に伴い、「TBSch2」もeo光テレビで配信が開始される。（これも[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")の放映権が2014年から従来のTBSニュースバードからTBSch2に移行したことも挙げられる\[23\]）。
+  - 2016年7月1日よりベーシックコースを「スマートプレミアム」「スマートベーシック」にリニューアルし、新たに[ビデオオンデマンド](https://ja.wikipedia.org/wiki/ビデオオンデマンド "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")（対応するセットトップボックスやアプリ必要）で見逃し配信が可能な「eoオンデマンド」のサービスも開始し、左記サービスの利用者はそれらを利用できるようになった\[24\]。
 
 <!-- end list -->
 
@@ -330,7 +330,7 @@ Ch番号</p></th>
 <td><p>●</p></td>
 <td><p>　</p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
-<td><p>※[23]</p></td>
+<td><p>※[25]</p></td>
 </tr>
 <tr class="even">
 <td><p>BS103-104</p></td>
@@ -341,7 +341,7 @@ Ch番号</p></th>
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>　</p></td>
-<td><p>※[24]</p></td>
+<td><p>※[26]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -419,7 +419,7 @@ Ch番号</p></th>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>　</p></td>
-<td><p>※[25]</p></td>
+<td><p>※[27]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -459,7 +459,7 @@ Ch番号</p></th>
 <td><p>-</p></td>
 <td><p>　</p></td>
 <td><p>2007年12月</p></td>
-<td><p>※[26][27]</p></td>
+<td><p>※[28][29]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -524,7 +524,7 @@ Ch番号</p></th>
 <td><p>●</p></td>
 <td><p>　</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a></p></td>
-<td><p>※[28][29]</p></td>
+<td><p>※[30][31]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -550,7 +550,7 @@ Ch番号</p></th>
 <td><p>●</p></td>
 <td><p>　</p></td>
 <td><p>　</p></td>
-<td><p>※[30]</p></td>
+<td><p>※[32]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -564,7 +564,7 @@ Ch番号</p></th>
 <td><p>※</p></td>
 <td><p>　</p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
-<td><p>※[31]</p></td>
+<td><p>※[33]</p></td>
 </tr>
 <tr class="even">
 <td><p>アニメ</p></td>
@@ -814,7 +814,7 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>C857[32]</p></td>
+<td><p>C857[34]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/KBSワールド" title="wikilink">KBS World HD</a></strong></p></td>
 <td><p>●</p></td>
@@ -866,7 +866,7 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>C835[33]</p></td>
+<td><p>C835[35]</p></td>
 <td><p><em>C318</em></p></td>
 <td><p><strong><a href="../Page/FOXムービー.md" title="wikilink">FOXムービー</a></strong></p></td>
 <td><p>●</p></td>
@@ -875,7 +875,7 @@ Ch番号</p></th>
 <td><p>-</p></td>
 <td><p>　</p></td>
 <td><p>2012年10月4日</p></td>
-<td><p>※[34]</p></td>
+<td><p>※[36]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -944,7 +944,7 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>C805[35]</p></td>
+<td><p>C805[37]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/J_SPORTS.md" title="wikilink">J SPORTS 3</a></strong></p></td>
 <td><p>●</p></td>
@@ -1109,7 +1109,7 @@ Ch番号</p></th>
 <td><p>-</p></td>
 <td><p>　</p></td>
 <td><p>2012年10月2日</p></td>
-<td><p>※[36]</p></td>
+<td><p>※[38]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1256,7 +1256,7 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>C814[37]</p></td>
+<td><p>C814[39]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/フジテレビONE" title="wikilink">フジテレビONE スポーツ・バラエティ</a></strong></p></td>
 <td><p>●</p></td>
@@ -1269,7 +1269,7 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>C815[38]</p></td>
+<td><p>C815[40]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/フジテレビTWO" title="wikilink">フジテレビTWO ドラマ・アニメ</a></strong></p></td>
 <td><p>●</p></td>
@@ -1304,7 +1304,7 @@ Ch番号</p></th>
 <td><p>-</p></td>
 <td></td>
 <td><p>2012年10月2日</p></td>
-<td><p>※[39]</p></td>
+<td><p>※[41]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1317,7 +1317,7 @@ Ch番号</p></th>
 <td><p>-</p></td>
 <td><p>　</p></td>
 <td><p>2013年4月1日</p></td>
-<td><p>※[40]</p></td>
+<td><p>※[42]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1460,7 +1460,7 @@ Ch番号</p></th>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>　</p></td>
-<td><p>※[41]</p></td>
+<td><p>※[43]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1517,7 +1517,7 @@ Ch番号</p></th>
 </tr>
 <tr class="odd">
 <td><p>ショッピング</p></td>
-<td><p>C825[42]</p></td>
+<td><p>C825[44]</p></td>
 <td><p>C220</p></td>
 <td><p><strong><a href="../Page/ショップチャンネル.md" title="wikilink">ショップチャンネル</a></strong></p></td>
 <td><p>●</p></td>
@@ -1529,7 +1529,7 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>C825[43]</p></td>
+<td><p>C825[45]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/QVC.md" title="wikilink">QVC</a>（キュー・ヴィー・シー）</strong></p></td>
 <td><p>●</p></td>
@@ -1542,7 +1542,7 @@ Ch番号</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>C827[44]</p></td>
+<td><p>C827[46]</p></td>
 <td><p>　</p></td>
 <td><p><strong><a href="../Page/ジャパネットたかた.md" title="wikilink">ジャパネットチャンネルDX ハイビジョン</a></strong></p></td>
 <td><p>●</p></td>
@@ -1785,32 +1785,32 @@ Ch番号</p></th>
 
 | Ch番号      | チャンネル名                                                                      | 備考           |
 | --------- | --------------------------------------------------------------------------- | ------------ |
-| BS101     | *[NHK BS1（旧）](../Page/NHK_BS1.md "wikilink")*                               | \[45\]       |
+| BS101     | *[NHK BS1（旧）](../Page/NHK_BS1.md "wikilink")*                               | \[47\]       |
 | BS102     | *[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")*                            |              |
-| BS103-104 | **[NHK BShi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")**                       | \[46\]\[47\] |
-| BS238     | **[FOX bs238](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")**           | \[48\]\[49\] |
-| BS531     | [放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")BSラジオ                  | \[50\]       |
-| C050      | eo光チャンネル・3Dプラス                                                              | \[51\]       |
-| C205      | 放送大学テレビ                                                                     | \[52\]       |
-| C218      | [ビクトリーチャンネル](https://ja.wikipedia.org/wiki/ビクトリーチャンネル "wikilink")           | \[53\]       |
-| C241      | [ハッピー241](../Page/ハッピー241.md "wikilink")                                    | \[54\]       |
-| C248      | [ベネッセチャンネル](https://ja.wikipedia.org/wiki/ベネッセチャンネル "wikilink")             | \[55\]       |
-| C267      | [第一興商スターカラオケ](../Page/第一興商スターカラオケ.md "wikilink")                            | \[56\]       |
-| C268      | [エコミュージックTV](../Page/エコミュージックTV.md "wikilink")                              | \[57\]       |
-| C275      | [EXエンタテイメント](../Page/寄席チャンネル.md "wikilink")                                 | \[58\]       |
-| C286      | [ザ・ゴルフ・チャンネル](../Page/ザ・ゴルフ・チャンネル.md "wikilink")                            | \[59\]       |
+| BS103-104 | **[NHK BShi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")**                       | \[48\]\[49\] |
+| BS238     | **[FOX bs238](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")**           | \[50\]\[51\] |
+| BS531     | [放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")BSラジオ                  | \[52\]       |
+| C050      | eo光チャンネル・3Dプラス                                                              | \[53\]       |
+| C205      | 放送大学テレビ                                                                     | \[54\]       |
+| C218      | [ビクトリーチャンネル](https://ja.wikipedia.org/wiki/ビクトリーチャンネル "wikilink")           | \[55\]       |
+| C241      | [ハッピー241](../Page/ハッピー241.md "wikilink")                                    | \[56\]       |
+| C248      | [ベネッセチャンネル](https://ja.wikipedia.org/wiki/ベネッセチャンネル "wikilink")             | \[57\]       |
+| C267      | [第一興商スターカラオケ](../Page/第一興商スターカラオケ.md "wikilink")                            | \[58\]       |
+| C268      | [エコミュージックTV](../Page/エコミュージックTV.md "wikilink")                              | \[59\]       |
+| C275      | [EXエンタテイメント](../Page/寄席チャンネル.md "wikilink")                                 | \[60\]       |
+| C286      | [ザ・ゴルフ・チャンネル](../Page/ザ・ゴルフ・チャンネル.md "wikilink")                            | \[61\]       |
 |           |                                                                             |              |
-| C316      | [スター・チャンネル プラス](../Page/スター・チャンネル.md "wikilink")                            | \[60\]       |
+| C316      | [スター・チャンネル プラス](../Page/スター・チャンネル.md "wikilink")                            | \[62\]       |
 | C317      | [スター・チャンネル クラシック](../Page/スター・チャンネル.md "wikilink")                          |              |
-| C325      | [歌舞伎チャンネル](../Page/歌舞伎チャンネル.md "wikilink")                                  | \[61\]       |
-| C343      | [Baby TV こどもえいごチャンネル](https://ja.wikipedia.org/wiki/Baby_TV "wikilink")     | \[62\]       |
-| C726      | [関西テレビ☆京都チャンネル](../Page/関西テレビ☆京都チャンネル.md "wikilink")                        | \[63\]       |
-| C852      | **[FOXクラシック 名作ドラマHD](../Page/FOXクラシック.md "wikilink")**                      | \[64\]       |
-| C856      | **[ユニバーサル チャンネル HD](https://ja.wikipedia.org/wiki/ユニバーサルチャンネル "wikilink")** | \[65\]       |
-| C822      | 食と旅のフーディーズTV                                                                | \[66\]\[67\] |
-| J150      | [パワープラッツ](https://ja.wikipedia.org/wiki/パワープラッツ "wikilink")                 | \[68\]       |
-| J162,J171 | [スカチャン](../Page/スカチャン.md "wikilink")162、171                                 | \[69\]       |
-| J171      | [Mnet](../Page/Mnet.md "wikilink")                                          | \[70\]\[71\] |
+| C325      | [歌舞伎チャンネル](../Page/歌舞伎チャンネル.md "wikilink")                                  | \[63\]       |
+| C343      | [Baby TV こどもえいごチャンネル](https://ja.wikipedia.org/wiki/Baby_TV "wikilink")     | \[64\]       |
+| C726      | [関西テレビ☆京都チャンネル](../Page/関西テレビ☆京都チャンネル.md "wikilink")                        | \[65\]       |
+| C852      | **[FOXクラシック 名作ドラマHD](../Page/FOXクラシック.md "wikilink")**                      | \[66\]       |
+| C856      | **[ユニバーサル チャンネル HD](https://ja.wikipedia.org/wiki/ユニバーサルチャンネル "wikilink")** | \[67\]       |
+| C822      | 食と旅のフーディーズTV                                                                | \[68\]\[69\] |
+| J150      | [パワープラッツ](https://ja.wikipedia.org/wiki/パワープラッツ "wikilink")                 | \[70\]       |
+| J162,J171 | [スカチャン](../Page/スカチャン.md "wikilink")162、171                                 | \[71\]       |
+| J171      | [Mnet](../Page/Mnet.md "wikilink")                                          | \[72\]\[73\] |
 | J176      | [スカチャン](../Page/スカチャン.md "wikilink")176                                     |              |
 | J700      | [チャンネル700](https://ja.wikipedia.org/wiki/チャンネル700 "wikilink")               |              |
 | J950      | [パーフェクトチョイス110](../Page/パーフェクト・チョイス.md "wikilink")                          |              |
@@ -1819,7 +1819,7 @@ Ch番号</p></th>
 | J952      | ミッドナイト・ブルー                                                                  |              |
 | J954      | ピンクチェリー                                                                     |              |
 | J954      | [パラダイステレビ](../Page/パラダイステレビ.md "wikilink")                                  |              |
-| J959      | パワープラッツ・ナイト                                                                 | \[72\]       |
+| J959      | パワープラッツ・ナイト                                                                 | \[74\]       |
 
 ### FMラジオ
 
@@ -1910,7 +1910,7 @@ Ch番号</p></th>
 <td><p>86.1（2016年現在も実施中）</p></td>
 <td><p>（CS放送の副音声のみ）</p></td>
 <td><p>放送大学ラジオ</p></td>
-<td><p>[73]</p></td>
+<td><p>[75]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1922,7 +1922,7 @@ Ch番号</p></th>
       - パススルー化よりも前（2009年5月17日まで）に加入した世帯では、録画などで外部の機器に出力する場合にはSTBからの映像出力となる（[i-Linkを介しての録画の場合はハイビジョン画質に対応](../Page/IEEE_1394.md "wikilink")）。ただし、[ONUの交換工事を行えば市販のBSデジタル放送チューナーを搭載した機器で直接視聴や録画が可能となった](../Page/光回線終端装置.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")10時30分頃より、[マスプロ電工](../Page/マスプロ電工.md "wikilink")製の[STB](../Page/セットトップボックス.md "wikilink")(DST-22)を使用している「K-CAT」のサービスエリア内の世帯（約15000台）で、アナログ放送以外が全く視聴できなくなるという障害が発生した。該当する世帯では[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")製のSTB(TZ-DCH800)に順次交換し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")には交換が完了した。
   - 従来の標準画質放送のサービスについては、新規申し込みは[2009年](../Page/2009年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")を持って終了となったが、それまでに申し込んだものは従来の標準画質サービス（バリューパック、スタンダードパック、ライト、オプション）の番組を引き続き視聴できる他、そのサービス間での契約変更・追加も可能となっている。ただしハイビジョンサービスに移行した場合は標準画質サービスへの転換・視聴はできない。
-      - [2012年](../Page/2012年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")正午より（これに先駆けて[4月25日](../Page/4月25日.md "wikilink")未明より試験放送中）、ケイキャットeo光テレビでは、これまでの標準画質サービスで提供していたチャンネルのうち、ハイビジョン対応で放送されるチャンネルについては全てハイビジョンへ一本化されることになった。同[5月31日](../Page/5月31日.md "wikilink")までは移行期間と位置づけて標準画質放送と並列配信するが、それ以後はハイビジョンのみの単独配信となる。\[74\]
+      - [2012年](../Page/2012年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink")正午より（これに先駆けて[4月25日](../Page/4月25日.md "wikilink")未明より試験放送中）、ケイキャットeo光テレビでは、これまでの標準画質サービスで提供していたチャンネルのうち、ハイビジョン対応で放送されるチャンネルについては全てハイビジョンへ一本化されることになった。同[5月31日](../Page/5月31日.md "wikilink")までは移行期間と位置づけて標準画質放送と並列配信するが、それ以後はハイビジョンのみの単独配信となる。\[76\]
 
 ## eo光テレビ制作の主な番組
 
@@ -1956,73 +1956,75 @@ Ch番号</p></th>
 2.  [Ｋ－ＣＡＴサービス終了のお知らせ](http://www.kcat.jp/information/info20150601.html)（2015年6月1日　8月5日閲覧）
 3.  [京阪東ローズタウン](../Page/京阪東ローズタウン.md "wikilink")のみ[ケイ・キャット](../Page/ケイ・キャット.md "wikilink")のHFC方式とサービスが重複するが、この地域の居住者は難視聴地域の対策の一環としてケイ・キャットのサービスに必ず加入しなければならない。なお、FTTH方式（これが「eo光テレビ」のサービスに相当する）への加入を希望する者は、同時に加入することも可能である。
 4.  地元ケーブルテレビ局の[たかテレビ](../Page/たかテレビ.md "wikilink")とBS・CSデジタルテレビ放送部門で業務提携
-5.  2018年以降の[高浜町ケーブルテレビ](../Page/高浜町ケーブルテレビ.md "wikilink")の民営化による。
-6.  兵庫県では、地域によって3または5のいずれかとなる（ほとんどの地域では3に設定されている）。
-7.  近接する京都では、アナログ・デジタル放送共に全く配信されていない（競合する[KCN京都](../Page/KCN京都.md "wikilink")では何れも配信されている）。
-8.  大阪府の一部地域では、技術上の都合で鮮明に受信出来ない場合がある。大阪府の正式な対象地域は、大阪市（[東淀川区](../Page/東淀川区.md "wikilink")・[淀川区](../Page/淀川区.md "wikilink")・[港区](../Page/港区_\(大阪市\).md "wikilink")・[此花区](../Page/此花区.md "wikilink")・[西区](../Page/西区_\(大阪市\).md "wikilink")・[西淀川区](../Page/西淀川区.md "wikilink")・[大正区](../Page/大正区.md "wikilink")・[福島区](../Page/福島区.md "wikilink")・[旭区](../Page/旭区_\(大阪市\).md "wikilink")・[城東区](../Page/城東区.md "wikilink")・[鶴見区](../Page/鶴見区_\(大阪市\).md "wikilink")・[都島区](../Page/都島区.md "wikilink")・[東成区](../Page/東成区.md "wikilink")・[北区](../Page/北区_\(大阪市\).md "wikilink")）・吹田市・摂津市・池田市・豊中市・箕面市・茨木市・高槻市・四條畷市・守口市・大東市・門真市・交野市・寝屋川市・枚方市・三島郡（島本町）・豊能郡（能勢町・豊能町）とされている。
-9.  近接する滋賀では、アンテナ受信が可能であったが配信されていない（競合するほとんどのケーブルテレビ局では何れも配信されている）。
-10.
-11. 兵庫県と京都府では、大阪府に近接するごく一部の地域のみで視聴できる。
-12. 従来はデジタル放送のみで配信されていたが、2008年7月より配信を開始した。一部の時間帯において、行政広報番組などへの差し替えが行われることがある。
-13. 八幡市、宇治市の一部、京田辺市、木津川市、久御山町、精華町
-14. 概ね北河内・北摂・大阪市北部のみ
-15. 三田市・川西市・宝塚市・芦屋市・神戸市（[北区淡河町および](../Page/北区_\(神戸市\).md "wikilink")[西区の一部地域除く](../Page/西区_\(神戸市\).md "wikilink")）・淡路市・伊丹市・尼崎市・西宮市・川辺郡猪名川町
-16. 京都市（右京区旧京北町地域を除く）・京田辺市・長岡京市・宇治市・城陽市・向日市・八幡市・木津川市・乙訓郡大山崎町・久世郡久御山町・綴喜郡（井手町・宇治田原町）・相楽郡（精華町）
-17. 原則としてCS放送の049チャンネルと同じ内容で（一部の時間帯では番組の差し替えが行われることがある）、2008年7月1日よりサービスエリアのほぼ全域で配信されている。ただし、[前述した経緯により](https://ja.wikipedia.org/wiki/#沿革 "wikilink")[枚方市](../Page/枚方市.md "wikilink")・[寝屋川市](https://ja.wikipedia.org/wiki/寝屋川市 "wikilink")・[交野市](../Page/交野市.md "wikilink")ではこの番号で「**K-CAT チャンネル**」という全く別のコミュニティチャンネルが配信されており、「K-CAT eo光チャンネル」は112チャンネルで配信されている。
-18. 2014年3月25-31日までは試験放送（6:00-2:00）とし、4月1日より24時間本放送に移行。枚方市・寝屋川市・交野市を除く
-19. 後述するように、CS放送はスカパー\!からの放送信号を使用して配信しているが、[番組間のCM中などの一時的な無料放送を行っている間であっても](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")[スクランブル信号がかけられる](../Page/スクランブル_\(曖昧さ回避\).md "wikilink")。ただし、BS放送のWOWOWとスターチャンネル ハイビジョンについては例外である。
-20. [変更チャンネル一覧](http://support.eonet.jp/news/tv_20120918.html)
-21. 但し、4・5月におけるTBS系地上波・BS-TBSでの放送がない16試合については、視聴者の円滑な移行ができるようにするための経過処置として、TBSチャンネル2とニュースバードでの並列放送を行っている。[プロ野球中継に関するプレスリリース　CS放送「TBSニュースバード」と「TBSチャンネル2」で4月・5月の横浜DeNAベイスターズ主催16試合を同時完全生中継決定](http://www.tbs.co.jp/newsbird/nb_baseball_release.pdf)TBSテレビ 2014年3月14日。4月27日閲覧
-22. [テレビライフが変わる！「eoオンデマンド」の提供開始について ～eo光テレビに新コースが登場～](http://www.k-opti.com/press/2016/press21.html)
-23. 102chは標準画質放送の予備チャンネル
-24. 104chは標準画質放送の予備チャンネル
-25. 3チャンネルハイビジョン放送の開始は[2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から。
-26.
-27. 2011年9月30日までは地デジ・BSコースでは「スター・チャンネル ハイビジョン」のみ契約可能。月額料金は「スター・チャンネル プレミア3」と同額（税込2,100円/月）だった。2011年10月のBS放送3チャンネルマルチハイビジョン編成の実施に伴い、CS316・317での配信は同年10月31日で廃止になった。
-28. 一部時間帯はB231-B233でマルチチャンネルを行う（3チャンネルとも標準画質で放送）。
-29. セットトップボックスでの視聴に限る
-30. [データ放送](../Page/データ放送.md "wikilink")
-31. 地上デジタル放送の111チャンネル（一部の地域では112チャンネル）と同じ内容である。2008年6月までは兵庫・京都の一部地域で行政情報の番組などへの差し替えが行われることがあったが、7月からはほとんどが地上波と共通となったが、2012年7月3日でCSでの配信を終了した。
-32. 2012年10月3日まではC890
-33. 2013年6月20日までC318
-34. 2013年6月21日よりオプションチャンネルからベーシックチャンネルに移行したうえでチャンネルの番号も変更された
-35. 2012年10月3日まではC806
-36. 標準画質契約を継続している場合、スタンダードパックの契約者のみが利用することができる
-37. 2012年10月3日まではC614
-38. 2012年10月3日まではC615
-39.
-40. [2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")の間無料放送キャンペーンを行っていたが、局の都合により同10月1日からの本放送のBSでの配信は断念した。しかし、[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からCS放送（C810）として配信を再開した。
-41. 2014年3月31日で一旦配信終了後（当時の配信はC887）、配信サービスの改定に伴い2016年7月1日より現在のチャンネルに変更の上配信再開
-42. 2012年10月3日まではC220
-43. 2012年10月3日まではC234
-44. 2012年10月3日まではC242
-45. 2011年4月1日実施のNHK衛星放送再編に伴い、3月31日で廃止
-46.
-47.
+5.  当該地域は[ZTV](../Page/ZTV.md "wikilink")のサービスエリア。
+6.  当該地域は[ケーブルネットワークかみなか](../Page/ケーブルネットワークかみなか.md "wikilink")（[若狭町](../Page/若狭町.md "wikilink")営のケーブルテレビ）のサービスエリア。
+7.  2018年以降の[高浜町ケーブルテレビ](../Page/高浜町ケーブルテレビ.md "wikilink")の民営化による。
+8.  兵庫県では、地域によって3または5のいずれかとなる（ほとんどの地域では3に設定されている）。
+9.  近接する京都では、アナログ・デジタル放送共に全く配信されていない（競合する[KCN京都](../Page/KCN京都.md "wikilink")では何れも配信されている）。
+10. 大阪府の一部地域では、技術上の都合で鮮明に受信出来ない場合がある。大阪府の正式な対象地域は、大阪市（[東淀川区](../Page/東淀川区.md "wikilink")・[淀川区](../Page/淀川区.md "wikilink")・[港区](../Page/港区_\(大阪市\).md "wikilink")・[此花区](../Page/此花区.md "wikilink")・[西区](../Page/西区_\(大阪市\).md "wikilink")・[西淀川区](../Page/西淀川区.md "wikilink")・[大正区](../Page/大正区.md "wikilink")・[福島区](../Page/福島区.md "wikilink")・[旭区](../Page/旭区_\(大阪市\).md "wikilink")・[城東区](../Page/城東区.md "wikilink")・[鶴見区](../Page/鶴見区_\(大阪市\).md "wikilink")・[都島区](../Page/都島区.md "wikilink")・[東成区](../Page/東成区.md "wikilink")・[北区](../Page/北区_\(大阪市\).md "wikilink")）・吹田市・摂津市・池田市・豊中市・箕面市・茨木市・高槻市・四條畷市・守口市・大東市・門真市・交野市・寝屋川市・枚方市・三島郡（島本町）・豊能郡（能勢町・豊能町）とされている。
+11. 近接する滋賀では、アンテナ受信が可能であったが配信されていない（競合するほとんどのケーブルテレビ局では何れも配信されている）。
+12.
+13. 兵庫県と京都府では、大阪府に近接するごく一部の地域のみで視聴できる。
+14. 従来はデジタル放送のみで配信されていたが、2008年7月より配信を開始した。一部の時間帯において、行政広報番組などへの差し替えが行われることがある。
+15. 八幡市、宇治市の一部、京田辺市、木津川市、久御山町、精華町
+16. 概ね北河内・北摂・大阪市北部のみ
+17. 三田市・川西市・宝塚市・芦屋市・神戸市（[北区淡河町および](../Page/北区_\(神戸市\).md "wikilink")[西区の一部地域除く](../Page/西区_\(神戸市\).md "wikilink")）・淡路市・伊丹市・尼崎市・西宮市・川辺郡猪名川町
+18. 京都市（右京区旧京北町地域を除く）・京田辺市・長岡京市・宇治市・城陽市・向日市・八幡市・木津川市・乙訓郡大山崎町・久世郡久御山町・綴喜郡（井手町・宇治田原町）・相楽郡（精華町）
+19. 原則としてCS放送の049チャンネルと同じ内容で（一部の時間帯では番組の差し替えが行われることがある）、2008年7月1日よりサービスエリアのほぼ全域で配信されている。ただし、[前述した経緯により](https://ja.wikipedia.org/wiki/#沿革 "wikilink")[枚方市](../Page/枚方市.md "wikilink")・[寝屋川市](https://ja.wikipedia.org/wiki/寝屋川市 "wikilink")・[交野市](../Page/交野市.md "wikilink")ではこの番号で「**K-CAT チャンネル**」という全く別のコミュニティチャンネルが配信されており、「K-CAT eo光チャンネル」は112チャンネルで配信されている。
+20. 2014年3月25-31日までは試験放送（6:00-2:00）とし、4月1日より24時間本放送に移行。枚方市・寝屋川市・交野市を除く
+21. 後述するように、CS放送はスカパー\!からの放送信号を使用して配信しているが、[番組間のCM中などの一時的な無料放送を行っている間であっても](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")[スクランブル信号がかけられる](../Page/スクランブル_\(曖昧さ回避\).md "wikilink")。ただし、BS放送のWOWOWとスターチャンネル ハイビジョンについては例外である。
+22. [変更チャンネル一覧](http://support.eonet.jp/news/tv_20120918.html)
+23. 但し、4・5月におけるTBS系地上波・BS-TBSでの放送がない16試合については、視聴者の円滑な移行ができるようにするための経過処置として、TBSチャンネル2とニュースバードでの並列放送を行っている。[プロ野球中継に関するプレスリリース　CS放送「TBSニュースバード」と「TBSチャンネル2」で4月・5月の横浜DeNAベイスターズ主催16試合を同時完全生中継決定](http://www.tbs.co.jp/newsbird/nb_baseball_release.pdf)TBSテレビ 2014年3月14日。4月27日閲覧
+24. [テレビライフが変わる！「eoオンデマンド」の提供開始について ～eo光テレビに新コースが登場～](http://www.k-opti.com/press/2016/press21.html)
+25. 102chは標準画質放送の予備チャンネル
+26. 104chは標準画質放送の予備チャンネル
+27. 3チャンネルハイビジョン放送の開始は[2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から。
+28.
+29. 2011年9月30日までは地デジ・BSコースでは「スター・チャンネル ハイビジョン」のみ契約可能。月額料金は「スター・チャンネル プレミア3」と同額（税込2,100円/月）だった。2011年10月のBS放送3チャンネルマルチハイビジョン編成の実施に伴い、CS316・317での配信は同年10月31日で廃止になった。
+30. 一部時間帯はB231-B233でマルチチャンネルを行う（3チャンネルとも標準画質で放送）。
+31. セットトップボックスでの視聴に限る
+32. [データ放送](../Page/データ放送.md "wikilink")
+33. 地上デジタル放送の111チャンネル（一部の地域では112チャンネル）と同じ内容である。2008年6月までは兵庫・京都の一部地域で行政情報の番組などへの差し替えが行われることがあったが、7月からはほとんどが地上波と共通となったが、2012年7月3日でCSでの配信を終了した。
+34. 2012年10月3日まではC890
+35. 2013年6月20日までC318
+36. 2013年6月21日よりオプションチャンネルからベーシックチャンネルに移行したうえでチャンネルの番号も変更された
+37. 2012年10月3日まではC806
+38. 標準画質契約を継続している場合、スタンダードパックの契約者のみが利用することができる
+39. 2012年10月3日まではC614
+40. 2012年10月3日まではC615
+41.
+42. [2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")の間無料放送キャンペーンを行っていたが、局の都合により同10月1日からの本放送のBSでの配信は断念した。しかし、[2013年](../Page/2013年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からCS放送（C810）として配信を再開した。
+43. 2014年3月31日で一旦配信終了後（当時の配信はC887）、配信サービスの改定に伴い2016年7月1日より現在のチャンネルに変更の上配信再開
+44. 2012年10月3日まではC220
+45. 2012年10月3日まではC234
+46. 2012年10月3日まではC242
+47. 2011年4月1日実施のNHK衛星放送再編に伴い、3月31日で廃止
 48.
 49.
-50. 2018年9月30日に終了。
-51. [2011年](../Page/2011年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")-[2013年](../Page/2013年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に放送。ケイ・キャット独自製作のものと、外部プロダクション製作の番組の混合編成。原則として平日（祝日含む）は18時から22時、土曜・日曜は9時から22時に配信。それ以外は放送時間の告知画面（2D）を流していた
-52. BSへの移行のため2012年3月31日に終了
-53. 2013年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
-54. 2008年9月30日終了（運営元の経営破たんに伴う）
-55. [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")より配信を開始したが、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に閉局
-56. 2012年3月31日に終了
-57.
-58. 2007年10月31日終了。スカパー\!では「寄席チャンネル」と改めたうえで引き続き配信中
+50.
+51.
+52. 2018年9月30日に終了。
+53. [2011年](../Page/2011年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")-[2013年](../Page/2013年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に放送。ケイ・キャット独自製作のものと、外部プロダクション製作の番組の混合編成。原則として平日（祝日含む）は18時から22時、土曜・日曜は9時から22時に配信。それ以外は放送時間の告知画面（2D）を流していた
+54. BSへの移行のため2012年3月31日に終了
+55. 2013年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
+56. 2008年9月30日終了（運営元の経営破たんに伴う）
+57. [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")より配信を開始したが、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に閉局
+58. 2012年3月31日に終了
 59.
-60.
-61. 2011年3月31日終了
-62. 2011年6月30日にスカパー\!向けの配信終了に合わせて、当チャンネルでの配信も同日終了したが、現在も[BBTV NEXTと一部のケーブルテレビ局向けに配信している](https://ja.wikipedia.org/wiki/ビービー・ケーブル "wikilink")
-63. 2009年[4月30日](../Page/4月30日.md "wikilink")に閉局した。
-64. 2018年9月30日に終了。
-65.
-66. 2014年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
-67. 2012年10月までは標準画質放送（C281）で放送されていた
-68. 深夜以外は150で、深夜は959で放送。いずれも2009年4月30日に配信を終了した。
-69. 2009年3月31日まで配信されていた。スカパー\!では引き続き配信中
-70. 2011年3月31日にケイ・キャットに於けるエラボチャンネルの配信終了による。これにより[ペイ・パー・ビュー](../Page/ペイ・パー・ビュー.md "wikilink")のサービスは受信できなくなった。スカパー\!では引き続き配信中
-71. [ケイ・キャット2011年4月1日リリース](http://www.kcat.jp/information/1196707_5413.html)
-72.
-73.
-74. [ケイキャット「ＣＳ放送４０CHのハイビジョン放送開始とCH番号・名称変更のお知らせ」のリリース](http://www.kcat.jp/information/1201496_5413.html)参照
+60. 2007年10月31日終了。スカパー\!では「寄席チャンネル」と改めたうえで引き続き配信中
+61.
+62.
+63. 2011年3月31日終了
+64. 2011年6月30日にスカパー\!向けの配信終了に合わせて、当チャンネルでの配信も同日終了したが、現在も[BBTV NEXTと一部のケーブルテレビ局向けに配信している](https://ja.wikipedia.org/wiki/ビービー・ケーブル "wikilink")
+65. 2009年[4月30日](../Page/4月30日.md "wikilink")に閉局した。
+66. 2018年9月30日に終了。
+67.
+68. 2014年3月31日終了。スカパー\!、および他の一部ケーブルテレビ局では引き続き配信中
+69. 2012年10月までは標準画質放送（C281）で放送されていた
+70. 深夜以外は150で、深夜は959で放送。いずれも2009年4月30日に配信を終了した。
+71. 2009年3月31日まで配信されていた。スカパー\!では引き続き配信中
+72. 2011年3月31日にケイ・キャットに於けるエラボチャンネルの配信終了による。これにより[ペイ・パー・ビュー](../Page/ペイ・パー・ビュー.md "wikilink")のサービスは受信できなくなった。スカパー\!では引き続き配信中
+73. [ケイ・キャット2011年4月1日リリース](http://www.kcat.jp/information/1196707_5413.html)
+74.
+75.
+76. [ケイキャット「ＣＳ放送４０CHのハイビジョン放送開始とCH番号・名称変更のお知らせ」のリリース](http://www.kcat.jp/information/1201496_5413.html)参照

@@ -1,7 +1,7 @@
 > この記事は[SATURDAY KICK OFF!〜歌ってお出かけベスト30〜](https://ja.wikipedia.org/wiki/SATURDAY_KICK_OFF!〜歌ってお出かけベスト30〜)から翻訳されています。
 
 
-**SATURDAY KICK OFF\!〜歌ってお出かけベスト30〜**（サタデー・キック・オフ\!～うたっておでかけベストサーティー～）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JFN系列の](../Page/全国FM放送協議会.md "wikilink")7局をネットして放送されていた、週末土曜朝の[生放送](../Page/生放送.md "wikilink")のワイド番組である。
+**SATURDAY KICK OFF\!〜歌ってお出かけベスト30〜**（サタデー・キック・オフ\!～うたっておでかけベストサーティー～）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](../Page/キー局.md "wikilink")[JFN系列の](../Page/全国FM放送協議会.md "wikilink")7局をネットして放送されていた、週末土曜朝の[生放送](../Page/生放送.md "wikilink")のワイド番組である。
 
 ## 概要
 

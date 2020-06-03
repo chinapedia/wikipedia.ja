@@ -240,8 +240,8 @@
 
 ## 外部リンク
 
-  - [NHKオンライン](http://www.nhk.or.jp/)
-  - [NHK番組表](http://www.nhk.or.jp/hensei/) - NHK番組の放送内容が確認可能
+  - [NHKオンライン](https://www.nhk.or.jp/)
+  - [NHK番組表](https://www.nhk.or.jp/hensei/) - NHK番組の放送内容が確認可能
 
 [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組の歴史 "wikilink")
 

@@ -336,7 +336,7 @@
 
 ## 外部リンク
 
-  - [TVドラマ公式サイト](http://www.tv-tokyo.co.jp/cafe/)
+  - [TVドラマ公式サイト](https://www.tv-tokyo.co.jp/cafe/)
 
 [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:月刊ウィングス](https://ja.wikipedia.org/wiki/Category:月刊ウィングス "wikilink") [Category:吉祥寺を舞台とした作品](https://ja.wikipedia.org/wiki/Category:吉祥寺を舞台とした作品 "wikilink") [Category:喫茶店を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:喫茶店を舞台とした漫画作品 "wikilink") [Category:2008年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2008年のテレビドラマ "wikilink") [Category:Lドラ](https://ja.wikipedia.org/wiki/Category:Lドラ "wikilink") [Category:国際放映作品](https://ja.wikipedia.org/wiki/Category:国際放映作品 "wikilink") [Category:喫茶店を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:喫茶店を舞台としたテレビドラマ "wikilink") [Category:吉祥寺を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉祥寺を舞台としたテレビドラマ "wikilink")
 

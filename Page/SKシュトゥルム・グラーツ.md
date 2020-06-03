@@ -859,6 +859,8 @@
 
   - [フランク・シルヴェストル](https://ja.wikipedia.org/wiki/フランク・シルヴェストル "wikilink") 2003-2005
 
+  - [フランク・フェルラート](https://ja.wikipedia.org/wiki/フランク・フェルラート "wikilink") 2004-2007
+
   - [ローナルド・ゲルサリウ](https://ja.wikipedia.org/wiki/ローナルド・ゲルサリウ "wikilink") 2004-2005, 2006
 
   - [セバスティアン・プリョードル](../Page/セバスティアン・プリョードル.md "wikilink") 2006-2008
@@ -931,4 +933,4 @@
 
   -
 
-[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:オーストリアの女子サッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアの女子サッカークラブ "wikilink") [Category:グラーツのスポーツ](https://ja.wikipedia.org/wiki/Category:グラーツのスポーツ "wikilink")
+[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:オーストリアの女子サッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアの女子サッカークラブ "wikilink") [Category:グラーツのスポーツ](https://ja.wikipedia.org/wiki/Category:グラーツのスポーツ "wikilink") [Category:1909年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1909年設立のスポーツチーム "wikilink")

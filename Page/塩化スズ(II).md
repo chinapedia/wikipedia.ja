@@ -18,54 +18,54 @@
 塩化スズ(II)は見た目上水に分解することなく溶解するが、溶液を希釈すると加水分解がおこり、白色沈殿の塩基性塩が生成する。この時、次の式の平衡が成立している。
 
   -
-    <ce>SnCl2(aq)\\ + H2O(l)\\ \\leftrightarrows\\ Sn(OH)Cl(s)\\ + HCl(aq)</ce>
+    <chem>SnCl2(aq)\\ + H2O(l)\\ \\leftrightarrows\\ Sn(OH)Cl(s)\\ + HCl(aq)</chem>
 
 [thumbで表したSnCl](https://ja.wikipedia.org/wiki/ファイル:Tin\(II\)-chloride-xtal-1996-3D-balls-front.png "wikilink")<sub>2</sub>の構造\[1\]\]\] ゆえに、透明な塩化スズ(II)の溶液を長時間保持する場合、[ルシャトリエの原理](../Page/ルシャトリエの原理.md "wikilink")より[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")は塩酸とする必要がある。また、塩化スズ(II)は空気に触れることで空気中の酸素と反応して酸化され、次の反応を起こす。
 
   -
-    <ce>6SnCl2(aq)\\ + O2(g)\\ + 2H2O(l) -\> 2SnCl4(aq)\\ + 4Sn(OH)Cl(s)</ce>
+    <chem>6SnCl2(aq)\\ + O2(g)\\ + 2H2O(l) -\> 2SnCl4(aq)\\ + 4Sn(OH)Cl(s)</chem>
 
 スズでできた缶に保存すれば、この反応の進行を抑えることができる\[2\]。
 
 スズは様々な状況で還元剤として用いられる。銀や金のイオンと反応して銀や金の単体を析出させるほか、[鉄(III)イオンを還元して](https://ja.wikipedia.org/wiki/第二鉄 "wikilink")[鉄(II)イオンを生じさせる](https://ja.wikipedia.org/wiki/第一鉄 "wikilink")。
 
   -
-    <ce>SnCl2(aq)\\ + 2FeCl3(aq) -\> SnCl4(aq)\\ + 2FeCl2(aq)</ce>
+    <chem>SnCl2(aq)\\ + 2FeCl3(aq) -\> SnCl4(aq)\\ + 2FeCl2(aq)</chem>
 
 また、塩化スズ(II)の溶液はスズ(II)イオンの沈殿反応にも利用することができる。例えば、[硫化ナトリウム](../Page/硫化ナトリウム.md "wikilink")との反応では、黒色沈殿のが生成する。
 
   -
-    <ce>SnCl2(aq)\\ + Na2S(aq) -\> SnS(s)\\ + 2NaCl(aq)</ce>
+    <chem>SnCl2(aq)\\ + Na2S(aq) -\> SnS(s)\\ + 2NaCl(aq)</chem>
 
 [強塩基](../Page/強塩基.md "wikilink")を塩化スズ(II)の溶液に少量加えた場合、[酸化スズ(II)](https://ja.wikipedia.org/wiki/酸化スズ\(II\) "wikilink")1水和物の白色沈殿が生成する。しかし過剰に加えると、スズは[両性元素](https://ja.wikipedia.org/wiki/両性元素 "wikilink")であるため、トリスヒドロキソスズ(II)酸イオンなどの[錯体](../Page/錯体.md "wikilink")を作って溶ける。
 
   -
-    <ce>SnCl2(aq)\\ + 2NaOH(aq) -\> SnO{\\cdot}H2O(s)\\ + 2NaCl(aq)</ce>
-    <ce>SnO{\\cdot}H2O(s)\\ + NaOH (aq) -\> NaSn(OH)3(aq)</ce>
+    <chem>SnCl2(aq)\\ + 2NaOH(aq) -\> SnO{\\cdot}H2O(s)\\ + 2NaCl(aq)</chem>
+    <chem>SnO{\\cdot}H2O(s)\\ + NaOH (aq) -\> NaSn(OH)3(aq)</chem>
 
 無水塩化スズ(II)は水以外の溶媒中において、様々な化合物に変化する。例えば、[ジブチルヒドロキシトルエン](https://ja.wikipedia.org/wiki/ジブチルヒドロキシトルエン "wikilink")と塩化スズ(II)を[テトラヒドロフラン](../Page/テトラヒドロフラン.md "wikilink")（THF）中で反応させると、2分子が[配位結合](../Page/配位結合.md "wikilink")した黄色い直線状の分子Sn(O[Ar](https://ja.wikipedia.org/wiki/アリール基 "wikilink"))<sub>2</sub>ができる\[3\]。
 
 塩化スズ(II)はとしても働き、[塩化物](../Page/塩化物.md "wikilink")イオンなどを[配位子](https://ja.wikipedia.org/wiki/配位子 "wikilink")として錯体を形成する。
 
   -
-    <ce>SnCl2(aq)\\ + CsCl(aq) -\> CsSnCl3(aq)</ce>
+    <chem>SnCl2(aq)\\ + CsCl(aq) -\> CsSnCl3(aq)</chem>
 
 これらの錯体のうち多くは[三角錐形](https://ja.wikipedia.org/wiki/三角錐形 "wikilink")である。またトリクロロスズ(II)酸イオン（\[SnCl3\]<sup>-</sup>)などの錯体は[オクテット則](../Page/オクテット則.md "wikilink")を満たすため安定であり、これらの錯体に配位子が増えることは少ない。よって、これらの錯体の[孤立電子対](https://ja.wikipedia.org/wiki/孤立電子対 "wikilink")は結合に使われる。ゆえに、これらの錯体は[ルイス塩基](https://ja.wikipedia.org/wiki/ルイス塩基 "wikilink")や配位子として働く。これは[フェロセン](https://ja.wikipedia.org/wiki/フェロセン "wikilink")の関連物質との反応において見られる現象である。
 
   -
-    <ce>SnCl2\\ + Fe(\\eta^5-C5H5)(CO)2HgCl -\> Fe(\\eta^5-C5H5)(CO)2SnCl3\\ + Hg</ce>
+    <chem>SnCl2\\ + Fe(\\eta^5-C5H5)(CO)2HgCl -\> Fe(\\eta^5-C5H5)(CO)2SnCl3\\ + Hg</chem>
 
 また、塩化スズ(II)は金属同士の間に結合を作る反応にも用いられる。例えば、[オクタカルボニル二コバルト](../Page/オクタカルボニル二コバルト.md "wikilink")とは以下のように反応する。
 
   -
-    <ce>SnCl2\\ + Co2(CO)8 -\> (CO)4Co-(SnCl2)-Co(CO)4</ce>
+    <chem>SnCl2\\ + Co2(CO)8 -\> (CO)4Co-(SnCl2)-Co(CO)4</chem>
 
 ## 調製
 
 無水塩化スズ(II)は金属スズに乾燥した[塩化水素](../Page/塩化水素.md "wikilink")を吹き付けて得られる。同様に塩化スズ(II)2水和物は、スズを[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")に溶かし、できた溶液の水を蒸発させれば得られる。
 
   -
-    <ce>Sn(s)\\ + 2HCl(aq) -\> SnCl2(aq)\\ + H2(g)</ce>
+    <chem>Sn(s)\\ + 2HCl(aq) -\> SnCl2(aq)\\ + H2(g)</chem>
 
 2水和物に[無水酢酸](../Page/無水酢酸.md "wikilink")を加えると、無水物が生成する\[4\]。
 
@@ -78,7 +78,7 @@
 塩化スズ(II)には[還元剤](../Page/還元剤.md "wikilink")として多くの用途がある。[銀鏡反応](../Page/銀鏡反応.md "wikilink")にも用いられる。
 
   -
-    <ce>Sn^{2+}(aq)\\ + 2Ag^+ -\> Sn^{4+}(aq)\\ + 2Ag(s)</ce>
+    <chem>Sn^{2+}(aq)\\ + 2Ag^+ -\> Sn^{4+}(aq)\\ + 2Ag(s)</chem>
 
 同様の還元反応が[Hg<sup>2+</sup>の検出にも用いられる](../Page/水銀.md "wikilink")。塩化スズ(II)の溶液を[塩化水銀(II)](../Page/塩化水銀\(II\).md "wikilink")の溶液に少量たらすと、[塩化水銀(I)](../Page/塩化水銀\(I\).md "wikilink")の白色沈殿が生成する。さらに塩化スズ(II)を加えていくと、金属の水銀が生成し、溶液が黒くなる。また、塩化スズ(II)は[金](../Page/金.md "wikilink")の存在下でを生成し、紫色となるため、金の検出にも使われる。また、同様に水溶液中の[白金族元素](https://ja.wikipedia.org/wiki/白金族元素 "wikilink")の検出にも用いられる\[5\]。
 

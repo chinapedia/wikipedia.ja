@@ -744,36 +744,36 @@
 
 ## 放送局
 
-| 地域                                                                                   | 放送局                                                     | 放送日時            | 放送日の遅れ  |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------- | --------------- | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                                                  | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")                 | 水曜24:50 - 25:20 | **制作局** |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")                  | 同時ネット           |         |
-| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")                                  | [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")   |                 |         |
-| [秋田県](../Page/秋田県.md "wikilink")                                                     | [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")   |                 |         |
-| [山形県](../Page/山形県.md "wikilink")                                                     | [山形放送](../Page/山形放送.md "wikilink")                      |                 |         |
-| [福島県](../Page/福島県.md "wikilink")                                                     | [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")                |                 |         |
-| [新潟県](../Page/新潟県.md "wikilink")                                                     | [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")                 |                 |         |
-| [静岡県](../Page/静岡県.md "wikilink")                                                     | [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")                |                 |         |
-| [中京広域圏](../Page/広域放送.md "wikilink")                                                  | [中京テレビ](../Page/中京テレビ放送.md "wikilink")                  |                 |         |
-| [広島県](../Page/広島県.md "wikilink")                                                     | [広島テレビ](../Page/広島テレビ放送.md "wikilink")                  |                 |         |
-| [山口県](../Page/山口県.md "wikilink")                                                     | [山口放送](../Page/山口放送.md "wikilink")                      |                 |         |
-| [福岡県](../Page/福岡県.md "wikilink")                                                     | [福岡放送](../Page/福岡放送.md "wikilink")                      |                 |         |
-| [長崎県](../Page/長崎県.md "wikilink")                                                     | [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")                |                 |         |
-| [鹿児島県](../Page/鹿児島県.md "wikilink")                                                   | [鹿児島讀賣テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")              |                 |         |
-| [岩手県](../Page/岩手県.md "wikilink")                                                     | [テレビ岩手](../Page/テレビ岩手.md "wikilink")                    | 木曜24:20 - 24:50 | 22日遅れ   |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")                 | 水曜24:20 - 24:50 | 14日遅れ   |
-| [山梨県](../Page/山梨県.md "wikilink")                                                     | [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")   | 木曜24:20 - 24:50 | 8日遅れ    |
-| [長野県](../Page/長野県.md "wikilink")                                                     | [テレビ信州](../Page/テレビ信州.md "wikilink")                    | 月曜24:50 - 25:20 | 12日遅れ   |
-| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") | 金曜25:50 - 26:20 | 23日遅れ   |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [テレビ金沢](../Page/テレビ金沢.md "wikilink")                    | 日曜25:30 - 26:00 | 11日遅れ   |
-| [福井県](../Page/福井県.md "wikilink")                                                     | [福井放送](../Page/福井放送.md "wikilink")                      | 木曜24:50 - 25:20 | 15日遅れ   |
-| [近畿広域圏](../Page/広域放送.md "wikilink")                                                  | [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")                | 木曜24:50 - 25:20 | 8日遅れ    |
-| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")                    | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")             | 日曜10:55 - 11:25 | 151日遅れ  |
-| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")                                  | [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")   | 火曜24:20 - 24:50 | 13日遅れ   |
-| [香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [西日本放送](../Page/西日本放送.md "wikilink")                    | 木曜24:55 - 25:25 | 64日遅れ   |
-| [高知県](../Page/高知県.md "wikilink")                                                     | [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")   | 土曜25:50 - 26:20 | 24日遅れ   |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")                | 水曜24:20 - 24:50 | 14日遅れ   |
-| [大分県](../Page/大分県.md "wikilink")                                                     | [大分放送](../Page/大分放送.md "wikilink")                      | 月曜24:55 - 25:25 | 12日遅れ   |
+| 地域                                                                                   | 放送局                                                   | 放送日時            | 放送日の遅れ  |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------- | --------------- | ------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                                                  | [日本テレビ](../Page/日本テレビ放送網.md "wikilink")               | 水曜24:50 - 25:20 | **制作局** |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")                | 同時ネット           |         |
+| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")                                  | [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") |                 |         |
+| [秋田県](../Page/秋田県.md "wikilink")                                                     | [秋田放送](../Page/秋田放送.md "wikilink")                    |                 |         |
+| [山形県](../Page/山形県.md "wikilink")                                                     | [山形放送](../Page/山形放送.md "wikilink")                    |                 |         |
+| [福島県](../Page/福島県.md "wikilink")                                                     | [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")              |                 |         |
+| [新潟県](../Page/新潟県.md "wikilink")                                                     | [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")               |                 |         |
+| [静岡県](../Page/静岡県.md "wikilink")                                                     | [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")              |                 |         |
+| [中京広域圏](../Page/広域放送.md "wikilink")                                                  | [中京テレビ](../Page/中京テレビ放送.md "wikilink")                |                 |         |
+| [広島県](../Page/広島県.md "wikilink")                                                     | [広島テレビ](../Page/広島テレビ放送.md "wikilink")                |                 |         |
+| [山口県](../Page/山口県.md "wikilink")                                                     | [山口放送](../Page/山口放送.md "wikilink")                    |                 |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [福岡放送](../Page/福岡放送.md "wikilink")                    |                 |         |
+| [長崎県](../Page/長崎県.md "wikilink")                                                     | [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")              |                 |         |
+| [鹿児島県](../Page/鹿児島県.md "wikilink")                                                   | [鹿児島讀賣テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")            |                 |         |
+| [岩手県](../Page/岩手県.md "wikilink")                                                     | [テレビ岩手](../Page/テレビ岩手.md "wikilink")                  | 木曜24:20 - 24:50 | 22日遅れ   |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")                                  | [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")               | 水曜24:20 - 24:50 | 14日遅れ   |
+| [山梨県](../Page/山梨県.md "wikilink")                                                     | [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") | 木曜24:20 - 24:50 | 8日遅れ    |
+| [長野県](../Page/長野県.md "wikilink")                                                     | [テレビ信州](../Page/テレビ信州.md "wikilink")                  | 月曜24:50 - 25:20 | 12日遅れ   |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [北日本放送](../Page/北日本放送.md "wikilink")                  | 金曜25:50 - 26:20 | 23日遅れ   |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [テレビ金沢](../Page/テレビ金沢.md "wikilink")                  | 日曜25:30 - 26:00 | 11日遅れ   |
+| [福井県](../Page/福井県.md "wikilink")                                                     | [福井放送](../Page/福井放送.md "wikilink")                    | 木曜24:50 - 25:20 | 15日遅れ   |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                                                  | [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")              | 木曜24:50 - 25:20 | 8日遅れ    |
+| [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")                    | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")           | 日曜10:55 - 11:25 | 151日遅れ  |
+| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")                                  | [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") | 火曜24:20 - 24:50 | 13日遅れ   |
+| [香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink") | [西日本放送](../Page/西日本放送.md "wikilink")                  | 木曜24:55 - 25:25 | 64日遅れ   |
+| [高知県](../Page/高知県.md "wikilink")                                                     | [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") | 土曜25:50 - 26:20 | 24日遅れ   |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")              | 水曜24:20 - 24:50 | 14日遅れ   |
+| [大分県](../Page/大分県.md "wikilink")                                                     | [大分放送](../Page/大分放送.md "wikilink")                    | 月曜24:55 - 25:25 | 12日遅れ   |
 
 ### DVD
 

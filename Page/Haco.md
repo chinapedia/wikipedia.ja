@@ -27,7 +27,7 @@ Hacoのキャリアは、[1981年](../Page/1981年.md "wikilink")に活動を開
       - [成田忍](https://ja.wikipedia.org/wiki/成田忍 "wikilink")
       - [小西健司](https://ja.wikipedia.org/wiki/小西健司 "wikilink")
       - [泉陸奥彦](../Page/泉陸奥彦.md "wikilink")
-      - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")
+      - [平沢進](../Page/平沢進.md "wikilink")
       - [フレッド・フリス](https://ja.wikipedia.org/wiki/フレッド・フリス "wikilink")
   - [京都大学西部講堂](../Page/京都大学西部講堂.md "wikilink")
   - [扇町ミュージアムスクエア](https://ja.wikipedia.org/wiki/扇町ミュージアムスクエア "wikilink")

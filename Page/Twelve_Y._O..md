@@ -238,7 +238,7 @@
 
 ## 出典
 
-[Category:福井晴敏の小説](https://ja.wikipedia.org/wiki/Category:福井晴敏の小説 "wikilink") [Category:1998年の小説](https://ja.wikipedia.org/wiki/Category:1998年の小説 "wikilink") [Category:自衛隊作品](https://ja.wikipedia.org/wiki/Category:自衛隊作品 "wikilink") [Category:架空戦記](https://ja.wikipedia.org/wiki/Category:架空戦記 "wikilink") [Category:江戸川乱歩賞](https://ja.wikipedia.org/wiki/Category:江戸川乱歩賞 "wikilink") [Category:沖縄県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:沖縄県を舞台とした作品 "wikilink") [Category:テロリズムを題材にした小説](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした小説 "wikilink")
+[Category:福井晴敏の小説](https://ja.wikipedia.org/wiki/Category:福井晴敏の小説 "wikilink") [Category:1998年の小説](https://ja.wikipedia.org/wiki/Category:1998年の小説 "wikilink") [Category:自衛隊作品](https://ja.wikipedia.org/wiki/Category:自衛隊作品 "wikilink") [Category:架空戦記](https://ja.wikipedia.org/wiki/Category:架空戦記 "wikilink") [Category:江戸川乱歩賞](https://ja.wikipedia.org/wiki/Category:江戸川乱歩賞 "wikilink") [Category:沖縄県を舞台とした小説](https://ja.wikipedia.org/wiki/Category:沖縄県を舞台とした小説 "wikilink") [Category:テロリズムを題材にした小説](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした小説 "wikilink")
 
 1.  [既刊](http://www.fukuiharutoshi.jp/works/works2.html) - 福井晴敏オフィシャルサイト
 2.  小説版のみ。映画版とコミックスでは「Fユニット」といった部隊名が用いられている。

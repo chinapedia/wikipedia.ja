@@ -17,25 +17,25 @@
 [塩化鉄(II)](../Page/塩化鉄\(II\).md "wikilink")と[塩素](../Page/塩素.md "wikilink")の反応で生成される。
 
   -
-    <ce>2FeCl2\\ + Cl2 -\> 2FeCl3</ce>
+    <chem>2FeCl2\\ + Cl2 -\> 2FeCl3</chem>
 
 または、[塩化鉄(II)](../Page/塩化鉄\(II\).md "wikilink")・[二酸化硫黄](../Page/二酸化硫黄.md "wikilink")・[塩化水素](../Page/塩化水素.md "wikilink")の反応で生成される。
 
   -
-    <ce>32FeCl2\\ + 8SO2\\ + 32HCl -\> 32FeCl3\\ + S8\\ + 16H2O</ce>
+    <chem>32FeCl2\\ + 8SO2\\ + 32HCl -\> 32FeCl3\\ + S8\\ + 16H2O</chem>
 
 ## 反応
 
 塩化鉄(III)と[酸化鉄(III)](../Page/酸化鉄\(III\).md "wikilink")を約350℃まで加熱すると[オキシ塩化鉄](https://ja.wikipedia.org/wiki/オキシ塩化鉄 "wikilink")になる。
 
   -
-    <ce>FeCl3 + Fe2O3 -\> 3FeOCl</ce>
+    <chem>FeCl3 + Fe2O3 -\> 3FeOCl</chem>
 
 3価の鉄イオンが銅から電子を受け取り2価になり、銅は銅イオンになる。塩化鉄(III)は塩化鉄(II)になる。このプロセスをエッチングに利用する。
 
   -
-    <ce>FeCl3 + Cu -\> FeCl2 + CuCl</ce>
-    <ce>FeCl3 + CuCl -\> FeCl2 + CuCl2</ce>
+    <chem>FeCl3 + Cu -\> FeCl2 + CuCl</chem>
+    <chem>FeCl3 + CuCl -\> FeCl2 + CuCl2</chem>
 
 ## 出典
 

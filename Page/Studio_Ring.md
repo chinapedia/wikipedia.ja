@@ -28,6 +28,7 @@
 
 ## 外部リンク
 
-  - [Studio Ring 公式サイト](http://studio-ring.product.co.jp/)（リンク切れ）
+  - [Studio Ring 公式サイト](https://web.archive.org/web/20190825212551/http://studio-ring.product.co.jp/)（2019年8月25日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
+  -
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")

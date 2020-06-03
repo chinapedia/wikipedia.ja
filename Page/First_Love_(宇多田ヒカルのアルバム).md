@@ -164,6 +164,13 @@ SIDE 1,2とSIDE 3,4との2枚組。SIDE 4の2曲目には、CDシングル「Fir
 
 ### 出典
 
+## 外部リンク
+
+  - [作品紹介ページ First Love](http://www.utadahikaru.jp/music/album/title_1.html)
+  - [作品紹介ページ First Love (Analog Album)](http://www.utadahikaru.jp/music/album/title_2.html)
+  - [作品紹介ページ First Love -15th Anniversary Deluxe Edition-](http://www.utadahikaru.jp/music/album/title_13.html)
+  - [作品紹介ページ First Love -15th Anniversary Edition-](http://www.utadahikaru.jp/music/album/title_14.html)
+
 [Category:宇多田ヒカルのアルバム](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルのアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink") [Category:オリコン年間アルバムチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位作品 "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.

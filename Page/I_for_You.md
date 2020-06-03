@@ -9,8 +9,6 @@
 
 また、このシングルの製作中に[hide](https://ja.wikipedia.org/wiki/hide "wikilink")が他界し、メンバーはお通夜・葬式とスタジオを行き来した日々だった、と語っている。
 
-アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## 収録曲
 
 全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")

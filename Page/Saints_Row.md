@@ -351,7 +351,7 @@
     声 - テレンス・カーソン
     Kingのボディ・ガード。
   - Tanya Winters
-    声 - [ミラ・クニス](https://ja.wikipedia.org/wiki/ミラ・クニス "wikilink")
+    声 - [ミラ・クニス](../Page/ミラ・クニス.md "wikilink")
     Vice Kingsの売春事業の元締め。
 
 ### ウエスト・サイド・ローラーズ

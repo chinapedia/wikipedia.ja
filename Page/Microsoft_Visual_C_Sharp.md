@@ -21,7 +21,7 @@ Visual C\#は多数の開発プロジェクト形式に対応している。Visu
   - [Windowsストア](https://ja.wikipedia.org/wiki/Windowsストア "wikilink")アプリ（[Windows 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_8.1 "wikilink")/[Windows RT 8.1](https://ja.wikipedia.org/wiki/Microsoft_Windows_RT_8.1 "wikilink") 向けもしくは[UWPアプリ](https://ja.wikipedia.org/wiki/ユニバーサルWindowsプラットフォーム "wikilink")）
   - [ASP.NET](../Page/ASP.NET.md "wikilink") [Webアプリケーション](https://ja.wikipedia.org/wiki/Webアプリケーション "wikilink")
   - [Silverlightアプリケーション](../Page/Microsoft_Silverlight.md "wikilink")
-  - [WCFサービスアプリケーション](https://ja.wikipedia.org/wiki/Windows_Communication_Foundation "wikilink")
+  - [WCFサービスアプリケーション](../Page/Windows_Communication_Foundation.md "wikilink")
   - [Microsoft Officeアドイン](../Page/Microsoft_Office.md "wikilink")
   - [Azureモバイルサービス](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")
   - [Android](../Page/Android.md "wikilink")/[iOS向けアプリケーション](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")

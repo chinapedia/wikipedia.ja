@@ -125,9 +125,9 @@ consumer.setMessageListener(new MessageListener() {
 
   - \- [OW2 Consortium](../Page/OW2_Consortium.md "wikilink")
 
-  - [OpenMQ](https://ja.wikipedia.org/wiki/OpenMQ "wikilink") - [オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）
+  - [OpenMQ](https://ja.wikipedia.org/wiki/OpenMQ "wikilink") - [オラクル](../Page/オラクル_\(企業\).md "wikilink")（[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）
 
-  - ,  - [オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")
+  - ,  - [オラクル](../Page/オラクル_\(企業\).md "wikilink")
 
   - [RabbitMQ](https://ja.wikipedia.org/wiki/RabbitMQ "wikilink") - [AMQPを使用](https://ja.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol "wikilink")
 

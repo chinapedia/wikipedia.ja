@@ -40,6 +40,6 @@ AQLの元となったのは[アメリカ合衆国](https://ja.wikipedia.org/wiki
   - [Sampling plans for attribute data, Military Standard 105E, SQC (Statistical Quality Control) Online](http://www.sqconline.com/)、[英文サイト](../Page/英語.md "wikilink")
   - [Choosing a Sampling Plan: MIL Standard 105D](http://www.itl.nist.gov/div898/handbook/pmc/section2/pmc231.htm)、[英文サイト](../Page/英語.md "wikilink")
 
-[Category:品質管理](https://ja.wikipedia.org/wiki/Category:品質管理 "wikilink") [Category:信頼性工学](https://ja.wikipedia.org/wiki/Category:信頼性工学 "wikilink") [Category:製造](https://ja.wikipedia.org/wiki/Category:製造 "wikilink")
+[Category:統計的プロセス制御](https://ja.wikipedia.org/wiki/Category:統計的プロセス制御 "wikilink") [Category:品質管理](https://ja.wikipedia.org/wiki/Category:品質管理 "wikilink") [Category:信頼性工学](https://ja.wikipedia.org/wiki/Category:信頼性工学 "wikilink") [Category:製造](https://ja.wikipedia.org/wiki/Category:製造 "wikilink")
 
 1.  日本や[MIL-STD-105では一般に](https://ja.wikipedia.org/wiki/:en:MIL-STD-105 "wikilink") AQL は Acceptable Quality Level の[頭字語](../Page/頭字語.md "wikilink")とされるが、[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink") など日本以外では[規格番号 ISO 2859](http://www.webstore.jsa.or.jp/webstore/Com/FlowControl.jsp?bunsyoId=ISO+2859-1%3A1999&dantaiCd=ISO&status=1&pageNo=0&lang=jp)、[日本規格協会](../Page/日本規格協会.md "wikilink")や[ISO 2859-1:2002](https://www.iso.org/standard/36164.html)、ISO のウェブページに示されるとおり acceptance quality limit (AQL) とされる。

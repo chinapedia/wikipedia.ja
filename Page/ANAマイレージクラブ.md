@@ -23,18 +23,40 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AMC-Card.jpg "wikilink")[7月3日](../Page/7月3日.md "wikilink")まで発行されたANAマイレージクラブカード（スターアライアンス加盟前に発行された最初期のデザイン）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:AMC_mileage_card.jpg "wikilink")
 
-  - ANAマイレージクラブカード
-    1997年4月の現サービス開始から2003年3月にかけて発行された[クレジットカードサイズの会員証で](https://ja.wikipedia.org/wiki/ISO/IEC_7810 "wikilink")、[磁気ストライプ](https://ja.wikipedia.org/wiki/磁気ストライプ "wikilink")のみ搭載されている。
+  - ANAマイレージクラブカード（1997年～2003年?）
+    1997年4月の現サービス開始から2003年3月?にかけて発行された[クレジットカードサイズの会員証で](https://ja.wikipedia.org/wiki/ISO/IEC_7810 "wikilink")、[磁気ストライプ](https://ja.wikipedia.org/wiki/磁気ストライプ "wikilink")のみ搭載されている。
     航空券の予約時に会員番号をあらかじめ登録しておけば、Webサイトおよび発券端末から航空券と紐付けされた予約情報の照会や、自動チェックイン機にカードを通すことで搭乗券の発券（ピックアップ）が可能である（他の航空会社のカードも同等）。
     このカード**単体**ではSkipサービスの利用は出来ない（自動チェックイン機で発行するeチケットお客様控えのQRコードを利用するか、モバイルAMCアプリなどFelica媒体を使用する手段がある）。
       -
         1999年中盤までに発行されたカードにはカード表面左上に【All Nippon Airways】、右下に【ANA/全日空】の表記があり、同年後半の[スターアライアンス](../Page/スターアライアンス.md "wikilink")加盟後はカード右上に[スターアライアンス](../Page/スターアライアンス.md "wikilink")のマークが付けられている。
         会員からの申し出がなければANAマイレージクラブEdyカードへの切り替えは行われない。
+
+<!-- end list -->
+
+  - ANAマイレージクラブカード（2017年～現在）
+
+      -
         [2017年](../Page/2017年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")発行受け付け分からは、縦長のもので、磁気ストライプに代わって、表面中央に[QRコード](../Page/QRコード.md "wikilink")が配置された新様式のカードとなり、同時にカードの材質も、プラスチックから再生PET材に変更された（再発行分を含む）。素材変更後は、上記のQRコードを読み取らせることにより[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")対応となった。
-  - ANAマイレージクラブEdyカード
-    FeliCaが内蔵され、電子マネー「Edy」（発行会社は[ソニーファイナンスインターナショナル](../Page/ソニーファイナンスインターナショナル.md "wikilink")だった。現在は[楽天Edyに継承されている](../Page/楽天Edy_\(企業\).md "wikilink")）が標準搭載されている。FeliCaは[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")・旧スマートeピックアップの認証用途としての機能もあわせ持つ。カード発行手数料（500円）がかかるが、無料キャンペーンが頻繁に実施されていた。[2017年](../Page/2017年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")受付分を以て発行停止となり、以降は障害や紛失等の理由で再発行が必要な場合であっても、楽天Edyが付かない、上記新様式の「ANAマイレージクラブカード」が発行される。その場合の[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")の利用も、[QRコード](../Page/QRコード.md "wikilink")など、他の手段で行うことになる。
+
+<!-- end list -->
+
+  - ANAマイレージクラブEdyカード（2003年6月1日～2017年7月3日）
+
+      -
+        FeliCaが内蔵され、電子マネー「Edy」（発行会社は[ソニーファイナンスインターナショナル](../Page/ソニーファイナンスインターナショナル.md "wikilink")だった。現在は[楽天Edyに継承されている](../Page/楽天Edy_\(企業\).md "wikilink")）が標準搭載されている。FeliCaは[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")・旧スマートeピックアップの認証用途としての機能もあわせ持つ。カード発行手数料（500円）がかかるが、無料キャンペーンが頻繁に実施されていた。
+        [2017年](../Page/2017年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")受付分を以て発行停止となり、以降は障害や紛失等の理由で再発行が必要な場合であっても、楽天Edyが付かない、上記新様式の「ANAマイレージクラブカード」が発行される。その場合の[Skipサービス](https://ja.wikipedia.org/wiki/Skipサービス "wikilink")の利用も、[QRコード](../Page/QRコード.md "wikilink")など、他の手段で行うことになる。
 
 ### キャッシュカード一体型
+
+  - ANAマイレージクラブ/Sony Bank WALLET
+    [2019年](../Page/2019年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に発行された、[VISAデビットカード](https://ja.wikipedia.org/wiki/VISAデビットカード "wikilink")一体型の[ソニー銀行](../Page/ソニー銀行.md "wikilink")キャッシュカードにAMC会員カードを一体化したもの（AMCが入っていない[VISAデビット](https://ja.wikipedia.org/wiki/VISAデビット "wikilink")も発行可能）。[ICキャッシュカード](https://ja.wikipedia.org/wiki/ICキャッシュカード "wikilink")には非対応（ATM利用時は、逆方向から挿入する）。
+
+<!-- end list -->
+
+  - ANAマイレージクラブ GLOBAL PASS
+    [2019年](../Page/2019年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に発行された、[VISAデビットカード](https://ja.wikipedia.org/wiki/VISAデビットカード "wikilink")一体型の[SMBC信託銀行](https://ja.wikipedia.org/wiki/SMBC信託銀行 "wikilink")キャッシュカードにAMC会員カードを一体化したもの（AMCが入っていない[VISAデビット](https://ja.wikipedia.org/wiki/VISAデビット "wikilink")も発行可能）。[ICキャッシュカード](https://ja.wikipedia.org/wiki/ICキャッシュカード "wikilink")に対応している。
+
+<!-- end list -->
 
   - ANAマイレージクラブ Financial Passカード
     [スルガ銀行](../Page/スルガ銀行.md "wikilink")ANA支店の[キャッシュカード](../Page/キャッシュカード.md "wikilink")一体型カード。以前は、Edy内蔵で、スキップサービス対応となっていたが、現在は、専用デザインの[SURUGA VISAデビットカードとなっている](../Page/SURUGA_VISAデビットカード.md "wikilink")([楽天Edy](../Page/楽天Edy.md "wikilink")は利用不可、旧カード時代は、VISAデビットは無料オプションで、AMC付のキャッシュカード本体とは別途のデビット機能専用カードが発行された)。既存の会員がANA支店に口座開設する場合、クレジット一体型のカードをすでに保有している場合を除き、会員番号が変更される（ただし、保有マイルは新会員番号へそのまま移行される）。
@@ -69,15 +91,21 @@
   -
     全日本空輸と各クレジットカード会社との[提携カード](../Page/提携カード.md "wikilink")。ANAマイレージクラブEdyカードと同機能のものにクレジットカード機能が付いたものであるが、基本的なサービスとして、カードショッピングで付与されるポイントをAMCマイルに移行積算が可能なサービス、ANA便搭乗時のフライトマイルにカードグレードに応じたボーナスマイルの加算、同一生計内の親族のAMC口座残高を合算・共有して利用する事ができる「ANAカード ファミリーマイル」の提供がある。提携会社によって、多様なクレジットブランドが発行されている。**マイレージクラブに入会しなくても、カード申し込みにより自動入会となる。**
 
-### VISAプリペイド一体型
+### ブランドプリペイド一体型
 
-  - ANAプリペイドカード
-    [三井住友カード](../Page/三井住友カード.md "wikilink")が発行するVISAプリペイド一体型のカード。申し込みはwebから(webからの本人確認書類のアップロードが必要)となり、受け取りは本人限定受取郵便で行う。
+#### VISAプリペイド一体型
 
-### JCBプリペイド一体型
+  - ANA VISAプリペイドカード
+    [三井住友カード](../Page/三井住友カード.md "wikilink")が発行するVISAプリペイド一体型のカード。申し込みはwebから(webからの[本人確認書類](https://ja.wikipedia.org/wiki/本人確認書類 "wikilink")のアップロードが必要)となり、受取は[本人限定受取郵便](https://ja.wikipedia.org/wiki/本人限定受取郵便 "wikilink")で行う。機能としては、以下の2種類から選択可能。
 
-  - ANAプリペイドカード
-    [ジェーシービー](../Page/ジェーシービー.md "wikilink")が発行するJCBプリペイド一体型のカード。申し込みはwebから(webからの本人確認書類のアップロードが必要)となり、受け取りは本人限定受取郵便で行う。
+:\* ANA VISAプリペイドカード＜オールチャージ型＞
+
+:\* ANA VISAプリペイドカード＜チャージ限定型＞
+
+#### JCBプリペイド一体型
+
+  - ANA JCBプリペイドカード
+    [ジェーシービー](../Page/ジェーシービー.md "wikilink")が発行するJCBプリペイド一体型のカード。申し込みはwebから(webからの[本人確認書類](https://ja.wikipedia.org/wiki/本人確認書類 "wikilink")のアップロードが必要)となり、受取は[本人限定受取郵便](https://ja.wikipedia.org/wiki/本人限定受取郵便 "wikilink")で行う。
 
 ### その他
 
@@ -164,6 +192,8 @@ ANAグループおよび[スターアライアンス](../Page/スターアライ
   - [マイル修行](../Page/マイル修行.md "wikilink")
   - [マイレージサービス](../Page/マイレージサービス.md "wikilink") - [マイレージサービス一覧](https://ja.wikipedia.org/wiki/マイレージサービス一覧 "wikilink")
   - [はやかけん](https://ja.wikipedia.org/wiki/はやかけん "wikilink") - AMC会員限定で発行可能な記名式カードがある。
+  - [JALマイレージバンク](../Page/JALマイレージバンク.md "wikilink")
+      - [JASマイレッジサービス](https://ja.wikipedia.org/wiki/JASマイレッジサービス "wikilink")
 
 ## 外部リンク
 

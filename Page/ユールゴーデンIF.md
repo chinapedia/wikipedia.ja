@@ -189,7 +189,7 @@
 <td><p>1975-76</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1975-76" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レクサムFC" title="wikilink">レクサム</a></p></td>
+<td><p><a href="../Page/レクサムFC.md" title="wikilink">レクサム</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-3</p></td>

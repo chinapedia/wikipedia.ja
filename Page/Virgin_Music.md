@@ -35,7 +35,7 @@
   - [KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")
   - [YOSHI](https://ja.wikipedia.org/wiki/Yoshi226 "wikilink")
   - [横浜流星](https://ja.wikipedia.org/wiki/横浜流星 "wikilink")
-  - [TOMORROW X TOGETHER](https://ja.wikipedia.org/wiki/TXT_\(音楽グループ\) "wikilink")
+  - [TOMORROW X TOGETHER](https://ja.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")
   - [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")
   - [CYBERJAPAN DANCERS](https://ja.wikipedia.org/wiki/CYBER_JAPAN_DANCERS "wikilink")
   - [そらる](https://ja.wikipedia.org/wiki/そらる "wikilink")

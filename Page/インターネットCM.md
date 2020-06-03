@@ -22,7 +22,7 @@
 
 ## インターネットCMの種類
 
-映像と音声を利用してリッチメディアの延長としてサイトを運営している代表的な媒体として[CMサイト](https://ja.wikipedia.org/wiki/CMサイト "wikilink")、次にテレビ[CMのように番組の途中に時間軸で展開される代表的な媒体として](../Page/コマーシャルメッセージ.md "wikilink")[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、[TVBank](https://ja.wikipedia.org/wiki/TVBank "wikilink")がある。特殊なケースでは、[アフィリエイトのようにサイト運営者のサイトにCMを配信し展開される代表的な媒体として](../Page/成功報酬型広告.md "wikilink")[Google AdSense](https://ja.wikipedia.org/wiki/Google_AdSense "wikilink")、[a-walk](https://a-walk.cm)などがある。
+映像と音声を利用してリッチメディアの延長としてサイトを運営している代表的な媒体として[CMサイト](https://ja.wikipedia.org/wiki/CMサイト "wikilink")、次にテレビ[CMのように番組の途中に時間軸で展開される代表的な媒体として](../Page/コマーシャルメッセージ.md "wikilink")[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、[TVBank](https://ja.wikipedia.org/wiki/TVBank "wikilink")がある。特殊なケースでは、[アフィリエイトのようにサイト運営者のサイトにCMを配信し展開される代表的な媒体として](../Page/成功報酬型広告.md "wikilink")[Google AdSense](../Page/Google_AdSense.md "wikilink")、[a-walk](https://a-walk.cm)などがある。
 
 ## インターネットCMの利点
 

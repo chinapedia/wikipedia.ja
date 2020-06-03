@@ -13,7 +13,7 @@
 
   - [粘膜逸脱症候群](https://ja.wikipedia.org/wiki/粘膜逸脱症候群 "wikilink") (mucosal prolapse syndrome)
 
-  - [ペルオキシ一硫酸カリウム](https://ja.wikipedia.org/wiki/ペルオキシ一硫酸カリウム "wikilink") (potassium monopersulfate)
+  - [ペルオキシ一硫酸カリウム](../Page/ペルオキシ一硫酸カリウム.md "wikilink") (potassium monopersulfate)
 
   - [メートル毎秒](../Page/メートル毎秒.md "wikilink") (metre per second)
 

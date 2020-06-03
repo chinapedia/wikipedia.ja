@@ -1,7 +1,7 @@
 > この記事は[Google](https://ja.wikipedia.org/wiki/Google)から翻訳されています。
 
 
-**Google LLC**（グーグル）は、[インターネット](../Page/インターネット.md "wikilink")関連のサービスと製品に特化した世界規模の[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[多国籍テクノロジー企業である](../Page/多国籍企業.md "wikilink")。[検索エンジン](../Page/検索エンジン.md "wikilink")、オンライン広告、[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、[ソフトウェア](../Page/ソフトウェア.md "wikilink")、[ハードウェア](../Page/ハードウェア.md "wikilink")関連の事業がある。アメリカ合衆国の主要な[IT企業で](../Page/情報技術.md "wikilink")、**[GAFA](https://ja.wikipedia.org/wiki/GAFA "wikilink")**\[1\]\[2\]\[3\]、**[FAANG](https://ja.wikipedia.org/wiki/FAANG "wikilink")**\[4\]\[5\]の一つ。
+**Google LLC**（グーグル）は、[インターネット](../Page/インターネット.md "wikilink")関連のサービスと製品に特化した世界規模の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の多国籍テクノロジー企業である。[検索エンジン](../Page/検索エンジン.md "wikilink")、オンライン広告、[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、[ソフトウェア](../Page/ソフトウェア.md "wikilink")、[ハードウェア](../Page/ハードウェア.md "wikilink")関連の事業がある。アメリカ合衆国の主要な[IT企業で](../Page/情報技術.md "wikilink")、**[GAFA](https://ja.wikipedia.org/wiki/GAFA "wikilink")**\[1\]\[2\]\[3\]、**[FAANG](https://ja.wikipedia.org/wiki/FAANG "wikilink")**\[4\]\[5\]の一つ。
 
 ## 概要
 
@@ -63,7 +63,7 @@ IPO後、Googleの株価は順調に上昇し、2007年10月31日には株価が
 
 2013年、Googleを含む複数の[シリコンバレー](../Page/シリコンバレー.md "wikilink")企業に対する[集団訴訟](https://ja.wikipedia.org/wiki/集団訴訟#クラスアクション "wikilink")（クラスアクション）が起こされ、Googleらは「ノー・コールド・コール協定」（お互いの従業員を電話勧誘で引き抜かないとする協定）によってハイテク人材の採用を制限していると申し立てられた\[92\]。
 
-2013年9月19日、Googleは新会社「」の設立を発表した。CalicoのCEOには、[アップル (企業)の会長](../Page/アップル_\(企業\).md "wikilink")が就任した。公式声明の中でペイジは、「健康と幸福」がテーマの企業であるCalicoは、「老化とそれに関連する疾患についての研究」に注力していくと説明した\[93\]。また、[人工肉](https://ja.wikipedia.org/wiki/人工肉 "wikilink")を培養する[インポッシブル・フーズ](https://ja.wikipedia.org/wiki/インポッシブル・フーズ "wikilink")に投資した。
+2013年9月19日、Googleは新会社「[Calico](../Page/Calico_\(企業\).md "wikilink")」の設立を発表した。CalicoのCEOには、[アップル (企業)の会長](../Page/アップル_\(企業\).md "wikilink")が就任した。公式声明の中でペイジは、「健康と幸福」がテーマの企業であるCalicoは、「老化とそれに関連する疾患についての研究」に注力していくと説明した\[93\]。また、[人工肉](https://ja.wikipedia.org/wiki/人工肉 "wikilink")を培養する[インポッシブル・フーズ](https://ja.wikipedia.org/wiki/インポッシブル・フーズ "wikilink")に投資した。
 
 2013年10月、Googleが参加する、公的・民間の組織による連合体「」(A4AI) の発足が発表された。[ティム・バーナーズ＝リー](../Page/ティム・バーナーズ＝リー.md "wikilink")が主導するA4AIは、インターネット環境を安価に手に入るものにすることで、31%に過ぎない開発途上国におけるインターネット普及率を向上させることを目的としており、Google以外にも[Facebook](../Page/Facebook.md "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")などの企業が参加した。 A4AIにおけるGoogleの役割は、国際連合ブロードバンド委員会が設定した、各国の平均月収の5％以下というコストでの[ブロードバンドインターネット接続](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")を実現するため、インターネット接続のコストダウンに貢献することとされた\[94\]。
 
@@ -372,7 +372,7 @@ Androidの開発の中心人物、アンディ・ルービンは、2012年から
 
 ### Javaの特許と著作権侵害訴訟
 
-Googleが開発したAndroidが、[オラクルのプログラミング言語](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の特許と著作権を侵害しているのではないかとして、2012年4月にオラクルより93億円の損害賠償を求める訴訟を起こされた。最終的には[フェアユース](../Page/フェアユース.md "wikilink")が認められる形で2016年5月に全面勝訴となった\[281\]。
+Googleが開発したAndroidが、[オラクルのプログラミング言語](../Page/オラクル_\(企業\).md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の特許と著作権を侵害しているのではないかとして、2012年4月にオラクルより93億円の損害賠償を求める訴訟を起こされた。最終的には[フェアユース](../Page/フェアユース.md "wikilink")が認められる形で2016年5月に全面勝訴となった\[281\]。
 
 ### 不適切な場所への広告の掲載
 

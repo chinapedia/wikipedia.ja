@@ -86,7 +86,7 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 <td><p><a href="https://ja.wikipedia.org/wiki/Friends_(声優ユニット)" title="wikilink">Friends</a></p></td>
 <td><p>シングル『<a href="https://ja.wikipedia.org/wiki/ニセモノ_(Friendsの曲)" title="wikilink">ニセモノ</a>』</p></td>
 <td><p>2008年11月5日</p></td>
-<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/今日の5の2" title="wikilink">今日の5の2</a>』エンディングテーマ</p></td>
+<td><p>テレビアニメ『<a href="../Page/今日の5の2.md" title="wikilink">今日の5の2</a>』エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/茉奈_佳奈" title="wikilink">茉奈 佳奈</a></p></td>
@@ -248,7 +248,7 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 ## 外部リンク
 
   -
-  - [ソニー・ミュージックエンタテインメントによる紹介ページ](http://www.sonymusic.co.jp/)
+  - [ソニー・ミュージックエンタテインメントによる紹介ページ](https://www.sonymusic.co.jp/artist/Zone/discography/SRCL-5120)
 
 [Category:ZONEの楽曲](https://ja.wikipedia.org/wiki/Category:ZONEの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:町田紀彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:町田紀彦が制作した楽曲 "wikilink") [Category:TBSドラマ30の主題歌](https://ja.wikipedia.org/wiki/Category:TBSドラマ30の主題歌 "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:秘密を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:秘密を題材とした楽曲 "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 

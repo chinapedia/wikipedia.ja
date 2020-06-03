@@ -1381,7 +1381,31 @@ OVERHEADSとコラボレーション</p>
 </tr>
 <tr class="odd">
 <td><p><strong>ピアノ独演会2020 ミューザの陣</strong></p></td>
-<td><p>2月１４日 川崎市 ミューザ川崎シンフォニーホール</p></td>
+<td><p>2月１４日 川崎市 <a href="../Page/ミューザ川崎シンフォニーホール.md" title="wikilink">ミューザ川崎シンフォニーホール</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>ピアノ独演会2020 東京芸劇の陣</strong></p></td>
+<td><p><s>5月10日 <a href="../Page/東京芸術劇場.md" title="wikilink">東京芸術劇場</a>　プレイハウス</s></p></td>
+<td><p>※新型コロナウイルス感染拡大防止のため中止</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>ピアノ独演会 - オンラインの陣 -</strong></p></td>
+<td><p>5月10日 Youtubeチャンネル</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>ピアノ独演会2020 夏 - 豊田の陣 -</strong></p></td>
+<td><p><s>7月11日 豊田市コンサートホール</s></p></td>
+<td><p>※新型コロナウイルス感染拡大防止のため中止</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>ピアノ独演会2020 北九州 響の陣</strong></p></td>
+<td><p>8月29日 北九州市立 響ホール</p></td>
 <td></td>
 <td></td>
 </tr>

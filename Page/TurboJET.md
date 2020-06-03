@@ -7,7 +7,7 @@
 
 [HK_Macau_Ferry_Piers_Sheung_Wan.JPG](https://ja.wikipedia.org/wiki/File:HK_Macau_Ferry_Piers_Sheung_Wan.JPG "fig:HK_Macau_Ferry_Piers_Sheung_Wan.JPG") 香港が[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[植民地](../Page/植民地.md "wikilink")で、[マカオ](../Page/マカオ.md "wikilink")が[ポルトガル](../Page/ポルトガル.md "wikilink")の植民地であった[1962年](../Page/1962年.md "wikilink")に、両地を結ぶ高速フェリーとして香港に拠点を置く[信徳集団有限公司](https://ja.wikipedia.org/wiki/信徳集団有限公司 "wikilink")によって、[水中翼船](../Page/水中翼船.md "wikilink")などの高速船による運航が開始された。信徳集団は[スタンレー・ホー](../Page/スタンレー・ホー.md "wikilink")が創始した、マカオにおける[カジノ](../Page/カジノ.md "wikilink")事業を独占\[1\]した企業集団であり、この航路はカジノ観光の動脈として発展した。
 
-[1980年代](../Page/1980年代.md "wikilink")に入り、新たに建設された香港の[上環](https://ja.wikipedia.org/wiki/上環 "wikilink")の[信徳中心](https://ja.wikipedia.org/wiki/信徳中心 "wikilink")（Shun Tak Centre）にある[香港・マカオ・フェリーターミナルと](https://ja.wikipedia.org/wiki/マカオ・フェリーターミナル "wikilink")、マカオの[アウター・ハーバー・フェリーターミナル](https://ja.wikipedia.org/wiki/アウター・ハーバー・フェリーターミナル "wikilink")の間を結ぶ路線を運航している。
+[1980年代](../Page/1980年代.md "wikilink")に入り、新たに建設された香港の[上環](https://ja.wikipedia.org/wiki/上環 "wikilink")の[信徳中心](https://ja.wikipedia.org/wiki/信徳中心 "wikilink")（Shun Tak Centre）にある[香港・マカオ・フェリーターミナルと](https://ja.wikipedia.org/wiki/マカオ・フェリー・ターミナル "wikilink")、マカオの[アウター・ハーバー・フェリーターミナル](https://ja.wikipedia.org/wiki/アウター・ハーバー・フェリーターミナル "wikilink")の間を結ぶ路線を運航している。
 
 その後、マカオの行政管理権が中華人民共和国へ返還される数か月前の[1999年](../Page/1999年.md "wikilink")7月に、信徳集団有限公司と香港中旅国際投資有限公司により設立された「信徳中旅船務管理有限公司」による運航に組織変更され、「TurboJET」の[ブランド](../Page/ブランド.md "wikilink")名を冠された。
 

@@ -46,7 +46,7 @@
 #### 土曜日の生たまご
 
   - [宇田川修一](../Page/宇田川修一.md "wikilink")（☆、1992年4月 - 2000年3月） - 初代MC
-  - [山本リエ](https://ja.wikipedia.org/wiki/山本リエ "wikilink")（1992年4月 - 2001年3月） - 初代MC
+  - [山本リエ](../Page/山本リエ.md "wikilink")（1992年4月 - 2001年3月） - 初代MC
   - [和田季子](../Page/和田季子.md "wikilink")（当時☆、1992年4月 - 1997年12月） - 中継リポーター
   - [ユッコ](https://ja.wikipedia.org/wiki/ユッコ "wikilink")（1998年4月 - 2000年3月）
   - [大田祐樹](../Page/大田祐樹.md "wikilink")（☆、2000年4月 - 2001年3月）

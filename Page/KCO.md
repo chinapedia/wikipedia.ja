@@ -24,7 +24,7 @@
 <!-- end list -->
 
   - 作詞：小室哲哉　Rap詞：VERBAL　作曲：小室哲哉/木根尚登　編曲：小室哲哉
-  - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")とのコラボレーション
+  - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](../Page/VERBAL.md "wikilink")とのコラボレーション
   - 1990年にリリースされた[TMN楽曲](../Page/TM_NETWORK.md "wikilink")（シングル[RHYTHM RED BEAT BLACKに収録](../Page/RHYTHM_RED_BEAT_BLACK.md "wikilink")）のカバー
 
 <!-- end list -->
@@ -35,7 +35,7 @@
 
   - 作詞・作曲・編曲：小室哲哉
   - 「[Yahoo\!](../Page/Yahoo!.md "wikilink") Japan Music」クリスマス特集イメージソング
-  - 1989年にリリースされた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")[ソロ楽曲のカバー](https://ja.wikipedia.org/wiki/CHRISTMAS_CHORUS "wikilink")
+  - 1989年にリリースされた[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")[ソロ楽曲のカバー](../Page/CHRISTMAS_CHORUS.md "wikilink")
 
 <!-- end list -->
 

@@ -68,13 +68,13 @@ RAH-66は、[AH-64 アパッチよりも小型軽量](../Page/AH-64_アパッチ
 
 :; 『[D-LIVE](https://ja.wikipedia.org/wiki/D-LIVE "wikilink")』
 
-:: カダス共和国（架空の国家）のカレン・オズボーン[中尉](../Page/中尉.md "wikilink")が搭乗する。斑鳩悟が運転する[プジョー・106](../Page/プジョー・106.md "wikilink")を20mm[機関砲](../Page/機関砲.md "wikilink")で行動不能にしたり、[AGM-114 ヘルファイア](../Page/ヘルファイア_\(ミサイル\).md "wikilink")[ミサイル](../Page/ミサイル.md "wikilink")を発射するなど窮地に陥れるが、戦場でできた[クレーター](../Page/クレーター.md "wikilink")の傾斜角度を利用した[T-34/85の](https://ja.wikipedia.org/wiki/T-34#1943年以降 "wikilink")[砲撃](https://ja.wikipedia.org/wiki/砲撃 "wikilink")でメインローターを破壊され、墜落する。
+:: カダス共和国（架空の国家）のカレン・オズボーン[中尉](../Page/中尉.md "wikilink")が搭乗する。斑鳩悟が運転する[プジョー・106](../Page/プジョー・106.md "wikilink")を20mm[機関砲](../Page/機関砲.md "wikilink")で行動不能にしたり、[AGM-114 ヘルファイア](../Page/ヘルファイア_\(ミサイル\).md "wikilink")[ミサイル](../Page/ミサイル.md "wikilink")を発射するなど窮地に陥れるが、戦場でできた[クレーター](../Page/クレーター.md "wikilink")の傾斜角度を利用した[T-34/85の](https://ja.wikipedia.org/wiki/T-34#1943年以降 "wikilink")[砲撃](../Page/砲撃.md "wikilink")でメインローターを破壊され、墜落する。
 
 :; 『[ガサラキ](../Page/ガサラキ.md "wikilink")』
 
 ### 小説
 
-:; 『[日米開戦](https://ja.wikipedia.org/wiki/日米開戦 "wikilink")』
+:; 『[日米開戦](../Page/日米開戦.md "wikilink")』
 
 ### ゲーム
 

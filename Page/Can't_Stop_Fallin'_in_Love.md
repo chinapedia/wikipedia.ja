@@ -25,7 +25,7 @@ globeが初出場を果たした[第47回NHK紅白歌合戦](../Page/第47回NHK
 
   - [FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")（アルバムバージョン）
   - [CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")
-  - [Ballads & Memories](https://ja.wikipedia.org/wiki/Ballads_&_Memories "wikilink")
+  - [Ballads & Memories](../Page/Ballads_&_Memories.md "wikilink")
   - [globe decade -single history 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-single_history_1995-2004- "wikilink")
   - [15YEARS -BEST HIT SELECTION-](https://ja.wikipedia.org/wiki/15YEARS_-BEST_HIT_SELECTION- "wikilink")（アルバムバージョン）
   - [\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")（COVER+BEST盤のみ短縮バージョンを収録）

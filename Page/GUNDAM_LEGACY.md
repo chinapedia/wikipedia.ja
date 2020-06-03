@@ -150,4 +150,4 @@
 2.  2009年2月26日刊行　ISBN 978-4-04-715163-5
 3.  2009年4月25日刊行　ISBN 978-4-04-715181-9
 
-[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
+[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:2004年の漫画](https://ja.wikipedia.org/wiki/Category:2004年の漫画 "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")

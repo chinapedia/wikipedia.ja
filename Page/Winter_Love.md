@@ -21,7 +21,7 @@
       - 作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")／作曲・編曲：[ats-](https://ja.wikipedia.org/wiki/ats- "wikilink")
 2.  **Candle Lights**
       - 作詞：Emi K. Lynn／作曲：JUNKOO、原田卓也／編曲：原田卓也
-3.  **[Last Christmas](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")**
+3.  **[Last Christmas](../Page/ラスト・クリスマス_\(ワム!の曲\).md "wikilink")**
       - 作詞・作曲：[George Michael](../Page/ジョージ・マイケル.md "wikilink")／編曲：[安部潤](../Page/安部潤.md "wikilink")
       - 初回盤のみに収録。[Wham\!の同名曲の](../Page/ワム!.md "wikilink")[カバー](../Page/カバー.md "wikilink")。
 4.  **Winter Love（TV MIX）**

@@ -77,7 +77,7 @@
 
 ## 外部リンク
 
-  - [公式webサイト](http://www.ms-e.jp/)
+  - [公式webサイト](https://www.ms-e.jp/)
   - [公式twitter](https://twitter.com/msent_official?lang=ja/)
   - [公式facebook](https://www.facebook.com/msentertainment.jp/)
 

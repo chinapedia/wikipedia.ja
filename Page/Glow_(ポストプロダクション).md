@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - [すくいず\!](https://ja.wikipedia.org/wiki/すくいず! "wikilink") [いきなりプレゼント GET OR LOST](../Page/いきなりプレゼント_GET_OR_LOST.md "wikilink")（テレビ朝日、古舘プロジェクト、ビーダッシュ　2007年6月27日〜7月4日）
+  - [すくいず\!](../Page/すくいず!.md "wikilink") [いきなりプレゼント GET OR LOST](../Page/いきなりプレゼント_GET_OR_LOST.md "wikilink")（テレビ朝日、古舘プロジェクト、ビーダッシュ　2007年6月27日〜7月4日）
   - [一攫千金ヤマワケQ\! "責任者はお前だ\!"](../Page/一攫千金ヤマワケQ!_"責任者はお前だ!".md "wikilink")（ABC、吉本興業、ビーダッシュ　2007年9月21日〜2008年10月7日）
   - [お笑いエピソードGP THE芸人伝説\!](https://ja.wikipedia.org/wiki/お笑いエピソードGP_THE芸人大図鑑 "wikilink")（ABC、吉本興業、ビーダッシュ　2009年4月3日）
   - [おしろツアーズ](https://ja.wikipedia.org/wiki/おしろツアーズ "wikilink") 〜お城好き芸能人大集合SP〜（[東海テレビ](../Page/東海テレビ放送.md "wikilink")、[東海テレビプロダクション](../Page/東海テレビプロダクション.md "wikilink")、吉本興業、ビーダッシュ　2009年9月14日）

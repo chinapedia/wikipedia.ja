@@ -5,7 +5,7 @@
 
 ## 概要
 
-Jean-Raymond Abrial を中心として[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")および[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された。Abrial の開発した[Z言語](../Page/Z言語.md "wikilink")とも関連しており、仕様からの[プログラミング言語](../Page/プログラミング言語.md "wikilink")コード作成をサポートしている。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では、大規模なインフラシステムで利用されており（[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の[メトロ](../Page/メトロ_\(パリ\).md "wikilink")[14号線など](../Page/パリメトロ14号線.md "wikilink")）、産業界の注目を集めつつある。堅牢で商業利用可能なツールが提供されており、[仕様記述](../Page/プログラム仕様.md "wikilink")、[設計](https://ja.wikipedia.org/wiki/ソフトウェア設計 "wikilink")、[検証](../Page/形式的検証.md "wikilink")、[ソースコード生成](https://ja.wikipedia.org/wiki/ソースコード生成 "wikilink")が可能である。
+Jean-Raymond Abrial を中心として[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")および[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で開発された。Abrial の開発した[Z言語](../Page/Z言語.md "wikilink")とも関連しており、仕様からの[プログラミング言語](../Page/プログラミング言語.md "wikilink")コード作成をサポートしている。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では、大規模なインフラシステムで利用されており（[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の[メトロ](../Page/メトロ_\(パリ\).md "wikilink")[14号線など](../Page/パリメトロ14号線.md "wikilink")）、産業界の注目を集めつつある。堅牢で商業利用可能なツールが提供されており、[仕様記述](../Page/プログラム仕様.md "wikilink")、[設計](../Page/ソフトウェア設計.md "wikilink")、[検証](../Page/形式的検証.md "wikilink")、[ソースコード生成](https://ja.wikipedia.org/wiki/ソースコード生成 "wikilink")が可能である。
 
 Z言語に比較して抽象化レベルが低く、単なる[形式仕様記述](../Page/形式仕様記述.md "wikilink")というよりもコードへの[詳細化](../Page/詳細化.md "wikilink")に重きを置いている。そのため、B で書かれた仕様はZ言語の場合よりも実装が容易である。特にそのために様々なツール群が用意されている。
 

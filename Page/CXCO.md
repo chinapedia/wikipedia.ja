@@ -9,6 +9,7 @@
 
   - 収録曲のうち、3、11、13はシングル曲、4、6、7、8、10は各シングルのカップリングだった曲である（13 - 4・8、3 - 6・10のカップリング）。その中で『あしたのあたし』は、このアルバムのバージョンは[長野県](../Page/長野県.md "wikilink")内の[野麦峠](../Page/野麦峠.md "wikilink")近くの合宿所（『[DAIBAクシン\!\!cheki b.](../Page/DAIBAクシン!!cheki_b..md "wikilink")』の企画の『ぷぅ野麦峠』で使われた所）でレコーディングしたものである（周りのスタッフらもコーラスを入れ、本アルバムのブックレットには、このコーラスグループの名は『プーオールスターズ』とクレジットされている）。ブックレットの中には、熊切、嶋野、森の「プー」の3人による、この合宿所での写真が掲載されている。一方、このアルバムの9日後（[7月16日](../Page/7月16日.md "wikilink")）に発売されたシングル『[海へ行こう〜Love Beach Love〜](https://ja.wikipedia.org/wiki/海へ行こう〜Love_Beach_Love〜 "wikilink")』のカップリングとして収録されたバージョンはスタジオでレコーディングされたもので、コーラスが入っていないという違いがある。次のアルバム『[Best Memories](https://ja.wikipedia.org/wiki/Best_Memories "wikilink")』においてもシングルバージョンの方が収録されており、野麦峠収録のバージョンが収録されているのは本作のみである。
   - 収録曲1、8においては、当時[フジテレビプロデューサーだった](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[水口昌彦](../Page/水口昌彦.md "wikilink")も声出しで収録に参加している。
+  - 収録曲5、6は1980年代に活躍した[中原めいこ](../Page/中原めいこ.md "wikilink")が作曲している。その後一切の活動を休止した中原の最末期の楽曲といえる。一方で収録曲9は当時新進気鋭の[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")が作詞作曲している。aikoの他者への楽曲提供は現在に至るまで極めて少なく珍しい例である。
   - 『恋人探しCD』は、各トラックで出演するメンバーがそれぞれ二択の質問を出し、「～～と思う人は○番（トラック）へ」と言った指示を出している（いわゆる[ゲームブック](../Page/ゲームブック.md "wikilink")のような構成）。指示通りにたどっていくと、「あなたと最も相性のいいチェキッ娘」がわかるという構成になっている。
   - 初回特典には、オリジナル[うちわ](../Page/うちわ.md "wikilink")が付いていた。
 
@@ -137,7 +138,7 @@
 
 ## 参加ミュージシャン・スタッフ
 
-  - [ドラムス](../Page/ドラムセット.md "wikilink")：[村石雅行](../Page/村石雅行.md "wikilink")（\#1、\#2、\#10）、[松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink")（\#3）、[倉内充](https://ja.wikipedia.org/wiki/倉内充 "wikilink")（\#4、\#8）、[河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")（\#12）
+  - [ドラムス](../Page/ドラムセット.md "wikilink")：[村石雅行](../Page/村石雅行.md "wikilink")（\#1、\#2、\#10）、[松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink")（\#3）、[倉内充](https://ja.wikipedia.org/wiki/倉内充 "wikilink")（\#4、\#8）、[河村智康](../Page/河村智康.md "wikilink")（\#12）
   - [タンブリン](https://ja.wikipedia.org/wiki/タンブリン "wikilink")：松永俊也（\#3）、[皆川真人](../Page/皆川真人.md "wikilink")（\#7）
   - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")：亀田誠治（\#1、\#2、\#4、\#8、\#10、\#12）、[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")（\#3）
   - [ギター](../Page/ギター.md "wikilink")：[西川進](../Page/西川進.md "wikilink")（\#1、\#2、\#4、\#7、\#8、\#12）、[中村修司](https://ja.wikipedia.org/wiki/中村修司 "wikilink")（\#3、\#5、\#6、\#9、\#10、\#13、\#14）、[堀越信泰](https://ja.wikipedia.org/wiki/堀越信泰 "wikilink")（\#11）

@@ -56,7 +56,7 @@
 
 [Category:CBCラジオの番組](https://ja.wikipedia.org/wiki/Category:CBCラジオの番組 "wikilink") [Category:ローカルラジオ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組 "wikilink") [Category:CBCラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCラジオの番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1972年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1972年のラジオ番組_\(日本\) "wikilink") [Category:2014年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2014年のラジオ番組_\(日本\) "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.  それを意識してか、オープニングでは『[君といつまでも](https://ja.wikipedia.org/wiki/君といつまでも "wikilink")』のインストゥルメンタル、CM前後には『[激しい恋](../Page/激しい恋.md "wikilink")』『[私鉄沿線](../Page/私鉄沿線.md "wikilink")』『[お嫁サンバ](../Page/お嫁サンバ.md "wikilink")』の前奏・後奏を流す。
+1.  それを意識してか、オープニングでは『[君といつまでも](../Page/君といつまでも.md "wikilink")』のインストゥルメンタル、CM前後には『[激しい恋](../Page/激しい恋.md "wikilink")』『[私鉄沿線](../Page/私鉄沿線.md "wikilink")』『[お嫁サンバ](../Page/お嫁サンバ.md "wikilink")』の前奏・後奏を流す。
 2.  野球シーズン中は「[CBCドラゴンズナイター](../Page/CBCドラゴンズナイター.md "wikilink")」が延長した場合、時間の変更（繰り下げ）がある。
 3.
 4.

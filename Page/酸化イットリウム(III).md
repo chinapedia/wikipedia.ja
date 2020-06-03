@@ -9,10 +9,10 @@
 
 イットリウム化合物の最も重要な用途は、YVO<sub>4</sub> [ユウロピウム](../Page/ユウロピウム.md "wikilink")や  ユウロピウム[蛍光体](https://ja.wikipedia.org/wiki/蛍光体 "wikilink")であり、これはブラウン管テレビの赤色を作るのに使われる。酸化イットリウム(III)は[イットリウム・鉄・ガーネット](https://ja.wikipedia.org/wiki/イットリウム・鉄・ガーネット "wikilink")を作るのにも使われ、これは[マイクロ波](../Page/マイクロ波.md "wikilink")フィルタとして役に立つ。
 
-<ce>Y2O3</ce> は **1-2-3** として知られる[高温超伝導体](https://ja.wikipedia.org/wiki/高温超伝導体 "wikilink") <ce>YBa2Cu3O7</ce> を作るのに使われ、金属の組成は次に示される。
+<chem>Y2O3</chem> は **1-2-3** として知られる[高温超伝導体](https://ja.wikipedia.org/wiki/高温超伝導体 "wikilink") <chem>YBa2Cu3O7</chem> を作るのに使われ、金属の組成は次に示される。
 
   -
-    <ce>2 {Y2O3} + {8BaO} + {12CuO} + {O2} -\> {4YBa2Cu3O7}</ce>
+    <chem>2 {Y2O3} + {8BaO} + {12CuO} + {O2} -\> {4YBa2Cu3O7}</chem>
 
 この合成は800 ℃で起こりやすい。
 

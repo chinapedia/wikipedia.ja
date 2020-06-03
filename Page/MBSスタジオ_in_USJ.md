@@ -1,7 +1,7 @@
 > この記事は[MBSスタジオ in USJ](https://ja.wikipedia.org/wiki/MBSスタジオ_in_USJ)から翻訳されています。
 
 
-**MBSスタジオ in USJ**（エムビーエススタジオ イン ユーエスジェイ）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[此花区](../Page/此花区.md "wikilink")[桜島に開業した](https://ja.wikipedia.org/wiki/桜島_\(大阪市\) "wikilink")[テーマパーク](../Page/テーマパーク.md "wikilink")「[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")」 (USJ) 内で、[毎日放送](../Page/毎日放送.md "wikilink") (MBS) が[2014年](../Page/2014年.md "wikilink")3月末まで管理・運営していた[テレビスタジオ](../Page/スタジオ_\(映像撮影\).md "wikilink")。
+**MBSスタジオ in USJ**（エムビーエススタジオ イン ユーエスジェイ）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[此花区](../Page/此花区.md "wikilink")[桜島に開業した](https://ja.wikipedia.org/wiki/桜島_\(大阪市\) "wikilink")[テーマパーク](../Page/テーマパーク.md "wikilink")「[ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")」 (USJ) 内で、[毎日放送](../Page/毎日放送.md "wikilink") (MBS) が[2014年](../Page/2014年.md "wikilink")3月末まで管理・運営していた[テレビスタジオ](../Page/スタジオ_\(映像撮影\).md "wikilink")。
 
 ## 概要
 
@@ -81,7 +81,7 @@ USJスタジオの敷地賃貸は[2011年](../Page/2011年.md "wikilink")3月末
           - [毎日放送千里丘放送センター](../Page/毎日放送千里丘放送センター.md "wikilink")（2007年7月で閉鎖）
           - [毎日放送千里丘ミリカセンター](https://ja.wikipedia.org/wiki/毎日放送千里丘ミリカセンター "wikilink")
           - [MBS企画](../Page/MBS企画.md "wikilink")
-  - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")
+  - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")
   - [緑山スタジオ・シティ](../Page/緑山スタジオ・シティ.md "wikilink")
   - [東京メディアシティ](../Page/東京メディアシティ.md "wikilink")
       - [レモンスタジオ](../Page/レモンスタジオ.md "wikilink")

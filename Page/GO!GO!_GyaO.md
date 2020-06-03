@@ -15,7 +15,7 @@
 
 ## 出演者
 
-  - [岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")
+  - [岡田斗司夫](../Page/岡田斗司夫.md "wikilink")
   - [古瀬絵理](https://ja.wikipedia.org/wiki/古瀬絵理 "wikilink")（フリーアナウンサー）
   - [小出由華](../Page/小出由華.md "wikilink")
   - [小林恵美](../Page/小林恵美.md "wikilink") - 小出が休みの時のみ出演する準レギュラー

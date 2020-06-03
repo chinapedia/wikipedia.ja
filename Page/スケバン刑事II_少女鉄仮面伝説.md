@@ -122,7 +122,7 @@
   - 企画 - 岡正、植田泰治
   - 脚本 - [土屋斗紀雄](https://ja.wikipedia.org/wiki/土屋斗紀雄 "wikilink")、[橋本以蔵](../Page/橋本以蔵.md "wikilink")、[杉村のぼる](../Page/杉村升.md "wikilink")、[戸田博史](https://ja.wikipedia.org/wiki/戸田博史 "wikilink")、[山中伊知郎](../Page/山中伊知郎.md "wikilink")
   - 音楽 - 新田一郎
-  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")、前嶋守男
+  - 監督 - [田中秀夫](../Page/田中秀夫.md "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")、前嶋守男
   - 主題歌
       - 吉沢秋絵 with おニャン子クラブ「[なぜ?の嵐](https://ja.wikipedia.org/wiki/なぜ?の嵐 "wikilink")」（[フォーライフ・レコード](../Page/フォーライフ・レコード.md "wikilink")）（第1話 - 第15話）
       - 南野陽子「[悲しみモニュメント](https://ja.wikipedia.org/wiki/悲しみモニュメント "wikilink")」（[CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")）（第16話 - 第32話）
@@ -788,7 +788,7 @@
 
 ### スタッフ（劇場版）
 
-  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")
+  - 監督 - [田中秀夫](../Page/田中秀夫.md "wikilink")
   - 脚本 - [橋本以蔵](../Page/橋本以蔵.md "wikilink")、[土屋斗紀雄](https://ja.wikipedia.org/wiki/土屋斗紀雄 "wikilink")
   - 主題歌 - 南野陽子「[楽園のDoor](../Page/楽園のDoor.md "wikilink")」（CBSソニー）
   - 撮影 - 大町進

@@ -5,7 +5,7 @@
 
 1992-93シーズンには[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で決勝に進出し、[ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")で行われた決勝では[パルマFCに敗れた](../Page/パルマ・カルチョ1913.md "wikilink")。これ以来、ベルギーのクラブが欧州カップ戦の決勝に出場したことはない。
 
-[イングランド](../Page/イングランド.md "wikilink")・[FAプレミアリーグ](https://ja.wikipedia.org/wiki/FAプレミアリーグ "wikilink")の[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")と長期の提携関係にある。同クラブに所属している若手選手が経験を積むために、あるいは労働許可証を取得するまでの期間のためにアントワープへ期限付きで移籍してくることが多々あり、[ダニー・ヒギンボザム](https://ja.wikipedia.org/wiki/ダニー・ヒギンボザム "wikilink")、[ジョン・オシェイ](../Page/ジョン・オシェイ.md "wikilink")、[董方卓](../Page/董方卓.md "wikilink")、[ジョニー・エヴァンズ](https://ja.wikipedia.org/wiki/ジョニー・エヴァンズ "wikilink")、[フレイザー・キャンベル](../Page/フレイザー・キャンベル.md "wikilink")など25人以上にのぼる。
+[イングランド](../Page/イングランド.md "wikilink")・[FAプレミアリーグ](https://ja.wikipedia.org/wiki/FAプレミアリーグ "wikilink")の[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")と長期の提携関係にある。同クラブに所属している若手選手が経験を積むために、あるいは労働許可証を取得するまでの期間のためにアントワープへ期限付きで移籍してくることが多々あり、[ダニー・ヒギンボザム](https://ja.wikipedia.org/wiki/ダニー・ヒギンボザム "wikilink")、[ジョン・オシェイ](../Page/ジョン・オシェイ.md "wikilink")、[董方卓](../Page/董方卓.md "wikilink")、[ジョニー・エヴァンズ](../Page/ジョニー・エヴァンズ.md "wikilink")、[フレイザー・キャンベル](../Page/フレイザー・キャンベル.md "wikilink")など25人以上にのぼる。
 
 ## タイトル
 
@@ -231,7 +231,7 @@
 
   - [ダニー・シンプソン](../Page/ダニー・シンプソン.md "wikilink") 2006
 
-  - [ジョニー・エヴァンズ](https://ja.wikipedia.org/wiki/ジョニー・エヴァンズ "wikilink") 2006
+  - [ジョニー・エヴァンズ](../Page/ジョニー・エヴァンズ.md "wikilink") 2006
 
   - [ダロン・ギブソン](https://ja.wikipedia.org/wiki/ダロン・ギブソン "wikilink") 2006-2007
 
@@ -241,7 +241,7 @@
 
   - [フレイザー・キャンベル](../Page/フレイザー・キャンベル.md "wikilink") 2006-2007
 
-  - [デヴィッド・グレイ](https://ja.wikipedia.org/wiki/デヴィッド・グレイ_\(サッカー選手\) "wikilink") 2006-2007
+  - [デヴィッド・グレイ](../Page/デヴィッド・グレイ_\(サッカー選手\).md "wikilink") 2006-2007
 
   - [マイケル・リー](https://ja.wikipedia.org/wiki/マイケル・リー "wikilink") 2007
 

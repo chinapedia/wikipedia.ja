@@ -1,7 +1,7 @@
 > この記事は[Java Runtime Environment](https://ja.wikipedia.org/wiki/Java_Runtime_Environment)から翻訳されています。
 
 
-**Java Runtime Environment**（Java実行環境、**JRE**）とは、[コンピュータシステム](../Page/コンピュータシステム.md "wikilink")上で[Javaプラットフォーム](../Page/Javaプラットフォーム.md "wikilink")用の[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")（[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")）を動かせるようにする[ソフトウェア](../Page/ソフトウェア.md "wikilink")群である。JREは[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（旧[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）による公式実装のほか、[OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")のコミュニティによるオープン実装、[IBM](../Page/IBM.md "wikilink")などの正式にライセンス供与されたサードパーティによる実装などが存在する\[1\]。
+**Java Runtime Environment**（Java実行環境、**JRE**）とは、[コンピュータシステム](../Page/コンピュータシステム.md "wikilink")上で[Javaプラットフォーム](../Page/Javaプラットフォーム.md "wikilink")用の[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")（[Javaアプリケーション](https://ja.wikipedia.org/wiki/Javaアプリケーション "wikilink")）を動かせるようにする[ソフトウェア](../Page/ソフトウェア.md "wikilink")群である。JREは[オラクル](../Page/オラクル_\(企業\).md "wikilink")（旧[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）による公式実装のほか、[OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")のコミュニティによるオープン実装、[IBM](../Page/IBM.md "wikilink")などの正式にライセンス供与されたサードパーティによる実装などが存在する\[1\]。
 
 ## 概要
 

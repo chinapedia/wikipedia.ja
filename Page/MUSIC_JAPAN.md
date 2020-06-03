@@ -46,7 +46,7 @@
       - EYES改編により日曜23時枠後半へ移動\[9\]\[10\]。
   - 2010年度〜2012年度
     日曜日 18:10 - 18:40\[11\]。[NHKニュース](../Page/NHKニュース.md "wikilink")の後に続けて放送されていたため、大きな事件・事故等が生じてニュースの時間が延長した場合または[大相撲中継](../Page/大相撲中継.md "wikilink")が延長しニュースの開始時刻が遅れる場合は、遅くとも18:15 - 18:45に繰り下がることがあった\[12\]\[13\]\[14\]。
-      - 番組4年目にして本放送が夕方枠に移動。これにより『[ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")』以来22年ぶりに若者向け音楽番組が日曜18時台に復帰することになった。この動きを見た[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")（現：[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")）は長らくこの時間帯に放送されていた『[ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")』を金曜18時台に移している（2012年度に水曜日20時台へ再移動）\[15\]。また、この枠に移動してから生放送SPも度々放送された。
+      - 番組4年目にして本放送が夕方枠に移動。これにより『[ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")』以来22年ぶりに若者向け音楽番組が日曜18時台に復帰することになった。この動きを見た[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")（現：[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")）は長らくこの時間帯に放送されていた『[ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")』を金曜18時台に移している（2012年度に水曜日20時台へ再移動）\[15\]。また、この枠に移動してから生放送SPも度々放送された。
   - 2013年度
     木曜日 22:55 - 23:20\[16\]。
       - 番組7年目で放送曜日が木曜日の22:55（[23時のNHK](../Page/23時のNHK.md "wikilink")）枠\[17\] に移動、放送時間も5分短縮された。後番組としてそれまで土曜日の同時間帯に放送していた『[NHK海外ネットワーク](../Page/NHK海外ネットワーク.md "wikilink")』が3年ぶりに日曜の同時間帯に戻り、さらに担当も[青井実](../Page/青井実.md "wikilink")アナウンサーから[吉田一貴](../Page/吉田一貴.md "wikilink")アナウンサーになり、跡を継ぐことになった\[18\]。
@@ -216,7 +216,7 @@ NHKホール収録主体の内容となった2014年からは、Perfumeが全国
 
   - 1月22日 - [大橋のぞみ](https://ja.wikipedia.org/wiki/大橋のぞみ "wikilink")がユニットから離れ初の単独出演。「[ノンちゃん雲に乗る](https://ja.wikipedia.org/wiki/ノンちゃん雲に乗る "wikilink")」を歌う。
 
-  - 2月5日 - 人気[声優](../Page/声優.md "wikilink")の[水樹奈々](../Page/水樹奈々.md "wikilink")がこのMJに初登場し、「[深愛](https://ja.wikipedia.org/wiki/深愛 "wikilink")」を歌った。本番組への声優の出演は初。水樹は同年4月から、この番組のナレーションをレギュラーで担当するようになった。
+  - 2月5日 - [声優](../Page/声優.md "wikilink")の[水樹奈々](../Page/水樹奈々.md "wikilink")がこのMJに初登場し、「[深愛](https://ja.wikipedia.org/wiki/深愛 "wikilink")」を歌った。本番組への声優の出演は初。水樹は同年4月から、この番組のナレーションをレギュラーで担当するようになった。
 
   - 3月 - 2009年度より[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")が司会を務めることが発表される\[38\]。
 
@@ -327,7 +327,7 @@ NHKホール収録主体の内容となった2014年からは、Perfumeが全国
 
   - 7月31日 - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/ドラマチック・サンデー "wikilink")『[マルモのおきて](https://ja.wikipedia.org/wiki/マルモのおきて "wikilink")』でブレイクしたユニット、[薫と友樹、たまにムック。](https://ja.wikipedia.org/wiki/薫と友樹、たまにムック。 "wikilink")（[芦田愛菜](https://ja.wikipedia.org/wiki/芦田愛菜 "wikilink")、[鈴木福](https://ja.wikipedia.org/wiki/鈴木福 "wikilink")）が『[マル・マル・モリ・モリ\!](https://ja.wikipedia.org/wiki/マル・マル・モリ・モリ! "wikilink")』を振りつけ付きで披露。この他、5人となった新生[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")は最新曲『[Z伝説 〜終わりなき革命〜](https://ja.wikipedia.org/wiki/Z伝説_〜終わりなき革命〜 "wikilink")』を、[渡り廊下走り隊7](https://ja.wikipedia.org/wiki/渡り廊下走り隊7 "wikilink")は『[へたっぴウィンク](https://ja.wikipedia.org/wiki/へたっぴウィンク "wikilink")』をそれぞれ披露した。
 
-  - 8月14日 - この回は『MJなつやすみ☆こどもスペシャル』と題して、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）がメインを務め、芦田愛菜、鈴木福、[加藤清史郎](https://ja.wikipedia.org/wiki/加藤清史郎 "wikilink")、[大橋のぞみ](https://ja.wikipedia.org/wiki/大橋のぞみ "wikilink")ら子役が多数スタジオに集結。遊園地を模したセットで歌や特技などを披露。芦田と鈴木は『マル・マル・モリ・モリ\!』、大橋は『パンダのゆめ』を披露。加藤は自身が出演している映画『[忍たま乱太郎](https://ja.wikipedia.org/wiki/忍たま乱太郎#実写映画 "wikilink")』の主人公・[乱太郎に扮し](../Page/落第忍者乱太郎の登場人物.md "wikilink")『[勇気100%](https://ja.wikipedia.org/wiki/勇気100%_\(NYCの曲\) "wikilink")』（[NYC](https://ja.wikipedia.org/wiki/NYC_\(アイドルグループ\) "wikilink")）に乗せてダンスを披露。また、鈴木が2歳の頃に出演経験がある『[いないいないばあっ\!](../Page/いないいないばあっ!.md "wikilink")』からワンワンがゲスト出演し『ぐるぐるどっか〜ん\!』を踊った。香取も随所に[両さんとして登場し](../Page/両津勘吉.md "wikilink")、最後は香取主演の映画『[こちら葛飾区亀有公園前派出所 THE MOVIE 〜勝どき橋を封鎖せよ\!〜](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所#映画（2011年版） "wikilink")』の主題歌『[三百六十五歩のマーチ](https://ja.wikipedia.org/wiki/三百六十五歩のマーチ#楽曲の広まり "wikilink")』を熱唱して幕を閉じた。なお、SMAPのメンバーが当番組に出演したのはこの回で初となった。
+  - 8月14日 - この回は『MJなつやすみ☆こどもスペシャル』と題して、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）がメインを務め、芦田愛菜、鈴木福、[加藤清史郎](../Page/加藤清史郎.md "wikilink")、[大橋のぞみ](https://ja.wikipedia.org/wiki/大橋のぞみ "wikilink")ら子役が多数スタジオに集結。遊園地を模したセットで歌や特技などを披露。芦田と鈴木は『マル・マル・モリ・モリ\!』、大橋は『パンダのゆめ』を披露。加藤は自身が出演している映画『[忍たま乱太郎](https://ja.wikipedia.org/wiki/忍たま乱太郎#実写映画 "wikilink")』の主人公・[乱太郎に扮し](../Page/落第忍者乱太郎の登場人物.md "wikilink")『[勇気100%](https://ja.wikipedia.org/wiki/勇気100%_\(NYCの曲\) "wikilink")』（[NYC](https://ja.wikipedia.org/wiki/NYC_\(アイドルグループ\) "wikilink")）に乗せてダンスを披露。また、鈴木が2歳の頃に出演経験がある『[いないいないばあっ\!](../Page/いないいないばあっ!.md "wikilink")』からワンワンがゲスト出演し『ぐるぐるどっか〜ん\!』を踊った。香取も随所に[両さんとして登場し](../Page/両津勘吉.md "wikilink")、最後は香取主演の映画『[こちら葛飾区亀有公園前派出所 THE MOVIE 〜勝どき橋を封鎖せよ\!〜](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所#映画（2011年版） "wikilink")』の主題歌『[三百六十五歩のマーチ](https://ja.wikipedia.org/wiki/三百六十五歩のマーチ#楽曲の広まり "wikilink")』を熱唱して幕を閉じた。なお、SMAPのメンバーが当番組に出演したのはこの回で初となった。
 
   - 9月4日 - モデルの[益若つばさ](https://ja.wikipedia.org/wiki/益若つばさ "wikilink")がMilky Bunnyとして出演したほか、俳優の[城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")が「U」として音楽番組初出演。
 
@@ -499,7 +499,7 @@ MJでは通常のレギュラー版以外にも、年数本程度で趣向を凝
     出演：[アリス九號.](https://ja.wikipedia.org/wiki/Alice_Nine "wikilink")、[the GazettE](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")、[シド](../Page/シド_\(バンド\).md "wikilink")、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")、[ナイトメア](../Page/ナイトメア_\(バンド\).md "wikilink")、[Plastic Tree](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink")、[ムック](../Page/MUCC.md "wikilink")、[メリー](https://ja.wikipedia.org/wiki/メリー_\(バンド\) "wikilink") 計8組
   - 第2回「ネオ・ビジュアル系 真夏の宴2008」
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月28日](../Page/8月28日.md "wikilink")
-    出演：アリス九號.、[アンティック-珈琲店-](../Page/アンティック-珈琲店-.md "wikilink")、[LM.C](../Page/LM.C.md "wikilink")、[the GazettE](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")、[D](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink")、ナイトメア、Plastic Tree、ムック
+    出演：アリス九號.、[アンティック-珈琲店-](../Page/アンティック-珈琲店-.md "wikilink")、[LM.C](../Page/LM.C.md "wikilink")、[the GazettE](https://ja.wikipedia.org/wiki/the_GazettE "wikilink")、[D](../Page/D_\(バンド\).md "wikilink")、ナイトメア、Plastic Tree、ムック
   - 第3回「ネオ・ビジュアル系 春爛漫の宴2010」
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")
     出演：[彩冷える](../Page/彩冷える.md "wikilink")-ayabie-、[Alice Nine](https://ja.wikipedia.org/wiki/Alice_Nine "wikilink")、[Versailles](../Page/Versailles_\(バンド\).md "wikilink")、[cali≠gari](https://ja.wikipedia.org/wiki/cali≠gari "wikilink")、[girugämesh](https://ja.wikipedia.org/wiki/girugämesh "wikilink")、シド、Plastic Tree、ムック
@@ -690,7 +690,7 @@ MJでは通常のレギュラー版以外にも、年数本程度で趣向を凝
 
   - 日本のロックシーンのトップを走るアーティストを集めたライブフェスティバル型特番。
   - Vol.1：2013年11月17日（月曜日） 24:50 - 26:20
-      - 司会：[ハリー杉山](https://ja.wikipedia.org/wiki/ハリー杉山 "wikilink")、[リアンヌ](https://ja.wikipedia.org/wiki/リアンヌ "wikilink")
+      - 司会：[ハリー杉山](../Page/ハリー杉山.md "wikilink")、[リアンヌ](https://ja.wikipedia.org/wiki/リアンヌ "wikilink")
       - 出演：[Alexandros](https://ja.wikipedia.org/wiki/Alexandros "wikilink")、[ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")、[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")、[ACIDMAN](../Page/ACIDMAN.md "wikilink")
       - 収録：2013年10月24日 Zepp DiverCity Tokyo
   - Vol.2：2014年8月28日（木曜日） 24:00 - 25:30

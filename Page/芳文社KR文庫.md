@@ -3,7 +3,7 @@
 
 **芳文社KR文庫**（ほうぶんしゃケーアールぶんこ）は、[芳文社](../Page/芳文社.md "wikilink")から[2007年](../Page/2007年.md "wikilink")3月に創刊された[ライトノベル](../Page/ライトノベル.md "wikilink")系[文庫](../Page/文庫.md "wikilink")レーベル。
 
-同社の[4コマ](../Page/4コマ漫画.md "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")・[まんがタイムきらら](../Page/まんがタイムきらら.md "wikilink")系各誌に連載されている作品の[ノベライズを中心に刊行](../Page/小説化.md "wikilink")。
+同社の[4コマ](../Page/4コマ漫画.md "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")・[まんがタイムきらら](../Page/まんがタイムきらら.md "wikilink")系各誌に連載されている作品の[ノベライズを中心に刊行](../Page/小説化.md "wikilink")。
 
 レーベル名の「**KR**」は本来「きらら」の意味であるが、[商標](../Page/商標.md "wikilink")上の理由からこの表記になっている（[まんがタイムきらら\#まんがタイムKRコミックス](https://ja.wikipedia.org/wiki/まんがタイムきらら#まんがタイムKRコミックス "wikilink")を参照）。
 

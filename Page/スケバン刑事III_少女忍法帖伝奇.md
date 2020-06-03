@@ -258,7 +258,7 @@
   - 企画 - 岡正（フジテレビ）、[前田和也](https://ja.wikipedia.org/wiki/前田和也_\(プロデューサー\) "wikilink")（フジテレビ）
   - 脚本 - [土屋斗紀雄](https://ja.wikipedia.org/wiki/土屋斗紀雄 "wikilink")、[橋本以蔵](../Page/橋本以蔵.md "wikilink")、[我妻正義](https://ja.wikipedia.org/wiki/我妻正義 "wikilink")、[武上純希](../Page/武上純希.md "wikilink")、[神戸一彦](../Page/神戸一彦.md "wikilink")
   - 音楽 - [新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")
-  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")、前嶋守男
+  - 監督 - [田中秀夫](../Page/田中秀夫.md "wikilink")、[大井利夫](https://ja.wikipedia.org/wiki/大井利夫 "wikilink")、[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")、前嶋守男
   - 主題歌
       - [福永恵規](../Page/福永恵規.md "wikilink")「[ハートのIgnition](../Page/ハートのIgnition.md "wikilink")」（[キャニオン・レコード](../Page/ポニーキャニオン.md "wikilink")）（第1話 - 第8話）
       - 浅香唯「[STAR](https://ja.wikipedia.org/wiki/STAR_\(浅香唯の曲\) "wikilink")」（[マイカルハミングバード](../Page/マイカルハミングバード.md "wikilink")）（第9話 - 第21話）
@@ -925,7 +925,7 @@ TBS系列</p></td>
 
   - 原作 - [和田慎二](../Page/和田慎二.md "wikilink")
   - 企画 - [前田和也](https://ja.wikipedia.org/wiki/前田和也 "wikilink")、[植田泰治](https://ja.wikipedia.org/wiki/植田泰治 "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
-  - 監督 - [田中秀夫](https://ja.wikipedia.org/wiki/田中秀夫 "wikilink")
+  - 監督 - [田中秀夫](../Page/田中秀夫.md "wikilink")
   - 脚本 - [橋本以蔵](../Page/橋本以蔵.md "wikilink")
   - 主題歌
       - 浅香唯「[Believe Again](https://ja.wikipedia.org/wiki/Believe_Again "wikilink")」（マイカルハミングバード）

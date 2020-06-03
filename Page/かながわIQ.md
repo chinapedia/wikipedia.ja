@@ -67,7 +67,7 @@
   - [王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")(TBS)
   - [Pooh\!](../Page/Pooh!.md "wikilink")(TBS)
   - [ベスト百貨](https://ja.wikipedia.org/wiki/ベスト百貨 "wikilink")（フジテレビ）
-  - [チノパン](https://ja.wikipedia.org/wiki/チノパン_\(テレビ番組\) "wikilink")（フジテレビ）
+  - [チノパン](../Page/チノパン_\(テレビ番組\).md "wikilink")（フジテレビ）
   - [秘密倶楽部o-daiba.com](https://ja.wikipedia.org/wiki/秘密倶楽部o-daiba.com "wikilink")（フジテレビ）
   - [株式会社o-daiba.com](https://ja.wikipedia.org/wiki/株式会社o-daiba.com "wikilink")（フジテレビ)
   - [畑野スタイル](https://ja.wikipedia.org/wiki/畑野スタイル "wikilink")（テレビ東京）

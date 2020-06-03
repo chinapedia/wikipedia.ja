@@ -212,7 +212,7 @@
 <td><p>JOIP-FM</p></td>
 <td><p>88.9</p></td>
 <td><p>1kW[2]</p></td>
-<td><p>4.5kW[3]</p></td>
+<td><p>5.5kW[3]</p></td>
 <td><p>大分県</p></td>
 </tr>
 <tr class="even">

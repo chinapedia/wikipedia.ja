@@ -474,6 +474,8 @@
       - 開催日：2020年8月22日〜23日
       - 開催場所：[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink") ホテル華の湯
 
+## 脚注
+
 ## 関連項目
 
   - [星雲賞](../Page/星雲賞.md "wikilink")

@@ -9,7 +9,7 @@ ACPIは電源管理のための枠組であるだけではなく、[プラット
 
 必要の無いデバイスへの電源供給を停止したり、使用しないときは自動的にスタンバイ（サスペンド）したりすることにより[消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")を抑えられる。これによりノートパソコンでは[バッテリーの持続時間が飛躍的に長くなった](../Page/電池.md "wikilink")。
 
-実装の複雑さ、およびオペレーティングシステムとの[競合で問題が出やすいため](../Page/競合状態.md "wikilink")、最近では[APM](https://ja.wikipedia.org/wiki/APM "wikilink")をサポートせずACPIのみのBIOSが増えてきている。
+実装の複雑さ、およびオペレーティングシステムとの[競合で問題が出やすいため](../Page/競合状態.md "wikilink")、最近では[APMをサポートせずACPIのみのBIOSが増えてきている](../Page/Advanced_Power_Management.md "wikilink")。
 
 ## 構成要素
 
@@ -66,7 +66,7 @@ LinuxやFreeBSDや[NetBSD](../Page/NetBSD.md "wikilink")ではインテルによ
 
 ## 歴史
 
-1997年に初めて仕様が公開された\[2\]。ACPI 2.0は2000年にリリースされ、ACPI 3.0は2004年にリリースされ、ACPI 4.0は2009年にリリースされ、ACPI 5.0は2011年にリリースされました。2013年10月、ACPIは[Unified EFI Forumの責任下に置かれ](https://ja.wikipedia.org/wiki/Unified_EFI_Forum "wikilink")、新しいACPI仕様はUEFI Forumによって開発されます。
+1997年に初めて仕様が公開された\[2\]。ACPI 2.0は2000年にリリースされ、ACPI 3.0は2004年にリリースされ、ACPI 4.0は2009年にリリースされ、ACPI 5.0は2011年にリリースされた。2013年10月、ACPIは[Unified EFI Forumの下に置かれ](https://ja.wikipedia.org/wiki/Unified_EFI_Forum "wikilink")、新しいACPI仕様はUEFI Forumによって開発される。
 
 ## 脚注
 

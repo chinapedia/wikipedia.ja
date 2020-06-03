@@ -117,8 +117,11 @@ VAIOシリーズの出荷台数は、1999年度に約140万台、2004年度に33
 
 ## 外部リンク
 
-  - [公式サイト](https://vaio.com)
+  - [公式サイト](https://vaio.com/)
 
+  -
+  -
+  -
 [Category:パーソナルコンピュータ_(製品)](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ_\(製品\) "wikilink") [Category:ソニーの製品](https://ja.wikipedia.org/wiki/Category:ソニーの製品 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.  VAIOホームページ<small>（[Internet Archiveのバックアップデータ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）</small>, [The philosophy of VAIO「VAIO」の由来とフィロソフィー](http://web.archive.org/web/20010810022204/http://www.vaio.sony.co.jp/Enjoy/Inside/vaiologo/) 2000年

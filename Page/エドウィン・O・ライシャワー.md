@@ -69,7 +69,7 @@
 
 #### 日米パートナーシップ
 
-[Nixon_Johnson_1961.jpg](https://ja.wikipedia.org/wiki/File:Nixon_Johnson_1961.jpg "fig:Nixon_Johnson_1961.jpg")と[リンドン・B・ジョンソン](https://ja.wikipedia.org/wiki/リンドン・B・ジョンソン "wikilink")\]\] 出生や家族といった側面だけでなく、ライシャワーは上記の論文で主張した日本の多くの層との対話を実行に移し、全国に妻とともに積極的に出向き、市民との対話を演出したほか、[昭和天皇](../Page/昭和天皇.md "wikilink")などの[皇族](../Page/皇族.md "wikilink")や、[池田勇人](../Page/池田勇人.md "wikilink")や[佐藤栄作](../Page/佐藤栄作.md "wikilink")などの現職の首相や、[吉田茂](https://ja.wikipedia.org/wiki/吉田茂 "wikilink")や[岸信介](../Page/岸信介.md "wikilink")などの元首相などの与党リーダー層のみならず、[社会党などの左派野党議員や](../Page/日本社会党.md "wikilink")[石坂泰三](../Page/石坂泰三.md "wikilink")などの経済人、[池田大作](../Page/池田大作.md "wikilink")などの宗教関係者や左派を含む[労働組合](../Page/労働組合.md "wikilink")関係者とも積極的に会談を行うなど、アメリカ本国のケネディ政権と協調して日米政府間の対等をアピールすることで、「日米パートナーシップ」、「ケネディ＝ライシャワー路線」と称される日米蜜月時代を演出しようとした。
+[Nixon_Johnson_1961.jpg](https://ja.wikipedia.org/wiki/File:Nixon_Johnson_1961.jpg "fig:Nixon_Johnson_1961.jpg")と[リンドン・B・ジョンソン](../Page/リンドン・ジョンソン.md "wikilink")\]\] 出生や家族といった側面だけでなく、ライシャワーは上記の論文で主張した日本の多くの層との対話を実行に移し、全国に妻とともに積極的に出向き、市民との対話を演出したほか、[昭和天皇](../Page/昭和天皇.md "wikilink")などの[皇族](../Page/皇族.md "wikilink")や、[池田勇人](../Page/池田勇人.md "wikilink")や[佐藤栄作](../Page/佐藤栄作.md "wikilink")などの現職の首相や、[吉田茂](https://ja.wikipedia.org/wiki/吉田茂 "wikilink")や[岸信介](../Page/岸信介.md "wikilink")などの元首相などの与党リーダー層のみならず、[社会党などの左派野党議員や](../Page/日本社会党.md "wikilink")[石坂泰三](../Page/石坂泰三.md "wikilink")などの経済人、[池田大作](../Page/池田大作.md "wikilink")などの宗教関係者や左派を含む[労働組合](../Page/労働組合.md "wikilink")関係者とも積極的に会談を行うなど、アメリカ本国のケネディ政権と協調して日米政府間の対等をアピールすることで、「日米パートナーシップ」、「ケネディ＝ライシャワー路線」と称される日米蜜月時代を演出しようとした。
 
 また、[冷戦](../Page/冷戦.md "wikilink")下においてこれまで大使館とは微妙な関係を保っていた[在日アメリカ軍](https://ja.wikipedia.org/wiki/在日アメリカ軍 "wikilink")との関係改善にも臨み、在日アメリカ軍司令官や太平洋軍司令官、そして[沖縄の](../Page/沖縄県.md "wikilink")[琉球列島高等弁務官](../Page/琉球列島高等弁務官.md "wikilink")などとも緊密な関係を取り続けた。さらに、日本を訪問した[アヴェレル・ハリマン](https://ja.wikipedia.org/wiki/アヴェレル・ハリマン "wikilink")や[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")、[ロバート・ケネディ](../Page/ロバート・ケネディ.md "wikilink")などの政界関係者と日本の政財界人との間をつなぐだけでなく、彼らに対して同盟国の日本との関係の重要性を理解させるように努めた。
 
@@ -132,13 +132,7 @@
 ### その他
 
   - 大使を務めたころには、[日本語](../Page/日本語.md "wikilink")の会話能力は高かったにもかかわらず、駐日アメリカ大使として公の場に出る際には日本語を使わず、必ず通訳の[西山千](https://ja.wikipedia.org/wiki/西山千 "wikilink")を通じて話していた（なお、ライシャワーに限らず、大使や閣僚などの公人は外国語を公の場では口にせず通訳を介するのが通常である）。しかし天皇や皇后、皇太子などと話す時はこの限りではなかった。また、大学などで比較的カジュアルな公演を行う際には、通訳が英語で話し、それにライシャワーが日本語で答えるという遊びを行い喝采されることもあった。
-
-<!-- end list -->
-
   - しかし、大使辞任後の1975年と1983年に罹った[脳卒中](../Page/脳卒中.md "wikilink")や[脳内出血](../Page/脳内出血.md "wikilink")の[後遺症](https://ja.wikipedia.org/wiki/後遺症 "wikilink")で、子供のころから覚えたにもかかわらず、上記のような高い日本語の能力を相当量失うに至った。
-
-<!-- end list -->
-
   - 『[ライシャワー自伝](https://ja.wikipedia.org/wiki/ライシャワー自伝 "wikilink")』などの複数の著書の中で、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後に制定された[日本国憲法](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")について「日本人自身によって制定されたものではなかった」、「アメリカを中心とした[連合国](https://ja.wikipedia.org/wiki/連合国 "wikilink")によって作られ制定させられた」と書いている。
 
 ## 受章

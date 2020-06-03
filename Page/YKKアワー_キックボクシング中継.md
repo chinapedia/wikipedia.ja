@@ -22,7 +22,7 @@
   - [北海道放送](../Page/北海道放送.md "wikilink")
   - [青森テレビ](../Page/青森テレビ.md "wikilink")：月曜 19:00 - 19:30\[1\]
   - [岩手放送](../Page/IBC岩手放送.md "wikilink")：月曜 19:00 - 19:30\[2\]
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：金曜 18:00 - 18:30（1973年7月時点）\[3\]
+  - [秋田放送](../Page/秋田放送.md "wikilink")：金曜 18:00 - 18:30（1973年7月時点）\[3\]
   - [山形放送](../Page/山形放送.md "wikilink")：火曜 18:00 - 18:30（1968年10月 - 1970年12月時点）\[4\] → 金曜 18:00 - 18:30（1973年7月時点）\[5\]
   - [東北放送](../Page/東北放送.md "wikilink")：月曜 19:00 - 19:30\[6\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：木曜 19:00 - 19:30（1968年10月 - 1969年4月3日まで） → 月曜 19:00 - 19:30　（1969年4月7日から）\[7\]
@@ -44,7 +44,7 @@
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [テレビ高知](../Page/テレビ高知.md "wikilink")
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [大分放送](../Page/大分放送.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

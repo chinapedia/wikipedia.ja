@@ -14,7 +14,7 @@
 <tr class="header">
 <th><p>期間</p></th>
 <th><p>放送時間</p></th>
-<th><p>司会</p></th>
+<th><p>総合司会</p></th>
 <th><p>アシスタント</p></th>
 <th><p>レポーター</p></th>
 <th><p>お天気</p></th>

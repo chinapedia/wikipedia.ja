@@ -175,7 +175,7 @@
 
 :\*サウンドステッカー - [TBSラジオ](../Page/TBSラジオ.md "wikilink")における、[ジングルの呼称](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。
 
-:\* [湘南シーレックス](https://ja.wikipedia.org/wiki/横浜ベイスターズ_\(ファーム\) "wikilink") (Shonan Searex) - [プロ野球球団](../Page/日本プロ野球.md "wikilink")
+:\* [湘南シーレックス](../Page/横浜DeNAベイスターズ_\(ファーム\).md "wikilink") (Shonan Searex) - [プロ野球球団](../Page/日本プロ野球.md "wikilink")
 
 :\* [サッサリ県](../Page/サッサリ県.md "wikilink") (Sassari) の[記号および](../Page/イタリア共和国の県名略記号.md "wikilink")[コード](../Page/ISO_3166-2:IT.md "wikilink") - [イタリア](../Page/イタリア.md "wikilink")の県
 

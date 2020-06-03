@@ -9,7 +9,7 @@
 
 チーム所在地は、[仙台市都心部](../Page/仙台市都心部.md "wikilink")から見て北東郊外の[多賀城市](../Page/多賀城市.md "wikilink")。ホームスタジアムは[ユアテックスタジアム仙台](../Page/仙台スタジアム.md "wikilink")（[仙台市](../Page/仙台市.md "wikilink")[泉区](../Page/泉区_\(仙台市\).md "wikilink")）であり、[宮城県サッカー場](../Page/宮城県サッカー場.md "wikilink")（[利府町](../Page/利府町.md "wikilink")）、[七ヶ浜サッカースタジアム](../Page/七ヶ浜サッカースタジアム.md "wikilink")（[七ヶ浜町](../Page/七ヶ浜町.md "wikilink")）でもホームゲームが開催される。すなわち、旧[宮城郡](../Page/宮城郡.md "wikilink")地域（[仙塩](https://ja.wikipedia.org/wiki/仙塩 "wikilink")地区）を主な活動地域とするチームである。
 
-なお、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")は[仙台市](../Page/仙台市.md "wikilink")を本拠とする[ブランメル仙台が既にJFLに参戦していたことから](https://ja.wikipedia.org/wiki/東北電力サッカー部 "wikilink")、新聞報道では社によってB仙台との区別から**「S仙台」**（Sはソニーの略）としたり、あるいは実業団チームであることを配慮し単に**「ソニー」**と表したものもあった。現在は「ソニー仙台」という表記になっている。同年の旧JFL参入初戦では、優勝候補の[本田技研と対戦し接戦の末](../Page/本田技研工業フットボールクラブ.md "wikilink")4-3と大金星で船出を飾った。
+なお、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")は[仙台市](../Page/仙台市.md "wikilink")を本拠とする[ブランメル仙台が既にJFLに参戦していたことから](https://ja.wikipedia.org/wiki/東北電力サッカー部 "wikilink")、新聞報道では社によってB仙台との区別から**「S仙台」**（Sはソニーの略）としたり、あるいは実業団チームであることを配慮し単に**「ソニー」**と表したものもあった。現在は「ソニー仙台」という表記になっている。同年の旧JFL参入初戦では、優勝候補の[本田技研工業と対戦し接戦の末](../Page/本田技研工業フットボールクラブ.md "wikilink")4-3と大金星で船出を飾った。
 
 [ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")元監督の[鈴木淳がコーチ](../Page/鈴木淳_\(1961年生のサッカー選手\).md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")-[1999年](../Page/1999年.md "wikilink")）を務めたことがある。近年ではスカウトに力を入れており、大卒の選手、Jリーグから戦力外になった選手を積極的に獲得している。2007年には元U-15日本代表候補の[山本僚](../Page/山本僚.md "wikilink")を、2008年には元U-17日本代表の[麻生耕平](../Page/麻生耕平.md "wikilink")と[今田傑](../Page/今田傑.md "wikilink")を獲得した。
 
@@ -19,7 +19,7 @@
 
 ## 歴史
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に東北リーグから旧JFLに昇格、[1999年](../Page/1999年.md "wikilink")からの新JFLには発足当初から加入。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")から[旧JFLに昇格](../Page/ジャパンフットボールリーグ.md "wikilink")、[1999年](../Page/1999年.md "wikilink")からの[JFLには発足当初から加入](../Page/日本フットボールリーグ.md "wikilink")。
 
 ### 2008年
 
@@ -520,7 +520,7 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 
 ### チーム
 
-  - 日本フットボールリーグ
+  - **[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")**
       - **優勝：1回** ([2015年](https://ja.wikipedia.org/wiki/第17回日本フットボールリーグ "wikilink"))
       - **フェアプレー賞** （2014年）
   - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域リーグ決勝大会 "wikilink")**

@@ -13,7 +13,7 @@
 
 1966年の閣議決定による新東京国際空港の建設計画始動以来、[東京都心から約](../Page/東京都区部.md "wikilink")70[km離れた同港と都心部を結ぶ交通機関について](../Page/キロメートル.md "wikilink")、日本国政府の基本方針は道路交通を主軸に据え、[新空港自動車道](../Page/新空港自動車道.md "wikilink")（現・[東関東自動車道](../Page/東関東自動車道.md "wikilink")）を建設、これを利用して[リムジンバス](../Page/リムジンバス.md "wikilink")を運行し、鉄道は[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）が建設を計画していた[成田新幹線](../Page/成田新幹線.md "wikilink")を基本に、国鉄[成田線](https://ja.wikipedia.org/wiki/成田線 "wikilink")を補助的に併用することで首尾一貫していた。
 
-この時点で、国鉄成田線と同様に都心から[成田市](../Page/成田市.md "wikilink")までを結ぶ既設鉄道線として、[京成上野と](https://ja.wikipedia.org/wiki/京成上野駅 "wikilink")[京成成田を結ぶ京成電鉄](../Page/京成成田駅.md "wikilink")[本線が存在していた](https://ja.wikipedia.org/wiki/京成本線 "wikilink")。だが、同線は元々[軌道条例](../Page/軌道条例.md "wikilink")に基づく[特許によって建設されたもので](https://ja.wikipedia.org/wiki/特許_\(行政法\) "wikilink")、[線形が良好とは言い難く](../Page/線形_\(路線\).md "wikilink")、また[待避線などの各種地上設備も](../Page/待避駅.md "wikilink")、十分とは言い難い状況にあった。
+この時点で、国鉄成田線と同様に都心から[成田市](../Page/成田市.md "wikilink")までを結ぶ既設鉄道線として、[京成上野と](https://ja.wikipedia.org/wiki/京成上野駅 "wikilink")[京成成田を結ぶ京成電鉄](../Page/京成成田駅.md "wikilink")[本線が存在していた](https://ja.wikipedia.org/wiki/京成本線 "wikilink")。だが、同線は元々[軌道条例](../Page/軌道条例.md "wikilink")に基づく[特許によって建設されたもので](https://ja.wikipedia.org/wiki/特許_\(行政法\) "wikilink")、[線形が良好とは言い難く](../Page/線形_\(路線\).md "wikilink")、また[待避線などの各種地上設備も不十分であった](../Page/待避駅.md "wikilink")。
 
 そのため、日本国政府の当初計画では新空港にアクセスするための交通機関として、京成電鉄の存在が顧慮されることはほとんどなかった。そこで京成電鉄は、自社営業圏内で旅客需要増を期待できるこの好機に、自己資本での京成成田から新空港までの延長線建設と、専用車両による空港[特別急行列車](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")の運転を計画することとした。
 

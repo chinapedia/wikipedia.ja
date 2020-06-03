@@ -239,8 +239,8 @@
 
 ## 外部リンク
 
-  - [NHKきょうのニュース](http://www.nhk.or.jp/r1/news/)
-  - [NHKラジオニュース](http://www.nhk.or.jp/radionews/index.html)
+  - [NHKきょうのニュース](https://www.nhk.or.jp/r1/news/)
+  - [NHKラジオニュース](https://www.nhk.or.jp/radionews/index.html)
   - [NHKきょうのニュース　- NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040063_00000)（テレビ版初期のもの）
 
 [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink") [Category:NHKラジオ第1の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKラジオ第1の帯番組の歴史 "wikilink") [Category:NHK-FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK-FMの帯番組の歴史 "wikilink") [Category:NHKワールドの番組](https://ja.wikipedia.org/wiki/Category:NHKワールドの番組 "wikilink") [Category:NHKのラジオニュース・報道番組](https://ja.wikipedia.org/wiki/Category:NHKのラジオニュース・報道番組 "wikilink")

@@ -47,14 +47,55 @@
 
 ### シングル
 
-|   | 発売日         | タイトル                                                                            | カップリング                                                                                         |
-| - | ----------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 1 | 2004年5月19日  | [恋のバカンス](https://ja.wikipedia.org/wiki/恋のバカンス_\(曲\)#W（ダブルユー）によるカヴァー "wikilink") | 月影のナポリ(TINTARELLA DI LUNA) [悲しき16才](../Page/悲しき16才.md "wikilink")(HEARTACHES AT SWEET SIXTEEN) |
-| 2 | 2004年8月18日  | [あぁ いいな\!](../Page/あぁ_いいな!.md "wikilink")                                       | 乙女の携帯電話の秘密                                                                                     |
-| 3 | 2004年10月14日 | [ロボキッス](https://ja.wikipedia.org/wiki/ロボキッス "wikilink")                         | SEXY SNOW                                                                                      |
-| 4 | 2005年2月9日   | [恋のフーガ](https://ja.wikipedia.org/wiki/恋のフーガ#W（ダブルユー）バージョン "wikilink")           | [ふりむかないで](../Page/ふりむかないで_\(ザ・ピーナッツの曲\).md "wikilink")                                         |
-| 5 | 2005年5月18日  | [愛の意味を教えて\!](https://ja.wikipedia.org/wiki/愛の意味を教えて! "wikilink")                | ジンクス                                                                                           |
-| 6 | 2005年9月7日   | [Missラブ探偵](https://ja.wikipedia.org/wiki/Missラブ探偵 "wikilink")                   | FRIENDSHIP                                                                                     |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>カップリング</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2004年5月19日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/恋のバカンス_(曲)#W（ダブルユー）によるカヴァー" title="wikilink">恋のバカンス</a></p></td>
+<td><p>月影のナポリ(TINTARELLA DI LUNA)<br />
+<a href="../Page/悲しき16才.md" title="wikilink">悲しき16才</a>(HEARTACHES AT SWEET SIXTEEN)</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2004年8月18日</p></td>
+<td><p><a href="../Page/あぁ_いいな!.md" title="wikilink">あぁ いいな!</a></p></td>
+<td><p>乙女の携帯電話の秘密</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2004年10月14日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ロボキッス" title="wikilink">ロボキッス</a></p></td>
+<td><p>SEXY SNOW</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2005年2月9日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/恋のフーガ#W（ダブルユー）バージョン" title="wikilink">恋のフーガ</a></p></td>
+<td><p><a href="../Page/ふりむかないで_(ザ・ピーナッツの曲).md" title="wikilink">ふりむかないで</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2005年5月18日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛の意味を教えて!" title="wikilink">愛の意味を教えて!</a></p></td>
+<td><p>ジンクス</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2005年9月7日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Missラブ探偵" title="wikilink">Missラブ探偵</a></p></td>
+<td><p>FRIENDSHIP</p></td>
+</tr>
+</tbody>
+</table>
 
 
 \===アルバム===

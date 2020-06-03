@@ -764,7 +764,7 @@
 </tr>
 <tr class="even">
 <td><p>54</p></td>
-<td><p>2020年4月22日（予定）</p></td>
+<td><p>2020年5月27日（予定）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/YES_AND_NO／G" title="wikilink">YES AND NO／G</a></strong></p></td>
 <td><p>UMCK-5690</p></td>
 <td><p>TBA</p></td>
@@ -1075,7 +1075,7 @@
 | Blu-ray                                                        | UMXK-1062                                                                                                                                                               |                                                                                                                                                    |                                  |                |
 | 2019年6月19日                                                     | [ENEOS×DREAMS COME TRUE ドリカム30周年前夜祭 〜ENERGY for ALL〜](https://ja.wikipedia.org/wiki/ENEOS×DREAMS_COME_TRUE_ドリカム30周年前夜祭_〜ENERGY_for_ALL〜 "wikilink")                     | DVD                                                                                                                                                | UMBK-1275                        |                |
 | Blu-ray                                                        | UMXK-1069                                                                                                                                                               |                                                                                                                                                    |                                  |                |
-| 2020年3月18日（予定）                                                 | [史上最強の移動遊園地 DREAMS COME TRUE WONDERLAND 2019](https://ja.wikipedia.org/wiki/史上最強の移動遊園地_DREAMS_COME_TRUE_WONDERLAND_2019 "wikilink")                                     | DVD                                                                                                                                                | UMXK-1078-9                      |                |
+| 2020年3月18日                                                     | [史上最強の移動遊園地 DREAMS COME TRUE WONDERLAND 2019](https://ja.wikipedia.org/wiki/史上最強の移動遊園地_DREAMS_COME_TRUE_WONDERLAND_2019 "wikilink")                                     | DVD                                                                                                                                                | UMXK-1078-9                      |                |
 | Blu-ray                                                        | UMBK-1288/9                                                                                                                                                             |                                                                                                                                                    |                                  |                |
 
   - ファンクラブ限定販売
@@ -3402,23 +3402,112 @@ The best covers of DREAMS COME TRUE ドリウタフェス 2017 in 大阪舞洲\[
 
 ※これまでに計15回出場している\[79\]。2009年の[第60回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink")と2010年の[第61回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")では紅組のトリを務めた\[80\]。2008年と2011年、2012年にもNHK側から出演オファーはあったが、2008年は「2009年のデビュー20周年に向けての準備のため」、2011年は「2011年に行われたコンサートツアー大阪公演の延期に伴うその後の楽曲制作のスケジュールが遅れ、楽曲制作に専念したい」、2012年は「カウントダウン優先」という理由により出演辞退した。
 
-| 年                                                                   | 出場回数 | 演奏曲                                                                                             | 備考                                                                                                                                           |
-| ------------------------------------------------------------------- | ---- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1990年/[第41回](../Page/第41回NHK紅白歌合戦.md "wikilink")                    | 初出場  | **[笑顔の行方](../Page/笑顔の行方.md "wikilink")**                                                        | トップバッター。                                                                                                                                     |
-| 1991年/[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")                    | 2    | **[Eyes to me](https://ja.wikipedia.org/wiki/Eyes_to_me/彼は友達 "wikilink")**                      |                                                                                                                                              |
-| 1992年/[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")                    | 3    | **[晴れたらいいね](../Page/晴れたらいいね.md "wikilink")〜紅白バージョン〜**                                           | 「[決戦は金曜日](https://ja.wikipedia.org/wiki/決戦は金曜日/太陽が見てる "wikilink")」を含むメドレー。                                                                   |
-| 1993年/[第44回](../Page/第44回NHK紅白歌合戦.md "wikilink")                    | 4    | **[go for it\!](https://ja.wikipedia.org/wiki/go_for_it!/雨の終わる場所 "wikilink")**                  | 第2部トップバッター。                                                                                                                                  |
-| 1994年/[第45回](../Page/第45回NHK紅白歌合戦.md "wikilink")                    | 5    | **[す き](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")〜紅白バージョン〜**                           | 「[WINTER SONG](../Page/WINTER_SONG.md "wikilink")」を含むメドレー。                                                                                   |
-| 1995年/[第46回](../Page/第46回NHK紅白歌合戦.md "wikilink")                    | 6    | **[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE/嵐が来る "wikilink")〜紅白バージョン〜**     | 「[ROMANCE](https://ja.wikipedia.org/wiki/ROMANCE/家へ帰ろ "wikilink")」、「[恋の罠しかけましょ](https://ja.wikipedia.org/wiki/恋の罠しかけましょ "wikilink")」を含むメドレー。 |
-| 1996年/[第47回](../Page/第47回NHK紅白歌合戦.md "wikilink")                    | 7    | **[そうだよ](https://ja.wikipedia.org/wiki/そうだよ/誘惑 "wikilink")**                                    |                                                                                                                                              |
-| 1997年/[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")                    | 8    | **[PEACE\!](https://ja.wikipedia.org/wiki/PEACE!/MARRY_ME? "wikilink")**                        |                                                                                                                                              |
-| 2004年/[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink") | 9    | **[やさしいキスをして](../Page/やさしいキスをして.md "wikilink")**                                                |                                                                                                                                              |
-| 2005年/[第56回](../Page/第56回NHK紅白歌合戦.md "wikilink")                    | 10   | **[何度でも](../Page/何度でも.md "wikilink")〜紅白スペシャルバージョン〜**                                            | 「やさしいキスをして」を含むメドレー。                                                                                                                          |
-| 2006年/[第57回](../Page/第57回NHK紅白歌合戦.md "wikilink")                    | 11   | **何度でも LOVE LOVE LOVE 2006**                                                                    | トリ前                                                                                                                                          |
-| 2007年/[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")                    | 12   | **[ア・イ・シ・テ・ルのサイン 〜わたしたちの未来予想図〜紅白ヴァージョン](../Page/ア・イ・シ・テ・ルのサイン_〜わたしたちの未来予想図〜.md "wikilink")**    | 「[未来予想図II](../Page/LOVE_GOES_ON….md "wikilink")」を含むメドレー。                                                                                     |
-| 2009年/[第60回](https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦 "wikilink") | 13   | **[その先へ](https://ja.wikipedia.org/wiki/その先へ "wikilink")〜紅白スペシャルバージョン〜**                         | 「MIDDLE OF NOWHERE」を含むメドレー。ドリカムの希望でニュートン・フォークナーと共演。紅組トリ。この年の紅白最高視聴率を記録した。                                                                    |
-| 2010年/[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink") | 14   | **[生きてゆくのです](https://ja.wikipedia.org/wiki/生きてゆくのです "wikilink")♡ feat. ザ紅白スペシャルブラスバンド**         | 紅組トリ。 マーチングバンド、ヨコハマロビンズとの共演。                                                                                                                 |
-| 2013年/[第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink") | 15   | **[さぁ鐘を鳴らせ](https://ja.wikipedia.org/wiki/さぁ鐘を鳴らせ/MADE_OF_GOLD_-featuring_DABADA- "wikilink")** | 岩手県陸前高田市・[高田小学校体育館より中継](https://ja.wikipedia.org/wiki/陸前高田市立高田小学校 "wikilink")。                                                               |
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>出場回数</p></th>
+<th><p>演奏曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1990年/<a href="../Page/第41回NHK紅白歌合戦.md" title="wikilink">第41回</a></p></td>
+<td><p>初出場</p></td>
+<td><p><strong><a href="../Page/笑顔の行方.md" title="wikilink">笑顔の行方</a></strong></p></td>
+<td><p><strong>先行トップバッター</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>1991年/<a href="../Page/第42回NHK紅白歌合戦.md" title="wikilink">第42回</a></p></td>
+<td><p>2</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Eyes_to_me/彼は友達" title="wikilink">Eyes to me</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1992年/<a href="../Page/第43回NHK紅白歌合戦.md" title="wikilink">第43回</a></p></td>
+<td><p>3</p></td>
+<td><p><strong><a href="../Page/晴れたらいいね.md" title="wikilink">晴れたらいいね</a>〜紅白バージョン〜</strong></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/決戦は金曜日/太陽が見てる" title="wikilink">決戦は金曜日</a>」を含むメドレー</p></td>
+</tr>
+<tr class="even">
+<td><p>1993年/<a href="../Page/第44回NHK紅白歌合戦.md" title="wikilink">第44回</a></p></td>
+<td><p>4</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/go_for_it!/雨の終わる場所" title="wikilink">go for it!</a></strong></p></td>
+<td><p>第2部トップバッター</p></td>
+</tr>
+<tr class="odd">
+<td><p>1994年/<a href="../Page/第45回NHK紅白歌合戦.md" title="wikilink">第45回</a></p></td>
+<td><p>5</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/すき/きづいてよ" title="wikilink">す き</a>〜紅白バージョン〜</strong></p></td>
+<td><p>「<a href="../Page/WINTER_SONG.md" title="wikilink">WINTER SONG</a>」を含むメドレー</p></td>
+</tr>
+<tr class="even">
+<td><p>1995年/<a href="../Page/第46回NHK紅白歌合戦.md" title="wikilink">第46回</a></p></td>
+<td><p>6</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE/嵐が来る" title="wikilink">LOVE LOVE LOVE</a>〜紅白バージョン〜</strong></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/ROMANCE/家へ帰ろ" title="wikilink">ROMANCE</a>」、「<a href="https://ja.wikipedia.org/wiki/恋の罠しかけましょ" title="wikilink">恋の罠しかけましょ</a>」を含むメドレー</p></td>
+</tr>
+<tr class="odd">
+<td><p>1996年/<a href="../Page/第47回NHK紅白歌合戦.md" title="wikilink">第47回</a></p></td>
+<td><p>7</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/そうだよ/誘惑" title="wikilink">そうだよ</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1997年/<a href="../Page/第48回NHK紅白歌合戦.md" title="wikilink">第48回</a></p></td>
+<td><p>8</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/PEACE!/MARRY_ME?" title="wikilink">PEACE!</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2004年/<a href="https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦" title="wikilink">第55回</a></p></td>
+<td><p>9</p></td>
+<td><p><strong><a href="../Page/やさしいキスをして.md" title="wikilink">やさしいキスをして</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2005年/<a href="../Page/第56回NHK紅白歌合戦.md" title="wikilink">第56回</a></p></td>
+<td><p>10</p></td>
+<td><p><strong><a href="../Page/何度でも.md" title="wikilink">何度でも</a>〜紅白スペシャルバージョン〜</strong></p></td>
+<td><p>「やさしいキスをして」を含むメドレー</p></td>
+</tr>
+<tr class="odd">
+<td><p>2006年/<a href="../Page/第57回NHK紅白歌合戦.md" title="wikilink">第57回</a></p></td>
+<td><p>11</p></td>
+<td><p><strong>何度でも LOVE LOVE LOVE 2006</strong></p></td>
+<td><p>トリ前</p></td>
+</tr>
+<tr class="even">
+<td><p>2007年/<a href="../Page/第58回NHK紅白歌合戦.md" title="wikilink">第58回</a></p></td>
+<td><p>12</p></td>
+<td><p><strong><a href="../Page/ア・イ・シ・テ・ルのサイン_〜わたしたちの未来予想図〜.md" title="wikilink">ア・イ・シ・テ・ルのサイン 〜わたしたちの未来予想図〜紅白ヴァージョン</a></strong></p></td>
+<td><p>「<a href="../Page/LOVE_GOES_ON….md" title="wikilink">未来予想図II</a>」を含むメドレー</p></td>
+</tr>
+<tr class="odd">
+<td><p>2009年/<a href="https://ja.wikipedia.org/wiki/第60回NHK紅白歌合戦" title="wikilink">第60回</a></p></td>
+<td><p>13</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/その先へ" title="wikilink">その先へ</a>〜紅白スペシャルバージョン〜</strong></p></td>
+<td><p>「MIDDLE OF NOWHERE」を含むメドレー、<br />
+ドリカムの希望でニュートン・フォークナーと共演、<br />
+<strong>紅組トリ</strong>、<br />
+この年の紅白最高視聴率を記録した</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年/<a href="https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦" title="wikilink">第61回</a></p></td>
+<td><p>14</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/生きてゆくのです" title="wikilink">生きてゆくのです</a>♡ feat. ザ紅白スペシャルブラスバンド</strong></p></td>
+<td><p><strong>紅組トリ（2）</strong>・<br />
+マーチングバンド、ヨコハマロビンズとの共演。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2013年/<a href="https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦" title="wikilink">第64回</a></p></td>
+<td><p>15</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/さぁ鐘を鳴らせ/MADE_OF_GOLD_-featuring_DABADA-" title="wikilink">さぁ鐘を鳴らせ</a></strong></p></td>
+<td><p>岩手県陸前高田市・<a href="https://ja.wikipedia.org/wiki/陸前高田市立高田小学校" title="wikilink">高田小学校体育館より中継</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ### 映画
 

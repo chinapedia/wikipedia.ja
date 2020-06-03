@@ -341,7 +341,7 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>11:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong></p></td>
+<td><p>11:00 <strong>Power of Music ～今こそ聴きたい音楽～</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -349,17 +349,17 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p>12:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong><br />
+<td><p>12:00 <strong>Power of Music ～今こそ聴きたい音楽～</strong><br />
 ▽12:51 New Fire</p></td>
-<td><p>DJ：石倉ノア ▽15:49 InterFM897 LLLLIVE</p></td>
-<td><p>▽15:51 New Fire</p></td>
-<td><p>DJ：石倉ノア</p></td>
-<td><p>12:00 <strong>TOKYO TRACKS ～今、聴きたい東京のオト～</strong></p></td>
+<td><p>- 石倉ノア</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
+<td><p>13:00 <strong>Power of Music ～今こそ聴きたい音楽～</strong> - Samantha Vega</p></td>
 <td><p>13:00 <strong>George's Melting Pot</strong> - <a href="../Page/ジョージ・ウィリアムズ_(タレント).md" title="wikilink">George Williams</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -865,6 +865,9 @@ InterFMに[2013年](../Page/2013年.md "wikilink")[11月1日](../Page/11月1日.
   - Forever Young - [ちゃんみな](https://ja.wikipedia.org/wiki/ちゃんみな "wikilink")
   - Dr.Martens presents Tough As You / ジョー横溝
   - RADIO GNU / [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")（期間限定で復活の場合あり） ※King Gnu 初のラジオレギュラー番組
+  - NEXT UP\!
+
+など
 
 </div>
 

@@ -1417,7 +1417,7 @@
   - TBS（制作局）：日曜 19:30 - 20:00（1967年3月まで）→ 水曜 18:00 - 18:30（1967年4月から）
   - [北海道放送](../Page/北海道放送.md "wikilink")：日曜 19:30 - 20:00\[35\]
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")：水曜 18:15 - 18:45（1965年9月）→ 月曜 19:30 - 20:00（1965年10月 - 1966年3月）→ 日曜 19:30 - 20:00（1966年4月から）\[36\]
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：日曜 18:00 - 18:30（1966年3月まで）→ 日曜 19:30 - 20:00（1966年4月から）\[37\]
+  - [秋田放送](../Page/秋田放送.md "wikilink")：日曜 18:00 - 18:30（1966年3月まで）→ 日曜 19:30 - 20:00（1966年4月から）\[37\]
   - [山形放送](../Page/山形放送.md "wikilink")：月曜 19:30 - 20:00（1966年3月まで）→ 日曜 19:30 - 20:00（1966年4月から）\[38\]
   - [岩手放送](../Page/IBC岩手放送.md "wikilink")：日曜 19:30 - 20:00\[39\]
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[40\]
@@ -2323,7 +2323,7 @@
   - 日本テレビ（制作局）：水曜 19:30 - 20:00
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")：水曜 19:30 - 20:00\[50\]
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")：火曜 19:00 - 19:30（第4話まで）→ 水曜 19:30 - 20:00（第6話から）\[51\]
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：水曜 19:30 - 20:00\[52\]
+  - [秋田放送](../Page/秋田放送.md "wikilink")：水曜 19:30 - 20:00\[52\]
   - [山形放送](../Page/山形放送.md "wikilink")：水曜 19:30 - 20:00\[53\]
   - [宮城テレビ](../Page/宮城テレビ放送.md "wikilink")：水曜 19:30 - 20:00\[54\]
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")：水曜 19:30 - 20:00（1971年10月より）\[55\]
@@ -2717,7 +2717,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>火曜 17:30 - 18:00</p></td>
 <td></td>
@@ -2776,7 +2776,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>水曜 17:20 - 17:50[65]</p></td>
 <td><p>途中で打ち切り。</p></td>

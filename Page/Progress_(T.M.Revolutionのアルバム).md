@@ -18,7 +18,7 @@ the end of genesis T.M.R.evolution turbo type Dとしての活動を経て、新
 3.  **[LOVE SAVER](https://ja.wikipedia.org/wiki/魔弾_〜Der_Freischütz〜/LOVE_SAVER "wikilink")**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：[日音](../Page/日音.md "wikilink")
-4.  **[BLACK OR WHITE? version 3](https://ja.wikipedia.org/wiki/BLACK_OR_WHITE?_version_3 "wikilink")**
+4.  **[BLACK OR WHITE? version 3](../Page/BLACK_OR_WHITE?_version_3.md "wikilink")**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")
 5.  **last resort**
@@ -36,7 +36,7 @@ the end of genesis T.M.R.evolution turbo type Dとしての活動を経て、新
 9.  **fragile**
       - 作詞：西川貴教　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
-10. **[HEAT CAPACITY](https://ja.wikipedia.org/wiki/HEAT_CAPACITY "wikilink")**
+10. **[HEAT CAPACITY](../Page/HEAT_CAPACITY.md "wikilink")**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：ソニー・ミュージックアーティスツ
 11. **Trace Millennium Road**

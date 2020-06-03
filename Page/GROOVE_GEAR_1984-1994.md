@@ -123,7 +123,7 @@
         7thアルバム『[RHYTHM RED](../Page/RHYTHM_RED.md "wikilink")』収録曲。ライブツアー『[RHYTHM RED TMN TOUR](https://ja.wikipedia.org/wiki/TM_NETWORK_RHYTHM_RED_TMN_TOUR "wikilink") ([1991年](../Page/1991年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") [仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")イズミティー)』からの音源。
 10. **[GET WILD](../Page/Get_Wild.md "wikilink") (LIVE VERSION)**
       -
-        10thシングル。ライブツアー『RHYTHM RED TMN TOUR (1991年2月22日 仙台イズミティー)』からの音源。後に『[ALL the “Get Wild” ALBUM](https://ja.wikipedia.org/wiki/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX "wikilink")』に再収録された際には(**“RHYTHM RED TMN TOUR”Version**)と改称されている。ライブビデオ『[WORLD'S END II Rhythm Red Live](../Page/WORLD'S_END_Rhythm_Red_Live.md "wikilink")』にも収録されているが、こちらは収録日が異なっている。
+        10thシングル。ライブツアー『RHYTHM RED TMN TOUR (1991年2月22日 仙台イズミティー)』からの音源。後に『[ALL the “Get Wild” ALBUM](../Page/WORLD_HERITAGE_DOUBLE-DECADE_COMPLETE_BOX.md "wikilink")』に再収録された際には(**“RHYTHM RED TMN TOUR”Version**)と改称されている。ライブビデオ『[WORLD'S END II Rhythm Red Live](../Page/WORLD'S_END_Rhythm_Red_Live.md "wikilink")』にも収録されているが、こちらは収録日が異なっている。
 11. **DAWN VALLEY**
       - 作曲・編曲：小室哲哉
       - 5thアルバム『humansystem』収録曲。

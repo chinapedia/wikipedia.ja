@@ -30,7 +30,7 @@
 ## 関連項目
 
   - [ロバート・キング・マートン](../Page/ロバート・キング・マートン.md "wikilink")
-  - [アメリカ例外主義](https://ja.wikipedia.org/wiki/アメリカ例外主義 "wikilink")
+  - [アメリカ例外主義](../Page/アメリカ例外主義.md "wikilink")
   - [イデオロギーの終焉](https://ja.wikipedia.org/wiki/イデオロギーの終焉 "wikilink")
 
 ## 外部リンク

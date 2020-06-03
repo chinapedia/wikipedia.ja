@@ -116,4 +116,4 @@ public class FlyweightTest {
 
   - [Javaの理論と実践: 可変性か、不変性か?](http://www.ibm.com/developerworks/jp/java/library/j-jtp02183/)
 
-[Category:デザインパターン_(ソフトウェア)](https://ja.wikipedia.org/wiki/Category:デザインパターン_\(ソフトウェア\) "wikilink") [Category:コンピュータの最適化](https://ja.wikipedia.org/wiki/Category:コンピュータの最適化 "wikilink")
+[Category:デザインパターン_(ソフトウェア)](https://ja.wikipedia.org/wiki/Category:デザインパターン_\(ソフトウェア\) "wikilink") [Category:ソフトウェア最適化](https://ja.wikipedia.org/wiki/Category:ソフトウェア最適化 "wikilink")

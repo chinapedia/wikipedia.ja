@@ -242,7 +242,7 @@
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・プラクティス_ボストン弁護士ファイル" title="wikilink">ザ・プラクティス ボストン弁護士ファイル</a><br />
+<td><p><a href="../Page/ザ・プラクティス_ボストン弁護士ファイル.md" title="wikilink">ザ・プラクティス ボストン弁護士ファイル</a><br />
 <em>The Practice</em></p></td>
 <td><p>パーカー</p></td>
 <td><p>計1話出演 |-　</p></td>

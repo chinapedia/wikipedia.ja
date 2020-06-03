@@ -215,7 +215,7 @@ NWR-2024:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010_(Studio_Apartmentのアルバム)" title="wikilink">2010</a></p></td>
 <td><p>XNNW-11007</p></td>
 <td><ol>
@@ -329,7 +329,7 @@ NWR-2024:通常盤</p></td>
 | 2006年[4月26日](../Page/4月26日.md "wikilink")                                                                                                      | Heroes                                                             | [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")                      | 「[Catch The Wave](../Page/Catch_The_Wave.md "wikilink")」                            |
 | 2006年[8月9日](../Page/8月9日.md "wikilink")                                                                                                        | These boots are made for walkin' -STUDIO APARTMENT Impulse Groove- | [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")                              | 「[stuck on you](https://ja.wikipedia.org/wiki/stuck_on_you "wikilink")」             |
 | [2006年](../Page/2006年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")                                                                     | Everytime                                                          | [arvin homa aya](https://ja.wikipedia.org/wiki/arvin_homa_aya "wikilink")          | 「Amazing」                                                                           |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")                                                      | Bitter...                                                          | [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") joins S.A.(Studio Apartment) | 「[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")」             |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")                                                      | Bitter...                                                          | [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") joins S.A.(Studio Apartment) | 「[DOLCE](../Page/DOLCE_\(鈴木亜美のアルバム\).md "wikilink")」                                |
 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")〜[5月31日](../Page/5月31日.md "wikilink")期間限定（ダウンロードのみ） | Treasure                                                           | [ERIKA](https://ja.wikipedia.org/wiki/ERIKA "wikilink") × STUDIO APARTMENT         | 期間限定無料配信（CD化は未定）                                                                    |
 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")                                                    | FREE                                                               | Baby M                                                                             | 「Baby M」                                                                            |
 | 2014年10月1日                                                                                                                                     | ほほ笑みモード                                                            | 花澤香菜                                                                               | 「ほほ笑みモード」                                                                           |
@@ -828,7 +828,7 @@ WPCL-12083</p></td>
 <td><p>2015年07月01日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/GACKT" title="wikilink">GACKT</a>「<a href="https://ja.wikipedia.org/wiki/GACKTracks_-ULTRA_DJ_ReMIX-" title="wikilink">GACKTracks -ULTRA DJ ReMIX-</a>」</p></td>
 <td><p>GLCD-00013</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/REDEMPTION" title="wikilink">REDEMPTION</a> (STUDIO APARTMENT ReMIX)</p></td>
+<td><p><a href="../Page/REDEMPTION.md" title="wikilink">REDEMPTION</a> (STUDIO APARTMENT ReMIX)</p></td>
 </tr>
 <tr class="odd">
 <td></td>

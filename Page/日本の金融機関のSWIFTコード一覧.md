@@ -58,7 +58,7 @@
   - **0035**　[ソニー銀行](../Page/ソニー銀行.md "wikilink")　**SNYBJPJT**\[1\]
   - **0036**　[楽天銀行](../Page/楽天銀行.md "wikilink")　**RAKTJPJT**
   - 0037　(旧)[日本振興銀行](../Page/日本振興銀行.md "wikilink")　**なし**
-  - **0038**　[住信SBIネット銀行](https://ja.wikipedia.org/wiki/住信SBIネット銀行 "wikilink")　**NTSSJPJT**
+  - **0038**　[住信SBIネット銀行](../Page/住信SBIネット銀行.md "wikilink")　**NTSSJPJT**
   - **0039**　[じぶん銀行](https://ja.wikipedia.org/wiki/じぶん銀行 "wikilink")　**JICRJPJ1**
   - **0040**　[イオン銀行](../Page/イオン銀行.md "wikilink")　**AEONJPJT**
   - **0041**　[大和ネクスト銀行](https://ja.wikipedia.org/wiki/大和ネクスト銀行 "wikilink")　**DNEXJPJT**
@@ -224,7 +224,7 @@
   - **0443**　[ビー・エヌ・ピー・パリバ銀行](https://ja.wikipedia.org/wiki/ビー・エヌ・ピー・パリバ銀行 "wikilink")
   - **0444**　[オーバーシー・チャイニーズ銀行](../Page/オーバーシー・チャイニーズ銀行.md "wikilink")
   - **0445**　[ソシエテ ジェネラル銀行](https://ja.wikipedia.org/wiki/ソシエテ_ジェネラル銀行 "wikilink")
-  - **0446**　[ドレスナー銀行](https://ja.wikipedia.org/wiki/ドレスナー銀行 "wikilink")
+  - **0446**　[ドレスナー銀行](../Page/ドレスナー銀行.md "wikilink")
   - **0454**　[ユニオン・バンク・オブ・カリフォルニア](https://ja.wikipedia.org/wiki/ユニオン・バンク・オブ・カリフォルニア "wikilink")　**BOFCJPJT**
   - **0456**　[ユバフーアラブ・フランス連合銀行](https://ja.wikipedia.org/wiki/ユバフーアラブ・フランス連合銀行 "wikilink")
   - **0457**　[ウエストドイッチェ・ランデスバンク](https://ja.wikipedia.org/wiki/ウエストドイッチェ・ランデスバンク "wikilink")

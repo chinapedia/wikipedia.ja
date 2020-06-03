@@ -7,7 +7,7 @@
 
 ## 歴史
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）、[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")より創刊した。発行人は、同社でディスコ情報誌『HEAVEN'S DOOR』などを手がけた中川一晃。中川編集長は、創刊からミリオン出版が大洋図書に吸収された後も、編集長職を10年以上務め上げた。一部で、クリエイティブディレクターの[米原康正](https://ja.wikipedia.org/wiki/米原康正 "wikilink")が『egg』の創刊者となっているが、当時は外注スタッフであった\[2\]。当時の[渋谷](../Page/渋谷.md "wikilink")女子高生のリアルを切り取り、以後のギャル文化に大きな影響を与えた。なお当時は、女子高生、[ルーズソックス](../Page/ルーズソックス.md "wikilink")、[コギャル](https://ja.wikipedia.org/wiki/コギャル "wikilink")、[へそ出しルック](https://ja.wikipedia.org/wiki/へそ出しルック "wikilink")、[小室サウンド](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[PHS](../Page/PHS.md "wikilink")などが流行した\[3\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）、[ミリオン出版](../Page/ミリオン出版.md "wikilink")より創刊した。発行人は、同社でディスコ情報誌『HEAVEN'S DOOR』などを手がけた中川一晃。中川編集長は、創刊からミリオン出版が大洋図書に吸収された後も、編集長職を10年以上務め上げた。一部で、クリエイティブディレクターの[米原康正](https://ja.wikipedia.org/wiki/米原康正 "wikilink")が『egg』の創刊者となっているが、当時は外注スタッフであった\[2\]。当時の[渋谷](../Page/渋谷.md "wikilink")女子高生のリアルを切り取り、以後のギャル文化に大きな影響を与えた。なお当時は、女子高生、[ルーズソックス](../Page/ルーズソックス.md "wikilink")、[コギャル](https://ja.wikipedia.org/wiki/コギャル "wikilink")、[へそ出しルック](https://ja.wikipedia.org/wiki/へそ出しルック "wikilink")、[小室サウンド](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、[PHS](../Page/PHS.md "wikilink")などが流行した\[3\]。
 
 [2014年](../Page/2014年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")発売の7月号で休刊となると報じられる\[4\]\[5\]。
 

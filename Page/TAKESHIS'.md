@@ -1,7 +1,7 @@
 > この記事は[TAKESHIS\'](https://ja.wikipedia.org/wiki/TAKESHIS\')から翻訳されています。
 
 
-『**TAKESHIS**'』（タケシズ）は、[北野武が監督を務めた](../Page/ビートたけし.md "wikilink")12作目の[日本映画](../Page/日本映画.md "wikilink")。 [第62回ヴェネツィア国際映画祭](https://ja.wikipedia.org/wiki/第62回ヴェネツィア国際映画祭 "wikilink")コンペティション部門正式出品作品。
+『**TAKESHIS**'』（タケシズ）は、[北野武が監督を務めた](../Page/ビートたけし.md "wikilink")12作目の[日本映画](../Page/日本映画.md "wikilink")。 [第62回ヴェネツィア国際映画祭](../Page/第62回ヴェネツィア国際映画祭.md "wikilink")コンペティション部門正式出品作品。
 
 キャッチコピーは「500% KITANO」「たけしがたけしを演じる」「『たけし』が『たけし』に出会う」
 

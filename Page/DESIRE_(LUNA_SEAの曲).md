@@ -5,7 +5,7 @@
 
 ## 解説
 
-バンドの初[東京ドーム](../Page/東京ドーム.md "wikilink")公演「LUNATIC TOKYO」の直前にリリースされた。 発売当時SUGIZOは「LUNA SEAは攻撃的なバンドだという確固たる姿勢を打ち出したかった」と雑誌で語っている。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+バンドの初[東京ドーム](../Page/東京ドーム.md "wikilink")公演「LUNATIC TOKYO」の直前にリリースされた。 発売当時SUGIZOは「LUNA SEAは攻撃的なバンドだという確固たる姿勢を打ち出したかった」と雑誌で語っている。
 
 ## 収録曲
 

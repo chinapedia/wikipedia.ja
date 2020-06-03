@@ -28,4 +28,4 @@
   - [5years](https://ja.wikipedia.org/wiki/5years "wikilink") (\#1)
   - [10years](https://ja.wikipedia.org/wiki/10years "wikilink") (\#1)
 
-[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:魔法・呪術を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:魔法・呪術を題材とした楽曲 "wikilink") [Category:音楽を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:音楽を題材とした楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")

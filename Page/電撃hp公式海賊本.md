@@ -1,9 +1,9 @@
 > この記事は[電撃hp公式海賊本](https://ja.wikipedia.org/wiki/電撃hp公式海賊本)から翻訳されています。
 
 
-**電撃hp公式海賊本**（でんげきエイチピーこうしきかいぞくぼん）は、[メディアワークス](../Page/メディアワークス.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")系[文芸雑誌](../Page/文芸雑誌.md "wikilink")『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")』『[電撃文庫MAGAZINE](https://ja.wikipedia.org/wiki/電撃文庫MAGAZINE "wikilink")』で掲載・文庫化に至らなかった作品や、番外編を収録した[アンソロジー](../Page/アンソロジー.md "wikilink")集。[2003年](../Page/2003年.md "wikilink")の『**電撃ヴんこ**』から毎年1〜2冊刊行されている。
+**電撃hp公式海賊本**（でんげきエイチピーこうしきかいぞくぼん）は、[メディアワークス](../Page/メディアワークス.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")系[文芸雑誌](../Page/文芸雑誌.md "wikilink")『[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")』『[電撃文庫MAGAZINE](../Page/電撃文庫MAGAZINE.md "wikilink")』で掲載・文庫化に至らなかった作品や、番外編を収録した[アンソロジー](../Page/アンソロジー.md "wikilink")集。[2003年](../Page/2003年.md "wikilink")の『**電撃ヴんこ**』から毎年1〜2冊刊行されている。
 
-[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")・[電撃文庫MAGAZINE](https://ja.wikipedia.org/wiki/電撃文庫MAGAZINE "wikilink")で告知があり、そこでの誌上通販や、メディアワークスの通販サイト[電撃屋.com](https://ja.wikipedia.org/wiki/電撃屋.com "wikilink")などで販売する。また一部の[キャラクターグッズ](https://ja.wikipedia.org/wiki/キャラクターグッズ "wikilink")専門店でフェアの一環として、そしてメディアワークスのイベントなどで販売されることが稀にある。 そのため、購入のタイミングを逸すると入手が難しい類の本であるかもしれない。主にイベントで販売された電撃文庫の公式海賊本も扱う。
+[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")・[電撃文庫MAGAZINE](../Page/電撃文庫MAGAZINE.md "wikilink")で告知があり、そこでの誌上通販や、メディアワークスの通販サイト[電撃屋.com](https://ja.wikipedia.org/wiki/電撃屋.com "wikilink")などで販売する。また一部の[キャラクターグッズ](https://ja.wikipedia.org/wiki/キャラクターグッズ "wikilink")専門店でフェアの一環として、そしてメディアワークスのイベントなどで販売されることが稀にある。 そのため、購入のタイミングを逸すると入手が難しい類の本であるかもしれない。主にイベントで販売された電撃文庫の公式海賊本も扱う。
 
 ## 電撃ヴんこ
 

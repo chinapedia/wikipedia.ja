@@ -5,7 +5,7 @@
 
 ## 解説
 
-4th[アルバム](../Page/アルバム.md "wikilink")『[MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")である。彼らのシングルとしては初の[バラード](../Page/バラード.md "wikilink")となった。またこの楽曲の[プロモーション・ビデオは](../Page/ミュージック・ビデオ.md "wikilink")[アイルランド](../Page/アイルランド.md "wikilink")で撮影された。[カップリングにはライブ音源が収録されている](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+4th[アルバム](../Page/アルバム.md "wikilink")『[MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")』からの[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")である。彼らのシングルとしては初の[バラード](../Page/バラード.md "wikilink")となった。またこの楽曲の[プロモーション・ビデオは](../Page/ミュージック・ビデオ.md "wikilink")[アイルランド](../Page/アイルランド.md "wikilink")で撮影された。[カップリングにはライブ音源が収録されている](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。
 
 ## 収録曲
 

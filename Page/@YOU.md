@@ -117,7 +117,7 @@
   - 巨乳性欲奴隷 (2月18日、スカッド)
   - Mスペシャル 痴女オールスター2008 (2月18日、レアル・ワークス)共演:乃亜、[立花里子](../Page/立花里子.md "wikilink")、[三浦亜沙妃](../Page/三浦亜沙妃.md "wikilink")、麻生岬、大石もえ
   - 兄貴の嫁さん (4月1日、溜池ゴロー)
-  - 淫乱巨乳 (4月4日、[GLAY'z](https://ja.wikipedia.org/wiki/GLAY'z "wikilink"))オムニバス作品 他出演:白雪彩、[滝沢優季](https://ja.wikipedia.org/wiki/滝沢優季 "wikilink")、[坂本愛海](https://ja.wikipedia.org/wiki/坂本愛海 "wikilink")
+  - 淫乱巨乳 (4月4日、[GLAY'z](https://ja.wikipedia.org/wiki/GLAY'z "wikilink"))オムニバス作品 他出演:白雪彩、[滝沢優季](https://ja.wikipedia.org/wiki/滝沢優季 "wikilink")、[坂本愛海](../Page/坂本愛海.md "wikilink")
   - 陵辱・拘束・絶頂。Burrying (4月7日、桃太郎映像出版)
   - MOODYZファン感謝祭 バコバコバスツアー2008 超\!極乳天国へようこそ\!\! (4月13日、MOODYZ)他多数共演
   - 女子校生 巨乳性欲奴隷 (4月25日、スカッド)

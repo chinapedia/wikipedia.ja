@@ -68,7 +68,7 @@
 
 **2016年**
 
-  - [1月30日](../Page/1月30日.md "wikilink") - 放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の番組「北陸・青森・函館へ\!パパママ&女子会の旅」の「温泉満喫の旅★女子会:青森・函館　女磨きの旅」で、[五稜郭タワー](../Page/五稜郭タワー.md "wikilink")の展望台にてＧＯ太くんが、[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[杉原杏璃](../Page/杉原杏璃.md "wikilink")と出演。\[4\]
+  - [1月30日](../Page/1月30日.md "wikilink") - 放送された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の番組「北陸・青森・函館へ\!パパママ&女子会の旅」の「温泉満喫の旅★女子会:青森・函館　女磨きの旅」で、[五稜郭タワー](../Page/五稜郭タワー.md "wikilink")の展望台にてＧＯ太くんが、[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")、[杉原杏璃](../Page/杉原杏璃.md "wikilink")と出演。\[4\]
   - [3月3日](../Page/3月3日.md "wikilink")〜[3月4日](../Page/3月4日.md "wikilink") - [そごう徳島店](../Page/そごう徳島店.md "wikilink")「春の北海道物産展」にＧＯ太くんが登場。\[5\]
   - [3月11日](../Page/3月11日.md "wikilink")〜[3月13日](../Page/3月13日.md "wikilink") - 公益社団法人[青森県観光連盟](https://ja.wikipedia.org/wiki/青森県観光連盟 "wikilink")主催のイベント「つながる青森・みなみ北海道フェア in [アスパム](../Page/青森県観光物産館アスパム.md "wikilink")」にＧＯ太くんが、あおもり観光マスコットキャラクターの[いくべぇ](https://ja.wikipedia.org/wiki/いくべぇ "wikilink")と一緒に登場。\[6\]
   - [6月26日](../Page/6月26日.md "wikilink") - [交野市](../Page/交野市.md "wikilink")おりひめの駅運営委員会主催「交野いきいきマルシェおりひめの駅 with キャラパ in KATANO」にＧＯ太くんが登場。\[7\]

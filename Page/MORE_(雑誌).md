@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [加藤幸子](https://ja.wikipedia.org/wiki/加藤幸子_\(モデル\) "wikilink")
+  - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")
   - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")
   - [唐田えりか](https://ja.wikipedia.org/wiki/唐田えりか "wikilink")
   - [神田咲実](../Page/神田咲実.md "wikilink")
@@ -90,7 +90,7 @@
   - [高垣麗子](../Page/高垣麗子.md "wikilink")
   - 高橋佳奈
   - [竹下玲奈](../Page/竹下玲奈.md "wikilink")
-  - [田中伸子](https://ja.wikipedia.org/wiki/田中伸子 "wikilink")
+  - [田中伸子](../Page/田中伸子.md "wikilink")
   - [田中美保](../Page/田中美保_\(モデル\).md "wikilink")
 
 <!-- end list -->
@@ -118,7 +118,7 @@
 
 <!-- end list -->
 
-  - [八木秋香](https://ja.wikipedia.org/wiki/八木秋香 "wikilink")
+  - [八木秋香](../Page/八木秋香.md "wikilink")
   - [矢野未希子](../Page/矢野未希子.md "wikilink")
   - [山口いづみ](../Page/山口いづみ_\(ファッションモデル\).md "wikilink")
   - [山田みお](https://ja.wikipedia.org/wiki/山田みお "wikilink")

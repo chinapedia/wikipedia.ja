@@ -5,31 +5,31 @@
 
 ## 駅一覧
 
-| 駅名称                                                                       | イタリア語表記                    |
-| ------------------------------------------------------------------------- | -------------------------- |
-| [レビッビア駅](../Page/レビッビア駅.md "wikilink")                                    | *Rebibbia*                 |
-| [ポンテ・マンモロ駅](https://ja.wikipedia.org/wiki/ポンテ・マンモロ駅 "wikilink")           | *Ponte Mammolo-Cotral*     |
-| [S.M.ソッコルソ駅](https://ja.wikipedia.org/wiki/サンタ・マリア・デル・ソッコルソ駅 "wikilink")  | *Santa Maria del Soccorso* |
-| [ピエトララータ駅](https://ja.wikipedia.org/wiki/ピエトララータ駅 "wikilink")             | *Pietralata*               |
-| [モンティ・ティブルティーニ駅](https://ja.wikipedia.org/wiki/モンティ・ティブルティーニ駅 "wikilink") | *Monti Tiburtini*          |
-| [クインティリアーニ駅](../Page/クインティリアーニ駅.md "wikilink")                            | *Quintiliani*              |
-| [ティブルティーナ駅](../Page/ティブルティーナ駅_\(ローマ地下鉄\).md "wikilink")                   | *Tiburtina-Cotral*         |
-| [ボローニャ駅](../Page/ボローニャ駅_\(ローマ地下鉄\).md "wikilink")                         | *Bologna*                  |
-| [ポリクリーニコ駅](../Page/ポリクリーニコ駅_\(ローマ地下鉄\).md "wikilink")                     | *Policlinico*              |
-| [カストロ・プレトーリオ駅](../Page/カストロ・プレトーリオ駅.md "wikilink")                        | *Castro Pretorio*          |
-| [テルミニ駅](https://ja.wikipedia.org/wiki/テルミニ駅_\(ローマ地下鉄\) "wikilink")        | *Termini-Cotral*           |
-| [カヴール駅](../Page/カヴール駅.md "wikilink")                                      | *Cavour*                   |
-| [コロッセオ駅](../Page/コロッセオ駅.md "wikilink")                                    | *Colosseo*                 |
-| [チルコ・マッシモ駅](https://ja.wikipedia.org/wiki/チルコ・マッシモ駅 "wikilink")           | *Circo Massimo*            |
-| [ピラーミデ駅](https://ja.wikipedia.org/wiki/ピラーミデ駅 "wikilink")                 | *Piramide*                 |
-| [ガルバテッラ駅](https://ja.wikipedia.org/wiki/ガルバテッラ駅 "wikilink")               | *Garbatella*               |
-| [バジリカ・サン・パオロ駅](https://ja.wikipedia.org/wiki/バジリカ・サン・パオロ駅 "wikilink")     | *Basilica San Paolo*       |
-| [マルコーニ駅](https://ja.wikipedia.org/wiki/マルコーニ駅 "wikilink")                 | *Marconi*                  |
-| [エウル・マリアーナ駅](https://ja.wikipedia.org/wiki/エウル・マリアーナ駅 "wikilink")         | *Eur Magliana-Cotral*      |
-| [エウル・パラスポルト駅](https://ja.wikipedia.org/wiki/エウル・パラスポルト駅 "wikilink")       | *Eur Palasport*            |
-| [エウル・フェルミ駅](https://ja.wikipedia.org/wiki/エウル・フェルミ駅 "wikilink")           | *Eur Fermi*                |
-| [ラウレンティーナ駅](https://ja.wikipedia.org/wiki/ラウレンティーナ駅 "wikilink")           | *Laurentina-Cotral*        |
-|                                                                           |                            |
+| 駅名称                                                       | イタリア語表記                    |
+| --------------------------------------------------------- | -------------------------- |
+| [レビッビア駅](../Page/レビッビア駅.md "wikilink")                    | *Rebibbia*                 |
+| [ポンテ・マンモロ駅](../Page/ポンテ・マンモロ駅.md "wikilink")              | *Ponte Mammolo-Cotral*     |
+| [S.M.ソッコルソ駅](../Page/サンタ・マリア・デル・ソッコルソ駅.md "wikilink")     | *Santa Maria del Soccorso* |
+| [ピエトララータ駅](../Page/ピエトララータ駅.md "wikilink")                | *Pietralata*               |
+| [モンティ・ティブルティーニ駅](../Page/モンティ・ティブルティーニ駅.md "wikilink")    | *Monti Tiburtini*          |
+| [クインティリアーニ駅](../Page/クインティリアーニ駅.md "wikilink")            | *Quintiliani*              |
+| [ティブルティーナ駅](../Page/ティブルティーナ駅_\(ローマ地下鉄\).md "wikilink")   | *Tiburtina-Cotral*         |
+| [ボローニャ駅](../Page/ボローニャ駅_\(ローマ地下鉄\).md "wikilink")         | *Bologna*                  |
+| [ポリクリーニコ駅](../Page/ポリクリーニコ駅_\(ローマ地下鉄\).md "wikilink")     | *Policlinico*              |
+| [カストロ・プレトーリオ駅](../Page/カストロ・プレトーリオ駅.md "wikilink")        | *Castro Pretorio*          |
+| [テルミニ駅](../Page/テルミニ駅_\(ローマ地下鉄\).md "wikilink")           | *Termini-Cotral*           |
+| [カヴール駅](../Page/カヴール駅.md "wikilink")                      | *Cavour*                   |
+| [コロッセオ駅](../Page/コロッセオ駅.md "wikilink")                    | *Colosseo*                 |
+| [チルコ・マッシモ駅](../Page/チルコ・マッシモ駅.md "wikilink")              | *Circo Massimo*            |
+| [ピラーミデ駅](../Page/ピラーミデ駅.md "wikilink")                    | *Piramide*                 |
+| [ガルバテッラ駅](../Page/ガルバテッラ駅.md "wikilink")                  | *Garbatella*               |
+| [バジリカ・サン・パオロ駅](../Page/バジリカ・サン・パオロ駅.md "wikilink")        | *Basilica San Paolo*       |
+| [マルコーニ駅](https://ja.wikipedia.org/wiki/マルコーニ駅 "wikilink") | *Marconi*                  |
+| [エウル・マリアーナ駅](../Page/エウル・マリアーナ駅.md "wikilink")            | *Eur Magliana-Cotral*      |
+| [エウル・パラスポルト駅](../Page/エウル・パラスポルト駅.md "wikilink")          | *Eur Palasport*            |
+| [エウル・フェルミ駅](../Page/エウル・フェルミ駅.md "wikilink")              | *Eur Fermi*                |
+| [ラウレンティーナ駅](../Page/ラウレンティーナ駅.md "wikilink")              | *Laurentina-Cotral*        |
+|                                                           |                            |
 
 ### B1支線
 

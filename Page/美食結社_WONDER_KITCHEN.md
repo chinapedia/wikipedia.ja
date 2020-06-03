@@ -35,7 +35,7 @@
   - 熊本ホテルキャッスル 中国四川料理「桃花源」：斉藤隆士
   - 「カメレオン」　萩原雅彦
   - 「Ristorante Al Porto（リストランテ　アルポルト）」：[片岡護](https://ja.wikipedia.org/wiki/片岡護 "wikilink")
-  - 「銀座　寿司幸本店」：杉山衛
+  - 「[銀座寿司幸本店](https://ja.wikipedia.org/wiki/銀座寿司幸本店 "wikilink")」：[杉山衛](https://ja.wikipedia.org/wiki/杉山衛 "wikilink")
   - 「レストラン キノシタ」：木下 和彦
   - 「Azusa Mayuko Cooking Salon」：[梓真悠子](../Page/梓真悠子.md "wikilink") (料理研究家)
 

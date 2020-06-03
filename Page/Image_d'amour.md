@@ -12,7 +12,7 @@
 3.  [ムーンリヴァー](https://ja.wikipedia.org/wiki/ムーンリヴァー "wikilink") / JAZZTRONIK featuring [ヤドランカ](../Page/ヤドランカ.md "wikilink")
       -
         「[SONY](../Page/ソニー.md "wikilink") [WEGA](https://ja.wikipedia.org/wiki/WEGA "wikilink")」 CF曲
-4.  夢 / [手使海ユトロ](https://ja.wikipedia.org/wiki/手使海ユトロ "wikilink") featuring [宮本文昭](../Page/宮本文昭.md "wikilink")
+4.  夢 / [手使海ユトロ](../Page/手使海ユトロ.md "wikilink") featuring [宮本文昭](../Page/宮本文昭.md "wikilink")
       -
         [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[TBS系](../Page/TBSテレビ.md "wikilink")「[世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")」挿入歌
 5.  大河の一滴 / [加古隆](../Page/加古隆.md "wikilink")

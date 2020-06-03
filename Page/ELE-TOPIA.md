@@ -102,7 +102,7 @@
 
   - 木本和久は「Less talk, more music」を基本姿勢としているため、この番組でも出来るだけ音楽を放送し、無駄なおしゃべりを入れないように心掛けている。
   - CROSS FMの各番組宛のメールアドレスのドメインは「@crossfm.co.jp」だが、この番組では[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末までこのドメインを使わないアドレスが番組宛のメールアドレスとして使われていた。
-  - 木本和久は[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで、土曜日の27:00〜29:00に放送された「[NOONY MOON](https://ja.wikipedia.org/wiki/NOONY_MOON "wikilink")」を担当した。これは当時月曜日〜木曜日の12:00〜13:00に放送された「MOONY NOON」の[リンク](../Page/リンク.md "wikilink")[プログラム](../Page/プログラム.md "wikilink")として放送されていたが、その放送形式はこの番組と同じで、番組のメールアドレスもこの番組と同じ「@crossfm.co.jp」のドメインを使わない同じアドレスを宛先としていた。
+  - 木本和久は[2000年](../Page/2000年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで、土曜日の27:00〜29:00に放送された「[NOONY MOON](https://ja.wikipedia.org/wiki/NOONY_MOON "wikilink")」を担当した。これは当時月曜日〜木曜日の12:00〜13:00に放送された「MOONY NOON」の[リンク](../Page/リンク.md "wikilink")[プログラムとして放送されていたが](../Page/ラジオ番組.md "wikilink")、その放送形式はこの番組と同じで、番組のメールアドレスもこの番組と同じ「@crossfm.co.jp」のドメインを使わない同じアドレスを宛先としていた。
   - 2000年頃から2001年頃まで、番組のメールマガジンも配信されたが、数号配信されただけで廃刊となった。配信には[まぐまぐ](../Page/まぐまぐ.md "wikilink")が利用された。また一時期[北九州都市圏](../Page/北九州都市圏.md "wikilink")で発行されているタウン[情報誌](https://ja.wikipedia.org/wiki/情報誌 "wikilink")「おいらの街」でもこの番組に関連した執筆を行っていた。
   - 毎回の番組の終了間際に、木本和久の短い締めのトークとともに、「Bye-Bye」のコールで番組を締めくくっていた。この「Bye-Bye」のコールは「ぶぁいぶぁ〜い」と独特のイントネーションであったため番組の隠れた名物だった。
 

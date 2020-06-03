@@ -69,14 +69,32 @@
   - [ウラ嵐マニア](https://ja.wikipedia.org/wiki/ウラ嵐マニア "wikilink")（\#2, 初回限定盤\#3）
   - [5×20 All the BEST\!\! 1999-2019](https://ja.wikipedia.org/wiki/5×20_All_the_BEST!!_1999-2019 "wikilink")（\#1）
 
+## Love so sweet : Reborn
+
+「**Love so sweet : Reborn**」（ラヴ・ソー・スウィート・リボーン）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")3作目の配信限定シングル。[2020年](../Page/2020年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")にリリース。
+
+### 概要
+
+「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」、「[a Day in Our Life](https://ja.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")」、「[One Love](../Page/One_Love_\(嵐の曲\).md "wikilink")」に続く、嵐の過去のシングル曲をリプロダクションする"Reborn"企画の第4弾。\[11\]
+
+### 楽曲
+
+1.  **Love so sweet : Reborn** \[3:27\]
+      -
+        Written by SPIN, youth case, Ellen Shipley、Produced by After Hours
+    <!-- end list -->
+      - 18thシングルのリプロダクション楽曲
+
 ## 脚注
 
 ## 外部リンク
 
   - [Johnny's netによる紹介ページ](../Page/ジャニーズ事務所.md "wikilink")
       - [Love so sweet](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=138)
+      - [Love so sweet : Reborn](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=2329)
   - [J Stormによる紹介ページ](../Page/ジェイ・ストーム.md "wikilink")
       - [Love so sweet](https://www.j-storm.co.jp/arashi/discography/love-so-sweet)
+      - [Love so sweet : Reborn](https://www.j-storm.co.jp/arashi/discography/love-sweet-reborn)
 
 [Category:嵐の楽曲](https://ja.wikipedia.org/wiki/Category:嵐の楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:ジェイ・ストームの楽曲](https://ja.wikipedia.org/wiki/Category:ジェイ・ストームの楽曲 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:花より男子](https://ja.wikipedia.org/wiki/Category:花より男子 "wikilink") [Category:TBS金曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマの主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
@@ -90,3 +108,4 @@
 8.  『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』7月号、[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")、2015年、67頁3段目。
 9.  [嵐の人気曲ランキング](https://www.joysound.com/web/search/artist/6944/ranking) ジョイサウンド 2018年3月23日閲覧
 10. 11thアルバム『[Popcorn](https://ja.wikipedia.org/wiki/Popcorn "wikilink")』収録の[相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")のソロ曲とは無関係である。
+11. [嵐のReborn企画第4弾は「Love so sweet」](https://natalie.mu/music/news/378525) 音楽ナタリー 2020年5月11日閲覧

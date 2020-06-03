@@ -23,7 +23,7 @@ __TOC__
 
 「[テレビ夢列島](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島 "wikilink")」や「[平成教育テレビ](../Page/平成教育テレビ.md "wikilink")」などの[ビートたけし](../Page/ビートたけし.md "wikilink")を中心とした内容から一新し、総合司会に[ダウンタウンを起用した](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")。ダウンタウンが司会を務める『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』を主体としたコーナーを含め、歌手・アーティストが出演し例年より[音楽](../Page/音楽.md "wikilink")要素の多い番組となった。
 
-放送当日に[台風9号が直撃したため](https://ja.wikipedia.org/wiki/平成9年台風第9号 "wikilink")、全国各地から船で27時間内に食材を運ぶメイン企画を始めとして番組の企画内容が大幅な変更を余儀なくされた。
+放送当日に[台風9号が直撃したため](../Page/平成9年台風第9号.md "wikilink")、全国各地から船で27時間内に食材を運ぶメイン企画を始めとして番組の企画内容が大幅な変更を余儀なくされた。
 
 #### 概要
 
@@ -370,7 +370,7 @@ F1世界選手権第10戦イギリスGP予選
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:FNS特別番組](https://ja.wikipedia.org/wiki/Category:FNS特別番組 "wikilink")
 

@@ -6,14 +6,8 @@
 ## 概要
 
   - 基本的には2ブロック制のリーグ戦方式で争われ、7月から8月にかけて開催されるのが通例となっている。
-
-<!-- end list -->
-
-  -
-    「[G1 CLIMAX](../Page/G1_CLIMAX.md "wikilink")」（[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")主催）や「[チャンピオン・カーニバル](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")」（[全日本プロレス](../Page/全日本プロレス.md "wikilink")主催）と並ぶシングルのリーグ戦の1つである。
-
-<!-- end list -->
-
+      -
+        「[G1 CLIMAX](../Page/G1_CLIMAX.md "wikilink")」（[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")主催）や「[チャンピオン・カーニバル](../Page/チャンピオン・カーニバル_\(プロレス\).md "wikilink")」（[全日本プロレス](../Page/全日本プロレス.md "wikilink")主催）と並ぶシングルのリーグ戦の1つである。
   - 当時の[プロレスリングZERO-ONE](../Page/プロレスリングZERO-ONE.md "wikilink")旗揚げ直後の同団体社長であった[橋本真也](../Page/橋本真也.md "wikilink")によって「誰が一番強いんだか決めればいいんだ」の一言で提唱され、[大谷晋二郎](../Page/大谷晋二郎.md "wikilink")が呼応する形で、橋本を抜きにしたシングルマッチのリーグ戦として始まった、同団体の夏の風物詩とも呼ばれる大会である。
   - 優勝者には、賞金と副賞、そして覇者の証である「**火祭り刀**」が贈られる。この刀は優勝者によって次の大会が始まるまで保持される。
 
@@ -51,7 +45,7 @@
 <td><p>2003年</p></td>
 <td><p><strong><a href="../Page/小島聡.md" title="wikilink">小島聡</a></strong></p></td>
 <td><p><strong>大谷晋二郎</strong></p></td>
-<td><p><small><strong>A:</strong> 大谷晋二郎、横井宏考、<a href="../Page/高木功.md" title="wikilink">嵐</a>、金村キンタロー、<a href="../Page/藤原喜明.md" title="wikilink">藤原喜明</a><br />
+<td><p><small><strong>A:</strong> 大谷晋二郎、横井宏考、<a href="https://ja.wikipedia.org/wiki/高木功_(プロレスラー)" title="wikilink">嵐</a>、金村キンタロー、<a href="../Page/藤原喜明.md" title="wikilink">藤原喜明</a><br />
 <strong>B:</strong> <a href="../Page/小島聡.md" title="wikilink">小島聡</a>、田中将斗、佐藤耕平、黒田哲広、<a href="../Page/アレクサンダー大塚.md" title="wikilink">アレクサンダー大塚</a></small></p></td>
 </tr>
 <tr class="even">

@@ -80,7 +80,7 @@
 
   - [洞爺及びニセコ地区におけるエフエム北海道のサービスエリア拡大](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/C/C13/c130913.htm) - 総務省北海道総合通信局平成13年度報道資料(2001年9月13日付け)
   - [サービスエリア図](https://warp.da.ndl.go.jp/info:ndljp/pid/283520/www.hokkaido-bt.go.jp/C/C13/0913.htm) - 上記リンクの別図
-  - [2014年11月に決定した、テレビジョン及びラジオ・FM中継放送局の設置計画について](http://www.nhk.or.jp/keiei-iinkai/giji/shiryou/1224_giketsu01.pdf)（2015年6月18日閲覧）
+  - [2014年11月に決定した、テレビジョン及びラジオ・FM中継放送局の設置計画について](https://www.nhk.or.jp/keiei-iinkai/giji/shiryou/1224_giketsu01.pdf)（2015年6月18日閲覧）
 
 ## 関連項目
 

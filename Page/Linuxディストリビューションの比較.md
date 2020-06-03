@@ -120,8 +120,8 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Fedora_Project" title="wikilink">Fedora Project</a></p></td>
 <td><p>2003-11-05</p></td>
 <td><p><a href="../Page/Red_Hat_Linux.md" title="wikilink">Red Hat Linux</a></p></td>
-<td><p>31</p></td>
-<td><p>2019-10-29</p></td>
+<td><p>32</p></td>
+<td><p>2020-04-28</p></td>
 <td><p>汎用</p></td>
 <td><p>開発中</p></td>
 </tr>
@@ -664,10 +664,10 @@ Linuxディストリビューションの技術的な多様性として、異な
 </tr>
 <tr class="even">
 <td><p>| <a href="../Page/Fedora.md" title="wikilink">Fedora</a>[16]</p></td>
-<td><p>4.6.3</p></td>
-<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 6.1.1, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.8.0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DNF_(ソフトウェア)" title="wikilink">DNF</a>(, <a href="../Page/Yellowdog_Updater_Modified.md" title="wikilink">Yum</a>)</p></td>
+<td><p>5.6.6</p></td>
+<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 10.0.1, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 10.0.0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a>/<a href="../Page/XFS.md" title="wikilink">XFS</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/DNF_(ソフトウェア)" title="wikilink">DNF</a>, (<a href="../Page/Yellowdog_Updater_Modified.md" title="wikilink">Yum</a>)</p></td>
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="odd">
@@ -1016,14 +1016,14 @@ Linuxディストリビューションの技術的な多様性として、異な
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Fedora.md" title="wikilink">Fedora</a>[49]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td><p>[50]</p></td>
+<td></td>
+<td></td>
+<td><p>[51]</p></td>
+<td><p>[52]</p></td>
+<td></td>
+<td></td>
+<td><p>[53]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1526,7 +1526,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <tbody>
 <tr class="odd">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Arch_Linux" title="wikilink">Arch Linux</a></p></td>
-<td><p>10,327 (packages)[51] + 45,556 (AUR)[52]</p></td>
+<td><p>10,327 (packages)[54] + 45,556 (AUR)[55]</p></td>
 <td></td>
 <td><p>none</p></td>
 </tr>
@@ -1550,7 +1550,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 </tr>
 <tr class="odd">
 <td><p>| <a href="../Page/Debian.md" title="wikilink">Debian</a></p></td>
-<td><p>43,500 以上<a href="http://www.debian.org/releases/jessie/amd64/release-notes/ch-whats-new.ja.html#newdistro">5</a></p></td>
+<td><p>57,703 以上[56]</p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1568,7 +1568,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 </tr>
 <tr class="even">
 <td><p>| <a href="../Page/Fedora.md" title="wikilink">Fedora</a></p></td>
-<td><p>約 8,000 <a href="http://www.linux.com/articles/114290">6</a></p></td>
+<td><p>約 8,000 <a href="http://www.linux.com/articles/114290">5</a></p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1586,8 +1586,8 @@ Linuxディストリビューションの技術的な多様性として、異な
 </tr>
 <tr class="odd">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a></p></td>
-<td><p>約 17,000[53]</p></td>
-<td><p>[54]</p></td>
+<td><p>約 17,000[57]</p></td>
+<td><p>[58]</p></td>
 <td><p>none</p></td>
 </tr>
 <tr class="even">
@@ -1637,7 +1637,7 @@ DVD: 2,600</p></td>
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Manjaro" title="wikilink">Manjaro</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="https://ja.wikipedia.org/wiki/Plasma_(KDE)" title="wikilink">KDE Plasma</a>[55]</p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="https://ja.wikipedia.org/wiki/Plasma_(KDE)" title="wikilink">KDE Plasma</a>[59]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1713,13 +1713,13 @@ DVD: 2,600</p></td>
 </tr>
 <tr class="even">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/openSUSE" title="wikilink">openSUSE</a></p></td>
-<td><p>およそ 22,000<a href="http://blogs.warwick.ac.uk/bweber/entry/opensuse_package_search/">7</a></p></td>
+<td><p>およそ 22,000<a href="http://blogs.warwick.ac.uk/bweber/entry/opensuse_package_search/">6</a></p></td>
 <td></td>
 <td><p><a href="../Page/KDE.md" title="wikilink">KDE</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="https://ja.wikipedia.org/wiki/XFCE" title="wikilink">XFCE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a></p></td>
-<td><p>およそ 47,000<a href="http://packages.ubuntu.com/quantal/allpackages">8</a></p></td>
+<td><p>およそ 47,000<a href="http://packages.ubuntu.com/quantal/allpackages">7</a></p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1743,7 +1743,7 @@ DVD: 2,600</p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="../Page/Vine_Linux.md" title="wikilink">Vine Linux</a></p></td>
-<td><p>およそ 5,600[56]</p></td>
+<td><p>およそ 5,600[60]</p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1755,7 +1755,7 @@ DVD: 2,600</p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/RedHawk_Linux" title="wikilink">RedHawk Linux</a></p></td>
-<td><p>およそ 1,857[57]</p></td>
+<td><p>およそ 1,857[61]</p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1798,13 +1798,13 @@ DVD: 2,600</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Fedora.md" title="wikilink">Fedora</a></p></td>
-<td><p>(<a href="../Page/Security-Enhanced_Linux.md" title="wikilink">SELinux</a>[58])</p></td>
-<td><p>(<a href="../Page/Exec_Shield.md" title="wikilink">Exec Shield</a>[59]および<a href="../Page/PaX.md" title="wikilink">PaX</a>)</p></td>
+<td><p>(<a href="../Page/Security-Enhanced_Linux.md" title="wikilink">SELinux</a>[62])</p></td>
+<td><p>(<a href="../Page/Exec_Shield.md" title="wikilink">Exec Shield</a>[63]および<a href="../Page/PaX.md" title="wikilink">PaX</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a>[60]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a>[64]</p></td>
 <td><p>(<a href="../Page/Security-Enhanced_Linux.md" title="wikilink">SELinux</a>)</p></td>
 <td><p>(<a href="../Page/PaX.md" title="wikilink">PaX</a>)</p></td>
 <td></td>
@@ -1927,14 +1927,18 @@ DVD: 2,600</p></td>
 47. <http://www.debian.org/ports/>
 48. <http://ja.ecolinuxos.com/>
 49. <https://admin.fedoraproject.org/mirrormanager/>
-50. <https://fedoraproject.org/wiki/Architectures/ARM>
-51. [Arch Linux - Package Database](https://www.archlinux.org/packages/)
-52. [Arch Linux AUR Home](https://www.archlinux.org/packages/)
-53. [Gentoo Packages Categories](http://packages.gentoo.org/categories/)
-54. Can be installed graphically (GTK+ and ncurses), but traditionally done by command line (install cd, livecd, netboot, and from ディストリビューションs).
-55.
-56. カテゴリ main, plus, updates, nonfree, extras の合計
-57. [RedHawk6.0の変更点](http://www.ccur.co.jp/external/TechSup/redhawk6-3.htm)
-58.
-59. {{ cite web | url=<http://docs.fedoraproject.org/release-notes/fc1/x86/#kernel-notes> | title=Fedora Core 1 Release Notes - Kernel Notes | accessdate=2007-12-24 }}
-60. {{ cite web | url=<http://www.gentoo.org/proj/en/hardened/#doc_chap4> | title=Hardened Gentoo - 4. Subprojects | accessdate=2007-12-24 }}
+50. <https://fedoraproject.org/wiki/Architectures>
+51. <https://fedoraproject.org/wiki/Architectures>
+52. <https://fedoraproject.org/wiki/Architectures>
+53. <https://fedoraproject.org/wiki/Architectures/ARM>
+54. [Arch Linux - Package Database](https://www.archlinux.org/packages/)
+55. [Arch Linux AUR Home](https://www.archlinux.org/packages/)
+56.
+57. [Gentoo Packages Categories](http://packages.gentoo.org/categories/)
+58. Can be installed graphically (GTK+ and ncurses), but traditionally done by command line (install cd, livecd, netboot, and from ディストリビューションs).
+59.
+60. カテゴリ main, plus, updates, nonfree, extras の合計
+61. [RedHawk6.0の変更点](http://www.ccur.co.jp/external/TechSup/redhawk6-3.htm)
+62.
+63. {{ cite web | url=<http://docs.fedoraproject.org/release-notes/fc1/x86/#kernel-notes> | title=Fedora Core 1 Release Notes - Kernel Notes | accessdate=2007-12-24 }}
+64. {{ cite web | url=<http://www.gentoo.org/proj/en/hardened/#doc_chap4> | title=Hardened Gentoo - 4. Subprojects | accessdate=2007-12-24 }}

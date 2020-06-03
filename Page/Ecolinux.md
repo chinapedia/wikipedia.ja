@@ -15,7 +15,7 @@ EcolinuxはUbuntuのソフトウェアを用いて、ロースペックマシン
 
 Ecolinuxはウェブブラウザ等必要最低限の機能しかないため、CDイメージのサイズは400MB程度である。[Live CDを使えば](../Page/Live_CD.md "wikilink")、ハードディスクへのインストールをする前に、ハードウェアが適合しているかを確認することができる。また、Live CDにはUbuntuのインストーラが流用されているためEcolinuxのインストールにも使える。CDイメージはダウンロードすることができる。[Wubi](../Page/Wubi.md "wikilink")や[Lubi](https://ja.wikipedia.org/wiki/Lubi "wikilink")で安全にインストールすることが推奨され、Wubiでの動作も確認されている。
 
-Ubuntuには収録されていないような[ハードウェア](../Page/ハードウェア.md "wikilink")[ドライバのパッケージが多くインストールされており](../Page/デバイスドライバ.md "wikilink")、Ubuntuが動作しないマシンでも動作する可能性がある。 似た趣旨で開発されているもので[LinuxBean](https://ja.wikipedia.org/wiki/LinuxBean "wikilink")・[Basix](https://ja.wikipedia.org/wiki/Basix "wikilink")がある。
+Ubuntuには収録されていないような[ハードウェア](../Page/ハードウェア.md "wikilink")[ドライバのパッケージが多くインストールされており](../Page/デバイスドライバ.md "wikilink")、Ubuntuが動作しないマシンでも動作する可能性がある。 似た趣旨で開発されているもので[LinuxBean](https://ja.wikipedia.org/wiki/LinuxBean "wikilink")がある。
 
 ## 姉妹品
 

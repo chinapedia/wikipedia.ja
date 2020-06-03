@@ -1,24 +1,28 @@
 > この記事は[GIRLS LOCKS!](https://ja.wikipedia.org/wiki/GIRLS_LOCKS!)から翻訳されています。
 
 
-**GIRLS LOCKS\!**（ガールズロックス）は[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系](../Page/全国FM放送協議会.md "wikilink")38局で放送されているラジオ番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』のかつて放送されていたコーナーの1つ\[1\]。
+**GIRLS LOCKS\!**（ガールズロックス）は[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系](../Page/全国FM放送協議会.md "wikilink")38局で放送されているラジオ番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』にて放送されていた授業（コーナー）の1つ\[1\]。
 
-なお、単独番組であった[『GIRLS LOCKS\! SUNDAY』](https://ja.wikipedia.org/wiki/#『GIRLS_LOCKS!_SUNDAY』 "wikilink")、「GIRLS LOCKS\!」の発展形として放送された[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")の『[ガッキーLOCKS\!](https://ja.wikipedia.org/wiki/#ガッキーLOCKS! "wikilink")』についてもここで扱う。
+単独番組であった[『GIRLS LOCKS\! SUNDAY』](https://ja.wikipedia.org/wiki/#GIRLS_LOCKS!_SUNDAY "wikilink")、「GIRLS LOCKS\!」の発展形として放送された[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")の『[ガッキーLOCKS\!](https://ja.wikipedia.org/wiki/#ガッキーLOCKS! "wikilink")』についてもここで扱う。
 
-## コーナー主要
+## 概要
 
-放送時間は22:20頃から\[2\]約10分間。このコーナーは、時代のカギを握る女子クラスという設定になっており、週替わりで「**ガールズ**」と呼ばれる若手女性パーソナリティが「理想の同級生」として登場する。基本的に男子禁制ということになっているが、度々男性ゲストが登場するなど、時に緩和的要素が含まれている。
+月曜 - 木曜の22:20頃\[2\]から約10分間放送。若手女性パーソナリティが「理想の同級生」として、「時代のカギを握る女子クラス」に登校するという設定で授業を担当する。パーソナリティは「**ガールズ**」と呼ばれる。
 
-「新入生」は、自己紹介がてら「小テスト」を必ず初日の授業で受ける。また、新入生でなくても「小テスト」を新学期初日の授業で受けることになっている。
+パーソナリティは、月曜 - 木曜の4日通しで登場し。週替りで担当した。
 
-2015年10月より番組開始以来GIRLS LOCKS\!の担当が割り当てられていた4週のうち1週を、ARTIST LOCKS\!の枠扱いとなることで月あたり3週の枠となった。
+基本的に「男子禁制」だが、度々男性ゲストが登場するなど、緩和的要素が含まれている。
 
-2017年4月からはARTIST LOCKS\!の枠がさらに拡大し、担当がいる4週のうち2週がARTIST LOCKS\!の枠となることで月あたり2週の枠に縮小された。
+「新入生（新たにGIRLS LOCKS\!を担当するパーソナリティ）」は、自己紹介がてら「小テスト」を必ず初日の授業で受ける。また、新入生でなくても「小テスト」を新学期初日の授業で受けることになっている。
 
-2020年2月3日の『SCHOOL OF LOCK\!』のオープニングにて、同年3月をもって『平手友梨奈／髙橋ひかるGIRLS LOCKS\!』を含む22:20-22:30のコーナー枠が終了することが発表された。3月26日の『髙橋ひかるのGIRLS LOCKS\!』の終了をもってGIRLS LOCKS\!は終了した。4月からは生放送教室の時間となった。
+2015年10月より、月に3週の放送となる。残り1週は、ARTIST LOCKS\!枠となった。
+
+2017年4月より、月に2週の放送となる。残り2週は、ARTIST LOCKS\!枠となった。
+
+2020年2月3日、生放送授業にて、同年3月をもって「GIRLS LOCKS\!」を含む、22:20 - 22:30の枠が終了することが発表された。3月26日の「髙橋ひかるのGIRLS LOCKS\!」をもってGIRLS LOCKS\!は終了した。4月からは生放送授業となった。
 
 <table>
-<caption>月曜日 - 木曜日のGIRLS LOCKS!担当一覧表</caption>
+<caption>GIRLS LOCKS!担当一覧表</caption>
 <thead>
 <tr class="header">
 <th><p>時期</p></th>
@@ -27,6 +31,8 @@
 <th><p>3週目</p></th>
 <th><p>4週目</p></th>
 <th><p>5週目</p></th>
+<th><p>金</p></th>
+<th><p>日</p></th>
 </tr>
 </thead>
 <tbody>
@@ -37,112 +43,151 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/#堀北真希のGIRLS_LOCKS!" title="wikilink">堀北真希</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#栗山千明のGIRLS_LOCKS!" title="wikilink">栗山千明</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#貫地谷しほりのGIRLS_LOCKS!" title="wikilink">貫地谷しほり</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#GIRLS_LOCKS!_FRIDAY" title="wikilink">鈴木杏</a></p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>2006年2月 - 2006年4月</p></td>
+<td><p>2006年2月 - 2006年3月</p></td>
 <td><p>-</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2006年4月</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2006年5月 - 2006年9月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#成海璃子のGIRLS_LOCKS!" title="wikilink">成海璃子</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006年10月 - 2007年3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#新垣結衣のGIRLS_LOCKS!" title="wikilink">新垣結衣</a></p></td>
-<td><p>- [3]</p></td>
+<td><p>[3]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#GIRLS_LOCKS!_SUNDAY" title="wikilink">香椎由宇<br />
+栗山千明</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007年4月 - 2008年3月</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#戸田恵梨香のGIRLS_LOCKS!" title="wikilink">戸田恵梨香</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#GIRLS_LOCKS!_FRIDAY" title="wikilink">栗山千明</a></p></td>
+<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2007年4月 - 2008年3月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/#戸田恵梨香のGIRLS_LOCKS!" title="wikilink">戸田恵梨香</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2008年4月 - 2009年1月</p></td>
 <td><p>榮倉奈々</p></td>
 <td><p>堀北真希</p></td>
 <td><p>新垣結衣</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年2月 - 2009年5月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#北乃きいのGIRLS_LOCKS!" title="wikilink">北乃きい</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年6月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#桜庭ななみのGIRLS_LOCKS!" title="wikilink">桜庭ななみ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年7月</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009年8月</p></td>
 <td><p>新垣結衣 (<a href="https://ja.wikipedia.org/wiki/#別冊_新垣結衣のGIRLS_LOCKS!" title="wikilink">別冊</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009年9月 - 2010年9月</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>2010年10月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/#ねごとのGIRLS_LOCKS!" title="wikilink">ねごと</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/#板野友美のGIRLS_LOCKS!" title="wikilink">板野友美</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2010年11月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/#その他の5週目" title="wikilink">新垣結衣</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2010年12月</p></td>
+<td><p>2010年10月</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#ねごとのGIRLS_LOCKS!" title="wikilink">ねごと</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#板野友美のGIRLS_LOCKS!" title="wikilink">板野友美</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2010年11月</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#その他の5週目" title="wikilink">新垣結衣</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p>2010年12月</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2011年1月 - 2012年3月</p></td>
 <td><p>北乃きい</p></td>
 <td><p>新垣結衣<br />
@@ -150,83 +195,105 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012年4月 - 2013年3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#剛力彩芽のGIRLS_LOCKS!" title="wikilink">剛力彩芽</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#日南響子のGIRLS_LOCKS!" title="wikilink">日南響子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#川口春奈のGIRLS_LOCKS!" title="wikilink">川口春奈</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#能年玲奈のGIRLS_LOCKS!" title="wikilink">能年玲奈</a></p></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013年4月 - 2013年8月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#橋本愛のGIRLS_LOCKS!" title="wikilink">橋本愛</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013年9月</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013年10月 - 2015年3月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#広瀬すずのGIRLS_LOCKS!" title="wikilink">広瀬すず</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年4月 - 2015年9月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#小芝風花のGIRLS_LOCKS!" title="wikilink">小芝風花</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#橋本奈々未のGIRLS_LOCKS!" title="wikilink">橋本奈々未</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>2015年10月 - 2016年9月</p></td>
-<td><p>- [4]</p></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2015年10月 - 2016年9月</p></td>
+<td><p>[4]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2016年10月 - 2017年2月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#永野芽郁のGIRLS_LOCKS!" title="wikilink">永野芽郁</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年3月</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>2017年4月 - 2018年3月</p></td>
-<td><p>- [5]</p></td>
-<td><p>- [6]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/#平手友梨奈のGIRLS_LOCKS!" title="wikilink">平手友梨奈</a></p></td>
-<td><p>永野芽郁</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2017年4月 - 2018年3月</p></td>
+<td><p>[5]</p></td>
+<td><p>[6]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#平手友梨奈のGIRLS_LOCKS!" title="wikilink">平手友梨奈</a></p></td>
+<td><p>永野芽郁</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2018年4月 - 2020年3月</p></td>
-<td><p>- [7]</p></td>
+<td><p>[7]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#髙橋ひかるのGIRLS_LOCKS!" title="wikilink">髙橋ひかる</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -465,18 +532,21 @@ GIRLS就任以前にも、『[閃光ライオット2010](https://ja.wikipedia.or
   - 2017年5月15日 - 5月18日放送分は米谷奈々未が、声に不調がある平手のサポートとして出演。
   - 2017年6月25日 - 6月28日放送分は志田愛佳が、声に不調がある平手のサポートとして出演。
   - 2018年10月15日 - 10月18日放送分は、米谷奈々未、[渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")が体調不良で欠席の平手の代理として出演。10月17日 - 10月18日放送分は尾関梨香も出演。
-  - 2020年1月23日、同日をもって欅坂46を脱退することを当コーナー内で報告、脱退後も出演を継続。
-  - 2020年3月19日をもって終了。
-    [SCHOOL OF LOCK\! キズナ感謝祭の音声授業パート](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink")（事前収録）に出演した。
+
+2020年1月23日、同日をもって欅坂46を脱退することを当コーナー内で報告、脱退後も出演を継続。
+
+2020年3月19日をもって終了。
+[SCHOOL OF LOCK\! キズナ感謝祭の音声授業パート](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink")（事前収録）に出演した。
 
 #### 髙橋ひかるのGIRLS LOCKS\!
 
 パーソナリティーは[髙橋ひかる](https://ja.wikipedia.org/wiki/高橋ひかる_\(2001年生\) "wikilink")。[永野芽郁のGIRLS LOCKS\!終了に伴い](https://ja.wikipedia.org/wiki/#永野芽郁のGIRLS_LOCKS! "wikilink")、2018年4月23日に開始。毎月4週目を担当\[27\]。
+
 2019年10月4日、髙橋が体調不良による年内休養を発表したため、2019年10～12月分の放送は休講となった。2020年1月から放送再開。
 
-  - 2019年10月28日 - 10月31日放送分は西脇彩華が体験入学生として担当。
+  - 2019年10月28日 - 10月31日放送分は[西脇彩華](../Page/西脇彩華.md "wikilink")が体験入学生として担当。
   - 2019年11月25日 - 11月28日は生放送教室を放送。
-  - 12月23日 - 12月27日放送分は、三阪咲が体験入学生として担当。
+  - 12月23日 - 12月27日放送分は、[三阪咲](../Page/三阪咲.md "wikilink")が体験入学生として担当。
 
 [SCHOOL OF LOCK\! キズナ感謝祭では](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink")、動画授業パートに出演し、髙橋の卒業式が行われた。
 2020年3月26日をもって終了。これをもってGIRLS LOCKS\!自体が終了したことにより、最後の卒業生となった。
@@ -525,7 +595,7 @@ GIRLS就任以前にも、『[閃光ライオット2010](https://ja.wikipedia.or
 
 2010年11月の5週目は、9月をもって3週目担当を卒業した[新垣結衣が](https://ja.wikipedia.org/wiki/#新垣結衣のGIRLS_LOCKS! "wikilink")、2011年からの新企画に備えて作戦会議をする秘密基地として放送した。この際、5週目ガールズとしてクレジットされたため、3代目閏女子となった。
 
-### 金曜日：GIRLS LOCKS\! FRIDAY
+### GIRLS LOCKS\! FRIDAY
 
 毎週金曜日に放送される『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』は『[SCHOOL OF LOCK\! FRIDAY](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#金曜日：SCHOOL_OF_LOCK!_FRIDAY "wikilink")』と呼ばれるが、「GIRLS LOCKS\!」のコーナー名にも**"FRIDAY"**がついており、月曜日 - 木曜日とは異なる趣で放送された。
 
@@ -545,7 +615,7 @@ GIRLS就任以前にも、『[閃光ライオット2010](https://ja.wikipedia.or
 
 2010年9月、『[山崎まさよし GREETING MELODIES](https://ja.wikipedia.org/wiki/山崎まさよし_GREETING_MELODIES "wikilink")』に改変したことにより終了。
 
-### 『GIRLS LOCKS\! SUNDAY』
+### GIRLS LOCKS\! SUNDAY
 
 2006年10月1日から2007年3月まで毎週日曜日23:30 - 23:55に放送されていた単独番組。2006年3月で終了した「[GIRLS LOCKS\! FRIDAY](https://ja.wikipedia.org/wiki/#鈴木杏のGIRLS_LOCKS!_FRIDAY "wikilink")」を復活させた形で開始した。
 
@@ -617,11 +687,11 @@ GIRLS就任以前にも、『[閃光ライオット2010](https://ja.wikipedia.or
 
 1.
 2.
-3.  この枠では[YUIが担当していたが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")、**[ARTIST LOCKS\!扱い](../Page/ARTIST_LOCKS!.md "wikilink")**であり、GIRLS LOCKS\!扱いではない。
-4.  この枠では[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")が“鍵の遊園地の園長”として担当していたが、**[ARTIST LOCKS\!扱い](../Page/ARTIST_LOCKS!.md "wikilink")**であり、GIRLS LOCKS\!扱いではない。
+3.  **[ARTIST LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")**「YUI LOCKS\!（[YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")）」を放送。
+4.  **[ARTIST LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")**「きゃりーLOCKS\!（[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")）」を放送。
 5.
-6.  この枠では[LiSA](https://ja.wikipedia.org/wiki/LiSA "wikilink")が“LL教室の講師”として担当しているが、**[ARTIST LOCKS\!扱い](../Page/ARTIST_LOCKS!.md "wikilink")**であり、GIRLS LOCKS\!扱いではない。
-7.  この枠では[Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink")が担当しているが、**[ARTIST LOCKS\!扱い](../Page/ARTIST_LOCKS!.md "wikilink")**であり、GIRLS LOCKS\!扱いではない。
+6.  **[ARTIST LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")**「LiSA LOCKS\!（[LiSA](https://ja.wikipedia.org/wiki/LiSA "wikilink")）」を放送。
+7.  **[ARTIST LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")**「Aqours LOCKS\!（[Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink")）」を放送。
 8.  たまに新垣・堀北・戸田が出演することもあった。
 9.  現在では「ガールズ・ロック**ス**」とコールするメンバーが多い。
 10. 堀北は所属事務所・[スウィートパワー](../Page/スウィートパワー.md "wikilink")の先輩にあたる。

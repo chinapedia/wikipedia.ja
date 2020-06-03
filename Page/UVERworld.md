@@ -3,814 +3,227 @@
 
 **UVERworld**（ウーバーワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の6人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[1\]\[2\]。愛称は「**UVER**」など。2000年結成。所属事務所は[POWERPLAY](https://ja.wikipedia.org/wiki/POWERPLAY "wikilink")。レーベルは[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")傘下の[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。公式ファンクラブは「**Neo SOUND WAVE**」である。
 
-## 概要
+2000年6月6日、UVERworldの前身である**SOUND極ROAD**（サウンドごくロード）を結成し、2003年12月に現在のバンド名に変更。バンド名「UVERworld」は、「SOUND極ROAD」からの改名時、500以上の候補から彰が提案した「〜world」と、「超える」の意味を持つ[ドイツ語](../Page/ドイツ語.md "wikilink")「」と[英語](../Page/英語.md "wikilink")「」とを混ぜ合わせた造語で、バンド名の意味は「**自分達の世界をも越える**」\[3\]\[4\]。
 
-  - 2000年6月6日、UVERworldの前身である**SOUND極ROAD**（サウンドごくロード）を結成。当時は現在の6人に加え、もう一人のボーカル担当RYOHEIを合わせた7人構成だった。
-  - 現在のバンド名「UVERworld」は、「SOUND極ROAD」からの改名時、500以上の候補から彰が提案した「〜world」と、「超える」の意味を持つ[ドイツ語](../Page/ドイツ語.md "wikilink")「」と[英語](../Page/英語.md "wikilink")「」とを混ぜ合わせた造語で、バンド名の意味は「**自分達の世界をも越える**」\[3\]。
-  - インディーズ時代、新人発掘の為ライブを観に来ていたソニー・ミュージックレコーズの村松俊亮代表取締役社長から「どんなアーティストになりたいか」と質問された際、TAKUYA∞は**「[日本武道館](../Page/日本武道館.md "wikilink")でライブが出来るアーティスト」**と答えたという\[4\]。その念願通り、2008年12月5日に初の日本武道館単独公演を敢行。因みに、その質問をされた時点では、まだ社長とは分かっていなかった。その後、2004年10月に大阪のライブハウス、ベイサイドジェニーでのライブにて正式に契約した。ちなみに、TAKUYA∞とRYOHEIでツインボーカルをしていた時は二人で**Ace∞trigger**と名乗っていた。
-  - 2004年11月27日に上京してから、3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』を発売する頃まで、メンバー全員で[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")の一軒家で同居生活をしていた。その後は、TAKUYA∞がその家を引き継ぎ、2階を「core ability studio」というプライベートスタジオに改築。その後TAKUYA∞は転居し、現在は高層マンションの自宅に「New core ability studio」を構えている\[5\]。
-  - UVERworldファンのことは、「Crew」（クルー）と呼ばれる。
-  - デビュー以降、[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に「[just Melody](https://ja.wikipedia.org/wiki/just_Melody "wikilink")」で初出演して以降TV出演も頻繁に行ってきたが、2013年以降はテレビ出演を控えるようになった。理由としては「テレビはリハーサルが十分に出来ないから」「歌詞の全てを伝えきれないから」「テレビに出る時間をトレーニングや曲作りに回したいから」などTAKUYA∞が様々挙げている。なお、ミュージックステーションの出演は東京ドーム公演前日に出演した「[NO.1](https://ja.wikipedia.org/wiki/NO.1_\(UVERworldの曲\) "wikilink")」が最後であり、テレビでの歌唱出演は、[COUNT DOWN TVでの](../Page/COUNT_DOWN_TV.md "wikilink")「[THE OVER](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")」の披露が最後であった。しかし、2017年7月1日に[日本テレビで放送された大型音楽特番](../Page/日本テレビ放送網.md "wikilink")『[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")』に出演をし、6年振りにテレビ番組にてパフォーマンスを行った。曲は「[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")」「[CHANCE\!](../Page/CHANCE!_\(UVERworldの曲\).md "wikilink")」。また、6人体制になってからのテレビ出演は今回が初である\[6\]。また、同年7月28日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送される、『ミュージックステーション』にも出演決定しており、「DECIDED」を披露した。また、「Mステ」の出演は、約7年振りとなる\[7\]。2019年12月13日(金)、同月に発売した10thアルバム「UNSER」に収録されている「AFTER LIFE」を披露。約2年ぶりの出演である。これを皮切りに、新曲リリースした時などはテレビ出演する機会が増えている。
+## 来歴
 
-### マスコットキャラクター
+### 前史
 
-  - 「[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")」から、1stアルバム「[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")」までのジャケットで使われていたバンドのマスコットキャラクターの名前はUVERちゃん（ウーバーちゃん）である。由来は特にない。このキャラクターの作者はアメリカのキャラクターデザイナーであるDavid Horvath（ディビット・ホーバス）である。デビュー当時はUVERちゃんがデザインされたジャケットが使われてきたが、その後デザイナーとの契約が切れたためか、現在は使われていない。
-  - 2015年の15&10 Anniversary TOURからは「[7日目の決意](https://ja.wikipedia.org/wiki/7日目の決意 "wikilink")」や「[0 CHOIR](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")」のジャケットに載っている幸運のカエルがマスコットキャラクターとしてぬいぐるみとフィギュアがグッズとして売り出された。デザイナーはTAKUYA∞の友人。2016のARENA TOURからは関係者用入口や会場内で着ぐるみが目撃されている。モチーフは[コケガエル](../Page/コケガエル.md "wikilink")。
+2000年6月6日、滋賀県草津市で前身バンドとなる**SOUND極ROAD**を結成\[5\]。
 
-### 音楽性
+2003年12月、バンド名を**SOUND極ROAD**から**UVERworld**に改名。
 
-インディーズ時代よりバンドによる生楽器と、打ち込みによる同期演奏、ラップや[ヒューマンビートボックス](../Page/ヒューマンビートボックス.md "wikilink")、[エフェクト](https://ja.wikipedia.org/wiki/エフェクト "wikilink")を用いたボーカルなど、多種多様な要素を含んだミクスチャーサウンドが特徴。ジャンルとしては[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")、[ハードロック](../Page/ハードロック.md "wikilink")、[ヒップホップ](../Page/日本のヒップホップ.md "wikilink")、[R\&B](../Page/コンテンポラリー・R&B.md "wikilink")、[エレクトロニカ](../Page/電子音楽.md "wikilink")、[ラテン](https://ja.wikipedia.org/wiki/ラテン "wikilink")などを内包している。また、ギターでは王道の[ディストーション](https://ja.wikipedia.org/wiki/ディストーション "wikilink")サウンドが殆ど使われていないため、ベースやドラムがより前面に出されている。
+2004年10月、ベイサイドジェニーにてソニー・ミュージックレコーズの[社長](../Page/社長.md "wikilink")がUVERworldを目撃。ライブ当日夜に[契約](../Page/契約.md "wikilink")を締結した。[gr8\!records](https://ja.wikipedia.org/wiki/gr8!records "wikilink")に所属が決定し、その後[メジャー・デビューが決定](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。11月27日、メジャーデビューに向けて上京。
 
-## これまでの活動
+### 2005年 - 2007年
 
-  - 単発公演・イベント出演以外のライブツアーの詳細に関しては下記[ライブツアー参照](https://ja.wikipedia.org/wiki/UVERworld#ライブツアー "wikilink")。
-  - シングル、アルバム、映像作品、書籍等の詳細に関しては下記[作品参照](https://ja.wikipedia.org/wiki/UVERworld#作品 "wikilink")。
+2005年4月6日、SHIBUYA RUIDO K2にて初のお披露目ライブ開催。7月6日、1st[シングル](../Page/シングル.md "wikilink")『[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")』でメジャー・デビュー。なお、メジャー・デビューに際して、誠果が正式メンバーから外れ、サポートメンバーとして活動することとなった。
 
-### 2000年6月6日 - 2005年:結成 - デビュー直前
+2006年2月15日、1stアルバム『[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")』を発売。3月9日、[ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")で2005年度のニュー・アーティスト・オブ・ザ・イヤーを受賞。また同月から4月にかけて初の全国[ツアー](../Page/ツアー.md "wikilink")「UVERworld Timeless TOUR 2006」を開催。8月5日、[しらさわグリーンパーク](https://ja.wikipedia.org/wiki/しらさわグリーンパーク "wikilink")野球場にてロックフェスティバル「TORORO ROCK FES in Shirasawa 2006」に初出演。12月15日、TAKUYA∞が[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")の現行犯で逮捕・拘留\[6\]された事が報道され、活動を自粛・休止。発売を控えていた2ndアルバムなど関連商品の発売が延期とされた。
 
-#### 2000年
+### 2007年 - 2014年
 
-  - 6月6日、滋賀県の草津市にて現在の前身**SOUND極ROAD**を結成。
-  - 11月18日、B-FLATにて対バンライブに出演。
+2007年1月15日に活動の再開が発表し、延期となっていた2ndアルバム・アーティストブックの発売日・クリスマスライブの日程が改めて報告され、公式サイトに5人の謝罪文が掲載された。2月10日・11日にUNITとOSAKA MUSEにて活動再開特別ライブを2日連続で開催。このライブの参加者限定でシングル『[凛句](https://ja.wikipedia.org/wiki/凛句 "wikilink")』が無料配布された。なお、このライブはTAKUYA∞の起こした事件のため延期となったX'masスペシャルライブの振り替えともされている。2月20日、初のアーティストブック『CLASSWORD』を発売。翌日に発売を延期していた2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』を発売。TAKUYA∞が起こした事件の反省の形の一つとして、ネット配信限定『UVER家のTV』開始。
 
-#### 2001年
+2008年3月18日から6月6日にかけて初のホールツアー「UVERworld PROGLUTION TOUR 2008』、9月20日から9月30日にかけて「UVERworld PROGLUTION TOUR 2008」でのライブ映像などのドキュメントムービーを全国11箇所の会場で上映するイベント「PROGLUTION TOUR ドキュメントムービー「core ability」」を開催した。10月1日に2枚目のライブDVD『[PROGLUTION TOUR 2008](https://ja.wikipedia.org/wiki/PROGLUTION_TOUR_2008 "wikilink")』を発売し、全作品を通じてUVERworld初のオリコン週間チャート1位を獲得。10月3日から10月29日にかけて初のファンクラブ会員限定ライブツアー「UVERworld」を開催。11月19日に12thシングル『[儚くも永久のカナシ](https://ja.wikipedia.org/wiki/儚くも永久のカナシ "wikilink")』を発売し、初のオリコン週間シングルランキング1位を獲得\[7\]。12月5日にバンド初の[日本武道館](../Page/日本武道館.md "wikilink")単独公演を開催。
 
-  - 4月23日、DAYTRIPにて対バンライブイベント「FRIEND SHIP vol.4」に出演。
+2009年12月9日、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Neo SOUND BEST](https://ja.wikipedia.org/wiki/Neo_SOUND_BEST "wikilink")』を発売。
 
-#### 2002年
+2011年4月より全国ツアー「UVERworld 47/47 TOUR 2011」を開催予定だったが、東北地方太平洋沖地震の影響を受けて、一部の公演が延期された。その後11月から12月にかけて「UVERworld 47/47 TOUR 2011」の振替公演と追加公演が開催された。
 
-  - 10月30日、B-FLATにて対バンライブイベント「FOR THE NEXT GENERATION vol.10」に出演。
+2012年8月22日に初のドキュメンタリー映画『[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")』が公開された。
 
-#### 2003年
+2014年3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[サックスの誠果としてUVERworld正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
 
-  - 2月14日、SHINKAGURAにて対バンライブイベント「SOUND LIFE」に出演。
-  - 3月27日、APOLLO THEATERにて対バンライブバンイベント「wag your tail vol.4」に出演。
-  - 6月6日、B-FLATにて[tick](https://ja.wikipedia.org/wiki/tick "wikilink")のボーカル、Reigo5の追悼ライブに出演。
-  - 6月24日、kichijoji Planet Kにて対バンライブイベント「Brandnew Anthem vol.3」に出演。
-  - 12月、バンド名を**SOUND極ROAD**から**UVERworld**に改名。
+### 2015年 -
 
-#### 2004年
+2015年8月2日、rockin'on主催の音楽イベント「[ROCK IN JAPAN FESTIVAL 2015](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2015 "wikilink")」に初出演。GRASS STAGEに出演し、本フェス初登場ながら4万人を動員した。\[8\]
 
-  - 2月28日、HUCKLEBERRYにてUVERworld主催の対バンライブイベントを開催。
-  - 10月、ベイサイドジェニーにてソニー・ミュージックレコーズの[社長](../Page/社長.md "wikilink")がUVERworldを目撃。ライブ当日夜に[契約](../Page/契約.md "wikilink")を締結した。**gr8\!records**に所属が決定し、その後[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")が決定。[インディーズ](../Page/インディーズ.md "wikilink")の頃は、手売りのみで3000枚のCDが完売する程度であり、レコード契約以前に所属事務所が決まっていた。
-  - 11月27日、メジャーデビューに向けて上京、6人での共同生活を開始。
+2017年2月11日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で「UVERworld KING'S PARADE 2017」を開催し、アーティスト史上最大の23000人を動員。
 
-### 2005年 - 2007年:メジャーデビュー - 『Timeless』- 活動休止
+2019年2月27日、34thシングル『[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")』を発売\[9\]。8月11日、日本最大ロックフェス「ROCK IN JAPAN」にてトリを務め、GRASS STAGEに同フェス史上最多動員となる6万人超を動員\[10\]。12月20日に[東京ドーム](../Page/東京ドーム.md "wikilink")にて「KING'S PARADE FINAL」が開催され、観客動員数45000人を記録した\[11\]。
 
-#### 2005年
-
-  - 4月6日、SHIBUYA RUIDO K2にて初のお披露目ライブ開催。
-
-  - 7月6日、1st[シングル](../Page/シングル.md "wikilink")「**D-tecnoLife**」でメジャーデビュー。
-
-  - 8月2日、[渋谷CLUB QUATTROにて](https://ja.wikipedia.org/wiki/渋谷CLUB_QUATTRO "wikilink")、単発ライブを開催。
-
-  - 8月14日、[インテックス大阪](https://ja.wikipedia.org/wiki/インテックス大阪 "wikilink")にて、[ロックフェスティバル](https://ja.wikipedia.org/wiki/ロックフェスティバル "wikilink")「[SUMMER SONIC 2005](https://ja.wikipedia.org/wiki/サマーソニック#2005 "wikilink")」にオープニングアクトとしてSONIC STAGEに出演。
-
-  - 10月23日、[鈴鹿国際大学](https://ja.wikipedia.org/wiki/鈴鹿国際大学 "wikilink")学内体育館にて初の学園祭ライブ「第12回 鈴国祭」に出演。
-
-  - 10月26日、2ndシングル「CHANCE\!」を発売。
-
-#### 2006年
-
-  - 1月25日、3rdシングル「just Melody」を発売。
-  - 2月15日、1st[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『**Timeless**』を発売。
-  - 3月9日、[ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")で2005年度の**ニュー・アーティスト・オブ・ザ・イヤー**を受賞。
-  - 3月 - 4月、初の全国[ツアー](../Page/ツアー.md "wikilink")「UVERworld Timeless TOUR 2006」を開催。
-  - 5月17日、4thシングル「[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")」を発売。
-  - 8月2日、5thシングル「[SHAMROCK](../Page/SHAMROCK_\(曲\).md "wikilink")」を発売。
-  - 8月5日、[しらさわグリーンパーク](https://ja.wikipedia.org/wiki/しらさわグリーンパーク "wikilink")野球場にてロックフェスティバル「TORORO ROCK FES in Shirasawa 2006」に出演。初の野外フェス出演となる。
-  - 9月14日 - 10月9日、2度目の全国ツアー「Live everyday as though it were last.」を開催。
-  - 10月7日 - 11月12日、[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")ツアーを敢行。
-  - 11月15日、6thシングル「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」を発売。
-  - 11月22日、1stアルバム『Timeless』の再発盤を発売。
-  - 12月15日、TAKUYA∞が[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")の現行犯で逮捕・拘留\[8\]された事が報道され、活動を自粛・休止。発売を控えていた2ndアルバムなど関連商品の発売が延期とされた。
-  - 12月20日、初のライブDVD『[LIVE at SHIBUYA-AX from Timeless TOUR 2006](https://ja.wikipedia.org/wiki/LIVE_at_SHIBUYA-AX_from_Timeless_TOUR_2006 "wikilink")』を発売。
-
-### 2007年 - 2014年:活動再開 - 6人体制へ
-
-#### 2007年
-
-  - 1月15日 - 活動の再開が発表。延期となっていた2ndアルバム・アーティストブックの発売日・クリスマスライブの日程(活動再開ライブとして開催)が改めて報告され、公式サイトに五人の謝罪文が掲載される。
-
-  - 2月10日 - 2月11日、音楽活動を再開。UNITとOSAKA MUSEにて活動再開特別ライブを2日連続で開催。このライブに来た人限定でシングル「**[凛句](https://ja.wikipedia.org/wiki/凛句 "wikilink")**」が無料配布された。なお、このライブはTAKUYA∞の起こした事件のため延期となったX'masスペシャルライブの振り替えでもある。
-
-  - 2月20日、初のアーティストブック「CLASSWORD」を発売。
-
-  - 2月21日、発売を延期していた2ndオリジナルアルバム『**[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")**』を発売。TAKUYA∞が起こした事件の反省の形の一つとして、ネット配信限定『UVER家のTV』開始。
-
-  - 3月 - 4月、全国ツアー「UVERworld BUGRIGHT TOUR 2007」を開催。4月26日から4月30日には追加公演「UVERworld BUGRIGHT TOUR 2007 〜Toward endscape〜」も開催。
-
-  - 5月30日、7thシングル「[endscape](https://ja.wikipedia.org/wiki/endscape "wikilink")」を発売。
-
-  - 8月8日、8thシングル「[シャカビーチ〜Laka Laka La〜](../Page/シャカビーチ〜Laka_Laka_La〜.md "wikilink")」を発売。
-
-  - 8月20日、[STUDIO COASTにて](../Page/STUDIO_COAST.md "wikilink")、8thシングル購入者限定特別ライブ「UVERworld DoSummer\!voices 〜what we need〜」を開催。
-
-  - 10月- 11月、学園祭ツアーを敢行。
-
-  - 11月14日、9thシングル「浮世CROSSING」を発売。
-
-#### 2008年
-
-  - 1月16日、3rdオリジナルアルバム『**PROGLUTION**』を発売。アルバム発売を期に『UVER家のTV』の配信が終了。
-  - 1月 - 2月、約3年続いた共同生活に終止符を打ち、各々が一人暮らしを始める。今まで5人で住んでいた一軒家を、プライベートスタジオ**core ability**に改造する。
-  - 3月18日 - 6月6日、初のホールツアー「UVERworld PROGLUTION TOUR 2008」を開催（追加公演含む）。
-  - 6月11日、10thシングル「[激動/Just break the limit\!](https://ja.wikipedia.org/wiki/激動/Just_break_the_limit! "wikilink")」を発売。
-  - 7月15日、初のライブドキュメントブック「UVERworld PROGLUTION TOUR 2008 THE DOCUMENT」を発売。
-  - 9月10日、11thシングル「[恋いしくて](../Page/恋いしくて.md "wikilink")」を発売。
-  - 9月20日 - 9月30日、「UVERworld PROGLUTION TOUR 2008」でのライブ映像などのドキュメントムービーを全国11箇所の会場で上映するイベント「PROGLUTION TOUR ドキュメントムービー「core ability」」を開催。
-  - 10月1日、2枚目のライブDVD『[PROGLUTION TOUR 2008](https://ja.wikipedia.org/wiki/PROGLUTION_TOUR_2008 "wikilink")』を発売。シングル、アルバム、DVDを通じてUVERworld初のオリコン週間チャート1位を獲得する。
-  - 10月3日 - 10月29日、初のファンクラブ会員限定ライブツアー「UVERworld」を開催。
-  - 11月、学園祭ライブツアーを敢行。
-  - 11月19日、12thシングル「[儚くも永久のカナシ](https://ja.wikipedia.org/wiki/儚くも永久のカナシ "wikilink")」を発売。**CDでは初のオリコン週間シングルランキング1位を獲得**\[9\]。
-  - 12月5日、日本武道館にて、単発ライブ開催。**UVERworld初の日本武道館単独公演となる**。
-  - 12月13日、大阪城ホールにて、単発ライブ開催。初の大阪城ホール単独公演。
-  - 12月25日、日本武道館にて、単発ライブ「UVERworld 2008 Premium LIVE on Xmas」を開催。このライブは同月5日に行われた日本武道館単独公演の追加公演であり、クリスマスライブでもある。この年から始まった、日本武道館でのUVERworldのクリスマスライブではライブの最初に有名なクリスマスソングをカバーしており、この年は[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")と[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")の「[Happy Xmas (War Is Over)](../Page/ハッピー・クリスマス（戦争は終った）.md "wikilink")」をカバーした。
-
-#### 2009年
-
-  - 2月18日、4thオリジナルアルバム『**[AwakEVE](https://ja.wikipedia.org/wiki/AwakEVE "wikilink")**』を発売。
-  - 2月27日 - 5月7日、全国ツアー「UVERworld AwakEVE Tour09」を開催（追加公演含む）。
-  - 4月29日、3枚目のライブDVD『[UVERworld 2008 Premium LIVE at 日本武道館](https://ja.wikipedia.org/wiki/UVERworld_2008_Premium_LIVE_at_日本武道館 "wikilink")』を発売。
-  - 8月5日、13thシングル「[GO-ON](https://ja.wikipedia.org/wiki/GO-ON "wikilink")」を発売。
-  - 9月30日、4枚目のライブDVD『[AwakEVE TOUR '09](https://ja.wikipedia.org/wiki/AwakEVE_TOUR_'09 "wikilink")』を発売。
-  - 10月28日、14thシングル「[哀しみはきっと](https://ja.wikipedia.org/wiki/哀しみはきっと "wikilink")」を発売。
-  - 10月 - 11月、学園祭ツアーを敢行。
-  - 11月6日 - 12月15日、全国ツアー「UVERworld Autumn Tour 2009」を開催。
-  - 12月9日、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『**[Neo SOUND BEST](https://ja.wikipedia.org/wiki/Neo_SOUND_BEST "wikilink")**』を発売。
-  - 12月25日、日本武道館にてUVERworldのファンクラブ会員限定のクリスマスライブ「<small>Neo SOUND WAVE PRESENTS</small> UVERworld 2009 PREMIUM LIVE ON X'MAS」を開催。この年は[WHAM\!の](../Page/ワム!.md "wikilink")「[Last Christmas](https://ja.wikipedia.org/wiki/ラスト・クリスマス_\(ワム!の曲\) "wikilink")」をカバーした。
-
-#### 2010年
-
-  - 3月31日、15thシングル「[GOLD](https://ja.wikipedia.org/wiki/GOLD_\(UVERworldの曲\) "wikilink")」を発売。
-  - 4月14日、5thオリジナルアルバム『**[LAST](https://ja.wikipedia.org/wiki/LAST "wikilink")**』を発売。
-  - 4月23日 - 7月4日、全国ツアー「UVERworld LAST Tour 2010」を開催。
-  - 7月7日、初のPVクリップ集DVD『[UVERworld Video Complete -act.1- first 5 years](https://ja.wikipedia.org/wiki/UVERworld_Video_Complete_-act.1-_first_5_years "wikilink")』を発売。
-  - 9月15日、16thシングル「[クオリア](https://ja.wikipedia.org/wiki/クオリア_\(UVERworldの曲\) "wikilink")」を発売。
-  - 11月1日、Shibuya eggmanにて、シークレットライブを開催。
-  - 11月24日、17thシングル「NO.1」を発売。
-  - 11月27日、[東京ドーム](../Page/東京ドーム.md "wikilink")にて、「LAST TOUR FINAL at TOKYO DOME」を開催。**UVERworld初のドームワンマンライブとなる。**
-  - 12月25日、日本武道館にて3年連続となるクリスマスライブ、「UVERworld PROMISED DAY & PLACE 1225」を開催。この年は[坂本龍一](../Page/坂本龍一.md "wikilink")の「[Merry Christmas Mr.Lawrence](https://ja.wikipedia.org/wiki/メリー・クリスマス・ミスター・ローレンス "wikilink")」をカバーした。
-
-#### 2011年
-
-  - 4月6日、18thシングル「[MONDO PIECE](https://ja.wikipedia.org/wiki/MONDO_PIECE "wikilink")」を発売。
-  - 4月 - 7月、全国ツアー「UVERworld 47/47 TOUR 2011」を開催予定だったが、東北地方太平洋沖地震の影響を受けて、一部の公演が延期された。
-  - 5月11日、19thシングル「CORE PRIDE」を発売。
-  - 6月1日、6thオリジナルアルバム『**[LIFE 6 SENSE](https://ja.wikipedia.org/wiki/LIFE_6_SENSE "wikilink")**』を発売。
-  - 7月6日、5枚目のライブDVD『**[LAST TOUR FINAL at TOKYO DOME 2010/11/27](https://ja.wikipedia.org/wiki/LAST_TOUR_FINAL_at_TOKYO_DOME "wikilink")**』を発売、3作目のオリコンDVD総合チャートで週間1位を獲得。
-  - 7月18日、日比谷野外音楽堂<大音楽堂>にて、[LAID BACK OCEANとの対バンライブイベント](https://ja.wikipedia.org/wiki/LAID_BACK_OCEAN "wikilink")「LAID BACK OCEAN × UVERworld DREAM REPAIRS 〜夢の修理屋 5 + 6 CORE PRIDE〜」を開催。
-  - 11月 - 12月、「UVERworld 47/47 TOUR 2011」の振替公演と追加公演を開催。
-  - 12月7日、『UVERworld 2008 Premium LIVE at 日本武道館【Blu-ray】』と『LAST TOUR FINAL at TOKYO DOME 2010/11/27【Blu-ray】』を発売。
-  - 12月14日、20thシングル「BABY BORN & GO/KINJITO」を発売。
-  - 12月25日、日本武道館にて4年連続となるクリスマスライブ「UVERworld 2011 Premium LIVE on Xmas」を開催。この年はUVERworld初のライブビューイングを行い、全国の映画館62か所のほか、中国・香港、台湾の映画館で観客を動員した。
-
-#### 2012年
-
-  - 3月28日、21stシングル「[7th Trigger](https://ja.wikipedia.org/wiki/7th_Trigger "wikilink")」を発売。
-  - 4月4日、6枚目のライブDVD『**[UVERworld 2011 Premium LIVE on Xmas at Nippon Budokan](https://ja.wikipedia.org/wiki/UVERworld_2011_Premium_LIVE_on_Xmas_at_Nippon_Budokan "wikilink")**』を発売。
-  - 4月27日・29日、音楽雑誌『PATi-PATi』主催のライブイベント「PATi★Night Episode UW」を[Zepp Namba及びZepp](../Page/Zepp.md "wikilink") Divercity Tokyoにて開催。
-  - 5月2日、『**UVERworld 2011 Premium LIVE on Xmas at Nippon Budokan【Blu-ray】**』を発売。
-  - 5月- 7月、全国ツアー「UVERworld LIVE Tour 2012」を開催。
-  - 8月22日、初のドキュメンタリー映画「[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")」の全国ロードショー開始。
-  - 8月29日、22ndシングル「[THE OVER](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")」を発売。
-  - 11月28日、7thオリジナルアルバム『**[THE ONE](https://ja.wikipedia.org/wiki/THE_ONE "wikilink")**』を発売。
-  - 12月25日、日本武道館にて5年連続となるクリスマスライブを開催。
-  - 12月26日、23rdシングル「[REVERSI](https://ja.wikipedia.org/wiki/REVERSI "wikilink")」を発売。
-
-#### 2013年
-
-  - 1月30日、7枚目のライブDVD\&Blu-ray『**[UVERworld Yokohama Arena 2012.07.08](https://ja.wikipedia.org/wiki/UVERworld_Yokohama_Arena_2012.07.08 "wikilink")**』を発売。
-  - 1月24日、2月26日、ライブハウスツアー『UVERworld LIVE HOUSE TOUR 2013〜THE ONE〜』を開催。
-  - 3月6日、3月14日、『UVERworld ARENA LIVE 2013』開催。
-  - 8月14日、24thシングル「[Fight For Liberty/Wizard CLUB](https://ja.wikipedia.org/wiki/Fight_For_Liberty/Wizard_CLUB "wikilink")」を発売。
-  - 11月6日、8枚目のライブDVD & Blu-ray『**[UVERworld KING'S PARADE Zepp DiverCity 2013.02.28](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_Zepp_DiverCity_2013.02.28 "wikilink")**』を発売。
-  - 12月18日、25thシングル「**[ナノ・セカンド](https://ja.wikipedia.org/wiki/ナノ・セカンド "wikilink")**」を発売。
-  - 12月25-26日、日本武道館にて6年連続となるクリスマスライブを行った。25日は女性限定、26日は男性限定での開催。
-
-### 2014年:メジャーデビュー10周年 - 現在
-
-#### 2014年
-
-  - 3月19日、2枚目のPVクリップ集DVD『[UVERworld Video Complete -act.2-](https://ja.wikipedia.org/wiki/UVERworld_Video_Complete_-act.2- "wikilink")』を発売。
-  - 3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[サックスの誠果としてUVERworld正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
-  - 3月27日、初の[京セラドーム](https://ja.wikipedia.org/wiki/京セラドーム "wikilink")大阪公演が同年7月5日に行われることが発表された。
-  - 6月18日、26thシングル「7日目の決意」を発売。
-  - 7月2日、8thアルバム『[0̸ CHOIR](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")』を発売。
-
-#### 2015年
-
-  - 5月27日、27thシングル「[僕の言葉ではない これは僕達の言葉](https://ja.wikipedia.org/wiki/僕の言葉ではない_これは僕達の言葉 "wikilink")」を発売。
-  - 7月-9月、「UVERworld LIVE TOUR 2015」を開催。
-  - 8月2日、rockin'on主催「[ROCK IN JAPAN FESTIVAL 2015](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2015 "wikilink")」に初出演。GRASS STAGEに出演し、本フェス初登場ながら4万人を動員した。\[10\]
-  - 8月26日、28thシングル「[I LOVE THE WORLD](https://ja.wikipedia.org/wiki/I_LOVE_THE_WORLD "wikilink")」を発売。
-  - 9月-12月、「UVERworld "15&10" Anniversary Tour」を開催。
-
-#### 2016年
-
-  - 6月19日、TAKUYA∞が、オフィシャルサイトにて一般女性との入籍を発表。
-  - 7月27日、29th Single「[WE ARE GO/ALL ALONE](https://ja.wikipedia.org/wiki/WE_ARE_GO/ALL_ALONE "wikilink")」を発売。
-  - 8月-9月、全国ツアー「UVERworld SUMMER TOUR 2016」を開催。
-  - 10月-12月、全国ツアー「UVERworld ARENA TOUR 2016」を開催。
-  - 12月31日、rockin'on主催「COUNTDOWN JAPAN 16/17」に初出演。EARTH STAGEに出演した。
-
-#### 2017年
-
-  - 1月～3月、全国ツアー「UVERworld LIVE HOUSE TOUR 2017」を開催。
-  - 2月1日、30th Single「[一滴の影響](https://ja.wikipedia.org/wiki/一滴の影響 "wikilink")」を発売。
-  - 2月11日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")でアーティスト史上最大の23000人を動員した男祭りを開催。
-  - 2月12日、真太郎が一般女性との入籍を発表。
-  - 4月16日、克哉がデビュー前から交際していた一般女性との結婚を発表。
-  - 7月1日、日本テレビで放送されたテレビ番組｢THE MUSIC DAY 2017」に初登場、6年振りのTV出演となった。
-  - 7月12日、31st Single「[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")」を発売。
-  - 7月28日、MUSIC STATIONにて『NO.1』以来の7年振りの出演をした。
-  - 8月2日、9thアルバム『[TYCOON](https://ja.wikipedia.org/wiki/TYCOON "wikilink")』を発売。
-  - 8月-10月、全国ツアー「UVERworld IDEAL REALITY TOUR」を開催。
-  - 8月11日、RISING SUN ROCK FESTIVAL 2017 in EZOのSUN STAGEにて初出演。
-  - 9月26日、信人が長年支えてくれた女性との結婚を発表。
-  - 11月-12月、全国ツアー「TYCOON TOUR」を開催。
-
-#### 2018年
-
-  - 3月14日、14枚目のライブDVD & Blu-ray「[UVERworld KING'S PARADE 2017 Saitama Super Arena](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_2017_Saitama_Super_Arena "wikilink")」が発売。
-  - 5月2日、32nd Single「[ODD FUTURE](https://ja.wikipedia.org/wiki/ODD_FUTURE "wikilink")」を発売。
-  - 7月18日、2ndベスト・アルバム『[ALL TIME BEST](https://ja.wikipedia.org/wiki/ALL_TIME_BEST_\(UVERworldのアルバム\) "wikilink")』発売。
-  - 7月 - 9月、全国ツアー「UVERworld LIVE TOUR 2018」開催。
-  - 11月7日、33rd Single「[GOOD and EVIL/EDENへ](https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ "wikilink")」を発売。
-  - 11月 - 12月、全国ツアー「UVERworld ARENA TOUR 2018」開催。
-  - 12月21日、「UVERworld ARENA TOUR 2018.12.21 TAKUYA∞生誕祭～女祭り at 日本武道館～」、「UVERworld ARENA TOUR 2018.12.21 TAKUYA∞生誕祭～男祭り at 横浜アリーナ～」を開催。女祭りと男祭りを同日に行うのは今回が初である。
-
-#### 2019年
-
-  - 2月27日、34th Single「[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")」を発売\[11\]。
-  - 5月24日 メンバーの彰が結婚を発表した。
-  - 6月6日、結成19周年を迎えた。18:15にLINE LIVEを行う。同時に12月19日の東京ドーム公演が決定した。
-  - 8月11日、日本最大ロックフェス「ROCK IN JAPAN」にてトリをつとめる。GRASS STAGEに同フェス史上最多動員となる6万人超を動員した。
-  - 10月16日、35th Single「[ROB THE FRONTIER](https://ja.wikipedia.org/wiki/ROB_THE_FRONTIER "wikilink")」発売。
-  - 11-12月に全国ツアー、「UNSER TOUR」を行う。
-  - 12月4日、10th ALBUM「[UNSER](https://ja.wikipedia.org/wiki/UNSER_\(UVERworldのアルバム\) "wikilink")」発売｡
-  - 12月20日、男祭りを[東京ドーム](../Page/東京ドーム.md "wikilink")にて開催。KING'S PARADE FINALと銘打たれ、2017年のさいたまスーパーアリーナでの日本記録を自ら塗り替える45000人の男性を動員した。
-  - 12月21日、 ボーカル・TAKUYA∞の生誕祭を横浜アリーナにて開催。2017年のTYCOON TOURと同様に客席を中央から男性席と女性席に分けてのライブとなった。ライブ後、QUEEN'S AFTER PARTYを開催した。
-  - 12月25日、2008年より毎年行われているクリスマスライブは、日本武道館の改修工事の為、初の神戸ワールド記念ホールで開催された。
-
-#### 2020年
-
-  - 2月にメンバーの生誕祭ライブを含む「UVERworld LIVE HOUSE TOUR 2020」を開催した。2月26日、27日のZepp Sapporo公演と3月7日、8日の豊洲PIT公演は新型コロナウイルスの影響で延期となった。
-  - 3月4日、36th Single「[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")」を発売。
+2020年2月にメンバーの生誕祭ライブを含む「UVERworld LIVE HOUSE TOUR 2020」を開催した。2月26日、27日のZepp Sapporo公演と3月7日、8日の豊洲PIT公演は新型コロナウイルスの影響で延期となった。
 
 ## メンバー
 
-### TAKUYA∞
-
-**TAKUYA∞**（たくや）。ボーカル、ラップ、プログラミング。[既婚](../Page/結婚.md "wikilink")。TAKUYA∞の[∞](../Page/∞.md "wikilink")は「可能性は無限大」という意味が込められている。∞は読まない。星座は[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")、血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")、身長は168cm、体重は56kg。
-
-  - 担当
-
-<!-- end list -->
-
-  - ほぼ全ての楽曲の[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を手掛ける。「人に聴かせられないようなダサイ曲を創る」というのが趣味で、9thシングル「浮世CROSSING」のカップリング曲「energy」は元々そのような曲として作っていた。
-  - ボーカルを主に担当し、歌唱においてはラップやヒューマンビートボックス、ダミ声、[ファルセット](../Page/ファルセット.md "wikilink")、口笛などあらゆる唱法を使い分ける。
-  - ボーカル以外にもギター、ベース、ピアノ、[ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")などの楽器を弾くことができるマルチプレイヤーである。
-  - 人生で最初に作った曲のタイトルは、「殺しちまいな」である。2曲目が「リングにかけろ」、3曲目が「午前4時のワイングラス」であり、全て中学1年生の時に作った。またその後の少年時代にも、姉に歌ってもらう という前提で作った「神様におねがい」や、20歳手前で作った「極道マムシの兄弟」などもある。
-
-<!-- end list -->
-
-  - 人物
-
-<!-- end list -->
-
-  - 土や草のある土地で子育てをしたいという両親の意向で、幼少期に大阪府から滋賀県に転居。幼少時に信人と出会い、親友となる。[草津市立草津中学校](../Page/草津市立草津中学校.md "wikilink")1年生のときの学園祭で、TAKUYA∞の姉がボーカル、信人の兄がベースをしているバンドに刺激を受け、信人ともう一人の友人を誘いバンドを結成。中学卒業後、ライブハウスでバイトしたりしていた。中学時代の髪型は[モヒカン](https://ja.wikipedia.org/wiki/モヒカン "wikilink")だった。
-  - 滋賀県で生まれ育ったことについて、当初は交通の利便性等 さまざまな面でハンディキャップを背負っているような劣等感があったというが、UVERworldは滋賀で結成しデビューを勝ち取り、今では滋賀が大好きだという。また、曲作りのために月の半分を実家で過ごすこともある。
-  - インディーズ時代、SOUND極ROADと掛け持ちでバンド「[ファットピープス](https://ja.wikipedia.org/wiki/ファットピープス "wikilink")」を結成し、滋賀、大阪を中心にライブ活動を行っていたが、UVERworldのメジャーデビューが決まると同時に解散。この時のメンバーの1人であるAKIはUVERworldの一部楽曲に参加している。
-  - 2006年12月11日に[公務執行妨害罪で現行犯逮捕](../Page/公務の執行を妨害する罪.md "wikilink")\[12\]され、翌日[書類送検](../Page/書類送検.md "wikilink")されると共に釈放。
-  - 尊敬する人物はtickに所属していたReigo5である。好きな言葉もReigo5からの言葉である「願い続ける想いは、いつか色付く」であり、4thシングル「Colors of the Heart」の歌詞にもその言葉が登場する。また、Reigo5の「志-kokorozashi-」という曲を11thシングル「恋いしくて」のカップリング曲としてカバーしている。また、2009年2月25日発売のtickの1stシングル「キズナ」のカップリング曲「All I Want」のReigo5が歌っている部分をTAKUYA∞が担当した。
-  - 血液型は、自宅出産であったこともあり自分でも分からなかったが、2008年12月25日の日本武道館でのクリスマスライブ「UVERworld 2008 Premium LIVE on Xmas」でのMCでB型と公表した。
-  - 非喫煙者である。また年に3回程度しか飲酒をしない。2016年のアリーナツアーからは高音が出しづらくなった事をきっかけに[カフェイン](../Page/カフェイン.md "wikilink")を摂ることやめ、[黒豆茶](https://ja.wikipedia.org/wiki/黒豆茶 "wikilink")などを嗜むようになっている。食生活はグルテンフリーを軸とした肉と野菜のみである。2011年より毎日10kmのランニングを欠かさず行っている。本人曰く、「UVERworldがこれからどうなっていくべきなのか、自分はどう生きて行けば良いのか」と言うことを頭に思い浮かべながら走っているという。
-  - 一時期、出会ったファンを家に住まわせていたことがあり、その時のトラブルは小銭をパクられたぐらいだった。
-  - 西川貴教、[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[Taka](https://ja.wikipedia.org/wiki/森田貴寛 "wikilink")、[175R](../Page/175R.md "wikilink")の[SHOGO](../Page/SHOGO.md "wikilink")、[Aqua Timezの太志](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")、[シドの](../Page/シド_\(バンド\).md "wikilink")[マオ](https://ja.wikipedia.org/wiki/マオ_\(シド\) "wikilink")、元[JELLY→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")で現在はLAID BACK OCEANで活動しているヤフミ、[10-FEET](../Page/10-FEET.md "wikilink")、[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")、[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")、[HOME MADE 家族の](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")[MICRO](../Page/MICRO_\(ラッパー\).md "wikilink")、[JOY](https://ja.wikipedia.org/wiki/JOY_\(ファッションモデル\) "wikilink")、[山崎裕太](../Page/山崎裕太.md "wikilink")、[IMALU](https://ja.wikipedia.org/wiki/IMALU "wikilink")、[綾野剛](../Page/綾野剛.md "wikilink")などと交友関係がある。特に西川とは同郷ということもあり、TAKUYA∞に限らずUVERworld全員が交流しており、西川主催の[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")にも度々出演している。ヤフミとは家族ぐるみでの交流があり、本人曰く「*心友*」だという。[プロ野球](../Page/プロ野球.md "wikilink")・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[投手](../Page/投手.md "wikilink")の[武田翔太](https://ja.wikipedia.org/wiki/武田翔太 "wikilink")とも親交があり、2015年は武田が先発登板した7月1日の対[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦（東京ドーム）をベースの信人と、9月17日のソフトバンクが[パシフィック・リーグ](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")連覇を果たした対西武戦（[福岡ヤフオク\!ドーム](https://ja.wikipedia.org/wiki/福岡ヤフオク!ドーム "wikilink")）を観戦している\[13\]。
-  - 2016年6月19日、オフィシャルサイトにて一般女性との入籍を発表した。\[14\]
-
-### 克哉
-
-**克哉**（かつや）。ギター。既婚。星座は[魚座](https://ja.wikipedia.org/wiki/魚座 "wikilink")、血液型はO型。
-
-  - 人物
-
-<!-- end list -->
-
-  - 初期の頃より作曲も担当する。
-  - 幼少時、克哉の通っていた保育園にTAKUYA∞が移ってきて、そこで出会っている。ただ、その頃はあくまで面識があるだけであり、信人が居たこともあり特別仲が良いわけではなかった。
-  - 姉がギターをやっていた事がきっかけで、[音楽](../Page/音楽.md "wikilink")に興味を持つようになる。その他にも[キーボードやドラムなども姉の影響を受け](../Page/キーボード_\(楽器\).md "wikilink") 演奏するようになる。また、ボーカルを一時期担当していたこともある。
-  - 克哉が通ってた中学では、他校に「ギターがメッチャ上手い奴がいる」とTAKUYA∞の事が噂になっていた。
-  - 20歳の頃にTAKUYA∞に誘われ信人と一緒にバンドを結成。
-  - ギターは主にポール・リード・スミスのCustom 24や22、513やPaul's Guitar、[ディーンのHardtailを使う](https://ja.wikipedia.org/wiki/ディーン_\(楽器メーカー\) "wikilink")。近年はさらに[グレッチ](../Page/グレッチ.md "wikilink")のホワイトファルコン、[フェンダーの](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ストラトキャスター](https://ja.wikipedia.org/wiki/ストラトキャスター "wikilink")も使用している。
-  - 料理が得意。ファンクラブ限定で自身が作った料理をファンにふるまう企画「リストランテ克哉」を開催したり、スイーツ作りにはまっている。また同居生活時代は、克哉が料理担当であった。食事ができるまで、他は全員 部屋に篭って個人の時間を楽しんでいるため、料理が完成したら克哉が全員を呼びに行く。たまに『これ俺食べられん』と言われて困ることがあった。その時はその都度食事を一から希望通りに作り直していた。
-  - メンバー曰く、相当酒癖が悪いといわれる。メンバー5人を数時間説教し、信人だけは更に半日以上説教したことがある。
-  - ライブなどでメガネを着用する事があるが、最近はあまり着用しなくなっている。
-  - UVERworldのリーダーが克哉である理由は、RYOHEIが結婚を機にバンドを辞めたとき、TAKUYA∞は、「あ〜このままこのバンドも終わってしまうんだろうな〜、」と思っていたところ、克哉が「TAKUYA∞\!お前が1人でボーカルをやれ\!このバンドは終わらさへんぞ\!」と言う克哉の一言でUVERworldは立て直し、今の快進撃に至って居ることからリーダーになった。また、TAKUYA∞は「全体が把握できる人は中々居ないけど、克哉は本当にそれが上手くて、バランスを取ることも出来る。リーダーがもし自分のままだったら今のUVERworldはきっと無かった。」と語っている。
-  - 影響を受けた[ギタリスト](../Page/ギタリスト.md "wikilink")に[布袋寅泰](../Page/布袋寅泰.md "wikilink")を挙げている（[CDでーた](https://ja.wikipedia.org/wiki/CDでーた "wikilink") 2010年12月号より）。最初に手にしたギターも友人から貰った[フェルナンデスの布袋モデルである](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink")。
-  - 2017年 4月16日、公式オフィシャルサイトにて、デビュー前から付き合っていた女性と結婚を発表。
-  - UVERworldメンバーの中では唯一専門学校卒業である。
-
-### 信人
-
-**信人**（のぶと）。ベース。星座は[水瓶座](https://ja.wikipedia.org/wiki/水瓶座 "wikilink")、血液型はA型。既婚。
-
-  - 人物
-
-<!-- end list -->
-
-  - 中学校の文化祭で兄がベースを弾いているのを見たことがきっかけで音楽に興味を持った。
-  - TAKUYA∞とは幼稚園からの幼馴染みで、小学4年まで同じクラスだった。そのため、信人の幼き日々のエピソードのほとんどは、ボーカルであるTAKUYA∞によって語られることが多い。
-  - 小学生時代には、休み時間にお菓子のたけのこの里の中身を全部出して机に並べ、「ほらたくや！！！見てみ、たけのこの里や！！」と自慢したり、身体測定の日に「たくや、どうしよう....俺今日これしか履くものなかってん....」と語り 妹の[パンツ](../Page/パンツ.md "wikilink")を履いたりと、奇想天外な行動を少年時代から行っていた。
-  - 中学在学中に自身の兄とTAKUYA∞の姉が組んだバンドに影響を受け、学園祭の有志発表に出るためTAKUYA∞とバンドを結成。
-  - 自動車免許取得合宿で県外に出ている間に、TAKUYA∞が真太郎をスカウトし、信人だけ外されたまま、後のUVERworldである『SOUND極ROAD』が結成された。免許取得後、TAKUYA∞からライブの誘いを受け、腹を立てながらも最前列でライブを見た。その後、TAKUYA∞に頼み込みバンドの正式加入が決定。メンバーの中では一番物を壊すブレイカー。
-  - 好物はエビだが、海鮮[アレルギー](../Page/アレルギー.md "wikilink")であるため、遠慮するようにしている。しかし最近はアレルギーを気にせず食べているらしい。
-  - 幼少期、少年野球チームに入ってたことがあるが、打ったボールが鼻に当たり、気絶してしまいそれが理由でやめた。
-  - 特徴でもある鼻でイジられることが多々ある。少年期に付き合っていた彼女と喧嘩した際には「お前は鼻がウザいんじゃ！！！」とキレられたり、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で公開した「DIS is TEKI」の歌詞中でも鼻に関してイジられている。
-  - バンドメンバーに加入するまで大工のアルバイトをしており、その給料で楽器を購入していた。ノルマや機材を買うなどでお金が足りない場合は、使わなくなったベースを売って資金とした。また、自身のピアス穴は釘で開けた。
-  - おふざけでソロ曲を歌ったり、メンバーにいじられることが多いことからUVERworldの中では「お笑い担当」である。NO.1やREVERSIのカップリング曲内では、お笑い担当としての力を発揮している。また、[小豆島](../Page/小豆島.md "wikilink")という字が読めず、『おまめじま や！』と読むなど 天然である。
-  - 基本的に落ち着いた髪形だが、「」の追加公演中にはブレイズにもしていた。
-  - ベースは基本的にWarwickの「Streamer Stage I」を使用する。11thシングル「恋いしくて」ではFender Jazz Bassのヴィンテージベースを使用。なお曲によって4弦ベースと5弦ベースを使い分けており、奏法も[ピック奏法](../Page/ピック奏法.md "wikilink")、[スラップ奏法](../Page/スラップ奏法.md "wikilink")、[フィンガー・ピッキング](../Page/フィンガー・ピッキング.md "wikilink")と様々な奏法を使い分けている。最近では  のオーダーメイドで、最低音のB（通常の5弦）からD（通常の2弦）までの4弦ベースを使用している。
-  - 影響を受けたアーティストに[X JAPAN](../Page/X_JAPAN.md "wikilink")・[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")を挙げ、[tetsuya](https://ja.wikipedia.org/wiki/tetsuya "wikilink")と「PATI-PATI」誌上で対談したことがある。
-  - 2017年 9月26日、公式オフィシャルサイトにて、長年支えてくれていた女性と結婚を発表。
-
-### 誠果
-
-**誠果**（せいか）。マニピュレーション、サクソフォーン。
-
-  - 経歴、担当
-
-<!-- end list -->
-
-  - メジャーデビューの際に正式メンバーから外された（メンバー本人たちは最後まで「6人でデビューがしたい」と懇願し続けていた）。
-  - 正式加入以前より、TAKUYA∞は「SEIKAもUVERworldのメンバーだ」「俺たち6人の音」と言う発言をすることも多く、「6つの風」は、タイトルの通り誠果を含めた「6人」を比喩し、「BABY BORN & GO」の歌詞では「演奏者6人俺ら」と歌っており、「IDEAL REALITY」では「6人で立てた誓い」と歌っている。
-  - 2014年3月26日、正式にメンバー加入を公表し6人体制へと変わった。なお、サポートメンバーであった時は[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")の“SEIKA”表記であったが、正式メンバーとしての加入に伴い“誠果”と漢字表記となった。
-
-<!-- end list -->
-
-  - 人物
-
-<!-- end list -->
-
-  - メンバーからは一番の努力家と言われており、正式加入するまでに自身が担当しているマニピュレーターなど他いくつかの資格取得をしている。また、メンバーからむっつりスケベであるとも言われている。
-  - 学生時代は克哉と同じクラスだったことがあり、学校の窓を割ったりしていたらしく元[ヤンキー](../Page/ヤンキー.md "wikilink")であることが暴露された。
-  - 2018年に彰が結婚したことにより、UVERworldの中で独身なのは彼だけになった。
-
-### 彰
-
-**彰**（あきら）。ギター、プログラミング。星座は魚座、血液型はA型。妻はロックバンド「[Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink")」のボーカル＆ギター担当のあやぺた（2018年11月結婚）\[15\]。
-
-  - 人物
-
-<!-- end list -->
-
-  - 真太郎とは[同級生](../Page/同級生.md "wikilink")で、TAKUYA∞とは家が向かい同士だった。
-  - 昔、お父さんにカブトムシを取りに連れて行って貰ったことがあるが、みたことのない変な虫を捕まえて帰ってきたことがある。
-  - 当時は別のバンドに所属しており、そのバンドのライブを偶然目撃したTAKUYA∞が、そのギターの技術に惚れ込み、SOUND極ROADの結成直前にTAKUYA∞から電話で直々にスカウトされ、二つ返事で加入した。バンドに加入した当初は、性格上、騒がしいのが苦手でなかなか溶け込めなかったと語っている。
-  - 飛行機が嫌いで、以前までは移動の際に必ず新幹線などの陸路を利用していた。
-  - “AKIRA”という表記で活動していた時期がある。
-  - 共同生活時代の家事担当はゴミ捨てであり、他メンバーが分別をしないため、キレてゴミ箱を蹴ったことがある。
-  - 単独や共作も含めて作曲を担当することも多く、TAKUYA∞と一緒に作曲をする事も少なくない。
-  - インディーズ時代の目標は、2006年3月に閉店した大阪府のライブハウス・ベイサイドジェニーをソールドアウトにすることだった。
-  - 影響を受けたギタリストに（[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")）を挙げている（CDでーた 2010年12月号より）。彰自身も、 のトレードマークである「金髪」、「短パン」のスタイルにしていた時期があったという。
-  - ギターはポール・リード・スミスをメインとして「」などを使用し、他にもディーン社の「」や、「99/100騙しの哲」ではフェンダー社の「」を使用している。[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")のパートも担当しているが、その時は借り物の「Gibson J-45」を使用していた（現在は自分で別のアコギがあるが、今も目的のJ-45を探している）。
-  - 奏法は主に、ストレッチ奏法、フラジオレット、[マシンガン・ピッキング](https://ja.wikipedia.org/wiki/マシンガン・ピッキング "wikilink")、[カッティング](https://ja.wikipedia.org/wiki/カッティング "wikilink")である。
-  - アメリカのガールズ・ロック・シンガー、[BECCA](https://ja.wikipedia.org/wiki/BECCA "wikilink")のシングル「」（[MBS](../Page/毎日放送.md "wikilink")・[TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[黒執事](../Page/黒執事.md "wikilink")』エンディングテーマ）、デビューアルバム『』の収録曲「」「」のギターを担当した。
-  - インディーズの頃はベースを担当。
-  - TAKUYA∞は、「メンバーの中で一番しっかりしてるのは実は彰だと思う」と述べている。
-  - TAKUYA∞と同じくTVが苦手であり、出演時もまともに目を合わせることもあまり無い。メンバーから話を振られない限りは自発的に話すことはまず無い。
-  - UVERworldに二つ返事で加入した。
-  - メンバーの中デビュー当時から唯一髭を生やしていたが、2014年頃から髭を剃っている。
-  - 髪型の変化がメンバーの中ではそれほど激しくなく、2012年頃から髪型はおろか髪色も茶髪から変化していない。
-
-### 真太郎
-
-**真太郎**（しんたろう）。[ドラム](../Page/ドラマー.md "wikilink")。既婚。星座は[さそり座](../Page/さそり座.md "wikilink")、血液型はO型。
-
-  - 人物
-
-<!-- end list -->
-
-  - 彰とは同級生で昔から仲がよく、良く2人で草津観光をしたり、[プリクラ](https://ja.wikipedia.org/wiki/プリクラ "wikilink")を撮ったりしていた。また、彰と2人でお泊まり会をしたことがある。
-  - TAKUYA∞は真太郎のドラマーとしての腕前を甚く気に入り、彰と同様にスカウト。克哉と4人でバンドを組む（後に信人も加わる）。
-  - 1stアルバム『Timeless』発売まで、髪型はブレイズだった。
-  - 父親もドラマーであり、本人もその影響をうけた。
-  - 15歳の時TAKUYA∞は初対面時、真太郎の事を年上だと勘違いするほど 真太郎は老けて見えていたためか、TAKUYA∞は真太郎に対して敬語で喋っていた。また、後述するようにキャラとしては変態というキャラを貫き通し、徹底しているが、本来は非常に落ち着いた性格の持ち主でもある。
-  - メンバーの中で唯一大学に通っていた。(後に中退)
-  - 小学生時代にはスキー部に入っていた。また、中学では[野球](../Page/野球.md "wikilink")部に所属し、今でも一般の草野球チームに入っているほどの野球好きである。また、メンバーが出演するラジオでは時折野球談義を克哉と花を咲かせる事もあり、[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")が[ニューヨークヤンキース](https://ja.wikipedia.org/wiki/ニューヨークヤンキース "wikilink")に移籍することが明らかになった際も間接的にではあるがラジオを通して応援メッセージを寄せている。
-  - 同居生活時代において、 真太郎と信人が6畳の部屋で一緒に過ごしてた時、「いびきがうるさい！」と信人に怒られた。本人は「寝てるからわからない」と言って、改善の意思は見せなかった。
-  - ライブでのMCやラジオ番組で下ネタ発言をするなど、自他共に認める変態キャラであるが、メンバーや昔からの知り合いからは「実はマジメ」と言われている。しかし本人はキャラを徹底しており否定している。
-  - 「〜流れ・空虚・THIS WORD〜」、「AWAYOKUBA-斬る」での掛け声も担当している。（ライブでも同様）。
-  - 影響を受けたアーティストにHi-STANDARD、[中村達也](../Page/中村達也_\(ドラマー\).md "wikilink")([BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")）を挙げている。
-  - 2017年2月12日、一般女性との入籍を発表\[16\]。
-    <div class="NavFrame" style="clear:both;border:0;">
-
-<div class="NavContent" style="text-align:left;">
-
-</div>
-
-## 作品
-
-### シングル
+※担当楽器の表記は、公式プロフィールに準拠\[12\]。
 
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格</p></th>
-<th><p>規格品番</p></th>
-<th><p>最高位</p></th>
-<th><p>収録アルバム</p></th>
+<th><p>名前</p></th>
+<th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1st</p></td>
-<td><p>2005年7月6日</p></td>
-<td><p><strong><a href="../Page/D-tecnoLife.md" title="wikilink">D-tecnoLife</a></strong></p></td>
-<td><p>CD</p></td>
-<td><p>SRCL-5922</p></td>
-<td><p>4位</p></td>
-<td><p><a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a></p></td>
+<td><p><strong>TAKUYA∞</strong><br />
+（たくや）</p></td>
+<td><p><small></p>
+<ul>
+<li>担当：<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="https://ja.wikipedia.org/wiki/打ち込み" title="wikilink">プログラミング</a></li>
+<li>生年月日：</li>
+<li>血液型：B型</li>
+<li>ほぼ全ての楽曲の<a href="../Page/作詞.md" title="wikilink">作詞</a>、<a href="../Page/作曲.md" title="wikilink">作曲</a>を手掛ける。</li>
+<li>2006年12月11日に<a href="../Page/公務の執行を妨害する罪.md" title="wikilink">公務執行妨害罪で現行犯逮捕</a>[13]され、翌日<a href="../Page/書類送検.md" title="wikilink">書類送検</a>されると共に釈放。</li>
+<li>2016年6月19日、オフィシャルサイトにて一般女性との入籍を発表した。[14]</li>
+</ul>
+<p></small></p></td>
 </tr>
 <tr class="even">
-<td><p>2nd</p></td>
-<td><p>2005年10月26日</p></td>
-<td><p><strong><a href="../Page/CHANCE!_(UVERworldの曲).md" title="wikilink">CHANCE!</a></strong></p></td>
-<td><p>SRCL-5999</p></td>
-<td><p>5位</p></td>
-<td></td>
-<td></td>
+<td><p><strong>克哉</strong><br />
+（かつや）</p></td>
+<td><p><small></p>
+<ul>
+<li>担当：<a href="../Page/ギター.md" title="wikilink">ギター</a></li>
+<li>生年月日：</li>
+<li>血液型：O型</li>
+<li>初期の頃より作曲も担当する。</li>
+</ul>
+<p></small></p></td>
 </tr>
 <tr class="odd">
-<td><p>3rd</p></td>
-<td><p>2006年1月25日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/just_Melody" title="wikilink">just Melody</a></strong></p></td>
-<td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a><br />
-CD</p></td>
-<td><p>SRCL-6230〜6231（初回生産限定盤）<br />
-SRCL-6232（通常盤）</p></td>
-<td><p>17位</p></td>
-<td></td>
+<td><p><strong>信人</strong><br />
+（のぶと）</p></td>
+<td><p><small></p>
+<ul>
+<li>担当：<a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></li>
+<li>生年月日：</li>
+<li>血液型：A型</li>
+</ul>
+<p></small></p></td>
 </tr>
 <tr class="even">
-<td><p>4th</p></td>
-<td><p>2006年5月17日</p></td>
-<td><p><strong><a href="../Page/Colors_of_the_Heart.md" title="wikilink">Colors of the Heart</a></strong></p></td>
-<td><p>SRCL-6280〜6281（初回生産限定盤）<br />
-SRCL-6282（通常盤）</p></td>
-<td><p>3位</p></td>
-<td><p><a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a></p></td>
-<td></td>
+<td><p><strong>誠果</strong><br />
+（せいか）</p></td>
+<td><p><small></p>
+<ul>
+<li>担当：<a href="../Page/マニピュレーター.md" title="wikilink">マニピュレーター</a>、<a href="../Page/サクソフォーン.md" title="wikilink">サックス</a></li>
+<li>生年月日：</li>
+<li>血液型：A型</li>
+<li>メジャーデビュー時に一度正式メンバーから外れてサポートメンバーとしてバンドに関わり、2014年3月に再び正式メンバーとなった[15]。</li>
+</ul>
+<p></small></p></td>
 </tr>
 <tr class="odd">
-<td><p>5th</p></td>
-<td><p>2006年8月2日</p></td>
-<td><p><strong><a href="../Page/SHAMROCK_(曲).md" title="wikilink">SHAMROCK</a></strong></p></td>
-<td><p>SRCL-6384〜6385（初回生産限定盤）<br />
-SRCL-6386（通常盤）</p></td>
-<td><p>6位</p></td>
-<td></td>
-<td></td>
+<td><p><strong>彰</strong><br />
+（あきら）</p></td>
+<td><p><small></p>
+<ul>
+<li>担当：ギター、<a href="https://ja.wikipedia.org/wiki/打ち込み" title="wikilink">プログラミング</a></li>
+<li>生年月日：</li>
+<li>血液型：A型</li>
+<li>2018年11月に<a href="https://ja.wikipedia.org/wiki/Dizzy_Sunfist" title="wikilink">Dizzy Sunfistのあやぺたと結婚し</a>、2019年5月24日に入籍とあやぺたの妊娠を発表[16]。</li>
+</ul>
+<p></small></p></td>
 </tr>
 <tr class="even">
-<td><p>6th</p></td>
-<td><p>2006年11月15日</p></td>
-<td><p><strong><a href="../Page/君の好きなうた.md" title="wikilink">君の好きなうた</a></strong></p></td>
-<td><p>SRCL-6441〜6442（初回生産限定盤）<br />
-SRCL-6443（通常盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-<td></td>
+<td><p><strong>真太郎</strong><br />
+（しんたろう）</p></td>
+<td><p><small></p>
+<ul>
+<li>担当：<a href="../Page/ドラムセット.md" title="wikilink">ドラムス</a></li>
+<li>生年月日：</li>
+<li>血液型：O型</li>
+<li>2017年2月12日に一般女性との入籍を発表[17]。</li>
+</ul>
+<p></small></p></td>
 </tr>
 <tr class="odd">
-<td><p>7th</p></td>
-<td><p>2007年5月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/endscape" title="wikilink">endscape</a></strong></p></td>
-<td><p>SRCL-6557〜6558（初回生産限定盤）<br />
-SRCL-6559（通常盤）</p></td>
-<td><p>4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PROGLUTION" title="wikilink">PROGLUTION</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>2007年8月8日</p></td>
-<td><p><strong><a href="../Page/シャカビーチ〜Laka_Laka_La〜.md" title="wikilink">シャカビーチ〜Laka Laka La〜</a></strong></p></td>
-<td><p>SRCL-6621〜6622（初回生産限定盤）<br />
-SRCL-6623（通常盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>2007年11月14日</p></td>
-<td><p><strong><a href="../Page/浮世CROSSING.md" title="wikilink">浮世CROSSING</a></strong></p></td>
-<td><p>SRCL-6645〜6646（初回生産限定盤）<br />
-SRCL-6647（通常盤）</p></td>
-<td><p>3位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>2008年6月11日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/激動/Just_break_the_limit!" title="wikilink">激動/Just break the limit!</a></strong></p></td>
-<td><p>SRCL-6792〜6793（初回生産限定盤）<br />
-SRCL-6794（通常盤）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AwakEVE" title="wikilink">AwakEVE</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>11th</p></td>
-<td><p>2008年9月10日</p></td>
-<td><p><strong><a href="../Page/恋いしくて.md" title="wikilink">恋いしくて</a></strong></p></td>
-<td><p>SRCL-6838〜6839（初回生産限定盤）<br />
-SRCL-6840（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>12th</p></td>
-<td><p>2008年11月19日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/儚くも永久のカナシ" title="wikilink">儚くも永久のカナシ</a></strong></p></td>
-<td><p>SRCL-6892〜6893（初回生産限定盤）<br />
-SRCL-6894（ガンダム00盤）<br />
-SRCL-6895（通常盤）</p></td>
-<td><p>1位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>13th</p></td>
-<td><p>2009年8月5日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GO-ON" title="wikilink">GO-ON</a></strong></p></td>
-<td><p>SRCL-7082〜7083（初回生産限定盤）<br />
-SRCL-7084（通常盤）</p></td>
-<td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LAST" title="wikilink">LAST</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>14th</p></td>
-<td><p>2009年10月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/哀しみはきっと" title="wikilink">哀しみはきっと</a></strong></p></td>
-<td><p>SRCL-7140〜7141（初回生産限定盤）<br />
-SRCL-7142（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>15th</p></td>
-<td><p>2010年3月31日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GOLD_(UVERworldの曲)" title="wikilink">GOLD</a></strong></p></td>
-<td><p>SRCL-7239〜7240（初回生産限定盤）<br />
-SRCL-7241（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>16th</p></td>
-<td><p>2010年9月15日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/クオリア_(UVERworldの曲)" title="wikilink">クオリア</a></strong></p></td>
-<td><p>SRCL-7361〜7362（初回生産限定盤）<br />
-SRCL-7363（通常盤）<br />
-SRCL-7364（ガンダム盤）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LIFE_6_SENSE" title="wikilink">LIFE 6 SENSE</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>17th</p></td>
-<td><p>2010年11月24日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NO.1_(UVERworldの曲)" title="wikilink">NO.1</a></strong></p></td>
-<td><p>SRCL-7439〜7440（初回生産限定盤）<br />
-SRCL-7441（通常盤）</p></td>
-<td><p>4位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>18th</p></td>
-<td><p>2011年4月6日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/MONDO_PIECE" title="wikilink">MONDO PIECE</a></strong></p></td>
-<td><p>SRCL-7562〜7563（初回生産限定盤）<br />
-SRCL-7564（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>19th</p></td>
-<td><p>2011年5月11日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/CORE_PRIDE" title="wikilink">CORE PRIDE</a></strong></p></td>
-<td><p>SRCL-7635〜7636（初回生産限定盤）<br />
-SRCL-7637（通常盤）<br />
-SRCL-7638（期間生産限定盤）</p></td>
-<td><p>5位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>20th</p></td>
-<td><p>2011年12月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BABY_BORN_&amp;_GO/KINJITO" title="wikilink">BABY BORN &amp; GO/KINJITO</a></strong></p></td>
-<td><p>SRCL-7812〜7813（初回生産限定盤）<br />
-SRCL-7814（通常盤）</p></td>
-<td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_ONE" title="wikilink">THE ONE</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>21st</p></td>
-<td><p>2012年3月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/7th_Trigger" title="wikilink">7th Trigger</a></strong></p></td>
-<td><p>SRCL-7911〜7912（初回生産限定盤）<br />
-SRCL-7913（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>22nd</p></td>
-<td><p>2012年8月29日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_OVER" title="wikilink">THE OVER</a></strong></p></td>
-<td><p>SRCL-8094〜8095（初回生産限定盤）<br />
-SRCL-8096（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>23rd</p></td>
-<td><p>2012年12月26日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/REVERSI" title="wikilink">REVERSI</a></strong></p></td>
-<td><p>SRCL-8158〜8159（完全生産限定盤）<br />
-SRCL-8160（通常盤）<br />
-SRCL-8161（期間生産限定盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>24th</p></td>
-<td><p>2013年8月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Fight_For_Liberty/Wizard_CLUB" title="wikilink">Fight For Liberty/Wizard CLUB</a></strong></p></td>
-<td><p>SRCL-8327〜8328（初回生産限定盤）<br />
-SRCL-8329（通常盤）<br />
-SRCL-8330（期間限定通常盤）</p></td>
-<td><p>3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/0̸_CHOIR" title="wikilink">Ø CHOIR</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>25th</p></td>
-<td><p>2013年12月18日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ナノ・セカンド" title="wikilink">ナノ・セカンド</a></strong></p></td>
-<td><p>SRCL-8443〜8444（初回生産限定盤）<br />
-SRCL-8445（通常盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>26th</p></td>
-<td><p>2014年6月18日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/7日目の決意" title="wikilink">7日目の決意</a></strong></p></td>
-<td><p>SRCL-8449〜8450（初回生産限定盤）<br />
-SRCL-8451（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>27th</p></td>
-<td><p>2015年5月27日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/僕の言葉ではない_これは僕達の言葉" title="wikilink">僕の言葉ではない これは僕達の言葉</a></strong></p></td>
-<td><p>SRCL-8799〜8800（初回生産限定盤）<br />
-SRCL-8801（通常盤）<br />
-SRCL-8802（期間生産限定盤）</p></td>
-<td><p>3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>28th</p></td>
-<td><p>2015年8月26日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/I_LOVE_THE_WORLD" title="wikilink">I LOVE THE WORLD</a></strong></p></td>
-<td><p>SRCL-8895〜8896（初回生産限定盤）<br />
-SRCL-8897（通常盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>29th</p></td>
-<td><p>2016年7月27日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/WE_ARE_GO/ALL_ALONE" title="wikilink">WE ARE GO/ALL ALONE</a></strong></p></td>
-<td><p>SRCL-9131〜9132（初回生産限定盤）<br />
-SRCL-9133（通常盤）</p></td>
-<td><p>4位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>30th</p></td>
-<td><p>2017年2月1日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/一滴の影響" title="wikilink">一滴の影響</a></strong></p></td>
-<td><p>SRCL-9353〜9354（初回生産限定盤）<br />
-SRCL-9355（通常盤）<br />
-SRCL-9356（期間生産限定盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>31st</p></td>
-<td><p>2017年7月12日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DECIDED" title="wikilink">DECIDED</a></strong></p></td>
-<td><p>SRCL-9460〜9461（初回生産限定盤）<br />
-SRCL-9462（通常盤）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>32nd</p></td>
-<td><p>2018年5月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ODD_FUTURE" title="wikilink">ODD FUTURE</a></strong></p></td>
-<td><p>SRCL-9762〜9763（初回生産限定盤）<br />
-SRCL-9764（通常盤）<br />
-SRCL-9765（期間生産限定盤）</p></td>
-<td><p>3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>33rd</p></td>
-<td><p>2018年11月7日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ" title="wikilink">GOOD and EVIL/EDENへ</a></strong></p></td>
-<td><p>SRCL-9904〜9905（初回生産限定盤）<br />
-SRCL-9906（通常盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>34th</p></td>
-<td><p>2019年2月27日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Touch_off" title="wikilink">Touch off</a></strong></p></td>
-<td><p>2CD<br />
-CD<br />
-CD</p></td>
-<td><p>SRCL-11057〜11058（初回生産限定盤）<br />
-SRCL-11059（通常盤）<br />
-SRCL-11060（期間生産限定盤）</p></td>
-<td><p>3位</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>35th</p></td>
-<td><p>2019年10月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ROB_THE_FRONTIER" title="wikilink">ROB THE FRONTIER</a></p></td>
-<td><p>SRCL-11303〜11304（初回生産限定盤）<br />
-SRCL-11305（通常盤）<br />
-SRCL-11306（期間生産限定盤）</p></td>
-<td><p>4位</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>36th</p></td>
-<td><p>2020年3月4日</p></td>
-<td><p><strong><a href="../Page/AS_ONE_(UVERworldの曲).md" title="wikilink">AS ONE</a></strong></p></td>
-<td><p>CD＋<a href="../Page/DVD.md" title="wikilink">DVD</a><br />
-CD</p></td>
-<td><p>SRCL-11447〜11448（初回生産限定盤）<br />
-SRCL-11449（通常盤）</p></td>
-<td><p>4位</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+## ディスコグラフィ
+
+### シングル
+
+|        | 発売日                 | タイトル                                                                                                        | 規格                                                                              | 規格品番                    | 最高位                                                                   | 収録アルバム                                                                     |
+| ------ | ------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 1st    | 2005年7月6日           | **[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")**                                                        | [12cmCD](https://ja.wikipedia.org/wiki/シングル#12cmCDシングル（マキシシングル）への移行 "wikilink") | SRCL-5922               | 4位                                                                    | [Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")              |
+| 2nd    | 2005年10月26日         | **[CHANCE\!](../Page/CHANCE!_\(UVERworldの曲\).md "wikilink")**                                               | 12cmCD                                                                          | SRCL-5999               | 5位                                                                    |                                                                            |
+| 3rd    | 2006年1月25日          | **[just Melody](https://ja.wikipedia.org/wiki/just_Melody "wikilink")**                                     | CD+[DVD](../Page/DVD.md "wikilink")                                             | SRCL-6230〜1（初回生産限定盤）    | 17位                                                                   |                                                                            |
+| 12cmCD | SRCL-6232（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 4th    | 2006年5月17日          | **[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")**                                        | CD+DVD                                                                          | SRCL-6280〜6281（初回生産限定盤） | 3位                                                                    | [BUGRIGHT](../Page/BUGRIGHT.md "wikilink")                                 |
+| 12cmCD | SRCL-6282（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 5th    | 2006年8月2日           | **[SHAMROCK](../Page/SHAMROCK_\(曲\).md "wikilink")**                                                        | CD+DVD                                                                          | SRCL-6384〜5（初回生産限定盤）    | 6位                                                                    |                                                                            |
+| 12cmCD | SRCL-6386（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 6th    | 2006年11月15日         | **[君の好きなうた](../Page/君の好きなうた.md "wikilink")**                                                                | CD+DVD                                                                          | SRCL-6441〜2（初回生産限定盤）    | 2位                                                                    |                                                                            |
+| 12cmCD | SRCL-6443（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 7th    | 2007年5月30日          | **[endscape](https://ja.wikipedia.org/wiki/endscape "wikilink")**                                           | CD+DVD                                                                          | SRCL-6557〜8（初回生産限定盤）    | 4位                                                                    | [PROGLUTION](../Page/PROGLUTION.md "wikilink")                             |
+| 12cmCD | SRCL-6559（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 8th    | 2007年8月8日           | **[シャカビーチ〜Laka Laka La〜](../Page/シャカビーチ〜Laka_Laka_La〜.md "wikilink")**                                      | CD+DVD                                                                          | SRCL-6621〜2（初回生産限定盤）    | 2位                                                                    |                                                                            |
+| 12cmCD | SRCL-6623（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 9th    | 2007年11月14日         | **[浮世CROSSING](../Page/浮世CROSSING.md "wikilink")**                                                          | CD+DVD                                                                          | SRCL-6645〜6（初回生産限定盤）    | 3位                                                                    |                                                                            |
+| 12cmCD | SRCL-6647（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 10th   | 2008年6月11日          | **[激動/Just break the limit\!](https://ja.wikipedia.org/wiki/激動/Just_break_the_limit! "wikilink")**          | CD+DVD                                                                          | SRCL-6792〜3（初回生産限定盤）    | [AwakEVE](https://ja.wikipedia.org/wiki/AwakEVE "wikilink")           |                                                                            |
+| 12cmCD | SRCL-6794（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 11th   | 2008年9月10日          | **[恋いしくて](../Page/恋いしくて.md "wikilink")**                                                                    | CD+DVD                                                                          | SRCL-6838〜9（初回生産限定盤）    |                                                                       |                                                                            |
+| 12cmCD | SRCL-6840（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12th   | 2008年11月19日         | **[儚くも永久のカナシ](https://ja.wikipedia.org/wiki/儚くも永久のカナシ "wikilink")**                                         | CD+DVD                                                                          | SRCL-6892〜3（初回生産限定盤）    | 1位                                                                    |                                                                            |
+| 12cmCD | SRCL-6894（ガンダム00盤）  |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-6895（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 13th   | 2009年8月5日           | **[GO-ON](https://ja.wikipedia.org/wiki/GO-ON "wikilink")**                                                 | CD+DVD                                                                          | SRCL-7082〜3（初回生産限定盤）    | 2位                                                                    | [LAST](https://ja.wikipedia.org/wiki/LAST "wikilink")                      |
+| 12cmCD | SRCL-7084（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 14th   | 2009年10月28日         | **[哀しみはきっと](https://ja.wikipedia.org/wiki/哀しみはきっと "wikilink")**                                             | CD+DVD                                                                          | SRCL-7140〜1（初回生産限定盤）    |                                                                       |                                                                            |
+| 12cmCD | SRCL-7142（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 15th   | 2010年3月31日          | **[GOLD](https://ja.wikipedia.org/wiki/GOLD_\(UVERworldの曲\) "wikilink")**                                   | CD+DVD                                                                          | SRCL-7239〜40（初回生産限定盤）   |                                                                       |                                                                            |
+| 12cmCD | SRCL-7241（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 16th   | 2010年9月15日          | **[クオリア](https://ja.wikipedia.org/wiki/クオリア_\(UVERworldの曲\) "wikilink")**                                   | CD+DVD                                                                          | SRCL-7361〜2（初回生産限定盤）    | [LIFE 6 SENSE](https://ja.wikipedia.org/wiki/LIFE_6_SENSE "wikilink") |                                                                            |
+| 12cmCD | SRCL-7363（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-7364（ガンダム盤）    |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 17th   | 2010年11月24日         | **[NO.1](https://ja.wikipedia.org/wiki/NO.1_\(UVERworldの曲\) "wikilink")**                                   | CD+DVD                                                                          | SRCL-7439〜40（初回生産限定盤）   | 4位                                                                    |                                                                            |
+| 12cmCD | SRCL-7441（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 18th   | 2011年4月6日           | **[MONDO PIECE](https://ja.wikipedia.org/wiki/MONDO_PIECE "wikilink")**                                     | CD+DVD                                                                          | SRCL-7562〜3（初回生産限定盤）    |                                                                       |                                                                            |
+| 12cmCD | SRCL-7564（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 19th   | 2011年5月11日          | **[CORE PRIDE](https://ja.wikipedia.org/wiki/CORE_PRIDE "wikilink")**                                       | CD+DVD                                                                          | SRCL-7635〜6（初回生産限定盤）    | 5位                                                                    |                                                                            |
+| 12cmCD | SRCL-7637（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-7638（期間生産限定盤）  |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 20th   | 2011年12月14日         | **[BABY BORN & GO/KINJITO](https://ja.wikipedia.org/wiki/BABY_BORN_&_GO/KINJITO "wikilink")**               | CD+DVD                                                                          | SRCL-7812〜3（初回生産限定盤）    | 2位                                                                    | [THE ONE](https://ja.wikipedia.org/wiki/THE_ONE "wikilink")                |
+| 12cmCD | SRCL-7814（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 21st   | 2012年3月28日          | **[7th Trigger](https://ja.wikipedia.org/wiki/7th_Trigger "wikilink")**                                     | CD+DVD                                                                          | SRCL-7911〜2（初回生産限定盤）    |                                                                       |                                                                            |
+| 12cmCD | SRCL-7913（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 22nd   | 2012年8月29日          | **[THE OVER](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")**                                           | CD+DVD                                                                          | SRCL-8094〜5（初回生産限定盤）    |                                                                       |                                                                            |
+| 12cmCD | SRCL-8096（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 23rd   | 2012年12月26日         | **[REVERSI](https://ja.wikipedia.org/wiki/REVERSI "wikilink")**                                             | CD+DVD                                                                          | SRCL-8158〜9（完全生産限定盤）    |                                                                       |                                                                            |
+| 12cmCD | SRCL-8160（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-8161（期間生産限定盤）  |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 24th   | 2013年8月14日          | **[Fight For Liberty/Wizard CLUB](https://ja.wikipedia.org/wiki/Fight_For_Liberty/Wizard_CLUB "wikilink")** | CD+DVD                                                                          | SRCL-8327〜8（初回生産限定盤）    | 3位                                                                    | [Ø CHOIR](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")               |
+| 12cmCD | SRCL-8329（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-8330（期間限定通常盤）  |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 25th   | 2013年12月18日         | **[ナノ・セカンド](https://ja.wikipedia.org/wiki/ナノ・セカンド "wikilink")**                                             | CD+DVD                                                                          | SRCL-8443〜4（初回生産限定盤）    | 2位                                                                    |                                                                            |
+| 12cmCD | SRCL-8445（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 26th   | 2014年6月18日          | **[7日目の決意](https://ja.wikipedia.org/wiki/7日目の決意 "wikilink")**                                               | CD+DVD                                                                          | SRCL-8449〜50（初回生産限定盤）   |                                                                       |                                                                            |
+| 12cmCD | SRCL-8451（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 27th   | 2015年5月27日          | **[僕の言葉ではない これは僕達の言葉](https://ja.wikipedia.org/wiki/僕の言葉ではない_これは僕達の言葉 "wikilink")**                         | CD+DVD                                                                          | SRCL-8799〜800（初回生産限定盤）  | 3位                                                                    | [TYCOON](https://ja.wikipedia.org/wiki/TYCOON "wikilink")                  |
+| 12cmCD | SRCL-8801（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-8802（期間生産限定盤）  |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 28th   | 2015年8月26日          | **[I LOVE THE WORLD](https://ja.wikipedia.org/wiki/I_LOVE_THE_WORLD "wikilink")**                           | CD+DVD                                                                          | SRCL-8895〜6（初回生産限定盤）    | 2位                                                                    |                                                                            |
+| 12cmCD | SRCL-8897（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 29th   | 2016年7月27日          | **[WE ARE GO/ALL ALONE](https://ja.wikipedia.org/wiki/WE_ARE_GO/ALL_ALONE "wikilink")**                     | CD+DVD                                                                          | SRCL-9131〜2（初回生産限定盤）    | 4位                                                                    |                                                                            |
+| 12cmCD | SRCL-9133（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 30th   | 2017年2月1日           | **[一滴の影響](https://ja.wikipedia.org/wiki/一滴の影響 "wikilink")**                                                 | CD+DVD                                                                          | SRCL-9353〜4（初回生産限定盤）    | 2位                                                                    |                                                                            |
+| 12cmCD | SRCL-9355（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-9356（期間生産限定盤）  |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 31st   | 2017年7月12日          | **[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")**                                             | CD+DVD                                                                          | SRCL-9460〜1（初回生産限定盤）    |                                                                       |                                                                            |
+| 12cmCD | SRCL-9462（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 32nd   | 2018年5月2日           | **[ODD FUTURE](https://ja.wikipedia.org/wiki/ODD_FUTURE "wikilink")**                                       | CD+DVD                                                                          | SRCL-9762〜3（初回生産限定盤）    | 3位                                                                    | [UNSER](https://ja.wikipedia.org/wiki/UNSER_\(UVERworldのアルバム\) "wikilink") |
+| 12cmCD | SRCL-9764（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-9765（期間生産限定盤）  |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 33rd   | 2018年11月7日          | **[GOOD and EVIL/EDENへ](https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ "wikilink")**                     | CD+DVD                                                                          | SRCL-9904〜5（初回生産限定盤）    | 2位                                                                    |                                                                            |
+| 12cmCD | SRCL-9906（通常盤）      |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 34th   | 2019年2月27日          | **[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")**                                         | 2CD                                                                             | SRCL-11057〜8（初回生産限定盤）   | 3位                                                                    |                                                                            |
+| 12cmCD | SRCL-11059（通常盤）     |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-11060（期間生産限定盤） |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 35th   | 2019年10月16日         | **[ROB THE FRONTIER](https://ja.wikipedia.org/wiki/ROB_THE_FRONTIER "wikilink")**                           | 2CD                                                                             | SRCL-11303〜4（初回生産限定盤）   | 4位                                                                    |                                                                            |
+| 12cmCD | SRCL-11305（通常盤）     |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 12cmCD | SRCL-11306（期間生産限定盤） |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+| 36th   | 2020年3月4日           | **[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")**                                                  | CD+DVD                                                                          | SRCL-11447〜8（初回生産限定盤）   | 4位                                                                    | N/A                                                                        |
+| 12cmCD | SRCL-11449（通常盤）     |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
+|        |                     |                                                                                                             |                                                                                 |                         |                                                                       |                                                                            |
 
 #### 配布シングル
 
@@ -821,488 +234,120 @@ SRCL-11449（通常盤）</p></td>
 
 ### アルバム
 
-#### オリジナルアルバム
+#### オリジナル・アルバム
 
-<table>
-<thead>
-<tr class="header">
-<th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格</p></th>
-<th><p>規格品番</p></th>
-<th><p>最高位</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>2006年2月15日</p></td>
-<td><p><strong><a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CD" title="wikilink">CD</a></p></td>
-<td><p>SRCL-6240</p></td>
-<td><p>5位</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>2007年2月21日</p></td>
-<td><p><strong><a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a></strong></p></td>
-<td><p>CD+DVD<br />
-CD</p></td>
-<td><p>SRCL-6462〜6463（初回生産限定盤）<br />
-SRCL-6464（通常盤）</p></td>
-<td><p>2位</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>2008年1月16日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/PROGLUTION" title="wikilink">PROGLUTION</a></strong></p></td>
-<td><p>SRCL-6693〜6694（初回生産限定盤）<br />
-SRCL-6695（通常盤）</p></td>
-<td><p>3位</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>2009年2月18日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AwakEVE" title="wikilink">AwakEVE</a></strong></p></td>
-<td><p>SRCL-6943〜6944（初回生産限定盤）<br />
-SRCL-6945（通常盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>2010年4月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LAST" title="wikilink">LAST</a></strong></p></td>
-<td><p>SRCL-7242〜7243（初回生産限定盤）<br />
-SRCL-7244（通常盤）</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>2011年6月1日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LIFE_6_SENSE" title="wikilink">LIFE 6 SENSE</a></strong></p></td>
-<td><p>SRCL-7603〜7604（初回生産限定盤）<br />
-SRCL-7605（通常盤）</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>2012年11月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_ONE" title="wikilink">THE ONE</a></strong></p></td>
-<td><p>SRCL-8155〜8156（初回生産限定盤）<br />
-SRCL-8157（通常盤）</p></td>
-<td><p>4位</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>2014年7月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/0̸_CHOIR" title="wikilink">Ø CHOIR</a></strong></p></td>
-<td><p>SRCL-8552〜8553（初回生産限定盤）<br />
-SRCL-8554（通常盤）</p></td>
-<td><p>2位</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>2017年8月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a></strong></p></td>
-<td><p>2CD<br />
-CD</p></td>
-<td><p>SRCL-9467〜9468（初回生産限定盤）<br />
-SRCL-9469（通常盤）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>2019年12月4日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a></strong></p></td>
-<td><p>CD+BD<br />
-CD+DVD<br />
-CD</p></td>
-<td><p>SRCL-11325〜11326（初回生産限定盤A）<br />
-SRCL-11327〜11328（初回生産限定盤B）<br />
-SRCL-11329（通常盤）</p></td>
-<td><p>1位</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|             | 発売日                            | タイトル                                                                           | 規格                                    | 規格品番                   | 最高位 |
+| ----------- | ------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------- | ---------------------- | --- |
+| 1st         | 2006年2月15日                     | **[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")**              | [CD](../Page/コンパクトディスク.md "wikilink") | SRCL-6240              | 5位  |
+| 2006年11月22日 | **Timeless (Special Edition)** | CD+[DVD](../Page/DVD.md "wikilink")                                            | SRCL-6444〜5                           | 32位                    |     |
+| 2nd         | 2007年2月21日                     | **[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")**                                 | CD+DVD                                | SRCL-6462〜3（初回生産限定盤）   | 2位  |
+| CD          | SRCL-6464（通常盤）                 |                                                                                |                                       |                        |     |
+| 3rd         | 2008年1月16日                     | **[PROGLUTION](../Page/PROGLUTION.md "wikilink")**                             | CD+DVD                                | SRCL-6693〜4（初回生産限定盤）   | 3位  |
+| CD          | SRCL-6695（通常盤）                 |                                                                                |                                       |                        |     |
+| 4th         | 2009年2月18日                     | **[AwakEVE](https://ja.wikipedia.org/wiki/AwakEVE "wikilink")**                | CD+DVD                                | SRCL-6943〜4（初回生産限定盤）   | 2位  |
+| CD          | SRCL-6945（通常盤）                 |                                                                                |                                       |                        |     |
+| 5th         | 2010年4月14日                     | **[LAST](https://ja.wikipedia.org/wiki/LAST "wikilink")**                      | CD+DVD                                | SRCL-7242〜3（初回生産限定盤）   |     |
+| CD          | SRCL-7244（通常盤）                 |                                                                                |                                       |                        |     |
+| 6th         | 2011年6月1日                      | **[LIFE 6 SENSE](https://ja.wikipedia.org/wiki/LIFE_6_SENSE "wikilink")**      | CD+DVD                                | SRCL-7603〜4（初回生産限定盤）   |     |
+| CD          | SRCL-7605（通常盤）                 |                                                                                |                                       |                        |     |
+| 7th         | 2012年11月28日                    | **[THE ONE](https://ja.wikipedia.org/wiki/THE_ONE "wikilink")**                | CD+DVD                                | SRCL-8155〜6（初回生産限定盤）   | 4位  |
+| CD          | SRCL-8157（通常盤）                 |                                                                                |                                       |                        |     |
+| 8th         | 2014年7月2日                      | **[Ø CHOIR](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")**               | CD+DVD                                | SRCL-8552〜3（初回生産限定盤）   | 2位  |
+| CD          | SRCL-8554（通常盤）                 |                                                                                |                                       |                        |     |
+| 9th         | 2017年8月2日                      | **[TYCOON](https://ja.wikipedia.org/wiki/TYCOON "wikilink")**                  | 2CD                                   | SRCL-9467〜8（初回生産限定盤）   |     |
+| CD          | SRCL-9469（通常盤）                 |                                                                                |                                       |                        |     |
+| 10th        | 2019年12月4日                     | **[UNSER](https://ja.wikipedia.org/wiki/UNSER_\(UVERworldのアルバム\) "wikilink")** | CD+BD                                 | SRCL-11325〜6（初回生産限定盤A） | 1位  |
+| CD+DVD      | SRCL-11327〜8（初回生産限定盤B）         |                                                                                |                                       |                        |     |
+| CD          | SRCL-11329（通常盤）                |                                                                                |                                       |                        |     |
+|             |                                |                                                                                |                                       |                        |     |
 
-#### ベストアルバム
+#### ベスト・アルバム
 
-<table>
-<thead>
-<tr class="header">
-<th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格</p></th>
-<th><p>規格品番</p></th>
-<th><p>最高位</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>2009年12月9日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a></strong></p></td>
-<td><p>CD+DVD<br />
-CD</p></td>
-<td><p>SRCL-7173〜7174（初回生産限定盤）<br />
-SRCL-7175（通常盤）</p></td>
-<td><p>3位</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>2018年7月18日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a></strong></p></td>
-<td><p>4CD<br />
-3CD+BD<br />
-3CD+DVD<br />
-3CD</p></td>
-<td><p>SRCL-9855～9858（完全生産限定盤）<br />
-SRCL-9860～9863（初回生産限定盤A）<br />
-SRCL-9864～9867（初回生産限定盤B）<br />
-SRCL-9868～9870（通常盤）</p></td>
-<td><p>2位</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### 再発売
-
-| 発売日         | タイトル                                                                                                                              | 規格     | 規格品番           | 最高位 |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------- | --- |
-| 2006年11月22日 | **[Timeless(Special Edition)](https://ja.wikipedia.org/wiki/Timeless_\(UVERworldのアルバム\)#Timeless\(Special_Edition\) "wikilink")** | CD+DVD | SRCL-6444〜6445 | 32位 |
-|             |                                                                                                                                   |        |                |     |
+|         | 発売日                   | タイトル                                                                                           | 規格     | 規格品番                 | 最高位 |
+| ------- | --------------------- | ---------------------------------------------------------------------------------------------- | ------ | -------------------- | --- |
+| 1st     | 2009年12月9日            | **[Neo SOUND BEST](https://ja.wikipedia.org/wiki/Neo_SOUND_BEST "wikilink")**                  | CD+DVD | SRCL-7173〜4（初回生産限定盤） | 3位  |
+| CD      | SRCL-7175（通常盤）        |                                                                                                |        |                      |     |
+| 2nd     | 2018年7月18日            | **[ALL TIME BEST](https://ja.wikipedia.org/wiki/ALL_TIME_BEST_\(UVERworldのアルバム\) "wikilink")** | 4CD    | SRCL-9855〜8（完全生産限定盤） | 2位  |
+| 3CD+BD  | SRCL-9860〜3（初回生産限定盤A） |                                                                                                |        |                      |     |
+| 3CD+DVD | SRCL-9864〜7（初回生産限定盤B） |                                                                                                |        |                      |     |
+| 3CD     | SRCL-9868〜70（通常盤）     |                                                                                                |        |                      |     |
+|         |                       |                                                                                                |        |                      |     |
 
 ### 映像作品
 
 #### ライブDVD
 
-<table>
-<thead>
-<tr class="header">
-<th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格</p></th>
-<th><p>規格品番</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>2006年12月20日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_at_SHIBUYA-AX_from_Timeless_TOUR_2006" title="wikilink">LIVE at SHIBUYA-AX from Timeless TOUR 2006</a></strong></p></td>
-<td><p>DVD</p></td>
-<td><p>SRBL-1295</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>2008年10月1日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/PROGLUTION_TOUR_2008" title="wikilink">PROGLUTION TOUR 2008</a></strong></p></td>
-<td><p>DVD+CD</p></td>
-<td><p>SRBL-1372〜1373（初回生産限定盤）<br />
-SRBL-1374（通常盤）</p></td>
-</tr>
-<tr class="odd">
-<td><p>3rd</p></td>
-<td><p>2009年4月29日 【BD】2011年12月7日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_2008_Premium_LIVE_at_日本武道館" title="wikilink">UVERworld 2008 Premium LIVE at 日本武道館</a></strong></p></td>
-<td><p>DVD+CD<br />
-BD</p></td>
-<td><p>SRBL-1393〜1394（初回生産限定盤）<br />
-SRBL-1395（通常盤）<br />
-SRXL-9（通常盤BD）</p></td>
-</tr>
-<tr class="even">
-<td><p>4th</p></td>
-<td><p>2009年9月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/AwakEVE_TOUR_&#39;09" title="wikilink">AwakEVE TOUR '09</a></strong></p></td>
-<td><p>DVD+CD</p></td>
-<td><p>SRBL-1413〜1414（初回生産限定盤）<br />
-SRBL-1415（通常盤）</p></td>
-</tr>
-<tr class="odd">
-<td><p>5th</p></td>
-<td><p>2011年7月6日 【BD】2011年12月7日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/LAST_TOUR_FINAL_at_TOKYO_DOME" title="wikilink">LAST TOUR FINAL at TOKYO DOME</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>SRBL-1491〜1492（初回生産限定盤）<br />
-SRBL-1493〜1494（通常盤）</p></td>
-</tr>
-<tr class="even">
-<td><p>6th</p></td>
-<td><p>2012年4月4日 【BD】2012年5月2日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_2011_Premium_LIVE_on_Xmas_at_Nippon_Budokan" title="wikilink">UVERworld 2011 Premium LIVE on Xmas at Nippon Budokan</a></strong></p></td>
-<td><p>SRBL-1525〜1526（初回生産限定盤）<br />
-SRBL‐1527〜1528（通常盤）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7th</p></td>
-<td><p>2013年1月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_Yokohama_Arena_2012.07.08" title="wikilink">UVERworld Yokohama Arena 2012.07.08</a></strong></p></td>
-<td><p>SRBL- (初回生産限定盤)特製PHOTO BOOKLET付き<br />
-SRBL- (通常盤)<br />
-SRXL-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8th</p></td>
-<td><p>2013年11月6日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_KING&#39;S_PARADE_Zepp_DiverCity_2013.02.28" title="wikilink">UVERworld KING'S PARADE Zepp DiverCity 2013.02.28</a></strong></p></td>
-<td><p>SRBL-1592-3 (初回生産限定盤)さいたまスーパーアリーナのライブから15曲収録のDVDとSpecial Photo Booklet付き<br />
-SRBL-1594 (通常盤DVD)<br />
-SRXL-46 (通常盤BD)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
-<td><p>2014年9月24日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_KING&#39;S_PARADE_Nippon_Budokan_2013.12.26" title="wikilink">UVERworld KING'S PARADE Nippon Budokan 2013.12.26</a></strong></p></td>
-<td><p>SRBL-1592-3 (初回生産限定盤)40PにわたるアリーナツアーSpecial Photo Book、三方背ケース<br />
-SRBL-1594 (通常盤DVD)<br />
-SRXL-46 (通常盤BD)</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10th</p></td>
-<td><p>2015年4月15日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_Live_at_Kyocera_Dome_Osaka_2014.07.05" title="wikilink">UVERworld Live at Kyocera Dome Osaka 2014.07.05</a></strong></p></td>
-<td><p>DVD<br />
-DVD＋CD<br />
-BD<br />
-BD＋CD</p></td>
-<td><p>BD ・初回生産限定盤（Blu-ray+2CD）[SRXL-63〜5]三方背ケース、スペシャルフォトブックつき<br />
-・通常盤（Blu-ray）[SRXL-66]<br />
-DVD<br />
-・初回生産限定盤（2DVD+2CD）[SRBL-1646〜9]三方背ケース、スペシャルフォトブックつき<br />
-・通常盤（2DVD）[SRBL-1650〜1]</p></td>
-</tr>
-<tr class="odd">
-<td><p>11th</p></td>
-<td><p>2015年9月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_KING&#39;S_PARADE_at_Yokohama_Arena" title="wikilink">UVERworld KING'S PARADE at Yokohama Arena</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>BD ・初回生産限定盤（Blu-ray）[SRXL-74]・通常盤（Blu-ray）[SRXL-75]<br />
-DVD<br />
-・初回生産限定盤（2DVD）[SRBL-1668～1669]・通常盤（2DVD）[SRBL-1670～1671]</p></td>
-</tr>
-<tr class="even">
-<td><p>12th</p></td>
-<td><p>2016年6月8日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_15&amp;10_Anniversary_Live" title="wikilink">UVERworld 15&amp;10 Anniversary Live</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>BD ・完全限定生産盤（2Blu-ray）[SRXL-94〜95]三背方ケース、スペシャルフォトブックつき<br />
-・通常盤1（Blu-ray）[SRXL-96]・通常盤2（Blu-ray）[SRXL-97]<br />
-DVD<br />
-・完全限定生産盤（2DVD）[SRBL-1701〜1702]三背方ケース、スペシャルフォトブックつき<br />
-・通常盤1（DVD0）[SRBL-1703]・通常盤2（DVD）[SRBL-1704]</p></td>
-</tr>
-<tr class="odd">
-<td><p>13th</p></td>
-<td><p>2016年11月2日</p></td>
-<td><p>'''<a href="https://ja.wikipedia.org/wiki/UVERworld_PREMIUM_LIVE_on_Xmas_2015_at_Nippon_Budokan" title="wikilink">UVERworld PREMIUM LIVE on Xmas 2015 at Nippon Budokan</a> '''</p></td>
-<td><p>DVD<br />
-DVD＋CD<br />
-BD<br />
-BD＋CD</p></td>
-<td><p>BD ・初回生産限定盤（Blu-ray+CD) [SRXL-109～110] 三方背ケース、スペシャルフォトブックつき<br />
-・通常盤（Blu-ray）[SRXL-112]<br />
-DVD<br />
-・初回生産限定盤（2DVD+CD）[SRBL-1725～27]三方背ケース、スペシャルフォトブックつき<br />
-・通常盤（2DVD）[SRBL-1729～30]</p></td>
-</tr>
-<tr class="even">
-<td><p>14th</p></td>
-<td><p>2018年3月14日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_KING&#39;S_PARADE_2017_Saitama_Super_Arena" title="wikilink">UVERworld KING'S PARADE 2017 Saitama Super Arena</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>BD ・初回生産限定版（Blu-ray）[SRXL-153]スリーブケース、フォトブックレット、プレイパス付き</p>
-<p>・通常版（Blu-ray）<br />
-DVD<br />
-・初回生産限定版（DVD）[SRBL-1781]スリーブケース、フォトブックレット、プレイパス付き</p>
-<p>・通常版（DVD）</p></td>
-</tr>
-<tr class="odd">
-<td><p>15th</p></td>
-<td><p>2019年1月16日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_TYCOON_TOUR_at_Yokohama_Arena_2017.12.21" title="wikilink">UVERworld TYCOON TOUR at Yokohama Arena 2017.12.21</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>BD ・初回生産限定版（2Blu-ray）[SRXL-191~2]三方背ケース、フォトブックレット付き</p>
-<p>・通常版(Blu-ray) [SRXL-193]<br />
-DVD<br />
-・初回生産限定版（3DVD）[SRBL-1832～4]三方背ケース、フォトブックレット付き</p>
-<p>・通常版(2DVD)</p></td>
-</tr>
-<tr class="even">
-<td><p>16th</p></td>
-<td><p>2019年7月10日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_2018.12.21_Complete_Package" title="wikilink">UVERworld 2018.12.21 Complete Package</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>BD ・完全生産限定版（3Blu-ray）[SRXL-203 ～ SRXL-206]フォトブックレット、プレイパス付き<br />
-DVD<br />
-・完全生産限定版（3DVD）[SRBL-1850 ～ SRBL-1853]フォトブックレット、プレイパス付き</p></td>
-</tr>
-<tr class="odd">
-<td><p>17th</p></td>
-<td><p>2019年7月10日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_QUEEN&#39;S_PARTY_at_Nippon_Budokan_2018.12.21" title="wikilink">UVERworld QUEEN'S PARTY at Nippon Budokan 2018.12.21</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>BD ・初回生産限定版（Blu-ray）[SRXL-207]プレイパス付き</p>
-<p>・通常版(Blu-ray)<br />
-DVD<br />
-・初回生産限定版（DVD）[SRBL-1854]プレイパス付き</p>
-<p>・通常版（DVD）</p></td>
-</tr>
-<tr class="even">
-<td><p>18th</p></td>
-<td><p>2019年7月10日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_KING&#39;S_PARADE_at_Yokohama_Arena_2018.12.21" title="wikilink">UVERworld KING'S PARADE at Yokohama Arena 2018.12.21</a></strong></p></td>
-<td><p>DVD<br />
-BD</p></td>
-<td><p>BD ・初回生産限定版（Blu-ray）[SRXL-208]プレイパス付き</p>
-<p>・通常版（Blu-ray）<br />
-DVD<br />
-・初回生産限定版（DVD） [SRBL-1855]プレイパス付き</p>
-<p>・通常版（DVD）</p></td>
-</tr>
-</tbody>
-</table>
+|                          | 発売日                                           | タイトル                                                                                                                                                        | 規格                   | 規格品番                 |
+| ------------------------ | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------- |
+| 1st                      | 2006年12月20日                                   | **[LIVE at SHIBUYA-AX from Timeless TOUR 2006](https://ja.wikipedia.org/wiki/LIVE_at_SHIBUYA-AX_from_Timeless_TOUR_2006 "wikilink")**                       | DVD                  | SRBL-1295            |
+| 2nd                      | 2008年10月1日                                    | **[PROGLUTION TOUR 2008](https://ja.wikipedia.org/wiki/PROGLUTION_TOUR_2008 "wikilink")**                                                                   | DVD+CD               | SRBL-1372〜3（初回生産限定盤） |
+| DVD                      | SRBL-1374（通常盤）                                |                                                                                                                                                             |                      |                      |
+| 3rd                      | 2009年4月29日                                    | **[UVERworld 2008 Premium LIVE at 日本武道館](https://ja.wikipedia.org/wiki/UVERworld_2008_Premium_LIVE_at_日本武道館 "wikilink")**                                   | DVD+CD               | SRBL-1393〜4（初回生産限定盤） |
+| DVD                      | SRBL-1395（通常盤）                                |                                                                                                                                                             |                      |                      |
+| 2011年12月7日               | [Blu-ray](../Page/Blu-ray_Disc.md "wikilink") | SRXL-9                                                                                                                                                      |                      |                      |
+| 4th                      | 2009年9月30日                                    | **[AwakEVE TOUR '09](https://ja.wikipedia.org/wiki/AwakEVE_TOUR_'09 "wikilink")**                                                                           | DVD+CD               | SRBL-1413〜4（初回生産限定盤） |
+| DVD                      | SRBL-1415（通常盤）                                |                                                                                                                                                             |                      |                      |
+| 5th                      | 2011年7月6日                                     | **[LAST TOUR FINAL at TOKYO DOME](https://ja.wikipedia.org/wiki/LAST_TOUR_FINAL_at_TOKYO_DOME "wikilink")**                                                 | 2DVD                 | SRBL-1491〜2（初回生産限定盤） |
+| 2DVD                     | SRBL-1493〜4（通常盤）                              |                                                                                                                                                             |                      |                      |
+| 2011年12月7日               | Blu-ray                                       | SRXL-10                                                                                                                                                     |                      |                      |
+| 6th                      | 2012年4月4日                                     | **[UVERworld 2011 Premium LIVE on Xmas at Nippon Budokan](https://ja.wikipedia.org/wiki/UVERworld_2011_Premium_LIVE_on_Xmas_at_Nippon_Budokan "wikilink")** | 2DVD                 | SRBL-1525〜6（初回生産限定盤） |
+| 2DVD                     | SRBL-1527〜8（通常盤）                              |                                                                                                                                                             |                      |                      |
+| 2012年5月2日                | Blu-ray                                       | SRXL-28                                                                                                                                                     |                      |                      |
+| 7th                      | 2013年1月30日                                    | **[UVERworld Yokohama Arena 2012.07.08](https://ja.wikipedia.org/wiki/UVERworld_Yokohama_Arena_2012.07.08 "wikilink")**                                     | 2DVD+ライブフォトブック       | SRBL-1560〜1（初回生産限定盤） |
+| 2DVD                     | SRBL-1562〜3（通常盤）                              |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-38                                       |                                                                                                                                                             |                      |                      |
+| 8th                      | 2013年11月6日                                    | **[UVERworld KING'S PARADE Zepp DiverCity 2013.02.28](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_Zepp_DiverCity_2013.02.28 "wikilink")**         | 2DVD+スペシャルフォトブック     | SRBL-1592〜3（初回生産限定盤） |
+| DVD                      | SRBL-1594（通常盤）                                |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-46                                       |                                                                                                                                                             |                      |                      |
+| 9th                      | 2014年9月24日                                    | **[UVERworld KING'S PARADE Nippon Budokan 2013.12.26](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_Nippon_Budokan_2013.12.26 "wikilink")**         | DVD+スペシャルフォトブック      | SRBL-1630（初回生産限定盤）   |
+| DVD                      | SRBL-1631（通常盤）                                |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-57                                       |                                                                                                                                                             |                      |                      |
+| 10th                     | 2015年4月15日                                    | **[UVERworld Live at Kyocera Dome Osaka 2014.07.05](https://ja.wikipedia.org/wiki/UVERworld_Live_at_Kyocera_Dome_Osaka_2014.07.05 "wikilink")**             | 2DVD+2CD+スペシャルフォトブック | SRBL-1646〜9（初回生産限定盤） |
+| 2DVD                     | SRBL-1650〜1（通常盤）                              |                                                                                                                                                             |                      |                      |
+| Blu-ray+2CD+スペシャルフォトブック  | SRXL-63〜5（初回生産限定盤）                            |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-66（通常盤）                                  |                                                                                                                                                             |                      |                      |
+| 11th                     | 2015年9月30日                                    | **[UVERworld KING'S PARADE at Yokohama Arena](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_at_Yokohama_Arena "wikilink")**                         | 2DVD                 | SRBL-1668〜9（初回生産限定盤） |
+| 2DVD                     | SRBL-1670〜1（通常盤）                              |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-74（初回生産限定盤）                              |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-75（通常盤）                                  |                                                                                                                                                             |                      |                      |
+| 12th                     | 2016年6月8日                                     | **[UVERworld 15&10 Anniversary Live](https://ja.wikipedia.org/wiki/UVERworld_15&10_Anniversary_Live "wikilink")**                                           | 2DVD+スペシャルフォトブック     | SRBL-1701〜2（完全限定生産盤） |
+| DVD                      | SRBL-1703（通常盤1）                               |                                                                                                                                                             |                      |                      |
+| DVD                      | SRBL-1704（通常盤2）                               |                                                                                                                                                             |                      |                      |
+| 2Blu-ray+スペシャルフォトブック     | SRXL-94〜5（完全限定生産盤）                            |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-96（通常盤1）                                 |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-97（通常盤2）                                 |                                                                                                                                                             |                      |                      |
+| 13th                     | 2016年11月2日                                    | **[UVERworld PREMIUM LIVE on Xmas 2015 at Nippon Budokan](https://ja.wikipedia.org/wiki/UVERworld_PREMIUM_LIVE_on_Xmas_2015_at_Nippon_Budokan "wikilink")** | 2DVD+CD+スペシャルフォトブック  | SRBL-1725〜7（初回生産限定盤） |
+| 2DVD                     | SRBL-1729〜30（通常盤）                             |                                                                                                                                                             |                      |                      |
+| Blu-ray+CD+スペシャルフォトブック   | SRXL-109〜10（初回生産限定盤）                          |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-112                                      |                                                                                                                                                             |                      |                      |
+| 14th                     | 2018年3月14日                                    | **[UVERworld KING'S PARADE 2017 Saitama Super Arena](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_2017_Saitama_Super_Arena "wikilink")**           | DVD                  | SRBL-1781            |
+| Blu-ray                  | SRXL-153                                      |                                                                                                                                                             |                      |                      |
+| 15th                     | 2019年1月16日                                    | **[UVERworld TYCOON TOUR at Yokohama Arena 2017.12.21](https://ja.wikipedia.org/wiki/UVERworld_TYCOON_TOUR_at_Yokohama_Arena_2017.12.21 "wikilink")**       | 3DVD+フォトブックレット       | SRBL-1832〜4（初回生産限定盤） |
+| 2DVD+プレイパス               | SRBL-1835〜6（通常盤）                              |                                                                                                                                                             |                      |                      |
+| 2Blu-ray+フォトブックレット       | SRXL-191〜2（初回生産限定盤）                           |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-193                                      |                                                                                                                                                             |                      |                      |
+| 16th                     | 2019年7月10日                                    | **[UVERworld 2018.12.21 Complete Package](https://ja.wikipedia.org/wiki/UVERworld_2018.12.21_Complete_Package "wikilink")**                                 | 3DVD+フォトブックレット+プレイパス | SRBL-1850〜3（完全生産限定盤） |
+| 3Blu-ray+フォトブックレット+プレイパス | SRXL-203〜6（完全限定生産盤）                           |                                                                                                                                                             |                      |                      |
+| 17th                     | 2019年7月10日                                    | **[UVERworld QUEEN'S PARTY at Nippon Budokan 2018.12.21](https://ja.wikipedia.org/wiki/UVERworld_QUEEN'S_PARTY_at_Nippon_Budokan_2018.12.21 "wikilink")**   | DVD                  | SRBL-1854            |
+| BD                       | SRXL-207                                      |                                                                                                                                                             |                      |                      |
+| 18th                     | 2019年7月10日                                    | **[UVERworld KING'S PARADE at Yokohama Arena 2018.12.21](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_at_Yokohama_Arena_2018.12.21 "wikilink")**   | DVD                  | SRBL-1855            |
+| Blu-ray                  | SRXL-208                                      |                                                                                                                                                             |                      |                      |
+| 19th                     | 2020年7月1日                                     | **[UVERworld UNSER TOUR at TOKYO DOME 2019.12.19](https://ja.wikipedia.org/wiki/UVERworld_UNSER_TOUR_at_TOKYO_DOME_2019.12.19 "wikilink")**                 | 2DVD                 | SRBL-1923〜4（初回生産限定盤） |
+| DVD                      | SRBL-1925                                     |                                                                                                                                                             |                      |                      |
+| 2Blu-ray                 | SRXL-257〜8（初回生産限定盤）                           |                                                                                                                                                             |                      |                      |
+| Blu-ray                  | SRXL-259（通常盤）                                 |                                                                                                                                                             |                      |                      |
+|                          |                                               |                                                                                                                                                             |                      |                      |
 
 #### PVクリップ集
 
-<table>
-<thead>
-<tr class="header">
-<th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格</p></th>
-<th><p>規格品番</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>2010年7月7日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_Video_Complete_-act.1-_first_5_years" title="wikilink">UVERworld Video Complete -act.1- first 5 years</a></strong></p></td>
-<td><p>DVD+CD<br />
-CD</p></td>
-<td><p>SRBL-1432〜1433（初回生産限定盤）<br />
-SRBL-1434（通常盤）</p></td>
-</tr>
-<tr class="even">
-<td><p>2nd</p></td>
-<td><p>2014年3月19日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/UVERworld_Video_Complete_-act.2-" title="wikilink">UVERworld Video Complete -act.2-</a></strong></p></td>
-<td><p>DVD+CD<br />
-CD</p></td>
-<td><p>SRBL-1618〜1619（初回生産限定盤）<br />
-SRBL-1620（通常盤DVD）<br />
-SRXL-53〜54（通常盤Blu-ray）</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### ミュージックビデオ
-
-<table>
-<thead>
-<tr class="header">
-<th><p>監督</p></th>
-<th><p>タイトル</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/UVERworld#TAKUYA∞" title="wikilink">TAKUYA∞</a></p></td>
-<td><p>「<a href="https://www.instagram.com/tv/B5Kr0qxHS0C/?igshid=1v6hs5mkq53a5">Making it Drive</a>」</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中村哲平" title="wikilink">中村哲平</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=iv9FzgXAX5Y">BABY BORN &amp; GO/KINJITO</a>」 「<a href="https://www.youtube.com/watch?v=2uPzLcizRZ8">THE SONG</a>」 「<a href="https://www.youtube.com/watch?v=baJhnSJMZ98">7日目の決意 vol.02</a>」 「<a href="https://www.youtube.com/watch?v=quQ0USQgl2k">7日目の決意 vol.01</a>」 「<a href="https://m.youtube.com/watch?v=icpc0UVUZgM">PRAYING RUN</a>」</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/大喜多正毅.md" title="wikilink">大喜多正毅</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=WAvV0H5kY_o">CHANCE!</a>」 「<a href="https://www.youtube.com/watch?v=hC8v7N721c4">just Melody</a>」 「<a href="https://www.youtube.com/watch?v=ZIEQDjrAdwE">儚くも永久のカナシ</a>」 『<a href="https://www.youtube.com/watch?v=baZGH7TqBhA">LIVE at Avaco Studio</a>』 「<a href="https://www.youtube.com/watch?v=FAU7NyiqwQY">7th Trigger</a>」 「<a href="https://www.youtube.com/watch?v=VvCuJRKj32E">AWAYOKUBA-斬る</a>」 「<a href="https://www.youtube.com/watch?v=rF7WJmrLL-g">REVERSI</a>」 「<a href="https://www.youtube.com/watch?v=zsdAN_vjMIg">IMPACT</a>」「<a href="https://www.youtube.com/watch?v=MYaVtNmYfuU">誰が言った</a>」 「<a href="https://www.youtube.com/watch?v=zw5wH_Tr21U">僕の言葉ではない これは僕達の言葉</a>」 「<a href="https://m.youtube.com/watch?v=Pwht_zL3_go">I LOVE THE WORLD</a>」「<a href="https://m.youtube.com/watch?v=eDOG59BEcg0">WE ARE GO</a>」 「<a href="https://m.youtube.com/watch?v=nDaVvnbVIkw">DECIDED Short Ver.</a>」 「<a href="https://www.youtube.com/watch?v=0zLxFAlS29A">ODD FUTURE</a>」 「<a href="https://youtube.com/watch?v=FHDMSpwz4jw">Touch off Short Ver.</a>」 「<a href="https://youtube.com/watch?v=vG4aY5ocnlg">ROB THE FRONTIER</a>」 「<a href="https://youtube.com/watch?v=x5j0jMcjues">Making it Drive</a>」 「<a href="https://m.youtube.com/watch?v=Vyw5y1EzPpc">AS ONE</a>」</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/和田泰宏" title="wikilink">和田泰宏</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=xgjBA231Gzw">浮世CROSSING</a>」「<a href="https://www.youtube.com/watch?v=ukyRC_fNEP0">THE OVER</a>」 「<a href="https://www.youtube.com/watch?v=LXJSNjQOPks">99/100騙しの哲</a>」</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三木孝浩" title="wikilink">三木孝浩</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=IITjr6Ysh60">D-tecnoLife</a>」 「<a href="https://www.youtube.com/watch?v=9KpAtOAohV8">SHAMROCK</a>」 「<a href="https://www.youtube.com/watch?v=gErh5d3gpVk">Colors of the Heart</a>」 「<a href="https://www.youtube.com/watch?v=_F6iL239Sac">君の好きなうた</a>」 「<a href="https://www.youtube.com/watch?v=-RmW6tf2PSE">恋いしくて</a>」</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/久保茂昭.md" title="wikilink">久保茂昭</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=4Hh43kQ43uE">endscape</a>」 「<a href="https://www.youtube.com/watch?v=kk9djuXCmCY">シャカビーチ~Laka Laka La~</a>」</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/石井貴英" title="wikilink">石井貴英</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=ZqXmntTj33U">Roots</a>」 「<a href="https://www.youtube.com/watch?v=5BuDHbIe4pg">激動</a>」 「<a href="https://www.youtube.com/watch?v=hLtLjhV7PR0">クオリア</a>」 「<a href="https://www.youtube.com/watch?v=kDtnoLeJMdw">GOLD</a>」 「<a href="https://www.youtube.com/watch?v=SPQY3BmKfXo">NO.1</a>」</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/高野功" title="wikilink">高野功</a><br />
-<a href="https://ja.wikipedia.org/wiki/田中力" title="wikilink">田中力</a></p></td>
-<td><p>『<a href="https://www.youtube.com/watch?v=FOJdXwTIxtQ">UVERworld Live at Avaco Studio 2</a>』</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大久保拓朗" title="wikilink">大久保拓朗</a></p></td>
-<td><p>『<a href="https://youtube.com/watch?v=7wKjv4eLQ7s">一滴の影響 -ダブル・ライフ-</a>』</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/辻本祐希" title="wikilink">辻本祐希</a></p></td>
-<td><p>「<a href="https://m.youtube.com/watch?v=co3pUvgQ_Kk">PLOT</a>」「<a href="https://youtube.com/watch?v=6uoXYHV_P7Q">EDENへ</a>」</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>「<a href="https://m.youtube.com/watch?v=bhT6YTXehwc">DIS is TEKI</a>」「<a href="https://search.yahoo.co.jp/video/search?p=shout+love&amp;tid=8e8c4ec0f10be533dffc3e46d551e23a&amp;ei=UTF-8&amp;rkf=2&amp;dd=1">SHOUT LOVE</a>」 「<a href="https://youtube.com/watch?v=4Tb6kB2lJ2s">ConneQt</a>」</p></td>
-</tr>
-</tbody>
-</table>
-
-#### 映画
-
-  - 『**[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")**』
-      - UVERworld自身初の[人間](../Page/人間.md "wikilink")[密着](https://ja.wikipedia.org/wiki/密着 "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[映画](../Page/映画.md "wikilink")である。
+|          | 発売日            | タイトル                                                                                                                                          | 規格     | 規格品番                 |
+| -------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------- |
+| 1st      | 2010年7月7日      | **[UVERworld Video Complete -act.1- first 5 years](https://ja.wikipedia.org/wiki/UVERworld_Video_Complete_-act.1-_first_5_years "wikilink")** | DVD+CD | SRBL-1432〜3（初回生産限定盤） |
+| DVD      | SRBL-1434（通常盤） |                                                                                                                                               |        |                      |
+| 2nd      | 2014年3月19日     | **[UVERworld Video Complete -act.2-](https://ja.wikipedia.org/wiki/UVERworld_Video_Complete_-act.2- "wikilink")**                             | DVD+CD | SRBL-1618〜9（初回生産限定盤） |
+| DVD      | SRBL-1620（通常盤） |                                                                                                                                               |        |                      |
+| 2Blu-ray | SRXL-53〜4      |                                                                                                                                               |        |                      |
+|          |                |                                                                                                                                               |        |                      |
 
 ### 参加作品
 
@@ -1587,328 +632,126 @@ TOVILA</p></td>
 9.  **TOVILA (〜tie senses〜)**
 10. **Yasashisa no Shizuku 04**
 
-UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17\]。
+UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[18\]。
 
-## タイアップ
+## ミュージック・ビデオ
 
 <table>
 <thead>
 <tr class="header">
-<th><p>起用年</p></th>
-<th><p>曲名</p></th>
-<th><p>タイアップ</p></th>
-<th><p>収録作品</p></th>
+<th><p>監督</p></th>
+<th><p>タイトル</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2005年</p></td>
-<td><p><strong>D-tecnoLife</strong></p></td>
-<td><p>◆<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/BLEACH_(アニメ)" title="wikilink">BLEACH</a>』第2期OPテーマ<br />
-◆<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PS2用ゲームソフト</a>『BLEACH 選ばれし魂』主題歌<br />
-◆PS2用ゲームソフト『BLEACH 選ばれし魂』CMソング<br />
-◆<a href="../Page/ゲームボーイアドバンス.md" title="wikilink">GBA用ゲームソフト</a>『<a href="https://ja.wikipedia.org/wiki/BLEACH_アドバンス_紅に染まる尸魂界" title="wikilink">BLEACH アドバンス 紅に染まる尸魂界</a>』主題歌<br />
-◆GBA用ゲームソフト『BLEACH アドバンス 紅に染まる尸魂界』CMソング</p></td>
-<td><p>「<a href="../Page/D-tecnoLife.md" title="wikilink">D-tecnoLife</a>」<br />
-『<a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
-</p></td>
+<td><p>TAKUYA∞</p></td>
+<td><p>「<a href="https://www.instagram.com/tv/B5Kr0qxHS0C/?igshid=1v6hs5mkq53a5">Making it Drive</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>CHANCE!</strong></p></td>
-<td><p>◆<a href="../Page/PlayStation_Portable.md" title="wikilink">PSP用ゲームソフト</a>『BLEACH ヒート・ザ・ソウル2』主題歌<br />
-◆PSP用ゲームソフト『BLEACH ヒート・ザ・ソウル2』CMソング<br />
-◆<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系連続テレビドラマ</a>『<a href="../Page/ダンドリ娘.md" title="wikilink">ダンドリ娘</a>』エンディングテーマ</p></td>
-<td><p>「<a href="../Page/CHANCE!_(UVERworldの曲).md" title="wikilink">CHANCE!</a>」<br />
-『<a href="../Page/Timeless_(UVERworldのアルバム).md" title="wikilink">Timeless</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中村哲平" title="wikilink">中村哲平</a></p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=iv9FzgXAX5Y">BABY BORN &amp; GO/KINJITO</a>」 「<a href="https://www.youtube.com/watch?v=2uPzLcizRZ8">THE SONG</a>」 「<a href="https://www.youtube.com/watch?v=baJhnSJMZ98">7日目の決意 vol.02</a>」 「<a href="https://www.youtube.com/watch?v=quQ0USQgl2k">7日目の決意 vol.01</a>」 「<a href="https://m.youtube.com/watch?v=icpc0UVUZgM">PRAYING RUN</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p>2006年</p></td>
-<td><p><strong>Colors of the Heart</strong></p></td>
-<td><p>◆<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">MBS</a>・TBS系連続テレビアニメ『<a href="../Page/BLOOD+.md" title="wikilink">BLOOD+</a>』第3期OPテーマ</p></td>
-<td><p>「<a href="../Page/Colors_of_the_Heart.md" title="wikilink">Colors of the Heart</a>」<br />
-『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
+<td><p><a href="../Page/大喜多正毅.md" title="wikilink">大喜多正毅</a></p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=WAvV0H5kY_o">CHANCE!</a>」 「<a href="https://www.youtube.com/watch?v=hC8v7N721c4">just Melody</a>」 「<a href="https://www.youtube.com/watch?v=ZIEQDjrAdwE">儚くも永久のカナシ</a>」 『<a href="https://www.youtube.com/watch?v=baZGH7TqBhA">LIVE at Avaco Studio</a>』 「<a href="https://www.youtube.com/watch?v=FAU7NyiqwQY">7th Trigger</a>」 「<a href="https://www.youtube.com/watch?v=VvCuJRKj32E">AWAYOKUBA-斬る</a>」 「<a href="https://www.youtube.com/watch?v=rF7WJmrLL-g">REVERSI</a>」 「<a href="https://www.youtube.com/watch?v=zsdAN_vjMIg">IMPACT</a>」「<a href="https://www.youtube.com/watch?v=MYaVtNmYfuU">誰が言った</a>」 「<a href="https://www.youtube.com/watch?v=zw5wH_Tr21U">僕の言葉ではない これは僕達の言葉</a>」 「<a href="https://m.youtube.com/watch?v=Pwht_zL3_go">I LOVE THE WORLD</a>」「<a href="https://m.youtube.com/watch?v=eDOG59BEcg0">WE ARE GO</a>」 「<a href="https://m.youtube.com/watch?v=nDaVvnbVIkw">DECIDED Short Ver.</a>」 「<a href="https://www.youtube.com/watch?v=0zLxFAlS29A">ODD FUTURE</a>」 「<a href="https://youtube.com/watch?v=FHDMSpwz4jw">Touch off Short Ver.</a>」 「<a href="https://youtube.com/watch?v=vG4aY5ocnlg">ROB THE FRONTIER</a>」 「<a href="https://youtube.com/watch?v=x5j0jMcjues">Making it Drive</a>」 「<a href="https://youtube.com/watch?v=Cm4u7hPyZaQ">AS ONE</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>SHAMROCK</strong></p></td>
-<td><p>◆フジテレビ系連続テレビドラマ『<a href="../Page/ダンドリ。〜Dance☆Drill〜.md" title="wikilink">ダンドリ。〜Dance☆Drill〜</a>』主題歌<br />
-◆フジテレビ系連続テレビドラマ『ダンドリ娘』主題歌<br />
-◆音楽配信サービスサイト『<a href="https://ja.wikipedia.org/wiki/music.jp" title="wikilink">music.jp</a>』CMソング</p></td>
-<td><p>「<a href="../Page/SHAMROCK_(曲).md" title="wikilink">SHAMROCK</a>」<br />
-『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/和田泰宏" title="wikilink">和田泰宏</a></p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=xgjBA231Gzw">浮世CROSSING</a>」「<a href="https://www.youtube.com/watch?v=ukyRC_fNEP0">THE OVER</a>」 「<a href="https://www.youtube.com/watch?v=LXJSNjQOPks">99/100騙しの哲</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>君の好きなうた</strong></p></td>
-<td><p>◆TBS系連続バラエティテレビ番組『<a href="../Page/恋するハニカミ!.md" title="wikilink">恋するハニカミ!</a>』第17期テーマソング</p></td>
-<td><p>「<a href="../Page/君の好きなうた.md" title="wikilink">君の好きなうた</a>」<br />
-『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三木孝浩" title="wikilink">三木孝浩</a></p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=IITjr6Ysh60">D-tecnoLife</a>」 「<a href="https://www.youtube.com/watch?v=9KpAtOAohV8">SHAMROCK</a>」 「<a href="https://www.youtube.com/watch?v=gErh5d3gpVk">Colors of the Heart</a>」 「<a href="https://www.youtube.com/watch?v=_F6iL239Sac">君の好きなうた</a>」 「<a href="https://www.youtube.com/watch?v=-RmW6tf2PSE">恋いしくて</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p>2007年</p></td>
-<td><p><strong>ゼロの答</strong></p></td>
-<td><p>◆PS2用ゲームソフト『<a href="../Page/無双OROCHI.md" title="wikilink">無双OROCHI</a>』CMソング</p></td>
-<td><p>『<a href="../Page/BUGRIGHT.md" title="wikilink">BUGRIGHT</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』</p></td>
+<td><p><a href="../Page/久保茂昭.md" title="wikilink">久保茂昭</a></p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=4Hh43kQ43uE">endscape</a>」 「<a href="https://www.youtube.com/watch?v=kk9djuXCmCY">シャカビーチ~Laka Laka La~</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>endscape</strong></p></td>
-<td><p>◆MBS・TBS系連続テレビアニメ『<a href="../Page/地球へ….md" title="wikilink">地球へ…</a>』第1期OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/endscape" title="wikilink">endscape</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/PROGLUTION" title="wikilink">PROGLUTION</a>』</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/石井貴英" title="wikilink">石井貴英</a></p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=ZqXmntTj33U">Roots</a>」 「<a href="https://www.youtube.com/watch?v=5BuDHbIe4pg">激動</a>」 「<a href="https://www.youtube.com/watch?v=hLtLjhV7PR0">クオリア</a>」 「<a href="https://www.youtube.com/watch?v=kDtnoLeJMdw">GOLD</a>」 「<a href="https://www.youtube.com/watch?v=SPQY3BmKfXo">NO.1</a>」</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>浮世CROSSING</strong></p></td>
-<td><p>◆日本テレビ系連続テレビドラマ『<a href="../Page/働きマン.md" title="wikilink">働きマン</a>』主題歌</p></td>
-<td><p>「<a href="../Page/浮世CROSSING.md" title="wikilink">浮世CROSSING</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/PROGLUTION" title="wikilink">PROGLUTION</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高野功" title="wikilink">高野功</a><br />
+<a href="https://ja.wikipedia.org/wiki/田中力" title="wikilink">田中力</a></p></td>
+<td><p>『<a href="https://www.youtube.com/watch?v=FOJdXwTIxtQ">UVERworld Live at Avaco Studio 2</a>』</p></td>
 </tr>
 <tr class="odd">
-<td><p>2008年</p></td>
-<td><p><strong>激動</strong></p></td>
-<td><p>◆テレビ東京系連続テレビアニメ『<a href="../Page/D.Gray-man.md" title="wikilink">D.Gray-man</a>』第4期OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/激動/Just_break_the_limit!" title="wikilink">激動/Just break the limit!</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/AwakEVE" title="wikilink">AwakEVE</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大久保拓朗" title="wikilink">大久保拓朗</a></p></td>
+<td><p>『<a href="https://youtube.com/watch?v=7wKjv4eLQ7s">一滴の影響 -ダブル・ライフ-</a>』</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Just break the limit!</strong></p></td>
-<td><p>◆<a href="../Page/大塚製薬.md" title="wikilink">大塚製薬</a><a href="../Page/ポカリスエット.md" title="wikilink">ポカリスエット</a>単独提供ミニドラマ『<a href="https://ja.wikipedia.org/wiki/ブカツの天使" title="wikilink">ブカツの天使</a>』主題歌（中部・南東北）<br />
-◆大塚製薬ポカリスエットCMソング（中部・南東北）</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/激動/Just_break_the_limit!" title="wikilink">激動/Just break the limit!</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/AwakEVE" title="wikilink">AwakEVE</a>』</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/辻本祐希" title="wikilink">辻本祐希</a></p></td>
+<td><p>「<a href="https://m.youtube.com/watch?v=co3pUvgQ_Kk">PLOT</a>」「<a href="https://youtube.com/watch?v=6uoXYHV_P7Q">EDENへ</a>」</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>儚くも永久のカナシ</strong></p></td>
-<td><p>◆MBS・TBS系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム00" title="wikilink">機動戦士ガンダム00</a>(セカンドシーズン)』第1期OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/儚くも永久のカナシ" title="wikilink">儚くも永久のカナシ</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/AwakEVE" title="wikilink">AwakEVE</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>2009年</p></td>
-<td><p><strong>GO-ON</strong></p></td>
-<td><p>◆日本テレビ系連続テレビドラマ『<a href="https://ja.wikipedia.org/wiki/Dr.HOUSE" title="wikilink">Dr.HOUSE (第1シーズン)</a>』第2期EDテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/GO-ON" title="wikilink">GO-ON</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/LAST" title="wikilink">LAST</a>』</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>哀しみはきっと</strong></p></td>
-<td><p>◆TBS系連続テレビドラマ『<a href="https://ja.wikipedia.org/wiki/小公女セイラ" title="wikilink">小公女セイラ</a>』主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/哀しみはきっと" title="wikilink">哀しみはきっと</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/LAST" title="wikilink">LAST</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/Neo_SOUND_BEST" title="wikilink">Neo SOUND BEST</a>』</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2010年</p></td>
-<td><p><strong>CHANGE</strong></p></td>
-<td><p>◆映画『<a href="https://ja.wikipedia.org/wiki/劇場版_機動戦士ガンダム00_-A_wakening_of_the_Trailblazer-" title="wikilink">劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-</a>』イメージソング</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/GOLD_(UVERworldの曲)" title="wikilink">GOLD</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/LAST" title="wikilink">LAST</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Ultimate</strong></p></td>
-<td><p>◆PSP用ゲームソフト『LAST RANKER』主題歌<br />
-◆PSP用ゲームソフト『LAST RANKER』CMソング</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/クオリア_(UVERworldの曲)" title="wikilink">クオリア</a>」</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>クオリア</strong></p></td>
-<td><p>◆映画『劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-』主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/クオリア_(UVERworldの曲)" title="wikilink">クオリア</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/LIFE_6_SENSE" title="wikilink">LIFE 6 SENSE</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2011年</p></td>
-<td><p><strong>CORE PRIDE</strong></p></td>
-<td><p>◆MBS・TBS系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/青の祓魔師_(アニメ)" title="wikilink">青の祓魔師</a>』第1期OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/CORE_PRIDE" title="wikilink">CORE PRIDE</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/LIFE_6_SENSE" title="wikilink">LIFE 6 SENSE</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-</tr>
-<tr class="even">
-<td><p>2012年</p></td>
-<td><p><strong>THE SONG</strong></p></td>
-<td><p>◆自身のドキュメンタリー映画「UVERworld DOCUMENTARY THE SONG」主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/THE_OVER" title="wikilink">THE OVER</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>THE OVER</strong></p></td>
-<td><p>◆TBS系連続テレビドラマ『<a href="https://ja.wikipedia.org/wiki/黒の女教師" title="wikilink">黒の女教師</a>』主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/THE_OVER" title="wikilink">THE OVER</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/THE_ONE" title="wikilink">THE ONE</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>REVERSI</strong></p></td>
-<td><p>◆映画『青の祓魔師 -劇場版-』主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/REVERSI" title="wikilink">REVERSI</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/THE_ONE" title="wikilink">THE ONE</a>』</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2013年</p></td>
-<td><p><strong>Fight For Liberty</strong></p></td>
-<td><p>◆MBS・TBS系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2199" title="wikilink">宇宙戦艦ヤマト2199</a>』第2期OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/Fight_For_Liberty/Wizard_CLUB" title="wikilink">Fight For Liberty/Wizard CLUB</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/0̸_CHOIR" title="wikilink">Ø CHOIR</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Wizard CLUB</strong></p></td>
-<td><p>◆テレビ東京系『<a href="https://ja.wikipedia.org/wiki/解禁!暴露ナイト" title="wikilink">解禁!暴露ナイト</a>』7・8月度EDテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/Fight_For_Liberty/Wizard_CLUB" title="wikilink">Fight For Liberty/Wizard CLUB</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/0̸_CHOIR" title="wikilink">Ø CHOIR</a>』</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>DEJAVU</strong></p></td>
-<td><p>◆テレビ東京系『解禁!暴露ナイト』1・2月度EDテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/ナノ・セカンド" title="wikilink">ナノ・セカンド</a>」</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2014年</p></td>
-<td><p><strong>在るべき形</strong></p></td>
-<td><p>◆映画『MARCHING -明日へ-』EDテーマ</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/0̸_CHOIR" title="wikilink">Ø CHOIR</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-</tr>
-<tr class="odd">
-<td><p>2015年</p></td>
-<td><p><strong>Collide</strong></p></td>
-<td><p>◆映画『<a href="../Page/新宿スワン.md" title="wikilink">新宿スワン</a>』挿入歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/僕の言葉ではない_これは僕達の言葉" title="wikilink">僕の言葉ではない これは僕達の言葉</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>僕の言葉ではない これは僕達の言葉</strong></p></td>
-<td><p>◆MBS・TBS系連続テレビアニメ『<a href="../Page/アルスラーン戦記.md" title="wikilink">アルスラーン戦記</a>』第1期OPテーマ</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>I LOVE THE WORLD</strong></p></td>
-<td><p>◆オンラインゲーム『<a href="https://ja.wikipedia.org/wiki/ドラゴンネスト" title="wikilink">ドラゴンネスト</a>』主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/I_LOVE_THE_WORLD" title="wikilink">I LOVE THE WORLD</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年</p></td>
-<td><p><strong>WE ARE GO</strong></p></td>
-<td><p>◆テレビ東京系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/パズドラクロス" title="wikilink">パズドラクロス</a>』第1期OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/WE_ARE_GO/ALL_ALONE" title="wikilink">WE ARE GO/ALL ALONE</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><p><strong>一滴の影響</strong></p></td>
-<td><p>◆MBS・TBS系連続テレビアニメ『<a href="https://ja.wikipedia.org/wiki/青の祓魔師_京都不浄王篇" title="wikilink">青の祓魔師 京都不浄王篇</a>』OPテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/一滴の影響" title="wikilink">一滴の影響</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>エミュー</strong></p></td>
-<td><p>◆映画『<a href="https://ja.wikipedia.org/wiki/新宿スワンII" title="wikilink">新宿スワンII</a>』挿入歌[18]</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/一滴の影響" title="wikilink">一滴の影響</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>DECIDED</strong></p></td>
-<td><p>◆映画『<a href="https://ja.wikipedia.org/wiki/銀魂" title="wikilink">銀魂</a>』主題歌[19]</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/DECIDED" title="wikilink">DECIDED</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>RANGE</strong></p></td>
-<td><p>◆Red Bull『Box Cart Race Tokyo 2017』TVCMソング</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/DECIDED" title="wikilink">DECIDED</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/ALL_TIME_BEST_(UVERworldのアルバム)" title="wikilink">ALL TIME BEST</a>』</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Q.E.D.</strong></p></td>
-<td><p>◆日本テレビ系MIDNITEテレビシリーズ『グリム シーズン1』エンディングテーマ</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/TYCOON" title="wikilink">TYCOON</a>』</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年</p></td>
-<td><p><strong>ODD FUTURE</strong></p></td>
-<td><p>◆読売テレビ・日本テレビ系アニメ『<a href="https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_(アニメ)" title="wikilink">僕のヒーローアカデミア</a>』第3期オープニングテーマ</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/ODD_FUTURE" title="wikilink">ODD FUTURE</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a>』</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>EDENへ</strong></p></td>
-<td><p>◆テレビ東京ドラマ25『<a href="https://ja.wikipedia.org/wiki/インベスターZ" title="wikilink">インベスターZ</a>』主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ" title="wikilink">GOOD and EVIL/EDENへ</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a>』</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>GOOD and EVIL</strong></p></td>
-<td><p>◆映画『<a href="https://ja.wikipedia.org/wiki/ヴェノム_(映画)" title="wikilink">ヴェノム</a>』日本語吹き替え版主題歌</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ" title="wikilink">GOOD and EVIL/EDENへ</a>」<br />
-『<a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a>』</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td><p><strong>Touch off</strong></p></td>
-<td><p>◆<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a><a href="../Page/ノイタミナ.md" title="wikilink">ノイタミナ</a>枠アニメ『<a href="https://ja.wikipedia.org/wiki/約束のネバーランド" title="wikilink">約束のネバーランド</a>』オープニングテーマ</p></td>
-<td><p>｢<a href="https://ja.wikipedia.org/wiki/Touch_off" title="wikilink">Touch off</a>｣<br />
-『<a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a>』</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>ROB THE FRONTIER</strong></p></td>
-<td><p>◆テレビ東京・BSテレ東系アニメ『<a href="https://ja.wikipedia.org/wiki/七つの大罪_(漫画)" title="wikilink">七つの大罪</a> 神々の逆鱗』オープニングテーマ</p></td>
-<td><p>｢<a href="https://ja.wikipedia.org/wiki/ROB_THE_FRONTIER" title="wikilink">ROB THE FRONTIER</a>｣<br />
-『<a href="https://ja.wikipedia.org/wiki/UNSER_(UVERworldのアルバム)" title="wikilink">UNSER</a>』</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2020年</p></td>
-<td><p><strong>AS ONE</strong></p></td>
-<td><p>◆映画『<a href="https://ja.wikipedia.org/wiki/仮面病棟#映画" title="wikilink">仮面病棟</a>』主題歌[20]</p></td>
-<td><p>「<a href="../Page/AS_ONE_(UVERworldの曲).md" title="wikilink">AS ONE</a>」</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>「<a href="https://m.youtube.com/watch?v=bhT6YTXehwc">DIS is TEKI</a>」「<a href="https://search.yahoo.co.jp/video/search?p=shout+love&amp;tid=8e8c4ec0f10be533dffc3e46d551e23a&amp;ei=UTF-8&amp;rkf=2&amp;dd=1">SHOUT LOVE</a>」 「<a href="https://youtube.com/watch?v=4Tb6kB2lJ2s">ConneQt</a>」</p></td>
 </tr>
 </tbody>
 </table>
 
+## タイアップ
+
+| 起用年                                                                                                                                         | 曲名                                                                                                                                                          | タイアップ                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2005年                                                                                                                                       | **[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")**                                                                                                        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』第2期オープニングテーマ                                           |
+| [PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『BLEACH 選ばれし魂』主題歌                                                       |                                                                                                                                                             |                                                                                                                                                                                      |
+| PS2用ゲームソフト『BLEACH 選ばれし魂』CMソング                                                                                                               |                                                                                                                                                             |                                                                                                                                                                                      |
+| [GBA用ゲームソフト](../Page/ゲームボーイアドバンス.md "wikilink")『[BLEACH アドバンス 紅に染まる尸魂界](https://ja.wikipedia.org/wiki/BLEACH_アドバンス_紅に染まる尸魂界 "wikilink")』主題歌 |                                                                                                                                                             |                                                                                                                                                                                      |
+| GBA用ゲームソフト『BLEACH アドバンス 紅に染まる尸魂界』CMソング                                                                                                      |                                                                                                                                                             |                                                                                                                                                                                      |
+| **[CHANCE\!](../Page/CHANCE!_\(UVERworldの曲\).md "wikilink")**                                                                               | [PSP用ゲームソフト](../Page/PlayStation_Portable.md "wikilink")『BLEACH ヒート・ザ・ソウル2』主題歌                                                                              |                                                                                                                                                                                      |
+| PSP用ゲームソフト『BLEACH ヒート・ザ・ソウル2』CMソング                                                                                                          |                                                                                                                                                             |                                                                                                                                                                                      |
+| [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ダンドリ娘](../Page/ダンドリ娘.md "wikilink")』エンディングテーマ                               |                                                                                                                                                             |                                                                                                                                                                                      |
+| 2006年                                                                                                                                       | **[Colors of the Heart](../Page/Colors_of_the_Heart.md "wikilink")**                                                                                        | [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・TBS系アニメ『[BLOOD+](../Page/BLOOD+.md "wikilink")』第3期オープニングテーマ                                                                   |
+| **[SHAMROCK](../Page/SHAMROCK_\(曲\).md "wikilink")**                                                                                        | フジテレビ系ドラマ『[ダンドリ。〜Dance☆Drill〜](../Page/ダンドリ。〜Dance☆Drill〜.md "wikilink")』主題歌                                                                                |                                                                                                                                                                                      |
+| フジテレビ系ドラマ『ダンドリ娘』主題歌                                                                                                                         |                                                                                                                                                             |                                                                                                                                                                                      |
+| [エムティーアイ](../Page/エムティーアイ.md "wikilink")『[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")』CMソング                                |                                                                                                                                                             |                                                                                                                                                                                      |
+| **[君の好きなうた](../Page/君の好きなうた.md "wikilink")**                                                                                                | TBS系『[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")』第17期テーマソング                                                                                                 |                                                                                                                                                                                      |
+| 2007年                                                                                                                                       | **[ゼロの答](../Page/BUGRIGHT.md "wikilink")**                                                                                                                  | PS2用ゲームソフト『[無双OROCHI](../Page/無双OROCHI.md "wikilink")』CMソング                                                                                                                          |
+| **[endscape](https://ja.wikipedia.org/wiki/endscape "wikilink")**                                                                           | MBS・TBS系アニメ『[地球へ…](../Page/地球へ….md "wikilink")』第1期オープニングテーマ                                                                                                 |                                                                                                                                                                                      |
+| **[浮世CROSSING](../Page/浮世CROSSING.md "wikilink")**                                                                                          | 日本テレビ系ドラマ『[働きマン](../Page/働きマン.md "wikilink")』主題歌                                                                                                            |                                                                                                                                                                                      |
+| 2008年                                                                                                                                       | **[激動](https://ja.wikipedia.org/wiki/激動/Just_break_the_limit! "wikilink")**                                                                                 | テレビ東京系アニメ『[D.Gray-man](../Page/D.Gray-man.md "wikilink")』第4期オープニングテーマ                                                                                                                |
+| **[Just break the limit\!](https://ja.wikipedia.org/wiki/激動/Just_break_the_limit! "wikilink")**                                             | [大塚製薬](../Page/大塚製薬.md "wikilink")「[ポカリスエット](../Page/ポカリスエット.md "wikilink")」単独提供ミニドラマ『[ブカツの天使](https://ja.wikipedia.org/wiki/ブカツの天使 "wikilink")』主題歌（中部・南東北） |                                                                                                                                                                                      |
+| 大塚製薬「ポカリスエット」CMソング（中部・南東北）                                                                                                                  |                                                                                                                                                             |                                                                                                                                                                                      |
+| **[儚くも永久のカナシ](https://ja.wikipedia.org/wiki/儚くも永久のカナシ "wikilink")**                                                                         | MBS・TBS系アニメ『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")(セカンドシーズン)』第1期オープニングテーマ                                                        |                                                                                                                                                                                      |
+| 2009年                                                                                                                                       | **[GO-ON](https://ja.wikipedia.org/wiki/GO-ON "wikilink")**                                                                                                 | 日本テレビ系ドラマ『[Dr.HOUSE (第1シーズン)](https://ja.wikipedia.org/wiki/Dr.HOUSE "wikilink")』第2期エンディングテーマ                                                                                        |
+| **[哀しみはきっと](https://ja.wikipedia.org/wiki/哀しみはきっと "wikilink")**                                                                             | TBS系ドラマ『[小公女セイラ](https://ja.wikipedia.org/wiki/小公女セイラ "wikilink")』主題歌                                                                                       |                                                                                                                                                                                      |
+| 2010年                                                                                                                                       | **[CHANGE](https://ja.wikipedia.org/wiki/GOLD_\(UVERworldの曲\) "wikilink")**                                                                                 | [松竹](../Page/松竹.md "wikilink")配給映画『[劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-](https://ja.wikipedia.org/wiki/劇場版_機動戦士ガンダム00_-A_wakening_of_the_Trailblazer- "wikilink")』イメージソング |
+| **[Ultimate](https://ja.wikipedia.org/wiki/クオリア_\(UVERworldの曲\) "wikilink")**                                                               | PSP用ゲームソフト『LAST RANKER』主題歌                                                                                                                                  |                                                                                                                                                                                      |
+| PSP用ゲームソフト『LAST RANKER』CMソング                                                                                                                |                                                                                                                                                             |                                                                                                                                                                                      |
+| **[クオリア](https://ja.wikipedia.org/wiki/クオリア_\(UVERworldの曲\) "wikilink")**                                                                   | 松竹配給映画『劇場版 機動戦士ガンダム00 -A wakening of the Trailblazer-』主題歌                                                                                                   |                                                                                                                                                                                      |
+| 2011年                                                                                                                                       | **[CORE PRIDE](https://ja.wikipedia.org/wiki/CORE_PRIDE "wikilink")**                                                                                       | MBS・TBS系アニメ『[青の祓魔師](https://ja.wikipedia.org/wiki/青の祓魔師_\(アニメ\) "wikilink")』第1期オープニングテーマ                                                                                             |
+| 2012年                                                                                                                                       | **[THE SONG](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")**                                                                                           | 映画『[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")』主題歌                                                                     |
+| **[THE OVER](https://ja.wikipedia.org/wiki/THE_OVER "wikilink")**                                                                           | TBS系ドラマ『[黒の女教師](https://ja.wikipedia.org/wiki/黒の女教師 "wikilink")』主題歌                                                                                         |                                                                                                                                                                                      |
+| **[REVERSI](https://ja.wikipedia.org/wiki/REVERSI "wikilink")**                                                                             | 映画『青の祓魔師 -劇場版-』主題歌                                                                                                                                          |                                                                                                                                                                                      |
+| 2013年                                                                                                                                       | **[Fight For Liberty](https://ja.wikipedia.org/wiki/Fight_For_Liberty/Wizard_CLUB "wikilink")**                                                             | MBS・TBS系連続テレビアニメ『[宇宙戦艦ヤマト2199](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2199 "wikilink")』第2期オープニングテーマ                                                                                    |
+| **[Wizard CLUB](https://ja.wikipedia.org/wiki/Fight_For_Liberty/Wizard_CLUB "wikilink")**                                                   | テレビ東京系『[解禁\!暴露ナイト](https://ja.wikipedia.org/wiki/解禁!暴露ナイト "wikilink")』7・8月度エンディングテーマ                                                                        |                                                                                                                                                                                      |
+| **[DEJAVU](https://ja.wikipedia.org/wiki/ナノ・セカンド "wikilink")**                                                                              | テレビ東京系『解禁\!暴露ナイト』1・2月度エンディングテーマ                                                                                                                             |                                                                                                                                                                                      |
+| 2014年                                                                                                                                       | **[在るべき形](https://ja.wikipedia.org/wiki/0̸_CHOIR "wikilink")**                                                                                              | 映画『MARCHING -明日へ-』エンディングテーマ                                                                                                                                                          |
+| 2015年                                                                                                                                       | **[Collide](https://ja.wikipedia.org/wiki/僕の言葉ではない_これは僕達の言葉 "wikilink")**                                                                                   | [ソニー・ピクチャーズ エンタテインメント配給映画](../Page/ソニー・ピクチャーズ_エンタテインメント_\(日本\).md "wikilink")『[新宿スワン](../Page/新宿スワン.md "wikilink")』挿入歌                                                               |
+| **[僕の言葉ではない これは僕達の言葉](https://ja.wikipedia.org/wiki/僕の言葉ではない_これは僕達の言葉 "wikilink")**                                                         | MBS・TBS系アニメ『[アルスラーン戦記](../Page/アルスラーン戦記.md "wikilink")』第1期オープニングテーマ                                                                                         |                                                                                                                                                                                      |
+| **[I LOVE THE WORLD](https://ja.wikipedia.org/wiki/I_LOVE_THE_WORLD "wikilink")**                                                           | オンラインゲーム『[ドラゴンネスト](https://ja.wikipedia.org/wiki/ドラゴンネスト "wikilink")』主題歌                                                                                    |                                                                                                                                                                                      |
+| 2016年                                                                                                                                       | **[WE ARE GO](https://ja.wikipedia.org/wiki/WE_ARE_GO/ALL_ALONE "wikilink")**                                                                               | テレビ東京系アニメ『[パズドラクロス](https://ja.wikipedia.org/wiki/パズドラクロス "wikilink")』第1期オープニングテーマ                                                                                                   |
+| 2017年                                                                                                                                       | **[一滴の影響](https://ja.wikipedia.org/wiki/一滴の影響 "wikilink")**                                                                                                 | MBS・TBS系アニメ『[青の祓魔師 京都不浄王篇](https://ja.wikipedia.org/wiki/青の祓魔師_京都不浄王篇 "wikilink")』オープニングテーマ                                                                                          |
+| **[エミュー](https://ja.wikipedia.org/wiki/一滴の影響 "wikilink")**                                                                                  | ソニー・ピクチャーズ エンタテインメント配給映画『[新宿スワンII](https://ja.wikipedia.org/wiki/新宿スワンII "wikilink")』挿入歌\[19\]                                                              |                                                                                                                                                                                      |
+| **[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")**                                                                             | [ワーナー・ブラザース映画配給映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザーズ_ジャパン "wikilink")『[銀魂](https://ja.wikipedia.org/wiki/銀魂_\(実写\) "wikilink")』主題歌\[20\]             |                                                                                                                                                                                      |
+| **[RANGE](https://ja.wikipedia.org/wiki/DECIDED "wikilink")**                                                                               | Red Bull『Box Cart Race Tokyo 2017』CMソング                                                                                                                     |                                                                                                                                                                                      |
+| **[Q.E.D.](https://ja.wikipedia.org/wiki/TYCOON "wikilink")**                                                                               | 日本テレビ系ドラマ『[GRIMM/グリム](https://ja.wikipedia.org/wiki/GRIMM/グリム "wikilink")』（第1シーズン）エンディングテーマ                                                                 |                                                                                                                                                                                      |
+| 2018年                                                                                                                                       | **[ODD FUTURE](https://ja.wikipedia.org/wiki/ODD_FUTURE "wikilink")**                                                                                       | 読売テレビ・日本テレビ系アニメ『[僕のヒーローアカデミア](https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_\(アニメ\) "wikilink")』第3期オープニングテーマ                                                                             |
+| **[EDENへ](https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ "wikilink")**                                                                   | テレビ東京系[ドラマ25](https://ja.wikipedia.org/wiki/ドラマ25 "wikilink")『[インベスターZ](https://ja.wikipedia.org/wiki/インベスターZ "wikilink")』主題歌                               |                                                                                                                                                                                      |
+| **[GOOD and EVIL](https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ "wikilink")**                                                           | 映画『[ヴェノム](https://ja.wikipedia.org/wiki/ヴェノム_\(映画\) "wikilink")』日本語吹き替え版主題歌                                                                                 |                                                                                                                                                                                      |
+| 2019年                                                                                                                                       | **[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")**                                                                                         | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ノイタミナ](../Page/ノイタミナ.md "wikilink")枠アニメ『[約束のネバーランド](https://ja.wikipedia.org/wiki/約束のネバーランド "wikilink")』オープニングテーマ        |
+| **[ROB THE FRONTIER](https://ja.wikipedia.org/wiki/ROB_THE_FRONTIER "wikilink")**                                                           | テレビ東京・[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")系アニメ『[七つの大罪 神々の逆鱗](https://ja.wikipedia.org/wiki/七つの大罪_\(漫画\)#テレビアニメ "wikilink")』オープニングテーマ                    |                                                                                                                                                                                      |
+| 2020年                                                                                                                                       | **[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")**                                                                                                  | ワーナー・ブラザース映画配給映画『[仮面病棟](https://ja.wikipedia.org/wiki/仮面病棟#映画 "wikilink")』主題歌\[21\]                                                                                                  |
+|                                                                                                                                             |                                                                                                                                                             |                                                                                                                                                                                      |
+
 ## 出演
+
+### 映画
+
+  - [UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink") <small>（2012年8月22日公開）</small>
 
 ### ラジオ
 
@@ -1918,7 +761,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 
 ## 書籍
 
-**アーティストブック**
+### アーティストブック
 
 |     | 発売日        | タイトル                              | 出版社                                                           | [図書コード](https://ja.wikipedia.org/wiki/ISBN "wikilink") |
 | --- | ---------- | --------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ |
@@ -1926,7 +769,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 | 2nd | 2008年3月10日 | GUN-PROGLUTION                    | [@ぴあ](../Page/ぴあ.md "wikilink")                               | ISBN 9784835616865                                     |
 | 3rd | 2011年9月28日 | COREstory,COREability,COREhistory | [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink") | ISBN 9784789734905                                     |
 
-**ドキュメントブック**
+### ドキュメントブック
 
 | 発売日        | タイトル                                        | 出版社       | 図書コード              |
 | ---------- | ------------------------------------------- | --------- | ------------------ |
@@ -1935,7 +778,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[17
 | 2011年1月30日 | UVERworld LAST TOUR 2010 THE DOCUMENT       | ソニー・マガジンズ | ISBN:              |
 | 2011年9月28日 | UVERworld 47/47 TOUR 2011 THE DOCUMENT      | ソニー・マガジンズ | ISBN:              |
 
-**バンドスコア**
+### バンドスコア
 
 <table>
 <thead>
@@ -3656,7 +2499,7 @@ ver. MUSIC MATCH!UVERworld×シド</p></td>
 <td><p>7月29日 - 7月30日</p></td>
 <td><p>abingdon boys school MATCH UP'07 SUMMER SERIES</p></td>
 <td><p>Zepp Tokyo</p></td>
-<td><p>対バン：abingdon boys school、<a href="https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR" title="wikilink">HIGH and MIGHTY COLOR</a></p></td>
+<td><p>対バン：abingdon boys school、<a href="../Page/HIGH_and_MIGHTY_COLOR.md" title="wikilink">HIGH and MIGHTY COLOR</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3875,14 +2718,14 @@ extra「WHEN YOU'RE STRANGE」FINAL</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2015 (1)[21]</p></td>
+<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2015 (1)[22]</p></td>
 <td><p>国営ひたち海浜公園</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>イナズマロックフェス2015 (4)[22][23]</p></td>
+<td><p>イナズマロックフェス2015 (4)[23][24]</p></td>
 <td><p>烏丸半島芝生広場</p></td>
 <td><p>両日出演</p></td>
 <td></td>
@@ -3897,7 +2740,7 @@ extra「WHEN YOU'RE STRANGE」FINAL</p></td>
 <tr class="even">
 <td><p>8月6日 - 8月7日<br />
 8月13日 - 8月14日</p></td>
-<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2016 (2)[24]</p></td>
+<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2016 (2)[25]</p></td>
 <td><p>国営ひたち海浜公園</p></td>
 <td><p>出演は8月6日のみ。</p></td>
 <td></td>
@@ -3948,7 +2791,7 @@ Presented by シミズオクト</a>2016</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月28日 - 12月31日</p></td>
-<td><p><a href="../Page/COUNTDOWN_JAPAN.md" title="wikilink">rockin'on presents COUNTDOWN JAPAN 16/17</a>[25]</p></td>
+<td><p><a href="../Page/COUNTDOWN_JAPAN.md" title="wikilink">rockin'on presents COUNTDOWN JAPAN 16/17</a>[26]</p></td>
 <td><p>幕張メッセ</p></td>
 <td><p>出演は12月31日のみ。</p></td>
 <td></td>
@@ -4264,20 +3107,20 @@ Presented by シミズオクト</a>2016</p></td>
 
 ## 受賞歴
 
-  - [日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ニュー・アーティスト・オブ・ザ・イヤー （2005年度）\[26\]
+  - [日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ニュー・アーティスト・オブ・ザ・イヤー （2005年度）\[27\]
 
 ## 脚注
 
+### 出典
+
 ## 関連項目
 
-  - 平出悟 - 主にUVERworldの編曲などに携わっている。
-  - [たねや](https://ja.wikipedia.org/wiki/たねや "wikilink") - コラボレーションをしたバームクーヘンを発売。
-  - ポカリスエット - 2008年の初武道館・初大阪城ホール公演に協賛した。
-  - [テッド・ジェンセン](https://ja.wikipedia.org/wiki/テッド・ジェンセン "wikilink") - アルバム『LAST』以降のマスタリングを担当。（『THE ONE』を除く）
+  - [日本のバンド一覧](https://ja.wikipedia.org/wiki/日本のバンド一覧 "wikilink")
+  - [ミュージシャン一覧 (グループ)](../Page/ミュージシャン一覧_\(グループ\).md "wikilink")
 
 ## 外部リンク
 
-  - [UVERworld.com](https://www.uverworld.com/) - UVERworld公式ウェブサイト
+  - \- UVERworld公式ウェブサイト
 
   - [Sony Music Entertainment (Japan) Inc.](https://www.sonymusic.co.jp/) - UVERworld所属レコード会社オフィシャルサイト
 
@@ -4286,12 +3129,9 @@ Presented by シミズオクト</a>2016</p></td>
       - [UVERworld ［sonymusic.co.jp］](https://www.sonymusic.co.jp/artist/UVERworld/) - 日本語版の公式サイト
       - [UVERworld ［sonymusic.co.jp］](https://www.sonymusic.co.jp/Music/Info/uverworld/english/) - 英語版の公式サイト
 
-  - [POWERPLAY](http://www.powerplay.co.jp/) - UVERworld所属事務所
+  - [UVERworld ［powerplay.co.jp］](https://www.uverworld.jp/) - UVERworld所属事務所POWERPLAYによる公式サイト
 
-      - [UVERworld ［powerplay.co.jp］](https://www.uverworld.jp/) - UVERworld所属事務所POWERPLAYによる公式サイト
-      - [KEN-ON Group Official Website](https://www.ken-on.co.jp/) - UVERworldの業務提携先事務所
-
-  - [UVERworld Official Blog Powered by Ameba](https://ameblo.jp/uw-corefate/) - UVERworld [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - \- UVERworld [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
       - [UVERworld 公式ブログ -GREE-](http://gree.jp/uver_world/) - UVERworld [GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")ブログ
       - [Dearest NSW Crew from TAKUYA∞ Nothing can take the music from me.](http://neosoundwave.com/blog/takuya/) - TAKUYA∞ブログ
@@ -4303,28 +3143,23 @@ Presented by シミズオクト</a>2016</p></td>
       -
   - [UVERworld DOCUMENTARY THE SONG](http://www.uverworld.com/2012/) - UVERworld自身の映画の公式サイト（音声注意）
 
-  - [UVERworld Official YouTube Channel](https://www.youtube.com/user/uverworldSMEJ) - UVERworld公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネル (音量注意)
-
   -
-  - [UVERworldBBS](http://jbbs.shitaraba.net/music/28429/) - UVERworldファンサイトBBS
-
-  - [UVERworld Crew Blog](https://ameblo.jp/last-tour)
-
+  -
 [Category:UVERworld](https://ja.wikipedia.org/wiki/Category:UVERworld "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:インダストリアル・バンド](https://ja.wikipedia.org/wiki/Category:インダストリアル・バンド "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:Gr8\!recordsのアーティスト](https://ja.wikipedia.org/wiki/Category:Gr8!recordsのアーティスト "wikilink") [Category:滋賀県出身の人物](https://ja.wikipedia.org/wiki/Category:滋賀県出身の人物 "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink")
 
 1.  [UVERworldのプロフィール](http://www.oricon.co.jp/prof/367787/profile/) - ORICON NEWS（オリコン）・2017年4月1日閲覧。
 2.
 3.
-4.  「Pati-Pati」 2007年7月号より
-5.  「[JUNON](../Page/JUNON.md "wikilink")」2011年5月号、「SOUND DESIGNER」2011年7月号より。
-6.  [THE MUSIC DAY 願いが叶う夏｜日本テレビ](http://www.ntv.co.jp/musicday/artist/)
-7.  [次回「Mステ」に7年ぶりUVERworld、NMB48、BREAKERZ、JUMPら](https://headlines.yahoo.co.jp/hl?a=20170721-00000128-natalien-musi)
+4.
+5.
+6.
+7.
 8.
 9.
-10. ROCKIN'ON JAPAN 2015年10月号 P139
+10.
 11.
-12. [ロックバンド「ＵＶＥＲｗｏｒｌｄ」ボーカル逮捕](http://www.zakzak.co.jp/gei/2006_12/g2006121515.html) [ZAKZAK](https://ja.wikipedia.org/wiki/ZAKZAK "wikilink") 2006年12月15日
-13. [武田翔太♯30 twitter 2015年9月17日閲覧。](https://twitter.com/sh3014/status/644551093767110656)
+12.
+13.
 14.
 15.
 16.
@@ -4332,9 +3167,10 @@ Presented by シミズオクト</a>2016</p></td>
 18.
 19.
 20.
-21. [UVERworld](https://rockinon.com/quick/rijfes2015/detail/128452)（10年越しの反骨精神で掴んだステージ）
-22. [【雷神ステージ】UVERworld 1日目](http://inazumarock.com/2015/news/500)（イナズマロックフェス2015）
-23. [【雷神ステージ】UVERworld 2日目](http://inazumarock.com/2015/news/600)（イナズマロックフェス2015）
-24. [UVERworld](https://rockinon.com/quick/rijfes2016/detail/146675)（生きるための遺書と、再会の約束）
-25. [UVERworld](https://rockinon.com/quick/cdj1617/detail/153918)（人は、１年で変われる。そうTAKUYA∞は言った）
-26.
+21.
+22. [UVERworld](https://rockinon.com/quick/rijfes2015/detail/128452)（10年越しの反骨精神で掴んだステージ）
+23. [【雷神ステージ】UVERworld 1日目](http://inazumarock.com/2015/news/500)（イナズマロックフェス2015）
+24. [【雷神ステージ】UVERworld 2日目](http://inazumarock.com/2015/news/600)（イナズマロックフェス2015）
+25. [UVERworld](https://rockinon.com/quick/rijfes2016/detail/146675)（生きるための遺書と、再会の約束）
+26. [UVERworld](https://rockinon.com/quick/cdj1617/detail/153918)（人は、１年で変われる。そうTAKUYA∞は言った）
+27.

@@ -42,7 +42,7 @@
   - [安西祐一郎](../Page/安西祐一郎.md "wikilink")（副委員長）- 独立行政法人日本学術振興会理事長
   - [勝木元也](https://ja.wikipedia.org/wiki/勝木元也 "wikilink") - 独立行政法人日本学術振興会学術システム研究センター副所長
   - [金澤一郎](https://ja.wikipedia.org/wiki/金澤一郎 "wikilink") - 宮内庁長官官房皇室医務主管
-  - [河田悌一](https://ja.wikipedia.org/wiki/河田悌一 "wikilink") - 日本私立学校振興・共済事業団理事長
+  - [河田悌一](../Page/河田悌一.md "wikilink") - 日本私立学校振興・共済事業団理事長
   - [草間朋子](https://ja.wikipedia.org/wiki/草間朋子 "wikilink") - 東京医療保健大学副学長
   - [佐々木毅](../Page/佐々木毅.md "wikilink") - 学習院大学法学部教授
   - [佐々木雄太](../Page/佐々木雄太.md "wikilink") - 名古屋経済大学長

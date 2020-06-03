@@ -460,9 +460,8 @@
 
 ## ミュージックビデオ
 
-|                                                       |                                                                                                                      |
+| 監督                                                    | 曲名                                                                                                                   |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                | **曲名**                                                                                                               |
 | [大関泰幸](https://ja.wikipedia.org/wiki/大関泰幸 "wikilink") | 「MUDDY SKY」                                                                                                          |
 | [山口保幸](../Page/山口保幸.md "wikilink")                    | 「Mosquito Curtain」「NIGHT PEOPLE」「[The Sand Cage](https://www.youtube.com/watch?v=wxNzJQthp8U)」「stray dog is walking」 |
 | [菅谷晋一](https://ja.wikipedia.org/wiki/菅谷晋一 "wikilink") | 「Inner City Life」                                                                                                    |

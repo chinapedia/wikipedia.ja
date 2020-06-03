@@ -276,7 +276,7 @@ Windows Installerは再配布が可能である。以下のサイトからダウ
 
 ## 関連項目
 
-  - [WiX](https://ja.wikipedia.org/wiki/WiX "wikilink")はマイクロソフトのオープンソースツールで、XMLファイルからMSIファイルをビルドするのに使用される。
+  - [WiX](../Page/WiX.md "wikilink")はマイクロソフトのオープンソースツールで、XMLファイルからMSIファイルをビルドするのに使用される。
   - [Scriptlogic](https://ja.wikipedia.org/wiki/Scriptlogic "wikilink")
   - [Windows SDK](https://ja.wikipedia.org/wiki/Windows_SDK "wikilink")
   - [:Category:システムソフトウェア](https://ja.wikipedia.org/wiki/Category:システムソフトウェア "wikilink")

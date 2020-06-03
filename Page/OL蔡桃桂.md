@@ -1,7 +1,7 @@
 > この記事は[OL蔡桃桂](https://ja.wikipedia.org/wiki/OL蔡桃桂)から翻訳されています。
 
 
-『**OL蔡桃桂**』（オーエルさいとうけい）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")[RIVERの](../Page/RIVER_\(漫画家\).md "wikilink")[OL](../Page/OL.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
+『**OL蔡桃桂**』（オーエルさいとうけい）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")[RIVERの](../Page/RIVER_\(漫画家\).md "wikilink")[OL](../Page/OL.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
 [Yahoo\!奇摩](https://ja.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")（台湾の[Yahoo\!](../Page/Yahoo!.md "wikilink")）にて、2003年6月16日より連載されている[4コマ漫画](../Page/4コマ漫画.md "wikilink")である。Yahoo\!奇摩は2008年8月1日で漫画のネット配信サービスを終了しており、現在のところ連載開始から2008年7月末までの作品をネット上で見ることはできない。同年8月1日以降発表された作品は作者のサイト[river's 543および](https://ja.wikipedia.org/wiki/river's_543 "wikilink")[River Comic Studioに掲載されている](https://ja.wikipedia.org/wiki/River_Comic_Studio "wikilink")。
 

@@ -25,7 +25,7 @@
   - [外道](../Page/外道_\(プロレスラー\).md "wikilink")（[WAR](../Page/WAR_\(プロレス\).md "wikilink")）※負傷欠場した[折原昌夫](../Page/折原昌夫.md "wikilink")の代役
   - [ハヤブサ](../Page/ハヤブサ_\(プロレスラー\).md "wikilink")（[FMW](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")）
   - [リッキー・フジ](../Page/リッキー・フジ.md "wikilink")（FMW）
-  - [茂木正淑](https://ja.wikipedia.org/wiki/茂木正淑 "wikilink")（[SPWF](../Page/SPWF.md "wikilink")）
+  - [茂木正淑](../Page/茂木正淑.md "wikilink")（[SPWF](../Page/SPWF.md "wikilink")）
   - [ザ・グレート・サスケ](../Page/ザ・グレート・サスケ.md "wikilink")（[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")）※準優勝
   - [スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")（みちのくプロレス）
   - [TAKAみちのく](../Page/TAKAみちのく.md "wikilink")（みちのくプロレス）
@@ -50,7 +50,7 @@
   - [ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")（WAR）
   - [外道](../Page/外道_\(プロレスラー\).md "wikilink")（WAR）※準優勝
   - [船木勝一](../Page/船木勝一.md "wikilink")（[プロフェッショナルレスリング藤原組](../Page/藤原組.md "wikilink")）
-  - [茂木正淑](https://ja.wikipedia.org/wiki/茂木正淑 "wikilink")（[レッスル夢ファクトリー](../Page/レッスル夢ファクトリー.md "wikilink")）
+  - [茂木正淑](../Page/茂木正淑.md "wikilink")（[レッスル夢ファクトリー](../Page/レッスル夢ファクトリー.md "wikilink")）
   - [中島半蔵](../Page/HANZO.md "wikilink")（[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")）
   - [愚乱・浪花](../Page/愚乱・浪花.md "wikilink")（みちのくプロレス）
   - [望月成晃](../Page/望月成晃.md "wikilink")（[武輝道場](https://ja.wikipedia.org/wiki/武輝道場 "wikilink")）
@@ -100,7 +100,7 @@
   - [アビスモ・ネグロ](../Page/アビスモ・ネグロ.md "wikilink")（[AAA](../Page/AAA_\(プロレス\).md "wikilink")）
   - [オリエンタル](https://ja.wikipedia.org/wiki/オリエンタル_\(プロレスラー\) "wikilink")（AAA）
   - [スーパー・ボーイ](https://ja.wikipedia.org/wiki/スーパー・ボーイ "wikilink")（AAA）
-  - [チャビンガー](https://ja.wikipedia.org/wiki/茂木正淑 "wikilink")（フリー）
+  - [チャビンガー](../Page/茂木正淑.md "wikilink")（フリー）
   - [チャパリータASARI](../Page/チャパリータASARI.md "wikilink")（フリー）
   - [矢樹広弓](../Page/矢樹広弓.md "wikilink")（フリー）
 
@@ -169,8 +169,8 @@
   - [プリンス・デヴィット](../Page/ファーガル・デヴィット.md "wikilink")（新日本プロレス）※準優勝
   - 丸藤正道（[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")）※優勝
   - [青木篤志](../Page/青木篤志.md "wikilink")（プロレスリング・ノア）
-  - [飯伏幸太](../Page/飯伏幸太.md "wikilink")（DDTプロレスリング）
-  - [男色ディーノ](../Page/男色ディーノ.md "wikilink")（[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")）
+  - [飯伏幸太](../Page/飯伏幸太.md "wikilink")（[DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")）
+  - [男色ディーノ](../Page/男色ディーノ.md "wikilink")（DDTプロレスリング）
   - [GENTARO](../Page/GENTARO.md "wikilink")（[プロレスリングFREEDOMS](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")）
   - [フジタ"Jr"ハヤト](../Page/フジタ"Jr"ハヤト.md "wikilink")（[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")）
   - [タイガースマスク](../Page/丸山敦.md "wikilink")（[大阪プロレス](../Page/大阪プロレス.md "wikilink")）

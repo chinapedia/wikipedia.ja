@@ -16,34 +16,7 @@
 
 ## 収録曲
 
-  - 全作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")
-
-<!-- end list -->
-
-1.  **[Power -明日の子供-](https://ja.wikipedia.org/wiki/Power_-明日の子供- "wikilink")**
-      - 作曲・編曲：小室哲哉
-2.  **[サマータイム ブルース](https://ja.wikipedia.org/wiki/サマータイム_ブルース/Boys_kiss_Girls "wikilink")**
-      - 作曲：渡辺美里、編曲：[奈良部匠平](../Page/奈良部匠平.md "wikilink")
-3.  **[恋するパンクス](https://ja.wikipedia.org/wiki/恋するパンクス "wikilink")**
-      - 作曲・編曲：奈良部匠平
-4.  **POSITIVE DANCE**
-      - 作曲・編曲：奈良部匠平
-5.  **[虹をみたかい](https://ja.wikipedia.org/wiki/虹をみたかい "wikilink") (tokyo mix)**
-      - 作曲・編曲：岡村靖幸
-6.  **バースデイ**
-      - 作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：[清水信之](../Page/清水信之.md "wikilink")
-7.  **[Boys kiss Girls](https://ja.wikipedia.org/wiki/サマータイム_ブルース/Boys_kiss_Girls "wikilink")**
-      - 作曲：伊秩弘将、編曲：清水信之
-8.  **遅れてきた夏休み**
-      - 作曲：渡辺美里、編曲：清水信之
-9.  **ナイフとフォーク**
-      - 作曲：渡辺美里、編曲：奈良部匠平
-10. **Tokyo**
-      - 作曲・編曲：小室哲哉
-11. **Oh\! ダーリン**
-      - 作曲：渡辺美里、編曲：奈良部匠平
-12. **元気だしなよ**
-      - 作曲：渡辺美里・佐橋佳幸、編曲：佐橋佳幸
+  - （全曲）作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")
 
 ## 参加ミュージシャン
 

@@ -65,7 +65,7 @@
   - 2011年1月29日[2011年アジアカップカタール大会の決勝でTwitterでつぶやいた占いで](../Page/AFCアジアカップ.md "wikilink")[李忠成](../Page/李忠成.md "wikilink")選手のゴールを西洋占星術を使い予言し的中させていた。\[20\]\[21\]
   - 2011年3月29日に行われた[東日本大震災復興支援チャリティーマッチ](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震復興支援チャリティーマッチ_がんばろうニッポン! "wikilink")、日本代表対Jリーグ選抜の試合前にTwitterでつぶやいた占いで[三浦カズ選手のゴールを予言し的中させていた](../Page/三浦知良.md "wikilink")。
   - 2011年5月28日チャンピオンズリーグ2010－2011の決勝について試合前にTwitterでつぶやいた占いで、[シャビ](../Page/シャビ.md "wikilink")から[ペドロ・ロドリゲス・レデスマ](https://ja.wikipedia.org/wiki/ペドロ・ロドリゲス・レデスマ "wikilink")のゴール、[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")の得点、[ダビド・ビジャ](https://ja.wikipedia.org/wiki/ダビド・ビジャ "wikilink")の得点する時間帯などを予言し的中させていた。
-  - 2011年6月19日サッカーU-22日本代表対U-22クエート代表の試合前にTwitterでつぶやいた占いで、[濱田水輝](https://ja.wikipedia.org/wiki/濱田水輝 "wikilink")選手、[大迫勇也](https://ja.wikipedia.org/wiki/大迫勇也 "wikilink")選手のゴールや、[清武弘嗣](https://ja.wikipedia.org/wiki/清武弘嗣 "wikilink")選手のアシストなどを試合前に予言し的中させていた。
+  - 2011年6月19日サッカーU-22日本代表対U-22クエート代表の試合前にTwitterでつぶやいた占いで、[濱田水輝](https://ja.wikipedia.org/wiki/濱田水輝 "wikilink")選手、[大迫勇也](https://ja.wikipedia.org/wiki/大迫勇也 "wikilink")選手のゴールや、[清武弘嗣](../Page/清武弘嗣.md "wikilink")選手のアシストなどを試合前に予言し的中させていた。
   - 2011年6月23日サッカーU-22日本代表対U-22クエート代表のアウェイの試合前にTwitterでつぶやいた占いで、[東慶悟](https://ja.wikipedia.org/wiki/東慶悟 "wikilink")選手のアシストから[酒井宏樹](https://ja.wikipedia.org/wiki/酒井宏樹 "wikilink")選手のゴールを予言し的中させていた。
   - 2011年7月9日[2011年女子ワールドカップドイツ大会のなでしこジャパン対女子ドイツ代表の試合前にTwitterでつぶやいた占いで](../Page/2011_FIFA女子ワールドカップ.md "wikilink")、[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")選手のアシストから[丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")選手のゴールを予言し的中させていた。\[22\]
   - 2011年7月13日[2011年女子ワールドカップドイツ大会のなでしこジャパン対女子スウェーデン代表の試合前にTwitterでつぶやいた占いで](../Page/2011_FIFA女子ワールドカップ.md "wikilink")、[川澄奈穂美](https://ja.wikipedia.org/wiki/川澄奈穂美 "wikilink")選手のゴールと[澤穂希](https://ja.wikipedia.org/wiki/澤穂希 "wikilink")選手のゴールを予言し的中させていた。\[23\]\[24\]
@@ -191,6 +191,8 @@
   - [日向坂で会いましょう](https://ja.wikipedia.org/wiki/日向坂で会いましょう "wikilink")（テレビ東京、2020年1月5日、1月12日）占い師として出演し、夢診断をする。
   - [みんテレ](../Page/みんテレ.md "wikilink")（北海道文化放送、2020年1月7日）占い師として出演。
   - 超・つば九郎タイムス（フジテレビ ONE TWO NEXT、2020年1月13日)＃15　占い師として出演。
+  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink") （TBSテレビ、2020年1月24日）占い師として出演。動くパワースポットとして紹介される。
+  - RKB「ほっとけない！TV」（RKB毎日放送、2020年4月8日、2020年4月15日）占い師として出演。
 
 ### ラジオ
 
@@ -226,7 +228,8 @@
   - [タカトシのバラエティだろ〜が！！](https://ja.wikipedia.org/wiki/タカトシのバラエティだろ〜が!! "wikilink")\#4、\#5（AbemaTV、2017年5月1日、2017年5月8日）風水師で出演。
   - [尼神インターの木曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")\#2(AbemaTV、2017年8月10日)耳占いで出演。
   - [恵比寿マスカッツ 1.5 真夜中のワイドショー](https://ja.wikipedia.org/wiki/恵比寿マスカッツ_1.5_真夜中のワイドショー "wikilink")\#1、\#2、\#24、\#56(AbemaTV、2017年11月9日、2017年11月16日、2018年4月19日、2019年1月25日)占い師として出演。
-  - [恵比寿マスカッツ 真夜中の運動会](https://ja.wikipedia.org/wiki/恵比寿マスカッツ_真夜中の運動会 "wikilink")\#4、\#5(AbemaTV、2019 年10月29日、2019年11月5日)心霊にも詳しい最恐占い師Love Me Doで出演。
+  - [恵比寿マスカッツ 真夜中の運動会](https://ja.wikipedia.org/wiki/恵比寿マスカッツ_真夜中の運動会 "wikilink")\#4、\#5、＃20、\#22(AbemaTV、2019 年10月29日、2019年11月5日、2020年3月24日、2020年4月7日)心霊にも詳しい最恐占い師Love Me Doで出演。
+  - [チャンスの時間](https://ja.wikipedia.org/wiki/チャンスの時間 "wikilink")\#90 (AbemaTV、2020 年4月22 日)占い師として出演。
 
 ### 新聞
 
@@ -296,6 +299,7 @@
 ## 携帯コンテンツ
 
   - Love Me Do 恋占術（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")公式コンテンツ 2015年4月20日～）
+  - Love Me Do ラブちゃん占い（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")公式コンテンツ 2020年3月1日～）
   - ジェンダー占い☆お試しアリ（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")公式コンテンツ 2007年9月3日～2015年3月31日で終了）
 
 ## 脚注

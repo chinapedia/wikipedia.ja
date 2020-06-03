@@ -1,9 +1,7 @@
 > この記事は[Mapion](https://ja.wikipedia.org/wiki/Mapion)から翻訳されています。
 
 
-**Mapion**(マピオン)は、**株式会社ONE COMPATH**（ワンコンパス）が提供している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[地図](../Page/地図.md "wikilink")[検索](../Page/検索.md "wikilink")サービス。また[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")向けに[MapionBB](https://ja.wikipedia.org/wiki/MapionBB "wikilink")というサービスもある。
-
-「Mapion」は「**Map** **I**nformation **O**pen **N**etwork」の略である。
+**Mapion**(マピオン)は、**株式会社ONE COMPATH**（ワンコンパス）が提供している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[地図](../Page/地図.md "wikilink")[検索](../Page/検索.md "wikilink")サービス。また[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")向けに[MapionBB](https://ja.wikipedia.org/wiki/MapionBB "wikilink")というサービスもある。「Mapion」は「**Map** **I**nformation **O**pen **N**etwork」の略である。
 
 ## サービス概要
 
@@ -45,8 +43,6 @@
   - 2019年[4月1日](../Page/4月1日.md "wikilink") - 現商号に変更。凸版印刷より「Shufoo\!」の事業を承継。
 
 ## 脚注
-
-<references />
 
 ## 関連項目
 

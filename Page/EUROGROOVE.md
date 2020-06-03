@@ -1,7 +1,7 @@
 > この記事は[EUROGROOVE](https://ja.wikipedia.org/wiki/EUROGROOVE)から翻訳されています。
 
 
-**EUROGROOVE**（ユーログルーブ）とは、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")による、日本の音楽を海外に進出させることを目的として[1994年](../Page/1994年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて行われたプロジェクトである。海外の[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")を[J-POP](../Page/J-POP.md "wikilink")に翻訳した[TRF](../Page/TRF.md "wikilink")の日本国内での成功を受けて、日本の文化を反映させた[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")を海外に発信するために開始された。このプロジェクトでリリースされた曲は、1990年代初頭からヨーロッパ諸国を中心に流行し始めた[ユーロダンス](https://ja.wikipedia.org/wiki/ユーロダンス "wikilink")系の曲が多いのが特徴である。EUROGROOVEは多国籍かつ流動的なメンバーで[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")を制作する体制を取っていたが、当時としては珍しい体制であり、今日の[EDM](https://ja.wikipedia.org/wiki/EDM "wikilink")の音楽ユニットと似た活動形態でもあった。
+**EUROGROOVE**（ユーログルーブ）とは、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")による、日本の音楽を海外に進出させることを目的として[1994年](../Page/1994年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")にかけて行われたプロジェクトである。海外の[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")を[J-POP](../Page/J-POP.md "wikilink")に翻訳した[TRF](../Page/TRF.md "wikilink")の日本国内での成功を受けて、日本の文化を反映させた[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")を海外に発信するために開始された。このプロジェクトでリリースされた曲は、1990年代初頭からヨーロッパ諸国を中心に流行し始めた[ユーロダンス](https://ja.wikipedia.org/wiki/ユーロダンス "wikilink")系の曲が多いのが特徴である。EUROGROOVEは多国籍かつ流動的なメンバーで[ダンス・ミュージック](https://ja.wikipedia.org/wiki/ダンス・ミュージック "wikilink")を制作する体制を取っていたが、音楽のグローバル化が進んでいない当時としては珍しい体制であり、今日の[EDM](https://ja.wikipedia.org/wiki/EDM "wikilink")の音楽ユニットと似た活動形態でもあった。
 
 ## 概要
 
@@ -10,6 +10,8 @@
 「郷に入っては郷に従え」の精神で歌詞の言い回しもその時のヨーロッパの流行りに合わせられる様に現地の作詞家を起用し、ボーカルも楽曲毎に変え、小室のオリジナル楽曲をイギリスの制作チームにリミックスさせて、海外の色に染める等、売り込む対象となった国の歌手やアレンジャーを起用して自身の音楽を制作して売り込む手法を採用した。アルバムはEUROGROOVEの楽曲と本場の楽曲が同時収録された[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")で発売され、楽曲を比較しても、クオリティ面では同等である事を示す様にし\[2\]\[3\]、「\# oo」と2桁以上続けて出す構想もあった\[4\]。
 
 日本での展開・[フィーチャリング](../Page/フィーチャリング.md "wikilink")形式で構成されたグループの将来を考え、お互いの[A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")を充実させる為に小室は2ヶ月に1回ミーティングの為だけにロンドンに行き、「日本のアーティストが海外進出する為の窓口」\[5\]「日本のアーティストが海外進出する場合は向こうのプロデューサーに作ってもらい、逆に海外のアーティストを日本で売る場合は小室がプロデュースする制作活動」\[6\]を目指した。
+
+必然的に[グローバル化への挑戦となったが](../Page/グローバリゼーション.md "wikilink")、EUROGROOVEが活動した[1990年代](../Page/1990年代.md "wikilink")前半は[インターネット](../Page/インターネット.md "wikilink")商用化直前の時代であり、こうした制作活動に高いコストが掛かった上に、世界的に異文化への理解も進んでいなかった。
 
 ## プロジェクトの推移
 
@@ -26,6 +28,8 @@
 EUROGROOVEの盤はヨーロッパ各国とアメリカ、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")などで[プロモ盤](https://ja.wikipedia.org/wiki/プロモ盤 "wikilink")が作られていて、小室作品の中でもレア物が多い\[10\]。
 
 ちなみに[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[F1グランプリ](https://ja.wikipedia.org/wiki/F1グランプリ "wikilink")中継のエンディングテーマとして使われていた『**[Let's Go](https://ja.wikipedia.org/wiki/Let's_Go_\(EUROGROOVEの曲\) "wikilink")**』（当初は小室哲哉個人の名義で発表されたインストゥルメンタル曲だったが、シーズン途中からヴォーカルが入ったバージョンに切り替えられ、曲のクレジットもEUROGROOVEとなった）が有名である。
+
+数年間の活動の集大成として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の[クリスマス](../Page/クリスマス.md "wikilink")に「[THE BEST OF EUROGROOVE NON-STOP MIX](https://ja.wikipedia.org/wiki/THE_BEST_OF_EUROGROOVE_NON-STOP_MIX "wikilink")」を発売し、以後はユニット自体が自然消滅した。このベストアルバムのアレンジは海外向けアレンジとなっている。
 
 イギリスでは[1996年](../Page/1996年.md "wikilink")にAVEX UKからEUROGROOVEの曲のみを収録した[アルバム](../Page/アルバム.md "wikilink")である『**In The Groove**』と『**United Nations Of Remixing**』がリリースされている。これらは、日本国内で発売された作品とはアレンジが全く異なっており、力強い本場のダンス・サウンドに改められている。これらの海外盤は日本国内では未発売である。
 

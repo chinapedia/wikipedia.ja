@@ -5,7 +5,7 @@
 
 ## 参加アーティスト
 
-  - [走馬党](https://ja.wikipedia.org/wiki/走馬党 "wikilink")
+  - [走馬党](../Page/走馬党.md "wikilink")
       - [ARK](https://ja.wikipedia.org/wiki/ARK "wikilink")
       - [GINRHYME DA VIBRATER](https://ja.wikipedia.org/wiki/GINRHYME_DA_VIBRATER "wikilink")
       - [三善](https://ja.wikipedia.org/wiki/三善/善三 "wikilink")

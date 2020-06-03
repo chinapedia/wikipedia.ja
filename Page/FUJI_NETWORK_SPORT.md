@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [塩原恒夫](https://ja.wikipedia.org/wiki/塩原恒夫 "wikilink")
+  - [塩原恒夫](../Page/塩原恒夫.md "wikilink")
   - [青嶋達也](../Page/青嶋達也.md "wikilink")
   - [竹下陽平](../Page/竹下陽平.md "wikilink")
   - [森昭一郎](../Page/森昭一郎.md "wikilink")
@@ -168,7 +168,7 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の歴史 "wikilink")
 

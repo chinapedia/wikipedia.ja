@@ -52,7 +52,7 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2013年](../Page/2013年.md "wikilink")まで刊行。表題の通り[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")編集部が担当しており「[最遊記](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")」や「[超獣伝説ゲシュタルト](../Page/超獣伝説ゲシュタルト.md "wikilink")」などの同誌連載作品や「[ペルソナ2](../Page/ペルソナ2.md "wikilink")」「[エクソダスギルティー](../Page/エクソダスギルティー.md "wikilink")」などの[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")を原作とする[ノベライズ作品が中心だが](../Page/小説化.md "wikilink")、少数ながらオリジナル作品も刊行された。
 
-また、珍しいケースとして「[E'S](../Page/E'S.md "wikilink")」（[結賀さとる](../Page/結賀さとる.md "wikilink")）は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")本人が執筆している。
+また、珍しいケースとして「[E'S](../Page/E'S.md "wikilink")」（[結賀さとる](../Page/結賀さとる.md "wikilink")）は[漫画家](../Page/漫画家.md "wikilink")本人が執筆している。
 
 ## その他のレーベル
 
@@ -60,7 +60,7 @@
 
 ### DRAGON QUEST NOVELS
 
-[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")専用のレーベル。ノベライズ作品や当初は外伝として書かれたが後に正伝となった「[精霊ルビス伝説](../Page/ドラゴンクエスト_精霊ルビス伝説.md "wikilink")」（久美沙織）までタイトルも多く、過去に[ハードカバー](https://ja.wikipedia.org/wiki/ハードカバー "wikilink")で刊行されたタイトルも新書版で復刻されている。
+[ドラゴンクエストシリーズ](../Page/ドラゴンクエストシリーズ.md "wikilink")専用のレーベル。ノベライズ作品や当初は外伝として書かれたが後に正伝となった「[精霊ルビス伝説](../Page/ドラゴンクエスト_精霊ルビス伝説.md "wikilink")」（久美沙織）までタイトルも多く、過去に[ハードカバー](../Page/ハードカバー.md "wikilink")で刊行されたタイトルも新書版で復刻されている。
 
 「[ドラゴンクエストVII エデンの戦士たち](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")」（[土門弘幸](https://ja.wikipedia.org/wiki/土門弘幸 "wikilink")）以降のノベライズ作品はGame Novelsに統合された。
 

@@ -12,33 +12,7 @@
 
 ## 収録曲
 
-1.  **Lovin' you**
-      - 作詞：渡辺美里、作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：[Robbie Buchanan](https://ja.wikipedia.org/wiki/:en:Robbie_Buchanan "wikilink")
-2.  **[泣いちゃいそうだよ](https://ja.wikipedia.org/wiki/泣いちゃいそうだよ_\(曲\) "wikilink")**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
-3.  **やるじゃん女の子**
-      - 作詞・作曲：渡辺美里、編曲：[Gota](../Page/屋敷豪太.md "wikilink")
-4.  **[サマータイム ブルース](https://ja.wikipedia.org/wiki/サマータイム_ブルース/Boys_kiss_Girls "wikilink")**
-      - 作詞・作曲：渡辺美里、編曲：[Richard Dodd](https://ja.wikipedia.org/wiki/:en:Richard_Dodd "wikilink")
-    <!-- end list -->
-      -
-        「泣いちゃいそうだよ」カップリング曲
-5.  **[ムーンライト ダンス](https://ja.wikipedia.org/wiki/ムーンライト_ダンス "wikilink")**
-      - 作詞：渡辺美里、作曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：Gota
-6.  **跳べ模型ヒコーキ**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：[Mike Mainieri](../Page/マイク・マイニエリ.md "wikilink")
-7.  **[My Revolution－第2章－](../Page/My_Revolution.md "wikilink")**
-      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")、作曲：小室哲哉、オーケストレーション：大村雅朗
-8.  **シャララ**
-      - 作詞：渡辺美里、作曲：岡村靖幸、編曲：Richard Dodd
-9.  **[GROWIN' UP](https://ja.wikipedia.org/wiki/GROWIN'_UP "wikilink")**
-      - 作詞：[神沢礼江](../Page/神沢礼江.md "wikilink")、作曲：岡村靖幸、編曲：Goh Hotoda
-10. **さくらの花の咲くころに**
-      - 作詞：渡辺美里、作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、編曲：Robbie Buchanan
-11. **[青空](https://ja.wikipedia.org/wiki/メリーゴーランド/青空 "wikilink")**
-      - 作詞：渡辺美里、作曲：小室哲哉、編曲：[Arif Mardin](https://ja.wikipedia.org/wiki/アリフ・マーディン "wikilink"), [Joe Mardin](https://ja.wikipedia.org/wiki/:en:Joe_Mardin "wikilink")
-12. **男の子のように**
-      - 作詞：渡辺美里、作曲：[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")、編曲：[David Lawrence](https://ja.wikipedia.org/wiki/:en:David_Lawrence "wikilink")
+  - （特記以外）作詞：渡辺美里
 
 ## 参加ミュージシャン
 

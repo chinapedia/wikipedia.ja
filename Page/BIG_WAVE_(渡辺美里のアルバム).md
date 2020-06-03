@@ -12,42 +12,7 @@
 
 ## 収録曲
 
-  - 全作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")（\#2は除く）
-
-<!-- end list -->
-
-1.  **ブランニューヘブン**
-      - 作曲・編曲：[小林武史](../Page/小林武史.md "wikilink")
-2.  **Overture (Instrumental)**
-      - 作曲・編曲：[奈良部匠平](../Page/奈良部匠平.md "wikilink")
-3.  **ジャングル チャイルド**
-      - 作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
-4.  **[BIG WAVE やってきた](https://ja.wikipedia.org/wiki/BIG_WAVE_やってきた/素直に泣ける日_笑える日 "wikilink")**
-      - 作曲：岡村靖幸、編曲：小林武史
-5.  **Nude**
-      - 作曲・編曲：小林武史
-6.  **I WILL BE ALRIGHT**
-      - 作曲・編曲：小林武史
-7.  **[いつか きっと](https://ja.wikipedia.org/wiki/いつか_きっと "wikilink")**
-      - 作曲・編曲：[石井恭史](../Page/石井妥師.md "wikilink")
-    <!-- end list -->
-      -
-        シングル盤よりフェードアウトが早い
-8.  **若きモンスターの逆襲**
-      - 作曲：岡村靖幸、編曲：[Richard Dodd](https://ja.wikipedia.org/wiki/:en:Richard_Dodd "wikilink")
-9.  **みんないた夏**
-      - 作曲：石井恭史、編曲：Richard Dodd
-10. **さえない20代**
-      - 作曲：岡村靖幸、編曲：大村雅朗
-11. **はじめて**
-      - 作曲：渡辺美里・大村雅朗、編曲：大村雅朗
-12. **[素直に泣ける日 笑える日](https://ja.wikipedia.org/wiki/BIG_WAVE_やってきた/素直に泣ける日_笑える日 "wikilink") (Re-Mix)**
-      - 作曲：石井恭史、編曲：Richard Dodd
-13. **Audrey**
-      - 作曲：渡辺美里、編曲：小林武史
-    <!-- end list -->
-      -
-        タイトル「Audrey」はこの年亡くなった女優・[オードリー・ヘプバーン](../Page/オードリー・ヘプバーン.md "wikilink")のことであり、歌詞には彼女の主演映画のタイトルが散りばめられている。
+  - （\#2を除く）作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")
 
 ## 参加ミュージシャン
 
@@ -193,6 +158,8 @@
   - Percussions : 三沢またろう
   - Synth. programming : 松本賢
   - Background Vocals : [広谷順子](https://ja.wikipedia.org/wiki/広谷順子 "wikilink") and Misato
+
+## 脚注
 
 ## 外部リンク
 

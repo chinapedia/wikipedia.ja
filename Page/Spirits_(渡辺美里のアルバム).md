@@ -11,30 +11,114 @@
 
 ## 収録曲
 
-1.  **東京生活**
-      - 作詞：渡辺美里、作曲：村部淳一・後藤孝顕、編曲：[西平彰](../Page/西平彰.md "wikilink")・後藤孝顕
-2.  **とびだせ青春**
-      - 作詞：渡辺美里、作曲・編曲：[石井妥師](../Page/石井妥師.md "wikilink")
-3.  **[My Love Your Love（たったひとりしかいない あなたへ）](https://ja.wikipedia.org/wiki/My_Love_Your_Love（たったひとりしかいない_あなたへ） "wikilink")**
-      - 作詞・作曲：渡辺美里、編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")
-4.  **熱いふたり**
-      - 作詞・作曲：渡辺美里、編曲：[清水信之](../Page/清水信之.md "wikilink")
-5.  **Pain**
-      - 作詞・作曲：渡辺美里、編曲：[奈良部匠平](../Page/奈良部匠平.md "wikilink")
-6.  **LOVE IS HERE**
-      - 作詞：渡辺美里、作曲・編曲：石井妥師
-7.  **スピリッツ**
-      - 作詞：渡辺美里、作曲・編曲：石井妥師
-8.  **グッときれいになりましょう**
-      - 作詞：渡辺美里、作曲：村部淳一・後藤孝顕、編曲：清水信之
-9.  **キャッチボール**
-      - 作詞：渡辺美里、作曲：[みやもとこうじ](../Page/宮本浩次_\(シンガーソングライター\).md "wikilink")、編曲：佐久間正英
-10. **グリーン・グリーン**
-      - 作詞：渡辺美里、作曲：石井妥師、編曲：佐久間正英
-11. **Life**
-      - 作詞・作曲：渡辺美里、編曲：奈良部匠平
-12. **My Love Your Love（夢であいましょう） (Instrumental)**
-      - 作曲：渡辺美里
+  - （\#12を除く）作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")
+
+## 参加ミュージシャン
+
+**東京生活**
+
+  - Synthesizer Programming：西平彰
+  - Drums：[宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
+  - E.Bass：富倉安生
+  - E.Guitar：後藤孝顕
+  - A.Guitar：[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
+  - Keyboards＆A.Piano：エルトン永田
+  - Trumpet：[荒木敏夫](https://ja.wikipedia.org/wiki/荒木敏夫 "wikilink")
+  - T.Sax：[山本拓夫](../Page/山本拓夫.md "wikilink")
+  - Trombone：[村田陽一](../Page/村田陽一.md "wikilink")
+  - Percussion：[三沢またろう](../Page/三沢またろう.md "wikilink")
+  - Assistant Programmer：[河盛慶次](../Page/河盛慶次.md "wikilink")
+  - Whistle : 関野一美
+  - M.W. FM3310 radio voice：大竹研
+  - Background Vocal：[葛城哲哉](../Page/葛城哲哉.md "wikilink")・[山根麻衣](https://ja.wikipedia.org/wiki/山根麻衣 "wikilink")・Misato
+
+**とびだせ青春**
+
+  - Synthesizer Programming,Keyboards,E.Guitar＆E.Bass：石井妥師
+  - Percussion：三沢またろう
+  - Clap：石井妥師・Minoru・Misato
+  - Background Vocal：石井妥師・Misato
+
+**My Love Your Love〜たったひとりしかいない あなたへ〜**
+
+  - Synthesizer Programming,Keyboards,E.Guitar,A.Guitar＆E.Bass：佐久間正英
+  - Drums＆Percussion：[そうる透](../Page/そうる透.md "wikilink")
+  - Background Vocal：石井妥師・村部淳一・Show・Mika・Yuichiro・Miyuki・Yumi・Ai・Kyoko・Minoru・Kazumi・Kohichi・Misato
+
+**熱いふたり**
+
+  - Synthesizer Programming,Keyboards,A.Piano＆E.Guitar：清水信之
+  - Fairlight programming : 田端元
+  - Drums：[古田たかし](https://ja.wikipedia.org/wiki/古田たかし "wikilink")
+  - E.Bass：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
+  - Strings：篠崎Strings
+  - Background Vocal：葛城哲哉・Misato
+
+**Pain**
+
+  - Synthesizer Programming：佐藤勝則・奈良部匠平
+  - Keyboards：奈良部匠平
+  - Drums：宮田繁男
+  - E.Bass：[井上富雄](https://ja.wikipedia.org/wiki/井上富雄 "wikilink")
+  - A.Guitar＆E.Guitar：[是永巧一](../Page/是永巧一.md "wikilink")・[辻剛](https://ja.wikipedia.org/wiki/辻剛 "wikilink")
+  - Percussion：三沢またろう
+  - Strings：桑野Strings
+
+**LOVE IS HERE**
+
+  - Keyboards,E.Guitar：石井妥師
+  - Synthesizer Programming：[山下勉](../Page/ツトム・ヤマシタ.md "wikilink")
+  - Drums：[江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")
+  - E.Bass：Mecken
+  - 12 strings guitar : 辻剛
+  - Percussion：三沢またろう
+  - Background Vocal：石井妥師・Misato
+
+**スピリッツ**
+
+  - Synthesizer Programming,Keyboards,E.Guitar,E.Bass＆Percussion：石井妥師
+  - T.Sax：山本拓夫
+  - Kazzoo＆Background Vocal：石井妥師・Misato
+
+**グッときれいになりましょう**
+
+  - Keyboards,E.Guitar,A.Guitar＆E.Bass：清水信之
+  - Fairlight programming : 田端元
+  - E.Guitar＆A.Guitar：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
+  - Drums：Kiyoshi Tabata
+  - Trumpet：[エリック宮城](../Page/エリック・ミヤシロ.md "wikilink")
+  - T.Sax：山本拓夫
+  - Background Vocal：村部淳一・石井妥師・Show・Sampei・Minoru・Misato
+
+**キャッチボール**
+
+  - Synthesizer Programming,Keyboards,E.Guitar,A.Guitar＆E.Bass：佐久間正英
+  - Drums＆Percussion：そうる透
+  - Background Vocal：Misato
+
+**グリーン・グリーン**
+
+  - Synthesizer Programming,Keyboards,E.Guitar,A.Guitar＆E.Bass：佐久間正英
+  - Drums＆Percussion：そうる透
+  - Background Vocal：Misato
+
+**Life**
+
+  - Drums：江口信夫
+  - E.Bass：Mecken
+  - A.Guitar＆E.Guitar：是永巧一
+  - A.Piano＆Keyboards：奈良部匠平
+  - Harp：Gloria Agostini
+  - Percussion：三沢またろう・Michael Hinton
+  - T.Sax：Michael Brecker
+  - French Horn：Peter Gordon・Chris Kormer
+  - Strings：Gene Orloff Group
+  - Synthesizer Programming：迫田到
+  - Background Vocal：[安部恭弘](../Page/安部恭弘.md "wikilink")・村部淳一・佐々木久美・Misato
+
+**My Love Your Love〜夢であいましょう〜**
+
+  - A.Piano：[西本明](https://ja.wikipedia.org/wiki/西本明 "wikilink")
 
 ## 外部リンク
 

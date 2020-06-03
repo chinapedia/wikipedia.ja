@@ -1,9 +1,9 @@
 > この記事は[ピアソンVUE](https://ja.wikipedia.org/wiki/ピアソンVUE)から翻訳されています。
 
 
-**ピアソンVUE** () は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のメディア企業[ピアソンによって所有されているコンピューターを使用したテスト](../Page/ピアソン_\(企業\).md "wikilink") ([Computer Based Testing](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink"), CBT / Internet-Based Testing, IBT) と高度なアセスメントを提供するサービス会社である。
+**ピアソンVUE** () は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のメディア企業[ピアソンによって所有されているコンピューターを使用したテスト](../Page/ピアソン_\(企業\).md "wikilink") ([Computer Based Testing](../Page/Computer_Based_Testing.md "wikilink"), CBT / Internet-Based Testing, IBT) と高度なアセスメントを提供するサービス会社である。
 
-イギリスの運転免許や各種職業試験のほか、[アメリカでも医療従事者免許試験や大学院試験](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") ([GMAT](../Page/Graduate_Management_Admission_Test.md "wikilink"))、ミリタリー向け試験、金融取引業規制機構 (FINRA) 試験、各州での各種規制業界向け免許試験などでの最高峰の試験を提供している。 また、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")や[オラクルといった大手IT企業のベンダー](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[資格](../Page/資格.md "wikilink")試験を独占的に請負いコンピューターでの試験を随時実施する。
+イギリスの運転免許や各種職業試験のほか、[アメリカでも医療従事者免許試験や大学院試験](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") ([GMAT](../Page/Graduate_Management_Admission_Test.md "wikilink"))、ミリタリー向け試験、金融取引業規制機構 (FINRA) 試験、各州での各種規制業界向け免許試験などでの最高峰の試験を提供している。 また、[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")や[オラクルといった大手IT企業のベンダー](../Page/オラクル_\(企業\).md "wikilink")[資格](../Page/資格.md "wikilink")試験を独占的に請負いコンピューターでの試験を随時実施する。
 
 ## サービス
 
@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [Computer Based Testing](https://ja.wikipedia.org/wiki/Computer_Based_Testing "wikilink")
+  - [Computer Based Testing](../Page/Computer_Based_Testing.md "wikilink")
 
 ## 外部リンク
 

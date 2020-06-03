@@ -17,32 +17,8 @@
 
 ## 収録曲
 
-  - 全作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")
-
-<!-- end list -->
-
-1.  **NEWS**
-      - 作曲：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")、編曲：[清水信之](../Page/清水信之.md "wikilink")、ホーンアレンジ：[Greg Adams](https://ja.wikipedia.org/wiki/:en:Greg_Adams_\(musician\) "wikilink")&清水信之
-2.  **やるじゃん女の子**
-      - 作曲：渡辺美里、編曲：清水信之
-3.  **一瞬の夏**
-      - 作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：清水信之
-4.  **跳べ模型ヒコーキ**
-      - 作曲：[岡村靖幸](../Page/岡村靖幸.md "wikilink")、編曲：清水信之
-5.  **[ムーンライト ダンス](https://ja.wikipedia.org/wiki/ムーンライト_ダンス "wikilink")**
-      - 作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-6.  **彼女が髪を切った理由**
-      - 作曲：佐橋佳幸、編曲：清水信之
-7.  **パイナップル ロマンス**
-      - 作曲・編曲：佐橋佳幸
-8.  **グッドバイ**
-      - 作曲：伊秩弘将、編曲：清水信之
-9.  **冷たいミルク**
-      - 作曲：岡村靖幸、編曲：清水信之
-10. **White Days**
-      - 作曲：伊秩弘将、編曲：清水信之
-11. **[すき](https://ja.wikipedia.org/wiki/すき_\(Apricot_Mix\) "wikilink")**
-      - 作曲：[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")、編曲：[有賀啓雄](../Page/有賀啓雄.md "wikilink")
+  - （全曲）作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")
+  - （特記以外）編曲：[清水信之](../Page/清水信之.md "wikilink")
 
 ## 参加ミュージシャン
 

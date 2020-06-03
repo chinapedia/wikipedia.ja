@@ -27,7 +27,7 @@
     「Reversion」「So Mad」「Move Me」 - スコット・ウィルク
     「抱きしめていて」「I Know 孤独のせい」「Paradise Lost」 - マーク・ゴールデンバーグ
     「Heartbreak」「Femme Fatale」 - [ジョン・リンド](https://ja.wikipedia.org/wiki/:en:Jon_Lind "wikilink")
-    「La Liberté」 - [ジョーイ・カーボーン](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink")
+    「La Liberté」 - [ジョーイ・カーボーン](../Page/ジョーイ・カーボーン.md "wikilink")
     「Jive」 - [三宅純](../Page/三宅純.md "wikilink")
 
 <!-- end list -->

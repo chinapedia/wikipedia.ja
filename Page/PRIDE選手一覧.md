@@ -40,7 +40,7 @@
   - [高山善廣](../Page/高山善廣.md "wikilink")（）
   - [ダン・スバーン](../Page/ダン・スバーン.md "wikilink")（）
   - [チェ・ムベ](../Page/チェ・ムベ.md "wikilink")（）
-  - [トスカ・ペトリディス](https://ja.wikipedia.org/wiki/トスカ・ペトリディス "wikilink")（）
+  - [トスカ・ペトリディス](../Page/トスカ・ペトリディス.md "wikilink")（）
   - [トム・エリクソン](../Page/トム・エリクソン.md "wikilink")（）
   - [トレイ・テリグマン](../Page/トレイ・テリグマン.md "wikilink")（）
   - [ドン・フライ](../Page/ドン・フライ.md "wikilink")（）
@@ -175,7 +175,7 @@
   - [日沖発](../Page/日沖発.md "wikilink")（）
   - [ブライアン・ローアンユー](../Page/ブライアン・ローアンユー.md "wikilink")（）
   - [マーカス・アウレリオ](../Page/マーカス・アウレリオ.md "wikilink")（）
-  - [マック・ダンジグ](https://ja.wikipedia.org/wiki/マック・ダンジグ "wikilink")（）
+  - [マック・ダンジグ](../Page/マック・ダンジグ.md "wikilink")（）
   - [前田吉朗](../Page/前田吉朗.md "wikilink")（）
   - [三島☆ド根性ノ助](../Page/三島☆ド根性ノ助.md "wikilink")（）
   - [光岡映二](../Page/光岡映二.md "wikilink")（）

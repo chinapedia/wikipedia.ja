@@ -18,7 +18,7 @@
   - コードのサイズが小さくなる。pコードは理想的な[仮想機械](../Page/仮想機械.md "wikilink")に基づいているため、多くの場合、生成されたpコードは実機の機械語コードよりも小さくなる。
   - デバッグしやすい。pコードは[インタプリタ](../Page/インタプリタ.md "wikilink")で実行されるため、インタプリタに各種実行時チェックを入れることで本来の機械語では困難なデバッグが可能となる。
 
-[Pascal](../Page/Pascal.md "wikilink")のいくつかの実装では、pコードの解釈実行に[ジャストインタイムコンパイル方式](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")を利用している。ニクラウス・ヴィルトは Pascal の後継である [Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink") 向けの m-code について言及している[1](http://www.swissdelphicenter.ch/en/niklauswirth.php) 。1980年代、イギリスでpコードのプログラムを実行するクロスプラットフォームの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") Business Operating System (BOS) が開発された。[UCSD p-System](https://ja.wikipedia.org/wiki/UCSD_p-System "wikilink") はpコードを使ったマシン非依存の移植性の高いオペレーティングシステムであった。
+[Pascal](../Page/Pascal.md "wikilink")のいくつかの実装では、pコードの解釈実行に[ジャストインタイムコンパイル方式](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")を利用している。ニクラウス・ヴィルトは Pascal の後継である [Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink") 向けの m-code について言及している[1](http://www.swissdelphicenter.ch/en/niklauswirth.php) 。1980年代、イギリスでpコードのプログラムを実行するクロスプラットフォームの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") Business Operating System (BOS) が開発された。[UCSD p-System](../Page/UCSD_p-System.md "wikilink") はpコードを使ったマシン非依存の移植性の高いオペレーティングシステムであった。
 
 ### 欠点
 
@@ -201,7 +201,7 @@ end {interpret};
 ## 関連項目
 
   - [バイトコード](../Page/バイトコード.md "wikilink")
-  - [Pascal](../Page/Pascal.md "wikilink") - [UCSD Pascal](../Page/UCSD_Pascal.md "wikilink") - [UCSD p-System](https://ja.wikipedia.org/wiki/UCSD_p-System "wikilink")
+  - [Pascal](../Page/Pascal.md "wikilink") - [UCSD Pascal](../Page/UCSD_Pascal.md "wikilink") - [UCSD p-System](../Page/UCSD_p-System.md "wikilink")
   - [コンパイラ](../Page/コンパイラ.md "wikilink")
   - [インタプリタ](../Page/インタプリタ.md "wikilink")
   - [スレッデッドコード](https://ja.wikipedia.org/wiki/スレッデッドコード "wikilink")

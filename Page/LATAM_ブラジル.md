@@ -198,7 +198,7 @@ LATAM ブラジル　運航機材一覧\[9\]
   - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_Paraná.svg "wikilink") [フォス・ド・イグアス](../Page/フォス・ド・イグアス.md "wikilink")
   - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_Paraná.svg "wikilink") [ロンドリナ](https://ja.wikipedia.org/wiki/ロンドリナ "wikilink")
   - **[フロリアノポリス](https://ja.wikipedia.org/wiki/フロリアノポリス "wikilink")**
-  - [ジョインヴィレ](https://ja.wikipedia.org/wiki/ジョインヴィレ "wikilink")
+  - [ジョインヴィレ](../Page/ジョインヴィレ.md "wikilink")
   - [20px](https://ja.wikipedia.org/wiki/ファイル:Bandeira_do_Rio_Grande_do_Sul.png "wikilink") **[ポルトアレグレ](https://ja.wikipedia.org/wiki/ポルトアレグレ "wikilink")**
   - [ナヴェガンティス](https://ja.wikipedia.org/wiki/ナヴェガンティス "wikilink")
 

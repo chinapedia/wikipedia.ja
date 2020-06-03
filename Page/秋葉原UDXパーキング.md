@@ -3,7 +3,7 @@
 
 **秋葉原UDXパーキング**（あきはばらユーディーエックスパーキング）とは、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")・[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")地区の[秋葉原クロスフィールド](../Page/秋葉原クロスフィールド.md "wikilink")内の[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")にある地下立体[駐車場](../Page/駐車場.md "wikilink")。[2006年](../Page/2006年.md "wikilink")1月31日に運営を開始した。
 
-現在は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く[駐車場綜合研究所](https://ja.wikipedia.org/wiki/駐車場綜合研究所 "wikilink")(PMO)が管理運営している。
+現在は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に本社を置く[駐車場綜合研究所](../Page/駐車場綜合研究所.md "wikilink")(PMO)が管理運営している。
 
 自走式と機械式（2多段ピット式）を組み合わせた駐車場となっている。 [東京都](../Page/東京都.md "wikilink")区内に少ない[バイク駐車場](../Page/オートバイ.md "wikilink")（駐輪場）もある。
 

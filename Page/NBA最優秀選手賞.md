@@ -301,19 +301,19 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:"| <a href="../Page/ティム・ダンカン.md" title="wikilink">ティム・ダンカン</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ティム・ダンカン.md" title="wikilink">ティム・ダンカン</a></p></td>
 <td><p>サンアントニオ・スパーズ</p></td>
 <td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|style="background-color:"| ティム・ダンカン</p></td>
+<td><p>|style="background-color:#FFFF99"| ティム・ダンカン</p></td>
 <td><p>サンアントニオ・スパーズ</p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:"| <a href="../Page/ケビン・ガーネット.md" title="wikilink">ケビン・ガーネット</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/ケビン・ガーネット.md" title="wikilink">ケビン・ガーネット</a></p></td>
 <td><p><a href="../Page/ミネソタ・ティンバーウルブズ.md" title="wikilink">ミネソタ・ティンバーウルブズ</a></p></td>
 <td><p>1</p></td>
 <td></td>
@@ -337,7 +337,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|style="background-color:"| <a href="../Page/コービー・ブライアント.md" title="wikilink">コービー・ブライアント</a></p></td>
+<td><p>|style="background-color:#FFFF99"| <a href="../Page/コービー・ブライアント.md" title="wikilink">コービー・ブライアント</a></p></td>
 <td><p>ロサンゼルス・レイカーズ</p></td>
 <td><p>1</p></td>
 <td></td>

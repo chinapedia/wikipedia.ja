@@ -33,6 +33,7 @@
 
   - [1970年](../Page/1970年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") - [サザン航空](https://ja.wikipedia.org/wiki/サザン航空 "wikilink") 932便：バージニア州西部、ハンチントン近郊の山へ衝突。乗員乗客75名全員が死亡した。 ([:en:Southern Airways Flight 932](https://ja.wikipedia.org/wiki/:en:Southern_Airways_Flight_932 "wikilink"))
   - [1972年](../Page/1972年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")～[12月23日](../Page/12月23日.md "wikilink") - [ウルグアイ空軍機571便遭難事故](../Page/ウルグアイ空軍機571便遭難事故.md "wikilink")
+  - [1972年](../Page/1972年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink") - [日本航空ニューデリー墜落事故](../Page/日本航空ニューデリー墜落事故.md "wikilink")：事故原因については日本政府とインド政府で見解が異なっており、日本政府はILSの電波に問題があったとしている。
   - [1972年](../Page/1972年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink") - [イースタン航空401便墜落事故](../Page/イースタン航空401便墜落事故.md "wikilink")
   - [1973年](../Page/1973年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") - [アエロメヒコ航空](../Page/アエロメヒコ航空.md "wikilink") 229便墜落事故 ([:en:Aeroméxico Flight 229](https://ja.wikipedia.org/wiki/:en:Aeroméxico_Flight_229 "wikilink"))
   - [1973年](../Page/1973年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - [デルタ航空](../Page/デルタ航空.md "wikilink") 723便 ([:en:Delta Air Lines Flight 723](https://ja.wikipedia.org/wiki/:en:Delta_Air_Lines_Flight_723 "wikilink"))
@@ -54,7 +55,7 @@
 
 ### 1990年代
 
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月14日](../Page/2月14日.md "wikilink") - [インディアン航空](https://ja.wikipedia.org/wiki/インディアン航空 "wikilink") 605便 ([:en:Indian Airlines Flight 605](https://ja.wikipedia.org/wiki/:en:Indian_Airlines_Flight_605 "wikilink"))
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月14日](../Page/2月14日.md "wikilink") - [インディアン航空](../Page/インディアン航空.md "wikilink") 605便 ([:en:Indian Airlines Flight 605](https://ja.wikipedia.org/wiki/:en:Indian_Airlines_Flight_605 "wikilink"))
   - [1992年](../Page/1992年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - [タイ国際航空311便墜落事故](https://ja.wikipedia.org/wiki/タイ国際航空311便墜落事故 "wikilink")
   - [1992年](../Page/1992年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - [パキスタン国際航空268便墜落事故](https://ja.wikipedia.org/wiki/パキスタン国際航空268便墜落事故 "wikilink")
   - [1993年](../Page/1993年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - [ノースウエスト・エアリンク5719便墜落事故](https://ja.wikipedia.org/wiki/ノースウエスト・エアリンク5719便墜落事故 "wikilink")

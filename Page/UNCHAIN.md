@@ -1120,7 +1120,7 @@ CRCP-40411:Type-B</p></td>
 
 ## 外部リンク
 
-  -   - [公式サイト](http://virusoul.net/unchain/)
+  - [公式サイト](http://virusoul.net/unchain/)
 
   - [所属事務所](http://www.sma.co.jp/)
 

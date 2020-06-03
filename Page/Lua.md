@@ -297,7 +297,7 @@ end
 ### ゲーム
 
   - [Blue Mars](https://ja.wikipedia.org/wiki/Blue_Mars "wikilink")
-  - [CRYSIS](https://ja.wikipedia.org/wiki/CRYSIS "wikilink")
+  - [CRYSIS](../Page/CRYSIS.md "wikilink")
   - [Far Cry](../Page/Far_Cry.md "wikilink")
   - [Factorio](https://ja.wikipedia.org/wiki/Factorio "wikilink")
   - [From the depths](https://ja.wikipedia.org/wiki/From_the_depths "wikilink")

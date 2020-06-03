@@ -15,11 +15,11 @@
 
 後番組は『**[サキヨミ](../Page/サキヨミLIVE.md "wikilink")**』\[4\]。
 
-滝川は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月に放送開始した『[Mr.サンデー](https://ja.wikipedia.org/wiki/Mr.サンデー "wikilink")』の初代アシスタント司会に起用され、一時的に同枠に復帰を果たした。
+滝川は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月に放送開始した『[Mr.サンデー](https://ja.wikipedia.org/wiki/Mr.サンデー "wikilink")』の初代アシスタントに起用され、一時的に同枠に復帰を果たした。
 
 ## 出演者
 
-### 司会・進行キャスター
+### 総合司会
 
   - [安藤優子](../Page/安藤優子.md "wikilink")
   - [滝川クリステル](https://ja.wikipedia.org/wiki/滝川クリステル "wikilink")

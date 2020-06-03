@@ -11,7 +11,7 @@
 
 ## 概要
 
-「[現代の](../Page/現代_\(時代区分\).md "wikilink")[医師](../Page/医師.md "wikilink")が、もし[幕末](../Page/幕末.md "wikilink")へ[タイムスリップしたらどうなるか](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")？」を描いた、SF要素の強い[医療漫画](../Page/医療漫画.md "wikilink")。西暦[2000年](../Page/2000年.md "wikilink")の現代から幕末の日本へタイムスリップした[脳外科医](../Page/脳神経外科学.md "wikilink")・南方仁が、過去の人間の運命を変えていることを自覚しつつも人々を救うため、現代から持ち込んだ知識と幕末の人々の協力により、[近代](../Page/近代.md "wikilink")医療を実現していく。その過程で仁は、日本の歴史自体にも大きな関わりを持つようになっていく。
+「[現代の](../Page/現代_\(時代区分\).md "wikilink")[医師](../Page/医師.md "wikilink")が、もし[幕末](../Page/幕末.md "wikilink")へ[タイムスリップしたらどうなるか](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")？」を描いた、[SF要素の強い](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[医療](../Page/医療漫画.md "wikilink")[時代劇](../Page/時代劇.md "wikilink")漫画。西暦[2000年](../Page/2000年.md "wikilink")の現代から幕末の日本へタイムスリップした[脳外科医](../Page/脳神経外科学.md "wikilink")・南方仁が、過去の人間の運命を変えていることを自覚しつつも人々を救うため、現代から持ち込んだ知識と幕末の人々の協力により、[近代](../Page/近代.md "wikilink")医療を実現していく。その過程で仁は、日本の歴史自体にも大きな関わりを持つようになっていく。
 
 ### 執筆のきっかけ
 
@@ -92,7 +92,7 @@
     [奥医師](https://ja.wikipedia.org/wiki/奥医師 "wikilink")（漢方医）。[胃潰瘍](https://ja.wikipedia.org/wiki/胃潰瘍 "wikilink")で倒れるが、仁の手術で一命を取り留める。のち、奥医師を辞して仁友堂の漢方内科医（当時は「本道」と呼ばれた）となる。多紀元琰に内情を伝えるスパイでもあるが仁の能力と人格を高く評価しており、後に多紀から仁を医学館側に取り込もうとする策を知らされて喜び、全面的な協力を誓う。
     元々奥医師であったこともあってプライドが高く、持ち上げられると調子に乗ってしまう面もある。
   - （たき げんえん）
-    奥医師（漢方医）。[医学館](https://ja.wikipedia.org/wiki/医学館 "wikilink")督事。仁の手術を目の当たりにしたことで、彼の持つ近代医療に驚愕し危険視する。しかし、仁の存在は漢方医だけでなく、むしろ当時の蘭方医にとってこそ脅威になると考え（実際にほぼ同時期に仁に対する妨害が始まっていた）、福田をスパイとして仁友堂に送った。
+    奥医師（漢方医）。[医学館](../Page/医学館.md "wikilink")督事。仁の手術を目の当たりにしたことで、彼の持つ近代医療に驚愕し危険視する。しかし、仁の存在は漢方医だけでなく、むしろ当時の蘭方医にとってこそ脅威になると考え（実際にほぼ同時期に仁に対する妨害が始まっていた）、福田をスパイとして仁友堂に送った。
     福田から得た情報により、仁の医学がはるか未来の発達したものであることを感じ取り、医学館が次の時代に適応・延命できるよう、仁とのさらなる接近を模索するようになる。そんな折、和宮毒殺未遂騒動が起こり、その容疑者となった仁の無実を証明することで、彼に対して貸しを作った。大の相撲好きとして知られ、仁を相撲見物に誘っている。
     鳥羽・伏見の合戦後、多くの傷病兵が出た際には、外科治療技術も進んで習得しようとするなど、器の大きさを示した。その後は医学館有志と共に仁友堂に合流、「東洋内科」の基礎を築いた。
   - （さぶり ゆうすけ）
@@ -160,8 +160,10 @@
 ### テレビドラマ版のみ登場
 
   - （ともなが みき）
-    テレビドラマ版における仁の婚約者。見た目は野風と瓜二つ。優秀な小児科医だったが、仁がタイムスリップの2年前に執刀した[脳腫瘍](../Page/脳腫瘍.md "wikilink")摘出手術で[植物状態になってしまい](https://ja.wikipedia.org/wiki/遷延性意識障害 "wikilink")、この出来事が仁のトラウマとなっている。仁にとっては江戸にタイムスリップしてからも非常に重要な存在であり、歴史を変える時には彼女への影響を常に気にしている。
-    原作でも現代に仁の恋人は存在するが、仁のタイムスリップ前にプロポーズを断っているため、物語にはほとんど関係していない。テレビドラマ内では医学生時代に天然ペニシリンを研究し、仁に研究成果を話している。なお原作では、コレラ治療の時に友永という医学所の医師が登場した。また、ペニシリン製造のきっかけとなる回想シーンでは、友光という医学生時代の友人男性が登場し、天然ペニシリン精製法の研究成果を仁に聞かせている。
+    テレビドラマ版における仁の婚約者。見た目は野風と瓜二つ。優秀な小児科医だったが、仁がタイムスリップの2年前に執刀した[脳腫瘍](../Page/脳腫瘍.md "wikilink")摘出手術で[植物状態になってしまい](https://ja.wikipedia.org/wiki/遷延性意識障害 "wikilink")、この出来事が仁のトラウマとなっている。テレビドラマ内では医学生時代に天然ペニシリンを研究し、仁に研究成果を話している。仁にとっては江戸にタイムスリップしてからも非常に重要な存在であり、歴史を変える時には彼女への影響を常に気にしている。仁が咲との関係に踏み込めない理由となっている。この人物がいることで、本作品が恋愛ドラマとしての要素を多く持つようになった。恋愛ドラマとして成立するためには不可欠の存在となっている。
+    なお原作でも、現代で仁の恋人は存在するが、仁のタイムスリップ前にプロポーズを断っているため、物語にはほとんど関係していない。
+
+（参考：原作では、コレラ治療の時に友永という医学所の医師が登場した。また、ペニシリン製造のきっかけとなる回想シーンでは、友光という医学生時代の友人男性が登場し、天然ペニシリン精製法の研究成果を仁に聞かせている。）
 
 ## 既刊
 
@@ -275,7 +277,9 @@
 
 2010年12月27日・28日に『**JIN-仁- レジェンド**』と題し、第一期全話がディレクターズカット版にて再放送された。
 
-2020年4月18日・19日・25日・26日・5月2日・3日に『**JIN-仁- レジェンド**』と題し、[TBS](../Page/TBSテレビ.md "wikilink")・[SBS](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[MRTで第一期](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・完結編を再編集した特別編が放送および放送予定\[20\]。他の系列局（[MBSなど](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[21\]）で、後日放送のケースもあり。
+2020年4月18日・19日・25日・26日・5月2日・3日に『**JIN-仁- レジェンド**』と題し、[TBS](../Page/TBSテレビ.md "wikilink")・[SBS](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[MRTで第一期](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・完結編を再編集した特別編が放送された\[20\]。他の系列局（[MBSなど](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[21\]）で、後日放送した局もあった。
+
+一方で、[RCCの様に](../Page/中国放送.md "wikilink")\[22\]\[23\]、同時期に『レジェンド』ではなく、第一期と完結編の本放送版の集中再放送を行った局もある。
 
 ### キャスト
 
@@ -312,7 +316,7 @@
   - **八木梅太郎 - [斉木テツ](https://ja.wikipedia.org/wiki/斉木テツ "wikilink")**
   - **横松貞吉 - [中江大樹](https://ja.wikipedia.org/wiki/中江大樹 "wikilink")**
   - **[澤村田之助](https://ja.wikipedia.org/wiki/#澤村田之助 "wikilink") - [吉沢悠](../Page/吉沢悠.md "wikilink")**
-  - **[新門辰五郎](https://ja.wikipedia.org/wiki/#新門辰五郎 "wikilink") - [中村敦夫](../Page/中村敦夫.md "wikilink")**\[22\]
+  - **[新門辰五郎](https://ja.wikipedia.org/wiki/#新門辰五郎 "wikilink") - [中村敦夫](../Page/中村敦夫.md "wikilink")**\[24\]
   - **[三隅俊斉](https://ja.wikipedia.org/wiki/#三隅俊斉 "wikilink") - [深水三章](../Page/深水三章.md "wikilink")**
 
 #### 「完結編」のみ登場の人物
@@ -346,11 +350,13 @@
 
 :\* 志士 - [池田政典](../Page/池田政典.md "wikilink")、[吉永秀平](https://ja.wikipedia.org/wiki/吉永秀平 "wikilink")
 
+:\* 長屋の住人 - [青木和代](../Page/青木和代.md "wikilink")
+
   -
 
   - 第四話「運命と悲劇の再会」
 
-:\* 野風（少女時代） - [柴田杏花](https://ja.wikipedia.org/wiki/柴田杏花 "wikilink")
+:\* 野風（少女時代） - [柴田杏花](../Page/柴田杏花.md "wikilink")
 
 :\* 彦三郎の医師 - [中根徹](../Page/中根徹.md "wikilink")
 
@@ -402,7 +408,7 @@
 
   - 第二話「未来との選択」、第三話「さらば愛しき人」
 
-:\*[皇女和宮](../Page/和宮親子内親王.md "wikilink") - [黒川智花](https://ja.wikipedia.org/wiki/黒川智花 "wikilink")
+:\*[皇女和宮](../Page/和宮親子内親王.md "wikilink") - [黒川智花](https://ja.wikipedia.org/wiki/黒川智花 "wikilink")（第二期完結編・第一話）
 
 :\* [上臈御年寄](https://ja.wikipedia.org/wiki/上臈御年寄 "wikilink") - [伊藤かずえ](../Page/伊藤かずえ.md "wikilink")
 
@@ -499,15 +505,15 @@
   - プロデュース - [石丸彰彦](../Page/石丸彰彦.md "wikilink")、[津留正明](https://ja.wikipedia.org/wiki/津留正明 "wikilink")（第一期）、中井芳彦（レジェンド、完結編）
   - 演出 - [平川雄一朗](../Page/平川雄一朗.md "wikilink")、[山室大輔](../Page/山室大輔.md "wikilink")、川嶋龍太郎（第一期）、那須田淳（レジェンド、完結編）
   - 主題歌
-      - [MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink") 「[逢いたくていま](https://ja.wikipedia.org/wiki/逢いたくていま "wikilink")」\[23\]（[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）（第一期）
-      - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") 「[いとしき日々よ](https://ja.wikipedia.org/wiki/いとしき日々よ "wikilink")」\[24\]（[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")）（完結編）
+      - [MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink") 「[逢いたくていま](https://ja.wikipedia.org/wiki/逢いたくていま "wikilink")」\[25\]（[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）（第一期）
+      - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") 「[いとしき日々よ](https://ja.wikipedia.org/wiki/いとしき日々よ "wikilink")」\[26\]（[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")）（完結編）
   - 音楽プロデュース - [志田博英](../Page/志田博英.md "wikilink")
   - 音響効果 - 谷口広紀
   - 医史監修 - [酒井シヅ](https://ja.wikipedia.org/wiki/酒井シヅ "wikilink")（[順天堂大学](https://ja.wikipedia.org/wiki/順天堂大学 "wikilink")医学部医史学 名誉教授）
   - 歴史監修 - 大庭邦彦（[聖徳大学](../Page/聖徳大学.md "wikilink")人文学部 日本文化学科教授）
   - 医療指導・監修 - 冨田泰彦（[杏林大学](../Page/杏林大学.md "wikilink")医学教育学教室講師）、前田達浩（前田病院副院長 脳神経外科部長 杏林大学脳神経外科講師）、池添祐大（宇都宮健康クリニック　副院長）
   - ペニシリン・輸血・監修 - 花木秀明 （[北里大学](../Page/北里大学.md "wikilink")抗感染症薬研究センター センター長）
-  - 時代考証 - 山田順子
+  - 時代考証 - [山田順子](https://ja.wikipedia.org/wiki/山田順子_\(時代考証家\) "wikilink")
   - 土佐弁監修 - [橋尾直和](https://ja.wikipedia.org/wiki/橋尾直和 "wikilink")（[高知女子大学](https://ja.wikipedia.org/wiki/高知女子大学 "wikilink")文化学部教授）
   - 方言指導 - 澤田誠志、今橋かつよ
   - 所作指導 - 藤間蘭黄（藤間流日本舞踊家）
@@ -522,14 +528,14 @@
 
 |- \!各話\!\!放送日\!\!サブタイトル\!\!演出\!\!視聴率 |- |第一話||2009年10月11日||時空を超えた愛と命の感動物語〜
 現代の脳外科医が激動の幕末へ…
-歴史の針が今、動き出す\!\!||rowspan="2"|平川雄一朗||16.5%\[25\] |- |第二話||10月18日||命を救う事の悲劇||16.4% |- |第三話||10月25日||未来との決別…||山室大輔||17.2% |- |第四話||11月1日||運命と悲劇の再会||川嶋龍太郎||17.2% |- |第五話||11月8日||神に背く薬の誕生||平川雄一朗||20.3% |- |第六話||11月15日||生きてこそ…||山室大輔||20.2% |- |第七話||11月22日||生きる遺言…||平川雄一朗||16.8% |- |第八話||11月29日||歴史の針が変わる||川嶋龍太郎||22.3% |- |第九話||12月6日||残酷な神の裁定||山室大輔|| |- |第十話||12月13日||坂本龍馬、暗殺…||rowspan="2"|平川雄一朗||20.4% |- |最終話||12月20日||タイムスリップの果て…時空を超えた物語が今\!\!||\[26\] |- \!colspan="5"|平均視聴率 19.0%\[27\]（視聴率は[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯） |}
+歴史の針が今、動き出す\!\!||rowspan="2"|平川雄一朗||16.5%\[27\] |- |第二話||style="text-align:right"|10月18日||命を救う事の悲劇||16.4% |- |第三話||style="text-align:right"|10月25日||未来との決別…||山室大輔||17.2% |- |第四話||style="text-align:right"|11月1日||運命と悲劇の再会||川嶋龍太郎||17.2% |- |第五話||style="text-align:right"|11月8日||神に背く薬の誕生||平川雄一朗||20.3% |- |第六話||style="text-align:right"|11月15日||生きてこそ…||山室大輔||20.2% |- |第七話||style="text-align:right"|11月22日||生きる遺言…||平川雄一朗||16.8% |- |第八話||style="text-align:right"|11月29日||歴史の針が変わる||川嶋龍太郎||22.3% |- |第九話||style="text-align:right"|12月6日||残酷な神の裁定||山室大輔|| |- |第十話||style="text-align:right"|12月13日||坂本龍馬、暗殺…||rowspan="2"|平川雄一朗||20.4% |- |最終話||style="text-align:right"|12月20日||タイムスリップの果て…時空を超えた物語が今\!\!||\[28\] |- \!colspan="5"|平均視聴率 19.0%\[29\]（視聴率は[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯） |}
 
   -
 
   - レジェンド（2010年版）
     {| class="wikitable" style="text-align:center"
 
-|- \!放送日\!\!サブタイトル \!放送内容\!\!演出\!\!視聴率 |- |2010年12月27日||仁の章 |第一 - 六話ディレクターズカット|| rowspan="2" |那須田淳||11.0% |- |2010年12月28日||人の章 |第七 - 最終話ディレクターズカット||11.5% |}
+|- \!放送日\!\!サブタイトル \!放送内容\!\!演出\!\!視聴率 |- |2010年12月27日||仁の章 |第一 - 六話ディレクターズカット|| rowspan="2" |那須田淳||11.0% |- |style="text-align:right"|12月28日||人の章 |第七 - 最終話ディレクターズカット||11.5% |}
 
   -
 
@@ -537,42 +543,47 @@
     {| class="wikitable" style="text-align:center"
 
 |- \!各話\!\!放送日\!\!サブタイトル\!\!演出\!\!視聴率 |- |第一話||2011年4月17日||時空を超えた愛と命の物語〜完結編始動\!\!
-歴史の針が今、再び動き出す…人は人でしか救えない||rowspan="3"|平川雄一朗||23.7%\[28\] |- |第二話||4月24日||未来との選択|| |- |第三話||5月1日||さらば愛しき人||20.4% |- |第四話||5月8日||江戸から消える||rowspan="2"|那須田淳||20.7% |- |第五話||5月15日||消えた体の謎||20.8% |- |第六話||5月22日||坂本龍馬の闇||山室大輔||18.8% |- |第七話||5月29日||永遠の愛と別れ||rowspan="2"|平川雄一朗||18.8% |- |第八話||6月5日||歴史に逆う命の誕生…||18.7% |- |第九話||6月12日||坂本龍馬、暗殺||rowspan="2"|山室大輔||19.2% |- |第十話||6月19日||最終章前編〜タイムスリップの結末…||21.1% |- |最終話||6月26日||完結〜時空の果て…
-150年の愛と命の物語が起こす奇跡のタイムスリップの結末||平川雄一朗||\[29\] |- \!colspan="5"|平均視聴率 21.3%\[30\]（視聴率は[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯） |}
+歴史の針が今、再び動き出す…人は人でしか救えない||rowspan="3"|平川雄一朗||23.7%\[30\] |- |第二話||style="text-align:right"|4月24日||未来との選択|| |- |第三話||style="text-align:right"|5月1日||さらば愛しき人||20.4% |- |第四話||style="text-align:right"|5月8日||江戸から消える||rowspan="2"|那須田淳||20.7% |- |第五話||style="text-align:right"|5月15日||消えた体の謎||20.8% |- |第六話||style="text-align:right"|5月22日||坂本龍馬の闇||山室大輔||18.8% |- |第七話||style="text-align:right"|5月29日||永遠の愛と別れ||rowspan="2"|平川雄一朗||18.8% |- |第八話||style="text-align:right"|6月5日||歴史に逆う命の誕生…||18.7% |- |第九話||style="text-align:right"|6月12日||坂本龍馬、暗殺||rowspan="2"|山室大輔||19.2% |- |第十話||style="text-align:right"|6月19日||最終章前編〜タイムスリップの結末…||21.1% |- |最終話||style="text-align:right"|6月26日||完結〜時空の果て…
+150年の愛と命の物語が起こす奇跡のタイムスリップの結末||平川雄一朗||\[31\] |- \!colspan="5"|平均視聴率 21.3%\[32\]（視聴率は[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・世帯） |}
+
+  - レジェンド（2020年版）
+    {| class="wikitable" style="text-align:center"
+
+|- \!各話\!\!放送日\!\!放送内容\!\!視聴率 |- |第1回||2020年4月18日||第一期第一話 - 第三話ディレクターズカット\[33\]||11.6% |- |第2回||style="text-align:right"|4月19日||第一期第四話 - 第八話ディレクターズカット\[34\]||11.1% |- |第3回||style="text-align:right"|4月25日||第一期第九話 - 最終話ディレクターズカット\[35\]||10.0% |- |第4回||style="text-align:right"|4月26日||完結編第一話 - 第三話ディレクターズカット\[36\]||11.9% |- |第5回||style="text-align:right"|5月2日||完結編第四話 - 第八話ディレクターズカット\[37\]||10.6% |- |第6回||style="text-align:right"|5月3日||完結編第九話 - 最終話ディレクターズカット\[38\]||11.3% |}
 
 ### 備考
 
-  - 当初、新門辰五郎役は[藤田まこと](../Page/藤田まこと.md "wikilink")が予定されていたが、病気療養（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")に死去）のため降板し\[31\]、[中村敦夫](../Page/中村敦夫.md "wikilink")に交代した。
-  - 現代の医療器具に近い物がこの時代の技術で製作できるかどうかスタッフが時代考証の山田順子に相談した結果、「注射針は腕のいい職人であれば製作可能、チューブなどは太いものであれば作れないことはない」とのアドバイスを受け劇中に登場させた。
+  - 当初、新門辰五郎役は[藤田まこと](../Page/藤田まこと.md "wikilink")が予定されていたが、病気療養（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")に死去）のため降板し\[39\]、[中村敦夫](../Page/中村敦夫.md "wikilink")に交代した。
+  - 現代の医療器具に近い物がこの時代の技術で製作できるかどうかスタッフが時代考証の[山田順子に相談した結果](https://ja.wikipedia.org/wiki/山田順子_\(時代考証家\) "wikilink")、「注射針は腕のいい職人であれば製作可能、チューブなどは太いものであれば作れないことはない」とのアドバイスを受け劇中に登場させた。
   - 第一期で、[東芝](../Page/東芝.md "wikilink")が7年ぶりに（「日曜劇場」に改名後初めて）スポンサーに復帰した。なお、完結編には東芝創業者の田中久重が登場しているが、これは前記の通り原作にも登場する描写である。
-  - 完結編とのコラボレーションフェアとして[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")で劇中に登場した食べ物をモチーフとした食品が発売され、700円購入者へのプレゼント企画などのキャンペーンが展開された\[32\]。中でもその商品の一つである[安道名津は](https://ja.wikipedia.org/wiki/あんドーナツ "wikilink")2011年[5月24日](../Page/5月24日.md "wikilink")の発売から3日間で60万個を売り上げた\[33\]。
-  - 2014年3月15日から6月15日まで[国立科学博物館](../Page/国立科学博物館.md "wikilink")で特別展「医は仁術」（国立科学博物館・TBS・朝日新聞主催）が開催され、南方仁役の大沢たかおがスペシャルナビゲーターと音声ガイドを務めることとなった\[34\]。
+  - 完結編とのコラボレーションフェアとして[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")で劇中に登場した食べ物をモチーフとした食品が発売され、700円購入者へのプレゼント企画などのキャンペーンが展開された\[40\]。中でもその商品の一つである[安道名津は](https://ja.wikipedia.org/wiki/あんドーナツ "wikilink")2011年[5月24日](../Page/5月24日.md "wikilink")の発売から3日間で60万個を売り上げた\[41\]。
+  - 2014年3月15日から6月15日まで[国立科学博物館](../Page/国立科学博物館.md "wikilink")で特別展「医は仁術」（国立科学博物館・TBS・朝日新聞主催）が開催され、南方仁役の大沢たかおがスペシャルナビゲーターと音声ガイドを務めることとなった\[42\]。
 
 ### 受賞
 
   - 第一期
 
-:\* [日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟賞 "wikilink") テレビドラマ部門最優秀賞\[35\]
+:\* [日本民間放送連盟賞](https://ja.wikipedia.org/wiki/日本民間放送連盟賞 "wikilink") テレビドラマ部門最優秀賞\[43\]
 
-:\* [東京ドラマアウォード](https://ja.wikipedia.org/wiki/東京ドラマアウォード "wikilink")2010 作品賞グランプリ、アジア賞、主演男優賞、プロデュース賞\[36\]
+:\* [東京ドラマアウォード](https://ja.wikipedia.org/wiki/東京ドラマアウォード "wikilink")2010 作品賞グランプリ、アジア賞、主演男優賞、プロデュース賞\[44\]
 
-:\* [ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink") 2009年12月度月間賞\[37\]
+:\* [ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink") 2009年12月度月間賞\[45\]
 
-:\* 第47回ギャラクシー賞 優秀賞\[38\]
+:\* 第47回ギャラクシー賞 優秀賞\[46\]
 
-:\* 第47回ギャラクシー賞 マイベストTV賞グランプリ\[39\]
+:\* 第47回ギャラクシー賞 マイベストTV賞グランプリ\[47\]
 
 :\* 第18回[橋田賞](https://ja.wikipedia.org/wiki/橋田賞 "wikilink")（JIN-仁-、大沢たかお）
 
 :\* 第18回橋田賞新人賞（綾瀬はるか）
 
-:\* 放送人グランプリ2010 特別賞\[40\]
+:\* 放送人グランプリ2010 特別賞\[48\]
 
-:\* 第36回[放送文化基金賞](https://ja.wikipedia.org/wiki/放送文化基金賞 "wikilink") テレビ番組賞\[41\]
+:\* 第36回[放送文化基金賞](https://ja.wikipedia.org/wiki/放送文化基金賞 "wikilink") テレビ番組賞\[49\]
 
-:\* [ザテレビジョン 第63回ドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink") 最優秀作品賞、主演男優賞、助演男優賞、助演女優賞、監督賞、脚本賞、ドラマソング賞\[42\]\[43\]
+:\* [ザテレビジョン 第63回ドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink") 最優秀作品賞、主演男優賞、助演男優賞、助演女優賞、監督賞、脚本賞、ドラマソング賞\[50\]\[51\]
 
-:\* [TVnavi ドラマ・オブ・ザ・イヤー2009](https://ja.wikipedia.org/wiki/TVnavi#ドラマ大賞 "wikilink") 大賞、最優秀作品賞、主演男優賞、助演男優賞、助演女優賞\[44\]
+:\* [TVnavi ドラマ・オブ・ザ・イヤー2009](https://ja.wikipedia.org/wiki/TVnavi#ドラマ大賞 "wikilink") 大賞、最優秀作品賞、主演男優賞、助演男優賞、助演女優賞\[52\]
 
 :\* 第13回日刊スポーツ・ドラマグランプリ 助演男優賞
 
@@ -609,84 +620,62 @@
 
 ## 2012年の韓国テレビドラマ（Dr. JIN）
 
-**Dr. JIN**（ドクタージン、[朝鮮語](../Page/朝鮮語.md "wikilink"): ダクトジン、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"): ）のタイトルで2012年に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化（全22話）。当初は原作漫画の韓国国内でのタイトル『タイムスリップ ドクタージン』（[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"): ）を用いてのひとつ[チャンネルA](https://ja.wikipedia.org/wiki/チャンネルA "wikilink")で放送が予定されていたが、その後地上波局[MBCで放送されることとなり](../Page/文化放送_\(韓国\).md "wikilink")\[45\]、の枠で放送された。舞台は幕末の江戸から[李氏朝鮮](../Page/李氏朝鮮.md "wikilink")末期の[哲宗治世下へと改められ](../Page/哲宗_\(朝鮮王\).md "wikilink")、主人公も南方仁からジン・ヒョクに改められた。当初全20話の予定であったが、同年7月に2話延長されて全22話となっている\[46\]。
+**Dr. JIN**（ドクタージン、[朝鮮語](../Page/朝鮮語.md "wikilink"): ダクトジン、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"): ）のタイトルで2012年に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")化（全22話）。当初は原作漫画の韓国国内でのタイトル『タイムスリップ ドクタージン』（[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"): ）を用いてのひとつ[チャンネルA](https://ja.wikipedia.org/wiki/チャンネルA "wikilink")で放送が予定されていたが、その後地上波局[MBCで放送されることとなり](../Page/文化放送_\(韓国\).md "wikilink")\[53\]、の枠で放送された。舞台は幕末の江戸から[李氏朝鮮](../Page/李氏朝鮮.md "wikilink")末期の[哲宗治世下へと改められ](../Page/哲宗_\(朝鮮王\).md "wikilink")、主人公も南方仁からジン・ヒョクに改められた。当初全20話の予定であったが、同年7月に2話延長されて全22話となっている\[54\]。
 
-同じく医師の過去へのタイムリープを取り扱った[SBSの](../Page/SBS_\(韓国\).md "wikilink")『[シンイ-信義-](https://ja.wikipedia.org/wiki/シンイ-信義- "wikilink")』との類似性が取りざたされ、制作会社のイギムプロダクションとクロスピクチャーズがSBSと『シンイ』の脚本家に対して盗作の可能性を指摘した\[47\]（SBSはこれに対して両者の企画案および脚本の冒頭数話分を外部委託した法務法人に検証させ「著作権上問題がない」という回答を得て反論に替えている）\[48\]。また脚本家のひとりハン・ジフンに対して、専属契約を締結している企業より「契約に反するため脚本の執筆はできない」という指摘がなされたりもした\[49\]。
+同じく医師の過去へのタイムリープを取り扱った[SBSの](../Page/SBS_\(韓国\).md "wikilink")『[シンイ-信義-](https://ja.wikipedia.org/wiki/シンイ-信義- "wikilink")』との類似性が取りざたされ、制作会社のイギムプロダクションとクロスピクチャーズがSBSと『シンイ』の脚本家に対して盗作の可能性を指摘した\[55\]（SBSはこれに対して両者の企画案および脚本の冒頭数話分を外部委託した法務法人に検証させ「著作権上問題がない」という回答を得て反論に替えている）\[56\]。また脚本家のひとりハン・ジフンに対して、専属契約を締結している企業より「契約に反するため脚本の執筆はできない」という指摘がなされたりもした\[57\]。
 
-同作品の放送期間は[ロンドンオリンピックの放送期間と一部重複し](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")、特に終盤に入ってからは五輪競技の中継のための放送中止が相次いだ。第21話ではMBCが公式サイトにて放送予定の案内を行った数時間後に[フェンシングの女子フルーレ団体準決勝に放送が差し替えられるという事態も起こっている](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのフェンシング競技 "wikilink")\[50\]。平均視聴率は12パーセント台でありながら、最終話では8.8パーセントを記録した\[51\]。
+同作品の放送期間は[ロンドンオリンピックの放送期間と一部重複し](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")、特に終盤に入ってからは五輪競技の中継のための放送中止が相次いだ。第21話ではMBCが公式サイトにて放送予定の案内を行った数時間後に[フェンシングの女子フルーレ団体準決勝に放送が差し替えられるという事態も起こっている](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピックのフェンシング競技 "wikilink")\[58\]。平均視聴率は12パーセント台でありながら、最終話では8.8パーセントを記録した\[59\]。
 
 ### あらすじ
 
 ### キャスト
 
-個別に注釈がないものについては\[52\]\[53\]にもとづく:
+個別に注釈がないものについては\[60\]\[61\]にもとづく:
 
-  - 主要人物
+### 主要人物
 
-<!-- end list -->
+  - **ジン・ヒョク: [ソン・スンホン](../Page/ソン・スンホン.md "wikilink") - 原作の南方仁に相当。**
+  - **[イ・ハウン](https://ja.wikipedia.org/wiki/興宣大院君 "wikilink"): [イ・ボムス](https://ja.wikipedia.org/wiki/イ・ボムス "wikilink") - 原作の[坂本龍馬](../Page/坂本龍馬.md "wikilink")に相当。**
+  - **ホン・ヨンレ: [パク・ミニョン](https://ja.wikipedia.org/wiki/パク・ミニョン "wikilink") - 原作の橘咲に相当。**
+  - **ユ・ミナ: パク・ミニョン - ヒョクの恋人。テレビドラマ版の友永未来に相当。**
+  - **チュノン: [イ・ソヨン](https://ja.wikipedia.org/wiki/イ・ソヨン_\(俳優\) "wikilink") - 原作の野風に相当。**
+  - **キム・ギョンタク: [キム・ジェジュン](../Page/ジェジュン.md "wikilink")（少年時代: [ソ・ドンヒョン](https://ja.wikipedia.org/wiki/ソ・ドンヒョン_\(俳優\) "wikilink")） - ヨンレの許婚で捕盗庁従事官。キム・ビョンヒの庶子。**
 
-  - ジン・ヒョク: [ソン・スンホン](../Page/ソン・スンホン.md "wikilink") - 原作の南方仁に相当。
-  - [イ・ハウン](https://ja.wikipedia.org/wiki/興宣大院君 "wikilink"): [イ・ボムス](https://ja.wikipedia.org/wiki/イ・ボムス "wikilink") - 原作の[坂本龍馬](../Page/坂本龍馬.md "wikilink")に相当。
-  - ホン・ヨンレ: [パク・ミニョン](https://ja.wikipedia.org/wiki/パク・ミニョン "wikilink") - 原作の橘咲に相当。
-  - ユ・ミナ: パク・ミニョン - ヒョクの恋人。テレビドラマ版の友永未来に相当。
-  - チュノン: [イ・ソヨン](https://ja.wikipedia.org/wiki/イ・ソヨン_\(俳優\) "wikilink") - 原作の野風に相当。
-  - キム・ギョンタク: [キム・ジェジュン](../Page/ジェジュン.md "wikilink")（少年時代: [ソ・ドンヒョン](https://ja.wikipedia.org/wiki/ソ・ドンヒョン_\(俳優\) "wikilink")） - ヨンレの許婚で捕盗庁従事官。キム・ビョンヒの庶子。
+### ホン家
 
-<!-- end list -->
+  - **ホン・ヨンフィ: [チン・イハン](https://ja.wikipedia.org/wiki/キム・ジハン "wikilink") - 原作の橘恭太郎に相当。ギョンタクの友人。**
+  - **ヨンレの母: [キム・ヘオク](https://ja.wikipedia.org/wiki/キム・ヘオク "wikilink") - 原作の橘栄に相当。**
 
-  - ホン家
+### 安東金氏一派
 
-<!-- end list -->
+  - **キム・ビョンヒ: [キム・ウンス](https://ja.wikipedia.org/wiki/キム・ウンス_\(俳優\) "wikilink") - [安東金氏](https://ja.wikipedia.org/wiki/安東金氏 "wikilink")出身で[左議政](../Page/議政府.md "wikilink")。**
+  - **ユ・ホンピル: [キム・イル](https://ja.wikipedia.org/wiki/キム・イル_\(1963年生の俳優\) "wikilink") - 原作の[多紀元琰に相当](../Page/多紀安琢.md "wikilink")。**
+  - **キム・デギュン: [キム・ミョンス](https://ja.wikipedia.org/wiki/キム・ミョンス "wikilink") - キム・ビョンヒの長男でギョンタクの異母兄。**
+  - **キム・ビョンオク: [キム・ビョンチュン](https://ja.wikipedia.org/wiki/キム・ビョンチュン "wikilink") - 安東金氏出身。キム・ビョンヒの右腕。**
 
-  - ホン・ヨンフィ: [チン・イハン](https://ja.wikipedia.org/wiki/キム・ジハン "wikilink") - 原作の橘恭太郎に相当。ギョンタクの友人。
-  - ヨンレの母: [キム・ヘオク](https://ja.wikipedia.org/wiki/キム・ヘオク "wikilink") - 原作の橘栄に相当。
+### 王室
 
-<!-- end list -->
+  - **[哲宗](../Page/哲宗_\(朝鮮王\).md "wikilink")**: [キム・ビョンセ](https://ja.wikipedia.org/wiki/キム・ビョンセ "wikilink") - [李氏朝鮮](../Page/李氏朝鮮.md "wikilink")第25代国王\[62\]。
+  - **[チョ大妃](https://ja.wikipedia.org/wiki/神貞王后 "wikilink")**: [チョン・ヘソン](https://ja.wikipedia.org/wiki/チョン・ヘソン "wikilink") - 第24代国王[憲宗の実母](../Page/憲宗_\(朝鮮王\).md "wikilink")。後ミョンボクの養母。
+  - **チョ氏夫人**: [チャン・ヨンナム](https://ja.wikipedia.org/wiki/チャン・ヨンナム "wikilink") - チョ大妃の姪。原作の恵姫に相当。
+  - **イ・ギョリ**: [キム・ミョングク](https://ja.wikipedia.org/wiki/キム・ミョングク_\(俳優\) "wikilink") - チョ氏夫人の夫。ハウンの子ミョンボクを王位につけるために奔走する。
+  - **[イ・ミョンボク/高宗](https://ja.wikipedia.org/wiki/高宗_\(朝鮮王\) "wikilink")**: [イ・ヒョンソク](https://ja.wikipedia.org/wiki/イ・ヒョンソク_\(俳優\) "wikilink") - ハウンの息子。李氏朝鮮第26代国王となる\[63\]。
 
-  - 安東金氏一派
+### 市井の民
 
-<!-- end list -->
+  - **ホ・グァン**: [チョン・ウンピョ](https://ja.wikipedia.org/wiki/チョン・ウンピョ "wikilink") - の医官。ヒョクの医術の腕に尊敬の念を抱く。
+  - **チュパリ**: [イ・ウォンジョン](https://ja.wikipedia.org/wiki/イ・ウォンジョン_\(1966年生の俳優\) "wikilink") - 市場通りの荒くれ者の頭目。後にハウンの右腕となる。
+  - **ケボギ**: [キム・グァンシク](https://ja.wikipedia.org/wiki/キム・グァンシク_\(俳優\) "wikilink") - チュパリの手下。
+  - **ドゥクチル**: [チョ・ウジン](https://ja.wikipedia.org/wiki/チョ・ウジン_\(俳優\) "wikilink") - チュパリの手下\[64\]。
+  - **ヨンシム**: [ノ・ウル](https://ja.wikipedia.org/wiki/ノ・ウル "wikilink") - チュノンと同じ妓楼に所属する妓生。
+  - **ケヒャン**: [ユン・ジュヒ](https://ja.wikipedia.org/wiki/ユン・ジュヒ "wikilink") - 原作の夕霧に相当。
+  - **呉服屋の主人**: [チョ・ミリョン](https://ja.wikipedia.org/wiki/チョ・ミリョン_\(1973年生の女優\) "wikilink")\[65\]
+  - **シギ**: [オム・ジソン](https://ja.wikipedia.org/wiki/オム・ジソン "wikilink") - 原作の喜市に相当\[66\]\[67\]。
+  - **シギの母**: [パン・ウニ](https://ja.wikipedia.org/wiki/パン・ウニ "wikilink") - 原作の妙（喜市の母）に相当\[68\]。
 
-  - キム・ビョンヒ: [キム・ウンス](https://ja.wikipedia.org/wiki/キム・ウンス_\(俳優\) "wikilink") - [安東金氏](https://ja.wikipedia.org/wiki/安東金氏 "wikilink")出身で[左議政](../Page/議政府.md "wikilink")。
-  - ユ・ホンピル: [キム・イル](https://ja.wikipedia.org/wiki/キム・イル_\(1963年生の俳優\) "wikilink") - 原作の[多紀元琰に相当](../Page/多紀安琢.md "wikilink")。
-  - キム・デギュン: [キム・ミョンス](https://ja.wikipedia.org/wiki/キム・ミョンス "wikilink") - キム・ビョンヒの長男でギョンタクの異母兄。
-  - キム・ビョンオク: [キム・ビョンチュン](https://ja.wikipedia.org/wiki/キム・ビョンチュン "wikilink") - 安東金氏出身。キム・ビョンヒの右腕。
+### その他
 
-<!-- end list -->
-
-  - 王室
-
-<!-- end list -->
-
-  - [哲宗](../Page/哲宗_\(朝鮮王\).md "wikilink"): [キム・ビョンセ](https://ja.wikipedia.org/wiki/キム・ビョンセ "wikilink") - [李氏朝鮮](../Page/李氏朝鮮.md "wikilink")第25代国王\[54\]。
-  - [チョ大妃](https://ja.wikipedia.org/wiki/神貞王后 "wikilink"): [チョン・ヘソン](https://ja.wikipedia.org/wiki/チョン・ヘソン "wikilink") - 第24代国王[憲宗の実母](../Page/憲宗_\(朝鮮王\).md "wikilink")。後ミョンボクの養母。
-  - チョ氏夫人: [チャン・ヨンナム](https://ja.wikipedia.org/wiki/チャン・ヨンナム "wikilink") - チョ大妃の姪。原作の恵姫に相当。
-  - イ・ギョリ: [キム・ミョングク](https://ja.wikipedia.org/wiki/キム・ミョングク_\(俳優\) "wikilink") - チョ氏夫人の夫。ハウンの子ミョンボクを王位につけるために奔走する。
-  - [イ・ミョンボク/高宗](https://ja.wikipedia.org/wiki/高宗_\(朝鮮王\) "wikilink"): [イ・ヒョンソク](https://ja.wikipedia.org/wiki/イ・ヒョンソク_\(俳優\) "wikilink") - ハウンの息子。李氏朝鮮第26代国王となる\[55\]。
-
-<!-- end list -->
-
-  - 市井の民
-
-<!-- end list -->
-
-  - ホ・グァン: [チョン・ウンピョ](https://ja.wikipedia.org/wiki/チョン・ウンピョ "wikilink") - の医官。ヒョクの医術の腕に尊敬の念を抱く。
-  - チュパリ: [イ・ウォンジョン](https://ja.wikipedia.org/wiki/イ・ウォンジョン_\(1966年生の俳優\) "wikilink") - 市場通りの荒くれ者の頭目。後にハウンの右腕となる。
-  - ケボギ: [キム・グァンシク](https://ja.wikipedia.org/wiki/キム・グァンシク_\(俳優\) "wikilink") - チュパリの手下。
-  - ドゥクチル: [チョ・ウジン](https://ja.wikipedia.org/wiki/チョ・ウジン_\(俳優\) "wikilink") - チュパリの手下\[56\]。
-  - ヨンシム: [ノ・ウル](https://ja.wikipedia.org/wiki/ノ・ウル "wikilink") - チュノンと同じ妓楼に所属する妓生。
-  - ケヒャン: [ユン・ジュヒ](https://ja.wikipedia.org/wiki/ユン・ジュヒ "wikilink") - 原作の夕霧に相当。
-  - 呉服屋の主人: [チョ・ミリョン](https://ja.wikipedia.org/wiki/チョ・ミリョン_\(1973年生の女優\) "wikilink")\[57\]
-  - シギ: [オム・ジソン](https://ja.wikipedia.org/wiki/オム・ジソン "wikilink") - 原作の喜市に相当\[58\]\[59\]。
-  - シギの母: [パン・ウニ](https://ja.wikipedia.org/wiki/パン・ウニ "wikilink") - 原作の妙（喜市の母）に相当\[60\]。
-
-<!-- end list -->
-
-  - その他
-
-<!-- end list -->
-
-  - カン先生: [ハ・スホ](https://ja.wikipedia.org/wiki/ハ・スホ "wikilink") - ヒョクの病院での同僚\[61\]。
+  - **カン先生**: [ハ・スホ](https://ja.wikipedia.org/wiki/ハ・スホ "wikilink") - ヒョクの病院での同僚\[69\]。
 
 ### 韓国国外での放送
 
@@ -700,12 +689,12 @@
 
 <!-- end list -->
 
-  - \- 2012年10月より[スカパー系チャンネル](https://ja.wikipedia.org/wiki/スカパー! "wikilink")[DATV](https://ja.wikipedia.org/wiki/DATV "wikilink")にて放送予定であったが、原作者の村上および[集英社](../Page/集英社.md "wikilink")が韓国側の製作会社との契約を解除し「著作権の適切な処理がされていない作品」となったため放送中止となった\[62\]\[63\]。その後プロットの一部や設定を変更し、それに合わせて作品を編集しシーンをカットしたりして{{\#tag:ref|例えば[パク・ミニョン](https://ja.wikipedia.org/wiki/パク・ミニョン "wikilink")が演じるヒョクの恋人ユ・ミナは、ヒョクの妹**ジン・ミナ**となった\[64\]。|group="注"}}日本オリジナルの「完全版」が制作された。日本にて放送され、DVDやBlu-rayが発売されているのはこの完全版の方である。
+  - \- 2012年10月より[スカパー系チャンネル](https://ja.wikipedia.org/wiki/スカパー! "wikilink")[DATV](https://ja.wikipedia.org/wiki/DATV "wikilink")にて放送予定であったが、原作者の村上および[集英社](../Page/集英社.md "wikilink")が韓国側の製作会社との契約を解除し「著作権の適切な処理がされていない作品」となったため放送中止となった\[70\]\[71\]。その後プロットの一部や設定を変更し、それに合わせて作品を編集しシーンをカットしたりして{{\#tag:ref|例えば[パク・ミニョン](https://ja.wikipedia.org/wiki/パク・ミニョン "wikilink")が演じるヒョクの恋人ユ・ミナは、ヒョクの妹**ジン・ミナ**となった\[72\]。|group="注"}}日本オリジナルの「完全版」が制作された。日本にて放送され、DVDやBlu-rayが発売されているのはこの完全版の方である。
 
 <!-- end list -->
 
   -
-    2014年2月にDVDおよびBlu-rayが発売された\[65\]後、同月26日より民放局[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")が関東地方の[広域ローカル放送枠](https://ja.wikipedia.org/wiki/ローカル放送 "wikilink")（[韓流プレミア](https://ja.wikipedia.org/wiki/韓流プレミア "wikilink")）で放送\[66\]。7月23日はテレビ東京系の[BS局](../Page/衛星放送.md "wikilink")[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")にて初放送された\[67\]。日本語吹替を担当した声優は以下の通り:
+    2014年2月にDVDおよびBlu-rayが発売された\[73\]後、同月26日より民放局[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")が関東地方の[広域ローカル放送枠](https://ja.wikipedia.org/wiki/ローカル放送 "wikilink")（[韓流プレミア](https://ja.wikipedia.org/wiki/韓流プレミア "wikilink")）で放送\[74\]。7月23日はテレビ東京系の[BS局](../Page/衛星放送.md "wikilink")[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")にて初放送された\[75\]。日本語吹替を担当した声優は以下の通り:
 
 :\* ジン・ヒョク: [内田夕夜](../Page/内田夕夜.md "wikilink")
 
@@ -717,7 +706,7 @@
 
 :\* キム・ギョンタク: [江口拓也](https://ja.wikipedia.org/wiki/江口拓也 "wikilink")
 
-:\* ホン・ヨンフィ: [小野賢章](../Page/小野賢章.md "wikilink")\[68\]
+:\* ホン・ヨンフィ: [小野賢章](../Page/小野賢章.md "wikilink")\[76\]
 
 ## 舞台
 
@@ -727,7 +716,7 @@
 
 :\* 10月 - 12月、[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")と[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で上演。併演は、ショー・ファンタジー『GOLD SPARK\! - この一瞬を永遠に -』。
 
-:\* [音月桂](../Page/音月桂.md "wikilink")と[舞羽美海](https://ja.wikipedia.org/wiki/舞羽美海 "wikilink")のトップコンビ退団公演であった\[69\]。
+:\* [音月桂](../Page/音月桂.md "wikilink")と[舞羽美海](https://ja.wikipedia.org/wiki/舞羽美海 "wikilink")のトップコンビ退団公演であった\[77\]。
 
   -
 
@@ -738,16 +727,16 @@
 | 役名          | 2012年[雪組](../Page/雪組_\(宝塚歌劇\).md "wikilink")            | 2013年[月組](../Page/月組_\(宝塚歌劇\).md "wikilink")            |
 | ----------- | ------------------------------------------------------- | ------------------------------------------------------- |
 | 南方仁         | [音月桂](../Page/音月桂.md "wikilink")                        | [龍真咲](../Page/龍真咲.md "wikilink")                        |
-| 橘咲／結命\[70\] | [舞羽美海](https://ja.wikipedia.org/wiki/舞羽美海 "wikilink")   | [愛希れいか](https://ja.wikipedia.org/wiki/愛希れいか "wikilink") |
+| 橘咲／結命\[78\] | [舞羽美海](https://ja.wikipedia.org/wiki/舞羽美海 "wikilink")   | [愛希れいか](https://ja.wikipedia.org/wiki/愛希れいか "wikilink") |
 | 坂本龍馬        | [早霧せいな](../Page/早霧せいな.md "wikilink")                    | [沙央くらま](../Page/沙央くらま.md "wikilink")                    |
 | 勝麟太郎〔海舟〕    | [北翔海莉](../Page/北翔海莉.md "wikilink")                      | [光月るう](https://ja.wikipedia.org/wiki/光月るう "wikilink")   |
 | 橘恭太郎        | [未涼亜希](../Page/未涼亜希.md "wikilink")                      | [美弥るりか](https://ja.wikipedia.org/wiki/美弥るりか "wikilink") |
 | 佐分利祐輔       | 沙央くらま                                                   | [宇月颯](https://ja.wikipedia.org/wiki/宇月颯 "wikilink")     |
 | 野風          | [愛加あゆ](../Page/愛加あゆ.md "wikilink")                      | [花陽みら](https://ja.wikipedia.org/wiki/花陽みく "wikilink")   |
 | 橘栄          | [梨花ますみ](https://ja.wikipedia.org/wiki/梨花ますみ "wikilink") | [憧花ゆりの](../Page/憧花ゆりの.md "wikilink")                    |
-| 緒方洪庵        | [飛鳥裕](../Page/飛鳥裕.md "wikilink")\[71\]                  |                                                         |
+| 緒方洪庵        | [飛鳥裕](../Page/飛鳥裕.md "wikilink")\[79\]                  |                                                         |
 | 山田純庵        | [彩凪翔](https://ja.wikipedia.org/wiki/彩凪翔 "wikilink")     | [千海華蘭](https://ja.wikipedia.org/wiki/千海華蘭 "wikilink")   |
-| 新門辰五郎       | [夏美よう](../Page/夏美よう.md "wikilink")\[72\]                |                                                         |
+| 新門辰五郎       | [夏美よう](../Page/夏美よう.md "wikilink")\[80\]                |                                                         |
 | 千吉          | [夢乃聖夏](../Page/夢乃聖夏.md "wikilink")                      | [珠城りょう](https://ja.wikipedia.org/wiki/珠城りょう "wikilink") |
 | ジャン・ルロン     | [鳳翔大](https://ja.wikipedia.org/wiki/鳳翔大 "wikilink")     | [瑞羽奏都](https://ja.wikipedia.org/wiki/瑞羽奏都 "wikilink")   |
 | 中岡慎太郎       | [蓮城まこと](../Page/蓮城まこと.md "wikilink")                    | [美翔かずき](https://ja.wikipedia.org/wiki/美翔かずき "wikilink") |
@@ -764,7 +753,7 @@
 
   - 蠢太郎 - ビッグコミックで連載された村上もとかの次作。明治期の歌舞伎界を扱っており、澤村田之助やその執刀医（明治期の仁友堂も登場）など、本作の人物も登場する。
   - [火の鳥 (漫画)](../Page/火の鳥_\(漫画\).md "wikilink") - [手塚治虫](../Page/手塚治虫.md "wikilink")のシリーズ漫画。その「黎明編」で、破傷風を患ったヒロインに、油で練ったアオカビを飲ませて治療するという場面が登場する。作中で仁が過去に読んでおり、ペニシリンの精製のヒントとなった（明記はされていない）。
-  - [順天堂大学医学部附属順天堂医院](https://ja.wikipedia.org/wiki/順天堂大学医学部附属順天堂医院 "wikilink") - 東都大学附属病院のモデルおよびロケ地\[73\]。なお、学校法人順天堂の学是は「仁」としている。
+  - [順天堂大学医学部附属順天堂医院](https://ja.wikipedia.org/wiki/順天堂大学医学部附属順天堂医院 "wikilink") - 東都大学附属病院のモデルおよびロケ地\[81\]。なお、学校法人順天堂の学是は「仁」としている。
   - [大江戸神仙伝](../Page/大江戸神仙伝.md "wikilink") - [石川英輔](../Page/石川英輔.md "wikilink")のSF小説。江戸時代にタイムスリップした製薬会社の社員が、現代の医学知識や道具を駆使して脚気など江戸時代の病を治療する。1985年にテレビドラマ化された際はストーリーが変更された。
   - 侠医冬馬 - グランドジャンプ2018年15号より連載中の作品。仁がタイムスリップして現れる6年前が舞台。「JIN-仁-」と繋がるかはまだ不明だが、大坂適塾時代の緒方洪庵・福澤諭吉や江戸にて伊藤玄朴が登場している。
 
@@ -822,9 +811,9 @@
 19.
 20.
 21.
-22. 当初は[藤田まこと](../Page/藤田まこと.md "wikilink")が演じる予定だったが、藤田が慢性閉塞性肺疾患により降板したため、中村が起用された。
-23.
-24.
+22. [RCCテレビ公式Twitter](https://twitter.com/rcctv/status/1255051627792195585) - 2020年4月28日、17:30配信。
+23. [RCCテレビ公式Twitter](https://twitter.com/rcctv/status/1260849834178699267) - 2020年5月14日、17:30配信。
+24. 当初は[藤田まこと](../Page/藤田まこと.md "wikilink")が演じる予定だったが、藤田が慢性閉塞性肺疾患により降板したため、中村が起用された。
 25.
 26.
 27.
@@ -834,7 +823,7 @@
 31.
 32.
 33.
-34. [みどころ](http://ihajin.jp/midokoro.html) 特別展 医は仁術公式サイト 2017.2.19 03:45 (UTC) 閲覧
+34.
 35.
 36.
 37.
@@ -842,35 +831,43 @@
 39.
 40.
 41.
-42.
+42. [みどころ](http://ihajin.jp/midokoro.html) 特別展 医は仁術公式サイト 2017.2.19 03:45 (UTC) 閲覧
 43.
 44.
-45. 허설희 [종편 채널A 드라마 돌파구 못찾고 위태 ‘벼랑끝 몰렸다’](http://news.joins.com/article/8025254)  [中央日報](../Page/中央日報.md "wikilink") 2012.4.28付記事（オリジナル:NEWSEN）
-46. 백솔미 [“이야기 마무리에 20회로는 부족했다”… '닥터 진' 2회 연장](http://news.donga.com/3/all/20120713/47732981/5)  [スポーツ東亜](../Page/東亜日報.md "wikilink") 2012.7.13付記事
-47. [韓国版「JIN-仁-」側、ドラマ「信義」に盗作疑惑を提起](http://japanese.joins.com/article/025/150025.html) 中央日報日本語版 2012.4.6付記事
-48. 이경호 [SBS, "'신의' 저작권 침해 가능성 낮다" 공식입장](http://news.joins.com/article/7829603)  中央日報 2012.4.6付記事（オリジナル:スターニュース）
-49. 박아름 [사과나무픽쳐스, 소속 작가 데려간 ‘타임슬립닥터진’에 법적조치（공식입장）](http://www.newsen.com/news_view.php?uid=201204160826361001)  NEWSEN 2012.4.16付記事
-50. 표재민 [MBC, ‘닥터진’ 편성 번복...끝내 결방](http://osen.mt.co.kr/article/G1109446041)  OSEN 2012.8.4付記事
-51. 이미나 \[<http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001767064>　이보시오, <닥터진> 작가양반\! 이게 결말이라니\!\]  [オーマイニュース](../Page/オーマイニュース.md "wikilink") 2012.8.13付記事
-52. [닥터 진 등장인물](http://www.imbc.com/broad/tv/drama/drjin/cast/)  [MBC公式サイト](../Page/文化放送_\(韓国\).md "wikilink") 2017.2.19.01:40 (UTC) 閲覧
-53. [닥터 진 출연](http://movie.daum.net/tv/crew?tvProgramId=59326)  [Daum tv](https://ja.wikipedia.org/wiki/ダウム "wikilink") 2017.2.19 01:45 (UTC) 閲覧
-54. 정지원 [‘닥터진’ 철종 김병세 이정도면 재조명 맞네](http://news.joins.com/article/8785808)  中央日報 2012.7.17付記事（オリジナル:NEWSEN）
-55. 김영주 [<닥터 진> 이범수, 극 중 아들 이형석의 ‘따뜻한 멘토’ 역할 자처](http://news.jkn.co.kr/articles/713727/20120724/%EB%8B%A5%ED%84%B0-%EC%A7%84-%EC%9D%B4%EB%B2%94%EC%88%98-%EA%B7%B9-%EC%A4%91-%EC%95%84%EB%93%A4-%EC%9D%B4%ED%98%95%EC%84%9D%EC%9D%98-%EB%94%B0%EB%9C%BB%ED%95%9C-%EB%A9%98%ED%86%A0-%EC%97%AD%ED%95%A0-%EC%9E%90%EC%B2%98.htm)  財経日報 2012.7.24付記事
-56. 유보경 [［드라마］＜닥터 진＞이원종-김광식-조우진, '왈짜패 삼인방'으로 맹활약](http://homoludentic.tistory.com/4130)  OHFUN 2012.6.27付記事
-57. ['닥터 진' 조미령-방은희-윤주희, 특별 출연 배우들 활약 '눈길'](http://news.joins.com/article/8382016)  中央日報 2012.6.15付記事（オリジナル:イシューデイリー）
-58. [Eom Ji-seong（엄지성）](http://www.hancinema.net/korean_Eom_Ji-seong.php)  HANCINEMA 2017.2.19 03:40 (UTC) 閲覧
-59. ただし喜市と違い、シギは父親が存命しているため養子となるくだりは作品中には登場しない。
-60.
-61. 김겨울 [［주목\!이 스타］'닥터이방인' 하수호, 악역도 그가 하면 다르다](http://news.chosun.com/site/data/html_dir/2014/06/09/2014060900378.html)  [朝鮮日報](../Page/朝鮮日報.md "wikilink") 2014.6.7付記事
-62. [DATV 「Dr. JIN」放送中止のお知らせ](http://notices.jcom.co.jp/_47396.html) [ベイ・コミュニケーションズ](../Page/ベイ・コミュニケーションズ.md "wikilink") 2012.10.4付ニュースリリース
-63. [【対象CH追加】スカパー！プレミアムサービス（Ch.653/Ch.750）スカパー！プレミアムサービス光（Ch.750）BSスカパー！（Ch.241）でのDATV 「Dr.JIN」放送中止のお知らせ](https://www.skyperfectv.co.jp/oshirase/basic/2012/1004_001.html) [スカパー\!](https://ja.wikipedia.org/wiki/スカパー! "wikilink") 2012.10.4付ニュースリリース
-64. [ソン・スンホン、JYJジェジュン、イ・ボムスの「Dr.JIN＜完全版＞」、ついに来年2月Blu-ray ・DVDリリース決定！予告動画](http://navicon.jp/news/20810/) NAVICON 2013.11.15付記事
-65.
-66. [待望のソン・スンホン×ジェジュンの「Dr.JIN」、テレビ東京が2月26日より地上波初放送\!予告動画](http://navicon.jp/news/21836/) NAVICON 2014.1.28付記事
-67. [ソン・スンホン×ジェジュンの「Dr.JIN」、遂にBS初登場\!7/23、BSジャパンで二カ国語放送\!予告動画](http://navicon.jp/news/23899/) NAVICON 2014.6.13付記事
-68. [「Dr.JIN＜完全版＞」、ソン・スンホンやキム・ジェジュンらの声を担当した日本語声優からのコメントレポ到着\!予告動画](http://navicon.jp/news/21660/) NAVICON 2014.1.16付記事
-69. [音月桂の退団公演「JIN-仁-」開幕](https://www.daily.co.jp/newsflash/gossip/2012/10/12/0005445856.shtml) [デイリースポーツ](../Page/デイリースポーツ.md "wikilink") 2012.10.12付記事
-70. 舞台版では南方仁の現代での恋人は橘咲と瓜二つの設定である。
-71. 雪組公演時は[専科所属](../Page/専科_\(宝塚歌劇\).md "wikilink")。月組公演時は月組所属。
-72. 専科所属
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53. 허설희 [종편 채널A 드라마 돌파구 못찾고 위태 ‘벼랑끝 몰렸다’](http://news.joins.com/article/8025254)  [中央日報](../Page/中央日報.md "wikilink") 2012.4.28付記事（オリジナル:NEWSEN）
+54. 백솔미 [“이야기 마무리에 20회로는 부족했다”… '닥터 진' 2회 연장](http://news.donga.com/3/all/20120713/47732981/5)  [スポーツ東亜](../Page/東亜日報.md "wikilink") 2012.7.13付記事
+55. [韓国版「JIN-仁-」側、ドラマ「信義」に盗作疑惑を提起](http://japanese.joins.com/article/025/150025.html) 中央日報日本語版 2012.4.6付記事
+56. 이경호 [SBS, "'신의' 저작권 침해 가능성 낮다" 공식입장](http://news.joins.com/article/7829603)  中央日報 2012.4.6付記事（オリジナル:スターニュース）
+57. 박아름 [사과나무픽쳐스, 소속 작가 데려간 ‘타임슬립닥터진’에 법적조치（공식입장）](http://www.newsen.com/news_view.php?uid=201204160826361001)  NEWSEN 2012.4.16付記事
+58. 표재민 [MBC, ‘닥터진’ 편성 번복...끝내 결방](http://osen.mt.co.kr/article/G1109446041)  OSEN 2012.8.4付記事
+59. 이미나 \[<http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0001767064>　이보시오, <닥터진> 작가양반\! 이게 결말이라니\!\]  [オーマイニュース](../Page/オーマイニュース.md "wikilink") 2012.8.13付記事
+60. [닥터 진 등장인물](http://www.imbc.com/broad/tv/drama/drjin/cast/)  [MBC公式サイト](../Page/文化放送_\(韓国\).md "wikilink") 2017.2.19.01:40 (UTC) 閲覧
+61. [닥터 진 출연](http://movie.daum.net/tv/crew?tvProgramId=59326)  [Daum tv](https://ja.wikipedia.org/wiki/ダウム "wikilink") 2017.2.19 01:45 (UTC) 閲覧
+62. 정지원 [‘닥터진’ 철종 김병세 이정도면 재조명 맞네](http://news.joins.com/article/8785808)  中央日報 2012.7.17付記事（オリジナル:NEWSEN）
+63. 김영주 [<닥터 진> 이범수, 극 중 아들 이형석의 ‘따뜻한 멘토’ 역할 자처](http://news.jkn.co.kr/articles/713727/20120724/%EB%8B%A5%ED%84%B0-%EC%A7%84-%EC%9D%B4%EB%B2%94%EC%88%98-%EA%B7%B9-%EC%A4%91-%EC%95%84%EB%93%A4-%EC%9D%B4%ED%98%95%EC%84%9D%EC%9D%98-%EB%94%B0%EB%9C%BB%ED%95%9C-%EB%A9%98%ED%86%A0-%EC%97%AD%ED%95%A0-%EC%9E%90%EC%B2%98.htm)  財経日報 2012.7.24付記事
+64. 유보경 [［드라마］＜닥터 진＞이원종-김광식-조우진, '왈짜패 삼인방'으로 맹활약](http://homoludentic.tistory.com/4130)  OHFUN 2012.6.27付記事
+65. ['닥터 진' 조미령-방은희-윤주희, 특별 출연 배우들 활약 '눈길'](http://news.joins.com/article/8382016)  中央日報 2012.6.15付記事（オリジナル:イシューデイリー）
+66. [Eom Ji-seong（엄지성）](http://www.hancinema.net/korean_Eom_Ji-seong.php)  HANCINEMA 2017.2.19 03:40 (UTC) 閲覧
+67. ただし喜市と違い、シギは父親が存命しているため養子となるくだりは作品中には登場しない。
+68.
+69. 김겨울 [［주목\!이 스타］'닥터이방인' 하수호, 악역도 그가 하면 다르다](http://news.chosun.com/site/data/html_dir/2014/06/09/2014060900378.html)  [朝鮮日報](../Page/朝鮮日報.md "wikilink") 2014.6.7付記事
+70. [DATV 「Dr. JIN」放送中止のお知らせ](http://notices.jcom.co.jp/_47396.html) [ベイ・コミュニケーションズ](../Page/ベイ・コミュニケーションズ.md "wikilink") 2012.10.4付ニュースリリース
+71. [【対象CH追加】スカパー！プレミアムサービス（Ch.653/Ch.750）スカパー！プレミアムサービス光（Ch.750）BSスカパー！（Ch.241）でのDATV 「Dr.JIN」放送中止のお知らせ](https://www.skyperfectv.co.jp/oshirase/basic/2012/1004_001.html) [スカパー\!](https://ja.wikipedia.org/wiki/スカパー! "wikilink") 2012.10.4付ニュースリリース
+72. [ソン・スンホン、JYJジェジュン、イ・ボムスの「Dr.JIN＜完全版＞」、ついに来年2月Blu-ray ・DVDリリース決定！予告動画](http://navicon.jp/news/20810/) NAVICON 2013.11.15付記事
 73.
+74. [待望のソン・スンホン×ジェジュンの「Dr.JIN」、テレビ東京が2月26日より地上波初放送\!予告動画](http://navicon.jp/news/21836/) NAVICON 2014.1.28付記事
+75. [ソン・スンホン×ジェジュンの「Dr.JIN」、遂にBS初登場\!7/23、BSジャパンで二カ国語放送\!予告動画](http://navicon.jp/news/23899/) NAVICON 2014.6.13付記事
+76. [「Dr.JIN＜完全版＞」、ソン・スンホンやキム・ジェジュンらの声を担当した日本語声優からのコメントレポ到着\!予告動画](http://navicon.jp/news/21660/) NAVICON 2014.1.16付記事
+77. [音月桂の退団公演「JIN-仁-」開幕](https://www.daily.co.jp/newsflash/gossip/2012/10/12/0005445856.shtml) [デイリースポーツ](../Page/デイリースポーツ.md "wikilink") 2012.10.12付記事
+78. 舞台版では南方仁の現代での恋人は橘咲と瓜二つの設定である。
+79. 雪組公演時は[専科所属](../Page/専科_\(宝塚歌劇\).md "wikilink")。月組公演時は月組所属。
+80. 専科所属
+81.

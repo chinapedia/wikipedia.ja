@@ -76,9 +76,9 @@
   - 35 ZGMF-X666 [レジェンドガンダム](https://ja.wikipedia.org/wiki/プロヴィデンスガンダム#レジェンドガンダム "wikilink")（2005年10月）
   - 36 ZGMF-X42S [デスティニーガンダム](../Page/デスティニーガンダム.md "wikilink")（2005年11月）
   - 37 MVF-M11C [ムラサメ](../Page/ムラサメ_\(ガンダムシリーズ\).md "wikilink")（[アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink")専用機）（2005年12月）
-  - 38 ORB-01 [シラヌイアカツキガンダム](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink")（2006年1月）
+  - 38 ORB-01 [シラヌイアカツキガンダム](https://ja.wikipedia.org/wiki/コズミック・イラの機動兵器#アカツキ "wikilink")（2006年1月）
   - 39 MVF-M11C ムラサメ（量産機）（2006年3月）
-  - 40 ORB-01 [オオワシアカツキガンダム](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink")（2006年4月）
+  - 40 ORB-01 [オオワシアカツキガンダム](https://ja.wikipedia.org/wiki/コズミック・イラの機動兵器#アカツキ "wikilink")（2006年4月）
   - 48 TMF/A-802 [モビルバクゥ](../Page/バクゥ.md "wikilink")（2007年1月）
   - 50 ZGMF-2000 グフイグナイテッド（[イザーク・ジュール](../Page/イザーク・ジュール.md "wikilink")専用機）（2007年8月）
   - 51 ZGMF-1001/M ブレイズザクファントム（[ディアッカ・エルスマン](../Page/ディアッカ・エルスマン.md "wikilink")専用機）（2007年9月）
@@ -318,12 +318,12 @@ SEED DESTINY 11「1/100 [インフィニットジャスティスガンダム](ht
   - 12 ZGMF-X666 [レジェンドガンダム](https://ja.wikipedia.org/wiki/プロヴィデンスガンダム#レジェンドガンダム "wikilink")（2006年6月）
   - 13 MBF-P01-Re2 [ガンダムアストレイ ゴールドフレームアマツ](https://ja.wikipedia.org/wiki/ガンダムアストレイ#天ミナ "wikilink")（2006年7月） ※1
   - 14 ZGMF-X23S [セイバーガンダム](../Page/セイバーガンダム.md "wikilink")（2006年10月）
-  - 15 ORB-01 [アカツキガンダム](https://ja.wikipedia.org/wiki/アカツキ_\(ガンダムシリーズ\) "wikilink") フルセット（2007年3月）
+  - 15 ORB-01 [アカツキガンダム](https://ja.wikipedia.org/wiki/コズミック・イラの機動兵器#アカツキ "wikilink") フルセット（2007年3月）
   - 16 MBF-P04 [ガンダムアストレイ グリーンフレーム](https://ja.wikipedia.org/wiki/ガンダムアストレイ#グリーンフレーム "wikilink")（[トロヤ・ノワレ専用機](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_ASTRAYシリーズの登場人物#トロヤ・ノワレ "wikilink")）（2009年3月） ※2
-  - 17 LG-GAT-X105 [ゲイルストライクガンダム](https://ja.wikipedia.org/wiki/ストライクガンダム#ゲイルストライク "wikilink")（2009年8月） ※3
+  - 17 LG-GAT-X105 [ゲイルストライクガンダム](https://ja.wikipedia.org/wiki/ストライクガンダム#ゲイルストライクガンダム "wikilink")（2009年8月） ※3
   - 18 LH-GAT-X103 [ヘイルバスターガンダム](https://ja.wikipedia.org/wiki/バスターガンダム#ヘイルバスター "wikilink")（2009年8月） ※3
   - 19 LR-GAT-X102 [レーゲンデュエルガンダム](https://ja.wikipedia.org/wiki/デュエルガンダム#レーゲンデュエル "wikilink")（2009年9月） ※3
-  - 20 LN-ZGMF-X13A [ニクスプロヴィデンスガンダム](https://ja.wikipedia.org/wiki/プロヴィデンスガンダム#ニクスプロヴィデンス "wikilink")（2009年9月） ※3
+  - 20 LN-ZGMF-X13A [ニクスプロヴィデンスガンダム](https://ja.wikipedia.org/wiki/プロヴィデンスガンダム#ニクスプロヴィデンスガンダム "wikilink")（2009年9月） ※3
   - 21 MBF-P05LM [ガンダムアストレイ ミラージュフレーム](https://ja.wikipedia.org/wiki/ガンダムアストレイ#ミラージュフレーム "wikilink")（2009年10月） ※3
   - 22 LV-ZGMF-X23S [ヴァンセイバーガンダム](https://ja.wikipedia.org/wiki/セイバーガンダム#ヴァンセイバー "wikilink")（2009年11月） ※3
   - 23 LN-GAT-X207 [ネブラブリッツガンダム](https://ja.wikipedia.org/wiki/ブリッツガンダム#ネブラブリッツ "wikilink")（2009年12月） ※3

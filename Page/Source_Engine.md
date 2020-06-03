@@ -83,7 +83,7 @@ Mod制作用のソースコードが公開されているが、Valve制作でこ
 
   - Source 2
 
-現在Valveが開発中の、Source Engineの後継エンジン。2012年にValve創設者の[ゲイブ・ニューウェル](https://ja.wikipedia.org/wiki/ゲイブ・ニューウェル "wikilink")が実際にその存在を認め、「すでに開発を開始してからしばらく経つ」と明言した。また、従来のSource Engineの拡張などではなく、一から作り直しているものとも発言した。現在、このエンジンを採用するゲームは『[Dota 2](https://ja.wikipedia.org/wiki/Dota_2 "wikilink")』のみ。
+現在Valveが開発中の、Source Engineの後継エンジン。2012年にValve創設者の[ゲイブ・ニューウェル](https://ja.wikipedia.org/wiki/ゲイブ・ニューウェル "wikilink")が実際にその存在を認め、「すでに開発を開始してからしばらく経つ」と明言した。また、従来のSource Engineの拡張などではなく、一から作り直しているものとも発言した。現在、このエンジンを採用するゲームは『[Dota 2](https://ja.wikipedia.org/wiki/Dota_2 "wikilink")』と『[Half-Life: Alyx](../Page/Half-Life:_Alyx.md "wikilink")』。
 
   - ゲーム固有のバージョン
 
@@ -119,31 +119,58 @@ Mod制作用のソースコードが公開されているが、Valve制作でこ
 ### Valve以外が制作したゲーム
 
   -
+
+    [Black Mesa](https://ja.wikipedia.org/wiki/:en:Black_Mesa_\(video_game\) "wikilink")
+
     [The Crossing](https://ja.wikipedia.org/wiki/:en:The_Crossing_\(Game\) "wikilink")
+
     [Dark Messiah Might and Magic](https://ja.wikipedia.org/wiki/:en:Dark_Messiah_Might_and_Magic "wikilink")
+
     [マビノギ英雄伝](https://ja.wikipedia.org/wiki/マビノギ英雄伝 "wikilink")
+
     [Natural Selection 2](https://ja.wikipedia.org/wiki/:en:Natural_Selection_2 "wikilink")
+
     [Postal III](https://ja.wikipedia.org/wiki/:en:Postal_III "wikilink")
+
     [Prime](https://ja.wikipedia.org/wiki/:en:Prime_\(Computer_Game\) "wikilink")
+
     [Salvation](https://ja.wikipedia.org/wiki/:en:Salvation_\(Video_Game\) "wikilink")
+
     [SiN Episodes](https://ja.wikipedia.org/wiki/:en:SiN_Episodes "wikilink")
+
     [Sting: The Secret Operations](https://ja.wikipedia.org/wiki/:en:Sting:_CODE_NAME_STING,_The_Secret_Operations "wikilink") [1](http://sting.gamecom.jp)
+
     [Titanfall](https://ja.wikipedia.org/wiki/:en:Titanfall "wikilink")
+
     [The Ship](https://ja.wikipedia.org/wiki/:en:The_Ship_\(computer_game\) "wikilink")
+
     [They Hunger: Lost Souls](https://ja.wikipedia.org/wiki/:en:They_Hunger#They_Hunger:_Lost_Souls "wikilink")
+
     [Twilight War: After the Fall](https://ja.wikipedia.org/wiki/:en:Twilight_War:_After_the_Fall "wikilink") (production resumed)
+
     [:en:Vampire: The Masquerade – Bloodlines](https://ja.wikipedia.org/wiki/:en:Vampire:_The_Masquerade_–_Bloodlines "wikilink")
+
     [Zeno Clash](https://ja.wikipedia.org/wiki/:en:Zeno_Clash "wikilink") [2](http://www.aceteam.cl/zenoclash/)
+
     [ハーフライフ2 サバイバー](../Page/ハーフライフ2_サバイバー.md "wikilink")
+
     [サイバーダイバー](https://ja.wikipedia.org/wiki/サイバーダイバー "wikilink")
+
     Insurgency
+
     Garry's Mod
+
     Counter-Strike: Online 2
+
   - Kuma Reality Games
     [DinoHunters](https://ja.wikipedia.org/wiki/:en:Dinohunters "wikilink")
+
     [Dogfights: The Game](https://ja.wikipedia.org/wiki/:en:Dogfights_The_Game "wikilink")
+
     [The History Channel's ShootOut\! The Game](https://ja.wikipedia.org/wiki/:en:Shootout_the_Game "wikilink")
+
     [The Kill Point: Game](https://ja.wikipedia.org/wiki/:en:The_Kill_Point_Game "wikilink")
+
     [KUMA WAR](https://ja.wikipedia.org/wiki/KUMA_WAR "wikilink")
 
-[Category:ゲームエンジン](https://ja.wikipedia.org/wiki/Category:ゲームエンジン "wikilink") [Category:2004年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2004年のソフトウェア "wikilink")
+[Category:ゲームエンジン](https://ja.wikipedia.org/wiki/Category:ゲームエンジン "wikilink") [Category:2004年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2004年のソフトウェア "wikilink") [Category:Valve](https://ja.wikipedia.org/wiki/Category:Valve "wikilink")

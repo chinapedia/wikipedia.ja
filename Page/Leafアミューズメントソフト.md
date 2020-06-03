@@ -181,7 +181,7 @@ Leafアミューズメントソフト第5作。[2009年](../Page/2009年.md "wik
 
 メインテーマ：**WORDS OF LOVE**
 
-  - 作詞：[上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")
+  - 作詞：[上原れな](../Page/上原れな.md "wikilink")
   - 作曲：衣笠道雄
   - 編曲：衣笠道雄
   - 歌：上原れな

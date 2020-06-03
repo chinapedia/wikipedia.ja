@@ -1,7 +1,7 @@
 > この記事は[ASRock](https://ja.wikipedia.org/wiki/ASRock)から翻訳されています。
 
 
-**ASRock Incorporation**（アスロック、華擎科技）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を本拠地とした、テッド・シュウ率いる[HTPC](https://ja.wikipedia.org/wiki/HTPC "wikilink")、[マザーボード](../Page/マザーボード.md "wikilink")を生産するメーカーである。 当時の[ASUS](../Page/ASUS.md "wikilink")所属技術者による独立起業を出自とするが、2008年度以降は同社との資本関係はなく、現在は台湾のエレクトロニクス企業 [Pegatron Corporationが所有しています](https://ja.wikipedia.org/wiki/Pegatron_Corporation "wikilink")。
+**ASRock Incorporation**（アスロック、華擎科技）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を本拠地とした、テッド・シュウ率いる[HTPC](https://ja.wikipedia.org/wiki/HTPC "wikilink")、[マザーボード](../Page/マザーボード.md "wikilink")を生産するメーカーである。 当時の[ASUS](../Page/ASUS.md "wikilink")所属技術者による独立起業を出自とするが、2008年度以降は同社との資本関係はなく、現在は台湾のエレクトロニクス企業 [Pegatron Corporationが所有している](https://ja.wikipedia.org/wiki/Pegatron_Corporation "wikilink")。
 
 ## 沿革
 
@@ -13,11 +13,7 @@
 
 ## 主要商品とサービス
 
-[Asrock_am2cpu_board.jpg](https://ja.wikipedia.org/wiki/File:Asrock_am2cpu_board.jpg "fig:Asrock_am2cpu_board.jpg") 主要商品はマザーボードのほか小型デスクトップコンピュータ製品など。「[CPU](../Page/CPU.md "wikilink")ソケットアップグレード用のAM2CPU Board」を例とした常識にとらわれない製品作りは、高い競争力の一因となっている。2012年には産業用PCと[サーバー](https://ja.wikipedia.org/wiki/サーバー "wikilink")、マザーボード市場に参入した。
-
-## 主な市場
-
-2011年の主要販売地域は、[欧州](https://ja.wikipedia.org/wiki/欧州 "wikilink")が37.68%、 [中央アメリカ](../Page/中央アメリカ.md "wikilink")/[南米](https://ja.wikipedia.org/wiki/南米 "wikilink")が21.13%、 [アジア](../Page/アジア.md "wikilink")太平洋地域が40.95%などとなっている。ASRockは世界で上位3社に数えられるマザーボードブランドであり、業績はアジアと欧州で大部分を占めている。
+[Asrock_am2cpu_board.jpg](https://ja.wikipedia.org/wiki/File:Asrock_am2cpu_board.jpg "fig:Asrock_am2cpu_board.jpg") 主要商品はマザーボードのほか小型デスクトップコンピュータ製品など。「[CPU](../Page/CPU.md "wikilink")ソケットアップグレード用のAM2CPU Board」を例とした常識にとらわれない製品作りは、高い競争力の一因となっている。2012年には産業用PCと[サーバー](https://ja.wikipedia.org/wiki/サーバー "wikilink")、マザーボード市場に参入した。さらには、「Deskmini」シリーズとして[ベアボーンPCにも参入している](../Page/ベアボーンキット.md "wikilink")。
 
 ## 外部リンク
 

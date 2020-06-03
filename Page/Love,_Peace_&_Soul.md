@@ -9,12 +9,15 @@
 
 ## 収録曲
 
-1.  **Love, Peace & Soul** (4:40)
-    （作詞：Diggy-MO',Bro.Hi 作曲：Diggy-MO',Shinnosuke 編曲：Shinnnosuke）
-2.  **"P"** (4:52)
-    （作詞：Diggy-MO',Bro.Hi 作曲：Diggy-MO',Shinnosuke 編曲：Shinnnosuke）
-3.  **S.O Magic 2** (6:08)
-    （作詞：Diggy-MO',Bro.Hi 作曲：SOUL'd OUT 編曲：Shinnnosuke）
+## 楽曲解説
+
+1.  **Love, Peace & Soul**
+      -
+        前作「[Dream Drive/Shut Out](https://ja.wikipedia.org/wiki/Dream_Drive/Shut_Out "wikilink")」と同時期に制作された。PVには複数の子供が出演しており、ヒップホップビートに子供たちの為に…っていうテーマがうまく合ったとDiggy-MO'は述べている\[1\]。
+2.  **"P"**
+3.  **S.O Magic 2**
+      -
+        1枚目のシングル「[ウェカピポ](../Page/ウェカピポ.md "wikilink")」のカップリングに収録されているS.O Magicのパート2。
 
 ## 収録アルバム
 
@@ -26,4 +29,10 @@
 
   - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")「[ライオン先生](../Page/ライオン先生.md "wikilink")」主題歌
 
+## 客演
+
+<references />
+
 [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:読売テレビ月曜10時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビ月曜10時枠の連続ドラマ主題歌 "wikilink") [Category:平和を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:平和を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+
+1.

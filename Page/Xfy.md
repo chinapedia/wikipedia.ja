@@ -9,7 +9,7 @@
 
 複数のXMLドキュメントが異なる[ボキャブラリ](https://ja.wikipedia.org/wiki/ボキャブラリ "wikilink")を利用していてもシームレスに扱えること、[プラグイン](../Page/プラグイン.md "wikilink")を利用することで柔軟な拡張ができることを特徴としており、あらゆるXMLデータを1つのソフトウェアで扱うことを目標としている。
 
-2007年現在、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[IBM](../Page/IBM.md "wikilink")と[オラクルが](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、xfyテクノロジーについてジャストシステムと協力関係にある。
+2007年現在、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[IBM](../Page/IBM.md "wikilink")と[オラクルが](../Page/オラクル_\(企業\).md "wikilink")、xfyテクノロジーについてジャストシステムと協力関係にある。
 
 ## 展開
 
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   - xfy Enterprise Solution
-    法人向けソリューション製品。XMLアプリケーションの開発基盤環境とクライアント実行環境を提供する。2006年11月から、DB2 9（[IBM](../Page/IBM.md "wikilink")）およびOracle Database 10g（[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")）向けに展開している。
+    法人向けソリューション製品。XMLアプリケーションの開発基盤環境とクライアント実行環境を提供する。2006年11月から、DB2 9（[IBM](../Page/IBM.md "wikilink")）およびOracle Database 10g（[オラクル](../Page/オラクル_\(企業\).md "wikilink")）向けに展開している。
 
 <!-- end list -->
 

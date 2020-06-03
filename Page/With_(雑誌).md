@@ -29,7 +29,7 @@
 
 ### 過去に登場したモデル
 
-  - [加藤幸子](https://ja.wikipedia.org/wiki/加藤幸子_\(モデル\) "wikilink")
+  - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")
   - [田丸麻紀](../Page/田丸麻紀.md "wikilink")
   - [甘糟記子](../Page/甘糟記子.md "wikilink")
   - [佐藤純](../Page/佐藤純.md "wikilink")

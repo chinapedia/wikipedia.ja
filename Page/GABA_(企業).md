@@ -1,7 +1,7 @@
 > この記事は[GABA \(企業\)](https://ja.wikipedia.org/wiki/GABA_\(企業\))から翻訳されています。
 
 
-**株式会社GABA（ガバ）**\[1\]は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く主に[首都圏で](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")、**マンツーマン英会話**の語学学校を展開する企業。[学校教育法](../Page/学校教育法.md "wikilink")で定める学校ではない。「大胆不敵な人生目標に挑む人を応援すること」、「国際舞台で活躍できる人材を育成すること」、「多様な文化の相互理解に貢献すること」という3つのミッションを掲げているのが特徴。
+**株式会社GABA（ガバ）**\[1\]は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く主に[首都圏で](../Page/首都圏_\(日本\).md "wikilink")、**マンツーマン英会話**の語学学校を展開する企業。[学校教育法](../Page/学校教育法.md "wikilink")で定める学校ではない。「大胆不敵な人生目標に挑む人を応援すること」、「国際舞台で活躍できる人材を育成すること」、「多様な文化の相互理解に貢献すること」という3つのミッションを掲げているのが特徴。
 
 2015年3月にスタッフ553人 インストラクター1,106人がいる。2016年1月42ヶ所のラーニングスタジオ（LS）がある。\[2\][Gaba_Day_Tokyo_Dome.jpeg](https://ja.wikipedia.org/wiki/File:Gaba_Day_Tokyo_Dome.jpeg "fig:Gaba_Day_Tokyo_Dome.jpeg") 2007年\]\]
 

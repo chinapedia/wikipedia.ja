@@ -53,7 +53,7 @@
 <!-- end list -->
 
   -
-    [キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は「赤いメスだぬき」だが黒の[ボンデージ](../Page/ボンデージ.md "wikilink")を着ている。サッカーセンスに優れており、このチームのエース[ストライカー](https://ja.wikipedia.org/wiki/ストライカー "wikilink")でもある。強烈な[シュートが持ち味で前番組では](https://ja.wikipedia.org/wiki/シュート_\(サッカー\) "wikilink")「ファンタドエスタ」なるテクニックを披露していた。
+    [キャッチフレーズ](https://ja.wikipedia.org/wiki/キャッチフレーズ "wikilink")は「赤いメスだぬき」だが黒の[ボンデージ](../Page/ボンデージ.md "wikilink")を着ている。サッカーセンスに優れており、このチームのエース[ストライカー](https://ja.wikipedia.org/wiki/ストライカー "wikilink")でもある。強烈な[シュートが持ち味で前番組では](../Page/シュート_\(サッカー\).md "wikilink")「ファンタドエスタ」なるテクニックを披露していた。
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 <!-- end list -->
 
   -
-    キャッチフレーズは「[北関東](../Page/北関東.md "wikilink")の[テキサス娘](../Page/テキサス州.md "wikilink")」。赤のボンデージに[テンガロンハット](../Page/テンガロンハット.md "wikilink")・片手に[ムチ](https://ja.wikipedia.org/wiki/ムチ "wikilink")というスタイル。試合中ムチは手放さないがコンパクトに折りたたんでプレーしている。また帽子のせいもあってか[ヘディング](../Page/ヘディング.md "wikilink")には消極的でコーチの林に「帽子がなけりゃ頭でいけたのに、なんであの人帽子かぶってんだろう」と言われたことがある。第3戦で1[ゴールを記録](https://ja.wikipedia.org/wiki/ゴール_\(スポーツ\) "wikilink")。
+    キャッチフレーズは「[北関東](../Page/北関東.md "wikilink")の[テキサス娘](../Page/テキサス州.md "wikilink")」。赤のボンデージに[テンガロンハット](../Page/テンガロンハット.md "wikilink")・片手に[ムチ](https://ja.wikipedia.org/wiki/ムチ "wikilink")というスタイル。試合中ムチは手放さないがコンパクトに折りたたんでプレーしている。また帽子のせいもあってか[ヘディング](../Page/ヘディング.md "wikilink")には消極的でコーチの林に「帽子がなけりゃ頭でいけたのに、なんであの人帽子かぶってんだろう」と言われたことがある。第3戦で1[ゴールを記録](../Page/ゴール_\(スポーツ\).md "wikilink")。
 
 <!-- end list -->
 

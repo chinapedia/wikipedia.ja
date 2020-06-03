@@ -82,6 +82,6 @@
 
 ## 外部リンク
 
-  - [NHKアーカイブス 西田ひかるの痛快人間伝検索結果](http://cgi2.nhk.or.jp/chronicle/list.cgi?q=%E8%A5%BF%E7%94%B0%E3%81%B2%E3%81%8B%E3%82%8B%E3%81%AE%E7%97%9B%E5%BF%AB%E4%BA%BA%E9%96%93%E4%BC%9D&o=1&np=20&or=d)
+  - [NHKアーカイブス 西田ひかるの痛快人間伝検索結果](https://www2.nhk.or.jp/archives/chronicle/pg/page010-01.cgi?keyword=%E8%A5%BF%E7%94%B0%E3%81%B2%E3%81%8B%E3%82%8B%E3%81%AE%E7%97%9B%E5%BF%AB%E4%BA%BA%E9%96%93%E4%BC%9D)
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:NHK総合テレビジョンの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの番組の歴史 "wikilink") [Category:NHK総合テレビジョンの教養番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの教養番組 "wikilink") [Category:NHK総合テレビジョンのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのドキュメンタリー番組 "wikilink")

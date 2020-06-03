@@ -13,15 +13,15 @@
 
 [1981年](../Page/1981年.md "wikilink")に2輪の[モトクロス](../Page/モトクロス.md "wikilink")レースに出場し好成績だったことから、以後3年はモトクロスを中心に活動する。しかし、競技中の事故により[膝](../Page/膝.md "wikilink")を負傷し、モトクロスの着地における衝撃吸収が困難となったため活動継続を断念する\[2\]。4輪転向を考え始めた当初は[ラリー](../Page/ラリー.md "wikilink")ドライバーになることを考えていたが、ラリーデビュー直前でスポンサーが降りてしまい話が流れてしまった。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に4輪レースに転向。フィンランド[FF1600にデビューしチャンピオン争いを展開するが](../Page/フォーミュラ・フォード.md "wikilink")、最終戦でクラッシュし王座は逃した。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に4輪レースに転向。フィンランド[フォーミュラ・フォード](../Page/フォーミュラ・フォード.md "wikilink")(FF)1600にデビューしチャンピオン争いを展開するが、最終戦でクラッシュし王座は逃した。
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、EFDAヨーロッパFF1600、スカンジナビアFF1600、フィンランドFF1600の各選手権でチャンピオンを獲得。学業では[大学](../Page/大学.md "wikilink")の[数学](../Page/数学.md "wikilink")課程を[修了](../Page/修了.md "wikilink")する。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、イギリスFF2000にステップアップし[パシフィック・レーシング](../Page/パシフィック・レーシング.md "wikilink")に所属。11勝を挙げる圧倒的な速さでチャンピオンを獲得。ヨーロッパFF2000でも6勝を挙げチャンピオンに輝く。この年には大きな転機が訪れており、イギリスに渡って3レース目・レートが圧勝した[シルバーストーン・サーキット](https://ja.wikipedia.org/wiki/シルバーストーン・サーキット "wikilink")でのFF2000レースを同胞の1982年F1ワールドチャンピオン、[ケケ・ロズベルグ](../Page/ケケ・ロズベルグ.md "wikilink")が現地で見ていた\[3\]。ケケは「J.Jのことは前年から話に聞いていたが、初めて実際に見てとにかく凄い速さだった。光り輝く原石を見た衝撃だよ。話をしたら性格も良いし、若いフィンランド人ドライバーを育てるのは現役引退後の計画でもあったから面倒を見たいと思った」\[4\]と、レース活動のプロモーション一切を任せてほしいとマネージャーに名乗り出る。こうしてレートはケケが設立者であるスポーツ[プロモーション](https://ja.wikipedia.org/wiki/プロモーション "wikilink")企業「ユーロ・プロモーション」の[クライアント](https://ja.wikipedia.org/wiki/クライアント "wikilink")となった。以後明確にプロのレーシングドライバーを目指すことになり、同年から[マールボロのサポートを受ける契約ドライバーにもなった](../Page/マールボロ_\(たばこ\).md "wikilink")。
 
-[1988年](../Page/1988年.md "wikilink")に[イギリスF3選手権にステップアップ](https://ja.wikipedia.org/wiki/w:1988_British_Formula_Three_Championship "wikilink")。パシフィック・レーシングの[レイナード・883](https://ja.wikipedia.org/wiki/レイナード・883 "wikilink")・[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")を駆り8勝、ポールポジション6回、ファステストラップ11回でシリーズを制圧しシリーズチャンピオンを獲得した。なお、ランキング3位には[デイモン・ヒル](https://ja.wikipedia.org/wiki/デイモン・ヒル "wikilink")、以下4位[マーティン・ドネリー](../Page/マーティン・ドネリー.md "wikilink")、5位[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")のほか[ローランド・ラッツェンバーガー](../Page/ローランド・ラッツェンバーガー.md "wikilink")、[ジル・ド・フェラン](../Page/ジル・ド・フェラン.md "wikilink")などのちのトップカテゴリードライバーとなる若手が多く参戦していた中でのチャンピオン獲得であった。
+[1988年に](https://ja.wikipedia.org/wiki/w:1988_British_Formula_Three_Championship "wikilink")[イギリス・フォーミュラ3選手権](https://ja.wikipedia.org/wiki/イギリス・フォーミュラ3選手権 "wikilink")にステップアップ。パシフィック・レーシングの[レイナード・883](https://ja.wikipedia.org/wiki/レイナード・883 "wikilink")-[トヨタ](https://ja.wikipedia.org/wiki/トヨタ "wikilink")を駆り8勝、ポールポジション6回、ファステストラップ11回でシリーズを制圧しシリーズチャンピオンを獲得した。なお、ランキング3位には[デイモン・ヒル](https://ja.wikipedia.org/wiki/デイモン・ヒル "wikilink")、以下4位[マーティン・ドネリー](../Page/マーティン・ドネリー.md "wikilink")、5位[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")のほか[ローランド・ラッツェンバーガー](../Page/ローランド・ラッツェンバーガー.md "wikilink")、[ジル・ド・フェラン](../Page/ジル・ド・フェラン.md "wikilink")などのちのトップカテゴリードライバーとなる若手が多く参戦していた中でのチャンピオン獲得であった。
 
-[1989年](../Page/1989年.md "wikilink")にはパシフィック・レーシングから[国際F3000選手権へとステップアップ](https://ja.wikipedia.org/wiki/1989年の国際F3000選手権 "wikilink")、[レイナード・89D](https://ja.wikipedia.org/wiki/レイナード・89D "wikilink")・[無限の](../Page/M-TEC.md "wikilink")25号車をドライブした。これまでのフォーミュラカーキャリアでは順調に結果を出しつづけていたが、このF3000参戦時は時折速さを見せるにとどまり最高位はポー市街地コースでの4位であった。しかし、師匠であるケケと、チームをスポンサードしていたマールボロのプッシュもあり、[フェラーリのテストドライバーに抜擢される](../Page/スクーデリア・フェラーリ.md "wikilink")\[5\]。[フィオラノのテストコースで](https://ja.wikipedia.org/wiki/フィオラノサーキット "wikilink")[フェラーリ・640](https://ja.wikipedia.org/wiki/フェラーリ・640 "wikilink")の熟成・開発と、新搭載されていた[セミオートマチックトランスミッション](../Page/セミオートマチックトランスミッション.md "wikilink")の開発に携わった\[6\]。
+[1989年にはパシフィック](https://ja.wikipedia.org/wiki/1989年の国際F3000選手権 "wikilink")・レーシングから[国際F3000選手権へとステップアップ](../Page/フォーミュラ3000.md "wikilink")、[レイナード・89D](https://ja.wikipedia.org/wiki/レイナード・89D "wikilink")-[無限の](../Page/M-TEC.md "wikilink")25号車をドライブした。これまでのフォーミュラカーキャリアでは順調に結果を出しつづけていたが、このF3000参戦時は時折速さを見せるにとどまり最高位はポー市街地コースでの4位であった。しかし、師匠であるケケと、チームをスポンサードしていたマールボロのプッシュもあり、[フェラーリのテストドライバーに抜擢される](../Page/スクーデリア・フェラーリ.md "wikilink")\[5\]。[フィオラノのテストコースで](https://ja.wikipedia.org/wiki/フィオラノサーキット "wikilink")[フェラーリ・640](https://ja.wikipedia.org/wiki/フェラーリ・640 "wikilink")の熟成・開発と、新搭載されていた[セミオートマチックトランスミッション](../Page/セミオートマチックトランスミッション.md "wikilink")の開発に携わった\[6\]。
 
 同年の[ポール・リカール・サーキット](../Page/ポール・リカール・サーキット.md "wikilink")で行われたF1合同テストではマールボロが支援していたF1新興チーム、[オニクス](https://ja.wikipedia.org/wiki/オニクス・グランプリ "wikilink")・[ORE-1をテストする機会が訪れ](https://ja.wikipedia.org/wiki/オニクス・ORE1 "wikilink")、F3000でのチームメイトであるエディ・アーバインと共にテストに参加。先にフェラーリテストドライバーとしてF1マシンを経験していたレートは、初のF1ドライブだったアーバインより2秒近く速いラップタイムを記録した\[7\]。9月になるとオニクスのオーナーとの関係が悪化していたレギュラーの[ベルトラン・ガショー](../Page/ベルトラン・ガショー.md "wikilink")が解雇され、代わってレートのオニクス入りが急遽決定しF1デビューすることとなった。
 
@@ -194,7 +194,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 
 ([key](https://ja.wikipedia.org/wiki/Template:F1_driver_results_legend_2 "wikilink"))
 
-#### F1
+#### フォーミュラ1
 
 <table>
 <thead>
@@ -568,139 +568,134 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 
 ### スポーツカー
 
-#### BPR GT
+#### ル・マン24時間レース
 
 <table>
 <thead>
 <tr class="header">
 <th><p>年</p></th>
 <th><p>チーム</p></th>
+<th><p>コ・ドライバー</p></th>
 <th><p>使用車両</p></th>
 <th><p>クラス</p></th>
-<th><p>1</p></th>
-<th><p>2</p></th>
-<th><p>3</p></th>
-<th><p>4</p></th>
-<th><p>5</p></th>
-<th><p>6</p></th>
-<th><p>7</p></th>
-<th><p>8</p></th>
-<th><p>9</p></th>
-<th><p>10</p></th>
-<th><p>11</p></th>
-<th><p>12</p></th>
-<th><p>順位</p></th>
-<th><p>ポイント</p></th>
+<th><p>周回</p></th>
+<th><p>総合順位</p></th>
+<th><p>クラス順位</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1995年のBPRグローバルGTシリーズ" title="wikilink">1995年</a></p></td>
-<td><p><a href="../Page/トムス.md" title="wikilink">トヨタ チーム トムス</a></p></td>
-<td><p><a href="../Page/トヨタ・スープラ_LM-GT.md" title="wikilink">トヨタ・スープラ LM-GT</a></p></td>
-<td><p>GT1</p></td>
-<td><p><a href="../Page/ヘレス・サーキット.md" title="wikilink">JER</a></p></td>
-<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a></p></td>
-<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a></p></td>
-<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
-<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オートドローム・ド・モンスレリ" title="wikilink">PAR</a></p></td>
-<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a></p></td>
-<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
-<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/珠海市街地コース" title="wikilink">ZHU</a><br />
-<small>Ret</small></p></td>
-<td><p>NC</p></td>
-<td><p>0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年のル・マン24時間レース" title="wikilink">1990年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/リチャード・ロイド・レーシング" title="wikilink">リチャード・ロイド・レーシング</a></p></td>
+<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マヌエル・ロイター</a><br />
+ <a href="../Page/ジェームス・ウィーバー.md" title="wikilink">ジェームス・ウィーバー</a></p></td>
+<td><p><a href="../Page/ポルシェ・962.md" title="wikilink">ポルシェ・962 GTi</a>C</p></td>
+<td><p>C1</p></td>
+<td><p>181</p></td>
+<td><p>DNF</p></td>
+<td><p>DNF</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1996年のBPRグローバルGTシリーズ" title="wikilink">1996年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガルフ・レーシング_GTC" title="wikilink">ガルフ・レーシング GTC</a></p></td>
-<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1</a>-GTR</p></td>
-<td><p>GT1</p></td>
-<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a></p></td>
-<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a></p></td>
-<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a></p></td>
-<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
-<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a></p></td>
-<td><p><strong><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></strong><br />
-<small>1</small></p></td>
-<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRA</a></p></td>
-<td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/珠海国際サーキット" title="wikilink">ZHU</a><br />
-<small>3</small></p></td>
-<td></td>
-<td><p>32位</p></td>
-<td><p>14</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1991年のル・マン24時間レース" title="wikilink">1991年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クレマー・レーシング" title="wikilink">ポルシェ・クレマー・レーシング</a></p></td>
+<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マヌエル・ロイター</a><br />
+ <a href="../Page/ハリ・トイヴォネン.md" title="wikilink">ハリ・トイヴォネン</a></p></td>
+<td><p><a href="../Page/ポルシェ・962.md" title="wikilink">ポルシェ・962</a>CK6</p></td>
+<td><p>C2</p></td>
+<td><p>343</p></td>
+<td><p>9位</p></td>
+<td><p>9位</p></td>
 </tr>
-</tbody>
-</table>
-
-  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
-
-#### FIA GT選手権
-
-<table>
-<thead>
-<tr class="header">
-<th><p>年</p></th>
-<th><p>チーム</p></th>
-<th><p>使用車両</p></th>
-<th><p>クラス</p></th>
-<th><p>1</p></th>
-<th><p>2</p></th>
-<th><p>3</p></th>
-<th><p>4</p></th>
-<th><p>5</p></th>
-<th><p>6</p></th>
-<th><p>7</p></th>
-<th><p>8</p></th>
-<th><p>9</p></th>
-<th><p>10</p></th>
-<th><p>11</p></th>
-<th><p>順位</p></th>
-<th><p>ポイント</p></th>
-</tr>
-</thead>
-<tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1997年のFIA_GT選手権" title="wikilink">1997年</a></p></td>
-<td><p><a href="../Page/シュニッツァー・モータースポーツ.md" title="wikilink">BMWモータースポーツ</a></p></td>
-<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1</a>-GTR</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年のル・マン24時間レース" title="wikilink">1995年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/国際開発レーシング" title="wikilink">国際開発レーシング</a></p></td>
+<td><p><a href="../Page/ヤニック・ダルマス.md" title="wikilink">ヤニック・ダルマス</a><br />
+ <a href="../Page/関谷正徳.md" title="wikilink">関谷正徳</a></p></td>
+<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1 GTR</a></p></td>
 <td><p>GT1</p></td>
-<td><p><em><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC</a></em><br />
-<small>1</small></p></td>
-<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
-<small>3</small></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL</a></strong><br />
-<small>1</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
-<small>3</small></p></td>
-<td><p><strong><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a></strong><br />
-<small>1</small></p></td>
-<td><p><a href="../Page/レッドブル・リンク.md" title="wikilink">A1R</a><br />
-<small>3</small></p></td>
-<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
-<small>4</small></p></td>
-<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a><br />
-<small>3</small></p></td>
-<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG</a><br />
-<small>1</small></p></td>
-<td><p><strong><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></strong><br />
-<small>16</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラグナ・セカ" title="wikilink">LAG</a><br />
-<small>Ret</small></p></td>
-<td><p><strong>2位</strong></p></td>
-<td><p><strong>59</strong></p></td>
+<td><p>298</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>1位</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/1996年のル・マン24時間レース.md" title="wikilink">1996年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ガルフ・レーシング_GTC" title="wikilink">ガルフ・レーシング GTC</a></p></td>
+<td><p><a href="../Page/レイ・ベルム.md" title="wikilink">レイ・ベルム</a><br />
+ <a href="../Page/ジェームス・ウィーバー.md" title="wikilink">ジェームス・ウィーバー</a></p></td>
+<td><p>GT1</p></td>
+<td><p>323</p></td>
+<td><p>9位</p></td>
+<td><p>7位</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年のル・マン24時間レース" title="wikilink">1997年</a></p></td>
+<td><p><a href="../Page/シュニッツァー・モータースポーツ.md" title="wikilink">BMWモータースポーツ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・ソパー" title="wikilink">スティーブ・ソパー</a><br />
+ <a href="../Page/ネルソン・ピケ.md" title="wikilink">ネルソン・ピケ</a></p></td>
+<td><p>GT1</p></td>
+<td><p>236</p></td>
+<td><p>DNF</p></td>
+<td><p>DNF</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/1999年のル・マン24時間レース" title="wikilink">1999年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トム・クリステンセン" title="wikilink">トム・クリステンセン</a><br />
+ <a href="https://ja.wikipedia.org/wiki/ヨルグ・ミュラー" title="wikilink">ヨルグ・ミュラー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/BMW・V12_LMR" title="wikilink">BMW・V12 LMR</a></p></td>
+<td><p>LMP</p></td>
+<td><p>304</p></td>
+<td><p>DNF</p></td>
+<td><p>DNF</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2002年のル・マン24時間レース" title="wikilink">2002年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ライリーアンドスコット" title="wikilink">チーム・キャデラック</a></p></td>
+<td><p><a href="../Page/エリック・ベルナール.md" title="wikilink">エリック・ベルナール</a><br />
+ <a href="../Page/エマニュエル・コラール.md" title="wikilink">エマニュエル・コラール</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キャデラック・ノーススター・LMP02" title="wikilink">キャデラック・ノーススター・LMP02</a></p></td>
+<td><p>LMP900</p></td>
+<td><p>334</p></td>
+<td><p>12位</p></td>
+<td><p>10位</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2003年のル・マン24時間レース" title="wikilink">2003年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/チャンピオン・レーシング" title="wikilink">チャンピオン・レーシング</a></p></td>
+<td><p><a href="../Page/エマニュエル・ピロ.md" title="wikilink">エマニュエル・ピロ</a><br />
+ <a href="../Page/ステファン・ヨハンソン.md" title="wikilink">ステファン・ヨハンソン</a></p></td>
+<td><p><a href="../Page/アウディ・R8_(レーシングカー).md" title="wikilink">アウディ・R8</a></p></td>
+<td><p>LMP900</p></td>
+<td><p>372</p></td>
+<td><p><strong>3位</strong></p></td>
+<td><p><strong>1位</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/2004年のル・マン24時間レース" title="wikilink">2004年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
+<td><p><a href="../Page/エマニュエル・ピロ.md" title="wikilink">エマニュエル・ピロ</a><br />
+ <a href="../Page/マルコ・ヴェルナー.md" title="wikilink">マルコ・ヴェルナー</a></p></td>
+<td><p>LMP1</p></td>
+<td><p>368</p></td>
+<td><p><strong>3位</strong></p></td>
+<td><p><strong>3位</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2005年のル・マン24時間レース" title="wikilink">2005年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トム・クリステンセン" title="wikilink">トム・クリステンセン</a><br />
+ <a href="../Page/マルコ・ヴェルナー.md" title="wikilink">マルコ・ヴェルナー</a></p></td>
+<td><p>LMP1</p></td>
+<td><p>370</p></td>
+<td><p><strong>1位</strong></p></td>
+<td><p><strong>1位</strong></p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
-
-  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 #### アメリカン・ル・マン・シリーズ
 
@@ -953,134 +948,141 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 
   - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
-#### ル・マン24時間レース
+### グランドツーリングカー
+
+#### BPR GT
 
 <table>
 <thead>
 <tr class="header">
 <th><p>年</p></th>
 <th><p>チーム</p></th>
-<th><p>コ・ドライバー</p></th>
 <th><p>使用車両</p></th>
 <th><p>クラス</p></th>
-<th><p>周回</p></th>
-<th><p>総合順位</p></th>
-<th><p>クラス順位</p></th>
+<th><p>1</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+<th><p>6</p></th>
+<th><p>7</p></th>
+<th><p>8</p></th>
+<th><p>9</p></th>
+<th><p>10</p></th>
+<th><p>11</p></th>
+<th><p>12</p></th>
+<th><p>順位</p></th>
+<th><p>ポイント</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年のル・マン24時間レース" title="wikilink">1990年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リチャード・ロイド・レーシング" title="wikilink">リチャード・ロイド・レーシング</a></p></td>
-<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マヌエル・ロイター</a><br />
- <a href="../Page/ジェームス・ウィーバー.md" title="wikilink">ジェームス・ウィーバー</a></p></td>
-<td><p><a href="../Page/ポルシェ・962.md" title="wikilink">ポルシェ・962 GTi</a>C</p></td>
-<td><p>C1</p></td>
-<td><p>181</p></td>
-<td><p>DNF</p></td>
-<td><p>DNF</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年のル・マン24時間レース" title="wikilink">1991年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレマー・レーシング" title="wikilink">ポルシェ・クレマー・レーシング</a></p></td>
-<td><p><a href="../Page/マヌエル・ロイター.md" title="wikilink">マヌエル・ロイター</a><br />
- <a href="../Page/ハリ・トイヴォネン.md" title="wikilink">ハリ・トイヴォネン</a></p></td>
-<td><p><a href="../Page/ポルシェ・962.md" title="wikilink">ポルシェ・962</a>CK6</p></td>
-<td><p>C2</p></td>
-<td><p>343</p></td>
-<td><p>9位</p></td>
-<td><p>9位</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1995年のル・マン24時間レース" title="wikilink">1995年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国際開発レーシング" title="wikilink">国際開発レーシング</a></p></td>
-<td><p><a href="../Page/ヤニック・ダルマス.md" title="wikilink">ヤニック・ダルマス</a><br />
- <a href="../Page/関谷正徳.md" title="wikilink">関谷正徳</a></p></td>
-<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1 GTR</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1995年のBPRグローバルGTシリーズ" title="wikilink">1995年</a></p></td>
+<td><p><a href="../Page/トムス.md" title="wikilink">トヨタ チーム トムス</a></p></td>
+<td><p><a href="../Page/トヨタ・スープラ_LM-GT.md" title="wikilink">トヨタ・スープラ LM-GT</a></p></td>
 <td><p>GT1</p></td>
-<td><p>298</p></td>
-<td><p><strong>1位</strong></p></td>
-<td><p><strong>1位</strong></p></td>
+<td><p><a href="../Page/ヘレス・サーキット.md" title="wikilink">JER</a></p></td>
+<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a></p></td>
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a></p></td>
+<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オートドローム・ド・モンスレリ" title="wikilink">PAR</a></p></td>
+<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></p></td>
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/珠海市街地コース" title="wikilink">ZHU</a><br />
+<small>Ret</small></p></td>
+<td><p>NC</p></td>
+<td><p>0</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1996年のル・マン24時間レース.md" title="wikilink">1996年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1996年のBPRグローバルGTシリーズ" title="wikilink">1996年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガルフ・レーシング_GTC" title="wikilink">ガルフ・レーシング GTC</a></p></td>
-<td><p><a href="../Page/レイ・ベルム.md" title="wikilink">レイ・ベルム</a><br />
- <a href="../Page/ジェームス・ウィーバー.md" title="wikilink">ジェームス・ウィーバー</a></p></td>
+<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1</a>-GTR</p></td>
 <td><p>GT1</p></td>
-<td><p>323</p></td>
-<td><p>9位</p></td>
-<td><p>7位</p></td>
+<td><p><a href="../Page/ポール・リカール・サーキット.md" title="wikilink">PRI</a></p></td>
+<td><p><a href="../Page/モンツァ・サーキット.md" title="wikilink">MNZ</a></p></td>
+<td><p><a href="../Page/ハラマ・サーキット.md" title="wikilink">JAR</a></p></td>
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a></p></td>
+<td><p><a href="../Page/アンデルストープ・サーキット.md" title="wikilink">AND</a></p></td>
+<td><p><strong><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a></strong><br />
+<small>1</small></p></td>
+<td><p><a href="../Page/ブランズ・ハッチ.md" title="wikilink">BRA</a></p></td>
+<td><p><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ノガロ・サーキット" title="wikilink">NOG</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/珠海国際サーキット" title="wikilink">ZHU</a><br />
+<small>3</small></p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1997年のル・マン24時間レース" title="wikilink">1997年</a></p></td>
-<td><p><a href="../Page/シュニッツァー・モータースポーツ.md" title="wikilink">BMWモータースポーツ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・ソパー" title="wikilink">スティーブ・ソパー</a><br />
- <a href="../Page/ネルソン・ピケ.md" title="wikilink">ネルソン・ピケ</a></p></td>
-<td><p>GT1</p></td>
-<td><p>236</p></td>
-<td><p>DNF</p></td>
-<td><p>DNF</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1999年のル・マン24時間レース" title="wikilink">1999年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・クリステンセン" title="wikilink">トム・クリステンセン</a><br />
- <a href="https://ja.wikipedia.org/wiki/ヨルグ・ミュラー" title="wikilink">ヨルグ・ミュラー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BMW・V12_LMR" title="wikilink">BMW・V12 LMR</a></p></td>
-<td><p>LMP</p></td>
-<td><p>304</p></td>
-<td><p>DNF</p></td>
-<td><p>DNF</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2002年のル・マン24時間レース" title="wikilink">2002年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライリーアンドスコット" title="wikilink">チーム・キャデラック</a></p></td>
-<td><p><a href="../Page/エリック・ベルナール.md" title="wikilink">エリック・ベルナール</a><br />
- <a href="../Page/エマニュエル・コラール.md" title="wikilink">エマニュエル・コラール</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キャデラック・ノーススター・LMP02" title="wikilink">キャデラック・ノーススター・LMP02</a></p></td>
-<td><p>LMP900</p></td>
-<td><p>334</p></td>
-<td><p>12位</p></td>
-<td><p>10位</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2003年のル・マン24時間レース" title="wikilink">2003年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンピオン・レーシング" title="wikilink">チャンピオン・レーシング</a></p></td>
-<td><p><a href="../Page/エマニュエル・ピロ.md" title="wikilink">エマニュエル・ピロ</a><br />
- <a href="../Page/ステファン・ヨハンソン.md" title="wikilink">ステファン・ヨハンソン</a></p></td>
-<td><p><a href="../Page/アウディ・R8_(レーシングカー).md" title="wikilink">アウディ・R8</a></p></td>
-<td><p>LMP900</p></td>
-<td><p>372</p></td>
-<td><p><strong>3位</strong></p></td>
-<td><p><strong>1位</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2004年のル・マン24時間レース" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャンピオン・レーシング" title="wikilink">ADT チャンピオン・レーシング</a></p></td>
-<td><p><a href="../Page/エマニュエル・ピロ.md" title="wikilink">エマニュエル・ピロ</a><br />
- <a href="../Page/マルコ・ヴェルナー.md" title="wikilink">マルコ・ヴェルナー</a></p></td>
-<td><p>LMP1</p></td>
-<td><p>368</p></td>
-<td><p><strong>3位</strong></p></td>
-<td><p><strong>3位</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年のル・マン24時間レース" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トム・クリステンセン" title="wikilink">トム・クリステンセン</a><br />
- <a href="../Page/マルコ・ヴェルナー.md" title="wikilink">マルコ・ヴェルナー</a></p></td>
-<td><p>LMP1</p></td>
-<td><p>370</p></td>
-<td><p><strong>1位</strong></p></td>
-<td><p><strong>1位</strong></p></td>
-<td></td>
-<td></td>
+<td><p>32位</p></td>
+<td><p>14</p></td>
 </tr>
 </tbody>
 </table>
+
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
+
+#### FIA GT選手権
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>チーム</p></th>
+<th><p>使用車両</p></th>
+<th><p>クラス</p></th>
+<th><p>1</p></th>
+<th><p>2</p></th>
+<th><p>3</p></th>
+<th><p>4</p></th>
+<th><p>5</p></th>
+<th><p>6</p></th>
+<th><p>7</p></th>
+<th><p>8</p></th>
+<th><p>9</p></th>
+<th><p>10</p></th>
+<th><p>11</p></th>
+<th><p>順位</p></th>
+<th><p>ポイント</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年のFIA_GT選手権" title="wikilink">1997年</a></p></td>
+<td><p><a href="../Page/シュニッツァー・モータースポーツ.md" title="wikilink">BMWモータースポーツ</a></p></td>
+<td><p><a href="../Page/マクラーレン・F1.md" title="wikilink">マクラーレン・F1</a>-GTR</p></td>
+<td><p>GT1</p></td>
+<td><p><em><a href="../Page/ホッケンハイムリンク.md" title="wikilink">HOC</a></em><br />
+<small>1</small></p></td>
+<td><p><a href="../Page/シルバーストン・サーキット.md" title="wikilink">SIL</a><br />
+<small>3</small></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヘルシンキ・サンダー" title="wikilink">HEL</a></strong><br />
+<small>1</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニュルブルクリンク" title="wikilink">NÜR</a><br />
+<small>3</small></p></td>
+<td><p><strong><a href="../Page/スパ・フランコルシャン.md" title="wikilink">SPA</a></strong><br />
+<small>1</small></p></td>
+<td><p><a href="../Page/レッドブル・リンク.md" title="wikilink">A1R</a><br />
+<small>3</small></p></td>
+<td><p><a href="../Page/鈴鹿サーキット.md" title="wikilink">SUZ</a><br />
+<small>4</small></p></td>
+<td><p><a href="../Page/ドニントン・パーク.md" title="wikilink">DON</a><br />
+<small>3</small></p></td>
+<td><p><a href="../Page/ムジェロ・サーキット.md" title="wikilink">MUG</a><br />
+<small>1</small></p></td>
+<td><p><strong><a href="../Page/セブリング・インターナショナル・レースウェイ.md" title="wikilink">SEB</a></strong><br />
+<small>16</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラグナ・セカ" title="wikilink">LAG</a><br />
+<small>Ret</small></p></td>
+<td><p><strong>2位</strong></p></td>
+<td><p><strong>59</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+  - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink") ([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 ### ツーリングカー
 

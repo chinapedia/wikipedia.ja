@@ -1,7 +1,7 @@
 > この記事は[Javac](https://ja.wikipedia.org/wiki/Javac)から翻訳されています。
 
 
-**javac**（「ジャバシー」や「ジャバック」と発音される）は最も基本的な[Javaコンパイラ](../Page/Javaコンパイラ.md "wikilink")で、[オラクルの](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[Java Development Kit](../Page/Java_Development_Kit.md "wikilink") (JDK) に含まれる。
+**javac**（「ジャバシー」や「ジャバック」と発音される）は最も基本的な[Javaコンパイラ](../Page/Javaコンパイラ.md "wikilink")で、[オラクルの](../Page/オラクル_\(企業\).md "wikilink")[Java Development Kit](../Page/Java_Development_Kit.md "wikilink") (JDK) に含まれる。
 
 javacコンパイラは[Java](https://ja.wikipedia.org/wiki/Java "wikilink")言語仕様 (JLS) に準拠する[ソースコード](../Page/ソースコード.md "wikilink")を入力として、[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")仕様 (JVMS) に準拠する[バイトコードを生成する](https://ja.wikipedia.org/wiki/Javaバイトコード "wikilink")。
 

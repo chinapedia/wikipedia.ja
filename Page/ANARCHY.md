@@ -99,7 +99,7 @@
   - MIGHTY WARRIORS / [PKCZ](https://ja.wikipedia.org/wiki/PKCZ "wikilink")®︎ feat. [CRAZY BOY](https://ja.wikipedia.org/wiki/ELLY "wikilink"), ANARCH, [SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink"), MIGHTY CROWN（MASTA-SIMON & SAMI-T）
   - FUNK JUNGLE / ANARCHY,[SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink") & [CRAZYBOY](https://ja.wikipedia.org/wiki/ELLY "wikilink")
   - BBFL / ANARCHY & [SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink")
-  - CLAPTIME / [CRAZYBOY](https://ja.wikipedia.org/wiki/ELLY "wikilink") feat. ANARCHY, [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), [SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink"), [DABO](../Page/DABO.md "wikilink")
+  - CLAPTIME / [CRAZYBOY](https://ja.wikipedia.org/wiki/ELLY "wikilink") feat. ANARCHY, [VERBAL](../Page/VERBAL.md "wikilink"), [SWAY](https://ja.wikipedia.org/wiki/SWAY_\(ラッパー\) "wikilink"), [DABO](../Page/DABO.md "wikilink")
   - T-REX feat. [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink"), CRAZYBOY, ANARCHY / PKCZ®︎
   - DREAM BOYZ / MIGHTY WARRIORS
   - GOOD LIFE / MIGHTY WARRIORS

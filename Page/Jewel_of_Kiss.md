@@ -1,7 +1,7 @@
 > この記事は[Jewel of Kiss](https://ja.wikipedia.org/wiki/Jewel_of_Kiss)から翻訳されています。
 
 
-「**Jewel of Kiss**」（ジュエル・オブ・キス）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の15枚目のシングル。[2004年](../Page/2004年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。
+「**Jewel of Kiss**」（ジュエル・オブ・キス）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の15枚目のシングル。[2004年](../Page/2004年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。
 
 ## 解説
 

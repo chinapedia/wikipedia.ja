@@ -284,7 +284,7 @@ To LOVEる -とらぶる- ダークネス 2nd（第2期）</p></th>
     オキワナ星に棲む、意思を持った植物。根の部分を触手のように自由自在に操り、人間を縛り上げたり、つるし上げたりすることができる。モモがオキワナ星に訪れて以来の友達。
 
   - （ウリ星の）食用スイカ
-    声 - [宮原弘和](https://ja.wikipedia.org/wiki/宮原弘和 "wikilink")
+    声 - [宮原弘和](../Page/宮原弘和.md "wikilink")
 
     味にプライドを持っている巨大スイカ。本来は食用なので本来はおとなしいが、プライドをキズつけられると怒り、人を襲うようになる。
 
@@ -1463,7 +1463,7 @@ TBS<br />
 <tr class="odd">
 <td><p>もっとトラブル21</p></td>
 <td><p>おかしな春菜ちゃん</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山下敏成" title="wikilink">山下敏成</a>、浦野達也</p></td>
+<td><p><a href="../Page/山下敏成.md" title="wikilink">山下敏成</a>、浦野達也</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2803,7 +2803,7 @@ GNXA-7358（通常版）</p></td>
     2008年[10月2日](../Page/10月2日.md "wikilink")にマーベラスエンターテイメントより発売。
     [PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。ジャンルは「2Dアドベンチャー」。
   - To LOVEる -とらぶる- ダークネス -Idol Revolution-
-    [2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")より[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")で配信されている[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[87\]。その後、2014年[11月4日](../Page/11月4日.md "wikilink")より[Amebaゲーム](https://ja.wikipedia.org/wiki/Ameba_（ネットサービス） "wikilink")\[88\]、[2015年](../Page/2015年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")より[DMM.com](../Page/DMM.com.md "wikilink")\[89\]にて配信が開始されている。
+    [2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")より[Mobage](../Page/Mobage.md "wikilink")で配信されている[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")\[87\]。その後、2014年[11月4日](../Page/11月4日.md "wikilink")より[Amebaゲーム](https://ja.wikipedia.org/wiki/Ameba_（ネットサービス） "wikilink")\[88\]、[2015年](../Page/2015年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")より[DMM.com](../Page/DMM.com.md "wikilink")\[89\]にて配信が開始されている。
   - To LOVEる -とらぶる- ダークネス バトルエクスタシー
     2014年[5月22日](../Page/5月22日.md "wikilink")に[フリュー](../Page/フリュー.md "wikilink")より発売。
     [PlayStation Vita用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")。ジャンルは「超快楽ハーレムアクション」。

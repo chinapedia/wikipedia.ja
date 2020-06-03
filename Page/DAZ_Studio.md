@@ -9,7 +9,7 @@
 
 ## 概要
 
-既製の人体モデル(**DAZ Studio**ではフィギュアと呼ぶ)をモーフで[キャラクターを作りレンダリングし](https://ja.wikipedia.org/wiki/キャラクタージェネレーター "wikilink")、画像や動画を作成する。フィギュアのモーフ（顔立ち、体型、表情）やポーズ、テクスチャ、服などのデータは購入するか別のソフトウェアで作成するのが一般的であり、 DAZ 3D社の公式ショップでは多数のアイテムが購入できるほか、モデラーの[Hexagon](https://ja.wikipedia.org/wiki/Hexagon_\(ソフトウェア\) "wikilink")、[Carraraや景観生成ソフトの](../Page/Carrara_\(ソフトウェア\).md "wikilink")[Bryce](https://ja.wikipedia.org/wiki/Bryce "wikilink")などのソフトも販売されている。そもそもDAZ Studio自体がDAZのショップの商品の一つとして、本来有料のものが期間限定で無料で販売されるという形式となっており、入手にはDAZ 3Dのアカウントが必要。
+既製の人体モデル(**DAZ Studio**ではフィギュアと呼ぶ)をモーフで[キャラクターを作りレンダリングし](https://ja.wikipedia.org/wiki/キャラクタージェネレーター "wikilink")、画像や動画を作成する。フィギュアのモーフ（顔立ち、体型、表情）やポーズ、テクスチャ、服などのデータは購入するか別のソフトウェアで作成するのが一般的であり、 DAZ 3D社の公式ショップでは多数のアイテムが購入できるほか、モデラーの[Hexagon](https://ja.wikipedia.org/wiki/Hexagon_\(ソフトウェア\) "wikilink")、[Carraraや景観生成ソフトの](../Page/Carrara_\(ソフトウェア\).md "wikilink")[Bryce](../Page/Bryce.md "wikilink")などのソフトも販売されている。そもそもDAZ Studio自体がDAZのショップの商品の一つとして、本来有料のものが期間限定で無料で販売されるという形式となっており、入手にはDAZ 3Dのアカウントが必要。
 
 DAZ社は元々Poser向けに「Victoria」(女性フィギュア)や「Michael」（男性フィギュア）と言ったフィギュアやアイテムを販売しており、「Victoria 4」や「Michael 4」と言ったフィギュアが主力であった世代（第4世代）より以前では、DAZ Studio向けフィギュアはPoserとの[互換性](../Page/互換性.md "wikilink")があった。そもそも、これらのフィギュアは元々Poser向けフィギュアであり、自社で販売しているPoser向けアイテムの販売促進のためにPoserと互換性のあるDAZ Studioを無料で配布し始めたという経緯がある。VictoriaやMichaelシリーズはPoser向けフィギュアとして事実上の標準であり、第4世代フィギュアまではDAZ 3D社とPoserは共存関係にあった。しかし、2011年にPoserとDAZ Studioがそれぞれ互換性の無い独自の新フィギュア技術を採用したことから、それまでのような共存関係はなくなった。
 
@@ -84,7 +84,7 @@ DAZ Studio は、[Poser](../Page/Poser.md "wikilink")で作成されたデータ
 
 開発当初は[Poser](../Page/Poser.md "wikilink")のサブセット的な印象が強かったが、頻繁にバージョンアップを繰り返し続けて機能の向上がはかられており、現在では、[Poser](../Page/Poser.md "wikilink")よりも優れた機能が搭載されている。
 
-[Poser](../Page/Poser.md "wikilink")は景観生成ソフト[Vue](https://ja.wikipedia.org/wiki/Vue "wikilink")との親和性が高く、[Poser](../Page/Poser.md "wikilink")で作成したデータを[Vue](https://ja.wikipedia.org/wiki/Vue "wikilink")に読み込んでリアルな景観レンダリングをおこなうことが出来るが、DAZ Studioは景観生成ソフト[Bryce](https://ja.wikipedia.org/wiki/Bryce "wikilink")と親和性が高く、[Poser](../Page/Poser.md "wikilink")と[Vue](https://ja.wikipedia.org/wiki/Vue "wikilink")の関係によく似た対応付けになっている。
+[Poser](../Page/Poser.md "wikilink")は景観生成ソフト[Vue](https://ja.wikipedia.org/wiki/Vue "wikilink")との親和性が高く、[Poser](../Page/Poser.md "wikilink")で作成したデータを[Vue](https://ja.wikipedia.org/wiki/Vue "wikilink")に読み込んでリアルな景観レンダリングをおこなうことが出来るが、DAZ Studioは景観生成ソフト[Bryce](../Page/Bryce.md "wikilink")と親和性が高く、[Poser](../Page/Poser.md "wikilink")と[Vue](https://ja.wikipedia.org/wiki/Vue "wikilink")の関係によく似た対応付けになっている。
 
 DAZ Studio 4.0からは新しくGenesisというユニメッシュのフィギュアを採用したが、GenesisはTriAxと呼ばれる独自のウェイトマップ技術がベースとなっているため、発表当初は[Poser](../Page/Poser.md "wikilink")では利用できなかった。その後、Poser9SR3.1でプラグインが利用できるようになり、OpenSubdivなどGenesisを動かすために必要な機能が徐々に搭載されたことから、[DAZ 3D社はDSON](https://ja.wikipedia.org/wiki/DAZ_3D "wikilink") Importer for Poserプラグインを開発し、Poserユーザー向けにリリースした。これによって、Poser上でもGenesis1/2が利用できるようになった。ただし、最新バージョンであるGenesis3はDAZ Studio専用であり、Poserでは利用できない。（2015年7月現在）
 

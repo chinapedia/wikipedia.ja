@@ -13,7 +13,7 @@
 
 これらのタービンブレードなど主要部品は、[ケベック州](https://ja.wikipedia.org/wiki/ケベック州 "wikilink")ブロモン、[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")[フックセット](https://ja.wikipedia.org/wiki/フックセット_\(ニューハンプシャー州\) "wikilink")、[ケンタッキー州](../Page/ケンタッキー州.md "wikilink")マディソンヴィル、[バーモント州](../Page/バーモント州.md "wikilink")[ラトランドなどで分散生産されている](https://ja.wikipedia.org/wiki/ラトランド_\(バーモント州\) "wikilink")。
 
-同社の主要競合社は、[ロールス・ロイスと](https://ja.wikipedia.org/wiki/ロールス・ロイス・ホールディングス "wikilink")[プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink")である。フランスの航空エンジンメーカー・[スネクマ](https://ja.wikipedia.org/wiki/スネクマ "wikilink")(Snecma)とは、1974年に[CFMインターナショナル](../Page/CFMインターナショナル.md "wikilink")を設立し、民生用中型エンジン分野で提携している。大型機市場ではライバルのプラット・アンド・ホイットニーと[エンジン・アライアンス](https://ja.wikipedia.org/wiki/エンジン・アライアンス "wikilink")を立ち上げ、ロールス・ロイスに対抗した。また小型機市場では[本田技研工業](../Page/本田技研工業.md "wikilink")との合弁企業[GE・ホンダ・エアロ・エンジン](../Page/GE・ホンダ・エアロ・エンジン.md "wikilink")を設立した。
+同社の主要競合社は、[ロールス・ロイスと](../Page/ロールス・ロイス・ホールディングス.md "wikilink")[プラット・アンド・ホイットニー](../Page/プラット・アンド・ホイットニー.md "wikilink")である。フランスの航空エンジンメーカー・[スネクマ](../Page/スネクマ.md "wikilink")(Snecma)とは、1974年に[CFMインターナショナル](../Page/CFMインターナショナル.md "wikilink")を設立し、民生用中型エンジン分野で提携している。大型機市場ではライバルのプラット・アンド・ホイットニーと[エンジン・アライアンス](https://ja.wikipedia.org/wiki/エンジン・アライアンス "wikilink")を立ち上げ、ロールス・ロイスに対抗した。また小型機市場では[本田技研工業](../Page/本田技研工業.md "wikilink")との合弁企業[GE・ホンダ・エアロ・エンジン](../Page/GE・ホンダ・エアロ・エンジン.md "wikilink")を設立した。
 
 1950年代には[ターボジェットエンジン](../Page/ターボジェットエンジン.md "wikilink")が[多軸化しつつある中で超音速機には単軸ターボジェットこそが最適との考えから](https://ja.wikipedia.org/wiki/多軸式圧縮機 "wikilink")[J79](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_J79 "wikilink")、[J85](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_J85 "wikilink")、といった単軸エンジンを開発、当時の戦闘機等に搭載され、民間機向けの派生型も製造された。高バイパス[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink")が登場した1960年代になると超音速用ターボジェットにおいても多軸式が単軸より優秀と判断して路線を転換し超音速機用の2軸ターボジェットも製造するようになった。こうしてGE15が生まれ、その発展型としてYJ101を開発、これはF404へと進化した。
 
@@ -35,7 +35,7 @@ GEAEの末期には、アメリカの航空機メーカー・[ボーイング](.
 
 <!-- end list -->
 
-  - [J33](https://ja.wikipedia.org/wiki/アリソン_J33 "wikilink") (I-40), [アリソンに生産移管](https://ja.wikipedia.org/wiki/アリソン・エンジン "wikilink") (1945) - [ロールス・ロイス ダーウェントのコピー](https://ja.wikipedia.org/wiki/ロールス・ロイス_ダーウェント "wikilink")
+  - [J33](https://ja.wikipedia.org/wiki/アリソン_J33 "wikilink") (I-40), [アリソンに生産移管](../Page/アリソン・エンジン.md "wikilink") (1945) - [ロールス・ロイス ダーウェントのコピー](https://ja.wikipedia.org/wiki/ロールス・ロイス_ダーウェント "wikilink")
       - [ロッキード P-80/F-80 シューティングスター](../Page/F-80_\(戦闘機\).md "wikilink")
       - [ロッキード T-33 シューティングスター](../Page/T-33_\(航空機\).md "wikilink")
 
@@ -158,7 +158,7 @@ GEAEの末期には、アメリカの航空機メーカー・[ボーイング](.
 
 <!-- end list -->
 
-  - [F136](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック/ロールス・ロイス_F136 "wikilink") [ロールス・ロイス・ホールディングス](https://ja.wikipedia.org/wiki/ロールス・ロイス・ホールディングス "wikilink")と共同開発。開発中止。
+  - [F136](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック/ロールス・ロイス_F136 "wikilink") [ロールス・ロイス・ホールディングス](../Page/ロールス・ロイス・ホールディングス.md "wikilink")と共同開発。開発中止。
       - [ロッキード・マーチン F-35 ライトニングII](../Page/F-35_\(戦闘機\).md "wikilink")（搭載されず）
 
 <!-- end list -->
@@ -194,7 +194,7 @@ GEAEの末期には、アメリカの航空機メーカー・[ボーイング](.
 
 <!-- end list -->
 
-  - [CFM56/F108](https://ja.wikipedia.org/wiki/CFMインターナショナルCFM56 "wikilink")（[スネクマ](https://ja.wikipedia.org/wiki/スネクマ "wikilink")と共同開発、1982年）
+  - [CFM56/F108](https://ja.wikipedia.org/wiki/CFMインターナショナルCFM56 "wikilink")（[スネクマ](../Page/スネクマ.md "wikilink")と共同開発、1982年）
       - [エアバス A320 ファミリー](../Page/エアバスA320.md "wikilink")
       - [エアバス A340-200/-300](../Page/エアバスA340.md "wikilink")
       - [ボーイング KC-135R ストラトタンカー](../Page/KC-135_\(航空機\).md "wikilink") （KC-135のエンジンを変更したもの）

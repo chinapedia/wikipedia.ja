@@ -291,7 +291,7 @@
       -
         BGM数曲
         サウンドトラック「FairChild Original Soundtrack」(2008年1月16日発売)
-  - 『[ナギサの](https://ja.wikipedia.org/wiki/ナギサの "wikilink")\[26\]』(2007年12月14日発売)
+  - 『[ナギサの](../Page/ナギサの.md "wikilink")\[26\]』(2007年12月14日発売)
       -
         BGM数曲
         EDテーマ「星夏」（歌：[KAKO](https://ja.wikipedia.org/wiki/KAKO "wikilink")）
@@ -420,7 +420,7 @@
       -
         全BGM
         主題歌「ニブルヘイム」
-        EDテーマ「祈りの虹」（歌：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink")）
+        EDテーマ「祈りの虹」（歌：[Duca](../Page/Duca.md "wikilink")）
   - 『[初恋1/1](https://ja.wikipedia.org/wiki/初恋1/1 "wikilink")\[41\]』(2012年6月29日発売)
       -
         BGM数曲
@@ -798,7 +798,7 @@
       - 「あの日、あなたと」（歌：真理絵）作編曲
       - 「翼を持たない少女」（歌：霜月はるか）作編曲
       - 「永遠の楽園」（歌：[MAMI](https://ja.wikipedia.org/wiki/柳麻美 "wikilink")）作編曲
-      - 「ニブルヘイム」（歌：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink")）作編曲
+      - 「ニブルヘイム」（歌：[Duca](../Page/Duca.md "wikilink")）作編曲
       - 「祈りの虹」（歌：Duca）作編曲
   - [AMNESIA](https://ja.wikipedia.org/wiki/AMNESIA "wikilink") SONG COLLECTION 『Remenber』(2012年5月23日発売)
       - 「AWAKE 〜UPPER REGION Ver.〜」(歌：[砂月](https://ja.wikipedia.org/wiki/砂月 "wikilink"))編曲【万葉】名義

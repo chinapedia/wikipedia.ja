@@ -9,8 +9,10 @@
 
 2050シリーズや3050シリーズ、3500シリーズで動作した。
 
-HI-UXについては、HP-UXをベースに作られているが両OSについてバイナリ面での互換性はない。(ただしその上で動作する日立製作所製オープンミドルウェアについては互換性が比較的高い)
+HI-UXについては、が両OSについてバイナリ面での互換性はない。(ただしその上で動作する日立製作所製オープンミドルウェアについては互換性が比較的高い)
 
-黎明期には[X Window Systemではない独自マルチウィンドウシステムのバージョンも存在する](../Page/X_Window_System.md "wikilink")。
+当初はHウィンドウと呼ばれる独自マルチウィンドウシステムが用意された。その後[X Window Systemを選択できるようになり](../Page/X_Window_System.md "wikilink")、やがてそちらへ完全移行した。
+
+
 
 [Category:Unix系オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:Unix系オペレーティングシステム "wikilink") [Category:日立製作所](https://ja.wikipedia.org/wiki/Category:日立製作所 "wikilink")

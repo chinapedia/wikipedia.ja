@@ -32,7 +32,7 @@
 | 1998 | [エルトン・ブランド](../Page/エルトン・ブランド.md "wikilink")                                                                   |
 | 1999 | [ゲイリー・ペイトン](../Page/ゲイリー・ペイトン.md "wikilink")                                                                   |
 | 2000 | [アロンゾ・モーニング](../Page/アロンゾ・モーニング.md "wikilink")                                                                 |
-| 2001 | [クリス・デューホン](https://ja.wikipedia.org/wiki/クリス・デューホン "wikilink")                                                |
+| 2001 | [クリス・デューホン](../Page/クリス・デューホン.md "wikilink")                                                                   |
 | 2002 | [レジー・ミラー](../Page/レジー・ミラー.md "wikilink")                                                                       |
 | 2003 | [ティム・ダンカン](../Page/ティム・ダンカン.md "wikilink")                                                                     |
 | 2004 | [ショーン・メイ](https://ja.wikipedia.org/wiki/ショーン・メイ "wikilink") & [クリス・ポール](../Page/クリス・ポール.md "wikilink")         |

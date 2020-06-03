@@ -1,7 +1,7 @@
 > この記事は[Sun Ray](https://ja.wikipedia.org/wiki/Sun_Ray)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Sunray.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SunRay.JPG "wikilink") [SunRay2FS.JPG](https://ja.wikipedia.org/wiki/File:SunRay2FS.JPG "fig:SunRay2FS.JPG") **Sun Ray**（サン・レイ）とは[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")（以前は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）が発売している[シンクライアント](../Page/シンクライアント.md "wikilink")シリーズないしソリューションとしての総称。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Sunray.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:SunRay.JPG "wikilink") [SunRay2FS.JPG](https://ja.wikipedia.org/wiki/File:SunRay2FS.JPG "fig:SunRay2FS.JPG") **Sun Ray**（サン・レイ）とは[オラクル](../Page/オラクル_\(企業\).md "wikilink")（以前は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")）が発売している[シンクライアント](../Page/シンクライアント.md "wikilink")シリーズないしソリューションとしての総称。
 
 ## 概要
 

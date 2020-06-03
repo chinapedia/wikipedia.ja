@@ -220,7 +220,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 **No.26**：1988年12月号
 
   - この号から無料化される
-  - WHAT'S NAMCO?の記事として、[中潟憲雄](https://ja.wikipedia.org/wiki/中潟憲雄 "wikilink")と[藤子不二雄<span class="Unicode">Ⓕ</span>の対談が掲載される](../Page/藤子・F・不二雄.md "wikilink")
+  - WHAT'S NAMCO?の記事として、[中潟憲雄](../Page/中潟憲雄.md "wikilink")と[藤子不二雄<span class="Unicode">Ⓕ</span>の対談が掲載される](../Page/藤子・F・不二雄.md "wikilink")
 
 <ゲーム紹介>
 
@@ -236,7 +236,7 @@ A5判の小冊子で、40ページ前後で構成されていた。
 <ゲーム紹介>
 
   - フェリオス
-  - [ロンパーズ](https://ja.wikipedia.org/wiki/ロンパーズ "wikilink")
+  - [ロンパーズ](../Page/ロンパーズ.md "wikilink")
 
 なお、No.20は存在しない。
 

@@ -134,7 +134,7 @@ PCゲーム『[君が主で執事が俺で](../Page/君が主で執事が俺で.
           - 作詞：林陽花 / 作曲・編曲：ms-jacky
       - Precious Angeric…
           - PCゲーム『黎明のラヴェンデュラ』ED主題歌
-          - 作詞：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink") / 作曲・編曲：[安瀬聖](../Page/安瀬聖.md "wikilink")
+          - 作詞：[Duca](../Page/Duca.md "wikilink") / 作曲・編曲：[安瀬聖](../Page/安瀬聖.md "wikilink")
 
 <!-- end list -->
 
@@ -385,7 +385,7 @@ PCゲーム『[君が主で執事が俺で](../Page/君が主で執事が俺で.
   - **恋色空模様 オリジナルサウンドトラック**
       - フルスロットルHeart
           - PCゲーム『恋色空模様 after happiness and extra hearts』OP主題歌
-          - 歌：[Duca](https://ja.wikipedia.org/wiki/Duca "wikilink") & AiRI / 作詞：AlAi / 作曲・編曲：BAL（内藤侑史&山田屋カズ）
+          - 歌：[Duca](../Page/Duca.md "wikilink") & AiRI / 作詞：AlAi / 作曲・編曲：BAL（内藤侑史&山田屋カズ）
 
 <!-- end list -->
 

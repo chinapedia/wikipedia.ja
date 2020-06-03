@@ -1,7 +1,7 @@
 > この記事は[ドラキュラ伝説II](https://ja.wikipedia.org/wiki/ドラキュラ伝説II)から翻訳されています。
 
 
-『**ドラキュラ伝説II**』（ドラキュラでんせつツー、英題: *[Castlevania II: Belmont's Revenge](https://ja.wikipedia.org/wiki/:en:Castlevania_II:_Belmont's_Revenge "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1991年](../Page/1991年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフトのアクションゲーム。
+『**ドラキュラ伝説II**』（ドラキュラでんせつツー、英題: *[Castlevania II: Belmont's Revenge](https://ja.wikipedia.org/wiki/:en:Castlevania_II:_Belmont's_Revenge "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1991年](../Page/1991年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")に発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフトの[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
 ## 概要
 

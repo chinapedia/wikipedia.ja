@@ -25,7 +25,7 @@
         [ライナーノーツ](../Page/ライナーノーツ.md "wikilink")には「アルバム『[BROKEN HEART](../Page/BROKEN_HEART.md "wikilink")』からの収録」と書かれているが、実際に収録されているのは[ライブ音源である](../Page/演奏会.md "wikilink")。
 4.  **TRY ME** \[4:13\]
       -
-        作詞・作曲：[つのだ・ひろ](../Page/つのだ☆ひろ.md "wikilink") 編曲：[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")
+        作詞・作曲：[つのだ・ひろ](../Page/つのだ☆ひろ.md "wikilink") 編曲：[佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink")
         2ndシングル。
 5.  **99% I LOVE YOU** \[3:37\]
       -

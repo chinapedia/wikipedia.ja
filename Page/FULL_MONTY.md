@@ -10,7 +10,7 @@
 ### 現メンバー/2019年3月復活時
 
   - **KEiTARO**（[10月8日](../Page/10月8日.md "wikilink") - ）ボーカル･ギター
-  - **NAOKI**（[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") - ）ギター･ボーカル
+  - **NAOKI**（[6月2日](../Page/6月2日.md "wikilink") - ）ギター･ボーカル
   - **KUNIAKI**（[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - ）ベース･ボーカル
   - **HIRAI**（[9月18日](../Page/9月18日.md "wikilink") - ）ドラム
   - **RyuTARO**（[2月11日](../Page/2月11日.md "wikilink") - ）トロンボーン･ボーカル
@@ -613,7 +613,7 @@
 
 ### Other
 
-  - [森口博子](../Page/森口博子.md "wikilink") featured FULL MONTY「[福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ダイエーホークス "wikilink") いざゆけ若鷹軍団」（2003年3月26日）
+  - [森口博子](../Page/森口博子.md "wikilink") featured FULL MONTY「[福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink") いざゆけ若鷹軍団」（2003年3月26日）
 
 ## 関連項目
 

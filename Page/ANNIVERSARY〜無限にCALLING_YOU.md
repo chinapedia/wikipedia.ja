@@ -5,11 +5,11 @@
 
 ## 解説
 
-ジャケットは[8cmCDシングルと](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[シングルカセットではユーミンの口と指のアップだが](../Page/コンパクトカセット.md "wikilink")、[7インチシングル盤は顔全体が写っている](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。
-
 「ANNIVERSARY〜無限にCALLING YOU」は[1989年](../Page/1989年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から翌[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")まで[KDD企業イメージソングとして使われた](https://ja.wikipedia.org/wiki/ケイディディ "wikilink")。結婚を祝う内容からかお祝い曲のイメージも強く、[NTTのお祝いメロディ](../Page/日本電信電話.md "wikilink")[電報](../Page/電報.md "wikilink")の曲としても使用された。[アメリカロケの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が作成されている。
 
-なお、松任谷由実として発売された8枚目から22枚目のシングルが[エアメイルをイメージした](https://ja.wikipedia.org/wiki/エアメール "wikilink")『**YUMING SWEETS**』という[8cmシングルCDシリーズとして同時発売し](https://ja.wikipedia.org/wiki/8センチCD "wikilink")、オリコンシングルチャート100位以内に16作品全てチャートインする快挙を成し遂げた。全て購入すると[切手](../Page/切手.md "wikilink")をイメージした[ステッカーや](../Page/シール.md "wikilink")[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")柄BOXがもらえた。
+ジャケットは[8cmCDシングルと](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[シングルカセットではユーミンの口と指のアップだが](../Page/コンパクトカセット.md "wikilink")、[7インチシングル盤は顔全体が写っている](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。
+
+当CDと同時発売で、過去のシングルCD16作品の企画もの『**YUMING SWEETS**』が、オリコンシングルチャート100位以内に16作品全てチャートインする快挙となった。これは、松任谷由実名義シングルの8枚目から22枚目を[エアメイルをイメージした](https://ja.wikipedia.org/wiki/エアメール "wikilink")[8cmシングルCDシリーズとしたものだった](https://ja.wikipedia.org/wiki/8センチCD "wikilink")。全CD購入者への贈呈品として、[切手](../Page/切手.md "wikilink")をイメージした[ステッカーや](../Page/シール.md "wikilink")[チョコレート](https://ja.wikipedia.org/wiki/チョコレート "wikilink")柄BOXが用意された。
 
 1.  [潮風にちぎれて](../Page/潮風にちぎれて.md "wikilink")　46位
 2.  [遠い旅路](../Page/遠い旅路.md "wikilink")　56位

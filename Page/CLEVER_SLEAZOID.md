@@ -6,7 +6,7 @@
 ## 概要
 
   - アルバム『[Withering to death.](../Page/Withering_to_death..md "wikilink")』を経ての最初のシングル。アルバムとこのシングルの間には、全国ツアーを始め、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")を始めとした初の欧州公演や、ロックフェスティバル[「Rock am Ring」「Rock im Park」に参加している](https://ja.wikipedia.org/wiki/ロック・アム・リング "wikilink")。
-  - 今回「新しい感覚で」という事で、ジャケットのデザイナーや[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink") (PV) の監督なども今まで関わってきていない新しい人間を起用したという経緯がある。また、PVの撮影には生きた[マダガスカルゴキブリを用意し](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")、それらをステージ上に這わせながら演奏を行った\[1\]。ギター担当の[Dieは](../Page/Die_\(ミュージシャン\).md "wikilink")、虫嫌いであることからこのPV撮影は大変だったとのこと\[2\]。
+  - 今回「新しい感覚で」という事で、ジャケットのデザイナーや[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink") (PV) の監督なども今まで関わってきていない新しい人間を起用したという経緯がある。また、PVの撮影には生きた[マダガスカルゴキブリを用意し](../Page/ゴキブリ.md "wikilink")、それらをステージ上に這わせながら演奏を行った\[1\]。ギター担当の[Dieは](../Page/Die_\(ミュージシャン\).md "wikilink")、虫嫌いであることからこのPV撮影は大変だったとのこと\[2\]。
   - カップリングには、2005年4月29日、30日に[新木場スタジオコーストで行われたライヴの音源を](../Page/STUDIO_COAST.md "wikilink")3曲収録。メンバーの意向で敢えて良くないテイクを選んでいる。映像は、ファンクラブ限定DVD『It withers and withers -Bootlegged-』で見ることができる。
 
 <!-- end list -->
@@ -32,7 +32,7 @@
   - 『[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")』 (\#1)
       -
         再録バージョン。
-  - 『[DECADE 2003-2007](https://ja.wikipedia.org/wiki/DECADE_2003-2007 "wikilink")』 (\#1)
+  - 『[DECADE 2003-2007](../Page/DECADE_2003-2007.md "wikilink")』 (\#1)
       -
         『THE MARROW OF A BONE』収録のバージョンを収録しているほか、直前に収録の曲「THE DEEPER VILENESS」のアウトロから繋げていたイントロが削除されている。
   - 『VESTIGE OF SCRATCHES Disc 2』 (\#13)

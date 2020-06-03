@@ -24,7 +24,7 @@
   - [エアガイツ](../Page/エアガイツ.md "wikilink")（1998年2月26日）※発売元：株式会社[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")、開発元：株式会社[ドリームファクトリー](../Page/ドリームファクトリー_\(企業\).md "wikilink")
   - [ソウルキャリバー](../Page/ソウルキャリバー.md "wikilink")（1998年7月30日）
   - ソウルキャリバー Ver.B
-  - [テクノドライブ](https://ja.wikipedia.org/wiki/テクノドライブ "wikilink")（1998年）※[エレメカ](../Page/エレメカ.md "wikilink")
+  - [テクノドライブ](../Page/テクノドライブ.md "wikilink")（1998年）※[エレメカ](../Page/エレメカ.md "wikilink")
   - [SUPERワールドスタジアム'98](https://ja.wikipedia.org/wiki/SUPERワールドスタジアム#SYSTEM12基盤使用 "wikilink")（1998年）
   - [パカパカパッション](../Page/パカパカパッション.md "wikilink")（1998年）※開発元：株式会社プロデュース
   - [ダービークイズ マイドリームホース](https://ja.wikipedia.org/wiki/ダービークイズ_マイドリームホース "wikilink")（1998年）※開発元：有限会社モス

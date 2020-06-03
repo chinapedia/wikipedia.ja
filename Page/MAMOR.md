@@ -122,7 +122,7 @@
       - [杉本有美](https://ja.wikipedia.org/wiki/杉本有美 "wikilink")（7月号）
       - [清水由紀](../Page/清水由紀.md "wikilink")（8月号）
       - [手島優](https://ja.wikipedia.org/wiki/手島優 "wikilink")（9月号）
-      - [辰巳奈都子](https://ja.wikipedia.org/wiki/辰巳奈都子 "wikilink")（10月号）
+      - [辰巳奈都子](../Page/辰巳奈都子.md "wikilink")（10月号）
       - [次原かな](../Page/次原かな.md "wikilink")（11月号）
       - [愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")（12月号）
 
@@ -147,7 +147,7 @@
   - 2011年
       - [逢沢りな](https://ja.wikipedia.org/wiki/逢沢りな "wikilink")（1月号）
       - [大家志津香](../Page/大家志津香.md "wikilink")（2月号）
-      - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")（3月号）
+      - [石川梨華](../Page/石川梨華.md "wikilink")（3月号）
       - [渡部夕貴](https://ja.wikipedia.org/wiki/渡部夕貴 "wikilink")（5月号）
       - [アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")（7月号）
       - [河北麻友子](../Page/河北麻友子.md "wikilink")（8月号）
@@ -182,7 +182,7 @@
       - [山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")（6月号）
       - [松井絵里奈](../Page/松井絵里奈.md "wikilink")（7月号）
       - [篠崎愛](../Page/篠崎愛.md "wikilink")（8月号）
-      - [足立梨花](https://ja.wikipedia.org/wiki/足立梨花 "wikilink")（9月号）
+      - [足立梨花](../Page/足立梨花.md "wikilink")（9月号）
       - [葉加瀬マイ](https://ja.wikipedia.org/wiki/葉加瀬マイ "wikilink")（10月号）
       - [吉木りさ](../Page/吉木りさ.md "wikilink")（11月号）
       - [渕上舞](https://ja.wikipedia.org/wiki/渕上舞 "wikilink")（12月号）
@@ -289,6 +289,8 @@
       - [渡辺舞](../Page/渡辺舞.md "wikilink")（2月号）
       - [鈴木奈々](https://ja.wikipedia.org/wiki/鈴木奈々 "wikilink")（3月号）
       - [福田愛依](https://ja.wikipedia.org/wiki/福田愛依 "wikilink")（4月号）
+      - [水原ゆか](https://ja.wikipedia.org/wiki/水原ゆか "wikilink")（5月号）
+      - [バービー](https://ja.wikipedia.org/wiki/バービー_\(お笑い芸人\) "wikilink")＆[村上佳菜子](https://ja.wikipedia.org/wiki/村上佳菜子 "wikilink")（6月号）\[29\]
 
 ## 脚注
 
@@ -335,3 +337,4 @@
 26. 創刊以来、唯一の男性起用例
 27.
 28. 表紙はアニメ「ガーリー・エアフォース」のグリペンとイーグル。「防人たちの女神」コーナーは休止され、担当声優である[森嶋優花](https://ja.wikipedia.org/wiki/森嶋優花 "wikilink")と[大和田仁美](https://ja.wikipedia.org/wiki/大和田仁美 "wikilink")の対談を掲載。
+29. [FOD](https://ja.wikipedia.org/wiki/フジテレビオンデマンド "wikilink")『[バービー&村上佳菜子の編集長私、イイ女になりたいの。](https://ja.wikipedia.org/wiki/バービー&村上佳菜子の編集長私、イイ女になりたいの。 "wikilink")』との[タイアップ](../Page/タイアップ.md "wikilink")。

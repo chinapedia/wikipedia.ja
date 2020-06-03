@@ -59,7 +59,7 @@
   - Seymour Duncan DP-190（全弦1音半下げチューニング用）
   - Killer RD Type 5 Strings （「\[ZOMBOID\]」で使用(5 Ugly Kingdom Finalライヴ)。「OBSCURE」PVで使用）
   - Fender Jazz Bass
-  - LAKLAND 55-94 Classic（黒）（全弦1音下げチューニング用。「\[OBSCURE\]」で使用）
+  - LAKLAND 55-94 Classic（黒）（5弦、4弦のみを1音下げたA、D、A、D、Gチューニング。「\[OBSCURE\]」で使用）
   - MUSIC MAN STING RAY（スタジオ用）
   - Edwards E-FV-103B（2003年末ライヴ アンコールで使用）
 
@@ -73,7 +73,7 @@
   - ESP RU-DRIVE White（ドロップC\#チューニング用）
   - ESP RU-DRIVE White（全弦1音下げチューニング用）
   - ESP RU-DRIVE（黒）（全弦1音下げチューニング用）
-  - LAKLAND 55-94 Classic(sliver)（全弦1音下げチューニング用。「\[OBSCURE\]」で使用）
+  - LAKLAND 55-94 Classic(sliver)（5弦、4弦のみを1音下げたA、D、A、D、Gチューニング。「\[OBSCURE\]」で使用）
   - LAKLAND 55-94 Classic（黒）（5弦からC♯、G♯、C♯、F♯、Hi-Bチューニング。「孤独に死す、故に孤独。」で使用）
   - [Sadowsky](https://ja.wikipedia.org/wiki/サドウスキー "wikilink") NYC 5 Strings J Bass（レコーディング用）
 
@@ -82,7 +82,7 @@
   - ESP RU-DRIVE Silver Burst（ドロップC\#チューニング用）
   - ESP RU-DRIVE 3 Tone Sun Burst（全弦1音下げチューニング用）
   - ESP RU-DRIVE White（レギュラーチューニング用
-  - LAKLAND 55-94 Classic(sliver)（全弦1音下げチューニング用。「OBSCURE」で使用）
+  - LAKLAND 55-94 Classic(sliver)（5弦、4弦のみを1音下げたA、D、A、D、Gチューニング。「OBSCURE」で使用）
   - LAKLAND 55-94 Classic（黒）（5弦からC♯、G♯、C♯、F♯、Hi-Bチューニング。「孤独に死す、故に孤独。」で使用）
   - Sadowsky NYC 5 Strings J Bass（レコーディング用）
 
@@ -91,7 +91,7 @@
   - ESP RU-DRIVE Silver Burst（ドロップC\#チューニング用）
   - ESP RU-DRIVE 3 Tone Sun Burst（全弦1音下げチューニング用）
   - ESP RU-DRIVE White（レギュラーチューニング用）
-  - ESP HALIBUT-ASH（全弦1音下げチューニング用。ナットを牛骨仕様に変更している。「OBSCURE」で使用）
+  - ESP HALIBUT-ASH（5弦、4弦のみを1音下げたA、D、A、D、Gチューニング。ナットを牛骨仕様に変更している。「OBSCURE」で使用）
   - ESP HALIBUT-ASH（5弦からC♯、G♯、C♯、F♯、Hi-Bチューニング。「孤独に死す、故に孤独。」「STUCK MAN」「冷血なりせば」で使用）
   - Sadowsky NYC 5 Strings J Bass（レコーディング用）
   - [LAKLAND](https://ja.wikipedia.org/wiki/レイクランド "wikilink") classic 55-94
@@ -112,7 +112,7 @@
   - ESP Toshiya custom 00（5弦からC♯、G♯、C♯、F♯、Hi-Bチューニング）
   - ESP Toshiya custom 01（5弦からC♯、G♯、C♯、F♯、Hi-Bチューニング）
   - ESP HALIBUT-ASH（5弦からA♯、G♯、C♯、F♯、Hi-Bチューニング。「激しさと、この胸の中で絡み付いた灼熱の闇」「残」で使用）
-  - ESP HALIBUT-ASH（全弦1音下げチューニング用。ナットを牛骨仕様に変更している。「OBSCURE」「Deity」で使用）
+  - ESP HALIBUT-ASH（5弦、4弦のみを1音下げたA、D、A、D、Gチューニング。ナットを牛骨仕様に変更している。「OBSCURE」「Deity」で使用）
 
 ## 脚注
 

@@ -8,7 +8,7 @@
 [2020年](../Page/2020年.md "wikilink")時点で、以下のようなものが著名である:
 
   - [javac](https://ja.wikipedia.org/wiki/javac "wikilink")
-    [オラクルから出ている](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[Java Development Kitに含まれている](../Page/Java_Development_Kit.md "wikilink")。
+    [オラクルから出ている](../Page/オラクル_\(企業\).md "wikilink")[Java Development Kitに含まれている](../Page/Java_Development_Kit.md "wikilink")。
   - Jikes
     [C++](../Page/C++.md "wikilink")で書かれた[IBM](../Page/IBM.md "wikilink")から出ている[オープンソース](../Page/オープンソース.md "wikilink")コンパイラであり、最適化のため[静的単一代入](https://ja.wikipedia.org/wiki/静的単一代入 "wikilink")形式の変形を使用している。
   - [GCJ](../Page/GNU_Compiler_for_Java.md "wikilink")

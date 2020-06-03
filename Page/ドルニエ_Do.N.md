@@ -19,7 +19,7 @@
 `| 運用状況=退役`
 `| ユニットコスト=`
 
-}} ドルニエ**Do.N**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前の[日本陸軍の](../Page/大日本帝国陸軍.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")である。設計・試作機製造は[ドルニエ](../Page/ドルニエ.md "wikilink")、量産は[川崎で行われた](../Page/川崎重工業.md "wikilink")。
+}} **　　八七式重爆撃機（Do.N）**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前の[日本陸軍の](../Page/大日本帝国陸軍.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")である。設計・試作機製造は[ドルニエ](../Page/ドルニエ.md "wikilink")、量産は[川崎で行われた](../Page/川崎重工業.md "wikilink")。
 
 ## 概要
 

@@ -235,7 +235,7 @@
   - [菊池康弘](https://ja.wikipedia.org/wiki/菊池康弘 "wikilink")（現所属：[アトミックモンキー](../Page/アトミックモンキー.md "wikilink")）
   - [木村竜二](https://ja.wikipedia.org/wiki/木村裕二 "wikilink")（フリー）
   - [興津和幸](../Page/興津和幸.md "wikilink")（現所属：[ケッケコーポレーション](../Page/ケッケコーポレーション.md "wikilink")）
-  - [勝沼紀義](https://ja.wikipedia.org/wiki/勝沼紀義 "wikilink")（フリー）
+  - [勝沼紀義](../Page/勝沼紀義.md "wikilink")（フリー）
   - [桂一雅](https://ja.wikipedia.org/wiki/桂一雅 "wikilink")（現所属：プロダクション・エース）
   - [神谷和夫](https://ja.wikipedia.org/wiki/神谷和夫 "wikilink")
   - [佐藤友啓](https://ja.wikipedia.org/wiki/佐藤友啓 "wikilink")（現所属：[ディーカラー](https://ja.wikipedia.org/wiki/ディーカラー "wikilink")）
@@ -252,7 +252,7 @@
   - [Ashir](https://ja.wikipedia.org/wiki/Ashir "wikilink")（フリー）
   - [池田亜希子](https://ja.wikipedia.org/wiki/池田亜希子 "wikilink")
   - [梶田夕貴](../Page/梶田夕貴.md "wikilink")（フリー）
-  - [加藤沙織](https://ja.wikipedia.org/wiki/加藤沙織 "wikilink")（現所属：[アクセント](../Page/アクセント_\(芸能プロダクション\).md "wikilink")）
+  - [加藤沙織](../Page/加藤沙織.md "wikilink")（現所属：[アクセント](../Page/アクセント_\(芸能プロダクション\).md "wikilink")）
   - [加藤雅美](https://ja.wikipedia.org/wiki/加藤雅美_\(声優\) "wikilink")
   - [河野ひろみ](https://ja.wikipedia.org/wiki/河野ひろみ "wikilink")（フリー）
   - [こころぎほのか](https://ja.wikipedia.org/wiki/こころぎほのか "wikilink")（フリー）

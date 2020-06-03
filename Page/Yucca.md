@@ -28,7 +28,7 @@
     4.  [オンブラ・マイ・フ](../Page/オンブラ・マイ・フ.md "wikilink")〜歌劇「[セルセ](https://ja.wikipedia.org/wiki/セルセ_\(ヘンデル\) "wikilink")」より
     5.  光の海〜「[亡き王女のためのパヴァーヌ](../Page/亡き王女のためのパヴァーヌ.md "wikilink")」
     6.  ひとり〜歌劇「[真珠採り](https://ja.wikipedia.org/wiki/真珠採り "wikilink")」より
-    7.  [夜の女王のアリア](https://ja.wikipedia.org/wiki/夜の女王のアリア "wikilink")（復讐の炎に燃えて）〜歌劇「[魔笛](../Page/魔笛.md "wikilink")」より
+    7.  [夜の女王のアリア](../Page/夜の女王のアリア.md "wikilink")（復讐の炎に燃えて）〜歌劇「[魔笛](../Page/魔笛.md "wikilink")」より
     8.  [私を泣かせて下さい](https://ja.wikipedia.org/wiki/私を泣かせてください "wikilink")（傷ついた心に涙をながし）〜歌劇「[リナルド](../Page/リナルド_\(オペラ\).md "wikilink")」より
     9.  静寂のしらべ〜[ベルガマスク組曲](../Page/ベルガマスク組曲.md "wikilink")より第3曲「月の光」
     10. 流々（りゅうりゅう）〜歌劇「[カヴァレリア・ルスティカーナ](../Page/カヴァレリア・ルスティカーナ.md "wikilink")」間奏曲

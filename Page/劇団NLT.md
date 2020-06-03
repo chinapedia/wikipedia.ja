@@ -120,7 +120,7 @@
 
   - [藤岡弘、](../Page/藤岡弘、.md "wikilink")
   - [佐々木剛](../Page/佐々木剛.md "wikilink")
-  - [山口豪久](https://ja.wikipedia.org/wiki/山口豪久 "wikilink")
+  - [山口豪久](../Page/山口豪久.md "wikilink")
   - [小野川公三郎](../Page/小野川公三郎.md "wikilink")
   - [夏夕介](../Page/夏夕介.md "wikilink")\[3\]
   - [飛田展男](../Page/飛田展男.md "wikilink")（主に声優として活動中）
@@ -213,7 +213,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>「みごとな女」<a href="https://ja.wikipedia.org/wiki/森本薫" title="wikilink">森本薫</a>作／<a href="https://ja.wikipedia.org/wiki/奥野匡" title="wikilink">奥野匡</a>演出 「驟雨」<a href="../Page/岸田國士.md" title="wikilink">岸田國士</a>作／<a href="https://ja.wikipedia.org/wiki/宮内順子" title="wikilink">宮内順子</a>演出</p>
+<td><p>「みごとな女」<a href="../Page/森本薫.md" title="wikilink">森本薫</a>作／<a href="https://ja.wikipedia.org/wiki/奥野匡" title="wikilink">奥野匡</a>演出 「驟雨」<a href="../Page/岸田國士.md" title="wikilink">岸田國士</a>作／<a href="https://ja.wikipedia.org/wiki/宮内順子" title="wikilink">宮内順子</a>演出</p>
 <p>「大変な心配」クルトリーヌ作</p>
 <p>「留守」岸田國士作／河野宏演出</p></td>
 <td></td>

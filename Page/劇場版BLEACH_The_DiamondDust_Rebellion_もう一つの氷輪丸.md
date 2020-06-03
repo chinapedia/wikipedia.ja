@@ -42,7 +42,7 @@
 
 ### その他現世及び尸魂界関係者
 
-  - [朽木ルキア](https://ja.wikipedia.org/wiki/朽木ルキア "wikilink")（くちき ルキア）
+  - [朽木ルキア](../Page/朽木ルキア.md "wikilink")（くちき ルキア）
     声 - [折笠富美子](../Page/折笠富美子.md "wikilink")
     『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』の準主人公。護廷十三隊十三番隊隊員。本作では乱菊の頼みを受け恋次と共に現世へ赴き、一護と合流する。
   - [阿散井恋次](../Page/阿散井恋次.md "wikilink")（あばらい れんじ）
@@ -198,6 +198,6 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.tv-tokyo.co.jp/bleach/2007/index.html)
+  - [公式サイト](https://www.tv-tokyo.co.jp/bleach/2007/index.html)
 
 [Category:BLEACH](https://ja.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:2007年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2007年のアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:テレビ東京製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ東京製作のアニメ映画 "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:アニプレックスのアニメ映画](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ映画 "wikilink") [Category:東宝製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:東宝製作のアニメ映画 "wikilink") [Category:セガグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:セガグループのアニメ作品 "wikilink") [Category:ソニー・インタラクティブエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ソニー・インタラクティブエンタテインメントのアニメ作品 "wikilink") [Category:ジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジャンプ・コミックスのアニメ作品 "wikilink") [Category:漫画を原作とするアニメ映画](https://ja.wikipedia.org/wiki/Category:漫画を原作とするアニメ映画 "wikilink") [Category:ファンタジーアニメ映画](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ映画 "wikilink") [Category:格闘技を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:格闘技を題材とした映画作品 "wikilink") [Category:阿部記之の監督映画](https://ja.wikipedia.org/wiki/Category:阿部記之の監督映画 "wikilink") [Category:鷺巣詩郎の作曲映画](https://ja.wikipedia.org/wiki/Category:鷺巣詩郎の作曲映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

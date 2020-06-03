@@ -70,7 +70,7 @@
 ### 主題歌
 
   - [Aly & AJ](../Page/Aly_&_AJ.md "wikilink")「こわれそうな愛の歌」(Potential Breakup Song)
-      - ちなみに主役の[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")が「鈴木亜美 joins Aly & AJ」名義で日本語カバーしている。（アルバム「[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")」収録）
+      - ちなみに主役の[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")が「鈴木亜美 joins Aly & AJ」名義で日本語カバーしている。（アルバム「[DOLCE](../Page/DOLCE_\(鈴木亜美のアルバム\).md "wikilink")」収録）
 
 ### 関連商品
 

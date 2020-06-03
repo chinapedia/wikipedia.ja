@@ -23,7 +23,7 @@
   - [ミドルウェア](../Page/ミドルウェア.md "wikilink")
   - *日立オープンミドルウェアシリーズ*
       -
-        [Cosminexus](https://ja.wikipedia.org/wiki/Cosminexus "wikilink")：統合システム構築基盤
+        [Cosminexus](../Page/Cosminexus.md "wikilink")：統合システム構築基盤
         [OpenTP1](../Page/OpenTP1.md "wikilink")：オンライントランザクション処理ソフトウェア
         [HiRDB](../Page/HiRDB.md "wikilink")：スケーラブルデータベース
         [COBOL2002](https://ja.wikipedia.org/wiki/COBOL2002 "wikilink")：ビジネスアプリケーション環境開発

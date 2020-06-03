@@ -54,7 +54,7 @@ ERC 90 サゲーは、[フランス陸軍](../Page/フランス陸軍.md "wikili
 
   - [第1驃騎兵落下傘連隊](../Page/第1驃騎兵落下傘連隊.md "wikilink")（[第11落下傘旅団所属](../Page/第11落下傘旅団_\(フランス陸軍\).md "wikilink")）
   - [第4猟兵連隊](../Page/第4猟兵連隊_\(フランス軍\).md "wikilink")（[第27山岳歩兵旅団所属](../Page/第27山岳歩兵旅団_\(フランス陸軍\).md "wikilink")）
-  - [第1アフリカ猟兵連隊](https://ja.wikipedia.org/wiki/第1アフリカ猟兵連隊_\(フランス軍\) "wikilink")（新兵訓練・戦術研究・車両評価部隊）
+  - [第1アフリカ猟兵連隊](../Page/第1アフリカ猟兵連隊_\(フランス軍\).md "wikilink")（新兵訓練・戦術研究・車両評価部隊）
   - [第13外人准旅団](../Page/第13外人准旅団.md "wikilink")（[ジブチ](../Page/ジブチ.md "wikilink")：ジブチ駐屯地）
   - [第6海兵歩兵大隊](../Page/第6海兵歩兵大隊_\(フランス軍\).md "wikilink")（[ガボン](../Page/ガボン.md "wikilink")：[リーブルヴィル](../Page/リーブルヴィル.md "wikilink")駐屯地）
   - [第23海兵歩兵大隊](../Page/第23海兵歩兵大隊_\(フランス軍\).md "wikilink")（[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")：[ダカール](../Page/ダカール.md "wikilink")駐屯地）

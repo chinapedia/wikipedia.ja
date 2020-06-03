@@ -241,7 +241,6 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [森山春香](../Page/森山春香.md "wikilink")（もりやま・はるか）
   - [西堀裕美](../Page/西堀裕美.md "wikilink")（にしぼり・ひろみ）
   - [三輪秀香](https://ja.wikipedia.org/wiki/三輪秀香 "wikilink")（みわ・ひでか）
-  - [佐々木彩](https://ja.wikipedia.org/wiki/佐々木彩 "wikilink")（ささき・あや）育前休職中
   - [橋詰彩季](https://ja.wikipedia.org/wiki/橋詰彩季 "wikilink")（はしづめ・さき）
 
 ### 金沢放送局放送部
@@ -676,7 +675,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
 <!-- end list -->
 
   - [上松康郎](https://ja.wikipedia.org/wiki/上松康郎 "wikilink")（1934年入局→[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [生田登](https://ja.wikipedia.org/wiki/生田博巳 "wikilink")＜生田博巳・南海太郎＞（1953年入局→[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
+  - [生田登](../Page/生田博巳.md "wikilink")＜生田博巳・南海太郎＞（1953年入局→[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
   - [岩橋健正](https://ja.wikipedia.org/wiki/岩橋健正 "wikilink")（1940年入局→フリー→[ラジオ南日本](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）
   - [近江正俊](https://ja.wikipedia.org/wiki/近江正俊 "wikilink")（おうみ まさとし、1950年入局→TBS）
   - [大岡優一郎](https://ja.wikipedia.org/wiki/大岡優一郎 "wikilink")（おおおか・ゆういちろう、1991年入局→[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）

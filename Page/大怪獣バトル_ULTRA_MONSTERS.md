@@ -109,7 +109,7 @@
     [宇宙大怪獣 ベムスター](../Page/ベムスター.md "wikilink")◎
     [暗殺宇宙人 ナックル星人](../Page/ナックル星人.md "wikilink")◎（声：[中尾隆聖](../Page/中尾隆聖.md "wikilink")）
     [用心棒怪獣 ブラックキング](../Page/ブラックキング.md "wikilink")◎
-    [異次元超人 エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")◎
+    [異次元超人 エースキラー](../Page/エースキラー_\(ウルトラ怪獣\).md "wikilink")◎
     [暴君怪獣 タイラント](https://ja.wikipedia.org/wiki/タイラント_\(ウルトラ怪獣\) "wikilink")◎
     [サーベル暴君 マグマ星人](../Page/マグマ星人.md "wikilink")◎
     [宇宙忍者 パワードバルタン星人](https://ja.wikipedia.org/wiki/バルタン星人#『ウルトラマンパワード』に登場したバルタン星人 "wikilink")
@@ -210,7 +210,7 @@
   - [磁力怪獣 アントラー](../Page/アントラー_\(ウルトラ怪獣\).md "wikilink")
     [カプセル怪獣 アギラ](../Page/アギラ_\(ウルトラ怪獣\).md "wikilink")
     [異次元超人 巨大ヤプール](https://ja.wikipedia.org/wiki/ヤプール人#異次元超人_巨大ヤプール "wikilink")（声：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")）
-    [円盤生物 ノーバ](https://ja.wikipedia.org/wiki/ノーバ_\(ウルトラ怪獣\) "wikilink")
+    [円盤生物 ノーバ](../Page/ノーバ_\(ウルトラ怪獣\).md "wikilink")
     [超合体怪獣 グランドキング](../Page/グランドキング.md "wikilink")
     [ウルトラの父](../Page/ウルトラの父.md "wikilink")◎（スーパーコンボカード）
     [ウルトラマンネクサス（ジュネッス）](https://ja.wikipedia.org/wiki/ウルトラマンネクサス#ジュネッス "wikilink")（スーパーコンボカード）
@@ -283,7 +283,7 @@
 
   - [ウルトラマンベリアル](https://ja.wikipedia.org/wiki/ウルトラマンベリアル "wikilink")（声：[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")）
     [円盤生物 シルバーブルーメ](https://ja.wikipedia.org/wiki/円盤生物#円盤生物_シルバーブルーメ "wikilink")◎
-    [再生怪獣 サラマンドラ](https://ja.wikipedia.org/wiki/サラマンドラ_\(ウルトラ怪獣\) "wikilink")
+    [再生怪獣 サラマンドラ](../Page/サラマンドラ_\(ウルトラ怪獣\).md "wikilink")
     [レイモン](https://ja.wikipedia.org/wiki/大怪獣バトルの登場キャラクター#レイブラッド星人 "wikilink")&[ウルトラマンメビウス](https://ja.wikipedia.org/wiki/ウルトラマンメビウス "wikilink")（スーパーコンボカード）
     [ウルトラマンゼロ](https://ja.wikipedia.org/wiki/ウルトラマンゼロ "wikilink")(スーパーコンボカード）（声：[宮野真守](../Page/宮野真守.md "wikilink")）
     シルバーガル（援軍カード）

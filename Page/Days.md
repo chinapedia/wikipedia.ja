@@ -13,7 +13,7 @@
   - [Days (中森明菜の曲)](../Page/Days_\(中森明菜の曲\).md "wikilink") - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。
   - [DAYS (FLOWの曲)](../Page/DAYS_\(FLOWの曲\).md "wikilink") - [FLOW](../Page/FLOW.md "wikilink")の楽曲。アニメ『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』初代オープニングテーマ。
   - [DAYS (藤井フミヤの曲)](https://ja.wikipedia.org/wiki/DAYS_\(藤井フミヤの曲\) "wikilink") - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")の楽曲。
-  - [Days (HIGH and MIGHTY COLORの曲)](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink") - [HIGH and MIGHTY COLORの楽曲](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")。
+  - [Days (HIGH and MIGHTY COLORの曲)](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink") - [HIGH and MIGHTY COLORの楽曲](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")。
   - [Days (堀江由衣の曲)](../Page/Days_\(堀江由衣の曲\).md "wikilink") - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の楽曲。アニメ『[ながされて藍蘭島](../Page/ながされて藍蘭島.md "wikilink")』オープニングテーマ。
   - [Days (Hawaiian6の曲)](https://ja.wikipedia.org/wiki/Days_\(Hawaiian6の曲\) "wikilink") - [Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")の楽曲。
   - Days - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の楽曲。シングル「[Days/GREEN](https://ja.wikipedia.org/wiki/Days/GREEN "wikilink")」に収録。
@@ -27,7 +27,7 @@
 ### アルバム
 
   - [DAYS (JUN SKY WALKER(S)のアルバム)](https://ja.wikipedia.org/wiki/DAYS_\(JUN_SKY_WALKER\(S\)のアルバム\) "wikilink")-[JUN SKY WALKER(S)のアルバム](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。
-  - [Days (アルバム)](https://ja.wikipedia.org/wiki/Days_\(アルバム\) "wikilink") - [遊吟](../Page/遊吟.md "wikilink")のベストアルバム。
+  - [Days (アルバム)](../Page/Days_\(アルバム\).md "wikilink") - [遊吟](../Page/遊吟.md "wikilink")のベストアルバム。
   - [DAYS (Dream5のアルバム)](https://ja.wikipedia.org/wiki/DAYS_\(Dream5のアルバム\) "wikilink") - [Dream5](https://ja.wikipedia.org/wiki/Dream5 "wikilink")のセカンドミニアルバム。
 
 ## その他

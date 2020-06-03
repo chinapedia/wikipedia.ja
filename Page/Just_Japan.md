@@ -9,7 +9,7 @@
 
 その後、番組審議会から「いい番組なのに『Just Japan』ではタイトルが堅い」との意見があったことと若返りを図る意味で2008年4月に番組名を『Just Japan Plus』に変更するなどのリニューアルが行われた。このリニューアルでは、女性司会者が フリーアナウンサーの[井口玲音](https://ja.wikipedia.org/wiki/井口玲音 "wikilink")へ交代。 また、番組冒頭には[ダムダムダン](https://ja.wikipedia.org/wiki/ダムダムダン "wikilink")によるコントが導入された。
 
-2009年4月より番組名を『中西哲生のJust Japan』へ変更、女性キャスターは井口玲音からtvkアナウンサーの[中村理恵](../Page/中村理恵.md "wikilink")へ交代。冒頭のコントは、ダムダムダンから[パー&ナー](https://ja.wikipedia.org/wiki/パー&ナー "wikilink")に交代。
+2009年4月より番組名を『中西哲生のJust Japan』へ変更、女性キャスターは井口玲音からtvkアナウンサーの[中村理恵](../Page/中村理恵.md "wikilink")へ交代。冒頭のコントは、ダムダムダンから[パー&ナー](../Page/パー&ナー.md "wikilink")に交代。
 
 スタジオトークの部分のみ[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。VTRは額縁放送（サイドカット）で放送された。
 
@@ -29,7 +29,7 @@
 
   - [中西哲生](../Page/中西哲生.md "wikilink")（スポーツ解説者）
   - [中村理恵](../Page/中村理恵.md "wikilink")（tvkアナウンサー）
-  - [パー&ナー](https://ja.wikipedia.org/wiki/パー&ナー "wikilink")
+  - [パー&ナー](../Page/パー&ナー.md "wikilink")
 
 ## 過去の出演者
 

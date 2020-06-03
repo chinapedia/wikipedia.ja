@@ -28,7 +28,7 @@
 
 ### テクニカルセンター
 
-テクニカルセンターでは、鉄道[メンテナンス](../Page/メンテナンス.md "wikilink")コスト削減などに主眼に置き、手のかからぬ車両、設備のあるべきすがたを研究する。[首都圏各線区で敷設工事がすすむ次世代](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")[転轍機](https://ja.wikipedia.org/wiki/転轍機 "wikilink")、[TC型省力化軌道](../Page/TC型省力化軌道.md "wikilink")など。
+テクニカルセンターでは、鉄道[メンテナンス](../Page/メンテナンス.md "wikilink")コスト削減などに主眼に置き、手のかからぬ車両、設備のあるべきすがたを研究する。[首都圏各線区で敷設工事がすすむ次世代](../Page/首都圏_\(日本\).md "wikilink")[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")[転轍機](https://ja.wikipedia.org/wiki/転轍機 "wikilink")、[TC型省力化軌道](../Page/TC型省力化軌道.md "wikilink")など。
 
 ### 防災研究所
 

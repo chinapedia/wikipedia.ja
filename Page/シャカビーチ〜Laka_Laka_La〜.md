@@ -53,7 +53,7 @@
 ## 収録アルバム
 
 1.  シャカビーチ〜Laka Laka La〜
-      - 3rdスタジオ・アルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』にアルバムバージョンとして「シャカビーチ〜Laka Laka La〜 (album ver.)」を収録。
+      - 3rdスタジオ・アルバム『[PROGLUTION](../Page/PROGLUTION.md "wikilink")』にアルバムバージョンとして「シャカビーチ〜Laka Laka La〜 (album ver.)」を収録。
       - 1stベスト・アルバム『[-Neo SOUND BEST-](https://ja.wikipedia.org/wiki/-Neo_SOUND_BEST- "wikilink")』
 2.  Rainy
       - なし

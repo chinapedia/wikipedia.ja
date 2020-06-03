@@ -99,6 +99,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:クリスマスドラマ](https://ja.wikipedia.org/wiki/Category:クリスマスドラマ "wikilink") [Category:SMAP](https://ja.wikipedia.org/wiki/Category:SMAP "wikilink")

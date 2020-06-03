@@ -1,7 +1,7 @@
 > この記事は[KNBニュースプラス1](https://ja.wikipedia.org/wiki/KNBニュースプラス1)から翻訳されています。
 
 
-『**KNBニュースプラス1**』（ケイエヌビーニュースプラスワン）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で放送された[報道番組](../Page/報道番組.md "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")で、当初のタイトルは『**KNBプラス1**』だった。
+『**KNBニュースプラス1**』（ケイエヌビーニュースプラスワン）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[北日本放送](../Page/北日本放送.md "wikilink")（KNBテレビ）で放送された[報道番組](../Page/報道番組.md "wikilink")。[ステレオ放送](../Page/ステレオ放送.md "wikilink")で、当初のタイトルは『**KNBプラス1**』だった。
 
 1990年代には、前座で『**ニュース一番星\!\!**』という番組が放送されていた時期もある。これは、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")のローカルニュースの予告・ヘッドラインをスタジオ出演者たちが紹介していくというものであった。
 

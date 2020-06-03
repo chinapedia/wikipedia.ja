@@ -49,6 +49,8 @@ AMEDEOとしてのデビュー作は2000年に発売された「FIRST/LIVE」。
 ## 外部リンク
 
   - [AMEDEO Official HP](http://kur-mar-ter.product.co.jp/amedeo/)
+
   - [Kur-Mar-Ter Official HP](http://kur-mar-ter.product.co.jp/kur-mar-ter/index.html)
 
+  -
 [Category:ビジュアルアーツ](https://ja.wikipedia.org/wiki/Category:ビジュアルアーツ "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:女性向けゲーム](https://ja.wikipedia.org/wiki/Category:女性向けゲーム "wikilink")

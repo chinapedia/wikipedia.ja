@@ -17,7 +17,7 @@
 
 ## 収録曲
 
-  - 全作詞・作曲：HYDE 編曲：Pip Williams
+  - 全作詞・作曲：HYDE / 編曲：Ian Curnow & Dave Ford
 
 <!-- end list -->
 
@@ -104,8 +104,8 @@
 ## 参加ミュージシャン
 
   - HYDE：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - Ian Curnow：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、プログラミング、[ミキシング](../Page/ミキシング.md "wikilink")
-  - Dave Ford：キーボード、プログラミング、ミキシング
+  - Ian Curnow & Dave Ford：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、プログラミング、ミックス
+  - Steve Orchard & Andy Strange：レコーディング
 
 <!-- end list -->
 
@@ -251,6 +251,16 @@
   - Dave Arch：ピアノ、オルガン
   - Pip Williams：弦編曲
   - Tony Pleeth：チェロ
+
+
+*\[Produce & Mastering\]*
+
+  - HYDE：プロデュース
+  - Ian Curnow：プロデュース補佐
+  - Dave Ford：プロデュース補佐
+  - Kevin Metcalfe：マスタリング（\#1～\#10,\#13）
+  - Tim Young：マスタリング（\#11）
+  - Chris Blair：マスタリング（\#12）
 
 ## 脚注
 

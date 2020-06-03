@@ -192,6 +192,7 @@
   - お宝車検.com（2011年8月 - ）
   - JA全農とちぎ（2016年 - ）
   - [茨城空港](https://ja.wikipedia.org/wiki/茨城空港 "wikilink")ラジオCM（2014年 - ）
+  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink") 「SoftBank Air 工事がいらない篇」[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")、[的場浩司](../Page/的場浩司.md "wikilink")と共演（2020年）
 
 ### ライブ
 

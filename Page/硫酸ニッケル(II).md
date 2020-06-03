@@ -25,6 +25,6 @@
 加熱すると[分解](../Page/分解.md "wikilink")して[三酸化硫黄](../Page/三酸化硫黄.md "wikilink")と[酸化ニッケル(II)](https://ja.wikipedia.org/wiki/酸化ニッケル\(II\) "wikilink")を生成する。
 
   -
-    <ce>NiSO4 -\> SO3\\ + NiO</ce>
+    <chem>NiSO4 -\> SO3\\ + NiO</chem>
 
 [Category:硫酸塩](https://ja.wikipedia.org/wiki/Category:硫酸塩 "wikilink") [Category:ニッケルの化合物](https://ja.wikipedia.org/wiki/Category:ニッケルの化合物 "wikilink")

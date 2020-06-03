@@ -41,7 +41,7 @@
       - 週刊不動産TV
   - [NCC長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")
       - 敏・感パブ！～砂の嵐
-  - [NBCテレビ](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [NBCテレビ](../Page/長崎放送.md "wikilink")
       - 情報バナナ市
 
 ## 脚注

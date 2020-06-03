@@ -29,4 +29,4 @@
   - [Papyrusの歴史(英語)](http://www.gamespot.com/features/6103365/)
   - [MobyGames' entry on Papyrus(英語)](http://www.mobygames.com/browse/games/o,100/j,6/)
 
-[Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink")
+[Category:かつて存在したアメリカ合衆国のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在したアメリカ合衆国のコンピュータゲームメーカー "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:2004年廃止の企業](https://ja.wikipedia.org/wiki/Category:2004年廃止の企業 "wikilink")

@@ -178,7 +178,7 @@
   - [イキマン](../Page/イキマン.md "wikilink")
   - [ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")
   - [小学館](../Page/小学館.md "wikilink")
-  - [一輝](https://ja.wikipedia.org/wiki/一輝 "wikilink")－[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の内野手。名前が同じ事からコラボレート企画が行われている。
+  - [一輝](https://ja.wikipedia.org/wiki/一輝 "wikilink")－[横浜ベイスターズの内野手](../Page/横浜DeNAベイスターズ.md "wikilink")。名前が同じ事からコラボレート企画が行われている。
   - [くり万太郎のオールナイトニッポンR](https://ja.wikipedia.org/wiki/くり万太郎のオールナイトニッポンR "wikilink")
 
 ## 脚注

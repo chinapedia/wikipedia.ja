@@ -52,9 +52,12 @@ A BATHING APE®では、2005年より雑誌を3か月に1冊のペースで、20
 
 ## 外部リンク
 
-  - [BAPE.COM](http://www.bape.com/) - A BATHING APE OFFICIAL SITE
+  - [bape.com](https://bape.com/) - A BATHING APE OFFICIAL SITE
+
   - [I.T](http://www.ithk.com/eng/html/front/) - 香港のBAPEのオーナー企業
 
+  -
+  -
 [Category:日本のファッションブランド](https://ja.wikipedia.org/wiki/Category:日本のファッションブランド "wikilink")
 
 1.  なお、“ape”は正確には[ゴリラ](../Page/ゴリラ.md "wikilink")や[チンパンジー](../Page/チンパンジー.md "wikilink")、[オランウータン](../Page/オランウータン.md "wikilink")のような[類人猿](../Page/類人猿.md "wikilink")を指す。

@@ -117,7 +117,7 @@
   - 美術監督 - 南郷洋一
   - 撮影監督 - 小西一廣
   - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
-  - 音楽 - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")
+  - 音楽 - [平沢進](../Page/平沢進.md "wikilink")
   - プロデューサー - 石田登、[小泉聰](https://ja.wikipedia.org/wiki/吉祥寺怪人 "wikilink")
   - 制作 - [AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
   - 制作協力 - [アートミック](../Page/アートミック.md "wikilink")

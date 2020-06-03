@@ -49,7 +49,7 @@
   - [花村恭子](https://ja.wikipedia.org/wiki/花村恭子 "wikilink")(天気)
   - [森下真由美](../Page/森下真由美.md "wikilink")
   - [河原祥子](../Page/河原祥子.md "wikilink")※
-  - [小沢典子](https://ja.wikipedia.org/wiki/小沢典子 "wikilink")
+  - [小沢典子](../Page/小沢典子.md "wikilink")
 
 ほか
 

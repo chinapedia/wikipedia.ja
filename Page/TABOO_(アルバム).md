@@ -11,8 +11,6 @@ BUCK-TICK初の海外レコーディング作品。
 
 BUCK-TICKとしては、本作がLPレコードが制作された最後のアルバムとなった。
 
-アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## リリース履歴
 
 <table>

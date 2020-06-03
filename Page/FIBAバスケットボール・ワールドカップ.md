@@ -261,7 +261,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/2023年FIBAバスケットボール・ワールドカップ" title="wikilink">2023</a></strong></p></td>
-<td><p><br />
+<td><p>、、<br />
 (<a href="../Page/マニラ首都圏.md" title="wikilink">マニラ首都圏</a>)</p></td>
 <td></td>
 <td></td>

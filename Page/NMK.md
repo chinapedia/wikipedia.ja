@@ -75,7 +75,7 @@
   - [『サンダードラゴン2』『作戦名ラグナロク』などの作曲者、並木学（さんたるる）のTwitterアカウント](https://twitter.com/manabn)
   - [ゲーム文化保存研究所（IGCC）](https://igcc.jp/%e5%9d%82%e6%9c%ac%e6%85%8e%e4%b8%802/) - 坂本慎一氏インタビュー記事
 
-[Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink")
+[Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink") [Category:1999年廃止の企業](https://ja.wikipedia.org/wiki/Category:1999年廃止の企業 "wikilink")
 
 1.  創業メンバーの中里、牧、琴寄の頭文字に由来
 2.  元々はUPL販売でNMKも社名を併記する形でリリースされる予定であったが、直前になってUPLが倒産した為、NMK単独併記でのリリースになった。

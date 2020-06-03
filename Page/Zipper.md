@@ -95,7 +95,7 @@ Zipperでは[読者モデル](../Page/読者モデル.md "wikilink")のことを
   - [Web Zipper](http://www.zipper.jp/) - 祥伝社
 
   -
-[Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink") [Category:2017年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2017年休廃刊の雑誌 "wikilink") [Category:祥伝社](https://ja.wikipedia.org/wiki/Category:祥伝社 "wikilink") [Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink")
+[Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink") [Category:2017年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2017年休廃刊の雑誌 "wikilink") [Category:祥伝社の出版物](https://ja.wikipedia.org/wiki/Category:祥伝社の出版物 "wikilink") [Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink")
 
 1.
 2.

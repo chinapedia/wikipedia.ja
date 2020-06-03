@@ -215,7 +215,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBSテレビ</a> (TBS)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td><p><strong>『<a href="https://ja.wikipedia.org/wiki/知らない同志" title="wikilink">知らない同志</a>』</strong>および<strong>『<a href="https://ja.wikipedia.org/wiki/火をみた女" title="wikilink">火をみた女</a>』</strong>以降の制作局</p></td>
 </tr>
 <tr class="even">
@@ -257,7 +257,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
 <td></td>
 </tr>
@@ -312,7 +312,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>第1期の一部作品のみ</p></td>
 </tr>
@@ -351,8 +351,9 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a><br />
 →<a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a> (RSK)</p></td>
-<td><p>第1期の放送エリアは岡山県のみ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a> (RSK)</p></td>
+<td><p>現：<a href="../Page/RSK山陽放送.md" title="wikilink">RSK山陽放送</a><br />
+第1期の放送エリアは岡山県のみ<br />
 第2期・第3期は香川県でも放送[7]</p></td>
 <td></td>
 </tr>
@@ -388,7 +389,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a> (NBC)</p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a> (NBC)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -439,7 +440,7 @@
   - [朝日放送制作・TBS木曜9時30分枠の連続ドラマ](https://ja.wikipedia.org/wiki/朝日放送制作・TBS木曜9時30分枠の連続ドラマ "wikilink")
   - [水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")
 
-[Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink") [Category:TBS木曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS木曜9時枠の連続ドラマ "wikilink")
+[Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink") [Category:TBS木曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS木曜9時枠の連続ドラマ "wikilink")
 
 1.  「**[知らない同志](https://ja.wikipedia.org/wiki/知らない同志 "wikilink")**」のみTBS制作
 2.  第4シリーズ以降。第7シリーズは[金曜ドラマ枠で放映された](../Page/金曜ドラマ_\(TBS\).md "wikilink")。

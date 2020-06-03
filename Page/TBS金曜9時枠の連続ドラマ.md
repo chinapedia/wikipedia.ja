@@ -271,7 +271,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>遅れネット</p></td>
 <td><p>第2期の途中まで</p></td>
@@ -358,7 +358,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>遅れネット</p></td>
 <td><p>1990年9月まで</p></td>
@@ -500,7 +500,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -558,7 +558,7 @@
   - [TBSドラマ](http://www.tbs.co.jp/drama/)
   - [TBS Drama Archive](http://www.tbs.co.jp/drama_archive/)
 
-[Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink") [Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink")
+[Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink") [Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink")
 
 1.  第2期は不定期放送。「L×I×V×E」時代からネット開始。
 2.  平日夕方にまとめて放送、「天国に一番近い男（第1シリーズ）」をもってネット打ち切り。

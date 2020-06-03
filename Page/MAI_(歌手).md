@@ -368,10 +368,10 @@ DFCL-1810:通常盤</p></td>
 
 ## 外部リンク
 
-  - [Sony Music(真衣)](http://www.sonymusic.co.jp/Music/Arch/SR/mai/index.html)
+  - [Sony Music(真衣)](https://www.sonymusic.co.jp/artist/mai/)
   - [コロムビアミュージックエンタテインメント(MAI)](http://columbia.jp/artist-info/mai/)
   - [SUPRE★POWERオフィシャルサイト(Jinny)](http://www.suprepower.com/)
   - [RODEO GIRLS Instagram](https://www.instagram.com/rodeogirls.jp/)
   - [Jinny's ジーニリズム。](https://ameblo.jp/jinnyfromspp-suprepower/) - 本人によるブログ
 
-[Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

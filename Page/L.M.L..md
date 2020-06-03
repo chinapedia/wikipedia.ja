@@ -1,0 +1,23 @@
+> この記事は[L.M.L.](https://ja.wikipedia.org/wiki/L.M.L.)から翻訳されています。
+
+
+***L.M.L.*** [ヌ・ヴィルゴス](../Page/ヌ・ヴィルゴス.md "wikilink")による2枚目の英語アルバムと5枚目のスタジオアルバムです。
+
+## コンテンツ
+
+アルバムのタイトルは、「L.M.L。」というタイトルのアルバムの曲に由来します。
+
+## リリース
+
+このアルバムは、2007年9月13日にロシアでリリースされ、2007年9月19日にアジアでリリースされました。アルバムは数か月にわたってチャートにヒットし、その結果は努力に値するものでした。 リリース後の最初の数か月間、アルバムはMonolithという会社の金儲けでした。 曲の作者は、いつものように、コンスタンティン・メラゼです。
+
+## トラックリスト
+
+## ボーカル
+
+  - [オルガ・ロマノフスキー](../Page/オルガ・ロマノフスキー.md "wikilink")
+  - [ナディヤ・メイヤー](https://ja.wikipedia.org/wiki/ナディヤ・メイヤー "wikilink")
+  - [アルビナ・ディザナバエワ](https://ja.wikipedia.org/wiki/アルビナ・ディザナバエワ "wikilink")
+  - [ヴェラ・ブレジネーヴァ](https://ja.wikipedia.org/wiki/ヴェラ・ブレジネーヴァ "wikilink")
+
+[Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ヌ・ヴィルゴスのアルバム](https://ja.wikipedia.org/wiki/Category:ヌ・ヴィルゴスのアルバム "wikilink")

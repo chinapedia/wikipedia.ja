@@ -1,7 +1,7 @@
 > この記事は[MRP1](https://ja.wikipedia.org/wiki/MRP1)から翻訳されています。
 
 
-**MRP1 (Multidrug resistance-associated Protein 1)**は、[ガンの](../Page/悪性腫瘍.md "wikilink")[多剤耐性の原因の](https://ja.wikipedia.org/wiki/薬剤耐性#多剤耐性 "wikilink")1つである[膜タンパク質](https://ja.wikipedia.org/wiki/膜タンパク質 "wikilink")である。[ABCタンパク質](https://ja.wikipedia.org/wiki/ABCタンパク質 "wikilink")のCサブファミリーに属しており、**ABCC1**として知られている。
+**MRP1 (Multidrug resistance-associated Protein 1)**は、[ガンの](../Page/悪性腫瘍.md "wikilink")[多剤耐性の原因の](https://ja.wikipedia.org/wiki/薬剤耐性#多剤耐性 "wikilink")1つである[膜タンパク質](../Page/膜タンパク質.md "wikilink")である。[ABCタンパク質](https://ja.wikipedia.org/wiki/ABCタンパク質 "wikilink")のCサブファミリーに属しており、**ABCC1**として知られている。
 
 MRP1が[細胞膜](https://ja.wikipedia.org/wiki/細胞膜 "wikilink")で機能的に発現すると、多種多様な物質を基質として[細胞](../Page/細胞.md "wikilink")内から細胞外へ排出する。ガン細胞の細胞膜でMRP1が発現すると、様々な[抗ガン剤](https://ja.wikipedia.org/wiki/抗ガン剤 "wikilink")を基質として細胞内から細胞外へ排出することで、ガン細胞は多剤耐性化される。
 

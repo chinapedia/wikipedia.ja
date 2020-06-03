@@ -20,7 +20,7 @@
     ○  [デニス・カーン](../Page/デニス・カーン.md "wikilink") vs.  [アンドレイ・シモノフ](../Page/アンドレイ・シモノフ.md "wikilink") ×
     2R終了 判定3-0
   - 第3試合 ライト級ワンマッチ 1R10分、2R5分
-    ○  [マーカス・アウレリオ](../Page/マーカス・アウレリオ.md "wikilink") vs.  [中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink") ×
+    ○  [マーカス・アウレリオ](../Page/マーカス・アウレリオ.md "wikilink") vs.  [中尾受太郎](../Page/中尾受太郎.md "wikilink") ×
     2R終了 判定3-0
   - 第4試合 ウェルター級ワンマッチ 1R10分、2R5分
     ○  大久保一樹 vs.  村田龍一 ×

@@ -16,4 +16,4 @@
 2.  **HELLO**
       - 作詞：[ふとがね金太](../Page/ふとがね金太.md "wikilink")／作曲：世良公則／編曲：ツイスト
 
-[Category:世良公則&ツイストの楽曲](https://ja.wikipedia.org/wiki/Category:世良公則&ツイストの楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:航空会社のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:航空会社のコマーシャルソング "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:世良公則&ツイストの楽曲](https://ja.wikipedia.org/wiki/Category:世良公則&ツイストの楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:JALグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JALグループのコマーシャルソング "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")

@@ -70,7 +70,7 @@
       -
         作詞：[谷中敦](https://ja.wikipedia.org/wiki/谷中敦 "wikilink") / 作曲・編曲：[浅田将明](https://ja.wikipedia.org/wiki/浅田将明 "wikilink")
     <!-- end list -->
-      - 日本テレビ系『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』テーマソング
+      - 日本テレビ系『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』テーマソング
 9.  **love**
       -
         作詞：ATSUSHI / 作曲・編曲：平田祥一郎
@@ -174,7 +174,7 @@
 4.  **[Dream Catcher](../Page/EXILE_EVOLUTION.md "wikilink")**
 5.  **ゆれる** - [JONTE](../Page/JONTE.md "wikilink")
 6.  **Blue Sky** - [COLOR](../Page/DEEP_\(歌手グループ\).md "wikilink")
-7.  **[No Other Man](../Page/EXILE_EVOLUTION.md "wikilink") feat. [NaNa](https://ja.wikipedia.org/wiki/NaNa_\(歌手\) "wikilink")**
+7.  **[No Other Man](../Page/EXILE_EVOLUTION.md "wikilink") feat. [NaNa](../Page/NaNa_\(歌手\).md "wikilink")**
 8.  **[J.S.B Is Back](https://ja.wikipedia.org/wiki/WE! "wikilink")** - [J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")
 9.  **[WON'T BE LONG](../Page/WON'T_BE_LONG.md "wikilink") feat. [NEVER LAND](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink")**
 10. **[DANCER'S ANTHEM](../Page/EXILE_EVOLUTION.md "wikilink")**

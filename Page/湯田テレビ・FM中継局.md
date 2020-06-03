@@ -253,9 +253,9 @@
   - [山田関谷テレビ中継局](../Page/山田関谷テレビ中継局.md "wikilink")
   - [NHK山田ラジオ中継局](../Page/NHK山田ラジオ中継局.md "wikilink")
   - [沢内テレビ・FM中継局](../Page/沢内テレビ・FM中継局.md "wikilink")
-  - [沢内川舟テレビ中継局](https://ja.wikipedia.org/wiki/沢内川舟テレビ中継局 "wikilink")
-  - [湯田大石テレビ中継局](https://ja.wikipedia.org/wiki/湯田大石テレビ中継局 "wikilink")
-  - [湯田湯本テレビ中継局](https://ja.wikipedia.org/wiki/湯田湯本テレビ中継局 "wikilink")
+  - [沢内川舟テレビ中継局](../Page/沢内川舟テレビ中継局.md "wikilink")
+  - [湯田大石テレビ中継局](../Page/湯田大石テレビ中継局.md "wikilink")
+  - [湯田湯本テレビ中継局](../Page/湯田湯本テレビ中継局.md "wikilink")
 
 [Category:西和賀町](https://ja.wikipedia.org/wiki/Category:西和賀町 "wikilink") [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:テレビ岩手](https://ja.wikipedia.org/wiki/Category:テレビ岩手 "wikilink") [Category:岩手朝日テレビ](https://ja.wikipedia.org/wiki/Category:岩手朝日テレビ "wikilink") [Category:IBC岩手放送](https://ja.wikipedia.org/wiki/Category:IBC岩手放送 "wikilink") [Category:岩手めんこいテレビ](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビ "wikilink")
 

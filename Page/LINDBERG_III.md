@@ -7,7 +7,7 @@
 
 ## 解説
 
-シングル「[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")」、「JUMP」のリリースを経て、前作から僅か5ヶ月のインターバルでリリースされたアルバムである(「JUMP」は既に前作に収録されていることもあり、本作には未収録)。ファンクラブの名称にもなった「LITTLE WING」もこのアルバムのオープニングに収録。また、ドラムの[小柳昌法もこのアルバムから作曲に参加するようになった](https://ja.wikipedia.org/wiki/小柳"cherry"昌法 "wikilink")。メンバーは、当時のインタビューで「自信作」と述べている\[1\]。
+シングル「[今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")」、「JUMP」のリリースを経て、前作から僅か5ヶ月のインターバルでリリースされたアルバムである(「JUMP」は既に前作に収録されていることもあり、本作には未収録)。ファンクラブの名称にもなった「LITTLE WING」もこのアルバムのオープニングに収録。また、ドラムの[小柳昌法もこのアルバムから作曲に参加するようになった](https://ja.wikipedia.org/wiki/小柳"cherry"昌法 "wikilink")。メンバーは、当時のインタビューで「自信作」と述べている\[1\]。
 
 シングル「今すぐKiss Me」の大ヒットの影響もあり、[オリコンチャート](../Page/オリコンチャート.md "wikilink")では、初登場3位を記録\[2\]。その後も、3週目、5週目に1位を獲得し\[3\]、最終的には60万枚以上を売り上げると言う大ヒットを記録した。
 
@@ -24,7 +24,7 @@
         [2016年](../Page/2016年.md "wikilink")のテレビアニメ『[ブレイブウィッチーズ](https://ja.wikipedia.org/wiki/ストライクウィッチーズ "wikilink")』ではカバー版がエンディングテーマとして使われている。
 2.  **RUSH LIFE**
       - 作詞: 渡瀬マキ　作曲: 川添智久
-3.  **[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")** \[ALBUM MIX\]
+3.  **[今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")** \[ALBUM MIX\]
       - 作詞: [朝野深雪](https://ja.wikipedia.org/wiki/朝野深雪 "wikilink")　作曲: [平川達也](../Page/平川達也.md "wikilink")
     <!-- end list -->
       -

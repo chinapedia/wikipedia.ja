@@ -11,16 +11,16 @@
 
 なお、good OS社の[gOS](https://ja.wikipedia.org/wiki/gOS "wikilink")と[Gobuntu](https://ja.wikipedia.org/wiki/Gobuntu "wikilink")とはまったく関係がない。
 
+## 脚注
+
+<references/>
+
 ## 関連項目
 
   - [Google Chrome OS](https://ja.wikipedia.org/wiki/Google_Chrome_OS "wikilink")
   - [Android](../Page/Android.md "wikilink")
   - [ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")
   - [Ubuntu](../Page/Ubuntu.md "wikilink")
-
-## リファレンス
-
-<references/>
 
 ## 外部リンク
 

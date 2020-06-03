@@ -120,7 +120,7 @@
 <td><p><small>3</small> <strong><a href="../Page/クレムゾン大学.md" title="wikilink">クレムゾン大学</a></strong></p></td>
 <td><p>42-35</p></td>
 <td><p><small>19</small> <a href="../Page/バージニア工科大学.md" title="wikilink">バージニア工科大学</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キャンピング・ワールド・スタジアム" title="wikilink">キャンピング・ワールド・スタジアム</a></p></td>
+<td><p><a href="../Page/キャンピング・ワールド・スタジアム.md" title="wikilink">キャンピング・ワールド・スタジアム</a></p></td>
 <td><p>50,628</p></td>
 </tr>
 <tr class="odd">

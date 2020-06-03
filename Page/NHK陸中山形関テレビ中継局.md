@@ -54,7 +54,7 @@
 
 ## 外部リンク
 
-  - [地上デジタル放送チャンネル･エリア一覧](http://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
+  - [地上デジタル放送チャンネル･エリア一覧](https://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
 
 ## 関連項目
 

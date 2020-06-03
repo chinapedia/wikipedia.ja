@@ -22,7 +22,7 @@
 |      | [シーズン・ヒューブリー](https://ja.wikipedia.org/wiki/シーズン・ヒューブリー "wikilink")   |                                             |
 |      |                                                                       |                                             |
 
-  - その他の声の吹き替え：[茂呂田かおる](../Page/茂呂田かおる.md "wikilink")／[廣田行生](../Page/廣田行生.md "wikilink")／[城山堅](../Page/城山堅.md "wikilink")／[小川隆市](../Page/小川隆市.md "wikilink")／[石波義人](../Page/石波義人.md "wikilink")／[石井隆夫](../Page/石井隆夫.md "wikilink")／[御友公喜](https://ja.wikipedia.org/wiki/御友公喜 "wikilink")／[柳沢栄治](../Page/柳沢栄治.md "wikilink")／[海老原英人](../Page/海老原英人.md "wikilink")／[加藤沙織](https://ja.wikipedia.org/wiki/加藤沙織 "wikilink")／[浜野ゆうき](../Page/浜野ゆうき.md "wikilink")／[谷口和花子](../Page/谷口和花子.md "wikilink")
+  - その他の声の吹き替え：[茂呂田かおる](../Page/茂呂田かおる.md "wikilink")／[廣田行生](../Page/廣田行生.md "wikilink")／[城山堅](../Page/城山堅.md "wikilink")／[小川隆市](../Page/小川隆市.md "wikilink")／[石波義人](../Page/石波義人.md "wikilink")／[石井隆夫](../Page/石井隆夫.md "wikilink")／[御友公喜](https://ja.wikipedia.org/wiki/御友公喜 "wikilink")／[柳沢栄治](../Page/柳沢栄治.md "wikilink")／[海老原英人](../Page/海老原英人.md "wikilink")／[加藤沙織](../Page/加藤沙織.md "wikilink")／[浜野ゆうき](../Page/浜野ゆうき.md "wikilink")／[谷口和花子](../Page/谷口和花子.md "wikilink")
 
 ## 邦題について
 

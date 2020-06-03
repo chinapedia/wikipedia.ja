@@ -13,6 +13,8 @@
 
 また、[DLTドライブを接続することで](../Page/Digital_Linear_Tape.md "wikilink")、DLTテープに書き出したものを、DVDプレス業者に入稿することができる。
 
+Encore CS6を最終バージョンとして開発を終了し、新たに購入したりインストールすることはできない。
+
 ## 外部リンク
 
   - [製品情報（日本語版）](http://www.adobe.com/jp/products/premiere/encore/)

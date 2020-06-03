@@ -38,6 +38,6 @@
 
 ## 脚注
 
-[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:T.M.Revolutionの楽曲](https://ja.wikipedia.org/wiki/Category:T.M.Revolutionの楽曲 "wikilink") [Category:井上秋緒が制作した楽曲](https://ja.wikipedia.org/wiki/Category:井上秋緒が制作した楽曲 "wikilink") [Category:浅倉大介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:浅倉大介が制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.

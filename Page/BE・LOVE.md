@@ -1,7 +1,7 @@
 > この記事は[BE・LOVE](https://ja.wikipedia.org/wiki/BE・LOVE)から翻訳されています。
 
 
-『**BE・LOVE**』（ビー・ラブ）は、[講談社](../Page/講談社.md "wikilink")発行の[女性向け](https://ja.wikipedia.org/wiki/女性漫画 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。毎月1日に発売。
+『**BE・LOVE**』（ビー・ラブ）は、[講談社](../Page/講談社.md "wikilink")発行の[女性向け](https://ja.wikipedia.org/wiki/女性漫画 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。毎月1日に発売。
 
 [1979年](../Page/1979年.md "wikilink")9月に発行された『週刊[ヤングレディ](https://ja.wikipedia.org/wiki/ヤングレディ "wikilink")増刊 漫画特集BE・LOVE』が前身。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")10月、月刊漫画雑誌として創刊。[1982年](../Page/1982年.md "wikilink")5月、月2回刊となるが、2019年現在では月刊に戻る。一時、誌名も『BE in LOVE』（ビー・ラブ）だったが、後に現在の『BE・LOVE』へ。大人の女性を対象とする作品を掲載。現在は30代・40代女性を中心\[1\]に幅広い層に好評で、感動的でストーリー性の高い作品を多く掲載。
 
@@ -51,7 +51,7 @@
   - [クーベルチュール](https://ja.wikipedia.org/wiki/クーベルチュール_\(漫画\) "wikilink")（末次由紀）2009年2号 -
   - 手の鳴るほうへ（[雁須磨子](../Page/雁須磨子.md "wikilink")）2015年3号 -
   - [能面女子の花子さん](https://ja.wikipedia.org/wiki/能面女子の花子さん "wikilink")（織田涼）2018年16号 - ※『ITAN』より移籍
-  - [ハッピー\! ハッピー♪](https://ja.wikipedia.org/wiki/ハッピー! "wikilink")（[波間信子](https://ja.wikipedia.org/wiki/波間信子 "wikilink")）2010年19号 -
+  - [ハッピー\! ハッピー♪](../Page/ハッピー!.md "wikilink")（[波間信子](https://ja.wikipedia.org/wiki/波間信子 "wikilink")）2010年19号 -
   - [箱庭ヘブン](https://ja.wikipedia.org/wiki/箱庭ヘブン "wikilink")（[羽柴麻央](../Page/羽柴麻央.md "wikilink")）2011年16号 -
   - 私の正しいお兄ちゃん（[モリエサトシ](../Page/モリエサトシ.md "wikilink")）
 

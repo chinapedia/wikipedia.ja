@@ -7,6 +7,7 @@
   - 音楽作品のタイトル
       - [LOVE SONG (ツイストの曲)](../Page/LOVE_SONG_\(ツイストの曲\).md "wikilink") - [ツイストの](../Page/世良公則&ツイスト.md "wikilink")[シングル](../Page/シングル.md "wikilink")曲。
       - [LOVE SONG (CHAGE and ASKAの曲)](../Page/LOVE_SONG_\(CHAGE_and_ASKAの曲\).md "wikilink") - [CHAGE\&ASKAのシングル曲](../Page/CHAGE_and_ASKA.md "wikilink")。
+      - Love Song - [水野あおい](../Page/水野あおい.md "wikilink")のシングル曲。
       - [LOVE SONG (LUNA SEAの曲)](../Page/LOVE_SONG_\(LUNA_SEAの曲\).md "wikilink") - [LUNA SEAのシングル曲](../Page/LUNA_SEA.md "wikilink")。
       - [LOVE SONG (三代目J Soul Brothersの曲)](https://ja.wikipedia.org/wiki/LOVE_SONG_\(三代目J_Soul_Brothersの曲\) "wikilink") - [三代目J Soul Brothersのシングル曲](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")。
       - [LOVE SONG (FUNKY MONKEY BABYSの曲)](https://ja.wikipedia.org/wiki/LOVE_SONG_\(FUNKY_MONKEY_BABYSの曲\) "wikilink") - [FUNKY MONKEY BABYSのシングル曲](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")。
@@ -30,7 +31,7 @@
       - Lovesong - [ザ・キュアー](../Page/ザ・キュアー.md "wikilink")の曲。アルバム『[ディスインテグレーション](https://ja.wikipedia.org/wiki/ディスインテグレーション "wikilink")』に収録。
   - 映画のタイトル
       - [LOVE SONG (映画)](https://ja.wikipedia.org/wiki/LOVE_SONG_\(映画\) "wikilink") - 2001年公開の日本映画。[伊藤英明](../Page/伊藤英明.md "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")主演。
-      - [ラヴソング (映画)](https://ja.wikipedia.org/wiki/ラヴソング_\(映画\) "wikilink") - [1996年](../Page/1996年.md "wikilink")製作の[香港映画](../Page/香港映画.md "wikilink")。
+      - [ラヴソング (映画)](../Page/ラヴソング_\(映画\).md "wikilink") - [1996年](../Page/1996年.md "wikilink")製作の[香港映画](../Page/香港映画.md "wikilink")。
   - テレビドラマのタイトル
       - [ラヴソング (2016年のテレビドラマ)](https://ja.wikipedia.org/wiki/ラヴソング_\(2016年のテレビドラマ\) "wikilink") - [2016年](../Page/2016年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")より[フジテレビで開始したテレビドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")主演。
 

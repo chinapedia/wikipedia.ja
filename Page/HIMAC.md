@@ -43,7 +43,7 @@ RFQ・アルバレ両方の[加速器](../Page/加速器.md "wikilink")を使う
   - [放射線療法](../Page/放射線療法.md "wikilink")
   - [重粒子線がん治療](https://ja.wikipedia.org/wiki/重粒子線がん治療 "wikilink")
   - [重イオン加速器](https://ja.wikipedia.org/wiki/重イオン加速器 "wikilink")
-  - [中性子捕捉療法](https://ja.wikipedia.org/wiki/中性子捕捉療法 "wikilink")
+  - [中性子捕捉療法](../Page/中性子捕捉療法.md "wikilink")
   - [腫瘍学](../Page/腫瘍学.md "wikilink")
   - [放射線医学](../Page/放射線医学.md "wikilink")
   - [ガンマナイフ](../Page/ガンマナイフ.md "wikilink")

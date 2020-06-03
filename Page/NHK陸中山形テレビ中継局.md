@@ -54,7 +54,7 @@
 
 ## 外部リンク
 
-  - [地上デジタル放送チャンネル･エリア一覧](http://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
+  - [地上デジタル放送チャンネル･エリア一覧](https://www.nhk.or.jp/morioka/digital/digital_channel/) - NHK盛岡放送局ホームページ
 
 ## 関連項目
 
@@ -63,6 +63,6 @@
   - [久慈大川目テレビ中継局](../Page/久慈大川目テレビ中継局.md "wikilink")
   - [種市本町テレビ中継局](../Page/種市本町テレビ中継局.md "wikilink")
   - [陸中大野テレビ中継局](../Page/陸中大野テレビ中継局.md "wikilink")
-  - [NHK陸中山形関テレビ中継局](https://ja.wikipedia.org/wiki/NHK陸中山形関テレビ中継局 "wikilink")
+  - [NHK陸中山形関テレビ中継局](../Page/NHK陸中山形関テレビ中継局.md "wikilink")
 
 [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:久慈市の歴史](https://ja.wikipedia.org/wiki/Category:久慈市の歴史 "wikilink") [Category:久慈市の建築物](https://ja.wikipedia.org/wiki/Category:久慈市の建築物 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[GlassFish](https://ja.wikipedia.org/wiki/GlassFish)から翻訳されています。
 
 
-**GlassFish**は、[サンを中心とした](../Page/サン・マイクロシステムズ.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")・コミュニティと、同コミュニティで開発された[Java EE準拠の](../Page/Java_Platform,_Enterprise_Edition.md "wikilink")[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")の名称である。その後、サンを買収した[オラクルによってコミュニティが継続された](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")。2017年、[Java EEの策定がEclipse](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") Foundationに移管されることになり、それに伴いGlassFishも同組織に寄贈された。
+**GlassFish**は、[サンを中心とした](../Page/サン・マイクロシステムズ.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")・コミュニティと、同コミュニティで開発された[Java EE準拠の](../Page/Java_Platform,_Enterprise_Edition.md "wikilink")[アプリケーションサーバ](../Page/アプリケーションサーバ.md "wikilink")の名称である。その後、サンを買収した[オラクルによってコミュニティが継続された](../Page/オラクル_\(企業\).md "wikilink")。2017年、[Java EEの策定がEclipse](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") Foundationに移管されることになり、それに伴いGlassFishも同組織に寄贈された。
 
 本項では以降、特別な断りのない限りアプリケーションサーバのことを指すものとし、コミュニティについてはGlassFishコミュニティと呼称する。
 

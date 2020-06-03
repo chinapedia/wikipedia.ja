@@ -1,7 +1,7 @@
 > この記事は[W-inds.M](https://ja.wikipedia.org/wiki/W-inds.M)から翻訳されています。
 
 
-**w-inds.M**（ウィンズム）は、[MTVジャパン](../Page/MTVジャパン.md "wikilink")で[2008年](https://ja.wikipedia.org/wiki/2008年のテレビ_\(日本\) "wikilink")[1月9日](../Page/1月9日.md "wikilink")から同年[12月23日](../Page/12月23日.md "wikilink")まで1年間放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。
+**w-inds.M**（ウィンズム）は、[MTVジャパン](../Page/MTVジャパン.md "wikilink")で[2008年](../Page/2008年のテレビ_\(日本\).md "wikilink")[1月9日](../Page/1月9日.md "wikilink")から同年[12月23日](../Page/12月23日.md "wikilink")まで1年間放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 

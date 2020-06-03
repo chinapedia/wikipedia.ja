@@ -39,7 +39,7 @@
         [松坂慶子](../Page/松坂慶子.md "wikilink")とのデュエット・ソング。
 15. **花あかり**　（4:25）
       -
-        [牧村三枝子](../Page/牧村三枝子.md "wikilink")とのデュエット・ソング。『[GOLDEN☆BEST 牧村三枝子](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_牧村三枝子 "wikilink")』にも収録されている。
+        [牧村三枝子](../Page/牧村三枝子.md "wikilink")とのデュエット・ソング。『[GOLDEN☆BEST 牧村三枝子](../Page/GOLDEN☆BEST_牧村三枝子.md "wikilink")』にも収録されている。
 16. **さざんかの女**　（3:45）
 17. **夜霧のブルース**　（3:34）
 18. **夜霧よ今夜もありがとう**　（3:33）

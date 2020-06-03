@@ -8,7 +8,7 @@
   - [フジテレビ系月曜](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")9時枠のドラマ『[世界で一番君が好き\!](../Page/世界で一番君が好き!.md "wikilink")』（1990年1月～3月放送）の[主題歌](../Page/主題歌.md "wikilink")に起用された。同曲が流れるオープニング映像では、歌詞通りに主演の[浅野温子](../Page/浅野温子.md "wikilink")と[三上博史](../Page/三上博史.md "wikilink")のキスシーンが使用されていた。
   - オリコンヒットチャートで1位を獲得（1990年3月5日から1週おきに計3回1位を獲得）。1990年の年間シングルヒットチャートでも第3位を記録した。LINDBERGの初ヒットにして、最大のヒットとなった\[1\]。
   - シングル発売後、程なく発売されたアルバム『[LINDBERG III](../Page/LINDBERG_III.md "wikilink")』に収録され、アルバムもオリコンアルバムヒットチャートで1位を獲得した。
-  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は、アルバム『[LINDBERG I](https://ja.wikipedia.org/wiki/LINDBERG_I "wikilink")』収録曲。
+  - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")は、アルバム『[LINDBERG I](../Page/LINDBERG_I.md "wikilink")』収録曲。
   - 「今すぐKiss Me - 20th -」は2009年のドラマ『[コンカツ・リカツ](https://ja.wikipedia.org/wiki/コンカツ・リカツ "wikilink")』の主題歌となっており、『[LINDBERG XX](https://ja.wikipedia.org/wiki/LINDBERG_XX "wikilink")』に収録されている。
   - 本作は、アナログ盤(EP)も存在する。
 

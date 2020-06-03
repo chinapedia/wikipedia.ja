@@ -5,7 +5,7 @@
 
 放送時間は毎週日曜 11:00 - 11:50 （[日本標準時](../Page/日本標準時.md "wikilink")）。この時間帯にキー局の[フジテレビで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")』については、同日午後に時差ネットという形を取っていた。
 
-番組の終了後、替わって土曜18:30枠（『[STSスーパータイム](https://ja.wikipedia.org/wiki/stsスーパータイム "wikilink")』直後の時間帯）で『[情報プラザDONDON DOようび](https://ja.wikipedia.org/wiki/情報プラザDONDON_DOようび "wikilink")』がスタートした。
+番組の終了後、替わって土曜18:30枠（『[STSスーパータイム](https://ja.wikipedia.org/wiki/stsスーパータイム "wikilink")』直後の時間帯）で『[情報プラザDONDON DOようび](../Page/情報プラザDONDON_DOようび.md "wikilink")』がスタートした。
 
 ## 出演者
 

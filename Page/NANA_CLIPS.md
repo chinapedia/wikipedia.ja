@@ -183,7 +183,7 @@
 
 ### NANA CLIPS 4
 
-ミュージッククリップ集としては4作目（映像作品では通算10作目）。2年半ぶりのリリースであるため、前作の後にリリースされた13thシングル「[SUPER GENERATION](../Page/SUPER_GENERATION.md "wikilink")」以降のシングル作品、アルバム『[HYBRID UNIVERSE](../Page/HYBRID_UNIVERSE.md "wikilink")』、『[GREAT ACTIVITY](../Page/GREAT_ACTIVITY.md "wikilink")』、ベストアルバム『[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")』、さらに発売時点での最新シングル『[STARCAMP EP](https://ja.wikipedia.org/wiki/STARCAMP_EP "wikilink")』収録曲の映像などを収録。これにより、ミュージッククリップだけでも全10曲（ボーナストラック含め全11曲）収録と、過去3作に比べて収録内容が大幅に増加している。
+ミュージッククリップ集としては4作目（映像作品では通算10作目）。2年半ぶりのリリースであるため、前作の後にリリースされた13thシングル「[SUPER GENERATION](../Page/SUPER_GENERATION.md "wikilink")」以降のシングル作品、アルバム『[HYBRID UNIVERSE](../Page/HYBRID_UNIVERSE.md "wikilink")』、『[GREAT ACTIVITY](../Page/GREAT_ACTIVITY.md "wikilink")』、ベストアルバム『[THE MUSEUM](../Page/THE_MUSEUM.md "wikilink")』、さらに発売時点での最新シングル『[STARCAMP EP](../Page/STARCAMP_EP.md "wikilink")』収録曲の映像などを収録。これにより、ミュージッククリップだけでも全10曲（ボーナストラック含め全11曲）収録と、過去3作に比べて収録内容が大幅に増加している。
 
 初回盤は特製スリーブジャケット仕様。
 
@@ -199,8 +199,8 @@
 6.  **[SECRET AMBITION](../Page/SECRET_AMBITION.md "wikilink")**
 7.  **[MASSIVE WONDERS](../Page/MASSIVE_WONDERS.md "wikilink")**
 8.  **[Orchestral Fantasia](../Page/GREAT_ACTIVITY.md "wikilink")**
-9.  **[Astrogation](https://ja.wikipedia.org/wiki/STARCAMP_EP "wikilink")**
-10. **[COSMIC LOVE](https://ja.wikipedia.org/wiki/STARCAMP_EP "wikilink")**
+9.  **[Astrogation](../Page/STARCAMP_EP.md "wikilink")**
+10. **[COSMIC LOVE](../Page/STARCAMP_EP.md "wikilink")**
 11. <Bonus Track> **MASSIVE WONDERS （another edit）**
 
 <!-- end list -->
@@ -236,7 +236,7 @@
   - MASSIVE WONDERS（typeB）
   - [GREAT ACTIVITY](../Page/GREAT_ACTIVITY.md "wikilink")（typeA）
   - GREAT ACTIVITY（typeB）
-  - [STARCAMP EP](https://ja.wikipedia.org/wiki/STARCAMP_EP "wikilink")（typeA）
+  - [STARCAMP EP](../Page/STARCAMP_EP.md "wikilink")（typeA）
   - STARCAMP EP（typeB）
   - NANA MIZUKI LIVE FORMULA at SAITAMA SUPER ARENA
 

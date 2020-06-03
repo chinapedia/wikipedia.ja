@@ -7,7 +7,7 @@
 
 中学校では[英語科と](../Page/英語_\(教科\).md "wikilink")[数学科で習熟度別の](../Page/数学_\(教科\).md "wikilink")[授業](../Page/授業.md "wikilink")を導入している。また高等学校では[国公立コース](https://ja.wikipedia.org/wiki/国公立大学 "wikilink")・[理文選修コースの](../Page/文系と理系.md "wikilink")2コースを設置し、希望進路に応じた学習を図っている。
 
-中学校・高等学校ともに大半の生徒が[寮](../Page/寮.md "wikilink")生活を送っている。かつては[全寮制](https://ja.wikipedia.org/wiki/全寮制 "wikilink")であったが、現在は自宅通学も可能になっている。また、以前は高等学校に[定時制](https://ja.wikipedia.org/wiki/定時制 "wikilink")課程・[通信制](https://ja.wikipedia.org/wiki/通信制 "wikilink")課程も併設されていた。定時制課程は[2000年](../Page/2000年.md "wikilink")度（[平成](../Page/平成.md "wikilink")12年度）、通信制課程は[2009年](../Page/2009年.md "wikilink")度（平成21年度）に休止となっている。
+中学校・高等学校ともに大半の生徒が[寮](../Page/寮.md "wikilink")生活を送っている。かつては[全寮制であったが](https://ja.wikipedia.org/wiki/学生寮#全寮制 "wikilink")、現在は自宅通学も可能になっている。また、以前は高等学校に[定時制](https://ja.wikipedia.org/wiki/定時制 "wikilink")課程・[通信制](https://ja.wikipedia.org/wiki/通信制 "wikilink")課程も併設されていた。定時制課程は[2000年](../Page/2000年.md "wikilink")度（[平成](../Page/平成.md "wikilink")12年度）、通信制課程は[2009年](../Page/2009年.md "wikilink")度（平成21年度）に休止となっている。
 
 スポーツ関係の部活動の名門校としても知られており、卒業生の[清原和博](../Page/清原和博.md "wikilink")はグラウンドの大きさは高校随一だと述べている\[1\]。特に後述する硬式野球部は数々の輝かしい成績を修め大勢の[プロ野球選手](../Page/プロ野球選手.md "wikilink")を生み出してきた。しかし硬式野球部は2015年春に部員募集を停止し\[2\]、2016年7月から休部となっている。一方で軟式野球部は現在も引き続き活動を続けており、[全国高等学校軟式野球選手権大会](../Page/全国高等学校軟式野球選手権大会.md "wikilink")の大阪府代表として出場することもある。
 

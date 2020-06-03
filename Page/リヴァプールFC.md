@@ -276,9 +276,11 @@
 
 </div>
 
-  - 2020年1月13日現在\[131\]
+  - 2020年5月4日現在\[131\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([副主将](../Page/主将.md "wikilink")) ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★   ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kenya.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ☆  ☆  ☆  ☆  ☆  ☆
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([副主将](../Page/主将.md "wikilink")) ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★
+
+★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kenya.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ☆  ☆  ☆  ☆  ☆  ☆
 
 ※括弧内の国旗はその他の保有国籍を、★はホーム・グロウン選手、☆はU-21登録選手を示す。
 

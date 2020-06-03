@@ -73,6 +73,7 @@
   - [B級Cool Japan](http://odoroku.tv/variety/bq/) ([あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")、2011年1月18日-5月10日)
   - 2012年2月14日神取忍率いるLLPW-Xが道場からインターネット生放送（ワールドネットTV,ニコニコ生放送、同時生中継）をしたときに綾川ゆんまおと司会を務めた。
   - [ぶるぺん](https://ja.wikipedia.org/wiki/ぶるぺん〜今まさに世に出ようとしている「あったまった人々」が登場!〜 "wikilink")（2018年6月、[GYAO\!](../Page/GYAO!.md "wikilink")）\[5\]
+  - 2020年5月「俺たちの！オンラインプロレストークナイト」で司会を務めた。（ゲスト：[ダゼー ・ファンクJr.](https://ja.wikipedia.org/wiki/ダゼー・ファンク_Jr. "wikilink")）
 
 ### CM
 

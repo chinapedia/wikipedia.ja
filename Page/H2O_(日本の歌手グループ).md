@@ -116,16 +116,49 @@
 
 ### タイアップ一覧
 
-| 楽曲                                                    | タイアップ                                                                                                                                  |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| ローレライ                                                 | 映画『[翔んだカップル](https://ja.wikipedia.org/wiki/翔んだカップル#映画版 "wikilink")』挿入歌                                                                 |
-| 僕等のダイアリー                                              | [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[翔んだカップル](https://ja.wikipedia.org/wiki/翔んだカップル#テレビドラマ版 "wikilink")』主題歌 |
-| HELLO VIBRATION                                       | フジテレビ系アニメ『[みゆき](../Page/みゆき_\(漫画\).md "wikilink")』挿入歌                                                                                  |
-| 想い出がいっぱい                                              | フジテレビ系アニメ『みゆき』エンディングテーマ                                                                                                                |
-| <ruby>1<rt>テ</rt></ruby><ruby>0<rt>ン</rt></ruby>％の雨予報 | フジテレビ系アニメ『みゆき』オープニングテーマ                                                                                                                |
-| Good-byeシーズン                                          | フジテレビ系アニメ『みゆき』エンディングテーマ                                                                                                                |
-| ここにおいでよ                                               | [上田市](../Page/上田市.md "wikilink")制80周年イメージソング                                                                                           |
-| 想い出がいっぱい 〜the 21st century〜                           | [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")「[PIXUS](../Page/ピクサス.md "wikilink")」CMソング                                        |
+<table>
+<thead>
+<tr class="header">
+<th><p>楽曲</p></th>
+<th><p>タイアップ</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>ローレライ</p></td>
+<td><p>映画『<a href="https://ja.wikipedia.org/wiki/翔んだカップル#映画版" title="wikilink">翔んだカップル</a>』挿入歌</p></td>
+</tr>
+<tr class="even">
+<td><p>僕等のダイアリー</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/翔んだカップル#テレビドラマ版" title="wikilink">翔んだカップル</a>』主題歌</p></td>
+</tr>
+<tr class="odd">
+<td><p>HELLO VIBRATION</p></td>
+<td><p>フジテレビ系アニメ『<a href="../Page/みゆき_(漫画).md" title="wikilink">みゆき</a>』挿入歌</p></td>
+</tr>
+<tr class="even">
+<td><p>想い出がいっぱい</p></td>
+<td><p>フジテレビ系アニメ『みゆき』エンディングテーマ<br />
+<a href="https://ja.wikipedia.org/wiki/セゾン自動車火災保険" title="wikilink">セゾン自動車火災保険</a>「おとなの自動車保険」CMソング</p></td>
+</tr>
+<tr class="odd">
+<td><p><ruby>1<rt>テ</rt></ruby><ruby>0<rt>ン</rt></ruby>％の雨予報</p></td>
+<td><p>フジテレビ系アニメ『みゆき』オープニングテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>Good-byeシーズン</p></td>
+<td><p>フジテレビ系アニメ『みゆき』エンディングテーマ</p></td>
+</tr>
+<tr class="odd">
+<td><p>ここにおいでよ</p></td>
+<td><p><a href="../Page/上田市.md" title="wikilink">上田市</a>制80周年イメージソング</p></td>
+</tr>
+<tr class="even">
+<td><p>想い出がいっぱい 〜the 21st century〜</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キヤノン" title="wikilink">キヤノン</a>「<a href="../Page/ピクサス.md" title="wikilink">PIXUS</a>」CMソング</p></td>
+</tr>
+</tbody>
+</table>
 
 ## その他
 
@@ -161,7 +194,7 @@
 
   - [H<sub>2</sub>O](https://www.universal-music.co.jp/h2o/) （ [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [赤塩正樹web site](http://aka-planet.com/)
-  - [なかざわけんじ official web site](http://kenji-nakazawa.com/)
+  - [なかざわけんじ official web site](https://kenji-nakazawa.com/)
   - [MUTOWN RECORDS web site](http://do-t.jp/)
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:1976年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1976年に結成した音楽グループ "wikilink") [Category:1985年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に解散した音楽グループ "wikilink") [Category:1999年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に再結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink")

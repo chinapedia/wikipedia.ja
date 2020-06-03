@@ -67,7 +67,7 @@
 
   - [おうみ発630](../Page/おうみ発630.md "wikilink")（平日 18:30 - 19:00、総合テレビ）
   - [おうみ845](https://ja.wikipedia.org/wiki/おうみ845 "wikilink")（平日 20:45 - 21:00、総合テレビ）
-  - FMおうみi（毎月最終金曜 18:00 - 18:50、FM放送）
+  - しが\!\!防災応援ラジオ（第3金曜 18:00 - 18:50、FM放送）
   - ニュース・気象情報（平日 18:50 - 19:00、ラジオ第1放送・FM放送）
 
 ### 過去
@@ -106,7 +106,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大山武人" title="wikilink">大山武人</a></p></td>
 <td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
-<td><p>おうみ845</p></td>
+<td><p>おうみ発630<br />
+しが</p></td>
 </tr>
 <tr class="odd">
 <td><p>契約キャスター</p></td>

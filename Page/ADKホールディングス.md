@@ -29,7 +29,7 @@
 
 1997年には国内初の[インターネット](../Page/インターネット.md "wikilink")調査パネル「KNOTs」\[5\]をリリースするなどの先進的な取り組みを行った。
 
-**アサツー ディ・ケイ**は[1999年](../Page/1999年.md "wikilink")1月1日に、当時売上規模で国内3位だった旭通信社と7位だった第一企画が合併して発足した。旭通信社時代から引き継いだアニメコンテンツに強みを持つ。その歴史は古く1963年11月8日から放映された『[8マン](../Page/8マン.md "wikilink")』にはじまり、それ以降『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』シリーズに代表される[藤子アニメなどの多くの作品の製作に加わっている](../Page/藤子不二雄.md "wikilink")。第一企画から引き継いだ『[妖怪人間ベム](../Page/妖怪人間ベム.md "wikilink")』では原作に**ADK**の社名が単独でクレジットされている。
+**アサツー ディ・ケイ**は[1999年](../Page/1999年.md "wikilink")1月1日に、当時売上規模で国内3位だった旭通信社と7位だった第一企画が合併して発足した。旭通信社時代から引き継いだアニメコンテンツに強みを持つ。その歴史は古く1963年11月8日から放映された『[8マン](../Page/8マン.md "wikilink")』にはじまり、それ以降『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")』シリーズに代表される[藤子アニメなどの多くの作品の製作に加わっている](../Page/藤子不二雄.md "wikilink")。第一企画から引き継いだ『[妖怪人間ベム](../Page/妖怪人間ベム.md "wikilink")』の派生作品では原作に**ADK**の社名が単独でクレジットされている（『[BEM](https://ja.wikipedia.org/wiki/妖怪人間ベム_#BEM "wikilink")』以降の作品は後述のADKエモーションズに継承）。
 
 [2002年](../Page/2002年.md "wikilink")にそれぞれの旧本社を集約する形で、東京都中央区築地のADK松竹スクエア（現・[銀座松竹スクエア](https://ja.wikipedia.org/wiki/築地松竹ビル "wikilink")）へ本社を移転。そのほか、分散していたオフィスも統合された。その関係から、ADK松竹スクエアは大手広告会社を扱ったテレビドラマ『[サプリ](../Page/サプリ_\(テレビドラマ\).md "wikilink")』などの撮影の舞台になった。
 
@@ -112,11 +112,9 @@
       - [ヘボット](https://ja.wikipedia.org/wiki/ヘボット "wikilink")
       - [ガンダムビルドダイバーズ](https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズ "wikilink")※
   - **[シンエイ動画](../Page/シンエイ動画.md "wikilink")**
-      - [ドラえもん](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")（第2作第1期）
       - [あたしンち](../Page/あたしンち.md "wikilink")
       - [ご姉弟物語](https://ja.wikipedia.org/wiki/バカ姉弟#テレビアニメ "wikilink")
   - **[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")**
-      - [夢のクレヨン王国](../Page/夢のクレヨン王国.md "wikilink")
       - [エア・ギア](../Page/エア・ギア.md "wikilink")
       - [おジャ魔女どれみ](https://ja.wikipedia.org/wiki/おジャ魔女どれみ "wikilink")シリーズ
       - [明日のナージャ](https://ja.wikipedia.org/wiki/明日のナージャ "wikilink")
@@ -131,13 +129,16 @@
       - [ビーストウォーズメタルス 超生命体トランスフォーマー](../Page/ビーストウォーズメタルス_超生命体トランスフォーマー.md "wikilink")
       - [蟲師](https://ja.wikipedia.org/wiki/蟲師 "wikilink")
       - [幻影闘士バストフレモン](../Page/幻影闘士バストフレモン.md "wikilink")
-      - [こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\)#テレビアニメ（レギュラー版） "wikilink")
       - [毎日かあさん](../Page/毎日かあさん.md "wikilink")
       - [ゴーストハント](../Page/悪霊シリーズ.md "wikilink")
       - [キスダム -ENGAGE planet-](../Page/キスダム_-ENGAGE_planet-.md "wikilink")
       - [トムとジェリーとゆかいな仲間](https://ja.wikipedia.org/wiki/トムとジェリー#トムとジェリーとゆかいな仲間 "wikilink")（[ワーナー・ブラザース テレビジョンと共同配給](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")）
+      - [妖怪人間ベム -HUMANOID MONSTER BEM-](https://ja.wikipedia.org/wiki/妖怪人間ベム_#妖怪人間ベム_-HUMANOID_MONSTER_BEM- "wikilink")（原作）
+      - [俺たちゃ妖怪人間シリーズ](https://ja.wikipedia.org/wiki/妖怪人間ベム_#俺たちゃ妖怪人間 "wikilink")（原作）
 
 ### 旧旭通信社
+
+△はアサツー・ディ ケイ発足後も継続した作品。
 
   - **[エイケン](https://ja.wikipedia.org/wiki/エイケン_\(企業\) "wikilink")**
       - [エイトマン](../Page/8マン.md "wikilink")\[21\]
@@ -172,13 +173,13 @@
       - [ママレード・ボーイ](../Page/ママレード・ボーイ.md "wikilink")
       - [ご近所物語](../Page/ご近所物語.md "wikilink")
       - [花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")
-      - [夢のクレヨン王国](../Page/夢のクレヨン王国.md "wikilink")
+      - [夢のクレヨン王国](../Page/夢のクレヨン王国.md "wikilink")△
   - **[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")**
       - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")（創映社）
       - [超者ライディーン](../Page/超者ライディーン.md "wikilink")（サンライズ）
       - [バットマン](../Page/バットマン_\(アニメ\).md "wikilink")（テレビ東京放送版）
   - **シンエイ動画**
-      - ドラえもん（大山ドラ時代）
+      - [ドラえもん（第2作第1期)](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")△
       - [藤子不二雄劇場](../Page/藤子不二雄劇場.md "wikilink")
       - [忍者ハットリくん](../Page/忍者ハットリくん.md "wikilink")
       - [パーマン](../Page/パーマン.md "wikilink")
@@ -222,6 +223,7 @@
       - [小さな森の精 あいあむ\!スマーフ](https://ja.wikipedia.org/wiki/スマーフ#アニメーション "wikilink")（テレビ東京、[トップクラフト](../Page/トップクラフト.md "wikilink")と共同制作）
       - [キテレツ大百科](https://ja.wikipedia.org/wiki/キテレツ大百科_\(アニメ\) "wikilink")
       - [ミラクル☆ガールズ](../Page/ミラクル☆ガールズ.md "wikilink")
+      - [こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\)#テレビアニメ（レギュラー版） "wikilink")△
       - [ミュータント・タートルズ](https://ja.wikipedia.org/wiki/ティーンエイジ・ミュータント・ニンジャ・タートルズ_\(1987年のアニメ\) "wikilink")（テレビ東京版）
       - [ビーストウォーズ 超生命体トランスフォーマー](../Page/ビーストウォーズ_超生命体トランスフォーマー.md "wikilink")
 
@@ -426,7 +428,7 @@
   - [株式会社ADKクリエイティブ・ワン](https://www.adkco.jp/)
   - [株式会社ADKエモーションズ](https://www.adkem.jp/)
 
-[Category:ADKグループ](https://ja.wikipedia.org/wiki/Category:ADKグループ "wikilink") [Category:日本の広告代理店](https://ja.wikipedia.org/wiki/Category:日本の広告代理店 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1987年上場の企業](https://ja.wikipedia.org/wiki/Category:1987年上場の企業 "wikilink") [Category:WPPグループ](https://ja.wikipedia.org/wiki/Category:WPPグループ "wikilink") [Category:アニメに関係する企業](https://ja.wikipedia.org/wiki/Category:アニメに関係する企業 "wikilink") [Category:特撮](https://ja.wikipedia.org/wiki/Category:特撮 "wikilink") [Category:1956年設立の企業](https://ja.wikipedia.org/wiki/Category:1956年設立の企業 "wikilink")
+[Category:ADKグループ](https://ja.wikipedia.org/wiki/Category:ADKグループ "wikilink") [Category:日本の広告代理店](https://ja.wikipedia.org/wiki/Category:日本の広告代理店 "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:1987年上場の企業](https://ja.wikipedia.org/wiki/Category:1987年上場の企業 "wikilink") [Category:WPPグループ](https://ja.wikipedia.org/wiki/Category:WPPグループ "wikilink") [Category:アニメに関係する企業](https://ja.wikipedia.org/wiki/Category:アニメに関係する企業 "wikilink") [Category:特撮](https://ja.wikipedia.org/wiki/Category:特撮 "wikilink") [Category:1956年設立の企業](https://ja.wikipedia.org/wiki/Category:1956年設立の企業 "wikilink")
 
 1.
 2.  [「全員経営」に込められた創業者の思い](https://www.advertimes.com/20160115/article214626/?utm_source=mail&utm_medium=mail20160119&utm_campaign=mail20160119)
@@ -449,9 +451,9 @@
 19.
 20.
 21. 双葉社『ミラーマン大全』旭通信社『ミラーマン』担当 佐野吉秀インタビュー pp.250
-22. [平成23年度原子力安全規制情報広聴・広報事業（不正確情報対応）入札広告](http://www.enecho.meti.go.jp/info/tender/tenddata/1106/110624b/110624b.htm)
-23. [Twitter・ブログの原発情報監視事業に東京弁護士会が懸念表明　「弊害の方が大きい」](http://www.itmedia.co.jp/news/articles/1107/28/news066.html) ITmediaニュース、2011年07月28日 15時20分
-24. [エネ庁の原発情報監視　本年度7000万円で契約](http://www.tokyo-np.co.jp/article/national/news/CK2011072802000040.html)  東京新聞、2011年7月28日朝刊
+22. [平成23年度原子力安全規制情報広聴・広報事業（不正確情報対応）入札広告](https://www.enecho.meti.go.jp/info/tender/tenddata/1106/110624b/110624b.htm)
+23. [Twitter・ブログの原発情報監視事業に東京弁護士会が懸念表明　「弊害の方が大きい」](https://www.itmedia.co.jp/news/articles/1107/28/news066.html) ITmediaニュース、2011年07月28日 15時20分
+24. [エネ庁の原発情報監視　本年度7000万円で契約](https://www.tokyo-np.co.jp/article/national/news/CK2011072802000040.html)  東京新聞、2011年7月28日朝刊
 25. [エネルギー庁：原発のメディア情報監視事業　ADK落札](http://mainichi.jp/select/biz/news/20110729k0000m020062000c.html) 毎日新聞、2011年7月28日
 26. [ADKとDACが合弁解消、ADKインタラクティブ解散へ](https://markezine.jp/article/detail/14290) Markzine 2011年8月29日
 27.

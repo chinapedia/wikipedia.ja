@@ -7,17 +7,19 @@
 
 かつては*民放の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")*と揶揄されたこともあり、番組カラーとして「真面目さ」があった。1980年代ごろまではこの真面目さが目立ち、ライバルである[ニッポン放送](../Page/ニッポン放送.md "wikilink")に長年の間、[聴取率](../Page/聴取率.md "wikilink")で差が付けられていた時期もあったが、2001年8月以降は[首都圏での聴取率首位を不動の座にしている](../Page/首都圏_\(日本\).md "wikilink")。
 
-聴取率好調の要因としては、TBSラジオを[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")とする[ラジオネットワーク](../Page/ラジオネットワーク.md "wikilink")の[JRN及び](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")、同局の兄弟会社である[TBSテレビ](../Page/TBSテレビ.md "wikilink")をキー局とする[ニュースネットワークの](../Page/ニュース系列.md "wikilink")[JNNが誇る取材力を生かし](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、充実した[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")が聴取者に受け入れられており、特に50 - 60代のラジオに慣れ親しんだ世代からの支持が強く、また聴取率調査の年齢対象が69歳にまで引き上げられたことが背景としてある。また従来のTBSカラーとは異なる[宮川賢](../Page/宮川賢.md "wikilink")・[伊集院光](../Page/伊集院光.md "wikilink")・[松本ともこ](../Page/松本ともこ.md "wikilink")などの[深夜放送](../Page/深夜放送.md "wikilink")や他局から移籍した[パーソナリティが](../Page/ラジオパーソナリティ.md "wikilink")、日中の番組に上手く定着したことも、現在好調の一因ともなっている。
+聴取率好調の要因としては、TBSラジオを[キー局](../Page/キー局.md "wikilink")とする[ラジオネットワーク](../Page/ラジオネットワーク.md "wikilink")の[JRN及び](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")、同局の兄弟会社である[TBSテレビ](../Page/TBSテレビ.md "wikilink")をキー局とする[ニュースネットワークの](../Page/ニュース系列.md "wikilink")[JNNが誇る取材力を生かし](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、充実した[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")が聴取者に受け入れられており、特に50 - 60代のラジオに慣れ親しんだ世代からの支持が強く、また聴取率調査の年齢対象が69歳にまで引き上げられたことが背景としてある。また従来のTBSカラーとは異なる[宮川賢](../Page/宮川賢.md "wikilink")・[伊集院光](../Page/伊集院光.md "wikilink")・[松本ともこ](../Page/松本ともこ.md "wikilink")などの[深夜放送](../Page/深夜放送.md "wikilink")や他局から移籍した[パーソナリティが](../Page/ラジオパーソナリティ.md "wikilink")、日中の番組に上手く定着したことも、現在好調の一因ともなっている。
 
 相撲の若貴ブームに『[まった無し\!大相撲](https://ja.wikipedia.org/wiki/まった無し!大相撲 "wikilink")』、第2次[声優](../Page/声優.md "wikilink")ブームには、帯、週末に多くの[アニラジ](../Page/アニラジ.md "wikilink")番組を編成し、[文化放送](../Page/文化放送.md "wikilink")に並ぶ量を誇り、流行には敏感だったが、流行を生み出したことは無く、「他で好評だったから編成する」と言う後乗り感もあった。
 
 1990年代にはTBSラジオ制作番組が地方にネットする際のフィラーBGM（裏送り番組を含む）に[MEZZOFORTEの](../Page/メゾフォルテ_\(バンド\).md "wikilink")『FusionBlues』が使用されていたこともあった。
 
-現在はサブカルチャー色の強いパーソナリティにこだわって番組を制作しているが、かつて聴取率に苦しんだ1990年代においては苦肉の策として他局の看板パーソナリティの起用を行っていた時期もあった。例として、[ニッポン放送](../Page/ニッポン放送.md "wikilink")出身の[高嶋ひでたけ](https://ja.wikipedia.org/wiki/高嶋ひでたけ "wikilink")（『[高嶋ひでたけのAKASAKA発スポーツまるごと90分](https://ja.wikipedia.org/wiki/高嶋ひでたけのAKASAKA発スポーツまるごと90分 "wikilink")』など）、[文化放送](../Page/文化放送.md "wikilink")出身の[吉田照美](../Page/吉田照美.md "wikilink")（『[吉田照美のびんびんタイムス\!〜まだまだもっと日曜日](https://ja.wikipedia.org/wiki/吉田照美のびんびんタイムス!〜まだまだもっと日曜日 "wikilink")』など）などである。いずれの者も短期間で降板しており、現在は両者ともTBSラジオには出演していない。
+現在はサブカルチャー色の強いパーソナリティにこだわって番組を制作しているが、かつて聴取率に苦しんだ1990年代においては苦肉の策として他局の看板パーソナリティの起用を行っていた時期もあった。例として、[ニッポン放送](../Page/ニッポン放送.md "wikilink")出身の[高嶋ひでたけ](https://ja.wikipedia.org/wiki/高嶋ひでたけ "wikilink")（『[高嶋ひでたけのAKASAKA発スポーツまるごと90分](https://ja.wikipedia.org/wiki/高嶋ひでたけのAKASAKA発スポーツまるごと90分 "wikilink")』など）、[文化放送](../Page/文化放送.md "wikilink")出身の[吉田照美](../Page/吉田照美.md "wikilink")（『[吉田照美のびんびんタイムス\!〜まだまだもっと日曜日](https://ja.wikipedia.org/wiki/吉田照美のびんびんタイムス!〜まだまだもっと日曜日 "wikilink")』など）などである。番組はいずれも短期間で終了しており、現在は両者ともTBSラジオには出演していない。
+
+2020年4月改編現在、他局からネットを受けるレギュラー番組は、共に在阪のJRN・NRNクロスネット局である[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")制作番組が3本（うち1本は月1回放送）ある一方、[毎日放送制作番組はない](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")\[1\]。そしてNRNシングルネットの在阪局である[ラジオ大阪からは](../Page/大阪放送.md "wikilink")、スポンサーの都合および同時ネットが可能な番組編成事情により『[司馬遼太郎短篇傑作選](https://ja.wikipedia.org/wiki/司馬遼太郎短篇傑作選 "wikilink")』をネット受けしている\[2\]。
 
 ## TBSラジオにおける「アナウンサー」の扱い
 
-[ラテ兼営](../Page/ラテ兼営.md "wikilink")局時代には[久米宏](../Page/久米宏.md "wikilink")や[大沢悠里](../Page/大沢悠里.md "wikilink")・[小島一慶](../Page/小島一慶.md "wikilink")・[松宮一彦](../Page/松宮一彦.md "wikilink")など、同局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")から生え抜きのパーソナリティを育成していたが、東京放送（当時）が2000年にラジオ部門などを分社化した影響で、[TBSラジオのアナウンサーとして番組に出演しているパーソナリティは](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")、会社法上、**TBS→TBSテレビからの[在籍出向](https://ja.wikipedia.org/wiki/人事#出向・転籍 "wikilink")**という形式を取っている\[1\]。{{\#time:Y年Md日H時i分|+9 hours}}現在、TBSラジオ単独でのアナウンサー採用は行われておらず、『[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース#ラジオ "wikilink")』や出演者の休暇などによる代役（主にワイド番組でのアシスタント級）などは、[TBS954情報キャスターや](https://ja.wikipedia.org/wiki/TBSラジオ#TBS954情報キャスター "wikilink")[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")が担当することが多くなっている。
+[ラテ兼営](../Page/ラテ兼営.md "wikilink")局時代には[久米宏](../Page/久米宏.md "wikilink")や[大沢悠里](../Page/大沢悠里.md "wikilink")・[小島一慶](../Page/小島一慶.md "wikilink")・[松宮一彦](../Page/松宮一彦.md "wikilink")など、同局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")から生え抜きのパーソナリティを育成していたが、東京放送（当時）が2000年にラジオ部門などを分社化した影響で、[TBSラジオのアナウンサーとして番組に出演しているパーソナリティは](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")、会社法上、**TBS→TBSテレビからの[在籍出向](https://ja.wikipedia.org/wiki/人事#出向・転籍 "wikilink")**という形式を取っている\[3\]。{{\#time:Y年Md日H時i分|+9 hours}}現在、TBSラジオ単独でのアナウンサー採用は行われておらず、『[TBSニュース](https://ja.wikipedia.org/wiki/TBSニュース#ラジオ "wikilink")』や出演者の休暇などによる代役（主にワイド番組でのアシスタント級）などは、[TBS954情報キャスターや](https://ja.wikipedia.org/wiki/TBSラジオ#TBS954情報キャスター "wikilink")[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")が担当することが多くなっている。
 
 上記のような状況に至るには、1990年代前半にまで遡る。その頃のTBS（現：TBSHD）は、主にスポーツ実況を担当していたベテランアナウンサーの退職や引退が相次ぎ、さらには病気で亡くなるアナウンサーもいた。そこで会社はスポーツアナの育成を最優先させることとなり、1993年から3年連続で中途採用を実施したり（[清水大輔](../Page/清水大輔.md "wikilink")・[升田尚宏](../Page/升田尚宏.md "wikilink")・[土井敏之](../Page/土井敏之.md "wikilink")の3人）、採用された新卒の男性アナウンサーには、まず「スポーツ系番組」を優先的に担当させるようにした。一方、[小林豊や](../Page/小林豊_\(アナウンサー\).md "wikilink")[鈴木順](../Page/鈴木順.md "wikilink")らラジオで活躍してきたアナウンサーが、テレビで人気が出た為テレビに軸足を置いたり、他部署に異動したりすることが多く、局アナ担当番組が聴取率で苦戦を強いられるなど、「局アナパーソナリティーの育成」の観点で不幸な環境が続いた。
 
@@ -167,7 +169,7 @@
 <td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/たまむすび" title="wikilink">たまむすび</a></strong><br />
 パーソナリティ：月 - 木 <a href="https://ja.wikipedia.org/wiki/赤江珠緒" title="wikilink">赤江珠緒</a>、金 <a href="../Page/外山惠理.md" title="wikilink">外山惠理</a><br />
 パートナー：月 <a href="../Page/カンニング竹山.md" title="wikilink">カンニング竹山</a>、火 <a href="../Page/山里亮太.md" title="wikilink">山里亮太</a>、水 <a href="../Page/博多大吉.md" title="wikilink">博多大吉</a>、木 <a href="https://ja.wikipedia.org/wiki/土屋礼央" title="wikilink">土屋礼央</a>、金 <a href="../Page/玉袋筋太郎.md" title="wikilink">玉袋筋太郎</a><br />
-▽13:42 <a href="../Page/ドライバーズ・リクエスト.md" title="wikilink">ドライバーズ・リクエスト</a> - <a href="../Page/宮崎瑠依.md" title="wikilink">宮崎瑠依</a>、<a href="https://ja.wikipedia.org/wiki/皆川玲奈" title="wikilink">皆川玲奈</a></p></td>
+▽13:42 <a href="../Page/ドライバーズ・リクエスト.md" title="wikilink">ドライバーズ・リクエスト</a> - <a href="../Page/宮崎瑠依.md" title="wikilink">宮崎瑠依</a>（代役：竹内香苗）、<a href="https://ja.wikipedia.org/wiki/皆川玲奈" title="wikilink">皆川玲奈</a></p></td>
 <td><p>13</p></td>
 <td></td>
 <td></td>
@@ -245,7 +247,7 @@
 腸から始まる健康ライフ</a><br />
 <a href="../Page/中澤有美子.md" title="wikilink">中澤有美子</a></p></td>
 <td><p>50 <a href="https://ja.wikipedia.org/wiki/何かが始まる音がする" title="wikilink">何かが始まる音がする</a></p></td>
-<td><p>50 <a href="https://ja.wikipedia.org/wiki/Times_2020" title="wikilink">Times 2020</a>[2]<br />
+<td><p>50 <a href="https://ja.wikipedia.org/wiki/Times_2020" title="wikilink">Times 2020</a>[4]<br />
 <a href="https://ja.wikipedia.org/wiki/山本恵里伽" title="wikilink">山本恵里伽</a></p></td>
 <td><p>50 <a href="../Page/講談社.md" title="wikilink">講談社</a> presents<br />
 <a href="https://ja.wikipedia.org/wiki/小森谷徹の「あした話したくなるラジオ」" title="wikilink">小森谷徹の<br />
@@ -257,7 +259,7 @@
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/アフター6ジャンクション" title="wikilink">アフター6ジャンクション</a></strong>[3]<br />
+<td><p>00 <strong><a href="https://ja.wikipedia.org/wiki/アフター6ジャンクション" title="wikilink">アフター6ジャンクション</a></strong>[5]<br />
 パーソナリティ：<a href="../Page/宇多丸.md" title="wikilink">宇多丸</a><br />
 パートナー：月 <a href="https://ja.wikipedia.org/wiki/熊崎風斗" title="wikilink">熊崎風斗</a>、火 <a href="https://ja.wikipedia.org/wiki/宇垣美里" title="wikilink">宇垣美里</a>、水 <a href="https://ja.wikipedia.org/wiki/日比麻音子" title="wikilink">日比麻音子</a>、木 <a href="https://ja.wikipedia.org/wiki/宇内梨沙" title="wikilink">宇内梨沙</a>、金 <a href="https://ja.wikipedia.org/wiki/山本匠晃" title="wikilink">山本匠晃</a></p></td>
 <td><p>18</p></td>
@@ -291,8 +293,8 @@
 <td><p>|High School a Go Go</p></td>
 <td><p>]]<br />
 <a href="https://ja.wikipedia.org/wiki/石井大裕" title="wikilink">石井大裕</a></p></td>
-<td><p>00 <a href="https://ja.wikipedia.org/wiki/東京上野クリニック" title="wikilink">東京上野クリニック</a> presents<br />
-成瀬心美 ぷるるんhoneyトラップ<br />
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/上野クリニック" title="wikilink">東京上野クリニック</a> presents<br />
+<a href="https://ja.wikipedia.org/wiki/成瀬心美ぷるるんhoneyトラップ" title="wikilink">成瀬心美ぷるるんhoneyトラップ</a><br />
 <a href="https://ja.wikipedia.org/wiki/成瀬心美" title="wikilink">成瀬心美</a></p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/テンカイズ" title="wikilink">テンカイズ</a><br />
 <a href="https://ja.wikipedia.org/wiki/宇賀なつみ" title="wikilink">宇賀なつみ</a></p></td>
@@ -339,7 +341,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23:55 <a href="https://ja.wikipedia.org/wiki/BLITZ_POWER_PUSH" title="wikilink">BLITZ POWER PUSH</a> - <a href="https://ja.wikipedia.org/wiki/近藤夏子_(アナウンサー)" title="wikilink">近藤夏子</a>、<a href="https://ja.wikipedia.org/wiki/篠原梨菜" title="wikilink">篠原梨菜</a>[4][5]</p></td>
+<td><p>23:55 <a href="https://ja.wikipedia.org/wiki/BLITZ_POWER_PUSH" title="wikilink">BLITZ POWER PUSH</a> - <a href="https://ja.wikipedia.org/wiki/近藤夏子_(アナウンサー)" title="wikilink">近藤夏子</a>、<a href="https://ja.wikipedia.org/wiki/篠原梨菜" title="wikilink">篠原梨菜</a>[6][7]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -379,8 +381,7 @@
 <td><p><a href="../Page/爆笑問題カーボーイ.md" title="wikilink">爆笑問題カーボーイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山里亮太の不毛な議論" title="wikilink">山里亮太の不毛な議論</a></p></td>
 <td><p><a href="../Page/おぎやはぎのメガネびいき.md" title="wikilink">おぎやはぎのメガネびいき</a></p></td>
-<td><p><a href="../Page/バナナマンのバナナムーンGOLD.md" title="wikilink">バナナマンの<br />
-バナナムーンGOLD</a></p></td>
+<td><p><a href="../Page/バナナマンのバナナムーンGOLD.md" title="wikilink">バナナマンのバナナムーンGOLD</a></p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -522,7 +523,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>30 <a href="https://ja.wikipedia.org/wiki/新米記者・松本穂香です。" title="wikilink">新米記者・松本穂香です。</a> - <a href="https://ja.wikipedia.org/wiki/松本穂香" title="wikilink">松本穂香</a></p></td>
+<td><p>30 <a href="https://ja.wikipedia.org/wiki/新米記者・松本穂香です。" title="wikilink">新米記者・松本穂香です。</a> - <a href="https://ja.wikipedia.org/wiki/松本穂香" title="wikilink">松本穂香</a> ▽58 TBSニュース・交通情報</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -602,7 +603,7 @@
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>00 <a href="https://ja.wikipedia.org/wiki/司馬遼太郎短篇傑作選" title="wikilink">司馬遼太郎短篇傑作選</a>（<a href="../Page/大阪放送.md" title="wikilink">OBC</a>） - <a href="../Page/竹下景子.md" title="wikilink">竹下景子</a>、朗読担当男性声優[6]</p></td>
+<td><p>00 <a href="https://ja.wikipedia.org/wiki/司馬遼太郎短篇傑作選" title="wikilink">司馬遼太郎短篇傑作選</a>（<a href="../Page/大阪放送.md" title="wikilink">OBC</a>） - <a href="../Page/竹下景子.md" title="wikilink">竹下景子</a>、朗読担当男性声優[8]</p></td>
 <td><p>00 <a href="https://ja.wikipedia.org/wiki/村上ゆきのスローリビング" title="wikilink">村上ゆきのスローリビング</a> - <a href="https://ja.wikipedia.org/wiki/村上ゆき" title="wikilink">村上ゆき</a></p></td>
 <td><p>18</p></td>
 </tr>
@@ -637,7 +638,7 @@
 <td><p>20</p></td>
 </tr>
 <tr class="even">
-<td><p>55 TBSニュース</p></td>
+<td><p>55 TBSニュース・天気予報</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -655,7 +656,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>45 <a href="https://ja.wikipedia.org/wiki/納言のイチナナゴン！〜17Liveでおいしゃーす〜" title="wikilink">納言のイチナナゴン！〜17Liveでおいしゃーす〜</a> - <a href="https://ja.wikipedia.org/wiki/納言_(お笑いコンビ)" title="wikilink">納言</a></p></td>
+<td><p>45 <a href="https://ja.wikipedia.org/wiki/納言のイチナナゴン!〜17Liveでおいしゃーす〜" title="wikilink">納言のイチナナゴン!〜17Liveでおいしゃーす〜</a> - <a href="https://ja.wikipedia.org/wiki/納言_(お笑いコンビ)" title="wikilink">納言</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -731,7 +732,7 @@
 
 ## 裏送り番組
 
-  - JRNナイター\[7\]
+  - JRNナイター\[9\]
       - [TBSラジオ エキサイトベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")（終了）
   - [はがきでこんにちは](../Page/はがきでこんにちは.md "wikilink")
   - [萩原健太のMusic SMiLE](https://ja.wikipedia.org/wiki/萩原健太のMusic_SMiLE "wikilink")
@@ -969,7 +970,7 @@
   - [センチュリー21](../Page/センチュリー21・ジャパン.md "wikilink") presents [伊原六花](https://ja.wikipedia.org/wiki/伊原六花 "wikilink")とブカツ☆ダンス
   - ハツデンキ
   - Catch UP Music
-  - [簡易恋愛プログラム 宮川賢のデートの時間でそ?\!](https://ja.wikipedia.org/wiki/簡易恋愛プログラム_宮川賢のデートの時間でそ?! "wikilink")（2016年4月16日\[8\] - 2019年12月28日）
+  - [簡易恋愛プログラム 宮川賢のデートの時間でそ?\!](https://ja.wikipedia.org/wiki/簡易恋愛プログラム_宮川賢のデートの時間でそ?! "wikilink")（2016年4月16日\[10\] - 2019年12月28日）
   - [chelmicoのでも、まだ土曜日](https://ja.wikipedia.org/wiki/chelmicoのでも、まだ土曜日 "wikilink")
   - [のどの窓](https://ja.wikipedia.org/wiki/のどの窓 "wikilink")
   - [RADIO-EX](https://ja.wikipedia.org/wiki/ラジオワールド#RADIO-EX "wikilink")
@@ -1202,11 +1203,13 @@
 
 [Category:TBSラジオの番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの番組 "wikilink") [Category:ラジオ番組一覧](https://ja.wikipedia.org/wiki/Category:ラジオ番組一覧 "wikilink")
 
-1.  この「ラジオ局のアナウンサーが関連会社のテレビ局からの出向」という形式は、同様にラテ兼営から分社化した[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（親会社の[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")から）と[CBCラジオ](../Page/CBCラジオ.md "wikilink")（親会社の[中部日本放送](../Page/中部日本放送.md "wikilink")→兄弟会社の[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")から）と[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（兄弟会社の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")から）でも踏襲されている。
-2.  当時のニュースの伝え方を2020年の伝え方と比較する。
-3.
-4.
-5.  TBS RADIO Press 2019 OCT - NOV p.15
-6.  毎年9月頃放送の作品は竹下自ら朗読。
-7.  2017年まで、[スペシャルウィークは](../Page/聴取率.md "wikilink")[巨人や](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[DeNA主催カードなどの中継で](../Page/横浜DeNAベイスターズ.md "wikilink")、首都圏向けと全国向けを二重制作していたため。
-8.  TBSラジオ以外のネット局では裏送りで2016年4月2日放送開始
+1.  2015年3月にネットを終了した『[AKB48木崎ゆりあ 2014年のシンデレラ](https://ja.wikipedia.org/wiki/AKB48木崎ゆりあ_2014年のシンデレラ "wikilink")』が直近。
+2.  ラジオ大阪はNRNキー局である文化放送との関係が深いが、2012年10月の番組開始時点でスポンサーの[川口技研](../Page/川口技研.md "wikilink")が文化放送で単独提供番組を2本持っており、これ以上単独提供枠を増やせなかった。そして放送枠である土曜18時台前半は、当時の文化放送では年度上半期に『[文化放送ホームランナイター](../Page/文化放送ホームランナイター.md "wikilink")』を編成しており、通年の同時ネットが不可能だった。
+3.  この「ラジオ局のアナウンサーが関連会社のテレビ局からの出向」という形式は、同様にラテ兼営から分社化した[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（親会社の[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")から）と[CBCラジオ](../Page/CBCラジオ.md "wikilink")（親会社の[中部日本放送](../Page/中部日本放送.md "wikilink")→兄弟会社の[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")から）と[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（兄弟会社の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")から）でも踏襲されている。
+4.  当時のニュースの伝え方を2020年の伝え方と比較する。
+5.
+6.
+7.  TBS RADIO Press 2019 OCT - NOV p.15
+8.  毎年9月頃放送の作品は竹下自ら朗読。
+9.  2017年まで、[スペシャルウィークは](../Page/聴取率.md "wikilink")[巨人や](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[DeNA主催カードなどの中継で](../Page/横浜DeNAベイスターズ.md "wikilink")、首都圏向けと全国向けを二重制作していたため。
+10. TBSラジオ以外のネット局では裏送りで2016年4月2日放送開始

@@ -404,6 +404,7 @@
   - [NHK特集](../Page/NHKスペシャル.md "wikilink")　のぞみ5歳　～手探りの子育て日記～　- 1986年NHK金沢放送局制作のドキュメンタリー。金沢市に住む全盲の夫婦が手探りで子育てをする姿を5年間地道に取材。第２回文化庁芸術作品賞、第13回放送文化基金賞奨励賞ほか、多くの賞を受賞。\[8\]
   - [よせがき☆テレビ かいてみんけ↑](https://ja.wikipedia.org/wiki/よせがき☆テレビ_かいてみんけ↑ "wikilink")（2009年から2011年まで放送された特別番組）
   - [今・おも・ラジオ〜石川のラジオは今も面白い〜](https://ja.wikipedia.org/wiki/今・おも・ラジオ〜石川のラジオは今も面白い〜 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[エフエム石川](../Page/エフエム石川.md "wikilink")との共同制作番組）
+      - この番組以降、石川県内の放送局との共同制作や共同企画は一切行われていない。なお、[NHK富山放送局](../Page/NHK富山放送局.md "wikilink")と[NHK福井放送局](../Page/NHK福井放送局.md "wikilink")では[2020年](../Page/2020年.md "wikilink")に[新型コロナウイルスへの共同キャンペーンを各県のほかの放送局とテレビ](../Page/2019新型コロナウイルス.md "wikilink")・ラジオで展開している。
   - 石川アーカイブス（開局80周年記念番組。2010年から2012年2月まで放送）
   - [FMジュークボックス](https://ja.wikipedia.org/wiki/FMジュークボックス "wikilink")
   - いよっ\![弁慶](https://ja.wikipedia.org/wiki/弁慶 "wikilink")（[2018年](../Page/2018年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")、[BSプレミアムにおいて](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「石川発[地域ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")」として放送）\[9\]\[10\]

@@ -9,7 +9,7 @@
 
 タイムリーな翻訳書にも定評があり、世界的にもベストセラーとなった哲学を扱った『[ソフィーの世界](../Page/ソフィーの世界.md "wikilink")』、発売前に全ページを無料（FREE）でネット公開して話題となった『FREE』、『THINK SIMPLE』、『ゼロ・トゥ・ワン』などのビジネス書、『脳を鍛えるには運動しかない！』、『BORN TO RUN 走るために生まれた』、[リサ・ランドール](../Page/リサ・ランドール.md "wikilink")『ワープする宇宙～5次元時空の謎を解く』、『[モリー先生との火曜日](https://ja.wikipedia.org/wiki/モリー先生との火曜日 "wikilink")』など、科学・教養・ノンフィクション等幅広い分野にわたるタイトルを刊行している。
 
-文芸書も、[大河ドラマ](../Page/大河ドラマ.md "wikilink")や[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")など、ドラマのノベライズ小説を中心に、オリジナルの現代・時代小説の刊行しており、1995年には、[梁石日](../Page/梁石日.md "wikilink")『[夜を賭けて](https://ja.wikipedia.org/wiki/夜を賭けて "wikilink")』が第113回[直木賞](https://ja.wikipedia.org/wiki/直木賞 "wikilink")候補となったほか、近年では[阿部智里](https://ja.wikipedia.org/wiki/阿部智里 "wikilink")『発現』、[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")『クジラアタマの王様』などを刊行している。
+文芸書も、[大河ドラマ](../Page/大河ドラマ.md "wikilink")や[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")など、ドラマのノベライズ小説を中心に、オリジナルの現代・時代小説を刊行しており、1995年には、[梁石日](../Page/梁石日.md "wikilink")『[夜を賭けて](https://ja.wikipedia.org/wiki/夜を賭けて "wikilink")』が第113回[直木賞](https://ja.wikipedia.org/wiki/直木賞 "wikilink")候補となったほか、近年では[阿部智里](https://ja.wikipedia.org/wiki/阿部智里 "wikilink")『発現』、[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")『クジラアタマの王様』などを刊行している。
 
 また、NHK番組での各種音楽の著作権を管理する業務（[音楽出版](../Page/音楽出版.md "wikilink")）も行っている。また、書籍以外にも、テキスト電子版などの番組連動型のデジタルコンテンツや、[NHK Eテレの番組テキストと連動した](../Page/NHK教育テレビジョン.md "wikilink")「テキスト関連アイテム」（「[きょうの料理](../Page/きょうの料理.md "wikilink")」「[きょうの料理ビギナーズ](../Page/きょうの料理ビギナーズ.md "wikilink")」関連の調理器具、「[すてきにハンドメイド](https://ja.wikipedia.org/wiki/すてきにハンドメイド "wikilink")」関連のハンドメイド商品など）の[通信販売](../Page/通信販売.md "wikilink")も行っている。
 
@@ -60,7 +60,7 @@
 <!-- end list -->
 
   - テレビ・ラジオ語学テキスト
-    定番の「[基礎英語](../Page/基礎英語.md "wikilink")」シリーズは、定番の中学生向けの基礎英語1、基礎英語2、基礎英語3を刊行しているほか、小学生向けに「[プレキソ英語](https://ja.wikipedia.org/wiki/プレキソ英語 "wikilink")」、大人向けの「[おとなの基礎英語](https://ja.wikipedia.org/wiki/おとなの基礎英語 "wikilink")」「[しごとの基礎英語](https://ja.wikipedia.org/wiki/しごとの基礎英語 "wikilink")」も新設されたことがあった。現在は小学生向けには「基礎英語ゼロ」、大人向けの「おもてなしの基礎英語」を刊行。
+    定番の「[基礎英語](../Page/基礎英語.md "wikilink")」シリーズは、定番の中学生向けの基礎英語1、基礎英語2、基礎英語3を刊行しているほか、小学生向けに「[プレキソ英語](https://ja.wikipedia.org/wiki/プレキソ英語 "wikilink")」、大人向けの「[おとなの基礎英語](https://ja.wikipedia.org/wiki/おとなの基礎英語 "wikilink")」「[しごとの基礎英語](https://ja.wikipedia.org/wiki/しごとの基礎英語 "wikilink")」も新設されたことがあった。現在は小学生向けには「基礎英語ゼロ」を刊行。
 
 ＜ラジオ英語テキスト＞
 
@@ -72,11 +72,10 @@
   - 『[遠山顕の英会話楽習](https://ja.wikipedia.org/wiki/遠山顕の英会話楽習 "wikilink")』
   - 『[入門ビジネス英語](https://ja.wikipedia.org/wiki/入門ビジネス英語 "wikilink")』
   - 『[実践ビジネス英語](https://ja.wikipedia.org/wiki/実践ビジネス英語 "wikilink")』
-  - 『エンジョイ・シンプル・イングリッシュ』
+  - 『[エンジョイ・シンプル・イングリッシュ](https://ja.wikipedia.org/wiki/エンジョイ・シンプル・イングリッシュ "wikilink")』
 
 ＜テレビ英語テキスト＞
 
-  - 『[おもてなしの基礎英語](https://ja.wikipedia.org/wiki/おもてなしの基礎英語 "wikilink")』
   - 『[基礎英語ゼロ](https://ja.wikipedia.org/wiki/基礎英語0〜世界エイゴミッション〜 "wikilink")』（テレビ・ラジオ）
 
 <!-- end list -->
@@ -93,10 +92,8 @@
   - 『[まいにちロシア語](https://ja.wikipedia.org/wiki/まいにちロシア語 "wikilink")』
   - 『[まいにち中国語](https://ja.wikipedia.org/wiki/まいにち中国語 "wikilink")』
   - 『[おもてなしの中国語](https://ja.wikipedia.org/wiki/おもてなしの中国語 "wikilink")』
-  - 『[レベルアップ中国語](https://ja.wikipedia.org/wiki/レベルアップ中国語 "wikilink")』(年4回刊）
   - 『[まいにちハングル講座](https://ja.wikipedia.org/wiki/まいにちハングル講座 "wikilink")』
   - 『[おもてなしのハングル](https://ja.wikipedia.org/wiki/おもてなしのハングル "wikilink")』
-  - 『[レベルアップハングル講座](https://ja.wikipedia.org/wiki/レベルアップハングル講座 "wikilink")』(年4回刊）
   - 『[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語入門 "wikilink")』(年1回刊）
   - 『[アラビア語講座](../Page/アラビア語講座.md "wikilink")』（年2回刊）
 
@@ -106,10 +103,10 @@
   - 『[旅するフランス語](https://ja.wikipedia.org/wiki/旅するフランス語 "wikilink")』
   - 『[旅するスペイン語](https://ja.wikipedia.org/wiki/旅するスペイン語 "wikilink")』
   - 『[旅するイタリア語](https://ja.wikipedia.org/wiki/旅するイタリア語 "wikilink")』
-  - 『[ロシアゴスキー](https://ja.wikipedia.org/wiki/ロシアゴスキー "wikilink")』（年2回刊）
+  - 『[ロシアゴスキー](https://ja.wikipedia.org/wiki/ロシアゴスキー "wikilink")』（年1回刊）
   - 『[テレビで中国語](../Page/テレビで中国語.md "wikilink")』
   - 『[テレビでハングル講座](../Page/テレビでハングル講座.md "wikilink")』
-  - 『[テレビでアラビア語](https://ja.wikipedia.org/wiki/テレビでアラビア語 "wikilink")』（年1回刊）
+  - 『[アラビーヤ・シャベリーヤ\!](https://ja.wikipedia.org/wiki/アラビーヤ・シャベリーヤ! "wikilink")』（年2回刊）
 
 <!-- end list -->
 
@@ -149,6 +146,9 @@
   - [NHK市民大学](https://ja.wikipedia.org/wiki/NHK市民大学 "wikilink")／[NHK人間大学](../Page/NHK人間大学.md "wikilink")／ [NHK人間講座](../Page/NHK人間講座.md "wikilink")
   - [ひとりでできるもん\!](../Page/ひとりでできるもん!.md "wikilink")（1993年4月号〜2004年3月号）
   - [英語であそぼ](https://ja.wikipedia.org/wiki/英語であそぼ "wikilink")（1990年4月号〜2005年3月号）
+  - 『[おもてなしの基礎英語](https://ja.wikipedia.org/wiki/おもてなしの基礎英語 "wikilink")』
+  - 『[レベルアップ中国語](https://ja.wikipedia.org/wiki/レベルアップ中国語 "wikilink")』(年4回刊）
+  - 『[レベルアップハングル講座](https://ja.wikipedia.org/wiki/レベルアップハングル講座 "wikilink")』(年4回刊）
   - [食彩浪漫](../Page/食彩浪漫.md "wikilink")（2003年4月〜2010年3月号）
   - [おしゃれ工房](../Page/おしゃれ工房.md "wikilink")（〜2010年3月号）（旧：婦人百科）
   - [趣味の園芸ビギナーズ](https://ja.wikipedia.org/wiki/趣味の園芸ビギナーズ "wikilink")（季刊）
@@ -239,7 +239,7 @@
 ### 2010年代
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink"):NHKスペシャル『100年の難問はなぜ解けたのか－天才数学者 失踪の謎』（春日真人著）が第6回[日本数学会](../Page/日本数学会.md "wikilink")出版賞を受賞。\[24\]
-  - 2010年:NHKブックス『太陽の科学-磁場から宇宙の謎に迫る』（[柴田一成](https://ja.wikipedia.org/wiki/柴田一成 "wikilink")著）が2010年[講談社科学出版賞](https://ja.wikipedia.org/wiki/講談社科学出版賞 "wikilink")を受賞。\[25\]
+  - 2010年:NHKブックス『太陽の科学-磁場から宇宙の謎に迫る』（[柴田一成著](https://ja.wikipedia.org/wiki/柴田一成_\(宇宙物理学者\) "wikilink")）が2010年[講談社科学出版賞](https://ja.wikipedia.org/wiki/講談社科学出版賞 "wikilink")を受賞。\[25\]
   - 2010年:『ヤノマミ』（[国分拓](https://ja.wikipedia.org/wiki/国分拓 "wikilink")著）が第10回[石橋湛山記念早稲田ジャーナリズム大賞](../Page/石橋湛山記念早稲田ジャーナリズム大賞.md "wikilink")文化貢献部門大賞を受賞。\[26\]
   - [2011年](../Page/2011年.md "wikilink"):『ヤノマミ』（国分拓著）が第42回[大宅壮一ノンフィクション賞](../Page/大宅壮一ノンフィクション賞.md "wikilink")を受賞。\[27\]
   - [2012年](../Page/2012年.md "wikilink"):NHKブックス『ITが守る、ITを守る－天災・人災と情報技術』（[坂井修一](../Page/坂井修一.md "wikilink")著）が第21回[大川出版賞](https://ja.wikipedia.org/wiki/大川出版賞 "wikilink")を受賞。\[28\]

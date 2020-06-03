@@ -226,6 +226,7 @@
 <!-- end list -->
 
   - [大相撲七月場所（名古屋場所）実況中継](../Page/大相撲中継.md "wikilink")
+  - [列島ニュース新型コロナ最新情報](https://ja.wikipedia.org/wiki/BS列島ニュース "wikilink")（2020年5月7日から当面の間、平日14:05 - 14:55）
 
 <!-- end list -->
 
@@ -242,13 +243,12 @@
       - 年末年始：7:15 - 7:20、20:55 - 21:00
   - [さらさらサラダ](https://ja.wikipedia.org/wiki/さらさらサラダ "wikilink")（平日 11:30 - 12:00）
       - 一部地域は時間帯によっては別番組を放送。
-  - [ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション_\(NHK\) "wikilink")（金曜日 19:30 - 19:55、再放送・日曜日 8:25 - 8:50）
-  - [金とく](../Page/金とく.md "wikilink")（金曜日 19:30または20:00 - 20:43、再放送・土曜日 10:05 - 10:48）
-  - [Uta-Tube](https://ja.wikipedia.org/wiki/Uta-Tube "wikilink")（土曜日 10:55 - 11:15）
+  - [ナビゲーション](https://ja.wikipedia.org/wiki/ナビゲーション_\(NHK\) "wikilink")（金曜日 19:30 - 19:55、再放送：土曜日 9:30 - 9:55）
+  - [金とく](../Page/金とく.md "wikilink")（不定期金曜日 19:56 - 20:42、再放送：不定期日曜日 13:05 - 13:48）
   - [ウイークエンド中部](../Page/ウイークエンド中部.md "wikilink")（土曜日 7:30 - 8:00）
-      - ニュース・気象情報は、当番組内で放送している。
-  - 東海北陸ヒューマンドキュメンタリー（不定期）
-  - 日曜Tube\[2\]（日曜日 13:05 - 13:50）（不定期）
+  - [Uta-Tube](https://ja.wikipedia.org/wiki/Uta-Tube "wikilink")（土曜日 10:55 - 11:15、再放送：水曜日 23:45 - 木曜日 0:05）
+      - 不定期で[BSプレミアムで放送される場合あり](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")。
+  - デデデデザインて何\!?（土曜日 11:15 - 11:20ほか）
 
 <!-- end list -->
 
@@ -263,7 +263,8 @@
   - [まるっと\!](https://ja.wikipedia.org/wiki/まるっと! "wikilink")（平日 18:10 - 18:30）
   - [ニュース845](../Page/ニュース845_\(NHK名古屋\).md "wikilink")（平日 20:45 - 21:00）
       - 2017年10月よりこの時間帯が東海3県向けの番組となり、岐阜・三重向けの県別番組（20:55 - 21:00）は廃止された。
-  - [東海ピックアップ](https://ja.wikipedia.org/wiki/東海ピックアップ "wikilink")（日曜日 18:42 - 18:45）
+  - 金とく（不定期金曜日 19:30 - 19:55）
+  - [東海ピックアップ](https://ja.wikipedia.org/wiki/東海ピックアップ "wikilink")（日曜日 8:54 - 8:57）
 
 <!-- end list -->
 
@@ -399,10 +400,12 @@
   - [知って解決\!SKEっとネット](https://ja.wikipedia.org/wiki/知って解決!SKEっとネット "wikilink")
   - [Good Job\!会社の星](https://ja.wikipedia.org/wiki/Good_Job!会社の星 "wikilink")
   - [ティーンズプロジェクト フレ☆フレ](https://ja.wikipedia.org/wiki/ティーンズプロジェクト_フレ☆フレ "wikilink")
-  - [超絶 凄ワザ\!](https://ja.wikipedia.org/wiki/超絶_凄ワザ! "wikilink")（月1回放送）\[3\]
+  - [超絶 凄ワザ\!](https://ja.wikipedia.org/wiki/超絶_凄ワザ! "wikilink")（月1回放送）\[2\]
   - [ほっとイブニング](../Page/ほっとイブニング.md "wikilink")
   - 北陸東海（木曜19時台後半に放送）
   - 中部ナウ（1989年4月8日 - 1993年4月3日）
+  - 東海北陸ヒューマンドキュメンタリー
+  - 日曜Tube
 
 ラジオ
 
@@ -422,7 +425,7 @@
 
 ### アナウンサー
 
-  - **\***は過去にも名古屋局勤務の経験があることを表す。前任地が太字はその局が初任地。
+  - **\***は過去にも名古屋局勤務の経験があることを表す。前任地が太字の人はその局が初任地。
 
 <table>
 <thead>
@@ -451,7 +454,7 @@
 <td><p><a href="../Page/山田大樹_(アナウンサー).md" title="wikilink">山田大樹</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ナビゲーション_(NHK)" title="wikilink">ナビゲーション</a><br />
 （キャスター）</p></td>
-<td><p>愛知県出身</p></td>
+<td><p>名古屋市出身</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -478,7 +481,7 @@
 <td><p><a href="../Page/村竹勝司.md" title="wikilink">村竹勝司</a>*</p></td>
 <td><p><a href="../Page/NHK津放送局.md" title="wikilink">津</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/夕刊_ゴジらじ" title="wikilink">夕刊 ゴジらじ</a></p></td>
-<td><p>愛知県出身</p></td>
+<td><p>知多市出身</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/内山俊哉.md" title="wikilink">内山俊哉</a>*</p></td>
@@ -513,13 +516,13 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/神戸和貴" title="wikilink">神戸和貴</a></p></td>
 <td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
-<td><p>|愛知県出身</p></td>
+<td><p>|豊川市出身</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/若林則康.md" title="wikilink">若林則康</a>*</p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
-<td><p>愛知県出身</p></td>
+<td><p>知多市出身</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -529,31 +532,25 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木彩" title="wikilink">佐々木彩</a></p></td>
+<td><p><a href="../Page/西堀裕美.md" title="wikilink">西堀裕美</a></p></td>
 <td><p>東京アナウンス室</p></td>
-<td><p>産休中</p></td>
+<td><p>東海北陸のニュース</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/西堀裕美.md" title="wikilink">西堀裕美</a></p></td>
-<td><p>東海北陸のニュース</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/三輪秀香" title="wikilink">三輪秀香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/森山春香.md" title="wikilink">森山春香</a>*</p></td>
 <td><p>東海北陸のニュース<br />
 （ラジオ）</p></td>
-<td><p>愛知県出身</p></td>
+<td><p>名古屋市出身</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/橋詰彩季" title="wikilink">橋詰彩季</a></p></td>
 <td><p><strong>山形</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Uta-Tube" title="wikilink">Uta-Tube</a><br />
@@ -561,7 +558,7 @@
 （キャスター）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/村上由利子.md" title="wikilink">村上由利子</a></p></td>
 <td><p>ラジオセンター</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東海ピックアップ" title="wikilink">東海ピックアップ</a><br />
@@ -569,7 +566,7 @@
 （キャスター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -602,7 +599,8 @@
 （契約キャスター）</p></td>
 <td><p>まるっと!<br />
 （キャスター）</p></td>
-<td></td>
+<td><p>岐阜県<br />
+可児市出身</p></td>
 </tr>
 <tr class="odd">
 <td><p>大浜扶美野</p></td>
@@ -616,7 +614,7 @@
 <td></td>
 <td><p>まるっと!<br />
 （スポーツキャスター）</p></td>
-<td></td>
+<td><p>名古屋市出身</p></td>
 </tr>
 <tr class="odd">
 <td><p>浦野莉恵</p></td>
@@ -624,19 +622,19 @@
 （契約キャスター）</p></td>
 <td><p>まるっと!<br />
 （リポーター）</p></td>
-<td></td>
+<td><p>豊橋市出身</p></td>
 </tr>
 <tr class="even">
 <td><p>石坂窓花</p></td>
 <td><p>津<br />
 （契約キャスター）</p></td>
-<td></td>
+<td><p>尾張旭市出身</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>亀蔦なごみ</p></td>
 <td></td>
-<td></td>
+<td><p>東海市出身</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -650,14 +648,14 @@
 <td><p>吉村史織</p></td>
 <td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a><br />
 （契約キャスター）</p></td>
-<td></td>
+<td><p>小牧市出身</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>則竹佳純</p></td>
 <td><p><a href="../Page/NHK甲府放送局.md" title="wikilink">甲府</a><br />
 （契約キャスター）</p></td>
-<td></td>
+<td><p>愛知県出身</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -672,7 +670,7 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さらさらサラダ" title="wikilink">さらさらサラダ</a><br />
 （キャスター）</p></td>
-<td></td>
+<td><p>愛知県出身</p></td>
 </tr>
 <tr class="odd">
 <td><p>水島奈緒</p></td>
@@ -680,7 +678,7 @@
 （契約キャスター）</p></td>
 <td><p>ウイークエンド中部<br />
 （キャスター）</p></td>
-<td></td>
+<td><p>春日井市出身</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤里奈_(ファッションモデル)" title="wikilink">加藤里奈</a></p></td>
@@ -688,7 +686,7 @@
 <a href="../Page/セントラルジャパン.md" title="wikilink">セントラルジャパン</a>所属</p></td>
 <td><p>ウイークエンド中部<br />
 （カトリーナのトレンド探偵）</p></td>
-<td></td>
+<td><p>名古屋市出身</p></td>
 </tr>
 <tr class="odd">
 <td><p>フリー</p></td>
@@ -697,7 +695,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>西根智彦[4]</p></td>
+<td><p>西根智彦[3]</p></td>
 <td><p>フリーアナウンサー<br />
 劇団μ代表</p></td>
 <td><p>東海北陸のニュース<br />
@@ -708,7 +706,8 @@
 <td><p><a href="../Page/小倉理恵.md" title="wikilink">小倉理恵</a></p></td>
 <td><p>元<a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a>アナウンサー<br />
 元CBCラジオレポートドライバー</p></td>
-<td></td>
+<td><p>岐阜県<br />
+瑞穂市出身</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -725,7 +724,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/寺尾直樹.md" title="wikilink">寺尾直樹</a></p></td>
+<td><p><a href="../Page/寺尾直樹.md" title="wikilink">寺尾直樹</a>*</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェザーニューズ" title="wikilink">ウェザーニューズ</a></p></td>
 <td><p>まるっと!</p></td>
 <td></td>
@@ -745,7 +744,7 @@
 
 ## 放送事故
 
-2013年4月から8月までの間、[津市](../Page/津市.md "wikilink")と[岐阜市](../Page/岐阜市.md "wikilink")の予報を逆に放送していたミスが見つかった。その誤りが公表されたのちにも、2013年4月1日から1年あまりにわたって[長野市](../Page/長野市.md "wikilink")の[降水確率](../Page/降水確率.md "wikilink")を名古屋市と同じ数字で表示していたことが判明した\[5\]。
+2013年4月から8月までの間、[津市](../Page/津市.md "wikilink")と[岐阜市](../Page/岐阜市.md "wikilink")の予報を逆に放送していたミスが見つかった。その誤りが公表されたのちにも、2013年4月1日から1年あまりにわたって[長野市](../Page/長野市.md "wikilink")の[降水確率](../Page/降水確率.md "wikilink")を名古屋市と同じ数字で表示していたことが判明した\[4\]。
 
 ## 関連施設
 
@@ -774,6 +773,7 @@
   - 1984年に名古屋局のテレビ放送開局30年を記念して、愛知県・名古屋市・[名古屋商工会議所](https://ja.wikipedia.org/wiki/名古屋商工会議所 "wikilink")・[中日新聞社](../Page/中日新聞社.md "wikilink")との共催で「愛知・名古屋マイソング」を企画、作詞・作曲を一般公募した。この企画は1988年まで続けられ、優秀候補曲の発表会の模様や、最優秀曲・優秀曲に選ばれた作品を流す5分間のミニ番組が放送された。なお、これらの番組は名古屋局のほか、津・岐阜両局でも同時ネットしていた。
   - テレビ画面をやや縮小して逆L字のスペースを作り、そこに緊急情報を流す「[逆L字画面](../Page/L字型画面.md "wikilink")」は名古屋局が考案したものだった。
   - FM放送は[2017年](../Page/2017年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")より終日ステレオ放送となった。それまではローカルニュースになるとモノラルであった。
+  - 1935年（昭和10年）6月7日、愛知県南設楽郡鳳来寺村（現在の[新城市](../Page/新城市.md "wikilink")）の[鳳来寺山](../Page/鳳来寺山.md "wikilink")で「ブッ・ポウ・ソウ」と鳴く鳥の鳴き声の実況中継を全国放送で行った。これを機に「ブッ・ポウ・ソウ」と鳴くのは[ブッポウソウ](../Page/ブッポウソウ.md "wikilink")ではなく[コノハズク](../Page/コノハズク.md "wikilink")であることが判明した。
 
 ## 脚注
 
@@ -805,7 +805,6 @@
 [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:愛知県のマスメディア](https://ja.wikipedia.org/wiki/Category:愛知県のマスメディア "wikilink") [Category:東海・北陸地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビ局 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink") [Category:名古屋市東区の建築物](https://ja.wikipedia.org/wiki/Category:名古屋市東区の建築物 "wikilink") [Category:栄_(名古屋市)](https://ja.wikipedia.org/wiki/Category:栄_\(名古屋市\) "wikilink") [Category:1991年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1991年竣工の日本の建築物 "wikilink") [Category:東桜](https://ja.wikipedia.org/wiki/Category:東桜 "wikilink")
 
 1.  [ラジコでNHKラジオが聴ける4月12日（木）より、全国を対象に2018年度の実験配信を開始](https://prtimes.jp/main/html/rd/p/000000004.000007490.html),株式会社radiko,2018年3月22日
-2.  [日曜Tube](http://www4.nhk.or.jp/P3991/) NHK
-3.  [平成２９年度（前半期）放送番組時刻表](http://www.nhk.or.jp/keiei-iinkai/giji/shiryou/1276_houkoku03-2.pdf) NHK　2017年2月17日
-4.  [西根 智彦 にしね ともひこ NTBタレントプロフィール](http://www.goodntb.co.jp/talent/profile.php?id=97)株式会社NTB
-5.  [「長野に名古屋の降水確率」NHK名古屋放送局が謝罪](http://www.asahi.com/articles/ASG4C0373G4BOIPE03M.html) - （2014年4月11日01時33分） 朝日新聞デジタル。
+2.  [平成２９年度（前半期）放送番組時刻表](http://www.nhk.or.jp/keiei-iinkai/giji/shiryou/1276_houkoku03-2.pdf) NHK　2017年2月17日
+3.  [西根 智彦 にしね ともひこ NTBタレントプロフィール](http://www.goodntb.co.jp/talent/profile.php?id=97)株式会社NTB
+4.  [「長野に名古屋の降水確率」NHK名古屋放送局が謝罪](http://www.asahi.com/articles/ASG4C0373G4BOIPE03M.html) - （2014年4月11日01時33分） 朝日新聞デジタル。

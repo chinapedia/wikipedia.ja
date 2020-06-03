@@ -941,6 +941,20 @@ TYXT-19006/7 (BD版)</p></td>
 TYXT-19008/9 (BD版)</p></td>
 <td><p>31位</p></td>
 </tr>
+<tr class="even">
+<td><p><strong>10th</strong></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月3日.md" title="wikilink">6月3日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ACIDMAN_LIVE_TOUR_“創、再現”_in_新木場_STUDIO_COAST" title="wikilink">ACIDMAN LIVE TOUR “創、再現” in 新木場 STUDIO COAST</a></strong></p></td>
+<td><p>RESO-2019</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

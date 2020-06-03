@@ -1,9 +1,9 @@
 > この記事は[PTA](https://ja.wikipedia.org/wiki/PTA)から翻訳されています。
 
 
-日本における**PTA**（ピーティーエー、）とは、各[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")で[組織された](../Page/組織_\(社会科学\).md "wikilink")、保護者と教職員（児童を含まない）による[社会教育関係団体のことである](https://ja.wikipedia.org/wiki/社会教育#日本の社会教育関係団体 "wikilink")。児童・生徒は、PTA会員ではない。みな等しく活動の支援対象である\[1\]。[任意](../Page/任意.md "wikilink")加入の[団体](../Page/団体.md "wikilink")であり、結成や加入を義務付ける法的根拠は無く、全ての児童生徒のためのボランタリーな活動というのが本来のあり方である。
+日本における**PTA**（ピーティーエー、）とは、各[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")で[組織された](../Page/組織_\(社会科学\).md "wikilink")、保護者と教職員（児童を含まない）による[社会教育関係団体](https://ja.wikipedia.org/wiki/社会教育#日本の社会教育関係団体 "wikilink")。児童・生徒は、PTA会員ではない。みな等しく活動の支援対象である\[1\]。[任意](../Page/任意.md "wikilink")加入の[団体](../Page/団体.md "wikilink")であり、結成や加入を義務付ける法的根拠は無く、全ての児童生徒のためのボランタリーな活動というのが本来のあり方である。
 
-この項目では、各学校のPTA（**単位PTA**\[2\]と呼称される）について主に記述する。単位PTAが協働するために集まった、[市町村](../Page/市町村.md "wikilink")・[都道府県](../Page/都道府県.md "wikilink")・全国の各レベルに存在する[PTA連合体](https://ja.wikipedia.org/wiki/PTA連合体 "wikilink")（PTA連合会）の詳細については、[日本PTA全国協議会](../Page/日本PTA全国協議会.md "wikilink")、[全国高等学校PTA連合会](https://ja.wikipedia.org/wiki/全国高等学校PTA連合会 "wikilink")の項目を参照。
+この項目では、各学校のPTA（**単位PTA**\[2\]と呼称される）について主に記述する。単位PTAが協働するために集まった、[市町村](../Page/市町村.md "wikilink")・[都道府県](../Page/都道府県.md "wikilink")・全国の各レベルに存在するPTA連合体（PTA連合会）の詳細については、[日本PTA全国協議会](../Page/日本PTA全国協議会.md "wikilink")、[全国高等学校PTA連合会](https://ja.wikipedia.org/wiki/全国高等学校PTA連合会 "wikilink")の項目を参照。
 
 ## 名称
 

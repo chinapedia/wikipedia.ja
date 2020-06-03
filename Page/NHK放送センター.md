@@ -585,7 +585,7 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
 
 ## 放送センター内にある施設
 
-  - [NHKスタジオパーク](../Page/NHKスタジオパーク.md "wikilink")
+  - [NHKスタジオパーク](../Page/NHKスタジオパーク.md "wikilink")：2020年5月をもって閉鎖。
   - [NHKホール](../Page/NHKホール.md "wikilink")：『NHK紅白歌合戦』をはじめ、『[うたコン](https://ja.wikipedia.org/wiki/うたコン "wikilink")』の公開生放送などに使用。
   - [みんなの広場ふれあいホール](../Page/みんなの広場ふれあいホール.md "wikilink")
   - [郵便局](../Page/郵便局.md "wikilink")：正式名は「放送センター内郵便局」。
@@ -827,7 +827,7 @@ IPサイマルラジオサービス「[らじる★らじる](https://ja.wikiped
 <td><p><a href="https://ja.wikipedia.org/wiki/首都圏情報_ネタドリ!" title="wikilink">首都圏情報 ネタドリ!</a></p></td>
 <td><p>金曜 19:30 - 19:57 再：土曜 10:55 - 11:22</p></td>
 <td></td>
-<td></td>
+<td><p>NHKワールド・プレミアムでも放送</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1352,7 +1352,6 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
   - [青井実](../Page/青井実.md "wikilink")（あおい・みのる）
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink")（あさの・たつろう）
-  - [阿部渉](../Page/阿部渉.md "wikilink")（あべ・わたる）（EA）
   - [新井秀和](https://ja.wikipedia.org/wiki/新井秀和 "wikilink")（あらい・ひでかず）
   - [新井隆太](https://ja.wikipedia.org/wiki/新井隆太 "wikilink")（あらい・りゅうた）
   - [飯島徹郎](https://ja.wikipedia.org/wiki/飯島徹郎 "wikilink")（いいじま・てつろう）

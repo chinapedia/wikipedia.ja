@@ -91,7 +91,7 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 
 ### 総合テレビ
 
-  - [ほっとぐんま640](https://ja.wikipedia.org/wiki/ほっとぐんま640 "wikilink")（月～金 18:40-18:59）※2012年4月開始
+  - [ほっとぐんま630](https://ja.wikipedia.org/wiki/ほっとぐんま630 "wikilink")（月～金 18:30-18:59）※2012年4月開始
 
 ### FM放送
 

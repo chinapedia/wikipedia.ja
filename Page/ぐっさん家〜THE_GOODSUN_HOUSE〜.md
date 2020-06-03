@@ -1,7 +1,7 @@
 > この記事は[ぐっさん家〜THE GOODSUN HOUSE〜](https://ja.wikipedia.org/wiki/ぐっさん家〜THE_GOODSUN_HOUSE〜)から翻訳されています。
 
 
-『**ぐっさん家 〜THE GOODSUN HOUSE〜**』（ぐっさんち ザ・グッドサン・ハウス）は、[東海テレビほかで放送されている](../Page/東海テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。通称「**ぐっさん家**」。製作局の東海テレビでは[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（2007年7月から）、[ステレオ放送](../Page/ステレオ放送.md "wikilink")。
+『**ぐっさん家 〜THE GOODSUN HOUSE〜**』（ぐっさんち ザ・グッドサン・ハウス）は、[東海テレビほかで放送されている](../Page/東海テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[通称](../Page/通称.md "wikilink")「**ぐっさん家**」。製作局の東海テレビでは[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 この番組は、当初、製作局の東海テレビのみで放送されていたが、長寿番組化するとともに徐々にネット局を増やしていった（ネット局についての詳細は後述）。東海テレビでは当初から一貫して土曜日に放送されているが、放送時間の変動が多く、16時台 → 13時台 → 16時台と移動を繰り返していた。そして、2010年10月2日放送分からは『[発見\!わくわくMY TOWN](../Page/発見!わくわくMY_TOWN.md "wikilink")』の後番組として18時30分枠で放送されることになった。ただし、東海テレビが一貫して土曜日18時30分からの放送に拘るがゆえ、キー局である[フジテレビが土曜](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")18時30分から放送するスペシャル番組については東海テレビでは19時からの短縮版で放送されることがある。
 
-なお、番組の[再放送](../Page/再放送.md "wikilink")は東海テレビでのみ、日曜日の夕方に不定期で行われている。山口自身は2020年3月28日まで土曜日午前の関西テレビ制作の生放送番組『[にじいろジーン](https://ja.wikipedia.org/wiki/にじいろジーン "wikilink")』に出演していたため東海テレビでは本番組と合わせ土曜日に2つの番組がレギュラーとして放送されている形となっていた。
+なお、番組の[再放送](../Page/再放送.md "wikilink")は東海テレビでのみ、日曜日の夕方に不定期で行われている。山口自身は2020年3月28日まで土曜日午前の関西テレビ制作の生放送番組『[にじいろジーン](https://ja.wikipedia.org/wiki/にじいろジーン "wikilink")』に出演していたため東海テレビでは本番組と合わせ土曜日に2つの番組がレギュラーとして放送されている形となっていた。 2020年5月2日放送分より[新型コロナウイルス感染症の流行により番組ロケが不可能な為](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、過去の再放送が本放送の時間帯でも実施されている
 
 ## 出演者
 
@@ -437,7 +437,7 @@
 
 ## 外部リンク
 
-  - [東海テレビ公式サイト内 ぐっさん家〜THE GOODSUN HOUSE〜](http://www.tokai-tv.com/gussan/) - 過去の放送内容を全て掲載している。
+  - [ぐっさん家〜THE GOODSUN HOUSE〜](https://www.tokai-tv.com/gussan/) - 公式サイト
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:東海テレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:東海テレビのバラエティ番組 "wikilink") [Category:東海テレビの紀行・旅番組](https://ja.wikipedia.org/wiki/Category:東海テレビの紀行・旅番組 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 

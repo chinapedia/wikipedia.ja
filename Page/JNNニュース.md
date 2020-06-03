@@ -1,7 +1,7 @@
 > この記事は[JNNニュース](https://ja.wikipedia.org/wiki/JNNニュース)から翻訳されています。
 
 
-『**JNN NEWS**』（ジェイエヌエヌニュース）は、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の[TBSテレビ](../Page/TBSテレビ.md "wikilink")（旧：ラジオ東京テレビ→東京放送）をはじめとする[TBS系列](../Page/TBS系列.md "wikilink") ([JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")) が放送している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ニュース](../Page/報道番組.md "wikilink")[番組の総称](../Page/テレビ番組.md "wikilink")。
+『**JNN NEWS**』（ジェイエヌエヌニュース）は、[キー局](../Page/キー局.md "wikilink")の[TBSテレビ](../Page/TBSテレビ.md "wikilink")（旧：ラジオ東京テレビ→東京放送）をはじめとする[TBS系列](../Page/TBS系列.md "wikilink") ([JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")) が放送している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ニュース](../Page/報道番組.md "wikilink")[番組の総称](../Page/テレビ番組.md "wikilink")。
 
 [JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")が適用される[全国ネット番組](../Page/ニュース系列.md "wikilink")。
 
@@ -55,9 +55,9 @@
 
 平日の地デジEPGでの番組の名称は、以下のように系列局によって異なる。
 
-  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")( 平日)、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[4\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
+  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")\[4\]、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[5\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - 「ひるおび\!JNN NEWS」 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
-  - 「ひるおび\!（JNN NEWS）」 - 青森テレビ( 祝日\[5\])、[テレビユー福島](../Page/テレビユー福島.md "wikilink")
+  - 「ひるおび\!（JNN NEWS）」 - [テレビユー福島](../Page/テレビユー福島.md "wikilink")
   - 「JNNニュース」 - [北海道放送](../Page/北海道放送.md "wikilink")\[6\]、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")
       - なお、「JNN NEWS」として放送している局では、ニュース枠のエンディングは、北海道放送の様にエンドタイトルを流さない局や琉球放送のようにエンドタイトルを流す局に分かれる。
 
@@ -127,7 +127,7 @@
 <td><p><a href="../Page/駒田健吾.md" title="wikilink">駒田健吾</a><br />
 <a href="https://ja.wikipedia.org/wiki/田村真子" title="wikilink">田村真子</a><br />
 【<a href="https://ja.wikipedia.org/wiki/増田雅昭" title="wikilink">増田雅昭</a><sup>8</sup>】</p></td>
-<td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a><sup>3</sup><br />
+<td><p><a href="../Page/斎藤哲也.md" title="wikilink">斎藤哲也</a><br />
 【<a href="https://ja.wikipedia.org/wiki/岡田沙也加" title="wikilink">岡田沙也加</a>】</p></td>
 <td></td>
 <td></td>
@@ -161,7 +161,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/長岡杏子" title="wikilink">長岡杏子</a><sup>1</sup><br />
 【<a href="https://www.weathermap.co.jp/caster/sugiyama-mari/">杉山真理</a>】<br />
 </p></td>
-<td><p>赤荻歩<sup>3</sup></p></td>
+<td><p><a href="../Page/赤荻歩.md" title="wikilink">赤荻歩</a><sup>1・3</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -374,23 +374,23 @@
 
 ### 最終版
 
-| 期間      | 平日     | 土曜日                                                           | 日曜日                |
-| ------- | ------ | ------------------------------------------------------------- | ------------------ |
-| 1959.8  | 1961.9 | 23:00 - 23:10（10分）                                            | 22:45 - 22:55（10分） |
-| 1961.10 | 1962.9 | 22:30 - 22:40（10分）                                            |                    |
-| 1962.10 | 1966.9 | 23:00 - 23:10（10分）                                            |                    |
-| 1966.10 | 1969.3 | 23:00 - 23:10（10分）                                            | 23:50 - 24:00（10分） |
-| 1969.4  | 1970.3 | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:30 - 23:40（10分） |
-| 1970.4  | 1973.3 | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:30 - 23:40（10分） |
-| 1973.4  | 1978.3 | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:00 - 23:10（10分） |
-| 1978.4  | 1981.3 | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:30 - 23:35（5分）  |
-| 1981.4  | 1988.9 | （放送なし）                                                        |                    |
-| 1988.10 | 1990.9 | （放送なし）                                                        | 翌0:20 - 0:30（10分）  |
-| 1990.10 | 2002.3 | （放送なし）                                                        |                    |
-| 2002.4  | 2008.3 | （放送なし）                                                        | 翌0:45 - 0:55（10分）  |
-| 2008.4  | 2008.9 | 翌0:30 - 0:40（10分）                                             |                    |
-| 2008.10 | 2009.3 | 翌0:00 - 0:10（10分）                                             |                    |
-| 2009.4  | 現在     | （放送なし）                                                        |                    |
+| 期間      | 平日                 | 土曜日                                                           | 日曜日                |
+| ------- | ------------------ | ------------------------------------------------------------- | ------------------ |
+| 1959.8  | 1961.9             | 23:00 - 23:10（10分）                                            | 22:45 - 22:55（10分） |
+| 1961.10 | 1962.9             | 22:30 - 22:40（10分）                                            |                    |
+| 1962.10 | 1966.9             | 23:00 - 23:10（10分）                                            |                    |
+| 1966.10 | 1969.3             | 23:00 - 23:10（10分）                                            | 23:50 - 24:00（10分） |
+| 1969.4  | 1970.3             | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:30 - 23:40（10分） |
+| 1970.4  | 1973.3             | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:30 - 23:40（10分） |
+| 1973.4  | 1978.3             | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:00 - 23:10（10分） |
+| 1978.4  | 1981.3             | （[放送なし](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")） | 23:30 - 23:35（5分）  |
+| 1981.4  | 1988.9             | （放送なし）                                                        |                    |
+| 1988.10 | 1990.9             | （放送なし）                                                        | 翌0:20 - 0:30（10分）  |
+| 1990.10 | 2002.3             | （放送なし）                                                        |                    |
+| 2002.4  | 2008.3             | （放送なし）                                                        | 翌0:45 - 0:55（10分）  |
+| 2008.4  | 23:30 - 23:40（10分） |                                                               |                    |
+| 2008.4  | 2009.3             | 翌0:00 - 0:10（10分）                                             |                    |
+| 2009.4  | 現在                 | （放送なし）                                                        |                    |
 
 ## 過去のキャスター
 
@@ -1049,7 +1049,7 @@
   - 一時期、TBSテレビ（旧:東京放送）・[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[中国放送](../Page/中国放送.md "wikilink")などでは、オープニング時に、局ロゴが表示されていた。
   - 土日の朝・深夜の放送で一部の系列局は関東ローカルニュース枠をそのまま放送するが日曜深夜に関しては地元で地方議会・首長選挙投開票日にあたる場合は開票速報として差し替える場合もある。
   - 第2期の最末期週末深夜ニュース内の全国天気で流れていたBGMは、「[ヘイ・ジュード](../Page/ヘイ・ジュード.md "wikilink")」であった\[15\]。なお、この曲は、2010年4月から開始された[BS-TBS](../Page/BS-TBS.md "wikilink")の『[NEWS サンデー・スコープ](https://ja.wikipedia.org/wiki/NEWS_サンデー・スコープ "wikilink")』内の天気予報で使用されている。
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")では、日曜深夜は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄[時差ネット](../Page/遅れネット.md "wikilink")\[16\]、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")より[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")\[17\]となっている。
+  - [長崎放送](../Page/長崎放送.md "wikilink")では、日曜深夜は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄[時差ネット](../Page/遅れネット.md "wikilink")\[16\]、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")より[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")\[17\]となっている。
 
 ## 脚注・出典
 
@@ -1074,8 +1074,8 @@
 1.  このロゴは2020年4月1日にマイナーチェンジが行われ、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の新ブランドロゴに合わせたものに替えられた（「J」の終わりの部分が66.6°の斜め上に切られている）。
 2.  ただし、TBS公式サイトの番組表では『王様のブランチ』に[フロート扱いされている](../Page/フロート番組.md "wikilink")。2015年8月15日は通常放送であったが、後半に戦没者追悼式典を放送するも、『王様のブランチ・第2部』内で同パートのネット局および同パート非ネット局のうちのごく一部でのみ継続放送となり、12時10分頃までその続きを放送した（『ブランチ・第2部』開始の11時59分にテロップで「王様のブランチの時間ですが継続します」と表示された）。
 3.  『王様のブランチ』で放送されていたWEATHER BRUNCHから移行。そのため『王様のブランチ・第1部』のWEATHER BRUNCHは廃止された。
-4.  2012年3月30日でネットを打ち切り、10月より3曜日だけ復帰。2013年3月25日より、全曜日復帰
-5.  EPGは、「ひるおび\!（JNNニュース）」と表示。
+4.  一部祝日で、ひるおび\!の第0部が「×」、午前が「△」となる日は、『ひるおび\! （JNNニュース）』と表示する日がある。
+5.  2012年3月30日でネットを打ち切り、10月より3曜日だけ復帰。2013年3月25日より、全曜日復帰
 6.  HBCでは各種新聞のテレビ欄でも別番組扱いとなっている。
 7.  はなまるマーケット内の「はなまるニュース」は、(単独枠で放送の)JNN NEWSのフォーマットを使用。
 8.  協定により「JNN」の名称が入っているニュース番組は加盟する全ての放送局で同時ネットする必要がある。

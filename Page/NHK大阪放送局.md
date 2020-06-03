@@ -336,7 +336,7 @@
 
 <!-- end list -->
 
-  - [関西発ラジオ深夜便](../Page/関西発ラジオ深夜便.md "wikilink")（毎月第1 - 3金曜日 23:20 - 5:00、FMでも深夜1:00以降同時放送）
+  - [関西発ラジオ深夜便](../Page/関西発ラジオ深夜便.md "wikilink")（毎月第1 - 3金曜日 23:05 -29:00、FMでも25:00以降同時放送）
   - [上方演芸会](../Page/上方演芸会.md "wikilink")（日曜日 15:30 - 15:55）
   - [関西発いのちのラジオ](../Page/AMラジオ災害問題協議会.md "wikilink")（毎年9月1日 9:05 - 11:50 NHK大阪・[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")・[ラジオ大阪](../Page/大阪放送.md "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")・[和歌山放送](../Page/和歌山放送.md "wikilink")の共同制作）
 

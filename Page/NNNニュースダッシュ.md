@@ -324,7 +324,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -366,7 +366,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -481,7 +481,7 @@
 
   - [札幌テレビ](../Page/札幌テレビ放送.md "wikilink") - STVニュースD（ただし、STVのホームページのタイムテーブルには「NNNニュースD」と記載）
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - [東奥日報ニュース](../Page/東奥日報ニュース.md "wikilink")（土日は独立番組・詳細は上記参照のこと）
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") - ABSニュースD（月 - 金・エンディングのみ表記。なお、ABSのホームページのタイムテーブルには「ABSニュースD〜NNN〜」と記載）
+  - [秋田放送](../Page/秋田放送.md "wikilink") - ABSニュースD（月 - 金・エンディングのみ表記。なお、ABSのホームページのタイムテーブルには「ABSニュースD〜NNN〜」と記載）
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")-[TVIニュース](https://ja.wikipedia.org/wiki/TVIニュース "wikilink")（NNNニュースダッシュのローカルパート）
   - [山形放送](../Page/山形放送.md "wikilink") - YBCニュースD（ただし、YBCのホームページやタイムテーブルには「NNNニュースD」と記載）
   - [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink") - ミヤギテレビニュースD（平日、11:54まで）
@@ -489,7 +489,7 @@
   - [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink") - [TNNニュースタワー](https://ja.wikipedia.org/wiki/TNNニュースタワー "wikilink")→TeNYニュースD
   - [テレビ信州](../Page/テレビ信州.md "wikilink") - TSBニュースD
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - [YBSニュース](../Page/YBSニュース.md "wikilink")（平日）
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - [KNBニュース](../Page/KNBニュース.md "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink") - [KNBニュース](../Page/KNBニュース.md "wikilink")
   - [テレビ金沢](../Page/テレビ金沢.md "wikilink") - [北國新聞ニュース](../Page/北國新聞ニュース.md "wikilink")
   - [福井放送](../Page/福井放送.md "wikilink") - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")（平日、11:53頃からローカルニュース）、[FBCニュース](../Page/FBCニュース.md "wikilink")（週末）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink") - [RNCニュース](../Page/RNCニュース.md "wikilink")（ただし、RNCのホームページのタイムテーブルには「NNNニュースD」と表記）

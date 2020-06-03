@@ -40,7 +40,7 @@
   - [S.57](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_S.57 "wikilink")
   - [S.58](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_S.58 "wikilink")
   - [S.59](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_S.59 "wikilink")
-  - [S.62](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_S.62 "wikilink")
+  - [S.62](../Page/サヴォイア・マルケッティ_S.62.md "wikilink")
   - [S.63](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_S.63 "wikilink")
   - S.64
   - [S.65](https://ja.wikipedia.org/wiki/サヴォイア・マルケッティ_S.65 "wikilink")

@@ -97,7 +97,7 @@
   - [クリストファー・バングル](https://ja.wikipedia.org/wiki/クリストファー・バングル "wikilink")（カーデザイナー／107号）
   - [インゴ・マウラー](https://ja.wikipedia.org/wiki/インゴ・マウラー "wikilink")（照明デザイナー／108号）
   - [ミケーレ・デ・ルッキ](https://ja.wikipedia.org/wiki/ミケーレ・デ・ルッキ "wikilink")（建築家、デザイナー／109号）
-  - [佐藤卓](https://ja.wikipedia.org/wiki/佐藤卓 "wikilink")（グラフィックデザイナー／110号）
+  - [佐藤卓](../Page/佐藤卓.md "wikilink")（グラフィックデザイナー／110号）
   - [八木保](https://ja.wikipedia.org/wiki/八木保 "wikilink")（グラフィックデザイナー／111号）
   - [アンジェロ・マンジャロッティ](https://ja.wikipedia.org/wiki/アンジェロ・マンジャロッティ "wikilink")（建築家／112号）
   - [ロン・アラッド](https://ja.wikipedia.org/wiki/ロン・アラッド "wikilink")（デザイナー、建築家／113号）

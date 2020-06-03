@@ -27,7 +27,7 @@ SAMeは変性性関節炎の治療で研究されてきた。SAMeは変形性関
 
 ### 経口形態
 
-経口のSAMは、腸溶性錠剤（400-1000ミリグラム）の摂取の3～5時間後にピーク血漿濃度に達する。半減期は約100分である。\[9\]変性性関節炎の治療に十分な効果に達するために、1か月までを必要とするかもしない\[10\]。構造不安定性のため、SAMの安定した塩形態は経口薬として使用するために必須である。メリーランド大学は一般に用いられる塩類を一覧にする:[トシル基](../Page/トシル基.md "wikilink")、[:en:butanedisulfonate](https://ja.wikipedia.org/wiki/:en:butanedisulfonate "wikilink")、[:en:disulfate tosylate](https://ja.wikipedia.org/wiki/:en:disulfate_tosylate "wikilink")、[:en:disulfate ditosylate](https://ja.wikipedia.org/wiki/:en:disulfate_ditosylate "wikilink")、そして[:en:disulfate monotosylate](https://ja.wikipedia.org/wiki/:en:disulfate_monotosylate "wikilink")。\[11\]
+経口のSAMは、腸溶性錠剤（400-1000ミリグラム）の摂取の3～5時間後にピーク血漿濃度に達する。半減期は約100分である。\[9\]変性性関節炎の治療に十分な効果に達するために、1か月までを必要とするかもしれない\[10\]。構造不安定性のため、SAMの安定した塩形態は経口薬として使用するために必須である。メリーランド大学は一般に用いられる塩類を一覧にする:[トシル基](../Page/トシル基.md "wikilink")、[:en:butanedisulfonate](https://ja.wikipedia.org/wiki/:en:butanedisulfonate "wikilink")、[:en:disulfate tosylate](https://ja.wikipedia.org/wiki/:en:disulfate_tosylate "wikilink")、[:en:disulfate ditosylate](https://ja.wikipedia.org/wiki/:en:disulfate_ditosylate "wikilink")、そして[:en:disulfate monotosylate](https://ja.wikipedia.org/wiki/:en:disulfate_monotosylate "wikilink")。\[11\]
 
 2008年にFDAが義務付けた（GMPs）の到来で、製造業者はの自社製品のラベルに記載されているものを包含することを裏付ける必要がある。この目的を達成するかどうかは疑問視された。この検査は、適切に製造されパッケージされたSAMは、3年以上の品質保持期限を有することを示した:しかしながら、ほとんどの製造ラベルは2年間の品質保持期限である。
 

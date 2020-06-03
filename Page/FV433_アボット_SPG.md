@@ -7,7 +7,7 @@
 
 ## 開発
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後も、[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")は大戦中に開発されていた[セクストンや](https://ja.wikipedia.org/wiki/セクストン自走砲 "wikilink")[M7 プリーストなどの](https://ja.wikipedia.org/wiki/M7自走砲 "wikilink")[自走砲](../Page/自走砲.md "wikilink")を引き続き運用していたが、[1950年代](../Page/1950年代.md "wikilink")には老朽化と性能の陳腐化が目立つようになったため、1950年代末には新型自走砲の開発が開始された。
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後も、[イギリス陸軍](../Page/イギリス陸軍.md "wikilink")は大戦中に開発されていた[セクストンや](https://ja.wikipedia.org/wiki/セクストン自走砲 "wikilink")[M7 プリーストなどの](../Page/M7自走砲.md "wikilink")[自走砲](../Page/自走砲.md "wikilink")を引き続き運用していたが、[1950年代](../Page/1950年代.md "wikilink")には老朽化と性能の陳腐化が目立つようになったため、1950年代末には新型自走砲の開発が開始された。
 
 開発にあたっては、期間短縮とコスト削減のために[1958年](../Page/1958年.md "wikilink")から開発が始まっていた[FV430](https://ja.wikipedia.org/wiki/FV430 "wikilink")シリーズ（[FV432](../Page/FV432.md "wikilink")[装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")など）と共通の[シャーシに全周](../Page/シャシ_\(自動車\).md "wikilink")[砲塔](../Page/砲塔.md "wikilink")を搭載する形で設計された。
 

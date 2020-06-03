@@ -38,7 +38,7 @@
   - 松本孝弘：ギター
   - 稲葉浩志：ボーカル
   - シェーン・ガラース：ドラム
-  - 徳永暁人（[doa](https://ja.wikipedia.org/wiki/doa "wikilink")）：ベース・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - 徳永暁人（[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）：ベース・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（doa）：ギター・コーラス
   - [増田隆宣](../Page/増田隆宣.md "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
 

@@ -87,7 +87,7 @@
   - [トライブクルクル](https://ja.wikipedia.org/wiki/トライブクルクル "wikilink") （制作元請：サンライズ/[亜細亜堂](https://ja.wikipedia.org/wiki/亜細亜堂 "wikilink")、各話制作協力、2014年-2015年）
   - [パンチライン](https://ja.wikipedia.org/wiki/パンチライン_\(アニメ\) "wikilink") （制作元請：MAPPA、各話制作協力、2015年）
   - [ブレイブビーツ](https://ja.wikipedia.org/wiki/ブレイブビーツ "wikilink") （制作元請：[バンダイナムコピクチャーズ](https://ja.wikipedia.org/wiki/バンダイナムコピクチャーズ "wikilink")/亜細亜堂、各話制作協力、2015年-2016年）
-  - [うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink") （制作元請：MAPPA & [VOLN](https://ja.wikipedia.org/wiki/スタジオヴォルン "wikilink")、各話制作協力、2015年-2016年）
+  - [うしおととら](../Page/うしおととら.md "wikilink") （制作元請：MAPPA & [VOLN](https://ja.wikipedia.org/wiki/スタジオヴォルン "wikilink")、各話制作協力、2015年-2016年）
   - [牙狼 -紅蓮ノ月-](https://ja.wikipedia.org/wiki/牙狼_-紅蓮ノ月- "wikilink") （制作元請：MAPPA、各話制作協力、2015年-2016年）
   - [ジョジョの奇妙な冒険 ダイヤモンドは砕けない](https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_\(テレビアニメ\) "wikilink") （制作元請：[デイヴィッドプロダクション](https://ja.wikipedia.org/wiki/デイヴィッドプロダクション "wikilink")、各話制作協力、2016年）
   - [クロムクロ](https://ja.wikipedia.org/wiki/クロムクロ "wikilink") （制作元請：[P.A.WORKS](../Page/ピーエーワークス.md "wikilink")、各話制作協力、2016年）

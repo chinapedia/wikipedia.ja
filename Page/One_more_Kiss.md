@@ -1,7 +1,7 @@
 > この記事は[One more Kiss](https://ja.wikipedia.org/wiki/One_more_Kiss)から翻訳されています。
 
 
-『**One more Kiss**』（ワンモアキス）は、[2001年](../Page/2001年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで[講談社](../Page/講談社.md "wikilink")が発行した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")向け[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")（奇数月刊）。発売日は刊行月の前月（偶数月）8日（日曜日の場合は7日）。
+『**One more Kiss**』（ワンモアキス）は、[2001年](../Page/2001年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで[講談社](../Page/講談社.md "wikilink")が発行した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")向け[漫画雑誌](../Page/漫画雑誌.md "wikilink")。[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")（奇数月刊）。発売日は刊行月の前月（偶数月）8日（日曜日の場合は7日）。
 
 [2001年](../Page/2001年.md "wikilink")12月8日に、『[Kiss](../Page/Kiss_\(雑誌\).md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）の妹誌として創刊（2002年1月号）。大人の女性向けに恋をテーマとした作品を中心に掲載。創刊当初は『Kiss』で連載する漫画家の新作読切作品を中心としていたが、その後、独自の連載作品も掲載。2007年12月8日発売の2008年1月号を最後に休刊。連載作品は『Kiss』や、2008年2月に創刊された実質的な後継誌『[Kiss PLUS](https://ja.wikipedia.org/wiki/Kiss_PLUS "wikilink")』に引き継がれた。
 
@@ -15,7 +15,7 @@
   - BUB \[BACK UP BROTHERS\]（[望月玲子](../Page/望月玲子.md "wikilink")）
   - 百花日和（[埜納タオ](https://ja.wikipedia.org/wiki/埜納タオ "wikilink")） - 休刊後、『Kiss PLUS』で連載を継続。
   - [本屋の森のあかり](https://ja.wikipedia.org/wiki/本屋の森のあかり "wikilink")（[磯谷友紀](https://ja.wikipedia.org/wiki/磯谷友紀 "wikilink")） - 休刊後、『Kiss』で連載を継続。
-  - ルージュ・ユニック（[小野塚カホリ](https://ja.wikipedia.org/wiki/小野塚カホリ "wikilink")）
+  - ルージュ・ユニック（[小野塚カホリ](../Page/小野塚カホリ.md "wikilink")）
 
 ## 発行部数
 

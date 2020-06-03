@@ -9,7 +9,7 @@
   - 曲順は、世に出たのがより新しい曲から、階段を下りていくように終戦間もない頃の楽曲へと続いていく。
   - [レコード](../Page/レコード.md "wikilink")店などの新譜情報では、「曼珠沙華 / [山口百恵](../Page/山口百恵.md "wikilink")」・「湖畔の宿 / [高峰三枝子](https://ja.wikipedia.org/wiki/高峰三枝子 "wikilink")」が収録曲に記載されていたが、実際は、「**元気を出して** / [竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")」・「**なんとなくなんとなく** / [井上順](../Page/井上順.md "wikilink")」に変更された。「曼珠沙華 / 山口百恵」は、2005年5月25日発売の山口百恵トリビュートアルバム『[山口百恵トリビュート Thank You For…part2](https://ja.wikipedia.org/wiki/山口百恵トリビュート_Thank_You_For…part2 "wikilink")』及び、2007年8月29日発売の工藤静香（ソロ）デビュー20周年記念ベスト『[Shizuka Kudo 20th Anniversary the Best](../Page/Shizuka_Kudo_20th_Anniversary_the_Best.md "wikilink")』に収録された。
   - 「**なんとなくなんとなく**」は、[イオンクレジットサービスの](../Page/イオングループ.md "wikilink")[CFソングに起用された](../Page/コマーシャルメッセージ.md "wikilink")。
-  - 1995年頃、[NHK音楽番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ふたりのビッグショー](https://ja.wikipedia.org/wiki/ふたりのビッグショー "wikilink")』に[森口博子](../Page/森口博子.md "wikilink")と出演した際、番組の最後に「元気を出して」を歌ったことがある。
+  - 1995年頃、[NHK音楽番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ふたりのビッグショー](../Page/ふたりのビッグショー.md "wikilink")』に[森口博子](../Page/森口博子.md "wikilink")と出演した際、番組の最後に「元気を出して」を歌ったことがある。
   - ジャケットは工藤自身の幼年期。また、中の歌詞掲載の箇所も幼年期の工藤の写真が掲載されている。
 
 ## 収録曲

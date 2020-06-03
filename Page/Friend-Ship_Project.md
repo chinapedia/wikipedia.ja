@@ -38,7 +38,7 @@
   - 監督 - [中島信也](../Page/中島信也.md "wikilink")（[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")）、澤本嘉光（電通）
   - テーマ曲 - [青春の影](../Page/青春の影_\(チューリップの曲\).md "wikilink")（[TULIP](https://ja.wikipedia.org/wiki/チューリップ_\(バンド\) "wikilink")）
   - 協賛社 - [全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[プラチナ・ギルド・インターナショナル](https://ja.wikipedia.org/wiki/プラチナ・ギルド・インターナショナル "wikilink")、読売新聞
-  - 公式ページ - [Friend-Ship Project 第3弾](http://www.tv-tokyo.co.jp/fsp3/)
+  - 公式ページ - [Friend-Ship Project 第3弾](https://www.tv-tokyo.co.jp/fsp3/)
 
 ### 第4弾（2008年夏）
 
@@ -51,7 +51,7 @@
   - 監督 - [塚越規](https://ja.wikipedia.org/wiki/塚越規 "wikilink")（東北新社）
   - テーマ曲 - [君住む街へ](../Page/君住む街へ.md "wikilink")（[小田和正](../Page/小田和正.md "wikilink")）
   - 協賛社 - ツインリンクもてぎ、20世紀FOX映画、読売新聞
-  - 公式ページ - [Friend-Ship Project 第4弾](http://www.tv-tokyo.co.jp/fsp4/)
+  - 公式ページ - [Friend-Ship Project 第4弾](https://www.tv-tokyo.co.jp/fsp4/)
 
 ### 第5弾（2009年春）
 
@@ -61,7 +61,7 @@
   - 出演 - [岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink")、[平泉成](../Page/平泉成.md "wikilink")、[山中崇](../Page/山中崇.md "wikilink")、[森口彩乃](https://ja.wikipedia.org/wiki/森口彩乃 "wikilink")
   - テーマ曲 - [あの素晴しい愛をもう一度](../Page/あの素晴しい愛をもう一度.md "wikilink")（[加藤和彦](../Page/加藤和彦.md "wikilink")と[北山修](../Page/北山修.md "wikilink")）
   - 協賛社 - [ナビタイムジャパン](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")、プラチナ・ギルド・インターナショナル、読売新聞
-  - 公式ページ - [Friend-Ship Project 第5弾](http://www.tv-tokyo.co.jp/fsp5/)
+  - 公式ページ - [Friend-Ship Project 第5弾](https://www.tv-tokyo.co.jp/fsp5/)
 
 ### 第6弾（2009年冬）
 
@@ -72,7 +72,7 @@
   - テーマ曲 - [やさしさで溢れるように](https://ja.wikipedia.org/wiki/やさしさで溢れるように "wikilink")（[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")）
   - 協賛社 - [カッパ・クリエイト](https://ja.wikipedia.org/wiki/カッパ・クリエイト "wikilink")、[ナビタイムジャパン](https://ja.wikipedia.org/wiki/ナビタイムジャパン "wikilink")、[日本ケロッグ](../Page/日本ケロッグ.md "wikilink")、[レゴ](../Page/レゴ.md "wikilink")ジャパン
   - 備考 - 今回は第5弾までと異なり、それぞれの協賛社に対して1本（30秒）のCMが制作された。4本のCMの登場人物や設定・テーマなどが共通することで、本プロジェクトの効果を出す。また、今回は読売新聞は協賛社ではないが、紙面上に本プロジェクトの広告が掲載される。
-  - 公式ページ - [Friend-Ship Project 第6弾](http://www.tv-tokyo.co.jp/fsp6/)
+  - 公式ページ - [Friend-Ship Project 第6弾](https://www.tv-tokyo.co.jp/fsp6/)
 
 ### 第7弾（2010年春）
 
@@ -83,7 +83,7 @@
   - テーマ曲 - [おかえりなさい](https://ja.wikipedia.org/wiki/ファンキーモンキーベイビーズ3 "wikilink")（[ファンキーモンキーベイビーズ](https://ja.wikipedia.org/wiki/ファンキーモンキーベイビーズ "wikilink")）
   - 協賛社 - ナビタイムジャパン、プラチナ・ギルド・インターナショナル、読売新聞
   - 備考 - [ミニ番組](../Page/ミニ番組.md "wikilink")として特別編が期間中2回放送された。
-  - 公式ページ - [Friend-Ship Project 第7弾](http://www.tv-tokyo.co.jp/fsp7/)
+  - 公式ページ - [Friend-Ship Project 第7弾](https://www.tv-tokyo.co.jp/fsp7/)
 
 ### 第8弾（2011年春）
 
@@ -94,7 +94,7 @@
   - テーマ曲 - [絆](https://ja.wikipedia.org/wiki/昇れる太陽 "wikilink")（[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")）
   - 協賛社 - [オムロン ヘルスケア](https://ja.wikipedia.org/wiki/オムロン_ヘルスケア "wikilink")、[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")・ジャパン、ナビタイムジャパン
   - 備考 - 本作は180秒×3話。インフォマーシャルではなくミニ番組として放送。
-  - 公式ページ - [Friend-Ship Project 第8弾](http://www.tv-tokyo.co.jp/fsp8/)
+  - 公式ページ - [Friend-Ship Project 第8弾](https://www.tv-tokyo.co.jp/fsp8/)
 
 ### 第9弾（2012年春）
 
@@ -121,7 +121,7 @@
   - コンセプト - 家族の絆
   - 出演 - [柄本佑](../Page/柄本佑.md "wikilink")（新郎）、[黒川芽以](https://ja.wikipedia.org/wiki/黒川芽以 "wikilink")（新婦）、[佐々木和徳](../Page/佐々木和徳.md "wikilink")（新郎の弟）、[北見敏之](../Page/北見敏之.md "wikilink")（新郎の父）、[松原智恵子](../Page/松原智恵子.md "wikilink")（新郎の母）
   - 協賛社 - [第一三共ヘルスケア](../Page/第一三共ヘルスケア.md "wikilink")、[ほけんの窓口](https://ja.wikipedia.org/wiki/ほけんの窓口 "wikilink")、プラチナ・ギルド・インターナショナル
-  - 公式ページ - [Friend-Ship Project 第10弾](http://www.tv-tokyo.co.jp/fsp10/)
+  - 公式ページ - [Friend-Ship Project 第10弾](https://www.tv-tokyo.co.jp/fsp10/)
 
 ### 第11弾（2014年春）
 
@@ -131,7 +131,7 @@
   - 出演 - [山中崇](../Page/山中崇.md "wikilink")、[関めぐみ](https://ja.wikipedia.org/wiki/関めぐみ "wikilink")、[星野真里](../Page/星野真里.md "wikilink")、[前野朋哉](https://ja.wikipedia.org/wiki/前野朋哉 "wikilink")、[阿部力](../Page/阿部力.md "wikilink")、[中村ゆり](../Page/中村ゆり.md "wikilink") 他
   - 協賛社 - [日本航空](../Page/日本航空.md "wikilink")、[みつばち保険](https://ja.wikipedia.org/wiki/みつばち保険 "wikilink")グループ、[龍角散](../Page/龍角散.md "wikilink")
   - 備考 - 全3話を期間中に2回ずつ放送。ドラマ仕立ての本編（120秒）にインフォマーシャル（30秒）をカップリングして放送。
-  - 公式ページ - [Friend-Ship Project 第11弾](http://www.tv-tokyo.co.jp/fsp11/)
+  - 公式ページ - [Friend-Ship Project 第11弾](https://www.tv-tokyo.co.jp/fsp11/)
 
 ### 第12弾（2015年春）
 
@@ -142,7 +142,7 @@
   - 挿入歌 - [3月9日](../Page/3月9日_\(曲\).md "wikilink")（[レミオロメン](../Page/レミオロメン.md "wikilink")）
   - 協賛社 - [セイコーウオッチ](https://ja.wikipedia.org/wiki/セイコーウオッチ "wikilink")、[日本マイクロソフト](https://ja.wikipedia.org/wiki/日本マイクロソフト "wikilink")、[バンダイ](../Page/バンダイ.md "wikilink")
   - 備考 - 全3話を期間中に2回ずつ放送。ドラマ仕立ての本編（90秒）にコマーシャル（30秒）をカップリングして放送。また同年3月の[北陸新幹線](https://ja.wikipedia.org/wiki/北陸新幹線 "wikilink")開業も絡めたストーリーとなっており、地元[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")の民放テレビ局（[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")・[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")・[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")・[テレビ金沢](../Page/テレビ金沢.md "wikilink")・[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")）が製作に協力、作品の放送もテレビ東京での放送終了後に行った。
-  - 公式ページ - [Friend-Ship Project 第12弾](http://www.tv-tokyo.co.jp/fsp/12th/)
+  - 公式ページ - [Friend-Ship Project 第12弾](https://www.tv-tokyo.co.jp/fsp/12th/)
 
 ### 第13弾（2016年春）
 
@@ -151,7 +151,7 @@
   - 出演 - [木南晴夏](https://ja.wikipedia.org/wiki/木南晴夏 "wikilink")、[三浦貴大](https://ja.wikipedia.org/wiki/三浦貴大 "wikilink")、[テイラー](../Page/テイラー.md "wikilink")、[若月佑美](https://ja.wikipedia.org/wiki/若月佑美 "wikilink")、[入江雅人](../Page/入江雅人.md "wikilink") 他
   - 協賛社 - [ジョンソン](../Page/ジョンソン_\(企業\).md "wikilink")、[トワイニング](../Page/トワイニング.md "wikilink")・ジャパン、[みずほ証券](../Page/みずほ証券.md "wikilink")
   - 備考 - 約1時間のドラマ特番として放送。同局のバラエティ番組『[YOUは何しに日本へ?](https://ja.wikipedia.org/wiki/YOUは何しに日本へ? "wikilink")』を彷彿とさせるストーリー。
-  - 公式ページ - [Friend-Ship Project 第13弾](http://www.tv-tokyo.co.jp/fsp/13th/)
+  - 公式ページ - [Friend-Ship Project 第13弾](https://www.tv-tokyo.co.jp/fsp/13th/)
 
 ### 第14弾（2017年春）
 
@@ -164,7 +164,7 @@
   - 脚本 - [根本宗子](https://ja.wikipedia.org/wiki/根本宗子 "wikilink")
   - 脚本協力 - [伊藤正宏](../Page/伊藤正宏.md "wikilink")
   - 備考 - 1話30分、全3話のコメディドラマを放送。
-  - 公式ページ - [Friend-Ship Project 第14弾](http://www.tv-tokyo.co.jp/fsp/14th/)
+  - 公式ページ - [Friend-Ship Project 第14弾](https://www.tv-tokyo.co.jp/fsp/14th/)
 
 ### 第15弾（2018年春）
 
@@ -187,9 +187,9 @@
 
 ## 外部リンク
 
-  - [テレビ東京](http://www.tv-tokyo.co.jp/)
-  - [Friend-Ship Project 最新作](http://www.tv-tokyo.co.jp/fsp/)
-  - [Friend-Ship Project バックナンバー](http://www.tv-tokyo.co.jp/fsp/backnumber.html)
+  - [テレビ東京](https://www.tv-tokyo.co.jp/)
+  - [Friend-Ship Project 最新作](https://www.tv-tokyo.co.jp/fsp/)
+  - [Friend-Ship Project バックナンバー](https://www.tv-tokyo.co.jp/fsp/backnumber.html)
 
 [Category:テレビ東京のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ "wikilink") [Category:テレビ東京のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のミニ番組 "wikilink") [Category:電通](https://ja.wikipedia.org/wiki/Category:電通 "wikilink") [Category:北日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北日本放送のテレビ番組 "wikilink") [Category:チューリップテレビの番組](https://ja.wikipedia.org/wiki/Category:チューリップテレビの番組 "wikilink") [Category:富山テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:富山テレビ放送の番組 "wikilink") [Category:テレビ金沢の番組](https://ja.wikipedia.org/wiki/Category:テレビ金沢の番組 "wikilink") [Category:北陸朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸朝日放送のテレビ番組 "wikilink") [Category:北陸放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:北陸放送のテレビ番組 "wikilink") [Category:石川テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:石川テレビ放送の番組 "wikilink") [Category:北陸新幹線](https://ja.wikipedia.org/wiki/Category:北陸新幹線 "wikilink") [Category:読売新聞](https://ja.wikipedia.org/wiki/Category:読売新聞 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:家族を題材とした番組](https://ja.wikipedia.org/wiki/Category:家族を題材とした番組 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:2008年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2008年のテレビ番組_\(日本\) "wikilink") [Category:2009年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2009年のテレビ番組_\(日本\) "wikilink") [Category:2010年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2010年のテレビ番組_\(日本\) "wikilink") [Category:2011年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2011年のテレビ番組_\(日本\) "wikilink") [Category:2012年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2012年のテレビドラマ "wikilink") [Category:2013年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2013年のテレビドラマ "wikilink") [Category:2014年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2014年のテレビドラマ "wikilink") [Category:2015年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2015年のテレビドラマ "wikilink") [Category:2016年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2016年のテレビドラマ "wikilink") [Category:2017年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2017年のテレビドラマ "wikilink") [Category:2018年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2018年のテレビドラマ "wikilink") [Category:2019年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2019年のテレビドラマ "wikilink")
 

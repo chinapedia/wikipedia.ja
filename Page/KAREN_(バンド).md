@@ -175,7 +175,7 @@
 ## 外部リンク
 
   -
-  - [(キ)ミドリイロノブログ](http://d.hatena.ne.jp/achicoo/)（アチコのブログ）
+  - [(キ)ミドリイロノブログ](https://achicoo.hatenadiary.org/)（アチコのブログ）
 
   - [Power Push 5年間の活動に終止符 バンド解散の真相語る](http://natalie.mu/music/pp/karen)ナタリー
 

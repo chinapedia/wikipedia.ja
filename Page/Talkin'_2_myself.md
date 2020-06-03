@@ -37,10 +37,10 @@
 ## 収録アルバム
 
   - **talkin' 2 myself**
-      - 『[GUILTY](https://ja.wikipedia.org/wiki/GUILTY_\(浜崎あゆみのアルバム\) "wikilink")』
+      - 『[GUILTY](../Page/GUILTY_\(浜崎あゆみのアルバム\).md "wikilink")』
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
   - **decision**
-      - 『[GUILTY](https://ja.wikipedia.org/wiki/GUILTY_\(浜崎あゆみのアルバム\) "wikilink")』
+      - 『[GUILTY](../Page/GUILTY_\(浜崎あゆみのアルバム\).md "wikilink")』
 
 ## 脚注
 

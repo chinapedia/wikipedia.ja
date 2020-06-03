@@ -232,7 +232,7 @@
 
   - アクション監督：[横山誠](../Page/横山誠.md "wikilink")（[AAC STUNTS](https://ja.wikipedia.org/wiki/AAC_STUNTS "wikilink")）
 
-  - プロデュース：加藤和夫（東映ビデオ）、矢田晃一（東映エージエンシー）、[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")、[武部直美](https://ja.wikipedia.org/wiki/武部直美 "wikilink")
+  - プロデュース：加藤和夫（東映ビデオ）、矢田晃一（東映エージエンシー）、[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")、[武部直美](../Page/武部直美.md "wikilink")
 
   - 製作プロダクション：[東映東京撮影所](../Page/東映東京撮影所.md "wikilink")
 

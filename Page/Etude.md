@@ -68,9 +68,12 @@
 ## 外部リンク
 
   - [etude official web site](http://www.etude-soft.jp/)<span style="color:red">（18歳未満閲覧禁止）</span>
+
   - [eufonie Official Web Site](http://www.eufonie.jp/)<span style="color:red">（18歳未満閲覧禁止）</span>
+
   - [FancyFantasia](http://www.milky.ne.jp/~fantasia/) - 植田亮のHP
 
+  -
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
 1.

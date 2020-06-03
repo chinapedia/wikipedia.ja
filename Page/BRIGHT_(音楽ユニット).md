@@ -5,7 +5,7 @@
 
 ## エピソード
 
-  - 4人とも[大阪](../Page/大阪.md "wikilink")・[京橋にある](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")**キャレスボーカル&ダンススクール**大阪校出身である。
+  - 4人とも[大阪](../Page/大阪.md "wikilink")・[京橋にある](../Page/京橋_\(大阪市\).md "wikilink")**キャレスボーカル&ダンススクール**大阪校出身である。
   - 結成当初は、元 **[PARADISE GO\!\! GO\!\!](../Page/PARADISE_GO!!_GO!!.md "wikilink")** の松本美咲が所属していた。彼女が抜けた後、NANAKAが加入し、後に **[HINOIチーム](../Page/HINOIチーム.md "wikilink")** に所属する[小山ひかる](https://ja.wikipedia.org/wiki/小山ひかる "wikilink")を加えた5人で活動していたことがある。
   - 2007年1月から2008年3月まで京都の[新京極商店街ろっくんプラザにて第](../Page/新京極通.md "wikilink")2、第4土曜日の月2回、ストリートライブを行っていた。その最後を飾った卒業ライブでは延べ数千人の観客（スポーツ新聞各紙発表）を動員した。
   - 2008年1月21日に初のワンマンライブとなる、「BRIGHT DEBUT PREMIUM LIVE 〜Brightest Star〜」 が大阪・Shangri-laにて開催されたが、300人動員しないと次のCDのリリースなし、というノルマが課せられていた。
@@ -13,7 +13,7 @@
   - 2008年の [a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink") では全会場でオープニングアクトを飾った。また2009年は大阪･東京･愛知の会場でパフォーマンスを披露した。
   - 2009年7月より2009年末まで、毎月1回のペースで本人達が主催のライブイベント 「Soul Playground」 を行なった。チケットが完売になった回もあった。関西中心のライブイベントだったが、クリスマス時期には東京でも開催した。
   - 2009年8月に行われた新京極ろっくんプラザの凱旋ライブでは、時折激しく雨の降る天候の中、やはり延べ数千人の観客を動員した。
-  - 2009年10月より[FM OSAKAの番組](../Page/エフエム大阪.md "wikilink") 「[SHOO POWER REQUEST](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink")」 で、リスナーの悩み･相談に対し、翌週にアカペラの歌を作ってきてそれに答えるという 「ワールドウェディング BRIGHTに♪何だって話してよ〜♪」 のコーナーを担当する。なお過去の放送分は YouTube でチェックできる。
+  - 2009年10月より[FM OSAKAの番組](../Page/エフエム大阪.md "wikilink") 「[SHOO POWER REQUEST](../Page/SHOO_POWER_REQUEST.md "wikilink")」 で、リスナーの悩み･相談に対し、翌週にアカペラの歌を作ってきてそれに答えるという 「ワールドウェディング BRIGHTに♪何だって話してよ〜♪」 のコーナーを担当する。なお過去の放送分は YouTube でチェックできる。
   - 2009年12月より、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") 「[ジャイケルマクソン](../Page/ジャイケルマクソン.md "wikilink")」 のレギュラーになる。先だって行われた 「ジャイケルミニ枠オーディション」 は審査員全員一致で合格した。
   - 2013年4月、5月の 「BRIGHT LIVE TOUR 2013〜Brightest Days〜」 をもって解散することを発表\[1\]\[2\]\[3\]。
   - 2013年5月12日、解散ツアー「BRIGHT LIVE TOUR 2013〜Brightest Days〜」の最終日。 渋谷WWWでラストライブを開催し解散した。
@@ -56,7 +56,7 @@
 <td></td>
 <td><p><a href="../Page/メゾソプラノ.md" title="wikilink">メゾソプラノ</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京橋_(大阪市)" title="wikilink">京橋</a></p></td>
+<td><p><a href="../Page/京橋_(大阪市).md" title="wikilink">京橋</a></p></td>
 <td><p>B</p></td>
 <td><p>和菓子</p></td>
 <td><p>辛いもの、苦いもの</p></td>
@@ -167,7 +167,7 @@
 ### ラジオ
 
   - BRIGHTのGirls Party Night\!\!（2008年10月7日 - 2009年12月29日、[スターデジオ](../Page/スターデジオ.md "wikilink")）
-  - ワールドウェディング BRIGHTに♪何だって話してよ〜♪（2009年10月2日 - 2011年3月25日、[FM OSAKA](../Page/エフエム大阪.md "wikilink")「[SHOO POWER REQUEST](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink")」内）
+  - ワールドウェディング BRIGHTに♪何だって話してよ〜♪（2009年10月2日 - 2011年3月25日、[FM OSAKA](../Page/エフエム大阪.md "wikilink")「[SHOO POWER REQUEST](../Page/SHOO_POWER_REQUEST.md "wikilink")」内）
   - [BRIGHTの月極うたぐみ](https://ja.wikipedia.org/wiki/月極うたぐみ "wikilink")（2011年10月28日 - 2011年11月25日、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
 
 ## 脚注

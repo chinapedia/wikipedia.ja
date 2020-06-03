@@ -11,7 +11,7 @@
 
 [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")である「SEVENTH HEAVEN」とは、ユダヤ教などで説かれる天国の最高位をいう（詳しくは、[セブンスヘブン](../Page/セブンスヘブン.md "wikilink")を参照）。サビから始まる冒頭部分の歌詞に、同年の流行語「[どんだけ](../Page/どんだけ〜.md "wikilink")」がフィーチャーされている。またPerfumeのメジャーシングルとして初めて、両曲のインストゥルメンタルが収録された他、「ポリリズム」のポリループ部分をカットしたショートエディットヴァージョンも収録されている。
 
-PVは「ポリリズム」のみが制作され、こちらでも地球や植物をCGでフィーチャーするなど、環境保護を訴求する表現が使われている。このPVのCGには[ソエジマヤスフミ](https://ja.wikipedia.org/wiki/ソエジマヤスフミ "wikilink")（[ゴンゾ](../Page/ゴンゾ.md "wikilink")）が参加している[1](http://blogs.yahoo.co.jp/ys19710313/17947559.html)。「SEVENTH HEAVEN」のPVは当初制作されなかったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春、[フジテレビのWebサイト内コンテンツ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[少年タケシ](../Page/少年タケシ.md "wikilink")」とのコラボレート企画で、一般公募により制作された。
+PVは「ポリリズム」のみが制作され、こちらでも地球や植物をCGでフィーチャーするなど、環境保護を訴求する表現が使われている。このPVのCGには[ソエジマヤスフミ](https://ja.wikipedia.org/wiki/ソエジマヤスフミ "wikilink")（[ゴンゾ](../Page/ゴンゾ.md "wikilink")）が参加している[1](https://web.archive.org/20140415101507/http://blogs.yahoo.co.jp/ys19710313/17947559.html)。「SEVENTH HEAVEN」のPVは当初制作されなかったが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春、[フジテレビのWebサイト内コンテンツ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[少年タケシ](../Page/少年タケシ.md "wikilink")」とのコラボレート企画で、一般公募により制作された。
 
 初回限定盤は「ポリリズム」のPVを収録したDVDとの2枚組。また初回限定盤のうち50枚には本人たちの直筆のサインが入っている。また[ヴィレッジヴァンガード発売分については](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")、裏ジャケットのデザインをモチーフにしたスリーブジャケットに封入されて発売された（数量限定）。
 

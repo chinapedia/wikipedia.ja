@@ -83,13 +83,13 @@
 
 ## は行
 
-  - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") ([PKCZ](https://ja.wikipedia.org/wiki/PKCZ "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))
+  - [VERBAL](../Page/VERBAL.md "wikilink") ([PKCZ](https://ja.wikipedia.org/wiki/PKCZ "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink"))
   - DJ HI-KICK ([BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink"))
   - [DJ BAKU](../Page/DJ_BAKU.md "wikilink")
   - [DJ HAZIME](../Page/DJ_HAZIME.md "wikilink")
   - DJ PAT→504 ([KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink"))
   - DJ BEAT (ROCK STEADY CREW JAPAN)
-  - [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink") ([DS455](../Page/DS455.md "wikilink"))
+  - [DJ PMX](../Page/DJ_PMX.md "wikilink") ([DS455](../Page/DS455.md "wikilink"))
   - DJ Bigg-S
   - DJ HIDE-O
   - [DJ VIBLAM](../Page/DJ_VIBLAM.md "wikilink") ([TEAM 44 BLOX](../Page/TEAM_44_BLOX.md "wikilink"))

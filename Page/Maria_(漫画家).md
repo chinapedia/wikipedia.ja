@@ -1,7 +1,7 @@
 > この記事は[Maria \(漫画家\)](https://ja.wikipedia.org/wiki/Maria_\(漫画家\))から翻訳されています。
 
 
-**Maria**（マリア、2月3日\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[福岡県](../Page/福岡県.md "wikilink")出身及び在住\[2\]。デビュー作品は『恋人と呼ばせて』（当時21歳）\[3\]。
+**Maria**（マリア、2月3日\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[福岡県](../Page/福岡県.md "wikilink")出身及び在住\[2\]。デビュー作品は『恋人と呼ばせて』（当時21歳）\[3\]。
 
 実の妹は漫画家の[高倉みどり](https://ja.wikipedia.org/wiki/高倉みどり "wikilink")、妹の夫は漫画家の[飛永宏之](https://ja.wikipedia.org/wiki/飛永宏之 "wikilink")である。
 
@@ -48,7 +48,7 @@
   - FOR THE LONELY （集英社、『別マスペシャル』2001年初夏の増刊）
   - 嘘つきな恋心 （集英社、『別マスペシャル』2001年秋の増刊）
   - れんあい開花 （集英社、『別マスペシャル』[2002年](../Page/2002年.md "wikilink")春恋増刊）
-  - LOVE\&CHAIN （集英社、『[デラックスマーガレット](https://ja.wikipedia.org/wiki/デラックスマーガレット "wikilink")』[2003年](../Page/2003年.md "wikilink")5月号）
+  - LOVE\&CHAIN （集英社、『[デラックスマーガレット](../Page/デラックスマーガレット.md "wikilink")』[2003年](../Page/2003年.md "wikilink")5月号）
   - あるがままで （集英社、『別マスペシャル』2003年初夏の増刊）
   - OVER AND OVER （集英社、『別マスペシャル』2005年春の増刊）
   - 恋愛迷子 （集英社、『ザ マーガレット』2006年2月号）

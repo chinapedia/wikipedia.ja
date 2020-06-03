@@ -9,7 +9,7 @@
 
 ## テレビ放送について
 
-2003年の第1回から3年続けて、[TBS](../Page/TBSテレビ.md "wikilink")・[JNN系列の放送となったが](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、視聴率では「[PRIDE 男祭り 2005](https://ja.wikipedia.org/wiki/PRIDE_男祭り_2005 "wikilink")」が17.0%（20:00 - 23:00台）に対し14.8%と敗れた。その前の「[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")」も視聴率が10.0%と歴代最低視聴率を更新したことも影響した。そのため、2006年度の年末年始編成では「レコ大」を12月30日に移行し、「Dynamite\!\!」の放送時間枠が拡大されている。
+2003年の第1回から3年続けて、[TBS](../Page/TBSテレビ.md "wikilink")・[JNN系列の放送となったが](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、視聴率では「[PRIDE 男祭り 2005](../Page/PRIDE_男祭り_2005.md "wikilink")」が17.0%（20:00 - 23:00台）に対し14.8%と敗れた。その前の「[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")」も視聴率が10.0%と歴代最低視聴率を更新したことも影響した。そのため、2006年度の年末年始編成では「レコ大」を12月30日に移行し、「Dynamite\!\!」の放送時間枠が拡大されている。
 
 ## 試合結果
 
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [PRIDE 男祭り 2005](https://ja.wikipedia.org/wiki/PRIDE_男祭り_2005 "wikilink") - 同日開催
+  - [PRIDE 男祭り 2005](../Page/PRIDE_男祭り_2005.md "wikilink") - 同日開催
   - [第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink") - 同日放送の番組
 
 ## 外部リンク

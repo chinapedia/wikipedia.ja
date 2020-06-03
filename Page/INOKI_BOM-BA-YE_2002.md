@@ -9,7 +9,7 @@
 
 これまで「PRIDEは場である」としてPRIDE軍というあり方が否定されていたが、今回から[PRIDEも加わる形での対抗戦となった](../Page/PRIDE_\(格闘技イベント\).md "wikilink")。同じ運営体制で同年[8月28日](../Page/8月28日.md "wikilink")に[国立競技場で開催された格闘技イベント](../Page/国立霞ヶ丘陸上競技場.md "wikilink")[Dynamite\!](../Page/Dynamite!.md "wikilink")の成功の勢いもあり、当時アイドル的存在だった[ボブ・サップ](../Page/ボブ・サップ.md "wikilink")の参戦が話題となり、前年以上の16.7%\[1\] という視聴率を獲得。[藤田和之](../Page/藤田和之.md "wikilink") vs [ミルコ・クロコップ](../Page/ミルコ・クロコップ.md "wikilink")、[ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink") vs [マイク・ベルナルド](../Page/マイク・ベルナルド.md "wikilink")、[クイントン・"ランペイジ"・ジャクソン](../Page/クイントン・ジャクソン.md "wikilink") vs [シリル・アビディ](../Page/シリル・アビディ.md "wikilink")の[リベンジ](../Page/リベンジ.md "wikilink")マッチが組まれた他、[佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink")はこの大会で格闘技から引退した。一方、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")所属のプロレスラー、[中邑真輔](../Page/中邑真輔.md "wikilink")はこの大会で総合格闘技デビューをした。
 
-前年の[INOKI BOM-BA-YE 2001とは異なり](https://ja.wikipedia.org/wiki/INOKI_BOM-BA-YE_2001 "wikilink")、Dynamite\!と同様に、立ち技格闘技のK-1によるルールと[総合格闘技](../Page/総合格闘技.md "wikilink")イベント[PRIDEのルールで行われた](../Page/PRIDE_\(格闘技イベント\).md "wikilink")。ただしPRIDEルールが1ラウンドが10分だったのに対して、各ラウンドは5分だった。
+前年の[INOKI BOM-BA-YE 2001とは異なり](../Page/INOKI_BOM-BA-YE_2001.md "wikilink")、Dynamite\!と同様に、立ち技格闘技のK-1によるルールと[総合格闘技](../Page/総合格闘技.md "wikilink")イベント[PRIDEのルールで行われた](../Page/PRIDE_\(格闘技イベント\).md "wikilink")。ただしPRIDEルールが1ラウンドが10分だったのに対して、各ラウンドは5分だった。
 
 ## 試合結果
 

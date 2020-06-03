@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 4thシングル『[性](https://ja.wikipedia.org/wiki/性_\(ツイストの曲\) "wikilink")』、5thシングル『[燃えろいい女](https://ja.wikipedia.org/wiki/燃えろいい女 "wikilink")』が収録されている。
+  - 4thシングル『[性](../Page/性_\(ツイストの曲\).md "wikilink")』、5thシングル『[燃えろいい女](../Page/燃えろいい女.md "wikilink")』が収録されている。
 
 <!-- end list -->
 

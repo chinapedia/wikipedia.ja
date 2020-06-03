@@ -3,7 +3,7 @@
 
 **SL北びわこ号**（SLきたびわこごう）は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）が[北陸本線](../Page/北陸本線.md "wikilink")[米原駅](../Page/米原駅.md "wikilink") - [木ノ本駅](https://ja.wikipedia.org/wiki/木ノ本駅 "wikilink")間で運行している、[蒸気機関車](../Page/蒸気機関車.md "wikilink") (SL) 牽引による[臨時列車](../Page/臨時列車.md "wikilink")\[1\]である。
 
-[滋賀県湖北地域の](https://ja.wikipedia.org/wiki/滋賀県#地域区分 "wikilink")[観光](../Page/観光.md "wikilink")振興とSLの[動態保存運転を目的とした列車で](../Page/動態保存中の蒸気機関車.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）[8月19日](../Page/8月19日.md "wikilink")に運行を開始した。運行開始から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）までの乗車人数は25万人にのぼり、米原市の弁当屋「井筒屋」で記念弁当も発売された\[2\]\[3\]。
+[滋賀県湖北地域の](https://ja.wikipedia.org/wiki/滋賀県#地域区分 "wikilink")[観光](../Page/観光.md "wikilink")振興とSLの[動態保存運転を目的とした列車で](../Page/動態保存中の蒸気機関車.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）8月19日に運行を開始した。運行開始から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）までの乗車人数は25万人にのぼり、[米原市](../Page/米原市.md "wikilink")の弁当屋「井筒屋」で記念弁当も発売された\[2\]\[3\]。
 
 ## 運行概況
 

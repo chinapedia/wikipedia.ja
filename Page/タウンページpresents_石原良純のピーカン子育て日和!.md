@@ -38,7 +38,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_Radio_Network" title="wikilink">JRN</a>・NRN系列</p></td>
+<td><p><a href="../Page/ジャパン・ラジオ・ネットワーク.md" title="wikilink">JRN</a>・NRN系列</p></td>
 <td><p>日曜 17:30 - 18:00 （変更あり）</p></td>
 <td></td>
 </tr>
@@ -170,7 +170,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送ラジオ" title="wikilink">山陽放送</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKラジオ" title="wikilink">山陽放送</a></p></td>
 <td><p>土曜 20:00 - 20:30</p></td>
 <td></td>
 <td></td>

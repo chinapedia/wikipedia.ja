@@ -178,7 +178,7 @@
 
 ## 関連項目
 
-  - [PRIDE 男祭り 2004](https://ja.wikipedia.org/wiki/PRIDE_男祭り_2004 "wikilink") - 同日開催
+  - [PRIDE 男祭り 2004](../Page/PRIDE_男祭り_2004.md "wikilink") - 同日開催
   - [第55回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink") - 同日放送の番組
 
 ## 外部リンク

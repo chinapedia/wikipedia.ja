@@ -1,7 +1,7 @@
 > この記事は[SENGOKU RAIDEN CHAMPIONSHIP](https://ja.wikipedia.org/wiki/SENGOKU_RAIDEN_CHAMPIONSHIP)から翻訳されています。
 
 
-**SENGOKU RAIDEN CHAMPIONSHIP**（センゴク・ライデン・チャンピオンシップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体。略称は**SRC**（エス・アール・シー）。[2009年](../Page/2009年.md "wikilink")までの団体名は**戦極-SENGOKU-**（せんごく）。[ワールドビクトリーロード](https://ja.wikipedia.org/wiki/ワールドビクトリーロード "wikilink")（[ドン・キホーテの子会社](../Page/ドン・キホーテ_\(企業\).md "wikilink")）が主催していた。
+**SENGOKU RAIDEN CHAMPIONSHIP**（センゴク・ライデン・チャンピオンシップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体。略称は**SRC**（エス・アール・シー）。[2009年](../Page/2009年.md "wikilink")までの団体名は**戦極-SENGOKU-**（せんごく）。[ワールドビクトリーロード](../Page/ワールドビクトリーロード.md "wikilink")（[ドン・キホーテの子会社](../Page/ドン・キホーテ_\(企業\).md "wikilink")）が主催していた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")、「[戦極 〜第一陣〜](https://ja.wikipedia.org/wiki/戦極_〜第一陣〜 "wikilink")」を開催し旗揚げ。
 
@@ -9,7 +9,7 @@
 
 ## 概要
 
-2007年に活動を停止した日本の総合格闘技イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の選手やスタッフの受け皿として発足した[ワールドビクトリーロード](https://ja.wikipedia.org/wiki/ワールドビクトリーロード "wikilink")\[1\]が主催。
+2007年に活動を停止した日本の総合格闘技イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の選手やスタッフの受け皿として発足した[ワールドビクトリーロード](../Page/ワールドビクトリーロード.md "wikilink")\[1\]が主催。
 
 当初、大会演出は、PRIDEを運営してきた「[やれんのか\! 大晦日\! 2007](../Page/やれんのか!_大晦日!_2007.md "wikilink")」の製作チームが担当することになっていたが\[2\]、 「コンセプトが合わなかった」\[3\]とし、立ち消えになった。
 
@@ -37,7 +37,7 @@ SRCに関する権利はSRCエンタテインメントが管理しており、20
 
 試合場には[リングを用い](../Page/リング_\(格闘技\).md "wikilink")、一般的な[総合格闘技](../Page/総合格闘技.md "wikilink")ルールが採用されている。試合時間は1ラウンド5分で3ラウンド制。タイトルマッチのみ5ラウンド制。判定はラウンド毎に3名のジャッジによる減点法で行われ、同点の場合は必ずいずれかの選手に勝ち票を投じる。
 
-[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")、頭部への[肘打ち](../Page/肘打ち.md "wikilink")は禁止されているが、踏みつけと3点ポジションでの頭部への膝蹴りは認められている。
+[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")、頭部への[肘打ち](../Page/肘打ち.md "wikilink")は禁止されているが、踏みつけと3点ポジションでの頭部への膝蹴りは認められている。
 
 ## 階級
 

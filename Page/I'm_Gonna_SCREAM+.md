@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - heavenly6名義では、前作『[Ready?](https://ja.wikipedia.org/wiki/Ready? "wikilink")』から約11ヶ月ぶりのリリースとなる。
+  - heavenly6名義では、前作『[Ready?](../Page/Ready?.md "wikilink")』から約11ヶ月ぶりのリリースとなる。
   - 表題曲は[カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「free plus」の[CM](https://ja.wikipedia.org/wiki/CM "wikilink")ソング。タイトルの「+」は「free plus」の「plus」を意識してつけたとの事。CMでは川瀬がナレーションを務めていた。
   - 元々この曲はCM用のフレーズしか製作されていなかったが、シングルとしてリリースが決定した後に残りのパートを製作した。
   - [カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")には1stアルバム『[Tommy heavenly<sup>6</sup>](../Page/Tommy_heavenly6_\(アルバム\).md "wikilink")』に収録されている「+gothic Pink+」の別バージョンが収録されている。

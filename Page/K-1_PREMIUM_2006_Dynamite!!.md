@@ -57,7 +57,7 @@
 
 ## 関連項目
 
-  - [PRIDE 男祭り 2006](https://ja.wikipedia.org/wiki/PRIDE_男祭り_2006 "wikilink") - 同日開催
+  - [PRIDE 男祭り 2006](../Page/PRIDE_男祭り_2006.md "wikilink") - 同日開催
   - [第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink") - 同日放送の番組
   - [ダウンタウンのガキの使いやあらへんで\!\!](https://ja.wikipedia.org/wiki/ダウンタウンのガキの使いやあらへんで!! "wikilink")　[絶対に笑ってはいけない警察24時](https://ja.wikipedia.org/wiki/絶対に笑ってはいけない警察24時 "wikilink") - 同日放送の番組
 

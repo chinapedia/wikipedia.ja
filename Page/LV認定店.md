@@ -19,10 +19,10 @@
 
 **北海道**
 
-  - [帯広日産自動車](https://ja.wikipedia.org/wiki/帯広日産自動車 "wikilink")
-  - [北海道日産自動車](https://ja.wikipedia.org/wiki/北海道日産自動車 "wikilink")
-  - [札幌日産自動車](https://ja.wikipedia.org/wiki/札幌日産自動車 "wikilink")
-  - [日産プリンス札幌販売](https://ja.wikipedia.org/wiki/日産プリンス札幌販売 "wikilink")
+  - [帯広日産自動車](../Page/帯広日産自動車.md "wikilink")
+  - [北海道日産自動車](../Page/北海道日産自動車.md "wikilink")
+  - [札幌日産自動車](../Page/札幌日産自動車.md "wikilink")
+  - [日産プリンス札幌販売](../Page/日産プリンス札幌販売.md "wikilink")
 
 **青森県**
 
@@ -48,9 +48,9 @@
 
 **山形県**
 
-  - [山形日産自動車販売](https://ja.wikipedia.org/wiki/山形日産自動車販売 "wikilink")
-  - [山形日産自動車](https://ja.wikipedia.org/wiki/山形日産自動車 "wikilink")
-  - [日産プリンス山形販売](https://ja.wikipedia.org/wiki/日産プリンス山形販売 "wikilink")
+  - [山形日産自動車販売](../Page/山形日産自動車販売.md "wikilink")
+  - [山形日産自動車](../Page/山形日産自動車.md "wikilink")
+  - [日産プリンス山形販売](../Page/日産プリンス山形販売.md "wikilink")
 
 **福島県**
 
@@ -69,7 +69,7 @@
 
 **群馬県**
 
-  - [群馬日産自動車](https://ja.wikipedia.org/wiki/群馬日産自動車 "wikilink")
+  - [群馬日産自動車](../Page/群馬日産自動車.md "wikilink")
 
 **埼玉県**
 
@@ -168,14 +168,14 @@
 
 **兵庫県**
 
-  - [兵庫日産自動車](https://ja.wikipedia.org/wiki/兵庫日産自動車 "wikilink")
-  - [日産プリンス兵庫販売](https://ja.wikipedia.org/wiki/日産プリンス兵庫販売 "wikilink")
+  - [兵庫日産自動車](../Page/兵庫日産自動車.md "wikilink")
+  - [日産プリンス兵庫販売](../Page/日産プリンス兵庫販売.md "wikilink")
   - [日産プリンス大阪販売](https://ja.wikipedia.org/wiki/日産プリンス大阪販売 "wikilink")
 
 **奈良県**
 
   - [奈良日産自動車](../Page/奈良日産自動車.md "wikilink")
-  - [日産サティオ奈良](https://ja.wikipedia.org/wiki/日産サティオ奈良 "wikilink")
+  - [日産サティオ奈良](../Page/日産サティオ奈良.md "wikilink")
 
 **和歌山県**
 
@@ -212,7 +212,7 @@
 
 **香川県**
 
-  - [香川日産自動車](https://ja.wikipedia.org/wiki/香川日産自動車 "wikilink")
+  - [香川日産自動車](../Page/香川日産自動車.md "wikilink")
 
 **愛媛県**
 
@@ -236,7 +236,7 @@
 **長崎県**
 
   - [長崎日産自動車](../Page/長崎日産自動車.md "wikilink")
-  - [日産プリンス長崎販売](https://ja.wikipedia.org/wiki/日産プリンス長崎販売 "wikilink")
+  - [日産プリンス長崎販売](../Page/日産プリンス長崎販売.md "wikilink")
 
 **熊本県**
 
@@ -250,15 +250,15 @@
 **宮崎県**
 
   - [宮崎日産自動車](../Page/宮崎日産自動車.md "wikilink")
-  - [日産サティオ宮崎](https://ja.wikipedia.org/wiki/日産サティオ宮崎 "wikilink")
+  - [日産サティオ宮崎](../Page/日産サティオ宮崎.md "wikilink")
 
 **鹿児島県**
 
-  - [鹿児島日産自動車](https://ja.wikipedia.org/wiki/鹿児島日産自動車 "wikilink")
+  - [鹿児島日産自動車](../Page/鹿児島日産自動車.md "wikilink")
 
 **沖縄県**
 
-  - [琉球日産自動車](https://ja.wikipedia.org/wiki/琉球日産自動車 "wikilink")
+  - [琉球日産自動車](../Page/琉球日産自動車.md "wikilink")
   - [日産サティオ沖縄](https://ja.wikipedia.org/wiki/日産サティオ沖縄 "wikilink")
 
 [Category:日産自動車のディーラー](https://ja.wikipedia.org/wiki/Category:日産自動車のディーラー "wikilink") [Category:日本企業の一覧](https://ja.wikipedia.org/wiki/Category:日本企業の一覧 "wikilink")

@@ -42,7 +42,7 @@
 
   - [Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink") (\#2、原曲)
   - [DIABOLOS](../Page/DIABOLOS.md "wikilink") (\#1)
-  - [0079-0088](https://ja.wikipedia.org/wiki/0079-0088 "wikilink") (\#1)
+  - [0079-0088](../Page/0079-0088.md "wikilink") (\#1)
   - [THE ELEVENTH DAY 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/THE_ELEVENTH_DAY_〜SINGLE_COLLECTION〜 "wikilink") (\#1)
 
 [Category:GACKTの楽曲](https://ja.wikipedia.org/wiki/Category:GACKTの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:GACKTが制作した楽曲](https://ja.wikipedia.org/wiki/Category:GACKTが制作した楽曲 "wikilink") [Category:日本クラウンのシングル](https://ja.wikipedia.org/wiki/Category:日本クラウンのシングル "wikilink") [Category:ガンダムシリーズのアニメソング](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのアニメソング "wikilink") [Category:楽曲_め](https://ja.wikipedia.org/wiki/Category:楽曲_め "wikilink")

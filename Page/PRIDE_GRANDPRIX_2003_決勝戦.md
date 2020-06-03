@@ -11,7 +11,7 @@
 
 メインイベントのグランプリ決勝ではジャクソンとシウバが対戦。シウバが膝蹴りの連打でTKO勝ちを収めグランプリ優勝を果たした。
 
-そのほか、PRIDE統括本部長[高田延彦](../Page/高田延彦.md "wikilink")がリング上で師・[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")との決別を宣言するとともに、共催関係にあった[INOKI BOM-BA-YEから離脱し](../Page/INOKI_BOM-BA-YE.md "wikilink")、PRIDE独自の大晦日興行（[PRIDE SPECIAL 男祭り 2003](https://ja.wikipedia.org/wiki/PRIDE_SPECIAL_男祭り_2003 "wikilink")）の開催を発表した。これにより、[INOKI BOM-BA-YE 2003](https://ja.wikipedia.org/wiki/INOKI_BOM-BA-YE_2003 "wikilink")、[K-1 PREMIUM 2003 Dynamite\!\!と並んで三つ巴の興行戦争へと発展した](https://ja.wikipedia.org/wiki/K-1_PREMIUM_2003_Dynamite!! "wikilink")。
+そのほか、PRIDE統括本部長[高田延彦](../Page/高田延彦.md "wikilink")がリング上で師・[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")との決別を宣言するとともに、共催関係にあった[INOKI BOM-BA-YEから離脱し](../Page/INOKI_BOM-BA-YE.md "wikilink")、PRIDE独自の大晦日興行（[PRIDE SPECIAL 男祭り 2003](../Page/PRIDE_SPECIAL_男祭り_2003.md "wikilink")）の開催を発表した。これにより、[INOKI BOM-BA-YE 2003](../Page/INOKI_BOM-BA-YE_2003.md "wikilink")、[K-1 PREMIUM 2003 Dynamite\!\!と並んで三つ巴の興行戦争へと発展した](../Page/K-1_PREMIUM_2003_Dynamite!!.md "wikilink")。
 
 ## 試合結果
 

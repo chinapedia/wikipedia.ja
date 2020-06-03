@@ -19,7 +19,7 @@
 
 ## 競合製品および市場シェア
 
-商用のERPソフトウェアとしては、SAPの[SAP R/3や](https://ja.wikipedia.org/wiki/SAP_R/3 "wikilink")[SAP S/4HANAを始め](https://ja.wikipedia.org/wiki/SAP_S/4HANA "wikilink")、[オラクル社の](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")[E-Business Suiteなどの大手企業向けソフトウェアが提供されており](https://ja.wikipedia.org/wiki/E-Business_Suite "wikilink")、SAP製品群が過半数のシェアを握っている。一方、中堅・中小企業向けでは、昨今ではERPソフトウェアが各社より活発にリリースされており、同市場は拡大と激しい競争の時期を迎えている。このため、SAP社はR/3やS/4HANAのような大企業向けだけでなく、中堅・中小企業向けのSAP Business Oneに加えて、クラウドネイティブERPの「[SAP Business ByDesign](https://ja.wikipedia.org/wiki/SAP_Business_ByDesign "wikilink")」を提供している
+商用のERPソフトウェアとしては、SAPの[SAP R/3や](https://ja.wikipedia.org/wiki/SAP_R/3 "wikilink")[SAP S/4HANAを始め](https://ja.wikipedia.org/wiki/SAP_S/4HANA "wikilink")、[オラクル社の](../Page/オラクル_\(企業\).md "wikilink")[E-Business Suiteなどの大手企業向けソフトウェアが提供されており](https://ja.wikipedia.org/wiki/E-Business_Suite "wikilink")、SAP製品群が過半数のシェアを握っている。一方、中堅・中小企業向けでは、昨今ではERPソフトウェアが各社より活発にリリースされており、同市場は拡大と激しい競争の時期を迎えている。このため、SAP社はR/3やS/4HANAのような大企業向けだけでなく、中堅・中小企業向けのSAP Business Oneに加えて、クラウドネイティブERPの「[SAP Business ByDesign](https://ja.wikipedia.org/wiki/SAP_Business_ByDesign "wikilink")」を提供している
 
 ## 出典
 

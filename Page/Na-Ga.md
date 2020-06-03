@@ -3,10 +3,6 @@
 
 **Na-Ga**（なが ）は、[ゲーム](../Page/ゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")の[原画](../Page/原画.md "wikilink")家。[Key所属](../Page/Key_\(ゲームブランド\).md "wikilink")。[広島県](../Page/広島県.md "wikilink")生まれ。
 
-## 経歴
-
-とてもいいですねっ！
-
 ## 原画担当作品
 
   - [儚想〜あねもね〜](https://ja.wikipedia.org/wiki/儚想〜あねもね〜 "wikilink")
@@ -15,7 +11,7 @@
   - [クドわふたー](https://ja.wikipedia.org/wiki/クドわふたー "wikilink")
   - [Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")
   - [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")
-  - Summer Pockets
+  - [Summer Pockets](https://ja.wikipedia.org/wiki/Summer_Pockets "wikilink")
 
 ## グラフィック担当作品
 
@@ -39,6 +35,7 @@
   - Angel Beats\!（キャラクター原案）\[1\]
   - [俺の妹がこんなに可愛いわけがない](https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない_\(アニメ\) "wikilink")（第3話 EDイラスト）
   - [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")（キャラクター原案）\[2\]
+  - [神様になった日](https://ja.wikipedia.org/wiki/神様になった日 "wikilink")（キャラクター原案）\[3\]
 
 ## 脚注
 
@@ -51,3 +48,4 @@
 
 1.
 2.
+3.

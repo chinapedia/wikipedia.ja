@@ -15,7 +15,7 @@
       - 作詞：[春和文](https://ja.wikipedia.org/wiki/春和文 "wikilink")／作曲：大西克巳／編曲：前田和彦
       - [パルコ](../Page/パルコ.md "wikilink")「地球がいちばん輝く日。PARCO X'MAS」CMソング\[1\]。
 2.  **Snowflake**
-      - 作詞：H.U.B.／作曲：Chris Garvey、[Joey Carbone](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink")／編曲：前田和彦
+      - 作詞：H.U.B.／作曲：Chris Garvey、[Joey Carbone](../Page/ジョーイ・カーボーン.md "wikilink")／編曲：前田和彦
 3.  **Happy 045 Xmas**
       - 作詞：H.U.B.／作曲・編曲：原田卓也
       - [FM横浜](https://ja.wikipedia.org/wiki/FM横浜 "wikilink")開局20周年アニバーサリー・ソング。2005年12月1日から25日まで配信のみで期間限定リリース。「045」は[横浜の市外局番](../Page/横浜市.md "wikilink")\[2\]。地元への感情がローカル・アンセムとなっている\[3\]。

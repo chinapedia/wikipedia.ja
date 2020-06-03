@@ -213,7 +213,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/スタッド・ド・フランス.md" title="wikilink">スタッド・ド・フランス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・ヴェロドローム" title="wikilink">スタッド・ヴェロドローム</a></p></td>
+<td><p><a href="../Page/スタッド・ヴェロドローム.md" title="wikilink">スタッド・ヴェロドローム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パルク・オリンピック・リヨン" title="wikilink">パルク・オリンピック・リヨン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スタッド・ピエール＝モーロワ" title="wikilink">スタッド・ピエール＝モーロワ</a></p></td>
 </tr>
@@ -292,7 +292,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スタッド・ジェフロワ＝ギシャール" title="wikilink">スタッド・ジェフロワ＝ギシャール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アリアンツ・リヴィエラ" title="wikilink">スタッド・ド・ニース</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・フェリックス・ボラール" title="wikilink">スタッド・ボラール＝デレリス</a></p></td>
+<td><p><a href="../Page/スタッド・フェリックス・ボラール.md" title="wikilink">スタッド・ボラール＝デレリス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スタジアム_(トゥールーズ)" title="wikilink">スタジアム・ミュニシパル</a></p></td>
 </tr>
 <tr class="even">

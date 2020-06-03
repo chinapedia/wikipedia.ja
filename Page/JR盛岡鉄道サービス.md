@@ -77,4 +77,4 @@
 
 [Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:盛岡市の企業](https://ja.wikipedia.org/wiki/Category:盛岡市の企業 "wikilink") [Category:建築物管理業](https://ja.wikipedia.org/wiki/Category:建築物管理業 "wikilink") [Category:1960年設立の企業](https://ja.wikipedia.org/wiki/Category:1960年設立の企業 "wikilink") [Category:日本のメンテナンスに関する企業](https://ja.wikipedia.org/wiki/Category:日本のメンテナンスに関する企業 "wikilink")
 
-1.  以前は[ジェイアールテクノサービス仙台](https://ja.wikipedia.org/wiki/ジェイアールテクノサービス仙台 "wikilink")・[ジャスター](../Page/ジャスター.md "wikilink")・[秋田クリーンサービス株式会社](https://ja.wikipedia.org/wiki/JR秋田鉄道サービス "wikilink")・[新潟鉄道整備](https://ja.wikipedia.org/wiki/新潟鉄道整備 "wikilink")・[東北交通機械](https://ja.wikipedia.org/wiki/東北交通機械 "wikilink")・[長野鉄道車輛整備](https://ja.wikipedia.org/wiki/長野鉄道車輛整備 "wikilink")等のグループ会社も株式を保有していた
+1.  以前は[ジェイアールテクノサービス仙台](https://ja.wikipedia.org/wiki/ジェイアールテクノサービス仙台 "wikilink")・[ジャスター](../Page/ジャスター.md "wikilink")・[秋田クリーンサービス株式会社](https://ja.wikipedia.org/wiki/JR秋田鉄道サービス "wikilink")・[新潟鉄道整備](https://ja.wikipedia.org/wiki/新潟鉄道整備 "wikilink")・[東北交通機械](../Page/東北交通機械.md "wikilink")・[長野鉄道車輛整備](https://ja.wikipedia.org/wiki/長野鉄道車輛整備 "wikilink")等のグループ会社も株式を保有していた

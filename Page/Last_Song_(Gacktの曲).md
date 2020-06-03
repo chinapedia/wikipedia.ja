@@ -36,4 +36,4 @@
 
 [Category:GACKTの楽曲](https://ja.wikipedia.org/wiki/Category:GACKTの楽曲 "wikilink") [Category:2003年のシングル](https://ja.wikipedia.org/wiki/Category:2003年のシングル "wikilink") [Category:GACKTが制作した楽曲](https://ja.wikipedia.org/wiki/Category:GACKTが制作した楽曲 "wikilink") [Category:日本クラウンのシングル](https://ja.wikipedia.org/wiki/Category:日本クラウンのシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
-1.  他にシングルバージョンをライブで演奏していない曲は、8thシングル「[君のためにできること](https://ja.wikipedia.org/wiki/君のためにできること_\(GACKTの曲\) "wikilink")」、11thシングル「[忘れないから](https://ja.wikipedia.org/wiki/忘れないから "wikilink")」、28thシングル「[Jesus](https://ja.wikipedia.org/wiki/Jesus "wikilink")」などがある。
+1.  他にシングルバージョンをライブで演奏していない曲は、8thシングル「[君のためにできること](https://ja.wikipedia.org/wiki/君のためにできること_\(GACKTの曲\) "wikilink")」、11thシングル「[忘れないから](../Page/忘れないから.md "wikilink")」、28thシングル「[Jesus](https://ja.wikipedia.org/wiki/Jesus "wikilink")」などがある。

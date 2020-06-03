@@ -46,7 +46,7 @@
 
   - 中山美穂『**COLLECTION**』シリーズ
       - [COLLECTION](../Page/COLLECTION.md "wikilink")（1987年）
-      - [COLLECTION III](https://ja.wikipedia.org/wiki/COLLECTION_III "wikilink")（1995年）
-      - [COLLECTION IV](https://ja.wikipedia.org/wiki/COLLECTION_IV "wikilink")（2006年）
+      - [COLLECTION III](../Page/COLLECTION_III.md "wikilink")（1995年）
+      - [COLLECTION IV](../Page/COLLECTION_IV.md "wikilink")（2006年）
 
 [Category:中山美穂のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:中山美穂のベスト・アルバム "wikilink") [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink")

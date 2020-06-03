@@ -119,7 +119,7 @@
 
   - [マーク・エドワージー](../Page/マーク・エドワージー.md "wikilink") 2009
 
-  - [デヴィッド・グレイ](https://ja.wikipedia.org/wiki/デヴィッド・グレイ_\(サッカー選手\) "wikilink") 2014
+  - [デヴィッド・グレイ](../Page/デヴィッド・グレイ_\(サッカー選手\).md "wikilink") 2014
 
   - [ジャクソン・アーバイン](https://ja.wikipedia.org/wiki/ジャクソン・アーバイン "wikilink") 2016-2017
 

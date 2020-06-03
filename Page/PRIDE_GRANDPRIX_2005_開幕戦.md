@@ -41,7 +41,7 @@
     ※桜庭が2回戦進出。
   - 第7試合 PRIDE GRANDPRIX 2005 1回戦 1R10分、2・3R5分
     ○  [マウリシオ・ショーグン](../Page/マウリシオ・ショーグン.md "wikilink") vs.  [クイントン・"ランペイジ"・ジャクソン](../Page/クイントン・ジャクソン.md "wikilink") ×
-    1R 4:47 TKO（レフェリーストップ：[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")）
+    1R 4:47 TKO（レフェリーストップ：[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")）
     ※ショーグンが2回戦進出。
   - 第8試合 PRIDE GRANDPRIX 2005 1回戦 1R10分、2・3R5分
     ○  [ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink") vs.  [吉田秀彦](../Page/吉田秀彦.md "wikilink") ×

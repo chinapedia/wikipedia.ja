@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **[BELIEVE IN LOVE](https://ja.wikipedia.org/wiki/BELIEVE_IN_LOVE "wikilink")**
-    \*作詞: [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")、作曲: [川添智久](../Page/川添智久.md "wikilink")
+    \*作詞: [渡瀬マキ](../Page/渡瀬マキ.md "wikilink")、作曲: [川添智久](../Page/川添智久.md "wikilink")
       -
         8枚目のシングル曲であり、フジテレビ「[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")」オープニング曲、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")英智外野手の登場テーマ曲。このアルバム発売後にシングルカットされた。
 2.  **NOBODY KNOWS**

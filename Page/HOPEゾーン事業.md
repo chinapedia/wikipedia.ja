@@ -65,6 +65,6 @@ HOPEゾーン事業の更なる展開が検討されている。
   - [平野郷HOPEゾーン協議会](http://www.oct.zaq.ne.jp/hiranohope/)
 
   -
-  - [からほり街並井戸端会（HOPEゾーン空堀地区）](http://karahori.hp.infoseek.co.jp/)
+  - [からほり街並井戸端会（HOPEゾーン空堀地区）](https://web.archive.org/20080509021830/http://karahori.hp.infoseek.co.jp/)
 
 [Category:日本の都市計画事業](https://ja.wikipedia.org/wiki/Category:日本の都市計画事業 "wikilink") [Category:大阪市](https://ja.wikipedia.org/wiki/Category:大阪市 "wikilink")

@@ -571,7 +571,7 @@
 
   - [Kiss on Line：インタビュー](http://www.kisscomic.com/interview/0412_rokuhana_chiyo/index.html)
 
-  - [IS〈アイエス〉〜男でも女でもない性〜 - テレビ東京](http://www.tv-tokyo.co.jp/is/)
+  - [IS〈アイエス〉〜男でも女でもない性〜 - テレビ東京](https://www.tv-tokyo.co.jp/is/)
 
   -
 [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:Kiss](https://ja.wikipedia.org/wiki/Category:Kiss "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:トランスジェンダー・トランスセクシュアル関連マンガ・アニメ](https://ja.wikipedia.org/wiki/Category:トランスジェンダー・トランスセクシュアル関連マンガ・アニメ "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:半陰陽](https://ja.wikipedia.org/wiki/Category:半陰陽 "wikilink") [Category:講談社漫画賞少女部門](https://ja.wikipedia.org/wiki/Category:講談社漫画賞少女部門 "wikilink") [Category:テレビ東京月曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京月曜10時枠の連続ドラマ "wikilink") [Category:2011年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2011年のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:LGBT関連ドラマ](https://ja.wikipedia.org/wiki/Category:LGBT関連ドラマ "wikilink") [Category:剛力彩芽](https://ja.wikipedia.org/wiki/Category:剛力彩芽 "wikilink") [Category:両性具有を題材とした作品](https://ja.wikipedia.org/wiki/Category:両性具有を題材とした作品 "wikilink")

@@ -23,7 +23,7 @@ PRIDE最後の大晦日興行。
 
   - 第1試合 ミドル級ワンマッチ 1R10分、2・3R5分
     ○  [田村潔司](../Page/田村潔司.md "wikilink") vs.  [ミノワマン](../Page/ミノワマン.md "wikilink") ×
-    1R 1:18 KO（[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")）
+    1R 1:18 KO（[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")）
   - 第2試合 ライト級ワンマッチ 1R10分、2R5分
     ○  [青木真也](../Page/青木真也.md "wikilink") vs.  [ヨアキム・ハンセン](../Page/ヨアキム・ハンセン.md "wikilink") ×
     1R 2:04 [トライアングルチョーク](../Page/三角絞め.md "wikilink")

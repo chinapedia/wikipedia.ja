@@ -26,7 +26,7 @@
         [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が[2016年](../Page/2016年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")に発売したオリジナルアルバム『[M(A)DE IN JAPAN](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")』を引っ提げ行ったアルバムツアー『[ayumi hamasaki ARENA TOUR 2016 A 〜M(A)DE IN JAPAN〜](https://ja.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2016_A_〜M\(A\)DE_IN_JAPAN〜 "wikilink")』では、サプライズとして[トレンディエンジェル](https://ja.wikipedia.org/wiki/トレンディエンジェル "wikilink")がカバー\[1\]。途中から、GACKT本人もサプライズで出演し、本楽曲を歌った。
 2.  **Fragrance** (4:43)
       -
-        音楽番組[FUN](../Page/FUN.md "wikilink")に初めて出演した時は、この曲と11thシングル「[忘れないから](https://ja.wikipedia.org/wiki/忘れないから "wikilink")」の2曲を披露した。
+        音楽番組[FUN](../Page/FUN.md "wikilink")に初めて出演した時は、この曲と11thシングル「[忘れないから](../Page/忘れないから.md "wikilink")」の2曲を披露した。
         ライブでは、間奏の部分で、Gacktの語りが挿入されたバージョンで演奏されている。
         2006年に行ったファンクラブ限定ツアー『GACKT TRAINING DAYS D.R.U.G. PARTY』で、久し振りに演奏された。
 3.  ANOTHER WORLD（Instrumental）

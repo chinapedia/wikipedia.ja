@@ -35,6 +35,6 @@
         前作「[ロデオ・タンデム・ビート・スペクター](../Page/ロデオ・タンデム・ビート・スペクター.md "wikilink")」の発売日に[代々木公園](../Page/代々木公園.md "wikilink")で行われたフリーライブ「TMGE YOYOGI RIOT」で既に披露されていた曲であり、この時は歌詞がワンフレーズしか存在していなかった。
 10. **NIGHT IS OVER**
       -
-        インスト曲。曲中でピアノを演奏しているのはチバである。15thシングル「[Girl Friend](https://ja.wikipedia.org/wiki/Girl_Friend_\(thee_michelle_gun_elephantの曲\) "wikilink")」の原曲。
+        インスト曲。曲中でピアノを演奏しているのはチバである。15thシングル「[Girl Friend](../Page/Girl_Friend_\(thee_michelle_gun_elephantの曲\).md "wikilink")」の原曲。
 
 [Category:Thee_michelle_gun_elephantのアルバム](https://ja.wikipedia.org/wiki/Category:Thee_michelle_gun_elephantのアルバム "wikilink") [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink")

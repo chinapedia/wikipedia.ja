@@ -487,7 +487,7 @@ BoA THE LIVE 2006“20th Birthday”
 
   - 最終日に「たくさん色んな曲をやったけど、聴き残した曲は？」と会場に問いかけ、リクエストから「コノヨノシルシ」をアカペラで披露した。
 
-### BoA LIVE TOUR 2019 - \#mood in SOULE (2019年)
+### BoA LIVE TOUR 2019 - \#mood in SEOUL (2019年)
 
 #### 日程・開催地
 

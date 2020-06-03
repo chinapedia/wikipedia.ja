@@ -51,7 +51,7 @@
 
 しかし予定建造費用は高騰を続けており、地上基地から発進する爆撃機のほうが[コストパフォーマンス](https://ja.wikipedia.org/wiki/コストパフォーマンス "wikilink")に優れると考えられたこともあって、設計完了から1ヶ月も経たない2月22日に発表された[1966年度国防白書](https://ja.wikipedia.org/wiki/1966年度国防白書 "wikilink")で、本級の計画はキャンセルされた。この国防白書では、本級や[BAC TSR-2爆撃機の計画中止の代替として](../Page/BAC_TSR-2.md "wikilink")、アメリカ製の[F-111K](../Page/F-111_\(航空機\).md "wikilink")[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")の導入が盛り込まれたものの、これを運用するための地上基地も削減されており、しかも後に導入自体も撤回された。
 
-本級の計画中止によって、海軍は、将来的に空母を手放さざるを得ない事態に直面した。この事態を受けて、艦隊空母を補完する[ヘリ空母](../Page/ヘリ空母.md "wikilink")として開発されていた護衛巡洋艦の機能充実が図られることになり、最終的に、[垂直/短距離離着陸機](https://ja.wikipedia.org/wiki/垂直/短距離離着陸機 "wikilink")である[シーハリアー](https://ja.wikipedia.org/wiki/BAe_シーハリアー "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")の運用に対応した[インヴィンシブル級として結実した](../Page/インヴィンシブル級航空母艦.md "wikilink")。またその後継として建造された[クイーン・エリザベス級は](../Page/クイーン・エリザベス級航空母艦.md "wikilink")、全長・満載排水量ともに本級を上回る大型艦ながらも、[STOVL方式を採用し](https://ja.wikipedia.org/wiki/航空機の離着陸方法#STOVL "wikilink")、艦上戦闘機としては[F-35Bを搭載することになっている](../Page/F-35_\(戦闘機\).md "wikilink")。
+本級の計画中止によって、海軍は、将来的に空母を手放さざるを得ない事態に直面した。この事態を受けて、艦隊空母を補完する[ヘリ空母](../Page/ヘリ空母.md "wikilink")として開発されていた護衛巡洋艦の機能充実が図られることになり、最終的に、[垂直/短距離離着陸機](https://ja.wikipedia.org/wiki/垂直/短距離離着陸機 "wikilink")である[シーハリアー](https://ja.wikipedia.org/wiki/BAe_シーハリアー "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")の運用に対応した[インヴィンシブル級として結実した](../Page/インヴィンシブル級航空母艦.md "wikilink")。またその後継として2隻建造された[クイーン・エリザベス級は](../Page/クイーン・エリザベス級航空母艦.md "wikilink")、全長・満載排水量ともに本級を上回る大型艦ながらも、[STOVL方式を採用し](https://ja.wikipedia.org/wiki/航空機の離着陸方法#STOVL "wikilink")、艦上戦闘機としては[F-35Bを搭載することになっている](../Page/F-35_\(戦闘機\).md "wikilink")。
 
 ## 脚注
 

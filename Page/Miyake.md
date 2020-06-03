@@ -15,7 +15,7 @@
 
 [2006年](../Page/2006年.md "wikilink")11月に2歳年上の女性と結婚し、翌年の春に挙式を行う\[1\]。
 
-[mihimaru GTではMC](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、作詞、作曲および編曲を担当した。
+[mihimaru GTではMC](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、ラップ、作詞、作曲および編曲を担当した。
 
 2010年12月8日、miCKun（みっくん）名義でソロデビュー。
 

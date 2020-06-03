@@ -17,7 +17,7 @@ OSGi の仕様はメンバーによりオープンな形で開発され、[OSGi 
 
 OSGi Alliance は1999年3月、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[エリクソン](../Page/エリクソン.md "wikilink")などにより設立された（それ以前に母体となった Connected Alliance という提携関係が存在した）。
 
-2006年現在、25社以上が様々な業種から参加している（IBM、Bosh Software、[ドイツテレコム](../Page/ドイツテレコム.md "wikilink")、[NTT](../Page/日本電信電話.md "wikilink")、[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、[レッドハット](../Page/レッドハット.md "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、 Adobe、[Huawei](https://ja.wikipedia.org/wiki/Huawei "wikilink")など）。
+2006年現在、25社以上が様々な業種から参加している（IBM、Bosh Software、[ドイツテレコム](../Page/ドイツテレコム.md "wikilink")、[NTT](../Page/日本電信電話.md "wikilink")、[オラクル](../Page/オラクル_\(企業\).md "wikilink")、[レッドハット](../Page/レッドハット.md "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、 Adobe、[Huawei](https://ja.wikipedia.org/wiki/Huawei "wikilink")など）。
 
 各分野に委員会を設置しており、それぞれの分野の役員が選出されている。商業化に関しては別に委員会を設けており、それとは別に仕様策定は専門グループが行っている。
 

@@ -1,7 +1,7 @@
 > この記事は[MELODY \(福山雅治の曲\)](https://ja.wikipedia.org/wiki/MELODY_\(福山雅治の曲\))から翻訳されています。
 
 
-『**MELODY**』（メロディ）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に発売された。発売元は[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[Ariola Japan](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）
+『**MELODY**』（メロディ）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に発売された。発売元は[BMGビクター](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（現・[Ariola Japan](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）
 
 ## 解説
 
@@ -31,7 +31,7 @@
 
 **MELODY**
 
-  - [Drums](../Page/ドラムセット.md "wikilink"):[NORIYASU KAWAMURA](https://ja.wikipedia.org/wiki/河村智康 "wikilink")
+  - [Drums](../Page/ドラムセット.md "wikilink"):[NORIYASU KAWAMURA](../Page/河村智康.md "wikilink")
   - [Bass](../Page/ベース_\(弦楽器\).md "wikilink"):SHUNSUKE TSUNODA
   - [Guitar](../Page/ギター.md "wikilink"):SUSUMU OSADA
   - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink"):[YOSHINOBU KOJIMA](../Page/小島良喜.md "wikilink")

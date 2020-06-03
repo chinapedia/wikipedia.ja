@@ -65,14 +65,14 @@ OpenTP1で使用するプログラム（UAP）は[C言語](../Page/C言語.md "w
       -
         [メッセージキューイング](https://ja.wikipedia.org/wiki/メッセージキューイング "wikilink")機能を制御する製品。対象はIBM　MQである
   - uCosminexusTP1/Extensionfor.NET Framework　サーバプログラムを.NET Framework上で動作させることができる製品
-  - uCosminexusTP1Connector TP1/Client/Jおよび[Cosminexus](https://ja.wikipedia.org/wiki/Cosminexus "wikilink")と連携して動作するリソースアダプタ
+  - uCosminexusTP1Connector TP1/Client/Jおよび[Cosminexus](../Page/Cosminexus.md "wikilink")と連携して動作するリソースアダプタ
 
 ## 関連項目
 
   - *日立オープンミドルウェアシリーズ*
       -
         [JP1](../Page/JP1.md "wikilink")：統合システム運用管理
-        [Cosminexus](https://ja.wikipedia.org/wiki/Cosminexus "wikilink")：統合システム構築基盤
+        [Cosminexus](../Page/Cosminexus.md "wikilink")：統合システム構築基盤
         [HiRDB](../Page/HiRDB.md "wikilink")：スケーラブルデータベース
         [SEWB3](https://ja.wikipedia.org/wiki/SEWB3 "wikilink")：ソフトウェアエンジニアリングワークベンチ
         [COBOL85](https://ja.wikipedia.org/wiki/COBOL85 "wikilink")：ビジネスアプリケーション環境開発

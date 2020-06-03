@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-※全作詞：[吉沢久美子](https://ja.wikipedia.org/wiki/吉沢久美子 "wikilink")、全作曲：[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")
+※全作詞：[吉沢久美子](https://ja.wikipedia.org/wiki/吉沢久美子 "wikilink")、全作曲：[梅垣達志](../Page/梅垣達志.md "wikilink")
 
 1.  **Believe In You (2003 Strings Version)**
       -

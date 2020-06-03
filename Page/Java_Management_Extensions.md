@@ -5,7 +5,7 @@
 
 JMX 1.0、1.1、1.2 は [Java Community Process](../Page/Java_Community_Process.md "wikilink") の [JSR](../Page/Java_Community_Process.md "wikilink") [3](http://www.jcp.org/en/jsr/detail?id=3) で定義された。JMX 2.0 が JSR [255](http://www.jcp.org/en/jsr/detail?id=255) として開発されてきたが、2016年で中止された\[1\]。遠隔管理・監視のための JMX Remote API 1.0 は JSR [160](http://www.jcp.org/en/jsr/detail?id=160) で規定された。Webサービスのための JMX Remote API 拡張は JSR [262](http://www.jcp.org/en/jsr/detail?id=262) で開発中である。
 
-当初、[J2EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") に受け入れられたが、JMX は [Java SE](../Page/Java_Platform,_Standard_Edition.md "wikilink") のバージョン5.0以降にも組み込まれている。なお「JMX」 は[オラクルの商標である](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")。
+当初、[J2EE](../Page/Java_Platform,_Enterprise_Edition.md "wikilink") に受け入れられたが、JMX は [Java SE](../Page/Java_Platform,_Standard_Edition.md "wikilink") のバージョン5.0以降にも組み込まれている。なお「JMX」 は[オラクルの商標である](../Page/オラクル_\(企業\).md "wikilink")。
 
 ## Managed Bean
 

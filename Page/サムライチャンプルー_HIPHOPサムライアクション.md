@@ -39,7 +39,7 @@
   - 大鬼：[石井康嗣](../Page/石井康嗣.md "wikilink")
   - 白水鬼：[最上嗣生](../Page/最上嗣生.md "wikilink")
   - 黒土鬼：[岸祐二](../Page/岸祐二.md "wikilink")
-  - 碧木鬼：[彩乃木崇之](https://ja.wikipedia.org/wiki/彩乃木崇之 "wikilink")
+  - 碧木鬼：[彩乃木崇之](../Page/彩乃木崇之.md "wikilink")
   - 緑木鬼：[風間勇刀](../Page/風間勇刀.md "wikilink")
   - 白金鬼：[室園丈裕](../Page/室園丈裕.md "wikilink")
   - 赤金鬼：[坂口候一](../Page/坂口候一.md "wikilink")

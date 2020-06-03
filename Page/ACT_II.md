@@ -24,7 +24,7 @@
         作曲・作詞：[HIKARI](../Page/HIKARI.md "wikilink")、編曲：HIKARI・[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")
 2.  **WATER LIGHT**
       -
-        作詞・作曲：[久保田光太郎](https://ja.wikipedia.org/wiki/久保田光太郎 "wikilink")、編曲：久保田光太郎・KAM
+        作詞・作曲：[久保田光太郎](../Page/久保田光太郎.md "wikilink")、編曲：久保田光太郎・KAM
 3.  **VALE-TUDO**
       -
         作詞：[城島茂](../Page/城島茂.md "wikilink")、作曲：[国分太一](../Page/国分太一.md "wikilink")、編曲：国分太一・KAM

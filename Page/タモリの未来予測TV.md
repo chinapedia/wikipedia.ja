@@ -155,6 +155,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:フジテレビの教養番組](https://ja.wikipedia.org/wiki/Category:フジテレビの教養番組 "wikilink") [Category:バラパラ](https://ja.wikipedia.org/wiki/Category:バラパラ "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:タモリ](https://ja.wikipedia.org/wiki/Category:タモリ "wikilink") [Category:稲垣吾郎](https://ja.wikipedia.org/wiki/Category:稲垣吾郎 "wikilink")

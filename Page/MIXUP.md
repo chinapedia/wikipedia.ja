@@ -41,7 +41,7 @@
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")
 

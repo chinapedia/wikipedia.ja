@@ -23,8 +23,8 @@
   - [ダイレクト・レンダリング・インフラストラクチャ](https://ja.wikipedia.org/wiki/ダイレクト・レンダリング・インフラストラクチャ "wikilink") (DRI): Xサーバを経由しないでユーザーアプリケーションがグラフィックハードウェアにアクセスするためのインタフェース
   - [GStreamer](../Page/GStreamer.md "wikilink"): クロスプラットフォームマルチメディアフレームワーク
   - [Mesa 3D](../Page/Mesa_3D.md "wikilink"): [OpenGL](../Page/OpenGL.md "wikilink")実装の1つ
-  - [XCB](../Page/XCB.md "wikilink"): [Xlib](https://ja.wikipedia.org/wiki/Xlib "wikilink")の新たな実装
-  - [GTK-Qt](https://ja.wikipedia.org/wiki/GTK-Qt "wikilink")エンジン: [Qt](../Page/Qt.md "wikilink")を使って[ウィジェットを描画するGTK](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")+ 2エンジン。GTK+ 2アプリケーションの[ルック・アンド・フィールをKDEと同じにする](https://ja.wikipedia.org/wiki/Look_and_feel "wikilink")。
+  - [XCB](../Page/XCB.md "wikilink"): [Xlib](../Page/Xlib.md "wikilink")の新たな実装
+  - [GTK-Qt](https://ja.wikipedia.org/wiki/GTK-Qt "wikilink")エンジン: [Qt](../Page/Qt.md "wikilink")を使って[ウィジェットを描画するGTK](../Page/ウィジェット_\(GUI\).md "wikilink")+ 2エンジン。GTK+ 2アプリケーションの[ルック・アンド・フィールをKDEと同じにする](https://ja.wikipedia.org/wiki/Look_and_feel "wikilink")。
   - [Poppler](https://ja.wikipedia.org/wiki/Poppler "wikilink"): PDFレンダリングライブラリ
   - [Wayland](https://ja.wikipedia.org/wiki/Wayland "wikilink"): Linuxデスクトップのための、完璧なGUI体験（テアリング、ラグ、再描画、フリッカーをユーザーは決して目にしない）を提供することを目的とした軽量ディスプレイサーバー
   - [Avahi](../Page/Avahi.md "wikilink"): フリーな[Zeroconf](https://ja.wikipedia.org/wiki/Zeroconf "wikilink")実装。ただし、現在はfreedesktop.org傘下ではない。

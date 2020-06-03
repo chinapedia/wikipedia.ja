@@ -21,7 +21,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月 - グループ企業のピーシーアイが[サーブの輸入権を獲得し](https://ja.wikipedia.org/wiki/サーブ・オートモービル "wikilink")、同年9月より輸入開始\[10\]。
   - [2012年](../Page/2012年.md "wikilink")4月 - 株式会社日産サティオ埼玉を子会社化\[11\]。
       - 12月 - 子会社の株式会社VTキャピタルを吸収合併\[12\]。
-  - [2014年](../Page/2014年.md "wikilink")4月 - [日産ネットワークホールディングス](https://ja.wikipedia.org/wiki/日産ネットワークホールディングス "wikilink")株式会社より株式会社[日産サティオ奈良](https://ja.wikipedia.org/wiki/日産サティオ奈良 "wikilink")の全株式を取得し、子会社化\[13\]
+  - [2014年](../Page/2014年.md "wikilink")4月 - [日産ネットワークホールディングス](https://ja.wikipedia.org/wiki/日産ネットワークホールディングス "wikilink")株式会社より株式会社[日産サティオ奈良](../Page/日産サティオ奈良.md "wikilink")の全株式を取得し、子会社化\[13\]
       - 8月- 株式会社[エムジーホーム](https://ja.wikipedia.org/wiki/エムジーホーム "wikilink")の第三者割当増資を引き受け、さらに完全子会社である株式会社アーキッシュギャラリーと株式会社エムジーホームの[株式交換](../Page/株式交換.md "wikilink")を行い、株式会社エムジーホームを[連結子会社](../Page/連結子会社.md "wikilink")化\[14\]。
   - [2015年](../Page/2015年.md "wikilink")5月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")1部および名古屋証券取引所1部に市場変更\[15\]。
   - [2016年](../Page/2016年.md "wikilink")4月 - 三盛自動車販売の全事業を譲受\[16\]。受け皿子会社として「モトーレン静岡」を設立。
@@ -47,7 +47,7 @@
 <!-- end list -->
 
   - 株式会社日産サティオ埼玉\[23\]
-  - 株式会社[日産サティオ奈良](https://ja.wikipedia.org/wiki/日産サティオ奈良 "wikilink")\[24\]
+  - 株式会社[日産サティオ奈良](../Page/日産サティオ奈良.md "wikilink")\[24\]
   - [エフエルシー株式会社](https://ja.wikipedia.org/wiki/エフエルシー株式会社#%E5%8F%96%E6%89%B1%E3%81%84%E8%BB%8A%E7%A8%AE%E4%B8%80%E8%A6%A7 "wikilink")\[25\]（[旧フォードライフ中部](https://ja.wikipedia.org/wiki/旧フォードライフ中部 "wikilink")）
   - [エルシーアイ](../Page/エルシーアイ.md "wikilink")株式会社\[26\]（[オートトレーディングルフトジャパン](../Page/オートトレーディングルフトジャパン.md "wikilink")から取得）
   - VTインターナショナル株式会社\[27\]

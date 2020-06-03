@@ -123,6 +123,8 @@
 
   - [ベネディクト・ヘーヴェデス](https://ja.wikipedia.org/wiki/ベネディクト・ヘーヴェデス "wikilink")
 
+  - [マタイス・デリフト](https://ja.wikipedia.org/wiki/マタイス・デリフト "wikilink")
+
 ## MF
 
   - [マルコ・タルデッリ](../Page/マルコ・タルデッリ.md "wikilink")

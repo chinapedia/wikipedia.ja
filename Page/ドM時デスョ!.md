@@ -29,7 +29,7 @@
 
 番組の最後では、その週の最優秀生徒をMドルからインリンが1名選出。選ばれたMドルには番組タイトル\[3\]が描かれたステッカーが贈られ、Mドルのセクシーショットがエンディングタイトルとともに流れる。
 
-2007年9月29日の放送で、Mドルの一期生メンバーが卒業するにあたり、**最優秀Mドル**\[4\]が発表された。最優秀Mドルに選ばれた[杉波なつ](../Page/杉波なつ.md "wikilink")には、副賞として金パイ（[乳輪](../Page/乳輪.md "wikilink")を模した金色の[ニップレス](https://ja.wikipedia.org/wiki/ニップレス "wikilink")）とオリジナル[DVD](../Page/DVD.md "wikilink")の制作・販売権が贈られた。
+2007年9月29日の放送で、Mドルの一期生メンバーが卒業するにあたり、**最優秀Mドル**\[4\]が発表された。最優秀Mドルに選ばれた[杉波なつ](../Page/杉波なつ.md "wikilink")には、副賞として金パイ（[乳輪](../Page/乳輪.md "wikilink")を模した金色の[ニプレス](../Page/ニプレス.md "wikilink")）とオリジナル[DVD](../Page/DVD.md "wikilink")の制作・販売権が贈られた。
 
 ### ドM時デスョ\!
 
@@ -47,7 +47,7 @@
 
 ### 司会
 
-  - インリン・オブ・ジョイトイ（塾長）
+  - [インリン・オブ・ジョイトイ](https://ja.wikipedia.org/wiki/インリン・オブ・ジョイトイ "wikilink")（塾長）
   - 藤谷弘光（事務員→補佐・進行）
 
 ### Mドル
@@ -59,7 +59,7 @@
   - [鳴海陽菜](../Page/鳴海陽菜.md "wikilink")
   - [中原郁枝](../Page/中原郁枝.md "wikilink")
   - [奥野マリ](https://ja.wikipedia.org/wiki/奥野麻理 "wikilink")
-  - 杉波なつ
+  - [杉波なつ](../Page/杉波なつ.md "wikilink")
   - [新倉ゆかり](../Page/新倉ゆかり.md "wikilink")
   - 泡瀬夏弥
 
@@ -71,9 +71,9 @@
 <!-- end list -->
 
   - 谷亜寿香 - ドMパープル
-  - 蘭いおり - ドMブルー
-  - 立花マリコ - ドMカーキ
-  - 吉田由香 - ドMピンク
+  - [蘭いおり](../Page/蘭いおり.md "wikilink") - ドMブルー
+  - 立花マリコ- ドMカーキ
+  - [吉田由香](https://ja.wikipedia.org/wiki/吉田由香 "wikilink") - ドMピンク
   - 上咲かな - ドMレッド
   - あずさ - ドMひまわり
 
@@ -104,7 +104,7 @@
   - 上田ゆい（特設美eスタジオ・アシスタント）
   - [AYA](../Page/福永あや.md "wikilink")（SHAKE YOUR HIP\!\!）
   - [YOKO](../Page/YOKO_\(AV女優\).md "wikilink")（SHAKE YOUR HIP\!\!）
-  - [高原このみ](https://ja.wikipedia.org/wiki/高原このみ "wikilink")（SHAKE YOUR HIP\!\!）
+  - 高原このみ（SHAKE YOUR HIP\!\!）
   - [かすみ果穂](../Page/かすみ果穂.md "wikilink")（ラブ・デート）
   - [日高ゆりあ](../Page/日高ゆりあ.md "wikilink")（ラブ・デート）
   - [ほしのみゆ](../Page/ほしのみゆ.md "wikilink")（ラブ・デート）

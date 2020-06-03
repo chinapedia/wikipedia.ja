@@ -39,7 +39,7 @@
   - 2013年4月～2015年3月 - 月～金曜・7:00～10:00
       - 10:00〜11:00はα-MORNING KYOTO ANNEXとして放送（後述）
   - 2015年4月～2016年3月 - 月～金曜・7:00～10:00
-      - 10:00〜11:00に放送していたα-MORNING KYOTO ANNEXが消滅（後継番組は放送時間を変更しα-MORNING ANNEX（月～木曜6:00〜7:00。後述）へ移行）。月～木曜はノンDJ番組[MORNING BREEZING](https://ja.wikipedia.org/wiki/MORNING_BREEZING "wikilink")（10:00〜11:00）となり、金曜は[SUNNYSIDE BALCONY金曜版の後継番組](https://ja.wikipedia.org/wiki/SUNNYSIDE_BALCONY "wikilink")[SPURT\! FRIDAY](https://ja.wikipedia.org/wiki/SPURT!_FRIDAY "wikilink")（10:00～16:00）に吸収された。
+      - 10:00〜11:00に放送していたα-MORNING KYOTO ANNEXが消滅（後継番組は放送時間を変更しα-MORNING ANNEX（月～木曜6:00〜7:00。後述）へ移行）。月～木曜はノンDJ番組[MORNING BREEZING](https://ja.wikipedia.org/wiki/MORNING_BREEZING "wikilink")（10:00〜11:00）となり、金曜は[SUNNYSIDE BALCONY金曜版の後継番組](../Page/SUNNYSIDE_BALCONY.md "wikilink")[SPURT\! FRIDAY](https://ja.wikipedia.org/wiki/SPURT!_FRIDAY "wikilink")（10:00～16:00）に吸収された。
   - 2016年4月～ 2019年7月 - 月～木曜・7:00～10:00
       - 金曜日版を"**α-MORNING GOLD**"（金曜7:00～10:00）と改題。
 

@@ -1,7 +1,7 @@
 > この記事は[じゅきあきら・T・](https://ja.wikipedia.org/wiki/じゅきあきら・T・)から翻訳されています。
 
 
-**じゅきあきら・T・**は、日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。女性\[1\]。デビュー時の名義は**じゅきあきら**。ペンネームの（・T・）の部分は[置き字](https://ja.wikipedia.org/wiki/置き字 "wikilink")であり、発音しない。休載状態であった『[海の大陸NOA](../Page/海の大陸NOA.md "wikilink")』が再開した際、仕切り直しの意味を込めて追加された\[2\]。
+**じゅきあきら・T・**は、日本の[漫画家](../Page/漫画家.md "wikilink")。女性\[1\]。デビュー時の名義は**じゅきあきら**。ペンネームの（・T・）の部分は[置き字](https://ja.wikipedia.org/wiki/置き字 "wikilink")であり、発音しない。休載状態であった『[海の大陸NOA](../Page/海の大陸NOA.md "wikilink")』が再開した際、仕切り直しの意味を込めて追加された\[2\]。
 
 漫画家の[倉谷友也](https://ja.wikipedia.org/wiki/倉谷友也 "wikilink")は弟\[3\]。
 

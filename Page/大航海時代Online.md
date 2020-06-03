@@ -1,7 +1,7 @@
 > この記事は[大航海時代Online](https://ja.wikipedia.org/wiki/大航海時代Online)から翻訳されています。
 
 
-『**大航海時代 Online**』（だいこうかいじだいおんらいん）は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が同社の[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")『[大航海時代シリーズ](../Page/大航海時代シリーズ.md "wikilink")』の世界観をベースに開発した[MMO](https://ja.wikipedia.org/wiki/MMO "wikilink")である。
+『**大航海時代 Online**』（だいこうかいじだいおんらいん）は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が同社の[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")『[大航海時代シリーズ](../Page/大航海時代シリーズ.md "wikilink")』の[世界観](../Page/世界観.md "wikilink")をベースに開発した[MMO](https://ja.wikipedia.org/wiki/MMO "wikilink")である。
 
 歴史上の[大航海時代](../Page/大航海時代.md "wikilink")に基づいて作られた世界の中で、プレイヤーは冒険家・商人・軍人・海賊など様々な立場の登場人物になり切って、探険・交易・海戦などを楽しむことができる。歴史と地理を素材としていることや、世界各地の遺跡や様々な文化遺産、珍しい生物、地理上の発見などが多数登場することから、教養面で評価が高く、インターネットゲームの教育への応用の研究材料とされたり、学校教育への導入が検討されたりしたこともある。海外でもサービスが行われているが、特に断りがない限り、この記事は日本版について説明している。
 

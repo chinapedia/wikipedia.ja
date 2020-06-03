@@ -80,7 +80,7 @@ G350の生産機数は、わずか11機であった\[8\]。
 
 ## 関連項目
 
-  - [ガルフストリーム V](https://ja.wikipedia.org/wiki/ガルフストリーム_V "wikilink")
+  - [ガルフストリーム V](../Page/ガルフストリーム_V.md "wikilink")
 
 ## 出典
 

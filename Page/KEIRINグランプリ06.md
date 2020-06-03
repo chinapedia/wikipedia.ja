@@ -56,6 +56,10 @@
 
 <!-- end list -->
 
+  - 地上波中継は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")《[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列 全22局ネット》が放送。
+
+<!-- end list -->
+
   - 有坂は、井上茂徳（[1994年](https://ja.wikipedia.org/wiki/KEIRINグランプリ'94 "wikilink")）の記録を更新し、当時歴代最年長で優勝した\[6\]。また当時、GI優勝経験がないままのGP優勝事例は、史上3例目\[7\]であったが、翌[2007年](../Page/2007年.md "wikilink")の[日本選手権競輪](../Page/日本選手権競輪.md "wikilink")（[平塚競輪場](../Page/平塚競輪場.md "wikilink")）を制し、晴れてGI優勝者となった。また、史上6例目の初出場初優勝（第1回を除く）を果たした。
 
 <!-- end list -->

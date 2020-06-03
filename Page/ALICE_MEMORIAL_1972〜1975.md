@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 同年6月には第2弾として『[ALICE MEMORIAL 1976〜1979](https://ja.wikipedia.org/wiki/ALICE_MEMORIAL_1976〜1979 "wikilink")』がリリースされている。
+  - 同年6月には第2弾として『[ALICE MEMORIAL 1976〜1979](../Page/ALICE_MEMORIAL_1976〜1979.md "wikilink")』がリリースされている。
 
 <!-- end list -->
 

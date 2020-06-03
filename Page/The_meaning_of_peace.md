@@ -11,7 +11,7 @@
 
 songnationの曲を集めたアルバム『various artists featuring songnation』に収録された。また、倖田來未の『[OUT WORKS & COLLABORATION BEST](https://ja.wikipedia.org/wiki/OUT_WORKS_&_COLLABORATION_BEST "wikilink")』にも収録された。
 
-[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")&[KEIKO](../Page/KEIKO.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")&[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")と共に2001年12月28日の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』で一夜限りのライブを行った。
+[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")&[KEIKO](../Page/KEIKO.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")&[VERBAL](../Page/VERBAL.md "wikilink")と共に2001年12月28日の『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』で一夜限りのライブを行った。
 
 倖田來未のソロバージョンは『[love across the ocean](https://ja.wikipedia.org/wiki/love_across_the_ocean "wikilink")』、『[BEST〜first things〜](https://ja.wikipedia.org/wiki/BEST〜first_things〜 "wikilink")』の初回盤に、BoAのソロバージョンは『[LISTEN TO MY HEART](../Page/LISTEN_TO_MY_HEART_\(アルバム\).md "wikilink")』に収録されている。
 

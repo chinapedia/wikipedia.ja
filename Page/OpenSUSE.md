@@ -15,7 +15,7 @@ openSUSEは汎用のLinuxディストリビューションである。[ウェブ
 
 同プロジェクトはディストリビューションやツールの提供に加えて、[ポータルサイト](../Page/ポータルサイト.md "wikilink")を[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")のために用意している。コミュニティはドキュメント・[アートワーク](https://ja.wikipedia.org/wiki/アートワーク "wikilink")などの作成について公開[メーリングリスト](../Page/メーリングリスト.md "wikilink")やIRCを通じて議論する。openSUSE Build Serviceを通じて提供されるコードを元にopenSUSEの開発を行っている。
 
-Geeko（ギーコ）と呼ばれる[カメレオン](https://ja.wikipedia.org/wiki/カメレオン "wikilink")が[マスコット](../Page/マスコット.md "wikilink")である。[geek](../Page/ギーク.md "wikilink")（コンピュータ[おたく](../Page/おたく.md "wikilink")） とgecko（[ヤモリ](../Page/ヤモリ科.md "wikilink")）をかけた名称で、一般公募で決定した。
+Geeko（ギーコ）と呼ばれる[カメレオン](https://ja.wikipedia.org/wiki/カメレオン "wikilink")が[マスコット](../Page/マスコット.md "wikilink")である。[geekとgecko](../Page/ギーク.md "wikilink")（[ヤモリ](../Page/ヤモリ科.md "wikilink")）をかけた名称で、一般公募で決定した。
 
 ## 特徴
 

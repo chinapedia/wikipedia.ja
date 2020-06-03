@@ -3,7 +3,7 @@
 
 「**IN MY DREAM (WITH SHIVER)**」（イン･マイ･ドリーム (ウィズ･シバー)）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")2nd[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。
 
-2枚目のシングルであり、3rd[アルバム](../Page/アルバム.md "wikilink")『[EDEN](../Page/EDEN_\(アルバム\).md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")ナンバーである。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+2枚目のシングルであり、3rd[アルバム](../Page/アルバム.md "wikilink")『[EDEN](../Page/EDEN_\(アルバム\).md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")ナンバーである。
 
 ## 収録曲
 

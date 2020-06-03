@@ -144,11 +144,11 @@
   - [NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")
   - [NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")
   - [豊橋中継局](../Page/豊橋中継局.md "wikilink")
-  - [蒲郡田原テレビ中継局](https://ja.wikipedia.org/wiki/蒲郡田原テレビ中継局 "wikilink")
+  - [蒲郡田原テレビ中継局](../Page/蒲郡田原テレビ中継局.md "wikilink")
 
 [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:愛知県の放送送信所](https://ja.wikipedia.org/wiki/Category:愛知県の放送送信所 "wikilink") [Category:豊川市の建築物](https://ja.wikipedia.org/wiki/Category:豊川市の建築物 "wikilink")
 
 1.  [愛知県の開局状況](http://www.soumu.go.jp/soutsu/tokai/housou/digital/toukai/index.html#AICHI) 総務省 東海総合通信局
 2.  [東海地区の開局情報（愛知県）／【表１６】三河一宮中継局（豊川市：金沢町）](http://www.soumu.go.jp/soutsu/tokai/housou/digital/toukai/chuukyo_aichi.html#MIKAWAICHINOMIYA) 総務省 東海総合通信局
 3.  [地上デジタルテレビジョン放送局５中継局の予備免許及び三河一宮中継局の免許](http://www.soumu.go.jp/soutsu/tokai/tool/kohosiryo/hodo/22/11/1111-1.htm) 総務省 東海総合通信局、2010年11月11日
-4.  [蒲郡田原テレビ中継局](https://ja.wikipedia.org/wiki/蒲郡田原テレビ中継局 "wikilink")の受信が多い。
+4.  [蒲郡田原テレビ中継局](../Page/蒲郡田原テレビ中継局.md "wikilink")の受信が多い。

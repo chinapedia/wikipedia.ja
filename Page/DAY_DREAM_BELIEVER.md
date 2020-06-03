@@ -21,7 +21,7 @@
 
 ## 選曲・内容
 
-第1部では、テーマに合わせた選曲を行っていた。第2部では、16時台にミュージックランキングのコーナーがあった。17時台以降は、『[IT'S MY RADIO\!](https://ja.wikipedia.org/wiki/IT'S_MY_RADIO! "wikilink")』とほぼ同じ編成となった。
+第1部では、テーマに合わせた選曲を行っていた。第2部では、16時台にミュージックランキングのコーナーがあった。17時台以降は、『[IT'S MY RADIO\!](../Page/IT'S_MY_RADIO!.md "wikilink")』とほぼ同じ編成となった。
 
 ## 過去に放送されたコーナー
 
@@ -31,7 +31,7 @@
 
 ## 関連項目
 
-  - [IT'S MY RADIO\!](https://ja.wikipedia.org/wiki/IT'S_MY_RADIO! "wikilink") - 2007年3月まで金曜スペシャルの番組として放送。本番組終了後の2009年4月から再び金曜スペシャルの番組になっていた。
+  - [IT'S MY RADIO\!](../Page/IT'S_MY_RADIO!.md "wikilink") - 2007年3月まで金曜スペシャルの番組として放送。本番組終了後の2009年4月から再び金曜スペシャルの番組になっていた。
   - [エフエムアップルウェーブ](../Page/エフエムアップルウェーブ.md "wikilink") - 14時台に本番組との交流コーナーを設けていた[弘前市](../Page/弘前市.md "wikilink")の[コミュニティFM](../Page/コミュニティ放送.md "wikilink")。同局でのコーナー担当者は[高瀬まみ](https://ja.wikipedia.org/wiki/高瀬まみ "wikilink")。
 
 ## 脚注

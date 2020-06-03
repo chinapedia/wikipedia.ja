@@ -1,7 +1,7 @@
 > この記事は[シアル化糖鎖抗原KL-6](https://ja.wikipedia.org/wiki/シアル化糖鎖抗原KL-6)から翻訳されています。
 
 
-**シアル化糖鎖抗原KL-6**（シアルかとうさこうげんケーエルシックス、Sialylated carbohydrate antigen KL-6）は、MUC1上に存在しているシアル化[糖鎖](../Page/糖鎖.md "wikilink")[抗原](../Page/抗原.md "wikilink")の1つである｡MUC1は[ムチン](../Page/ムチン.md "wikilink")の1種であり[上皮細胞](../Page/上皮細胞.md "wikilink")系に[発現](https://ja.wikipedia.org/wiki/発現 "wikilink")する[膜貫通型の](https://ja.wikipedia.org/wiki/膜タンパク質 "wikilink")[糖タンパク質](https://ja.wikipedia.org/wiki/糖タンパク質 "wikilink")である｡
+**シアル化糖鎖抗原KL-6**（シアルかとうさこうげんケーエルシックス、Sialylated carbohydrate antigen KL-6）は、MUC1上に存在しているシアル化[糖鎖](../Page/糖鎖.md "wikilink")[抗原](../Page/抗原.md "wikilink")の1つである｡MUC1は[ムチン](../Page/ムチン.md "wikilink")の1種であり[上皮細胞](../Page/上皮細胞.md "wikilink")系に[発現](https://ja.wikipedia.org/wiki/発現 "wikilink")する[膜貫通型の](../Page/膜タンパク質.md "wikilink")[糖タンパク質](https://ja.wikipedia.org/wiki/糖タンパク質 "wikilink")である｡
 
 1985年に[広島大学](../Page/広島大学.md "wikilink")の河野修興らによりヒト[肺腺癌](https://ja.wikipedia.org/wiki/肺腺癌 "wikilink")由来[細胞株](https://ja.wikipedia.org/wiki/細胞株 "wikilink") (VMRC-LCR) を[マウス](https://ja.wikipedia.org/wiki/マウス "wikilink")に[免疫](https://ja.wikipedia.org/wiki/免疫 "wikilink")する事で数種類の[モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")が作成された\[1\]｡シアル化糖鎖抗原KL-6はその6番目の[抗体](../Page/抗体.md "wikilink")によって同定された抗原である｡
 

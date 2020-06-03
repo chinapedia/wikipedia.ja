@@ -1,7 +1,7 @@
 > この記事は[Happy Toy☆.](https://ja.wikipedia.org/wiki/Happy_Toy☆.)から翻訳されています。
 
 
-**Happy Toy☆.**（ハッピートーイ）は、[声優](../Page/声優.md "wikilink")の[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")が出した4th[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")である。品番はLACM-4385。次作の「**[KURENAI](https://ja.wikipedia.org/wiki/KURENAI "wikilink")**」から、[5pb.Records](https://ja.wikipedia.org/wiki/5pb.Records "wikilink")からのリリースになっている為、この作品が[Lantisからのリリースとしては最後となっている](../Page/ランティス.md "wikilink")。
+**Happy Toy☆.**（ハッピートーイ）は、[声優](../Page/声優.md "wikilink")の[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")が出した4th[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")である。品番はLACM-4385。次作の「**[KURENAI](../Page/KURENAI.md "wikilink")**」から、[5pb.Records](https://ja.wikipedia.org/wiki/5pb.Records "wikilink")からのリリースになっている為、この作品が[Lantisからのリリースとしては最後となっている](../Page/ランティス.md "wikilink")。
 
 ## 収録曲
 

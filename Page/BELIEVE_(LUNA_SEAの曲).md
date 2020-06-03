@@ -7,7 +7,7 @@
 
 [初回限定盤には](https://ja.wikipedia.org/wiki/限定盤 "wikilink")[ポストカードが封入されている](../Page/はがき.md "wikilink")。ジャケットの表には[RYUICHIが](../Page/河村隆一.md "wikilink")、裏には他のメンバー4人が写っている。[規格品番](../Page/規格品番.md "wikilink")はMVDD-4。
 
-[アルバム](../Page/アルバム.md "wikilink")『[IMAGE](../Page/IMAGE_\(LUNA_SEAのアルバム\).md "wikilink")』で[メジャー・デビューを果たしたLUNA](../Page/メジャー・デビュー_\(音楽家\).md "wikilink") SEAにとって初のシングルであり、この2ヵ月後にリリースを控えていたアルバム『[EDEN](../Page/EDEN_\(アルバム\).md "wikilink")』の先行ナンバーとなった。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+[アルバム](../Page/アルバム.md "wikilink")『[IMAGE](../Page/IMAGE_\(LUNA_SEAのアルバム\).md "wikilink")』で[メジャー・デビューを果たしたLUNA](../Page/メジャー・デビュー_\(音楽家\).md "wikilink") SEAにとって初のシングルであり、この2ヵ月後にリリースを控えていたアルバム『[EDEN](../Page/EDEN_\(アルバム\).md "wikilink")』の先行ナンバーとなった。
 
 ## 収録曲
 

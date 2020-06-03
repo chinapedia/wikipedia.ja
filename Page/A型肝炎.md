@@ -1,7 +1,7 @@
 > この記事は[A型肝炎](https://ja.wikipedia.org/wiki/A型肝炎)から翻訳されています。
 
 
-**A型肝炎**（Aがたかんえん、**Hepatitis A**, **HA**）とは、[A型肝炎ウイルス](https://ja.wikipedia.org/wiki/A型肝炎ウイルス "wikilink")（HAV）が原因の[ウイルス性肝炎](https://ja.wikipedia.org/wiki/ウイルス性肝炎 "wikilink")の一種である。多くは一過性の急性肝炎症状で終わり、治癒後は強い免疫を獲得する。症状消失後、1か月から2か月間はウイルスの排出が続く\[1\]。
+**A型肝炎**（Aがたかんえん、**Hepatitis A**, **HA**）とは、[A型肝炎ウイルス](https://ja.wikipedia.org/wiki/A型肝炎ウイルス "wikilink")（HAV）が原因の[ウイルス性肝炎](../Page/ウイルス性肝炎.md "wikilink")の一種である。多くは一過性の急性肝炎症状で終わり、治癒後は強い免疫を獲得する。症状消失後、1か月から2か月間はウイルスの排出が続く\[1\]。
 
 ## 疫学
 

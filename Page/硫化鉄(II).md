@@ -6,7 +6,7 @@
 [硫黄](../Page/硫黄.md "wikilink")と[鉄](../Page/鉄.md "wikilink")とを反応させると得られる。
 
   -
-    <ce>S8(s)\\ + 8Fe(s) -\> 8FeS(s)</ce>
+    <chem>S8(s)\\ + 8Fe(s) -\> 8FeS(s)</chem>
 
 ## 硫化鉄の種類
 
@@ -22,13 +22,13 @@
 加熱すると硫化鉄に化合する。中学理科の実験では、硫黄と鉄粉を混ぜ合わせたものを試験管(または筒状にしたアルミニウム箔)に入れて加熱し、硫化鉄(II) を得るという実験が行われることが多い。
 
   -
-    <ce>Fe\\ + S -\> FeS </ce>
+    <chem>Fe\\ + S -\> FeS </chem>
 
 希[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")や希[硫酸](https://ja.wikipedia.org/wiki/硫酸 "wikilink")と混合すると[硫化水素](https://ja.wikipedia.org/wiki/硫化水素 "wikilink")が生成する。
 
   -
-    <ce>FeS\\ + 2HCl -\> H2S\\ + FeCl2 </ce>
-    <ce>FeS\\ + H2SO4 -\> H2S\\ + FeSO4 </ce>
+    <chem>FeS\\ + 2HCl -\> H2S\\ + FeCl2 </chem>
+    <chem>FeS\\ + H2SO4 -\> H2S\\ + FeSO4 </chem>
 
 ## 参考文献
 

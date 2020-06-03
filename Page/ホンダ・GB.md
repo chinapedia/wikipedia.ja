@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に発売された[GB250クラブマンが第](https://ja.wikipedia.org/wiki/ホンダ・GB250クラブマン "wikilink")1弾となる。2年後の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にはGB400TTおよびGB500TTが発売され、同時に[ロケットカウルを装備したGB](https://ja.wikipedia.org/wiki/カウル#オートバイ "wikilink")400TT MkIIも限定販売された。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に発売された[GB250クラブマンが第](../Page/ホンダ・GB250クラブマン.md "wikilink")1弾となる。2年後の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")にはGB400TTおよびGB500TTが発売され、同時に[ロケットカウルを装備したGB](https://ja.wikipedia.org/wiki/カウル#オートバイ "wikilink")400TT MkIIも限定販売された。
 
 シリーズ全車に「放射状4バルブ方式[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")」[RFVC](https://ja.wikipedia.org/wiki/燃焼室#半球型 "wikilink") (Radial Four Valve Combustion Chamber) を採用しており、この機構により省燃費と高出力化を実現している。
 

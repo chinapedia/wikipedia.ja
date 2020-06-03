@@ -19,7 +19,7 @@
 12. [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink") / [For You](https://ja.wikipedia.org/wiki/For_You/タイム・リミット "wikilink")
 13. [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") / [How You Like Me Now?](../Page/How_You_Like_Me_Now?.md "wikilink")
 14. [童子-T](../Page/童子-T.md "wikilink") / [better days](https://ja.wikipedia.org/wiki/better_days "wikilink") feat. 加藤ミリヤ, [田中ロウマ](../Page/田中ロウマ.md "wikilink")
-15. [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink") / [No Other Man](https://ja.wikipedia.org/wiki/No_Other_Man "wikilink") feat. [NaNa](https://ja.wikipedia.org/wiki/NaNa_\(歌手\) "wikilink")
+15. [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink") / [No Other Man](https://ja.wikipedia.org/wiki/No_Other_Man "wikilink") feat. [NaNa](../Page/NaNa_\(歌手\).md "wikilink")
 16. [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") / [EVERYBODY NEEDS MUSIC](https://ja.wikipedia.org/wiki/EVERYBODY_NEEDS_MUSIC "wikilink")
 17. [RIP SLYME](../Page/RIP_SLYME.md "wikilink") / [楽園ベイベー](../Page/楽園ベイベー.md "wikilink")
 18. [WISE](../Page/WISE.md "wikilink") / [Shine like a star](https://ja.wikipedia.org/wiki/Shine_like_a_star "wikilink")

@@ -26,7 +26,7 @@
 3.  「LOVERS' GAME」（[1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")/東芝EMI）
     1.  LOVERS' GAME：ミズノ「SUPER STAR '99 SUMMER」CMソング＆[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")」エンディング
     2.  そばにおいで
-4.  「**[翼](https://ja.wikipedia.org/wiki/翼_\(BIIRの曲\) "wikilink")**」（[1999年](../Page/1999年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")/東芝EMI）
+4.  「**[翼](../Page/翼_\(BIIRの曲\).md "wikilink")**」（[1999年](../Page/1999年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")/東芝EMI）
     1.  翼：[TBS系](../Page/TBSテレビ.md "wikilink")[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")「[ザ・ドクター](../Page/ザ・ドクター.md "wikilink")」主題歌＆[TOSHIBA](../Page/東芝.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")'99[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink")
     2.  FUTTARI
 

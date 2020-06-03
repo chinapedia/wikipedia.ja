@@ -23,7 +23,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤友和" title="wikilink">佐藤友和</a></p></td>
+<td><p><a href="../Page/佐藤友和.md" title="wikilink">佐藤友和</a></p></td>
 <td></td>
 <td><p>取得賞金順位第7位。</p></td>
 </tr>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/兵藤一也" title="wikilink">兵藤一也</a></p></td>
+<td><p><a href="../Page/兵藤一也.md" title="wikilink">兵藤一也</a></p></td>
 <td></td>
 <td><p>取得賞金順位第6位。</p></td>
 </tr>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡邉晴智" title="wikilink">渡邉晴智</a></p></td>
+<td><p><a href="../Page/渡邉晴智.md" title="wikilink">渡邉晴智</a></p></td>
 <td></td>
 <td><p>取得賞金順位第8位。</p></td>
 </tr>
@@ -92,17 +92,17 @@
 
 ## 競走結果
 
-| 着順 | 選手                                                    | 着差     | [決まり手](../Page/決まり手.md "wikilink") |
-| -- | ----------------------------------------------------- | ------ | ---------------------------------- |
-| 1  | **[伏見俊昭](../Page/伏見俊昭.md "wikilink")**                | ‌      | 差し                                 |
-| 2  | [小嶋敬二](../Page/小嶋敬二.md "wikilink")                    | 3/4車輪  | 捲くり                                |
-| 3  | [飯嶋則之](../Page/飯嶋則之.md "wikilink")                    | 1/2車身  |                                    |
-| 4  | [渡邉晴智](https://ja.wikipedia.org/wiki/渡邉晴智 "wikilink") | 3/4車身  |                                    |
-| 5  | [有坂直樹](../Page/有坂直樹.md "wikilink")                    | 1/2車身  |                                    |
-| 6  | [山崎芳仁](../Page/山崎芳仁.md "wikilink")                    | 3/4車輪  |                                    |
-| 7  | [兵藤一也](https://ja.wikipedia.org/wiki/兵藤一也 "wikilink") | 1車身1/2 |                                    |
-| 8  | [佐藤友和](https://ja.wikipedia.org/wiki/佐藤友和 "wikilink") | 1/4車輪  |                                    |
-| 9  | [手島慶介](../Page/手島慶介.md "wikilink")                    | 落携入    |                                    |
+| 着順 | 選手                                     | 着差     | [決まり手](../Page/決まり手.md "wikilink") |
+| -- | -------------------------------------- | ------ | ---------------------------------- |
+| 1  | **[伏見俊昭](../Page/伏見俊昭.md "wikilink")** | ‌      | 差し                                 |
+| 2  | [小嶋敬二](../Page/小嶋敬二.md "wikilink")     | 3/4車輪  | 捲くり                                |
+| 3  | [飯嶋則之](../Page/飯嶋則之.md "wikilink")     | 1/2車身  |                                    |
+| 4  | [渡邉晴智](../Page/渡邉晴智.md "wikilink")     | 3/4車身  |                                    |
+| 5  | [有坂直樹](../Page/有坂直樹.md "wikilink")     | 1/2車身  |                                    |
+| 6  | [山崎芳仁](../Page/山崎芳仁.md "wikilink")     | 3/4車輪  |                                    |
+| 7  | [兵藤一也](../Page/兵藤一也.md "wikilink")     | 1車身1/2 |                                    |
+| 8  | [佐藤友和](../Page/佐藤友和.md "wikilink")     | 1/4車輪  |                                    |
+| 9  | [手島慶介](../Page/手島慶介.md "wikilink")     | 落携入    |                                    |
 
 ## 配当金額
 
@@ -113,9 +113,15 @@
 
 ## エピソード
 
-  - 優勝した[伏見俊昭](../Page/伏見俊昭.md "wikilink")は、[北京五輪出場権獲得のための](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[ワールドカップシリーズ転戦の中](https://ja.wikipedia.org/wiki/UCIトラックワールドカップクラシックス "wikilink")、今回のKEIRINグランプリ07が1ヵ月半ぶりの日本国内での競輪レース出場であったが、競輪レース勘のブランクをものともせず、最終周回で3番手に付け、最終直線で先頭に立った[小嶋敬二](../Page/小嶋敬二.md "wikilink")を僅かの差で差し切り、6年ぶりのグランプリ制覇を飾った。尚、伏見はこのグランプリ制覇で獲得した賞金により、2007年度競輪選手賞金王も獲得した他、生涯獲得賞金額が10億円を突破した\[4\]。
-  - 当レースに出場した全9選手は2007年[12月27日](../Page/12月27日.md "wikilink")より実施され、合計18名の在籍者で構成される初代[S級S班選手でもあった](https://ja.wikipedia.org/wiki/競輪選手#S級S班の概要 "wikilink")。S級S班の地位は、2008年[12月26日](../Page/12月26日.md "wikilink")まで保障されることになっている\[5\]。
-  - [テレビ東京系列](https://ja.wikipedia.org/wiki/テレビ東京系列 "wikilink")としては、最後のKEIRINグランプリ中継になっている\[6\]。
+  - 当レースに出場した全9選手は2007年[12月27日](../Page/12月27日.md "wikilink")より実施され、合計18名の在籍者で構成される初代[S級S班選手でもあった](https://ja.wikipedia.org/wiki/競輪選手#S級S班の概要 "wikilink")。S級S班の地位は、2008年[12月26日](../Page/12月26日.md "wikilink")まで保障されることになっている\[4\]。
+
+<!-- end list -->
+
+  - 地上波中継は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")《[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列 全14局ネット》が放送したが、この年で[テレビ東京系列](https://ja.wikipedia.org/wiki/テレビ東京系列 "wikilink")としては、最後のKEIRINグランプリ中継になっている\[5\]。
+
+<!-- end list -->
+
+  - 優勝した[伏見俊昭](../Page/伏見俊昭.md "wikilink")は、[北京五輪出場権獲得のための](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[ワールドカップシリーズ転戦の中](https://ja.wikipedia.org/wiki/UCIトラックワールドカップクラシックス "wikilink")、今回のKEIRINグランプリ07が1ヵ月半ぶりの日本国内での競輪レース出場であったが、競輪レース勘のブランクをものともせず、最終周回で3番手に付け、最終直線で先頭に立った[小嶋敬二](../Page/小嶋敬二.md "wikilink")を僅かの差で差し切り、6年ぶりのグランプリ制覇を飾った。尚、伏見はこのグランプリ制覇で獲得した賞金により、2007年度競輪選手賞金王も獲得した他、生涯獲得賞金額が10億円を突破した\[6\]。
 
 ## 脚注
 
@@ -124,6 +130,6 @@
 1.  [伏見が６年ぶり２度目Ｖ](http://cache.yahoofs.jp/search/cache?c=XRM5e5swiWgJ&p=2007&u=www.idolreport.jp%2Fad%2Fkeirin%2Fkeiringp08%2Fplayback%2F2007%2Findex.html)（[アーカイブ](http://archive.is/yT0w7)）
 2.  [『KEIRINグランプリ07【GP】』出場予定選手の決定について](http://keirin.jp/pc/dfw/portal/guest/news/2007khn/12/news20071204_01.html)
 3.  [『KEIRINグランプリ07【GP】』 共同インタビュー](http://keirin.jp/pc/dfw/portal/guest/report/graderace/grandprix/H19/28/int_GP_H19_0_1.html)
-4.  [伏見が6年ぶりの栄冠　競輪グランプリ](http://sankei.jp.msn.com/sports/other/071230/oth0712301812005-n1.htm) 産経新聞 2007年12月30日閲覧
-5.  [S級S班選手の決定について](http://keirin.jp/pc/dfw/portal/guest/news/2007khn/12/news20071204_02.html) KEIRINホームページ 2007年12月4日閲覧
-6.  翌年から[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")に移行している。
+4.  [S級S班選手の決定について](http://keirin.jp/pc/dfw/portal/guest/news/2007khn/12/news20071204_02.html) KEIRINホームページ 2007年12月4日閲覧
+5.  翌年から[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")に移行している。
+6.  [伏見が6年ぶりの栄冠　競輪グランプリ](http://sankei.jp.msn.com/sports/other/071230/oth0712301812005-n1.htm) 産経新聞 2007年12月30日閲覧

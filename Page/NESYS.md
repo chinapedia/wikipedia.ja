@@ -47,7 +47,7 @@ NESiCA対応タイトルについては[NESiCAxLive](https://ja.wikipedia.org/wi
   - [サイバーダイバー](https://ja.wikipedia.org/wiki/サイバーダイバー "wikilink")
   - [アクエリアンエイジ オルタナティブ](../Page/アクエリアンエイジ_オルタナティブ.md "wikilink")
   - [悠久の車輪](../Page/悠久の車輪.md "wikilink")
-  - [ロード オブ ヴァーミリオンシリーズ](https://ja.wikipedia.org/wiki/ロード_オブ_ヴァーミリオンシリーズ "wikilink")＜[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")＞（〜[Re:2まで](https://ja.wikipedia.org/wiki/LORD_of_VERMILION "wikilink")）○
+  - [ロード オブ ヴァーミリオンシリーズ](https://ja.wikipedia.org/wiki/ロード_オブ_ヴァーミリオンシリーズ "wikilink")＜[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")＞（〜[Re:2まで](../Page/LORD_of_VERMILION.md "wikilink")）○
   - [ストリートファイターIV](../Page/ストリートファイターIV.md "wikilink")シリーズ＜[カプコン](../Page/カプコン.md "wikilink")＞（〜[スーパーストリートファイターIV アーケードエディションまで](https://ja.wikipedia.org/wiki/ストリートファイターIV#スーパーストリートファイターIV_アーケードエディション "wikilink")）○
 
 ### ネットワークのみ対応

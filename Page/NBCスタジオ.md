@@ -5,7 +5,7 @@
 
 ## ニューヨーク
 
-[ニューヨーク](../Page/ニューヨーク.md "wikilink")スタジオは[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")の[GEビルディング](https://ja.wikipedia.org/wiki/GEビルディング "wikilink")内にある。また、ローカル局[WNBC](https://ja.wikipedia.org/wiki/WNBC "wikilink")のスタジオもある。また、スタジオツアーも実施している。
+[ニューヨーク](../Page/ニューヨーク.md "wikilink")スタジオは[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")の[GEビルディング](../Page/GEビルディング.md "wikilink")内にある。また、ローカル局[WNBC](https://ja.wikipedia.org/wiki/WNBC "wikilink")のスタジオもある。また、スタジオツアーも実施している。
 
 ### 収録番組
 
@@ -16,7 +16,7 @@
   - [NBCナイトリーニュース](../Page/NBCナイトリーニュース.md "wikilink")
   - [トゥデイ](../Page/トゥデイ_\(テレビ番組\).md "wikilink")
   - [デイトラインNBC](https://ja.wikipedia.org/wiki/デイトラインNBC "wikilink")
-  - [ラストコール](https://ja.wikipedia.org/wiki/ラスト・コール・ウィズ・カーソン・デイリー "wikilink")（2002年 - 2005年）
+  - [ラストコール](../Page/ラスト・コール・ウィズ・カーソン・デイリー.md "wikilink")（2002年 - 2005年）
   - Live at Five
   - [フィル・ドナヒュー](https://ja.wikipedia.org/wiki/フィル・ドナヒュー "wikilink")・ショー
   - [ジェパディ\!](https://ja.wikipedia.org/wiki/ジェパディ! "wikilink")（1964年 - 1975年）
@@ -32,7 +32,7 @@
   - [ザ・トゥナイト・ショー・ウィズ・ジェイ・レノ](../Page/ザ・トゥナイト・ショー・ウィズ・ジェイ・レノ.md "wikilink")（1992年～2009年、2010年～）
   - [ジェイ・レノ・ショー](https://ja.wikipedia.org/wiki/ジェイ・レノ・ショー "wikilink")（2009年）
   - [アクセス・ハリウッド](https://ja.wikipedia.org/wiki/アクセス・ハリウッド "wikilink")
-  - [ラストコール](https://ja.wikipedia.org/wiki/ラスト・コール・ウィズ・カーソン・デイリー "wikilink")
+  - [ラストコール](../Page/ラスト・コール・ウィズ・カーソン・デイリー.md "wikilink")
   - [デイズ・オブ・アワ・ライブス](https://ja.wikipedia.org/wiki/デイズ・オブ・アワ・ライブス "wikilink")
 
 ## シカゴ

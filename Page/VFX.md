@@ -19,12 +19,14 @@
 
 ### あ行
 
+  - [アイラ・ラボラトリ](https://ja.wikipedia.org/wiki/アイラ・ラボラトリ "wikilink")()
   - [ACTDESiGNS,inc.](https://ja.wikipedia.org/wiki/アクト・デザインズ "wikilink")()
   - [AstroBros](https://ja.wikipedia.org/wiki/AstroBros "wikilink")()
   - [アニマル・ロジック](https://ja.wikipedia.org/wiki/アニマル・ロジック "wikilink") ()
   - [AnnexDigital](https://ja.wikipedia.org/wiki/AnnexDigital "wikilink")()
+  - [アンダーグラフ](https://ja.wikipedia.org/wiki/アンダーグラフ_\(映像会社\) "wikilink")()
   - [イメージエンジン](https://ja.wikipedia.org/wiki/イメージエンジン "wikilink") ()
-  - [IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")（）
+  - [IMAGICA Lab.](../Page/IMAGICA_Lab..md "wikilink")（）
   - [インダストリアル・ライト&マジック](../Page/インダストリアル・ライト&マジック.md "wikilink") ()
   - [インテリジェント・クリーチャーズ](https://ja.wikipedia.org/wiki/インテリジェント・クリーチャーズ "wikilink") ()
   - [WETAデジタル](../Page/WETAデジタル.md "wikilink") ()
@@ -53,6 +55,7 @@
   - [スキャンラインVFX](https://ja.wikipedia.org/wiki/スキャンラインVFX "wikilink") ()
   - [スタジオ・グーニーズ](https://ja.wikipedia.org/wiki/スタジオ・グーニーズ "wikilink")()
   - [スタジオ・バックホーン](https://ja.wikipedia.org/wiki/スタジオ・バックホーン "wikilink") ()
+  - [スティミュラスイメージ](https://ja.wikipedia.org/wiki/スティミュラスイメージ "wikilink")()
   - [SULTAMEDIA FX](https://ja.wikipedia.org/wiki/SULTAMEDIA_FX "wikilink")()
   - [ソニー・ピクチャーズ・イメージワークス](../Page/ソニー・ピクチャーズ・イメージワークス.md "wikilink") ()
   - [Zoic Studios](https://ja.wikipedia.org/wiki/Zoic_Studios "wikilink") ()
@@ -62,6 +65,7 @@
   - [ナイス・デー](https://ja.wikipedia.org/wiki/ナイス・デー_\(企業\) "wikilink")()
   - [日本映像クリエイティブ](../Page/日本映像クリエイティブ.md "wikilink")()
   - [日本エフェクトセンター](../Page/日本エフェクトセンター.md "wikilink")()
+  - [Nobira](https://ja.wikipedia.org/wiki/ノビラ_\(映像会社\) "wikilink")()
 
 ### た行
 
@@ -73,6 +77,7 @@
   - [ティペット・スタジオ](../Page/ティペット・スタジオ.md "wikilink") ()
   - [デジタル・フロンティア](https://ja.wikipedia.org/wiki/デジタル・フロンティア "wikilink") ()
   - [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink") ()
+  - [ドメリカ](https://ja.wikipedia.org/wiki/ドメリカ_\(映像会社\) "wikilink")()
   - [トランジスタ・スタジオ](https://ja.wikipedia.org/wiki/トランジスタ・スタジオ "wikilink")()
 
 ### は行
@@ -86,17 +91,20 @@
   - [4Dブレイン](https://ja.wikipedia.org/wiki/4Dブレイン "wikilink") ()
   - [プラナ・スタジオ](https://ja.wikipedia.org/wiki/プラナ・スタジオ "wikilink") ()
   - [フレームストア](../Page/フレームストア.md "wikilink") ()
+  - [FrameBox](https://ja.wikipedia.org/wiki/フレームボックス_\(映像会社\) "wikilink")()
   - [フレームワークス・エンターテインメント](https://ja.wikipedia.org/wiki/フレームワークス・エンターテインメント "wikilink")()
 
 ### ま行
 
-  - [マーザ・アニメーション・プラネット](https://ja.wikipedia.org/wiki/マーザ・アニメーション・プラネット "wikilink")()
+  - [マーザ・アニメーションプラネット](https://ja.wikipedia.org/wiki/マーザ・アニメーションプラネット "wikilink")()
   - [マック・ガフ](https://ja.wikipedia.org/wiki/マック・ガフ "wikilink") ()
   - [マリンポスト](../Page/マリンポスト.md "wikilink") ()
+  - [丸壱動画](https://ja.wikipedia.org/wiki/丸壱動画 "wikilink")()
   - [ミックジャパン](https://ja.wikipedia.org/wiki/ミックジャパン_\(映像会社\) "wikilink")()
   - [ムービング・ピクチャー・カンパニー](../Page/ムービング・ピクチャー・カンパニー.md "wikilink") ()
   - [Method Studios](https://ja.wikipedia.org/wiki/Method_Studios "wikilink") ()
   - [Motor/lieZ](https://ja.wikipedia.org/wiki/Motor/lieZ "wikilink") ([イマージュ](../Page/イマージュ_\(画像処理企業\).md "wikilink")） ()
+  - [モンブランピクチャーズ](https://ja.wikipedia.org/wiki/モンブランピクチャーズ "wikilink")()
 
 ### や行
 
@@ -107,6 +115,7 @@
   - [ライジング・サン・ピクチャーズ](https://ja.wikipedia.org/wiki/ライジング・サン・ピクチャーズ "wikilink") ()
   - [リズム&ヒューズ・スタジオ](../Page/リズム&ヒューズ・スタジオ.md "wikilink") ()
   - [ルーデンス](https://ja.wikipedia.org/wiki/ルーデンス "wikilink") ()
+  - [lunaworks](https://ja.wikipedia.org/wiki/ルナワークス "wikilink")()
   - [ロデオFX](https://ja.wikipedia.org/wiki/ロデオFX "wikilink") ()
 
 ## VFX関係者一覧（五十音順）

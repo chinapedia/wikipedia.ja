@@ -7,8 +7,8 @@
 
   - [薮宏太](../Page/薮宏太.md "wikilink")（やぶ こうた、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ） - 神奈川県出身。
   - [八乙女光](../Page/八乙女光.md "wikilink")（やおとめ ひかる、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[12月2日](../Page/12月2日.md "wikilink") - ） - 宮城県出身。[2003年](../Page/2003年.md "wikilink")に加入\[3\]。
-  - [鮎川太陽](../Page/鮎川太陽.md "wikilink")（あゆかわ たいよう、[1991年](../Page/1991年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ） - 東京都出身。
-  - [山下翔央](../Page/山下翔央.md "wikilink")（やました しょおん、[1988年](../Page/1988年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ） - 東京都出身。
+  - [鮎川太陽](../Page/鮎川太陽.md "wikilink")（あゆかわ たいよう、[1991年](../Page/1991年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ） - 東京都出身。2007年ジャニーズ事務所を退所。
+  - [山下翔央](../Page/山下翔央.md "wikilink")（やました しょおん、[1988年](../Page/1988年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink") - ） - 東京都出身。2010年ジャニーズ事務所を退所。
 
 ### 旧メンバー
 

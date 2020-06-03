@@ -116,7 +116,6 @@
   - **事業用**
       - **直流用**
           - [クモヤ143形](https://ja.wikipedia.org/wiki/国鉄143系電車#クモヤ143形 "wikilink")
-          - [クモユニ143形](https://ja.wikipedia.org/wiki/国鉄143系電車#クモユニ143形 "wikilink")
           - [クモヤ145形](https://ja.wikipedia.org/wiki/国鉄145系電車#クモヤ145形 "wikilink")
           - 209系（[MUE-Train](https://ja.wikipedia.org/wiki/MUE-Train "wikilink")）
       - **交直両用**
@@ -175,17 +174,23 @@
 ## 導入予定車両
 
   - **新幹線車両**
-      - E8系
+      - [E8系](https://ja.wikipedia.org/wiki/新幹線E8系電車 "wikilink")<span id="E8"></span>
           -
             2024年春から[山形新幹線](../Page/山形新幹線.md "wikilink")向けに導入予定の新幹線車両。2020年3月3日に発表された\[6\]。[奥山清行](../Page/奥山清行.md "wikilink")が代表を務める KEN OKUYAMA DESIGN の監修のもと、[川崎重工業がデザインを担当する](../Page/川崎重工業車両カンパニー.md "wikilink")。
             先頭形状を秋田新幹線向け[E6系同様の](https://ja.wikipedia.org/wiki/新幹線E6系電車 "wikilink")「アローライン」としつつ、先頭部の長さを現行の[E3系](https://ja.wikipedia.org/wiki/新幹線E3系電車 "wikilink")（6m）とE6系（13m）の中間となる9mとすることにより、E6系同様の7両編成（5M2T）としつつ、編成あたりの定員をE6系より多い355名とする。
             そのほか、大型荷物置場の全車両への設置、電源コンセントの全席配置、車椅子スペースの増設など、設備を充実させたものとする予定。
             東北新幹線区間で[E5系との併結により](https://ja.wikipedia.org/wiki/新幹線E5系・H5系電車 "wikilink")300km/h運転が可能となる予定で、17編成119両を投入予定。
   - **一般形車両（試験車両）**
-      - FV-E991系
+      - [FV-991系](https://ja.wikipedia.org/wiki/JR東日本FV-E991系電車 "wikilink")<span id="FV-E991"></span>
           -
             [水素](../Page/水素.md "wikilink")をエネルギー源とする[燃料電池](../Page/燃料電池.md "wikilink")と蓄電池を電源とするハイブリッド車両（試験車両）\[7\]。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")との間で水素を活用した包括的な業務連携を締結しており、トヨタの協力により燃料電池技術が導入される。世界で初めて70MPaの高圧水素を利用し、最大140キロメートルの走行が可能となるという\[8\]。
             1M1Tの2両編成で、建設費は開発費・試験費込みで40億円。2021年度に登場予定で、落成後は[鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")・[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")（本線[尻手駅](https://ja.wikipedia.org/wiki/尻手駅 "wikilink") - [武蔵中原駅](https://ja.wikipedia.org/wiki/武蔵中原駅 "wikilink")間及び浜川崎支線）で実証試験が行われる予定。
+  - **一般形車両（鉄道車両）**
+      - [E131系](https://ja.wikipedia.org/wiki/JR東日本E131系電車 "wikilink") <span id="E131"></span>
+          -
+            2020年5月12日に、房総地区の末端区間である[内房線](https://ja.wikipedia.org/wiki/内房線 "wikilink") [木更津駅](https://ja.wikipedia.org/wiki/木更津駅 "wikilink") - [安房鴨川駅](https://ja.wikipedia.org/wiki/安房鴨川駅 "wikilink")間、[外房線](https://ja.wikipedia.org/wiki/外房線 "wikilink") [上総一ノ宮駅](https://ja.wikipedia.org/wiki/上総一ノ宮駅 "wikilink") - 安房鴨川駅間、[鹿島線](https://ja.wikipedia.org/wiki/鹿島線 "wikilink") [佐原駅](https://ja.wikipedia.org/wiki/佐原駅 "wikilink") - [鹿島神宮駅](https://ja.wikipedia.org/wiki/鹿島神宮駅 "wikilink")間への投入が発表された、ワンマン運転対応の一般型直流電車\[9\]。同区間で運用されている[209系2000・2100番台がワンマン運転に対応していないことから投入されるもので](https://ja.wikipedia.org/wiki/JR東日本209系電車#2000番台・2100番台 "wikilink")、直流電化区間のワンマン対応車両の標準タイプとして開発したと報じられている\[10\]。
+            ユニット方式を採用した209系の2M2Tに対し、1M方式を採用して2両1ユニットを組み\[11\]、運転席から乗降を確認するカメラなど、ワンマン運転対応機器を備える\[12\]。ステンレス製の幅広車体を採用し、SiC素子を採用して消費電力の抑制につなげる。
+            2021年春以降、2両編成12本・合計24両を製造し、運用を開始する予定。
 
 ## 廃止車両
 
@@ -282,6 +287,7 @@
           - [クモヤ90形](https://ja.wikipedia.org/wiki/国鉄72系電車#クモヤ90形 "wikilink")
           - [193系](../Page/国鉄193系電車.md "wikilink")
           - [E993系](../Page/JR東日本E993系電車.md "wikilink")（ACトレイン）
+          - [クモユニ143形](https://ja.wikipedia.org/wiki/国鉄143系電車#クモユニ143形 "wikilink")
       - **交直両用**
           - [443系](../Page/国鉄443系電車.md "wikilink")
           - [クモヤ441形](https://ja.wikipedia.org/wiki/国鉄72系電車#クモヤ441形 "wikilink")
@@ -378,3 +384,7 @@
 6.
 7.
 8.
+9.
+10.
+11.
+12.

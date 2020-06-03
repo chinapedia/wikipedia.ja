@@ -66,7 +66,7 @@
     [1月21日](../Page/1月21日.md "wikilink")（第173回）、[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")発生直後にあたりCM抜きで放送され、被災したリスナーを励ました。
     当初、ラジオ関西では生活情報を優先するために放送を休止する方針で進めていたが、当番組の復活に尽力してくれたラジオ関西や、その所在地である神戸への愛着と被災者を少しでも励ましたいという林原本人の強い希望で放送されることになった。そもそもこの番組は東京の[キングレコード](../Page/キングレコード.md "wikilink")で制作する「外部制作番組」であり、ラジオ関西はキー局かつ葉書の受付先でしかなかった（震災後は宛先をキングレコードに変更）。その後、壊滅的な被害を受けた本社社屋の近くに設けられた仮設スタジオから生放送を行ったり、神戸の復興などをテーマにした葉書を扱う「神戸コーナー」が設けられるなど、震災を強く意識した内容となった\[6\]。なお、『遊星セガワールド』パーソナリティの[竹崎忠](../Page/竹崎忠.md "wikilink")は神戸市出身である。なお、林原はこの時の回の放送について稀に当番組や[ブギーナイトで語ることがある](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")。本人によると「生活情報を優先して放送するべきだ」という苦情も当然寄せられたが、そういった苦情は被災地以外の地域からが大半であり、被災地からの苦情は暫く経ってから寄せられたという。また、被災地からは逆に感謝する声が多かったという。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）
-    [4月12日](../Page/4月12日.md "wikilink")（第289回）より、ラジオ関西での放送時間が土曜23:00に戻る。また、この回から[JRN系深夜番組](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")『**[UP'S〜Ultra Performer'S radio〜](../Page/UP'S〜Ultra_Performer'S_radio〜.md "wikilink")**』の金曜第1部（番組枠前半）として[TBSラジオ](../Page/TBSラジオ.md "wikilink")、[北海道放送](../Page/HBCラジオ.md "wikilink")、[RKB毎日放送](../Page/RKBラジオ.md "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")（ - 1997年9月でUP'Sネット打ち切り）にてネットを開始。
+    [4月12日](../Page/4月12日.md "wikilink")（第289回）より、ラジオ関西での放送時間が土曜23:00に戻る。また、この回から[JRN系深夜番組](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")『**[UP'S〜Ultra Performer'S radio〜](../Page/UP'S〜Ultra_Performer'S_radio〜.md "wikilink")**』の金曜第1部（番組枠前半）として[TBSラジオ](../Page/TBSラジオ.md "wikilink")、[北海道放送](../Page/HBCラジオ.md "wikilink")、[RKB毎日放送](../Page/RKBラジオ.md "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（ - 1997年9月でUP'Sネット打ち切り）にてネットを開始。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）
     9月末にて『UP'S』としてのネット終了。TBSラジオへのネットは終了する\[7\]。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）
@@ -274,7 +274,7 @@
 ### 過去
 
   - [TBSラジオ](../Page/TBSラジオ.md "wikilink")（1997年4月11日 - 1998年9月）
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")（1997年4月11日 - 9月）
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（1997年4月11日 - 9月）
 
 ## 公開録音概要
 

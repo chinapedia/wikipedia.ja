@@ -263,7 +263,7 @@
   - [Leaf リーフ公式サイト](https://leaf.aquaplus.jp/)（<span style="color:red">18禁</span>：年齢確認あり）
   - [AQUAPLUS](https://aquaplus.jp/)
 
-[Category:Leaf](https://ja.wikipedia.org/wiki/Category:Leaf "wikilink")
+[Category:Leaf](https://ja.wikipedia.org/wiki/Category:Leaf "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:アクアプラス](https://ja.wikipedia.org/wiki/Category:アクアプラス "wikilink") [Category:1995年設立の組織](https://ja.wikipedia.org/wiki/Category:1995年設立の組織 "wikilink")
 
 1.  「[PC Angel](../Page/PC_Angel_neo.md "wikilink")」1998年12月号より
 2.  現在はアクアプラスの一部門

@@ -117,7 +117,7 @@
   - 文字[書体](../Page/書体.md "wikilink")のウェイト（線の太さ）で、通常より太い書体を表す。ボールド (bold)。
   - [建物](../Page/建物.md "wikilink")の[階](../Page/階.md "wikilink")の表記で[地階](https://ja.wikipedia.org/wiki/地階 "wikilink") (**b**asement) の略。階上は1F、2Fと数字の後に付けるのに対して、地下はB1、B2と前に付く。ただし、英語ではfirst basement, second basement, …と数字を前に付けて言う。地下1階しかない場合、単にBとすることもある。
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[ビヨンセ](../Page/ビヨンセ.md "wikilink")の愛称。
-  - [野球](../Page/野球.md "wikilink")の[テレビ中継](https://ja.wikipedia.org/wiki/テレビ中継 "wikilink")画面や[球場](https://ja.wikipedia.org/wiki/球場 "wikilink")内[電光掲示板](../Page/電光掲示板.md "wikilink")における、[ボールカウント](../Page/ボールカウント.md "wikilink")の略表記（**B**all）→[ボール (野球)](../Page/ボール_\(野球\).md "wikilink")
+  - [野球](../Page/野球.md "wikilink")の[テレビ中継](https://ja.wikipedia.org/wiki/テレビ中継 "wikilink")画面や[球場内](../Page/野球場.md "wikilink")[電光掲示板](../Page/電光掲示板.md "wikilink")における、[ボールカウント](../Page/ボールカウント.md "wikilink")の略表記（**B**all）→[ボール (野球)](../Page/ボール_\(野球\).md "wikilink")
   - かつて日本にあったプロ野球チーム「阪急ブレーブス（現：オリックス・バファローズ）」の略号（**B**ravesより）。
   - 日本にあるプロ野球チーム「[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")」の略号（**B**uffaloesより）。
   - [スポーツ](../Page/スポーツ.md "wikilink")の世界では、後衛（バック(**B**ack)）を表す記号。

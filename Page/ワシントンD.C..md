@@ -33,7 +33,7 @@
 
 略して**ワシントンD.C.**と呼び、米国ではWashington、The District、または単にD.C.とも通称する。日本語では**首都ワシントン**または**ワシントン**と呼ぶことも多い。
 
-"D.C." は "District of Columbia"（[コロンビア特別区](https://ja.wikipedia.org/wiki/コロンビア_\(古名\) "wikilink")）の頭文字で、[南アメリカ](../Page/南アメリカ.md "wikilink")の[コロンビア](../Page/コロンビア.md "wikilink")共和国と同様、[クリストファー・コロンブス](../Page/クリストファー・コロンブス.md "wikilink")にちなんだ名である。日本語では、このワシントンD.C.のことは単に「ワシントン」と呼び、[ワシントン州](../Page/ワシントン州.md "wikilink")はワシントンD.C.と識別するため「ワシントン州」と呼ぶのが一般的である。
+"D.C." は **"District of Columbia"**（[コロンビア特別区](https://ja.wikipedia.org/wiki/コロンビア_\(古名\) "wikilink")）の頭文字で、[南アメリカ](../Page/南アメリカ.md "wikilink")の[コロンビア](../Page/コロンビア.md "wikilink")共和国と同様、[クリストファー・コロンブス](../Page/クリストファー・コロンブス.md "wikilink")にちなんだ名である。日本語では、このワシントンD.C.のことは単に「ワシントン」と呼び、[ワシントン州](../Page/ワシントン州.md "wikilink")はワシントンD.C.と識別するため「ワシントン州」と呼ぶのが一般的である。
 
 漢字による当て字は**華盛頓**で、**華府**と略す。
 
@@ -69,7 +69,7 @@
 
 ### 市域
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Washington_DC_view1.jpg "wikilink")、左下が[連邦最高裁判所](../Page/合衆国最高裁判所.md "wikilink")。右上の細長い白い塔は[ワシントン記念塔](https://ja.wikipedia.org/wiki/ワシントン記念塔 "wikilink")。[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")はその右手に位置するが写っていない。議事堂から右斜め上方へ延びる舗装道路（ペンシルベニア通り）の先にある。また、議事堂から記念塔を経てポトマック川に至る細長い緑地は[ナショナル・モール](../Page/ナショナル・モール.md "wikilink")と呼ばれる。[ペンタゴン](../Page/ペンタゴン.md "wikilink")は写真左上の川向こうに写っている。\]\] ワシントンD.C.は、全部で68.3平方マイル (177 km<sup>2</sup>) の市域を有し、そのうち61.4平方マイル (159 km<sup>2</sup>) が陸地、6.9平方マイル (18 km<sup>2</sup>, 10.16%) が水面である\[49\]。特別区は、当初100平方マイル (260 km<sup>2</sup>) の面積を有していたが、1846年に南の一部をバージニア州に返還したため、この面積となっている。現在の市域は、メリーランド州から[割譲](https://ja.wikipedia.org/wiki/割譲 "wikilink")された領域のみから成っている\[50\]。そのため、ワシントンD.C.は南東・北東・北西をメリーランド州に、南西をバージニア州に囲まれている。特別区内には、三つの大きな天然の河川がある。[ポトマック川](../Page/ポトマック川.md "wikilink")、[アナコスティア川](https://ja.wikipedia.org/wiki/アナコスティア川 "wikilink")、[ロック・クリーク](https://ja.wikipedia.org/wiki/ロック・クリーク "wikilink")である。アナコスティア川とロック・クリークはポトマック川の支流である\[51\]。北西部のポトマック川河畔には[ダンバートン・オークス](https://ja.wikipedia.org/wiki/ダンバートン・オークス "wikilink")が位置する。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Washington_DC_view1.jpg "wikilink")、左下が[連邦最高裁判所](../Page/合衆国最高裁判所.md "wikilink")。右上の細長い白い塔は[ワシントン記念塔](https://ja.wikipedia.org/wiki/ワシントン記念塔 "wikilink")。[ホワイトハウス](../Page/ホワイトハウス.md "wikilink")はその右手に位置するが写っていない。議事堂から右斜め上方へ延びる舗装道路（[ペンシルベニア大通り](https://ja.wikipedia.org/wiki/ペンシルベニア大通り "wikilink")）の先にある。また、議事堂から記念塔を経てポトマック川に至る細長い緑地は[ナショナル・モール](../Page/ナショナル・モール.md "wikilink")と呼ばれる。[ペンタゴン](../Page/ペンタゴン.md "wikilink")は写真左上の川向こうに写っている。\]\] ワシントンD.C.は、全部で68.3平方マイル (177 km<sup>2</sup>) の市域を有し、そのうち61.4平方マイル (159 km<sup>2</sup>) が陸地、6.9平方マイル (18 km<sup>2</sup>, 10.16%) が水面である\[49\]。特別区は、当初100平方マイル (260 km<sup>2</sup>) の面積を有していたが、1846年に南の一部をバージニア州に返還したため、この面積となっている。現在の市域は、メリーランド州から[割譲](https://ja.wikipedia.org/wiki/割譲 "wikilink")された領域のみから成っている\[50\]。そのため、ワシントンD.C.は南東・北東・北西をメリーランド州に、南西をバージニア州に囲まれている。特別区内には、三つの大きな天然の河川がある。[ポトマック川](../Page/ポトマック川.md "wikilink")、[アナコスティア川](https://ja.wikipedia.org/wiki/アナコスティア川 "wikilink")、[ロック・クリーク](https://ja.wikipedia.org/wiki/ロック・クリーク "wikilink")である。アナコスティア川とロック・クリークはポトマック川の支流である\[51\]。北西部のポトマック川河畔には[ダンバートン・オークス](https://ja.wikipedia.org/wiki/ダンバートン・オークス "wikilink")が位置する。
 
 合衆国首都設置法は、ワシントン大統領に、東はアナコスティア川の河口までの範囲で新しい首都の正確な位置を選ぶ権限を与えた。しかし、ワシントン大統領は、区の南端にアレクサンドリア市を含むようにするため、この連邦の領域の境界を南東に動かした。1791年、連邦議会はワシントン大統領の選んだ区域を認めるため、合衆国首都設置法を修正し、これによりバージニアから割譲された領域も含まれることとなった\[52\]。この場所は、多くの利点を有していた。ポトマック川は特別区まで航行可能であり、船による交通が可能であった。また、アレクサンドリアと[ジョージタウンの既成の港は](../Page/ジョージタウン_\(ワシントンD.C.\).md "wikilink")、市にとって重要な経済的な基盤を提供した。さらに、内陸の特別区は、[北西部領土に近かった](../Page/北西部領土_\(アメリカ合衆国\).md "wikilink")\[53\]。1791年から1792年にかけて、アンドリュー・エリコットと[ベンジャミン・バネカー](../Page/ベンジャミン・バネカー.md "wikilink")が特別区の境界を調査し、1マイルごとに境界石を設置した。その多くが今も残っている\[54\]。
 
@@ -488,68 +488,18 @@ WMATA では、2030年までに地下鉄の利用客は1日平均100万人にな
 ワシントンD.C.付近を通る主要な[州間高速道路](../Page/州間高速道路.md "wikilink")としては、次のものがある。
 
   - 95号線
-
-<!-- end list -->
-
-  -
-    カナダ国境のメイン州ハウルトンからメリーランド州ボルチモア市を経てワシントンD.C.都市圏東部 - 南部を通過し、バージニア州都のリッチモンド市を経てフロリダ州マイアミ市に至る（ワシントンD.C.付近には支線として下記の二級州間高速道路がある）。
+      - カナダ国境のメイン州ハウルトンからメリーランド州ボルチモア市を経てワシントンD.C.都市圏東部 - 南部を通過し、バージニア州都のリッチモンド市を経てフロリダ州マイアミ市に至る（ワシントンD.C.付近には支線として下記の二級州間高速道路がある）。
       - [495号線](../Page/州間高速道路495号線.md "wikilink")：半径約16kmの、都市圏を通過する環状道路（都市圏東部 - 南部は95号線と重複）。
-      - 295号線：市街中心部から南方に向かい495号線に合流する。
-      - 395号線：市街中心部から南西に向かい95号線に合流する。
-
-<!-- end list -->
-
+  - 295号線：市街中心部から南方に向かい495号線に合流する。
+  - 395号線：市街中心部から南西に向かい95号線に合流する。
   - 66号線
-
-<!-- end list -->
-
-  -
-    市街中心部から西方に延びバージニア州フロント・ロイヤルに至る（[国道66号線](../Page/国道66号線_\(アメリカ合衆国\).md "wikilink")（ルート66）とは異なる）。
-
-<!-- end list -->
-
+      - 市街中心部から西方に延びバージニア州フロント・ロイヤルに至る（[国道66号線](../Page/国道66号線_\(アメリカ合衆国\).md "wikilink")（ルート66）とは異なる）。
   - 270号線
-
-<!-- end list -->
-
-  -
-    市街北部の495号線から分岐して北北西に伸び、メリーランド州フレデリックに至る。
+      - 市街北部の495号線から分岐して北北西に伸び、メリーランド州フレデリックに至る。
 
 ## 姉妹都市
 
 ワシントンD.C.には15の[姉妹都市](../Page/姉妹都市.md "wikilink")がある\[219\]。パリは、その町（[コミューン](../Page/コミューン.md "wikilink")）の方針のために「パートナー都市」となっている\[220\]。
-
-  - [アクラ](../Page/アクラ.md "wikilink")（[ガーナ](../Page/ガーナ.md "wikilink")）
-
-  - [アテネ](../Page/アテネ.md "wikilink")（[ギリシャ](../Page/ギリシャ.md "wikilink")共和国）
-
-  - [バンコク](../Page/バンコク.md "wikilink")（[タイ王国](../Page/タイ王国.md "wikilink")）
-
-  - [北京](../Page/北京市.md "wikilink")（[中華人民共和国](../Page/中華人民共和国.md "wikilink")）
-
-  - [ブリュッセル](../Page/ブリュッセル.md "wikilink")（[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")王国）
-
-  - [ダカール](../Page/ダカール.md "wikilink")（[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")共和国）
-
-  - [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")共和国）
-
-<!-- end list -->
-
-  - [プレトリア](../Page/プレトリア.md "wikilink")（[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")）
-
-  - [ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")（[大韓民国](../Page/大韓民国.md "wikilink")）
-
-  - [サンダーランド](../Page/サンダーランド_\(イングランド\).md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")連合王国）
-
-  - [ブラザビル](https://ja.wikipedia.org/wiki/ブラザビル "wikilink")（[コンゴ共和国](../Page/コンゴ共和国.md "wikilink") [特別市](https://ja.wikipedia.org/wiki/特別市#コンゴ共和国 "wikilink")）
-
-  - [ローマ](../Page/ローマ.md "wikilink")（[イタリア共和国](https://ja.wikipedia.org/wiki/イタリア共和国 "wikilink") [ラツィオ州](../Page/ラツィオ州.md "wikilink")）
-
-  - [アンカラ](../Page/アンカラ.md "wikilink")（[トルコ共和国](https://ja.wikipedia.org/wiki/トルコ共和国 "wikilink") [アンカラ県](../Page/アンカラ県.md "wikilink")）
-
-  - [ブラジリア](../Page/ブラジリア.md "wikilink")（[ブラジル連邦共和国](https://ja.wikipedia.org/wiki/ブラジル連邦共和国 "wikilink") [ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")）
-
-  - [アディスアベバ](../Page/アディスアベバ.md "wikilink")（[エチオピア連邦民主共和国](https://ja.wikipedia.org/wiki/エチオピア連邦民主共和国 "wikilink") [アディスアベバ](../Page/アディスアベバ.md "wikilink")自治区）
 
 ## 脚注
 
@@ -564,17 +514,16 @@ WMATA では、2030年までに地下鉄の利用客は1日平均100万人にな
 ## 外部リンク
 
   - 公式
-    [ワシントン市公式ウェブサイト](https://dc.gov/)
+    [| DC](https://dc.gov)：ワシントン市公式ウェブサイト
 
   - 日本政府
     [在アメリカ合衆国日本国大使館](https://www.us.emb-japan.go.jp/itprtop_ja/index.html)
 
   - 観光
 
-<!-- end list -->
+    [Official Tourism Site of Washington DC | Washington.org](https://washington.org)：ワシントン観光局
 
-  - [ワシントン観光局](https://washington.org/)
-  - [ワシントン観光局](https://jp.capitalregionusa.org/)
+    [私たちは、首都圏USAを探るように誘う。](https://jp.capitalregionusa.org)：ワシントン観光局
 
 [Category:ワシントンD.C.](https://ja.wikipedia.org/wiki/Category:ワシントンD.C. "wikilink") [Category:北アメリカの首都](https://ja.wikipedia.org/wiki/Category:北アメリカの首都 "wikilink") [Category:1790年に成立した国家・領域](https://ja.wikipedia.org/wiki/Category:1790年に成立した国家・領域 "wikilink") [Category:ジョージ・ワシントン](https://ja.wikipedia.org/wiki/Category:ジョージ・ワシントン "wikilink")
 

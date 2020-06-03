@@ -10,7 +10,7 @@
 cDNA合成を逆転写酵素によって行ったのち、
 
 1.  λ[ファージベクター](https://ja.wikipedia.org/wiki/ファージベクター "wikilink")や[プラスミド](../Page/プラスミド.md "wikilink")に[クローニング](../Page/クローニング.md "wikilink")し、[cDNAライブラリー](https://ja.wikipedia.org/wiki/cDNAライブラリー "wikilink")を作製。標識プロープや抗体などにより cDNA ライブラリーを[スクリーニングして](../Page/スクリーニング_\(生物学\).md "wikilink")、特定遺伝子の cDNA を単離する。
-2.  [PCR法により](../Page/ポリメラーゼ連鎖反応.md "wikilink")、既知の塩基配列の情報をもとに、特定配列を増幅する（RT-PCRという）。それを直接解析するか、[プラスミド](../Page/プラスミド.md "wikilink")等にクローニングした後、解析を行う。この方法を工夫して、未知の 5'側配列、3'側配列を増幅するのに、RACE法（Rapid Amplification of cDNA end) と呼ばれる cDNA増幅法がある。
+2.  [PCR法により](../Page/ポリメラーゼ連鎖反応.md "wikilink")、既知の塩基配列の情報をもとに、特定配列を増幅する（[RT-PCRという](https://ja.wikipedia.org/wiki/逆転写ポリメラーゼ連鎖反応 "wikilink")）。それを直接解析するか、[プラスミド](../Page/プラスミド.md "wikilink")等にクローニングした後、解析を行う。この方法を工夫して、未知の 5'側配列、3'側配列を増幅するのに、RACE法（Rapid Amplification of cDNA end) と呼ばれる cDNA増幅法がある。
 3.  [サブトラクション](https://ja.wikipedia.org/wiki/サブトラクション "wikilink")法などによって、未知であるが、遺伝子発現量に差がある cDNA のみを増幅し、それを単離する。
 
 といった解析が行われる。

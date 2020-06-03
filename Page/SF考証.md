@@ -9,7 +9,7 @@ SF作品においては、例えば[超光速航法](../Page/超光速航法.md 
 
 一方で、『[妖星ゴラス](../Page/妖星ゴラス.md "wikilink")』のように（地球を動かす方法については無理も見られるものの）大学の研究室の協力を得て、地球の質量の概算値から必要なエネルギーを算出しシナリオに取り入れた、というような作品もある。
 
-古くは、[柴野拓美](../Page/柴野拓美.md "wikilink")が[タツノコプロ](../Page/タツノコプロ.md "wikilink")の初期のアニメにおいてSF考証を担当していた。また、[円谷プロ](https://ja.wikipedia.org/wiki/円谷プロ "wikilink")作品においては[大伴昌司](../Page/大伴昌司.md "wikilink")が怪獣の設定及び考証を行っていた。 最近は、[金子隆一が](../Page/金子隆一_\(SF\).md "wikilink")[軌道エレベータ](https://ja.wikipedia.org/wiki/軌道エレベータ "wikilink")建設漫画『[まっすぐ天へ](https://ja.wikipedia.org/wiki/まっすぐ天へ "wikilink")』（作画：[的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")、[講談社](../Page/講談社.md "wikilink")）の考証面で協力者となっている。
+古くは、[柴野拓美](../Page/柴野拓美.md "wikilink")が[タツノコプロ](../Page/タツノコプロ.md "wikilink")の初期のアニメにおいてSF考証を担当していた。また、[円谷プロ作品においては](../Page/円谷プロダクション.md "wikilink")[大伴昌司](../Page/大伴昌司.md "wikilink")が怪獣の設定及び考証を行っていた。 最近は、[金子隆一が](../Page/金子隆一_\(SF\).md "wikilink")[軌道エレベータ](https://ja.wikipedia.org/wiki/軌道エレベータ "wikilink")建設漫画『[まっすぐ天へ](https://ja.wikipedia.org/wiki/まっすぐ天へ "wikilink")』（作画：[的場健](https://ja.wikipedia.org/wiki/的場健 "wikilink")、[講談社](../Page/講談社.md "wikilink")）の考証面で協力者となっている。
 
 SF考証に関する面白い例では、[ラリー・ニーヴン](../Page/ラリー・ニーヴン.md "wikilink")の『[リングワールド](../Page/リングワールド.md "wikilink")』がある。『リングワールド』が発表された後、リングワールドは力学的に不安定である事がわかり、ニーヴンがその事実を公表すると、ファンからこの問題を解決のための続編を熱望する手紙を山のように受け取ることになった。そしてその後、ニーヴンは実際に続編の『[リングワールドふたたび](../Page/リングワールドふたたび.md "wikilink")』を書き、そこでリングワールドを力学的に安定させる方法を載せた。
 

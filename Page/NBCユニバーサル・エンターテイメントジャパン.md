@@ -29,6 +29,8 @@
 
 ジェネオンは米国に「Geneon Entertainment USA」（米国ジェネオン エンタテインメント、ジェネオンUSA/米（国）ジェネオン/ジェネオンアメリカ）という[子会社](../Page/子会社.md "wikilink")を持っていた。旧パイオニアLDC（PLDC）（[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")子会社）時代に設立した唯一の海外法人である。こちらは合併後も電通の海外子会社となった。
 
+2020年1月、[ワーナー・ブラザース・ホームエンターテイメントと](https://ja.wikipedia.org/wiki/ワーナー・ホーム・ビデオ "wikilink")[ユニバーサル・ピクチャーズ・ホームエンターテイメント](https://ja.wikipedia.org/wiki/ユニバーサル・ピクチャーズ・ホームエンターテイメント "wikilink")は北米地域におけるソフト販売と流通に関する事業について統合することを発表した。同時に前述2社は米国外におけるディスク流通に関する国際ライセンス契約を締結したため、2020年第3四半期からワーナー作品のソフト流通も担当する予定になっている\[3\]。
+
 ## 沿革
 
   - [1981年](../Page/1981年.md "wikilink") - パイオニアの出資により、**レーザーディスク株式会社**として設立。
@@ -50,8 +52,9 @@
   - [2011年](../Page/2011年.md "wikilink")3月 - 前身を含めて設立30周年を迎えた。
   - [2013年](../Page/2013年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - 商号を**NBCユニバーサル・エンターテイメントジャパン合同会社**に変更。
   - [2016年](../Page/2016年.md "wikilink")1月1日 - ジェネオン音楽出版合同会社を吸収合併。[パラマウント映画](../Page/パラマウント映画.md "wikilink")の日本法人であるパラマウント・ジャパンから日本における映像ソフトの営業・販売を移管。
-  - [2017年](../Page/2017年.md "wikilink") - 同社アニメ関連商品の公式オンラインショップ「[あにばーさる](https://store.nbcuni.co.jp/s/nbcu/?ima=1008)」を開設。[ソニー・ミュージックコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックコミュニケーションズ "wikilink")が運営\[3\]。
-  - [2018年](../Page/2018年.md "wikilink")2月3日 - アニメ事業25周年を記念して、音楽フェスティバル「[NBCUniversal ANIME×MUSIC FESTIVAL](https://ja.wikipedia.org/wiki/NBCUniversal_ANIME×MUSIC_FESTIVAL "wikilink")～25th ANNIVERSARY～」を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催\[4\]。
+  - [2017年](../Page/2017年.md "wikilink") - 同社アニメ関連商品の公式オンラインショップ「[あにばーさる](https://store.nbcuni.co.jp/s/nbcu/?ima=1008)」を開設。[ソニー・ミュージックコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックコミュニケーションズ "wikilink")が運営\[4\]。
+  - [2018年](../Page/2018年.md "wikilink")2月3日 - アニメ事業25周年を記念して、音楽フェスティバル「[NBCUniversal ANIME×MUSIC FESTIVAL](https://ja.wikipedia.org/wiki/NBCUniversal_ANIME×MUSIC_FESTIVAL "wikilink")～25th ANNIVERSARY～」を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催\[5\]。
+  - [2020年](../Page/2020年.md "wikilink")第3四半期 - [ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")作品のソフト流通を担当する予定\[6\]。
 
 ## 所属アーティスト
 
@@ -65,7 +68,7 @@
   - [Crusher-P](https://ja.wikipedia.org/wiki/Crusher-P "wikilink") (2017年 - )
   - [黒崎真音](https://ja.wikipedia.org/wiki/黒崎真音 "wikilink") (2010年 - )
   - [Gero](https://ja.wikipedia.org/wiki/Gero "wikilink") (2013年 - )
-  - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") (2004年 - 2010年、2018年 - )\[5\]
+  - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") (2004年 - 2010年、2018年 - )\[7\]
   - [siraph](https://ja.wikipedia.org/wiki/siraph "wikilink") (2016年 - )
   - [てにをは](https://ja.wikipedia.org/wiki/てにをは_\(ミュージシャン\) "wikilink") (2013年 - )
   - [DECO\*27](https://ja.wikipedia.org/wiki/DECO*27 "wikilink") (2019年 - )
@@ -77,7 +80,8 @@
   - [やなぎなぎ](https://ja.wikipedia.org/wiki/やなぎなぎ "wikilink") (2012年 - )
   - [山崎はるか](https://ja.wikipedia.org/wiki/山崎はるか "wikilink") (2011年 - 2013年、2018年 - )
   - [Luce Twinkle Wink☆](https://ja.wikipedia.org/wiki/Luce_Twinkle_Wink☆ "wikilink") (2015年 - )
-  - [H-el-ical//](https://ja.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")（KalafinaのHikaru）（2020年 -）
+  - [H-el-ical//](https://ja.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")（KalafinaのHikaru） (2020年 - )
+  - [petit fleurs](https://ja.wikipedia.org/wiki/petit_fleurs "wikilink") (2020年 - )
 
 ### 過去の所属者
 
@@ -86,7 +90,7 @@
   - [arp](https://ja.wikipedia.org/wiki/arp "wikilink") (2008年)（2010年解散）
   - [Ailie](https://ja.wikipedia.org/wiki/Ailie "wikilink") (2008年 - 2009年)
   - [eyelis](https://ja.wikipedia.org/wiki/eyelis "wikilink") (2012年 - 2013年)（[ワーナー ブラザース ジャパンに移籍](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")）
-  - [アナム&マキ](../Page/アナム&マキ.md "wikilink") (2008年)同年活動休止
+  - [アナム&マキ](../Page/アナム&マキ.md "wikilink") (2008年)（同年活動休止）
   - [彩冷える](../Page/彩冷える.md "wikilink") (2008年)（[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")へ移籍後、活動休止）
   - [EAST END](../Page/EAST_END.md "wikilink") (2005年)
   - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink") (1997年 - 2001年)（パイオニアLDC時代に在籍。[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")に移籍したのち、現在は[ランティス](../Page/ランティス.md "wikilink")に在籍）
@@ -98,7 +102,7 @@
   - [詩月カオリ](../Page/詩月カオリ.md "wikilink") (2007年 - 2013年)（現在はインディーズレーベルで活動）
   - [ef collage](https://ja.wikipedia.org/wiki/ef_collage "wikilink") (1998年)（パイオニアLDC時代に在籍。2001年よりボーカルの有馬寿美が[Sammy (歌手)としてソロ活動を開始](https://ja.wikipedia.org/wiki/Sammy_\(歌手\) "wikilink")）
   - [N's](https://ja.wikipedia.org/wiki/N's "wikilink") (2007年 - 2010年)（2012年10月21日活動停止）
-  - [ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink") (2008年 - 2012年)（[SME Records](../Page/エスエムイーレコーズ.md "wikilink")→[SACRA MUSICに移籍](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
+  - [ELISA](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink") (2008年 - 2012年)（[SME Records](../Page/エスエムイーレコーズ.md "wikilink") → [SACRA MUSICに移籍](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
   - [沖野修也](https://ja.wikipedia.org/wiki/沖野修也 "wikilink") (2006年 - 2008年)
   - [折笠愛](../Page/折笠愛.md "wikilink") (1995年 - 1999年)
   - [折笠富美子](../Page/折笠富美子.md "wikilink") (2003年 - 2009年)
@@ -108,7 +112,7 @@
   - [可憐Girl's](../Page/可憐Girl's.md "wikilink") (2008年 - 2013年)（2009年3月31日解散）
   - [KATSUMI](../Page/KATSUMI.md "wikilink") (1990年 - 1996年)（パイオニアLDCとしての所属第1号アーティスト。1997年にワーナーミュージック・ジャパンに移籍し、現在はインディーズやライヴ中心で活動）
   - [カルカヤマコト](https://ja.wikipedia.org/wiki/カルカヤマコト "wikilink") (2008年)
-  - [川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink") (2005年 - 2016年)（2016年12月に歌手活動引退)
+  - [川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink") (2005年 - 2016年)（2016年12月に歌手活動引退）
   - [岸田教団\&THE明星ロケッツ](https://ja.wikipedia.org/wiki/岸田教団&THE明星ロケッツ "wikilink") (2010年 - 2011年)（ワーナー・ホーム・ビデオに移籍）
   - [キジ☆ムナ](https://ja.wikipedia.org/wiki/キジ☆ムナ "wikilink") (2008年)
   - [木村由姫](https://ja.wikipedia.org/wiki/木村由姫 "wikilink") (1998年 - 2001年)
@@ -121,7 +125,7 @@
   - [C.G mix](../Page/C.G_mix.md "wikilink") (2006年 - 2009年)（現在も[I've](../Page/I've.md "wikilink")で活動、CDをリリース）
   - [SISTER KAYA](https://ja.wikipedia.org/wiki/SISTER_KAYA "wikilink") (2006年 - 2009年)
   - [島みやえい子](../Page/島みやえい子.md "wikilink") (2005年 - 2011年)（現在はフリーで活動）
-  - [樹海](../Page/樹海_\(音楽ユニット\).md "wikilink") (2006年 - 2008年活動休止)
+  - [樹海](../Page/樹海_\(音楽ユニット\).md "wikilink")（2006年 - 2008年活動休止）
       - [Aimmy](../Page/Aimmy.md "wikilink") (2008年)
   - [Sunaga t experience](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink") (2009年)
   - [鈴木トオル](../Page/鈴木トオル.md "wikilink") (1990年 - 1991年)（パイオニアLDC初年度の1990年に[EPIC・ソニーより移籍](../Page/エピックレコードジャパン.md "wikilink")、1992年に[東芝EMIに再移籍し現在はインディーズで活動](../Page/EMIミュージック・ジャパン.md "wikilink")）
@@ -132,7 +136,7 @@
   - [THYME](../Page/THYME.md "wikilink") (2007年 - 2008年)（2010年活動終了）
   - [ダウト](https://ja.wikipedia.org/wiki/ダウト_\(バンド\) "wikilink") (2008年 - 2010年)（徳間ジャパンコミュニケーションズに移籍）
   - [高橋直純](../Page/高橋直純.md "wikilink") (2006年)
-  - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink") (2004年 - 200?年)（[スターチャイルド](../Page/スターチャイルド.md "wikilink")に移籍\[6\]）
+  - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink") (2004年 - 200?年)（[スターチャイルド](../Page/スターチャイルド.md "wikilink")に移籍\[8\]）
   - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink") (2010年)
   - [たま](../Page/たま_\(バンド\).md "wikilink") (1996年 - 1997年)（立ち上げていたプライベート[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")の[地球レコード](../Page/地球レコード.md "wikilink")に再び戻った後、2003年解散）
   - [田村直美](../Page/田村直美.md "wikilink") (2002年)（[アップフロント/ゼティマを経て](../Page/アップフロントワークス.md "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")および[Faith（フェイス）の両社合弁によるインディーズレーベルへ移籍](../Page/フェイス_\(企業\).md "wikilink")）
@@ -141,7 +145,7 @@
 
 #### な〜わ行
 
-  - [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink") (1991年 - 2001年)（2002年にユニバーサル ミュージック/ユニバーサルJに移籍し、後に[バップ](../Page/バップ.md "wikilink")を経て、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に所属。現在はライヴ中心で活動）
+  - [中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink") (1991年 - 2001年)（2002年にユニバーサルミュージック/ユニバーサルJに移籍し、後に[バップ](../Page/バップ.md "wikilink")を経て、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に所属。現在はライヴ中心で活動）
   - [NICOTINE](../Page/NICOTINE.md "wikilink") (2005年 - 2007年)（ユニバーサルミュージックに移籍）
   - [THE NEUTRAL](../Page/THE_NEUTRAL.md "wikilink") (2005年)
   - [ニューロティカ](../Page/ニューロティカ.md "wikilink") (2005年)
@@ -155,7 +159,7 @@
   - [FULL MONTY](../Page/FULL_MONTY.md "wikilink") (2004年 - 2008年)
   - [THE PRODIGAL SONS](https://ja.wikipedia.org/wiki/THE_PRODIGAL_SONS "wikilink") (2009年)（インディーズレーベルshooting starに移籍）
   - [VELTPUNCH](https://ja.wikipedia.org/wiki/VELTPUNCH "wikilink") (2008年)（[EVOL RECORDSに移籍](https://ja.wikipedia.org/wiki/EVOL_RECORDS "wikilink")）
-  - [PENICILLIN](../Page/PENICILLIN.md "wikilink") (1996年 - 1997年)（パイオニアLDC時代に在籍。[east west japan](../Page/ワーナーミュージック・ジャパン.md "wikilink")→Omega A.T. Music→[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")→[日本クラウン](../Page/日本クラウン.md "wikilink")→自主レーベルを経て、現在は[blowgrow](https://ja.wikipedia.org/wiki/blowgrow "wikilink")に在籍）
+  - [PENICILLIN](../Page/PENICILLIN.md "wikilink") (1996年 - 1997年)（パイオニアLDC時代に在籍。[east west japan](../Page/MOON_RECORDS.md "wikilink") → Omega A.T. Music → [エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink") → [日本クラウン](../Page/日本クラウン.md "wikilink") → 自主レーベルを経て、現在は[blowgrow](https://ja.wikipedia.org/wiki/blowgrow "wikilink")に在籍）
   - [ホフディラン](../Page/ホフディラン.md "wikilink") (2008年 - 2009年)
   - [ほぼ日P](https://ja.wikipedia.org/wiki/ほぼ日P "wikilink") (2012年)
   - [VOLTA MASTERS](https://ja.wikipedia.org/wiki/VOLTA_MASTERS "wikilink") (2010年)
@@ -163,10 +167,10 @@
   - [真島茂樹](../Page/真島茂樹.md "wikilink") (2005年)
   - [Machico](https://ja.wikipedia.org/wiki/Machico "wikilink") (2012年)（日本コロムビアに移籍）
   - [松平健](../Page/松平健.md "wikilink") (2004年 - 2006年)（2007年にエイベックスに移籍）
-  - [まふまふ](https://ja.wikipedia.org/wiki/まふまふ "wikilink") (2016年 - 不明)(2019年に[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")に移籍)
+  - [まふまふ](https://ja.wikipedia.org/wiki/まふまふ "wikilink") (2016年 - 不明)（2019年に[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")に移籍）
   - [Monday満ちる](https://ja.wikipedia.org/wiki/Monday満ちる "wikilink") (2006年 - 2007年)
   - [三重の人](https://ja.wikipedia.org/wiki/三重の人 "wikilink") (2012年)
-  - [水樹奈々](../Page/水樹奈々.md "wikilink") (1998年)（パイオニアLDC時代に在籍。現在は[キングレコード第三クリエイティブ本部](../Page/キングレコード第三クリエイティブ本部.md "wikilink")→[キング・アミューズメント・クリエイティブ本部](https://ja.wikipedia.org/wiki/キング・アミューズメント・クリエイティブ本部 "wikilink")に移籍）
+  - [水樹奈々](../Page/水樹奈々.md "wikilink") (1998年)（パイオニアLDC時代に在籍。現在は[キングレコード第三クリエイティブ本部](../Page/キングレコード第三クリエイティブ本部.md "wikilink") → [キング・アミューズメント・クリエイティブ本部](https://ja.wikipedia.org/wiki/キング・アミューズメント・クリエイティブ本部 "wikilink")に移籍）
   - [水野佐彩](https://ja.wikipedia.org/wiki/水野佐彩 "wikilink") (2010年)
   - [MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink") (2003年 - 2004年)
   - [MELL](https://ja.wikipedia.org/wiki/MELL "wikilink") (2006年 - 2013年)（歌手活動引退）
@@ -176,7 +180,7 @@
   - [ユンナ](../Page/ユンナ.md "wikilink") (2009年 - 2010年)
   - [吉岡亜衣加](https://ja.wikipedia.org/wiki/吉岡亜衣加 "wikilink") (2011年 - 2014年)
   - [吉澤はじめ](../Page/吉澤はじめ.md "wikilink") (2005年 - 2006年)
-  - [米倉利紀](../Page/米倉利紀.md "wikilink") (1992年 - 2001年)（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")（wea japan）→[YOSHIMOTO R and Cを経て](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")、現在は[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")と契約）
+  - [米倉利紀](../Page/米倉利紀.md "wikilink") (1992年 - 2001年)（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")（wea japan） → [YOSHIMOTO R and Cを経て](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")、現在は[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")と契約）
   - [LAULA](../Page/LAULA.md "wikilink") (2003年 - 2007年)
   - [Love Planet Five](https://ja.wikipedia.org/wiki/Love_Planet_Five "wikilink") (2007年)
   - [Ray](https://ja.wikipedia.org/wiki/Ray_\(歌手\) "wikilink") (2012年 - 2017年)（2017年7月23日活動終了）
@@ -280,7 +284,7 @@
   - [アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink") - [電撃文庫](../Page/電撃文庫.md "wikilink")作品のアニメ化の大半を手掛けている。
   - [フィフスアベニュー](../Page/フィフスアベニュー.md "wikilink")
   - [マーベラス](../Page/マーベラス_\(企業\).md "wikilink") - 一部のみ。大半がポニーキャニオン、ソニー・ミュージックマーケティングが販売委託元。
-  - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") - 2017年秋より、CD/DVD等のパッケージ商品の小売販売・流通業務を[ソニー・ミュージックマーケティング](../Page/ソニー・ミュージックマーケティング.md "wikilink")へ委託する事を発表した\[7\]。
+  - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") - 2017年秋より、CD/DVD等のパッケージ商品の小売販売・流通業務を[ソニー・ミュージックマーケティング](../Page/ソニー・ミュージックマーケティング.md "wikilink")へ委託する事を発表した\[9\]。
   - [ワーナー ブラザース ジャパン](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")
   - [ソニー・ミュージックソリューションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックソリューションズ "wikilink") - 旧ソニー・ミュージックディストリビューション。旧ジェネオン制作のアニメの楽曲販売委託
   - [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink") - 一部のみ。大半はソニー・ミュージックマーケティング（SMM、前述）が販売委託元。
@@ -290,8 +294,8 @@
       - [フロンティアワークス](../Page/フロンティアワークス.md "wikilink")
       - [マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")
       - [ムービック](../Page/ムービック.md "wikilink")
-  - [5pb.](../Page/5pb..md "wikilink") - 主にゲーム音楽向けが中心。一部タイトルを除き、アニメ向けタイトルを含め大半は[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")（[KADOKAWA](../Page/角川グループホールディングス.md "wikilink")）が販売委託元。
-  - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink") - TBS系放映向けにて制作された[旧葦プロの合体ロボットアニメ三部作において](https://ja.wikipedia.org/wiki/プロダクション_リード "wikilink")、セルDVD-BOXの共同発売・販売を行っている。また、一部作品でも音楽制作のみ担当していたこともある。
+  - [5pb.](../Page/5pb..md "wikilink") - 主にゲーム音楽向けが中心。一部タイトルを除き、アニメ向けタイトルを含め大半は[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）が販売委託元。
+  - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink") - TBS系放映向けにて制作された[旧葦プロの合体ロボットアニメ三部作において](../Page/葦プロダクション.md "wikilink")、セルDVD-BOXの共同発売・販売を行っている。また、一部作品でも音楽制作のみ担当していたこともある。
       - [バンダイナムコアーツ](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink") - Mellow Headレーベルのみ販売協力提携。但し両社間でのレーベル運営における契約終了に伴い、現在はレーベル廃止となっている。
   - [小学館](../Page/小学館.md "wikilink")ビデオ - 原作本の版元が小学館となっている作品の一部（ジェネオンが映像作品制作に参加しているもの）。主にテレビ東京向けアニメ作品が中心。
 
@@ -363,6 +367,8 @@
 2.  [規格品番](../Page/規格品番.md "wikilink")は**GN**（GeNeon）が引き続き使われている。
 3.
 4.
-5.  2011年8月1日付でI'veから独立、同時に[ワーナー・ホーム・ビデオへ移籍していたが](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、2018年2月3日にNBCユニバーサルへの復帰を発表した。
-6.  ただし彼女の場合は[ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（当時の[キティレコード](https://ja.wikipedia.org/wiki/マーキュリー・レコード#マーキュリー・ミュージックエンタテインメント "wikilink")）を経ての一時的移籍ということになっていたため、彼女の歌手デビューの契機でもある[『エヴァンゲリオン』](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")[新劇場版プロジェクト始動の際に古巣の](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")[キング](../Page/キングレコード.md "wikilink")（スターチャイルド）へ再移籍を表明。
-7.
+5.
+6.
+7.  2011年8月1日付でI'veから独立、同時に[ワーナー・ホーム・ビデオへ移籍していたが](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、2018年2月3日にNBCユニバーサルへの復帰を発表した。
+8.  ただし彼女の場合は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（当時の[キティレコード](https://ja.wikipedia.org/wiki/マーキュリー・レコード#マーキュリー・ミュージックエンタテインメント "wikilink")）を経ての一時的移籍ということになっていたため、彼女の歌手デビューの契機でもある[『エヴァンゲリオン』](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")[新劇場版プロジェクト始動の際に古巣の](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")[キング](../Page/キングレコード.md "wikilink")（スターチャイルド）へ再移籍を表明。
+9.

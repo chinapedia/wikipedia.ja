@@ -7,6 +7,7 @@
   - [GB規格](https://ja.wikipedia.org/wiki/中華人民共和国国家標準 "wikilink") () - [中華人民共和国](../Page/中華人民共和国.md "wikilink")の国家規格群
       - [GB 2312](../Page/GB_2312.md "wikilink") - [文字コード](../Page/文字コード.md "wikilink")
   - [GB積](https://ja.wikipedia.org/wiki/GB積 "wikilink") (gain band width product)
+  - [ABXエア](https://ja.wikipedia.org/wiki/ABXエア "wikilink")
   - [グリーンバック](https://ja.wikipedia.org/wiki/紙幣#その他 "wikilink") (greenback) - アメリカのかつての紙幣
   - グリーンバック (green back) - [クロマキー](../Page/クロマキー.md "wikilink")合成に用いられる緑色の背景。[ブルーバック](../Page/ブルーバック.md "wikilink")を参照のこと。
   - [グレートブリテン島](../Page/グレートブリテン島.md "wikilink") (Great Britain)

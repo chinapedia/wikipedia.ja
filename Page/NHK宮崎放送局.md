@@ -238,6 +238,7 @@
 
   - NHK宮崎放送局の[マスコットキャラクターとして](../Page/テレビ関連のマスコットキャラクター一覧.md "wikilink")**ファイト君**を採用している。
   - 九州・沖縄ブロックのNHK放送局の中では最初に、動画ニュースの配信を開始している。
+  - 2020年4月の[新型コロナウイルス緊急事態宣言発令時には](../Page/2019新型コロナウイルス.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")との3局合同で「コロナに負けない\!みやざきとともに」と題した新型コロナ対策啓発キャンペーンを展開。各局の夕方のローカルニュース番組に出演する女性キャスター\[1\]が登場するキャンペーンスポットを制作し、3局で放送している。
 
 ## 外部リンク
 
@@ -245,3 +246,5 @@
 
   -
 [Category:NHK宮崎](https://ja.wikipedia.org/wiki/Category:NHK宮崎 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:宮崎県のマスメディア](https://ja.wikipedia.org/wiki/Category:宮崎県のマスメディア "wikilink") [Category:九州・沖縄地方のテレビ局](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビ局 "wikilink") [Category:九州・沖縄地方のラジオ局](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のラジオ局 "wikilink") [Category:宮崎市の建築物](https://ja.wikipedia.org/wiki/Category:宮崎市の建築物 "wikilink")
+
+1.  本局は『 - イブニング宮崎』の宮崎香子、宮崎放送は『[MRTニュース Next](https://ja.wikipedia.org/wiki/MRTニュース_Next "wikilink")』の[加藤沙知](https://ja.wikipedia.org/wiki/加藤沙知 "wikilink")、テレビ宮崎は『[UMKスーパーニュース](../Page/UMKスーパーニュース.md "wikilink")』の[永井友梨](https://ja.wikipedia.org/wiki/永井友梨 "wikilink")。

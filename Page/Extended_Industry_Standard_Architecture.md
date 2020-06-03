@@ -1,7 +1,9 @@
 > この記事は[Extended Industry Standard Architecture](https://ja.wikipedia.org/wiki/Extended_Industry_Standard_Architecture)から翻訳されています。
 
 
-[300px](https://ja.wikipedia.org/wiki/ファイル:EISA_Bus.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Bussysteme_Extended_ISA_32Bit,_ISA_16Bit,_XT_8Bit.JPG "wikilink"), [ISA 16ビット](../Page/Industry_Standard_Architecture.md "wikilink"), EISA\]\] **Extended Industry Standard Architecture**（通常 **EISA** （イーアイサ）と略される）は、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")用に開発された32ビットコンピュータ[バスアーキテクチャである](../Page/バス_\(コンピュータ\).md "wikilink")。
+[300px](https://ja.wikipedia.org/wiki/ファイル:EISA_Bus.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Bussysteme_Extended_ISA_32Bit,_ISA_16Bit,_XT_8Bit.JPG "wikilink"), [ISA 16ビット](../Page/Industry_Standard_Architecture.md "wikilink"), EISA\]\]
+
+**Extended Industry Standard Architecture**（通常 **EISA** （イーアイサ）と略される）は、[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")用に開発された32ビットコンピュータ[バスアーキテクチャである](../Page/バス_\(コンピュータ\).md "wikilink")。
 
 ## 概要
 

@@ -133,7 +133,7 @@
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[7月1日](../Page/7月1日.md "wikilink") - 浦和支局を**浦和放送局**と改称。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - 浦和放送局、FM放送開始（[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")JOLP-FM）。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）[4月1日](../Page/4月1日.md "wikilink") - [さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")誕生に伴い、浦和放送局を**さいたま放送局**と改称。
-  - [2018年](../Page/2018年.md "wikilink")（平成30年）1月 - [エフエムナックファイブ](../Page/エフエムナックファイブ.md "wikilink")とのコラボレーションイベント『ナック(79.5MHz)に初恋(85.1MHz)！埼玉ラジオフェス』を共同開催し、パーソナリティーが相互の放送局に相乗り出演した。
+  - [2018年](../Page/2018年.md "wikilink")（平成30年）[1月28日](../Page/1月28日.md "wikilink") - [エフエムナックファイブ](../Page/エフエムナックファイブ.md "wikilink")とのコラボレーションイベント『ナック(79.5MHz)に初恋(85.1MHz)！埼玉ラジオフェス』を共同開催し、パーソナリティーが相互の放送局に相乗り出演した。
 
 ## 主なさいたま局制作番組
 
@@ -189,8 +189,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/與芝由三栄.md" title="wikilink">與芝由三栄</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a> |-<a href="../Page/伊藤博英.md" title="wikilink">伊藤博英</a>ＩＩ<a href="https://ja.wikipedia.org/wiki/NHK放送センター東京アナウンス室" title="wikilink">NHK放送センター東京アナウンス室</a></p></td>
-<td><p>契約キャスター</p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a> |-<a href="../Page/伊藤博英.md" title="wikilink">伊藤博英</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岩崎愛_(モデル)" title="wikilink">岩崎愛</a></p></td>

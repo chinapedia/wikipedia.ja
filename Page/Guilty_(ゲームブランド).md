@@ -68,6 +68,7 @@
   - 2018年12月14日 - [虜ノ旋律 -Refrain- 調律される処女たちと女教師](https://ja.wikipedia.org/wiki/虜ノ旋律_-Refrain-_調律される処女たちと女教師 "wikilink")
   - 2019年10月23日 - [虜ノ旋律 -refrain- if](https://ja.wikipedia.org/wiki/虜ノ旋律_-refrain-_if "wikilink")
   - 2019年12月20日 - [孕女 ～精子を欲しがる淫らな教え子～](https://ja.wikipedia.org/wiki/孕女_～精子を欲しがる淫らな教え子～ "wikilink")
+  - 2020年6月26日 - 虜ノ絆 ～奪われた学園に響く処女の喘ぎ～
 
 ### GuiltyN
 
@@ -122,7 +123,7 @@
 
   - 2014年[4月25日](../Page/4月25日.md "wikilink") - 姉を助けるため残された姉妹を穢す背徳の日々
 
-### Guilty×material
+### Guilty Nightmare Project
 
   - 2020年[2月28日](../Page/2月28日.md "wikilink") - Nightmare×Sisters ～淫獄のサクリファイス～
 
@@ -156,6 +157,8 @@
 ## 外部リンク
 
   - [Guilty & Guilty+](http://www.guilty-soft.com)（<span style="color:red">18禁</span>：年齢確認あり）
+
+  -
 
 [Category:ウィルプラス](https://ja.wikipedia.org/wiki/Category:ウィルプラス "wikilink")
 

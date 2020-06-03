@@ -57,7 +57,7 @@
       - [es (映画)](https://ja.wikipedia.org/wiki/es_\(映画\) "wikilink") - 2002年に公開された[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")[映画](../Page/映画.md "wikilink")。
       - [es (ゲーム)](https://ja.wikipedia.org/wiki/es_\(ゲーム\) "wikilink") - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ゲームソフト。
       - [【es】 Mr.Children in FILM](../Page/【es】_Mr.Children_in_FILM.md "wikilink") - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[ドキュメント映画](https://ja.wikipedia.org/wiki/ドキュメント映画 "wikilink")。
-      - [【es】 ～Theme of es～](https://ja.wikipedia.org/wiki/【es】_～Theme_of_es～ "wikilink") - そのテーマソング
+      - [【es】 ～Theme of es～](https://ja.wikipedia.org/wiki/【es】_～Theme_of_es～ "wikilink") - 上記の映画『[【es】 Mr.Children in FILM](../Page/【es】_Mr.Children_in_FILM.md "wikilink")』のテーマソング
   - その他の固有名詞
       - [W-ZERO3](../Page/W-ZERO3.md "wikilink")\[es\] - [シャープ](../Page/シャープ.md "wikilink")製の[ウィルコム](../Page/ウィルコム.md "wikilink")向け[PHS](../Page/PHS.md "wikilink")端末のひとつ。型番WS007SH。
       - [es (プロレス)](https://ja.wikipedia.org/wiki/es_\(プロレス\) "wikilink") - [全日本プロレス](../Page/全日本プロレス.md "wikilink")のタッグチーム。

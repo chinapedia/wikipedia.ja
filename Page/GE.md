@@ -1,8 +1,6 @@
 > この記事は[GE](https://ja.wikipedia.org/wiki/GE)から翻訳されています。
 
 
-**GE**jj
-
 ## GE
 
   - 地名

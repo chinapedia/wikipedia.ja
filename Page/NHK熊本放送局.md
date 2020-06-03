@@ -147,10 +147,10 @@
 <td><p>熊本県出身</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/池田達郎.md" title="wikilink">池田達郎</a>*</p></td>
-<td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
-<td></td>
-<td></td>
+<td><p>池田達郎</p></td>
+<td><p>名古屋</p></td>
+<td><p>熊本県のニュース 放送部副部長</p></td>
+<td><p>熊本県出身</p></td>
 </tr>
 <tr class="odd">
 <td><p>契約キャスター</p></td>

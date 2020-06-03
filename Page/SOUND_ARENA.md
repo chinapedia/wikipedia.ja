@@ -132,7 +132,7 @@
 <tr class="even">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
-<td><p>現在は<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p><a href="../Page/1993年.md" title="wikilink">1993年</a>4月1日より<a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

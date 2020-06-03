@@ -1,7 +1,7 @@
 > この記事は[NHK千葉放送局](https://ja.wikipedia.org/wiki/NHK千葉放送局)から翻訳されています。
 
 
-**NHK千葉放送局**（エヌエイチケイちばほうそうきょく）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")内向けに[FM放送を行っている](../Page/超短波放送.md "wikilink")。AM放送・地上テレビジョン放送は[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域局扱いとして](../Page/広域放送.md "wikilink")[東京本局からカバー](../Page/NHK放送センター.md "wikilink")・中継されている。
+**NHK千葉放送局**（エヌエイチケイちばほうそうきょく）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")内向けに[FM放送を行っている](../Page/超短波放送.md "wikilink")。AM放送・地上テレビジョン放送は[関東](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[広域局扱いとして](../Page/広域放送.md "wikilink")[NHK放送センター](../Page/NHK放送センター.md "wikilink")からカバー・中継されている。
 
 ## 沿革
 

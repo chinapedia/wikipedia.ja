@@ -9,7 +9,7 @@
 
 『[24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』放送時においては、2004年以前には途中でイベント放送を打ち切り、6:45にはニューススタジオに移っていた（武道館アナウンサーが「（途中ですが、）ここでニュースです」とアナウンスを入れる。ただし、武道館ではイベントを続行させる）。この時のBGMは、ニュースサンデー（朝のニュース時代から）のオープニングの後、「手話通訳同時放送」のコメント（後述）をする際にバックでかかっていた曲である。しかし、2005年からはアナウンスの後に「NNNニュースサンデー」のロゴを挿入するようになった（ただし、枠が10分間であるためローカル枠は6:53頃（通常より3、4分早い）から）。2011年放送分のタイムテーブルでは6:45 - 6:57までとなっている。
 
-セットは2016年12月4日から『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』（2006年3月までは『[ニュース朝いち430](../Page/ニュース朝いち430.md "wikilink")』のセット、2016年11月27日までは『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』のセット）のセットから放送している（麹町の頃は『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』のセットから放送していた）。 また、2004年2月29日に汐留に移転して初めて生放送した番組が本番組である（この時の放送は当時担当していた[延友陽子](https://ja.wikipedia.org/wiki/延友陽子 "wikilink")）。汐留に移転後初回は通常とは異なり、報道スタジオではなく報道局顔出しブース(通称報道フロア)から放送された。
+スタジオセットは2016年12月4日から『[news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")』（2006年3月までは『[ニュース朝いち430](../Page/ニュース朝いち430.md "wikilink")』、2016年11月27日までは『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』のスタジオ）のスタジオと共用している（なお、2004年2月22日までは麹町社屋の『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』のスタジオセットから放送していた）。 また、2004年2月29日に汐留に移転して初めて生放送した番組が本番組である（この時の放送は当時担当していた[延友陽子](https://ja.wikipedia.org/wiki/延友陽子 "wikilink")）。汐留に移転後初回は通常とは異なり、報道スタジオではなく報道局顔出しブース(通称報道フロア)から放送された。
 
 2011年10月9日からは編成上の音声が[ステレオに変更されスタジオ音声はBGMや効果音も含めて](../Page/ステレオ放送.md "wikilink")[モノラル音源の状態だったが](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")、2016年4月3日からフルステレオ放送になった。
 
@@ -247,8 +247,8 @@
 
 ### 備考
 
-  - 原則として番組終了は6:27.45であるが、6:28.00や6:28.15で終了したりすることがたびたびあり変則的である。
-  - 過去にはニュースフラッシュがあり、BGMはかつて『[日曜夕刊](../Page/NNN日曜夕刊.md "wikilink")』で使われていたものと同じだった。
+  - 原則として番組終了は6:27.45であるが、6:28.00や6:28.15で終了したりすることも度々あるため変則的である。
+  - 過去にはニュースフラッシュがあり、その際のBGMはかつて『[日曜夕刊](../Page/NNN日曜夕刊.md "wikilink")』や初期の『[ニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』で使われていたものと同じだった。
   - なお、天気コーナーでバックに流れるBGMは長らく[ノーマン・ブラウン](../Page/ノーマン・ブラウン.md "wikilink")の「TOGETHER AT LAST」が2016年3月27日まで使用されていたが、同年4月3日からは別のBGMに変更された。地方局への配慮のため、ローカル枠の直前に一旦BGMがフェードアウトする。
 
 ## ネット局
@@ -298,7 +298,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -340,7 +340,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -459,5 +459,5 @@
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:NNN番組](https://ja.wikipedia.org/wiki/Category:NNN番組 "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:三菱グループ単独提供番組](https://ja.wikipedia.org/wiki/Category:三菱グループ単独提供番組 "wikilink") [Category:明治安田生命保険](https://ja.wikipedia.org/wiki/Category:明治安田生命保険 "wikilink") [Category:24時間テレビ](https://ja.wikipedia.org/wiki/Category:24時間テレビ "wikilink")
 
-1.  かつては[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")でも、『**ABSニュース・サンデー〜NNN〜**』とタイトルを差し替えていた。
+1.  かつては[秋田放送](../Page/秋田放送.md "wikilink")でも、『**ABSニュース・サンデー〜NNN〜**』とタイトルを差し替えていた。
 2.  フジテレビ系の国際的スポーツ中継が当番組の放送時間と重なった場合は当番組のネットを返上しそちらを優先する場合がある。

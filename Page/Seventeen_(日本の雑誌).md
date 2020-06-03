@@ -219,7 +219,7 @@
 <td><p>きよはら かや</p></td>
 <td><p>2002年1月30日(歳)</p></td>
 <td><p>2018年9月号</p></td>
-<td><p>7</p></td>
+<td><p>8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アミューズ" title="wikilink">アミューズ</a></p></td>
 <td><p><small>『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』（専属） より移籍</small></p></td>
 <td></td>
@@ -295,12 +295,12 @@
 <td><p><small> 『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』 （専属） より移籍</small></p></td>
 </tr>
 <tr class="odd">
-<td><p>雑賀サクラ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/雑賀サクラ" title="wikilink">雑賀サクラ</a></p></td>
 <td><p>さいが さくら</p></td>
 <td><p>2005年3月31日(歳)</p></td>
 <td><p>2019年10月号</p></td>
 <td><p>0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オウサム" title="wikilink">オウサム</a></p></td>
+<td><p><a href="../Page/レプロエンタテインメント.md" title="wikilink">レプロエンタテインメント</a></p></td>
 <td><p>ミスST2019</p></td>
 <td></td>
 </tr>
@@ -797,7 +797,7 @@
 
 [1970年](../Page/1970年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")まで、「**ミスセブンティーン**」と題したオーディション大会を開催していた。
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")大会は[坂口良子](../Page/坂口良子.md "wikilink")がグランプリ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")大会では[松田聖子](../Page/松田聖子.md "wikilink")が地区大会でスカウトされた。中でも[1984年](../Page/1984年.md "wikilink")大会は非常に水準の高い大会となり（応募総数歴代最大18万325人）、[松本典子](../Page/松本典子.md "wikilink")や[網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")らがグランプリを受賞し、入賞者の全てが歌手ないしは女優としてデビューしている。[国生さゆり](../Page/国生さゆり.md "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")、\[\[工藤静香\]、\[\[渡辺満里奈|工藤静香\]、[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")、[清原亜希](https://ja.wikipedia.org/wiki/清原亜希 "wikilink")などが出場していた。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")大会は[坂口良子](../Page/坂口良子.md "wikilink")がグランプリ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")大会では[松田聖子](../Page/松田聖子.md "wikilink")が地区大会でスカウトされた。中でも[1984年](../Page/1984年.md "wikilink")大会は非常に水準の高い大会となり（応募総数歴代最大18万325人）、[松本典子](../Page/松本典子.md "wikilink")や[網浜直子](https://ja.wikipedia.org/wiki/網浜直子 "wikilink")らがグランプリを受賞し、入賞者の全てが歌手ないしは女優としてデビューしている。[国生さゆり](../Page/国生さゆり.md "wikilink")、[渡辺美里](../Page/渡辺美里.md "wikilink")、[工藤静香](../Page/工藤静香.md "wikilink")、[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")、[清原亜希](https://ja.wikipedia.org/wiki/清原亜希 "wikilink")などが出場していた。
 
 [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の大会では、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")を生み出した[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[夕やけニャンニャン](../Page/夕やけニャンニャン.md "wikilink")』との合同オーディションを開催した（出場者の中から7名がおニャン子クラブのメンバー、及び、おニャン子クラブB組に選出された）。募集要項に記されていたグランプリ獲得者への優勝特典“ソロデビュー”と、“おニャン子クラブ内の[新ユニットへの参加](../Page/うしろ髪ひかれ隊.md "wikilink")”は実現されなかった。
 
@@ -866,7 +866,7 @@
 
 ## 外部リンク
 
-  - [Seventeen ONLINE（セブンティーンオンライン）](http://hpplus.jp/st/)
+  - [Seventeen / ST Channel](https://st-channel.jp/)
 
   -
   -

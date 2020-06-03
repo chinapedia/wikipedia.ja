@@ -1,7 +1,7 @@
 > この記事は[ホンダ・NSX](https://ja.wikipedia.org/wiki/ホンダ・NSX)から翻訳されています。
 
 
-**NSX**（エヌエスエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産、販売していた2シーターの[スーパーカーである](../Page/スポーツカー.md "wikilink")。本稿ではNSXタイプS(NSX-S)、NSXタイプR(NSX-R)についても述べる。
+**NSX**（エヌエスエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産、販売していた2シーターの[スポーツカー](../Page/スポーツカー.md "wikilink")である。本稿ではNSXタイプS(NSX-S)、NSXタイプR(NSX-R)についても述べる。
 
 ## 概要
 
@@ -33,7 +33,13 @@
 
 ### I型 E-NA1型（1990-1997年）
 
-1990年に登場した。エンジンは前述の通りC30A型エンジンを搭載している。また、通常仕様のクーペから快適装備を外して軽量化を図ったピュアスポーツグレードの「[タイプR](https://ja.wikipedia.org/wiki/ホンダ・NSXタイプR "wikilink")」が、[1992年](../Page/1992年.md "wikilink")[11月](../Page/11月.md "wikilink")から3年間の期間限定で日本国内でのみラインアップされた。 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Rétromobile_2017_-_Honda_NSX_-_1994_-_003.jpg "wikilink") [1994年](../Page/1994年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に最初の[マイナーチェンジ](https://ja.wikipedia.org/wiki/マイナーチェンジ "wikilink")が行われ、45/40扁平タイヤがオプション設定された。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に2度目のマイナーチェンジが行われ、[ドライブ・バイ・ワイヤ](../Page/ドライブ・バイ・ワイヤ.md "wikilink")（DBW）やAT仕様車にFマチック（ステアリングコラムのスイッチによるマニュアルシフト）が追加された。また、オープントップ（[タルガトップ](../Page/タルガトップ.md "wikilink")）仕様の「タイプT」が追加された。
+1990年に登場した。エンジンは前述の通りC30A型エンジンを搭載している。また、通常仕様のクーペから快適装備を外して軽量化を図ったピュアスポーツグレードの「[タイプR](https://ja.wikipedia.org/wiki/ホンダ・NSXタイプR "wikilink")」が、[1992年](../Page/1992年.md "wikilink")[11月](../Page/11月.md "wikilink")から3年間の期間限定で日本国内でのみラインアップされた。 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Rétromobile_2017_-_Honda_NSX_-_1994_-_003.jpg "wikilink")
+
+[1993年](../Page/1993年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に助手席エアバッグ、シートベルトプリテンショナー及び5速マニュアル車に電動パワーステアリングがオプション設定された。
+
+[1994年](../Page/1994年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に最初の[マイナーチェンジ](https://ja.wikipedia.org/wiki/マイナーチェンジ "wikilink")が行われ、45/40扁平タイヤがオプション設定された。
+
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に2度目のマイナーチェンジが行われ、[ドライブ・バイ・ワイヤ](../Page/ドライブ・バイ・ワイヤ.md "wikilink")（DBW）やAT仕様車にFマチック（ステアリングコラムのスイッチによるマニュアルシフト）が追加された。また、オープントップ（[タルガトップ](../Page/タルガトップ.md "wikilink")）仕様の「タイプT」が追加された。
 
 #### タイプR
 

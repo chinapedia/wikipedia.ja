@@ -37,6 +37,7 @@
 
   - [GTバイシクルズ](../Page/GTバイシクルズ.md "wikilink") - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の自転車メーカー・ブランド
   - [後藤総合車両所](../Page/後藤総合車両所.md "wikilink") () - JR西日本の車両基地、車両工場。
+  - [桂林航空](https://ja.wikipedia.org/wiki/桂林航空 "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink") - 男女2人組音楽ユニット。GTの由来は上記のグランドツアーから。
   - [GIRL'S TALK](https://ja.wikipedia.org/wiki/GIRL'S_TALK "wikilink") - 女性コミュニティWebサービス <http://www.ca-girlstalk.jp/>
   - [グラントソントン](https://ja.wikipedia.org/wiki/グラントソントン・インターナショナル "wikilink") (Grant Thornton)

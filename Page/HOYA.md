@@ -17,7 +17,7 @@
 
 ## 沿革
 
-  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")11月 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身の[山中正一](https://ja.wikipedia.org/wiki/山中正一 "wikilink")、[山中茂](https://ja.wikipedia.org/wiki/山中茂 "wikilink")の兄弟が[東京府](../Page/東京府.md "wikilink")[北多摩郡](../Page/北多摩郡.md "wikilink")[保谷町](../Page/保谷市.md "wikilink")（現在の[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")）で東洋光学硝子製造所を創業。[光学ガラス](https://ja.wikipedia.org/wiki/光学ガラス "wikilink")製造に着手。
+  - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")11月 - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身の[山中正一](https://ja.wikipedia.org/wiki/山中正一 "wikilink")、[山中茂](https://ja.wikipedia.org/wiki/山中茂 "wikilink")の兄弟が[東京府](../Page/東京府.md "wikilink")[北多摩郡](../Page/北多摩郡.md "wikilink")[保谷町下保谷](../Page/保谷市.md "wikilink")801（現在の[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")下保谷2丁目8）で東洋光学硝子製造所を創業。[光学ガラス](https://ja.wikipedia.org/wiki/光学ガラス "wikilink")製造に着手。
   - [1944年](../Page/1944年.md "wikilink")8月 - [資本金](../Page/資本金.md "wikilink")120万円の株式会社に改組。商号を株式会社東洋光学硝子製造所に変更。
   - [1945年](../Page/1945年.md "wikilink")10月 - クリスタルガラス食器製造開始。
   - [1947年](../Page/1947年.md "wikilink")8月 - 商号を株式会社保谷クリスタル硝子製造所に変更。

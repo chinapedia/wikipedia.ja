@@ -13,9 +13,10 @@
   - [ドイツ船級協会](https://ja.wikipedia.org/wiki/ドイツ船級協会 "wikilink")（）
   - ガールズラブ (girls love) → [百合 (ジャンル)](../Page/百合_\(ジャンル\).md "wikilink")
   - [グループリーグ](../Page/グループリーグ.md "wikilink")（）
-  - [ISO/IEC 2022で](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")、0x20 - 0x7Fの領域。（）
+  - [グリーンランド航空](https://ja.wikipedia.org/wiki/グリーンランド航空 "wikilink")
+  - [ISO/IEC 2022で](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")、0x20 - 0x7Fの領域。（)
   - [グッドラック](https://ja.wikipedia.org/wiki/グッドラック "wikilink")（）
-      - glhf - ネット対戦ゲームの開始時に使われるあいさつ "good luck have fun" の略。日本語の「よろしく」に相当する。
+  - glhf - ネット対戦ゲームの開始時に使われるあいさつ "good luck have fun" の略。日本語の「よろしく」に相当する。
   - 地名
       - [グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")
       - [グラールス州](../Page/グラールス州.md "wikilink")（）の[スイス州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")

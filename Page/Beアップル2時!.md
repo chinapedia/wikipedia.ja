@@ -28,7 +28,7 @@
 
 ## 番組ネット局
 
-『2時のワイドショー』から引き継がれた局に加えてこの番組より[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")が参加した。なお、[山形放送](../Page/山形放送.md "wikilink")がネット参加するのは、『ザ・ワイド』からである。
+『2時のワイドショー』から引き継がれた局に加えてこの番組より[秋田放送](../Page/秋田放送.md "wikilink")が参加した。なお、[山形放送](../Page/山形放送.md "wikilink")がネット参加するのは、『ザ・ワイド』からである。
 
 系列は放送当時のものを記載。
 
@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a> (ABS)</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a> (ABS)</p></td>
 <td></td>
 <td></td>
 </tr>

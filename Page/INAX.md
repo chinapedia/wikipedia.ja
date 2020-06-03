@@ -148,6 +148,7 @@
   - [美味しんぼ](../Page/美味しんぼ.md "wikilink")（日本テレビ）
   - [クイズ どんなMONだい?\!](../Page/クイズ_どんなMONだい?!.md "wikilink")（日本テレビ）
   - [JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")・平日の隔日）※1980年代に[日本生命と共にナショナルスポンサー](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink")。
+  - [JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")（TBS）
   - [大改造\!\!劇的ビフォーアフター](../Page/大改造!!劇的ビフォーアフター.md "wikilink")（[ABC制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）※競合会社の[TOTOと提供](../Page/TOTO_\(企業\).md "wikilink")（現在も）。同じLIXILブランドである[TOEXもスポンサーだった](https://ja.wikipedia.org/wiki/東洋エクステリア "wikilink")。
   - [トイレの神様](https://ja.wikipedia.org/wiki/トイレの神様 "wikilink")（[MBS制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・TBS系列、冠スポンサー） ほか
 

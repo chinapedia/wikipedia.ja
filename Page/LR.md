@@ -23,7 +23,7 @@
 ## 企業・団体
 
   - [ランドローバー](../Page/ランドローバー.md "wikilink") (land rover) - 自動車メーカー、およびその商標。
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") (JOLR(-DTV)) - 日本のテレビ局。
+  - [北日本放送](../Page/北日本放送.md "wikilink") (JOLR(-DTV)) - 日本のテレビ局。
   - [ロイズ船級協会](https://ja.wikipedia.org/wiki/ロイズ船級協会 "wikilink") (Lloyd's Register of Shipping) - 船舶などの検査を行う[船級協会](../Page/船級協会.md "wikilink")のひとつ。
 
 ## 製品・商標

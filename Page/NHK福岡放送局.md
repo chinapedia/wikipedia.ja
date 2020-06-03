@@ -448,7 +448,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/猪原智紀" title="wikilink">猪原智紀</a>*</p></td>
 <td><p>北九州</p></td>
-<td></td>
+<td><p>北九州市出身</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -10,7 +10,7 @@
 
 ## 正式名称
 
-  - [CU (コンビニエンスストア)](https://ja.wikipedia.org/wiki/CU_\(コンビニエンスストア\) "wikilink") - [韓国の大手](../Page/大韓民国.md "wikilink")[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")チェーン。BGFリテール（旧普光[ファミリーマート](../Page/ファミリーマート.md "wikilink")）が運営する。
+  - [CU (コンビニエンスストア)](https://ja.wikipedia.org/wiki/CU_\(コンビニエンスストア\) "wikilink") - [韓国の大手](../Page/大韓民国.md "wikilink")[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")チェーン。[BGFリテール](https://ja.wikipedia.org/wiki/BGFリテール "wikilink")（旧普光[ファミリーマート](../Page/ファミリーマート.md "wikilink")）が運営する。
 
 ## 略語・略称
 

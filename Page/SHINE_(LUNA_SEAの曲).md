@@ -5,7 +5,7 @@
 
 ## 解説
 
-活動再開後シングル3枚連続リリースの第2弾。元々本作がシングルになる予定ではなく、4月に「[STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")」、6月に「[I for You](../Page/I_for_You.md "wikilink")」の2枚連続リリースを予定していたが、「I for You」の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")が決定した影響でリリースを7月にまわされたのがきっかけで、もう1作真ん中にシングルとして「SHINE」を切ろうということになったらしい。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+活動再開後シングル3枚連続リリースの第2弾。元々本作がシングルになる予定ではなく、4月に「[STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")」、6月に「[I for You](../Page/I_for_You.md "wikilink")」の2枚連続リリースを予定していたが、「I for You」の[ドラマ](../Page/テレビドラマ.md "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")が決定した影響でリリースを7月にまわされたのがきっかけで、もう1作真ん中にシングルとして「SHINE」を切ろうということになったらしい。
 
 ## 収録曲
 

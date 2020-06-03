@@ -138,7 +138,7 @@
     11. 2015年4月24日発売\[23\]、『Cookie』2014年9月号 - 2015年3月号\[24\]、ISBN 978-4-08-867369-1
     12. 2016年8月25日発売\[25\]、『[Cookie電子版](https://ja.wikipedia.org/wiki/Cookie_\(雑誌\)#姉妹誌他 "wikilink")』2016年3月号\[26\] - 7月号、ISBN 978-4-08-867428-5
           - Bar OBANA\[27\]（『Cookie』2013年9月号）
-          - こどものおもちゃ-なんにもない日々-\[28\]（『りぼん』2015年9月号）
+          - こどものおもちゃ-なんにもない日々-\[28\]（『[りぼん](https://ja.wikipedia.org/wiki/りぼん "wikilink")』2015年9月号）
     13. 2017年8月25日発売\[29\]、『Cookie電子版』2016年9月号、2017年1月号 - 9月号、ISBN 978-4-08-867472-8
     14. 2019年2月25日発売\[30\]\[31\]、『Cookie電子版』2017年11月号 - 2018年5月号、2018年9月号 - 2019年1月号\[32\]、ISBN 978-4-08-867540-4
   - 小花美穂 『Deep Clear「Honey Bitter」×「[こどものおもちゃ](../Page/こどものおもちゃ.md "wikilink")」特別番外編』 集英社 〈愛蔵版コミックス〉、全1巻
@@ -150,7 +150,7 @@
 
   - [作品紹介『Honey Bitter』](http://cookie.shueisha.co.jp/story/06.html)
 
-[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:Cookie](https://ja.wikipedia.org/wiki/Category:Cookie "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink")
+[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:Cookie](https://ja.wikipedia.org/wiki/Category:Cookie "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink")
 
 1.
 2.

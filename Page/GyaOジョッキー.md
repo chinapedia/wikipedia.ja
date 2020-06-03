@@ -1,15 +1,16 @@
 > この記事は[GyaOジョッキー](https://ja.wikipedia.org/wiki/GyaOジョッキー)から翻訳されています。
 
 
-『**GyaOジョッキー**』（ギャオジョッキー）とは、株式会社GyaO\!(2009年3月まで株式会社[USEN](../Page/USEN.md "wikilink")が運営)の無料動画配信サービス「[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」で2006年11月13日から配信開始された「[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")」番組の時間帯枠。
+『**GyaOジョッキー**』（ギャオジョッキー）とは、株式会社GyaO\!（2009年3月まで株式会社[USEN](../Page/USEN.md "wikilink")）が運営する無料[動画配信](https://ja.wikipedia.org/wiki/動画配信 "wikilink")サービス「[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」で2006年11月13日から2009年8月28日まで配信された「[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")」番組の時間帯枠。
 
-なお過去放送されていた「Go\!Go\! GyaO」は正確にはGyaOジョッキーとは別枠として存在していた。最大のウリは「生放送、チャット機能で出演者とリアルタイムコミュニケーション」であり、GyaOジョッキーの中にも様々な番組を[東京ミッドタウン](../Page/東京ミッドタウン.md "wikilink")34階から生放送およびアーカイブを配信している。22時-25時の放送時間を2009年から21時-24時と1時間繰り上げることになった。しかし、諸般の事情により2009年8月28日をもって閉局。
+最大のウリは「生放送、チャット機能で出演者とリアルタイムコミュニケーション」であり、GyaOジョッキーの中にも様々な番組を[東京ミッドタウン](../Page/東京ミッドタウン.md "wikilink")34階から[生放送および](https://ja.wikipedia.org/wiki/ライブストリーミング "wikilink")[アーカイブで配信していた](../Page/ビデオ・オン・デマンド.md "wikilink")。2009年から22時-25時の放送時間を21時-24時と1時間繰り上げることになったが、諸般の事情で2年9ヶ月余りで閉局となった。
+なお、過去放送されていた「Go\!Go\! GyaO」は正確にはGyaOジョッキーとは別枠として存在していた。
 
 ## 概要
 
   - 配信システムは[マイクロソフト](../Page/マイクロソフト.md "wikilink")の[DRM技術を採用した](../Page/デジタル著作権管理.md "wikilink")[wmv/asfである](../Page/Windows_Media_Video.md "wikilink")。[Silverlightには対応していないため](../Page/Microsoft_Silverlight.md "wikilink")[Windows 2000以降の](https://ja.wikipedia.org/wiki/Windows_2000 "wikilink")[Internet Explorerまたは](../Page/Internet_Explorer.md "wikilink")[Windows Media Playerのみで視聴可能](../Page/Windows_Media_Player.md "wikilink")。
-  - 放送時間は、月曜-金曜の21:00-24:00で土日祝日は放送休止\[1\]となる。
-  - 24:00以降の番組は特番などの扱いになるが、27:00前後にサイトを更新すると再放送に自動的に移行される。また、特番は基本27:00まで\[2\]の放送となる。
+  - 放送時間は、月曜-金曜の21:00-24:00で土日祝日は放送休止\[1\] となる。
+  - 24:00以降の番組は特番などの扱いになるが、27:00前後にサイトを更新すると再放送に自動的に移行される。また、特番は基本27:00まで\[2\] の放送となる。
   - チャット機能は24時間使用可能で、出演者がチャットに参加する事もある。\[3\]
   - 生放送された番組は、[アーカイブ](../Page/アーカイブ.md "wikilink")として配信される。ただし、アーカイブになるのは、GyaO上層部から承諾の出た番組のみ生放送から1〜2週間後に公開される。今までは無期限でアーカイブ配信されていたが、2009年7月10日よりアーカイブ配信期間が基本1ヶ月となるため現在放送中の番組以外のアーカイブはすべて削除される\[4\]。
   - 生放送での不適当発言はアーカイブでは規制音(ピー音)かカット編集される。また、番組映像によっては、不適正な部分にモザイクをかけることがある。
@@ -24,7 +25,7 @@
 
 ### GyaOジョッキー生放送全番組枠終了
 
-2009年7月19日の[岡田斗司夫](https://ja.wikipedia.org/wiki/岡田斗司夫 "wikilink")のブログ[「岡田斗司夫のゼネラル・プロダクツ」(記事は現在削除済み)](http://okada.otaden.jp/e49239.html)において、Yahoo\!動画側の経営方針に従ってGyaOジョッキー全番組枠終了の旨が書かれた記事が掲載された。公式発表でなかったが、それによりいろんな憶測情報が出た。
+2009年7月19日の[岡田斗司夫](../Page/岡田斗司夫.md "wikilink")のブログ [「岡田斗司夫のゼネラル・プロダクツ」(記事は現在削除済み)](http://okada.otaden.jp/e49239.html) において、Yahoo\!動画側の経営方針に従ってGyaOジョッキー全番組枠終了の旨が書かれた記事が掲載された。公式発表でなかったが、それによりいろんな憶測情報が出た。
 
 しかし、2009年7月24日の生放送終了後公式サイトにて8月28日をもって生放送を終了することが正式に発表された。約3年間というインターネット生放送媒体としては非常に短い放送期間での終了となった。
 
@@ -32,11 +33,11 @@
 
 ### 新サイトGYAO\!での扱い
 
-一部動画は、放送期間が無期限でアーカイブが月1回数話ずつ更新されていた。また、期間限定で配信されているものもある。ただし、中野腐女子シスターズやオードリー\[5\]などGyaOでも人気だった番組はいまだにアーカイブ放送が復活していない。また、[GyaO@ShowTimeでも](https://ja.wikipedia.org/wiki/Rakuten_TV#ShowTime "wikilink")、エロパラシリーズが一部公開されているのみで残りのアーカイブの視聴方法は現在のところない。さらに、生放送の放送・進行業務などは電子公園がやっていたが運営をUSENが行っていたため、動画の著作権はUSENが持っており、ⒸUSEN CORPORATIONと表記されている。その後、岡田斗司夫が孫正義に直談判するなどして復活したアーカイブもある。このアーカイブについて、神戸敏行は[ニコジョッキー](https://ja.wikipedia.org/wiki/ニコジョッキー "wikilink")内のズラサンミーティングにて『今のGyaO\!もUSENもアーカイブ復活に協力してくれると思うが、1つだけ何が何でも協力しないところ(電子公園)がある。』と語っており、すべてのアーカイブ復活には時間がかかるようである。
+一部動画は、放送期間が無期限でアーカイブが月1回数話ずつ更新されていた。また、期間限定で配信されているものもある。ただし、中野腐女子シスターズやオードリー\[5\] などGyaOでも人気だった番組はいまだにアーカイブ放送が復活していない。また、[GyaO@ShowTimeでも](https://ja.wikipedia.org/wiki/Rakuten_TV#ShowTime "wikilink")、エロパラシリーズが一部公開されているのみで残りのアーカイブの視聴方法は現在のところない。さらに、生放送の放送・進行業務などは電子公園がやっていたが運営をUSENが行っていたため、動画の著作権はUSENが持っており、ⒸUSEN CORPORATIONと表記されている。その後、岡田斗司夫が孫正義に直談判するなどして復活したアーカイブもある。このアーカイブについて、神戸敏行は[ニコジョッキー](https://ja.wikipedia.org/wiki/ニコジョッキー "wikilink")内のズラサンミーティングにて『今のGyaO\!もUSENもアーカイブ復活に協力してくれると思うが、1つだけ何が何でも協力しないところ(電子公園)がある。』と語っており、すべてのアーカイブ復活には時間がかかるようである。
 
 ### 復活に向けて
 
-2010年4月、ズラサンこと神戸敏行から裏GyaO等に「ジョッキー復活に向けて活動を継続していたが、協力してくれそうな会社が見つかった」という旨の書き込みがあった。さらにその数日後、電子公園のサイト内に「○○○JOCKEY 復活への道 - produce by ズラサン -」というアンケート・ページが設置された（[外部リンク参照](https://ja.wikipedia.org/wiki/GyaOジョッキー#外部リンク "wikilink")）。もし復活出来るとすれば、今夏を予定として目指していたが、2010年9月の同社サイト書き換えにより神戸敏行が代表取締役から解任されたことが分かった。上記アンケートサイトも後に閉鎖されたが、2011年3月に神戸のTwitter\[6\]にて同年5月より[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")内の有料コンテンツとして復活する予定であることが明かされた。番組タイトルは「[ニコジョッキー](https://ja.wikipedia.org/wiki/ニコジョッキー "wikilink")」で、初回は7月5日で正式な配信開始は2011年7月14日の予定。\[7\]
+2010年4月、ズラサンこと神戸敏行から裏GyaO等に「ジョッキー復活に向けて活動を継続していたが、協力してくれそうな会社が見つかった」という旨の書き込みがあった。さらにその数日後、電子公園のサイト内に「○○○JOCKEY 復活への道 - produce by ズラサン -」というアンケート・ページが設置された（[外部リンク参照](https://ja.wikipedia.org/wiki/GyaOジョッキー#外部リンク "wikilink")）。もし復活出来るとすれば、今夏を予定として目指していたが、2010年9月の同社サイト書き換えにより神戸敏行が代表取締役から解任されたことが分かった。上記アンケートサイトも後に閉鎖されたが、2011年3月に神戸のTwitter\[6\] にて同年5月より[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")内の有料コンテンツとして復活する予定であることが明かされた。番組タイトルは「[ニコジョッキー](https://ja.wikipedia.org/wiki/ニコジョッキー "wikilink")」で、初回は7月5日で正式な配信開始は2011年7月14日の予定。\[7\]
 
 ## 主な出演者（閉局時点）
 
@@ -50,7 +51,7 @@
 <td><p><strong>月曜日</strong></p></td>
 <td><ul>
 <li><a href="../Page/アメリカザリガニ_(お笑いコンビ).md" title="wikilink">アメリカザリガニ</a>、<a href="../Page/桜井せな.md" title="wikilink">桜井せな</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/岡田斗司夫" title="wikilink">岡田斗司夫</a></li>
+<li><a href="../Page/岡田斗司夫.md" title="wikilink">岡田斗司夫</a></li>
 <li><a href="../Page/乾曜子.md" title="wikilink">乾曜子</a>、<a href="https://ja.wikipedia.org/wiki/中村至誠" title="wikilink">中村至誠</a></li>
 <li><a href="../Page/CO-KEY.md" title="wikilink">CO-KEY</a>、<a href="../Page/Hi-Hi.md" title="wikilink">Hi-Hi</a>、<a href="https://ja.wikipedia.org/wiki/高橋亜由美" title="wikilink">高橋亜由美</a></li>
 <li><a href="../Page/小明.md" title="wikilink">小明</a></li>
@@ -99,7 +100,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/相沢まき" title="wikilink">相沢まき</a>、<a href="../Page/ケイダッシュステージ.md" title="wikilink">ケイダッシュステージ</a>の芸人・タレント</li>
 <li><a href="https://ja.wikipedia.org/wiki/及川奈央" title="wikilink">及川奈央</a>、<a href="https://ja.wikipedia.org/wiki/絹川麗" title="wikilink">絹川麗</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/中野腐女子シスターズ" title="wikilink">中野腐女子シスターズ</a><br />
+<li><a href="../Page/中野風女シスターズ.md" title="wikilink">中野腐女子シスターズ</a><br />
 (<a href="../Page/喜屋武ちあき.md" title="wikilink">喜屋武ちあき</a>、<a href="../Page/乾曜子.md" title="wikilink">乾曜子</a>、<a href="../Page/浦えりか.md" title="wikilink">浦えりか</a>、<a href="../Page/京本有加.md" title="wikilink">京本有加</a>、<a href="../Page/虎南有香.md" title="wikilink">虎南有香</a>、<a href="../Page/原田まりる.md" title="wikilink">原田まりる</a>、<a href="https://ja.wikipedia.org/wiki/新井寛乃" title="wikilink">新井寛乃</a>)</li>
 <li><a href="../Page/原口あきまさ.md" title="wikilink">原口あきまさ</a>、<a href="https://ja.wikipedia.org/wiki/オードリー_(お笑いコンビ)" title="wikilink">オードリー</a>、<a href="../Page/ハマカーン.md" title="wikilink">ハマカーン</a>、<a href="../Page/HEY!たくちゃん.md" title="wikilink">HEY!たくちゃん</a></li>
 </ul></td>
@@ -176,7 +177,7 @@
 </dl></td>
 </tr>
 <tr class="even">
-<td><p>ヲタキングこと<a href="https://ja.wikipedia.org/wiki/岡田斗司夫" title="wikilink">岡田斗司夫</a>が送るトーク番組。お品書きという形でテーマを提示しそれに倣ってトークしていく。しかし話が盛り上がり時間切れで全てのテーマが終わらない事が多い。『岡田斗司夫の「世界征服宣言」』というタイトルで2007年6月25日に放送、9月より改題、2009年8月まで放送。</p></td>
+<td><p>ヲタキングこと<a href="../Page/岡田斗司夫.md" title="wikilink">岡田斗司夫</a>が送るトーク番組。お品書きという形でテーマを提示しそれに倣ってトークしていく。しかし話が盛り上がり時間切れで全てのテーマが終わらない事が多い。『岡田斗司夫の「世界征服宣言」』というタイトルで2007年6月25日に放送、9月より改題、2009年8月まで放送。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -442,7 +443,7 @@
 </dl></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/原口あきまさ.md" title="wikilink">原口あきまさ</a>と<a href="https://ja.wikipedia.org/wiki/オードリー_(お笑いコンビ)" title="wikilink">オードリーが</a>、24時から27時まで送る告知メインのトークバラエティ番組。主なコーナーとしてオードリーの若林によるチャット番長、オードリーの春日のみで行うミニ告っちゃ、原口あきまさによる江頭2:50分頃など盛りだくさんの3時間生番組。2007年5月から放送を開始し、2009年8月まで毎月最終金曜日[8]に放送される。最近は、オードリーの代打で<a href="../Page/ハマカーン.md" title="wikilink">ハマカーン</a>や<a href="../Page/HEY!たくちゃん.md" title="wikilink">HEY!たくちゃん</a>が出演している。</p></td>
+<td><p><a href="../Page/原口あきまさ.md" title="wikilink">原口あきまさ</a>と<a href="https://ja.wikipedia.org/wiki/オードリー_(お笑いコンビ)" title="wikilink">オードリーが</a>、24時から27時まで送る告知メインのトークバラエティ番組。主なコーナーとしてオードリーの若林によるチャット番長、オードリーの春日のみで行うミニ告っちゃ、原口あきまさによる江頭2:50分頃など盛りだくさんの3時間生番組。2007年5月から放送を開始し、2009年8月まで毎月最終金曜日[8] に放送される。最近は、オードリーの代打で<a href="../Page/ハマカーン.md" title="wikilink">ハマカーン</a>や<a href="../Page/HEY!たくちゃん.md" title="wikilink">HEY!たくちゃん</a>が出演している。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -569,7 +570,7 @@
     GyaO局アナオーディションのファイナリストが、GyaOジョッキーでアピールを行う番組。司会兼審査員として、Heyたくちゃんが登場。2007年5月10日、2007年5月17日、2007年5月24日の3回放送。
 
   - うたブロ×ジョッキーオフ会
-    2007年5月20日、[新宿](../Page/新宿.md "wikilink")PINK BIG PIGにて、うたブロとGyaOジョッキーの合同OFF会を開催。出演者によるカラオケやうたブロ優秀者への授賞式が行われた。出演者は、とちぎ和牛（Rie）／ちゃーみー☆くいーん／宮沢菜美／石嶋香織／[及川奈央](https://ja.wikipedia.org/wiki/及川奈央 "wikilink")／絹川麗／[相沢真紀](https://ja.wikipedia.org/wiki/相沢真紀 "wikilink")／[中野腐女子シスターズ](https://ja.wikipedia.org/wiki/中野腐女子シスターズ "wikilink")／[原口あきまさ](../Page/原口あきまさ.md "wikilink")／[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")／[HEY\!たくちゃん](../Page/HEY!たくちゃん.md "wikilink")／[カンニング竹山](../Page/カンニング竹山.md "wikilink")
+    2007年5月20日、[新宿](../Page/新宿.md "wikilink")PINK BIG PIGにて、うたブロとGyaOジョッキーの合同OFF会を開催。出演者によるカラオケやうたブロ優秀者への授賞式が行われた。出演者は、とちぎ和牛（Rie）／ちゃーみー☆くいーん／宮沢菜美／石嶋香織／[及川奈央](https://ja.wikipedia.org/wiki/及川奈央 "wikilink")／絹川麗／[相沢真紀](https://ja.wikipedia.org/wiki/相沢真紀 "wikilink")／[中野腐女子シスターズ](../Page/中野風女シスターズ.md "wikilink")／[原口あきまさ](../Page/原口あきまさ.md "wikilink")／[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")／[HEY\!たくちゃん](../Page/HEY!たくちゃん.md "wikilink")／[カンニング竹山](../Page/カンニング竹山.md "wikilink")
 
   - Academy Night
     青春映画『Academy アカデミー』に出演するメンバーで送る番組。出演者は、杉浦太陽、高橋マリ子、ギャヴィン・ヤングス、丸山周。2007年6月1日に放送。

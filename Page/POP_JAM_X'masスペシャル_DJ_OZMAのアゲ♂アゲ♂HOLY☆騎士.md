@@ -32,7 +32,7 @@ DJ OZMAが中心となり、[クリスマス](../Page/クリスマス.md "wikili
   - [高見沢俊彦](../Page/高見沢俊彦.md "wikilink")（[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")）
   - 田中知之（[Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")）
   - [中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink")
-  - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）
+  - [VERBAL](../Page/VERBAL.md "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）
   - [まちゃまちゃ](../Page/まちゃまちゃ.md "wikilink")
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")
   - [森山直太朗](../Page/森山直太朗.md "wikilink")

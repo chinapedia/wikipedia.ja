@@ -389,11 +389,11 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>31st</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/落ちた事のある空" title="wikilink">落ちた事のある空</a></strong></p></td>
+<td><p>DIGITAL</p></td>
+<td><p>–</p></td>
 </tr>
 </tbody>
 </table>
@@ -449,8 +449,8 @@ SFCD-0245～246 (初回生産限定盤)</p></td>
 
 | 発売日                                                                                           | タイトル                                                                                  | 規格          | 販売生産番号        |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------- | ------------- |
-| [2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") | **[DECADE 1998-2002](https://ja.wikipedia.org/wiki/DECADE_1998-2002 "wikilink")**     | 2CD         | SFCD-0053〜4   |
-| 2007年12月19日                                                                                   | **[DECADE 2003-2007](https://ja.wikipedia.org/wiki/DECADE_2003-2007 "wikilink")**     | CD          | SFCD-0055     |
+| [2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") | **[DECADE 1998-2002](../Page/DECADE_1998-2002.md "wikilink")**                        | 2CD         | SFCD-0053〜4   |
+| 2007年12月19日                                                                                   | **[DECADE 2003-2007](../Page/DECADE_2003-2007.md "wikilink")**                        | CD          | SFCD-0055     |
 | [2018年](../Page/2018年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")                        | [VESTIGE OF SCRATCHES](https://ja.wikipedia.org/wiki/VESTIGE_OF_SCRATCHES "wikilink") | 3CD＋Blu-ray | SFCD-0211〜214 |
 | 3CD＋DVD                                                                                       | SFCD-0215〜218                                                                         |             |               |
 | 3CD                                                                                           | SFCD-0219〜221                                                                         |             |               |
@@ -581,7 +581,7 @@ VIZL-493</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/9月4日.md" title="wikilink">9月4日</a></p></td>
 <td><p><strong>DEAD END Tribute - SONG OF LUNATICS -</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a><br />
+<td><p><a href="../Page/DEAD_END_(バンド).md" title="wikilink">DEAD END</a><br />
 <a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a></p></td>
 <td><p>「<strong>Embryo Burning</strong>」にて<br />
 ShinyaがDrumsを担当。</p></td>

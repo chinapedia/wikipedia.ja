@@ -144,7 +144,7 @@
 #### 邦楽
 
   - [Princess Princess](../Page/プリンセス_プリンセス.md "wikilink")「[Diamonds](../Page/Diamonds_\(プリンセス_プリンセスの曲\).md "wikilink")」
-  - [リンドバーグ](../Page/LINDBERG.md "wikilink")「[今すぐKiss Me](https://ja.wikipedia.org/wiki/今すぐKiss_Me "wikilink")」
+  - [リンドバーグ](../Page/LINDBERG.md "wikilink")「[今すぐKiss Me](../Page/今すぐKiss_Me.md "wikilink")」
   - [鷲尾いさ子](../Page/鷲尾いさ子.md "wikilink")&鉄骨娘「[鉄骨娘](../Page/鉄骨飲料.md "wikilink")」
 
 ## 書籍/DVD/CD
@@ -196,7 +196,7 @@
 
 ### 飛行機について
 
-真弓の助言（歴史改変）により[ドーハの悲劇](https://ja.wikipedia.org/wiki/ドーハの悲劇 "wikilink")を回避し、[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督になった[ラモス瑠偉](../Page/ラモス瑠偉.md "wikilink")が、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")に出発する場面では、サッカー日本代表のオフィシャルエアラインの[日本航空ではなく](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")、制作に名を連ねた電通の大手顧客である[全日空をなぜか利用することになっている](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。なお、公開前年にフジテレビは「[アテンションプリーズ](../Page/アテンションプリーズ.md "wikilink")」を、日本航空とのタイアップで製作しているが、本作の翌年に制作した映画「[ハッピーフライト](https://ja.wikipedia.org/wiki/ハッピーフライト "wikilink")」では、全日空とタイアップしている。
+真弓の助言（歴史改変）により[ドーハの悲劇](https://ja.wikipedia.org/wiki/ドーハの悲劇 "wikilink")を回避し、[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督になった[ラモス瑠偉](../Page/ラモス瑠偉.md "wikilink")が、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")に出発する場面では、サッカー日本代表のオフィシャルエアラインの[日本航空ではなく](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")、制作に名を連ねた電通の大手顧客である[全日空をなぜか利用することになっている](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")。なお、公開前年にフジテレビは「[アテンションプリーズ](../Page/アテンションプリーズ.md "wikilink")」を、日本航空とのタイアップで製作しているが、本作の翌年に制作した映画「[ハッピーフライト](../Page/ハッピーフライト.md "wikilink")」では、全日空とタイアップしている。
 
 ### 他映画作品へのオマージュについて
 
@@ -237,11 +237,11 @@
 作品中に登場する店舗・商品
 
   - [森永LOVE](../Page/森永LOVE.md "wikilink") - 2007年では同じ場所が[マクドナルド](../Page/マクドナルド.md "wikilink")となっている。
-  - [鉄骨飲料](../Page/鉄骨飲料.md "wikilink") - 2010年3月末のリニューアル発売を機に（作中の街頭テレビで流れた）発売当初のCMを再現したCMを制作。
+  - [鉄骨飲料](../Page/鉄骨飲料.md "wikilink") - 2010年3月末のリニューアル発売を機に（作中の街頭テレビで流れた）発売当初（1989年）のCMを再現したCMを制作。
   - [はちみつレモン](../Page/はちみつレモン.md "wikilink")
   - [テレメッセージ](../Page/テレメッセージ.md "wikilink")
   - [T.G.Iフライデーズ](https://ja.wikipedia.org/wiki/ティージーアイ・フライデーズ "wikilink") - [ワタミ](../Page/ワタミ.md "wikilink")傘下のダイニングバー
-  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")のCM（[今井美樹](../Page/今井美樹.md "wikilink")）
+  - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「インテグレート　チップ・オン・デュオ」CM（[今井美樹](../Page/今井美樹.md "wikilink")出演。実際の放送は1988年）
 
 ## 外部リンク
 

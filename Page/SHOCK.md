@@ -125,7 +125,7 @@
   - 東新良和
   - [風間俊介](https://ja.wikipedia.org/wiki/風間俊介 "wikilink")
   - KAT-TUN
-  - [A.B.C.](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")
+  - [A.B.C.](../Page/A.B.C-Z.md "wikilink")
 
 ## Shocking SHOCK （2004年）
 
@@ -332,7 +332,7 @@
   - モリ クミコ - [森公美子](../Page/森公美子.md "wikilink")：オーナー
   - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（2・3月公演）：ライバル
   - ウチ - [内博貴](../Page/内博貴.md "wikilink")（9・10月公演）：ライバル
-  - リカ - [入来茉里](https://ja.wikipedia.org/wiki/入来茉里 "wikilink")
+  - リカ - [入来茉里](../Page/入来茉里.md "wikilink")
   - [福田悠太](../Page/福田悠太.md "wikilink")（ふぉ〜ゆ〜）
   - [松崎祐介](https://ja.wikipedia.org/wiki/松崎祐介 "wikilink")（ふぉ〜ゆ〜）
   - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（ふぉ〜ゆ〜）

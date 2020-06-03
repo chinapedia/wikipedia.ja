@@ -82,7 +82,7 @@ Smalltalk-80 では、同じ式が次のように記述される:
 
 `   (desktop activeWindow) draw: (labelWidget copy label: 'Hello, World!').`
 
-この場合、`(desktop activeWindow)` が最初に評価され、desktop オブジェクトが知っているウィンドウのリストからアクティブウィンドウを表すオブジェクトが返される。次に（内側から外側へ、左から右へという順で）前掲のコードが評価され labelWidget が返される。最後にその[ウィジェットがアクティブウィンドウの](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink") draw スロットに送られる。
+この場合、`(desktop activeWindow)` が最初に評価され、desktop オブジェクトが知っているウィンドウのリストからアクティブウィンドウを表すオブジェクトが返される。次に（内側から外側へ、左から右へという順で）前掲のコードが評価され labelWidget が返される。最後にその[ウィジェットがアクティブウィンドウの](../Page/ウィジェット_\(GUI\).md "wikilink") draw スロットに送られる。
 
 ### 継承/委譲
 

@@ -98,7 +98,7 @@
   - [ReMuTV](https://ja.wikipedia.org/wiki/ReMuTV "wikilink")（リアル・ミュージック・ファクトリー制作）
   - [The Tsuon Music](https://ja.wikipedia.org/wiki/The_Tsuon_Music "wikilink")（[JCOM福岡制作](https://ja.wikipedia.org/wiki/福岡ケーブルネットワーク "wikilink")）
   - [弥次さん・喜多さん珍道中！ ええじゃないか。](../Page/ええじゃないか。.md "wikilink")（[三重テレビ放送](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")制作）
-  - [青い森の国から](https://ja.wikipedia.org/wiki/青い森の国から "wikilink")（[青森テレビ](../Page/青森テレビ.md "wikilink")制作）
+  - [青い森の国から](../Page/青い森の国から.md "wikilink")（[青森テレビ](../Page/青森テレビ.md "wikilink")制作）
   - がぶっと十勝（[帯広シティーケーブル](../Page/帯広シティーケーブル.md "wikilink")制作）\[4\]
   - 十勝遺産（帯広シティーケーブル制作）
 

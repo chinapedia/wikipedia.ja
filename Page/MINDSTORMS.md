@@ -3,7 +3,7 @@
 
 [Lego_Roverbot.JPG](https://ja.wikipedia.org/wiki/File:Lego_Roverbot.JPG "fig:Lego_Roverbot.JPG") [Tag_6_Gyro_Boy.jpg](https://ja.wikipedia.org/wiki/File:Tag_6_Gyro_Boy.jpg "fig:Tag_6_Gyro_Boy.jpg")
 
-**MINDSTORMS**（マインドストーム）は、[モーター](https://ja.wikipedia.org/wiki/モーター "wikilink")を備えた[プログラム](../Page/プログラム.md "wikilink")が組み込めるブロックや、[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")、レゴブロック、[ギア](https://ja.wikipedia.org/wiki/ギア "wikilink")や[車軸](https://ja.wikipedia.org/wiki/車軸 "wikilink")、[ビーム](https://ja.wikipedia.org/wiki/ビーム "wikilink")、[タイヤ](../Page/タイヤ.md "wikilink")と言った[レゴ・テクニックの部品の組み合わせで](https://ja.wikipedia.org/wiki/Lego_Technic "wikilink")、[ロボット](../Page/ロボット.md "wikilink")や他の[機械](../Page/機械.md "wikilink")、または対話[システム](../Page/システム.md "wikilink")を組むための[レゴ](../Page/レゴ.md "wikilink")社の商品セットである。
+**MINDSTORMS**（マインドストーム）は、[モーター](https://ja.wikipedia.org/wiki/モーター "wikilink")を備えた[プログラムが組み込めるブロックや](../Page/プログラム_\(コンピュータ\).md "wikilink")、[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")、レゴブロック、[ギア](https://ja.wikipedia.org/wiki/ギア "wikilink")や[車軸](https://ja.wikipedia.org/wiki/車軸 "wikilink")、[ビーム](https://ja.wikipedia.org/wiki/ビーム "wikilink")、[タイヤ](../Page/タイヤ.md "wikilink")と言った[レゴ・テクニックの部品の組み合わせで](https://ja.wikipedia.org/wiki/Lego_Technic "wikilink")、[ロボット](../Page/ロボット.md "wikilink")や他の[機械](../Page/機械.md "wikilink")、または対話[システム](../Page/システム.md "wikilink")を組むための[レゴ](../Page/レゴ.md "wikilink")社の商品セットである。
 
 ## 概要
 

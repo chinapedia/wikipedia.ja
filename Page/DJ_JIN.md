@@ -81,7 +81,7 @@ RHYMESTER外の活動としては、クラブイベントをきっかけに[brea
       - “Girls Spacy Healin'”　[YA-KYIM](../Page/YA-KYIM.md "wikilink") & [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")
       - “踏みだおれ”　韻踏合組合 & [SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")
       - “FAKEASS feat. [KREVA](../Page/KREVA.md "wikilink")”　TR-908
-      - “禁断の果実”　[さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
+      - “禁断の果実”　[さかいゆう](../Page/さかいゆう.md "wikilink")
   - “Shake And Bake”　[TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")　（2009年）
   - “intro”　[COMA-CHI](../Page/COMA-CHI.md "wikilink")　（2009年）
   - “sakura...intro”　DJ JIN　（2009年）

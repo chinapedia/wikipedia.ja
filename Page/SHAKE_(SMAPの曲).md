@@ -1,14 +1,14 @@
 > この記事は[SHAKE \(SMAPの曲\)](https://ja.wikipedia.org/wiki/SHAKE_\(SMAPの曲\))から翻訳されています。
 
 
-「**SHAKE**」（シェイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+『**SHAKE**』(シェイク) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 
   - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』のテーマソング
   - 6年連続出場となる『[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")』でこの曲を歌った。
   - 振付は、サンチェが担当した。
-  - [プロ野球の](../Page/日本プロ野球.md "wikilink")[糸井嘉男](https://ja.wikipedia.org/wiki/糸井嘉男 "wikilink")外野手が、[日本ハムから](../Page/北海道日本ハムファイターズ.md "wikilink")[オリックスに移籍した](https://ja.wikipedia.org/wiki/オリックスバファローズ "wikilink")2013年から登場曲として使用している\[1\]\[2\]。オリックスの[本拠地の](https://ja.wikipedia.org/wiki/専用球場 "wikilink")[京セラドーム大阪や](../Page/大阪ドーム.md "wikilink")[ほっともっとフィールド神戸では](../Page/神戸総合運動公園野球場.md "wikilink")、バファローズファンがサビの「二人ならヤレルヤ～♪」の部分を、替え歌で「**糸井ならヤレルヤ～♪**」と合唱するのが恒例となっている。これは、2017年に糸井が[阪神タイガース](../Page/阪神タイガース.md "wikilink")に移籍しても継続している。
+  - [プロ野球の](../Page/日本プロ野球.md "wikilink")[糸井嘉男](https://ja.wikipedia.org/wiki/糸井嘉男 "wikilink")外野手が、[日本ハムから](../Page/北海道日本ハムファイターズ.md "wikilink")[オリックスに移籍した](../Page/オリックス・バファローズ.md "wikilink")2013年から登場曲として使用している\[1\]\[2\]。オリックスの[本拠地の](https://ja.wikipedia.org/wiki/専用球場 "wikilink")[京セラドーム大阪や](../Page/大阪ドーム.md "wikilink")[ほっともっとフィールド神戸では](../Page/神戸総合運動公園野球場.md "wikilink")、バファローズファンがサビの「二人ならヤレルヤ～♪」の部分を、替え歌で「**糸井ならヤレルヤ～♪**」と合唱するのが恒例となっている。これは、2017年に糸井が[阪神タイガース](../Page/阪神タイガース.md "wikilink")に移籍しても継続している。
   - メンバーでは[木村拓哉](../Page/木村拓哉.md "wikilink")のみソロパートがある。
   - 高校野球での応援曲としても使用されており、主に[大阪桐蔭高等学校の吹奏楽部が使用している](../Page/大阪桐蔭中学校・高等学校.md "wikilink")。
   - 「[ジャニーズカウントダウンライブ](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ "wikilink")2011-2012」では、本曲を[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")が歌唱した。

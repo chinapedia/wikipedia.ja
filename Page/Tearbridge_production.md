@@ -220,7 +220,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ゴー!チーム" title="wikilink">ザ・ゴー!チーム</a></p></td>
+<td><p><a href="../Page/ザ・ゴー!チーム.md" title="wikilink">ザ・ゴー!チーム</a></p></td>
 <td><p>ザゴーチーム</p></td>
 <td><p>2007年</p></td>
 <td><p>イギリスのバンド</p></td>

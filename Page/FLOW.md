@@ -25,7 +25,7 @@
 
 \*:ライブではよく飛び跳ねるため、ライブ中にズボンが破けてしまうこともしばしばある。また、PVを撮影する際に[二日酔い](../Page/二日酔い.md "wikilink")であることもしばしばある。
 
-\*:中学生の時に[X JAPANの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")に憧れギターを始めた。ミュージシャンを目指す前は、絵が得意だったことから[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")になるのが夢であり、[鳥山明](../Page/鳥山明.md "wikilink")に憧れて『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』をパロディとした漫画を個人で描いていた\[4\]。
+\*:中学生の時に[X JAPANの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")に憧れギターを始めた。ミュージシャンを目指す前は、絵が得意だったことから[漫画家](../Page/漫画家.md "wikilink")になるのが夢であり、[鳥山明](../Page/鳥山明.md "wikilink")に憧れて『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』をパロディとした漫画を個人で描いていた\[4\]。
 
 \*:小学校から高校まで陸上競技をし、[ハードル](../Page/ハードル.md "wikilink")や4X400mリレーをこなしていた。
 
@@ -41,7 +41,7 @@
 
 \*:『[CD\&DLでーた](../Page/CD&DLでーた.md "wikilink")』にて「KOHSHI園」を連載していた。これは、毎回1曲（もしくはアルバム1枚）を取り上げ、KOHSHIなりのその作品のイメージをイラスト化するというもので、前述の個展開催のきっかけにもなった。
 
-\*:音楽とスポーツが大好きで[日本体育大学](https://ja.wikipedia.org/wiki/日本体育大学 "wikilink")出身とのこと\[8\]。
+\*:音楽とスポーツが大好きで[日本体育大学](../Page/日本体育大学.md "wikilink")出身とのこと\[8\]。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Japan_Expo_13_-_FLOW_-_KEIGO_-_2012-0705-_P1400941.jpg "wikilink")
 
@@ -924,7 +924,7 @@ KSBL-5868（通常盤）</p></td>
 <li>DARK SHADOW</li>
 <li>JOY TO THE WORLD</li>
 <li>DECATHLON</li>
-<li>Stepp'n out</li>
+<li>Steppin' out</li>
 <li>Oblivion</li>
 <li>魑魅魍魎 feat.疾風</li>
 <li>World Symphony</li>
@@ -932,20 +932,12 @@ KSBL-5868（通常盤）</p></td>
 </ol></td>
 </tr>
 <tr class="odd">
-<td><p>9th</p></td>
-<td><p>2020年予定</p></td>
-<td><p><strong>FLOW 超会議 2020　～アニメ縛りリターンズ～</strong></p></td>
-<td><p>KSBL-6258</p></td>
-<td><p>20位</p></td>
-<td><p>DISC 1</p>
-<ol>
-<li>COLORS</li>
-<li>WORLD END</li>
-<li>PENDRUM</li>
-<li>Steppin' Out</li>
-<li>WORLD OF THE VOICE</li>
-</ol>
-<p>#Hey</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1013,7 +1005,7 @@ KSBL-5868（通常盤）</p></td>
   - [しまじろうのわお\!](https://ja.wikipedia.org/wiki/しまじろうのわお! "wikilink")「グーチョキパーでパンプキン」（作詞・作曲：あさかわたけし）
   - [内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")「波乗りキャリーオン」（作詞・作曲・編曲：TAKE）
   - \[<https://m.youtube.com/channel/UCXXUb2B7Azq9ckyZHVUEBWA?itct=CCMQ6p4EIhMI-JiIyoTG5QIVCvtoCh36XwZM&csn=V5W6XdGwC7O93LUPiNCvgA0&wlfg=true>| ハロウッドチャンネル\]「グミチョコパンプキン」（作詞・作曲：あさかわたけし）
-  - チーム・ハンサム\!「親孝行」（作詞・作曲：TAKE）
+  - チーム・ハンサム\!「親孝行\!\!\!」（作詞・作曲：TAKE）
   - [JAM Project](../Page/JAM_Project.md "wikilink")「ジャイアントスイング」（作詞：KOHSHI、作曲・編曲：TAKE）
 
 ## タイアップ一覧

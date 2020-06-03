@@ -127,7 +127,7 @@
   - 場所：東京ビッグサイト　東4ホール (東京)
   - 来場者：8387名
   - 受賞者：金賞・若杉俊彦、銀賞・大源麻友、銅賞・藤井邦明
-  - 本戦審査員：[北川フラム](../Page/北川フラム.md "wikilink")、[佐藤卓](https://ja.wikipedia.org/wiki/佐藤卓 "wikilink")、[ヴィクター・ピンチュック](https://ja.wikipedia.org/wiki/ヴィクター・ピンチュック "wikilink")、[蓑豊](https://ja.wikipedia.org/wiki/蓑豊 "wikilink")、[森佳子](../Page/森佳子.md "wikilink")
+  - 本戦審査員：[北川フラム](../Page/北川フラム.md "wikilink")、[佐藤卓](../Page/佐藤卓.md "wikilink")、[ヴィクター・ピンチュック](https://ja.wikipedia.org/wiki/ヴィクター・ピンチュック "wikilink")、[蓑豊](https://ja.wikipedia.org/wiki/蓑豊 "wikilink")、[森佳子](../Page/森佳子.md "wikilink")
 
 ### GEISAI\#11
 

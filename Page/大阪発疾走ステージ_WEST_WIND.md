@@ -176,7 +176,7 @@
   - ET-KING
   - w-inds.
   - ギャロップ
-  - [doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")
+  - [doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")
   - とろサーモン
   - [松下優也](https://ja.wikipedia.org/wiki/松下優也 "wikilink")
   - 茉奈 佳奈
@@ -365,7 +365,7 @@
 
   - MC:フットボールアワー
   - GIRL NEXT DOOR
-  - [さかいゆう](https://ja.wikipedia.org/wiki/さかいゆう "wikilink")
+  - [さかいゆう](../Page/さかいゆう.md "wikilink")
   - [ザ\!\!トラベラーズplus](https://ja.wikipedia.org/wiki/地元応援バラエティ_このへん!!トラベラー#ザ!!トラベラーズ "wikilink")（[トータルテンボス](../Page/トータルテンボス.md "wikilink")、[オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")）
   - [ステレオポニー](https://ja.wikipedia.org/wiki/ステレオポニー "wikilink")
   - セカイイチ

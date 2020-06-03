@@ -47,7 +47,7 @@
 <!-- end list -->
 
   - **BEACH FLAGS/ビーチフラッグス** プロ12回・芸能人11回・アマチュア2回
-      - 旗とは逆の向きになってうつ伏せの状態から笛の合図でスタート。18m先の旗を取れば勝ち抜け。[ライフセーバーが行う](https://ja.wikipedia.org/wiki/ライフセービング_\(スポーツ\) "wikilink")[ビーチフラッグスとほぼ同様の競技](https://ja.wikipedia.org/wiki/ビーチ・フラッグス "wikilink")。
+      - 旗とは逆の向きになってうつ伏せの状態から笛の合図でスタート。18m先の旗を取れば勝ち抜け。[ライフセーバーが行う](../Page/ライフセービング_\(スポーツ\).md "wikilink")[ビーチフラッグスとほぼ同様の競技](https://ja.wikipedia.org/wiki/ビーチ・フラッグス "wikilink")。
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@
       - 第13回プロスポーツマン大会のみ、床の色が通常の白ではなく青色となっていた。
       - プロスポーツマン大会：第8回大会までは11m00cm、第9回大会からは11m50cmから試技が始まり、クリアしていく事に距離が伸びていく。各大会毎に挑戦する距離が微妙に異なる。合計2回失敗した時点で脱落。ポイントは各距離で設定されたポイントを獲得していく形式。生き残りが1名になると距離を自分で選択できるようになる。そのため無駄な体力を消耗することなく一気に世界新記録に挑戦したり、総合No.1に必要な距離を申告することが可能となる。
       - 芸能人サバイバルバトル：試技は1人3回。2回目までは事前申告で最終試技となる3回目のみ自分の順番が回った際に挑む距離を口頭で自己申告。成功すれば距離に応じたポイントを獲得。
-      - ボールの落下地点はぶれることがあり、余裕がなくボールを全く見ない選手は距離が届いていても手で触れられず失敗することがある。室伏広治のようにボールを全く見ないことで総合No.1を勝ち取った選手もいれば、知幸のようにタッチできずNo.1を逃してしまった選手もいる。照英は12m30cmを成功すれば1P差で総合No.1になるシチュエーションでボールを見ずに飛び込み、ウルトラスローの映像でも審議が続き、正面からの映像でわずかに小指が触れた事が確認された。この時の古舘伊知郎の「小指が触れている！」の実況は後世に語り継がれている。
+      - ボールの落下地点はぶれることがあり、余裕がなくボールを全く見ない選手は距離が届いていても手で触れられず失敗することがある。照英や室伏広治のようにボールを全く見ないことで総合No.1を勝ち取った選手もいれば、知幸のようにタッチできずNo.1を逃してしまった選手もいる。
       - 芸能人・プロスポーツマン大会ともに、この競技が最後の種目として行われることが多い。
       - 2015年4月4日に同局で生放送された特番『[オールスター大感謝祭'15春](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")』のイベント企画として実施された。
           - 世界記録-13m60cm([青木宣親](../Page/青木宣親.md "wikilink"))
@@ -683,7 +683,7 @@
 
 <!-- end list -->
 
-  - [佐々木誠](https://ja.wikipedia.org/wiki/佐々木誠 "wikilink") 1回出場
+  - [佐々木誠](../Page/佐々木誠_\(野球\).md "wikilink") 1回出場
       - 第1回に出場。オープニング種目のTHE BAMBAでは、決勝で同僚の清原を破りNo.1を獲得。DASHでも準決勝進出を果たした。
       - 第1回大会 THE BAMBA No.1
       - MONSTER BOX 12段、DASH、THE FINAL PUSH-UP 20回
@@ -1002,7 +1002,7 @@
 
 <!-- end list -->
 
-  - [シェーン・ビクトリーノ](https://ja.wikipedia.org/wiki/シェーン・ビクトリーノ "wikilink")　1回出場
+  - [シェーン・ビクトリーノ](../Page/シェーン・ビクトリーノ.md "wikilink")　1回出場
       - 第15回に出場。過去、参戦したメジャーリーガーの中でも史上初となる前年ワールドチャンピオンとしての出場となり、THE GALLON THROWは6m00cm、MONSTER BOXは16段、SHOT-GUN-TOUCHも12m50cmの活躍で、総合4位タイ入賞。
       - 第15回大会 総合4位
       - MONSTER BOX 16段、SHOT-GUN-TOUCH 12m50cm、THE GALLON THROW 6m00cm(メジャーリーグ記録)
@@ -1403,7 +1403,7 @@
 
 <!-- end list -->
 
-  - [佐々木太一](https://ja.wikipedia.org/wiki/佐々木太一 "wikilink") 1回出場
+  - [佐々木太一](../Page/佐々木太一.md "wikilink") 1回出場
       - 第1回に出場。POWER FORCEでは準決勝に進出するも、MONSTER BOXでは中垣内と南の後塵を拝し、低記録に終わった。
       - MONSTER BOX 11段、THE FINAL SIT-UP 80回、THE KENSUI 8回
 
@@ -2645,23 +2645,23 @@
 
 #### プロスポーツマン大会
 
-| 回数            | 放送日       | No.1選手                                                             | 競技・職業                                                                                      | 所属（当時）                                                          |
-| ------------- | --------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| 第1回(II)       | 1995年1月1日 | [飯田哲也](https://ja.wikipedia.org/wiki/飯田哲也_\(野球\) "wikilink")       | [プロ野球](../Page/日本プロ野球.md "wikilink")                                                       | [ヤクルトスワローズ](https://ja.wikipedia.org/wiki/ヤクルトスワローズ "wikilink") |
-| 第2回(V)        | 1996年1月2日 | [長谷川誠](https://ja.wikipedia.org/wiki/長谷川誠_\(バスケットボール\) "wikilink") | [バスケットボール](../Page/バスケットボール.md "wikilink")                                                 | [松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")         |
-| 第3回(VIII)     | 1997年1月2日 | [松井稼頭央](https://ja.wikipedia.org/wiki/松井稼頭央 "wikilink")            | プロ野球                                                                                       | [西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")     |
-| 第4回(X)        | 1998年1月1日 | [緒方孝市](../Page/緒方孝市.md "wikilink")                                 | プロ野球                                                                                       | [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")                        |
-| 第5回(XIII)     | 1999年1月1日 | 飯田哲也                                                               | プロ野球                                                                                       | ヤクルトスワローズ                                                       |
-| 第6回(XV)       | 2000年1月1日 | [ケイン・コスギ](https://ja.wikipedia.org/wiki/ケイン・コスギ "wikilink")        | [俳優](../Page/俳優.md "wikilink")                                                             | [サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")        |
-| 第7回(XVIII)    | 2001年1月1日 | [大畑大介](../Page/大畑大介.md "wikilink")                                 | [ラグビー](../Page/ラグビー.md "wikilink")                                                         | [神戸製鋼](https://ja.wikipedia.org/wiki/神戸製鋼 "wikilink")           |
-| 第8回(XX)       | 2002年1月1日 | [室伏広治](../Page/室伏広治.md "wikilink")                                 | [陸上](../Page/陸上競技.md "wikilink")・[ハンマー投げ](https://ja.wikipedia.org/wiki/ハンマー投げ "wikilink") | [ミズノ](../Page/ミズノ.md "wikilink")                                |
-| 第9回(XXIII)    | 2003年1月1日 | 大畑大介                                                               | ラグビー                                                                                       | モンフェラン                                                          |
-| 第10回(XXVI)    | 2004年1月1日 | [三浦貴](../Page/三浦貴.md "wikilink")                                   | プロ野球                                                                                       | [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")   |
-| 第11回(XXVIII)  | 2005年1月1日 | [池谷直樹](../Page/池谷直樹.md "wikilink")                                 | [体操](../Page/体操.md "wikilink")・[タレント](../Page/タレント.md "wikilink")                          | [ホリプロ](../Page/ホリプロ.md "wikilink")                              |
-| 第12回(XXXI)    | 2006年1月1日 | [宮﨑大輔](https://ja.wikipedia.org/wiki/宮﨑大輔 "wikilink")              | [ハンドボール](../Page/ハンドボール.md "wikilink")                                                     | [大崎OSOL](https://ja.wikipedia.org/wiki/大崎OSOL "wikilink")       |
-| 第13回(XXXIV)   | 2007年1月1日 | [ポール・A・テレック](../Page/ポール・アンソニー・テレック.md "wikilink")                 | 陸上・[十種競技](../Page/十種競技.md "wikilink")                                                      | [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")代表         |
-| 第14回(XXXVII)  | 2008年1月1日 | 宮﨑大輔                                                               | ハンドボール                                                                                     | 大崎OSOL                                                          |
-| 第15回(XXXVIII) | 2009年1月3日 | 宮﨑大輔                                                               | ハンドボール                                                                                     | 大崎OSOL                                                          |
+| 回数            | 放送日       | No.1選手                                                             | 競技・職業                                                                                      | 所属（当時）                                                            |
+| ------------- | --------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| 第1回(II)       | 1995年1月1日 | [飯田哲也](https://ja.wikipedia.org/wiki/飯田哲也_\(野球\) "wikilink")       | [プロ野球](../Page/日本プロ野球.md "wikilink")                                                       | [ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink") |
+| 第2回(V)        | 1996年1月2日 | [長谷川誠](https://ja.wikipedia.org/wiki/長谷川誠_\(バスケットボール\) "wikilink") | [バスケットボール](../Page/バスケットボール.md "wikilink")                                                 | [松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")           |
+| 第3回(VIII)     | 1997年1月2日 | [松井稼頭央](https://ja.wikipedia.org/wiki/松井稼頭央 "wikilink")            | プロ野球                                                                                       | [西武ライオンズ](https://ja.wikipedia.org/wiki/西武ライオンズ "wikilink")       |
+| 第4回(X)        | 1998年1月1日 | [緒方孝市](../Page/緒方孝市.md "wikilink")                                 | プロ野球                                                                                       | [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")                          |
+| 第5回(XIII)     | 1999年1月1日 | 飯田哲也                                                               | プロ野球                                                                                       | ヤクルトスワローズ                                                         |
+| 第6回(XV)       | 2000年1月1日 | [ケイン・コスギ](https://ja.wikipedia.org/wiki/ケイン・コスギ "wikilink")        | [俳優](../Page/俳優.md "wikilink")                                                             | [サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")          |
+| 第7回(XVIII)    | 2001年1月1日 | [大畑大介](../Page/大畑大介.md "wikilink")                                 | [ラグビー](../Page/ラグビー.md "wikilink")                                                         | [神戸製鋼](https://ja.wikipedia.org/wiki/神戸製鋼 "wikilink")             |
+| 第8回(XX)       | 2002年1月1日 | [室伏広治](../Page/室伏広治.md "wikilink")                                 | [陸上](../Page/陸上競技.md "wikilink")・[ハンマー投げ](https://ja.wikipedia.org/wiki/ハンマー投げ "wikilink") | [ミズノ](../Page/ミズノ.md "wikilink")                                  |
+| 第9回(XXIII)    | 2003年1月1日 | 大畑大介                                                               | ラグビー                                                                                       | モンフェラン                                                            |
+| 第10回(XXVI)    | 2004年1月1日 | [三浦貴](../Page/三浦貴.md "wikilink")                                   | プロ野球                                                                                       | [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")     |
+| 第11回(XXVIII)  | 2005年1月1日 | [池谷直樹](../Page/池谷直樹.md "wikilink")                                 | [体操](../Page/体操.md "wikilink")                                                             | [ホリプロ](../Page/ホリプロ.md "wikilink")                                |
+| 第12回(XXXI)    | 2006年1月1日 | [宮﨑大輔](https://ja.wikipedia.org/wiki/宮﨑大輔 "wikilink")              | [ハンドボール](../Page/ハンドボール.md "wikilink")                                                     | [大崎OSOL](https://ja.wikipedia.org/wiki/大崎OSOL "wikilink")         |
+| 第13回(XXXIV)   | 2007年1月1日 | [ポール・A・テレック](../Page/ポール・アンソニー・テレック.md "wikilink")                 | 陸上・[十種競技](../Page/十種競技.md "wikilink")                                                      | [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")代表           |
+| 第14回(XXXVII)  | 2008年1月1日 | 宮﨑大輔                                                               | ハンドボール                                                                                     | 大崎OSOL                                                            |
+| 第15回(XXXVIII) | 2009年1月3日 | 宮﨑大輔                                                               | ハンドボール                                                                                     | 大崎OSOL                                                            |
 
 #### 芸能人サバイバルバトル
 

@@ -162,7 +162,7 @@
   - [アゼルバイジャン](../Page/アゼルバイジャン.md "wikilink")：[アゼルバイジャン航空](../Page/アゼルバイジャン航空.md "wikilink")
   - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")：[ブラックウォーターUSA](../Page/ブラックウォーターUSA.md "wikilink")
   - [キューバ](../Page/キューバ.md "wikilink")：（Aerogaviota）
-  - [シエラレオネ](https://ja.wikipedia.org/wiki/シエラレオネ "wikilink")：[パラマウント航空](https://ja.wikipedia.org/wiki/パラマウント航空 "wikilink")
+  - [シエラレオネ](../Page/シエラレオネ.md "wikilink")：[パラマウント航空](https://ja.wikipedia.org/wiki/パラマウント航空 "wikilink")
   - [スロヴァキア](https://ja.wikipedia.org/wiki/スロヴァキア "wikilink")：（Air Transport Europe）
   - [中国](../Page/中華人民共和国.md "wikilink")
       - [中国北方航空](../Page/中国北方航空.md "wikilink")

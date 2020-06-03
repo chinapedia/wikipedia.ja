@@ -86,6 +86,6 @@
 
 ## 外部リンク
 
-  - [NHK大分放送局](http://www.nhk.or.jp/oita/)
+  - [NHK大分放送局](https://www.nhk.or.jp/oita/)
 
 [Category:大分市の建築物](https://ja.wikipedia.org/wiki/Category:大分市の建築物 "wikilink") [Category:大分県の放送送信所](https://ja.wikipedia.org/wiki/Category:大分県の放送送信所 "wikilink") [Category:NHK大分](https://ja.wikipedia.org/wiki/Category:NHK大分 "wikilink") [Category:NHKの放送送信施設](https://ja.wikipedia.org/wiki/Category:NHKの放送送信施設 "wikilink")

@@ -60,7 +60,7 @@
 
 ## 脚注
 
-[Category:新垣里沙](https://ja.wikipedia.org/wiki/Category:新垣里沙 "wikilink") [Category:ハロー\!プロジェクト関連の放送番組](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連の放送番組 "wikilink") [Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
+[Category:ハロー\!プロジェクト関連の放送番組](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト関連の放送番組 "wikilink") [Category:FM-FUJIの番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
 
 1.
 2.

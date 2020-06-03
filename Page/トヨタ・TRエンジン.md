@@ -44,7 +44,7 @@
       - [ダイナ](../Page/トヨタ・ダイナ.md "wikilink")/[トヨエース](../Page/トヨタ・トヨエース.md "wikilink")（TRY230系）
       - [コンフォート教習車](../Page/トヨタ・コンフォート.md "wikilink")（TSS13系）
       - [イノーバ](../Page/トヨタ・イノーバ.md "wikilink") 新興国市場車
-      - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")[ボンゴブローニィバン](https://ja.wikipedia.org/wiki/ボンゴ#3代目H20#M型（2019年-_） "wikilink")（TRH200M系）
+      - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")[ボンゴブローニィバン](https://ja.wikipedia.org/wiki/マツダ・ボンゴ#3代目H20#M型（2019年-_） "wikilink")（TRH200M系）
 
 ### 1TR-FPE - 2000cc
 

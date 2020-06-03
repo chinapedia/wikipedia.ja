@@ -1,7 +1,7 @@
 > この記事は[Snipping Tool](https://ja.wikipedia.org/wiki/Snipping_Tool)から翻訳されています。
 
 
-**Snipping Tool** （スニッピング ツール）は[ポインティングデバイス](../Page/ポインティングデバイス.md "wikilink")で指定した画面上の部分的な範囲の[スクリーンショット](https://ja.wikipedia.org/wiki/スクリーンショット "wikilink")を切り取るツールで、[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink") Tablet PC Edition 用の拡張パック「Microsoft 拡張パック for Windows XP Tablet PC Edition」に含まれ、後に Starter と Home Basic を除くエディションの [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") と [Windows 7](../Page/Microsoft_Windows_7.md "wikilink") と [Windows 8/8.1に標準で含まれた](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")。Windows 10 19H1でストア版の[Snip＆Sketchに置き換わる予定](https://ja.wikipedia.org/wiki/切り取り_&_スケッチ "wikilink")。
+**Snipping Tool** （スニッピング ツール）は[ポインティングデバイス](../Page/ポインティングデバイス.md "wikilink")で指定した画面上の部分的な範囲の[スクリーンショット](../Page/スクリーンショット.md "wikilink")を切り取るツールで、[Windows XP](../Page/Microsoft_Windows_XP.md "wikilink") Tablet PC Edition 用の拡張パック「Microsoft 拡張パック for Windows XP Tablet PC Edition」に含まれ、後に Starter と Home Basic を除くエディションの [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") と [Windows 7](../Page/Microsoft_Windows_7.md "wikilink") と [Windows 8/8.1に標準で含まれた](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")。Windows 10 19H1でストア版の[Snip＆Sketchに置き換わる予定](https://ja.wikipedia.org/wiki/切り取り_&_スケッチ "wikilink")。
 
 ## 特徴
 

@@ -2588,7 +2588,7 @@ AC版でAC10のカテゴリにいるキャラクターのうち、GB版が初出
   -
     ピンクの髪に[インカムをつけ](../Page/ヘッドセット_\(音響機器\).md "wikilink")、伊達メガネを掛けてドラムセットを叩く、[C-C-B](../Page/C-C-B.md "wikilink")風の衣装のミミらしきキャラクター。名前表記は異なるが、公式プロフィールは通常のミミと同じ。
 
-    担当曲（版権）：CS14版権曲「ロマンティック（[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")） ※」
+    担当曲（版権）：CS14版権曲「ロマンティック（[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")） ※」
 
   - Mimi Nyami（ミミ&ニャミ） ※
 
@@ -3555,7 +3555,7 @@ AC版でAC10のカテゴリにいるキャラクターのうち、GB版が初出
     担当曲：AC19「ルイナススピリチュアル」、ACうさ猫「nostos」およびACpeace「-UPPER」
 
   - Sarah\&Bred（サラ&ブレッド）
-    誕生日：[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")（サラ）、[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")（ブレッド）
+    誕生日：[6月2日](../Page/6月2日.md "wikilink")（サラ）、[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")（ブレッド）
 
     ギターとピアノのセッションをしているハムスターと馬のコンビ。ギターを弾くハムスターの女性がサラ、ピアノを弾く馬の男性がブレッド。
 

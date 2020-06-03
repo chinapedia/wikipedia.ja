@@ -639,7 +639,7 @@
   - 主題歌 - [EXILE ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")「[青い龍](https://ja.wikipedia.org/wiki/青い龍 "wikilink")」\[63\]（[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")）
   - 演出補 - 相沢秀幸、阿部博行、杉浦祐樹
   - 音楽プロデュース - [志田博英](../Page/志田博英.md "wikilink")
-  - 特殊造型 - [松井祐一](https://ja.wikipedia.org/wiki/松井祐一 "wikilink")、三好史洋
+  - 特殊造型 - [松井祐一](../Page/松井祐一.md "wikilink")、三好史洋
   - 特撮協力 - 田中誠士
   - 手書きタイトル - 湯浅信人
   - 原作協力 - 有藤智文、石田貴信
@@ -773,10 +773,10 @@
       - [医龍 -Team Medical Dragon- 3](http://www.fujitv.co.jp/b_hp/iryu3/)
       - [医龍4 -Team Medical Dragon-](http://www.fujitv.co.jp/b_hp/iryu4/)
   - フジテレビオンデマンド
-      - [医龍 -Team Medical Dragon-](http://fod.fujitv.co.jp/s/genre/drama/ser4187/)
-      - [医龍 -Team Medical Dragon- 2](http://fod.fujitv.co.jp/s/genre/drama/ser4260/)
-      - [医龍 -Team Medical Dragon- 3](http://fod.fujitv.co.jp/s/genre/drama/ser4262/)
-      - [医龍4 -Team Medical Dragon-](http://fod.fujitv.co.jp/s/genre/drama/ser4560/)
+      - [医龍 -Team Medical Dragon-](https://fod.fujitv.co.jp/s/genre/drama/ser4187/)
+      - [医龍 -Team Medical Dragon- 2](https://fod.fujitv.co.jp/s/genre/drama/ser4260/)
+      - [医龍 -Team Medical Dragon- 3](https://fod.fujitv.co.jp/s/genre/drama/ser4262/)
+      - [医龍4 -Team Medical Dragon-](https://fod.fujitv.co.jp/s/genre/drama/ser4560/)
 
 [Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:医師を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:医師を主人公としたテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:2010年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2010年のテレビドラマ "wikilink") [Category:2014年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2014年のテレビドラマ "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink")
 

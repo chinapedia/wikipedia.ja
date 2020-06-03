@@ -31,28 +31,28 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Millennium_Fighting_Arts_INOKI_BOM-BA-YE" title="wikilink">Millennium Fighting Arts INOKI BOM-BA-YE</a></p></td>
+<td><p><a href="../Page/Millennium_Fighting_Arts_INOKI_BOM-BA-YE.md" title="wikilink">Millennium Fighting Arts INOKI BOM-BA-YE</a></p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/12月31日.md" title="wikilink">12月31日</a></p></td>
 <td><p><a href="../Page/大阪ドーム.md" title="wikilink">大阪ドーム</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/西区_(大阪市).md" title="wikilink">西区</a></p></td>
 <td><p><a href="../Page/毎日放送.md" title="wikilink">毎日放送</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/INOKI_BOM-BA-YE_2001" title="wikilink">INOKI BOM-BA-YE 2001</a></p></td>
+<td><p><a href="../Page/INOKI_BOM-BA-YE_2001.md" title="wikilink">INOKI BOM-BA-YE 2001</a></p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a>12月31日</p></td>
 <td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a></p></td>
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/INOKI_BOM-BA-YE_2002" title="wikilink">INOKI BOM-BA-YE 2002</a></p></td>
+<td><p><a href="../Page/INOKI_BOM-BA-YE_2002.md" title="wikilink">INOKI BOM-BA-YE 2002</a></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a>12月31日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/INOKI_BOM-BA-YE_2003" title="wikilink">INOKI BOM-BA-YE 2003 馬鹿になれ夢を持て</a></p></td>
+<td><p><a href="../Page/INOKI_BOM-BA-YE_2003.md" title="wikilink">INOKI BOM-BA-YE 2003 馬鹿になれ夢を持て</a></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a>12月31日</p></td>
 <td><p><a href="../Page/御崎公園球技場.md" title="wikilink">神戸ウイングスタジアム</a></p></td>
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a><a href="../Page/神戸市.md" title="wikilink">神戸市</a><a href="../Page/兵庫区.md" title="wikilink">兵庫区</a></p></td>

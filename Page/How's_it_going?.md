@@ -22,7 +22,7 @@
         イントロがシングルバージョンより1分ほど長い。
 2.  **Crazy groundの王様**［4:01］
       -
-        作詞：ma-saya、作曲・編曲：大野宏明、Rap詞：[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
+        作詞：[ma-saya](https://ja.wikipedia.org/wiki/ma-saya "wikilink")、作曲・編曲：大野宏明、Rap詞：[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
 3.  **Lucky Man**［5:01］
       -
         作詞：尾崎雪絵、作曲：飯田建彦、編曲：大坪直樹、Rap詞：櫻井翔

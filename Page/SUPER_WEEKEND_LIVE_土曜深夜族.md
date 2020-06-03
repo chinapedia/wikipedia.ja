@@ -1,7 +1,7 @@
 > この記事は[SUPER WEEKEND LIVE 土曜深夜族](https://ja.wikipedia.org/wiki/SUPER_WEEKEND_LIVE_土曜深夜族)から翻訳されています。
 
 
-『**SUPER WEEKEND LIVE 土曜深夜族**』（スーパーウィークエンドライブ どようしんやぞく）は、[TBS系列局の一部で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局のTBSでは1988年4月10日（9日深夜）から1989年2月5日（4日深夜）まで、毎週日曜 0:30 - 5:00 （土曜深夜、[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**SUPER WEEKEND LIVE 土曜深夜族**』（スーパーウィークエンドライブ どようしんやぞく）は、[TBS系列局の一部で放送されていた](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。製作局のTBSでは1988年4月10日（9日深夜）から1989年2月5日（4日深夜）まで、毎週日曜 0:30 - 5:00 （土曜深夜、[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 ## 概要
 

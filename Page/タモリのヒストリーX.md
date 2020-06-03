@@ -253,6 +253,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの教養番組](https://ja.wikipedia.org/wiki/Category:フジテレビの教養番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:かつて存在したフジテレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したフジテレビの年末年始特番 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:テレビの歴史番組](https://ja.wikipedia.org/wiki/Category:テレビの歴史番組 "wikilink") [Category:タモリ](https://ja.wikipedia.org/wiki/Category:タモリ "wikilink")

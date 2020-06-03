@@ -9,7 +9,7 @@
   - 前作同様、[BOWWOW](../Page/BOWWOW.md "wikilink")の[山本恭司](../Page/山本恭司.md "wikilink")が参加した。ただし、今回は作曲に参加。また、[マスタリング](../Page/マスタリング.md "wikilink")には[Sum 41](../Page/Sum_41.md "wikilink")、[リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")、[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")など、海外で数々のアーティストの楽曲のマスタリングをしている[マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")、[ブライアン・ガードナー](https://ja.wikipedia.org/wiki/ブライアン・ガードナー "wikilink")が参加。
   - [エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[ドラム](../Page/ドラムセット.md "wikilink")、[ベースのほかに](../Page/ベース_\(弦楽器\).md "wikilink")[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")と[キーボードを使用している](../Page/キーボード_\(楽器\).md "wikilink")。
   - シングルとしては初の初回版（CD＋DVD）と通常盤の2形態での発売となった。さらに通常盤にも初回盤があり、初回盤にはタイアップ先のアニメ『[MAJOR](../Page/メジャー_\(アニメ\).md "wikilink")』のステッカーが付属されていた。
-  - [PVはメンバーが出演していない](../Page/ミュージック・ビデオ.md "wikilink")（近藤、松本、上原は楽器演奏中の手だけ映っている）。そのかわり様々のスポーツをしているエキストラが参加している。さらにラストシーンでは[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の[三浦大輔](../Page/三浦大輔.md "wikilink")が登場する。
+  - [PVはメンバーが出演していない](../Page/ミュージック・ビデオ.md "wikilink")（近藤、松本、上原は楽器演奏中の手だけ映っている）。そのかわり様々のスポーツをしているエキストラが参加している。さらにラストシーンでは[横浜ベイスターズの](../Page/横浜DeNAベイスターズ.md "wikilink")[三浦大輔](../Page/三浦大輔.md "wikilink")が登場する。
   - このシングルのリリース以降、ライブを一度もしないまま解散してしまったため、このシングルに収録された3曲はライブで演奏されることはなかった。
 
 ## 収録曲

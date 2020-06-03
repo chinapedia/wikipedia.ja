@@ -985,7 +985,7 @@ NewStage以降は更に増えるプリキュアの中で突出した活躍をす
 
 :; 第1期「キラキラしちゃってMy True Love！」
 
-:: 作詞：佐々木美和、作曲：[marhy](https://ja.wikipedia.org/wiki/marhy "wikilink")、編曲：[久保田光太郎](https://ja.wikipedia.org/wiki/久保田光太郎 "wikilink") + marhy、歌：[宮本佳那子](../Page/宮本佳那子.md "wikilink")
+:: 作詞：佐々木美和、作曲：[marhy](https://ja.wikipedia.org/wiki/marhy "wikilink")、編曲：[久保田光太郎](../Page/久保田光太郎.md "wikilink") + marhy、歌：[宮本佳那子](../Page/宮本佳那子.md "wikilink")
 
 :: 第1話 - 第32話で使用。
 

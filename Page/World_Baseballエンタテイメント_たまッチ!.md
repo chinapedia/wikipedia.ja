@@ -370,7 +370,7 @@
 
   - スタジオゲスト：KKコンビ、[松坂大輔](https://ja.wikipedia.org/wiki/松坂大輔 "wikilink") ヒーロー3人衆！
   - [松井稼頭央](https://ja.wikipedia.org/wiki/松井稼頭央 "wikilink")が感じた野球の原点
-  - [星野ジャパンのキーマンを直撃](https://ja.wikipedia.org/wiki/星野仙一 "wikilink")（[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")&[上原浩治](https://ja.wikipedia.org/wiki/上原浩治 "wikilink")）
+  - [星野ジャパンのキーマンを直撃](../Page/星野仙一.md "wikilink")（[藤川球児](https://ja.wikipedia.org/wiki/藤川球児 "wikilink")&[上原浩治](https://ja.wikipedia.org/wiki/上原浩治 "wikilink")）
   - MLB2007サムライ4銃士 激闘の裏側（松井稼、[斎藤隆](../Page/斎藤隆_\(野球\).md "wikilink")、[岩村明憲](https://ja.wikipedia.org/wiki/岩村明憲 "wikilink")、[桑田真澄](../Page/桑田真澄.md "wikilink")）
 
 ### 第12回

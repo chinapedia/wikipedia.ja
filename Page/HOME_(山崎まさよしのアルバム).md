@@ -20,11 +20,11 @@ CDジャケットは、ファンクラブ会員が選ぶ「好きなジャケッ
 <!-- end list -->
 
 1.  **Fat Mama** (3:32) - 編曲：萩原健太・山崎将義
-      - ライヴでの定番曲となっており、ライブバージョンが「[心拍数（北海道編）](../Page/心拍数_\(山崎まさよしの曲\).md "wikilink")」に収録されている。
+      - ライブでの定番曲となっており、ライブバージョンがアルバム「[ONE KNIGHT STANDS](../Page/ONE_KNIGHT_STANDS.md "wikilink")」 「[心拍数（北海道編）](../Page/心拍数_\(山崎まさよしの曲\).md "wikilink")」「[WITH STRINGS](../Page/WITH_STRINGS.md "wikilink") 」「[Concert at SUNTORY HALL](https://ja.wikipedia.org/wiki/Concert_at_SUNTORY_HALL "wikilink")」に収録されている。
 2.  **[アドレナリン](../Page/アドレナリン_\(山崎まさよしの曲\).md "wikilink")** (3:45) - 編曲：萩原健太・山崎将義
-      - 5thシングル。[YTV系](../Page/讀賣テレビ放送.md "wikilink")『[どっちの料理ショー](../Page/どっちの料理ショー.md "wikilink")』ED曲、株式会社イシダ CMソング。23rdシングル「[真夜中のBoon Boon](https://ja.wikipedia.org/wiki/真夜中のBoon_Boon "wikilink")」のC/W曲としても使用された。
+      - 5thシングル。[YTV系](../Page/讀賣テレビ放送.md "wikilink")『[どっちの料理ショー](../Page/どっちの料理ショー.md "wikilink")』ED曲、株式会社イシダ CMソング。収録作品は**[こちら](../Page/アドレナリン_\(山崎まさよしの曲\).md "wikilink")**を参照。
 3.  **[セロリ](../Page/セロリ_\(山崎まさよしの曲\).md "wikilink") -Album Version-** (4:13) - 編曲：中村キタロー・山崎将義
-      - 3rdシングル。[フジテレビ系](../Page/フジテレビ系列.md "wikilink") 『気らくに行こう』 ED曲。1997年にSMAPがカヴァーしている（SMAPのカヴァーバージョンについては「[セロリ (SMAPの曲)](../Page/セロリ_\(SMAPの曲\).md "wikilink")」参照）。13thシングル「[心拍数](../Page/心拍数_\(山崎まさよしの曲\).md "wikilink")」の[C/W曲にも採用されている](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。
+      - 3rdシングル。[フジテレビ系](../Page/フジテレビ系列.md "wikilink") 『気らくに行こう』 ED曲。1997年にSMAPがカヴァーしている（SMAPのカヴァーバージョンについては「[セロリ (SMAPの曲)](../Page/セロリ_\(SMAPの曲\).md "wikilink")」参照）。収録作品は**[こちら](../Page/セロリ_\(山崎まさよしの曲\).md "wikilink")**を参照。
 4.  **ベンジャミン** (4:38) - 編曲：山崎将義
 5.  **スクリーミン'97** (1:36) - 編曲：萩原健太・山崎将義
       - オリジナルアルバムでは唯一\[4\]のインストゥルメンタル曲。2005年9月に[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")広場で行われた野外ライヴ「Augusta Camp」\[5\]の際には本曲の2005年バージョンである「スクリーミン'05」が披露された。どちらにも曲名の通り、山崎の叫びが入っている。

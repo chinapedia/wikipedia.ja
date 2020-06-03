@@ -35,7 +35,7 @@
 
 [太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")をはさんで戦後、再び国鉄がディーゼルエンジンの開発に着手したとき、戦前のDMF31Hを参考に開発を計ることも考えられたが、43000形用の各社製試作エンジンそのものは戦時[供出](https://ja.wikipedia.org/wiki/供出 "wikilink")され（金属資材に転用されたものと見られる）、[図面](../Page/図面.md "wikilink")も残っていなかったため、早急な実用量産化を求められた気動車用としての採用は諦められた。国鉄の気動車用標準エンジンは、やはり戦前の原設計だが、資料や試作[部品](https://ja.wikipedia.org/wiki/部品 "wikilink")等が残存していた[DMH17系エンジン](../Page/DMH17系エンジン.md "wikilink")が[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）以降改良を受けて量産化されていくことになる\[1\]。
 
-一方、機関車用の縦形中型エンジンとして適切なサイズのエンジンが検討された結果、この[ボアストローク比](../Page/ボアストローク比.md "wikilink")のエンジンの開発が改めて開始され、国鉄のほか、新潟鐵工所（現・新潟原動機）、[振興造機](https://ja.wikipedia.org/wiki/振興造機 "wikilink")（現・神鋼造機）、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")（現・[ダイハツディーゼル](../Page/ダイハツディーゼル.md "wikilink")）の4者が共同で作業した結果、横形や気筒数を増やした[V形への発展も想定したDMF](../Page/V型エンジン.md "wikilink")31Sが完成する。
+一方、機関車用の縦形中型エンジンとして適切なサイズのエンジンが検討された結果、この[ボアストローク比](../Page/ボアストローク比.md "wikilink")のエンジンの開発が改めて開始され、国鉄のほか、[新潟鐵工所](../Page/新潟鐵工所.md "wikilink")（現・[IHI原動機](https://ja.wikipedia.org/wiki/IHI原動機 "wikilink")）、[振興造機](https://ja.wikipedia.org/wiki/振興造機 "wikilink")（現・神鋼造機）、[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")（現・[ダイハツディーゼル](../Page/ダイハツディーゼル.md "wikilink")）の4者が共同で作業した結果、横形や気筒数を増やした[V形への発展も想定したDMF](../Page/V型エンジン.md "wikilink")31Sが完成する。
 
 国鉄は同時に機関車用液体変速機の開発もすすめ、[1955年](../Page/1955年.md "wikilink")（昭和30年）には振興造機がDS1.2/1.35形を製作、DMF31Sと組み合わせ、[1958年](../Page/1958年.md "wikilink")（昭和33年）に[国鉄DD13形ディーゼル機関車](../Page/国鉄DD13形ディーゼル機関車.md "wikilink")を製作する。DD13形は改良を重ねられながら大量に製作され、[DD14形や](../Page/国鉄DD14形ディーゼル機関車.md "wikilink")[DD15形などの派生形式をも生むことになる](../Page/国鉄DD15形ディーゼル機関車.md "wikilink")。
 

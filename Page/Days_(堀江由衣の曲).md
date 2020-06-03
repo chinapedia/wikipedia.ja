@@ -40,7 +40,7 @@
 <tbody>
 <tr class="odd">
 <td><p>Days</p></td>
-<td><p>『<strong><a href="https://ja.wikipedia.org/wiki/Darling_(堀江由衣のアルバム)" title="wikilink">Darling</a></strong>』</p></td>
+<td><p>『<strong><a href="../Page/Darling_(堀江由衣のアルバム).md" title="wikilink">Darling</a></strong>』</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a></p></td>
 <td><p>6th<a href="../Page/スタジオ・アルバム.md" title="wikilink">オリジナルアルバム</a></p></td>
 </tr>

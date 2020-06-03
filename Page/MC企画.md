@@ -19,7 +19,7 @@
   - [麻生えりか](https://ja.wikipedia.org/wiki/麻生えりか "wikilink")
   - [葦笛るか](../Page/葦笛るか.md "wikilink")
   - [草川祐馬](../Page/草川祐馬.md "wikilink")
-  - [楠年明](https://ja.wikipedia.org/wiki/楠年明 "wikilink")
+  - [楠年明](../Page/楠年明.md "wikilink")
   - [西園寺章雄](../Page/西園寺章雄.md "wikilink")
   - [南条好輝](https://ja.wikipedia.org/wiki/南条好輝 "wikilink")
   - [旭堂南陵](../Page/旭堂南陵.md "wikilink")

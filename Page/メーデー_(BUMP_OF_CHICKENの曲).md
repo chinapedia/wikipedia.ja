@@ -1,7 +1,7 @@
 > この記事は[メーデー \(BUMP OF CHICKENの曲\)](https://ja.wikipedia.org/wiki/メーデー_\(BUMP_OF_CHICKENの曲\))から翻訳されています。
 
 
-『**メーデー**』は、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
+『**メーデー**』（Mayday）は、[BUMP OF CHICKENの](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")から発売された。
 
 ## 概要
 

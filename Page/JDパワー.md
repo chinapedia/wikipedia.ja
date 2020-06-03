@@ -1,7 +1,7 @@
 > この記事は[JDパワー](https://ja.wikipedia.org/wiki/JDパワー)から翻訳されています。
 
 
-**J.D. パワー**（ジェイ.ディー. パワー, J.D. Power）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")を拠点とする、[市場調査](https://ja.wikipedia.org/wiki/市場調査 "wikilink")及び[コンサルティング](../Page/コンサルティング.md "wikilink")会社である。
+**J.D. パワー**（ジェイ.ディー. パワー, J.D. Power）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ミシガン州トロイ](https://ja.wikipedia.org/wiki/ミシガン州トロイ "wikilink")を拠点とする、[市場調査](https://ja.wikipedia.org/wiki/市場調査 "wikilink")及び[コンサルティング](../Page/コンサルティング.md "wikilink")会社である。
 
 1968年、[ジェームズ・デビッド・パワー3世により設立](https://ja.wikipedia.org/wiki/w:en:J._D._Power "wikilink")。現在はアメリカの投資会社、Thoma Bravoの[子会社](../Page/子会社.md "wikilink")となっている\[1\]。
 

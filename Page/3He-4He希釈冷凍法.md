@@ -1,7 +1,7 @@
 > この記事は[3He-4He希釈冷凍法](https://ja.wikipedia.org/wiki/3He-4He希釈冷凍法)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:3He-4HeDilutionFreezing.PNG "wikilink") [Helium_phase_diagram.svg](https://ja.wikipedia.org/wiki/File:Helium_phase_diagram.svg "fig:Helium_phase_diagram.svg") **-希釈冷凍法**（-きしゃくれいとうほう、）とは、[ヘリウム](https://ja.wikipedia.org/wiki/ヘリウム "wikilink")の二つの[同位体](../Page/同位体.md "wikilink")、[{{Chemと](https://ja.wikipedia.org/wiki/ヘリウム3 "wikilink")[{{Chemをそれぞれ液化し](https://ja.wikipedia.org/wiki/ヘリウム4 "wikilink")、相を相に注ぎ[希釈](https://ja.wikipedia.org/wiki/希釈 "wikilink")する際の希釈熱を利用する冷却法である。極低温領域での[冷却](../Page/冷却.md "wikilink")法のひとつ。液体ヘリウムの[蒸発潜熱](https://ja.wikipedia.org/wiki/蒸発潜熱 "wikilink")を使った冷却では到達できない、さらに低温の冷却を行う。現在  以下の極低温を連続的に実現する唯一の方法である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:3He-4HeDilutionFreezing.PNG "wikilink") [Helium_phase_diagram.svg](https://ja.wikipedia.org/wiki/File:Helium_phase_diagram.svg "fig:Helium_phase_diagram.svg") **-希釈冷凍法**（-きしゃくれいとうほう、）とは、[ヘリウム](../Page/ヘリウム.md "wikilink")の二つの[同位体](../Page/同位体.md "wikilink")、[{{Chemと](https://ja.wikipedia.org/wiki/ヘリウム3 "wikilink")[{{Chemをそれぞれ液化し](https://ja.wikipedia.org/wiki/ヘリウム4 "wikilink")、相を相に注ぎ[希釈](https://ja.wikipedia.org/wiki/希釈 "wikilink")する際の希釈熱を利用する冷却法である。極低温領域での[冷却](../Page/冷却.md "wikilink")法のひとつ。液体ヘリウムの[蒸発潜熱](https://ja.wikipedia.org/wiki/蒸発潜熱 "wikilink")を使った冷却では到達できない、さらに低温の冷却を行う。現在  以下の極低温を連続的に実現する唯一の方法である。
 
 中へのの[溶解度](../Page/溶解度.md "wikilink")はおよそ6.6%である。極低温では、との蒸気圧は異なり、溶媒のの中から選択的にを蒸発させる事ができる。すると、中の濃度が低下するので、は引き続きを溶解させることができ、-混合液が潜熱を奪い続けて、冷却をする。蒸発させたは回収し、液化させたのち、再びに溶解させて繰り返し使うことができる。
 

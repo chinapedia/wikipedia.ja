@@ -183,7 +183,7 @@
 ## ドキュメンタリー・教養
 
   - [ニッセイワールドドキュメント](../Page/ニッセイワールドドキュメント.md "wikilink")
-      - [日曜特集・新世界紀行](../Page/日曜特集・新世界紀行.md "wikilink")☆→[浪漫紀行・地球の贈り物](../Page/浪漫紀行・地球の贈り物.md "wikilink")→[世界謎紀行・神々のいたずら](../Page/世界謎紀行・神々のいたずら.md "wikilink")→[神々の詩](../Page/神々の詩.md "wikilink")→[未来の瞳](https://ja.wikipedia.org/wiki/未来の瞳 "wikilink")
+      - [日曜特集・新世界紀行](../Page/日曜特集・新世界紀行.md "wikilink")☆→[浪漫紀行・地球の贈り物](../Page/浪漫紀行・地球の贈り物.md "wikilink")→[世界謎紀行・神々のいたずら](../Page/世界謎紀行・神々のいたずら.md "wikilink")→[神々の詩](../Page/神々の詩.md "wikilink")→[未来の瞳](../Page/未来の瞳.md "wikilink")
   - [兼高かおる世界の旅](https://ja.wikipedia.org/wiki/兼高かおる世界の旅 "wikilink")☆
   - [世界の子供たち](https://ja.wikipedia.org/wiki/世界の子供たち "wikilink")
   - [世界めぐり愛](../Page/世界めぐり愛.md "wikilink")
@@ -1137,7 +1137,7 @@
   - [ただいま同居中](https://ja.wikipedia.org/wiki/ただいま同居中 "wikilink")
   - [赤いシリーズ](../Page/赤いシリーズ.md "wikilink")([山口百恵](../Page/山口百恵.md "wikilink"))☆
   - [噂の刑事トミーとマツ](../Page/噂の刑事トミーとマツ.md "wikilink")☆
-  - [事件狩り](https://ja.wikipedia.org/wiki/事件狩り "wikilink")
+  - [事件狩り](../Page/事件狩り.md "wikilink")
   - [夜明けの刑事](../Page/夜明けの刑事.md "wikilink")☆
   - [新・夜明けの刑事](../Page/新・夜明けの刑事.md "wikilink")
   - [明日の刑事](../Page/明日の刑事.md "wikilink")
@@ -1320,13 +1320,13 @@
 
 **[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")**
 
-  - [食べて極楽\!](https://ja.wikipedia.org/wiki/食べて極楽! "wikilink")（1993年7月-9月『[みかん絵日記](https://ja.wikipedia.org/wiki/みかん絵日記#テレビアニメ "wikilink")』の後番組。この番組を最後にCBC発ゴールデンタイム全国ネット番組が消滅）
+  - [食べて極楽\!](../Page/食べて極楽!.md "wikilink")（1993年7月-9月『[みかん絵日記](https://ja.wikipedia.org/wiki/みかん絵日記#テレビアニメ "wikilink")』の後番組。この番組を最後にCBC発ゴールデンタイム全国ネット番組が消滅）
 
 ## その他
 
   - [不二家の時間](../Page/不二家の時間.md "wikilink")
   - [囲碁アワー](https://ja.wikipedia.org/wiki/囲碁アワー "wikilink")
-  - [奥さま広場](https://ja.wikipedia.org/wiki/奥さま広場 "wikilink")
+  - [奥さま広場](../Page/奥さま広場.md "wikilink")
   - [ハロー\!ミッドナイト](../Page/ハロー!ミッドナイト.md "wikilink")
   - [ARIGA-10](../Page/ARIGA-10.md "wikilink")
   - [伊賀の影丸](https://ja.wikipedia.org/wiki/伊賀の影丸#映像化 "wikilink")
@@ -1385,7 +1385,7 @@
 <!-- end list -->
 
   -
-    TBS\[8\]系の平日生情報ワイド番組(『[みのもんた](../Page/みのもんた.md "wikilink")の[朝ズバッ\!](https://ja.wikipedia.org/wiki/朝ズバッ! "wikilink")』『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』『[ピンポン\!](https://ja.wikipedia.org/wiki/ピンポン! "wikilink")』『[2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")』『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』の司会者が集結し､｢[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")｣から｢ありがとう｣をテーマにトークを展開する｡)併せて､各番組も公開放送にして｢ありがとう｣をテーマにした企画を取り入れる｡
+    TBS\[8\]系の平日生情報ワイド番組(『[みのもんた](../Page/みのもんた.md "wikilink")の[朝ズバッ\!](https://ja.wikipedia.org/wiki/朝ズバッ! "wikilink")』『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』『[ピンポン\!](https://ja.wikipedia.org/wiki/ピンポン! "wikilink")』『[2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")』『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』の司会者が集結し､｢[赤坂サカス](../Page/赤坂サカス.md "wikilink")｣から｢ありがとう｣をテーマにトークを展開する｡)併せて､各番組も公開放送にして｢ありがとう｣をテーマにした企画を取り入れる｡
 
 <!-- end list -->
 

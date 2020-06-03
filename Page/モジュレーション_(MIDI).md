@@ -21,7 +21,7 @@ MIDIでのビブラート効果とは、[LFO](../Page/LFO_\(電子楽器\).md "w
 モジュレーションの効果は、通常ビブラートであるが、[システム・エクスクルーシブ](https://ja.wikipedia.org/wiki/システム・エクスクルーシブ "wikilink")のコントローラー・ディスティネーション・セッティングによって、下記の効果を複数設定することもできる（[GM2](https://ja.wikipedia.org/wiki/GM2 "wikilink")仕様）。同様に[アフタータッチ](https://ja.wikipedia.org/wiki/アフタータッチ "wikilink")や別のコントロールチェンジにビブラート効果を設定することもできる。
 
   - ピッチ
-  - [フィルター](../Page/VCF.md "wikilink")[カットオフ](https://ja.wikipedia.org/wiki/遮断周波数 "wikilink")
+  - [フィルター](../Page/VCF.md "wikilink")[カットオフ](../Page/遮断周波数.md "wikilink")
   - 音量
   - LFOピッチ変調（ビブラート）
   - LFOフィルターカットオフ変調

@@ -1,7 +1,7 @@
 > この記事は[SPARC Enterprise](https://ja.wikipedia.org/wiki/SPARC_Enterprise)から翻訳されています。
 
 
-**SPARC Enterprise**は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")（現[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")）と[富士通](../Page/富士通.md "wikilink")が共同で開発した[UNIX](../Page/UNIX.md "wikilink")サーバである。 [Solaris 10 OS](../Page/Solaris.md "wikilink") が動作する。開発コード名は APL（Advanced Product Line）。
+**SPARC Enterprise**は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")（現[オラクル](../Page/オラクル_\(企業\).md "wikilink")）と[富士通](../Page/富士通.md "wikilink")が共同で開発した[UNIX](../Page/UNIX.md "wikilink")サーバである。 [Solaris 10 OS](../Page/Solaris.md "wikilink") が動作する。開発コード名は APL（Advanced Product Line）。
 
 ## 概要
 

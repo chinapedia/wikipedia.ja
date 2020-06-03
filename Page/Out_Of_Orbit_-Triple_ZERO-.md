@@ -5,7 +5,7 @@
 
 ## 概要
 
-13thシングル「[HEAT CAPACITY](https://ja.wikipedia.org/wiki/HEAT_CAPACITY "wikilink")」以来のノンタイアップ作。6.5万枚のセールスを記録した\[1\]。なお、このシングルより[浅倉大介](../Page/浅倉大介.md "wikilink")によるプロデュースから、西川のセルフプロデュースとなった（ただし浅倉は、以降も作曲、編曲、サウンド・プロデュースを手掛けている）。カップリング曲「LIGHT MY FIRE〜private mix」は5thアルバム『[progress](https://ja.wikipedia.org/wiki/progress_\(T.M.Revolutionのアルバム\) "wikilink")』収録曲のアレンジバージョン。発売時のキャッチコピーは、『1年振りニューシングル\!\!王道のT.M.Revolutionナンバー堂々リリース\!』\[2\]。
+13thシングル「[HEAT CAPACITY](../Page/HEAT_CAPACITY.md "wikilink")」以来のノンタイアップ作。6.5万枚のセールスを記録した\[1\]。なお、このシングルより[浅倉大介](../Page/浅倉大介.md "wikilink")によるプロデュースから、西川のセルフプロデュースとなった（ただし浅倉は、以降も作曲、編曲、サウンド・プロデュースを手掛けている）。カップリング曲「LIGHT MY FIRE〜private mix」は5thアルバム『[progress](https://ja.wikipedia.org/wiki/progress_\(T.M.Revolutionのアルバム\) "wikilink")』収録曲のアレンジバージョン。発売時のキャッチコピーは、『1年振りニューシングル\!\!王道のT.M.Revolutionナンバー堂々リリース\!』\[2\]。
 
 ## 収録曲
 

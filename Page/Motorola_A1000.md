@@ -5,13 +5,13 @@
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")発売。当初はSIMフリー版が無く[3（携帯電話事業者）と契約することで利用できた](https://ja.wikipedia.org/wiki/w:3_\(telecommunications\) "wikilink")。計画では2色登場する予定だったが、1色となった。
+[2004年](../Page/2004年.md "wikilink")発売。当初はSIMフリー版が無くと契約することで利用できた。計画では2色登場する予定だったが、1色となった。
 
 外部メモリは[TransFlashに対応](https://ja.wikipedia.org/wiki/SDメモリーカード#microSDカード "wikilink")。TransFlashと互換性のある[microSDも利用でき](https://ja.wikipedia.org/wiki/SDメモリーカード#microSDカード "wikilink")、1GBの動作報告もされている。
 
 発売当時、A1000の先進的な性能が人気を呼び、いくつかの[フォーラム](https://ja.wikipedia.org/wiki/フォーラム "wikilink")が出来た。
 
-また、モトローラが故意に付けた機能制限を回避するソフト（アプリケーションピッカー[1](http://www.nop.at/nopex/)、GPRSのアカウントエディタ[2](http://www.nop.at/dge/)、外部メモリ上にソフトウェアをインストールできるインストーラ\[[http://www.nop.at/nopex/\]など）がユーザの手によって開発された](http://www.nop.at/nopex/%5Dなど）がユーザの手によって開発された)。
+また、モトローラが故意に付けた機能制限を回避するソフト（アプリケーションピッカー 、GPRSのアカウントエディタ 、外部メモリ上にソフトウェアをインストールできるインストーラ など）がユーザの手によって開発された。
 
 1年後、モトローラからSIMフリー版のA1000が発売。黒色の光沢仕上げのA1000も販売された。
 

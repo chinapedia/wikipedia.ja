@@ -9,7 +9,7 @@
 
 通常版のほか、20,000枚限定の特別BOX仕様である初回限定版が発売され、パッケージには暗号でメッセージが書かれたハンカチ（初回版は布製、通常版は紙製）が封入されている。また、数量限定特典として[タワーレコード](../Page/タワーレコード.md "wikilink")ではAnother Roman CDと渋谷特別ライブ抽選葉書、[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")ではAnother Roman歌詞カード、[とらのあな](https://ja.wikipedia.org/wiki/とらのあな "wikilink")ではAnother Roman BoxとRomanダイジェストCD、[アニメイト](../Page/アニメイト.md "wikilink")ではオリジナルジャケットが用意されていた。
 
-2006年から2007年に開催されたコンサートツアーの様子を収録したDVDとして『[Roman 〜僕達が繋がる物語〜](https://ja.wikipedia.org/wiki/Roman_〜僕達が繋がる物語〜 "wikilink")』もリリースされている。
+2006年から2007年に開催されたコンサートツアーの様子を収録したDVDとして『[Roman 〜僕達が繋がる物語〜](../Page/Roman_〜僕達が繋がる物語〜.md "wikilink")』もリリースされている。
 
 『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）2007年5月号より[桂遊生丸](../Page/桂遊生丸.md "wikilink")によるコラボレーションコミックが連載され、コミック第1巻が2008年4月、第2巻が2009年1月に発売された。全2巻。
 

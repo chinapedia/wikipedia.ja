@@ -16,7 +16,7 @@
   - 今井キララ：[青田典子](../Page/青田典子.md "wikilink")
   - 今井きらら：[京野ことみ](https://ja.wikipedia.org/wiki/京野ことみ "wikilink")
   - 朝井近平：[古屋暢一](../Page/古屋暢一.md "wikilink")
-  - 本田エイミー：[重光絵美](https://ja.wikipedia.org/wiki/重光絵美 "wikilink")
+  - 本田エイミー：[重光絵美](../Page/重光絵美.md "wikilink")
   - [布川敏和](../Page/布川敏和.md "wikilink")
   - [岡まゆみ](../Page/岡まゆみ.md "wikilink")
   - [市川勇](../Page/市川勇.md "wikilink")

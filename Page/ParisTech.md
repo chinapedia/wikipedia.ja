@@ -24,7 +24,7 @@ ParisTechのメンバーの大学と組織は以下の通りである。
   - [エコール・ポリテクニーク](../Page/エコール・ポリテクニーク.md "wikilink"), 1794年設立
   - École supérieure de physique et de chimie industrielles de la ville de Paris, 1882年設立
   - 光学研究所大学院、Institut d'Optique Graduate School, 1917年設立
-  - [HEC経営大学院](https://ja.wikipedia.org/wiki/HEC経営大学院 "wikilink")（École des hautes études commerciales de Paris）1881年設立
+  - [HEC経営大学院](../Page/HEC経営大学院.md "wikilink")（École des hautes études commerciales de Paris）1881年設立
 
 ## 規模
 

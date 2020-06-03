@@ -397,7 +397,7 @@ Disc 3
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/いっそ_セレナーデ" title="wikilink">いっそ セレナーデ</a></p></td>
+<td><p><a href="../Page/いっそ_セレナーデ.md" title="wikilink">いっそ セレナーデ</a></p></td>
 <td><p><a href="../Page/今井美樹.md" title="wikilink">今井美樹</a></p></td>
 <td><p>1984年10月24日</p></td>
 <td></td>

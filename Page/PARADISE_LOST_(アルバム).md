@@ -17,7 +17,7 @@
 
 1.  **Waltz**
 2.  **BLACK SUNSHINE**
-      - PVには[マメ山田](https://ja.wikipedia.org/wiki/マメ山田 "wikilink")が出演。
+      - PVには[マメ山田](../Page/マメ山田.md "wikilink")が出演。
 3.  **ダニー・ボーイ**
 4.  **Forget the swan**
       - [Dinosaur Jrの曲](https://ja.wikipedia.org/wiki/ダイナソーJr "wikilink")「Forget the swan」がタイトルの由来。

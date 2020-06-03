@@ -170,7 +170,7 @@
       - [石原宏高](../Page/石原宏高.md "wikilink")（自民党衆議院議員・当時）
       - [太田和美](https://ja.wikipedia.org/wiki/太田和美_\(政治家\) "wikilink")（民主党衆議院議員）
   - ご意見番
-      - [姜尚中](https://ja.wikipedia.org/wiki/姜尚中 "wikilink")
+      - [姜尚中](../Page/姜尚中.md "wikilink")
 
 #### 2009年衆院選での出演者
 
@@ -455,7 +455,7 @@
   - 2009年の[第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")において、第2弾として放送した。正式タイトルは『**NNN総選挙特番 ZERO×選挙2009**』（エヌエヌエヌ そうせんきょとくばん - ）。
   - 前回に続いて、メインキャスターには紳助と村尾が起用された。
   - [前日（8月29日）から同日にかけて放送される](../Page/8月29日.md "wikilink")『[24時間テレビ32 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』と同日の放送となるため、他局の選挙特番とは1時間遅れてのスタートとなるが、投票締め切り1分前の19時59分から6分間は『24時間テレビ32』を一旦中断して出口調査の速報を報じた（一部地域では、後半に地元選挙区の開票速報を挿入した所もあった）。その後も『24時間テレビ』と並行して開票速報、当確情報を画面上部に表示した。
-      - なお、『24時間テレビ32』でチャリティーマラソンに挑んだ[イモトアヤコ](https://ja.wikipedia.org/wiki/イモトアヤコ "wikilink")は、同番組の時間内で完走できなかったため、本番組内でゴールの模様を21時55分ごろに録画放送した\[25\]\[26\]。
+      - なお、『24時間テレビ32』でチャリティーマラソンに挑んだ[イモトアヤコ](../Page/イモトアヤコ.md "wikilink")は、同番組の時間内で完走できなかったため、本番組内でゴールの模様を21時55分ごろに録画放送した\[25\]\[26\]。
   - 第1部のデータ放送において、視聴者から投稿されたメッセージを半リアルタイムで表示する「選挙メッセンジャー」が実施され、約7万件のコメントが寄せられた。一時、不適切なメッセージが表示されてしまい、日本テレビが謝罪メッセージを出す事態になった。
   - 番組終了後は、一部地域を除いて[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")（フィラー）を放送した。
   - また、2部の司会を務める櫻井は当日は[国立競技場で嵐のライブのため](../Page/国立霞ヶ丘陸上競技場.md "wikilink")、ライブ終了後の出演となった。
@@ -590,7 +590,7 @@
   - [NNN](https://ja.wikipedia.org/wiki/NNN "wikilink")
   - [NNNニュース](../Page/NNNニュース.md "wikilink")
   - [news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")
-  - [NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")
+  - [NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")
   - [news every.](https://ja.wikipedia.org/wiki/news_every. "wikilink")
   - [NNN選挙開票特別番組 ゲキセン\!](../Page/ゲキセン!.md "wikilink")
   - [選挙ステーション](../Page/選挙ステーション.md "wikilink")（ネット局の[福井放送](../Page/福井放送.md "wikilink")と[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では制作協力=[裏送り](../Page/裏送り.md "wikilink")で参加）
@@ -693,7 +693,7 @@
 [Category:日本テレビの特別番組](https://ja.wikipedia.org/wiki/Category:日本テレビの特別番組 "wikilink") [Category:NNN番組](https://ja.wikipedia.org/wiki/Category:NNN番組 "wikilink") [Category:日本の選挙番組](https://ja.wikipedia.org/wiki/Category:日本の選挙番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:島田紳助](https://ja.wikipedia.org/wiki/Category:島田紳助 "wikilink") [Category:櫻井翔](https://ja.wikipedia.org/wiki/Category:櫻井翔 "wikilink")
 
 1.  2018年9月29日までの番組名は、読みが同じである大文字表記の「NEWS ZERO」
-2.  2009年までは『[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』。
+2.  2009年までは『[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』。
 3.  この2局はFNN、[福井放送](../Page/福井放送.md "wikilink")とテレビ宮崎は[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）向けの開票情報も担当している。
 4.  『ZERO×選挙2007』は[スガシカオ](../Page/スガシカオ.md "wikilink")の「春夏秋冬」、『ZERO×選挙2009・2010』は[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")の「[道標](https://ja.wikipedia.org/wiki/化身_\(曲\) "wikilink")」、『ZERO×選挙2012・2013』は[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")「[ツヨク想う](https://ja.wikipedia.org/wiki/ツヨク想う "wikilink")」、『ZERO×選挙2014』は[DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")「[AGAIN](https://ja.wikipedia.org/wiki/AGAIN_\(DREAMS_COME_TRUEの曲\) "wikilink")」、『ZERO×選挙2016』は[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")「[真夏の通り雨](https://ja.wikipedia.org/wiki/真夏の通り雨 "wikilink")、『ZERO×選挙2017』は[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")「[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")」、『ZERO×選挙2019』は[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")と[宮本浩次](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")（[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")）「[獣ゆく細道](https://ja.wikipedia.org/wiki/獣ゆく細道 "wikilink")」。
 5.  2011年8月23日付で芸能界引退。

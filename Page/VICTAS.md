@@ -5,7 +5,7 @@
 
 ## 沿革
 
-  - [1931年](../Page/1931年.md "wikilink")5月 - [東京府](../Page/東京府.md "wikilink")[北豊島郡](../Page/北豊島郡.md "wikilink")[王子町](https://ja.wikipedia.org/wiki/王子町 "wikilink")（現・[東京都](../Page/東京都.md "wikilink")[北区王子](../Page/王子_\(東京都北区\).md "wikilink")）に「鈴木[セルロイド](../Page/セルロイド.md "wikilink")工業所」を鈴木教之が個人創業する。
+  - [1931年](../Page/1931年.md "wikilink")5月 - [東京府](../Page/東京府.md "wikilink")[北豊島郡](../Page/北豊島郡.md "wikilink")[王子町](../Page/王子町.md "wikilink")（現・[東京都](../Page/東京都.md "wikilink")[北区王子](../Page/王子_\(東京都北区\).md "wikilink")）に「鈴木[セルロイド](../Page/セルロイド.md "wikilink")工業所」を鈴木教之が個人創業する。
       - 主に卓球ボールの製造販売をしていた。
   - [1938年](../Page/1938年.md "wikilink")4月 - [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[東成区](../Page/東成区.md "wikilink")腹見町に工業所を移転。
   - [1947年](../Page/1947年.md "wikilink")7月 - 販売部門の強化のため、大阪府大阪市[北区永楽町に](../Page/北区_\(大阪市\).md "wikilink")「株式会社ヤマト商会」を設立。

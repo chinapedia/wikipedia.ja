@@ -77,7 +77,7 @@ AVC1-31338 <a href="https://ja.wikipedia.org/wiki/binyl_records" title="wikilink
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
 <td><p>S.O.S -SAME OLD SONG-</p></td>
 <td><p><small>CD</small></p></td>
-<td><p><small>"KATと<a href="https://ja.wikipedia.org/wiki/VERBAL" title="wikilink">VERBAL</a>"名義</small><br />
+<td><p><small>"KATと<a href="../Page/VERBAL.md" title="wikilink">VERBAL</a>"名義</small><br />
 <small>AVCD-31470 binyl records</small></p></td>
 </tr>
 </tbody>

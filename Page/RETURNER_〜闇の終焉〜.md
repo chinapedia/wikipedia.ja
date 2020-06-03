@@ -18,7 +18,7 @@
     <!-- end list -->
       -
         2006年に[アメリカで公開された映画](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ギャガ](../Page/ギャガ.md "wikilink")・コミュニケーションズ配給[映画](../Page/映画.md "wikilink")『[プレステージ](../Page/プレステージ_\(映画\).md "wikilink")』の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版テーマソング。
-        [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に発売された24thシングル「[REDEMPTION](https://ja.wikipedia.org/wiki/REDEMPTION "wikilink")」以来となる、[ハードロック](../Page/ハードロック.md "wikilink")調の[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")となっている。
+        [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に発売された24thシングル「[REDEMPTION](../Page/REDEMPTION.md "wikilink")」以来となる、[ハードロック](../Page/ハードロック.md "wikilink")調の[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")となっている。
         [ロックテイストの強い楽曲の中にも](../Page/ロック_\(音楽\).md "wikilink")、間奏で[尺八](../Page/尺八.md "wikilink")の[メロディ](../Page/メロディ.md "wikilink")を挿入するなどしている。
         [PVにおけるGacktの甲冑は映画](../Page/ミュージック・ビデオ.md "wikilink")『[天と地と](../Page/天と地と.md "wikilink")』で使用された[上杉謙信](../Page/上杉謙信.md "wikilink")の甲冑である（大河ドラマにおいては、[6月17日](../Page/6月17日.md "wikilink")放送の「越後の龍」から上杉謙信扮するGacktが登場している）。
         シングルの発売から8年近くたってようやく、8枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")『[LAST MOON](https://ja.wikipedia.org/wiki/LAST_MOON "wikilink")』に収録された。

@@ -29,11 +29,11 @@ Monoランタイムは多くの[プロセッサ](../Page/プロセッサ.md "wik
 
 [2000年](../Page/2000年.md "wikilink")12月に[.NETドキュメントが公開されると](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")、Monoプロジェクトの創始者である[ミゲル・デ・イカザ](../Page/ミゲル・デ・イカザ.md "wikilink")は.NET技術に興味を魅かれた。[バイトコード](../Page/バイトコード.md "wikilink")インタプリタを調べてみると、彼は[メタデータに関する仕様が存在しないことに気がついた](../Page/メタデータ_\(共通言語基盤\).md "wikilink")。[2001年](../Page/2001年.md "wikilink")2月、彼は.NET[メーリングリスト](../Page/メーリングリスト.md "wikilink")において不足している情報を公開するよう求め、同時に[C\#の習得のため](../Page/C_Sharp.md "wikilink")、C\#で書かれたC\#[コンパイラ](../Page/コンパイラ.md "wikilink")の開発に着手した。[2001年](../Page/2001年.md "wikilink")4月、[Ecma Internationalは不足していたファイル形式を公開し](https://ja.wikipedia.org/wiki/Ecma_International "wikilink")、デ・イカザは[GUADEC](https://ja.wikipedia.org/wiki/GUADEC "wikilink")（[2001年](../Page/2001年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")-[8日](../Page/4月8日.md "wikilink")）において彼の開発したコンパイラのデモンストレーションを行った（それは自分自身の解析が可能であった）。
 
-[Ximian](https://ja.wikipedia.org/wiki/Ximian "wikilink")（[ノベルに買収される前のMonoの開発会社](../Page/ノベル_\(企業\).md "wikilink")）では、生産性を向上するためのツールを開発するための会議が内部的に行われていた。実現可能性の調査の結果、そのような技術は構築可能であるという結論に至り、Ximianは他のプロジェクトからスタッフを集め、Monoチームを結成した。しかしXimian内部だけで.NETと同等のものを作るには人材が不足していたため、Monoをオープンソースプロジェクトとした。これは[2001年](../Page/2001年.md "wikilink")7月19日、[オライリー](https://ja.wikipedia.org/wiki/オライリー "wikilink")カンファレンスによって発表された。
+[Ximian](../Page/Ximian.md "wikilink")（[ノベルに買収される前のMonoの開発会社](../Page/ノベル_\(企業\).md "wikilink")）では、生産性を向上するためのツールを開発するための会議が内部的に行われていた。実現可能性の調査の結果、そのような技術は構築可能であるという結論に至り、Ximianは他のプロジェクトからスタッフを集め、Monoチームを結成した。しかしXimian内部だけで.NETと同等のものを作るには人材が不足していたため、Monoをオープンソースプロジェクトとした。これは[2001年](../Page/2001年.md "wikilink")7月19日、[オライリー](https://ja.wikipedia.org/wiki/オライリー "wikilink")カンファレンスによって発表された。
 
 3年近く経った[2004年](../Page/2004年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")、Mono 1.0がリリースされた。
 
-  - 2009年12月15日、Mono 2.6がリリースされた。Mono 2.6では、[Windows Communication Foundation](https://ja.wikipedia.org/wiki/Windows_Communication_Foundation "wikilink") (WCF) や [LLVM](../Page/LLVM.md "wikilink") などをサポートした。
+  - 2009年12月15日、Mono 2.6がリリースされた。Mono 2.6では、[Windows Communication Foundation](../Page/Windows_Communication_Foundation.md "wikilink") (WCF) や [LLVM](../Page/LLVM.md "wikilink") などをサポートした。
   - Mono 2.8ではC\# 4.0がサポートされた。
   - Mono 2.8.1ではSystem.Text.Encodingにおいて[日本語](../Page/日本語.md "wikilink") ([Shift_JIS](../Page/Shift_JIS.md "wikilink")) がサポートされた。
   - Mono 3.0.0ではC\# 5.0がサポートされ、async/awaitなどが利用可能となった。
@@ -45,7 +45,7 @@ Monoランタイムは多くの[プロセッサ](../Page/プロセッサ.md "wik
 
 ## プロジェクト名の由来
 
-は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で猿を意味するため、Monoのロゴには猿が描かれている。猿に関する名称は[Ximian](https://ja.wikipedia.org/wiki/Ximian "wikilink")の他のプロジェクトにも見られる。Mono FAQでは、名称の由来に関する質問に対して「我々は猿が好きなのです。」() と回答している\[10\]。
+は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で猿を意味するため、Monoのロゴには猿が描かれている。猿に関する名称は[Ximian](../Page/Ximian.md "wikilink")の他のプロジェクトにも見られる。Mono FAQでは、名称の由来に関する質問に対して「我々は猿が好きなのです。」() と回答している\[10\]。
 
 ## Monoコンポーネント
 
@@ -100,7 +100,7 @@ Windows Formsへの対応については、[Wine](../Page/Wine.md "wikilink")と
   - [GNOME](../Page/GNOME.md "wikilink")
   - [IKVM.NET](../Page/IKVM.NET.md "wikilink") - [Java仮想マシン](../Page/Java仮想マシン.md "wikilink")をMonoフレームワーク上で実現するサブプロジェクト。
   - [ノベル](https://ja.wikipedia.org/wiki/ノベル "wikilink")
-  - [Ximian](https://ja.wikipedia.org/wiki/Ximian "wikilink")
+  - [Ximian](../Page/Ximian.md "wikilink")
   - [Xamarin](https://ja.wikipedia.org/wiki/Xamarin "wikilink")
 
 ## 外部リンク

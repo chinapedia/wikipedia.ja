@@ -104,7 +104,7 @@
 
 <!-- end list -->
 
-  - 3月2日 - この日より営業時間が短縮される。\[17\]
+  - 3月2日 - この日より営業時間が短縮される\[17\]。
 
 
 \== 店舗構成 == [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_01.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_06.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_05.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mozo_AEON_Wonder_City_Shopping_Center_04.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:AEON_Wonder_City_Shopping_Center_03.JPG "wikilink") [Mozo_Wondercity-Westentrance.jpg](https://ja.wikipedia.org/wiki/File:Mozo_Wondercity-Westentrance.jpg "fig:Mozo_Wondercity-Westentrance.jpg")
@@ -197,7 +197,7 @@
 <!-- end list -->
 
   -
-[Category:ダイヤモンドシティ](https://ja.wikipedia.org/wiki/Category:ダイヤモンドシティ "wikilink") [Category:イオンモール](https://ja.wikipedia.org/wiki/Category:イオンモール "wikilink") [Category:名古屋市のショッピングセンター](https://ja.wikipedia.org/wiki/Category:名古屋市のショッピングセンター "wikilink") [Category:名古屋市西区の建築物](https://ja.wikipedia.org/wiki/Category:名古屋市西区の建築物 "wikilink") [Category:2009年開業の施設](https://ja.wikipedia.org/wiki/Category:2009年開業の施設 "wikilink")
+[Category:名古屋市のショッピングセンター](https://ja.wikipedia.org/wiki/Category:名古屋市のショッピングセンター "wikilink") [Category:名古屋市西区の建築物](https://ja.wikipedia.org/wiki/Category:名古屋市西区の建築物 "wikilink") [Category:三菱商事](https://ja.wikipedia.org/wiki/Category:三菱商事 "wikilink") [Category:イオンモール](https://ja.wikipedia.org/wiki/Category:イオンモール "wikilink") [Category:2009年開業の施設](https://ja.wikipedia.org/wiki/Category:2009年開業の施設 "wikilink")
 
 1.
 2.  [全国のイオンモール一覧](http://www.aeonmall.com/shoplist.html#04)、[イオンモールアニュアルレポート2013年2月版](http://www.aeonmall.com/ir/pdf/ar2013_j.pdf)
@@ -205,8 +205,8 @@
 4.  \[<http://www.jrf-reit.com/upd/ir_news/pdf/1411111400311791.pdf>　商業施設 REIT 初の DBJ Green Building 認証取得に関するお知らせ\]
 5.
 6.  “三菱商事が日本リテールファンド投資法人から愛知県名古屋市のワンダーシティを取得”. [建通新聞](https://ja.wikipedia.org/wiki/建通新聞 "wikilink") (建通新聞社). (2007年8月22日)
-7.  [今春グランドオープン予定 『mozo wondercity （モゾ ワンダーシティ）』 ショッピングセンターの名称決定のお知らせ](http://www.aeonmall.com/news/pdf/200901/20090119_2.pdf)
-8.  [新たに生まれ変わる都市型コンプレックスショッピングセンター「mozo wondercity （モゾ ワンダーシティ）」 4月21日（火） AM9:00 グランドオープン](http://www.aeon.info/news/2009_1/pdf/090305_4R.pdf)
+7.  [今春グランドオープン予定 『mozo wondercity （モゾ ワンダーシティ）』 ショッピングセンターの名称決定のお知らせ](https://www.aeonmall.com/files/management_news/767/pdf.pdf)
+8.  [新たに生まれ変わる都市型コンプレックスショッピングセンター「mozo wondercity （モゾ ワンダーシティ）」 4月21日（火） AM9:00 グランドオープン](https://www.aeonmall.com/files/management_news/263/pdf.pdf)
 9.
 10. “イオンリテール、新生イオン船出へ「心機一転」宣言 名古屋ワンダーシティで入社式”. [日本食糧新聞](../Page/日本食糧新聞.md "wikilink") (日本食糧新聞社). (2011年3月11日)
 11. [譲渡に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1110031715311640.pdf)[譲渡完了に関するニュースリリース](http://www.jrf-reit.com/upd/ir_news/pdf/1110031715311640.pdf)旧イオンモール名古屋ワンダーシティ時代もJRFへ信託譲渡していたが、建て直しの際に三菱商事（特定目的会社「上小田井SC2合同会社」）が再取得していた。開店後から3年が経過したため、予定通り再譲渡したものである。ただし、旧イオンモール名古屋ワンダーシティ時代のように、イオンモールへ運営主体・広報主体を移管していない。引き続き、三菱商事がイオンモールにプロパティマネジメントを委託する契約による運営である。

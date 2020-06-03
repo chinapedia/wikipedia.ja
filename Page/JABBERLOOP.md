@@ -97,7 +97,7 @@
 
 :\* 1月、横浜Motion Blueの「afrontier」にゲストで出演する。swatch銀座店の春夏コレクションパーティーにゲスト出演する。
 
-:\* 2月、渋谷JZ Bratでの[SIMBAD](../Page/SIMBAD.md "wikilink")のリリースパーティーにゲスト出演する。[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")のアルバム『[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")』の[ROCKETMAN](https://ja.wikipedia.org/wiki/ROCKETMAN "wikilink")のプロデュースにDAISUKE、MAKOTOが参加する。「COOL TO KOOL」に2回目の出演。
+:\* 2月、渋谷JZ Bratでの[SIMBAD](../Page/SIMBAD.md "wikilink")のリリースパーティーにゲスト出演する。[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")のアルバム『[DOLCE](../Page/DOLCE_\(鈴木亜美のアルバム\).md "wikilink")』の[ROCKETMAN](https://ja.wikipedia.org/wiki/ROCKETMAN "wikilink")のプロデュースにDAISUKE、MAKOTOが参加する。「COOL TO KOOL」に2回目の出演。
 
 :\* 3月、[佐藤竹善](../Page/佐藤竹善.md "wikilink")のリミックスアルバム『CORNERSTONES DOMESTIC MIX at the lounge』にリミックスで参加する。西麻布[YELLOW](https://ja.wikipedia.org/wiki/YELLOW "wikilink")にて『Nouvelle Vague』のリリースパーティーに出演する。コンピレーションアルバム『jazz & flowers』にDJ ShinsukeとDJ Nicheによる青木カレンのリミックスが収録される。「夜ジャズ Experience」に初めてメインアクトとして出演する。
 
@@ -563,7 +563,7 @@
       - JUNIOR IS BACK\!（MELTEN、YUKIのみの参加）
   - Rieカヴァーアルバム「FLAVOR GROOVE HOUSE CASE」
       - INTERLUDE
-  - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") 2ndアルバム「[DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(鈴木亜美のアルバム\) "wikilink")」
+  - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink") 2ndアルバム「[DOLCE](../Page/DOLCE_\(鈴木亜美のアルバム\).md "wikilink")」
       - アイノウタ feat.[YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")（DAISUKE、MAKOTOのみの参加）
   - [佐藤竹善](../Page/佐藤竹善.md "wikilink")([SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink"))「CORNERSTONES DOMESTIC MIX at the lounge」
       - 生まれ来る子供たちのために（JABBERLOOP Remix)

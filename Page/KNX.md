@@ -19,7 +19,7 @@ EIB の[プロトコルスタック](../Page/プロトコルスタック.md "wik
 
 KNX は特定のハードウェアプラットフォームとは独立したものとして設計されている。KNX ネットワークは8ビットの[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")や[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")で、適当な実装をすることで制御できる。
 
-KNX の一部は、[C-Bus](https://ja.wikipedia.org/wiki/C-Bus "wikilink")（オーストラリア発祥の[ホームオートメーション](https://ja.wikipedia.org/wiki/ホームオートメーション "wikilink")規格）や[ECHONET](https://ja.wikipedia.org/wiki/ECHONET "wikilink")（日本発祥の同様の規格）とも競合している。
+KNX の一部は、[C-Bus](https://ja.wikipedia.org/wiki/C-Bus "wikilink")（オーストラリア発祥の[ホームオートメーション](../Page/ホームオートメーション.md "wikilink")規格）や[ECHONET](https://ja.wikipedia.org/wiki/ECHONET "wikilink")（日本発祥の同様の規格）とも競合している。
 
 [Embedded_World_KNX_TP_Demo_Board.jpg](https://ja.wikipedia.org/wiki/File:Embedded_World_KNX_TP_Demo_Board.jpg "fig:Embedded_World_KNX_TP_Demo_Board.jpg")
 
@@ -37,7 +37,7 @@ KNX 機器は二種類に分類される。
 ## 関連項目
 
   - [インテリジェントビル](../Page/インテリジェントビル.md "wikilink")
-  - [ホームオートメーション](https://ja.wikipedia.org/wiki/ホームオートメーション "wikilink")
+  - [ホームオートメーション](../Page/ホームオートメーション.md "wikilink")
   - [タッチパネル](../Page/タッチパネル.md "wikilink")
 
 ## 外部リンク

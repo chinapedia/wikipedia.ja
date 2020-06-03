@@ -98,7 +98,7 @@
 
   - [NHK岐阜放送局](../Page/NHK岐阜放送局.md "wikilink")
   - [NHK高山支局](../Page/NHK高山支局.md "wikilink")
-  - [NHK白川坂ノ東テレビ中継局](https://ja.wikipedia.org/wiki/NHK白川坂ノ東テレビ中継局 "wikilink")
+  - [NHK白川坂ノ東テレビ中継局](../Page/NHK白川坂ノ東テレビ中継局.md "wikilink")
   - [下呂中継局](../Page/下呂中継局.md "wikilink")
   - [NHK小坂中継局](https://ja.wikipedia.org/wiki/NHK小坂中継局 "wikilink")
 

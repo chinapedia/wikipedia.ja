@@ -36,7 +36,7 @@
     [5月3日](../Page/5月3日.md "wikilink")、『[欽ちゃん&香取慎吾の第80回全日本仮装大賞](https://ja.wikipedia.org/wiki/欽ちゃんの仮装大賞 "wikilink")』に出場。15点で合格（仮装のタイトルは「[洗車機](../Page/洗車機.md "wikilink") go\!go\!」）。
     [5月6日](../Page/5月6日.md "wikilink")、『開局55年記念番組 ワールドレディスサロンパスカップ』（5月8日～5月11日）の前夜祭に出席。
     [7月12日](../Page/7月12日.md "wikilink")公開の映画『[それいけ\!アンパンマン](https://ja.wikipedia.org/wiki/それいけ!アンパンマン "wikilink") 妖精リンリンのひみつ』で、ダンス好きの3匹の猿役で声優を担当。
-    [8月27日](../Page/8月27日.md "wikilink")、[東京ドーム](../Page/東京ドーム.md "wikilink")のグラウンドで「[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")×[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")」試合前に[チームヴィーナス](https://ja.wikipedia.org/wiki/チームヴィーナス "wikilink")的コスチュームで（当日しか練習していないぶっつけ本番で）ダンスを披露後、『[ワンセグ](../Page/ワンセグ.md "wikilink")プレミアムナイター』の“ワンセグ野球チャット”（[データ放送](../Page/データ放送.md "wikilink")）に参加<ref>
+    [8月27日](../Page/8月27日.md "wikilink")、[東京ドーム](../Page/東京ドーム.md "wikilink")のグラウンドで「[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")×[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")」試合前に[チームヴィーナス](https://ja.wikipedia.org/wiki/チームヴィーナス "wikilink")的コスチュームで（当日しか練習していないぶっつけ本番で）ダンスを披露後、『[ワンセグ](../Page/ワンセグ.md "wikilink")プレミアムナイター』の“ワンセグ野球チャット”（[データ放送](../Page/データ放送.md "wikilink")）に参加<ref>
 
 <http://www.ntv.co.jp/base2008/news/index.html></ref>\[6\]。
 

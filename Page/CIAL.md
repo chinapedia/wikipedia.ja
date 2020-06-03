@@ -1,11 +1,11 @@
 > この記事は[CIAL](https://ja.wikipedia.org/wiki/CIAL)から翻訳されています。
 
 
-**CIAL**（シァル）は、[JR東日本グループ](https://ja.wikipedia.org/wiki/JR東日本グループ "wikilink")の[株式会社横浜ステーシヨンビルが](https://ja.wikipedia.org/wiki/横浜ステーシヨンビル "wikilink")[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") の[駅ビル](../Page/駅ビル.md "wikilink")などで展開する商業施設の名称。
+**CIAL**（シァル）は、[JR東日本グループ](https://ja.wikipedia.org/wiki/JR東日本グループ "wikilink")の[株式会社横浜ステーシヨンビルが](../Page/横浜ステーシヨンビル.md "wikilink")[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") の[駅ビル](../Page/駅ビル.md "wikilink")などで展開する商業施設の名称。
 
 ## 概要
 
-[昭和](../Page/昭和.md "wikilink")30年代に[相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")が主導した横浜駅西口開発計画で建設された、[国鉄](../Page/日本国有鉄道.md "wikilink")[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")西口駅舎「[横浜ステーションビル](https://ja.wikipedia.org/wiki/横浜ステーシヨンビル "wikilink")」のキーテナントとして、「**シァル**」（のちの**横浜CIAL**）の名称で[1962年](../Page/1962年.md "wikilink")に開店した。運営会社の横浜ステーシヨンビルはかつては[相鉄グループ](https://ja.wikipedia.org/wiki/相鉄グループ "wikilink")の企業であったが、[2004年](../Page/2004年.md "wikilink")12月に[相鉄ホールディングス](https://ja.wikipedia.org/wiki/相鉄ホールディングス "wikilink")が保有株式を[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")に譲渡したため、現在はJR東日本グループの企業となっている。
+[昭和](../Page/昭和.md "wikilink")30年代に[相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")が主導した横浜駅西口開発計画で建設された、[国鉄](../Page/日本国有鉄道.md "wikilink")[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")西口駅舎「[横浜ステーションビル](../Page/横浜ステーシヨンビル.md "wikilink")」のキーテナントとして、「**シァル**」（のちの**横浜CIAL**）の名称で[1962年](../Page/1962年.md "wikilink")に開店した。運営会社の横浜ステーシヨンビルはかつては[相鉄グループ](https://ja.wikipedia.org/wiki/相鉄グループ "wikilink")の企業であったが、[2004年](../Page/2004年.md "wikilink")12月に[相鉄ホールディングス](https://ja.wikipedia.org/wiki/相鉄ホールディングス "wikilink")が保有株式を[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")に譲渡したため、現在はJR東日本グループの企業となっている。
 
 ## 商業施設
 
@@ -25,7 +25,7 @@
 
 #### 沿革
 
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月3日](../Page/2月3日.md "wikilink") - [相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")と[崎陽軒](../Page/崎陽軒.md "wikilink")による国鉄横浜駅西口駅舎の建設計画を統合し\[5\]、相模鉄道・[鉄道弘済会](../Page/鉄道弘済会.md "wikilink")・崎陽軒・[東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")の4社の共同出資で[株式会社横浜ステーシヨンビルを設立](https://ja.wikipedia.org/wiki/横浜ステーシヨンビル "wikilink")\[6\]。
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[2月3日](../Page/2月3日.md "wikilink") - [相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")と[崎陽軒](../Page/崎陽軒.md "wikilink")による国鉄横浜駅西口駅舎の建設計画を統合し\[5\]、相模鉄道・[鉄道弘済会](../Page/鉄道弘済会.md "wikilink")・崎陽軒・[東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")の4社の共同出資で[株式会社横浜ステーシヨンビルを設立](../Page/横浜ステーシヨンビル.md "wikilink")\[6\]。
   - [1962年](../Page/1962年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink") - [民衆駅](../Page/民衆駅.md "wikilink")として横浜駅西口駅舎「**横浜ステーションビル**」（地下2階・地上7階建て、延床面積2万3,942㎡）が竣工。[ボウリング](../Page/ボウリング.md "wikilink")場「横浜駅ビルボール」\[7\]\[8\]・相高横浜駅店（[相鉄ローゼン](../Page/相鉄ローゼン.md "wikilink")の前身）\[9\]など、約170店\[10\]が入居。
   - [1982年](../Page/1982年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - 全面改装を行い、施設名を「横浜ステーションビル」から「**シァル**（**CIAL**）」に改称\[11\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月30日](../Page/6月30日.md "wikilink") - [相鉄グループ](https://ja.wikipedia.org/wiki/相鉄グループ "wikilink")の持ち株会社化に伴う事業整理のため、相模鉄道の持ち分を[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）に譲渡し、横浜ステーシヨンビルが[JR東日本グループ](https://ja.wikipedia.org/wiki/JR東日本グループ "wikilink")となる。

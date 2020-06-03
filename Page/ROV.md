@@ -50,7 +50,7 @@
 ## 関連項目
 
   - [無人機](../Page/無人機.md "wikilink")
-  - [深海探査艇](https://ja.wikipedia.org/wiki/深海探査艇 "wikilink")
+  - [深海探査艇](../Page/深海探査艇.md "wikilink")
   - [ハイパードルフィン](../Page/ハイパードルフィン.md "wikilink")
   - [宇宙探査機](../Page/宇宙探査機.md "wikilink")
 

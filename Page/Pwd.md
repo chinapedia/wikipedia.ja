@@ -1,7 +1,7 @@
 > この記事は[Pwd](https://ja.wikipedia.org/wiki/Pwd)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Pwdkommando.png "wikilink")  **pwd** (ピーダブリューディー、**p**ositioning **w**orking **d**irectory\[1\]) は、[カレントディレクトリ](https://ja.wikipedia.org/wiki/カレントディレクトリ "wikilink")（ポジショニングワーキングディレクトリ）のフルパスを出力するコマンドである。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Pwdkommando.png "wikilink")  **pwd** (ピーダブリューディー、**p**rint **w**orking **d**irectory) は、[カレントディレクトリ](https://ja.wikipedia.org/wiki/カレントディレクトリ "wikilink")のフルパスを出力するコマンドである。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 
 ## オプション
 
-POSIXでは、pwdコマンドには下記のようなオプションがある\[2\]。（シェル組込み版があるシェルを使っている場合、これを使うには一般に何らかの方法で、外部コマンド版を実行するようにしなければならない）
+POSIXでは、pwdコマンドには下記のようなオプションがある\[1\]。（シェル組込み版があるシェルを使っている場合、これを使うには一般に何らかの方法で、外部コマンド版を実行するようにしなければならない）
 
   - `-L`（`--logical`）:論理的なカレントディレクトリ名を出力する。
   - `-P`（`--physical`）:物理的なカレントディレクトリ名を出力する（＝もし現在のディレクトリがシンボリックリンクであった場合、リンク先のディレクトリ名を出力する）。
@@ -31,5 +31,4 @@ POSIXでは、pwdコマンドには下記のようなオプションがある\[2
 
 [Category:UNIXのソフトウェア](https://ja.wikipedia.org/wiki/Category:UNIXのソフトウェア "wikilink")
 
-1.
-2.  <http://pubs.opengroup.org/onlinepubs/9699919799/utilities/pwd.html>
+1.  <http://pubs.opengroup.org/onlinepubs/9699919799/utilities/pwd.html>

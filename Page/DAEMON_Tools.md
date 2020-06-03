@@ -183,7 +183,7 @@
 
 ## 関連項目
 
-  - [Alcohol 52%](https://ja.wikipedia.org/wiki/Alcohol_52% "wikilink")
+  - [Alcohol 52%](../Page/Alcohol_52%.md "wikilink")
   - [CD革命/Virtual](https://ja.wikipedia.org/wiki/CD革命/Virtual "wikilink")
   - [DVD Decrypter](../Page/DVD_Decrypter.md "wikilink")
   - [DVD Shrink](../Page/DVD_Shrink.md "wikilink")

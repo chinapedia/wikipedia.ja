@@ -48,6 +48,7 @@
   - ロマンティックがとまらない - [高野葉子](https://ja.wikipedia.org/wiki/高野葉子 "wikilink")の少女小説。1992年4月、集英社・コバルト文庫
   - 妄想恋愛（ロマンティック）がとまらない - [瀬戸口みづき](https://ja.wikipedia.org/wiki/瀬戸口みづき "wikilink")の漫画。2005年11月、メディアファクトリー
       - いつだって妄想恋愛がとまらない - 続編。2006年10月、メディアファクトリー
+  - [ゲームセンターCX](https://ja.wikipedia.org/wiki/ゲームセンターCX "wikilink")-2006年11月～12月　ミニコーナー名が「ロマンティックが止まらない」。(曲も使用されている。)
   - トラベル・カルチャー誌『TRANSIT』13号 - 2011年6月24日発売、[講談社](../Page/講談社.md "wikilink")、[ムック本](../Page/ムック_\(出版\).md "wikilink")。表紙に「美しきフランス ロマンティックが止まらない」と記されている[1](http://www.transit.ne.jp/contents/magazine/transit13.php)。
   - [手持ち花火](../Page/手持ち花火.md "wikilink")：「ロマンティックが止まらない」 - 花火製造会社・若松屋が販売している手持ち花火のセットの名称。2010年頃から量販店などで販売。
   - 女性向けファッション誌『[sweet](https://ja.wikipedia.org/wiki/sweet_\(雑誌\) "wikilink")』 - 2015年3月号（2015年2月12日発売、[宝島社](../Page/宝島社.md "wikilink")）。表紙に「2015年春、「ロマンティック」が止まらない\!」と記されている[2](http://tkj.jp/sweet/201503/)。

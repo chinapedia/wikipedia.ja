@@ -82,7 +82,7 @@
 
 ## 関連項目
 
-  - [My Best Friend 2](https://ja.wikipedia.org/wiki/My_Best_Friend_2 "wikilink")
+  - [My Best Friend 2](../Page/My_Best_Friend_2.md "wikilink")
   - [PURE ENERGY](../Page/PURE_ENERGY.md "wikilink")
   - [My Best Friend 3](../Page/My_Best_Friend_3.md "wikilink")
 

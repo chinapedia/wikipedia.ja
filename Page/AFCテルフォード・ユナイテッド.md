@@ -7,7 +7,7 @@
 
 **一試合最多観客動員数**
 
-  - 5710人 vs [バースコー](https://ja.wikipedia.org/wiki/バースコーFC "wikilink")　2007.4.28
+  - 5710人 vs [バースコー](../Page/バースコーFC.md "wikilink")　2007.4.28
 
 ''' 一試合最多得点勝利試合 '''
 

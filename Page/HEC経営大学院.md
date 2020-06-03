@@ -120,7 +120,7 @@ HECのMSc in Managementは、フィナンシャル・タイムズのランキン
   - [ボードゥアン・ボロ](https://ja.wikipedia.org/wiki/ボードゥアン・ボロ "wikilink") - [BNPパリバ](../Page/BNPパリバ.md "wikilink")会長
   - [シドニー・トーレル](https://ja.wikipedia.org/wiki/シドニー・トーレル "wikilink") - 元[イーライリリー・アンド・カンパニー](../Page/イーライリリー・アンド・カンパニー.md "wikilink")会長兼CEO
   - [パスカル・ソリオット](https://ja.wikipedia.org/wiki/パスカル・ソリオット "wikilink") - [アストラゼネカ](../Page/アストラゼネカ.md "wikilink")CEO
-  - [フバート・ジョリー](https://ja.wikipedia.org/wiki/フバート・ジョリー "wikilink") - [ベスト・バイ](https://ja.wikipedia.org/wiki/ベスト・バイ "wikilink")CEO
+  - [フバート・ジョリー](https://ja.wikipedia.org/wiki/フバート・ジョリー "wikilink") - [ベスト・バイ](../Page/ベスト・バイ.md "wikilink")CEO
   - [エマニュエル・ファベール](https://ja.wikipedia.org/wiki/エマニュエル・ファベール "wikilink") - [ダノン](../Page/ダノン.md "wikilink")CEO
   - [ステファン・リチャード](https://ja.wikipedia.org/wiki/ステファン・リチャード "wikilink") - [オレンジ](../Page/オレンジ.md "wikilink")CEO
   - [ジャン＝ドミニク・スナール](https://ja.wikipedia.org/wiki/ジャン＝ドミニク・スナール "wikilink") - [ミシュラン](../Page/ミシュラン.md "wikilink")CEO

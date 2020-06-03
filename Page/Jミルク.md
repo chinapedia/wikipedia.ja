@@ -14,7 +14,7 @@
 
 <div style="float:left; vertical-align:top; margin-right:1em">
 
-  - [中央酪農会議](https://ja.wikipedia.org/wiki/中央酪農会議 "wikilink")
+  - [中央酪農会議](../Page/中央酪農会議.md "wikilink")
   - [全国農業協同組合連合会](../Page/全国農業協同組合連合会.md "wikilink")
   - [全国酪農業協同組合連合会](https://ja.wikipedia.org/wiki/全国酪農業協同組合連合会 "wikilink")
   - [（社）日本乳業協会](https://ja.wikipedia.org/wiki/日本乳業協会 "wikilink")

@@ -147,7 +147,7 @@
   -
   - [ジャズピアニスト則岡徹ホームページ](http://hwm7.gyao.ne.jp/nori-tets/)
 
-  - [ジャズベーシスト西川輝正のブログ](http://d.hatena.ne.jp/nishikawaterumasa/)
+  - [ジャズベーシスト西川輝正のブログ](https://nishikawaterumasa.hatenablog.com/)
 
   - [有限会社オフィスサーティーマイル](http://www.30mile.jp/)
 

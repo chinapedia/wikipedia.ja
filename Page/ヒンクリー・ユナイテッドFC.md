@@ -39,6 +39,10 @@
   - 2010-2011 カンファレンス・ノース 15位
   - 2011-2012 カンファレンス・ノース 20位
 
+## 歴代所属選手
+
+  - [アンドレ・グレイ](https://ja.wikipedia.org/wiki/アンドレ・グレイ "wikilink") 2010, 2010-2012
+
 ## 外部リンク
 
   - [公式サイト](https://web.archive.org/web/20081227050237/http://www.hinckleyunitedfc.org/)

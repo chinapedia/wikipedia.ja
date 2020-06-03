@@ -1,7 +1,7 @@
 > この記事は[Gたかし](https://ja.wikipedia.org/wiki/Gたかし)から翻訳されています。
 
 
-**G（ジー）たかし**（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[9月30日](../Page/9月30日.md "wikilink") - ）は、日本の[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")、[ものまね芸人](../Page/ものまねタレント.md "wikilink")。本名、**直井 崇**（なおい たかし）。[茨城県](../Page/茨城県.md "wikilink")[筑西市](../Page/筑西市.md "wikilink")出身\[1\]。[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")所属。
+**Gたかし**（ジーたかし、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[9月30日](../Page/9月30日.md "wikilink") - ）は、日本の[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")、[ものまね芸人](../Page/ものまねタレント.md "wikilink")。本名、**直井 崇**（なおい たかし）。[茨城県](../Page/茨城県.md "wikilink")[筑西市](../Page/筑西市.md "wikilink")出身\[1\]。[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")所属。
 
 ## 来歴・人物
 
@@ -74,7 +74,7 @@
 
   - [高田延彦](../Page/高田延彦.md "wikilink")
   - [竹原慎二](../Page/竹原慎二.md "wikilink")
-  - [貴乃花光司](https://ja.wikipedia.org/wiki/貴乃花光司 "wikilink")
+  - [貴乃花光司](../Page/貴乃花光司.md "wikilink")
   - [高橋克実](../Page/高橋克実.md "wikilink")
   - [高橋茂雄](../Page/高橋茂雄.md "wikilink")（[サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")）
   - [武田鉄矢](../Page/武田鉄矢.md "wikilink")
@@ -96,7 +96,7 @@
 
 <!-- end list -->
 
-  - [博多華丸](../Page/博多華丸.md "wikilink") （[博多華丸大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉\(お笑いコンビ\) "wikilink")）
+  - [博多華丸](../Page/博多華丸.md "wikilink") （[博多華丸大吉](../Page/博多華丸・大吉.md "wikilink")）
   - [氷室京介](../Page/氷室京介.md "wikilink")
   - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")
   - [藤岡弘、](../Page/藤岡弘、.md "wikilink")

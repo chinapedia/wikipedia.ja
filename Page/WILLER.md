@@ -28,7 +28,7 @@
       - 日本高速バス株式会社（同上、[日本観光](https://ja.wikipedia.org/wiki/日本観光 "wikilink")との合弁企業）
       - 株式会社大阪さやま交通（同上、[さやま交通](https://ja.wikipedia.org/wiki/さやま交通 "wikilink")との合弁企業、2015年11月30日まではWILLER EXPRESS関西株式会社）
   - WILLER損保サービス株式会社（損害保険代理店業）
-  - 株式会社ホテル・オペレーション・システムズ（「ホテル白馬」（[長野県](../Page/長野県.md "wikilink")[北安曇郡](../Page/北安曇郡.md "wikilink")[白馬村](../Page/白馬村.md "wikilink")）の運営）
+  - 株式会社ホテル・オペレーション・システムズ（「ホテル白馬」（[長野県](../Page/長野県.md "wikilink")[北安曇郡](../Page/北安曇郡.md "wikilink")[白馬村](../Page/白馬村.md "wikilink")）の運営）。
   - [WILLER TRAINS株式会社](https://ja.wikipedia.org/wiki/WILLER_TRAINS "wikilink")（旅客鉄道事業、**京都丹後鉄道**の名称で[北近畿タンゴ鉄道](../Page/北近畿タンゴ鉄道.md "wikilink")から施設管理以外の部門を[第二種鉄道事業者として承継](https://ja.wikipedia.org/wiki/鉄道事業者#第二種鉄道事業 "wikilink")）
   - 丹鉄ファンド株式会社
   - 株式会社クールジャパントラベル（角川アスキー総合研究所との合弁会社、25%出資）

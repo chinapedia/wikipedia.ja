@@ -96,7 +96,7 @@
   - [宮沢和史](../Page/宮沢和史.md "wikilink") (\#1-12)
   - Claude-Michel-Shonberg (\#1-13)
   - MIO (\#1-14)
-  - [佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink") (\#2-15)
+  - [佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink") (\#2-15)
   - 川上明彦 (\#2-2,\#2-8,\#2-9)
   - [都志見隆](../Page/都志見隆.md "wikilink") (\#2-3)
   - [中崎英也](../Page/中崎英也.md "wikilink") (\#2-4)

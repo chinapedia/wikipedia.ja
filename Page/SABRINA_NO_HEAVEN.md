@@ -8,7 +8,7 @@
   - 2003年3月に発売されたアルバム「[SABRINA HEAVEN](../Page/SABRINA_HEAVEN.md "wikilink")」と対を成す位置付けとされ、同時期にレコーディングされた。本作品は[HDCD](../Page/HDCD.md "wikilink")にて収録されている。
   - 「SABRINA HEAVEN」と今作を2枚に分けてリリースした理由を[チバは](../Page/チバユウスケ.md "wikilink")「2枚組のCDとかって、やっぱ全部聴かないからさ」と[JAPAN COUNTDOWNのインタビューで語っている](../Page/JAPAN_COUNTDOWN.md "wikilink")。
   - 収録曲は6曲とミニアルバム並みだが、チバは「ミニアルバムとは思っていない」「ただ曲数が少ないだけ」と発言している。「SABRINA HEAVEN」同様、収録曲には前年のツアーやライブで既に披露されていた楽曲も存在する。
-  - 同日に[インディーズ・レーベル](https://ja.wikipedia.org/wiki/インディーズ・レーベル "wikilink")である「[TRIPPIN' ELEPHANT RECORDS](https://ja.wikipedia.org/wiki/TRIPPIN'_ELEPHANT_RECORDS "wikilink")」から「[Girl Friend](https://ja.wikipedia.org/wiki/Girl_Friend_\(thee_michelle_gun_elephantの曲\) "wikilink")」がリリースされた。
+  - 同日に[インディーズ・レーベル](https://ja.wikipedia.org/wiki/インディーズ・レーベル "wikilink")である「[TRIPPIN' ELEPHANT RECORDS](https://ja.wikipedia.org/wiki/TRIPPIN'_ELEPHANT_RECORDS "wikilink")」から「[Girl Friend](../Page/Girl_Friend_\(thee_michelle_gun_elephantの曲\).md "wikilink")」がリリースされた。
 
 ## 収録曲
 

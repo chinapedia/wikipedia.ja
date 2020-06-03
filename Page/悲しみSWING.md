@@ -48,7 +48,7 @@
   - [スーパージョッキー](../Page/スーパージョッキー.md "wikilink")
   - [ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
-  - [ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")
+  - [ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")
 
 [Category:本田美奈子.の楽曲](https://ja.wikipedia.org/wiki/Category:本田美奈子.の楽曲 "wikilink")

@@ -471,7 +471,7 @@ WILLER GROUPまたはWILLER EXPRESSチームに所属する各事業者に出資
 
 <!-- end list -->
 
-  - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink") ‐ WILLERバスターミナル大阪梅田
+  - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink") ‐ WILLERバスターミナル大阪梅田
 
 <!-- end list -->
 

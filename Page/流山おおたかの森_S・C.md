@@ -34,7 +34,7 @@
   - [UNIQLO](../Page/ユニクロ.md "wikilink")
   - [KEYUCA](https://ja.wikipedia.org/wiki/KEYUCA "wikilink")
   - [Beauty Deli by HOUSE OF ROSE](../Page/ハウス_オブ_ローゼ.md "wikilink")
-  - [TAYA](https://ja.wikipedia.org/wiki/田谷 "wikilink")
+  - [TAYA](../Page/田谷.md "wikilink")
   - [カメラのキタムラ](https://ja.wikipedia.org/wiki/カメラのキタムラ "wikilink")
   - [BAGEL\&BAGEL](https://ja.wikipedia.org/wiki/BAGEL&BAGEL "wikilink")
   - ATMコーナー

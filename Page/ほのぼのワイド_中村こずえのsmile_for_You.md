@@ -9,7 +9,7 @@
 
 ## 概要
 
-前番組『極太ラジオ・いきYoh\!Yoh\!』まで、この時間帯はSBSのベテラン男性[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")と女性アナウンサーのコンビで担当していたが、当番組より[首都圏で活動する](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")プログラムとなり、放送時間も拡大した。
+前番組『極太ラジオ・いきYoh\!Yoh\!』まで、この時間帯はSBSのベテラン男性[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")と女性アナウンサーのコンビで担当していたが、当番組より[首都圏で活動する](../Page/首都圏_\(日本\).md "wikilink")[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")プログラムとなり、放送時間も拡大した。
 
 ## タイムテーブル
 

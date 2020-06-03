@@ -1,13 +1,13 @@
 > この記事は[HJ文庫大賞](https://ja.wikipedia.org/wiki/HJ文庫大賞)から翻訳されています。
 
 
-**HJ文庫大賞**（エイチジェイぶんこたいしょう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が[2006年](../Page/2006年.md "wikilink")より開催している[ライトノベル](../Page/ライトノベル.md "wikilink")の公募[文学賞](../Page/文学賞.md "wikilink")である。
+**HJ文庫大賞**（エイチジェイぶんこたいしょう）は、かつて[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が[2006年](../Page/2006年.md "wikilink")から[2019年](../Page/2019年.md "wikilink")まで開催していた[ライトノベル](../Page/ライトノベル.md "wikilink")の公募[文学賞](../Page/文学賞.md "wikilink")である。
 
 ## 概説
 
-受賞は選考委員の合議によって決定される。受賞者には大賞100万円、金賞（第1 - 3回は優秀賞）50万円、銀賞（第1 - 3回は佳作）10万円・奨励賞及び審査員特別賞5万円が授与されるが、大賞の該当作が存在しなかった場合その賞金は[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")され、次回の大賞の賞金にプラスされる\[1\]\[2\]。
+受賞は選考委員の合議によって決定された。受賞者には大賞100万円、金賞（第1 - 3回は優秀賞）50万円、銀賞（第1 - 3回は佳作）10万円・奨励賞及び審査員特別賞5万円が授与されるが、大賞の該当作が存在しなかった場合その賞金は[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")され、次回の大賞の賞金にプラスされた\[1\]\[2\]。
 
-佳作以上の作品については同社・[HJ文庫](../Page/HJ文庫.md "wikilink")からの刊行が確約されているが実際には奨励賞・特別賞受賞作品の大半も刊行されている。また、応募資格を新人に限定していないため他社でデビューした作家の受賞事例（第2回佳作）も存在する。
+佳作以上の作品については同社・[HJ文庫](../Page/HJ文庫.md "wikilink")からの刊行が確約されていたが実際には奨励賞・特別賞受賞作品の大半も刊行された。また、応募資格を新人に限定していなかったため他社でデビューした作家の受賞事例（第2回佳作）も存在する。
 
 ## 沿革
 
@@ -19,11 +19,13 @@
 
 [2018年](../Page/2018年.md "wikilink")開催の第13回より応募方法がWeb応募のみに変更された\[5\]。
 
+[2020年](../Page/2020年.md "wikilink")をもってHJ文庫大賞は[ノベルアップ+](../Page/ノベルアップ+.md "wikilink")小説大賞と統合され、「HJ小説大賞」となることが発表された\[6\]\[7\]。HJ小説大賞は2期制で、従来のHJ文庫大賞が「HJ小説大賞前期」として未発表作品限定のコンテストに、ノベルアップ+小説大賞が「HJ小説大賞後期」としてノベルアップ+発表作品でも応募可能なコンテストとなる\[8\]\[9\]。
+
 ## 選考委員
 
   - 第1回（[2006年](../Page/2006年.md "wikilink")）、第2回（[2007年](../Page/2007年.md "wikilink")）
     [榊一郎](../Page/榊一郎.md "wikilink")・[五代ゆう](../Page/五代ゆう.md "wikilink")・松岡卓（ZERO-Section）・星野孝太（ホビージャパン取締役編集制作局長）
-  - 第3回（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）〜
+  - 第3回（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）〜 第14回（[2019年](../Page/2019年.md "wikilink")）
     宇田川芳彦（HJ文庫編集長）・他
 
 ## 入賞作品一覧
@@ -100,13 +102,13 @@
 <td><p>佳作</p></td>
 <td><p>ブリティッシュ・ミステリアス・ミュージアム<br />
 （<a href="../Page/ミスティック・ミュージアム.md" title="wikilink">ミスティック・ミュージアム</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤春都" title="wikilink">藤春都</a>[6]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤春都" title="wikilink">藤春都</a>[10]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>奨励賞</p></td>
 <td><p><em>ナノの星、しましまの王女、宮殿の秘密</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村文宏" title="wikilink">西村文宏</a>[7]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西村文宏" title="wikilink">西村文宏</a>[11]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -459,7 +461,7 @@
 </tr>
 <tr class="even">
 <td><p>HJノベルス賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊勢崎ウェポンディーラーズ〜異世界で武器の買い取り始めました〜" title="wikilink">伊勢崎ウェポンディーラーズ〜異世界で武器の買い取り始めました〜</a>[8]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/伊勢崎ウェポンディーラーズ〜異世界で武器の買い取り始めました〜" title="wikilink">伊勢崎ウェポンディーラーズ〜異世界で武器の買い取り始めました〜</a>[12]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九重七六八" title="wikilink">九重七六八</a></p></td>
 <td></td>
 </tr>
@@ -481,7 +483,7 @@
 <td><p>銀賞</p></td>
 <td><p>異世界でたこ焼き屋始めたけどわりと簡単に潰れた<br />
 （<a href="https://ja.wikipedia.org/wiki/異世界でタコ焼き屋始めたけどわりと簡単に潰れた" title="wikilink">異世界でタコ焼き屋始めたけどわりと簡単に潰れた</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/七色春日" title="wikilink">七色春日</a>[9]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/七色春日" title="wikilink">七色春日</a>[13]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -639,7 +641,11 @@
 3.  HJ日和（HJ文庫新刊の折り込みチラシ）58号。
 4.  ただし、第1回開催時には「読める\!HJ文庫」はオープンしていなかった。
 5.
-6.  本賞を受賞する以前の[2006年](../Page/2006年.md "wikilink")に「藤村脩」名義で[リーフ出版](../Page/リーフ出版.md "wikilink")よりデビュー。
-7.  受賞作は未刊だが、後に「[逃走少女と契約しました。猫だけど。](https://ja.wikipedia.org/wiki/逃走少女と契約しました。猫だけど。 "wikilink")」でデビュー。
-8.  本作はHJ文庫のサブレーベルの[HJノベルス](https://ja.wikipedia.org/wiki/HJノベルス "wikilink")で発売された。
-9.  本賞を受賞する以前の[2015年](../Page/2015年.md "wikilink")に[キルタイムコミュニケーション](../Page/キルタイムコミュニケーション.md "wikilink")よりデビュー。
+6.
+7.
+8.
+9.
+10. 本賞を受賞する以前の[2006年](../Page/2006年.md "wikilink")に「藤村脩」名義で[リーフ出版](../Page/リーフ出版.md "wikilink")よりデビュー。
+11. 受賞作は未刊だが、後に「[逃走少女と契約しました。猫だけど。](https://ja.wikipedia.org/wiki/逃走少女と契約しました。猫だけど。 "wikilink")」でデビュー。
+12. 本作はHJ文庫のサブレーベルの[HJノベルス](https://ja.wikipedia.org/wiki/HJノベルス "wikilink")で発売された。
+13. 本賞を受賞する以前の[2015年](../Page/2015年.md "wikilink")に[キルタイムコミュニケーション](../Page/キルタイムコミュニケーション.md "wikilink")よりデビュー。

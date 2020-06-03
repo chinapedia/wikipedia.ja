@@ -105,7 +105,7 @@
 
 <!-- end list -->
 
-  - **[A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")**
+  - **[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
       - 「[EVERLASTING LOVE](https://ja.wikipedia.org/wiki/ABC_STAR_LINE "wikilink")」（作曲）
 
 <!-- end list -->

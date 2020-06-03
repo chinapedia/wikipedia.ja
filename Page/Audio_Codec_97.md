@@ -1,7 +1,7 @@
 > この記事は[Audio Codec 97](https://ja.wikipedia.org/wiki/Audio_Codec_97)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Yakumo_Notebook_536S_-_Realtek_ALC655-7154.jpg "wikilink") **Audio Codec 97**（オーディオコーデック キュウジュウナナ）は[1996年](../Page/1996年.md "wikilink")に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が提唱したサウンド[インターフェースの標準規格である](../Page/インタフェース_\(情報技術\).md "wikilink")。96年に最初のRev. 1.0が発表され以降改定を重ねており、Rev. 2.3が最新版となっている。[2004年](../Page/2004年.md "wikilink")に発表された**[High Definition Audio](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink")**が後継規格となっている。なお一般には**AC'97**と略称されることが多い。本項でも以下ではAC'97と呼称する。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Yakumo_Notebook_536S_-_Realtek_ALC655-7154.jpg "wikilink") **Audio Codec 97**（オーディオコーデック キュウジュウナナ）は[1996年](../Page/1996年.md "wikilink")に[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が提唱したサウンド[インターフェースの標準規格である](../Page/インタフェース_\(情報技術\).md "wikilink")。96年に最初のRev. 1.0が発表され以降改定を重ねており、Rev. 2.3が最新版となっている。[2004年](../Page/2004年.md "wikilink")に発表された**[High Definition Audio](../Page/High_Definition_Audio.md "wikilink")**が後継規格となっている。なお一般には**AC'97**と略称されることが多い。本項でも以下ではAC'97と呼称する。
 
 ## 概要
 
@@ -40,7 +40,7 @@
 
 1999年に登場したIntel810チップセットで採用された**[ICH](https://ja.wikipedia.org/wiki/I/O_コントローラー・ハブ "wikilink")**以降、一般的なPC用[チップセット](../Page/チップセット.md "wikilink")のサウスブリッジにはAC'97準拠の論理コントローラが統合されていた。そのため、当時のPCのサウンド機能は、サウスブリッジの論理コントローラと[マザーボード](../Page/マザーボード.md "wikilink")上のアナログコーデックチップで実現している場合が多かった。安価かつ実装面積が少ないというメリットがある反面、AC'97で定められているサンプリングレートでは[DVD-Audio](../Page/DVD-Audio.md "wikilink")などの高音質フォーマットに十分対応できないという問題があった。
 
-2004年、AC'97の問題点に対応するための後継規格としてインテルは[High Definition Audio](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink")(HD Audio)規格を発表した。2006年頃までには新規に出荷されるシステムの大半はHD Audio準拠サウンド機能に置き換えられたが、旧式チップを使用した廉価システムなどではAC'97も依然使用されていた。
+2004年、AC'97の問題点に対応するための後継規格としてインテルは[High Definition Audio](../Page/High_Definition_Audio.md "wikilink")(HD Audio)規格を発表した。2006年頃までには新規に出荷されるシステムの大半はHD Audio準拠サウンド機能に置き換えられたが、旧式チップを使用した廉価システムなどではAC'97も依然使用されていた。
 
 ## AC'97規格準拠アナログコーデックチップの主なメーカー
 
@@ -59,6 +59,6 @@
   - [マザーボード](../Page/マザーボード.md "wikilink")
   - [サウンドカード](../Page/サウンドカード.md "wikilink")
   - [オンボード](../Page/オンボード.md "wikilink")
-  - [High Definition Audio](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink")
+  - [High Definition Audio](../Page/High_Definition_Audio.md "wikilink")
 
 [Category:インテル](https://ja.wikipedia.org/wiki/Category:インテル "wikilink") [Category:サウンドカード](https://ja.wikipedia.org/wiki/Category:サウンドカード "wikilink")

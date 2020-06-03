@@ -51,7 +51,7 @@
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink")（NRN離脱後も放送、21世紀になる前に打ち切り）
   - [和歌山放送](../Page/和歌山放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")※
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
   - [山口放送](../Page/山口放送.md "wikilink")※
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")

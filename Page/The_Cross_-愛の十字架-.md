@@ -63,7 +63,7 @@
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
   - [ミュージックフェア](../Page/ミュージックフェア.md "wikilink")
   - [ヤング歌謡大賞・新人グランプリ](../Page/ヤング歌謡大賞・新人グランプリ.md "wikilink")
-  - [ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")
+  - [ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")
   - [夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE
   - 夢の乱入者
 

@@ -33,8 +33,6 @@ AZUという名前は「A〜Zまですべての言葉に想いをこめてU (YOU
 
 娘の名前は 『 空青 』アオちゃん。専用のinstaも公開されている。\[9\]
 
-
-
 ## 人物
 
   - 好きな食べ物は[野菜](../Page/野菜.md "wikilink")、[漬物](../Page/漬物.md "wikilink")、[苺](../Page/イチゴ.md "wikilink")、[牛乳](../Page/牛乳.md "wikilink")。

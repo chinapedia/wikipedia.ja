@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1994年](../Page/1994年.md "wikilink")（平成6年）[5月24日](../Page/5月24日.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区にて](../Page/北区_\(大阪市\).md "wikilink")**株式会社西日本ツアーズ**として創業。[企画旅行](../Page/企画旅行.md "wikilink")の成功で業績を伸ばしつづけ、1998年には大阪市に自社ビルを建設するまでに成長した。その後、主に[首都圏と](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")を結ぶ[ツアーバス](../Page/ツアーバス.md "wikilink")「Star Express」の取り扱いを開始する。通常の[高速路線バスよりも安価に移動できる点と](../Page/高速バス.md "wikilink")、[インターネット](../Page/インターネット.md "wikilink")を積極的に活用した予約システムが高い評価を得て人気を得る。2005年には[株式移転](../Page/株式移転.md "wikilink")の形で**西日本ホールディングス株式会社**（現・[WILLER](../Page/WILLER.md "wikilink")株式会社）を設立し、実質的な[持株会社](../Page/持株会社.md "wikilink")制に移行する。2006年、現行の社名に変更。ブランド名も「Star Express」から「J-EXPRESS」を経て「[WILLER EXPRESS](../Page/WILLER_EXPRESS.md "wikilink")」に一新。
+[1994年](../Page/1994年.md "wikilink")（平成6年）[5月24日](../Page/5月24日.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北区にて](../Page/北区_\(大阪市\).md "wikilink")**株式会社西日本ツアーズ**として創業。[企画旅行](../Page/企画旅行.md "wikilink")の成功で業績を伸ばしつづけ、1998年には大阪市に自社ビルを建設するまでに成長した。その後、主に[首都圏と](../Page/首都圏_\(日本\).md "wikilink")[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")を結ぶ[ツアーバス](../Page/ツアーバス.md "wikilink")「Star Express」の取り扱いを開始する。通常の[高速路線バスよりも安価に移動できる点と](../Page/高速バス.md "wikilink")、[インターネット](../Page/インターネット.md "wikilink")を積極的に活用した予約システムが高い評価を得て人気を得る。2005年には[株式移転](../Page/株式移転.md "wikilink")の形で**西日本ホールディングス株式会社**（現・[WILLER](../Page/WILLER.md "wikilink")株式会社）を設立し、実質的な[持株会社](../Page/持株会社.md "wikilink")制に移行する。2006年、現行の社名に変更。ブランド名も「Star Express」から「J-EXPRESS」を経て「[WILLER EXPRESS](../Page/WILLER_EXPRESS.md "wikilink")」に一新。
 
 2013年8月からの新高速乗合バス制度移行に伴い、WILLER TRAVELの役割はツアーバスの企画業務から高速バスの乗車券販売業務に移行した（但し、販売形態は自社による手配旅行となる）。[2015年](../Page/2015年.md "wikilink")[11月](../Page/11月.md "wikilink")に自社ビルから[梅田スカイビル](../Page/梅田スカイビル.md "wikilink")に本社機能を移転した。
 
@@ -83,7 +83,7 @@
 
 ## 参考
 
-  - [日経スペシャル ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")「[1,000円高速への逆襲 ～バス・新幹線の新サービス合戦～](http://www.tv-tokyo.co.jp/gaia/backnumber/preview100112.html)」（2010年1月12日放送）
+  - [日経スペシャル ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")「[1,000円高速への逆襲 ～バス・新幹線の新サービス合戦～](https://www.tv-tokyo.co.jp/gaia/backnumber/preview100112.html)」（2010年1月12日放送）
 
   - 日テレNEWS24 江上剛の汐留リーダーズEYE「ウィラー・トラベル　村瀬茂高社長に聞く」（2009年9月4日放送）
 

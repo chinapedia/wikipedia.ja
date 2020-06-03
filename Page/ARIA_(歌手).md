@@ -235,7 +235,7 @@ RZCD-46045</p></td>
       - M17 『LAST SONG -MY LOVE EPILOGUE- feat. ARIA』参加
   - NORTH COAST BAD BOYZ「DE JAVU OF THE 6MEN」（2010年1月20日、VICL-63530）
       - M5 『ESCORT feat. ARIA』参加
-  - [ANTY the 紅乃壱](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink")「ANTY」（2010年7月21日、VICL-63643）
+  - [ANTY the 紅乃壱](../Page/ANTY_the_紅乃壱.md "wikilink")「ANTY」（2010年7月21日、VICL-63643）
       - M4 『ボルケーノ feat. ARIA』参加
   - 「TRIBUTE TO [DS455](../Page/DS455.md "wikilink")」（2010年12月8日、VFS-031）
       - M7 『Night 4 playaz』参加

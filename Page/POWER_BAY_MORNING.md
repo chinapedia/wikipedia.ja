@@ -12,13 +12,26 @@
 ## タイムテーブル
 
   - 5:00 番組オープニング
+  - 5:09 bayfm UPDATES
+  - 5:11 bayfm WEATHER UPDATES
   - 5:12 POWER BAY MORNING MUSIC SHOWER
     … 日替わりのテーマで3曲をセレクトする。洋楽篇か邦楽篇を放送し、6時台にはその逆を流す。また曜日ごとに洋邦が入れ替わる。
+  - 5:33 bayfm WEATHER UPDATES
   - 5:35 PBM HEADLINE
     …一般紙・スポーツ紙の記事から、気になるトピックスをピックアップ。
+  - 6:00 bayfm UPDATES
+  - 6:03 bayfm WEATHER UPDATES
   - 6:05 POWER BAY MORNING MUSIC SHOWER
   - 6:30 PBM HEADLINE
-  - 6:45 TRENDER
+  - 6:34 bayfm WEATHER UPDATES
+  - 6:36 bayfm TRAFFIC UPDATES(首都高)
+  - 6:40 TRENDER
+  - 6:53 快適生活ラジオショッピング
+  - 7:00 bayfm WEATHER UPDATES(ウェザーニュース、月・水：天然温泉湯～ねる、火・木・金：マックス運輸提供)
+  - 7:04 bayfm UPDATES (月・水・金：千葉土建提供)
+  - 7:06 bayfm TRAFFIC UPDATES(千葉県警、月・水・金：AHCアットホームセンター、火・木：ちばぎんJCBカード・ちばぎんDCカード提供)
+  - 7:10 THE TARGET(導入部分)
+  - 7:20 bayfm TRAFFIC UPDATES(首都高、[千葉銀行](../Page/千葉銀行.md "wikilink")提供)
   - 7:25 MAKUHARI URBAN CLOSE UP（月・金のみ）
     … 幕張メッセで開催されるイベントのインフォメーション。
   - 7:30 THE TARGET
@@ -28,27 +41,27 @@
       - 木曜：「マネー、暮らし、ライフスタイル」
       - 金曜：「エンタメ」
   - 7:38 ラジオショッピング（各社）
+  - 7:46 bayfm TRAFFIC UPDATES(千葉県警、火・木：AHCアットホームセンター、水：株式会社ファミリー、金：なごみの米屋提供)
   - 7:55 ちーばレポ … 金曜日のみちばぎん総合研究所提供。
-  - 8:12 [CHIBA TOYOPET](https://ja.wikipedia.org/wiki/千葉トヨペット "wikilink") ENJOY DRIVING … 運転に関するトピックを紹介。2016年3月まで水曜・木曜は光永亮太ではなく、斉藤りさが担当していた。
+  - 8:00 bayfm UPDATES(月：黒平まんじゅう本舗、火～金：[日進レンタカー](https://ja.wikipedia.org/wiki/日進レンタカー "wikilink")提供)
+  - 8:04 bayfm WEATHER UPDATES(月：オートウィル、火：千葉鋼材、水：[ちばぎん証券](../Page/ちばぎん証券.md "wikilink")、金：東方エージェンシー提供)
+  - 8:06 bayfm TRAFFIC UPDATES(首都高、月・水・金：アイキョーグループ、火：千葉県トラック協会、木：フラット7提供)
+  - 8:12 bayfm AIRLINE UPDATES(月：野崎建築工業、火～木：日進レンタカー提供)
+    …羽田空港の発着便の情報をビッグバードのキャスターが伝える。
+  - 8:15 [CHIBA TOYOPET](https://ja.wikipedia.org/wiki/千葉トヨペット "wikilink") ENJOY DRIVING … 運転に関するトピックを紹介。2016年3月まで水曜・木曜は光永亮太ではなく、斉藤りさが担当していた。
+  - 8:20 POWER PLAY
+  - 8:23 bayfm TRAFFIC UPDATES(千葉県警、月・火：ネッツトヨタ千葉、木：ナガミネゴルフセンターグループ、金：[南総通運](../Page/南総通運.md "wikilink")提供)
   - 8:30
       - 月曜：ニシダ・カレーキングダム… 千葉県内の有名店のカレーを紹介
-      - 火曜：BUZZメーター
+      - 火曜：シン明快西田辞典
       - 水曜：今週のスポットライト
       - 木曜：[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")Spirits～WIN BY ALL … ジェフ千葉を応援するコーナー。試合結果や選手インタビューなどを紹介。2016年3月までは金曜に放送。
       - 金曜：シバサチスコープ
+  - 8:43 bayfm WEATHER UPDATES(火・木：AHCアットホームセンター、水：菜々の湯、金：日新住宅販売提供)
+  - 8:46 bayfm TRAFFIC UPDATES(千葉県警、[広島建設](https://ja.wikipedia.org/wiki/広島建設 "wikilink")セナリオハウス提供)
   - 8:55 エンディング
     …9:00からの後続番組「[miracle\!\!](https://ja.wikipedia.org/wiki/miracle!! "wikilink")」（月～木）の[ANNA](../Page/ANNA.md "wikilink")、「[MOTIVE\!\!](https://ja.wikipedia.org/wiki/MOTIVE!! "wikilink")」（金曜）の[安東弘樹](../Page/安東弘樹.md "wikilink")・[宮島咲良](../Page/宮島咲良.md "wikilink")とクロストークを行う。
-
-この他、ニュース・天気予報・交通情報を挿入。[Updatesも参照のこと](https://ja.wikipedia.org/wiki/Updates_\(ベイエフエム\) "wikilink")。
-
-  - bayfm UPDATES ― 5:09，6:00，7:04，8:00
-    … 最新のニュース。
-  - bayfm WEATHER UPDATES ― 5:11，5:33，6:03，6:34，7:00，8:04，8:39
-    … ベイエリアとその周辺の天気予報。7:00はウェザーニューズのキャスターから伝えてもらう。5時台の天気でフリートークを、7:00では番組テーマに沿ったトークを展開し、最後にキャスターが「いってらっしゃい」と言ってコーナーが終わる。
-  - bayfm TRAFFIC UPDATES ― 6:36（首），7:06（千），7:20（首），7:46（千），8:06（首），8:23（千），8:46（千）
-    … [首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")ならびに首都圏の高速道路と一般道路の情報を、[日本道路交通情報センター](../Page/日本道路交通情報センター.md "wikilink")（JARTIC）から伝える。（首）は首都高速センター、（千）は千葉センターと中継。スタジオからは鉄道情報も併せて伝える。
-  - bayfm AIRLINE UPDATES ― 8:12
-    … 羽田空港の発着便の情報をビッグバードのキャスターが伝える。
+  - 8:57 放送終了
 
 ## 各曜日のDJ
 
@@ -59,8 +72,7 @@
     <!-- end list -->
       -
         2019年4月1日 - 2020年3月30日は月曜日のみ担当。
-        ※[新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症 "wikilink") の流行、緊急事態宣言、感染拡大の防止の観点から2020年4月20日より大阪でのリモート出演となっている。
-        bayfm本社スタジオでは、柴田幸子がニュース・天気予報・交通情報、曜日別コーナーを担当する。
+        ※[新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症 "wikilink") の流行、緊急事態宣言、感染拡大の防止の観点から2020年4月20日より西田の活動拠点でもある大阪でのリモート出演となっている。
   - 水曜日、木曜日
       - [光永亮太](../Page/光永亮太.md "wikilink")（2015年4月1日 - ）
     <!-- end list -->
@@ -71,7 +83,6 @@
     <!-- end list -->
       -
         2018年4月2日 - 2019年3月25日は月曜日担当
-        2020年4月20日より西田新のリモート出演に伴い、一時的に月・火・金曜日担当となっている。
 
 ### 過去のDJ
 
@@ -120,6 +131,15 @@
   - [宇佐美友紀](https://ja.wikipedia.org/wiki/宇佐美友紀 "wikilink")（2018年1月29日）
   - 柴田幸子・里崎智也\[1\]（2018年2月19日）
 
+<!-- end list -->
+
+  - 西田新のリモート出演に関する対応 (2020年4月20日-)
+
+基本的にニュース、天気、交通情報を担当する。
+
+  - 柴田幸子（2020年4月20日、4月21日、4月27日、4月28日）
+  - 土井結貴\[2\]（2020年5月4日、5月5日、5月11日、5月12日、5月18日、5月19日）
+
 ## 外部リンク
 
   - [POWER BAY MORNING](http://web.bayfm.jp/pbmorning/)（番組公式サイト）
@@ -137,3 +157,4 @@
 [Category:Bayfmの帯番組](https://ja.wikipedia.org/wiki/Category:Bayfmの帯番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
 
 1.  毎週月曜夕方にレギュラー出演している[The BAY☆LINEにも通常通り出演](https://ja.wikipedia.org/wiki/The_BAY☆LINE "wikilink")
+2.  bayfm金曜日情報アナウンサー

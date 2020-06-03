@@ -183,7 +183,7 @@
 
   - [少年画報社 - comics - BADBOYSグレアー 全16巻](http://www.shonengahosha.jp/comics/index.php?c1=200011)
 
-[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:田中宏_(漫画家)](https://ja.wikipedia.org/wiki/Category:田中宏_\(漫画家\) "wikilink") [Category:ヤングキング](https://ja.wikipedia.org/wiki/Category:ヤングキング "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:暴走族を題材とした漫画](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした漫画 "wikilink") [Category:広島県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:広島県を舞台とした作品 "wikilink")
+[Category:田中宏_(漫画家)](https://ja.wikipedia.org/wiki/Category:田中宏_\(漫画家\) "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:1996年の漫画](https://ja.wikipedia.org/wiki/Category:1996年の漫画 "wikilink") [Category:ヤングキング](https://ja.wikipedia.org/wiki/Category:ヤングキング "wikilink") [Category:不良少年・不良少女を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:不良少年・不良少女を主人公とした漫画作品 "wikilink") [Category:暴走族を題材とした漫画](https://ja.wikipedia.org/wiki/Category:暴走族を題材とした漫画 "wikilink") [Category:広島県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:広島県を舞台とした漫画作品 "wikilink")
 
 1.  [少年画報社 - calendar - 2006年10月](http://www.shonengahosha.jp/calendar/index.php?y=2006&m=10&d=31)
 2.  [少年画報社 - calendar - 2006年11月](http://www.shonengahosha.jp/calendar/index.php?y=2006&m=11&d=01)

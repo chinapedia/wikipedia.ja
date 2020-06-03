@@ -13,7 +13,7 @@
 
 [2001年](../Page/2001年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、[闘龍門](../Page/闘龍門.md "wikilink")JAPAN[ディファ有明](../Page/ディファ有明.md "wikilink")大会で引退試合が行われた。引退後は闘龍門JAPANのインストラクターに転身。
 
-[12月10日](../Page/12月10日.md "wikilink")、闘龍門JAPAN[駒沢オリンピック公園](../Page/駒沢オリンピック公園.md "wikilink")屋内球技場大会でSAITOの弟子としてスペル・シーサーが[ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")とタッグを組んで対[望月享](../Page/横須賀享.md "wikilink")&[ダークネス・ドラゴン組戦でデビューしているがシーサーの声がSAITOに似ていることSAITOが過去の活動歴から同一人物疑惑が今も絶えない](../Page/K-ness..md "wikilink")。SAITOは疑惑を否定するため、一夜限りの現役復帰を行ってシーサーと対戦したが、この時のシーサーは別人であったとも言われている。とはいえ、シーサーは[DRAGON GATEオフィシャルブックで正体がSAITOであることを公表している](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
+[12月10日](../Page/12月10日.md "wikilink")、闘龍門JAPAN[駒沢オリンピック公園](../Page/駒沢オリンピック公園.md "wikilink")屋内球技場大会において、SAITOの弟子を名乗るスペル・シーサーが、[ドラゴン・キッド](../Page/ドラゴン・キッド.md "wikilink")とタッグを組み対[望月享](../Page/横須賀享.md "wikilink")&[ダークネス・ドラゴン組戦でデビューしているが](../Page/K-ness..md "wikilink")、シーサーの声がSAITOに似ていることや、SAITOの過去の活動歴から同一人物疑惑が絶えなかった。SAITOは疑惑を否定するため、一夜限りの現役復帰を行ってシーサーと対戦したが、この時のシーサーは別人であったとも言われている。とはいえ、シーサーは[DRAGON GATEオフィシャルブックでは正体がSAITOであることを公表している](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。
 
 ## 得意技
 

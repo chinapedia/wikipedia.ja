@@ -31,7 +31,7 @@
 
 2011年、『R-1ぐらんぷり』で準決勝進出。
 
-2011年、[テレ朝動画](https://ja.wikipedia.org/wiki/テレ朝動画 "wikilink")『[ももクロChan](https://ja.wikipedia.org/wiki/ももクロChan "wikilink")』でサイキック芸人として、[ももいろクローバー](https://ja.wikipedia.org/wiki/ももいろクローバー "wikilink")のメンバーにスプーン曲げを教え、[有安杏果](https://ja.wikipedia.org/wiki/有安杏果 "wikilink")がスプーン曲げに成功する\[12\]
+2011年、[テレ朝動画](https://ja.wikipedia.org/wiki/テレ朝動画 "wikilink")『[ももクロChan](https://ja.wikipedia.org/wiki/ももクロChan〜Momoiro_Clover_Z_Channel〜 "wikilink")』でサイキック芸人として、[ももいろクローバー](https://ja.wikipedia.org/wiki/ももいろクローバー "wikilink")のメンバーにスプーン曲げを教え、[有安杏果](https://ja.wikipedia.org/wiki/有安杏果 "wikilink")がスプーン曲げに成功する\[12\]
 
 2012年、『R-1ぐらんぷり』で準決勝進出。
 
@@ -112,7 +112,7 @@
   - [クイズ☆スター名鑑](https://ja.wikipedia.org/wiki/クイズ☆スター名鑑 "wikilink")（TBS、2016年11月13日）
   - [ビートたけしのフランスは本当に勲章をくれたのかTV](http://www.tbs.co.jp/tv/20161226_3796.html)（TBS、2016年12月26日）
   - [ウチのガヤがすみません\!](https://ja.wikipedia.org/wiki/ウチのガヤがすみません! "wikilink")（2017年1月15日、日本テレビ）
-  - [＃ハイ_ポール](https://ja.wikipedia.org/wiki/＃ハイ_ポール "wikilink")（フジテレビ、2017年2月24日・3月3日・4月21日・4月28日・5月5日・5月19日）
+  - [＃ハイ ポール](https://ja.wikipedia.org/wiki/＃ハイ_ポール "wikilink")（フジテレビ、2017年2月24日・3月3日・4月21日・4月28日・5月5日・5月19日）
   - [深夜に発見\!新shock感〜一度おためしください〜](https://ja.wikipedia.org/wiki/新shock感 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2017年4月8日）
   - [ナカイの窓](https://ja.wikipedia.org/wiki/ナカイの窓 "wikilink")（日本テレビ、2017年5月24日）
   - [じっくり聞いタロウ〜スター近況（秘）報告〜](https://ja.wikipedia.org/wiki/じっくり聞いタロウ〜スター近況（秘）報告〜 "wikilink")（テレビ東京、2017年9月28日）\[23\]

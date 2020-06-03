@@ -17,7 +17,7 @@
 
 ## 収録曲
 
-1.  **[Heavy Starry Chain](https://ja.wikipedia.org/wiki/Heavy_Starry_Chain "wikilink")**
+1.  **[Heavy Starry Chain](../Page/Heavy_Starry_Chain.md "wikilink")**
       -
         アルバムからの先行シングル。歌詞は失恋がテーマで「別れたけど好きな人との関係を断ち切りたく無い思い」を綴った歌詞。
 2.  **stay away from me**

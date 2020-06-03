@@ -111,7 +111,7 @@
 ### CDシングル
 
 1.  [Surfin'Dog](../Page/Surfin'Dog.md "wikilink")（2007年8月8日） - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[ペット大集合\!ポチたま](../Page/ペット大集合!ポチたま.md "wikilink")』ネロくんテーマソング
-2.  [こんにちワンからワンツースリー](https://ja.wikipedia.org/wiki/こんにちワンからワンツースリー "wikilink")（2007年12月5日）
+2.  [こんにちワンからワンツースリー](../Page/こんにちワンからワンツースリー.md "wikilink")（2007年12月5日）
 
 ### 配信
 

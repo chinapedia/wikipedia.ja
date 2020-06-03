@@ -1,7 +1,11 @@
 > この記事は[Wanna Go Home](https://ja.wikipedia.org/wiki/Wanna_Go_Home)から翻訳されています。
 
 
-『**Wanna Go Home**』（ワナ・ゴー・ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")がリリースした2作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")（後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスに移行）。
+『**Wanna Go Home**』（ワナ・ゴー・ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")がリリースした2作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+
+当初はBMGビクターから発売されていたが、後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスへ移行した。
+
+オリジナルのBMGビクター盤は、初回限定で紙製スリーブケースが付属した。
 
 ## 収録曲
 

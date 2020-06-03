@@ -23,4 +23,4 @@
 
   - [プラチナゲームズ株式会社](http://www.platinumgames.co.jp/)
 
-[Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:かつて存在した大阪府の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した大阪府の企業 "wikilink")
+[Category:プラチナゲームズ](https://ja.wikipedia.org/wiki/Category:プラチナゲームズ "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:かつて存在した大阪府の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した大阪府の企業 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink") [Category:2007年廃止の企業](https://ja.wikipedia.org/wiki/Category:2007年廃止の企業 "wikilink")

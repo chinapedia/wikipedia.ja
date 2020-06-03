@@ -46,6 +46,8 @@
 
   - [ナサニエル・チャロバー](https://ja.wikipedia.org/wiki/ナサニエル・チャロバー "wikilink")
 
+  - [メイソン・マウント](https://ja.wikipedia.org/wiki/メイソン・マウント "wikilink")
+
 ### FW
 
   - [ファビオ・ボリーニ](https://ja.wikipedia.org/wiki/ファビオ・ボリーニ "wikilink")

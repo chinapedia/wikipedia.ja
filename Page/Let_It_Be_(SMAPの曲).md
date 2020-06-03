@@ -11,7 +11,7 @@
   - ジャケットにメンバー5人は写っていない。
   - 「Let It Be」は[2000年](../Page/2000年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")発売のアルバム『[S map〜SMAP 014](../Page/S_map〜SMAP_014.md "wikilink")』、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売のベストアルバム『[Smap Vest](https://ja.wikipedia.org/wiki/Smap_Vest "wikilink")』に収録されている。
   - [カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")の「世紀末」はアルバム未収録である。
-  - 木村、香取、稲垣、草彅にソロパートが与えられており、木村、香取のソロパートが多い。
+  - 木村、香取、稲垣、草彅にソロパートが与えられており(サビ以外はこの4人のソロパートである。)、木村、香取のソロパートが多い。
   - 尚「Let It Be」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")(『SMAP×SMAP』で制作)に使われている音源はCDに収録されている音源と異なる。
 
 ## 収録曲

@@ -15,7 +15,7 @@
 
 現在、YOSHIKIの[MySpace](https://ja.wikipedia.org/wiki/MySpace "wikilink")において「Tears Unreleased ver」が公開されている。カップリングはYOSHIKIのクラシック・アルバム『[Eternal Melody](../Page/Eternal_Melody.md "wikilink")』にも収録されているオーケストラ・バージョン。
 
-日本国外から[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink") (JASRAC) に払われる国内作品の著作権使用料分配額では[2017年](../Page/2017年.md "wikilink")度に年間6位\[3\]、[2018年](../Page/2018年.md "wikilink")度に年間4位\[4\]に入った。
+日本国外から[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink") (JASRAC) に払われる国内作品の著作権使用料分配額では[2017年](../Page/2017年.md "wikilink")度に年間6位\[3\]、[2018年](../Page/2018年.md "wikilink")度に年間4位\[4\]、[2019年](../Page/2019年.md "wikilink")度に年間8位\[5\]に入った。
 
 ## カバー
 
@@ -57,3 +57,4 @@
 2.  [角川書店](../Page/角川書店.md "wikilink")刊「[月刊feature](../Page/月刊カドカワ.md "wikilink")」1999年6月号25Pより。
 3.  [2018年 国内作品の外国入金分配額ベスト10(国際賞関連)](http://www.jasrac.or.jp/profile/prize/2018_internl.html)、日本音楽著作権協会、2018年。
 4.  [2019年 国内作品の外国入金分配額ベスト10(国際賞関連)](http://www.jasrac.or.jp/profile/prize/2019_internl.html)、日本音楽著作権協会、2019年。
+5.

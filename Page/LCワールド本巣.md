@@ -38,7 +38,7 @@
   - エンジェル
   - [美容院](https://ja.wikipedia.org/wiki/美容院 "wikilink")Dramatic
   - ミュウデンタルクリニック
-  - [ルネサンス](https://ja.wikipedia.org/wiki/ルネサンス_\(スポーツクラブ\) "wikilink")（スポーツクラブ）
+  - [ルネサンス](../Page/ルネサンス_\(スポーツクラブ\).md "wikilink")（スポーツクラブ）
   - リハプライド（リハビリ）
 
 ### 西エリア

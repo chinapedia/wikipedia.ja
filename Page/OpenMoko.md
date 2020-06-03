@@ -95,7 +95,7 @@ Golden Delicious GTA04 boardはNeo FreeRunnerに内蔵されているGTA02 board
   - [オープン・モバイル・アライアンス](https://ja.wikipedia.org/wiki/オープン・モバイル・アライアンス "wikilink")
   - [OpenBTS](https://ja.wikipedia.org/wiki/OpenBTS "wikilink")
   - [SHR (Stable Hybrid Release)](https://ja.wikipedia.org/wiki/SHR_\(オペレーティングシステム\) "wikilink")
-  - [Qt Extended](https://ja.wikipedia.org/wiki/Qt_Extended "wikilink")
+  - [Qt Extended](../Page/Qt_Extended.md "wikilink")
   - [TuxPhone](https://ja.wikipedia.org/wiki/TuxPhone "wikilink")
 
 ## 脚注

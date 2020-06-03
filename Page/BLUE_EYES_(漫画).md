@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ヒット出版社](https://ja.wikipedia.org/wiki/ヒット出版社 "wikilink")発行の成人向け[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『コミック セラフィン』にて[1994年](../Page/1994年.md "wikilink")に連載を開始。現在は連載を中断しており、作品は未完の状態となっている。
+[ヒット出版社](https://ja.wikipedia.org/wiki/ヒット出版社 "wikilink")発行の成人向け[漫画雑誌](../Page/漫画雑誌.md "wikilink")『コミック セラフィン』にて[1994年](../Page/1994年.md "wikilink")に連載を開始。現在は連載を中断しており、作品は未完の状態となっている。
 
 10年以上にわたる長期連載のため掲載誌には変遷があり、『コミック セラフィン』（[ヒット出版社](https://ja.wikipedia.org/wiki/ヒット出版社 "wikilink")）→『コミック ミカエル』（ヒット出版社）→『D-ANGE』（ヒット出版社）→『コミック曼天』（[ジェーシー出版](https://ja.wikipedia.org/wiki/ジェーシー出版 "wikilink")）→『コミックCROSS』（ジェーシー出版）の順となる。
 

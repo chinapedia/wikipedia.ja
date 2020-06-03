@@ -7,7 +7,7 @@
 
 [イワトビペンギン](../Page/イワトビペンギン.md "wikilink")をモチーフにしたキャラクター・ロッキーとホッパーが登場するパーティゲーム。 全11種類のミニゲームが収録されており、PS用マルチタップを使用した最大4人での対戦プレイに対応している。マルチタップを使わない場合でも、1つのPSコントローラーを2人が片方ずつ持つことで操作できるようにボタンを割り当てる本作独自のシステム「ラブラブモード」を選べば、2つのコントローラーのみで3～4人同時対戦が可能である。
 
-ミニゲームのBGMには、「[Stayin′Alive](https://ja.wikipedia.org/wiki/ステイン・アライヴ "wikilink")」「[The Hustle](https://ja.wikipedia.org/wiki/ハッスル_\(音楽\) "wikilink")」「Soulful Strut」「Let's Groove」「Get Down On It」など洋楽サウンドのアレンジメロディが使われている。
+ミニゲームのBGMには、「[Stayin′Alive](https://ja.wikipedia.org/wiki/ステイン・アライヴ "wikilink")」「[The Hustle](https://ja.wikipedia.org/wiki/ハッスル_\(曲\) "wikilink")」「Soulful Strut」「Let's Groove」「Get Down On It」など洋楽サウンドのアレンジメロディが使われている。
 
 ## モード
 

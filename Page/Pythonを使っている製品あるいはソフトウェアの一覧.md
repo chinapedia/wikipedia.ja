@@ -220,7 +220,7 @@
   - [QGIS](https://ja.wikipedia.org/wiki/Quantum_GIS "wikilink") - スクリプティングとプラグイン開発にPythonを使用している
   - [RenderMan](../Page/RenderMan.md "wikilink") - 3DCGレンダラー
   - [Rhinoceros 3D](../Page/Rhinoceros_3D.md "wikilink") version 5.0
-  - [Rhythmbox](https://ja.wikipedia.org/wiki/Rhythmbox "wikilink") - 音楽管理ソフトウェア
+  - [Rhythmbox](../Page/Rhythmbox.md "wikilink") - 音楽管理ソフトウェア
   - [3DSlicer](https://ja.wikipedia.org/wiki/3DSlicer "wikilink") - 医用画像の可視化および解析ソフトウェア。アルゴリズムの実装、解析パイプライン、GUI作成にPythonが利用できる
   - [trueSpace](https://ja.wikipedia.org/wiki/trueSpace "wikilink") - 3DCGソフトウェア
   - [SPSS](../Page/SPSS.md "wikilink") - SPSSのコマンド構文でPythonを使用できるようにするSPSS Programmability Extensionが存在する

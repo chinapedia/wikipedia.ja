@@ -95,7 +95,7 @@
 3.  **[JUICY](../Page/4_hot_wave.md "wikilink")**
 4.  **[So Into You](../Page/So_Into_You.md "wikilink")〜Short Version〜**
 5.  **[Selfish](https://ja.wikipedia.org/wiki/girls〜Selfish〜 "wikilink")**
-6.  **[Candy feat.Mr. Blistah](https://ja.wikipedia.org/wiki/Candy_feat.Mr._Blistah "wikilink")**
+6.  **[Candy feat.Mr. Blistah](../Page/Candy_feat.Mr._Blistah.md "wikilink")**
 7.  **[Hot Stuff feat. KM-MARKIT](../Page/Hot_Stuff_feat._KM-MARKIT.md "wikilink")**
 8.  **LIVE DVD『KODA KUMI LIVE TOUR 2006-2007〜second session〜』TRAILER**
       -

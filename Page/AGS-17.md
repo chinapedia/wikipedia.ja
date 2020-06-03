@@ -34,7 +34,7 @@ AGS-17は通常、6T8三脚架上に設置した状態で[歩兵](../Page/歩兵
   - アルクス AGS-17
     [ブルガリア](../Page/ブルガリア.md "wikilink")のアルクス社が製造するAGS-17。[砲身のリブが変化しており](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")、AGS-17では発射機の左上にあるサイトが発射機直上に移動している。弾薬は、VOG-17を基にしたRHV-HEF高性能炸裂[榴弾](../Page/榴弾.md "wikilink")とRHV-TP[訓練弾を使用](../Page/演習弾.md "wikilink")。
   - ツァスタバ BGA-30/M93
-    [ユーゴスラビア](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")（現[セルビア](../Page/セルビア.md "wikilink")）の[ツァスタバ社が製造するAGS](https://ja.wikipedia.org/wiki/ザスタバ "wikilink")-17。全長が925mmに延長されているが、砲身長は290mmのままである。弾薬は、VOG-17の改良型であるTG-M93高性能[炸薬](https://ja.wikipedia.org/wiki/炸薬 "wikilink")対人破片榴弾を使用。
+    [ユーゴスラビア](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")（現[セルビア](../Page/セルビア.md "wikilink")）の[ツァスタバ社が製造するAGS](../Page/ザスタバ.md "wikilink")-17。全長が925mmに延長されているが、砲身長は290mmのままである。弾薬は、VOG-17の改良型であるTG-M93高性能[炸薬](https://ja.wikipedia.org/wiki/炸薬 "wikilink")対人破片榴弾を使用。
 
 ## 参考文献
 

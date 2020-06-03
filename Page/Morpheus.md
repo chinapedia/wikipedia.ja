@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - [スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")の侵入を遮断する機能や、[ウイルス対策機能を持つ](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")。
+  - [スパイウェア](../Page/スパイウェア.md "wikilink")の侵入を遮断する機能や、[ウイルス対策機能を持つ](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")。
 
 <!-- end list -->
 

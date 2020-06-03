@@ -315,7 +315,7 @@ CD+DVD:CTCM-65096/B</p></td>
 <td><p>タワーレコード限定</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><strong>VANS COMPILATION LOUD SESSION！！！ of VANS×BANDS</strong></p></td>
 <td><p>VANS-0001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

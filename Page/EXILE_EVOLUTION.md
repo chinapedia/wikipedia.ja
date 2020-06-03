@@ -35,7 +35,7 @@
       - [雇用促進事業会](../Page/雇用促進事業会.md "wikilink")「あつまるくんの求人案内」TVCFソング\[3\]
 5.  **[Lovers Again](../Page/Lovers_Again.md "wikilink")** (4:37)
       -
-        作詞：[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") / 作曲・編曲：[Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")
+        作詞：[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink") / 作曲・編曲：[Jin Nakamura](../Page/Jin_Nakamura.md "wikilink")
     <!-- end list -->
       - 22ndシングル
       - [au](../Page/Au_\(携帯電話\).md "wikilink")「[LISMO](../Page/LISMO.md "wikilink")」CMソング
@@ -55,7 +55,7 @@
 8.  **DANCER'S ANTHEM** (Inst.) (2:30)
       -
         作曲・編曲：原田憲
-9.  **No Other Man** feat. [NaNa](https://ja.wikipedia.org/wiki/NaNa_\(歌手\) "wikilink") (3:24)
+9.  **No Other Man** feat. [NaNa](../Page/NaNa_\(歌手\).md "wikilink") (3:24)
       -
         作詞・作曲：[STY](../Page/STY.md "wikilink") / 編曲：h-wonder
     <!-- end list -->
@@ -90,6 +90,8 @@
 15. **One love** (5:27)
       -
         作詞：[Kenn Kato](https://ja.wikipedia.org/wiki/Kenn_Kato "wikilink") / 作曲：ATSUSHI / 編曲：大野裕一
+    <!-- end list -->
+      - フジテレビ系『LIFE IS BEAUTIFUL～小さないのちの詩～』テーマ曲\[5\]
 16. **[運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink") -Orchestra Version-** (5:26)
       -
         作詞：ATSUSHI / 作曲：[山口寛雄](https://ja.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：中野雄太
@@ -150,3 +152,4 @@
 2.  カップリング4曲も収録。ボーナストラック、バージョン違いは除く
 3.
 4.
+5.

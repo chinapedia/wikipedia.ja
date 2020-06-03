@@ -59,7 +59,7 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - 小悪魔の教室／Marin． （4月29日、ワープエンタテインメント）
   - ギャルッ\!\!ちっく Marin．先生 （6月5日、ワープエンタテインメント）
   - ドリームシャワー/Marin． （7月5日、ワープエンタテインメント）
-  - Monthly2時間 撮れたて素材まんま出し （7月15日、ワープエンタテインメント）他出演:[志保](https://ja.wikipedia.org/wiki/志保_\(AV女優\) "wikilink")、[nao.](https://ja.wikipedia.org/wiki/nao. "wikilink")、[杉山圭](../Page/杉山圭.md "wikilink")、[米倉夏弥](../Page/米倉夏弥.md "wikilink")、[寧々](../Page/寧々_\(AV女優\).md "wikilink")、[桐島りおん](https://ja.wikipedia.org/wiki/桐島りおん "wikilink")、[伊川なち](https://ja.wikipedia.org/wiki/伊川なち "wikilink")
+  - Monthly2時間 撮れたて素材まんま出し （7月15日、ワープエンタテインメント）他出演:[志保](../Page/志保_\(AV女優\).md "wikilink")、[nao.](https://ja.wikipedia.org/wiki/nao. "wikilink")、[杉山圭](../Page/杉山圭.md "wikilink")、[米倉夏弥](../Page/米倉夏弥.md "wikilink")、[寧々](../Page/寧々_\(AV女優\).md "wikilink")、[桐島りおん](https://ja.wikipedia.org/wiki/桐島りおん "wikilink")、[伊川なち](https://ja.wikipedia.org/wiki/伊川なち "wikilink")
   - ギャルコレ\! 3 -素人ギャル即ハメパラダイス- （7月28日、うまなみ。）他出演:[白鳥あきら](../Page/白鳥あきら.md "wikilink")、倉木ゆり、[結城リナ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")、白木彩、[聖瑛麻](https://ja.wikipedia.org/wiki/聖瑛麻 "wikilink")、姫野杏
   - Wet\*Gals/Marin．（8月5日、ワープエンタテインメント）
   - Monthly2時間 撮れたて素材まんま出し2 （8月15日、ワープエンタテインメント）他出演:桐島りおん、[美波さら](https://ja.wikipedia.org/wiki/美波さら "wikilink")、[笠木あやか](../Page/笠木あやか.md "wikilink")、寧々、伊川なち、志保、米倉夏弥、[星川ヒカル](../Page/星川ヒカル.md "wikilink")
@@ -97,7 +97,7 @@ AVデビュー以前には、グラビアアイドル「じゅんな」として
   - トリプル痴女GROOVE （7月7日、プレミアム）共演:[飯島夏希](../Page/桜庭ハル.md "wikilink")、[瞳れん](../Page/瞳れん.md "wikilink")
   - DIGITAL CHANNEL （8月1日、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）
   - LOVE SEMEN （9月1日、アイデアポケット）
-  - GALCIR 2 （10月1日、アイデアポケット）共演:黒沢英里奈（喜田嶋りお）、[佐藤江梨花](../Page/佐藤江梨花.md "wikilink")、飯島夏希、[高瀬七海](https://ja.wikipedia.org/wiki/高瀬七海 "wikilink")
+  - GALCIR 2 （10月1日、アイデアポケット）共演:黒沢英里奈（喜田嶋りお）、[佐藤江梨花](../Page/佐藤江梨花.md "wikilink")、飯島夏希、[高瀬七海](../Page/高瀬七海.md "wikilink")
   - ハイパーデジタルモザイクVol.070 SPECIAL （11月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）
   - BLACK FUCK （12月1日、アイデアポケット）
 

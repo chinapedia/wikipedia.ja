@@ -11,6 +11,8 @@ BMC時代の[ミニを](../Page/ミニ_\(BMC\).md "wikilink")[モチーフ](http
 
 日本への正規輸入車種は[ATのみの設定が多い中](../Page/オートマチックトランスミッション.md "wikilink")、全車種全グレードで[MTが選択可能であったが](../Page/マニュアルトランスミッション.md "wikilink")、カントリーマンのマイナーチェンジ（2014年9月8日）より、AT限定が設定されるようになった。
 
+### 開発まで
+
 1994年、BMWが[ローバーを傘下に収め](../Page/ローバー_\(自動車\).md "wikilink")、生産を始めとするミニに関する全ての権利を有したことで開発がスタート、当初は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")を拠点としてローバーが中心となって進められ、1997年の[ジュネーヴ・モーターショーで一般公開された](../Page/サロン・アンテルナショナル・ド・ロト.md "wikilink")。
 
 しかし、ローバーの経営は悪化の一途を辿り、BMWはローバーを切り離すこととなったため、ほぼ開発の終わっていたミニは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に開発拠点を移し、[インチ](../Page/インチ.md "wikilink")サイズの[ヤード・ポンド法](../Page/ヤード・ポンド法.md "wikilink")から、[ミリを用いる](../Page/ミリメートル.md "wikilink")[メートル法](../Page/メートル法.md "wikilink")での再設計を行うこととなった。紆余曲折の末、2001年に発表され、日本ではBMW JAPANが[3月2日](../Page/3月2日.md "wikilink")を「ミニの日」と名づけ、2002年3月2日に発売された。
@@ -129,7 +131,7 @@ File:" (a picture by david adam kess, Union Jack Mini Cooper, Madrid.jpg <File:R
 
 ## モータースポーツ
 
-[Mini_WRC.JPG](https://ja.wikipedia.org/wiki/File:Mini_WRC.JPG "fig:Mini_WRC.JPG")\]\] [Geneva_MotorShow_2013_-_Mini_Dakar_front.jpg](https://ja.wikipedia.org/wiki/File:Geneva_MotorShow_2013_-_Mini_Dakar_front.jpg "fig:Geneva_MotorShow_2013_-_Mini_Dakar_front.jpg")仕様)\]\] BMC時代同様、ラリーを中心に活動している。2011年、[プロドライブ](https://ja.wikipedia.org/wiki/プロドライブ "wikilink")がBMW[ワークスとして](../Page/ワークス・チーム.md "wikilink")、[ミニ・ジョン クーパー ワークス WRCで](https://ja.wikipedia.org/wiki/ミニ・ジョン_クーパー_ワークス_WRC "wikilink")[WRC参戦を開始](../Page/世界ラリー選手権.md "wikilink")。2012年の[ラリー・モンテカルロ](../Page/ラリー・モンテカルロ.md "wikilink")で、[ダニ・ソルド](../Page/ダニ・ソルド.md "wikilink")が2位入賞するなどしたが、2月にプロドライブとBMWの関係が決裂。代わってチーム・ミニ・ポルトガルがワークス指定を受けたが、結局2013年にMINIはWRCから姿を消した。
+[Mini_WRC.JPG](https://ja.wikipedia.org/wiki/File:Mini_WRC.JPG "fig:Mini_WRC.JPG")\]\] [Geneva_MotorShow_2013_-_Mini_Dakar_front.jpg](https://ja.wikipedia.org/wiki/File:Geneva_MotorShow_2013_-_Mini_Dakar_front.jpg "fig:Geneva_MotorShow_2013_-_Mini_Dakar_front.jpg")仕様)\]\] BMC時代同様、ラリーを中心に活動している。2011年、[プロドライブ](../Page/プロドライブ.md "wikilink")がBMW[ワークスとして](../Page/ワークス・チーム.md "wikilink")、[ミニ・ジョン クーパー ワークス WRCで](https://ja.wikipedia.org/wiki/ミニ・ジョン_クーパー_ワークス_WRC "wikilink")[WRC参戦を開始](../Page/世界ラリー選手権.md "wikilink")。2012年の[ラリー・モンテカルロ](../Page/ラリー・モンテカルロ.md "wikilink")で、[ダニ・ソルド](../Page/ダニ・ソルド.md "wikilink")が2位入賞するなどしたが、2月にプロドライブとBMWの関係が決裂。代わってチーム・ミニ・ポルトガルがワークス指定を受けたが、結局2013年にMINIはWRCから姿を消した。
 
 WRCと同じく2011年から、これまで[BMW・X3](../Page/BMW・X3.md "wikilink")CC\[42\]で[ラリーレイド](../Page/ラリーレイド.md "wikilink")に参戦していたX-レイドラリーチームの手により、X3CCのボディをカントリーマンとした\[43\]MINI ALL4 レーシングでラリーレイドにも参戦。エンジンは同じ直列6気筒ディーゼルの3.0Lツインターボで、最高出力315ps/231kW、最大トルク72.4kg·m/710N·mを発生する\[44\]。[ダカール・ラリー](../Page/ダカール・ラリー.md "wikilink")では2012年と2013年に[ステファン・ペテランセル](../Page/ステファン・ペテランセル.md "wikilink")、2014年はナニ・ロマ{{\#tag:ref|2004年の2輪部門総合優勝に続き4輪部門を制覇し、史上3人目の両部門優勝選手となった\[45\]。 |group="注"}}\[46\]\[47\]、2015年には[ナサール・アルアティヤ](https://ja.wikipedia.org/wiki/ナサール・アルアティヤ "wikilink")が勝利し、砂漠の王者の地位を築いた。
 

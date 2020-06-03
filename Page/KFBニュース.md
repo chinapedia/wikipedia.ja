@@ -19,7 +19,7 @@
 
 ## テーマ曲
 
-  - 「Rainbow In The Universe」（作曲：[浅倉大介](../Page/浅倉大介.md "wikilink")、アルバム『[D-Trick](https://ja.wikipedia.org/wiki/D-Trick "wikilink")』に収録）
+  - 「Rainbow In The Universe」（作曲：[浅倉大介](../Page/浅倉大介.md "wikilink")、アルバム『[D-Trick](../Page/D-Trick.md "wikilink")』に収録）
       - [1990年代](../Page/1990年代.md "wikilink")から10年以上全く変わることなく使用され、『[ふくしまニュース1番街](../Page/ふくしまニュース1番街.md "wikilink")』ではロングバージョンが使用されていた（そのため、一貫して[SD画質](../Page/標準画質映像.md "wikilink")）。右下には「ANN」と添えられていた。
       - かつては[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")の『[KBCニュースピア](../Page/KBCニュースピア.md "wikilink")』や[鹿児島テレビの](../Page/鹿児島テレビ放送.md "wikilink")『[KTSニュース](../Page/KTSニュース.md "wikilink")』などに加えて、1997年度『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の17時台オープニング明けのBGMとして使用されていた。
       - 昼と午後の時間帯のニュースに使われていたが、2007年11月ごろから昼のニュースのオープニング自体が削除され（オープニング無しでそのままニュースへ）、2010年4月からは平日午後の時間帯の放送も一旦終了したため、長年使用されたオープニングは使用を終了した。2011年3月頃からは[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の報道を伝えることもあって再びネットを再開したが、オープニング差し替えは行われていない。

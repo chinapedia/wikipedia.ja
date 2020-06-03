@@ -52,7 +52,7 @@
 </ul>
 <p><strong>ロック</strong></p>
 <ul>
-<li><p><strong><a href="https://ja.wikipedia.org/wiki/テビタ・ザブンバティ" title="wikilink">テビタ・ザブンバティ</a></strong></p></li>
+<li><p><strong><a href="https://ja.wikipedia.org/wiki/テヴィタ・ザヴンバティ" title="wikilink">テヴィタ・ザヴンバティ</a></strong></p></li>
 <li><p>Toby Freeman</p></li>
 <li><p><strong><a href="https://ja.wikipedia.org/wiki/ステファン・ルイス" title="wikilink">ステファン・ルイス</a></strong></p></li>
 <li><p>Matt Symons</p></li>
@@ -67,6 +67,14 @@
 </tr>
 </tbody>
 </table>
+
+## 過去の所属選手
+
+  - [ティト・テバルディ](https://ja.wikipedia.org/wiki/ティト・テバルディ "wikilink")(Tito Tebaldi)…イタリア代表36キャップ、現在は[ベネットン・ラグビー](../Page/ベネットン・ラグビー.md "wikilink")に所属。
+
+  - [ニック・メイヒュー](../Page/ニック・メイヒュー.md "wikilink")(Nic Mayhew)…現在は[サンウルブズ](https://ja.wikipedia.org/wiki/サンウルブズ "wikilink")に所属。
+
+  - [ジェームズ・ホーウィル](https://ja.wikipedia.org/wiki/ジェームズ・ホーウィル "wikilink")(James Horwill)…オーストラリア代表62キャップ、2011W杯出場。
 
 ## 脚注
 

@@ -362,4 +362,4 @@
   -
 
   -
-[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:オーバーエスターライヒ州](https://ja.wikipedia.org/wiki/Category:オーバーエスターライヒ州 "wikilink")
+[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:オーバーエスターライヒ州](https://ja.wikipedia.org/wiki/Category:オーバーエスターライヒ州 "wikilink") [Category:1912年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1912年設立のスポーツチーム "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[FM ROCK KIDS](https://ja.wikipedia.org/wiki/FM_ROCK_KIDS)から翻訳されています。
 
 
-『**FM ROCK KIDS**』（エフエム・ロック・キッズ）は、[1988年](../Page/1988年.md "wikilink")に[エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）で放送を開始した[深夜放送](../Page/深夜放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[FM802](../Page/FM802.md "wikilink")で放送している『**[ROCK KIDS 802](https://ja.wikipedia.org/wiki/ROCK_KIDS_802 "wikilink")**』とは無関係。
+『**FM ROCK KIDS**』（エフエム・ロック・キッズ）は、[1988年](../Page/1988年.md "wikilink")に[エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）で放送を開始した[深夜放送](../Page/深夜放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 ## 概要
 
@@ -47,11 +47,11 @@
 
 <!-- end list -->
 
-  - [佐木伸誘](../Page/佐木伸誘.md "wikilink") 　 (月曜日)
-  - [木村綾子](../Page/木村綾子.md "wikilink") 　 (火曜日)
-  - [奥田民生](../Page/奥田民生.md "wikilink") 　 (当時・[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")、水曜日)
-  - [永井くみ子](https://ja.wikipedia.org/wiki/永井くみ子 "wikilink") 　 (木曜日)
-  - [岡村靖幸](../Page/岡村靖幸.md "wikilink") 　 (金曜日)
+  - [佐木伸誘](../Page/佐木伸誘.md "wikilink") (月曜日)
+  - [木村綾子](../Page/木村綾子.md "wikilink") (火曜日)
+  - [奥田民生](../Page/奥田民生.md "wikilink") (当時・[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")、水曜日)
+  - [永井くみ子](https://ja.wikipedia.org/wiki/永井くみ子 "wikilink") (木曜日)
+  - [岡村靖幸](../Page/岡村靖幸.md "wikilink") (金曜日)
 
 <!-- end list -->
 
@@ -59,11 +59,11 @@
 
 <!-- end list -->
 
-  - [伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") 　 (月曜日)
-  - [The MINKS](https://ja.wikipedia.org/wiki/The_MINKS "wikilink") 　 (火曜日：1989年4月～1990年3月) ※1990年4月からはPART1の第2土曜日担当
-  - [谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink") 　 (水曜日)
-  - [COME ON BABY](../Page/COME_ON_BABY.md "wikilink") 　 (木曜日)
-  - [安藤秀樹](../Page/安藤秀樹.md "wikilink") 　 (金曜日)
+  - [伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") (月曜日)
+  - [The MINKS](https://ja.wikipedia.org/wiki/The_MINKS "wikilink") (火曜日：1989年4月～1990年3月) ※1990年4月からはPART1の第2土曜日担当
+  - [谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink") (水曜日)
+  - [COME ON BABY](../Page/COME_ON_BABY.md "wikilink") (木曜日)
+  - [安藤秀樹](../Page/安藤秀樹.md "wikilink") (金曜日)
 
 <!-- end list -->
 
@@ -72,15 +72,15 @@
 <!-- end list -->
 
   - PART1
-      - [C-BA](../Page/C-BA.md "wikilink") 　 (第1土曜日)
-      - The MINKS 　 (第2土曜日)
-      - [DOVE](https://ja.wikipedia.org/wiki/DOVE "wikilink") 　 (第3土曜日)
-      - [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink") 　 (第4土曜日)
+      - [C-BA](../Page/C-BA.md "wikilink") (第1土曜日)
+      - The MINKS (第2土曜日)
+      - [DOVE](https://ja.wikipedia.org/wiki/DOVE "wikilink") (第3土曜日)
+      - [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink") (第4土曜日)
   - PART2
-      - [クレイジー・トミー](https://ja.wikipedia.org/wiki/クレイジー・トミー "wikilink") 　 (第1土曜日)
-      - [鈴井貴之](../Page/鈴井貴之.md "wikilink") 　 (第2土曜日)
-      - [館浦あざらし](https://ja.wikipedia.org/wiki/館浦あざらし "wikilink") 　 (第3土曜日)
-      - [内田諭志](https://ja.wikipedia.org/wiki/内田諭志 "wikilink")、[高岡幸生](https://ja.wikipedia.org/wiki/高岡幸生 "wikilink") 　 (第4土曜日)
+      - [クレイジー・トミー](https://ja.wikipedia.org/wiki/クレイジー・トミー "wikilink") (第1土曜日)
+      - [鈴井貴之](../Page/鈴井貴之.md "wikilink") (第2土曜日)
+      - [館浦あざらし](https://ja.wikipedia.org/wiki/館浦あざらし "wikilink") (第3土曜日)
+      - [内田諭志](https://ja.wikipedia.org/wiki/内田諭志 "wikilink")、[高岡幸生](https://ja.wikipedia.org/wiki/高岡幸生 "wikilink") (第4土曜日)
 
 <!-- end list -->
 
@@ -89,15 +89,15 @@
 <!-- end list -->
 
   - PART1
-      - [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink") 　 (第1土曜日)
-      - [RIO](https://ja.wikipedia.org/wiki/RIO_\(ディスクジョッキー\) "wikilink") 　 (第2土曜日)
-      - [GEN](../Page/GEN.md "wikilink") 　 (第3土曜日)
-      - [ムスタングA.K.A](https://ja.wikipedia.org/wiki/MUSTANG_A・K・A "wikilink") 　 (第4土曜日)
+      - [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink") (第1土曜日)
+      - [RIO](https://ja.wikipedia.org/wiki/RIO_\(ディスクジョッキー\) "wikilink") (第2土曜日)
+      - [GEN](../Page/GEN.md "wikilink") (第3土曜日)
+      - [ムスタングA.K.A](https://ja.wikipedia.org/wiki/MUSTANG_A・K・A "wikilink") (第4土曜日)
   - PART2
-      - クレイジー・トミー 　 (第1土曜日)
-      - 鈴井貴之 　 (第2土曜日) ※この後2006年4月～6月に土曜日PART2で再登場
-      - [山田光仁](https://ja.wikipedia.org/wiki/山田光仁 "wikilink")(現・ミミ山田) 　 (第3土曜日)
-      - [宮林康](../Page/宮林康.md "wikilink") 　 (第4土曜日)
+      - クレイジー・トミー (第1土曜日)
+      - 鈴井貴之 (第2土曜日) ※この後2006年4月～6月に土曜日PART2で再登場
+      - [山田光仁](https://ja.wikipedia.org/wiki/山田光仁 "wikilink")(現・ミミ山田) (第3土曜日)
+      - [宮林康](../Page/宮林康.md "wikilink") (第4土曜日)
 
 <!-- end list -->
 
@@ -105,9 +105,9 @@
 
 <!-- end list -->
 
-  - [M-AGE](../Page/M-AGE.md "wikilink") 　 (4月～6月)
-  - [LUNA SEA](../Page/LUNA_SEA.md "wikilink") 　 (7月～9月)
-  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") 　 (10月～12月)
+  - [M-AGE](../Page/M-AGE.md "wikilink") (4月～6月)
+  - [LUNA SEA](../Page/LUNA_SEA.md "wikilink") (7月～9月)
+  - [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -115,10 +115,10 @@
 
 <!-- end list -->
 
-  - [佐久間学](https://ja.wikipedia.org/wiki/佐久間学 "wikilink") 　 (1月～3月)
-  - [長澤義塾](https://ja.wikipedia.org/wiki/長澤義塾 "wikilink") 　 (4月～6月)
-  - [JIGGER'S SON](https://ja.wikipedia.org/wiki/JIGGER'S_SON "wikilink") 　 (7月～9月)
-  - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") 　 (10月～12月)
+  - [佐久間学](https://ja.wikipedia.org/wiki/佐久間学 "wikilink") (1月～3月)
+  - [長澤義塾](https://ja.wikipedia.org/wiki/長澤義塾 "wikilink") (4月～6月)
+  - [JIGGER'S SON](https://ja.wikipedia.org/wiki/JIGGER'S_SON "wikilink") (7月～9月)
+  - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -126,10 +126,10 @@
 
 <!-- end list -->
 
-  - [谷口宗一](../Page/谷口宗一.md "wikilink") 　 (1月～3月)
-  - [井口一彦](../Page/井口一彦.md "wikilink") 　 (4月～6月)
-  - [KYO](https://ja.wikipedia.org/wiki/KYO_\(ミュージシャン\) "wikilink") 　 (当時・[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")、7月～9月)
-  - [GLAY](../Page/GLAY.md "wikilink") 　 (10月～12月)
+  - [谷口宗一](../Page/谷口宗一.md "wikilink") (1月～3月)
+  - [井口一彦](../Page/井口一彦.md "wikilink") (4月～6月)
+  - [KYO](https://ja.wikipedia.org/wiki/KYO_\(ミュージシャン\) "wikilink") (当時・[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")、7月～9月)
+  - [GLAY](../Page/GLAY.md "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -137,10 +137,10 @@
 
 <!-- end list -->
 
-  - [宮田和弥](../Page/宮田和弥.md "wikilink") 　 ([JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")、1月～3月)
-  - [石田小吉](../Page/石田ショーキチ.md "wikilink") 　 ([Spiral Life](../Page/Spiral_Life.md "wikilink")、4月～6月)
-  - [VANILLA](../Page/VANILLA_\(バンド\).md "wikilink") 　 (7月～9月)
-  - [Eins:Vier](../Page/Eins:Vier.md "wikilink") 　 (10月～12月)
+  - [宮田和弥](../Page/宮田和弥.md "wikilink") ([JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")、1月～3月)
+  - [石田小吉](../Page/石田ショーキチ.md "wikilink") ([Spiral Life](../Page/Spiral_Life.md "wikilink")、4月～6月)
+  - [VANILLA](../Page/VANILLA_\(バンド\).md "wikilink") (7月～9月)
+  - [Eins:Vier](../Page/Eins:Vier.md "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -148,10 +148,10 @@
 
 <!-- end list -->
 
-  - [SOPHIA](../Page/SOPHIA.md "wikilink") 　 (1月～3月)
-  - [ザ・スペース・カウボーイズ](https://ja.wikipedia.org/wiki/ザ・スペース・カウボーイズ "wikilink") 　 (4月～6月)
-  - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") 　 (7月～9月)
-  - [TIMESLIP-RENDEZVOUS](https://ja.wikipedia.org/wiki/TIMESLIP-RENDEZVOUS "wikilink") 　 (10月～12月)
+  - [SOPHIA](../Page/SOPHIA.md "wikilink") (1月～3月)
+  - [ザ・スペース・カウボーイズ](https://ja.wikipedia.org/wiki/ザ・スペース・カウボーイズ "wikilink") (4月～6月)
+  - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") (7月～9月)
+  - [TIMESLIP-RENDEZVOUS](https://ja.wikipedia.org/wiki/TIMESLIP-RENDEZVOUS "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -159,10 +159,10 @@
 
 <!-- end list -->
 
-  - [堂島孝平](../Page/堂島孝平.md "wikilink") 　 (1月～3月)
-  - [MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink") 　 (4月～6月)
-  - [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink") 　 (7月～9月)
-  - [FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink") 　 (10月～12月)
+  - [堂島孝平](../Page/堂島孝平.md "wikilink") (1月～3月)
+  - [MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink") (4月～6月)
+  - [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink") (7月～9月)
+  - [FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -170,10 +170,10 @@
 
 <!-- end list -->
 
-  - [SMILE](../Page/SMILE_\(バンド\).md "wikilink") 　 (1月～3月)
-  - [CASCADE](../Page/CASCADE.md "wikilink") 　 (4月～6月)
-  - [RAZZ MA TAZZ](../Page/RAZZ_MA_TAZZ.md "wikilink") 　 (7月～9月)
-  - [PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink") 　 (10月～12月)
+  - [SMILE](../Page/SMILE_\(バンド\).md "wikilink") (1月～3月)
+  - [CASCADE](../Page/CASCADE.md "wikilink") (4月～6月)
+  - [RAZZ MA TAZZ](../Page/RAZZ_MA_TAZZ.md "wikilink") (7月～9月)
+  - [PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -181,10 +181,10 @@
 
 <!-- end list -->
 
-  - [THE JERRY LEE PHANTOM](https://ja.wikipedia.org/wiki/THE_JERRY_LEE_PHANTOM "wikilink") 　 (1月～3月)
-  - [Blüe](https://ja.wikipedia.org/wiki/Blue_\(日本のバンド\) "wikilink") 　 (4月～6月)
-  - [ZIGZO](../Page/ZIGZO.md "wikilink") 　 (7月～9月)
-  - [NONA REEVES](https://ja.wikipedia.org/wiki/NONA_REEVES "wikilink") 　 (10月～12月)
+  - [THE JERRY LEE PHANTOM](https://ja.wikipedia.org/wiki/THE_JERRY_LEE_PHANTOM "wikilink") (1月～3月)
+  - [Blüe](https://ja.wikipedia.org/wiki/Blue_\(日本のバンド\) "wikilink") (4月～6月)
+  - [ZIGZO](../Page/ZIGZO.md "wikilink") (7月～9月)
+  - [NONA REEVES](https://ja.wikipedia.org/wiki/NONA_REEVES "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -192,13 +192,13 @@
 
 <!-- end list -->
 
-  - [ARCH](https://ja.wikipedia.org/wiki/ARCH "wikilink") 　 (1月～3月)
-  - [Plastic Tree](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink") 　 (4月～6月)
+  - [ARCH](https://ja.wikipedia.org/wiki/ARCH "wikilink") (1月～3月)
+  - [Plastic Tree](https://ja.wikipedia.org/wiki/Plastic_Tree "wikilink") (4月～6月)
   - 「ROCK KIDS RETURNS 2000」として過去パーソナリティが毎週交代で登場 (7月～9月)
       - 7月：CASCADE、LUNA SEA、Blüe、スピッツ、ZIGZO
       - 8月：奥田民生＆SPARKS GO GO、坂本サトル(元JIGGER'S SON)・Plastic Tree、GLAY
       - 9月：ARCH・FANATIC◇CRISIS、PIERROT、SOPHIA、Mr.Children、La'cryma Christi＆鈴井貴之
-  - [チェンバロ](https://ja.wikipedia.org/wiki/チェンバロ_\(バンド\) "wikilink") 　 (10月～12月)
+  - [チェンバロ](https://ja.wikipedia.org/wiki/チェンバロ_\(バンド\) "wikilink") (10月～12月)
 
 <!-- end list -->
 
@@ -206,9 +206,9 @@
 
 <!-- end list -->
 
-  - [New Cinema 蜥蜴](../Page/New_Cinema_蜥蜴.md "wikilink") 　 (1月～3月)
-  - [ホフディラン](../Page/ホフディラン.md "wikilink") 　 (4月～6月)
-  - [FANTA ZERO COASTER](../Page/FANTA_ZERO_COASTER.md "wikilink") 　 (7月～9月)
+  - [New Cinema 蜥蜴](../Page/New_Cinema_蜥蜴.md "wikilink") (1月～3月)
+  - [ホフディラン](../Page/ホフディラン.md "wikilink") (4月～6月)
+  - [FANTA ZERO COASTER](../Page/FANTA_ZERO_COASTER.md "wikilink") (7月～9月)
   - 「ROCK KIDS RETURNS 2001」として過去パーソナリティが毎週交代で登場 (10月～12月)
       - 10月：河村隆一、PIERROT、SOPHIA、GLAY
       - 11月：SUGIZO、PIERROT、SOPHIA、GLAY
@@ -220,9 +220,9 @@
 
 <!-- end list -->
 
-  - [月光グリーン](../Page/月光グリーン.md "wikilink") 　 (4月～6月 PART1)
-  - [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") 　 (7月～9月 PART1)
-  - [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink") 　 (10月～12月 PART1)
+  - [月光グリーン](../Page/月光グリーン.md "wikilink") (4月～6月 PART1)
+  - [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") (7月～9月 PART1)
+  - [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink") (10月～12月 PART1)
   - 鈴井貴之(4月～6月 PART2)
   - FM ROCK BABIES=AIR-G' FRESH DJ(2006年4月～6月 PART3，2006年7月～12月 PART2)
       - 石黒めぐみ・屋木志都子、鈴木舞・宮崎奈緒美、高橋舞・花園ゆき、箕輪直人・中田千智、[寺田英夫](https://ja.wikipedia.org/wiki/Hide-c. "wikilink")(週替わり)
@@ -276,7 +276,7 @@
   - [Versailles](../Page/Versailles_\(バンド\).md "wikilink")(1月2日-3月27日)
   - LOVE LOVE LOVE（4月3日-6月26日）
   - [Lunakate](https://ja.wikipedia.org/wiki/Lunakate "wikilink")(7月3日-9月25日)
-  - [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")(10月2日-12月25日)　※10月のみ 24:00～26:00　11月～12月 24:00～25:00
+  - [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")(10月2日-12月25日) ※10月のみ 24:00～26:00、11月～12月 24:00～25:00
 
 <!-- end list -->
 

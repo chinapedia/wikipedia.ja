@@ -595,7 +595,7 @@ BMG JAPAN</p></td>
 
 ## 外部リンク
 
-  - [THE LOVE | Sony Music](http://www.sonymusic.co.jp/Music/Arch/ARI/the_love/index.html)
+  - [THE LOVE | Sony Music](https://www.sonymusic.co.jp/artist/the_love/)
 
   - [平義隆公式サイト](http://www.tairayoshitaka.com/)
 

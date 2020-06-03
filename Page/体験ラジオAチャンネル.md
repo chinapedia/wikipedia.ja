@@ -1,7 +1,7 @@
 > この記事は[体験ラジオAチャンネル](https://ja.wikipedia.org/wiki/体験ラジオAチャンネル)から翻訳されています。
 
 
-**体験ラジオAチャンネル**（たいけんラジオエーチャンネル）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から同年[9月](../Page/9月.md "wikilink")まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN系の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[深夜の時間帯で放送されていた](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**体験ラジオAチャンネル**（たいけんラジオエーチャンネル）は、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から同年[9月](../Page/9月.md "wikilink")まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN系の](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[深夜の時間帯で放送されていた](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -34,7 +34,7 @@
 ## ネット局
 
   - [北海道放送](../Page/HBCラジオ.md "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")
 

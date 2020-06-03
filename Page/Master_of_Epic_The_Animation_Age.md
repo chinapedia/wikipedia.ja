@@ -532,7 +532,7 @@
   - オープニングテーマ「[Miracle Episode I](https://ja.wikipedia.org/wiki/Miracle_Episode_I "wikilink")」
     作詞 - [畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲・編曲 - [橋本由香利](../Page/橋本由香利.md "wikilink") / 歌 - [クローバー](../Page/クローバー_\(声優ユニット\).md "wikilink")
 
-  - エンディングテーマ「[まもらせて…](https://ja.wikipedia.org/wiki/まもらせて… "wikilink")」
+  - エンディングテーマ「[まもらせて…](../Page/まもらせて….md "wikilink")」
     作詞 - 畑亜貴 / 作曲 - [前澤寛之](https://ja.wikipedia.org/wiki/前澤寛之 "wikilink") / 編曲 - 橋本由香利 / 歌 - [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
 
   - 挿入歌
@@ -1480,7 +1480,7 @@ Lee Bo Hee</p></td>
 
   - [Master of Epic The Animation Age　特設ファンサイト](http://moepic.com/anime/index.html)
 
-  - [マスター オブ エピック〜The Animation Age〜 公式サイト](http://www.tv-tokyo.co.jp/anime/moetaa/)
+  - [マスター オブ エピック〜The Animation Age〜 公式サイト](https://www.tv-tokyo.co.jp/anime/moetaa/)
 
   -
 [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:ゴンゾ](https://ja.wikipedia.org/wiki/Category:ゴンゾ "wikilink") [Category:テレビ東京メディアネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:テレビ東京メディアネットのアニメ作品 "wikilink") [Category:ハドソン原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:ハドソン原作のアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink")

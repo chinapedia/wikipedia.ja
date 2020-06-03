@@ -192,4 +192,4 @@
   - [SV Mattersburg at National Football Teams.com](http://www.national-football-teams.com/v2/club.php?id=3041)
   - [SV Mattersburg at Football-Lineups.com](http://www.football-lineups.com/team/SV_Mattersburg/)　
 
-[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:ブルゲンラント州](https://ja.wikipedia.org/wiki/Category:ブルゲンラント州 "wikilink")
+[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:ブルゲンラント州](https://ja.wikipedia.org/wiki/Category:ブルゲンラント州 "wikilink") [Category:1922年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1922年設立のスポーツチーム "wikilink")

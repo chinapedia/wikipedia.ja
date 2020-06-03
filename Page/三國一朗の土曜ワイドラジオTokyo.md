@@ -1,11 +1,11 @@
 > この記事は[三國一朗の土曜ワイドラジオTokyo](https://ja.wikipedia.org/wiki/三國一朗の土曜ワイドラジオTokyo)から翻訳されています。
 
 
-『**三國一朗の土曜ワイドラジオTokyo**』（みくにいちろうのどようワイドラジオトーキョー）は、[1975年](../Page/1975年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。放送時間は毎週土曜 9:05 - 17:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**三國一朗の土曜ワイドラジオTokyo**』（みくにいちろうのどようワイドラジオトーキョー）は、[1975年](../Page/1975年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ワイド番組](../Page/ワイド番組.md "wikilink")である。放送時間は毎週土曜 9:05 - 17:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
-TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_\(曖昧さ回避\) "wikilink")』シリーズの第2弾。8時間近くに及ぶ長時間生ワイドで、午前と午後の2部構成となっていた。ただし、この構成になったのは第2回（1975年4月5日放送分）からであり、初回では同日に最終回を迎えたシリーズ第1弾『[永六輔の土曜ワイドラジオTokyo](https://ja.wikipedia.org/wiki/永六輔の土曜ワイドラジオTokyo "wikilink")』とのバトンタッチのため、午後のみの放送となっていた。
+TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_\(曖昧さ回避\) "wikilink")』シリーズの第2弾。8時間近くに及ぶ長時間生ワイドで、午前と午後の2部構成となっていた。
 
 ## サブタイトル
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-オリコン最高位10位にランクインし、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の作品ではシングル、アルバムを通じて初のトップ10入りを果たした。累計売上は7.6万枚を記録\[1\]。収録曲「[Same night,Same face](../Page/Same_night,Same_face.md "wikilink")」は後にシングルカットされた。「UNTOUCHABLE GIRLS」は[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の9thシングル「[THUNDERBIRD](https://ja.wikipedia.org/wiki/THUNDERBIRD_\(T.M.Revolutionの曲\) "wikilink")」のカップリング曲「アンタッチャブルGirls」のカバー。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
+オリコン最高位10位にランクインし、[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")の作品ではシングル、アルバムを通じて初のトップ10入りを果たした。累計売上は7.6万枚を記録\[1\]。収録曲「[Same night,Same face](../Page/Same_night,Same_face.md "wikilink")」は後にシングルカットされた。「UNTOUCHABLE GIRLS」は[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")の9thシングル「[THUNDERBIRD](../Page/THUNDERBIRD_\(T.M.Revolutionの曲\).md "wikilink")」のカップリング曲「アンタッチャブルGirls」のカバー。[2013年](../Page/2013年.md "wikilink")9月11日、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")より[Blu-spec CD2仕様で再発された](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")。
 
 ## 収録曲
 

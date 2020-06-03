@@ -590,6 +590,7 @@ WRENCH</p></td>
 
   - [日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink") 2018年9月に「あんた飛ばしすぎ」をリメイクしてカバーした。
+  - [DUFFULS](https://ja.wikipedia.org/wiki/DUFFULS "wikilink")
 
 ## 脚注
 

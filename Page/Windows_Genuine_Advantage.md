@@ -58,7 +58,7 @@ WGAでは、次のような情報を収集される\[4\]。
 
 ### スパイウェア疑惑
 
-Windows Genuine Advantage Notificationsは[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")のような振る舞いで批判された。マイクロソフトは振る舞い自体の存在は認めたが、それがスパイウェアに達することは否定した\[5\]。この後、マイクロソフトは毎日ではなく、Windows Genuine Advantage Notificationsが2週間おきに送信するだけに変更したという発表をした。マイクロソフトは、Windows Genuine Advantage Notificationsを削除する方法も示した。
+Windows Genuine Advantage Notificationsは[スパイウェア](../Page/スパイウェア.md "wikilink")のような振る舞いで批判された。マイクロソフトは振る舞い自体の存在は認めたが、それがスパイウェアに達することは否定した\[5\]。この後、マイクロソフトは毎日ではなく、Windows Genuine Advantage Notificationsが2週間おきに送信するだけに変更したという発表をした。マイクロソフトは、Windows Genuine Advantage Notificationsを削除する方法も示した。
 
 ### 擬陽性
 

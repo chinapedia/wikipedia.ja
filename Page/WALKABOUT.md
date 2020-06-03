@@ -232,7 +232,7 @@
 <td><p><strong>春ロック</strong></p></td>
 <td><p>PCCA-03140</p></td>
 <td><ol>
-<li>春風LOVER SONG / <a href="https://ja.wikipedia.org/wiki/CHERRYBLOSSOM" title="wikilink">CHERRYBLOSSOM</a></li>
+<li>春風LOVER SONG / <a href="../Page/CHERRYBLOSSOM.md" title="wikilink">CHERRYBLOSSOM</a></li>
 <li>サクラ舞い散る夜は / <a href="../Page/ムラマサ☆.md" title="wikilink">ムラマサ☆</a></li>
 <li>サクラ / <a href="https://ja.wikipedia.org/wiki/REAL_REACH" title="wikilink">REAL REACH</a></li>
 </ol>

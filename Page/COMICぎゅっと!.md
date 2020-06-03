@@ -73,7 +73,7 @@
 
 ## 関連項目
 
-  - [漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")
+  - [漫画雑誌](../Page/漫画雑誌.md "wikilink")
 
 ## 外部リンク
 

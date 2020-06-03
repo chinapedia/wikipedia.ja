@@ -32,7 +32,7 @@
   - [市川葵](https://ja.wikipedia.org/wiki/市川葵 "wikilink")
   - [香穂里](https://ja.wikipedia.org/wiki/香穂里 "wikilink")
   - [島野亜希子](../Page/島野亜希子.md "wikilink")
-  - [しほの涼](https://ja.wikipedia.org/wiki/しほの涼 "wikilink")
+  - [しほの涼](../Page/しほの涼.md "wikilink")
   - [星野智世](https://ja.wikipedia.org/wiki/星野智世 "wikilink")
   - [佐藤麻奈](../Page/佐藤麻奈.md "wikilink")
   - 田澤麻衣（現・[菜々川唯](../Page/菜々川唯.md "wikilink")）

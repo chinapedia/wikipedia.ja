@@ -1,7 +1,7 @@
 > この記事は[サウンドストームDJANGO](https://ja.wikipedia.org/wiki/サウンドストームDJANGO)から翻訳されています。
 
 
-『**サウンドストームDJANGO**』（サウンドストームジャンゴ）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN系の深夜の時間帯で放送されていた](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[8月](../Page/8月.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた。
+『**サウンドストームDJANGO**』（サウンドストームジャンゴ）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN系の深夜の時間帯で放送されていた](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[8月](../Page/8月.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた。
 
 ## 概要
 
@@ -142,7 +142,7 @@
 
 ## ネット局
 
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")
 

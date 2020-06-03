@@ -31,15 +31,15 @@ A線は1980年に開通するも、2019年5月現在、[バルベリーニ駅](.
 | [フラミニオ駅](https://ja.wikipedia.org/wiki/フラミニオ駅 "wikilink")                              | *Flaminio Piazza del Popolo*          |
 | [スパーニャ駅](../Page/スパーニャ駅.md "wikilink")                                                 | *Spagna*                              |
 | [バルベリーニ駅](../Page/バルベリーニ駅.md "wikilink")【無期閉鎖中】                                        | *Barberini Fontana di Trevi*          |
-| [レプッブリカ駅](https://ja.wikipedia.org/wiki/レプッブリカ駅_\(ローマ地下鉄\) "wikilink")                 | *Repubblica Teatro dell'Opera*        |
+| [レプッブリカ駅](../Page/レプッブリカ駅_\(ローマ地下鉄\).md "wikilink")                                    | *Repubblica Teatro dell'Opera*        |
 | [テルミニ駅](https://ja.wikipedia.org/wiki/テルミニ駅 "wikilink")                                | *Termini-Cotral*                      |
 | [ヴィットーリオ・エマヌエーレ駅](https://ja.wikipedia.org/wiki/ヴィットーリオ・エマヌエーレ駅_\(ローマ地下鉄\) "wikilink") | *Vittorio Emanuele*                   |
-| [マンゾーニ駅](https://ja.wikipedia.org/wiki/マンゾーニ駅 "wikilink")                              | *Manzoni Museo della Liberazione*     |
-| [サン・ジョヴァンニ駅](https://ja.wikipedia.org/wiki/サン・ジョヴァンニ駅 "wikilink")                      | *S. Giovanni*                         |
-| [レ・ディ・ローマ駅](https://ja.wikipedia.org/wiki/レ・ディ・ローマ駅 "wikilink")                        | *Re di Roma*                          |
-| [ポンテ・ルンゴ駅](https://ja.wikipedia.org/wiki/ポンテ・ルンゴ駅 "wikilink")                          | *Ponte Lungo*                         |
-| [フーリオ・カミッロ駅](https://ja.wikipedia.org/wiki/フーリオ・カミッロ駅 "wikilink")                      | *Furio Camillo*                       |
-| [コッリ・アルバーニ駅](https://ja.wikipedia.org/wiki/コッリ・アルバーニ駅 "wikilink")                      | *Colli Albani Parco Appia Antica*     |
+| [マンゾーニ駅](../Page/マンゾーニ駅.md "wikilink")                                                 | *Manzoni Museo della Liberazione*     |
+| [サン・ジョヴァンニ駅](../Page/サン・ジョヴァンニ駅.md "wikilink")                                         | *S. Giovanni*                         |
+| [レ・ディ・ローマ駅](../Page/レ・ディ・ローマ駅.md "wikilink")                                           | *Re di Roma*                          |
+| [ポンテ・ルンゴ駅](../Page/ポンテ・ルンゴ駅.md "wikilink")                                             | *Ponte Lungo*                         |
+| [フーリオ・カミッロ駅](../Page/フーリオ・カミッロ駅.md "wikilink")                                         | *Furio Camillo*                       |
+| [コッリ・アルバーニ駅](../Page/コッリ・アルバーニ駅.md "wikilink")                                         | *Colli Albani Parco Appia Antica*     |
 | [アルコ・ディ・トラヴェルティーノ駅](../Page/アルコ・ディ・トラヴェルティーノ駅.md "wikilink")                           | *Arco di Travertino*                  |
 | [ポルタ・フルバ駅](../Page/ポルタ・フルバ駅.md "wikilink")                                             | *Porta Furba Quadraro*                |
 | [ヌミディオ・クアドラート駅](https://ja.wikipedia.org/wiki/ヌミディオ・クアドラート駅 "wikilink")                | *Numidio Quadrato*                    |

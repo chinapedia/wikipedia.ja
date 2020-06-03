@@ -470,7 +470,7 @@
   -
   - [オーストリア・サッカー専門サイト](http://www.austria-soccer.jp/)（日本語）
 
-[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:オーストリアの女子サッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアの女子サッカークラブ "wikilink") [Category:インスブルックのスポーツ](https://ja.wikipedia.org/wiki/Category:インスブルックのスポーツ "wikilink")
+[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:オーストリアの女子サッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアの女子サッカークラブ "wikilink") [Category:インスブルックのスポーツ](https://ja.wikipedia.org/wiki/Category:インスブルックのスポーツ "wikilink") [Category:2002年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2002年設立のスポーツチーム "wikilink")
 
 1.  [Eine Stadt - ein Land - ein Verein - eine Liebe](https://www.youtube.com/watch?v=lewhtaKcgUc)
 2.  [DAMEN: DOPPELTE MEISTER\!](https://fc-wacker-innsbruck.at/news/news-frauen/3688-damen-doppelte-meister.html)

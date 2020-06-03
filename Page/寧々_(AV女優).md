@@ -91,7 +91,7 @@
   - BODY JACK 大量ローション★粘液アクメ★体液ファック（11月19日、[ドグマ](../Page/ドグマ_\(アダルトビデオ\).md "wikilink")）
   - エロかっこいいスクールガールの極上騎乗位×潮吹き×中出し（11月20日、[イマージュ](https://ja.wikipedia.org/wiki/ネクスト_\(アダルトビデオ\) "wikilink")）共演:神田ねおん
   - 東京モータークイーン（11月20日、イマージュ）他出演:[君島冴子](../Page/Aoi..md "wikilink")、山咲リョウ、EMIRI、神田ねおん
-  - 渋谷系エロカワGALの手コキパラダイス（11月20日、イマージュ）他出演:[京野明日香](https://ja.wikipedia.org/wiki/京野明日香 "wikilink")、[瞳れん](../Page/瞳れん.md "wikilink")、なごみ、[七瀬たまき](../Page/七瀬たまき.md "wikilink")、成宮結羽、蒼月ひかり、[長澤りか](https://ja.wikipedia.org/wiki/長澤リカ "wikilink")
+  - 渋谷系エロカワGALの手コキパラダイス（11月20日、イマージュ）他出演:[京野明日香](../Page/京野明日香.md "wikilink")、[瞳れん](../Page/瞳れん.md "wikilink")、なごみ、[七瀬たまき](../Page/七瀬たまき.md "wikilink")、成宮結羽、蒼月ひかり、[長澤りか](https://ja.wikipedia.org/wiki/長澤リカ "wikilink")
   - 女教師 中出し20連発（12月1日、[アイエナジー](../Page/アイエナジー.md "wikilink")） ※AVグランプリ2008 グランプリステージエントリー作品
   - 雌女anthology ＃052 「女の口は嘘をつく。」（12月7日、アウダースジャパン）
   - 綺麗なお姉さんのSEXを覗きたい\!\! 完全版（12月17日、[メディアステーション](https://ja.wikipedia.org/wiki/メディアステーション "wikilink")）共演:[あすかりの](../Page/あすかりの.md "wikilink")
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   - 寧々先生とウブな素人娘の手コキ研究会（1月1日、[V（ヴィ）](https://ja.wikipedia.org/wiki/V（ヴィ） "wikilink")）
-  - 手コキでベロちゅ〜（1月25日、イエロー）他出演:[鮎川なお](../Page/鮎川なお.md "wikilink")、三浦亜沙妃、[愛里ひな](../Page/愛里ひな.md "wikilink")、[飯島夏希](../Page/桜庭ハル.md "wikilink")、[高瀬七海](https://ja.wikipedia.org/wiki/高瀬七海 "wikilink")、[浜崎りお](../Page/浜崎りお.md "wikilink")、[松嶋侑里](https://ja.wikipedia.org/wiki/松嶋侑里 "wikilink")、[星野優奈](../Page/星野優奈.md "wikilink")、七瀬たまき、[おかもとなぎさ](https://ja.wikipedia.org/wiki/岡本渚 "wikilink")、[小倉ゆい](../Page/小倉ゆい.md "wikilink")
+  - 手コキでベロちゅ〜（1月25日、イエロー）他出演:[鮎川なお](../Page/鮎川なお.md "wikilink")、三浦亜沙妃、[愛里ひな](../Page/愛里ひな.md "wikilink")、[飯島夏希](../Page/桜庭ハル.md "wikilink")、[高瀬七海](../Page/高瀬七海.md "wikilink")、[浜崎りお](../Page/浜崎りお.md "wikilink")、[松嶋侑里](https://ja.wikipedia.org/wiki/松嶋侑里 "wikilink")、[星野優奈](../Page/星野優奈.md "wikilink")、七瀬たまき、[おかもとなぎさ](https://ja.wikipedia.org/wiki/岡本渚 "wikilink")、[小倉ゆい](../Page/小倉ゆい.md "wikilink")
   - 社長秘書はインテリ痴女（2月1日、[ワンズファクトリー](../Page/ワンズファクトリー.md "wikilink")）
   - ノーモザイクおまんこ 10（2月13日、[カルマ](../Page/カルマ_\(アダルトビデオ\).md "wikilink")）他出演:[灘ジュン](../Page/灘ジュン.md "wikilink")、[妃乃ひかり](../Page/妃乃ひかり.md "wikilink")
   - 官能小説朗読オナニー（2月19日、イエロー）他出演:高瀬七海、三浦亜沙妃、おかもとなぎさ、星野優奈、飯島夏希、七瀬たまき、[北田優歩](https://ja.wikipedia.org/wiki/北田優歩 "wikilink")、[我那覇レイ](../Page/我那覇レイ.md "wikilink")、小倉ゆい、松嶋侑里、鮎川なお
@@ -117,7 +117,7 @@
   - sex appeal 01 ALL GENRE STYLE（4月25日、Groove Girls）
   - ヴァーチャル相互オナニー いっしょにイってね（5月1日、ワンズファクトリー）他出演:[乃亜](../Page/乃亜.md "wikilink")、[大沢佑香](https://ja.wikipedia.org/wiki/晶エリー "wikilink")、[花野真衣](../Page/黒木麻衣.md "wikilink")、[北島玲](../Page/北島玲.md "wikilink")、[沢尻アヤカ](../Page/沢尻アヤカ.md "wikilink")、[澄川ロア](../Page/澄川ロア.md "wikilink")、[芽衣奈](https://ja.wikipedia.org/wiki/芽衣奈 "wikilink")、森口あいか、[南まりん](../Page/星乃せあら.md "wikilink")、真田リサ、[須真杏里](../Page/須真杏里.md "wikilink")
   - 女怪盗 女豹7 懸けられた賞金首（5月7日、アタッカーズ）共演:[如月カレン](../Page/如月カレン.md "wikilink")、[未来](../Page/未来_\(AV女優\).md "wikilink")
-  - 競泳水着 4時間（5月23日、[TMA](../Page/トータル・メディア・エージェンシー.md "wikilink")）他出演:[ほしのみゆ](../Page/ほしのみゆ.md "wikilink")、[伊藤あずさ](https://ja.wikipedia.org/wiki/桐原あずさ "wikilink")、[川愛加奈](https://ja.wikipedia.org/wiki/川愛加奈 "wikilink")、妃乃ひかり、[さくら奈々](../Page/さくら奈々.md "wikilink")、[桜井春](https://ja.wikipedia.org/wiki/桜井春 "wikilink")、東野愛鈴、秋葉亜由
+  - 競泳水着 4時間（5月23日、[TMA](../Page/トータル・メディア・エージェンシー.md "wikilink")）他出演:[ほしのみゆ](../Page/ほしのみゆ.md "wikilink")、[伊藤あずさ](../Page/桐原あずさ.md "wikilink")、[川愛加奈](https://ja.wikipedia.org/wiki/川愛加奈 "wikilink")、妃乃ひかり、[さくら奈々](../Page/さくら奈々.md "wikilink")、[桜井春](https://ja.wikipedia.org/wiki/桜井春 "wikilink")、東野愛鈴、秋葉亜由
   - 楠木女学院 奴隷色のステージ（6月7日、アタッカーズ）共演:[香椎杏子](https://ja.wikipedia.org/wiki/香椎杏子 "wikilink")、[牧本千幸](../Page/牧本千幸.md "wikilink")、[姫咲りりあ](../Page/姫咲りりあ.md "wikilink")、紅りんご
   - 24人の乳もみインタビュー 4時間 2（6月20日、TMA）他23名出演
   - トリプルパイパンGROOVE 3時間スペシャル（7月7日、プレミアム）共演:[麗花](../Page/麗花.md "wikilink")、[本上花梨](../Page/本上花梨.md "wikilink")

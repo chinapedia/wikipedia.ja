@@ -200,7 +200,7 @@ DSEと対立関係にあった[K-1](../Page/K-1.md "wikilink")からは取材拒
 ## 著名なOB
 
   - [吉田豪](../Page/吉田豪.md "wikilink")
-  - [坂井ノブ](https://ja.wikipedia.org/wiki/坂井ノブ "wikilink")
+  - [坂井ノブ](https://ja.wikipedia.org/wiki/坂井ノブ "wikilink") - 現在はIT制作会社に勤務。同社で[高山善廣](../Page/高山善廣.md "wikilink")をサポートするサイト「立ち上がれ！高山善廣」を運営。
   - [八木賢太郎](https://ja.wikipedia.org/wiki/八木賢太郎 "wikilink") - お笑い系フリーライター。カジノフォーリー編集部員を経て、居候。
   - [ジャン斉藤](https://ja.wikipedia.org/wiki/ジャン斉藤 "wikilink") - ジャンは麻雀のジャンから。同誌編集長を経て「Dropkick」編集長。
   - [堀江ガンツ](https://ja.wikipedia.org/wiki/堀江ガンツ "wikilink") - ガンツは特撮ドラマ『[がんばれ\!\!ロボコン](../Page/がんばれ!!ロボコン.md "wikilink")』のガンツ先生から。フリーライター。分裂後の「Dropkick」、「KAMINOGE」両誌に寄稿していたが、のちに「KAMINOGE」に専任。

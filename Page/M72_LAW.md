@@ -1,7 +1,7 @@
 > この記事は[M72 LAW](https://ja.wikipedia.org/wiki/M72_LAW)から翻訳されています。
 
 
-**M72 LAW**（Light Anti-Tank（Anti-Armor） Weapon）は、[口径](../Page/口径.md "wikilink")66mmの[使い捨て](https://ja.wikipedia.org/wiki/使い捨て "wikilink")[対戦車ロケット弾](../Page/対戦車ロケット弾.md "wikilink")である。
+**M72 LAW**（Light Anti-Tank（Anti-Armor） Weapon）は、[口径](../Page/口径.md "wikilink")66mmの[使い捨て](../Page/使い捨て.md "wikilink")[対戦車ロケット弾](../Page/対戦車ロケット弾.md "wikilink")である。
 
 設計は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のTalley ディフェンス、製造は[ノルウェー](../Page/ノルウェー.md "wikilink")のNammo Raufoss ASである。[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")では、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")以後[バズーカ](../Page/バズーカ.md "wikilink")の後継装備品として導入された。現代の[主力戦車](../Page/主力戦車.md "wikilink")を相手にするには力不足だが、軽便であるため軽車両や軟目標に標的を変えて使用が続けられている。
 

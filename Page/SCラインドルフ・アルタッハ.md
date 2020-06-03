@@ -213,4 +213,4 @@
   - [SCR Altach at National Football Teams.com](http://www.national-football-teams.com/v2/club.php?id=3211)
   - [SCR Altach at Football-Lineups.com](http://www.football-lineups.com/team/SCR_Altach/)　
 
-[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:フォアアールベルク州](https://ja.wikipedia.org/wiki/Category:フォアアールベルク州 "wikilink")
+[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:フォアアールベルク州](https://ja.wikipedia.org/wiki/Category:フォアアールベルク州 "wikilink") [Category:1929年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1929年設立のスポーツチーム "wikilink")

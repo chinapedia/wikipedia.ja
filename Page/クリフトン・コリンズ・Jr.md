@@ -112,7 +112,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マインドハンター" title="wikilink">マインドハンター</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/マインドハンター_(映画)" title="wikilink">マインドハンター</a><br />
 <em>Mindhunters</em></p></td>
 <td><p>ヴィンス</p></td>
 <td></td>
@@ -280,19 +280,26 @@
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハニーボーイ" title="wikilink">ハニーボーイ</a><br />
+<em>Honey Boy</em></p></td>
+<td><p>トム</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ワンス・アポン・ア・タイム・イン・ハリウッド" title="wikilink">ワンス・アポン・ア・タイム・イン・ハリウッド</a><br />
 <em>Once Upon a Time in Hollywood</em></p></td>
 <td><p>エルネスト</p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/WAVES/ウェイブス" title="wikilink">WAVES/ウェイブス</a><br />
 <em>Waves</em></p></td>
 <td><p>ボビー・ロペス</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

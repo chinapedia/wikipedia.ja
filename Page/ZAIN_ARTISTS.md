@@ -27,7 +27,7 @@
 
   - [XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")（系列の個人事務所B×3所属だった）
-  - [大葉るか](https://ja.wikipedia.org/wiki/大葉るか "wikilink")
+  - [大葉るか](../Page/大葉るか.md "wikilink")
   - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")（系列の個人事務所RAD MUSIC所属だった）
   - [spAed](https://ja.wikipedia.org/wiki/spAed "wikilink")
   - [SO-FI](../Page/SO-FI.md "wikilink")

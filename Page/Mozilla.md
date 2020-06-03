@@ -23,7 +23,7 @@
 
 ## Geckoを搭載したブラウザーの総称
 
-Mozillaという言葉は[HTMLレンダリングエンジン](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")Geckoを搭載したブラウザーを指すことが多い。 たとえば、あるウェブサイトで「Mozillaのブラウザが使える」と書いてあるとき、それは Mozilla Suite、[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Camino](../Page/Camino.md "wikilink")、[Netscape Navigator 9など](https://ja.wikipedia.org/wiki/Netscape_Navigator_9 "wikilink")、Geckoを搭載したブラウザで閲覧できることを意味する。
+Mozillaという言葉は[HTMLレンダリングエンジン](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")Geckoを搭載したブラウザーを指すことが多い。 たとえば、あるウェブサイトで「Mozillaのブラウザが使える」と書いてあるとき、それは Mozilla Suite、[Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Camino](../Page/Camino.md "wikilink")、[Netscape Navigator 9など](../Page/Netscape_Navigator_9.md "wikilink")、Geckoを搭載したブラウザで閲覧できることを意味する。
 
 ## Mozillaアプリケーションフレームワーク
 

@@ -35,4 +35,4 @@
       - マナッツ・セミンガー - [セミ](../Page/セミ.md "wikilink")型レプリロイド
       - ツクーネ・クシザーシ - [つくね](https://ja.wikipedia.org/wiki/つくね "wikilink")型レプリロイド
 
-[Category:漫画作品_ろ](https://ja.wikipedia.org/wiki/Category:漫画作品_ろ "wikilink") [Category:ロックマンシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ロックマンシリーズ漫画作品 "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink")
+[Category:漫画作品_ろ](https://ja.wikipedia.org/wiki/Category:漫画作品_ろ "wikilink") [Category:1997年の漫画](https://ja.wikipedia.org/wiki/Category:1997年の漫画 "wikilink") [Category:ロックマンシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ロックマンシリーズ漫画作品 "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink")

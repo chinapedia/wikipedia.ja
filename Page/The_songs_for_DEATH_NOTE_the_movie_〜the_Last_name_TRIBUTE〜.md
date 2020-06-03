@@ -26,7 +26,7 @@ CD
 5.  **Fre@K $HoW** / [abingdon boys school](https://ja.wikipedia.org/wiki/アビングドンボーイズスクール "wikilink")
       -
         シングル「[INNOCENT SORROW](../Page/INNOCENT_SORROW.md "wikilink")」収録
-6.  '''energy ''' / [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")
+6.  '''energy ''' / [HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")
       -
         シングル「[STYLE 〜get glory in this hand〜](../Page/STYLE_〜get_glory_in_this_hand〜.md "wikilink")」収録
 7.  **MIRACLE** / [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")

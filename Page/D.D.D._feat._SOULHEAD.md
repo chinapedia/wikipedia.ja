@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 今作は、[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")の姉妹デュオ[SOULHEAD](../Page/SOULHEAD.md "wikilink")を[フィーチャリング](../Page/フィーチャリング.md "wikilink")という形でリリースされた。SOULHEADはこの曲において、作詞・作曲・編曲・プロディースなどの4つを自ら手がけている。ちなみに、12週連続シングルリリースの中でフィーチャリングの形でリリースされた作品は他に、第7弾「[Candy feat.Mr. Blistah](https://ja.wikipedia.org/wiki/Candy_feat.Mr._Blistah "wikilink")」、第10弾「[KAMEN feat.石井竜也](../Page/KAMEN_feat.石井竜也.md "wikilink")」がある。
+  - 今作は、[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")の姉妹デュオ[SOULHEAD](../Page/SOULHEAD.md "wikilink")を[フィーチャリング](../Page/フィーチャリング.md "wikilink")という形でリリースされた。SOULHEADはこの曲において、作詞・作曲・編曲・プロディースなどの4つを自ら手がけている。ちなみに、12週連続シングルリリースの中でフィーチャリングの形でリリースされた作品は他に、第7弾「[Candy feat.Mr. Blistah](../Page/Candy_feat.Mr._Blistah.md "wikilink")」、第10弾「[KAMEN feat.石井竜也](../Page/KAMEN_feat.石井竜也.md "wikilink")」がある。
 
 <!-- end list -->
 

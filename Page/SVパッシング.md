@@ -52,7 +52,7 @@
 
   - [オーストリア・サッカーの専門サイト](http://www.austria-soccer.jp/)（日本語）（クラブの詳細情報や画像あり）
 
-[Category:現在活動していないオーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオーストリアのサッカークラブ "wikilink") [Category:オーバーエスターライヒ州](https://ja.wikipedia.org/wiki/Category:オーバーエスターライヒ州 "wikilink")
+[Category:現在活動していないオーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオーストリアのサッカークラブ "wikilink") [Category:オーバーエスターライヒ州](https://ja.wikipedia.org/wiki/Category:オーバーエスターライヒ州 "wikilink") [Category:1946年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1946年設立のスポーツチーム "wikilink") [Category:2007年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2007年廃止のスポーツチーム "wikilink")
 
 1.
 2.

@@ -9,7 +9,7 @@
 
 メンバーは全員が現役のグラビアアイドルで、メイドを思わせるピンク色のコスチュームがトレードマーク\[2\]。グラビアからアーティストまでこなす新たなスタイルのアイドルを目指していた。
 
-結成当初は5人組であったが、2006年[11月](../Page/11月.md "wikilink")に[小林万桜](../Page/小林万桜.md "wikilink")が脱退、替って[辰巳奈都子](https://ja.wikipedia.org/wiki/辰巳奈都子 "wikilink")が加入\[3\]。2007年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[手塚りえ](../Page/手塚りえ.md "wikilink")が脱退\[4\]。以降、4人組となる。
+結成当初は5人組であったが、2006年[11月](../Page/11月.md "wikilink")に[小林万桜](../Page/小林万桜.md "wikilink")が脱退、替って[辰巳奈都子](../Page/辰巳奈都子.md "wikilink")が加入\[3\]。2007年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[手塚りえ](../Page/手塚りえ.md "wikilink")が脱退\[4\]。以降、4人組となる。
 
 2007年2月3日のライブ出演を最後に、グループとしての活動は休止状態である。
 
@@ -20,7 +20,7 @@
   - [加藤沙耶香](../Page/加藤沙耶香.md "wikilink") （リーダー）
   - [Erina](../Page/Erina.md "wikilink")
   - [小田あさ美](../Page/小田あさ美.md "wikilink")
-  - [辰巳奈都子](https://ja.wikipedia.org/wiki/辰巳奈都子 "wikilink")
+  - [辰巳奈都子](../Page/辰巳奈都子.md "wikilink")
 
 ## 脱退メンバー
 

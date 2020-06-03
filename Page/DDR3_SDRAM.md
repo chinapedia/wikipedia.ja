@@ -269,7 +269,7 @@ DDR3にも、DDR2と同様に、帯域幅や容量に加えて、次のような
 
 ## 関連項目
 
-  - [デュアルチャネル](https://ja.wikipedia.org/wiki/デュアルチャネル "wikilink")
+  - [デュアルチャネル](../Page/デュアルチャネル.md "wikilink")
   - [トリプルチャネル](https://ja.wikipedia.org/wiki/トリプルチャネル "wikilink")
   - [クアッドチャネル](https://ja.wikipedia.org/wiki/クアッドチャネル "wikilink")
   - [デバイス帯域幅の一覧](../Page/デバイス帯域幅の一覧.md "wikilink")

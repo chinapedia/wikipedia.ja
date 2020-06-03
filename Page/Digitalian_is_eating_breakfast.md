@@ -35,7 +35,7 @@
 
 共同プロデューサーとして[日向大介](https://ja.wikipedia.org/wiki/日向大介 "wikilink")が参加したのは当時既にシンクラヴィアを用いたレコーディングシステムを確立していた日向の「シンクラヴィアの細かい使用に対するノウハウ・システムの構築方法・実験上出来ることと出来ないこと」等の情報・アドバイスが欲しかったためであり、別の作業に忙しい小室の「スーパーバイザーになって欲しい」という依頼から始まっている。スタッフからは「現地のプロデューサーを付けて[DRESSのノリでやったらいいんじゃないか](../Page/DRESS_\(TM_NETWORKのアルバム\).md "wikilink")」という意見もあったが、小室は「今まで聴いたことのないオリジナルの音色を出すためには、自分の音色が[パブリックイメージ](https://ja.wikipedia.org/wiki/パブリックイメージ "wikilink")に発表されている有名な人じゃない方がいい」とスタッフを説得し、日向を推薦した\[14\]。
 
-このアルバムに収録されている「**OPERA NIGHT**」はTM NETWORKデビューアルバム『**[RAINBOW RAINBOW](../Page/RAINBOW_RAINBOW.md "wikilink")**』作成時のデモテープの中の1曲の「**OPEN YOUR HEART**」(後に1994年リリースの『**[TMN RED](../Page/TAKASHI_UTSUNOMIYA_PRESENTS_TMN_RED.md "wikilink")**』に収録)という楽曲の作り替えであり、「**[CHRISTMAS CHORUS](https://ja.wikipedia.org/wiki/CHRISTMAS_CHORUS "wikilink")**」は『**[CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")**』作成時に収録されなかった曲である。その他の曲は1989年3月以降から作った曲だが、「**[RUNNING TO HORIZON](https://ja.wikipedia.org/wiki/RUNNING_TO_HORIZON "wikilink")**」はTM NETWORKのシングル「**[DIVE INTO YOUR BODY](../Page/DIVE_INTO_YOUR_BODY.md "wikilink")**」と同時に作った曲であり、多数決で「DIVE INTO YOUR BODY」はTM NETWORKの曲になった。
+このアルバムに収録されている「**OPERA NIGHT**」はTM NETWORKデビューアルバム『**[RAINBOW RAINBOW](../Page/RAINBOW_RAINBOW.md "wikilink")**』作成時のデモテープの中の1曲の「**OPEN YOUR HEART**」(後に1994年リリースの『**[TMN RED](../Page/TAKASHI_UTSUNOMIYA_PRESENTS_TMN_RED.md "wikilink")**』に収録)という楽曲の作り替えであり、「**[CHRISTMAS CHORUS](../Page/CHRISTMAS_CHORUS.md "wikilink")**」は『**[CHILDHOOD'S END](../Page/CHILDHOOD'S_END.md "wikilink")**』作成時に収録されなかった曲である。その他の曲は1989年3月以降から作った曲だが、「**[RUNNING TO HORIZON](../Page/RUNNING_TO_HORIZON.md "wikilink")**」はTM NETWORKのシングル「**[DIVE INTO YOUR BODY](../Page/DIVE_INTO_YOUR_BODY.md "wikilink")**」と同時に作った曲であり、多数決で「DIVE INTO YOUR BODY」はTM NETWORKの曲になった。
 
 小室は「ボーカルとバックの響きを上手く調整できた。今までではありがちだった『バックと歌メロが別物』みたいな作りではない」と振り返っている\[15\]。
 
@@ -135,7 +135,7 @@
     南米の雰囲気を出すために、ブラジルでも使用されているポルトガル語をサンプリングしている\[30\]。
     別歌詞バージョンが、[CoCoの](../Page/CoCo_\(アイドルグループ\).md "wikilink")「春・ミルキーウェイ」（作詞は吉澤久美子。『[Strawberry](https://ja.wikipedia.org/wiki/Strawberry_\(CoCoのアルバム\) "wikilink")』に収録）として提供された。
 
-**5.[GRAVITY OF LOVE](https://ja.wikipedia.org/wiki/GRAVITY_OF_LOVE "wikilink")**
+**5.[GRAVITY OF LOVE](../Page/GRAVITY_OF_LOVE.md "wikilink")**
 
   -
     先行シングルを含めたアルバムの楽曲中で一番最初に歌入れした楽曲である\[31\]。
@@ -157,13 +157,13 @@
   -
     「何も考えないでシンクラヴィアの音を楽しんでほしい」という思いから、[オーバー・ダビング](../Page/オーバー・ダビング.md "wikilink")を念入りに行った\[37\]。
 
-**9.[RUNNING TO HORIZON](https://ja.wikipedia.org/wiki/RUNNING_TO_HORIZON "wikilink")**
+**9.[RUNNING TO HORIZON](../Page/RUNNING_TO_HORIZON.md "wikilink")**
 
   -
     TM NETWORKのシングル「[DIVE INTO YOUR BODY](../Page/DIVE_INTO_YOUR_BODY.md "wikilink")」と同時に作った曲である\[38\]。
     [読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")『[シティーハンター3](../Page/シティーハンター_\(アニメ\).md "wikilink")』のオープニングテーマ。
 
-**10.[CHRISTMAS CHORUS](https://ja.wikipedia.org/wiki/CHRISTMAS_CHORUS "wikilink")**
+**10.[CHRISTMAS CHORUS](../Page/CHRISTMAS_CHORUS.md "wikilink")**
 
   -
     「クリスマスソングを1度はソロでやってみたい」という一ミュージシャンのわがままで作った\[39\]。

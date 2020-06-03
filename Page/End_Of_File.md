@@ -1,7 +1,7 @@
 > この記事は[End Of File](https://ja.wikipedia.org/wiki/End_Of_File)から翻訳されています。
 
 
-[コンピューティング](../Page/コンピューティング.md "wikilink")において、**End Of File**（エンド・オブ・ファイル、略称:**EOF**\[1\]）とは、[ファイル](https://ja.wikipedia.org/wiki/ファイル "wikilink")や[ストリームにおいて](../Page/ストリーム_\(プログラミング\).md "wikilink")、それより先に読み出すデータが存在しない（終端である）ことを示す状態のことである。
+[コンピューティング](../Page/コンピューティング.md "wikilink")において、**End Of File**（エンド・オブ・ファイル、略称:**EOF**\[1\]）とは、[ファイルや](../Page/ファイル_\(コンピュータ\).md "wikilink")[ストリームにおいて](../Page/ストリーム_\(プログラミング\).md "wikilink")、それより先に読み出すデータが存在しない（終端である）ことを示す状態のことである。
 
 [標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")では、[getchar](https://ja.wikipedia.org/wiki/getchar "wikilink")のような文字を読み取る関数は、ファイルやストリームの終端を読み取った時に、シンボル値（マクロ） `EOF` に等しい値を返す。`EOF` の実際の値は実装に依存するが（ただし、[GNU Cライブラリなど](https://ja.wikipedia.org/wiki/GNU_Cライブラリ "wikilink")、一般的には -1 が使用される\[2\]）、文字を示す全てのコードと異なる値で示される。fgets()は[ヌルポインタ](https://ja.wikipedia.org/wiki/ヌルポインタ "wikilink")が返るなど、同じ言語においても様々である。
 

@@ -93,7 +93,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td><p>1992年9月まで<a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">JNNへの番販参加局</a></p></td>
 <td></td>
 </tr>
@@ -150,7 +150,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td></td>
 <td></td>
 </tr>

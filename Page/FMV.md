@@ -1,7 +1,7 @@
 > この記事は[FMV](https://ja.wikipedia.org/wiki/FMV)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:P1050491.JPG "wikilink") **FMV**（エフエムブイ）は、[富士通](../Page/富士通.md "wikilink")（現・[レノボ](../Page/レノボ.md "wikilink")グループの[富士通クライアントコンピューティング](https://ja.wikipedia.org/wiki/富士通クライアントコンピューティング "wikilink")）の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の[商標](../Page/商標.md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:P1050491.JPG "wikilink")  **FMV**（エフエムブイ）は、[富士通](../Page/富士通.md "wikilink")（現・[レノボ](../Page/レノボ.md "wikilink")グループの[富士通クライアントコンピューティング](https://ja.wikipedia.org/wiki/富士通クライアントコンピューティング "wikilink")）の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")の[商標](../Page/商標.md "wikilink")。
 
 ## 概要
 

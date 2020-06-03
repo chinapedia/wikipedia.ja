@@ -1,7 +1,7 @@
 > この記事は[奇跡の扉 TVのチカラ](https://ja.wikipedia.org/wiki/奇跡の扉_TVのチカラ)から翻訳されています。
 
 
-『**奇跡の扉 TVのチカラ**』（きせきのとびら テレビのチカラ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[生放送](../Page/生放送.md "wikilink")[事件](../Page/事件.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")までレギュラー放送された後、[2007年](../Page/2007年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")まで不定期特番として放送された。通称は「**TVのチカラ**」または「**テレチカ**」。デジタルハイビジョン番組（[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")の[ハイビジョン](../Page/ハイビジョン.md "wikilink")のみであり、地上デジタル放送のレギュラー番組では史上初の[双方向対応番組](../Page/双方向番組.md "wikilink"))である。
+『**奇跡の扉 TVのチカラ**』（きせきのとびら テレビのチカラ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[生放送](../Page/生放送.md "wikilink")[事件](../Page/事件.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")までレギュラー放送された後、[2007年](../Page/2007年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")まで不定期特番として放送された。通称は「**TVのチカラ**」または「**テレチカ**」。[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")では[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作であり、そのレギュラー番組では史上初の[双方向対応番組であった](../Page/双方向番組.md "wikilink")。
 
 ## 概要
 

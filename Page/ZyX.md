@@ -66,4 +66,4 @@
   - [コンテンツトラフィック](http://www.con-tra.co.jp/)
   - [timetry | ようこそコントラエンターテイメントへ](http://www.timetry.com/)
 
-[Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:雄図グループ](https://ja.wikipedia.org/wiki/Category:雄図グループ "wikilink")
+[Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:雄図グループ](https://ja.wikipedia.org/wiki/Category:雄図グループ "wikilink")

@@ -841,7 +841,7 @@ MC
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
   - [Paul Kington](http://www.soundclick.com/bands/pageartist.cfm?bandID=428087) ADポールのサイト。
   - [Agence de TOKYO](http://agencedetokyo.com/TvCmprofile.html) MCジル・ベッソンのサイト。
 

@@ -66,7 +66,7 @@
       - [4月4日](../Page/4月4日.md "wikilink") - 愛知県の[CBCラジオ](../Page/CBCラジオ.md "wikilink")（当時はテレビ・ラジオ兼営局だった[中部日本放送](../Page/中部日本放送.md "wikilink")）、[東海ラジオがAMステレオ放送を開始](../Page/東海ラジオ放送.md "wikilink")。
       - [8月1日](../Page/8月1日.md "wikilink") - [北海道放送が](../Page/HBCラジオ.md "wikilink")、AMステレオ放送を開始（札幌放送局のみ）。
       - [10月1日](../Page/10月1日.md "wikilink") - 広島県の[中国放送](../Page/中国放送.md "wikilink")が、AMステレオ放送を開始。
-      - [10月5日](../Page/10月5日.md "wikilink") - 岡山県の[山陽放送が](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")、AMステレオ放送を開始。
+      - [10月5日](../Page/10月5日.md "wikilink") - 岡山県の[山陽放送が](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、AMステレオ放送を開始。
   - [1993年](../Page/1993年.md "wikilink")
       - [3月29日](../Page/3月29日.md "wikilink") - [ラジオ大阪が新社屋移転にあわせて](../Page/大阪放送.md "wikilink")、AMステレオ放送を開始。
       - 10月1日 - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")が、AMステレオ放送を開始。

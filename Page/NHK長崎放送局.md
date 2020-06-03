@@ -13,7 +13,7 @@
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）12月22日 - 総合テレビジョン放送開始。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 地上デジタル放送開始（[長崎市](../Page/長崎市.md "wikilink")[稲佐山](../Page/稲佐山.md "wikilink")から送信）。
-  - [2011年](../Page/2011年.md "wikilink")（平成23年）[1月24日](../Page/1月24日.md "wikilink") - [対馬市](../Page/対馬市.md "wikilink")内のアナログテレビ中継局のうち、[厳原中継局](https://ja.wikipedia.org/wiki/厳原中継局 "wikilink")を除く5局（南厳原（みなみいづはら）、佐須奈（さすな）、対馬伊奈（つしまいな）、志多留（したる）、比田勝（ひたかつ））が先行廃止（[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")も同様）。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）[1月24日](../Page/1月24日.md "wikilink") - [対馬市](../Page/対馬市.md "wikilink")内のアナログテレビ中継局のうち、[厳原中継局](https://ja.wikipedia.org/wiki/厳原中継局 "wikilink")を除く5局（南厳原（みなみいづはら）、佐須奈（さすな）、対馬伊奈（つしまいな）、志多留（したる）、比田勝（ひたかつ））が先行廃止（[長崎放送](../Page/長崎放送.md "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")も同様）。
   - 2011年（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。
 
 ## 所在地

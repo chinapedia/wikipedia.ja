@@ -1,15 +1,13 @@
 > この記事は[HITOE](https://ja.wikipedia.org/wiki/HITOE)から翻訳されています。
 
 
-**HITOE**（ひとえ、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）は、[沖縄県](../Page/沖縄県.md "wikilink")[島尻郡](../Page/島尻郡.md "wikilink")[八重瀬町](../Page/八重瀬町.md "wikilink")出身の[歌手](../Page/歌手.md "wikilink")、[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、女性ボーカル&ダンスグループ・**[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")**の最年長メンバーである。出生名および旧芸名は**新垣 仁絵**（あらかき ひとえ）、現姓本名は夫が一般人であるため非公開。芸能事務所に所属しておらずフリー。
+**HITOE**（ひとえ、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ファッションデザイナー](../Page/ファッションデザイナー.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、女性ボーカル&ダンスグループ・**[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")**の最年長メンバーである。出生名および旧芸名は**新垣 仁絵**（あらかき ひとえ）、現姓本名は夫が一般人であるため非公開。芸能事務所に所属しておらずフリー。
 
-[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")の[ライセンス](../Page/ライセンス.md "wikilink")を取得し、講師としても活動中。ニックネームは、「仁絵ちゃん」、「ヒッチー」である。
-
-最年少メンバー[島袋寛子](../Page/島袋寛子.md "wikilink")と同じ誕生日で、ちょうど3歳差である。
+[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")の[ライセンス](../Page/ライセンス.md "wikilink")を取得し、講師としても活動中。ニックネームは、「仁絵ちゃん」、「ヒッチー」である。 最年少メンバー[島袋寛子](../Page/島袋寛子.md "wikilink")と同じ誕生日で、ちょうど3歳差である。
 
 ## 来歴
 
-[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")を経て、SPEEDのリーダーとして1996年にデビュー。グループでは主にダンスとコーラスを担当。
+[沖縄県](../Page/沖縄県.md "wikilink")[島尻郡](../Page/島尻郡.md "wikilink")[八重瀬町](../Page/八重瀬町.md "wikilink")出身。[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")を経て、SPEEDのリーダーとして1996年にデビュー。グループでは主にダンスとコーラスを担当。
 
 1999年4月、[TBS](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[L×I×V×E](../Page/L×I×V×E.md "wikilink")』で連続ドラマ初主演。同じSPEEDのメンバー・[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")と共演。
 
@@ -31,7 +29,7 @@
 
 2009年6月5日、日本テレビ『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")』の「トークッス」にSPEEDとして出演した際、「最近はまっていること」として、阿修羅像に興味を持ち、[みうらじゅん](../Page/みうらじゅん.md "wikilink")による「阿修羅ファンクラブ」に入会したことを挙げた。
 
-2013年4月8日、長らく交際してきた男性と結婚したことを自身のブログで発表した\[1\]。同時に所属事務所であるヴィジョンファクトリー（現・ライジングプロダクション）を退所、以後はフリーで活動している。これによりSPEEDは事実上、2度目の解散となった\[2\]。
+2013年4月8日、長らく交際してきた男性と結婚したことを自身のブログで発表した\[1\]。同時に所属事務所であるヴィジョンファクトリー（現・ライジングプロダクション）を退所、以後はフリーで活動している。これによりSPEEDは事実上、2度目の解散となった\[2\]。その後2020年現在の消息は不明である。
 
 ## ダンス
 

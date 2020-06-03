@@ -180,7 +180,8 @@
 ## 外部リンク
 
   - [立川俊之オフィシャルウェブサイト](http://www.tachikawatoshiyuki.net/)
-  - [tckw channel](http://www.youtube.com/user/tachikawatoshiyuki/)
+
+  -
   - [Ts Office](http://www.ts-office.co.jp/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink")

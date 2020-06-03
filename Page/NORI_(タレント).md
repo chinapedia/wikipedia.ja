@@ -59,4 +59,4 @@
   - 2007年、ClUB MATRIX 「渚」EVENT
   - 2007年、「egg・MEN'S KNUCKLE」PARTY　@歌舞伎町
 
-[Category:日本の男性モデル](https://ja.wikipedia.org/wiki/Category:日本の男性モデル "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性モデル](https://ja.wikipedia.org/wiki/Category:日本の男性モデル "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:在外日本人](https://ja.wikipedia.org/wiki/Category:在外日本人 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -274,9 +274,11 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
   - [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink") [ピーターパン空の旅](../Page/ピーターパン空の旅.md "wikilink")（2011年4月1日より）
   - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink") [ジャスミンのフライングカーペット](https://ja.wikipedia.org/wiki/ジャスミンのフライングカーペット "wikilink")（2011年[7月18日](../Page/7月18日.md "wikilink")オープン当初より\[8\]）
 
-## 注釈
+## 脚注
 
-## 出典
+### 注釈
+
+### 出典
 
 ## 関連項目
 

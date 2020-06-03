@@ -27,6 +27,6 @@ Web上での日記書きは、[インターネット](../Page/インターネッ
 ## 外部リンク
 
   - [社会学の理論で斬る「ネットの不思議」](http://internet.watch.impress.co.jp/www/column/socio/socio09.htm)
-  - [佐倉葉ウェブ文化研究室 - 日記リンクス](http://websitemap.sakura.ne.jp/history/1996.html)
+  - [佐倉葉ウェブ文化研究室 - 日記リンクス](https://websitemap.sakura.ne.jp/monograph/monograph09.html#2)
 
 [Category:日記](https://ja.wikipedia.org/wiki/Category:日記 "wikilink") [Category:World_Wide_Web](https://ja.wikipedia.org/wiki/Category:World_Wide_Web "wikilink") [Category:インターネットの文化](https://ja.wikipedia.org/wiki/Category:インターネットの文化 "wikilink") [Category:電子書籍](https://ja.wikipedia.org/wiki/Category:電子書籍 "wikilink")

@@ -72,6 +72,7 @@
           - Mira's Last Dance, 2017 (未訳)
           - The Prisoner of Limnos, 2017 (未訳)
           - The Orphans of Raspay 2019 (未訳)
+          - The Physicians of Vilnoc 2020 (未訳)
   - **[死者の短剣シリーズ](https://ja.wikipedia.org/wiki/死者の短剣シリーズ "wikilink")**(The Sharing Knife）
       - Beguilement, 2006- 『惑わし』, 2008, 創元推理文庫（小木曽絢子訳）, ISBN 978-4-488-58708-6
       - Legacy, 2007- 『遺産』, 2010, 創元推理文庫（小木曽絢子訳）, ISBN 978-4-488-58709-3

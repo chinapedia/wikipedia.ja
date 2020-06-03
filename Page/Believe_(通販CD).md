@@ -89,7 +89,7 @@ DISC-1:[SonyMusic](../Page/ソニー・ミュージックダイレクト.md "wik
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/誰より好きなのに" title="wikilink">誰より好きなのに</a></p></td>
+<td><p><a href="../Page/誰より好きなのに.md" title="wikilink">誰より好きなのに</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/古内東子" title="wikilink">古内東子</a></p></td>
 <td><p>1996年5月21日</p></td>
 <td></td>

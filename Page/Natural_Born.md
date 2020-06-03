@@ -16,7 +16,7 @@
 
 ### CD
 
-1.  **ホンノウ （Featuring ユウスケ from [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")）**
+1.  **ホンノウ （Featuring ユウスケ from [HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")）**
       - このアルバムの発売約一ヶ月前の発売された先行シングル。
 2.  **The Party**
 3.  **Wild Adventure**

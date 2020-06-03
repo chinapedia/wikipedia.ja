@@ -18,7 +18,7 @@
   - [INGグループ](../Page/INGグループ.md "wikilink")
   - [アクセンチュア](../Page/アクセンチュア.md "wikilink")
   - [アジア開発銀行](../Page/アジア開発銀行.md "wikilink")（ADB）
-  - [イートン・コーポレーション](https://ja.wikipedia.org/wiki/イートン・コーポレーション "wikilink")
+  - [イートン・コーポレーション](../Page/イートン・コーポレーション.md "wikilink")
   - [エレクトロラックス](../Page/エレクトロラックス.md "wikilink")
   - [シュナイダーエレクトリック](../Page/シュナイダーエレクトリック.md "wikilink")
   - [DHL](../Page/DHL.md "wikilink")

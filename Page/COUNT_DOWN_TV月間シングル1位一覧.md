@@ -31,7 +31,7 @@
 | 2005年 | [Anniversary](../Page/Anniversary_\(KinKi_Kidsの曲\).md "wikilink")                   | KinKi Kids                                                                  |      |
 | 2006年 | [粉雪](../Page/粉雪_\(レミオロメンの曲\).md "wikilink")                                         | [レミオロメン](../Page/レミオロメン.md "wikilink")                                      |      |
 | 2007年 | [千の風になって](../Page/千の風になって_\(秋川雅史のシングル\).md "wikilink")                              | [秋川雅史](../Page/秋川雅史.md "wikilink")                                          |      |
-| 2008年 | [吾亦紅](https://ja.wikipedia.org/wiki/吾亦紅_\(曲\) "wikilink")                           | [すぎもとまさと](../Page/杉本真人.md "wikilink")                                       |      |
+| 2008年 | [吾亦紅](../Page/吾亦紅_\(曲\).md "wikilink")                                              | [すぎもとまさと](../Page/杉本真人.md "wikilink")                                       |      |
 | 2009年 | [愛のままで…](https://ja.wikipedia.org/wiki/愛のままで… "wikilink")                           | [秋元順子](https://ja.wikipedia.org/wiki/秋元順子 "wikilink")                       |      |
 | 2010年 | －                                                                                   | －                                                                           | 発表なし |
 | 2011年 | －                                                                                   | －                                                                           | 発表なし |
@@ -62,7 +62,7 @@
 | 2005年 | [ファンタスティポ](../Page/ファンタスティポ_\(曲\).md "wikilink")                            | [トラジ・ハイジ](../Page/トラジ・ハイジ.md "wikilink")                    |      |
 | 2006年 | [衝動](../Page/衝動_\(B'zの曲\).md "wikilink")                                    | B'z                                                         |      |
 | 2007年 | 千の風になって                                                                     | 秋川雅史                                                        |      |
-| 2008年 | [LIPS](https://ja.wikipedia.org/wiki/LIPS_\(KAT-TUNの曲\) "wikilink")         | [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink") |      |
+| 2008年 | [LIPS](../Page/LIPS_\(KAT-TUNの曲\).md "wikilink")                            | [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink") |      |
 | 2009年 | [ONE DROP](https://ja.wikipedia.org/wiki/ONE_DROP "wikilink")               | KAT-TUN                                                     |      |
 | 2010年 | －                                                                           | －                                                           | 発表なし |
 | 2011年 | －                                                                           | －                                                           | 発表なし |

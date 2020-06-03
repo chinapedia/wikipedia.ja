@@ -30,7 +30,7 @@
         作詞: 倖田來未、作曲・編曲: Tommy Henriksen
 2.  **空** – 4:43
       -
-        作詞: 倖田來未、作曲・編曲: [Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")
+        作詞: 倖田來未、作曲・編曲: [Jin Nakamura](../Page/Jin_Nakamura.md "wikilink")
 3.  **Run For Your Life** – 3:11
       -
         作詞: 倖田來未、作曲: Hiten Bharadia・Philippe-Marc Anquetil・Christopher Lee-Joe

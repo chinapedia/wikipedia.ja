@@ -7,7 +7,7 @@
 
 [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")は再軍備のために、1929年から偵察用の[4輪軽装甲車の開発を始め](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")、完成したそれは1932年にKfz 13の名で量産が開始された。
 
-当時の技術や予算の関係上、専用の物ではなく民間の乗用車であるアドラー社のスタンダード6シリーズ12N-RWのシャーシが用いられ、これを5mm厚の装甲板で補強、車体構造物を8mm厚の装甲板溶接組みで構成した。車体前方の機関部正面のラジエターは格子状の装甲で守られていたが、点検用に開口する側面と上面は非装甲であった。
+当時の技術や予算の関係上、専用の物ではなく民間の乗用車であるアドラー社の[スタンダード6シリーズ](https://ja.wikipedia.org/wiki/:en:Adler_Standard_6 "wikilink")12N-RWのシャーシが用いられ、これを5mm厚の装甲板で補強、車体構造物を8mm厚の装甲板溶接組みで構成した。車体前方の機関部正面のラジエターは格子状の装甲で守られていたが、点検用に開口する側面と上面は非装甲であった。
 
 キャビンの全体的な形状よりニックネームは「badewanne（バスタブ）」と呼ばれた。 [V_rekonstrukcja_Bitwy_pod_Mławą_1523.jpg](https://ja.wikipedia.org/wiki/File:V_rekonstrukcja_Bitwy_pod_Mławą_1523.jpg "fig:V_rekonstrukcja_Bitwy_pod_Mławą_1523.jpg") 戦闘室はオープントップ構造で、Kfz 13には当初7.92mm [MG13軽機関銃](https://ja.wikipedia.org/wiki/ドライゼMG13機関銃 "wikilink")、後に[MG34機関銃が全周回転台座に小型防盾と予備弾](https://ja.wikipedia.org/wiki/ラインメタル/マウザー・ヴェルケMG34機関銃 "wikilink")1000発と共に搭載され、機銃座の可動範囲は-35度から65度であった。
 

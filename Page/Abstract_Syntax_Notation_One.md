@@ -20,7 +20,7 @@ ASN.1 の標準符号化規則として以下のものがある。
 
 ASN.1記法と特定のASN.1符号化規則を使うことで、マシンのアーキテクチャや実装言語に依存しない形式で、ネットワーク上のアプリケーション間でやりとりするデータ構造を定めることができる。
 
-[X.400](../Page/X.400.md "wikilink") [電子メール](../Page/電子メール.md "wikilink")、[X.500](../Page/X.500.md "wikilink") あるいは [LDAP](../Page/Lightweight_Directory_Access_Protocol.md "wikilink") [ディレクトリ・サービス](../Page/ディレクトリ・サービス.md "wikilink")、[H.323](../Page/H.323.md "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）、[SNMP](../Page/Simple_Network_Management_Protocol.md "wikilink")、[BACnet](https://ja.wikipedia.org/wiki/BACnet "wikilink") といったアプリケーション層のプロトコルは ASN.1 を使って[Protocol Data Unitを規定する](../Page/Protocol_Data_Unit.md "wikilink")。[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")でも使われている。他にも ASN.1 の応用範囲は様々である[1](http://www.itu.int/en/ITU-T/asn1/Pages/Application-fields-of-ASN-1.aspx)。
+[X.400](../Page/X.400.md "wikilink") [電子メール](../Page/電子メール.md "wikilink")、[X.500](../Page/X.500.md "wikilink") あるいは [LDAP](../Page/Lightweight_Directory_Access_Protocol.md "wikilink") [ディレクトリ・サービス](../Page/ディレクトリ・サービス.md "wikilink")、[H.323](../Page/H.323.md "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）、[SNMP](../Page/Simple_Network_Management_Protocol.md "wikilink")、[BACnet](../Page/BACnet.md "wikilink") といったアプリケーション層のプロトコルは ASN.1 を使って[Protocol Data Unitを規定する](../Page/Protocol_Data_Unit.md "wikilink")。[UMTS](https://ja.wikipedia.org/wiki/UMTS "wikilink")でも使われている。他にも ASN.1 の応用範囲は様々である[1](http://www.itu.int/en/ITU-T/asn1/Pages/Application-fields-of-ASN-1.aspx)。
 
 ## 例
 

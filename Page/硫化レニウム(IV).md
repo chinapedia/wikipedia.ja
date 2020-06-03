@@ -8,18 +8,18 @@
 [酸化レニウム(VI)](../Page/酸化レニウム\(VI\).md "wikilink")と[硫黄](../Page/硫黄.md "wikilink")を混合して真空中で加熱反応させて得られる\[1\]。
 
   -
-    <ce>{2ReO3} + {7S} -\> {2ReS2} + 3SO2</ce>
+    <chem>{2ReO3} + {7S} -\> {2ReS2} + 3SO2</chem>
 
 レニウムと硫黄との1000 {{℃}}における直接反応でも得られる。
 
   -
-    <ce>{Re} + 2S -\> ReS2</ce>
+    <chem>{Re} + 2S -\> ReS2</chem>
 
 ## 性質
 
 黒色板状晶で[水](../Page/水.md "wikilink")、[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")、希[硫酸](https://ja.wikipedia.org/wiki/硫酸 "wikilink")および[アルカリ](../Page/アルカリ.md "wikilink")にはほとんど溶けず、[硝酸](../Page/硝酸.md "wikilink")には酸化されて[過レニウム酸](https://ja.wikipedia.org/wiki/過レニウム酸 "wikilink") HReO<sub>4</sub> を生じて溶解する。
 
-1000 {{℃}}に加熱すると幾分揮発し、部分的に成分元素に解離する。[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")中で1000 {{℃}}に加熱すると単体レニウムになる\[2\]。また1000 {{℃}}で[石英](../Page/石英.md "wikilink")を腐食する。
+1000 {{℃}}に加熱すると幾分揮発し、部分的に成分元素に解離する。[水素](../Page/水素.md "wikilink")中で1000 {{℃}}に加熱すると単体レニウムになる\[2\]。また1000 {{℃}}で[石英](../Page/石英.md "wikilink")を腐食する。
 
 結晶は[六方晶系](https://ja.wikipedia.org/wiki/六方晶系 "wikilink")の[ヨウ化カドミウム型構造](https://ja.wikipedia.org/wiki/ヨウ化カドミウム型構造 "wikilink")をとり、その[格子定数](https://ja.wikipedia.org/wiki/格子定数 "wikilink")はa = 3.19 [Å](../Page/オングストローム.md "wikilink"), c = 12.16 Åである\[3\]。
 

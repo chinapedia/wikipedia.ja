@@ -7,7 +7,7 @@
 
 同社の看板作品『[がんばれゴエモン](../Page/がんばれゴエモン.md "wikilink")』シリーズの礎となった作品である。システムやストーリーなどは以降のシリーズとは異なるが、江戸時代を舞台にした和風なグラフィックや音楽は受け継がれている。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")より[Game Room](https://ja.wikipedia.org/wiki/Game_Room "wikilink") ([Xbox360](https://ja.wikipedia.org/wiki/Xbox360 "wikilink")) で、[2014年](../Page/2014年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")より[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink") ([PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")) で、[2019年](../Page/2019年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")よりアーケードアーカイブス ([Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")) で配信がそれぞれ開始されている。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")より[Game Room](https://ja.wikipedia.org/wiki/Game_Room "wikilink") ([Xbox360](https://ja.wikipedia.org/wiki/Xbox360 "wikilink")) で、[2014年](../Page/2014年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")より[アーケードアーカイブス](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink") ([PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")) で、[2019年](../Page/2019年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")よりアーケードアーカイブス ([Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")) で配信がそれぞれ開始されている。
 
 ### ゲーム内容
 
@@ -76,7 +76,7 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Mr.五右衛門</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Xbox360" title="wikilink">Xbox360</a></p></td>
 <td><p>コナミデジタルエンタテインメント</p></td>
 <td><p>コナミデジタルエンタテインメント</p></td>

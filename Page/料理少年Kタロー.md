@@ -49,7 +49,7 @@
 
   - 演出:原田隆司、高野昭二
   - 脚本：小池康生
-  - 音楽：[手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")
+  - 音楽：[手塚理](../Page/手塚理.md "wikilink")
   - 主題歌：[さねよしいさ子](../Page/さねよしいさ子.md "wikilink")「ポップコーンを降らせ\!」（[フォーライフレコード](https://ja.wikipedia.org/wiki/フォーライフレコード "wikilink")）
   - 料理監修：真田昭彦（当時・[辻学園TEC日調](../Page/辻学園調理・製菓専門学校.md "wikilink")）
   - OPキャラクターデザイン：[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")
@@ -62,7 +62,7 @@
 
 [2001年](../Page/2001年.md "wikilink")10月6日から12月15日まで放送。全12回。 [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")制作で、物語の舞台も大阪である。 一番の特徴は、『[ミスター味っ子](../Page/ミスター味っ子.md "wikilink")』や『[中華一番\!](../Page/中華一番!.md "wikilink")』、『[焼きたて\!\!ジャぱん](../Page/焼きたて!!ジャぱん.md "wikilink")』などで見られる大胆で奇天烈なリアクションを、特撮の手法で見事に表現していることである。
 
-[菊池俊輔](../Page/菊池俊輔.md "wikilink")や[渡辺宙明](../Page/渡辺宙明.md "wikilink")をリスペクトした[水木一郎](../Page/水木一郎.md "wikilink")による主題歌や[ワンダバ](https://ja.wikipedia.org/wiki/ワンダバ "wikilink")など往年のヒーローソングや特撮BGMを彷彿とさせる音楽も話題となった\[1\]。
+[菊池俊輔](../Page/菊池俊輔.md "wikilink")や[渡辺宙明](../Page/渡辺宙明.md "wikilink")をリスペクトした[水木一郎](../Page/水木一郎.md "wikilink")による主題歌や[ワンダバ](../Page/ワンダバ.md "wikilink")など往年のヒーローソングや特撮BGMを彷彿とさせる音楽も話題となった\[1\]。
 
 #### キャスト
 
@@ -124,6 +124,6 @@
 
   - [NHK「料理少年Kタロー」](https://web.archive.org/web/20070813205836/http://www.nhk.or.jp/drama/archives/k_taro/)
 
-[Category:日本の児童文学](https://ja.wikipedia.org/wiki/Category:日本の児童文学 "wikilink") [Category:料理・グルメ小説](https://ja.wikipedia.org/wiki/Category:料理・グルメ小説 "wikilink") [Category:1991年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1991年のテレビドラマ "wikilink") [Category:阪急ドラマシリーズ](https://ja.wikipedia.org/wiki/Category:阪急ドラマシリーズ "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:ドラマ愛の詩](https://ja.wikipedia.org/wiki/Category:ドラマ愛の詩 "wikilink") [Category:NHK大阪のテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK大阪のテレビドラマ "wikilink") [Category:料理・グルメを題材としたドラマ作品](https://ja.wikipedia.org/wiki/Category:料理・グルメを題材としたドラマ作品 "wikilink")
+[Category:日本の児童文学](https://ja.wikipedia.org/wiki/Category:日本の児童文学 "wikilink") [Category:料理・グルメ小説](https://ja.wikipedia.org/wiki/Category:料理・グルメ小説 "wikilink") [Category:講談社の出版物](https://ja.wikipedia.org/wiki/Category:講談社の出版物 "wikilink") [Category:1991年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1991年のテレビドラマ "wikilink") [Category:阪急ドラマシリーズ](https://ja.wikipedia.org/wiki/Category:阪急ドラマシリーズ "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:ドラマ愛の詩](https://ja.wikipedia.org/wiki/Category:ドラマ愛の詩 "wikilink") [Category:NHK大阪のテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK大阪のテレビドラマ "wikilink") [Category:料理・グルメを題材としたドラマ作品](https://ja.wikipedia.org/wiki/Category:料理・グルメを題材としたドラマ作品 "wikilink")
 
 1.

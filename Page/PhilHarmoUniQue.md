@@ -90,7 +90,7 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月20日](../Page/5月20日.md "wikilink")、五郎川が全国各地の[ラジオ局を巡る](../Page/日本のラジオ放送局.md "wikilink")[弾き語り](../Page/弾き語り.md "wikilink")の[旅](https://ja.wikipedia.org/wiki/旅 "wikilink")、“みち旅”\[2\] を開始。同年[10月8日](../Page/10月8日.md "wikilink")、終了。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")、初の[シングル](../Page/シングル.md "wikilink")『優しい響き/輝ける場所』をリリース。同年[9月24日](../Page/9月24日.md "wikilink")、2ndシングル『みちしるべ』をリリース。
   - [2009年](../Page/2009年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")、1stフルアルバム『ウラシマノウタ』をリリース。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")、“バンド活動休止”を自身のWebサイトで発表\[3\]。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月2日](../Page/6月2日.md "wikilink")、“バンド活動休止”を自身のWebサイトで発表\[3\]。
 
 ## ディスコグラフィー
 

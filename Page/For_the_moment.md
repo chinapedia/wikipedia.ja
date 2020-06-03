@@ -7,7 +7,7 @@
 
 前作「[Dear My Friend](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink")」より、4ヶ月振りのリリース。
 
-初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位獲得シングル。
+2ヶ月前に発売された1stアルバム『[Everlasting](../Page/Everlasting_\(Every_Little_Thingのアルバム\).md "wikilink")』がミリオンセラーとなる大ヒットを記録した矢先であり、初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位獲得シングルとなった。売上は68.8万枚。
 
 ## 収録曲
 

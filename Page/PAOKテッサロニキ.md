@@ -462,7 +462,7 @@
 <td><p>2000-01</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2000-01" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベイタル・エルサレムFC" title="wikilink">ベイタル・エルサレム</a></p></td>
+<td><p><a href="../Page/ベイタル・エルサレムFC.md" title="wikilink">ベイタル・エルサレム</a></p></td>
 <td><p>3-1</p></td>
 <td><p>3-3</p></td>
 <td><p>'''6-4</p></td>

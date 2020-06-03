@@ -97,7 +97,7 @@ WEB版『WORKING\!\!』から商業版になるにあたり『ヤングガンガ
     大輔とは年子の妹。常時笑顔で明るい受験生。全国模試トップレベルと実は兄より優秀らしいが、なぜか宮越と波長が合う。
   - 柳葉 ミリ（やなぎば ミリ）
     声 - [麻倉もも](https://ja.wikipedia.org/wiki/麻倉もも "wikilink")
-    16歳の高校1年生。身長158cm。東田のクラスメイトだが[登校拒否中であるためワグナリアに現れるまで知られていなかった](https://ja.wikipedia.org/wiki/不登校 "wikilink")。常に人魂のようなものを連れているが、人魂ではなく「ひきこもりオーラ」である。初登場時は東田に幽霊と間違えられている。テンションは低いが人懐っこい。年がら年中[マフラーを巻いている](../Page/襟巻き.md "wikilink")。夏に冬服、冬に夏服を着ていたりする（雪山ではスクール水着で滑走していた）。誰にでも妙なあだ名をつける\[22\]。髪型は[ツインテール](../Page/ツインテール.md "wikilink")。永田を驚かせるため[つけ毛にしたことがある](../Page/ヘアーエクステンション.md "wikilink")\[23\]が普段は自毛\[24\]。村主によれば後述の『お得意様』は彼女の祖父。
+    16歳の高校1年生。身長158cm。東田のクラスメイトだが[登校拒否中であるためワグナリアに現れるまで知られていなかった](../Page/不登校.md "wikilink")。常に人魂のようなものを連れているが、人魂ではなく「ひきこもりオーラ」である。初登場時は東田に幽霊と間違えられている。テンションは低いが人懐っこい。年がら年中[マフラーを巻いている](../Page/襟巻き.md "wikilink")。夏に冬服、冬に夏服を着ていたりする（雪山ではスクール水着で滑走していた）。誰にでも妙なあだ名をつける\[22\]。髪型は[ツインテール](../Page/ツインテール.md "wikilink")。永田を驚かせるため[つけ毛にしたことがある](../Page/ヘアーエクステンション.md "wikilink")\[23\]が普段は自毛\[24\]。村主によれば後述の『お得意様』は彼女の祖父。
     東田を通じて永田と仲良くなり、バレンタインで永田から東田に渡すのを諦めたチョコを受け取った際には東田に一口食べさせるなど、彼女を応援する場面が多々ある。同時に、むしろ東田との距離が縮まらないことにホッとする永田に呆れている。
     最終シリーズで、遂に高校に通う事をきっぱりと諦めた。
   - 永田 るい（ながた るい）
@@ -426,7 +426,7 @@ ANZX-11974/5</p></td>
   - [「WWW.WORKING\!\!」公式サイト](http://working-www.com/)
 
   -
-[Category:漫画作品_わ](https://ja.wikipedia.org/wiki/Category:漫画作品_わ "wikilink") [Category:2002年の漫画](https://ja.wikipedia.org/wiki/Category:2002年の漫画 "wikilink") [Category:個人サイト掲載漫画作品](https://ja.wikipedia.org/wiki/Category:個人サイト掲載漫画作品 "wikilink") [Category:スクウェア・エニックスの漫画](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスの漫画 "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:北海道を舞台とした作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした作品 "wikilink") [Category:飲食店を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:飲食店を舞台とした漫画作品 "wikilink") [Category:職場恋愛を扱った作品](https://ja.wikipedia.org/wiki/Category:職場恋愛を扱った作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
+[Category:漫画作品_わ](https://ja.wikipedia.org/wiki/Category:漫画作品_わ "wikilink") [Category:2002年の漫画](https://ja.wikipedia.org/wiki/Category:2002年の漫画 "wikilink") [Category:個人サイト掲載漫画作品](https://ja.wikipedia.org/wiki/Category:個人サイト掲載漫画作品 "wikilink") [Category:スクウェア・エニックスの漫画](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスの漫画 "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:北海道を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした漫画作品 "wikilink") [Category:飲食店を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:飲食店を舞台とした漫画作品 "wikilink") [Category:職場恋愛を扱った作品](https://ja.wikipedia.org/wiki/Category:職場恋愛を扱った作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink")
 
 1.
 2.

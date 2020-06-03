@@ -1362,7 +1362,7 @@ DAT-TUN5敗者:武田修宏・大沢あかね</p></td>
 
   - チーフプロデューサー：[梅原幹](../Page/梅原幹.md "wikilink")
   - プロデューサー：[田中宏史](../Page/田中宏史.md "wikilink")／[長谷川賢一](https://ja.wikipedia.org/wiki/長谷川賢一 "wikilink")、萩原朋子
-  - ビジュアルクリエイター：[佐藤大輔](https://ja.wikipedia.org/wiki/佐藤大輔_\(映像作家\) "wikilink")
+  - ビジュアルクリエイター：[佐藤大輔](../Page/佐藤大輔_\(映像作家\).md "wikilink")
   - ディレクター：新井康孝、竹下育夫、松木大輔、森栄一郎、八島崇行
   - AD：原田大輔、奥山亮、千葉大輔
   - 構成：[高橋秀一](https://ja.wikipedia.org/wiki/高橋秀一 "wikilink")

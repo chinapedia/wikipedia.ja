@@ -615,7 +615,7 @@ FM電波ではJ-WAVEの番組を放送。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/坂出市" title="wikilink">坂出市</a></p></td>
+<td><p><a href="../Page/坂出市.md" title="wikilink">坂出市</a></p></td>
 <td><p><a href="../Page/エフエムサン.md" title="wikilink">FM SUN</a></p></td>
 <td></td>
 <td></td>

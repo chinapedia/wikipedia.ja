@@ -1,7 +1,7 @@
 > この記事は[BENNY\'S](https://ja.wikipedia.org/wiki/BENNY\'S)から翻訳されています。
 
 
-**BENNY'S**（ベニー）\[1\]は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。主に[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")、[ボーイズラブ](../Page/ボーイズラブ.md "wikilink")漫画を手掛ける。また、相棒である[井ノ本リカ子](../Page/井ノ本リカ子.md "wikilink")と共同で同人サークル「天下一ベイビーズ」を運営し、[コミックマーケット](../Page/コミックマーケット.md "wikilink")などで同人誌の頒布も行っている。
+**BENNY'S**（ベニー）\[1\]は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。主に[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")、[ボーイズラブ](../Page/ボーイズラブ.md "wikilink")漫画を手掛ける。また、相棒である[井ノ本リカ子](../Page/井ノ本リカ子.md "wikilink")と共同で同人サークル「天下一ベイビーズ」を運営し、[コミックマーケット](../Page/コミックマーケット.md "wikilink")などで同人誌の頒布も行っている。
 
 ## 作品リスト
 
@@ -11,7 +11,7 @@
   - 桃色西遊記 （司書房 / 2001年4月 / ISBN 4-8128-0554-6）
   - 真夜中の女神 （[童夢舎](https://ja.wikipedia.org/wiki/童夢舎 "wikilink") / 2001年9月 / ISBN 4-87693-776-1）
   - SWEETLESSON （晋遊舎 / 2003年1月 / ISBN 4-8128-0858-8）
-  - うわさのコスプレメイト （[司書房](https://ja.wikipedia.org/wiki/司書房 "wikilink") / 2003年2月 / ISBN 4-8128-0870-7）
+  - うわさのコスプレメイト （[司書房](../Page/司書房.md "wikilink") / 2003年2月 / ISBN 4-8128-0870-7）
   - ぷにねえ （晋遊舎 / 2004年9月 / ISBN 4-88380-430-5）
   - らぶねえ （晋遊舎 / 2005年8月 / ISBN 4-88380-490-9）
   - みるくぱい （司書房 / 2006年3月 / ISBN 4-8128-1381-6）

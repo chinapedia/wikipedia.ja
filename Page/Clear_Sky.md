@@ -28,7 +28,7 @@
 9.  **[旅立ちの唄](https://ja.wikipedia.org/wiki/旅立ちの唄_\(椎名へきるの曲\) "wikilink")**
       - 作詞：椎名へきる、作曲：伊東大和、編曲：大坪稔明
 10. **[ラヴ・ジェット・コースター](https://ja.wikipedia.org/wiki/ラヴ・ジェット・コースター "wikilink")**
-      - 作詞：中山加奈子、作曲：[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")、編曲：大坪稔明
+      - 作詞：中山加奈子、作曲：[羽岡佳](../Page/羽岡佳.md "wikilink")、編曲：大坪稔明
 11. **[メモリーズ](https://ja.wikipedia.org/wiki/メモリーズ_\(椎名へきるの曲\) "wikilink")（Album Version）**
       - 作詞：椎名へきる、作曲：松本泰幸、編曲：[十川知司](../Page/十川ともじ.md "wikilink")
 

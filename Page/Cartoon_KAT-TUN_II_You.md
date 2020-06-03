@@ -17,7 +17,7 @@
 
 1.  **[SIGNAL](../Page/SIGNAL_\(KAT-TUNの曲\).md "wikilink")**
       -
-        作詞：ma-saya、Rap詞：[JOKER](../Page/田中聖.md "wikilink")、作曲：[JOEY CARBONE](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink")、LISA HUANG、編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
+        作詞：[ma-saya](https://ja.wikipedia.org/wiki/ma-saya "wikilink")、Rap詞：[JOKER](../Page/田中聖.md "wikilink")、作曲：[JOEY CARBONE](../Page/ジョーイ・カーボーン.md "wikilink")、LISA HUANG、編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
     <!-- end list -->
       - 2ndシングル
       - KAT-TUN出演 [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")「[new 9 series](https://ja.wikipedia.org/wiki/FOMA#902iSシリーズ "wikilink")」CMソング

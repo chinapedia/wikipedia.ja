@@ -304,7 +304,7 @@
   - [山形ラジオ送信所](../Page/山形ラジオ送信所.md "wikilink")
   - [山寺中継局](../Page/山寺中継局.md "wikilink")
   - [山形小白川中継局](../Page/山形小白川中継局.md "wikilink")
-  - [山形市内テレビ中継局](https://ja.wikipedia.org/wiki/山形市内テレビ中継局 "wikilink")
+  - [山形市内テレビ中継局](../Page/山形市内テレビ中継局.md "wikilink")
 
 [Category:山形市の建築物](https://ja.wikipedia.org/wiki/Category:山形市の建築物 "wikilink") [Category:山形県の放送送信所](https://ja.wikipedia.org/wiki/Category:山形県の放送送信所 "wikilink") [Category:NHK山形](https://ja.wikipedia.org/wiki/Category:NHK山形 "wikilink") [Category:山形放送](https://ja.wikipedia.org/wiki/Category:山形放送 "wikilink") [Category:山形テレビ](https://ja.wikipedia.org/wiki/Category:山形テレビ "wikilink") [Category:テレビユー山形](https://ja.wikipedia.org/wiki/Category:テレビユー山形 "wikilink") [Category:さくらんぼテレビジョン](https://ja.wikipedia.org/wiki/Category:さくらんぼテレビジョン "wikilink") [Category:エフエム山形](https://ja.wikipedia.org/wiki/Category:エフエム山形 "wikilink")
 

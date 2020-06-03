@@ -79,7 +79,7 @@
   - [まかでみ・WAっしょい\!](https://ja.wikipedia.org/wiki/まかでみ・WAっしょい! "wikilink") （2008年）
   - [夜桜四重奏 〜ヨザクラカルテット〜](../Page/夜桜四重奏_〜ヨザクラカルテット〜.md "wikilink") （仕上げ、2008年）
   - [かんなぎ](https://ja.wikipedia.org/wiki/かんなぎ_\(漫画\) "wikilink") （2008年）
-  - [今日の5の2](https://ja.wikipedia.org/wiki/今日の5の2 "wikilink") （2008年）
+  - [今日の5の2](../Page/今日の5の2.md "wikilink") （2008年）
   - [鉄腕バーディー DECODEシリーズ](https://ja.wikipedia.org/wiki/鉄腕バーディー_DECODE "wikilink")
       - 鉄腕バーディー DECODE （2008年）
       - 鉄腕バーディー DECODE:02 （検査補佐・ペイント、2009年）

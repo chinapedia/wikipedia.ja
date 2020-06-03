@@ -1,7 +1,7 @@
 > この記事は[GALLOP](https://ja.wikipedia.org/wiki/GALLOP)から翻訳されています。
 
 
-『**GALLOP**』（ギャロップ）は、[1991年](../Page/1991年.md "wikilink")に[アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。ジャンルは[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。タイトルでは、「**ARMED POLICE UNIT GALLOP**」と表記される。
+『**GALLOP**』（ギャロップ）は、[1991年](../Page/1991年.md "wikilink")に[アイレム](https://ja.wikipedia.org/wiki/アイレム "wikilink")が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。ジャンルはオリジナルメカ[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。タイトルでは、「**ARMED POLICE UNIT GALLOP**」と表記される。
 
 シューティングゲームと[レースゲーム](../Page/レースゲーム.md "wikilink")のタイムアタックを融合させた作品。
 

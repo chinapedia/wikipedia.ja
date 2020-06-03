@@ -10,9 +10,9 @@
 いくつかの製品は、ビジネスロジックを扱う[Enterprise JavaBeansの動作も可能な](../Page/Enterprise_JavaBeans.md "wikilink")[EJBコンテナとしての機能も併せ持つ](https://ja.wikipedia.org/wiki/Enterprise_JavaBeans#EJBコンテナ "wikilink")。
 
   - [Apache Tomcat](https://ja.wikipedia.org/wiki/Apache_Tomcat "wikilink")
-  - [GlassFish](https://ja.wikipedia.org/wiki/GlassFish "wikilink")
+  - [GlassFish](../Page/GlassFish.md "wikilink")
   - [JBoss](../Page/JBoss.md "wikilink")
-  - [Jetty](https://ja.wikipedia.org/wiki/Jetty "wikilink")
+  - [Jetty](../Page/Jetty.md "wikilink")
   - [WebSphere Application Server](../Page/WebSphere_Application_Server.md "wikilink")
 
 ## 脚注

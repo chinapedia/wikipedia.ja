@@ -86,7 +86,7 @@
       -
         作曲・編曲：HIRO × (Kira + Okayan)
 16. **。** (Inst.) (2:10)
-      - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、[SOUL TRAINのRYU](https://ja.wikipedia.org/wiki/SOUL_TRAIN "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")の留守電話が収録
+      - [VERBAL](../Page/VERBAL.md "wikilink")、[SOUL TRAINのRYU](https://ja.wikipedia.org/wiki/SOUL_TRAIN "wikilink")、[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")の留守電話が収録
 17. **[Feel the Conflict](https://ja.wikipedia.org/wiki/our_style "wikilink") "S・O・B Version"**（5:22）
       -
         作詞：Kenn Kato / 作曲：[横山輝一](../Page/横山輝一.md "wikilink")

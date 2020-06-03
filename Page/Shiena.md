@@ -12,7 +12,7 @@
 
 1.  **天使は東からやってくる**
       - 作詞：[白峰美津子](https://ja.wikipedia.org/wiki/白峰美津子 "wikilink")、作曲：[尾関昌也](https://ja.wikipedia.org/wiki/尾関昌也 "wikilink")、編曲：[京田誠一](https://ja.wikipedia.org/wiki/京田誠一 "wikilink")
-      - 「[新潟ビジネス専門学校](https://ja.wikipedia.org/wiki/新潟ビジネス専門学校 "wikilink")」TVCM曲（本人出演）
+      - 「[新潟ビジネス専門学校](../Page/新潟ビジネス専門学校.md "wikilink")」TVCM曲（本人出演）
 2.  **恋よりたいせつ**
       - 作詞：[岡部真理子](https://ja.wikipedia.org/wiki/mavie "wikilink")、作曲：[小倉良](../Page/小倉良.md "wikilink")、編曲：[山川恵津子](../Page/山川恵津子.md "wikilink")
 3.  **ガールフレンド**

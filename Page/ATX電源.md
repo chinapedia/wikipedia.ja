@@ -7,7 +7,7 @@
 
 ## 概要
 
-\[\[ファイル:ATX power supply interior-1000px transparent.png|代替文=|サムネイル|250x250ピクセル|ATX電源の構造A：入力EMIフィルタ兼ブリッジ整流器
+\[\[ファイル:ATX power supply interior-1000px transparent.png|代替文=|サムネイル|250x250ピクセル|ATX電源の構造 A：入力EMIフィルタ兼ブリッジ整流器
 
 B：入力フィルタコンデンサ
 
@@ -304,7 +304,7 @@ ATX電源の給電能力が不足するとPCの故障の原因となる可能性
 
 ## SFX電源
 
-[SFX_PC-PSU_Delta_IMG_9760.JPG](https://ja.wikipedia.org/wiki/File:SFX_PC-PSU_Delta_IMG_9760.JPG "fig:SFX_PC-PSU_Delta_IMG_9760.JPG") SFX\[16\]電源は、小型PC用のMicroATX規格に準じた電源ユニットである。ATX電源よりも小型化され、-5V出力が省略されている。 電源出力も、概ね100Wから400W程度とATX電源よりも小出力である。中にはATX電源互換のマウンタが付属している製品もある。
+[SFX_PC-PSU_Delta_IMG_9760.JPG](https://ja.wikipedia.org/wiki/File:SFX_PC-PSU_Delta_IMG_9760.JPG "fig:SFX_PC-PSU_Delta_IMG_9760.JPG") SFX\[16\]電源は、小型PC用のMicroATX規格に準じた電源ユニットである。ATX電源よりも小型化され、-5V出力が省略されている。電源出力も、概ね100Wから400W程度とATX電源よりも小出力である。中にはATX電源互換のマウンタが付属している製品もある。
 
 ### サイズ
 

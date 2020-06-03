@@ -27,7 +27,7 @@
       - 作詞：椎名へきる、作曲：嘉多山信、編曲：[岩崎琢](../Page/岩崎琢.md "wikilink")
 9.  **RIDE A WAVE**
       - 作詞：UCO、作曲：斉藤英夫・TACOS NAOMI、編曲：斉藤英夫
-10. **[-赤い華- You're gonna change to the flower](https://ja.wikipedia.org/wiki/-赤い華-_You're_gonna_change_to_the_flower "wikilink") （Album Version）**
+10. **[-赤い華- You're gonna change to the flower](https://ja.wikipedia.org/wiki/-赤い華-_You're_gonna_change_to_the_flower "wikilink")（Album Version）**
       - 作詞：椎名へきる、作曲：[PIPELINE PROJECT](https://ja.wikipedia.org/wiki/PIPELINE_PROJECT "wikilink")、編曲：明石昌夫
       - テレビアニメ『[ヱデンズボゥイ](../Page/ヱデンズボゥイ.md "wikilink")』後期オープニングテーマ
 

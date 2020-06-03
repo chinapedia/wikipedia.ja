@@ -59,9 +59,9 @@
 
 #### 2016年
 
-1月4日、東京ドーム大会にてIWGP Jr.ヘビー級王者であるオメガに挑戦し、前方回転エビ固めで見事勝利を収め第73代王者となり、[ACH](https://ja.wikipedia.org/wiki/ACH "wikilink")、[BUSHI](../Page/BUSHI.md "wikilink")、[ウィル・オスプレイ](https://ja.wikipedia.org/wiki/ウィル・オスプレイ "wikilink")、[獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")、オスプレイ相手に防衛している。
+1月4日、東京ドーム大会にてIWGP Jr.ヘビー級王者であるオメガに挑戦し、前方回転エビ固めで勝利を収め第73代王者となり、[ACH](https://ja.wikipedia.org/wiki/ACH "wikilink")、[BUSHI](../Page/BUSHI.md "wikilink")、[ウィル・オスプレイ](https://ja.wikipedia.org/wiki/ウィル・オスプレイ "wikilink")、[獣神サンダー・ライガー](../Page/獣神サンダー・ライガー.md "wikilink")、オスプレイ相手に防衛している。
 
-8月、[SUPER J-CUP](https://ja.wikipedia.org/wiki/SUPER_J-CUP "wikilink")2016に出場し、決勝において[鈴木軍](https://ja.wikipedia.org/wiki/鈴木軍 "wikilink")の[金丸義信](../Page/金丸義信.md "wikilink")を破って見事優勝した。
+8月、[SUPER J-CUP](https://ja.wikipedia.org/wiki/SUPER_J-CUP "wikilink")2016に出場し、決勝において[鈴木軍](https://ja.wikipedia.org/wiki/鈴木軍 "wikilink")の[金丸義信](../Page/金丸義信.md "wikilink")を破って優勝した。
 
 9月17日、[BUSHI](../Page/BUSHI.md "wikilink")との[IWGPジュニアヘビー級王座](../Page/IWGPジュニアヘビー級王座.md "wikilink")戦でピンフォール負けを喫した。
 
@@ -142,7 +142,10 @@
 
 ### 打撃技
 
-  - [エレファントキック](https://ja.wikipedia.org/wiki/サッカーボールキック#派生技 "wikilink")
+  - [エルボー](https://ja.wikipedia.org/wiki/エルボーバット "wikilink")
+    [エルボー・スタンプ](https://ja.wikipedia.org/wiki/エルボーバット#エルボー・スタンプ "wikilink")
+    [逆水平チョップ](https://ja.wikipedia.org/wiki/手刀打ち#逆水平チョップ "wikilink")
+    [エレファントキック](https://ja.wikipedia.org/wiki/サッカーボールキック#派生技 "wikilink")
     前かがみとなった相手に対して、勢いよく振り上げた右足で相手の顔面目掛けて蹴り上げていく。
     劣勢に立たせれた状態から反撃に転じるキッカケとなる技のひとつ。
   - **バズソーキック**

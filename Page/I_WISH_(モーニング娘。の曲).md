@@ -23,7 +23,7 @@
       - [TBS](../Page/TBSテレビ.md "wikilink")『[シドニー五輪](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")』[テーマソングであり](../Page/主題歌.md "wikilink")、[レポーター](https://ja.wikipedia.org/wiki/レポーター "wikilink")として参加した番組で使用された。
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[アイドルをさがせ\!](../Page/アイドルをさがせ!.md "wikilink")」オープニング・テーマからエンディングテーマになった。
       - [PVは年齢や仕事](../Page/ミュージック・ビデオ.md "wikilink")・性別も異なる様々な人々（メンバーが演じる）がそれぞれ夢を持ってある場所に集うという[ミュージカル](../Page/ミュージカル.md "wikilink")仕立て。『映像ザ・モーニング娘。2〜シングルVクリップス〜』には冒頭約3分の物語付きで収録。なお、この物語では[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")が主役となっている。
-      - [辻希美](../Page/辻希美.md "wikilink")と[加護亜依](../Page/加護亜依.md "wikilink")、[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")がそれぞれモーニング娘。を卒業する際にほぼソロで歌われた。
+      - [辻希美](../Page/辻希美.md "wikilink")と[加護亜依](../Page/加護亜依.md "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")がそれぞれモーニング娘。を卒業する際にほぼソロで歌われた。
       - 『[The Best\!〜Updated モーニング娘。〜](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")』では9期、10期、11期メンバーによりカバーされているが、こちらは[EDM調であり](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")、テンポアップせずに終始冒頭のテンポで曲が進行する。
       - このほか、[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")には[KDDI](../Page/KDDI.md "wikilink")と[KDDI総合研究所](https://ja.wikipedia.org/wiki/KDDI総合研究所 "wikilink")との共同制作で[当楽曲のUpdated版](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")、および[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18\[1\]を起用した「[音のVR](https://ja.wikipedia.org/wiki/バーチャルリアリティー "wikilink")」に対応したコンテンツを制作した\[2\]\[3\]\[4\]\[5\]。なお、当楽曲のUpdated版とモーニング娘。'18を起用したこのコンテンツは一般向けには2018年3月31日から4月1日まで[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で開催された[ハロー\!プロジェクトのイベント会場で出展](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")、および同年4月以降よりKDDI直営店の一部や、[HMV](../Page/HMV.md "wikilink")の一部の店頭でも体験コーナーが展開されたほか、更に同年5月31日から9月30日までの期間限定でスマートフォン・タブレット用の音のVR体験アプリ（[iOS専用](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")）も一般向けアプリとして配信された。
 
@@ -39,7 +39,7 @@
   - 1期：[中澤裕子](../Page/中澤裕子.md "wikilink")、[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")、[安倍なつみ](../Page/安倍なつみ.md "wikilink")
   - 2期：[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")
   - 3期：[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
-  - 4期：[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
+  - 4期：[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
 
 ## 参加ミュージシャン
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-オリジナルメンバーによる新曲は実質4年半振りとなる。大ヒット曲「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」を彷彿とさせる楽曲構成になっており、[PVでは](../Page/ミュージック・ビデオ.md "wikilink")「[prism](https://ja.wikipedia.org/wiki/prism_\(m-floの曲\) "wikilink")」のPVに登場している3人のキャラクターが再登場するなど、LISA時代を思い出させるような曲になっている。 タイトルの『TRIPOD』という単語は、m-floのデビューシングル『[the tripod e.p.](https://ja.wikipedia.org/wiki/the_tripod_e.p. "wikilink")』にも使われている。『TRIPOD』は"3本の柱（三脚）"の意味で、m-floの在り方を象徴する言葉であり、LISA、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")、☆Takuの3人がまた団結したことを表している。
+オリジナルメンバーによる新曲は実質4年半振りとなる。大ヒット曲「[come again](https://ja.wikipedia.org/wiki/come_again "wikilink")」を彷彿とさせる楽曲構成になっており、[PVでは](../Page/ミュージック・ビデオ.md "wikilink")「[prism](https://ja.wikipedia.org/wiki/prism_\(m-floの曲\) "wikilink")」のPVに登場している3人のキャラクターが再登場するなど、LISA時代を思い出させるような曲になっている。 タイトルの『TRIPOD』という単語は、m-floのデビューシングル『[the tripod e.p.](https://ja.wikipedia.org/wiki/the_tripod_e.p. "wikilink")』にも使われている。『TRIPOD』は"3本の柱（三脚）"の意味で、m-floの在り方を象徴する言葉であり、LISA、[VERBAL](../Page/VERBAL.md "wikilink")、☆Takuの3人がまた団結したことを表している。
 
 ### SHADOW THE HEDGEHOGとのコラボレーション
 

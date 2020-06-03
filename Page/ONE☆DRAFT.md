@@ -703,7 +703,7 @@ Bee Alive vol.13
   -
   -
   -
-  - [ソニー・ミュージックエンタテインメントによるページ](http://www.sonymusic.co.jp/Music/Arch/AI/onedraft/index.html)
+  - [ソニー・ミュージックエンタテインメントによるページ](https://www.sonymusic.co.jp/artist/onedraft/)
 
   - [徳間ジャパンコミュニケーションズによるページ](http://www.tkma.co.jp/onedraft/)
 

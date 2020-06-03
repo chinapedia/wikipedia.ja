@@ -10,7 +10,7 @@
 ## 概要
 
   - [2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より、スカパー\!プレミアムサービスのベーシックパック（「よくばりパックHD（現・プレミアムパック）」）構成チャンネルとなった。
-  - [2012年](../Page/2012年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より、スカパー\!（東経110度CS放送）にて放送開始された（[衛星基幹放送事業者は](https://ja.wikipedia.org/wiki/基幹放送事業者 "wikilink")[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")）。また、[2014年](../Page/2014年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")より、16:9フルサイズのSD放送を開始。尚、スカパー\!での放送は、2016年3月31日をもって終了した。
+  - [2012年](../Page/2012年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より、スカパー\!（東経110度CS放送）にて放送開始された（[衛星基幹放送事業者は](https://ja.wikipedia.org/wiki/基幹放送事業者 "wikilink")[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[シーエス日本](../Page/CS日本.md "wikilink")）。また、[2014年](../Page/2014年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")より、16:9フルサイズのSD放送を開始。尚、スカパー\!での放送は、2016年3月31日をもって終了した。
 
 ## 沿革
 

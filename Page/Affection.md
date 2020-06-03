@@ -58,7 +58,7 @@
       -
         4thシングル。
         TBS系『ランク王国』OPテーマ、日本テレビ系『TOKYO CLUB GANG』EDテーマ、テレビ東京系『JAPAN COUNT DOWN』EDテーマ。
-10. **Till Morning Comes featuring [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）** – 3:47
+10. **Till Morning Comes featuring [VERBAL](../Page/VERBAL.md "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）** – 3:47
       - 作詞:倖田來未・VERBAL / 作曲:[大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink") / 編曲:h-wonder
     <!-- end list -->
       -

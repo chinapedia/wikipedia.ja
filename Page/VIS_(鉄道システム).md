@@ -48,7 +48,7 @@ E235系では、新たなデジタルサイネージとして[トレインチャ
   - [東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")・[横浜高速鉄道](../Page/横浜高速鉄道.md "wikilink")
       - [5000系（2代）・5050系・5080系](../Page/東急5000系電車_\(2代\).md "wikilink")
       - [6000系（2代）](../Page/東急6000系電車_\(2代\).md "wikilink")
-      - [7000系（2代）](https://ja.wikipedia.org/wiki/東急7000系電車_\(2代\) "wikilink")
+      - [7000系（2代）](../Page/東急7000系電車_\(2代\).md "wikilink")
       - [2020系・6020系・3020系](https://ja.wikipedia.org/wiki/東急2020系電車 "wikilink")
       - [3000系（相鉄線直通対応車）](../Page/東急3000系電車_\(2代\).md "wikilink")
       - [Y500系](../Page/横浜高速鉄道Y500系電車.md "wikilink")

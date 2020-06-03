@@ -36,7 +36,7 @@
   - 必殺\!ぷちパチンコ モンスターハウス（[インターチャネル](../Page/インターチャネル.md "wikilink")、[1999年](../Page/1999年.md "wikilink")9月17日、[Windows用PCゲームソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")）
   - ネッパチ〜10連チャンでラスベガス旅行〜（[ダイコク電機](../Page/ダイコク電機.md "wikilink")、1999年11月25日、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ゲームソフト）
   - 必殺パチンコBOY CRモンスターハウス（サンソフト、[2000年](../Page/2000年.md "wikilink")3月31日、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")用ゲームソフト）
-  - いつでもパチンコGB CRモンスターハウス（[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")、2000年7月4日、ゲームボーイカラー用ゲームソフト）
+  - いつでもパチンコGB CRモンスターハウス（[タムソフト](../Page/タムソフト.md "wikilink")、2000年7月4日、ゲームボーイカラー用ゲームソフト）
   - ネッパチV@VPACHI〜CRモンスターハウス〜（ダイコク電機、2000年12月14日、ドリームキャスト用ゲームソフト）
   - 必殺パチンコステーションSP3（サンソフト、[2001年](../Page/2001年.md "wikilink")12月20日、PlayStation用ゲームソフト）
   - ネッパチGold CRモンスターマンション（ダイコク電機、[2002年](../Page/2002年.md "wikilink")8月21日、[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）

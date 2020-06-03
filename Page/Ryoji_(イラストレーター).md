@@ -1,7 +1,7 @@
 > この記事は[Ryoji \(イラストレーター\)](https://ja.wikipedia.org/wiki/Ryoji_\(イラストレーター\))から翻訳されています。
 
 
-**Ryoji**（りょうじ、[1月12日](../Page/1月12日.md "wikilink") - ）は、日本の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。本名・旧名は**野村良治**（のむら りょうじ）。元[日本一ソフトウェア](../Page/日本一ソフトウェア.md "wikilink")社員で、[PlayStation 2参入後には退社している](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")\[1\]。同社代表取締役の新川宗平とは同期であった\[2\]。
+**Ryoji**（りょうじ、[1月12日](../Page/1月12日.md "wikilink") - ）は、日本の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](../Page/漫画家.md "wikilink")。本名・旧名は**野村良治**（のむら りょうじ）。元[日本一ソフトウェア](../Page/日本一ソフトウェア.md "wikilink")社員で、[PlayStation 2参入後には退社している](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")\[1\]。同社代表取締役の新川宗平とは同期であった\[2\]。
 
 ## 作品リスト
 

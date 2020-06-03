@@ -24,7 +24,7 @@
 4.  **キメてみせてよGet Back\!\!** （「空をあきらめない」カップリング曲）
       - 作詞：夏野芹子 作曲：[太田美知彦](../Page/太田美知彦.md "wikilink") 編曲：磯谷健
 5.  **やさしいひとになりましょう** （「[だめよ\!だめよ\!だめよ\!\!](https://ja.wikipedia.org/wiki/だめよ!だめよ!だめよ!! "wikilink")」カップリング曲）
-      - 作詞：[森浩美](../Page/森浩美.md "wikilink") 作曲：[Joey Carbone](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink"), [Dennis Belfield](https://ja.wikipedia.org/wiki/デニス・ベルフィールド "wikilink") 編曲：[岩崎琢](../Page/岩崎琢.md "wikilink")
+      - 作詞：[森浩美](../Page/森浩美.md "wikilink") 作曲：[Joey Carbone](../Page/ジョーイ・カーボーン.md "wikilink"), [Dennis Belfield](https://ja.wikipedia.org/wiki/デニス・ベルフィールド "wikilink") 編曲：[岩崎琢](../Page/岩崎琢.md "wikilink")
       - アルバム『[with a will](https://ja.wikipedia.org/wiki/with_a_will "wikilink")』にも収録
 6.  **あなたがくれたもの** （「色褪せない瞬間」カップリング曲）
       - 作詞：[椎名へきる](../Page/椎名へきる.md "wikilink") 作曲：[松田信男](https://ja.wikipedia.org/wiki/松田信男 "wikilink") 編曲：[見良津健雄](../Page/見良津健雄.md "wikilink")

@@ -35,7 +35,7 @@
       - 3.「Everybody Needs Love (DJ WATARAI REMIX feat.Q from ラッパ我リヤ)」
   - [SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink") 『GET ON DA TRACK』 （2001年6月27日）
       - 5.「RIGHT HERE (DJ WATARAI REMIX)」
-  - m-flo 『[Dispatch](../Page/Dispatch.md "wikilink") feat. [Dev Large](../Page/DEV_LARGE.md "wikilink"), [Nipps](../Page/NIPPS.md "wikilink") & [Vincento Galluo](https://ja.wikipedia.org/wiki/VERBAL "wikilink")』 （2001年7月25日）
+  - m-flo 『[Dispatch](../Page/Dispatch.md "wikilink") feat. [Dev Large](../Page/DEV_LARGE.md "wikilink"), [Nipps](../Page/NIPPS.md "wikilink") & [Vincento Galluo](../Page/VERBAL.md "wikilink")』 （2001年7月25日）
       - 2.「Dispatch \[DJ WATARAI Remix\]」
   - [MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink") 『Everything』 （2000年10月25日）
       - 4.「Escape (DJ WATARAI Remix)」

@@ -489,7 +489,7 @@
 
   - CCB吾郎（稲垣）
       -
-        [C-C-B](../Page/C-C-B.md "wikilink")・[笠浩二](../Page/笠浩二.md "wikilink")のパロディ。視聴者からのお便りを読んだあと、「[Romanticが止まらない](https://ja.wikipedia.org/wiki/Romanticが止まらない "wikilink")」をアカペラで（伴奏も）歌う。コント「エビちゃんOL」で稲垣がC-C-Bの笠浩二の格好をさせられた際に好評だったため、CCB吾郎としてキャラクター化することとなった。2007年には本物の笠らとも対面している。
+        [C-C-B](../Page/C-C-B.md "wikilink")・[笠浩二](../Page/笠浩二.md "wikilink")のパロディ。視聴者からのお便りを読んだあと、「[Romanticが止まらない](../Page/Romanticが止まらない.md "wikilink")」をアカペラで（伴奏も）歌う。コント「エビちゃんOL」で稲垣がC-C-Bの笠浩二の格好をさせられた際に好評だったため、CCB吾郎としてキャラクター化することとなった。2007年には本物の笠らとも対面している。
         ライブ『[GIFT of SMAP CONCERT'2012](https://ja.wikipedia.org/wiki/GIFT_of_SMAP_CONCERT'2012 "wikilink")』・『[Mr.S "saikou de saikou no CONCERT TOUR"](https://ja.wikipedia.org/wiki/Mr.S_"saikou_de_saikou_no_CONCERT_TOUR" "wikilink")』 には稲垣がこのキャラで登場するシーンがあり、DVDには『Romanticが止まらない』の著作権表記がされている。
 
 <!-- end list -->
@@ -918,7 +918,7 @@
 
   - デニス・カッドマン（香取・中居）
       -
-        1997年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")初放送。NBAプレーヤー（当時）[デニス・ロッドマン](../Page/デニス・ロッドマン.md "wikilink")のパロディ。デニス・カッドマンの友人佐々木くんとして本物が出演したことも。
+        1997年[6月2日](../Page/6月2日.md "wikilink")初放送。NBAプレーヤー（当時）[デニス・ロッドマン](../Page/デニス・ロッドマン.md "wikilink")のパロディ。デニス・カッドマンの友人佐々木くんとして本物が出演したことも。
 
 <!-- end list -->
 

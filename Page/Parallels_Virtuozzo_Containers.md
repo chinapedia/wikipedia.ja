@@ -33,7 +33,7 @@ Virtuozzo 4.6 (Windows) または4.7 (Linux) で対応しているOSは以下の
       - [Debian](../Page/Debian.md "wikilink") 5.0 - 6.0
       - [Fedora Core](https://ja.wikipedia.org/wiki/Fedora_Core "wikilink") 12 - 14
       - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") 4 - 6
-      - [OpenSUSE](https://ja.wikipedia.org/wiki/OpenSUSE "wikilink") 11
+      - [OpenSUSE](../Page/OpenSUSE.md "wikilink") 11
       - [SUSE](../Page/SUSE.md "wikilink") LINUX Enterprise Server 10 - 11
       - [Ubuntu](../Page/Ubuntu.md "wikilink") 8.04 - 10.10
 

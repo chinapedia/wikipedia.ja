@@ -191,7 +191,7 @@
       - 作曲：川江奈美子／編曲：武部聡志
       - [TBS系ドラマ](../Page/TBSテレビ.md "wikilink") 「[愛のうた\!](../Page/愛のうた!.md "wikilink")」主題歌
       - 10枚目のシングル『「ただいま」』および ライブアルバム『CONCERT TOUR 2008「Key〜Talkie Doorkey」Live CD @NHKhall』収録。
-      - 詳細は[「ただいま」](https://ja.wikipedia.org/wiki/「ただいま」 "wikilink")参照。
+      - 詳細は[「ただいま」](../Page/「ただいま」.md "wikilink")参照。
 3.  **受け入れて**
       - 作曲：川江奈美子／編曲：武部聡志
       - 映画「[パッテンライ\!\! 〜南の島の水ものがたり〜](https://ja.wikipedia.org/wiki/パッテンライ!!_〜南の島の水ものがたり〜 "wikilink")」主題歌

@@ -25,7 +25,7 @@ CWM準拠のツール間で連携がうまくできるかどうかは CWM の規
 
   - **IKAN** : [CWD4ALL](http://www.cwd4all.com/)
   - **[SAS](../Page/SAS_Institute.md "wikilink")** : CWM 採用に積極的 [](http://www.sas.com/technologies/bi/appdev/base/metadatasrv_factsheet.pdf)
-  - **[オラクル](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")** : Oracle Warehouse Builder
+  - **[オラクル](../Page/オラクル_\(企業\).md "wikilink")** : Oracle Warehouse Builder
   - **[IBM](../Page/IBM.md "wikilink")**
   - **[Cognos](https://ja.wikipedia.org/wiki/Cognos "wikilink")** : CWM v1.0 までしかサポートしていないとも言われている。
   - **[Pentaho](https://ja.wikipedia.org/wiki/Pentaho "wikilink")** : XMIv1.1準拠のフリーソフトMetadataEditorを提供

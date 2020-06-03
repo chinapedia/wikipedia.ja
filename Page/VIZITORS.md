@@ -5,7 +5,7 @@
 
 ## 概要
 
-小室とジャールは，1998年のワールドカップの主題歌「[TOGETHER NOW](../Page/TOGETHER_NOW.md "wikilink")」を手掛け（JEAN MICHEL JARRE & TETSUYA "TK" KOMURO名義）、パリ祭のイベントではエッフェル塔の前で、100万人の観衆の前で「[RENDEZ-VOUS '98 ELECTRONIC NIGHT](../Page/RENDEZ-VOUS_'98_ELECTRONIC_NIGHT.md "wikilink")」を開催した。「TOGETHER NOW」のCDには[OLIVIAが](https://ja.wikipedia.org/wiki/OLIVIA_\(日本の歌手\) "wikilink")，パリ祭ステージでの「UNESCO THEME/JAPAN」には[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")、[Kiss Destinationの](../Page/Kiss_Destination.md "wikilink")[吉田麻美](https://ja.wikipedia.org/wiki/吉田麻美 "wikilink")がゲストヴォーカルとして参加した。これが縁となり小室とジャールはお互いにユニットの構想を持ちかける。
+小室とジャールは，1998年に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で開催されたFIFA（[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")）主催[1998 FIFAワールドカップの公式主題歌](../Page/1998_FIFAワールドカップ.md "wikilink")「[TOGETHER NOW](../Page/TOGETHER_NOW.md "wikilink")」を手掛け（JEAN MICHEL JARRE & TETSUYA "TK" KOMURO名義）、パリ祭のイベントではエッフェル塔の前で、100万人の観衆の前で「[RENDEZ-VOUS '98 ELECTRONIC NIGHT](../Page/RENDEZ-VOUS_'98_ELECTRONIC_NIGHT.md "wikilink")」を開催した。「TOGETHER NOW」のCDには[OLIVIAが](https://ja.wikipedia.org/wiki/OLIVIA_\(日本の歌手\) "wikilink")，パリ祭ステージでの「UNESCO THEME/JAPAN」には[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")、[Kiss Destinationの](../Page/Kiss_Destination.md "wikilink")[吉田麻美](https://ja.wikipedia.org/wiki/吉田麻美 "wikilink")がゲストヴォーカルとして参加した。これが縁となり小室とジャールはお互いにユニットの構想を持ちかける。
 
 基本的なメロディはジャンが構築し、アレンジ・ビジュアル等の総合的なプロデュースを小室が担った\[1\]。
 

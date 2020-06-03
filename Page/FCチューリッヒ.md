@@ -217,7 +217,7 @@
 <td><p>1972-73</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1972-73" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レクサムFC" title="wikilink">レクサム</a></p></td>
+<td><p><a href="../Page/レクサムFC.md" title="wikilink">レクサム</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-3</p></td>
@@ -940,7 +940,7 @@
 
   - [ヨハン・フォンランテン](../Page/ヨハン・フォンランテン.md "wikilink") 2009-2010
 
-  - [アミン・シェルミティ](https://ja.wikipedia.org/wiki/アミン・シェルミティ "wikilink") 2010-
+  - [アミン・シェルミティ](../Page/アミン・シェルミティ.md "wikilink") 2010-
 
   - [ハマゾッチ](https://ja.wikipedia.org/wiki/ハファエル・ハマゾッチ・デ・クアドロス "wikilink") 2012
 

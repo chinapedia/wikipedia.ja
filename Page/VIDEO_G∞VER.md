@@ -1,7 +1,7 @@
 > この記事は[VIDEO G∞VER](https://ja.wikipedia.org/wiki/VIDEO_G∞VER)から翻訳されています。
 
 
-『**VIDEO G∞VER**』（ビデオ グーヴァー）は[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")[DVD](../Page/DVD.md "wikilink")。
+『**VIDEO G∞VER**』（ビデオ グーヴァー）は[HIGH and MIGHTY COLORの](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")[DVD](../Page/DVD.md "wikilink")。
 
 ## 解説
 

@@ -28,7 +28,7 @@
 </tr>
 <tr class="odd">
 <td><p>第3回（1951年度）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青山杉作" title="wikilink">青山杉作</a>、<a href="../Page/高柳健次郎.md" title="wikilink">高柳健次郎</a>、<a href="../Page/土岐善麿.md" title="wikilink">土岐善麿</a>、<a href="https://ja.wikipedia.org/wiki/松永和風" title="wikilink">松永和風</a>、<a href="https://ja.wikipedia.org/wiki/真船豊" title="wikilink">真船豊</a>、<a href="https://ja.wikipedia.org/wiki/山本安英" title="wikilink">山本安英</a></p></td>
+<td><p><a href="../Page/青山杉作.md" title="wikilink">青山杉作</a>、<a href="../Page/高柳健次郎.md" title="wikilink">高柳健次郎</a>、<a href="../Page/土岐善麿.md" title="wikilink">土岐善麿</a>、<a href="https://ja.wikipedia.org/wiki/松永和風" title="wikilink">松永和風</a>、<a href="https://ja.wikipedia.org/wiki/真船豊" title="wikilink">真船豊</a>、<a href="https://ja.wikipedia.org/wiki/山本安英" title="wikilink">山本安英</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第4回（1952年度）</p></td>
@@ -281,7 +281,7 @@
 </tr>
 <tr class="even">
 <td><p>第66回（2014年度）[5]</p></td>
-<td><p><a href="../Page/絹谷幸二.md" title="wikilink">絹谷幸二</a>、<a href="../Page/熊倉一雄.md" title="wikilink">熊倉一雄</a>、<a href="../Page/竹下景子.md" title="wikilink">竹下景子</a>、<a href="../Page/立川志の輔.md" title="wikilink">立川志の輔</a>、<a href="https://ja.wikipedia.org/wiki/原島博" title="wikilink">原島博</a>、<a href="../Page/ペギー葉山.md" title="wikilink">ペギー葉山</a>、<a href="https://ja.wikipedia.org/wiki/星野仙一" title="wikilink">星野仙一</a>、<a href="../Page/村田吉弘.md" title="wikilink">村田吉弘</a>、<a href="../Page/若田光一.md" title="wikilink">若田光一</a></p></td>
+<td><p><a href="../Page/絹谷幸二.md" title="wikilink">絹谷幸二</a>、<a href="../Page/熊倉一雄.md" title="wikilink">熊倉一雄</a>、<a href="../Page/竹下景子.md" title="wikilink">竹下景子</a>、<a href="../Page/立川志の輔.md" title="wikilink">立川志の輔</a>、<a href="https://ja.wikipedia.org/wiki/原島博" title="wikilink">原島博</a>、<a href="../Page/ペギー葉山.md" title="wikilink">ペギー葉山</a>、<a href="../Page/星野仙一.md" title="wikilink">星野仙一</a>、<a href="../Page/村田吉弘.md" title="wikilink">村田吉弘</a>、<a href="../Page/若田光一.md" title="wikilink">若田光一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第67回（2015年度）[6]</p></td>
@@ -310,7 +310,7 @@
 
 ## 外部リンク
 
-  - [NHK放送文化賞](http://www.nhk.or.jp/museum/bunkasho/index.html)
+  - [NHK放送文化賞](https://www.nhk.or.jp/museum/bunkasho/index.html)
   - [日本放送協会放送文化賞](https://www.nhk.or.jp/museum/bunkasho/s-bunka_nend.html)
 
 [Category:日本のメディア賞](https://ja.wikipedia.org/wiki/Category:日本のメディア賞 "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink")

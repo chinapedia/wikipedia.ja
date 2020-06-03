@@ -1,7 +1,7 @@
 > この記事は[塩化銅\(I\)](https://ja.wikipedia.org/wiki/塩化銅\(I\))から翻訳されています。
 
 
-**塩化銅(I)**（えんかどう(I)、）は、1価の[銅](../Page/銅.md "wikilink")と[塩素](../Page/塩素.md "wikilink")とで構成され、[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink")CuClで表される[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")である。白色固体でほとんど水に溶けないが、空気酸化により緑色固体の[塩化銅(II)](https://ja.wikipedia.org/wiki/塩化銅\(II\) "wikilink")が生成する。[ルイス酸](https://ja.wikipedia.org/wiki/ルイス酸 "wikilink")の一種であり、[アンモニア](../Page/アンモニア.md "wikilink")や[塩化物イオン](https://ja.wikipedia.org/wiki/塩化物イオン "wikilink")などとは水溶性の[錯体](../Page/錯体.md "wikilink")を形成する。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[毒物及び劇物取締法](https://ja.wikipedia.org/wiki/毒物及び劇物取締法 "wikilink")により劇物に指定されている。
+**塩化銅(I)**（えんかどう(I)、）は、1価の[銅](../Page/銅.md "wikilink")と[塩素](../Page/塩素.md "wikilink")とで構成され、[組成式](https://ja.wikipedia.org/wiki/組成式 "wikilink")CuClで表される[無機化合物](https://ja.wikipedia.org/wiki/無機化合物 "wikilink")である。白色固体でほとんど水に溶けないが、空気酸化により緑色固体の[塩化銅(II)](../Page/塩化銅\(II\).md "wikilink")が生成する。[ルイス酸](https://ja.wikipedia.org/wiki/ルイス酸 "wikilink")の一種であり、[アンモニア](../Page/アンモニア.md "wikilink")や[塩化物イオン](https://ja.wikipedia.org/wiki/塩化物イオン "wikilink")などとは水溶性の[錯体](../Page/錯体.md "wikilink")を形成する。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[毒物及び劇物取締法](https://ja.wikipedia.org/wiki/毒物及び劇物取締法 "wikilink")により劇物に指定されている。
 
 水溶液中では不安定であり、[不均化](../Page/不均化.md "wikilink")により銅と塩化銅(II)が生成する。しかしながらほとんど水に溶けないため、見かけ上は安定であるように見える。\[1\]
 
@@ -10,7 +10,7 @@
 塩化銅はルイス酸であり、[HSAB則](../Page/HSAB則.md "wikilink")に従うとソフトな酸に分類される。このため[トリフェニルホスフィン](../Page/トリフェニルホスフィン.md "wikilink")のようなソフトなルイス塩基と安定な錯体を形成しやすい
 
   -
-    <ce>CuCl\\ + PPh3 -\>\\ \[CuCl(PPh3)\]4</ce>
+    <chem>CuCl\\ + PPh3 -\>\\ \[CuCl(PPh3)\]4</chem>
 
 塩化銅は水に不溶であるが、適切な[配位子](https://ja.wikipedia.org/wiki/配位子 "wikilink")があれば水に溶解する。ハライドイオンと容易に錯体の形成が可能であり、たとえば濃[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")中ではH<sub>3</sub>O<sup>+</sup> CuCl<sub>2</sub><sup>-</sup>といったイオン対を形成し溶解する。他にも[シアン化物イオン](https://ja.wikipedia.org/wiki/シアン化物イオン "wikilink")(CN<sup>-</sup>)や[チオ硫酸イオン](https://ja.wikipedia.org/wiki/チオ硫酸イオン "wikilink")(S<sub>2</sub>O<sub>3</sub><sup>2-</sup>)、アンモニア(NH<sub>3</sub>)などと錯体を形成する。
 
@@ -23,9 +23,9 @@
 塩化銅(I)は[硫酸銅](https://ja.wikipedia.org/wiki/硫酸銅 "wikilink")などの2価の銅塩を[二酸化硫黄](../Page/二酸化硫黄.md "wikilink")や金属[銅](../Page/銅.md "wikilink")などで還元することで得られている。この二酸化硫黄を用いる場合は、[亜硫酸水素ナトリウム](../Page/亜硫酸水素ナトリウム.md "wikilink")()や[ピロ亜硫酸ナトリウム](https://ja.wikipedia.org/wiki/ピロ亜硫酸ナトリウム "wikilink")()に酸を反応させ*[in situ](https://ja.wikipedia.org/wiki/in_situ "wikilink")*で二酸化硫黄を発生させている。塩酸中でこの反応は進行し、まず塩化物イオンとの複合体の溶液が得られる。この溶液を大量の水で薄めると[化学平衡](../Page/化学平衡.md "wikilink")により塩化物イオンが取り除かれ、塩化銅(I)の沈殿が得られる。
 
   -
-    <ce>NaHSO3(aq)\\ + HCl(aq) -\> SO2(aq)\\ + NaCl\\ + H2O(l)</ce>
-    <ce>2CuSO4(aq)\\ + SO2(aq)\\ + 2H2O(l)\\ + 4HCl(aq) -\> 2HCuCl2(aq)\\ + 3 H2SO4(aq)</ce>
-    <ce>HCuCl2(aq)\\ + H2O(l) -\> CuCl(s)\\ + H3O^+(aq)\\ + Cl_{-(aq)}</ce>
+    <chem>NaHSO3(aq)\\ + HCl(aq) -\> SO2(aq)\\ + NaCl\\ + H2O(l)</chem>
+    <chem>2CuSO4(aq)\\ + SO2(aq)\\ + 2H2O(l)\\ + 4HCl(aq) -\> 2HCuCl2(aq)\\ + 3 H2SO4(aq)</chem>
+    <chem>HCuCl2(aq)\\ + H2O(l) -\> CuCl(s)\\ + H3O^+(aq)\\ + Cl_{-(aq)}</chem>
 
 ## 利用
 
@@ -60,7 +60,7 @@
 ## 関連項目
 
   - [塩化銅](https://ja.wikipedia.org/wiki/塩化銅 "wikilink")
-  - [塩化銅(II)](https://ja.wikipedia.org/wiki/塩化銅\(II\) "wikilink")
+  - [塩化銅(II)](../Page/塩化銅\(II\).md "wikilink")
 
 [Category:塩化物](https://ja.wikipedia.org/wiki/Category:塩化物 "wikilink") [Category:銅(I)の化合物](https://ja.wikipedia.org/wiki/Category:銅\(I\)の化合物 "wikilink") [Category:触媒](https://ja.wikipedia.org/wiki/Category:触媒 "wikilink") [Category:配位化合物](https://ja.wikipedia.org/wiki/Category:配位化合物 "wikilink")
 

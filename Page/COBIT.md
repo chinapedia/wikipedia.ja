@@ -20,7 +20,7 @@ ISACA は COBIT と関連する [Val IT](https://ja.wikipedia.org/wiki/Val_IT "w
 COBIT 4 は COBIT 3 から大きく拡張され、これまで分冊化されていたものを1つにまとめて参照を容易にした。新たな節として各プロセスについて以下が記述されている。
 
   - 他の COBIT プロセスとの入出力についてのクロスリファレンス
-  - 各プロセスについて[RACI図](https://ja.wikipedia.org/wiki/RACI図 "wikilink")を付与（各レベルのマネージャがそのプロセスで果たす役割を記述）
+  - 各プロセスについて[RACI図](../Page/RACI図.md "wikilink")を付与（各レベルのマネージャがそのプロセスで果たす役割を記述）
 
 ISACA は COBIT 4.1 を公表している。主な変更点は以下の通り。
 

@@ -8,7 +8,7 @@
   - m-flo loves Who? 第3弾として、[韓国出身の](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")を[フィーチャリング](../Page/フィーチャリング.md "wikilink")している。
   - [コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")。
   - 「the Love Bug」は[スラング](../Page/スラング.md "wikilink")で「胸キュン」という意味。
-  - BoAの[アルバム](../Page/アルバム.md "wikilink")『[LOVE & HONESTY](../Page/LOVE_&_HONESTY.md "wikilink")』（2004年）に収録されている「SOME DAY ONE DAY feat. [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") (m-flo)」において、m-flo の Next Vo. がBoAであると予告されている。
+  - BoAの[アルバム](../Page/アルバム.md "wikilink")『[LOVE & HONESTY](../Page/LOVE_&_HONESTY.md "wikilink")』（2004年）に収録されている「SOME DAY ONE DAY feat. [VERBAL](../Page/VERBAL.md "wikilink") (m-flo)」において、m-flo の Next Vo. がBoAであると予告されている。
   - 本シングルに未収録の「the Love Bug」のInstrumentalバージョンはアナログ版に収録されている。
   - ベースラインは[Sylvia Striplinのアルバム](https://ja.wikipedia.org/wiki/:en:Sylvia_Striplin "wikilink")『[Give Me Your Love](https://ja.wikipedia.org/wiki/:en:Give_Me_Your_Love_\(album\) "wikilink")』のタイトル曲を引用している。
   - 2014年3月26日発売、m-flo DJ MIX CD『[EDM-FLO](https://ja.wikipedia.org/wiki/EDM-FLO "wikilink")』に、新たに[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")がリミックスを手掛けた「the Love Bug -Yasutaka Nakata (CAPSULE) Remix-」が収録されている。

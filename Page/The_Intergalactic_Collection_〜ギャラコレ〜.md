@@ -38,7 +38,7 @@
 ### ボーナスCD
 
 1.  come again... and AGAIN\!
-      - 「been so long」や「prism」「How You Like Me Now?」など、これまでのm-floの楽曲をサンプリングしている。[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")のラップの2ndバースが新たに書かれている。PVも製作された。
+      - 「been so long」や「prism」「How You Like Me Now?」など、これまでのm-floの楽曲をサンプリングしている。[VERBAL](../Page/VERBAL.md "wikilink")のラップの2ndバースが新たに書かれている。PVも製作された。
 2.  The Way We Were (feat Ceybil Jefferies)
 3.  The Rhyme Brokers
 4.  Incognito

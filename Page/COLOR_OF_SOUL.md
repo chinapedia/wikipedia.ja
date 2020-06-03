@@ -18,7 +18,7 @@
         作詞: [渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲: [渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     <!-- end list -->
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「AX MUSIC FACTORY」AX POWER PLAY\#050 [オープニングテーマ](../Page/主題歌.md "wikilink")
-2.  **It's too late （Original Mix** \[5:55\]
+2.  **It's too late （Original Mix）** \[5:55\]
       -
         作詞: 倖田來未、作曲: [織田哲郎](../Page/織田哲郎.md "wikilink")、編曲：h-wonder
 3.  **Trust Your Love （Hex Hector Japanese Radio Mix）** \[3:09\]

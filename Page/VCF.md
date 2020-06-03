@@ -18,7 +18,7 @@
   - [バンドエリミネーションフィルタ](https://ja.wikipedia.org/wiki/フィルタ回路#バンドエリミネーションフィルタ "wikilink")（BEF、別称バンドリジェクトフィルタ：BRF、またはノッチフィルタ）
     任意の帯域のみをカットするフィルタ。いくつかの機種ではこの機能は搭載されておらず、LPFとHPFを並列につなぐことで機能を得る。
 
-LPFやHPFでは、減衰が始まる周波数を[遮断周波数](https://ja.wikipedia.org/wiki/遮断周波数 "wikilink")（カットオフ周波数）と呼び、-3dBの減衰のあるポイントを指す。BPFやBEFでは、残留・除去する帯域の中心を[中心周波数](../Page/中心周波数.md "wikilink")と呼ぶ。VCFでは主に遮断周波数／中心周波数が電圧で制御される。
+LPFやHPFでは、減衰が始まる周波数を[遮断周波数](../Page/遮断周波数.md "wikilink")（カットオフ周波数）と呼び、-3dBの減衰のあるポイントを指す。BPFやBEFでは、残留・除去する帯域の中心を[中心周波数](../Page/中心周波数.md "wikilink")と呼ぶ。VCFでは主に遮断周波数／中心周波数が電圧で制御される。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Butterworth_Filter_Orders.svg "wikilink") VCFは設計によって減衰傾度（ロールオフ特性）の違いがあり、次数が増すごとに-6[dB](../Page/デシベル.md "wikilink")/[oct傾度が増し](../Page/オクターヴ.md "wikilink")、一般的に-6, -12, -18, -24[dB](../Page/デシベル.md "wikilink")/[oct程度のVCFが用いられる](../Page/オクターヴ.md "wikilink")。例えば[モーグ・シンセサイザー](../Page/モーグ・シンセサイザー.md "wikilink")には-24dB/octのVCFが良く用いられ、[オーバーハイム](../Page/オーバーハイム.md "wikilink")のシンセサイザーには-12dB/octのVCFが良く用いられる。減衰傾度は設計によるVCFの個性を測る1つの目安であるが、他の設計要素も音質には関わる。
 

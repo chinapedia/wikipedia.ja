@@ -69,6 +69,7 @@
 
 **その他**
 
+  - [ALFIE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")（木曜レギュラー）
   - [キャロル](../Page/キャロル_\(バンド\).md "wikilink")（木曜レギュラー）
   - [リトル・ギャング](../Page/リトル・ギャング.md "wikilink")（火曜レギュラー）
   - [星正人](../Page/星正人.md "wikilink")（火曜レギュラー）withファンシーハウス

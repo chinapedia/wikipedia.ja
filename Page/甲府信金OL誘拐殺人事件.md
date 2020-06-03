@@ -66,7 +66,7 @@
 
   - [誘拐](https://ja.wikipedia.org/wiki/誘拐 "wikilink")
   - [グリコ・森永事件](../Page/グリコ・森永事件.md "wikilink")－加害者男性が電話をかける際に参考にしたとされる事件
-  - [鈴木隆雄](https://ja.wikipedia.org/wiki/鈴木隆雄 "wikilink")－事件の鑑定に関わった元警察庁科学警察研究所副所長
+  - [鈴木隆雄](../Page/鈴木隆雄.md "wikilink")－事件の鑑定に関わった元警察庁科学警察研究所副所長
 
 [Category:日本の誘拐事件](https://ja.wikipedia.org/wiki/Category:日本の誘拐事件 "wikilink") [Category:平成時代の殺人事件](https://ja.wikipedia.org/wiki/Category:平成時代の殺人事件 "wikilink") [Category:甲府市の歴史](https://ja.wikipedia.org/wiki/Category:甲府市の歴史 "wikilink") [Category:1993年の日本の事件](https://ja.wikipedia.org/wiki/Category:1993年の日本の事件 "wikilink") [Category:1993年8月](https://ja.wikipedia.org/wiki/Category:1993年8月 "wikilink")
 

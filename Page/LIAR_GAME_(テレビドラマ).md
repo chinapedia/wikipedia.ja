@@ -1280,8 +1280,8 @@ BS日本映画専門チャンネル開局記念と題し、[BSスカパー\!](ht
 
   - フジテレビオンデマンド
 
-      - [ライアーゲーム](http://fod.fujitv.co.jp/s/genre/drama/ser4113/)
-      - [ライアーゲーム シーズン2](http://fod.fujitv.co.jp/s/genre/drama/ser4138/)
+      - [ライアーゲーム](https://fod.fujitv.co.jp/s/genre/drama/ser4113/)
+      - [ライアーゲーム シーズン2](https://fod.fujitv.co.jp/s/genre/drama/ser4138/)
 
   - [ライアーゲーム -再生-](http://liargame.jp/)
 

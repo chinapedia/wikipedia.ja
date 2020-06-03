@@ -39,7 +39,7 @@
 
 **LOVEめいく**\[3\]
 
-  - あしたの恋の空もよう 百葉箱（[今日マチ子](https://ja.wikipedia.org/wiki/今日マチ子 "wikilink")）
+  - あしたの恋の空もよう 百葉箱（[今日マチ子](../Page/今日マチ子.md "wikilink")）
   - アンバランスな関係（[御茶まちこ](https://ja.wikipedia.org/wiki/御茶まちこ "wikilink")）
   - いきなり☆ラブばすマシーン（[鈴里ハル](https://ja.wikipedia.org/wiki/鈴里ハル "wikilink")）<span style="font-size:small;">※ニュー☆フェイスにも所属。</span>
   - シゲキMAX\!オンナ教師とハチミツ少年（[カナエサト](https://ja.wikipedia.org/wiki/カナエサト "wikilink")）<span style="font-size:small;">※ニュー☆フェイスにも所属。</span>

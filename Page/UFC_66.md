@@ -37,7 +37,7 @@
     ○  [アンドレイ・アルロフスキー](../Page/アンドレイ・アルロフスキー.md "wikilink") vs.  [マーシオ・"ペジパーノ"・クルーズ](../Page/マーシオ・クルーズ.md "wikilink") ×
     1R 3:15 KO（[パウンド](../Page/グラウンドパンチ.md "wikilink")）
   - 第7試合 ミドル級 5分3R
-    ○  [ジェイソン・マクドナルド](../Page/ジェイソン・マクドナルド.md "wikilink") vs.  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") ×
+    ○  [ジェイソン・マクドナルド](../Page/ジェイソン・マクドナルド.md "wikilink") vs.  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") ×
     2R 4:03 [フロントチョーク](../Page/フロントチョーク.md "wikilink")
   - 第8試合 ライトヘビー級 5分3R
     ○  [キース・ジャーディン](../Page/キース・ジャーディン.md "wikilink") vs.  [フォレスト・グリフィン](../Page/フォレスト・グリフィン.md "wikilink") ×

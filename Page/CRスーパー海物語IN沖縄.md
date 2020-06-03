@@ -1,7 +1,7 @@
 > この記事は[CRスーパー海物語IN沖縄](https://ja.wikipedia.org/wiki/CRスーパー海物語IN沖縄)から翻訳されています。
 
 
-**CRスーパー海物語IN沖縄**（シーアール スーパーうみものがたり インおきなわ）は、[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")より[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[確変機](https://ja.wikipedia.org/wiki/確率変動#一般的なループ式確変 "wikilink")（ミドルタイプ）。
+**CRスーパー海物語IN沖縄**（シーアール スーパーうみものがたり インおきなわ）は、[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")より[三洋物産](../Page/三洋物産.md "wikilink")から発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[確変機](https://ja.wikipedia.org/wiki/確率変動#一般的なループ式確変 "wikilink")（ミドルタイプ）。
 
 [CRスーパー海物語](../Page/CRスーパー海物語.md "wikilink")の兄弟機の中では唯一シリーズ化されており、[2009年](../Page/2009年.md "wikilink")[11月](../Page/11月.md "wikilink")には『**CRスーパー海物語IN沖縄2**』が、[2013年](../Page/2013年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には『**CRスーパー海物語IN沖縄3**』が発売されている。また、IN沖縄2とIN沖縄3に関しては、[ST機である](https://ja.wikipedia.org/wiki/確率変動#スペシャル・タイム（ST） "wikilink")『**桜バージョン**』も発売されており、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には『**CRスーパー海物語IN沖縄 桜バージョン**』（型式名は『CRスーパー海物語IN沖縄2』）が、[2014年](../Page/2014年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には『**CRスーパー海物語IN沖縄3 桜バージョン**』（型式名は『CRスーパー海物語IN沖縄3』）が発売されている。
 

@@ -13,7 +13,7 @@
 2.  Summer Time Love -Remix Tokyo Mode- / m-flo loves [日之内絵美](https://ja.wikipedia.org/wiki/日之内エミ "wikilink") & [Ryohei](../Page/Ryohei.md "wikilink")
 3.  Big Bang Romance / [野宮真貴](../Page/野宮真貴.md "wikilink") loves m-flo
 4.  ONE DAY -夜空remix- / [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") loves m-flo
-5.  鍔ゼリアイ / [GAGLE](../Page/GAGLE.md "wikilink") feat. [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")
+5.  鍔ゼリアイ / [GAGLE](../Page/GAGLE.md "wikilink") feat. [VERBAL](../Page/VERBAL.md "wikilink")
 6.  Cosmic Night Run -満漢全席仕様- / [CKB](../Page/クレイジーケンバンド.md "wikilink") feat. 野宮真貴 & m-flo
 7.  BABY BLUE\! / [HALCALI](../Page/HALCALI.md "wikilink")
 8.  Life is Beautiful \~DOUBLE ver.\~ / [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink") with m-flo & [TOKU](https://ja.wikipedia.org/wiki/TOKU "wikilink")
@@ -21,7 +21,7 @@
 10. let go \[acoustic version\] / YOSHIKA loves m-flo
 11. Happy Drive -Taste Your Stuff- / [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink") with m-flo
 12. Can't stop lovin' you / [BLACK BOTTOM BRASS BAND](../Page/BLACK_BOTTOM_BRASS_BAND.md "wikilink") feat. 日之内絵美 & VERBAL
-13. Fish / 安室奈美恵 feat. [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") & [Arkitec](../Page/MIC_BANDITZ.md "wikilink")
+13. Fish / 安室奈美恵 feat. [VERBAL](../Page/VERBAL.md "wikilink") & [Arkitec](../Page/MIC_BANDITZ.md "wikilink")
 14. KAMIKAZE 108 / [TERIYAKIBOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")
 
 ### Disc 2 (MIX CD)

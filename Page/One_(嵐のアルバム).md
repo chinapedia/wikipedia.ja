@@ -30,7 +30,7 @@
         3rdベストアルバム「[5×10 All the BEST\! 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_1999-2009 "wikilink")」初回限定盤特典CD「**ARASHI'S Selection**」にも収録されている。
 3.  **ROMANCE**［3:44］
       -
-        作詞：HigherF、作曲：[ジョーイ・カーボーン](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink")、編曲：大坪直樹
+        作詞：HigherF、作曲：[ジョーイ・カーボーン](../Page/ジョーイ・カーボーン.md "wikilink")、編曲：大坪直樹
 4.  **Lai-Lai-Lai**［3:46］
       -
         作詞：SPIN、作曲：[磯崎健史](https://ja.wikipedia.org/wiki/磯崎健史 "wikilink")、編曲：ha-j，吉岡たく

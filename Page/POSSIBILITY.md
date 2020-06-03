@@ -113,6 +113,6 @@
 
 ## 外部リンク
 
-  - [ソニー・ミュージックエンタテインメントによるページ](http://www.sonymusic.co.jp/Music/Arch/SR/possibility//)
+  - [ソニー・ミュージックエンタテインメントによるページ](https://www.sonymusic.co.jp/artist/possibility/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:MASTERSIX_FOUNDATIONのアーティスト](https://ja.wikipedia.org/wiki/Category:MASTERSIX_FOUNDATIONのアーティスト "wikilink")

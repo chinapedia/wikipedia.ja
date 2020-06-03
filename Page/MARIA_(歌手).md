@@ -1,7 +1,9 @@
 > この記事は[MARIA \(歌手\)](https://ja.wikipedia.org/wiki/MARIA_\(歌手\))から翻訳されています。
 
 
-**MARIA**（マリア）は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身の女性[歌手](../Page/歌手.md "wikilink")である。2002年[キングレコード](../Page/キングレコード.md "wikilink")よりメジャーデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からは同じレコード会社に所属していた[中山美穂](../Page/中山美穂.md "wikilink")に数多くの楽曲を提供した。2004年より活動休止。
+**MARIA**（マリア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")である。
+
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")出身。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")からは同じレコード会社に所属していた[中山美穂](../Page/中山美穂.md "wikilink")に数多くの楽曲を提供した。2002年[キングレコード](../Page/キングレコード.md "wikilink")よりメジャーデビュー。2004年より活動休止。
 
 ## ディスコグラフィー
 

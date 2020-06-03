@@ -1,7 +1,7 @@
 > この記事は[DIVE into YOURSELF](https://ja.wikipedia.org/wiki/DIVE_into_YOURSELF)から翻訳されています。
 
 
-「**DIVE into YOURSELF**」（ダイブ・イントゥ・ユアセルフ）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
+「**DIVE into YOURSELF**」（ダイブ・イントゥ・ユアセルフ）は、[HIGH and MIGHTY COLORの](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")(全曲)
+  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")(全曲)
 
 ## 公開レコ
 
@@ -47,7 +47,7 @@
 ## 収録アルバム
 
   - [参](../Page/参_\(アルバム\).md "wikilink") (\#1、YOUR VOICE Version)
-  - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
+  - [10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink") (\#1)
   - [BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink") (\#1)
 
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:カプコンのゲーム主題歌](https://ja.wikipedia.org/wiki/Category:カプコンのゲーム主題歌 "wikilink") [Category:戦国BASARAの音楽](https://ja.wikipedia.org/wiki/Category:戦国BASARAの音楽 "wikilink") [Category:PlayStation_2用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフトの主題歌 "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink")

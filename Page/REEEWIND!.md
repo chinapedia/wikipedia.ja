@@ -9,7 +9,7 @@
   - 同日発売の Crystal Kay loves M-FLO 「[I LIKE IT](../Page/I_LIKE_IT.md "wikilink")」とのツインシングル。
   - カップリングも loves Crystal Kay による「gET oN\!」。この曲では[☆Takuがラップを披露している](https://ja.wikipedia.org/wiki/m-flo "wikilink")。
   - アーティスト名を大文字のM-FLOとしているが、使用されたのは本シングルおよび前述の「I LIKE IT」のみである。
-  - 「REEEWIND\!」の冒頭は[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")がライブにおいて観客に新ボーカルを紹介する内容となっている。これは、『[The Intergalactic Collection ～ギャラコレ～](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_～ギャラコレ～ "wikilink")』のDisc1の最終トラックでの新ボーカル紹介のインタールードへの答えとなっている。
+  - 「REEEWIND\!」の冒頭は[VERBAL](../Page/VERBAL.md "wikilink")がライブにおいて観客に新ボーカルを紹介する内容となっている。これは、『[The Intergalactic Collection ～ギャラコレ～](https://ja.wikipedia.org/wiki/The_Intergalactic_Collection_～ギャラコレ～ "wikilink")』のDisc1の最終トラックでの新ボーカル紹介のインタールードへの答えとなっている。
 
 ## 収録曲
 

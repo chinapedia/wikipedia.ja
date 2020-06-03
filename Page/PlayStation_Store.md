@@ -103,6 +103,7 @@ PS Storeカード/チケット（旧称：PSN カード/チケット）はプリ
 
   - [PlayStation®Store - プレイステーション®オフィシャルサイト](https://www.jp.playstation.com/psn/playstation-store/)
   - [PlayStation Store (WEB)](https://store.playstation.com/ja-jp/)
+  - [PS Store - PlayStation.Blog](https://blog.ja.playstation.com/category/ps-store/)
   - [電撃PlayStation×PlayStation Store 特集ページ](http://dengekionline.com/pr/dpsstore/)
 
 [fi:PlayStation Network\#PlayStation Store](https://ja.wikipedia.org/wiki/fi:PlayStation_Network#PlayStation_Store "wikilink") [fr:PlayStation Network\#PlayStation Store](https://ja.wikipedia.org/wiki/fr:PlayStation_Network#PlayStation_Store "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Knight \& Baby](https://ja.wikipedia.org/wiki/Knight_\&_Baby)から翻訳されています。
 
 
-**ナイトアンドベイビー**（Knight & Baby）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")に[タムソフト](https://ja.wikipedia.org/wiki/タムソフト "wikilink")から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。 [欧米](../Page/欧米.md "wikilink")では『Guardian's Crusade』として発売された。
+**ナイトアンドベイビー**（Knight & Baby）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")に[タムソフト](../Page/タムソフト.md "wikilink")から発売された[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。 [欧米](../Page/欧米.md "wikilink")では『Guardian's Crusade』として発売された。
 
 [2009年](../Page/2009年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")には[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")対応ソフトとして[PS3と](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[PSP向けに配信されている](../Page/PlayStation_Portable.md "wikilink")。価格は600円(税込)
 

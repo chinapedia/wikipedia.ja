@@ -56,7 +56,7 @@
     声 - [岸尾大輔](https://ja.wikipedia.org/wiki/岸尾大輔 "wikilink")
   - 木俣（きまた）
     声 - [加藤木賢志](../Page/加藤木賢志.md "wikilink")
-    練習試合の帰り、TAKO CAFEに通りがかる。
+    練習試合へ向かう途中、TAKO CAFEに通りがかる。
 
 ### 希望の園の住人
 

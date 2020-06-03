@@ -5,7 +5,7 @@
 
 ## 解説
 
-m-flo初のコラボレーションシングルで、[BUDDHA BRAND](../Page/BUDDHA_BRAND.md "wikilink")・[ILLMATIC BUDDHA MC'ｓのメンバーである](https://ja.wikipedia.org/wiki/ILLMATIC_BUDDHA_MC'ｓ "wikilink")[Dev Largeと](../Page/DEV_LARGE.md "wikilink")[Nippsを迎えている](../Page/NIPPS.md "wikilink")。"Vincento Galluo" とは[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")のこと。
+m-flo初のコラボレーションシングルで、[BUDDHA BRAND](../Page/BUDDHA_BRAND.md "wikilink")・[ILLMATIC BUDDHA MC'ｓのメンバーである](https://ja.wikipedia.org/wiki/ILLMATIC_BUDDHA_MC'ｓ "wikilink")[Dev Largeと](../Page/DEV_LARGE.md "wikilink")[Nippsを迎えている](../Page/NIPPS.md "wikilink")。"Vincento Galluo" とは[VERBAL](../Page/VERBAL.md "wikilink")のこと。
 
 m-floのシングルでは、「[Quantum Leap](https://ja.wikipedia.org/wiki/the_Quantum_EP "wikilink")」以来の本格ヒップホップになっている。
 

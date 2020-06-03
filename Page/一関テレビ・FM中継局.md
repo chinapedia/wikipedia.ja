@@ -548,5 +548,5 @@ ID</a></p></th>
 
 [Category:平泉町](https://ja.wikipedia.org/wiki/Category:平泉町 "wikilink") [Category:岩手県の放送送信所](https://ja.wikipedia.org/wiki/Category:岩手県の放送送信所 "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:テレビ岩手](https://ja.wikipedia.org/wiki/Category:テレビ岩手 "wikilink") [Category:岩手朝日テレビ](https://ja.wikipedia.org/wiki/Category:岩手朝日テレビ "wikilink") [Category:IBC岩手放送](https://ja.wikipedia.org/wiki/Category:IBC岩手放送 "wikilink") [Category:岩手めんこいテレビ](https://ja.wikipedia.org/wiki/Category:岩手めんこいテレビ "wikilink") [Category:エフエム岩手](https://ja.wikipedia.org/wiki/Category:エフエム岩手 "wikilink")
 
-1.  2015年11月23日より[試験電波](../Page/試験電波.md "wikilink")を発射、同年12月1日より本放送開始（[山田FM](https://ja.wikipedia.org/wiki/山田中継局_\(岩手県\) "wikilink")、[岩泉小本FMに続く](../Page/岩泉テレビ中継局.md "wikilink")3番目のFM中継局として開局。参照サイト：[「IBCラジオ一関FM開局」](http://www.ibc.co.jp/radio/info/detail259.html)）。
+1.  2015年11月23日より[試験電波](../Page/試験電波.md "wikilink")を発射、同年12月1日より本放送開始（[山田FM](../Page/山田中継局_\(岩手県\).md "wikilink")、[岩泉小本FMに続く](../Page/岩泉テレビ中継局.md "wikilink")3番目のFM中継局として開局。参照サイト：[「IBCラジオ一関FM開局」](http://www.ibc.co.jp/radio/info/detail259.html)）。
 2.  [地上デジタルテレビジョン放送局チャンネル再編予定表](http://www.soumu.go.jp/menu_news/s-news/2009/pdf/090403_02_bt.pdf) - 総務省（2009年4月3日付）

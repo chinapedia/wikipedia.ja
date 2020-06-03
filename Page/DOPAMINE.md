@@ -8,7 +8,7 @@
   - 日本の[歌手](../Page/歌手.md "wikilink")EMYLIと日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ[SOUL'd OUTのメイン](../Page/SOUL'd_OUT.md "wikilink")[MCであるDiggy](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")-MO' を[フィーチャリング](../Page/フィーチャリング.md "wikilink")している。
   - [The 45 King](https://ja.wikipedia.org/wiki/:en:DJ_Mark_the_45_King "wikilink")「The 900 Number」（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）を[サンプリング](../Page/サンプリング.md "wikilink")している。
   - 曲のテーマは "DOPAMINE = 青春のトキメキ"（[ドーパミン](../Page/ドーパミン.md "wikilink")は快の感情や意欲に関わる[神経伝達物質](../Page/神経伝達物質.md "wikilink")）。
-  - c/w 曲は[YOSHIKA](../Page/YOSHIKA.md "wikilink")をフィーチャリングした「tO yOUR bEAT」。[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")が自分の妻に捧げた曲で、妻への愛を歌っている\[1\]。
+  - c/w 曲は[YOSHIKA](../Page/YOSHIKA.md "wikilink")をフィーチャリングした「tO yOUR bEAT」。[VERBAL](../Page/VERBAL.md "wikilink")が自分の妻に捧げた曲で、妻への愛を歌っている\[1\]。
   - m-floの4thアルバム『[BEAT SPACE NINE](../Page/BEAT_SPACE_NINE.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）に、「DOPAMINE」から前述のサンプリングがカットされている別バージョン「DOPEMAN?」および「tO yOUR bEAT」が収録されている。
 
 ## 収録曲

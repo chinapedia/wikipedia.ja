@@ -1,7 +1,7 @@
 > この記事は[RUN☆RUN☆RUN](https://ja.wikipedia.org/wiki/RUN☆RUN☆RUN)から翻訳されています。
 
 
-「**RUN☆RUN☆RUN**」（ランランラン）は、[HIGH and MIGHTY COLORメジャー](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")3枚目のシングル。
+「**RUN☆RUN☆RUN**」（ランランラン）は、[HIGH and MIGHTY COLORメジャー](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")3枚目のシングル。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink") (ALL)
+  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink") (ALL)
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 ## 収録アルバム
 
   - [G∞VER](../Page/G∞VER.md "wikilink") (\#1)
-  - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
+  - [10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink") (\#1)
 
 ## 脚注
 

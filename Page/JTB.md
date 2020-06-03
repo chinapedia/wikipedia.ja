@@ -39,23 +39,24 @@
 
 ## 株主
 
-  - [公益財団法人日本交通公社](../Page/日本交通公社_\(公益財団法人\).md "wikilink")
+[公益財団法人日本交通公社](../Page/日本交通公社_\(公益財団法人\).md "wikilink")
+
   - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")
   - [東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")
-  - JTB協定旅館ホテル連盟
   - JTB従業員持株会
+  - JTB協定旅館ホテル連盟
   - [三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")
   - [みずほ銀行](../Page/みずほ銀行.md "wikilink")
-  - 社団法人日本ホテル協会
+  - 一般社団法人日本ホテル協会
   - [三井住友銀行](../Page/三井住友銀行.md "wikilink")
   - [日本航空](../Page/日本航空.md "wikilink")
   - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")
   - [西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")
   - [北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
+  - [ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")
+  - JTB役員持株会
   - [商船三井](../Page/商船三井.md "wikilink")
   - [四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")
-  - JTB役員持株会
 
 ## グループ会社
 

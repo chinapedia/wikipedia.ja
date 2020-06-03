@@ -35,6 +35,7 @@
   - [宮崎夏次系](https://ja.wikipedia.org/wiki/宮崎夏次系 "wikilink")
   - [小川一水](../Page/小川一水.md "wikilink")
   - [菅浩江](../Page/菅浩江.md "wikilink")
+  - [谷甲州](../Page/谷甲州.md "wikilink")
 
 ## 執筆したことのある主な作家
 

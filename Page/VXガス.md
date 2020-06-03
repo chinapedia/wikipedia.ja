@@ -9,7 +9,7 @@
 
 [琥珀](https://ja.wikipedia.org/wiki/琥珀 "wikilink")色をした油状の[液体](../Page/液体.md "wikilink")で、[揮発性](https://ja.wikipedia.org/wiki/揮発性 "wikilink")は低く、無味無臭である。また、[濃度](https://ja.wikipedia.org/wiki/濃度 "wikilink")や温度にもよるが、粘着性を持つとされ、[エアロゾル](https://ja.wikipedia.org/wiki/エアロゾル "wikilink")（[霧](https://ja.wikipedia.org/wiki/浮遊粉塵 "wikilink")）を[毒ガス](https://ja.wikipedia.org/wiki/毒ガス "wikilink")として使用する。水への[溶解度](../Page/溶解度.md "wikilink")は約3 %。
 
-[1950年代](../Page/1950年代.md "wikilink")初期に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[合成された](../Page/化学合成.md "wikilink")。揮発性（[蒸気圧](https://ja.wikipedia.org/wiki/蒸気圧 "wikilink")）が低いため残留性が高く、そのうえ、[サリン](../Page/サリン.md "wikilink")などと異なり化学的安定性も高いので、[温帯](../Page/温帯.md "wikilink")の気候においては、散布から1週間程度は効果が残留するとされる。
+[1952年](../Page/1952年.md "wikilink")に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[合成された](../Page/化学合成.md "wikilink")。揮発性（[蒸気圧](https://ja.wikipedia.org/wiki/蒸気圧 "wikilink")）が低いため残留性が高く、そのうえ、[サリン](../Page/サリン.md "wikilink")などと異なり化学的安定性も高いので、[温帯](../Page/温帯.md "wikilink")の気候においては、散布から1週間程度は効果が残留するとされる。
 
 [呼吸器](../Page/呼吸器.md "wikilink")からだけでなく、[皮膚](../Page/皮膚.md "wikilink")からも吸収されて毒性を発揮するため、[ガスマスク](../Page/ガスマスク.md "wikilink")だけでは防護できない。また、[親油性](https://ja.wikipedia.org/wiki/親油性 "wikilink")が高く、水で洗浄しただけでは取り除けないため、安全な状態にするためには化学洗浄が必要である。木材や皮、布などに付着した場合には長期間毒性を維持したまま留まるため、VXガスに汚染された物に触れただけでも危険である。例として[会社員VX殺害事件](../Page/会社員VX殺害事件.md "wikilink")では1ミリリットル程度のVX溶液で死に至った\[1\]。
 

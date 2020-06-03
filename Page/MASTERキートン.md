@@ -662,8 +662,8 @@
 ## 外部リンク
 
   - [MASTERキートン公式](http://www.vap.co.jp/keaton/)
-  - [MASTERキートン - 日テレオンデマンド](http://vod.ntv.co.jp/program/keaton/)
 
+  -
 [Category:浦沢直樹](https://ja.wikipedia.org/wiki/Category:浦沢直樹 "wikilink") [Category:長崎尚志](https://ja.wikipedia.org/wiki/Category:長崎尚志 "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:ビッグコミックオリジナル](https://ja.wikipedia.org/wiki/Category:ビッグコミックオリジナル "wikilink") [Category:探偵を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:探偵を主人公とした漫画作品 "wikilink") [Category:世界各地を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:世界各地を舞台とした漫画作品 "wikilink") [Category:世界各地を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:世界各地を舞台としたアニメ作品 "wikilink") [Category:スリラー漫画](https://ja.wikipedia.org/wiki/Category:スリラー漫画 "wikilink") [Category:保険](https://ja.wikipedia.org/wiki/Category:保険 "wikilink") [Category:考古学](https://ja.wikipedia.org/wiki/Category:考古学 "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:日本テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜アニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:バップのアニメ作品](https://ja.wikipedia.org/wiki/Category:バップのアニメ作品 "wikilink") [Category:ビッグコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビッグコミックスのアニメ作品 "wikilink") [Category:探偵を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:探偵を主人公としたアニメ作品 "wikilink") [Category:スリラーアニメ](https://ja.wikipedia.org/wiki/Category:スリラーアニメ "wikilink")
 
 1.

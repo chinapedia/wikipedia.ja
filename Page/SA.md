@@ -32,6 +32,7 @@
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")（ISO）の[言語コード](https://ja.wikipedia.org/wiki/言語コード "wikilink")（[ISO 639-1](https://ja.wikipedia.org/wiki/ISO_639-1コード一覧 "wikilink")）で、**[サンスクリット](../Page/サンスクリット.md "wikilink")**を示す。
   - ISOの[国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")）で、**[サウジアラビア](../Page/サウジアラビア.md "wikilink")**（**S**audi **A**rabia）を示す。
       - [南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")の非公式国名コード - [IOCコードの](../Page/IOCコード一覧.md "wikilink")「RSA」、またはISO 3166-1の「ZA」を使うことが多い。
+  - [スターアライアンス](../Page/スターアライアンス.md "wikilink")
   - [イタリア共和国の県名略記号](../Page/イタリア共和国の県名略記号.md "wikilink")で、[サレルノ県](../Page/サレルノ県.md "wikilink")を示す。 - [イタリア](../Page/イタリア.md "wikilink")[カンパニア州](../Page/カンパニア州.md "wikilink")の県。[ISO 3166-2:IT地域区分コードはIT](../Page/ISO_3166-2:IT.md "wikilink")-SA。
   - 各国の[郵便コード](../Page/郵便番号.md "wikilink")
       - [スウォンジー](../Page/スウォンジー.md "wikilink")の郵便コード - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の都市

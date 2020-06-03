@@ -7,7 +7,7 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")5月、Ed McVaney は3200万ドルを[ネブラスカ大学リンカーン校](../Page/ネブラスカ大学リンカーン校.md "wikilink")に寄付し、J.D. Edwards Honors Program が創設された。このプログラムは[計算機科学](../Page/計算機科学.md "wikilink")と[マネジメント](https://ja.wikipedia.org/wiki/マネジメント "wikilink")スキルを統合したもので、次代を担うビジネス専門家の教育を目的としている。
 
-[2003年](../Page/2003年.md "wikilink")6月、JD Edwards は[ピープルソフト](../Page/ピープルソフト.md "wikilink")による買収に合意した。買収は7月に完了している。OneWorld はピープルソフトの製品系列に組み込まれ、EnterpriseOne となった。[2004年](../Page/2004年.md "wikilink")12月、[オラクルがピープルソフトを買収したが](https://ja.wikipedia.org/wiki/オラクル_\(企業\) "wikilink")、JD Edwards に由来する製品は今も販売されている。オラクルは、同社の元々の製品とピープルソフトや JD Edwards の製品を統合する新たな製品を計画している。買収後も EnterpriseOne は機能拡張され続けている。
+[2003年](../Page/2003年.md "wikilink")6月、JD Edwards は[ピープルソフト](../Page/ピープルソフト.md "wikilink")による買収に合意した。買収は7月に完了している。OneWorld はピープルソフトの製品系列に組み込まれ、EnterpriseOne となった。[2004年](../Page/2004年.md "wikilink")12月、[オラクルがピープルソフトを買収したが](../Page/オラクル_\(企業\).md "wikilink")、JD Edwards に由来する製品は今も販売されている。オラクルは、同社の元々の製品とピープルソフトや JD Edwards の製品を統合する新たな製品を計画している。買収後も EnterpriseOne は機能拡張され続けている。
 
 ## 外部リンク
 

@@ -59,4 +59,4 @@
 
   - [C級さらりーまん講座](https://bigcomicbros.net/comic/ckyuusalaryman/) - 小学館 ビッグコミックBROS.NET（ビッグコミックブロス）
 
-[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:ビッグコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:ビッグコミックの漫画作品 "wikilink") [Category:企業を舞台とした作品](https://ja.wikipedia.org/wiki/Category:企業を舞台とした作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:ビッグコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:ビッグコミックの漫画作品 "wikilink") [Category:企業を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:企業を舞台とした漫画作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

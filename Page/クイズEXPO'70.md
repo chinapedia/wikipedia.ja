@@ -21,7 +21,7 @@
 
   - 第1回で行われたのは「ゲスト特集」で、[E・H・エリック](../Page/E・H・エリック.md "wikilink")、桂三枝（後の[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）、[高松しげお](../Page/高松しげお.md "wikilink")、[加藤登紀子](../Page/加藤登紀子.md "wikilink")、[徳永芽里](https://ja.wikipedia.org/wiki/徳永芽里 "wikilink")などが[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")をテーマにしたクイズに挑戦していた。第1回放送当日（1969年10月3日）付の[読売新聞](../Page/読売新聞.md "wikilink")関東版朝刊のテレビ欄には、本番組の写真が掲載されている。
 
-  - 年明け直後の1970年1月2日に行われたのは「紅白対抗ゲスト大会」で、[ジュディ・オング](https://ja.wikipedia.org/wiki/ジュディ・オング "wikilink")、[上原ゆかり](https://ja.wikipedia.org/wiki/上原ゆかり "wikilink")、[高田美和](../Page/高田美和.md "wikilink")、[丘みつ子](../Page/丘みつ子.md "wikilink")、[丹下キヨ子](https://ja.wikipedia.org/wiki/丹下キヨ子 "wikilink")が紅組メンバーとして、[ジェリー藤尾](../Page/ジェリー藤尾.md "wikilink")、[蔵忠芳](../Page/蔵忠芳.md "wikilink")、[太田博之](../Page/太田博之.md "wikilink")、[長沢純](../Page/長沢純.md "wikilink")、[十朱久雄](../Page/十朱久雄.md "wikilink")が白組メンバーとしてそれぞれ出場。ルールは通常時と同じだったが勝抜き戦ではなく、一番上にゴンドラが着いた方が勝ちになり、最終的に勝者の多い組が優勝となるチーム対抗戦形式だった。負けチームには、番組冒頭で坂本が連れてきた[セント・バーナード](../Page/セント・バーナード.md "wikilink")（この年は戌年だった）とキスをする罰ゲームが待っていた\[1\]。
+  - 年明け直後の1970年1月2日に行われたのは「紅白対抗ゲスト大会」で、[ジュディ・オング](https://ja.wikipedia.org/wiki/ジュディ・オング "wikilink")、[上原ゆかり](https://ja.wikipedia.org/wiki/上原ゆかり "wikilink")、[高田美和](../Page/高田美和.md "wikilink")、[丘みつ子](../Page/丘みつ子.md "wikilink")、[丹下キヨ子](../Page/丹下キヨ子.md "wikilink")が紅組メンバーとして、[ジェリー藤尾](../Page/ジェリー藤尾.md "wikilink")、[蔵忠芳](../Page/蔵忠芳.md "wikilink")、[太田博之](../Page/太田博之.md "wikilink")、[長沢純](../Page/長沢純.md "wikilink")、[十朱久雄](../Page/十朱久雄.md "wikilink")が白組メンバーとしてそれぞれ出場。ルールは通常時と同じだったが勝抜き戦ではなく、一番上にゴンドラが着いた方が勝ちになり、最終的に勝者の多い組が優勝となるチーム対抗戦形式だった。負けチームには、番組冒頭で坂本が連れてきた[セント・バーナード](../Page/セント・バーナード.md "wikilink")（この年は戌年だった）とキスをする罰ゲームが待っていた\[1\]。
 
   - のサブタイトルは「祝！万国博開幕」となっており、当該回で坂本が「世界の国からこんにちは」を歌った。
 

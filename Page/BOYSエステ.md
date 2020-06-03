@@ -57,7 +57,7 @@
   - 高梨さくら：[木口亜矢](../Page/木口亜矢.md "wikilink")
   - 赤城次郎：[酒井敏也](../Page/酒井敏也.md "wikilink")
   - 赤城保子：[宮田早苗](https://ja.wikipedia.org/wiki/宮田早苗 "wikilink")
-  - 赤城鈴香：[橋本愛実](https://ja.wikipedia.org/wiki/橋本愛実 "wikilink")
+  - 赤城鈴香：[橋本愛実](../Page/橋本マナミ.md "wikilink")
   - 江崎友子：[八代亜紀](../Page/八代亜紀.md "wikilink")
   - 軽部ひな：[秦みずほ](https://ja.wikipedia.org/wiki/秦みずほ "wikilink")
   - 東鳩花江：[松本夏空](https://ja.wikipedia.org/wiki/松本夏空 "wikilink")
@@ -132,7 +132,7 @@
 
 ## 外部リンク
 
-  - [テレビ東京](http://www.tv-tokyo.co.jp/boysesute/)
+  - [テレビ東京](https://www.tv-tokyo.co.jp/boysesute/)
 
 <!-- end list -->
 

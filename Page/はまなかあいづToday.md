@@ -95,7 +95,7 @@
 
 ## 外部リンク
 
-  - [はまなかあいづToday](http://www.nhk.or.jp/fukushima/hamanaka/)
+  - [はまなかあいづToday](https://www.nhk.or.jp/fukushima/hamanaka/)
 
 [Category:NHK総合テレビジョン平日18時台の地域ニュース](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョン平日18時台の地域ニュース "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:NHK福島](https://ja.wikipedia.org/wiki/Category:NHK福島 "wikilink")
 

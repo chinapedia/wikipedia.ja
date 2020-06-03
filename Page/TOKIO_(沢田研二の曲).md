@@ -1,18 +1,18 @@
 > この記事は[TOKIO \(沢田研二の曲\)](https://ja.wikipedia.org/wiki/TOKIO_\(沢田研二の曲\))から翻訳されています。
 
 
-「**TOKIO**」（トキオ）は、[沢田研二](../Page/沢田研二.md "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")(現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink"))より販売された。
+「**TOKIO**」（トキオ）は、[沢田研二](../Page/沢田研二.md "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")（現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）より販売された。
 
 ## 解説
 
-  - [電飾](https://ja.wikipedia.org/wiki/電飾 "wikilink")の施されたスーツを纏い、赤と白の縞模様の[パラシュート](../Page/パラシュート.md "wikilink")を背負ってテレビ番組などで歌う姿は注目を集めた。これらの衣装は総額250万円もの費用をかけて制作されたという。なお、このパラシュートのアイデアはジュリー本人が提案したものである。
+  - [電飾](https://ja.wikipedia.org/wiki/電飾 "wikilink")の施されたスーツを纏い、赤と白の縞模様の[パラシュート](../Page/パラシュート.md "wikilink")を背負ってテレビ番組などで歌う姿は注目を集めた。これらの衣装は総額250万円もの費用をかけて制作されたという。なお、このパラシュートのアイデアは沢田本人が提案したものである。
   - アルバム「[TOKIO](../Page/TOKIO_\(沢田研二のアルバム\).md "wikilink")」からのシングルカット。シングル・ヴァージョン。
   - この時のパフォーマンスに関して、デビュー以来約10年連れ添ったバックバンドのリーダーである[井上堯之](../Page/井上堯之.md "wikilink")は違和感を覚え、[井上堯之バンド](https://ja.wikipedia.org/wiki/井上堯之バンド "wikilink")は解散することとなる。
 
 ## 収録曲
 
 1.  **TOKIO**（4分36秒）
-      - 作詞：糸井重里 作曲：加瀬邦彦 編曲：後藤次利
+      - 作詞：[糸井重里](../Page/糸井重里.md "wikilink") 作曲：[加瀬邦彦](../Page/加瀬邦彦.md "wikilink") 編曲：[後藤次利](../Page/後藤次利.md "wikilink")
 2.  **I am I（俺は俺）**（5分47秒）
       - 作詞：[仲畑貴志](../Page/仲畑貴志.md "wikilink") 作曲・編曲：[井上堯之](../Page/井上堯之.md "wikilink")
     <!-- end list -->
@@ -39,8 +39,8 @@
   - [山崎育三郎](../Page/山崎育三郎.md "wikilink") - カバーアルバム『1936 〜your songs〜』（2016年8月24日発売）収録 \[1\]。
   - [替え歌](../Page/替え歌.md "wikilink")が[スズキ・エリオ](../Page/スズキ・エリオ.md "wikilink")のCMソングとして使われた。
   - [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")としても使われている。
-  - [替え歌](../Page/替え歌.md "wikilink")が[オープンハウス](https://ja.wikipedia.org/wiki/オープンハウス "wikilink")のCMソングとして使われた。
-  - [替え歌](../Page/替え歌.md "wikilink")が[ロッテアイス](../Page/ロッテアイス.md "wikilink")「[モナ王](../Page/モナ王.md "wikilink")」のCMソングとして使われた。
+  - 替え歌が[オープンハウス](https://ja.wikipedia.org/wiki/オープンハウス "wikilink")のCMソングとして使われた。
+  - 替え歌が[ロッテアイス](../Page/ロッテアイス.md "wikilink")「[モナ王](../Page/モナ王.md "wikilink")」のCMソングとして使われた。
   - 2016年、替え歌が[全日空](https://ja.wikipedia.org/wiki/全日空 "wikilink")のCM「HELLO BLUE, HELLO FUTURE 〜2020を、みんなの滑走路にしよう〜」シリーズ（CM出演：[ウサイン・ボルト](../Page/ウサイン・ボルト.md "wikilink")、ギター演奏：[野村義男](../Page/野村義男.md "wikilink")）に使用された。
   - [BOYS AND MEN](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink") - [2017年](../Page/2017年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、47のバージョンでカバーした音源「TOKIO 47」を配信リリース\[2\]。
 
@@ -52,11 +52,12 @@
   - [タケちゃんマン](https://ja.wikipedia.org/wiki/タケちゃんマン "wikilink") ‐ [ビートたけし](../Page/ビートたけし.md "wikilink")が[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")のコントで演じたキャラクター。沢田が本曲を披露する時に着ていた衣装がパロディ元となっている。
   - [空色デイズ](../Page/空色デイズ.md "wikilink") ‐ [PVで](../Page/ミュージック・ビデオ.md "wikilink")[パラシュート](../Page/パラシュート.md "wikilink")が登場する（ただしパラシュートの色は青と白の縞模様）。
   - [柄本時生](../Page/柄本時生.md "wikilink") - 「時生」の名前はこの曲名に由来。
+  - [ご当地ソング](../Page/ご当地ソング.md "wikilink") ‐ [東京都のご当地ソング一覧（東京全般）](https://ja.wikipedia.org/wiki/東京都のご当地ソング一覧#東京全般 "wikilink")
 
 ## 外部リンク
 
   -
-[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が作詞した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink")
+[Category:沢田研二の楽曲](https://ja.wikipedia.org/wiki/Category:沢田研二の楽曲 "wikilink") [Category:糸井重里が作詞した楽曲](https://ja.wikipedia.org/wiki/Category:糸井重里が作詞した楽曲 "wikilink") [Category:加瀬邦彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:加瀬邦彦が制作した楽曲 "wikilink") [Category:1980年のシングル](https://ja.wikipedia.org/wiki/Category:1980年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ポリドール・レコードのシングル](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[Days \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/Days_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
-「**Days**」（デイズ）は、日本のバンド[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")4枚目のシングル。[2005年](../Page/2005年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")発売。
+「**Days**」（デイズ）は、日本のバンド[HIGH and MIGHTY COLORの](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")4枚目のシングル。[2005年](../Page/2005年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")発売。
 
 ## 解説
 
@@ -25,11 +25,11 @@
 
 <!-- end list -->
 
-  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")(ALL)
+  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")(ALL)
 
 ## 収録アルバム
 
   - [G∞VER](../Page/G∞VER.md "wikilink") (\#1)
-  - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
+  - [10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink") (\#1)
 
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:ランク王国](https://ja.wikipedia.org/wiki/Category:ランク王国 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")

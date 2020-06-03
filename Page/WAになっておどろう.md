@@ -68,7 +68,7 @@
 
 [オリコン調べにおいて](../Page/オリコンチャート.md "wikilink")、[V6のシングルとしては](../Page/V6_\(グループ\).md "wikilink")「[愛なんだ](../Page/愛なんだ.md "wikilink")」・「[MUSIC FOR THE PEOPLE](../Page/MUSIC_FOR_THE_PEOPLE.md "wikilink")」に次ぐ3番目の売り上げである\[3\]。5作ぶりに[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を逃した。
 
-[坂本昌行](../Page/坂本昌行.md "wikilink")と[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")のソロパートがある。2014年には、V6が『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に出演しこの楽曲を披露した。
+2014年にV6が『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に初出場した際に、この楽曲を披露した。
 
 ### 収録曲
 

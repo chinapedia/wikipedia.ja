@@ -37,7 +37,7 @@
       - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[水曜ミステリー9](../Page/水曜ミステリー9.md "wikilink")」エンディングテーマ
 10. **[PASIO〜パッシオ](../Page/PASIO〜パッシオ.md "wikilink")**
       - 作詞：[康珍化](../Page/康珍化.md "wikilink")／作曲・編曲：[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")
-      - 日本テレビ系「[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")」エンタメSPORTSテーマソング
+      - 日本テレビ系「[NNN Newsリアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")」エンタメSPORTSテーマソング
       - 日本テレビ系「[グッドルッキンクラブ](https://ja.wikipedia.org/wiki/グッドルッキンクラブ "wikilink")」エンディングテーマ
 11. **El Dorado**
       - 作詞：shungo.／作曲・編曲：中野雄太

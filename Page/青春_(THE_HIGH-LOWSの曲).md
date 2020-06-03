@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 「青春」は2000年春の[NTV系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[伝説の教師](https://ja.wikipedia.org/wiki/伝説の教師 "wikilink")』（[松本人志](../Page/松本人志.md "wikilink")・[中居正広](../Page/中居正広.md "wikilink")W主演）の主題歌となった。
+  - 「青春」は2000年春の[NTV系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[伝説の教師](../Page/伝説の教師.md "wikilink")』（[松本人志](../Page/松本人志.md "wikilink")・[中居正広](../Page/中居正広.md "wikilink")W主演）の主題歌となった。
   - 表題曲、[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")ともに5thアルバム『[Relaxin' WITH THE HIGH-LOWS](https://ja.wikipedia.org/wiki/Relaxin'_WITH_THE_HIGH-LOWS "wikilink")』に収録されている
   - 「青春」は[2019年](../Page/2019年.md "wikilink")に[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")「青春放題」篇のテレビCMに起用された。同曲がテレビCMに起用されるのはこれが初である\[1\]。
 

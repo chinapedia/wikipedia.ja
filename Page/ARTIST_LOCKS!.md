@@ -1,7 +1,741 @@
 > この記事は[ARTIST LOCKS!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!)から翻訳されています。
 
 
-**ARTIST LOCKS\!**（アーティスト・ロックス）\[1\]\[2\]とは、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されている、[SCHOOL OF LOCK\!のコーナーの](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")1つである。放送時間は、月曜日 - 木曜日は23:10ごろから約20分間、金曜日は23:00ごろから約20分間と23:23ごろから約20分間、月曜日 - 木曜日は22:55ごろから約5分間。
+**ARTIST LOCKS\!**（アーティスト・ロックス）とは、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](../Page/全国FM放送協議会.md "wikilink")38局ネットで放送されている、[SCHOOL OF LOCK\!の授業](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")（コーナー）の1つである。
+
+## 概要
+
+SCHOOL OF LOCK\! 開校時より放送されている。当初は、月曜 - 木曜 に日替わりで4組のアーティストが担当していた。
+
+2006年10月、月曜 - 木曜 22:20からの10分枠を[YUIが担当したのを皮切りに](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")、別時間枠でもARTIST LOCKS\!が放送されるようになる。
+
+2020年4月現在、月曜 - 木曜 22:55 - 23:00、23:08頃 - 23:25頃、金曜 22:30 - 22:50頃、23:00 - 23:27、23:27 - 23:55に放送。8組のアーティストが担当している。
+
+なお、「ARTIST LOCKS\!」と使われることはほとんどなく、通常は「**LOCKS\!**」とまとめられている。「ARTIST」ではなく、「アーティスト」と表記される場合もある\[1\]。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期間</p></th>
+<th><p>月 - 木<br />
+22:20枠</p></th>
+<th><p>月 - 木<br />
+22:55枠</p></th>
+<th><p>月<br />
+23:08枠</p></th>
+<th><p>火<br />
+23:08枠</p></th>
+<th><p>水<br />
+23:08枠</p></th>
+<th><p>木<br />
+23:08枠</p></th>
+<th><p>金<br />
+22:15枠</p></th>
+<th><p>金<br />
+22:30枠</p></th>
+<th><p>金<br />
+23:00枠</p></th>
+<th><p>金<br />
+23:30枠</p></th>
+<th><p>土<br />
+22:00枠</p></th>
+<th><p>日<br />
+23:30枠</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2005.10</p></td>
+<td><p>2005.12</p></td>
+<td><p><small>(<a href="../Page/GIRLS_LOCKS!.md" title="wikilink">GIRLS LOCKS!</a>)</small></p></td>
+<td><p><small>(GIRLS LOCKS!)</small></p></td>
+<td><p>rowspan="8" style="background:beige|<small>(別授業)</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#RIP_LOCKS!" title="wikilink">RIP LOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#BUMP_LOCKS!" title="wikilink">BUMP LOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#アジカンLOCKS!" title="wikilink">アジカンLOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#氣志團LOCKS!" title="wikilink">氣志團LOCKS!</a></p></td>
+<td><p><small>(GIRLS LOCKS!)</small></p></td>
+<td><p><small>(別番組)</small></p></td>
+<td><p><small>(別番組)</small></small></p></td>
+<td><p><small>(別番組)</small></p></td>
+</tr>
+<tr class="even">
+<td><p>2006.1</p></td>
+<td><p>2006.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#ゆずLOCKS!" title="wikilink">ゆずLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2006.4</p></td>
+<td><p>2006.9</p></td>
+<td><p><small>(別授業)</small></p></td>
+<td><p><small>(別授業)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2006.10</p></td>
+<td><p>2007.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#YUI_LOCKS!" title="wikilink">YUI LOCKS!</a></p></td>
+<td><p><small>(GIRLS LOCKS!)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007.4</p></td>
+<td><p>2007.9</p></td>
+<td><p><small>(GIRLS LOCKS!)</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#RAD_LOCKS!" title="wikilink">RAD LOCKS!</a></p></td>
+<td><p>YUI LOCKS!</p></td>
+<td><p><small>(GIRLS LOCKS!)</small></p></td>
+<td><p><small>(別番組)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007.10</p></td>
+<td><p>2007.11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#チャットLOCKS!" title="wikilink">チャットLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007.12</p></td>
+<td><p>2008.2</p></td>
+<td><p>BUMP LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008.3</p></td>
+<td><p>くるりLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008.4</p></td>
+<td><p>2008.5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">Perfume LOCKS!</a></p></td>
+<td><p>チャットLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008.6</p></td>
+<td><p>2008.11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#ミリヤLOCKS!" title="wikilink">ミリヤLOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#絢香LOCKS!" title="wikilink">絢香LOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008.12</p></td>
+<td><p>2009.2</p></td>
+<td><p><small>(別授業)</small></p></td>
+<td><p>Perfume LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009.3</p></td>
+<td><p>2009.5</p></td>
+<td><p>RAD LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009.6</p></td>
+<td><p>2009.7</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#カエラLOCKS!" title="wikilink">カエラLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009.8</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#9mm_LOCKS!" title="wikilink">9mm LOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009.9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#ベボベLOCKS!" title="wikilink">ベボベLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009.10</p></td>
+<td><p>2010.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#flumpool_LOCKS!" title="wikilink">flumpool LOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010.4</p></td>
+<td><p>2010.6</p></td>
+<td><p>ベボベLOCKS!</p></td>
+<td><p>アジカンLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010.7</p></td>
+<td><p>2010.9</p></td>
+<td><p>YUI LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010.10</p></td>
+<td><p>2010.12</p></td>
+<td><p>BUMP LOCKS!</p></td>
+<td><p>ベボベLOCKS!</p></td>
+<td><p><small>(別番組)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011.1</p></td>
+<td><p>2011.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#チャボベLOCKS!" title="wikilink">チャボベLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011.4</p></td>
+<td><p>2011.5</p></td>
+<td><p>RAD LOCKS!</p></td>
+<td><p>ベボベLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011.6</p></td>
+<td><p>2011.8</p></td>
+<td><p>9mm LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011.9</p></td>
+<td><p>2011.11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#セカオワLOCKS！" title="wikilink">セカオワLOCKS！</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011.12</p></td>
+<td><p>2012.3</p></td>
+<td><p>アジカンLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012.4</p></td>
+<td><p>2013.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サカナLOCKS!" title="wikilink">サカナLOCKS!</a></p></td>
+<td><p>セカオワLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013.4</p></td>
+<td><p>2014.2</p></td>
+<td><p>Perfume LOCKS!</p></td>
+<td><p>サカナLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014.3</p></td>
+<td><p>BUMP LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014.4</p></td>
+<td><p>アジカンLOCKS!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">サカナLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014.5</p></td>
+<td><p>2014.9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#クリープLOCKS!" title="wikilink">クリープLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014.10</p></td>
+<td><p>2015.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#長渕LOCKS!" title="wikilink">長渕LOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015.4</p></td>
+<td><p>2015.6</p></td>
+<td><p><small>(未確認LOCKS!)</small></p></td>
+<td><p>長渕LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015.7</p></td>
+<td><p>2015.9</p></td>
+<td><p><small>(別番組)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015.10</p></td>
+<td><p>2015.12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#きゃりーLOCKS!" title="wikilink">きゃりーLOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">アレキサンドLOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#ゲスの極みLOCKS!" title="wikilink">ゲスの極みLOCKS!</a></p></td>
+<td><p><small>(別番組)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016.1</p></td>
+<td><p>2016.3</p></td>
+<td><p><small>(生放送授業)</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#KANA-BOON_LOCKS!" title="wikilink">KANA-BOON LOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016.4</p></td>
+<td><p>2016.9</p></td>
+<td><p>KANA-BOON LOCKS!</p></td>
+<td><p>サカナLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016.10</p></td>
+<td><p>2016.12</p></td>
+<td><p>RAD LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017.1</p></td>
+<td><p>2017.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#ブルエンLOCKS!" title="wikilink">ブルエンLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017.4</p></td>
+<td><p>2017.9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">LiSA LOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#ユニゾンLOCKS!" title="wikilink">ユニゾンLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017.10</p></td>
+<td><p>2018.3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">ミセスLOCKS!</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018.4</p></td>
+<td><p>2018.6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#Aqours_LOCKS！" title="wikilink">Aqours LOCKS!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#SHISHAMO_LOCKS！" title="wikilink">SHISHAMO LOCKS！</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018.7</p></td>
+<td><p>2018.9</p></td>
+<td><p><small>(18's PROJECT)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018.10</p></td>
+<td><p>2019.3</p></td>
+<td><p><small>(別授業)</small></p></td>
+<td><p><small>(別番組)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019.4</p></td>
+<td><p>2019.12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">Eve LOCKS!</a></p></td>
+<td><p><small>(UNIVERSITY)</small></p></td>
+<td><p>サカナLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020.1</p></td>
+<td><p><small>(別授業)</small></p></td>
+<td><p>セカオワLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020.2</p></td>
+<td><p>2020.3</p></td>
+<td><p>ブルエンLOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020.4</p></td>
+<td><p>現在</p></td>
+<td><p><small>(生放送授業)</small></p></td>
+<td><p><small>(生放送授業)</small></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">豆柴LOCKS!</a></p></td>
+<td><p>ミセスLOCKS!</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/#現在放送中のもの" title="wikilink">ヒゲダンLOCKS!</a></p></td>
+<td><p>アレキサンドLOCKS!</p></td>
+<td><p>LiSA LOCKS!</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 現在放送中のもの
 
@@ -206,7 +940,7 @@
 
 ### YUI LOCKS\!
 
-  - “「◇◇◇◇」\[3\]の講師”[YUIが担当](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")。
+  - “「◇◇◇◇」\[2\]の講師”[YUIが担当](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")。
   - メイン授業は「紙ヒコーキダイアリー」である。決心の日記を書き、それが実行できたら実現の日記に書く。期間が決まっていないことから「明日こそは〜をたべるぞ！」を始め「絶対〜に合格する！」など様々なものがある。
   - 2006年10月から2007年3月までは[GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink")4週目の時間を担当し、4月から木曜日のレギュラー講師となった。
   - 毎放送の挨拶の際、「こんばんわんこ」など「今晩は」のあとに言葉をつけていた。
@@ -231,7 +965,7 @@
   - 2011年1月18日より、3ヶ月の期間限定でチャボベLOCKS\!と称して、[チャットモンチー](../Page/チャットモンチー.md "wikilink")とBase Ball Bearで合同授業を行っていた。この間、ベボベLOCKS\!は休みの扱いとなった。2011年3月29日まで。
   - チャボベLOCKS\!終了後は、2011年4月5日より、再びベボベLOCKS\!が再開。以後、2014年3月25日まで放送された。
   - [閃光ライオット](https://ja.wikipedia.org/wiki/閃光ライオット "wikilink")にも2013年まで毎年、特別審査員として出演しており、非常にこの番組と結びつきが強かった。そのため、
-  - 最後の放送で、ベボベLOCKS\!のメンバー4人の声はすべてGt.湯浅将平がメンバーの録音音声を[サンプラー](../Page/サンプラー.md "wikilink")で繋ぎ合わせ、放送していたことが明らかとなった。\[4\]
+  - 最後の放送で、ベボベLOCKS\!のメンバー4人の声はすべてGt.湯浅将平がメンバーの録音音声を[サンプラー](../Page/サンプラー.md "wikilink")で繋ぎ合わせ、放送していたことが明らかとなった。\[3\]
 
 ### 長渕LOCKS\!
 
@@ -249,7 +983,7 @@
 #### THE TURTLE JAPAN LOCKS\!
 
   - [THE TURTLES JAPANが担当](https://ja.wikipedia.org/wiki/THE_TURTLES_JAPAN "wikilink")。
-  - **flumpool LOCKS\!のジャック**\[5\]という形でflumpool LOCKS\!の枠で不定期に放送されていた。
+  - **flumpool LOCKS\!のジャック**\[4\]という形でflumpool LOCKS\!の枠で不定期に放送されていた。
   - メインメンバーの[KAMEDA](../Page/亀田誠治.md "wikilink")、[YAMAMURA](https://ja.wikipedia.org/wiki/山村隆太 "wikilink")、[SAKAIが出演していた](https://ja.wikipedia.org/wiki/阪井一生 "wikilink")。
 
 ### クリープLOCKS\!
@@ -282,7 +1016,7 @@
   - 2007年9月25日で「無期休講」という形で終了。
   - 2009年3月11日から5月27日まで、[ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")「一旦休講」に伴い、期間限定で水曜日枠に復活した。ただし、“おかずの講師”ではなく“かずのお講師”として担当。
   - 2011年4月4日から、[BUMP OF CHICKENの休講に伴い](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、期間限定で月曜日枠に復活する。ただし、“かずのお講師”ではなく“おマスの講師”として担当。
-  - 2016年10月5日より、前任の[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")を引き継いで、5年半ぶりに水曜日担当の講師として期間限定で復帰した。ただし、“おマスの講師”ではなくSCHOOL OF LOCK\!の“先先先生”（せんせんせんせい）として担当\[6\]。
+  - 2016年10月5日より、前任の[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")を引き継いで、5年半ぶりに水曜日担当の講師として期間限定で復帰した。ただし、“おマスの講師”ではなくSCHOOL OF LOCK\!の“先先先生”（せんせんせんせい）として担当\[5\]。
 
 ### ブルエンLOCKS\!
 
@@ -293,7 +1027,7 @@
 
   - 「絆の春期講習」として、[2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")から[3月27日](../Page/3月27日.md "wikilink")まで期間限定で担当。
   - 金曜日の22：30頃から約20分間。
-  - 生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作した。\[7\]。制作した曲は、[3月22日](../Page/3月22日.md "wikilink")の[SCHOOL OF LOCK\! キズナ感謝祭](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink") LIVE PARTで披露された。
+  - 生徒からのエピソードを元に"キズナ"をテーマにした楽曲を制作した。\[6\]。制作した曲は、[3月22日](../Page/3月22日.md "wikilink")の[SCHOOL OF LOCK\! キズナ感謝祭](../Page/SCHOOL_OF_LOCK!_キズナ感謝祭.md "wikilink") LIVE PARTで披露された。
 
 ### ユニゾンLOCKS\!
 
@@ -303,7 +1037,7 @@
 ### きゃりーLOCKS\!
 
   - “鍵の遊園地の園長”[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")が担当。
-  - [2015年](../Page/2015年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間放送された\[8\]
+  - [2015年](../Page/2015年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - [2018年](../Page/2018年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、毎月1週目の月～木曜日22：15頃から10分間放送された\[7\]
   - [GIRLS LOCKS！の枠を割いて放送されていたが](../Page/GIRLS_LOCKS!.md "wikilink")、公式サイトは独立している。
 
 ### SHISHAMO LOCKS！
@@ -319,12 +1053,13 @@
 ### セカオワLOCKS！
 
   - “世界始の講師“[SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink") が担当。
-  - [2012年](../Page/2012年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [2020年](../Page/2020年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")\[9\]。
+  - [2011年](../Page/2011年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")から開始。3ヶ月限定で毎週月曜日を担当した。
+  - [2012年](../Page/2012年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")からレギュラー講師に昇格。以降、[2020年](../Page/2020年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで金曜日に開講した\[8\]。
 
 ## 特別出演
 
   - Aqua LOCKS\!（[Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")/2007年5月7日-5月10日）
-  - カンパネラLOCKS\!（[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")/2017年1月30日-2月2日）\[10\]
+  - カンパネラLOCKS\!（[水曜日のカンパネラ](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")/2017年1月30日-2月2日）\[9\]
 
 ## 関連項目
 
@@ -341,13 +1076,12 @@
 
 [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
 
-1.  「[GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink")」等と異なり「ARTIST LOCKS\!」という名称は正式ではなく、公式サイト上では、使われることもあるが、通常は「**LOCKS\!**」とまとめられている。また、後記出典のように『ARTIST』ではなく、「アーティスト」と記載される場合もしばしば見られる。
-2.
-3.  「◇◇◇◇」は効果音。キラキラ・ワクワク・ドキドキ等、「一概に言葉に表すことができない気持ち」を意味する。
-4.  [ベボベLOCKS\!『 最終回 』](http://www.tfm.co.jp/lock/bbb/index.php?itemid=2265&catid=19&catid=19)
+1.
+2.  「◇◇◇◇」は効果音。キラキラ・ワクワク・ドキドキ等、「一概に言葉に表すことができない気持ち」を意味する。
+3.  [ベボベLOCKS\!『 最終回 』](http://www.tfm.co.jp/lock/bbb/index.php?itemid=2265&catid=19&catid=19)
+4.
 5.
 6.
-7.
-8.  開始から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは第4週を担当しており、3月の最終週と4月の第1週は連続放送となった。
-9.  番組自体は[2011年](../Page/2011年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")から開始され、3ヶ月限定で毎週月曜日を担当し一旦は終了したが、2012年4月6日からレギュラー講師に昇格し再開された。
-10. 5週目のGIRLS LOCKS\!の枠を用いて放送。
+7.  開始から[2017年](../Page/2017年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは第4週を担当しており、3月の最終週と4月の第1週は連続放送となった。
+8.  2019年12月までは22:30 - 22:45、2020年1月 - 3月まで23:00 - 23:27に放送。
+9.  5週目のGIRLS LOCKS\!の枠を用いて放送。

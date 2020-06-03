@@ -5,7 +5,7 @@
 
 ## 概要
 
-先行シングル曲として「[JUBILEE](https://ja.wikipedia.org/wiki/JUBILEE_\(くるりの曲\) "wikilink")」がリリースされている。初回限定盤のみ、14トラック目の「ブルー・ラヴァー・ブルー」が追加される。
+先行シングル曲として「[JUBILEE](../Page/JUBILEE_\(くるりの曲\).md "wikilink")」がリリースされている。初回限定盤のみ、14トラック目の「ブルー・ラヴァー・ブルー」が追加される。
 
 [クラシック音楽](../Page/クラシック音楽.md "wikilink")からの影響を前面に押し出したアルバムである。本作のレコーディングは、日本のロックバンドとしては初めて音楽の都、[オーストリア](../Page/オーストリア.md "wikilink")の[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")を中心とした地域で行なわれた（トラックダウンは[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")）。
 
@@ -25,7 +25,7 @@
       - アルバム曲のストリングスのフレーズを繋ぎ合わせて作られた曲。ハイリゲンシュタットはウィーン近郊の地名。[ベートーベンゆかりの地であり](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")、耳が聞こえなくなった際に滞在していた場所で有名。
 2.  **ブレーメン BREMEN**
       - シングルカットする案もあったらしい。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[TOKYO FMのラジオ企画にて](../Page/エフエム東京.md "wikilink")、浜松の高校の卒業生を送る会で吹奏楽部と共に演奏された。その後もよくライブで演奏されている。後に、ベスト盤『[ベスト オブ くるり -TOWER OF MUSIC LOVER 2-](https://ja.wikipedia.org/wiki/ベスト_オブ_くるり_-TOWER_OF_MUSIC_LOVER_2- "wikilink")』に収録された。
-3.  **[ジュビリー JUBILEE](https://ja.wikipedia.org/wiki/JUBILEE_\(くるりの曲\) "wikilink")**
+3.  **[ジュビリー JUBILEE](../Page/JUBILEE_\(くるりの曲\).md "wikilink")**
       - 18thシングル。シングルの「Jubilee gemischt von Dietz」と同じものを収録。[大鵬薬品](https://ja.wikipedia.org/wiki/大鵬薬品 "wikilink")「チオビタ・ドリンク」CMソング。
 4.  **ミリオン・バブルズ・イン・マイ・マインド MILLION BUBBLES IN MY MIND** （作詞:岸田繁 作曲:くるり）
 5.  **アナーキー・イン・ザ・ムジーク ANARCHY IN THE MUSIK**
@@ -40,7 +40,7 @@
 11. **スロウダンス SLOWDANCE**
 12. **ハヴェルカ CAFÉ HAWELKA**
       - 曲中で前作『[NIKKI](../Page/NIKKI.md "wikilink")』収録の「(It's Only) R'n R Workshop\!」から拝借したと思われるフレーズが流れる。
-13. **[言葉はさんかく こころは四角　TRIANGLE](https://ja.wikipedia.org/wiki/言葉はさんかく_こころは四角 "wikilink")**
+13. **[言葉はさんかく こころは四角　TRIANGLE](../Page/言葉はさんかく_こころは四角.md "wikilink")**
       - 19thシングル。映画『[天然コケッコー](../Page/天然コケッコー.md "wikilink")』主題歌。このアルバム発売後にシングルカット。シングルバージョンとはメロディが多少異なるので、厳密にはアルバムバージョンである。
 14. **ブルー・ラヴァー・ブルー BLUE LOVER BLUE**（初回限定盤のみ）
 

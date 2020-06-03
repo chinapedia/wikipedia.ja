@@ -345,7 +345,7 @@ Stuff:ポータブルアイテム</p></td>
 </tr>
 <tr class="even">
 <td><p>銀玉人情商店街</p></td>
-<td><p>商店街をイメージした<a href="https://ja.wikipedia.org/wiki/三洋物産" title="wikilink">三洋物産</a>との共同ラウンジ。歩道ではラジオから音楽が流れるが、一歩「パーラー パチパラ」に入ると<a href="https://ja.wikipedia.org/wiki/軍艦マーチ" title="wikilink">軍艦マーチ</a>が大音量で鳴り響く。店内ではパチパラのソフトを持っていればマッチングも可能。商店街の洋品店では<a href="https://ja.wikipedia.org/wiki/パチンコ" title="wikilink">パチンコ</a>店員の制服や洋品店ぽい服が買えた。パチンコ店内ではアイレムが販売したパチンコソフトソフトが買える。</p></td>
+<td><p>商店街をイメージした<a href="../Page/三洋物産.md" title="wikilink">三洋物産</a>との共同ラウンジ。歩道ではラジオから音楽が流れるが、一歩「パーラー パチパラ」に入ると<a href="https://ja.wikipedia.org/wiki/軍艦マーチ" title="wikilink">軍艦マーチ</a>が大音量で鳴り響く。店内ではパチパラのソフトを持っていればマッチングも可能。商店街の洋品店では<a href="https://ja.wikipedia.org/wiki/パチンコ" title="wikilink">パチンコ</a>店員の制服や洋品店ぽい服が買えた。パチンコ店内ではアイレムが販売したパチンコソフトソフトが買える。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -952,7 +952,7 @@ HomeJapan○○というIDで、イベントのサポート等で運営の係員
 <td><p><strong>バージョン1.21にアップデート</strong>。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009年<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6月2日</a></p></td>
+<td><p>2009年<a href="../Page/6月2日.md" title="wikilink">6月2日</a></p></td>
 <td><p><strong>バージョン1.22にアップデート</strong>。</p></td>
 </tr>
 <tr class="even">

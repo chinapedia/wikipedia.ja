@@ -149,7 +149,7 @@
 
   - [tearbridge productionによる公式サイト](http://tearbridge.com/nangi/)(2011年1月更新停止)
 
-  - [Sony Music Online Japanによるアーティストページ](http://www.sonymusic.co.jp/Music/Arch/ES/nangi/)(2010年9月更新停止)
+  - [Sony Music Online Japanによるアーティストページ](https://www.sonymusic.co.jp/artist/nangi/)(2010年9月更新停止)
 
   - (2013年1月26日更新停止)
 

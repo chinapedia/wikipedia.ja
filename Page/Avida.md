@@ -13,7 +13,7 @@ AvidaとTierraの二つ目の大きな違いは、仮想CPUの実行速度がデ
 
 ## 研究現場にて
 
-アダミとオフリアは互いに協力してAvidaを使用したデジタル生物の研究を行い、彼らの論文のいくつかは*[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")*と*[サイエンス](../Page/サイエンス.md "wikilink")*に掲載された。2003年に*ネイチャー*に掲載された論文"The Evolutionary Origin of Complex Features(高等機能の進化的起源)"では、進化における数学的[等式](../Page/等式.md "wikilink")は少なくとも19の単純だが正確に定義された命令群で表現できると述べている。
+アダミとオフリアは互いに協力してAvidaを使用したデジタル生物の研究を行い、彼らの論文のいくつかは*[ネイチャー](../Page/ネイチャー.md "wikilink")*と*[サイエンス](../Page/サイエンス.md "wikilink")*に掲載された。2003年に*ネイチャー*に掲載された論文"The Evolutionary Origin of Complex Features(高等機能の進化的起源)"では、進化における数学的[等式](../Page/等式.md "wikilink")は少なくとも19の単純だが正確に定義された命令群で表現できると述べている。
 
 ## 関連項目
 

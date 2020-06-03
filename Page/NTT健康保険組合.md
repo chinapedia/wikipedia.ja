@@ -57,7 +57,7 @@
 
 ### [会館](https://ja.wikipedia.org/wiki/会館 "wikilink")
 
-  - [京橋会館](https://ja.wikipedia.org/wiki/京橋_\(東京都中央区\) "wikilink")・ホテル銀座ラフィナート（[東京都](../Page/東京都.md "wikilink")）
+  - [京橋会館](../Page/京橋_\(東京都中央区\).md "wikilink")・ホテル銀座ラフィナート（[東京都](../Page/東京都.md "wikilink")）
   - [アピカルイン京都](https://ja.wikipedia.org/wiki/アピカルイン京都 "wikilink") （[京都府](../Page/京都府.md "wikilink")）
 
 ## 外部リンク

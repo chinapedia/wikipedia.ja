@@ -80,7 +80,7 @@ KPMGという名は略称ではなく、KPMGへと合併した会計事務所を
   - [1979年](../Page/1979年.md "wikilink")　オランダのKKCはドイツのDTG、英国とアメリカのマクリントック・メイン・ラフレンツと合併し、欧州を拠点とする大手ファーム**KMG**（クリンヴェルド・メイン・ゲルデラー、Klynveld Main Goerdeler）となる。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")　欧州のKMGと米国のPMIは合併、現在の**KPMG**が成立した。大手ファーム同士の最初の大型合併となり、以後大手ファーム同士の合併が加速する。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　[プライス・ウォーターハウスとクーパース&ライブランドが合併を発表した影響で](../Page/プライスウォーターハウスクーパース.md "wikilink")、KPMGも[アーンスト・アンド・ヤング](../Page/アーンスト・アンド・ヤング.md "wikilink")との合併を発表。世界最大のファームができるはずだったが、[競争法](https://ja.wikipedia.org/wiki/競争法 "wikilink")に抵触するなどの制約のため取り止めに。
-  - [2000年](../Page/2000年.md "wikilink")　アメリカの[コンサルティング](../Page/コンサルティング.md "wikilink")部門をKPMGコンサルティングとして分社化。翌[2001年](../Page/2001年.md "wikilink")には[ナスダック](https://ja.wikipedia.org/wiki/ナスダック "wikilink")に上場し[株式公開](../Page/株式公開.md "wikilink")により分離した。KPMGコンサルティングは[2002年](../Page/2002年.md "wikilink")に[ベリングポイント](https://ja.wikipedia.org/wiki/ベリングポイント "wikilink")（BearingPoint, Inc.）と名を変えた。
+  - [2000年](../Page/2000年.md "wikilink")　アメリカの[コンサルティング](../Page/コンサルティング.md "wikilink")部門をKPMGコンサルティングとして分社化。翌[2001年](../Page/2001年.md "wikilink")には[ナスダック](https://ja.wikipedia.org/wiki/ナスダック "wikilink")に上場し[株式公開](../Page/株式公開.md "wikilink")により分離した。KPMGコンサルティングは[2002年](../Page/2002年.md "wikilink")に[ベリングポイント](../Page/ベリングポイント.md "wikilink")（BearingPoint, Inc.）と名を変えた。
   - [2003年](../Page/2003年.md "wikilink")　法務部門をクリーガル（Klegal）として分社化。
 
 ## 出身者

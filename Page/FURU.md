@@ -1,7 +1,7 @@
 > この記事は[FURU](https://ja.wikipedia.org/wiki/FURU)から翻訳されています。
 
 
-**FURU** （フル）は、日本の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、ライター。
+**FURU** （フル）は、日本の[漫画家](../Page/漫画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、ライター。
 
 ## 概要
 

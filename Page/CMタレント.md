@@ -24,7 +24,7 @@ CMタレントは固定的な定義は、広告活動のイメージをしてい
   - [深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")（[JR東海](../Page/東海旅客鉄道.md "wikilink")「[ホームタウン・エクスプレス](https://ja.wikipedia.org/wiki/ホームタウン・エクスプレス "wikilink")（クリスマス編）」1988年）
   - [牧瀬里穂](https://ja.wikipedia.org/wiki/牧瀬里穂 "wikilink")（JR東海「[クリスマス・エクスプレス](../Page/クリスマス・エクスプレス.md "wikilink")」1989年）
   - [チャーリー浜](../Page/チャーリー浜.md "wikilink")（[サントリー](../Page/サントリー.md "wikilink")「ポケメシ」1991年）
-  - [加藤幸子](https://ja.wikipedia.org/wiki/加藤幸子_\(モデル\) "wikilink")（[サンヨー食品](../Page/サンヨー食品.md "wikilink")「カップスター・ポーチュガール」1991年）
+  - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")（[サンヨー食品](../Page/サンヨー食品.md "wikilink")「カップスター・ポーチュガール」1991年）
   - [水野美紀](https://ja.wikipedia.org/wiki/水野美紀 "wikilink")（[コーセー](../Page/コーセー.md "wikilink")「ルシェリ」1992年）
   - [小金沢昇司](../Page/小金沢昇司.md "wikilink")（[興和](../Page/興和.md "wikilink")「フィニッシュコーワ」1993年）
   - [遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")（[日本マクドナルド](../Page/日本マクドナルド.md "wikilink")、1995年）

@@ -65,7 +65,11 @@
 </tbody>
 </table>
 
-**IKONOS**（イコノス）は、[1999年](../Page/1999年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SPACEIMAGING](https://ja.wikipedia.org/wiki/SPACEIMAGING "wikilink")社(現[GeoEye](https://ja.wikipedia.org/wiki/GeoEye "wikilink")社)が打ち上げた[リモートセンシング衛星](https://ja.wikipedia.org/wiki/リモートセンシング衛星 "wikilink")。アメリカ政府による[規制緩和](../Page/規制緩和.md "wikilink")により、民間による初の軍事[偵察衛星](../Page/偵察衛星.md "wikilink")技術を利用したサービス。IKONOSは永らくNROの偵察衛星の供給を一手に請け負ってきた[ロッキード・マーチン](https://ja.wikipedia.org/wiki/ロッキード・マーチン "wikilink")の設計であり、必要な箇所を的確に撮影できることで有名である。 世界各所にROCと呼ばれる撮影指示兼受信局を持つ。日本では、[日本スペースイメージング株式会社](https://ja.wikipedia.org/wiki/日本スペースイメージング株式会社 "wikilink")が業務を行っている。
+**IKONOS**（イコノス）は、[1999年](../Page/1999年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[SPACEIMAGING](https://ja.wikipedia.org/wiki/SPACEIMAGING "wikilink")社(現[GeoEye](https://ja.wikipedia.org/wiki/GeoEye "wikilink")社)が打ち上げた[リモートセンシング衛星](https://ja.wikipedia.org/wiki/リモートセンシング衛星 "wikilink")。
+
+## 概要
+
+アメリカ政府による[規制緩和](../Page/規制緩和.md "wikilink")により、民間による初の軍事[偵察衛星](../Page/偵察衛星.md "wikilink")技術を利用したサービス。IKONOSは永らくNROの偵察衛星の供給を一手に請け負ってきた[ロッキード・マーチン](https://ja.wikipedia.org/wiki/ロッキード・マーチン "wikilink")の設計であり、必要な箇所を的確に撮影できることで有名である。 世界各所にROCと呼ばれる撮影指示兼受信局を持つ。日本では、[日本スペースイメージング株式会社](https://ja.wikipedia.org/wiki/日本スペースイメージング株式会社 "wikilink")が業務を行っている。
 
 [2000年](../Page/2000年.md "wikilink")1月よりサービスを開始している。 IKONOSの後継衛星も当初想定されていたがブッシュ政権成立による軍需の変化によって、ロッキードマーチン社がこの分野から撤退したため、米国政府の次世代衛星開発支援を受けられず、経営危機に直面、結果、2005年SPACEIMAGING社はORBIMAGE社に買収された。2006年、ORBIMAGE社は、GeoEye社に社名を変更した。2009年、GeoEye社の次期衛星[GeoEye-1](https://ja.wikipedia.org/wiki/GeoEye-1 "wikilink")が無事サービスを開始、よって。
 

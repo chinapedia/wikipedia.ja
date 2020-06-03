@@ -1,7 +1,7 @@
 > この記事は[STYLE 〜get glory in this hand〜](https://ja.wikipedia.org/wiki/STYLE_〜get_glory_in_this_hand〜)から翻訳されています。
 
 
-「**STYLE 〜get glory in this hand〜**」（スタイル　ゲット･グローリー･イン･ディス･ハンド）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")5枚目のシングルである。
+「**STYLE 〜get glory in this hand〜**」（スタイル　ゲット･グローリー･イン･ディス･ハンド）は、[HIGH and MIGHTY COLORの](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")5枚目のシングルである。
 
 ## 解説
 
@@ -21,12 +21,12 @@
 
 <!-- end list -->
 
-  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")(ALL)
+  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")(ALL)
 
 ## 収録アルバム
 
   - [傲音プログレッシヴ](../Page/傲音プログレッシヴ.md "wikilink") (\#1)
-  - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
+  - [10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink") (\#1)
   - [BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink") (\#2)
 
 ## 関連項目

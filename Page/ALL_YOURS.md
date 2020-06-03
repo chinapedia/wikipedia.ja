@@ -18,7 +18,7 @@
       - [ITOEN](../Page/伊藤園.md "wikilink") [TULLY'S COFFEEバリスタズスペシャルCMソング](../Page/タリーズコーヒー.md "wikilink")、本人もこのCMに出演。
 3.  **Anytime**
       - 作詞：CRYSTAL KAY, H.U.B.／作曲：CRYSTAL KAY, [河野伸](../Page/河野伸.md "wikilink")／PRODUCED BY 河野伸
-4.  **[あなたのそばで](https://ja.wikipedia.org/wiki/あなたのそばで "wikilink")**
+4.  **[あなたのそばで](../Page/あなたのそばで.md "wikilink")**
       - 作詞：EMI NISHIDA／作曲：TAISHI FUKUYAMA, HARUKO OHINATA／PRODUCED BY 河野伸
       - 先行シングル
       - [メナードフェイシャルサロンCMソング](../Page/日本メナード化粧品.md "wikilink")。

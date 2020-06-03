@@ -1,12 +1,10 @@
 > この記事は[TAKE ME HIGHER](https://ja.wikipedia.org/wiki/TAKE_ME_HIGHER)から翻訳されています。
 
 
-本項目における「**TAKE ME HIGHER**」（テイク・ミー・ハイヤー）は
+本項目における「**TAKE ME HIGHER**」（テイク・ミー・ハイヤー）とは、[ユーロビート](../Page/ユーロビート.md "wikilink")ミュージシャンである[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")が制作した楽曲、またはその曲を収録したCDのタイトルである。
 
 1.  [1996年](../Page/1996年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に発売された[V6の](../Page/V6_\(グループ\).md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")、及びその楽曲。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
-2.  同曲をプロデュースをした[ユーロビート](../Page/ユーロビート.md "wikilink")ミュージシャン、[デイブ・ロジャース](../Page/デイブ・ロジャース.md "wikilink")が1997年にセルフカバーを行った曲。
-
-である。
+2.  デイブ自身が1997年にセルフカバーを行った曲。
 
 ## V6版
 
@@ -23,12 +21,10 @@ V6全員で担当する初のドラマタイアップでもあり、ウルトラ
 ### 収録曲
 
 1.  **TAKE ME HIGHER**
-      - 作詞：鈴木計見、作曲：[Giancarlo Pasquini](../Page/デイブ・ロジャース.md "wikilink")-[Jennifer Batten](../Page/ジェニファー・バトゥン.md "wikilink")-Alberto Contini、編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、ストリングス・アレンジ：[萩田光雄](../Page/萩田光雄.md "wikilink")、コーラス・アレンジ：鈴木弘明
-    <!-- end list -->
       -
+        作詞：鈴木計見、作曲：[Giancarlo Pasquini](../Page/デイブ・ロジャース.md "wikilink")-[Jennifer Batten](../Page/ジェニファー・バトゥン.md "wikilink")-Alberto Contini、編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、ストリングス・アレンジ：[萩田光雄](../Page/萩田光雄.md "wikilink")、コーラス・アレンジ：鈴木弘明
         『[ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")』のオープニングテーマとして使用され、主演した[長野博](../Page/長野博.md "wikilink")は後に「1年間テレビで流してもらえてありがたく思っている」と語っている\[1\]。
         [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の主題歌アルバムでは、レコード会社間の権利問題から、[前田達也](../Page/前田達也.md "wikilink")・[石原慎一](../Page/石原慎一.md "wikilink")・[風雅なおと](../Page/風雅なおと.md "wikilink")（[コロムビア](../Page/日本コロムビア.md "wikilink")、編曲：[米光亮](../Page/米光亮.md "wikilink")）やTREE BOYS（[EMI](../Page/EMIミュージック・ジャパン.md "wikilink")、編曲：山中紀昌）によるカヴァー版が収録されていた。2002年以降のコロムビアのアルバムではこの問題は解消され、V6のバージョンが収録されるようになったが、その後再びV6のバージョンが収録されないケースが発生している\[2\]。しかし直近に出されたアルバムでは、V6のバージョンが収録されているケースが多い\[3\]。
-        ソロパートは存在せず、曲全体を通じ全員で歌っている。
 2.  **スキさ すっきゃねん** - Coming Century
       - 作詞：[Coming Century](../Page/V6_\(グループ\).md "wikilink")&永岡昌憲、作曲/編曲：星野靖彦
 3.  TAKE ME HIGHER（カラオケ）

@@ -33,7 +33,7 @@
   - [アイドル・ファイト スーチーパイII](../Page/アイドル雀士スーチーパイ.md "wikilink")
   - [アイドルプロジェクト](../Page/アイドルプロジェクト.md "wikilink")
   - [アイドル防衛隊ハミングバード](../Page/アイドル防衛隊ハミングバード.md "wikilink")'' - 葦プロ''
-  - [THE IDOLM@STER LIVE FOR YOU\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")
+  - [THE IDOLM@STER LIVE FOR YOU\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")
   - [間の楔](https://ja.wikipedia.org/wiki/間の楔 "wikilink")
       - 間の楔 完結編
       - 間の楔（第2期OVA）
@@ -133,7 +133,7 @@
   - [Wind -a breath of heart-](../Page/Wind_-a_breath_of_heart-.md "wikilink")'' - ヴェネット''
   - [ウェディングピーチDX](../Page/ウェディングピーチDX.md "wikilink")
   - [ウォナビーズ](../Page/ウォナビーズ.md "wikilink")
-  - [うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink")
+  - [うしおととら](../Page/うしおととら.md "wikilink")
       - うしおととら　コミカル・デフォルメ劇場
   - [うしろの百太郎](../Page/うしろの百太郎.md "wikilink")
   - [ウダウダやってるヒマはねェ\!](https://ja.wikipedia.org/wiki/ウダウダやってるヒマはねェ! "wikilink")
@@ -180,7 +180,7 @@
   - [NG騎士ラムネ&40 ビクビクトライアングル 愛の嵐大作戦](../Page/NG騎士ラムネ&40.md "wikilink")EX
       - NG騎士ラムネ&40 DX ワクワク時空 炎の大捜査戦
       - [VS騎士ラムネ&40FRESH](https://ja.wikipedia.org/wiki/VS騎士ラムネ&40炎#VS騎士ラムネ&40FRESH "wikilink")
-  - [エフィカス この想いを君に…](https://ja.wikipedia.org/wiki/エフィカス_この想いを君に… "wikilink")
+  - [エフィカス この想いを君に…](../Page/エフィカス_この想いを君に….md "wikilink")
   - [エリア88](../Page/エリア88.md "wikilink")
   - [エリアル SCEBAI最大の危機](../Page/ARIEL.md "wikilink")
       - DELUXE ARIEL
@@ -347,7 +347,7 @@
   - [今日からマ王\! R](https://ja.wikipedia.org/wiki/まるマシリーズ#OVA "wikilink")*- スタジオディーン*
   - [今日、恋をはじめます](https://ja.wikipedia.org/wiki/今日、恋をはじめます "wikilink")
   - [強殖装甲ガイバー](../Page/強殖装甲ガイバー.md "wikilink")
-  - [今日の5の2](https://ja.wikipedia.org/wiki/今日の5の2 "wikilink")
+  - [今日の5の2](../Page/今日の5の2.md "wikilink")
       - 今日の5の2 放課後
   - [恐怖新聞](../Page/恐怖新聞.md "wikilink")
   - [恐怖のバイオ人間 最終教師](../Page/最終教師.md "wikilink")
@@ -855,9 +855,9 @@
   - [ミルキィパッション](../Page/ミルキィパッション.md "wikilink")　道玄坂・愛の城
   - [True Love Story Summer Days, and yet...](../Page/トゥルー・ラブストーリー.md "wikilink")'' - ピクチャーマジック、A-Line''
   - [TO-Y](../Page/TO-Y.md "wikilink")
-  - [遠山桜宇宙帖 奴の名はゴールド](https://ja.wikipedia.org/wiki/遠山桜宇宙帖_奴の名はゴールド "wikilink")'' - 東映動画''
+  - [遠山桜宇宙帖 奴の名はゴールド](../Page/遠山桜宇宙帖_奴の名はゴールド.md "wikilink")'' - 東映動画''
   - [朱鷺色怪魔](https://ja.wikipedia.org/wiki/朱鷺色怪魔 "wikilink")
-  - [刻の大地 ～花の王国の魔女～](https://ja.wikipedia.org/wiki/刻の大地 "wikilink")
+  - [刻の大地 ～花の王国の魔女～](../Page/刻の大地.md "wikilink")
   - [ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")
   - [ときめきメモリアル4 ORIGINAL ANIMATION -始まりのファインダー-](https://ja.wikipedia.org/wiki/ときめきメモリアル4#OVA "wikilink")
   - [独身アパートどくだみ荘](https://ja.wikipedia.org/wiki/独身アパートどくだみ荘 "wikilink")
@@ -879,7 +879,7 @@
   - [トップをねらえ\!](../Page/トップをねらえ!.md "wikilink")'' - GAINAX''
       - [トップをねらえ2\!](../Page/トップをねらえ2!.md "wikilink")'' - GAINAX''
   - [となりの801ちゃん](../Page/となりの801ちゃん.md "wikilink")R
-  - [殿といっしょ](https://ja.wikipedia.org/wiki/殿といっしょ "wikilink")
+  - [殿といっしょ](../Page/殿といっしょ.md "wikilink")
   - [ドミニオン](../Page/ドミニオン_\(漫画\).md "wikilink")
       - 特捜戦車隊ドミニオン
       - 警察戦車隊 TANK S.W.A.T.
@@ -1073,7 +1073,7 @@
       - [宇宙船製造法](https://ja.wikipedia.org/wiki/宇宙船製造法 "wikilink")／[ひとりぼっちの宇宙戦争](../Page/ひとりぼっちの宇宙戦争.md "wikilink")
       - [ポストの中の明日](../Page/ポストの中の明日.md "wikilink")／[ニューイヤー星調査行](../Page/ニューイヤー星調査行.md "wikilink")
       - [ミノタウロスの皿](../Page/ミノタウロスの皿.md "wikilink")／[ウルトラ・スーパー・デラックスマン](../Page/ウルトラ・スーパー・デラックスマン.md "wikilink")
-      - [みどりの守り神](https://ja.wikipedia.org/wiki/みどりの守り神 "wikilink")／[プチシアター・絶滅の島](../Page/絶滅の島.md "wikilink")
+      - [みどりの守り神](../Page/みどりの守り神.md "wikilink")／[プチシアター・絶滅の島](../Page/絶滅の島.md "wikilink")
       - [おれ、夕子](../Page/おれ、夕子.md "wikilink")／[プチシアター・幸運児](https://ja.wikipedia.org/wiki/幸運児 "wikilink")
       - [カンビュセスの籤](https://ja.wikipedia.org/wiki/カンビュセスの籤 "wikilink")
   - [ふたりエッチ](../Page/ふたりエッチ.md "wikilink")
@@ -1106,7 +1106,7 @@
       - プロジェクトA子3 シンデレララプソディ
       - プロジェクトA子完結篇
       - A-Ko The VS
-  - [プロローグ・オブ・BLAME\!](https://ja.wikipedia.org/wiki/BLAME! "wikilink")
+  - [プロローグ・オブ・BLAME\!](../Page/BLAME!.md "wikilink")
   - [冥王計画ゼオライマー](https://ja.wikipedia.org/wiki/冥王計画ゼオライマー_\(OVA\) "wikilink")'' - AIC''
   - [BRONZE KOJI NANJO cathexis](https://ja.wikipedia.org/wiki/BRONZE_KOJI_NANJO_cathexis "wikilink")
 
@@ -1166,7 +1166,7 @@
       - 舞-乙HiME Zwei'' - サンライズ''
       - 舞-乙HiME 0〜S.ifr〜'' - サンライズ''
   - [魔界転生 地獄篇](../Page/魔界転生.md "wikilink")
-  - [魔界都市〈新宿〉](https://ja.wikipedia.org/wiki/魔界都市〈新宿〉 "wikilink")'' - マッドハウス''
+  - [魔界都市〈新宿〉](../Page/魔界都市〈新宿〉.md "wikilink")'' - マッドハウス''
   - [まかせてイルか\!](../Page/まかせてイルか!.md "wikilink")'' - 自主制作''
   - [魔狩人 デーモンハンター](https://ja.wikipedia.org/wiki/魔狩人_デーモンハンター "wikilink")
   - [魔宮戦場](https://ja.wikipedia.org/wiki/魔宮戦場 "wikilink")

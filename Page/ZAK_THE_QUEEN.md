@@ -86,4 +86,4 @@
   - [ZAK THE QUEEN 2004](https://www.zakzak.co.jp/Queen2004/backnumber.html)
 
   -
-[Category:グラビアアイドル](https://ja.wikipedia.org/wiki/Category:グラビアアイドル "wikilink") [Category:日本の美人コンテスト](https://ja.wikipedia.org/wiki/Category:日本の美人コンテスト "wikilink") [Category:産経新聞](https://ja.wikipedia.org/wiki/Category:産経新聞 "wikilink")
+[Category:グラビアアイドル](https://ja.wikipedia.org/wiki/Category:グラビアアイドル "wikilink") [Category:日本の美人コンテスト](https://ja.wikipedia.org/wiki/Category:日本の美人コンテスト "wikilink") [Category:産経新聞社のイベント](https://ja.wikipedia.org/wiki/Category:産経新聞社のイベント "wikilink")

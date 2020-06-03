@@ -12,12 +12,11 @@
 ## 収録曲
 
 1.  **BEAT YOUR HEART**
-      - 作詞：[MOTSU](https://ja.wikipedia.org/wiki/MOTSU "wikilink")・[平井森太郎](https://ja.wikipedia.org/wiki/平井森太郎 "wikilink")、作曲：[Giancarlo Pasquini](../Page/デイブ・ロジャース.md "wikilink")・[Fausto Vargus Guio](https://ja.wikipedia.org/wiki/Fausto_Vargus_Guio "wikilink")・[Alberto Contini](https://ja.wikipedia.org/wiki/Alberto_Contini "wikilink")・[Sandro Olivia](https://ja.wikipedia.org/wiki/Sandro_Olivia "wikilink")、編曲：[Dave Rodgers](../Page/デイブ・ロジャース.md "wikilink")- Alberto Contini
-    <!-- end list -->
       -
-        メンバー全員にソロパートがあり、メンバーが交互にラップをしている。
+        作詞：[MOTSU](https://ja.wikipedia.org/wiki/MOTSU "wikilink")・[平井森太郎](https://ja.wikipedia.org/wiki/平井森太郎 "wikilink")、作曲：[Giancarlo Pasquini](../Page/デイブ・ロジャース.md "wikilink")・[Fausto Vargus Guio](https://ja.wikipedia.org/wiki/Fausto_Vargus_Guio "wikilink")・[Alberto Contini](https://ja.wikipedia.org/wiki/Alberto_Contini "wikilink")・[Sandro Olivia](https://ja.wikipedia.org/wiki/Sandro_Olivia "wikilink")、編曲：[Dave Rodgers](../Page/デイブ・ロジャース.md "wikilink")- Alberto Contini
 2.  **STAY GOLD** - Coming Century
-      - 作詞：[只野菜摘](https://ja.wikipedia.org/wiki/只野菜摘 "wikilink")、作曲：[はたけ](../Page/はたけ.md "wikilink")、編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")
+      -
+        作詞：[只野菜摘](https://ja.wikipedia.org/wiki/只野菜摘 "wikilink")、作曲：[はたけ](../Page/はたけ.md "wikilink")、編曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")
 3.  BEAT YOUR HEART（カラオケ）
 4.  STAY GOLD（カラオケ）
 

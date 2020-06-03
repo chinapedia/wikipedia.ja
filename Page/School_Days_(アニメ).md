@@ -44,7 +44,7 @@
   - 編集 - 櫻井崇
   - 音響監督 - [蝦名恭範](../Page/蝦名恭範.md "wikilink")
   - 音楽 - [大久保薫](https://ja.wikipedia.org/wiki/大久保薫 "wikilink")
-  - プロデューサー - [伊藤誠](https://ja.wikipedia.org/wiki/伊藤誠_\(プロデューサー\) "wikilink")、後藤政則、小池克実
+  - プロデューサー - [伊藤誠](../Page/伊藤誠_\(プロデューサー\).md "wikilink")、後藤政則、小池克実
   - アニメーション制作 - [ティー・エヌ・ケー](../Page/ティー・エヌ・ケー.md "wikilink")
   - 製作 - School Days製作委員会（[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")、[エイベックス・エンタテインメント](https://ja.wikipedia.org/wiki/avex_entertainment "wikilink")、[ランティス](../Page/ランティス.md "wikilink")、[ポニーキャニオンエンタープライズ](../Page/ポニーキャニオンエンタープライズ.md "wikilink")）
 
@@ -322,7 +322,7 @@
 
 最終話（第12話）は公式な発表こそ行われなかったものの、最速局の[tvkでの放送日である](../Page/テレビ神奈川.md "wikilink")2007年9月18日深夜（9月19日未明）の前日に当たる9月18日未明に発生した[京田辺警察官殺害事件](../Page/京田辺警察官殺害事件.md "wikilink")の影響により地上波の全局で放送が休止され、そのまま実質上の[打ち切り](../Page/打ち切り.md "wikilink")となった。その際、[マスコミにも大きく取り上げられた](../Page/マスメディア.md "wikilink")\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]ため、その内容が話題となった。
 
-tvkでは最終話の差し替え番組として[紀行番組](../Page/紀行番組.md "wikilink")が放送された\[16\]が、その中で[ソグネ・フィヨルド](https://ja.wikipedia.org/wiki/ソグネ・フィヨルド "wikilink")を航行していた[フェリー](../Page/フェリー.md "wikilink")の[キャプチャ](https://ja.wikipedia.org/wiki/キャプチャ "wikilink")画像が英語圏の[匿名掲示板](../Page/匿名掲示板.md "wikilink")「[4chan](../Page/4chan.md "wikilink")」へ投稿されて「**Nice boat.**」というコメントが付いたことが話題となり\[17\]、[Yahoo\! JAPANの](../Page/Yahoo!_JAPAN.md "wikilink")[時事ワードランキング](../Page/時事問題.md "wikilink")（2007年[9月13日](../Page/9月13日.md "wikilink") - [9月23日](../Page/9月23日.md "wikilink")）で第10位\[18\]に、[未来検索ブラジル](https://ja.wikipedia.org/wiki/未来検索ブラジル "wikilink")の『[ネット流行語大賞 2007](https://ja.wikipedia.org/wiki/ネット流行語大賞 "wikilink")』（2007年[12月14日](../Page/12月14日.md "wikilink")）で第5位\[19\]にそれぞれランキングされた。これを受け、オーバーフローは2007年冬の[コミックマーケット](../Page/コミックマーケット.md "wikilink")（以後、「コミケ」と表記）73で、「Nice boat.」を自社ブース名として使用している\[20\]。なお、その際には自社ブースでごとうじゅんじによる18禁[同人誌](../Page/同人誌.md "wikilink")『無料配布Days』が商品購入者へ先着順で無料配布された。詳細は[School Days\#備考を参照](https://ja.wikipedia.org/wiki/School_Days#備考 "wikilink")。
+tvkでは最終話の差し替え番組として[紀行番組](../Page/紀行番組.md "wikilink")が放送された\[16\]が、その中で[ソグネ・フィヨルド](https://ja.wikipedia.org/wiki/ソグネ・フィヨルド "wikilink")を航行していた[フェリー](../Page/フェリー.md "wikilink")の[キャプチャ](https://ja.wikipedia.org/wiki/キャプチャ "wikilink")画像が英語圏の[匿名掲示板](../Page/匿名掲示板.md "wikilink")「[4chan](../Page/4chan.md "wikilink")」へ投稿されて「**Nice boat.**」というコメントが付いたことが話題となり\[17\]、[Yahoo\! JAPANの](../Page/Yahoo!_JAPAN.md "wikilink")[時事ワードランキング](../Page/時事問題.md "wikilink")（2007年[9月13日](../Page/9月13日.md "wikilink") - [9月23日](../Page/9月23日.md "wikilink")）で第10位\[18\]に、[未来検索ブラジル](https://ja.wikipedia.org/wiki/未来検索ブラジル "wikilink")の『[ネット流行語大賞 2007](../Page/ネット流行語大賞.md "wikilink")』（2007年[12月14日](../Page/12月14日.md "wikilink")）で第5位\[19\]にそれぞれランキングされた。これを受け、オーバーフローは2007年冬の[コミックマーケット](../Page/コミックマーケット.md "wikilink")（以後、「コミケ」と表記）73で、「Nice boat.」を自社ブース名として使用している\[20\]。なお、その際には自社ブースでごとうじゅんじによる18禁[同人誌](../Page/同人誌.md "wikilink")『無料配布Days』が商品購入者へ先着順で無料配布された。詳細は[School Days\#備考を参照](https://ja.wikipedia.org/wiki/School_Days#備考 "wikilink")。
 
 地上波の1週間遅れで放送中だったAT-Xでは、朝帯や昼帯の放送分は第11話の[再放送](../Page/再放送.md "wikilink")へ差し替えられたうえ、夜間帯のみの放送となった\[21\]。また、同日には[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")でオーバーフロー主催の[試写会](https://ja.wikipedia.org/wiki/試写会 "wikilink")も行われた。これには当初、「**未開封**の『[School Days](../Page/School_Days.md "wikilink")』か『[Summer Days](../Page/Summer_Days.md "wikilink")』を持参する」という参加条件が告知されていたが、参加希望者やファンから批判の声が相次いだため、「開封済商品持参でも参加可能」と変更された\[22\]\[23\]。
 
@@ -418,7 +418,7 @@ tvkでは最終話の差し替え番組として[紀行番組](../Page/紀行番
 
 :\* [rino](https://ja.wikipedia.org/wiki/rino "wikilink") ([CooRie](../Page/CooRie.md "wikilink"))（TVアニメ版エンディングテーマ担当）・（\#31、\#32）
 
-:\* [伊藤誠](https://ja.wikipedia.org/wiki/伊藤誠_\(プロデューサー\) "wikilink")（プロデューサー）・（\#39（\#33ではメールが紹介された））
+:\* [伊藤誠](../Page/伊藤誠_\(プロデューサー\).md "wikilink")（プロデューサー）・（\#39（\#33ではメールが紹介された））
 
   -
 

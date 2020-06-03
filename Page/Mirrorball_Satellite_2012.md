@@ -7,7 +7,7 @@
 
 ジャケット写真は3人ともアフロ姿で[1970年代](../Page/1970年代.md "wikilink")のディスコを思わせるような写真になっている。PVもアフロ姿である。
 
-カップリングの「too much sense」は[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")のみのソロ曲でHIP-HOPな曲になっている。 また「Mirroball Satellite 2012」「too much sense」ともにリミックスが収録されている。
+カップリングの「too much sense」は[VERBAL](../Page/VERBAL.md "wikilink")のみのソロ曲でHIP-HOPな曲になっている。 また「Mirroball Satellite 2012」「too much sense」ともにリミックスが収録されている。
 
 さらに、[the tripod e.p.に収録されている](https://ja.wikipedia.org/wiki/the_tripod_e.p. "wikilink")「flo jack」の英語版「theme from flo jack」も収録。
 

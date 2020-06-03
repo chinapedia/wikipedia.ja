@@ -17,7 +17,6 @@
       -
         作詞：[菊池一仁](../Page/菊池一仁.md "wikilink")・[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：菊池一仁、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
         46thシングル「[Beautiful World](https://ja.wikipedia.org/wiki/Beautiful_World_\(V6の曲\) "wikilink")」カップリング「**by your side**」はこの曲のアンサーソングである。
-        CD音源ではメンバーのソロパートはないものの、歌番組やライブバージョンでは坂本、井ノ原、森田にソロパートがある。
 2.  **OPEN THE GATE** - 20th Century
       -
         作詞：[山本成美](https://ja.wikipedia.org/wiki/山本成美 "wikilink")、作曲：[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")・[小西貴雄](../Page/小西貴雄.md "wikilink")、編曲：小西貴雄

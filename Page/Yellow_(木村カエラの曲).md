@@ -31,4 +31,4 @@
   - [5years](https://ja.wikipedia.org/wiki/5years "wikilink") (\#1)
   - [10years](https://ja.wikipedia.org/wiki/10years "wikilink") (\#1)
 
-[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

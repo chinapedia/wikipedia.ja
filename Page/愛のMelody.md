@@ -12,7 +12,6 @@
 1.  **愛のMelody**
       -
         作詞・作曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink") / 編曲：[武藤良明](https://ja.wikipedia.org/wiki/武藤良明 "wikilink")
-        坂本、井ノ原にソロパートがある。
 2.  **Remember**
       -
         作詞・作曲・編曲：[TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")

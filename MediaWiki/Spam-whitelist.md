@@ -41,6 +41,7 @@
     \bishiwatarishintaro55\.blog113\.fc2\.com\b #石渡伸太郎
     \bjabf0\.blog\.fc2\.com\b #日本ボクシング連盟 [[Special:Diff/69436637|Special:Diff/69436637]]
     \bkaeru6262\.blog94\.fc2\.com\b #田辺青蛙 [[Special:Diff/56745789|Special:Diff/56745789]]
+    \bkanagawa2010\.blog6\.fc2\.com\b #横浜ビー・コルセアーズ [[Special:Diff/77356040|Special:Diff/77356040]]
     \bkataoka53\.blog\.fc2\.com\b #東陽片岡 [[Special:Diff/67915729|Special:Diff/67915729]]
     \bkazami930\.blog\.fc2\.com\b #長澤風海
     \bkingkazu0217\.blog\.fc2\.com\b #吉澤一彦 [[Special:Diff/55005181|Special:Diff/55005181]]

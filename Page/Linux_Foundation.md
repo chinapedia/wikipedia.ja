@@ -1,7 +1,7 @@
 > この記事は[Linux Foundation](https://ja.wikipedia.org/wiki/Linux_Foundation)から翻訳されています。
 
 
-**Linux Foundation**（リナックスファウンデーション、略称：**LF**）は、2000年に設立された[非営利の技術](../Page/非営利団体.md "wikilink")[コンソーシアム](../Page/コンソーシアム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、[Open Source Development Labs](../Page/Open_Source_Development_Labs.md "wikilink") と [Free Standards Group](https://ja.wikipedia.org/wiki/Free_Standards_Group "wikilink") が合併することが公式発表され、Linux Foundationが発足した。組織としての目的は「クローズドなプラットフォームと対抗するための様々なサービスを提供することで[Linux](../Page/Linux.md "wikilink")の成長を促進する」ことである\[1\]。2016年2月から[ブロックチェーン](https://ja.wikipedia.org/wiki/ブロックチェーン "wikilink")を開発するハイパーレッジャー・プロジェクトを主導している。
+**Linux Foundation**（リナックスファウンデーション、略称：**LF**）は、2000年に設立された[非営利の技術](../Page/非営利団体.md "wikilink")[コンソーシアム](../Page/コンソーシアム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、[Open Source Development Labs](../Page/Open_Source_Development_Labs.md "wikilink") と [Free Standards Group](../Page/Free_Standards_Group.md "wikilink") が合併することが公式発表され、Linux Foundationが発足した。組織としての目的は「クローズドなプラットフォームと対抗するための様々なサービスを提供することで[Linux](../Page/Linux.md "wikilink")の成長を促進する」ことである\[1\]。2016年2月から[ブロックチェーン](https://ja.wikipedia.org/wiki/ブロックチェーン "wikilink")を開発するハイパーレッジャー・プロジェクトを主導している。
 
 ## 目的
 

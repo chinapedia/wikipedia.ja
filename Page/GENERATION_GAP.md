@@ -14,7 +14,6 @@
 1.  **GENERATION GAP**
       -
         作詞：[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")、作曲：[藤井尚之](../Page/藤井尚之.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
-        坂本と井ノ原にソロパートがある。
 2.  **EXIT** - Coming Century
       -
         作詞：[六ツ見純代](https://ja.wikipedia.org/wiki/六ツ見純代 "wikilink")、作曲：[星野靖彦](https://ja.wikipedia.org/wiki/星野靖彦 "wikilink")、編曲：[小西貴雄](../Page/小西貴雄.md "wikilink")

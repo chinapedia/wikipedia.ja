@@ -199,7 +199,7 @@ WPCL-11198:通常盤</p></td>
       - [瘋癲](../Page/瘋癲_\(バンド\).md "wikilink")『FREE』収録
   - セイルアウェイ / [YA-KYIM](../Page/YA-KYIM.md "wikilink") respects PES(RIP SLYME) (2009年8月19日)
       - YA-KYIM『HAPPY\!ENJOY\!FRESH\!』収録
-  - BEAT SURF feat. PES, [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") (2010年6月16日)
+  - BEAT SURF feat. PES, [VERBAL](../Page/VERBAL.md "wikilink") (2010年6月16日)
       - Dragon Ash『AMBITIOUS』収録
   - Last Vacation feat. RYO-Z,PES (from RIP SLYME) & [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink") (2010年7月21日)
       - [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")『SOMETHING WONDERFUL』収録

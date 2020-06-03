@@ -102,7 +102,7 @@ QR20系は[SRエンジン](../Page/日産・SRエンジン.md "wikilink")、QR25
 
 型式こそ違うが（ルノー＆ルノーサムスン呼称は**「2TR」**）、同エンジンのリファイン版が以下の2車種(実質的には1車種)にも搭載されている。
 
-  - [ルノーサムスン・QM5](https://ja.wikipedia.org/wiki/ルノーサムスン・QM5 "wikilink")・[QM6](https://ja.wikipedia.org/wiki/ルノーサムスン・QM6 "wikilink")/[ルノー・コレオス](https://ja.wikipedia.org/wiki/ルノー・コレオス "wikilink")(基本的に同一)
+  - [ルノーサムスン・QM5](../Page/ルノーサムスン・QM5.md "wikilink")・[QM6](https://ja.wikipedia.org/wiki/ルノーサムスン・QM6 "wikilink")/[ルノー・コレオス](https://ja.wikipedia.org/wiki/ルノー・コレオス "wikilink")(基本的に同一)
 
 ## 関連項目
 

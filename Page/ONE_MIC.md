@@ -27,7 +27,7 @@
 4.  One Love Feat.[清水翔太](../Page/清水翔太.md "wikilink")
       -
         Produced by [813](https://ja.wikipedia.org/wiki/813_\(ユニット\) "wikilink")（[DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink") / Shingo.S）
-5.  Turn It Up feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), [LITTLE](../Page/LITTLE.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
+5.  Turn It Up feat.[VERBAL](../Page/VERBAL.md "wikilink"), [LITTLE](../Page/LITTLE.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")
       -
         Produced by [BUZZER BEATS](https://ja.wikipedia.org/wiki/BUZZER_BEATS "wikilink")
 6.  童子兄さん

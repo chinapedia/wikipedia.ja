@@ -43,7 +43,7 @@
 
 ## 外部リンク
 
-  - [NHKオンライン](http://www.nhk.or.jp/)
+  - [NHKオンライン](https://www.nhk.or.jp/)
 
 [Category:NHK_BS1の帯番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1の帯番組 "wikilink") [Category:NHK_BS1のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK_BS1のニュース・報道番組の歴史 "wikilink") [Category:NHK_BSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:NHK_BSのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:MLB関連のメディア](https://ja.wikipedia.org/wiki/Category:MLB関連のメディア "wikilink")
 

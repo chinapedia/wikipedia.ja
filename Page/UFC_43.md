@@ -1,7 +1,7 @@
 > この記事は[UFC 43](https://ja.wikipedia.org/wiki/UFC_43)から翻訳されています。
 
 
-**UFC 43: Meltdown**（ユーエフシー・フォーティスリー：メルトダウン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2003年](../Page/2003年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[トーマス&マック・センター](https://ja.wikipedia.org/wiki/トーマス&マック・センター "wikilink")で開催された。
+**UFC 43: Meltdown**（ユーエフシー・フォーティスリー：メルトダウン）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2003年](../Page/2003年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[トーマス&マック・センター](../Page/トーマス&マック・センター.md "wikilink")で開催された。
 
 UFC世界ライトヘビー級王者[ティト・オーティズ](../Page/ティト・オーティズ.md "wikilink")が防衛戦を行えないことから、メインイベントでは[ランディ・クートゥア](../Page/ランディ・クートゥア.md "wikilink")と[チャック・リデル](../Page/チャック・リデル.md "wikilink")による暫定王座決定戦が行われた。
 

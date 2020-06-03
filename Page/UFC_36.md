@@ -12,7 +12,7 @@
 ## 試合結果
 
   - 第1試合 ウェルター級 5分3R
-    ○  [ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink") vs.  [中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink") ×
+    ○  [ショーン・シャーク](../Page/ショーン・シャーク.md "wikilink") vs.  [中尾受太郎](../Page/中尾受太郎.md "wikilink") ×
     3R終了 判定3-0（30-27、30-27、30-27）
   - 第2試合 ライト級 5分3R
     ○  [マット・セラ](../Page/マット・セラ.md "wikilink") vs.  ケリー・デュランティ ×

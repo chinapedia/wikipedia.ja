@@ -284,7 +284,7 @@
 
 ### 舞台（シリーズ作品）
 
-  - [ミュージカル・テニスの王子様](https://ja.wikipedia.org/wiki/ミュージカル・テニスの王子様 "wikilink")（2003年4月30日 - 5月5日、東京芸術劇場） - 不二周助 役
+  - [ミュージカル・テニスの王子様](../Page/ミュージカル・テニスの王子様.md "wikilink")（2003年4月30日 - 5月5日、東京芸術劇場） - 不二周助 役
       - ミュージカル・テニスの王子様 追加公演（2003年8月7日 - 15日、日本青年館大ホール 他）
       - ミュージカル テニスの王子様 Remarkable 1st Match（2003年12月31日 - 2004年1月5日、ゆうぽうと簡易保険ホール 他） - 越前リョーマ 役
       - ミュージカル テニスの王子様 Dream Live 1st（2004年6月13日、東京体育館）
@@ -336,7 +336,7 @@
   - [Live Musical『SHOW BY ROCK\!\!』〜THE FES II-Thousand XVII〜](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!!#舞台 "wikilink")（2017年5月11日 - 13日、品川ステラボール） - MC 役
       - Live Musical『SHOW BY ROCK\!\!』-深淵のCrossAmbivalence-（2017年10月19日 - 29日、AiiA 2.5 Theater Tokyo） - アダム 役
       - [Live Musical『SHOW BY ROCK\!\!』〜THE FES 2018〜](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!!#舞台 "wikilink")（2018年6月26日 - 27日、Zeep DiverCity） - アダム 役
-  - [家庭教師ヒットマンREBORN\! the STAGE](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!#舞台 "wikilink")（2018年9月21日 - 30日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")/10月3日 - 6日、メルパルクホール大阪） - [ランボ](https://ja.wikipedia.org/wiki/ランボ "wikilink") 役\[4\]
+  - [家庭教師ヒットマンREBORN\! the STAGE](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!#舞台 "wikilink")（2018年9月21日 - 30日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")/10月3日 - 6日、メルパルクホール大阪） - [ランボ](../Page/ランボ.md "wikilink") 役\[4\]
       - 家庭教師ヒットマンREBORN\! the STAGE -vs VARIA part I-（2019年6月14日 - 23日、[シアター1010](../Page/シアター1010.md "wikilink") / 6月27日 - 30日、柏原市民文化会館 リビエールホール）\[5\]
       - 家庭教師ヒットマンREBORN\! the STAGE -vs VARIA part Ⅱ-（2020年1月6日 -13日 天王洲 銀河劇場 /1月17日 - 19日 梅田芸術劇場ドラマシティ）\[6\]
 

@@ -16,7 +16,6 @@ c/wに20th Century、Coming Centuryの両方の曲が収録されるのは今作
 1.  **IN THE WIND**
       -
         作詞：[小幡英之](../Page/小幡英之.md "wikilink")、作曲：[佐藤竹善](../Page/佐藤竹善.md "wikilink")、編曲：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")
-        メンバーのソロパートはなし。
 2.  **Start me up** - 20th Century
       -
         作詞：[真木須とも子](https://ja.wikipedia.org/wiki/真木須とも子 "wikilink")、作曲/編曲：[朝本浩文](../Page/朝本浩文.md "wikilink")

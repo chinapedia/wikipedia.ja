@@ -11,9 +11,9 @@
 
 サビの「ACHICHI ACHI」を連呼する歌詞は、郷自身の発案によるものである。本楽曲について郷は「（\<123バ 223バ\>という歌詞がある）『[お嫁サンバ](../Page/お嫁サンバ.md "wikilink")』の経験があったので、この曲も歌えた」と振り返っている\[1\]。サビの手の動きが特徴的な振り付けは[黒須洋壬](https://ja.wikipedia.org/wiki/黒須洋壬 "wikilink")が担当した。黒須によれば、サビの振り付けは「お煎餅を焼く時に表、裏返して、触ったらアッチッチみたいな」というイメージから生まれたという\[2\]。
 
-「GOLDFINGER 2001」というリミックスが存在する（アルバム『[MOST LOVED HITS OF HIROMI GO VOL.1～Heat～](https://ja.wikipedia.org/wiki/MOST_LOVED_HITS_OF_HIROMI_GO_VOL.1～Heat～ "wikilink")』にのみ収録）。
+のちに「GOLDFINGER 2001」というリミックスバージョンが制作され、アルバム『[MOST LOVED HITS OF HIROMI GO VOL.1～Heat～](https://ja.wikipedia.org/wiki/MOST_LOVED_HITS_OF_HIROMI_GO_VOL.1～Heat～ "wikilink")』に収録されている。
 
-2009年9月2日には、当シングル発売10周年を記念して93枚目のシングル『[Get Real Love 〜GOLDFINGER'009](https://ja.wikipedia.org/wiki/Get_Real_Love_〜GOLDFINGER'009 "wikilink")』が発売され、カップリング曲として当楽曲の10周年リミックス版が収録されている。
+2009年9月2日、発売10周年、93枚目のシングル『[Get Real Love 〜GOLDFINGER'009](https://ja.wikipedia.org/wiki/Get_Real_Love_〜GOLDFINGER'009 "wikilink")』を発売した。カップリングは10周年リミックス版。
 
 ## 収録曲
 
@@ -44,13 +44,15 @@
 
   - 1999年8月、プロモーションとして[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")にトラックを止め、警察に無届けで白昼ゲリラライブを敢行した。マスコミと野次馬が交差点に押し寄せたため、[交通渋滞](https://ja.wikipedia.org/wiki/交通渋滞 "wikilink")を引き起こしてしまい、[所属レコード会社の現場関係者ら](../Page/ソニー・ミュージックレコーズ.md "wikilink")6人が[道路交通法](../Page/道路交通法.md "wikilink")違反容疑で書類送検された。関係者も、郷の人気ぶりがまさかそこまでとは予想しておらず、思わぬ事態に発展。レコード会社のプロデューサーは懲役3月、執行猶予2年の判決を受けた。当事者の郷も警察の取り調べを受ける事態に発展した。郷はその後出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で「関係者並びに市民の皆様には多大なご迷惑をお掛けしました。」と謝罪した。
 
-## 倖田來未『GOLDFINGER 2019』
+## 倖田來未のカバー版
 
 「**GOLDFINGER 2019**」（ゴールドフィンガー 2019）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の5作目の配信限定シングル。[2019年](../Page/2019年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")に配信された。
 
 ### 解説
 
 前作「[DO ME](https://ja.wikipedia.org/wiki/DO_ME "wikilink")」から約1か月ぶりのリリースである。[郷ひろみ](../Page/郷ひろみ.md "wikilink")の「[GOLDFINGER '99](../Page/GOLDFINGER_'99.md "wikilink")」のカバー（原曲は[リッキー・マーティン](../Page/リッキー・マーティン.md "wikilink")の「[リヴィン・ラ・ヴィダ・ロカ](https://ja.wikipedia.org/wiki/リヴィン・ラ・ヴィダ・ロカ "wikilink")」）。
+
+“倖田來未”なりのリメイクな解釈で、「楽曲をどう変化させるかっていう挑戦」「『GOLDFINGER '99』という楽曲も20周年で、“倖田來未”の原点というかターニングポイントってある種カバー曲。キーとなる曲」として、語っている\[3\]。
 
 ### 楽曲
 
@@ -69,3 +71,4 @@
 
 1.  [女性自身「『よろしく哀愁』『お嫁サンバ』郷ひろみのターニングポイント６曲」](http://jisin.jp/serial/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/21318)
 2.  [価格.com「『スーパーチャンプル』 2009年2月6日（金）放送内容」](http://kakaku.com/tv/channel=4/programID=6579/episodeID=224162/)
+3.

@@ -60,8 +60,6 @@
 
   - [UPL墓掘り人](http://upl-gravedigger.boo.jp/) 元UPL社員によるウェブサイト。後期作品の原画、基板仕様書など。
 
-
-
-[Category:UPL](https://ja.wikipedia.org/wiki/Category:UPL "wikilink") [Category:かつて存在した栃木県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した栃木県の企業 "wikilink") [Category:経営破綻した企業(栃木県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(栃木県\) "wikilink") [Category:1976年設立の企業](https://ja.wikipedia.org/wiki/Category:1976年設立の企業 "wikilink") [Category:1992年廃止の企業](https://ja.wikipedia.org/wiki/Category:1992年廃止の企業 "wikilink")
+[Category:UPL](https://ja.wikipedia.org/wiki/Category:UPL "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:ユニバーサルエンターテインメント](https://ja.wikipedia.org/wiki/Category:ユニバーサルエンターテインメント "wikilink") [Category:かつて存在した栃木県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した栃木県の企業 "wikilink") [Category:経営破綻した企業(栃木県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(栃木県\) "wikilink") [Category:1976年設立の企業](https://ja.wikipedia.org/wiki/Category:1976年設立の企業 "wikilink") [Category:1992年廃止の企業](https://ja.wikipedia.org/wiki/Category:1992年廃止の企業 "wikilink")
 
 1.  [UPLの権利取得のお知らせ](http://www.hamster.co.jp/press/pdf/p_20160520.pdf)

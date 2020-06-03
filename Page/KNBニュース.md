@@ -1,7 +1,7 @@
 > この記事は[KNBニュース](https://ja.wikipedia.org/wiki/KNBニュース)から翻訳されています。
 
 
-『**KNBニュース**』（ケイエヌビーニュース）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB）のテレビ・ラジオで放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組である（テレビ放送での表記は**KNB NEWS**）。
+『**KNBニュース**』（ケイエヌビーニュース）は、[北日本放送](../Page/北日本放送.md "wikilink")（KNB）のテレビ・ラジオで放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組である（テレビ放送での表記は**KNB NEWS**）。
 
 [2005年](../Page/2005年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで、KNBにおけるスポットニュース番組は、本番組と『[北日本新聞ニュース](https://ja.wikipedia.org/wiki/北日本新聞ニュース "wikilink")』があったが、翌日からこのタイトルに統一された\[1\]。
 

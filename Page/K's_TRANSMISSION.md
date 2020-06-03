@@ -177,7 +177,7 @@
 
 <!-- end list -->
 
-  - [doa](../Page/Doa_\(ミュージシャン\).md "wikilink")（[徳永暁人](../Page/徳永暁人.md "wikilink")・[大田紳一郎](../Page/大田紳一郎.md "wikilink")・[吉本大樹](../Page/吉本大樹.md "wikilink")（1月24日）
+  - [doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")（[徳永暁人](../Page/徳永暁人.md "wikilink")・[大田紳一郎](../Page/大田紳一郎.md "wikilink")・[吉本大樹](../Page/吉本大樹.md "wikilink")（1月24日）
   - [研ナオコ](../Page/研ナオコ.md "wikilink")（2月21日）
   - [憂歌兄弟](https://ja.wikipedia.org/wiki/憂歌兄弟 "wikilink")（[木村充揮](../Page/木村充揮.md "wikilink")・[内田勘太郎](https://ja.wikipedia.org/wiki/内田勘太郎 "wikilink")）（3月7日）
   - [井上鑑](../Page/井上鑑.md "wikilink")（3月14日）

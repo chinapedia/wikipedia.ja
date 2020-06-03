@@ -1,7 +1,7 @@
 > この記事は[BMP-2](https://ja.wikipedia.org/wiki/BMP-2)から翻訳されています。
 
 
-**BMP-2**は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[IFV](../Page/歩兵戦闘車.md "wikilink")。[1960年代](../Page/1960年代.md "wikilink")にIFVの基礎を築いた[BMP-1](../Page/BMP-1.md "wikilink")の改良で、[戦闘](../Page/戦闘.md "wikilink")能力の向上を図っている。[1970年代](../Page/1970年代.md "wikilink")から開発が行われ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")もしくは[1982年](../Page/1982年.md "wikilink")に採用。20ヶ国以上に配備された。
+**BMP-2**は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")（IFV）。[1960年代](../Page/1960年代.md "wikilink")にIFVの基礎を築いた[BMP-1](../Page/BMP-1.md "wikilink")の改良型で、[戦闘](../Page/戦闘.md "wikilink")能力の向上を図っている。[1970年代](../Page/1970年代.md "wikilink")から開発が行われ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")もしくは[1982年](../Page/1982年.md "wikilink")に採用。20ヶ国以上に配備された。
 
 ## 概要
 

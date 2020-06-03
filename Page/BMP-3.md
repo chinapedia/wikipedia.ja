@@ -45,7 +45,7 @@ BMP-3の最大の特徴とされるのは、極めて[火力重視の](https://j
 
 [1990年代](../Page/1990年代.md "wikilink")後半には、ようやく[ロシア陸軍](../Page/ロシア陸軍.md "wikilink")でもまとまった数が運用できるようになり、[チェチェン紛争](https://ja.wikipedia.org/wiki/チェチェン紛争 "wikilink")や[南オセチア紛争などの実戦を経験している](../Page/南オセチア紛争_\(2008年\).md "wikilink")。
 
-[ZBD-04_-_front_right_view.jpg](https://ja.wikipedia.org/wiki/File:ZBD-04_-_front_right_view.jpg "fig:ZBD-04_-_front_right_view.jpg")。BMP-3の技術が投入されている）\]\] [中国は](../Page/中華人民共和国.md "wikilink")、BMP-3の[射撃管制システムと](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")[9M117 バスティオン 対戦車ミサイルの技術供与を受け](https://ja.wikipedia.org/wiki/:en:9M117_Bastion "wikilink")、[04式歩兵戦闘車](https://ja.wikipedia.org/wiki/04式歩兵戦闘車 "wikilink")と[GP-2砲発射式対戦車ミサイルを開発している](https://ja.wikipedia.org/wiki/GP-2_\(ミサイル\) "wikilink")。 {{-}}
+[ZBD-04_-_front_right_view.jpg](https://ja.wikipedia.org/wiki/File:ZBD-04_-_front_right_view.jpg "fig:ZBD-04_-_front_right_view.jpg")。BMP-3の技術が投入されている）\]\] [中国は](../Page/中華人民共和国.md "wikilink")、BMP-3の[射撃管制システムと](https://ja.wikipedia.org/wiki/射撃管制装置 "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")の技術供与を受け、[04式歩兵戦闘車](https://ja.wikipedia.org/wiki/04式歩兵戦闘車 "wikilink")と[GP-2砲発射式対戦車ミサイルを開発している](https://ja.wikipedia.org/wiki/GP-2_\(ミサイル\) "wikilink")。 {{-}}
 
 ## 派生型
 
@@ -56,7 +56,7 @@ BMP-3の最大の特徴とされるのは、極めて[火力重視の](https://j
   - BMP-3 コルネット-E
     [1990年代](../Page/1990年代.md "wikilink")に開発された[対戦車誘導ミサイル](../Page/対戦車ミサイル.md "wikilink")9M133 コルネット-Eを発射する[自動装填装置](../Page/自動装填装置.md "wikilink")付の2連[ランチャー](../Page/ランチャー.md "wikilink")を[砲塔](../Page/砲塔.md "wikilink")位置に持つ自走対戦車ミサイル車両。コルネット-Eは[レーザー誘導](https://ja.wikipedia.org/wiki/レーザー誘導 "wikilink")で、[二重HEAT弾頭](https://ja.wikipedia.org/wiki/成形炸薬弾#タンデム弾頭 "wikilink")、有効射程は100-5,500m。装甲[貫徹力](https://ja.wikipedia.org/wiki/貫徹力 "wikilink")はRHA換算で1,000-1,200mm\[6\]。
   - BMP-3 フリザンテーマ
-    大型対戦車誘導ミサイル[9M123 フリザンテーマを発射する自動装填装置付の](https://ja.wikipedia.org/wiki/:en:9M123_Khrizantema "wikilink")2連ランチャーを砲塔位置に持つ自走対戦車ミサイル車両。フリザンテーマも[HEAT弾頭だが](../Page/成形炸薬弾.md "wikilink")、有効射程は100-6,000mに強化されている。装甲貫徹力はRHA換算で1,000mm（公表値）。[レーダー](../Page/レーダー.md "wikilink")照準システムを有する\[7\]。
+    大型対戦車誘導ミサイルを発射する自動装填装置付の2連ランチャーを砲塔位置に持つ自走対戦車ミサイル車両。フリザンテーマも[HEAT弾頭だが](../Page/成形炸薬弾.md "wikilink")、有効射程は100-6,000mに強化されている。装甲貫徹力はRHA換算で1,000mm（公表値）。[レーダー](../Page/レーダー.md "wikilink")照準システムを有する\[7\]。
   - BMR ルィーシ
     [偵察警戒装甲車](../Page/偵察戦闘車.md "wikilink")。「ルィーシ」は[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")で「[狐](../Page/キツネ.md "wikilink")（Лиса́）」の意味。BMP-3の砲塔を30mm[機関砲](../Page/機関砲.md "wikilink")のみのものに換装し、戦場サーベランス・レーダー、[暗視システム](../Page/暗視装置.md "wikilink")、[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")類、[通信機器](../Page/通信機器.md "wikilink")を搭載\[8\]。輸出も提案されているが、[ロシア陸軍](../Page/ロシア陸軍.md "wikilink")が若干数を運用している。
   - BZREM-L ベグリャンカ
@@ -70,7 +70,7 @@ BMP-3の最大の特徴とされるのは、極めて[火力重視の](https://j
 {{-}}
 
   - Vikhr(ヴィーフリ)
-    無線による遠隔操縦を可能にしたBMP-3。無人戦車を開発するための各種試験が行われている。従来のBMP-3と同様の武装を施したモデルに加えて、57mm機関砲と自動擲弾銃を装備した派生型も試作された。大きな車内容積を活かして、軍用[UAV](https://ja.wikipedia.org/wiki/UAV "wikilink")や[UGV](https://ja.wikipedia.org/wiki/UGV "wikilink")の発進母艦や装甲救急車などの用途も研究されている。
+    無線による遠隔操縦を可能にしたBMP-3。無人戦車を開発するための各種試験が行われている。従来のBMP-3と同様の武装を施したモデルに加えて、57mm機関砲と自動擲弾銃を装備した派生型も試作された。大きな車内容積を活かして、軍用[UAVやUGVの発進母艦や装甲救急車などの用途も研究されている](../Page/無人航空機.md "wikilink")。
 
 ## 採用国
 
@@ -92,7 +92,7 @@ BMP-3の最大の特徴とされるのは、極めて[火力重視の](https://j
   - 『[バトルフィールド2](../Page/バトルフィールド2.md "wikilink")』
     MEC[特殊部隊](../Page/特殊部隊.md "wikilink")・[スペツナズ](../Page/スペツナズ.md "wikilink")の[装甲車](../Page/装甲車.md "wikilink")として登場する。
       - 『[Project Reality（BF2）](https://ja.wikipedia.org/wiki/Project_Reality "wikilink")』
-        [ロシア連邦軍](../Page/ロシア連邦軍.md "wikilink")にBMP-3と、中東連合軍（MEC）の兵器としてBMP-3Mが登場。装備は1PZ-10と1K13-2のカメラ2種、TKN-3[暗視装置](../Page/暗視装置.md "wikilink")（BMP-3MはSAGEM Namut）、[クラクション](https://ja.wikipedia.org/wiki/クラクション "wikilink")、（100mm HE-FRAG弾）、[2A42 30mm機関砲](https://ja.wikipedia.org/wiki/2A42 "wikilink")（3UBR8 APDS弾/3OF32 HE-FRAG弾）、、[PKT 7.62mm同軸機銃](../Page/PK_\(機関銃\).md "wikilink")、902V スモークランチャー。
+        [ロシア連邦軍](../Page/ロシア連邦軍.md "wikilink")にBMP-3と、中東連合軍（MEC）の兵器としてBMP-3Mが登場。装備は1PZ-10と1K13-2のカメラ2種、TKN-3[暗視装置](../Page/暗視装置.md "wikilink")（BMP-3MはSAGEM Namut）、[クラクション](https://ja.wikipedia.org/wiki/クラクション "wikilink")、（100mm HE-FRAG弾）、[2A42 30mm機関砲](https://ja.wikipedia.org/wiki/2A42 "wikilink")（3UBR8 APDS弾/3OF32 HE-FRAG弾）、9M117 砲発射式対戦車ミサイル、[PKT 7.62mm同軸機銃](../Page/PK_\(機関銃\).md "wikilink")、902V スモークランチャー。
   - 『[メタルギアソリッド4](../Page/メタルギアソリッド4.md "wikilink")』
     中東[民兵](../Page/民兵.md "wikilink")の[歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")として登場。途中で[PMCの](../Page/民間軍事会社.md "wikilink")[ジャベリン対戦車ミサイルに破壊される](../Page/ジャベリン_\(対戦車ミサイル\).md "wikilink")（破壊を阻止することも可能）。
 

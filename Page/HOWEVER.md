@@ -41,8 +41,8 @@
   - [-Ballad Best Singles- WHITE ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")（\#1）
   - [THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")（\#1）
   - [rare collectives vol.3](https://ja.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")（\#1、inspired by HIGHCOMMUNICATIONS）
-  - [pure soul Anthology](https://ja.wikipedia.org/wiki/Pure_soul#pure_soul_Anthology "wikilink")（\#1,2）
-      - いずれもリミックスバージョン
+  - [pure soul Anthology](https://ja.wikipedia.org/wiki/Pure_soul#pure_soul_Anthology "wikilink")（\#1,2）リミックスバージョン
+  - [REVIEW II -BEST OF GLAY-](../Page/REVIEW_II_-BEST_OF_GLAY-.md "wikilink")（\#1）リミックスバージョン
 
 <!-- end list -->
 

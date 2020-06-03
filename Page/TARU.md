@@ -3,7 +3,7 @@
 
 **TARU**（タル、[1964年](../Page/1964年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**多留 嘉一**（たる よしかず）。[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。
 
-コンタクトレンズで目つきを鋭くして強面の顔付きに上半身にトライバルのタトゥーを施した[悪役集団](../Page/ヒール_\(プロレス\).md "wikilink")「[VOODOO-MURDERS](../Page/VOODOO-MURDERS.md "wikilink")（以下「VM」）」の首魁として[全日本プロレス](../Page/全日本プロレス.md "wikilink")を中心に活動していた。
+コンタクトレンズで目つきを鋭くして強面の顔付きに上半身にトライバルのタトゥーを施した[悪役集団](../Page/ヒール_\(プロレス\).md "wikilink")「[VOODOO-MURDERS](../Page/VOODOO-MURDERS.md "wikilink")（以下「VM」）」の首魁として[プロレスリングZERO1を中心に活動している](../Page/ZERO1.md "wikilink")。
 
 ## 来歴
 

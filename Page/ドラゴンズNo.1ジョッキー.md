@@ -51,7 +51,7 @@
 ### 2004年
 
   - セ・リーグシーズン開幕前に他の5球団の担当局アナウンサーが電話出演し、担当球団の開幕直前情報を伝えていた。
-      - 担当局アナウンサー一覧－[阪神タイガース](../Page/阪神タイガース.md "wikilink")：[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[唐渡吉則](../Page/唐渡吉則.md "wikilink")。[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")：[RCC中国放送アナウンサー](../Page/中国放送.md "wikilink")。[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")：[ニッポン放送](../Page/ニッポン放送.md "wikilink")アナウンサー。
+      - 担当局アナウンサー一覧－[阪神タイガース](../Page/阪神タイガース.md "wikilink")：[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[唐渡吉則](../Page/唐渡吉則.md "wikilink")。[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")：[RCC中国放送アナウンサー](../Page/中国放送.md "wikilink")。[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")・[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")：[ニッポン放送](../Page/ニッポン放送.md "wikilink")アナウンサー。
 
 ### 2005年・2006年
 

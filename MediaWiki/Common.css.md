@@ -144,50 +144,41 @@ th.navbox-group { /\* Group style \*/
 
 }
 
-/\*\*
+/\* Style for horizontal lists (separator following item).
 
-`* Style for horizontal lists (separator following item).`
-`* @source mediawiki.org/wiki/Snippets/Horizontal_lists`
-`* @revision 3.2 (2013-09-25)`
-`* @author `[`User:Edokter`](https://ja.wikipedia.org/wiki/User:Edokter "wikilink")
+`  @source mediawiki.org/wiki/Snippets/Horizontal_lists`
+`  @revision 9 (2016-08-10)`
+`  @author `[`User:Edokter`](https://ja.wikipedia.org/wiki/User:Edokter "wikilink")
 `*/`
 
-.skin-monobook .hlist dl, .skin-modern .hlist dl, .skin-vector .hlist dl {
-
-`   line-height: 1.5em;`
-
-} .hlist dl, .hlist ol, .hlist ul {
+.hlist dl, .hlist ol, .hlist ul {
 
 `   margin: 0;`
 `   padding: 0;`
 
-} /\* Display list items inline and make them nowrap \*/ .hlist dd, .hlist dt, .hlist li {
+} /\* Display list items inline \*/ .hlist dd, .hlist dt, .hlist li {
 
 `   margin: 0;`
 `   display: inline;`
-`   white-space: nowrap;`
 
-} /\* Allow wrapping for list items (in tight spaces) \*/ .hlist.hwrap dd, .hlist.hwrap dt, .hlist.hwrap li {
-
-`   white-space: normal;`
-
-} /\* Display nested lists inline and allow them to wrap \*/ .hlist dl dl, .hlist dl ol, .hlist dl ul, .hlist ol dl, .hlist ol ol, .hlist ol ul, .hlist ul dl, .hlist ul ol, .hlist ul ul {
+} /\* Display nested lists inline \*/ .hlist.inline, .hlist.inline dl, .hlist.inline ol, .hlist.inline ul, .hlist dl dl, .hlist dl ol, .hlist dl ul, .hlist ol dl, .hlist ol ol, .hlist ol ul, .hlist ul dl, .hlist ul ol, .hlist ul ul {
 
 `   display: inline;`
-`   white-space: normal;`
+
+} /\* Hide empty list items \*/ .hlist .mw-empty-li, .hlist .mw-empty-elt {
+
+`   display: none;`
 
 } /\* Generate interpuncts \*/ .hlist dt:after {
 
 `   content: ": ";`
-`   white-space: normal;`
 
 } .hlist dd:after, .hlist li:after {
 
 `   content: " · ";`
 `   font-weight: bold;`
-`   white-space: normal;`
 
-} /\* 日本語版の独自仕様。-pipe と -hyphen \*/ .hlist-pipe dd:after, .hlist-pipe li:after {
+} /\* 日本語版の独自仕様。-pipe、-hyphen、-slash \*/ .hlist-pipe dd:after, .hlist-pipe li:after {
 
 `   content: " | ";`
 `   font-weight: normal;`
@@ -202,17 +193,18 @@ th.navbox-group { /\* Group style \*/
 `   content: "、 ";`
 `   font-weight: normal;`
 
+} .hlist-slash dd:after, .hlist-slash li:after {
+
+`   content: " / ";`
+`   font-weight: normal;`
+
 } .hlist dd:last-child:after, .hlist dt:last-child:after, .hlist li:last-child:after {
-
-`   content: none;`
-
-} /\* For IE8 \*/ .hlist dd.hlist-last-child:after, .hlist dt.hlist-last-child:after, .hlist li.hlist-last-child:after {
 
 `   content: none;`
 
 } /\* Add parentheses around nested lists \*/ .hlist dd dd:first-child:before, .hlist dd dt:first-child:before, .hlist dd li:first-child:before, .hlist dt dd:first-child:before, .hlist dt dt:first-child:before, .hlist dt li:first-child:before, .hlist li dd:first-child:before, .hlist li dt:first-child:before, .hlist li li:first-child:before {
 
-`   content: "(";`
+`   content: " (";`
 `   font-weight: normal;`
 
 } .hlist dd dd:last-child:after, .hlist dd dt:last-child:after, .hlist dd li:last-child:after, .hlist dt dd:last-child:after, .hlist dt dt:last-child:after, .hlist dt li:last-child:after, .hlist li dd:last-child:after, .hlist li dt:last-child:after, .hlist li li:last-child:after {
@@ -220,26 +212,21 @@ th.navbox-group { /\* Group style \*/
 `   content: ")";`
 `   font-weight: normal;`
 
-} /\* For IE8 \*/ .hlist dd dd.hlist-last-child:after, .hlist dd dt.hlist-last-child:after, .hlist dd li.hlist-last-child:after, .hlist dt dd.hlist-last-child:after, .hlist dt dt.hlist-last-child:after, .hlist dt li.hlist-last-child:after, .hlist li dd.hlist-last-child:after, .hlist li dt.hlist-last-child:after, .hlist li li.hlist-last-child:after {
-
-`   content: ")";`
-`   font-weight: normal;`
-
 } /\* Put ordinals in front of ordered list items \*/ .hlist ol {
 
-`   counter-reset: list-item;`
+`   counter-reset: listitem;`
 
 } .hlist ol \> li {
 
-`   counter-increment: list-item;`
+`   counter-increment: listitem;`
 
 } .hlist ol \> li:before {
 
-`   content: counter(list-item) ".\a0";`
+`   content: " " counter(listitem) ".\a0";`
 
 } .hlist dd ol \> li:first-child:before, .hlist dt ol \> li:first-child:before, .hlist li ol \> li:first-child:before {
 
-`   content: "(" counter(list-item) " ";`
+`   content: " (" counter(listitem) "\a0";`
 
 }
 
@@ -1380,22 +1367,6 @@ div.columns-2 div.column {
 /\* Don't display page title on the main page \*/ body.page-メインページ \#siteSub, body.page-メインページ .subtitle, body.page-メインページ h1.firstHeading, body.page-メインページ h1.pagetitle {
 
 `   display: none;`
-
-}
-
-/\* Common.js の LinkFA() を参照 \*/
-
-1.  p-lang li.FA {
-
-`   list-style-image: url("//upload.wikimedia.org/wikipedia/commons/d/d0/Monobook-bullet-star-transparent.png");`
-
-}
-
-/\* Common.js の LinkGA() を参照 \*/
-
-1.  p-lang li.GA {
-
-`   list-style-image: url("//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/9px-Blue_star_boxed.svg.png");`
 
 }
 

@@ -73,6 +73,7 @@ AICJは「**A**cademy for the **I**nternational **C**ommunity in **J**apan」の
 ## 主な出身者
 
   - [安宅晃樹](https://ja.wikipedia.org/wiki/安宅晃樹 "wikilink") - [フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビのアナウンサー一覧 "wikilink")
+  - [寺本莉緒](https://ja.wikipedia.org/wiki/寺本莉緒 "wikilink") - [グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")　[タレント](../Page/タレント.md "wikilink")
 
 ## 脚注
 

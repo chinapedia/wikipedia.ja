@@ -18,7 +18,7 @@
 ## 外部リンク
 
   - [Shuttle Radar Topography Mission](http://www2.jpl.nasa.gov/srtm/) [ジェット推進研究所](../Page/ジェット推進研究所.md "wikilink")内の公式サイト、FTPで標高データを入手可能。
-  - [STS-99 毛利宇宙飛行士、再び宇宙へ](http://iss.sfo.jaxa.jp/shuttle/flight/sts99/index.html) [JAXA内の説明](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")。
+  - [STS-99 毛利宇宙飛行士、再び宇宙へ](http://iss.sfo.jaxa.jp/shuttle/flight/sts99/index.html) [JAXA内の説明](../Page/宇宙航空研究開発機構.md "wikilink")。
   - [カシミール３Ｄ](http://www.kashmir3d.com/index.html#top) 標高データを読み込み、ランドサット衛星画像と合成表示できる。
 
 [Category:スペースシャトルのミッション](https://ja.wikipedia.org/wiki/Category:スペースシャトルのミッション "wikilink") [Category:GIS](https://ja.wikipedia.org/wiki/Category:GIS "wikilink") [Category:トポグラフィー](https://ja.wikipedia.org/wiki/Category:トポグラフィー "wikilink") [Category:2000年の科学](https://ja.wikipedia.org/wiki/Category:2000年の科学 "wikilink")

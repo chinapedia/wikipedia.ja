@@ -52,4 +52,4 @@
   - [Happy Together完全攻略ガイド（楽天ShowTime内）](http://www.showtime.jp/special/korea/guide/happy/)
   - [Wow\!Koreaの番組情報ページ](http://www.wowkorea.jp/profile/200019.html)
 
-[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:SBSドラマスペシャル](https://ja.wikipedia.org/wiki/Category:SBSドラマスペシャル "wikilink") [Category:兄弟姉妹を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹を題材としたテレビドラマ "wikilink") [Category:イ・ビョンホン](https://ja.wikipedia.org/wiki/Category:イ・ビョンホン "wikilink")
+[Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:SBSドラマスペシャル](https://ja.wikipedia.org/wiki/Category:SBSドラマスペシャル "wikilink") [Category:兄弟姉妹を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹を題材としたテレビドラマ "wikilink") [Category:イ・ビョンホン](https://ja.wikipedia.org/wiki/Category:イ・ビョンホン "wikilink") [Category:ホームドラマ](https://ja.wikipedia.org/wiki/Category:ホームドラマ "wikilink")

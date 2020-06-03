@@ -474,7 +474,7 @@ FM青森</p></td>
 <tr class="odd">
 <td><p>2004</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/八重樫葵" title="wikilink">八重樫葵</a>・ア<br />
-<a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -703,10 +703,12 @@ FM青森</p></td>
 | テレビドキュメント           | Eテレ                      | 2019年8月14日 水曜09:30-10:15  |                                                                         |                                                                                              |
 | ティーンズラジオ2019        | ラジオ番組                    | FM                        | 2019年8月26日 月曜10:00-11:00                                                |                                                                                              |
 
+## 脚注
+
 ## 外部リンク
 
-  - [NコンWEB](http://www.nhk.or.jp/event/n-con/)
-  - [日本放送協会](http://www.nhk.or.jp/)
+  - [NコンWEB](https://www.nhk.or.jp/event/n-con/)
+  - [日本放送協会](https://www.nhk.or.jp/)
   - [放送教育ネットワーク](http://www.nhk-sc.or.jp/kyoiku/index.html)
       - [NHK杯全国高校放送コンテスト](http://www.nhk-sc.or.jp/kyoiku/ncon/ncon_h/index.html)
       - [NHK杯全国中学放送コンテスト](http://www.nhk-sc.or.jp/kyoiku/ncon/ncon_j/index.html)

@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - [ナショナル・ブロードキャスティング・カンパニー](../Page/NBC.md "wikilink")（National Broadcasting Company） - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[放送局](../Page/放送局.md "wikilink")。
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（Nagasaki Broadcasting Company）[長崎県](../Page/長崎県.md "wikilink")に本社を置く放送事業者。テレビは[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、ラジオは[JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")・[NRN系列](../Page/全国ラジオネットワーク.md "wikilink")。
+  - [長崎放送](../Page/長崎放送.md "wikilink")（Nagasaki Broadcasting Company）[長崎県](../Page/長崎県.md "wikilink")に本社を置く放送事業者。テレビは[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、ラジオは[JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")・[NRN系列](../Page/全国ラジオネットワーク.md "wikilink")。
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") - 長崎放送のラジオ中継局であり、[佐賀県](../Page/佐賀県.md "wikilink")を放送対象地域とする佐賀放送局の通称。および同局での業務、番組制作を行う企業。長崎放送の子会社。
 
 <!-- end list -->

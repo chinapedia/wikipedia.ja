@@ -10,7 +10,7 @@
   - シングル「M・A・D」の[カップリングとして](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")「[ANGELIC CONVERSATION](../Page/TABOO_\(アルバム\).md "wikilink")」を再録音し、その完成度にメンバーが予想以上の手応えを感じたことが本作制作の切っ掛けとなった\[3\]。
   - タイトルの「殺シノ調ベ」とは[インディーズ](../Page/インディーズ.md "wikilink")時代のアルバム『[HURRY UP MODE](../Page/HURRY_UP_MODE.md "wikilink")』のサブタイトルでもある。
   - 本作リリース以降のライブでは本作収録曲が演奏される場合、いわゆる「殺シノ調ベVer.」であることが殆どだが、「[LOVE ME](../Page/悪の華_\(BUCK-TICKのアルバム\).md "wikilink")」は旧バージョンでも演奏されている。
-  - ジャケットに使われている建物は、埼玉県にある[東野高等学校](https://ja.wikipedia.org/wiki/東野高等学校 "wikilink")の大講堂である。アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+  - ジャケットに使われている建物は、埼玉県にある[東野高等学校](https://ja.wikipedia.org/wiki/東野高等学校 "wikilink")の大講堂である。
   - レコーディング時間は約1217時間に及ぶ\[4\]。
   - 今井寿はレコーディングで15本のギターを使用した\[5\]。
 

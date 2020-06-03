@@ -20,8 +20,8 @@
 
 ### 元メンバー
 
-  - ステファニー・ボージャス（[Steffanie Borges](https://ja.wikipedia.org/wiki/:en:Steffanie_Borges "wikilink")） - ボーカル（第2期 1991-1997）
-    Yoshino - ボーカル（第3期 1997-1998）
+  - **[ステファニー・ボージャス](../Page/Steffanie.md "wikilink")** - ボーカル（第2期 1991-1997）
+  - **Yoshino** - ボーカル（第3期 1997-1998）
 
 ## 来歴
 

@@ -759,7 +759,7 @@
 
   - [NHKドラマ](https://www6.nhk.or.jp/drama/)- NHK
 
-  - [土曜ドラマ｜NHK名作選（動画など）](http://cgi2.nhk.or.jp/archives/tv60bin/search/textsearch.cgi?w=土曜ドラマ)※過去に放送した土曜ドラマの番組集-NHKアーカイブス
+  - [土曜ドラマ｜NHK名作選（動画など）](https://www2.nhk.or.jp/archives/search/index.cgi?type=index&w=%E5%9C%9F%E6%9B%9C%E3%83%89%E3%83%A9%E3%83%9E&genre=all&subgenre=0&year=all&view=0#page=1)※過去に放送した土曜ドラマの番組集-NHKアーカイブス
 
 {{-}}
 

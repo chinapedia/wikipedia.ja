@@ -798,7 +798,7 @@
 | ☆       | [白川ゆず](https://ja.wikipedia.org/wiki/白川ゆず "wikilink")     | 白川ゆず 18歳 AV DEBUT (2019-12-26)           |
 | ☆       | [楠木あず](https://ja.wikipedia.org/wiki/楠木あず "wikilink")     | 楠木あず AV DEBUT（2020-2-20）※同年1月17日配信開始     |
 | ☆       | [朝比奈ななせ](https://ja.wikipedia.org/wiki/朝比奈ななせ "wikilink") | 朝比奈ななせ AV DEBUT (2020-3-12)              |
-| ☆       | \----                                                     | 名前はまだない。 緊急発売 AV出演（2020-4-23)            |
+| ☆       | 夏目響\[10\]                                                 | 名前はまだない。 緊急発売 AV出演（2020-4-23)            |
 |         |                                                           |                                          |
 
 ### SODstarシンデレラオーディション
@@ -884,7 +884,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>グランプリ[10]</p></td>
+<td><p>グランプリ[11]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海老原ひとみ" title="wikilink">海老原ひとみ</a></p></td>
 <td><p>第3回シンデレラオーディショングランプリ 海老原ひとみ×AVDebut<br />
 (2010-10-7)</p></td>
@@ -902,7 +902,7 @@
 
 ### SOD国民的アイドルユニット
 
-()内は総選挙の順位\[11\]
+()内は総選挙の順位\[12\]
 
   - チームS：[琥珀うた](https://ja.wikipedia.org/wiki/琥珀うた "wikilink")（3位）、[穂積マヤ](https://ja.wikipedia.org/wiki/穂積マヤ "wikilink")（5位）、[七瀬あさ美](https://ja.wikipedia.org/wiki/七瀬あさ美 "wikilink")（6位）
   - チームO：[友田彩也香](https://ja.wikipedia.org/wiki/友田彩也香 "wikilink")（1位）、[愛心](https://ja.wikipedia.org/wiki/愛心 "wikilink")（8位）、[和希さやか](https://ja.wikipedia.org/wiki/和希さやか "wikilink")（9位）
@@ -917,17 +917,17 @@
 
   - [Keita★No.1](https://ja.wikipedia.org/wiki/Keita★No.1 "wikilink")
   - GORI
-  - 新保英之\[12\]
+  - 新保英之\[13\]
   - [菅原ちえ](https://ja.wikipedia.org/wiki/菅原ちえ "wikilink")
-  - [杉裏達郎](https://ja.wikipedia.org/wiki/杉裏達郎 "wikilink")\[13\]
+  - [杉裏達郎](https://ja.wikipedia.org/wiki/杉裏達郎 "wikilink")\[14\]
   - [溜池ゴロー](../Page/溜池ゴロー.md "wikilink")（社外取締役顧問）
-  - CHAIN宗\[14\]
+  - CHAIN宗\[15\]
   - 土屋幸嗣
   - 豊田和家
   - [野本義明](https://ja.wikipedia.org/wiki/野本義明 "wikilink")
   - 林龍太朗
   - 宮門良輔
-  - 宮瀬博教\[15\]
+  - 宮瀬博教\[16\]
 
 <!-- end list -->
 
@@ -995,9 +995,10 @@
 7.
 8.  JAE2014(2014-11-14・15)にて先行発売。
 9.  【はにかみ版】、【なでしこ版】の2枚同時発売。
-10. 第3回はグランプリが2名。
-11. [感動を先取り\!? 秋葉原でアイドルユニット総選挙が開催](http://nikkan-spa.jp/220272) - 日刊SPA\! 2012年5月31日
-12. [AV監督 新保英之の「どなたかイイ凌辱AVご存じないですか?」](http://blog.livedoor.jp/shinbo_sod/)（2009年7月30日 - ）
-13. [汁親AV監督 杉裏達郎の汁親魂日記](http://blog.livedoor.jp/sugi_sodc/)（2012年10月9日 - ）
-14. [AV監督CHAIN宗のAVで働くおっさん日記](http://blog.livedoor.jp/chain_sod/)（2009年7月21日 - ）
-15. [AV監督宮瀬博教の今日もエロ模索してます\!](http://hirokantoku.blog.fc2.com/)（2012年7月9日 - ）
+10.
+11. 第3回はグランプリが2名。
+12. [感動を先取り\!? 秋葉原でアイドルユニット総選挙が開催](http://nikkan-spa.jp/220272) - 日刊SPA\! 2012年5月31日
+13. [AV監督 新保英之の「どなたかイイ凌辱AVご存じないですか?」](http://blog.livedoor.jp/shinbo_sod/)（2009年7月30日 - ）
+14. [汁親AV監督 杉裏達郎の汁親魂日記](http://blog.livedoor.jp/sugi_sodc/)（2012年10月9日 - ）
+15. [AV監督CHAIN宗のAVで働くおっさん日記](http://blog.livedoor.jp/chain_sod/)（2009年7月21日 - ）
+16. [AV監督宮瀬博教の今日もエロ模索してます\!](http://hirokantoku.blog.fc2.com/)（2012年7月9日 - ）

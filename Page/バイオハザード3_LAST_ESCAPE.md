@@ -9,7 +9,7 @@
 
 [PlayStation用として発売されたバイオハザードシリーズとしては](../Page/PlayStation_\(ゲーム機\).md "wikilink")、最後の作品でもある。
 
-[2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")には本作のリメイク版『[バイオハザード RE:3](../Page/バイオハザード_RE:3.md "wikilink")』が発売された\[1\]\[2\]。
+[2020年](../Page/2020年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")には本作のリメイク版『**[バイオハザード RE:3](../Page/バイオハザード_RE:3.md "wikilink")**』が発売された\[1\]\[2\]。
 
 ## 内容
 

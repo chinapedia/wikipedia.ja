@@ -169,7 +169,7 @@
 </tr>
 <tr class="odd">
 <td><p>1809</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/大貫かおり" title="wikilink">大貫かおり</a></strong></p></td>
+<td><p><strong><a href="../Page/大貫かおり.md" title="wikilink">大貫かおり</a></strong></p></td>
 <td><p><a href="../Page/おニャン子クラブ.md" title="wikilink">おニャン子クラブ</a>（会員No.37）</p></td>
 </tr>
 <tr class="even">

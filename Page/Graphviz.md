@@ -13,7 +13,7 @@ Graphvizはグラフ記述言語である[DOT言語](https://ja.wikipedia.org/wi
     circo : 環状のレイアウト用
     fdp : もうひとつの無向グラフ用レイアウトツール
     dotty : グラフを視覚化して編集可能とした[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") (GUI)
-    lefty : DOTグラフを描画するためのプログラム可能な[ウィジェット](https://ja.wikipedia.org/wiki/ウィジェット_\(GUI\) "wikilink")。ユーザーがマウスを使ってそれらを操作できる。つまり、グラフを使った [Model View Controller型](../Page/Model_View_Controller.md "wikilink") GUI で利用可能である。
+    lefty : DOTグラフを描画するためのプログラム可能な[ウィジェット](../Page/ウィジェット_\(GUI\).md "wikilink")。ユーザーがマウスを使ってそれらを操作できる。つまり、グラフを使った [Model View Controller型](../Page/Model_View_Controller.md "wikilink") GUI で利用可能である。
 
 ## 応用
 

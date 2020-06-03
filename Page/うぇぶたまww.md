@@ -90,6 +90,6 @@
 
 ## 外部リンク
 
-  - [うぇぶたまｗｗ ： テレビ東京](http://www.tv-tokyo.co.jp/webtamaww/)
+  - [うぇぶたまｗｗ ： テレビ東京](https://www.tv-tokyo.co.jp/webtamaww/)
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:バナナマン](https://ja.wikipedia.org/wiki/Category:バナナマン "wikilink") [Category:インターネットの文化](https://ja.wikipedia.org/wiki/Category:インターネットの文化 "wikilink")

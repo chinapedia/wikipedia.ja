@@ -3,7 +3,7 @@
 
 **FREMM計画**とは、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[イタリア](../Page/イタリア.md "wikilink")が共同で行う汎用[フリゲート](../Page/フリゲート.md "wikilink")（、）開発計画である。但し、[フランス海軍](../Page/フランス海軍.md "wikilink")では、Dから始まる艦番号を与えられ、[駆逐艦](../Page/駆逐艦.md "wikilink")相当として扱われている。
 
-2005年11月16日に決定された当初計画では、フランスが17隻、イタリアが10隻を調達する計画である。
+2005年11月16日に決定された当初計画では、フランスが17隻、イタリアが10隻を調達する計画であった(後述の[米海軍](https://ja.wikipedia.org/wiki/米海軍 "wikilink")の分を除く)。
 
 ## フランス
 
@@ -30,6 +30,10 @@
 
 2015年2月アキテーヌ級駆逐艦の2番艦「ノルマンディー」を購入\[2\]、6月23日エジプト海軍に「F1001　Tahya Misr」として就役した\[3\]。
 
+## アメリカ合衆国
+
+米国海軍は2017年より導入検討を開始し、2019年6月20日より開始された[FFG(X)](https://ja.wikipedia.org/wiki/:en:FFG\(X\) "wikilink")(次期誘導ミサイルフリゲート）設計案[コンペティション](../Page/コンペティション.md "wikilink")に、FREMM計画をベースにした[フィンカンティエリ](https://ja.wikipedia.org/wiki/フィンカンティエリ "wikilink")S.p.A社の案に決定した事を、2020年4月30日付けで公表した。FFG（X）は、武器システムに[イージスシステム ベース10を搭載した](../Page/イージスシステム.md "wikilink")[イージス艦](../Page/イージス艦.md "wikilink")であり、武装として[Mk 41](https://ja.wikipedia.org/wiki/Mk_41_\(ミサイル発射機\) "wikilink")[VLS](../Page/VLS.md "wikilink")や[Mk 110](https://ja.wikipedia.org/wiki/ボフォース57mm砲 "wikilink")57 mm砲の装備を予定している。基本型1隻と別仕様の9隻が建造され、フィンカンティエリの傘下企業である[マリネット・マリーンが担当する](https://ja.wikipedia.org/wiki/:en:marinette_Marine "wikilink")。\[4\]
+
 ## 脚注
 
 <references />
@@ -45,3 +49,4 @@
 1.
 2.  [世界の艦船](../Page/世界の艦船.md "wikilink")2015年5月号
 3.  [世界の艦船](../Page/世界の艦船.md "wikilink")2015年10月号
+4.  <https://www.navy.mil/submit/display.asp?story_id=112820>

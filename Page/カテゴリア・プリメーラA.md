@@ -982,13 +982,24 @@
 </tr>
 <tr class="even">
 <td><p>'''2017</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コルトゥルア" title="wikilink">コルトゥルア</a><br />
+<a href="https://ja.wikipedia.org/wiki/ティグレスFC" title="wikilink">ティグレス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ボヤカ・チコFC" title="wikilink">ボヤカ・チコ</a><br />
+Leones</p></td>
 </tr>
 <tr class="odd">
 <td><p>'''2018</p></td>
-<td></td>
-<td></td>
+<td><p>Leones<br />
+<a href="https://ja.wikipedia.org/wiki/ボヤカ・チコFC" title="wikilink">ボヤカ・チコ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウニオン・マグダレーナ" title="wikilink">ウニオン・マグダレーナ</a><br />
+<a href="../Page/ククタ・デポルティーボFC.md" title="wikilink">ククタ・デポルティーボ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2019</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウニオン・マグダレーナ" title="wikilink">ウニオン・マグダレーナ</a><br />
+<a href="https://ja.wikipedia.org/wiki/アトレティコ・ウイラ" title="wikilink">アトレティコ・ウイラ</a></p></td>
+<td><p><a href="../Page/デポルティーボ・ペレイラ.md" title="wikilink">デポルティーボ・ペレイラ</a><br />
+<a href="https://ja.wikipedia.org/wiki/ボヤカ・チコFC" title="wikilink">ボヤカ・チコ</a></p></td>
 </tr>
 </tbody>
 </table>

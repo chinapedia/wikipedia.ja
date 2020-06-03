@@ -37,7 +37,7 @@
 | 囚人番号38／シュタインホフ | [クリスチャン・ベルケル](../Page/クリスチャン・ベルケル.md "wikilink")                              | [小杉十郎太](../Page/小杉十郎太.md "wikilink")                  |
 | 囚人番号82／シュッテ    | [オリヴァー・ストコウスキ](https://ja.wikipedia.org/wiki/オリヴァー・ストコウスキ "wikilink")         | [水内清光](../Page/水内清光.md "wikilink")                    |
 | 囚人番号69／ジョー     | [ヴォータン・ヴィルケ・メーリング](https://ja.wikipedia.org/wiki/ヴォータン・ヴィルケ・メーリング "wikilink") | [川村拓央](https://ja.wikipedia.org/wiki/川村拓央 "wikilink") |
-| 看守／ベルス         | [ユストゥス・フォン・ドホナーニ](https://ja.wikipedia.org/wiki/ユストゥス・フォン・ドホナーニ "wikilink")   | [井上倫宏](../Page/井上倫宏.md "wikilink")                    |
+| 看守／ベルス         | [ユストゥス・フォン・ドホナーニ](../Page/ユストゥス・フォン・ドホナーニ.md "wikilink")                      | [井上倫宏](../Page/井上倫宏.md "wikilink")                    |
 | 看守／エッカート       | [ティモ・ディールケス](https://ja.wikipedia.org/wiki/ティモ・ディールケス "wikilink")             | [花田光](../Page/花田光.md "wikilink")                      |
 | 看守／カンプス        | [ニッキ・フォン・テンペルホフ](https://ja.wikipedia.org/wiki/ニッキ・フォン・テンペルホフ "wikilink")     | [諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink") |
 | 看守／ボッシュ        | [アントニオ・モノー・ジュニア](https://ja.wikipedia.org/wiki/アントワーヌ・モノー・Jr "wikilink")      | [石住昭彦](../Page/石住昭彦.md "wikilink")                    |

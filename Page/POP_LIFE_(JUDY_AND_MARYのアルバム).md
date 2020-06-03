@@ -66,6 +66,6 @@
 
 ## 関連項目
 
-  - 『[JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")』（「散歩道」を[奥田民生](../Page/奥田民生.md "wikilink")が、「ミュージック ファイター」を[ミドリが](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink")、「LOVER SOUL」を[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")が、それぞれカバーしているアルバム）
+  - 『[JUDY AND MARY 15th Anniversary Tribute Album](https://ja.wikipedia.org/wiki/JUDY_AND_MARY_15th_Anniversary_Tribute_Album "wikilink")』（「散歩道」を[奥田民生](../Page/奥田民生.md "wikilink")が、「ミュージック ファイター」を[ミドリが](../Page/ミドリ_\(バンド\).md "wikilink")、「LOVER SOUL」を[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")が、それぞれカバーしているアルバム）
 
 [Category:JUDY_AND_MARYのアルバム](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYのアルバム "wikilink") [Category:エピックレコードジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:佐久間正英がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:佐久間正英がプロデュースしたアルバム "wikilink")

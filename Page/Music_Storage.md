@@ -29,7 +29,7 @@
   - [metro trip](https://ja.wikipedia.org/wiki/metro_trip "wikilink")
   - [樹海](../Page/樹海_\(音楽ユニット\).md "wikilink")
   - [タイナカサチ](https://ja.wikipedia.org/wiki/タイナカ彩智 "wikilink")
-  - [柴田一成](https://ja.wikipedia.org/wiki/柴田一成_\(映画監督\) "wikilink")
+  - [柴田一成](../Page/柴田一成_\(映画監督\).md "wikilink")
   - [大東俊介](https://ja.wikipedia.org/wiki/大東俊介 "wikilink")
   - [alüto](https://ja.wikipedia.org/wiki/alüto "wikilink")
   - [スガシカオ](../Page/スガシカオ.md "wikilink")

@@ -8,14 +8,14 @@
 塩化鉄(II)は鉄と[塩化水素](../Page/塩化水素.md "wikilink")との反応で得られる。これは[ハロゲン](https://ja.wikipedia.org/wiki/ハロゲン "wikilink")化[金属](../Page/金属.md "wikilink")の典型的な製法である。
 
   -
-    <ce>Fe\\ + 2HCl -\> FeCl2\\ + H2</ce>
+    <chem>Fe\\ + 2HCl -\> FeCl2\\ + H2</chem>
 
 塩化鉄(II)の合成には濃塩酸の[メタノール](../Page/メタノール.md "wikilink")溶液を使った方法がよく使われている。この反応では[錯塩](https://ja.wikipedia.org/wiki/錯塩 "wikilink") \[Fe(MeOH)<sub>6</sub>\]Cl<sub>2</sub>が生成し、これを[真空](../Page/真空.md "wikilink")状態で160℃まで加熱すると純粋なFeCl<sub>2</sub>が得られる\[3\]。臭化鉄(II)\[FeBr<sub>2</sub>\]とヨウ化鉄(II)\[FeI<sub>2</sub>\]も同じような方法で作ることができる。
 
 また、[塩化鉄(III)](../Page/塩化鉄\(III\).md "wikilink")と[クロロベンゼン](../Page/クロロベンゼン.md "wikilink")から塩化鉄(II)を合成する方法もある\[4\]\[5\]。
 
   -
-    <ce>2FeCl3\\ + C6H5Cl -\> 2FeCl2\\ + C6H4Cl2\\ + HCl</ce>
+    <chem>2FeCl3\\ + C6H5Cl -\> 2FeCl2\\ + C6H4Cl2\\ + HCl</chem>
 
 ## 脚注
 

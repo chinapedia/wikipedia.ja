@@ -259,7 +259,7 @@
   - ＃32（11月15日） 『16in1』についての詳しい話を中心に、新録カバー曲「Super Girl」を聴きながら[伊集院光](../Page/伊集院光.md "wikilink")のラジオ番組投稿から始まったと言うPOARO結成秘話や、ベストアルバム制作のエピソードなどを紹介。
   - ＃33（11月22日） TVアニメ『[ef - a fairy tale of the two.](https://ja.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")』に宮村みや子役の[田口宏子](../Page/田口宏子.md "wikilink")が登場。事務所（[俳協](../Page/東京俳優生活協同組合.md "wikilink")）が同じにも関わらず先輩となかなか話をする機会がなかったこともあって利奈は心なしかウキウキ。2週連続ゲストの1週目は、田口の人となりを中心のトーク。学生時代に漫画『[王家の紋章](../Page/王家の紋章.md "wikilink")』の真似をみんなでしたり、[カピバラ](../Page/カピバラ.md "wikilink")に夢中だったり、一抱えもあるウサギを飼ってみたいなど。
   - ＃34（11月29日） 2週目は[宮村みや子](https://ja.wikipedia.org/wiki/宮村みや子 "wikilink")名義で歌うEDテーマ「I'm here」を紹介しながら田口に番組の話を利奈がきく。実験的な映像演出で話題を呼んでいる『ef - a fairy tale of the two.』、みや子の本領発揮(?)とも言うべき第7話のラストシーンをクローズアップ。
-  - ＃35（12月6日） OVA『ToHeart2』繋がりで[Suara](../Page/Suara.md "wikilink")と[上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")の2人が登場。1週目は2人の人となりを中心にお伺いしつつ、「Suaraに突っ込み冷やかす上原」と言う構図にどんどん展開。しかし、12月2日に開催された『[アクアプラスフェスタ](https://ja.wikipedia.org/wiki/アクアプラスフェスタ "wikilink")』での上原の初ステージの話題になると、Suaraが先輩として温かく見守ったエピソードを紹介しつつ、やっぱり関西ならではのノリで上原が突っ込んでいた。
+  - ＃35（12月6日） OVA『ToHeart2』繋がりで[Suara](../Page/Suara.md "wikilink")と[上原れな](../Page/上原れな.md "wikilink")の2人が登場。1週目は2人の人となりを中心にお伺いしつつ、「Suaraに突っ込み冷やかす上原」と言う構図にどんどん展開。しかし、12月2日に開催された『[アクアプラスフェスタ](https://ja.wikipedia.org/wiki/アクアプラスフェスタ "wikilink")』での上原の初ステージの話題になると、Suaraが先輩として温かく見守ったエピソードを紹介しつつ、やっぱり関西ならではのノリで上原が突っ込んでいた。
   - ＃36（12月13日） 「歌手を目指したキッカケは?」「楽曲・作詞に対しての姿勢は?」など、2人の音楽観に迫る質問を利奈が行った。ちなみに、OVA『ToHeart2ad』のテーマ曲「虹の架け橋」は上原が作詞。その時のエピソードも紹介された。
 
 <!-- end list -->
@@ -321,7 +321,7 @@
   - \#24（[9月20日](../Page/9月20日.md "wikilink")）・\#25（[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")）・\#26（[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")）・\#27（[10月11日](../Page/10月11日.md "wikilink")）・\#28（[10月18日](../Page/10月18日.md "wikilink")）・\#29（[10月25日](../Page/10月25日.md "wikilink")）・\#30（[11月1日](../Page/11月1日.md "wikilink")）：なし
   - \#31（[11月8日](../Page/11月8日.md "wikilink")）・\#32（[11月15日](../Page/11月15日.md "wikilink")）：[鷲崎健](../Page/鷲崎健.md "wikilink")（[ポアロ](../Page/ポアロ_\(音楽ユニット\).md "wikilink")）
   - \#33（[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）・\#34（[11月29日](../Page/11月29日.md "wikilink")）：[田口宏子](../Page/田口宏子.md "wikilink")
-  - \#35（[12月6日](../Page/12月6日.md "wikilink")）・\#36（[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")）：[Suara](../Page/Suara.md "wikilink")・[上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")
+  - \#35（[12月6日](../Page/12月6日.md "wikilink")）・\#36（[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")）：[Suara](../Page/Suara.md "wikilink")・[上原れな](../Page/上原れな.md "wikilink")
   - \#37（[12月20日](../Page/12月20日.md "wikilink")）・\#38（[12月27日](../Page/12月27日.md "wikilink")）：なし\[5\]
 
 </div>
@@ -349,7 +349,7 @@
   - \#45（[2月21日](../Page/2月21日.md "wikilink")）・\#46（[2月28日](../Page/2月28日.md "wikilink")）：[小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")
   - \#47（[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")）・\#48（[3月13日](../Page/3月13日.md "wikilink")）：[諸田英司DD](https://ja.wikipedia.org/wiki/諸田英司DD "wikilink")・[YURIA](../Page/YURIA.md "wikilink")（[re-in.Carnation∞YURIA](https://ja.wikipedia.org/wiki/re-in.Carnation∞YURIA "wikilink")）
   - \#49（[3月20日](../Page/3月20日.md "wikilink")）・\#50（[3月27日](../Page/3月27日.md "wikilink")）：[石川智晶](../Page/石川智晶.md "wikilink")
-  - \#51（[4月3日](../Page/4月3日.md "wikilink")）：[落合祐里香](https://ja.wikipedia.org/wiki/長谷優里奈 "wikilink")・[上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")（◎）
+  - \#51（[4月3日](../Page/4月3日.md "wikilink")）：[落合祐里香](https://ja.wikipedia.org/wiki/長谷優里奈 "wikilink")・[上原れな](../Page/上原れな.md "wikilink")（◎）
   - \#52（[4月10日](../Page/4月10日.md "wikilink")）：　　[伊藤静](../Page/伊藤静.md "wikilink")・上原れな（◎）
   - \#53（[4月17日](../Page/4月17日.md "wikilink")）・\#54（[4月24日](../Page/4月24日.md "wikilink")）：[pigstar](https://ja.wikipedia.org/wiki/pigstar "wikilink")（[関口友則](https://ja.wikipedia.org/wiki/関口友則 "wikilink")、[関口良二](https://ja.wikipedia.org/wiki/関口良二 "wikilink")、[石真宜](https://ja.wikipedia.org/wiki/石真宜 "wikilink")、[渡辺貴之](https://ja.wikipedia.org/wiki/渡辺貴之 "wikilink")）
   - \#55（[5月1日](../Page/5月1日.md "wikilink")）・\#56（[5月8日](../Page/5月8日.md "wikilink")）：[引田香織](../Page/引田香織.md "wikilink")
@@ -361,7 +361,7 @@
   - \#67（[7月24日](../Page/7月24日.md "wikilink")）・\#68（[7月31日](../Page/7月31日.md "wikilink")）：[ミラノサウンド](https://ja.wikipedia.org/wiki/ミラノサウンド "wikilink")
   - \#69（[8月7日](../Page/8月7日.md "wikilink")）・\#70（[8月14日](../Page/8月14日.md "wikilink")）：[志方あきこ](../Page/志方あきこ.md "wikilink")
   - \#71（[8月21日](../Page/8月21日.md "wikilink")）・\#72（[8月28日](../Page/8月28日.md "wikilink")）：[生天目仁美](../Page/生天目仁美.md "wikilink")
-  - \#73（[9月4日](../Page/9月4日.md "wikilink")）・\#74（[9月11日](../Page/9月11日.md "wikilink")）：[Suara](../Page/Suara.md "wikilink")・[上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")
+  - \#73（[9月4日](../Page/9月4日.md "wikilink")）・\#74（[9月11日](../Page/9月11日.md "wikilink")）：[Suara](../Page/Suara.md "wikilink")・[上原れな](../Page/上原れな.md "wikilink")
   - \#75（[9月18日](../Page/9月18日.md "wikilink")）：[Ciao](https://ja.wikipedia.org/wiki/Ciao "wikilink")（[川瀬晶子](../Page/川瀬晶子_\(声優\).md "wikilink")・[岡田優香](../Page/紅波柚香.md "wikilink")）
   - \#76（[9月25日](../Page/9月25日.md "wikilink")）：[スパイシー（大石孝次）](../Page/大石孝次.md "wikilink")
   - \#77（[10月3日](../Page/10月3日.md "wikilink")）・\#78（[10月10日](../Page/10月10日.md "wikilink")）：aya（[LOVERIN TAMBURIN](../Page/LOVERIN_TAMBURIN.md "wikilink")）
@@ -406,7 +406,7 @@
   - \#111（[5月28日](../Page/5月28日.md "wikilink")）・\#112（[6月4日](../Page/6月4日.md "wikilink")） [千葉進歩](../Page/千葉進歩.md "wikilink")
   - \#113（[6月11日](../Page/6月11日.md "wikilink")）・\#114（[6月18日](../Page/6月18日.md "wikilink")） [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
   - \#115（[6月25日](../Page/6月25日.md "wikilink")） [Suara](../Page/Suara.md "wikilink")
-  - \#116（[7月2日](../Page/7月2日.md "wikilink")） [上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")
+  - \#116（[7月2日](../Page/7月2日.md "wikilink")） [上原れな](../Page/上原れな.md "wikilink")
   - \#117（[7月23日](../Page/7月23日.md "wikilink")）・\#118（[7月30日](../Page/7月30日.md "wikilink")） [志方あきこ](../Page/志方あきこ.md "wikilink")\[10\]
   - \#119（[8月6日](../Page/8月6日.md "wikilink")）・\#120（[8月13日](../Page/8月13日.md "wikilink")） [佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")
   - \#121（[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")）・\#122（[8月27日](../Page/8月27日.md "wikilink")） [高橋直純](../Page/高橋直純.md "wikilink")
@@ -415,7 +415,7 @@
   - \#127（[10月1日](../Page/10月1日.md "wikilink")）・\#128（[10月8日](../Page/10月8日.md "wikilink")） [鹿野優以](../Page/鹿野優以.md "wikilink")
   - \#129（[10月15日](../Page/10月15日.md "wikilink")）・\#130（[10月22日](../Page/10月22日.md "wikilink")） [大原さやか](../Page/大原さやか.md "wikilink")
   - \#131（[10月29日](../Page/10月29日.md "wikilink")）・\#132（[11月5日](../Page/11月5日.md "wikilink")） [浪川大輔](../Page/浪川大輔.md "wikilink")
-  - \#133（[11月12日](../Page/11月12日.md "wikilink")）・\#134（[11月19日](../Page/11月19日.md "wikilink")） [生天目仁美](../Page/生天目仁美.md "wikilink")・[上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")
+  - \#133（[11月12日](../Page/11月12日.md "wikilink")）・\#134（[11月19日](../Page/11月19日.md "wikilink")） [生天目仁美](../Page/生天目仁美.md "wikilink")・[上原れな](../Page/上原れな.md "wikilink")
   - \#135（[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")）・\#136（[12月3日](../Page/12月3日.md "wikilink")） [新井里美](../Page/新井里美.md "wikilink")
   - \#137（[12月10日](../Page/12月10日.md "wikilink")）・\#138（[12月17日](../Page/12月17日.md "wikilink")） [小暮英麻](../Page/小暮英麻.md "wikilink")・[小野涼子](../Page/小野涼子.md "wikilink")
   - \#139（[12月24日](../Page/12月24日.md "wikilink")）・\#140（[12月31日](../Page/12月31日.md "wikilink")） [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
@@ -453,7 +453,7 @@
   - \#163（[6月10日](../Page/6月10日.md "wikilink")） [広橋涼](../Page/広橋涼.md "wikilink")
   - \#164（[6月17日](../Page/6月17日.md "wikilink")） [野中藍](../Page/野中藍.md "wikilink")
   - \#165（[6月24日](../Page/6月24日.md "wikilink")）・\#166（[7月1日](../Page/7月1日.md "wikilink")） [原田ひとみ](../Page/原田ひとみ.md "wikilink")
-  - \#169（[7月22日](../Page/7月22日.md "wikilink")）・\#170（[7月29日](../Page/7月29日.md "wikilink")） [上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")
+  - \#169（[7月22日](../Page/7月22日.md "wikilink")）・\#170（[7月29日](../Page/7月29日.md "wikilink")） [上原れな](../Page/上原れな.md "wikilink")
   - \#171（[8月5日](../Page/8月5日.md "wikilink")）・\#172（[8月12日](../Page/8月12日.md "wikilink")） [酒井香奈子](../Page/さかいかな.md "wikilink")
   - \#173（[8月19日](../Page/8月19日.md "wikilink")）・\#174（[8月26日](../Page/8月26日.md "wikilink")） [ささきのぞみ](../Page/ささきのぞみ.md "wikilink")
   - \#175（[9月2日](../Page/9月2日.md "wikilink")）・\#176（[9月9日](../Page/9月9日.md "wikilink")） [真堂圭](../Page/真堂圭.md "wikilink")
@@ -487,7 +487,7 @@
   - \#207（[4月14日](../Page/4月14日.md "wikilink")）・\#208（[4月21日](../Page/4月21日.md "wikilink")） [牧野由依](../Page/牧野由依.md "wikilink")
   - \#209（[4月28日](../Page/4月28日.md "wikilink")）・\#210（[5月5日](../Page/5月5日.md "wikilink")） [井上喜久子](../Page/井上喜久子.md "wikilink")
   - \#211（[5月12日](../Page/5月12日.md "wikilink")）・\#212（[5月19日](../Page/5月19日.md "wikilink")） [富田麻帆](../Page/富田麻帆.md "wikilink")
-  - \#213（[5月26日](../Page/5月26日.md "wikilink")）・\#214（[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")） [Suara](../Page/Suara.md "wikilink")
+  - \#213（[5月26日](../Page/5月26日.md "wikilink")）・\#214（[6月2日](../Page/6月2日.md "wikilink")） [Suara](../Page/Suara.md "wikilink")
   - \#217（[6月23日](../Page/6月23日.md "wikilink")） [azusa](https://ja.wikipedia.org/wiki/azusa_\(シンガーソングライター\) "wikilink")
   - \#218（[6月30日](../Page/6月30日.md "wikilink")） [河田将司](https://ja.wikipedia.org/wiki/河田将司 "wikilink")（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）※『[アスタロッテのおもちゃ\!](https://ja.wikipedia.org/wiki/ロッテのおもちゃ! "wikilink")』音楽プロデューサー
   - \#219（[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")）・\#220（[7月14日](../Page/7月14日.md "wikilink")） [高本めぐみ](../Page/高本めぐみ.md "wikilink")
@@ -521,7 +521,7 @@
   - \#245（[1月12日](../Page/1月12日.md "wikilink")）・\#246（[1月19日](../Page/1月19日.md "wikilink")） [轟豊太](https://ja.wikipedia.org/wiki/轟豊太 "wikilink")
   - \#248（[2月2日](../Page/2月2日.md "wikilink")）・\#249（[2月9日](../Page/2月9日.md "wikilink")） [大和田秀樹](../Page/大和田秀樹.md "wikilink")・[川瀬浩平](../Page/川瀬浩平.md "wikilink")
   - \#250・\#251（[2月16日](../Page/2月16日.md "wikilink")・[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")） [里見哲朗](https://ja.wikipedia.org/wiki/里見哲朗 "wikilink")（※\#250のみ[かかずゆみ](../Page/かかずゆみ.md "wikilink")が飛び入り\[12\]）
-  - \#252・\#253（[3月1日](../Page/3月1日.md "wikilink")・[3月8日](../Page/3月8日.md "wikilink")） [上原れな](https://ja.wikipedia.org/wiki/上原れな "wikilink")
+  - \#252・\#253（[3月1日](../Page/3月1日.md "wikilink")・[3月8日](../Page/3月8日.md "wikilink")） [上原れな](../Page/上原れな.md "wikilink")
   - \#254・\#255（[3月15日](../Page/3月15日.md "wikilink")・[3月22日](../Page/3月22日.md "wikilink")） [原田ひとみ](../Page/原田ひとみ.md "wikilink")
   - \#260・\#261（[4月26日](../Page/4月26日.md "wikilink")・[5月3日](../Page/5月3日.md "wikilink")） [霜月はるか](../Page/霜月はるか.md "wikilink")
   - \#264・\#265（[5月24日](../Page/5月24日.md "wikilink")・[5月31日](../Page/5月31日.md "wikilink")） [鷲崎健](../Page/鷲崎健.md "wikilink")
@@ -610,7 +610,7 @@
   - [フロンティアワークス](http://www.fwinc.co.jp/)
   - **[CHAMBERS RECORDS OFFICIALSITE](http://www.chambers.co.jp/) ** - （[2007年](../Page/2007年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") 〜 ）
       - [チェンバースレコーズ](http://www.chambers.co.jp/)
-  - **[Full Books](http://ameblo.jp/fullbooks/) ** - （スパイシーブログ([2007年](../Page/2007年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") 〜 、『スパイシーの「あの空」こぼれ話』から移転)）
+  - **[Full Books](https://ameblo.jp/fullbooks/) ** - （スパイシーブログ([2007年](../Page/2007年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") 〜 、『スパイシーの「あの空」こぼれ話』から移転)）
       - [「佐藤利奈のあの空で逢えたら」](http://www.chambers.co.jp/radio/ssj2.html)  - （チェンバースレコーズ内サイト(2007年1月1日まで)）
   - **[あの空便り♪F（番組公式楽屋ブログ）](http://rinanosora.exblog.jp/) **
 

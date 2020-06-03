@@ -370,7 +370,7 @@ B－ぐる用車両には、運転席後背部にモニターが設置され、B
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミーツポート" title="wikilink">ミーツポート</a></p></td>
+<td><p><a href="../Page/ミーツポート.md" title="wikilink">ミーツポート</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:PrefSymbol-Tokyo.svg" title="wikilink">15px都営地下鉄</a>：<a href="https://ja.wikipedia.org/wiki/ファイル:Subway_TokyoMita.png" title="wikilink">15px</a> 三田線<br />
 <a href="https://ja.wikipedia.org/wiki/ファイル:JR_logo_(east).svg" title="wikilink">15pxJR東日本</a>：<a href="https://ja.wikipedia.org/wiki/ファイル:JR_JB_line_symbol.svg" title="wikilink">15px</a> <a href="../Page/中央・総武緩行線.md" title="wikilink">中央・総武緩行線</a></p></td>
 <td></td>

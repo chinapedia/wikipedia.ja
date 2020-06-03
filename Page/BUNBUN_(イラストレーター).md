@@ -72,7 +72,7 @@
 
 #### 挿絵・イラスト
 
-  - [ソードアート・オンライン](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")（著：[川原礫](https://ja.wikipedia.org/wiki/川原礫 "wikilink") / [電撃文庫](../Page/電撃文庫.md "wikilink")）
+  - [ソードアート・オンライン](https://ja.wikipedia.org/wiki/ソードアート・オンライン "wikilink")（著：[川原礫](https://ja.wikipedia.org/wiki/川原礫 "wikilink") / [電撃文庫](../Page/電撃文庫.md "wikilink")）既刊30巻
 
 #### 画集
 

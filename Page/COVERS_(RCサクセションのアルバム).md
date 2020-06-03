@@ -25,7 +25,7 @@
 
 1.  **[明日なき世界](https://ja.wikipedia.org/wiki/明日なき世界 "wikilink")** ('')
       -
-        オリジナルは[バリー・マクガイア](https://ja.wikipedia.org/wiki/バリー・マクガイア "wikilink")。日本でも[高石ともや](../Page/高石ともや.md "wikilink")が日本語詞を付けてカバーしており、本作の歌詞は高石の訳詞版がベースとなっている。[金子マリ](../Page/金子マリ.md "wikilink")、[ジョニー・サンダース](../Page/ジョニー・サンダース.md "wikilink")がゲスト参加。
+        オリジナルは[バリー・マクガイア](../Page/バリー・マクガイア.md "wikilink")。日本でも[高石ともや](../Page/高石ともや.md "wikilink")が日本語詞を付けてカバーしており、本作の歌詞は高石の訳詞版がベースとなっている。[金子マリ](../Page/金子マリ.md "wikilink")、[ジョニー・サンダース](../Page/ジョニー・サンダース.md "wikilink")がゲスト参加。
 2.  **[風に吹かれて](../Page/風に吹かれて_\(ボブ・ディランの曲\).md "wikilink")** ()
       -
         オリジナルは[ボブ・ディラン](../Page/ボブ・ディラン.md "wikilink")。[山口冨士夫](../Page/山口冨士夫.md "wikilink")、[高井麻巳子](https://ja.wikipedia.org/wiki/高井麻巳子 "wikilink")がゲスト参加。

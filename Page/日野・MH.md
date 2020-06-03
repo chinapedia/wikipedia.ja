@@ -53,7 +53,7 @@ Image:HinoMH.jpg|MH（後期型 [東京消防庁](../Page/東京消防庁.md "wi
   - [日野自動車](../Page/日野自動車.md "wikilink")
   - [日野・プロフィア](../Page/日野・プロフィア.md "wikilink")
   - [日野・レンジャー](../Page/日野・レンジャー.md "wikilink")
-  - [日産ディーゼル・FJ](https://ja.wikipedia.org/wiki/日産ディーゼル・FJ "wikilink")
+  - [日産ディーゼル・FJ](../Page/日産ディーゼル・FJ.md "wikilink")
 
 ## 外部リンク
 

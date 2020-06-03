@@ -9,7 +9,7 @@
 
 ローマは[セリエAを](../Page/セリエA_\(サッカー\).md "wikilink")3回（1941-42、1982-83、2000-01）、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")を9回、[スーペルコッパ・イタリアーナ](../Page/スーペルコッパ・イタリアーナ.md "wikilink")を2回制している。[欧州の舞台では](https://ja.wikipedia.org/wiki/UEFA "wikilink")、1960-61[インターシティーズ・フェアーズカップ](https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ "wikilink")で優勝した。また、1983-84の[ヨーロピアンカップと](../Page/UEFAチャンピオンズリーグ.md "wikilink")1990-91の[UEFAカップ決勝に進出したものの](../Page/UEFAヨーロッパリーグ.md "wikilink")、それぞれ[リヴァプールと](../Page/リヴァプールFC.md "wikilink")[インテルに敗れ](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、準優勝に終わっている。
 
-[2012年](../Page/2012年.md "wikilink")2月、『[デロイト](../Page/デロイト_トウシュ_トーマツ.md "wikilink")』が公表した[デロイト・フットボール・マネー・リーグ](https://ja.wikipedia.org/wiki/デロイト・フットボール・マネー・リーグ "wikilink")によると、2010-11シーズンのクラブ収入は1億4350万ユーロ（約160億円）であり、欧州第15位、イタリアでは[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[インテルナツィオナーレ・ミラノ](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")に次ぐ第4位である\[1\]。
+2020年に『[デロイト](../Page/デロイト_トウシュ_トーマツ.md "wikilink")』が公表した[デロイト・フットボール・マネー・リーグ](https://ja.wikipedia.org/wiki/デロイト・フットボール・マネー・リーグ "wikilink")によると、2018-19シーズンのクラブ収入は2億3100万ユーロであり、ヨーロッパで第16位、イタリアでは[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")、[インテルナツィオナーレ・ミラノ](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")に次ぐ第3位である\[1\]。
 
 エンブレムの[オオカミ](../Page/オオカミ.md "wikilink")のマークは[古代ローマの建国神話における](https://ja.wikipedia.org/wiki/ローマの建国神話 "wikilink")[ロムルスと](../Page/ロームルス.md "wikilink")[レムス](../Page/レムス.md "wikilink")の兄弟の逸話から取られたものである。サポーターは**ロマニスタ**と呼ばれる。
 
@@ -2078,7 +2078,7 @@
 
 [Category:イタリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:イタリアのサッカークラブ "wikilink") [Category:イタリア証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:イタリア証券取引所上場企業 "wikilink") [Category:ASローマ](https://ja.wikipedia.org/wiki/Category:ASローマ "wikilink") [Category:ローマのサッカー](https://ja.wikipedia.org/wiki/Category:ローマのサッカー "wikilink") [Category:ローマのスポーツチーム](https://ja.wikipedia.org/wiki/Category:ローマのスポーツチーム "wikilink")
 
-1.  [Deloitte Football Money League 2012](http://www.deloitte.com/view/en_GB/uk/industries/sportsbusinessgroup/sports/football/deloitte-football-money-league/index.htm) 2012年2月9日に国際監査法人『デロイト』が公表した2010-11シーズンの欧州サッカーのクラブ収入ランキング。
+1.  [Football Money League 2020](https://www2.deloitte.com/jp/ja/pages/consumer-and-industrial-products/articles/sb/football-money-league2020.html) - deloitte
 2.
 3.
 4.

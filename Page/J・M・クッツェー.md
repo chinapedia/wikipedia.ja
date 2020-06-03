@@ -76,7 +76,8 @@
       - 鴻巣友季子訳 早川書房,2016.6.
   - *Three Stories,* Text Publishing, Melbourne (2014)
   - *The Good Story: Exchanges on Truth, Fiction and Psychotherapy with Arabella Kurtz,* Harvill Secker, London (2015) ISBN 978-1-846-55888-7
-  - *The Schooldays of Jesus,* Harvill Secker, London (2016) ISBN 978-1-911-21535-6
+  - 『イエスの学校時代』*The Schooldays of Jesus,* Harvill Secker, London (2016) ISBN 978-1-911-21535-6
+      - 鴻巣友季子訳 早川書房,2020.4.
   - *Late Essays: 2006 - 2017,* Harvill Secker, London (2017) ISBN 978-1-911215-43-1
   - 『モラルの話』くぼたのぞみ訳 人文書院, 2018.5 ISBN 978-4-409-13040-7（英語版*Moral Tales* は未刊）
   - *The Death of Jesus,* Text Publishing, Melbourne (2019) ISBN 9781922268280

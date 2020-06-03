@@ -9,7 +9,7 @@
 
 [二酸化窒素](../Page/二酸化窒素.md "wikilink")などの[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")物質をはじめとする[公害](../Page/公害.md "wikilink")分野や、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")などの濃度、[岩石](../Page/岩石.md "wikilink")中の[微量元素](https://ja.wikipedia.org/wiki/微量元素 "wikilink")の組成、[半導体](../Page/半導体.md "wikilink")中の不純物量を示す目的などでよく用いられる。
 
-気体中の気体については体積比を用い、液体･固体中の液体・固体では重量比を用いるのが一般的である。なお、水溶液中の濃度については、「1 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink") = 1 [L](../Page/リットル.md "wikilink")」と近似して「mg/L = ppm」とし、不純物等の濃度の単位として用いられる。ちなみに、一般の水の遊離残留塩素濃度は約0.4ppm、浄水器を使った場合は約0.1ppmである。
+気体中の気体については体積比を用い、液体･固体中の液体・固体では重量比を用いるのが一般的である。なお、水溶液中の濃度については、「1 [kg](https://ja.wikipedia.org/wiki/キログラム "wikilink") = 1 [L](../Page/リットル.md "wikilink")」と近似して「mg/L = ppm」とし、不純物等の濃度の単位として用いられる。ちなみに、日本国内では一般的な水道水の遊離残留塩素濃度は約0.4ppm、浄水器を使った場合は約0.1ppmである。
 
 長さを表す例として、線膨張係数の表記にも使用される。（例）線膨張係数が8.8 ppm/℃と表記されている場合、これは、8.8µm/℃/m（メートル）のことである。
 

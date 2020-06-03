@@ -17,8 +17,6 @@
 
 ### 言語機能(Verbal response)「V」
 
-\=
-
   - 5点：[見当識](https://ja.wikipedia.org/wiki/見当識 "wikilink")が保たれている
   - 4点：会話は成立するが見当識が混乱
   - 3点：発語はみられるが会話は成立しない

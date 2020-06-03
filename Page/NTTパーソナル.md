@@ -317,4 +317,4 @@ NTTパーソナルより発売された機種のみ記述する。[NTTPersonal_3
   - NTTパーソナル中国：[とんねるず](../Page/とんねるず.md "wikilink")→[加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")→[山田まりや](https://ja.wikipedia.org/wiki/山田まりや "wikilink")
   - NTTパーソナル九州：[豊田麻里](../Page/豊田麻里.md "wikilink")→[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")
 
-[Category:PHS_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:PHS_\(NTTドコモ\) "wikilink") [Category:日本の携帯電話事業者](https://ja.wikipedia.org/wiki/Category:日本の携帯電話事業者 "wikilink") [Category:かつて存在した日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気通信事業者 "wikilink")
+[Category:PHS_(NTTドコモ)](https://ja.wikipedia.org/wiki/Category:PHS_\(NTTドコモ\) "wikilink") [Category:日本の携帯電話事業者](https://ja.wikipedia.org/wiki/Category:日本の携帯電話事業者 "wikilink") [Category:かつて存在した日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気通信事業者 "wikilink") [Category:NTTグループの歴史](https://ja.wikipedia.org/wiki/Category:NTTグループの歴史 "wikilink")

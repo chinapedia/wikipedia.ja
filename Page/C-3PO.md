@@ -55,8 +55,9 @@ R2-D2とは、彼が初めて起動された際に「裸である」とバカに
   - 『エピソード4』[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")初回放送版、「エピソード4〜6」日本テレビ版・ソフト版：[野沢那智](../Page/野沢那智.md "wikilink")
   - 『エピソード5』[テレビ朝日](../Page/テレビ朝日.md "wikilink")版：[富山敬](../Page/富山敬.md "wikilink")
   - 「エピソード1〜3」以降の各種作品、『エピソード4』日本テレビ'02年版、『[シュガー・ラッシュ:オンライン](https://ja.wikipedia.org/wiki/シュガー・ラッシュ:オンライン "wikilink")』：[岩崎ひろし](../Page/岩崎ひろし.md "wikilink")※専属声優
-  - ゲーム『[スター・ウォーズ ローグ スコードロン II](../Page/スター・ウォーズ_ローグ_スコードロン_II.md "wikilink")』：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
-  - レゴ・スターウォーズ：[飛田展男](../Page/飛田展男.md "wikilink")
+  - アニメ『[スター・ウォーズ ドロイドの大冒険](https://ja.wikipedia.org/wiki/スター・ウォーズ_ドロイドの大冒険 "wikilink")』VHS版、ゲーム『[スター・ウォーズ ローグ スコードロン II](../Page/スター・ウォーズ_ローグ_スコードロン_II.md "wikilink")』『[スター・ウォーズ ローグ スコードロン III](https://ja.wikipedia.org/wiki/スター・ウォーズ_ローグ_スコードロン_III "wikilink")』：[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")
+  - ゲーム『[スター・ウォーズ ギャラクティック・バトルグラウンド](https://ja.wikipedia.org/wiki/スター・ウォーズ_ギャラクティック・バトルグラウンド "wikilink")』：[掛川裕彦](../Page/掛川裕彦.md "wikilink")
+  - アニメ『[レゴ スター・ウォーズ](https://ja.wikipedia.org/wiki/レゴ_スター・ウォーズ "wikilink")』『[フィニアスとファーブ](https://ja.wikipedia.org/wiki/フィニアスとファーブ "wikilink")』：[飛田展男](../Page/飛田展男.md "wikilink")
 
 ## 脚注
 

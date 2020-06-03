@@ -32,6 +32,8 @@
 
   - [差別用語](../Page/差別用語.md "wikilink")
   - [常識](../Page/常識.md "wikilink") - [非常識](https://ja.wikipedia.org/wiki/非常識 "wikilink")
+  - [マナー](../Page/マナー.md "wikilink") - [モラル](https://ja.wikipedia.org/wiki/モラル "wikilink")
+  - [道徳心](https://ja.wikipedia.org/wiki/道徳心 "wikilink")
   - [中二病](../Page/中二病.md "wikilink")
   - [厨房 (ネット用語)](../Page/厨房_\(ネット用語\).md "wikilink")
   - [レッテル](https://ja.wikipedia.org/wiki/レッテル "wikilink")

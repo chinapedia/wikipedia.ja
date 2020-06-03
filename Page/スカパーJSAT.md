@@ -175,20 +175,20 @@ JCSAT-110R</p></td>
     スカパー・エンターテイメントによる衛星基幹放送へのみ供給している。
       - Ch.BS241 [BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")
       - Ch.BS840 スカパー\!ガイド
-      - Ch.CS001 [e2メイト](https://ja.wikipedia.org/wiki/e2メイト "wikilink")（2008年7月1日より放送休止中）
-      - Ch.CS100 [スカパー\!プロモ100](../Page/スカパー!プロモ100.md "wikilink")（2018年8月27日をもって放送終了）
-      - Ch.CS800 [スポーツライブ+](../Page/スポーツライブ+.md "wikilink")（2020年2月29日までは[スカサカ\!](https://ja.wikipedia.org/wiki/スカサカ! "wikilink")の名称であった）
+      - Ch.CS001 [e2メイト](https://ja.wikipedia.org/wiki/スカパー!プロモ599 "wikilink")（2008年7月1日より放送休止中）
+      - Ch.CS100 [スカパー\!プロモ100](https://ja.wikipedia.org/wiki/スカパー!プロモ599 "wikilink")（2018年8月27日をもって放送終了）
+      - Ch.CS800 [スポーツライブ+](../Page/スポーツライブ+.md "wikilink")（2020年2月29日までは[スカサカ\!](https://ja.wikipedia.org/wiki/スカサカ! "wikilink")）
       - Ch.CS801 [スカチャン](../Page/スカチャン.md "wikilink")
 
 <!-- end list -->
 
   - スカパー\!プレミアムサービス向けチャンネル
     スカパーJSATが[衛星一般放送事業者及び有線一般放送事業者として放送](https://ja.wikipedia.org/wiki/一般放送事業者 "wikilink")。
-      - Ch.200　[スカパー\!プロモ200](https://ja.wikipedia.org/wiki/スカパー!プロモ200 "wikilink")
-      - Ch.202　スカパー\!インフォ202
+      - Ch.200　[スカパー\!プロモ200](https://ja.wikipedia.org/wiki/スカパー!プロモ599 "wikilink")
+      - Ch.202　[スカパー\!インフォ202](https://ja.wikipedia.org/wiki/スカパー!プロモ599 "wikilink")
     スカパーJSATが有線一般放送事業者として放送、スカパー・ブロードキャスティングによる衛星一般放送へ供給。
       - Ch.161 - 199 スカチャン、スカチャン3D（※スカチャン3Dは2013年3月31日放送終了）
-      - Ch.599　スカパー\!プロモ599
+      - Ch.599　[スカパー\!プロモ599](https://ja.wikipedia.org/wiki/スカパー!プロモ599 "wikilink")
 
 <!-- end list -->
 

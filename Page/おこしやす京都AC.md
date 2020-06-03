@@ -192,7 +192,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年の地域リーグ_(サッカー)#関西" title="wikilink">2020</a></p></td>
 <td></td>
 <td></td>
-<td><p>14</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -227,6 +227,8 @@
       - 2012, 2017, 2019
   - [京都FAカップ京都サッカー選手権大会](https://ja.wikipedia.org/wiki/京都FAカップ京都サッカー選手権大会 "wikilink")（兼[天皇杯京都府予選](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）：3回
       - 2012, 2017, 2018
+  - [KSLカップ](https://ja.wikipedia.org/wiki/KSLカップ "wikilink")：2回
+      - 2017, 2019
 
 ## 下部組織
 
@@ -638,7 +640,7 @@
 
 ### クラブカラー
 
-  - 紫紺、 緑\[9\]
+  - 紫紺、 白緑\[9\]
 
 ### 現在のユニフォームスポンサー
 

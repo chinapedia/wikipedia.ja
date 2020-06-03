@@ -17,11 +17,11 @@
 
 <!-- end list -->
 
-  - **[田沢公大](https://ja.wikipedia.org/wiki/田沢公大 "wikilink")**（たざわ こうだい、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）
+  - **田沢公大**（たざわ こうだい、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - ）
 
 ## 来歴
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、古川が[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")内にあった「楽器の文明堂」（既に閉店）に貼ったバンドメンバー募集の張り紙により同地でバンドを結成。レコード会社へ送ったデモテープがきっかけで1997年にシングル「creamsoda」で[デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、古川が[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")内にあった「楽器の文明堂」（既に閉店）に貼ったバンドメンバー募集の張り紙により同地でバンドを結成。レコード会社へ送ったデモテープがきっかけで1997年にシングル「cream soda」で[デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
       - 同時期に登場した[ナンバーガール](../Page/ナンバーガール.md "wikilink")、[中村一義](../Page/中村一義.md "wikilink")、[くるり](../Page/くるり.md "wikilink")らとともに「'97の世代」と呼ばれ、新世代ロックバンドとして活動。1998年頃には当時勢いのあったバンド、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")などと一緒に「スニーカー系」と呼ばれた。
   - 2000年に発表された3作目のアルバム『Futurama』からは[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")をに取り入れるようになる。
       - これについて中村は具体的に[ROVO](../Page/ROVO.md "wikilink")や[コーネリアスからの影響をあげている](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")。

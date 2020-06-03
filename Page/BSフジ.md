@@ -371,37 +371,42 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>フジテレビ<br />
-ドラマ</p></td>
+<td><p>ドラマ</p></td>
+<td><p>CODE1515</p></td>
+<td><p>日曜 24:00 - 24:30</p></td>
+<td><p>2020年5月10日スタート</p></td>
+</tr>
+<tr class="even">
 <td><p>〈BSフジサスペンス劇場〉</p></td>
 <td><p>月曜 - 金曜 12:00 - 13:58</p></td>
 <td><p>※スポーツ中継などにより放送休止の場合もあり</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>〈午後の名作ドラマ劇場〉</p></td>
 <td><p>月曜 - 金曜 17:00 - 19:00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>ドラマ</p></td>
-<td><p>〈フジテレビドラマ再放送〉ラスト・シンデレラ</p></td>
+<tr class="even">
+<td><p>〈フジテレビドラマ再放送〉お義父さんと呼ばせて</p></td>
 <td><p>月曜 - 金曜 10:00 - 10:57</p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>時空探偵おゆう　大江戸科学捜査</p></td>
 <td><p>土曜 24:30 - 25:00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/時代劇.md" title="wikilink">時代劇</a></p></td>
-<td><p>〈時代劇名作選〉江戸の用心棒</p></td>
+<td><p>〈時代劇名作選〉旗本退屈男</p></td>
 <td><p>月曜 - 金曜 8:55 - 10:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>〈時代劇〉</p></td>
 <td><p>月曜 - 金曜 19:00 - 19:55</p></td>
 <td><p>月曜:鬼平犯科帳シリーズ<br />
@@ -411,9 +416,9 @@
 金曜:銭形平次シリーズ</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>韓国ドラマ</p></td>
-<td><p>〈韓ドラ〉SKYキャッスル〜上流階級の妻たち〜</p></td>
+<td><p>〈韓ドラ〉秘密と嘘</p></td>
 <td><p>月曜 - 金曜 14:59 - 16:00</p></td>
 <td></td>
 </tr>
@@ -594,13 +599,13 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/JUDO" title="wikilink">JUDO</a></p></td>
 <td><p>土曜 17:30 - 17:55</p></td>
-<td><p>隔週新作 2020年3月28日までは土曜 18:30 - 18:55で放送していた。</p></td>
+<td><p>※隔週新作 2020年3月28日までは土曜 18:30 - 18:55で放送していた。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/お台場バドミントン学園" title="wikilink">お台場バドミントン学園</a></p></td>
 <td><p>最終日曜 13:00 - 14:00</p></td>
-<td><p>出演：<a href="https://ja.wikipedia.org/wiki/潮田玲子" title="wikilink">潮田玲子</a>、<a href="https://ja.wikipedia.org/wiki/内田嶺衣奈" title="wikilink">内田嶺衣奈</a>（フジテレビアナウンサー） 2019年5月26日スタート</p></td>
+<td><p>2019年5月26日スタート 出演：<a href="https://ja.wikipedia.org/wiki/潮田玲子" title="wikilink">潮田玲子</a>、<a href="https://ja.wikipedia.org/wiki/内田嶺衣奈" title="wikilink">内田嶺衣奈</a>（フジテレビアナウンサー）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -643,7 +648,7 @@
 <tr class="odd">
 <td><p><a href="../Page/わがまま!気まま!旅気分.md" title="wikilink">わがまま!気まま!旅気分</a></p></td>
 <td><p>土曜 6:00 - 6:55</p></td>
-<td><p>FNS各局制作</p></td>
+<td><p>FNS各局制作 2020年3月28日を最後に放送中断中。</p></td>
 </tr>
 <tr class="even">
 <td><p>完全生中継 <a href="https://ja.wikipedia.org/wiki/祇園祭#宵山・山鉾巡行" title="wikilink">祇園祭山鉾巡行</a></p></td>
@@ -735,9 +740,9 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td></td>
 </tr>
 <tr class="even">
-<td><p>ＳＴＵ発⇒東京</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/STU発⇒東京" title="wikilink">STU発⇒東京</a></p></td>
 <td><p>木曜 23:30 - 23:55</p></td>
-<td></td>
+<td><p>2020年4月12日を最後に放送中断中。</p></td>
 </tr>
 <tr class="odd">
 <td><p>DJ OSSHY DISCO TV</p></td>
@@ -770,10 +775,9 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>&lt;土曜+1&gt;次課・長州の力旅</p></td>
+<td><p>&lt;土曜+1&gt;旅する侍キュイジニエ</p></td>
 <td><p>土曜 18:00 - 18:55</p></td>
-<td><p>土曜+1枠は月毎に番組が変わり、一部番組除き基本全2回の番組構成となる。<br />
-（第3第4土曜は再放送） 2020年3月28日までは土曜 22:00 - 22:55で放送していた。</p></td>
+<td><p>土曜+1枠は月毎に番組が変わり、一部番組除き基本全2～3回の番組構成となる。（残りの週は再放送） 2020年3月28日までは土曜 22:00 - 22:55で放送していた。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/小山薫堂.md" title="wikilink">小山薫堂 東京会議</a></p></td>
@@ -786,14 +790,13 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td><p>※隔週新作</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アニソンラバーズ" title="wikilink">アニソンラバーズ</a></p></td>
-<td><p>土曜 24:30 - 24:55</p></td>
-<td><p>2019年4月6日スタート<br />
-※隔週新作</p></td>
+<td><p>＜MUSIC:S＞FUJI-YAMA MID-NIGHT-FISHING</p></td>
+<td><p>土曜 25:00 - 25:55</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>荒野女子部Season2 ～ただいま交戦中～</p></td>
-<td><p>土曜 26:00 -26:55</p></td>
+<td><p>土曜 26:00 - 26:55</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
 <tr class="even">
@@ -843,7 +846,6 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 | [GO\!GO\!チャギントンスペシャル](https://ja.wikipedia.org/wiki/チャギントン "wikilink")                   | 日曜 8:00 - 8:30 |               |
 | [ガチャムク](https://ja.wikipedia.org/wiki/ガチャムク "wikilink")                                  | 日曜 8:30 - 9:00 | 2018年7月8日放送開始 |
 | [サンリオキャラクターズ ポンポンジャンプ\!](https://ja.wikipedia.org/wiki/サンリオキャラクターズ_ポンポンジャンプ! "wikilink") | 日曜 9:00 - 9:30 |               |
-| [じゃじゃじゃじゃ〜ン\!](https://ja.wikipedia.org/wiki/じゃじゃじゃじゃ〜ン! "wikilink")                     | 月曜 7:27 - 7:55 |               |
 |                                                                                          |                |               |
 
 ### ドキュメンタリー・情報
@@ -942,6 +944,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [音楽のある風景](../Page/音楽のある風景.md "wikilink")（月曜 - 金曜 27:30 - 28:30）
   - [ディノス](../Page/ディノス.md "wikilink")ショッピングジャーナル 通販DJ
   - [ショップチャンネル お買い物エンターテイメント](../Page/ショップチャンネル.md "wikilink")（ショップチャンネルの[サイマル放送](../Page/サイマル放送.md "wikilink")）
+  - ジュエリーライフ11（[GSTV](https://ja.wikipedia.org/wiki/GSTV "wikilink")の[サイマル放送](../Page/サイマル放送.md "wikilink")）
 
 ほか
 
@@ -1066,7 +1069,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - ウォーキングプラス+
   - 阿川佐和子のゴルフフォーラム
   - [世界空手道選手権大会](https://ja.wikipedia.org/wiki/世界空手道選手権大会 "wikilink")
-  - [ジャパンカップサイクルロードレース](../Page/ジャパンカップサイクルロードレース.md "wikilink") ※2007 - 2009年。2010年は[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")、2011年は[BS日テレで放送](../Page/BS日本.md "wikilink")
+  - [ジャパンカップサイクルロードレース](../Page/ジャパンカップサイクルロードレース.md "wikilink") ※2007 - 2009年。2010年は[BSジャパン](../Page/BSテレビ東京.md "wikilink")、2011年は[BS日テレで放送](../Page/BS日本.md "wikilink")
   - 自転車専科〜Cyclish style〜
   - [ナビスコカップ](../Page/Jリーグカップ.md "wikilink")（決勝戦のみ\[19\]、2002年 - 2010年は地上波フジテレビ系列と同時放送、2011年は当日録画放送、2012年は放送なし）
   - [2010 スーパーGT](https://ja.wikipedia.org/wiki/SUPER_GT#過去の放送 "wikilink")
@@ -1188,6 +1191,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [MISSION ENGLISH](https://ja.wikipedia.org/wiki/MISSION_ENGLISH "wikilink")
   - モジーズ\&YOU
   - [GP LEAGUE プログラミングコロシアム](https://ja.wikipedia.org/wiki/GP_LEAGUE_プログラミングコロシアム "wikilink")
+  - [じゃじゃじゃじゃ〜ン\!](https://ja.wikipedia.org/wiki/じゃじゃじゃじゃ〜ン! "wikilink")※フジテレビ地上波では現在も放送中。
 
 ### アニメ（過去）
 
@@ -1489,7 +1493,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 1.  [BSフジ、1年前倒し初の単年度黒字\!純利益1億79百万円](https://web.archive.org/web/20071008035557/http://www.bunkatsushin.com/modules/bulletin/article.php?storyid=9967)（2007年10月8日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） - 文化通信.com（2007年4月17日付、2010年8月24日閲覧）
 2.   - BSフジ（平成28年5月27日）
 3.  （2010年11月22日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） - フジ・メディア・ホールディングス、ビーエスフジ（2010年11月2日付、同月13日閲覧）
-4.  「[（報道資料）放送普及基本計画の一部変更案に係る電波監理審議会の答申](http://www.soumu.go.jp/s-news/2005/050713_2.html)」 総務省、2005年7月13日
+4.  「[（報道資料）放送普及基本計画の一部変更案に係る電波監理審議会の答申](https://www.soumu.go.jp/menu_news/s-news/2005/050713_2.html)」 総務省、2005年7月13日
 5.
 6.  （2012年1月17日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） フジ・メディア・ホールディングス 東証開示資料 2011年6月29日
 7.
@@ -1501,7 +1505,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 13. 日本ハム・ソフトバンク戦は地上波同時放送、オリックス戦は対阪神戦は生中継かつ地上波同時放送〈ナイター開催時は一部時間帯は裏送り〉、対阪神戦以外の試合は裏送り（自社では深夜の録画中継）で放送。
 14.
 15.
-16. [国内最大規模イベント「Anime Japan2017」でBSフジが初出展！](http://animeguild.jp/2017/03/23/news-104) - 2017年3月23日付公式サイトより。
+16. [国内最大規模イベント「Anime Japan2017」でBSフジが初出展！](https://animeguild.jp/2017/03/23/news-104) - 2017年3月23日付公式サイトより。
 17. 公式サイト上での表記は日・水・木 24:00 - 24:30、月・火 24:00 - 25:00
 18.
 19. 初期の頃は準決勝以下も放送していた。

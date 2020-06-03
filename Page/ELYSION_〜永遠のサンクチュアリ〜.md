@@ -99,7 +99,7 @@
 ## 用語
 
   - サンタ・マリア島
-    舞台となる孤島。[同名の島とは無関係](../Page/サンタマリア.md "wikilink")。[アドリア海](https://ja.wikipedia.org/wiki/アドリア海 "wikilink")の[イタリア](../Page/イタリア.md "wikilink")と[ユーゴスラビア](../Page/ユーゴスラビア.md "wikilink")の[国境](../Page/国境.md "wikilink")に位置するため、冷戦終結までの40年間、[国連指定の立入禁止区域に指定されていた](../Page/国際連合.md "wikilink")。現在は正式にイタリア領となっているが、前述の理由から一般の地図に位置は記載されていない。
+    舞台となる孤島。[同名の島とは無関係](../Page/サンタマリア.md "wikilink")。[アドリア海](https://ja.wikipedia.org/wiki/アドリア海 "wikilink")の[イタリア](../Page/イタリア.md "wikilink")と[スロベニア](../Page/スロベニア.md "wikilink")（旧[ユーゴスラビア](../Page/ユーゴスラビア社会主義連邦共和国.md "wikilink")）の[国境](../Page/国境.md "wikilink")に位置している。その立地から、[冷戦](../Page/冷戦.md "wikilink")[終結までの](../Page/マルタ会談.md "wikilink")40年間、[国連指定の立入禁止区域に指定されていた](../Page/国際連合.md "wikilink")。現在は正式にイタリア領となっているが、前述の理由から一般の地図に位置は記載されていない。
     島にはパドリーノたちが住む洋館や森、[葡萄畑](../Page/葡萄園.md "wikilink")、小さな町のほか、唯一の産業であるコムニオンワイン事業部の[ワイナリー](https://ja.wikipedia.org/wiki/ワイナリー "wikilink")が所在している。また、南と東には小さな[船着場が](../Page/係留施設.md "wikilink")、洋館には[ヘリポート](../Page/ヘリポート.md "wikilink")が存在する。
   - コムニオン
     パドリーノが会長を務める、[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")に本社を置く[貿易](../Page/貿易.md "wikilink")業を中心とする総合企業。その成立は古く、[15世紀](../Page/15世紀.md "wikilink")にヴェネツィアが[地中海貿易を独占していた頃の](../Page/ヴェネツィア共和国.md "wikilink")[武装商船](../Page/武装商船.md "wikilink")団が元になったともいわれる。

@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[2003年](../Page/2003年.md "wikilink")11月22日、イベント「Dogs Of The Bay」を企画し、[hide](https://ja.wikipedia.org/wiki/hide "wikilink") MUSEUMで開催。自身以外に[DABO](../Page/DABO.md "wikilink")、[TOKONA-X](../Page/TOKONA-X.md "wikilink")、[DS455](../Page/DS455.md "wikilink")、[妄走族](../Page/妄走族.md "wikilink")らが出演\[1\]\[2\]。[2004年](../Page/2004年.md "wikilink")、[DJ PMXのプロデュースでシングル](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「BAYSIDE CRUISIN' featuring DS455」を[ダイキサウンド](https://ja.wikipedia.org/wiki/ダイキサウンド "wikilink")より発売。[2005年](../Page/2005年.md "wikilink")6月10日、同様にDJ PMXによるプロデュースで1stアルバム『STR8 OUT DA BAY』をダイキサウンドより発売。[2006年](../Page/2006年.md "wikilink")12月6日には**DS455＋BIG RON**名義でアルバム『BAYBLUES RECORDZ presents　WINTERTIME WIT’THA D.S.C.〜White Nite〜』を[ユニバーサルJより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+[2003年](../Page/2003年.md "wikilink")11月22日、イベント「Dogs Of The Bay」を企画し、[hide](https://ja.wikipedia.org/wiki/hide "wikilink") MUSEUMで開催。自身以外に[DABO](../Page/DABO.md "wikilink")、[TOKONA-X](../Page/TOKONA-X.md "wikilink")、[DS455](../Page/DS455.md "wikilink")、[妄走族](../Page/妄走族.md "wikilink")らが出演\[1\]\[2\]。[2004年](../Page/2004年.md "wikilink")、[DJ PMXのプロデュースでシングル](../Page/DJ_PMX.md "wikilink")「BAYSIDE CRUISIN' featuring DS455」を[ダイキサウンド](https://ja.wikipedia.org/wiki/ダイキサウンド "wikilink")より発売。[2005年](../Page/2005年.md "wikilink")6月10日、同様にDJ PMXによるプロデュースで1stアルバム『STR8 OUT DA BAY』をダイキサウンドより発売。[2006年](../Page/2006年.md "wikilink")12月6日には**DS455＋BIG RON**名義でアルバム『BAYBLUES RECORDZ presents　WINTERTIME WIT’THA D.S.C.〜White Nite〜』を[ユニバーサルJより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 [2007年](../Page/2007年.md "wikilink")6月6日、ユニバーサルJよりメジャー1stアルバム『MISTA XXXXXL』を発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")10月15日、DS455が設立したレーベル「HOOD SOUND RECORDS」より、アルバム『BIG RON Presents...Much Love』を発売。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月13日、HOOD SOUND RECORDSより、アルバム『LIVIN' LARGE』を発売。[2011年](../Page/2011年.md "wikilink")4月27日には自身初のベストアルバム『KING OF HOOK -THA BEST WORKS-』を発売。
 
@@ -23,7 +23,7 @@
 
 ### アルバム
 
-1.  **STR8 OUT DA BAY**（2005年6月10日）[DJ PMXプロデュース](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")
+1.  **STR8 OUT DA BAY**（2005年6月10日）[DJ PMXプロデュース](../Page/DJ_PMX.md "wikilink")
     1.  INTRODUCTION
     2.  SMOKAZ SWEETS feat.MACCHO(OZROSAURUS)/RICHEE(GHETTO INC)
     3.  RAG TOP DOWN feat.SLOW PAIN/FINGAZZ/RICHEE(GHETTO INC)
@@ -237,7 +237,7 @@
 41. [詩音](https://ja.wikipedia.org/wiki/詩音_\(歌手\) "wikilink")「**Candy Girl**」（2008年5月28日）
       -
         05.CANDY GIRL feat.BIG RON，RICHEE(GHETTO INC.)
-42. [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「**THE ORIGINAL**」（2008年06月25日）
+42. [DJ PMX](../Page/DJ_PMX.md "wikilink")「**THE ORIGINAL**」（2008年06月25日）
       -
         07\. Look At Me
         16\. Turn Off Tha Lights
@@ -351,7 +351,7 @@
 76. [BROWN SUGAR](https://ja.wikipedia.org/wiki/BROWN_SUGAR "wikilink")「**INSPiRE**」（2011年08月10日）
       -
         14\. WARNING -chapterIII-
-77. [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「**LocoHAMA CRUISING DVD MIX II**」（2011年10月26日）
+77. [DJ PMX](../Page/DJ_PMX.md "wikilink")「**LocoHAMA CRUISING DVD MIX II**」（2011年10月26日）
       -
         02\. At The Party
 78. [Zeebra](../Page/Zeebra.md "wikilink")「**Black World/White Heat**」（2011年12月14日）
@@ -369,7 +369,7 @@
 82. [JOYSTICKK](https://ja.wikipedia.org/wiki/JOYSTICKK "wikilink")「**Antikythera**」（2012年07月11日）
       -
         08\. Yippie Yo Yippie Yay (Yokohama Remix)
-83. [DJ PMX](https://ja.wikipedia.org/wiki/DJ_PMX "wikilink")「**The Original II**」（2012年09月05日）
+83. [DJ PMX](../Page/DJ_PMX.md "wikilink")「**The Original II**」（2012年09月05日）
       -
         04\. At The Party
         06\. Rock Steady

@@ -5,7 +5,7 @@
 
 ## 概説
 
-  - アルバム『[MACABRE](../Page/MACABRE.md "wikilink")』を経て発表されたシングル。この曲は『MACABRE』の世界観を締めくくる完結編という位置づけのため、シングルのみでしか発表されておらず、次のアルバム『[鬼葬](../Page/鬼葬.md "wikilink")』にも収録されていなかったが，[2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売の自身初のベストアルバム『[DECADE 1998-2002](https://ja.wikipedia.org/wiki/DECADE_1998-2002 "wikilink")』にて初収録された。
+  - アルバム『[MACABRE](../Page/MACABRE.md "wikilink")』を経て発表されたシングル。この曲は『MACABRE』の世界観を締めくくる完結編という位置づけのため、シングルのみでしか発表されておらず、次のアルバム『[鬼葬](../Page/鬼葬.md "wikilink")』にも収録されていなかったが，[2007年](../Page/2007年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売の自身初のベストアルバム『[DECADE 1998-2002](../Page/DECADE_1998-2002.md "wikilink")』にて初収録された。
   - CD-EXTRA仕様（同曲のPVを収録）。
   - この曲で『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』に出演した。
 

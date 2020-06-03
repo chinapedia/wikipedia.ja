@@ -9,15 +9,13 @@
 
 また、初めて「[CDのみ](../Page/コンパクトディスク.md "wikilink")」「CD＋[DVD](../Page/DVD-Video.md "wikilink")」の2形態で発売された。初回限定盤DVDには「キューティーハニー」のPVが収録されている。「CD＋DVD」には8ページブックレットが封入されている。
 
-このシングルで2003年発売の7枚目のシングル「[real Emotion/1000の言葉](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")」に続いて2度目となる[オリコンのシングルチャートで](../Page/オリコンチャート.md "wikilink")10位以内を記録し、倖田の知名度を一気に上げた。
+当初の発売告知では、タイトルが『キューティーハニーep』と仮題されていた\[1\]。
 
-この「キューティーハニー」倖田バージョンが主題歌となっている実写映画『[キューティーハニー](../Page/キューティーハニー_\(映画\).md "wikilink")』には、倖田本人も出演している。
+このシングルは、2003年発売の7枚目のシングル「[real Emotion/1000の言葉](https://ja.wikipedia.org/wiki/real_Emotion/1000の言葉 "wikilink")」に続いて自身2度目となる[オリコンのシングルチャートで](../Page/オリコンチャート.md "wikilink")10位以内を記録し、倖田の知名度を一気に上げた。
+
+この倖田版の「キューティーハニー」が主題歌となっている実写映画『[キューティーハニー](../Page/キューティーハニー_\(映画\).md "wikilink")』には、倖田本人も出演している。
 
 歌番組などに出演する際の露出度の高い衣装が話題となり、「エロかっこいい」路線を確立した楽曲でもある。
-
-後に「キューティーハニー」を、[大韓民国](../Page/大韓民国.md "wikilink")の[李亜由美（←伊藤亜由美／伊藤ゆみ、現・ICONIQ）が朝鮮語でカバーした](https://ja.wikipedia.org/wiki/ICONIQ "wikilink")。この[朝鮮語](../Page/朝鮮語.md "wikilink")バージョンは[空耳ソング](https://ja.wikipedia.org/wiki/空耳ソング "wikilink")として知られる。
-
-また[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")がライブ「[昭和八十三年度\!ひとり紅白歌合戦](https://ja.wikipedia.org/wiki/昭和八十三年度!ひとり紅白歌合戦 "wikilink")」で倖田バージョンのカバー（カバーのカバー）をやっている。
 
 ## 収録曲
 
@@ -26,6 +24,7 @@
       - [前川陽子](../Page/前川陽子.md "wikilink")のカバー
       - [日本映画](../Page/日本映画.md "wikilink")『[キューティーハニー](../Page/キューティーハニー_\(映画\).md "wikilink")』主題歌
       - [OVA](../Page/OVA.md "wikilink")『[Re:キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")』オープニングテーマ
+      - 原曲との違いは、曲の最後の「変わるわよ」という台詞がカットされている\[2\]。
 2.  **The theme of Sister Jill (Short version)**
       - 作詞:倖田來未・[Sachi Bennett](https://ja.wikipedia.org/wiki/Sachi_Bennett "wikilink") / 作曲:[Harutoshi Noda](https://ja.wikipedia.org/wiki/野田晴稔 "wikilink") / 編曲:h-wonder
       - 初回限定盤と通常盤とではアレンジが異なる。
@@ -54,9 +53,15 @@
 ## 関連項目
 
   - [黒沢宗子](../Page/黒沢かずこ.md "wikilink")（黒沢かずこ）（テキトーハニー） - 第20回『[ビートたけしのお笑いウルトラクイズ](../Page/ビートたけしのお笑いウルトラクイズ.md "wikilink")』でやった「粘着イントロドンクイズ」では黒沢が緑色の[ウェットスーツ](../Page/ウェットスーツ.md "wikilink")を着用した上に正解の曲を歌っていた。ネタをやる時は「ピアノ弾けたらイヤ」で対応する。
+  - [キューティーハニー (曲)\#オリジナルおよびカバーの一覧](https://ja.wikipedia.org/wiki/キューティーハニー_\(曲\)#オリジナルおよびカバーの一覧 "wikilink") - 「キューティーハニー」の他の歌手によるカバーについてはこちらを参照。
+
+## 脚注
 
 ## 外部リンク
 
   - [公式サイト作品紹介ページ LOVE & HONEY](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004157)
 
 [Category:キューティーハニーシリーズの音楽](https://ja.wikipedia.org/wiki/Category:キューティーハニーシリーズの音楽 "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink")
+
+1.  [ＣＤは 株券 ではない ― 菊地成孔の今月のＣＤレビュー＆売上予想 第９回 ─ Mr.Children、小倉優子、倖田來未の３枚を分析！](https://tower.jp/article/series/2004/06/03/100045800)、bounce（TOWER RECORDS ONLINE）、2004年6月3日。
+2.

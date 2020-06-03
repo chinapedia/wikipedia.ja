@@ -89,7 +89,7 @@
 | 曲順 | タイトル                                                                  | アーティスト                                                                        | 発売日         | レーベル            |
 | 01 | [さらば青春](https://ja.wikipedia.org/wiki/さらば青春 "wikilink")               | [小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink")                           | 1971年2月21日  | ユニバーサルミュージック    |
 | 02 | [ジョニィへの伝言](../Page/ジョニィへの伝言.md "wikilink")                            | [ペドロ&カプリシャス](https://ja.wikipedia.org/wiki/ペドロ&カプリシャス "wikilink")             | 1973年3月10日  | ワーナーミュージック・ジャパン |
-| 03 | [心もよう](https://ja.wikipedia.org/wiki/心もよう "wikilink")                 | [井上陽水](../Page/井上陽水.md "wikilink")                                            | 1973年9月21日  | ユニバーサルミュージック    |
+| 03 | [心もよう](../Page/心もよう.md "wikilink")                                    | [井上陽水](../Page/井上陽水.md "wikilink")                                            | 1973年9月21日  | ユニバーサルミュージック    |
 | 04 | [あなた](../Page/あなた_\(小坂明子の曲\).md "wikilink")                           | [小坂明子](../Page/小坂明子.md "wikilink")                                            | 1973年12月21日 | ワーナーミュージック・ジャパン |
 | 05 | [帰らざる日々のために](https://ja.wikipedia.org/wiki/帰らざる日々のために "wikilink")     | [いずみたくシンガーズ](https://ja.wikipedia.org/wiki/いずみたくシンガーズ "wikilink")             | 1974年4月25日  |                 |
 | 06 | [精霊流し](../Page/精霊流し_\(曲\).md "wikilink")                              | [グレープ](../Page/グレープ_\(ユニット\).md "wikilink")                                   |             |                 |

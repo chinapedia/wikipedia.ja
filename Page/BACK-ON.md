@@ -22,7 +22,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
 
   -
     [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[1984年](../Page/1984年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")生まれ。O型。
-      - [台湾人](../Page/台湾人.md "wikilink")（[台湾原住民](../Page/台湾原住民.md "wikilink")の[タイヤル族](../Page/タイヤル族.md "wikilink")）の母親と日本人の父親の日台ハーフ。中国語が堪能で、[台北日本人学校](https://ja.wikipedia.org/wiki/台北日本人学校 "wikilink")の小学部で半年間勉強\[2\]したこともある。妻は歌手の[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")\[3\]。他アーティストへの楽曲提供などで活動する場合は、**Hi-yunk**（ハイユンク）名義で行うことが多い\[4\]。
+      - [台湾人](../Page/台湾人.md "wikilink")（[台湾原住民](../Page/台湾原住民.md "wikilink")の[タイヤル族](../Page/タイヤル族.md "wikilink")）の母親と日本人の父親の日台ハーフ。中国語が堪能で、[台北日本人学校](https://ja.wikipedia.org/wiki/台北日本人学校 "wikilink")の小学部で半年間勉強\[2\]したこともある。音楽を始めた当時から「AIR([車谷浩司](../Page/車谷浩司.md "wikilink"))」が憧れのギターボーカルだと各種メディアで発言している。妻は歌手の[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")\[3\]。他アーティストへの楽曲提供などで活動する場合は、**Hi-yunk**（ハイユンク）名義で行うことが多い\[4\]。
 
 ### 元メンバー
 
@@ -204,7 +204,7 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
   - [2018年](../Page/2018年.md "wikilink")
       - [4月28日](../Page/4月28日.md "wikilink")より、台湾の[台中インターコンチネンタル野球場](https://ja.wikipedia.org/wiki/台中インターコンチネンタル野球場 "wikilink")で2日間にわたり開催された、ロックフェスティバル 『[山海屯搖滾祭](https://ja.wikipedia.org/wiki/山海屯搖滾祭 "wikilink")2018』に出演。
       - [5月25日](../Page/5月25日.md "wikilink")より、カナダのトロントで３日間に渡り開催された、 『[Anime North Compass](https://ja.wikipedia.org/wiki/Anime_North_Compass "wikilink")』に出演。
-      - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")より、愛知・名古屋市栄地区にて2日間に渡り行われるサーキットイベント『[SAKAE SP-RING 2018](https://ja.wikipedia.org/wiki/SAKAE_SP-RING_2018 "wikilink")』に出演。
+      - [6月2日](../Page/6月2日.md "wikilink")より、愛知・名古屋市栄地区にて2日間に渡り行われるサーキットイベント『[SAKAE SP-RING 2018](https://ja.wikipedia.org/wiki/SAKAE_SP-RING_2018 "wikilink")』に出演。
       - [6月9日](../Page/6月9日.md "wikilink")から2日間に渡り、シンガポールで開催された、アジア最大級のゲームイベント『[Asia Game Festival](https://ja.wikipedia.org/wiki/Asia_Game_Festival "wikilink")』に出演。
       - [6月15日](../Page/6月15日.md "wikilink")から3日間に渡り、『[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")』にて開催された、『[テイルズ オブ フェスティバル](https://ja.wikipedia.org/wiki/テイルズ_オブ_フェスティバル "wikilink")2018』に、17日のシークレットゲストで出演。
       - [7月28日](../Page/7月28日.md "wikilink")から２日間に渡り、日比谷公園にて開催された、『[日本インドネシア国交樹立60周年記念　フェスティバルインドネシア](https://ja.wikipedia.org/wiki/日本インドネシア国交樹立60周年記念_フェスティバルインドネシア "wikilink")』に出演。
@@ -242,7 +242,8 @@ KENJI03は[千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wik
   - [2020年](../Page/2020年.md "wikilink")
       - [1月21日](../Page/1月21日.md "wikilink")に、原宿ストロボカフェにて1月22日にデジタルミニアルバム「rebirth」リリースを記念して、メンバーによるトークイベントを開催。
       - [2月11日](../Page/2月11日.md "wikilink")から、[2月22日](../Page/2月22日.md "wikilink")の[渋谷O-WEST](https://ja.wikipedia.org/wiki/渋谷O-WEST "wikilink")まで、東京、名古屋、大阪の3都市をまわる、東名阪ワンマンツアー＜rebirth TOUR＞を開催。
-      - [6月14日](../Page/6月14日.md "wikilink")に代官山SPACE ODDにて、BACK-ON主催イベント「Bring the Noise Vol.2」を開催。
+      - [4月26日](../Page/4月26日.md "wikilink")より、2020年の15周年イヤーを機に、有料ファンコミュニティ「BACK-ON CLAN」を開設。
+      - [6月14日](../Page/6月14日.md "wikilink")に代官山SPACE ODDにて、BACK-ON主催イベント「Bring the Noise Vol.2」を開催。新型コロナウイルスの影響を受け、観客を入れず生配信になり、BACK-ONのワンマンライブへと変更。配信はファンコミュニティ「BACK-ON CLAN」にて全編、冒頭から30分をYouTube内のBACKONch にてライブ公開。
 
 ## ディスコグラフィ
 

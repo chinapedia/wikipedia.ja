@@ -61,7 +61,7 @@
 
   - [あいのり](../Page/あいのり.md "wikilink")
   - [はねるのトびら](../Page/はねるのトびら.md "wikilink")
-  - [Matthew's Best Hit TV](../Page/Matthew's_Best_Hit_TV.md "wikilink") → [oh♪dolly25](https://ja.wikipedia.org/wiki/oh♪dolly25 "wikilink") → [悲宝館](../Page/悲宝館.md "wikilink")→[業界技術狩人 ギョーテック](https://ja.wikipedia.org/wiki/業界技術狩人_ギョーテック "wikilink")
+  - [Matthew's Best Hit TV](../Page/Matthew's_Best_Hit_TV.md "wikilink") → [oh♪dolly25](https://ja.wikipedia.org/wiki/oh♪dolly25 "wikilink") → [悲宝館](../Page/悲宝館.md "wikilink")→[業界技術狩人 ギョーテック](../Page/業界技術狩人_ギョーテック.md "wikilink")
   - [中井正広のブラックバラエティ](../Page/中井正広のブラックバラエティ.md "wikilink")
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
 

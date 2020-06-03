@@ -93,7 +93,7 @@
 
   - [モフセン・ベンガル](https://ja.wikipedia.org/wiki/モフセン・ベンガル "wikilink") 2004-2012
 
-  - [アブドゥル・ワハブ・アブ・アルハイル](https://ja.wikipedia.org/wiki/アブドゥル・ワハブ・アブ・アルハイル "wikilink") 2006-2009
+  - [アブドゥル・ワハブ・アブ・アルハイル](../Page/アブドゥル・ワハブ・アブ・アルハイル.md "wikilink") 2006-2009
 
   - [アルマンド・サ](https://ja.wikipedia.org/wiki/アルマンド・サ "wikilink") 2008-2010
 

@@ -21,7 +21,7 @@
   - [COUNT DOWN OSAKA](https://ja.wikipedia.org/wiki/COUNT_DOWN_OSAKA "wikilink") （金 13:00-18:00/2005年3月終了）
   - [CDO NEXT HITS](https://ja.wikipedia.org/wiki/CDO_NEXT_HITS "wikilink")\[1\] （日 24:30-25:00）
   - [afternoon navigatior](https://ja.wikipedia.org/wiki/afternoon_navigatior "wikilink") （月・火 15:00-16:43/2005年4月番組開始、2007年3月番組終了。）
-  - [SHOO POWER REQUEST](https://ja.wikipedia.org/wiki/SHOO_POWER_REQUEST "wikilink") （金 16:00-19:30/2007年11月30日2008年2月29日[山本シュウ](../Page/山本シュウ.md "wikilink")の代理）
+  - [SHOO POWER REQUEST](../Page/SHOO_POWER_REQUEST.md "wikilink") （金 16:00-19:30/2007年11月30日2008年2月29日[山本シュウ](../Page/山本シュウ.md "wikilink")の代理）
   - [Groovy Vibes](https://ja.wikipedia.org/wiki/Groovy_Vibes "wikilink") (金 27:00-29:00 2008年2月29日）
   - [Hello\!](https://ja.wikipedia.org/wiki/Hello! "wikilink")(2008年10月1日-2009年3月31日 月-木 7:29-10:55)
   - [SATURDAY SPORTS BAR](../Page/SATURDAY_SPORTS_BAR.md "wikilink") （土 18:00-20:00）

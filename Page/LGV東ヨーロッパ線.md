@@ -110,7 +110,7 @@ LGV東ヨーロッパ線の計画の発端は[1985年](https://ja.wikipedia.org/
 
 正式開業に先立ち、東ヨーロッパ線の線路を利用してTGVの速度試験が行なわれた。東ヨーロッパ線は従来のLGVに比べ線形が良好なことから、1990年に開業前の[LGV大西洋線](../Page/LGV大西洋線.md "wikilink")で記録した515.3kmk/hを上回ることが期待され、計画はV150と名付けられた。150とは[秒速](https://ja.wikipedia.org/wiki/秒速 "wikilink")150m（540km/h）を意味する。
 
-試験用にTGV POS第4402編成の動力車2両と、[TGV Duplex編成の客車](https://ja.wikipedia.org/wiki/TGV_Duplex "wikilink")3両の5両で構成される特別編成が組成された。この編成もV150と呼ばれる。[車輪](../Page/車輪.md "wikilink")の直径を本来のものより大きくしたほか、中間の客車の[連接台車](../Page/連接台車.md "wikilink")にも電動機を装着した。また路線の側でも[架線](../Page/架線.md "wikilink")の電圧を本来の25kVから31kVに上げるなどした。
+試験用にTGV POS第4402編成の動力車2両と、[TGV Duplex編成の客車](../Page/TGV_Duplex.md "wikilink")3両の5両で構成される特別編成が組成された。この編成もV150と呼ばれる。[車輪](../Page/車輪.md "wikilink")の直径を本来のものより大きくしたほか、中間の客車の[連接台車](../Page/連接台車.md "wikilink")にも電動機を装着した。また路線の側でも[架線](../Page/架線.md "wikilink")の電圧を本来の25kVから31kVに上げるなどした。
 
 試験走行は[2007年](../Page/2007年.md "wikilink")1月から始まり、同年[2月13日](../Page/2月13日.md "wikilink")には非公式ながら553km/hを記録した。そして同年[4月3日](../Page/4月3日.md "wikilink")の公式試験では、13時13分40秒、起点から193.9km地点のマルヌ県Eclairesで574.8km/hを記録した。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[超電導リニア](../Page/超電導リニア.md "wikilink")が有する581km/hの記録にこそ及ばなかったものの、鉄車輪・鉄軌道方式の鉄道としての速度記録を更新した。
 

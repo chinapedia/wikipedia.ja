@@ -11,6 +11,11 @@
 
 番組のシンボルマークは「HITS」をかたどった[スマイリーフェイス](../Page/スマイリーフェイス.md "wikilink")のようなデザインで、HとTが目を、Iが鼻を、横にした状態のSが口を表していた。
 
+## 出演者
+
+  - [泉谷しげる](../Page/泉谷しげる.md "wikilink")
+  - [YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")
+
 ## ゲスト
 
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")

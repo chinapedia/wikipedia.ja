@@ -33,7 +33,7 @@
 
 [2001年](../Page/2001年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")の [STS-98](../Page/STS-98.md "wikilink") で [スペースシャトル](../Page/スペースシャトル.md "wikilink")・[アトランティスに積み込まれて打ち上げられ](https://ja.wikipedia.org/wiki/アトランティス_\(オービタ\) "wikilink")、アトランテス号は飛行3日目に ISS の[与圧結合アダプタ](../Page/与圧結合アダプタ.md "wikilink")3 (PMA-3) にドッキングした。ディスティニーを ユニティの前方に接続するため、 PMA-2 を一時Z1トラスに仮置きした後ロボットアームで デスティニーのISS への取付がおこなわれた。仮置きしていた PMA-2 は飛行6日目にディスティニーの前方に接続された。
 
-[STS-120](https://ja.wikipedia.org/wiki/STS-120 "wikilink") でハーモニーが ISS に運ばれ、その後の移設作業でディスティニーの前方に接続された。
+[STS-120](../Page/STS-120.md "wikilink") でハーモニーが ISS に運ばれ、その後の移設作業でディスティニーの前方に接続された。
 
 ## 仕様
 

@@ -6,7 +6,7 @@
 ## 収録曲
 
   - SIDE-A
-    1.クリスタル・シティー（詞：[竜真知子](../Page/竜真知子.md "wikilink")、作・編曲：[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")）- 4：01
+    1.クリスタル・シティー（詞：[竜真知子](../Page/竜真知子.md "wikilink")、作・編曲：[佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink")）- 4：01
       -
         Violin solo: H.Tamaki、Strings:T.Ohno group、Horn section(Saxophone:T.Muraoka、Trumpet:K.Hatun、Trombone:E.Arai)
     2.霧に抱かれて（詞：[竜真知子](../Page/竜真知子.md "wikilink")、曲：[林哲司](../Page/林哲司.md "wikilink")、編曲：[萩田光雄](../Page/萩田光雄.md "wikilink")）- 4:10
@@ -28,7 +28,7 @@
     1.アラビアン・ナイト（詞・作・編曲：[土屋昌巳](../Page/土屋昌巳.md "wikilink")）- 4:32
       -
         Marimba solo:I.Kanayama、Saxophone solo:T.Muraoka、Chorus:Tokyo Red snake gasshogan
-    2.夜のハイウェイ（詞：[山上路夫](../Page/山上路夫.md "wikilink")、曲：[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")、編曲：萩田光雄）- 4:00
+    2.夜のハイウェイ（詞：[山上路夫](../Page/山上路夫.md "wikilink")、曲：[梅垣達志](../Page/梅垣達志.md "wikilink")、編曲：萩田光雄）- 4:00
       -
         Saxophone solo:Mr.Jake、Chorus:Singers three
     3.炎のヒロイン（詞：松本隆、作・編曲：[深町純](../Page/深町純.md "wikilink")）- 3:43

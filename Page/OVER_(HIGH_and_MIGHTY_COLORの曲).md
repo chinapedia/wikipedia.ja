@@ -1,7 +1,7 @@
 > この記事は[OVER \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/OVER_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
-「**OVER**」（オーヴァー）は、[HIGH and MIGHTY COLORの](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")2枚目のシングル。また、インディーズ版も本項で記述する。
+「**OVER**」（オーヴァー）は、[HIGH and MIGHTY COLORの](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")2枚目のシングル。また、インディーズ版も本項で記述する。
 
 ## 解説
 
@@ -27,12 +27,12 @@
 
 <!-- end list -->
 
-  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")(ALL)
+  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")(ALL)
 
 ## 収録アルバム
 
   - [G∞VER](../Page/G∞VER.md "wikilink") (\#1)
-  - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
+  - [10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink") (\#1)
   - [BEEEEEEST](https://ja.wikipedia.org/wiki/BEEEEEEST "wikilink") (\#1、LIVE@OKINAWA MUSIC TOWN 音市場 2008.8.24)
 
 ## OVER (インディーズ版)
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")(ALL)
+  - 作詞・作曲・編曲：[HIGH and MIGHTY COLOR](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")(ALL)
 
 ## 脚注
 

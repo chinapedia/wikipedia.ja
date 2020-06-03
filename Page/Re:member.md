@@ -7,7 +7,7 @@
 
   - ボーカルのKEIGO復帰後、初のシングルで、前作から9ヶ月（301日）ぶりのリリース。ちなみにこの期間は、「[SNOW FLAKE 〜記憶の固執〜/PULSE](https://ja.wikipedia.org/wiki/SNOW_FLAKE_〜記憶の固執〜/PULSE "wikilink")」〜「[Sign](https://ja.wikipedia.org/wiki/Sign_\(FLOWの曲\) "wikilink")」に次いで2番目に長い。
   - 初回仕様盤が存在し、特典が付属されている（[後述](https://ja.wikipedia.org/wiki/#初回仕様特典 "wikilink")）。
-  - 2006年[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")放送分の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演し、「Re:member」を披露した。
+  - 2006年[6月2日](../Page/6月2日.md "wikilink")放送分の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演し、「Re:member」を披露した。
   - キャッチコピーは、『**2006年のFLOWが、今まさに開幕する\!\!\!\!\!\!\!**』
 
 ## 収録曲

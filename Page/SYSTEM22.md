@@ -23,7 +23,7 @@
   - [シムドライブ](https://ja.wikipedia.org/wiki/シムドライブ "wikilink")（1992年）
   - [リッジレーサー](../Page/リッジレーサー.md "wikilink")（1993年）
   - [リッジレーサー2](../Page/リッジレーサー2.md "wikilink")（1994年）
-  - [エースドライバー](https://ja.wikipedia.org/wiki/エースドライバー "wikilink")（1994年）
+  - [エースドライバー](../Page/エースドライバー.md "wikilink")（1994年）
   - [サイバーコマンド](../Page/サイバーコマンド.md "wikilink")（1994年）
   - [レイブレーサー](../Page/レイブレーサー.md "wikilink")（1995年）
   - [エースドライバー・ビクトリーラップ](https://ja.wikipedia.org/wiki/エースドライバー#エースドライバー・ビクトリーラップ "wikilink")（1996年）
@@ -34,7 +34,7 @@
 
   - [エアーコンバット](https://ja.wikipedia.org/wiki/エアーコンバット "wikilink")22（1995年）
   - [サイバーサイクルズ](https://ja.wikipedia.org/wiki/サイバーサイクルズ "wikilink")（1995年）
-  - [アルペンレーサー](https://ja.wikipedia.org/wiki/アルペンレーサー "wikilink")（1995年）
+  - [アルペンレーサー](../Page/アルペンレーサー.md "wikilink")（1995年）
   - [ダートダッシュ](https://ja.wikipedia.org/wiki/ダートダッシュ "wikilink")（1995年）
   - [タイムクライシス](../Page/タイムクライシス.md "wikilink")（1996年）
   - アルペンサーファー（1996年）

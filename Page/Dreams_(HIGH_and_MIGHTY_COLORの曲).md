@@ -1,7 +1,7 @@
 > この記事は[Dreams \(HIGH and MIGHTY COLORの曲\)](https://ja.wikipedia.org/wiki/Dreams_\(HIGH_and_MIGHTY_COLORの曲\))から翻訳されています。
 
 
-「**Dreams**」（ドリームズ）は、[HIGH and MIGHTY COLORのメジャーデビュー](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")10枚目のシングル。
+「**Dreams**」（ドリームズ）は、[HIGH and MIGHTY COLORのメジャーデビュー](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")10枚目のシングル。
 
 ## 解説
 
@@ -25,11 +25,11 @@
       -
         作詞:MEG\&mACKAz&ユウスケ　作曲:MEG　編曲:HIGH and MIGHTY COLOR
         最後にある[ゲップ](https://ja.wikipedia.org/wiki/ゲップ "wikilink")音は、[ベーシスト](../Page/ベーシスト.md "wikilink")のmACKAzがやっている。また、曲中で｢マッシュルーム｣の数は、49回である。
-        この曲のPVといわれる作品が、『[10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink")』のDVDに収録された。
+        この曲のPVといわれる作品が、『[10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink")』のDVDに収録された。
 4.  Dreams（Instrumental）
 
 ## 収録アルバム
 
-  - [10 COLOR SINGLES](https://ja.wikipedia.org/wiki/10_COLOR_SINGLES "wikilink") (\#1)
+  - [10 COLOR SINGLES](../Page/10_COLOR_SINGLES.md "wikilink") (\#1)
 
 [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:夢を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夢を題材とした楽曲 "wikilink") [Category:DARKER_THAN_BLACK](https://ja.wikipedia.org/wiki/Category:DARKER_THAN_BLACK "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

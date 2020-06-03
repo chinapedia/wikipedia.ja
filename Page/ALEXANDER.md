@@ -29,7 +29,7 @@
   - 妻とは[国際結婚](../Page/国際結婚.md "wikilink")であるため、[夫婦別姓](https://ja.wikipedia.org/wiki/夫婦別姓 "wikilink")が原則であり、結婚後も川崎とは別姓である\[6\]。
   - 2018年11月6日放送のテレビ朝日「ソノサキ」内にて、[川崎希](../Page/川崎希.md "wikilink")と入籍した翌日にアレクサンダーが浮気したことが明かされ、反省文を書かされる。[川崎希](../Page/川崎希.md "wikilink")が浮気した場合を問われると、アレクサンダーは「離婚でしょ」と発言した。
   - よくルックスが似ていると言われる俳優の[水嶋ヒロ](https://ja.wikipedia.org/wiki/水嶋ヒロ "wikilink")とは、かつて同じ時期に同じモデル事務所（[GIG MANAGEMENT JAPAN](https://ja.wikipedia.org/wiki/GIG_MANAGEMENT_JAPAN "wikilink")）に所属しており、友人であることがTV番組等の本人の発言によって明らかになっている。
-  - [タレント](../Page/タレント.md "wikilink")の[ハリー杉山](https://ja.wikipedia.org/wiki/ハリー杉山 "wikilink")や[俳優](../Page/俳優.md "wikilink")の[東出昌大](../Page/東出昌大.md "wikilink")とモデル時代からの友人である。
+  - [タレント](../Page/タレント.md "wikilink")の[ハリー杉山](../Page/ハリー杉山.md "wikilink")や[俳優](../Page/俳優.md "wikilink")の[東出昌大](../Page/東出昌大.md "wikilink")とモデル時代からの友人である。
 
 ## 出演
 

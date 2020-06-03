@@ -13,6 +13,8 @@
 
 2003年オリコン年間シングルランキングで38位。これはこれまでのV6のシングル中での最高順位となった。
 
+岡田のみにソロパートが存在する。
+
 ## 収録曲
 
 1.  **Darling**
@@ -21,7 +23,6 @@
         振り付けは[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")が担当した。
         [サビ](../Page/サビ.md "wikilink")の[歌詞](../Page/歌詞.md "wikilink")は、[日本語](../Page/日本語.md "wikilink")と[英語](../Page/英語.md "wikilink")の口語（話し言葉）で構成しており、語感重視で組み立てられた内容になっている。
         カラオケで使用されているPV映像には映画「[ハードラックヒーロー](../Page/ハードラックヒーロー.md "wikilink")」の映像も使用されている。
-        ソロパートは大サビ前の岡田のワンフレーズのみ。
 2.  **光り射す場所へ** - 20th Century
       -
         作詞：[柚木美祐](https://ja.wikipedia.org/wiki/柚木美祐 "wikilink")、作曲：[森元康介](https://ja.wikipedia.org/wiki/森元康介 "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")

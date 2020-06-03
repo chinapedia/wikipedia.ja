@@ -1,7 +1,7 @@
 > この記事は[ECVT](https://ja.wikipedia.org/wiki/ECVT)から翻訳されています。
 
 
-**ECVT** (**E**lectro **C**ontinuously **V**ariable **T**ransmission) とは、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU_\(自動車\).md "wikilink")）と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[VDT社との共同開発によって世界で初めて実用化に成功したイージードライブシステム式](https://ja.wikipedia.org/wiki/ヴァンドーネ社 "wikilink")[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")である。富士重工業はこれを「電子制御[電磁クラッチ](https://ja.wikipedia.org/wiki/電磁クラッチ "wikilink")式無段変速機」と称した。
+**ECVT** (**E**lectro **C**ontinuously **V**ariable **T**ransmission) とは、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU.md "wikilink")）と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ヴァンドーネ](https://ja.wikipedia.org/wiki/ヴァンドーネ "wikilink")（Van Doorne's Transmissie BV、VDT、現[DAF](../Page/DAF_\(自動車メーカー\).md "wikilink")）との共同開発によって世界で初めて実用化に成功したイージードライブシステム式[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")である。富士重工業はこれを「電子制御[電磁クラッチ](https://ja.wikipedia.org/wiki/電磁クラッチ "wikilink")式無段変速機」と称した。
 
 ## 概要
 

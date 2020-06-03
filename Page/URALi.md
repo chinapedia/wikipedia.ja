@@ -63,7 +63,7 @@
         15.DANGER DANGER (NORISIAM-X IS COMIN')
 2.  ["E"qual](../Page/"E"qual.md "wikilink")「**The Rock City (M.O.S.A.D's Town)**」（2005年9月21日）
       -
-        10.Go Away feat. [ANTY the 紅乃壱](https://ja.wikipedia.org/wiki/ANTY_the_紅乃壱 "wikilink"), NORISIAM-X, CEYREN
+        10.Go Away feat. [ANTY the 紅乃壱](../Page/ANTY_the_紅乃壱.md "wikilink"), NORISIAM-X, CEYREN
 3.  ANTY the 紅乃壱「**HOW TO=B=EAT**」（2006年2月14日）
       -
         6.FORK Feat. NORISIAM-X

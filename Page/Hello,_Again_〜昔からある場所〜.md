@@ -58,19 +58,26 @@
 
 カバーアルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(アルバム\) "wikilink")』からの先行シングルとして[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")にリリースされた。[ソニー](../Page/ソニー.md "wikilink")社[デジカメ](../Page/デジタルカメラ.md "wikilink")「[α NEXシリーズ](https://ja.wikipedia.org/wiki/ソニー・α_NEX "wikilink")」の[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として起用された。2010年6月29日付のRIAJ有料音楽配信チャートにて最高位1位を記録している。
 
-[音楽配信](../Page/音楽配信.md "wikilink")での累計売上は120万ダウンロードを超えた\[3\]。
+当初は、着うたのみの配信に留める予定となっていたが、CMの放送から、着うたがヒットを記録したことと、問い合わせが殺到し、「CD化して欲しい」と言う要望を受けたことで急遽、シングルとして発売することが決定したのだと言う。また、CDに用いられているジャケットは、JUJU本人が実際にタイアップ先の一眼カメラである「[α NEX](https://ja.wikipedia.org/wiki/ソニー・α_NEX "wikilink")」を使用して撮影されたものが使われている\[3\]。
+
+[音楽配信](../Page/音楽配信.md "wikilink")での累計売上は120万ダウンロードを超えた\[4\]。
 
 ### 収録曲
 
 1.  **Hello, Again 〜昔からある場所〜 (Straight Cover)**(5:16)
 2.  **Hello, Again 〜昔からある場所〜 (Ballad ver.)**(5:19)
 3.  Hello, Again 〜昔からある場所〜 (Straight Cover)-instrumental-(5:15)
-4.  Hello, Again 〜昔からある場所〜 (Ballad ver.)(5:16)
+4.  Hello, Again 〜昔からある場所〜 (Ballad ver.)-instrumental-(5:16)
 
 ## 脚注
+
+## 外部リンク
+
+  - [JUJU 公式サイト 作品紹介ページ Hello, Again 〜昔からある場所〜](https://k.jujunyc.net/s/n19/page/smoj_disco_archive?AICL-2167)
 
 [Category:My_Little_Loverの楽曲](https://ja.wikipedia.org/wiki/Category:My_Little_Loverの楽曲 "wikilink") [Category:小林武史が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小林武史が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:JUJUの楽曲](https://ja.wikipedia.org/wiki/Category:JUJUの楽曲 "wikilink") [Category:2010年のシングル](https://ja.wikipedia.org/wiki/Category:2010年のシングル "wikilink") [Category:ソニーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ソニーのコマーシャルソング "wikilink") [Category:時間を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:時間を題材とした楽曲 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.
 2.  「消滅都市」第8話、第12話(最終話)エンディングテーマとして起用。ネット局の[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")では「終らない夏」放送終了以来、タイアップとして24年振りにこの曲が流れた。
-3.  [JUJUが歌う「ギルティ」主題歌、発売前に2冠達成](http://web.archive.org/web/20101125012656/http://fmvs.jp/news/music/archive/eid4185.html)、meVIEWsa radio、2010年11月12日 0時37分。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+3.
+4.  [JUJUが歌う「ギルティ」主題歌、発売前に2冠達成](http://web.archive.org/web/20101125012656/http://fmvs.jp/news/music/archive/eid4185.html)、meVIEWsa radio、2010年11月12日 0時37分。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

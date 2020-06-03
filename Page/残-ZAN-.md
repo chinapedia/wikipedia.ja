@@ -6,7 +6,7 @@
 ## 概説
 
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")」エンディングテーマ。
-  - [PVには規制がかかっている](../Page/ミュージック・ビデオ.md "wikilink")。また、子役時代の[藤岡みなみ](https://ja.wikipedia.org/wiki/藤岡みなみ "wikilink")が出演している。
+  - [PVの監督は近藤廣行](../Page/ミュージック・ビデオ.md "wikilink")。[演劇実験室◎万有引力](https://ja.wikipedia.org/wiki/演劇実験室◎万有引力 "wikilink")のメンバーや、子役時代の[藤岡みなみ](https://ja.wikipedia.org/wiki/藤岡みなみ "wikilink")が出演している。[京が](../Page/京_\(ミュージシャン\).md "wikilink")[生首](https://ja.wikipedia.org/wiki/生首 "wikilink")のように見えるトリック映像があり、その部分に規制がかかっている。新バージョンのPVもある。
   - 14万枚以上売り上げ、彼らのシングルとしては3番目に多いセールスを記録した。
 
 ## 曲目

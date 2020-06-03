@@ -88,7 +88,7 @@
   - [2011年](../Page/2011年.md "wikilink")
       - 1月22日〜2月8日、主催イベント「The Sixth Sense」開催。
 
-:: [DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、BREAKERZ、jealkb、[PENICILLIN](../Page/PENICILLIN.md "wikilink")、QUINTILLION QUIZが出演。
+:: [DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink")、BREAKERZ、jealkb、[PENICILLIN](../Page/PENICILLIN.md "wikilink")、QUINTILLION QUIZが出演。
 
 :\* 7月16日〜23日、フリーライブを行う。
 
@@ -180,7 +180,7 @@
     sins、少女の祈り、20+∞Century Boys
   - **[SUGIZO](../Page/SUGIZO.md "wikilink")** (from.[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[X JAPAN](../Page/X_JAPAN.md "wikilink"))
     SPELL MAGIC、scar
-  - **[YOU](../Page/足立祐二.md "wikilink")** (from.[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink"))
+  - **[YOU](../Page/足立祐二.md "wikilink")** (from.[DEAD END](../Page/DEAD_END_\(バンド\).md "wikilink"))
     Fallin' Angel
   - **[Leda](https://ja.wikipedia.org/wiki/Leda_\(ギタリスト\) "wikilink")** (from.Far East Dizain、ex.[DELUHI](https://ja.wikipedia.org/wiki/DELUHI "wikilink")）
     versus G
@@ -372,7 +372,7 @@ AVCD-32090</p></td>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2007年<a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/愛してない" title="wikilink">愛してない</a></strong></p></td>
+<td><p><strong><a href="../Page/愛してない.md" title="wikilink">愛してない</a></strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
 <td><p>AVCD-32091/B<br />

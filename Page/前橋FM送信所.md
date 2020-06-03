@@ -6,7 +6,7 @@
 ## 概要
 
   - 当送信所は、高崎市吉井町多比良字一郷第1番の[牛伏山にある](https://ja.wikipedia.org/wiki/牛伏山_\(群馬県\) "wikilink")。
-  - 当送信所には群馬県域FM局である[NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")[FM放送と](../Page/NHK-FM放送.md "wikilink")[FMぐんまの前橋送信所及び](../Page/エフエム群馬.md "wikilink")[放送大学](https://ja.wikipedia.org/wiki/放送大学 "wikilink")のFM[中継局](../Page/中継局.md "wikilink")が置局されている。
+  - 当送信所には群馬県域FM局である[NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")[FM放送と](../Page/NHK-FM放送.md "wikilink")[FMぐんまの前橋送信所が置局されている](../Page/エフエム群馬.md "wikilink")。かつて放送大学のFM中継局が設置されていた。
   - 群馬県の広い範囲に電波を発射している他、FMぐんまは埼玉県北部地域\[1\]、埼玉県利根地域の一部\[2\]や栃木県[足利市](../Page/足利市.md "wikilink")、[栃木市](../Page/栃木市.md "wikilink")他が放送エリアになる\[3\]。
 
 ## 送信所設備概要

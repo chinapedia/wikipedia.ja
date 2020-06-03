@@ -18,6 +18,12 @@
 
 ## 脚注
 
+## 関連映画
+
+  - [クリスチーネ・F](../Page/クリスチーネ・F.md "wikilink") - 同じく実話ベースの犯罪ドラマ｡
+  - [セックス・トラフィック](https://ja.wikipedia.org/wiki/セックス・トラフィック "wikilink") - 同じく人身売買と性的奴隷問題を描く｡
+  - [Bo 堕ちていく少女](https://ja.wikipedia.org/wiki/Bo_堕ちていく少女 "wikilink") - 売春に転落する少女を描く問題作｡
+
 ## 外部リンク
 
   -

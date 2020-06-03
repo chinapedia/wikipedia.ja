@@ -158,7 +158,7 @@
 
 ## その他
 
-  - 2004年4月からは、前枠の番組『[天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")』の後、[ジャンクション](https://ja.wikipedia.org/wiki/ジャンクション "wikilink")として、ROLLYが天才ビットくんの映っているTVモニターを見ながら番組宣伝をしているが、天才ビットくん内のアニメ『[魔法少女隊アルス](../Page/魔法少女隊アルス.md "wikilink")』の総集編だった回でも、天才ビットくん（実写）のテレビ映像がそのモニターに映っていた回もあった。
+  - 2004年4月からは、前枠の番組『[天才ビットくん](https://ja.wikipedia.org/wiki/天才ビットくん "wikilink")』の後、[ジャンクションとして](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")、ROLLYが天才ビットくんの映っているTVモニターを見ながら番組宣伝をしているが、天才ビットくん内のアニメ『[魔法少女隊アルス](../Page/魔法少女隊アルス.md "wikilink")』の総集編だった回でも、天才ビットくん（実写）のテレビ映像がそのモニターに映っていた回もあった。
   - [地上デジタル放送の](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")[023ch（サブチャンネル3）では](https://ja.wikipedia.org/wiki/NHK教育テレビジョン#デジタル放送 "wikilink")、毎週[木曜日](../Page/木曜日.md "wikilink")22:00 - 22:45（JST）に20日前の放送が[再放送](../Page/再放送.md "wikilink")されている。
 
 ## 脚注

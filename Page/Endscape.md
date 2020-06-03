@@ -28,7 +28,7 @@
 1.  **endscape**
     :\***<small>作詞:TAKUYA∞　/　作曲:UVERworld　/　編曲:UVERworld , [平出悟](https://ja.wikipedia.org/wiki/平出悟 "wikilink")</small>**
       -
-        [MBS](../Page/毎日放送.md "wikilink")・[TBS系連続テレビアニメ](../Page/TBSテレビ.md "wikilink")『[地球へ…](../Page/地球へ….md "wikilink")』第一期オープニングテーマ。前奏の部分を長くするか短くするかでTAKUYA∞とメンバー4人の意見が分かれた曲。結局シングルバージョンはTAKUYA∞の意見通りに前奏を長くし、メンバー4人の短めの前奏は3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』でアルバムバージョンで使われた。
+        [MBS](../Page/毎日放送.md "wikilink")・[TBS系連続テレビアニメ](../Page/TBSテレビ.md "wikilink")『[地球へ…](../Page/地球へ….md "wikilink")』第一期オープニングテーマ。前奏の部分を長くするか短くするかでTAKUYA∞とメンバー4人の意見が分かれた曲。結局シングルバージョンはTAKUYA∞の意見通りに前奏を長くし、メンバー4人の短めの前奏は3rdアルバム『[PROGLUTION](../Page/PROGLUTION.md "wikilink")』でアルバムバージョンで使われた。
         ライブでは2009年以来披露されていなかったが、2018年の彰生誕祭で9年越しに披露された。
         仮タイトルは「TERA」
 2.  **UNKNOWN ORCHESTRA**
@@ -53,7 +53,7 @@
 ## 収録アルバム
 
 1.  endscape
-      - 3rdスタジオ・アルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』にアルバムバージョンとして「endscape (album ver.)」を収録。
+      - 3rdスタジオ・アルバム『[PROGLUTION](../Page/PROGLUTION.md "wikilink")』にアルバムバージョンとして「endscape (album ver.)」を収録。
       - 2ndベスト・アルバム『[ALL TIME BEST](https://ja.wikipedia.org/wiki/ALL_TIME_BEST_\(UVERworldのアルバム\) "wikilink") -FAN BEST- (EXTRA EDITION)』
 2.  UNKNOWN ORCHESTRA
       - 3rdスタジオ・アルバム『PROGLUTION』にアルバムバージョンとして「UNKNOWN ORCHESTRA (album ver.)」を収録。

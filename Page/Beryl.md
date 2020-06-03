@@ -3,7 +3,7 @@
 
 **Beryl**（べりる）は[X Window Systemおよび](../Page/X_Window_System.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")上で動作する[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")である。
 
-[2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")、QuinnStormと開発チームが[compiz-quinnstormより分離しプロジェクトを発足した](../Page/Compiz.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、複数の機能を実現したBerylはCompizと再び統合し、[Compiz Fusionとして](https://ja.wikipedia.org/wiki/Compiz_Fusion "wikilink")、その開発は引き継がれている。
+[2006年](../Page/2006年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")、QuinnStormと開発チームが[compiz-quinnstormより分離しプロジェクトを発足した](../Page/Compiz.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、複数の機能を実現したBerylはCompizと再び統合し、[Compiz Fusionとして](../Page/Compiz_Fusion.md "wikilink")、その開発は引き継がれている。
 
 ## Compizとの違い
 

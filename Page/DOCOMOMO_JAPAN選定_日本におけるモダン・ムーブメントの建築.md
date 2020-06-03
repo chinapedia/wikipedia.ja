@@ -372,7 +372,7 @@ U研究室</p></td>
 <td><p>032</p></td>
 <td><p><a href="../Page/大阪瓦斯ビルヂング.md" title="wikilink">大阪ガスビルディング</a><br />
 （大阪ガス本社）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Osaka_Gas_Building_2010.jpg" title="wikilink">120x120px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Osaka_Gas_Building_Osaka_Japan02-r.jpg" title="wikilink">120x120px</a></p></td>
 <td><p><a href="../Page/安井武雄.md" title="wikilink">安井武雄</a><br />
 増築：<a href="https://ja.wikipedia.org/wiki/安井建築設計事務所" title="wikilink">安井建築設計事務所</a><br />
 （<a href="https://ja.wikipedia.org/wiki/佐野正一" title="wikilink">佐野正一</a>)</p></td>
@@ -1844,7 +1844,7 @@ U研究室</p></td>
 <tr class="even">
 <td><p>170</p></td>
 <td><p>世田谷区役所・区民会館<br />
-（現・<a href="https://ja.wikipedia.org/wiki/世田谷区役所" title="wikilink">世田谷区役所</a>第一庁舎・世田谷区民会館）</p></td>
+（現・<a href="../Page/世田谷区役所.md" title="wikilink">世田谷区役所</a>第一庁舎・世田谷区民会館）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Setagaya_Ward_Office_2009.jpg" title="wikilink">120x120px</a></p>
 <div style="text-align:center; font-size:xx-small">
 <p>第一庁舎</p>
@@ -1934,7 +1934,7 @@ U研究室</p></td>
 <td><p>176</p></td>
 <td><p><a href="../Page/内藤多仲.md" title="wikilink">内藤多仲</a>邸<br />
 （現・内藤多仲博士記念館）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木子七郎" title="wikilink">木子七郎</a>、内藤多仲、今井兼次</p></td>
+<td><p><a href="../Page/木子七郎.md" title="wikilink">木子七郎</a>、内藤多仲、今井兼次</p></td>
 <td><p>1926年</p></td>
 <td><p>東京都新宿区</p></td>
 <td></td>

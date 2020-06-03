@@ -8,7 +8,7 @@
 ## 収録曲
 
 1.  **Prayer**（作詞:[西尾佐栄子](https://ja.wikipedia.org/wiki/西尾佐栄子 "wikilink")/作曲:[大谷靖夫](../Page/大谷靖夫.md "wikilink")/編曲:[HΛL](../Page/HΛL.md "wikilink")）
-2.  **real dreaM**（作詞:[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")/作曲:[ジョーイ・カーボーン](https://ja.wikipedia.org/wiki/ジョーイ・カーボーン "wikilink")、ジェフ・カラザース/編曲: [斎藤真也](https://ja.wikipedia.org/wiki/斎藤真也 "wikilink")）
+2.  **real dreaM**（作詞:[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")/作曲:[ジョーイ・カーボーン](../Page/ジョーイ・カーボーン.md "wikilink")、ジェフ・カラザース/編曲: [斎藤真也](https://ja.wikipedia.org/wiki/斎藤真也 "wikilink")）
 3.  **NEVER STOP MY HEART -君という奇蹟に-**（作詞: [渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") 作曲:[mo'doo](https://ja.wikipedia.org/wiki/mo'doo "wikilink") 編曲: [Taka Umeno](https://ja.wikipedia.org/wiki/Taka_Umeno "wikilink")）
 4.  **Prayer (instrumental)**
 

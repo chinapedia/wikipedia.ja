@@ -13,7 +13,7 @@
 
 また、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の[高橋由伸](https://ja.wikipedia.org/wiki/高橋由伸 "wikilink")選手が打席に立つときのBGMに使用されていたこともあった。[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の[田上秀則](../Page/田上秀則.md "wikilink")選手も使用している。
 
-収録されているライブバージョンの2曲は、[1992年](../Page/1992年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に東京の[日本武道館](../Page/日本武道館.md "wikilink")で行われたライブ「HIGH KICK TOUR」FINALの[オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")の曲と2曲目であり、オリジナルの音源は5thアルバム『[HIGH KICKS](../Page/HIGH_KICKS.md "wikilink")』に収録されている。
+収録されているライブバージョンの2曲は、[1992年](../Page/1992年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に東京の[日本武道館](../Page/日本武道館.md "wikilink")で行われたライブ「HIGH KICK TOUR」FINALの[オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")の曲と2曲目であり、オリジナルの音源は5thアルバム『[HIGH KICKS](../Page/HIGH_KICKS.md "wikilink")』に収録されている。
 
 [2007年](../Page/2007年.md "wikilink")、[NTT東日本の](../Page/東日本電信電話.md "wikilink")[Bフレッツの](../Page/フレッツ.md "wikilink")[CMソングにこの曲の替え歌が使われていた](../Page/コマーシャルソング.md "wikilink")。ちなみに同時期の[NTT西日本の](../Page/西日本電信電話.md "wikilink")[フレッツ](../Page/フレッツ.md "wikilink")光・プレミアムのCMソングには同じTHE BLUE HEARTSの「[TRAIN-TRAIN](../Page/TRAIN-TRAIN.md "wikilink")」の替え歌が使われていた。
 

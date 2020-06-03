@@ -77,7 +77,7 @@ Windows Vistaには[Windows ReadyDriveという機能も実装されているが
 
 ReadyBoostの解説にはあたかもキャッシュデバイスは外付けUSBスティックに限るような表現がみられるが、そのようなことはなく内部SSDを含めてどのようなデバイスでも良い。例えば、30GB程度の小容量（=低価格）のSSDを恒久的に追加しても効果がある。
 
-[SanDisk](https://ja.wikipedia.org/wiki/SanDisk "wikilink")には小容量の汎用SSDとドライバソフトウェアを組み合わせた[ReadyCache](https://ja.wikipedia.org/wiki/ReadyCache "wikilink")と言う似たような原理と効果の製品があるが、こちらはSSD全体を（Windowsがドライブとして認識しない）ハードウェア・キャッシュデバイスとして扱い、しかも適用はWindowsのソフトウェア[RAID](../Page/RAID.md "wikilink")**ではない**「シンプル・ボリューム」に限られるが、Windows ReadyBoostはWindowsが認識してマウントするドライブ上の[ファイル](https://ja.wikipedia.org/wiki/ファイル "wikilink")をキャッシュデバイスとして扱い、RAIDの「ダイナミック・ボリューム」にも適用可能な違いがある。
+[SanDisk](https://ja.wikipedia.org/wiki/SanDisk "wikilink")には小容量の汎用SSDとドライバソフトウェアを組み合わせた[ReadyCache](https://ja.wikipedia.org/wiki/ReadyCache "wikilink")と言う似たような原理と効果の製品があるが、こちらはSSD全体を（Windowsがドライブとして認識しない）ハードウェア・キャッシュデバイスとして扱い、しかも適用はWindowsのソフトウェア[RAID](../Page/RAID.md "wikilink")**ではない**「シンプル・ボリューム」に限られるが、Windows ReadyBoostはWindowsが認識してマウントするドライブ上の[ファイルをキャッシュデバイスとして扱い](../Page/ファイル_\(コンピュータ\).md "wikilink")、RAIDの「ダイナミック・ボリューム」にも適用可能な違いがある。
 
 ## 関連項目
 

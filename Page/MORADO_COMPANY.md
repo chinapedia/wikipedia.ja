@@ -36,7 +36,7 @@
 
   - [小野砂織](../Page/小野砂織.md "wikilink")（美容家、東日本放送『[シースルーナイト](https://ja.wikipedia.org/wiki/シースルーナイト "wikilink")』二代目シースルーガールズ、TBS『[ワンダフル](https://ja.wikipedia.org/wiki/ワンダフル "wikilink")』第1期ワンギャル、'97[旭化成水着キャンペーンモデル](https://ja.wikipedia.org/wiki/旭化成水着キャンペーンモデル "wikilink")）
   - [伊藤高史](../Page/伊藤高史.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") [BSプレミアム](https://ja.wikipedia.org/wiki/BSプレミアム "wikilink")『独眼竜 花嫁道中』など）\[13\]
-  - [本郷奏多](../Page/本郷奏多.md "wikilink")（映画『[青い鳥](https://ja.wikipedia.org/wiki/青い鳥_\(2008年の映画\) "wikilink")』、『[GOTH](https://ja.wikipedia.org/wiki/GOTH_リストカット事件#映画（日本版） "wikilink")』、『[K-20 怪人二十面相・伝](https://ja.wikipedia.org/wiki/K-20_怪人二十面相・伝 "wikilink")』など、[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")にも所属）
+  - [本郷奏多](../Page/本郷奏多.md "wikilink")（映画『[青い鳥](https://ja.wikipedia.org/wiki/青い鳥_\(2008年の映画\) "wikilink")』、『[GOTH](https://ja.wikipedia.org/wiki/GOTH_リストカット事件#映画（日本版） "wikilink")』、『[K-20 怪人二十面相・伝](../Page/K-20_怪人二十面相・伝.md "wikilink")』など、[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")にも所属）
   - [山口翼](https://ja.wikipedia.org/wiki/山口翼 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[お台場夢大陸 〜ドリームメガナツマツリ〜](https://ja.wikipedia.org/wiki/お台場夢大陸_〜ドリームメガナツマツリ〜 "wikilink")」ミストマン）\[14\]
 
 <!-- end list -->

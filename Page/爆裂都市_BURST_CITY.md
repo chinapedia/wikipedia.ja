@@ -3,7 +3,7 @@
 
 『**爆裂都市 BURST CITY**』（ばくれつとし バースト・シティ）は、[1982年](../Page/1982年.md "wikilink")に公開された[日本の](../Page/日本映画.md "wikilink")[SFアクション映画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。
 
-[石井聰亙](https://ja.wikipedia.org/wiki/石井聰亙 "wikilink")監督の8作目の作品で、出演は[陣内孝則](../Page/陣内孝則.md "wikilink")、[大江慎也](https://ja.wikipedia.org/wiki/大江慎也 "wikilink")、[戸井十月](../Page/戸井十月.md "wikilink")、[町田町蔵](../Page/町田康.md "wikilink")、[泉谷しげる](../Page/泉谷しげる.md "wikilink")など。
+[石井聰亙](https://ja.wikipedia.org/wiki/石井聰亙 "wikilink")監督の8作目の作品で、出演は[陣内孝則](../Page/陣内孝則.md "wikilink")、[大江慎也](../Page/大江慎也.md "wikilink")、[戸井十月](../Page/戸井十月.md "wikilink")、[町田町蔵](../Page/町田康.md "wikilink")、[泉谷しげる](../Page/泉谷しげる.md "wikilink")など。
 
 [配給は](https://ja.wikipedia.org/wiki/映画配給 "wikilink")[東映セントラルフィルム](https://ja.wikipedia.org/wiki/東映セントラルフィルム "wikilink")。
 
@@ -27,7 +27,7 @@
 
   - バトル・ロッカーズ
       - コマンド佐々木 - [陣内孝則](../Page/陣内孝則.md "wikilink")（[ザ・ロッカーズ](../Page/ザ・ロッカーズ.md "wikilink")）
-      - フライング風戸 - [大江慎也](https://ja.wikipedia.org/wiki/大江慎也 "wikilink")（[ザ・ルースターズ](../Page/ルースターズ.md "wikilink")）
+      - フライング風戸 - [大江慎也](../Page/大江慎也.md "wikilink")（[ザ・ルースターズ](../Page/ルースターズ.md "wikilink")）
       - パンク死土 - [伊勢田勇人](https://ja.wikipedia.org/wiki/伊勢田勇人 "wikilink")
       - ミラクル賀仁悪 - [鶴川仁美](https://ja.wikipedia.org/wiki/鶴川仁美 "wikilink")（ザ・ロッカーズ）
       - 鋼鉄男 - [池畑潤二](https://ja.wikipedia.org/wiki/池畑潤二 "wikilink")（ザ・ルースターズ）

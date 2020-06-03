@@ -11,7 +11,7 @@
 
 ボーダフォン時代は、単に**[MMS](../Page/マルチメディアメッセージングサービス.md "wikilink")**と呼ばれていたが、ソフトバンクモバイルに社名変更後は、**S\!メール**となった。
 
-現在は、全角30,000文字程度の送受信が可能となり、一部機種では、最大2[MBの添付の送受信が可能となっている](../Page/メガバイト.md "wikilink")。[添付ファイル](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")には写真や動画のほかに、[Wordや](../Page/Microsoft_Word.md "wikilink")[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")なども可能となっている。また通常のEメールをケータイメールと同じような感覚で送受信したりすることも可能になった。「カメラ付きケータイ」と共に、写メールやムービー写メールなどを大手3社の中で初めて開始した。
+現在は、全角30,000文字程度の送受信が可能となり、一部機種では、最大2[MBの添付の送受信が可能となっている](../Page/メガバイト.md "wikilink")。[添付ファイル](../Page/添付ファイル.md "wikilink")には写真や動画のほかに、[Wordや](../Page/Microsoft_Word.md "wikilink")[Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")、[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")なども可能となっている。また通常のEメールをケータイメールと同じような感覚で送受信したりすることも可能になった。「カメラ付きケータイ」と共に、写メールやムービー写メールなどを大手3社の中で初めて開始した。
 
 メールの種類は、S\!メール（MMS）の他に、[SMSもあるが](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")、分類としては別のものである。
 

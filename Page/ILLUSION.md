@@ -190,6 +190,8 @@
 
   -
   -
+  - [IVR](http://i-vr.jp/)（全年齢）
+
   - [APP レイプレイ問題](http://www.app-jp.org/modules/about/index.php?content_id=6)
 
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")

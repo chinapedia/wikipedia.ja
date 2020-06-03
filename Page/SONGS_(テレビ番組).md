@@ -133,7 +133,7 @@
 <strong><a href="https://ja.wikipedia.org/wiki/南こうせつ" title="wikilink">南こうせつ</a></strong><br />
 <strong><a href="../Page/五つの赤い風船.md" title="wikilink">五つの赤い風船</a></strong></p></td>
 <td></td>
-<td><p>遠い世界に・<a href="../Page/翼をください.md" title="wikilink">翼をください</a>・マキシーのために・まぼろしのつばさと共に・フォーク名曲メドレー（受験生ブルース・<a href="https://ja.wikipedia.org/wiki/悲しくてやりきれない" title="wikilink">悲しくてやりきれない</a>・自転車にのって）・<a href="../Page/あの素晴しい愛をもう一度.md" title="wikilink">あの素晴しい愛をもう一度</a></p></td>
+<td><p>遠い世界に・<a href="../Page/翼をください.md" title="wikilink">翼をください</a>・マキシーのために・まぼろしのつばさと共に・フォーク名曲メドレー（受験生ブルース・<a href="../Page/悲しくてやりきれない.md" title="wikilink">悲しくてやりきれない</a>・自転車にのって）・<a href="../Page/あの素晴しい愛をもう一度.md" title="wikilink">あの素晴しい愛をもう一度</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第6回（2007.<a href="../Page/5月23日.md" title="wikilink">5.23</a>）</p></td>
@@ -152,7 +152,7 @@
 <td><p>第8回（2007.<a href="../Page/6月6日.md" title="wikilink">6.6</a>）</p></td>
 <td><p><strong><a href="../Page/大貫妙子.md" title="wikilink">大貫妙子</a></strong></p></td>
 <td><p><a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Shall_we_ダンス?#主題歌" title="wikilink">Shall We Dance?</a>・突然の贈り物・メトロポリタン美術館・<a href="https://ja.wikipedia.org/wiki/哀しみのアダージョ" title="wikilink">彼と彼女のソネット</a>・Time To Go</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Shall_we_ダンス?#主題歌" title="wikilink">Shall We Dance?</a>・突然の贈り物・メトロポリタン美術館・<a href="../Page/哀しみのアダージョ.md" title="wikilink">彼と彼女のソネット</a>・Time To Go</p></td>
 </tr>
 <tr class="even">
 <td><p>第9回（2007.<a href="../Page/6月13日.md" title="wikilink">6.13</a>）</p></td>
@@ -231,7 +231,7 @@
 <td><p>第21回（2007.<a href="../Page/10月10日.md" title="wikilink">10.10</a>）</p></td>
 <td><p><strong><a href="../Page/高橋真梨子.md" title="wikilink">高橋真梨子</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安めぐみ" title="wikilink">安めぐみ</a><br />
-<a href="https://ja.wikipedia.org/wiki/星野仙一" title="wikilink">星野仙一</a><br />
+<a href="../Page/星野仙一.md" title="wikilink">星野仙一</a><br />
 <a href="../Page/西田敏行.md" title="wikilink">西田敏行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/for_you…" title="wikilink">for you…</a>・ごめんね……・<a href="https://ja.wikipedia.org/wiki/眠れない夜をかぞえて#主題歌" title="wikilink">はがゆい唇</a>・グランパ</p></td>
 </tr>
@@ -240,7 +240,7 @@
 <td><p>安めぐみ<br />
 <a href="../Page/ヘンリー広瀬.md" title="wikilink">ヘンリー広瀬</a><br />
 <a href="../Page/阿久悠.md" title="wikilink">阿久悠</a>（語り）</p></td>
-<td><p>桃色吐息・<a href="../Page/ジョニィへの伝言.md" title="wikilink">ジョニィへの伝言</a>・教会へ行く・<a href="https://ja.wikipedia.org/wiki/いっそ_セレナーデ" title="wikilink">いっそ セレナーデ</a>・無伴奏</p></td>
+<td><p>桃色吐息・<a href="../Page/ジョニィへの伝言.md" title="wikilink">ジョニィへの伝言</a>・教会へ行く・<a href="../Page/いっそ_セレナーデ.md" title="wikilink">いっそ セレナーデ</a>・無伴奏</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -372,7 +372,7 @@ DREAMS COME TRUE<br />
 <td><p>第35回（2008.<a href="../Page/1月30日.md" title="wikilink">1.30</a>）</p></td>
 <td><p><strong><a href="../Page/世良公則.md" title="wikilink">世良公則</a></strong></p></td>
 <td><p><a href="../Page/ダグ・アルドリッチ.md" title="wikilink">Doug Aldrich</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/燃えろいい女" title="wikilink">燃えろいい女</a>・<a href="https://ja.wikipedia.org/wiki/宿無し" title="wikilink">宿無し</a>・<a href="https://ja.wikipedia.org/wiki/あんたのバラード" title="wikilink">あんたのバラード</a>・<a href="https://ja.wikipedia.org/wiki/銃爪_(曲)" title="wikilink">銃爪</a>・Jacaranda -ジャカランダ-</p></td>
+<td><p><a href="../Page/燃えろいい女.md" title="wikilink">燃えろいい女</a>・<a href="../Page/宿無し.md" title="wikilink">宿無し</a>・<a href="../Page/あんたのバラード.md" title="wikilink">あんたのバラード</a>・<a href="../Page/銃爪_(曲).md" title="wikilink">銃爪</a>・Jacaranda -ジャカランダ-</p></td>
 </tr>
 <tr class="odd">
 <td><p>第36回（2008.<a href="../Page/2月6日.md" title="wikilink">2.6</a>）</p></td>
@@ -530,7 +530,7 @@ Every Little Thing<br />
 <td><p>第57回（2008.<a href="../Page/8月27日.md" title="wikilink">8.27</a>）</p></td>
 <td><p><strong>徳永英明</strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Rainy_Blue_(徳永英明の曲)" title="wikilink">レイニーブルー</a>、<a href="../Page/輝きながら….md" title="wikilink">輝きながら…</a>・<a href="../Page/風のエオリア.md" title="wikilink">風のエオリア</a>・僕のそばに・<a href="https://ja.wikipedia.org/wiki/抱きしめてあげる/花束" title="wikilink">抱きしめてあげる</a>・<a href="https://ja.wikipedia.org/wiki/最後の言い訳" title="wikilink">最後の言い訳</a>・<a href="../Page/愛が哀しいから.md" title="wikilink">愛が哀しいから</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Rainy_Blue_(徳永英明の曲)" title="wikilink">レイニーブルー</a>、<a href="../Page/輝きながら….md" title="wikilink">輝きながら…</a>・<a href="../Page/風のエオリア.md" title="wikilink">風のエオリア</a>・僕のそばに・<a href="https://ja.wikipedia.org/wiki/抱きしめてあげる/花束" title="wikilink">抱きしめてあげる</a>・<a href="../Page/最後の言い訳.md" title="wikilink">最後の言い訳</a>・<a href="../Page/愛が哀しいから.md" title="wikilink">愛が哀しいから</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第58回（2008.<a href="https://ja.wikipedia.org/wiki/9月3日" title="wikilink">9.3</a>）</p></td>
@@ -751,7 +751,7 @@ Kiroro</p></td>
 <td><p>第85回（2009.<a href="../Page/4月8日.md" title="wikilink">4.8</a>）</p></td>
 <td><p><strong><a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a></strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/そしてもう一度夢見るだろう" title="wikilink">まずはどこへ行こう</a>・<a href="../Page/やさしさに包まれたなら.md" title="wikilink">やさしさに包まれたなら</a>・<a href="https://ja.wikipedia.org/wiki/瞳を閉じて" title="wikilink">瞳を閉じて</a>・<a href="../Page/卒業写真_(荒井由実の曲).md" title="wikilink">卒業写真</a>・<a href="https://ja.wikipedia.org/wiki/そしてもう一度夢見るだろう" title="wikilink">ハートの落書き</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/そしてもう一度夢見るだろう" title="wikilink">まずはどこへ行こう</a>・<a href="../Page/やさしさに包まれたなら.md" title="wikilink">やさしさに包まれたなら</a>・<a href="../Page/瞳を閉じて.md" title="wikilink">瞳を閉じて</a>・<a href="../Page/卒業写真_(荒井由実の曲).md" title="wikilink">卒業写真</a>・<a href="https://ja.wikipedia.org/wiki/そしてもう一度夢見るだろう" title="wikilink">ハートの落書き</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第86回（2009.<a href="../Page/4月15日.md" title="wikilink">4.15</a>）</p></td>
@@ -814,7 +814,7 @@ Kiroro</p></td>
 <td><p>第93回（2009.<a href="../Page/6月10日.md" title="wikilink">6.10</a>）</p></td>
 <td><p><strong>髙橋真梨子</strong></p></td>
 <td></td>
-<td><p><a href="../Page/勝手にしやがれ_(沢田研二の曲).md" title="wikilink">勝手にしやがれ</a>・<a href="https://ja.wikipedia.org/wiki/君といつまでも" title="wikilink">君といつまでも</a>・<a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a>・<a href="../Page/ワインレッドの心.md" title="wikilink">ワインレッドの心</a>・<a href="https://ja.wikipedia.org/wiki/サヨナラCOLOR" title="wikilink">サヨナラCOLOR</a></p></td>
+<td><p><a href="../Page/勝手にしやがれ_(沢田研二の曲).md" title="wikilink">勝手にしやがれ</a>・<a href="../Page/君といつまでも.md" title="wikilink">君といつまでも</a>・<a href="../Page/ロビンソン_(曲).md" title="wikilink">ロビンソン</a>・<a href="../Page/ワインレッドの心.md" title="wikilink">ワインレッドの心</a>・<a href="https://ja.wikipedia.org/wiki/サヨナラCOLOR" title="wikilink">サヨナラCOLOR</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第94回（2009.<a href="../Page/6月17日.md" title="wikilink">6.17</a>）</p></td>
@@ -945,7 +945,7 @@ GLAY</p></td>
 井上陽水 第一夜</p></td>
 <td><p><strong><a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></strong></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/招待状のないショー" title="wikilink">招待状のないショー</a>・<a href="https://ja.wikipedia.org/wiki/断絶_(アルバム)#収録曲" title="wikilink">限りない欲望</a>・<a href="https://ja.wikipedia.org/wiki/氷の世界_(曲)" title="wikilink">氷の世界</a>・<a href="https://ja.wikipedia.org/wiki/断絶_(アルバム)#収録曲" title="wikilink">傘がない</a></p></td>
+<td><p><a href="../Page/招待状のないショー.md" title="wikilink">招待状のないショー</a>・<a href="https://ja.wikipedia.org/wiki/断絶_(アルバム)#収録曲" title="wikilink">限りない欲望</a>・<a href="https://ja.wikipedia.org/wiki/氷の世界_(曲)" title="wikilink">氷の世界</a>・<a href="https://ja.wikipedia.org/wiki/断絶_(アルバム)#収録曲" title="wikilink">傘がない</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第113回（2009.<a href="../Page/11月18日.md" title="wikilink">11.18</a>）<br />
@@ -1056,7 +1056,7 @@ GLAY</p></td>
 <td><p>第119回（2010.<a href="../Page/1月13日.md" title="wikilink">1.13</a>）</p></td>
 <td><p><strong><a href="../Page/NOKKO.md" title="wikilink">NOKKO</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/人魚_(NOKKOの曲).md" title="wikilink">人魚</a>・LONELY BUTTERFLY・<a href="https://ja.wikipedia.org/wiki/フレンズ_(レベッカの曲)" title="wikilink">フレンズ</a>・SOMEDAY（佐野元春のカバー）</p></td>
+<td><p><a href="../Page/人魚_(NOKKOの曲).md" title="wikilink">人魚</a>・LONELY BUTTERFLY・<a href="../Page/フレンズ_(レベッカの曲).md" title="wikilink">フレンズ</a>・SOMEDAY（佐野元春のカバー）</p></td>
 </tr>
 <tr class="even">
 <td><p>第120回（2010.<a href="../Page/1月20日.md" title="wikilink">1.20</a>）</p></td>
@@ -1173,7 +1173,7 @@ GLAY</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第138回（2010.<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6.2</a>）</p></td>
+<td><p>第138回（2010.<a href="../Page/6月2日.md" title="wikilink">6.2</a>）</p></td>
 <td><p><strong><a href="../Page/安全地帯_(ロックバンド).md" title="wikilink">安全地帯</a></strong></p></td>
 <td></td>
 <td><p>蒼いバラ、メドレー（碧い瞳のエリス〜恋の予感〜悲しみにさよなら）、メドレー（じれったい〜Cherry〜熱視線）</p></td>
@@ -1305,7 +1305,7 @@ GLAY</p></td>
 <td><p>第159回 (2010.<a href="../Page/12月1日.md" title="wikilink">12.1</a>)</p></td>
 <td><p><strong><a href="../Page/くるり.md" title="wikilink">くるり</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/東京_(くるりの曲).md" title="wikilink">東京</a>、<a href="../Page/Baby_I_Love_You_(くるりの曲).md" title="wikilink">Baby I Love You</a>、<a href="https://ja.wikipedia.org/wiki/JUBILEE_(くるりの曲)" title="wikilink">JUBILEE</a>、<a href="https://ja.wikipedia.org/wiki/魔法のじゅうたん/シャツを洗えば（ヴァージョン2）" title="wikilink">魔法のじゅうたん</a></p></td>
+<td><p><a href="../Page/東京_(くるりの曲).md" title="wikilink">東京</a>、<a href="../Page/Baby_I_Love_You_(くるりの曲).md" title="wikilink">Baby I Love You</a>、<a href="../Page/JUBILEE_(くるりの曲).md" title="wikilink">JUBILEE</a>、<a href="https://ja.wikipedia.org/wiki/魔法のじゅうたん/シャツを洗えば（ヴァージョン2）" title="wikilink">魔法のじゅうたん</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第160回 (2010.<a href="../Page/12月8日.md" title="wikilink">12.8</a>)</p></td>
@@ -1792,7 +1792,7 @@ GRACE 〜princess rose〜<br />
 青空</p></td>
 </tr>
 <tr class="even">
-<td><p>第221回 （2012.<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6.2</a>）（再放送：2012.<a href="../Page/6月9日.md" title="wikilink">6.9</a>）</p></td>
+<td><p>第221回 （2012.<a href="../Page/6月2日.md" title="wikilink">6.2</a>）（再放送：2012.<a href="../Page/6月9日.md" title="wikilink">6.9</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/德永英明" title="wikilink">德永英明</a></p></td>
 <td></td>
 <td><p><a href="../Page/圭子の夢は夜ひらく.md" title="wikilink">夢は夜ひらく</a><br />
@@ -2864,7 +2864,7 @@ One Day Like This</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村雅俊" title="wikilink">中村雅俊</a></p></td>
 <td><p>(「ふれあい」コーラス参加)<br />
 慶應義塾大学 卒業生</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/恋人も濡れる街角" title="wikilink">恋人も濡れる街角</a><br />
+<td><p><a href="../Page/恋人も濡れる街角.md" title="wikilink">恋人も濡れる街角</a><br />
 <a href="../Page/俺たちの旅.md" title="wikilink">俺たちの旅</a></p>
 <p><a href="../Page/ふれあい_(曲).md" title="wikilink">ふれあい</a><br />
 (母校の慶応義塾大学・三田キャンパスの南校舎ホールにて大学時代の仲間 35人と共に)</p>
@@ -3277,7 +3277,7 @@ Shake if Off<br />
 <a href="https://ja.wikipedia.org/wiki/for_you…" title="wikilink">for you…</a><br />
 <a href="../Page/ルビーの指環.md" title="wikilink">ルビーの指環</a><br />
 <a href="../Page/待つわ.md" title="wikilink">待つわ</a>'07<br />
-<a href="https://ja.wikipedia.org/wiki/フレンズ_(レベッカの曲)" title="wikilink">フレンズ</a><br />
+<a href="../Page/フレンズ_(レベッカの曲).md" title="wikilink">フレンズ</a><br />
 <a href="https://ja.wikipedia.org/wiki/春夏秋冬_(泉谷しげるの曲)" title="wikilink">春夏秋冬</a><br />
 <a href="../Page/PRIDE_(今井美樹の曲).md" title="wikilink">PRIDE</a><br />
 <a href="../Page/花〜すべての人の心に花を〜.md" title="wikilink">花〜すべての人の心に花を〜</a><br />
@@ -3758,7 +3758,7 @@ M<br />
 <a href="https://ja.wikipedia.org/wiki/MOON_(レベッカの曲)" title="wikilink">MOON</a><br />
 <a href="https://ja.wikipedia.org/wiki/LONELY_BUTTERFLY" title="wikilink">LONELY BUTTERFLY</a><br />
 <a href="https://ja.wikipedia.org/wiki/REBECCA_IV_〜Maybe_Tomorrow〜" title="wikilink">プライベイト・ヒロイン</a><br />
-<a href="https://ja.wikipedia.org/wiki/フレンズ_(レベッカの曲)" title="wikilink">フレンズ</a><br />
+<a href="../Page/フレンズ_(レベッカの曲).md" title="wikilink">フレンズ</a><br />
 <a href="https://ja.wikipedia.org/wiki/REBECCA_IV_〜Maybe_Tomorrow〜" title="wikilink">Maybe Tomorrow</a></p></td>
 </tr>
 </tbody>
@@ -3858,10 +3858,10 @@ Butterfly</p></td>
 <td></td>
 <td><p>女神<br />
 黒く塗りつぶせ<br />
-<a href="https://ja.wikipedia.org/wiki/瞳を閉じて" title="wikilink">瞳を閉じて</a><br />
+<a href="../Page/瞳を閉じて.md" title="wikilink">瞳を閉じて</a><br />
 <a href="../Page/赤いスイートピー.md" title="wikilink">赤いスイートピー</a><br />
 <a href="../Page/硝子の少年.md" title="wikilink">硝子の少年</a><br />
-<a href="https://ja.wikipedia.org/wiki/フレンズ_(レベッカの曲)" title="wikilink">フレンズ</a><br />
+<a href="../Page/フレンズ_(レベッカの曲).md" title="wikilink">フレンズ</a><br />
 Starting Over<br />
 <a href="../Page/夏色.md" title="wikilink">夏色</a><br />
 <a href="https://ja.wikipedia.org/wiki/R.Y.U.S.E.I." title="wikilink">R.Y.U.S.E.I.</a><br />
@@ -4019,7 +4019,7 @@ KISS<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第383回 (2016.<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6.2</a>)<br />
+<td><p>第383回 (2016.<a href="../Page/6月2日.md" title="wikilink">6.2</a>)<br />
 <strong>シンガーの流儀 私の50年</strong></p></td>
 <td><p><a href="../Page/高橋真梨子.md" title="wikilink">高橋真梨子</a></p></td>
 <td></td>
@@ -4445,7 +4445,7 @@ X<br />
 <a href="../Page/花火_(aikoの曲).md" title="wikilink">花火</a><br />
 <a href="https://ja.wikipedia.org/wiki/トリセツ_(曲)" title="wikilink">トリセツ</a><br />
 <a href="https://ja.wikipedia.org/wiki/Butterfly_(木村カエラの曲)" title="wikilink">Butterfly</a><br />
-<a href="https://ja.wikipedia.org/wiki/愛をこめて花束を" title="wikilink">愛をこめて花束を</a><br />
+<a href="../Page/愛をこめて花束を.md" title="wikilink">愛をこめて花束を</a><br />
 <a href="https://ja.wikipedia.org/wiki/家族になろうよ" title="wikilink">家族になろうよ</a><br />
 <a href="../Page/口笛_(Mr.Childrenの曲).md" title="wikilink">口笛</a><br />
 <a href="../Page/LA・LA・LA_LOVE_SONG.md" title="wikilink">LA・LA・LA LOVE SONG</a><br />
@@ -4739,7 +4739,7 @@ Sweet Nothing's</p></td>
 <p>(リクエスト 2位)<br />
 <a href="../Page/壊れかけのRadio.md" title="wikilink">壊れかけのRadio</a></p>
 <p>(リクエスト 3位)<br />
-<a href="https://ja.wikipedia.org/wiki/最後の言い訳" title="wikilink">最後の言い訳</a></p>
+<a href="../Page/最後の言い訳.md" title="wikilink">最後の言い訳</a></p>
 <p>(リクエスト 4位)<br />
 <a href="https://ja.wikipedia.org/wiki/Nostalgia_(徳永英明のアルバム)" title="wikilink">僕のそばに</a></p>
 <p>(リクエスト 5位)<br />
@@ -4794,7 +4794,7 @@ Sweet Nothing's</p></td>
 <p><a href="../Page/バンザイ_〜好きでよかった〜.md" title="wikilink">バンザイ 〜好きでよかった〜</a> / ウルフルズ</p>
 <p><a href="https://ja.wikipedia.org/wiki/SUMMER_CANDLES" title="wikilink">SUMMER CANDLES</a> / 杏里</p>
 <p><a href="https://ja.wikipedia.org/wiki/HANABI_(Mr.Childrenの曲)" title="wikilink">HANABI</a> / Mr.Children</p>
-<p><a href="https://ja.wikipedia.org/wiki/君といつまでも" title="wikilink">君といつまでも</a> / 加山雄三</p>
+<p><a href="../Page/君といつまでも.md" title="wikilink">君といつまでも</a> / 加山雄三</p>
 <p><a href="https://ja.wikipedia.org/wiki/14番目の月#Side_A" title="wikilink">中央フリーウェイ</a> / 荒井由実</p>
 <p><a href="../Page/年下の男の子_(キャンディーズの曲).md" title="wikilink">年下の男の子</a> / キャンディーズ</p>
 <p><a href="../Page/ボーイフレンド_(aikoの曲).md" title="wikilink">ボーイフレンド</a> / aiko</p>
@@ -4967,7 +4967,7 @@ Continues<br />
 <a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SHISHAMO_4" title="wikilink">明日も</a> / SHISHAMO</p>
-<p><a href="https://ja.wikipedia.org/wiki/悲しくてやりきれない" title="wikilink">悲しくてやりきれない</a>（<a href="https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ" title="wikilink">ザ・フォーク・クルセダーズ</a>）<br />
+<p><a href="../Page/悲しくてやりきれない.md" title="wikilink">悲しくてやりきれない</a>（<a href="https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ" title="wikilink">ザ・フォーク・クルセダーズ</a>）<br />
 / コトリンゴ</p>
 <p>いま、太陽に向かって咲く花 / NOBU</p></td>
 </tr>
@@ -5261,7 +5261,7 @@ MIC DROP</p></td>
 <a href="https://ja.wikipedia.org/wiki/エトワール_(薬師丸ひろ子のアルバム)" title="wikilink">窓</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>第461回（2018.<a href="https://ja.wikipedia.org/wiki/6月2日" title="wikilink">6.2</a>）<br />
+<td><p>第461回（2018.<a href="../Page/6月2日.md" title="wikilink">6.2</a>）<br />
 <strong>aiko×番組史上最大のスタジオLIVE</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 <td><p>(番組責任者)</p>
@@ -5804,7 +5804,7 @@ UNBROKEN (feat. <a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰<
 <td><p>(スタジオライブ)<br />
 <a href="https://ja.wikipedia.org/wiki/今はもうだれも#アリス版" title="wikilink">今はもうだれも</a><br />
 <a href="../Page/冬の稲妻.md" title="wikilink">冬の稲妻</a><br />
-<a href="https://ja.wikipedia.org/wiki/愛の光_(アリスの曲)" title="wikilink">愛の光</a><br />
+<a href="../Page/愛の光_(アリスの曲).md" title="wikilink">愛の光</a><br />
 限りなき挑戦 -OPEN GATE-</p></td>
 </tr>
 <tr class="odd">
@@ -6047,7 +6047,7 @@ The Others</p></td>
 (ナレーション)<br />
 戸次重幸</p></td>
 <td><p><a href="../Page/今宵の月のように.md" title="wikilink">今宵の月のように</a><br />
-<a href="https://ja.wikipedia.org/wiki/愛をこめて花束を" title="wikilink">愛をこめて花束を</a><br />
+<a href="../Page/愛をこめて花束を.md" title="wikilink">愛をこめて花束を</a><br />
 <a href="https://ja.wikipedia.org/wiki/ラヴ・イズ・オーヴァー" title="wikilink">ラヴ・イズ・オーヴァー</a><br />
 <a href="../Page/鱗_(曲).md" title="wikilink">鱗（うろこ）</a><br />
 <a href="../Page/全力少年.md" title="wikilink">全力少年</a><br />
@@ -6191,7 +6191,7 @@ The Others</p></td>
 <a href="https://ja.wikipedia.org/wiki/大島優子" title="wikilink">大島優子</a></p></td>
 <td><p>(スタジオライブ)<br />
 <a href="https://ja.wikipedia.org/wiki/フレア_(Superflyの曲)" title="wikilink">フレア</a><br />
-<a href="https://ja.wikipedia.org/wiki/愛をこめて花束を" title="wikilink">愛をこめて花束を</a><br />
+<a href="../Page/愛をこめて花束を.md" title="wikilink">愛をこめて花束を</a><br />
 <a href="https://ja.wikipedia.org/wiki/Ambitious_(Superflyの曲)" title="wikilink">Ambitious</a></p></td>
 </tr>
 <tr class="odd">
@@ -6372,10 +6372,36 @@ Are You Ready To Ska?[43]</p></td>
 <a href="https://ja.wikipedia.org/wiki/夢で逢えたら_(ラッツ&amp;スターの曲)" title="wikilink">夢で逢えたら</a></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>第532回 （2020.<a href="../Page/4月25日.md" title="wikilink">4.25</a>[48]) <br />
+<strong>鬼束ちひろ ✕ 刻まれた20年分の思いを、いま</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鬼束ちひろ" title="wikilink">鬼束ちひろ</a></p></td>
+<td><p>(番組責任者)<br />
+大泉洋<br />
+(ナレーション)<br />
+戸次重幸</p></td>
+<td><p>(スタジオライブ)<br />
+<a href="../Page/月光_(鬼束ちひろの曲).md" title="wikilink">月光</a><br />
+<a href="../Page/流星群_(鬼束ちひろの曲).md" title="wikilink">流星群</a><br />
+書きかけの手紙</p></td>
+</tr>
+<tr class="even">
+<td><p>第533回 （2020.<a href="../Page/5月9日.md" title="wikilink">5.9</a>)<br />
+<strong>SONGS × <a href="https://ja.wikipedia.org/wiki/世界はほしいモノにあふれてる_〜旅するバイヤー極上リスト〜" title="wikilink">世界はJUJUの音楽にあふれてる</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/JUJU" title="wikilink">JUJU</a></p></td>
+<td><p>(番組責任者)<br />
+大泉洋<br />
+(ナレーション)<br />
+<a href="../Page/西東大.md" title="wikilink">西東大</a><br />
+(対談)<br />
+<a href="https://ja.wikipedia.org/wiki/三浦春馬" title="wikilink">三浦春馬</a><br />
+(メッセージゲスト)<br />
+<a href="../Page/吉田羊.md" title="wikilink">吉田羊</a><br />
+<a href="../Page/蔦谷好位置.md" title="wikilink">蔦谷好位置</a><br />
+<a href="../Page/小田和正.md" title="wikilink">小田和正</a></p></td>
+<td><p>(スタジオライブ)<br />
+<a href="https://ja.wikipedia.org/wiki/明日がくるなら" title="wikilink">明日がくるなら</a><br />
+<a href="https://ja.wikipedia.org/wiki/ありがとう_(JUJUの曲)" title="wikilink">ありがとう</a><br />
+<a href="../Page/STAYIN&#39;_ALIVE.md" title="wikilink">STAYIN' ALIVE</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -6409,7 +6435,7 @@ Are You Ready To Ska?[43]</p></td>
 
 | 放送日                                       | 出演者                                    | ゲスト | 曲目                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------- | -------------------------------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2014\.[4.13](../Page/4月13日.md "wikilink") | [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink") | 一   | [セーラー服と機関銃](https://ja.wikipedia.org/wiki/セーラー服と機関銃_\(曲\)#薬師丸ひろ子の曲 "wikilink")\[48\]、[メイン・テーマ](https://ja.wikipedia.org/wiki/メイン・テーマ_\(薬師丸ひろ子の曲\) "wikilink")\[49\]、[潮騒のメモリー](https://ja.wikipedia.org/wiki/潮騒のメモリー "wikilink")\[50\]、[故郷](../Page/故郷_\(唱歌\).md "wikilink")\[51\]、[黄昏のビギン](https://ja.wikipedia.org/wiki/黄昏のビギン "wikilink")、秋の子、[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")、[Woman "Wの悲劇"より](https://ja.wikipedia.org/wiki/Woman_"Wの悲劇"より "wikilink")\[52\] |
+| 2014\.[4.13](../Page/4月13日.md "wikilink") | [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink") | 一   | [セーラー服と機関銃](https://ja.wikipedia.org/wiki/セーラー服と機関銃_\(曲\)#薬師丸ひろ子の曲 "wikilink")\[49\]、[メイン・テーマ](https://ja.wikipedia.org/wiki/メイン・テーマ_\(薬師丸ひろ子の曲\) "wikilink")\[50\]、[潮騒のメモリー](https://ja.wikipedia.org/wiki/潮騒のメモリー "wikilink")\[51\]、[故郷](../Page/故郷_\(唱歌\).md "wikilink")\[52\]、[黄昏のビギン](https://ja.wikipedia.org/wiki/黄昏のビギン "wikilink")、秋の子、[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")、[Woman "Wの悲劇"より](https://ja.wikipedia.org/wiki/Woman_"Wの悲劇"より "wikilink")\[53\] |
 |                                           |                                        |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 </div>
@@ -6450,7 +6476,7 @@ Are You Ready To Ska?[43]</p></td>
 
 ## 番組の顔
 
-  - [大泉洋](../Page/大泉洋.md "wikilink")（TEAM NACS）（2018年5月12日 - ）\[53\]
+  - [大泉洋](../Page/大泉洋.md "wikilink")（TEAM NACS）（2018年5月12日 - ）\[54\]
 
 ## スタッフ
 
@@ -6483,7 +6509,7 @@ Are You Ready To Ska?[43]</p></td>
   -
   - [番組エピソード 大人がゆったり楽しめる音楽番組『SONGS』 制作統括が語った、番組制作秘話-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=music017)
 
-[Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK_BSの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの深夜番組 "wikilink") [Category:NHK_BSプレミアムの番組](https://ja.wikipedia.org/wiki/Category:NHK_BSプレミアムの番組 "wikilink") [Category:NHK_BSの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの音楽番組 "wikilink") [Category:NHK番組たまご](https://ja.wikipedia.org/wiki/Category:NHK番組たまご "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK_BSの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの深夜番組 "wikilink") [Category:NHK_BSプレミアムの番組](https://ja.wikipedia.org/wiki/Category:NHK_BSプレミアムの番組 "wikilink") [Category:NHK_BSの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの音楽番組 "wikilink") [Category:NHK番組たまご](https://ja.wikipedia.org/wiki/Category:NHK番組たまご "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:戸次重幸](https://ja.wikipedia.org/wiki/Category:戸次重幸 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  この回は同年[3月24日](../Page/3月24日.md "wikilink")深夜（25日未明）0:15 - 1:00にも再放送された。
 2.  [竹内まりや、26年ぶりテレビ“復帰”果たす\!](http://www.oricon.co.jp/news/music/43811/)
@@ -6532,9 +6558,10 @@ Are You Ready To Ska?[43]</p></td>
 45.
 46.
 47.
-48. 『薬師丸ひろ子35周年記念コンサート』の映像。
-49.
-50. 『[第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")』の映像。
-51.
+48.
+49. 『薬師丸ひろ子35周年記念コンサート』の映像。
+50.
+51. 『[第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")』の映像。
 52.
 53.
+54.

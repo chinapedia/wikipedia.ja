@@ -15,7 +15,7 @@
 
 1.  **[REINCARNATION](https://ja.wikipedia.org/wiki/REINCARNATION_\(奥井雅美の曲\) "wikilink")**
       - [作詞](../Page/作詞.md "wikilink")：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink") / [作曲](../Page/作曲.md "wikilink")：[工藤崇](https://ja.wikipedia.org/wiki/工藤崇 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
-2.  **[Moonlight Angel -明日に向かって-](https://ja.wikipedia.org/wiki/My_Best_Friend_2 "wikilink")**
+2.  **[Moonlight Angel -明日に向かって-](../Page/My_Best_Friend_2.md "wikilink")**
       - 作詞・作曲：奥井雅美 / 編曲：矢吹俊郎、[大平勉](../Page/大平勉.md "wikilink")
 3.  **[I WAS BORN TO FALL IN LOVE](https://ja.wikipedia.org/wiki/I_WAS_BORN_TO_FALL_IN_LOVE "wikilink")**
       - 作詞：有森聡美 / 作曲・編曲：[中崎英也](../Page/中崎英也.md "wikilink")

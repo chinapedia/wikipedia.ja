@@ -242,7 +242,7 @@
   - [クロちゃん](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")（[安田大サーカス](../Page/安田大サーカス.md "wikilink")）※ワンセグ2延長戦
   - 藤崎賢嗣・海野孝太（[ランチランチ](../Page/ランチランチ.md "wikilink")）※ワンセグ2延長戦
   - ツネ（[2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")）※ワンセグ2延長戦
-  - [かねきよ勝則](../Page/かねきよ勝則.md "wikilink")（[新宿カウボーイ](https://ja.wikipedia.org/wiki/新宿カウボーイ "wikilink")）※ワンセグ2延長戦
+  - [かねきよ勝則](../Page/かねきよ勝則.md "wikilink")（[新宿カウボーイ](../Page/新宿カウボーイ.md "wikilink")）※ワンセグ2延長戦
   - [ハブ](https://ja.wikipedia.org/wiki/ハブサービス "wikilink")（当時：[Bコース](../Page/Bコース.md "wikilink")）※ワンセグ2延長戦
   - [RG](../Page/レイザーラモンRG.md "wikilink")（[レイザーラモン](../Page/レイザーラモン.md "wikilink")）※ワンセグ2延長戦
   - 岡安章介（[ななめ45°](../Page/ななめ45°.md "wikilink")）※ワンセグ2延長戦
@@ -384,7 +384,7 @@
   - [道端アンジェリカ](https://ja.wikipedia.org/wiki/道端アンジェリカ "wikilink")
   - [辻希美](../Page/辻希美.md "wikilink")
   - [甲斐まり恵](../Page/甲斐まり恵.md "wikilink")
-  - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")
+  - [石川梨華](../Page/石川梨華.md "wikilink")
   - [大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")（[tomboy](https://ja.wikipedia.org/wiki/tomboy "wikilink")として）
   - [黒沢かずこ](../Page/黒沢かずこ.md "wikilink")（[森三中](../Page/森三中.md "wikilink")）
   - [椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")

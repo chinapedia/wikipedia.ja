@@ -224,7 +224,7 @@ WOWOWが収録した素材が民放のワイドショーで流されることも
   - [スティーブン・スピルバーグのトゥーンシルバニア](https://ja.wikipedia.org/wiki/スティーブン・スピルバーグのトゥーンシルバニア "wikilink")
   - [ぽこよ POCOYO](https://ja.wikipedia.org/wiki/ぽこよ_POCOYO "wikilink")
   - [アンジェリーナはバレリーナ](https://ja.wikipedia.org/wiki/アンジェリーナはバレリーナ "wikilink")
-  - [アフロサムライ](https://ja.wikipedia.org/wiki/アフロサムライ "wikilink")
+  - [アフロサムライ](../Page/アフロサムライ.md "wikilink")
 
 ## ドキュメンタリー
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[講談社](../Page/講談社.md "wikilink")発行のヤング女性向け[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[Kiss](../Page/Kiss_\(雑誌\).md "wikilink")』で不定期に、各話1回ずつの読みきり形式で掲載された。単行本は、[2001年](../Page/2001年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に過去の掲載分をまとめた第1巻が発売され、[2007年](../Page/2007年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")に最終巻である第7巻が発売され完結した。
+[講談社](../Page/講談社.md "wikilink")発行のヤング女性向け[漫画雑誌](../Page/漫画雑誌.md "wikilink")『[Kiss](../Page/Kiss_\(雑誌\).md "wikilink")』で不定期に、各話1回ずつの読みきり形式で掲載された。単行本は、[2001年](../Page/2001年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")に過去の掲載分をまとめた第1巻が発売され、[2007年](../Page/2007年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")に最終巻である第7巻が発売され完結した。
 
 2008年から2013年まで、『[Kiss PLUS](https://ja.wikipedia.org/wiki/Kiss_PLUS "wikilink")』において続編である『**新Good Job〜グッジョブ**』が連載された（単行本は第5巻まで発売、[2011年](../Page/2011年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")現在）。
 

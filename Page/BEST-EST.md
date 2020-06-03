@@ -17,7 +17,7 @@
 1.  **[誰よりもずっと…](https://ja.wikipedia.org/wiki/誰よりもずっと… "wikilink")**
       - [作詞](../Page/作詞.md "wikilink")：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲・編曲：[渡辺俊幸](../Page/渡辺俊幸.md "wikilink")
 2.  **[夢にこんにちは〜ウイロータウン物語〜](https://ja.wikipedia.org/wiki/夢にこんにちは〜ウイロータウン物語〜 "wikilink")**
-      - 作詞：[松葉美保](https://ja.wikipedia.org/wiki/松葉美保 "wikilink")、作曲・編曲：[手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")
+      - 作詞：[松葉美保](https://ja.wikipedia.org/wiki/松葉美保 "wikilink")、作曲・編曲：[手塚理](../Page/手塚理.md "wikilink")
 3.  **[REINCARNATION](https://ja.wikipedia.org/wiki/REINCARNATION_\(奥井雅美の曲\) "wikilink")**
       - 作詞：有森聡美、作曲：[工藤崇](https://ja.wikipedia.org/wiki/工藤崇 "wikilink")、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 4.  **[My Jolly Days](https://ja.wikipedia.org/wiki/My_Jolly_Days "wikilink")**

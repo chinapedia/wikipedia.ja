@@ -63,7 +63,7 @@
 
 **Pa Pa Pa**
 
-  - Drums:[NORIYASU KAWAMURA](https://ja.wikipedia.org/wiki/河村智康 "wikilink")
+  - Drums:[NORIYASU KAWAMURA](../Page/河村智康.md "wikilink")
   - Bass:SHUNSUKE TSUNODA
   - Guitars:MAKOTO SAITO
   - Keyboards:ATSUO KATAYAMA

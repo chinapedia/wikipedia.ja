@@ -119,9 +119,11 @@
   - **BROKEN GENERATION**　（1985年11月21日）（c/w　MISTAKE NIGHT）
   - **LAUGHIN' ROLL**　（1986年10月21日）（c/w　BRIGHT'N'SHADOW）
   - **警告-warning-**　（1988年1月25日）（c/w　WONDERFUL TV）
+  - **BRAIN CONTROL** (1988年5月) - 4曲収録
   - **SIXTEEN**　（1990年1月24日）（c/w　NO MORE HEROES）
   - **ブットバセep**　（2000年11月15日） - アナログのみ。4曲収録
   - **FALLIN' FALLIN' INTO YOUR HEART**　（2012年5月15日） - アナログのみ。1stアルバムからのシングルカット（リマスタリング）1曲のみ収録
+  - **4 songs Maxi CD** (2020年4月20日)-4曲収録
 
 ### アルバム
 
@@ -155,6 +157,7 @@
 
   - **LIVE BLACK BOX**　（1988年12月4日）
   - **LAUGHIN'S NOT DEAD**　（1989年10月18日） - 新曲2曲追加収録
+  - **LIVE BLACK BOX 2** (2020年4月20日)
 
 #### ベスト　/　コンプリート　/　VAアルバム
 
@@ -177,6 +180,8 @@
   - **AM A LIVE TOUR**　（2006年12月9日）-　「AM A LIVE TOUR（2006年）」8月13日、ファイナル　日比谷野音をメインに収録
   - **LIVE '09 AFTERMATH**　（2010年1月13日）-　「LIVE '09 ワンマンツアー（2009年）」9月13日、心斎橋KING COBRA、9月27日、ファイナル　下北沢GARDENを収録
   - **ワチュロウパーティ\!\!**　（2012年11月1日）-　「ワチュロウ・パーティ　TOUR（2012年）」6月22日、ファイナル　新宿LOFT他、新曲収録
+  - **50's Roll** (2018年4月) - 「50's Roll TOUR (2017年)」12月13日、ファイナル 大阪KING COBRA他、新曲収録
+  - **NEGATIVE** (2019年 11月27日) - 「NEGATIVE TOUR (2019年)」6月23日、ファイナル 渋谷 CLUB QUATTRO
 
 ### 無料配布
 

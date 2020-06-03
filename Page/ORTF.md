@@ -5,7 +5,7 @@
 
 ## 歴史
 
-1964年にそれまでの****（エール・テー・エフ、**RTF**、Radiodiffusion-Télévision Française）から名称を変更して設立されたが、1974年2月に当時の会長マルソー・ロングが廃止すると発表し、同年12月31日に閉局された\[2\]。これにより、[フランス・テレビジョン](../Page/フランス・テレビジョン.md "wikilink")や[ラジオ・フランス](https://ja.wikipedia.org/wiki/ラジオ・フランス "wikilink")などといった会社分割が行なわれた。
+1964年にそれまでの****（エール・テー・エフ、**RTF**、Radiodiffusion-Télévision Française）から名称を変更して設立されたが、1974年2月に当時の会長マルソー・ロングが廃止すると発表し、同年12月31日に閉局された\[2\]。これにより、[フランス・テレビジョン](../Page/フランス・テレビジョン.md "wikilink")や[ラジオ・フランス](../Page/ラジオ・フランス.md "wikilink")などといった会社分割が行なわれた。
 
 ## 運営されていたチャンネル
 
@@ -26,5 +26,5 @@
 
 [Category:フランスのテレビ局](https://ja.wikipedia.org/wiki/Category:フランスのテレビ局 "wikilink") [Category:フランスのラジオ局](https://ja.wikipedia.org/wiki/Category:フランスのラジオ局 "wikilink") [Category:公共放送](https://ja.wikipedia.org/wiki/Category:公共放送 "wikilink") [Category:かつて存在したフランスの企業](https://ja.wikipedia.org/wiki/Category:かつて存在したフランスの企業 "wikilink")
 
-1.  [Loi n° 64-621 du 27 juin 1964 portant statut de l'Office de radiodiffusion-télévision française](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19640628&numTexte=&pageDebut=05636&pageFin=), Journal Officiel du 28 juin 1964
-2.  [Loi n° 74-696 du 7 août 1974 relative à la radiodiffusion et télévision française](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19740808&numTexte=&pageDebut=08355&pageFin=), Journal Officiel du 8 août 1974
+1.  [Loi n° 64-621 du 27 juin 1964 portant statut de l'Office de radiodiffusion-télévision française](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19640628&numTexte=&pageDebut=05636&pageFin=), 1964年6月28日付[フランス共和国官報](https://ja.wikipedia.org/wiki/フランス共和国官報 "wikilink")
+2.  [Loi n° 74-696 du 7 août 1974 relative à la radiodiffusion et télévision française](http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19740808&numTexte=&pageDebut=08355&pageFin=), 1974年8月8日付[フランス共和国官報](https://ja.wikipedia.org/wiki/フランス共和国官報 "wikilink")

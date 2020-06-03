@@ -15,7 +15,7 @@
 1.  **[誰よりもずっと…](https://ja.wikipedia.org/wiki/誰よりもずっと… "wikilink")**
       - 作詞：[有森聡美](https://ja.wikipedia.org/wiki/有森聡美 "wikilink")、作曲・編曲：[渡辺俊幸](../Page/渡辺俊幸.md "wikilink")
 2.  **[夢にこんにちは〜ウイロータウン物語〜](https://ja.wikipedia.org/wiki/夢にこんにちは〜ウイロータウン物語〜 "wikilink")**
-      - 作詞：[松葉美保](https://ja.wikipedia.org/wiki/松葉美保 "wikilink")、作曲・編曲：[手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")
+      - 作詞：[松葉美保](https://ja.wikipedia.org/wiki/松葉美保 "wikilink")、作曲・編曲：[手塚理](../Page/手塚理.md "wikilink")
 3.  **[リバプールへおいで](https://ja.wikipedia.org/wiki/夢にこんにちは〜ウイロータウン物語〜 "wikilink")**
       - 作詞：[白峰美津子](https://ja.wikipedia.org/wiki/白峰美津子 "wikilink")、作曲・編曲：手塚理
 4.  **[I WAS BORN TO FALL IN LOVE](https://ja.wikipedia.org/wiki/I_WAS_BORN_TO_FALL_IN_LOVE "wikilink")**

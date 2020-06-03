@@ -30,7 +30,7 @@ BGMの選択が可能で「コミカル」にすると[オーダイン](../Page/
   - [ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")- 神宮の杜球場（[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")）
   - [広島東洋カープ](../Page/広島東洋カープ.md "wikilink") - 広島県民球場（[広島市民球場](../Page/広島市民球場_\(初代\).md "wikilink")）
   - [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink") - 東京ビッグドーム（[東京ドーム](../Page/東京ドーム.md "wikilink")）
-  - [横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink") - ベイサイドスタジアム（[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")）
+  - [横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink") - ベイサイドスタジアム（[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")）
   - [中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink") - 中部日本球場（[ナゴヤ球場](../Page/ナゴヤ球場.md "wikilink")）→中部日本ドーム（[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")）
   - [阪神タイガース](../Page/阪神タイガース.md "wikilink") - 六甲山球場（[甲子園球場](https://ja.wikipedia.org/wiki/甲子園球場 "wikilink")）
 

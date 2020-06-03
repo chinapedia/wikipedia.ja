@@ -5,7 +5,7 @@
 
 ## 解説
 
-このシングルは、[ゆずが歌っている映画主題歌の](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")「明日天気になぁれ」、映画のメインテーマ、[古今亭菊志ん](https://ja.wikipedia.org/wiki/古今亭菊志ん "wikilink")による落語が収録されている。
+このシングルは、[ゆずが歌っている映画主題歌の](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")「明日天気になぁれ」、映画のメインテーマ、[古今亭菊志ん](../Page/古今亭菊志ん.md "wikilink")による落語が収録されている。
 
 ## 収録曲
 
@@ -13,7 +13,7 @@
       - 作詞・作曲:[北川悠仁](https://ja.wikipedia.org/wiki/北川悠仁 "wikilink")　プロデュース:[寺岡呼人](../Page/寺岡呼人.md "wikilink")&ゆず
       - [PVが制作されており](../Page/ミュージック・ビデオ.md "wikilink")、監督を担当したのは[蜷川実花](../Page/蜷川実花.md "wikilink")である。映画の舞台と同じ[浅草](../Page/浅草.md "wikilink")、[月島](../Page/月島.md "wikilink")で撮影した。
 2.  しゃべれども しゃべれども メインテーマ / [安川午郎](https://ja.wikipedia.org/wiki/安川午郎 "wikilink")
-3.  火焔太鼓 / [古今亭菊志ん](https://ja.wikipedia.org/wiki/古今亭菊志ん "wikilink")
+3.  火焔太鼓 / [古今亭菊志ん](../Page/古今亭菊志ん.md "wikilink")
 
 ## 収録アルバム
 

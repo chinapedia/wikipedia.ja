@@ -34,7 +34,7 @@ Leafから発売された『[鎖 -クサリ-](../Page/鎖_-クサリ-.md "wikili
 
   - [えむえむっ\!](../Page/えむえむっ!.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")） 挿絵
   - [僕たちのパラドクス](https://ja.wikipedia.org/wiki/僕たちのパラドクス "wikilink")（[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")） 挿絵
-  - [ラッキーチャンス\!](https://ja.wikipedia.org/wiki/ラッキーチャンス! "wikilink")（[電撃文庫](../Page/電撃文庫.md "wikilink")） イラスト
+  - [ラッキーチャンス\!](../Page/ラッキーチャンス!.md "wikilink")（[電撃文庫](../Page/電撃文庫.md "wikilink")） イラスト
   - ガジェットガール（[スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")） 挿絵（小原トメ太・さくら小春名義）
   - ボクの可愛い国家令嬢（[富士見ファンタジア文庫](../Page/富士見ファンタジア文庫.md "wikilink")） 挿絵
   - [ロック・ペーパー・シザーズ](https://ja.wikipedia.org/wiki/ロック・ペーパー・シザーズ "wikilink")（富士見ファンタジア文庫） 挿絵

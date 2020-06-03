@@ -32,7 +32,7 @@
 
 2012年4月、初のUK\&Paris TOUR、Great Ecape等に出演。 8月8日には8otto結成8周年を記念し自主企画『One or Eight』を開催した。
 
-マエノソノ マサキがボーカルとしてイギリス在住の[フィーダー](../Page/フィーダー_\(バンド\).md "wikilink")(Feeder)のベーシスト[タカ・ヒロセ](https://ja.wikipedia.org/wiki/タカ・ヒロセ "wikilink")、元[フィーダーのサポートギタリストDEAN](../Page/フィーダー_\(バンド\).md "wikilink")、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[INORAN](../Page/INORAN.md "wikilink")とともにMuddy Apesを開始。
+マエノソノ マサキがボーカルとしてイギリス在住の[フィーダー](../Page/フィーダー_\(バンド\).md "wikilink")(Feeder)のベーシスト[タカ・ヒロセ](../Page/タカ・ヒロセ.md "wikilink")、元[フィーダーのサポートギタリストDEAN](../Page/フィーダー_\(バンド\).md "wikilink")、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[INORAN](../Page/INORAN.md "wikilink")とともにMuddy Apesを開始。
 
 2013年、8otto新曲制作スタート。
 

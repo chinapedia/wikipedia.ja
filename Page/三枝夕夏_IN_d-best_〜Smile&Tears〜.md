@@ -1,7 +1,7 @@
 > この記事は[三枝夕夏 IN d-best 〜Smile\&Tears〜](https://ja.wikipedia.org/wiki/三枝夕夏_IN_d-best_〜Smile\&Tears〜)から翻訳されています。
 
 
-『**三枝夕夏 IN d-best 〜Smile & Tears〜**』（さえぐさゆうか・イン・デシベスト・スマイル・アンド・ティアーズ）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")1枚目の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**三枝夕夏 IN d-best 〜Smile & Tears〜**』（さえぐさゆうか・イン・デシベスト・スマイル・アンド・ティアーズ）は、[三枝夕夏 IN dbの](../Page/三枝夕夏_IN_db.md "wikilink")1枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 内容
 
@@ -143,7 +143,7 @@ SPECIAL d-best MOVIE
 
   - [小澤正澄](../Page/小澤正澄.md "wikilink") - シンセサイザー、ギター
   - [綿貫正顕](../Page/綿貫正顕.md "wikilink") - ギター
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - プログラミング、コーラス
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")） - プログラミング、コーラス
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（doa） - コーラス
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス
   - [岡崎雪](../Page/岡崎雪.md "wikilink") - コーラス

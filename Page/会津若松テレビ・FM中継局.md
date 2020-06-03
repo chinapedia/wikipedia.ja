@@ -22,7 +22,7 @@
 番号</a></p></th>
 <th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/実効輻射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
 内世帯数</p></th>
@@ -257,7 +257,7 @@
 
 ## その他
 
-  - 当中継局は出力が大きいものの、周囲が山がちという会津地方特有の地理的環境から電波が広範囲に届きにくく、会津盆地とその周辺の地域にしか電波が届いていない。新潟市でも一部受信できる。また弥彦山と当中継局を両方受信できる地域があるため周波数は互い違いになっているのが特徴。
+  - 当中継局は出力が大きいものの、周囲が山がちという会津地方特有の地理的環境から電波が広範囲に届きにくく、会津盆地とその周辺の地域にしか電波が届いていない。
   - NHK総合・NHK教育のアナログ放送はともに[関東広域圏](https://ja.wikipedia.org/wiki/関東地方 "wikilink")（[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")）と同じチャンネルであり、FTV（6チャンネル）は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")以前のキー局だった[TBSテレビ](../Page/TBSテレビ.md "wikilink")と同じ周波数であった。
 
 ## 脚注

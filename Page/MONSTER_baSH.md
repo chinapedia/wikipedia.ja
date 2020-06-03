@@ -203,7 +203,7 @@ MONSTER circus+</p></td>
 
 ## 交通アクセス
 
-  - 2015年の会場への交通アクセスは、JR高松駅（所要時間約60分）、琴平観光センター跡地（所要時間約25分）、ことでん岡田駅（所要時間約15分）から開催期間中に臨時の有料シャトルバスを運行している。また、自家用車の場合は、会場の[国営讃岐まんのう公園](https://ja.wikipedia.org/wiki/国営讃岐まんのう公園 "wikilink")には直接入れない（渋滞対策のため）ので周辺のニューレオマワールド臨時駐車場（会場までシャトルバス）又は[かりんの丘公園](https://ja.wikipedia.org/wiki/かりんの丘公園 "wikilink")東側広場臨時駐車場（会場まで徒歩約25分）を利用することになるが、いずれも有料で事前予約が必要\[22\]\[23\]。
+2015年の会場への交通アクセスは、JR高松駅（所要時間約60分）、琴平観光センター跡地（所要時間約25分）、ことでん岡田駅（所要時間約15分）から開催期間中に臨時の有料シャトルバスを運行している。また、自家用車の場合は、会場の[国営讃岐まんのう公園](https://ja.wikipedia.org/wiki/国営讃岐まんのう公園 "wikilink")には直接入れない（渋滞対策のため）ので周辺のニューレオマワールド臨時駐車場（会場までシャトルバス）又は[かりんの丘公園](https://ja.wikipedia.org/wiki/かりんの丘公園 "wikilink")東側広場臨時駐車場（会場まで徒歩約25分）を利用することになるが、いずれも有料で事前予約が必要\[22\]\[23\]。
 
 ## 出演者
 
@@ -1005,7 +1005,7 @@ MONSTER circus+</p></td>
 <li><a href="../Page/UNCHAIN.md" title="wikilink">UNCHAIN</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/石崎ひゅーい" title="wikilink">石崎ひゅーい</a></li>
 <li><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a> (ACOUSTIC SET)</li>
-<li><a href="https://ja.wikipedia.org/wiki/さかいゆう" title="wikilink">さかいゆう</a></li>
+<li><a href="../Page/さかいゆう.md" title="wikilink">さかいゆう</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/安藤裕子_(歌手)" title="wikilink">安藤裕子</a> (Acoustic)</li>
 <li><a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a> (ACOUSTIC SET)</li>
 </ul></td>

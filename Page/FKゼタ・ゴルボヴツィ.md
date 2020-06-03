@@ -130,7 +130,7 @@
 <td><p>2012-13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2012-13" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCピュニク・エレバン" title="wikilink">ピュニク・エレバン</a></p></td>
+<td><p><a href="../Page/FCピュニク・エレバン.md" title="wikilink">ピュニク・エレバン</a></p></td>
 <td><p>1–2</p></td>
 <td><p>3–0</p></td>
 <td><p>'''4-2</p></td>

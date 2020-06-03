@@ -77,7 +77,7 @@
 ### 漫画出演
 
   -
-    [2004年](../Page/2004年.md "wikilink")3月に出版された、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")・[かなつ久美](https://ja.wikipedia.org/wiki/かなつ久美 "wikilink")によるエッセイ漫画「[ビバ☆オヤジ酒場](http://shop.wani.co.jp/shop/goods/goods.asp?goods=4-8470-1531-2)」に、かなつがSalty-Sugarのファンである縁で、バンドメンバーがイラスト入りで登場。
+    [2004年](../Page/2004年.md "wikilink")3月に出版された、[漫画家](../Page/漫画家.md "wikilink")・[かなつ久美](https://ja.wikipedia.org/wiki/かなつ久美 "wikilink")によるエッセイ漫画「[ビバ☆オヤジ酒場](http://shop.wani.co.jp/shop/goods/goods.asp?goods=4-8470-1531-2)」に、かなつがSalty-Sugarのファンである縁で、バンドメンバーがイラスト入りで登場。
 
 ## 現在の活動について
 

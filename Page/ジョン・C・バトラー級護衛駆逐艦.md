@@ -101,7 +101,7 @@
       - DE-373～381は起工前に発注キャンセル
   - DE-402 リチャード・S・ブル （USS Richard S.Bull）
   - DE-403 リチャード・M・ローウェル （USS Richard M.Rowell）
-  - DE-404 [エヴァソール](https://ja.wikipedia.org/wiki/エヴァソール_\(護衛駆逐艦\) "wikilink") （USS Eversole）
+  - DE-404 [エヴァソール](../Page/エヴァソール_\(護衛駆逐艦\).md "wikilink") （USS Eversole）
   - DE-405 デニス （USS Dennis）
   - DE-406 エドモンズ （USS Edmonds）
   - DE-407 [シェルトン](../Page/シェルトン_\(護衛駆逐艦\).md "wikilink") （USS Shelton）

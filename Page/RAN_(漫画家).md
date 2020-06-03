@@ -1,7 +1,7 @@
 > この記事は[RAN \(漫画家\)](https://ja.wikipedia.org/wiki/RAN_\(漫画家\))から翻訳されています。
 
 
-**RAN**（らん、[1982年](../Page/1982年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[新潟県](../Page/新潟県.md "wikilink")出身\[2\]。[敬和学園高等学校](../Page/敬和学園高等学校.md "wikilink")出身\[3\]。[日本アニメ・マンガ専門学校](https://ja.wikipedia.org/wiki/日本アニメ・マンガ専門学校 "wikilink")卒業\[4\]。
+**RAN**（らん、[1982年](../Page/1982年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。[新潟県](../Page/新潟県.md "wikilink")出身\[2\]。[敬和学園高等学校](../Page/敬和学園高等学校.md "wikilink")出身\[3\]。[日本アニメ・マンガ専門学校](../Page/日本アニメ・マンガ専門学校.md "wikilink")卒業\[4\]。
 
 ## 作品
 

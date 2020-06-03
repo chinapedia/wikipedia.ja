@@ -1,7 +1,7 @@
 > この記事は[女帝 SUPER QUEEN](https://ja.wikipedia.org/wiki/女帝_SUPER_QUEEN)から翻訳されています。
 
 
-『**女帝 SUPER QUEEN**』（じょてい スーパークイーン）は、[倉科遼](../Page/倉科遼.md "wikilink")原作、[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[芳文社](../Page/芳文社.md "wikilink")発行の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")「[週刊漫画TIMES](../Page/週刊漫画TIMES.md "wikilink")」に連載された。単行本は全24巻。後に刊行された愛蔵版や廉価版では、副題をつけずにタイトルを『**女帝**』としている。
+『**女帝 SUPER QUEEN**』（じょてい スーパークイーン）は、[倉科遼](../Page/倉科遼.md "wikilink")原作、[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[芳文社](../Page/芳文社.md "wikilink")発行の[漫画雑誌](../Page/漫画雑誌.md "wikilink")「[週刊漫画TIMES](../Page/週刊漫画TIMES.md "wikilink")」に連載された。単行本は全24巻。後に刊行された愛蔵版や廉価版では、副題をつけずにタイトルを『**女帝**』としている。
 
 本稿では、これを原作とした[2000年](../Page/2000年.md "wikilink")公開の映画、ならびに[2007年](../Page/2007年.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")についても併せてここで扱う。
 
@@ -230,10 +230,10 @@
 
 #### 原作登場キャラクター
 
-  - 立花彩香 - [加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")
-  - 伊達直人 - [松田翔太](../Page/松田翔太.md "wikilink")
-  - 北條梨奈 - [酒井彩名](../Page/酒井彩名.md "wikilink")
-  - 杉野謙一 - [斉藤祥太](../Page/斉藤祥太.md "wikilink")
+  - **立花彩香 - [加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")**
+  - **伊達直人 - [松田翔太](../Page/松田翔太.md "wikilink")**
+  - **北條梨奈 - [酒井彩名](../Page/酒井彩名.md "wikilink")**
+  - **杉野謙一 - [斉藤祥太](../Page/斉藤祥太.md "wikilink")**
   - 杉野謙造 - [山下真司](../Page/山下真司.md "wikilink")
   - 北條照盛 - [森本レオ](../Page/森本レオ.md "wikilink")
   - 袴田吉蔵 - [長谷川初範](../Page/長谷川初範.md "wikilink")
@@ -302,7 +302,7 @@
 
   - 脚本 - [高山直也](../Page/高山直也.md "wikilink")、[旺季志ずか](../Page/旺季志ずか.md "wikilink")、[吉田玲子](../Page/吉田玲子.md "wikilink")
   - 音楽 - [仲西匡](../Page/仲西匡.md "wikilink")
-  - 演出 - [小松隆志](https://ja.wikipedia.org/wiki/小松隆志_\(映画監督\) "wikilink")、[片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")、[二宮浩行](https://ja.wikipedia.org/wiki/二宮浩行 "wikilink")、[田村直己](https://ja.wikipedia.org/wiki/田村直己 "wikilink")
+  - 演出 - [小松隆志](https://ja.wikipedia.org/wiki/小松隆志_\(映画監督\) "wikilink")、[片山修](../Page/片山修.md "wikilink")、[二宮浩行](https://ja.wikipedia.org/wiki/二宮浩行 "wikilink")、[田村直己](https://ja.wikipedia.org/wiki/田村直己 "wikilink")
   - 主題歌 - [ナナムジカ](../Page/ナナムジカ.md "wikilink")「[彼方](https://ja.wikipedia.org/wiki/彼方_\(曲\) "wikilink")」（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）
   - プロデューサー - [横地郁英](https://ja.wikipedia.org/wiki/横地郁英 "wikilink")、[奈良井正巳](https://ja.wikipedia.org/wiki/奈良井正巳 "wikilink")、[伊藤達哉](https://ja.wikipedia.org/wiki/伊藤達哉_\(プロデューサー\) "wikilink")
   - 協力プロデューサー - [遠田孝一](https://ja.wikipedia.org/wiki/遠田孝一 "wikilink")
@@ -489,7 +489,7 @@
   -
   - [女帝 SUPER QUEEN](http://eiga.com/movie/75879/) - [映画.com](https://ja.wikipedia.org/wiki/映画.com "wikilink")
 
-[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:週刊漫画TIMES](https://ja.wikipedia.org/wiki/Category:週刊漫画TIMES "wikilink") [Category:水商売を題材とした作品](https://ja.wikipedia.org/wiki/Category:水商売を題材とした作品 "wikilink") [Category:復讐を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:復讐を題材とした漫画作品 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:大阪府を舞台とした作品](https://ja.wikipedia.org/wiki/Category:大阪府を舞台とした作品 "wikilink") [Category:熊本県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:熊本県を舞台とした作品 "wikilink") [Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:倉科遼](https://ja.wikipedia.org/wiki/Category:倉科遼 "wikilink")
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:週刊漫画TIMES](https://ja.wikipedia.org/wiki/Category:週刊漫画TIMES "wikilink") [Category:水商売を題材とした作品](https://ja.wikipedia.org/wiki/Category:水商売を題材とした作品 "wikilink") [Category:復讐を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:復讐を題材とした漫画作品 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:大阪府を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:大阪府を舞台とした漫画作品 "wikilink") [Category:熊本県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:熊本県を舞台とした漫画作品 "wikilink") [Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:倉科遼](https://ja.wikipedia.org/wiki/Category:倉科遼 "wikilink")
 
 1.  eBookJapanにある紹介ページでの、読者に向けた倉科のコメントより。[1](http://www.ebookjapan.jp/ebj/title/339.html)
 2.  [コミック小学館ブックス 女帝 由奈](http://csbs.shogakukan.co.jp/book?book_group_id=4218)

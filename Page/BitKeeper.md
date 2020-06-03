@@ -5,7 +5,7 @@
 
 BitKeeper は TeamWare のコンセプトに基づいて構築された。最大の利点は、分散開発において、各開発者の手元のローカルなリポジトリと中心のリポジトリの整合を取りつつ開発が進められる点である。
 
-BitKeeper は元々[プロプライエタリ・ソフトウェア](../Page/プロプライエタリ・ソフトウェア.md "wikilink")であるが、開発開始から15年以上を経た[2016年](../Page/2016年.md "wikilink")5月リリースの7.2-ossをもって[オープンソース](../Page/オープンソース.md "wikilink")化された。以後は[Apache License 2.0で提供されている](https://ja.wikipedia.org/wiki/Apache_License "wikilink")。\[1\]
+BitKeeper は元々[プロプライエタリ・ソフトウェア](../Page/プロプライエタリ・ソフトウェア.md "wikilink")であるが、開発開始から15年以上を経た[2016年](../Page/2016年.md "wikilink")5月リリースの7.2-ossをもって[オープンソース](../Page/オープンソース.md "wikilink")化された。以後は[Apache License 2.0で提供されている](../Page/Apache_License.md "wikilink")。\[1\]
 
 ## OSSコミュニティとの対立
 

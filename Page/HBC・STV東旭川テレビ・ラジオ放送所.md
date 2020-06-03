@@ -124,7 +124,7 @@
 
 ## 放送エリア
 
-  - テレビ…[旭川市](../Page/旭川市.md "wikilink")（神居町の一部は[旭川台場中継局](../Page/旭川台場中継局.md "wikilink")と[深川中継局](https://ja.wikipedia.org/wiki/深川中継局 "wikilink")のエリア）・[上川郡](../Page/上川郡_\(石狩国\).md "wikilink")（[上川町](../Page/上川町.md "wikilink")を除く。[鷹栖町](../Page/鷹栖町.md "wikilink")の一部は旭川台場中継局もカバー）全域と[和寒町](../Page/和寒町.md "wikilink")・[上富良野町](../Page/上富良野町.md "wikilink")の一部地域。
+  - テレビ…[旭川市](../Page/旭川市.md "wikilink")（神居町の一部は[旭川台場中継局](../Page/旭川台場中継局.md "wikilink")と[深川中継局](../Page/深川中継局.md "wikilink")のエリア）・[上川郡](../Page/上川郡_\(石狩国\).md "wikilink")（[上川町](../Page/上川町.md "wikilink")を除く。[鷹栖町](../Page/鷹栖町.md "wikilink")の一部は旭川台場中継局もカバー）全域と[和寒町](../Page/和寒町.md "wikilink")・[上富良野町](../Page/上富良野町.md "wikilink")の一部地域。
   - ラジオ…旭川市・上川郡・[和寒町](../Page/和寒町.md "wikilink")・[上富良野町](../Page/上富良野町.md "wikilink")全域、[中富良野町](../Page/中富良野町.md "wikilink")・[富良野市](../Page/富良野市.md "wikilink")・[剣淵町](../Page/剣淵町.md "wikilink")・[士別市](../Page/士別市.md "wikilink")・[名寄市](../Page/名寄市.md "wikilink")・空知管内[深川市](../Page/深川市.md "wikilink")・[沼田町](../Page/沼田町.md "wikilink")・[秩父別町](../Page/秩父別町.md "wikilink")・[妹背牛町](../Page/妹背牛町.md "wikilink")・[幌加内町](../Page/幌加内町.md "wikilink")・[滝川市](../Page/滝川市.md "wikilink")・[歌志内市](../Page/歌志内市.md "wikilink")・[赤平市](../Page/赤平市.md "wikilink")・[芦別市](https://ja.wikipedia.org/wiki/芦別市 "wikilink")・オホーツク管内[北見市](https://ja.wikipedia.org/wiki/北見市 "wikilink")[留辺蘂地区の一部地域](../Page/留辺蘂町.md "wikilink")。\[1\]
 
 ## 脚注

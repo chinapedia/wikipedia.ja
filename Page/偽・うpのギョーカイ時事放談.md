@@ -168,7 +168,7 @@
   - \#76,77 [小林治](../Page/小林治_\(ライター\).md "wikilink")（フリーランスのアニメ系ライター・ラジオ番組構成作家）
   - \#78,79 [田口清隆](https://ja.wikipedia.org/wiki/田口清隆 "wikilink")（特撮監督）
   - \#82,83 [佐藤利奈](../Page/佐藤利奈.md "wikilink")（声優）
-  - \#88,89 ミサコ・ロックス（[NY在住](../Page/ニューヨーク.md "wikilink") [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
+  - \#88,89 ミサコ・ロックス（[NY在住](../Page/ニューヨーク.md "wikilink") [漫画家](../Page/漫画家.md "wikilink")）
   - \#90,91 大和田秀樹（漫画家）
   - \#92,93 [久松ゆのみ](https://ja.wikipedia.org/wiki/久松ゆのみ "wikilink")（漫画家、[リスナー](../Page/リスナー.md "wikilink") こみゅ）
   - \#95 中山信宏（ジェネオン・ユニバーサル・エンタテイメント制作本部第2制作部 プロデューサー）
@@ -178,7 +178,7 @@
   - \#100,101 100、101回スペシャル のら犬ファミリーの皆さん（里見哲朗、中山信宏、大和田秀樹、岩浪美和）
   - \#104 伊藤静
   - \#105 後藤麻衣
-  - \#106 [柴田一成](https://ja.wikipedia.org/wiki/柴田一成_\(映画監督\) "wikilink")（[リアル鬼ごっこ2](https://ja.wikipedia.org/wiki/リアル鬼ごっこ2 "wikilink") [映画監督](../Page/映画監督.md "wikilink")）
+  - \#106 [柴田一成](../Page/柴田一成_\(映画監督\).md "wikilink")（[リアル鬼ごっこ2](https://ja.wikipedia.org/wiki/リアル鬼ごっこ2 "wikilink") [映画監督](../Page/映画監督.md "wikilink")）
   - \#108 [杉作J太郎](../Page/杉作J太郎.md "wikilink")
   - \#110 ABI（BDA：ブルーレイディスク・アソシエーション）、里見哲朗　
   - \#111 なかやまのぶひろのギョーカイ時事放談（中山信宏、生天目仁美）
@@ -258,7 +258,7 @@
   - 2009年03月27日 金曜日　のら犬兄弟のギョーカイ時事放談 FESTIVAL（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面、大和田秀樹、[佐藤利奈](../Page/佐藤利奈.md "wikilink")、松倉友二、岩浪美和、市川量也、中山信宏）
   - 2009年07月05日 日曜日　のら犬兄弟ギョーカイ時事放談！ SFスペシャル in 塩原
   - 2009年08月15日 土曜日　のら犬兄弟ギョーカイ時事放談！ in 東京ビッグサイト・コミックマーケット76 西4F企業ブースNo.232「ロンドロー​ブ」ブース前（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面　会場で捕まえられてちょこっと出演者：[喜多村英梨](../Page/喜多村英梨.md "wikilink")、髙取昌史 補足：当イベント日のブースで、のら犬兄弟のTシャツが販売で完売）
-  - 2009年12月30日 水曜日　年末だよ！のら犬兄弟のギョーカイ時事放談スペシャル in [シアターTSUTAYA](https://ja.wikipedia.org/wiki/ユーロスペース "wikilink")[なう。](../Page/Twitter.md "wikilink")（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面、生天目仁美、岩浪美和、髙取昌史、渡辺隆、松倉友二、中山信宏、玉井☆豪）
+  - 2009年12月30日 水曜日　年末だよ！のら犬兄弟のギョーカイ時事放談スペシャル in [シアターTSUTAYA](../Page/ユーロスペース.md "wikilink")[なう。](../Page/Twitter.md "wikilink")（出演者：偽まる、ＵＰＬＩＦＴ、アニメ仮面、生天目仁美、岩浪美和、髙取昌史、渡辺隆、松倉友二、中山信宏、玉井☆豪）
   - 2010年10月10日 日曜日　[徳島](https://ja.wikipedia.org/wiki/徳島 "wikilink") [マチ★アソビ](https://ja.wikipedia.org/wiki/マチ★アソビ "wikilink")公開録音\[4\]
   - 2011年02月19日 土曜日　のら犬兄弟のギョーカイ時事放談　ロフト復活編
   - 2011年05月14日 土曜日　のら犬兄弟のギョーカイ時事放談　心機一転スペシャル
@@ -365,7 +365,7 @@
 <tr class="odd">
 <td><p>#384-385</p></td>
 <td><p>1月20日-27日</p></td>
-<td><p><a href="../Page/大和田秀樹.md" title="wikilink">大和田秀樹</a>（<a href="https://ja.wikipedia.org/wiki/漫画家" title="wikilink">漫画家</a>）</p></td>
+<td><p><a href="../Page/大和田秀樹.md" title="wikilink">大和田秀樹</a>（<a href="../Page/漫画家.md" title="wikilink">漫画家</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">

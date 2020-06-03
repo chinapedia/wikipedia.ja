@@ -11,6 +11,8 @@
 
 発売週の[オリコンシングルチャートでは](../Page/オリコンチャート.md "wikilink")、前作を上回る初登場3位を記録。この時は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の「[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")」と[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の「[First Love](../Page/First_Love_\(宇多田ヒカルの曲\).md "wikilink")」に阻まれたが、翌週に、その2作の週間売上を上回り（L'Arc〜en〜Cielは3週目）、[バンド初のオリコンチャート](../Page/バンド_\(音楽\).md "wikilink")1位を獲得する。同週には「Let yourself go, Let myself go」が7位（最高位は4位）、「I LOVE HIP HOP」は4位にチャートインしていた。最終的には90万枚を売り上げ、[2016年](../Page/2016年.md "wikilink")現在同バンド最大のヒット曲となっている。また、ヒップホップの作品、ミクスチャー・バンドのシングルとしては共に初のオリコン1位獲得作品となった。
 
+Dragon Ash側から仲間などに感謝する曲を作りたいと提示があり制作された。参加したZeebraが制作当時、結婚前の現在の妻である[中林美和](https://ja.wikipedia.org/wiki/中林美和 "wikilink")の[成人式](../Page/成人式.md "wikilink")で車で会場に送迎した時に地元の昔の友達と再会して楽しんでいるのを見たのに感化され、リリックを書いていったという。[ラップや](https://ja.wikipedia.org/wiki/ラップ_\(音楽\) "wikilink")[DJをしていなくてもヒップホップが好きな人も共感できる様な内容を心掛けたという](../Page/ディスクジョッキー.md "wikilink")。\[1\]
+
 トラックは、[1993年](../Page/1993年.md "wikilink")に発売された[スマッシング・パンプキンズ](../Page/スマッシング・パンプキンズ.md "wikilink")の「[Today](https://ja.wikipedia.org/wiki/サイアミーズ・ドリーム "wikilink")」のギターフレーズをサンプリングしている。
 
 現在でこそミクスチャー・バンドとして活動しているが、当時はヒップホップをメインジャンルとして専攻していたため、本作及び[2003年](../Page/2003年.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")『[HARVEST](../Page/HARVEST_\(Dragon_Ashのアルバム\).md "wikilink")』発売以前の作品は、ヒップホップの楽曲として取り上げられることが主である。
@@ -46,4 +48,6 @@
 
 ## 脚注
 
-[Category:Dragon_Ashの楽曲](https://ja.wikipedia.org/wiki/Category:Dragon_Ashの楽曲 "wikilink") [Category:降谷建志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:降谷建志が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+[Category:Dragon_Ashの楽曲](https://ja.wikipedia.org/wiki/Category:Dragon_Ashの楽曲 "wikilink") [Category:降谷建志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:降谷建志が制作した楽曲 "wikilink") [Category:Zeebraが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Zeebraが制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
+
+1.

@@ -933,7 +933,7 @@
 <td><p>6月18日</p></td>
 <td><p><strong>極・マシンバイブ拷問! 贄一 学園スペシャル</strong></p></td>
 <td><p>SVDVD-113</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サディスティックヴィレッジ" title="wikilink">サディスティックヴィレッジ</a></p></td>
+<td><p><a href="../Page/サディスティックヴィレッジ.md" title="wikilink">サディスティックヴィレッジ</a></p></td>
 <td><p>共演：<a href="https://ja.wikipedia.org/wiki/天川るる" title="wikilink">天川るる</a>、小宮ゆい</p></td>
 <td></td>
 </tr>
@@ -6864,6 +6864,14 @@ Blu-ray版のみ発売</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>5月13日</p></td>
+<td><p><strong>禁欲32年の聖女は強姦魔に犯されて性の目覚めを知った…</strong></p></td>
+<td><p>MIDE-776</p></td>
+<td><p>MOODYZ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -7305,7 +7313,7 @@ Blu-ray版のみ発売</p></td>
 
 ### トレーディングカード
 
-  - ジューシーハニー・コレクションカード VOL.14（2010年9月25日、株式会社ミント）他出演：[希志あいの](https://ja.wikipedia.org/wiki/希志あいの "wikilink")、[明日花キララ](https://ja.wikipedia.org/wiki/明日花キララ "wikilink")
+  - ジューシーハニー・コレクションカード VOL.14（2010年9月25日、株式会社ミント）他出演：[希志あいの](../Page/希志あいの.md "wikilink")、[明日花キララ](../Page/明日花キララ.md "wikilink")
   - ジューシーハニー・コレクションカード VOL.24（2013年11月21日、株式会社ミント）他出演：[さとう遥希](https://ja.wikipedia.org/wiki/さとう遥希 "wikilink")、[上原亜衣](https://ja.wikipedia.org/wiki/上原亜衣 "wikilink")
   - ジューシーハニー 10thアニバーサリー（2015年10月3日、株式会社ミント）他出演：明日花キララ、希崎ジェシカ、希志あいの、[小島みなみ](https://ja.wikipedia.org/wiki/小島みなみ "wikilink")、[紗倉まな](https://ja.wikipedia.org/wiki/紗倉まな "wikilink")、[波多野結衣](https://ja.wikipedia.org/wiki/波多野結衣 "wikilink")、JUICY STARS（[葵つかさ](https://ja.wikipedia.org/wiki/葵つかさ "wikilink")、[麻美ゆま](../Page/麻美ゆま.md "wikilink")、[天海つばさ](https://ja.wikipedia.org/wiki/天海つばさ "wikilink")、[成瀬心美](https://ja.wikipedia.org/wiki/成瀬心美 "wikilink")、[範田紗々](../Page/範田紗々.md "wikilink")）
   - CJ SEXY CARD SERIES VOL.30 つぼみ OFFICIAL CARD COLLECTION ～蕾のままで…いい？～（2017年8月26日、ジュートク）
@@ -7396,6 +7404,8 @@ Blu-ray版のみ発売</p></td>
 
   -
   - （2016年9月7日 - ）
+
+  - [つぼみの何かする放送YouTube部屋 やらされてませ〜ん](https://www.youtube.com/channel/UCbQWDSh6Pi8VArswAaV9mJg) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
 
   -
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:S1女優](https://ja.wikipedia.org/wiki/Category:S1女優 "wikilink") [Category:笠倉出版社女優](https://ja.wikipedia.org/wiki/Category:笠倉出版社女優 "wikilink") [Category:オーロラ・プロジェクト女優](https://ja.wikipedia.org/wiki/Category:オーロラ・プロジェクト女優 "wikilink") [Category:プレステージ女優](https://ja.wikipedia.org/wiki/Category:プレステージ女優 "wikilink") [Category:ドリームチケット女優](https://ja.wikipedia.org/wiki/Category:ドリームチケット女優 "wikilink") [Category:SOD女優](https://ja.wikipedia.org/wiki/Category:SOD女優 "wikilink") [Category:みるきぃぷりん♪女優](https://ja.wikipedia.org/wiki/Category:みるきぃぷりん♪女優 "wikilink") [Category:h.m.p女優](https://ja.wikipedia.org/wiki/Category:h.m.p女優 "wikilink") [Category:アタッカーズ女優](https://ja.wikipedia.org/wiki/Category:アタッカーズ女優 "wikilink") [Category:ヒビノ女優](https://ja.wikipedia.org/wiki/Category:ヒビノ女優 "wikilink") [Category:レアル・ワークス女優](https://ja.wikipedia.org/wiki/Category:レアル・ワークス女優 "wikilink") [Category:Kawaii\*女優](https://ja.wikipedia.org/wiki/Category:Kawaii*女優 "wikilink") [Category:グローリークエスト女優](https://ja.wikipedia.org/wiki/Category:グローリークエスト女優 "wikilink") [Category:TMA女優](https://ja.wikipedia.org/wiki/Category:TMA女優 "wikilink") [Category:アイビーワークス女優](https://ja.wikipedia.org/wiki/Category:アイビーワークス女優 "wikilink") [Category:隼エージェンシー女優](https://ja.wikipedia.org/wiki/Category:隼エージェンシー女優 "wikilink") [Category:BRAVO女優](https://ja.wikipedia.org/wiki/Category:BRAVO女優 "wikilink") [Category:ドグマ女優](https://ja.wikipedia.org/wiki/Category:ドグマ女優 "wikilink") [Category:ワープエンタテインメント女優](https://ja.wikipedia.org/wiki/Category:ワープエンタテインメント女優 "wikilink") [Category:アイエナジー女優](https://ja.wikipedia.org/wiki/Category:アイエナジー女優 "wikilink") [Category:イフリート女優](https://ja.wikipedia.org/wiki/Category:イフリート女優 "wikilink") [Category:ミスター・インパクト女優](https://ja.wikipedia.org/wiki/Category:ミスター・インパクト女優 "wikilink") [Category:ビッグモーカル女優](https://ja.wikipedia.org/wiki/Category:ビッグモーカル女優 "wikilink") [Category:アウダースジャパン女優](https://ja.wikipedia.org/wiki/Category:アウダースジャパン女優 "wikilink") [Category:中嶋興業女優](https://ja.wikipedia.org/wiki/Category:中嶋興業女優 "wikilink") [Category:MOODYZ女優](https://ja.wikipedia.org/wiki/Category:MOODYZ女優 "wikilink") [Category:カルマ女優](https://ja.wikipedia.org/wiki/Category:カルマ女優 "wikilink") [Category:エムズ・ビデオ・グループ女優](https://ja.wikipedia.org/wiki/Category:エムズ・ビデオ・グループ女優 "wikilink") [Category:ディープス女優](https://ja.wikipedia.org/wiki/Category:ディープス女優 "wikilink") [Category:宇宙企画女優](https://ja.wikipedia.org/wiki/Category:宇宙企画女優 "wikilink") [Category:ナチュラルハイ女優](https://ja.wikipedia.org/wiki/Category:ナチュラルハイ女優 "wikilink") [Category:ROOKIE女優](https://ja.wikipedia.org/wiki/Category:ROOKIE女優 "wikilink") [Category:ROCKET女優](https://ja.wikipedia.org/wiki/Category:ROCKET女優 "wikilink") [Category:アキノリ女優](https://ja.wikipedia.org/wiki/Category:アキノリ女優 "wikilink") [Category:ハマジム女優](https://ja.wikipedia.org/wiki/Category:ハマジム女優 "wikilink") [Category:タカラ映像女優](https://ja.wikipedia.org/wiki/Category:タカラ映像女優 "wikilink") [Category:ゴーゴーズ女優](https://ja.wikipedia.org/wiki/Category:ゴーゴーズ女優 "wikilink") [Category:アロマ企画女優](https://ja.wikipedia.org/wiki/Category:アロマ企画女優 "wikilink") [Category:フリーダム女優](https://ja.wikipedia.org/wiki/Category:フリーダム女優 "wikilink") [Category:ピーターズ女優](https://ja.wikipedia.org/wiki/Category:ピーターズ女優 "wikilink") [Category:アイデアポケット女優](https://ja.wikipedia.org/wiki/Category:アイデアポケット女優 "wikilink") [Category:妄想族女優](https://ja.wikipedia.org/wiki/Category:妄想族女優 "wikilink") [Category:FAプロ女優](https://ja.wikipedia.org/wiki/Category:FAプロ女優 "wikilink") [Category:イエロー女優](https://ja.wikipedia.org/wiki/Category:イエロー女優 "wikilink") [Category:BeFree女優](https://ja.wikipedia.org/wiki/Category:BeFree女優 "wikilink") [Category:マドンナ女優](https://ja.wikipedia.org/wiki/Category:マドンナ女優 "wikilink") [Category:U\&K女優](https://ja.wikipedia.org/wiki/Category:U&K女優 "wikilink") [Category:スターパラダイス女優](https://ja.wikipedia.org/wiki/Category:スターパラダイス女優 "wikilink") [Category:マキシング女優](https://ja.wikipedia.org/wiki/Category:マキシング女優 "wikilink") [Category:映天女優](https://ja.wikipedia.org/wiki/Category:映天女優 "wikilink") [Category:ATOM女優](https://ja.wikipedia.org/wiki/Category:ATOM女優 "wikilink") [Category:GIGA女優](https://ja.wikipedia.org/wiki/Category:GIGA女優 "wikilink") [Category:ながえスタイル女優](https://ja.wikipedia.org/wiki/Category:ながえスタイル女優 "wikilink") [Category:なでしこ女優](https://ja.wikipedia.org/wiki/Category:なでしこ女優 "wikilink") [Category:グレイズ女優](https://ja.wikipedia.org/wiki/Category:グレイズ女優 "wikilink") [Category:ケイ・エム・プロデュース女優](https://ja.wikipedia.org/wiki/Category:ケイ・エム・プロデュース女優 "wikilink") [Category:サディスティックヴィレッジ女優](https://ja.wikipedia.org/wiki/Category:サディスティックヴィレッジ女優 "wikilink") [Category:同人作家](https://ja.wikipedia.org/wiki/Category:同人作家 "wikilink") [Category:山口県出身の人物](https://ja.wikipedia.org/wiki/Category:山口県出身の人物 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

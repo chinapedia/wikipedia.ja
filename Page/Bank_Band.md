@@ -35,7 +35,7 @@
       - [小林武史](../Page/小林武史.md "wikilink")
   - [Drums](../Page/ドラムセット.md "wikilink")
       - [山木秀夫](../Page/山木秀夫.md "wikilink") (沿志奏逢1 - 3 / BGM Vol.1, 2 / ap bank fes '05, '06, '08)
-      - [河村 "カースケ" 智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink") ( 沿志奏逢2, 3/ ap bank fes '07, '09 - '18)
+      - [河村 "カースケ" 智康](../Page/河村智康.md "wikilink") ( 沿志奏逢2, 3/ ap bank fes '07, '09 - '18)
       - [神宮司治](../Page/神宮司治.md "wikilink")（ap bank fes '18）
   - [Bass](../Page/ベース_\(弦楽器\).md "wikilink")
       - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink") (沿志奏逢1, 2 / BGM Vol.1, 2)
@@ -894,10 +894,13 @@ iTunes Store・moraなどで配信。</p></td>
 <td><p>9th</p></td>
 <td><p>2013年5月15日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;12_Fund_for_Japan" title="wikilink">ap bank fes '12 Fund for Japan</a></strong></p></td>
-<td><p>3Blu-ray<br />
-3DVD</p></td>
-<td><p>TFXQ-78110<br />
-TFBQ-18134 &lt;!--|</p>
+<td><p>3Blu-ray</p></td>
+<td><p>TFXQ-78110</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3DVD</p></td>
+<td><p>TFBQ-18134 &lt;!--|</p>
 <div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
 <p>詳細</p>
@@ -963,8 +966,11 @@ TFBQ-18134 &lt;!--|</p>
 </div>
 </div></td>
 <td><p>2011年に引き続き東日本の復興支援を掲げ、「Fund for Japan」としてつま恋と阪神淡路大震災の被災地・淡路、そして東日本大震災の被災地・宮城の3カ所で開催された「<a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;12" title="wikilink">ap bank fes '12</a>」でのライブ映像やドキュメンタリー映像を収録。--&gt;</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

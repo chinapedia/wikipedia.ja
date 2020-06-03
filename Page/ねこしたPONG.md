@@ -1,7 +1,7 @@
 > この記事は[ねこしたPONG](https://ja.wikipedia.org/wiki/ねこしたPONG)から翻訳されています。
 
 
-**ねこしたPONG**（ねこした ぽん）は[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")を執筆する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")であり、代表作は『[魔法少女メルル](../Page/魔法少女メルル.md "wikilink")』である。別に、[犬上利一](https://ja.wikipedia.org/wiki/犬上利一 "wikilink")（いぬがみ りいち）の名義を持つ。[滋賀県](../Page/滋賀県.md "wikilink")出身、[東京都](../Page/東京都.md "wikilink")在住。男性。
+**ねこしたPONG**（ねこした ぽん）は[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")を執筆する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")であり、代表作は『[魔法少女メルル](../Page/魔法少女メルル.md "wikilink")』である。別に、[犬上利一](https://ja.wikipedia.org/wiki/犬上利一 "wikilink")（いぬがみ りいち）の名義を持つ。[滋賀県](../Page/滋賀県.md "wikilink")出身、[東京都](../Page/東京都.md "wikilink")在住。男性。
 
 ## 概要
 
@@ -32,7 +32,7 @@
 
 ### 犬上利一名義の作品
 
-  - S\&Mスナイパー掲載　[ミリオン出版](https://ja.wikipedia.org/wiki/ミリオン出版 "wikilink")
+  - S\&Mスナイパー掲載　[ミリオン出版](../Page/ミリオン出版.md "wikilink")
       - 1987年9月号 フォークロア・イラストレイテッド おやゆびひめ（[親指姫](../Page/親指姫.md "wikilink")）
       - 1987年10月号 よい子の昔話シリーズ(よい子の日本昔話シリーズ 1) [赤い靴](../Page/赤い靴.md "wikilink")
       - 1987年11月号 よい子の日本昔話シリーズ 2 [かぐや姫](../Page/竹取物語.md "wikilink")/早乙女抄

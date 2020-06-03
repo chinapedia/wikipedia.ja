@@ -10,7 +10,7 @@
 ## 概要
 
   - 名前の由来は伝説のバンド[The Beatlesの音楽出版社](../Page/ビートルズ.md "wikilink")[Northern Songsからインスパイアされたもので](https://ja.wikipedia.org/wiki/:en:Northern_Songs "wikilink")、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")が、「The Beatlesのように長く良質な作品を残せるように」という願いを込めたものである。この後、長戸はビーイング代表の役職を退任した。（プロデューサーとしては継続）
-  - また、倉木麻衣のNORTHERN MUSIC移籍後初のシングル「[Silent love〜open my heart〜/BE WITH U](https://ja.wikipedia.org/wiki/Silent_love〜open_my_heart〜/BE_WITH_U "wikilink")」では、「Silent love〜open my heart〜」の作曲を外部に委託。アルバム「[ONE LIFE](https://ja.wikipedia.org/wiki/ONE_LIFE_\(倉木麻衣のアルバム\) "wikilink")」では、外部の作曲家や編曲家を起用。2008年の春より、活動を開始した、[梓が](https://ja.wikipedia.org/wiki/azusa_\(シンガーソングライター\) "wikilink")、ソロライブ時にビーイング外部のアーティストと対バンを行ったり、奄美FMのMCをつとめる等など、これまでのビーイングとは違い、外部との接触を積極的に行ってきた点も特徴として挙げられる。
+  - また、倉木麻衣のNORTHERN MUSIC移籍後初のシングル「[Silent love〜open my heart〜/BE WITH U](https://ja.wikipedia.org/wiki/Silent_love〜open_my_heart〜/BE_WITH_U "wikilink")」では、「Silent love〜open my heart〜」の作曲を外部に委託。アルバム「[ONE LIFE](../Page/ONE_LIFE_\(倉木麻衣のアルバム\).md "wikilink")」では、外部の作曲家や編曲家を起用。2008年の春より、活動を開始した、[梓が](https://ja.wikipedia.org/wiki/azusa_\(シンガーソングライター\) "wikilink")、ソロライブ時にビーイング外部のアーティストと対バンを行ったり、奄美FMのMCをつとめる等など、これまでのビーイングとは違い、外部との接触を積極的に行ってきた点も特徴として挙げられる。
   - [White Dreamや](../Page/White_Dream.md "wikilink")[LOOP](../Page/LOOP.md "wikilink")所属アーティストをバックアップしているレーベルでもある。
 
 ## 所属アーティスト
@@ -62,7 +62,7 @@ VNCM-6003</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/アルバム.md" title="wikilink">アルバム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ONE_LIFE_(倉木麻衣のアルバム)" title="wikilink">ONE LIFE</a></p></td>
+<td><p><a href="../Page/ONE_LIFE_(倉木麻衣のアルバム).md" title="wikilink">ONE LIFE</a></p></td>
 <td><p>2008年1月1日</p></td>
 <td><p>VNCM-9002</p></td>
 <td></td>

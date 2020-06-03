@@ -74,7 +74,7 @@
 
 ## 外部リンク
 
-  - [フジテレビホームページ](http://www.fujitv.co.jp/)→スポーツ→野球→L\!VE MAJOR LEAGUE BASEBALL
+  - [フジテレビホームページ](https://www.fujitv.co.jp/index.html)→スポーツ→野球→L\!VE MAJOR LEAGUE BASEBALL
 
 [Category:MLB関連のメディア](https://ja.wikipedia.org/wiki/Category:MLB関連のメディア "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink")
 

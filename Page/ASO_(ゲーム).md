@@ -1,7 +1,7 @@
 > この記事は[ASO \(ゲーム\)](https://ja.wikipedia.org/wiki/ASO_\(ゲーム\))から翻訳されています。
 
 
-『**ASO**(**Armored Scrum Object**)』（エー・エス・オー - アーマード・スクラム・オブジェクト）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に日本の[SNKから稼働された](../Page/SNK_\(1978年設立の企業\).md "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[縦スクロールシューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外では『*Alpha Mission*』のタイトルで稼働されていた。
+『**ASO**(**Armored Scrum Object**)』（エー・エス・オー - アーマード・スクラム・オブジェクト）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に日本の[SNKから稼働された](../Page/SNK_\(1978年設立の企業\).md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用のオリジナルメカ[縦スクロールシューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外では『*Alpha Mission*』のタイトルで稼働されていた。
 
 対地、対空を撃ち分ける『[ゼビウス](../Page/ゼビウス.md "wikilink")』（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")）タイプの縦スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")である。全12エリア構成で、実質、6エリア2周に近い。ゲームの目的は自機の戦闘艇「シド」を操作し、自己思考、自己修復、自己補給能力を持つ生化学部品によって造られた兵器「メカノクレート」を倒して人類を救出する事となっている。
 

@@ -48,7 +48,6 @@
   - [山田紗椰](https://ja.wikipedia.org/wiki/山田紗椰 "wikilink")
   - [岩垂桃香](https://ja.wikipedia.org/wiki/岩垂桃香 "wikilink")
   - [宮本莉子](https://ja.wikipedia.org/wiki/宮本莉子 "wikilink")
-  - [荒井大介](https://ja.wikipedia.org/wiki/荒井大介 "wikilink")
   - [喜多よしか](https://ja.wikipedia.org/wiki/喜多よしか "wikilink")（北海道オフィス）
 
 ### 営業2部
@@ -123,10 +122,10 @@
   - 奏木純\[18\]（⇒[金子織江](https://ja.wikipedia.org/wiki/金子織江 "wikilink")）
   - [庄田侑右](https://ja.wikipedia.org/wiki/庄田侑右 "wikilink")\[19\]
   - [浅香航大](../Page/浅香航大.md "wikilink")\[20\]
-  - 山屋茉似\[21\]（⇒[愛乃まーに](https://ja.wikipedia.org/wiki/愛乃まーに "wikilink")）
+  - 山屋茉似\[21\]（⇒[愛乃まーに](../Page/愛乃まーに.md "wikilink")）
   - [原田麻美](https://ja.wikipedia.org/wiki/原田麻美 "wikilink")\[22\]
   - [小澤亮太](https://ja.wikipedia.org/wiki/小澤亮太 "wikilink")\[23\]
-  - [八木秋香](https://ja.wikipedia.org/wiki/八木秋香 "wikilink")\[24\]
+  - [八木秋香](../Page/八木秋香.md "wikilink")\[24\]
   - 大瀬良あゆみ\[25\]（⇒[大世良歩実](../Page/大世良歩実.md "wikilink")）
   - [佐久間亜依](../Page/佐久間亜依.md "wikilink")\[26\]
   - [牧野志帆](https://ja.wikipedia.org/wiki/牧野志帆 "wikilink")\[27\]
@@ -138,7 +137,7 @@
   - [川端かなこ](https://ja.wikipedia.org/wiki/川端かなこ "wikilink")\[28\]
   - 佐藤萌実\[29\]（⇒[三喜本恵美](../Page/三喜本恵美.md "wikilink")）
   - [那月結衣](https://ja.wikipedia.org/wiki/那月結衣 "wikilink")\[30\]
-  - [小川大悟](https://ja.wikipedia.org/wiki/小川大悟 "wikilink")\[31\]
+  - [小川大悟](../Page/小川大悟.md "wikilink")\[31\]
   - 馬場裕貴
   - 和田聖也
   - [菊池真弓](../Page/菊池真弓_\(タレント\).md "wikilink")\[32\]

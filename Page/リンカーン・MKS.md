@@ -15,14 +15,14 @@
 
 最上級セダンらしく、[AFSつき](../Page/アダプティブ・フロントライティング・システム.md "wikilink")[ディスチャージヘッドランプ](../Page/ディスチャージヘッドランプ.md "wikilink")、リアビューカメラ、フルオート[エアコン](https://ja.wikipedia.org/wiki/エアコン "wikilink")、[イモビライザー](../Page/イモビライザー.md "wikilink")付きキーレスエントリー、レザーシート（シートヒーター付き・前席はシートクーラー＆ヒーター）など盛りだくさんの快適装備が設定される。
 
-[2016年](../Page/2016年.md "wikilink")をもって生産終了となった。後継車種は[コンチネンタル](https://ja.wikipedia.org/wiki/リンカーン・コンチネンタル "wikilink")。
+[2016年](../Page/2016年.md "wikilink")をもって生産終了となった。後継車種は[コンチネンタル](../Page/リンカーン・コンチネンタル.md "wikilink")。
 
 {{-}}
 
 ## 関連項目
 
   - [リンカーン・LS](../Page/リンカーン・LS.md "wikilink")
-  - [リンカーン・コンチネンタル](https://ja.wikipedia.org/wiki/リンカーン・コンチネンタル "wikilink")
+  - [リンカーン・コンチネンタル](../Page/リンカーン・コンチネンタル.md "wikilink")
   - [リンカーン・タウンカー](../Page/リンカーン・タウンカー.md "wikilink")
 
 [Category:リンカーンの車種](https://ja.wikipedia.org/wiki/Category:リンカーンの車種 "wikilink")

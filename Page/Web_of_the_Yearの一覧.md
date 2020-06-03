@@ -56,7 +56,7 @@
 
 **特別賞**
 
-  - 新人賞 - [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")
+  - 新人賞 - [ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")
   - 話題賞 - [首相官邸](https://ja.wikipedia.org/wiki/首相官邸 "wikilink")
 
 **カテゴリ賞**

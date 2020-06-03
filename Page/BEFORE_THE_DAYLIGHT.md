@@ -7,7 +7,7 @@
 
 『[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")』優秀アルバム賞受賞\[1\]。オリコン・アルバム・ランキングにて、同時期に発売された角松プロデュースによる[中山美穂](../Page/中山美穂.md "wikilink")のアルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』が1位、本作が2位と、1・2フィニッシュを記録した。
 
-「I CAN GIVE YOU MY LOVE」と「CAN'T YOU SEE」は、後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「CAN'T YOU SEE」と「LADY IN THE NIGHT」、「I'D LIKE TO BE YOUR FANTASY」は[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]にリテイク・ヴァージョンで収録された。
+「I CAN GIVE YOU MY LOVE」と「CAN'T YOU SEE」は、後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「CAN'T YOU SEE」と「LADY IN THE NIGHT」、「I'D LIKE TO BE YOUR FANTASY」は[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]に、「I CAN GIVE YOU MY LOVE」と「Lost My Heart In The Dark」が『[EARPLAY 〜REBIRTH 2〜](https://ja.wikipedia.org/wiki/EARPLAY_〜REBIRTH_2〜 "wikilink")』\[4\]に、それぞれリテイク・ヴァージョンで収録された。
 
 ## 収録曲
 
@@ -147,3 +147,4 @@
 1.  中山美穂は｢[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")｣で金賞受賞。
 2.  『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』 発売 OM ⁄ [BMG FUNHOUSE](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMG_JAPAN（BMGファンハウス） "wikilink") 2CD:BVCR-18018/9
 3.  『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』 発売 IDEAK ⁄ [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") CD+DVD:BVCR-18054/5【初回限定盤】, CD:BVCR-11076【通常盤】
+4.  『[EARPLAY 〜REBIRTH 2〜](https://ja.wikipedia.org/wiki/EARPLAY_〜REBIRTH_2〜 "wikilink")』 [2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") BVCL-1063/4【初回限定生産盤】 / BVCL-1065【通常盤】

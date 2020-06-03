@@ -1,7 +1,7 @@
 > この記事は[アイドルマスター Radio For You!](https://ja.wikipedia.org/wiki/アイドルマスター_Radio_For_You!)から翻訳されています。
 
 
-『**アイドルマスター Radio For You\!**』（アイドルマスター ラジオ フォー ユー）は、ゲーム『[THE IDOLM@STER LIVE FOR YOU\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。先に終了した『[ラジオdeアイマSHOW\!](../Page/ラジオdeアイマSHOW!.md "wikilink")』の後番組として、2007年11月28日より、毎週水曜日に[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。略称は**R4U**。後番組として、『[P.S.プロデューサー](https://ja.wikipedia.org/wiki/アイドルマスター_P.S.プロデューサー "wikilink")』が配信されている。
+『**アイドルマスター Radio For You\!**』（アイドルマスター ラジオ フォー ユー）は、ゲーム『[THE IDOLM@STER LIVE FOR YOU\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。先に終了した『[ラジオdeアイマSHOW\!](../Page/ラジオdeアイマSHOW!.md "wikilink")』の後番組として、2007年11月28日より、毎週水曜日に[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。略称は**R4U**。後番組として、『[P.S.プロデューサー](https://ja.wikipedia.org/wiki/アイドルマスター_P.S.プロデューサー "wikilink")』が配信されている。
 
 ## 概要
 

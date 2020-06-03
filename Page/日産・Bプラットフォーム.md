@@ -9,7 +9,7 @@
 
 ## 採用車種
 
-  - [マーチ（K12）](../Page/日産・マーチ.md "wikilink") /[マイクラC+C](https://ja.wikipedia.org/wiki/日産・マイクラC+C "wikilink")
+  - [マーチ（K12）](../Page/日産・マーチ.md "wikilink") /[マイクラC+C](../Page/日産・マイクラC+C.md "wikilink")
       - [光岡・ビュート](https://ja.wikipedia.org/wiki/光岡・ビュート "wikilink")（K12）
   - [キューブ（Z11/Z12）](../Page/日産・キューブ.md "wikilink")
   - [キューブキュービック（BZ11）](../Page/日産・キューブキュービック.md "wikilink")

@@ -53,6 +53,6 @@
   -
   - [オーストリア・サッカーの専門サイト](http://www.austria-soccer.jp/)（日本語）（クラブの詳細情報や画像あり）
 
-[Category:現在活動していないオーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオーストリアのサッカークラブ "wikilink") [Category:ウィーンのスポーツチーム](https://ja.wikipedia.org/wiki/Category:ウィーンのスポーツチーム "wikilink") [Category:レオポルトシュタット](https://ja.wikipedia.org/wiki/Category:レオポルトシュタット "wikilink")
+[Category:現在活動していないオーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:現在活動していないオーストリアのサッカークラブ "wikilink") [Category:ウィーンのスポーツチーム](https://ja.wikipedia.org/wiki/Category:ウィーンのスポーツチーム "wikilink") [Category:レオポルトシュタット](https://ja.wikipedia.org/wiki/Category:レオポルトシュタット "wikilink") [Category:1909年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1909年設立のスポーツチーム "wikilink") [Category:1938年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1938年廃止のスポーツチーム "wikilink") [Category:1945年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1945年設立のスポーツチーム "wikilink") [Category:1949年廃止のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1949年廃止のスポーツチーム "wikilink")
 
 1.

@@ -29,7 +29,7 @@ NOëLシリーズで同様のコンセプトのアルバムとして、門倉千
 5.  **ありがとう（New Version）**
       -
         歌：佐野倉恵壬（岩男潤子）
-        作詞：[柚木美祐](https://ja.wikipedia.org/wiki/柚木美祐 "wikilink")、作曲：[手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")、編曲：小川尚子
+        作詞：[柚木美祐](https://ja.wikipedia.org/wiki/柚木美祐 "wikilink")、作曲：[手塚理](../Page/手塚理.md "wikilink")、編曲：小川尚子
 6.  emi's theme
       -
         作曲：手塚理、編曲：小川尚子

@@ -27,7 +27,7 @@
 
 **1試合最多失点敗戦試合（カップ）**
 
-  - 0-13 vs[ピーターバラ・ユナイテッドFC](https://ja.wikipedia.org/wiki/ピーターバラ・ユナイテッドFC "wikilink") FAカップ 1895.12.10
+  - 0-13 vs[ピーターバラ・ユナイテッドFC](../Page/ピーターバラ・ユナイテッドFC.md "wikilink") FAカップ 1895.12.10
 
 ## タイトル
 
@@ -135,7 +135,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011–12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カンファレンス・ナショナル" title="wikilink">カンファレンス</a></p></td>
+<td><p><a href="../Page/ナショナルリーグ_(イングランドのサッカー).md" title="wikilink">カンファレンス</a></p></td>
 <td><p>46</p></td>
 <td><p>13</p></td>
 <td><p>10</p></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015–16</p></td>
-<td><p>カンファレンス・ナショナル</p></td>
+<td><p>ナショナルリーグ</p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>13</p></td>
@@ -175,7 +175,7 @@
 </tr>
 <tr class="even">
 <td><p>2016–17</p></td>
-<td><p>カンファレンス・ナショナル</p></td>
+<td><p>ナショナルリーグ</p></td>
 <td><p>46</p></td>
 <td><p>30</p></td>
 <td><p>9</p></td>

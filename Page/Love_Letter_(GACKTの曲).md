@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 2006年の第2弾シングル。前作「[REDEMPTION](https://ja.wikipedia.org/wiki/REDEMPTION "wikilink")」から、わずか2か月後のリリースとなった。
+  - 2006年の第2弾シングル。前作「[REDEMPTION](../Page/REDEMPTION.md "wikilink")」から、わずか2か月後のリリースとなった。
   - リカットシングルを発売するのは、15thシングル「[Lu:na/OASIS](https://ja.wikipedia.org/wiki/Lu:na/OASIS "wikilink")」以来10作品、約2年半ぶりとなる。
   - 本作より、Gacktは自身の歌唱法を変えている。曰く「今までは声楽の要領で、曲によって歌い方を変えていたが、それだと誰が歌っているのか分からなくなってしまうので統一した」とのこと。
 
@@ -28,7 +28,7 @@
 
   - [Crescent](../Page/Crescent_\(GACKTのアルバム\).md "wikilink") (\#2、原曲)
   - [Love Letter](../Page/Love_Letter_\(GACKTのアルバム\).md "wikilink") (\#1、原曲)
-  - [0079-0088](https://ja.wikipedia.org/wiki/0079-0088 "wikilink") (\#1)
+  - [0079-0088](../Page/0079-0088.md "wikilink") (\#1)
   - [THE ELEVENTH DAY 〜SINGLE COLLECTION〜](https://ja.wikipedia.org/wiki/THE_ELEVENTH_DAY_〜SINGLE_COLLECTION〜 "wikilink") (\#1)
 
 ## 脚注

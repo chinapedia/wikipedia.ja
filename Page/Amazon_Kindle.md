@@ -356,7 +356,7 @@ Kindle 2は当初、第1世代と同じく[スプリントの](https://ja.wikipe
 
 ## Kindleパーソナル・ドキュメントサービス
 
-Kindleパーソナル・ドキュメントサービスは、個人的な[ドキュメントファイル](https://ja.wikipedia.org/wiki/ドキュメントファイル "wikilink")や[画像](../Page/画像.md "wikilink")がKindle端末で閲覧可能となる無料の[ファイル](../Page/ファイルフォーマット.md "wikilink")[変換](https://ja.wikipedia.org/wiki/変換 "wikilink")サービスである。ファイルを[メール](https://ja.wikipedia.org/wiki/メール "wikilink")に[添付して](https://ja.wikipedia.org/wiki/添付ファイル "wikilink")、各kindle端末ごとに割り振られている「Send-to-Kindle Eメールアドレス」と呼ばれる固有の[メールアドレス](../Page/メールアドレス.md "wikilink")に（[Wi-Fi](../Page/Wi-Fi.md "wikilink")接続時に）送信すれば、Kindleフォーマットに自動変換されて届き閲覧できる。各ドキュメントファイルはkindleライブラリ（[クラウド](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")）に最大容量5[GBまで自動的に保存される](../Page/ギガバイト.md "wikilink")。保存された各ファイルはアカウント登録済の端末に配信できる\[24\]。
+Kindleパーソナル・ドキュメントサービスは、個人的な[ドキュメントファイル](https://ja.wikipedia.org/wiki/ドキュメントファイル "wikilink")や[画像](../Page/画像.md "wikilink")がKindle端末で閲覧可能となる無料の[ファイル](../Page/ファイルフォーマット.md "wikilink")[変換](https://ja.wikipedia.org/wiki/変換 "wikilink")サービスである。ファイルを[メール](https://ja.wikipedia.org/wiki/メール "wikilink")に[添付して](../Page/添付ファイル.md "wikilink")、各kindle端末ごとに割り振られている「Send-to-Kindle Eメールアドレス」と呼ばれる固有の[メールアドレス](../Page/メールアドレス.md "wikilink")に（[Wi-Fi](../Page/Wi-Fi.md "wikilink")接続時に）送信すれば、Kindleフォーマットに自動変換されて届き閲覧できる。各ドキュメントファイルはkindleライブラリ（[クラウド](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")）に最大容量5[GBまで自動的に保存される](../Page/ギガバイト.md "wikilink")。保存された各ファイルはアカウント登録済の端末に配信できる\[24\]。
 
 ## Kindle Publishing Programs
 

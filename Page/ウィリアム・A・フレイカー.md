@@ -16,7 +16,7 @@
   - [イルカの日](https://ja.wikipedia.org/wiki/イルカの日 "wikilink") *The Day of the Dolphin* (1973)
   - [エクソシスト2](../Page/エクソシスト2.md "wikilink") *Exorcist II: The Heretic* (1977)
   - [ミスター・グッドバーを探して](../Page/ミスター・グッドバーを探して.md "wikilink") *Looking for Mr. Goodbar* (1977)　アカデミー撮影賞ノミネート
-  - [天国から来たチャンピオン](https://ja.wikipedia.org/wiki/天国から来たチャンピオン "wikilink") *Heaven Can Wait* (1978)　アカデミー撮影賞ノミネート
+  - [天国から来たチャンピオン](../Page/天国から来たチャンピオン.md "wikilink") *Heaven Can Wait* (1978)　アカデミー撮影賞ノミネート
   - [1941](../Page/1941_\(映画\).md "wikilink") *1941* (1979)　アカデミー撮影賞ノミネート
   - [シャーキーズ・マシーン](https://ja.wikipedia.org/wiki/シャーキーズ・マシーン "wikilink") *Sharky's Machine* (1981)
   - [ウォー・ゲーム](../Page/ウォー・ゲーム_\(映画\).md "wikilink") *WarGames* (1983) アカデミー撮影賞ノミネート

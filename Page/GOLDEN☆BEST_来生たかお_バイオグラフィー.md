@@ -120,12 +120,12 @@
 
 ## 関連項目
 
-  - [GOLDEN☆BEST 来生たかお VISITORS](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_来生たかお_ビジターズ "wikilink")
+  - [GOLDEN☆BEST 来生たかお VISITORS](../Page/GOLDEN☆BEST_来生たかお_ビジターズ.md "wikilink")
 
 ## 脚注
 
 [Category:来生たかおのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:来生たかおのベスト・アルバム "wikilink") [Category:2003年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のベスト・アルバム "wikilink") [Category:GOLDEN☆BEST](https://ja.wikipedia.org/wiki/Category:GOLDEN☆BEST "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
 
-1.  過去には[桃井かおり](../Page/桃井かおり.md "wikilink")（「ねじれたハートで」）や[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")（「[ORACIÓN-祈り-](../Page/ORACION_-祈り-.md "wikilink")」）、[松任谷由実](../Page/松任谷由実.md "wikilink")（「[Corvett 1954](../Page/流線形'80.md "wikilink")」）等とのデュエット歴がある。桃井・斉藤とのデュエットは『[GOLDEN☆BEST 来生たかお ビジターズ](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_来生たかお_ビジターズ "wikilink")』に収録されている。
+1.  過去には[桃井かおり](../Page/桃井かおり.md "wikilink")（「ねじれたハートで」）や[斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")（「[ORACIÓN-祈り-](../Page/ORACION_-祈り-.md "wikilink")」）、[松任谷由実](../Page/松任谷由実.md "wikilink")（「[Corvett 1954](../Page/流線形'80.md "wikilink")」）等とのデュエット歴がある。桃井・斉藤とのデュエットは『[GOLDEN☆BEST 来生たかお ビジターズ](../Page/GOLDEN☆BEST_来生たかお_ビジターズ.md "wikilink")』に収録されている。
 2.  ファンクラブ「TAKAO CLUB」の会報『égalité』Vol.51、Vol.52
 3.  [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")は、最初のアルバム『[First Love](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")』のリリース（[1999年](../Page/1999年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")）時、『[オリコンウィークThe](../Page/オリコンチャート.md "wikilink") Ichiban 1999年5月24日号』のインタビューにおいて、自身が産まれた頃（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")1月）のヒットチャート表を見る企画があり、ランクインしていた「セカンド・ラブ」を取り上げ、最近テレビで耳にして「この歌、好きだ\!」と思った楽曲だったと明かしており、自身のアルバム名『First Love（ファースト・ラブ）』と、好きと思った楽曲名「セカンド・ラブ」の偶然性に驚いている。

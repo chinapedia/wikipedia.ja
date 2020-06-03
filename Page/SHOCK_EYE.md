@@ -9,7 +9,7 @@
 
 元々は、[ヒップホップ](../Page/ヒップホップ.md "wikilink")DJをしていたが、[INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")のメンバーであり、中学からの同級生であるTELA-Cの誘いでジャマイカに渡り短期滞在を経て、[1996年](../Page/1996年.md "wikilink")に正式にINFINITY16に加入し、レゲエ歌手（Dee Jay)としてのキャリアをスタートさせる。その後、数度のジャマイカ滞在をへた後、中学・高校時代からの知り合いであり、2000年に加入した[若旦那と共に](../Page/若旦那_\(ミュージシャン\).md "wikilink")、Dee Jay、サウンドというお互いの方向性を尊重しINFINITY16を脱退し、当時同じくDee Jayとして湘南で活動していた[RED RICE](https://ja.wikipedia.org/wiki/RED_RICE "wikilink")、[HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink")、GOKI（現：[GOKIGEN SOUND](https://ja.wikipedia.org/wiki/GOKIGEN_SOUND "wikilink")、2002年に脱退）とともに2001年に湘南乃風を結成し、インディーズレーベル134LABELを立ち上げる。その後、自主制作の[ミックステープ](https://ja.wikipedia.org/wiki/ミックステープ "wikilink")「湘南の風」、「バブルガムブランド」、「湘南乃風外伝 一服」、「HOT134」をリリース。そのテープが累計約2万本を売り上げ湘南乃風メジャーデビューのきっかけとなる。
 
-2007年11月より携帯サイト[モバゲータウンの有名人コーナーにて日記や](https://ja.wikipedia.org/wiki/Mobage "wikilink")、自作の小説などを公開。また、同年に[Amin03](https://ja.wikipedia.org/wiki/Amin03 "wikilink")（アミノサン）というトラック制作チームを結成。プロデュース及び楽曲提供もしている。
+2007年11月より携帯サイト[モバゲータウンの有名人コーナーにて日記や](../Page/Mobage.md "wikilink")、自作の小説などを公開。また、同年に[Amin03](https://ja.wikipedia.org/wiki/Amin03 "wikilink")（アミノサン）というトラック制作チームを結成。プロデュース及び楽曲提供もしている。
 
 2009年1月30日に9年前から交際をしていた年下の一般女性と入籍をしたことを自身のブログで発表\[6\]。2010年に長男、2014年に次男をもうけている\[7\]\[8\]。
 

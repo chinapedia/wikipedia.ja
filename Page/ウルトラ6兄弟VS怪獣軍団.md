@@ -122,11 +122,33 @@
   - プロデューサー - [ソムポート・センドゥアンチャイ](https://ja.wikipedia.org/wiki/ソムポート・セーンドゥアンチャーイ "wikilink")、伊藤久夫
   - 監督 - [東條昭平](../Page/東條昭平.md "wikilink")
   - 脚本 - [若槻文三](https://ja.wikipedia.org/wiki/若槻文三 "wikilink")、淡豊明、ソムポート・セーンドゥアンチャイ
-  - 音楽 - [冬木透](../Page/蒔田尚昊.md "wikilink")（円谷音楽出版・担当 / 玉川静）
-  - 助監督 - 中島俊彦
-  - 現像 - [東京現像所](../Page/東京現像所.md "wikilink")
-  - 特殊技術 - [佐川和夫](https://ja.wikipedia.org/wiki/佐川和夫 "wikilink")
+  - 音楽 - [冬木透](../Page/蒔田尚昊.md "wikilink")
+      - 音楽制作 - 玉川静（円谷音楽出版）
+  - 撮影 - 町田敏行
+  - 照明 - 佐山五郎　
+  - 美術 - [大澤哲三](https://ja.wikipedia.org/wiki/大澤哲三 "wikilink")　
+  - 録音 - 中里勝範
+  - 編集 - 柳川義博、[小林煕昌](https://ja.wikipedia.org/wiki/小林煕昌 "wikilink")
+  - スクリプター - 堀ヨシ子　
+  - プロデューサー補 - 福井顕
+  - 制作主任 - 川口秀雄　
   - 効果 - 小川勝男（E\&M）
+  - 現像 - [東京現像所](../Page/東京現像所.md "wikilink")
+  - MA - [プロセンスタジオ](https://ja.wikipedia.org/wiki/プロセンスタジオ "wikilink")
+
+<!-- end list -->
+
+  - 特撮ユニット
+
+<!-- end list -->
+
+  - 特殊技術 - [佐川和夫](https://ja.wikipedia.org/wiki/佐川和夫 "wikilink")
+  - 撮影 - 佐藤貞夫　
+  - 照明 - 鎌田靖男　
+  - 美術 - 島崎尭司　
+  - 助監督 - 関武己
+  - 視覚効果 - 中野稔
+  - 操演 - 平鍋功
 
 ## 主題歌
 

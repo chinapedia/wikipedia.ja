@@ -1,7 +1,7 @@
 > この記事は[Gダライアス](https://ja.wikipedia.org/wiki/Gダライアス)から翻訳されています。
 
 
-『**Gダライアス**』（ジー-, **G DARIUS**）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から稼働された横スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")としては[ダライアス](../Page/ダライアス.md "wikilink")シリーズの第4作目になる。後に全体的にゲームスピードと難易度が上がった『GダライアスVer.2』も稼働された。
+『**Gダライアス**』（ジー-, **G DARIUS**）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から発売された横スクロール[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")としては[ダライアス](../Page/ダライアス.md "wikilink")シリーズの第4作目になる。後に全体的にゲームスピードと難易度が上がった『GダライアスVer.2』も発売された。
 
 キャッチコピーは**君は生命（いのち）の誕生（はじまり）を見る…**。
 
@@ -557,7 +557,7 @@ Gダライアス</p></td>
 
   - アーケード版
 
-当時のゲーム雑誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第11回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1997年）で、読者投票によりベストVGM賞1位を獲得している。また、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に刊行されたゲーメストムック『ザ・ベストゲーム2』において、それまでの全アーケードゲーム作品を対象とした読者投票では第11位を獲得した\[16\]。
+当時のゲーム雑誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の企画「第11回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」（1997年）で、読者投票によりベストVGM賞1位を獲得している。また、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に刊行されたゲーメストムック『ザ・ベストゲーム2』において、それまでの全アーケードゲーム作品を対象とした読者投票では第11位を獲得した。\[16\]。
 
 ## 脚注
 

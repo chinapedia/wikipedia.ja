@@ -21,7 +21,7 @@
 
 『PSYENCE A GO GO』にはD.I.E.のソロコーナーがあったが、その際カスタム[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")に乗って自身の楽曲である『NATURAL BORN ONANIST』を[ティッシュペーパー](../Page/ティッシュペーパー.md "wikilink")を撒き散らしながら熱唱する。このカスタム車椅子は火花が出る仕掛けがあったが、1996年9月28日[金沢公演において車椅子を押していたhideの衣装が燃える珍事が起きる](https://ja.wikipedia.org/wiki/金沢市 "wikilink")（この時D.I.E.は真後ろでhideが素になっていることに気付かずティッシュを撒き散らしていた）。
 
-子供の頃 (1970年代半ば) から、アンチ[読売巨人軍](https://ja.wikipedia.org/wiki/読売巨人軍 "wikilink")で大の[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")[ファン](../Page/ファン.md "wikilink")である。現在でも、首都圏で行われる[中日の試合には](../Page/中日ドラゴンズ.md "wikilink")、[ビジター](https://ja.wikipedia.org/wiki/ビジター "wikilink")にかかわらず年間を通して観戦し、[応援団](../Page/応援団.md "wikilink")と共に声をからすまで声援を送っている。
+子供の頃 (1970年代半ば) から、アンチ[読売巨人軍で大の](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")[ファン](../Page/ファン.md "wikilink")である。現在でも、首都圏で行われる[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の試合には、[ビジター](https://ja.wikipedia.org/wiki/ビジター "wikilink")にかかわらず年間を通して観戦し、[応援団](../Page/応援団.md "wikilink")と共に声をからすまで声援を送っている。
 
 hideが他界した日はGLAYのツアーで三重にいた。訃報を聞いた後のライブだったため、自身にとって最も辛いステージだったとブログで回想している。\[1\]
 

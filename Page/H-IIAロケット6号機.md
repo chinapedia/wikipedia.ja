@@ -1,7 +1,7 @@
 > この記事は[H-IIAロケット6号機](https://ja.wikipedia.org/wiki/H-IIAロケット6号機)から翻訳されています。
 
 
-**H-IIAロケット6号機**（H2Aロケット6ごうき）は[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA) が開発・運用する[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")の第6号機である。[2003年](../Page/2003年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")13時33分に[種子島宇宙センター](../Page/種子島宇宙センター.md "wikilink")から打上げられたが、[SRB-A](https://ja.wikipedia.org/wiki/SRB-A "wikilink")（固体ロケットブースタ）の1本が分離しなかったことから打上げに失敗、[ペイロードの](https://ja.wikipedia.org/wiki/ペイロード_\(航空宇宙\) "wikilink")[情報収集衛星](../Page/情報収集衛星.md "wikilink")2機が失われた。H-IIAロケットの初失敗（また2020年2月現在唯一の失敗でもある）であると同時に、問題が山積とされていたJAXA統合直後の打上げ失敗だったため、大きな議論を巻き起こした。
+**H-IIAロケット6号機**（H2Aロケット6ごうき）は[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink") (JAXA) が開発・運用する[H-IIAロケット](../Page/H-IIAロケット.md "wikilink")の第6号機である。[2003年](../Page/2003年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")13時33分に[種子島宇宙センター](../Page/種子島宇宙センター.md "wikilink")から打上げられたが、[SRB-A](https://ja.wikipedia.org/wiki/SRB-A "wikilink")（固体ロケットブースタ）の1本が分離しなかったことから打上げに失敗、[ペイロードの](https://ja.wikipedia.org/wiki/ペイロード_\(航空宇宙\) "wikilink")[情報収集衛星](../Page/情報収集衛星.md "wikilink")2機が失われた。H-IIAロケットの初失敗（また2020年2月現在唯一の失敗でもある）であると同時に、問題が山積とされていたJAXA統合直後の打上げ失敗だったため、大きな議論を巻き起こした。
 
 ## ロケット諸元
 
@@ -42,7 +42,7 @@ H-IIAロケットの能力的には[IGSの](../Page/情報収集衛星.md "wikil
 
   - [H-IIAロケット](../Page/H-IIAロケット.md "wikilink")
   - [情報収集衛星](../Page/情報収集衛星.md "wikilink")
-  - [宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")
+  - [宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")
   - [H-IIロケット5号機](../Page/H-IIロケット5号機.md "wikilink")
   - [H-IIロケット8号機](../Page/H-IIロケット8号機.md "wikilink")
 

@@ -57,7 +57,8 @@
 
 ファイル:K-U31L-Hitachi-Dentetsu.jpg|K-U31L（富士R13/3E）
 日立電鉄 ファイル:K-U31N-Enoden-319.jpg|K-U31N（富士R13/3E）
-江ノ島電鉄 ファイル:K-U31L-Kanto-Bus-3door.jpg|K-U31L（富士R15/5E）
+江ノ島電鉄 ファイル:JNR BUS K-U31L.jpg|thumb|K-U31L（富士R13/3B）
+日本国有鉄道（撮影当時) ファイル:K-U31L-Kanto-Bus-3door.jpg|K-U31L（富士R15/5E）
 関東バス ファイル:SSB Nissan Diesel.JPG|U31RCN（富士R15/5E）
 シンガポールシャトルバス ファイル:Arao City bus01.jpg|K-U31K（西工53MC）
 荒尾市交通局 ファイル:Sandenkotsu sanyoukyuko UD NSK.jpg|K-UA31K（西工53MC）
@@ -88,7 +89,9 @@ JR東日本
 
 なお、P-UA50系は実際に路線バスとして使われた例は極めて少なく、自家用や高速バスに使われるケースが多かった。車体は、富士7Bの架装例が大半で7Eは存在しない。またごくわずかに西工58MCを架装した例が存在する。
 
-ファイル:Miyagikotsu P U33L.JPG|P-U33L 宮城交通
+ファイル:Miyagikotsu P U33L.JPG|P-U33L（富士R17/7E）
+宮城交通 ファイル:Kanachu_P-U33L.jpg|P-U33L（富士R17/7E）
+神奈川中央交通
 
 ## UA（UA系）
 

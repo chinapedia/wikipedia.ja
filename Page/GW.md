@@ -15,7 +15,7 @@
   - [総重量](../Page/重さ.md "wikilink") ()
   - [ギニアビサウ](../Page/ギニアビサウ.md "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")
   - 企業
-      - [グッドウィル](https://ja.wikipedia.org/wiki/グッドウィル "wikilink") () - 日本の企業（曖昧さ回避）
+      - [グッドウィル](https://ja.wikipedia.org/wiki/グッドウィル "wikilink") () - 日本の企業
       - [ゲームズワークショップ](https://ja.wikipedia.org/wiki/ゲームズワークショップ "wikilink") () - イギリスのゲーム会社
       - [日興グローバルラップ](https://ja.wikipedia.org/wiki/日興グローバルラップ "wikilink")
       - [ギャランティードウェザー・ホールディング](https://ja.wikipedia.org/wiki/ギャランティードウェザー・ホールディング "wikilink")

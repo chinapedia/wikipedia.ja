@@ -5,67 +5,67 @@
 
 ## 来歴
 
-[耳鼻咽喉科](../Page/耳鼻咽喉科学.md "wikilink")・[眼科の開業医を母に持つ](../Page/眼科学.md "wikilink")\[1\]。7歳([1962年](../Page/1962年.md "wikilink"))で[ピアノ](../Page/ピアノ.md "wikilink")を習いはじめ、兄の影響から8歳([1963年](../Page/1963年.md "wikilink"))で[ギター](../Page/ギター.md "wikilink")を手にする。(ピアノは、本人曰く18歳まで継続し、将来、[音楽大学](../Page/音楽大学.md "wikilink")に行きたかったとのこと。)
+[耳鼻咽喉科](../Page/耳鼻咽喉科学.md "wikilink")・[眼科の開業医を母に持つ](../Page/眼科学.md "wikilink")\[1\]。7歳（[1962年](../Page/1962年.md "wikilink")）で[ピアノ](../Page/ピアノ.md "wikilink")を習い始め、兄の影響から8歳（[1963年](../Page/1963年.md "wikilink")）で[ギター](../Page/ギター.md "wikilink")を手にする。ピアノは、本人曰く18歳まで継続し、将来、[音楽大学](../Page/音楽大学.md "wikilink")に行きたかったとのこと。）
 
 [ザ・ベンチャーズ](../Page/ザ・ベンチャーズ.md "wikilink")や、[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")、[ジェフ・ベック](../Page/ジェフ・ベック.md "wikilink")、[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")などから影響を受ける。日々、ピアノよりもギターに没頭するのを心配した父親が、Charの部屋に入って「お前は将来何になりたいんだ」と問い詰めたところ、Charは「これ」と、壁に貼ってある[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")の[ポスター](../Page/ポスター.md "wikilink")を指差した。
 
 ### アマチュア時代
 
-11歳 ～ 13歳([1966年](../Page/1966年.md "wikilink") - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink"))に同級生の[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")らと『FOX』結成。[ヤードバーズ](../Page/ヤードバーズ.md "wikilink")、[ドアーズ](../Page/ドアーズ.md "wikilink")、[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")等をレパートリーとしていた。 14歳 ～ (1969年)『JAH(ヤッハ)』結成。3人のバンドで、メンバーの名前の頭文字から命名。 ヤードバーズ、クリーム等をレパートリーとしバンド・コンテスト等にも出場。 この時、早くもプロ・デビューの話を持ちかけられるが、『生ギターでフォークみたいのやらない？』と言う条件に断る。
+11歳 ～ 13歳（[1966年](../Page/1966年.md "wikilink") - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）に同級生の[新川博](https://ja.wikipedia.org/wiki/新川博 "wikilink")らと『FOX』結成。[ヤードバーズ](../Page/ヤードバーズ.md "wikilink")、[ドアーズ](../Page/ドアーズ.md "wikilink")、[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")等をレパートリーとしていた。14歳 ～（1969年）『JAH（ヤッハ）』結成。3人のバンドで、メンバーの名前の頭文字から命名。ヤードバーズ、クリーム等をレパートリーとしバンド・コンテスト等にも出場。この時、早くもプロ・デビューの話を持ちかけられるが、『生ギターでフォークみたいのやらない？』という条件に断る。
 
-16歳([1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink"))『GAS MASK』結成。ヤマハ・ライトミュージックコンテストに出場しオリジナル曲を演奏。地区ブロックで2位を受賞する。オリジナル曲以外は、[グランド・ファンク・レイルロード](../Page/グランド・ファンク・レイルロード.md "wikilink")等をレパートリーとしていた。
+16歳（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）『GAS MASK』結成。ヤマハ・ライトミュージックコンテストに出場しオリジナル曲を演奏。地区ブロックで2位を受賞する。オリジナル曲以外は、[グランド・ファンク・レイルロード](../Page/グランド・ファンク・レイルロード.md "wikilink")等をレパートリーとしていた。
 
-1971年（中学3年生 ～ 高校1年生）に、[スタジオミュージシャン](https://ja.wikipedia.org/wiki/スタジオミュージシャン "wikilink")としての初仕事をこなす。 レコーディング内容は、ギター奏法教材「ロック完全マスター」という譜面集と併売されるカセットテープのデモ演奏として、エリック・クラプトンなどの曲を収める為だった。 当時のスタジオミュージシャンはジャズ系スタイルの人が多く、ロック系ギタリストは少数だった為、練習していたスタジオで知り合ったスタジオ・ミュージシャンからの依頼だったそうである。 その時のエピソードとして、その当時の録音エンジニア達は～ロック・エレキギターの『[歪み](https://ja.wikipedia.org/wiki/歪み "wikilink")』『[フィードバック奏法](../Page/フィードバック奏法.md "wikilink")』を認識しておらず、戸惑ったと自身が回想している。
+1971年（中学3年生 ～ 高校1年生）に、[スタジオミュージシャン](https://ja.wikipedia.org/wiki/スタジオミュージシャン "wikilink")としての初仕事をこなす。レコーディング内容は、ギター奏法教材「ロック完全マスター」という譜面集と併売されるカセットテープのデモ演奏として、[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")などの曲を収めるためだった。当時のスタジオミュージシャンはジャズ系スタイルの人が多く、ロック系ギタリストは少数だったため、練習していたスタジオで知り合ったスタジオ・ミュージシャンからの依頼だったそうである。その時のエピソードとして、その当時の録音エンジニア達は～ロック・エレキギターの『[歪み](https://ja.wikipedia.org/wiki/歪み "wikilink")』『[フィードバック奏法](../Page/フィードバック奏法.md "wikilink")』を認識しておらず、戸惑ったと自身が回想している。
 
-17歳([1972年](../Page/1972年.md "wikilink"))『Shock』結成。 別バンド『Bad Scene』のデビュー曲のレコーディングにも依頼され、並行して同バンドにも参加。 『Shock』でもプロ・デビューの話が出たが、レコーディング中にメンバーの音楽的指向性の食い違いから途中で解散してしまう。
+17歳（[1972年](../Page/1972年.md "wikilink")）『Shock』結成。別バンド『Bad Scene』のデビュー曲のレコーディングにも依頼され、並行して同バンドにも参加。『Shock』でもプロ・デビューの話が出たが、レコーディング中にメンバーの音楽的指向性の食い違いから途中で解散してしまう。
 
 [1973年](../Page/1973年.md "wikilink")、[スモーキー・メディスン](https://ja.wikipedia.org/wiki/スモーキー・メディスン "wikilink")を結成。
 
-『Shock』『Bad Scene』にて[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でライブをしていた頃、[金子マリ](../Page/金子マリ.md "wikilink")も別のバンドで同じステージに立っていた。 ある日、街中で出会い連絡先を交換。 『Bad Scene』も解散してしまい、『Bad Scene』のベーシスト[鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")、『Shock』の[佐藤準](../Page/佐藤準.md "wikilink")・[藤井章司](https://ja.wikipedia.org/wiki/藤井章司 "wikilink")と共に新たなバンドの構想中、[金子マリ](../Page/金子マリ.md "wikilink")から『バックコーラスでもいいから参加したい』との電話を受けて迎え入れた。同年8月には[合歓の郷](https://ja.wikipedia.org/wiki/合歓の郷 "wikilink")で合宿をし本格的な活動準備に入る。
+『Shock』『Bad Scene』にて[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でライブをしていた頃、[金子マリ](../Page/金子マリ.md "wikilink")も別のバンドで同じステージに立っていた。ある日、街中で出会い連絡先を交換。『Bad Scene』も解散してしまい、『Bad Scene』のベーシスト[鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")、『Shock』の[佐藤準](../Page/佐藤準.md "wikilink")・[藤井章司](https://ja.wikipedia.org/wiki/藤井章司 "wikilink")と共に新たなバンドの構想中、[金子マリ](../Page/金子マリ.md "wikilink")から『バックコーラスでもいいから参加したい』との電話を受けて迎え入れた。同年8月には[合歓の郷](https://ja.wikipedia.org/wiki/合歓の郷 "wikilink")で合宿をし本格的な活動準備に入る。
 
-Charは、当時[エレックレコード所属アーティストのレコーディングにも参加していた為](https://ja.wikipedia.org/wiki/エレックレコード_\(オリジナル\) "wikilink")、知り合いのディレクターから依頼を受け、バンドは企画アルバムのレコーディングもされていた（『ゴーゴー大パーティー第4回ロック・インパルス』：キング・レコード/[1974年](../Page/1974年.md "wikilink")リリース盤に『マイティ・マウス』の変名でクレジットされている）。同時期、エレックレコードの若手レコーディングエンジニアから『どうしてもバンドの音を残したい』と依頼され、夜中にスタジオに入り、朝方にデモ・テープは完成。後日、そのテープを金子、鳴瀬の2人が各音楽関係会社に持ち込む。当時、[鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")以外は高校生だったが、その圧倒的な演奏力やステージングがプロミュージシャンや音楽メディアの間でも話題となり、[内田裕也](../Page/内田裕也.md "wikilink")の耳にも入る。当時、Char本人がチケットを購入して見に行く予定だった、とも言われていた内田裕也プロデュース・イベント第2回「フラッシュ・コンサート」（於:[西武劇場](../Page/PARCO劇場.md "wikilink")）に於いて[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")が出演予定だった、が同バンドは海外公演決定の為キャンセル。その空いた時間にスモーキー・メディスンは抜擢された。1974年5月号のニュー・ミュージック・マガジン誌では、アマチュア・バンドにも関わらず「期待の新グループ、スモーキー・メディスン」として数ページに渡り写真と内田裕也のコメントを掲載。共にその演奏力、新鮮さを好評価されていた。
+Charは、当時[エレックレコード所属アーティストのレコーディングにも参加していたため](https://ja.wikipedia.org/wiki/エレックレコード_\(オリジナル\) "wikilink")、知り合いのディレクターから依頼を受け、バンドは企画アルバムのレコーディングもされていた（『ゴーゴー大パーティー第4回ロック・インパルス』：キング・レコード/[1974年](../Page/1974年.md "wikilink")リリース盤に『マイティ・マウス』の変名でクレジットされている）。同時期、エレックレコードの若手レコーディングエンジニアから『どうしてもバンドの音を残したい』と依頼され、夜中にスタジオに入り、朝方にデモ・テープは完成。後日、そのテープを金子、鳴瀬の2人が各音楽関係会社に持ち込む。当時、[鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")以外は高校生だったが、その圧倒的な演奏力やステージングがプロミュージシャンや音楽メディアの間でも話題となり、[内田裕也](../Page/内田裕也.md "wikilink")の耳にも入る。当時、Char本人がチケットを購入して見に行く予定だった、とも言われていた内田裕也プロデュース・イベント第2回「フラッシュ・コンサート」（於：[西武劇場](../Page/PARCO劇場.md "wikilink")）において[サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")が出演予定だった、だが、同バンドは海外公演決定のためキャンセル。その空いた時間にスモーキー・メディスンは抜擢された。1974年5月号のニュー・ミュージック・マガジン誌では、アマチュア・バンドにも関わらず「期待の新グループ、スモーキー・メディスン」として数ページに渡り写真と内田裕也のコメントを掲載。共にその演奏力、新鮮さを好評価されていた。
 
 以降は様々なロックイベントに出演した。当時日本最大のロックフェスティバルと呼ばれた[郡山ワンステップフェスティバル1974にも出演が決まっていたが](../Page/ワンステップフェスティバル.md "wikilink")、その直前に解散してしまった。解散理由は音楽的指向性の他にも諸説いわれている。
 
-解散後Charはフォーク系グループのレコーディングやLIVEでのバックバンド・ギタリスト、楽器メーカー主催のギター・クリニック等の活動が主となるが『Mad Brothers』(jazz/fusion系）、『Charlie Funk Party』(パーティ・バンド)でも活動。
+解散後Charはフォーク系グループのレコーディングやLIVEでのバックバンド・ギタリスト、楽器メーカー主催のギター・クリニック等の活動が主となるが『Mad Brothers』（jazz/fusion系）、『Charlie Funk Party』（パーティ・バンド）でも活動。
 
 ### プロデビュー後
 
-[1976年](../Page/1976年.md "wikilink")[6月](../Page/6月.md "wikilink")『NAVY BLUE』でソロ・デビュー、[9月](../Page/9月.md "wikilink")にアルバム『Char』を発表（代表曲『Smoky』収録）。 [1977年](../Page/1977年.md "wikilink")6月にリリースされた『[気絶するほど悩ましい](https://ja.wikipedia.org/wiki/気絶するほど悩ましい "wikilink")』は、外部の作詞（[阿久悠](../Page/阿久悠.md "wikilink")）、作曲（[梅垣達志](../Page/梅垣達志.md "wikilink")）で自身のROCK指向とは異なる『歌謡ROCK』路線となりアイドル系ギタリスト＆ボーカリストとして人気を博す。 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には『逆光線』『闘牛士』とヒットを飛ばし、同時期に登場した[世良公則&ツイスト](../Page/世良公則&ツイスト.md "wikilink")、[原田真二](../Page/原田真二.md "wikilink")の3人（グループ）と共に『ロック御三家』と呼ばれる\[2\]。
+[1976年](../Page/1976年.md "wikilink")[6月](../Page/6月.md "wikilink")『NAVY BLUE』でソロ・デビュー、[9月](../Page/9月.md "wikilink")にアルバム『Char』を発表（代表曲『Smoky』収録）。[1977年](../Page/1977年.md "wikilink")6月にリリースされた『[気絶するほど悩ましい](https://ja.wikipedia.org/wiki/気絶するほど悩ましい "wikilink")』は、外部の作詞（[阿久悠](../Page/阿久悠.md "wikilink")）、作曲（[梅垣達志](../Page/梅垣達志.md "wikilink")）で自身のROCK指向とは異なる『歌謡ROCK』路線となりアイドル系ギタリスト＆ボーカリストとして人気を博す。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")には『逆光線』『闘牛士』とヒットを飛ばし、同時期に登場した[世良公則&ツイスト](../Page/世良公則&ツイスト.md "wikilink")、[原田真二](../Page/原田真二.md "wikilink")の3人（グループ）と共に『ロック御三家』と呼ばれる\[2\]。
 
 他の二組が自作曲で世に出たのとは違い、自身のシングル曲が職業作家からの提供曲だったことについては「俺がやったのは歌謡曲とロックの中間だよね。俺はロックの音楽家だけど、シングル盤は歌謡曲でいいと思ったわけよ。ロックやっててメジャーの世界に出るにはそれしかなかったじゃん」と当時のインタビューで述べている\[3\]。アイドル性を狙うもバンドのメンバーにルックスの悪いハーフがいたために若い女性ファンは取り込めなかったという\[4\]。
 
 この曲のヒットでテレビの歌番組に出演することが増え、そこで当時一世を風靡した[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の想像を絶する忙しさと、[五木ひろし](../Page/五木ひろし.md "wikilink")や[新沼謙治](../Page/新沼謙治.md "wikilink")といった演歌歌手と共演することで、歌謡界の本物のプロの凄さを目の当たりにし、自分の道を極めなければいけないと思ったと述懐している。
 
-[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")7月に発表された自身3枚目のアルバム『Thrill』にて[Godiego](https://ja.wikipedia.org/wiki/Godiego "wikilink")と共に楽曲の半分にて共演。 リリース後に行われたGodiegoとの共演LIVEで、男性のみが入場可能だった『男だけのコンサート』を行う。
+[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")7月に発表された自身3枚目のアルバム『Thrill』にて[Godiego](https://ja.wikipedia.org/wiki/Godiego "wikilink")と共に楽曲の半分にて共演。リリース後に行われたGodiegoとの共演LIVEで、男性のみが入場可能だった『男だけのコンサート』を行う。
 
 同年9月、音楽活動以外に俳優にも挑戦。[TBSの時代劇特番](../Page/TBSテレビ.md "wikilink")『[雲を翔びこせ](https://ja.wikipedia.org/wiki/雲を翔びこせ "wikilink")（渋沢栄一伝）』にて主人公の[渋沢栄一](../Page/渋沢栄一.md "wikilink")（[西田敏行](../Page/西田敏行.md "wikilink")）の嫁、千代（[池上季実子](https://ja.wikipedia.org/wiki/池上季実子 "wikilink")）の兄、長七朗役を演じる。
 
-同時期、本人の本来の指向とは異なるアイドル然とした歌謡界での活動に見切りを付け、新たに本格的なROCKバンド結成を構想。 Yellow～金子マリ＆バックスバニーの[ジョニー吉長](../Page/ジョニー吉長.md "wikilink")、ゴールデン・カップス～スピード・グルー＆シンキ等の[ルイズルイス加部](../Page/ルイズルイス加部.md "wikilink")と共に「JOHNNY, LOUIS & CHAR」を結成し活動準備の為、合歓の郷で合宿。
+同時期、本人の本来の指向とは異なるアイドル然とした歌謡界での活動に見切りを付け、新たに本格的なROCKバンド結成を構想。Yellow～金子マリ＆バックスバニーの[ジョニー吉長](../Page/ジョニー吉長.md "wikilink")、ゴールデン・カップス～スピード・グルー＆シンキ等の[ルイズルイス加部](../Page/ルイズルイス加部.md "wikilink")と共に「JOHNNY, LOUIS & CHAR」を結成し活動準備のため、合歓の郷で合宿。
 
 同年秋発売の『BLUE CHRISTMAS』は東宝映画『ブルークリスマス』劇中歌だが、第6シングルとしての日本語歌詞バージョンとは別にchar自身が歌う英語歌詞バージョン（こちらはBGM数曲を併せたシングルサントラ盤として構成）も同時発売されるという異色の体制となった。作曲は同映画の音楽監督である佐藤勝。映画の中では英国人バンドが歌う曲として扱われている。
 
-その後のステージ・デビュー（芸術祭イベント)の模様はTV収録されたが、その放映前、自身に**「ある事件（覚醒剤取締法違反）」の謂れのない嫌疑がかけられた**為、活動休止を余儀なくされ、オンエアーされることなく御蔵入りとなってしまう。 同時期に予定されていたTour「JOHNNY, LOUIS & CHAR・ウルトラコンサート」も中止となってしまった。
+その後のステージ・デビュー（芸術祭イベント)の模様はTV収録されたが、その放映前、自身に**「ある事件（覚醒剤取締法違反）」の謂れのない嫌疑がかけられた**ため、活動休止を余儀なくされ、オンエアーされることなく御蔵入りとなってしまう。同時期に予定されていたTour「JOHNNY, LOUIS & CHAR・ウルトラコンサート」も中止となってしまった。
 
 [1979年](../Page/1979年.md "wikilink")[カルメンマキ](https://ja.wikipedia.org/wiki/カルメンマキ "wikilink")の支援を受け、彼女のツアーメンバーとして復帰。
 
-同年に「JOHNNY, LOUIS & CHAR」が再始動。 7月14日に開催された『Free Spirit』と題されたフリー（無料）コンサートには雨天にも関わらず全国からファンが殺到し[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")の動員記録を樹立する。 （当日の模様は同年11月、3万枚限定盤LPとして『Free Spirit』のタイトルでリリースされた）
+同年に「JOHNNY, LOUIS & CHAR」が再始動。7月14日に開催された『Free Spirit』と題されたフリー（無料）コンサートには雨天にも関わらず全国からファンが殺到し[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")の動員記録を樹立する。（当日の模様は同年11月、3万枚限定盤LPとして『Free Spirit』のタイトルでリリースされた）
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")5月『Trycycle』、[1981年](../Page/1981年.md "wikilink")『OiRA』を発表。
 
-所属レコード会社の移籍に伴いバンド名を「[ピンククラウド](../Page/ピンククラウド.md "wikilink")」（PINK CLOUD）と改名。 1981年5月『KUTKLOUD』、9月『CLOUD LAND/桃源郷』、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月『PINK CLOUD』、[1984年](../Page/1984年.md "wikilink")11月『PLANT BLEND』を発表。 レコード会社との契約に『バンドとしてのアルバム4枚、各メンバーのソロ・アルバムを出す』と言う条件が有り、この時期は精力的な活動期間でもあった。 この間には東京・銀座に『Smoky Studio』を設立。 ジョニー吉長のソロアルバム『LOVE CHILD』がこけら落としとなりCharのプロデュースによる他アーティストのアルバムも数多生まれた。
+所属レコード会社の移籍に伴いバンド名を「[ピンククラウド](../Page/ピンククラウド.md "wikilink")」(PINK CLOUD) と改名。1981年5月『KUTKLOUD』、9月『CLOUD LAND/桃源郷』、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月『PINK CLOUD』、[1984年](../Page/1984年.md "wikilink")11月『PLANT BLEND』を発表。レコード会社との契約に『バンドとしてのアルバム4枚、各メンバーのソロ・アルバムを出す』と言う条件があり、この時期は精力的な活動期間でもあった。この間には東京・銀座に『Smoky Studio』を設立。ジョニー吉長のソロアルバム『LOVE CHILD』がこけら落としとなりCharのプロデュースによる他アーティストのアルバムも数多生まれた。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、「[ピンククラウド](../Page/ピンククラウド.md "wikilink")」は2度目のレコード会社を移籍。7月、日比谷野外音楽堂で、観客を入れずに収録されたミニ・アルバムを発表。この頃、単身渡英し半年を過ごす。その為、PINK CLOUDとしてのバンド活動は年間でも数回となる。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、「[ピンククラウド](../Page/ピンククラウド.md "wikilink")」は2度目のレコード会社を移籍。7月、日比谷野外音楽堂で、観客を入れずに収録されたミニ・アルバムを発表。この頃、単身渡英し半年を過ごす。そのため、PINK CLOUDとしてのバンド活動は年間でも数回となる。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月　[忌野清志郎](../Page/忌野清志郎.md "wikilink")とアニメ[県立地球防衛軍](../Page/県立地球防衛軍.md "wikilink")のサウンドトラックとして『忌野清志郎、JOHNNY, LOUIS & CHAR』名義で『S.F』を発表。同年は『忌野清志郎、JOHNNY, LOUIS & CHAR』でのLIVEを学園祭や野外イベントで行なった。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月　[忌野清志郎](../Page/忌野清志郎.md "wikilink")とアニメ[県立地球防衛軍](../Page/県立地球防衛軍.md "wikilink")のサウンドトラックとして『忌野清志郎、JOHNNY, LOUIS & CHAR』名義で『S.F』を発表。同年は『忌野清志郎、JOHNNY, LOUIS & CHAR』でのLIVEを学園祭や野外イベントで行った。
 
 ### 一度目のレーベル立ち上げ
 
-[1988年](../Page/1988年.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　電話通販専門の[インディーズ](../Page/インディーズ.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")「江戸屋Record」を運営。 [1988年](../Page/1988年.md "wikilink")6月　ソロ・アルバム『PSYCHE』を発表。6月7日には『JOHNNY, LOUIS & CHAR』名義で汐留PITにて久々のLIVEを行う。 (会場では『PSYCHE』が先行発売され、9月にはLIVEの模様を収録した『1988,6,7 JOHNNY, LOUIS & CHAR』のタイトルでビデオも発表）以後、『PINK CLOUD』としての活動と並行し新たなユニットでの活動も始める。
+[1988年](../Page/1988年.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")　電話通販専門の[インディーズ](../Page/インディーズ.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")「江戸屋Record」を運営。[1988年](../Page/1988年.md "wikilink")6月　ソロ・アルバム『PSYCHE』を発表。6月7日には『JOHNNY, LOUIS & CHAR』名義で汐留PITにて久々のLIVEを行う。（会場では『PSYCHE』が先行発売され、9月にはLIVEの模様を収録した『1988,6,7 JOHNNY, LOUIS & CHAR』のタイトルでビデオも発表）以後、『PINK CLOUD』としての活動と並行し新たなユニットでの活動も始める。
 
 [1991年](../Page/1991年.md "wikilink")にはイベントがきっかけで組まれた[石田長生](https://ja.wikipedia.org/wiki/石田長生 "wikilink")とのアコースティック・デュオ「[BAHO](https://ja.wikipedia.org/wiki/BAHO "wikilink")」（馬呆）名義で『TREMENDOUS』を発表。以降も不定期ではあるが、活動を続けた。
 
-[1992年](../Page/1992年.md "wikilink")4月 - 「[PSYCHEDELIX](https://ja.wikipedia.org/wiki/PSYCHEDELIX "wikilink")」を発表。 これは『PSYCHE』1988年にソロLIVEを行う際に[佐藤準](../Page/佐藤準.md "wikilink")、[アンルイス](https://ja.wikipedia.org/wiki/アンルイス "wikilink")、[ジム・コウプリー](https://ja.wikipedia.org/wiki/ジミー・コープリー "wikilink")、[ジャズ・ロッホリー](https://ja.wikipedia.org/wiki/W:en:Jaz_Lochrie "wikilink")、と組まれた『Char ＆ THE PSYCHEDELIX』が元となったバンドである。フル・アルバムとしては3枚を発表。
+[1992年](../Page/1992年.md "wikilink")4月 - 「[PSYCHEDELIX](https://ja.wikipedia.org/wiki/PSYCHEDELIX "wikilink")」を発表。これは『PSYCHE』1988年にソロLIVEを行う際に[佐藤準](../Page/佐藤準.md "wikilink")、[アンルイス](https://ja.wikipedia.org/wiki/アンルイス "wikilink")、[ジム・コウプリー](https://ja.wikipedia.org/wiki/ジミー・コープリー "wikilink")、[ジャズ・ロッホリー](https://ja.wikipedia.org/wiki/W:en:Jaz_Lochrie "wikilink")、と組まれた『Char ＆ THE PSYCHEDELIX』が元となったバンドである。フル・アルバムとしては3枚を発表。
 
 [1994年](../Page/1994年.md "wikilink")、PINK CLOUD/JOHNNY, LOUIS & CHARが解散。
 
@@ -77,7 +77,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
 ### 二度目のレーベル立ち上げ
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、ネット販売専門の新レーベル[Zicca](http://www.zicca.net/pc/?act=top-Top)を立ち上げ、自身のルーツをアレンジし収録したTRADROCKシリーズとして『Eric』、『Jeff』、『The B』、『The V』、『Jimmy』、『Jimi』、『Char By Char』を発表した。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、ネット販売専門の新レーベル[Zicca](http://www.zicca.net/pc/?act=top-Top)を立ち上げ、自身のルーツをアレンジし収録したTRADROCKシリーズとして『Eric』『Jeff』『The B』『The V』『Jimmy』『Jimi』『Char By Char』を発表した。
 
 それまで行ったりライブをした事の無い地方都市会場を主に不定期ではあるが『TRADROCK By Char』ツアーで各所を廻っている。また、現在イベントのみで活動するユニットで[奥田民生](../Page/奥田民生.md "wikilink")、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")との『3人の侍』（Samurai‐3）がある。
 
@@ -85,14 +85,14 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
 ## 人物
 
-  - 「Char」の名前の由来は諸説あるが、本人談では「名前に「ひさ～」が付く人に多いみたい」と語られる事が多い。
+  - 「Char」の名前の由来は諸説あるが、本人談では「名前に「ひさ～」が付く人に多いみたい」と語られることが多い。
 
 <!-- end list -->
 
   -
 
       -
-        （例1 ＝ 本名:「尚人（ひさと）」 → 「ちゃと」 → 「ちゃー」。例2 ＝ 本名:「久子（ひさこ）」 → 「ちゃこ」 → 「ちゃー」）
+        （例1 ＝ 本名：「尚人（ひさと）」 → 「ちゃと」 → 「ちゃー」。例2 ＝ 本名:「久子（ひさこ）」 → 「ちゃこ」 → 「ちゃー」）
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
   -
 
       -
-        Char曰く『公私ともに共同作業者』と語る事も多い。
+        Char曰く『公私ともに共同作業者』と語ることも多い。
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
       -
         Charのデビュー当時は『Charの使用ギター』として注目を集めたがアメリカで人気は低く、[1977年](../Page/1977年.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に生産されたムスタングの多くは日本に輸入された。ムスタングは、ストラトキャスターより弦長の短いショートスケールのため、他のフェンダーギターより弾きやすく、代表曲「SMOKY」のDm9のヴォイシングなどは、ムスタングでなければ思いつかなかったかもしれないと語っている（Charは、前述の名前の由来やムスタングの話題のように、何度も答えて飽きている質問であったり、雑誌のインタビュアーが[釈迦](https://ja.wikipedia.org/wiki/釈迦 "wikilink")に説法をするような人物で気に入らない場合は、冗談や遊びの答えではぐらかすことがままある）。しかしながら、[21世紀](../Page/21世紀.md "wikilink")に入ってからはストラトキャスターの使用も以前と比較すると格段に多くなっており、時期によってはムスタングよりも多く使用している。
-        [2011年](../Page/2011年.md "wikilink")には米国フェンダー社とエンドースメント契約をし、Char Signature Stratocaster® "Charizma"が製作される運びになった。\[5\]
+        [2011年](../Page/2011年.md "wikilink")には米国フェンダー社とエンドースメント契約をし、Char Signature Stratocaster® "Charizma"が製作される運びになった\[5\]。
 
 <!-- end list -->
 
@@ -130,7 +130,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
   -
 
       -
-        本人も石井竜也と共演した際に度々「**まだギャラ貰ってないぞ**」と発言している。\[6\]
+        本人も石井竜也と共演した際に度々「**まだギャラ貰ってないぞ**」と発言している\[6\]。
 
 <!-- end list -->
 
@@ -164,7 +164,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 | 9th                                                       | [1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")                      | **Touch my love again**                                                        | THRILL                     |
 | 10th                                                      | [2000年](../Page/2000年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")                                           | **Share the wonder**                                                           | 11 years                   |
 | Back then and Now                                         |                                                                                                                  |                                                                                |                            |
-| 11th                                                      | [2000年](../Page/2000年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")                                         | **R-1(Route One)**                                                             | HOPE                       |
+| 11th                                                      | [2000年](../Page/2000年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")                                         | **R-1 (Route One)**                                                            | HOPE                       |
 | 12th                                                      | [2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")                                       | **Long Distance Call**                                                         | Water Business             |
 | Second Hand Jam                                           |                                                                                                                  |                                                                                |                            |
 | [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |                                                                                                                  |                                                                                |                            |
@@ -299,9 +299,9 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
   - LIVE IN NIPPON BUDOKAN 2001〜BAMBOO JOINTS〜（2002年2月21日）
   - No Generation Gap（2004年7月7日）
   - 彩気 Psyche（2005年10月26日）
-  - Amano-Jack Movin’ The documentary on studio work & Live tour of Char （2006年12月13日）
-  - ROCK+EVE LIVE AT NIPPON BUDOKAN (2015年11月27日）
-  - ROCK FREE CONCERT (2015年12月7日）
+  - Amano-Jack Movin’ The documentary on studio work & Live tour of Char（2006年12月13日）
+  - ROCK+EVE LIVE AT NIPPON BUDOKAN（2015年11月27日）
+  - ROCK FREE CONCERT（2015年12月7日）
 
 ### タイアップ曲
 
@@ -309,7 +309,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Touch my love again | [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[どっちの料理ショー](../Page/どっちの料理ショー.md "wikilink")』エンディングテーマ  |
 | Share the wonder    | [maxell](../Page/マクセルホールディングス.md "wikilink") 企業CMソング                                                                                      |
-| R-1(Route One)      | [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")『[アトレーワゴン エアロダウンヒット](../Page/ダイハツ・アトレー.md "wikilink")』CMソング                        |
+| R-1 (Route One)     | [ダイハツ](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")『[アトレーワゴン エアロダウンヒット](../Page/ダイハツ・アトレー.md "wikilink")』CMソング                        |
 | HOPE                | [Jスカイスポーツ](../Page/J_SPORTS.md "wikilink") [2000年サイクルロードレース世界4大会](https://ja.wikipedia.org/wiki/ジャパンカップサイクルロードレース2000 "wikilink") イメージソング |
 | Long Distance Call  | [もしもし、ホットライン](../Page/りらいあコミュニケーションズ.md "wikilink") イメージソング                                                                               |
 | Round Trip          | [ANA機内放送](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")『White Room』テーマソング                                                               |
@@ -320,39 +320,39 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
 ### 参加作品
 
-  - [あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink") 『免許証』（1973年11月10日）『ニコラシカ』（1974年11月10日）『スタートへの出発』（1976年10月5日）
+  - [あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")『免許証』（1973年11月10日）『ニコラシカ』（1974年11月10日）『スタートへの出発』（1976年10月5日）
   - [エルザ](https://ja.wikipedia.org/wiki/エルザ_\(歌手\) "wikilink") 『山猫の唄』（EP・1973年10月25日）
-  - [小坂恭子](../Page/小坂恭子.md "wikilink") 『恭子』(1975年)
+  - [小坂恭子](../Page/小坂恭子.md "wikilink")『恭子』（1975年）
   - [NSP](../Page/NSP_\(バンド\).md "wikilink") 『NSP・2』（1974年3月）『NSP LIVE ぼくらはごきげん』（1975年12月21日）
-  - [山崎ハコ](../Page/山崎ハコ.md "wikilink") 『飛・び・ま・す』（1975年10月1日）
-  - [まりちゃんズ](../Page/まりちゃんズ.md "wikilink")（[藤岡藤巻](../Page/藤岡藤巻.md "wikilink")在籍）『ひがみブルース／※尾崎家の祖母』（EP・1975年）
-  - [とみたいちろう](https://ja.wikipedia.org/wiki/とみたいちろう "wikilink") 『STEP TO MY WAY』（1976年）
-  - [浜田良美](https://ja.wikipedia.org/wiki/浜田良美 "wikilink") 『春秋の章』（1976年）
-  - [パンタ](../Page/パンタ_\(歌手\).md "wikilink") 『PANTA'X WORLD』(1976年4月)
-  - [泉谷しげる](../Page/泉谷しげる.md "wikilink") 『光石の巨人』（1977年6月25日※同年TOURにも参加）
-  - [西慎嗣](https://ja.wikipedia.org/wiki/西慎嗣 "wikilink")（元[スペクトラムのギタリスト](../Page/スペクトラム_\(日本のバンド\).md "wikilink")）『西 慎嗣 & Lord, Lord, Lawdy Miss Clawdy Group』(1980年8月21日）※Keyで参加
-  - [ジョニー吉長](../Page/ジョニー吉長.md "wikilink") 『JOHNNY』(1977年)　『スカイ・ジュース』(1979年)　『LOVE CHILD』(1983年)
-  - [TENSAW](../Page/TENSAW.md "wikilink") 『TENSAW』 （1981年10月）※Keyで参加
-  - [岩崎良美](../Page/岩崎良美_\(歌手\).md "wikilink") 『[心のアトリエ](https://ja.wikipedia.org/wiki/心のアトリエ "wikilink")』（1981年12月）（提供曲「あの時・・・」収録）
-  - [黒住憲五](../Page/黒住憲五.md "wikilink") 『スティル』(1983年)
-  - [アン・ルイス](../Page/アン・ルイス.md "wikilink") 『Heavy Moon』 (1983年3月21日)『Piercer』(1994.11.23)『Lovin’You／銀色の涙（CDS)』(1992.11.21)
-  - [ハルク・ホーガン](../Page/ハルク・ホーガン.md "wikilink") 『一番』（ミニLP）(1983年)
-  - [イースタン・オービット](https://ja.wikipedia.org/wiki/イースタン・オービット "wikilink") 『ジャーニー・トゥ・ユートピア（LIVE）』(1983年)
-  - [樋口宗孝](../Page/樋口宗孝.md "wikilink") 『ディストラクション 〜破壊凱旋録〜』（1983年）
-  - [中島優貴](https://ja.wikipedia.org/wiki/中島優貴 "wikilink") 『インスパイア』(1984年)
-  - [山本達彦](../Page/山本達彦.md "wikilink") 『MUSIC』(1984年)
-  - [吉川晃司](../Page/吉川晃司.md "wikilink") 『[INNOCENT SKY](../Page/INNOCENT_SKY.md "wikilink")』(1985年4月)
-  - [村上里佳子](https://ja.wikipedia.org/wiki/村上里佳子 "wikilink") 『ZEN-ZEN』(1986年)
-  - [鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink") 『STIMULUS』(1986年)
-  - [中川勝彦](../Page/中川勝彦.md "wikilink") 『MAJI-MAGIC』(1987年)（バック・バンドMAJI-MAGICとしてTOURにも参加）
-  - [祭囃子〜ゲームトリビュート](https://ja.wikipedia.org/wiki/祭囃子〜ゲームトリビュート "wikilink")(コンピュータゲーム20周記念コンピレーションアルバム) スペースインベーダー〜再来（作曲・編曲・演奏）　(1998年5月21日)
+  - [山崎ハコ](../Page/山崎ハコ.md "wikilink")『飛・び・ま・す』（1975年10月1日）
+  - [まりちゃんズ](../Page/まりちゃんズ.md "wikilink")（[藤岡藤巻](../Page/藤岡藤巻.md "wikilink")在籍）『ひがみブルース / ※尾崎家の祖母』（EP・1975年）
+  - [とみたいちろう](https://ja.wikipedia.org/wiki/とみたいちろう "wikilink")『STEP TO MY WAY』（1976年）
+  - [浜田良美](https://ja.wikipedia.org/wiki/浜田良美 "wikilink")『春秋の章』（1976年）
+  - [パンタ](../Page/パンタ_\(歌手\).md "wikilink") 『PANTA'X WORLD』（1976年4月）
+  - [泉谷しげる](../Page/泉谷しげる.md "wikilink")『光石の巨人』（1977年6月25日※同年TOURにも参加）
+  - [西慎嗣](https://ja.wikipedia.org/wiki/西慎嗣 "wikilink")（元[スペクトラムのギタリスト](../Page/スペクトラム_\(日本のバンド\).md "wikilink")）『西 慎嗣 & Lord, Lord, Lawdy Miss Clawdy Group』（1980年8月21日）※Keyで参加
+  - [ジョニー吉長](../Page/ジョニー吉長.md "wikilink") 『JOHNNY』（1977年）『スカイ・ジュース』（1979年）『LOVE CHILD』（1983年）
+  - [TENSAW](../Page/TENSAW.md "wikilink")『TENSAW』（1981年10月）※ Keyで参加
+  - [岩崎良美](../Page/岩崎良美_\(歌手\).md "wikilink")『[心のアトリエ](https://ja.wikipedia.org/wiki/心のアトリエ "wikilink")』（1981年12月）（提供曲「あの時・・・」収録）
+  - [黒住憲五](../Page/黒住憲五.md "wikilink")『スティル』（1983年）
+  - [アン・ルイス](../Page/アン・ルイス.md "wikilink") 『Heavy Moon』（1983年3月21日）『Piercer』（1994年11月23日）『Lovin’You / 銀色の涙 (CDS)』（1992年11月21日）
+  - [ハルク・ホーガン](../Page/ハルク・ホーガン.md "wikilink")『一番』（ミニLP）（1983年）
+  - [イースタン・オービット](https://ja.wikipedia.org/wiki/イースタン・オービット "wikilink")『ジャーニー・トゥ・ユートピア (LIVE)』（1983年）
+  - [樋口宗孝](../Page/樋口宗孝.md "wikilink")『ディストラクション 〜破壊凱旋録〜』（1983年）
+  - [中島優貴](https://ja.wikipedia.org/wiki/中島優貴 "wikilink")『インスパイア』（1984年）
+  - [山本達彦](../Page/山本達彦.md "wikilink")『MUSIC』（1984年）
+  - [吉川晃司](../Page/吉川晃司.md "wikilink")『[INNOCENT SKY](../Page/INNOCENT_SKY.md "wikilink")』（1985年4月）
+  - [村上里佳子](https://ja.wikipedia.org/wiki/村上里佳子 "wikilink")『ZEN-ZEN』（1986年）
+  - [鳴瀬喜博](../Page/鳴瀬喜博.md "wikilink")『STIMULUS』（1986年）
+  - [中川勝彦](../Page/中川勝彦.md "wikilink")『MAJI-MAGIC』（1987年）（バック・バンドMAJI-MAGICとしてTOURにも参加）
+  - [祭囃子〜ゲームトリビュート](https://ja.wikipedia.org/wiki/祭囃子〜ゲームトリビュート "wikilink")（コンピュータゲーム20周記念コンピレーションアルバム）スペースインベーダー〜再来（作曲・編曲・演奏）（1998年5月21日）
   - [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink")『Lana』（2004年6月16日）
   - [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink") 『FEAT A.I』（2004年12月1日）
-  - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink") (2005年1月22日)
-  - [米米CLUB](../Page/米米CLUB.md "wikilink") 『[E-ヨ](../Page/E-ヨ.md "wikilink")』（2006年8月23日）
-  - [布袋寅泰](../Page/布袋寅泰.md "wikilink") 『[SOUL SESSIONS](https://ja.wikipedia.org/wiki/SOUL_SESSIONS "wikilink")』（2006年12月6日)
-  - [E.D.O](https://ja.wikipedia.org/wiki/E.D.O "wikilink") 『カミヒコウキ meets. Char』（2008年5月14日）
-  - [押尾コータロー](../Page/押尾コータロー.md "wikilink") 『[You & Me](https://ja.wikipedia.org/wiki/You_%26_Me_\(押尾コータローのアルバム\) "wikilink")』（2008年10月1日）
+  - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")（2005年1月22日）
+  - [米米CLUB](../Page/米米CLUB.md "wikilink")『[E-ヨ](../Page/E-ヨ.md "wikilink")』（2006年8月23日）
+  - [布袋寅泰](../Page/布袋寅泰.md "wikilink")『[SOUL SESSIONS](https://ja.wikipedia.org/wiki/SOUL_SESSIONS "wikilink")』（2006年12月6日)
+  - [E.D.O](https://ja.wikipedia.org/wiki/E.D.O "wikilink")『カミヒコウキ meets. Char』（2008年5月14日）
+  - [押尾コータロー](../Page/押尾コータロー.md "wikilink")『[You & Me](https://ja.wikipedia.org/wiki/You_%26_Me_\(押尾コータローのアルバム\) "wikilink")』（2008年10月1日）
 
 ## 出演
 
@@ -361,7 +361,7 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 ### 音楽番組
 
   - [Char meets ???? 〜TALKING GUITARS〜](../Page/Char_meets_????_〜TALKING_GUITARS〜.md "wikilink")（[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")）
-  - TOKYO SESSION –ROCKIN’GAMBLER– 第九夜（2019年3月17日、フジテレビNEXT)\[8\]
+  - TOKYO SESSION -ROCKIN’GAMBLER- 第九夜（2019年3月17日、フジテレビNEXT)\[8\]
 
 ### テレビドラマ
 
@@ -369,9 +369,9 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
 #### ラジオ
 
-  - Mam,Dad,Jam\!（[J-WAVE](../Page/J-WAVE.md "wikilink")）
+  - Mam,Dad,Jam\! ([J-WAVE](../Page/J-WAVE.md "wikilink"))
   - [FMフェスティバル](../Page/FMフェスティバル.md "wikilink") Vodafone LOCK ON ROCK FM Festival（[2005年](../Page/2005年.md "wikilink") - [2006年](../Page/2006年.md "wikilink") [JFN](../Page/全国FM放送協議会.md "wikilink")）
-  - TRAD ROCK（[FM COCOLO](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink")）
+  - TRAD ROCK ([FM COCOLO](https://ja.wikipedia.org/wiki/関西インターメディア "wikilink"))
 
 ### CM
 
@@ -382,17 +382,20 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
   - [ミネラルウォーター](../Page/ミネラルウォーター.md "wikilink")[エビアンのCFイメージソングを担当](../Page/エビアン_\(ミネラルウォーター\).md "wikilink")（『Water Business』とMustangによる演奏のアルバム未収録インスト曲）
   - [富士通](../Page/富士通.md "wikilink")のパソコンFMVシリーズ（ [木村拓哉](../Page/木村拓哉.md "wikilink")（[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")）、[岸部一徳](../Page/岸部一徳.md "wikilink")（[ベース](../Page/エレクトリックベース.md "wikilink")）の3人でのジャムセッションを披露）
-  - [メルシャン](../Page/メルシャン.md "wikilink") 「STING」(CF曲『AMANO-JACK』）
+  - [メルシャン](../Page/メルシャン.md "wikilink") 「STING」（CF曲『AMANO-JACK』）
   - [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink") サンパクト（ナレーション）
   - [ソニー](../Page/ソニー.md "wikilink") [VAIO](../Page/VAIO.md "wikilink") type C
-  - [はるやま商事](../Page/はるやま商事.md "wikilink")（[唐沢寿明](../Page/唐沢寿明.md "wikilink")出演のCM曲(No Generation Gap, Char feat. AI,)を担当）
+  - [はるやま商事](../Page/はるやま商事.md "wikilink")（[唐沢寿明](../Page/唐沢寿明.md "wikilink")出演のCM曲 (No Generation Gap, Char feat. AI) を担当）
   - [サッポロビール](../Page/サッポロビール.md "wikilink")「サッポロ生ビール 黒ラベル」
   - [大和証券グループ](https://ja.wikipedia.org/wiki/大和証券グループ "wikilink")「PLAYING FOR CHANGE シリーズ」（Sittin' On The Dock Of The Bayをリレー形式で弾き語り）
-  - [JR東海](../Page/東海旅客鉄道.md "wikilink") 2013 秋 CM「そうだ 京都、行こう。」(「My Favorite Things」を編曲、演奏)
-  - 日本ヒューレット・パッカード株式会社 Love PC, Love HP.キャンペーン　（書下ろしCF曲提供)
-  - [横浜ゴム](../Page/横浜ゴム.md "wikilink")　PRGR（プロギア）クラブシリーズ「iD nabla RS」イメージキャラクター：書下ろしCM曲提供(change)
+  - [JR東海](../Page/東海旅客鉄道.md "wikilink") 2013 秋 CM「そうだ 京都、行こう。」（「My Favorite Things」を編曲、演奏）
+  - 日本ヒューレット・パッカード株式会社 Love PC, Love HP.キャンペーン（書下ろしCF曲提供）
+  - [横浜ゴム](../Page/横浜ゴム.md "wikilink") PRGR（プロギア）クラブシリーズ「iD nabla RS」イメージキャラクター：書下ろしCM曲提供 (change)
 
-　　CFにも出演
+<!-- end list -->
+
+  -
+    CFにも出演
 
 ## 脚注
 
@@ -411,20 +414,19 @@ Charは、当時[エレックレコード所属アーティストのレコーデ
 
   - [ZICCA.net:Char 公式サイト](https://top.zicca.net/)
   - [ESP・Navigator](https://espguitars.co.jp/artist/char/)  - （Char・model発売元guitar・maker）
-  - [旧　公式サイト（ユニバーサルミュージック）](https://www.universal-music.co.jp/char/)
+  - [旧 公式サイト（ユニバーサルミュージック）](https://www.universal-music.co.jp/char/)
   - [MOTTAINAI Lab](https://mottainai-lab.exblog.jp/i18/)（研究員メンバーとして参加。MOTTAINAIブログ）
 
 [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1955年生](https://ja.wikipedia.org/wiki/Category:1955年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [星新一公式サイト 寄せ書き Char「First-magnitude star」](http://www.hoshishinichi.com/note/26.html)
-2.  [週刊朝日](../Page/週刊朝日.md "wikilink")1978年6月30日号 p142-145「いま女の子に騒がれているロック御三家のカクメイ的音楽性」
+2.  [週刊朝日](../Page/週刊朝日.md "wikilink")1978年6月30日号 pp.142-145「いま女の子に騒がれているロック御三家のカクメイ的音楽性」
 3.
 4.
 5.  <http://www.fender.jp/topics/news/000860.php>
-6.  この件については[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月3日](../Page/6月3日.md "wikilink")に放送されたTV[音楽番組](../Page/音楽番組.md "wikilink")『[THE M](https://ja.wikipedia.org/wiki/THE_M "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）にて「浪漫飛行 制作秘話」的な再現VTRが流され、
-    ～メロディーが浮かんだ石井はCharに曲を聴いてもらうため、自宅を訪問
-    石井：「米米には合わないかな？」　Char：「今の米米にはこういう曲も必要なんじゃないの？」
-    そして歌メロの　～WOW WOW～は　Charアイディアだった～とも語られた。石井は後からココに歌詞をつけるつもりだったが、
-    「そのまんまでいいや。」とそのままにした～とも語られていた。
+6.  この件については[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月3日](../Page/6月3日.md "wikilink")に放送されたTV[音楽番組](../Page/音楽番組.md "wikilink")『[THE M](https://ja.wikipedia.org/wiki/THE_M "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）にて「浪漫飛行 制作秘話」的な再現VTRが流され、～メロディーが浮かんだ石井はCharに曲を聴いてもらうため、自宅を訪問
+    石井：「米米には合わないかな？」
+    Char：「今の米米にはこういう曲も必要なんじゃないの？」
+    そして歌メロの～WOW WOW～はCharアイディアだった～とも語られた。石井は後からココに歌詞をつけるつもりだったが、「そのまんまでいいや。」とそのままにした～とも語られていた。
 7.
 8.

@@ -329,7 +329,7 @@ L'Arc〜en〜Cielではベーシストであり、メインコンポーザーの
   - 8月21日、幕張メッセ展示場4-6で行われたライヴイベント「JACK IN THE BOX 2010 SUMMER」に出演。
   - 9月18日、西川貴教主催によるロック・フェスティバル「[イナズマロックフェス 2010](https://ja.wikipedia.org/wiki/イナズマロックフェス#2010 "wikilink")」に出演。
   - 9月21日、ライヴイベント「B-PASS創刊25周年ライヴ・フェスティバル」に出演。
-  - 11月10日、8thシングル「[lonely girl](https://ja.wikipedia.org/wiki/lonely_girl "wikilink")」発売。
+  - 11月10日、8thシングル「[lonely girl](https://ja.wikipedia.org/wiki/lonely_girl_\(TETSUYAの曲\) "wikilink")」発売。
   - 12月15日、ライヴビデオ『[FIRST TOUR 2010 ルーレットを回せ\! 〜LIVE & DOCUMENTARY FILMS〜](https://ja.wikipedia.org/wiki/FIRST_TOUR_2010_ルーレットを回せ!_〜LIVE_&_DOCUMENTARY_FILMS〜 "wikilink")』発売。
 
 **2011年**
@@ -507,7 +507,7 @@ KSCL-1629</p></td>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2010年11月10日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/lonely_girl" title="wikilink">lonely girl</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/lonely_girl_(TETSUYAの曲)" title="wikilink">lonely girl</a></strong></p></td>
 <td><p>CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a><br />
 12cmCD</p></td>
 <td><p>KSCL-1690~1691<br />
@@ -1614,7 +1614,7 @@ tae</p></td>
   - 事務所に所属する前のアマチュアの頃は、自宅のワンルームに電話回線を別に引き[私書箱](../Page/私書箱.md "wikilink")を借り、「L'Arc〜en〜Ciel コンタクト」という名でバンドのマネジメントを自身の手で行っていた\[76\]。tetsuya本人がスタッフのふりをして電話応対し、ライブのブッキング等を行っていた\[77\]。後に所属することとなるデンジャークルー（現：[マーヴェリック・ディー・シー・グループ](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")）とのやり取りもtetsuya自身が行っており、事務所代表の大石征裕は「その頃から"バンドを自分たちで運営する"という体制作りのことをちゃんと考えていたのだと思う\[78\]」と述べている。また、[ブランディング](https://ja.wikipedia.org/wiki/ブランディング "wikilink")の観点から、自作したライブのチラシやフライヤーをバンドのメンバーが直接配布することは避けていたという\[79\]。
   - 「[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")」や「[STAY AWAY](../Page/STAY_AWAY.md "wikilink")」の[コーラスワークなどから判るように](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、音域はかなり高い。4thアルバム『[True](https://ja.wikipedia.org/wiki/True "wikilink")』に収録されている「[Dearest Love](https://ja.wikipedia.org/wiki/True_\(L'Arc〜en〜Cielのアルバム\)#収録曲 "wikilink")」では、高音の[ファルセット](../Page/ファルセット.md "wikilink")コーラスを聴くことが出来る（最高音はhihiA）。L'Arc〜en〜Cielのレコーディングでtetsuyaのコーラスが使い始められたのは、[1996年](../Page/1996年.md "wikilink")発売のシングル「[風にきえないで](../Page/風にきえないで.md "wikilink")」以降で、それ以前は、[CD](../Page/コンパクトディスク.md "wikilink")[音源](../Page/音源.md "wikilink")のコーラスはhydeが担当していた。
   - L'Arc〜en〜Cielの[ライヴ](https://ja.wikipedia.org/wiki/ライヴ "wikilink")のMCでは「俺のバナナが食べたいかー\!」と言って[バナナ](https://ja.wikipedia.org/wiki/バナナ "wikilink")を客席に投げるパフォーマンスが恒例になっている。投げられるバナナには、tetsuya考案のオリジナルキャラクター「MUKIMPO（読み：ムキンポ）」の[ステッカーが貼られており](../Page/シール.md "wikilink")、キャラクターグッズもライブグッズとして販売されている。バナナ以外では[マンゴー](../Page/マンゴー.md "wikilink")、[ズッキーニ](../Page/ズッキーニ.md "wikilink")、[茄子](../Page/ナス.md "wikilink")、[ニンジン](../Page/ニンジン.md "wikilink")、[エリンギ](../Page/エリンギ.md "wikilink")、時には[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")型の[ビーチボール](https://ja.wikipedia.org/wiki/ビーチボール "wikilink")を投げたこともある。
-  - 漫画家の[矢沢あい](../Page/矢沢あい.md "wikilink")と親交があり、『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』への参加の他に、漫画『[NANA](../Page/NANA.md "wikilink")』にも名前だけではあるが登場する。また、シングル「[lonely girl](https://ja.wikipedia.org/wiki/lonely_girl "wikilink")」では矢沢が作詞を担当している。
+  - 漫画家の[矢沢あい](../Page/矢沢あい.md "wikilink")と親交があり、『[LOVE for NANA 〜Only 1 Tribute〜](../Page/LOVE_for_NANA_〜Only_1_Tribute〜.md "wikilink")』への参加の他に、漫画『[NANA](../Page/NANA.md "wikilink")』にも名前だけではあるが登場する。また、シングル「[lonely girl](https://ja.wikipedia.org/wiki/lonely_girl_\(TETSUYAの曲\) "wikilink")」では矢沢が作詞を担当している。
   - 私生活では2007年末に[酒井彩名](../Page/酒井彩名.md "wikilink")と結婚。酒井との間には2014年に長男、2016年に長女が誕生している。また、2歳ずつ年の離れた妹が2人いる。
 
 ## 参考文献

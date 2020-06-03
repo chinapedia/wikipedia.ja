@@ -1,7 +1,7 @@
 > この記事は[TUBE](https://ja.wikipedia.org/wiki/TUBE)から翻訳されています。
 
 
-**TUBE**（チューブ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")にデビューした日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、所属事務所は[ホワイトミュージック](../Page/ぐあんばーる.md "wikilink")（個人事務所、[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")のグループ会社）、公式ファンクラブは「チューブライダース」。音楽制作は2020年頃まで[ビーイング](../Page/ビーイング.md "wikilink")グループのZAIN PRODUCTSが担当していた。
+**TUBE**（チューブ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")にデビューした日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、所属事務所は[ホワイトミュージック](../Page/ぐあんばーる.md "wikilink")（個人事務所、[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")のグループ会社）、公式ファンクラブは「チューブライダース」。音楽制作は2008年頃まで[ビーイング](../Page/ビーイング.md "wikilink")グループのZAIN PRODUCTSが担当していた。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 1985年に行われた神奈川県逗子でのライブから33年間、毎年ライブを開催している（基本的には春に行われるホールツアー、夏に行われるスタジアムツアー）。
 
-なお、ビーイング系のグループとしてデビューし、2008年頃までは音楽制作はビーインググループの「ZAIN PRODUCTS」が担当していたが、デビュー時期の関係からか所属レーベルはビーイング系ではなく[ソニー系で](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、ソニー以外のレーベルへの移籍は一度もしていない（ビーイング系レーベル所属者への楽曲提供はある）。2014年現在のレーベルは[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。
+なお、ビーイング系のグループとしてデビューし、2008年頃までは音楽制作はビーインググループの「ZAIN PRODUCTS」が担当していたが、2009年に制作陣を一新して以降はビーイング系の制作陣の参加が無くなった。デビュー時期の関係からか所属レーベルはビーイング系ではなく[ソニー系で](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、ソニー以外のレーベルへの移籍は一度もしていない（ビーイング系レーベル所属者への楽曲提供はある）。1991年にCBSソニーがソニーに変わり、2001年にはレーベル内の[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")へと移動した。
 
 彼らのデビュー日にちなんで、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")では[2000年](../Page/2000年.md "wikilink")から[6月1日](../Page/6月1日.md "wikilink")を「**[TUBE DAY](https://ja.wikipedia.org/wiki/TUBE_DAY "wikilink")**」と定めている。制定された時、デビュー15周年を記念して、ハワイでアジア人としては初の[アロハ・スタジアム](../Page/アロハ・スタジアム.md "wikilink")でライブを行った。その後も毎年同日か、または同日直後の週末にイベント（ミニライブなど）を行っており、[2005年](../Page/2005年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")には、[ワイキキ](../Page/ワイキキ.md "wikilink")の中心にあるアメリカ陸軍保留地、フォート・デ・ルーシーで野外コンサートを行った。
 
@@ -178,7 +178,7 @@
 <!-- end list -->
 
   - [5月12日](../Page/5月12日.md "wikilink") - 16thシングル「[夏を待ちきれなくて](../Page/夏を待ちきれなくて.md "wikilink")」リリース。初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。出荷枚数は90万枚を突破した。（初動売り上げは12.9万枚）
-  - [5月15日](../Page/5月15日.md "wikilink") - [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[開幕戦の](../Page/1993年Jリーグ開幕節.md "wikilink")[横浜マリノスvs](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[ヴェルディ川崎戦](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")（国立競技場）にて前田が国歌斉唱、春畑がJリーグのオフィシャルテーマソング「J'S THEME」をピッチで披露した。
+  - [5月15日](../Page/5月15日.md "wikilink") - [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[開幕戦の](../Page/1993年Jリーグ開幕節.md "wikilink")[横浜マリノスvs](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[ヴェルディ川崎戦](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")（国立競技場）にて前田が国歌独唱、春畑がJリーグのオフィシャルテーマソング「J'S THEME」をピッチで披露した。
   - [6月18日](../Page/6月18日.md "wikilink") - 13thアルバム「[浪漫の夏](https://ja.wikipedia.org/wiki/浪漫の夏 "wikilink")」をリリース、前作同様ミリオンヒットを記録し、この頃からはTUBEのアルバムが恒例のようにミリオンヒットを記録する。
   - [7月1日](../Page/7月1日.md "wikilink") - 17thシングル「[だって夏じゃない](../Page/だって夏じゃない.md "wikilink")」リリース。2作連続となるオリコンチャート1位を獲得。
   - [12月31日](../Page/12月31日.md "wikilink") - 『[第44回NHK紅白歌合戦](../Page/第44回NHK紅白歌合戦.md "wikilink")』に出場し、「夏を待ちきれなくて」を歌唱。初の紅白歌合戦出場となった。
@@ -1314,6 +1314,7 @@
 | 31st  | [2011年](../Page/2011年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")                                     | **[RE-CREATION](https://ja.wikipedia.org/wiki/RE-CREATION "wikilink")**                      | 3位     |
 | 32nd  | [2012年](../Page/2012年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")                                     | **[SUMMER ADDICTION](https://ja.wikipedia.org/wiki/SUMMER_ADDICTION "wikilink")**            |        |
 | 33rd  | [2015年](../Page/2015年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")                                     | **[Your TUBE + My TUBE](https://ja.wikipedia.org/wiki/Your_TUBE+My_TUBE "wikilink")**        | 4位     |
+| 34th  | [2020年](../Page/2020年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")（予定）                | **[日本の夏からこんにちは](https://ja.wikipedia.org/wiki/日本の夏からこんにちは "wikilink")**                      | TBA    |
 
 ###### ミニアルバム
 
@@ -1322,6 +1323,7 @@
 | 1st   | [1992年](../Page/1992年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink") | **[Smile](https://ja.wikipedia.org/wiki/Smile_\(TUBEのアルバム\) "wikilink")**         | 2位  |
 | 2nd   | [1993年](../Page/1993年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") | **[Say Hello](https://ja.wikipedia.org/wiki/Say_Hello_\(TUBEのアルバム\) "wikilink")** | 4位  |
 | 3rd   | [2017年](../Page/2017年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")   | **[sunny day](https://ja.wikipedia.org/wiki/sunny_day_\(TUBEのアルバム\) "wikilink")** | 3位  |
+|       |                                                                          |                                                                                   |     |
 
 ##### ベスト・アルバム
 
@@ -1349,6 +1351,8 @@
 | リリース順 | リリース日                                                                                                        | タイトル                                                                                                                        | 最高位 |
 | ----- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | --- |
 | 1st   | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | **[MIX TUBE-Remixed by Piston Nishizawa-](https://ja.wikipedia.org/wiki/MIX_TUBE-Remixed_by_Piston_Nishizawa- "wikilink")** | 13位 |
+| 2nd   | [2020年](../Page/2020年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")（予定）                                 | **[35年で35曲 “夏と恋” ～夏の数だけ恋したけど～](https://ja.wikipedia.org/wiki/35年で35曲_“夏と恋”_～夏の数だけ恋したけど～ "wikilink")**                       | TBA |
+| 3rd   | **[35年で35曲 “汗と涙” ～涙は心の汗だから～](https://ja.wikipedia.org/wiki/35年で35曲_“汗と涙”_～涙は心の汗だから～ "wikilink")**            |                                                                                                                             |     |
 
 #### その他
 

@@ -79,7 +79,7 @@
   - [藤巻久也](https://ja.wikipedia.org/wiki/藤巻久也 "wikilink")（同　千葉移転初期のころ数試合）
   - [川原恵輔](https://ja.wikipedia.org/wiki/川原恵輔 "wikilink")（千葉移転初期のころ数試合。この他日本ハムが東京ドームを本拠にしていた頃も主管試合担当）
   - [松岡俊道](../Page/松岡俊道.md "wikilink")
-  - [関根信宏](https://ja.wikipedia.org/wiki/関根信宏 "wikilink")（[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink")所属・元[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")アナウンサー）
+  - [関根信宏](https://ja.wikipedia.org/wiki/関根信宏 "wikilink")（[ジョイスタッフ](../Page/ジョイスタッフ.md "wikilink")所属・元[長崎放送](../Page/長崎放送.md "wikilink")アナウンサー）
   - [河田浩兒](../Page/河田浩兒.md "wikilink")
   - [中田秀作](../Page/中田秀作.md "wikilink")（元文化放送アナウンサー）
   - [志生野温夫](../Page/志生野温夫.md "wikilink")

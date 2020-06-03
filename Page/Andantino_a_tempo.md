@@ -22,7 +22,7 @@
 3.  **[Lover My Love](https://ja.wikipedia.org/wiki/心こめて_愛をこめて#収録曲 "wikilink")**（5:30）
       - あみんの3rdシングル「[心こめて 愛をこめて](../Page/心こめて_愛をこめて.md "wikilink")」のB面曲。
 4.  **[ごめんね](https://ja.wikipedia.org/wiki/琥珀色の想い出#収録曲 "wikilink")**（3:43）
-      - あみんの2ndシングル「[琥珀色の想い出](https://ja.wikipedia.org/wiki/琥珀色の想い出 "wikilink")」のB面曲。
+      - あみんの2ndシングル「[琥珀色の想い出](../Page/琥珀色の想い出.md "wikilink")」のB面曲。
 5.  **[潮の香りの中で](https://ja.wikipedia.org/wiki/P.S._あなたへ…#収録曲 "wikilink")**（5:03）
       - あみんのデビュー・アルバム「[P.S. あなたへ…](../Page/P.S._あなたへ….md "wikilink")」収録曲。
 6.  **[あなたへ…](https://ja.wikipedia.org/wiki/P.S._あなたへ…#収録曲 "wikilink")**（4:24）

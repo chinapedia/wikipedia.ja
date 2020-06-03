@@ -102,7 +102,7 @@
 8.  [雨の物語](https://ja.wikipedia.org/wiki/雨の物語 "wikilink")（イルカ）/保田圭
 9.  [中央フリーウェイ](https://ja.wikipedia.org/wiki/14番目の月#Side_A "wikilink")（荒井由実）/矢口真里・メロン記念日
 10. [若者たち](https://ja.wikipedia.org/wiki/若者たち_\(曲\) "wikilink")（[ザ・ブロード・サイド・フォー](https://ja.wikipedia.org/wiki/ブロード・サイド・フォー "wikilink")）/中澤裕子・メロン記念日
-11. [ケメ子の歌](https://ja.wikipedia.org/wiki/ケメ子の歌 "wikilink")（[ザ・ダーツ](https://ja.wikipedia.org/wiki/ザ・ダーツ "wikilink")）/中澤裕子・保田圭・矢口真里・メロン記念日
+11. [ケメ子の歌](../Page/ケメ子の歌.md "wikilink")（[ザ・ダーツ](https://ja.wikipedia.org/wiki/ザ・ダーツ "wikilink")）/中澤裕子・保田圭・矢口真里・メロン記念日
 
 ### FS5〜卒業〜
 

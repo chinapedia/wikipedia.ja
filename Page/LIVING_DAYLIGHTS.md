@@ -5,19 +5,17 @@
 
 ## 概要
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[NBA FAST BREAK](https://ja.wikipedia.org/wiki/NBA_FAST_BREAK "wikilink")」エンディングテーマソング。
+表題曲の「LIVING DAYLIGHTS」は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[NBA FAST BREAK](https://ja.wikipedia.org/wiki/NBA_FAST_BREAK "wikilink")」エンディングテーマ。
 
-そもそもは、漫画『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の作中に[TWO-MIX](../Page/TWO-MIX.md "wikilink")が登場し、事件に巻き込まれるエピソードを原作者の[青山剛昌](../Page/青山剛昌.md "wikilink")が構想、「その事件の謎を解くキーワードを含めた歌詞を書いてくれないか」と永野が依頼され提供。それをTWO-MIXの楽曲として発表するにあたり、歌詞を書き直したものが本作である。
-
-また、当該エピソードが「人気アーティスト誘拐事件」（1997年[11月17日](../Page/11月17日.md "wikilink")・[11月24日](../Page/11月24日.md "wikilink")放送）としてアニメ化されるにあたり、青山氏に提供した歌詞に曲を付けた音源も作成され、実際にアニメ内や、当時TWO-MIXがパーソナリティを務めていたラジオ番組でオンエアされた。なお、本作は「人気アーティスト誘拐事件」の前編と後編の間に発売されている。
-
-本作と[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")版\[1\]は構成や編曲が若干異なっている。デモテープ版は本作発表の約5年後の[2002年](../Page/2002年.md "wikilink")に発売された[CD BOX](https://ja.wikipedia.org/wiki/CD_BOX "wikilink")『TWO-MIX COLLECTION BOX 〜Categorhythm〜』に収録された。
-
-カップリングの「**BREAK**」も「人気アーティスト誘拐事件」の挿入歌で、TWO-MIXのライブシーンに「[WHITE REFLECTION](../Page/WHITE_REFLECTION.md "wikilink")」の[PVと同じ衣装をしたTWO](../Page/ミュージック・ビデオ.md "wikilink")-MIXと[コナンを含めた](../Page/江戸川コナン.md "wikilink")[少年探偵団と一緒に歌っている](../Page/少年探偵団_\(名探偵コナン\).md "wikilink")\[2\]。
-
-アルバム『[FANTASTIX](https://ja.wikipedia.org/wiki/FANTASTIX "wikilink")』では、[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")のベースソロ部分を延長し独立させた「BEAT "BREAK"」と「BREAK」を分けて収録されている他、どちらもシングル版とは若干[ミックス](../Page/ミックス.md "wikilink")が異なっている。また、アルバムの『BEAT "BREAK"』となっている部分の[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")が冒頭の2秒以とアルバムの「BREAK」イントロ前の6秒以外省略され、永野によるタイトルコールが追加され、アルバムの「BREAK」のイントロになっている。
+カップリングの「BREAK」は、[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系全国ネットアニメ](../Page/日本テレビ放送網.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』第82話「人気アーティスト誘拐事件（後編）」の挿入歌で\[1\]、TWO-MIXのライブシーンに「[WHITE REFLECTION](../Page/WHITE_REFLECTION.md "wikilink")」の[PVと同じ衣装をしたTWO](../Page/ミュージック・ビデオ.md "wikilink")-MIXと[コナンを含めた](../Page/江戸川コナン.md "wikilink")[少年探偵団と一緒に歌っている](../Page/少年探偵団_\(名探偵コナン\).md "wikilink")\[2\]。アルバム『[FANTASTIX](https://ja.wikipedia.org/wiki/FANTASTIX "wikilink")』では、[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")のベースソロ部分を延長し独立させた「BEAT "BREAK"」と「BREAK」を分けて収録されている他、どちらもシングル版とは若干[ミックス](../Page/ミックス.md "wikilink")が異なっている。また、アルバムの『BEAT "BREAK"』となっている部分の[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")が冒頭の2秒以とアルバムの「BREAK」イントロ前の6秒以外省略され、[永野椎菜](../Page/永野椎菜.md "wikilink")によるタイトルコールが追加され、アルバムの「BREAK」のイントロになっている。
 
 [8cmCDの規格に収録しきれないため](https://ja.wikipedia.org/wiki/8センチCD "wikilink")、「BREAK」だけ[Original Karaokeではなく](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")、イントロを若干カットした**[Original Instrumental](../Page/器楽曲.md "wikilink")**となっている。
+
+## 制作
+
+漫画『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』の作中に[TWO-MIX](../Page/TWO-MIX.md "wikilink")が登場し、事件に巻き込まれるエピソードを原作者の[青山剛昌](../Page/青山剛昌.md "wikilink")が構想し、「**その事件の謎を解くキーワードを含めた歌詞を書いてくれないか**」と[永野椎菜](../Page/永野椎菜.md "wikilink")のもとに依頼が来たため、楽曲を制作した。それをTWO-MIXの楽曲として発表するにあたり、歌詞を書き直したものが本作である。また、当該エピソードが1997年[11月17日](../Page/11月17日.md "wikilink")\[3\]と[11月24日](../Page/11月24日.md "wikilink")\[4\]に放送された「人気アーティスト誘拐事件」としてアニメ化されるにあたり、青山に提供した歌詞に曲を付けた音源も作成され、実際にアニメ内や、当時TWO-MIXがパーソナリティを務めていたラジオ番組でオンエアされた。なお、本作は「人気アーティスト誘拐事件」の前編と後編の間に発売されている。
+
+本作と[デモテープ](https://ja.wikipedia.org/wiki/デモテープ "wikilink")版\[5\]は構成や編曲が若干異なっている。デモテープ版は本作発表の約5年後の[2002年](../Page/2002年.md "wikilink")に発売された[CD BOX](https://ja.wikipedia.org/wiki/CD_BOX "wikilink")『[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")』に収録された。
 
 ## 収録曲
 
@@ -151,7 +149,14 @@ Orchestra: Les Solistes de Versailles</p></td>
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 [Category:TWO-MIXの楽曲](https://ja.wikipedia.org/wiki/Category:TWO-MIXの楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:楽曲_り](https://ja.wikipedia.org/wiki/Category:楽曲_り "wikilink")
 
-1.  実際にデモテープとして作られたかは不明であるが、作中での扱いがデモテープであった為。
+1.
 2.  漫画版は「[WHITE REFLECTION](../Page/WHITE_REFLECTION.md "wikilink")」が使われている。
+3.
+4.
+5.  実際にデモテープとして作られたかは不明であるが、作中での扱いがデモテープであった為。

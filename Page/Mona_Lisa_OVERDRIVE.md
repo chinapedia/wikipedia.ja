@@ -12,7 +12,6 @@
   - 先行[シングル](../Page/シングル.md "wikilink")「[残骸](https://ja.wikipedia.org/wiki/残骸_\(BUCK-TICKの曲\) "wikilink")」および[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「GIRL」はシングルとバージョンが異なる。
   - [Viewsicで放送された特番でのインタビューによると](../Page/MUSIC_ON!_TV.md "wikilink")、今井には本作の[リミックス](../Page/リミックス.md "wikilink")盤を制作するアイデアがあったようだが、実現はしていない。
   - [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、デビュー30周年を記念し、全曲リマスター・[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")2・紙ジャケット仕様で再発売された\[3\]。
-  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## リリース履歴
 

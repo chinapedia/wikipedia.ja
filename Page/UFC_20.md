@@ -22,7 +22,7 @@
     ○  [ヴァンダレイ・シウバ](../Page/ヴァンダレイ・シウバ.md "wikilink") vs.  トニー・ペテーラ ×
     1R 2:53 KO（右膝蹴り）
   - 第5試合 ヘビー級 15分1R
-    ○  [ピート・ウィリアムス](https://ja.wikipedia.org/wiki/ピート・ウィリアムス "wikilink") vs.  [トラビス・フルトン](https://ja.wikipedia.org/wiki/トラビス・フルトン "wikilink") ×
+    ○  [ピート・ウィリアムス](https://ja.wikipedia.org/wiki/ピート・ウィリアムス "wikilink") vs.  [トラビス・フルトン](../Page/トラビス・フルトン.md "wikilink") ×
     1R 6:28 [アームロック](../Page/アームロック.md "wikilink")
   - 第6試合 ヘビー級 15分1R
     ○  [ペドロ・ヒーゾ](../Page/ペドロ・ヒーゾ.md "wikilink") vs.  [トレイ・テリグマン](../Page/トレイ・テリグマン.md "wikilink") ×

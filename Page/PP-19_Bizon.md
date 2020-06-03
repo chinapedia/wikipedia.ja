@@ -5,7 +5,7 @@
 
 ## 概要
 
-[AK-47](../Page/AK-47.md "wikilink")以来の信頼性の高い機関部に独特の５３発[弾倉](../Page/弾倉.md "wikilink")を装着した特徴を持つ[短機関銃](../Page/短機関銃.md "wikilink")であり、[1993年](../Page/1993年.md "wikilink")にビクトル・カラシニコフ（AKで有名な[ミハイル・カラシニコフ](../Page/ミハイル・カラシニコフ.md "wikilink")の息子）やアレクセイ・ドラグノフ（[ドラグノフ狙撃銃](../Page/ドラグノフ狙撃銃.md "wikilink")の開発者、[エフゲニー・F・ドラグノフ](https://ja.wikipedia.org/wiki/エフゲニー・F・ドラグノフ "wikilink")の息子）らによって開発された。
+[AK-47](../Page/AK-47.md "wikilink")以来の信頼性の高い機関部に独特の64発[弾倉](../Page/弾倉.md "wikilink")を装着した特徴を持つ[短機関銃](../Page/短機関銃.md "wikilink")であり、[1993年](../Page/1993年.md "wikilink")にビクトル・カラシニコフ（AKで有名な[ミハイル・カラシニコフ](../Page/ミハイル・カラシニコフ.md "wikilink")の息子）やアレクセイ・ドラグノフ（[ドラグノフ狙撃銃](../Page/ドラグノフ狙撃銃.md "wikilink")の開発者、[エフゲニー・F・ドラグノフ](https://ja.wikipedia.org/wiki/エフゲニー・F・ドラグノフ "wikilink")の息子）らによって開発された。
 
 なお、愛称のビゾンは[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")で[バイソン](https://ja.wikipedia.org/wiki/バイソン属 "wikilink")（野牛）を意味し、稀に「BISON」と誤記される事もある。
 

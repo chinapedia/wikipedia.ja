@@ -18,7 +18,9 @@
     2R終了 判定3-0
   - 第2試合 ヘビー級 5分2R
     ○  スコット・アダムス vs.  [イアン・フリーマン](../Page/イアン・フリーマン.md "wikilink") ×
-    1R 3:09 [ヒールホールド](../Page/ヒールホールド.md "wikilink")
+    1R 3:09 [ヒールフック](../Page/ヒールホールド.md "wikilink")
+      -
+        実際は[アキレス腱固め](../Page/アキレス腱固め.md "wikilink")である\[1\]。
 
 ### メインカード
 
@@ -48,4 +50,8 @@
   - [バウトレビューによる試合結果](http://www.boutreview.com/fightsspiral/ufc24.html)
   - [SHERDOGによる試合結果](http://www.sherdog.com/events/UFC-24-First-Defense-34)
 
+## 脚注
+
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのルイジアナ州大会](https://ja.wikipedia.org/wiki/Category:UFCのルイジアナ州大会 "wikilink") [Category:2000年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2000年の総合格闘技 "wikilink") [Category:2000年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:2000年のアメリカ合衆国のスポーツ "wikilink") [Category:レイクチャールズ](https://ja.wikipedia.org/wiki/Category:レイクチャールズ "wikilink") [Category:2000年3月](https://ja.wikipedia.org/wiki/Category:2000年3月 "wikilink")
+
+1.

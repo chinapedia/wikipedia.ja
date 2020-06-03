@@ -7,7 +7,7 @@
 
 創刊当初から休刊まで魔法のiらんど単行本という単行本サブレーベルも存在した。
 
-発行は[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")であるが、同社のレーベル・[電撃文庫](../Page/電撃文庫.md "wikilink")と直接の関連性はなく、装丁や[ハードカバー](https://ja.wikipedia.org/wiki/ハードカバー "wikilink")版を並行して刊行する販売方式に見られるように、[ライトノベル](../Page/ライトノベル.md "wikilink")よりは一般文芸に近い位置付けが為されている（ただし、[電撃文庫](../Page/電撃文庫.md "wikilink")でも『[図書館戦争](../Page/図書館戦争.md "wikilink")』などのハードカバー版の発売は存在している）。
+発行は[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")であるが、同社のレーベル・[電撃文庫](../Page/電撃文庫.md "wikilink")と直接の関連性はなく、装丁や[ハードカバー](../Page/ハードカバー.md "wikilink")版を並行して刊行する販売方式に見られるように、[ライトノベル](../Page/ライトノベル.md "wikilink")よりは一般文芸に近い位置付けが為されている（ただし、[電撃文庫](../Page/電撃文庫.md "wikilink")でも『[図書館戦争](../Page/図書館戦争.md "wikilink")』などのハードカバー版の発売は存在している）。
 
 [2018年](../Page/2018年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")以後、刊行されていない。
 
@@ -340,8 +340,8 @@
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/べあ姫" title="wikilink">べあ姫</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Teddy_bear_(小説)" title="wikilink">Teddy bear</a></p></td>
+<td><p><a href="../Page/べあ姫.md" title="wikilink">べあ姫</a></p></td>
+<td><p><a href="../Page/Teddy_bear_(小説).md" title="wikilink">Teddy bear</a></p></td>
 <td><p>2008年3月</p></td>
 <td><p>-</p></td>
 </tr>
@@ -565,7 +565,7 @@
 
 :\*最強オオカミくんのとなり。（2017年11月25日）春川こばと、岬、美那、花子、七星ドミノ - 第2弾テーマ「不良ラブ」
 
-:\*涙の先で君に会いたい（2017年12月25日）[美嘉](../Page/美嘉.md "wikilink")、[べあ姫](https://ja.wikipedia.org/wiki/べあ姫 "wikilink")、[ナナセ](../Page/ナナセ.md "wikilink")、[椿ハナ](https://ja.wikipedia.org/wiki/椿ハナ "wikilink")、結城モカ - 第3弾テーマ「泣けるラブ」
+:\*涙の先で君に会いたい（2017年12月25日）[美嘉](../Page/美嘉.md "wikilink")、[べあ姫](../Page/べあ姫.md "wikilink")、[ナナセ](../Page/ナナセ.md "wikilink")、[椿ハナ](https://ja.wikipedia.org/wiki/椿ハナ "wikilink")、結城モカ - 第3弾テーマ「泣けるラブ」
 
 :\*本当の恋を教えてやる（2018年1月25日）ココア\*、ユウ、藤崎りく、一宮梨華、水月まこと - 第4弾テーマ「大人ラブ」
 

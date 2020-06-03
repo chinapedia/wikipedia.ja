@@ -44,6 +44,7 @@
   - [ザック・セイバー・ジュニア](https://ja.wikipedia.org/wiki/ザック・セイバー・ジュニア "wikilink") - **ザック・ドライバー**の名称で使用。
   - [バイパー](https://ja.wikipedia.org/wiki/バイパー_\(プロレスラー\) "wikilink")
   - [MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")
+  - [ケビン・オーエンズ](https://ja.wikipedia.org/wiki/ケビン・スティーン "wikilink")
 
 ## 派生技
 

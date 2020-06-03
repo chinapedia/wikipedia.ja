@@ -8,7 +8,7 @@
 DAST はジエチルアミノトリメチルシランと[四フッ化硫黄](https://ja.wikipedia.org/wiki/四フッ化硫黄 "wikilink")を低温で反応させて調製する\[1\]。
 
   -
-    <ce>Et2NSiMe3\\ + SF4 -\> Et2NSF3\\ + Me3SiF</ce>
+    <chem>Et2NSiMe3\\ + SF4 -\> Et2NSF3\\ + Me3SiF</chem>
 
 ## 用途
 
@@ -17,13 +17,13 @@ DAST の反応性は四フッ化硫黄に似る。
 [アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")をフッ化アルキルに変換する。
 
   -
-    <ce>R-OH\\ + DAST -\> R-F</ce>
+    <chem>R-OH\\ + DAST -\> R-F</chem>
 
 [ケトン](../Page/ケトン.md "wikilink")や[アルデヒド](../Page/アルデヒド.md "wikilink")を二フッ化物に変える。
 
   -
-    <ce>RC(=O)R'\\ + DAST -\> RCF2R'</ce>
-    <ce>RCHO\\ + DAST -\> RCHF2</ce>
+    <chem>RC(=O)R'\\ + DAST -\> RCF2R'</chem>
+    <chem>RCHO\\ + DAST -\> RCHF2</chem>
 
 ## 用途
 

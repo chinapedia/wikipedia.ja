@@ -19,6 +19,8 @@ BTR-50は、[ソビエト連邦軍](../Page/ソビエト連邦軍.md "wikilink")
 
 ## 派生型
 
+### ソ連仕様
+
   - BTR-50P
     初期型。兵員区画は屋根の無いオープントップであり、固定武装はない。
   - BTR-50PA
@@ -35,25 +37,37 @@ BTR-50は、[ソビエト連邦軍](../Page/ソビエト連邦軍.md "wikilink")
     [装甲工兵車](https://ja.wikipedia.org/wiki/戦闘工兵車 "wikilink")。
   - MTK
     爆導索付きの[ロケットランチャーを使用した](../Page/ロケット砲.md "wikilink")、[地雷](https://ja.wikipedia.org/wiki/地雷 "wikilink")処理車輌。
-  - BTR-50 MEV
-    南レバノン軍でBTR-50PKから改造された、装甲野戦救急車。車体前部に昇降用のドアが設置されている。
   - オブイェークト914
     試作[歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")。
+
+#### セルビア
+
   - BTR-50S
     セルビアの防衛企業Yugoimport SPDRが提案したBTR-50PKの近代化改修プランであり、30mm[機関砲](../Page/機関砲.md "wikilink")と7.62mm Zastava M86[機関銃](../Page/機関銃.md "wikilink")（[PK汎用機関銃の](../Page/PK_\(機関銃\).md "wikilink")[ライセンス生産](../Page/ライセンス生産.md "wikilink")品）、4連装[スモークディスチャージャー](https://ja.wikipedia.org/wiki/発煙弾発射機 "wikilink")、[9M14マリュートカ](../Page/9M14_\(ミサイル\).md "wikilink")（AT-3サガー）[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")発射器2基を搭載したユーゴスラビア製[M-80歩兵戦闘車の](https://ja.wikipedia.org/wiki/BVP_M-80 "wikilink")[砲塔](../Page/砲塔.md "wikilink")を追加搭載することによって、大幅な武装強化を行う。開発時の名称は BTR-50PK Yugoimport SDPR upgrade package 。
+
+#### チェコスロバキア
+
   - OT-62 A/B/C (TOPAS)
     [チェコスロバキア](../Page/チェコスロバキア.md "wikilink")及び[ポーランド](../Page/ポーランド.md "wikilink")で製造されたBTR-50のライセンス生産型。オリジナルと違って側面ドアが存在するのが最大の特徴。
 
-<!-- end list -->
+#### 中国
 
-  - WPT-TOPAS
-    TOPAS2を基にした装甲回収車。ポーランド軍が運用。
   - 77式水陸両用装甲車
     [中華人民共和国](../Page/中華人民共和国.md "wikilink")が、[PT-76](../Page/PT-76.md "wikilink")の独自改良型である[63式水陸両用戦車](../Page/63式水陸両用戦車.md "wikilink")を基に製造した型で、デザインはよく似ているが厳密にはBTR-50のクローンではない。
   - 77-1式
     水陸両用式の兵員輸送/火砲運搬用装甲車であり、屋根の上に牽引式火砲（85mm[対戦車砲](../Page/対戦車砲.md "wikilink")、もしくは120mm[榴弾砲](../Page/榴弾砲.md "wikilink")）を搭載する。火砲の搭載及び揚陸用の液圧式ウインチとランプを備える。
   - 77-2式
     水陸両用式[装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")。火砲の搭載機能はなく、ウインチとランプもない。
+
+#### ポーランド
+
+  - WPT-TOPAS
+    TOPAS2を基にした装甲回収車。ポーランド軍が運用。
+
+#### レバノン
+
+  - BTR-50 MEV
+    南レバノン軍でBTR-50PKから改造された、装甲野戦救急車。車体前部に昇降用のドアが設置されている。
 
 {{-}}
 

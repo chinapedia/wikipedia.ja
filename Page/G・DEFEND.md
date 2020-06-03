@@ -5,7 +5,7 @@
 
 ## 概要
 
-[冬水社](../Page/冬水社.md "wikilink")の[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『Racish』にて[1993年](../Page/1993年.md "wikilink")より連載開始。[2001年](../Page/2001年.md "wikilink")に後継誌となる『[いち＊ラキ](../Page/いち*ラキ.md "wikilink")』に移籍。
+[冬水社](../Page/冬水社.md "wikilink")の[漫画雑誌](../Page/漫画雑誌.md "wikilink")『Racish』にて[1993年](../Page/1993年.md "wikilink")より連載開始。[2001年](../Page/2001年.md "wikilink")に後継誌となる『[いち＊ラキ](../Page/いち*ラキ.md "wikilink")』に移籍。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月24日の第9巻発売後、一旦連載を中断。替わって連載開始した作者が手がける別作品『[仁獣芳烈伝](https://ja.wikipedia.org/wiki/仁獣芳烈伝 "wikilink")』の完結後に、『G・DEFEND』の連載を再開。 [2007年](../Page/2007年.md "wikilink")4月20日の第31巻発売の後、再び連載を中断。同様に森本秀の別作品『[アスタリスク](https://ja.wikipedia.org/wiki/アスタリスク_\(漫画\) "wikilink")』の連載が開始されたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月20日発売の同年4月号より『G・DEFEND』の連載を再開。
 
@@ -274,7 +274,7 @@
 ### その他の人物
 
   - 赤井 陽典（あかい あきのり）
-    紫乃と紫茉の同級生であり、紫乃が初めて好きになった人。[急性骨髄性白血病](https://ja.wikipedia.org/wiki/急性骨髄性白血病 "wikilink")で死亡。
+    紫乃と紫茉の同級生であり、紫乃が初めて好きになった人。[急性骨髄性白血病](../Page/急性骨髄性白血病.md "wikilink")で死亡。
   - 緒方 磨巳爾（おがた まなみ）
     大企業の息子 。晋の恋人。現在、東京で同棲中。
   - ノア・フォード

@@ -44,7 +44,7 @@
   - 1stシングル「[待つわ](../Page/待つわ.md "wikilink")」　M-5・6
   - 5thシングル「[ひまわり／待つわ'07](https://ja.wikipedia.org/wiki/ひまわり/待つわ'07 "wikilink")」　M-1・5
   - あみん1stアルバム「[P.S. あなたへ・・・](../Page/P.S._あなたへ….md "wikilink")」　M-5
-  - あみん作品集「[P.P.S. あなたへ・・・](https://ja.wikipedia.org/wiki/P.P.S._あなたへ… "wikilink")」　M-5・6
+  - あみん作品集「[P.P.S. あなたへ・・・](../Page/P.P.S._あなたへ….md "wikilink")」　M-5・6
   - 岡村孝子 32ndシングル「[銀色の少女](../Page/銀色の少女.md "wikilink")」　M-10
   - 岡村孝子 「[Andantino a tempo](../Page/Andantino_a_tempo.md "wikilink")」　M-6
   - 岡村孝子 「[After Tone](../Page/After_Tone.md "wikilink")」　M-6
@@ -54,7 +54,7 @@
 
 ## 関連項目
 
-  - [ヤマハポピュラーソングコンテスト](https://ja.wikipedia.org/wiki/ヤマハポピュラーソングコンテスト "wikilink")
+  - [ヤマハポピュラーソングコンテスト](../Page/ヤマハポピュラーソングコンテスト.md "wikilink")
   - [SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")　（[NHKの音楽番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
   - [クリスマスの音楽一覧](../Page/クリスマスの音楽一覧.md "wikilink")
 

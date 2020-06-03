@@ -611,7 +611,7 @@
 
 ## 外部リンク
 
-  - [キューティーハニー THE LIVE 公式サイト](http://www.tv-tokyo.co.jp/anime/honey-thelive/)
+  - [キューティーハニー THE LIVE 公式サイト](https://www.tv-tokyo.co.jp/anime/honey-thelive/)
   - [キューティーハニー THE LIVE 特報](http://www.ocn.ne.jp/game/og/14-hangyaku/press.html)
   - [キューティーハニー THE LIVE 特集](http://www.dot-anime.com/feature/027.html)
 

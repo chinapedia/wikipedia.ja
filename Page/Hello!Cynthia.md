@@ -26,7 +26,7 @@
 2.  **バースデイ・トゥデイ**
       - 作詞・作曲：つのだひろ
 3.  **第三者**
-      - 作詞: [中里綴](https://ja.wikipedia.org/wiki/中里綴 "wikilink")、作曲: [梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")
+      - 作詞: [中里綴](https://ja.wikipedia.org/wiki/中里綴 "wikilink")、作曲: [梅垣達志](../Page/梅垣達志.md "wikilink")
 4.  **船乗りジミー**
       - 作詞・作曲: つのだひろ
 5.  **[街角のラブソング](../Page/街角のラブソング.md "wikilink")**

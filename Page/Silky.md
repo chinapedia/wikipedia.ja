@@ -17,7 +17,7 @@
   - 一筆入婚\!（[高田りえ](../Page/高田りえ.md "wikilink")）
   - [おいしいオット・ライフ](https://ja.wikipedia.org/wiki/おいしいオット・ライフ "wikilink")（[ほしのゆみ](https://ja.wikipedia.org/wiki/ほしのゆみ "wikilink")）
   - おれのものになりなさい〜女執事の恋〜（[水谷京子](https://ja.wikipedia.org/wiki/水谷京子 "wikilink")）
-  - 君のために弾くショパン（[長江朋美](https://ja.wikipedia.org/wiki/長江朋美 "wikilink")）
+  - 君のために弾くショパン（[長江朋美](../Page/長江朋美.md "wikilink")）
   - ここが愛のまん中（[宮川匡代](../Page/宮川匡代.md "wikilink")）
   - 女医のタマゴ（[内田小鳩](https://ja.wikipedia.org/wiki/内田小鳩 "wikilink")）
   - [抱いて抱いて抱いて♥ダーリン](https://ja.wikipedia.org/wiki/抱いて抱いて抱いてダーリン "wikilink")、M式プリンセス（[酒井美羽](../Page/酒井美羽.md "wikilink")）

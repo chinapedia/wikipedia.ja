@@ -904,6 +904,14 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <a href="https://ja.wikipedia.org/wiki/マックス・ホロウェイ" title="wikilink">マックス・ホロウェイ</a>との暫定王座決定戦により獲得</p></td>
 </tr>
 <tr class="even">
+<td><p>暫</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャスティン・ゲイジー" title="wikilink">ジャスティン・ゲイジー</a></p></td>
+<td><p>2020年5月9日 - 現在</p></td>
+<td><p>0</p></td>
+<td><p>ヌルマゴメドフの長期戦線離脱のため制定<br />
+<a href="https://ja.wikipedia.org/wiki/トニー・ファーガソン" title="wikilink">トニー・ファーガソン</a>との暫定王座決定戦により獲得</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1090,8 +1098,9 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>7</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘンリー・セフード" title="wikilink">ヘンリー・セフード</a></p></td>
 <td><p>2019年6月8日 - 現在</p></td>
-<td><p>0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マルロン・モラエス" title="wikilink">マルロン・モラエス</a>との王座決定戦により獲得</p></td>
+<td><p>1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マルロン・モラエス" title="wikilink">マルロン・モラエス</a>との王座決定戦により獲得<br />
+○ ドミニク・クルーズ（<a href="https://ja.wikipedia.org/wiki/UFC_249" title="wikilink">UFC 249</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>

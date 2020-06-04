@@ -5,7 +5,7 @@
 
 ## 来歴
 
-父親が[スワジランド](https://ja.wikipedia.org/wiki/スワジランド "wikilink")（当時は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")領）の[教育大臣](../Page/教育大臣.md "wikilink")だったので、スワジランドの首都[ムババーネ](../Page/ムババーネ.md "wikilink")で生まれた\[1\]\[2\]。[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ "wikilink")の[ケープタウン大学](../Page/ケープタウン大学.md "wikilink")で演技を学び、卒業後に[ロンドン](../Page/ロンドン.md "wikilink")に移り、舞台やテレビに出演するようになる。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に『[ウィズネイルと僕](../Page/ウィズネイルと僕.md "wikilink")』で映画デビューした。
+父親がスワジランド（現[エスワティニ](../Page/エスワティニ.md "wikilink")、当時は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")領）の[教育大臣](../Page/教育大臣.md "wikilink")だったので、スワジランドの首都[ムババーネ](../Page/ムババーネ.md "wikilink")で生まれた\[1\]\[2\]。[南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ "wikilink")の[ケープタウン大学](../Page/ケープタウン大学.md "wikilink")で演技を学び、卒業後に[ロンドン](../Page/ロンドン.md "wikilink")に移り、舞台やテレビに出演するようになる。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に『[ウィズネイルと僕](../Page/ウィズネイルと僕.md "wikilink")』で映画デビューした。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、ブラックコメディファンタジーのカルト映画として名高い『広告業界で成功する方法』で、主人公の悩める宣伝業界のプロデューサー役で主演。
 

@@ -357,7 +357,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 </tr>
 <tr class="odd">
 <td><p>19th</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/5月12日.md" title="wikilink">5月12日</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BEFORE_THE_IGNITION" title="wikilink">BEFORE THE IGNITION</a></strong></p></td>
 <td><p>DO THAT DANCE</p></td>
 <td><p>12cmCD<br />
@@ -667,7 +667,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 以下、全てラジオ番組
 
   - Radio TWO-MIX（[NACK5](../Page/エフエムナックファイブ.md "wikilink")：1996年[10月6日](../Page/10月6日.md "wikilink") - 1998年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")）
-  - [UP'S](../Page/UP'S〜Ultra_Performer'S_radio〜.md "wikilink") FRIDAY SPECIAL（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")：1997年4月度マンスリーパーソナリティー）
+  - [UP'S](../Page/UP'S〜Ultra_Performer'S_radio〜.md "wikilink") FRIDAY SPECIAL（[TBSラジオ](../Page/TBSラジオ.md "wikilink")：1997年4月度マンスリーパーソナリティー）
   - [KADOKAWA電波マガジン](../Page/KADOKAWA電波マガジン.md "wikilink")「TWO-MIXの[ASUKA](../Page/月刊Asuka.md "wikilink") PLANET」（[TOKYO FM系列](../Page/エフエム東京.md "wikilink")：1998年4月 - [9月30日](../Page/9月30日.md "wikilink")）
   - TWO-MIXのMAG（[文化放送](../Page/文化放送.md "wikilink")：2000年4月 - 9月）
 

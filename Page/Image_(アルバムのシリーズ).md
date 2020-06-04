@@ -421,6 +421,6 @@ SIBC-40</p></td>
 
 ## 外部リンク
 
-  - [オフィシャルサイト](http://www.sonymusic.co.jp/Music/Arch/SR/image/index.html)
+  - [オフィシャルサイト](https://www.sonymusic.co.jp/artist/image/)
 
 [Category:image](https://ja.wikipedia.org/wiki/Category:image "wikilink") [Category:コンピレーション・アルバム](https://ja.wikipedia.org/wiki/Category:コンピレーション・アルバム "wikilink")

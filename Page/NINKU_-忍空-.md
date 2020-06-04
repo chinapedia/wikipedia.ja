@@ -1044,8 +1044,8 @@ NINKU -忍空-
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
 <td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
-<td><p>フジテレビ系列<br />
-日本テレビ系列</p></td>
+<td><p>日本テレビ系列<br />
+フジテレビ系列</p></td>
 <td></td>
 </tr>
 <tr class="even">

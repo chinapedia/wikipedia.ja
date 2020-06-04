@@ -60,7 +60,7 @@
       - [西友](../Page/西友.md "wikilink")聖蹟桜ヶ丘店の跡地に建設され、[1999年](../Page/1999年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")\[15\]に開館した[再開発ビル](../Page/都市再開発.md "wikilink")「ヴィータ聖蹟桜ヶ丘」\[16\]の[核店舗](https://ja.wikipedia.org/wiki/核店舗 "wikilink")。施設名は[イタリア語](../Page/イタリア語.md "wikilink")で「人生・生活」を意味する「vita」と「Vitamin and Inteligene of TAMA／知性豊かな多摩市の未来像」の略語を掛けている\[17\]。7階・8階には多摩市[関戸公民館](https://ja.wikipedia.org/wiki/関戸_\(多摩市\) "wikilink")（ヴィータ・コミューネ）が入居する\[18\]。
   - 八王子オーパ☆（東京都[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")）
       - [八王子駅](https://ja.wikipedia.org/wiki/八王子駅 "wikilink")南口再開発事業により\[19\]、[2018年](../Page/2018年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に開業\[20\]。
-  - 新百合丘オーパ（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[麻生区](https://ja.wikipedia.org/wiki/麻生区 "wikilink")）
+  - 新百合丘オーパ☆（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[麻生区](https://ja.wikipedia.org/wiki/麻生区 "wikilink")）
   - 湘南藤沢オーパ☆（神奈川県[藤沢市](../Page/藤沢市.md "wikilink")）
       - 開業当初より藤沢オーパとして営業してきたが、2019年4月27日のリニューアルオープンを機に店名変更され、2016年の統合以前から存在したOPA店舗では初めて2代目ロゴを導入した\[21\]。
   - 名古屋mozoオーパ☆（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区](../Page/西区_\(名古屋市\).md "wikilink")）
@@ -160,7 +160,7 @@
   - [オーパ（店舗案内）](http://www.opa-club.com/)
   - [上海OPA淮海店](http://opa-shanghai.com/)
 
-[Category:美浜区の企業](https://ja.wikipedia.org/wiki/Category:美浜区の企業 "wikilink") [Category:イオングループ](https://ja.wikipedia.org/wiki/Category:イオングループ "wikilink") [Category:日本の商業施設](https://ja.wikipedia.org/wiki/Category:日本の商業施設 "wikilink") [Category:日本の商業施設運営会社](https://ja.wikipedia.org/wiki/Category:日本の商業施設運営会社 "wikilink") [Category:ダイエーの歴史](https://ja.wikipedia.org/wiki/Category:ダイエーの歴史 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink")
+[Category:美浜区の企業](https://ja.wikipedia.org/wiki/Category:美浜区の企業 "wikilink") [Category:イオングループ](https://ja.wikipedia.org/wiki/Category:イオングループ "wikilink") [Category:日本の商業施設](https://ja.wikipedia.org/wiki/Category:日本の商業施設 "wikilink") [Category:日本の商業施設運営会社](https://ja.wikipedia.org/wiki/Category:日本の商業施設運営会社 "wikilink") [Category:ダイエーの歴史](https://ja.wikipedia.org/wiki/Category:ダイエーの歴史 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink") [Category:ビブレ](https://ja.wikipedia.org/wiki/Category:ビブレ "wikilink")
 
 1.  なお、2014年度内の親会社ダイエーのイオンによる子会社化が決定したと同時に、同社をイオングループにおける「ショッピングモールの中核ブランドにする」構想も明らかにした。
 2.  [イオンモール](../Page/イオンモール.md "wikilink")内に専門店として出店している「ビブレジーン」業態は引き続き[イオンリテール](https://ja.wikipedia.org/wiki/イオンリテール "wikilink")が運営している。ただしビブレジーン[レイクタウンのみOPAの運営に移管された](../Page/イオンレイクタウン.md "wikilink")。

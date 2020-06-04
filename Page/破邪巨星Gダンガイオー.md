@@ -1,7 +1,7 @@
 > この記事は[破邪巨星Gダンガイオー](https://ja.wikipedia.org/wiki/破邪巨星Gダンガイオー)から翻訳されています。
 
 
-『**破邪巨星Gダンガイオー**』（はじゃきょせいグレートダンガイオー）は、[2001年](../Page/2001年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から同年[7月5日](../Page/7月5日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で全13話が放送された、[AIC製作の](../Page/アニメインターナショナルカンパニー.md "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。
+『**破邪巨星Gダンガイオー**』（はじゃきょせいグレートダンガイオー）は、[2001年](../Page/2001年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から同年[7月5日](../Page/7月5日.md "wikilink")まで毎週木曜日27時44分から[テレビ朝日](../Page/テレビ朝日.md "wikilink")で全13話が放送された、[AIC製作の](../Page/アニメインターナショナルカンパニー.md "wikilink")[ロボットアニメ](../Page/ロボットアニメ.md "wikilink")。
 
 ## 概要
 

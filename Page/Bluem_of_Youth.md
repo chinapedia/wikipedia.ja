@@ -604,7 +604,7 @@ SRBL-1160:DVD</p></td>
 
   - [旧Bluem of Youth Official Web Site](http://www.bgbcom.com/boy/) BGBカンパニーによる旧Bluem of Youthオフィシャルサイト
 
-  - [Bluem of Youth](http://www.sonymusic.co.jp/Music/Arch/SR/BluemOfYouth/) ソニーミュージック内のBluem of Youthサイト
+  - [Bluem of Youth](https://www.sonymusic.co.jp/artist/BluemOfYouth/) ソニーミュージック内のBluem of Youthサイト
 
   - [Yuji Bessho Official Web Site](http://besshoyuji.com/) 別所ユージのオフィシャルサイト
 

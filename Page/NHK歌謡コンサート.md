@@ -21,9 +21,9 @@ NHK歌謡コンサートの第1回放送は[1993年](../Page/1993年.md "wikilin
 
 ## 放送形式
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:BK_Hall.jpg "wikilink")（最終回もここで行われた）\]\] [NHKホール](../Page/NHKホール.md "wikilink")からの[公開生放送を基本としたが](../Page/公開放送.md "wikilink")、公開[収録をする場合も稀にあった](../Page/録画.md "wikilink")。また、年に数回程度は、地方からの生放送を行うほか、[2014年](../Page/2014年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")より原則毎月第4週は[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")からの生放送を実施した。ちなみに、番組開始当初（1993年4月 - 1994年3月）は土曜20:00 - 20:45に放送されており、NHKホールからの公開収録であった。
+[200px](https://ja.wikipedia.org/wiki/ファイル:BK_Hall.jpg "wikilink")（最終回もここで行われた）\]\] [NHKホール](../Page/NHKホール.md "wikilink")からの[公開生放送を基本としたが](../Page/公開放送.md "wikilink")、公開[収録をする場合も稀にあった](../Page/録画.md "wikilink")。また、年に数回程度は、地方からの生放送を行うほか、[2014年](../Page/2014年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")より原則毎月第4週は[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")からの生放送を実施した\[5\]。ちなみに、番組開始当初（1993年4月 - 1994年3月）は土曜20:00 - 20:45に放送されており、NHKホールからの公開収録であった。
 
-1993年4月の番組開始当初からハイビジョン映像で制作された\[5\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送分からはアナログ放送およびNHKワールド・プレミアムにて16:9[レターボックス放送を開始した](../Page/レターボックス_\(映像技術\).md "wikilink")。
+1993年4月の番組開始当初からハイビジョン映像で制作された\[6\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送分からはアナログ放送およびNHKワールド・プレミアムにて16:9[レターボックス放送を開始した](../Page/レターボックス_\(映像技術\).md "wikilink")。
 
 放送中に重大な事件や事故が発生した時は、途中で放送は中断されるが、放送は収録の形でそのまま続けられ、後日、改めて放送される（[撮って出し](../Page/撮って出し.md "wikilink")）。2007年4月17日に発生した[長崎市長射殺事件](../Page/長崎市長射殺事件.md "wikilink")発生の際も、この措置がとられた。2012年6月19日放送予定分も台風4号関連を中心に『[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")』を20:43まで延長して放送した関係で休止となったが、公開放送そのものは撮って出し収録として予定通り行われ、6月24日（日曜日）の13:05〜13:48に収録放送された（NHKワールド・プレミアムも同時刻）。午後（昼間）の時間帯で本番組が放送されるのはアナログ・デジタル両放送を並行して行っていた時期に2005年12月までデジタル放送単独で再放送を行なった時以来約6年半ぶりとなる。さらに2012年12月4日に[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")が公示された際、それに伴う『NHKニュース7』放送延長を行ったことから、当日放送予定であった当番組は翌週11日に、さらに11日放送予定分（当日に収録していた2012年最終放送）は12月16日（日曜日）に、それぞれ放送を順延した。
 
@@ -42,8 +42,8 @@ NHK歌謡コンサートの第1回放送は[1993年](../Page/1993年.md "wikilin
 
 ## 備考
 
-  - 全都道府県で視聴できる地上波の[演歌](../Page/演歌.md "wikilink")・[歌謡](https://ja.wikipedia.org/wiki/歌謡 "wikilink")系音楽番組は、本番組以外に存在していない\[6\]。
-  - 2007年2月20日放送では当初[森進一](../Page/森進一.md "wikilink")が「[花と蝶](../Page/花と蝶_\(森進一の曲\).md "wikilink")」を披露する予定だったが、[おふくろさん騒動](../Page/おふくろさん騒動.md "wikilink")の発生により曲目を「[女のためいき](https://ja.wikipedia.org/wiki/女のためいき "wikilink")」に変更した\[7\]\[8\]。
+  - 全都道府県で視聴できる地上波の[演歌](../Page/演歌.md "wikilink")・[歌謡](https://ja.wikipedia.org/wiki/歌謡 "wikilink")系音楽番組は、本番組以外に存在していない\[7\]。
+  - 2007年2月20日放送では当初[森進一](../Page/森進一.md "wikilink")が「[花と蝶](../Page/花と蝶_\(森進一の曲\).md "wikilink")」を披露する予定だったが、[おふくろさん騒動](../Page/おふくろさん騒動.md "wikilink")の発生により曲目を「[女のためいき](https://ja.wikipedia.org/wiki/女のためいき "wikilink")」に変更した\[8\]\[9\]。
   - NHKが2006年に公開した「ジャンル別番組制作費」によると、同番組の制作費は一本につき2340万円に上る。
   - 『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』などでの番組宣伝の際には、過去の番組のエンディング映像が使われるが、基本的に[デフォーカス処理](https://ja.wikipedia.org/wiki/デフォーカス処理 "wikilink")がされた。
   - [2014年](../Page/2014年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")放送分のオープニングより当該回のテーマに加えて番組の放送回数の記述が行われた。
@@ -58,7 +58,7 @@ NHK歌謡コンサートの第1回放送は[1993年](../Page/1993年.md "wikilin
 
 堺・東以外はNHKの局アナが担当した。堺と東が司会を任されたことで、NHKの演歌・懐メロ系番組で、NHKの局アナ以外の人物が司会を務めたのは『[花のステージ](../Page/花のステージ.md "wikilink")』終了（1980年4月）以来13年ぶりだったが、わずか2年でNHKの局アナに交代してしまった。なお堺は第900回放送分にもゲスト出演し、番組では第1回当時の映像が放送された。
 
-東と小田切以外の歴代司会者は、『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』の司会を経験したほか、NHKの局アナ4人に関しては、何らかの形でNHKの他の音楽バラエティ番組に関わったことがあった\[9\]。
+東と小田切以外の歴代司会者は、『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』の司会を経験したほか、NHKの局アナ4人に関しては、何らかの形でNHKの他の音楽バラエティ番組に関わったことがあった\[10\]。
 
 ## 演奏
 
@@ -110,7 +110,7 @@ NHK歌謡コンサートの第1回放送は[1993年](../Page/1993年.md "wikilin
 
 ## 関連商品
 
-関連商品に、[CD全集](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『NHK歌謡コンサート〜熱唱\! 華麗なる歌舞台〜』が存在する。これは、放送15周年を機に、[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")から発売されたもので、[日本直販などの](../Page/総通.md "wikilink")[通信販売](../Page/通信販売.md "wikilink")で販売された[通販CD](../Page/通販CD.md "wikilink")である。番組内で主に歌われる曲が7枚組のCDにまとめられた\[10\]。また、2代目の司会者である宮本がナレーターを務めた。
+関連商品に、[CD全集](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『NHK歌謡コンサート〜熱唱\! 華麗なる歌舞台〜』が存在する。これは、放送15周年を機に、[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")から発売されたもので、[日本直販などの](../Page/総通.md "wikilink")[通信販売](../Page/通信販売.md "wikilink")で販売された[通販CD](../Page/通販CD.md "wikilink")である。番組内で主に歌われる曲が7枚組のCDにまとめられた\[11\]。また、2代目の司会者である宮本がナレーターを務めた。
 
 ## 脚注
 
@@ -141,9 +141,10 @@ NHK歌謡コンサートの第1回放送は[1993年](../Page/1993年.md "wikilin
 2.  [朝田のぼる](https://ja.wikipedia.org/wiki/朝田のぼる "wikilink")、[本田路津子](../Page/本田路津子.md "wikilink")、[野路由紀子](https://ja.wikipedia.org/wiki/野路由紀子 "wikilink")、[梶光夫](https://ja.wikipedia.org/wiki/梶光夫 "wikilink")などがあげられる。
 3.  なお、2019年4月から後枠の『[サラメシ](https://ja.wikipedia.org/wiki/サラメシ "wikilink")』と枠交換する形で19:57 - 20:42に放送時間を繰り下げた。
 4.  [平成28年度（前半期）放送番組時刻表](http://www.nhk.or.jp/pr/keiei/hensei/pdf/28jikokuhyo-kokunai.pdf) NHK 2016年1月20日閲覧。
-5.  当初はMUSE方式によるアナログハイビジョン映像だったが、2000年のBSデジタル放送開始にあわせてデジタルハイビジョン映像に変更された（2012年7月17日の800回目の放送で記念すべき1回目の映像が紹介されていた）。 また、ハイビジョン制作当初から2002年度まではテロップ類をハイビジョン用に別途挿入し直し、オープニングのタイトル下部に「NHK Hi-Vision」ロゴを挿入していた。
-6.  民放番組の『[木曜8時のコンサート〜名曲\!にっぽんの歌〜](https://ja.wikipedia.org/wiki/金曜7時のコンサート〜名曲!にっぽんの歌〜 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列、[岐阜放送](../Page/岐阜放送.md "wikilink")ほか）や『[お好み歌謡館](https://ja.wikipedia.org/wiki/お好み歌謡館 "wikilink")』（[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")、[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")、[TwellV他](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）などについては、放送していない地域が少なくない。これは、『MUSIC JAPAN』についても同じことが言えた。
-7.  [森進一の名曲「おふくろさん」作詞家・川内氏、怒りの“絶縁宣言”](https://web.archive.org/web/20070222125420/http://www.sanspo.com/geino/top/gt200702/gt2007022103.html)、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")、2007年2月21日。
-8.  [森進一「おふくろさん」めぐり泥仕合](https://web.archive.org/web/20070223035656/http://www.nikkansports.com/entertainment/p-et-tp0-20070221-159647.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")、2007年2月21日8時57分。
-9.  宮本と阿部は『[BS日本のうた](../Page/BS日本のうた.md "wikilink")』の司会を、高山は『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』のアシスタントを、それぞれ務めたことがあった。また、小田切は2013年4月から『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』の司会を務めた。
-10. ただし、[テイチク](../Page/テイチクエンタテインメント.md "wikilink")、[ソニーレコード](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、サクラスターレコード（[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")→[ユニバーサルミュージック日本法人](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）、[徳間ジャパン](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[クラウンレコード](../Page/日本クラウン.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")のアーティストの曲に限る。
+5.  『うたコン』でもその流れを汲んで毎月第4週は大阪から生放送を実施している。
+6.  当初はMUSE方式によるアナログハイビジョン映像だったが、2000年のBSデジタル放送開始にあわせてデジタルハイビジョン映像に変更された（2012年7月17日の800回目の放送で記念すべき1回目の映像が紹介されていた）。 また、ハイビジョン制作当初から2002年度まではテロップ類をハイビジョン用に別途挿入し直し、オープニングのタイトル下部に「NHK Hi-Vision」ロゴを挿入していた。
+7.  民放番組の『[木曜8時のコンサート〜名曲\!にっぽんの歌〜](https://ja.wikipedia.org/wiki/金曜7時のコンサート〜名曲!にっぽんの歌〜 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列、[岐阜放送](../Page/岐阜放送.md "wikilink")ほか）や『[お好み歌謡館](https://ja.wikipedia.org/wiki/お好み歌謡館 "wikilink")』（[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")、[テレビ和歌山](../Page/テレビ和歌山.md "wikilink")、[TwellV他](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）などについては、放送していない地域が少なくない。これは、『MUSIC JAPAN』についても同じことが言えた。
+8.  [森進一の名曲「おふくろさん」作詞家・川内氏、怒りの“絶縁宣言”](https://web.archive.org/web/20070222125420/http://www.sanspo.com/geino/top/gt200702/gt2007022103.html)、[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")、2007年2月21日。
+9.  [森進一「おふくろさん」めぐり泥仕合](https://web.archive.org/web/20070223035656/http://www.nikkansports.com/entertainment/p-et-tp0-20070221-159647.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")、2007年2月21日8時57分。
+10. 宮本と阿部は『[BS日本のうた](../Page/BS日本のうた.md "wikilink")』の司会を、高山は『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』のアシスタントを、それぞれ務めたことがあった。また、小田切は2013年4月から『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』の司会を務めた。
+11. ただし、[テイチク](../Page/テイチクエンタテインメント.md "wikilink")、[ソニーレコード](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、サクラスターレコード（[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")→[ユニバーサルミュージック日本法人](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）、[徳間ジャパン](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[クラウンレコード](../Page/日本クラウン.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")のアーティストの曲に限る。

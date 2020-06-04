@@ -42,8 +42,7 @@
 カップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグ<br />
 カップ</a></p></th>
-<th><p><a href="../Page/欧州サッカー連盟.md" title="wikilink">欧州カップ</a></p></th>
-<th><p>その他</p></th>
+<th><p><a href="../Page/欧州サッカー連盟.md" title="wikilink">欧州カップ</a> / その他</p></th>
 <th><p>最多得点者</p></th>
 </tr>
 </thead>
@@ -55,7 +54,6 @@
 <td><p>分</p></td>
 <td><p>敗</p></td>
 <td><p>得</p></td>
-<td><p>失</p></td>
 </tr>
 <tr class="even">
 <td><p>1992-93</p></td>
@@ -64,7 +62,6 @@
 <td><p>11</p></td>
 <td><p>11</p></td>
 <td><p>20</p></td>
-<td><p>54</p></td>
 </tr>
 <tr class="odd">
 <td><p>1993-94</p></td>
@@ -73,7 +70,6 @@
 <td><p>18</p></td>
 <td><p>13</p></td>
 <td><p>15</p></td>
-<td><p>66</p></td>
 </tr>
 <tr class="even">
 <td><p>1994-95</p></td>
@@ -82,7 +78,6 @@
 <td><p>23</p></td>
 <td><p>13</p></td>
 <td><p>10</p></td>
-<td><p>67</p></td>
 </tr>
 <tr class="odd">
 <td><p>1995-96</p></td>
@@ -91,7 +86,6 @@
 <td><p>11</p></td>
 <td><p>10</p></td>
 <td><p>17</p></td>
-<td><p>35</p></td>
 </tr>
 <tr class="even">
 <td><p>1996-97</p></td>
@@ -100,7 +94,6 @@
 <td><p>10</p></td>
 <td><p>12</p></td>
 <td><p>16</p></td>
-<td><p>51</p></td>
 </tr>
 <tr class="odd">
 <td><p>1997-98</p></td>
@@ -109,7 +102,6 @@
 <td><p>27</p></td>
 <td><p>10</p></td>
 <td><p>9</p></td>
-<td><p>77</p></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
@@ -118,7 +110,6 @@
 <td><p>12</p></td>
 <td><p>15</p></td>
 <td><p>11</p></td>
-<td><p>48</p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-00</p></td>
@@ -127,7 +118,6 @@
 <td><p>14</p></td>
 <td><p>10</p></td>
 <td><p>14</p></td>
-<td><p>46</p></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
@@ -136,7 +126,6 @@
 <td><p>9</p></td>
 <td><p>15</p></td>
 <td><p>14</p></td>
-<td><p>44</p></td>
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
@@ -145,7 +134,6 @@
 <td><p>12</p></td>
 <td><p>9</p></td>
 <td><p>17</p></td>
-<td><p>35</p></td>
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
@@ -154,7 +142,6 @@
 <td><p>13</p></td>
 <td><p>10</p></td>
 <td><p>15</p></td>
-<td><p>48</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
@@ -163,7 +150,6 @@
 <td><p>13</p></td>
 <td><p>9</p></td>
 <td><p>16</p></td>
-<td><p>44</p></td>
 </tr>
 <tr class="even">
 <td><p>2004-05</p></td>
@@ -172,7 +158,6 @@
 <td><p>14</p></td>
 <td><p>13</p></td>
 <td><p>11</p></td>
-<td><p>53</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
@@ -181,7 +166,6 @@
 <td><p>12</p></td>
 <td><p>9</p></td>
 <td><p>17</p></td>
-<td><p>48</p></td>
 </tr>
 <tr class="even">
 <td><p>2006-07</p></td>
@@ -190,7 +174,6 @@
 <td><p>12</p></td>
 <td><p>10</p></td>
 <td><p>16</p></td>
-<td><p>44</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007-08</p></td>
@@ -199,7 +182,6 @@
 <td><p>10</p></td>
 <td><p>12</p></td>
 <td><p>16</p></td>
-<td><p>43</p></td>
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
@@ -208,7 +190,6 @@
 <td><p>7</p></td>
 <td><p>11</p></td>
 <td><p>20</p></td>
-<td><p>28</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009-10</p></td>
@@ -217,7 +198,6 @@
 <td><p>16</p></td>
 <td><p>14</p></td>
 <td><p>16</p></td>
-<td><p>58</p></td>
 </tr>
 <tr class="even">
 <td><p>2010-11</p></td>
@@ -226,7 +206,6 @@
 <td><p>17</p></td>
 <td><p>11</p></td>
 <td><p>18</p></td>
-<td><p>68</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011-12</p></td>
@@ -235,7 +214,6 @@
 <td><p>18</p></td>
 <td><p>16</p></td>
 <td><p>12</p></td>
-<td><p>52</p></td>
 </tr>
 <tr class="even">
 <td><p>2012-13</p></td>
@@ -244,7 +222,6 @@
 <td><p>18</p></td>
 <td><p>5</p></td>
 <td><p>23</p></td>
-<td><p>61</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013-14</p></td>
@@ -253,7 +230,6 @@
 <td><p>16</p></td>
 <td><p>16</p></td>
 <td><p>14</p></td>
-<td><p>62</p></td>
 </tr>
 <tr class="even">
 <td><p>2014-15</p></td>
@@ -262,7 +238,6 @@
 <td><p>25</p></td>
 <td><p>10</p></td>
 <td><p>11</p></td>
-<td><p>68</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015-16</p></td>
@@ -271,7 +246,6 @@
 <td><p>26</p></td>
 <td><p>11</p></td>
 <td><p>9</p></td>
-<td><p>63</p></td>
 </tr>
 <tr class="even">
 <td><p>2016-17</p></td>
@@ -280,7 +254,6 @@
 <td><p>5</p></td>
 <td><p>13</p></td>
 <td><p>20</p></td>
-<td><p>27</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
@@ -289,7 +262,6 @@
 <td><p>22</p></td>
 <td><p>10</p></td>
 <td><p>14</p></td>
-<td><p>67</p></td>
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
@@ -298,13 +270,11 @@
 <td><p>20</p></td>
 <td><p>13</p></td>
 <td><p>13</p></td>
-<td><p>49</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
 <td><p>チャンピオン</p></td>
 <td><p>46</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

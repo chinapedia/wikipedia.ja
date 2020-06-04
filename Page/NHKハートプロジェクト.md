@@ -52,7 +52,7 @@
 
 ## 外部リンク
 
-  - [NHKハートプロジェクト](http://www.nhk.or.jp/heart-pj/)
+  - [NHKハートプロジェクト](https://www.nhk.or.jp/heart-pj/)
   - [NHKハート展](http://www.nhk.or.jp/heart/)
 
 [Category:NHKのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:NHKのイベント・キャンペーン "wikilink") [Category:NHKのテレビ福祉番組](https://ja.wikipedia.org/wiki/Category:NHKのテレビ福祉番組 "wikilink") [Category:NHKのラジオ福祉番組](https://ja.wikipedia.org/wiki/Category:NHKのラジオ福祉番組 "wikilink") [Category:福祉関連の事業](https://ja.wikipedia.org/wiki/Category:福祉関連の事業 "wikilink")

@@ -306,7 +306,7 @@ SG（シルバー・グレー）</p></td>
 
 ## 使用ミュージシャン
 
-  - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")
+  - [平沢進](../Page/平沢進.md "wikilink")
   - [中野テルヲ](../Page/中野テルヲ.md "wikilink")
   - [田中一郎](../Page/田中一郎_\(ミュージシャン\).md "wikilink")（[ARB](../Page/ARB_\(バンド\).md "wikilink")）
   - [岡野ハジメ](../Page/岡野ハジメ.md "wikilink")

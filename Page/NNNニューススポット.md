@@ -178,7 +178,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p>NNNニューススポット</p></td>
 <td><p>○</p></td>
 <td><p>火曜と金曜のみ『<a href="https://ja.wikipedia.org/wiki/さきがけABSニュース" title="wikilink">さきがけABSニュース</a>』を連結して放送[42]</p></td>
@@ -220,7 +220,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 <td><p>緊急時と静岡県の話題を除き全くネットしていなかったが、<a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡けんみんテレビ（現・静岡朝日テレビ）のクロスネット時代はネットしていた事があった</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KNBニューススポット_NNN" title="wikilink">KNBニューススポット NNN</a></p></td>
 <td></td>
 <td></td>
@@ -342,6 +342,12 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 ## 脚注
 
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
+
 ## 外部リンク
 
   - [日本テレビ](http://www.ntv.co.jp/)
@@ -352,7 +358,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 1.
 2.
 3.  12:30の『[お昼のワイドショー](../Page/お昼のワイドショー.md "wikilink")』と13:30の『[ごちそうさま](../Page/ごちそうさま_\(テレビ番組\).md "wikilink")』が、それぞれ30分ずつ繰り上がったため設置。なお開いた13:15 - 13:20には10分帯番組『[千夏・英太のハハア\!なるほど](https://ja.wikipedia.org/wiki/千夏・英太のハハア!なるほど "wikilink")』→『[スターアルバム](https://ja.wikipedia.org/wiki/スターアルバム "wikilink")』を設置した。
-4.  13:15の帯番組が15分番組『[おしゃれ](../Page/おしゃれ.md "wikilink")』に代わり、13:45 - 14:00の[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")制作[日昼ドラが廃枠になったため移動](https://ja.wikipedia.org/wiki/北日本放送制作昼の帯ドラマ "wikilink")。
+4.  13:15の帯番組が15分番組『[おしゃれ](../Page/おしゃれ.md "wikilink")』に代わり、13:45 - 14:00の[北日本放送](../Page/北日本放送.md "wikilink")制作[日昼ドラが廃枠になったため移動](https://ja.wikipedia.org/wiki/北日本放送制作昼の帯ドラマ "wikilink")。
 5.  『[午後は○○おもいッきりテレビ](../Page/午後は○○おもいッきりテレビ.md "wikilink")』に内包
 6.  『[読売新聞ニュース](../Page/読売新聞ニュース.md "wikilink")』が17:00から15:50に枠移動したため放送終了。
 7.  12:00 - 12:55に『[新婚さん\!目方でドン\!](../Page/目方でドーン!.md "wikilink")』が設置されたため、13:10の[ガイド枠](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、13:15の『[TVジョッキー](../Page/TVジョッキー.md "wikilink")日曜大行進』、14:15の『[日曜スペシャル](https://ja.wikipedia.org/wiki/日曜スペシャル_\(日本テレビ\) "wikilink")』、15:45の『[日曜映画劇場](https://ja.wikipedia.org/wiki/日曜映画劇場 "wikilink")』と共に15分繰上げ（『日SP』は移動と同時に『日曜特番』に改題）。

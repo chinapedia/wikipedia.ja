@@ -33,7 +33,7 @@
 
 ## 外部リンク
 
-  - [フジテレビホームページ](http://www.fujitv.co.jp/) - アナルームニュースに詳細
+  - [フジテレビホームページ](https://www.fujitv.co.jp/index.html) - アナルームニュースに詳細
 
   - [（Web archiveのキャッシュ）「フジアナCD発売」](http://web.archive.org/web/19980211231518/http://www.zakzak.co.jp/geino/n-September97/nws1249.html)
 

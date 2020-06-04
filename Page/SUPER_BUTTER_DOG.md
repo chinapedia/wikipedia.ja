@@ -53,7 +53,7 @@
   - [池田貴史](../Page/レキシ.md "wikilink")（いけだ たかふみ、[1974年](../Page/1974年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - 福井県出身）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
     [いとうせいこう](../Page/いとうせいこう.md "wikilink")から「面白いミュージシャン3人衆の1人」と言わしめ、いとうの推薦で参加した「[しりとり竜王戦歌人戦](https://ja.wikipedia.org/wiki/虎の門#しりとり竜王戦 "wikilink")」では初出場ながらも決勝に進出した。
     バンドの活動休止後、[2004年](../Page/2004年.md "wikilink")に[中村一義](../Page/中村一義.md "wikilink")らと共にバンド"[100s](../Page/100s.md "wikilink")"を結成。
-    SSTV「[熱血\!スペシャ中学](../Page/熱血!スペシャ中学.md "wikilink")」（放送終了）で共演した[スネオヘアー](../Page/スネオヘアー.md "wikilink")や[Jackson Vibeのプロデュース](https://ja.wikipedia.org/wiki/Jackson_Vibe "wikilink")、サポート参加している。
+    SSTV「[熱血\!スペシャ中学](../Page/熱血!スペシャ中学.md "wikilink")」（放送終了）で共演した[スネオヘアー](../Page/スネオヘアー.md "wikilink")や[Jackson Vibeのプロデュース](../Page/Jackson_vibe.md "wikilink")、サポート参加している。
       -
         解散後、「[レキシ](../Page/レキシ.md "wikilink")」で[2007年](../Page/2007年.md "wikilink")にCDデビュー。
   - [TOMOHIKO](https://ja.wikipedia.org/wiki/TOMOHIKO "wikilink")（ともひこ、[1975年](../Page/1975年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - 本名/有本公彦　新潟県出身）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。

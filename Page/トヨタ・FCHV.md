@@ -125,9 +125,11 @@
 
 [Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg](https://ja.wikipedia.org/wiki/File:Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg "fig:Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg") FCバスの後継車種。2017年10月の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で初めて公開された。2018年3月7日にリース販売開始\[6\]。燃料電池車のバスとしては国内で初めて国交省の型式認証を取得し**ZBC-MUM1NAE**となった。[2018年](../Page/2018年.md "wikilink")3月現在、都営バスに3台導入されている\[7\]。
 
-同年9月6日、民間のバス会社では初めて[京浜急行バス](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")が[2019年](../Page/2019年.md "wikilink")春に導入することを発表した\[8\]。2019年3月より大井町駅と台場の路線を運行する。
+2018年9月6日、民間のバス会社では初めて[京浜急行バス](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")が[2019年](../Page/2019年.md "wikilink")春に導入することを発表した\[8\]。2019年3月より[大井町駅と台場の路線を運行する](../Page/京浜急行バス大森営業所.md "wikilink")。
 
-同年9月26日、トヨタは、トヨタ自動車と[Toyota Motor Europe (TME)はSORAで確立した路線バス用FCシステムを](https://ja.wikipedia.org/wiki/:en:Toyota_Motor_Europe "wikilink")、ポルトガルのカエタノ・バス社（Caetano Bus SA、[ポルトガル語版](https://ja.wikipedia.org/wiki/:pt:CaetanoBus "wikilink")）に供給すること を発表した\[9\]。
+2018年9月26日、トヨタは、トヨタ自動車と[Toyota Motor Europe (TME)はSORAで確立した路線バス用FCシステムを](https://ja.wikipedia.org/wiki/:en:Toyota_Motor_Europe "wikilink")、ポルトガルのカエタノ・バス社（Caetano Bus SA、[ポルトガル語版](https://ja.wikipedia.org/wiki/:pt:CaetanoBus "wikilink")）に供給すること を発表した\[9\]。
+
+2020年4月1日には[東急バス](https://ja.wikipedia.org/wiki/東急バス "wikilink")が[東京駅 - 等々力操車場の路線に導入](https://ja.wikipedia.org/wiki/東急バス目黒営業所 "wikilink")\[10\]、[新常磐交通](../Page/新常磐交通.md "wikilink")でも同じく2020年4月1日にいわき - 鹿島 - 小名浜線に導入している\[11\]\[12\]。
 
 ## その他
 
@@ -161,3 +163,6 @@
 7.  [量産型燃料電池バスが導入されました](https://www.kotsu.metro.tokyo.jp/pickup_information/news/bus/2018/bus_p_201803287863_h.html)(東京都交通局ホームページ)2018年3月29日閲覧。
 8.  [燃料電池バス「SORA」を導入します！](http://www.keikyu-bus.co.jp/topics/2018/0906_1467.html)(京浜急行バスホームページ)2018年9月7日閲覧。
 9.  [トヨタ、ポルトガルのバス製造会社カエタノ・バス社に燃料電池システムを供給](https://newsroom.toyota.co.jp/jp/corporate/24694662.html) - トヨタ自動車（2018年09月26日発表）2018年10月16日閲覧
+10. [燃料電池バスを導入いたします](https://www.tokyubus.co.jp/news/002169.html) - 東急バス 2020年03月26日発表 2020年5月4日閲覧
+11.
+12.

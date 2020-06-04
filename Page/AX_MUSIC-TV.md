@@ -7,7 +7,7 @@
 
 過去に同系列局で放送された音楽番組『[AX MUSIC-FACTORY](https://ja.wikipedia.org/wiki/AX_MUSIC-FACTORY "wikilink")』の後継番組である。番組タイトルの「AX」は、[日本テレビの](../Page/日本テレビ放送網.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")**JOAX-(D)TV**から取ったものである。
 
-番組は「AX MUSIC-TV 00」「AX MUSIC-TV 01」「AX MUSIC-TV 02」の三部構成だったが、このうち全国ネット化されていたのは「AX MUSIC-TV 01」のみで、「AX MUSIC-TV 00」と「AX MUSIC-TV 02」は日本テレビのみでの放送であることが多かった。ネット局の中には、「AX MUSIC-TV 01」を放送しているが1週間以上も遅れて放送していたというところがあり、また、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[テレビ大分](../Page/テレビ大分.md "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")の3局ではネットされなかった（このうちテレビ大分は、「AX MUSIC-TV 01 WEEKLY COUNTDOWN」に関してはネットしていた）。
+番組は「AX MUSIC-TV 00」「AX MUSIC-TV 01」「AX MUSIC-TV 02」の三部構成だったが、このうち全国ネット化されていたのは「AX MUSIC-TV 01」のみで、「AX MUSIC-TV 00」と「AX MUSIC-TV 02」は日本テレビのみでの放送であることが多かった。ネット局の中には、「AX MUSIC-TV 01」を放送しているが1週間以上も遅れて放送していたというところがあり、また、[秋田放送](../Page/秋田放送.md "wikilink")・[テレビ大分](../Page/テレビ大分.md "wikilink")・[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")の3局ではネットされなかった（このうちテレビ大分は、「AX MUSIC-TV 01 WEEKLY COUNTDOWN」に関してはネットしていた）。
 
 ## 歴代のサブタイトル
 

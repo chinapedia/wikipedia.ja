@@ -1,11 +1,13 @@
 > この記事は[西部警察 PART-II](https://ja.wikipedia.org/wiki/西部警察_PART-II)から翻訳されています。
 
 
-『**西部警察 PART-II**』（せいぶけいさつパートツー）は、[テレビ朝日系で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作のアクションドラマである[1982年](../Page/1982年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[日曜](../Page/日曜日.md "wikilink")20:00 - 20:54([JST](../Page/日本標準時.md "wikilink")) に放送。
+『**西部警察 PART-II**』（せいぶけいさつパートツー）は、[テレビ朝日系で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビ朝日](../Page/テレビ朝日.md "wikilink")、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。[1982年](../Page/1982年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[日曜](../Page/日曜日.md "wikilink")20:00 - 20:54([JST](../Page/日本標準時.md "wikilink")) に放送。
 
 ## 内容
 
-ハードアクションに重点を置いた作風は前作『[西部警察](../Page/西部警察_\(PART1\).md "wikilink")』（PART-I）と変わらないが、後述するように設定および登場人物の一部が刷新されている。 本作は、三浦友和の為の作品と言っても過言ではない。 また、本作より[日本全国縦断ロケ](../Page/日本全国縦断ロケ.md "wikilink")企画がスタートした。
+ハードアクションに重点を置いた作風は前作『[西部警察](../Page/西部警察_\(PART1\).md "wikilink")』（PART-I）と変わらないが、後述するように設定および登場人物の一部が刷新されている。
+
+また、本作より[日本全国縦断ロケ](../Page/日本全国縦断ロケ.md "wikilink")企画がスタートした。
 
 ## 主な出演者
 
@@ -499,11 +501,11 @@
 本シリーズはタイトルや出演者を含め実質上PART1の続編であるが、設定面や登場人物の一部変更が見られる。その点から、時間軸が異なる[パラレルワールド](../Page/パラレルワールド.md "wikilink")と指摘したり解説する書籍もある\[11\]\[12\]。
 
   - レギュラー刑事の交代：源田刑事・谷刑事が番組開始時点で既に西部署を去っており、沖田刑事・浜刑事が登場。沖田刑事は第1回で捜査課着任シーンが描かれるが、浜刑事については第1回の時点から捜査課に所属しており、大門とも古くから面識がある設定となっている。
-  - 大門明子役の女優交代：（[古手川祐子](../Page/古手川祐子.md "wikilink")→[登亜樹子](https://ja.wikipedia.org/wiki/登亜樹子 "wikilink")）。人物設定もPART1での売れない漫画家から幼稚園の教員（劇中では[保母と呼称している](../Page/保育士.md "wikilink")）へと変更された。大門兄妹が住むアパートも壁が青と黄色の内装でロフト付きの洒落た部屋から、当時のアパートによく見られたオーソドックスな部屋へと変わっている。
+  - 大門明子役の女優交代：（[古手川祐子](../Page/古手川祐子.md "wikilink") → [登亜樹子](https://ja.wikipedia.org/wiki/登亜樹子 "wikilink")）。人物設定もPART1での売れない漫画家から幼稚園の教員（劇中では[保母と呼称している](../Page/保育士.md "wikilink")）へと変更された。大門兄妹が住むアパートも壁が青と黄色の内装でロフト付きの洒落た部屋から、当時のアパートによく見られたオーソドックスな部屋へと変わっている。
   - 木暮課長、ならびに刑事たちが利用する飲み屋が「CORNER LOUNGE」からスナック「セブン」に変更。マスターも[佐原健二](../Page/佐原健二.md "wikilink")から[吉行和子](../Page/吉行和子.md "wikilink")に交代している。
   - メインテーマを含めた音楽担当が[宇都宮安重](https://ja.wikipedia.org/wiki/宇都宮安重 "wikilink")から[羽田健太郎](../Page/羽田健太郎.md "wikilink")へ交代。ただし、PART1時代からのBGMも引き続き使用された。また、本作のBGMは羽田が音楽を担当し、同時期に放送されていたアニメ『[スペースコブラ](https://ja.wikipedia.org/wiki/スペースコブラ "wikilink")』や『[超時空世紀オーガス](https://ja.wikipedia.org/wiki/超時空世紀オーガス "wikilink")』にも流用された。
 
-このほか、平尾刑事・鳩村刑事など続投したレギュラー出演者にも衣装等に小変更が見られる。
+このほか、平尾刑事・鳩村刑事など続投したレギュラー出演者にも衣装などに小変更が見られる。
 
 ## 地方ロケ
 
@@ -546,16 +548,16 @@
 
 ## 登場車両
 
-  - [マシンX](../Page/マシンX.md "wikilink")（～14話）
+  - [マシンX](../Page/マシンX.md "wikilink")（ - 14話）
   - [サファリ4WD](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")
-  - [スーパーZ](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（15話～）
-  - [マシンRS](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（15話～）
+  - [スーパーZ](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（15話 - ）
+  - [マシンRS](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（15話 - ）
 
 ## 備考
 
-  - 第18話の広島ロケの爆破シーンで使用されたのは[元大阪市電1801型の](../Page/大阪市交通局1801形電車.md "wikilink")[広島電鉄750形電車](../Page/広島電鉄750形電車.md "wikilink")766号車（登録上は755号車）であった。撮影のために塗装・広告（[パールライス](../Page/パールライス.md "wikilink")→[にしき堂](../Page/にしき堂.md "wikilink")）を変更して行われた。ちなみに電車の車体横の広告は「にしき堂のもみじ饅頭」だった。撮影終了後、766号車は登録抹消、解体された。
+  - 第18話の広島ロケの爆破シーンで使用されたのは[元大阪市電1801型の](../Page/大阪市交通局1801形電車.md "wikilink")[広島電鉄750形電車](../Page/広島電鉄750形電車.md "wikilink")766号車（登録上は755号車）であった。撮影のために塗装・広告（[パールライス](../Page/パールライス.md "wikilink") → [にしき堂](../Page/にしき堂.md "wikilink")）を変更して行われた。ちなみに電車の車体横の広告は「にしき堂のもみじ饅頭」だった。撮影終了後、766号車は登録抹消、解体された。
   - 当時の土曜日昼の人気番組、『[独占\!女の60分](../Page/独占!女の60分.md "wikilink")』では、本作の地方ロケ編が放映される前日に、同番組のアタッカー（[リポーター](../Page/リポーター.md "wikilink")）がロケ現場を訪れ、その舞台裏などを紹介する企画が放送された。
-  - 本作の終了と同時に[福井県](../Page/福井県.md "wikilink")における放映[ネット局](https://ja.wikipedia.org/wiki/ネット局 "wikilink")が変更される。[前作から](../Page/西部警察_\(PART1\).md "wikilink")2作連続で実施されてきた[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系](../Page/フジネットワーク.md "wikilink")）での毎週[土曜日](../Page/土曜日.md "wikilink")13:00 - 13:54における西部警察シリーズの[遅れネット](../Page/遅れネット.md "wikilink")は本作で終了となり、次作（すなわち『[西部警察 PART-III](../Page/西部警察_PART-III.md "wikilink")』）についてはもう一つの[県域局である](../Page/県域放送.md "wikilink")[福井放送](../Page/福井放送.md "wikilink")（放送当時は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系](../Page/日本テレビネットワーク協議会.md "wikilink")・[1989年](../Page/1989年.md "wikilink")4月からはテレ朝系との[クロスネット局](../Page/クロスネット局.md "wikilink")）に変更され、併せて放送日時も1日遅れの毎週[月曜日](../Page/月曜日.md "wikilink")21:00 - 21:54となった\[14\]（そのためそれまで[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")だった『[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")』枠が土曜日23時台での遅れネットに降格し、以後[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月改編で日テレとの同時ネットに再度回帰するまでこの事態が続いた）。
+  - 本作の終了と同時に[福井県](../Page/福井県.md "wikilink")における放映[ネット局](https://ja.wikipedia.org/wiki/ネット局 "wikilink")が変更される。[前作から](../Page/西部警察_\(PART1\).md "wikilink")2作連続で実施されてきた[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系](../Page/フジネットワーク.md "wikilink")）での土曜日13時00分 - 13時54分における西部警察シリーズの[遅れネット](../Page/遅れネット.md "wikilink")は本作で終了となり、次作（すなわち『[西部警察 PART-III](../Page/西部警察_PART-III.md "wikilink")』）についてはもう1つの[県域局である](../Page/県域放送.md "wikilink")[福井放送](../Page/福井放送.md "wikilink")（放送当時は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系](../Page/日本テレビネットワーク協議会.md "wikilink")・[1989年](../Page/1989年.md "wikilink")4月からはテレビ朝日系との[クロスネット局](../Page/クロスネット局.md "wikilink")）に変更され、併せて放送日時も1日遅れの月曜日21時00分 - 21時54分となった\[14\]（そのためそれまで[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")だった『[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")』枠が土曜日23時台での遅れネットに降格し、以後[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月改編で日テレとの同時ネットに再度回帰するまでこの事態が続いた）。
   - 2011年2月にCS放送の[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")で本作の「HDリマスター版」CS初放送開始にあたり、その宣伝企画として『ファミ缶2月号』内で[日本テレビの旅番組](../Page/日本テレビ放送網.md "wikilink")『[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")』を下敷きにしたミニコーナー『日本全国ぶらり[爆破](../Page/爆破.md "wikilink")の旅』が製作・放送された。
 
 ## 脚注

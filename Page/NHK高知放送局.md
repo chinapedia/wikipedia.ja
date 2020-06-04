@@ -574,6 +574,19 @@
 </tbody>
 </table>
 
+## 民間放送との共同キャンペーン
+
+  - みてみて高知12468
+
+[2016年](../Page/2016年.md "wikilink")度から高知県の民間放送3社（[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")・[テレビ高知](../Page/テレビ高知.md "wikilink")・[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")）と共同で展開しているキャンペーン\[2\]\[3\]\[4\]。12468は「ワンツーヨーロッパ」と呼び、テレビの視聴を呼びかけるものとなっている。NHKは[どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")がPRに出演している。
+
+  - [新型コロナウイルスに関する啓発](../Page/2019新型コロナウイルス.md "wikilink")
+
+前述の「みてみて高知12468」に関連して、新型コロナウイルスへの啓発を目的としたキャンペーンを[2020年](../Page/2020年.md "wikilink")に実施\[5\]。このキャンペーンでは、テレビだけでなくラジオ各局とも実施している。テレビでは夕方のニュース番組のキャスターが出演している。
+
+  - テレビ：高知局（こうちいちばん、高橋篤史・中道洋司）、高知放送（[eye+スーパー](https://ja.wikipedia.org/wiki/eye+スーパー "wikilink")、雫石将克・[高橋生](https://ja.wikipedia.org/wiki/高橋生 "wikilink")）、テレビ高知（[情報パレット からふる](https://ja.wikipedia.org/wiki/情報パレット_からふる "wikilink")、中川美咲・[藤崎美希](https://ja.wikipedia.org/wiki/藤崎美希 "wikilink")）、高知さんさんテレビ（[プライムこうちF](https://ja.wikipedia.org/wiki/プライムこうちF "wikilink")、[玉井新平](../Page/玉井新平.md "wikilink")・[石井愛子](../Page/石井愛子.md "wikilink")）
+  - ラジオ：高知局・高知放送・[エフエム高知](../Page/エフエム高知.md "wikilink")
+
 ## 脚注
 
 ## 外部リンク
@@ -584,3 +597,7 @@
 [Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:四国地方のテレビ局](https://ja.wikipedia.org/wiki/Category:四国地方のテレビ局 "wikilink") [Category:四国地方のラジオ局](https://ja.wikipedia.org/wiki/Category:四国地方のラジオ局 "wikilink")
 
 1.  主に高知県内で重大な自然災害が発生した場合など。
+2.
+3.  [みてみて高知12468 ワンツーヨーロッパ](http://web.sunsuntv.co.jp/kochi12468) - 高知さんさんテレビ
+4.  [みてみて高知12468キャンペーン](https://www.kutv.co.jp/12468cp/) - テレビ高知
+5.  [民放の新型コロナ対応 ～視聴者・リスナーに向けて 地域内での共同キャンペーン](https://j-ba.or.jp/category/COVID-19/jba103783) - 日本民間放送連盟

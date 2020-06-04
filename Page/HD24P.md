@@ -45,6 +45,6 @@
 
 ## 外部リンク
 
-  - [What's HD/24P ?](http://tvarc.toei.co.jp/tv/agito/movie2/digital.html) （映画仮面ライダーアギトのサイト内にあるHD/24Pシステム紹介ページ）
+  - [What's HD/24P ?](https://web.archive.org/web/20111017224016/http://tvarc.toei.co.jp/tv/agito/movie2/digital.html) （映画「仮面ライダーアギト」上映当時のサイト内にあったHD/24Pシステム紹介ページ。[Wayback Machineによる再現](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink")）
 
 [Category:映画](https://ja.wikipedia.org/wiki/Category:映画 "wikilink") [Category:特撮](https://ja.wikipedia.org/wiki/Category:特撮 "wikilink")

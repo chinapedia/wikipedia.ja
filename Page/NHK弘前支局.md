@@ -90,7 +90,7 @@
 
 ## 外部リンク
 
-  - [NHK弘前支局](http://www.nhk.or.jp/aomori/station_info/map.html)
+  - [NHK弘前支局](https://www.nhk.or.jp/aomori/station_info/map.html)
   - [NHK文化センター弘前教室](http://www.nhk-cul.co.jp/school/hirosaki/)
 
 [Category:青森県のマスメディア](https://ja.wikipedia.org/wiki/Category:青森県のマスメディア "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:東北地方の放送](https://ja.wikipedia.org/wiki/Category:東北地方の放送 "wikilink") [Category:NHK青森](https://ja.wikipedia.org/wiki/Category:NHK青森 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:弘前市の建築物](https://ja.wikipedia.org/wiki/Category:弘前市の建築物 "wikilink")

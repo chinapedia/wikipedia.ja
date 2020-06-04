@@ -3,7 +3,7 @@
 
 **USC**
 
-  - **大学** - 米国では一般的にUSCは南カリフォルニア大学を指すが、各大学も各自の大学においては使っている 。
+  - **大学** - 米国では一般的にUSCは[南カリフォルニア大学](../Page/南カリフォルニア大学.md "wikilink")を指すが、各大学も各自の大学においては使っている 。
       - [サンカルロス大学](https://ja.wikipedia.org/wiki/サンカルロス大学 "wikilink") (*University of San Carlos*)
       - ウニベルシダッド・デル・サグラド・コラゾン(スペイン語：*Universidad del Sagrado Corazón*、英：*University of the Sacred Heart*)（和訳するとすれば「プエルトリコ聖心大学？」）[プエルトリコ](../Page/プエルトリコ.md "wikilink")・[サンフアン](../Page/サンフアン_\(プエルトリコ\).md "wikilink")
       - [サンタ・クローチェ教皇大学](https://ja.wikipedia.org/wiki/サンタ・クローチェ教皇大学 "wikilink") (*[:en:Pontifical University of the Holy Cross](https://ja.wikipedia.org/wiki/:en:Pontifical_University_of_the_Holy_Cross "wikilink")*、[ラテン語](../Page/ラテン語.md "wikilink"): *Pontificia Universitas Sanctae Crucis*)　[イタリア](../Page/イタリア.md "wikilink")・[ローマ](../Page/ローマ.md "wikilink")

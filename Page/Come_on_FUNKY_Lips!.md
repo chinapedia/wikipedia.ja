@@ -23,7 +23,7 @@
 <td><p>1994.04</p></td>
 <td><p>1994.12</p></td>
 <td><p><a href="../Page/衛藤利恵.md" title="wikilink">衛藤利恵</a><br />
-<a href="https://ja.wikipedia.org/wiki/山本未来" title="wikilink">山本未来</a></p></td>
+<a href="../Page/山本未來.md" title="wikilink">山本未来</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木杏樹" title="wikilink">鈴木杏樹</a></p></td>
 <td><p><a href="../Page/今田耕司.md" title="wikilink">今田耕司</a><br />
 <a href="../Page/東野幸治.md" title="wikilink">東野幸治</a></p></td>

@@ -7,7 +7,7 @@
 
 運営会社は株式会社岐阜フットボールクラブであり\[2\]、2007年3月に[Jリーグ準加盟クラブ](../Page/Jリーグ準加盟クラブ.md "wikilink")として承認され\[3\]、2008年にJリーグへ加盟した\[4\]。チームカラーやエンブレムなどは岐阜県花である「[レンゲソウ](../Page/ゲンゲ.md "wikilink")」と「[木曽三川](../Page/木曽三川.md "wikilink")」をモチーフとして、[赤](../Page/赤.md "wikilink")は情熱、[青](../Page/青.md "wikilink")は知性、[緑](../Page/緑.md "wikilink")は調和をそれぞれ表している\[5\]。
 
-ホームスタジアムは、[岐阜メモリアルセンター長良川競技場](../Page/岐阜メモリアルセンター長良川競技場.md "wikilink")、練習場は[岐阜メモリアルセンター長良川球技メドウや岐阜市北西部運動公園などである](../Page/長良川球技メドウ.md "wikilink")\[6\]（詳細は[\#スタジアム・練習場](https://ja.wikipedia.org/wiki/#スタジアム・練習場 "wikilink")を参照）。
+ホームスタジアムは、[岐阜メモリアルセンター長良川競技場](../Page/岐阜メモリアルセンター長良川競技場.md "wikilink")、練習場は[岐阜メモリアルセンター長良川球技メドウや](../Page/長良川球技メドウ.md "wikilink")[岐阜市北西部運動公園](https://ja.wikipedia.org/wiki/岐阜市北西部運動公園 "wikilink")などである\[6\]（詳細は[\#スタジアム・練習場](https://ja.wikipedia.org/wiki/#スタジアム・練習場 "wikilink")を参照）。
 
 なお、2013年4月28日から[第67回国民体育大会](../Page/第67回国民体育大会.md "wikilink")（ぎふ清流国体）のマスコットの「ミナモ」が\[7\]、また[2014年](../Page/2014年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")より[日本一ソフトウェア](../Page/日本一ソフトウェア.md "wikilink")のマスコット「[プリニー](https://ja.wikipedia.org/wiki/プリニー "wikilink")」がそれぞれ期限付きで応援マスコットとなっている\[8\]。その後、2017年7月22日、公式マスコットキャラクター「**[ギッフィー](https://ja.wikipedia.org/wiki/ギッフィー "wikilink")**」のデザインを発表。同年10月1日のホームゲームで着ぐるみがお披露目となった\[9\]。
 
@@ -257,15 +257,16 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <tr class="even">
 <td><p>胸</p></td>
 <td><p><a href="../Page/日本特殊陶業.md" title="wikilink">日本特殊陶業</a></p></td>
-<td><p>NGK/NTK<br />
-<small>日本特殊陶業</small></p></td>
+<td><p>NGK|NGK|NTK<br />
+ニューセラミック}}<br />
+日本特殊陶業</p></td>
 <td><p>2014年 -</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>鎖骨</p></td>
 <td><p><a href="../Page/名鉄協商.md" title="wikilink">名鉄協商</a></p></td>
-<td><p><small>かなえたいを、協える。</small><br />
+<td><p><br />
 名鉄協商</p></td>
 <td><p>2018年 -</p></td>
 <td><p>左側に表記</p></td>
@@ -280,7 +281,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <tr class="odd">
 <td><p>背中上部</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西濃運輸" title="wikilink">西濃運輸</a></p></td>
-<td><p>SEINO 西濃運輸</p></td>
+<td><p>西濃運輸</p></td>
 <td><p>2016年 -</p></td>
 <td><p>2014年はパンツ<br />
 （「<a href="../Page/セイノーホールディングス.md" title="wikilink">セイノーホールディングス</a>」名義）<br />
@@ -296,11 +297,12 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 </tr>
 <tr class="odd">
 <td><p>袖</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">コパン</a></p></td>
 <td><p>COPIN</p></td>
 <td><p>2013年<br />
 2020年 -</p></td>
-<td><p>2010年 - 2012年、2015年 - 2019年はパンツ</p></td>
+<td><p>2010年 - 2012年、2015年 - 2019年はパンツ<br />
+2010年は「 COPIN」表記</p></td>
 </tr>
 <tr class="even">
 <td><p>パンツ</p></td>
@@ -314,7 +316,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 
 ### ユニフォームサプライの遍歴
 
-  - 2006年 - 2007年：[ロット](../Page/ロット_\(企業\).md "wikilink")
+  - \- 2007年：[ロット](../Page/ロット_\(企業\).md "wikilink")
   - 2008年 - 2012年：[ミズノ](../Page/ミズノ.md "wikilink")
   - 2013年 - 2016年：[gol.](http://gol-deportes.com/)
   - 2017年 - 現在：[ニューバランス](../Page/ニューバランス.md "wikilink")\[73\]
@@ -350,26 +352,36 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td><p>サプライヤー</p></td>
 </tr>
 <tr class="even">
-<td><p>2006</p></td>
-<td><p><a href="../Page/アクトス.md" title="wikilink">アクトス</a></p></td>
+<td><p>2005</p></td>
+<td><p>-</p></td>
 <td><p>解禁前</p></td>
-<td><p>アサヒ給湯</p></td>
+<td><p><a href="../Page/アクトス.md" title="wikilink">{{smaller</a></p></td>
 <td><p>解禁前</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/ロット_(企業).md" title="wikilink">Lotto</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2007</p></td>
-<td><p>-</p></td>
-<td><p><a href="../Page/アクトス.md" title="wikilink">アクトス</a></p></td>
-<td></td>
+<td><p>2006</p></td>
+<td><p><a href="../Page/アクトス.md" title="wikilink">{{smaller</a></p></td>
+<td><p>アサヒ給湯岐阜</p></td>
+<td><p><a href="../Page/オリエントコーポレーション.md" title="wikilink">Orico</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2007</p></td>
+<td><p>-</p></td>
+<td><p><a href="../Page/アクトス.md" title="wikilink">{{smaller</a></p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2008</p></td>
 <td><p>-</p></td>
 <td><p>- /<br />
@@ -380,65 +392,70 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009</p></td>
 <td><p>- /<br />
-<a href="../Page/シーシーアイ.md" title="wikilink">AmetVi</a></p></td>
+<a href="../Page/シーシーアイ.md" title="wikilink">{{smaller</a></p></td>
 <td><p>- /<br />
 <a href="http://www.sun-mate.co.jp/">サン・メイト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/教育企画" title="wikilink">名進研</a> /<br />
-<a href="http://www.yamanaka-seika.co.jp/">山中製菓</a></p></td>
+- /<br />
+<a href="http://www.yamanaka-seika.co.jp/">飴<br />
+</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010</p></td>
 <td><p><a href="http://www.realworld.jp/">REALWORLD</a></p></td>
 <td><p>- /<br />
 <a href="../Page/鈴木栄光堂.md" title="wikilink">鈴木栄光堂</a></p></td>
 <td><p><a href="../Page/エイデン.md" title="wikilink">EIDEN</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">{{smaller</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011</p></td>
 <td><p><a href="../Page/第67回国民体育大会.md" title="wikilink">ぎふ清流国体</a></p></td>
 <td><p><a href="../Page/エイデン.md" title="wikilink">EIDEN</a></p></td>
 <td><p><a href="../Page/鈴木栄光堂.md" title="wikilink">鈴木栄光堂</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2012</p></td>
-<td><p>-</p></td>
-<td><p>- /<br />
-<a href="http://www.rayfield.jp/">RAY Field</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2013</p></td>
-<td><p><a href="../Page/ヒマラヤ_(企業).md" title="wikilink">ヒマラヤ</a></p></td>
-<td><p><a href="../Page/ワイジェイカード.md" title="wikilink">KCカード</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
-<td><p><a href="../Page/森ビル.md" title="wikilink">アクティブG</a></p></td>
-<td><p><a href="http://gol-deportes.com/">gol.</a></p></td>
+<td><p>2012</p></td>
+<td><p>-</p></td>
+<td><p>- /<br />
+<a href="http://www.rayfield.jp/"><br />
+Field<br />
+</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2013</p></td>
+<td><p><a href="../Page/ヒマラヤ_(企業).md" title="wikilink">ヒマラヤ<br />
+{{smaller</a></p></td>
+<td><p><a href="../Page/ワイジェイカード.md" title="wikilink">KC Card</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
+<td><p><a href="../Page/森ビル.md" title="wikilink">アクティブG<br />
+{{smaller</a></p></td>
+<td><p><a href="http://gol-deportes.com/">gol.</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2014</p></td>
-<td><p><a href="../Page/日本特殊陶業.md" title="wikilink">NGK/NTK<br />
-<small>日本特殊陶業</small></a></p></td>
+<td><p><a href="../Page/日本特殊陶業.md" title="wikilink">NGK</a></p></td>
 <td><p><a href="../Page/Jトラスト.md" title="wikilink">J TRUST</a></p></td>
 <td><p><a href="../Page/バロー_(チェーンストア).md" title="wikilink">Valor</a></p></td>
 <td><p><a href="../Page/セイノーホールディングス.md" title="wikilink">SEINO</a></p></td>
@@ -446,7 +463,7 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西濃運輸" title="wikilink">SEINO</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
@@ -456,9 +473,9 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西濃運輸" title="wikilink">SEINO 西濃運輸</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西濃運輸" title="wikilink">{{smaller</a></p></td>
 <td><p><a href="../Page/シーシーアイ.md" title="wikilink">CCI SMART MIST</a></p></td>
 <td><p>-</p></td>
 <td></td>
@@ -466,34 +483,48 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="../Page/シーシーアイ.md" title="wikilink">シーシーアイ</a></p></td>
-<td><p><a href="http://www.nobunaga450.jp/">信長公450</a></p></td>
+<td><p><a href="../Page/シーシーアイ.md" title="wikilink">CCIシーシーアイ</a></p></td>
+<td><p><a href="http://www.nobunaga450.jp/">信長公<br />
+450</a></p></td>
 <td><p><a href="../Page/ニューバランス.md" title="wikilink">New Balance</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="../Page/名鉄協商.md" title="wikilink"><small>かなえたいを、協える。</small><br />
-名鉄協商</a>（左）<br />
+<td><p><a href="../Page/名鉄協商.md" title="wikilink">{{smaller</a>（左）<br />
 <a href="https://ja.wikipedia.org/wiki/岐阜車体工業" title="wikilink">岐阜車体</a>（右）</p></td>
 <td><p><a href="http://www.eco-act.jp/">ACT HOLDINGS</a></p></td>
-<td><p><a href="http://www.noda-crane.co.jp/"><small>多目的フットサルコート<br />
+<td><p><a href="http://www.noda-crane.co.jp/"><br />
 キャプテン翼<br />
-垂井スタジアム</small></a></p></td>
+<br />
+垂井 スタジアム</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p><a href="http://www.noda-crane.co.jp/"><br />
+キャプテン翼<br />
+<br />
+垂井 スタジアム</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019</p></td>
-<td></td>
-<td></td>
+<td><p>2020</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
+<td><p><a href="../Page/太平洋工業.md" title="wikilink">太平洋工業</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -501,9 +532,9 @@ FC岐阜では、岐阜市に対し、[岐阜市北西部運動公園](http://gi
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2020</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コパン_(スポーツクラブ)" title="wikilink">COPIN</a></p></td>
-<td><p><a href="../Page/太平洋工業.md" title="wikilink">太平洋工業</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

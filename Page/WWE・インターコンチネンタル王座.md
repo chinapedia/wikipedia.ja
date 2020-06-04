@@ -19,6 +19,8 @@ __TOC__
 
 なお、[1984年](../Page/1984年.md "wikilink")にはノンタイトル戦ながら[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")において、当時のWWFインターコンチネンタル・ヘビー級王者の[グレッグ・バレンタイン](../Page/グレッグ・バレンタイン.md "wikilink")と[WWFインターナショナル・ヘビー級王者の](https://ja.wikipedia.org/wiki/WWFインターナショナル・ヘビー級王座 "wikilink")[藤波辰巳との対戦が実現している](../Page/藤波辰爾.md "wikilink")（結果は[逆さ押さえ込みで藤波の勝利](https://ja.wikipedia.org/wiki/フォール技#逆さ押さえ込み "wikilink")）。
 
+日本人レスラーとしては[Extreme Rules 2019にて](https://ja.wikipedia.org/wiki/WWEエクストリーム・ルールズ "wikilink")、[フィン・ベイラーを破った](../Page/ファーガル・デヴィット.md "wikilink")[中邑真輔](../Page/中邑真輔.md "wikilink")が日本人初の戴冠を果たしている。
+
 ## 歴代王者
 
 | レスラー                                                                                            | 戴冠回数 | 戴冠日付                                                         | 番組                                                                                                                                                               | 試合形式                                                               |
@@ -239,7 +241,7 @@ __TOC__
 | [中邑真輔](../Page/中邑真輔.md "wikilink")                                                              | 1    | 20197月14日                                                    | [Extreme Rules 2019](https://ja.wikipedia.org/wiki/WWEエクストリーム・ルールズ "wikilink")                                                                                   | One Fall                                                           |
 | [ブラウン・ストローマン](https://ja.wikipedia.org/wiki/アダム・シェル "wikilink")                                 | 1    | 20201月31日                                                    | SmackDown                                                                                                                                                        | One Fall                                                           |
 | [サミ・ゼイン](https://ja.wikipedia.org/wiki/ラミ・セベイ "wikilink")                                       | 1    | 20203月8日                                                     | [Elimination Chamber 2020](https://ja.wikipedia.org/wiki/WWEエリミネーション・チェンバー "wikilink")                                                                           | Handicap                                                           |
-|                                                                                                 |      |                                                              |                                                                                                                                                                  |                                                                    |
+| ※王座剥奪。トーナメント戦で次期王者を決定。                                                                          |      |                                                              |                                                                                                                                                                  |                                                                    |
 
 ## 脚注
 

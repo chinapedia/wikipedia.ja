@@ -535,7 +535,7 @@
 
 ## 外部リンク
 
-  - [日本放送協会ホームページ](http://www.nhk.or.jp/index.html)
+  - [日本放送協会ホームページ](https://www.nhk.or.jp/index.html)
 
 [Category:NHK総合テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの帯番組の歴史 "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:テレビ放送枠](https://ja.wikipedia.org/wiki/Category:テレビ放送枠 "wikilink")
 

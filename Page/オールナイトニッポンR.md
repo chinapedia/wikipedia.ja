@@ -1,7 +1,7 @@
 > この記事は[オールナイトニッポンR](https://ja.wikipedia.org/wiki/オールナイトニッポンR)から翻訳されています。
 
 
-『**オールナイトニッポンR**』（オールナイトニッポンアール）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに放送されていた](https://ja.wikipedia.org/wiki/キー局 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』関連番組の一つである。この記事では、単発で放送されたパーソナリティの時間、いわゆる**週替わり**枠についても、以下で詳述する。
+『**オールナイトニッポンR**』（オールナイトニッポンアール）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに放送されていた](../Page/キー局.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")であり、『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』関連番組の一つである。この記事では、単発で放送されたパーソナリティの時間、いわゆる**週替わり**枠についても、以下で詳述する。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 この番組の目的として、1998年4月から2003年9月までは、1974年6月から1998年3月末まで続いていた「オールナイトニッポン（第2部）」からの流れから、おおむね若手パーソナリティの育成を目的にしていた。
 
-1999年3月29日、『[LF+R](../Page/LF+R.md "wikilink")』編成がスタートしてからはローマ字表記の『**allnightnippon-r**』へと変更された。しかし、ネット局によっては、直前の『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")』につられてか『@llnightnippon-r』と誤記された放送局もあった。その後、『LF+R』終了後の2003年3月をもって『オールナイトニッポンR』と番組名が変更されたが、[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")には「[オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")」開始に伴い、月曜 - 木曜の放送は一時、終了した。その為、2003年10月から「週替わり」として[金曜日](../Page/金曜日.md "wikilink")と[土曜日](../Page/土曜日.md "wikilink")（土曜日は2004年3月までの前番組は「[オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")」）のみが残り、その後も中断期間をはさみながら放送されていたため、いわば、かつての2部の[特別番組](../Page/特別番組.md "wikilink")的な要素を持っている。なお、[2006年](../Page/2006年.md "wikilink")4月からは金曜日の週替わりはなくなり、7月から土曜日も週替わりではなくなっていたが、2006年10月から土曜日の週替わりが復活するとともに、放送時間が120分に放送枠が拡大した。ただし、ニッポン放送は[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")でありながら、放送時間は従来と同じ90分となっていた。
+1999年3月29日、『[LF+R](../Page/LF+R.md "wikilink")』編成がスタートしてからはローマ字表記の『**allnightnippon-r**』へと変更された。しかし、ネット局によっては、直前の『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")』につられてか『@llnightnippon-r』と誤記された放送局もあった。その後、『LF+R』終了後の2003年3月をもって『オールナイトニッポンR』と番組名が変更されたが、[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")には「[オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")」開始に伴い、月曜 - 木曜の放送は一時、終了した。その為、2003年10月から「週替わり」として[金曜日](../Page/金曜日.md "wikilink")と[土曜日](../Page/土曜日.md "wikilink")（土曜日は2004年3月までの前番組は「[オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")」）のみが残り、その後も中断期間をはさみながら放送されていたため、いわば、かつての2部の[特別番組](../Page/特別番組.md "wikilink")的な要素を持っている。なお、[2006年](../Page/2006年.md "wikilink")4月からは金曜日の週替わりはなくなり、7月から土曜日も週替わりではなくなっていたが、2006年10月から土曜日の週替わりが復活するとともに、放送時間が120分に放送枠が拡大した。ただし、ニッポン放送は[キー局](../Page/キー局.md "wikilink")でありながら、放送時間は従来と同じ90分となっていた。
 
 なお、2003年3月31日-2004年3月28日の期間のオールナイトニッポン公式サイトである***www.allnightnippon.com***では「オールナイトニッポンR ***スペシャルナイト***」と表記されていたが 、2004年度以降の公式サイトでは「オールナイトニッポンR」だけの表記になっていた。
 
@@ -61,7 +61,7 @@
 
   - <span id="sattime">※</span>局別放送時間
     実際に放送される時間は局によって異なる。詳細は以下のとおり。
-      - 27:00 - 29:00 ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](../Page/KBCラジオ.md "wikilink")\[16\]、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")\[17\]、[大分放送](../Page/大分放送.md "wikilink")（2013年4月から）
+      - 27:00 - 29:00 ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](../Page/KBCラジオ.md "wikilink")\[16\]、[長崎放送](../Page/長崎放送.md "wikilink")\[17\]、[大分放送](../Page/大分放送.md "wikilink")（2013年4月から）
       - 27:00 - 28:30 ： [ニッポン放送](../Page/ニッポン放送.md "wikilink")\[18\]\[19\]
       - 27:00 - 28:00 ： [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[福井放送](../Page/福井放送.md "wikilink")、[和歌山放送](../Page/和歌山放送.md "wikilink")、[西日本放送ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（2010年1月から）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
       - 過去のネット局 ： [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（2005年9月で終了 27:00 - 28:30）、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[信越放送](../Page/信越放送.md "wikilink")\[20\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2015年3月で終了\[21\] 27:00 - 28:00）、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（2017年4月で終了 27:00 - 28:00）

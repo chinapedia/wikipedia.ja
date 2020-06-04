@@ -145,7 +145,9 @@
 
   - [公式サイト](http://www.caramel-box.com/)（年齢確認あり）
 
-[Category:キャラメルBOX](https://ja.wikipedia.org/wiki/Category:キャラメルBOX "wikilink")
+  -
+  -
+[Category:キャラメルBOX](https://ja.wikipedia.org/wiki/Category:キャラメルBOX "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
 1.  <http://hobibox.co.jp/company/profile.html>
 2.  自身のブログにて[2011年](../Page/2011年.md "wikilink")（平成23年）5月をもって退社したことを報告している。

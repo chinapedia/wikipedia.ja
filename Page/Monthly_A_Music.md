@@ -130,7 +130,7 @@
   - 9月「誰も知らない歌」／[theSoul](https://ja.wikipedia.org/wiki/theSoul "wikilink")
   - 10月「[君がいるから](../Page/君がいるから_\(SunSet_Swishの曲\).md "wikilink")」／[SunSet Swish](https://ja.wikipedia.org/wiki/SunSet_Swish "wikilink")
   - 11月「[シンクロ](../Page/シンクロ_\(秦基博の曲\).md "wikilink")」／[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")
-  - 12月「[心のリズム飛び散るバタフライ](../Page/心のリズム飛び散るバタフライ.md "wikilink")」／[doa](../Page/Doa_\(ミュージシャン\).md "wikilink")
+  - 12月「[心のリズム飛び散るバタフライ](../Page/心のリズム飛び散るバタフライ.md "wikilink")」／[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")
 
 ### 2007年（平成19年）
 

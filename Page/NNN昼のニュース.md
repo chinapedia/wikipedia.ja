@@ -108,7 +108,7 @@
 
   - 日曜日は当初12:00 - 12:15、のちに11:45 - 12:00→1986年1月より11:30 - 11:45の放送だったが、1990年10月以降は11:30 - 11:40までの放送。
   - 記述は日本テレビでの放送時間。系列局の中にはローカルニュースを独立して放送していた放送局がある。
-  - また、タイトルを改題しローカルニュースを内包して放送した局もある（[テレビ信州](../Page/テレビ信州.md "wikilink")では『[TSBニュース NNN](https://ja.wikipedia.org/wiki/TSBニュース_NNN "wikilink")』、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")では『[KNBニュース NNN](../Page/KNBニュース.md "wikilink")』、[読売テレビでは](../Page/讀賣テレビ放送.md "wikilink")『[NNNよみうりニュース](../Page/よみうりニュース_NNN.md "wikilink")』、[鹿児島読売テレビでは](../Page/鹿児島讀賣テレビ.md "wikilink")『[KYT昼のニュース NNN](https://ja.wikipedia.org/wiki/KYT昼のニュース "wikilink")』にそれぞれ改題）。
+  - また、タイトルを改題しローカルニュースを内包して放送した局もある（[テレビ信州](../Page/テレビ信州.md "wikilink")では『[TSBニュース NNN](https://ja.wikipedia.org/wiki/TSBニュース_NNN "wikilink")』、[北日本放送](../Page/北日本放送.md "wikilink")では『[KNBニュース NNN](../Page/KNBニュース.md "wikilink")』、[読売テレビでは](../Page/讀賣テレビ放送.md "wikilink")『[NNNよみうりニュース](../Page/よみうりニュース_NNN.md "wikilink")』、[鹿児島読売テレビでは](../Page/鹿児島讀賣テレビ.md "wikilink")『[KYT昼のニュース NNN](https://ja.wikipedia.org/wiki/KYT昼のニュース "wikilink")』にそれぞれ改題）。
 
 ## ネットしていた局
 
@@ -159,7 +159,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p>1992年9月30日まで<a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">JNNへの番販参加局</a></p></td>
 <td></td>
 </tr>
@@ -202,7 +202,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td></td>
 <td></td>
 </tr>

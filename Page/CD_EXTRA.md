@@ -1,7 +1,7 @@
 > この記事は[CD EXTRA](https://ja.wikipedia.org/wiki/CD_EXTRA)から翻訳されています。
 
 
-**CD EXTRA/CD-EXTRA**（シーディー エクストラ 正式名称:**Enhanced Music Compact Disc**）は一枚の[CDに](../Page/コンパクトディスク.md "wikilink")[CD-DA](../Page/CD-DA.md "wikilink")（音楽）とデータを共存させている[マルチセッションCD](https://ja.wikipedia.org/wiki/マルチセッションCD "wikilink")、あるいは[ブルーブック](https://ja.wikipedia.org/wiki/ブルーブック "wikilink")に規定されている仕様の名称である。
+**CD EXTRA/CD-EXTRA**\[1\]（シーディー エクストラ 正式名称:**Enhanced Music Compact Disc**）は一枚の[CDに](../Page/コンパクトディスク.md "wikilink")[CD-DA](../Page/CD-DA.md "wikilink")（音楽）とデータを共存させている[マルチセッションCD](https://ja.wikipedia.org/wiki/マルチセッションCD "wikilink")、あるいは[ブルーブック](https://ja.wikipedia.org/wiki/ブルーブック "wikilink")に規定されている仕様の名称である。
 
 英語圏では **Enhanced CD** と呼ばれ、音楽CDのボーナス・ディスクとして付いて来る場合が多い。
 
@@ -11,7 +11,7 @@
 
 ## 概説
 
-日本国内で初めてリリースされたCD EXTRAは、[野呂一生](../Page/野呂一生.md "wikilink")のアルバム『トップ・シークレット』（[1996年](../Page/1996年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売）である。
+日本国内で初めてリリースされたCD EXTRAは、[野呂一生](../Page/野呂一生.md "wikilink")のアルバム『トップ・シークレット』（[1996年](../Page/1996年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売）である\[2\]\[3\]。
 
 現在ではCD EXTRAは音楽CDの余剰部分を利用して特典の映像や画像を収録する場合が多い。
 
@@ -36,4 +36,12 @@ CD EXTRAでは音楽用のセッションとデータ用のセッションに分
   - [CD-ROM](../Page/CD-ROM.md "wikilink")
   - [コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")
 
+## 脚注
+
+<references />
+
 [Category:電子媒体](https://ja.wikipedia.org/wiki/Category:電子媒体 "wikilink")
+
+1.
+2.
+3.

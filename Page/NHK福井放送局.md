@@ -381,6 +381,13 @@
 </tbody>
 </table>
 
+## 共同キャンペーン
+
+[2020年](../Page/2020年.md "wikilink")4月から、NHK福井放送局では[新型コロナウイルスに関する共同キャンペーンを福井県内の](../Page/2019新型コロナウイルス.md "wikilink")[民間放送](../Page/民間放送.md "wikilink")各局とテレビ\[6\]・ラジオで展開している。
+
+  - テレビ（アナウンサー・参加局）：角谷直也（NHK福井放送局）、[山田恵梨子](../Page/山田恵梨子.md "wikilink")（福井放送）、佐橋嬉香（[福井テレビジョン放送](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")）
+  - ラジオ（参加局）：NHK福井放送局、福井放送（FBCラジオ）、[福井エフエム放送](../Page/福井エフエム放送.md "wikilink")（FM福井）、[福井街角放送](../Page/福井街角放送.md "wikilink")、[たんなん夢レディオ](../Page/たんなん夢レディオ.md "wikilink")（たんなんFM）、[敦賀FM放送](../Page/敦賀FM放送.md "wikilink")（ハーバーステーション）
+
 ## 脚注
 
 ## 参考文献
@@ -404,3 +411,4 @@
 3.
 4.  [NHKドラマ 福井発地域ドラマ「恐竜せんせい」](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=kyouryusensei)
 5.
+6.  [NHK福井放送局 新型コロナウイルス](https://www.nhk.or.jp/fukui/coronavirus_information/)

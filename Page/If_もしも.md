@@ -231,7 +231,7 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:フジテレビ木曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜8時枠の連続ドラマ "wikilink") [Category:1993年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1993年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:オムニバスドラマ](https://ja.wikipedia.org/wiki/Category:オムニバスドラマ "wikilink") [Category:パラレルワールドを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:パラレルワールドを題材としたテレビドラマ "wikilink") [Category:タモリ](https://ja.wikipedia.org/wiki/Category:タモリ "wikilink")
 

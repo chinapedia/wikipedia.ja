@@ -22,7 +22,7 @@
   - [ローマ数字](../Page/ローマ数字.md "wikilink")で[501](../Page/501.md "wikilink")。
   - [D.I.](https://ja.wikipedia.org/wiki/D.I. "wikilink") - [エリア・スレイマン](https://ja.wikipedia.org/wiki/エリア・スレイマン "wikilink")監督の映画。
   - [ダイレクト・インストラクション](https://ja.wikipedia.org/wiki/ダイレクト・インストラクション "wikilink") ()。
-  - [キューバ](../Page/キューバ.md "wikilink")にある情報管理局（Dirección de Inteligencia）。旧DGI（Dirección General de Inteligencia）。
+  - [キューバ](../Page/キューバ.md "wikilink")にある情報管理局 (Dirección de Inteligencia、旧 DGI (Dirección General de Inteligencia))。
   - [ディープインフェルノ](https://ja.wikipedia.org/wiki/ディープインフェルノ "wikilink") スカッとゴルフパンヤのコースの1つ()。
   - [Device Identification Profile](https://ja.wikipedia.org/wiki/Device_Identification_Profile "wikilink") - [Bluetoothプロファイル](https://ja.wikipedia.org/wiki/Bluetoothプロファイル "wikilink")の一つ。
 

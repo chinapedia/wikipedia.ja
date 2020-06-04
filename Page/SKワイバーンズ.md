@@ -1,19 +1,22 @@
 > この記事は[SKワイバーンズ](https://ja.wikipedia.org/wiki/SKワイバーンズ)から翻訳されています。
 
 
-**SKワイバーンズ**（エスケーワイバーンズ、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"):에스케이 와이번스（読み: エスケーワイバンズ）、[英語](../Page/英語.md "wikilink"): SK Wyverns）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チーム。[ホームタウン](../Page/ホームタウン.md "wikilink")は[仁川広域市](../Page/仁川広域市.md "wikilink")で、同市内の[仁川SK Happy Dreamパークを](../Page/文鶴野球場.md "wikilink")[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")とする。韓国有数の[企業グループ](https://ja.wikipedia.org/wiki/企業グループ "wikilink")・[SKグループ](../Page/SKグループ.md "wikilink")傘下。[2000年](../Page/2000年.md "wikilink")、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](../Page/SKグループ.md "wikilink")がその選手たちを受け入れ「新球団」として誕生した。チーム名の「ワイバーンズ」は空想上の竜の怪物・[ワイバーン](../Page/ワイバーン.md "wikilink")（wyvern、飛龍）に由来する。
+**SKワイバーンズ**（エスケーワイバーンズ、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"):에스케이 와이번스、[英語](../Page/英語.md "wikilink"): SK Wyverns）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[大韓民国](../Page/大韓民国.md "wikilink")の[プロ野球](../Page/プロ野球.md "wikilink")チームである。[ホームタウン](../Page/ホームタウン.md "wikilink")は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内の[仁川SK Happy Dreamパークを](../Page/文鶴野球場.md "wikilink")[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")とする。韓国有数の[企業グループ](https://ja.wikipedia.org/wiki/企業グループ "wikilink")・[SKグループ](../Page/SKグループ.md "wikilink")傘下であり、[2000年](../Page/2000年.md "wikilink")、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](../Page/SKグループ.md "wikilink")がその選手たちを受け入れ「新球団」として誕生した。チーム名の「ワイバーンズ」は、空想上の竜の怪物・[ワイバーン](../Page/ワイバーン.md "wikilink")（wyvern、飛龍）から。
 
 ## チーム略歴
 
-*' [2000年](../Page/2000年.md "wikilink")*'に韓国野球委員会とSKグループがサンバンウル・レイダースに代わる新球団の創設に合意。
-本拠地は、プロチームとしてのビジネスのできる人口基盤を求めて、サンバンウルのホームである[全羅北道](../Page/全羅北道.md "wikilink")[全州市](https://ja.wikipedia.org/wiki/全州市 "wikilink")（人口およそ60万）ではなく、およそ100万以上の人口を抱えて、周辺都市まであわせると営業可能な人口基盤がおよそ200万に及ぶと考えられると同時に親会社と繋がりのある首都圏の[京畿道](../Page/京畿道.md "wikilink")[水原市](https://ja.wikipedia.org/wiki/水原市 "wikilink")を希望。しかし、[現代ユニコーンズ](../Page/現代ユニコーンズ.md "wikilink")が以前から希望していたソウルへの移転を前提として暫定的に水原市に本拠地を移動させることになり、空席となった仁川を本拠地として受け入れることになった。
+**2000年**に韓国野球委員会とSKグループがサンバンウル・レイダースに代わる新球団の創設に合意。
+本拠地はプロチームとしてのビジネスのできる人口基盤を求めて、サンバンウルのホームである[全羅北道](../Page/全羅北道.md "wikilink")[全州市](https://ja.wikipedia.org/wiki/全州市 "wikilink")（人口およそ60万）ではなく、およそ100万以上の人口を抱えて、周辺都市まであわせると営業可能な人口基盤がおよそ200万に及ぶと考えられると同時に親会社と繋がりのある首都圏の[京畿道](../Page/京畿道.md "wikilink")[水原市](https://ja.wikipedia.org/wiki/水原市 "wikilink")を希望。しかし、[現代ユニコーンズ](../Page/現代ユニコーンズ.md "wikilink")が以前から希望していたソウルへの移転を前提として暫定的に水原市に本拠地を移動させることになり、空席となった仁川を本拠地として受け入れることになった。
 なお、このとき現代ユニコーンズはSK側が仁川を本拠地として受け入れるか否かとは関係なく、ソウル移転計画を強行推進した。その後、仁川を捨てた現代ユニコーンズは、暫定本拠地・水原での人気を得られず、現代グループの分裂などによる経営危機に陥り3度の売却交渉に失敗。その後、2008年から投資会社がスポンサーを募集し経営する新球団、[ウリ・ヒーローズが発足して解散となった](https://ja.wikipedia.org/wiki/ネクセン・ヒーローズ "wikilink")。
 
-**[2002年](../Page/2002年.md "wikilink")**、[サッカーワールドカップ誘致に伴う仁川広域市の新総合運動場建設計画によって](../Page/2002_FIFAワールドカップ.md "wikilink")、[メインスタジアムの隣に受容人員](../Page/仁川文鶴競技場.md "wikilink")3万人規模の[文鶴（ムナク）野球場が完成](../Page/文鶴野球場.md "wikilink")。これに伴って仁川都心部の[桃園（ドウォン）球場から同球場に本拠地を移転](../Page/仁川公設運動場野球場.md "wikilink")。
+**2002年**、[サッカーワールドカップ誘致に伴う仁川広域市の新総合運動場建設計画によって](../Page/2002_FIFAワールドカップ.md "wikilink")、[メインスタジアムの隣に受容人員](../Page/仁川文鶴競技場.md "wikilink")3万人規模の[文鶴（ムナク）野球場が完成](../Page/文鶴野球場.md "wikilink")。これに伴って仁川都心部の[桃園（ドウォン）球場から同球場に本拠地を移転](../Page/仁川公設運動場野球場.md "wikilink")。
 
 **2003年**、[曺凡鉉監督が就任し](https://ja.wikipedia.org/wiki/チョ凡鉉 "wikilink")4位でポーストシーズン初進出を果たす。準プレイオフから勝ち上がって球団史上初の韓国シリーズ進出を果たすも、[現代ユニコーンズ](../Page/現代ユニコーンズ.md "wikilink")の前に、7戦までもつれ込む接戦を演じながら敗れた。
+
 **2004年**に[LGツインズ](../Page/LGツインズ.md "wikilink")から元[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の李尚勲（日本での登録名は[サムソン・リー](https://ja.wikipedia.org/wiki/サムソン・リー "wikilink")）が移籍するが、不振に陥りシーズン途中で電撃引退を発表し、この年は5位でポストシーズンに進出できなかった。
+
 **2005年**は優勝争いを続け終盤2位をキープしていたが、最終戦で[斗山ベアーズ](../Page/斗山ベアーズ.md "wikilink")に追い越され3位に転落、[ハンファ・イーグルス](../Page/ハンファ・イーグルス.md "wikilink")との準プレーオフに敗れた。
+
 **2006年**は6位でポストシーズンには進出できず、曺凡鉉監督が退任した。
 
 **2007年**から[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")で1,2軍巡回コーチを勤めた[金星根](../Page/金星根.md "wikilink")が監督に就任し、[シカゴ・ホワイトソックス](../Page/シカゴ・ホワイトソックス.md "wikilink")でコーチを歴任した[李萬洙](../Page/李萬洙.md "wikilink")をヘッドコーチとして迎えた。同年度レギュラーシーズン1位で韓国シリーズに直行。プレイオフ勝者の斗山ベアーズを4勝2敗で下して悲願の初優勝を決めた。この時点で存在した韓国野球委員会所属の全球団が優勝を経験することになったが、2008年[現代ユニコーンズ](../Page/現代ユニコーンズ.md "wikilink")の解散、[ヒーローズの創設で](https://ja.wikipedia.org/wiki/ネクセン・ヒーローズ "wikilink")、また優勝未経験の球団が出てきた。
@@ -88,6 +91,10 @@
 
 </div>
 
+## 永久欠番
+
+  - **26** [朴勍完](https://ja.wikipedia.org/wiki/朴勍完 "wikilink")（パク・キョンワン、韓国語: 박경완）
+
 ## 主な退団・引退選手
 
 ### 韓国人選手
@@ -132,7 +139,7 @@
   - [エステバン・ジャン](../Page/エステバン・ジャン.md "wikilink")（2008） - 元[阪神タイガース](../Page/阪神タイガース.md "wikilink")
   - [マイク・ジョンソン](../Page/マイク・ジョンソン_\(1975年生の投手\).md "wikilink")（2009） - 元大阪近鉄バファローズ
   - [クリストファー・ニコースキー](../Page/クリストファー・ニコースキー.md "wikilink")（2009） - 元[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
-  - [門倉健](../Page/門倉健.md "wikilink")（2009-2010） - 元[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")、[近鉄バファローズ](https://ja.wikipedia.org/wiki/近鉄バファローズ "wikilink")、[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
+  - [門倉健](../Page/門倉健.md "wikilink")（2009-2010） - 元[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")、[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")、[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
   - [ゲーリー・グローバー](../Page/ゲーリー・グローバー.md "wikilink")（2009-2011） - 元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
   - [ブライアン・ゴードン](https://ja.wikipedia.org/wiki/ブライアン・ゴードン "wikilink")（2011）
   - [アキリーノ・ロペス](https://ja.wikipedia.org/wiki/アキリーノ・ロペス "wikilink")（2012）

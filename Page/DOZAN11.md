@@ -21,7 +21,7 @@ Mixin'1というプライベートレーベルを設立、「MIKI-FM」の新作
 
 2002年にはレーベルをあげて、全国47都道府県ツアーを開催。2003年、レゲエシンガーの[MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")の楽曲「栽培したい〜世界中で〜」に作詞で参加。
 
-2008年8月27日、[INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")とのコラボレーション曲「侍ノ詩」を発売。2012年7月11日に発売された[EVISBEATSのアルバム](../Page/アミダ_\(ミュージシャン\).md "wikilink")『ひとつになるとき』の収録曲「ギャーテーギャーテー」、「ちょうどYEAH\!」の作詞を担当。その後、学生時代に遭った交通事故の後遺症、自律神経の乱れから音楽を引退\[13\]。加えて逆流性食道炎で2年間の寝たきり生活を経験する\[14\]。
+2008年8月27日、[INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")とのコラボレーション曲「侍ノ詩」を発売。2012年7月11日に発売された[EVISBEATSのアルバム](../Page/アミダ_\(ミュージシャン\).md "wikilink")『ひとつになるとき』の収録曲「ギャーテーギャーテー」、「ちょうどYEAH\!」の作詞を担当。その後、学生時代に遭った交通事故の後遺症、[自律神経](https://ja.wikipedia.org/wiki/自律神経 "wikilink")の乱れから音楽を引退\[13\]。加えて[逆流性食道炎](../Page/逆流性食道炎.md "wikilink")で2年間の寝たきり生活を経験する\[14\]。
 
 2014年、三木道三から**DOZAN11**に改名し、活動を再開\[15\]。同年5月11日、レゲエミュージシャン[RED SPIDERのライブ](https://ja.wikipedia.org/wiki/RED_SPIDER "wikilink")「大阪UP\!\!\!\!」にシークレットゲストとして出演\[16\]。11月12日、アルバム『Japan be Irie\!\!』を発売。
 

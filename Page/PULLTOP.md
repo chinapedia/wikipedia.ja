@@ -292,6 +292,9 @@ FD</p></td>
 
   - [PULLTOP Official Website](http://www.pulltop.com/)
 
+  - [PULLTOP Official Website（アダルト）](http://www.pulltop.com/adult/)
+
+  -
   -
 [Category:ウィルプラス](https://ja.wikipedia.org/wiki/Category:ウィルプラス "wikilink")
 

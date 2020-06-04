@@ -132,7 +132,7 @@ PHS用SIMカードとしては[2005年](../Page/2005年.md "wikilink")（平成1
 
 ### eSIM（日本）
 
-eSIMについてはNTTドコモ・au・ソフトバンクの既存3社は積極的ではなく、Apple Watch用に提供するのみである。一方で2020年に新規参入した[楽天モバイル](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")は、音声通話対応のeSIMを提供しており、eSIM専用端末も販売している。MVNO事業者では[インターネットイニシアティブ](https://ja.wikipedia.org/wiki/インターネットイニシアティブ "wikilink")がデータ通信専用で提供、KDDIグループの[ソラコム](https://ja.wikipedia.org/wiki/ソラコム "wikilink")が海外旅行者向けデータ通信専用eSIMを提供しているほか、[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")と[丸紅ネットワークソリューションズ](https://ja.wikipedia.org/wiki/丸紅ネットワークソリューションズ "wikilink")が法人向けに提供している\[21\]。
+eSIMについてはNTTドコモ・au・ソフトバンクの既存3社は積極的ではなく、Apple Watch用に提供するのみである。一方で2020年に新規参入した[楽天モバイルは](../Page/楽天モバイル_\(MNO\).md "wikilink")、音声通話対応のeSIMを提供しており、eSIM専用端末も販売している。MVNO事業者では[インターネットイニシアティブ](https://ja.wikipedia.org/wiki/インターネットイニシアティブ "wikilink")がデータ通信専用で提供、KDDIグループの[ソラコム](https://ja.wikipedia.org/wiki/ソラコム "wikilink")が海外旅行者向けデータ通信専用eSIMを提供しているほか、[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")と[丸紅ネットワークソリューションズ](https://ja.wikipedia.org/wiki/丸紅ネットワークソリューションズ "wikilink")が法人向けに提供している\[21\]。
 
 ### 法規制
 

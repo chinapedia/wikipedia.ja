@@ -505,11 +505,15 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
   - 北海道放送創立60周年記念『[スープカレー](https://ja.wikipedia.org/wiki/スープカレー_\(テレビドラマ\) "wikilink")』（2012年4月13日 - 6月（全10話）、[北海道放送](../Page/北海道放送.md "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")） - 北海道放送(HBC)創立60周年記念で企画された初の連続ドラマ。主な共演者は、[入山法子](https://ja.wikipedia.org/wiki/入山法子 "wikilink")、[つみきみほ](../Page/つみきみほ.md "wikilink")、[中島ひろ子](../Page/中島ひろ子.md "wikilink")、[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")、[渡辺満里奈](../Page/渡辺満里奈.md "wikilink")。HBCでの先行放送後TBS系列で放送される。
   - 『the TEAM NACS perfect show』〜なんでこんな時に〜（2014年6月、[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")） - CSで放送された、ノーカットでメンバーが何役も演じる単発のシチュエーションコメディ。脚本と監督は[福田雄一](https://ja.wikipedia.org/wiki/福田雄一 "wikilink")。
   - [ドラマ24](../Page/ドラマ24.md "wikilink")『[不便な便利屋](https://ja.wikipedia.org/wiki/不便な便利屋 "wikilink")』（2015年4月 - 6月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 森崎博之がレギュラー出演、他のメンバーもゲスト出演。
-  - [チャンネルはそのまま\!](https://ja.wikipedia.org/wiki/チャンネルはそのまま! "wikilink")（2019年3月、[Netflix](../Page/Netflix.md "wikilink")配信|[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")|同年四月以降順次全国の各放送局で放送予定） - 北海道テレビ放送50周年記念ドラマ。同局に縁のあったNACS5人全員が出演。
-  - [なつぞら](https://ja.wikipedia.org/wiki/なつぞら "wikilink")（2019年4月 - 9月） - メンバーそれぞれが局面で出演。
+  - [チャンネルはそのまま\!](https://ja.wikipedia.org/wiki/チャンネルはそのまま! "wikilink")（2019年3月、[Netflix](../Page/Netflix.md "wikilink")配信、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")） - 北海道テレビ放送開局50周年記念ドラマ。同局に縁のあったNACS5人全員が出演。
+  - [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")[『なつぞら](https://ja.wikipedia.org/wiki/なつぞら "wikilink")』（2019年4月 - 9月、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - メンバーそれぞれが局面で出演。
 
 #### バラエティ番組
 
+  - [モザイクな夜V3](../Page/モザイクな夜V3.md "wikilink")（1993年10月4日 - 1996年9月30日、北海道テレビ） - 森崎・安田・大泉がレギュラー出演。末期に「LETTER」の宣伝を兼ねてメンバー全員が合コン企画に出演。5人揃ってのテレビデビューを果たす。
+  - [水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")（1996年10月9日 - 2002年9月4日、北海道テレビ）- 大泉がレギュラー出演、安田が準レギュラー出演、他メンバーもゲスト出演。レギュラー放送終了後も不定期で新作を放送。
+      - [どうでしょうリターンズ](../Page/水曜どうでしょう.md "wikilink")（1999年1月5日 - 2004年5月5日、北海道テレビ）- 上記の再放送版。
+      - [水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")Classic（2004年7月14日 - 、北海道テレビ）- 上記の再々放送版。全国各地で放送中。
   - [ドラバラ鈴井の巣](../Page/ドラバラ鈴井の巣.md "wikilink")（2002年2月 - 2004年12月、北海道テレビ） - 大泉・安田は、初となる企画・脚本を手がけ、ドラマを制作。主演出演もする。
   - [いばらのもり](https://ja.wikipedia.org/wiki/いばらのもり "wikilink")（2000年4月 - 2002年12月、北海道テレビ） - 森崎・大泉出演。安田・音尾がゲスト出演。森崎の冠番組。大泉が初となる企画・編集を手がけ、ディレクターとして、番組を制作。DVDも発売された。
       - いばらのもりリターンズ - 上記のリメイク版。
@@ -520,6 +524,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
 #### イベント・特別番組
 
+  - [TOYOTA BIG AIR](../Page/TOYOTA_BIG_AIR.md "wikilink")（1998年、北海道テレビ） - PR番組に大泉がレポーターとして出演し、他のメンバーもコントで参加。「水曜どうでしょう」の藤村・嬉野両ディレクターが演出を担当した。
   - 大泉洋が生で実況！安田・森崎も大感動！大賞決定！YOSAKOIファイナル完全生中継（2007年6月10日、北海道テレビ制作、BS朝日同時放送） - 大泉・安田・森崎出演。[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")の実況・応援番組。
   - 〜ありがとう40年〜全部たしたら10時間\!ユメミル広場に大集合\!\!（2008年、北海道テレビ） - HTB開局40周年記念の特別番組。札幌ドームにて開催。
 

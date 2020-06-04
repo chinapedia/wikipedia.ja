@@ -855,7 +855,7 @@ COCP-32675:通常盤</p></td>
   - [オレたちやってま～す×××](../Page/オレたちやってま〜す.md "wikilink") （2002年4月 - 2003年3月）[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")
   - 今宵ゴージャス！（2008年7月29日）[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") - 植木のみ
   - [ミッドナイトステージ館](../Page/ミッドナイトステージ館.md "wikilink")＊歌謡シアター「ラムネ～木綿のハンカチーフ編」（2009年3月20日）[NHK衛星第2（BS-2）](../Page/NHK衛星第2テレビジョン.md "wikilink")- 植木のみ
-  - [スッキリ！！](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（2009年6月1日）[日本テレビ](../Page/日本テレビ放送網.md "wikilink")
+  - [スッキリ！！](../Page/スッキリ_\(テレビ番組\).md "wikilink")（2009年6月1日）[日本テレビ](../Page/日本テレビ放送網.md "wikilink")
   - [あり得ない](https://ja.wikipedia.org/wiki/あり得ない! "wikilink") 第5話（2010年2月10日）[MBSドラマ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")
   - [タンブリング](https://ja.wikipedia.org/wiki/タンブリング_\(テレビドラマ\) "wikilink") 第8話（2010年6月5日）[TBSテレビ](../Page/TBSテレビ.md "wikilink")- 植木のみ
   - [Boot\!](https://www.tbs.co.jp/boot6/)（2011年5月9日 - 5月14日）[TBSテレビ](../Page/TBSテレビ.md "wikilink")

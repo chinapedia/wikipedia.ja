@@ -233,6 +233,7 @@
 <!-- end list -->
 
   - **[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")**
+      - 「F・T・O」（編曲）
       - 「[イッツ マイ ソウル](../Page/イッツ_マイ_ソウル.md "wikilink")」（編曲）
       - 「[ワッハッハー](../Page/ワッハッハー.md "wikilink")」（編曲）
       - 「[torn](https://ja.wikipedia.org/wiki/無責任ヒーロー "wikilink")」（編曲）
@@ -317,6 +318,7 @@
           - 「[Rocks (M album Ver.)](https://ja.wikipedia.org/wiki/M_album "wikilink")」（編曲）
           - 「[モノクローム ドリーム](https://ja.wikipedia.org/wiki/N_album "wikilink")」（編曲）
           - 「[夜を止めてくれ](https://ja.wikipedia.org/wiki/N_album "wikilink")」（編曲）
+          - 「[会いたい、会いたい、会えない。](https://ja.wikipedia.org/wiki/会いたい、会いたい、会えない。 "wikilink")」（編曲）
       - **[堂本光一](../Page/堂本光一.md "wikilink")**
           - 「[UNBREAKABLE](https://ja.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE "wikilink")」（編曲）
           - 「[妖 〜あやかし〜](https://ja.wikipedia.org/wiki/妖_〜あやかし〜 "wikilink")」（編曲）
@@ -355,6 +357,8 @@
       - 「[Ya\! Hot\! Hot\!](https://ja.wikipedia.org/wiki/おーさか☆愛・EYE・哀/Ya!_Hot!_Hot! "wikilink")」（編曲）
       - 「[Evoke](https://ja.wikipedia.org/wiki/WESTival "wikilink")」（編曲）
       - 「[プリンシパルの君へ](https://ja.wikipedia.org/wiki/プリンシパルの君へ/ドラゴンドッグ "wikilink")」（編曲）
+      - 「アメノチハレ」（編曲）
+      - 「アカツキ」（編曲）
       - 「[ホメチギリスト](https://ja.wikipedia.org/wiki/ホメチギリスト/傷だらけの愛 "wikilink")」（編曲）
       - 「[傷だらけの愛](https://ja.wikipedia.org/wiki/ホメチギリスト/傷だらけの愛 "wikilink")」（GAKUと共編曲）
 

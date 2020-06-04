@@ -100,6 +100,6 @@
 
 ## 外部リンク
 
-  - [RUN=DIM](http://www.tv-tokyo.co.jp/run/dim.html)
+  - [RUN=DIM](https://www.tv-tokyo.co.jp/run/dim.html)
 
 [Category:アニメ作品_ら](https://ja.wikipedia.org/wiki/Category:アニメ作品_ら "wikilink") [Category:日本のアニメ作品](https://ja.wikipedia.org/wiki/Category:日本のアニメ作品 "wikilink") [Category:韓国のアニメ作品](https://ja.wikipedia.org/wiki/Category:韓国のアニメ作品 "wikilink") [Category:日本と韓国の合作アニメ](https://ja.wikipedia.org/wiki/Category:日本と韓国の合作アニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:アイディアファクトリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:アイディアファクトリーのアニメ作品 "wikilink") [Category:コンピュータアニメーション](https://ja.wikipedia.org/wiki/Category:コンピュータアニメーション "wikilink") [Category:巨大ロボットを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ作品 "wikilink") [Category:アイディアファクトリーのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイディアファクトリーのゲームソフト "wikilink")

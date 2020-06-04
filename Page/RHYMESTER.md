@@ -1464,7 +1464,8 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
 <td><p>配信シングル</p></td>
 <td><p><strong>マクガフィン</strong></p></td>
 <td><p><a href="../Page/岡村靖幸.md" title="wikilink">岡村靖幸</a>さらにライムスター</p></td>
-<td><p><strong>『マクガフィン』</strong></p></td>
+<td><p><strong>「マクガフィン」</strong><br />
+アルバム<strong>『操』</strong>（岡村靖幸、2020年4月1日）</p></td>
 <td><p>2019年11月27日</p></td>
 <td></td>
 <td></td>
@@ -1473,7 +1474,8 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
 <td><p>配信シングル</p></td>
 <td><p><strong>Forever Young</strong></p></td>
 <td><p><a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a>からのライムスター</p></td>
-<td><p><strong>『Forever Young』</strong></p></td>
+<td><p><strong>「Forever Young」</strong><br />
+アルバム<strong>『シン・スチャダラ大作戦』</strong>（スチャダラパー、2020年4月8日）</p></td>
 <td><p>2020年4月1日</p></td>
 <td></td>
 <td></td>

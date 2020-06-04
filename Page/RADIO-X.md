@@ -9,7 +9,7 @@
   - 深夜番組としてはかなりのリスナー数で、かなり人気を博した番組。特に金曜日は人気でリスナー数も多く、[聴取率](../Page/聴取率.md "wikilink")もかなり獲得していた番組でもある。
   - 開始当初は[落合隼亮](../Page/落合隼亮.md "wikilink")が毎日担当していたが、その後2002年[10月1日](../Page/10月1日.md "wikilink")からは曜日担当制となった。
   - 番組開始時は[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")と[FM横浜の](../Page/横浜エフエム放送.md "wikilink")2局が共同制作\[1\]して同時生放送を行っていたが、FM横浜の放送は[2002年](../Page/2002年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")を以って終了した。
-  - また、一時期福岡[CROSS FMや京都](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[α-STATION](../Page/エフエム京都.md "wikilink")、新潟[FM PORTをネットして放送していた時期もある](../Page/新潟県民エフエム放送.md "wikilink")。
+  - また、一時期福岡[CROSS FMや京都](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[α-STATION](../Page/エフエム京都.md "wikilink")、新潟[FM PORT](../Page/新潟県民エフエム放送.md "wikilink")\[2\]をネットして放送していた時期もある。
   - 参加人数、リクエスト数ともに多い番組だった。
   - 放送開始から5年以上が経過し、番組内容も大きく変化した。スタート1年目はリクエスト中心の音楽主体の内容で、且つ選曲も1960年代から1980年代の曲に限定されるという特徴があったものだったが、その為か深夜に働くドライバーや中年層といった、本来深夜のFM番組では聴かれない層にも支持を得ていた。それから数度のリニューアルを経て、リスナーの投稿ネタを軸としたトークと、リクエストに変わっていった。
   - 最後の金曜日の日は[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")のパソコンがフリーズしたり、ホームページの接続がしにくくなるほどアクセスがあった。金曜日にしては過去最高(放送最後の日に、黒田本人が「今日は過去最高のメールでしょうね」と言っていた）のこと。
@@ -178,3 +178,4 @@
 [Category:NACK5の帯番組](https://ja.wikipedia.org/wiki/Category:NACK5の帯番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")
 
 1.  [2002年3月開催 番組審議会報告](http://www.fmyokohama.co.jp/corp/discussion/2002/03.html)FMヨコハマ
+2.  [2020年](../Page/2020年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")閉局予定。

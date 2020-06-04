@@ -9,6 +9,8 @@
 
 なお、ソフトバンクは、旧[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")、[ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")、[ワイモバイル](../Page/ワイモバイル.md "wikilink")（元イー・アクセス）を合併した会社であるため、ODN以外にも「[AT\&T](../Page/AT&T.md "wikilink") WorldNet Service」の流れを汲むISPである[SpinNetを運営しているほか](../Page/JENS_SpinNet.md "wikilink")、[Yahoo\!BB](https://ja.wikipedia.org/wiki/Yahoo!BB "wikilink")や[AOL](../Page/AOL.md "wikilink")も運営しており、一つの会社で複数のISPが共存する状態となっている\[2\]。
 
+2020年現在は、ソフトバンクの固定ブロードバンド事業は「[SoftBank光](https://ja.wikipedia.org/wiki/Yahoo!BB "wikilink")」の販売に注力しており、ODNは新規加入は継続しているものの主流からは外れた状況にある。
+
 ## 障害
 
 2008年9月2日から翌日にかけてメールサービスが長時間に渡り使用できなくなる障害が発生し、多くの人に影響が出た。復旧の告知はトップページ内の最新情報内に記載されたが、原因等の詳細は不明。

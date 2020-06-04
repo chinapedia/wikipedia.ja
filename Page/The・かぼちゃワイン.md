@@ -151,7 +151,7 @@
 
 ### 放送局
 
-系列は現在のもの。
+系列は本放送当時のもの。放送日時は個別に出典が掲示されているものを除き、1983年9月中旬 - 10月上旬時点のものとする\[12\]。
 
 <table>
 <thead>
@@ -159,7 +159,7 @@
 <th><p>放送対象地域</p></th>
 <th><p>放送局</p></th>
 <th><p>系列</p></th>
-<th><p>ネット形態</p></th>
+<th><p>放送時間</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -168,50 +168,19 @@
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a></p></td>
 <td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p>月曜 19:30 - 20:00</p></td>
 <td><p><strong>製作局</strong></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
 <td><p><a href="../Page/北海道テレビ放送.md" title="wikilink">北海道テレビ</a></p></td>
-<td><p>同時ネット</p></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></p></td>
-<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
-<td><p>遅れネット</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td><p><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JNN" title="wikilink">TBS系列</a></p></td>
-<td><p>現・IBC岩手放送。<br />
-月曜 17:00 - 17:30に放映[12]。<br />
-途中で放映打ち切り。<br />
-次番組は『<a href="../Page/アニメ親子劇場.md" title="wikilink">アニメ親子劇場</a>』（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>製作）。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
 <td><p><a href="../Page/東日本放送.md" title="wikilink">東日本放送</a></p></td>
-<td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
-<td><p>日本テレビ系列</p></td>
-<td><p>遅れネット</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
-<td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -219,181 +188,207 @@
 <tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島放送.md" title="wikilink">福島放送</a></p></td>
-<td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
-<td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
-<td><p>1983年9月まで放送</p></td>
+<td><p>新潟総合テレビ</p></td>
+<td><p>フジテレビ系列<br />
+テレビ朝日系列</p></td>
+<td><p>現・<a href="../Page/NST新潟総合テレビ.md" title="wikilink">NST新潟総合テレビ</a>。<br />
+1983年9月まで放送[13]。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/新潟テレビ21" title="wikilink">新潟テレビ21</a></p></td>
 <td><p>テレビ朝日系列</p></td>
-<td><p>1983年10月の開局時から放送</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
-<td><p>TBS系列</p></td>
-<td><p>遅れネット</p></td>
-<td><p>[13]</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a></p></td>
-<td><p>日本テレビ系列</p></td>
+<td><p>1983年10月の開局時から放送。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
-<td><p><a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡けんみんテレビ</a></p></td>
-<td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
-<td><p>[14]</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
-<td><p>日本テレビ系列</p></td>
-<td><p>遅れネット</p></td>
-<td><p>1984年3月29日に打ち切り[15]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a></p></td>
-<td><p>TBS系列</p></td>
+<td><p>静岡けんみんテレビ</p></td>
+<td><p>現・<a href="../Page/静岡朝日テレビ.md" title="wikilink">静岡朝日テレビ</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
-<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
-<td><p>日本テレビ系列<br />
-テレビ朝日系列</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
+<td><p>中京広域圏</p></td>
 <td><p><a href="../Page/名古屋テレビ放送.md" title="wikilink">名古屋放送</a></p></td>
-<td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
+<td><p>近畿広域圏</p></td>
 <td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a></p></td>
-<td><p>フジテレビ系列</p></td>
-<td><p>遅れネット</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="../Page/広島ホームテレビ.md" title="wikilink">広島ホームテレビ</a></p></td>
-<td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
-<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
-<td><p>日本テレビ系列</p></td>
-<td><p>遅れネット</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">香川県・岡山県</a></p></td>
 <td><p><a href="../Page/瀬戸内海放送.md" title="wikilink">瀬戸内海放送</a></p></td>
-<td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a></p></td>
-<td><p>フジテレビ系列</p></td>
-<td><p>遅れネット</p></td>
-<td><p>現・テレビ愛媛。<br />
-途中で放映打ち切り。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
-<td><p>日本テレビ系列</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
-<td><p><a href="../Page/テレビ高知.md" title="wikilink">テレビ高知</a></p></td>
-<td><p>TBS系列</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
-<td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
-<td><p>TBS系列</p></td>
-<td><p>遅れネット</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
 <td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
-<td><p>日本テレビ系列<br />
-フジテレビ系列</p></td>
-<td><p>同時ネット</p></td>
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a><br />
+<a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NNN" title="wikilink">日本テレビ系列</a><br />
-フジテレビ系列<br />
-テレビ朝日系列</p></td>
-<td><p>遅れネット</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/鹿児島放送.md" title="wikilink">鹿児島放送</a></p></td>
 <td><p>テレビ朝日系列</p></td>
-<td><p>同時ネット</p></td>
-<td><p>1982年10月の開局時から放送</p></td>
+<td><p>1982年10月の開局時から放送。</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
+<td><p>岩手放送</p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
+<td><p>月曜 17:00 - 17:30[14]</p></td>
+<td><p>現・<a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>。<br />
+途中で放映打ち切り。<br />
+次番組は『<a href="../Page/アニメ親子劇場.md" title="wikilink">アニメ親子劇場</a>』（<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>製作）。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>火曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
+<td><p>日本テレビ系列<br />
+テレビ朝日系列</p></td>
+<td><p>水曜 19:00 - 19:30</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
+<td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>土曜 13:30 - 14:00</p></td>
+<td><p>[15]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>木曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
+<td><p>1984年3月29日に打ち切り[16]。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>火曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>月曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
+<td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
+<td><p>日本テレビ系列<br />
+テレビ朝日系列</p></td>
+<td><p>火曜 17:15 - 17:45</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
+<td><p>日本テレビ系列</p></td>
+<td><p>火曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
+<td><p>愛媛放送</p></td>
+<td><p>フジテレビ系列</p></td>
+<td><p>月曜 19:00 - 19:30</p></td>
+<td><p>現・<a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a>。<br />
+途中で放映打ち切り。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
+<td><p><a href="../Page/テレビ高知.md" title="wikilink">テレビ高知</a></p></td>
+<td><p>TBS系列</p></td>
+<td><p>木曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
+<td><p>金曜 16:50 - 17:20</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
+<td><p>火曜 17:30 - 18:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a></p></td>
+<td><p>フジテレビ系列<br />
+<a href="../Page/日本ニュースネットワーク.md" title="wikilink">日本テレビ系列</a><br />
+テレビ朝日系列</p></td>
+<td><p>月曜 17:30 - 18:00</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
 <td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>TBS系列</p></td>
-<td><p>遅れネット</p></td>
+<td><p>木曜 17:30 - 18:00</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -608,7 +603,7 @@
 </tr>
 <tr class="even">
 <td><p>SP</p></td>
-<td><p>12月27日[16]</p></td>
+<td><p>12月27日[17]</p></td>
 <td><p>おれとあいつの新婚旅行!?</p></td>
 <td><p>雪室俊一</p></td>
 <td><p>矢吹公郎</p></td>
@@ -1386,8 +1381,9 @@
 9.  16話以降改名
 10. 当人の基準は70点まで。それ以下の者の答案用紙は床へ適当に放り捨て、「自分で拾え！」と頭ごなしに言うのみ。
 11. なお担当声優の銀河は、『[タイガーマスク](../Page/タイガーマスク.md "wikilink")二世』でも猪木を演じていた。
-12. 『[アニメージュ](../Page/アニメージュ.md "wikilink")』 1983年1月号、徳間書店、全国放映リスト p.84。
-13. [テレビ信州](../Page/テレビ信州.md "wikilink")は当時テレビ朝日系列と日本テレビ系列のクロスネット局であったが、同局の編成上の都合により、[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")も含めて同局では一度も放送されなかった。
-14. 1993年9月までの社名は『静岡県民放送』（通称：静岡けんみんテレビ）で、同年10月に現社名に変更された。
-15. 富山新聞 1984年3月29日付テレビ欄より
-16. 19:00 - 20:00の1時間枠で放送。
+12.
+13. なお、上記の出典先では『土曜 19:30 - 』と記載されているが、これは誤りである。
+14. 『[アニメージュ](../Page/アニメージュ.md "wikilink")』 1983年1月号、徳間書店、全国放映リスト p.84。
+15. [テレビ信州](../Page/テレビ信州.md "wikilink")は当時テレビ朝日系列と日本テレビ系列のクロスネット局であったが、同局の編成上の都合により、[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")も含めて同局では一度も放送されなかった。
+16. 富山新聞 1984年3月29日付テレビ欄より
+17. 19:00 - 20:00の1時間枠で放送。

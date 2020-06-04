@@ -38,7 +38,7 @@
   - [川崎フロンターレの選手一覧](https://ja.wikipedia.org/wiki/川崎フロンターレの選手一覧 "wikilink")
   - [横浜F・マリノスの選手一覧](https://ja.wikipedia.org/wiki/横浜F・マリノスの選手一覧 "wikilink")
   - [横浜フリューゲルスの選手一覧](../Page/横浜フリューゲルスの選手一覧.md "wikilink")（ - 1999年）
-  - [横浜FCの選手一覧](https://ja.wikipedia.org/wiki/横浜FCの選手一覧 "wikilink")
+  - [横浜FCの選手一覧](../Page/横浜FCの選手一覧.md "wikilink")
   - [横浜スポーツ&カルチャークラブの選手一覧](https://ja.wikipedia.org/wiki/横浜スポーツ&カルチャークラブの選手一覧 "wikilink")
   - [湘南ベルマーレの選手一覧](https://ja.wikipedia.org/wiki/湘南ベルマーレの選手一覧 "wikilink")
   - [SC相模原の選手一覧](https://ja.wikipedia.org/wiki/SC相模原の選手一覧 "wikilink")

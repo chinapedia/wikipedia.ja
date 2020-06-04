@@ -84,7 +84,7 @@
   - [いい旅・夢気分](https://ja.wikipedia.org/wiki/いい旅・夢気分 "wikilink")（テレビ東京）
   - Club DADA（テレビ朝日）
   - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（読売テレビ）
-  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（日本テレビ）
+  - [スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")（日本テレビ）
 
 ### テレビドラマ
 
@@ -196,7 +196,7 @@
 
 ## 外部リンク
 
-  - [RIKACO MODE-リカコオフィシャルウェブサイト-](https://www.rikaco.co.jp/)
+  - [RIKACO](https://www.rikaco.co.jp/) - 公式ウエブサイト
 
   - [プロフィール](https://www.ldh.co.jp/management/rikaco/) - LDH
 

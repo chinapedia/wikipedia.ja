@@ -159,7 +159,7 @@
 
 ## 外部リンク
 
-  - [みんなの手話｜NHK福祉ポータル ハートネット](http://www.nhk.or.jp/heart-net/syuwa/)
+  - [みんなの手話｜NHK福祉ポータル ハートネット](https://www.nhk.or.jp/heart-net/syuwa/)
   - [ＮＨＫみんなの手話　- NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009040271_00000)
 
 [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:NHK教育テレビジョンの福祉番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの福祉番組 "wikilink") [Category:手話番組](https://ja.wikipedia.org/wiki/Category:手話番組 "wikilink") [Category:三宅健](https://ja.wikipedia.org/wiki/Category:三宅健 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

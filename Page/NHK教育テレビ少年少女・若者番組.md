@@ -1064,6 +1064,6 @@ NHK短期ドラマ
 ## 外部リンク
 
   - [Eテレ ジャンルから探す 少年少女・若者](http://www.nhk.or.jp/e-tele/genre/youth.html)
-  - [NHK INFORMATION「放送番組編成計画」](http://www.nhk.or.jp/pr/keiei/hensei/index.htm)
+  - [NHK INFORMATION「放送番組編成計画」](https://www.nhk.or.jp/pr/keiei/hensei/index.htm)
 
 [Category:NHK教育テレビジョンの子供向け番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの子供向け番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink") [Category:NHK教育テレビジョンの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの番組の歴史 "wikilink")

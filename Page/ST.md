@@ -31,6 +31,7 @@ __NOTOC__ **ST**, **St**, **st**
       - [札幌市交通局](../Page/札幌市交通局.md "wikilink") ()
       - [西武所沢車両工場](../Page/西武所沢車両工場.md "wikilink")
       - [西日本旅客鉄道吹田工場](../Page/西日本旅客鉄道吹田工場.md "wikilink") ()
+      - [スカイチーム](../Page/スカイチーム.md "wikilink")
       - [ゲルマニアの](https://ja.wikipedia.org/wiki/ゲルマニア_\(航空会社\) "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")
 
   - パチンコ・パチスロ

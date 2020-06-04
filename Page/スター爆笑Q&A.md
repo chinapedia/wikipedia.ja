@@ -152,7 +152,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td><p>1990年10月から同時ネット[5]</p></td>
 <td></td>
 </tr>

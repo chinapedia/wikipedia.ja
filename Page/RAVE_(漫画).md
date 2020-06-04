@@ -975,7 +975,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a> (NBC)</p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a> (NBC)</p></td>
 <td><p>2001年10月20日 -</p></td>
 <td><p>土曜 6:00 - 6:30 → 土曜 7:00 - 7:30（2002年4月から）</p></td>
 </tr>

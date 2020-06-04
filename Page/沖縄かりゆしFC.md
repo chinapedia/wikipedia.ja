@@ -166,7 +166,7 @@
 <tr class="even">
 <td><p>16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺晋平" title="wikilink">渡辺晋平</a></p></td>
-<td><p><a href="../Page/三菱水島FC.md" title="wikilink">三菱水島FC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三菱自動車水島FC" title="wikilink">三菱自動車水島FC</a></p></td>
 <td></td>
 <td></td>
 </tr>

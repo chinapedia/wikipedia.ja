@@ -23,7 +23,7 @@
 
   - [「体験\!メディアのABC」番組表検索結果 | NHKクロニクル](https://www2.nhk.or.jp/archives/chronicle/pg/page010-01.cgi?keyword=%E4%BD%93%E9%A8%93%EF%BC%81%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%EF%BC%A1%EF%BC%A2%EF%BC%A3)
 
-[Category:NHK教育テレビジョンの学校放送番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの学校放送番組 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:情報教育](https://ja.wikipedia.org/wiki/Category:情報教育 "wikilink")
+[Category:NHK教育テレビジョンの学校放送番組の歴史_(2000年代)](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの学校放送番組の歴史_\(2000年代\) "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:情報教育](https://ja.wikipedia.org/wiki/Category:情報教育 "wikilink")
 
 1.
 2.

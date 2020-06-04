@@ -38,9 +38,9 @@ TBSラジオでの放送時間
 
   - TBSラジオは全曜日、[RBCは火](../Page/琉球放送.md "wikilink")-金曜日、19:00-21:00
   - 以下の局は20時から
-      - [HBC](../Page/HBCラジオ.md "wikilink")、[TBC](../Page/東北放送.md "wikilink")、[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[YBS](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[KNB](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、[FBC](../Page/福井放送.md "wikilink")、
+      - [HBC](../Page/HBCラジオ.md "wikilink")、[TBC](../Page/東北放送.md "wikilink")、[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[YBS](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[KNB](../Page/北日本放送.md "wikilink")、[FBC](../Page/福井放送.md "wikilink")、
         [CBC](../Page/CBCラジオ.md "wikilink")、[WBS](../Page/和歌山放送.md "wikilink")、[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、[RCC](../Page/中国放送.md "wikilink")、[KRY](../Page/山口放送.md "wikilink")、[JRT](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、
-        [RNC](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[RKC](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[RKB](../Page/RKBラジオ.md "wikilink")、[NBC](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[MBC](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+        [RNC](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[RKC](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[RKB](../Page/RKBラジオ.md "wikilink")、[NBC](../Page/長崎放送.md "wikilink")、[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[MBC](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
         の各局は月-金まで放送。
       - [SBCは火曜日と木曜日のみ](../Page/信越放送.md "wikilink")
       - 他は火曜日から金曜日。

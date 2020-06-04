@@ -14,7 +14,7 @@
   - [1974年](../Page/1974年.md "wikilink")：[柏村武昭](../Page/柏村武昭.md "wikilink")（当時[中国放送](../Page/中国放送.md "wikilink")、後に[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink")）
   - [1975年](../Page/1975年.md "wikilink")：[柳卓](../Page/柳卓.md "wikilink")（[琉球放送](../Page/琉球放送.md "wikilink")）
   - [1976年](../Page/1976年.md "wikilink")：[波多江孝文](../Page/波多江孝文.md "wikilink")（当時琉球放送、後に[ニッポン放送](../Page/ニッポン放送.md "wikilink")に移り「はた金次郎」「はたえ金次郎」を名乗る）
-  - [1977年](../Page/1977年.md "wikilink")：向井嘉之（当時[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")）
+  - [1977年](../Page/1977年.md "wikilink")：向井嘉之（当時[北日本放送](../Page/北日本放送.md "wikilink")）
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")：河野憲了（当時[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")）
   - [1979年](../Page/1979年.md "wikilink")：藤本喜八郎（当時[和歌山放送](../Page/和歌山放送.md "wikilink")、後にフリーアナウンサーとして東京で活動）
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")：[二木清彦](https://ja.wikipedia.org/wiki/二木清彦 "wikilink")（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）
@@ -25,7 +25,7 @@
 
 ## 主な入賞者
 
-  - [永松英信](https://ja.wikipedia.org/wiki/永松英信 "wikilink")（当時[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、1974年タレント賞）
+  - [永松英信](https://ja.wikipedia.org/wiki/永松英信 "wikilink")（当時[長崎放送](../Page/長崎放送.md "wikilink")、1974年タレント賞）
   - [松井伸一](../Page/松井伸一.md "wikilink")（当時[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、1974年オンリーユー賞）
   - [井上雪彦](../Page/井上雪彦.md "wikilink")（当時[山口放送](../Page/山口放送.md "wikilink")、1974年パーソナリティ賞）
   - [角谷敏朗](https://ja.wikipedia.org/wiki/角谷敏朗 "wikilink")（当時[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")、1974年ヤァヤァヤァ賞）

@@ -147,7 +147,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td><p>1993年10月からネット開始[2]</p></td>
 <td></td>
 <td></td>
@@ -265,7 +265,7 @@
 
   -
     ※1996年10月から2000年9月までの間は、[CS★日テレ](../Page/CS★日テレ.md "wikilink")でも放送されていた。
-    ※日本テレビ系列局である[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")では、当該時間帯で別番組\[7\]を放送していた関係で本番組は基本的には未放送だったが、比内地鶏を特集した回については放送された事がある。
+    ※日本テレビ系列局である[秋田放送](../Page/秋田放送.md "wikilink")では、当該時間帯で別番組\[7\]を放送していた関係で本番組は基本的には未放送だったが、比内地鶏を特集した回については放送された事がある。
 
 ## 雑記
 

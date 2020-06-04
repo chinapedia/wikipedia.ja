@@ -733,7 +733,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p>[43]</p></td>
 <td></td>
 <td></td>
@@ -782,7 +782,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -993,6 +993,14 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>[55]</p></td>
 </tr>
 <tr class="even">
+<td><p>2011年<a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
+<td><p><a href="../Page/スパイダーマン_(映画).md" title="wikilink">スパイダーマン</a>（2002年）</p></td>
+<td><p>なくもんか（2010年）</p></td>
+<td><p>前項の影響により、『なくもんか』の放送がこの日に編成されたため。</p></td>
+<td><p>2011年<a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td></td>
 <td><p>{{Nowrap|[[書道ガールズ</p></td>
@@ -1000,7 +1008,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>わたしたちの甲子園]]（2010年） }}</p></td>
 <td><p>同年<a href="https://ja.wikipedia.org/wiki/1月16日" title="wikilink">1月16日</a>に発生した<a href="https://ja.wikipedia.org/wiki/アルジェリア人質事件" title="wikilink">アルジェリア人質事件</a>を想起させるシーンが含まれているため[56][57]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013年<a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウルヴァリン:_X-MEN_ZERO" title="wikilink">ウルヴァリン: X-MEN ZERO</a>（2009年）</p></td>
 <td><p><a href="../Page/紅の豚.md" title="wikilink">紅の豚</a>（1992年）</p></td>
@@ -1008,7 +1016,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>2013年<a href="../Page/9月20日.md" title="wikilink">9月20日</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/1月31日.md" title="wikilink">1月31日</a></p></td>
 <td><p>（番組休止）</p></td>
 <td><p><a href="../Page/プレデターズ.md" title="wikilink">プレデターズ</a>（2010年）</p></td>
@@ -1016,7 +1024,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>-</p></td>
 <td><p>[58]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年<a href="../Page/10月3日.md" title="wikilink">10月3日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/センター・オブ・ジ・アース2_神秘の島" title="wikilink">センター・オブ・ジ・アース2 神秘の島</a>（2012年）</p></td>
 <td><p><a href="../Page/アイ・アム・レジェンド.md" title="wikilink">アイ・アム・レジェンド</a>（2008年）</p></td>
@@ -1024,7 +1032,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月6日.md" title="wikilink">2月6日</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年<a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/謝罪の王様" title="wikilink">謝罪の王様</a>（2013年）</p></td>
 <td><p><a href="../Page/幸福の黄色いハンカチ.md" title="wikilink">幸福の黄色いハンカチ</a>（1978年）</p></td>
@@ -1032,7 +1040,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>2018年<a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月23日.md" title="wikilink">6月23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バトルシップ_(映画)" title="wikilink">バトルシップ</a>（2012年）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダーク・シャドウ" title="wikilink">ダーク・シャドウ</a>（2012年）</p></td>
@@ -1040,7 +1048,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>2017年<a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p>[60]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a></p></td>
 <td><p>ダーク・シャドウ（2012年）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藁の楯#映画版" title="wikilink">藁の楯</a>（2013年）</p></td>
@@ -1048,7 +1056,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/名探偵コナン_から紅の恋歌" title="wikilink">名探偵コナン から紅の恋歌</a>（2017年）</p></td>
 <td><p>火垂るの墓（1988年）</p></td>
@@ -1056,15 +1064,15 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>2018年4月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年<a href="https://ja.wikipedia.org/wiki/4月20日" title="wikilink">4月20日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パシフィック・リム_(映画)" title="wikilink">パシフィック・リム</a>（2013年）</p></td>
 <td><p>名探偵コナン から紅の恋歌（2017年）</p></td>
-<td><p>前週に放送予定だった『名探偵コナン から紅の恋歌』が『火垂るの墓』に差し替えられ、それに伴い放送が1週間繰り下げられたため。</p></td>
+<td><p>前週に前項のとおり『名探偵コナン から紅の恋歌』の放送が1週間繰り下げられたため。</p></td>
 <td><p>2018年<a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/名探偵コナン_天空の難破船" title="wikilink">名探偵コナン 天空の難破船</a>（2010年）</p></td>
 <td><p><a href="../Page/ルパン三世_ルパンVS複製人間.md" title="wikilink">ルパン三世 ルパンVS複製人間</a>（1978年）</p></td>
@@ -1072,7 +1080,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p>2019年<a href="../Page/9月6日.md" title="wikilink">9月6日</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月20日.md" title="wikilink">3月20日</a></p></td>
 <td><p>（番組休止）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラックパンサー_(映画)" title="wikilink">ブラックパンサー</a>（2018年）</p></td>

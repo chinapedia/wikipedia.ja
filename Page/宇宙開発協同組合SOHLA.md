@@ -15,7 +15,7 @@
 
 [ボーイング](../Page/ボーイング.md "wikilink")社の航空部品の製造を行う、「株式会社アオキ」を中心にして、[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")開発プロジェクトが始まる。
 
-[2002年](../Page/2002年.md "wikilink")春、[大阪府立大学](../Page/大阪府立大学.md "wikilink")及び[東大阪市](../Page/東大阪市.md "wikilink")商工会の協力を経て、「東大阪宇宙開発研究会」を結成。[2002年](../Page/2002年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")荒本北を本拠に設立。[2003年](../Page/2003年.md "wikilink")、公共広告機構（現：[ACジャパン](../Page/ACジャパン.md "wikilink")）のキャンペーンとして取り上げられる。[2004年](../Page/2004年.md "wikilink")5月20日、[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")との間で技術協力提携を締結する。
+[2002年](../Page/2002年.md "wikilink")春、[大阪府立大学](../Page/大阪府立大学.md "wikilink")及び[東大阪市](../Page/東大阪市.md "wikilink")商工会の協力を経て、「東大阪宇宙開発研究会」を結成。[2002年](../Page/2002年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")荒本北を本拠に設立。[2003年](../Page/2003年.md "wikilink")、公共広告機構（現：[ACジャパン](../Page/ACジャパン.md "wikilink")）のキャンペーンとして取り上げられる。[2004年](../Page/2004年.md "wikilink")5月20日、[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")との間で技術協力提携を締結する。
 
 [2005年](../Page/2005年.md "wikilink")10月、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[工学部](../Page/工学部.md "wikilink")小笠原研究室との間で技術協力提携を締結する。[2007年](../Page/2007年.md "wikilink")5月、[NEDO](https://ja.wikipedia.org/wiki/NEDO "wikilink")から委託を受けて、小型衛星[PETSAT](https://ja.wikipedia.org/wiki/PETSAT "wikilink")の開発に着手。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月、まいど1号完成\[2\]。
 

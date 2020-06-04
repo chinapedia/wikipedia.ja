@@ -25,7 +25,7 @@ AMD K8アーキテクチャ製品で、[Athlon 64の](../Page/Athlon_64.md "wiki
 
 なお、コストパフォーマンスを考慮する場合、K8はほぼ全てのチップセットが上位のプロセッサに[BIOS変更のみで対応できる為](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")、[マザーボード](../Page/マザーボード.md "wikilink")が安価で流通している（インテルのチップセット搭載マザーに対し、[nVidia](https://ja.wikipedia.org/wiki/nVidia "wikilink")、AMD (旧[ATi](../Page/ATI_Technologies.md "wikilink")) 製チップセット搭載のもので約半額、[VIA](../Page/VIA_Technologies.md "wikilink")、[SiS](https://ja.wikipedia.org/wiki/SiS "wikilink")製チップセットのものでは1/3～1/4程度）事も特筆できる。
 
-通常の[熱設計電力](https://ja.wikipedia.org/wiki/熱設計電力 "wikilink") (TDP) は最大89Wだが、2006年6月、Windsor（ウインザー）コアにてTDPを抑えたEE (ENERGY EFFICIENT) モデルという65W版のAthlon 64 X2 (4200+、3800+)、35W版のAthlon64 (3500+) が発表されたのに続き、2006年10月、SFF (Small Form Factor) 版（TDPは35W）のAthlon64 X2 3800+ がリリースされた。なお、現行のBrisbaneコアではその多くがEE版となっている。
+通常の[熱設計電力](../Page/熱設計電力.md "wikilink") (TDP) は最大89Wだが、2006年6月、Windsor（ウインザー）コアにてTDPを抑えたEE (ENERGY EFFICIENT) モデルという65W版のAthlon 64 X2 (4200+、3800+)、35W版のAthlon64 (3500+) が発表されたのに続き、2006年10月、SFF (Small Form Factor) 版（TDPは35W）のAthlon64 X2 3800+ がリリースされた。なお、現行のBrisbaneコアではその多くがEE版となっている。
 
 また、2007年8月の6400+発表以降は一部モデルについて"Black Edition"と銘打った製品を販売している。Black Editionはその名の通り黒い化粧箱でプレミア感を演出しており、リテール版であるにもかかわらずCPUクーラーが同梱されないほか、ほとんどのモデルでAthlon 64 FX同様にロック倍率がフリーになっている玄人向け製品である。通常は最上位モデルで提供される倍率ロックフリーをメインストリームに採用するのは業界全体から見ても異例なことであり、なかなか高クロック製品を出せないAMDの苦肉の策とも言われている。
 

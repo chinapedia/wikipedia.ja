@@ -306,15 +306,16 @@ Navelブランド作品には必ず名前が入っていたが、アッチョリ
 
   - [Navel Official Website](https://www.project-navel.com/)
 
-  - [Lime Official Website](http://www.project-lime.com/)（リンク切れ）
+  - [Website](https://web.archive.org/web/20181114105327/http://www.project-lime.com/)（2018年11月14日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
-  - [Navel honeybell Official Website](http://www.navel-honeybell.com/)（リンク切れ）
+  - [Navel honeybell Official Website](https://web.archive.org/web/20160412132715/http://www.navel-honeybell.com/)（2016年4月12日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
   -
   -
   -
   -
-[Category:Navel](https://ja.wikipedia.org/wiki/Category:Navel "wikilink")
+  -
+[Category:Navel](https://ja.wikipedia.org/wiki/Category:Navel "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:2003年設立の企業](https://ja.wikipedia.org/wiki/Category:2003年設立の企業 "wikilink")
 
 1.  『[マジキュー MARCH2003](../Page/マジキュー.md "wikilink")プレミアム』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）。
 2.

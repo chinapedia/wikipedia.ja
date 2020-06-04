@@ -42,7 +42,7 @@ AV監督と呼ばれる人の中には、他業種の映像業界（[テレビ](
   - [菊淋](../Page/菊淋.md "wikilink")
   - [鬼闘光](../Page/鬼闘光.md "wikilink")
   - [麒麟](https://ja.wikipedia.org/wiki/麒麟_\(AV監督\) "wikilink")
-  - [KINGDOM](https://ja.wikipedia.org/wiki/KINGDOM_\(AV監督\) "wikilink")
+  - [KINGDOM](../Page/KINGDOM_\(AV監督\).md "wikilink")
   - [工藤澪](../Page/工藤澪.md "wikilink")
   - [栗まり](https://ja.wikipedia.org/wiki/栗まり "wikilink")
   - [栗原良](https://ja.wikipedia.org/wiki/栗原良 "wikilink")

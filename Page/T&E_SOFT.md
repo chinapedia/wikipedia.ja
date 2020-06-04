@@ -217,7 +217,7 @@
 
   - [株式会社ティーアンドイーソフト](http://web.archive.org/web/20120629000330/http://www.tandesoft.co.jp/)（2012年6月29日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
-[Category:T\&E_SOFT](https://ja.wikipedia.org/wiki/Category:T&E_SOFT "wikilink") [Category:ドワンゴ](https://ja.wikipedia.org/wiki/Category:ドワンゴ "wikilink") [Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:スパイク・チュンソフト](https://ja.wikipedia.org/wiki/Category:スパイク・チュンソフト "wikilink")
+[Category:T\&E_SOFT](https://ja.wikipedia.org/wiki/Category:T&E_SOFT "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:スパイク・チュンソフト](https://ja.wikipedia.org/wiki/Category:スパイク・チュンソフト "wikilink") [Category:かつて存在した愛知県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した愛知県の企業 "wikilink") [Category:1982年設立の企業](https://ja.wikipedia.org/wiki/Category:1982年設立の企業 "wikilink") [Category:2013年廃止の企業](https://ja.wikipedia.org/wiki/Category:2013年廃止の企業 "wikilink")
 
 1.
 2.

@@ -59,7 +59,7 @@
       - [9月5日](../Page/9月5日.md "wikilink") - TOB成立により、ローソンは株式77.67%（これまでの保有分を含む）を取得し、連結子会社化。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
       - [5月1日](../Page/5月1日.md "wikilink") - 株式会社バリューローソンを[簡易吸収合併](https://ja.wikipedia.org/wiki/簡易吸収合併 "wikilink")。
-      - 6月25日 - [株主総会](../Page/株主総会.md "wikilink")において、[登記簿](https://ja.wikipedia.org/wiki/登記簿 "wikilink")上の[本店](../Page/本店.md "wikilink")所在地が東京都[小平市](../Page/小平市.md "wikilink")[学園東町](https://ja.wikipedia.org/wiki/学園東町 "wikilink")一丁目4番39号から本社所在地（[西新宿](../Page/西新宿.md "wikilink")）に移転。
+      - 6月25日 - [株主総会](../Page/株主総会.md "wikilink")において、登記上の本店を東京都[小平市](../Page/小平市.md "wikilink")[学園東町](https://ja.wikipedia.org/wiki/学園東町 "wikilink")一丁目4番39号から本社所在地（[西新宿](../Page/西新宿.md "wikilink")）に移転。
       - [11月19日](../Page/11月19日.md "wikilink") - ローソンとの間で[株式交換](../Page/株式交換.md "wikilink")契約を締結。
       - [12月1日](../Page/12月1日.md "wikilink") - 株式会社九九プラス関西を簡易吸収合併。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）

@@ -1,7 +1,7 @@
 > この記事は[じゃじゃじゃTV](https://ja.wikipedia.org/wiki/じゃじゃじゃTV)から翻訳されています。
 
 
-『**じゃじゃじゃTV**』（じゃじゃじゃティーブイ）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")で、毎週[土曜日](../Page/土曜日.md "wikilink")の9:25から11:30まで約2時間放送されている[テレビ番組](../Page/テレビ番組.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")より、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作になっている。
+『**じゃじゃじゃTV**』（じゃじゃじゃティーブイ）は、[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")で、毎週[土曜日](../Page/土曜日.md "wikilink")の9:25から11:30まで約2時間放送されている[テレビ番組](../Page/テレビ番組.md "wikilink")。
 
 ## 概要
 
@@ -137,7 +137,7 @@
 <!-- end list -->
 
   -
-    IBCヒットリサーチは、IBCミュージックランキングとして[朝からRADIO](https://ja.wikipedia.org/wiki/朝からRADIO "wikilink")で放送している（放送日によって、シングル・盛岡市大通の佐々木電気\[10\]調べのアルバムランキング・洋楽ランキング・オリコン演歌ランキングなど）。また、IBCミュージックランキングのホームページでは、50位までのシングルランキングを公開している。
+    IBCヒットリサーチは、IBCミュージックランキングとして[朝からRADIO](../Page/朝からRADIO.md "wikilink")で放送している（放送日によって、シングル・盛岡市大通の佐々木電気\[10\]調べのアルバムランキング・洋楽ランキング・オリコン演歌ランキングなど）。また、IBCミュージックランキングのホームページでは、50位までのシングルランキングを公開している。
 
 <!-- end list -->
 
@@ -436,7 +436,7 @@
 <!-- end list -->
 
   -
-    当時大学生。現[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")アナウンサー。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")からのお知らせのコーナーを担当。[こちら志家町6-1](https://ja.wikipedia.org/wiki/こちら志家町6-1 "wikilink")や[ツイテル\!?](https://ja.wikipedia.org/wiki/ツイテル!? "wikilink")のパーソナリティも務めていた。
+    当時大学生。現[秋田放送](../Page/秋田放送.md "wikilink")アナウンサー。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")からのお知らせのコーナーを担当。[こちら志家町6-1](https://ja.wikipedia.org/wiki/こちら志家町6-1 "wikilink")や[ツイテル\!?](https://ja.wikipedia.org/wiki/ツイテル!? "wikilink")のパーソナリティも務めていた。
 
 <!-- end list -->
 
@@ -469,8 +469,9 @@
 
 ## 外部リンク
 
-  - [IBCテレビ「じゃじゃじゃTV」](http://www.ibc.co.jp/tv/6ch/jajajatv/)
+  - [じゃじゃじゃTV](https://www.ibc.co.jp/tv/6ch/jajajatv/) - 公式サイト
 
+  -
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:IBC岩手放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:IBC岩手放送のテレビ番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink")
 
 1.  [WEB国語教室 リレー連載：おくにことばの底力\! 第5回](http://www.taishukan.co.jp/kokugo/webkoku/relay002_05.html)（大修館「国語情報室」）

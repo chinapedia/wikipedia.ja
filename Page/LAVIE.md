@@ -43,7 +43,6 @@
 ## 外部リンク
 
   - [LAVIE公式サイト](http://nec-lavie.jp/)
-  - [LAVIEブランドサイト](http://nec-lavie.jp/navigate/products/pc/special/lavie/)
 
 [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink") [Category:Android端末_(NECグループ)](https://ja.wikipedia.org/wiki/Category:Android端末_\(NECグループ\) "wikilink") [Category:レノボのパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:レノボのパーソナルコンピュータ "wikilink")
 

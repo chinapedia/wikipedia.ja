@@ -110,7 +110,7 @@
 <tr class="odd">
 <td><p><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
 <td><p><a href="../Page/新井利佳.md" title="wikilink">新井利佳</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Misia" title="wikilink">Misia</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">Misia</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -153,7 +153,7 @@
 <tr class="even">
 <td><p><a href="../Page/久志麻理奈.md" title="wikilink">久志麻理奈</a></p></td>
 <td><p><a href="../Page/なすび_(タレント).md" title="wikilink">なすび</a></p></td>
-<td><p>「<a href="../Page/電波少年的懸賞生活.md" title="wikilink">電波少年的懸賞生活</a>」[3]のシーン</p></td>
+<td><p>「<a href="../Page/電波少年的懸賞生活.md" title="wikilink">電波少年的懸賞生活</a>」[3] のシーン</p></td>
 <td></td>
 </tr>
 </tbody>

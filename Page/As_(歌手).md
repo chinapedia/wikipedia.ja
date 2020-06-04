@@ -13,8 +13,6 @@
   - [2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink") - 1stアルバム『and song』をリリース。
   - この間、病気療養のため音楽活動を休止
   - [2007年](../Page/2007年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - asとして活動終了。tamamiでの活動へ移行。
-  - [2007年](../Page/2007年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink") - 元 I WiSHでasプロデューサーの[naoと結婚した事と](https://ja.wikipedia.org/wiki/nao_\(作曲家\) "wikilink") 妊娠中である事をブログで告白。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - 第一子（長男）を出産。
   - [2011年](../Page/2011年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - 12月18日に発作から呼吸困難に陥り救急搬送されるも、意識が回復しないまま死去した。25歳。翌年1月9日に本人オフィシャルサイトで訃報が報告された\[1\]。
 
 ## メモ

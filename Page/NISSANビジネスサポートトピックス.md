@@ -22,9 +22,9 @@
 ※2008年3月の番組終了時点を基準
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（8:45～8:55　[今日も\!あさぷり](../Page/今日も!あさぷり.md "wikilink")）
-  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（7:30～7:40　[朝からRADIO](https://ja.wikipedia.org/wiki/朝からRADIO "wikilink")）
+  - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（7:30～7:40　[朝からRADIO](../Page/朝からRADIO.md "wikilink")）
   - [東北放送](../Page/東北放送.md "wikilink")（7:30～7:40　[おはようワイド Goodモーニング](https://ja.wikipedia.org/wiki/おはようワイド_Goodモーニング "wikilink")）
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（7:28～7:38　[あさ採りワイド秋田便](../Page/あさ採りワイド秋田便.md "wikilink")）
+  - [秋田放送](../Page/秋田放送.md "wikilink")（7:28～7:38　[あさ採りワイド秋田便](../Page/あさ採りワイド秋田便.md "wikilink")）
   - [山形放送](../Page/山形放送.md "wikilink")（7:40～7:50　[グッとモーニン\!\!](https://ja.wikipedia.org/wiki/グッとモーニン!! "wikilink")）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")（8:20～8:30　Morning×2）
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（7:20～7:30　モーニングカフェ）
@@ -43,7 +43,7 @@
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（7:34～7:49　[JOAF\!らくさぶろうのモーニングおん\!](../Page/JOAF!らくさぶろうのモーニングおん!.md "wikilink")）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（7:30～7:40）
   - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（7:35～7:50　[中村もときの通勤ラジオ](../Page/中村もときの通勤ラジオ.md "wikilink")）
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（8:20～8:25　今日も朝からNBC\!）
+  - [長崎放送](../Page/長崎放送.md "wikilink")（8:20～8:25　今日も朝からNBC\!）
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（7:26～7:35　史郎と扶美の日刊・朝まる）
   - [大分放送](../Page/大分放送.md "wikilink")（7:25～7:35）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（7:00～7:10　[MRTスーパーワイドバリッと朝](../Page/MRTスーパーワイドバリッと朝.md "wikilink")）
@@ -52,7 +52,7 @@
 以下の放送局は、ニッポン放送の裏送り番組を放送している。いずれも2007年3月までは[日産ラジオナビ スポーツ最前線を放送していた](../Page/日産ラジオナビ_スポーツ最前線.md "wikilink")。但し、山口放送・ラジオ沖縄は2006年3月までは土曜日のみ「日産ラジオナビ」を放送していた。パーソナリティは[飯田浩司](../Page/飯田浩司.md "wikilink")アナウンサー。こちらのOPは[日産・キューブ](../Page/日産・キューブ.md "wikilink")のCMで使用された[絢香×コブクロ](../Page/絢香×コブクロ.md "wikilink")の[WINDING ROADのインスト版を流している](../Page/WINDING_ROAD_\(絢香×コブクロの曲\).md "wikilink")。
 
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [山口放送](../Page/山口放送.md "wikilink")
   - [ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")

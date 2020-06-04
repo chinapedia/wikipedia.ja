@@ -1,7 +1,7 @@
 > この記事は[WAKE UP NEWS](https://ja.wikipedia.org/wiki/WAKE_UP_NEWS)から翻訳されています。
 
 
-**WAKE UP NEWS**（ウェイクアップ・ニュース）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")とする[JFN系列全国ネットで放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**WAKE UP NEWS**（ウェイクアップ・ニュース）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キー局](../Page/キー局.md "wikilink")とする[JFN系列全国ネットで放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 番組概要
 

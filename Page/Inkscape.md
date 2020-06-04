@@ -19,26 +19,127 @@ Inkscapeは元のSodipodiの[コードに対して数多くの変更が加えら
 
 Sodipodiのリリースについては示さず、[フォーク後のInkscapeのみ以下に示す](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")。
 
-| リリース日                                                                      | バージョン  | 備考                                                                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [2003年](../Page/2003年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") | 0.35   | Inkscapeの最初のリリース。この時点ではSodipodiからのフォーク直後であり、非常に類似したソフトであった。                                                                                                                                                                                                                                                                           |
-| 2004年                                                                      | 0.36   | メニューバーやツールバーをドキュメントウィンドウごとにあるユーザインタフェースに変更した。                                                                                                                                                                                                                                                                                         |
-| 2004年2月10日                                                                 | 0.37   | パスのインセットやアウトセット、論理演算 (boolean operator) を追加した。                                                                                                                                                                                                                                                                                        |
-| 2004年4月8日                                                                  | 0.38.1 | バグフィックスの他、テキストの[カーニング](https://ja.wikipedia.org/wiki/カーニング "wikilink")や[トラッキング](https://ja.wikipedia.org/wiki/トラッキング "wikilink")や多段グラデーションのサポートの他、使い勝手を向上させた。                                                                                                                                                                         |
-| 2004年7月15日                                                                 | 0.39   | [Pango](../Page/Pango.md "wikilink") を使った最初のリリースで他言語の取り扱いがよくなった。また、マーカーやクローンやパターンをサポートした。                                                                                                                                                                                                                                             |
-| 2004年11月28日                                                                | 0.40   | レイヤーや[ビットマップ画像](../Page/ビットマップ画像.md "wikilink")のトレース機能やテキストをパスに乗せる機能を追加。                                                                                                                                                                                                                                                              |
-| 2005年2月10日                                                                 | 0.41   | グリッド配置やカラートレースを追加。                                                                                                                                                                                                                                                                                                                    |
-| 2005年7月24日                                                                 | 0.42   | テキストのフロー配置（テキストをフレームに挿入）を追加。テキストスパンのサポート。グラデーションツールを新しくした。                                                                                                                                                                                                                                                                            |
-| 2005年11月19日                                                                | 0.43   | コネクターツール、ホワイトボード機能の追加。タブレットのサポート、ノードツールの使い勝手を向上した。                                                                                                                                                                                                                                                                                    |
-| 2006年6月22日                                                                 | 0.44   | レイヤダイアログ、クリッピング、マスキングのサポート、透過 [PDF](../Page/Portable_Document_Format.md "wikilink") 出力の改善。[OpenDocument](../Page/OpenDocument.md "wikilink")フォーマットのエクスポートに対応。                                                                                                                                                                         |
-| 2007年2月5日                                                                  | 0.45   | ガウスぼかしのサポート。                                                                                                                                                                                                                                                                                                                          |
-| 2007年3月23日                                                                 | 0.45.1 | バグフィックスとユーザーインターフェースの翻訳の改善。                                                                                                                                                                                                                                                                                                           |
-| 2008年3月24日                                                                 | 0.46   |                                                                                                                                                                                                                                                                                                                                       |
-| 2009年11月24日                                                                | 0.47   | 自動保存、スペルチェッカー機能の追加。フィルタの追加。PS、EPS出力の改善。                                                                                                                                                                                                                                                                                               |
-| 2010年8月23日                                                                 | 0.48   | スプレーツール、マルチパス編集、上付き・下付きなどのテキスト関連の強化。                                                                                                                                                                                                                                                                                                  |
-| 2015年1月30日                                                                 | 0.91   | レンダリングエンジン[cairo](https://ja.wikipedia.org/wiki/cairo "wikilink")の採用、[OpenMP](../Page/OpenMP.md "wikilink")によるマルチスレッド処理への対応、テキストツールの改良、ものさしツール、タイプデザイン機能、シンボルライブラリとVisioステンシルのサポート、[WMF/EMFのインポートおよびエクスポート](../Page/Windows_Metafile.md "wikilink")、実世界での単位（[ミリメートル](../Page/ミリメートル.md "wikilink")など）のサポート、メモリ消費量の大幅な減少、反応性の向上、他\[3\] |
-| 2017年1月4日                                                                  | 0.92   | [SVG2](../Page/Scalable_Vector_Graphics.md "wikilink")、[CSS3への対応の改善](../Page/Cascading_Style_Sheets.md "wikilink")\[4\]。 Inkscapeのデフォルト解像度を90dpiから96dpiに変更\[5\]。                                                                                                                                                                      |
-| 2018年3月22日                                                                 | 0.92.3 | [双方向テキスト](https://ja.wikipedia.org/wiki/双方向テキスト "wikilink")に対応\[6\]。 windowsユーザーに対する起動パフォーマンスの改善\[7\]。                                                                                                                                                                                                                                |
+<table>
+<thead>
+<tr class="header">
+<th><p>バージョン</p></th>
+<th><p>リリース日</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/10月14日.md" title="wikilink">10月14日</a></p></td>
+<td><p>Inkscapeの最初のリリース。この時点ではSodipodiからのフォーク直後であり、非常に類似したソフトであった。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2003年12月11日</p></td>
+<td><p>メニューバーやツールバーをドキュメントウィンドウごとにあるユーザインタフェースに変更した。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2004年2月10日</p></td>
+<td><p>パスのインセットやアウトセット、論理演算 (boolean operator) を追加した。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2004年4月8日</p></td>
+<td><p>バグフィックスの他、テキストの<a href="https://ja.wikipedia.org/wiki/カーニング" title="wikilink">カーニング</a>や<a href="https://ja.wikipedia.org/wiki/トラッキング" title="wikilink">トラッキング</a>や多段グラデーションのサポートの他、使い勝手を向上させた。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2004年7月15日</p></td>
+<td><p><a href="../Page/Pango.md" title="wikilink">Pango</a> を使った最初のリリースで他言語の取り扱いがよくなった。また、マーカーやクローンやパターンをサポートした。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2004年11月28日</p></td>
+<td><p>レイヤーや<a href="../Page/ビットマップ画像.md" title="wikilink">ビットマップ画像</a>のトレース機能やテキストをパスに乗せる機能を追加。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2005年2月10日</p></td>
+<td><p>グリッド配置やカラートレースを追加。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2005年7月24日</p></td>
+<td><p>テキストのフロー配置（テキストをフレームに挿入）を追加。テキストスパンのサポート。グラデーションツールを新しくした。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2005年11月19日</p></td>
+<td><p>コネクターツール、ホワイトボード機能の追加。タブレットのサポート、ノードツールの使い勝手を向上した。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2006年6月22日</p></td>
+<td><p>レイヤダイアログ、クリッピング、マスキングのサポート、透過 <a href="../Page/Portable_Document_Format.md" title="wikilink">PDF</a> 出力の改善。<a href="../Page/OpenDocument.md" title="wikilink">OpenDocument</a>フォーマットのエクスポートに対応。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2007年2月5日</p></td>
+<td><p>ガウスぼかしのサポート。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2007年3月23日</p></td>
+<td><p>バグフィックスとユーザーインターフェースの翻訳の改善。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2008年3月24日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2009年11月24日</p></td>
+<td><p>自動保存、スペルチェッカー機能の追加。フィルタの追加。PS、EPS出力の改善。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2010年8月23日</p></td>
+<td><p>スプレーツール、マルチパス編集、上付き・下付きなどのテキスト関連の強化。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2015年1月30日</p></td>
+<td><p>レンダリングエンジン<a href="https://ja.wikipedia.org/wiki/cairo" title="wikilink">cairo</a>の採用、<a href="../Page/OpenMP.md" title="wikilink">OpenMP</a>によるマルチスレッド処理への対応、テキストツールの改良、ものさしツール、タイプデザイン機能、シンボルライブラリとVisioステンシルのサポート、<a href="../Page/Windows_Metafile.md" title="wikilink">WMF/EMFのインポートおよびエクスポート</a>、実世界での単位（<a href="../Page/ミリメートル.md" title="wikilink">ミリメートル</a>など）のサポート、メモリ消費量の大幅な減少、反応性の向上、他[3]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2017年1月4日</p></td>
+<td><p><a href="../Page/Scalable_Vector_Graphics.md" title="wikilink">SVG2</a>、<a href="../Page/Cascading_Style_Sheets.md" title="wikilink">CSS3への対応の改善</a>[4]。 Inkscapeのデフォルト解像度を90dpiから96dpiに変更[5]。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2018年3月22日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/双方向テキスト" title="wikilink">双方向テキスト</a>に対応[6]。 windowsユーザーに対する起動パフォーマンスの改善[7]。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2019年1月17日</p></td>
+<td><p>安定性の向上、バグ修正[8][9]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2020年4月9日</p></td>
+<td><p>安定性の向上、バグ修正、エクステンションを <a href="../Page/Python.md" title="wikilink">Python</a> 2 と 3 で互換[10][11]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2020年5月4日</p></td>
+<td><p>安定版リリース[12]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 [USBメモリ](https://ja.wikipedia.org/wiki/USBメモリ "wikilink")などの上で動作可能な[ポータブルアプリケーション](../Page/ポータブルアプリケーション.md "wikilink")として**Inkscape Portable**も開発されている。
 
@@ -65,7 +166,12 @@ Sodipodiのリリースについては示さず、[フォーク後のInkscapeの
 1.  [Sodipodiのメーリングリストの過去ログ](http://sourceforge.net/mailarchive/message.php?msg_id=loom.20050120T134439-394%40post.gmane.org)
 2.  <http://www.levien.com/svg/>
 3.  [Release notes/0.91/ja](http://wiki.inkscape.org/wiki/index.php/Release_notes/0.91/ja)、2015年2月2日版
-4.  [公式サイト - Inkscape Version 0.92 is Released\!](https://inkscape.org/en/news/2017/01/04/inkscape-version-092-released)
+4.  [公式サイト - Inkscape Version 0.92 is Released\!](https://inkscape.org/ja/news/2017/01/04/inkscape-version-092-released)
 5.
-6.  [公式サイト - Announcing the 0.92.3 Release of Inkscape](https://inkscape.org/en/news/2018/03/22/announcing-0923-release-inkscape/)
+6.  [公式サイト - Announcing the 0.92.3 Release of Inkscape](https://inkscape.org/ja/news/2018/03/22/announcing-0923-release-inkscape/)
 7.
+8.
+9.
+10. <https://inkscape.org/ja/release/inkscape-0.92.x/?latest=1>
+11. <https://wiki.inkscape.org/wiki/index.php/Release_notes/0.92.5>
+12.

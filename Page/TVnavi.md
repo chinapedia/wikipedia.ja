@@ -1,11 +1,11 @@
 > この記事は[TVnavi](https://ja.wikipedia.org/wiki/TVnavi)から翻訳されています。
 
 
-『**TVnavi**』（テレビナビ）とは[産経新聞出版](https://ja.wikipedia.org/wiki/産経新聞出版 "wikilink")から発行、[扶桑社](../Page/扶桑社.md "wikilink")から発売されている月刊の[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。
+**TVnavi**（テレビナビ）とは[産経新聞出版](https://ja.wikipedia.org/wiki/産経新聞出版 "wikilink")から発行、[扶桑社](../Page/扶桑社.md "wikilink")から発売されている月刊の[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")創刊\[1\]、毎月24日発売。1か月分の[テレビ番組表](https://ja.wikipedia.org/wiki/テレビ番組表 "wikilink")や番組の見どころを紹介。タレントの出演情報のほか過去に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")の特集企画、[韓国の俳優](../Page/大韓民国.md "wikilink")・女優の最新ニュースなどの企画も掲載している。番組表は[日刊スポーツPRESS](../Page/日刊編集センター.md "wikilink")（旧・日刊編集センター）\[2\]から配信を受けている。
+[2003年](../Page/2003年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")創刊\[1\]、毎月24日発売。1か月分の[テレビ番組表](https://ja.wikipedia.org/wiki/テレビ番組表 "wikilink")や番組の見どころを紹介。タレントの出演情報のほか過去に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")の特集企画、[韓国の俳優](../Page/大韓民国.md "wikilink")・女優の最新ニュースなどの企画も掲載している。番組表は[日刊スポーツPRESS](../Page/日刊編集センター.md "wikilink")（旧・日刊編集センター）から配信を受けている。
 
 [マスコット](../Page/マスコット.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")は[イヌ](../Page/イヌ.md "wikilink")の「**ナビー**」（通称：ナビーくん）。
 
@@ -22,7 +22,7 @@
 
 ## ドラマ大賞
 
-企画は[2004年](../Page/2004年.md "wikilink")より新設。1年間に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[民放で放送された連続](../Page/民間放送.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の中から読者投票によって選ばれる（[2016年](../Page/2016年.md "wikilink")は休み\[3\]）。
+企画は[2004年](../Page/2004年.md "wikilink")より新設。1年間に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[民放で放送された連続](../Page/民間放送.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の中から読者投票によって選ばれる（[2016年](../Page/2016年.md "wikilink")は休み\[2\]）。
 
 ### 受賞作品
 
@@ -192,7 +192,7 @@
 
 ## 地域版
 
-36都道府県をカバーする\[4\]。広島・岡山・香川版と青森・岩手版と秋田・山形版は毎月25日、北海道版と九州版と鹿児島・熊本・宮崎版は毎月26日、それ以外の地区は毎月24日発売。書店、駅売店、コンビニエンスストアと、関東・関西の[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")販売店で発売されている。
+36都道府県をカバーする\[3\]。広島・岡山・香川版と青森・岩手版と秋田・山形版は毎月25日、北海道版と九州版と鹿児島・熊本・宮崎版は毎月26日、それ以外の地区は毎月24日発売。書店、駅売店、コンビニエンスストアと、関東・関西の[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")販売店で発売されている。
 
   - 北海道版（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")）
   - 青森・岩手版（[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")、[岩手県](../Page/岩手県.md "wikilink")）
@@ -225,15 +225,16 @@
 
 ## 脚注
 
-<references />
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
-  - [月刊TVnavi オフィシャルサイト](http://www.tvnaviweb.jp/index.html)
+  - [月刊TVnavi オフィシャルサイト](http://www.tvnaviweb.jp/)
 
-[Category:テレビ情報誌](https://ja.wikipedia.org/wiki/Category:テレビ情報誌 "wikilink") [Category:産経新聞](https://ja.wikipedia.org/wiki/Category:産経新聞 "wikilink") [Category:2003年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年創刊の雑誌 "wikilink") [Category:ドラマの賞](https://ja.wikipedia.org/wiki/Category:ドラマの賞 "wikilink")
+[Category:テレビ情報誌](https://ja.wikipedia.org/wiki/Category:テレビ情報誌 "wikilink") [Category:産経新聞社の出版物](https://ja.wikipedia.org/wiki/Category:産経新聞社の出版物 "wikilink") [Category:2003年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年創刊の雑誌 "wikilink") [Category:ドラマの賞](https://ja.wikipedia.org/wiki/Category:ドラマの賞 "wikilink")
 
 1.
-2.  2019年10月1日に日刊スポーツ印刷社と経営統合され社名変更された。
-3.
-4.  [雑誌のFujisan.co.jp](http://www.fujisan.co.jp/navi/special/tvnavi)
+2.
+3.  [雑誌のFujisan.co.jp](http://www.fujisan.co.jp/navi/special/tvnavi)

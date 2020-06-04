@@ -47,6 +47,7 @@
   - [富士通](../Page/富士通.md "wikilink")製の[IC等につけられる型番](../Page/集積回路.md "wikilink")。
   - [三菱電機](../Page/三菱電機.md "wikilink")製の[鉄道車両](../Page/鉄道車両.md "wikilink")用モーターの型番。
   - [ホンダ・MB](../Page/ホンダ・MB.md "wikilink") - ホンダが製造していた原動機付自転車
+  - [MNG航空](../Page/MNG航空.md "wikilink")
 
 ## 関連項目
 

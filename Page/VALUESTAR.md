@@ -48,9 +48,7 @@
 
 ## 外部リンク
 
-  - [公式サイトより「商品情報」](http://121ware.com/valuestar/)
-  - [NEC Direct](http://www.necdirect.jp/) - オンライン販売サイト
-  - [VALUESTAR X不具合情報](http://121ware.com/navigate/support/watercool_attention/index.html)
+  - [NEC Direct](http://nec-lavie.jp/shop/) - オンライン販売サイト
   - [VALUESTAR W不具合情報](http://121ware.com/support/repair/VW_PSU/)
   - [VALUESTAR H不具合情報](http://121ware.com/navigate/support/vsh/)
 

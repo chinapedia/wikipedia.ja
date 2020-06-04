@@ -19,6 +19,8 @@
 
 *M-ON\!（エムオン\!）は、ライブコンサート映像やアーティスト特番が充実！J-POPやK-POP、ロック、アイドル、アニソン、オトナ等を虜にするレジェンドアーティストのライブ映像など、さまざまなジャンルを網羅。「みんなの見たい・知りたい」を、満足させる幅広い番組を絶賛放送中！*
 
+CMでの「毎日がエムオンライブ」の名の通り必ず放送がある。
+
 ## 来歴
 
 *SME TV時代*
@@ -248,25 +250,37 @@
 
 <!-- end list -->
 
-  - **アニオン\!ワールド**
+  - **アニオン\!ワールド**\[17\]**　**（毎週水曜 26:30 - 27:00**）**
 
 <!-- end list -->
 
   -
 
       -
-        アニメ・ゲームのテーマソング・人気声優の楽曲\[17\]
+        アニメ・ゲームのテーマソング・人気声優の楽曲\[18\]
+
+<!-- end list -->
+
+  - **ヴィジュアリズム**\[19\] <small>（毎週水曜 27:00 - 27:30）</small>
+
+<!-- end list -->
+
+  -
+
+      -
+        ヴィジュアル系
 
 #### 過去のミュージックビデオ
 
-  - **あのころ ヒッツ\!**\[18\]
+  - **あのころ ヒッツ\!**\[20\]
+  - **あのころ ドラマヒッツ！**\[21\]
 
 <!-- end list -->
 
   -
 
       -
-        過去の邦楽ヒット曲\[19\]。
+        過去の邦楽ヒット曲\[22\]。
 
 <!-- end list -->
 
@@ -292,18 +306,18 @@
 
 ### ヒットチャート
 
-  - **[J-POP最強カウントダウン](https://ja.wikipedia.org/wiki/J-POP最強カウントダウン "wikilink")50**\[20\]
+  - **[J-POP最強カウントダウン](https://ja.wikipedia.org/wiki/J-POP最強カウントダウン "wikilink")50**\[23\]
 
 <!-- end list -->
 
   -
 
       -
-        邦楽シングル･アルバム\[21\]のセールスや音楽配信･カラオケなどのデータから算出したランキングTOP50\[22\]を放送。2015年7月に「M-ON！countdown」から改称された。時間短縮版として「**J-POP最強カウントダウン20**」も放送。
+        邦楽シングル･アルバム\[24\]のセールスや音楽配信･カラオケなどのデータから算出したランキングTOP50\[25\]を放送。2015年7月に「M-ON！countdown」から改称された。時間短縮版として「**J-POP最強カウントダウン20**」も放送。
 
 歌詞なし放送(字幕で歌詞を表示可能)と歌詞入り放送あり。
 
-  - **M-ON\! Countdown International 10**\[23\]
+  - **M-ON\! Countdown International 10**\[26\]
 
 <!-- end list -->
 
@@ -314,18 +328,18 @@
 
 <!-- end list -->
 
-  - **M-ON\! カラオケカウントダウン 50**\[24\]
+  - **M-ON\! カラオケカウントダウン 50**\[27\]
 
 <!-- end list -->
 
   -
 
       -
-        最新のカラオケカウントダウンTOP50。時間短縮版として「**M-ON\! カラオケカウントダウン 20**」\[25\]も放送。
+        最新のカラオケカウントダウンTOP50。時間短縮版として「**M-ON\! カラオケカウントダウン 20**」\[28\]も放送。
 
 共に歌詞入り。
 
-  - **人気歌詞カウントダウン20 by うたまっぷ**\[26\]
+  - **人気歌詞カウントダウン20 by うたまっぷ**\[29\]
 
 <!-- end list -->
 
@@ -336,7 +350,7 @@
 
 歌詞入り。
 
-  - **ダウンロードカウントダウン with iTunes 20**\[27\]
+  - **ダウンロードカウントダウン with iTunes 20**\[30\]
 
 <!-- end list -->
 
@@ -347,7 +361,7 @@
 
 歌詞なし(字幕で歌詞を表示可能。)
 
-  - **TSUTAYA レンタルCDカウントダウン 20**\[28\]
+  - **TSUTAYA レンタルCDカウントダウン 20**\[31\]
 
 <!-- end list -->
 
@@ -807,18 +821,7 @@
 
 <!-- end list -->
 
-  - **ヴィジュアリズム** <small>（毎週水曜 27:00 - 27:30）</small>
-
-<!-- end list -->
-
-  -
-
-      -
-        ヴィジュアル系
-
-<!-- end list -->
-
-  - **全力！アイドル**\[29\]
+  - **全力！アイドル**\[32\]
 
 <!-- end list -->
 
@@ -829,14 +832,14 @@
 
 <!-- end list -->
 
-  - **宇宙ロック研究所**\[30\]
+  - **宇宙ロック研究所**\[33\]
 
 <!-- end list -->
 
   -
 
       -
-        こだわりのテーマに沿った選曲で、多彩なロックサウンドをお届けするミュージックビデオプログラム\[31\]
+        こだわりのテーマに沿った選曲で、多彩なロックサウンドをお届けするミュージックビデオプログラム\[34\]
 
 ### パーソナリティ番組
 
@@ -1548,7 +1551,7 @@
   -
 
       -
-        アーティストをマンスリーで1組セレクト\[32\]
+        アーティストをマンスリーで1組セレクト\[35\]
 
 ## 主催イベント「GG」(George's Greenroom)
 
@@ -1591,7 +1594,7 @@
 
 ## 備考
 
-[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送開始以降、従来の[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")4:3のサイズで制作されているビデオでは、[ウォーターマーク](../Page/ウォーターマーク.md "wikilink")はビデオ内に収まる位置に表示される。ウォーターマークの位置は画面右下。また、[2012年](../Page/2012年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")の旧・スカパー\!e2でのハイビジョン放送開始と同時に[字幕放送を開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")\[33\]。
+[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送開始以降、従来の[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")4:3のサイズで制作されているビデオでは、[ウォーターマーク](../Page/ウォーターマーク.md "wikilink")はビデオ内に収まる位置に表示される。ウォーターマークの位置は画面右下。また、[2012年](../Page/2012年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")の旧・スカパー\!e2でのハイビジョン放送開始と同時に[字幕放送を開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")\[36\]。
 
 エムオン・エンタテインメントの本社が入居しているビルの隣のビルには[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")を運営する[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")が入居している。また、かつては徒歩1分もしない場所にあるビルにも[MTVジャパン](../Page/MTVジャパン.md "wikilink")が入っていた。
 
@@ -1626,7 +1629,7 @@
   -
 [Category:MUSIC_ON\!_TV](https://ja.wikipedia.org/wiki/Category:MUSIC_ON!_TV "wikilink") [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink") [Category:音楽専門テレビチャンネル](https://ja.wikipedia.org/wiki/Category:音楽専門テレビチャンネル "wikilink") [Category:エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/Category:エムオン・エンタテインメント "wikilink")
 
-1.  [M-ON\! Entertainment Inc. - Channel](http://www.m-on-ent.jp/service/channel.html)
+1.  [M-ON\! Entertainment Inc. - Channel](http://www.m-on-ent.jp/#service)
 2.  洋楽は権利の関係上、表示が認められていない
 3.
 4.
@@ -1642,20 +1645,23 @@
 14.
 15.
 16.
-17. [アニオン\! ワールド | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anionworld/)
-18. [あのころヒッツ\! | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anokoro-hits/)
+17.
+18. [アニオン\! ワールド | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anionworld/)
 19.
-20. [J-POP最強カウントダウン50|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/jpop-countdown50/)
-21. アルバムからの曲としてランクインしている時は、収録曲のうち1曲を放送
+20. [あのころヒッツ\! | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/anokoro-hits/)
+21.
 22.
-23. [M-ON\! Countdown International 10|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/countdown-international10/)
-24. [M-ON\! カラオケカウントダウン 50 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown50/)
-25. [M-ON\! カラオケカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown20/)
-26. [うたまっぷカウントダウン ～人気歌詞ランキング～ | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/utamap-countdown/)
-27. [ダウンロードカウントダウン with iTunes 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/download-countdown20/)
-28. [TSUTAYA レンタルCDカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/tsutaya-countdown20/)
-29. [全力！アイドル | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/zenryokuidol/)
-30. [宇宙ロック研究所 | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/uchu-rock/)
-31. 洋楽を含む
-32.
-33. プレミアムサービスを含む
+23. [J-POP最強カウントダウン50|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/jpop-countdown50/)
+24. アルバムからの曲としてランクインしている時は、収録曲のうち1曲を放送
+25.
+26. [M-ON\! Countdown International 10|チャート|MUSIC ON\! TV(エムオン\!）](http://www.m-on.jp/chart/countdown-international10/)
+27. [M-ON\! カラオケカウントダウン 50 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown50/)
+28. [M-ON\! カラオケカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/karaoke-countdown20/)
+29. [うたまっぷカウントダウン ～人気歌詞ランキング～ | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/utamap-countdown/)
+30. [ダウンロードカウントダウン with iTunes 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/download-countdown20/)
+31. [TSUTAYA レンタルCDカウントダウン 20 | チャート | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/chart/tsutaya-countdown20/)
+32. [全力！アイドル | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/zenryokuidol/)
+33. [宇宙ロック研究所 | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/uchu-rock/)
+34. 洋楽を含む
+35.
+36. プレミアムサービスを含む

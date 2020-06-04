@@ -140,14 +140,14 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_世界ヘビー級王座" title="wikilink">世界ヘビー級王座</a></p></td>
-<td><p><a href="../Page/佐藤耕平.md" title="wikilink">佐藤耕平</a></p></td>
-<td><p>第26代</p></td>
-<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリス・ヴァイス" title="wikilink">クリス・ヴァイス</a></p></td>
+<td><p>第27代</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NWAユナイテッド・ナショナル・ヘビー級王座" title="wikilink">NWA UNヘビー級王座</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ヴァイス" title="wikilink">クリス・ヴァイス</a></p></td>
+<td><p>クリス・ヴァイス</p></td>
 <td><p>第34代</p></td>
 <td></td>
 <td></td>

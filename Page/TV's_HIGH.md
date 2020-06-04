@@ -111,7 +111,7 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
   - [TV's HIGH内容紹介](http://www.hey.ne.jp/~mb/high.htm)
   - [第0回（初回）](http://www.interq.or.jp/red/motoki/tvs.html)
 

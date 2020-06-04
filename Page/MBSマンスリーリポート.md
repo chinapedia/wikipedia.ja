@@ -30,7 +30,7 @@
 ## 関連項目
 
   - [自己批評番組](../Page/自己批評番組.md "wikilink")
-  - [TBSレビュー](../Page/TBSレビュー.md "wikilink") － MBSの[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")・[TBSの自己批評番組](../Page/TBSテレビ.md "wikilink")。
+  - [TBSレビュー](../Page/TBSレビュー.md "wikilink") － MBSの[キー局](../Page/キー局.md "wikilink")・[TBSの自己批評番組](../Page/TBSテレビ.md "wikilink")。
 
 ## 外部リンク
 

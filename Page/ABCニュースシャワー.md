@@ -36,7 +36,7 @@ NHK BS1『[World News\&Culture](../Page/ワールドニュースアワー.md "wi
 
 ## 外部リンク
 
-  - [攻略\!ABCニュース英語（旧ABCニュースシャワー）｜NHK BS1](http://www6.nhk.or.jp/kokusaihoudou/abcns/index.html)
+  - [攻略\!ABCニュース英語（旧ABCニュースシャワー）｜NHK BS1](https://www6.nhk.or.jp/kokusaihoudou/abcns/index.html)
 
 [Category:NHK_BS1のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1のニュース・報道番組 "wikilink") [Category:NHK_BS1の帯番組](https://ja.wikipedia.org/wiki/Category:NHK_BS1の帯番組 "wikilink") [Category:NHK_BSのミニ番組](https://ja.wikipedia.org/wiki/Category:NHK_BSのミニ番組 "wikilink") [Category:NHKの英語教育番組](https://ja.wikipedia.org/wiki/Category:NHKの英語教育番組 "wikilink") [Category:NHK_BSの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの深夜番組 "wikilink") [Category:ABC](https://ja.wikipedia.org/wiki/Category:ABC "wikilink")
 

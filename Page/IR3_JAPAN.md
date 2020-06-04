@@ -262,6 +262,6 @@
 ## IR3に関連したサイト
 
   - [IR3擦過ののんべんだらーり](http://www.tosp.co.jp/i.asp?I=sakkachan&P=0&MD=)
-  - [ＩＲ３リスナーズクラブ](http://ip.tosp.co.jp/i.asp?i=KUMASHOW)
 
+  -
 [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:JFN系ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのバラエティ番組 "wikilink") [Category:JFN系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組の歴史 "wikilink")

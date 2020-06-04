@@ -160,9 +160,9 @@
       - 桑田佳祐:Vocal, Guitar
       - 小倉博和:Guitar
       - 美久月千晴:Bass
-      - 鎌田清:Drum
+      - 鎌田清:Drums
       - 片山敦夫:Keyboard
-      - 深町栄:Keyborad
+      - 深町栄:Keyboard
       - [三沢またろう](../Page/三沢またろう.md "wikilink"):[Percussion](../Page/打楽器.md "wikilink")
       - [金原千恵子](../Page/金原千恵子.md "wikilink"):[Violin](../Page/ヴァイオリン.md "wikilink")
       - 今野均:Violin

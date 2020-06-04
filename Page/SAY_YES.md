@@ -1,7 +1,7 @@
 > この記事は[SAY YES](https://ja.wikipedia.org/wiki/SAY_YES)から翻訳されています。
 
 
-「**SAY YES**」（セイ・イエス）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の27枚目の[シングル](../Page/シングル.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に発売された。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+「**SAY YES**」（セイ・イエス）は、[CHAGE\&ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の楽曲。自身の27作目の[シングル](../Page/シングル.md "wikilink")として、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に発売された。
 
 ## 背景
 

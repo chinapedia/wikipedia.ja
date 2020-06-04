@@ -21,6 +21,8 @@
 
 なお、イー・アクセス時代までのメールアドレスのドメインは、*aol.com*であったが、現在取得出来るドメイン名はは*aol.jp*となっている（米国サイトでaol.comは取得可能）。[日本通信](https://ja.wikipedia.org/wiki/日本通信 "wikilink")が提供する[ConnectMail](https://ja.wikipedia.org/wiki/ConnectMail "wikilink")は、AOLのメールアドレスに対応しているが、対応しているのはaol.comのみで、aol.jpは現在提供不可としている。
 
+2021年3月31日をもってソフトバンクが提供する接続サービス（ISP）事業を終了される事が発表された。
+
 ### 日本における沿革
 
   - 1996年 - [三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")、America Online, Inc.により日本法人**AOLジャパン株式会社**を設立。
@@ -38,6 +40,7 @@
   - 2016年10月24日 - AOLにより完全子会社化。
   - 2017年6月 - ベライゾン・コミュニケーションズが米[Yahoo](https://ja.wikipedia.org/wiki/Yahoo "wikilink")を買収し、AOLとYahooを統合した新会社[oath](https://ja.wikipedia.org/wiki/oath "wikilink")を発足。それに伴いAOLプラットフォームズ・ジャパン株式会社は**Oath Japan株式会社**に社名変更。
   - 2017年8月 - [TechCrunch](https://ja.wikipedia.org/wiki/TechCrunch "wikilink") Japan、[Engadget](https://ja.wikipedia.org/wiki/Engadget "wikilink") 日本版、[Autoblog](https://ja.wikipedia.org/wiki/Autoblog "wikilink") 日本版などのオンラインメディアを運営する、AOLオンライン・ジャパン株式会社がOath Japan株式会社と事業統合（合併）。
+  - 2021年3月31日 -旧イー・アクセスを吸収したソフトバンクが提供していた接続サービス（ISP）事業を終了（予定）。
 
 ## AOL接続ソフト
 
@@ -83,6 +86,7 @@ AOLでは[ダイヤルアップ接続](../Page/ダイヤルアップ接続.md "w
 ## 外部リンク
 
   - [WELCOME TO AOL.JP](https://www.aol.jp/)
+      - [AOL接続会員サポート](https://support.aolservice.jp/)
   - [AOL公式サイト](https://www.aol.com/)
 
 [Category:パソコン通信](https://ja.wikipedia.org/wiki/Category:パソコン通信 "wikilink") [Category:アメリカ合衆国のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインターネットサービスプロバイダ "wikilink") [Category:アメリカ合衆国のインターネット企業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインターネット企業 "wikilink") [Category:ポータルサイト](https://ja.wikipedia.org/wiki/Category:ポータルサイト "wikilink") [Category:アメリカ合衆国のウェブサイト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のウェブサイト "wikilink") [Category:Netscape](https://ja.wikipedia.org/wiki/Category:Netscape "wikilink") [Category:再上場した企業](https://ja.wikipedia.org/wiki/Category:再上場した企業 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:ドメインのレジストラ](https://ja.wikipedia.org/wiki/Category:ドメインのレジストラ "wikilink") [Category:イー・アクセス](https://ja.wikipedia.org/wiki/Category:イー・アクセス "wikilink") [Category:日本経済新聞社の歴史](https://ja.wikipedia.org/wiki/Category:日本経済新聞社の歴史 "wikilink") [Category:三井物産の歴史](https://ja.wikipedia.org/wiki/Category:三井物産の歴史 "wikilink") [Category:NTTドコモの歴史](https://ja.wikipedia.org/wiki/Category:NTTドコモの歴史 "wikilink")

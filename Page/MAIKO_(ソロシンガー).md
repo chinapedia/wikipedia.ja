@@ -142,9 +142,10 @@ ZONE解散後、[MIYUとともに事務所に残りソロ活動を表明](../Pag
   -
   -
   -
+
 [en:Zone (band)\#Band members](https://ja.wikipedia.org/wiki/en:Zone_\(band\)#Band_members "wikilink")
 
-[Category:ZONEのメンバー](https://ja.wikipedia.org/wiki/Category:ZONEのメンバー "wikilink") [Category:ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/Category:ランタイムミュージックエンタテインメント "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ZONEのメンバー](https://ja.wikipedia.org/wiki/Category:ZONEのメンバー "wikilink") [Category:ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/Category:ランタイムミュージックエンタテインメント "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:日本のベーシスト](https://ja.wikipedia.org/wiki/Category:日本のベーシスト "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:札幌市出身の人物](https://ja.wikipedia.org/wiki/Category:札幌市出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.  [44ぷろだくしょん](http://44production.jp/talent/mai/) MAI（元ZONE）のページ(2018年5月1日アクセス)

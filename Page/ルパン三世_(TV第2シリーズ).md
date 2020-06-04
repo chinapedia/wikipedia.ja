@@ -91,7 +91,7 @@
   - 原作 - [モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")
   - 企画 - [藤岡豊](../Page/藤岡豊.md "wikilink")（TMS（クレジット無し））/吉川斌（NTV）/小坂敬（NTV（クレジット無し））
   - 音楽 - [大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")
-  - 監修 - [鈴木清順](../Page/鈴木清順.md "wikilink")（第52話 - ）
+  - 監修 - [鈴木清順](../Page/鈴木清順.md "wikilink")（第1話-第51話 ), [野村孝](https://ja.wikipedia.org/wiki/野村孝 "wikilink") (第52話-第103話), [宮崎 駿](../Page/宮崎駿.md "wikilink") (第104話-第155話)
   - プロデューサー - 高橋靖二（NTV）/高橋美光（TMS）
   - シリーズ構成 - [大和屋竺](../Page/大和屋竺.md "wikilink")（第53話 - ）
   - 文芸担当 - [飯岡順一](https://ja.wikipedia.org/wiki/飯岡順一 "wikilink")（第53話 - ）
@@ -1825,7 +1825,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1892,7 +1892,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>

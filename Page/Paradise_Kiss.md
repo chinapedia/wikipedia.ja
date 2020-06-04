@@ -323,7 +323,7 @@
   - 取材協力 - [文化服装学院](../Page/文化服装学院.md "wikilink")、[青山ファッションカレッジ](https://ja.wikipedia.org/wiki/青山ファッションカレッジ "wikilink")、[華服飾専門学校](https://ja.wikipedia.org/wiki/華服飾専門学校 "wikilink")、[江東服飾高等専修学校](https://ja.wikipedia.org/wiki/江東服飾高等専修学校 "wikilink")
   - USロケ協力プロダクション - TK Digital Corporation
   - 制作プロダクション - STUDIO SWAN（[IMJエンタテインメント](https://ja.wikipedia.org/wiki/IMJエンタテインメント "wikilink")）
-  - 製作 - 「パラダイス・キス」製作委員会（[ワーナー・ブラザース映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、[20世紀フォックス ホームエンターテイメント ジャパン](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")、STUDIO SWAN（IMJエンタテインメント）、[ホリエージェンシー](../Page/ホリエージェンシー.md "wikilink")、ディメンションブルー、[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")、[祥伝社](../Page/祥伝社.md "wikilink")）
+  - 製作 - 「パラダイス・キス」製作委員会（[ワーナー・ブラザース映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、[20世紀フォックス ホーム エンターテイメント ジャパン](https://ja.wikipedia.org/wiki/20世紀フォックス#日本法人 "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")、STUDIO SWAN（IMJエンタテインメント）、[ホリエージェンシー](../Page/ホリエージェンシー.md "wikilink")、ディメンションブルー、[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")、[祥伝社](../Page/祥伝社.md "wikilink")）
   - 配給 - ワーナー・ブラザース映画
 
 ### 原作との相違点
@@ -347,7 +347,7 @@
 
 ### Blu-ray / DVD
 
-2011年10月26日発売。発売元は[ワーナー・ブラザース・ホームエンターテイメント](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")。
+2011年10月26日発売。発売元は[ワーナー・ブラザース ホームエンターテイメント](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")。
 
   - パラダイス・キス 通常版（DVD1枚組）
       - 映像特典
@@ -411,13 +411,13 @@
 
   - [パラキス通信](http://www.sho-mag.jp/zipper/yazawa/yazawa.html)
 
-  - [ノイタミナ公式ページ](http://www.fujitv.co.jp/b_hp/parakiss/)
+  - [ノイタミナ公式ページ](https://www.fujitv.co.jp/b_hp/parakiss/)
 
   - [excite公式ページ](http://anime.excite.co.jp/pkiss/index.html)
 
-  - [excite公式ブログ](http://blog.excite.co.jp/parakisstv)
+  - [excite公式ブログ](https://blog.excite.co.jp/parakisstv)
 
-  - [映画『Paradise Kiss』オフィシャルサイト](http://wwws.warnerbros.co.jp/parakiss/)
+  - [【ワーナー公式】映画（ブルーレイ,DVD & 4K UHD/デジタル配信） | パラダイス・キス](https://warnerbros.co.jp/home_entertainment/detail.php?title_id=3177/)
 
   -
   -
@@ -427,7 +427,7 @@
 [Category:矢沢あい](https://ja.wikipedia.org/wiki/Category:矢沢あい "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:女性誌掲載漫画作品](https://ja.wikipedia.org/wiki/Category:女性誌掲載漫画作品 "wikilink") [Category:ファッションを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:ファッションを題材とした漫画作品 "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:ノイタミナ](https://ja.wikipedia.org/wiki/Category:ノイタミナ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:2011年の映画](https://ja.wikipedia.org/wiki/Category:2011年の映画 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:新城毅彦の監督映画](https://ja.wikipedia.org/wiki/Category:新城毅彦の監督映画 "wikilink") [Category:池頼広の作曲映画](https://ja.wikipedia.org/wiki/Category:池頼広の作曲映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink") [Category:ニューヨーク市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした映画作品 "wikilink") [Category:ワーナーブラザースジャパンの映画](https://ja.wikipedia.org/wiki/Category:ワーナーブラザースジャパンの映画 "wikilink") [Category:20世紀フォックスの作品](https://ja.wikipedia.org/wiki/Category:20世紀フォックスの作品 "wikilink") [Category:キングレコードの映画作品](https://ja.wikipedia.org/wiki/Category:キングレコードの映画作品 "wikilink") [Category:SMEJの映画作品](https://ja.wikipedia.org/wiki/Category:SMEJの映画作品 "wikilink") [Category:ファッションを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:ファッションを題材とした映画作品 "wikilink")
 
 1.
-2.  [北川景子＆向井理、『パラキス』NYロケ完遂\!向井、北川とは「腹を割って話した」](http://www.cinematoday.jp/page/N0027705)（[ウェブ魚拓](http://megalodon.jp/2010-1213-2237-38/www.cinematoday.jp/page/N0027705)）
+2.  [北川景子＆向井理、『パラキス』NYロケ完遂\!向井、北川とは「腹を割って話した」](https://www.cinematoday.jp/news/N0027705)（[ウェブ魚拓](https://megalodon.jp/2010-1213-2237-38/www.cinematoday.jp/page/N0027705)）
 3.
 4.
 5.
@@ -438,7 +438,7 @@
 10.
 11.
 12.
-13. [『パイレーツ・オブ・カリビアン』国内興収50億円突破！3週連続首位に！『パラキス』『もしドラ』追いつかず\!\!](http://www.cinematoday.jp/page/N0032896)シネマトゥデイ 2011年6月7日
+13. [『パイレーツ・オブ・カリビアン』国内興収50億円突破！3週連続首位に！『パラキス』『もしドラ』追いつかず\!\!](https://www.cinematoday.jp/news/N0032896)シネマトゥデイ 2011年6月7日
 14.
 15.
 16.

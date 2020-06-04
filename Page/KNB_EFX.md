@@ -1,7 +1,7 @@
 > この記事は[KNB EFX](https://ja.wikipedia.org/wiki/KNB_EFX)から翻訳されています。
 
 
-**KNB EFX**（ケーエヌビーエフェクツ）は、**ロバート・カーツマン**、**[グレゴリー・ニコテロ](https://ja.wikipedia.org/wiki/グレゴリー・ニコテロ "wikilink")**、**ハワード・バーガー**の3名が[1988年](../Page/1988年.md "wikilink")に設立した映画産業における[特殊メイク](../Page/特殊メイク.md "wikilink")・[特殊効果](https://ja.wikipedia.org/wiki/特殊効果 "wikilink")制作を手掛ける[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の企業である。正式名称「**K.N.B. EFX Group Inc.**」、「KNB」とは前述の3名の頭文字から。同じKNBを呼称とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の放送局・[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") は関連会社ではない\[1\]。
+**KNB EFX**（ケーエヌビーエフェクツ）は、**ロバート・カーツマン**、**[グレゴリー・ニコテロ](https://ja.wikipedia.org/wiki/グレゴリー・ニコテロ "wikilink")**、**ハワード・バーガー**の3名が[1988年](../Page/1988年.md "wikilink")に設立した映画産業における[特殊メイク](../Page/特殊メイク.md "wikilink")・[特殊効果](https://ja.wikipedia.org/wiki/特殊効果 "wikilink")制作を手掛ける[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の企業である。正式名称「**K.N.B. EFX Group Inc.**」、「KNB」とは前述の3名の頭文字から。同じKNBを呼称とする[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の放送局・[北日本放送](../Page/北日本放送.md "wikilink") は関連会社ではない\[1\]。
 
 ## メイン・メンバーのプロフィール
 

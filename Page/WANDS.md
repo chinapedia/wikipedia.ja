@@ -28,8 +28,7 @@
 （うえすぎ しょう）</p></td>
 <td><p><br />
  <a href="../Page/埼玉県.md" title="wikilink">埼玉県</a><a href="../Page/川越市.md" title="wikilink">川越市</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>（初代）</strong><br />
-<a href="../Page/作詞.md" title="wikilink">作詞</a>・<a href="../Page/作曲.md" title="wikilink">作曲</a>・<a href="../Page/編曲.md" title="wikilink">編曲</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>（初代）</strong></p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="odd">
@@ -37,8 +36,7 @@
 （しばさき ひろし）</p></td>
 <td><p><br />
  <a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><strong><a href="../Page/ギター.md" title="wikilink">ギター</a>（初代）</strong><br />
-作曲・編曲</p></td>
+<td><p><strong><a href="../Page/ギター.md" title="wikilink">ギター</a>（初代）</strong></p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="even">
@@ -46,8 +44,7 @@
 （おおしま こうすけ）</p></td>
 <td><p><br />
  <a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p><strong><a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a>（初代）</strong><br />
-作曲・編曲</p></td>
+<td><p>'''<a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a>（初代）</p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="odd">
@@ -55,8 +52,7 @@
 （きむら しんや）</p></td>
 <td><p><br />
  <a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a><a href="../Page/五所川原市.md" title="wikilink">五所川原市</a></p></td>
-<td><p><strong>キーボード（2代目）</strong><br />
-作詞・作曲・編曲</p></td>
+<td><p><strong>キーボード（2代目）</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -64,8 +60,7 @@
 （わく じろう）</p></td>
 <td><p><br />
  東京都</p></td>
-<td><p><strong>ボーカル（2代目）</strong><br />
-作詞・編曲</p></td>
+<td><p><strong>ボーカル（2代目）</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -73,16 +68,14 @@
 （すぎもと いっせい）</p></td>
 <td><p><br />
  東京都</p></td>
-<td><p><strong>ギター（2代目）</strong><br />
-作詞・作曲・編曲</p></td>
+<td><p><strong>ギター（2代目）</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>上原大史</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/上原大史" title="wikilink">上原大史</a></strong><br />
 （うえはら だいし）</p></td>
 <td></td>
-<td><p><strong>ボーカル（3代目）</strong><br />
-作詞</p></td>
+<td><p><strong>ボーカル（3代目）</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -94,15 +87,15 @@
 </tbody>
 </table>
 
-  - 「第〇期」で数えると、一番多くの期間在籍しているのは柴崎だが、実質的な活動期間で換算すると、一番長く在籍しているのは木村になる。
+  - 「第〇期」で数えると、一番多くの期間在籍しているのは柴崎だが（第3期以外全て）、実質的な活動期間で換算すると、一番長く在籍しているのは木村になる（1992年9月頃～2000年、2019年～）。
 
 ## 来歴
 
 ### 結成、デビュー 〜 解体（1991年 - 2000年）
 
-[1991年](../Page/1991年.md "wikilink")夏頃、[ビーイング](../Page/ビーイング.md "wikilink")の音楽プロデューサー[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")を介し、当時のBeing音楽振興会（後の[Being Music School](https://ja.wikipedia.org/wiki/Being_Music_School "wikilink")）在籍の上杉と、BADオーディション（Being Artist Development Audition）で最終選考に残っていた柴崎、さらに[LOUDNESS](../Page/LOUDNESS.md "wikilink")のサポートメンバーとして活動していた大島を加えて結成\[5\]。同年12月にシングル『[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")』でデビュー。
+[1991年](../Page/1991年.md "wikilink")夏頃、[ビーイング](../Page/ビーイング.md "wikilink")の音楽プロデューサー[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")を介し、当時のBeing音楽振興会（後の[Being Music School](https://ja.wikipedia.org/wiki/Being_Music_School "wikilink")）在籍の上杉と、BADオーディション（Being Artist Development Audition）で最終選考に残っていた柴崎、[LOUDNESS](../Page/LOUDNESS.md "wikilink")のサポートメンバーとして活動していた大島を加えて結成\[5\]。同年12月にシングル『[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")』でデビュー。
 
-[1992年](../Page/1992年.md "wikilink")7月、3rdシングル『[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")』を発表。この作品を最後に、大島が自身のユニット**[SO-FI](../Page/SO-FI.md "wikilink")**を結成するために脱退。後任として、柴崎の[YAMAHA音楽院時代の知人であった木村が加入した](../Page/ヤマハ音楽院.md "wikilink")。10月、[中山美穂](../Page/中山美穂.md "wikilink")とのコラボレーション作品として、**中山美穂 & WANDS**名義で発表したシングル『[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")』が[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")の大ヒットを記録。1992年の『[第43回NHK紅白歌合戦](../Page/第43回NHK紅白歌合戦.md "wikilink")』に中山がこの曲で出場した際、正式な出場歌手ではないもののWANDSも参加した。『もっと強く抱きしめたなら』も、オリコンチャート登場29週目にして1位となりミリオンセラーを記録する。
+[1992年](../Page/1992年.md "wikilink")7月、3rdシングル『[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")』を発表。この作品を最後に、大島が自身のユニット**[SO-FI](../Page/SO-FI.md "wikilink")**を結成するために脱退。後任として、柴崎の[YAMAHA音楽院時代の知人であった木村が加入](../Page/ヤマハ音楽院.md "wikilink")。10月、[中山美穂](../Page/中山美穂.md "wikilink")とのコラボレーション作品として、**中山美穂 & WANDS**名義で発表したシングル『[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")』が[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")の大ヒットを記録。1992年の『[第43回NHK紅白歌合戦](../Page/第43回NHK紅白歌合戦.md "wikilink")』に中山がこの曲で出場した際、WANDSもサポートの形で参加した。『もっと強く抱きしめたなら』も、オリコンチャート登場29週目にして1位となりミリオンセラーを記録する。
 
 [1993年](../Page/1993年.md "wikilink")2月、4thシングル『[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")』、4月には同名のアルバム『[時の扉](../Page/時の扉_\(WANDSのアルバム\).md "wikilink")』を発表。いずれもオリコンチャート1位、ミリオンセラー記録の大ヒットとなり、日本の音楽界においてトップアーティストとしての地位を確立する。1993年度はシングル4,112,008枚、アルバム3,187,564枚の売り上げを記録し、第8回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")を受賞した。以降1995年まで、シングル『[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")』『[世界が終るまでは…](../Page/世界が終るまでは….md "wikilink")』、アルバム『[Little Bit…](../Page/Little_Bit….md "wikilink")』『[PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink")』が、それぞれミリオンセラーを記録。シングル『[恋せよ乙女](https://ja.wikipedia.org/wiki/恋せよ乙女 "wikilink")』『[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")』もオリコンチャート1位獲得のヒットとなった。
 
@@ -110,7 +103,7 @@
 
 [1996年](../Page/1996年.md "wikilink")2月、11thシングル『[WORST CRIME 〜About a rock star who was a swindler〜/Blind To My Heart](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")』を発表後、長戸が求めるWANDSのスタイルと音楽性との違いを理由に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")初頭に上杉昇と柴崎浩が脱退（後に2人は**[al.ni.co](https://ja.wikipedia.org/wiki/al.ni.co "wikilink")**を結成）し、活動を休止。ビーイングが「WANDS」の名前を商標登録していたため、残った木村真也は2代目ボーカルに和久二郎、ギターに杉元一生を迎え、第3期WANDSとして活動を再開する。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、当時デビュー直後であった[小松未歩](../Page/小松未歩.md "wikilink")の楽曲提供により、12thシングル『[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")』を発表。その後も[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")や[GARNET CROWとしてデビューする前の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")からの楽曲提供を受け、シングル4枚、オリジナルアルバム1枚を発表したが、[2000年](../Page/2000年.md "wikilink")3月に公式サイト上で「解体」（解散）を表明。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、当時デビュー直後であった[小松未歩](../Page/小松未歩.md "wikilink")の楽曲提供により、12thシングル『[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")』を発表。その後も[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")や[GARNET CROWとしてデビューする前の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")からの楽曲提供を受け、シングル4枚、オリジナルアルバム1枚を発表したが、[2000年](../Page/2000年.md "wikilink")3月に公式サイト上で「解体」（解散）を表明した。
 
 ### 解体後（2000年 - 2019年）
 
@@ -118,13 +111,15 @@
 
 [2006年](../Page/2006年.md "wikilink")の[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")のアルバム『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』のレコーディングに柴崎と大島が参加。以前からT.M.Revolutionのライブにサポートメンバーとして参加していた柴崎の仲介で大島を起用できたと[西川貴教](../Page/西川貴教.md "wikilink")がインタビューで語っている。[2011年](../Page/2011年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に行われた西川主催のチャリティーライブ『STAND UP\! JAPAN 中央共同募金会』では前述のアルバムで大島が編曲とキーボード、柴崎がギターを手掛けた「[HEART OF SWORD 〜夜明け前〜](../Page/HEART_OF_SWORD_〜夜明け前〜.md "wikilink")」を大島、柴崎を含むメンバーでライブ演奏している。2人のライブでの共演はWANDS時代を含め初めてであった。イベント終了後、2人が「WANDSとしてサインした」という大島がWANDS時代に使用していたシンセサイザー、[YAMAHA DX7II-FDがチャリティーオークションに出品された](https://ja.wikipedia.org/wiki/YAMAHA_DXシリーズ "wikilink")。
 
-[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、杉元（現・安保）が出演したライブに、和久が、本名の"松元治郎"名義でゲストボーカルとして参加\[6\]。[尾崎豊](../Page/尾崎豊.md "wikilink")の「[僕が僕であるために](https://ja.wikipedia.org/wiki/僕が僕であるために_\(曲\) "wikilink")」を歌唱している。2人のライブでの共演はWANDS時代を含め初めてであった。その後、[2012年](../Page/2012年.md "wikilink")に松元は安保の支援を受けて音楽活動を再開\[7\]。同年10月にリリースされた松元の初ソロアルバム『[Reverb](https://ja.wikipedia.org/wiki/Reverb_\(松元治郎のアルバム\) "wikilink")』は、安保が[プロデューサー](../Page/プロデューサー.md "wikilink")を務めており、収録曲「Journey」の作家クレジットは「作詞：松元治郎　作曲：木村真也　編曲：安保一生」といった第3期メンバーの並びとなった\[8\]。[2012年](../Page/2012年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に開催された初ワンマンライブ『松元治郎 1st LIVE』で、松元と安保が再び共演した\[9\]。
+[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、杉元（現・安保）が出演したライブに、和久が、本名の"松元治郎"名義でゲストボーカルとして参加\[6\]。[尾崎豊](../Page/尾崎豊.md "wikilink")の「[僕が僕であるために](https://ja.wikipedia.org/wiki/僕が僕であるために_\(曲\) "wikilink")」を歌唱している。2人のライブでの共演はWANDS時代を含め初めてであった。その後、[2012年](../Page/2012年.md "wikilink")に松元は安保の支援を受けて音楽活動を再開\[7\]。同年10月にリリースされた松元の初ソロアルバム『[Reverb](https://ja.wikipedia.org/wiki/Reverb_\(松元治郎のアルバム\) "wikilink")』は、安保が[プロデューサー](../Page/プロデューサー.md "wikilink")を務めており、収録曲「Journey」の[クレジットは](../Page/クレジットタイトル.md "wikilink")「作詞：松元治郎　作曲：木村真也　編曲：安保一生」といった第3期メンバーの並びとなった\[8\]。[2012年](../Page/2012年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に開催された初ワンマンライブ『松元治郎 1st LIVE』で、松元と安保が再び共演した\[9\]。
 
-[2016年](../Page/2016年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、『松元治郎 2nd LIVE』では引き続き安保が参加、またスペシャルゲストとして木村真也が参加したことで、第3期WANDSのメンバーが全員揃っての初のライブとなり、第3期WANDS時代の楽曲（シングル曲全て）も披露された。
+[2016年](../Page/2016年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、『松元治郎 2nd LIVE』では引き続き安保が参加、スペシャルゲストとして木村が参加したことで、第3期WANDSのメンバーが全員揃っての初のライブとなり、第3期WANDS時代の楽曲（シングル曲全て）も披露された。
 
 ### 再始動（2019年 - ）
 
 [2019年](../Page/2019年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、新ボーカリスト[上原大史](https://ja.wikipedia.org/wiki/上原大史 "wikilink")を3代目ボーカルに迎え第5期として活動を再開することを発表した。プロデューサーの長戸は2018年からWANDSの再始動に向けて動いており、大島康祐、柴崎浩、上原大史の3人体制を第4期とし、楽曲の制作を行なっていた。その後大島は制作に専念し、木村がメンバーに加わることが決定。上原、柴崎、木村の3人で第5期の活動となった\[10\]。[11月17日](../Page/11月17日.md "wikilink")に行われるフリーライブ『DFT presents [音都](https://ja.wikipedia.org/wiki/音都 "wikilink") ONTO vol.6 @[堂島リバーフォーラム](../Page/堂島リバーフォーラム.md "wikilink")』の模様を[YouTube Liveで生配信](https://ja.wikipedia.org/wiki/YouTube#YouTube_Live "wikilink")、[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にシングル『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』を発売することが併せて発表された。
+
+[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にWANDS第5期としては初めての楽曲となる、『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』をリリース。この曲はテレビアニメ[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")のOP曲に起用された。[5月20日](../Page/5月20日.md "wikilink")には『[抱き寄せ 高まる 君の体温と共に](https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に "wikilink")』をリリース。この曲はBSテレ東土曜ドラマ9「[サイレント・ヴォイス season2](https://ja.wikipedia.org/wiki/サイレント・ヴォイス_season2 "wikilink")」の主題歌に起用されている。
 
 ## バンド名の由来
 
@@ -449,7 +444,7 @@
 <td><p>14位</p></td>
 <td></td>
 <td><p>9,565枚</p></td>
-<td><p>rowspan="4" </p></td>
+<td><p>未収録</p></td>
 </tr>
 <tr class="odd">
 <td><p>GZCD-7006<br />
@@ -691,8 +686,8 @@ Jumpin' Jack Boy</p></td>
 <td><p>真っ赤なLip (TV size)</p></td>
 </tr>
 <tr class="even">
-<td><p>2020年4月8日予定</p></td>
-<td><p>Various Artists『キミが好きだと叫びたい 〜Love &amp; Yell〜 mixed by <a href="https://ja.wikipedia.org/wiki/DJ和" title="wikilink">DJ和</a>』[15]</p></td>
+<td><p>2020年4月8日</p></td>
+<td><p>Various Artists『<a href="../Page/キミが好きだと叫びたい_〜Love_&amp;_Yell〜.md" title="wikilink">キミが好きだと叫びたい 〜Love &amp; Yell〜</a> mixed by <a href="https://ja.wikipedia.org/wiki/DJ和" title="wikilink">DJ和</a>』[15]</p></td>
 <td><p>恋せよ乙女<br />
 もっと強く抱きしめたなら</p></td>
 </tr>

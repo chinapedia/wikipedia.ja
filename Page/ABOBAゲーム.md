@@ -14,9 +14,9 @@
 ## 出演者
 
   - 司会：[みのもんた](../Page/みのもんた.md "wikilink")
-  - A型チーム解答者：[苅谷俊介](../Page/苅谷俊介.md "wikilink")、[北原佐和子](https://ja.wikipedia.org/wiki/北原佐和子 "wikilink")、[江木俊夫](../Page/江木俊夫.md "wikilink")、[清水由貴子](../Page/清水由貴子.md "wikilink")、[ロミ山田](../Page/ロミ山田.md "wikilink")、[野々村真](../Page/野々村真.md "wikilink")、[柳沢純子](https://ja.wikipedia.org/wiki/柳沢純子 "wikilink")、三遊亭楽太郎（後の[六代目三遊亭円楽](https://ja.wikipedia.org/wiki/三遊亭円楽_\(6代目\) "wikilink")）
-  - B型チーム解答者：
-  - O型チーム解答者：[橘家圓蔵](../Page/橘家圓蔵_\(8代目\).md "wikilink")、[白石まるみ](../Page/白石まるみ.md "wikilink")、[神保美喜](../Page/神保美喜.md "wikilink")、レツゴーじゅん（[レツゴー三匹](../Page/レツゴー三匹.md "wikilink")）
+  - A型チーム解答者：[苅谷俊介](../Page/苅谷俊介.md "wikilink")、[北原佐和子](https://ja.wikipedia.org/wiki/北原佐和子 "wikilink")、[江木俊夫](../Page/江木俊夫.md "wikilink")、[清水由貴子](../Page/清水由貴子.md "wikilink")、[ロミ山田](../Page/ロミ山田.md "wikilink")、[野々村真](../Page/野々村真.md "wikilink")、[柳沢純子](../Page/柳澤純子.md "wikilink")、三遊亭楽太郎（後の[六代目三遊亭円楽](https://ja.wikipedia.org/wiki/三遊亭円楽_\(6代目\) "wikilink")）
+  - B型チーム解答者：[湯原昌幸](../Page/湯原昌幸.md "wikilink")、[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")、[鳥越マリ](https://ja.wikipedia.org/wiki/鳥越まり "wikilink")、[伊藤克信](../Page/伊藤克信.md "wikilink")
+  - O型チーム解答者：[橘家圓蔵](../Page/橘家圓蔵_\(8代目\).md "wikilink")、[白石まるみ](../Page/白石まるみ.md "wikilink")、[神保美喜](../Page/神保美喜.md "wikilink")、レツゴーじゅん（[レツゴー三匹](../Page/レツゴー三匹.md "wikilink")）、[汀夏子](../Page/汀夏子.md "wikilink")、[比企理恵](../Page/比企理恵.md "wikilink")、[加納竜](../Page/加納竜.md "wikilink")、[月亭八方](../Page/月亭八方.md "wikilink")
   - AB型チーム解答者：[稲川淳二](../Page/稲川淳二.md "wikilink")、[小田かおる](https://ja.wikipedia.org/wiki/小田かおる "wikilink")、[川島なお美](../Page/川島なお美.md "wikilink")、[すどうかづみ](../Page/すどうかづみ.md "wikilink")
 
 ## コーナー

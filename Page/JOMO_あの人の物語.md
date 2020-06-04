@@ -1,7 +1,7 @@
 > この記事は[JOMO あの人の物語](https://ja.wikipedia.org/wiki/JOMO_あの人の物語)から翻訳されています。
 
 
-『**JOMO あの人の物語**』（**ジョモ あのひとのものがたり**）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列各局で放送されていた[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")(JOMO)提供の10分間の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始、[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送終了。
+『**JOMO あの人の物語**』（**ジョモ あのひとのものがたり**）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](../Page/キー局.md "wikilink")[JRN系列各局で放送されていた](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")(JOMO)提供の10分間の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始、[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送終了。
 
 ## 概要
 
@@ -21,7 +21,7 @@
   - RAB[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")　月曜18:20～18:30（初期は土曜17:10-17:20）
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")　月曜18:20～18:30（初期は土曜16:50-17:00）
   - TBC[東北放送](../Page/東北放送.md "wikilink")　月曜18:00～18:10
-  - ABS[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")　月曜18:20～18:30
+  - ABS[秋田放送](../Page/秋田放送.md "wikilink")　月曜18:20～18:30
   - YBC[山形放送](../Page/山形放送.md "wikilink")　月曜16:50～17:00
   - RFC[ラジオ福島](../Page/ラジオ福島.md "wikilink")　土曜18:00～18:10
   - BSN[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")　月曜18:55～19:05
@@ -29,21 +29,21 @@
   - YBS[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")　月曜18:20～18:30
   - SBS[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")　月曜18:20～18:30
   - CBC[中部日本放送](../Page/CBCラジオ.md "wikilink")　月曜18:50～19:00
-  - KNB[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")　日曜16:00～16:10
+  - KNB[北日本放送](../Page/北日本放送.md "wikilink")　日曜16:00～16:10
   - MRO[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")　月曜18:10～18:20
   - FBC[福井放送](../Page/福井放送.md "wikilink")　月曜18:20～18:30
   - WBS[和歌山放送](../Page/和歌山放送.md "wikilink")　月曜20:00～20:10
   - ABC[朝日放送](../Page/朝日放送ラジオ.md "wikilink")　月曜19:50～20:00
   - BSS[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")　月曜18:20～18:30
-  - RSK[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")　月曜18:20～18:30
+  - RSK[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")　月曜18:20～18:30
   - RCC[中国放送](../Page/中国放送.md "wikilink")　月曜20:00～20:10
   - KRY[山口放送](../Page/山口放送.md "wikilink")　月曜18:20～18:30
   - JRT[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")　月曜18:20～18:30
-  - RNC[西日本放送](../Page/西日本放送.md "wikilink")　金曜18:00～18:10
+  - RNC[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")　金曜18:00～18:10
   - RNB[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")　火曜16:00～16:10
   - RKC[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")　月曜20:50～21:00
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")　月曜20:35～20:45
-  - NBC[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")　月曜19:00～19:10
+  - NBC[長崎放送](../Page/長崎放送.md "wikilink")　月曜19:00～19:10
   - RKK[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")　月曜19:50～20:00
   - OBS[大分放送](../Page/大分放送.md "wikilink")　月曜19:00～19:10
   - MRT[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")　月曜19:30～19:40

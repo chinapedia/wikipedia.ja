@@ -72,10 +72,12 @@
 ## 外部リンク
 
   - [ランタイムミュージックエンタテインメントオフィシャルウェブサイト](http://www.runtime.co.jp/)
-  - [ユニバーサルミュージックによる公式HP](http://www.universal-music.co.jp/bonz/)
-  - [公式ファンクラブ『HIGH-JUMP』](http://www.fancube.gr.jp/high-jump/)
-  - [ブログ「BON'Zのちょっと聞いてよ！」](http://ip.tosp.co.jp/Portal/i.asp?I=MFN0015&P=1)
 
+  - [ユニバーサルミュージックによる公式HP](http://www.universal-music.co.jp/bonz/)
+
+  - [公式ファンクラブ『HIGH-JUMP』](http://www.fancube.gr.jp/high-jump/)
+
+  -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/Category:ランタイムミュージックエンタテインメント "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
 
 1.  [お知らせ…ジン](http://mixi.jp/view_diary.pl?id=1753562729&owner_id=35722489)2011年7月22日、閲覧2011年7月23日

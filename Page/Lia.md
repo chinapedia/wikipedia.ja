@@ -660,7 +660,7 @@ QLVD0001</p></td>
 
   -
   -
-[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:Key_Sounds_Label](https://ja.wikipedia.org/wiki/Category:Key_Sounds_Label "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:Key_Sounds_Label](https://ja.wikipedia.org/wiki/Category:Key_Sounds_Label "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:在中日本人](https://ja.wikipedia.org/wiki/Category:在中日本人 "wikilink")
 
 1.  【Lia & IA】「A Special Night」 Lia & IA Live in Hong Kong 2016
 2.  Lia's cafeメールマガジン号外 2008年10月11日付 また、ボーカロイド『IA』の声優でもある。

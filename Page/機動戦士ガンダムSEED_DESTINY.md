@@ -84,7 +84,7 @@
 
 :\* [イザーク・ジュール](../Page/イザーク・ジュール.md "wikilink") （声 - [関智一](../Page/関智一.md "wikilink")）
 
-:\* [ディアッカ・エルスマン](../Page/ディアッカ・エルスマン.md "wikilink") （声 - [笹沼晃](https://ja.wikipedia.org/wiki/笹沼尭羅 "wikilink")）
+:\* [ディアッカ・エルスマン](../Page/ディアッカ・エルスマン.md "wikilink") （声 - [笹沼晃](../Page/笹沼晃.md "wikilink")）
 
   - [アークエンジェル](../Page/アークエンジェル_\(ガンダムシリーズ\).md "wikilink")&[エターナル](../Page/エターナル_\(ガンダムシリーズ\).md "wikilink")
 
@@ -1184,6 +1184,7 @@ PHASE-42、PHASE-49<br />
 ### ゲーム
 
   - 機動戦士ガンダムSEED DESTINY（対戦格闘ゲーム）
+  - [機動戦士ガンダムSEED 連合vs.Z.A.F.T.](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink")
   - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](../Page/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II.md "wikilink")
   - [機動戦士ガンダムSEED DESTINY GENERATION of C.E.](../Page/機動戦士ガンダムSEED_DESTINY_GENERATION_of_C.E..md "wikilink")
   - [機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II PLUS](../Page/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II.md "wikilink")
@@ -1243,8 +1244,8 @@ PHASE-42、PHASE-49<br />
 
   -
 
-  - [Another Century's Episode:R](https://ja.wikipedia.org/wiki/Another_Century's_Episode:R "wikilink")
-    [機動戦士ガンダム エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink")
+  - \* [Another Century's Episode:R](https://ja.wikipedia.org/wiki/Another_Century's_Episode:R "wikilink")
+    \* [機動戦士ガンダム エクストリームバーサス](https://ja.wikipedia.org/wiki/機動戦士ガンダム_エクストリームバーサス "wikilink")
 
 ## コマーシャル
 

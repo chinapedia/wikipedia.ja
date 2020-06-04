@@ -61,7 +61,7 @@
 **[2000年](../Page/2000年.md "wikilink")**
 
   - 4月5日、シングル『[Love Is A Battlefield](../Page/Love_Is_A_Battlefield.md "wikilink")』をリリース。[オリコン初登場](../Page/オリコンチャート.md "wikilink")2位を記録。
-  - 8月30日、[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")にて「[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 2000」を開催。このライブを最後にHi-STANDARDは活動休止。
+  - 8月26日、[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")にて「[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 2000」を開催。このライブを最後にHi-STANDARDは活動休止。
 
 **[2003年](../Page/2003年.md "wikilink")**
 
@@ -86,7 +86,7 @@
 
 **[2009年](../Page/2009年.md "wikilink")**
 
-  - 横山が難波の新作のレコーディングにギターで参加。
+  - 横山と恒岡が難波の新作のレコーディングにギターとドラムでそれぞれ参加。
 
 **[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")**
 

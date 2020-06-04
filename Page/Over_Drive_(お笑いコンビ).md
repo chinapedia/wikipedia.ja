@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **[石野敦士](../Page/石野敦士.md "wikilink")**（いしの あつし、[1976年](../Page/1976年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink") - ）
+  - **[石野 敦士](../Page/石野敦士.md "wikilink")**（いしの あつし、[1976年](../Page/1976年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - **[緒方雅史](https://ja.wikipedia.org/wiki/オキャディー "wikilink")**（おがた まさし、[1974年](../Page/1974年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - ）
+  - **[緒方 雅史](https://ja.wikipedia.org/wiki/オキャディー "wikilink")**（おがた まさし、[1974年](../Page/1974年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - ）
 
 <!-- end list -->
 

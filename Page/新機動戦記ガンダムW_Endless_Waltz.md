@@ -34,9 +34,7 @@
   - [キャスリン・ブルーム](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#キャスリン・ブルーム "wikilink")（声 - [杉本沙織](../Page/杉本沙織.md "wikilink")）
   - [真のトロワ・バートン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#真のトロワ・バートン "wikilink")（声 - [中村秀利](../Page/中村秀利.md "wikilink")）
   - 大統領（声 - [鈴木泰明](../Page/鈴木泰明.md "wikilink")）
-  - [ドロシー・カタロニア](../Page/ドロシー・カタロニア.md "wikilink")（声 - [松井菜桜子](../Page/松井菜桜子.md "wikilink")、『特別篇』のみ登場）
-
-（『特別篇』のキャストも同一）
+  - [ドロシー・カタロニア](../Page/ドロシー・カタロニア.md "wikilink")（声 - [松井菜桜子](../Page/松井菜桜子.md "wikilink")\[1\]）
 
 ## 登場主要兵器
 
@@ -50,14 +48,44 @@
 
 ## スタッフ
 
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")（『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』より）
-  - 監督：[青木康直](../Page/青木康直.md "wikilink")
-  - 脚本：[隅沢克之](../Page/隅沢克之.md "wikilink")
-  - キャラクターデザイン：[村瀬修功](../Page/村瀬修功.md "wikilink")
-  - 衣装デザイン協力：[出渕裕](../Page/出渕裕.md "wikilink")
-  - [メカニカルデザイン](../Page/メカニックデザイン.md "wikilink")：[大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")
-  - 音楽：[大谷幸](../Page/大谷幸.md "wikilink")
-  - 企画・制作：[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
+### OVA版スタッフ
+
+  - [企画](https://ja.wikipedia.org/wiki/企画 "wikilink") - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
+  - [原作](../Page/原作.md "wikilink") - [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")（「[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")」より）
+  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [村瀬修功](../Page/村瀬修功.md "wikilink")
+  - [メカニカルデザイン](../Page/メカニックデザイン.md "wikilink") - [大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")
+  - 衣装デザイン協力 - [出渕裕](../Page/出渕裕.md "wikilink")
+  - [美術監督](../Page/美術監督.md "wikilink") - [佐藤勝](../Page/佐藤勝.md "wikilink")
+  - 美術設定 - 平沢晃弘
+  - [色彩設計](https://ja.wikipedia.org/wiki/色彩設計 "wikilink") - 池さゆり、[片山由美子](../Page/片山由美子.md "wikilink")\[2\]
+  - [撮影監督](../Page/撮影監督.md "wikilink") - 大神洋一
+  - [編集](../Page/編集.md "wikilink") - 辺見俊夫、山森重之、[ジェイ・フィルム](../Page/ジェイ・フィルム.md "wikilink")
+  - [音響監督](../Page/音響監督.md "wikilink") - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
+  - [音楽](../Page/劇伴.md "wikilink") - [大谷幸](../Page/大谷幸.md "wikilink")
+  - [監督](https://ja.wikipedia.org/wiki/アニメ監督 "wikilink") - [青木康直](../Page/青木康直.md "wikilink")
+
+### 劇場版スタッフ
+
+  - 企画・[製作](https://ja.wikipedia.org/wiki/製作 "wikilink") - 株式会社 サンライズ
+  - 製作 - 吉井孝幸
+  - 企画 - [植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")、[渡辺繁](https://ja.wikipedia.org/wiki/渡辺繁 "wikilink")
+  - 原作 - 矢立肇、富野由悠季「機動戦士ガンダム」より
+  - 脚本 - 隅沢克之
+  - 絵コンテ - 青木康直
+  - キャラクターデザイン - 村瀬修功
+  - 衣装デザイン協力 - 出渕裕
+  - メカニカルデザイン - 大河原邦男、カトキハジメ、石垣純哉
+  - [作画監督](../Page/作画監督.md "wikilink") - 菱沼義仁
+  - メカニカル作画監督 - 筱雅律
+  - 美術監督 - 佐藤勝
+  - 美術設定 - 平沢晃弘
+  - 色彩設計 - 池さゆり、片山由美子
+  - 撮影監督 - 大神洋一
+  - 編集 - 辺見俊夫
+  - 音楽 - 大谷幸
+  - 音響監督 - 浦上靖夫
+  - プロデューサー - 富岡秀行、久保聡、湯川淳
+  - 監督 - 青木康直
 
 ## 楽曲
 
@@ -83,9 +111,58 @@
 
 ## 各話リスト
 
-1.  静かなる軌道（サイレント・オービット）（発売日： 1997年1月25日）
-2.  過ぎ去りし流星（オペレーション・メテオ）（発売日： 1997年4月25日）
-3.  永遠への回帰（リターン・トゥ・フォーエヴァー）（発売日： 1997年7月25日）
+<table>
+<thead>
+<tr class="header">
+<th><p>話数</p></th>
+<th><p><a href="../Page/サブタイトル.md" title="wikilink">サブタイトル</a></p></th>
+<th><p><a href="../Page/脚本.md" title="wikilink">脚本</a></p></th>
+<th><p><a href="../Page/絵コンテ.md" title="wikilink">絵コンテ</a></p></th>
+<th><p><a href="../Page/演出.md" title="wikilink">演出</a></p></th>
+<th><p><a href="../Page/作画監督.md" title="wikilink">作画監督</a></p></th>
+<th><p>メカニカル<br />
+作画監督</p></th>
+<th><p>発売日</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>静かなる軌道<br />
+（サイレント・オービット）</p></td>
+<td><p><a href="../Page/隅沢克之.md" title="wikilink">隅沢克之</a></p></td>
+<td><p><a href="../Page/青木康直.md" title="wikilink">青木康直</a></p></td>
+<td><p>-</p></td>
+<td><p>菱沼義仁</p></td>
+<td><p>筱雅律</p></td>
+<td><p>1997年<br />
+1月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>過ぎ去りし流星<br />
+（オペレーション・メテオ）</p></td>
+<td><p>原田奈奈</p></td>
+<td><p>4月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>永遠への回帰<br />
+（リターン・トゥ・フォーエヴァー）</p></td>
+<td><p>青木康直<br />
+原田奈奈</p></td>
+<td><p>7月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 関連作品
 
@@ -95,19 +172,9 @@ OVA版のヒットを受けてOVA版全3話を劇場公開用に再編集し、O
 
 この2作を合わせてガンダム生誕20周年記念作品とし『**GUNDAM THE MOVIE（ガンダム・ザ・ムービー）**』と銘打たれている。特別前売券として、『ガンダムW』からヒイロ、デュオ、トロワ、カトル、五飛の各5種と『第08MS小隊』からシローの1種の全6種類から選べる長さ140cmのタペストリーの付いた前売りチケットが、「チケタペ」として各2,800円で発売された。『ガンダムW』のタペストリーのみ並べると絵が繋がって見える仕様になっている。
 
-また劇場公開日当日はガンダム20周年記念イベント『ガンダムビッグバン宣言』がパシフィコ横浜で開催され、上映映画館とこのイベント限定で1/144HGウイングガンダムゼロ（クリアー版）が販売された\[1\]。 CS放送局はもちろんのこと、『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』や『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の放送開始に合わせ、[毎日放送](../Page/毎日放送.md "wikilink")（関西ローカル）でも繰り返しオンエアされた。
+また劇場公開日当日はガンダム20周年記念イベント『ガンダムビッグバン宣言』がパシフィコ横浜で開催され、上映映画館とこのイベント限定で1/144HGウイングガンダムゼロ（クリアー版）が販売された\[3\]。 CS放送局はもちろんのこと、『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』や『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』の放送開始に合わせ、[毎日放送](../Page/毎日放送.md "wikilink")（関西ローカル）でも繰り返しオンエアされた。
 
-2020年1月10日より機動戦士ガンダム40周年プロジェクト『ガンダム映像新体験TOUR』として特別篇がTCX（TOHO独自企画ラージスクリーン）で劇場上映\[2\]。
-
-**主要スタッフ**
-
-  - エグゼクティブプロデューサー:吉井孝幸
-  - 企画:宮河恭夫、[渡辺繁](https://ja.wikipedia.org/wiki/渡辺繁 "wikilink")
-  - 演出：[杉島邦久](../Page/杉島邦久.md "wikilink")
-  - 作画監督：菱沼義仁
-  - メカニカル作画監督：筱雅律
-  - 主題歌：「[LAST IMPRESSION](../Page/LAST_IMPRESSION.md "wikilink")」
-      - 作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")／作曲：[高山みなみ](../Page/高山みなみ.md "wikilink")／編曲・唄：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
+2020年1月10日より機動戦士ガンダム40周年プロジェクト『ガンダム映像新体験TOUR』として特別篇がTCX（TOHO独自企画ラージスクリーン）で劇場上映\[4\]。
 
 ### 漫画版
 
@@ -143,5 +210,7 @@ OVA版のヒットを受けてOVA版全3話を劇場公開用に再編集し、O
   -
 [Category:ガンダムシリーズのOVA](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズのOVA "wikilink") [Category:アフターコロニー](https://ja.wikipedia.org/wiki/Category:アフターコロニー "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:1997年のOVA](https://ja.wikipedia.org/wiki/Category:1997年のOVA "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
 
-1.  イベントは2回行われたが、前売り全席指定にも関わらず1回目の来場者にプラモデルを全部売ってしまい、劇場に行かず2回目に参加した人が全く買えないアクシデントが発生した。この事について富野由悠季が謝罪する場面があった。
-2.  [「ガンダム映像新体験TOUR」TCXで実施決定！DOLBY CINEMAでの上映日も公開！](https://www.gundam.info/news/event/news_event_20191112_03.html)2019年11月①4日 機動戦士ガンダム40周年プロジェクト
+1.  劇場版のみ登場。
+2.  第3話のみ。
+3.  イベントは2回行われたが、前売り全席指定にも関わらず1回目の来場者にプラモデルを全部売ってしまい、劇場に行かず2回目に参加した人が全く買えないアクシデントが発生した。この事について富野由悠季が謝罪する場面があった。
+4.  [「ガンダム映像新体験TOUR」TCXで実施決定！DOLBY CINEMAでの上映日も公開！](https://www.gundam.info/news/event/news_event_20191112_03.html)2019年11月①4日 機動戦士ガンダム40周年プロジェクト

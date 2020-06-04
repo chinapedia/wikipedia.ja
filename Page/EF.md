@@ -16,7 +16,7 @@
       - 2006年にminoriが発売したゲーム『ef - the first tale.』と『ef - the latter tale.』
       - 上記の漫画化作品『ef - a fairy tale of the two.』
       - 上記のアニメ化作品『ef - a tale of memories.』と『ef - a tale of melodies.』
-  - **ef**（エフ） - 日本のファッション雑誌。主婦の友社から発行。 ⇒ [ef (雑誌)](https://ja.wikipedia.org/wiki/ef_\(雑誌\) "wikilink")
+  - ef（エフ） - 1984年5月に創刊された、[主婦の友社](../Page/主婦の友社.md "wikilink")発行の日本のファッション雑誌\[1\]。2006年7月号を最後に紙媒体での発行は休止し、ウェブでの配信に移行した\[2\]。 ⇒ [ef (雑誌)](https://ja.wikipedia.org/wiki/ef_\(雑誌\) "wikilink")
 
 ## 略語・略称
 
@@ -46,8 +46,15 @@
 
   - [239](../Page/239.md "wikilink")の16進数表示。
 
+## 脚注
+
 ## 関連項目
 
   - [ラテン文字のアルファベット二文字組み合わせの一覧](../Page/ラテン文字のアルファベット二文字組み合わせの一覧.md "wikilink")
   - [EFで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/EF "wikilink")
   - [Ef,efで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/Ef "wikilink")
+
+<!-- end list -->
+
+1.  [会社情報 - 主婦の友社](https://shufunotomo.co.jp/about/)
+2.  [主婦の友、小学館 電子雑誌に参入 - J-CAST ニュース](https://www.j-cast.com/2006/07/24002224.html)

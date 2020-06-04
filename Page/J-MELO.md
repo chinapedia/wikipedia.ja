@@ -279,9 +279,9 @@ J-MELOスペシャル
 
 ## 外部リンク
 
-  - [J-MELO | TOP](http://www.nhk.or.jp/j-melo/nhkworld) - 番組公式サイト
-  - [J-MELO | BS Premium](http://www.nhk.or.jp/j-melo/nhkworld/japanese/broadcast/) - 番組公式サイト（放送情報のみ）
-  - [世界180カ国に発信する全編英語の邦楽番組、新VJにトミー・スナイダーの娘ら](http://www.oricon.co.jp/news/confidence/58533/) - [ORICON STYLE](https://ja.wikipedia.org/wiki/ORICON_STYLE "wikilink")（記者会見記事）
+  - [J-MELO | TOP](https://www.nhk.or.jp/j-melo/nhkworld/) - 番組公式サイト
+  - [J-MELO | BS Premium](https://www.nhk.or.jp/j-melo/nhkworld/japanese/broadcast/) - 番組公式サイト（放送情報のみ）
+  - [世界180カ国に発信する全編英語の邦楽番組、新VJにトミー・スナイダーの娘ら](https://www.oricon.co.jp/news/58533/) - [ORICON STYLE](https://ja.wikipedia.org/wiki/ORICON_STYLE "wikilink")（記者会見記事）
 
 [Category:NHKワールドの番組](https://ja.wikipedia.org/wiki/Category:NHKワールドの番組 "wikilink") [Category:NHK_BSプレミアムの番組](https://ja.wikipedia.org/wiki/Category:NHK_BSプレミアムの番組 "wikilink") [Category:NHKの深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:NHKの深夜テレビ番組 "wikilink") [Category:NHK総合テレビジョンの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの深夜番組 "wikilink") [Category:NHK_BSの深夜番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの深夜番組 "wikilink") [Category:NHKのテレビ音楽番組](https://ja.wikipedia.org/wiki/Category:NHKのテレビ音楽番組 "wikilink") [Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHK_BSの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの音楽番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink")
 

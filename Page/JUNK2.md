@@ -56,7 +56,7 @@
   - **[TBSラジオ](../Page/TBSラジオ.md "wikilink")**☆（制作局）
   - [北海道放送](../Page/HBCラジオ.md "wikilink")☆
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")
@@ -73,7 +73,7 @@
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")☆
   - [大分放送](../Page/大分放送.md "wikilink")
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")

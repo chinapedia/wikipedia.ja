@@ -109,25 +109,25 @@
 
 11時5分から日本軍航空機の攻撃が始まった。[Confirmed_hits_on_USS_Lexington_(CV-2)_during_the_Battle_of_the_Coral_Sea,_8_May_1942.png](https://ja.wikipedia.org/wiki/File:Confirmed_hits_on_USS_Lexington_\(CV-2\)_during_the_Battle_of_the_Coral_Sea,_8_May_1942.png "fig:Confirmed_hits_on_USS_Lexington_(CV-2)_during_the_Battle_of_the_Coral_Sea,_8_May_1942.png") 最初の左舷前部に命中した魚雷の衝撃で2基のエレベーターは飛行甲板に上がった状態で故障し動作しなくなった。また航空燃料タンクからガソリンの漏出が始まった。2発目の魚雷は同じく左舷側船体中央やや前側に命中した。2発目の魚雷によりボイラー室に損害が発生し、最大速力は24.5ノットに低下した。
 
-1発目の爆弾は左舷飛行甲板脇の5インチ対空砲の付近に命中し5インチ砲に配置されていた兵員全員が死亡した。2発目の爆弾は煙突に命中し、付近の対空兵器の兵員を殺傷した。他にも船体周囲に落下した至近弾により、2つの防水区画に浸水した。1本目の魚雷によって漏出が始まった航空用ガソリンは、気化して艦内に充満し引火する危険が高まった。
+[Damaged_USS_Lexington_(CV-2)_underway_on_the_early_afternoon_of_8_May_1942_(NH_76560).jpg](https://ja.wikipedia.org/wiki/File:Damaged_USS_Lexington_\(CV-2\)_underway_on_the_early_afternoon_of_8_May_1942_\(NH_76560\).jpg "fig:Damaged_USS_Lexington_(CV-2)_underway_on_the_early_afternoon_of_8_May_1942_(NH_76560).jpg")p.44 MODELArt</ref>\]\] 1発目の爆弾は左舷飛行甲板脇の5インチ対空砲の付近に命中し5インチ砲に配置されていた兵員全員が死亡した。2発目の爆弾は煙突に命中し、付近の対空兵器の兵員を殺傷した。他にも船体周囲に落下した至近弾により、2つの防水区画に浸水した。1本目の魚雷によって漏出が始まった航空用ガソリンは、気化して艦内に充満し引火する危険が高まった。
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Large_explosion_aboard_USS_Lexington_\(CV-2\),_8_may_1942.jpg "wikilink") 12時47分に最初の爆発が起きた。この爆発で25名の乗員が死亡した。飛行甲板での離着艦は継続され、日本艦隊への攻撃部隊の収容は13時22分に開始され14時14分に終了した。14時42分、格納庫で深刻な大爆発が起こった。前部エレベーターが30センチ吹きあがり、艦の前半部が停電した。フレッチャー少将はレキシントンを支援するために3隻の駆逐艦を派遣したが、15時25分、再び格納庫で大爆発が起き水圧が失われた。火災によって前部機械室からの退避が必要となり、16時頃には喫水下の全区画からの避難が必要となった。
+[USS_Lexington_(CV-2)_being_abandoned_on_8_May_1942_(80-G-7398).jpg](https://ja.wikipedia.org/wiki/File:USS_Lexington_\(CV-2\)_being_abandoned_on_8_May_1942_\(80-G-7398\).jpg "fig:USS_Lexington_(CV-2)_being_abandoned_on_8_May_1942_(80-G-7398).jpg")が救助のために寄り添っている。\[3\]\]\] [thumb](https://ja.wikipedia.org/wiki/image:Large_explosion_aboard_USS_Lexington_\(CV-2\),_8_may_1942.jpg "wikilink") 12時47分に最初の爆発が起きた。この爆発で25名の乗員が死亡した。飛行甲板での離着艦は継続され、日本艦隊への攻撃部隊の収容は13時22分に開始され14時14分に終了した。14時42分、格納庫で深刻な大爆発が起こった。前部エレベーターが30センチ吹きあがり、艦の前半部が停電した。フレッチャー少将はレキシントンを支援するために3隻の駆逐艦を派遣したが、15時25分、再び格納庫で大爆発が起き水圧が失われた。火災によって前部機械室からの退避が必要となり、16時頃には喫水下の全区画からの避難が必要となった。
 
 このためレキシントンは完全に航行不能となり漂流を始めた。負傷者の避難が優先して行われその後総員退去した。17時7分に、放棄した後にすぐ沈没しなかった場合日本海軍に拿捕され鹵獲されることや、拿捕されることで艦内に残した軍事機密が漏れることを避けるために、レキシントンを自軍により撃沈する決定が下された。
 
 ### 沈没
 
-19時15分-52分の間に駆逐艦から5発の魚雷がレキシントンに向けて発射された。 [USS_Lexington_brennt.jpg](https://ja.wikipedia.org/wiki/File:USS_Lexington_brennt.jpg "fig:USS_Lexington_brennt.jpg")
+19時15分-52分の間に駆逐艦から5発の魚雷がレキシントンに向けて発射された。
 
-19時56分、レキシントンは艦首を下にして転覆するような形で沈み始めた。沈没の途中で三回の大爆発が確認された\[3\]。
+[USS_Lexington_brennt.jpg](https://ja.wikipedia.org/wiki/File:USS_Lexington_brennt.jpg "fig:USS_Lexington_brennt.jpg")p.44 MODELArt</ref>\]\] 19時56分、レキシントンは艦首を下にして転覆するような形で沈み始めた。沈没の途中で3回の大爆発が確認された\[4\]。
 
 レキシントンは第二次世界大戦中の戦功で二つの従軍星章を受章した。1942年6月16日、本艦を記念し、建造途中だった[エセックス級航空母艦](../Page/エセックス級航空母艦.md "wikilink")の[一隻が](../Page/レキシントン_\(CV-16\).md "wikilink")「レキシントン」と改名された。
 
 ## 発見
 
-2018年3月5日、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の共同創業者で[探検家](../Page/探検家.md "wikilink")の[ポール・アレン](../Page/ポール・アレン.md "wikilink")によって、オーストラリア東岸から約800 km、深さ約3200 mの海底でレキシントンの残骸が発見された\[4\]\[5\]。当時[米太平洋軍司令官を務めていた](../Page/アメリカインド太平洋軍.md "wikilink")[ハリー・B・ハリス・ジュニア](https://ja.wikipedia.org/wiki/ハリー・B・ハリス・ジュニア "wikilink")は、父親がレキシントンの生存者の一人であったことから、残骸発見に寄せて声明を発表している。
+2018年3月5日、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の共同創業者で[探検家](../Page/探検家.md "wikilink")の[ポール・アレン](../Page/ポール・アレン.md "wikilink")によって、オーストラリア東岸から約800 km、深さ約3200 mの海底でレキシントンの残骸が発見された\[5\]\[6\]。当時[米太平洋軍司令官を務めていた](../Page/アメリカインド太平洋軍.md "wikilink")[ハリー・B・ハリス・ジュニア](https://ja.wikipedia.org/wiki/ハリー・B・ハリス・ジュニア "wikilink")は、父親がレキシントンの生存者の一人であったことから、残骸発見に寄せて声明を発表している。
 
-レキシントンの残骸は、船体から艦首・艦尾の各先端および艦橋が離断し、それぞれ離れて横たわっている。このように損傷は激しいものの、海中での浸食はあまりなく、搭載されていた[Mk 10 5インチ砲等の火器や艦載機の残骸も良好な状態を保っている](https://ja.wikipedia.org/wiki/Mk_10_5インチ砲 "wikilink")\[6\]。
+レキシントンの残骸は、船体から艦首・艦尾の各先端および艦橋が離断し、それぞれ離れて横たわっている。このように損傷は激しいものの、海中での浸食はあまりなく、搭載されていた[Mk 10 5インチ砲等の火器や艦載機の残骸も良好な状態を保っている](https://ja.wikipedia.org/wiki/Mk_10_5インチ砲 "wikilink")\[7\]。
 
 ## 脚注
 
@@ -159,7 +159,8 @@
 
 1.  Anderson & Baker, p312
 2.  佐藤暢彦『一式陸攻戦史　海軍陸上攻撃機の誕生から終焉まで』潮書房光人新社、2019年、ISBN 978-4-7698-3103-7、183ページ
-3.
+3.  [\#NAVAL FACT AND HISTORY SERIES AMERICAN AIRCRAFT CARRIERS 1920s-1945 アメリカの航空母艦 資料写真集 1920s-1945p](https://ja.wikipedia.org/wiki/#NAVAL_FACT_AND_HISTORY_SERIES_AMERICAN_AIRCRAFT_CARRIERS_1920s-1945_アメリカの航空母艦_資料写真集_1920s-1945 "wikilink").44 MODELArt
 4.
 5.
 6.
+7.

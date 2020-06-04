@@ -47,6 +47,12 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
   - [マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[ジョイパッド](../Page/ゲームパッド.md "wikilink")、[トラックボール](../Page/トラックボール.md "wikilink")等の[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")をシームレスに同時使用可能。
   - 曲目等のデータを表示、保存できる高機能CD再生機能を装備。
 
+### [国際花と緑の博覧会](../Page/国際花と緑の博覧会.md "wikilink")での国内初お披露目
+
+  - 会期：1990年4月～9月
+  - 展示場所：政府苑(とVIPルーム)、国際陳列館、咲くやこの花館、いちょう館、売店など (計：26台)
+  - メーカー：[フィリップス](../Page/フィリップス.md "wikilink")、[ソニー](../Page/ソニー.md "wikilink")、[松下電器](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")、[富士通テン](https://ja.wikipedia.org/wiki/富士通テン "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")、[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")、[シャープ](../Page/シャープ.md "wikilink")(ヤマハOEM)、[リコー](../Page/リコー.md "wikilink")(フィリップスOEM)
+
 ### 実際に発売されたCD-iプレーヤー
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Philips_CD-Interactive_player_450.jpg "wikilink")
@@ -54,7 +60,7 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
   - [フィリップス](../Page/フィリップス.md "wikilink") - 一般市場向けに各種のCD-iプレーヤーを発売した。
       - CDI450 - TVゲーム機風の筐体を持つCD-iプレーヤー。最廉価な形式だが、日本国内では、3～4万円程度した。
       - CDI550 - CDI450に、動画再生機能を付加したもの。
-  - [ソニー](../Page/ソニー.md "wikilink") - 業務用ポータブルCD-iプレーヤーを発売した。一般向けには販売されなかった。
+  - [ソニー](../Page/ソニー.md "wikilink") - 業務用ポータブルCD-iプレーヤーを1990年9月27日に発売した。一般向けには販売されなかった。
   - [マスプロ電工](../Page/マスプロ電工.md "wikilink") - 日本でカーナビ+ポータブルCD-iプレーヤーを発売した。
 
 ## 日本で販売されたタイトル

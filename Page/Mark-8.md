@@ -1,7 +1,7 @@
 > この記事は[Mark-8](https://ja.wikipedia.org/wiki/Mark-8)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mark8Computer.JPG "wikilink") **Mark-8**(マークエイト)は[1974年](../Page/1974年.md "wikilink")に設計された[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")であり、世界初の[8ビット](../Page/8ビット.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink") [Intel 8008](../Page/Intel_8008.md "wikilink") を使用していた。Mark-8は Jonathan Titus が設計し、自由な組み立てキットとして*Radio-Electronics*誌(R-E)の1974年7月号の巻頭記事で紹介された\[1\]。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mark8Computer.JPG "wikilink") **Mark-8**(マークエイト)は[1974年](../Page/1974年.md "wikilink")に設計された[マイクロコンピュータ](../Page/マイクロコンピュータ.md "wikilink")であり、世界初の[8ビット](../Page/8ビット.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink") [Intel 8008](../Page/Intel_8008.md "wikilink") を使用していた。Mark-8は Jonathan Titus が設計し、自由な組み立てキットとして『[ラジオ＝エレクトロニクス](https://ja.wikipedia.org/wiki/ラジオ＝エレクトロニクス "wikilink")』誌(R-E)の1974年7月号の巻頭記事で紹介された\[1\]。
 
 ## プロジェクト
 

@@ -1019,7 +1019,7 @@
   - [NETテレビ→テレビ朝日](../Page/テレビ朝日.md "wikilink")（制作局）：土曜 18:00 - 18:30
   - [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")：土曜 18:00 - 18:30\[29\]
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形テレビ](../Page/山形テレビ.md "wikilink")：木曜 18:00 - 18:30\[30\]
   - [東日本放送](../Page/東日本放送.md "wikilink")：土曜 18:00 - 18:30\[31\]
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")：水曜 19:00 - 19:30\[32\]
@@ -1038,7 +1038,7 @@
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [テレビ高知](../Page/テレビ高知.md "wikilink")
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")：土曜 18:00 - 18:30
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [テレビ熊本](../Page/テレビ熊本.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")

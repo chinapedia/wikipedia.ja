@@ -52,7 +52,7 @@
 <td><p>「王様ヨコヤマパンチ」</p></td>
 <td><p><a href="../Page/横山雄二.md" title="wikilink">横山雄二</a><br />
 （RCCアナウンサー）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田千尋" title="wikilink">吉田千尋</a><br />
+<td><p><a href="../Page/吉田千尋.md" title="wikilink">吉田千尋</a><br />
 （RCCアナウンサー）</p></td>
 <td><p>なし</p></td>
 </tr>

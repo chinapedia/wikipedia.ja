@@ -19,7 +19,7 @@
   - [沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink") - 1996年4月1日 - 2002年12月31日
   - [黒木瞳](../Page/黒木瞳.md "wikilink") - 2003年1月6日 - 2004年9月24日
   - [鈴木杏樹](https://ja.wikipedia.org/wiki/鈴木杏樹 "wikilink") - 2004年9月27日 - 2020年2月6日
-  - [新行市佳](https://ja.wikipedia.org/wiki/新行市佳 "wikilink")（ニッポン放送アナウンサー） - 2020年2月7日 - 2020年4月3日
+  - [新行市佳](https://ja.wikipedia.org/wiki/新行市佳 "wikilink")（ニッポン放送アナウンサー） - 2020年2月7日 - 4月3日
   - [羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink") - 2020年4月6日 -
 
 ## ネット局・放送時間
@@ -65,7 +65,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -151,14 +151,14 @@
 <tr class="odd">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>（KBC）</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/アサデス。" title="wikilink">小林徹夫のアサデス。ラジオ</a>』内</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/小林徹夫のアサデス。ラジオ" title="wikilink">小林徹夫のアサデス。ラジオ</a>』内</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p><a href="../Page/IBC岩手放送.md" title="wikilink">IBC岩手放送</a>（IBC）</p></td>
 <td><p>8:20 - 8:25</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/朝からRADIO" title="wikilink">朝からRADIO</a>』内</p></td>
+<td><p>『<a href="../Page/朝からRADIO.md" title="wikilink">朝からRADIO</a>』内</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
@@ -174,7 +174,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a>・<a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）<br />
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）<br />
 <a href="../Page/NBCラジオ佐賀.md" title="wikilink">NBCラジオ佐賀</a></p></td>
 <td><p>『[[あさかラ!|早版</p></td>
 <td><p>あさかラ!]]』内</p></td>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td><p>8:30 - 8:35</p></td>
 <td><p>『KNBモーニングすくらんぶる』内</p></td>
 </tr>

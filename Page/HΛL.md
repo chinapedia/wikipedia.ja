@@ -47,7 +47,7 @@
         [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")座間市出身、血液型はA型。ボーカル担当。
   - [佐藤あつし](../Page/Ats-.md "wikilink")（さとう あつし、本名：佐藤 厚、[1966年](../Page/1966年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）
       -
-        [新潟県](../Page/新潟県.md "wikilink")出身、血液型はA型。キーボード、[DJ](../Page/ディスクジョッキー.md "wikilink")、ギター担当。
+        [新潟県](../Page/新潟県.md "wikilink")出身、血液型はA型。キーボード、[ピアノ](../Page/ピアノ.md "wikilink")、[DJ](../Page/ディスクジョッキー.md "wikilink")、ギター担当。
   - [清水武仁](../Page/清水武仁.md "wikilink")（しみず たけひと、[1966年](../Page/1966年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - ）
       -
         [鳥取県](../Page/鳥取県.md "wikilink")出身、血液型はA型。

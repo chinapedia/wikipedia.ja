@@ -217,7 +217,7 @@
 | \#E1C59B | [レグホーン](https://ja.wikipedia.org/wiki/レグホーン "wikilink")           | 2.5Y 8/4                                     |
 | \#7F5C13 | [ローアンバー](https://ja.wikipedia.org/wiki/ローアンバー "wikilink")         | 2.5Y 4/6                                     |
 | \#FFBC00 | [クロムイエロー](https://ja.wikipedia.org/wiki/クロムイエロー "wikilink")       | 3Y 8/12                                      |
-| \#FFCC00 | [イエロー](https://ja.wikipedia.org/wiki/イエロー "wikilink")             | 5Y 8.5/14                                    |
+| \#FFCC00 | [イエロー](../Page/黄色.md "wikilink")                                  | 5Y 8.5/14                                    |
 | \#E8D5AF | [クリームイエロー](https://ja.wikipedia.org/wiki/クリームイエロー "wikilink")     | 5Y 8.5/3.5                                   |
 | \#FFCC00 | [ジョンブリアン](https://ja.wikipedia.org/wiki/ジョンブリアン "wikilink")       | 5Y 8.5/14                                    |
 | \#F7D54E | カナリヤ                                                              | 7Y 8.5/10                                    |

@@ -1,7 +1,7 @@
 > この記事は[フォーメーションZ](https://ja.wikipedia.org/wiki/フォーメーションZ)から翻訳されています。
 
 
-『**フォーメーションZ**』（フォーメーションゼット、FORMATION Z）は、[ジャレコ](../Page/ジャレコ.md "wikilink")より[1984年](../Page/1984年.md "wikilink")に稼動された[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。日本国外版タイトルは『**Aeroboto**』（エアロボット）。
+『**フォーメーションZ**』（フォーメーションゼット、FORMATION Z）は、[ジャレコ](../Page/ジャレコ.md "wikilink")より[1984年](../Page/1984年.md "wikilink")に稼動された[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用のオリジナルロボット[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。日本国外版タイトルは『**Aeroboto**』（エアロボット）。
 
 ## 概要
 

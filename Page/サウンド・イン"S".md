@@ -41,7 +41,7 @@
   - 初代：佐良直美（1974年4月 - 1975年9月）
   - 2代目：いしだあゆみ（1975年10月 - 1977年9月）
   - 3代目：伊東ゆかり（1977年10月 - 1981年3月）
-  - ロイ・ジェームス（時期不詳）
+  - [ロイ・ジェームス](../Page/ロイ・ジェームス.md "wikilink")（時期不詳）
 
 <!-- end list -->
 
@@ -124,18 +124,16 @@
 
 ## 外部リンク
 
-  - [BS-TBS｜Sound Inn "S"](http://www.bs-tbs.co.jp/music/sis/)
-  - [@SoundInnS | 『Sound Inn S』公式Twitterアカウント](https://twitter.com/soundinns)
-  - [Sound Inn "S" 番組紹介 | セイコーホールディングス](https://www.seiko.co.jp/branding/soundinns/)
+  - [Sound Inn "S"](https://www.bs-tbs.co.jp/music/sis/)BS-TBS
 
-<!-- end list -->
+  - [Sound Inn "S" 番組紹介](https://www.seiko.co.jp/branding/soundinns/) セイコーホールディングス
 
-  - [サウンド・イン"S"｜TBS CS［TBSチャンネル］](http://www.tbs.co.jp/tbs-ch/item/o1032/)
-  - [TBSオンデマンド｜音楽｜サウンド・イン"S"](http://tod.tbs.co.jp/item/2140/)
-  - [サウンド・イン"S" 美空ひばり編｜TBS CS［TBSチャンネル］](http://www.tbs.co.jp/tbs-ch/item/o0017/)
-  - [サウンド・イン"S" 尾崎紀世彦編｜TBS CS［TBSチャンネル］](http://www.tbs.co.jp/tbs-ch/item/o1370/)
-  - [サウンド・イン"S" 桑名正博編｜TBS CS［TBSチャンネル］](http://www.tbs.co.jp/tbs-ch/item/o1410/)
+  - [サウンド・イン"S"](https://www.tbs.co.jp/tbs-ch/item/o1032/) TBSチャンネル
 
+  - [Sound Inn “S”](https://www.paravi.jp/browse/editorial/10948) Paravi
+
+  -
+  -
 [Category:1974年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1974年のテレビ番組_\(日本\) "wikilink") [Category:BS-TBSの音楽番組](https://ja.wikipedia.org/wiki/Category:BS-TBSの音楽番組 "wikilink") [Category:TBSの音楽番組](https://ja.wikipedia.org/wiki/Category:TBSの音楽番組 "wikilink") [Category:TBSの一社提供番組](https://ja.wikipedia.org/wiki/Category:TBSの一社提供番組 "wikilink") [Category:セイコー一社提供番組](https://ja.wikipedia.org/wiki/Category:セイコー一社提供番組 "wikilink") [Category:TBSの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの番組の歴史 "wikilink") [Category:いしだあゆみ](https://ja.wikipedia.org/wiki/Category:いしだあゆみ "wikilink") [Category:松崎しげる](https://ja.wikipedia.org/wiki/Category:松崎しげる "wikilink")
 
 1.  『[福島民報](../Page/福島民報.md "wikilink")』1975年5月28日付朝刊、8面。

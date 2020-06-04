@@ -15,8 +15,6 @@
 
 代表曲は[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に発売し、[TBSドラマ](../Page/TBSテレビ.md "wikilink")『[キッズ・ウォー](../Page/キッズ・ウォー.md "wikilink")3』（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）の主題歌にもなり、[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高2位を獲得した「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」。[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")出場3回のうち、2回で披露されたほか、2005年[4月1日](../Page/4月1日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")から解散[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")の模様を『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）で全国生中継された際にもこの曲が演奏された。
 
-
-
 ## メンバー
 
 ### 2013年4月活動終了時点のメンバー
@@ -108,7 +106,7 @@
 
 2013年[3月2日](../Page/3月2日.md "wikilink")、オフィシャルサイトにて唯一人残ったメンバーのMAIKOがメッセージを発表、同年[4月7日](../Page/4月7日.md "wikilink")にShibuya O-Eastで開催されるイベント「ZONE FINAL EVENT」をもって活動を終了させることを発表した\[21\]\[22\]\[23\]。
 
-4月7日、MAIKOによるイベント「ZONE FINAL EVENT」を持って活動終了。MAIKOはJack & Queenとして1人事務所に残留し、ミニアルバムをリリースしたが14年2月には音楽性の違いを理由に[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。これによりZONEメンバー全員が事務所を離脱し、[芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")から[引退](../Page/引退.md "wikilink")した。
+4月7日、MAIKOによるイベント「ZONE FINAL EVENT」を持って活動終了。MAIKOはJack & Queenとして1人事務所に残留し、ミニアルバムをリリースしたが14年2月には音楽性の違いを理由に解散。これによりZONEメンバー全員が事務所を離脱し、芸能界から引退した。
 
 ## 略歴
 

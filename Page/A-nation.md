@@ -2918,6 +2918,155 @@ a-nationとしては初めて、東京のみで開催される。
 
 この年は[ラグビーワールドカップ2019](../Page/ラグビーワールドカップ2019.md "wikilink")準備ため東京会場は2020年とともに休止が決定。青森・三重・福岡・大阪の4会場で予定していたが、2年連続で三重会場が中止。
 
+7月20日：青森港新中央埠頭 特設会場（[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")）
+
+~~7月27日：ナガシマスパーランド芝生広場野外特設ステージ（三重県）~~　※[台風6号接近のため中止](https://ja.wikipedia.org/wiki/令和元年台風第6号 "wikilink")\[10\]
+
+8月3日：シーサイドももち海浜公園 地行浜地区 特設会場（[福岡県](../Page/福岡県.md "wikilink")）
+
+8月17・18日：ヤンマースタジアム長居
+
+#### 青森
+
+<div class="NavFrame" style="clear: both; border: 0;">
+
+<div class="NavHead" style="text-align: left;">
+
+**詳細**
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - **7月20日**
+
+<!-- end list -->
+
+  - w-inds.
+  - 倖田來未
+  - DA PUMP
+  - ナオト・インティライミ
+  - [西川貴教](../Page/西川貴教.md "wikilink")
+  - [HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink")
+  - ピコ太郎
+
+</div>
+
+</div>
+
+#### 福岡
+
+<div class="NavFrame" style="clear: both; border: 0;">
+
+<div class="NavHead" style="text-align: left;">
+
+**詳細**
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - **8月3日**
+
+<!-- end list -->
+
+  - [宇野実彩子](../Page/宇野実彩子.md "wikilink") ([AAA](../Page/AAA_\(音楽グループ\).md "wikilink"))
+  - [SHINJIRO ATAE](https://ja.wikipedia.org/wiki/SHINJIRO_ATAE "wikilink") (AAA)
+  - Da-iCE
+  - ナオト・インティライミ
+  - HAN-KUN
+  - [平井大](https://ja.wikipedia.org/wiki/平井大 "wikilink")
+
+≪シューティングアクト≫
+
+  - lol -エルオーエル-
+  - [ゴリパラ](https://ja.wikipedia.org/wiki/ゴリパラ "wikilink")
+
+≪オープニングアクト≫
+
+  - Amaryllis Bomb
+  - a-genic / avex artist academy
+  - 金浜菜夏美（SHOWROOM枠）
+  - 九星隊 (ナインスターズ)
+  - Beverly
+  - re:ply
+
+</div>
+
+</div>
+
+#### 長居
+
+<div class="NavFrame" style="clear: both; border: 0;">
+
+<div class="NavHead" style="text-align: left;">
+
+**詳細**
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - **8月17日**
+
+<!-- end list -->
+
+  - AAA（ヘッドライナー）
+  - BLACKPINK
+  - Da-iCE
+  - DA PUMP
+  - ET-KING
+  - HAN-KUN
+  - 平井大
+  - MAX
+  - ナオト・インティライミ
+
+≪シューティングアクト≫
+
+  - lol -エルオーエル-
+  - 鈴木瑛美子
+
+≪オープニングアクト≫
+
+  - a-genic / avex artist academy
+  - BuZZ
+  - 天才凡人
+
+<!-- end list -->
+
+  - **8月18日**
+
+<!-- end list -->
+
+  - 東方神起（ヘッドライナー）
+  - ゴールデンボンバー
+  - 倖田來未
+  - [Shuta Sueyoshi](https://ja.wikipedia.org/wiki/Shuta_Sueyoshi "wikilink")
+  - THE RAMPAGE from EXILE TRIBE
+  - TRF
+  - BOYS AND MEN
+  - SUPER★DRAGON
+
+≪シューティングアクト≫
+
+  - I Don't Like Mondays.
+  - INTERSECTION
+  - THE BEAT GARDEN
+
+≪オープニングアクト≫
+
+  - avex artist academy
+  - Beverly
+  - 大阪☆春夏秋冬
+
+</div>
+
+</div>
+
+### 2020年
+
+2002年から毎年欠かさず18年間連続で開催をしてきたが、[新型コロナウイルスの感染拡大を受けて](../Page/2019新型コロナウイルス.md "wikilink")、様々な影響を考慮し協議を重ねた結果として、今回は初めて開催を見送る事となった\[11\]。
+
 ## 関連商品
 
 ### DVD
@@ -2979,3 +3128,5 @@ a-nationとしては初めて、東京のみで開催される。
 7.  [3](https://hiraidai.jp/) 公式ホームページ
 8.  [4](http://avex.jp/lol/) 公式ホームページ
 9.  [7月28日 三重公演開催中止のお知らせ](https://a-nation.net/news.php?id=1063907) a-nation 2018 supported by dTV & dTVチャンネル
+10. [7月27日 三重公演開催中止のお知らせ](https://a-nation.net/news_detail.php?id=1075125) a-nation 2019 supported by dTV & dTVチャンネル
+11.

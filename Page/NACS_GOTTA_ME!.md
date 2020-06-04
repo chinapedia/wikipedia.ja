@@ -35,4 +35,4 @@
 
 [カテゴリ:TEAM NACS](https://ja.wikipedia.org/wiki/カテゴリ:TEAM_NACS "wikilink")
 
-[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink")
+[Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink") [Category:戸次重幸](https://ja.wikipedia.org/wiki/Category:戸次重幸 "wikilink")

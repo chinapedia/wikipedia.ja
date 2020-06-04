@@ -7,7 +7,7 @@ NACCSにより[外国貨物](https://ja.wikipedia.org/wiki/外国貨物 "wikilin
 
 ## NACCSの運営主体
 
-NACCSは、[輸出入・港湾関連情報処理センター](https://ja.wikipedia.org/wiki/輸出入・港湾関連情報処理センター "wikilink")(NACCSセンター)株式会社によって運営されている。同社は[独立行政法人](../Page/独立行政法人.md "wikilink")　[通関情報処理センター](../Page/通関情報処理センター.md "wikilink")が2008年10月に特殊会社化され発足した。本社所在地は神奈川県川崎市。
+NACCSは、[輸出入・港湾関連情報処理センター](https://ja.wikipedia.org/wiki/輸出入・港湾関連情報処理センター "wikilink")(NACCSセンター)株式会社によって運営されている。同社は[独立行政法人](../Page/独立行政法人.md "wikilink")　[通関情報処理センター](../Page/通関情報処理センター.md "wikilink")が2008年10月に特殊会社化され発足した。本社所在地は東京都港区。
 
 ## NACCSの構成
 

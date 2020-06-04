@@ -110,7 +110,7 @@
   - [機動戦士ガンダムSEED ASTRAYS PORTAL SITE](http://www.astrays.net/index.html)
       - [機動戦士ガンダムSEED DESTINY ASTRAY](http://www.gundam-seed-d.net/d_astray/index.html)
 
-[Category:コズミック・イラ](https://ja.wikipedia.org/wiki/Category:コズミック・イラ "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:角川スニーカー文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー文庫 "wikilink") [Category:ジャーナリズムを題材とした作品](https://ja.wikipedia.org/wiki/Category:ジャーナリズムを題材とした作品 "wikilink")
+[Category:コズミック・イラ](https://ja.wikipedia.org/wiki/Category:コズミック・イラ "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:2004年の漫画](https://ja.wikipedia.org/wiki/Category:2004年の漫画 "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:2004年の小説](https://ja.wikipedia.org/wiki/Category:2004年の小説 "wikilink") [Category:角川スニーカー文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー文庫 "wikilink") [Category:ジャーナリズムを題材とした作品](https://ja.wikipedia.org/wiki/Category:ジャーナリズムを題材とした作品 "wikilink")
 
 1.  旧1巻「SPECIAL SCOOP.01　切り裂きエド」は『ASTRAY Re:Master Edition』3巻に収録されたため未収録。
 2.  続編『DELTA ASTRAY』、『Re:Master Edition』刊行と同時期に展開された『DESTINY ASTRAY R』『DESTINY ASTRAY B』についても、千葉智宏によるショートストーリー「INTERMISSION」で補足されている。

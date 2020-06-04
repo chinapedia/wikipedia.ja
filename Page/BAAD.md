@@ -7,7 +7,7 @@
 
   - 山田恭二（やまだ きょうじ） - 初代[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")担当。脱退後、地元に戻り音楽活動をしていたらしい。
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（おおた しんいちろう） - [ギター](../Page/ギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、作詞、[作曲](../Page/作曲.md "wikilink")担当。
-      - [愛媛県](../Page/愛媛県.md "wikilink")出身。血液型B型。[2004年](../Page/2004年.md "wikilink")に[徳永暁人](../Page/徳永暁人.md "wikilink")（B）、[吉本大樹](../Page/吉本大樹.md "wikilink")（Vo）と[doaを結成](../Page/Doa_\(ミュージシャン\).md "wikilink")。
+      - [愛媛県](../Page/愛媛県.md "wikilink")出身。血液型B型。[2004年](../Page/2004年.md "wikilink")に[徳永暁人](../Page/徳永暁人.md "wikilink")（B）、[吉本大樹](../Page/吉本大樹.md "wikilink")（Vo）と[doaを結成](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")。
   - 小林正道（こばやし まさみち） - [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")
   - 新井康徳（あらい やすのり） - [ドラム](../Page/ドラムセット.md "wikilink")、作詞担当。現在は03bandで活動中。
   - 秦秀樹（はた ひでき） - 2代目ボーカル、作詞担当。解散後は「ARROW」のボーカルを務めた。
@@ -187,9 +187,6 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")
-  - [doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")
-      - [徳永暁人](../Page/徳永暁人.md "wikilink")
-      - [吉本大樹](../Page/吉本大樹.md "wikilink")
   - [Being CLASSICS](https://ja.wikipedia.org/wiki/Being_CLASSICS "wikilink")
 
 ## 外部リンク

@@ -78,7 +78,7 @@
   - [1月22日](../Page/1月22日.md "wikilink")、4thアルバム「[思春期](../Page/思春期_\(アルバム\).md "wikilink")」発売。後の代表曲「[島唄](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」が収録されたアルバムである。[1月31日](../Page/1月31日.md "wikilink")よりツアー「SPECIAL」をスタートする（7月まで）。
   - [8月8日](../Page/8月8日.md "wikilink")、[大阪](../Page/大阪.md "wikilink")での「夏祭り'92」を最後に年内の活動休止。活動再開予定も未定という、グループ始まって以来の事態となった。メンバーは各自ソロ活動。ボーカルの宮沢は[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のミュージシャンである[ディック・リー](../Page/ディック・リー.md "wikilink")の誘いで[ミュージカル](../Page/ミュージカル.md "wikilink")「ナガランド」に出演し、アジア各国を回った。この経験が翌年のアルバム「[FACELESS MAN](../Page/FACELESS_MAN.md "wikilink")」の下地となる。
   - [9月21日](../Page/9月21日.md "wikilink")、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")「[THE BOOM](../Page/THE_BOOM_\(アルバム\).md "wikilink")」発売。
-  - [12月12日](../Page/12月12日.md "wikilink")、シングル「[島唄（ウチナーグチ・ヴァージョン）](../Page/島唄_\(ウチナーグチ・ヴァージョン\).md "wikilink")」を沖縄限定で発売。[泡盛](https://ja.wikipedia.org/wiki/泡盛 "wikilink")のCMで[タイアップ](../Page/タイアップ.md "wikilink")されたことや[大河ドラマ](../Page/大河ドラマ.md "wikilink")などでの沖縄ブームに乗り、「島唄」の人気に火がつき始める。
+  - [12月12日](../Page/12月12日.md "wikilink")、シングル「[島唄（ウチナーグチ・ヴァージョン）](../Page/島唄_\(ウチナーグチ・ヴァージョン\).md "wikilink")」を沖縄限定で発売。[泡盛](../Page/泡盛.md "wikilink")のCMで[タイアップ](../Page/タイアップ.md "wikilink")されたことや[大河ドラマ](../Page/大河ドラマ.md "wikilink")などでの沖縄ブームに乗り、「島唄」の人気に火がつき始める。
 
 ### ブラジル音楽〜活動休止
 

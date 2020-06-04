@@ -85,7 +85,7 @@
   - [一宮章一](../Page/一宮章一.md "wikilink")
   - [大刀光修](../Page/大刀光電右エ門.md "wikilink")（現：大刀光）
   - [嵐](../Page/大黒坊弁慶.md "wikilink")（初代）（現：大黒坊弁慶）
-  - [嵐](../Page/高木功.md "wikilink")（2代目）
+  - [嵐](../Page/高木功_\(プロレスラー\).md "wikilink")（2代目）
   - [ウルティモ・ドラゴン](../Page/ウルティモ・ドラゴン.md "wikilink")
   - [超電戦士バトレンジャー](https://ja.wikipedia.org/wiki/上野幸秀 "wikilink")
   - [石井智宏](../Page/石井智宏.md "wikilink")

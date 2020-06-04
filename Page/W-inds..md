@@ -2263,6 +2263,16 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - 外務省飯倉公館 令和元年度外務大臣表彰（団体）『音楽を通じた日本とベトナムとの文化交流の促進』
 
+<!-- end list -->
+
+  - 2020年
+
+<!-- end list -->
+
+  - 31st RTHK International Pop Poll Award
+
+      - TOP JAPANESE SILVER SONG　（『**Get Down**』）
+
 ## 脚注
 
 ## 関連項目

@@ -19,7 +19,7 @@
 
 ## 歴史
 
-  - [1993年](../Page/1993年.md "wikilink") Jリーグ開幕。当初、KBSではJリーグの注目カードを地方テレビ局からの[番組販売の形](https://ja.wikipedia.org/wiki/番販 "wikilink")（特に[横浜M](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")、[横浜F](../Page/横浜フリューゲルス.md "wikilink")、[鹿島](../Page/鹿島アントラーズ.md "wikilink")、[市原の試合](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")=[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")\[1\]ないしは[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")製作が多かった）でネットワーク受けをしていた。
+  - [1993年](../Page/1993年.md "wikilink") Jリーグ開幕。当初、KBSではJリーグの注目カードを地方テレビ局からの[番組販売の形](https://ja.wikipedia.org/wiki/番販 "wikilink")（特に[横浜M](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")、[横浜F](../Page/横浜フリューゲルス.md "wikilink")、[鹿島](../Page/鹿島アントラーズ.md "wikilink")、[市原の試合](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")=[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")\[1\] ないしは[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")製作が多かった）でネットワーク受けをしていた。
   - [1996年](../Page/1996年.md "wikilink") サンガがJリーグ参入を果たす。KBSのサッカー中継もサンガ戦に特化した内容に変更され、このタイトルが付いた。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") サンガのリーグ戦全34試合中継を達成した。
   - [1999年](../Page/1999年.md "wikilink") この年の一時期、ホームゲームの録画中継に限って『サンガレボリューション』のタイトルで放送していたことがあった。
@@ -82,7 +82,7 @@ KBS京都とスカパー\!向けが一本化され、2011年までスカパー\!
   - [長谷川治久](../Page/長谷川治久.md "wikilink")（元[ヤンマーディーゼルサッカー部](../Page/ヤンマーディーゼルサッカー部.md "wikilink")選手）
   - [美濃部直彦](../Page/美濃部直彦.md "wikilink")（元京都選手・監督、[徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")監督）
   - [羽中田昌](../Page/羽中田昌.md "wikilink")（現:[東京23フットボールクラブ](../Page/東京23フットボールクラブ.md "wikilink")監督）
-  - [望月聡](../Page/望月聡.md "wikilink")（現:[びわこ成蹊スポーツ大学](../Page/びわこ成蹊スポーツ大学.md "wikilink")准教授・監督、[サッカー女子日本代表](https://ja.wikipedia.org/wiki/サッカー女子日本代表 "wikilink")コーチ）
+  - [望月聡](../Page/望月聡.md "wikilink")（現:[びわこ成蹊スポーツ大学](../Page/びわこ成蹊スポーツ大学.md "wikilink")准教授・監督、[サッカー女子日本代表コーチ](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")）
 
 ### 過去
 

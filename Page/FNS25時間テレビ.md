@@ -400,7 +400,7 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:笑福亭鶴瓶](https://ja.wikipedia.org/wiki/Category:笑福亭鶴瓶 "wikilink") [Category:2005年7月](https://ja.wikipedia.org/wiki/Category:2005年7月 "wikilink")
 

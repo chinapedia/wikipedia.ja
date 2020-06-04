@@ -1,7 +1,7 @@
 > この記事は[Air Precision Shooting](https://ja.wikipedia.org/wiki/Air_Precision_Shooting)から翻訳されています。
 
 
-**Air Precision Shooting**（エアー プレシジョン シューティング）とは、[日本エアースポーツガン協会](https://ja.wikipedia.org/wiki/日本エアースポーツガン協会 "wikilink")主催の[エアソフトガン](../Page/エアソフトガン.md "wikilink")による精密射撃競技。及び同競技を主導する[マルゼン](https://ja.wikipedia.org/wiki/マルゼン "wikilink")製の精密射撃用エアソフトガンのシリーズ名。2004年現在、[ハンドガン](https://ja.wikipedia.org/wiki/ハンドガン "wikilink")タイプの[APS-1](https://ja.wikipedia.org/wiki/APS-1 "wikilink")と[ライフルタイプの](../Page/小銃.md "wikilink")[APS-2](https://ja.wikipedia.org/wiki/APS-2 "wikilink")、L96A1[スナイパーライフル](https://ja.wikipedia.org/wiki/スナイパーライフル "wikilink")を模した[APS-TYPE96](https://ja.wikipedia.org/wiki/APS-TYPE96 "wikilink")の3シリーズが販売されている。2007年、APS-1の後継モデルAPS-3が発売された。
+**Air Precision Shooting**（エアー プレシジョン シューティング）とは、[日本エアースポーツガン協会](../Page/日本エアースポーツガン協会.md "wikilink")主催の[エアソフトガン](../Page/エアソフトガン.md "wikilink")による精密射撃競技。及び同競技を主導する[マルゼン](https://ja.wikipedia.org/wiki/マルゼン "wikilink")製の精密射撃用エアソフトガンのシリーズ名。2004年現在、[ハンドガン](https://ja.wikipedia.org/wiki/ハンドガン "wikilink")タイプの[APS-1](https://ja.wikipedia.org/wiki/APS-1 "wikilink")と[ライフルタイプの](../Page/小銃.md "wikilink")[APS-2](https://ja.wikipedia.org/wiki/APS-2 "wikilink")、L96A1[スナイパーライフル](https://ja.wikipedia.org/wiki/スナイパーライフル "wikilink")を模した[APS-TYPE96](https://ja.wikipedia.org/wiki/APS-TYPE96 "wikilink")の3シリーズが販売されている。2007年、APS-1の後継モデルAPS-3が発売された。
 
 ## APSカップ
 

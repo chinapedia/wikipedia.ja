@@ -87,18 +87,18 @@
 
 ### シングル
 
-|     | 発売日         | タイトル                                                                                              | 規格品番       | 備考        |
-| --- | ----------- | ------------------------------------------------------------------------------------------------- | ---------- | --------- |
-| 1st | 1999年5月8日   | **[What A Shiny Day](https://ja.wikipedia.org/wiki/What_A_Shiny_Day "wikilink")**                 | NMCD-0004  | タワーレコード限定 |
-| 2nd | 1999年6月23日  | **[午前8時の脱走計画](https://ja.wikipedia.org/wiki/午前8時の脱走計画 "wikilink")**                               | VICL-35052 | オリコン圏外    |
-| 3rd | 1999年8月25日  | **[RALLY](https://ja.wikipedia.org/wiki/RALLY "wikilink")**                                       | VICL-35073 | オリコン圏外    |
-| 4th | 1999年12月1日  | **[My Brave Face](https://ja.wikipedia.org/wiki/My_Brave_Face "wikilink")**                       | VICL-35090 | オリコン圏外    |
-| 5th | 2000年4月21日  | **[Do You Believe In Magic?](https://ja.wikipedia.org/wiki/Do_You_Believe_In_Magic? "wikilink")** | VICL-35134 | オリコン圏外    |
-| 6th | 2000年8月23日  | **[Highway Star, Speed Star](https://ja.wikipedia.org/wiki/Highway_Star,_Speed_Star "wikilink")** | VICL-35170 | オリコン最高73位 |
-| 7th | 2001年8月22日  | **[Higher than the Sun e.p.](https://ja.wikipedia.org/wiki/Higher_than_the_Sun_e.p. "wikilink")** | VICL-35296 | オリコン最高79位 |
-| 8th | 2002年6月5日   | **[Wingspan](https://ja.wikipedia.org/wiki/Wingspan "wikilink")**                                 | VICL-35392 | オリコン圏外    |
-| 9th | 2002年10月23日 | **[Love Thing](https://ja.wikipedia.org/wiki/Love_Thing "wikilink")**                             | VICL-35438 | オリコン圏外    |
-|     |             |                                                                                                   |            |           |
+|        | 発売日         | タイトル                                                                                              | 規格品番       | 備考        |
+| ------ | ----------- | ------------------------------------------------------------------------------------------------- | ---------- | --------- |
+| インディーズ | 1999年5月8日   | **[What A Shiny Day](https://ja.wikipedia.org/wiki/What_A_Shiny_Day "wikilink")**                 | NMCD-0004  | タワーレコード限定 |
+| 1st    | 1999年6月23日  | **[午前8時の脱走計画](https://ja.wikipedia.org/wiki/午前8時の脱走計画 "wikilink")**                               | VICL-35052 | オリコン圏外    |
+| 2nd    | 1999年8月25日  | **[RALLY](https://ja.wikipedia.org/wiki/RALLY "wikilink")**                                       | VICL-35073 | オリコン圏外    |
+| 3rd    | 1999年12月1日  | **[My Brave Face](https://ja.wikipedia.org/wiki/My_Brave_Face "wikilink")**                       | VICL-35090 | オリコン圏外    |
+| 4th    | 2000年4月21日  | **[Do You Believe In Magic?](https://ja.wikipedia.org/wiki/Do_You_Believe_In_Magic? "wikilink")** | VICL-35134 | オリコン圏外    |
+| 5th    | 2000年8月23日  | **[Highway Star, Speed Star](https://ja.wikipedia.org/wiki/Highway_Star,_Speed_Star "wikilink")** | VICL-35170 | オリコン最高73位 |
+| 6th    | 2001年8月22日  | **[Higher than the Sun e.p.](https://ja.wikipedia.org/wiki/Higher_than_the_Sun_e.p. "wikilink")** | VICL-35296 | オリコン最高79位 |
+| 7th    | 2002年6月5日   | **[Wingspan](https://ja.wikipedia.org/wiki/Wingspan "wikilink")**                                 | VICL-35392 | オリコン圏外    |
+| 8th    | 2002年10月23日 | **[Love Thing](https://ja.wikipedia.org/wiki/Love_Thing "wikilink")**                             | VICL-35438 | オリコン圏外    |
+|        |             |                                                                                                   |            |           |
 
 ### アルバム
 

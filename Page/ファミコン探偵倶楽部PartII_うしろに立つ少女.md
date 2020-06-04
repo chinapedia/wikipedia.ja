@@ -231,7 +231,7 @@
 <td><p>4</p></td>
 <td><p>ファミコン探偵倶楽部PartII うしろに立つ少女</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Wii_U" title="wikilink">Wii U</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii_U" title="wikilink">Wii</a></p></td>
 <td><p>任天堂<br />
 トーセ</p></td>
 <td><p>任天堂</p></td>

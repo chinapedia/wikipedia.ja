@@ -807,7 +807,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
   -
   -
   -
-[Category:札幌市の祭り](https://ja.wikipedia.org/wiki/Category:札幌市の祭り "wikilink") [Category:ソーラン節](https://ja.wikipedia.org/wiki/Category:ソーラン節 "wikilink") [Category:6月](https://ja.wikipedia.org/wiki/Category:6月 "wikilink") [Category:YOSAKOI](https://ja.wikipedia.org/wiki/Category:YOSAKOI "wikilink")
+[Category:札幌市の祭り](https://ja.wikipedia.org/wiki/Category:札幌市の祭り "wikilink") [Category:ソーラン節](https://ja.wikipedia.org/wiki/Category:ソーラン節 "wikilink") [Category:6月](https://ja.wikipedia.org/wiki/Category:6月 "wikilink") [Category:YOSAKOI](https://ja.wikipedia.org/wiki/Category:YOSAKOI "wikilink") [Category:札幌テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:札幌テレビ放送の番組 "wikilink") [Category:日本テレビの特別番組](https://ja.wikipedia.org/wiki/Category:日本テレビの特別番組 "wikilink") [Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:BS朝日の特別番組](https://ja.wikipedia.org/wiki/Category:BS朝日の特別番組 "wikilink") [Category:テレビ北海道の番組](https://ja.wikipedia.org/wiki/Category:テレビ北海道の番組 "wikilink") [Category:BSテレ東の特別番組](https://ja.wikipedia.org/wiki/Category:BSテレ東の特別番組 "wikilink")
 
 1.
 2.

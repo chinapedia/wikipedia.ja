@@ -961,7 +961,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
       -
 ## 外部リンク
 
-  - [牙狼〈GARO〉ガロ：テレビ東京](http://www.tv-tokyo.co.jp/garo/) - TVシリーズ第1弾の情報を掲載。（更新終了）
+  - [牙狼〈GARO〉ガロ：テレビ東京](https://www.tv-tokyo.co.jp/garo/) - TVシリーズ第1弾の情報を掲載。（更新終了）
 
   - [GARO PROJECT -牙狼〈GARO〉オフィシャルサイト-](http://garo-project.jp/) - 牙狼全般の情報を掲載する公式サイト。
 

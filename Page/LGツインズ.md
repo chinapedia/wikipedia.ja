@@ -1,7 +1,7 @@
 > この記事は[LGツインズ](https://ja.wikipedia.org/wiki/LGツインズ)から翻訳されています。
 
 
-**LGツインズ**（エルジー・ツインズ、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"): 、現地読み: エルジートゥインス、[英語](../Page/英語.md "wikilink"): LG Twins）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チーム。[ホームタウン](../Page/ホームタウン.md "wikilink")は[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")であり、本拠地は同市[松坡区](../Page/松坡区.md "wikilink")の[蚕室野球場](../Page/蚕室野球場.md "wikilink")。[LGグループ](../Page/LGグループ.md "wikilink")傘下。[KBO創設メンバー](https://ja.wikipedia.org/wiki/韓国野球委員会 "wikilink")6球団の一つ。
+**LGツインズ**（エルジー・ツインズ、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"): 、現地読み: エルジートゥインス、[英語](../Page/英語.md "wikilink"): LG Twins）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チームである。[ホームタウン](../Page/ホームタウン.md "wikilink")は[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")であり、本拠地は同市[松坡区](../Page/松坡区.md "wikilink")の[蚕室野球場](../Page/蚕室野球場.md "wikilink")。[LGグループ](../Page/LGグループ.md "wikilink")傘下。[KBO創設メンバー](https://ja.wikipedia.org/wiki/韓国野球委員会 "wikilink")6球団の一つ。
 
 韓国プロ野球界における人気球団の一つであり、1982年からの累積観客動員では最多を記録している（2018年まで）。チーム名はソウル特別市の[汝矣島](../Page/汝矣島.md "wikilink")にあるLG本社オフィスビルであるLGツインタワーに因む。
 
@@ -22,7 +22,7 @@
 
 1990年代は4度の韓国シリーズ進出、1990年と1994年に韓国シリーズを制覇するなど、当時のヘテ・タイガースとともに90年代の人気球団としての地位を両分し、「シンパラム(新風)野球｣として一世を風靡した。1990年にLG初代監督として、前身のMBCで活躍した[白仁天](../Page/白仁天.md "wikilink")が迎えられ、球団創設初年度に三星ライオンズをやぶって韓国シリーズ初優勝を果たした。だが翌91年は6位と低迷したため、この年限りで白仁天は退任となった。
 
-1992年から[李廣煥](https://ja.wikipedia.org/wiki/李廣煥 "wikilink")監督が就任し、初年度は7位と低迷したが、翌93年は公式戦4位でプレーオフまで進出した。そして1994年、[柳志炫](https://ja.wikipedia.org/wiki/柳志炫 "wikilink")、[金宰炫](https://ja.wikipedia.org/wiki/金宰炫 "wikilink")などの新人選手、当時プロ2年目の[李尚勲](../Page/李尚勲.md "wikilink")などの若手が活躍し、2度目の韓国シリーズ優勝を成し遂げた。 このころがまさにＬＧツインズの黄金時代であり、当時の主なスター選手としては[李尚勲](../Page/李尚勲.md "wikilink")、[柳志炫](https://ja.wikipedia.org/wiki/柳志炫 "wikilink")、[金龍洙](https://ja.wikipedia.org/wiki/金龍洙 "wikilink")、[徐容彬](https://ja.wikipedia.org/wiki/徐容彬 "wikilink")、[宋九洪](https://ja.wikipedia.org/wiki/宋九洪 "wikilink")、[金東洙](https://ja.wikipedia.org/wiki/金東洙 "wikilink")などがあげられる。
+1992年から[李廣煥](https://ja.wikipedia.org/wiki/李廣煥 "wikilink")監督が就任し、初年度は7位と低迷したが、翌93年は公式戦4位でプレーオフまで進出した。そして1994年、[柳志炫](https://ja.wikipedia.org/wiki/柳志ヒョン "wikilink")、[金宰炫](https://ja.wikipedia.org/wiki/金宰炫 "wikilink")などの新人選手、当時プロ2年目の[李尚勲](../Page/李尚勲.md "wikilink")などの若手が活躍し、2度目の韓国シリーズ優勝を成し遂げた。 このころがまさにＬＧツインズの黄金時代であり、当時の主なスター選手としては[李尚勲](../Page/李尚勲.md "wikilink")、[柳志炫](https://ja.wikipedia.org/wiki/柳志ヒョン "wikilink")、[金龍洙](https://ja.wikipedia.org/wiki/金龍洙 "wikilink")、[徐容彬](https://ja.wikipedia.org/wiki/徐容彬 "wikilink")、[宋九洪](https://ja.wikipedia.org/wiki/宋九洪 "wikilink")、[金東洙](https://ja.wikipedia.org/wiki/金東洙 "wikilink")などがあげられる。
 
 しかし1995年3位、1996年7位と成績が低下すると、李廣煥も96年シーズン途中で交代となった。このあと監督代行を務めた千普成が監督に昇格し、1997年には2位に浮上したが、韓国シリーズで[ヘテタイガース](https://ja.wikipedia.org/wiki/ヘテタイガース "wikilink")に敗れた。1998年も2位だったがまたもやヘテに韓国シリーズで敗れ、1999年には総合6位（ドリームリーグ4位、この年から2000年まで2リーグ制）と低迷したため、千普成監督も退任した。
 
@@ -40,7 +40,7 @@
 
 #### 2010年代
 
-2010年はトレードで[ネクセンヒーローズ](https://ja.wikipedia.org/wiki/ネクセンヒーローズ "wikilink")から[李宅根](https://ja.wikipedia.org/wiki/李宅根 "wikilink")をトレードで獲得し、かつての主力選手[李炳圭](../Page/李炳圭.md "wikilink")の復帰などで戦力を補強したが、外野手が必要以上に多いなどチーム構成のバランスが悪く、6位となり8年連続でポストシーズン進出に失敗した。 2011年は前半こそ首位争いをしていたものの、夏場から勝率を下げる一方でハンファと同率6位に終わり、9年連続ポストシーズン進出失敗の不名誉な韓国プロ野球新記録を塗り替えてしまった。成績不振の責任を取る形で朴鍾勲監督も辞任し、[金杞泰](https://ja.wikipedia.org/wiki/金杞泰 "wikilink")監督が就任した。
+2010年はトレードで[ネクセンヒーローズから](https://ja.wikipedia.org/wiki/キウム・ヒーローズ "wikilink")[李宅根](https://ja.wikipedia.org/wiki/李宅根 "wikilink")をトレードで獲得し、かつての主力選手[李炳圭](../Page/李炳圭.md "wikilink")の復帰などで戦力を補強したが、外野手が必要以上に多いなどチーム構成のバランスが悪く、6位となり8年連続でポストシーズン進出に失敗した。 2011年は前半こそ首位争いをしていたものの、夏場から勝率を下げる一方でハンファと同率6位に終わり、9年連続ポストシーズン進出失敗の不名誉な韓国プロ野球新記録を塗り替えてしまった。成績不振の責任を取る形で朴鍾勲監督も辞任し、[金杞泰](https://ja.wikipedia.org/wiki/金杞泰 "wikilink")監督が就任した。
 
 2012年は4月7日の公式戦開幕を前にして、前年チーム最多勝(13勝)だった[朴顯俊](https://ja.wikipedia.org/wiki/朴顯俊 "wikilink")、[金聖賢](https://ja.wikipedia.org/wiki/金聖賢 "wikilink")の2名の投手が金銭を受け取り競技操作事件に加担したとして有罪となり、解雇された後に球界から[永久追放処分を科されてしまう](https://ja.wikipedia.org/wiki/引退#失格選手 "wikilink")（[韓国プロ野球八百長事件](https://ja.wikipedia.org/wiki/韓国プロ野球八百長事件 "wikilink")）。投手力不足を解消できず7位でポストシーズン進出失敗記録を10年に伸ばした。2013年は公式戦2位で11年ぶりにポストシーズン進出となり、プレーオフから出場したが[斗山ベアーズ](../Page/斗山ベアーズ.md "wikilink")に敗れた。2014年4月23日、最下位に低迷していたためシーズン中にも関わらず[金杞泰](https://ja.wikipedia.org/wiki/金杞泰 "wikilink")監督が辞任し、同年5月11日、[楊相汶](https://ja.wikipedia.org/wiki/楊相汶 "wikilink")が監督に就任すると調子を取り戻し、公式戦4位で1998年以来となる2年連続でポストシーズンへ進出した。[NCダイノス](https://ja.wikipedia.org/wiki/NCダイノス "wikilink")との準プレーオフに勝利し、2年連続プレーオフへ進出したが[ネクセン・ヒーローズ](https://ja.wikipedia.org/wiki/ネクセン・ヒーローズ "wikilink")に敗れた。2015年は9位で、3年ぶりにポストシーズン進出を逃した。2016年はレギュラーシーズン4位で2年ぶりにポストシーズンへ進出し、起亜とのワイルドカード決定戦、ネクセンとの準プレーオフで勝利したが、プレーオフで2位の[NCダイノス](https://ja.wikipedia.org/wiki/NCダイノス "wikilink")に敗れた。2017年は6位でポストシーズン進出はならず[楊相汶](https://ja.wikipedia.org/wiki/楊相汶 "wikilink")監督が退任した。
 
@@ -117,7 +117,7 @@
   - 8 [鄭根宇](https://ja.wikipedia.org/wiki/鄭根宇 "wikilink")（チョン・グヌ）
   - 10 [呉智煥](https://ja.wikipedia.org/wiki/呉智煥 "wikilink")（オ・ジファン）
   - 25 [金旼成](https://ja.wikipedia.org/wiki/金ミン成 "wikilink")（キム・ミンソン）
-  - 65 [ロベルト・ラモス](https://ja.wikipedia.org/wiki/ロベルト・ラモス "wikilink")
+  - 44 [ロベルト・ラモス](https://ja.wikipedia.org/wiki/ロベルト・ラモス "wikilink")
 
 ### 外野手
 
@@ -222,6 +222,8 @@
     ソウル・ヒーローズからFAで加入し、史上7人目の通算2000本安打を達成した。
   - [奉重根](../Page/奉重根.md "wikilink")（ポン・ジュングン、在籍年度2007 - 2018）
     元メジャーリーガー。
+  - [金光三](https://ja.wikipedia.org/wiki/金光三 "wikilink")（キム・ガンサム、在籍年度1998 - 2016）
+    投手と外野手の両方できる二刀流だった。
 
 ### 外国人選手およびコーチングスタッフ
 
@@ -232,21 +234,23 @@
   - [金信夫](../Page/金城信夫.md "wikilink")（キム・シンブ、在籍年度1990）
     元[南海ホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")。[太平洋より移籍したが](../Page/現代ユニコーンズ.md "wikilink")、出場機会に恵まれず、1年限りで退団した。
   - [ジム・テータム](../Page/ジム・テータム.md "wikilink")（在籍年度2000）
-    元[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/ヤクルトスワローズ "wikilink")。負傷の為1年限りで退団し、そのまま現役引退。
+    元[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")。負傷の為1年限りで退団し、そのまま現役引退。
   - [李一義](https://ja.wikipedia.org/wiki/吉本一義 "wikilink")（イ・イルィ、在籍年度2002－2003）
     日本名は吉本一義。1994年から2000年に[福岡ダイエーホークスに在籍した在日韓国人選手](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")。ダイエー退団後テストでLGへ入団。2002年は主に代打として72試合に出場したが、翌年はわずか2試合の出場にとどまり、その年限りで退団。
+  - [金真裕](https://ja.wikipedia.org/wiki/山田真裕_\(野球\) "wikilink")（キム・ジニュ、在籍年度2003-2005）
+    日本名は山田真裕。日本の社会人チームを経て入団したが、3年間の在籍でわずか6試合のみの登板に終わり退団。
   - [ウィン](../Page/エドウィン・ハタド.md "wikilink")（在籍年度2004）
     韓国での登録名は苗字の方を取って「フタド（）」だった。LGでは開幕4連敗と1勝もあげられないまま、期待に応えられず5月に解雇となった。
   - [アル・マーティン](../Page/アル・マーティン_\(外野手\).md "wikilink")（在籍年度2004）
     [レス・ウォーランド](https://ja.wikipedia.org/wiki/レス・ウォーランド "wikilink")（在籍年度2005）
-    2008年12月17日に[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")がウォーランドの獲得を正式発表した。成績は19試合に登板、4勝10敗1S、防御率5.04。2010年[斗山ベアーズ](../Page/斗山ベアーズ.md "wikilink")と契約し、5年ぶりに韓国プロ野球へ復帰。
+    2008年12月17日に[横浜ベイスターズがウォーランドの獲得を正式発表した](../Page/横浜DeNAベイスターズ.md "wikilink")。成績は19試合に登板、4勝10敗1S、防御率5.04。2010年[斗山ベアーズ](../Page/斗山ベアーズ.md "wikilink")と契約し、5年ぶりに韓国プロ野球へ復帰。
   - [バディ・カーライル](../Page/バディ・カーライル.md "wikilink")（在籍年度2006）
     シーズン途中の5月に入団。当初は抑えとして期待されていたが、中継ぎに定着し好投。終盤には先発でも起用されたが結果は残せなかった。
     成績は32試合に登板、2勝6敗2S、防御率3.25。リリーフでの好投を買われてLG側から契約延長を打診されたが、個人事情で固辞して退団。2007年は[アトランタ・ブレーブス](../Page/アトランタ・ブレーブス.md "wikilink")とマイナー契約を結んだ。2010年[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")に入団。
   - [ティム・ハリッカラ](https://ja.wikipedia.org/wiki/ティム・ハリッカラ "wikilink")（在籍年度2007）
     サムスンから移籍したが、16試合登板で6勝8敗、防御率5.21と期待に応えられずシーズン途中に退団した。
   - [ペドロ・バルデス](../Page/ペドロ・バルデス.md "wikilink")（在籍年度2007）
-    元[福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ダイエーホークス "wikilink")。長打力不足の解消のため主砲として期待され入団し、最初は4番を任されたが、ヒットは安定して打つものの一発に欠けるため次第に3番での起用が増えた。選球眼に優れ四球は多く出塁率は高かったが、年間13本塁打では外国人打者としては迫力不足で、外野の守備範囲も狭かったため1年限りでの退団となった。
+    元[福岡ダイエーホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")。長打力不足の解消のため主砲として期待され入団し、最初は4番を任されたが、ヒットは安定して打つものの一発に欠けるため次第に3番での起用が増えた。選球眼に優れ四球は多く出塁率は高かったが、年間13本塁打では外国人打者としては迫力不足で、外野の守備範囲も狭かったため1年限りでの退団となった。
   - [ジェイミー・ブラウン](../Page/ジェイミー・ブラウン.md "wikilink")（在籍年度2008）
     元[阪神タイガース](../Page/阪神タイガース.md "wikilink")。韓国では2006年から2007年まで[三星ライオンズ](https://ja.wikipedia.org/wiki/三星ライオンズ "wikilink")に在籍し、2年連続2ケタ勝利を記録。三星を自由契約となったあと、その実績を買われ2008年はLGと契約したが、期待を大きく裏切り1勝5敗、7点台の防御率の成績に終わり、5月で解雇となった。
   - [クリス・オクスプリング](../Page/クリス・オクスプリング.md "wikilink")（在籍年度2007－2009）

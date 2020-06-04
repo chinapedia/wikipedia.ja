@@ -19,6 +19,7 @@
   - E.A. (Epreuve d'artiste) - [版画](../Page/版画.md "wikilink")の版数管理において作家保存分という名目で作成されるもの
   - [電子親和力](https://ja.wikipedia.org/wiki/電子親和力 "wikilink") (Electron Affinity) - 原子や原子団が、系内に電子を1個取り込む際に放出するエネルギー
   - A種[接地](../Page/接地.md "wikilink")、第1種接地とも呼ぶ。
+  - [東部方面隊の英略称](../Page/東部方面隊_\(陸上自衛隊\).md "wikilink")
 
 **Ea**
 

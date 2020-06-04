@@ -19,7 +19,7 @@
 
 ### 1級
 
-目標となる人物像は、ICT活用によるビジネス価値の増大をリードできる「ビジネス・イノベーション・リーダー」である。
+目標となる人物像は、ICT活用によるビジネス価値の増大をリードできる「ビジネス・イノベーション・リーダー」である。合格難易度は[国家試験](../Page/国家試験.md "wikilink")の[ITパスポート試験](https://ja.wikipedia.org/wiki/ITパスポート試験 "wikilink")と同じくらいと言われている。
 
   - 受験資格：2級を合格している者。
   - 試験方式：[CBT](../Page/Computer_Based_Testing.md "wikilink")(Computer Based Testing)

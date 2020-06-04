@@ -32,7 +32,7 @@
 <!-- end list -->
 
   -
-    福岡県出身。デビュー曲を除く全ての作詞を担当。[ビーイング](../Page/ビーイング.md "wikilink")の主催するBADオーディションに合格し、デビュー。同期には、元[BAAD](../Page/BAAD.md "wikilink")、現[doaの](../Page/Doa_\(ミュージシャン\).md "wikilink")[大田紳一郎](../Page/大田紳一郎.md "wikilink")がいる。ZYYG解散後は[BON-BON BLANCOの](../Page/BON-BON_BLANCO.md "wikilink")1stアルバム「BEAT GOES ON」の収録曲「LIVE」の作曲を手がけた。
+    福岡県出身。デビュー曲を除く全ての作詞を担当。[ビーイング](../Page/ビーイング.md "wikilink")の主催するBADオーディションに合格し、デビュー。同期には、元[BAAD](../Page/BAAD.md "wikilink")、現[doaの](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")[大田紳一郎](../Page/大田紳一郎.md "wikilink")がいる。ZYYG解散後は[BON-BON BLANCOの](../Page/BON-BON_BLANCO.md "wikilink")1stアルバム「BEAT GOES ON」の収録曲「LIVE」の作曲を手がけた。
 
 <!-- end list -->
 
@@ -157,9 +157,9 @@
       - [7月21日](../Page/7月21日.md "wikilink") - [大阪hills パン工場](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")
   - 2019年[12月7日](../Page/12月7日.md "wikilink") - **Trouble Beats Meeting Party vol.01**（2公演）
       - 渋谷 ASTRO LAB.
-  - [2020年](../Page/2020年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - [5月30日](../Page/5月30日.md "wikilink")\[3\] - **LIVE ROCKIN' HIGH 2020 ～ALIVE～**（2公演）
+  - [2020年](../Page/2020年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - 開催日未定\[3\] - **LIVE ROCKIN' HIGH 2020 ～ALIVE～**（2公演）
       - [2月22日](../Page/2月22日.md "wikilink") - 下北沢ReG
-      - [5月30日](../Page/5月30日.md "wikilink")\[4\] - [大阪hills パン工場](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")
+      - 開催日未定\[4\] - [大阪hills パン工場](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")
 
 ## ディスコグラフィ
 
@@ -375,7 +375,7 @@
 1.  [vocal compilation 90's hits Vol.1〜male〜 at the BEING studio](https://ja.wikipedia.org/wiki/vocal_compilation_90's_hits_Vol.1〜male〜_at_the_BEING_studio "wikilink") B-Gram RECORDS JBCJ-5010のライナーノーツ
     取材：斉田　才　文：鈴木大介（アンダウン編集部）より
 2.
-3.  LIVE ROCKIN' HIGH 2020 ～ALIVE～の[大阪hills パン工場での公演分は](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")、[新型コロナウイルスの感染拡大を避けるため](../Page/2019新型コロナウイルス.md "wikilink")、2020年3月7日から2020年5月30日に延期となった。
+3.  LIVE ROCKIN' HIGH 2020 ～ALIVE～の[大阪hills パン工場での公演分は](../Page/Hills_パン工場.md "wikilink")、[新型コロナウイルスの感染拡大を避けるため](../Page/2019新型コロナウイルス.md "wikilink")、2020年3月7日から2020年5月30日に延期となった後、改めて開催時期未定の無期延期となった。コロナ禍収束後に実施予定。
 4.
 5.  [T-BOLANが再結成、90年代ビーイング勢と全国ツアー敢行](http://natalie.mu/music/news/71154) *[ナタリー](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")*
 6.  [T-BOLAN、WANDS、90's J-ROCKヒット曲を映像で紡ぐDVDからティーザー映像公開](http://www.barks.jp/news/?id=1000081291) *[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")*

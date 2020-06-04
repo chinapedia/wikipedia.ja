@@ -140,7 +140,8 @@
 
   - （年齢確認あり、閉鎖）
 
-[Category:Studio_e.go\!](https://ja.wikipedia.org/wiki/Category:Studio_e.go! "wikilink")
+  -
+[Category:Studio_e.go\!](https://ja.wikipedia.org/wiki/Category:Studio_e.go! "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:大阪市の企業](https://ja.wikipedia.org/wiki/Category:大阪市の企業 "wikilink")
 
 1.  「廻るセカイで永遠なるチカイを！」では「やまもと☆かずえ」名義となっている。
 2.  戦闘シーンは大幅な改良をなされているが、敵キャラはなじみキャラが多い。

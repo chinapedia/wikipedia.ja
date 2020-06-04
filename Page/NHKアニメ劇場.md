@@ -44,7 +44,7 @@ NHK総合テレビとしては『[モンタナ・ジョーンズ](../Page/モン
 ## 外部リンク
 
   - [NHKアニメワールド](http://www3.nhk.or.jp/anime/)
-  - [NHK INFORMATION「経営委員会議事録（第969回）」](http://www.nhk.or.jp/keiei-iinkai/giji/kako/g969.html)（アニメーション室に関する記述あり）
+  - [NHK INFORMATION「経営委員会議事録（第969回）」](https://www.nhk.or.jp/keiei-iinkai/giji/kako/g969.html)（アニメーション室に関する記述あり）
 
 [Category:NHKアニメの放送枠](https://ja.wikipedia.org/wiki/Category:NHKアニメの放送枠 "wikilink") [Category:NHK総合テレビジョンのアニメ](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンのアニメ "wikilink")
 

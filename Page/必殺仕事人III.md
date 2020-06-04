@@ -485,7 +485,7 @@
 
 :\* 伊之助 - [佐藤佑介](../Page/佐藤佑介_\(1959年生\).md "wikilink")
 
-:\* 勘助 - [堀田眞三](../Page/堀田眞三.md "wikilink")
+:\* 勘助 - [堀田真三](../Page/堀田眞三.md "wikilink")
 
 :\* お徳 - [福田公子](../Page/福田公子.md "wikilink")
 
@@ -950,7 +950,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>

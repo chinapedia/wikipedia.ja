@@ -45,7 +45,7 @@
 
   - [キャラクターアニメーションツールキット](https://ja.wikipedia.org/wiki/キャラクターアニメーションツールキット "wikilink") (**C**haracter **A**nimation **T**oolkit) - CG制作の補助ソフト。
 
-  - [クロラムフェニコール](../Page/クロラムフェニコール.md "wikilink")アセチルトランスフェラーゼ ('''Chrolamphenicol **A**cetyl**t**ransferase)
+  - [クロラムフェニコール](../Page/クロラムフェニコール.md "wikilink")アセチルトランスフェラーゼ (**C**hrolamphenicol **A**cetyl**t**ransferase)
 
   - [晴天乱気流](https://ja.wikipedia.org/wiki/晴天乱気流 "wikilink") (**C**lear-**A**ir **T**urbulence)
 

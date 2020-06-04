@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")（[1970年](../Page/1970年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")） - 活動当時は、長老・お笑い[キャラ](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")。しかし、Lip'sが、すぐに解散しなかったのは、彼女が[FM静岡に食い込んでグループとしてのレギュラーをつかんだためであり](../Page/静岡エフエム放送.md "wikilink")、その点では功績があったといえる。解散後の活躍は[別項参照](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")。愛称UCCミスハーフビターちゃん。
+  - [加藤貴子](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")（[1970年](../Page/1970年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink") - ） - 活動当時は、長老・お笑い[キャラ](https://ja.wikipedia.org/wiki/キャラ_\(コミュニケーション\) "wikilink")。しかし、Lip'sが、すぐに解散しなかったのは、彼女が[FM静岡に食い込んでグループとしてのレギュラーをつかんだためであり](../Page/静岡エフエム放送.md "wikilink")、その点では功績があったといえる。解散後の活躍は[別項参照](https://ja.wikipedia.org/wiki/加藤貴子_\(女優\) "wikilink")。愛称UCCミスハーフビターちゃん。
 
 <!-- end list -->
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - 山本京子\[2\]\[（やまもと きょうこ、[1975年](../Page/1975年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ） - [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身。結成前[第1回国民的美少女コンテストにて](../Page/全日本国民的美少女コンテスト.md "wikilink")、音楽部門賞受賞の経歴有り。「[美少女学園](../Page/美少女学園.md "wikilink")」（テレビ朝日系）に出演の実績がある。愛称UCCミスビターちゃん。
+  - 山本京子\[2\]（やまもと きょうこ、[1975年](../Page/1975年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink") - ） - [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身。結成前[第1回国民的美少女コンテストにて](../Page/全日本国民的美少女コンテスト.md "wikilink")、音楽部門賞受賞の経歴有り。「[美少女学園](../Page/美少女学園.md "wikilink")」（テレビ朝日系）に出演の実績がある。愛称UCCミスビターちゃん。
       - Lip's解散後ソロで「[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN.md "wikilink")」（[ZOO](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")、1991年）のカバーも出し、ZOOと共に日本武道館や大阪城ホール、名古屋センチュリーホールに出演。[林海象](../Page/林海象.md "wikilink")監督三部作映画「[私立探偵濱マイクシリーズ第二弾 〜遥かな時代の階段を](../Page/私立探偵_濱マイク.md "wikilink")」のエンディングテーマ「水の音（主演の永瀬正敏作詞）」のリリースと共に、同映画に女優としても出演をしている。
       - その後、名義をKyoko yamamotoに変え、本格的なソロ活動開始。作詞、作曲も手掛けるようになり「CATCH〜Take hold of love」にてデビュー。Mini Album「Monopoly」リリース後、渡米し、著名なBack Musicianのもとでレコーディングした2nd single「刹那の花火を浴びましょう」とFull Album「[IN SENSITIVE](https://ja.wikipedia.org/wiki/IN_SENSITIVE "wikilink")」を続けて発表。「IN SENSITIVE」内の楽曲「海の果て」では、[岩田屋](../Page/岩田屋.md "wikilink")[Z-SIDE](https://ja.wikipedia.org/wiki/Z-SIDE "wikilink")のCM songと共に、本人自らも出演している。3rd single「Drive Me Crazy」の発表当時は、TV、AM\&FM RADIO、スカパーの音楽Channel「VEWSIC」等、多数のMC活動で活躍を行う。
       - 4年間の休業の後、長本京子としてモデル業に専念。CM、ドラマ等にも出演。

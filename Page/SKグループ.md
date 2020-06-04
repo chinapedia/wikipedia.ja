@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1939年](../Page/1939年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")14年）、[朝鮮総督府](../Page/朝鮮総督府.md "wikilink")時代の[京畿道](../Page/京畿道.md "wikilink")の[水原市](https://ja.wikipedia.org/wiki/水原市 "wikilink")で[日本資本として創業して織物を内地から輸入し満洲に織物輸出を行っていた](https://ja.wikipedia.org/wiki/日本統治下の朝鮮 "wikilink")「鮮満綢緞\[2\]」と、日本の「[京都織物](https://ja.wikipedia.org/wiki/京都織物 "wikilink")」が合弁で作った「鮮京織物株式会社」に端を発する。日本の[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")敗戦による日本人経営者の内地引き揚げと現地残留資産の放棄後、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")を経た[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")、鮮京織物の製造部長だったが、設立間もない大韓民国政府より工場設備一切の払い下げを受け、[1956年](../Page/1956年.md "wikilink")に法人化した。その後は[紡績](../Page/紡績.md "wikilink")・繊維業に事業の主力を置くが、[1973年](../Page/1973年.md "wikilink")に鮮京油化を設立し石油精製に進出。同年に崔鍾建が死去すると実弟・がグループを引き継ぎ、重化学工業部門や建設、更には[ウォーカーヒル](https://ja.wikipedia.org/wiki/ウォーカーヒル "wikilink")の[ホテル](../Page/ホテル.md "wikilink")・[カジノ](../Page/カジノ.md "wikilink")運営に進出し、[1976年](../Page/1976年.md "wikilink")には本体の繊維部門が[総合商社](https://ja.wikipedia.org/wiki/総合商社 "wikilink")となって**鮮京**（ソンギョン、）と改称した。
+[1939年](../Page/1939年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")14年）、[朝鮮総督府](../Page/朝鮮総督府.md "wikilink")時代の[京畿道](../Page/京畿道.md "wikilink")の[水原市](https://ja.wikipedia.org/wiki/水原市 "wikilink")で[日本資本として創業して織物を内地から輸入し満洲に織物輸出を行っていた](https://ja.wikipedia.org/wiki/日本統治下の朝鮮 "wikilink")「鮮満綢緞\[2\]」と、日本の「[京都織物](https://ja.wikipedia.org/wiki/京都織物 "wikilink")」が合弁で作った「鮮京織物株式会社」に端を発する。日本の[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")敗戦による日本人経営者の内地引き揚げと現地残留資産の放棄後、[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")を経た[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")、鮮京織物の製造部長だったが、設立間もない大韓民国政府より工場設備一切の払い下げを受け、[1956年](../Page/1956年.md "wikilink")に法人化した。その後は[紡績](../Page/紡績.md "wikilink")・繊維業に事業の主力を置くが、[1973年](../Page/1973年.md "wikilink")に鮮京油化を設立し石油精製に進出。同年に崔鍾建が死去すると実弟・がグループを引き継ぎ、重化学工業部門や建設、更には[ウォーカーヒル](https://ja.wikipedia.org/wiki/ウォーカーヒル "wikilink")の[ホテル](../Page/ホテル.md "wikilink")・[カジノ](../Page/カジノ.md "wikilink")運営に進出し、[1976年](../Page/1976年.md "wikilink")には本体の繊維部門が[総合商社](https://ja.wikipedia.org/wiki/総合商社 "wikilink")となって**鮮京**（ソンギョン、、）と改称した。
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[国営企業](https://ja.wikipedia.org/wiki/国営企業 "wikilink")の[大韓石油公社](https://ja.wikipedia.org/wiki/大韓石油公社 "wikilink")（略称：油公、ユゴン、 、現[SKイノベーション](https://ja.wikipedia.org/wiki/SKイノベーション "wikilink")）の払い下げを受け、その後得た資金力で[1994年](../Page/1994年.md "wikilink")には同じく国営の[韓国移動通信](https://ja.wikipedia.org/wiki/韓国移動通信 "wikilink")の払い下げを受けて「[SKテレコム](../Page/SKテレコム.md "wikilink")」に改称。同社を韓国の[携帯電話](../Page/携帯電話.md "wikilink")業界の最大手にまで成長させ、石油部門と並ぶグループの事業の柱を形成した\[3\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にはそれまでのグループの[英語](../Page/英語.md "wikilink")名であった **SunKyung** があまり英語話者に馴染みにくいことと、「Sunk　Young（沈んだ若者）」とも読み取られる語呂の悪さから企業名変更に着手。現在の社名となり、系列会社の名前もSKの名に改められる。一方で[韓国通貨危機](https://ja.wikipedia.org/wiki/韓国通貨危機 "wikilink")にあたっては複雑な[支配](https://ja.wikipedia.org/wiki/支配 "wikilink")構造となっていた「循環出資」\[4\]を2年間掛けて整理し、[2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に[持株会社](../Page/持株会社.md "wikilink")へと移行した。2012年に半導体製造会社ハイニックス半導体を買収し、[SKハイニックス](../Page/SKハイニックス.md "wikilink")とした\[5\]。
 
@@ -26,11 +26,11 @@
           - [済州ユナイテッドFC](../Page/済州ユナイテッドFC.md "wikilink")（済州FC）
       - SK総合化学（旧・SKエナジーの化学部門を引き継いだ会社。英文社名ではSKグローバルケミカルとなる。）
       - SKルブリカンツ（潤滑油事業：2009年10月当時のSKエナジーより独立）
-  - [SKテレコム](../Page/SKテレコム.md "wikilink")（旧韓国移動通信）
-      - SKブロードバンド
+  - [SKテレコム](../Page/SKテレコム.md "wikilink")（旧・韓国移動通信）
+      - SKブロードバンド（旧・ハナロ通信）
       - SKスポーツ団
           - [SKワイバーンズ](../Page/SKワイバーンズ.md "wikilink") - プロ野球チーム
-          - [ソウルSKナイツ](../Page/ソウルSKナイツ.md "wikilink")
+          - [ソウルSKナイツ](../Page/ソウルSKナイツ.md "wikilink") - 男子ブロバスケットボールチーム
           - SKテレコムT1([eスポーツ](../Page/エレクトロニック・スポーツ.md "wikilink"))
       - SKコミュニケーションズ
       - ネイトドットコム

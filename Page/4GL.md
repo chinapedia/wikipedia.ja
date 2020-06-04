@@ -91,7 +91,7 @@
       - [MATLAB](../Page/MATLAB.md "wikilink") の GUIDE
       - [Omnis Studio](http://www.omnis.net/index.html?detail=overview)
       - [OpenROAD](http://www.ingres.com/products/openroad.php)
-      - [Revolution](http://www.runrev.com/home/product-family/)
+      - [LiveCode](https://livecode.com/) (← Revolution ← RuntimeRevolution )
   - ウェブ開発
       - [ColdFusion](../Page/ColdFusion.md "wikilink")
       - [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")

@@ -1,14 +1,14 @@
 > この記事は[JNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/JNN夕方ローカルニュース一覧)から翻訳されています。
 
 
-**JNN夕方ローカルニュース一覧**（ジェイエヌエヌゆうがたローカルニュースいちらん）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の[ニュース系列](../Page/ニュース系列.md "wikilink")である[JNN系列局で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、現在放送されている夕方の[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。
+**JNN夕方ローカルニュース一覧**（ジェイエヌエヌゆうがたローカルニュースいちらん）は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が[キー局](../Page/キー局.md "wikilink")の[ニュース系列](../Page/ニュース系列.md "wikilink")である[JNN系列局で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、現在放送されている夕方の[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。
 
 ## 概要
 
 基本的には各局共に平日17:50 - 18:15が全国ニュース『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』を放送。そして18:15 - 19:00にJNN各局でローカルニュースを放送している。但しJNN各局は[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")に内包する編成（[コンプレックス](../Page/コンプレックス_\(番組形式\).md "wikilink")）、或いは独立した番組編成と二種類存在している。
 
-  - 他の[テレビネットワークの](../Page/ネットワーク_\(放送\).md "wikilink")[ニュース系列](../Page/ニュース系列.md "wikilink")と比較して、長年[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")・TBSのタイトルに統一する系列局があまり見られず、『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』（『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』）までは[甲信越](https://ja.wikipedia.org/wiki/甲信越地方 "wikilink")・[東海](../Page/東海地方.md "wikilink")・[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")以西の[西日本](../Page/西日本.md "wikilink")のJNN系列局でこの傾向が顕著（けんちょ）であった。しかし[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")の『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』開始に伴い、多くの系列局でキー局にタイトルを合わせるようになった。
-  - しかし『総力報道』が打ち切られ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")に現在放送中の『Nスタ』がスタートした際に番組名を『Nスタ』に合わせた系列局は開始当初で2局（[TBC](../Page/東北放送.md "wikilink")・[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")）だけだったが、後に[TUY](../Page/テレビユー山形.md "wikilink")\[1\]・[TUF](../Page/テレビユー福島.md "wikilink")\[2\]・[ITV](../Page/あいテレビ.md "wikilink")\[3\]・[NBC](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")\[4\]の4局が追随（ただし、BSNは2016年4月より『[BSN NEWS ゆうなび](https://ja.wikipedia.org/wiki/BSN_NEWS_ゆうなび "wikilink")』として再び独自のタイトルに変更）。それ以外の系列局は独自タイトルを採用している。
+  - 他の[テレビネットワークの](../Page/ネットワーク_\(放送\).md "wikilink")[ニュース系列](../Page/ニュース系列.md "wikilink")と比較して、長年[キー局](../Page/キー局.md "wikilink")・TBSのタイトルに統一する系列局があまり見られず、『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』（『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』）までは[甲信越](https://ja.wikipedia.org/wiki/甲信越地方 "wikilink")・[東海](../Page/東海地方.md "wikilink")・[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")以西の[西日本](../Page/西日本.md "wikilink")のJNN系列局でこの傾向が顕著（けんちょ）であった。しかし[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")の『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』開始に伴い、多くの系列局でキー局にタイトルを合わせるようになった。
+  - しかし『総力報道』が打ち切られ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")に現在放送中の『Nスタ』がスタートした際に番組名を『Nスタ』に合わせた系列局は開始当初で2局（[TBC](../Page/東北放送.md "wikilink")・[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")）だけだったが、後に[TUY](../Page/テレビユー山形.md "wikilink")\[1\]・[TUF](../Page/テレビユー福島.md "wikilink")\[2\]・[ITV](../Page/あいテレビ.md "wikilink")\[3\]・[NBC](../Page/長崎放送.md "wikilink")\[4\]の4局が追随（ただし、BSNは2016年4月より『[BSN NEWS ゆうなび](https://ja.wikipedia.org/wiki/BSN_NEWS_ゆうなび "wikilink")』として再び独自のタイトルに変更）。それ以外の系列局は独自タイトルを採用している。
   - 地方の老舗局を中心に[長寿番組化している番組もあり](../Page/長寿番組の一覧.md "wikilink")、中でも『[IBCニュースエコー](https://ja.wikipedia.org/wiki/IBCニュースエコー "wikilink")』『[テレポート山陰](../Page/テレポート山陰.md "wikilink")』（中断期間がある番組や冠変更も含めれば『[SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink")』『[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")』）など、40年以上続いている番組も存在している。
   - キー局であるTBSでは『Nスタ』の全国ネット枠終了後、ローカルニュースを伝えるが、一部コーナーは系列局にネットされる事がある。また、TUYでは開局当初、ローカルワイドニュースを制作できる体制でなかったことから開局から10年程はTBSで制作された関東ローカルパートをそのまま放送した。
 
@@ -56,7 +56,8 @@
 
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）
       - 『[スゴろく](../Page/スゴろく.md "wikilink")』■（月 - 金 16:45 - 18:55。ローカルニュースは18:15 - 18:55）
-      - キャスター：[山崎薫子](https://ja.wikipedia.org/wiki/山崎薫子 "wikilink")、[小田切いくみ](../Page/小田切いくみ.md "wikilink")
+      - キャスター:[小嶋優](../Page/小嶋優.md "wikilink")・[西垣友香](https://ja.wikipedia.org/wiki/西垣友香 "wikilink")
+      - フィールドキャスター：[山崎薫子](https://ja.wikipedia.org/wiki/山崎薫子 "wikilink")、[小田切いくみ](../Page/小田切いくみ.md "wikilink")
   - [信越放送](../Page/信越放送.md "wikilink")（SBC）
       - 『[SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink")』■（月 - 金 18:15 - 18:55）
       - キャスター：[三島さやか](../Page/三島さやか.md "wikilink")、[尾関雄哉](https://ja.wikipedia.org/wiki/尾関雄哉 "wikilink")
@@ -99,9 +100,7 @@
       - 『[ミント\!](https://ja.wikipedia.org/wiki/ミント! "wikilink")』■（月 - 金 15:49 - 19:00。ローカルニュース『[Newsミント\!](https://ja.wikipedia.org/wiki/Newsミント! "wikilink")』は16:30- 17:10\[6\]）
       - キャスター：[西靖](../Page/西靖.md "wikilink")（メイン）、[大吉洋平](https://ja.wikipedia.org/wiki/大吉洋平 "wikilink")、[玉巻映美](https://ja.wikipedia.org/wiki/玉巻映美 "wikilink")、[上田悦子](../Page/上田悦子.md "wikilink")、ほか
       - 天気キャスター：[広瀬駿](https://ja.wikipedia.org/wiki/広瀬駿 "wikilink")（MBS気象予報士）
-      - ナレーション：[河本光正](../Page/河本光正.md "wikilink")・[来栖正之](../Page/来栖正之.md "wikilink")・[金山泉](../Page/金山泉.md "wikilink")
-
-　
+      - ナレーション：[河本光正](../Page/河本光正.md "wikilink")・[来栖正之](../Page/来栖正之.md "wikilink")・[金山泉](../Page/金山泉.md "wikilink")・[上田崇順](../Page/上田崇順.md "wikilink")
 
 ## 中国・四国
 
@@ -113,7 +112,7 @@
       - キャスター：[竹内大樹](https://ja.wikipedia.org/wiki/竹内大樹 "wikilink")、[守口香織](../Page/守口香織.md "wikilink")
       - フィールドキャスター:[武田博志](../Page/武田博志.md "wikilink")・[米澤秀敏](https://ja.wikipedia.org/wiki/米澤秀敏 "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")（RCC）
-      - 『[イマナマ\!](https://ja.wikipedia.org/wiki/イマナマ! "wikilink")』■（月 - 金 15:00 - 18:56。中断16:50 - 18:15「Nスタ」。ローカルニュースは18:15 - 18:56）
+      - 『[イマナマ\!](https://ja.wikipedia.org/wiki/イマナマ! "wikilink")』■（月 - 金 14:55 - 18:56。中断16:50 - 18:15「Nスタ」。ローカルニュースは18:15 - 18:56）
       - キャスター：[青山高治](../Page/青山高治.md "wikilink")、[河村綾奈](https://ja.wikipedia.org/wiki/河村綾奈 "wikilink")
       - ニュースキャスター：[小林康秀](../Page/小林康秀.md "wikilink")、[中根夕希](https://ja.wikipedia.org/wiki/中根夕希 "wikilink")
       - 天気キャスター：[岸真弓](https://ja.wikipedia.org/wiki/岸真弓 "wikilink")（気象予報士）
@@ -155,13 +154,13 @@
 
 <!-- end list -->
 
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）
+  - [長崎放送](../Page/長崎放送.md "wikilink")（NBC）
       - 『[Pint](../Page/Pint.md "wikilink")』（月 - 金 16:50 - 19:00。ローカルニュースは18:15 - 19:00。祝日は前半部を単発特番へ差し替え・または「Nスタ」を15:49 - 18:15まで臨時にフルネットし、本編を18:15 - 19:00へ枠小する場合あり）
       - キャスター：[大倉聡](../Page/大倉聡.md "wikilink")、[染矢すみれ](https://ja.wikipedia.org/wiki/染矢すみれ "wikilink")
       - フィールドキャスター：[住吉光](https://ja.wikipedia.org/wiki/住吉光 "wikilink")、[甲斐田貴之](../Page/甲斐田貴之.md "wikilink")、[平地真菜](https://ja.wikipedia.org/wiki/平地真菜 "wikilink")、[山崎菜緒](https://ja.wikipedia.org/wiki/山崎菜緒 "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）
       - 『[夕方Live ゲツキン\!](https://ja.wikipedia.org/wiki/夕方Live_ゲツキン! "wikilink")』■（月 - 金 18:15 - 18:55）
-      - キャスター：[吉田明央](https://ja.wikipedia.org/wiki/吉田明央 "wikilink") 、[福居万里子](https://ja.wikipedia.org/wiki/福居万里子 "wikilink")、ほか
+      - キャスター：[吉田明央](https://ja.wikipedia.org/wiki/吉田明央 "wikilink")、[福居万里子](https://ja.wikipedia.org/wiki/福居万里子 "wikilink")、ほか
   - [大分放送](../Page/大分放送.md "wikilink")（OBS）
       - 『[OBSイブニングニュース](https://ja.wikipedia.org/wiki/OBSイブニングニュース "wikilink")』■（月 - 金 18:15 - 18:55\[8\]）
       - キャスター：[村津孝仁](https://ja.wikipedia.org/wiki/村津孝仁 "wikilink")、[井口尚子](../Page/井口尚子.md "wikilink")、[飯倉寛子](https://ja.wikipedia.org/wiki/飯倉寛子 "wikilink")、ほか
@@ -302,7 +301,7 @@
 2.  2016年9月まで『[TUF NEWS LIVE スイッチ\!](https://ja.wikipedia.org/wiki/TUF_NEWS_LIVE_スイッチ! "wikilink")』
 3.  2017年9月まで『[キャッチあい](../Page/キャッチあい.md "wikilink")』
 4.  2016年3月まで『[報道センターNBC](../Page/報道センターNBC.md "wikilink")』
-5.  2020年5月4日 - 6日は新型コロナウィルス感染拡大防止のため18:25までに枠小。
-6.  [新型コロナウィルス緊急事態宣言発令に伴い](../Page/2019新型コロナウイルス.md "wikilink")、2020年4月13日からは「[おうちにいようよ　ちちんぷいぷい&ミント\!](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")」と題し13:55 - 19:00枠を一体化させている（14～17時台に放送したニュース項目も一部動画配信。中断17:50 - 18:15「Nスタ」。祝日は13:55 - 16:50枠を単発特番に差し替え、16:50 - 17:50まで「Nスタ第2部」を臨時ネットし、本編を18:15- 19:00に枠小する場合あり）。
+5.  2020年5月4日 - 6日は、新型コロナウィルス感染拡大防止のため18:25までに枠小された。
+6.  [新型コロナウイルス緊急事態宣言発令に伴い](../Page/2019新型コロナウイルス.md "wikilink")、2020年4月13日からは「[おうちにいようよ ちちんぷいぷい&ミント\!](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")」と題し13:55 - 19:00枠を一体化させている（14～17時台に放送したニュース項目も一部動画配信。中断17:50 - 18:15「Nスタ」。祝日は13:55 - 16:50枠を単発特番に差し替え、16:50 - 17:50まで「Nスタ第2部」を臨時ネットし、本編を18:15- 19:00に枠小する場合あり）。
 7.  13:55 - 15:49枠で編成の本家「今日感テレビ」は新型コロナウィルス陽性が確認された出演者がおり、かつ緊急事態宣言が福岡・佐賀両県を含む全国に拡大されたため、2020年4月6日より無期休止とする措置が採られており、当該時間帯はCBCテレビ制作「[ゴゴスマ](https://ja.wikipedia.org/wiki/ゴゴスマ "wikilink")」を臨時ネット(但し本編は15:40にて飛び降り、15:49まで「RKBヘッドライン」を臨時編成して福岡・佐賀両県の新型コロナ関連情報を放送）。本家「今日感」スタッフは当面夕方ニュース部に集中配置して感染拡大防止と安全確保を図っている（参照サイト：『[今日感テレビ休止継続について](https://rkb.jp/kyokan/)』）。なお兄弟番組「[今日感モーニング](https://ja.wikipedia.org/wiki/今日感モーニング "wikilink")（月 - 金9:55 - 10:25）」・「[サンデーウォッチ](https://ja.wikipedia.org/wiki/サンデーウォッチ "wikilink")（日10:30 - 11:24）」・「今日感テレビ日曜版（日12:54 - 13:57）」は通常通り放送されている（但しラテ兼用サテスタ「天神きらめき通りスタジオ」は新型コロナウィルス感染拡大防止の観点から無期使用停止中のため、同スタジオを使用する番組は全てRKB本社スタジオからの放送に変更）。
-8.  OBSの社員・役員2名が新型コロナウィルス陽性となったため、2020年4月20日から5月6日までは18:25までに枠小されている（参照サイト「[OBS社員・役員の新型コロナウィルス感染対応について](http://www.e-obs.com/)」）。
+8.  OBSの社員・役員2名が新型コロナウィルス陽性となったため、2020年4月20日から5月6日までは18:25までに枠小された（参照サイト「[OBS社員・役員の新型コロナウィルス感染対応について](http://www.e-obs.com/)」）。

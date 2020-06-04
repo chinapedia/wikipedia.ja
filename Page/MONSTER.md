@@ -1191,8 +1191,10 @@ Magnificient Steiner</p></td>
 ## 外部リンク
 
   - [MONSTER｜日本テレビ](http://www.ntv.co.jp/monster/)
-  - [MONSTER｜日テレオンデマンド](http://vod.ntv.co.jp/program/monster/)
+
+  -
   - [MONSTER｜VAP](http://www.vap.co.jp/monster/)
+
   - [MONSTER](https://www.allcinema.net/cinema/319970) - allcinema
 
 [Category:浦沢直樹](https://ja.wikipedia.org/wiki/Category:浦沢直樹 "wikilink") [Category:漫画作品_も](https://ja.wikipedia.org/wiki/Category:漫画作品_も "wikilink") [Category:ビッグコミックオリジナル](https://ja.wikipedia.org/wiki/Category:ビッグコミックオリジナル "wikilink") [Category:サスペンス漫画](https://ja.wikipedia.org/wiki/Category:サスペンス漫画 "wikilink") [Category:サイコスリラー漫画](https://ja.wikipedia.org/wiki/Category:サイコスリラー漫画 "wikilink") [Category:医療漫画](https://ja.wikipedia.org/wiki/Category:医療漫画 "wikilink") [Category:医師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:医師を主人公とした漫画作品 "wikilink") [Category:ドイツを舞台とした作品](https://ja.wikipedia.org/wiki/Category:ドイツを舞台とした作品 "wikilink") [Category:社会問題を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:社会問題を題材とした漫画作品 "wikilink") [Category:アニメ作品_も](https://ja.wikipedia.org/wiki/Category:アニメ作品_も "wikilink") [Category:2004年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2004年のテレビアニメ "wikilink") [Category:日本テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜アニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:バップのアニメ作品](https://ja.wikipedia.org/wiki/Category:バップのアニメ作品 "wikilink") [Category:ビッグコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビッグコミックスのアニメ作品 "wikilink") [Category:サスペンスアニメ](https://ja.wikipedia.org/wiki/Category:サスペンスアニメ "wikilink") [Category:サイコスリラーアニメ](https://ja.wikipedia.org/wiki/Category:サイコスリラーアニメ "wikilink") [Category:医療を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:医療を題材としたアニメ作品 "wikilink") [Category:社会問題を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:社会問題を題材としたアニメ作品 "wikilink")

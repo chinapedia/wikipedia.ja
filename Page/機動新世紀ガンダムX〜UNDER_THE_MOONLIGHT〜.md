@@ -255,4 +255,4 @@
 
 ## 脚注
 
-[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:アフターウォー](https://ja.wikipedia.org/wiki/Category:アフターウォー "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink")
+[Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:2004年の漫画](https://ja.wikipedia.org/wiki/Category:2004年の漫画 "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:アフターウォー](https://ja.wikipedia.org/wiki/Category:アフターウォー "wikilink")

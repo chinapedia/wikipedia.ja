@@ -105,7 +105,7 @@
 
 </div>
 
-**[2020年](../Page/2020年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")現在**      ★                   ★
+**[2020年](../Page/2020年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")現在**      ★                    ★
 
   - [監督](../Page/監督.md "wikilink")
 

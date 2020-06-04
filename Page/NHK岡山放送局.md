@@ -626,6 +626,13 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 </tbody>
 </table>
 
+## 民間放送との共同キャンペーン
+
+[2020年](../Page/2020年.md "wikilink")、[新型コロナウイルスの流行に伴い感染予防を呼びかけるキャンペーンを民間放送各局と展開](../Page/2019新型コロナウイルス.md "wikilink")。テレビでは岡山県と香川県\[9\]、ラジオでは岡山県の各局と展開。また、テレビにおいては四国ブロックの[NHK高松放送局](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")も参加している。参加局などは以下のとおり（いずれも2020年時点）。
+
+  - テレビ ：岡山県（[伊原木隆太](https://ja.wikipedia.org/wiki/伊原木隆太 "wikilink")）、香川県（[浜田恵造](https://ja.wikipedia.org/wiki/浜田恵造 "wikilink")）、NHK岡山放送局（望月啓太）、NHK高松放送局（[五味哲太](../Page/五味哲太.md "wikilink")）、[西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")（[松田愛里](https://ja.wikipedia.org/wiki/松田愛里 "wikilink")）、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（[白戸ゆめの](https://ja.wikipedia.org/wiki/白戸ゆめの "wikilink")）、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（岡田美奈子）、[テレビせとうち](../Page/テレビせとうち.md "wikilink")（[中島有香](../Page/中島有香.md "wikilink")）、[岡山放送](../Page/岡山放送.md "wikilink")（[森夏美](https://ja.wikipedia.org/wiki/森夏美_\(香川県出身\) "wikilink")）
+  - ラジオ：NHK岡山放送局、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、[岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")、[岡山シティエフエム](../Page/岡山シティエフエム.md "wikilink")
+
 ## 脚注
 
 ## 関連項目
@@ -636,8 +643,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 
   - [NHK岡山放送局](https://www.nhk.or.jp/okayama/)
 
-  - （公式アカウント）
-
+  -
 [Category:NHK岡山](https://ja.wikipedia.org/wiki/Category:NHK岡山 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:中国地方のテレビ局](https://ja.wikipedia.org/wiki/Category:中国地方のテレビ局 "wikilink") [Category:中国地方のラジオ局](https://ja.wikipedia.org/wiki/Category:中国地方のラジオ局 "wikilink")
 
 1.  現在の岡山市中区赤坂台。
@@ -648,3 +654,4 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 6.  旧放送会館は移転後に岡山市に売却された後、旧放送会館に隣接する心臓病センター榊原病院に借用され、2007年5月から同病院別館（事務棟）として2012年9月まで使用されていた。その後は取り壊され、2020年3月現在は有料駐車場（烏城二の丸パーキング）となっている。
 7.  2006年12月1日 - 2007年6月30日までは、[広島放送局のワンセグ放送をそのまま放送](../Page/NHK広島放送局.md "wikilink")。
 8.  但し、県内での市町村長選挙関連のニュース放送時は、『[ニュースちゅうごく645](https://ja.wikipedia.org/wiki/ひろしまニュース645 "wikilink")』内の中国地方の気象情報（18:55 - 18:58）を臨時に県内のニュース・気象情報に差し替えとなる（極稀に番組全編を県内向けに差し替える場合がある〈[岡山県知事選及び](https://ja.wikipedia.org/wiki/岡山県知事一覧#選挙結果 "wikilink")[岡山市](../Page/岡山市.md "wikilink")長選時の対応は未定〉）。
+9.

@@ -501,6 +501,9 @@ MULTI MAX '89</strong></p></th>
 <tr class="even">
 <td><p>12月24日</p></td>
 </tr>
+<tr class="odd">
+<td><p>12月26日</p></td>
+</tr>
 </tbody>
 </table>
 

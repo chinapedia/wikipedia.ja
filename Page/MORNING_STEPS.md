@@ -120,7 +120,7 @@
 <!-- end list -->
 
   -
-    地元横浜のプロ野球チーム [横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")応援コーナー\[14\]。
+    地元横浜のプロ野球チーム [横浜ベイスターズ応援コーナー](../Page/横浜DeNAベイスターズ.md "wikilink")\[14\]。
 
 <!-- end list -->
 

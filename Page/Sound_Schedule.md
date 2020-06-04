@@ -1,7 +1,7 @@
 > この記事は[Sound Schedule](https://ja.wikipedia.org/wiki/Sound_Schedule)から翻訳されています。
 
 
-**Sound Schedule**（サウンド スケジュール）は、日本の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")結成、[2006年](../Page/2006年.md "wikilink")一旦解散。[2011年](../Page/2011年.md "wikilink")再結成。略称**サウスケ**。
+**Sound Schedule**（サウンド スケジュール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")結成、[2006年](../Page/2006年.md "wikilink")一旦解散。[2011年](../Page/2011年.md "wikilink")再結成。略称**サウスケ**。
 
 ## メンバー
 

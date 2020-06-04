@@ -553,7 +553,7 @@
   - サンライズ
       - [Z.O.E Dolores,i](http://www.sunrise-inc.co.jp/works/list/detail.php?cid=99)
 
-[Category:アニメ作品_そ](https://ja.wikipedia.org/wiki/Category:アニメ作品_そ "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:サンライズのロボットアニメ](https://ja.wikipedia.org/wiki/Category:サンライズのロボットアニメ "wikilink") [Category:コナミのアニメ・特撮作品](https://ja.wikipedia.org/wiki/Category:コナミのアニメ・特撮作品 "wikilink") [Category:コンピュータゲームを原作とするアニメ作品](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを原作とするアニメ作品 "wikilink") [Category:バップのアニメ作品](https://ja.wikipedia.org/wiki/Category:バップのアニメ作品 "wikilink") [Category:ZONE_OF_THE_ENDERS](https://ja.wikipedia.org/wiki/Category:ZONE_OF_THE_ENDERS "wikilink")
+[Category:アニメ作品_そ](https://ja.wikipedia.org/wiki/Category:アニメ作品_そ "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:サンライズのロボットアニメ](https://ja.wikipedia.org/wiki/Category:サンライズのロボットアニメ "wikilink") [Category:コナミのコンピュータゲームを原作とするアニメ作品](https://ja.wikipedia.org/wiki/Category:コナミのコンピュータゲームを原作とするアニメ作品 "wikilink") [Category:バップのアニメ作品](https://ja.wikipedia.org/wiki/Category:バップのアニメ作品 "wikilink") [Category:ZONE_OF_THE_ENDERS](https://ja.wikipedia.org/wiki/Category:ZONE_OF_THE_ENDERS "wikilink")
 
 1.  [コトブキヤZ.O.Eシリーズ第6弾で待望の女性型オービタルフレーム「ドロレス」登場](http://news.mynavi.jp/news/2014/04/25/620/)毎日新聞公式ホームページ
 2.  [Z.O.E Dolores,i](http://www.sunrise-inc.co.jp/works/list/detail.php?cid=99)

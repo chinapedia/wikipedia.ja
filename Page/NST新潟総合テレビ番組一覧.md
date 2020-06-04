@@ -10,9 +10,9 @@
   - [スマイルナビゲーション](https://ja.wikipedia.org/wiki/NSTくらしの情報 "wikilink")（月 - 金曜 11:20 - 11:25、日曜 14:55 - 15:00）
   - [NST Newsタッチ](../Page/NST_Newsタッチ.md "wikilink")（月曜 - 金曜 18:14 - 19:00）
   - [FNN・NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（土曜 - 日曜 17:30 - 18:00）
-  - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50 再放送・金曜 25:00 - 26:00）
+  - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50 再放送・金曜 25:00 - 26:00、※2020年5月8日より放送休止）
   - [NSTこんやのニュース](../Page/NSTニュース.md "wikilink")（日曜 21:48 - 21:54、月曜 - 土曜 20:54 - 21:00、2015年3月までは『NSTニュース』）
-  - [八千代 A GO\!GO\!](https://ja.wikipedia.org/wiki/八千代_A_GO!GO! "wikilink")（金曜 22:52 - 23:00　八千代コースターの姉妹番組）
+  - [八千代 A GO\!GO\!](https://ja.wikipedia.org/wiki/八千代_A_GO!GO! "wikilink")（金曜 22:52 - 23:00、八千代コースターの姉妹番組）
   - [八千代コースター](https://ja.wikipedia.org/wiki/八千代コースター "wikilink")（土曜 10:25 - 11:15）
   - [シネマスタジアム](https://ja.wikipedia.org/wiki/シネマスタジアム "wikilink")（第2土曜、第4土曜 14:55 - 15:00 ※時間変更の場合あり）
   - [県からのお知らせ](../Page/新潟県.md "wikilink")（土曜 12:55 - 13:00）

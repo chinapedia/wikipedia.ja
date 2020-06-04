@@ -40,4 +40,9 @@
   - サキ
     希咲の先祖である刀[鍛冶](../Page/鍛冶.md "wikilink")。鬼を斬り続けることと引き換えに、心を売った女性。その後は不明だが恐らく鬼になったと思われる。
 
+## 書誌情報
+
+1.  2005年9月15日、ISBN 4-08-856638-6
+2.  2006年1月13日、ISBN 4-08-856662-9
+
 [Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink") [Category:りぼんの漫画作品](https://ja.wikipedia.org/wiki/Category:りぼんの漫画作品 "wikilink")

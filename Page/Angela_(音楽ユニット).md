@@ -5,7 +5,7 @@
 
 ## 人物
 
-ライブやイベントではatsukoによる**「[atsukoにおまかせ！](../Page/アッコにおまかせ!.md "wikilink")」**\[1\]、KATSUによる『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』のギレンの演説**「ジーク・ジオン！」**（**「あえて言おう、KATSUであると」**と続く）」のコール＆レスポンスが定番となっている。また近年では自己紹介時に[アイドルマスター](../Page/THE_IDOLM@STER.md "wikilink")(例：angelaマスター、[angelaマスターシンデレラガールズなど](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink"))や、[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")、[ALTIMA](https://ja.wikipedia.org/wiki/ALTIMA "wikilink")、[GARNiDELiA](https://ja.wikipedia.org/wiki/GARNiDELiA "wikilink")、[ゆいかおり](https://ja.wikipedia.org/wiki/ゆいかおり "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[A応P](https://ja.wikipedia.org/wiki/A応P "wikilink")（angela応援Project）、などアニメソング関係者を名乗るネタMCが浸透している。\[2\]また、近畿圏でのライブ・イベントでは「[六甲おろし](../Page/阪神タイガースの歌.md "wikilink")」を歌唱するのも恒例となっている。 ライブのサポートメンバーとして、小島“じんぼちゃん”億洋(Dr)、Buono(極悪いちご団メンバー・Ba)、BeBe(Key)、荒井尊(マニピュレーター)が参加する。
+ライブやイベントではatsukoによる**「[atsukoにおまかせ！](../Page/アッコにおまかせ!.md "wikilink")」**\[1\]、KATSUによる『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』のギレンの演説**「ジーク・ジオン！」**（**「あえて言おう、KATSUであると」**と続く）」のコール＆レスポンスが定番となっている。また近年では自己紹介時に[アイドルマスター](../Page/THE_IDOLM@STER.md "wikilink")(例：angelaマスター、[angelaマスターシンデレラガールズなど](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink"))や、[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")、[ALTIMA](https://ja.wikipedia.org/wiki/ALTIMA "wikilink")、[GARNiDELiA](https://ja.wikipedia.org/wiki/GARNiDELiA "wikilink")、[ゆいかおり](https://ja.wikipedia.org/wiki/ゆいかおり "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[A応P](https://ja.wikipedia.org/wiki/A応P "wikilink")（angela応援Project）、などアニメソング関係者を名乗るネタMCが浸透している\[2\]。また、近畿圏でのライブ・イベントでは「[六甲おろし](../Page/阪神タイガースの歌.md "wikilink")」を歌唱するのも恒例となっている。 ライブのサポートメンバーとして、小島“じんぼちゃん”億洋(Dr)、Buono(極悪いちご団メンバー・Ba)、BeBe(Key)、荒井尊(マニピュレーター)が参加する。
 
 2017年からはatsukoにそっくりな**アイドルあっちゃん**（事務所の後輩であっちゃん星のオムライス村からやってきた17歳のアイドルという設定）が登場。
 
@@ -20,7 +20,7 @@
   - [1999年](../Page/1999年.md "wikilink")
       - 5月 ANGELA名義でシングル「**memories**」（[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[神八剣伝](../Page/神八剣伝.md "wikilink")』のOPテーマ）を[ワーナーミュージック](https://ja.wikipedia.org/wiki/ワーナーミュージック "wikilink") / ドリームマシーンから発売し、最初のメジャーデビューを果たす。この楽曲は長らく完全封印されていたが、2017年のangela初となる武道館単独公演で18年ぶりに披露された。KATSUはこの武道館公演MCで、『辛かった当時を思い出すから自分が作った曲の中で唯一嫌いだった。でもみんなのおかげで好きになった』と語った。
   - [2000年](../Page/2000年.md "wikilink")
-      - 5月\[4\] 事務所を独立して、現在の名前の**angela**に変わり、[インディーズ](../Page/インディーズ.md "wikilink")に戻り、路上ライブ活動を開始する。
+      - 5月\[4\]事務所を独立して、現在の名前の**angela**に変わり、[インディーズ](../Page/インディーズ.md "wikilink")に戻り、路上ライブ活動を開始する。
   - [2002年](../Page/2002年.md "wikilink")
       - 活動が現レコード会社（キングレコード株式会社）プロデューサー・中西豪の目に止まる。
   - [2003年](../Page/2003年.md "wikilink")
@@ -144,7 +144,8 @@
 
   - [2019年](../Page/2019年.md "wikilink")
 
-      - 5月22日、シングル『THE BEYOND』を発売予定。タイトル曲はテレビアニメ『蒼穹のファフナー』シリーズの最新作である『[蒼穹のファフナー THE BEYOND](https://ja.wikipedia.org/wiki/蒼穹のファフナー_THE_BEYOND "wikilink")』のオープニングテーマとして書き下ろされた。
+      - 5月22日、シングル『THE BEYOND』を発売。タイトル曲はテレビアニメ『蒼穹のファフナー』シリーズの最新作である『[蒼穹のファフナー THE BEYOND](https://ja.wikipedia.org/wiki/蒼穹のファフナー_THE_BEYOND "wikilink")』のオープニングテーマとして書き下ろされた。
+      - 12月30日、31日の2日間、2年ぶりとなる年末ライブ｢angelaのミュージック･ワンダー☆大サーカス2019｣を[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")(LINE CUBE SHIBUYA)にて開催した。
 
 ## ディスコグラフィ
 
@@ -181,8 +182,8 @@
 | 25th | 2015年11月11日 | **[DEAD OR ALIVE](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_\(angelaの曲\) "wikilink")**               | KICM-3304  | KICM-93304 |
 | 26th | 2017年7月5日   | **[全力☆Summer\!](https://ja.wikipedia.org/wiki/全力☆Summer! "wikilink")**                                 | KICM-1782  | KICM-91781 |
 | 27th | 2018年7月18日  | **[SURVIVE\!](https://ja.wikipedia.org/wiki/SURVIVE! "wikilink")**                                     | KICM-1854  | KICM-91853 |
-| 28th | 2019年5月22日  | **THE BEYOND**                                                                                         | KICM-1939  | KICM-91939 |
-|      |             |                                                                                                        |            |            |
+| 28th | 2019年5月22日  | **[THE BEYOND](https://ja.wikipedia.org/wiki/THE_BEYOND "wikilink")**                                  | KICM-1939  | KICM-91939 |
+| 29th | 2020年4月22日  | **[乙女のルートはひとつじゃない\!](https://ja.wikipedia.org/wiki/乙女のルートはひとつじゃない! "wikilink")**                       | KICM-2046  | KICM-92045 |
 
 #### コラボレーション・シングル
 
@@ -395,6 +396,8 @@
 
   - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")
       - [ラヴ・ランデヴー](https://ja.wikipedia.org/wiki/R_\(白石涼子のアルバム\) "wikilink")
+  - [JAM Project](../Page/JAM_Project.md "wikilink")
+      - HERE WE GO\!
   - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
       - [on my way](../Page/楽園_\(堀江由衣のアルバム\).md "wikilink")
       - [try again](../Page/楽園_\(堀江由衣のアルバム\).md "wikilink")
@@ -530,7 +533,7 @@
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:スターチャイルドのアーティスト](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアーティスト "wikilink") [Category:岡山市出身の人物](https://ja.wikipedia.org/wiki/Category:岡山市出身の人物 "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
 
-1.  2015年2月に「[おに魂](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")」に出演した際に「atsukoの自己紹介」として公募で決まった。[1](http://ameblo.jp/angela-official/entry-11987939962.html)
+1.  2015年2月に「[おに魂](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")」に出演した際に「atsukoの自己紹介」として公募で決まった[1](http://ameblo.jp/angela-official/entry-11987939962.html)。
 2.  [angela、“ここにいる”喜びを高らかに叫んだ10回目の「大サーカス」 - 音楽ナタリー](http://natalie.mu/music/news/171550)
 3.  [angela公式ブログ KATSUです。私事で大変恐縮ですが、、、](https://lineblog.me/angela_official/archives/1671083.html)
 4.  [angelaオフィシャルサイト バイオグラフィー](http://style-market.com/angela/bio.html)

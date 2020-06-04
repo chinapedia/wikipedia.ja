@@ -11,6 +11,8 @@
 
 年2回程度行われる放送設備の集中メンテナンス（保守・整備）のある週は地域によって停波（放送できない）となる場合があるため、その週の再々放送は金曜深夜（土曜未明）の1:00 - 2:15にも3本一括放送するため再放送が3回行われる形にて放映された。また通常通り放送する地域も、1:30に[ジャンクション映像を挿入](../Page/局名告知.md "wikilink")（休止地区はその旨のお知らせを放送）する関係上、2:01 - 2:26の放送に変更された。また2005年4月の再々放送は新編成に伴う処置として火曜日深夜2:00 - 2:50（月、火曜日放送分）、水曜日深夜2:00 - 2:25（水曜日放送分）で放送した。
 
+テーマ曲は[篠原敬介](https://ja.wikipedia.org/wiki/篠原敬介 "wikilink")が担当。
+
 ## テキスト
 
 各講義ごとのテキストが[日本放送出版協会](https://ja.wikipedia.org/wiki/日本放送出版協会 "wikilink")（NHK出版）より発行された\[1\]\[2\]\[3\]。
@@ -162,6 +164,8 @@
 
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")
   - [視点・論点](../Page/視点・論点.md "wikilink")
+  - [NHK市民大学](https://ja.wikipedia.org/wiki/NHK市民大学 "wikilink")
+  - [NHK人間大学](../Page/NHK人間大学.md "wikilink")
 
 [Category:NHK教育テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの帯番組の歴史 "wikilink") [Category:NHK教育テレビジョンの教養番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組の歴史 "wikilink") [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")
 

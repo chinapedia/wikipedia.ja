@@ -75,26 +75,20 @@
 
 ## スタッフ
 
+（オープニングクレジットより）
+
   - 企画 - [サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
-  - 原作 - [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
-  - 総監督 - 富野由悠季
-  - キャラクターデザイン - [逢坂浩司](../Page/逢坂浩司.md "wikilink")
+  - [原作](../Page/原作.md "wikilink") - [矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
+  - [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink") - [逢坂浩司](../Page/逢坂浩司.md "wikilink")
   - [メカニカルデザイン](../Page/メカニックデザイン.md "wikilink") - [大河原邦男](../Page/大河原邦男.md "wikilink")、[カトキハジメ](../Page/カトキハジメ.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")
-  - メカニカルデザイン協力 - [佐野浩敏](../Page/佐野浩敏.md "wikilink")
-  - 文芸設定 - [井上幸一](https://ja.wikipedia.org/wiki/井上幸一 "wikilink")
-  - 設定制作 - 河口佳高
-  - 色彩設定 - 小松佳江、中山昇
-  - 美術監督 - [池田繁美](https://ja.wikipedia.org/wiki/池田繁美 "wikilink")
-  - 撮影監督 - 奥井敦、大神洋一
+  - [美術監督](../Page/美術監督.md "wikilink") - [池田繁美](https://ja.wikipedia.org/wiki/池田繁美 "wikilink")
+  - [撮影監督](../Page/撮影監督.md "wikilink") - 奥井敦、大神洋一
   - 音楽 - [千住明](../Page/千住明.md "wikilink")
-  - 音響監督 - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
-  - 演奏 - キングレコード・フィルハーモニック・オーケストラ、[篠崎正嗣](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink")ストリングス
-  - 編集 - 鶴渕友彰
-  - プロデューサー - 小泉美明（テレビ朝日）、[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")（サンライズ）
-  - アシスタントプロデューサー - 望月真人
-  - 制作協力 - スタジオディーン
-  - 製作協力 - [電通](../Page/電通.md "wikilink")、[創通](../Page/創通.md "wikilink")エージェンシー
-  - 製作 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")、[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")
+  - [音響監督](../Page/音響監督.md "wikilink") - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
+  - 制作協力 - [電通](../Page/電通.md "wikilink")、[創通](../Page/創通.md "wikilink")エージェンシー
+  - [プロデューサー](../Page/プロデューサー.md "wikilink") - 小泉美明（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、[植田益朗](https://ja.wikipedia.org/wiki/植田益朗 "wikilink")（サンライズ）
+  - [総監督](https://ja.wikipedia.org/wiki/アニメ監督 "wikilink") - 富野由悠季
+  - [制作](https://ja.wikipedia.org/wiki/制作 "wikilink") - テレビ朝日、サンライズ
 
 ## 主題歌・挿入歌
 

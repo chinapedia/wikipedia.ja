@@ -1,7 +1,7 @@
 > この記事は[BI砲](https://ja.wikipedia.org/wiki/BI砲)から翻訳されています。
 
 
-**BI砲**（BIほう）とは、[1960年代](../Page/1960年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")初頭にかけて[日本プロレス](../Page/日本プロレス.md "wikilink")で活動した、**[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")**と**[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")**による[プロレス](../Page/プロレス.md "wikilink")の[タッグチーム](../Page/タッグチーム.md "wikilink")である。
+**BI砲**（BIほう）とは、[1960年代](../Page/1960年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")初頭にかけて[日本プロレス](../Page/日本プロレス.md "wikilink")で活動した、[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")と[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")による[プロレス](../Page/プロレス.md "wikilink")の[タッグチーム](../Page/タッグチーム.md "wikilink")である。
 
 「BI砲」の名称は、当時の[プロ野球](../Page/プロ野球.md "wikilink")界で[王貞治](../Page/王貞治.md "wikilink")（Oh）と[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")（Nagashima）のコンビが「[ON砲](https://ja.wikipedia.org/wiki/ON砲 "wikilink")」と呼ばれていたことから、馬場（Baba）と猪木の（Inoki）の頭文字を取って名付けられた。
 

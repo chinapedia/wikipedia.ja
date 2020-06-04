@@ -1,7 +1,7 @@
 > この記事は[A・A・ミルン](https://ja.wikipedia.org/wiki/A・A・ミルン)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:A_a_milne.jpg "wikilink") **アラン・アレクサンダー・ミルン**（**Alan Alexander Milne**, [1882年](../Page/1882年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")）は、[ロンドン](../Page/ロンドン.md "wikilink")生まれの[スコットランド](../Page/スコットランド.md "wikilink")人で、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[児童文学](../Page/児童文学.md "wikilink")作家、[ファンタジー](../Page/ファンタジー.md "wikilink")作家、[推理作家](../Page/推理作家.md "wikilink")、[詩人](../Page/詩人.md "wikilink")、[劇作家](../Page/劇作家.md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:A_a_milne.jpg "wikilink") **アラン・アレクサンダー・ミルン**（**Alan Alexander Milne**, [1882年](../Page/1882年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[児童文学](../Page/児童文学.md "wikilink")作家、[ファンタジー](../Page/ファンタジー.md "wikilink")作家、[推理作家](../Page/推理作家.md "wikilink")、[詩人](../Page/詩人.md "wikilink")、[劇作家](../Page/劇作家.md "wikilink")。
 
 日本では[童話](../Page/童話.md "wikilink")、[童謡](../Page/童謡.md "wikilink")の作品が有名。代表作は『[クマのプーさん](https://ja.wikipedia.org/wiki/クマのプーさん "wikilink")』シリーズ、『[赤い館の秘密](../Page/赤い館の秘密.md "wikilink")』など。
 

@@ -1,7 +1,7 @@
 > この記事は[木曜Junk さまぁ〜ずの逆にアレだろ!\?](https://ja.wikipedia.org/wiki/木曜Junk_さまぁ〜ずの逆にアレだろ!\?)から翻訳されています。
 
 
-**木曜Junk さまぁ〜ずの逆にアレだろ\!?**（もくようジャンク さまぁ〜ずのぎゃくにアレだろ\!?）は、[2002年](../Page/2002年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの2年間にわたり、[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[JRN系の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[木曜](https://ja.wikipedia.org/wiki/木曜 "wikilink")[Junk（現：JUNK）枠内で放送されていた](../Page/JUNK.md "wikilink")、お笑いコンビ・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。全104回放送。
+**木曜Junk さまぁ〜ずの逆にアレだろ\!?**（もくようジャンク さまぁ〜ずのぎゃくにアレだろ\!?）は、[2002年](../Page/2002年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの2年間にわたり、[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作・[JRN系の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[木曜](https://ja.wikipedia.org/wiki/木曜 "wikilink")[Junk（現：JUNK）枠内で放送されていた](../Page/JUNK.md "wikilink")、お笑いコンビ・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。全104回放送。
 
 [深夜放送](../Page/深夜放送.md "wikilink")特有の[下ネタ](../Page/下ネタ.md "wikilink")に輪をかけた下ネタで人気を博した。また[聴取率](../Page/聴取率.md "wikilink")調査週間（スペシャルウィーク）には「関東お笑い祭」「関東芸人祭」と称し、さまぁ〜ずと親交の深いお笑い芸人たち（[出川哲朗](../Page/出川哲朗.md "wikilink")、[ふかわりょう](../Page/ふかわりょう.md "wikilink")など）をゲストに招くのが恒例だった。
 
@@ -20,7 +20,7 @@
 
 ### 放送局
 
-  - [TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")
+  - [TBSラジオ](../Page/TBSラジオ.md "wikilink")
   - [北海道放送](../Page/HBCラジオ.md "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")
   - [琉球放送](../Page/琉球放送.md "wikilink")
@@ -66,7 +66,7 @@
   - 有名人のひとりごと
     2002年08月22日(第21回)と2003年12月18日(第90回)に行われた特別コーナー。有名人が言っていたひとりごとを募集。 (2002年8月22日 2003年12月18日)
   - 頑張れ種田
-    [横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の[種田仁](../Page/種田仁.md "wikilink")を応援して皆で[種出しちゃおうという本格的野球コーナー](../Page/オナニー.md "wikilink")。横浜ベイスターズの球団歌「熱き星たちよ」の替え歌をバックにリスナーからの種田日記を紹介した。毎回コーナーの最後には種田の最新の打撃成績を伝えた。2003年4月3日(第53回)に月一コーナーとして復活するもその後は行われず。 (2002年8月22日 - 2002年10月24日 2003年4月3日)
+    [横浜ベイスターズの](../Page/横浜DeNAベイスターズ.md "wikilink")[種田仁](../Page/種田仁.md "wikilink")を応援して皆で[種出しちゃおうという本格的野球コーナー](../Page/オナニー.md "wikilink")。横浜ベイスターズの球団歌「熱き星たちよ」の替え歌をバックにリスナーからの種田日記を紹介した。毎回コーナーの最後には種田の最新の打撃成績を伝えた。2003年4月3日(第53回)に月一コーナーとして復活するもその後は行われず。 (2002年8月22日 - 2002年10月24日 2003年4月3日)
   - 熱闘ハガキ甲子園
     全国のリスナーを東京23区・東京都下・北海道・千葉県・埼玉県・神奈川県・沖縄県・他県(その他)の8ブロックに分けてトーナメント戦を行う。対戦テーマはお題の穴埋めなど。 (2002年9月12日 - 2003年5月8日 2004年1月29日 - 2004年3月18日)
   - 3年Bチク金一先生

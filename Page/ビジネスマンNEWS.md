@@ -7,7 +7,7 @@
 
 かつての東京12チャンネルが社名をテレビ東京に改めたのを機に放送を開始。東京12チャンネル時代には朝のニュース番組がなかったことから\[1\]、これが朝の時間帯への初進出ニュースとなった。
 
-一時期、[日本テレビ系列の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")やでも放送されていた。
+一時期、[日本テレビ系列の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[秋田放送](../Page/秋田放送.md "wikilink")やでも放送されていた。
 
 番組は主に、[ニューヨーク](../Page/ニューヨーク.md "wikilink")など海外の市況速報と、[日本経済新聞](../Page/日本経済新聞.md "wikilink")など日経4紙の記事紹介、ゲストへのインタビュー、その他のニュースと天気予報の紹介などによって構成されていた。当初は[富士通](../Page/富士通.md "wikilink")の一社提供で放送されていたが、途中から同社に加え、[丸三証券](../Page/丸三証券.md "wikilink")などの複数社提供となった。
 
@@ -114,7 +114,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p><a href="../Page/日本テレビ系列.md" title="wikilink">日本テレビ系列</a>（<a href="../Page/日本ニュースネットワーク.md" title="wikilink">NNN</a>）</p></td>
 <td><p>6:30 - 6:45<br />
 →6:30 - 6:55</p></td>

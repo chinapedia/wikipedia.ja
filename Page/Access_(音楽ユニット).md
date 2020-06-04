@@ -1,7 +1,7 @@
 > この記事は[Access \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\))から翻訳されています。
 
 
-**access**（アクセス）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")とボーカリスト[貴水博之](../Page/貴水博之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1992年](../Page/1992年.md "wikilink")にデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より活動を休止するが[2002年](../Page/2002年.md "wikilink")に活動再開。所属レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。所属事務所は[Darwin](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")（浅倉）、[Guan Barl](../Page/ぐあんばーる.md "wikilink")（貴水）。
+**access**（アクセス）は、音楽プロデューサーとしても知られるキーボーディストの[浅倉大介](../Page/浅倉大介.md "wikilink")とボーカリスト[貴水博之](../Page/貴水博之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1992年](../Page/1992年.md "wikilink")にデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より活動を休止するが[2002年](../Page/2002年.md "wikilink")に活動再開。所属レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。所属事務所は[Darwin](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")（浅倉）、[Guan Barl](../Page/ぐあんばーる.md "wikilink")（貴水）。
 
 ## メンバー
 
@@ -296,6 +296,7 @@
 
   - 4月24日、配信限定シングル『Sync Parade 2020』をリリース。
   - 5月4日〜6月26日、ライブツアー「access ELECTRIC NIGHT 2020」（11都市13公演）を行う。
+  - 6月11日、配信限定シングル『Virgin Emotion DTC MIX ver.2020』をリリース。
 
 ## ディスコグラフィ
 
@@ -619,6 +620,7 @@
 | 2011年5月14日                                | CATCH THE RAINBOW 2011（Pray For Japan Version） | （D） |
 | [2019年](../Page/2019年.md "wikilink")3月17日 | Grateful Circle                                | （D） |
 | [2020年](../Page/2020年.md "wikilink")4月24日 | Sync Parade 2020                               | （D） |
+| 2020年6月11日                                | Virgin Emotion DTC MIX ver.2020                | （D） |
 
 ### アルバム
 

@@ -54,7 +54,7 @@
 <!-- end list -->
 
   - 2月28日、6thシングル『[PURE](https://ja.wikipedia.org/wiki/PURE "wikilink")』を発売。
-  - 4月24日、3rdアルバム『[LIFE](https://ja.wikipedia.org/wiki/LIFE "wikilink")』を発売。
+  - 4月24日、3rdアルバム『[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(X.Y.Z.→Aのアルバム\) "wikilink")』を発売。
   - 4月、X.Y.Z.→A WORLD TOUR2002 「THE 無礼講 \~Life goes on\~」を開始。
   - 6月、『[日中国交正常化](../Page/日中国交正常化.md "wikilink")30周年記念イベント』（[日本大使館](https://ja.wikipedia.org/wiki/日本大使館 "wikilink")主催）にて、ロック親善大使として[北京に招待された](../Page/北京市.md "wikilink")。
   - 7月、『Hong Kong International Rock Festival 2002』にて、日本代表として[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に招待された。
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 6月4日、4thアルバム『[IV](https://ja.wikipedia.org/wiki/IV "wikilink")』を発売。
+  - 6月4日、4thアルバム『[IV](https://ja.wikipedia.org/wiki/IV_\(X.Y.Z.→Aのアルバム\) "wikilink")』を発売。
   - 6月6日から翌年9月11日まで1都1道2府43県TOUR「X.Y.Z.→A is coming to your town tour 2003\~2004」を行う。
   - 8月、[韓国における](../Page/大韓民国.md "wikilink")「2003大邱夏季ユニバーシアード大会」の『“OK\! Crazy\!\! World Rock Festival”』に、[BOW WOWと共に参加した](https://ja.wikipedia.org/wiki/BOW_WOW "wikilink")。
 

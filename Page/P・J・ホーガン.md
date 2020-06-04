@@ -1,7 +1,7 @@
 > この記事は[P・J・ホーガン](https://ja.wikipedia.org/wiki/P・J・ホーガン)から翻訳されています。
 
 
-**P・J・ホーガン**（**P.J. Hogan**, [1962年](../Page/1962年.md "wikilink") - ）は、[オーストラリア](../Page/オーストラリア.md "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")である。
+**P・J・ホーガン**（P.J. Hogan、[1962年](../Page/1962年.md "wikilink") - ）は、[オーストラリア](../Page/オーストラリア.md "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")である。
 
 ## 略歴
 
@@ -17,8 +17,6 @@
   - [夢見る頃を過ぎても](https://ja.wikipedia.org/wiki/夢見る頃を過ぎても_\(映画\) "wikilink") *Unconditional Love* (2002)
   - [ピーター・パン](https://ja.wikipedia.org/wiki/ピーター・パン_\(2003年の映画\) "wikilink") *Peter Pan* (2003)
   - [お買いもの中毒な私\!](https://ja.wikipedia.org/wiki/お買いもの中毒な私! "wikilink") *Confessions of a Shopaholic* (2009)
-
-## 脚注
 
 ## 外部リンク
 

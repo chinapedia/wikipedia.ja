@@ -217,7 +217,7 @@ HD版は省略する。
   - [SMEE OFFICIAL WEB SITE](http://www.hook-net.jp/smee/)
 
   -
-[Category:HOOKSOFT](https://ja.wikipedia.org/wiki/Category:HOOKSOFT "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
+[Category:HOOKSOFT](https://ja.wikipedia.org/wiki/Category:HOOKSOFT "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink")
 
 1.
 2.

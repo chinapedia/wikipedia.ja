@@ -24,6 +24,7 @@ STATE STREET BANK WEST CLIENT － TREATY 505234 1.65%
 [伊奈輝三](https://ja.wikipedia.org/wiki/伊奈輝三 "wikilink")（元INAX社長）
 [水谷千加古](https://ja.wikipedia.org/wiki/水谷千加古 "wikilink")（元社長）
 [杉野正博](https://ja.wikipedia.org/wiki/杉野正博 "wikilink")（元社長）
+[三浦善司](https://ja.wikipedia.org/wiki/三浦善司 "wikilink")（元暫定CEO）
 [松崎正年](https://ja.wikipedia.org/wiki/松崎正年 "wikilink")（取締役会議長） |外部リンク= <https://www.lixil.com/jp/> |特記事項= }} **株式会社LIXILグループ**（リクシルグループ、）は、[サッシ](../Page/サッシ.md "wikilink")・建材・住宅機器メーカーを傘下とする[持株会社](../Page/持株会社.md "wikilink")。
 
 ## 概要

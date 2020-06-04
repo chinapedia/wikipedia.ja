@@ -231,7 +231,7 @@
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 10:30 - 11:00\[7\]
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")：日曜 18:30 - 19:00\[8\]
   - [長野放送](../Page/長野放送.md "wikilink")：金曜 16:15 - 16:45\[9\]
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")：日曜 18:30 - 19:00\[10\]
+  - [北日本放送](../Page/北日本放送.md "wikilink")：日曜 18:30 - 19:00\[10\]
   - [福井放送](../Page/福井放送.md "wikilink")：日曜 18:30 - 19:00\[11\]
   - [福岡放送](../Page/福岡放送.md "wikilink")：日曜 18:30 - 19:00\[12\]
 

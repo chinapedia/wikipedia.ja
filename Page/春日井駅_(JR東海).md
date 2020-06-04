@@ -176,6 +176,10 @@ Kasugai Station-South Gate.jpg|南口 Kasugai Station-TicketGate.jpg|橋上改�
 <td><p>2017年</p></td>
 <td><p>15,818</p></td>
 </tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>15,819</p></td>
+</tr>
 </tbody>
 </table>
 

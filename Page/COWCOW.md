@@ -192,6 +192,8 @@
   -
   -
   -
+＊COWCOW公式チャンネル　https://www.youtube.com/channel/UCdJxIr3VR_NY9Ga91tfAAzw
+
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")
 
 1.

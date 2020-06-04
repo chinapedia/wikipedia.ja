@@ -1,7 +1,9 @@
 > この記事は[MiG-9 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-9_\(航空機\))から翻訳されています。
 
 
-**MiG-9**(ミグ9；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>ミーグ・ヂェーヴャチ</small>)は、[ソ連最初の実用ジェット機](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。[1946年](../Page/1946年.md "wikilink")初飛行。[DoDが割り当てたコードネームは](../Page/アメリカ国防総省.md "wikilink")**Type 1**。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**ファーゴ** (Fargo)。
+**MiG-9**（*Mikoyan-Gurevich MiG-9* ミグ9 / [露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink") : **** ）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミコヤン・グレヴィッチ設計局が開発し](../Page/MiG.md "wikilink")、[ソ連空軍](../Page/ソ連空軍.md "wikilink")や[中国空軍で運用された](../Page/中国人民解放軍空軍.md "wikilink")[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。
+
+[ソ連初の実用ジェット機](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。[DoDが割り当てたコードネームは](../Page/アメリカ国防総省.md "wikilink")**Type 1**。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**ファーゴ** (Fargo)。
 
 ## 概要
 

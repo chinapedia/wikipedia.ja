@@ -68,7 +68,6 @@ MiG 17-AS.jpg|MiG-17AS MIG-17-hatzerim-1.jpg|MiG-17F F5 (Chinese version of the 
 
 ## 外部リンク
 
-  -
 [Category:ソ連・ロシアの戦闘機](https://ja.wikipedia.org/wiki/Category:ソ連・ロシアの戦闘機 "wikilink") [Category:チェコスロバキアの航空機](https://ja.wikipedia.org/wiki/Category:チェコスロバキアの航空機 "wikilink") [Category:ポーランドの航空機](https://ja.wikipedia.org/wiki/Category:ポーランドの航空機 "wikilink") [Category:ミコヤン・グレヴィッチ設計局の航空機](https://ja.wikipedia.org/wiki/Category:ミコヤン・グレヴィッチ設計局の航空機 "wikilink") [Category:ベトナム戦争](https://ja.wikipedia.org/wiki/Category:ベトナム戦争 "wikilink")
 
 1.

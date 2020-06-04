@@ -234,7 +234,7 @@
 
 ### 2001年
 
-  - [ストロベリー・オンザ・ショートケーキ](../Page/ストロベリー・オンザ・ショートケーキ.md "wikilink")（1月12日 - 3月16日、主演：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink") 共演：[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")）
+  - [ストロベリー・オンザ・ショートケーキ](../Page/ストロベリー・オンザ・ショートケーキ.md "wikilink")（1月12日 - 3月16日、主演：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")、[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink") 共演：[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、[窪塚洋介](../Page/窪塚洋介.md "wikilink")）
   - [昔の男](../Page/昔の男.md "wikilink")（4月13日 - 6月29日、主演：藤原紀香、[大沢たかお](../Page/大沢たかお.md "wikilink")）製作：テレパック。\[6\]
   - [世界で一番熱い夏](../Page/世界で一番熱い夏.md "wikilink")（7月6日 - 9月14日、主演：[岸谷五朗](../Page/岸谷五朗.md "wikilink")）
   - [恋を何年休んでますか](../Page/恋を何年休んでますか.md "wikilink")（10月19日 - 12月21日、主演：小泉今日子 共演：[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")）
@@ -264,19 +264,19 @@
 
   - [タイガー&ドラゴン](../Page/タイガー&ドラゴン_\(テレビドラマ\).md "wikilink")（4月15日 - 6月24日、主演：[長瀬智也](../Page/長瀬智也.md "wikilink")、岡田准一）
   - [ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")（7月8日 - 9月16日、原作：[三田紀房](../Page/三田紀房.md "wikilink") 主演：[阿部寛](../Page/阿部寛.md "wikilink") 共演：[長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")、山下智久、[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")、[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")）製作：[MMJ](../Page/メディアミックス・ジャパン.md "wikilink")
-  - [花より男子](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")（10月21日 - 12月16日、原作：[神尾葉子](../Page/神尾葉子.md "wikilink") 主演：[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink") 共演：松本潤）
+  - [花より男子](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")（10月21日 - 12月16日、原作：[神尾葉子](../Page/神尾葉子.md "wikilink") 主演：[井上真央](https://ja.wikipedia.org/wiki/井上真央 "wikilink") 共演：[松本潤](../Page/松本潤.md "wikilink")、[小栗旬](../Page/小栗旬.md "wikilink")、[松田翔太](../Page/松田翔太.md "wikilink")、[阿部力](../Page/阿部力.md "wikilink")）
 
 ### 2006年
 
   - [夜王](https://ja.wikipedia.org/wiki/夜王#夜王_〜YAOH〜 "wikilink")（1月13日-3月24日、原作：[倉科遼](../Page/倉科遼.md "wikilink")・[井上紀良](../Page/井上紀良.md "wikilink") 主演：[松岡昌宏](../Page/松岡昌宏.md "wikilink")）製作：ドリマックス・テレビジョン
   - [クロサギ](../Page/クロサギ_\(テレビドラマ\).md "wikilink")（4月14日 - 6月23日、原作：[夏原武](../Page/夏原武.md "wikilink")・[黒丸](https://ja.wikipedia.org/wiki/黒丸_\(漫画家\) "wikilink") 主演：[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")）
   - [タイヨウのうた](../Page/タイヨウのうた.md "wikilink")（7月14日 - 9月15日、主演：山田孝之 共演：[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")）
-  - [セーラー服と機関銃](../Page/セーラー服と機関銃.md "wikilink")（10月13日 - 11月24日、原作：[赤川次郎](../Page/赤川次郎.md "wikilink") 主演：[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")）
+  - [セーラー服と機関銃](../Page/セーラー服と機関銃.md "wikilink")（10月13日 - 11月24日、原作：[赤川次郎](../Page/赤川次郎.md "wikilink") 主演：長澤まさみ）
   - [笑える恋はしたくない](../Page/笑える恋はしたくない.md "wikilink")（12月1日 - 12月15日、主演：[山崎静代](../Page/山崎静代.md "wikilink") 共演：[河本準一](../Page/河本準一.md "wikilink")）
 
 ### 2007年
 
-  - [花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")（1月5日 - 3月16日、原作：神尾葉子 主演：井上真央 共演：松本潤）
+  - [花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")（1月5日 - 3月16日、原作：神尾葉子 主演：井上真央 共演：松本潤、小栗旬、松田翔太、阿部力）
   - [特急田中3号](../Page/特急田中3号.md "wikilink")（4月13日 - 6月22日、主演：[田中聖](../Page/田中聖.md "wikilink")）
   - [山田太郎ものがたり](https://ja.wikipedia.org/wiki/山田太郎ものがたり#テレビドラマ_日本版 "wikilink")（7月6日 - 9月14日、原作：[森永あい](../Page/森永あい.md "wikilink") 主演：二宮和也、[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")）
   - [歌姫](https://ja.wikipedia.org/wiki/歌姫_\(劇作品\)#テレビドラマ "wikilink")（10月12日 - 12月21日、主演：長瀬智也）
@@ -411,7 +411,7 @@
 | [愛媛県](../Page/愛媛県.md "wikilink")                                  | [あいテレビ](../Page/あいテレビ.md "wikilink")（itv）                             |                                                 |                   |            |         |
 | [高知県](../Page/高知県.md "wikilink")                                  | [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）                            |                                                 |                   |            |         |
 | [福岡県](../Page/福岡県.md "wikilink")                                  | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB）      |                                                 |                   |            |         |
-| [長崎県](../Page/長崎県.md "wikilink")                                  | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）            |                                                 |                   |            |         |
+| [長崎県](../Page/長崎県.md "wikilink")                                  | [長崎放送](../Page/長崎放送.md "wikilink")（NBC）                               |                                                 |                   |            |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）            |                                                 |                   |            |         |
 | [大分県](../Page/大分県.md "wikilink")                                  | [大分放送](../Page/大分放送.md "wikilink")（OBS）                               |                                                 |                   |            |         |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（mrt）            |                                                 |                   |            |         |
@@ -452,7 +452,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
 <td><p>[11]</p></td>
 </tr>
@@ -569,8 +569,8 @@
   - [テレビ高知](../Page/テレビ高知.md "wikilink")では、系列局でありながら一時期この番組をネットしていなかった。しかし、1996年春の改編で同局ゴールデン帯の独自差し替え枠の番組割り当て見直しが行われ、その結果本枠はTBS同時ネットに転換し、以降は同時ネットが行われる様になった。
   - 外部のプロダクションが制作した作品の場合、制作局TBSの権利失効後、以前の作品をTBS系列以外の[ローカル局](../Page/ローカル局.md "wikilink")において再放送されたことがある。
   - 過去に制作された作品の一部は、TBSのCS放送・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で再放送されたことがある。また、TBSの権利が失効した作品は[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")や[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")などのテレビドラマ専門のCS放送でも再放送されたこともある。
-  - 山陽放送、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](../Page/サービス放送.md "wikilink")を行っていた。
-  - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は2007年で放送打ち切り。それ以降『歌姫』と『エジソンの母』はそれぞれABS秋田放送が放送権を持つ。理由は本来放送される「TBS系木曜21時枠」が『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』」であるため（同番組はAKTが放映権を持つが、2007年10月 - 2008年3月の第8シリーズについては放送されなかった）。それ以降、秋田県での放送は1年間放送無く、2009年4月から1年遅れで[ABS秋田放送が](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")『Around40〜注文の多いオンナたち〜』と放送したが、同年12月に『流星の絆』を放送したのを最後にしばらく打ち切りが続いていたが、『夜行観覧車』で3年4か月振りの放送再開（同県では2013年4月放送開始）となった。以降は、不定期で平日の夕方\[16\]に遅れて放送されている。
+  - 山陽放送、[長崎放送](../Page/長崎放送.md "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](../Page/サービス放送.md "wikilink")を行っていた。
+  - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は2007年で放送打ち切り。それ以降『歌姫』と『エジソンの母』はそれぞれABS秋田放送が放送権を持つ。理由は本来放送される「TBS系木曜21時枠」が『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』」であるため（同番組はAKTが放映権を持つが、2007年10月 - 2008年3月の第8シリーズについては放送されなかった）。それ以降、秋田県での放送は1年間放送無く、2009年4月から1年遅れで[ABS秋田放送が](../Page/秋田放送.md "wikilink")『Around40〜注文の多いオンナたち〜』と放送したが、同年12月に『流星の絆』を放送したのを最後にしばらく打ち切りが続いていたが、『夜行観覧車』で3年4か月振りの放送再開（同県では2013年4月放送開始）となった。以降は、不定期で平日の夕方\[16\]に遅れて放送されている。
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[美少女H](https://ja.wikipedia.org/wiki/美少女H)から翻訳されています。
 
 
-『**美少女H**』（びしょうじょエイチ）シリーズは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")にかけて放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。
+『**美少女H**』（びしょうじょエイチ）シリーズは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")にかけて放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")シリーズ。放送時間は毎週月曜日25:10-25:40。
 
 ## 概要
 

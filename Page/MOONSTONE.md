@@ -135,6 +135,6 @@
   -
   -
   -
-[Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:MOONSTONE](https://ja.wikipedia.org/wiki/Category:MOONSTONE "wikilink")
+[Category:MOONSTONE](https://ja.wikipedia.org/wiki/Category:MOONSTONE "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
 1.  [PUSH\!\!](../Page/PUSH!!.md "wikilink") 2014年8月号 pp.30-37.

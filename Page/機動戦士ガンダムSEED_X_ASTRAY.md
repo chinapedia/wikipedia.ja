@@ -136,6 +136,6 @@
   - [機動戦士ガンダムSEED ASTRAYS PORTAL SITE](http://www.astrays.net/index.html)
       - [機動戦士ガンダムSEED ASTRAY](http://www.gundam-seed.net/astray/index.html)
 
-[Category:コズミック・イラ](https://ja.wikipedia.org/wiki/Category:コズミック・イラ "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
+[Category:コズミック・イラ](https://ja.wikipedia.org/wiki/Category:コズミック・イラ "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink") [Category:スーパーロボット大戦シリーズの参戦作品](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦シリーズの参戦作品 "wikilink")
 
 1.  連載時は同時掲載だった。

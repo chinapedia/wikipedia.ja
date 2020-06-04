@@ -1,7 +1,7 @@
 > この記事は[YZサーキット](https://ja.wikipedia.org/wiki/YZサーキット)から翻訳されています。
 
 
-'''YZサーキット '''（わいぜっと--）は、[岐阜県](../Page/岐阜県.md "wikilink")[瑞浪市](../Page/瑞浪市.md "wikilink")日吉町に存在した[自動車](../Page/自動車.md "wikilink")用[サーキット](../Page/サーキット.md "wikilink")。本コースが閉鎖された為、東コースのみ営業している。全国区の大会は、実施されていないが、ミニサーキットならではの[ドリフトコンテストなどの独自イベントが行われていた](../Page/ドリフト走行.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に「YZサーキット瑞浪」としてオープンした。[2005年](../Page/2005年.md "wikilink")2月コースを改修。このコース改修に従い、一般的にはほぼ同仕様の状態で約1秒程度、改修前よりラップタイムが短縮される傾向になっている。2008年8月には東コースとしてオープンさせた。一般には余り知られていないが、サーキット名になっているYZとは支配人のイニシャルである。
+'''YZサーキット '''（ワイゼットサーキット）は、[岐阜県](../Page/岐阜県.md "wikilink")[瑞浪市](../Page/瑞浪市.md "wikilink")日吉町に存在した[自動車](../Page/自動車.md "wikilink")用[サーキット](../Page/サーキット.md "wikilink")。本コースが閉鎖された為、東コースのみ営業している。全国区の大会は、実施されていないが、ミニサーキットならではの[ドリフトコンテストなどの独自イベントが行われていた](../Page/ドリフト走行.md "wikilink")。[1996年](../Page/1996年.md "wikilink")に「YZサーキット瑞浪」としてオープンした。[2005年](../Page/2005年.md "wikilink")2月コースを改修。このコース改修に従い、一般的にはほぼ同仕様の状態で約1秒程度、改修前よりラップタイムが短縮される傾向になっている。2008年8月には東コースとしてオープンさせた。一般には余り知られていないが、サーキット名になっているYZとは支配人のイニシャルである。
 
 ## コース
 
@@ -27,6 +27,5 @@
 
 ## 外部リンク
 
-  - [YZサーキット](http://www.yz-circuit.com/)
-
+  -
 [Category:岐阜県のスポーツ施設](https://ja.wikipedia.org/wiki/Category:岐阜県のスポーツ施設 "wikilink") [Category:日本のサーキット](https://ja.wikipedia.org/wiki/Category:日本のサーキット "wikilink") [Category:瑞浪市の建築物](https://ja.wikipedia.org/wiki/Category:瑞浪市の建築物 "wikilink") [Category:1996年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:1996年開設のスポーツ施設 "wikilink")

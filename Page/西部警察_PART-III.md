@@ -1,7 +1,7 @@
 > この記事は[西部警察 PART-III](https://ja.wikipedia.org/wiki/西部警察_PART-III)から翻訳されています。
 
 
-『**西部警察 PART-III**』（せいぶけいさつパートスリー）は、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作のアクションドラマである。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")～[1984年](../Page/1984年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で[日曜日](../Page/日曜日.md "wikilink")の20:00～20:54に放送された。なお最終回は『**[さよなら西部警察](https://ja.wikipedia.org/wiki/さよなら西部警察 "wikilink") 大門死す\!男達よ永遠に…**』と称し、10月22日の[月曜日](../Page/月曜日.md "wikilink")20:00より3時間スペシャルとして放送された。
+『**西部警察 PART-III**』（せいぶけいさつパートスリー）は、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")から[1984年](../Page/1984年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で[日曜日](../Page/日曜日.md "wikilink")の20時00分 - 20時54分に放送された。なお最終回は『**[さよなら西部警察](https://ja.wikipedia.org/wiki/さよなら西部警察 "wikilink") 大門死す\!男達よ永遠に…**』と称し、10月22日の[月曜日](../Page/月曜日.md "wikilink")20:00から3時間スペシャルとして放送された。
 
 ## 概要
 
@@ -77,7 +77,7 @@
 ## 放映リスト
 
   - 放送回数については、公式の動画配信などに準じる\[1\]
-  - **太字**はDVD化済みエピソード（DVD木暮BOX及びキャラクターコレクションなどに収録）。
+  - **太字**はDVD化済みエピソード（DVD木暮BOXおよびキャラクターコレクションなどに収録）。
 
 <table>
 <thead>
@@ -876,7 +876,7 @@
 <!-- end list -->
 
   -
-    23話は[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")[新潟鉄道管理局](../Page/東日本旅客鉄道新潟支社.md "wikilink")（当時）などの協力の元、[酒田駅](../Page/酒田駅.md "wikilink")・[酒田港駅](../Page/酒田港駅.md "wikilink")等で撮影された。
+    23話は[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")[新潟鉄道管理局](../Page/東日本旅客鉄道新潟支社.md "wikilink")（当時）などの協力の元、[酒田駅](../Page/酒田駅.md "wikilink")・[酒田港駅](../Page/酒田港駅.md "wikilink")などで撮影された。
     当時[日本テレビ系列との](../Page/日本テレビネットワーク協議会.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")で、なおかつクロスネット局で唯一同時ネットで放送されていた[山形放送](../Page/山形放送.md "wikilink")が制作協力を行った。\[12\]
 
 <!-- end list -->
@@ -886,7 +886,7 @@
 <!-- end list -->
 
   -
-    [エンドーチェーン](../Page/エンドーチェーン.md "wikilink")、[岩沼屋](../Page/岩沼屋.md "wikilink")ホテル、西仙台ハイランド（現：[旧仙台ハイランド](https://ja.wikipedia.org/wiki/旧仙台ハイランド "wikilink")）、日産サニー宮城（現：日産サティオ宮城）などで撮影。
+    [エンドーチェーン](../Page/エンドーチェーン.md "wikilink")、[岩沼屋](../Page/岩沼屋.md "wikilink")ホテル、西仙台ハイランド（[仙台ハイランド](../Page/仙台ハイランド.md "wikilink")）、日産サニー宮城（現：日産サティオ宮城）などで撮影。
 
 <!-- end list -->
 
@@ -932,15 +932,15 @@
 ## 登場車両
 
   - [スーパーZ](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")
-  - [マシンRS](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（～15話）
+  - [マシンRS](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（ - 15話）
   - [サファリ4WD](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")
-  - [RS-1](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（16話～）
-  - [RS-2](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（16話～）
-  - [RS-3](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（16話～）
+  - [RS-1](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（16話 - ）
+  - [RS-2](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（16話 - ）
+  - [RS-3](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（16話 - ）
   - [マシンX](../Page/マシンX.md "wikilink")（47話のみ）
   - [SUZUKI GSX1100S](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")\[14\]
-  - [KATANA-R](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（60話～）
-  - ガゼール・オープン（31話・42話.56話）
+  - [KATANA-R](https://ja.wikipedia.org/wiki/西部警察#大門軍団特殊車両 "wikilink")（60話 - ）
+  - ガゼール・オープン（31話・42話、56話）
 
 ## 西部警察スペシャル・男たちは燃えた・・・　全国縦断フィーバードキュメント
 
@@ -951,7 +951,7 @@
 ## 補足
 
   - 土曜日昼の人気番組『[独占\!女の60分](../Page/独占!女の60分.md "wikilink")』では、当番組の地方ロケ編が放映される前日に、アタッカー（リポーター）がロケ現場の舞台裏を取り上げていた。他にも深夜番組『[トゥナイト](https://ja.wikipedia.org/wiki/トゥナイト "wikilink")』でもロケ現場の舞台裏を取り上げていた。こちらは一部ダイジェストで『[西部警察 SPECIAL](../Page/西部警察_SPECIAL.md "wikilink")』のDVD特典映像で挿入されている。
-  - 遅れネット局のうち、[TBS系列の一部の局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[琉球放送](../Page/琉球放送.md "wikilink")など）では、同じく[テレビ朝日系列で火曜](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")21時台に放送されていた時代劇『[柳生十兵衛あばれ旅](https://ja.wikipedia.org/wiki/柳生十兵衛あばれ旅 "wikilink")』の後番組扱いとなっていた。本来の後番組が生放送も行われた音楽番組『[ザ・ベストヒット'83](../Page/ザ・ベストヒット'83.md "wikilink")』となり、番組の特性上遅れネットができなかったと見られる。以上の4局での放送時間は火曜日の22:00 - 22:54\[15\]。なお、最終回スペシャルへの各局の対応状況は不明（ただし、北陸放送は土曜日、長崎放送は、日曜日のそれぞれ昼ごろに放送された）またここから[福井県](../Page/福井県.md "wikilink")での放映ネット局が[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（土曜日13:00 - 13:54）から[福井放送](../Page/福井放送.md "wikilink")に変更され、日本テレビ系列月曜21時枠（[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")枠）をいったん時差ネットに降格させる形で月曜日21:00 - 21:54に1日遅れで放送された\[16\]。
+  - 遅れネット局のうち、[TBS系列の一部の局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[長崎放送](../Page/長崎放送.md "wikilink")・[琉球放送](../Page/琉球放送.md "wikilink")など）では、同じく[テレビ朝日系列で火曜](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")21時台に放送されていた時代劇『[柳生十兵衛あばれ旅](https://ja.wikipedia.org/wiki/柳生十兵衛あばれ旅 "wikilink")』の後番組扱いとなっていた。本来の後番組が生放送も行われた音楽番組『[ザ・ベストヒット'83](../Page/ザ・ベストヒット'83.md "wikilink")』となり、番組の特性上遅れネットができなかったと見られる。以上の4局での放送時間は火曜日の22時00分 - 22時54分\[15\]。なお、最終回スペシャルへの各局の対応状況は不明（ただし、北陸放送は土曜日、長崎放送は、日曜日のそれぞれ昼ごろに放送された）またここから[福井県](../Page/福井県.md "wikilink")での放映ネット局が[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（土曜日13時00分 - 13時54分）から[福井放送](../Page/福井放送.md "wikilink")に変更され、日本テレビ系列月曜21時枠（[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")枠）をいったん時差ネットに降格させる形で月曜日21時00分 - 21時54分に1日遅れで放送された\[16\]。
 
 ## 脚注
 
@@ -969,7 +969,7 @@
 10. 大門軍団特殊車両の特別機動車両・[サファリがこの回で退役](../Page/日産・サファリ.md "wikilink")。
 11. 武田鉄矢本人役で出演。
 12. 山形放送はクロスネット局で唯一、シリーズを通しての全国縦断ロケの制作協力局である。一方で日本テレビ系列の日曜20時台の番組は当時[フジテレビ系列局だった](../Page/フジネットワーク.md "wikilink")[山形テレビ](../Page/山形テレビ.md "wikilink")で同時ネットで放送されていた（1993年3月まで）。山形放送は現在はNNSマストバイ局。ちなみに『西部警察』シリーズの山形県での再放送は山形テレビにて放送されている。
-13. 当時は[TBS系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")で2日遅れで放送されていた。ANN系の[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")開局。
+13. 当時は[TBS系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[長崎放送](../Page/長崎放送.md "wikilink")で2日遅れで放送されていた。ANN系の[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")開局。
 14. 第60話内で、南刑事が「鳩の刀は750ccですが～」と説明を入れているので、設定上はGSX750S。
-15. 当時のTBS系列でのプライムタイムにおけるローカルセールス枠（現在は水曜19:00 - 21:57が当該枠）。
-16. 福井放送は1989年4月からNNS・ANNとのクロスネット局。現在の月曜21時枠は日本テレビ系列番組の同時ネット枠で、ゴールデン・プライム枠におけるテレビ朝日番組枠は土曜21:00 - 22:54が該当枠。
+15. 当時のTBS系列でのプライムタイムにおけるローカルセールス枠（現在は水曜19時00分 - 21時57分が当該枠）。
+16. 福井放送は1989年4月からNNS・ANNとのクロスネット局。現在の月曜21時枠は日本テレビ系列番組の同時ネット枠で、ゴールデン・プライム枠におけるテレビ朝日番組枠は土曜21時00分 - 22時54分が該当枠。

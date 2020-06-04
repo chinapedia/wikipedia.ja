@@ -18,32 +18,27 @@
 ### 国内タイトル
 
   - **[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")**/**[プレミアリーグ](../Page/プレミアリーグ.md "wikilink") 3回**[Premier_league_trophy_icon.png](https://ja.wikipedia.org/wiki/File:Premier_league_trophy_icon.png "fig:Premier_league_trophy_icon.png")[Premier_league_trophy_icon.png](https://ja.wikipedia.org/wiki/File:Premier_league_trophy_icon.png "fig:Premier_league_trophy_icon.png")[Premier_league_trophy_icon.png](https://ja.wikipedia.org/wiki/File:Premier_league_trophy_icon.png "fig:Premier_league_trophy_icon.png")
-      -
-        1911-12, 1913-14, 1994-95
+      - 1911-12, 1913-14, 1994-95
 
 <!-- end list -->
 
   - **[FAカップ](../Page/FAカップ.md "wikilink") : 6回**[FA_Cup.png](https://ja.wikipedia.org/wiki/File:FA_Cup.png "fig:FA_Cup.png")[FA_Cup.png](https://ja.wikipedia.org/wiki/File:FA_Cup.png "fig:FA_Cup.png")[FA_Cup.png](https://ja.wikipedia.org/wiki/File:FA_Cup.png "fig:FA_Cup.png")[FA_Cup.png](https://ja.wikipedia.org/wiki/File:FA_Cup.png "fig:FA_Cup.png")[FA_Cup.png](https://ja.wikipedia.org/wiki/File:FA_Cup.png "fig:FA_Cup.png")[FA_Cup.png](https://ja.wikipedia.org/wiki/File:FA_Cup.png "fig:FA_Cup.png")
-      -
-        1883-84, 1884-85, 1885-86, 1889-90, 1890-91, 1927-28
+      - 1883-84, 1884-85, 1885-86, 1889-90, 1890-91, 1927-28
 
 <!-- end list -->
 
   - **[フットボールリーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink") : 1回**[Carling.png](https://ja.wikipedia.org/wiki/File:Carling.png "fig:Carling.png")
-      -
-        2001-02
+      - 2001-02
 
 <!-- end list -->
 
   - **[コミュニティーシールド](https://ja.wikipedia.org/wiki/コミュニティーシールド "wikilink") : 1回**[CommunityShield.png](https://ja.wikipedia.org/wiki/File:CommunityShield.png "fig:CommunityShield.png")
-      -
-        1913
+      - 1913
 
 ### 国際タイトル
 
-**• [UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink") : 1回**
-
-2007
+  - [UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink") : 1回'''
+      - 2007
 
 ## 過去の成績
 
@@ -237,12 +232,28 @@
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
+<td><p>FAコミュニティ・シールド</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1995–96</p></td>
 <td><p>プレミアリーグ</p></td>
 <td><p>38</p></td>
 <td><p>18</p></td>
 <td><p>7</p></td>
 <td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td><p>FAコミュニティ・シールド</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1996–97</p></td>
@@ -269,7 +280,7 @@
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
-<td><p>1999–2000</p></td>
+<td><p>1999–00</p></td>
 <td><p>ディヴィジョン1</p></td>
 <td><p>46</p></td>
 <td><p>15</p></td>

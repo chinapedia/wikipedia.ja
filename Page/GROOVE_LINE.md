@@ -5,9 +5,13 @@
 
 ## 概要
 
-[電話](../Page/電話.md "wikilink")・[電子メール](../Page/電子メール.md "wikilink")・[FAXによる音楽リクエスト番組であるが](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、毎回の放送にメッセージテーマが定められており、リクエストと併せてこのテーマに沿ったメッセージを送ることが求められている。この番組はJ-WAVEではそれまであまり見られることがなかった、全時間リスナー参加型コーナーで構成されている。[2003年](../Page/2003年.md "wikilink")頃からはMIX MACHINE終了後の19:00頃を境にテーマを切り替えるようになった。なお、[祝日](../Page/祝日.md "wikilink")が放送日の際は、[J-WAVE HOLIDAY SPECIALを放送するため](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")、18:00からの2時間短縮ヴァージョンでの放送、もしくは休止となる。
+[電話](../Page/電話.md "wikilink")・[電子メール](../Page/電子メール.md "wikilink")・[FAXによる音楽リクエスト番組であるが](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、毎回の放送にメッセージテーマが定められており(いわゆるネタメッセージ)、リクエストと併せてこのテーマに沿ったメッセージを送ることが求められている。この番組はJ-WAVEではそれまであまり見られることがなかった、全時間リスナー参加型コーナーで構成されている。[2003年](../Page/2003年.md "wikilink")頃からはMIX MACHINE終了後の19:00頃を境にテーマを切り替えるようになった。なお、[祝日](../Page/祝日.md "wikilink")が放送日の際は、[J-WAVE HOLIDAY SPECIALを放送するため](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")、18:00からの2時間短縮ヴァージョンでの放送、もしくは休止となる。
 
 番組のノベルティに[Tシャツ](../Page/Tシャツ.md "wikilink")や[ステッカーがある](../Page/シール.md "wikilink")。Tシャツには「他力本願」など、日本語で書かれた言葉がプリントされている。[小島慶子](https://ja.wikipedia.org/wiki/小島慶子 "wikilink")、[宮崎哲弥](https://ja.wikipedia.org/wiki/宮崎哲弥 "wikilink")などは、自身が担当するAMラジオ番組で取り上げている\[1\]。
+
+2010年3月をもって一旦終了し、2010年4月から2017年9月までは同じくピストン西沢がナビゲートする(アシスタントを置いた時期もあり)[「GROOVE LINE Z](https://ja.wikipedia.org/wiki/GROOVE_LINE_Z "wikilink")」が放送された。2017年10月に実質7年半ぶりに当番組が放送開始。以降は「Z」時代のスタイルを引き継ぎ、リスナーのテーマメッセージを紹介しつつ、インターネットから様々なジャンルのニュースを取り上げ、合間に楽曲や各コーナーを挟む方式に変更され、音楽リクエストは廃止された。
+
+
 
 ### J-WAVE SHIBUYA HMV STUDIOからの公開生放送
 

@@ -167,7 +167,7 @@ AK名義。
   -
   - [i-Radio.FM » AK (柿原朱美) / ak dancin’ hits](http://i-radio.fm/topics/at/radio/akemi-kakihara) - i-Radio（インターネットラジオ）
 
-[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:日本大学出身の人物](https://ja.wikipedia.org/wiki/Category:日本大学出身の人物 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:在アメリカ合衆国日本人のミュージシャン](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のミュージシャン "wikilink") [Category:日本大学出身の人物](https://ja.wikipedia.org/wiki/Category:日本大学出身の人物 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:1964年生](https://ja.wikipedia.org/wiki/Category:1964年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [ak dancin' hits: AKとDanny Krivitついに結婚！September 21st, 2008](http://i-radio.cocolog-nifty.com/ak/2008/09/akdanny-krivits.html)
 2.

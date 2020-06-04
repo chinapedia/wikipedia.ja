@@ -120,7 +120,7 @@
   - [佐久間盛重](../Page/佐久間盛重.md "wikilink")：[本郷功次郎](../Page/本郷功次郎.md "wikilink")
   - [平手政秀](../Page/平手政秀.md "wikilink")：[二谷英明](../Page/二谷英明.md "wikilink")
   - [平手五郎右衛門](https://ja.wikipedia.org/wiki/平手久秀 "wikilink")：[黒田アーサー](../Page/黒田アーサー.md "wikilink")
-  - [内藤勝介](https://ja.wikipedia.org/wiki/内藤勝介 "wikilink")：[塚本信夫](../Page/塚本信夫.md "wikilink")
+  - [内藤勝介](../Page/内藤勝介.md "wikilink")：[塚本信夫](../Page/塚本信夫.md "wikilink")
   - [滝川一益](../Page/滝川一益.md "wikilink")：[柴俊夫](../Page/柴俊夫.md "wikilink")
   - [丹羽長秀](../Page/丹羽長秀.md "wikilink")：[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")
   - [前田利家](../Page/前田利家.md "wikilink")：[橋爪淳](../Page/橋爪淳.md "wikilink")

@@ -92,6 +92,9 @@
 <li><a href="../Page/岩本恭生.md" title="wikilink">岩本恭生</a></li>
 <li><a href="../Page/A*Teens.md" title="wikilink">A*Teens</a></li>
 <li><a href="../Page/S.E.S..md" title="wikilink">S.E.S.</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/風間俊介" title="wikilink">風間俊介</a></li>
+<li><a href="../Page/PaniCrew.md" title="wikilink">PaniCrew</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/綾瀬はるか" title="wikilink">綾瀬はるか</a></li>
 <li><a href="../Page/大澄賢也.md" title="wikilink">大澄賢也</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/大東めぐみ" title="wikilink">大東めぐみ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/小倉優子" title="wikilink">小倉優子</a></li>
@@ -152,6 +155,9 @@
 <li><a href="https://ja.wikipedia.org/wiki/尾藤イサオ" title="wikilink">尾藤イサオ</a></li>
 <li><a href="../Page/V6_(グループ).md" title="wikilink">V6</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/深田恭子" title="wikilink">深田恭子</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/滝沢秀明" title="wikilink">滝沢秀明</a></li>
+<li><a href="../Page/生田斗真.md" title="wikilink">生田斗真</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/山下智久" title="wikilink">山下智久</a></li>
 <li><a href="../Page/Folder5.md" title="wikilink">Folder5</a></li>
 <li><a href="../Page/藤井隆.md" title="wikilink">藤井隆</a></li>
 <li><a href="../Page/藤本綾.md" title="wikilink">藤本綾</a></li>

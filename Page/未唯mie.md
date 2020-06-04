@@ -9,7 +9,7 @@
 
 [常葉高校卒業](https://ja.wikipedia.org/wiki/常葉学園中学校・高等学校 "wikilink")\[4\]。
 
-1976年、**[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")**として[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、[T\&C ミュージックからメジャーデビューをし数々のヒット曲を出し一世を風靡した](https://ja.wikipedia.org/wiki/T&C_ミュージック "wikilink")。1981年のグループ解散後はソロ歌手のほか、タレント、女優など幅広く活躍。ピンク・レディーは幾度か再結成されている。[ケイとは](../Page/増田恵子.md "wikilink")、2人は仲良し。
+1976年、**[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")**として[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、[T\&C ミュージックからメジャーデビューをし数々のヒット曲を出し一世を風靡した](https://ja.wikipedia.org/wiki/T&C_ミュージック "wikilink")。1981年のグループ解散後はソロ歌手のほか、タレント、女優など幅広く活躍。ピンク・レディーは幾度か再結成されている。
 
 1984年には、[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[不良少女とよばれて](../Page/不良少女とよばれて.md "wikilink")』の主題歌となった「[NEVER](https://ja.wikipedia.org/wiki/NEVER "wikilink")」が大ヒット。
 

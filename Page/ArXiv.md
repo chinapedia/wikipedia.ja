@@ -1,7 +1,7 @@
 > この記事は[ArXiv](https://ja.wikipedia.org/wiki/ArXiv)から翻訳されています。
 
 
-**arXiv**（アーカイヴ、archiveと同じ発音）は、[物理学](../Page/物理学.md "wikilink")、[数学](../Page/数学.md "wikilink")、[計算機科学](../Page/計算機科学.md "wikilink")、[量的生物学](https://ja.wikipedia.org/wiki/量的生物学 "wikilink")、計量ファイナンス、[統計学](../Page/統計学.md "wikilink")の、[プレプリント](../Page/プレプリント.md "wikilink")を含む様々な[論文](../Page/論文.md "wikilink")が保存・公開されているウェブサイトである。論文のアップロード（投稿）、ダウンロード（閲覧）ともに無料で、論文は[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")形式である。1991年にスタートして、[プレプリント・サーバー](https://ja.wikipedia.org/wiki/プレプリント・サーバー "wikilink")の先駆けとなったウェブサイトである。大文字の X を[ギリシャ文字](https://ja.wikipedia.org/wiki/ギリシャ文字 "wikilink")の[カイ（Χ）にかけて](../Page/Χ.md "wikilink") archive と読ませている。
+**arXiv**（アーカイヴ、archiveと同じ発音）は、[物理学](../Page/物理学.md "wikilink")、[数学](../Page/数学.md "wikilink")、[計算機科学](../Page/計算機科学.md "wikilink")、[定量生物学](https://ja.wikipedia.org/wiki/定量生物学 "wikilink")、計量ファイナンス、[統計学](../Page/統計学.md "wikilink")の、[プレプリント](../Page/プレプリント.md "wikilink")を含む様々な[論文](../Page/論文.md "wikilink")が保存・公開されているウェブサイトである。論文のアップロード（投稿）、ダウンロード（閲覧）ともに無料で、論文は[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")形式である。1991年にスタートして、[プレプリント・サーバー](https://ja.wikipedia.org/wiki/プレプリント・サーバー "wikilink")の先駆けとなったウェブサイトである。大文字の X を[ギリシャ文字](https://ja.wikipedia.org/wiki/ギリシャ文字 "wikilink")の[カイ（Χ）にかけて](../Page/Χ.md "wikilink") archive と読ませている。
 
 現代（2019年）においてはこうした仕組みのサイトは特に珍しいものでもない。しかし、arXivの設立当初（1990年代初頭）においては、[学術出版社](https://ja.wikipedia.org/wiki/学術出版社 "wikilink")や[大学図書館](../Page/大学図書館.md "wikilink")を介さずに研究者同士が[インターネット](../Page/インターネット.md "wikilink")を介して直接に論文をやりとりできる場として、学術出版関係者に大きな驚きをもって受けとめられた\[1\]。
 

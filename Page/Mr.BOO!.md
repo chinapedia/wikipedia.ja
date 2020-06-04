@@ -10,7 +10,7 @@
 
 ## 概要
 
-「Mr.Boo\!」は、[英領香港を舞台とする一連の](../Page/香港政庁.md "wikilink")[ナンセンス](https://ja.wikipedia.org/wiki/ナンセンス "wikilink")・[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")[現代劇](https://ja.wikipedia.org/wiki/現代劇 "wikilink")映画である。[マイケル・ホイ](../Page/マイケル・ホイ.md "wikilink")が脚本・監督・主演を務め、準主役として実兄弟の[サミュエル・ホイ](../Page/サミュエル・ホイ.md "wikilink")、[リッキー・ホイ](../Page/リッキー・ホイ.md "wikilink")が出演。香港人のしたたかさ・たくましさや東西文化の軋轢を実経験や時事を取り入れて戯画化し、警察・政財界・黒社会などの権力を庶民の視点から笑いのめす、社会風刺的な作風を特徴とする。言語は[広東語](../Page/広東語.md "wikilink")（[香港語](https://ja.wikipedia.org/wiki/香港語 "wikilink")）。
+「Mr.Boo\!」は、[英領香港を舞台とする一連の](../Page/香港政庁.md "wikilink")[ナンセンス](https://ja.wikipedia.org/wiki/ナンセンス "wikilink")・[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")[現代劇](https://ja.wikipedia.org/wiki/現代劇 "wikilink")映画である。[マイケル・ホイ](../Page/マイケル・ホイ.md "wikilink")が脚本・監督・主演を務め、準主役として実兄弟の[サミュエル・ホイ](../Page/サミュエル・ホイ.md "wikilink")、[リッキー・ホイ](../Page/リッキー・ホイ.md "wikilink")が出演。香港人のしたたかさ・たくましさや東西文化の軋轢を実経験や時事を取り入れて戯画化し、警察・政財界・黒社会などの権力を庶民の視点から笑いのめす、社会風刺的な作風を特徴とする。言語は[広東語](../Page/広東語.md "wikilink")（[香港語](../Page/香港語.md "wikilink")）。
 
 香港[TVBのコント](../Page/無綫電視.md "wikilink")・バラエティ番組『雙星報喜（ホイブラザーズ・ショウ）』で人気を得、映画『大軍閥』（[1972年](../Page/1972年.md "wikilink")）の主役に抜擢され俳優としても頭角を現したマイケルが、自身の制作プロダクション「許氏影業有限公司」を設立して企画し、[ゴールデン・ハーベスト](../Page/ゴールデン・ハーベスト.md "wikilink")出資により共同製作したのが第一作『鬼馬雙星』（[1974年](../Page/1974年.md "wikilink")）。この作品は本国香港で年間興行収入トップの大ヒットを記録し、以降の作品もトップ争いの常連となる。これを弾みにホイ兄弟は各々ほかの監督の作品にも主演してヒットさせ、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")と並ぶゴールデン・ハーベストの看板スターとして一時代を築いた。
 

@@ -93,6 +93,18 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/吉水慶" title="wikilink">吉水慶</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>ケイスリン・ダー</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シンシア・ゴウ" title="wikilink">シンシア・ゴウ</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>神</p></td>
+<td></td>
+<td><p>ジョージ・マードック</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>コード</p></td>
 <td><p>　　</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チャールズ・クーパー" title="wikilink">チャールズ・クーパー</a></p></td>

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（長崎県内のNBCラジオ）では、この時間「[日曜アナらじ](https://ja.wikipedia.org/wiki/日曜アナらじ "wikilink")」「[中村こずえのみんなでニッポン日曜日\!](../Page/中村こずえのみんなでニッポン日曜日!.md "wikilink")」「[NBCサンデー競馬中継](https://ja.wikipedia.org/wiki/NBCサタデー・サンデー競馬中継 "wikilink")」が放送されていたが(どちらも2008年3月末で終了)、佐賀エリアは独自編成でこの番組を放送を行っていた。(現在は[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")と同じ編成である。)
+  - [長崎放送](../Page/長崎放送.md "wikilink")（長崎県内のNBCラジオ）では、この時間「[日曜アナらじ](https://ja.wikipedia.org/wiki/日曜アナらじ "wikilink")」「[中村こずえのみんなでニッポン日曜日\!](../Page/中村こずえのみんなでニッポン日曜日!.md "wikilink")」「[NBCサンデー競馬中継](https://ja.wikipedia.org/wiki/NBCサタデー・サンデー競馬中継 "wikilink")」が放送されていたが(どちらも2008年3月末で終了)、佐賀エリアは独自編成でこの番組を放送を行っていた。(現在は[長崎放送](../Page/長崎放送.md "wikilink")と同じ編成である。)
   - 佐賀市にあるイオンショッピングタウン大和（現・[イオンモール佐賀大和](https://ja.wikipedia.org/wiki/イオンモール佐賀大和 "wikilink")）の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")からの公開[生放送](../Page/生放送.md "wikilink")であった。
   - 番組中（14:00 - 14:55）に設けられているコーナー「**J-HITS TOP 20**」では佐賀県内のCDセールスを独自に集計しランキング形式で毎週紹介していた。このチャートペーパーは、[佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink")の[タワーレコード](../Page/タワーレコード.md "wikilink")佐賀店、[佐賀駅](https://ja.wikipedia.org/wiki/佐賀駅 "wikilink")内の[サウンドデイトス積文館](https://ja.wikipedia.org/wiki/サウンドデイトス積文館 "wikilink")、[積文館書店](https://ja.wikipedia.org/wiki/積文館書店 "wikilink")佐賀南部バイパス店、[TSUTAYA兵庫町店と医大通り店](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")､[鳥栖市](../Page/鳥栖市.md "wikilink")・JR[鳥栖駅](https://ja.wikipedia.org/wiki/鳥栖駅 "wikilink")前の[メディア未来](https://ja.wikipedia.org/wiki/メディア未来 "wikilink")、NBCラジオ佐賀のロビー、イオンショッピングタウン大和のサテライトスタジオで配布されていた。
   - イオンショッピングタウン大和のサテライトスタジオの閉鎖に伴い、2007年9月で番組が終了、公式サイト・ブログもともに閉鎖された。

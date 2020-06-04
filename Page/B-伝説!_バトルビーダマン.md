@@ -1593,9 +1593,9 @@
 
 ## 外部リンク
 
-  - [B-伝説（レジェンド）\! バトルビーダマン](http://www.tv-tokyo.co.jp/anime/bedaman/)（『テレビ東京・あにてれ』サイト内）
+  - [B-伝説（レジェンド）\! バトルビーダマン](https://www.tv-tokyo.co.jp/anime/bedaman/)（『テレビ東京・あにてれ』サイト内）
   - [B-伝説（レジェンド）\! バトルビーダマン](http://www.d-rights.com/b-daman/b-daman1/)（『d-rights』サイト内）
-  - [B-伝説（レジェンド）\! バトルビーダマン 炎魂（ファイヤースピリッツ）](http://www.tv-tokyo.co.jp/anime/b-daman_fs/)
+  - [B-伝説（レジェンド）\! バトルビーダマン 炎魂（ファイヤースピリッツ）](https://www.tv-tokyo.co.jp/anime/b-daman_fs/)
 
 [Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:アニメ作品_ひ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ひ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:読売広告社のアニメ作品](https://ja.wikipedia.org/wiki/Category:読売広告社のアニメ作品 "wikilink") [Category:ディーライツのアニメ作品](https://ja.wikipedia.org/wiki/Category:ディーライツのアニメ作品 "wikilink") [Category:タカラトミー原作・原案のアニメ作品](https://ja.wikipedia.org/wiki/Category:タカラトミー原作・原案のアニメ作品 "wikilink") [Category:てんとう虫コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:てんとう虫コミックスのアニメ作品 "wikilink") [Category:2004年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2004年のテレビアニメ "wikilink") [Category:ビーダマン](https://ja.wikipedia.org/wiki/Category:ビーダマン "wikilink") [Category:日本と韓国の合作アニメ](https://ja.wikipedia.org/wiki/Category:日本と韓国の合作アニメ "wikilink")
 

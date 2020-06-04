@@ -16,7 +16,7 @@
 
 [ウルトラマン](../Page/ウルトラマン.md "wikilink")と[仮面ライダー](../Page/仮面ライダー.md "wikilink")という、制作会社が異なる作品がコラボレーション（[クロスオーバー](../Page/クロスオーバー作品.md "wikilink")）することは従来では考えられなかったが、[1990年代](../Page/1990年代.md "wikilink")前半においてはテレビシリーズは両シリーズとも休止中であったものの、映画やビデオ作品として久々に新作が発表されるなどの新たなムーブメントが起きつつあった。さらに、[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")側が[東映](../Page/東映.md "wikilink")の競合企業である[東宝](../Page/東宝.md "wikilink")の傘下から離脱（資本関係の解消）していた。そのような状況下で[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")が制作を手掛けた本作品は、円谷プロと東映上層部の密談によって約束された超法規的決断によるものでそれぞれの作品の権利者である円谷プロと東映が複雑な権利関係をクリアするため、再発売およびテレビ放送しない前提で同意した\[1\]。そして、両シリーズ歴代作品の名場面を使用した比較紹介やスタッフや出演者へのインタビューに加え、完全新作の短編ドラマが収録されるに至った。
 
-監督は[雨宮慶太](../Page/雨宮慶太.md "wikilink")が、ナレーションは『ウルトラマン』の[浦野光](../Page/浦野光.md "wikilink")と『仮面ライダー』の[中江真司](../Page/中江真司.md "wikilink")が交互に担当した。現場スタッフは制作が始まってから作品の全貌知ることとなった\[2\]。本作品オリジナルの主題歌・挿入歌も1曲ずつ作られており、前者は両雄の活躍を称え、後者は全てのヒーローものに共通するテーマを[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")が唄っている。本作品と同時期には、子供向けに内容を変更した[SVS（スーパー・ビデオ・セレクション）シリーズとして](https://ja.wikipedia.org/wiki/バンダイ_スーパービデオセレクション "wikilink")『ウルトラマン』と『仮面ライダー』のそれぞれのパートのみを収録した『ウルトラマン編』、『仮面ライダー編』も発売された（ナレーションなどは変更されている）。
+演出は[雨宮慶太](../Page/雨宮慶太.md "wikilink")が、ナレーションは『ウルトラマン』の[浦野光](../Page/浦野光.md "wikilink")と『仮面ライダー』の[中江真司](../Page/中江真司.md "wikilink")が交互に担当した。現場スタッフは制作が始まってから作品の全貌知ることとなった\[2\]。本作品オリジナルの主題歌・挿入歌も1曲ずつ作られており、前者は両雄の活躍を称え、後者は全てのヒーローものに共通するテーマを[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")が唄っている。本作品と同時期には、子供向けに内容を変更した[SVS（スーパー・ビデオ・セレクション）シリーズとして](https://ja.wikipedia.org/wiki/バンダイ_スーパービデオセレクション "wikilink")『ウルトラマン』と『仮面ライダー』のそれぞれのパートのみを収録した『ウルトラマン編』、『仮面ライダー編』も発売された（ナレーションなどは変更されている）。
 
 前述のように制作当時は再発売などはされない前提だったが、[2011年](../Page/2011年.md "wikilink")にウルトラマン誕生45周年と仮面ライダーシリーズ40周年を記念し、18年ぶりにバンダイビジュアルによって一部に再編集を施した[BD](../Page/Blu-ray_Disc.md "wikilink")/[DVD](../Page/DVD.md "wikilink")が発売された。映像特典として制作当時に実現できずにいた黒部と藤岡の対談や、彼らが登壇した記者会見の模様が収録されている（インタビュー制作と発売権利は、円谷プロによるもの）。また、2013年10月には[CS放送局の](../Page/日本における衛星放送.md "wikilink")[東映チャンネル](../Page/東映チャンネル.md "wikilink")にて、短編ドラマ部分のみであるが、初めて本作品のテレビ放送が行われた。
 
@@ -63,34 +63,53 @@
 
 ## スタッフ
 
-  - 制作：[渡邊亮徳](../Page/渡邊亮徳.md "wikilink")、[円谷皐](../Page/円谷皐.md "wikilink")
+  - 製作：[渡邊亮徳](../Page/渡邊亮徳.md "wikilink")、[円谷皐](../Page/円谷皐.md "wikilink")
   - 仮面ライダーシリーズ原作：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
   - ウルトラシリーズ原著作：[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")
-  - 企画：[村上克司](../Page/村上克司.md "wikilink")、[吉川進](../Page/吉川進.md "wikilink")、[円谷一夫](../Page/円谷一夫.md "wikilink")、[加藤昇](https://ja.wikipedia.org/wiki/石森プロ "wikilink")
-  - 構成：[池田憲章](../Page/池田憲章.md "wikilink")、[秋廣泰生](https://ja.wikipedia.org/wiki/秋廣泰生 "wikilink")、[赤星政尚](../Page/赤星政尚.md "wikilink")、[新藤義親](https://ja.wikipedia.org/wiki/新藤義親 "wikilink")
-  - プロデューサー：久保聡、[日笠淳](../Page/日笠淳.md "wikilink")、[髙寺成紀](../Page/高寺成紀.md "wikilink")、笈田雅人
-  - プロデューサー補：[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")、[武部直美](../Page/武部直美.md "wikilink")、大屋光子、小佐野聡
+  - 企画：[村上克司](../Page/村上克司.md "wikilink")、[吉川進](../Page/吉川進.md "wikilink")、[円谷一夫](../Page/円谷一夫.md "wikilink")、[加藤昇](https://ja.wikipedia.org/wiki/石森プロ#主な人物 "wikilink")
+  - 構成：[池田憲章](../Page/池田憲章.md "wikilink")、秋廣泰生、[赤星政尚](../Page/赤星政尚.md "wikilink")、新藤義親
   - 撮影監督：[瀬尾脩](https://ja.wikipedia.org/wiki/瀬尾脩 "wikilink")
-  - 音響監督：[太田克己](https://ja.wikipedia.org/wiki/太田克己 "wikilink")
-  - 選曲：[宮葉勝行](https://ja.wikipedia.org/wiki/宮葉勝行 "wikilink")
-  - 編集監督：[こんのはるひと](https://ja.wikipedia.org/wiki/こんのはるひと "wikilink")
-  - 特撮監修：[矢島信男](../Page/矢島信男.md "wikilink")、[高野宏一](../Page/高野宏一.md "wikilink")
-  - 監督・ストーリーボード：[佛田洋](../Page/佛田洋.md "wikilink")
-  - アクション監督：[村上潤](../Page/村上潤.md "wikilink")
-  - ストーリー構成：[尾上克郎](../Page/尾上克郎.md "wikilink")
-  - 怪獣デザイン：[山口修](https://ja.wikipedia.org/wiki/山口修 "wikilink")
-  - 部分監督：[折田至](../Page/折田至.md "wikilink")
-  - 美術監督：[三池敏夫](https://ja.wikipedia.org/wiki/三池敏夫 "wikilink")
+  - 音響監督：太田克己
+  - 編集監督：こんのはるひと
   - 音楽：[東海林修](../Page/東海林修.md "wikilink")
-  - 音楽プロデューサー：[木村英俊](https://ja.wikipedia.org/wiki/木村英俊 "wikilink")、[玉川静](https://ja.wikipedia.org/wiki/玉川静 "wikilink")
-  - スーツアクター
-      - ウルトラマン：[菊地寿幸](https://ja.wikipedia.org/wiki/菊地寿幸 "wikilink")
-      - 仮面ライダー：[前田浩](../Page/前田浩.md "wikilink")
-      - 毒サソリ男、ガドラス、サソリガドラス：[宮崎剛](../Page/宮崎剛_\(俳優\).md "wikilink")
-      - ウルトラマン（代役）：[福沢博文](../Page/福沢博文.md "wikilink")
+  - 音楽プロデューサー：[木村英俊](https://ja.wikipedia.org/wiki/木村英俊 "wikilink")（フォルテミュージックエンタテインメント）、玉川静（円谷音楽出版）
+  - 特撮監修：[矢島信男](../Page/矢島信男.md "wikilink")、[高野宏一](../Page/高野宏一.md "wikilink")
+  - 監督：[佛田洋](../Page/佛田洋.md "wikilink")
+  - アクション監督：[村上潤](../Page/村上潤.md "wikilink")（[ジャパンアクションクラブ](https://ja.wikipedia.org/wiki/ジャパンアクションクラブ "wikilink")）
+  - ストーリー構成：[尾上克郎](../Page/尾上克郎.md "wikilink")
+  - ストーリーボード：佛田洋
+  - 怪獣デザイン：[山口修](https://ja.wikipedia.org/wiki/山口修 "wikilink")
+  - 造型：[レインボー造型企画](https://ja.wikipedia.org/wiki/レインボー造型企画 "wikilink")、開米プロダクション
+  - 撮影：高橋政千、林雅彦、鈴木慎二
+  - 照明：林方谷、水野貴、保坂芳美
+  - 操演：[鈴木昶](https://ja.wikipedia.org/wiki/鈴木昶 "wikilink")、尾上克郎、穂坂靖
+  - 美術：[三池敏夫](https://ja.wikipedia.org/wiki/三池敏夫 "wikilink")、木植健次、原口ゆう
+  - キャラクターコーディネート：森永祥也（円谷プロ）、[丸山浩](https://ja.wikipedia.org/wiki/丸山浩_\(デザイナー\) "wikilink")（円谷プロ）
+  - 制作進行：後藤田伸幸
+  - コンピューターグラフィックス：[松本肇](https://ja.wikipedia.org/wiki/松本肇 "wikilink")
+  - 光学合成：[映画工房](../Page/日本映像クリエイティブ.md "wikilink")
+  - 編集：[菅野順吉](https://ja.wikipedia.org/wiki/菅野順吉 "wikilink")
+  - ネガ編集：長田直樹
+  - 現像：[東映化学](../Page/東映ラボ・テック.md "wikilink")
   - 協力：[東映東京撮影所](../Page/東映東京撮影所.md "wikilink")
+  - メインタイトル：[篠原保](../Page/篠原保.md "wikilink")
+  - 選曲：[宮葉勝行](https://ja.wikipedia.org/wiki/宮葉勝行 "wikilink")
+  - プロデューサー：久保聡（[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")）、[日笠淳](../Page/日笠淳.md "wikilink")・[髙寺成紀](../Page/高寺成紀.md "wikilink")（[東映](../Page/東映.md "wikilink")）、[笈田雅人](https://ja.wikipedia.org/wiki/笈田雅人 "wikilink")（円谷プロ）
+  - プロデューサー補：[白倉伸一郎](../Page/白倉伸一郎.md "wikilink")・[武部直美](../Page/武部直美.md "wikilink")（東映）、大屋光子（円谷プロ）、小佐野聡（[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）
   - 演出：[雨宮慶太](../Page/雨宮慶太.md "wikilink")
-  - 制作：[東映](../Page/東映.md "wikilink")、[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")
+  - 企画協力：バンダイビジュアル株式会社
+  - 製作：東映株式会社、株式会社円谷プロダクション、[東映ビデオ](../Page/東映ビデオ.md "wikilink")株式会社
+
+## キャスト
+
+  - 出演：石ノ森章太郎、円谷皐、[森次晃嗣](../Page/森次晃嗣.md "wikilink")、[宮内洋](../Page/宮内洋.md "wikilink")、[満田かずほ](../Page/満田かずほ.md "wikilink")、[折田至](../Page/折田至.md "wikilink")
+  - ナレーション：[浦野光](../Page/浦野光.md "wikilink")、[中江真司](../Page/中江真司.md "wikilink")
+  - ウルトラマン：[菊地寿幸](https://ja.wikipedia.org/wiki/菊地寿幸 "wikilink")
+  - 仮面ライダー：[前田浩](../Page/前田浩.md "wikilink")
+  - 怪獣・怪人（毒サソリ男、ガドラス、サソリガドラス）：[宮崎剛](../Page/宮崎剛_\(俳優\).md "wikilink")
+  - サイクロンスタント：[武士レーシングチーム](https://ja.wikipedia.org/wiki/タケシレーシング "wikilink")
+  - 出演（子役）：寺澤直純、長谷部五人、千葉良太、朴悠、蓮池貴人、村越正輝
+  - ウルトラマン（代役）：[福沢博文](../Page/福沢博文.md "wikilink")
 
 ## 主題歌
 
@@ -119,7 +138,7 @@
 
       - 『劇場版 仮面ライダージオウ Over Quartzer / 騎士竜戦隊リュウソウジャー THE MOVIE タイムスリップ\! 恐竜パニック\!\!』パンフレット 2019年7月26日発行 / 構成・文：用田邦憲 / 発行所：東映 事業推進部
 
-[Category:ウルトラマン](https://ja.wikipedia.org/wiki/Category:ウルトラマン "wikilink") [Category:ウルトラシリーズオリジナルビデオ作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズオリジナルビデオ作品 "wikilink") [Category:ウルトラシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズのクロスオーバー作品 "wikilink") [Category:仮面ライダー](https://ja.wikipedia.org/wiki/Category:仮面ライダー "wikilink") [Category:仮面ライダーシリーズのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズのオリジナルビデオ "wikilink") [Category:仮面ライダーシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズのクロスオーバー作品 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:東京を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした作品 "wikilink")
+[Category:ウルトラシリーズオリジナルビデオ作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズオリジナルビデオ作品 "wikilink") [Category:仮面ライダーシリーズのオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズのオリジナルビデオ "wikilink") [Category:ウルトラシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズのクロスオーバー作品 "wikilink") [Category:仮面ライダーシリーズのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:仮面ライダーシリーズのクロスオーバー作品 "wikilink") [Category:ウルトラマン](https://ja.wikipedia.org/wiki/Category:ウルトラマン "wikilink") [Category:仮面ライダー](https://ja.wikipedia.org/wiki/Category:仮面ライダー "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:東京を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした作品 "wikilink")
 
 1.
 2.

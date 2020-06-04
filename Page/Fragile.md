@@ -26,7 +26,7 @@
 
 ### 名前
 
-  - FRAGILE（フラジャイル） - [矢堀孝一](https://ja.wikipedia.org/wiki/矢堀孝一 "wikilink")、[水野正敏](https://ja.wikipedia.org/wiki/水野正敏 "wikilink")、[菅沼孝三](../Page/菅沼孝三.md "wikilink")による日本の[ジャズ・ロック](../Page/ジャズ・ロック.md "wikilink")バンド。
+  - FRAGILE（フラジャイル） - [矢堀孝一](https://ja.wikipedia.org/wiki/矢堀孝一 "wikilink")、[水野正敏](../Page/水野正敏.md "wikilink")、[菅沼孝三](../Page/菅沼孝三.md "wikilink")による日本の[ジャズ・ロック](../Page/ジャズ・ロック.md "wikilink")バンド。
 
 ## その他
 

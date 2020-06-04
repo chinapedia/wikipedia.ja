@@ -11,6 +11,8 @@
 
 初めは個人間のテレビ会議を意図されていたが、インターネットユーザーが世界中の他の場所に設置されたカメラからの画像を見て楽しんでいるということは、早いうちから分かっていた。
 
+2020年4月、[新型コロナウイルス感染症の](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[パンデミック](../Page/パンデミック.md "wikilink")による、[在宅勤務](https://ja.wikipedia.org/wiki/在宅勤務 "wikilink")を中心とした[テレワーク](../Page/テレワーク.md "wikilink")やオンライン授業の急増や外出全体の減少の結果、Webカメラが需要急増や品薄となる中、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")の米関連会社Canon U.S.A.は、同社製の一部のカメラをWebカメラ化する[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[ベータ版](../Page/ベータ版.md "wikilink")を公開した。\[1\]
+
 ## ビデオカメラとしてのウェブカメラ
 
 本来リアルタイム放送（生中継）に用いられることを目的としているウェブカメラだが、最近では一般のビデオカメラと同様に使用されることがしばしばある。 前述の通り、動画共有サイトにアップデートする動画の撮影に主に使用される。主な理由としては、パソコンへの取り込み作業が必要ないこと、技術進歩によって、一般のビデオカメラにも劣らないほど の高画質映像を撮影できるようになったことがあげられる。
@@ -23,8 +25,8 @@
 
 ## 問題点
 
-  - 自分の子供の様子をパソコンや携帯電話などで閲覧できることなどが人気を呼び、[保育所](../Page/保育所.md "wikilink")や[幼稚園](../Page/幼稚園.md "wikilink")、[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")などにウェブカメラが設置される例が増えているが、設定ミスなどの要因により、インターネット上で外部から丸見えの状態になっており、窓の外や背景に映ったごくわずかな情報（ビルの並び、外を走る車など）でも住所を特定される危険がある。こうした映像を「[覗き見](../Page/窃視症.md "wikilink")」できるサイトも報告されており、プライバシー侵害などの点で問題となっているが、現状では[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")の定義にはあたらず、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")には問いにくく、法規制を求める声も強い\[1\]。
-  - [アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月](../Page/9月.md "wikilink")に、男子大学生が室内のプライバシー映像をルームメイトにウェブカメラで[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")され、[Twitter](../Page/Twitter.md "wikilink")に投稿された。当該の大学生は、これを苦にして[自殺](../Page/自殺.md "wikilink")した。盗撮していたルームメイトの男女2人はその後逮捕された\[2\]。
+  - 自分の子供の様子をパソコンや携帯電話などで閲覧できることなどが人気を呼び、[保育所](../Page/保育所.md "wikilink")や[幼稚園](../Page/幼稚園.md "wikilink")、[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")などにウェブカメラが設置される例が増えているが、設定ミスなどの要因により、インターネット上で外部から丸見えの状態になっており、窓の外や背景に映ったごくわずかな情報（ビルの並び、外を走る車など）でも住所を特定される危険がある。こうした映像を「[覗き見](../Page/窃視症.md "wikilink")」できるサイトも報告されており、プライバシー侵害などの点で問題となっているが、現状では[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")の定義にはあたらず、[犯罪](https://ja.wikipedia.org/wiki/犯罪 "wikilink")には問いにくく、法規制を求める声も強い\[2\]。
+  - [アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")で[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月](../Page/9月.md "wikilink")に、男子大学生が室内のプライバシー映像をルームメイトにウェブカメラで[盗撮](https://ja.wikipedia.org/wiki/盗撮 "wikilink")され、[Twitter](../Page/Twitter.md "wikilink")に投稿された。当該の大学生は、これを苦にして[自殺](../Page/自殺.md "wikilink")した。盗撮していたルームメイトの男女2人はその後逮捕された\[3\]。
 
 ## 脚注
 
@@ -58,5 +60,6 @@
 
 [Category:通信機器](https://ja.wikipedia.org/wiki/Category:通信機器 "wikilink") [Category:ハードウェア](https://ja.wikipedia.org/wiki/Category:ハードウェア "wikilink") [Category:ビデオカメラ](https://ja.wikipedia.org/wiki/Category:ビデオカメラ "wikilink")
 
-1.  ※現在は[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")に残存
-2.  ※現在はインターネットアーカイブに残存
+1.  <https://dc.watch.impress.co.jp/docs/news/1250297.html>
+2.  ※現在は[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")に残存
+3.  ※現在はインターネットアーカイブに残存

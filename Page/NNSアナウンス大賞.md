@@ -11,7 +11,7 @@
   - [2006年](../Page/2006年.md "wikilink")度に、新人部門（入社3年以内のアナウンサーが対象）が新たに設けられた。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度は、テレビ部門の選考が激戦だったため、特別に「最優秀パーソナリティ賞」を設置している。
   - 授賞式は毎年3月頃に行われ、『北海道・東北』、『関東・中部』、『西日本』、『九州』の4ブロックからノミネートされた10人前後のアナウンサーの中から受賞者が発表される。
-  - 最優秀賞は第1回で[徳光和夫](../Page/徳光和夫.md "wikilink")、第6回で[大友寿郎](../Page/大友寿郎.md "wikilink")（現:[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")常務取締役ラジオ局長）が獲得。
+  - 最優秀賞は第1回で[徳光和夫](../Page/徳光和夫.md "wikilink")、第6回で[大友寿郎](../Page/大友寿郎.md "wikilink")（元[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")特別顧問）が獲得。
 
 ## 近年の主な受賞者
 
@@ -154,13 +154,13 @@
 <td><p>第38回<br />
 （<a href="../Page/2017年.md" title="wikilink">2017年</a>）[15]</p></td>
 <td><p><a href="../Page/田中毅.md" title="wikilink">田中毅</a>（<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ放送網</a>）</p></td>
-<td><p><a href="../Page/田村修.md" title="wikilink">田村修</a>（<a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>）</p></td>
+<td><p><a href="../Page/田村修.md" title="wikilink">田村修</a>（<a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/酒井美帆" title="wikilink">酒井美帆</a>（<a href="../Page/テレビ新潟放送網.md" title="wikilink">テレビ新潟放送網</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>第39回<br />
 （<a href="../Page/2018年.md" title="wikilink">2018年</a>）[16]</p></td>
-<td><p><a href="../Page/武道優美子.md" title="wikilink">武道優美子</a>（<a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>）</p></td>
+<td><p><a href="../Page/武道優美子.md" title="wikilink">武道優美子</a>（<a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>）</p></td>
 <td><p><a href="../Page/筋野裕子.md" title="wikilink">筋野裕子</a>（<a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/元木寛人" title="wikilink">元木寛人</a>（<a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>）</p></td>
 </tr>

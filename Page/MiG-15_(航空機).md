@@ -1,7 +1,8 @@
 > この記事は[MiG-15 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-15_\(航空機\))から翻訳されています。
 
 
-{{ Infobox 航空機 | 名称=  | 画像=Image:MiG-15 USAF.jpg | キャプション=[国立アメリカ空軍博物館](../Page/国立アメリカ空軍博物館.md "wikilink")で展示される[朝鮮人民軍](../Page/朝鮮人民軍.md "wikilink")塗色のMiG-15bis。[盧今錫](https://ja.wikipedia.org/wiki/盧今錫 "wikilink")が亡命時に搭乗していたもの。 | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者=[ミコヤーン・グレーヴィチ設計局](../Page/MiG.md "wikilink") | 製造者= | 運用者= | 運用者 more=：
+{{ Infobox 航空機 | 名称= | 画像=<File:MiG-15-ös> típusú vadászrepülőgép. Fortepan 9040.jpg | キャプション=飛行するMiG-15bis 657号機
+([ハンガリー空軍](https://ja.wikipedia.org/wiki/ハンガリー空軍 "wikilink")所属、[1964年](../Page/1964年.md "wikilink")撮影) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者=[ミコヤン・グレヴィッチ設計局](../Page/MiG.md "wikilink") | 製造者=ミコヤン・グレヴィッチ設計局 | 運用者= | 運用者 more=：
 
   -   - （[ソ連空軍](../Page/ソ連空軍.md "wikilink")、[ソ連防空軍](../Page/ソ連防空軍.md "wikilink")）
 
@@ -9,7 +10,9 @@
 
       - （[北朝鮮空軍](https://ja.wikipedia.org/wiki/朝鮮人民軍空軍 "wikilink")）他
 
-| 初飛行年月日=[1947年](../Page/1947年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") | 生産数=15,000機以上 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=一部地域で訓練機として現役 | ユニットコスト= }} **MiG-15**（ミグ15、[露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：****、<small>ミーク・ピトナーッツァチ</small>）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミグ設計局が開発し](../Page/MiG.md "wikilink")、[東側諸国](../Page/東側諸国.md "wikilink")を中心に世界中で広く使用された[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。[DoDが割り当てたコードネームはMiG](../Page/アメリカ国防総省.md "wikilink")-15が**Type 14**、SP-1が**Type 19**、MiG-15UTIが**Type 29**。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")はMiG-15が**ファゴット** (Fagot)、MiG-15UTIは**ミジェット** (Midget)。
+| 初飛行年月日=[1947年](../Page/1947年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") | 生産数=15,000機以上 | 生産開始年月日= | 運用開始年月日=[1949年](../Page/1949年.md "wikilink") | 退役年月日= | 運用状況=一部地域で訓練機として現役 | ユニットコスト= }} **MiG-15**（*Mikoyan-Gurevich MiG-15* ミグ15 / [露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink") : **** ）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミコヤン・グレヴィッチ設計局が開発し](../Page/MiG.md "wikilink")、[東側諸国](../Page/東側諸国.md "wikilink")を中心に世界中で広く使用された[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。
+
+[DoDが割り当てたコードネームはMiG](../Page/アメリカ国防総省.md "wikilink")-15が**Type 14**、SP-1が**Type 19**、MiG-15UTIが**Type 29**。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")はMiG-15が**ファゴット** (Fagot)、MiG-15UTIは**ミジェット** (Midget)。
 
 ## 概要
 
@@ -81,6 +84,8 @@ MIG-15UTI-hatzerim-2.jpg|MiG-15UTI S-103.jpg|S-103 MiG-15 RB1.jpg|Lim-1 Krzesiny
 {{-}}
 
 ## 採用国
+
+[World_operators_of_the_MiG-15-2.png](https://ja.wikipedia.org/wiki/File:World_operators_of_the_MiG-15-2.png "fig:World_operators_of_the_MiG-15-2.png")
 
 ## 脚注
 

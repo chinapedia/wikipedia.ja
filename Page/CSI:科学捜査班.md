@@ -367,7 +367,7 @@
   - ポール・ウィンスロップ / ジャレッド・ブリスコ
     演 -
     通称：ギグ・ハーバー・キラー。第15シーズンで登場する凶悪殺人鬼。ラッセルとフィンが5年前にいたシアトルで起こった7件の連続殺人事件の犯人。一旦はジャレッドが逮捕され死刑執行直前だったが、ウィンスロップ連行時に爆弾トラップに引っかかり釈放されてしまう。
-    第15シーズン6話では更に三人の女性を殺害。13話で更に一人殺し、ラッセルの娘のマヤも誘拐するが、ダニエル・ショーの機転によってブリスコは射殺された。第15シーズン最終話では、辛うじて逃亡したウィンスロップが傷が癒えた後自ら中指を切り落としてブリスコになり、父親のコリン・ウィンスロップとショーを射殺する。そして自宅待機中のフィンを撲殺した後、（シーズン最終話では意識不明だったが、最終回ラストで死亡が判明する）駆けつけたサラ達に射殺された。
+    第15シーズン6話では更に三人の女性を殺害。13話で更に一人殺し、ラッセルの娘のマヤも誘拐するが、ダニエル・ショーの機転によってブリスコは射殺された。第15シーズン最終話では、辛うじて逃亡したウィンスロップが傷が癒えた後自ら中指を切り落としてブリスコになり、父親のコリン・ウィンスロップとショーを射殺する。そして自宅待機中のフィンを撲殺した後（シーズン最終話では意識不明だったが、最終回ラストで死亡が判明する）、駆けつけたサラ達に射殺された。
 
 ### 主なゲスト出演者
 
@@ -770,7 +770,7 @@
   - データーベース
       - [IMDb CSI](https://www.imdb.com/title/tt0247082/)
 
-[Category:CSI](https://ja.wikipedia.org/wiki/Category:CSI "wikilink") [Category:推理ドラマ](https://ja.wikipedia.org/wiki/Category:推理ドラマ "wikilink") [Category:警察を題材としたドラマ作品](https://ja.wikipedia.org/wiki/Category:警察を題材としたドラマ作品 "wikilink") [Category:ラスベガスを舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ラスベガスを舞台としたテレビ番組 "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:CBS](https://ja.wikipedia.org/wiki/Category:CBS "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:テレビ東京のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ "wikilink") [Category:テレビ東京月曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京月曜10時枠の連続ドラマ "wikilink") [Category:AXN](https://ja.wikipedia.org/wiki/Category:AXN "wikilink") [Category:Dlifeのテレビ番組](https://ja.wikipedia.org/wiki/Category:Dlifeのテレビ番組 "wikilink")
+[Category:CSI](https://ja.wikipedia.org/wiki/Category:CSI "wikilink") [Category:推理ドラマ](https://ja.wikipedia.org/wiki/Category:推理ドラマ "wikilink") [Category:警察を題材としたドラマ作品](https://ja.wikipedia.org/wiki/Category:警察を題材としたドラマ作品 "wikilink") [Category:ラスベガスを舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ラスベガスを舞台としたテレビ番組 "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:CBS](https://ja.wikipedia.org/wiki/Category:CBS "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:テレビ東京のテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ "wikilink") [Category:テレビ東京月曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京月曜10時枠の連続ドラマ "wikilink") [Category:AXN](https://ja.wikipedia.org/wiki/Category:AXN "wikilink") [Category:Dlifeのテレビ番組](https://ja.wikipedia.org/wiki/Category:Dlifeのテレビ番組 "wikilink") [Category:サスペンスドラマ](https://ja.wikipedia.org/wiki/Category:サスペンスドラマ "wikilink")
 
 1.
 2.  ["Weekly Program Rankings"](http://abcmedianet.com/web/dnr/dispDNR.aspx?id=112304_07)、[ABCメディアネット](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（2004年11月23日）、2014年2月5日閲覧。

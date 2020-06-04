@@ -288,7 +288,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>★特別企画「<a href="https://ja.wikipedia.org/wiki/恋のから騒ぎ" title="wikilink">恋のから騒ぎ</a>ドラマスペシャルⅢ」</p></td>
+<td><p>★特別企画「<a href="../Page/恋のから騒ぎ.md" title="wikilink">恋のから騒ぎ</a>ドラマスペシャルⅢ」</p></td>
 <td><p>2006/9/26</p></td>
 <td><p>12.2%</p></td>
 </tr>
@@ -366,7 +366,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a> (ABS)</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a> (ABS)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -408,7 +408,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a> (KNB)</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a> (KNB)</p></td>
 <td></td>
 <td></td>
 </tr>

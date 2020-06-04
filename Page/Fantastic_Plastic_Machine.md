@@ -54,7 +54,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 </div></li>
 </ol></td>
-<td><p>日本コロムビア</p></td>
+<td><p><a href="../Page/日本コロムビア.md" title="wikilink">日本コロムビア</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
@@ -67,8 +67,8 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>There Must Be An Angel(Playing with My Heart)</li>
-<li>Electric Lady Land(Japanese Version)</li>
+<li>There Must Be An Angel (Playing with My Heart)</li>
+<li>Electric Lady Land (Japanese Version)</li>
 <li>Bossa For Jackie
 </div>
 </div></li>
@@ -86,9 +86,9 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>TAKE ME TO THE DISCO(FPM Original Mix)</li>
-<li>TAKE ME TO THE DISCO(Legendary Disco All Stars Remix)</li>
-<li>BACHELOR PAD(Version for “The Spy Who Shagged Me”)
+<li>TAKE ME TO THE DISCO (FPM Original Mix)</li>
+<li>TAKE ME TO THE DISCO (Legendary Disco All Stars Remix)</li>
+<li>BACHELOR PAD (Version for “The Spy Who Shagged Me”)
 </div>
 </div></li>
 </ol></td>
@@ -109,11 +109,11 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>Why Not?</li>
 <li>Philosophy</li>
 <li>Never Ever</li>
-<li>Why Not?(The Flnest Dub)
+<li>Why Not? (The Flnest Dub)
 </div>
 </div></li>
 </ol></td>
-<td><p>cutting edge</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/cutting_edge" title="wikilink">cutting edge</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -146,14 +146,14 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>Bon Voyage</li>
 <li>L'aventure Fantastique</li>
 <li>Steppin' Out</li>
-<li>Bachelar Pad(F.P.M.EDIT)</li>
+<li>Bachelar Pad (F.P.M.EDIT)</li>
 <li>Fantastic Plastic World</li>
 <li>Dear Mr.Salesman</li>
 <li>Allen Ginsberg</li>
 <li>First Class '77</li>
-<li>Philter(In Viaggio Attraverso L'Australia)</li>
+<li>Philter (In Viaggio Attraverso L'Australia)</li>
 <li>Please,Stop!</li>
-<li>Pura Saudade(Nova Bossa Nova)
+<li>Pura Saudade (Nova Bossa Nova)
 </div>
 </div></li>
 </ol></td>
@@ -171,17 +171,17 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Theme of Luxury</li>
-<li>There Must Be An Angel(Playing with My Heart)(Mix for Mirror Ball)</li>
+<li>There Must Be An Angel (Playing with My Heart)(Mix for Mirror Ball)</li>
 <li>Honolulu,Calcutta</li>
-<li>Electric Lady Land(English Version)</li>
+<li>Electric Lady Land (English Version)</li>
 <li>He Became A Beatnik</li>
-<li>Bossa For Jackie(Dedicated To Mrs.Kennedy)</li>
+<li>Bossa For Jackie (Dedicated To Mrs.Kennedy)</li>
 <li>You Must Learn All Night Long</li>
 <li>Lotto</li>
 <li>Satellite Beats</li>
 <li>I've Forgotten My Fagotto</li>
 <li>The Girl Next Green Door</li>
-<li>mpf(Mezzo Pianoforte)</li>
+<li>mpf (Mezzo Pianoforte)</li>
 <li>Mr.Fantasy's Love
 </div>
 </div></li>
@@ -210,11 +210,11 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>I'm Still A Simple Man</li>
 <li>Black Dada</li>
 <li>God Save The Mona Lisa</li>
-<li>Beautiful Days(Reprise)
+<li>Beautiful Days (Reprise)
 </div>
 </div></li>
 </ol></td>
-<td><p>avex trax</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
@@ -233,12 +233,12 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>The King of Pleasure</li>
 <li>Spectacular</li>
 <li>Supervenience</li>
-<li>Philosophy(Full Spoken Mix)</li>
+<li>Philosophy (Full Spoken Mix)</li>
 <li>Submission</li>
 <li>Days and Days</li>
 <li>Euphoria</li>
-<li>Reaching for the Stars＜Reprise＞</li>
-<li>Never Ever(Extra Vocal Mix)</li>
+<li>Reaching for the Stars <Reprise></li>
+<li>Never Ever (Extra Vocal Mix)</li>
 <li>Da Judge
 </div>
 </div></li>
@@ -256,15 +256,15 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>xiang xiang(monologue)シャンシャン</li>
+<li>xiang xiang (monologue) シャンシャン</li>
 <li>fanfare ファンファーレ feat.TAHITI 80</li>
-<li>don't you know? ドンチューノウ? feat.CLAZZIQUAI PROJECT</li>
-<li>tell me テルミー feat.BENJAMIN DIAMOND</li>
+<li>don't you know? ドンチューノウ? feat. <a href="../Page/CLAZZIQUAI_PROJECT.md" title="wikilink">CLAZZIQUAI PROJECT</a></li>
+<li>tell me テルミー feat. BENJAMIN DIAMOND</li>
 <li>paparuwa パパルワ</li>
-<li>dance dance dance dance ダンス・ダンス・ダンス・ダンス feat.SU(RIP SLYME)</li>
-<li>here in my mind(introduction to“slippin' on down”)ヒア・イン・マイ・マインド</li>
-<li>slippin' on down スリッピン・オン・ダウン feat.BOB ARKIN</li>
-<li>a world without love ア・ワールド・ウィザウト・ラヴ feat.BONNIE PINK</li>
+<li>dance dance dance dance ダンス・ダンス・ダンス・ダンス feat. SU (<a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>)</li>
+<li>here in my mind (introduction to“slippin' on down”) ヒア・イン・マイ・マインド</li>
+<li>slippin' on down スリッピン・オン・ダウン feat. BOB ARKIN</li>
+<li>a world without love ア・ワールド・ウィザウト・ラヴ feat. <a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a></li>
 <li>french kiss フレンチ・キス</li>
 <li>obsession オブセッション</li>
 <li>take me away テイク・ミー・アウェイ feat. UGLY DUCKLING</li>
@@ -286,12 +286,12 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>If You Do,I Do(威風堂々)</li>
+<li>If You Do,I Do（威風堂々）</li>
 <li>Without You</li>
 <li>I Think</li>
 <li>Hey Ladies</li>
 <li>Can't You Feel It?</li>
-<li>Forever Mine(Piano Dub)</li>
+<li>Forever Mine (Piano Dub)</li>
 <li>Madness</li>
 <li>Sex</li>
 <li>Alphabet</li>
@@ -323,7 +323,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>AI NO YUME</li>
 <li>HUNGARIAN DANCE NO.5</li>
 <li>CARMEN</li>
-<li>IF YOU DO,I DO(威風堂々)
+<li>IF YOU DO,I DO（威風堂々）
 </div>
 </div></li>
 </ol></td>
@@ -342,8 +342,8 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>GOD ONLY KNOWS</li>
-<li>DAREMOSHIRANAI だれもしらない feat.環ROY</li>
-<li>I WAS IN LOVE アイ・ワズ・イン・ラヴ feat.細美武士(<a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a>)</li>
+<li>DAREMOSHIRANAI だれもしらない feat. <a href="https://ja.wikipedia.org/wiki/環ROY" title="wikilink">環ROY</a></li>
+<li>I WAS IN LOVE アイ・ワズ・イン・ラヴ feat. <a href="../Page/細美武士.md" title="wikilink">細美武士</a> (<a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a>)</li>
 <li>GIMME UR BEAT</li>
 <li>1000 FACES</li>
 <li>BRING DA NOISE</li>
@@ -352,7 +352,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>TOKYO</li>
 <li>STREAMLINER</li>
 <li>OTHER STORIES</li>
-<li>LIKE A VIRGIN 2NE1 produced by FPM[BONUS TRACK]
+<li><a href="https://ja.wikipedia.org/wiki/ライク・ア・ヴァージン_(曲)" title="wikilink">LIKE A VIRGIN</a> <a href="https://ja.wikipedia.org/wiki/2NE1" title="wikilink">2NE1</a> produced by FPM [BONUS TRACK]
 </div>
 </div></li>
 </ol></td>
@@ -410,17 +410,17 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>City Lights</li>
-<li>Beautiful Days(TAKU'S GARAGE MIX)</li>
-<li>Whistle Song(Sunaga't Experience Remix)</li>
+<li>Beautiful Days (TAKU'S GARAGE MIX)</li>
+<li>Whistle Song (<a href="https://ja.wikipedia.org/wiki/須永辰緒" title="wikilink">Sunaga t Experience</a> Remix)</li>
 <li>God Save The Mona Lisa</li>
 <li>Paragon2</li>
-<li>Black Dada(江戸前Mix)</li>
-<li>Love Is Psychedelic(Full Spoken Mix)</li>
+<li>Black Dada (江戸前Mix)</li>
+<li>Love Is Psychedelic (Full Spoken Mix)</li>
 <li>I'm Still A Simple Man</li>
-<li>Todos OS Desejos～欲望のすべて～＜King Britt's Scuba Mix＞</li>
-<li>すべてをゆらして(On A Chair)</li>
-<li>Whistle Song(Grant Nelson Club mix)</li>
-<li>Beautiful Days(Female Vocal Version)
+<li>Todos OS Desejos ～欲望のすべて～ &lt;King Britt's Scuba Mix&gt;</li>
+<li>すべてをゆらして (On A Chair)</li>
+<li>Whistle Song (Grant Nelson Club mix)</li>
+<li>Beautiful Days (Female Vocal Version)
 </div>
 </div></li>
 </ol></td>
@@ -437,23 +437,23 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Overture of“too”</li>
+<li>Overture of “too”</li>
 <li>Reaching for the Stars</li>
-<li>Why Not?(Original Version)</li>
+<li>Why Not? (Original Version)</li>
 <li>Spectacular</li>
 <li>The King of Pleasure</li>
-<li>Philosophy(Full Spoken Mix)</li>
+<li>Philosophy (Full Spoken Mix)</li>
 <li>Submission</li>
 <li>Supervenience</li>
 <li>Days and Days</li>
-<li>Reaching for the Stars(Reprise)</li>
+<li>Reaching for the Stars (Reprise)</li>
 <li>Euphoria</li>
-<li>Never Ever(Extra Vocal Mix)</li>
+<li>Never Ever (Extra Vocal Mix)</li>
 <li>Da Judge
 </div>
 </div></li>
 </ol></td>
-<td><p>Rhythm REPUBLIC</p></td>
+<td><p><a href="../Page/Rhythm_REPUBLIC.md" title="wikilink">Rhythm REPUBLIC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
@@ -468,8 +468,8 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <ol>
 <li>CURIOSITY (Ko-Matsushima &amp; Erich Logan Remix)</li>
 <li>GIMME UR BEAT (Hoshina Anniversary Remix)</li>
-<li>1000 FACES (DJ Mykal a.k.a.林哲儀 &amp; Pilot K 'MKP' Transition Remix)</li>
-<li>TOKYO (TJO &amp; YUSUKE from BLU-SWING Remix)</li>
+<li>1000 FACES (DJ Mykal a.k.a. 林哲儀 &amp; Pilot K 'MKP' Transition Remix)</li>
+<li>TOKYO (TJO &amp; YUSUKE from <a href="https://ja.wikipedia.org/wiki/Blu-Swing" title="wikilink">BLU-SWING</a> Remix)</li>
 <li>OTHER STORIES (Norihito Ogawa Remix)</li>
 <li>STREAMLINER (KILL THE HERO REMIX)</li>
 <li>DAREMOSHIRANAI (Ken Oshima Remix)</li>
@@ -479,13 +479,13 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>DAREMOSHIRANAI (Koji Miyatake Remix)</li>
 <li>STREAMLINER (el poco maro Remix)</li>
 <li>TOKYO (TJO &amp; YUSUKE from BLU-SWING Twisted Dub)</li>
-<li>DAREMOSHIRANAI (Tha Under Stars[副島ショーゴ,今泉タカシ] Remix)</li>
+<li>DAREMOSHIRANAI (Tha Under Stars [副島ショーゴ,今泉タカシ] Remix)</li>
 <li>OTHER STORIES (KNOXX Remix)</li>
 <li>GO FOR BROKE (KAN TAKAHIKO Remix)</li>
 <li>OTHER STORIES (Lady Citizen Kamogawa Remix)</li>
 </ol>
 </div></td>
-<td></td>
+<td><p>NEVER EVER</p></td>
 </tr>
 </tbody>
 </table>
@@ -514,7 +514,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>バンビ</li>
-<li>THERE MUST BE AN ANGEL(PLAYNG WITH MY HEART)</li>
+<li>THERE MUST BE AN ANGEL (PLAYNG WITH MY HEART)</li>
 <li>ソンブレ・ギター</li>
 <li>バトゥカーダ</li>
 <li>カリメロ'68</li>
@@ -540,14 +540,14 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>ルイ・ルイ</li>
 <li>イッツ・ジャジー</li>
 <li>スウィッチ</li>
-<li>A RIVER DRY(THE GIRL FROM SOUTH)</li>
+<li>A RIVER DRY (THE GIRL FROM SOUTH)</li>
 <li>Strandgut</li>
 <li>ムーンブーツ</li>
 <li>テーマ・フロム・ア・サマー・プレイス
 </div>
 </div></li>
 </ol></td>
-<td><p>TOSHIBA EMI</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東芝EMI" title="wikilink">東芝EMI</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
@@ -560,7 +560,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Daddy's Delight(FPM Talker Vocal Mix)</li>
+<li>Daddy's Delight (FPM Talker Vocal Mix)</li>
 <li>Something</li>
 <li>Climb</li>
 <li>Eple</li>
@@ -568,7 +568,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>A Love Song</li>
 <li>La Sombra</li>
 <li>Moments In Love</li>
-<li>Natural Born Dub(Riverside Christmas Remix)</li>
+<li>Natural Born Dub (Riverside Christmas Remix)</li>
 <li>Love To Share</li>
 <li>Komm Und Spiel Mit Mir</li>
 <li>Pranto De Poeta</li>
@@ -577,7 +577,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>Brazilian Suite</li>
 <li>Baby</li>
 <li>If You Don't Want My Love</li>
-<li>Girl In Black-Tango(Para Mi Negra)
+<li>Girl In Black-Tango (Para Mi Negra)
 </div>
 </div></li>
 </ol></td>
@@ -595,26 +595,26 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Strings In Heaven</li>
-<li>Because(Original Club Mix)</li>
-<li>Change The World(Original Mix)</li>
+<li>Because (Original Club Mix)</li>
+<li>Change The World (Original Mix)</li>
 <li>Blanco</li>
-<li>Open Season(Main Mix)</li>
-<li>The Trick(Think Away)</li>
-<li>Deck The House(Akufen Mix)</li>
-<li>Disco Cubizm(Daft Punk Remix)</li>
-<li>Flawless(Phunk Investigation Vocal Mix)</li>
+<li>Open Season (Main Mix)</li>
+<li>The Trick (Think Away)</li>
+<li>Deck The House (<a href="https://ja.wikipedia.org/wiki/Akufen" title="wikilink">Akufen</a> Mix)</li>
+<li>Disco Cubizm (<a href="https://ja.wikipedia.org/wiki/Daft_Punk" title="wikilink">Daft Punk</a> Remix)</li>
+<li>Flawless (Phunk Investigation Vocal Mix)</li>
 <li>Da Hip House</li>
 <li>The Hell Of A Guy</li>
 <li>Luv Insite</li>
-<li>Another Day(Max Heaven Mix)</li>
-<li>Fallin'High(Extended Club)</li>
-<li>Euphoria(Mondo Grosso Re-mix)</li>
-<li>Holdin'On(Olav Basoski Mix)</li>
-<li>Keep Movin'On(Nari &amp; Gaudino Re-Original Mix)</li>
-<li>Mr Wendal(Perfecto Mix)</li>
+<li>Another Day (Max Heaven Mix)</li>
+<li>Fallin'High (Extended Club)</li>
+<li>Euphoria (<a href="https://ja.wikipedia.org/wiki/Mondo_Grosso" title="wikilink">Mondo Grosso</a> Re-mix)</li>
+<li>Holdin'On (Olav Basoski Mix)</li>
+<li>Keep Movin'On (Nari &amp; Gaudino Re-Original Mix)</li>
+<li>Mr Wendal (Perfecto Mix)</li>
 <li>Strings Of Love</li>
-<li>Mousetrap(Look What The Cat Dragged In Mix)</li>
-<li>You(Back To The Future Mix)
+<li>Mousetrap (Look What The Cat Dragged In Mix)</li>
+<li>You (Back To The Future Mix)
 </div>
 </div></li>
 </ol></td>
@@ -648,8 +648,8 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>Close Your Eyes And Listen</li>
 <li>La Maison Du Cafe</li>
 <li>Full On Lady</li>
-<li>The Last Picture Show(Shifty Revamp Y2K+4)</li>
-<li>Bushes(Zero Valut Version)
+<li>The Last Picture Show (Shifty Revamp Y2K+4)</li>
+<li>Bushes (Zero Valut Version)
 </div>
 </div></li>
 </ol></td>
@@ -666,21 +666,21 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Bushes(FPM's Telecaster Mix)</li>
+<li>Bushes (FPM's <a href="https://ja.wikipedia.org/wiki/Telecaster" title="wikilink">Telecaster</a> Mix)</li>
 <li>Birthday</li>
 <li>Man With Guitar</li>
-<li>The One(Main Mix)</li>
-<li>Da Hype(Extended Vocal Version)</li>
-<li>Nasty(Main Mix)</li>
-<li>Me And Giuliani Down By The School Yard(A True Story)</li>
-<li>Three Girl Rhumba(Play Paul's＜Rock Me If Possible＞Club Mix)</li>
-<li>David(Tim Deluxe Mix)</li>
+<li>The One (Main Mix)</li>
+<li>Da Hype (Extended Vocal Version)</li>
+<li>Nasty (Main Mix)</li>
+<li>Me And Giuliani Down By The School Yard (A True Story)</li>
+<li>Three Girl Rhumba (Play Paul's <Rock Me If Possible> Club Mix)</li>
+<li>David (Tim Deluxe Mix)</li>
 <li>Saturday 7.15</li>
-<li>The Roof Is On Fire(Christopher Just Mix)</li>
+<li>The Roof Is On Fire (Christopher Just Mix)</li>
 <li>Batucada</li>
-<li>In The Sky(Joey Negro Red Sky Club Edit)</li>
-<li>Strings Of Life(Danny Krivit's Extended Edit)</li>
-<li>Hale No Sola Sita～La Yellow Samba～(FPM Punky Samba Mix)
+<li>In The Sky (Joey Negro Red Sky Club Edit)</li>
+<li>Strings Of Life (Danny Krivit's Extended Edit)</li>
+<li>Hale No Sola Sita～La Yellow Samba～ (FPM Punky Samba Mix)
 </div>
 </div></li>
 </ol></td>
@@ -697,20 +697,20 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Playmate'74(FPM's Samba Whistle Mix)</li>
-<li>I Feel Love(Fantastic Plastic Machine Remix)</li>
-<li>Behind The Mask(FPM's Sweet Soul Bossa Nova)</li>
-<li>Le Freak(FPM's Feel The Rhythm Mix)</li>
-<li>Use Me(Fantastic Plastic Machine City Lights'Remix)</li>
-<li>September(FPM Beautiful Latin Mix)</li>
-<li>City Lights(FPM Samba Mix)</li>
-<li>Belinda May(Edit)(original track by Ennio Morricone)</li>
-<li>A River Dry(THE GIRL FROM SOUTH)(FPM REMIX)</li>
-<li>Sex Machine(Fantastic Sex Machine Mix)</li>
-<li>グッデイ・グッバイ(FPM Mix for Nightfly)</li>
-<li>よる★かぜ(FPM Disco Tropicana)</li>
-<li>Life Goes On(FPM Beautiful Lovers Mix)</li>
-<li>影と光(FPM Palme D'Or Mix)
+<li>Playmate'74 (FPM's Samba Whistle Mix)</li>
+<li>I Feel Love (Fantastic Plastic Machine Remix)</li>
+<li>Behind The Mask (FPM's Sweet Soul Bossa Nova)</li>
+<li>Le Freak (FPM's Feel The Rhythm Mix)</li>
+<li>Use Me (Fantastic Plastic Machine City Lights'Remix)</li>
+<li>September (FPM Beautiful Latin Mix)</li>
+<li>City Lights (FPM Samba Mix)</li>
+<li>Belinda May (Edit) (original track by Ennio Morricone)</li>
+<li>A River Dry (THE GIRL FROM SOUTH) (FPM REMIX)</li>
+<li>Sex Machine (Fantastic Sex Machine Mix)</li>
+<li>グッデイ・グッバイ (FPM Mix for Nightfly)</li>
+<li><a href="https://ja.wikipedia.org/wiki/よる☆かぜ" title="wikilink">よる☆かぜ</a> (FPM Disco Tropicana)</li>
+<li><a href="../Page/Life_goes_on_(Dragon_Ashの曲).md" title="wikilink">Life Goes On</a> (FPM Beautiful Lovers Mix)</li>
+<li>影と光 (FPM Palme D'Or Mix)
 </div>
 </div></li>
 </ol></td>
@@ -728,11 +728,11 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Hey Buckaroo</li>
-<li>Falling(G1)</li>
+<li>Falling (G1)</li>
 <li>Mild and Bitter</li>
 <li>Les Cerfs-Volants</li>
 <li>Special Delivery</li>
-<li>Happiness(Ashley Beedle's West Coast Beach Bossa Vocal Mix)</li>
+<li>Happiness (Ashley Beedle's West Coast Beach (Bossa Vocal Mix)</li>
 <li>Samba,Viola e Eu</li>
 <li>La Nuit Des Masques</li>
 <li>Fascination</li>
@@ -741,7 +741,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>Perfidia</li>
 <li>Breezing</li>
 <li>Don't Let Me Be Lonely Tonight</li>
-<li>What Now My Love(Et Maintenant)</li>
+<li>What Now My Love (Et Maintenant)</li>
 <li>El Pajarillo</li>
 <li>Black Dada</li>
 <li>Forbidden Colours</li>
@@ -765,19 +765,19 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <ol>
 <li>Tell Me</li>
 <li>Just A Lil' Lovin'</li>
-<li>Girl!(Radio Slave Remix)</li>
-<li>Geht's Noch?(Dominik Eulberg Remix)</li>
-<li>Maps(Michael Mayer/Tobias Thomas RMX)</li>
-<li>Bassline(Original Mix)</li>
-<li>You Got That(What!? Luv Dub...)</li>
+<li>Girl! (Radio Slave Remix)</li>
+<li>Geht's Noch? (Dominik Eulberg Remix)</li>
+<li>Maps (Michael Mayer / Tobias Thomas RMX)</li>
+<li>Bassline (Original Mix)</li>
+<li>You Got That (What!? Luv Dub...)</li>
 <li>Eeeeaaooww</li>
-<li>Le Freak(Wackside Superflausch Remix)</li>
-<li>Love Shack(DJ Tonka Remix)</li>
-<li>NY Lipps(Kawazaki Dub)</li>
-<li>Don't Let The Man Get You Down(Tache Tastic Mix)</li>
-<li>Something About You(Live Element Club Mix)</li>
-<li>Let's Get High(Album)</li>
-<li>Tell Me(Acapella)
+<li>Le Freak (Wackside Superflausch Remix)</li>
+<li>Love Shack (DJ Tonka Remix)</li>
+<li>NY Lipps (Kawazaki Dub)</li>
+<li>Don't Let The Man Get You Down (Tache Tastic Mix)</li>
+<li>Something About You (Live Element Club Mix)</li>
+<li>Let's Get High (Album)</li>
+<li>Tell Me (Acapella)
 </div>
 </div></li>
 </ol></td>
@@ -798,20 +798,20 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>So Good Today</li>
 <li>New Bed</li>
 <li>La Dolce Vita</li>
-<li>Touch Me,Take Me(Rocky's Revenge)</li>
-<li>Shalom(Mad Professor Dub Mix)</li>
-<li>Smile(Explicit Version)</li>
-<li>Sweet Is The Air feat.Natureboy</li>
-<li>The Minx(Vocal Version)</li>
-<li>Days And Days(Acoustic Bossa Version)</li>
-<li>Du(An-du)(Mc Queen's In The Scene Mix)</li>
-<li>Strings Of Life feat.Roberto Di Gioia + Wolfgang Hafner</li>
+<li>Touch Me,Take Me (Rocky's Revenge)</li>
+<li>Shalom (Mad Professor Dub Mix)</li>
+<li>Smile (Explicit Version)</li>
+<li>Sweet Is The Air feat. Natureboy</li>
+<li>The Minx (Vocal Version)</li>
+<li>Days And Days (Acoustic Bossa Version)</li>
+<li>Du (An-du) (Mc Queen's In The Scene Mix)</li>
+<li>Strings Of Life feat. Roberto Di Gioia + Wolfgang Hafner</li>
 <li>Rapture feat.Terry Hall</li>
 <li>Modern Sleep Over</li>
-<li>Woozy With Cider(Jon Hopkins Remix)</li>
+<li>Woozy With Cider (Jon Hopkins Remix)</li>
 <li>God Bless The Child</li>
 <li>Rip Van Winkle</li>
-<li>There Must Be An Angel(A Cappella)
+<li>There Must Be An Angel (A Cappella)
 </div>
 </div></li>
 </ol></td>
@@ -829,22 +829,22 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Strings Of Life(Kiki Remix)</li>
-<li>Magick(Simian Mobile Disco Mix)</li>
-<li>La Musique(Adam Sky Remix)</li>
-<li>Midnight Swim(Surkin Drowning Mix)</li>
-<li>Big Time(Linus Loves Mix)</li>
-<li>Guaguanco(Original Mix)</li>
-<li>The Drifters's Tongue Twister(EPM Paparuwa Mash-up Mix)</li>
-<li>A Bit Patchy(Club Mix)</li>
-<li>God Is Green(Burglar Tom EdIT)</li>
+<li>Strings Of Life (Kiki Remix)</li>
+<li>Magick (<a href="https://ja.wikipedia.org/wiki/シミアン・モバイル・ディスコ" title="wikilink">Simian Mobile Disco</a> Mix)</li>
+<li>La Musique (Adam Sky Remix)</li>
+<li>Midnight Swim (Surkin Drowning Mix)</li>
+<li>Big Time (Linus Loves Mix)</li>
+<li>Guaguanco (Original Mix)</li>
+<li>The Drifters's Tongue Twister (FPM Paparuwa Mash-up Mix)</li>
+<li>A Bit Patchy (Club Mix)</li>
+<li>God Is Green (Burglar Tom EdIT)</li>
 <li>BTTTTRY</li>
-<li>82-83(Extended Mix)</li>
+<li>82-83 (Extended Mix)</li>
 <li>Rockall</li>
-<li>Louxor J'adore(Joachim Garraud Remix)</li>
-<li>What's Your Name Again(Busy P Remix)</li>
-<li>The Journey(FPM Red Special Mix)</li>
-<li>Anyway You Choose To Give It(Extended Mix)
+<li>Louxor J'adore (Joachim Garraud Remix)</li>
+<li>What's Your Name Again (Busy P Remix)</li>
+<li>The Journey (FPM <a href="../Page/レッド・スペシャル.md" title="wikilink">Red Special</a> Mix)</li>
+<li>Anyway You Choose To Give It (Extended Mix)
 </div>
 </div></li>
 </ol></td>
@@ -862,20 +862,20 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>Honeycom.ware(FPM's extended re-edit)</li>
-<li>Drop</li>
-<li>WORLD'S END SUPERNOVA</li>
-<li>Crazy for you(club edit)</li>
+<li><a href="https://ja.wikipedia.org/wiki/Honeycom.ware/B.O.K" title="wikilink">Honeycom.ware</a> (FPM's extended re-edit)</li>
+<li><a href="https://ja.wikipedia.org/wiki/DROP_(Corneliusの曲)" title="wikilink">Drop</a></li>
+<li><a href="../Page/ワールズエンド・スーパーノヴァ.md" title="wikilink">WORLD'S END SUPERNOVA</a></li>
+<li>Crazy for you (club edit)</li>
 <li>浴室</li>
 <li>White Tipi</li>
-<li>Why Not? feat.Ryohei(Japanese version)</li>
-<li>東京は夜の七時 ～the night is still young～(talking toolbox mix)</li>
+<li>Why Not? feat. <a href="../Page/Ryohei.md" title="wikilink">Ryohei</a> (Japanese version)</li>
+<li><a href="https://ja.wikipedia.org/wiki/東京は夜の七時" title="wikilink">東京は夜の七時 night is still young～</a>～the (talking toolbox mix)</li>
 <li>朝の光</li>
-<li>美しく燃える森(FPM bootleg house mix)</li>
+<li><a href="https://ja.wikipedia.org/wiki/美しく燃える森" title="wikilink">美しく燃える森</a> (FPM bootleg house mix)</li>
 <li>GRAND MASTER FRESH Pt.2 feat.Fantastic Plastic Machine</li>
 <li>OBOROGE COPY VIEW</li>
-<li>Our Song(extended)</li>
-<li>fragile(FPM bitter sweet samba mix)
+<li>Our Song (extended)</li>
+<li><a href="https://ja.wikipedia.org/wiki/fragile/JIRENMA" title="wikilink">fragile</a> (FPM bitter sweet samba mix)
 </div>
 </div></li>
 </ol></td>
@@ -894,20 +894,20 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>In love with you</li>
-<li>1 more night feat.MONKEY MAJIK</li>
-<li>Under the Sun(Herve's'Ain't No Sunshine'Mix)</li>
-<li>Baby's on fire(FPM‘the art of voice'MIX)</li>
-<li>Innocent Love(FPM 4/4 DUB MIX)</li>
-<li>Are You My Woman?(Tell Me So)(A Danny Krivit Re-Edit)</li>
+<li>1 more night feat. <a href="../Page/MONKEY_MAJIK.md" title="wikilink">MONKEY MAJIK</a></li>
+<li>Under the Sun (Herve's'Ain't No Sunshine'Mix)</li>
+<li>Baby's on fire (FPM‘the art of voice'MIX)</li>
+<li>Innocent Love (FPM 4/4 DUB MIX)</li>
+<li>Are You My Woman? (Tell Me So) (A Danny Krivit Re-Edit)</li>
 <li>Union</li>
-<li>Utopia(Alternative Version)</li>
-<li>Reality(Original Christopher Just Version)</li>
+<li>Utopia (Alternative Version)</li>
+<li>Reality (Original Christopher Just Version)</li>
 <li>ラヴ</li>
 <li>Can't Take My Eyes Off Of You</li>
 <li>If My Friends Could See Me Now!</li>
-<li>あなたに逢いたくて(FPM MIX for Lovers)</li>
+<li><a href="../Page/あなたに逢いたくて.md" title="wikilink">あなたに逢いたくて</a> (FPM MIX for Lovers)</li>
 <li>Magic Journeys</li>
-<li>Divine(DEXPISTOLS Remix)</li>
+<li>Divine (<a href="https://ja.wikipedia.org/wiki/DEXPISTOLS" title="wikilink">DEXPISTOLS</a> Remix)</li>
 <li>KOIBITOYO TOMODACHIYO
 </div>
 </div></li>
@@ -984,7 +984,7 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>interlude</li>
-<li>Bossa For Jackie(Dedicated To Mrs.Kennedy)</li>
+<li>Bossa For Jackie (Dedicated To Mrs.Kennedy)</li>
 <li>Steppin' Out</li>
 <li>Lotto</li>
 <li>Satellite Beats</li>
@@ -993,18 +993,18 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <li>There Must Be An Angel</li>
 <li>Hello &amp; Good Bye</li>
 <li>interlude</li>
-<li>Bachelor Pad(F.P.M EDIT)</li>
-<li>Electric Lady Land(Japanese version)</li>
+<li>Bachelor Pad (F.P.M EDIT)</li>
+<li>Electric Lady Land (Japanese version)</li>
 <li>interlude</li>
 <li>ファースト・クラス '77～First Class '77</li>
 <li>Mr.Fantasy's Love</li>
 <li>ファンタスティック・アヴァンチュール～L'Aventure Fantastique</li>
-<li>YOU MUST LEARN ALL NIGHT LONG(Dauerfisch Remix)</li>
+<li>YOU MUST LEARN ALL NIGHT LONG (Dauerfisch Remix)</li>
 <li>プーラ・サウタージュ～Pura Saudade
 </div>
 </div></li>
 </ol></td>
-<td><p>ヒートウェーヴ<br />
+<td><p>ヒートウェーブ<br />
 <a href="https://ja.wikipedia.org/wiki/須永辰緒" title="wikilink">須永辰緒</a>によるミックス・ベストアルバム。</p></td>
 </tr>
 <tr class="odd">
@@ -1018,24 +1018,25 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>TAKE ME TO THE DISCO(FPM ORIGINAL MIX)</li>
-<li>THERE MUST BE AN ANGEL(PLAYING WITH MY HEART)TANIMOODY MIX</li>
+<li>TAKE ME TO THE DISCO (FPM ORIGINAL MIX)</li>
+<li>THERE MUST BE AN ANGEL (PLAYING WITH MY HEART) TANIMOODY MIX</li>
 <li>HELLO AND GOODBYE</li>
 <li>STEPPIN' OUT</li>
-<li>HONOLULU,CALCUTTA(SUNAHARA YOSHINORI MIX)</li>
+<li>HONOLULU,CALCUTTA (SUNAHARA YOSHINORI MIX)</li>
 <li>FLYING HIGH ジェット機のハウス</li>
-<li>BOSSA FOR JACKIE(LOS AMIGOS INVISIBLES MIX)</li>
-<li>TAKE ME TO THE DISCO(MALIBU MIX)</li>
-<li>YOU MUST LEARN ALL NIGHT LONG LONG(SWAMP MIX)</li>
-<li>BACHELOR PAD(VERSION FOR“THE SPY WHO SHAGGED ME”)</li>
-<li>PLEASE,STOP!(RA RA RA?7INCH VERSION)</li>
-<li>PURA SAUDADE(NOVA BOSSA NOVA)LAXMIKANT MIX</li>
+<li>BOSSA FOR JACKIE (LOS AMIGOS INVISIBLES MIX)</li>
+<li>TAKE ME TO THE DISCO (MALIBU MIX)</li>
+<li>YOU MUST LEARN ALL NIGHT LONG LONG (SWAMP MIX)</li>
+<li>BACHELOR PAD (VERSION FOR “THE SPY WHO SHAGGED ME”)</li>
+<li>PLEASE,STOP! (RA RA RA?7INCH VERSION)</li>
+<li>PURA SAUDADE (NOVA BOSSA NOVA) LAXMIKANT MIX</li>
 <li>THERE MUST BE AN ANGEL(PLAYING WITH MY HEART)MIX FOR LAY DOWN</li>
-<li>I LOVE FPM(READYMADE JBL MIX)
+<li>I LOVE FPM (<a href="../Page/小西康陽.md" title="wikilink">READYMADE</a> JBL MIX)
 </div>
 </div></li>
 </ol></td>
-<td><p>日本コロムビア在籍時代のベスト盤。</p></td>
+<td><p>日本コロムビア<br />
+日本コロムビア在籍時代のベスト盤。</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
@@ -1049,43 +1050,44 @@ DJとしては、日本国内はすでに全都道府県を制覇、海外でも
 <div class="NavContent" style="text-align:left;">
 <p>DISC1</p>
 <ol>
-<li>Why Not?feat.Ryohei Yamamoto</li>
-<li>City Lights feat.Seth Timbs(Fluid Ounces)</li>
-<li>Never Ever(Extra Vocal Mix)feat.Maki Takamiya</li>
+<li>Why Not? feat. Ryohei Yamamoto</li>
+<li>City Lights feat. Seth Timbs (Fluid Ounces)</li>
+<li>Never Ever (Extra Vocal Mix) feat. <a href="../Page/高宮マキ.md" title="wikilink">Maki Takamiya</a></li>
 <li>Paparuwa</li>
 <li>One Minute of Love</li>
 <li>Different Colors</li>
-<li>Fanfare feat.TAHITI 80</li>
+<li>Fanfare feat. <a href="../Page/タヒチ80.md" title="wikilink">TAHITI 80</a></li>
 <li>You</li>
-<li>Don't You Know?feat.CLAZZIQUAI PROJECT</li>
+<li>Don't You Know?feat. CLAZZIQUAI PROJECT</li>
 <li>Whistle Song</li>
-<li>Tell Me(Bossa Version)</li>
-<li>I'm Still A Simple Man(Performed by Hirth Martinez)</li>
+<li>Tell Me (Bossa Version)</li>
+<li>I'm Still A Simple Man (Performed by Hirth Martinez)</li>
 <li>God Save the Mona Lisa(Performed by Roberto Menescal &amp; Carlos Lyra)</li>
-<li>すべてをゆらして(On A Chair)feat.Kahimi Karie</li>
-<li>Why Not?(Tomita Lab.Remix)</li>
+<li>すべてをゆらして (On A Chair) feat. <a href="../Page/カヒミ・カリィ.md" title="wikilink">Kahimi Karie</a></li>
+<li>Why Not? (<a href="https://ja.wikipedia.org/wiki/冨田ラボ" title="wikilink">Tomita Lab.</a> Remix)</li>
 <li>Strings in Heaven</li>
 </ol>
 <p>DISC2</p>
 <ol>
-<li>Beautiful Days feat. Yoshie Nakano(EGO-WRAPPIN') &amp; Heaven L.Clayborne</li>
+<li>Beautiful Days feat. Yoshie Nakano (<a href="../Page/EGO-WRAPPIN&#39;.md" title="wikilink">EGO-WRAPPIN'</a>) &amp; Heaven L.Clayborne</li>
 <li>Reaching for the Stars feat.INCOGNITO</li>
-<li>Tell Me feat.Benjamin Diamond</li>
-<li>Spectacular feat.VERBAL(m-flo)</li>
-<li>Dance Dance Dance Dance feat.SU(RIP SLYME)</li>
+<li>Tell Me feat. Benjamin Diamond</li>
+<li>Spectacular feat. <a href="../Page/VERBAL.md" title="wikilink">VERBAL</a> (<a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a>)</li>
+<li>Dance Dance Dance Dance feat. SU (RIP SLYME)</li>
 <li>Paragon</li>
-<li>A World without Love feat.BONNIE PINK</li>
-<li>Days and Days feat.Coralie Clement</li>
-<li>Todos Os Desejos～欲望のすべて～feat.Clara Moreno</li>
-<li>Love Is Psychedelic(Full Spoken Mix)Remixed by Bob Sinclar</li>
-<li>Euphoria(Mondo Grosso Re-mix Radio Edit)</li>
-<li>Reaching for the Stars(Masters At Work Remix Radio Edit)</li>
-<li>Never Ever(Performed by PE'Z)</li>
+<li>A World without Love feat. BONNIE PINK</li>
+<li>Days and Days feat. Coralie Clement</li>
+<li>Todos Os Desejos～欲望のすべて～ feat. Clara Moreno</li>
+<li>Love Is Psychedelic (Full Spoken Mix) Remixed by <a href="https://ja.wikipedia.org/wiki/ボブ・サンクラー" title="wikilink">Bob Sinclar</a></li>
+<li>Euphoria (Mondo Grosso Re-mix Radio Edit)</li>
+<li>Reaching for the Stars (Masters At Work Remix Radio Edit)</li>
+<li>Never Ever (Performed by <a href="../Page/PE&#39;Z.md" title="wikilink">PE'Z</a>)</li>
 <li>Submission
 </div>
 </div></li>
 </ol></td>
-<td><p>オリコン最高20位、登場回数9回<br />
+<td><p>avex trax<br />
+オリコン最高20位、登場回数9回<br />
 avex trax移籍以降のベスト盤。2枚組。</p></td>
 </tr>
 <tr class="odd">
@@ -1094,7 +1096,8 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 <td></td>
 <td><p>AVCD-93272</p></td>
 <td></td>
-<td><p>3枚組(Alone+Rapture+Lust)</p></td>
+<td><p>avex trax<br />
+3枚組(Alone+Rapture+Lust)</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
@@ -1107,17 +1110,17 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>I Was In Love feat. 細美武士 (HIATUS / MONOEYES)</li>
+<li>I Was In Love feat. 細美武士 (HIATUS / <a href="https://ja.wikipedia.org/wiki/MONOEYES" title="wikilink">MONOEYES</a>)</li>
 <li>Wish You Were Here</li>
-<li>Whistle Song feat. 鈴木重子</li>
+<li>Whistle Song feat. <a href="../Page/鈴木重子.md" title="wikilink">鈴木重子</a></li>
 <li>Honolulu, Calcutta feat. Lorrie Le Mans &amp; Honymink (Gentle People)</li>
-<li>Black Dada feat. キリンジ</li>
+<li>Black Dada feat. <a href="../Page/キリンジ.md" title="wikilink">キリンジ</a></li>
 <li>Kimi Ga Hoshii feat. 田村玄一</li>
 <li>On A Chair</li>
 <li>A World Without Love feat. BONNIE PINK</li>
 <li>Days And Days feat. Coralie Clement</li>
 <li>Bossa For Jackie (Dedicated To Mrs. Kennedy) feat. Simon Fisher Turner</li>
-<li>Ai No Yume feat. 清水靖晃</li>
+<li>Ai No Yume feat. <a href="../Page/清水靖晃.md" title="wikilink">清水靖晃</a></li>
 <li>God Save The Mona Lisa feat. Bob Dorough</li>
 <li>Other Stories</li>
 <li>One Minute For Sleep</li>
@@ -1125,7 +1128,7 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 </div>
 </div></li>
 </ol></td>
-<td></td>
+<td><p>avex trax</p></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
@@ -1139,7 +1142,7 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Without You feat. MONKEY MAJIK</li>
-<li>Reaching For The Stars feat. INCOGNITO</li>
+<li>Reaching For The Stars feat. <a href="../Page/インコグニート.md" title="wikilink">INCOGNITO</a></li>
 <li>Tell Me feat. BENJAMIN DIAMOND</li>
 <li>You</li>
 <li>I Think feat. KISSOGRAM</li>
@@ -1156,7 +1159,7 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 </div>
 </div></li>
 </ol></td>
-<td></td>
+<td><p>avex trax</p></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
@@ -1170,24 +1173,24 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Why Not? feat. Ryohei Yamamoto</li>
-<li>Beautiful Days feat. Haven L.Clayborne &amp; Yoshie Nakano(EGO-WRAPPIN')</li>
+<li>Beautiful Days feat. Haven L.Clayborne &amp; Yoshie Nakano (EGO-WRAPPIN')</li>
 <li>City Lights feat. Seth Timbs (Fluid Ounces)</li>
 <li>Hey Ladies</li>
 <li>Fanfare feat. TAHITI 80</li>
 <li>We Are The Universe</li>
 <li>There Must Be An Angel (Playing With My Heart)feat. Lorraine</li>
-<li>Bolero feat. SAIGENJI</li>
+<li>Bolero feat. <a href="../Page/Saigenji.md" title="wikilink">SAIGENJI</a></li>
 <li>Steppin' Out feat. Dougee Dimensional (Gentle People)</li>
 <li>Love Is Psychedelic feat. BENJAMIN DIAMOND</li>
 <li>Can't You Feel It?</li>
 <li>Piano And Clock</li>
 <li>Bring Da Noise</li>
-<li>Spectacular feat. VERBAL (m-flo/PKCZ®)</li>
+<li>Spectacular feat. VERBAL (m-flo / <a href="https://ja.wikipedia.org/wiki/PKCZ" title="wikilink">PKCZ</a>®)</li>
 <li>L'aventure Fantastique feat. Honeymink &amp; Laurie Le Mans (Gentle People)
 </div>
 </div></li>
 </ol></td>
-<td></td>
+<td><p>avex trax</p></td>
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
@@ -1201,53 +1204,54 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 <div class="NavContent" style="text-align:left;">
 <p>-White- Best 14 Contemporary Love Songs, Remixed &amp; Produced by FPM</p>
 <ol>
-<li>働く男 (FPM EVERLUST Mix) / ユニコーン</li>
-<li>Crazy for you / Chara</li>
-<li>あなたに逢いたくて (FPM Mix For Lovers) / 松田聖子</li>
-<li>Virgin Road (FPM EVERLUST Mix) / 浜崎あゆみ</li>
-<li>Daddy's delight (FPM Talker Vocal Mix) / KENJI JAMMER</li>
+<li><a href="../Page/働く男.md" title="wikilink">働く男</a> (FPM EVERLUST Mix) / <a href="../Page/ユニコーン.md" title="wikilink">ユニコーン</a></li>
+<li>Crazy for you / <a href="https://ja.wikipedia.org/wiki/Chara" title="wikilink">Chara</a></li>
+<li>あなたに逢いたくて (FPM Mix For Lovers) / <a href="../Page/松田聖子.md" title="wikilink">松田聖子</a></li>
+<li>Virgin Road (FPM EVERLUST Mix) / <a href="../Page/浜崎あゆみ.md" title="wikilink">浜崎あゆみ</a></li>
+<li>Daddy's delight (FPM Talker Vocal Mix) / <a href="https://ja.wikipedia.org/wiki/KENJI_JAMMER" title="wikilink">KENJI JAMMER</a></li>
 <li>Playmate '74 (FPM's Samba Whistle Mix) / Riviera</li>
-<li>Innocent Love (FPM 4/4 Dub Mix) / 小泉今日子</li>
-<li>Change (FPM Legendary House Mix) / MONKEY MAJIK</li>
+<li>Innocent Love (FPM 4/4 Dub Mix) / <a href="https://ja.wikipedia.org/wiki/小泉今日子" title="wikilink">小泉今日子</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/Change_(MONKEY_MAJIKの曲)" title="wikilink">Change</a> (FPM Legendary House Mix) / MONKEY MAJIK</li>
 <li>よる☆かぜ 〜FPM Disco Tropicana〜 / ケツメイシ</li>
-<li>Luna Zuihitsu (feat. FPM) / トベタ・バジュン</li>
-<li>fragile (FPM Bitter Sweet Samba Mix) / Every Little Thing</li>
+<li>Luna Zuihitsu (feat. FPM) / <a href="https://ja.wikipedia.org/wiki/トベタ・バジュン" title="wikilink">トベタ・バジュン</a></li>
+<li>fragile (FPM Bitter Sweet Samba Mix) / <a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></li>
 <li>l'ombre et la lumiere (FPM Palme d'Or Mix) / Coralie Clement</li>
-<li>シュガー・シュガー / 片岡知子&amp;Terry Adams</li>
-<li>マタ逢ウ日マデ / RIP SLYME</li>
+<li>シュガー・シュガー / <a href="https://ja.wikipedia.org/wiki/片岡知子" title="wikilink">片岡知子</a> &amp; Terry Adams</li>
+<li><a href="../Page/マタ逢ウ日マデ.md" title="wikilink">マタ逢ウ日マデ</a> / RIP SLYME</li>
 </ol>
 <p>Orange- Best 11 Ultimate Dance Tracks, Remixed &amp; Produced by FPM</p>
 <ol>
-<li>The Journey (FPM Red Special Mix) / FATBOY SLIM</li>
-<li>Ain't No Mountain High Enough (FPM's "The Dancefloor's Tension Is High Enough" Mix) / DIANA ROSS &amp; THE SUPREMES</li>
-<li>BAD FEELING (FPM EVERLUST Remix) / 布袋寅泰</li>
-<li>SUGARCANDYSUPERNOVA (FPM Guitar Heroes Mix) / THE YOUNG PUNX!</li>
-<li>Lemon Tea (FPM Bootleg Mix) / SHEENA &amp; THE ROKKETS</li>
-<li>He's Frank (Slight Return) feat. Iggy Pop (FPM Live In Tokyo 1978Mix) / The BPA</li>
+<li>The Journey (FPM Red Special Mix) / <a href="../Page/ファットボーイ・スリム.md" title="wikilink">FATBOY SLIM</a></li>
+<li>Ain't No Mountain High Enough (FPM's "The Dancefloor's Tension Is High Enough" Mix) / <a href="../Page/ダイアナ・ロス.md" title="wikilink">DIANA ROSS</a> &amp; <a href="../Page/スプリームス.md" title="wikilink">THE SUPREMES</a></li>
+<li>BAD FEELING (FPM EVERLUST Remix) / <a href="../Page/布袋寅泰.md" title="wikilink">布袋寅泰</a></li>
+<li>SUGARCANDYSUPERNOVA (FPM Guitar Heroes Mix) / <a href="https://ja.wikipedia.org/wiki/ヤング・パンクス" title="wikilink">THE YOUNG PUNX!</a></li>
+<li>Lemon Tea (FPM Bootleg Mix) / <a href="https://ja.wikipedia.org/wiki/SHEENA_&amp;_THE_ROKKETS" title="wikilink">SHEENA &amp; THE ROKKETS</a></li>
+<li>He's Frank (Slight Return) feat. <a href="https://ja.wikipedia.org/wiki/Iggy_Pop" title="wikilink">Iggy Pop</a> (FPM Live In Tokyo 1978Mix) / The BPA</li>
 <li>Hale no sola sita ~LA YELLOW SAMBA~ (FPM Punky Samba Mix) / PE'Z</li>
-<li>ルパン三世のテーマ '78 (FPM EVERLUST Mix)</li>
+<li><a href="../Page/ルパン三世のテーマ.md" title="wikilink">ルパン三世のテーマ</a> '78 (FPM EVERLUST Mix)</li>
 <li>Master Inch Mile Haunch (FPM's BOL Remix) / Howie B</li>
 <li>Baby's On Fire (FPM 'The Art Of Voice' Mix) / Benjamin Diamond</li>
-<li>RAINBOW (FPM's Over The Rainbow Remix) / i-dep</li>
+<li>RAINBOW (FPM's Over The Rainbow Remix) / <a href="https://ja.wikipedia.org/wiki/i-dep" title="wikilink">i-dep</a></li>
 </ol>
 <p>-Yellow- Best 12 Radical Dance Tracks, Remixed &amp; Produced by FPM</p>
 <ol>
-<li>September (FPM Beautiful Latin Mix) / Earth, Wind &amp; Fire</li>
-<li>三日月サンセット (FPM EVERLUST Mix) / サカナクション</li>
-<li>ワールズエンド・スーパーノヴァ (FPM EVERLUST Mix) / くるり</li>
-<li>美しく燃える森 (FPM Latin Fire Remix) / 東京スカパラダイスオーケストラ</li>
-<li>GRAND MASTER FRESH Pt.2 feat. Fantastic Plastic Machine / YOU THE ROCK★</li>
-<li>渚にまつわるエトセトラ (TAKE ME TO THE DISCO) / PUFFY</li>
-<li>DO U LIKE IT? (by Fantastic Plastic Machine) / Crystal Kay loves m-flo</li>
+<li>September (FPM Beautiful Latin Mix) / <a href="https://ja.wikipedia.org/wiki/Earth,_Wind_&amp;_Fire" title="wikilink">Earth, Wind &amp; Fire</a></li>
+<li><a href="../Page/三日月サンセット.md" title="wikilink">三日月サンセット</a> (FPM EVERLUST Mix) / <a href="https://ja.wikipedia.org/wiki/サカナクション" title="wikilink">サカナクション</a></li>
+<li>ワールズエンド・スーパーノヴァ (FPM EVERLUST Mix) / <a href="../Page/くるり.md" title="wikilink">くるり</a></li>
+<li>美しく燃える森 (FPM Latin Fire Remix) / <a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
+<li>GRAND MASTER FRESH Pt.2 feat. Fantastic Plastic Machine / <a href="https://ja.wikipedia.org/wiki/YOU_THE_ROCK★" title="wikilink">YOU THE ROCK★</a></li>
+<li><a href="../Page/渚にまつわるエトセトラ.md" title="wikilink">渚にまつわるエトセトラ</a> (TAKE ME TO THE DISCO) / <a href="../Page/PUFFY.md" title="wikilink">PUFFY</a></li>
+<li>DO U LIKE IT? (by Fantastic Plastic Machine) / <a href="https://ja.wikipedia.org/wiki/Crystal_Kay" title="wikilink">Crystal Kay</a> loves m-flo</li>
 <li>One Step Beyond / SPEED KING</li>
 <li>MASURAO (FPM Murder Mix) / DJ OZMA</li>
 <li>LIKE A VIRGIN / 2NE1</li>
-<li>1,2,3 (FPM HyperSociety Mix) / 中村一義</li>
+<li>1,2,3 (FPM HyperSociety Mix) / <a href="../Page/中村一義.md" title="wikilink">中村一義</a></li>
 <li>Can't Shake This Feeling (FPM EVERLUST Mix) / GRUM
 </div>
 </div></li>
 </ol></td>
-<td><p>リミックス&amp;プロデュースワークベスト</p></td>
+<td><p>avex trax<br />
+リミックス&amp;プロデュースワークベスト</p></td>
 </tr>
 </tbody>
 </table>
@@ -1265,10 +1269,10 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/8月8日.md" title="wikilink">8月8日</a></p></td>
-<td><p>Mission: Nike+ Original Run</p></td>
+<td><p>Mission: <a href="https://ja.wikipedia.org/wiki/Nike" title="wikilink">Nike</a>+ Original Run</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/為末大.md" title="wikilink">為末大</a>と<a href="../Page/Dragon_Ash.md" title="wikilink">ATSUSHIをフィーチャー</a>。iTunes Store のみでの販売</p></td>
+<td><p><a href="../Page/為末大.md" title="wikilink">為末大</a>と<a href="../Page/Dragon_Ash.md" title="wikilink">ATSUSHIをフィーチャー</a>。<a href="https://ja.wikipedia.org/wiki/iTunes_Store" title="wikilink">iTunes Store</a> のみでの販売</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
@@ -1298,7 +1302,8 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p>お笑い芸人<a href="../Page/ラーメンズ.md" title="wikilink">ラーメンズ</a>の<a href="../Page/小林賢太郎.md" title="wikilink">小林賢太郎</a>とのユニットSymmetryS名義で発売</p></td>
+<td><p>avex trax<br />
+お笑い芸人<a href="../Page/ラーメンズ.md" title="wikilink">ラーメンズ</a>の<a href="../Page/小林賢太郎.md" title="wikilink">小林賢太郎</a>とのユニット<a href="../Page/SymmetryS.md" title="wikilink">SymmetryS</a>名義で発売</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月29日.md" title="wikilink">4月29日</a></p></td>
@@ -1306,14 +1311,16 @@ avex trax移籍以降のベスト盤。2枚組。</p></td>
 <td><p>AVCD-23790/B<br />
 AVCD-23791</p></td>
 <td></td>
-<td><p><a href="../Page/大沢伸一.md" title="wikilink">大沢伸一</a>と<a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">☆Taku Takahashiとのユニット</a><a href="https://ja.wikipedia.org/wiki/ravex" title="wikilink">ravex</a>名義で発売</p></td>
+<td><p>avex trax<br />
+<a href="../Page/大沢伸一.md" title="wikilink">大沢伸一</a>と<a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">☆Taku Takahashiとのユニット</a><a href="https://ja.wikipedia.org/wiki/ravex" title="wikilink">ravex</a>名義で発売</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FPM_for_DJs" title="wikilink">FPM for DJs</a></p></td>
 <td></td>
 <td></td>
-<td><p>5thアルバム<a href="https://ja.wikipedia.org/wiki/FPM_(アルバム)" title="wikilink">FPMのフロアー向けのミニアルバムでiTunes</a> Store配信限定</p></td>
+<td><p>avex trax<br />
+5thアルバム『<a href="https://ja.wikipedia.org/wiki/FPM_(アルバム)" title="wikilink">FPM</a>』のフロアー向けのミニアルバムでiTunes Store配信限定</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年<a href="../Page/11月17日.md" title="wikilink">11月17日</a></p></td>
@@ -1327,15 +1334,16 @@ AVCD-23791</p></td>
 <ol>
 <li>FPM Best Mega Mix:Paragon2～I Am Beautiful～Spectacular feat.VERBAL(m-flo)～Take Me Away feat.Ugly Duck</li>
 <li>Track for UNIQLOCK(RE:NDZ re-construct)</li>
-<li>Hey Ladies(tofubeats 正体不明REMIX feat.オノマトペ大臣)</li>
-<li>Different Colors(Yoshino's different click edit)</li>
-<li>Tell Me(Ryohei remix feat.VERBAL)</li>
-<li>Fanfare(TAHITI 80 remix)</li>
-<li>FPM Remix Works Best Mega Mix:DO U LIKE IT?～Sex Machine(Fantastic Sex Machine Mix)～グッディ・グッバイ(FPM Mix
+<li>Hey Ladies (<a href="https://ja.wikipedia.org/wiki/tofubeats" title="wikilink">tofubeats</a> 正体不明REMIX feat. オノマトペ大臣)</li>
+<li>Different Colors (Yoshino's different click edit)</li>
+<li>Tell Me (Ryohei remix feat. VERBAL)</li>
+<li>Fanfare (TAHITI 80 remix)</li>
+<li>FPM Remix Works Best Mega Mix:DO U LIKE IT? ～Sex Machine (Fantastic Sex Machine Mix) ～ グッディ・グッバイ (FPM Mix)
 </div>
 </div></li>
 </ol></td>
-<td><p>FPMの非公認ベストアルバム、FPMのブート盤</p></td>
+<td><p>avex trax<br />
+FPMの非公認ベストアルバム、FPMのブート盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年<a href="../Page/10月24日.md" title="wikilink">10月24日</a></p></td>
@@ -1349,14 +1357,14 @@ AVCD-23791</p></td>
 <ol>
 <li>Mah Na Mah Na (Natalizio)</li>
 <li>Hot Club Of Christ</li>
-<li>Wonderful Christmastime</li>
-<li>Rudolph The Red-nosed Reindeer</li>
+<li><a href="../Page/ワンダフル・クリスマスタイム.md" title="wikilink">Wonderful Christmastime</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/赤鼻のトナカイ" title="wikilink">Rudolph The Red-nosed Reindeer</a></li>
 <li>Xmas Sun</li>
-<li>Santa Claus Is Coming To Town</li>
+<li><a href="https://ja.wikipedia.org/wiki/サンタが街にやってくる" title="wikilink">Santa Claus Is Coming To Town</a></li>
 <li>Merry Christmas (I Don't Want To Fight Tonight)</li>
 <li>Gentle Christmas</li>
 <li>I wish you a Merry Christmas</li>
-<li>Happy X'mas (War Is Over)</li>
+<li><a href="../Page/ハッピー・クリスマス（戦争は終った）.md" title="wikilink">Happy Xmas (War Is Over)</a></li>
 <li>Sand Man</li>
 <li>Christmas Medley</li>
 <li>マタ逢ウ日マデ</li>
@@ -1369,7 +1377,8 @@ AVCD-23791</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p>FPMが選曲を手掛けたクリスマスコンピレーションアルバム</p></td>
+<td><p>Philter,Inc<br />
+FPMが選曲を手掛けたクリスマスコンピレーションアルバム</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年<a href="../Page/11月7日.md" title="wikilink">11月7日</a></p></td>
@@ -1377,7 +1386,8 @@ AVCD-23791</p></td>
 <td><p>VIZL-499<br />
 VICL-63932</p></td>
 <td></td>
-<td><p>初回盤限定のボーナスディスク“Kyon30 REMIX”をFPMが監修</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">ビクターエンタテインメント</a><br />
+初回盤限定のボーナスディスク“Kyon30 REMIX”をFPMが監修</p></td>
 </tr>
 </tbody>
 </table>
@@ -1544,11 +1554,12 @@ VICL-63932</p></td>
 | [OLIVIER KUNZEL](https://ja.wikipedia.org/wiki/OLIVIER_KUNZEL "wikilink") & [FLORENCE DEYGAS](https://ja.wikipedia.org/wiki/FLORENCE_DEYGAS "wikilink") | 「[Reaching for the Stars](https://www.youtube.com/watch?v=3TinX6-hCWk)」                                                  |
 | [KOICHI MAKINO](https://ja.wikipedia.org/wiki/KOICHI_MAKINO "wikilink")                                                                                 | 「[Without You feat.MONKEY MAJIK](https://www.youtube.com/watch?v=RPp-U8FjsFs)」                                           |
 | [木乃村美穂](https://ja.wikipedia.org/wiki/木乃村美穂 "wikilink")(MIHO KINOMURA)                                                                                  | 「[BEAUTIFUL DAYS](https://www.youtube.com/watch?v=l-baM0t3H90)」「[Why Not?](https://www.youtube.com/watch?v=j3gYvVoBo0Y)」 |
+| 中村剛                                                                                                                                                     | 「[City Lights](https://www.youtube.com/watch?v=dY0C00rhXVc)」                                                             |
 | [groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink")                                                                                     | 「[don't you know? feat.CLAZZIQUAI PROJECT](https://www.youtube.com/watch?v=t9sgiqWGgMQ)」                                 |
 | [中村剛](../Page/中村剛_\(映像ディレクター\).md "wikilink")                                                                                                           | 「TAKE ME TO THE DISCO」                                                                                                   |
 | [NAMIKIBASHI](../Page/NAMIKIBASHI.md "wikilink")                                                                                                        | 「[Tell Me](https://www.youtube.com/watch?v=NShtumWXNuw)」(出演:[小林賢太郎](../Page/小林賢太郎.md "wikilink"))                        |
 | GUTSON TG INC.                                                                                                                                          | 「[I WAS IN LOVE feat.細美武士](https://www.youtube.com/watch?v=toJiTu0yC8o)」                                                 |
-| 不明                                                                                                                                                      | 「BACHELOR PAD」「[City Lights](https://www.youtube.com/watch?v=dY0C00rhXVc)」「愛しのミスター・セールスマン」                               |
+| 不明                                                                                                                                                      | 「BACHELOR PAD」「愛しのミスター・セールスマン」                                                                                           |
 |                                                                                                                                                         |                                                                                                                          |
 
 ## 主なライブ出演(海外)

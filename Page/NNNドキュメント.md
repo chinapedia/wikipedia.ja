@@ -92,7 +92,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,7 +152,7 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,11 +351,12 @@ NNN加盟局が無い沖縄県についても取材対象[10]。</p></td>
   - [石垣ケーブルテレビ](../Page/石垣ケーブルテレビ.md "wikilink")（沖縄テレビの石垣島中継局が開局するまでは制作に参加していたことがある）
   - [NHK BSプレミアムで](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、2015年9月28日に放送された｢ザ・ベストテレビ2015｣では、中京テレビ製作の｢マザーズ～特別養子縁組と真実告知｣（2014年4月20日放送分）が放送された。これは、この回が｢日本放送文化賞｣を受賞した為\[18\]。
 
-### ネット局に関する備考
+### ネット局等に関する備考
 
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")は、1976年頃の一時期は火曜23:50からの遅れネットだった\[19\]。
+  - [北日本放送](../Page/北日本放送.md "wikilink")は、1976年頃の一時期は火曜23:50からの遅れネットだった\[19\]。
   - 読売テレビは、第1次[オイルショック](../Page/オイルショック.md "wikilink")による電力節減の一環として放送終了時間の繰り上げ措置がとられた期間（[1974年](../Page/1974年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [5月5日](../Page/5月5日.md "wikilink")）は当番組の放送を一時休止していた\[20\]。
   - [鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")（KTS）は、1992年4月の改編に伴い日本テレビ系の[深夜番組](../Page/深夜番組.md "wikilink")枠が廃止されたが、それ以降も当番組のみが残存。[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")（KYT）開局直前の1994年3月28日未明（27日深夜）まで引き続き放送された。
+  - [動画配信サービスによる動画配信は](../Page/インターネットテレビ.md "wikilink")[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")で行われ、[TVer](https://ja.wikipedia.org/wiki/TVer "wikilink")等による無料見逃し配信は2019年現在実施されていない。
 
 ## 特記事項
 

@@ -44,7 +44,7 @@
 | 5th  | 1996年7月31日  | **[BLIND LOVE](../Page/BLIND_LOVE.md "wikilink")**                          | CODA-976   | 20位 |
 | 6th  | 1996年11月20日 | **[涙](https://ja.wikipedia.org/wiki/涙_\(PAMELAHの曲\) "wikilink")**           | CODA-1080  | 24位 |
 | 7th  | 1997年2月5日   | **[SPIRIT](../Page/SPIRIT_\(PAMELAHの曲\).md "wikilink")**                    | CODA-1171  | 15位 |
-| 8th  | 1997年7月16日  | **[いとしいキミ](../Page/いとしいキミ.md "wikilink")**                                  | CODA-1219  | 25位 |
+| 8th  | 1997年7月16日  | **[いとしいキミ](../Page/いとしいキミ_\(曲\).md "wikilink")**                            | CODA-1219  | 25位 |
 | 9th  | 1997年11月19日 | **[CONFIDENCE](../Page/CONFIDENCE.md "wikilink")**                          | CODA-1385  | 37位 |
 | 10th | 1998年6月3日   | **[TWO OF HEARTS](../Page/TWO_OF_HEARTS.md "wikilink")**                    | CODA-1448  | 30位 |
 | 11th | 1998年8月5日   | **[キズナ](../Page/キズナ_\(PAMELAHの曲\).md "wikilink")**                          | CODA-1601  | 34位 |

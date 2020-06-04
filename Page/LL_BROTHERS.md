@@ -73,7 +73,7 @@
 
   - [Large Long Big Records](http://llbrecords.com/)
 
-  - [L.L BROTHERS SONY MUSIC JAPAN](http://www.sonymusic.co.jp/Music/Arch/SR/LLBrothers/) - ソニー公式サイト
+  - [L.L BROTHERS SONY MUSIC JAPAN](https://www.sonymusic.co.jp/artist/LLBrothers/) - ソニー公式サイト
 
   -
   -

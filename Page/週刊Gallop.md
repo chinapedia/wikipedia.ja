@@ -120,10 +120,10 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://gallop.sanspo.com/gallop/top.html)
+  - [サンスポZBAT！競馬](http://race.sanspo.com/)
 
   -
-[Category:競馬新聞・雑誌](https://ja.wikipedia.org/wiki/Category:競馬新聞・雑誌 "wikilink") [Category:産経新聞](https://ja.wikipedia.org/wiki/Category:産経新聞 "wikilink") [Category:フジサンケイグループ](https://ja.wikipedia.org/wiki/Category:フジサンケイグループ "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink") [Category:日本のスポーツ雑誌](https://ja.wikipedia.org/wiki/Category:日本のスポーツ雑誌 "wikilink") [Category:日本の週刊誌](https://ja.wikipedia.org/wiki/Category:日本の週刊誌 "wikilink")
+[Category:競馬新聞・雑誌](https://ja.wikipedia.org/wiki/Category:競馬新聞・雑誌 "wikilink") [Category:サンケイスポーツ](https://ja.wikipedia.org/wiki/Category:サンケイスポーツ "wikilink") [Category:産業経済新聞社](https://ja.wikipedia.org/wiki/Category:産業経済新聞社 "wikilink") [Category:フジサンケイグループ](https://ja.wikipedia.org/wiki/Category:フジサンケイグループ "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink") [Category:日本のスポーツ雑誌](https://ja.wikipedia.org/wiki/Category:日本のスポーツ雑誌 "wikilink") [Category:日本の週刊誌](https://ja.wikipedia.org/wiki/Category:日本の週刊誌 "wikilink")
 
 1.
 2.

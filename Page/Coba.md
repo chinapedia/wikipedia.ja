@@ -668,6 +668,15 @@
 <td><p>バップ</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>2020年3月4日</p></td>
+<td></td>
+<td><p>CD</p></td>
+<td><p>BOSC-0004</p></td>
+<td><p>CALMOLA BOSCONE</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

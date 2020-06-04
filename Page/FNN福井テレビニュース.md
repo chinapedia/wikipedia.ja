@@ -29,6 +29,10 @@
 
 ## 夕方ニュース
 
+### 現在
+
+  - [福井テレビLive News](https://ja.wikipedia.org/wiki/福井テレビLive_News "wikilink")
+
 ### 過去
 
   - 福井テレビニュース6:45
@@ -40,9 +44,15 @@
   - [福井テレビみんなのニュース](https://ja.wikipedia.org/wiki/福井テレビみんなのニュース "wikilink")
   - [福井テレビ プライムニュース](https://ja.wikipedia.org/wiki/福井テレビ_プライムニュース "wikilink")
 
-### 現在
+## ニュースの動画配信に関して
 
-  - [福井テレビLive News](https://ja.wikipedia.org/wiki/福井テレビLive_News "wikilink")
+[2020年](../Page/2020年.md "wikilink")時点、福井テレビではローカルニュースの[動画](../Page/動画.md "wikilink")配信を[北陸地方](../Page/北陸地方.md "wikilink")（北陸3県）の民放で唯一実施していない。なお、北陸の各局の動画配信状況は下記参照。
+
+  - 自社サイト・[FNNプライムオンライン](../Page/フジニュースネットワーク.md "wikilink")・[Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")）：[石川テレビ放送](../Page/石川テレビ放送.md "wikilink")、[富山テレビ放送](../Page/富山テレビ放送.md "wikilink")
+  - 自社サイト・Yahoo\!ニュース：[福井放送](../Page/福井放送.md "wikilink")、[北日本放送](../Page/北日本放送.md "wikilink")
+  - 自社サイト・[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")：[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")
+  - 自社サイトのみ：[テレビ金沢](../Page/テレビ金沢.md "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")
+  - Yahoo\!ニュースのみ：[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
 
 ## 関連項目
 

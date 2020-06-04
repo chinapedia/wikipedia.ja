@@ -1,7 +1,7 @@
 > この記事は[ティーンズTV](https://ja.wikipedia.org/wiki/ティーンズTV)から翻訳されています。
 
 
-**ティーンズTV**は、2000年4月10日から2008年3月まで[NHK教育テレビで放送されていた中学校](../Page/NHK教育テレビジョン.md "wikilink")・高等学校向けの[教育番組](../Page/教育番組.md "wikilink")。
+『**ティーンズTV**』は、2000年4月10日から2008年3月まで[NHK教育テレビで放送されていた中学校](../Page/NHK教育テレビジョン.md "wikilink")・高等学校向けの[教育番組](../Page/教育番組.md "wikilink")。
 
 ## 番組一覧
 
@@ -124,4 +124,4 @@
   - [●ティーンズTV NHK映像科学館●学校放送●](https://web.archive.org/web/20050207052559/http://www.nhk.or.jp/kagakukan/ja/frame.html)（NHK）
   - [●ティーンズTV ワールドドキュメント●学校放送●](https://web.archive.org/web/20070206152847/http://www.nhk.or.jp/world/ja/frame.html)（NHK）
 
-[Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:NHK教育テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの帯番組の歴史 "wikilink") [Category:NHK教育テレビジョンの学校放送番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの学校放送番組 "wikilink") [Category:NHK高校講座](https://ja.wikipedia.org/wiki/Category:NHK高校講座 "wikilink")
+[Category:NHK教育テレビジョンの学校放送番組の歴史_(2000年代)](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの学校放送番組の歴史_\(2000年代\) "wikilink") [Category:NHK高校講座](https://ja.wikipedia.org/wiki/Category:NHK高校講座 "wikilink") [Category:NHK教育テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの帯番組の歴史 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink")

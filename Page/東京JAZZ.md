@@ -408,6 +408,49 @@
 
 [東京JAZZ2016](http://www.tokyo-jazz.com/2016/)
 
+### 2020年
+
+『TOKYO JAZZ+plus LIVE STREAM』として\[3\]\[4\]\[5\]
+
+  - 上原ひろみ
+  - H ZETTRIO
+  - Ovall × Gotch
+  - 小曽根真 featuring No Name Horses
+  - 小田知美 × 中山晃子
+  - 川口千里
+  - ゴーゴー・ペンギン
+  - Still Dreaming with ジョシュア・レッドマン
+  - ロン・マイルス、スコット・コリー ＆ デイヴ・キング
+  - チック・コリア
+  - ティグラン・ハマシアン
+  - ディマシュ・クダイベルゲン
+  - デヴィッド・サンボーン
+  - TRI4TH feat. チャイナ・モーゼス
+  - 狭間美帆 m_unit
+  - バルトロメイ・ビットマン
+  - 平原綾香
+  - 日野皓正
+  - Fox capture plan
+  - ボブ・ジェームス
+  - マイケル・リーグ from Snarky Puppy
+  - マンハッタン・トランスファー
+  - ミシェル・カミロ
+  - ミシュル・ンデゲオチェロ
+  - やのとあがつま（矢野顕子 ＆ 上妻宏光）
+  - ラリー・カールトン
+  - リー・リトナー
+  - ロベルト・フォンセカ feat. ダナイ・スアレス
+
+## メディア情報
+
+### 2020年
+
+  - 第１８回　東京ジャズ「Ｖｏｌ．１」（NHK BSプレミアム・2020年5月24日 (日) 午前1:00～午前2:29）\[6\]
+  - 第１８回　東京ジャズ「Ｖｏｌ．２」（NHK BSプレミアム・2020年5月24日 (日) 午前2:29～午前3:58）
+  - 第１８回　東京ジャズ「Ｖｏｌ．３」（NHK BSプレミアム・2020年5月24日 (日) 午前3:58～午前5:27）
+  - プレイバック東京ＪＡＺＺ　２０１７～２０１９（NHK FM・2020年5月23日 (土) 午後0:15～午後6:50）\[7\]
+  - プレイバック東京ＪＡＺＺ　２０１７～２０１９（NHK FM・2020年5月23日 (土) 午後7:20～午後10:00）
+
 ## 参考文献
 
   - 『東京JAZZフェスティバル (ゼロから始めたこだわり音楽フェスの物語) 』 東京JAZZプロジェクト著 [DU BOOKS](https://ja.wikipedia.org/wiki/DU_BOOKS "wikilink") [2016年](../Page/2016年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")刊 ISBN 978-4907583958
@@ -425,3 +468,8 @@
 
 1.  [TOKYO JAZZ ＋plus 開催中止のお知らせ](https://tokyo-jazz.com/news/192/)
 2.  [TOKYO JAZZ ＋plus LIVE STREAM 開催！](https://tokyo-jazz.com/news/195/)
+3.  [TOKYO JAZZ ＋plus 開催中止のお知らせ](https://tokyo-jazz.com/news/192/)
+4.  [TOKYO JAZZ ＋plus LIVE STREAM 開催！](https://tokyo-jazz.com/news/195/)
+5.  [TOKYO JAZZ ＋plus LIVE STREAM 第４弾出演アーティスト決定！](https://tokyo-jazz.com/news/234/)
+6.  [第１８回東京ジャズ　ＢＳプレミアムで再放送決定！](https://tokyo-jazz.com/news/223/)
+7.  [ＮＨＫＦＭで「プレイバック東京JAZZ　2017〜2019」放送決定\!](https://tokyo-jazz.com/news/224/)

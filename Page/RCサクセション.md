@@ -760,6 +760,7 @@ G2</p></td>
 | I LIKE YOU                                                       | [セゾンカード](../Page/クレディセゾン.md "wikilink") CMソング                                                                       |
 | スローバラード (RE-MIXED VERSION)                                       | 東宝映画『\! (アイ・オー)』主題歌                                                                                                 |
 | 空がまた暗くなる                                                         | [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[おかしの家](https://ja.wikipedia.org/wiki/おかしの家 "wikilink")』主題歌                 |
+| 体操しようよ                                                           | 映画「体操しようよ」主題歌                                                                                                       |
 
 ## 出演
 

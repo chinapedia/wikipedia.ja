@@ -5,7 +5,7 @@
 
 ## 概要
 
-1916年、Kappaを生み出すことになるMCT社の前身であるSACT社がイタリア、トリノで設立された。Kappaは1950年代に生まれ、1970年代から本格的に展開を始める。
+1916年、Kappaを生み出すことになるMaglificio Calzificio Torinese(MCT)社の前身であるSocieta Anonima Calzificio Torinese(SACT)社がイタリア、トリノで設立された。その後、Kappaブランドは1967年に生まれ、1970年代から本格的に展開を始める。
 
 ブランド名は、ギリシャ文字の[Κ](../Page/Κ.md "wikilink")（カッパ）から。ロゴの背中合わせの男と女は「オミニ」と呼ばれる。
 
@@ -19,6 +19,7 @@
 
 ## 外部リンク
 
-  - [kappa](http://www.kappa.ne.jp/)
-  -
-[Category:トリノの企業](https://ja.wikipedia.org/wiki/Category:トリノの企業 "wikilink") [Category:イタリアのスポーツ用品メーカー](https://ja.wikipedia.org/wiki/Category:イタリアのスポーツ用品メーカー "wikilink")
+  - [フェニックス](http://www.kappa.ne.jp/)
+  - [公式ウェブサイト（英語版）](https://www.kappa.com/)
+
+[Category:トリノの企業](https://ja.wikipedia.org/wiki/Category:トリノの企業 "wikilink") [Category:イタリアのスポーツ用品メーカー](https://ja.wikipedia.org/wiki/Category:イタリアのスポーツ用品メーカー "wikilink") [Category:1916年設立の企業](https://ja.wikipedia.org/wiki/Category:1916年設立の企業 "wikilink") [Category:スポーツウェアのブランド](https://ja.wikipedia.org/wiki/Category:スポーツウェアのブランド "wikilink")

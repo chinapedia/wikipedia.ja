@@ -162,7 +162,7 @@
 
   - [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")
   - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")（ - 2009年9月29日）
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")→[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")→[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")
   - [東日本放送](../Page/東日本放送.md "wikilink")
   - [福島放送](../Page/福島放送.md "wikilink") （ - 2005年3月、2008年10月 - 2010年3月）
   - [北陸朝日放送](../Page/北陸朝日放送.md "wikilink")
@@ -188,7 +188,7 @@
   - [とちぎテレビ](../Page/とちぎテレビ.md "wikilink") （ - 2009年9月27日）
   - [千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")（2001年10月25日 - 2016年9月25日）
   - [テレビ信州](../Page/テレビ信州.md "wikilink") （日本テレビ系列とのクロスネットの頃に放送）
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")\[11\]→[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")\[11\]→[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") （ - 2005年3月）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（北陸朝日放送の開局まで）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
@@ -200,9 +200,7 @@
 
 ## 外部リンク
 
-  - [CAR GRAPHIC TV （BS朝日）](http://www.bs-asahi.co.jp/cgtv/)
-
-  - [CAR GRAPHIC TV （テレ朝動画）](http://www.tv-asahi.co.jp/douga/cargraphictv/)
+  - [カーグラフィックTV](https://www.bs-asahi.co.jp/cgtv/) - 番組公式サイト
 
   - [ウインズモーメント](http://winsmoment.jp/)
 

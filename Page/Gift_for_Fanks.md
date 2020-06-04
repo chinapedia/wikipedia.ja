@@ -82,7 +82,7 @@
       - 作詞：小室みつ子　作曲：小室哲哉
     <!-- end list -->
       -
-        9thシングル。本作に収録されているのは、4thオリジナルアルバム『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』に収録されているバージョン。
+        9thシングル。本作に収録されているのは、4thアルバム『[Self Control](../Page/Self_Control_\(TM_NETWORKのアルバム\).md "wikilink")』に収録されているバージョン。
 
 ### 2007年盤DVD
 

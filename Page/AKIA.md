@@ -13,7 +13,7 @@
 
 ## 脚注
 
-[Category:反韓感情](https://ja.wikipedia.org/wiki/Category:反韓感情 "wikilink") [Category:犯罪組織](https://ja.wikipedia.org/wiki/Category:犯罪組織 "wikilink") [Category:タイの政治](https://ja.wikipedia.org/wiki/Category:タイの政治 "wikilink")
+[Category:反韓感情](https://ja.wikipedia.org/wiki/Category:反韓感情 "wikilink") [Category:犯罪組織](https://ja.wikipedia.org/wiki/Category:犯罪組織 "wikilink") [Category:タイの政治](https://ja.wikipedia.org/wiki/Category:タイの政治 "wikilink") [Category:タイの組織](https://ja.wikipedia.org/wiki/Category:タイの組織 "wikilink") [Category:韓国・タイ関係](https://ja.wikipedia.org/wiki/Category:韓国・タイ関係 "wikilink")
 
 1.
 2.

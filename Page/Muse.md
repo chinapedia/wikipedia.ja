@@ -76,6 +76,4 @@
   - [MuseWiki](http://musewiki.dip.jp/MuseWiki/)
   - [Muse関係(ダウンロードサイトVector)](http://www.vector.co.jp/vpack/filearea/win/art/music/midi/muse/)
 
-[Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink")
-
-[Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:コンピュータミュージック](https://ja.wikipedia.org/wiki/Category:コンピュータミュージック "wikilink") [Category:音声処理ソフト](https://ja.wikipedia.org/wiki/Category:音声処理ソフト "wikilink")
+[Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:コンピュータミュージック](https://ja.wikipedia.org/wiki/Category:コンピュータミュージック "wikilink") [Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink") [Category:音声処理ソフト](https://ja.wikipedia.org/wiki/Category:音声処理ソフト "wikilink")

@@ -279,7 +279,7 @@
 <td><p>2019</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サーヴァント_ターナー家の子守" title="wikilink">サーヴァント　ターナー家の子守</a><br />
 <em>servant</em></p></td>
-<td><p>製作</p></td>
+<td><p>製作総指揮・第1話・2話監督</p></td>
 </tr>
 <tr class="even">
 <td></td>

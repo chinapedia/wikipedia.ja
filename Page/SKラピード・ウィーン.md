@@ -2005,6 +2005,6 @@
   -
   -
   -
-[Category:SKラピード・ウィーン](https://ja.wikipedia.org/wiki/Category:SKラピード・ウィーン "wikilink") [Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:ウィーンのスポーツチーム](https://ja.wikipedia.org/wiki/Category:ウィーンのスポーツチーム "wikilink")
+[Category:SKラピード・ウィーン](https://ja.wikipedia.org/wiki/Category:SKラピード・ウィーン "wikilink") [Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:ウィーンのスポーツチーム](https://ja.wikipedia.org/wiki/Category:ウィーンのスポーツチーム "wikilink") [Category:1899年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1899年設立のスポーツチーム "wikilink")
 
 1.  [Europe's Club of the Century](http://www.iffhs.de/?a413f0e03790c443e0f40390b41be8b01905fdcdc3bfcdc0aec70aeedb883ccb05ff1d) - IFFHS（2010年6月11日閲覧）

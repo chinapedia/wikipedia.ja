@@ -27,7 +27,7 @@
   - [信越放送](../Page/信越放送.md "wikilink") 　日曜22:30～23:00
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") 　月曜19:00～19:30
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink") 　日曜24:30～25:00
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 　日曜17:00～17:30
+  - [北日本放送](../Page/北日本放送.md "wikilink") 　日曜17:00～17:30
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") 　日曜22:00～22:30
   - [福井放送](../Page/福井放送.md "wikilink") 　日曜15:00～15:30
   - [KBS京都](../Page/京都放送.md "wikilink") 　水曜24:00～24:30

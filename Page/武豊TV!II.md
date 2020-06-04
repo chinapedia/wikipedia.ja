@@ -612,7 +612,7 @@
 
 ## 外部リンク
 
-  - [「武豊TV\!II」](http://www.fujitv.co.jp/otn/b_hp/909200011.html)
+  - [「武豊TV\!II」](https://otn.fujitv.co.jp/b_hp/909200011.html)
   - [フジテレビ On Demand 「武豊TV\!II」](http://fod.fujitv.co.jp/FOD/taketv2.asp)
   - [フジテレビ On Demand 「武豊TV\!」](http://fod.fujitv.co.jp/FOD/program.asp?pro_num=29)
 

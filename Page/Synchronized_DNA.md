@@ -38,7 +38,7 @@
   -
   - [ヤフオク\!「Guitar Labo」Synchronized DNAインタビュー](http://topic.auctions.yahoo.co.jp/music/guitarlabo/dna/)
 
-  - [テレビ東京「音遊人」2006年4月8日放送出演分](http://www.tv-tokyo.co.jp/m-jin/onair/060408/index.html)
+  - [テレビ東京「音遊人」2006年4月8日放送出演分](https://www.tv-tokyo.co.jp/m-jin/onair/060408/index.html)
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:日本のフュージョン・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のフュージョン・ミュージシャン "wikilink")
 

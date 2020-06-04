@@ -44,7 +44,8 @@
 <tbody>
 <tr class="odd">
 <td><p>22:00</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソングトレイン1314" title="wikilink">アニソン★ナイトフィーバー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ソングトレイン1314" title="wikilink">アニソン★ナイトフィーバー</a><br />
+(前週土曜日の再放送）</p></td>
 <td><p>一般番組</p></td>
 <td><p><a href="../Page/岩田光央・鈴村健一_スウィートイグニッション.md" title="wikilink">岩田光央・鈴村健一 スウィートイグニッション</a></p></td>
 <td></td>
@@ -97,7 +98,7 @@
 </tbody>
 </table>
 
-土日の放送では[番組開始前に](../Page/カウキャッチャー_\(放送\).md "wikilink")[アミューズメントメディア総合学院](../Page/アミューズメントメディア総合学院.md "wikilink")の生徒による近況報告や次の番組の紹介をするミニコーナーが挿入される。これは2014年3月まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")の[アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")で行われていたものと同じ。
+金土日の放送では[番組開始前に](../Page/カウキャッチャー_\(放送\).md "wikilink")[アミューズメントメディア総合学院](../Page/アミューズメントメディア総合学院.md "wikilink")の生徒による次の番組の紹介をするミニコーナーが挿入される。これは2014年3月まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")の[アニたまどっとコム](https://ja.wikipedia.org/wiki/アニたまどっとコム "wikilink")で行われていたものと同じ。
 
 ### インターネットラジオ
 

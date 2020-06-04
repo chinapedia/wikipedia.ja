@@ -14,7 +14,7 @@
 デザインは据置機のPSシリーズと異なり、PSP-1000シリーズは小笠原伸一、PSP-3000シリーズは曽我部卓が担当した。
 
   - ゲーム
-    PSP専用UMDによる[ゲーム](../Page/ゲーム.md "wikilink")をプレイすることができる。また、[PlayStation Storeでは](../Page/PlayStation_Store.md "wikilink")[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")用のゲーム（新作や[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")や[体験版](../Page/体験版.md "wikilink")）が[デジタル配信されている](../Page/ダウンロード販売.md "wikilink")。PSP-2000以降は専用ケーブルを使用してテレビ画面に出力させることもできるようになった。PSP go以降はUMDドライブが廃止され、ダウンロードのみとなった。独自規格のメディアのUMDの容量は1.8GB(CDの3倍)
+    PSP専用UMDによる[ゲーム](../Page/ゲーム.md "wikilink")をプレイすることができる。また、[PlayStation Storeでは](../Page/PlayStation_Store.md "wikilink")[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")用のゲーム（新作や[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")や[体験版](../Page/体験版.md "wikilink")）が[デジタル配信されている](../Page/ダウンロード販売.md "wikilink")。PSP-2000以降は専用ケーブルを使用してテレビ画面に出力させることもできるようになった。PSP go以降はUMDドライブが廃止され、ダウンロードのみとなった。独自規格のメディアのUMDは片面2層、容量は1.8GB(CDの約3倍)
   - システムソフトウェアアップデート
     本体ソフトウェアを[インターネット](../Page/インターネット.md "wikilink")やUMDを利用してアップデート（更新）するもの。セキュリティーの強化や機能拡張などの効果がある。アップデート方法はPSP本体から、PS3経由から、パソコン経由からの3つの方法がある。
   - スリープ機能
@@ -263,7 +263,7 @@
 
 #### PSP-3000シリーズ
 
-[PSP-3000-Silver.png](https://ja.wikipedia.org/wiki/File:PSP-3000-Silver.png "fig:PSP-3000-Silver.png") 2008年[10月16日](../Page/10月16日.md "wikilink")発売。重さや外形寸法などはPSP-2000と変わらないものの、液晶ディスプレイのコントラスト比が従来PSPの400:1から2000:1へと5倍に改善されたほか、応答速度が従来の30msから8msと高速化され、液晶自体の輝度も向上した。また、マイクが内蔵されてヘッドホンが無くても[Skype](../Page/Skype.md "wikilink")などが使用出来るようになった。デザインも持ちやすいように改善され、ゲームのテレビ出力機能もプログレッシブ方式と[インターレース](../Page/インターレース.md "wikilink")方式の両方が可能となった。
+[PSP-3000-Silver.png](https://ja.wikipedia.org/wiki/File:PSP-3000-Silver.png "fig:PSP-3000-Silver.png") 2008年[10月16日](../Page/10月16日.md "wikilink")発売。重さや外形寸法などはPSP-2000と変わらないものの、液晶ディスプレイのコントラスト比が従来PSPの400:1から2000:1へと5倍に改善されたほか、応答速度が従来の30msから8msと高速化され、液晶自体の輝度も向上した。また、マイクが内蔵されてヘッドホンが無くても[Skype](../Page/Skype.md "wikilink")などが使用出来るようになった。デザインも持ちやすいよう側面にある程度の丸みをもたせ、ゲームのテレビ出力機能もプログレッシブ方式と[インターレース](../Page/インターレース.md "wikilink")方式の両方が可能となった。
 
   - [メモリ](../Page/主記憶装置.md "wikilink")
       - メイン[メモリ](../Page/主記憶装置.md "wikilink")：64MB

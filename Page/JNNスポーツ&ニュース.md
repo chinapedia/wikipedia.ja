@@ -128,10 +128,8 @@
 
 ## 脚注
 
-[Category:2013年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2013年のテレビ番組_\(日本\) "wikilink")
-
-[Category:JNN番組の歴史](https://ja.wikipedia.org/wiki/Category:JNN番組の歴史 "wikilink") [Category:TBSの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの深夜番組の歴史 "wikilink") [Category:TBSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:TBSのスポーツ番組 "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink")
+[Category:JNN番組の歴史](https://ja.wikipedia.org/wiki/Category:JNN番組の歴史 "wikilink") [Category:TBSの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの深夜番組の歴史 "wikilink") [Category:TBSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:TBSのスポーツ番組 "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:2013年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2013年のテレビ番組_\(日本\) "wikilink")
 
 1.  [仕事始め。](http://tbs-blog.com/nagisa-s/26235/) TBSブログ 佐藤渚の渚にまつわるetc） 2014年1月5日 同月10日閲覧
 2.  TBSプロ野球解説者
-3.  [サッカー女子日本代表](https://ja.wikipedia.org/wiki/サッカー女子日本代表 "wikilink")選手
+3.  [サッカー女子日本代表選手](https://ja.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")

@@ -13,7 +13,7 @@ zsh の最初のバージョンは、1990年 \[2\] に、当時 [プリンスト
 
 zsh の特徴として次のようなことが挙げられる。
 
-  - [プログラム](../Page/プログラム.md "wikilink")可能な[補完機能によって](https://ja.wikipedia.org/wiki/自動補完 "wikilink")、多くの[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")[コマンドの](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")[オプション](https://ja.wikipedia.org/wiki/オプション "wikilink")や[引数](../Page/引数.md "wikilink")を打つのを支援する（[インストール](../Page/インストール.md "wikilink")の時点で数百のコマンドをサポートしている）。
+  - [プログラム可能な](../Page/プログラム_\(コンピュータ\).md "wikilink")[補完機能によって](https://ja.wikipedia.org/wiki/自動補完 "wikilink")、多くの[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")[コマンドの](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")[オプション](https://ja.wikipedia.org/wiki/オプション "wikilink")や[引数](../Page/引数.md "wikilink")を打つのを支援する（[インストール](../Page/インストール.md "wikilink")の時点で数百のコマンドをサポートしている）。
   - [ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")の起動している全ての zsh でコマンド履歴を共有することができる。
   - 拡張[ファイル名生成](../Page/ファイル_\(コンピュータ\).md "wikilink")（[ワイルドカード展開](../Page/ワイルドカード_\(情報処理\).md "wikilink")）によって [`find`](https://ja.wikipedia.org/wiki/find "wikilink") のような外部コマンドを呼び出さないで、ファイル名を展開する。
   - [変数や](../Page/変数_\(プログラミング\).md "wikilink")[配列](../Page/配列.md "wikilink")の処理が改善されている。

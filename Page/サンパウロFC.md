@@ -25,7 +25,7 @@
 
 ## ライバル
 
-同じサンパウロを本拠地とする、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[サントスFC](../Page/サントスFC.md "wikilink")、[パルメイラスとはサンパウロFCを含め](../Page/SEパルメイラス.md "wikilink")、サンパウロのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。コリンチャンスとのクラシコは[クラシコ・マジェストソ](https://ja.wikipedia.org/wiki/クラシコ・マジェストソ "wikilink")（壮麗なダービー）、サントスFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（両チームの頭文字）と呼ばれている。
+同じサンパウロを本拠地とする、[コリンチャンス](../Page/SCコリンチャンス・パウリスタ.md "wikilink")、[サントスFC](../Page/サントスFC.md "wikilink")、[パルメイラスとはサンパウロFCを含め](../Page/SEパルメイラス.md "wikilink")、サンパウロのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。コリンチャンスとのクラシコは[クラシコ・マジェストゾ](https://ja.wikipedia.org/wiki/クラシコ・マジェストソ "wikilink")（clássico majestoso：雄大なダービー）、パルメイラスとのクラシコはショッキ・ヘイ（choque rei：王者の衝突）とサントスFCとのクラシコは[サン・サン](https://ja.wikipedia.org/wiki/サン・サン "wikilink")（san-são：両チームの頭文字）と呼ばれている。
 
 ## タイトル
 

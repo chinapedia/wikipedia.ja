@@ -1,7 +1,7 @@
 > この記事は[ABSワイドゆう](https://ja.wikipedia.org/wiki/ABSワイドゆう)から翻訳されています。
 
 
-**ABS wideゆう（エイビーエスワイドゆう）**は、かつて[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")で放送されていた夕方のワイド番組である。祝祭日は放送しないことが多い。
+**ABS wideゆう（エイビーエスワイドゆう）**は、かつて[秋田放送](../Page/秋田放送.md "wikilink")で放送されていた夕方のワイド番組である。祝祭日は放送しないことが多い。
 
 ## キャスター
 
@@ -34,7 +34,7 @@
   - [マッキー](../Page/マッキー.md "wikilink")
   - [宇奈月満](../Page/宇奈月満.md "wikilink")
   - [多可亨子](https://ja.wikipedia.org/wiki/多可亨子 "wikilink")
-  - [佐藤美知子](../Page/佐藤美知子.md "wikilink")（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。秋田ステーションデパート「トピコ」中継担当、初回・アトリオン中継担当）
+  - [佐藤美知子](../Page/佐藤美知子.md "wikilink")（[秋田放送](../Page/秋田放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。秋田ステーションデパート「トピコ」中継担当、初回・アトリオン中継担当）
   - [長谷川真弓](https://ja.wikipedia.org/wiki/長谷川真弓_\(アナウンサー\) "wikilink")（フリーアナウンサー）らが居る。
 
 ## これまでの経緯

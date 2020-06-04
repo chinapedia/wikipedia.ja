@@ -141,7 +141,7 @@ Xボンバーを母艦とし、Xボンバーの護衛や航路の偵察・斥候
   - 企画：池田公雄 / [藤川桂介](../Page/藤川桂介.md "wikilink")
   - プロデューサー：池田公雄
   - 構成・脚本：藤川桂介
-  - 音楽：[BOW WOW](../Page/BOWWOW.md "wikilink") / 田崎和隆（バッハリボリューション） / [桜庭伸幸](../Page/桜庭伸幸.md "wikilink")（アドバルーン）[平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink") / （ラミアとシロー）
+  - 音楽：[BOW WOW](../Page/BOWWOW.md "wikilink") / 田崎和隆（バッハリボリューション） / [桜庭伸幸](../Page/桜庭伸幸.md "wikilink")（アドバルーン）[平沢進](../Page/平沢進.md "wikilink") / （ラミアとシロー）
   - 主題歌
 
 <!-- end list -->

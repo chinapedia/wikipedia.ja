@@ -69,7 +69,7 @@ BiVi仙台駅東口は飲食店を主体としたテナント構成となり\[4\
 
 ### 1階
 
-  - [SUBWAY](https://ja.wikipedia.org/wiki/2017年10月10日閉店 "wikilink") 2017年10月10日閉店
+  - [SUBWAY](../Page/サブウェイ.md "wikilink") 2017年10月10日閉店
   - [らあめん花月嵐](https://ja.wikipedia.org/wiki/グロービート・ジャパン "wikilink")
   - auショップ　BiVi仙台駅東口
   - [ペッパーランチ](https://ja.wikipedia.org/wiki/ペッパーランチ "wikilink")

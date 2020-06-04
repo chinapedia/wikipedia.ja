@@ -7,7 +7,7 @@
 
 avex tuneの**“tune”**とは、[車のチューン](../Page/自動車.md "wikilink")・ナップや、楽曲の最新チューンなどの“より進化した”という意味で、日々変化し続けるミュージック・シーンや多種多様化するアーティストに対応し、エイベックスらしい話題性のある斬新なアーティストや楽曲をリリースするというのがこのレーベルの主旨。
 
-以前は芸能事務所・[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")が一時的に利用をしていたが、avexと同事務所が連携された形で、新レーベル・[SONIC GROOVEが発足](../Page/SONIC_GROOVE.md "wikilink")。また、Folder及びFolder5は解散（メンバーである[三浦大知](../Page/三浦大知.md "wikilink")、[AKINAはソロとして](../Page/AKINA_\(歌手\).md "wikilink")）、DA PUMPも利用していたがメンバーの編成などにより消滅（後に上述レーベルに移籍）。このうち残ったのは、[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")と[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")のみとなっていたが、m.o.v.eは[2013年](../Page/2013年.md "wikilink")を以って解散となった。[2019年](../Page/2019年.md "wikilink")現時点でライジング所属かつ本レーベルを利用しているのは観月のみとなり実質的に観月のプライベートレーベルとなっている。
+以前は芸能事務所・[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")が一時的に利用をしていたが、avexと同事務所が連携された形で、新レーベル・[SONIC GROOVEが発足](../Page/SONIC_GROOVE.md "wikilink")。また、Folder及びFolder5は解散（メンバーである[三浦大知](../Page/三浦大知.md "wikilink")、[AKINAはソロとして](../Page/AKINA_\(歌手\).md "wikilink")）、DA PUMPも利用していたがメンバーの編成などにより消滅（後に上述レーベルに移籍）。このうち残ったのは、[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")と[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")のみとなっていたが、m.o.v.eは[2013年](../Page/2013年.md "wikilink")を以って解散となった。[2020年](../Page/2020年.md "wikilink")現時点でライジング所属かつ本レーベルを利用しているのは観月のみとなり実質的に観月のプライベートレーベルとなっている。
 
 第1弾CDは[DA PUMPのデビューシングル](../Page/DA_PUMP.md "wikilink")「Feelin'Good-It's PARADISE-」（AVDT-20000）。
 

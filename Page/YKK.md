@@ -86,7 +86,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
 
   - [世界の窓](https://ja.wikipedia.org/wiki/世界の窓 "wikilink")（[BS-TBS](../Page/BS-TBS.md "wikilink")） - [一社提供](../Page/一社提供.md "wikilink")
   - [北日本放送制作昼の帯ドラマ](https://ja.wikipedia.org/wiki/北日本放送制作昼の帯ドラマ "wikilink") - 前期のみ。
-  - [ゲンコツの海](https://ja.wikipedia.org/wiki/ゲンコツの海 "wikilink")（[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")） - 一社提供。
+  - [ゲンコツの海](https://ja.wikipedia.org/wiki/ゲンコツの海 "wikilink")（[北日本放送](../Page/北日本放送.md "wikilink")） - 一社提供。
   - [ビックリ決定版\!\!](https://ja.wikipedia.org/wiki/ビックリ決定版!! "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 一社提供。
   - [YKKアワー キックボクシング中継](../Page/YKKアワー_キックボクシング中継.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 途中より。
   - [ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）

@@ -54,7 +54,7 @@ PeerCast自体はデータの送受信機能しか備えておらず、視聴を
 
 配信されるファイル形式は[WMV・](../Page/Windows_Media_Video.md "wikilink")[flv](https://ja.wikipedia.org/wiki/FLV "wikilink") （映像向け）、[MP3](../Page/MP3.md "wikilink")・[OGG](https://ja.wikipedia.org/wiki/Ogg_Vorbis "wikilink") （音声向け）など配信者や配信場所により異なるため、それぞれのファイル形式を再生できるメディアプレイヤーを用意する必要がある。
 
-最近では[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")などにPeerCast配信動画が転載されるようになった。この他、[平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")のインタラクティブ・ライブの動画ストリーミング手段として用いられたことがある\[2\]。
+最近では[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")などにPeerCast配信動画が転載されるようになった。この他、[平沢進](../Page/平沢進.md "wikilink")のインタラクティブ・ライブの動画ストリーミング手段として用いられたことがある\[2\]。
 
 ## 様々な問題
 

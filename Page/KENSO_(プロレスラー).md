@@ -160,7 +160,7 @@ KENSOとして活動するようになって以後は、空気が読めないキ
 
 <!-- end list -->
 
-  - [WWEタッグ王座](https://ja.wikipedia.org/wiki/WWE・タッグチーム王座 "wikilink") - 1回（パートナーは[レネ・デュプリ](https://ja.wikipedia.org/wiki/レネ・デュプリ "wikilink")）
+  - [WWEタッグ王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink") - 1回（パートナーは[レネ・デュプリ](https://ja.wikipedia.org/wiki/レネ・デュプリ "wikilink")）
 
 <!-- end list -->
 

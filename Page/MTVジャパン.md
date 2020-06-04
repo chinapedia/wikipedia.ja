@@ -1,7 +1,7 @@
 > この記事は[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン)から翻訳されています。
 
 
-**MTV JAPAN**（MTVジャパン）は、音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")「[MTV](../Page/MTV.md "wikilink")」の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（米国。以下、米と表記）[バイアコム・インターナショナル・メディア・ネットワークス](https://ja.wikipedia.org/wiki/:en:ViacomCBS_International_Media_Networks "wikilink")（[バイアコム](../Page/バイアコム.md "wikilink")傘下）の[子会社](../Page/子会社.md "wikilink")で[衛星一般放送事業者](https://ja.wikipedia.org/wiki/衛星一般放送事業者 "wikilink")のバイアコム・ネットワークス・ジャパン株式会社が運営している。
+**MTV JAPAN**（MTVジャパン）は、音楽[専門チャンネル](../Page/専門チャンネル.md "wikilink")「[MTV](../Page/MTV.md "wikilink")」の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")版。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（米国。以下、米と表記）[バイアコム・インターナショナル・メディア・ネットワークス](../Page/バイアコムCBS.md "wikilink")（[バイアコム](../Page/バイアコム.md "wikilink")傘下）の[子会社](../Page/子会社.md "wikilink")で[衛星一般放送事業者](https://ja.wikipedia.org/wiki/衛星一般放送事業者 "wikilink")のバイアコム・ネットワークス・ジャパン株式会社が運営している。
 
 ## 概要
 
@@ -96,7 +96,7 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
   - Laguna Beach
   - [Nitro Circus](https://ja.wikipedia.org/wiki/ナイトロ・サーカス "wikilink")
   - [Jackass](../Page/ジャッカス.md "wikilink")
-  - Tempura(日本版jackass)
+  - Tempura（日本版jackass）
   - [オズボーンズ](../Page/オズボーンズ.md "wikilink")
   - [The World of GOLDEN EGGS](../Page/The_World_of_GOLDEN_EGGS.md "wikilink")
   - MTV Girls Collection
@@ -109,7 +109,7 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
   - 昭和ダイナマイト
   - [新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")
   - Celebrity Deathmatch
-  - [スポンジボブ](https://ja.wikipedia.org/wiki/スポンジボブ "wikilink")
+  - [スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")
 
 ## 現在のVJ
 
@@ -150,7 +150,7 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
 
 ### MTV (朝日放送)
 
-[1984年](../Page/1984年.md "wikilink")10月から[1988年](../Page/1988年.md "wikilink")4月にかけて、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）がMTVの[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")（PV）番組を再編集し、独自の司会を加えた番組『**MTV:Music Television**（MTVミュージックテレビジョン）』を放送していた。
+[1984年](../Page/1984年.md "wikilink")10月から[1988年](../Page/1988年.md "wikilink")4月にかけて、[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）がMTVの[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")（PV）番組を再編集し、独自の司会を加えた番組『**MTV:Music Television**（MTVミュージックテレビジョン）』を放送していた。初代キャスターは[渡辺実](https://ja.wikipedia.org/wiki/渡辺実_\(ディスクジョッキー\) "wikilink")\[5\]。
 
 当初は土日深夜の放送で、日曜に限り[ANN系列にも全国ネットされ](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、やがて[テレビ朝日](../Page/テレビ朝日.md "wikilink")では、最盛期には平日、休日を問わず毎日放送されるようになった。関西地方のみ、週末は『MTV TOP20 VIDEO COUNTDOWN』が放送された。
 
@@ -170,13 +170,13 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
 
 <!-- end list -->
 
-  - 制作協力 - [ACTV](https://ja.wikipedia.org/wiki/全関西ケーブルテレビジョン "wikilink")、大阪東洋ビデオ、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、Spirit enterprise\[5\]
+  - 制作協力 - [ACTV](https://ja.wikipedia.org/wiki/全関西ケーブルテレビジョン "wikilink")、大阪東洋ビデオ、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、Spirit enterprise\[6\]
   - ディレクター - [上津原伸介](https://ja.wikipedia.org/wiki/上津原伸介 "wikilink")、[松本大輔](https://ja.wikipedia.org/wiki/松本大輔_\(テレビディレクター\) "wikilink")（Spirit）
   - プロデューサー - 上津原伸介（Spirit）、原涼一（朝日放送）
 
 ### MTV (TBSテレビ)
 
-[1988年](../Page/1988年.md "wikilink")7月より[TBSで](../Page/TBSテレビ.md "wikilink")『MTVジャパン』の放送を開始\[6\]。当初は朝日放送同様、米MTVの番組の編集版であったが、後に日本のVJがPVを紹介する形に改められた。
+[1988年](../Page/1988年.md "wikilink")7月より[TBSで](../Page/TBSテレビ.md "wikilink")『MTVジャパン』の放送を開始\[7\]。当初は朝日放送同様、米MTVの番組の編集版であったが、後に日本のVJがPVを紹介する形に改められた。
 
 ### その他の制作番組
 
@@ -208,7 +208,8 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
 
 1.  スカイポートTV開局前のイメージキャラクターには[サンプラザ中野を起用](../Page/サンプラザ中野くん.md "wikilink")。ロゴは？マークとなっていた。
 2.  [「プロデューサー列伝　笹本裕氏」（『Protama』）の2005年1月12日時点のアーカイブ](https://web.archive.org/web/20050112075502/http://www.protama.net/interview/07/3.html)。
-3.  [東経110度CS放送に係る衛星基幹放送の業務の認定](http://www.soumu.go.jp/menu_news/s-news/01ryutsu11_02000012.html)。
+3.  [東経110度CS放送に係る衛星基幹放送の業務の認定](https://www.soumu.go.jp/menu_news/s-news/01ryutsu11_02000012.html)。
 4.  それまでは、同業の[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")（[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")）と[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")（[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）がそれぞれ入居するビル（隣同士）から徒歩1分もしない距離のビルに入居していた。
-5.  『[ソウル・トレイン](https://ja.wikipedia.org/wiki/ソウル・トレイン_\(テレビ番組\) "wikilink")』日本版の編集、『[ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")』のオープニング映像などを手掛けたプロダクション。
-6.  火曜日深夜の放送は7月5日、金曜日深夜の放送は7月29日から開始（『読売新聞』1988年7月5日朝刊第32面（『読売新聞縮刷版』1988年7月号p.228）・夕刊第16面（同前p.248）および、『読売新聞』1988年7月29日朝刊第28面（『読売新聞縮刷版』1988年7月号p.1360）・夕刊第20面（同前p.1380）に放送予定記載あり）。
+5.   - 典拠は [日外アソシエーツ](../Page/日外アソシエーツ.md "wikilink")「新撰 芸能人物事典 明治\~平成」
+6.  『[ソウル・トレイン](https://ja.wikipedia.org/wiki/ソウル・トレイン_\(テレビ番組\) "wikilink")』日本版の編集、『[ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")』のオープニング映像などを手掛けたプロダクション。
+7.  火曜日深夜の放送は7月5日、金曜日深夜の放送は7月29日から開始（『読売新聞』1988年7月5日朝刊第32面（『読売新聞縮刷版』1988年7月号p.228）・夕刊第16面（同前p.248）および、『読売新聞』1988年7月29日朝刊第28面（『読売新聞縮刷版』1988年7月号p.1360）・夕刊第20面（同前p.1380）に放送予定記載あり）。

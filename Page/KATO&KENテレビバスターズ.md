@@ -41,7 +41,7 @@
 
 ### バスターズガール
 
-  - [SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")（スーパー・モンキーズ）は、過去に存在した日本の女性ダンスアイドルグループであり、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")と[MAXの源流のグループである](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
+  - [SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")（スーパー・モンキーズ）‐当時のメンバーは主に[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[牧野アンナ](../Page/牧野アンナ.md "wikilink")、[澤岻奈々子](https://ja.wikipedia.org/wiki/Nana_\(歌手\) "wikilink")、[天久美奈子](https://ja.wikipedia.org/wiki/Mina_\(歌手\) "wikilink")、[新垣寿子](https://ja.wikipedia.org/wiki/新垣寿子 "wikilink")
 
 ## スタッフ
 

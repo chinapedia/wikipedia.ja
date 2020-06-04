@@ -69,7 +69,7 @@
   -
     2005年10月から放送していたが、InterFMが放送を開始したことにより2008年4月からは『Rick Dees Weekly Top 40』を放送。InterFMでの放送が終了後も『Rick Dees Weekly Top 40』を放送していたが、2013年1月より放送再開。
 
-現在のDJであるライアン・シークレストが放送しているAT40は、日本国内では[AFN](../Page/AFN.md "wikilink")エリア以外の地域において、アメリカや[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など海外の主要ラジオ局が行っている[ストリーミング](../Page/ストリーミング.md "wikilink")放送を通しての聴取が可能な場合もある。[1](http://blogs.yahoo.co.jp/euclid_upland/folder/1199374.html)[2](http://www.hbr3.sakura.ne.jp/at40/at40.htm)
+現在のDJであるライアン・シークレストが放送しているAT40は、日本国内では[AFN](../Page/AFN.md "wikilink")エリア以外の地域において、アメリカや[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など海外の主要ラジオ局が行っている[ストリーミング](../Page/ストリーミング.md "wikilink")放送を通しての聴取が可能な場合もある。[1](https://web.archive.org/20140216053953/http://blogs.yahoo.co.jp/euclid_upland/folder/1199374.html)[2](http://www.hbr3.sakura.ne.jp/at40/at40.htm)
 
 ### 最近まで放送していた局
 
@@ -120,7 +120,7 @@
 
 ### 近年
 
-その後、[Fm yokohamaや](../Page/横浜エフエム放送.md "wikilink")[α-Station](../Page/エフエム京都.md "wikilink")、[fm osaka](../Page/エフエム大阪.md "wikilink")、[InterFM](../Page/InterFM.md "wikilink")、[ZIP-FM](../Page/ZIP-FM.md "wikilink")などでローカル放送された時期があったものの、2011年9月25日にZIP-FMでの放送終了によって、日本国内のラジオ局で聴けるのはAFNのみとなった。米国などのラジオ局のストリームでは、聴くことができる。[3](http://blogs.yahoo.co.jp/euclid_upland/folder/660848.html)
+その後、[Fm yokohamaや](../Page/横浜エフエム放送.md "wikilink")[α-Station](../Page/エフエム京都.md "wikilink")、[fm osaka](../Page/エフエム大阪.md "wikilink")、[InterFM](../Page/InterFM.md "wikilink")、[ZIP-FM](../Page/ZIP-FM.md "wikilink")などでローカル放送された時期があったものの、2011年9月25日にZIP-FMでの放送終了によって、日本国内のラジオ局で聴けるのはAFNのみとなった。米国などのラジオ局のストリームでは、聴くことができる。[3](https://web.archive.org/20110426103605/http://blogs.yahoo.co.jp/euclid_upland/folder/660848.html)
 
 1986年まで「全米トップ40」が放送されていた[ラジオ日本では](../Page/アール・エフ・ラジオ日本.md "wikilink")、[2005年](../Page/2005年.md "wikilink")のナイターオフ（金曜19:30〜21:15）に『[ダイ&チャッピーのワールドトップ40](../Page/ダイ&チャッピーのワールドトップ40.md "wikilink")』として19年ぶりに復活した。
 

@@ -63,7 +63,7 @@
       - [福岡市交通局](../Page/福岡市交通局.md "wikilink")
           - [3000系電車](../Page/福岡市交通局3000系電車.md "wikilink")
 
-ファイル:JR Kyushu 815.jpg|JR九州815系 ファイル:Kyushu Railway - Series 885 - 01.JPG|JR九州885系 ファイル:Seibu30000 32103F+38105F hokushin.jpg|西武30000系 ファイル:Tobu 51091f Mizuhodai 20190815.jpg|東武50090系 ファイル:Hankyu 9301 at Ibaraki-shi Station.JPG|阪急9300系 ファイル:Tokyo metro 10000 series toyoko line.JPG|東京メトロ10000系
+ファイル:JR Kyushu 815.jpg|JR九州815系 ファイル:Kyushu Railway - Series 885 - 01.JPG|JR九州885系 ファイル:Seibu30000 32103F+38105F hokushin.jpg|西武30000系 |東武50090系 ファイル:Hankyu 9301 at Ibaraki-shi Station.JPG|阪急9300系 ファイル:Tokyo metro 10000 series toyoko line.JPG|東京メトロ10000系
 
 ## A-trainの採用例（日本国外）
 
@@ -90,7 +90,7 @@ A-trainの日本国外向け製品には種類によって4種類のシリーズ
       - [台湾鉄路管理局TEMU1000型電車](https://ja.wikipedia.org/wiki/台湾鉄路管理局TEMU1000型電車 "wikilink")
   - [大韓民国](../Page/大韓民国.md "wikilink")
       - [韓国鉄道公社200000系幹線電気動車 (TEC)](https://ja.wikipedia.org/wiki/韓国鉄道公社200000系電車 "wikilink")\[20\]
-  - [タイ](../Page/タイ.md "wikilink")
+  - [タイ](../Page/タイ王国.md "wikilink")
       - 用車両（形式不明）
 
 ### イギリス

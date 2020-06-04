@@ -23,7 +23,7 @@
   - [HTMLで](../Page/HyperText_Markup_Language.md "wikilink")***T**able **R**ow* の略。表の行を記述する。
   - [チームルーチン](https://ja.wikipedia.org/wiki/チームルーチン "wikilink")(***t**eam-**r**outine*)[アイススケート](https://ja.wikipedia.org/wiki/アイススケート "wikilink")、[体操](../Page/体操.md "wikilink")等グループ競技での[演技](https://ja.wikipedia.org/wiki/演技 "wikilink")・[コンビネーション](https://ja.wikipedia.org/wiki/コンビネーション "wikilink")などを競う。
   - [トライアル競走](../Page/トライアル競走.md "wikilink")(***T**rial **R**ace*)の略。
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") (JOTR(-DTV))
-  - [トレーニング](https://ja.wikipedia.org/wiki/トレーニング "wikilink")(Training)　の略。
+  - [秋田放送](../Page/秋田放送.md "wikilink") (JOTR(-DTV))
+  - [トレーニング](https://ja.wikipedia.org/wiki/トレーニング "wikilink")(Training)の略。
   - [トウシュ・ロス会計事務所](../Page/デロイト_トウシュ_トーマツ.md "wikilink") (Touche Ross & Co.事務所） - [デロイト トウシュ トーマツの前身](../Page/デロイト_トウシュ_トーマツ.md "wikilink")
   - [音楽](../Page/音楽.md "wikilink")における[装飾音](https://ja.wikipedia.org/wiki/装飾音 "wikilink")、[トリル](https://ja.wikipedia.org/wiki/トリル "wikilink")の記号。

@@ -66,6 +66,6 @@
 
 ## 外部リンク
 
-  - [スカ☆J : テレビ東京](http://www.tv-tokyo.co.jp/suka-j/)
+  - [スカ☆J : テレビ東京](https://www.tv-tokyo.co.jp/suka-j/)
 
 [Category:バラエティ7](https://ja.wikipedia.org/wiki/Category:バラエティ7 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:関ジャニ∞](https://ja.wikipedia.org/wiki/Category:関ジャニ∞ "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")

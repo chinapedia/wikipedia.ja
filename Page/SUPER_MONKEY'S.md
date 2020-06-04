@@ -144,6 +144,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>c/w</p></th>
+<th><p>レーベル</p></th>
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><p>順位</p></th>
@@ -158,11 +159,18 @@
 <td><p>1992年9月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/恋のキュート・ビート/ミスターU.S.A." title="wikilink">恋のキュート・ビート/ミスターU.S.A.</a></strong></p></td>
 <td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東芝EMI" title="wikilink">東芝EMI</a></p></td>
 <td><p>8cmCD</p></td>
-<td></td>
+<td><p>TODT-2878</p></td>
 <td><p>29位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ORIGINAL_TRACKS_VOL.1" title="wikilink">ORIGINAL TRACKS VOL.1</a></strong></p></td>
-<td></td>
+<td><p>Best Album <strong></strong><br />
+<strong>「<a href="https://ja.wikipedia.org/wiki/ORIGINAL_TRACKS_VOL.1" title="wikilink">ORIGINAL TRACKS VOL.1</a>」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「<a href="https://ja.wikipedia.org/wiki/Finally_(安室奈美恵のアルバム)" title="wikilink">Finally</a>」</strong></p></td>
+<td><p>TV出演やプロモーション活動で歌われていたのは「<strong>ミスターU.S.A.</strong>」のため、実質メイン扱いだった。<br />
+<br />
+なお、初収録アルバムはBest Albumのみの収録で、両曲は『ORIGINAL TRACKS VOL.1』、「ミスターU.S.A」のみ『Finally』に新録ヴァージョンとして収録された。</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -172,7 +180,14 @@
 <td><p><strong>レインボー・ムーン</strong></p></td>
 <td><p>TODT-3018</p></td>
 <td><p>68位</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DANCE_TRACKS_VOL.1" title="wikilink">DANCE TRACKS VOL.1</a></strong></p></td>
+<td><p>1st Album <strong></strong><br />
+<strong>「<a href="https://ja.wikipedia.org/wiki/DANCE_TRACKS_VOL.1" title="wikilink">DANCE TRACKS VOL.1</a>」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「ORIGINAL TRACKS VOL.1」</strong></p></td>
+<td><p>英記で「<strong>DANCING JUNK</strong>」と掲載されることもある。<br />
+<br />
+「ダンシング・ジャンク」のみ1st Album『DANCE TRACKS VOL.1』において、「DANCING JUNK」題してアルバム用に制作されたリミックス・ヴァージョンで収録。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -183,7 +198,17 @@
 <td><p><strong>わがままを許して</strong></p></td>
 <td><p>TODT-3119</p></td>
 <td><p>67位</p></td>
-<td></td>
+<td><p>1st Album <strong></strong><br />
+<strong>「DANCE TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「ORIGINAL TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「Finally」</strong></p></td>
+<td><p>元々はCM用に作られたもので、初CM時には歌詞も異なっていた。<br />
+<br />
+両曲共に、1st Album『DANCE TRACKS VOL.1』及びBest Album『ORIGINAL TRACKS VOL.1』にそれぞれ収録。前者はアルバム用に制作されたリミックス・ヴァージョンで収録。Best Album『Finally』には「愛してマスカット」のみ新録ヴァージョンで収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -196,7 +221,17 @@
 <td><p><strong>悲しきブロークンボーイ</strong></p></td>
 <td><p>TODT-3275</p></td>
 <td><p>137位</p></td>
-<td></td>
+<td><p>1st Album <strong></strong><br />
+<strong>「DANCE TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「ORIGINAL TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「Finally」</strong></p></td>
+<td><p>同曲を最後に<a href="https://ja.wikipedia.org/wiki/新垣寿子" title="wikilink">新垣寿子</a>が脱退。<br />
+<br />
+両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ、1st Album『DANCE TRACKS VOL.1』とBest Album『Finally』に収録され、前者はアルバム用に制作されたリミックス・ヴァージョンで、後者は新録ヴァージョンで収録。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -207,13 +242,27 @@
 <td><p><strong>MEMORIES 〜明日のために〜</strong></p></td>
 <td><p>TODT-3421</p></td>
 <td><p>8位</p></td>
-<td></td>
+<td><p>1st Album <strong></strong><br />
+<strong>「DANCE TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「ORIGINAL TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「<a href="https://ja.wikipedia.org/wiki/181920" title="wikilink">181920</a>」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「Finally」</strong></p></td>
+<td><p>この曲より松田律子、宮内玲奈が加入。<br />
+<br />
+両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』と『Finally』に収録。表題曲の前者はアルバム用に制作されたリミックス・ヴァージョンで、後者の『Finally』には新録ヴァージョンで収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="background:#e5e5e5;" colspan=10 ="font-size:small;" |SUPER MONKEY'S参加シングル</p></td>
+<td><p>style="background:#e5e5e5;" colspan= 11 |SUPER MONKEY'S参加シングル</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -225,48 +274,82 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>#</p></td>
+<td><p>1</p></td>
 <td><p>安室奈美恵</p></td>
 <td><p>1995年4月26日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/太陽のSEASON" title="wikilink">太陽のSEASON</a></strong></p></td>
 <td><p><strong>ハートに火をつけて</strong></p></td>
+<td><p>東芝EMI</p></td>
 <td><p>8cmCD</p></td>
 <td><p>TODT-3446</p></td>
 <td><p>5位</p></td>
-<td><p><strong>DANCE TRACKS VOL.1</strong></p></td>
-<td></td>
+<td><p>1st Album <strong></strong><br />
+<strong>「DANCE TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「ORIGINAL TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「181920」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「Finally」</strong></p></td>
+<td><p>この作品より単独での、ソロ初のシングルとなっているが、裏ジャケットには「<strong>安室奈美恵 with SUPER MONKEY'S</strong>」と記載。<br />
+<br />
+両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』と『Finally』に収録。表題曲の前者はアルバム用に制作されたリミックス・ヴァージョンで、後者の『Finally』には新録ヴァージョンで収録。</p></td>
 </tr>
 <tr class="even">
-<td><p>#</p></td>
+<td><p>2</p></td>
 <td><p>1995年7月24日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Stop_the_music" title="wikilink">Stop the music</a></strong></p></td>
 <td><p><strong>GOOD-NIGHT</strong></p></td>
 <td><p>TODT-3523</p></td>
 <td><p>4位</p></td>
-<td></td>
+<td><p>1st Album<br />
+<strong>「DANCE TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album <strong></strong><br />
+<strong>「ORIGINAL TRACKS VOL.1」</strong></p>
+<hr />
+<p>Best Album<br />
+<strong>「181920」</strong></p></td>
+<td><p>EMI在籍時代、最後のシングル。<br />
+<br />
+両曲共にBest Album『ORIGINAL TRACKS VOL.1』に収録。表題曲のみ1st Album『DANCE TRACKS VOL.1』、Best Album『181920』に収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>#</p></td>
+<td><p>3</p></td>
 <td><p>1995年10月25日</p></td>
 <td><p><strong><a href="../Page/Body_Feels_EXIT.md" title="wikilink">Body Feels EXIT</a></strong></p></td>
 <td><p><strong>Body Feels EXIT (X-TENDED MIX)</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p>AVDD-20107</p></td>
 <td><p>3位</p></td>
-<td><p><strong><a href="../Page/SWEET_19_BLUES.md" title="wikilink">SWEET 19 BLUES</a></strong></p></td>
-<td></td>
+<td><p>2nd Album<br />
+<strong>「<a href="../Page/SWEET_19_BLUES.md" title="wikilink">SWEET 19 BLUES</a>」</strong></p>
+<hr />
+<p>1st Best Album<br />
+<strong>「181920」</strong></p>
+<hr />
+<p>6th Best Album<br />
+<strong>「Finally」</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax移籍後初のシングル</a>。バックダンサーとしてSUPER MONKEY'Sが参加。<br />
+<br />
+2nd Album『SWEET 19 BLUES』にはアルバム用に制作されたリミックス・ヴァージョンで、6th Best Album『Finally』には新録ヴァージョンでそれぞれ収録。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>#</p></td>
+<td><p>4</p></td>
 <td><p>1995年12月4日</p></td>
 <td><p><strong><a href="../Page/Chase_the_Chance.md" title="wikilink">Chase the Chance</a></strong></p></td>
 <td><p><strong>Chase the Chance (TRIP CLUB MIX)</strong></p></td>
 <td><p>AVDD-20109</p></td>
 <td><p>1位</p></td>
+<td><p>2nd Album『SWEET 19 BLUES』にはアルバム用に制作されたリミックス・ヴァージョン、6th Best Album『Finally』には新録ヴァージョンでそれぞれ収録。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -283,6 +366,7 @@
 <th><p>名義</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
+<th><p>レーベル</p></th>
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
 <th><p>順位</p></th>
@@ -298,18 +382,22 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>安室奈美恵</p></td>
 <td><p>1995年10月16日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/DANCE_TRACKS_VOL.1" title="wikilink">DANCE TRACKS VOL.1</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/EASTWORLD" title="wikilink">EASTWORLD</a></p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-9100</p></td>
 <td><p><strong>1位</strong></p></td>
-<td></td>
+<td><p>安室の単独名義ではあるが、SUPER MONKEY'Sの楽曲を含み、裏ジャケットやブックレットにメンバー全員の写真が載っている。<br />
+なお、デビューシングル「<strong>恋のキュート・ビート/ミスターU.S.A.</strong>」は<strong>未収録</strong>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan="10" ="font-size:small;" | <a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -321,13 +409,16 @@
 <td><p>安室奈美恵 with SUPER MONKEY'S</p></td>
 <td><p>1996年9月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ORIGINAL_TRACKS_VOL.1" title="wikilink">ORIGINAL TRACKS VOL.1</a></strong></p></td>
+<td><p>EASTWORLD</p></td>
 <td><p>CD</p></td>
 <td><p>TOCT-9630</p></td>
 <td><p>3位</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東芝EMI" title="wikilink">東芝EMI</a>時代の楽曲が全て収録されたベストアルバム。<br />
+2000年代に入り廃盤となり、長らく入手困難が続いていたが、安室のデビュー25周年を記念してオリジナルの復刻再発盤が<a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">USM JAPAN（旧EMI）から高品質ディスクSHM</a>-CDとリマスタリングにて再リリースされた。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月2日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/USM_JAPAN" title="wikilink">USM JAPAN</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SHM-CD" title="wikilink">SHM-CD</a></p></td>
 <td><p>UPCY-7472</p></td>
 <td><p>8位</p></td>
@@ -343,16 +434,19 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>VARIOUS ARTISTS</p></td>
 <td><p>1995年11月15日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/avex_dance_Matrix_&#39;95_TK_DANCE_CAMP" title="wikilink">avex dance Matrix '95<br />
 TK DANCE CAMP</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p>CD</p></td>
 <td><p>AVCD-11357</p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>1995年<a href="../Page/8月26日.md" title="wikilink">8月26日</a>に<a href="https://ja.wikipedia.org/wiki/東京ベイサイドスクエア" title="wikilink">東京ベイサイドスクエア</a>で行われた<a href="https://ja.wikipedia.org/wiki/小室哲哉" title="wikilink">小室哲哉</a>主催の野外ライブの模様を収録したライヴ音源CD。<br />
+VHS、LDと同日リリース。</p></td>
 </tr>
 <tr class="even">
 <td><p>安室奈美恵</p></td>
@@ -360,21 +454,26 @@ TK DANCE CAMP</a></strong></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/181920" title="wikilink">181920</a></strong></p></td>
 <td><p>AVCD-11624</p></td>
 <td><p>1位</p></td>
+<td><p>ソロ転身及び、avex移籍後初となるソロワーク第一弾の集大成ともいえるベスト・アルバム。<br />
+同グループ名義からは5thシングル「<strong>TRY ME 〜私を信じて〜</strong>」、6thシングル「<strong>太陽のSEASON</strong>」、7thシングル「<strong>Stop the music</strong>」の3曲が収録。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年11月8日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Finally_(安室奈美恵のアルバム)" title="wikilink">Finally</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Dimension_Point" title="wikilink">Dimension Point</a></p></td>
 <td><p>3CD+DVD</p></td>
 <td><p>AVCN-99055〜7</p></td>
-<td></td>
+<td><p>安室がデビュー25周年を記念してリリースされたオールタイム・ベストアルバム。<br />
+全52曲が収録されているアルバムで、このうち、39曲が再録・ニューレコーディングが施されている。同グループ名義からはデビューシングル「<strong>ミスターU.S.A.</strong>」、3rdシングル「<strong>愛してマスカット</strong>」、4thシングル「<strong>PARADISE TRAIN</strong>」、5thシングル「<strong>TRY ME 〜私を信じて〜</strong>」、6thシングル「<strong>太陽のSEASON</strong>」が<strong>再録・ニューレコーディング</strong>にて収録。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3CD+Blu-ray</p></td>
 <td><p>AVCN-99052〜4/B</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -389,11 +488,14 @@ TK DANCE CAMP</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### 映像作品
+
+※ 全て、参加した唯一の作品となっている。なお、グループとしての単独映像（PV集も含む) でのリリースは一切行っていない。そのため、グループとして参加した映像を観れるのは、現時点でこの2作品のライヴ映像のみとなる。
 
 <table>
 <thead>
@@ -401,6 +503,7 @@ TK DANCE CAMP</a></strong></p></td>
 <th><p>名義</p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
+<th><p>レーベル</p></th>
 <th><p>発売形態</p></th>
 <th><p>品番</p></th>
 <th><p>備考</p></th>
@@ -412,13 +515,16 @@ TK DANCE CAMP</a></strong></p></td>
 <td><p>1995年11月15日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/avex_dance_Matrix_&#39;95_TK_DANCE_CAMP" title="wikilink">avex dance Matrix '95<br />
 TK DANCE CAMP</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
 <td><p><a href="../Page/VHS.md" title="wikilink">VHS</a></p></td>
 <td><p>AVVD-90020</p></td>
-<td></td>
+<td><p>1995年8月26日に東京ベイサイドスクエアで行われた小室哲哉主催の野外ライブの模様を収録。<br />
+安室奈美恵 with SUPER MONKEY'Sは「TRY ME 〜私を信じて〜」、「太陽のSEASON」を披露[12]。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/レーザーディスク.md" title="wikilink">LD</a></p></td>
 <td><p>AVLD-80006</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -431,12 +537,16 @@ TK DANCE CAMP</a></strong></p></td>
 1996 LIVE AT MARINE STADIUM</a></strong></p></td>
 <td><p>VHS</p></td>
 <td><p>AVVD-90029</p></td>
+<td><p>1996年夏の野外ライブ「<em>SUMMER PRESENTS '96 AMURO NAMIE with SUPER MONKEY'S</em>」の最終・<a href="../Page/千葉マリンスタジアム.md" title="wikilink">千葉マリンスタジアム</a>公演の模様を収録。<br />
+このライブを以って安室奈美恵 with SUPER MONKEY'Sはグループとしての活動を休止する。<br />
+「Chase the Chance」以降の楽曲でSUPER MONKEY'Sの参加はなかったが、ツアー限定で「<a href="../Page/You&#39;re_my_sunshine.md" title="wikilink">You're my sunshine</a>」のバックダンサーを務めている。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2000年9月27日</p></td>
 <td><p><a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
 <td><p>AVBD-91023</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -594,7 +704,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <td><p>1992年</p></td>
 <td><p>5月3日</p></td>
 <td><p>ゴールデンウィークイベント『<a href="../Page/ピーター・パン.md" title="wikilink">ピーターパン</a>』</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/玉泉洞" title="wikilink">玉泉洞</a>自然公園[12]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/玉泉洞" title="wikilink">玉泉洞</a>自然公園[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月23日</p></td>
@@ -605,14 +715,14 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="odd">
 <td><p>8月30日</p></td>
 <td><p><a href="../Page/ビジーフォー.md" title="wikilink">ビジーフォー</a> 24時間マラソンライブ in つま恋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋" title="wikilink">ヤマハリゾートつま恋</a>[13]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋" title="wikilink">ヤマハリゾートつま恋</a>[14]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月23日</p></td>
 <td><p>''Here We Are</p></td>
 <td><p>スーパー・モンキーズ''</p></td>
-<td><p><a href="../Page/原宿.md" title="wikilink">原宿</a><a href="../Page/歩行者天国.md" title="wikilink">歩行者天国</a>[14]</p></td>
+<td><p><a href="../Page/原宿.md" title="wikilink">原宿</a><a href="../Page/歩行者天国.md" title="wikilink">歩行者天国</a>[15]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月1日</p></td>
@@ -623,7 +733,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>11月29日</p></td>
 <td><p><a href="../Page/千葉ロッテマリーンズ.md" title="wikilink">千葉ロッテマリーンズ</a>VS<a href="../Page/たけし軍団.md" title="wikilink">たけし軍団</a> ファン感謝デー</p></td>
-<td><p><a href="../Page/千葉マリンスタジアム.md" title="wikilink">千葉マリンスタジアム</a>[15]</p></td>
+<td><p><a href="../Page/千葉マリンスタジアム.md" title="wikilink">千葉マリンスタジアム</a>[16]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -635,7 +745,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>2月7日</p></td>
 <td><p><a href="../Page/さっぽろ雪まつり.md" title="wikilink">雪まつり</a> -バラエティフェスティバルアイドル大集合-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a>・<a href="../Page/大通公園.md" title="wikilink">大通公園</a>[16]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a>・<a href="../Page/大通公園.md" title="wikilink">大通公園</a>[17]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -659,7 +769,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>8月14日</p></td>
 <td><p><em>SUPER MONKEY'S4 ミニライブ</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンライズもとみや" title="wikilink">サンライズもとみや</a>[17]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サンライズもとみや" title="wikilink">サンライズもとみや</a>[18]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -758,7 +868,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="odd">
 <td><p>9月25日</p></td>
 <td><p>新どん兵衛世直し大作戦</p></td>
-<td><p><a href="../Page/新宿.md" title="wikilink">新宿</a>ステーションスクエア[18]</p></td>
+<td><p><a href="../Page/新宿.md" title="wikilink">新宿</a>ステーションスクエア[19]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -788,9 +898,9 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <p>出演校</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>11月5日 第33回:<a href="https://ja.wikipedia.org/wiki/東京電機大学" title="wikilink">東京電機大学</a>・錦祭[19]<br />
+<p>11月5日 第33回:<a href="https://ja.wikipedia.org/wiki/東京電機大学" title="wikilink">東京電機大学</a>・錦祭[20]<br />
 11月6日 第2回:<a href="../Page/福井県立大学.md" title="wikilink">福井県立大学</a>・白樫祭<br />
-11月23日 第36回:<a href="https://ja.wikipedia.org/wiki/慶應義塾大学" title="wikilink">慶應義塾大学</a>・<a href="../Page/三田祭.md" title="wikilink">三田祭</a>[20]</p></td>
+11月23日 第36回:<a href="https://ja.wikipedia.org/wiki/慶應義塾大学" title="wikilink">慶應義塾大学</a>・<a href="../Page/三田祭.md" title="wikilink">三田祭</a>[21]</p></td>
 </tr>
 <tr class="even">
 <td><p>1995年</p></td>
@@ -837,13 +947,13 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="odd">
 <td><p>4月2日</p></td>
 <td><p><em>TRY ME ビッグヒット Specialイベント</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渋谷公園通り劇場" title="wikilink">渋谷公園通り劇場</a>[21]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/渋谷公園通り劇場" title="wikilink">渋谷公園通り劇場</a>[22]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月30日</p></td>
 <td><p>「太陽のSEASON」Special LIVE''</p></td>
-<td><p><a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[22]</p></td>
+<td><p><a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[23]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -855,13 +965,13 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>5月20日</p></td>
 <td><p>静岡カップ'95 <a href="../Page/東芝.md" title="wikilink">TOSHIBAドリームサッカー</a></p></td>
-<td><p><a href="../Page/静岡市清水日本平運動公園球技場.md" title="wikilink">日本平スタジアム</a>[23]</p></td>
+<td><p><a href="../Page/静岡市清水日本平運動公園球技場.md" title="wikilink">日本平スタジアム</a>[24]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月21日</p></td>
 <td><p>第8回 花とワインフェスティバル</p></td>
-<td><p>山口・<a href="../Page/徳山市.md" title="wikilink">徳山市</a>陸上競技場[24]</p></td>
+<td><p>山口・<a href="../Page/徳山市.md" title="wikilink">徳山市</a>陸上競技場[25]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -939,7 +1049,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>10月28日</p></td>
 <td><p>安室奈美恵 with SUPER MONKEY'S IN <a href="https://ja.wikipedia.org/wiki/西条プラザ" title="wikilink">西条プラザ</a></p></td>
-<td><p>西条プラザ・3F屋上[25]</p></td>
+<td><p>西条プラザ・3F屋上[26]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1010,17 +1120,18 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 9.  「微笑1992.5.16」より
 10. 「[明星](../Page/Myojo.md "wikilink") 92.6」より
 11. 「[Zipper](../Page/Zipper.md "wikilink") 93.6」より
-12. [沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")主催の舞台劇。主人公のピーターパン役を安室が務め、メンバーも全員出演した。またメンバー加入前の松田、宮内の他、後にデビューする[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバーや、[知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")なども出演している。
-13. [24時間テレビ内の企画](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")
-14. トラックステージで行われたデビュー告知イベント。
-15. 当時SUPER MONKEY'SがロッテアイスのCMに出演していたことからゲスト出演
-16. 第44回「[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")」内で行われたライブステージに出演。
-17. 「[みずいろ公園](../Page/みずいろ公園.md "wikilink")」のオープニングイベント内で行われたミニライブ。
-18. [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「世直し[どん兵衛](../Page/どん兵衛.md "wikilink")」の発売を記念して行われたイベント
-19. 7号館1F・7102教室
-20. 中庭ステージ
-21. 「TRY ME」購入者全員対象
-22. 「太陽のSEASON」購入者全員対象
-23. [Jリーグ静岡選抜vsJリーグ外国選抜](../Page/日本プロサッカーリーグ.md "wikilink")
-24. 同イベント内の[サッポロワインコンサートに出演](../Page/サッポロビール.md "wikilink")
-25. [広島FMのラジオ公録後に行われたミニライブ](../Page/広島エフエム放送.md "wikilink")。
+12. ビデオには収録されていないが、この時にまだ未完成だった「Body Feels EXIT」を初披露している。
+13. [沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")主催の舞台劇。主人公のピーターパン役を安室が務め、メンバーも全員出演した。またメンバー加入前の松田、宮内の他、後にデビューする[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバーや、[知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")なども出演している。
+14. [24時間テレビ内の企画](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")
+15. トラックステージで行われたデビュー告知イベント。
+16. 当時SUPER MONKEY'SがロッテアイスのCMに出演していたことからゲスト出演
+17. 第44回「[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")」内で行われたライブステージに出演。
+18. 「[みずいろ公園](../Page/みずいろ公園.md "wikilink")」のオープニングイベント内で行われたミニライブ。
+19. [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「世直し[どん兵衛](../Page/どん兵衛.md "wikilink")」の発売を記念して行われたイベント
+20. 7号館1F・7102教室
+21. 中庭ステージ
+22. 「TRY ME」購入者全員対象
+23. 「太陽のSEASON」購入者全員対象
+24. [Jリーグ静岡選抜vsJリーグ外国選抜](../Page/日本プロサッカーリーグ.md "wikilink")
+25. 同イベント内の[サッポロワインコンサートに出演](../Page/サッポロビール.md "wikilink")
+26. [広島FMのラジオ公録後に行われたミニライブ](../Page/広島エフエム放送.md "wikilink")。

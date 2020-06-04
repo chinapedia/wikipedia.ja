@@ -1,7 +1,7 @@
 > この記事は[元気満タン秋田だwin2](https://ja.wikipedia.org/wiki/元気満タン秋田だwin2)から翻訳されています。
 
 
-**元気満タン秋田だwin2**（げんきまんたんあきただういんず）は、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")の、月曜 - 金曜日の12:20～15:25に放送された昼ワイド番組である。中継車[ラジPAL](https://ja.wikipedia.org/wiki/ラジPAL "wikilink")による街頭中継も行われていた。
+**元気満タン秋田だwin2**（げんきまんたんあきただういんず）は、[秋田放送](../Page/秋田放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")の、月曜 - 金曜日の12:20～15:25に放送された昼ワイド番組である。中継車[ラジPAL](https://ja.wikipedia.org/wiki/ラジPAL "wikilink")による街頭中継も行われていた。
 
 　「120万人のいつでもラジオ」、「これはkikiますビタミンラジオ」などの昼ワイド番組の時間帯を継いできた。2004年11月放送分より、「[元気満タン秋田だwin](https://ja.wikipedia.org/wiki/元気満タン秋田だwin "wikilink")」からタイトル変更。2006年3月31日で放送が終了し、4月3日から[ごごはWIN'S](../Page/ごごはWIN'S.md "wikilink")がスタートした。
 

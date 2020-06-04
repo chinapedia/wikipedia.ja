@@ -1116,6 +1116,7 @@ feat.Sugar Soul &amp;Zeebra</p></td>
 
   - [亀田興毅に勝ったら1000万円](https://ja.wikipedia.org/wiki/亀田興毅に勝ったら1000万円 "wikilink")（2017年5月7日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - リングMC\[6\]
   - [安室奈美恵ファッション総選挙　FASHION MOVIE BEST 50](https://ja.wikipedia.org/wiki/安室奈美恵ファッション総選挙_FASHION_MOVIE_BEST_50_〜史上初!動画で振り返る25年の安室奈美恵ファッション史〜 "wikilink")（2018年9月9日、AbemaTV）\[7\]
+    1.  タメノミ～同学年ドリーム飲み会～（2000年5月1日、ABEMA）\[8\]
 
 ### 映画
 
@@ -1153,7 +1154,7 @@ feat.Sugar Soul &amp;Zeebra</p></td>
   -
 ## プロデュース
 
-  - Beat Park（2005年） - [ヤクルトスワローズ](https://ja.wikipedia.org/wiki/ヤクルトスワローズ "wikilink")、[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")
+  - Beat Park（2005年） - [ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")
 
 ## ライブ・コンサートツアー
 
@@ -1217,3 +1218,4 @@ feat.Sugar Soul &amp;Zeebra</p></td>
 5.
 6.
 7.
+8.

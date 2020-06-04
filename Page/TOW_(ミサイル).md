@@ -7,7 +7,7 @@
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Tow_atm.jpg "wikilink") [ミサイル](../Page/ミサイル.md "wikilink")は、チューブ型[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")に納められており、発射機にチューブごと装着して発射する。この発射機は約7年間整備無しに使用できるとされている。誘導方式は[半自動指令照準線一致誘導方式](https://ja.wikipedia.org/wiki/半自動指令照準線一致誘導方式 "wikilink")（SACLOS）であり、ミサイルの出す光と照準中心とのズレを修正する事で誘導する。そのため、発射から着弾まで射手が照準中心に目標を捕らえ続ける必要がある。発射後もミサイルと発射機は二本の[ワイヤ](https://ja.wikipedia.org/wiki/ワイヤ "wikilink")ーで接続されており、誘導情報はそのワイヤーにより電気的にミサイルへ伝達される。
+[代替文=](https://ja.wikipedia.org/wiki/ファイル:Wehrtechnische_Sammlung_der_Bundeswehr_\(39637633461\).jpg "wikilink") [ミサイル](../Page/ミサイル.md "wikilink")は、チューブ型[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")に納められており、発射機にチューブごと装着して発射する。この発射機は約7年間整備無しに使用できるとされている。誘導方式は[半自動指令照準線一致誘導方式](https://ja.wikipedia.org/wiki/半自動指令照準線一致誘導方式 "wikilink")（SACLOS）であり、ミサイルの出す光と照準中心とのズレを修正する事で誘導する。そのため、発射から着弾まで射手が照準中心に目標を捕らえ続ける必要がある。発射後もミサイルと発射機は二本の[ワイヤ](https://ja.wikipedia.org/wiki/ワイヤ "wikilink")ーで接続されており、誘導情報はそのワイヤーにより電気的にミサイルへ伝達される。
 
 [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")のほか、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")や[西側諸国](../Page/西側諸国.md "wikilink")の多くで使われており、[歩兵](../Page/歩兵.md "wikilink")による運用のほか、車載型ミサイルや[攻撃ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")に搭載されて運用される。長年の使用に伴い[弾頭](../Page/弾頭.md "wikilink")や誘導方式に改良が加えられ、さまざまなバリエーションがある。
 

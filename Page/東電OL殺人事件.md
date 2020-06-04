@@ -246,7 +246,7 @@
 10. [東電女性社員殺害事件、再審開始を決定　東京高裁](http://www.nikkei.com/article/DGXNASDG0604Q_X00C12A6000000/?dg=1) 日本経済新聞 2012年6月7日閲覧
 11. [東電社員殺害、再審確実に　東京高裁、検察側の異議棄却](http://www.asahi.com/national/update/0731/TKY201207310184.html) 朝日新聞 2012年7月31日閲覧
 12.
-13. [家族「長年の夢かなった」＝マイナリさん、出国－東電社員殺害・成田空港](http://jiji.com/jc/c?g=soc_30&k=2012061500765) 時事通信 2012年6月15日閲覧
+13.
 14. [ネパールに帰国　逮捕、拘束経て18年ぶり](http://www.47news.jp/CN/201206/CN2012061601001518.html) 共同通信 2012年6月16日閲覧
 15. [Mainali‚ who languished long in Japan's jail‚ arrives home](http://www.thehimalayantimes.com/fullNews.php?headline=Mainali%E2%80%9A+who+languished+long+in+Japan's+jail%E2%80%9A+arrives+home+&NewsID=336231&a=3) The Himalayan Times 2012年6月16日閲覧
 16. [「東電ＯＬ殺人事件」裁判所に届いた１５年の無実の訴え](http://enzaifile.com/publist/shosai/new.html)（[冤罪File](https://ja.wikipedia.org/wiki/冤罪File "wikilink") vol. 17）

@@ -19,6 +19,7 @@
 
   - [林勇](https://ja.wikipedia.org/wiki/林勇_\(アナウンサー\) "wikilink")
   - [岩本美智子](https://ja.wikipedia.org/wiki/岩本美智子 "wikilink")
+  - [早川英治](https://ja.wikipedia.org/wiki/早川英治 "wikilink")
   - ほか
 
 ## 放送時間

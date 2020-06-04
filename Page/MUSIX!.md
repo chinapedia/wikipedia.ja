@@ -181,7 +181,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
   - 長野県 - SBC [信越放送](../Page/信越放送.md "wikilink")（TBS系列）
   - 山梨県 - 未放送
   - 静岡県 - SATV [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")（テレビ朝日系列）
-  - 富山県 - KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（日本テレビ系列）
+  - 富山県 - KNB [北日本放送](../Page/北日本放送.md "wikilink")（日本テレビ系列）
   - 石川県 - MRO [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（TBS系列） ☆
   - 福井県 - FTB [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（フジテレビ系列） ☆　
   - 愛知県 - TVA **[テレビ愛知](../Page/テレビ愛知.md "wikilink")** ★

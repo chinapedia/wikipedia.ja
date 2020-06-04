@@ -76,7 +76,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td><p>月曜 15:55 - 16:24</p></td>
 <td><p>2007年10月15日まで放送</p></td>
 <td></td>

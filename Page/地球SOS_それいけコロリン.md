@@ -337,7 +337,7 @@
 
 <references/>
 
-[Category:NHK教育テレビジョンの子供向け番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの子供向け番組 "wikilink") [Category:NHK教育テレビジョンの教育番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教育番組 "wikilink") [Category:テレビの環境番組](https://ja.wikipedia.org/wiki/Category:テレビの環境番組 "wikilink") [Category:NHK教育テレビジョンのアニメ](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンのアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:アニメ作品_ち](https://ja.wikipedia.org/wiki/Category:アニメ作品_ち "wikilink") [Category:1992年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1992年のテレビアニメ "wikilink") [Category:環境保護を題材とした作品](https://ja.wikipedia.org/wiki/Category:環境保護を題材とした作品 "wikilink") [Category:ぎゃろっぷ](https://ja.wikipedia.org/wiki/Category:ぎゃろっぷ "wikilink")
+[Category:NHK教育テレビジョンの子供向け番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの子供向け番組の歴史 "wikilink") [Category:NHK教育テレビジョンの教育番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教育番組の歴史 "wikilink") [Category:テレビの環境番組](https://ja.wikipedia.org/wiki/Category:テレビの環境番組 "wikilink") [Category:NHK教育テレビジョンのアニメ](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンのアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:アニメ作品_ち](https://ja.wikipedia.org/wiki/Category:アニメ作品_ち "wikilink") [Category:1992年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1992年のテレビアニメ "wikilink") [Category:環境保護を題材とした作品](https://ja.wikipedia.org/wiki/Category:環境保護を題材とした作品 "wikilink") [Category:ぎゃろっぷ](https://ja.wikipedia.org/wiki/Category:ぎゃろっぷ "wikilink")
 
 1.  最終回まで探検隊の名前が平仮名のままで表記。
 2.  但し、実写パートは入っていない。

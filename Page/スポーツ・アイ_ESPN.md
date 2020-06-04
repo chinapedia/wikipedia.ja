@@ -40,7 +40,7 @@
 
   - [スポーツセンター](../Page/スポーツセンター.md "wikilink")USA
   - 野球
-      - [ドラマティック プロ野球・パ\!](../Page/ドラマティック_プロ野球・パ!.md "wikilink")（[オリックス](https://ja.wikipedia.org/wiki/オリックスバファローズ "wikilink")、[福岡ダイエー・ソフトバンク主催試合を中心に](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[パ・リーグの公式戦放送](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")、〜2005年）
+      - [ドラマティック プロ野球・パ\!](../Page/ドラマティック_プロ野球・パ!.md "wikilink")（[オリックス](../Page/オリックス・バファローズ.md "wikilink")、[福岡ダイエー・ソフトバンク主催試合を中心に](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")[パ・リーグの公式戦放送](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")、〜2005年）
       - [J SPORTS STADIUM](../Page/J_SPORTS_STADIUM.md "wikilink")（2006年）
       - 2006[ワールド・ベースボール・クラシック](../Page/ワールド・ベースボール・クラシック.md "wikilink")（WBC）
       - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")（[1990年代](../Page/1990年代.md "wikilink")の一時期）

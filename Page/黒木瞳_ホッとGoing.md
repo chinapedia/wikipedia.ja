@@ -57,7 +57,7 @@
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") 18:16 - 18:20
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") 15:55 - 16:00（[ワイドステーション](../Page/ワイドステーション.md "wikilink")内）
   - [東北放送](../Page/東北放送.md "wikilink") 16:25 - 16:30
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink") 16:20 - 16:25
+  - [秋田放送](../Page/秋田放送.md "wikilink") 16:20 - 16:25
   - [山形放送](../Page/山形放送.md "wikilink") 16:47 - 16:52（[YBCイブニング・スコープ](../Page/YBCイブニング・スコープ.md "wikilink")内）
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink") 16:35 - 16:40([イブニングパートナー](https://ja.wikipedia.org/wiki/イブニングパートナー "wikilink")内）
   - [茨城放送](../Page/茨城放送.md "wikilink") 16:55 - 17:00（[阿部重典のアットマーク](../Page/阿部重典のアットマーク.md "wikilink")内）
@@ -66,7 +66,7 @@
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink") 16:45 - 16:50
   - [信越放送](../Page/信越放送.md "wikilink") 16:50 - 16:55
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") 16:30 - 16:35
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") 18:15 - 18:20（[牛島町モーモー喫茶 〜みなさん お疲れ様です。〜内](../Page/牛島町モーモー喫茶_〜みなさん_お疲れ様です。〜.md "wikilink")）
+  - [北日本放送](../Page/北日本放送.md "wikilink") 18:15 - 18:20（[牛島町モーモー喫茶 〜みなさん お疲れ様です。〜内](../Page/牛島町モーモー喫茶_〜みなさん_お疲れ様です。〜.md "wikilink")）
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") 16:50 - 16:54
   - [福井放送](../Page/福井放送.md "wikilink") 16:20 - 16:25（[午後はとことんワイド](../Page/午後はとことんワイド.md "wikilink")内）
   - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink") 17:40 - 17:45（[安蒜豊三 夕焼けナビ内](../Page/安蒜豊三_夕焼けナビ.md "wikilink")）
@@ -83,7 +83,7 @@
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink") 16:10 - 16:15（[本気(まじ)?ラジ\!](https://ja.wikipedia.org/wiki/本気\(まじ\)?ラジ! "wikilink")内）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") 16:30 - 16:35
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") 16:50 - 16:55（[栗田善成のまずはラジオでおつかれさん](../Page/栗田善成のまずはラジオでおつかれさん.md "wikilink")内）
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") 16:00 - 16:05
+  - [長崎放送](../Page/長崎放送.md "wikilink") 16:00 - 16:05
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") 16:00 - 16:05
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 16:30 - 16:35
   - [大分放送](../Page/大分放送.md "wikilink") 16:55 - 17:00

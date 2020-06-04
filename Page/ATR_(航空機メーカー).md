@@ -9,7 +9,7 @@
 
 ラインナップは[ターボプロップ](https://ja.wikipedia.org/wiki/ターボプロップ "wikilink")機のATR 42とストレッチ型のATR 72の生産に限定し、エンジンや[アビオニクス](../Page/アビオニクス.md "wikilink")の改良を繰り返すことで完成度を高めている。機体は同クラスのリージョナルジェットと比較して燃費が良く、コンビ機としても使えるように大型のカーゴドアを装備しているなど、短距離や採算の取れにくい地方路線向けの堅実な設計であるが、[グラスコックピット](../Page/グラスコックピット.md "wikilink")や[炭素繊維強化炭素複合材料](https://ja.wikipedia.org/wiki/炭素繊維強化炭素複合材料 "wikilink")を取り入れるなど先進的な要素も取り入れている\[1\]。
 
-競合機のボンバルディアQ400シリーズからの乗り換えを狙い、[リージョナル航空会社や大手航空会社の近距離路線向けに売り込まれており](../Page/コミューター航空会社.md "wikilink")、[カリビアン航空](https://ja.wikipedia.org/wiki/カリビアン航空 "wikilink")、 [アズールブラジル航空](../Page/アズールブラジル航空.md "wikilink")、[トランスアジア航空](../Page/トランスアジア航空.md "wikilink")、[LOTポーランド航空](https://ja.wikipedia.org/wiki/LOTポーランド航空 "wikilink")、[チェコ航空](../Page/チェコ航空.md "wikilink")、[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")、[北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")などが採用している。
+競合機のボンバルディアQ400シリーズからの乗り換えを狙い、[リージョナル航空会社や大手航空会社の近距離路線向けに売り込まれており](../Page/コミューター航空会社.md "wikilink")、[カリビアン航空](https://ja.wikipedia.org/wiki/カリビアン航空 "wikilink")、 [アズールブラジル航空](../Page/アズールブラジル航空.md "wikilink")、[トランスアジア航空](../Page/トランスアジア航空.md "wikilink")、[LOTポーランド航空](https://ja.wikipedia.org/wiki/LOTポーランド航空 "wikilink")、[チェコ航空](../Page/チェコ航空.md "wikilink")、[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")、[天草エアライン](../Page/天草エアライン.md "wikilink")、[北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")などが採用している。
 
 [2003年](../Page/2003年.md "wikilink")に[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink")搭載の[リージョナルジェット](https://ja.wikipedia.org/wiki/リージョナルジェット "wikilink")を生産すると発表したが、後に計画は中止された。
 

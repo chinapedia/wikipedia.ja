@@ -49,8 +49,9 @@
 
   - [柴原洋](../Page/柴原洋.md "wikilink")（2012年 - ）
   - [斉藤和巳](../Page/斉藤和巳.md "wikilink")（2014年 - 、2015年からテレビ東京解説者兼。2017年からはスポナビライブのDeNA戦やDAZNの広島戦（いずれも対ソフトバンク戦以外も含む）の解説も担当）
+  - [森福允彦](../Page/森福允彦.md "wikilink")（2020年 - 、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（テレビ・ラジオ）・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（テレビ）解説者兼。）
 
-2人とも[スポーツライブ+](../Page/スポーツライブ+.md "wikilink")で放送の球団制作中継の中継を兼任。
+3人とも[スポーツライブ+](../Page/スポーツライブ+.md "wikilink")で放送の球団制作中継の中継を兼任。
 
 ### ゲスト解説
 
@@ -250,7 +251,7 @@ TVQの夕方におけるスポーツ情報番組のはじまりは、『**スポ
 
 ## 外部リンク
 
-  - [テレQ Super\!Stadium](http://www.tvq.co.jp/sports/super_stadium) - 中継日以外を含め、ホークス戦の試合の途中経過や結果を掲載している。
+  - [テレQ Super\!Stadium](https://www.tvq.co.jp/sports/super_stadium/) - 中継日以外を含め、ホークス戦の試合の途中経過や結果を掲載している。
 
 [Category:TVQ九州放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:TVQ九州放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/Category:福岡ソフトバンクホークス "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 

@@ -273,7 +273,7 @@
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FC東京の下部組織" title="wikilink">FC東京U-15深川</a></strong></p></td>
 <td><p><strong>3 - 1</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a></p></td>
-<td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a>ジュニアユース</p></td>
+<td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a>U-15</p></td>
 <td><p><a href="../Page/京都サンガF.C..md" title="wikilink">京都サンガF.C.</a>U-15<br />
 <a href="../Page/サンフレッチェ広島F.Cの育成組織.md" title="wikilink">サンフレッチェ広島ジュニアユース</a></p></td>
 </tr>

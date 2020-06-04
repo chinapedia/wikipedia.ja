@@ -337,7 +337,7 @@ MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seas
 4.  東京や愛知などでは『[立花裕人のMORNING FREEWAY](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")』を放送しており、当該時間帯は「モーニング・フリーウェイ〜ラッキー占い」を放送していたことによる。
 5.  なお年末特別番組「[SUPER GRAND COUNTDOWN](https://ja.wikipedia.org/wiki/カウントダウンステーション#SUPER_GRAND_COUNTDOWN "wikilink")」（ - 2016年度）など、14時台に放送出来ない場合は全局一斉に13:55 - 14:00に放送される。
 6.  MY OLYMPIC αは『[Sparkle Sparkler](https://ja.wikipedia.org/wiki/Sparkle_Sparkler "wikilink")』（月曜 - 木曜）、『[北川久仁子のbrilliant days×F](https://ja.wikipedia.org/wiki/北川久仁子のbrilliant_days×F "wikilink")』（金曜）にそれぞれ内包。
-7.  MY OLYMPIC αは『RAD ～Radio All Day～』（月曜 - 木曜）、『[AIRJAM Friday](../Page/AIRJAM.md "wikilink")』（金曜）にそれぞれ内包。
+7.  MY OLYMPIC αは『[RAD ～Radio All Day～](https://ja.wikipedia.org/wiki/RAD_～Radio_All_Day～ "wikilink")』（月曜 - 木曜）、『[AIRJAM Friday](../Page/AIRJAM.md "wikilink")』（金曜）にそれぞれ内包。
 8.  MY OLYMPIC αは『impress -GOOD THURSDAY-』（木曜）に内包。
 9.  MY OLYMPIC αは『[RBZ](https://ja.wikipedia.org/wiki/RBZ "wikilink")friday』（金曜）に内包。
 10. MY OLYMPIC αは『[HAPPY MAPPY](https://ja.wikipedia.org/wiki/HAPPY_MAPPY "wikilink")』（月曜）、『XOXO -hugs and kisses-』（火曜）、『PLAYER'S -active sports life-』（水曜）、『CH2020』（木曜）にそれぞれ内包。

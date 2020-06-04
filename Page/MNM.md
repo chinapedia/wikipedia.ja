@@ -27,7 +27,7 @@ MNMというユニット名は、それぞれの[リングネーム](../Page/リ
 
 **WWE**
 
-  - [WWEタッグ王座](https://ja.wikipedia.org/wiki/WWE・タッグチーム王座 "wikilink") : 3回
+  - [WWEタッグ王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink") : 3回
 
 ## 関連項目
 

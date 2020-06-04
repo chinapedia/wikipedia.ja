@@ -81,7 +81,7 @@
 ## 外部リンク
 
   - [1-UPスタジオ株式会社](https://1-up-studio.jp/)
-  - [株式会社ブラウニーズ](http://brownie-games.co.jp/)
+  - [株式会社ブラウニーブラウン](http://www.br2.co.jp/)（[旧公式サイト](http://web.archive.org/web/20130126155633/http://www.br2.co.jp/)の[Internet Archiveログ](../Page/インターネットアーカイブ.md "wikilink")）
   - [マジカルバケーション](http://www.nintendo.co.jp/n08/amvj/index.html)
   - [新約 聖剣伝説](http://www.square-enix.com/jp/archive/seiken_gba/)（\[<http://web.archive.org/*/http://www.square-enix.co.jp/games/gba/seiken/>\* 旧公式サイト\]の[Internet Archiveログ](../Page/インターネットアーカイブ.md "wikilink")）
   - [MOTHER3](http://www.nintendo.co.jp/n08/a3uj/index.html)

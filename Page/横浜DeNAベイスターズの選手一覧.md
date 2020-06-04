@@ -266,7 +266,7 @@
   - [池田茂](https://ja.wikipedia.org/wiki/池田茂_\(野球\) "wikilink")（1978 - 1979）
   - [池田弘](../Page/池田弘_\(野球\).md "wikilink")（1980 - 1982）
   - [池之上格](../Page/池之上格.md "wikilink")（1987 - 1988）
-  - [石井琢朗](https://ja.wikipedia.org/wiki/石井琢朗 "wikilink")（1989 - 2008）
+  - [石井琢朗](../Page/石井琢朗.md "wikilink")（1989 - 2008）
   - [石井輝比古](https://ja.wikipedia.org/wiki/石井輝比古 "wikilink")（1972）
   - [石井登](https://ja.wikipedia.org/wiki/石井登 "wikilink")（1958 - 1959）
   - [石井浩郎](../Page/石井浩郎.md "wikilink")（2002）

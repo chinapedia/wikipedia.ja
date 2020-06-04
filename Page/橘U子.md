@@ -35,14 +35,14 @@
 #### 映画
 
   - [アイス・アルマゲドン](https://ja.wikipedia.org/wiki/アイス・アルマゲドン "wikilink")（アレックス・ノヴァク〈ジェニファー・スペンス〉）
-  - [セックス・クラブ](https://ja.wikipedia.org/wiki/セックス・クラブ "wikilink")
+  - [セックス・クラブ](https://ja.wikipedia.org/wiki/セックス・クラブ "wikilink")（その他）
   - [チェイス\!](https://ja.wikipedia.org/wiki/チェイス! "wikilink")（ワイリー）
   - [爆走\!\!トムキャッツ](https://ja.wikipedia.org/wiki/爆走!!トムキャッツ "wikilink")（トリシア）
   - [ビジター](https://ja.wikipedia.org/wiki/ビジター_\(映画\) "wikilink")（ジネット）
   - [ビトウィーン・トゥ・ファーンズ: ザ・ムービー](../Page/ビトウィーン・トゥ・ファーンズ:_ザ・ムービー.md "wikilink")（本人役〈[ティファニー・ハディッシュ](https://ja.wikipedia.org/wiki/ティファニー・ハディッシュ "wikilink")〉）
   - [マイ・ワンダフル・ライフ](https://ja.wikipedia.org/wiki/マイ・ワンダフル・ライフ "wikilink")（精神科医）
   - [Mr.ウッドコック -史上最悪の体育教師-](https://ja.wikipedia.org/wiki/Mr.ウッドコック_-史上最悪の体育教師- "wikilink")（サリー）
-  - [めぐり逢う大地](https://ja.wikipedia.org/wiki/めぐり逢う大地 "wikilink")（スー）
+  - [めぐり逢う大地](https://ja.wikipedia.org/wiki/めぐり逢う大地 "wikilink")（スー＜[マリー・ブラサード](https://ja.wikipedia.org/wiki/マリー・ブラサード "wikilink")＞）
   - [ラブ・アペタイザー](https://ja.wikipedia.org/wiki/ラブ・アペタイザー "wikilink")（アガタ）
   - [レジスタンス](https://ja.wikipedia.org/wiki/レジスタンス_\(映画\) "wikilink")（カタリーナ）
   - [ロスト・マネー 偽りの報酬](https://ja.wikipedia.org/wiki/ロスト・マネー_偽りの報酬 "wikilink")（リンダ〈[ミシェル・ロドリゲス](../Page/ミシェル・ロドリゲス.md "wikilink")〉）
@@ -64,7 +64,7 @@
 
 ### 映画
 
-  - [ヤッターマン](https://ja.wikipedia.org/wiki/ヤッターマン_\(映画\) "wikilink")
+  - [ヤッターマン](https://ja.wikipedia.org/wiki/ヤッターマン_\(映画\) "wikilink")（その他）
 
 ### その他
 

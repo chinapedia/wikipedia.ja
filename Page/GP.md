@@ -40,10 +40,10 @@
   - [金貨](../Page/金貨.md "wikilink") ()
   - [ホスホグリセリン酸](https://ja.wikipedia.org/wiki/3-ホスホグリセリン酸 "wikilink") ()
   - [GP (アルバム)](https://ja.wikipedia.org/wiki/GP_\(アルバム\) "wikilink") - [グラム・パーソンズ](../Page/グラム・パーソンズ.md "wikilink")のアルバム。
-  - [NHK横浜放送局](../Page/NHK横浜放送局.md "wikilink")の[県域](../Page/県域放送.md "wikilink")[FM放送の](../Page/NHK-FM放送.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JOGP-FM）。
+  - [NHK横浜放送局](../Page/NHK横浜放送局.md "wikilink")の[県域](../Page/県域放送.md "wikilink")[FM放送の](../Page/NHK-FM放送.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JOGP-FM)。
   - [グロス＝ピタエフスキー方程式](https://ja.wikipedia.org/wiki/グロス＝ピタエフスキー方程式 "wikilink") ()。
-  - [血小板無力症](https://ja.wikipedia.org/wiki/血小板無力症 "wikilink")（） - [血小板](../Page/血小板.md "wikilink")の機能異常による疾患
-  - 無限責任組合員（General Partner）
+  - [血小板無力症](https://ja.wikipedia.org/wiki/血小板無力症 "wikilink") () - [血小板](../Page/血小板.md "wikilink")の機能異常による疾患
+  - 無限責任組合員 (General Partner)
 
 ## Gp
 

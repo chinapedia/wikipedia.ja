@@ -7,9 +7,9 @@
 
 原作は司馬遼太郎が[1960年代](../Page/1960年代.md "wikilink")に執筆した中編小説『[最後の将軍 徳川慶喜](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』（[文春文庫](../Page/文春文庫.md "wikilink")ほか）。司馬の原作が短いので、本作では他に、[渋沢栄一](../Page/渋沢栄一.md "wikilink")らが編んだ基礎史料たる『[徳川慶喜公伝](https://ja.wikipedia.org/wiki/徳川慶喜公伝 "wikilink")』（[平凡社東洋文庫](https://ja.wikipedia.org/wiki/平凡社東洋文庫 "wikilink")\[1\] 全4巻）を参考に、随所で原作以上に用いた。
 
-大河ドラマで幕末を題材にしたのは、同じ司馬遼太郎原作で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』以来の8年ぶり。主演・本木雅弘は、[1991年](../Page/1991年.md "wikilink")の『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』以来で、2度目の大河ドラマ出演で主役抜擢された。脚本は『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）や『[信長](../Page/信長_KING_OF_ZIPANGU.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）などを手がけた[田向正健](../Page/田向正健.md "wikilink")。
+大河ドラマで幕末を題材にしたのは、同じ司馬遼太郎原作で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』以来の8年ぶり\[2\]。主演・本木雅弘は、[1991年](../Page/1991年.md "wikilink")の『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』以来で、2度目の大河ドラマ出演で主役抜擢された。脚本は『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）や『[信長](../Page/信長_KING_OF_ZIPANGU.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）などを手がけた[田向正健](../Page/田向正健.md "wikilink")。
 
-[江戸幕府](../Page/江戸幕府.md "wikilink")最後の[征夷大将軍](../Page/征夷大将軍.md "wikilink")・[徳川慶喜](../Page/徳川慶喜.md "wikilink")が主人公の視点から幕末の政治劇を描く。[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を担当したのは[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")で、大原演じる[新門辰五郎](../Page/新門辰五郎.md "wikilink")の妻れん（架空人物）が当時を回顧する体で物語を進めていた。[江戸っ子](../Page/江戸っ子.md "wikilink")のれんが江戸弁で砕けたナレーションを行なうという設定のため、慶喜を「ケイキさん」と呼んだり\[2\]「これは後から判ったことなんだけど」「ここだけの話なんだけど」「わっちら下々の者は知らなかったんだけど」といったフレーズがよく用いられた。
+[江戸幕府](../Page/江戸幕府.md "wikilink")最後の[征夷大将軍](../Page/征夷大将軍.md "wikilink")・[徳川慶喜](../Page/徳川慶喜.md "wikilink")が主人公の視点から幕末の政治劇を描く。[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")を担当したのは[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")で、大原演じる[新門辰五郎](../Page/新門辰五郎.md "wikilink")の妻れん（架空人物）が当時を回顧する体で物語を進めていた。[江戸っ子](../Page/江戸っ子.md "wikilink")のれんが江戸弁で砕けたナレーションを行なうという設定のため、慶喜を「ケイキさん」と呼んだり\[3\]「これは後から判ったことなんだけど」「ここだけの話なんだけど」「わっちら下々の者は知らなかったんだけど」といったフレーズがよく用いられた。
 
 [藤岡琢也](../Page/藤岡琢也.md "wikilink")・[菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")・[若尾文子](../Page/若尾文子.md "wikilink")といった大御所の俳優や[杉良太郎](../Page/杉良太郎.md "wikilink")らベテラン勢の他、[石田ひかり](../Page/石田ひかり.md "wikilink")・[深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")ら若手女優を起用して人気確保に努め、また架空人物のエピソードや多面的表現を盛り込むなどしたが、[幕末](../Page/幕末.md "wikilink")の対立構造の複雑さや、主人公の慶喜の動きの乏しさ、そして数多く登場する架空人物の存在意義の低さなどから、視聴率は伸び悩んだ。一方で、主演の[本木雅弘](../Page/本木雅弘.md "wikilink")は常に[ポーカーフェイス](https://ja.wikipedia.org/wiki/ポーカーフェイス "wikilink")で通し、クールで聡明、策謀にも長けた慶喜を表現し、その演技に好評価を得た。また慶喜の家臣で、幕末の動乱に巻き込まれていくなど準主役格の活躍を見せる村田新三郎（架空の人物）を、当時はまだ無名に近かった[藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")が演じている。
 
@@ -17,13 +17,13 @@
 
 本作放送以前の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")放送の特別番組「さればでござる・全て見せます大河ドラマ」で、「徳川慶喜の生涯をドラマ化して欲しい」という視聴者の要望が伝えられていた。
 
-また、大河ドラマの総集編は放送年の年末に放送されるのが恒例だったが、この作品に限っては翌年・[1999年](../Page/1999年.md "wikilink")3月に放送された\[3\]。再放送は2010年11月から2011年2月にかけて[CS](../Page/CS.md "wikilink")の[時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")で行われたのが初めて。また、ソフト化は長らく実現していなかったが、[2014年](../Page/2014年.md "wikilink")秋に完全版の[DVD](../Page/DVD.md "wikilink")が発売された。なお、総集編は[NHKアーカイブスで](https://ja.wikipedia.org/wiki/NHKアーカイブス_\(施設\) "wikilink")、本編は[NHKオンデマンド](../Page/NHKオンデマンド.md "wikilink")の配信で視聴が可能となっている。
+また、大河ドラマの総集編は放送年の年末に放送されるのが恒例だったが、この作品に限っては翌年・[1999年](../Page/1999年.md "wikilink")3月に放送された\[4\]。再放送は2010年11月から2011年2月にかけて[CS](../Page/CS.md "wikilink")の[時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")で行われたのが初めて。また、ソフト化は長らく実現していなかったが、[2014年](../Page/2014年.md "wikilink")秋に完全版の[DVD](../Page/DVD.md "wikilink")が発売された。なお、総集編は[NHKアーカイブスで](https://ja.wikipedia.org/wiki/NHKアーカイブス_\(施設\) "wikilink")、本編は[NHKオンデマンド](../Page/NHKオンデマンド.md "wikilink")の配信で視聴が可能となっている。
 
 題字は主演の本木雅弘が書いたものもあるが、実際の放送では[隷書](https://ja.wikipedia.org/wiki/隷書 "wikilink")体の題字を使用した。本木による題字は番組のガイドブックなどで見ることができる。手製の題字が使用されないのは極めて異例である。他には『[山河燃ゆ](../Page/山河燃ゆ.md "wikilink")』『[北条時宗](../Page/北条時宗_\(NHK大河ドラマ\).md "wikilink")』の事例がある。
 
 また、オープニングでは幕閣などの役名は全て「[井伊掃部頭直弼](../Page/井伊直弼.md "wikilink")」など、官名を入れて表示している。
 
-平均視聴率は21.1%、最高視聴率は29.7%\[4\]。
+平均視聴率は21.1%、最高視聴率は29.7%\[5\]。
 
 ## テーマ音楽、タイトル映像
 
@@ -73,7 +73,7 @@
   - [徳川家定](https://ja.wikipedia.org/wiki/徳川家定 "wikilink")：[大出真也](https://ja.wikipedia.org/wiki/大出真也 "wikilink")
       -
         第13代征夷大将軍。
-  - 篤子\[5\]→[天璋院](../Page/天璋院.md "wikilink")：[深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")
+  - 篤子\[6\]→[天璋院](../Page/天璋院.md "wikilink")：[深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")
       -
         家定の継室。[薩摩藩](../Page/薩摩藩.md "wikilink")[島津家の分家出身](../Page/島津氏.md "wikilink")。高慢な性格で、慶喜と対立する。
   - [徳川家茂](../Page/徳川家茂.md "wikilink")：[木田健太](https://ja.wikipedia.org/wiki/木田健太 "wikilink")→[水橋研二](../Page/水橋研二.md "wikilink")→[進藤健太郎](https://ja.wikipedia.org/wiki/進藤健太郎 "wikilink")
@@ -391,8 +391,8 @@
 ### 通常放送時間
 
   - [NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")：毎週日曜 20時00分 - 20時45分
-  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")：毎週日曜 22時30分-23時15分\[6\]
-  - （再放送）NHK総合テレビジョン：毎週土曜 13時05分-13時50分\[7\]
+  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")：毎週日曜 22時30分-23時15分\[7\]
+  - （再放送）NHK総合テレビジョン：毎週土曜 13時05分-13時50分\[8\]
 
 ### 放送日程
 
@@ -449,7 +449,7 @@
 | 第47回                                                                                                                    | 11月29日 | 朝敵      |      |
 | 第48回                                                                                                                    | 12月6日  | 恭順謹慎    |      |
 | 最終回                                                                                                                     | 12月13日 | 無血開城    |      |
-| 平均視聴率 21.1%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）\[8\] |        |         |      |
+| 平均視聴率 21.1%（視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）\[9\] |        |         |      |
 
 ### 総集編
 
@@ -474,13 +474,14 @@
   - [大河ドラマ　徳川慶喜（よしのぶ） - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010459_00000)
   - \[<https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga038>　番組エピソード　大河ドラマ『徳川慶喜』 NHKアーカイブス\]
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:茨城県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:茨城県を舞台とした作品 "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:NHK水戸](https://ja.wikipedia.org/wiki/Category:NHK水戸 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:徳川慶喜](https://ja.wikipedia.org/wiki/Category:徳川慶喜 "wikilink") [Category:本木雅弘](https://ja.wikipedia.org/wiki/Category:本木雅弘 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:茨城県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:茨城県を舞台としたテレビドラマ "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:NHK水戸](https://ja.wikipedia.org/wiki/Category:NHK水戸 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:徳川慶喜](https://ja.wikipedia.org/wiki/Category:徳川慶喜 "wikilink") [Category:本木雅弘](https://ja.wikipedia.org/wiki/Category:本木雅弘 "wikilink")
 
 1.  同じ東洋文庫には『昔夢会筆記　徳川慶喜公回想談』（[渋沢栄一](../Page/渋沢栄一.md "wikilink")編・[大久保利謙](../Page/大久保利謙.md "wikilink")校訂）がある。
-2.  慶喜を「けいき」と読むのは当作品のオリジナルではなく歴史的に根拠がある。
-3.
-4.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
-5.  総集編では篤君
-6.  一部放送日時の変更あり
+2.  大河ドラマの『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』では、原作となった同名の小説の他にも同じ司馬遼太郎執筆の小説が複数原作として用いられており、本作の原作でもある『[最後の将軍](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』も『翔ぶが如く』第一部の「幕末編」に組み込まれていた。
+3.  慶喜を「けいき」と読むのは当作品のオリジナルではなく歴史的に根拠がある。
+4.
+5.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
+6.  総集編では篤君
 7.  一部放送日時の変更あり
-8.
+8.  一部放送日時の変更あり
+9.

@@ -3508,6 +3508,7 @@ KTV[13]</p></td>
 
   - [沢田知希](https://ja.wikipedia.org/wiki/沢田知希 "wikilink")
   - [吉田均](../Page/吉田均.md "wikilink")
+  - [椋木宏](../Page/椋木宏.md "wikilink")
 
 ### ご意見番
 

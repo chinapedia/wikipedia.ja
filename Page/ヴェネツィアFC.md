@@ -1,11 +1,15 @@
 > この記事は[ヴェネツィアFC](https://ja.wikipedia.org/wiki/ヴェネツィアFC)から翻訳されています。
 
 
-**ヴェネツィア・フットボール・クラブ**（**Venezia Football Club S.r.l.d.**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェネト州](../Page/ヴェネト州.md "wikilink")[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[セリエBに所属](../Page/セリエB_\(サッカー\).md "wikilink")。
+**ヴェネツィア・フットボール・クラブ**（**Venezia Football Club S.r.l.d.**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェネト州](../Page/ヴェネト州.md "wikilink")[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。1940-41シーズンに、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")を獲得した古豪。
+
+2019-20シーズンは[セリエBに所属](../Page/セリエB_\(サッカー\).md "wikilink")。
 
 ## 歴史
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、[マウリツィオ・ザンパリーニ](https://ja.wikipedia.org/wiki/マウリツィオ・ザンパリーニ "wikilink")（現[パレルモ会長](../Page/USチッタ・ディ・パレルモ.md "wikilink")）がクラブを所有。[2005年](../Page/2005年.md "wikilink")、それまでの*ACヴェネツィア* (*Associazione Calcio Venezia 1907*) から*SSCヴェネツィア* (*Società Sportiva Calcio Venezia*) にチーム名を変更した。なお、ACヴェネツィアと名乗っていた1999年から2000年にかけて、[名波浩](../Page/名波浩.md "wikilink")が在籍していた。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、[マウリツィオ・ザンパリーニ](https://ja.wikipedia.org/wiki/マウリツィオ・ザンパリーニ "wikilink")（現[パレルモ会長](../Page/USチッタ・ディ・パレルモ.md "wikilink")）がクラブを所有。ACヴェネツィアと名乗っていた1999-2000シーズンは、元[日本代表](../Page/サッカー日本代表.md "wikilink")・[名波浩](../Page/名波浩.md "wikilink")が在籍していた。
+
+[2005年](../Page/2005年.md "wikilink")、それまでの*ACヴェネツィア* (*Associazione Calcio Venezia 1907*) から*SSCヴェネツィア* (*Società Sportiva Calcio Venezia*) にチーム名を変更した。
 
 しかし、かねてより経営の危機が囁かれていた2008-09シーズン終了後、二度目の破産。*FBCウニオーネ・ヴェネツィア* (*Foot Ball Club Unione Venezia*) と改名し再結成のうえ、2009-10シーズンに[セリエD](https://ja.wikipedia.org/wiki/セリエD "wikilink")から再スタートした。2011-12シーズンにセリエDで優勝したのに続き、翌シーズンの[レガ・プロ・セコンダ・ディヴィジオーネ](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink")でもタイトルを獲得し[レガ・プロ・プリマ・ディヴィジオーネ](../Page/レガ・プロ・プリマ・ディヴィジオーネ.md "wikilink")に昇格した。
 

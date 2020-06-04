@@ -1,7 +1,7 @@
 > この記事は[THE MIX](https://ja.wikipedia.org/wiki/THE_MIX)から翻訳されています。
 
 
-***THE MIX***（ザ・ミックス）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[テクノユニット](../Page/テクノポップ.md "wikilink")『[クラフトワーク](../Page/クラフトワーク.md "wikilink")』のアルバム。
+***THE MIX***（ザ・ミックス）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[テクノユニット](../Page/テクノポップ.md "wikilink")[クラフトワーク](../Page/クラフトワーク.md "wikilink")のアルバム。
 
 [1991年](../Page/1991年.md "wikilink")に[EMI](../Page/EMI.md "wikilink")（[北米地区では](../Page/北アメリカ.md "wikilink")[エレクトラ・レコード](../Page/エレクトラ・レコード.md "wikilink")）よりリリースされた。
 

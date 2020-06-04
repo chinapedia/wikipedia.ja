@@ -11,6 +11,8 @@
 
 主人公は再びアラン・グラント博士となった。演じる[サム・ニール](../Page/サム・ニール.md "wikilink")は同じ役を再び演じるのはこれが初めてだったが、思い入れの強い役であることや、ファンからも再登板を望む声が多かったことからオファーを快諾した。
 
+日本での配給会社であった[ユナイテッド・インターナショナル・ピクチャーズ](../Page/ユナイテッド・インターナショナル・ピクチャーズ.md "wikilink")日本法人が約6年半後の2007年12月に解散したため、本作が最後の配給となった。次回作『[ジュラシック・ワールド](https://ja.wikipedia.org/wiki/ジュラシック・ワールド "wikilink")』以降は[東和ピクチャーズ](https://ja.wikipedia.org/wiki/東和ピクチャーズ "wikilink")が配給することとなった。
+
 ## キャスト
 
 ### 主要人物
@@ -250,6 +252,36 @@
 ## 脚注
 
 ## 外部リンク
+
+  - [Jurassic Park III | Own & Watch Jurassic Park III | Universal Pictures](https://www.uphe.com/movies/jurassic-park-iii)
+
+  - [Jurassic Park III (2001) - About the Movie | Amblin](https://amblin.com/movie/jurassic-park-iii/)
+
+  - [ジュラシック・ワールド 5ムービー DVD コレクション(5枚組) | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=38236)（DVD・セル商品（2018年12月5日発売））
+
+  - [ジュラシック・ワールド 5ムービー ブルーレイ コレクション(5枚組) | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=38235)（Blu-ray・セル商品（2018年12月5日発売））
+
+  - [ジュラシック・ワールド 5ムービー 4K UHD コレクション(5枚組) | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=38215)（4K UHD・セル商品（2018年12月5日発売））
+
+  - [ジュラシック・パーク 4ムービー・コレクション \[4K ULTRA HD+Blu-rayセット](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=37443) | NBCユニバーサル・エンターテイメントジャパン\]（4K UHD・セル商品（2018年7月4日発売））
+
+  - [ジュラシック・パークIII \[4K ULTRA HD + Blu-rayセット](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=37441) | NBCユニバーサル・エンターテイメントジャパン\]（4K UHD・セル商品（2018年7月4日発売））
+
+  - [ジュラシック・パーク ブルーレイ コンプリートボックス(初回生産限定) | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=32726)（Blu-ray・セル商品（2016年2月24日発売））
+
+  - [ジュラシック・パーク DVD コンプリートボックス(初回生産限定) | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=32725)（DVD・セル商品（2016年2月24日発売））
+
+  - [ジュラシック・パーク トリロジー ベストバリューDVDセット | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=23327)（DVD・セル商品（2014年6月25日発売））
+
+  - [ジュラシック・パーク トリロジー ベストバリューBlu-rayセット | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=23326)（Blu-ray・セル商品（2014年6月25日発売））
+
+  - [ジュラシック・パークIII | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=18679)（Blu-ray・レンタル商品（2012年11月21日発売））
+
+  - [ジュラシック・パークIII | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=17838)（Blu-ray・セル商品（2012年6月20日発売））
+
+  - [ジュラシック・パークIII | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=16987)（DVD・セル商品（2012年4月13日発売））
+
+  - [ジュラシック・パーク アルティメット・トリロジー | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=7803)（Blu-ray・セル商品（2011年10月26日発売））
 
   -
   -

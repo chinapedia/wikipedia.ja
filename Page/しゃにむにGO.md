@@ -13,7 +13,7 @@
 
 延久と留宇衣はダブルスを組むことになり、テニス初心者の延久はめきめきと腕を上げていく。一方、急成長を遂げた延久に嫉妬しながらも留宇衣は次第に延久を認めていく。大会での活躍を通して、2人の名は全国の高校テニス界に知られるまでになる。
 
-そうした中、延久はかねてからの憧れの人、ひなこにも接近していく。しかし、ひなこの従弟にして高校テニス界No.1の実力者**佐世古駿**もまた、ひなこに急接近、延久のライバルとして立ちふさがる。
+そうした中、延久はかねてからの憧れの人、ひなこにも接近していく。しかし、ひなこの従兄にして高校テニス界No.1の実力者**佐世古駿**もまた、ひなこに急接近、延久のライバルとして立ちふさがる。
 
 一方、駿は留宇衣のジュニア時代からのテニスのライバルでもあった。かつては、留宇衣の方が実力で上回っていたのだが、今では駿に大きく水をあけられ、留宇衣は焦りと苛立ちを感じていた。
 
@@ -213,4 +213,4 @@
 
 ## 書籍情報
 
-[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:花とゆめ](https://ja.wikipedia.org/wiki/Category:花とゆめ "wikilink") [Category:テニス漫画](https://ja.wikipedia.org/wiki/Category:テニス漫画 "wikilink") [Category:千葉県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした作品 "wikilink")
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:1998年の漫画](https://ja.wikipedia.org/wiki/Category:1998年の漫画 "wikilink") [Category:花とゆめ](https://ja.wikipedia.org/wiki/Category:花とゆめ "wikilink") [Category:テニス漫画](https://ja.wikipedia.org/wiki/Category:テニス漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:千葉県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした漫画作品 "wikilink")

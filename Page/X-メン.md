@@ -51,7 +51,7 @@ X-メンのメンバーはチームの再編成や増強などしているため
 
 原作コミックの出版を受け、[メディアワークス](../Page/メディアワークス.md "wikilink")（現・[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）の[電撃文庫](../Page/電撃文庫.md "wikilink")から日本語版オリジナル展開の[ライトノベル](../Page/ライトノベル.md "wikilink")が全3巻が出版された。他にも、日本人漫画家によるアニメ版などの再漫画化版が[竹書房](../Page/竹書房.md "wikilink")の『[コミックガンマ](../Page/コミックガンマ.md "wikilink")』に連載され、後に全13巻の単行本に纏められた。これらの漫画作品は後にアメリカで英語訳されマーベル社からも『X-MEN:THE MANGA』として99年までに26巻発売された。
 
-2000年代には[新潮社](../Page/新潮社.md "wikilink")よりパラレルワールド（アルティメット・マーベル・ユニバース）を舞台としたリメイク作『アルティメット』が発売された。だが脚本家のマーク・ミラーが継続して担当した33話分、全11巻を期に発売中止となった。同時期に[麻宮騎亜](../Page/麻宮騎亜.md "wikilink")がアーティストとして参加した『アンキャニィ』も発売された。2000年代後半から[ヴィレッジブックス](../Page/ヴィレッジブックス.md "wikilink")と小学館集英社プロダクションより『ウルヴァリン:オリジン』、『アストニッシング』、『ハウスオブM』などが発売された。二社は2010年代に入ってからも継続してX-MENの邦訳コミックを出版しているが、X-MENの出版が最優先されていた90年代とは異なり、[アベンジャーズ](https://ja.wikipedia.org/wiki/アベンジャーズ "wikilink")や[スパイダーマン](../Page/スパイダーマン.md "wikilink")がメインでX-MEN関連タイトルの出版頻度は低く、シリーズ出版が中断したり、通常書店に流通しない通販専売タイトルとなることも多い。
+2000年代には[新潮社](../Page/新潮社.md "wikilink")よりパラレルワールド（アルティメット・マーベル・ユニバース）を舞台としたリメイク作『アルティメット』が発売された。だが脚本家のマーク・ミラーが継続して担当した33話分、全11巻を期に発売中止となった。同時期に[麻宮騎亜](../Page/麻宮騎亜.md "wikilink")がアーティストとして参加した『アンキャニィ』も発売された。2000年代後半から[ヴィレッジブックス](../Page/ヴィレッジブックス.md "wikilink")と小学館集英社プロダクションより『ウルヴァリン:オリジン』、『アストニッシング』、『ハウスオブM』などが発売された。二社は2010年代に入ってからも継続してX-MENの邦訳コミックを出版しているが、X-MENの出版が最優先されていた90年代とは異なり、[アベンジャーズや](../Page/アベンジャーズ_\(マーベル・コミック\).md "wikilink")[スパイダーマン](../Page/スパイダーマン.md "wikilink")がメインでX-MEN関連タイトルの出版頻度は低く、シリーズ出版が中断したり、通常書店に流通しない通販専売タイトルとなることも多い。
 
 ## 作品
 
@@ -406,7 +406,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
     [黙示録](https://ja.wikipedia.org/wiki/黙示録 "wikilink")の名を持つ怪人物、本名は第一の者を意味する。分子構造を自由に操ることができ、自分の体を自由に変えられる。自分の体を武器に変化させて攻撃したり、盾を作って防御することが得意技である。さらにハルク並の怪力、クイックシルバー並の約800km/hの超スピード、テレポート能力を持ち、知能も大変高い。第二次大戦中にヘルファイヤークラブに発見され現代に蘇り、X-MENたちと死闘を繰り広げていく。不老に近い超長寿のミュータントである「エクスターナル」の一人。冷酷な人格をしているが、瀕死のX-メンを見逃したり、自分に勝利したアークエンジェルに殺されることを願ったりと、その行動は徹底して己の「[適者生存](../Page/適者生存.md "wikilink")」という信念に基づく、美学を持つ悪役でもある。
     4人のミュータントからなる「フォーホースメン（[黙示録の四騎士](../Page/ヨハネの黙示録の四騎士.md "wikilink")）」を配下にしている。このフォーホースメンにはX-MENのメンバーが洗脳させられて加わる事も珍しくない。過去にはエンジェル（アークエンジェル）、ガンビット、ウルヴァリン、サンファイア、キャリバン、ポラリスらが加えられている。ただしミュータント能力を使うごとに洗脳は解けていき、全X-MENが最終的には彼の支配下から逃れている。またダークライダーズという9人組のミュータント部隊もいる。
     生まれは5000年前の古代エジプトにさかのぼる。彼の親が所属する部族はアポカリプスを「悪魔のような外見をしている」と恐れて砂漠に捨てたが、盗賊バールに拾われ息子として育てられた。バールはアポカリプスが「やがて神となる」と予言されたことを信じており、第一の者という名前を授け、後にアポカリプスのアイデンティティとなる適者生存を教えた。その後、オジマンディウス王の奴隷となるが、王を打倒する機会を眈々と狙っていた。彼を奴隷にするため未来からやってきた[ラマ＝トゥト王に攻撃されたことがきっかけとなり](../Page/カーン_\(マーベル・コミック\).md "wikilink")、ミュータント能力に目覚め、世界征服に動きだすようになった。王国にある古代テクノロジーを手に入れんがためにオジマンディウスから王座を奪い取り、自らの行動を記録させる奴隷とした（『ライズ・オブ・アポカリプス』）。古代から活動を続けているが、人間を操って戦争を引き起こすなど歴史の裏で暗躍していたことも多く、数百年に渡って休眠していた時期もあったので、世界を征服するまでには至っていなかった。
-    自ら見込んだ12人のミュータントのパワーを奪おうとするが失敗し、X-マンと融合を試みるが図らずもサイクロップスと融合してしまったことが原因となり、肉体と精神を失ってしまった。その後、X-MENの学園に自分の宮殿を出現させ、宣戦布告をする。アポカリプスは「Mデイ」でミュータントの数が減ったため、疫病を撒き散らして人間の数も減らし、双方のバランスを取ろうと企んだ。しかしアベンジャーズと組んだX-MENに阻まれ、疫病も解毒剤が作られため計画は失敗に終わった。その後、肉体を失うが子供の姿で復活し、X-フォースに発見されるが、ファントメックスに殺された。
+    自ら見込んだ12人のミュータントのパワーを奪おうとするが失敗し、X-マンと融合を試みるが図らずもサイクロップスと融合してしまったことが原因となり、肉体と精神を失ってしまった。その後、X-MENの学園に自分の宮殿を出現させ、宣戦布告をする。アポカリプスは「Mデイ」でミュータントの数が減ったため、疫病を撒き散らして人間の数も減らし、双方のバランスを取ろうと企んだ。しかしアベンジャーズと組んだX-MENに阻まれ、疫病も解毒剤が作られたため計画は失敗に終わった。その後、肉体を失うが子供の姿で復活し、X-フォースに発見されるが、ファントメックスに殺された。
     『エイジ・オブ・アポカリプス』では支配者として君臨していたが、マグニートーによって倒された。ケーブルがやってきた39世紀の未来では、エクスターナルによる悪の王朝「ニュー・カナーン」を起こし地球全土を制圧していたが、全盛期のアポカリプスを模したロボットに老いさらばえた本人が乗っているという有様であった。後継者と見込んだストライフに自分のエッセンスを送り操ろうとするが、サイクロップスとフェニックスと幼いケーブルに倒されている。
   - ミスター・シニスター ([Mister Sinister](https://ja.wikipedia.org/wiki/:en:Mister_Sinister "wikilink"))
     本名：ナザニエル・エセックス
@@ -624,457 +624,389 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <table>
 <thead>
 <tr class="header">
-<th><p>キャラ</p></th>
-<th><p>キャスト</p></th>
-<th><p>テレビ東京版</p></th>
-<th><p>トゥーン・ディズニー版</p></th>
+<th><p>役名</p></th>
+<th><p>原語版声優</p></th>
+<th><p>日本語吹替</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>版</p></td>
+<td><p><a href="../Page/トゥーン・ディズニー.md" title="wikilink">トゥーン・ディズニー</a>版</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>サイクロップス</p></td>
 <td><p>ノーマン・スペンサー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山寺宏一" title="wikilink">山寺宏一</a></p></td>
-<td><p><a href="../Page/長嶝高士.md" title="wikilink">長嶝高士</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ウルヴァリン</p></td>
 <td><p>カハル・J・ドッド</p></td>
 <td><p><a href="../Page/江原正士.md" title="wikilink">江原正士</a></p></td>
-<td><p><a href="../Page/丸山壮史.md" title="wikilink">丸山壮史</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ジーン・グレイ</p></td>
 <td><p>キャサリン・ディッシャー</p></td>
 <td><p><a href="../Page/安達忍.md" title="wikilink">安達忍</a></p></td>
-<td><p><a href="../Page/紗川じゅん.md" title="wikilink">紗川じゅん</a></p></td>
-</tr>
-<tr class="even">
-<td><p>ストーム</p></td>
-<td><p>イオナ・モリス→アリソン=シーリー・スミス</p></td>
-<td><p><a href="../Page/吉田理保子.md" title="wikilink">吉田理保子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/倉田葉子" title="wikilink">倉田葉子</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>ガンビット</p></td>
-<td><p>クリス・ポッター→トニー・ダニエルズ</p></td>
-<td><p><a href="../Page/安原義人.md" title="wikilink">安原義人</a></p></td>
-<td><p><a href="../Page/ふくまつ進紗.md" title="wikilink">ふくまつ進紗</a></p></td>
+<td><p>ストーム</p></td>
+<td><p>イオナ・モリス<br />
+アリソン=シーリー・スミス(2代目)</p></td>
+<td><p><a href="../Page/吉田理保子.md" title="wikilink">吉田理保子</a></p></td>
 </tr>
 <tr class="even">
+<td><p>ガンビット</p></td>
+<td><p>クリス・ポッター<br />
+トニー・ダニエルズ(2代目)</p></td>
+<td><p><a href="../Page/安原義人.md" title="wikilink">安原義人</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>ローグ</p></td>
 <td><p>レノア・ザン</p></td>
 <td><p><a href="../Page/小林優子.md" title="wikilink">小林優子</a></p></td>
-<td><p><a href="../Page/山戸めぐみ.md" title="wikilink">山戸恵</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ビースト</p></td>
 <td><p>ジョージ・ブザ</p></td>
 <td><p><a href="../Page/千葉繁.md" title="wikilink">千葉繁</a></p></td>
-<td><p><a href="../Page/佐藤晴男.md" title="wikilink">佐藤晴男</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ジュビリー</p></td>
 <td><p>アリソン・コート</p></td>
 <td><p><a href="../Page/平松晶子.md" title="wikilink">平松晶子</a></p></td>
-<td><p><a href="../Page/世戸さおり.md" title="wikilink">世戸さおり</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ビショップ</p></td>
 <td><p>フィリップ・エイキン</p></td>
 <td><p><a href="../Page/郷里大輔.md" title="wikilink">郷里大輔</a></p></td>
-<td><p>佐藤晴男</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ケーブル</p></td>
 <td><p>ローレンス・ベイン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/玄田哲章" title="wikilink">玄田哲章</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ハボック</p></td>
 <td><p>ノーム・スペンサー</p></td>
 <td><p><a href="../Page/星野充昭.md" title="wikilink">星野充昭</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>コロッサス</p></td>
 <td><p>リック・ベネット</p></td>
 <td><p><a href="../Page/大塚明夫.md" title="wikilink">大塚明夫</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ジャガーノート</p></td>
 <td><p><a href="../Page/飯塚昭三.md" title="wikilink">飯塚昭三</a></p></td>
 <td><p>長嶝高士</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アイスマン</p></td>
 <td><p>デニーズ・アカヤマ</p></td>
 <td><p><a href="../Page/関俊彦.md" title="wikilink">関俊彦</a></p></td>
-<td><p><a href="../Page/高木渉.md" title="wikilink">高木渉</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ナイトクローラー</p></td>
 <td><p>ポール・アダッド</p></td>
 <td><p>—</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>クイックシルバー</p></td>
 <td><p><a href="../Page/中原茂.md" title="wikilink">中原茂</a></p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>バンシー</p></td>
 <td><p>ジェレミー・ラッチフォード</p></td>
 <td><p><a href="../Page/安井邦彦.md" title="wikilink">安井邦彦</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>プロフェッサーX</p></td>
 <td><p>セドリック・スミス</p></td>
 <td><p><a href="../Page/納谷六朗.md" title="wikilink">納谷六朗</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木省三" title="wikilink">佐々木省三</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>マグニートー</p></td>
 <td><p>デヴィッド・ヘンブレン</p></td>
 <td><p><a href="../Page/大友龍三郎.md" title="wikilink">大友龍三郎</a></p></td>
-<td><p><a href="../Page/浦山迅.md" title="wikilink">浦山迅</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アポカリプス</p></td>
 <td><p>ジョン・コリコス</p></td>
 <td><p><a href="../Page/内海賢二.md" title="wikilink">内海賢二</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ミスター・シニスター</p></td>
 <td><p>クリストファー・ブリットン</p></td>
 <td><p><a href="../Page/若本規夫.md" title="wikilink">若本規夫</a></p></td>
-<td><p>長嶝高士</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>センチネル</p></td>
 <td><p>デビッド・フォックス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三木眞一郎" title="wikilink">三木眞一郎</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>マスターモールド</p></td>
 <td><p>—</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>セイバートゥース</p></td>
 <td><p>ドン・フランクス</p></td>
 <td><p><a href="../Page/荒川太朗.md" title="wikilink">荒川太郎</a></p></td>
-<td><p>佐藤晴男</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ミスティーク</p></td>
 <td><p>レイチェル・カーペンター</p></td>
 <td><p><a href="../Page/佐々木優子.md" title="wikilink">佐々木優子</a></p></td>
-<td><p><a href="../Page/松浦チエ.md" title="wikilink">松浦チエ</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>シャドウキング</p></td>
 <td><p>モーリス・ディーン・ウィン</p></td>
 <td><p><a href="../Page/梁田清之.md" title="wikilink">梁田清之</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>モーフ</p></td>
 <td><p>ロン・ルーベン</p></td>
 <td><p><a href="../Page/小形満.md" title="wikilink">小形満</a></p></td>
-<td><p><a href="../Page/石上裕一.md" title="wikilink">石上裕一</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>マシュー・シャープ</p></td>
 <td><p>バリー・フラットマン</p></td>
 <td><p>—</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>スノーバード</p></td>
 <td><p><a href="../Page/メリッサ・スー・アンダーソン.md" title="wikilink">メリッサ・スー・アンダーソン</a></p></td>
 <td><p>—</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>グレイドン・クリード</p></td>
 <td><p>ジョン・ストッカー</p></td>
 <td><p><a href="../Page/小室正幸.md" title="wikilink">小室正幸</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>リーチ</p></td>
 <td><p><a href="../Page/岩永哲哉.md" title="wikilink">岩永哲哉</a></p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ダークスター</p></td>
 <td><p>エリザベス・ルカヴィナ</p></td>
 <td><p>—</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>サスカッチ</p></td>
 <td><p>ハリー・エイトケン</p></td>
 <td><p>—</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ヘンリー・ピーター・ギリッシュ</p></td>
 <td><p>バリー・フラットマン</p></td>
 <td><p>高木渉</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ヴィンディケーター</p></td>
 <td><p>—</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>イリアナ・ラスプーチン</p></td>
 <td><p><a href="../Page/タラ・ストロング.md" title="wikilink">タラ・シャレンドフ</a></p></td>
 <td><p>—</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>アバランシュ</p></td>
 <td><p>ロブ・コニーベア</p></td>
 <td><p>—</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アークエンジェル</p></td>
 <td><p>スティーヴン・ウィーメット</p></td>
 <td><p><a href="../Page/中村大樹.md" title="wikilink">中村大樹</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>フォージ</p></td>
 <td><p>マーク・ストレンジ</p></td>
 <td><p><a href="../Page/小林清志.md" title="wikilink">小林清志</a></p></td>
-<td><p>佐々木省三</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ダズラー</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/白石文子.md" title="wikilink">白石文子</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>スターボルト</p></td>
 <td><p>—</p></td>
 <td><p>三木眞一郎</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>スパイラル</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/岡村明美.md" title="wikilink">岡村明美</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>デスストライク</p></td>
 <td><p>ターシャ・シムス</p></td>
 <td><p><a href="../Page/弥永和子.md" title="wikilink">弥永和子</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>メーコン</p></td>
 <td><p>—</p></td>
 <td><p>小形満</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>リース</p></td>
 <td><p>—</p></td>
 <td><p>荒川太郎</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ブラックトム</p></td>
 <td><p>—</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ウィンガード</p></td>
 <td><p>—</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>オメガレッド</p></td>
 <td><p>レン・ドンチェフ</p></td>
 <td><p><a href="../Page/銀河万丈.md" title="wikilink">銀河万丈</a></p></td>
-<td><p>長嶝高士</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>カリスト</p></td>
 <td><p><a href="../Page/スーザン・ローマン.md" title="wikilink">スーザン・ローマン</a></p></td>
 <td><p><a href="../Page/勝生真沙子.md" title="wikilink">勝生真沙子</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>皇帝ディケン</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/加藤精三_(声優).md" title="wikilink">加藤精三</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>グラディエイター</p></td>
 <td><p>モーリス・ディーン・ホワイト</p></td>
 <td><p>梁田清之</p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>マルチプルマン</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/鈴木琢磨.md" title="wikilink">鈴木琢磨</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ミズ・マーブル</p></td>
 <td><p>ロスコー・ハンドフォード</p></td>
 <td><p><a href="../Page/兵藤まこ.md" title="wikilink">兵藤まこ</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>サラ</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/佐久間レイ.md" title="wikilink">佐久間レイ</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ビートリー裁判官</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/糸博.md" title="wikilink">糸博</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ケイザー</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/堀秀行.md" title="wikilink">堀秀行</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>アドラー博士</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/原田一夫.md" title="wikilink">原田一夫</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ラスティ</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/高山みなみ.md" title="wikilink">高山みなみ</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ローナ</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/篠原恵美.md" title="wikilink">篠原恵美</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>コルボー博士</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/大塚芳忠.md" title="wikilink">大塚芳忠</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>カーリー</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/井上喜久子.md" title="wikilink">井上喜久子</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ルクル</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/安藤ありさ.md" title="wikilink">安藤ありさ</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>モジョー</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/梅津秀行.md" title="wikilink">梅津秀行</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ドモ</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/峰恵研.md" title="wikilink">峰恵研</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>グリード</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/西村知道.md" title="wikilink">西村知道</a></p></td>
-<td><p>浦山迅</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>シルバーサムライ</p></td>
 <td><p>デニス・アキヤマ</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>プロテウス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スチュアート・ストーン" title="wikilink">スチュアート・ストーン</a></p></td>
 <td><p>—</p></td>
-<td><p><a href="../Page/板倉光隆.md" title="wikilink">板倉光隆</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>リランドラ</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/鵜飼るみ子.md" title="wikilink">鵜飼るみ子</a></p></td>
-<td><p>松浦チエ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/レッドスカル.md" title="wikilink">レッドスカル</a></p></td>
 <td><p>セドリック・スミス</p></td>
 <td><p>—</p></td>
-<td><p><a href="../Page/麦人.md" title="wikilink">麦人</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>女ミュータント</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/本間ゆかり.md" title="wikilink">本間ゆかり</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>考古学者</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/宇垣秀成.md" title="wikilink">宇垣秀成</a></p></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>女性アナウンサー</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/松岡洋子_(声優).md" title="wikilink">松岡洋子</a><br />
 <a href="../Page/木藤聡子.md" title="wikilink">木藤聡子</a></p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>役名表示なし</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/柴本浩行.md" title="wikilink">柴本浩行</a><br />
 岩永哲哉<br />
 小形満<br />
 安藤ありさ</p></td>
-<td></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

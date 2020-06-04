@@ -1,7 +1,7 @@
 > この記事は[ABS樹脂](https://ja.wikipedia.org/wiki/ABS樹脂)から翻訳されています。
 
 
-**ABS樹脂**（エービーエスじゅし）とは合成樹脂の一種で、[アクリロニトリル](../Page/アクリロニトリル.md "wikilink") (**A**crylonitrile)、[ブタジエン](../Page/ブタジエン.md "wikilink") (**B**utadiene)、[スチレン](../Page/スチレン.md "wikilink") (**S**tyrene)[共重合](https://ja.wikipedia.org/wiki/共重合 "wikilink")[合成樹脂](../Page/合成樹脂.md "wikilink")の総称。[CAS番号](https://ja.wikipedia.org/wiki/CAS番号 "wikilink")9003-56-9。**ABS**は原料の頭文字に由来する。常用耐熱温度は70～100℃。
+**ABS樹脂**（エービーエスじゅし）とは合成樹脂の一種で、[アクリロニトリル](../Page/アクリロニトリル.md "wikilink") (**A**crylonitrile)、[ブタジエン](../Page/ブタジエン.md "wikilink") (**B**utadiene)、[スチレン](../Page/スチレン.md "wikilink") (**S**tyrene)[共重合](../Page/共重合.md "wikilink")[合成樹脂](../Page/合成樹脂.md "wikilink")の総称。[CAS番号](https://ja.wikipedia.org/wiki/CAS番号 "wikilink")9003-56-9。**ABS**は原料の頭文字に由来する。常用耐熱温度は70～100℃。
 
 ## 製法
 

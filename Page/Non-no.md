@@ -25,24 +25,24 @@
 
 **Seventeen出身者**
 
-  - [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")（2015年8月号 - 表紙10回）
+  - [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")（2015年8月号 - 表紙11回）
   - [江野沢愛美](https://ja.wikipedia.org/wiki/江野沢愛美 "wikilink")（2018年3月号 -）
   - [岡本夏美](https://ja.wikipedia.org/wiki/岡本夏美 "wikilink")（2019年3月号 - ）
 
 **上記以外**
 
-  - [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")（2014年3月号 - 表紙10回）
+  - [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")（2014年3月号 - 表紙11回）
   - [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（2014年11月号 - ）
   - [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、2015年6月号 - 表紙10回）\[1\]
-  - [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")（2015年6月号 - 表紙4回）
+  - [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")（2015年6月号 - 表紙5回）
   - [武田玲奈](https://ja.wikipedia.org/wiki/武田玲奈 "wikilink")（2016年6月号 - ）\[2\]
   - [金城茉奈](https://ja.wikipedia.org/wiki/金城茉奈 "wikilink")（2016年6月号 - ）\[3\]
   - [松川菜々花](https://ja.wikipedia.org/wiki/松川菜々花 "wikilink")（2017年6月号 - ）\[4\]
   - [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号 - 表紙4回）\[5\]
   - [貴島明日香](https://ja.wikipedia.org/wiki/貴島明日香 "wikilink")（2018年11月号 - ）\[6\]
-  - [多屋来夢](https://ja.wikipedia.org/wiki/多屋来夢 "wikilink")（2018年11月号 - ）\[7\]
   - [佐々木美玲](https://ja.wikipedia.org/wiki/佐々木美玲 "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")、2019年4月号 - ）
   - [堀田真由](https://ja.wikipedia.org/wiki/堀田真由 "wikilink")（2020年3月号 - ）
+  - [遠藤さくら](../Page/遠藤さくら.md "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、2020年7・8月合併号 - ）\[7\]
 
 ### かつて活躍したモデル
 
@@ -151,19 +151,21 @@
   - [高田里穂](https://ja.wikipedia.org/wiki/高田里穂 "wikilink") - 2014年11月号 - 2020年2月号
   - [佐藤エリ](https://ja.wikipedia.org/wiki/佐藤エリ "wikilink") - 2016年6月号 - 2020年2月号\[10\]
   - [山田愛奈](https://ja.wikipedia.org/wiki/山田愛奈 "wikilink") - 2017年6月号 - 2020年5月号\[11\]
+  - [多屋来夢](https://ja.wikipedia.org/wiki/多屋来夢 "wikilink") - 2018年11月号 - 2020年6月号\[12\]
 
 ## 表紙モデル
 
 2020年
 
-| 号        | 表紙モデル                                                                                                                            | 表紙登場回数 | 備考       |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- |
-| 2020年1月号 | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（通常） / [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（増刊号） | ー      | ※専属モデル以外 |
-| 2020年2月号 | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                            | ー      | ※専属モデル以外 |
-| 2020年3月号 | [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                          | 4      |          |
-| 2020年4月号 | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                            | 10     |          |
-| 2020年5月号 | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）                     | 4      |          |
-| 2020年6月号 | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                                            | 10     |          |
+| 号            | 表紙モデル                                                                                                                                                               | 表紙登場回数              | 備考        |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------- |
+| 2020年1月号     | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（通常） / [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（増刊号）                                    | ー                   | ※専属モデル以外  |
+| 2020年2月号     | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                                                               | ー                   | ※専属モデル以外  |
+| 2020年3月号     | [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                                                             | 4                   |           |
+| 2020年4月号     | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                                                               | 10                  |           |
+| 2020年5月号     | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）                                                        | 4                   |           |
+| 2020年6月号     | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                                                                               | 10                  |           |
+| 2020年7・8月合併号 | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")、[馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")、[新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink") | 新木(11)、馬場(5)、新川(11) | ※創刊49周年記念 |
 
 2019年
 
@@ -414,3 +416,4 @@
 9.
 10.
 11.
+12.

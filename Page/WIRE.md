@@ -630,7 +630,6 @@
   - WIRE08　[安藤亜実](../Page/安藤亜実.md "wikilink")、[新田千尋](../Page/新田千尋.md "wikilink")
   - WIRE09　
   - WIRE10　[絹川麗](https://ja.wikipedia.org/wiki/絹川麗 "wikilink")
-  - WIRE11　[うえむらちか](../Page/うえむらちか.md "wikilink")
   - WIRE12　[久保田紗友](https://ja.wikipedia.org/wiki/久保田紗友 "wikilink")
   - WIRE13　[萩原みのり](https://ja.wikipedia.org/wiki/萩原みのり "wikilink")
 

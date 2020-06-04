@@ -86,7 +86,7 @@
 ### ラジオ
 
   - [土曜ワイドラジオTOKYO 永六輔その新世界](../Page/土曜ワイドラジオTOKYO_永六輔その新世界.md "wikilink")・乙女探検隊が行く（[TBSラジオ](../Page/TBSラジオ.md "wikilink")、2008年9月27日）
-  - 『KIRIN 一番搾り [ONE MORE PINT\!](https://ja.wikipedia.org/wiki/ONE_MORE_PINT! "wikilink")』（[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")、2011年5月6日 -、毎週金曜日18:00 - 19:00） - メインパーソナリティ
+  - 『KIRIN 一番搾り [One More Pint\!](https://ja.wikipedia.org/wiki/One_More_Pint! "wikilink")』（[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")、2011年5月6日 -、毎週金曜日18:00 - 19:00） - メインパーソナリティ
   - [OLERA](https://ja.wikipedia.org/wiki/OLERA "wikilink")（TBSラジオ、2014年9月 - 2015年3月）- 火曜日パーソナリティ
   - [たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")（TBSラジオ、2019年6月20日・8月29日）-　週替わり・代理パートナー
 
@@ -111,22 +111,24 @@
   - [星になった少年 Shining Boy \&Little Randy](../Page/星になった少年.md "wikilink")（2005年）　-　ドラマのプロデューサー　
   - [ハッピー フィート日本語吹き替え版](../Page/ハッピー_フィート.md "wikilink")（2008年） - ラモン・ラブレイス（声優・一人2役）
   - [ゲゲゲの鬼太郎 千年呪い歌](https://ja.wikipedia.org/wiki/ゲゲゲの鬼太郎_\(実写映画\)#第2作目『ゲゲゲの鬼太郎_千年呪い歌』 "wikilink")（2008年） - [竹切り狸](https://ja.wikipedia.org/wiki/竹切り狸 "wikilink")の夫婦の亭主役
-  - [ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")（2008年11月公開） - 米沢明役
+  - [ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")（2008年11月公開） - 米沢明 役
   - [トロと旅するTHE MOVIE](https://ja.wikipedia.org/wiki/トロと旅するTHE_MOVIE "wikilink")（2009年4月） - 本人 役
-  - [食堂かたつむり](https://ja.wikipedia.org/wiki/食堂かたつむり "wikilink")（2010年） - 熊さん役
+  - [食堂かたつむり](https://ja.wikipedia.org/wiki/食堂かたつむり "wikilink")（2010年） - 熊さん 役
   - [女たちの都〜ワッゲンオッゲン〜](https://ja.wikipedia.org/wiki/女たちの都〜ワッゲンオッゲン〜 "wikilink")（2012年）
+  - [さとるだよ](https://ja.wikipedia.org/wiki/さとるだよ "wikilink")（2015年） - 川村誠一(川村祐司の父) 役
   - [バニラボーイ トゥモロー・イズ・アナザー・デイ](https://ja.wikipedia.org/wiki/バニラボーイ_トゥモロー・イズ・アナザー・デイ "wikilink") (2016年) - ドン・タッパーリア 役
   - [劇場版 仮面ライダーエグゼイド トゥルー・エンディング](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーエグゼイド_トゥルー・エンディング "wikilink")（2017年） - ジョニー・マキシマ / ゲムデウスマキナ（声） 役\[9\]
   - [翔んで埼玉](https://ja.wikipedia.org/wiki/翔んで埼玉#実写映画 "wikilink")（2019年） - 菅原好海 役
 
-### オリジナルビデオ
+### Vシネマ
 
-  - [さとるだよ](https://ja.wikipedia.org/wiki/さとるだよ "wikilink")
+  - 倒産回避請負人 裁きの銀（2002年）
+  - HOKURO 百発病伝説（2003年） - 真行寺(医者) 役
 
 ### 舞台
 
   - ミュージカル「[フル・モンティ](../Page/フル・モンティ.md "wikilink")」（2014年、東京国際フォーラム ホールC）
-  - [極上文學](https://ja.wikipedia.org/wiki/極上文學 "wikilink")『[ドグラ・マグラ](../Page/ドグラ・マグラ.md "wikilink")』（2014年6月紀伊國屋ホール、7月紀伊國屋サザンシアター） - 正木博士役
+  - [極上文學](https://ja.wikipedia.org/wiki/極上文學 "wikilink")『[ドグラ・マグラ](../Page/ドグラ・マグラ.md "wikilink")』（2014年6月紀伊國屋ホール、7月紀伊國屋サザンシアター） - 正木博士 役
   - 音楽劇「最高はひとつじゃない 2016 SAKURA（2016年3月 - 4月、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")プレイハウス、[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")）\[10\]
 
 ## 音楽活動

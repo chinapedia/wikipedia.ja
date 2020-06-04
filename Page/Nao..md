@@ -186,6 +186,7 @@
 ### テレビ
 
   - [2ndハウス](../Page/2ndハウス.md "wikilink") （2006年、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）…妄想レディ2号 を演じた。
+  - [乙音の部屋](https://ja.wikipedia.org/wiki/乙音の部屋 "wikilink")（2007年4月3日、[エンタ\!371](https://ja.wikipedia.org/wiki/エンタ!371 "wikilink")）
 
 ### 映画
 

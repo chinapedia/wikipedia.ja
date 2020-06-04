@@ -1,11 +1,11 @@
 > この記事は[B-JUNK](https://ja.wikipedia.org/wiki/B-JUNK)から翻訳されています。
 
 
-『**B-JUNK**』（ビージャンク）は、[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキー局に[JRN系で](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[生放送](../Page/生放送.md "wikilink")されていた平日深夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")放送枠。
+『**B-JUNK**』（ビージャンク）は、[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキー局に[JRN系で](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた平日深夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")放送枠。
 
 ## 概要
 
-『[Ride on music\!](https://ja.wikipedia.org/wiki/Ride_on_music! "wikilink")』の後番組としてスタート。[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")までは[関東ローカル](../Page/関東ローカル.md "wikilink")扱いの番組で、地方の[JRN系列局ではこの時間帯に関東](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")24時台の『[Junk](../Page/JUNK.md "wikilink")』（旧:[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink")）を録音で放送していた。同年10月以降は、JRN系列全国ネット（[MBS](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[ABCは編成上と諸般の都合によりネットせず](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")。[RABも](https://ja.wikipedia.org/wiki/青森放送 "wikilink")2003年10月 - 2004年3月までは月 - 火のみ当番組をネット。）となった。
+『[Ride on music\!](https://ja.wikipedia.org/wiki/Ride_on_music! "wikilink")』の後番組としてスタート。[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")までは[関東ローカル](../Page/関東ローカル.md "wikilink")扱いの番組で、地方の[JRN系列局ではこの時間帯に関東](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")24時台の『[Junk](../Page/JUNK.md "wikilink")』（旧:[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink")）を録音で放送していた。同年10月以降は、JRN系列全国ネット（[MBS](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")・[ABCは編成上と諸般の都合によりネットせず](../Page/朝日放送ラジオ.md "wikilink")。[RABも](https://ja.wikipedia.org/wiki/青森放送 "wikilink")2003年10月 - 2004年3月までは月 - 火のみ当番組をネット。）となった。
 
 水曜日の『[中川家のネコ電](../Page/中川家のネコ電.md "wikilink")』は、以前は月曜24時台（27時台）Junk枠から移動したため、TBSラジオ以外のネット局では実質的には曜日移動となった。
 

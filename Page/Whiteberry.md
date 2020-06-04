@@ -12,7 +12,7 @@
 ## メンバー
 
   - **[前田由紀](../Page/前田由紀.md "wikilink")**（まえだ ゆき、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - ）
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。5人の内で唯一の途中参加メンバーで、加入前は長谷川がボーカルを務めていた。現在は**前田有嬉**名義でソロ活動を行っている。2017年2月より[MUTOWN RECORDS所属となる](https://ja.wikipedia.org/wiki/MUTOWN_RECORDS "wikilink")。身長153cm
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。5人の内で唯一の途中参加メンバーで、加入前は長谷川がボーカルを務めていた。現在は**前田有嬉**名義でソロ活動を行っている。[MUTOWN ENTERTAINMENT](http://do-t.jp/mutown/)所属。身長153cm
   - **[稲月彩](../Page/稲月彩.md "wikilink")**（いなつき あや、1985年[12月16日](../Page/12月16日.md "wikilink") - ）
     [ギター担当](https://ja.wikipedia.org/wiki/エレキギター "wikilink")。[左利き](../Page/左利き.md "wikilink")。ギターは右弾き。稲月がWhiteberryを作った。身長142cm。
   - **[長谷川ゆかり](../Page/長谷川ゆかり.md "wikilink")**（はせがわ ゆかり、1985年[10月25日](../Page/10月25日.md "wikilink") - ）
@@ -399,7 +399,7 @@
   - [Whiteberry](http://www.sonymusic.co.jp/Music/Info/whiteberry/) - [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")による公式ページ。
 
   -
-  - 前田有嬉[MUTOWN RECORDS](https://ja.wikipedia.org/wiki/MUTOWN_RECORDS "wikilink")
+  - 前田有嬉・所属事務所 [MUTOWN ENTERTAINMENT](http://do-t.jp/mutown/)
 
 [Category:Whiteberry](https://ja.wikipedia.org/wiki/Category:Whiteberry "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink") [Category:北見市の歴史](https://ja.wikipedia.org/wiki/Category:北見市の歴史 "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink")
 

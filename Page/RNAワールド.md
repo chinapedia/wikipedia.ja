@@ -5,7 +5,7 @@
 
 ## 概要
 
-[自己スプライシング](../Page/自己スプライシング.md "wikilink")を起こす[イントロン](../Page/イントロン.md "wikilink")の発見や[レトロウイルス](https://ja.wikipedia.org/wiki/レトロウイルス "wikilink")による[逆転写酵素](../Page/逆転写酵素.md "wikilink")の発見により、RNA が遺伝情報と[酵素](../Page/酵素.md "wikilink")活性の両方を持ちうることを証明し、[ポリヌクレオチド](https://ja.wikipedia.org/wiki/ポリヌクレオチド "wikilink")の合成には[ポリペプチド](https://ja.wikipedia.org/wiki/ポリペプチド "wikilink")が必要だが、[ポリペプチド](https://ja.wikipedia.org/wiki/ポリペプチド "wikilink")の合成には[ポリヌクレオチド](https://ja.wikipedia.org/wiki/ポリヌクレオチド "wikilink")が必要だという問題点が解消されたことがこの説の提唱のきっかけとなった。RNAワールドから[DNAワールド](https://ja.wikipedia.org/wiki/DNAワールド "wikilink")への発展は、RNAから[タンパク質](../Page/タンパク質.md "wikilink")に生化学反応の触媒が移行し、RNAはタンパク質の配列を示す遺伝暗号としての機能を持つようになり、RNAが不安定な分子なので、RNAから[DNAがその機能を担うようになり](../Page/デオキシリボ核酸.md "wikilink")、おこったとされている。
+[自己スプライシング](../Page/自己スプライシング.md "wikilink")を起こす[イントロン](../Page/イントロン.md "wikilink")の発見や[レトロウイルス](https://ja.wikipedia.org/wiki/レトロウイルス "wikilink")による[逆転写酵素](../Page/逆転写酵素.md "wikilink")の発見により、RNA が遺伝情報と[酵素](../Page/酵素.md "wikilink")活性の両方を持ちうることを証明された。これにより「[ポリヌクレオチド](https://ja.wikipedia.org/wiki/ポリヌクレオチド "wikilink")の合成には[ポリペプチド](https://ja.wikipedia.org/wiki/ポリペプチド "wikilink")が必要だが、[ポリペプチド](https://ja.wikipedia.org/wiki/ポリペプチド "wikilink")の合成には[ポリヌクレオチド](https://ja.wikipedia.org/wiki/ポリヌクレオチド "wikilink")が必要だ」という問題が解消されたことがこの説の提唱のきっかけとなった。RNAワールドから[DNAワールド](https://ja.wikipedia.org/wiki/DNAワールド "wikilink")への発展は、RNAから[タンパク質](../Page/タンパク質.md "wikilink")に生化学反応の触媒が移行し、RNAはタンパク質の配列を示す遺伝暗号としての機能を持つようになり、RNAが不安定な分子なので、RNAから[DNAがその機能を担うようになり](../Page/デオキシリボ核酸.md "wikilink")、おこったとされている。
 
 RNA ワールド仮説を[生命の起源](../Page/生命の起源.md "wikilink")説として主張するにあたってはいくつかの問題点が指摘されている。主要な物として、
 

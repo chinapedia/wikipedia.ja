@@ -602,7 +602,7 @@
 
   - [TBSテレビ「ドラマ」](http://www.tbs.co.jp/drama/)
 
-[Category:水曜劇場_(TBS)](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(TBS\) "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")
+[Category:水曜劇場_(TBS)](https://ja.wikipedia.org/wiki/Category:水曜劇場_\(TBS\) "wikilink") [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink")
 
 1.  後枠は現在の「[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")」まで続く日立製作所一社提供枠。
 2.  1969年10月15日 [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")テレビ欄（11面）による『甘柿しぶ柿つるし柿』の紹介記事より。

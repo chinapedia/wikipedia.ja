@@ -145,4 +145,4 @@
 
   - [双葉社](http://www.futabasha.co.jp/index.html)
 
-[Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:双葉社](https://ja.wikipedia.org/wiki/Category:双葉社 "wikilink") [Category:コンピュータゲームに関する書籍](https://ja.wikipedia.org/wiki/Category:コンピュータゲームに関する書籍 "wikilink")
+[Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:双葉社の出版物](https://ja.wikipedia.org/wiki/Category:双葉社の出版物 "wikilink") [Category:コンピュータゲームに関する書籍](https://ja.wikipedia.org/wiki/Category:コンピュータゲームに関する書籍 "wikilink")

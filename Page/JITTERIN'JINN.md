@@ -636,9 +636,8 @@ COCP-31366</p></td>
 
 ## ミュージックビデオ
 
-|                                                       |                                                                  |
+| 監督                                                    | 曲名                                                               |
 | ----------------------------------------------------- | ---------------------------------------------------------------- |
-| **監督**                                                | **曲名**                                                           |
 | [イシバシミツユキ](../Page/イシバシミツユキ.md "wikilink")            | 「こいのぼり」                                                          |
 | [木原明志](https://ja.wikipedia.org/wiki/木原明志 "wikilink") | 「青いカナリア」                                                         |
 | 不明                                                    | 「SINKY-YORK」「にちようび」「やけっぱちのドンチャラミー」「エブリデイ」「サムライガール」「プレゼント」「夏祭り」「」 |
@@ -777,8 +776,8 @@ COCP-31366</p></td>
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:イカ天出身のバンド](https://ja.wikipedia.org/wiki/Category:イカ天出身のバンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:1986年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1986年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 
 1.  [旺文社](../Page/旺文社.md "wikilink")ムック『「イカ天」「ホコ天」アマチュアバンド大全集「WOWOOO（ワォーッ）\!\!」』（1989年12月20日発売）、JITTERIN'JINNインタビューページより。
-2.  「[ジッタリンジン、再燃中！](http://www.barks.jp/news/?id=1000042255)」 BARKS ニュース、2008年8月1日。
+2.  「[ジッタリンジン、再燃中！](http://www.barks.jp/news/?id=1000042255)」BARKS ニュース、2008年8月1日。
 3.  \[[http://columbia.jp/artist-info/jit/COKM-30947.html\]日本コロムビア｜ジッタリン・ジン](http://columbia.jp/artist-info/jit/COKM-30947.html%5D日本コロムビア｜ジッタリン・ジン)
-4.  「[ジッタリン・ジンが代表曲“夏祭り”のペアソングを発表、PVは松本大洋描き下ろし](http://www.cinra.net/news/2010/08/25/172532.php)」 musicニュース：CINRA.NET、2010年8月25日
+4.  「[ジッタリン・ジンが代表曲“夏祭り”のペアソングを発表、PVは松本大洋描き下ろし](http://www.cinra.net/news/2010/08/25/172532.php)」musicニュース：CINRA.NET、2010年8月25日
 5.  2009年に行ったライブが現時点での最後のライブとなっている。
 6.

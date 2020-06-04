@@ -32,7 +32,7 @@ La-9の発展型としては、1947年に初飛行した**La-9V**(****、**UTI L
   - 乗員：1 名
   - 武装：23 mm機銃[NS-23](https://ja.wikipedia.org/wiki/NS-23_\(機関砲\) "wikilink")(НС-23) ×4
 
-## 運用国
+## 運用者
 
   - [ソ連](../Page/ソビエト連邦軍.md "wikilink")
 
@@ -45,6 +45,21 @@ La-9の発展型としては、1947年に初飛行した**La-9V**(****、**UTI L
 
   - [朝鮮民主主義人民共和国](../Page/朝鮮人民軍.md "wikilink")
 
+## 現存する機体
+
+| 型名        | 番号        | 機体写真                                                                                                                                                                                                | 所在地              | 所有者                                                                                                               | 公開状況 | 状態   | 備考                                                                                 |
+| --------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------- | ---- | ---- | ---------------------------------------------------------------------------------- |
+| La-9      | 06        | [写真](https://live.staticflickr.com/1910/31883348938_0d4292268e_b.jpg)                                                                                                                               | 中国 北京            | [中国空軍航空博物館](../Page/中国空軍航空博物館.md "wikilink")[1](https://web.archive.org/web/20060501205926/http://chn-am.com:80/) | 公開   | 静態展示 |                                                                                    |
+| La-9      | 66        | [写真](https://cdn.jetphotos.com/full/2/77723_1156497971.jpg)                                                                                                                                         | ルーマニア ブカレスト      | 国立ルーマニア航空博物館[2](https://www.bucharestcityinfo.com/national-romanian-aviation-museum/)                             | 公開   | 静態展示 |                                                                                    |
+| La-9      | 102       | [写真](https://cdn.jetphotos.com/full/6/51558_1544818423.jpg)                                                                                                                                         | 北朝鮮 平壌           | [祖国解放戦争勝利記念館](https://ja.wikipedia.org/wiki/祖国解放戦争勝利記念館 "wikilink")                                               | 公開   | 静態展示 |                                                                                    |
+| La-9      | 828       | [N415ML_Lavochkin_La-9_s_n_828_(30317142448).jpg](https://ja.wikipedia.org/wiki/File:N415ML_Lavochkin_La-9_s_n_828_\(30317142448\).jpg "fig:N415ML_Lavochkin_La-9_s_n_828_(30317142448).jpg") | アメリカ ヴァージニア州     | [軍事航空博物館](../Page/軍事航空博物館.md "wikilink")[3](https://militaryaviationmuseum.org/)                                  | 公開   | 飛行可能 | [4](https://militaryaviationmuseum.org/aircraft/wwii-aircraft/)                    |
+| La-9      | 6201 7504 |                                                                                                                                                                                                     | 中国 北京            | [北京航空航天大学博物館](https://ja.wikipedia.org/wiki/:en:Beijing_Air_and_Space_Museum "wikilink")                          | 不明   | 不明   |                                                                                    |
+| La-9V     |           | [写真](https://live.staticflickr.com/4783/40596589071_5e993dc4c5_4k.jpg)                                                                                                                              | 中国 北京            | 中国空軍航空博物館                                                                                                         | 公開   | 静態展示 |                                                                                    |
+| La-9 レプリカ | 17        | [Истребитель_Ла-7_1.jpg](https://ja.wikipedia.org/wiki/File:Истребитель_Ла-7_1.jpg "fig:Истребитель_Ла-7_1.jpg")                                                                                  | ロシア ニージニー・ノヴゴロド州 | ニージニー・ノヴゴロド市の公園                                                                                                   | 公開   | 静態展示 | La-7記念碑として展示されているが、風防の枠が少なく尾翼も高いことからLa-9とみられる。降着装置の格納部がないことからレプリカと表記するが、実機の可能性もある。 |
+|           |           |                                                                                                                                                                                                     |                  |                                                                                                                   |      |      |                                                                                    |
+
+## 脚注
+
 ## 関連項目
 
   - [LaGG-1](https://ja.wikipedia.org/wiki/LaGG-1_\(航空機\) "wikilink")
@@ -52,7 +67,7 @@ La-9の発展型としては、1947年に初飛行した**La-9V**(****、**UTI L
   - [La-5](https://ja.wikipedia.org/wiki/La-5_\(航空機\) "wikilink")
   - [La-7](../Page/La-7_\(航空機\).md "wikilink")
   - [La-11](../Page/La-11_\(航空機\).md "wikilink")
-  - [Yak-9大戦型](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")
+  - [Yak-9戦中型](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")
   - [Yak-9戦後型](../Page/Yak-9P_\(航空機\).md "wikilink")
 
 ## 外部リンク

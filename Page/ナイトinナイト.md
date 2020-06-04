@@ -84,7 +84,7 @@
 
 <!-- end list -->
 
-  - [おっちゃんVSギャル](../Page/おっちゃんVSギャル.md "wikilink")（1986.5 - 2000.3） - 司会:桂三枝（現:桂文枝）・岡野久子（1986.5 - ?）→春藤睦（在籍期間不明）→[遥洋子](https://ja.wikipedia.org/wiki/遥洋子 "wikilink")（? - 1999.3）→[高野直子](../Page/高野直子_\(アナウンサー\).md "wikilink")（1999.4 - 2000.3）
+  - [おっちゃんVSギャル](../Page/おっちゃんVSギャル.md "wikilink")（1986.5 - 2000.3） - 司会:桂三枝（現:桂文枝）・岡野久子（1986.5 - ?）→春藤睦（在籍期間不明）→[遥洋子](https://ja.wikipedia.org/wiki/遥洋子 "wikilink")（? - 1999.3）→[高野直子（当時朝日放送アナウンサー）](../Page/高野直子_\(アナウンサー\).md "wikilink")（1999.4 - 2000.3）
       - 中高年タレントや文化人の「おっちゃんチーム｣と、若手女性タレントの「ギャルチーム」によるクイズ合戦。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）の『[クイズ\!年の差なんて](../Page/クイズ!年の差なんて.md "wikilink")』は、この企画が元ネタである（桂三枝自身がこの番組の成功によりフジテレビに企画を持ち込んだ結果、両方の番組で司会をすることとなる）。
   - [らぶどん](https://ja.wikipedia.org/wiki/らぶどん "wikilink")（2000.4 - 2002.3） - 出演:[石田靖](../Page/石田靖.md "wikilink")・[柳沢慎吾](../Page/柳沢慎吾.md "wikilink")・[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")
   - [雨上がりのやまとナゼ?しこ](https://ja.wikipedia.org/wiki/雨上がりのやまとナゼ?しこ "wikilink")（2011.11 - 2015.12） - 出演:[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")・[海原やすよ・ともこ](../Page/海原やすよ・ともこ.md "wikilink")・[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")ほか

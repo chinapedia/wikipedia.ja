@@ -1,7 +1,7 @@
 > この記事は[TR-IAロケット](https://ja.wikipedia.org/wiki/TR-IAロケット)から翻訳されています。
 
 
-**TR-IAロケット**（ティーアールワンエイ）は[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA、現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")JAXA）が開発・運用した単段式の固体燃料[ロケット](../Page/ロケット.md "wikilink")。愛称は「**たけさき**」。開発は[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）から始まり、ロケット本体は[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）まで運用した。[H-IIロケット](../Page/H-IIロケット.md "wikilink")開発のために作成された[TR-Iロケット](../Page/TR-Iロケット.md "wikilink")をベースとしている。
+**TR-IAロケット**（ティーアールワンエイ）は[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")（NASDA、現[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")JAXA）が開発・運用した単段式の固体燃料[ロケット](../Page/ロケット.md "wikilink")。愛称は「**たけさき**」。開発は[1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）から始まり、ロケット本体は[1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）まで運用した。[H-IIロケット](../Page/H-IIロケット.md "wikilink")開発のために作成された[TR-Iロケット](../Page/TR-Iロケット.md "wikilink")をベースとしている。
 
 ## 概要
 

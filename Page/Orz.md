@@ -103,10 +103,6 @@
 `        ∠ ／|／　＼|＼_＼ `
 `       |○|            |○|`
 
-## ギャラリー
-
-ファイル:Lehmbruck - die Gestürzte.jpg|[ヴィルヘルム・レームブルック](https://ja.wikipedia.org/wiki/ヴィルヘルム・レームブルック "wikilink")作「くずおれる男」（1915/16年） ファイル:人-seal.svg|東漢《[説文](https://ja.wikipedia.org/wiki/説文 "wikilink")》のひとつ小篆で書かれた「人」（紀元100年ごろ）
-
 ## orzを使用した作品
 
   - [勇者のくせになまいきだor2](https://ja.wikipedia.org/wiki/勇者のくせになまいきだ。#勇者のくせになまいきだor2 "wikilink")

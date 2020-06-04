@@ -56,32 +56,32 @@
 
 ### テレビ
 
-  - [ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - キャッチコピーは「遅れてきたルーキー」。
-  - [志村けんはいかがでしょう](../Page/志村けんはいかがでしょう.md "wikilink")（フジテレビ系） - 番組のメインコントの間にコントを披露していた。
-  - [明石家マンション物語](../Page/明石家マンション物語.md "wikilink") （フジテレビ系）
+  - [ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - キャッチコピーは「遅れてきたルーキー」。
+  - [志村けんはいかがでしょう](../Page/志村けんはいかがでしょう.md "wikilink")（フジテレビ） - 番組のメインコントの間にコントを披露していた。
+  - [明石家マンション物語](../Page/明石家マンション物語.md "wikilink") （フジテレビ）
   - [次郎長三国志](../Page/次郎長三国志_\(2000年のテレビドラマ\).md "wikilink")（2000年1月2日、テレビ東京）
   - [空飛ぶ\!爆チュー問題](https://ja.wikipedia.org/wiki/空飛ぶ!爆チュー問題 "wikilink")（[フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")） - [ネズミ](../Page/ネズミ.md "wikilink")の「BOOMOUSE」として出演。
   - [ろみひー](../Page/ろみひー.md "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink") - [中京テレビ](../Page/中京テレビ放送.md "wikilink")） - オープニングでコントを披露していた。
   - [笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")（日本テレビ）
   - [THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")（日本テレビ）
   - [踊る\!さんま御殿\!\!](../Page/踊る!さんま御殿!!.md "wikilink")（日本テレビ）
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")）
+  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
   - [笑いが一番](https://ja.wikipedia.org/wiki/笑いが一番 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - 今夜もハレホレ（[TBS系](../Page/TBSテレビ.md "wikilink")）
-  - ミスMAP天国（TBS系）
+  - 今夜もハレホレ（[TBS](../Page/TBSテレビ.md "wikilink")）
+  - ミスMAP天国（TBS）
   - [未来ナース](../Page/未来ナース.md "wikilink")（TBS）
   - [さまぁ〜ず式](https://ja.wikipedia.org/wiki/さまぁ〜ず式 "wikilink")（TBS） - 伊勢のみ
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（TBS）
-  - [ゴールドラッシュ2008〜今年こそブレイクしたい芸人が開く 新しきイロモネアの夜明け\!\!](https://ja.wikipedia.org/wiki/ザ・イロモネア "wikilink")（TBS、2008年1月3日）
+  - [ゴールドラッシュ2008〜今年こそブレイクしたい芸人が開く 新しきイロモネアの夜明け\!\!](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（TBS、2008年1月3日）
   - [爆笑問題の検索ちゃん](../Page/爆笑問題の検索ちゃん.md "wikilink")（テレビ朝日）
   - 夢情報〜夢野家の人々（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）伊勢のみ
   - [タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")（テレビ朝日）
-  - [アリケン](https://ja.wikipedia.org/wiki/アリケン "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）
-  - [今夜もドル箱](../Page/今夜もドル箱.md "wikilink")（テレビ東京系）
+  - [アリケン](https://ja.wikipedia.org/wiki/アリケン "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [今夜もドル箱](../Page/今夜もドル箱.md "wikilink")（テレビ東京）
   - ぬるパチ（[パチンコ・パチスロTV\!](../Page/パチンコ★パチスロTV!.md "wikilink")）
   - [双子探偵](../Page/双子探偵.md "wikilink")（終盤のトークコーナーに出演）
-  - [そろそろ　にちようチャップリン](https://ja.wikipedia.org/wiki/そろそろ_にちようチャップリン "wikilink")（2019年1月26日）
-  - [爆笑問題のシンパイ賞\!\!](https://ja.wikipedia.org/wiki/爆笑問題のシンパイ賞!! "wikilink")（テレビ朝日系、2019年10月4日 - ）
+  - [そろそろ にちようチャップリン](https://ja.wikipedia.org/wiki/にちようチャップリン "wikilink")（テレビ東京、2019年1月26日）
+  - [爆笑問題のシンパイ賞\!\!](https://ja.wikipedia.org/wiki/爆笑問題のシンパイ賞!! "wikilink")（テレビ朝日、2019年10月4日 - ）
 
 ### ラジオ
 

@@ -1,7 +1,7 @@
 > この記事は[悪魔城ドラキュラX 月下の夜想曲](https://ja.wikipedia.org/wiki/悪魔城ドラキュラX_月下の夜想曲)から翻訳されています。
 
 
-『**悪魔城ドラキュラX 月下の夜想曲**』（あくまじょうドラキュラエックス げっかのやそうきょく、英題: *[Castlevania: Symphony of the Night](https://ja.wikipedia.org/wiki/:en:Castlevania:_Symphony_of_the_Night "wikilink")*\[1\]）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売されたアクションゲーム。
+『**悪魔城ドラキュラX 月下の夜想曲**』（あくまじょうドラキュラエックス げっかのやそうきょく、英題: *[Castlevania: Symphony of the Night](https://ja.wikipedia.org/wiki/:en:Castlevania:_Symphony_of_the_Night "wikilink")*\[1\]）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から発売された[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。
 
 ## 歴史
 

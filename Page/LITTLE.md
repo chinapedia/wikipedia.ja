@@ -363,7 +363,7 @@
 
   - UL [OFFICIAL WEB SITE](http://www.ulstars.jp/) - MCUとのユニット「UL」の公式サイト
 
-  - [LITTLE ｜ Sony Music](http://www.sonymusic.co.jp/Music/Arch/ARI/little/index.html) - ソニー・ミュージック内のLITTLE紹介ページ
+  - [LITTLE ｜ Sony Music](https://www.sonymusic.co.jp/artist/little/) - ソニー・ミュージック内のLITTLE紹介ページ
 
   -
   - [LITTLE miyake KAZRUのサタデーナイトミストン](https://fmfukuoka.co.jp/lmk/) -エフエム福岡内の番組ページ

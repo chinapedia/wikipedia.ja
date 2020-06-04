@@ -45,14 +45,7 @@
 
 ## 現在の出演番組
 
-  - [SUPER RADIO MONSTER ラジ★ゴン](../Page/SUPER_RADIO_MONSTER_ラジ★ゴン.md "wikilink")（[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")、月曜　12:00〜15:55）
-
-<!-- end list -->
-
-  -
-
-      -
-        この番組では、長年同じ福岡のローカルタレントである[斉藤ふみ](../Page/斉藤ふみ.md "wikilink")とパートナーを組んでいた。（2013年4月の改編でコンビ解消）
+  - [〜Ultra Radio Connection〜DIG\!\!\!\!\!\!\!\!FUKUOKA](../Page/〜Ultra_Radio_Connection〜DIG!!!!!!!!FUKUOKA.md "wikilink")（[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")、火曜　12:30〜16:30）
 
 <!-- end list -->
 
@@ -75,6 +68,9 @@
   - [Dr.クラナガン](../Page/Dr.クラナガン.md "wikilink")（[FBS](https://ja.wikipedia.org/wiki/FBS福岡放送 "wikilink")）
   - [あるあるCity ドリーム☆レディオ](https://ja.wikipedia.org/wiki/あるあるCity_ドリーム☆レディオ "wikilink")（FM FUKUOKA）
   - [ブッチのリンリンパラダイス](https://ja.wikipedia.org/wiki/ブッチのリンリンパラダイス "wikilink")（TVQ）
+  - [SUPER RADIO MONSTER ラジ★ゴン](../Page/SUPER_RADIO_MONSTER_ラジ★ゴン.md "wikilink")（[FM FUKUOKA](../Page/エフエム福岡.md "wikilink")、月曜　12:00〜15:55）火曜　-2013年3月
+
+この番組では、長年同じ福岡のローカルタレントである[斉藤ふみ](../Page/斉藤ふみ.md "wikilink")とパートナーを組んでいた。（2013年4月の改編でコンビ解消）
 
 ## 脚注
 

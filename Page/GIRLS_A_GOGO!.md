@@ -50,7 +50,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a> (EX) ・<a href="https://ja.wikipedia.org/wiki/キー局" title="wikilink">キー局</a></p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a> (EX) ・<a href="../Page/キー局.md" title="wikilink">キー局</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p>土曜 16:30 - 17:00</p></td>
 </tr>

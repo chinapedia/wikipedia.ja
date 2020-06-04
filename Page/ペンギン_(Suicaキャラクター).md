@@ -9,11 +9,11 @@
 
 ## ペンギンの位置づけ
 
-このキャラクターは「Suicaアピール用のオリジナルキャラクター」とされることがあるが、実際はすでに存在していた坂崎の[絵本](../Page/絵本.md "wikilink")に登場するペンギンを起用したものである（キャラクターの初出は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発行の『ペンギンゴコロ』\[2\]\[3\]）。従って、このペンギンの[著作権](../Page/著作権.md "wikilink")表記は、JR東日本ではなく坂崎の名が先頭に来る（例「（C）さかざきちはる/JR東日本/[dentsu](../Page/電通.md "wikilink")」、「（C）C.S/JR東日本/D」→C.S=**C**hiharu **S**akazaki、D=**D**entsu）。
+このキャラクターは「Suicaアピール用のオリジナルキャラクター」とされることがあるが、実際はすでに存在していた坂崎の[絵本](../Page/絵本.md "wikilink")に登場するペンギンを起用したものである（キャラクターの初出は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発行の『ペンギンゴコロ』\[2\]\[3\]）。このペンギンの[著作権](../Page/著作権.md "wikilink")表記の先頭がJR東日本ではなく坂崎\[4\]なのはこのため。
 
 ## 起源
 
-JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅で[2001年](../Page/2001年.md "wikilink")（平成13年）4月からSuicaモニター試験が行われたが、このモニター募集用冊子・告知[ポスター](../Page/ポスター.md "wikilink")で坂崎のペンギンが採用されたのが最初。坂崎によれば、当初はSuica導入キャンペーン用のイラストという位置づけだった\[4\]\[5\]。坂崎がペンギンにまつわる絵本を出版していたのに倣い、モニター募集用冊子は絵本形式になっている。広大な[南極海](../Page/南極海.md "wikilink")で「スイスイ」泳ぎ回るペンギンの所作と、Suicaで「スイスイ」便利になるというイメージとを掛け合わせたもの。また、Suicaが「誰も知らない」「既存のものとは違うサービス」であることから、[果実](../Page/果実.md "wikilink")の[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")を知らないペンギンが選ばれたとされる\[6\]。この絵本形冊子は、2001年11月の本使用開始時にも、一部体裁を変更の上再配布されたほか、電子化されて同社の公式サイトにも掲載されている。
+JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅で[2001年](../Page/2001年.md "wikilink")（平成13年）4月からSuicaモニター試験が行われたが、このモニター募集用冊子・告知[ポスター](../Page/ポスター.md "wikilink")で坂崎のペンギンが採用されたのが最初。坂崎によれば、当初はSuica導入キャンペーン用のイラストという位置づけだった\[5\]\[6\]。坂崎がペンギンにまつわる絵本を出版していたのに倣い、モニター募集用冊子は絵本形式になっている。広大な[南極海](../Page/南極海.md "wikilink")で「スイスイ」泳ぎ回るペンギンの所作と、Suicaで「スイスイ」便利になるというイメージとを掛け合わせたもの。また、Suicaが「誰も知らない」「既存のものとは違うサービス」であることから、[果実](../Page/果実.md "wikilink")の[スイカ](https://ja.wikipedia.org/wiki/スイカ "wikilink")を知らないペンギンが選ばれたとされる\[7\]。この絵本形冊子は、2001年11月の本使用開始時にも、一部体裁を変更の上再配布されたほか、電子化されて同社の公式サイトにも掲載されている。
 
 ## カード販売
 
@@ -103,7 +103,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
   - SuiPo登録促進キャンペーン
     2007年4月 - 【SUIPOユーザー登録で自動応募】 ペンギンマグカップ、ペンギンパスケース
 
-これら販促用ペンギングッズが好評を博しているため、2005年7月より、[ストラップ](../Page/ストラップ.md "wikilink")・[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")・[ノート](https://ja.wikipedia.org/wiki/ノート "wikilink")・[シール](../Page/シール.md "wikilink")などのキャラクターグッズを「ペンギン百貨」と銘打って、[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")内の駅のNEWDAYS・[キヨスク](../Page/キヨスク.md "wikilink")を皮切りに発売を開始している\[7\]。細部のバリエーションも豊富で、[マグカップ](../Page/マグカップ.md "wikilink")では白と黒の2種類が発売され、シールではスポーツ、ビジネス等ジャンル毎の種類が発売されている。現在では仙台・新潟地区での販売も行われている。2009年10月にはJR東日本が親会社である[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")仕様のぬいぐるみが同クラブのグッズショップで発売された。全国区では、JR東日本の子会社である[オレンジページ](../Page/オレンジページ.md "wikilink")から『ペンギンダイアリー』として毎年発売しており、[宝島社](../Page/宝島社.md "wikilink")からもSuicaのペンギンを題材とした付録がメインの書籍も定期的に刊行されている。
+これら販促用ペンギングッズが好評を博しているため、2005年7月より、[ストラップ](../Page/ストラップ.md "wikilink")・[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")・[ノート](https://ja.wikipedia.org/wiki/ノート "wikilink")・[シール](../Page/シール.md "wikilink")などのキャラクターグッズを「ペンギン百貨」と銘打って、[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")内の駅のNEWDAYS・[キヨスク](../Page/キヨスク.md "wikilink")を皮切りに発売を開始している\[8\]。細部のバリエーションも豊富で、[マグカップ](../Page/マグカップ.md "wikilink")では白と黒の2種類が発売され、シールではスポーツ、ビジネス等ジャンル毎の種類が発売されている。現在では仙台・新潟地区での販売も行われている。2009年10月にはJR東日本が親会社である[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")仕様のぬいぐるみが同クラブのグッズショップで発売された。全国区では、JR東日本の子会社である[オレンジページ](../Page/オレンジページ.md "wikilink")から『ペンギンダイアリー』として毎年発売しており、[宝島社](../Page/宝島社.md "wikilink")からもSuicaのペンギンを題材とした付録がメインの書籍も定期的に刊行されている。
 
 商品、値段については、[山手線内で「Suica ペンギングッズ」を販売開始\!\!](https://web.archive.org/web/20070426075056/http://www.ej-kiosk.jregroup.ne.jp/cgi-bin/disp.cgi?frame=3&file=shops%2Fpenguin.html) のページ または「Suicaのペンギングッズご案内サイト」（下記の外部リンク）を参照されたい。
 
@@ -169,7 +169,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 
 #### 2010年
 
-  - Suicaのペンギングッズ専門店**『Pensta』**が[3月19日](../Page/3月19日.md "wikilink")に東京駅八重洲南改札口内に開店した\[8\]。Suicaのペンギンそのもののグッズや[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")に加え、原作にあたるさかざきちはるの絵本まで販売されている。
+  - Suicaのペンギングッズ専門店**『Pensta』**が[3月19日](../Page/3月19日.md "wikilink")に東京駅八重洲南改札口内に開店した\[9\]。Suicaのペンギンそのもののグッズや[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")に加え、原作にあたるさかざきちはるの絵本まで販売されている。
 
 #### 2016年
 
@@ -192,7 +192,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 
   - [Suica](../Page/Suica.md "wikilink")
   - [ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")
-  - [カモノハシのイコちゃん](../Page/カモノハシのイコちゃん.md "wikilink")（[ICOCA](../Page/ICOCA.md "wikilink")キャラクター） - 最初に相互利用を開始したことから「旧友」とされており、2015年にICOCA電子マネーサービスが10周年を迎えた際、大阪駅まで祝福に駆け付けた。ペンギンが関西地区へ「遠征」したのはこの時が初めてである。\[9\]
+  - [カモノハシのイコちゃん](../Page/カモノハシのイコちゃん.md "wikilink")（[ICOCA](../Page/ICOCA.md "wikilink")キャラクター） - 最初に相互利用を開始したことから「旧友」とされており、2015年にICOCA電子マネーサービスが10周年を迎えた際、大阪駅まで祝福に駆け付けた。ペンギンが関西地区へ「遠征」したのはこの時が初めてである。\[10\]
   - [エゾモモンガ (Kitacaキャラクター)](https://ja.wikipedia.org/wiki/エゾモモンガ_\(Kitacaキャラクター\) "wikilink") （相互利用可能な[Kitaca](../Page/Kitaca.md "wikilink")のキャラクター）
   - [ちかまる](../Page/ちかまる.md "wikilink")（[福岡市交通局](../Page/福岡市交通局.md "wikilink")キャラクター）
   - [坂崎千春](../Page/坂崎千春.md "wikilink")（作者）
@@ -211,9 +211,10 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 1.  [企業キャラクターをソリューションへ №4 坂崎 千春X田中 友朋X栗林 秀樹X山本 達也 Suicaのペンギンはこうして生まれた（前編）](https://dentsu-ho.com/articles/622)、電通報、2014年1月8日。
 2.
 3.  なお、坂崎の絵本『ペンギンのおかいもの』ではこのペンギンに「スイッピ」という名前が付けられている。
-4.
-5.  [「スイカのペンギン」誕生秘話　作者に聞く](https://web.archive.org/web/20060617215241/http://it.nikkei.co.jp/mobile/news/index.aspx?n=MMITfa000024052006)、IT PLUS（NIKKI NET）、2006年5月24日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-6.
+4.  例「（C）さかざきちはる/JR東日本/[dentsu](../Page/電通.md "wikilink")」、「（C）C.S/JR東日本/D」（C.S=**C**hiharu **S**akazaki、D=**D**entsu）。
+5.
+6.  [「スイカのペンギン」誕生秘話　作者に聞く](https://web.archive.org/web/20060617215241/http://it.nikkei.co.jp/mobile/news/index.aspx?n=MMITfa000024052006)、IT PLUS（NIKKI NET）、2006年5月24日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 7.
-8.  [JR東京駅構内に「Suica」のペンギングッズ専門店「Pensta」オープン。](http://www.narinari.com/Nd/20100313222.html) ナリナリドットコム 2010年3月12日
-9.  [JR西日本、イコちゃんとスマートイコちゃんによる「ICOCA電子マネー」10周年記念イベントと抽選会](http://travel.watch.impress.co.jp/docs/news/723900.html) - トラベルWatch 2015年10月2日（2017年1月11日閲覧）
+8.
+9.  [JR東京駅構内に「Suica」のペンギングッズ専門店「Pensta」オープン。](http://www.narinari.com/Nd/20100313222.html) ナリナリドットコム 2010年3月12日
+10. [JR西日本、イコちゃんとスマートイコちゃんによる「ICOCA電子マネー」10周年記念イベントと抽選会](http://travel.watch.impress.co.jp/docs/news/723900.html) - トラベルWatch 2015年10月2日（2017年1月11日閲覧）

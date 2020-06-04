@@ -3,9 +3,9 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:JAC-SAAB340B-JA8900-01.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:LansenLiten.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Saab_2000_-_Crossair_-_001.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Swedish_JAS-39_Gripen_landing.jpg "wikilink")\]\]
 
-**SAAB** （サーブ、Saab AB） は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[ストックホルム](../Page/ストックホルム.md "wikilink")に本拠を置き、世界60カ国以上で事業展開する[航空機](../Page/航空機.md "wikilink")・[軍需品](https://ja.wikipedia.org/wiki/軍需品 "wikilink")メーカーである。[ヴァレンベリ家](https://ja.wikipedia.org/wiki/ヴァレンベリ家 "wikilink")の投資会社である[インベストール](https://ja.wikipedia.org/wiki/インベストール "wikilink")が、株式の約3割（議決権ベースで約4割）を保有している\[1\]。
+**SAAB** （サーブ、Saab AB） は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[ストックホルム](../Page/ストックホルム.md "wikilink")に本拠を置き、世界60カ国以上で事業展開する[航空機](../Page/航空機.md "wikilink")・[軍需品](https://ja.wikipedia.org/wiki/軍需品 "wikilink")メーカー。[ヴァレンベリ家](https://ja.wikipedia.org/wiki/ヴァレンベリ家 "wikilink")の投資会社である[インベストール](https://ja.wikipedia.org/wiki/インベストール "wikilink")が、株式の約3割（議決権ベースで約4割）を保有している\[1\]。
 
-一般的に「サーブ」として知られている自動車会社の[サーブ・オートモービル](https://ja.wikipedia.org/wiki/サーブ・オートモービル "wikilink")は、当初はSAABの自動車製造部門であった。その後、同部門は[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")、[スパイカー・カーズ](../Page/スパイカー・カーズ.md "wikilink")（2011年に[スウェディッシュ・オートモービル](https://ja.wikipedia.org/wiki/スウェディッシュ・オートモービル "wikilink")に社名変更）の傘下企業として渡り歩き、2011年12月に破産しており、SAABとのあいだに直接の資本関係は無くなっている。
+一般的に「サーブ」として知られている自動車会社の[サーブ・オートモービル](https://ja.wikipedia.org/wiki/サーブ・オートモービル "wikilink")は、当初はSAABの自動車製造部門であった。その後、同部門は[ゼネラル・モーターズ](https://ja.wikipedia.org/wiki/ゼネラル・モーターズ "wikilink")（GM）、[スパイカー・カーズ](../Page/スパイカー・カーズ.md "wikilink")（2011年に[スウェディッシュ・オートモービル](https://ja.wikipedia.org/wiki/スウェディッシュ・オートモービル "wikilink")に社名変更）の傘下企業として渡り歩き、2011年12月に破産しており、SAABとの間に直接の資本関係は無くなっている。
 
 ## 歴史
 

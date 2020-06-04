@@ -1,7 +1,7 @@
 > この記事は[UP\'S〜Ultra Performer\'S radio〜](https://ja.wikipedia.org/wiki/UP\'S〜Ultra_Performer\'S_radio〜)から翻訳されています。
 
 
-**UP'S〜Ultra Performer'S radio〜**（アップス〜ウルトラ・パフォーマーズ・レディオ〜）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月から[2000年](../Page/2000年.md "wikilink")3月まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN系列局で](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")、毎週月 - 金曜の深夜25:00 - 27:00に放送されていた[深夜放送](../Page/深夜放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")ゾーンである（ただし、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月からの半年間は、前時間帯の『[ファンタジーワールド](../Page/ファンタジーワールド.md "wikilink")』の1時間枠を維持したままで、24:00からの30分番組を編成した都合で、開始時刻が30分遅れて25:30 - 27:00となっている）。略称は**UP'S**。
+**UP'S〜Ultra Performer'S radio〜**（アップス〜ウルトラ・パフォーマーズ・レディオ〜）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月から[2000年](../Page/2000年.md "wikilink")3月まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](../Page/キー局.md "wikilink")[JRN系列局で](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")、毎週月 - 金曜の深夜25:00 - 27:00に放送されていた[深夜放送](../Page/深夜放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")ゾーンである（ただし、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月からの半年間は、前時間帯の『[ファンタジーワールド](../Page/ファンタジーワールド.md "wikilink")』の1時間枠を維持したままで、24:00からの30分番組を編成した都合で、開始時刻が30分遅れて25:30 - 27:00となっている）。略称は**UP'S**。
 
 ## 概要
 

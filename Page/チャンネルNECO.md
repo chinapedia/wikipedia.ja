@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - 原則として24時間放送だが、不定期に深夜から早朝にかけて放送を休止することがある（一時期は惑星写真をバックに休止告知の案内をしていた）。かつてはオープニングやクロージング映像として横浜の各地を映したもの（オープニングは所々で「**NECO**」のロゴが入る）や、「**NECO A BREAK**」という環境音楽を放送していた。
-  - [アスペクト比](../Page/アスペクト比.md "wikilink")が[4:3](https://ja.wikipedia.org/wiki/4:3 "wikilink")の番組に関しては、[サイドパネル](https://ja.wikipedia.org/wiki/サイドパネル "wikilink")は原則的に黒であるが、[番組宣伝](../Page/番組宣伝.md "wikilink")の静止[画像](../Page/画像.md "wikilink")を左右共に同時表示させる場合がある。
+  - [アスペクト比](../Page/アスペクト比.md "wikilink")が[4:3](https://ja.wikipedia.org/wiki/4:3 "wikilink")の番組に関しては、[サイドパネル](https://ja.wikipedia.org/wiki/サイドパネル "wikilink")は原則的に黒であるが、一時的に[番組宣伝](../Page/番組宣伝.md "wikilink")の静止[画像](../Page/画像.md "wikilink")を左右共に同時表示させる場合がある。
 
 ## 経緯
 

@@ -55,8 +55,9 @@
     隆盛の後妻。旧姓は**岩山**（いわやま）。
     尊王攘夷運動を叫ぶ女性としての一面も描かれた。
   - [愛加那](https://ja.wikipedia.org/wiki/愛加那 "wikilink")（あいかな）
+    （於戸間金→愛加那）
     演：[石田えり](../Page/石田えり.md "wikilink")
-    吉之助（隆盛）が奄美大島で迎えた島妻。
+    吉之助（隆盛）が奄美大島で迎えた島妻。幼名は**於戸間金**（おとまかね）。
   - [西郷従道](../Page/西郷従道.md "wikilink")（さいごう つぐみち）
     （西郷信吾→西郷従道）
     演：[緒形直人](../Page/緒形直人.md "wikilink")（幼年〜少年期：[根本卓哉](https://ja.wikipedia.org/wiki/根本卓哉 "wikilink")→[高橋守](https://ja.wikipedia.org/wiki/高橋守 "wikilink")→[星孝行](https://ja.wikipedia.org/wiki/星孝行 "wikilink")）
@@ -172,7 +173,7 @@
 
   - [島津斉彬](../Page/島津斉彬.md "wikilink")（しまづ なりあきら）
     演：[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")
-    薩摩藩第11代藩主。官位は**薩摩守**（さつまのかみ）。諸大名随一の開明的な人物で、国内や海外の情勢にも精通している。吉之助や正助の才能を誰よりも早く認める。その[蘭癖](../Page/蘭癖.md "wikilink")（[西洋かぶれ](https://ja.wikipedia.org/wiki/西洋かぶれ "wikilink")）を父・斉興に疎まれ、なかなか家督を継げずにいたが、お由羅騒動の混乱を経て藩主に就任。開明思想に基づいた[藩政改革](../Page/藩政改革.md "wikilink")を行い、西郷ら有為の人材を登用する。西洋列強の脅威から日本を守るために[幕政改革](../Page/幕政改革.md "wikilink")を志向し、幕府に発言力を高めるために養女とした篤姫に一橋慶喜を将軍継嗣として推挙するように命じ、将軍御台所として大奥に送り込んだ。
+    薩摩藩第11代藩主。官位は**薩摩守**（さつまのかみ）。諸大名随一の開明的な人物で、国内や海外の情勢にも精通している。吉之助や正助の才能を誰よりも早く認める。その[蘭癖](../Page/蘭癖.md "wikilink")（[西洋かぶれ](../Page/西洋かぶれ.md "wikilink")）を父・斉興に疎まれ、なかなか家督を継げずにいたが、お由羅騒動の混乱を経て藩主に就任。開明思想に基づいた[藩政改革](../Page/藩政改革.md "wikilink")を行い、西郷ら有為の人材を登用する。西洋列強の脅威から日本を守るために[幕政改革](../Page/幕政改革.md "wikilink")を志向し、幕府に発言力を高めるために養女とした篤姫に一橋慶喜を将軍継嗣として推挙するように命じ、将軍御台所として大奥に送り込んだ。
     しかし、大奥の水戸嫌いは予想を上回るほどに根深く、工作は思うように進まなかった。外様の大藩・薩摩藩主という立場から表立った行動を控えてきた斉彬は、遂に「慶喜を将軍継嗣とすべし」という旨の[建白書を幕府に提出する](https://ja.wikipedia.org/wiki/上書 "wikilink")。[南紀派](../Page/南紀派.md "wikilink")の井伊直弼が大老に推されると、対抗して越前藩主・松平慶永を推挙した。一橋派の敗北が決定的になると、洋式装備を有する軍を率いて幕政改革を促すための[上洛](../Page/上洛.md "wikilink")を計画するが、演習の検分中に病に倒れ、弟・三郎久光に後を託して亡くなった。
   - [島津久光](../Page/島津久光.md "wikilink")（しまづ ひさみつ）
     （島津三郎→島津久光）
@@ -189,9 +190,10 @@
   - 喜久（きく）
     演：[田中好子](../Page/田中好子.md "wikilink")
     斉彬の側室。
-  - [島津茂久](../Page/島津忠義.md "wikilink")（しまづ もちひさ）
+  - [島津忠義](../Page/島津忠義.md "wikilink")（しまづ ただよし）
+    （島津茂久→島津忠義）
     演：[川名康浩](https://ja.wikipedia.org/wiki/川名康浩 "wikilink")（少年期：[藤原秀樹](../Page/藤原秀樹.md "wikilink")）
-    久光の長男・薩摩藩第12代藩主。
+    久光の長男・薩摩藩第12代藩主。旧名は**茂久**（もちひさ）。
   - [島津安芸](../Page/島津忠剛.md "wikilink")（しまづ あき）
     演：[瀬下和久](https://ja.wikipedia.org/wiki/瀬下和久 "wikilink")
     篤姫の実父。
@@ -501,10 +503,11 @@
     少々調子のよいところがあるが新政府を支える利通に私淑しており、利通の死に嗚咽する。のちに初代[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")。
   - [山縣有朋](../Page/山縣有朋.md "wikilink")（やまがた ありとも）
     演：[新井康弘](../Page/新井康弘.md "wikilink")
-    長州藩出身。汚職で追放されるが、隆盛に救われる。そのため西南戦争では泣く泣く隆盛を総攻撃した。のちに[元帥](../Page/元帥_\(日本\).md "wikilink")[陸軍大将](../Page/陸軍大将.md "wikilink")。
+    陸軍卿。長州藩出身。
+    汚職で追放されるが、隆盛に救われる。そのため西南戦争では泣く泣く隆盛を総攻撃した。のちに[元帥](../Page/元帥_\(日本\).md "wikilink")[陸軍大将](../Page/陸軍大将.md "wikilink")。
   - [大隈重信](../Page/大隈重信.md "wikilink")（おおくま しげのぶ）
     演：[石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
-    肥前藩出身。隆盛を阿呆と見ている。江藤新平と同様、当初は利通を敵視していたが後に新政府を支える姿勢を尊敬するようになり、政策に協力する。
+    肥前藩出身。隆盛を阿呆と見ている。江藤新平と同様、当初は利通を敵視していたが、徐々に新政府を支える利通の姿勢を尊敬するようになり、政策に協力する。のちに[自由民権運動](../Page/自由民権運動.md "wikilink")では[立憲改進党](../Page/立憲改進党.md "wikilink")に関与し、政府でも[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")などを歴任。また、[早稲田大学](../Page/早稲田大学.md "wikilink")を創設する。
   - [江藤新平](../Page/江藤新平.md "wikilink")（えとう しんぺい）
     演：[隆大介](../Page/隆大介.md "wikilink")
     司法卿。肥前藩出身。
@@ -512,7 +515,7 @@
   - [板垣退助](../Page/板垣退助.md "wikilink")（いたがき たいすけ）
     演：[斉藤洋介](../Page/斎藤洋介.md "wikilink")
     土佐藩出身。
-    征韓派に与し、明治6年政変で下野。
+    征韓派に与し、明治6年政変で下野。その後は[自由民権運動](../Page/自由民権運動.md "wikilink")の主導者となる。
   - [大木喬任](../Page/大木喬任.md "wikilink")（おおき たかとう）
     演：[町田幸夫](https://ja.wikipedia.org/wiki/町田幸夫 "wikilink")
     肥前藩出身。明治6年政変で征韓論には反対の立場を取るが、積極的な行動はしなかった。
@@ -556,8 +559,9 @@
     演：[堀辺隆一](https://ja.wikipedia.org/wiki/堀辺隆一 "wikilink")
     薩摩藩出身。
   - [田中光顕](../Page/田中光顕.md "wikilink")（たなか みつあき）
+    （田中顕助→田中光顕）
     演：[宮寺陽一郎](https://ja.wikipedia.org/wiki/宮寺陽一郎 "wikilink")
-    土佐藩出身。
+    土佐藩出身。旧名は**顕助**。後に[官僚](../Page/官僚.md "wikilink")、[伯爵](../Page/伯爵.md "wikilink")となった。
   - [浅田信興](../Page/浅田信興.md "wikilink")（あさだ のぶおき）
     演：[小田島隆](https://ja.wikipedia.org/wiki/小田島瑛 "wikilink")
 
@@ -1125,7 +1129,7 @@
 
   - [大河ドラマ　翔ぶが如く - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010372_00000)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:NHK鹿児島](https://ja.wikipedia.org/wiki/Category:NHK鹿児島 "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:明治時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:明治時代を舞台とした作品 "wikilink") [Category:西南戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:西南戦争を題材とした作品 "wikilink") [Category:鹿児島県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:鹿児島県を舞台とした作品 "wikilink") [Category:西郷隆盛を題材とした作品](https://ja.wikipedia.org/wiki/Category:西郷隆盛を題材とした作品 "wikilink") [Category:大久保利通](https://ja.wikipedia.org/wiki/Category:大久保利通 "wikilink") [Category:西田敏行](https://ja.wikipedia.org/wiki/Category:西田敏行 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:NHK鹿児島](https://ja.wikipedia.org/wiki/Category:NHK鹿児島 "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:明治時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:明治時代を舞台とした作品 "wikilink") [Category:西南戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:西南戦争を題材とした作品 "wikilink") [Category:鹿児島県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:鹿児島県を舞台としたテレビドラマ "wikilink") [Category:西郷隆盛を題材とした作品](https://ja.wikipedia.org/wiki/Category:西郷隆盛を題材とした作品 "wikilink") [Category:大久保利通](https://ja.wikipedia.org/wiki/Category:大久保利通 "wikilink") [Category:西田敏行](https://ja.wikipedia.org/wiki/Category:西田敏行 "wikilink")
 
 1.  ただし、現在も肖像画が隆盛の実像を反映しているかは疑問視されている。
 2.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

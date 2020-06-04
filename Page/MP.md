@@ -20,60 +20,53 @@
   - [マッサージパーラー](../Page/マッサージパーラー.md "wikilink")()
   - [マレー・ポリネシア語派](../Page/マレー・ポリネシア語派.md "wikilink") ()
   - [マイクロプラスチック](https://ja.wikipedia.org/wiki/マイクロプラスチック "wikilink")（）
+  - [マスクポイント](https://ja.wikipedia.org/wiki/密ですゲーム#マスクポイント "wikilink")（Mask Point） - 「[密ですゲーム](https://ja.wikipedia.org/wiki/密ですゲーム "wikilink")」内で使用されるポイント。
 
-<!-- end list -->
+### 地名
 
-  - 地名
-      - [北マリアナ諸島](../Page/北マリアナ諸島.md "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")。
-      - [マディヤ・プラデーシュ州](../Page/マディヤ・プラデーシュ州.md "wikilink") () - [インドの州](https://ja.wikipedia.org/wiki/インドの州 "wikilink")
+  - [北マリアナ諸島](../Page/北マリアナ諸島.md "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")。
+  - [マディヤ・プラデーシュ州](../Page/マディヤ・プラデーシュ州.md "wikilink") () - [インドの州](https://ja.wikipedia.org/wiki/インドの州 "wikilink")
 
-<!-- end list -->
+### 企業
 
-  - 企業
-      - [マネーパートナーズ](https://ja.wikipedia.org/wiki/マネーパートナーズ "wikilink") () - 東京の証券会社。
-      - [マーティンエアー](https://ja.wikipedia.org/wiki/マーティンエアー "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")
-      - [ミズーリ・パシフィック鉄道](https://ja.wikipedia.org/wiki/ミズーリ・パシフィック鉄道 "wikilink") () の[報告記号](https://ja.wikipedia.org/wiki/報告記号 "wikilink")
+  - [マネーパートナーズ](https://ja.wikipedia.org/wiki/マネーパートナーズ "wikilink") () - 東京の証券会社。
+  - [マーティンエアー](https://ja.wikipedia.org/wiki/マーティンエアー "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")
+  - [ミズーリ・パシフィック鉄道](https://ja.wikipedia.org/wiki/ミズーリ・パシフィック鉄道 "wikilink") () の[報告記号](https://ja.wikipedia.org/wiki/報告記号 "wikilink")
 
-<!-- end list -->
+### 公的組織
 
-  - 公的組織
-      - [ソ連海軍歩兵](https://ja.wikipedia.org/wiki/海軍歩兵#ロシア "wikilink") ()
-      - [イギリス首都警察](../Page/ロンドン警視庁.md "wikilink") () - ロンドンの警察組織。
+  - [ソ連海軍歩兵](https://ja.wikipedia.org/wiki/海軍歩兵#ロシア "wikilink") ()
+  - [イギリス首都警察](../Page/ロンドン警視庁.md "wikilink") () - ロンドンの警察組織。
 
-<!-- end list -->
+### スポーツチーム
 
-  - スポーツチーム
-      - [マンダリンパイレーツ](../Page/愛媛マンダリンパイレーツ.md "wikilink") () - 愛媛の野球チーム。
-      - [ミッケリン・パロイリャート](../Page/ミッケリン・パロイリャート.md "wikilink") () - フィンランドのサッカークラブ。
+  - [マンダリンパイレーツ](../Page/愛媛マンダリンパイレーツ.md "wikilink") () - 愛媛の野球チーム。
+  - [ミッケリン・パロイリャート](../Page/ミッケリン・パロイリャート.md "wikilink") () - フィンランドのサッカークラブ。
 
-<!-- end list -->
+### 芸能グループ
 
-  - 芸能グループ
-      - [モデル・プロダクション](https://ja.wikipedia.org/wiki/モデル・プロダクション "wikilink") () - 関東の学生英語劇団。
-      - [モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink") () - イギリスのコメディグループ。
+  - [モデル・プロダクション](https://ja.wikipedia.org/wiki/モデル・プロダクション "wikilink") () - 関東の学生英語劇団。
+  - [モンティ・パイソン](../Page/モンティ・パイソン.md "wikilink") () - イギリスのコメディグループ。
 
-<!-- end list -->
+### フィクション
 
-  - フィクション
-      - [マテリアル・パズル](../Page/マテリアル・パズル.md "wikilink") () - [土塚理弘](../Page/土塚理弘.md "wikilink")の漫画。
-      - [マリオパーティ](../Page/マリオパーティシリーズ.md "wikilink") () - コンピュータゲーム。
-      - [マッチポイント](../Page/マッチポイント_\(映画\).md "wikilink") () - イギリス映画。
+  - [マテリアル・パズル](../Page/マテリアル・パズル.md "wikilink") () - [土塚理弘](../Page/土塚理弘.md "wikilink")の漫画。
+  - [マリオパーティ](../Page/マリオパーティシリーズ.md "wikilink") () - コンピュータゲーム。
+  - [マッチポイント](../Page/マッチポイント_\(映画\).md "wikilink") () - イギリス映画。
 
-<!-- end list -->
+### ラジオ番組
 
-  - ラジオ番組
-      - [ABCミュージックパラダイス](../Page/ABCミュージックパラダイス.md "wikilink") ()（[朝日放送](../Page/朝日放送ラジオ.md "wikilink")(ABC)）
-      - M☆P（Midnight Party） - 『[シンデレラドリーム ミッドナイト☆パーティー](../Page/シンデレラドリーム_ミッドナイト☆パーティー.md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）の略称。
+  - [ABCミュージックパラダイス](../Page/ABCミュージックパラダイス.md "wikilink") ()（[朝日放送](../Page/朝日放送ラジオ.md "wikilink")(ABC)）
+  - M☆P（Midnight Party） - 『[シンデレラドリーム ミッドナイト☆パーティー](../Page/シンデレラドリーム_ミッドナイト☆パーティー.md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）の略称。
 
-<!-- end list -->
+### 製品・規格
 
-  - 製品・規格
-      - [マルボロ・プロジェクト](https://ja.wikipedia.org/wiki/マクラーレン・MP4/1 "wikilink") (() - F1チーム[マクラーレン・メルセデス](https://ja.wikipedia.org/wiki/マクラーレン・メルセデス "wikilink")の車両名。MP4-22など。
-      - [MPEG](https://ja.wikipedia.org/wiki/MPEG "wikilink") Audio Layer。[MP3](../Page/MP3.md "wikilink"), [MP4](../Page/MP4.md "wikilink")など。
-      - [三菱ふそう・エアロスター MP系](../Page/三菱ふそう・エアロスター.md "wikilink") - [三菱自工](../Page/三菱自動車工業.md "wikilink")・[三菱ふそうの大型](../Page/三菱ふそうトラック・バス.md "wikilink")[バス](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")。
-      - [MP・ラッフェル](https://ja.wikipedia.org/wiki/MP・ラッフェル "wikilink") （[MP Lafer](https://ja.wikipedia.org/wiki/:en:MP_Lafer "wikilink")）- [フォルクスワーゲン・ビートル（空冷初代）をベースにした](../Page/フォルクスワーゲン・タイプ1.md "wikilink")[MGのレプリカ](../Page/MG_\(自動車\).md "wikilink")。
-      - [マイクロプラグ](https://ja.wikipedia.org/wiki/ウォークマン#マイクロプラグ "wikilink") - [ソニー](../Page/ソニー.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")で採用された[フォーンプラグ](../Page/フォーンプラグ.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")頃から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")夏までの機種で広く使用されていた。対応機種の多くは品番に「MP」が付けられていた。
-      - [マルチピクチャー形式](https://ja.wikipedia.org/wiki/マルチピクチャー形式 "wikilink")() - [カメラ映像機器工業会](https://ja.wikipedia.org/wiki/カメラ映像機器工業会 "wikilink")にて策定された、3Dやマルチアングル写真に対応するために複数画像を単独ファイルで扱うための[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")の画像形式。[拡張子](../Page/拡張子.md "wikilink")はMPO。
+  - [マルボロ・プロジェクト](https://ja.wikipedia.org/wiki/マクラーレン・MP4/1 "wikilink") (() - F1チーム[マクラーレン・メルセデス](https://ja.wikipedia.org/wiki/マクラーレン・メルセデス "wikilink")の車両名。MP4-22など。
+  - [MPEG](https://ja.wikipedia.org/wiki/MPEG "wikilink") Audio Layer。[MP3](../Page/MP3.md "wikilink"), [MP4](../Page/MP4.md "wikilink")など。
+  - [三菱ふそう・エアロスター MP系](../Page/三菱ふそう・エアロスター.md "wikilink") - [三菱自工](../Page/三菱自動車工業.md "wikilink")・[三菱ふそうの大型](../Page/三菱ふそうトラック・バス.md "wikilink")[バス](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")。
+  - [MP・ラッフェル](https://ja.wikipedia.org/wiki/MP・ラッフェル "wikilink") （[MP Lafer](https://ja.wikipedia.org/wiki/:en:MP_Lafer "wikilink")）- [フォルクスワーゲン・ビートル（空冷初代）をベースにした](../Page/フォルクスワーゲン・タイプ1.md "wikilink")[MGのレプリカ](../Page/MG_\(自動車\).md "wikilink")。
+  - [マイクロプラグ](https://ja.wikipedia.org/wiki/ウォークマン#マイクロプラグ "wikilink") - [ソニー](../Page/ソニー.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")で採用された[フォーンプラグ](../Page/フォーンプラグ.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")頃から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")夏までの機種で広く使用されていた。対応機種の多くは品番に「MP」が付けられていた。
+  - [マルチピクチャー形式](https://ja.wikipedia.org/wiki/マルチピクチャー形式 "wikilink")() - [カメラ映像機器工業会](https://ja.wikipedia.org/wiki/カメラ映像機器工業会 "wikilink")にて策定された、3Dやマルチアングル写真に対応するために複数画像を単独ファイルで扱うための[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")の画像形式。[拡張子](../Page/拡張子.md "wikilink")はMPO。
 
 ## mp
 

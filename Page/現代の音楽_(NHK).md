@@ -53,7 +53,7 @@
 
 ## 外部リンク
 
-  - [現代の音楽 - NHK](http://www4.nhk.or.jp/P446/) - 番組公式サイト
+  - [現代の音楽 - NHK](https://www4.nhk.or.jp/P446/) - 番組公式サイト
 
 [Category:NHK-FMの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK-FMの音楽番組 "wikilink") [Category:NHKラジオ第2の番組](https://ja.wikipedia.org/wiki/Category:NHKラジオ第2の番組 "wikilink") [Category:NHKのラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:NHKのラジオ音楽番組 "wikilink") [Category:クラシック音楽のラジオ番組](https://ja.wikipedia.org/wiki/Category:クラシック音楽のラジオ番組 "wikilink") [Category:現代音楽](https://ja.wikipedia.org/wiki/Category:現代音楽 "wikilink") [Category:1957年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1957年のラジオ番組_\(日本\) "wikilink")
 

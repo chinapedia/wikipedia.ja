@@ -383,12 +383,12 @@ N34N</p></td>
 <td><p>SBD-5</p></td>
 <td><p>28536<br />
 N670AM</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Douglas_SBD-5_Dauntless_-_Chino_Airshow_2014_(14159145537).jpg" title="fig:Douglas_SBD-5_Dauntless_-_Chino_Airshow_2014_(14159145537).jpg">Douglas_SBD-5_Dauntless_-_Chino_Airshow_2014_(14159145537).jpg</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:NX670AM_Douglas_SBD-5_Dauntless_Bu_No_28536_Planes_of_Fame_Air_Museum_(48905742661).jpg" title="fig:NX670AM_Douglas_SBD-5_Dauntless_Bu_No_28536_Planes_of_Fame_Air_Museum_(48905742661).jpg">NX670AM_Douglas_SBD-5_Dauntless_Bu_No_28536_Planes_of_Fame_Air_Museum_(48905742661).jpg</a></p></td>
 <td><p>アメリカ合衆国カリフォルニア州チノ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プレーンズ・オブ・フェイム航空博物館" title="wikilink">プレーンズ・オブ・フェイム航空博物館</a>(POF)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/プレーンズ・オブ・フェイム航空博物館" title="wikilink">プレーンズ・オブ・フェイム航空博物館</a>(POFAM)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能　</p></td>
-<td><p>定期的に開催される、POF主催のアニュアル・エアショーで<br />
+<td><p>定期的に開催される、POFAM主催のチノ・エアショーで<br />
 デモフライトを披露している。<a href="http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=670AM">21</a><a href="http://planesoffame.org/index.php?mact=staircraft,cntnt01,default,0&amp;cntnt01what=stplanes&amp;cntnt01alias=SBD-5&amp;cntnt01returnid=128">22</a></p></td>
 </tr>
 <tr class="even">
@@ -425,9 +425,9 @@ N670AM</p></td>
 <tr class="odd">
 <td><p>SBD-5</p></td>
 <td><p>54532<br />
-N82GA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:CAF_SBD_Dauntless_(9479450246).jpg" title="fig:CAF_SBD_Dauntless_(9479450246).jpg">CAF_SBD_Dauntless_(9479450246).jpg</a></p></td>
-<td><p>アメリカ合衆国<a href="../Page/ジョージア州.md" title="wikilink">ジョージア州</a><a href="https://ja.wikipedia.org/wiki/:en:Peachtree_City,_Georgia" title="wikilink">ピーチツリーシティ</a></p></td>
+NL82GA</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Douglas_SBD-5_Dauntless_‘54532_5’_(NL82GA)_(49410839876).jpg" title="fig:Douglas_SBD-5_Dauntless_‘54532_5’_(NL82GA)_(49410839876).jpg">Douglas_SBD-5_Dauntless_‘54532_5’_(NL82GA)_(49410839876).jpg</a></p></td>
+<td><p>アメリカ合衆国<a href="../Page/ジョージア州.md" title="wikilink">ジョージア州</a><a href="https://ja.wikipedia.org/wiki/:en:Peachtree_City,_Georgia" title="wikilink">ピーチツリー市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Commemorative_Air_Force" title="wikilink">記念空軍</a>(CAF)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>

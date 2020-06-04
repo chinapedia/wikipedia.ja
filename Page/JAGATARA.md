@@ -44,7 +44,7 @@
         JAGATARAと並行してTOMATOSにも在籍。解散後はイモンズを結成。
   - **[OTO](https://ja.wikipedia.org/wiki/OTO_\(ミュージシャン\) "wikilink")**（村田尚紀）（[ギター](../Page/ギター.md "wikilink")）（1981年〜）　
       -
-        加入前は後に[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")を結成するジュネのMARIA023に在籍。またJAGATARAと並行して[ビブラストーン](../Page/ビブラストーン.md "wikilink")で活動。1991年に[あがた森魚](../Page/あがた森魚.md "wikilink")の[雷蔵](https://ja.wikipedia.org/wiki/雷蔵 "wikilink")へ参加。1994年に南流石らとTANGOSを結成。2004年に元[ZELDAのサヨコらと](../Page/ZELDA_\(バンド\).md "wikilink")[サヨコオトナラ](https://ja.wikipedia.org/wiki/サヨコオトナラ "wikilink")を結成。
+        加入前は後に[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")を結成するジュネのMARIA023に在籍。またJAGATARAと並行して[ビブラストーン](../Page/ビブラストーン.md "wikilink")で活動。1991年に[あがた森魚](../Page/あがた森魚.md "wikilink")の[雷蔵](https://ja.wikipedia.org/wiki/雷蔵 "wikilink")へ参加。1994年に南潤子（後の[南流石](../Page/南流石.md "wikilink")）らとTANGOSを結成。2004年に元[ZELDAのサヨコらと](../Page/ZELDA_\(バンド\).md "wikilink")[サヨコオトナラ](https://ja.wikipedia.org/wiki/サヨコオトナラ "wikilink")を結成。
   - **[篠田昌已](../Page/篠田昌已.md "wikilink")**（[サックス](../Page/サクソフォーン.md "wikilink")）（1983年〜）　
       -
         加入前は[生活向上委員会](../Page/梅津和時.md "wikilink")、PUNGOなどに在籍。またJAGATARAと並行して[チンドン楽団](../Page/チンドン屋.md "wikilink")、[オルケスタ・デル・ビエント](https://ja.wikipedia.org/wiki/オルケスタ・デル・ビエント "wikilink")、コンポステラなどでも活動。
@@ -63,7 +63,7 @@
   - **エマーソン北村**（北村賢治）（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）（1988年〜）　
       -
         解散後は[MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")、[シアターブルック](https://ja.wikipedia.org/wiki/シアターブルック "wikilink")などで活動。
-  - **[南流石](../Page/南流石.md "wikilink")**（[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")&ダンス）（1986年〜）　
+  - **南潤子**（後の**[南流石](../Page/南流石.md "wikilink")**。[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")&ダンス）（1986年〜）　
       -
         コーラス兼ダンサー。解散後は主に振付師として活躍。1994年にOTOらとTANGOSを結成。2012年には[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")らと[Rabbitを結成](https://ja.wikipedia.org/wiki/Rabbit_\(バンド\) "wikilink")。
   - **ユカリ**（塚越優香）（コーラス&ダンス、サックス）（1985年〜1989年）　

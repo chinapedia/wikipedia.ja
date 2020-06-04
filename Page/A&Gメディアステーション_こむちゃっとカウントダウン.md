@@ -4510,6 +4510,27 @@ ClariS（録音）</p></td>
 <td><p>915</p></td>
 </tr>
 <tr class="even">
+<td><p>5月2日</p></td>
+<td><p>912</p></td>
+<td><p>南條愛乃<br />
+（リモート出演）</p></td>
+<td><p>916</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月9日</p></td>
+<td><p>913</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三澤紗千香" title="wikilink">三澤紗千香</a><br />
+（リモート出演）</p></td>
+<td><p>917</p></td>
+</tr>
+<tr class="even">
+<td><p>5月16日</p></td>
+<td><p>914</p></td>
+<td><p>halca<br />
+（リモート出演）</p></td>
+<td><p>918</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -4724,6 +4745,7 @@ ClariS（録音）</p></td>
 | halca                                                                    | えだまめ                   | 887 |                                                                                   |
 | 鬼頭明里                                                                     | 海外セレブ                  | 903 |                                                                                   |
 | 上田麗奈                                                                     | アイオライト                 | 906 |                                                                                   |
+| 三澤紗千香                                                                    | 自称「山梨の星」               | 913 |                                                                                   |
 |                                                                          |                        |     |                                                                                   |
 
 ## 年間ランキング1位獲得曲
@@ -4874,7 +4896,7 @@ ClariS（録音）</p></td>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a><br />
 <a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）<br />
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）<br />
 <a href="../Page/NBCラジオ佐賀.md" title="wikilink">NBCラジオ佐賀</a>（NBC）</p></td>
 <td><p>JRN・NRN系列<br />
 クロスネット</p></td>
@@ -4909,7 +4931,7 @@ ClariS（録音）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p>&lt;!-- 毎週金曜日<br />
 23:30 - 24:00</p></td>
 <td><p>--&gt;2017年10月6日 - 2020年3月27日</p></td>

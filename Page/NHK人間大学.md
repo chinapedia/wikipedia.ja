@@ -1,7 +1,7 @@
 > この記事は[NHK人間大学](https://ja.wikipedia.org/wiki/NHK人間大学)から翻訳されています。
 
 
-**NHK人間大学**（えぬえいちけいにんげんだいがく）は、[1992年](../Page/1992年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[NHK教育で放送された](../Page/NHK教育テレビジョン.md "wikilink")[教養番組](../Page/教養番組.md "wikilink")である。各界の著名人が自ら最も得意とするテーマを取り上げ、3か月にわたって講義する生涯学習番組である。
+**NHK人間大学**（えぬえいちけいにんげんだいがく）は、[1992年](../Page/1992年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[NHK教育で放送された](../Page/NHK教育テレビジョン.md "wikilink")[教養番組](../Page/教養番組.md "wikilink")。各界の著名人が自ら最も得意とするテーマを取り上げ、3か月にわたって講義する生涯学習番組であった。前身番組は[NHK市民大学](https://ja.wikipedia.org/wiki/NHK市民大学 "wikilink")、後継番組は[NHK人間講座](../Page/NHK人間講座.md "wikilink")。
 
 ## 放送時間
 
@@ -388,14 +388,20 @@ SF史に見るイメージの変遷<br />
 | 1998年9月28日 - 10月1日   | 新しい生命観の時代                    | [森岡正博](../Page/森岡正博.md "wikilink")                                                                                                                                                                                           |
 | 1998年12月28日 - 12月30日 | 心の闇の物語 ダニエル・キイスの世界           | [ダニエル・キイス](../Page/ダニエル・キイス.md "wikilink")                                                                                                                                                                                   |
 
+## スタッフ
+
+  - 題字：[榊莫山](../Page/榊莫山.md "wikilink")
+  - テーマ曲：[MALTA](https://ja.wikipedia.org/wiki/MALTA "wikilink")、[千住明](../Page/千住明.md "wikilink")（1996年～）
+
 ## 出典
 
 ## 参考文献
 
-  - [NHKアーカイブス](http://cgi2.nhk.or.jp/chronicle/list.cgi?q=NHK%E4%BA%BA%E9%96%93%E5%A4%A7%E5%AD%A6&o=1&np=20&or=d)
+  - [NHKアーカイブス](https://www2.nhk.or.jp/archives/chronicle/pg/page010-01.cgi?keyword=NHK%E4%BA%BA%E9%96%93%E5%A4%A7%E5%AD%A6)
 
 ## 関連番組
 
+  - [NHK市民大学](https://ja.wikipedia.org/wiki/NHK市民大学 "wikilink")
   - [NHK人間講座](../Page/NHK人間講座.md "wikilink")
   - [知るを楽しむ](../Page/知るを楽しむ.md "wikilink")
 

@@ -374,7 +374,7 @@
     ニュース番組「NEWS FIVE」のキャスター。美人な上、辛辣なコメントで人気を博す。帰宅途中に何者かに襲われ、犯人はかつて自分が不法投棄の取材をした際に現場を放映された古田だと主張する。古田を不起訴にした久利生や検察をマスコミを使って批判するが、二回目に襲われた時に古田ではないことに気づく。発言を撤回しようとするも、矢口からの圧力で阻止されてしまい、結果として古田は自殺してしまう。最後は久利生の説得で自責の念から、番組を降板する。
   - 矢口
     演 - [梅沢富美男](../Page/梅沢富美男.md "wikilink")
-    城西署刑事。不起訴となって釈放された古田が犯人ではないと気づいた後も、警察の面子を保つ為に古田を追いつめ、自殺に追い込む。更に事件の被害者である榎本に対しても圧力を掛け、口止めを図る。更には久利生の過去の逮捕歴をマスコミにリークしてしまう。最後は古田を自殺に追い込んだとして久利生から責められ、事務所の一同からの説得もあって暴行事件の再捜査を約束した。
+    城西署刑事。不起訴となって釈放された古田が犯人ではないと気づいた後も、警察の面子を保つ為に古田を追いつめ、自殺に追い込んでしまう。更に事件の被害者である榎本に対しても圧力を掛け、口止めを図る。更には久利生の過去の逮捕歴をマスコミにリークしてしまう。最後は古田を自殺に追い込んだとして久利生から叱責され、事務所の一同からの説得もあって暴行事件の再捜査を約束した。
   - 石本
     演 - [阿南健治](../Page/阿南健治.md "wikilink")
     城西署刑事。矢口とペアで行動。古田が真犯人ではないと気が付いたものの、矢口に黙っているよう指示され従う。
@@ -1054,7 +1054,7 @@
       - [HERO（特別編）](https://www.fujitv.co.jp/b_hp/150801premium/)
       - [HERO（2014年）](https://www.fujitv.co.jp/b_hp/HERO/)
 
-[Category:フジテレビ月曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:2014年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2014年のテレビドラマ "wikilink") [Category:東京を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:東京を舞台としたテレビドラマ "wikilink") [Category:山口県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:山口県を舞台とした作品 "wikilink") [Category:福田靖脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:福田靖脚本のテレビドラマ "wikilink") [Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:亜樹直](https://ja.wikipedia.org/wiki/Category:亜樹直 "wikilink") [Category:HERO_(テレビドラマ)](https://ja.wikipedia.org/wiki/Category:HERO_\(テレビドラマ\) "wikilink")
+[Category:フジテレビ月曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:2006年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2006年のテレビドラマ "wikilink") [Category:2014年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2014年のテレビドラマ "wikilink") [Category:東京を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:東京を舞台としたテレビドラマ "wikilink") [Category:山口県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:山口県を舞台としたテレビドラマ "wikilink") [Category:福田靖脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:福田靖脚本のテレビドラマ "wikilink") [Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:亜樹直](https://ja.wikipedia.org/wiki/Category:亜樹直 "wikilink") [Category:HERO_(テレビドラマ)](https://ja.wikipedia.org/wiki/Category:HERO_\(テレビドラマ\) "wikilink")
 
 1.
 2.  本編の再々放送が2007年10月15日から「チャンネルα」枠で行われ、その他のフジテレビ系列局でも順次再々放送が行われた。

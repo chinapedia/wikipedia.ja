@@ -103,8 +103,8 @@
 
 ## ネット局に関して
 
-  - 系列外の[青森テレビ](../Page/青森テレビ.md "wikilink") (ATV) と[テレビ岩手](../Page/テレビ岩手.md "wikilink") (TVI) でも時差ネットで放送されていた。ただし、テレビ岩手では途中打ち切りに終わった。
-  - 番組開始時にはフジテレビ系と[テレビ朝日系のクロスネット局だった](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink") (AKT) では、同時間帯で『[特捜最前線](../Page/特捜最前線.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の時差ネットが行われていたため、本番組は8日遅れの月曜22時00分から放送されていたが、[ANN離脱後の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")1987年4月からはフジテレビとの同時ネットで放送されるようになった。
+  - 系列外の[青森テレビ](../Page/青森テレビ.md "wikilink") (ATV) 、[テレビ岩手](../Page/テレビ岩手.md "wikilink") (TVI) 、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") (JRT) 、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") (RKC) でも時差ネットで放送されていた。ただし、テレビ岩手では途中打ち切りに終わった。
+  - 番組開始時にはフジテレビ系と[テレビ朝日系のクロスネット局だった](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink") (AKT) では、同時間帯で『[特捜最前線](../Page/特捜最前線.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）の時差ネットが行われていたため、本番組は8日遅れの月曜22時00分から放送されていたが、[ANN離脱後の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")1987年4月からはフジテレビとの同時ネットで放送されるようになった。
   - 当時[FNSに加盟していた](../Page/フジネットワーク.md "wikilink")[山形テレビ](../Page/山形テレビ.md "wikilink") (YTS) と[テレビ山口](../Page/テレビ山口.md "wikilink") (TYS) でも時差ネットで放送されていたが、いずれも途中で打ち切られた。
   - 当時九州地区にあった日本テレビ系とフジテレビ系のクロスネット局のうち、この番組を同時ネットしていたのは[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink") (KTS) だけである。[テレビ長崎](../Page/テレビ長崎.md "wikilink") (KTN) では8日遅れの月曜19時30分から、[テレビ大分](../Page/テレビ大分.md "wikilink") (TOS) では2週間遅れの日曜22時30分から、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink") (UMK) では2週間遅れの日曜午後から放送されていた。
   - 当時フジテレビ系とテレビ朝日系のクロスネット局だった[テレビ熊本](../Page/テレビ熊本.md "wikilink") (TKU) も、同時間帯で『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』（テレビ朝日）の同時ネットが行われていたため、1週間遅れの日曜午後に放送されていた。

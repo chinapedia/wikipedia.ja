@@ -266,7 +266,7 @@
 <td><p>2002年11月6日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/一人で大人_一人で子供/俺たちに明日は無い" title="wikilink">一人で大人 一人で子供/俺たちに明日は無い</a></strong></p></td>
 <td><p>20位</p></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/スクールデイズ_(2005年の映画))" title="wikilink">スクールデイズ</a>」主題歌 (一人で大人 一人で子供)</p></td>
+<td><p>映画「<a href="../Page/スクールデイズ_(2005年の映画).md" title="wikilink">スクールデイズ</a>」主題歌 (一人で大人 一人で子供)</p></td>
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
@@ -282,7 +282,7 @@
 <td><p>20位</p></td>
 <td><p><a href="../Page/本田技研工業.md" title="wikilink">Honda</a>「Do You Have a HONDA?」イメージソング<br />
 映画「<a href="../Page/ゼブラーマン.md" title="wikilink">ゼブラーマン</a>」主題歌<br />
-<a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>「<a href="https://ja.wikipedia.org/wiki/ゼロいち" title="wikilink">ゼロいち</a>」ジングル</p></td>
+<a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>「<a href="https://ja.wikipedia.org/wiki/ゼロいち" title="wikilink">ゼロいち</a>」ジングル</p></td>
 </tr>
 <tr class="odd">
 <td><p>23rd</p></td>

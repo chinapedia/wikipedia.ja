@@ -46,8 +46,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></p></td>
 <td><p>日本テレビ系列<br />
-<a href="https://ja.wikipedia.org/wiki/All-Nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
-<td><p>[1]</p></td>
+<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -66,7 +66,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -75,7 +75,7 @@
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a></p></td>
 <td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
-<td><p>[2]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -97,7 +97,7 @@
 <td><p><a href="../Page/テレビ信州.md" title="wikilink">テレビ信州</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
-<td><p>[3]</p></td>
+<td><p>[1]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -116,7 +116,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -135,7 +135,7 @@
 テレビ朝日系列</p></td>
 <td><p>遅れネット<br />
 →同時ネット</p></td>
-<td><p>1986年4月からネット開始[4]</p></td>
+<td><p>1986年4月からネット開始[2]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
@@ -152,8 +152,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/島根県.md" title="wikilink">島根県</a><br />
-<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
+<td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a><br />
+<a href="../Page/島根県.md" title="wikilink">島根県</a></p></td>
 <td><p><a href="../Page/日本海テレビジョン放送.md" title="wikilink">日本海テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -171,34 +171,34 @@
 <td><p><a href="../Page/山口放送.md" title="wikilink">山口放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
-<td><p>[5]</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a><br />
-<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/香川県.md" title="wikilink">香川県</a><br />
+<a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西日本放送テレビ" title="wikilink">西日本放送</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国放送" title="wikilink">四国放送</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -218,11 +218,19 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
+<td><p><a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
+<td><p>フジテレビ系列<br />
+日本テレビ系列</p></td>
+<td><p>遅れネット</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
 <td><p><a href="../Page/沖縄テレビ放送.md" title="wikilink">沖縄テレビ</a></p></td>
 <td><p>フジテレビ系列</p></td>
-<td><p>遅れネット</p></td>
 <td><p>1987年からネット開始</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -243,8 +251,5 @@
 
 [Category:1985年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの番組の歴史 "wikilink") [Category:日本テレビのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本テレビのドキュメンタリー番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:NTTグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:NTTグループ単独提供番組 "wikilink")
 
-1.  1991年9月まではテレビ朝日系列とのクロスネット局。
-2.  本番組放送時はフジテレビ系列で、その後1993年4月1日からテレビ朝日系列。
-3.  1991年3月まではテレビ朝日系列とのクロスネット局。なお本番組終了と同時期にテレビ朝日系列を脱退し、日本テレビ系列のフルネット局となった。
-4.  ネット開始当初は、6日遅れで[日曜日](../Page/日曜日.md "wikilink")の午前10:30 - 11:24に放送。1986年12月29日放送分は、2日遅れで同年[12月31日](../Page/12月31日.md "wikilink")の14:00 - 14:54に放送された。1987年4月6日から同時ネットに移行。なお、同時ネット開始前日には、日曜日10:30 - で同年[3月30日](../Page/3月30日.md "wikilink")放送分があり、2日続けて見られる現象が起きている。
-5.  1993年9月まではテレビ朝日系列とのクロスネット局。
+1.  本番組終了と同時に日本テレビ系列へ一本化。
+2.  ネット開始当初は、6日遅れで[日曜](../Page/日曜日.md "wikilink") 10:30 - 11:24に放送。1986年12月29日放送分は、2日遅れで同年[12月31日](../Page/12月31日.md "wikilink")の14:00 - 14:54に放送された。1987年4月6日から同時ネットに移行。なお、同時ネット開始前日には、日曜 10:30 - で同年[3月30日](../Page/3月30日.md "wikilink")放送分があり、2日続けて見られる現象が起きている。

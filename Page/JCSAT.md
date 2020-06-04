@@ -58,7 +58,7 @@
 <td><p>HS-601</p></td>
 <td><p>東経150度</p></td>
 <td><p>1997年<a href="../Page/12月2日.md" title="wikilink">12月2日</a></p></td>
-<td><p>　</p></td>
+<td><p>2017年7月[1]</p></td>
 <td><p>アリアン4</p></td>
 </tr>
 <tr class="even">
@@ -66,7 +66,7 @@
 （旧JCSAT-4A）<br />
 <JCSAT-6></p></td>
 <td><p>HS-601</p></td>
-<td><p>東経150度</p></td>
+<td><p>東経136度</p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
 <td><p>運用中</p></td>
 <td><p>アリアン2</p></td>
@@ -180,7 +180,7 @@ JCSAT-110R</strong><br />
 <tr class="even">
 <td><p><strong>JCSAT-16</strong></p></td>
 <td><p>SSL1300</p></td>
-<td><p>東経136度</p></td>
+<td><p>東経136度 予備衛星[2]</p></td>
 <td><p>2016年<a href="../Page/8月14日.md" title="wikilink">8月14日</a></p></td>
 <td><p>軌道上待機中</p></td>
 <td><p>ファルコン9</p></td>
@@ -194,12 +194,12 @@ JCSAT-110R</strong><br />
 <td><p>アリアン5</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>JCSAT-18</strong></p></td>
+<td><p><strong>JCSAT-1C</strong> <JCSAT-18></p></td>
 <td><p>ボーイング<br />
 BSS-702MP</p></td>
 <td><p>東経150度</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月16日.md" title="wikilink">12月16日</a></p></td>
-<td><p>軌道上待機中</p></td>
+<td><p>運用中[3]</p></td>
 <td><p>ファルコン9</p></td>
 </tr>
 </tbody>
@@ -207,7 +207,7 @@ BSS-702MP</p></td>
 
 ### 運用中の衛星
 
-  - [JCSAT-1B](https://ja.wikipedia.org/wiki/JCSAT-1B "wikilink") - Kuバンド専用衛星。国際通信事業に利用されている。
+  - JCSAT-1C - Kuバンド専用衛星。国際通信事業に利用されている。
   - JCSAT-6 - Kuバンド専用衛星。当初はJCSAT-4Aの呼称を持ち東経124度にて[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")で使用されていた。
   - JCSAT-110 - CS放送に特化した日本向けのKuバンド専用衛星。CS放送の[スカパー\!のサービスに利用されている](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")。別名・N-SAT-110。なお本衛星は、JSATと同じくスカパーJSATの前身である[宇宙通信](../Page/宇宙通信.md "wikilink")株式会社との共同利用機であった。同社による呼称「[SUPERBIRD](../Page/SUPERBIRD.md "wikilink") D」も用いている。
   - JCSAT-2A - Cバンドは国際通信に、Kuバンドは日本国内の企業内通信、SNGのほか、[ミュージックバード](../Page/ミュージックバード.md "wikilink")のPCM音声放送、SPACE DiVA両サービスにも利用されている。
@@ -250,3 +250,7 @@ BSS-702MP</p></td>
   - [宇宙・衛星事業-JSAT（スカパーJSAT株式会社）](http://www.jsat.net/jp/index.html)
 
 [Category:通信衛星](https://ja.wikipedia.org/wiki/Category:通信衛星 "wikilink") [Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:静止衛星](https://ja.wikipedia.org/wiki/Category:静止衛星 "wikilink")
+
+1.
+2.
+3.

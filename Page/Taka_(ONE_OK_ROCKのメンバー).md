@@ -284,7 +284,7 @@
 ## 外部リンク
 
   -
-  - [ONE OK ROCK official website](http://www.oneokrock.com/)
+  - [ONE OK ROCK official website](https://www.oneokrock.com/index.html)
 
   - [ONE OK ROCK - アミューズ オフィシャル ウェブサイト](https://artist.amuse.co.jp/artist/one_ok_rock/)
 

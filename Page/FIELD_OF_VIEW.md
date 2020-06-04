@@ -32,7 +32,7 @@
   - [2002年](../Page/2002年.md "wikilink")11月、東京（[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")）と大阪（[大阪厚生年金会館](https://ja.wikipedia.org/wiki/オリックス劇場#大阪厚生年金会館 "wikilink")）で解散ライブを行う。
   - [2002年](../Page/2002年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、この日[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で行われた追加公演をもって解散。その翌年に解散ライブの[DVD](../Page/DVD.md "wikilink")「[the FIELD OF VIEW FINAL LIVE “Live Horizon-SUPERIOR 2002 〜Gift of Memories〜”](https://ja.wikipedia.org/wiki/the_FIELD_OF_VIEW_FINAL_LIVE_“Live_Horizon-SUPERIOR_2002_〜Gift_of_Memories〜” "wikilink")」が発売された。
   - [2012年](../Page/2012年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [11月29日](../Page/11月29日.md "wikilink")、『[BEING LEGEND Live Tour 2012](http://beinggiza.com/beinglegend/index.html)』に参加するため一時的に再結成。但し会場・公演日により参加メンバーが異なるため、完全復活ではない（全公演に参加するのは浅岡雄也のみ、小田孝は全公演とも不参加）。中途で脱退した安部潤も一部の公演に参加しており、公演によっては小田を除く4人が参加。
-  - [2020年](../Page/2020年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、ボーカルを務める浅岡雄也の公式サイトより**[FIELD OF VIEW 25th Anniversary Extra Rare Best 2020](../Page/FIELD_OF_VIEW_25th_Anniversary_Extra_Rare_Best_2020.md "wikilink")**アルバム発売が決定された。同時、[5月15日](../Page/5月15日.md "wikilink")- [5月24日](../Page/5月24日.md "wikilink")、東京と大阪ライブも決定された。\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")、ボーカルを務める浅岡雄也の公式サイトより**[FIELD OF VIEW 25th Anniversary Extra Rare Best 2020](../Page/FIELD_OF_VIEW_25th_Anniversary_Extra_Rare_Best_2020.md "wikilink")**アルバム発売が決定された。同時、[5月15日](../Page/5月15日.md "wikilink")- [5月24日](../Page/5月24日.md "wikilink")、東京と大阪でのライブも決定された。\[1\]なお、ライブは延期が決定している。
 
 解散後、ボーカルの浅岡雄也は、ソロとしてアルバム・シングルなどをリリースし、ライブも行い、精力的に活動を続けている。小橋及び新津は2016年3月現在もビーイングに在籍している。
 
@@ -362,8 +362,8 @@
 | Best | 2002/10/9  | [Memorial BEST 〜Gift of Melodies〜](https://ja.wikipedia.org/wiki/Memorial_BEST_〜Gift_of_Melodies〜 "wikilink")                                       | 19位   |
 | Best | 2003/8/20  | [complete of FIELD OF VIEW at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_FIELD_OF_VIEW_at_the_BEING_studio "wikilink")             | 83位   |
 | Best | 2007/12/12 | [BEST OF BEST 1000 FIELD OF VIEW](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000#BEST_OF_BEST_1000_FIELD_OF_VIEW "wikilink")                       | 107位  |
-| Best | 2013/6/12  | [FIELD OF VIEW BEST HITS](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_BEST_HITS "wikilink")                                                         | 対象外   |
-| Best | 2020/5/13  | [FIELD OF VIEW 25th Anniversary Extra Rare Best 2020](../Page/FIELD_OF_VIEW_25th_Anniversary_Extra_Rare_Best_2020.md "wikilink")                    | TBA   |
+| Best | 2013/6/12  | [FIELD OF VIEW BEST HITS](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW_BEST_HITS "wikilink")                                                         | 圏外    |
+| Best | 2020/5/13  | [FIELD OF VIEW 25th Anniversary Extra Rare Best 2020](../Page/FIELD_OF_VIEW_25th_Anniversary_Extra_Rare_Best_2020.md "wikilink")                    | 11位   |
 
 ### DVD
 

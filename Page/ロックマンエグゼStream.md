@@ -1070,6 +1070,6 @@
 
 ## 外部リンク
 
-  - [ロックマンエグゼStream（テレビ東京公式）](http://www.tv-tokyo.co.jp/anime/rockmanexe_st/)
+  - [ロックマンエグゼStream（テレビ東京公式）](https://www.tv-tokyo.co.jp/anime/rockmanexe_st/)
 
 [Category:アニメ作品_ろ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ろ "wikilink") [Category:XEBEC](https://ja.wikipedia.org/wiki/Category:XEBEC "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:小学館集英社プロダクションのアニメ作品](https://ja.wikipedia.org/wiki/Category:小学館集英社プロダクションのアニメ作品 "wikilink") [Category:ロックマンエグゼ](https://ja.wikipedia.org/wiki/Category:ロックマンエグゼ "wikilink") [Category:ロックマンシリーズアニメ作品](https://ja.wikipedia.org/wiki/Category:ロックマンシリーズアニメ作品 "wikilink") [Category:2004年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2004年のテレビアニメ "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink") [Category:仮想世界を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:仮想世界を舞台としたアニメ作品 "wikilink")

@@ -56,7 +56,7 @@
   - [草野大輔](../Page/草野大輔.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 2005年大学生・社会人ドラフト8位で[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")に入団
   - [山中浩史](https://ja.wikipedia.org/wiki/山中浩史 "wikilink")（投手） - ドラフト6位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団
   - [平田真吾](https://ja.wikipedia.org/wiki/平田真吾 "wikilink")（投手） - ドラフト2位で[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")に入団
-  - [荒西祐大](https://ja.wikipedia.org/wiki/荒西祐大 "wikilink")（投手） - ドラフト3位で[オリックスバファローズ](https://ja.wikipedia.org/wiki/オリックスバファローズ "wikilink")に入団
+  - [荒西祐大](https://ja.wikipedia.org/wiki/荒西祐大 "wikilink")（投手） - ドラフト3位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
 
 ## 脚注
 

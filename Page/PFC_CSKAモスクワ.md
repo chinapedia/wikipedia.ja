@@ -73,9 +73,9 @@ CSKAモスクワの最大のライバルは[FCスパルタク・モスクワ](..
 
 </div>
 
-  - [2019年](../Page/2019年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))                        ※括弧内の国旗はその他保有国籍、もしくは市民権を示す。
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))                       ※括弧内の国旗はその他保有国籍、もしくは市民権を示す。
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -83,9 +83,9 @@ CSKAモスクワの最大のライバルは[FCスパルタク・モスクワ](..
 
   - [ヴィクトル・ゴンチャレンコ](https://ja.wikipedia.org/wiki/ヴィクトル・ゴンチャレンコ "wikilink")
 
-### ローン移籍選手
+### ローン移籍
 
-  - in
+  - out
 
 ## 永久欠番
 

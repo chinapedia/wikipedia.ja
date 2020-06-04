@@ -180,7 +180,7 @@ F2には上記以外に青森マンザーノ、岩手アウローラ、山形ガ
 
 ## 脚注
 
-[Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:サッカー漫画](https://ja.wikipedia.org/wiki/Category:サッカー漫画 "wikilink") [Category:愛媛県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:愛媛県を舞台とした作品 "wikilink")
+[Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:2001年の漫画](https://ja.wikipedia.org/wiki/Category:2001年の漫画 "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:サッカー漫画](https://ja.wikipedia.org/wiki/Category:サッカー漫画 "wikilink") [Category:愛媛県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:愛媛県を舞台とした漫画作品 "wikilink")
 
 1.
 2.

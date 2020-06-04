@@ -59,7 +59,7 @@
 
   - 読売テレビ
   - 日本テレビ
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")
   - [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")
   - [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")

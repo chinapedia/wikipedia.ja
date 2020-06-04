@@ -1347,7 +1347,7 @@ TOCT-29028</p></td>
   -
   -
   -
-[Category:日本の音楽・映像ソフト会社](https://ja.wikipedia.org/wiki/Category:日本の音楽・映像ソフト会社 "wikilink") [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパン "wikilink") [Category:東芝の歴史](https://ja.wikipedia.org/wiki/Category:東芝の歴史 "wikilink") [Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:かつて存在した日本のレコード会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード会社 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:1960年設立の企業](https://ja.wikipedia.org/wiki/Category:1960年設立の企業 "wikilink") [Category:2013年廃止の企業](https://ja.wikipedia.org/wiki/Category:2013年廃止の企業 "wikilink")
+[Category:EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパン "wikilink") [Category:日本の音楽・映像ソフト会社](https://ja.wikipedia.org/wiki/Category:日本の音楽・映像ソフト会社 "wikilink") [Category:東芝の歴史](https://ja.wikipedia.org/wiki/Category:東芝の歴史 "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:かつて存在した日本のレコード会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード会社 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:1960年設立の企業](https://ja.wikipedia.org/wiki/Category:1960年設立の企業 "wikilink") [Category:2013年廃止の企業](https://ja.wikipedia.org/wiki/Category:2013年廃止の企業 "wikilink")
 
 1.  登記簿上は東芝イーエムアイ
 2.  「[関連会社株式売却のお知らせ](http://www.toshiba.co.jp/about/ir/jp/news/20061214.htm)」 東芝、2006年12月14日。

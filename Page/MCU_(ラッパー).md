@@ -19,7 +19,7 @@
 
 映画『2番目の彼女』で俳優デビューの後、『明日の記憶』にも出演し、『[木更津キャッツアイ ワールドシリーズ](../Page/木更津キャッツアイ_ワールドシリーズ.md "wikilink")』では、出演だけでなく、木更津キャッツアイ feat.MCU名義でシングル「[シーサイド・ばいばい](../Page/シーサイド・ばいばい.md "wikilink")」をリリースしている。
 
-[2007年](../Page/2007年.md "wikilink")、[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の[川崎宗則](../Page/川崎宗則.md "wikilink")内野手が本拠地[福岡ヤフオク\!ドームのバッターボックスに立つ際に流れるテーマソングに](../Page/福岡ドーム.md "wikilink")「[サヨナラ](../Page/サヨナラ_\(MCUの曲\).md "wikilink")」という楽曲を提供した。また、3月7日のオープン戦（対[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")）が行われたヤフオクドームで、巣鴨のジャイロボーイと紹介され、背番号52のユニフォームを着て[始球式](../Page/始球式.md "wikilink")を行い、[仁志敏久](../Page/仁志敏久.md "wikilink")内野手に対しジャイローを投球した。6月には2年ぶりとなるアルバム『[A.K.A](../Page/A.K.A.md "wikilink")』を発売し、自身のHPをリニューアルした。9月からMCU TOUR 2007 『A.K.A HipHop Hallelujah』というアルバムツアーを福岡（Drum Be-1）、大阪（[BIGCAT](https://ja.wikipedia.org/wiki/BIGCAT "wikilink")）、東京（[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")）で行った。
+[2007年](../Page/2007年.md "wikilink")、[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の[川崎宗則](../Page/川崎宗則.md "wikilink")内野手が本拠地[福岡ヤフオク\!ドームのバッターボックスに立つ際に流れるテーマソングに](../Page/福岡ドーム.md "wikilink")「[サヨナラ](../Page/サヨナラ_\(MCUの曲\).md "wikilink")」という楽曲を提供した。また、3月7日のオープン戦（対[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")）が行われたヤフオクドームで、巣鴨のジャイロボーイと紹介され、背番号52のユニフォームを着て[始球式](../Page/始球式.md "wikilink")を行い、[仁志敏久](../Page/仁志敏久.md "wikilink")内野手に対しジャイローを投球した。6月には2年ぶりとなるアルバム『[A.K.A](../Page/A.K.A.md "wikilink")』を発売し、自身のHPをリニューアルした。9月からMCU TOUR 2007 『A.K.A HipHop Hallelujah』というアルバムツアーを福岡（Drum Be-1）、大阪（[BIGCAT](https://ja.wikipedia.org/wiki/BIGCAT "wikilink")）、東京（[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")）で行った。
 
 ## 人物・エピソード
 

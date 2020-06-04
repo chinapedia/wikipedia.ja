@@ -11,7 +11,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された5枚目のシングル「[ESCAPE](../Page/ESCAPE_\(MOON_CHILDの曲\).md "wikilink")」（テレビドラマ「[FiVE](../Page/FiVE.md "wikilink")」主題歌）が大ヒットし、[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得し、一躍人気バンドとなる。**ポストMr.Chlidren**として注目が集まるが、[1999年](../Page/1999年.md "wikilink")に解散した。解散後は佐々木と渡辺が後継バンド「[SCRIPT](../Page/SCRIPT.md "wikilink")」を結成。
 
-[2013年](../Page/2013年.md "wikilink")に佐々木、渡邊、樫山で再結成を発表。[1月14日](../Page/1月14日.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて再結成ライブを行った。\[3\]前売は発売日で完売となる。
+[2013年](../Page/2013年.md "wikilink")に佐々木、渡邊、樫山で再結成を発表。[1月14日](../Page/1月14日.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて再結成ライブを行った\[3\]。前売は発売日で完売となる。
 
 しかし再結成ライブ以降の活動はなく、[2014年](../Page/2014年.md "wikilink")後半に公式ウェブサイトが削除され活動停止状態であったが、[2017年](../Page/2017年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")に佐々木のブログ、ネットメディア等で[Do As Infinityと](../Page/Do_As_Infinity.md "wikilink")[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")を行うことが発表され\[4\]、[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[SHIBUYA O-EASTにて](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")「GREATEST HITS vol.1」のタイトルで4年ぶりのライブが行われた。この日は、2013年の再結成時には不参加であった秋山、デビューから解散ライブまでサポートメンバーを務めた[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")も出演し、解散以来初めてフルメンバーが集結してのライブとなった。
 
@@ -81,11 +81,11 @@
 
 :\***[都啓一](../Page/都啓一.md "wikilink")** ([SOPHIA](../Page/SOPHIA.md "wikilink")) キーボード
 
-:\***[KATSU](../Page/Salty-Sugar.md "wikilink")**（CROSS） コーラス、アコースティックギター
+:\***[KATSU](../Page/Salty-Sugar.md "wikilink")** (CROSS) コーラス、アコースティックギター
 
   - 2017年再結成時〜
 
-:\***河野圭**　キーボード
+:\***河野圭** キーボード
 
 ## ディスコグラフィ
 
@@ -159,11 +159,11 @@
 
   - [SCRIPT](../Page/SCRIPT.md "wikilink")
   - [Ricken's](../Page/Ricken's.md "wikilink")
-  - [浦清英](../Page/浦清英.md "wikilink"):デビュー時から「MY LITTLE RED BOOK」までの編曲・プロデュースを担当。
-  - [今井裕](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink"):「微熱」「ESCAPE」の編曲・プロデュースを担当。
-  - [明石昌夫](../Page/明石昌夫.md "wikilink"):「requiem for the man of nomad」シングル版の編曲・プロデュースを担当。
-  - [井上鑑](../Page/井上鑑.md "wikilink"):「POP AND DECADENCE」の編曲・プロデュースを担当。
-  - [河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink"): サポートキーボーディスト。
+  - [浦清英](../Page/浦清英.md "wikilink") - デビュー時から「MY LITTLE RED BOOK」までの編曲・プロデュースを担当。
+  - [今井裕](https://ja.wikipedia.org/wiki/今井裕_\(ミュージシャン\) "wikilink") -「微熱」「ESCAPE」の編曲・プロデュースを担当。
+  - [明石昌夫](../Page/明石昌夫.md "wikilink") -「requiem for the man of nomad」シングル版の編曲・プロデュースを担当。
+  - [井上鑑](../Page/井上鑑.md "wikilink") -「POP AND DECADENCE」の編曲・プロデュースを担当。
+  - [河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink") - サポートキーボーディスト
 
 ## 外部リンク
 

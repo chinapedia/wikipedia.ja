@@ -1,7 +1,7 @@
 > この記事は[スピードワゴンのキャラメル on the beach](https://ja.wikipedia.org/wiki/スピードワゴンのキャラメル_on_the_beach)から翻訳されています。
 
 
-**水曜[JUNK2](../Page/JUNK2.md "wikilink") スピードワゴンのキャラメル on the beach**（**スピードワゴンのキャラメル オンザビーチ**）は[TBSラジオを](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")に[JRN系列各局で毎週水曜](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")27:00〜28:00（木曜3:00〜4:00）に[深夜放送](../Page/深夜放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。お笑いコンビ、[スピードワゴン](../Page/スピードワゴン.md "wikilink")の[小沢一敬](../Page/小沢一敬.md "wikilink")と[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")がパーソナリティを務める。通称「**キャラオン**」。2002年10月10日放送開始、2007年3月28日放送終了。
+**水曜[JUNK2](../Page/JUNK2.md "wikilink") スピードワゴンのキャラメル on the beach**（**スピードワゴンのキャラメル オンザビーチ**）は[TBSラジオを](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[キー局](../Page/キー局.md "wikilink")に[JRN系列各局で毎週水曜](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")27:00〜28:00（木曜3:00〜4:00）に[深夜放送](../Page/深夜放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。お笑いコンビ、[スピードワゴン](../Page/スピードワゴン.md "wikilink")の[小沢一敬](../Page/小沢一敬.md "wikilink")と[井戸田潤](https://ja.wikipedia.org/wiki/井戸田潤 "wikilink")がパーソナリティを務める。通称「**キャラオン**」。2002年10月10日放送開始、2007年3月28日放送終了。
 
 ## 概要
 

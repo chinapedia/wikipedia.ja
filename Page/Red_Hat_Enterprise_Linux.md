@@ -56,7 +56,9 @@ PlotData=
 `     from:07/05/2019 till:05/11/2019 shift:(-12,$vshift) text:".0"`
 `   barset:break`
 `     color:production`
-`     from:05/11/2019 till:31/05/2029 shift:(-138,$vshift) text:".1"`
+`     from:05/11/2019 till:28/04/2020 shift:(-12,$vshift) text:".1"`
+`     color:production`
+`     from:28/04/2020 till:31/05/2029 shift:(-130,$vshift) text:".2"`
 
 ` bar:      `
 `   color:production mark:(line,white) align:left fontsize:M`
@@ -84,7 +86,10 @@ PlotData=
 `     from:30/10/2018 till:06/08/2019 shift:(-15,$vshift) text:".6"`
 `   barset:break`
 `     color:production`
-`     from:06/08/2019 till:30/06/2024 shift:(-75,$vshift) text:".7"`
+`     from:06/08/2019 till:31/03/2020 shift:(-15,$vshift) text:".7"`
+`   barset:break`
+`     color:production`
+`     from:31/03/2020 till:30/06/2024 shift:(-63,$vshift) text:".8"`
 
 ` bar:     `
 `   color:production mark:(line,white) align:left fontsize:M`

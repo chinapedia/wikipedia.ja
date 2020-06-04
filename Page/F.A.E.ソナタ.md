@@ -26,11 +26,13 @@
 
 しかし、このソナタはその後は注目されず、全集にも収録されなかった。「**ヴァイオリンソナタ第3番イ短調** [WoO](https://ja.wikipedia.org/wiki/WoO "wikilink")27」としてショット社から全曲が出版されたのは、シューマン没後100年を迎えた[1956年](../Page/1956年.md "wikilink")である。
 
+なお、近年は、第2楽章と第3楽章を入れ替えて演奏する場合がある。
+
 ### 曲の構成
 
 1.  Ziemlich langsam - Lebhaft
-2.  Intermezzo: Bewegt, doch nicht zu schnell
-3.  Scherzo: Allegro
+2.  Scherzo: Allegro
+3.  Intermezzo: Bewegt, doch nicht zu schnell
 4.  Finale. Markiertes, ziemlich lebhaftes Tempo
 
 ## 外部リンク

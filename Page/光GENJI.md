@@ -181,7 +181,7 @@ AKIRA &amp; KOHJI</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>1987年<a href="../Page/11月25日.md" title="wikilink">11月25日</a></p></td>
+<td><p>1987年<a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11月26日</a></p></td>
 <td><p><strong><a href="../Page/ガラスの十代.md" title="wikilink">ガラスの十代</a></strong></p></td>
 <td><p>Graduation</p></td>
 <td><p>1位</p></td>

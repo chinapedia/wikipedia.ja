@@ -35,6 +35,9 @@
         [西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の「[YOUNG MAN (Y.M.C.A.)](../Page/YOUNG_MAN_\(Y.M.C.A.\).md "wikilink")」にバックダンサーとして出演。
   - [24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")
   - [釣り・ロマンを求めて](../Page/釣り・ロマンを求めて.md "wikilink")（テレビ東京）
+  - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（[NHK衛星第2](https://ja.wikipedia.org/wiki/NHK衛星第2 "wikilink")）
+  - [スターどっきり（秘）報告](../Page/スターどっきり（秘）報告.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系）
+  - [ものまねバトル](../Page/ものまねバトル.md "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系）
 
 ### CM
 
@@ -50,6 +53,11 @@
   - ZIPPY\!\!（1995年10月、[近代映画社](../Page/近代映画社.md "wikilink")）ISBN 4764817748 撮影：[根本好伸](../Page/根本好伸.md "wikilink")
   - VIVACE（1996年7月、近代映画社）ISBN 4764817934 撮影：木村智哉　（オール水着写真集）
   - Best of シェイプUPガールズ（2000年12月、近代映画社）ISBN 4764819341
+
+### 映像
+
+  - 泥棒貴族ボディハンター キャット危機一髪（1996年、ミュージアム）
+  - ぷるるんwithシェイプUPガールズ（1997年1月、ジェイ・ウィング・[プレイステーション](https://ja.wikipedia.org/wiki/プレイステーション "wikilink")用ソフト）
 
 ## 脚注
 

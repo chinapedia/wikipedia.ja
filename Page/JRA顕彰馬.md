@@ -67,7 +67,8 @@
 <th><p>性</p></th>
 <th><p>生年</p></th>
 <th><p>選出年</p></th>
-<th><p>主な戦績など</p></th>
+<th><p>競走成績</p></th>
+<th><p>主な勝ち鞍など</p></th>
 </tr>
 </thead>
 <tbody>
@@ -77,6 +78,7 @@
 <td><p>牡</p></td>
 <td><p>1936年</p></td>
 <td><p>1984年</p></td>
+<td><p>21戦9勝</p></td>
 <td><p>1939年 - <a href="https://ja.wikipedia.org/wiki/東京優駿" title="wikilink">東京優駿</a>競走<br />
 1952年～1957年 - <a href="../Page/リーディングサイアー.md" title="wikilink">リーディングサイアー</a></p></td>
 </tr>
@@ -86,6 +88,7 @@
 <td><p>牡</p></td>
 <td><p>1938年</p></td>
 <td><p>1984年</p></td>
+<td><p>12戦9勝</p></td>
 <td><p>1941年 - <a href="../Page/皐月賞.md" title="wikilink">横濱農林省賞典4歳呼馬</a>、東京優駿競走、<a href="../Page/菊花賞.md" title="wikilink">京都農商省賞典4歳呼馬</a></p></td>
 </tr>
 <tr class="odd">
@@ -94,6 +97,7 @@
 <td><p>牝</p></td>
 <td><p>1940年</p></td>
 <td><p>1984年</p></td>
+<td><p>11戦11勝</p></td>
 <td><p>1943年 - 東京優駿競走、<a href="https://ja.wikipedia.org/wiki/優駿牝馬" title="wikilink">阪神優駿牝馬</a>、京都農商省賞典4歳呼馬</p></td>
 </tr>
 <tr class="even">
@@ -101,7 +105,9 @@
 <td><p>牝</p></td>
 <td><p>1944年</p></td>
 <td><p>1984年</p></td>
-<td><p>1947年 - <a href="../Page/皐月賞.md" title="wikilink">農林省賞典</a>、<a href="https://ja.wikipedia.org/wiki/優駿牝馬" title="wikilink">優駿牝馬</a></p></td>
+<td><p>30戦11勝</p></td>
+<td><p>1947年 - <a href="../Page/皐月賞.md" title="wikilink">農林省賞典</a>、<a href="https://ja.wikipedia.org/wiki/優駿牝馬" title="wikilink">優駿牝馬</a><br />
+<a href="https://ja.wikipedia.org/wiki/JRA賞#歴代年度代表馬" title="wikilink">年度代表馬</a>2頭の母</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -110,6 +116,7 @@
 <td><p>牡</p></td>
 <td><p>1946年</p></td>
 <td><p>1984年</p></td>
+<td><p>31戦21勝</p></td>
 <td><p>1949年 - <a href="../Page/皐月賞.md" title="wikilink">皐月賞</a>、<a href="../Page/菊花賞.md" title="wikilink">菊花賞</a><br />
 <a href="../Page/八大競走.md" title="wikilink">八大競走</a>勝ち馬7頭の父</p></td>
 </tr>
@@ -119,6 +126,7 @@
 <td><p>牡</p></td>
 <td><p>1948年</p></td>
 <td><p>1984年</p></td>
+<td><p>10戦10勝</p></td>
 <td><p>1951年 - 皐月賞、東京優駿</p></td>
 </tr>
 <tr class="odd">
@@ -127,6 +135,7 @@
 <td><p>牡</p></td>
 <td><p>1952年</p></td>
 <td><p>1990年</p></td>
+<td><p>21戦16勝</p></td>
 <td><p>1954年 - <a href="../Page/朝日杯フューチュリティステークス.md" title="wikilink">朝日杯3歳ステークス</a><br />
 1955年 - 菊花賞<br />
 1956年 - 天皇賞・春、<a href="https://ja.wikipedia.org/wiki/有馬記念" title="wikilink">中山グランプリ</a></p></td>
@@ -137,6 +146,7 @@
 <td><p>牡</p></td>
 <td><p>1953年</p></td>
 <td><p>1984年</p></td>
+<td><p>49戦21勝</p></td>
 <td><p>1956年 - 東京優駿<br />
 1957年 - <a href="https://ja.wikipedia.org/wiki/天皇賞" title="wikilink">天皇賞</a>・秋、<a href="https://ja.wikipedia.org/wiki/有馬記念" title="wikilink">有馬記念</a><br />
 1959年 - ワシントンバースデーハンデキャップ</p></td>
@@ -146,6 +156,7 @@
 <td><p>牡</p></td>
 <td><p>1954年</p></td>
 <td><p>1985年</p></td>
+<td><p>49戦26勝</p></td>
 <td><p>1957年 - <a href="../Page/読売カップ.md" title="wikilink">読売カップ</a>・春、<a href="../Page/セントライト記念.md" title="wikilink">セントライト記念</a>、読売カップ・秋</p></td>
 <td></td>
 </tr>
@@ -154,6 +165,7 @@
 <td><p>牡</p></td>
 <td><p>1957年</p></td>
 <td><p>1990年</p></td>
+<td><p>17戦12勝</p></td>
 <td><p>1960年 - 皐月賞、東京優駿<br />
 1962年 - 宝塚記念</p></td>
 <td></td>
@@ -164,6 +176,7 @@
 <td><p>牡</p></td>
 <td><p>1961年</p></td>
 <td><p>1984年</p></td>
+<td><p>19戦15勝</p></td>
 <td><p>1964年 - 皐月賞、東京優駿、菊花賞<br />
 1965年 - <a href="https://ja.wikipedia.org/wiki/宝塚記念" title="wikilink">宝塚記念</a>、天皇賞・秋、有馬記念</p></td>
 </tr>
@@ -172,6 +185,7 @@
 <td><p>牡</p></td>
 <td><p>1963年</p></td>
 <td><p>1990年</p></td>
+<td><p>43戦17勝</p></td>
 <td><p>1967年 - 天皇賞・春<br />
 1969年 - 有馬記念<br />
 1970年 - 宝塚記念、有馬記念</p></td>
@@ -182,6 +196,7 @@
 <td><p>牡</p></td>
 <td><p>1965年</p></td>
 <td><p>2004年</p></td>
+<td><p>29戦16勝</p></td>
 <td><p>1967年 - 朝日杯3歳ステークス<br />
 1969年 - 天皇賞・春、<a href="../Page/スプリンターズステークス.md" title="wikilink">英国フェア開催記念</a></p></td>
 <td></td>
@@ -191,6 +206,7 @@
 <td><p>牡</p></td>
 <td><p>1969年</p></td>
 <td><p>1985年</p></td>
+<td><p>63戦23勝</p></td>
 <td><p>1974年 - <a href="../Page/中山大障害.md" title="wikilink">中山大障害</a>・春、中山大障害・秋、<a href="../Page/京都大障害.md" title="wikilink">京都大障害</a>・秋<br />
 1975年 - 中山大障害・春、京都大障害・春、中山大障害・秋、京都大障害・秋</p></td>
 <td></td>
@@ -201,6 +217,7 @@
 <td><p>牡</p></td>
 <td><p>1970年</p></td>
 <td><p>1984年</p></td>
+<td><p>22戦13勝</p></td>
 <td><p>1973年 - 皐月賞<br />
 1974年 - 宝塚記念</p></td>
 </tr>
@@ -209,6 +226,7 @@
 <td><p>牡</p></td>
 <td><p>1973年</p></td>
 <td><p>1984年</p></td>
+<td><p>15戦10勝</p></td>
 <td><p>1976年 - 皐月賞、有馬記念<br />
 1977年 - 宝塚記念</p></td>
 <td></td>
@@ -218,6 +236,7 @@
 <td><p>牡</p></td>
 <td><p>1973年</p></td>
 <td><p>1990年</p></td>
+<td><p>18戦11勝</p></td>
 <td><p>1975年 - <a href="../Page/阪神ジュベナイルフィリーズ.md" title="wikilink">阪神3歳ステークス</a><br />
 1977年 - 天皇賞・春、有馬記念</p></td>
 <td></td>
@@ -227,6 +246,7 @@
 <td><p>牡</p></td>
 <td><p>1974年</p></td>
 <td><p>1990年</p></td>
+<td><p>8戦8勝</p></td>
 <td><p>1976年 - 朝日杯3歳ステークス</p></td>
 <td></td>
 </tr>
@@ -236,6 +256,7 @@
 <td><p>牡</p></td>
 <td><p>1980年</p></td>
 <td><p>1986年</p></td>
+<td><p>15戦8勝</p></td>
 <td><p>1983年 - 皐月賞、東京優駿、菊花賞<br />
 1984年 - 天皇賞・秋</p></td>
 </tr>
@@ -245,6 +266,7 @@
 <td><p>牡</p></td>
 <td><p>1981年</p></td>
 <td><p>1987年</p></td>
+<td><p>16戦13勝</p></td>
 <td><p>1984年 - 皐月賞、東京優駿、菊花賞、有馬記念<br />
 1985年 - 天皇賞・春、<a href="https://ja.wikipedia.org/wiki/ジャパンカップ" title="wikilink">ジャパンカップ</a>、有馬記念</p></td>
 </tr>
@@ -254,6 +276,7 @@
 <td><p>牝</p></td>
 <td><p>1983年</p></td>
 <td><p>1987年</p></td>
+<td><p>12戦9勝</p></td>
 <td><p>1986年 - <a href="https://ja.wikipedia.org/wiki/桜花賞" title="wikilink">桜花賞</a>、優駿牝馬、<a href="../Page/エリザベス女王杯.md" title="wikilink">エリザベス女王杯</a></p></td>
 </tr>
 <tr class="even">
@@ -262,6 +285,7 @@
 <td><p>牡</p></td>
 <td><p>1985年</p></td>
 <td><p>1991年</p></td>
+<td><p>32戦22勝</p></td>
 <td><p>1988年 - 有馬記念<br />
 1989年 - <a href="../Page/マイルチャンピオンシップ.md" title="wikilink">マイルチャンピオンシップ</a><br />
 1990年 - <a href="https://ja.wikipedia.org/wiki/安田記念" title="wikilink">安田記念</a>、有馬記念</p></td>
@@ -272,6 +296,7 @@
 <td><p>牡</p></td>
 <td><p>1987年</p></td>
 <td><p>1994年</p></td>
+<td><p>21戦12勝</p></td>
 <td><p>1990年 - 菊花賞<br />
 1991年 - 天皇賞・春<br />
 1992年 - 天皇賞・春<br />
@@ -283,6 +308,7 @@
 <td><p>牡</p></td>
 <td><p>1988年</p></td>
 <td><p>1995年</p></td>
+<td><p>12戦9勝</p></td>
 <td><p>1991年 - 皐月賞、東京優駿<br />
 1992年 - ジャパンカップ<br />
 1993年 - 有馬記念</p></td>
@@ -293,6 +319,7 @@
 <td><p>牡</p></td>
 <td><p>1991年</p></td>
 <td><p>1998年</p></td>
+<td><p>21戦12勝</p></td>
 <td><p>1993年 - 朝日杯3歳ステークス<br />
 1994年 - 皐月賞、東京優駿、菊花賞、有馬記念</p></td>
 </tr>
@@ -302,6 +329,7 @@
 <td><p>牡</p></td>
 <td><p>1994年</p></td>
 <td><p>1999年</p></td>
+<td><p>13戦11勝</p></td>
 <td><p>1997年 - マイルチャンピオンシップ、<a href="../Page/スプリンターズステークス.md" title="wikilink">スプリンターズステークス</a><br />
 1998年 - 安田記念、<a href="../Page/ジャック・ル・マロワ賞.md" title="wikilink">ジャック・ル・マロワ賞</a>、マイルチャンピオンシップ</p></td>
 </tr>
@@ -311,6 +339,7 @@
 <td><p>牡</p></td>
 <td><p>1995年</p></td>
 <td><p>2014年</p></td>
+<td><p>11戦8勝</p></td>
 <td><p>1998年 - <a href="../Page/NHKマイルカップ.md" title="wikilink">NHKマイルカップ</a>、ジャパンカップ<br />
 1999年 - <a href="../Page/サンクルー大賞.md" title="wikilink">サンクルー大賞</a></p></td>
 </tr>
@@ -320,6 +349,7 @@
 <td><p>牡</p></td>
 <td><p>1996年</p></td>
 <td><p>2004年</p></td>
+<td><p>26戦14勝</p></td>
 <td><p>1999年 - 皐月賞<br />
 2000年 - 天皇賞・春、宝塚記念、天皇賞・秋、ジャパンカップ、有馬記念<br />
 2001年 - 天皇賞・春</p></td>
@@ -330,6 +360,7 @@
 <td><p>牡</p></td>
 <td><p>2002年</p></td>
 <td><p>2008年</p></td>
+<td><p>14戦12勝</p></td>
 <td><p>2005年 - 皐月賞、東京優駿、菊花賞<br />
 2006年 - 天皇賞・春、宝塚記念、ジャパンカップ、有馬記念<br />
 2012年～ - リーディングサイアー</p></td>
@@ -340,6 +371,7 @@
 <td><p>牝</p></td>
 <td><p>2004年</p></td>
 <td><p>2011年</p></td>
+<td><p>26戦10勝</p></td>
 <td><p>2006年 - 阪神ジュベナイルフィリーズ<br />
 2007年 - 東京優駿<br />
 2008年 - 安田記念、天皇賞・秋<br />
@@ -351,6 +383,7 @@
 <td><p>牡</p></td>
 <td><p>2008年</p></td>
 <td><p>2018年</p></td>
+<td><p>19戦13勝</p></td>
 <td><p>2012年 - スプリンターズステークス、<a href="../Page/香港スプリント.md" title="wikilink">香港スプリント</a><br />
 2013年 - <a href="https://ja.wikipedia.org/wiki/高松宮記念_(競馬)" title="wikilink">高松宮記念</a>、安田記念、スプリンターズステークス、香港スプリント</p></td>
 </tr>
@@ -360,6 +393,7 @@
 <td><p>牡</p></td>
 <td><p>2008年</p></td>
 <td><p>2015年</p></td>
+<td><p>21戦12勝</p></td>
 <td><p>2011年 - 皐月賞、東京優駿、菊花賞、有馬記念<br />
 2012年 - 宝塚記念<br />
 2013年 - 有馬記念</p></td>
@@ -370,6 +404,7 @@
 <td><p>牝</p></td>
 <td><p>2009年</p></td>
 <td><p>2016年</p></td>
+<td><p>19戦10勝</p></td>
 <td><p>2012年 - 桜花賞、優駿牝馬、<a href="https://ja.wikipedia.org/wiki/秋華賞" title="wikilink">秋華賞</a>、ジャパンカップ<br />
 2013年 - ジャパンカップ<br />
 2014年 - <a href="../Page/ドバイシーマクラシック.md" title="wikilink">ドバイシーマクラシック</a>、有馬記念</p></td>

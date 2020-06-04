@@ -13,8 +13,7 @@
 
 ## キャスター
 
-  - 柴田務（1988年4月 - 1990年3月、『OHK報道センター6:00』より続投）
-  - [黒住祐介](https://ja.wikipedia.org/wiki/黒住祐介 "wikilink")、[井ノ上美恵子](https://ja.wikipedia.org/wiki/井ノ上美恵子 "wikilink")（1990年4月 - 降板時期不明）
+  - [黒住祐介](https://ja.wikipedia.org/wiki/黒住祐介 "wikilink")、[井ノ上美恵子](https://ja.wikipedia.org/wiki/井ノ上美恵子 "wikilink")（1988年4月 - 降板時期不明）
   - 岡阪美佐夫、小林朗子（登板時期不明 - 1997年3月）
 
 ## 放送時間

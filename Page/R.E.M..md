@@ -124,7 +124,7 @@
   - 1984年 11月5日 [早稲田大学](../Page/早稲田大学.md "wikilink")、8日 [青山学院大学](../Page/青山学院大学.md "wikilink")、10日 [横浜国立大学](../Page/横浜国立大学.md "wikilink")、11日 [専修大学](../Page/専修大学.md "wikilink")
   - 1989年 1月26日・27日 MZA有明
   - 1995年 2月1日・2日 [日本武道館](../Page/日本武道館.md "wikilink")
-  - 2005年 3月16日 [日本武道館](../Page/日本武道館.md "wikilink")、17日 [愛知県芸術劇場](../Page/愛知県芸術劇場.md "wikilink")大ホール、18日 [グランキューブ大阪](https://ja.wikipedia.org/wiki/グランキューブ大阪 "wikilink")メインホール (いずれの公演も[doa](https://ja.wikipedia.org/wiki/doa "wikilink")がオープニングアクトを務めた。)
+  - 2005年 3月16日 [日本武道館](../Page/日本武道館.md "wikilink")、17日 [愛知県芸術劇場](../Page/愛知県芸術劇場.md "wikilink")大ホール、18日 [グランキューブ大阪](https://ja.wikipedia.org/wiki/グランキューブ大阪 "wikilink")メインホール (いずれの公演も[doaがオープニングアクトを務めた](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")。)
 
 ## エピソード
 

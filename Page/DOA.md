@@ -20,7 +20,7 @@
 
 ## doa
 
-  - [doa (ミュージシャン)](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")。[GIZA studio所属のミュージシャン](../Page/GIZA_studio.md "wikilink")。
+  - [doa (バンド)](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")。[GIZA studio所属のミュージシャン](../Page/GIZA_studio.md "wikilink")。
 
 ## Doa
 

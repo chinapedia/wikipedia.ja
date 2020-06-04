@@ -75,7 +75,7 @@
 
 ## 外部リンク
 
-  - [NHKオーディオドラマ（「FMシアター」ページ）](http://www.nhk.or.jp/audio/)
+  - [NHKオーディオドラマ（「FMシアター」ページ）](https://www.nhk.or.jp/audio/)
 
 [Category:NHK-FMのラジオドラマ](https://ja.wikipedia.org/wiki/Category:NHK-FMのラジオドラマ "wikilink") [Category:1985年のラジオドラマ](https://ja.wikipedia.org/wiki/Category:1985年のラジオドラマ "wikilink") [Category:1985年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のラジオ番組_\(日本\) "wikilink")
 

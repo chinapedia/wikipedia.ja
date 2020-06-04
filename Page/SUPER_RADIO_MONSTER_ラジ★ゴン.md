@@ -17,7 +17,7 @@
 
 ## パーソナリティ
 
-### 現在
+### 番組終了時点（2020年3月）
 
   - 月曜 - [BUTCH](../Page/BUTCH.md "wikilink")（2013年3月までは火曜も担当していた。）、[小雪](https://ja.wikipedia.org/wiki/小雪_\(タレント\) "wikilink")（女優の小雪とは別人。）
   - 火曜 - [岡本ヒロミツ](https://ja.wikipedia.org/wiki/岡本ヒロミツ "wikilink")（2017年10月 - ）、[斉藤ふみ](../Page/斉藤ふみ.md "wikilink")（2013年3月までは月曜も担当していた。）

@@ -349,7 +349,7 @@
     演：[紺野美沙子](../Page/紺野美沙子.md "wikilink")
     第一部に登場した吉次一族の末裔。男装している。
     商いの傍ら奥州藤原氏のために各地の情報を集める。後白河法皇や頼朝とも面会している。
-  - 倫子（のりこ）
+  - 倫子（りんし）
     演：[真野響子](../Page/真野響子.md "wikilink")
     秀衡の正室で泰衡の母、基成の娘。
     基成と秀衡の不仲に心を悩ませる。
@@ -531,7 +531,7 @@
 
 ## 放送
 
-特記が無い限り、NHKクロニクルのNHK番組表ヒストリー\[[http://www.nhk.or.jp/archives/chronicle/\]で確認](http://www.nhk.or.jp/archives/chronicle/%5Dで確認)。
+特記が無い限り、NHKクロニクルのNHK番組表ヒストリー\[[https://www.nhk.or.jp/archives/chronicle/\]で確認](https://www.nhk.or.jp/archives/chronicle/%5Dで確認)。
 
 ### 通常放送時間
 

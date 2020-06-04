@@ -9,7 +9,7 @@
 
 記事の内容は[国際](https://ja.wikipedia.org/wiki/国際 "wikilink")問題が主体だが、日本国内の[政治](../Page/政治.md "wikilink")問題（[教育](../Page/日本の教育.md "wikilink")、憲法、[食料](../Page/食品.md "wikilink")、[自然災害](../Page/災害.md "wikilink")、[治安](../Page/治安.md "wikilink")など）や[歴史](../Page/日本の歴史.md "wikilink")、[軍事](../Page/軍事.md "wikilink")、[皇室](../Page/皇室.md "wikilink")、[メディアなどといった幅広い分野をも扱う](../Page/報道機関.md "wikilink")。執筆陣の主な論調は僚誌の[週刊ポスト](../Page/週刊ポスト.md "wikilink")同様、[保守](../Page/保守.md "wikilink")の傾向にある。[中華人民共和国](../Page/中華人民共和国.md "wikilink")・[大韓民国](../Page/大韓民国.md "wikilink")の現状（[人権](../Page/人権.md "wikilink")、[ネット検閲](../Page/ネット検閲.md "wikilink")、軍備強化など）や[反日](../Page/反日.md "wikilink")運動などに批判的な姿勢をとる。特に[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")（北朝鮮）関連の記事（[金日成](../Page/金日成.md "wikilink")・[金正日](https://ja.wikipedia.org/wiki/金正日 "wikilink")父子の“伝説”など）についての特集記事が多い。
 
-主力記事の一つとなっている[小林よしのり](../Page/小林よしのり.md "wikilink")の「[新・ゴーマニズム宣言](https://ja.wikipedia.org/wiki/新・ゴーマニズム宣言 "wikilink")」や、[落合信彦](../Page/落合信彦.md "wikilink")、[大前研一](../Page/大前研一.md "wikilink")等の連載のため、保守系といっても一般的な「[親米](../Page/親米.md "wikilink")[財界](https://ja.wikipedia.org/wiki/財界 "wikilink")寄り」の『[諸君\!](../Page/諸君!.md "wikilink")』や『[正論](../Page/正論_\(雑誌\).md "wikilink")』などとはかなり論調・主張が異なっており、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")や[自由民主党を批判する要素もかなりの部分で持つ雑誌と言える](../Page/自由民主党_\(日本\).md "wikilink")。しかしそれと同時に[革新](../Page/革新.md "wikilink")・[進歩主義の行う批判とは距離を置く](https://ja.wikipedia.org/wiki/進歩主義_\(政治\) "wikilink")。一方で国際問題を[軍事力](../Page/軍事力.md "wikilink")を中心に論じ、[日本国憲法](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")に否定的など従来の保守主義と同じ点も多い。
+主力記事の一つとなっている[小林よしのり](../Page/小林よしのり.md "wikilink")の「[新・ゴーマニズム宣言](https://ja.wikipedia.org/wiki/新・ゴーマニズム宣言 "wikilink")」や、[落合信彦](../Page/落合信彦.md "wikilink")の「新世界大戦の時代」、[大前研一](../Page/大前研一.md "wikilink")の「人間力の時代」等が連載されているため、保守系といっても一般的な「[親米](../Page/親米.md "wikilink")[財界](https://ja.wikipedia.org/wiki/財界 "wikilink")寄り」の『[諸君\!](../Page/諸君!.md "wikilink")』や『[正論](../Page/正論_\(雑誌\).md "wikilink")』などとはかなり論調・主張が異なっており、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")や[自由民主党を批判する要素もかなりの部分で持つ雑誌と言える](../Page/自由民主党_\(日本\).md "wikilink")。しかしそれと同時に[革新](../Page/革新.md "wikilink")・[進歩主義の行う批判とは距離を置く](https://ja.wikipedia.org/wiki/進歩主義_\(政治\) "wikilink")。一方で国際問題を[軍事力](../Page/軍事力.md "wikilink")を中心に論じ、[日本国憲法](https://ja.wikipedia.org/wiki/日本国憲法 "wikilink")に否定的など従来の保守主義と同じ点も多い。
 
 ## 2012年12月現在の連載
 
@@ -22,8 +22,8 @@
   - [落合信彦](../Page/落合信彦.md "wikilink") 『新世界大戦の時代』
   - [大前研一](../Page/大前研一.md "wikilink") 『人間力の時代』
   - [佐藤優](https://ja.wikipedia.org/wiki/佐藤優_\(外交官\) "wikilink") 『SAPIO intelligence database（世界を読むための情報羅針盤）』
-  - [深川峻太郎](https://ja.wikipedia.org/wiki/深川峻太郎 "wikilink") 『日本人のホコロビ』
-  - [ウィリー・ラム](https://ja.wikipedia.org/wiki/ウィリー・ラム "wikilink") 『北京探題』
+  - 深川峻太郎（フリーライター・岡田仁志のペンネーム） 『日本人のホコロビ』
+  - ウィリー・ウォ＝ラップ・ラム 『北京探題』
   - 『SAPIO'S EYE』
   - [亀井肇](https://ja.wikipedia.org/wiki/亀井肇 "wikilink") 『SAPIO語身術』
   - [川本三郎](../Page/川本三郎.md "wikilink") 『平成百色眼鏡 見たり読んだり』

@@ -926,7 +926,7 @@
 <td><p>峯尾基三</p></td>
 <td><p>小澤啓一</p></td>
 <td><p>5月10日</p></td>
-<td><p><a href="../Page/堀越陽子.md" title="wikilink">堀越陽子</a>、成瀬正、河合絃司、千葉美香、戸塚孝、星野晃、<a href="https://ja.wikipedia.org/wiki/福永幸男" title="wikilink">福永幸男</a>、遠山孝一、今村文則、<a href="https://ja.wikipedia.org/wiki/明石憬子" title="wikilink">明石憬子</a>、<a href="https://ja.wikipedia.org/wiki/中村玉江" title="wikilink">中村玉江</a>、<a href="https://ja.wikipedia.org/wiki/伊藤恵子" title="wikilink">伊藤恵子</a>、<a href="https://ja.wikipedia.org/wiki/大石直子" title="wikilink">大石直子</a></p></td>
+<td><p><a href="../Page/堀越陽子.md" title="wikilink">堀越陽子</a>、成瀬正、河合絃司、千葉美香、戸塚孝、星野晃、<a href="https://ja.wikipedia.org/wiki/福永幸男" title="wikilink">福永幸男</a>、遠山孝一、今村文則、<a href="https://ja.wikipedia.org/wiki/明石憬子" title="wikilink">明石憬子</a>、<a href="https://ja.wikipedia.org/wiki/中村玉江" title="wikilink">中村玉江</a>、<a href="https://ja.wikipedia.org/wiki/伊藤恵子_(女優)" title="wikilink">伊藤恵子</a>、<a href="https://ja.wikipedia.org/wiki/大石直子" title="wikilink">大石直子</a></p></td>
 <td><p>13.0%</p></td>
 <td><p>イッペイ(2)</p></td>
 </tr>

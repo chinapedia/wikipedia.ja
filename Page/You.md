@@ -8,7 +8,6 @@
 ## 人物
 
   - [YOU (タレント)](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink") - 日本のタレント、女優、声優、元歌手。
-  - YOU - 日本のギタリストで、Gackt-Jobでギター及びバイオリンを担当。
   - [You (Janne Da Arc)](../Page/You_\(Janne_Da_Arc\).md "wikilink") - 日本のロックバンドJanne Da Arcのメンバーで、ギターを担当する。
   - [you.](https://ja.wikipedia.org/wiki/you. "wikilink") - 日本のAV女優。
   - [@YOU](../Page/@YOU.md "wikilink") - 日本のAV女優。

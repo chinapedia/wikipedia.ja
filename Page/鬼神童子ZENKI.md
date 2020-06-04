@@ -231,7 +231,7 @@
 
 ## テレビアニメ
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から同年[12月25日](../Page/12月25日.md "wikilink")まで、毎週月曜日18：00～18：30（[JST](https://ja.wikipedia.org/wiki/日本標準時間 "wikilink")）に放映された。全51話。それまで[テレビせとうち制作アニメ枠](../Page/テレビせとうち制作アニメ枠.md "wikilink")だったこの時間帯は、本番組からテレビ東京の制作枠に戻り現在に至っている。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系で[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から同年[12月25日](../Page/12月25日.md "wikilink")まで、毎週月曜日18：00～18：30（[JST](https://ja.wikipedia.org/wiki/日本標準時間 "wikilink")）に放映された。全51話。それまで[テレビせとうち制作アニメ枠](../Page/テレビせとうち制作アニメ枠.md "wikilink")だったこの時間帯は、本番組からテレビ東京制作枠に戻り、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までアニメの放送が継続することになる（テレビせとうち制作枠の『[しましまとらのしまじろう](../Page/しましまとらのしまじろう.md "wikilink")』は月曜朝7：35～8：05枠に移動した）。
 
 基本設定は原作と同じだが、ストーリーや登場キャラクター、憑依獣はオリジナルが多い。特に後鬼の設定は原作と大きく異なる。
 
@@ -477,7 +477,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>日曜 17:00 - 17:30</p></td>
 <td></td>

@@ -475,7 +475,7 @@
   -
     イラヨイ月夜浜 [大島保克](https://ja.wikipedia.org/wiki/大島保克 "wikilink")（作曲）
     旅の終わりに聞く歌は [田端義夫](../Page/田端義夫.md "wikilink")（作詞・作曲）
-    BIRTHDAY CAKE [Misia](https://ja.wikipedia.org/wiki/Misia "wikilink")（作詞・作曲）
+    BIRTHDAY CAKE [Misia](https://ja.wikipedia.org/wiki/MISIA "wikilink")（作詞・作曲）
 
 <!-- end list -->
 
@@ -526,8 +526,8 @@
   - [Panasonic 3D Music Studio](https://ja.wikipedia.org/wiki/Panasonic_3D_Music_Studio "wikilink")（[BS朝日](../Page/ビーエス朝日.md "wikilink")、2011年3月14日～18日）出演
   - [課外授業 ようこそ先輩](../Page/課外授業_ようこそ先輩.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2012年1月7日）先輩として母校・登野城小の校歌を生徒たちとレコーディング
   - BEGINの音色旅団 デビュー25年目の真実（BS朝日、2015年3月29日）
-  - [SONGS (テレビ番組)](../Page/SONGS_\(テレビ番組\).md "wikilink")(2019年3月9日、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink"))
-  - [アナザースカイII](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink") ([日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2019年7月12日・19日) [RBC琉球放送](../Page/琉球放送.md "wikilink")(TBS系)では、2019年9月15日・22日に放送
+  - [SONGS (テレビ番組)](../Page/SONGS_\(テレビ番組\).md "wikilink")（2019年3月9日、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")）
+  - [アナザースカイII](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2019年7月12日・19日）[RBC琉球放送](../Page/琉球放送.md "wikilink")（TBS系）では、2019年9月15日・22日に放送
 
 ### NHK紅白歌合戦出場歴
 
@@ -544,7 +544,7 @@
 
 ### ラジオ
 
-  - [Music Pulse on Tokyo Bay](../Page/MUSIC_PULSE.md "wikilink")（[bayfm](https://ja.wikipedia.org/wiki/bayfm "wikilink")）
+  - [Music Pulse on Tokyo Bay](../Page/MUSIC_PULSE.md "wikilink") ([bayfm](https://ja.wikipedia.org/wiki/bayfm "wikilink"))
   - オーリトーリFM（TOKYO FM）
 
 ## 脚注

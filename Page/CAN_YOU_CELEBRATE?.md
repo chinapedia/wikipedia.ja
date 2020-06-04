@@ -1,23 +1,25 @@
 > この記事は[CAN YOU CELEBRATE\?](https://ja.wikipedia.org/wiki/CAN_YOU_CELEBRATE\?)から翻訳されています。
 
 
-『**CAN YOU CELEBRATE?**』（キャン・ユー・セレブレイト?）は、日本の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では9枚目の[シングル](../Page/シングル.md "wikilink")。安室が発表したシングル盤としては最大の売上を記録し、[結婚式](../Page/結婚式.md "wikilink")の[定番](https://ja.wikipedia.org/wiki/定番 "wikilink")曲となっている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")に、日本で[シングル](../Page/シングル.md "wikilink")CDとして発売され、同年[12月25日](../Page/12月25日.md "wikilink")に、当時のプロデューサー・[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")から[結婚](../Page/結婚.md "wikilink")記念の祝福盤として、マキシシングルが発売された。
+『**CAN YOU CELEBRATE?**』（キャン・ユー・セレブレイト?）は、日本の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では9枚目の[シングル](../Page/シングル.md "wikilink")である。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が発表したシングルの中では最大の売上を記録していて、[結婚式](../Page/結婚式.md "wikilink")の[定番](https://ja.wikipedia.org/wiki/定番 "wikilink")ソングとなっている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")として発売され、同年[12月25日](../Page/12月25日.md "wikilink")に、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")から[結婚](../Page/結婚.md "wikilink")記念の祝福盤として、マキシシングルが発売された。また[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースシングルの中でも最大の売上を記録していて、日本の大手CDレーベル・[avex traxから発売されたシングルの中でも最大の売上を記録している](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[バージンロード](../Page/バージンロード_\(テレビドラマ\).md "wikilink")』の主題歌、自身が出演した[日立マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")「プラチナ&ゴールドMD」CFイメージソングのダブルタイアップ。
-  - [栗原美和子](../Page/栗原美和子.md "wikilink")は楽曲制作を依頼する際に「小室流ウェディングソングを作って欲しい」とリクエストした\[1\]。
-  - ドラマのタイトルバックに、安室と小室が共に出演するという[プロモーション方法が話題をさらった](../Page/宣伝.md "wikilink")。
+  - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[バージンロード](../Page/バージンロード_\(テレビドラマ\).md "wikilink")』の主題歌、自身が出演した[日立マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")「プラチナ&ゴールドMD」CFイメージソングのダブルタイアップソング。
+  - 『バージンロード』のプロデューサーを務めた[栗原美和子](../Page/栗原美和子.md "wikilink")は、楽曲制作を依頼する際に「小室流ウェディングソングを作って欲しい」とリクエストした\[1\]。
+  - ドラマのタイトルバックに、安室奈美恵と小室哲哉が共に出演するという[プロモーション方法が話題を呼んだ](../Page/宣伝.md "wikilink")。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の『[1997 FNS歌謡祭](https://ja.wikipedia.org/wiki/1997_FNS歌謡祭 "wikilink")』(フジテレビ系)と『[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")』([テレビ朝日](../Page/テレビ朝日.md "wikilink")系)では同曲で初のトリを務めた（『スーパーライブ』では、安室産休前最後の[Mステ出演でもあった](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")）。
+  - 期間内に222.8万枚を売り上げ、自身初となる1997年度年間シングルチャートで1位を獲得した。
   - この曲で、[第39回日本レコード大賞](https://ja.wikipedia.org/wiki/第39回日本レコード大賞 "wikilink")の大賞を受賞し、昨年の「[Don't wanna cry](../Page/Don't_wanna_cry.md "wikilink")」に引き続き、2年連続の受賞となった。感極まり、涙ながらの熱唱となった。他にも、第11回“[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")”ソング・オブ・ザ・イヤー（邦楽部門大賞）などを受賞。
-  - 『[第48回NHK紅白歌合戦](../Page/第48回NHK紅白歌合戦.md "wikilink")』では、この曲で紅組のトリを務めた後、出産・育児のため歌手活動を1年間休業。カムバックした翌1998年の『[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")』で1年ぶりに公の前に登場し、2年連続で同曲を熱唱。歌唱中、会場から暖かい拍手と声援に感極まって涙を流すシーンがあった。
+  - 『[第48回NHK紅白歌合戦](../Page/第48回NHK紅白歌合戦.md "wikilink")』では、この曲で紅組のトリを務めた後、出産・育児のため歌手活動を1年間休業。カムバックした翌1998年の『[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")』で1年ぶりに公の前に登場し、2年連続で同曲を熱唱。歌唱中、会場から暖かい拍手と声援に感極まって涙を流すシーンがあった。1998年の安室出演時の歌手別視聴率は64.9％で、歴代歌手最高視聴率を記録した。
   - 「TV LIFE」誌発表の、'97 TV LIFE ドラマ大賞・主題歌賞を受賞。「バージンロード」は作品賞も受賞しており、2冠となった。
-  - [オリコン及び出荷ベースで](../Page/オリコンチャート.md "wikilink")、自身最大の売上のシングルである。ちなみに楽曲を制作した小室哲哉にとっても提供した楽曲の中で最大の売上となっており、[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")のレーベルから発売されたシングルとしても同様である。
+  - [オリコン及び出荷ベースで](../Page/オリコンチャート.md "wikilink")、自身最大の売上のシングルである。楽曲を制作した小室哲哉にとっても提供した楽曲の中で最大の売上となっており、日本最大手のCDレーベル・[avex traxのから発売されたシングルとしても最高売上を記録している](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - この楽曲を作り上げた小室は、すぐさま安室を電話で「すごくいい曲が出来たんだ。」と言って呼び出し聴かせたというエピソードがある。後に安室は、この時鳥肌が立ったと語っている。
   - 1997年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に安室が結婚すると、「安室の将来の運命を予言していた曲」としてさらに話題になり、再びチャートインした（しかし、安室は[2002年](../Page/2002年.md "wikilink")に[離婚](../Page/離婚.md "wikilink")している）。
-  - 歌詞の中にある「Let's a party time tonight」は誤植であり、実際は「It's a party time tonight」であったと小室自身が語っている（文法的にはlet us＋動詞となる）。また「CAN YOU CELEBRATE?」という表現自体もそうであるように、意味として和製英語（というよりは小室自身の造語）に近いものが歌詞の中には多い。これは歌詞の意味合いよりも「サウンドに気持ちよくはまるフレーズ」を重要視しているためであると小室本人が語っている。事実、英語に限らず日本語の文法がおかしい曲も多数存在するが、これも意図的である。
+  - 歌詞の中にある「Let's a party time tonight」は誤植であり、実際は「It's a party time tonight」であったと小室自身が語っている。また「CAN YOU CELEBRATE?」という表現自体もそうであるように、意味として和製英語（小室自身の造語）に近いものが歌詞の中には多い。これは歌詞の意味合いよりも「サウンドに気持ちよくはまるフレーズ」を重要視しているためであると小室本人が語っている。事実、英語に限らず日本語の文法がおかしい曲も多数存在するが、これも意図的である。
   - 累計出荷枚数は約250万枚\[2\]。この出荷枚数にはマキシシングル盤は含まれていない。
-  - オリコンチャートにおける売上枚数は229.6万枚\[3\]。
+  - オリコンチャートにおける累計売上枚数は229.6万枚\[3\]。
+  - マキシシングルを合算した場合の累計売上枚数は、270万枚以上に達する。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")発売の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「[.LOVE](https://ja.wikipedia.org/wiki/.LOVE "wikilink")」にも収録されている。
   - 1997年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売のコンピレーション・アルバム『[VELFARRE](https://ja.wikipedia.org/wiki/velfarre "wikilink") VOL.9 〜ESTA\! DISCO LATINO〜』に「CAN YOU CELEBRATE? ("D" NITE REMIX)」がノンストップで収録されている。フルコーラス版は[インストとともに](../Page/器楽曲.md "wikilink")[Dub Master Xの](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")「DUB WA SELF REMIX 13」（非売品）に収録されている。
   - 『バージンロード』に子役として出演していた[大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")は、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")時代に『[FNS名曲の祭典 秘蔵映像で振り返る55年 -NO MUSIC, NO TV.-](https://ja.wikipedia.org/wiki/FNS名曲の祭典_秘蔵映像で振り返る55年_-NO_MUSIC,_NO_TV.- "wikilink")』（フジテレビ系）で小室と共演した際、「ずっと心の中にあった」と語っている。

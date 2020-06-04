@@ -19,7 +19,9 @@
 
 Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 "wikilink")が総合プロデューサーを務める「[@JAM](https://ja.wikipedia.org/wiki/@JAM "wikilink")」をはじめとするライブやイベントを主催・制作する他、六本木ブルーシアターの運営に参画、2015年1月より「[Zeppブルーシアター六本木](https://ja.wikipedia.org/wiki/Zeppブルーシアター六本木 "wikilink")」として再開業した（その後2017年11月12日に閉館）。
 
-2017年6月には、[海外需要開拓支援機構](https://ja.wikipedia.org/wiki/海外需要開拓支援機構 "wikilink")の支援を受け、東南アジア第1号となるライブハウスを[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にオープンした\[19\]。 {{-}}
+2017年6月には、[海外需要開拓支援機構](https://ja.wikipedia.org/wiki/海外需要開拓支援機構 "wikilink")の支援を受け、東南アジア第1号となるライブハウスを[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")にオープンした\[19\]。
+
+2020年5月8日に、Zeppライブの社名を「株式会社**ライブエグザム**」に変更した\[20\]。 {{-}}
 
 ## 施設一覧
 
@@ -104,7 +106,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 </tr>
 <tr class="even">
 <td></td>
-<td><p>style="white-space:nowrap;|Zepp Osaka Bayside[20]<br />
+<td><p>style="white-space:nowrap;|Zepp Osaka Bayside[21]<br />
 <small>Zepp 大阪ベイサイド</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Gthumb.svg" title="fig:Gthumb.svg">Gthumb.svg</a></p></td>
 <td><p>2,801人</p></td>
@@ -120,15 +122,15 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <small>Zepp 福岡（2代目）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Gthumb.svg" title="fig:Gthumb.svg">Gthumb.svg</a></p></td>
 <td><p>1,526人</p></td>
-<td><p>2018年12月7日[21]</p></td>
+<td><p>2018年12月7日[22]</p></td>
 <td></td>
 <td><p>住所：<a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a><a href="../Page/中央区_(福岡市).md" title="wikilink">中央区</a><a href="https://ja.wikipedia.org/wiki/地行浜" title="wikilink">地行浜</a>2-2-1（<a href="https://ja.wikipedia.org/wiki/MARK_IS_福岡ももち" title="wikilink">MARK IS 福岡ももち内</a>）<br />
 最寄駅：<a href="https://ja.wikipedia.org/wiki/唐人町駅" title="wikilink">唐人町駅</a>（<a href="../Page/福岡市地下鉄空港線.md" title="wikilink">地下鉄空港線</a>）、地行バス停・<a href="https://ja.wikipedia.org/wiki/独立行政法人国立病院機構九州医療センター" title="wikilink">九州医療センター前バス停</a>・ヤフオクドーム前バス停（<a href="../Page/西鉄バス.md" title="wikilink">西鉄バス</a>）<br />
-規模：1階・1,226人（ス）/564人（椅）、2階・176人（ス）/105人（座）+19人（車）[22][23] こけら落とし公演：<a href="../Page/ソニー・ミュージックアーティスツ.md" title="wikilink">ソニー・ミュージックアーティスツ</a>「SMAのド自慢」</p></td>
+規模：1階・1,226人（ス）/564人（椅）、2階・176人（ス）/105人（座）+19人（車）[23][24] こけら落とし公演：<a href="../Page/ソニー・ミュージックアーティスツ.md" title="wikilink">ソニー・ミュージックアーティスツ</a>「SMAのド自慢」</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>KT Zepp Yokohama[24]<br />
+<td><p>KT Zepp Yokohama[25]<br />
 <small>KT Zepp 横浜</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Gthumb.svg" title="fig:Gthumb.svg">Gthumb.svg</a></p></td>
 <td><p>2,146人</p></td>
@@ -224,7 +226,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Zepp Haneda（TOKYO）（仮称）[25]<br />
+<td><p>Zepp Haneda（TOKYO）（仮称）[26]<br />
 <small>Zepp 羽田 東京</small></p></td>
 <td></td>
 <td><p>約3,000人</p></td>
@@ -238,7 +240,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 </tbody>
 </table>
 
-その他、[名古屋市](../Page/名古屋市.md "wikilink")(2館目)、[京都市](../Page/京都市.md "wikilink")、[神戸市](../Page/神戸市.md "wikilink")\[26\]\[27\]、[新宿](../Page/新宿.md "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")\[28\]、[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")\[29\]にも進出を予定している。
+その他、[名古屋市](../Page/名古屋市.md "wikilink")(2館目)、[京都市](../Page/京都市.md "wikilink")、[神戸市](../Page/神戸市.md "wikilink")\[27\]\[28\]、[新宿](../Page/新宿.md "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")\[29\]、[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")\[30\]にも進出を予定している。
 
 ### 海外
 
@@ -260,11 +262,11 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>Zepp@BIGBOX Singapore</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Gthumb.svg" title="fig:Gthumb.svg">Gthumb.svg</a></p></td>
 <td><p>2,333人</p></td>
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a>[30]</p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a>[31]</p></td>
 <td><p>住所：1 Venture Avenue<br />
 「BIGBOX」3階（）<br />
 最寄駅：<a href="https://ja.wikipedia.org/wiki/ジュロン・イースト駅" title="wikilink">ジュロン・イースト駅</a>（<a href="https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_(シンガポール)" title="wikilink">MRT</a><a href="../Page/MRT東西線.md" title="wikilink">東西線</a>・<a href="../Page/MRT.md" title="wikilink">南北線</a>）</p></td>
-<td><p>隣接するイベントホールとの一体利用で、最大4,032人収容可能。 こけら落とし公演：<a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a></p></td>
+<td><p>隣接するイベントホールとの一体利用で、最大4,032人収容可能。 こけら落とし公演：<a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a>「Asia Live Tour 2017」</p></td>
 </tr>
 </tbody>
 </table>
@@ -287,7 +289,7 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>Zepp New Taipei</p></td>
 <td></td>
 <td><p>約2,200人</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>4月予定[31]</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>4月予定[32]</p></td>
 <td><p>住所：<a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a><a href="../Page/新北市.md" title="wikilink">新北市</a><br />
 最寄駅：<a href="https://ja.wikipedia.org/wiki/新荘副都心駅" title="wikilink">新荘副都心駅</a>（<a href="https://ja.wikipedia.org/wiki/桃園捷運" title="wikilink">桃園捷運</a><a href="https://ja.wikipedia.org/wiki/桃園機場捷運" title="wikilink">機場線</a>）</p></td>
 <td></td>
@@ -296,10 +298,10 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 <td><p>Zepp Kuala Lumpur</p></td>
 <td></td>
 <td><p>約2,500人</p></td>
-<td><p>2020年末予定[32]</p></td>
+<td><p>2020年末予定[33]</p></td>
 <td><p>住所：No.2,Jalan Hang Tuah,55100 Kuala Lumpur, <a href="https://ja.wikipedia.org/wiki/マレーシア" title="wikilink">Malaysia</a><br />
 最寄駅：<a href="https://ja.wikipedia.org/wiki/ハン・トゥア駅" title="wikilink">ハン・トゥア駅</a>（<a href="../Page/KLモノレール.md" title="wikilink">KLモノレール</a>、<a href="../Page/ラピドKL.md" title="wikilink">ラピドKL</a>）</p></td>
-<td><p><a href="../Page/クアラルンプール.md" title="wikilink">クアラルンプール</a>中心部の大規模複合施設「ブギッ・ビンタン シティセンター プロジェクト」のエンターテイメント棟に入居[33]。</p></td>
+<td><p><a href="../Page/クアラルンプール.md" title="wikilink">クアラルンプール</a>中心部の大規模複合施設「ブギッ・ビンタン シティセンター プロジェクト」のエンターテイメント棟に入居[34]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -309,29 +311,29 @@ Zeppライブでは、[橋元恵一](https://ja.wikipedia.org/wiki/橋元恵一 
 Zepp Nagoya以前に設置された施設は、[2002年](../Page/2002年.md "wikilink")2月から始まる[いざなみ景気の前の](../Page/第14循環.md "wikilink")「[失われた10年](../Page/失われた10年.md "wikilink")」と呼ばれる[不景気](https://ja.wikipedia.org/wiki/不景気 "wikilink")の時期に開業した。この時期は[地価](../Page/地価.md "wikilink")が低かったものの企業の投資意欲が低く、土地を購入することなく[事業用定期借地契約を結んで土地使用する方法が流行した](https://ja.wikipedia.org/wiki/借地借家法#定期借地権・定期借家契約 "wikilink")。いくつかのZeppも同様の方法で設置されたが、複数の施設は期限を10年程度で結んだことから起因する存廃問題に直面した。
 
   - Zepp Osaka （閉館）
-    [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月から[2009年](../Page/2009年.md "wikilink")1月の期間で、同地の土地を所有する[大阪市](../Page/大阪市.md "wikilink")および[大阪港振興協会](https://ja.wikipedia.org/wiki/大阪港振興協会 "wikilink")との間の賃貸借契約があったほか、大阪港振興協会とホールネットワークとの間で同期間の事業用定期借地契約を結んでおり\[34\]、期限までに土地所有者の大阪市へ更地にした上で返却する必要があった。このため、当初の予定では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月末の閉鎖の方向で進んでいた\[35\]。
-    [2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")、代替施設として「**Zepp Namba (OSAKA)**」\[36\]を開業し\[37\]\[38\]、[4月8日](../Page/4月8日.md "wikilink")にこれに先立って当施設を閉館。[2017年](../Page/2017年.md "wikilink")にはかつての当施設の所在地だった[住之江区](../Page/住之江区.md "wikilink")へ隣接する[此花区](../Page/此花区.md "wikilink")に、新たに「**Zepp Osaka Bayside**」をオープンさせた\[39\]。
+    [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月から[2009年](../Page/2009年.md "wikilink")1月の期間で、同地の土地を所有する[大阪市](../Page/大阪市.md "wikilink")および[大阪港振興協会](https://ja.wikipedia.org/wiki/大阪港振興協会 "wikilink")との間の賃貸借契約があったほか、大阪港振興協会とホールネットワークとの間で同期間の事業用定期借地契約を結んでおり\[35\]、期限までに土地所有者の大阪市へ更地にした上で返却する必要があった。このため、当初の予定では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月末の閉鎖の方向で進んでいた\[36\]。
+    [2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")、代替施設として「**Zepp Namba (OSAKA)**」\[37\]を開業し\[38\]\[39\]、[4月8日](../Page/4月8日.md "wikilink")にこれに先立って当施設を閉館。[2017年](../Page/2017年.md "wikilink")にはかつての当施設の所在地だった[住之江区](../Page/住之江区.md "wikilink")へ隣接する[此花区](../Page/此花区.md "wikilink")に、新たに「**Zepp Osaka Bayside**」をオープンさせた\[40\]。
   - Zepp Tokyo （営業継続）
-    当初、入居する[パレットタウン](../Page/パレットタウン.md "wikilink")が[東京都](../Page/東京都.md "wikilink")との間で結んでいた定期借地契約は12年間\[40\]であり、敷地は2010年5月の閉鎖・解体後に都へ返還され、[森ビル](../Page/森ビル.md "wikilink")・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が跡地部分を再度購入して複合商業施設を新たに建設する予定が立てられていた\[41\]。しかし、2008年[9月15日](../Page/9月15日.md "wikilink")の[リーマン・ショック](https://ja.wikipedia.org/wiki/リーマン・ショック "wikilink")以降に起こった[世界金融危機によって急激に経済状況が悪化し](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、2009年（平成21年）[11月5日](../Page/11月5日.md "wikilink")には再開発計画が先送りとなる見通しとなった\[42\]。その後、Zepp Tokyoなどの既存施設は「[2012年](../Page/2012年.md "wikilink")頃まで存続する見込み」と報道され\[43\]、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")には施設の存続が発表された\[44\]。
-    [2012年](../Page/2012年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、[三井不動産](../Page/三井不動産.md "wikilink")と[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")が共同で開業した[ダイバーシティ東京](https://ja.wikipedia.org/wiki/ダイバーシティ東京 "wikilink")内に「**Zepp DiverCity（TOKYO）**」\[45\]を開業\[46\]\[47\]。なお、ダイバーシティ東京はパレットタウンと同じく[東京臨海副都心](../Page/東京臨海副都心.md "wikilink")に所在するため、これによって[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")内に2ヶ所のZeppが所在することとなったが、Zepp Tokyoも並列して営業を継続している\[48\]\[49\]。
+    当初、入居する[パレットタウン](../Page/パレットタウン.md "wikilink")が[東京都](../Page/東京都.md "wikilink")との間で結んでいた定期借地契約は12年間\[41\]であり、敷地は2010年5月の閉鎖・解体後に都へ返還され、[森ビル](../Page/森ビル.md "wikilink")・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が跡地部分を再度購入して複合商業施設を新たに建設する予定が立てられていた\[42\]。しかし、2008年[9月15日](../Page/9月15日.md "wikilink")の[リーマン・ショック](https://ja.wikipedia.org/wiki/リーマン・ショック "wikilink")以降に起こった[世界金融危機によって急激に経済状況が悪化し](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、2009年（平成21年）[11月5日](../Page/11月5日.md "wikilink")には再開発計画が先送りとなる見通しとなった\[43\]。その後、Zepp Tokyoなどの既存施設は「[2012年](../Page/2012年.md "wikilink")頃まで存続する見込み」と報道され\[44\]、[2011年](../Page/2011年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")には施設の存続が発表された\[45\]。
+    [2012年](../Page/2012年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、[三井不動産](../Page/三井不動産.md "wikilink")と[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")が共同で開業した[ダイバーシティ東京](https://ja.wikipedia.org/wiki/ダイバーシティ東京 "wikilink")内に「**Zepp DiverCity（TOKYO）**」\[46\]を開業\[47\]\[48\]。なお、ダイバーシティ東京はパレットタウンと同じく[東京臨海副都心](../Page/東京臨海副都心.md "wikilink")に所在するため、これによって[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")内に2ヶ所のZeppが所在することとなったが、Zepp Tokyoも並列して営業を継続している\[49\]\[50\]。
   - Zepp Sendai （閉館）
-    当初の定期借地契約期限は2010年（平成22年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")末までであり、2008年秋には土地の所有者である[東日本旅客鉄道仙台支社](../Page/東日本旅客鉄道仙台支社.md "wikilink")（JR東日本仙台支社）との間で契約延長の協議を行っていた\[50\]。しかし、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が[2015年](../Page/2015年.md "wikilink")の[仙台市地下鉄東西線](https://ja.wikipedia.org/wiki/仙台市地下鉄東西線 "wikilink")開業に合わせてJR仙台駅東口一帯の[再開発](../Page/再開発.md "wikilink")を計画していたため\[51\]、2009年春の時点で交渉の難航が報道された\[52\]。すると、地元の女子大学生を中心とした存続に関する[署名運動](https://ja.wikipedia.org/wiki/署名運動 "wikilink")が起こり、2009年[10月27日](../Page/10月27日.md "wikilink")に定期借地契約の2年延長が発表された\[53\]。これに伴い、[2012年](../Page/2012年.md "wikilink")5月上旬までの営業継続後に施設を撤去・[更地](https://ja.wikipedia.org/wiki/更地 "wikilink")化し、7月末までにJR側へ返還することが決まったが、その後の移転計画は「[白紙](https://ja.wikipedia.org/wiki/白紙 "wikilink")」となった\[54\]\[55\]。
-    [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の影響で営業休止を余儀なくされたが、震災発生1ヶ月を前にした[4月10日](../Page/4月10日.md "wikilink")、[沖縄県](../Page/沖縄県.md "wikilink")[宜野湾市](../Page/宜野湾市.md "wikilink")での被災地支援ライヴ「がんばれ東北\! がんばれ日本\! 東北関東大震災支援チャリティーコンサート what a wonderful world in OKINAWA\[56\]」の[ライブビューイングに使用されたことで](https://ja.wikipedia.org/wiki/クローズドサーキット "wikilink")、一時的に営業を再開\[57\]。[4月23日](../Page/4月23日.md "wikilink")に開催されたチャリティライブ「MUSIC DISTRIBUTION for SENDAI\[58\]」を皮切りに本格再開した\[59\]。
-    その後は代替施設への移転および施設の新設が行われないまま、[2012年](../Page/2012年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に開催されたイベント「LAST ZEPP SENDAI」をもって閉館\[60\]\[61\]。[仙台圏における同規模のライブハウスは](../Page/仙台都市圏.md "wikilink")、当館があった[仙台市都心部](../Page/仙台市都心部.md "wikilink")から直線距離で約4km南の[長町副都心](../Page/長町副都心.md "wikilink")に[2016年](../Page/2016年.md "wikilink")3月に開業した「[仙台PIT](https://ja.wikipedia.org/wiki/チームスマイル "wikilink")」まで3年半の空白期間を要した\[62\]。
+    当初の定期借地契約期限は2010年（平成22年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")末までであり、2008年秋には土地の所有者である[東日本旅客鉄道仙台支社](../Page/東日本旅客鉄道仙台支社.md "wikilink")（JR東日本仙台支社）との間で契約延長の協議を行っていた\[51\]。しかし、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が[2015年](../Page/2015年.md "wikilink")の[仙台市地下鉄東西線](https://ja.wikipedia.org/wiki/仙台市地下鉄東西線 "wikilink")開業に合わせてJR仙台駅東口一帯の[再開発](../Page/再開発.md "wikilink")を計画していたため\[52\]、2009年春の時点で交渉の難航が報道された\[53\]。すると、地元の女子大学生を中心とした存続に関する[署名運動](https://ja.wikipedia.org/wiki/署名運動 "wikilink")が起こり、2009年[10月27日](../Page/10月27日.md "wikilink")に定期借地契約の2年延長が発表された\[54\]。これに伴い、[2012年](../Page/2012年.md "wikilink")5月上旬までの営業継続後に施設を撤去・[更地](https://ja.wikipedia.org/wiki/更地 "wikilink")化し、7月末までにJR側へ返還することが決まったが、その後の移転計画は「[白紙](https://ja.wikipedia.org/wiki/白紙 "wikilink")」となった\[55\]\[56\]。
+    [2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の影響で営業休止を余儀なくされたが、震災発生1ヶ月を前にした[4月10日](../Page/4月10日.md "wikilink")、[沖縄県](../Page/沖縄県.md "wikilink")[宜野湾市](../Page/宜野湾市.md "wikilink")での被災地支援ライヴ「がんばれ東北\! がんばれ日本\! 東北関東大震災支援チャリティーコンサート what a wonderful world in OKINAWA\[57\]」の[ライブビューイングに使用されたことで](https://ja.wikipedia.org/wiki/クローズドサーキット "wikilink")、一時的に営業を再開\[58\]。[4月23日](../Page/4月23日.md "wikilink")に開催されたチャリティライブ「MUSIC DISTRIBUTION for SENDAI\[59\]」を皮切りに本格再開した\[60\]。
+    その後は代替施設への移転および施設の新設が行われないまま、[2012年](../Page/2012年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に開催されたイベント「LAST ZEPP SENDAI」をもって閉館\[61\]\[62\]。[仙台圏における同規模のライブハウスは](../Page/仙台都市圏.md "wikilink")、当館があった[仙台市都心部](../Page/仙台市都心部.md "wikilink")から直線距離で約4km南の[長町副都心](../Page/長町副都心.md "wikilink")に[2016年](../Page/2016年.md "wikilink")3月に開業した「[仙台PIT](https://ja.wikipedia.org/wiki/チームスマイル "wikilink")」まで3年半の空白期間を要した\[63\]。
   - Zepp Fukuoka（休館、再開）
-    [シーサイドももち](../Page/シーサイドももち.md "wikilink")内の[ホークスタウン](../Page/ホークスタウン.md "wikilink")モールに所在を置く関係で、[2016年](../Page/2016年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")を以って同施設の再開発に伴う閉館を発表する\[63\]。しかし、[4月14日](../Page/4月14日.md "wikilink")から続いた[熊本地震を受けて](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")[チャリティー](../Page/チャリティー.md "wikilink")公演を急遽実施することが決まり、[5月9日](../Page/5月9日.md "wikilink")まで延期される形となった\[64\]。
-    当初は出店が未定で、2016年[3月31日](../Page/3月31日.md "wikilink")に同社が発表したホークスタウンモールの再開発計画（HT計画）でも「Zepp Fukuokaとは再出店へ向けて今後前向きに検討する」旨を表明していた\[65\]\[66\]\[67\]が、[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")にはZepp側と再開発を担当する[三菱地所](../Page/三菱地所.md "wikilink")との間で、再出店への基本的な合意に至ったことが発表された\[68\]。
-    ホークスタウンモール跡地には[MARK IS 福岡ももちが](https://ja.wikipedia.org/wiki/MARK_IS_福岡ももち "wikilink")2018年11月に開業し、Zepp Fukuoka（2代目）も同年12月7日に再開した\[69\]。
+    [シーサイドももち](../Page/シーサイドももち.md "wikilink")内の[ホークスタウン](../Page/ホークスタウン.md "wikilink")モールに所在を置く関係で、[2016年](../Page/2016年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")を以って同施設の再開発に伴う閉館を発表する\[64\]。しかし、[4月14日](../Page/4月14日.md "wikilink")から続いた[熊本地震を受けて](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")[チャリティー](../Page/チャリティー.md "wikilink")公演を急遽実施することが決まり、[5月9日](../Page/5月9日.md "wikilink")まで延期される形となった\[65\]。
+    当初は出店が未定で、2016年[3月31日](../Page/3月31日.md "wikilink")に同社が発表したホークスタウンモールの再開発計画（HT計画）でも「Zepp Fukuokaとは再出店へ向けて今後前向きに検討する」旨を表明していた\[66\]\[67\]\[68\]が、[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")にはZepp側と再開発を担当する[三菱地所](../Page/三菱地所.md "wikilink")との間で、再出店への基本的な合意に至ったことが発表された\[69\]。
+    ホークスタウンモール跡地には[MARK IS 福岡ももちが](https://ja.wikipedia.org/wiki/MARK_IS_福岡ももち "wikilink")2018年11月に開業し、Zepp Fukuoka（2代目）も同年12月7日に再開した\[70\]。
 
 ## その他
 
 ### Zepp Namba（OSAKA）における振動問題
 
-Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")以降、ライブ中に多数の観客がジャンプすることに起因しての振動が発生し、隣接する[クボタ](../Page/クボタ.md "wikilink")本社において[ビル](https://ja.wikipedia.org/wiki/建築物#ビルディング "wikilink")6棟が大きく揺れるといった影響が見られるようになった。クボタ側はZepp側に何度も苦情を申し入れ、Zepp側も 観客側にジャンプの自粛を呼びかけているが、振動問題は止んでいない状況である\[70\]。
+Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")以降、ライブ中に多数の観客がジャンプすることに起因しての振動が発生し、隣接する[クボタ](../Page/クボタ.md "wikilink")本社において[ビル](https://ja.wikipedia.org/wiki/建築物#ビルディング "wikilink")6棟が大きく揺れるといった影響が見られるようになった。クボタ側はZepp側に何度も苦情を申し入れ、Zepp側も 観客側にジャンプの自粛を呼びかけているが、振動問題は止んでいない状況である\[71\]。
 
 ### Zepp Tokyoの「青海駅」取り違え問題
 
-[ゆりかもめ](https://ja.wikipedia.org/wiki/ゆりかもめ東京臨海新交通臨海線 "wikilink")「[青**海**駅](../Page/青海駅_\(東京都\).md "wikilink")」（**あおみ** -）と、[JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[青**梅**駅](https://ja.wikipedia.org/wiki/青梅駅 "wikilink")」（**おうめ** -）が駅名上紛らわしく、特に乗換案内サービス利用時の取り違えが多発しており、[お台場](../Page/お台場.md "wikilink")の青海駅に行くつもりが[青梅市](../Page/青梅市.md "wikilink")の青梅駅に間違って着いたと言う事例が多発し、個人だけでなく事業者サイドでも取り違え事例が起きている\[71\]\[72\]\[73\]\[74\]。現在なら公式サイトにも間違えないようにするためにその旨が表記されるようにもなり、初来訪者は、[りんかい線](https://ja.wikipedia.org/wiki/東京臨海高速鉄道りんかい線 "wikilink")「[東京テレポート駅](https://ja.wikipedia.org/wiki/東京テレポート駅 "wikilink")」の利用が推奨される（同駅はZepp Divercity(TOKYO)最寄りでもある）。
+[ゆりかもめ](https://ja.wikipedia.org/wiki/ゆりかもめ東京臨海新交通臨海線 "wikilink")「[青**海**駅](../Page/青海駅_\(東京都\).md "wikilink")」（**あおみ** -）と、[JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[青**梅**駅](https://ja.wikipedia.org/wiki/青梅駅 "wikilink")」（**おうめ** -）が駅名上紛らわしく、特に乗換案内サービス利用時の取り違えが多発しており、[お台場](../Page/お台場.md "wikilink")の青海駅に行くつもりが[青梅市](../Page/青梅市.md "wikilink")の青梅駅に間違って着いたと言う事例が多発し、個人だけでなく事業者サイドでも取り違え事例が起きている\[72\]\[73\]\[74\]\[75\]。現在なら公式サイトにも間違えないようにするためにその旨が表記されるようにもなり、初来訪者は、[りんかい線](https://ja.wikipedia.org/wiki/東京臨海高速鉄道りんかい線 "wikilink")「[東京テレポート駅](https://ja.wikipedia.org/wiki/東京テレポート駅 "wikilink")」の利用が推奨される（同駅はZepp Divercity(TOKYO)最寄りでもある）。
 
 ## 脚注
 
@@ -361,7 +363,7 @@ Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wi
 
   - [@JAM](https://at-jam.jp/)
 
-  - [Zeppライブ](http://www.zepplive.co.jp/) - 公式サイト
+  - [ライブエグザム](https://www.liveexsam.co.jp/) - 公式サイト
 
   -
   -
@@ -371,7 +373,7 @@ Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wi
 
 1.  2005年5月に合弁が解消され、[ソニー・カルチャーエンタテインメント](../Page/ソニー・カルチャーエンタテインメント.md "wikilink")（2003年にSMEJから非音楽分野を分割して設立するも、2006年にはSMEJに[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")）の完全[子会社](../Page/子会社.md "wikilink")となる。
 2.  （[三菱地所](../Page/三菱地所.md "wikilink")株式会社 2016年10月28日）
-3.  [横浜・みなとみらい21地区に新「Zepp」が2020年春に誕生！](http://www.zepp.co.jp/news/2078/)（株式会社Zeppホールネットワーク 2017年3月30日）
+3.  [横浜・みなとみらい21地区に新「Zepp」が2020年春に誕生！](https://www.zepp.co.jp/news/zepp-hall/2078/)（株式会社Zeppホールネットワーク 2017年3月30日）
 4.  同地区の[47街区で計画されている](https://ja.wikipedia.org/wiki/横浜みなとみらい21#39-49街区 "wikilink")、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")の本社と[東急REIホテルからなる複合ビルに併設予定](https://ja.wikipedia.org/wiki/東急ホテルズ#東急REIホテル "wikilink")。
 5.  [東京・羽田に3,000人規模の「Zepp」ホールを2020年夏オープン！](https://www.zepp.co.jp/news/2730/)（株式会社Zeppホールネットワーク 2018年10月31日）
 6.
@@ -385,62 +387,63 @@ Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wi
 13.
 14.
 15.
-16. [会社概要 - About Us](http://www.zepp.co.jp/about/) - Zeppホールネットワーク・Zeppライブ
-17. [ソニーミュージックが新会社Zeppライブを設立して業務効率化とアジアを始めとした海外も視野に](https://www.musicman-net.com/business/3026) - musicman-net（2014年4月2日）
+16. [会社概要 - About Us](https://www.zepp.co.jp/about/) - Zeppホールネットワーク・Zeppライブ
+17. [ソニーミュージックが新会社Zeppライブを設立して業務効率化とアジアを始めとした海外も視野に](https://www.musicman.co.jp/business/14130) - musicman-net（2014年4月2日）
 18. [お知らせ](http://www.backstage.co.jp/index.html) - 株式会社バックステージプロジェクト
 19.
 20.
-21. <https://twitter.com/zeppfukuoka_/status/1040435703513935873>
-22. <https://www.zepp.co.jp/hall/fukuoka/#floor-guide>
-23.
+21.
+22. <https://twitter.com/zeppfukuoka_/status/1040435703513935873>
+23. <https://www.zepp.co.jp/hall/fukuoka/#floor-guide>
 24.
 25.
 26.
-27. [ソニー本気のライブ事業、ホール新設の先にある狙い 音楽市場をけん引する「コト消費」](https://moneyforward.com/media/career/28414/) MONEY PLUS 2017年2月24日、同4月1日閲覧。
-28.
+27.
+28. [ソニー本気のライブ事業、ホール新設の先にある狙い 音楽市場をけん引する「コト消費」](https://moneyforward.com/media/career/28414/) MONEY PLUS 2017年2月24日、同4月1日閲覧。
 29.
 30.
 31.
 32.
 33.
-34. [「Zepp　Osaka」：来年限り? 借地契約切れ間近](https://web.archive.org/web/20071123185207/http://www.asahi.com/kansai/news/OSK200711210034.html) - [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")（[asahi.com](https://ja.wikipedia.org/wiki/朝日新聞デジタル "wikilink")）2007年11月21日付け記事《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存（写真画像データ欠落）》
-35.
-36. [新Zepp Tokyo/Osakaの名称および開業日決定](http://www.musicman-net.com/business/12928.html)（Musicman-NET 2011年10月24日）
-37.  - [南海電気鉄道](../Page/南海電気鉄道.md "wikilink")・2010年11月9日付け《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存》
-38.
+34.
+35. [「Zepp　Osaka」：来年限り? 借地契約切れ間近](https://web.archive.org/web/20071123185207/http://www.asahi.com/kansai/news/OSK200711210034.html) - [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")（[asahi.com](https://ja.wikipedia.org/wiki/朝日新聞デジタル "wikilink")）2007年11月21日付け記事《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存（写真画像データ欠落）》
+36.
+37. [新Zepp Tokyo/Osakaの名称および開業日決定](https://www.musicman.co.jp/business/12754)（Musicman-NET 2011年10月24日）
+38.  - [南海電気鉄道](../Page/南海電気鉄道.md "wikilink")・2010年11月9日付け《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存》
 39.
-40. [｢買うより借りる時代」にふさわしいツール ～定期借地権を利用してみませんか？](http://www.a-brains.co.jp/column/001.html) - （株）不動産鑑定ブレインズWebサイトより
-41. [臨海副都心青海ST区画の進出事業予定者の決定について](https://web.archive.org/web/20081011050127/http://www.metro.tokyo.jp/INET/OSHIRASE/2008/10/20ia8200.htm) - 東京都　港湾局・2008年10月8日付け《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存》
-42.
-43. [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2009年11月6日 朝刊15面
-44. （株式会社ホールネットワーク 2011年6月1日）
-45.
-46. [平成24年春、東京臨海副都心地区に開業 「（仮称）青海Q街区計画」の施設名称案を公募 「新Zepp Tokyo（仮称）」の出店が決定](http://www.mitsuifudosan.co.jp/corporate/news/2011/0601_01/index.html)（三井不動産株式会社、株式会社フジテレビジョン 2011年6月1日）
-47. [東京臨海副都心地区の複合施設「ダイバーシティ東京」 平成24年4月19日（木）グランドオープン 世界を代表するファッションブランド、大型エンターテインメント施設が多数出店](http://www.mitsuifudosan.co.jp/corporate/news/2011/1219_02/)（三井不動産株式会社 2011年12月19日）
-48.
+40.
+41. [｢買うより借りる時代」にふさわしいツール ～定期借地権を利用してみませんか？](http://www.a-brains.co.jp/column/001.html) - （株）不動産鑑定ブレインズWebサイトより
+42. [臨海副都心青海ST区画の進出事業予定者の決定について](https://web.archive.org/web/20081011050127/http://www.metro.tokyo.jp/INET/OSHIRASE/2008/10/20ia8200.htm) - 東京都　港湾局・2008年10月8日付け《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存》
+43.
+44. [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2009年11月6日 朝刊15面
+45. （株式会社ホールネットワーク 2011年6月1日）
+46.
+47. [平成24年春、東京臨海副都心地区に開業 「（仮称）青海Q街区計画」の施設名称案を公募 「新Zepp Tokyo（仮称）」の出店が決定](https://www.mitsuifudosan.co.jp/corporate/news/2011/0601_01/index.html)（三井不動産株式会社、株式会社フジテレビジョン 2011年6月1日）
+48. [東京臨海副都心地区の複合施設「ダイバーシティ東京」 平成24年4月19日（木）グランドオープン 世界を代表するファッションブランド、大型エンターテインメント施設が多数出店](https://www.mitsuifudosan.co.jp/corporate/news/2011/1219_02/)（三井不動産株式会社 2011年12月19日）
 49.
 50.
-51.  ※ 現在はインターネットアーカイブ内に残存
-52. [東北屈指のライブホール ゼップ仙台存続は未定](https://web.archive.org/web/20090519062748/http://www.kahoku.co.jp/news/2009/05/20090516t15022.htm) - 河北新報・2009年[5月16日](../Page/5月16日.md "wikilink")付け《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存（写真画像データ欠落）》
-53.
+51.
+52.  ※ 現在はインターネットアーカイブ内に残存
+53. [東北屈指のライブホール ゼップ仙台存続は未定](https://web.archive.org/web/20090519062748/http://www.kahoku.co.jp/news/2009/05/20090516t15022.htm) - 河北新報・2009年[5月16日](../Page/5月16日.md "wikilink")付け《2017年10月11日閲覧；現在はインターネットアーカイブ内に残存（写真画像データ欠落）》
 54.
-55.  ※ 現在は[ウェブアーカイブ](../Page/ウェブアーカイブ.md "wikilink")サイト「[ウェブ魚拓](../Page/ウェブ魚拓.md "wikilink")」内に残存
-56. [がんばれ東北\! がんばれ日本\! 東北関東大震災支援チャリティーコンサート what a wonderful world in OKINAWA](http://www.www-okinawa.jp/wp/category/live/)
-57. [震災チャリティ沖縄ライブにモンパチ、サンボ、細美武士ら](http://natalie.mu/music/news/47280)（[ナタリー](https://ja.wikipedia.org/wiki/ナタリー "wikilink") 2011年4月4日）
-58. [MUSIC DISTRIBUTION for SENDAI](http://www.vintage-rock.com/mdfs/)
-59. [仙台でGOING、秦基博、ポリら出演の無料イベント敢行](http://natalie.mu/music/news/47670)（ナタリー 2011年4月11日）
-60.  ※ 現在はインターネットアーカイブ内に残存
-61.
+55.
+56.  ※ 現在は[ウェブアーカイブ](../Page/ウェブアーカイブ.md "wikilink")サイト「[ウェブ魚拓](../Page/ウェブ魚拓.md "wikilink")」内に残存
+57. [がんばれ東北\! がんばれ日本\! 東北関東大震災支援チャリティーコンサート what a wonderful world in OKINAWA](http://www.www-okinawa.jp/wp/category/live/)
+58. [震災チャリティ沖縄ライブにモンパチ、サンボ、細美武士ら](https://natalie.mu/music/news/47280)（[ナタリー](https://ja.wikipedia.org/wiki/ナタリー "wikilink") 2011年4月4日）
+59. [MUSIC DISTRIBUTION for SENDAI](http://www.vintage-rock.com/mdfs/)
+60. [仙台でGOING、秦基博、ポリら出演の無料イベント敢行](https://natalie.mu/music/news/47670)（ナタリー 2011年4月11日）
+61.  ※ 現在はインターネットアーカイブ内に残存
 62.
 63.
-64. [ゼップ福岡「閉館」1日延期　奥田民生さんら支援ライブ開催](https://web.archive.org/web/20160428090534/http://headlines.yahoo.co.jp/hl?a=20160424-00010007-nishinp-soci)西日本新聞 2016年4月24日《2017年10月10日閲覧；現在はインターネットアーカイブ内に残存》
-65.
-66. [Zepp福岡、来年5月に閉鎖　九州最大級ライブハウス](https://web.archive.org/web/20150410101054/http://www.asahi.com/articles/ASH4B5FPRH4BTIPE02F.html)朝日新聞 2015年4月10日《2017年10月10日閲覧；現在はインターネットアーカイブ内に残存（テキストデータと一部画像のみ）》
-67.  （三菱地所株式会社 2016年3月31日）
-68.
+64.
+65. [ゼップ福岡「閉館」1日延期　奥田民生さんら支援ライブ開催](https://web.archive.org/web/20160428090534/http://headlines.yahoo.co.jp/hl?a=20160424-00010007-nishinp-soci)西日本新聞 2016年4月24日《2017年10月10日閲覧；現在はインターネットアーカイブ内に残存》
+66.
+67. [Zepp福岡、来年5月に閉鎖　九州最大級ライブハウス](https://web.archive.org/web/20150410101054/http://www.asahi.com/articles/ASH4B5FPRH4BTIPE02F.html)朝日新聞 2015年4月10日《2017年10月10日閲覧；現在はインターネットアーカイブ内に残存（テキストデータと一部画像のみ）》
+68.  （三菱地所株式会社 2016年3月31日）
 69.
-70. [“揺れる”クボタのビル　原因は隣接ライブハウスのジャンプ](http://www.sankei.com/west/news/130925/wst1309250088-n1.html) 産経新聞 2013年9月25日
-71.
+70.
+71. [“揺れる”クボタのビル　原因は隣接ライブハウスのジャンプ](https://www.sankei.com/west/news/130925/wst1309250088-n1.html) 産経新聞 2013年9月25日
 72.
-73.  通勤電車|accessdate=2018-12-12|date=2018-08-03|website=東洋経済オンライン|language=ja}}
-74.
+73.
+74.  通勤電車|accessdate=2018-12-12|date=2018-08-03|website=東洋経済オンライン|language=ja}}
+75.

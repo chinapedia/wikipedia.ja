@@ -1130,7 +1130,7 @@
 
 ## 外部リンク
 
-  - [テレビ東京公式HP](http://www.tv-tokyo.co.jp/sazerx/)
+  - [テレビ東京公式HP](https://www.tv-tokyo.co.jp/sazerx/)
   - [東宝公式HP](https://web.archive.org/web/20120201031503/http://www.toho-a-park.com/character/SAZERX/)
 
 [Category:超星神シリーズ](https://ja.wikipedia.org/wiki/Category:超星神シリーズ "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:山田ひろしが制作した楽曲](https://ja.wikipedia.org/wiki/Category:山田ひろしが制作した楽曲 "wikilink") [Category:マーベラス](https://ja.wikipedia.org/wiki/Category:マーベラス "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink") [Category:巨大ロボットを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたテレビドラマ "wikilink") [Category:宇宙海賊を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙海賊を題材とした作品 "wikilink")

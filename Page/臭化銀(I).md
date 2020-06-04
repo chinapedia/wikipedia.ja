@@ -12,26 +12,26 @@
 臭化物イオンを含む溶液に[硝酸銀](https://ja.wikipedia.org/wiki/硝酸銀 "wikilink")水溶液を加えることで[沈殿](../Page/沈殿.md "wikilink")として生成する。
 
   -
-    <ce>Ag^+(aq)\\ + Br^-(aq) -\> AgBr</ce>
+    <chem>Ag^+(aq)\\ + Br^-(aq) -\> AgBr</chem>
 
 ## 性質
 
 [融点](../Page/融点.md "wikilink")432 {{℃}}。[比重](../Page/比重.md "wikilink")6.47。[水](../Page/水.md "wikilink")にほとんど不溶（20 {{℃}}における[溶解度](../Page/溶解度.md "wikilink")は0.02 mg/100 ml）。[溶解度積](../Page/溶解度積.md "wikilink")は以下の通りである\[1\]。
 
   -
-    <ce>AgBr\\ \\rightleftarrows\\ Ag^+(aq)\\ +Br^-(aq), </ce> \(K\rm_{sp} = 4 \times 10^{-13}\)
+    <chem>AgBr\\ \\rightleftarrows\\ Ag^+(aq)\\ +Br^-(aq), </chem> \(K\rm_{sp} = 4 \times 10^{-13}\)
 
 [シアン化アルカリ](../Page/シアン化物.md "wikilink")、[チオ硫酸ナトリウム](../Page/チオ硫酸ナトリウム.md "wikilink")[水溶液](../Page/水溶液.md "wikilink")には[錯体](../Page/錯体.md "wikilink")を生成して[溶解](../Page/溶解.md "wikilink")し、濃[アンモニア](../Page/アンモニア.md "wikilink")水には少量溶解する。[熱濃硝酸にも可溶](../Page/硝酸.md "wikilink")。
 
   -
-    <ce>AgBr + 2CN^- \<=\> \[Ag(CN)2\]^- + Br^- ,</ce>\(K\rm_{sp} = 1.2 \times 10^8\)
-    <ce>AgBr + 2S2O3^{2^-} \<=\> \[Ag(S2O3)2\] ^{3^-} + Br^- ,</ce> \(K = 11\)
-    <ce> AgBr + 2NH3 \<=\> \[Ag(NH3)2\]^+ + Br^- ,</ce>\(K = 8 \times 10^{-6}6\)
+    <chem>AgBr + 2CN^- \<=\> \[Ag(CN)2\]^- + Br^- ,</chem>\(K\rm_{sp} = 1.2 \times 10^8\)
+    <chem>AgBr + 2S2O3^{2^-} \<=\> \[Ag(S2O3)2\] ^{3^-} + Br^- ,</chem> \(K = 11\)
+    <chem> AgBr + 2NH3 \<=\> \[Ag(NH3)2\]^+ + Br^- ,</chem>\(K = 8 \times 10^{-6}6\)
 
 濃厚な臭化物の水溶液にも錯体を生成して多少溶解する。
 
   -
-    <ce>AgBr + 3Br^- \<=\> \[AgBr4\]^{3-} , </ce>\(K = 3 \times 10^{-4}\)
+    <chem>AgBr + 3Br^- \<=\> \[AgBr4\]^{3-} , </chem>\(K = 3 \times 10^{-4}\)
 
 [バンドギャップ](../Page/バンドギャップ.md "wikilink")は2.5 eV。臭化銀(I)は半導体の一種であり、[光](../Page/光.md "wikilink")により[分解](../Page/分解.md "wikilink")するため、[写真](../Page/写真.md "wikilink")の[感光剤](https://ja.wikipedia.org/wiki/感光剤 "wikilink")として[19世紀](../Page/19世紀.md "wikilink")より用いられている。
 

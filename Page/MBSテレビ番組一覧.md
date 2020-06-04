@@ -182,27 +182,19 @@
   - 一部地域ネット
       - [痛快\!明石家電視台](../Page/痛快!明石家電視台.md "wikilink")（月 23:56 - 翌0:53） **G** - MBS以外は遅れネットで放送されている。
       - [ごぶごぶ](../Page/ごぶごぶ.md "wikilink")（火 23:56 - 翌0:53）
-
-<!-- end list -->
-
-  -   - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（土 12:54 - 13:54） **G**
+      - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（土 12:54 - 13:54） **G**
       - [住人十色](https://ja.wikipedia.org/wiki/住人十色 "wikilink")（土 17:00 - 17:30）
-
   - 関西ローカル
-
       - [ロボロボ](https://ja.wikipedia.org/wiki/ロボロボ "wikilink")（火 - 金 0:53 - 0:59〈月 - 木深夜〉）
       - [関西発\!才能発掘TV マンモスター](https://ja.wikipedia.org/wiki/関西発!才能発掘TV_マンモスター "wikilink")（火 0:59 - 1:30〈月深夜〉）
-      - [＃ミスコレ](https://ja.wikipedia.org/wiki/＃ミスコレ "wikilink")（木 1:09 - 2:09〈水深夜〉）
+      - [ミキBASE〜いいね\!で応援〜](https://ja.wikipedia.org/wiki/ミキBASE〜いいね!で応援〜 "wikilink")（木 1:59 - 2:30〈水深夜〉）
       - [よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜](https://ja.wikipedia.org/wiki/よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜 "wikilink")（最終以外の木 2:30 - 3:00〈水深夜〉）
       - [ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣\!〜](https://ja.wikipedia.org/wiki/ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣!〜 "wikilink")（最終木 2:30 - 3:00〈水深夜〉）
-      - [ミキBASE〜いいね\!で応援〜](https://ja.wikipedia.org/wiki/ミキBASE〜いいね!で応援〜 "wikilink")（金 1:29 - 2:30〈木深夜〉）
       - [らくごのお時間](https://ja.wikipedia.org/wiki/らくごのお時間 "wikilink")（毎月第4日 5:00 - 5:30）
       - [コトノハ図鑑](https://ja.wikipedia.org/wiki/あどりぶランド#派生番組『コトノハ図鑑』 "wikilink")（日 5:45 - 6:15）
           - [あどりぶランド](../Page/あどりぶランド.md "wikilink")(上記の[スピンオフ](../Page/スピンオフ.md "wikilink")元)
       - [ジャニーズWESTの激ハネ\!BoooooooRN\!](https://ja.wikipedia.org/wiki/ジャニーズWESTの激ハネ!BoooooooRN! "wikilink")（不定期）
-
   - 特別番組
-
       - [歌ネタ王決定戦](https://ja.wikipedia.org/wiki/歌ネタ王決定戦 "wikilink")
       - [オールザッツ漫才](https://ja.wikipedia.org/wiki/オールザッツ漫才 "wikilink")
       - [上方漫才まつり](../Page/上方漫才まつり.md "wikilink")
@@ -315,9 +307,7 @@
       - [女性ホルモン分泌バラエティー 全力☆が〜る](https://ja.wikipedia.org/wiki/女性ホルモン分泌バラエティー_全力☆が〜る "wikilink")
       - [千原ジュニアのまぶしいチカラ](https://ja.wikipedia.org/wiki/千原ジュニアのまぶしいチカラ "wikilink")
       - [パテナの神様\!](https://ja.wikipedia.org/wiki/パテナの神様! "wikilink")
-      - [ロケみつ フライデー](https://ja.wikipedia.org/wiki/ロケみつ_フライデー "wikilink")
-          - ロケみつ〜ロケ×ロケ×ロケ〜
-          - ロケみつ ザ・ワールド
+      - [ロケみつ](https://ja.wikipedia.org/wiki/ロケみつ "wikilink")
       - [メッセンジャー&なるみの大阪ワイドショー](https://ja.wikipedia.org/wiki/メッセンジャー&なるみの大阪ワイドショー "wikilink")
       - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")
   - 関西ローカル
@@ -392,6 +382,7 @@
       - [スキマでジャルジャル](https://ja.wikipedia.org/wiki/スキマでジャルジャル "wikilink")
       - [かかあ天下にさせへんで\!](https://ja.wikipedia.org/wiki/かかあ天下にさせへんで! "wikilink")
       - [ナミノリ\!ジェニー](https://ja.wikipedia.org/wiki/ナミノリ!ジェニー "wikilink")
+      - [＃ミスコレ](https://ja.wikipedia.org/wiki/＃ミスコレ "wikilink")
   - 特別番組
       - [占い師100人\!2007年開運SP](https://ja.wikipedia.org/wiki/占い師100人!2007年開運SP "wikilink") - MBSでは2007年1月4日に、[北海道放送](../Page/北海道放送.md "wikilink") (HBC) では同年6月10日に放送された。
       - [四天王寺ワッソ](https://ja.wikipedia.org/wiki/四天王寺ワッソ "wikilink")（毎年11月）
@@ -631,7 +622,6 @@
 
 ### 現在放送中の番組
 
-  - [映像研には手を出すな\!](https://ja.wikipedia.org/wiki/映像研には手を出すな!#実写ドラマ・映画 "wikilink")（[ドラマイズム](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、月 0:50 - 1:20〈日深夜〉）
   - [ピーナッツバターサンドウィッチ](https://ja.wikipedia.org/wiki/ピーナッツバターサンドウィッチ#テレビドラマ "wikilink")（[ドラマ特区](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、金 0:59 - 1:29〈木深夜〉）
   - [家にはじめて行ってみた](https://ja.wikipedia.org/wiki/家にはじめて行ってみた "wikilink")（金 22:54 - 23:00）
 
@@ -863,6 +853,7 @@
       - [左ききのエレン](https://ja.wikipedia.org/wiki/左ききのエレン#テレビドラマ "wikilink")
       - [SEDAI WARS](../Page/SEDAI_WARS.md "wikilink")
       - [死にたい夜にかぎって](https://ja.wikipedia.org/wiki/死にたい夜にかぎって#テレビドラマ "wikilink")
+      - [映像研には手を出すな\!](https://ja.wikipedia.org/wiki/映像研には手を出すな!#実写ドラマ・映画 "wikilink")
   - [ドラマ特区](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")
       - [カカフカカ-こじらせ大人のシェアハウス-](https://ja.wikipedia.org/wiki/カカフカカ#テレビドラマ "wikilink")
       - [コーヒー&バニラ](https://ja.wikipedia.org/wiki/コーヒー&バニラ#テレビドラマ "wikilink")
@@ -1286,8 +1277,12 @@
 ## TBS系列局制作・時差ネット番組
 
   - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜〉）
+  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")（水 0:59 - 1:29〈火深夜〉、木 23:58 - 翌0:53）
+  - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（水 1:29 - 1:59〈火深夜〉）
+  - [有田哲平の夢なら醒めないで](https://ja.wikipedia.org/wiki/有田哲平の夢なら醒めないで "wikilink")（木 1:59 - 1:59〈水深夜〉）
+  - [有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")（金 1:29 - 1:59〈木深夜〉）
   - [やはり俺の青春ラブコメはまちがっている。完](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。#テレビアニメ "wikilink")（金 2:30 - 3:00〈木深夜〉）
-  - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+  - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](../Page/長崎放送.md "wikilink")・[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）
   - [バース・デイ](../Page/バース・デイ.md "wikilink")（不定期）
@@ -1389,7 +1384,7 @@
 
 ## 腸捻転時代に放送されていたNET（現:テレビ朝日）制作のネット番組
 
-☆は朝日放送テレビに移行した番組。
+☆は朝日放送テレビに移行した番組。★は完結およびネットチェンジ後に朝日放送テレビでも再放送された番組。
 
   - ☆[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")
   - ☆[モーニングショー](../Page/モーニングショー.md "wikilink") - 腸捻転解消当時は『[奈良和](../Page/奈良和.md "wikilink")モーニングショー』
@@ -1416,26 +1411,26 @@
   - [ララミー牧場](../Page/ララミー牧場.md "wikilink")
   - ☆[カリメロ](https://ja.wikipedia.org/wiki/カリメロ#テレビアニメ1作目 "wikilink")
   - [氷点](https://ja.wikipedia.org/wiki/氷点#テレビドラマ "wikilink") - 腸捻転解消後の1981年に、この局の「[妻そして女シリーズ](../Page/妻そして女シリーズ.md "wikilink")」でリメイク版を放送。
-  - [遠山の金さん捕物帳](https://ja.wikipedia.org/wiki/遠山の金さん捕物帳 "wikilink")
+  - ★[遠山の金さん捕物帳](https://ja.wikipedia.org/wiki/遠山の金さん捕物帳 "wikilink")
   - [ご存知遠山の金さん](https://ja.wikipedia.org/wiki/ご存知遠山の金さん "wikilink")
   - [ご存知金さん捕物帳](https://ja.wikipedia.org/wiki/ご存知金さん捕物帳 "wikilink")
   - [荒野の素浪人](../Page/荒野の素浪人.md "wikilink")
   - [空手バカ一代](https://ja.wikipedia.org/wiki/空手バカ一代#アニメ版 "wikilink")
-  - [魔法使いサリー(第1作)](https://ja.wikipedia.org/wiki/魔法使いサリー#アニメ・1966年版 "wikilink")
-  - [魔法のマコちゃん](../Page/魔法のマコちゃん.md "wikilink")
+  - ★[魔法使いサリー(第1作)](https://ja.wikipedia.org/wiki/魔法使いサリー#アニメ・1966年版 "wikilink")
+  - ★[魔法のマコちゃん](../Page/魔法のマコちゃん.md "wikilink")
   - [おじさま\!愛です](https://ja.wikipedia.org/wiki/おじさま!愛です "wikilink")
-  - [魔法使いチャッピー](../Page/魔法使いチャッピー.md "wikilink")
+  - ★[魔法使いチャッピー](../Page/魔法使いチャッピー.md "wikilink")
   - [狼少年ケン](../Page/狼少年ケン.md "wikilink")
   - [ハッスルパンチ](https://ja.wikipedia.org/wiki/ハッスルパンチ "wikilink")
   - [宇宙パトロールホッパ](https://ja.wikipedia.org/wiki/宇宙パトロールホッパ "wikilink")→パトロールホッパ・宇宙っ子ジュン
   - [サイボーグ009(第1作)](https://ja.wikipedia.org/wiki/サイボーグ009_\(アニメ\)#テレビシリーズ（第1作） "wikilink")
-  - [ひみつのアッコちゃん(第1作)](https://ja.wikipedia.org/wiki/ひみつのアッコちゃん#第1作 "wikilink")
+  - ★[ひみつのアッコちゃん(第1作)](https://ja.wikipedia.org/wiki/ひみつのアッコちゃん#第1作 "wikilink")
   - [バビル2世](https://ja.wikipedia.org/wiki/バビル2世#バビル2世（1973年） "wikilink")
   - [さるとびエッちゃん](https://ja.wikipedia.org/wiki/さるとびエッちゃん#アニメ "wikilink")
   - [ミラクル少女リミットちゃん](https://ja.wikipedia.org/wiki/ミラクル少女リミットちゃん#TVアニメ "wikilink")
-  - [デビルマン](https://ja.wikipedia.org/wiki/デビルマン#テレビアニメ版 "wikilink") - NETテレビから26分版を同時ネット（後年の朝日放送テレビなどでの再放送は30分板で放送）
-  - [ミクロイドS](https://ja.wikipedia.org/wiki/ミクロイドS#アニメ版 "wikilink") - NETテレビから26分版を同時ネット（後年の朝日放送テレビなどでの再放送は30分板で放送）
-  - [キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー#テレビアニメ「キューティーハニー」 "wikilink") - NETテレビから26分版を同時ネット（後年の朝日放送テレビなどでの再放送は30分板で放送）
+  - ★[デビルマン](https://ja.wikipedia.org/wiki/デビルマン#テレビアニメ版 "wikilink") - NETテレビから26分版を同時ネット（後年の朝日放送テレビなどでの再放送は30分板で放送）
+  - ★[ミクロイドS](https://ja.wikipedia.org/wiki/ミクロイドS#アニメ版 "wikilink") - NETテレビから26分版を同時ネット（後年の朝日放送テレビなどでの再放送は30分板で放送）
+  - ★[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー#テレビアニメ「キューティーハニー」 "wikilink") - NETテレビから26分版を同時ネット（後年の朝日放送テレビなどでの再放送は30分板で放送）
   - [海賊王子](https://ja.wikipedia.org/wiki/海賊王子 "wikilink")
   - [アパッチ野球軍](../Page/アパッチ野球軍.md "wikilink")
   - [キングコング](https://ja.wikipedia.org/wiki/キングコング#『キングコング』（1967） "wikilink")/[001/7親指トム](https://ja.wikipedia.org/wiki/001/7親指トム "wikilink")

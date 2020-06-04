@@ -103,7 +103,7 @@ XGフォーマット自体は、[ローランド](../Page/ローランド.md "wi
 [Yamaha_DB50XG_daughterboard_1995.jpg](https://ja.wikipedia.org/wiki/File:Yamaha_DB50XG_daughterboard_1995.jpg "fig:Yamaha_DB50XG_daughterboard_1995.jpg") [PCIsoundcard.jpg](https://ja.wikipedia.org/wiki/File:PCIsoundcard.jpg "fig:PCIsoundcard.jpg")搭載のPCIバスカード\]\]
 
   - DB50XG
-    697音色＋3ブロックエフェクト内蔵。[Sound Blasterなどの音源ボードに装着することで](../Page/Sound_Blaster.md "wikilink")、XG対応になる。MU50同等の性能を持つドータボード音源。[DOS/V専用](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")。
+    697音色＋3ブロックエフェクト内蔵。[Sound Blasterなどの音源ボードに装着することで](../Page/Sound_Blaster.md "wikilink")、XG対応になる。MU50同等の性能を持つドータボード音源。
     MU50にあるDOCモード、C/Mモード及びパフォーマンスモードは装備しない為、むしろMU10に近い。なおA/Dインプットは装備しない。
     Windows 95/3.1対応シーケンスソフト「Digital Orchestrator Plus」同梱。
   - DB51XG

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の[フジテレビが平日昼前の新たなニュース番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』を開始したため、OHKでは平日に合わせて土曜・日曜昼前の『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』をそれぞれ『サタデースピーク』・『サンデースピーク』に差し替えていた。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より、[キー局](../Page/キー局.md "wikilink")の[フジテレビが平日昼前の新たなニュース番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』を開始したため、OHKでは平日に合わせて土曜・日曜昼前の『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』をそれぞれ『サタデースピーク』・『サンデースピーク』に差し替えていた。
 
 [1992年](../Page/1992年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、土曜昼前のニュースが『FNNスピーク』となったことにより、この日をもって『OHKサタデースピーク』への差し替えは終了した。
 

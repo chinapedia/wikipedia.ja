@@ -360,8 +360,8 @@
 ## 外部リンク
 
   - [芸能界麻雀最強位決定戦 THEわれめDEポン 公式サイト](http://www.fujitv.co.jp/otn/warepon/index.html)
-  - [芸能界麻雀最強位決定戦 THEわれめDEポン 生スペシャル 紹介ページ](http://www.fujitv.co.jp/otn/b_hp/911200167.html)
-  - [THEわれめDEポン プレイバック 紹介ページ](http://www.fujitv.co.jp/otn/b_hp/911200244.html)
+  - [芸能界麻雀最強位決定戦 THEわれめDEポン 生スペシャル 紹介ページ](https://otn.fujitv.co.jp/b_hp/911200167.html)
+  - [THEわれめDEポン プレイバック 紹介ページ](https://otn.fujitv.co.jp/b_hp/911200244.html)
   - [われポンオンライン - フジテレビ](http://www.fujitv.co.jp/games/warepon/index.html)
   - [われポンオンライン](http://www.maru-jan.com/cp/warepon_01/?c=wp)
 

@@ -154,7 +154,7 @@
       - [松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")（ナレーションでは「リュウ松本」として出演）
       - [濱本りか](../Page/濱本りか.md "wikilink")（「週刊明るいニュース」コーナー担当、アシスタント）
   - 青森朝日放送
-      - [増田明美](https://ja.wikipedia.org/wiki/増田明美_\(アナウンサー\) "wikilink")
+      - [増田明美](../Page/増田明美_\(アナウンサー\).md "wikilink")
       - [柳瀬若菜](../Page/柳瀬若菜.md "wikilink")
       - [木村慎吾](../Page/木村慎吾.md "wikilink")
       - [荒井千里](../Page/荒井千里.md "wikilink")

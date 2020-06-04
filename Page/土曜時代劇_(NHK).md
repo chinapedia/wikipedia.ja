@@ -3,7 +3,7 @@
 
 **土曜時代劇**（どようじだいげき）は、[NHK総合テレビで](../Page/NHK総合テレビジョン.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[時代劇](../Page/時代劇.md "wikilink")を放送する[番組枠に冠せられたシリーズタイトルのひとつである](../Page/テレビ番組.md "wikilink")。
 
-[NHKは](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[大河ドラマ](../Page/大河ドラマ.md "wikilink")」とこの番組を2大時代劇として位置づけているが、「大河ドラマ」が史実を題材にした[歴史](../Page/歴史.md "wikilink")性重視の内容であるのに対し、前身となった「（第一次）木曜時代劇」などの時代から通して[娯楽性を重視した内容が多い](../Page/エンターテインメント.md "wikilink")。2017年4月改編より**土曜時代ドラマ**（どようじだいどらま）と改称されリニューアルされている。
+[NHKは](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[大河ドラマ](../Page/大河ドラマ.md "wikilink")」とこの番組を2大時代劇として位置づけているが、「大河ドラマ」が史実を題材にした[歴史](../Page/歴史.md "wikilink")性重視の内容であるのに対し、前身となった「（第一次）木曜時代劇」などの時代から通して[娯楽性を重視した内容が多い](../Page/エンターテインメント.md "wikilink")。2017年4月改編より**土曜時代ドラマ**（どようじだいドラマ）と改称されリニューアルされている。
 
 ## 概要
 
@@ -72,14 +72,8 @@
   - [御宿かわせみ](../Page/御宿かわせみ.md "wikilink")（1982年10月 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")4月）
   - [壬生の恋歌](../Page/壬生の恋歌.md "wikilink")（1983年4月 - 10月）
   - [新・なにわの源蔵事件帳](../Page/なにわの源蔵事件帳.md "wikilink")（1983年11月 - [1984年](../Page/1984年.md "wikilink")3月）
-
-<!-- end list -->
-
-  -
-    1984 - 1986年度については[新大型時代劇参照](https://ja.wikipedia.org/wiki/大河ドラマ#NHK新大型時代劇 "wikilink")。
-
-<!-- end list -->
-
+      -
+        1984 - 1986年度については[新大型時代劇参照](https://ja.wikipedia.org/wiki/大河ドラマ#NHK新大型時代劇 "wikilink")。
   - [びいどろで候〜長崎屋夢日記](../Page/びいどろで候〜長崎屋夢日記.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")4月 - 7月）
 
 ### 金曜時代劇（1991 - 1999年度）
@@ -180,12 +174,7 @@
   - [テンペスト](https://ja.wikipedia.org/wiki/テンペスト_\(池上永一\)#テレビドラマ "wikilink")（2012年4月 - 6月 木曜日22:00 - 22:45放送）
   - [新選組血風録](https://ja.wikipedia.org/wiki/新選組血風録_\(テレビドラマ\)#2011年版 "wikilink")（2012年4月 - 6月 日曜日13:05 - 13:50放送）
 
-<!-- end list -->
-
-  -
-    **以下は木曜日20:00-20:45放送**
-
-<!-- end list -->
+以下は木曜日20:00-20:45放送
 
   - [薄桜記](https://ja.wikipedia.org/wiki/薄桜記 "wikilink")（2012年10月 - 12月）
   - [塚原卜伝](https://ja.wikipedia.org/wiki/塚原卜伝_\(テレビドラマ\) "wikilink")（2013年1月 - 3月）
@@ -227,13 +216,13 @@
   - [螢草 菜々の剣](https://ja.wikipedia.org/wiki/螢草_\(葉室麟\)#テレビドラマ "wikilink")（2020年1月25日 - 3月21日、主演：[清原果耶](https://ja.wikipedia.org/wiki/清原果耶 "wikilink")、原作：[葉室麟](../Page/葉室麟.md "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
   - [雲霧仁左衛門3](https://ja.wikipedia.org/wiki/雲霧仁左衛門_\(2013年のテレビドラマ\) "wikilink")（2020年4月11日 - 、主演：中井貴一、原案：池波正太郎） - 「BS時代劇」で放送されたものを再編集して放送。
 
-## 参考文献
-
-  - [ステラ](../Page/ステラ.md "wikilink")MOOK『NHK時代劇の世界』[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")、[2006年](../Page/2006年.md "wikilink")3月 ISBN 4871080676
-
 ## 脚注
 
 <references />
+
+## 参考文献
+
+  - [ステラ](../Page/ステラ.md "wikilink")MOOK『NHK時代劇の世界』[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")、[2006年](../Page/2006年.md "wikilink")3月 ISBN 4871080676
 
 ## 外部リンク
 

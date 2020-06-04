@@ -59,7 +59,7 @@
 <!-- end list -->
 
   -
-    「**かなぶん**」（ほかに[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の応援企画も放送）
+    「**かなぶん**」（ほかに[横浜ベイスターズの応援企画も放送](../Page/横浜DeNAベイスターズ.md "wikilink")）
 
 <!-- end list -->
 

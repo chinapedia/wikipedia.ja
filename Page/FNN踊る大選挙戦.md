@@ -181,7 +181,7 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
   - [FNN](http://www.fnn-news.com/)
 
 [Category:FNN番組の歴史](https://ja.wikipedia.org/wiki/Category:FNN番組の歴史 "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:日本の選挙番組](https://ja.wikipedia.org/wiki/Category:日本の選挙番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:2010年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2010年のテレビ番組_\(日本\) "wikilink")

@@ -141,7 +141,7 @@
 | 1st           | [1993年](../Page/1993年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                  | [Swimmer](https://ja.wikipedia.org/wiki/Swimmer_\(See-Sawの曲\) "wikilink")             |
 | 2nd           | 1993年[9月26日](../Page/9月26日.md "wikilink")                                                 | [キライになりたい](https://ja.wikipedia.org/wiki/キライになりたい "wikilink")                         |
 | 3rd           | [1994年](../Page/1994年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")                  | [Chao Tokyo](https://ja.wikipedia.org/wiki/Chao_Tokyo "wikilink")                     |
-| 4th           | 1994年[8月5日](../Page/8月5日.md "wikilink")                                                   | [素肌(ノーメイク)](https://ja.wikipedia.org/wiki/素肌_\(See-Sawの曲\) "wikilink")                |
+| 4th           | 1994年[8月5日](../Page/8月5日.md "wikilink")                                                   | [素肌 ～ノーメイク～](https://ja.wikipedia.org/wiki/素肌_\(See-Sawの曲\) "wikilink")               |
 | 5th           | 1994年[9月24日](../Page/9月24日.md "wikilink")                                                 | [スレンダーカメレオン](https://ja.wikipedia.org/wiki/スレンダーカメレオン "wikilink")                     |
 | 6th           | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月1日](../Page/2月1日.md "wikilink") | [また会えるから](https://ja.wikipedia.org/wiki/また会えるから "wikilink")                           |
 | ビクターエンタテインメント |                                                                                           |                                                                                       |
@@ -179,7 +179,7 @@
 | ----------------------- | -------------------------------------------------------------------------------------------------- |
 | 永遠                      | TBS系列テレビドラマ『[泣きたい夜もある](../Page/泣きたい夜もある.md "wikilink")』挿入歌                                         |
 | ChaoTokyo               | フジテレビ系列のバラエティ番組『[上岡龍太郎にはダマされないぞ\!](../Page/上岡龍太郎にはダマされないぞ!.md "wikilink")』エンディングテーマ                |
-| 素肌                      | フジテレビ『ROOMS』エンディングテーマ                                                                              |
+| 素肌 ～ノーメイク～              | フジテレビ『[ROOMS](https://ja.wikipedia.org/wiki/丸井サウンドロフト#丸井一社提供番組群 "wikilink")』エンディングテーマ              |
 | また会えるから                 | 映画『[ルビーフルーツ](../Page/ルビーフルーツ.md "wikilink")』主題歌                                                    |
 | Obsession               | テレビ東京系テレビアニメ『[.hack//sign](https://ja.wikipedia.org/wiki/.hack/sign "wikilink")』オープニングテーマ          |
 | 優しい夜明け                  | テレビ東京系テレビアニメ『.hack//sign』エンディングテーマ                                                                 |

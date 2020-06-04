@@ -259,13 +259,11 @@
 <tr class="even">
 <td><p>11th</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月20日.md" title="wikilink">3月20日</a></p></td>
-<td><p><strong><big>波形</big></strong></p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
-
-
 
 ### その他のアルバム
 

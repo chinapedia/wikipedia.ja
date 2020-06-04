@@ -1,7 +1,7 @@
 > この記事は[涙の海で抱かれたい 〜SEA OF LOVE〜](https://ja.wikipedia.org/wiki/涙の海で抱かれたい_〜SEA_OF_LOVE〜)から翻訳されています。
 
 
-「**涙の海で抱かれたい 〜SEA OF LOVE〜**」（なみだのうみでだかれたい シー・オブ・ラヴ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の47枚目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**涙の海で抱かれたい 〜SEA OF LOVE〜**」（なみだのうみでだかれたい シー・オブ・ラヴ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の47作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に発売された。
 
 ## 背景
 

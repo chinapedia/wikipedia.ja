@@ -13,7 +13,7 @@
 
   - [アーバンリサーチ](https://ja.wikipedia.org/wiki/アーバンリサーチ "wikilink") (Urban Research) - [セレクトショップ](../Page/セレクトショップ.md "wikilink")のブランド
 
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink") (JOUR)
+  - [長崎放送](../Page/長崎放送.md "wikilink") (JOUR)
 
   - [トヨタ・URエンジン](../Page/トヨタ・URエンジン.md "wikilink")
 

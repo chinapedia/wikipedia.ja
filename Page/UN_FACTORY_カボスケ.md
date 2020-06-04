@@ -17,6 +17,7 @@
 ## 出演者
 
   - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")
+  - [出川哲朗](../Page/出川哲朗.md "wikilink")
   - [よゐこ](../Page/よゐこ.md "wikilink")
   - [ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")
   - [ココリコ](../Page/ココリコ.md "wikilink")
@@ -36,6 +37,8 @@
   - [ピーピングトム](../Page/ピーピングトム.md "wikilink")
   - [プリンプリン](../Page/プリンプリン.md "wikilink")
   - [ペナルティ](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")
+  - [桧](../Page/桧博明.md "wikilink")・[友野](https://ja.wikipedia.org/wiki/友野英俊 "wikilink")
+  - [インパクト](https://ja.wikipedia.org/wiki/インパクト_\(お笑い\) "wikilink")
   - [富永美樹](../Page/富永美樹.md "wikilink")（当時フジテレビアナウンサー）
   - [佐野瑞樹](../Page/佐野瑞樹_\(アナウンサー\).md "wikilink")（フジテレビアナウンサー）
   - その他、多数の若手たち

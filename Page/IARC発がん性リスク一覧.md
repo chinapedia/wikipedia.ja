@@ -109,427 +109,432 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/ディーゼルエンジン.md" title="wikilink">ディーゼルエンジン</a>の排気ガス (Diesel engine exhaust)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1,2-ジクロロプロパン" title="wikilink">1,2-ジクロロプロパン</a> (1,2-Dichloropropane)</p></td>
 <td><p>Type3からType1へ昇格</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ジエチルスチルベストロール.md" title="wikilink">ジエチルスチルベストロール</a> (Diethylstilboestrol)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/エプスタイン・バール・ウイルス" title="wikilink">エプスタイン・バール・ウイルス</a> (Epstein-Barr virus)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エリオナイト" title="wikilink">エリオナイト</a> (Erionite)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/酸化エチレン" title="wikilink">酸化エチレン</a> (Ethylene oxide)</p></td>
 <td><p>Type2AからType1へ昇格</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エトポシド.md" title="wikilink">エトポシド</a> (Etoposide) - <a href="../Page/シスプラチン.md" title="wikilink">シスプラチン</a> (Cisplatin) - <a href="https://ja.wikipedia.org/wiki/ブレオマイシン" title="wikilink">ブレオマイシン</a> (Bleomycins) 併用時</p></td>
 <td><p>抗腫瘍剤</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ホルムアルデヒド.md" title="wikilink">ホルムアルデヒド</a> (Formaldehyde)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/γ線" title="wikilink">γ線</a>照射</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ヒ化ガリウム.md" title="wikilink">ヒ化ガリウム</a> (Gallium arsenide)</p></td>
 <td><p>半導体</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ヘリコバクター・ピロリ.md" title="wikilink">ヘリコバクター・ピロリ</a>感染 (Helicobacter pylori, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/B型肝炎ウイルス" title="wikilink">B型肝炎ウイルス</a>の慢性感染 (Hepatitis B virus, chronic infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/C型肝炎ウイルス.md" title="wikilink">C型肝炎ウイルス</a>の慢性感染 (Hepatitis C virus chronic, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ウマノスズクサ属.md" title="wikilink">ウマノスズクサ属</a>の植物を含有する<a href="../Page/薬草.md" title="wikilink">薬草</a>療法 (Herbal remedies containing plant species of the genus Aristolochia)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/HIV" title="wikilink">HIV</a>-1ウイルスの感染 (Human immunodeficiency virus type 1, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ヒトパピローマウイルス.md" title="wikilink">ヒト-パピローマウイルス</a>16型の感染 (Human papillomavirus type 16, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒト-パピローマウイルス" title="wikilink">ヒト-パピローマウイルス</a>18型の感染 (Human papillomavirus type 18, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ヒトT細胞<a href="../Page/白血病.md" title="wikilink">白血病</a>ウイルス1型の感染 (Human T-cell lymphotropic virus type I, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/メルファラン.md" title="wikilink">メルファラン</a> (Melphalan)</p></td>
 <td><p>抗腫瘍剤</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/メトキサレン" title="wikilink">メトキサレン</a>と紫外線-A照射 (8-Methoxypsoralen, Methoxsalen)</p></td>
 <td><p>尋常性白斑治療剤</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/4,4&#39;-メチレンビス(2-クロロアニリン)" title="wikilink">4,4'-メチレンビス(2-クロロアニリン)</a> (4,4´-Methylene bis(2-chloroaniline), <a href="https://ja.wikipedia.org/wiki/MOCA" title="wikilink">MOCA</a>)</p></td>
 <td><p>Type2AからType1へ昇格</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/MOPP" title="wikilink">MOPP</a>と他のアルキル化抗腫瘍剤の併用療法</p></td>
 <td><p>抗腫瘍剤</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マスタード・ガス" title="wikilink">マスタード・ガス</a> (Mustard gas, Sulfur mustard)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2-ナフチルアミン" title="wikilink">2-ナフチルアミン</a> (2-Naphthylamine)</p></td>
 <td><p>β-ナフチルアミン とも</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中性子線.md" title="wikilink">中性子線</a> (Neutrons)</p></td>
 <td><p>Type2BからType1へ昇格</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ニッケル.md" title="wikilink">ニッケル</a>化合物 (Nickel compounds)</p></td>
 <td><p>グループとして評価</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>更年期以降の<a href="../Page/エストロゲン.md" title="wikilink">エストロゲン</a>療法 (Estrogen therapy, postmenopausal)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>非ステロイド性エストロゲン様物質 (Oestrogens, nonsteroidal)</p></td>
 <td><p>個々の物質ではなくグループとして評価</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ステロイド性エストロゲン様物質 (Oestrogens, steroidal)</p></td>
 <td><p>個々の物質ではなくグループとして評価</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タイ肝吸虫" title="wikilink">タイ肝吸虫</a>の慢性感染 (Opisthorchis viverrini, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/経口避妊薬" title="wikilink">経口避妊薬</a>の組合せ (Oral contraceptives, combined)</p></td>
 <td><p>個々の物質ではなくグループとして評価</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>経口避妊薬の常用 (Oral contraceptives, sequential)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>リン-32標識リン酸 (Phosphorus-32, as phosphate)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プルトニウム" title="wikilink">プルトニウム</a>239と放射壊変物のエアロゾル (Plutonium-239 and its decay products, as aerosols)</p></td>
 <td><p>プルトニウム-240と同位体も含む</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ポリ塩化ビフェニル.md" title="wikilink">ポリ塩化ビフェニル</a> (Polychlorinated biphenyls)</p></td>
 <td><p>Type2AからType1へ昇格</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>放射性<a href="https://ja.wikipedia.org/wiki/ヨウ素" title="wikilink">ヨウ素</a>（<sup>131</sup>Iを含む）被曝 (Radioiodines, short-lived isotopes, including iodine-131, (exposure during childhood))</p></td>
 <td><p>原子炉事故あるいは核兵器爆発で発生</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/α線" title="wikilink">α線</a>放射核種の内部被曝 (Radionuclides, a-particle-emitting, internally deposited)</p></td>
 <td><p>個々の物質ではなくグループとして評価</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/β線" title="wikilink">β線</a>放射核種の内部被曝 (Radionuclides, b-particle-emitting, internally deposited)</p></td>
 <td><p>個々の物質ではなくグループとして評価</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ラジウム.md" title="wikilink">ラジウム</a>224と放射壊変物 (Radium-224 and its decay products)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ラジウム226と放射壊変物 (Radium-226 and its decay products)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ラジウム228と放射壊変物 (Radium-228 and its decay products)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ラドン" title="wikilink">ラドン</a>222と放射壊変物 (Radon-222 and its decay products)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビルハルツ住血吸虫" title="wikilink">ビルハルツ住血吸虫</a>への感染 (Schistosoma haematobium, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/石英.md" title="wikilink">石英</a>および<a href="../Page/クリストバライト.md" title="wikilink">クリストバライト</a>の粉体 (Silica dust, crystalline, in the form of quartz and cristobalite)</p></td>
 <td><p>吸引による<a href="https://ja.wikipedia.org/wiki/肺がん" title="wikilink">肺がん</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/太陽光.md" title="wikilink">太陽光</a>曝露 (Solar radiation)</p></td>
 <td><p><a href="../Page/紫外線.md" title="wikilink">紫外線</a>による</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アスベスト様繊維を含む<a href="https://ja.wikipedia.org/wiki/タルク" title="wikilink">タルク</a> (Talc containing asbestiform fibres)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タモキシフェン" title="wikilink">タモキシフェン</a> (Tamoxifen)</p></td>
 <td><p>抗腫瘍剤</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2,3,7,8-四塩化ジベンゾ-パラ-ジオキシン (2,3,7,8-Tetrachlorodibenzo-para-dioxin)</p></td>
 <td><p>Tyype2AからType1へ昇格<br />
 <a href="https://ja.wikipedia.org/wiki/ダイオキシン" title="wikilink">ダイオキシン</a>類の一つ</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/チオテパ" title="wikilink">チオテパ</a> (Thiotepa)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/トリウム.md" title="wikilink">トリウム</a>232トレーサーの静脈投与と放射壊変物 (Thorium-232 and its decay products, administered intravenously as a colloidal dispersion of thorium-232 dioxide)</p></td>
 <td><p>トレーサーとしてのトリウム-232二酸化物コロイド</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トレオサルファン" title="wikilink">トレオサルファン</a> (Treosulfan)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/トリクロロエチレン.md" title="wikilink">トリクロロエチレン</a> (Trichloroethylene)</p></td>
 <td><p>Type2AからType1へ昇格</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/クロロエチレン.md" title="wikilink">塩化ビニルモノマー</a> (Vinyl chloride)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/X線.md" title="wikilink">X線</a>照射</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>混合物</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルコール飲料" title="wikilink">アルコール飲料</a> (Alcoholic beverages)</p></td>
 <td><p> </p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>加工肉 (Processed meat)</p></td>
 <td><p>塩、塩漬け、発酵、燻製など加工処理された肉[2]。<a href="../Page/ハム.md" title="wikilink">ハム</a>、<a href="../Page/ベーコン.md" title="wikilink">ベーコン</a>、<a href="../Page/ソーセージ.md" title="wikilink">ソーセージ</a>など</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フェナセチン" title="wikilink">フェナセチン</a>を含む鎮痛剤 (Analgesic mixtures containing phenacetin)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビンロウジュ" title="wikilink">ビンロウジュ</a>の実 (Areca nut)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タバコ" title="wikilink">タバコ</a>と併用のビンロウジュ噛み (Betel quid with tobacco)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>タバコなしのビンロウジュ噛み (Betel quid without tobacco)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/コールタール.md" title="wikilink">コールタール</a>残渣 (Coal-tar pitches)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>コールタール (Coal-tars)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未処理あるいは粗処理の<a href="../Page/鉱油.md" title="wikilink">鉱油</a> (Mineral oils, untreated and mildly treated)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>中国式<a href="https://ja.wikipedia.org/wiki/塩蔵" title="wikilink">塩蔵</a>魚 (Salted fish, Chinese-style)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シェール油" title="wikilink">シェール油</a> (Shale-oils)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/煤煙" title="wikilink">煤煙</a> (Soots)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>無煙のタバコ製品 (Tobacco products, smokeless)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>木工粉塵 (Wood dust)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/溶接.md" title="wikilink">溶接</a>煙 (Welding fumes)</p></td>
 <td><p>Type2BからType1に昇格</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>環境</p></td>
 <td><p><a href="../Page/アルミニウム.md" title="wikilink">アルミニウム</a>精錬従事 (Aluminium production)</p></td>
 <td><p> </p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>飲料水中の<a href="../Page/ヒ素.md" title="wikilink">ヒ素</a>含有環境 (Arsenic in drinking-water)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オーラミン" title="wikilink">オーラミン</a>の製造に従事 (Auramine, manufacture of)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/靴.md" title="wikilink">靴</a>製造あるいは修理に従事 (Boot and shoe manufacture and repair)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/石炭ガス" title="wikilink">石炭ガス</a>製造に従事</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/コークス.md" title="wikilink">コークス</a>製造に従事 (Coke production)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/家具.md" title="wikilink">家具</a>製造環境 (Furniture and cabinet making)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/赤鉄鉱.md" title="wikilink">赤鉄鉱</a>地下採掘でのラドン被曝環境 (Haematite mining (underground) with exposure to radon)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/受動喫煙" title="wikilink">受動的喫煙環境</a> (Involuntary smoking)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>鉄の<a href="../Page/鋳造.md" title="wikilink">鋳造</a>環境 (Iron and steel founding)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>強酸プロセスによる<a href="https://ja.wikipedia.org/wiki/プロパノール" title="wikilink">プロパノール</a>製造に従事 (Isopropanol manufacture, strong-acid process)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/マゼンタ.md" title="wikilink">マゼンタ</a>染料製造に従事 (Magenta, manufacture of)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/塗装.md" title="wikilink">塗装</a>専従環境 (Painter, occupational exposure as a)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ゴム.md" title="wikilink">ゴム</a>産業に従事 (Rubber industry)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/硫酸" title="wikilink">硫酸</a>を含む強い無機酸ミストに常時さらされる環境 (Strong-inorganic-acid mists containing sulfuric acid, occupational exposure to)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タバコ" title="wikilink">タバコ</a>の<a href="https://ja.wikipedia.org/wiki/喫煙" title="wikilink">喫煙</a> (Tobacco smoking)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/紫外線.md" title="wikilink">紫外線</a>を発する<a href="../Page/日焼けマシーン.md" title="wikilink">日焼けマシーン</a> (UV-emitting tanning devices)</p></td>
 <td><p>2009年7月29日にグループ1に追加。[3]</p></td>
 <td></td>

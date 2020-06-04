@@ -1,7 +1,7 @@
 > この記事は[GacktのFURACHIなオトコたち](https://ja.wikipedia.org/wiki/GacktのFURACHIなオトコたち)から翻訳されています。
 
 
-**GacktのFURACHIなオトコたち**（がくとのふらちなおとこたち）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティーは](../Page/ラジオパーソナリティ.md "wikilink")、歌手の[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")。番組の略称は**ふらちお**。
+**GacktのFURACHIなオトコたち**（がくとのふらちなおとこたち）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに](../Page/キー局.md "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティーは](../Page/ラジオパーソナリティ.md "wikilink")、歌手の[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")。番組の略称は**ふらちお**。
 
 ## 概略
 

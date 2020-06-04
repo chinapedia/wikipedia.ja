@@ -29,3 +29,7 @@
       - [ユリウス通日](../Page/ユリウス通日.md "wikilink") (*Julian day*)。
       - [女子大生](../Page/女子大生.md "wikilink")の略語。
   - [香椎線](https://ja.wikipedia.org/wiki/香椎線 "wikilink")の[路線記号](../Page/駅ナンバリング.md "wikilink")
+
+<!-- end list -->
+
+  -   - [ジョブディスクリプション](https://ja.wikipedia.org/wiki/ジョブディスクリプション "wikilink") （*job description*）。海外での職務記述書の略。日本での職務経歴書にあたるが、より技能や成果の指標側面重視の傾向なので作成には注意が必要。

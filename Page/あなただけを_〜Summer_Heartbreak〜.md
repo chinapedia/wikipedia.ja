@@ -1,7 +1,7 @@
 > この記事は[あなただけを 〜Summer Heartbreak〜](https://ja.wikipedia.org/wiki/あなただけを_〜Summer_Heartbreak〜)から翻訳されています。
 
 
-「**あなただけを 〜Summer Heartbreak〜**」（あなただけを サマー・ハートブレイク）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の36枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**あなただけを 〜Summer Heartbreak〜**」（あなただけを サマー・ハートブレイク）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の36作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")に発売された。
 
 [2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。
 

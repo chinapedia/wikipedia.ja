@@ -106,7 +106,7 @@
 
   - [TBSラジオ](../Page/TBSラジオ.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")
   - [福井放送](../Page/福井放送.md "wikilink")
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")

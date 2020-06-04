@@ -7,6 +7,8 @@
 
 『[森本毅郎さわやかワイド](../Page/森本毅郎さわやかワイド.md "wikilink")』の後継番組としてスタート。当初は[森本毅郎](../Page/森本毅郎.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")として『森本ワイド』（もりもとワイド）のサブタイトルが付されたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、森本が『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』に移動するため、キャスターを[山本文郎](../Page/山本文郎.md "wikilink")と、当時新人だった[長峰由紀](../Page/長峰由紀.md "wikilink")に交代、同時に司会者の冠が外れた。[1991年](../Page/1991年.md "wikilink")に山本のパートナーが長峰から[渡辺真理](../Page/渡辺真理.md "wikilink")（当時TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）に交代。
 
+1990年代の制作協力会社は[東京ビデオセンター](../Page/東京ビデオセンター.md "wikilink")・ファーストハンド・東放制作（現在の[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")）。この3社は『[サンデーモーニング](../Page/サンデーモーニング.md "wikilink")』『[関口宏のサンデーモーニング](https://ja.wikipedia.org/wiki/関口宏のサンデーモーニング "wikilink")』も制作協力をしている。[TBSビジョン](../Page/TBSビジョン.md "wikilink")は他の時間帯の（『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』など）映像提供程度で制作には関わっていない。『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』も同じだった。
+
 「ゲストコメンテーター」は極力使っていなかった。例外は月曜の[和田勉](../Page/和田勉.md "wikilink")と、金曜日の[天野祐吉](../Page/天野祐吉.md "wikilink")・[木元教子](../Page/木元教子.md "wikilink")・[山本コウタロー](../Page/山本コウタロー.md "wikilink")（特集コーナーの「WEEKポイント」・「WEEKポイント・延長戦」（放送時間拡大時の1992年10月以降から）出演のため）など。
 
 芸能人は「さん付け」していた（当時の『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』など朝7時からの番組も同じ）。午後のワイドショーの『3時にあいましょう』や『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』に比べると、政治・経済の話題も多く取り上げていた。
@@ -15,7 +17,7 @@
 
 番組末期の1996年4月からの半年間は、[宇崎竜童 & RUコネクション with 井上堯之の楽曲](../Page/宇崎竜童_&_RUコネクション_with_井上堯之.md "wikilink")「鳥の瞳で」（シングル『GOD BLESS TOKYO』カップリング／アルバム『起承転々』所収）がテーマ曲として流れていた。
 
-「[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")」の責任を取る形でTBSはワイドショーの廃止を決定した\[2\]ため、1996年9月27日に終了。『[モーニングジャンボ](https://ja.wikipedia.org/wiki/モーニングジャンボ "wikilink")』から通算25年半続いた朝のワイドショー番組は一旦幕を下ろす事になった。後継番組は[岡江久美子](../Page/岡江久美子.md "wikilink")・[薬丸裕英](../Page/薬丸裕英.md "wikilink")が司会を務める[生活情報番組](../Page/生活情報番組.md "wikilink")『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』。なお、山本は[午後枠](https://ja.wikipedia.org/wiki/TBSテレビ系列平日午後のワイドショー枠 "wikilink")『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』の後継番組で同じく生活情報番組『[素敵なあなた](../Page/素敵なあなた_\(TBS\).md "wikilink")』に異動した。
+「[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")」の責任を取る形でTBSはワイドショーの廃止を決定した\[2\]ため、1996年9月27日に終了。『[モーニングジャンボ](https://ja.wikipedia.org/wiki/モーニングジャンボ "wikilink")』から通算25年半続いた朝のワイドショー番組は一旦幕を下ろす事になった。『モーニングEye』は[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")に関しては全くの無関係である。「TBSビデオ問題」が発覚した後は、当番組でも大きく取り上げていた。後継番組は、[岡江久美子](../Page/岡江久美子.md "wikilink")・[薬丸裕英](../Page/薬丸裕英.md "wikilink")が司会を務める[生活情報番組](../Page/生活情報番組.md "wikilink")『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』。なお、山本は[午後枠](https://ja.wikipedia.org/wiki/TBSテレビ系列平日午後のワイドショー枠 "wikilink")『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』の後継番組で同じく生活情報番組『[素敵なあなた](../Page/素敵なあなた_\(TBS\).md "wikilink")』に異動した
 
 『はなまるマーケット』（2014年3月28日まで）は「生活情報番組」、その後継番組『[いっぷく\!](https://ja.wikipedia.org/wiki/いっぷく! "wikilink")』（同年3月31日 - 2015年3月27日）は「[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")」という位置付けだったが、『いっぷく\!』に代わって2015年3月30日から本枠で開始した『[白熱ライブ ビビット](https://ja.wikipedia.org/wiki/ビビット_\(テレビ番組\) "wikilink")』（2017年4月3日から『ビビット』に改題、2019年9月27日に終了）は「ワイドショー・情報[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")」との位置付けとなり、本番組終了以来18年半ぶりに本枠でのワイドショーが事実上復活となった。
 
@@ -287,7 +289,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>1990年4月2日よりネット開始 9:55で飛び降り</p></td>
 <td><p>△</p></td>
 </tr>

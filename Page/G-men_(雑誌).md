@@ -82,7 +82,7 @@
 
 ## 関連項目
 
-  - [上条毬男](https://ja.wikipedia.org/wiki/上条毬男 "wikilink")
+  - [上条毬男](../Page/上条毬男.md "wikilink")
   - [小日向](../Page/小日向_\(漫画家\).md "wikilink")
   - [山茶国生](https://ja.wikipedia.org/wiki/山茶国生 "wikilink")
   - [仁武GYM](https://ja.wikipedia.org/wiki/仁武GYM "wikilink")

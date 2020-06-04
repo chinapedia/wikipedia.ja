@@ -231,7 +231,7 @@ G3とG3-Xが合わさった外見であるが、基本カラーは[黒](https://
   - [的場耕二](../Page/的場耕二.md "wikilink")
   - 山本貴浩
   - [岡田良治](https://ja.wikipedia.org/wiki/岡田良治 "wikilink")
-  - 渡辺昌宏
+  - 渡邉昌宏
   - [永瀬尚希](../Page/永瀬尚希.md "wikilink")
   - 森美昭
   - 井殿雅和

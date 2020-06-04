@@ -183,7 +183,7 @@
 
   -
     前年まで[YS横浜を率いていた](../Page/横浜スポーツ&カルチャークラブ.md "wikilink")[樋口靖洋](../Page/樋口靖洋.md "wikilink")が新監督に就任\[53\]。
-    [朴一圭](https://ja.wikipedia.org/wiki/朴一圭 "wikilink")（[横浜FM](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）、[富樫佑太](https://ja.wikipedia.org/wiki/富樫佑太 "wikilink")（[岐阜](../Page/FC岐阜.md "wikilink")）、[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[瀧澤修平](https://ja.wikipedia.org/wiki/瀧澤修平 "wikilink")（[水戸](../Page/水戸ホーリーホック.md "wikilink")）が移籍、[屋宮大地](https://ja.wikipedia.org/wiki/屋宮大地 "wikilink")が引退しアカデミースタッフへ就任、[播戸竜二](../Page/播戸竜二.md "wikilink")（2019年に所属したチームはなくシーズン途中で[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")と1日契約を結び引退発表）や[朴利基](https://ja.wikipedia.org/wiki/朴利基 "wikilink")（のちに[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")に加入）などの選手が契約満了により退団した。
+    [朴一圭](https://ja.wikipedia.org/wiki/朴一圭 "wikilink")（[横浜FM](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")）、[富樫佑太](https://ja.wikipedia.org/wiki/富樫佑太 "wikilink")（[岐阜](../Page/FC岐阜.md "wikilink")）、[枝本雄一郎](https://ja.wikipedia.org/wiki/枝本雄一郎 "wikilink")（[鹿児島](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")）、[瀧澤修平](https://ja.wikipedia.org/wiki/瀧澤修平 "wikilink")（[水戸](../Page/水戸ホーリーホック.md "wikilink")）が移籍、[屋宮大地](https://ja.wikipedia.org/wiki/屋宮大地 "wikilink")が引退しアカデミースタッフへ就任、[播戸竜二](../Page/播戸竜二.md "wikilink")（2019年シーズン途中に[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")と1日契約を結んだ後引退発表）や[朴利基](https://ja.wikipedia.org/wiki/朴利基 "wikilink")（のちに[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")に加入）などの選手が契約満了により退団した。
     一方、[田中恵太](https://ja.wikipedia.org/wiki/田中恵太 "wikilink")（水戸・レンタル移籍含め3度目の在籍）、[ダニー・カルバハル](https://ja.wikipedia.org/wiki/ダニー・カルバハル "wikilink")（水戸）、[福井諒司](https://ja.wikipedia.org/wiki/福井諒司 "wikilink")（水戸）、[岡﨑亮平](https://ja.wikipedia.org/wiki/岡崎亮平 "wikilink")（[湘南](https://ja.wikipedia.org/wiki/湘南ベルマーレ "wikilink")）、[新井純平](https://ja.wikipedia.org/wiki/新井純平_\(1994年生のサッカー選手\) "wikilink")（[横浜FC](../Page/横浜FC.md "wikilink")）、[西河翔吾](../Page/西河翔吾.md "wikilink")（[栃木](../Page/栃木SC.md "wikilink")）、[鈴木孝司](https://ja.wikipedia.org/wiki/鈴木孝司 "wikilink")（[町田](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")）、[風間宏希](https://ja.wikipedia.org/wiki/風間宏希 "wikilink")（[群馬](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")）などJ1またはJ2在籍経験のある選手、[上里一将](../Page/上里一将.md "wikilink")（[熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")）、[上原慎也](https://ja.wikipedia.org/wiki/上原慎也 "wikilink")（[愛媛](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")）の沖縄出身選手などが移籍加入したほか、2017年に[特別指定選手](../Page/特別指定選手.md "wikilink")として在籍・出場経験のある[儀保幸英](https://ja.wikipedia.org/wiki/儀保幸英 "wikilink")など5人が大学・高校から新加入した\[54\]。
     2019年1月9日に行われた新体制発表会で、社長の倉林は「徳元や上門といった昨年からいる地元選手に加えて、上里、上原、儀保と県出身の選手たちも迎えることができました。まさしく『沖縄史上最強チーム』と言っても過言では無いと思いますので、最強チームを観に是非スタジアムへお越しください」とコメント。新監督の樋口は「常に主導権をとって戦うんだと言う部分をチーム全体で共有し、難しいシーズンになると思いますが、是非チーム全員の力を合わせて、躍動的で一体感のあるサッカーをしながら攻めるサッカーで勝っていきたい」と述べた\[55\]\[56\]。
     下部組織からの昇格選手として2019年1月28日に[井口綾人](https://ja.wikipedia.org/wiki/井口綾人 "wikilink")、[与那城智希](https://ja.wikipedia.org/wiki/与那城智希 "wikilink")、[國場虎次朗](https://ja.wikipedia.org/wiki/國場虎次朗 "wikilink")の加入を\[57\]、2019年2月20日に[福井凜音](https://ja.wikipedia.org/wiki/福井凜音 "wikilink")の加入\[58\]を発表した。
@@ -214,7 +214,7 @@
 <!-- end list -->
 
   -
-    樋口靖洋体制2年目\[62\]。
+    樋口体制2年目\[62\]。
 
 ## 成績
 

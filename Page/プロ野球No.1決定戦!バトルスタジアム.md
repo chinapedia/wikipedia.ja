@@ -25,7 +25,7 @@
 
 ## 放送日時
 
-基本的には、毎年1月第1[日曜日](../Page/日曜日.md "wikilink")の午後に2時間程度（元日 - 1月3日が日曜日の場合は1月の第2日曜日）、日本テレビ系列（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")/[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）全国24局ネット（[マストバイ22局](https://ja.wikipedia.org/wiki/フルネット "wikilink")＋[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")）にて放送される。
+基本的には、毎年1月第1[日曜日](../Page/日曜日.md "wikilink")の午後に2時間程度（元日 - 1月3日が日曜日の場合は1月の第2日曜日）、日本テレビ系列（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")/[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）全国24局ネット（[マストバイ22局](https://ja.wikipedia.org/wiki/フルネット "wikilink")＋[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")・[北日本放送](../Page/北日本放送.md "wikilink")）にて放送される。
 
 なお、放送当日は、読売テレビなどでは通常レギュラー番組である『[そこまで言って委員会NP](https://ja.wikipedia.org/wiki/そこまで言って委員会NP "wikilink")』\[1\]の放送時間が移動となる\[2\]（年により、短縮か休止の場合もある）。
 
@@ -596,7 +596,7 @@
 
 ## 外部リンク
 
-  - [ダイワハウススペシャル プロ野球No.1決定戦！バトルスタジアム](http://www.ytv.co.jp/battle_stadium/)
+  - [ダイワハウススペシャル プロ野球No.1決定戦！バトルスタジアム](https://www.ytv.co.jp/battle_stadium/)
 
   -
 [Category:スポーツに関するイベント](https://ja.wikipedia.org/wiki/Category:スポーツに関するイベント "wikilink") [Category:冬のイベント](https://ja.wikipedia.org/wiki/Category:冬のイベント "wikilink") [Category:大阪城ホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:大阪城ホールの行事・イベント "wikilink") [Category:讀賣テレビ放送](https://ja.wikipedia.org/wiki/Category:讀賣テレビ放送 "wikilink") [Category:大和ハウスグループ](https://ja.wikipedia.org/wiki/Category:大和ハウスグループ "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:読売テレビの特別番組](https://ja.wikipedia.org/wiki/Category:読売テレビの特別番組 "wikilink") [Category:日本テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのスポーツ番組 "wikilink") [Category:日本テレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:日本テレビの年末年始特番 "wikilink") [Category:ローカルテレビ局の年末年始特番](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の年末年始特番 "wikilink") [Category:吉本興業の番組](https://ja.wikipedia.org/wiki/Category:吉本興業の番組 "wikilink") [Category:1985年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のテレビ番組_\(日本\) "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:年1回放送の特別番組](https://ja.wikipedia.org/wiki/Category:年1回放送の特別番組 "wikilink") [Category:宮根誠司](https://ja.wikipedia.org/wiki/Category:宮根誠司 "wikilink") [Category:ブラックマヨネーズ](https://ja.wikipedia.org/wiki/Category:ブラックマヨネーズ "wikilink") [Category:NMB48](https://ja.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

@@ -3,9 +3,9 @@
 
 **日本SF作家クラブ**（にほんSFさっかクラブ、**SFWJ** : Science Fiction and Fantasy Writers of Japan）は、[1963年](../Page/1963年.md "wikilink")発足の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")・翻訳者や評論家、編集者による親睦団体であった。2017年8月24日に[一般社団法人](https://ja.wikipedia.org/wiki/一般社団法人 "wikilink")化した。
 
-[小松左京](../Page/小松左京.md "wikilink")、[星新一](../Page/星新一.md "wikilink")、[筒井康隆](../Page/筒井康隆.md "wikilink")ら日本SF界の重鎮はほとんど所属している。
+[小松左京](../Page/小松左京.md "wikilink")、[星新一](../Page/星新一.md "wikilink")、[筒井康隆](../Page/筒井康隆.md "wikilink")ら日本SF界の重鎮が所属している。
 
-1963年の設立時の英名は、Japan SF Writers Association （略称JSFWA）で\[1\]SF作家や科学ライターのための親睦会だったが、[1999年](../Page/1999年.md "wikilink")の総会で[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")（略称SFWA）に倣って、英語表記に「Fantasy」を入れることを決定\[2\]。以後、SF作家のみならず、[ファンタジー](../Page/ファンタジー.md "wikilink")や[推理小説](../Page/推理小説.md "wikilink")を主な活躍の舞台とする小説家も入会するようになった。その初期から[手塚治虫](../Page/手塚治虫.md "wikilink")など[漫画家](../Page/漫画家.md "wikilink")にも門戸を開いており、[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")や[大友克洋](../Page/大友克洋.md "wikilink")や[京極夏彦](../Page/京極夏彦.md "wikilink")や[神坂一](../Page/神坂一.md "wikilink")らもメンバーに名を連ねている。
+1963年の設立時の英名は、Japan SF Writers Association （略称JSFWA）で\[1\]SF作家や科学ライターのための親睦会だったが、[1999年](../Page/1999年.md "wikilink")の総会で[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")（略称SFWA）に倣って、英語表記に「Fantasy」を入れることを決定\[2\]。以後、SF作家のみならず、[ファンタジー](../Page/ファンタジー.md "wikilink")や[推理小説](../Page/推理小説.md "wikilink")を主な活躍の舞台とする小説家も入会するようになった。その初期から[手塚治虫](../Page/手塚治虫.md "wikilink")など[漫画家](../Page/漫画家.md "wikilink")にも門戸を開いており、[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")や[大友克洋](../Page/大友克洋.md "wikilink")や[京極夏彦](../Page/京極夏彦.md "wikilink")や[神坂一](../Page/神坂一.md "wikilink")らもメンバーに名を連ねた。
 
 1980年から「[日本SF大賞](../Page/日本SF大賞.md "wikilink")」を主催している。かつて主催していた「[日本SF新人賞](../Page/日本SF新人賞.md "wikilink")」「[日本SF評論賞](https://ja.wikipedia.org/wiki/日本SF評論賞 "wikilink")」の2賞は休止。
 
@@ -139,7 +139,7 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="../Page/神林長平.md" title="wikilink">神林長平</a>(2001/09～)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/嶋田洋一" title="wikilink">嶋田洋一</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/嶋田洋一_(翻訳家)" title="wikilink">嶋田洋一</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>

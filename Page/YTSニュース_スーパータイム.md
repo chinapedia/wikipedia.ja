@@ -5,7 +5,7 @@
 
 ## 概要
 
-前番組『[FNN YTSニュースワイド60](../Page/YTSニュースワイド60.md "wikilink")』を改題し、フジテレビの番組名に合わせる形でスタートした。フジテレビや他の[FNN系列局とは違い](../Page/フジニュースネットワーク.md "wikilink")、山形テレビはタイトルに「ニュース」をつけて放送していた（フジテレビでは『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』『[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")』とともに「フジテレビから『ニュース』が消えた」と報道されていたほどである）。
+前番組『[FNN YTSニュースワイド60](../Page/YTSニュースワイド60.md "wikilink")』を改題し、フジテレビの番組名に合わせる形でスタートした。フジテレビや他の[FNN系列局とは違い](../Page/フジニュースネットワーク.md "wikilink")、山形テレビはタイトルに「ニュース」をつけて放送していた（フジテレビでは『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』『[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")』とともに「フジテレビから『ニュース』が消えた」と報道されていたほどである）\[1\]。
 
 [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列へのネットチェンジ（詳細は[山形テレビ\#ネットチェンジ](https://ja.wikipedia.org/wiki/山形テレビ#ネットチェンジ "wikilink")を参照のこと）と同時に番組も終了し、以降はANN系列のニュース番組のタイトルを使用している（例：『[スーパーJチャンネルYTSゴジダス](../Page/スーパーJチャンネルYTSゴジダス.md "wikilink")』）。
 
@@ -55,3 +55,5 @@
   - [ニュース一番星](../Page/ニュース一番星.md "wikilink") - 本番組の直前番組。正式タイトルは『○曜一番星』。
 
 [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:山形テレビの番組](https://ja.wikipedia.org/wiki/Category:山形テレビの番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")
+
+1.  ただし、番組名に「スーパータイム」を使用する[FNN系列局においては](../Page/フジニュースネットワーク.md "wikilink")、[長野放送](../Page/長野放送.md "wikilink")([NBSスーパータイム NEWS\&SPORTS](../Page/NBSスーパータイム_NEWS&SPORTS.md "wikilink"))、[テレビ西日本](../Page/テレビ西日本.md "wikilink")([TNCスーパータイム NEWS\&SPORTS](../Page/TNCスーパータイム_NEWS&SPORTS.md "wikilink"))と[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")([KTSスーパータイム NEWS\&SPORTS](../Page/KTSスーパータイム_NEWS&SPORTS.md "wikilink"))も、番組名に「NEWS」と付していた。

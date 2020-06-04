@@ -32,7 +32,7 @@ OPEN ICQはその名前に反し実際には、ソースコードを公開しな
 
 QQには、IMとしての機能の他にも様々な機能が付いている。
 
-  - "Q-Zone"（QQ空間）- ブログ、[SNS機能なども付いている](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。
+  - "Q-Zone"（[QQ空間](https://ja.wikipedia.org/wiki/QQ空間 "wikilink")）- ブログ、[SNS機能なども付いている](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。
   - "騰訊微博" - ミニブログ、[Twitter](../Page/Twitter.md "wikilink")のようなもの。
   - "QQ音楽" - 音楽の再生、管理ソフト。
   - "QQ影音" - 動画の再生、管理ソフト。

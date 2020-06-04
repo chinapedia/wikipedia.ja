@@ -268,7 +268,7 @@ acid androidが企画するオールナイトイベント。[2001年](../Page/20
 
 **[2020年](../Page/2020年.md "wikilink")**
 
-  - [5月30日](../Page/5月30日.md "wikilink") - [6月27日](../Page/6月27日.md "wikilink")、ライブツアー「ACID ANDROID LIVE 2020」を開催\[34\]。
+  - [5月30日](../Page/5月30日.md "wikilink") - [6月27日](../Page/6月27日.md "wikilink")、ライブツアー「ACID ANDROID LIVE 2020」を開催\[34\]。新型コロナウイルス感染症の拡大に絡み、4月21日に全公演延期が発表された。
 
 ## 作品
 
@@ -802,7 +802,7 @@ HEAVEN'S ROCK 熊谷（#2）</p></td>
 <td><p>ACID ANDROID LIVE 2020</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
-<p>全5都市5公演</p>
+<p>全5都市5公演（延期）</p>
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>BananaHall（#1）<br />

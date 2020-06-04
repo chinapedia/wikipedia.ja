@@ -66,6 +66,6 @@
   - [ヤマハ・CSシリーズ](../Page/ヤマハ・CSシリーズ.md "wikilink")
   - [Modular Synthesis Plug-in System](../Page/Modular_Synthesis_Plug-in_System.md "wikilink")
 
-[Category:ヤマハの製品](https://ja.wikipedia.org/wiki/Category:ヤマハの製品 "wikilink") [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:コンピュータミュージック](https://ja.wikipedia.org/wiki/Category:コンピュータミュージック "wikilink") [Category:電子楽器](https://ja.wikipedia.org/wiki/Category:電子楽器 "wikilink") [Category:MIDI](https://ja.wikipedia.org/wiki/Category:MIDI "wikilink")
+[Category:ヤマハの製品](https://ja.wikipedia.org/wiki/Category:ヤマハの製品 "wikilink") [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:コンピュータミュージック](https://ja.wikipedia.org/wiki/Category:コンピュータミュージック "wikilink") [Category:MIDI](https://ja.wikipedia.org/wiki/Category:MIDI "wikilink")
 
 1.

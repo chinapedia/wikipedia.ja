@@ -9,6 +9,8 @@
 
 職員の殆どがパーソナリティ、ミキサー、営業、製作、編成などの複数の業務に携わっており、正社員の専任パーソナリティは少ない。
 
+[宇部市](https://ja.wikipedia.org/wiki/宇部市 "wikilink")の[エフエムきらら](../Page/エフエムきらら.md "wikilink")が行う『**[きらら方式](https://ja.wikipedia.org/wiki/エフエムきらら#きらら方式 "wikilink")**』を行う放送局の一つ。
+
 ## 放送局概要
 
   - 本社所在地：[山口県](../Page/山口県.md "wikilink")[長門市](../Page/長門市.md "wikilink")[仙崎](../Page/仙崎.md "wikilink")字網田322番地2 [フジ](../Page/フジ.md "wikilink")長門店内 〒759-4106

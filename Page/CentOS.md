@@ -9,19 +9,19 @@
 
 ## 開発
 
-RHELの一般公開されたソースコードにもとづくディストリビューションとして[White Box Enterprise Linux](../Page/White_Box_Enterprise_Linux.md "wikilink") が先にリリースされている\[8\]。これが人気を得たことを契機にCentOSプロジェクトは有志のボランティアにより立ち上げられた。呼び名は「コミュニティベースで開発されたエンタープライズクラスの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (**C**ommunity **ENT**erprise **O**perating **S**ystem) 」に由来する。
+RHELの一般公開されたソースコードにもとづくディストリビューションとして[White Box Enterprise Linux](../Page/White_Box_Enterprise_Linux.md "wikilink") が先にリリースされている\[8\]。これが人気を得たことを契機にCentOSプロジェクトは有志のボランティアにより立ち上げられた。呼び名は「コミュニティベースで開発されたエンタープライズクラスの[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (**C**ommunity **ENT**erprise **O**perating **S**ystem) 」に由来する\[9\]。
 
-開発当初、レッドハットはCentOSの配布・開発に関与してこなかったが、2014年1月にCentOSプロジェクトを支援していくことを表明。プロジェクトの中心メンバーを同社員として迎え入れた\[9\]。
+開発当初、レッドハットはCentOSの配布・開発に関与してこなかったが、2014年1月にCentOSプロジェクトを支援していくことを表明。プロジェクトの中心メンバーを同社員として迎え入れた\[10\]。
 
 ## ターゲット
 
-ターゲットはRHELと同様に企業の[サーバ](../Page/サーバ.md "wikilink")や[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の構築\[10\]としている。サポートが必要な場合にはレッドハットの製品を勧めるとしている\[11\]。デスクトップも想定されていることから、高機能なGUI環境も標準で提供されている。[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")や[Oracle VM VirtualBoxなどのパッケージや後述の](https://ja.wikipedia.org/wiki/Oracle_VM_VirtualBox "wikilink")[サードパーティー](../Page/サードパーティー.md "wikilink")の[リポジトリ](../Page/リポジトリ.md "wikilink")を用いて[ビジネスソフト](https://ja.wikipedia.org/wiki/ビジネスソフト "wikilink")、デスクトップ[仮想化ソフト](https://ja.wikipedia.org/wiki/x86仮想化 "wikilink")、[GPUや周辺機器の](../Page/Graphics_Processing_Unit.md "wikilink")[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")、[セキュリティソフト](https://ja.wikipedia.org/wiki/セキュリティソフト "wikilink")、[デジタルコンテンツ](https://ja.wikipedia.org/wiki/デジタルコンテンツ "wikilink")制作ツール、[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")、ビデオコーデックなどをインストールすれば、本格的なデスクトップOSとして使用することが可能である。
+ターゲットはRHELと同様に企業の[サーバ](../Page/サーバ.md "wikilink")や[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")の構築\[11\]としている。サポートが必要な場合にはレッドハットの製品を勧めるとしている\[12\]。デスクトップも想定されていることから、高機能なGUI環境も標準で提供されている。[LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink")や[Oracle VM VirtualBoxなどのパッケージや後述の](https://ja.wikipedia.org/wiki/Oracle_VM_VirtualBox "wikilink")[サードパーティー](../Page/サードパーティー.md "wikilink")の[リポジトリ](../Page/リポジトリ.md "wikilink")を用いて[ビジネスソフト](https://ja.wikipedia.org/wiki/ビジネスソフト "wikilink")、デスクトップ[仮想化ソフト](https://ja.wikipedia.org/wiki/x86仮想化 "wikilink")、[GPUや周辺機器の](../Page/Graphics_Processing_Unit.md "wikilink")[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")、[セキュリティソフト](https://ja.wikipedia.org/wiki/セキュリティソフト "wikilink")、[デジタルコンテンツ](https://ja.wikipedia.org/wiki/デジタルコンテンツ "wikilink")制作ツール、[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")、ビデオコーデックなどをインストールすれば、本格的なデスクトップOSとして使用することが可能である。
 
-ライセンス費用が無償であるにもかかわらずサポート期限が非常に長い。安定性にも優れ一部メーカーのLinux搭載パソコンやワークステーションでの採用も増加しつつある。
+ライセンス費用が無償であるにもかかわらずサポート期限が非常に長い。安定性にも優れ
 
 ## 入手方法
 
-公式及びミラーサーバからCDおよびDVDの[ISOイメージ](https://ja.wikipedia.org/wiki/ISOイメージ "wikilink")が[HTTPと](../Page/Hypertext_Transfer_Protocol.md "wikilink")[FTPでダウンロードできる](../Page/File_Transfer_Protocol.md "wikilink")。バージョン7からは[Blu-ray DiscのISOイメージも追加されている](../Page/Blu-ray_Disc.md "wikilink")。大多数のミラーサーバでは[BitTorrent](../Page/BitTorrent.md "wikilink")でダウンロード出来るようにするためのトレントファイルのみが公開されている。
+公式及びミラーサーバからCDおよびDVDの[ISOイメージ](https://ja.wikipedia.org/wiki/ISOイメージ "wikilink")が[HTTPと](../Page/Hypertext_Transfer_Protocol.md "wikilink")[FTPでダウンロードできる](../Page/File_Transfer_Protocol.md "wikilink")。バージョン7からは[Blu-ray DiscのISOイメージも追加されている](../Page/Blu-ray_Disc.md "wikilink")。
 
 ## パッケージ管理
 
@@ -31,25 +31,25 @@ CentOSは[Red Hat Linuxを源流とするRPM系Linuxに属しており](../Page/
 
 ### リポジトリ
 
-CentOSにデフォルトで含まれる[リポジトリ](../Page/リポジトリ.md "wikilink") (Base, Updates, Addons, Extras, CentOS Plus) に加えて、[Fedora](../Page/Fedora.md "wikilink")提供のepel (Extra Packages for Enterprise Linux) や[サードパーティー](../Page/サードパーティー.md "wikilink")のNux Dextop リポジトリ\[12\]やRPM Fusion\[13\], ELRepo\[14\], Les RPM de Remi\[15\], RPMForge\[16\], JPackage\[17\]などがよく使われている。CentOS Plusはデフォルトで無効化されている。RPMForge及びRemiに関しても、オリジナルのパッケージを上書きしてしまう可能性があるとしてインストール後はOFFにして運用することが一般的である。
+CentOSにデフォルトで含まれる[リポジトリ](../Page/リポジトリ.md "wikilink") (Base, Updates, Addons, Extras, CentOS Plus) に加えて、[Fedora](../Page/Fedora.md "wikilink")提供のepel (Extra Packages for Enterprise Linux) や[サードパーティー](../Page/サードパーティー.md "wikilink")のNux Dextop リポジトリ\[13\]やRPM Fusion\[14\], ELRepo\[15\], Les RPM de Remi\[16\], RPMForge\[17\], JPackage\[18\]などがよく使われている。CentOS Plusはデフォルトで無効化されている。RPMForge及びRemiに関しても、オリジナルのパッケージを上書きしてしまう可能性があるとしてインストール後はOFFにして運用することが一般的である。
 
 ## バージョン
 
 ### 番号の規則
 
-CentOS 6以前はメジャーバージョンとマイナーバージョンの二つより構成される。メジャーバージョンはベースとしたRHELに対応しており、マイナーバージョンはそのRHELのバージョンアップに対応する。例えばCentOS 4.3はRHEL 4 update 3のソースコードよりビルドされており、これとの互換が目標となっている。CentOS 7以降はメジャーバージョンとマイナーバージョンに加えて、タイムスタンプ（年、月）が追加された。例えばCentOS 7.0-1406はRHEL7.0の2014年6月にリリースされたソースコードを基にしていることを示している\[18\]。
+CentOS 6以前はメジャーバージョンとマイナーバージョンの二つより構成される。メジャーバージョンはベースとしたRHELに対応しており、マイナーバージョンはそのRHELのバージョンアップに対応する。例えばCentOS 4.3はRHEL 4 update 3のソースコードよりビルドされており、これとの互換が目標となっている。CentOS 7以降はメジャーバージョンとマイナーバージョンに加えて、タイムスタンプ（年、月）が追加された。例えばCentOS 7.0-1406はRHEL7.0の2014年6月にリリースされたソースコードを基にしていることを示している\[19\]。
 
 ### リスト
 
-メンテナンス更新期限はRHELと同じく10年（CentOS 4以前は約7年）程度\[19\]と非常に長い。完全更新は新たな機能の追加とセキュリティパッチ配布を意味し、年2～4回が予定されている。その後は必要不可欠なセキュリティパッチ配布のみを想定している。
+メンテナンス更新期限はRHELと同じく10年（CentOS 4以前は約7年）程度\[20\]と非常に長い。完全更新は新たな機能の追加とセキュリティパッチ配布を意味し、年2～4回が予定されている。その後は必要不可欠なセキュリティパッチ配布のみを想定している。
 
 <table>
-<caption>バージョンのリスト[20]</caption>
+<caption>バージョンのリスト[21]</caption>
 <thead>
 <tr class="header">
 <th><p>バージョン</p></th>
 <th></th>
-<th><p>アーキテクチャ[21]</p></th>
+<th><p>アーキテクチャ[22]</p></th>
 <th><p>カーネル</p></th>
 <th><p>リリース日</p></th>
 <th><p>ベースとなった<br />
@@ -496,20 +496,20 @@ Maintenance Updates</p></th>
 
 ### アドオン
 
-Software Collections (SCL) はより新しいバージョンもしくはシステムに元来含まれていない動的プログラミング言語、データベースサーバ、それらに関連した様々なパッケージを提供するレポジトリである\[22\]。これらはCentOSで標準的に提供されるパッケージを置き換えるものではない。`/opt`ディレクトリに並行してインストールされて提供される。`scl`ユーティリティによってはアプリケーションごとに選択できる。例えばPerlやMySQLの標準のバージョンはCentOSの基本的なインストールのままである\[23\]。
+Software Collections (SCL) はより新しいバージョンもしくはシステムに元来含まれていない動的プログラミング言語、データベースサーバ、それらに関連した様々なパッケージを提供するレポジトリである\[23\]。これらはCentOSで標準的に提供されるパッケージを置き換えるものではない。`/opt`ディレクトリに並行してインストールされて提供される。`scl`ユーティリティによってはアプリケーションごとに選択できる。例えばPerlやMySQLの標準のバージョンはCentOSの基本的なインストールのままである\[24\]。
 
-| アドオン名                                                                              | アーキテクチャ\[24\]                                                                                                                                                                        | CentOSのバージョン                                                                                                                  | CentOS リリース日                                         | RHEL リリース日   | 遅延(日) |
+| アドオン名                                                                              | アーキテクチャ\[25\]                                                                                                                                                                        | CentOSのバージョン                                                                                                                  | CentOS リリース日                                         | RHEL リリース日   | 遅延(日) |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------ | ----- |
 | Software Collections (SCL) 1.0<ref name="rhel-software-collections-1.0">{{cite web | url = <https://www.redhat.com/about/news/press-archive/2013/9/red-hat-extends-red-hat-enterprise-linux-platform-with-latest-versions-of-popular-programming-languages-and-databases> | title = Red Hat Extends Red Hat Enterprise Linux Platform with Latest Versions of Popular Programming Languages and Databases | date = 2013-09-12 | accessdate = 2013-10-31 }}</ref> | x86-64       | 6.4   |
 | Developer Toolset 2.0<ref name="rhel-developer-toolset-2.0">{{cite web             | url = <http://www.redhat.com/about/news/press-archive/2013/9/red-hat-releases-red-hat-developer-toolset-2-0-with-update-to-gcc>                                                      | title = Red Hat Releases Red Hat Developer Toolset 2.0 with Update to GCC                                                     | date = 2013-09-12 | accessdate = 2013-10-31 }}</ref> | i386, x86-64 | 6.4   |
 
 ## アーキテクチャ
 
-CentOSは8では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POWER8](https://ja.wikipedia.org/wiki/POWER8 "wikilink") LE、[AArch64](https://ja.wikipedia.org/wiki/AArch64 "wikilink")のアーキテクチャをサポートする。7では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")アーキテクチャしかサポートしない。ただし[IA-32](../Page/IA-32.md "wikilink")をサポートしたCentOS 6は依然サポートの対象内である\[25\]。
+CentOSは8では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POWER8](https://ja.wikipedia.org/wiki/POWER8 "wikilink") LE、[AArch64](https://ja.wikipedia.org/wiki/AArch64 "wikilink")のアーキテクチャをサポートする。7では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")アーキテクチャしかサポートしない。ただし[IA-32](../Page/IA-32.md "wikilink")をサポートしたCentOS 6は依然サポートの対象内である\[26\]。
 
 以下は現在、サポートされていない:
 
-  - [x86](../Page/IA-32.md "wikilink")（[32ビット](../Page/32ビット.md "wikilink")）（CentOS 7以降ではサポート外となったが、Alternative Architecture Special Interest Groupでサポート継続\[26\]）
+  - [x86](../Page/IA-32.md "wikilink")（[32ビット](../Page/32ビット.md "wikilink")）（CentOS 7以降ではサポート外となったが、Alternative Architecture Special Interest Groupでサポート継続\[27\]）
   - [i586](https://ja.wikipedia.org/wiki/i586 "wikilink")
   - [物理アドレス拡張](../Page/物理アドレス拡張.md "wikilink")のない[x86](../Page/IA-32.md "wikilink")（CentOS 6以降ではサポート外）
   - IA-64（[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")[Itanium](../Page/Itanium.md "wikilink")、64ビット）*（CentOS 3、4にてサポート）*
@@ -569,21 +569,22 @@ CentOSは8では[x86-64](https://ja.wikipedia.org/wiki/x86-64 "wikilink")、[POW
 6.
 7.
 8.  [White Box Enterprise Linux 本家サイトニュース](http://www.whiteboxlinux.org/news.html)と[CentOS本家サイトヒストリー](http://www.centos.org/modules/news/index.php?storytopic=4)を参照
-9.
-10. [Red Hat Enterprise Linux 製品情報](http://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux)
-11.
-12. [RPM repositories for EL](http://li.nux.ro/repos.html)
-13. [Configuration - RPM Fusion](http://rpmfusion.org/Configuration/)
-14. [ELRepo - HomePage](http://elrepo.org/)
-15. [Les RPM de Remi](http://rpms.famillecollet.com/)
-16. [AdditionalResources/Repositories/RPMForge - CentOS Wiki](http://wiki.centos.org/AdditionalResources/Repositories/RPMForge)
-17. [JPackage Project](http://www.jpackage.org/)
-18.
-19. [Download - CentOS Wiki](http://wiki.centos.org/Download)
-20. [CentOS Product Specifications](https://wiki.centos.org/About/Product)
-21.
+9.   Open Source Community |website=community.redhat.com |access-date=2020-05-09}}
+10.
+11. [Red Hat Enterprise Linux 製品情報](http://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux)
+12.
+13. [RPM repositories for EL](http://li.nux.ro/repos.html)
+14. [Configuration - RPM Fusion](http://rpmfusion.org/Configuration/)
+15. [ELRepo - HomePage](http://elrepo.org/)
+16. [Les RPM de Remi](http://rpms.famillecollet.com/)
+17. [AdditionalResources/Repositories/RPMForge - CentOS Wiki](http://wiki.centos.org/AdditionalResources/Repositories/RPMForge)
+18. [JPackage Project](http://www.jpackage.org/)
+19.
+20. [Download - CentOS Wiki](http://wiki.centos.org/Download)
+21. [CentOS Product Specifications](https://wiki.centos.org/About/Product)
 22.
 23.
 24.
 25.
-26. [CentOS 7 32ビット版](http://mirror.centos.org/altarch/7/isos/i386/)
+26.
+27. [CentOS 7 32ビット版](http://mirror.centos.org/altarch/7/isos/i386/)

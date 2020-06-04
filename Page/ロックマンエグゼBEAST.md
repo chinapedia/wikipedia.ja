@@ -970,7 +970,7 @@
 
 ## 外部リンク
 
-  - [ロックマンエグゼBEAST（テレビ東京公式）](http://www.tv-tokyo.co.jp/anime/rockman_beast/)
+  - [ロックマンエグゼBEAST（テレビ東京公式）](https://www.tv-tokyo.co.jp/anime/rockman_beast/)
   - [ロックマンエグゼBEAST+（テレビ東京）](http://www.shopro.co.jp/tv/archive/rockman_bp/main.html)
   - [ロックマンエグゼBEAST+（XEBEC公式）](http://www.xebec-inc.co.jp/anime/rockmanexe5/)
 

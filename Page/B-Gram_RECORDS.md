@@ -136,4 +136,4 @@
 9.  本作はB-Gramからは再発売されておらず、発売権移管に伴い廃盤となっている。
 10. 本作はB-Gramからは再発売されておらず、発売権移管に伴い廃盤となっている。
 11. 「Higher↑ Higher↑」CMスポットでは、B-Gramのロゴが表記されていた。
-12. [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")夏に発行された同社のDM冊子『B-Town　Vol.5』にリリース告知の記載がある。CDショップには[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")発売予定（規格品番：JBCJ-1007)で案内されていた。
+12. [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")夏に発行された同社のDM冊子『B-Town　Vol.3』にリリース告知の記載がある。CDショップには[1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")発売予定（規格品番：JBCJ-1007)で案内されていた。

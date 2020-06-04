@@ -1,7 +1,7 @@
 > この記事は[NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース)から翻訳されています。
 
 
-『**NNNニュース**』（エヌエヌエヌニュース）とは、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")をはじめとする[日本テレビ系列(NNN)各加盟テレビ局が放送する](../Page/日本ニュースネットワーク.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")の総称のことである。
+『**NNNニュース**』（エヌエヌエヌニュース）とは、[キー局](../Page/キー局.md "wikilink")の[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")をはじめとする[日本テレビ系列(NNN)各加盟テレビ局が放送する](../Page/日本ニュースネットワーク.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")の総称のことである。
 
 ## 概要
 

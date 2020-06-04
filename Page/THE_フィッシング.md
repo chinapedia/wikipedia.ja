@@ -234,7 +234,7 @@
 
 ### 過去
 
-  - [秋田県](../Page/秋田県.md "wikilink")・[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（ABS）
+  - [秋田県](../Page/秋田県.md "wikilink")・[秋田放送](../Page/秋田放送.md "wikilink")（ABS）
   - [山形県](../Page/山形県.md "wikilink")・[山形放送](../Page/山形放送.md "wikilink")（YBC）
       - [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって終了
   - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")・[東北放送](../Page/東北放送.md "wikilink")（TBC）

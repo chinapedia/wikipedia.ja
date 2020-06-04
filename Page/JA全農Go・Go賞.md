@@ -218,7 +218,7 @@
 <td></td>
 <td><p>4月</p></td>
 <td><p>好走塁賞</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石井琢朗" title="wikilink">石井琢朗</a></p></td>
+<td><p><a href="../Page/石井琢朗.md" title="wikilink">石井琢朗</a></p></td>
 <td><p>横浜</p></td>
 </tr>
 <tr class="odd">

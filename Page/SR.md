@@ -44,7 +44,7 @@
 
 ### その他
 
-  - [社会的責任](https://ja.wikipedia.org/wiki/社会的責任 "wikilink")　（social responsibility）-　企業や組織の社会的責任。特に企業の場合には[CSRと呼ぶ](../Page/企業の社会的責任.md "wikilink")。
+  - [社会的責任](https://ja.wikipedia.org/wiki/社会的責任 "wikilink") () - 企業や組織の社会的責任。特に企業の場合には[CSRと呼ぶ](../Page/企業の社会的責任.md "wikilink")。
   - [特殊相対性理論](../Page/特殊相対性理論.md "wikilink") ()
   - [スーパーラグビー](../Page/スーパーラグビー.md "wikilink") ()
   - [Sound Reinforcement](https://ja.wikipedia.org/wiki/Public_Address#概要 "wikilink") - 放送設備のうち、一定規模以上かつ多チャンネルを使用するコンサートなどのシステム。
@@ -58,8 +58,8 @@
   - [シェアホルダー・リレーション](https://ja.wikipedia.org/wiki/シェアホルダー・リレーション "wikilink") ()
   - [シンクロトロン放射](https://ja.wikipedia.org/wiki/シンクロトロン放射 "wikilink") ()
   - [スーパーレンジャー](https://ja.wikipedia.org/wiki/スーパーレンジャー "wikilink") () - [横浜市消防局特別高度救助部隊](https://ja.wikipedia.org/wiki/横浜市消防局特別高度救助部隊 "wikilink")の通称名。
-  - SUPER　RESCUE（SR） - [藤沢市消防局](../Page/藤沢市消防局.md "wikilink")・[高度救助隊](https://ja.wikipedia.org/wiki/高度救助隊 "wikilink")の通称名。
-  - シューペル・ランドヌール() - 同一年度（1月～12月）に200km、300km、400km、600kmの[ブルベ](https://ja.wikipedia.org/wiki/ブルベ "wikilink")を完走した者に与えられる呼称。
+  - SUPER RESCUE (SR) - [藤沢市消防局](../Page/藤沢市消防局.md "wikilink")・[高度救助隊](https://ja.wikipedia.org/wiki/高度救助隊 "wikilink")の通称名。
+  - シューペル・ランドヌール() - 同一年度（1月{{～}}12月）に200km、300km、400km、600kmの[ブルベ](https://ja.wikipedia.org/wiki/ブルベ "wikilink")を完走した者に与えられる呼称。
   - [代替現実](https://ja.wikipedia.org/wiki/代替現実 "wikilink") (Substitutional Reality)\[1\]
 
 ## Sr

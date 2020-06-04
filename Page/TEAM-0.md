@@ -1,7 +1,7 @@
 > この記事は[TEAM-0](https://ja.wikipedia.org/wiki/TEAM-0)から翻訳されています。
 
 
-****（チームゼロ）は、かつて[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属していた[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。
+**TEAM-0**（チームゼロ）は、かつて[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に所属していた[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。
 
 ## メンバー
 

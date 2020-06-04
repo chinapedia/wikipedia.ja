@@ -105,7 +105,7 @@
 
 ## 重版がかかった号
 
-2020年3月11日号時点で、以下の7号が重版された（週刊誌で重版は極めて異例とされる）\[21\]\[22\]。
+2020年5月13日号時点で、以下の8号が重版された（週刊誌で重版は極めて異例とされる）\[21\]\[22\]。
 
 | 号数    | 日号           | 表紙                                                                                                          |
 | ----- | ------------ | ----------------------------------------------------------------------------------------------------------- |
@@ -116,6 +116,7 @@
 | 2165号 | 2019年9月4日号   | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")・[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") |
 | 2180号 | 2019年12月18日号 | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               |
 | 2191号 | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")\[23\]                               |
+| 2199号 | 2020年5月13日号  | [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")                                       |
 
 ## 誌面
 

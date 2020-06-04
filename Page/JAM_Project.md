@@ -1761,21 +1761,22 @@ TAKEO(Guitar)<br />
 </div></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
-<p>全14会場15公演</p>
+<p>全10会場11公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>2020年4月11日 <a href="https://ja.wikipedia.org/wiki/和光市民文化センター" title="wikilink">和光市民文化センター</a> サンアゼリア<br />
-4月19日 <a href="https://ja.wikipedia.org/wiki/伊勢崎市文化会館" title="wikilink">伊勢崎市文化会館</a><br />
-4月25日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a> こくさいホール<br />
-4月26日 <a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a> 大ホール<br />
-5月2日 <a href="../Page/オリックス劇場.md" title="wikilink">オリックス劇場</a><br />
-5月9日 <a href="../Page/長野市芸術館.md" title="wikilink">長野市芸術館</a><br />
-5月10日 <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a><br />
-5月16日 <a href="https://ja.wikipedia.org/wiki/トークネットホール仙台" title="wikilink">トークネットホール仙台</a><br />
-5月17日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a> 中ホール<br />
-5月23日 <a href="../Page/文化パルク城陽.md" title="wikilink">文化パルク城陽</a><br />
-5月24日 <a href="https://ja.wikipedia.org/wiki/スターピアくだまつ" title="wikilink">スターピアくだまつ</a><br />
-5月30日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a> 大ホール<br />
+<p><strong>※<a href="../Page/2019新型コロナウイルス.md" title="wikilink">2019新型コロナウイルス</a>の影響により、公演延期ないし公演中止の事態に見舞われている。</strong><br />
+2020年<del>4月11日</del> <a href="https://ja.wikipedia.org/wiki/和光市民文化センター" title="wikilink">和光市民文化センター</a> サンアゼリア<strong>【8月2日に公演延期】</strong><br />
+<del>4月19日</del> <a href="https://ja.wikipedia.org/wiki/伊勢崎市文化会館" title="wikilink">伊勢崎市文化会館</a><strong>【8月1日に公演延期】</strong><br />
+<del>4月25日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a> こくさいホール</del><span style="color:red"><strong>【公演中止】</strong></span><br />
+<del>4月26日</del> <a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a> 大ホール<strong>【8月16日に公演延期】</strong><br />
+<del>5月2日</del> <a href="../Page/オリックス劇場.md" title="wikilink">オリックス劇場</a><strong>【9月14日に公演延期】</strong><br />
+<del>5月9日</del> <a href="../Page/長野市芸術館.md" title="wikilink">長野市芸術館</a><strong>【7月11日に公演延期】</strong><br />
+<del>5月10日</del> <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a><strong>【7月10日に公演延期】</strong><br />
+<del>5月16日</del> <a href="https://ja.wikipedia.org/wiki/トークネットホール仙台" title="wikilink">トークネットホール仙台</a><strong>【8月24日に公演延期】</strong><br />
+<del>5月17日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a> 中ホール</del><span style="color:red"><strong>【公演中止】</strong></span><br />
+<del>5月23日</del> <a href="../Page/文化パルク城陽.md" title="wikilink">文化パルク城陽</a><strong>【8月15日に公演延期】</strong><br />
+<del>5月24日 <a href="https://ja.wikipedia.org/wiki/スターピアくだまつ" title="wikilink">スターピアくだまつ</a></del><span style="color:red"><strong>【公演中止】</strong></span><br />
+<del>5月30日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a> 大ホール</del><span style="color:red"><strong>【公演中止】</strong></span><br />
 7月5日 <a href="../Page/福岡国際会議場.md" title="wikilink">福岡国際会議場</a><br />
 7月18日、7月19日 <a href="https://ja.wikipedia.org/wiki/大井町きゅりあん" title="wikilink">大井町きゅりあん</a></p></td>
 <td></td>

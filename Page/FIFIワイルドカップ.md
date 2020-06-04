@@ -73,7 +73,7 @@ FIFIワイルドカップ（英: FIFI Wild Cup）は、Federation of Internation
 
 ## 関連項目
 
-  - [事実上独立した地域一覧](https://ja.wikipedia.org/wiki/事実上独立した地域一覧 "wikilink")
+  - [国家承認を得た国連非加盟の国と地域の一覧](../Page/国家承認を得た国連非加盟の国と地域の一覧.md "wikilink")
   - [独立主張のある地域一覧](https://ja.wikipedia.org/wiki/独立主張のある地域一覧 "wikilink")
   - [日本が承認していない国一覧](../Page/日本が承認していない国一覧.md "wikilink")
   - [アザー・ファイナル](../Page/アザー・ファイナル.md "wikilink")

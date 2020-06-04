@@ -133,6 +133,6 @@
   - [TBS火曜9時枠の連続ドラマ](../Page/TBS火曜9時枠の連続ドラマ.md "wikilink")
   - [TBS火曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS火曜10時枠の連続ドラマ "wikilink")
 
-[Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink") [Category:TBS火曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜8時枠の連続ドラマ "wikilink")
+[Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink") [Category:TBS火曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜8時枠の連続ドラマ "wikilink")
 
 1.  なお[毎日放送は腸捻転時代の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[NET（現：テレビ朝日）](../Page/テレビ朝日.md "wikilink")[系列時代には](../Page/オールニッポン・ニュースネットワーク.md "wikilink")、NET制作の1時間ドラマをネットした事はあった。

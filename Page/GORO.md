@@ -23,4 +23,4 @@
   - [激写](../Page/激写.md "wikilink")
   - [実験人形ダミー・オスカー](https://ja.wikipedia.org/wiki/実験人形ダミー・オスカー "wikilink")
 
-[Category:日本の雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の雑誌_\(休廃刊\) "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:小学館の雑誌](https://ja.wikipedia.org/wiki/Category:小学館の雑誌 "wikilink") [Category:1974年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1974年創刊の雑誌 "wikilink") [Category:1992年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1992年休廃刊の雑誌 "wikilink")
+[Category:日本の雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の雑誌_\(休廃刊\) "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:小学館の雑誌](https://ja.wikipedia.org/wiki/Category:小学館の雑誌 "wikilink") [Category:1974年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1974年創刊の雑誌 "wikilink") [Category:1992年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:1992年休廃刊の雑誌 "wikilink") [Category:一ツ橋グループの歴史](https://ja.wikipedia.org/wiki/Category:一ツ橋グループの歴史 "wikilink")

@@ -405,7 +405,7 @@ X4では、マシュラーム戦前に移動手段としてライトニングウ
   - [ロックマンXシリーズ](../Page/ロックマンXシリーズ.md "wikilink")
   - [コミックボンボン](../Page/コミックボンボン.md "wikilink")
 
-[Category:漫画作品_ろ](https://ja.wikipedia.org/wiki/Category:漫画作品_ろ "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:ロックマンX](https://ja.wikipedia.org/wiki/Category:ロックマンX "wikilink") [Category:ロックマンシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ロックマンシリーズ漫画作品 "wikilink")
+[Category:漫画作品_ろ](https://ja.wikipedia.org/wiki/Category:漫画作品_ろ "wikilink") [Category:1994年の漫画](https://ja.wikipedia.org/wiki/Category:1994年の漫画 "wikilink") [Category:コミックボンボン](https://ja.wikipedia.org/wiki/Category:コミックボンボン "wikilink") [Category:ロックマンX](https://ja.wikipedia.org/wiki/Category:ロックマンX "wikilink") [Category:ロックマンシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ロックマンシリーズ漫画作品 "wikilink")
 
 1.  『[コミックボンボン](../Page/コミックボンボン.md "wikilink")』1997年8月号のインタビューにて
 2.  復刊版ロックマンX第1巻より

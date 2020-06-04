@@ -59,6 +59,7 @@
   - 監督 - [ダニー・キャノン](https://ja.wikipedia.org/wiki/ダニー・キャノン "wikilink")
   - 脚本 - [ディック・クレメント](https://ja.wikipedia.org/wiki/ディック・クレメント "wikilink")、[イアン・ラ・フレネ](https://ja.wikipedia.org/wiki/イアン・ラ・フレネ "wikilink")
   - 視覚効果：[フレームストア](../Page/フレームストア.md "wikilink")CFC
+  - 日本語版主題歌： [W-inds.](../Page/W-inds..md "wikilink")『[TRIAL](../Page/TRIAL_\(曲\).md "wikilink") 』
 
 ## 外部リンク
 

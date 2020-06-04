@@ -23,7 +23,7 @@
   - [ねね](../Page/高台院.md "wikilink")：**[藤村志保](../Page/藤村志保.md "wikilink")**
       -
         秀吉の正室
-  - [茶々](../Page/淀殿.md "wikilink")：**[山本美砂子](https://ja.wikipedia.org/wiki/山本美砂子 "wikilink")**→[三田佳子](../Page/三田佳子.md "wikilink")
+  - [淀殿](../Page/淀殿.md "wikilink")→[茶々](https://ja.wikipedia.org/wiki/茶々 "wikilink")：**[山本美砂子](https://ja.wikipedia.org/wiki/山本美砂子 "wikilink")**→[三田佳子](../Page/三田佳子.md "wikilink")
       -
         秀吉の側室
   - [豊臣秀頼](../Page/豊臣秀頼.md "wikilink")：[上田英代](https://ja.wikipedia.org/wiki/上田英代 "wikilink")

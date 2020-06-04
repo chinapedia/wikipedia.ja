@@ -29,8 +29,6 @@
 
   - [航空事故](../Page/航空事故.md "wikilink")
 
-\+
-
 [Category:航空機テロ](https://ja.wikipedia.org/wiki/Category:航空機テロ "wikilink") [Category:爆発](https://ja.wikipedia.org/wiki/Category:爆発 "wikilink") [Category:チェコスロバキアで発生した航空事故](https://ja.wikipedia.org/wiki/Category:チェコスロバキアで発生した航空事故 "wikilink") [Category:ユーゴスラビアで発生した航空事故](https://ja.wikipedia.org/wiki/Category:ユーゴスラビアで発生した航空事故 "wikilink") [Category:DC-9による航空事故](https://ja.wikipedia.org/wiki/Category:DC-9による航空事故 "wikilink") [Category:1972年の航空事故](https://ja.wikipedia.org/wiki/Category:1972年の航空事故 "wikilink") [Category:1972年のチェコスロバキア](https://ja.wikipedia.org/wiki/Category:1972年のチェコスロバキア "wikilink") [Category:ウースチー州](https://ja.wikipedia.org/wiki/Category:ウースチー州 "wikilink") [Category:ユーゴスラビアの事件](https://ja.wikipedia.org/wiki/Category:ユーゴスラビアの事件 "wikilink") [Category:チェコスロバキアの事件](https://ja.wikipedia.org/wiki/Category:チェコスロバキアの事件 "wikilink") [Category:1972年1月](https://ja.wikipedia.org/wiki/Category:1972年1月 "wikilink")
 
 1.  [ギネスワールドレコードのページ（英語）](http://www.guinnessworldrecords.com/content_pages/record.asp?recordid=43941)

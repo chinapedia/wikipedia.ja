@@ -649,7 +649,7 @@ LineData =
 <td><ul>
 <li>初期の楽曲をメンバー自身が選曲し、再レコーディングした<a href="../Page/セルフカバー.md" title="wikilink">セルフカバー</a>・<a href="../Page/ベスト・アルバム.md" title="wikilink">ベストアルバム</a></li>
 <li>「colors」は新曲書き下ろし</li>
-<li><a href="https://ja.wikipedia.org/wiki/シークレットトラック" title="wikilink">シークレットトラック</a>「Paranoid Trash」収録</li>
+<li><a href="../Page/隠しトラック.md" title="wikilink">シークレットトラック</a>「Paranoid Trash」収録</li>
 <li>初回プレス分封入特典：各メンバーのフォトカード5種類ランダム封入</li>
 </ul></td>
 <td><p>POCE-14304</p></td>
@@ -801,7 +801,7 @@ LineData =
 </ol></td>
 <td><ul>
 <li>限定2000枚</li>
-<li><a href="https://ja.wikipedia.org/wiki/シークレットトラック" title="wikilink">シークレットトラック</a>「Paranoid Trash」収録</li>
+<li><a href="../Page/隠しトラック.md" title="wikilink">シークレットトラック</a>「Paranoid Trash」収録</li>
 </ul></td>
 <td><p>EXTC-0072</p></td>
 <td></td>
@@ -2219,8 +2219,6 @@ LineData =
 <td><p>オリジナルショートムービー『奇跡は空から降ってくる』EDテーマ</p></td>
 <td><ul>
 <li>上映場所：<a href="../Page/丸の内ビルディング.md" title="wikilink">丸ビル</a>1F MARUCUBE</li>
-</ul>
-<ul>
 <li>上映期間：<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>～<a href="../Page/12月24日.md" title="wikilink">12月24日</a></li>
 </ul></td>
 <td><ul>
@@ -2253,7 +2251,7 @@ LineData =
 ## レギュラー番組
 
 1.  **DuelJewelの銀河国道348～私はネジになりたい～**（[2012年](../Page/2012年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")～[2015年](../Page/2015年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")）
-      - JAPAN VISUAL.TVにて毎月第二水曜日\[14\]21時より配信されていた生放送番組
+      - JAPAN VISUAL.TVにて毎月第二水曜日\[14\] 21時より配信されていた生放送番組
       - [2012年](../Page/2012年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")の2時間特番放送後、同年10月より正式にレギュラー番組となった
       - 全34回
       - 略称は、銀34（ぎんさし）

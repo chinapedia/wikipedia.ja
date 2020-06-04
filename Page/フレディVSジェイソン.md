@@ -54,7 +54,9 @@
 
 ## 外部リンク
 
-  - [ワーナー・ブラザースサイト](http://www.warnerbros.com/freddy-vs-jason)
+  - [ワーナー・ブラザースサイト](https://www.warnerbros.com/movies/freddy-vs-jason/)
+
+  - [ワーナー・ブラザースサイト](https://warnerbros.co.jp/home_entertainment/detail.php?title_id=53972)
 
   - [角川映画サイト](http://www.kadokawa-pictures.jp/official/freddy_vs_jason/)
 
@@ -63,4 +65,4 @@
   -
 [Category:13日の金曜日_(映画)](https://ja.wikipedia.org/wiki/Category:13日の金曜日_\(映画\) "wikilink") [Category:エルム街の悪夢](https://ja.wikipedia.org/wiki/Category:エルム街の悪夢 "wikilink") [Category:2003年の映画](https://ja.wikipedia.org/wiki/Category:2003年の映画 "wikilink") [Category:トロントで製作された映画作品](https://ja.wikipedia.org/wiki/Category:トロントで製作された映画作品 "wikilink") [Category:ブリティッシュコロンビア州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:ブリティッシュコロンビア州で製作された映画作品 "wikilink") [Category:映画のクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:映画のクロスオーバー作品 "wikilink") [Category:ニュー・ライン・シネマの作品](https://ja.wikipedia.org/wiki/Category:ニュー・ライン・シネマの作品 "wikilink") [Category:オハイオ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:オハイオ州を舞台とした映画作品 "wikilink") [Category:グレーム・レヴェルの作曲映画](https://ja.wikipedia.org/wiki/Category:グレーム・レヴェルの作曲映画 "wikilink") [Category:Computer_Generated_Imageryを使用した映画作品](https://ja.wikipedia.org/wiki/Category:Computer_Generated_Imageryを使用した映画作品 "wikilink")
 
-1.  それを反映するかのように、本シリーズ9作目にしてニューラインシネマ社制作としては初の作品となる『ジェイソンの命日』のラストシーンで、フレディの爪がジェイソンのマスクを持っていくシーンがある。
+1.  それを反映するかのように、本シリーズ9作目にしてニュー・ライン・シネマ社制作としては初の作品となる『ジェイソンの命日』のラストシーンで、フレディの爪がジェイソンのマスクを持っていくシーンがある。

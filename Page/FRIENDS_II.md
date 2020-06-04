@@ -79,7 +79,7 @@ B'zの作品では初となるデジパック仕様\[2\]。
 
 ## 外部リンク
 
-  - [B'z DISCOGRAPHY 『FRIENDS II』](http://bz-vermillion.com/disco/mini_05.html) ※楽曲の試聴が可能
+  - [B'z DISCOGRAPHY 『FRIENDS II』](http://bz-vermillion.com/discography/mini_05.html) ※楽曲の試聴が可能
 
 [Category:B'zのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:B'zのミニ・アルバム "wikilink") [Category:1996年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1996年のミニ・アルバム "wikilink") [Category:Rooms_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:Rooms_RECORDSのアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink")
 

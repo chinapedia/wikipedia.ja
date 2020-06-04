@@ -403,7 +403,7 @@ M-11「僕の存在は嘘じゃなかった」で参加。<br />
 
 ## 外部リンク
 
-  - [エスエムイーレコーズによる公式ページ](http://www.sonymusic.co.jp/Music/Arch/SMER/Outlaw/index.html)(2006年3月更新停止)
+  - [エスエムイーレコーズによる公式ページ](https://www.sonymusic.co.jp/artist/Outlaw/)(2006年3月更新停止)
 
   - [夜ハ短シ 公式ウェブサイト](http://yorumiji.net)（山口進、藤原真、真野敬史の３人によるトリオバンド）
 

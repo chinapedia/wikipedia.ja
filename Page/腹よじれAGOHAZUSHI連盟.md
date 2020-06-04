@@ -52,7 +52,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a>◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></li>
+<li><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></li>
 <li><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a>○</li>
 <li><a href="../Page/山形放送.md" title="wikilink">山形放送</a>▲</li>
 <li><a href="../Page/東北放送.md" title="wikilink">東北放送</a></li>
@@ -64,7 +64,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/山梨放送" title="wikilink">山梨放送</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></li>
+<li><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>▲</li>
 <li><a href="../Page/福井放送.md" title="wikilink">福井放送</a>▲</li>
 <li><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a>○</li>
@@ -72,7 +72,7 @@
 <li><a href="../Page/京都放送.md" title="wikilink">KBS京都</a>○</li>
 <li><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/MBSラジオ" title="wikilink">毎日放送</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/山陽放送ラジオ" title="wikilink">山陽放送</a>▲</li>
+<li><a href="https://ja.wikipedia.org/wiki/RSKラジオ" title="wikilink">山陽放送</a>▲</li>
 <li><a href="https://ja.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a>○◎</li>
 <li><a href="../Page/中国放送.md" title="wikilink">中国放送</a>◎</li>
 <li><a href="../Page/山口放送.md" title="wikilink">山口放送</a>▲</li>
@@ -83,7 +83,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a></li>
 <li><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>○◎</li>
 <li><a href="../Page/大分放送.md" title="wikilink">大分放送</a>◎</li>
-<li><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>○</li>
+<li><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>○</li>
 <li><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a></li>
@@ -118,7 +118,7 @@
       - 噂のラッパーたち （金曜日）
     <!-- end list -->
       -
-        （21:00まで[西日本放送](../Page/西日本放送.md "wikilink")でもネット）
+        （21:00まで[西日本放送でもネット](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")）
 
 ### 21時台
 

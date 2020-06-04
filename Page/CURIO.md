@@ -53,7 +53,7 @@
 
 ## リリース作品
 
-### Single
+### シングル
 
 <table>
 <thead>
@@ -174,7 +174,7 @@
 </tbody>
 </table>
 
-### MaxiSingle
+### マキシシングル
 
 <table>
 <thead>
@@ -301,7 +301,7 @@ RACC-1001:通常盤</p></td>
 </tbody>
 </table>
 
-### Album
+### アルバム
 
 <table>
 <thead>
@@ -458,7 +458,7 @@ POCE-2034:メジャー</p></td>
 </tbody>
 </table>
 
-### Video
+### ビデオ
 
 <table>
 <thead>

@@ -26,6 +26,5 @@
 
 ## 外部リンク
 
-  - [YMCA学院高等学校](http://www.ymcagakuin.ac.jp/)
-
+  -
 [Category:大阪市の私立高等学校](https://ja.wikipedia.org/wiki/Category:大阪市の私立高等学校 "wikilink") [Category:大阪府の通信制高等学校](https://ja.wikipedia.org/wiki/Category:大阪府の通信制高等学校 "wikilink") [Category:大阪府の総合学科設置高等学校](https://ja.wikipedia.org/wiki/Category:大阪府の総合学科設置高等学校 "wikilink") [Category:日本の遠隔教育](https://ja.wikipedia.org/wiki/Category:日本の遠隔教育 "wikilink") [Category:日本のプロテスタント系高等学校](https://ja.wikipedia.org/wiki/Category:日本のプロテスタント系高等学校 "wikilink") [Category:YMCA](https://ja.wikipedia.org/wiki/Category:YMCA "wikilink") [Category:天王寺区の学校](https://ja.wikipedia.org/wiki/Category:天王寺区の学校 "wikilink") [Category:学校記事](https://ja.wikipedia.org/wiki/Category:学校記事 "wikilink")

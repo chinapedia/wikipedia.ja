@@ -548,7 +548,7 @@
 
 ## 放送
 
-特記が無い限り\[<http://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
+特記が無い限り\[<https://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
 
 ### 通常放送時間
 

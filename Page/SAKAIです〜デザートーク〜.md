@@ -169,7 +169,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>遅れネット</p></td>
 <td></td>

@@ -10,7 +10,7 @@
 [アンモニア水](https://ja.wikipedia.org/wiki/アンモニア水 "wikilink")と反応すると黒色に変わる。[反応式](https://ja.wikipedia.org/wiki/反応式 "wikilink")は次の通りである。
 
   -
-    <ce>{Hg2Cl2} + 2NH3 -\> {Hg} + {Hg(NH2)Cl} + {NH4^+} + Cl^-</ce>
+    <chem>{Hg2Cl2} + 2NH3 -\> {Hg} + {Hg(NH2)Cl} + {NH4^+} + Cl^-</chem>
 
 ## 構造
 

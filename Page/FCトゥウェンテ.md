@@ -110,6 +110,185 @@
 
 ## 歴代監督
 
+  - Friedrich Donenfeld 1965-1966
+
+  - Kees Rijvers 1966-1972
+
+  - Antoine Kohn 1972-1979
+
+  - Hennie Hollink 1979-1981
+
+  - Rob Groener 1981-1982
+
+  - Antoine Kohn 1982-1983
+
+  - Fritz Korbach 1983-1986
+
+  - Kees Rijvers 1986-1987
+
+  - [テオ・フォンク](https://ja.wikipedia.org/wiki/テオ・フォンク "wikilink") 1987-1992
+
+  - [ロブ・バーン](https://ja.wikipedia.org/wiki/ロブ・バーン "wikilink") 1992-1994
+
+  - Issy ten Donkelaar 1994-1995
+
+  - [フレット・ルッテン](https://ja.wikipedia.org/wiki/フレット・ルッテン "wikilink") 1995-1996
+
+  - [ハンス・マイアー](https://ja.wikipedia.org/wiki/ハンス・マイアー "wikilink") 1996-2000
+
+  - [フレット・ルッテン](https://ja.wikipedia.org/wiki/フレット・ルッテン "wikilink") 2000-2001
+
+  - [ヨン・ファント・シップ](../Page/ヨン・ファント・シップ.md "wikilink") 2001-2002
+
+  - [レネ・ファンデレイケン](https://ja.wikipedia.org/wiki/レネ・ファンデレイケン "wikilink") 2002-2004
+
+  - [リニ・クーレン](https://ja.wikipedia.org/wiki/リニ・クーレン "wikilink") 2004-2006
+
+  - [ヤン・ファン・スター](https://ja.wikipedia.org/wiki/ヤン・ファン・スター "wikilink") 2006
+
+  - [フレット・ルッテン](https://ja.wikipedia.org/wiki/フレット・ルッテン "wikilink") 2006-2008
+
+  - [スティーブ・マクラーレン](../Page/スティーブ・マクラーレン.md "wikilink") 2008-2010
+
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>国</p></th>
+<th><p>就任</p></th>
+<th><p>退任</p></th>
+<th><p>試合</p></th>
+<th><p>勝ち</p></th>
+<th><p>分け</p></th>
+<th><p>負け</p></th>
+<th><p>勝率 %</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/ミシェル・プロドーム.md" title="wikilink">ミシェル・プロドーム</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/コー・アドリアーンセ" title="wikilink">コー・アドリアーンセ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/スティーブ・マクラーレン.md" title="wikilink">スティーブ・マクラーレン</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アルフレット・シュルーデル" title="wikilink">アルフレット・シュルーデル</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ミシェル・ヤンセン" title="wikilink">ミシェル・ヤンセン</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アルフレット・シュルーデル" title="wikilink">アルフレット・シュルーデル</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/レネー・ハケ" title="wikilink">レネー・ハケ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/マリノ・プシッチ" title="wikilink">マリノ・プシッチ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ヘルトヤン・フェルベーク" title="wikilink">ヘルトヤン・フェルベーク</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/マリノ・プシッチ" title="wikilink">マリノ・プシッチ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ゴンサロ・ガルシア" title="wikilink">ゴンサロ・ガルシア</a></p></td>
+<td></td>
+<td></td>
+<td><p>{{dts|format=dmy</p></td>
+<td><p>|}} </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 歴代所属選手
 
 ### GK

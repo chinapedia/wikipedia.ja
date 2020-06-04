@@ -1,7 +1,7 @@
 > この記事は[DJ KOO](https://ja.wikipedia.org/wiki/DJ_KOO)から翻訳されています。
 
 
-**DJ KOO**（ディージェイ・コー 、本名**高瀬 浩一**（たかせ こういち）、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[8月8日](../Page/8月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[サウンドクリエーター](../Page/マニピュレーター.md "wikilink")、[バラエティタレント](../Page/バラエティタレント.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[TRF](../Page/TRF.md "wikilink")のメンバーでDJ担当のリーダー。日本の[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を黎明期から知る。他、The JG's、WEST 87、Phal、WILLとしても活動。[17 Liveのライバーとして配信活動中](https://ja.wikipedia.org/wiki/17_Live "wikilink")。
+**DJ KOO**（ディージェイ・コー 、本名：**高瀬 浩一**（たかせ こういち）、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[8月8日](../Page/8月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[DJ](../Page/ディスクジョッキー.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[サウンドクリエーター](../Page/マニピュレーター.md "wikilink")、[バラエティタレント](../Page/バラエティタレント.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。[TRF](../Page/TRF.md "wikilink")のメンバーでDJ担当のリーダー。日本の[ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を黎明期から知る。他、The JG's、WEST 87、Phal、WILLとしても活動。[17 Liveのライバーとして配信活動中](https://ja.wikipedia.org/wiki/17_Live "wikilink")。
 
 ## 来歴
 
@@ -96,7 +96,7 @@
 
 ### TV
 
-  - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） 「WEニュース」2020年3月マンスリーMC
+  - [スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） 「WEニュース」2020年3月マンスリーMC
   - [NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink") ([NHK総合](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")) : [三山ひろし](https://ja.wikipedia.org/wiki/三山ひろし "wikilink")のサポート([2016年](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")・[2017年](https://ja.wikipedia.org/wiki/第68回NHK紅白歌合戦 "wikilink")・[2018年](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")・[2019年](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink"))
 
 ### CM

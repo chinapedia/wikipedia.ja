@@ -677,7 +677,7 @@ DVDは[バンダイビジュアル](../Page/バンダイビジュアル.md "wiki
 ## 外部リンク
 
   - [ふしぎ星の☆ふたご姫 シリーズ公式](http://futagohime.jp/)
-  - [ふしぎ星の☆ふたご姫 Gyu\! テレビ東京公式](http://www.tv-tokyo.co.jp/anime/futagohime/)
+  - [ふしぎ星の☆ふたご姫 Gyu\! テレビ東京公式](https://www.tv-tokyo.co.jp/anime/futagohime/)
   - [ふしぎ星の☆ふたご姫 Gyu\! NAS公式](http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=75)
   - [バンダイ・StyleBook「ふしぎ星の☆ふたご姫 Gyu\!」](http://www.bandaigames.channel.or.jp/list/ds_stylebook/hutagohime/)
 

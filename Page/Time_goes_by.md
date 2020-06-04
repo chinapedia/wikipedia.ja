@@ -7,13 +7,13 @@
 
 前作「[Face the change](../Page/Face_the_change.md "wikilink")」から僅か約1ヶ月でのリリースとなった。
 
-Every Little Thingのシングルで最大の売り上げを記録し、[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成している。また、シングルでは初となる[バラード](../Page/バラード.md "wikilink")曲であり、ELTの代表的な楽曲の一つとなっている。
+発売日が[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の「[ニシエヒガシエ](../Page/ニシエヒガシエ.md "wikilink")」と重なり最高位2位だったが、最終的にはEvery Little Thingのシングルで最大の売り上げを記録しシングル初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成した。また、シングルでは初となる[バラード](../Page/バラード.md "wikilink")曲であり、ELTの代表的な楽曲の一つとなっている。
 
 ジャケットは[吉祥寺](../Page/吉祥寺.md "wikilink")の劇場を借り切っての撮影。なお、このジャケットの持田の顔は顎が細くなるよう[レタッチされていることを本人が明かしている](../Page/写真編集.md "wikilink")。
 
 この曲で年末の『[NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")』にも出演した（対戦相手は[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")で「[傷だらけのローラ](../Page/傷だらけのローラ.md "wikilink")」）。第1部での出場であったが、この際に記録した視聴率56.5%という数字は『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』の第1部では史上最高である。
 
-レコーディングの際、五十嵐から持田に冒頭の「wow wow wow…」がグッとくればいいと言われたとのこと。
+レコーディングの際、五十嵐から持田に冒頭の「wow wow wow…」がグッとくればいいと言われたとのこと。一般人がカラオケで歌う際は、いかにこの部分を感情を込めてしっかり歌えるかが重要と持田も語っている。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月27日](../Page/2月27日.md "wikilink")に放送された『[SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")』の中で持田は「当時は歌詞の意味を理解せずに歌っていた」と語っている。
 

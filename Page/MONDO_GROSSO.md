@@ -1,7 +1,7 @@
 > この記事は[MONDO GROSSO](https://ja.wikipedia.org/wiki/MONDO_GROSSO)から翻訳されています。
 
 
-**MONDO GROSSO**（モンド・グロッソ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[バンドで](../Page/バンド_\(音楽\).md "wikilink")、現在は[大沢伸一](../Page/大沢伸一.md "wikilink")のソロプロジェクト。バンド名は[イタリア語](../Page/イタリア語.md "wikilink")で、「大きな世界」という意味。楽曲のジャンルは[クラブ・ミュージック](https://ja.wikipedia.org/wiki/クラブ・ミュージック "wikilink")が中心。[ジャズ](../Page/ジャズ.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[R\&B等](../Page/リズム・アンド・ブルース.md "wikilink")、その音楽性の幅はきわめて広く、対照的に[ハウスや](../Page/ハウス_\(音楽\).md "wikilink")[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")といったデジタル音楽がベースの楽曲も数多い。
+**MONDO GROSSO**（モンド・グロッソ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[バンドで](../Page/バンド_\(音楽\).md "wikilink")、[大沢伸一](../Page/大沢伸一.md "wikilink")のソロプロジェクト。バンド名は[イタリア語](../Page/イタリア語.md "wikilink")で、「大きな世界」という意味。楽曲のジャンルは[クラブ・ミュージック](https://ja.wikipedia.org/wiki/クラブ・ミュージック "wikilink")が中心。[ジャズ](../Page/ジャズ.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")、[R\&B等](../Page/リズム・アンド・ブルース.md "wikilink")、その音楽性の幅はきわめて広く、対照的に[ハウスや](../Page/ハウス_\(音楽\).md "wikilink")[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")といったデジタル音楽がベースの楽曲も数多い。
 
 ## メンバー
 
@@ -153,7 +153,7 @@
 <td><p>FLCF-30210</p></td>
 </tr>
 <tr class="even">
-<td><p>2nd</p></td>
+<td><p>mini album</p></td>
 <td><p>1993年<a href="../Page/10月21日.md" title="wikilink">10月21日</a></p></td>
 <td></td>
 <td><p>FLCF-25224</p></td>
@@ -171,7 +171,7 @@
 <td><p>FLCF-3572</p></td>
 </tr>
 <tr class="odd">
-<td><p>3rd</p></td>
+<td><p>2nd</p></td>
 <td><p>1995年<a href="../Page/10月20日.md" title="wikilink">10月20日</a></p></td>
 <td></td>
 <td><p>FLCF-3599</p></td>
@@ -183,7 +183,7 @@
 <td><p>FLCF-3610</p></td>
 </tr>
 <tr class="odd">
-<td><p>4th</p></td>
+<td><p>3rd</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 <td></td>
 <td><p>FLCF-3693</p></td>
@@ -243,7 +243,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1st</p></td>
+<td><p>4th</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
 <td></td>
 <td><p>AICT-1245</p></td>
@@ -255,7 +255,7 @@
 <td><p>AICT-1321</p></td>
 </tr>
 <tr class="odd">
-<td><p>2nd</p></td>
+<td><p>5th</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
 <td></td>
 <td><p>AICL-1480</p></td>
@@ -300,13 +300,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1st</p></td>
+<td><p>6th</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月7日.md" title="wikilink">6月7日</a></p></td>
 <td></td>
 <td><p>CTCR-40387～40388</p></td>
 </tr>
 <tr class="even">
-<td><p>2nd</p></td>
+<td><p>7th</p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/3月21日.md" title="wikilink">3月21日</a></p></td>
 <td></td>
 <td><p>CTCR-14938/B(CD+Blu-ray)<br />

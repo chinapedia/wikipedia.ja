@@ -8,7 +8,7 @@
   - [1927年](../Page/1927年.md "wikilink") - 「横浜洋裁専門女学院」創立
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink") - 「[学校法人岩崎学園](../Page/学校法人岩崎学園.md "wikilink")」に組織変更
   - [1954年](../Page/1954年.md "wikilink") - 「横浜洋裁学院」に改称
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 文部省より本校卒業生に対して「専門士」付与
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 文部省<small>(現・文部科学省)</small>より本校卒業生に対して「専門士」付与
   - [2000年](../Page/2000年.md "wikilink") - 美容学科「ビューティースタイリスト科」（厚生労働大臣指定　美容師養成施設）新設
   - [2001年](../Page/2001年.md "wikilink") - 横浜洋裁学院を「横浜fカレッジ」に改称
   - [2006年](../Page/2006年.md "wikilink") - ジュエリー&アクセサリー科開設

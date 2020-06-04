@@ -1,25 +1,26 @@
 > この記事は[Don\'t wanna cry](https://ja.wikipedia.org/wiki/Don\'t_wanna_cry)から翻訳されています。
 
 
-「**Don't wanna cry**」（ドント・ウォナ・クライ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では5枚目のシングル。[1996年](../Page/1996年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+「**Don't wanna cry**」（ドント・ウォナ・クライ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では5枚目のシングル。[1996年](../Page/1996年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 
   - 前作に続いて、[前田たかひろ](https://ja.wikipedia.org/wiki/前田たかひろ "wikilink")と小室の共作詞。
   - オリコンでは2枚連続、出荷ベースでは3枚連続の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成。
-  - 自身が出演した[ダイドードリンコ](../Page/ダイドードリンコ.md "wikilink")「mistio」CFイメージソング。また、21年後の[2017年](../Page/2017年.md "wikilink")には[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列ワイドショー「[スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")」の11月度テーマソングに起用された。
+  - 自身が出演した[ダイドードリンコ](../Page/ダイドードリンコ.md "wikilink")「mistio」CFイメージソング。また、21年後の[2017年](../Page/2017年.md "wikilink")には[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列ワイドショー「[スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")」の11月度テーマソングに起用された。
   - バックダンス・コーラスなどでも[黒人をフィーチャーしている](../Page/ネグロイド.md "wikilink")。
   - [dos](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")（当時）の[KABAによる振付](../Page/KABA.ちゃん.md "wikilink")。
   - この曲で、[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")の大賞を、史上最年少記録（当時19歳）で初受賞した。また、直後の[第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")にも第2部トップバッターで2年連続出場した。
   - [1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に安室の母親が亡くなった際に、この曲の作詞作曲を手がけた小室は当時[globe](https://ja.wikipedia.org/wiki/globe "wikilink")のツアー中だったが、知らせを聞いてコンサートの中で[レクイエム](../Page/レクイエム.md "wikilink")として、この曲をピアノで弾いた。
   - 累計出荷枚数は155万枚\[1\]。
+  - 累計売上枚数は139.0万枚。
 
 ## 主な記録
 
   - [HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・2週連続（96/04/15～22・\#063～64）**1位**。
   - 1996オリコン年間カラオケリクエスト回数11位。
-  - 第38回“[日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")”史上最年少記録（当時19歳）で大賞受賞。
-  - 第11回“[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")”ベスト5・シングル賞。
+  - 第38回[日本レコード大賞ソロアーティスト史上最年少記録](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")（当時19歳）で大賞受賞。
+  - 第11回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ベスト5・シングル賞。
   - HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング・3 YEARS BEST 100（95・96・97）21位。
 
 ## 収録曲

@@ -156,7 +156,7 @@
 
 #### Bステージ＜インターネット・ディスクジョッキーNIGHT＞
 
-  - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")
+  - [平沢進](../Page/平沢進.md "wikilink")
   - [加藤賢崇](../Page/加藤賢崇.md "wikilink")
   - [ホッピー神山](../Page/ホッピー神山.md "wikilink")
   - 沖山淳史

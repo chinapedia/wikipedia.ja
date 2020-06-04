@@ -13,7 +13,7 @@
   - ポルノグラフィティにとってアルバム最初の販売記号（SECL）。
   - 初回限定盤はスペシャルBOX仕様。箱の中に通常盤と同様のCDケースが入っている。
   - アルバム名の「χ」が[ギリシャ文字](https://ja.wikipedia.org/wiki/ギリシャ文字 "wikilink")であることと、「<sup>χ</sup>」の表記が[ウィキペディア](../Page/ウィキペディア.md "wikilink")以外のほとんどのサイトでは表記できないため「THUMPx」と表記されることが多い。
-  - 『[雲をも摑む民](../Page/雲をも掴む民.md "wikilink")』以来の[カップリング曲が収録されていないアルバム](https://ja.wikipedia.org/wiki/シングル#A面/B面 "wikilink")。このアルバムから「[∠TRIGGER](https://ja.wikipedia.org/wiki/∠TRIGGER "wikilink")」までアルバムバージョンが存在しなくなった。
+  - 『[雲をも摑む民](../Page/雲をも掴む民.md "wikilink")』以来の[カップリング曲が収録されていないアルバム](https://ja.wikipedia.org/wiki/シングル#A面/B面 "wikilink")。このアルバムから「[∠TRIGGER](https://ja.wikipedia.org/wiki/∠TRIGGER "wikilink")」までシングル曲のアルバムバージョンが存在しなくなった。
   - これまでのプロモーションチームの「ポルノグラフィティを売り出そうとする人々（SME、Amuse）」及びスペシャルサンクスの「[因島の家族や友達たち](../Page/因島市.md "wikilink")」の表記がこのアルバムで最後となった。
 
 ## 収録曲
@@ -44,7 +44,7 @@
       - 16thシングル
     <!-- end list -->
       -
-        バージョン変更はされていないが、フェード・アウト部分が、次曲「Twilight, トワイライト」のイントロとクロスフェードするように編集されている。
+        フェード・アウトが少し早く、次曲「Twilight, トワイライト」のイントロと重ねて鳴るするように編集されている。
 6.  **Twilight, トワイライト**
       - 作詞・作曲：岡野昭仁
     <!-- end list -->

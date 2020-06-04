@@ -9,9 +9,9 @@
 
 [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[4月14日](../Page/4月14日.md "wikilink")、A\&Gゾーン成立前からの最長寿番組『[ノン子とのび太のアニメスクランブル](../Page/ノン子とのび太のアニメスクランブル.md "wikilink")』が放送開始\[1\]。
 
-[1992年](../Page/1992年.md "wikilink")（平成4年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、文化放送は、開局40周年と[AMステレオ放送](../Page/AMステレオ放送.md "wikilink")開始の記念事業として、アニメ系のラジオ番組の制作を増加する。当時は日曜日に放送され、『[ラジメーション・魔神英雄伝ワタル3](https://ja.wikipedia.org/wiki/魔神英雄伝ワタル_\(ラジオ\) "wikilink")』のように出演声優のDJ+アニメ原作の[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")の構成となる番組が中心であった。
+[1992年](../Page/1992年.md "wikilink")（平成4年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、文化放送は、開局40周年と[AMステレオ放送](../Page/AMステレオ放送.md "wikilink")開始の記念事業として、アニメ・ゲーム系のラジオ番組の制作を増加させる。当時は日曜日に放送され、『[ラジメーション・魔神英雄伝ワタル3](https://ja.wikipedia.org/wiki/魔神英雄伝ワタル_\(ラジオ\) "wikilink")』『[ツインビーPARADISE](../Page/ツインビーPARADISE.md "wikilink")』のように出演声優のDJ + アニメ・ゲーム原作の[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")の構成となる番組が中心であった。
 
-[1994年](../Page/1994年.md "wikilink")（平成6年）4月、文化放送は開局以来の長寿番組『[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")』が毎日の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")としては終了。この番組改編で日曜日だけであった、アニメ・ゲーム系のラジオ番組の放送枠を移動した形で金曜日深夜に新設、さらに翌[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）には土曜日深夜にも新設、アニメ・ゲーム・声優の曲に特化したカウントダウン番組『[SOMETHING DREAMS マルチメディアカウントダウン](../Page/SOMETHING_DREAMS_マルチメディアカウントダウン.md "wikilink")』を開始し、日曜日の放送も復活、アニメ・ゲーム系の番組編成を強化した。この時期、番組編成枠が「A\&Gゾーン」として成立するようになった。[野村邦丸](../Page/野村邦丸.md "wikilink")によると、自身が面接官を務めていた入社試験（時期不明）ではA\&G配属志願者が全体のおよそ8割に及んでいたという\[2\]。
+[1994年](../Page/1994年.md "wikilink")（平成6年）4月、文化放送は開局以来の長寿番組『[大学受験ラジオ講座](../Page/大学受験ラジオ講座.md "wikilink")』が毎日の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")としては終了。この番組改編で日曜日に放送されていたアニメ・ゲーム系のラジオ番組の放送枠を移動した形で金曜日深夜に新設、さらに翌[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）には土曜日深夜にも新設、アニメ・ゲーム・声優の曲に特化したカウントダウン番組『[SOMETHING DREAMS マルチメディアカウントダウン](../Page/SOMETHING_DREAMS_マルチメディアカウントダウン.md "wikilink")』を開始し、日曜日の放送も復活、アニメ・ゲーム系の番組編成を強化した。この時期、番組編成枠が「A\&Gゾーン」として成立するようになった。[野村邦丸](../Page/野村邦丸.md "wikilink")によると、自身が面接官を務めていた入社試験（時期不明）ではA\&G配属志願者が全体のおよそ8割に及んでいたという\[2\]。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、『[超機動放送アニゲマスター](../Page/超機動放送アニゲマスター.md "wikilink")』を放送開始。文化放送ディレクターであった[おたっきぃ佐々木](../Page/おたっきぃ佐々木.md "wikilink")がメインパーソナリティを務め、次第に人気が出て時間を拡大、「A\&Gゾーン唯一のワイド番組」となり、「A\&Gゾーン」の中核となる番組として統括的立場にあった。
 
@@ -532,6 +532,8 @@ AG-ON Premiumでは、超\!A\&G+で配信された番組や文化放送で放送
   - [株式会社AG ONE（エイジーワン）](http://www.agone.co.jp/)
   - [A\&Gヒストリー（テスト版）1991年から1999年まで](http://www.joqr.co.jp/ag/anige/history.html) - 以前の中核番組『アニゲマスター』がまとめた、1999年までのA\&G番組の改編履歴
   - [DREAM POWER](http://www.joqr.co.jp/ag/htmls/a&g.html)
+
+[Category:文化放送](https://ja.wikipedia.org/wiki/Category:文化放送 "wikilink")
 
 [Category:文化放送A\&Gゾーン](https://ja.wikipedia.org/wiki/Category:文化放送A&Gゾーン "wikilink") [Category:文化放送の放送枠](https://ja.wikipedia.org/wiki/Category:文化放送の放送枠 "wikilink") [Category:アニラジ](https://ja.wikipedia.org/wiki/Category:アニラジ "wikilink") [Category:おたく](https://ja.wikipedia.org/wiki/Category:おたく "wikilink")
 

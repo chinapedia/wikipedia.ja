@@ -5214,7 +5214,7 @@
 <td><p>MX</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SERVAMP_-サーヴァンプ-" title="wikilink">SERVAMP -サーヴァンプ-</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SERVAMP-サーヴァンプ-" title="wikilink">SERVAMP-サーヴァンプ-</a></p></td>
 <td><p>AT-X</p></td>
 <td></td>
 <td></td>
@@ -7901,7 +7901,7 @@
 
 ## その他
 
-[在京キー局や](https://ja.wikipedia.org/wiki/キー局 "wikilink")[在名局が製作し](../Page/在名テレビジョン放送局.md "wikilink")、関西圏では独立局でネットされた作品や、本放送時にはBS放送やCS放送で独占放送された作品が独立局で放送された例を挙げている。
+[在京キー局や](../Page/キー局.md "wikilink")[在名局が製作し](../Page/在名テレビジョン放送局.md "wikilink")、関西圏では独立局でネットされた作品や、本放送時にはBS放送やCS放送で独占放送された作品が独立局で放送された例を挙げている。
 
 ### 日本テレビ系列
 

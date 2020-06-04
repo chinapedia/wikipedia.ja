@@ -159,7 +159,7 @@
 
   - [名作ミュージアム](https://websunday.net/museum/index.html) - 『WS』公式サイト『[WEBサンデー](https://websunday.net/index.html)』内のコーナー。連載第1回をカラーページを含め閲覧できる（[No.20](https://websunday.net/museum/no20/)）。
 
-[Category:ゆうきまさみ](https://ja.wikipedia.org/wiki/Category:ゆうきまさみ "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:競馬漫画](https://ja.wikipedia.org/wiki/Category:競馬漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:北海道を舞台とした作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした作品 "wikilink") [Category:牧場を題材とした作品](https://ja.wikipedia.org/wiki/Category:牧場を題材とした作品 "wikilink")
+[Category:ゆうきまさみ](https://ja.wikipedia.org/wiki/Category:ゆうきまさみ "wikilink") [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:1994年の漫画](https://ja.wikipedia.org/wiki/Category:1994年の漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:競馬漫画](https://ja.wikipedia.org/wiki/Category:競馬漫画 "wikilink") [Category:北海道を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした漫画作品 "wikilink") [Category:牧場を題材とした作品](https://ja.wikipedia.org/wiki/Category:牧場を題材とした作品 "wikilink")
 
 1.  短期連載も含めると4作目、[増刊号の物も含めると](https://ja.wikipedia.org/wiki/週刊少年サンデー超 "wikilink")5作目にあたる。
 2.  2013年5月現在。鉄腕バーディ(リメイク)と鉄腕バーディEVOLUTIONを同一の作品とみなすと、合計33巻となるので、鉄腕バーディが最長の作品であるとも言える。

@@ -1310,7 +1310,7 @@
 
   - [Laola1公式サイト](http://www.laola1.tv/en-int/home/)- [Laola1](https://ja.wikipedia.org/wiki/:en:Laola1 "wikilink")
 
-  - [テレビ東京卓球NEWS](http://www.tv-tokyo.co.jp/tabletennis/)- [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")
+  - [テレビ東京卓球NEWS](https://www.tv-tokyo.co.jp/tabletennis/)- [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")
 
   - [テレビ東京 卓球チャンネル](https://www.youtube.com/channel/UCVG4KpQRpA99jZk2hHZT9-Q)- [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")
 

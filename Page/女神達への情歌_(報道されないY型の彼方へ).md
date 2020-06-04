@@ -1,7 +1,7 @@
 > この記事は[女神達への情歌 \(報道されないY型の彼方へ\)](https://ja.wikipedia.org/wiki/女神達への情歌_\(報道されないY型の彼方へ\))から翻訳されています。
 
 
-「**女神達への情歌 (報道されないY型の彼方へ)**」（めがみたちへのじょうか ほうどうされないワイけいのかなたへ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**女神達への情歌 (報道されないY型の彼方へ)**」（めがみたちへのじょうか ほうどうされないワイけいのかなたへ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の25作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1989年](../Page/1989年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")に発売された。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発されている。
 

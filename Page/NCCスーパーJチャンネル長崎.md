@@ -94,7 +94,7 @@
 
 ## 外部リンク
 
-  - [NCCスーパーJチャンネル長崎 | NCC長崎文化放送 | デジタルは5ch](http://www.ncctv.co.jp/bangumi/superj/)
+  - [NCCスーパーJチャンネル長崎](https://www.ncctv.co.jp/bangumi/superj) - 公式サイト
 
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:長崎文化放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長崎文化放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")
 

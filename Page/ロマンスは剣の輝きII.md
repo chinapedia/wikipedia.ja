@@ -174,7 +174,7 @@
 ## 外部リンク
 
   - [F\&C](https://fandc.co.jp/)
-  - [ロマンスは剣の輝きII〜微笑みは君のために〜](http://www.m-2.jp/romakenimg/) ネットワークRPG版主催者であるM2による公式サイト
+  - [ロマンスは剣の輝きII〜微笑みは君のために〜](http://web.archive.org/web/20090228124300/http://www.m-2.jp:80/romakenimg/) ネットワークRPG版主催者であるM2による公式サイト
   - [ロマンスは剣の輝きII〜銀の虹をさがして〜](http://web.archive.org/web/20140820161322/http://www.kadokawa.co.jp/game/game/romaken/index.html)
 
 [Category:F\&Cのゲームソフト](https://ja.wikipedia.org/wiki/Category:F&Cのゲームソフト "wikilink") [Category:1999年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:角川書店のゲームソフト](https://ja.wikipedia.org/wiki/Category:角川書店のゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:オンラインRPG](https://ja.wikipedia.org/wiki/Category:オンラインRPG "wikilink") [Category:アニメ作品_ろ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ろ "wikilink") [Category:2001年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:2001年の成人向けOVA "wikilink") [Category:アームス](https://ja.wikipedia.org/wiki/Category:アームス "wikilink") [Category:漫画作品_ろ](https://ja.wikipedia.org/wiki/Category:漫画作品_ろ "wikilink") [Category:月刊エースネクスト](https://ja.wikipedia.org/wiki/Category:月刊エースネクスト "wikilink") [Category:角川スニーカー文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー文庫 "wikilink")

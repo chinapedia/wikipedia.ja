@@ -918,9 +918,9 @@
 
 原作と同名の登場人物については、[LIAR GAME\#登場人物を参照](https://ja.wikipedia.org/wiki/LIAR_GAME#登場人物 "wikilink")。
 
-  - ハ・ウジン - [イ・サンユン](https://ja.wikipedia.org/wiki/イ・サンユン "wikilink")
-  - ナム・ダジョン - [キム・ソウン](https://ja.wikipedia.org/wiki/キム・ソウン_\(女優\) "wikilink")
-  - カン・ドヨン - [シン・ソンロク](https://ja.wikipedia.org/wiki/シン・ソンロク "wikilink")
+  - '''ハ・ウジン '''- [イ・サンユン](https://ja.wikipedia.org/wiki/イ・サンユン "wikilink")
+  - '''ナム・ダジョン '''- [キム・ソウン](https://ja.wikipedia.org/wiki/キム・ソウン_\(女優\) "wikilink")
+  - '''カン・ドヨン '''- [シン・ソンロク](https://ja.wikipedia.org/wiki/シン・ソンロク "wikilink")
 
 <!-- end list -->
 

@@ -152,7 +152,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020_FIFA_U-17女子ワールドカップ" title="wikilink">7</a></p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/2021年.md" title="wikilink">2021年</a></p></td>
 <td><p>[3]</p></td>
 <td></td>
 <td></td>

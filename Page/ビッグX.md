@@ -73,7 +73,7 @@
 
   - 原作 - [手塚治虫](../Page/手塚治虫.md "wikilink")
   - 動画監督 - 浜本征三
-  - 作画 - 鈴木英二、木下蓮三、[堀口忠彦](https://ja.wikipedia.org/wiki/堀口忠彦 "wikilink")、井上晴美、中村やすお、小鷹文雄、藤井達朗、橋本吉雄、[谷口守泰](../Page/谷口守泰.md "wikilink")ほか
+  - 作画 - 鈴木英二、[木下蓮三](../Page/木下蓮三.md "wikilink")、[堀口忠彦](https://ja.wikipedia.org/wiki/堀口忠彦 "wikilink")、井上晴美、中村やすお、小鷹文雄、藤井達朗、橋本吉雄、[谷口守泰](../Page/谷口守泰.md "wikilink")ほか
   - 美術 - [半藤克美](../Page/スタジオユニ.md "wikilink")、[椋尾篁](../Page/椋尾篁.md "wikilink")ほか
   - 背景 - 大塚綾子ほか
   - 撮影指導 - [高橋澄夫](https://ja.wikipedia.org/wiki/高橋澄夫 "wikilink")

@@ -3,13 +3,13 @@
 
 **CH-53E**は、[シコルスキー・エアクラフト](../Page/シコルスキー・エアクラフト.md "wikilink")・ディビジョン社が[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")の要望によって開発した、[重輸送を目的とした](https://ja.wikipedia.org/wiki/輸送 "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")。愛称はスーパースタリオン（Super Stallion）、スタリオンは[種牡馬](../Page/種牡馬.md "wikilink")の意。社内呼称はS-80E。
 
-[CH-53 シースタリオン（S-65）の改良型で](../Page/CH-53_\(航空機\).md "wikilink")、その後継機として作られたヘリコプターである。
+[CH-53 シースタリオン（S-65）の改良型で](../Page/CH-53_\(航空機\).md "wikilink")、その後継機として作られた[ヘリコプター](../Page/ヘリコプター.md "wikilink")である。
 
 ## 概要
 
 [CH-53 シースタリオンの機体中央部左側に](../Page/CH-53_\(航空機\).md "wikilink")3基目の[エンジン](../Page/エンジン.md "wikilink")を増設した機体である。開発は[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")より開始され、[1981年](../Page/1981年.md "wikilink")から部隊配備が開始された。
 
-エンジンが増設されるとともに、各エンジンの出力向上も図られている。そのため、ローターのブレード数が6枚から7枚に増え、直径も2m拡大された。テール形状も変更され、テールローターは左側に20度傾けられている。
+[エンジンが増設されるとともに](../Page/航空用エンジン.md "wikilink")、各エンジンの出力向上も図られている。そのため、[ローターのブレード数が](https://ja.wikipedia.org/wiki/ヘリコプターのローター "wikilink")6枚から7枚に増え、直径も2m拡大された。テール形状も変更され、テールローターは左側に20度傾けられている。
 
 積載能力は30,000lb（13,610kg）、吊り下げ能力も36,000lb（16,330kg）と大幅に増加し、[LAV-25](../Page/LAV-25.md "wikilink")の吊り下げ[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")も可能である。また、[空中給油](../Page/空中給油.md "wikilink")プローブも当初から装備している。
 
@@ -17,7 +17,7 @@
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:US_Navy_111031-N-JL506-553_An_MH-53E_Super_Stallion_helicopter_from_the_Japan_Maritime_Self-Defense_Force_\(JMSDF\)_Helicopter_Mine_Squadron_111_land.jpg "wikilink") **MH-53E シードラゴン**（Sea Dragon）は、CH-53Eの機体に[RH-53Dの](https://ja.wikipedia.org/wiki/CH-53_\(航空機\)#そのほかの派生型 "wikilink")[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")掃海用装置を組み合わせた派生機である。
 
-機体両側に大型の[スポンソン](https://ja.wikipedia.org/wiki/スポンソン "wikilink")を取り付けられているのがCH-53Eとの大きな違いである。このスポンソンは燃料タンクであり、[燃料](../Page/燃料.md "wikilink")搭載量は3倍近くに増加している。この結果、[基地](../Page/基地.md "wikilink")から30分進出した先で約4時間以上に渡って[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")掃海を実施することができる。
+機体両側に大型の[スポンソン](https://ja.wikipedia.org/wiki/スポンソン "wikilink")を取り付けられているのがCH-53Eとの大きな違いである。このスポンソンは燃料タンクであり、[燃料](../Page/燃料.md "wikilink")搭載量は3倍近くに増加している。この結果、[基地](../Page/基地.md "wikilink")から30分進出した先で約4時間以上に渡って[機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")[掃海](https://ja.wikipedia.org/wiki/掃海 "wikilink")を実施することができる。
 
 開発は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に開始され、翌年に[試作機が初飛行している](../Page/プロトタイプ.md "wikilink")。 {{-}}
 
@@ -40,13 +40,13 @@
 
   -
 
-:\* [海上自衛隊](../Page/海上自衛隊.md "wikilink")
+:\*[海上自衛隊](../Page/海上自衛隊.md "wikilink")
 
   -
 
       -
         [FMSによって](https://ja.wikipedia.org/wiki/対外有償軍事援助 "wikilink")[1989年](../Page/1989年.md "wikilink")（平成元年）からMH-53Eの取得を開始した後、[第51航空隊で試験を行い](https://ja.wikipedia.org/wiki/第51航空隊_\(海上自衛隊\) "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）3月30日、[岩国基地所属の](https://ja.wikipedia.org/wiki/岩国飛行場#海上自衛隊 "wikilink")[第111航空隊に配備された](https://ja.wikipedia.org/wiki/第111航空隊_\(海上自衛隊\) "wikilink")。[1994年](../Page/1994年.md "wikilink")（平成6年）までの間に11機が取得されている。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）、事故により1機が失われた。
-        耐用命数時間は6,000時間とされ、機首右には空中給油プローブに代わり、気象レーダーを取り付けている。
+        耐用命数時間は6,000時間とされ、機首右には[空中給油プローブ](https://ja.wikipedia.org/wiki/空中給油プローブ "wikilink")に代わり、[気象レーダー](../Page/気象レーダー.md "wikilink")を取り付けている。
         [2009年](../Page/2009年.md "wikilink")（平成21年）3月以降、耐用命数時間に達した機から逐次除籍が開始され、[2017年](../Page/2017年.md "wikilink")（平成29年）3月3日に最後の機体（8625号機・8631号機）が除籍され、運用が終了した\[1\]。退役した機体の部品は同機を運用しかつ生産終了のため、部品の不足が見込まれていたアメリカに売却されている\[2\]\[3\]。
         後継機は[MCH-101である](https://ja.wikipedia.org/wiki/アグスタウェストランド_AW101#日本 "wikilink")。
 
@@ -68,7 +68,7 @@
 
 ## 事故
 
-  - アメリカ海軍安全センター（Naval Safety Center）のまとめによると、[1964年](../Page/1964年.md "wikilink")度から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度までの間で、最も重い「クラスA」区分の事故が年平均2.40件発生した\[4\]。
+  - [アメリカ海軍安全センター](https://ja.wikipedia.org/wiki/アメリカ海軍安全センター "wikilink")（Naval Safety Center）のまとめによると、[1964年](../Page/1964年.md "wikilink")度から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度までの間で、最も重い「クラスA」区分の事故が年平均2.40件発生した\[4\]。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")、[相模湾](../Page/相模湾.md "wikilink")で掃海訓練中の海上自衛隊所属MH-53E（8626号機）が着水、炎上、水没し、搭乗員8名が死亡した\[5\]。
   - [1999年](../Page/1999年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")午後9時45分頃、[沖縄本島](../Page/沖縄本島.md "wikilink")北部のアメリカ海兵隊[北部訓練場](../Page/北部訓練場.md "wikilink")に近い[国頭村](../Page/国頭村.md "wikilink")安波の沖合約1㎞の[太平洋](../Page/太平洋.md "wikilink")上で、海兵隊[普天間飛行場](../Page/普天間飛行場.md "wikilink")所属機が夜間洋上飛行訓練中に墜落\[6\]。乗員4人全員が死亡した\[7\]\[8\]。
   - [2006年](../Page/2006年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")、[ジブチ](../Page/ジブチ.md "wikilink")沖の[アデン湾](../Page/アデン湾.md "wikilink")内で、訓練中の2機が墜落、乗り組んでいた海兵隊員および[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")兵士のうち10人が死亡した\[9\]。

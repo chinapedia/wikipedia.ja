@@ -116,7 +116,7 @@
 ## 外部リンク
 
   - [ヤンサンWEB -連載作品紹介- 下北GLORY DAYS](http://www.youngsunday.com/rensai/comics/shimokita.html)
-  - [テレビ東京](http://www.tv-tokyo.co.jp/)
+  - [テレビ東京](https://www.tv-tokyo.co.jp/)
 
 <!-- end list -->
 

@@ -81,7 +81,7 @@
   - [OASISひろば21](http://www.oasis-hiroba21.jp)
   - [財団法人大分県文化スポーツ振興財団](http://www.emo.or.jp/foundation/index.html)
   - [iichiko 総合文化センター](http://www.emo.or.jp/)
-  - [NHK大分放送局](http://www.nhk.or.jp/oita/)
+  - [NHK大分放送局](https://www.nhk.or.jp/oita/)
 
 [Category:大分県の超高層ビル](https://ja.wikipedia.org/wiki/Category:大分県の超高層ビル "wikilink") [Category:大分市の建築物](https://ja.wikipedia.org/wiki/Category:大分市の建築物 "wikilink") [Category:NHK大分](https://ja.wikipedia.org/wiki/Category:NHK大分 "wikilink") [Category:1998年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1998年竣工の日本の建築物 "wikilink") [Category:1998年開業の施設](https://ja.wikipedia.org/wiki/Category:1998年開業の施設 "wikilink") [Category:高さ100m以上150m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ100m以上150m未満の超高層ビル "wikilink")
 

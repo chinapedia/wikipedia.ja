@@ -91,7 +91,7 @@ WordNetはWordNetのカテゴリと他のオントロジーに由来するカテ
 
 WordNetをオントロジーに組み込もうとしている多くのプロジェクトでは、WordNetの内容は意味的な不整合の問題が起きた場合に単純に訂正されるのではなく、 WordNetを発想の種として使ってきたが、必要があるときには大規模に書き換えて用いている。 たとえば、[OntoClean](https://ja.wikipedia.org/wiki/OntoClean "wikilink")を基盤にしたアプローチによって[WordNetの最上位のオントロジーが再構築された例](http://citeseer.ist.psu.edu/oltramari02restructuring.html)やSENSUSオントロジーの下位の分類を構築するのにWordNetを出発点のソースとして用いた例などがある。
 
-[FrameNet](https://ja.wikipedia.org/wiki/FrameNet "wikilink")はWordNetに近いプロジェクトである。10万以上の文に加えられた意味的な属性の注釈をもとにした語彙集であり、ねらいとなっている単位は、語彙[フレーム](../Page/フレーム.md "wikilink")(lexical frame)である。語彙フレームとは語句に関連づけられた属性に加えて、状態あるいは事象の種類（訳注:フレームについては\[[http://c1105067.uniblogs.org/2006/06/09/%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0/\]などが参考になる](http://c1105067.uniblogs.org/2006/06/09/%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0/%5Dなどが参考になる)。）を表したものである。
+[FrameNet](https://ja.wikipedia.org/wiki/FrameNet "wikilink")はWordNetに近いプロジェクトである。10万以上の文に加えられた意味的な属性の注釈をもとにした語彙集であり、ねらいとなっている単位は、語彙フレーム(lexical frame)である。語彙フレームとは語句に関連づけられた属性に加えて、状態あるいは事象の種類（訳注:フレームについては\[[http://c1105067.uniblogs.org/2006/06/09/%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0/\]などが参考になる](http://c1105067.uniblogs.org/2006/06/09/%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0/%5Dなどが参考になる)。）を表したものである。
 
 ## 参考文献
 

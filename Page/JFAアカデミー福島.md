@@ -224,7 +224,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p>2006</p></td>
 <td><p>2011</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府" title="wikilink">ヴァンフォーレ甲府</a></p></td>
-<td><p><a href="../Page/レノファ山口FC.md" title="wikilink">レノファ山口FC</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -284,7 +284,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p>2008</p></td>
 <td><p>2013</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a></p></td>
-<td><p><a href="../Page/松本山雅FC.md" title="wikilink">松本山雅FC</a></p></td>
+<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -324,7 +324,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p>2009</p></td>
 <td><p>2014</p></td>
 <td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">ロアッソ熊本</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いわきFC" title="wikilink">いわきFC</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -365,6 +365,26 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <td><p>2019</p></td>
 <td><p>V・ファーレン長崎</p></td>
 <td><p>V・ファーレン長崎</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>9</p></td>
+<td><p><a href="../Page/廣岡睦樹.md" title="wikilink">廣岡睦樹</a></p></td>
+<td><p>2014</p></td>
+<td><p>2019</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/モンテディオ山形" title="wikilink">モンテディオ山形</a></p></td>
+<td><p>モンテディオ山形</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鎌田大夢" title="wikilink">鎌田大夢</a></p></td>
+<td><p>2014</p></td>
+<td><p>2016</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/昌平中学校・高等学校" title="wikilink">昌平高校</a></p></td>
+<td><p><a href="../Page/福島ユナイテッドFC.md" title="wikilink">福島ユナイテッドFC</a></p></td>
 <td></td>
 </tr>
 </tbody>

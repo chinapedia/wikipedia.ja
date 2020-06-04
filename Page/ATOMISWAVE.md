@@ -7,7 +7,7 @@
 
 多くの機能は[NAOMI](../Page/NAOMI.md "wikilink")に類似しているが、ネットワークは標準対応になっている。また[VRAM](../Page/VRAM.md "wikilink")容量に対して[RAM容量がNAOMIより少なくなっており](../Page/Random_Access_Memory.md "wikilink")2D表示機能はNAOMIより若干劣る。
 
-当初NAOMIに取って代わり、加えて[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")時代の[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（旧社）が発売した多くのシリーズ作品を受け継いだことから[MVSの後継基板となることが予想され期待されていたが](../Page/Multi_Video_System.md "wikilink")、前述の2D機能の弱さもあってヒット作に恵まれず、[サミー](../Page/サミー.md "wikilink")とセガ（後の[セガホールディングス](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")）との経営統合後は一部を除きアーケードゲーム事業をセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）に一本化した関係上、本基板での開発は縮小傾向になり[2006年](../Page/2006年.md "wikilink")の『[メタルスラッグ](../Page/メタルスラッグ.md "wikilink")6』の発売をもって開発終了となった（他に、元々NAOMI/Dreamcastの余剰部品をセガより譲り受けて作られたという経緯上、既に生産終了したチップを用いて製造していたことから、部品の在庫が尽きた時点で生産継続が出来なくなったという要因もある）。
+当初NAOMIに取って代わり、加えて[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")時代の[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（旧社）が発売した多くのシリーズ作品を受け継いだことから[MVSの後継基板となることが予想され期待されていたが](../Page/Multi_Video_System.md "wikilink")、前述の2D機能の弱さもあってヒット作に恵まれず、[サミー](../Page/サミー.md "wikilink")とセガ（後の[セガグループ](https://ja.wikipedia.org/wiki/セガグループ "wikilink")）との経営統合後は一部を除きアーケードゲーム事業を[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")に一本化した関係上、本基板での開発は縮小傾向になり[2006年](../Page/2006年.md "wikilink")の『[メタルスラッグ](../Page/メタルスラッグ.md "wikilink")6』の発売をもって開発終了となった（他に、元々NAOMI/Dreamcastの余剰部品をセガより譲り受けて作られたという経緯上、既に生産終了したチップを用いて製造していたことから、部品の在庫が尽きた時点で生産継続が出来なくなったという要因もある）。
 
 またAW-NETによるネットワークサービス展開も成功したとは言い難く、更にセガのタイトルを標的とした競合ソフトが多かった（ネットセレクトシリーズなど）関係もあり、同サービスに対応したゲームは2005年の『[ネオジオバトルコロシアム](../Page/ネオジオバトルコロシアム.md "wikilink")』を最後にAW-NET自体も2006年[11月30日](../Page/11月30日.md "wikilink")で終了、現在AW-NET対応ソフトはすべてオフライン稼動となっている。
 

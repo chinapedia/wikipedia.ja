@@ -84,7 +84,7 @@
 <td><p><strong>5–4</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><br />
+<td><p><a href="../Page/2021年.md" title="wikilink">2021年</a><br />
 <a href="https://ja.wikipedia.org/wiki/2020_FIFAフットサルワールドカップ" title="wikilink">詳細</a></small></p></td>
 <td></td>
 <td></td>

@@ -33,6 +33,8 @@
 
   - [鈴木伸貴](../Page/鈴木伸貴.md "wikilink") 2005-2006
 
+  - [ケネス・クロンホルム](https://ja.wikipedia.org/wiki/ケネス・クロンホルム "wikilink") 2009-2010
+
 ## 外部リンク
 
   - [公式サイト](http://www.eintracht-trier.com/)

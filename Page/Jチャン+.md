@@ -349,7 +349,7 @@
 
   - [Jチャン+](http://www.kkb.co.jp/j-chan/j-chan.php) - KKB鹿児島放送
 
-[Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink") [Category:鹿児島放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:鹿児島放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")
+[Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink") [Category:鹿児島放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:鹿児島放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink") [Category:継続中にタイトルが変更された作品](https://ja.wikipedia.org/wiki/Category:継続中にタイトルが変更された作品 "wikilink")
 
 1.  2012年12月7日に[三陸沖地震 (2012年12月)が発生した際に](https://ja.wikipedia.org/wiki/三陸沖地震_\(2012年12月\) "wikilink")17:36から30秒間KKBのスタジオから休止する旨のコメントをしたあとに東京発に戻った
 2.  降板後も2006年から2年間リポーターとして出演した。

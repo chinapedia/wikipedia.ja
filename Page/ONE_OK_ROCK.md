@@ -7,7 +7,7 @@
 
 ## バンド名の由来
 
-「ONE OK ROCK」と書いて「ワン オクロック」と読む。結成当時、練習スタジオに入るのが、深夜パックで料金が安くなる毎週末の午前1時（one o'clock）だったことから、o'clock部分をOKとROCKに置き換え、「ひとつの良いロック」にかけて名付けられた\[1\]。命名は初代ドラマー、You。他に候補として「タクシーズ」（Taka）、「ピストンズ」（Toru）、「ドタキャンしないんDES」などがあった。略称としては『ワンオク』『OOR』が用いられる。また数字では「10969」と表現される。なお、海外においてはRとLの発音の違いなどから「OKROCK (オーケーロック)」と書いて「o'clock (オクロック)」と読ませることは難しいので、「ワンオーケーロック(One Okay Rock)」と発音することで公式に統一している。
+「ONE OK ROCK」と書いて「ワン オク ロック」と読む。結成当時、練習スタジオに入るのが、深夜パックで料金が安くなる毎週末の午前1時（one o'clock）だったことから、o'clock部分をOKとROCKに置き換え、「ひとつの良いロック」にかけて名付けられた\[1\]。命名は初代ドラマー、You。他に候補として「タクシーズ」（Taka）、「ピストンズ」（Toru）、「ドタキャンしないんDES」などがあった。略称としては『ワンオク』『OOR』が用いられる。また数字では「10969」と表現される。なお、海外においてはRとLの発音の違いなどから「OKROCK (オーケーロック)」と書いて「o'clock (オクロック)」と読ませることは難しいので、「ワンオーケーロック(One Okay Rock)」と発音することで公式に統一している。
 
 ## メンバー
 
@@ -305,7 +305,7 @@
 <td><p>2005年12月21日</p></td>
 <td><p>|</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ONE_OK_ROCK_(アルバム)" title="wikilink">ONE OK ROCK</a></p></td>
+<td><p>ONE OK ROCK</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -892,7 +892,7 @@
   - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST GROUP ARTIST（最も活躍したグループアーティストに授与される賞）および
   - [SPACE SHOWER](../Page/スペースシャワーTV.md "wikilink") MUSIC AWARDS・BEST ACTIVE OVERSEAS（最も海外で活躍したアーティストに授与される賞）の二冠を受賞
   - 第４回ブライダルミュージックアワードで 「Wherever you are」がミュージック賞受賞[3](https://isum.or.jp/bma/result/2017/?from=bma_news)
-  - 「ROCK SOUND AWARDS」2018でBest Live Performance (最も優れたライブパフォーマンス）受賞[4](http://www.rocksound.tv/news/read/introducing-your-2018-rock-sound-awards-winners)
+  - 「ROCK SOUND AWARDS」2018でBest Live Performance (最も優れたライブパフォーマンス）受賞[4](https://www.rocksound.tv/news/read/introducing-your-2018-rock-sound-awards-winners)
 
 **2020年**
 
@@ -1274,7 +1274,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019 2020</p></td>
+<td><p>2019</p></td>
 <td><p>2月19日<br />
 -<br />
 3月30日</p></td>
@@ -1283,13 +1283,13 @@
 <td><p>北米25都市</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019-2020</p></td>
 <td><p>9月22日<br />
 -<br />
-2020年4月1日(予定)</p></td>
+1月30日</p></td>
 <td><p><strong>ONE OK ROCK 2019-2020 EYE OF THE STORM JAPAN TOUR</strong></p></td>
-<td><p>17会場35公演(予定)</p></td>
+<td><p>17会場33公演</p></td>
 <td><p>11月13日の公演が中止となり、2020年3月31日と4月1日に振替公演を行う予定だったが、新型コロナウイルス(COVID-19)の影響により振替公演も中止となった。</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1994,7 +1994,7 @@
   -
   - [アミューズFacebook](https://www.facebook.com/amuse.jp/)
 
-[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のスクリーモ・バンド](https://ja.wikipedia.org/wiki/Category:日本のスクリーモ・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ポスト・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:ポスト・ハードコア・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:A-Sketchのアーティスト](https://ja.wikipedia.org/wiki/Category:A-Sketchのアーティスト "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:A-Sketchのアーティスト](https://ja.wikipedia.org/wiki/Category:A-Sketchのアーティスト "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  [So-net Music: ONE OK ROCK インタビュー](http://archive.is/FKh9)
 2.  『ロッキング・オン・ジャパン』2013年7月号、Kjインタビュー

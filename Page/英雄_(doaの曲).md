@@ -1,7 +1,7 @@
 > この記事は[英雄 \(doaの曲\)](https://ja.wikipedia.org/wiki/英雄_\(doaの曲\))から翻訳されています。
 
 
-「**英雄**」（えいゆう）は、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")3枚目のシングル。
+「**英雄**」（えいゆう）は、[doaの](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")3枚目のシングル。
 
 ## 概要
 

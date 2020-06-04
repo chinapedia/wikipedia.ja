@@ -243,7 +243,7 @@
 
 ## 外部リンク
 
-  - [Ryuha-R](http://www.tv-tokyo.co.jp/ryuha/index2.html) - 番組公式サイト。
+  - [Ryuha-R](https://www.tv-tokyo.co.jp/ryuha/index2.html) - 番組公式サイト。
 
 <!-- end list -->
 

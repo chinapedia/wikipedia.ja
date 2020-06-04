@@ -835,7 +835,7 @@ ZXRC-2047（CD1＋Blu-ray）</p></td>
   - [PrizmaXスタッフブログ](http://stblog.stardust-web.net/prizmaxstaff/) - 旧スタッフブログ（ - 2011年9月1日）
 
   -
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:EBiDAN](https://ja.wikipedia.org/wiki/Category:EBiDAN "wikilink") [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:EBiDAN](https://ja.wikipedia.org/wiki/Category:EBiDAN "wikilink") [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2020年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に解散した音楽グループ "wikilink")
 
 1.  [STARDUST WEB](http://www.stardust.co.jp/section1/)
 2.  [Sony Music Shop \> マツリルカ&アリス「HUG 〜抱きしめてください〜」](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=2550&cd=BVCR000019962)

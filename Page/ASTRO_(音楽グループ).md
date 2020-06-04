@@ -1,7 +1,7 @@
 > この記事は[ASTRO \(音楽グループ\)](https://ja.wikipedia.org/wiki/ASTRO_\(音楽グループ\))から翻訳されています。
 
 
-**ASTRO**（アストロ、）は[韓国のボーイズグループ](../Page/大韓民国.md "wikilink")。Fantagio所属。グループ名は、スペイン語で天体、星、スターを意味し、愛するすべての人たちにとって宇宙でありたい、星でありたいというメンバーたちの純粋な願いが込められている。\[1\]
+**ASTRO**（アストロ、）は[韓国のボーイズグループ](../Page/大韓民国.md "wikilink")。Fantagio所属。グループ名は、スペイン語で天体、星、スターを意味し、愛するすべての人たちにとって宇宙でありたい、星でありたいというメンバーたちの純粋な願いが込められている。ASTROのファンクラブ名はASTRO/HEART/ALL FANSと암스트롱의 하나뿐인 팬(=アストロのただ一つのファン)という意味を持つ**AROHA(アロハ)**である。\[1\]
 
 ## 来歴
 
@@ -11,7 +11,7 @@
 
 2016年2月23日、1stミニアルバム「Spring Up」をリリース\[2\]。公式にデビューした。
 
-2019年4月3日に1stミニアルバム「Venus」日本デビュー
+2019年4月3日、1stミニアルバム「Venus」をリリース。日本デビューをした。
 
 ## メンバー
 
@@ -19,14 +19,15 @@
 <thead>
 <tr class="header">
 <th><p>名前</p></th>
+<th><p>画像</p></th>
 <th><p>プロフィール</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>MJ<br />
-（엠제이）<br />
-</p></td>
+<td><p><em>' MJ</em>'<br />
+<span style="font-size:85%">（엠제이）</span></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:160805_MJ.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>本名：キム・ミョンジュン（김명준、金明俊、Kim Myung-jun）[3]</li>
 <li>生年月日：</li>
@@ -39,10 +40,11 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>ジンジン<br />
-（JINJIN）<br />
+<td><p><strong>ジンジン</strong><br />
+<span style="font-size:85%">（JINJIN）<br />
 （진진）<br />
-</p></td>
+</span></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:170602_Astro_07.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>本名：パク・ジヌ（박진우、朴真祐、Park Jin-woo）[6]</li>
 <li>生年月日：</li>
@@ -55,10 +57,10 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>チャ・ウヌ<br />
-（Cha Eunwoo）<br />
-（차은우、車銀優[9]）<br />
-</p></td>
+<td><p><em>' チャ・ウヌ</em>'<br />
+<span style="font-size:85%">（Cha Eunwoo）<br />
+（차은우、車銀優[9]）</span></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:170602_Astro_02.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>本名：イ・ドンミン（이동민、李東敏、Lee Dong-min）[10]</li>
 <li>生年月日：</li>
@@ -71,10 +73,10 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>ムンビン<br />
-（Moon Bin）<br />
-（문빈）<br />
-</p></td>
+<td><p><strong>ムンビン</strong><br />
+<span style="font-size:85%">（Moon Bin）<br />
+（문빈）</span></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:2019_SS_서울패션위크_-_Moon_Bin_02.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>本名：ムン・ビン（문빈、文彬、Moon-Bin）[13]</li>
 <li>生年月日：</li>
@@ -83,15 +85,14 @@
 <li>出身地：<a href="../Page/忠清北道.md" title="wikilink">忠清北道</a><a href="https://ja.wikipedia.org/wiki/清州市" title="wikilink">清州市</a>[14]</li>
 <li>学歴：翰林芸能芸術高等学校卒業[15]</li>
 <li>ポジション：リードボーカル、メインダンサー</li>
-<li>愛称: ダルコン(달콩) moonbinという名前から月(moon)を表す달と豆(bin)を表す콩</li>
-</ul>
-<p>運動の伝道師 爆走機関車</p></td>
+<li>愛称: ダルコン(달콩) moonbinという名前から月(moon)を表す달と豆(bin)を表す콩 運動の伝道師 爆走機関車</li>
+</ul></td>
 </tr>
 <tr class="odd">
-<td><p>ラキ<br />
-（Rocky）<br />
-（라키）<br />
-</p></td>
+<td><p><strong>ラキ</strong><br />
+<span style="font-size:85%">（Rocky）<br />
+（라키）</span></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Park_Min-hyuk.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>本名：パク・ミニョク（박민혁、朴敏赫、Park Min-hyuk）[16]</li>
 <li>生年月日：</li>
@@ -104,10 +105,10 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>ユン・サナ<br />
-（Yoon San Ha）<br />
-（윤산하）<br />
-</p></td>
+<td><p><strong>ユン・サナ</strong><br />
+<span style="font-size:85%">（Yoon San Ha）<br />
+（윤산하）</span></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:2019_SS_서울패션위크_-_Sanha_02.png" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>本名：ユン・サナ（윤산하、尹產賀、Yoon San-Ha）[19]</li>
 <li>生年月日：</li>
@@ -256,6 +257,22 @@ mini album</strong></span></p></td>
 </p></td>
 <td><p>117,925枚 [43]</p></td>
 </tr>
+<tr class="even">
+<td><p><strong>7th</strong></p></td>
+<td><p><strong>GATE WAY</strong><br />
+（2020年5月4日）</p></td>
+<td><ol>
+<li><strong>Knock</strong></li>
+<li>僕の名前を呼ぶとき</li>
+<li>SOMEBODY LIKE</li>
+<li>We Still</li>
+<li>12時間</li>
+<li>光になってあげる</li>
+</ol></td>
+<td><p>1位<br />
+[44]</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -277,16 +294,16 @@ mini album</strong></span></p></td>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>Winter Dream</strong><br />
-（2017年2月22日）[44]</p></td>
+（2017年2月22日）[45]</p></td>
 <td><ol>
 <li><strong>引き留めておくべきだった</strong></li>
 <li>Cotton Candy</li>
 <li>You ＆ Me（Thanks AROHA）</li>
 </ol></td>
 <td><p>2位<br />
-[45]</p></td>
-<td><p>23,201枚<br />
 [46]</p></td>
+<td><p>23,201枚<br />
+[47]</p></td>
 </tr>
 </tbody>
 </table>
@@ -309,7 +326,7 @@ mini album</strong></span></p></td>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>All Light</strong><br />
-（2019年1月16日）[47]</p></td>
+（2019年1月16日）[48]</p></td>
 <td><ol>
 <li>Starry Sky</li>
 <li><strong>All Night（電話して）</strong></li>
@@ -323,9 +340,38 @@ mini album</strong></span></p></td>
 <li>咲く(Bloom)</li>
 </ol></td>
 <td><p>1位<br />
-[48]</p></td>
-<td><p>121,173枚<br />
 [49]</p></td>
+<td><p>121,173枚<br />
+[50]</p></td>
+</tr>
+</tbody>
+</table>
+
+### Limited Special Single　(4周年スペシャルシングル)
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>No.</strong></p></th>
+<th><p><strong>タイトル</strong></p></th>
+<th><p><strong>収録曲</strong></p></th>
+<th><p><span style="font-size:85%">Gaon<br />
+チャート<br />
+（週間）</span></p></th>
+<th><p>売上枚数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>ONE&amp;ONLY</strong><br />
+（2020年2月23日）</p></td>
+<td><ol>
+<li><strong>ONE&amp;ONLY</strong></li>
+<li>ONE&amp;ONLY(instrumental)</li>
+</ol></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -370,6 +416,12 @@ mini album</strong></span></p></td>
 <li><a href="https://m.youtube.com/watch?feature=youtu.be&amp;v=wS7anrSXKrY">BLUEFLAME</a></li>
 </ul></td>
 </tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=Zz7YZtpz2Ek">Knock</a></li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 
@@ -377,17 +429,18 @@ mini album</strong></span></p></td>
 
 ### ドラマ
 
-  - 2017年 KBS2「最高の一発」 - MJ（ウヌ）
-  - 2018年 okususu 「[僕たちの復讐ノート](http://www.cinemart.co.jp/dc/k/sweetrevenge.html)」-ウヌ(ウヌ)
-  - 2018年 YouTube 「トップマネジメント」-ヨヌ(ウヌ)
-  - 2018年 JTBC 「私のIDは江南美人」-ト・ギョンソク（ウヌ）
-  - 2019年 Netflix 「新米史官ク・ヘリョン」-イ・リム (ウヌ)
-  - 2019年　JTBC 「18の瞬間」-チョン・オジェ（ムンビン）
-  - 2019年　NAVERTV　「愛の公式11M」-テオ（ユンサナ）
+  - 2017年　KBS2「最高の一発」 - MJ（ウヌ）
+  - 2018年　okususu 「[僕たちの復讐ノート](http://www.cinemart.co.jp/dc/k/sweetrevenge.html)」-ウヌ(ウヌ)
+  - 2018年　YouTube 「トップマネジメント」-ヨヌ　(ウヌ)
+  - 2018年　JTBC 「私のIDは江南美人」-ト・ギョンソク　(ウヌ）
+  - 2019年　Netflix 「新米史官ク・ヘリョン」-イ・リム　(ウヌ)
+  - 2019年　JTBC 「18の瞬間」-チョン・オジェ　(ムンビン）
+  - 2019年　NAVERTV　「愛の公式11M」-テオ　(ユンサナ）
+  - 2020年　YouTube 「人魚王子」-ウヒョク　(ムンビン)
 
-***<big>映画</big>***
+### 映画
 
-**<big>・</big>**<small>2015年　「世界で一番いとしい君へ」-想像上の息子（イ・ドンミン）</small>
+  - 2015年　「世界で一番いとしい君へ」-想像上の息子（イ・ドンミン）</small>
 
 ### ミュージックビデオ
 
@@ -399,6 +452,7 @@ mini album</strong></span></p></td>
 
   - 第26回[ソウル歌謡大賞](https://ja.wikipedia.org/wiki/ソウル歌謡大賞 "wikilink") - 韓流特別賞
   - 2019 SORIBADA BEST K-MUSIC AWARDS - グローバルホットトレンド賞
+  - 2020 show champion 1位
 
 ## 脚注
 
@@ -406,6 +460,10 @@ mini album</strong></span></p></td>
 
 ## 外部リンク
 
+### 公式
+
+**韓国**
+
   -
 
   -
@@ -414,12 +472,16 @@ mini album</strong></span></p></td>
   -
   -
   -
+**中国**
+
   -
   -
   -
   -
   -
   -
+### メンバー
+
   -
   -
   -
@@ -471,9 +533,10 @@ mini album</strong></span></p></td>
 41. <https://tower.jp/article/feature_item/2019/11/07/0106>
 42.
 43.
-44.
-45. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=week>　Gaonアルバムチャート2017年2月19日\~2017年2月25日\]
-46. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2017&termGbn=month>　Gaonアルバム月間チャート2017年3月\]
-47.
-48. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2019&termGbn=week>　Gaonアルバムチャート2019年1月13日\~2019年1月19日\]
-49. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2019&termGbn=month>　Gaonアルバム月間チャート2019年3月\]
+44. \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=19&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年5月3日\~2020年5月9日\]
+45.
+46. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=week>　Gaonアルバムチャート2017年2月19日\~2017年2月25日\]
+47. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2017&termGbn=month>　Gaonアルバム月間チャート2017年3月\]
+48.
+49. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2019&termGbn=week>　Gaonアルバムチャート2019年1月13日\~2019年1月19日\]
+50. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2019&termGbn=month>　Gaonアルバム月間チャート2019年3月\]

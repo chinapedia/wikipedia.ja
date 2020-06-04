@@ -89,6 +89,11 @@ CD不況の原因や背景として、以下のようなことがらが挙げら
   - 2013年
       - 1月 - HMVが経営破綻。
       - 4月 - [ユニバーサル ミュージック合同会社と](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")が統合し、新生「ユニバーサル ミュージック合同会社」としてスタート。
+  - 2019年
+      - 5月 - 株式会社[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")が株式会社[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")に統合され、同社の社内レーベルとなる。
+      - アメリカにおけるレコード流通に途絶の危機。[Direct Shot Distributing社による流通の寡占により](https://ja.wikipedia.org/wiki/Direct_Shot_Distributing "wikilink")、中小の店舗に流通が滞る事態が多発している\[17\]。
+  - 2020年
+      - [新型コロナウィルスの猛威により](../Page/2019新型コロナウイルス.md "wikilink")、実演家の多くが発表の場を失い、活動継続の危機に瀕する事態となった\[18\]。
 
 ## 脚注
 
@@ -130,3 +135,5 @@ CD不況の原因や背景として、以下のようなことがらが挙げら
 14. [各種統計 音楽ソフト種類別生産金額の推移](http://www.riaj.or.jp/data/money/index.html) 一般社団法人 日本レコード協会
 15. <http://www.riaj.or.jp/data/others/chart/w140418.html>
 16. [CD不況…HMV渋谷惜しまれながら閉店](http://www.nikkansports.com/entertainment/news/p-et-tp0-20100823-669383.html) nikkansports.com（2010年8月23日）
+17. <https://headlines.yahoo.co.jp/article?a=20200317-00033462-rolling-musi>
+18. <https://www.musicman.co.jp/column/308455>

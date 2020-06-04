@@ -1,7 +1,7 @@
 > この記事は[Ya Ya \(あの時代を忘れない\)](https://ja.wikipedia.org/wiki/Ya_Ya_\(あの時代を忘れない\))から翻訳されています。
 
 
-「**Ya Ya (あの時代を忘れない)**」（ヤヤ あのときをわすれない）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の16枚目の[シングル](../Page/シングル.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。
+「**Ya Ya (あの時代を忘れない)**」（ヤヤ あのときをわすれない）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の16作目の[シングル](../Page/シングル.md "wikilink")として、[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1982年](../Page/1982年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に発売された。
 
 [1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
 

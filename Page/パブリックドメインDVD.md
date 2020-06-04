@@ -3,7 +3,7 @@
 
 **パブリックドメインDVD**（*Public Domain DVD*、PDDVD）は、原版保有者（元・[著作権者](https://ja.wikipedia.org/wiki/著作権者 "wikilink")）の許諾の必要がない、[著作権の保護期間](../Page/著作権の保護期間.md "wikilink")が満了したものや、何らかの理由で[著作権](../Page/著作権.md "wikilink")が消失した[パブリックドメイン](../Page/パブリックドメイン.md "wikilink")（PD）の映像作品を[DVD](../Page/DVD.md "wikilink")に記録したものをいう。
 
-安価で販売が可能なため、**格安DVD**、**激安DVD**、**名画DVD**とも呼ばれている。原板保有者の許諾を得ている正規盤と比較して非正規盤と呼ばれることもあるが、[違法](https://ja.wikipedia.org/wiki/違法 "wikilink")な[海賊盤とは異なり](../Page/ブートレグ.md "wikilink")、**[合法](https://ja.wikipedia.org/wiki/合法 "wikilink")**的な製品である。なお、映画自体の著作権の保護期間が満了しても、「作中で用いられている音楽に著作権の保護期間が継続中」のものや、アニメの場合は「作品名・キャラクター名の[商標権](https://ja.wikipedia.org/wiki/商標権 "wikilink")」がある場合も多いため、商品化 には注意が必要である。
+安価で販売が可能なため、**格安DVD**、**激安DVD**、**名画DVD**とも呼ばれている。原板保有者の許諾を得ている正規盤と比較して非正規盤と呼ばれることもあるが、[違法](https://ja.wikipedia.org/wiki/違法 "wikilink")な[海賊盤とは異なり](../Page/海賊版.md "wikilink")、**[合法](https://ja.wikipedia.org/wiki/合法 "wikilink")**的な製品である。なお、映画自体の著作権の保護期間が満了しても、「作中で用いられている音楽に著作権の保護期間が継続中」のものや、アニメの場合は「作品名・キャラクター名の[商標権](https://ja.wikipedia.org/wiki/商標権 "wikilink")」がある場合も多いため、商品化 には注意が必要である。
 
 ## 製品の概要
 

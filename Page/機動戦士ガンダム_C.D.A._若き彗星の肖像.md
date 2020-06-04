@@ -116,4 +116,4 @@
   - [アクシズのハマーンさん](../Page/アクシズのハマーンさん.md "wikilink")
   - [機動戦士Ζガンダム Define](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム_Define "wikilink")
 
-[Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:ロボットアニメのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのスピンオフ作品 "wikilink")
+[Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:2001年の漫画](https://ja.wikipedia.org/wiki/Category:2001年の漫画 "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:ロボットアニメのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのスピンオフ作品 "wikilink")

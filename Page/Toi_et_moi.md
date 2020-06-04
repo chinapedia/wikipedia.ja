@@ -1,7 +1,7 @@
 > この記事は[Toi et moi](https://ja.wikipedia.org/wiki/Toi_et_moi)から翻訳されています。
 
 
-「**toi et moi**」（トワ・エ・モア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では14枚目の[シングル](../Page/シングル.md "wikilink")。
+「**toi et moi**」（トワ・エ・モア）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では14枚目の[シングル](../Page/シングル.md "wikilink")である。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 

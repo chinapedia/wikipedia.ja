@@ -5,6 +5,8 @@
 
 ## 音楽性
 
+本楽曲が出来上がった時は小室本人も「これは誰も歌えない」と思った\[1\]。
+
 アルバムバージョンと比較して、シングルバージョンは[イントロ](../Page/導入部.md "wikilink")、間奏、リフレインが短くエディットされている。
 
 ## リリース
@@ -71,4 +73,8 @@
   - [TM NETWORK ORIGINAL SINGLES 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLES_1984-1999 "wikilink")
   - [TM NETWORK ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink") (オリジナル・カラオケ)
 
+## 脚注
+
 [Category:1984年のシングル](https://ja.wikipedia.org/wiki/Category:1984年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:失恋を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:失恋を題材とした楽曲 "wikilink") [Category:曜日を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:曜日を題材とした楽曲 "wikilink") [Category:ライオンを題材とした楽曲](https://ja.wikipedia.org/wiki/Category:ライオンを題材とした楽曲 "wikilink") [Category:1984年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1984年のデビュー・シングル "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+
+1.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊「平凡Special 1985 僕らの80年代」『木根尚登 レコード店を回った静かな情熱は、時代を超えてみんなの心に。』p.100より。

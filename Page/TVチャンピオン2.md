@@ -178,11 +178,11 @@
   - [青森テレビ](../Page/青森テレビ.md "wikilink")
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [福島テレビ](../Page/福島テレビ.md "wikilink")
   - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（2007年4月よりネット開始）
+  - [北日本放送](../Page/北日本放送.md "wikilink")（2007年4月よりネット開始）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（放送内容は、2か月遅れの放送）
   - [長野放送](../Page/長野放送.md "wikilink")
   - [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（放送内容は、2週間遅れの放送）
@@ -212,7 +212,7 @@
 
 ## 外部リンク
 
-  - [TVチャンピオン2](http://www.tv-tokyo.co.jp/tvchamp/index.html)
+  - [TVチャンピオン2](https://www.tv-tokyo.co.jp/tvchamp/index.html)
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:TVチャンピオン](https://ja.wikipedia.org/wiki/Category:TVチャンピオン "wikilink")
 

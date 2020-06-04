@@ -180,15 +180,15 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")発覚。
     同社[仙台工場](../Page/仙台市.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")岩沼市）が、[煤塵](https://ja.wikipedia.org/wiki/煤塵 "wikilink")処理の許可を受けていない業者・『[ピアエンジニアリング](https://ja.wikipedia.org/wiki/ピアエンジニアリング "wikilink")』に対し、工場から排出された煤塵の処理を委託していたとして、[茨城県警から同工場ならびに同社本社が家宅](../Page/茨城県警察.md "wikilink")[捜索](../Page/捜索.md "wikilink")を受けた\[23\]\[24\]。
 
+## 脚注
+
+<references />
+
 ## 関連項目
 
   - [日本ジャイアントタイヤ](https://ja.wikipedia.org/wiki/日本ジャイアントタイヤ "wikilink")
   - [レスター・シティFC](../Page/レスター・シティFC.md "wikilink") 2014-15シーズンからのオフィシャルタイヤパートナー\[25\]
   - [ガンバ大阪](../Page/ガンバ大阪.md "wikilink") 2016シーズン途中よりパートナー契約を締結
-
-## 脚注
-
-<references />
 
 ## 外部リンク
 

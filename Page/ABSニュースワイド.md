@@ -1,7 +1,7 @@
 > この記事は[ABSニュースワイド](https://ja.wikipedia.org/wiki/ABSニュースワイド)から翻訳されています。
 
 
-『**ABSニュースワイド**』（エービーエス ニュースワイド）は、[1981年](../Page/1981年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月30日まで[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（ABSテレビ）で放送されていた夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。同局初の夕方の報道番組『[ワイドレーダーあきた](https://ja.wikipedia.org/wiki/ワイドレーダーあきた "wikilink")』の後継番組として開始。同局と[秋田魁新報](../Page/秋田魁新報.md "wikilink")の共同制作による[メディアミックス](../Page/メディアミックス.md "wikilink")仕立ての番組であった。
+『**ABSニュースワイド**』（エービーエス ニュースワイド）は、[1981年](../Page/1981年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月30日まで[秋田放送](../Page/秋田放送.md "wikilink")（ABSテレビ）で放送されていた夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。同局初の夕方の報道番組『[ワイドレーダーあきた](https://ja.wikipedia.org/wiki/ワイドレーダーあきた "wikilink")』の後継番組として開始。同局と[秋田魁新報](../Page/秋田魁新報.md "wikilink")の共同制作による[メディアミックス](../Page/メディアミックス.md "wikilink")仕立ての番組であった。
 
 番組開始当初の放送時間は月曜 - 金曜 18時00分 - 18時30分で、初代キャスターは[神永光](https://ja.wikipedia.org/wiki/神永光 "wikilink")（『ワイドレーダーあきた』よりの続投）。
 

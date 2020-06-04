@@ -96,9 +96,9 @@
 
 ### カップ戦
 
-  - [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink"):1回
+  - [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")：1回
       - 2007年
-  - 滋賀県サッカー選手権大会（滋賀FAカップ兼天皇杯滋賀県予選）:4回
+  - 滋賀県サッカー選手権大会（滋賀FAカップ兼天皇杯滋賀県予選）：4回
       - 2007年、2010年、2013年、2015年
 
 ## ホームスタジアム
@@ -564,7 +564,7 @@
 
   - [MIOびわこ滋賀の選手一覧](https://ja.wikipedia.org/wiki/MIOびわこ滋賀の選手一覧 "wikilink")
   - [SAGAWA SHIGA FC](../Page/SAGAWA_SHIGA_FC.md "wikilink") - 滋賀県を拠点としていた佐川急便のサッカー部。[東京サッカー部と](../Page/佐川急便東京SC.md "wikilink")[大阪サッカー部の合併により](../Page/佐川急便大阪SC.md "wikilink")2007年に創設、2012年に活動停止。
-  - [塩釜NTFCヴィーゼ](https://ja.wikipedia.org/wiki/塩釜NTFCヴィーゼ "wikilink") - 前身の塩釜FCヴィーゼは、佐川急便東北サッカー部を母体としていた。
+  - [塩釜FCヴィーゼ](../Page/塩釜FCヴィーゼ.md "wikilink") - 佐川急便東北サッカー部を母体に設立されたクラブ。
   - [京滋ダービー](https://ja.wikipedia.org/wiki/京滋ダービー "wikilink")
   - [Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")
   - [ザスパクサツ群馬](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink") - 本クラブとは特段の関連はないが、同名の自治体である[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[草津町](../Page/草津町.md "wikilink")をホームタウンとしている。

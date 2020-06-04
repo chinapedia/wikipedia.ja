@@ -140,6 +140,7 @@
       - [Make It On My Own](https://ja.wikipedia.org/wiki/Make_It_On_My_Own "wikilink")
   - [Mondo Grosso](https://ja.wikipedia.org/wiki/Mondo_Grosso "wikilink")
       - Still In the rain（Laughter in the rain ）
+      - DeDe - Everybody (Sakura Hills Disco 3000 Remix)
 
 ## 外部リンク
 

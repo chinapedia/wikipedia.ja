@@ -164,15 +164,15 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>ここに幸あり(<a href="../Page/大津美子.md" title="wikilink">大津美子</a>のカバー)</li>
+<li>ここに幸あり（<a href="../Page/大津美子.md" title="wikilink">大津美子</a>のカバー）</li>
 <li>TABLA BOL「CATASTRPHE」</li>
 <li>ここに幸あり inst.call「タブラマグマボンゴ」</li>
-<li>ラジオのように（<a href="../Page/ブリジット・フォンテーヌ.md" title="wikilink">ブリジット・フォンテーヌ</a>のカバー。原曲名: <em>Comme A La Radio</em>）)</li>
+<li>ラジオのように（<a href="../Page/ブリジット・フォンテーヌ.md" title="wikilink">ブリジット・フォンテーヌ</a>のカバー。原曲名: <em>Comme A La Radio</em>）</li>
 <li>KUTSU
 </div>
 </div></li>
 </ol></td>
-<td><p>ポリスター</p></td>
+<td><p><a href="../Page/ポリスター.md" title="wikilink">ポリスター</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -187,8 +187,8 @@
 <ol>
 <li>花（映画『<a href="https://ja.wikipedia.org/wiki/けものがれ、俺らの猿と" title="wikilink">けものがれ、俺らの猿と</a>』エンディングテーマ）</li>
 <li>Preach</li>
-<li>2月(<a href="https://ja.wikipedia.org/wiki/bloodthirsty_butchers" title="wikilink">bloodthirsty butchersのカバー</a>)</li>
-<li>Goo-Gung-Gung(<a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>のカバー)</li>
+<li>2月（<a href="https://ja.wikipedia.org/wiki/bloodthirsty_butchers" title="wikilink">bloodthirsty butchersのカバー</a>）</li>
+<li>Goo-Gung-Gung（<a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>のカバー）</li>
 <li>小花</li>
 <li>KUTU #2
 </div>
@@ -208,11 +208,11 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>トレモロ</li>
-<li>あたらしい花(編曲は<a href="../Page/レイ・ハラカミ.md" title="wikilink">レイ・ハラカミ</a>)</li>
+<li>あたらしい花（編曲は<a href="../Page/レイ・ハラカミ.md" title="wikilink">レイ・ハラカミ</a>）</li>
 <li>12節</li>
 <li>海峡</li>
 <li>つぎねぷと言ってみた</li>
-<li>Jippun(編曲はレイ・ハラカミ)</li>
+<li>Jippun（編曲はレイ・ハラカミ）</li>
 <li>Xylophone</li>
 <li>KUTU #3
 </div>
@@ -232,12 +232,12 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Parlor</li>
-<li>SENAKA(レイ・ハラカミとのコラボレーション)</li>
-<li>つぎねぷと言ってみた (みんなのラッパ篇)</li>
-<li>カな(長篇)</li>
+<li>SENAKA（レイ・ハラカミとのコラボレーション）</li>
+<li>つぎねぷと言ってみた（みんなのラッパ篇）</li>
+<li>カな（長篇）</li>
 <li>日の出マーチ</li>
 <li>マダム・ベル 〜ダンス・カンパニー「イデビアン・クルー」に捧ぐ〜</li>
-<li>背中 (みんなのジュンレイ篇)</li>
+<li>背中（みんなのジュンレイ篇）</li>
 <li>KUTU #4
 </div>
 </div></li>
@@ -493,9 +493,9 @@
 <ol>
 <li>Parlor</li>
 <li>花</li>
-<li>つぎねぷと言ってみた (みんなのラッパ篇)〜タブラ ソロ</li>
+<li>つぎねぷと言ってみた（みんなのラッパ篇）〜タブラ ソロ</li>
 <li>2月</li>
-<li>カな (長篇)</li>
+<li>カな（長篇）</li>
 <li>日の出マーチ</li>
 <li>背中</li>
 </ol>
@@ -550,9 +550,9 @@
 <ol>
 <li>マンダム～男の世界～</li>
 <li>大脱走のテーマ</li>
-<li>マンダム～男の世界～(ウッドストック・モーニング編) / ブロンソンズ with <a href="../Page/ROLLY.md" title="wikilink">ROLLY</a></li>
-<li>大脱走(ブロンソン大陸MIX) / ブロンソンズ with <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a></li>
-<li>ロッキーのテーマ(完コピVERSION) / ブロンソンズ with <a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
+<li>マンダム～男の世界～（ウッドストック・モーニング編） / ブロンソンズ with <a href="../Page/ROLLY.md" title="wikilink">ROLLY</a></li>
+<li>大脱走（ブロンソン大陸MIX） / ブロンソンズ with <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a></li>
+<li>ロッキーのテーマ（完コピVERSION） / ブロンソンズ with <a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a></li>
 <li>マンダム～男の世界～（FREE AS THE BYRDS編） / ブロンソンズ with <a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a></li>
 <li>デス・ウイッシュ～ブロンソンズのテーマ～ / ブロンソンズ with <a href="../Page/桜井秀俊.md" title="wikilink">桜井秀俊</a>と<a href="https://ja.wikipedia.org/wiki/パイオニア・コンポ" title="wikilink">パイオニア・コンポ</a></li>
 <li><strong>エマニエル夫人のテーマ(REAL SLAVE MIX) / ブロンソンズ with ASA-CHANG featuring <a href="https://ja.wikipedia.org/wiki/ヒゲオヤジーズ合唱団" title="wikilink">ヒゲオヤジーズ合唱団</a></strong></li>
@@ -562,7 +562,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>LD &amp; K</p></td>
+<td><p><a href="../Page/LD&amp;K_Records.md" title="wikilink">LD&amp;K</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2004年9月8日</p></td>
@@ -591,7 +591,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>ユニヴァーサルIMS</p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニヴァーサルIMS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年2月23日</p></td>
@@ -623,7 +623,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年4月27日</p></td>
-<td><p>Ki/oon Records Overseas Compilation</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Ki/oon_Records" title="wikilink">Ki/oon Records</a> Overseas Compilation</p></td>
 <td><p>KSCL-815:初回生産限定盤<br />
 KSCL-817:通常盤</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -641,9 +641,9 @@ KSCL-817:通常盤</p></td>
 <li>Nothing's Gonna Change (short) / <a href="../Page/電気グルーヴ.md" title="wikilink">電気グルーヴ</a></li>
 <li>The Rising Suns / <a href="../Page/石野卓球.md" title="wikilink">石野卓球</a></li>
 <li>STREET STARS BREAKIN' (short version) / <a href="../Page/DJ_TASAKA.md" title="wikilink">DJ TASAKA</a></li>
-<li>lovebeat(Radio Edit) / <a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a></li>
+<li>lovebeat (Radio Edit) / <a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a></li>
 <li>町 / <a href="../Page/ACO.md" title="wikilink">ACO</a></li>
-<li><strong>カな(長篇) / ASA-CHANG&amp;巡礼 feat.<a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a></strong></li>
+<li><strong>カな（長篇） / ASA-CHANG&amp;巡礼 feat.<a href="../Page/ハナレグミ.md" title="wikilink">ハナレグミ</a></strong></li>
 <li>ユメミタイ(cherish my life) / <a href="../Page/日暮愛葉.md" title="wikilink">日暮愛葉</a></li>
 <li>あふりらんぽ / <a href="../Page/あふりらんぽ.md" title="wikilink">あふりらんぽ</a>
 </div>
@@ -653,7 +653,7 @@ KSCL-817:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年11月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小泉今日子" title="wikilink">小泉今日子</a>『<a href="https://ja.wikipedia.org/wiki/Nice_Middle" title="wikilink">Nice Middle</a>』</p></td>
+<td><p>小泉今日子『<a href="https://ja.wikipedia.org/wiki/Nice_Middle" title="wikilink">Nice Middle</a>』</p></td>
 <td><p>VIZL-309:初回生産限定盤<br />
 VICL-63123:通常盤</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -692,20 +692,20 @@ VICL-63123:通常盤</p></td>
 <li>me.ga.ne / <a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></li>
 <li>pulling from above / <a href="https://ja.wikipedia.org/wiki/mi-gu" title="wikilink">mi-gu</a></li>
 <li><strong>ウーハンの女 / ASA-CHANG&amp;巡礼</strong></li>
-<li>Tokyo,Round and Round / <a href="../Page/ムーンライダーズ.md" title="wikilink">MOONRIDERS</a></li>
+<li>Tokyo,,Round and Round / MOONRIDERS</li>
 <li>LOV / <a href="../Page/高野寛.md" title="wikilink">高野寛</a></li>
 <li>Good Night Song / <a href="https://ja.wikipedia.org/wiki/naomi_&amp;_goro" title="wikilink">naomi &amp; goro</a></li>
 <li>テレ東 / <a href="../Page/相対性理論_(バンド).md" title="wikilink">相対性理論</a></li>
 <li>Good Old Future / <a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a></li>
-<li>からっぽフレーバー / THE DUB FLOWER(<a href="../Page/いとうせいこう.md" title="wikilink">いとうせいこう</a>×<a href="https://ja.wikipedia.org/wiki/Dub_Master_X" title="wikilink">DUB MASTER X他</a>)</li>
-<li>LOVEBEAT / <a href="../Page/砂原良徳.md" title="wikilink">砂原良徳</a></li>
+<li>からっぽフレーバー / THE DUB FLOWER（<a href="../Page/いとうせいこう.md" title="wikilink">いとうせいこう</a>×<a href="https://ja.wikipedia.org/wiki/Dub_Master_X" title="wikilink">DUB MASTER X他</a>）</li>
+<li>LOVEBEAT / 砂原良徳</li>
 <li>Tonight / <a href="../Page/□□□.md" title="wikilink">□□□</a></li>
 <li>My Way / <a href="https://ja.wikipedia.org/wiki/SHEENA_&amp;_THE_ROKKETS" title="wikilink">SHEENA &amp; THE ROKKETS</a></li>
-<li>RYDEEN 79/07 / <a href="https://ja.wikipedia.org/wiki/Yellow_Magic_Orchestra" title="wikilink">Yellow Magic Orchestra</a>
+<li><a href="https://ja.wikipedia.org/wiki/RYDEEN_79/07" title="wikilink">RYDEEN 79/07</a> / <a href="https://ja.wikipedia.org/wiki/Yellow_Magic_Orchestra" title="wikilink">Yellow Magic Orchestra</a>
 </div>
 </div></li>
 </ol></td>
-<td><p>commmons</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/commmons" title="wikilink">commmons</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年1月27日</p></td>
@@ -717,17 +717,17 @@ VICL-63123:通常盤</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>村の鍛冶屋 / <a href="../Page/細野晴臣.md" title="wikilink">細野晴臣</a>＋<a href="https://ja.wikipedia.org/wiki/木津茂理" title="wikilink">木津茂理</a>＋<a href="https://ja.wikipedia.org/wiki/青柳拓次" title="wikilink">青柳拓次</a></li>
-<li>北風小僧の寒太郎 / <a href="https://ja.wikipedia.org/wiki/中納良恵" title="wikilink">中納良恵</a>＋ASA-CHANG</li>
-<li>冬の星座 / <a href="https://ja.wikipedia.org/wiki/ショコラ" title="wikilink">ショコラ</a></li>
-<li>小ぎつね / <a href="https://ja.wikipedia.org/wiki/イノトモ" title="wikilink">イノトモ</a>＋<a href="https://ja.wikipedia.org/wiki/ピラニアンズ" title="wikilink">ピラニアンズ</a></li>
-<li>とうだいもり / <a href="https://ja.wikipedia.org/wiki/岡林信康" title="wikilink">岡林信康</a></li>
-<li>たきび / <a href="../Page/中山うり.md" title="wikilink">中山うり</a></li>
-<li>冬景色 / <a href="https://ja.wikipedia.org/wiki/元ちとせ" title="wikilink">元ちとせ</a></li>
-<li>冬の夜 / <a href="https://ja.wikipedia.org/wiki/小林翔" title="wikilink">小林翔</a>＋<a href="https://ja.wikipedia.org/wiki/栗原務" title="wikilink">栗原務</a></li>
+<li><a href="../Page/村の鍛冶屋.md" title="wikilink">村の鍛冶屋</a> / <a href="../Page/細野晴臣.md" title="wikilink">細野晴臣</a>＋<a href="https://ja.wikipedia.org/wiki/木津茂理" title="wikilink">木津茂理</a>＋<a href="https://ja.wikipedia.org/wiki/青柳拓次" title="wikilink">青柳拓次</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/北風小僧の寒太郎" title="wikilink">北風小僧の寒太郎</a> / <a href="https://ja.wikipedia.org/wiki/中納良恵" title="wikilink">中納良恵</a>＋ASA-CHANG</li>
+<li><a href="https://ja.wikipedia.org/wiki/冬の星座_(文部省唱歌)" title="wikilink">冬の星座</a> / <a href="https://ja.wikipedia.org/wiki/ショコラ" title="wikilink">ショコラ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/小ぎつね" title="wikilink">小ぎつね</a> / <a href="https://ja.wikipedia.org/wiki/イノトモ" title="wikilink">イノトモ</a>＋ピラニアンズ</li>
+<li><a href="https://ja.wikipedia.org/wiki/灯台守_(みんなのうた)" title="wikilink">とうだいもり</a> / <a href="https://ja.wikipedia.org/wiki/岡林信康" title="wikilink">岡林信康</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/たきび" title="wikilink">たきび</a> / <a href="../Page/中山うり.md" title="wikilink">中山うり</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/冬景色" title="wikilink">冬景色</a> / <a href="https://ja.wikipedia.org/wiki/元ちとせ" title="wikilink">元ちとせ</a></li>
+<li><a href="../Page/冬の夜.md" title="wikilink">冬の夜</a> / <a href="https://ja.wikipedia.org/wiki/小林翔" title="wikilink">小林翔</a>＋<a href="https://ja.wikipedia.org/wiki/栗原務" title="wikilink">栗原務</a></li>
 <li>ペチカ / <a href="../Page/嶺川貴子.md" title="wikilink">嶺川貴子</a>＋<a href="https://ja.wikipedia.org/wiki/rei_harakami" title="wikilink">rei harakami</a></li>
-<li>雪 / <a href="../Page/Saigenji.md" title="wikilink">Saigenji</a></li>
-<li>雪の降るまちを / <a href="../Page/手嶌葵.md" title="wikilink">手嶌葵</a>＋<a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a>
+<li><a href="../Page/雪_(童謡).md" title="wikilink">雪</a> / <a href="../Page/Saigenji.md" title="wikilink">Saigenji</a></li>
+<li><a href="../Page/雪の降るまちを.md" title="wikilink">雪の降るまちを</a> / <a href="../Page/手嶌葵.md" title="wikilink">手嶌葵</a>＋<a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a>
 </div>
 </div></li>
 </ol></td>
@@ -744,23 +744,23 @@ RZCM-46392:CD</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>The City of Light / <a href="https://ja.wikipedia.org/wiki/HASYMO" title="wikilink">HASYMO</a></li>
-<li>ax Mr. L. / <a href="https://ja.wikipedia.org/wiki/Alva_Noto" title="wikilink">Alva Noto</a> + Ryuichi Sakamoto</li>
+<li><a href="https://ja.wikipedia.org/wiki/The_City_of_Light_/_Tokyo_Town_Pages" title="wikilink">The City of Light</a> / <a href="https://ja.wikipedia.org/wiki/HASYMO" title="wikilink">HASYMO</a></li>
+<li>ax Mr. L. / <a href="https://ja.wikipedia.org/wiki/アルヴァ・ノト" title="wikilink">Alva Noto</a> + Ryuichi Sakamoto</li>
 <li>Private Party / <a href="https://ja.wikipedia.org/wiki/AOKI_takamasa" title="wikilink">AOKI takamasa</a></li>
-<li>Saffron Revolution / <a href="https://ja.wikipedia.org/wiki/Fennesz" title="wikilink">Fennesz</a></li>
+<li>Saffron Revolution / <a href="https://ja.wikipedia.org/wiki/クリスチャン・フェネス" title="wikilink">Fennesz</a></li>
 <li>O Waly, waly / <a href="https://ja.wikipedia.org/wiki/Fretwork_and_Clare_Wilkinson" title="wikilink">Fretwork and Clare Wilkinson</a></li>
-<li>to stanford / <a href="../Page/コトリンゴ.md" title="wikilink">コトリンゴ</a></li>
-<li>Silent Clouds / <a href="https://ja.wikipedia.org/wiki/naomi_&amp;_goro" title="wikilink">naomi &amp; goro</a></li>
-<li>映してながめる / <a href="https://ja.wikipedia.org/wiki/青柳拓次" title="wikilink">青柳拓次</a></li>
-<li>firewater / <a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a></li>
+<li>to stanford / コトリンゴ</li>
+<li>Silent Clouds / naomi &amp; goro</li>
+<li>映してながめる / 青柳拓次</li>
+<li>firewater / 坂本龍一</li>
 <li>Prepare Your Coffin / <a href="https://ja.wikipedia.org/wiki/Tortoise" title="wikilink">Tortoise</a></li>
-<li>Choose the Light / <a href="https://ja.wikipedia.org/wiki/mi-gu" title="wikilink">mi-gu</a></li>
+<li>Choose the Light / mi-gu</li>
 <li>SOL / <a href="../Page/OOIOO.md" title="wikilink">OOIOO</a></li>
 </ol>
 <p># PEACE</p></td>
 <td><p>! (#1 ver.) / <a href="https://ja.wikipedia.org/wiki/AA=" title="wikilink">AA=</a></p>
 <ol>
-<li>GOLDEN KING / <a href="../Page/□□□.md" title="wikilink">□□□</a></li>
+<li>GOLDEN KING / □□□</li>
 <li><strong>ウーハンの女 / ASA-CHANG＆巡礼</strong></li>
 <li>ANT 10 ORIGINAL / <a href="https://ja.wikipedia.org/wiki/BOREDOMS" title="wikilink">BOREDOMS</a>
 </div>
@@ -777,29 +777,29 @@ RZCM-46392:CD</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>もりのくまさん / ううあ</li>
-<li>エーデルワイス(Japanese Demo Ver.) / <a href="../Page/ビューティフルハミングバード.md" title="wikilink">ビューティフルハミングバード</a></li>
-<li>大きな栗の木の下で / <a href="../Page/ゴスペラーズ.md" title="wikilink">ゴスペラーズ</a></li>
-<li>およげ!たいやきくん / <a href="https://ja.wikipedia.org/wiki/BEGIN" title="wikilink">BEGIN</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/森のくまさん_(曲)" title="wikilink">もりのくまさん</a> / <a href="https://ja.wikipedia.org/wiki/UA_(歌手)" title="wikilink">ううあ</a></li>
+<li><a href="../Page/エーデルワイス_(音楽).md" title="wikilink">エーデルワイス</a> (Japanese Demo Ver.) / <a href="../Page/ビューティフルハミングバード.md" title="wikilink">ビューティフルハミングバード</a></li>
+<li><a href="../Page/大きな栗の木の下で.md" title="wikilink">大きな栗の木の下で</a> / <a href="../Page/ゴスペラーズ.md" title="wikilink">ゴスペラーズ</a></li>
+<li><a href="../Page/およげ!たいやきくん.md" title="wikilink">およげ!たいやきくん</a> / <a href="../Page/BEGIN_(バンド).md" title="wikilink">BEGIN</a></li>
 <li>ハレヒレホ / <a href="https://ja.wikipedia.org/wiki/Cocco" title="wikilink">Cocco</a></li>
 <li>ハイ・ホー / <a href="../Page/キグルミ.md" title="wikilink">キグルミ</a></li>
-<li>こぶたぬきつねこ / <a href="https://ja.wikipedia.org/wiki/金城綾乃_(Kiroro)" title="wikilink">金城綾乃 (Kiroro)</a></li>
-<li>埴生の宿 / <a href="../Page/キリンジ.md" title="wikilink">キリンジ</a></li>
-<li><strong>小さな木の実 / <a href="../Page/畠山美由紀.md" title="wikilink">畠山美由紀</a> with ASA-CHANG&amp;ブルーハッツ</strong></li>
-<li>ゆき / ううあ</li>
-<li>椰子の実 / <a href="https://ja.wikipedia.org/wiki/アン・サリー" title="wikilink">アン・サリー</a></li>
-<li>銀ちゃんのラブレター / <a href="https://ja.wikipedia.org/wiki/pizzicato_five" title="wikilink">pizzicato five</a></li>
-<li>見上げてごらん夜の星を / <a href="https://ja.wikipedia.org/wiki/夏川りみ" title="wikilink">夏川りみ</a></li>
-<li>はじめてのチュウ / <a href="https://ja.wikipedia.org/wiki/奈良柚莉愛" title="wikilink">奈良柚莉愛</a></li>
-<li>星に願いを(When You Wish Upon A Star) / <a href="https://ja.wikipedia.org/wiki/つじあやの" title="wikilink">つじあやの</a>
+<li>こぶたぬきつねこ / 金城綾乃（<a href="../Page/Kiroro.md" title="wikilink">Kiroro</a>）</li>
+<li><a href="../Page/埴生の宿.md" title="wikilink">埴生の宿</a> / <a href="../Page/キリンジ.md" title="wikilink">キリンジ</a></li>
+<li><strong><a href="https://ja.wikipedia.org/wiki/小さな木の実" title="wikilink">小さな木の実</a> / <a href="../Page/畠山美由紀.md" title="wikilink">畠山美由紀</a> with ASA-CHANG&amp;ブルーハッツ</strong></li>
+<li><a href="../Page/雪_(童謡).md" title="wikilink">ゆき</a> / ううあ</li>
+<li><a href="https://ja.wikipedia.org/wiki/椰子の実" title="wikilink">椰子の実</a> / <a href="https://ja.wikipedia.org/wiki/アン・サリー" title="wikilink">アン・サリー</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/銀ちゃんのラブレター" title="wikilink">銀ちゃんのラブレター</a> / <a href="https://ja.wikipedia.org/wiki/pizzicato_five" title="wikilink">pizzicato five</a></li>
+<li><a href="../Page/見上げてごらん夜の星を_(曲).md" title="wikilink">見上げてごらん夜の星を</a> / <a href="https://ja.wikipedia.org/wiki/夏川りみ" title="wikilink">夏川りみ</a></li>
+<li><a href="../Page/はじめてのチュウ.md" title="wikilink">はじめてのチュウ</a> / <a href="https://ja.wikipedia.org/wiki/奈良柚莉愛" title="wikilink">奈良柚莉愛</a></li>
+<li><a href="../Page/星に願いを.md" title="wikilink">星に願いを</a> (When You Wish Upon A Star) / <a href="https://ja.wikipedia.org/wiki/つじあやの" title="wikilink">つじあやの</a>
 </div>
 </div></li>
 </ol></td>
-<td><p>ビクターエンタテインメント</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">ビクターエンタテインメント</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年6月26日</p></td>
-<td><p>アニメ「惡の華」コンセプトE.P.「惡の花譜」</p></td>
+<td><p>アニメ「<a href="https://ja.wikipedia.org/wiki/惡の華#テレビアニメ" title="wikilink">惡の華</a>」コンセプトE.P.「惡の花譜」</p></td>
 <td><p>KICS-1916</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -812,11 +812,11 @@ RZCM-46392:CD</p></td>
 <li>惡の華 - 春日高男 / <a href="https://ja.wikipedia.org/wiki/の子" title="wikilink">の子</a></li>
 <li>惡の華 - 佐伯奈々子 / <a href="https://ja.wikipedia.org/wiki/南波志帆" title="wikilink">南波志帆</a></li>
 <li>惡の華 - 群馬県桐生市 / <a href="https://ja.wikipedia.org/wiki/宇宙人_(日本のバンド)" title="wikilink">宇宙人</a></li>
-<li><strong>花 - a last flower(歌無し)</strong></li>
-<li>惡の華 - 仲村佐和(歌無し)</li>
-<li>惡の華 - 春日高男(歌無し)</li>
-<li>惡の華 - 佐伯奈々子(歌無し)</li>
-<li>惡の華 - 群馬県桐生市(歌無し)</li>
+<li><strong>花 - a last flower（歌無し）</strong></li>
+<li>惡の華 - 仲村佐和（歌無し）</li>
+<li>惡の華 - 春日高男（歌無し）</li>
+<li>惡の華 - 佐伯奈々子（歌無し）</li>
+<li>惡の華 - <a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a><a href="../Page/桐生市.md" title="wikilink">桐生市</a>（歌無し）</li>
 <li><a href="https://ja.wikipedia.org/wiki/二十九歳" title="wikilink">光蘚</a> / <a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a>
 </div>
 </div></li>
@@ -834,7 +834,7 @@ RZCM-46392:CD</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><strong>ASA-CHANG &amp; 巡礼 / 2月/february</strong></li>
-<li><a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a> / banging the drum</li>
+<li>ASIAN KUNG-FU GENERATION / banging the drum</li>
 <li><a href="../Page/あがた森魚.md" title="wikilink">あがた森魚</a> / 僕</li>
 <li><a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a> / ノイズ</li>
 <li><a href="https://ja.wikipedia.org/wiki/envy" title="wikilink">envy</a> / 時は終わる</li>
@@ -843,7 +843,7 @@ RZCM-46392:CD</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/LO-LITE" title="wikilink">LO-LITE</a> / JACK NICOLSON</li>
 <li><a href="https://ja.wikipedia.org/wiki/+/-" title="wikilink">+/-</a> / 曲目未定</li>
 <li><a href="https://ja.wikipedia.org/wiki/それでも世界が続くなら" title="wikilink">それでも世界が続くなら</a> / デストロイヤー</li>
-<li><a href="https://ja.wikipedia.org/wiki/VERSUS" title="wikilink">VERSUS</a> / 曲目未定</li>
+<li>VERSUS / 曲目未定</li>
 <li>?
 </div>
 </div></li>

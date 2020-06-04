@@ -172,7 +172,7 @@
 
 ## デスクトップ向けラインナップ
 
-個々の製品は概ね、[コア](../Page/コア.md "wikilink")の数、[キャッシュの容量](../Page/キャッシュメモリ.md "wikilink")、[FSBの速度](../Page/フロントサイドバス.md "wikilink")、そして消費電力で差別化が行われている。これら差別化を反映して、[熱設計電力 (TDP)](https://ja.wikipedia.org/wiki/熱設計電力 "wikilink") に製品差異が生まれた。
+個々の製品は概ね、[コア](../Page/コア.md "wikilink")の数、[キャッシュの容量](../Page/キャッシュメモリ.md "wikilink")、[FSBの速度](../Page/フロントサイドバス.md "wikilink")、そして消費電力で差別化が行われている。これら差別化を反映して、[熱設計電力 (TDP)](../Page/熱設計電力.md "wikilink") に製品差異が生まれた。
 
 ### Core 2 Extreme (デスクトップ向け)
 

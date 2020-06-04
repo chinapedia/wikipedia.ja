@@ -1598,7 +1598,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/LIVE_ON_Ladder" title="wikilink">LIVE ON Ladder</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a><br />
-<a href="https://ja.wikipedia.org/wiki/YouTube#YouTube_Live" title="wikilink">YouTube Live</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a></p></td>
 <td><p>2014年5月27日</p></td>
 <td></td>
 </tr>
@@ -2620,7 +2620,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/イナズマイレブン_アウターコード" title="wikilink">イナズマイレブン アウターコード</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a><br />
-<a href="https://ja.wikipedia.org/wiki/YouTube#YouTube_Live" title="wikilink">YouTube Live</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a></p></td>
 <td><p>2016年11月4日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
@@ -3985,7 +3985,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/生放送アニメ_直感×アルゴリズム♪" title="wikilink">直感×アルゴリズム♪ 2nd Season</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a><br />
-<a href="https://ja.wikipedia.org/wiki/YouTube#YouTube_Live" title="wikilink">YouTube Live</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a></p></td>
 <td><p>2018年10月8日</p></td>
 <td></td>
 </tr>
@@ -4906,7 +4906,7 @@
 <tr class="odd">
 <td><p><a href="../Page/言霊少女プロジェクト.md" title="wikilink">言霊少女 the Animation -Microphone soul spinners-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SHOWROOM" title="wikilink">SHOWROOM</a><br />
-<a href="https://ja.wikipedia.org/wiki/YouTube#YouTube_Live" title="wikilink">YouTube Live</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a></p></td>
 <td><p>2020年1月11日</p></td>
 <td></td>
 </tr>
@@ -5133,15 +5133,52 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ゾゾゾ_ゾンビーくん" title="wikilink">ゾゾゾ ゾンビーくん</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年4月15日</p></td>
+<td><p>後にTV放映</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪団のジェネリックトラベル大作戦2030</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月16日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/攻殻機動隊_SAC_2045" title="wikilink">攻殻機動隊 SAC_2045</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年4月23日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/MOKURI(モクリ)" title="wikilink">MOKURI(モクリ)</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年4月26日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/愛玩怪獣" title="wikilink">愛玩怪獣</a>2020</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a></p></td>
+<td><p>2020年5月1日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/猫ADさくらいと犬Dしばた" title="wikilink">猫ADさくらいと犬Dしばた</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年5月3日</p></td>
+<td><p>後にTV放映</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/大企業社員モブー" title="wikilink">大企業社員モブー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年5月6日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ!#BanG_Dream!_ガルパ☆ピコ" title="wikilink">BanG Dream! ガルパ☆ピコ 〜大盛り〜</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a><br />
+<a href="https://ja.wikipedia.org/wiki/Periscope" title="wikilink">Periscope</a></p></td>
+<td><p>2020年5月7日</p></td>
 <td></td>
 </tr>
 </tbody>

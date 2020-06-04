@@ -1,19 +1,21 @@
 > この記事は[SPARKS GO GO](https://ja.wikipedia.org/wiki/SPARKS_GO_GO)から翻訳されています。
 
 
-**SPARKS GO GO**（スパークス・ゴー・ゴー）は1990年5月21日にデビューした日本のバンド。1989年に解散した[Be Modernを前身とし](https://ja.wikipedia.org/wiki/Be_Modern "wikilink")、Be Modernの4人のうち3人が再び集まり結成した。略称は『SGG』。オフィシャルファンクラブは「TEAM SxGxGx」
+**SPARKS GO GO**（スパークス・ゴー・ゴー）は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")にデビューした日本の[バンド](https://ja.wikipedia.org/wiki/バンド "wikilink")。[1989年](../Page/1989年.md "wikilink")に解散した[Be Modernを前身とし](https://ja.wikipedia.org/wiki/Be_Modern "wikilink")、Be Modernの4人のうち3人が再び集まり結成した。略称は『SGG』。オフィシャルファンクラブは「TEAM SxGxGx」。全員[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[倶知安町](../Page/倶知安町.md "wikilink")出身。
 
 ## メンバー
 
-  - 橘あつや（ギター）（1965年07月10日 北海道、[倶知安町](../Page/倶知安町.md "wikilink")出身）、[愛称](../Page/愛称.md "wikilink")：兄ちゃん、あっちゃん
-  - 八熊慎一（ボーカル＆ベース）（1966年11月28日 北海道、[倶知安町](../Page/倶知安町.md "wikilink")出身）、[愛称](../Page/愛称.md "wikilink")：ヤック
-  - たちばな哲也（ドラムス）（1966年11月18日 北海道、[倶知安町](../Page/倶知安町.md "wikilink")出身）、[愛称](../Page/愛称.md "wikilink")：テッチ
+  - **橘あつや**（ギター）（[1965年](../Page/1965年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - ）、[愛称](../Page/愛称.md "wikilink")：兄ちゃん、あっちゃん
+  - **八熊慎一**（ボーカル＆ベース）（[1966年](../Page/1966年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink") - ）、[愛称](../Page/愛称.md "wikilink")：ヤック
+  - **たちばな哲也**（ドラムス）（1966年[11月18日](../Page/11月18日.md "wikilink") - ）、[愛称](../Page/愛称.md "wikilink")：テッチ 　上記橘あつやの実弟
     ソロユニット[ultraUB](https://ja.wikipedia.org/wiki/ultraUB "wikilink")としても活動中
 
 ## バイオグラフィ
 
+  - 1985年 - 『Be Modern』結成、上京。
+  - 1986年 - 『Be Modern』メジャーデビュー。
   - 1989年3月 - 『Be Modern』、INKSTICK 芝浦でのライブをもって解散。
-  - 1989年10月21日 - Vocalを除いたBe Modernの3人と[奥田民生](../Page/奥田民生.md "wikilink")で『[THE BAND HAS NO NAME](../Page/THE_BAND_HAS_NO_NAME.md "wikilink")』を結成。
+  - 1989年10月21日 - Vocal天坂晃英を除いたBe Modernの3人と[奥田民生](../Page/奥田民生.md "wikilink")で『[THE BAND HAS NO NAME](../Page/THE_BAND_HAS_NO_NAME.md "wikilink")』を結成。
   - 1990年5月21日 - 『SPARKS GO GO』として活動を始める
   - 1997年2月21日 - [阿部義晴](../Page/阿部義晴.md "wikilink")と180日間限定ユニット[ABEX GO GOを結成](../Page/ABEX_GO_GO.md "wikilink")。シングル2枚とアルバム1枚をリリース。
   - 1997年8月 - 所属事務所[Hit\&Run](../Page/Hit&Run.md "wikilink")のイベント[2000GTR-S](https://ja.wikipedia.org/wiki/2000GTR-S "wikilink")に、橘兄弟はボーボーズ、八熊はワイキキチャンピオンズとして出演。
@@ -35,11 +37,13 @@
 
 ## エピソード
 
-  - 2005年9月10日「JUNK\! JUNK\! JUNK\!∞2005」で第2部の開始直後、会場となった倶知安町総合体育館の床が観客のジャンプで陥没するというアクシデントが発生。ライブそのものは総合体育館横の広場に急遽仮設セットを組んだ上で続行されたが、総合体育館が数ヶ月間使用不能となった\[1\]。2006年9月17日に行われた同ライブの前に、撤去した総合体育館の床材を原材料にしたギターを「おわび」の品として、倶知安町へ寄贈した。
+  - 2005年9月10日「JUNK\! JUNK\! JUNK\!∞2005」で第2部の開始直後、会場となった倶知安町総合体育館の床が観客のジャンプで陥没するというアクシデントが発生。ライブそのものは総合体育館横の広場に急遽
+  - 仮設セットを組んだ上で続行されたが、総合体育館が数ヶ月間使用不能となった\[1\]。2006年9月17日に行われた同ライブの前に、撤去した総合体育館の床材を原材料にしたギターを「おわび」の品として、倶知安町へ寄贈した。
   - SxGxGxにより“「[モルツ](../Page/モルツ.md "wikilink")～、モルツ～♪」のCMソングが13年ぶりに復活”
     2007年4月6日(金)から順次全国オンエア開始。
   - 2009年8月8日公開の映画「[南極料理人](https://ja.wikipedia.org/wiki/南極料理人 "wikilink")」のサントラに参加（音楽担当の[阿部義晴](../Page/阿部義晴.md "wikilink")の依頼にて）。八熊はボーカルではなく（自他共に上手いと認める）[口笛](../Page/口笛.md "wikilink")を担当した。
   - 2009年9月21日「SHINKIBA JUNCTION 2009 また倶知安じゃないジャン！」で「倶知安乃風」として登場した八熊が、「倶知安を知らない子供たち」([戦争を知らない子供たちの替え歌](https://ja.wikipedia.org/wiki/戦争を知らない子供たち_\(曲\) "wikilink"))にて、「最初の[赤字](https://ja.wikipedia.org/wiki/赤字 "wikilink")を～忘れてほしい～♪」と歌っている（赤字のいきさつは前述の通り）。
+  - [俳優](../Page/俳優.md "wikilink")の[菊池均也](../Page/菊池均也.md "wikilink")は橘あつやと同級生で、メンバー全員と交友が深い\[2\]。
 
 ## ディスコグラフィ
 
@@ -68,7 +72,7 @@
 
   - 『SPARKS GO GO』（1990.07.21）
   - 『ROCKWORK ORANGE』（1991.05.22）
-  - 『A GREAT HIT』（1992.02.01、ミニアルバム）
+  - 『A GREAT HIT』（1992.02.01、ライヴミニアルバム）
   - 『Jingle‐Jangle』（1992.06.21）
   - 『CIRCUS』（1993.04.10）
   - 『EASY』（1993.10.01）
@@ -145,3 +149,4 @@
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エピックレコードジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックダイレクトのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックダイレクトのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink")
 
 1.  [倶知安ROCK FESTIVAL「JUNK\! JUNK\! JUNK\! ∞ 2005」公演における中断および会場・公演内容の変更のお詫び](http://www.sonymusic.co.jp/Music/Info/HITandRUN/sgg/junk3/apology.html)
+2.

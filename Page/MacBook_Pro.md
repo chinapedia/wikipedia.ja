@@ -5,7 +5,7 @@
 
 ## 概要
 
-ミニマル志向の[MacBook](../Page/MacBook.md "wikilink")、薄型・軽量に特化したエントリーモデルである[MacBook Airに対し](https://ja.wikipedia.org/wiki/MacBook_Air "wikilink")、本機種は[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデルに位置付けられ、アップルのノートブック類でもプロ向けの仕様となっている。
+エントリーモデルの[MacBook](../Page/MacBook.md "wikilink")、薄型・軽量に特化したミニマル志向の[MacBook Airに対し](https://ja.wikipedia.org/wiki/MacBook_Air "wikilink")、本機種は[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")モデルに位置付けられ、アップルのノートブック類でもプロ向けの仕様となっている。
 
 また、価格帯にバリエーションが豊富であるのも特徴で、最低構成モデルではエントリーユーザーが買いやすいように価格が設定されている。
 
@@ -851,14 +851,145 @@ DCI-P3準拠Retinaディスプレイ(227ppi), LEDバックライト, <strong>Tru
 </tbody>
 </table>
 
+### 2020
+
+<table>
+<thead>
+<tr class="header">
+<th><p>コンポーネント</p></th>
+<th><p><strong><a href="https://ja.wikipedia.org/wiki/Coffee_Lakeマイクロアーキテクチャ" title="wikilink">Coffee Lakeマイクロアーキテクチャ</a></strong> Core i5, Core i7</p></th>
+<th><p><strong><a href="https://ja.wikipedia.org/wiki/Ice_Lakeマイクロアーキテクチャ" title="wikilink">Ice Lakeマイクロアーキテクチャ</a></strong> Core i5, Core i7</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>モデル</p></td>
+<td><p>13-inch, 2020, Thunderbolt 3ポートx 2</p></td>
+<td><p>13-inch, 2020, Thunderbolt 3ポートx 4</p></td>
+</tr>
+<tr class="even">
+<td><p>モニタサイズ</p></td>
+<td><p>13.3インチ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>リリース日</strong></p></td>
+<td><p>2020年5月4日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>ディスプレイ</strong><br />
+</p></td>
+<td><p>13.3" 光沢IPS液晶, 2560 × 1600,<br />
+DCI-P3準拠Retinaディスプレイ(227ppi), LEDバックライト, <strong>True Toneテクノロジー</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>外部ディスプレイ</p></td>
+<td><ul>
+<li>1台の5K(5,120 x 2,880ピクセル)ディスプレイで、60Hz、十億色以上対応</li>
+<li>最大2台の4K(4,096 x 2,304ピクセル)ディスプレイで、60Hz、数百万色以上対応</li>
+</ul></td>
+<td><ul>
+<li>1台の6K(6,016 x 3,384)ディスプレイで、60Hz、十億色以上対応</li>
+<li>最大2台の4K(4,096 x 2,304ピクセル)ディスプレイで、60Hz、数百万色以上対応</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>カメラ</strong></p></td>
+<td><p>720p FaceTime HDカメラ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>GPU</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Intel_HD_Graphics#Kaby_Lake_R,_Coffee/Amber/Whiskey_Lake_-_UHD/Iris_Plus_Graphics_610～655" title="wikilink">Intel Iris Plus Graphics 645</a> (128MB eDRAM)</p></td>
+<td><p><strong>第11世代Intel Iris Plus Graphics</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>SSD</strong></p></td>
+<td><p>256GB, 512GB <span style="color:#969696"><em>(1TB, 2TBに変更可能)</em></span></p></td>
+<td><p>512GB, 1TB<span style="color:#969696"><em>(2TB, <strong>4TB</strong>に変更可能)</em></span></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>CPU</strong></p></td>
+<td><p><strong>1.4GHzクアッドコアIntel Core i5（Turbo Boost使用時最大3.9GHz）</strong></p>
+<p><span style="color:#969696"><em>1.7GHzクアッドコアIntel Core i7（Turbo Boost使用時最大4.5GHz）に変更可能</em></span></p></td>
+<td><p><strong>2.0GHzクアッドコアIntel Core i5（Turbo Boost使用時最大3.8GHz）、6MB共有L3キャッシュ</strong></p>
+<p><span style="color:#969696"><em>2.3GHzクアッドコアIntel Core i7（Turbo Boost使用時最大4.1GHz）、8MB共有L3キャッシュに変更可能</em></span></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>コントロールチップ</strong></p></td>
+<td><p>Apple T2[32]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>メモリ</strong></p></td>
+<td><p>8GB 2,133MHz LPDDR3オンボードメモリ</p>
+<p><span style="color:#969696"><em>(16GBに変更可能)</em></span></p></td>
+<td><p>16GB <strong>3,733MHz</strong> <strong>LPDDR4X</strong>オンボードメモリ <span style="color:#969696"><em>(<strong>32GB</strong>に変更可能)</em></span></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>FSB</strong></p></td>
+<td><p>Intel On Package Interconnect 8.0 GT/s</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>I/O</strong></p></td>
+<td><p>Thunderbolt 3（USB-C）ポートx2、ヘッドホンミニジャック</p></td>
+<td><p>Thunderbolt 3（USB-C）ポートx4、ヘッドホンミニジャック</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>無線</strong></p></td>
+<td><p>802.11ac Wi-Fiワイヤレスネットワーク接続、IEEE 802.11a/b/g/nに対応 Bluetooth 5.0ワイヤレステクノロジー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>トラックパッド</strong></p></td>
+<td><p>感圧タッチトラックパッド</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>キーボード</strong></p></td>
+<td><p><strong>バックライトMagic Keyboard</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>電源ボタン</strong></p></td>
+<td><p>Touch ID</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>内蔵バッテリー</strong></p></td>
+<td><p>58.2Whリチウムポリマーバッテリー</p></td>
+<td><p>58.0Whリチウムポリマーバッテリー</p></td>
+</tr>
+<tr class="odd">
+<td><p>電源アダプタ<br />
+</p></td>
+<td><p>61W USB-C(USB-PD)アダプタ[33]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>重さ</strong></p></td>
+<td><p><strong>1.40</strong> kg</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>サイズ</strong></p></td>
+<td><p>30.41 x 21.24 x <strong>1.56</strong> cm</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## macOS High Sierra 10.13.6追加アップデート
 
-**MacBook Pro (2018)**の熱による性能低下の問題が報じられ、アップルは問題を認め、OSの追加アップデートに新しいファームウェアを含めて配布している\[32\]。
+**MacBook Pro (2018)**の熱による性能低下の問題が報じられ、アップルは問題を認め、OSの追加アップデートに新しいファームウェアを含めて配布している\[34\]。
 
   - [MacBook Pro (2018) 向け macOS High Sierra 10.13.6追加アップデート](https://support.apple.com/kb/DL1973?locale=ja_JP)
   - [MacBook Pro (2018) 向け macOS High Sierra 10.13.6追加アップデート 2](https://support.apple.com/kb/DL1974?locale=ja_JP)
 
-ノイズ音とカーネルパニックが起きる問題の修正が含まれている\[33\]。
+ノイズ音とカーネルパニックが起きる問題の修正が含まれている\[35\]。
 
 
 
@@ -871,7 +1002,7 @@ DCI-P3準拠Retinaディスプレイ(227ppi), LEDバックライト, <strong>Tru
   - MacBook Pro (13-­inch, 2016, Four Thunderbolt 3 Ports)
   - MacBook Pro (13-­inch, 2016, Two Thunderbolt 3 Ports)
 
-ディスプレイのバックライトの不具合\[34\]が起きた場合、販売日から4年間無償修理が実施される。
+ディスプレイのバックライトの不具合\[36\]が起きた場合、販売日から4年間無償修理が実施される。
 
   - [13 インチ MacBook Pro ディスプレイバックライト修理プログラム](https://www.apple.com/jp/support/13-inch-macbook-pro-display-backlight-service/)
 
@@ -927,7 +1058,7 @@ DCI-P3準拠Retinaディスプレイ(227ppi), LEDバックライト, <strong>Tru
   - MacBook Pro (13-inch, 2017)
   - MacBook Pro (15-inch, 2017)
 
-購入から4年間の無償交換プログラムが行われている\[35\]。
+購入から4年間の無償交換プログラムが行われている\[37\]。
 
 ### リペアエクステンションプログラム
 
@@ -950,11 +1081,11 @@ DCI-P3準拠Retinaディスプレイ(227ppi), LEDバックライト, <strong>Tru
 
 2006年時点での、日本向けMacBook Proの[製造委託先（EMS）企業は台湾の](../Page/EMS_\(製造業\).md "wikilink")[Quanta社が引き受けていたと言われる](../Page/クアンタ・コンピュータ.md "wikilink")。
 
-2018年現在では、世界最大の[EMS企業である](../Page/EMS_\(製造業\).md "wikilink")、[台湾の](../Page/中華民国.md "wikilink")[フォックスコン](../Page/フォックスコン.md "wikilink")（Foxconn）社にも委託され、巨大な工場が存在する中国で組み立てられ出荷用の最終製品として完成させていることで知られている\[36\]。
+2018年現在では、世界最大の[EMS企業である](../Page/EMS_\(製造業\).md "wikilink")、[台湾の](../Page/中華民国.md "wikilink")[フォックスコン](../Page/フォックスコン.md "wikilink")（Foxconn）社にも委託され、巨大な工場が存在する中国で組み立てられ出荷用の最終製品として完成させていることで知られている\[38\]。
 
 ## Tips
 
-2016以降のApple T1及びT2チップを搭載したMacBook Proでは、起動音が鳴らないが、ターミナルでコマンドを入力することにより鳴らすことができる\[37\]。
+2016以降のApple T1及びT2チップを搭載したMacBook Proでは、起動音が鳴らないが、ターミナルでコマンドを入力することにより鳴らすことができる\[39\]。
 
   - 起動音を鳴らす
 
@@ -1020,7 +1151,9 @@ sudo nvram StartupMute=%01
 31.
 32.
 33.
-34. 画面下部が縦縞に光る、バックライトが切れる
+34.
 35.
-36.
+36. 画面下部が縦縞に光る、バックライトが切れる
 37.
+38.
+39.

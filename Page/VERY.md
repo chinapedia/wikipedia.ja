@@ -58,7 +58,7 @@
   - 坂井幸雄
   - 相沢正人 - [相沢正人氏インタビュー](http://asianbeat.com/ja/gikamata/f09111003-1.html)
   - 押野学
-  - 今尾朝子 - [今尾朝子（2016年1月18日放送）NHK　プロフェッショナル　仕事の流儀](http://www.nhk.or.jp/professional/2016/0118/index.html)
+  - 今尾朝子 - [今尾朝子（2016年1月18日放送）NHK　プロフェッショナル　仕事の流儀](https://www.nhk.or.jp/professional/2016/0118/index.html)
 
 ## 姉妹誌
 

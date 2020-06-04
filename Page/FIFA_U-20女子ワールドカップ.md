@@ -215,7 +215,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020_FIFA_U-20女子ワールドカップ" title="wikilink">10</a></p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/2021年.md" title="wikilink">2021年</a></p></td>
 <td><p>/</p></td>
 <td></td>
 <td></td>

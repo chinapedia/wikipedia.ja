@@ -43,7 +43,7 @@
 ## スタッフ
 
   - ナレーター：水島裕（初代）、[堀内賢雄](../Page/堀内賢雄.md "wikilink")（2代目）
-  - 構成：[青島利幸](https://ja.wikipedia.org/wiki/青島利幸 "wikilink")、内田英一
+  - 構成：[青島利幸](https://ja.wikipedia.org/wiki/青島利幸 "wikilink")、内田英一、[海老原靖芳](../Page/海老原靖芳.md "wikilink")
   - プロデューサー：渡辺つとむ、川幡浩
   - ディレクター：只野研治、[松澤潤](https://ja.wikipedia.org/wiki/松澤潤 "wikilink")、越山進 ほか
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
@@ -57,7 +57,7 @@
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                      |                                                                                                 |                   |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink")                        | [TBS系列](https://ja.wikipedia.org/wiki/JNN "wikilink")                                           |                   |
 | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [東北放送](../Page/東北放送.md "wikilink")                          |                                                                                                 |                   |
-| [秋田県](../Page/秋田県.md "wikilink")                                  | [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")       | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")                                                 | 途中、打ち切り           |
+| [秋田県](../Page/秋田県.md "wikilink")                                  | [秋田放送](../Page/秋田放送.md "wikilink")                          | [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")                                                 | 途中、打ち切り           |
 | [山形県](../Page/山形県.md "wikilink")                                  | [山形テレビ](../Page/山形テレビ.md "wikilink")                        | [フジテレビ系列](../Page/フジネットワーク.md "wikilink") → [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink") |                   |
 | [福島県](../Page/福島県.md "wikilink")                                  | [福島テレビ](../Page/福島テレビ.md "wikilink")                        | フジテレビ系列                                                                                         |                   |
 | [新潟県](../Page/新潟県.md "wikilink")                                  | [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink") |                                                                                                 |                   |

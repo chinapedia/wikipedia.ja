@@ -31,7 +31,7 @@
 
       -   - [シナロア州](../Page/シナロア州.md "wikilink")
           - [チワワ州](../Page/チワワ州.md "wikilink")
-          - [ナヤリット州](https://ja.wikipedia.org/wiki/ナヤリット州 "wikilink")（を除く）
+          - [ナヤリット州](../Page/ナヤリット州.md "wikilink")（を除く）
           - [バハ・カリフォルニア・スル州](../Page/バハ・カリフォルニア・スル州.md "wikilink")
 
 ### 夏時間（北半球）

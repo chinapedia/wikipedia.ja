@@ -15,4 +15,4 @@
       - 作詞：水原由貴　作曲・編曲：小澤正澄
 3.  **CONFIDENCE (inst.)**
 
-[Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
+[Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink")

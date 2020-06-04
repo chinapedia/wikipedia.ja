@@ -27,7 +27,7 @@
       - [サンデーナイトフットボール](https://ja.wikipedia.org/wiki/サンデーナイトフットボール "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") - [2005年](../Page/2005年.md "wikilink")）
       - [マンデーナイトフットボール](../Page/マンデーナイトフットボール.md "wikilink")（[2006年](../Page/2006年.md "wikilink") - [2013年](../Page/2013年.md "wikilink")）
   - [カレッジフットボール](../Page/カレッジフットボール.md "wikilink")（ESPN College Football）
-      - [ACC](../Page/アトランティック・コースト・カンファレンス.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）、[Big 10](../Page/ビッグ・テン・カンファレンス.md "wikilink")（1979年 - [2017年](../Page/2017年.md "wikilink")）、[Big East](../Page/ビッグ・イースト・カンファレンス.md "wikilink")（[1991年](../Page/1991年.md "wikilink") - 2013年、）etc...
+      - [ACC](../Page/アトランティック・コースト・カンファレンス.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）、[Big 10](../Page/ビッグ・テン・カンファレンス.md "wikilink")（1979年 - [2017年](../Page/2017年.md "wikilink")）、[Big East](../Page/ビッグ・イースト・カンファレンス.md "wikilink")（[1991年](../Page/1991年.md "wikilink") - 2013年）、etc...
       - [ボウル・チャンピオンシップ・シリーズ](https://ja.wikipedia.org/wiki/ボウル・チャンピオンシップ・シリーズ "wikilink")（2011年 - 2014年）
 
 <!-- end list -->
@@ -85,10 +85,6 @@
   - [ESPY賞](../Page/ESPY賞.md "wikilink")
   - [ワールドシリーズオブポーカー](https://ja.wikipedia.org/wiki/ワールドシリーズオブポーカー "wikilink")
 
-## 脚注
-
-<references/>
-
 ## 関連項目
 
   - [スポーツセンター](../Page/スポーツセンター.md "wikilink")
@@ -98,9 +94,9 @@
 
 ## 外部リンク
 
-  - [ESPN ウェブサイト](http://global.espn.com/)
+  - [ESPN ウェブサイト](https://global.espn.com/)
 
-  - [ESPN](https://ja.foursquare.com/espn/) - [foursquare](https://ja.wikipedia.org/wiki/foursquare "wikilink")
+  - [ESPN](https://ja.foursquare.com/espn) - [foursquare](https://ja.wikipedia.org/wiki/foursquare "wikilink")
 
   -
   -

@@ -1,7 +1,7 @@
 > この記事は[Bye Bye My Love \(U are the one\)](https://ja.wikipedia.org/wiki/Bye_Bye_My_Love_\(U_are_the_one\))から翻訳されています。
 
 
-「**Bye Bye My Love (U are the one)**」（バイ・バイ・マイ・ラヴ ユー・アー・ザ・ワン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**Bye Bye My Love (U are the one)**」（バイ・バイ・マイ・ラヴ ユー・アー・ザ・ワン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の22作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")に発売された。
 
 [1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売され、計3回再発売されている。
 

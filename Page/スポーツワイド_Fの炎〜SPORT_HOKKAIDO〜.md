@@ -13,7 +13,7 @@
 
 その他、[高橋信二](../Page/高橋信二.md "wikilink")や[森本稀哲](../Page/森本稀哲.md "wikilink")といった選手個人にスポットをあてたコーナーや、片岡篤史や平川弘がファイターズやコンサドーレについて熱く語るコーナーが好評を博している。
 
-また、ファイターズやコンサドーレ、[レラカムイの現役選手だけではなく](https://ja.wikipedia.org/wiki/レラカムイ北海道 "wikilink")、北海道に携わるスポーツ選手をゲストに招く事もある(プロゴルファー[中田美枝](https://ja.wikipedia.org/wiki/中田美枝 "wikilink")やスキージャンプ[船木和喜](../Page/船木和喜.md "wikilink")等も登場した)。さらに[春高バレー](https://ja.wikipedia.org/wiki/春高バレー "wikilink")コーチングキャラバンの募集も番組で行い、指導の模様も放送している。
+また、ファイターズやコンサドーレ、[レラカムイの現役選手だけではなく](https://ja.wikipedia.org/wiki/レラカムイ北海道 "wikilink")、北海道に携わるスポーツ選手をゲストに招く事もある\[1\]。さらに[春高バレー](https://ja.wikipedia.org/wiki/春高バレー "wikilink")コーチングキャラバンの募集も番組で行い、指導の模様も放送している。
 
 2008年年末特番では[北京オリンピック](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[女子](https://ja.wikipedia.org/wiki/女子 "wikilink")[100m代表に選出された](../Page/100メートル競走.md "wikilink")[福島千里](https://ja.wikipedia.org/wiki/福島千里 "wikilink")とコンサドーレの[藤田征也](../Page/藤田征也.md "wikilink")の100m走対決が行われた。
 
@@ -93,12 +93,18 @@
   - 片岡熱し\!DONAIYAH\!\!
       - 北海道日本ハムファイターズOBの片岡篤史が１週間の内で特に気になった部分を熱く語る。前任の広瀬哲朗も同様のコーナー「ロッカールーム」を担当していた。
   - ひちょりのひちょりごと
-      - 北海道日本ハムファイターズ森本稀哲選手にスポットを当てたコーナー。本人がコーナーに4分から4分半を希望をして放送していたが、森本本人が[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")に移籍したため、2011年1月10日放送分で終了となった。
+      - 北海道日本ハムファイターズ森本稀哲選手にスポットを当てたコーナー。本人がコーナーに4分から4分半を希望をして放送していたが、森本本人が[横浜ベイスターズに移籍したため](../Page/横浜DeNAベイスターズ.md "wikilink")、2011年1月10日放送分で終了となった。
 
 ## スポンサー
 
   - [北海道新聞](../Page/北海道新聞.md "wikilink")
   - [北海道コカ・コーラボトリング](../Page/北海道コカ・コーラボトリング.md "wikilink")
+
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -106,3 +112,5 @@
   - [スポーツワイド Fの炎～SPORT HOKKAIDO～オフィシャルブログ](http://blog.hokkaido-np.co.jp/fire-of-f/)
 
 [Category:北海道文化放送の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:北海道文化放送の深夜テレビ番組 "wikilink") [Category:北海道のテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビのスポーツ番組 "wikilink") [Category:ローカルテレビ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の野球番組 "wikilink") [Category:ローカルテレビ局のサッカー番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のサッカー番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:北海道日本ハムファイターズの歴史](https://ja.wikipedia.org/wiki/Category:北海道日本ハムファイターズの歴史 "wikilink") [Category:北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/Category:北海道コンサドーレ札幌 "wikilink") [Category:レラカムイ北海道](https://ja.wikipedia.org/wiki/Category:レラカムイ北海道 "wikilink")
+
+1.  プロゴルファー[中田美枝](https://ja.wikipedia.org/wiki/中田美枝 "wikilink")やスキージャンプ[船木和喜](../Page/船木和喜.md "wikilink")等も登場した。

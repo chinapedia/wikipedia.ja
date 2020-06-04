@@ -80,9 +80,9 @@
 
 ## 外部リンク
 
-  - [NAG社](http://www.nag.co.uk/)
-  - [日本NAG社 日本法人](http://www.nag-j.co.jp/index.htm)
-  - [NAG数値計算ライブラリ](http://www.nag-j.co.jp/nag_lib.htm)
+  - [NAG社](https://www.nag.co.uk/)
+  - [日本NAG社 日本法人](https://www.nag-j.co.jp/)
+  - [NAG数値計算ライブラリ](https://www.nag-j.co.jp/naglib/)
 
 [Category:数値解析ソフトウェア](https://ja.wikipedia.org/wiki/Category:数値解析ソフトウェア "wikilink") [Category:数値計算ライブラリー](https://ja.wikipedia.org/wiki/Category:数値計算ライブラリー "wikilink") [Category:ライブラリ_(プログラミング)](https://ja.wikipedia.org/wiki/Category:ライブラリ_\(プログラミング\) "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
 

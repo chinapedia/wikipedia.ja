@@ -39,7 +39,7 @@
 ## 関連項目
 
   - [雄風I型](../Page/ガブリエル_\(ミサイル\).md "wikilink")（[雄風一型反艦飛彈](https://ja.wikipedia.org/wiki/:zh:雄風一型反艦飛彈 "wikilink")）
-  - [雄風III型](https://ja.wikipedia.org/wiki/雄風III型 "wikilink")（[雄風三型反艦飛彈](https://ja.wikipedia.org/wiki/:zh:雄風三型反艦飛彈 "wikilink")）
+  - [雄風III型](https://ja.wikipedia.org/wiki/雄風III型_\(ミサイル\) "wikilink")（[雄風三型反艦飛彈](https://ja.wikipedia.org/wiki/:zh:雄風三型反艦飛彈 "wikilink")）
 
 ## 外部リンク
 

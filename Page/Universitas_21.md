@@ -21,7 +21,7 @@
 
 ### [南アジア](../Page/南アジア.md "wikilink")
 
-  - [デリー大学](https://ja.wikipedia.org/wiki/デリー大学 "wikilink")　（[デリー](../Page/デリー.md "wikilink"), ）
+  - デリー大学（[デリー](../Page/デリー.md "wikilink"), ）
 
 ### [ヨーロッパ](../Page/ヨーロッパ.md "wikilink")
 

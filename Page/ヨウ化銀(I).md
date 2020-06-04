@@ -14,7 +14,7 @@
 光を遮断した状態で、[硝酸銀(I)](../Page/硝酸銀\(I\).md "wikilink")水溶液に[ヨウ化カリウム](../Page/ヨウ化カリウム.md "wikilink")水溶液を加えると沈殿が生成する\[1\]。
 
   -
-    <ce>Ag^+(aq)\\ + I^-(aq) -\> AgI</ce>
+    <chem>Ag^+(aq)\\ + I^-(aq) -\> AgI</chem>
 
 ## 性質
 
@@ -25,19 +25,19 @@
 水にはほとんど溶けないが、[アルカリ金属](https://ja.wikipedia.org/wiki/アルカリ金属 "wikilink")の[シアン化物](../Page/シアン化物.md "wikilink")やヨウ化物、[チオ硫酸ナトリウム](../Page/チオ硫酸ナトリウム.md "wikilink") (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>) の水溶液には錯体を作って溶ける。
 
   -
-    <ce>AgI\\ + 2CN^-\\ \\rightleftarrows\\ {\[Ag(CN)2\]^-}\\ + I^-\\ ,</ce> \(K = 3 \times 10^4\)
-    <ce>AgI\\ + 3I^-\\ \\rightleftarrows\\ \[AgI4\]^{3-}\\ ,</ce> \(K = 2 \times 10^{-2}\)
-    <ce>AgI\\ + 2S2O3^{2-}\\ \\rightleftarrows\\ \[Ag(S2O3)2\]^{3-}\\ + I^-\\ ,</ce> \(K = 3 \times 10^{-3}\)
+    <chem>AgI\\ + 2CN^-\\ \\rightleftarrows\\ {\[Ag(CN)2\]^-}\\ + I^-\\ ,</chem> \(K = 3 \times 10^4\)
+    <chem>AgI\\ + 3I^-\\ \\rightleftarrows\\ \[AgI4\]^{3-}\\ ,</chem> \(K = 2 \times 10^{-2}\)
+    <chem>AgI\\ + 2S2O3^{2-}\\ \\rightleftarrows\\ \[Ag(S2O3)2\]^{3-}\\ + I^-\\ ,</chem> \(K = 3 \times 10^{-3}\)
 
 一方、[臭化銀(I)](../Page/臭化銀\(I\).md "wikilink")や[塩化銀(I)](../Page/塩化銀\(I\).md "wikilink")と異なり、錯生成能力の弱い[アンモニア](../Page/アンモニア.md "wikilink")水にはほとんど溶けない。
 
   -
-    <ce>AgI\\ + 2 NH3 \\ \\rightleftarrows\\ \[Ag(NH3)2\]+\\ + I^-\\ ,</ce> \(K = 2 \times 10^{-9}\)
+    <chem>AgI\\ + 2 NH3 \\ \\rightleftarrows\\ \[Ag(NH3)2\]+\\ + I^-\\ ,</chem> \(K = 2 \times 10^{-9}\)
 
 [溶解度積](../Page/溶解度積.md "wikilink")は[ハロゲン化銀](https://ja.wikipedia.org/wiki/ハロゲン化銀 "wikilink")中最も小さく以下の通りであり\[2\]、これは[モル体積](https://ja.wikipedia.org/wiki/モル体積 "wikilink")が大きいことと\[3\]、[HSAB則](../Page/HSAB則.md "wikilink")ではAg<sup>+</sup>、I<sup>−</sup>共にソフトであり\[4\]、結果的に Ag-I 結合がかなり共有結合性を帯びることによる。
 
   -
-    <ce>AgI\\ \\rightleftarrows\\ Ag^+(aq)\\ + I^-(aq)\\ ,</ce> \(K = 1 \times 10^{-16}\)
+    <chem>AgI\\ \\rightleftarrows\\ Ag^+(aq)\\ + I^-(aq)\\ ,</chem> \(K = 1 \times 10^{-16}\)
 
 ## 結晶構造
 

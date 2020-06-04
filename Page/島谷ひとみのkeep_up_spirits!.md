@@ -72,15 +72,15 @@
 ## かつてネットしていた放送局
 
   - [HBCラジオ](../Page/HBCラジオ.md "wikilink")
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
   - [信越放送](../Page/信越放送.md "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [西日本放送](../Page/西日本放送.md "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")

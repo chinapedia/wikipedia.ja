@@ -39,7 +39,7 @@
 
   - [公式サイト作品紹介ページ flower](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004171)
 
-[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:大谷靖夫が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大谷靖夫が制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:花を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:花を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:大谷靖夫が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大谷靖夫が制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.
 2.

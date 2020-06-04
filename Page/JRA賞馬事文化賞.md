@@ -159,7 +159,7 @@
 80. [2015年度JRA賞馬事文化賞は「颶風の王」に決定](http://news.netkeiba.com/?pid=news_view&no=106034)（netkeibaニュース、2016年1月6日）
 81.
 82. [ＪＲＡ賞馬事文化賞は「さっ太の黒い子馬」の小俣氏、ささめや氏](https://www.sponichi.co.jp/gamble/news/2017/01/11/kiji/20170110s00004048377000c.html) （スポーツニッポン、2017年1月11日）
-83. [「2017年度JRA賞馬事文化賞」が決定！](http://www.jra.go.jp/news/201801/010903.html) （日本中央競馬会、2018年1月9日）
+83. [【JRA賞】馬事文化賞は『世界で一番美しい馬の図鑑』に決定](https://race.sanspo.com/keiba/news/20180109/etc18010919440012-n1.html) （サンケイスポーツ、2018年1月9日）
 84.
 85. [JRA賞馬事文化賞は矢野吉彦氏、功労賞を原良馬氏が受賞](http://keiba.radionikkei.jp/keiba/post_16802.html) （ラジオNIKKEI・競馬実況web、2019年1月8日）
 86.

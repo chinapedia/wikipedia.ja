@@ -85,10 +85,6 @@
 
 ## 脚注
 
-## 外部リンク
-
-  - [Friends](http://www.tbs.co.jp/friends/) - TBSテレビ番組基本情報ページ
-
-[Category:TBS金曜ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink")
+[Category:TBS金曜ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマ "wikilink") [Category:2000年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2000年のテレビドラマ "wikilink") [Category:浜田雅功](https://ja.wikipedia.org/wiki/Category:浜田雅功 "wikilink")
 
 1.  2016年現在、宮本浩次にとって唯一の連続ドラマ出演作品となっている。[宮本浩次 (エレファントカシマシ)参照](../Page/宮本浩次_\(エレファントカシマシ\).md "wikilink")

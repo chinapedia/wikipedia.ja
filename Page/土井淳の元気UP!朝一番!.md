@@ -12,10 +12,10 @@
 ## 放送された局
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [茨城放送](../Page/茨城放送.md "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")
   - [京都放送](../Page/京都放送.md "wikilink")
   - [中部日本放送](../Page/CBCラジオ.md "wikilink")
   - [ラジオ大阪](../Page/大阪放送.md "wikilink")
@@ -24,7 +24,7 @@
   - [山口放送](../Page/山口放送.md "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
 
 <!-- end list -->
 

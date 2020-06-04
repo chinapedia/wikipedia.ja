@@ -144,8 +144,8 @@
 
 ## 外部リンク
 
-  - [ROCK FUJIYAMA : テレビ東京 〜「大人のロック！推進計画」の情報も！](http://www.tv-tokyo.co.jp/fujiyama/)
-  - [大人のロック！推進計画：テレビ東京・日経BP](http://www.tv-tokyo.co.jp/otona/)
+  - [ROCK FUJIYAMA : テレビ東京 〜「大人のロック！推進計画」の情報も！](https://www.tv-tokyo.co.jp/fujiyama/)
+  - [大人のロック！推進計画：テレビ東京・日経BP](https://www.tv-tokyo.co.jp/otona/)
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の音楽番組 "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:テレビ東京のローカル番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のローカル番組 "wikilink") [Category:ハウフルス](https://ja.wikipedia.org/wiki/Category:ハウフルス "wikilink")
 

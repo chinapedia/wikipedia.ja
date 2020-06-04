@@ -412,7 +412,7 @@ AS Mk.3</p></td>
 3181</p></td>
 <td><p><a href="https://farm4.static.flickr.com/3274/2985295863_50799eb3ed_b.jpg">写真</a></p></td>
 <td><p>アメリカ テキサス州</p></td>
-<td><p>エドワーズ・ヒラリー氏<br />
+<td><p>エドワーズ・ヒラリー<br />
 (Edwards Hillary)</p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
@@ -453,7 +453,7 @@ AS Mk.3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:George_Bush_Presidential_Library" title="wikilink">ジョージ・ブッシュ大統領図書館・博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="../Page/ジョージ・H・W・ブッシュ.md" title="wikilink">G.H.W.ブッシュ氏が搭乗していた機体の塗装がされている</a>。</p></td>
+<td><p><a href="../Page/ジョージ・H・W・ブッシュ.md" title="wikilink">G.H.W.ブッシュが搭乗していた機体の塗装がされている</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3<br />
@@ -462,7 +462,7 @@ TBM-3R</p></td>
 3381</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:HB-RDG_GRUMMAN_AVENGER_PARISAIRLEGEND_2018_(44245681465).jpg" title="fig:HB-RDG_GRUMMAN_AVENGER_PARISAIRLEGEND_2018_(44245681465).jpg">HB-RDG_GRUMMAN_AVENGER_PARISAIRLEGEND_2018_(44245681465).jpg</a></p></td>
 <td><p>スイス ローザンヌ</p></td>
-<td><p>トラクセル・チャールズ氏<br />
+<td><p>トラクセル・チャールズ<br />
 (Trachsel Charles)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
@@ -595,7 +595,7 @@ TBM-3U</p></td>
 3830</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:TBM-3E_Avenger_(3864979423).jpg" title="fig:TBM-3E_Avenger_(3864979423).jpg">TBM-3E_Avenger_(3864979423).jpg</a></p></td>
 <td><p>アメリカ イリノイ州</p></td>
-<td><p>トーマス・バック氏<br />
+<td><p>トーマス・バック<br />
 (Thomas Buck)</p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
@@ -620,7 +620,7 @@ TBM-3E</p></td>
 3849</p></td>
 <td><p><a href="https://c1.staticflickr.com/8/7067/6881576008_9ca36ff82f_b.jpg">写真</a></p></td>
 <td><p>アメリカ ネヴァダ州</p></td>
-<td><p>リック・クレメンス氏<br />
+<td><p>リック・クレメンス<br />
 (Rick Clemens)</p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
@@ -670,7 +670,7 @@ TBM-3U</p></td>
 3897</p></td>
 <td><p><a href="https://live.staticflickr.com/4326/35972199555_afb6672a3e_o.jpg">写真</a></p></td>
 <td><p>アメリカ コネティカット州</p></td>
-<td><p>チャールズ・リンチ氏<br />
+<td><p>チャールズ・リンチ<br />
 (Charles Lynch)</p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
@@ -685,7 +685,7 @@ TBM-3U</p></td>
 <td><p><a href="../Page/イントレピッド海上航空宇宙博物館.md" title="wikilink">イントレピッド海上航空宇宙博物館</a><a href="http://www.intrepidmuseum.org/">58</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>実機かは不明だが、<a href="../Page/ジョージ・H・W・ブッシュ.md" title="wikilink">G.H.W.ブッシュ氏が搭乗していた機体の塗装がされている</a>。<a href="http://www.intrepidmuseum.org/AircraftGuide.aspx">59</a></p></td>
+<td><p>実機かは不明だが、<a href="../Page/ジョージ・H・W・ブッシュ.md" title="wikilink">G.H.W.ブッシュが搭乗していた機体の塗装がされている</a>。<a href="http://www.intrepidmuseum.org/AircraftGuide.aspx">59</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TBM-3<br />
@@ -701,29 +701,40 @@ TBM-3E</p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3</p></td>
+<td><p>53914<br />
+3976</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Mesa-Arizona_Commemorative_Air_Force_Museum-Grumman_TBF_Avenger_–_World_War_2_Torpedo_Bomber.jpg" title="fig:Mesa-Arizona_Commemorative_Air_Force_Museum-Grumman_TBF_Avenger_–_World_War_2_Torpedo_Bomber.jpg">Mesa-Arizona_Commemorative_Air_Force_Museum-Grumman_TBF_Avenger_–_World_War_2_Torpedo_Bomber.jpg</a></p></td>
+<td><p>アメリカ アリゾナ州</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Arizona_Commemorative_Air_Force_Museum" title="wikilink">アリゾナ記念空軍博物館</a><a href="https://www.azcaf.org/">63</a></p></td>
+<td><p>公開</p></td>
+<td><p>静態展示</p></td>
+<td><p><a href="https://www.azcaf.org/acquisition-grumman-tbm-3e-avenger/">64</a><a href="https://www.newenglandaviationhistory.com/tag/tbm-3e-53914/">65</a><a href="https://nbavengers.com/fafb-series-canada/fbqs-hicks-lawrence-n7029c-aerial-applicators-d16-bu-53914/">66</a></p></td>
+</tr>
+<tr class="even">
+<td><p>TBM-3</p></td>
 <td><p>69325<br />
 2064</p></td>
 <td><p><a href="https://live.staticflickr.com/7409/13901091588_16e9925958_o.jpg">写真</a></p></td>
 <td><p>アメリカ テネシー州</p></td>
-<td><p>ダレル・ベリー氏<br />
+<td><p>ダレル・ベリー<br />
 (Darrel Berry)</p></td>
 <td><p>非公開</p></td>
 <td><p>修復中</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3<br />
 TBM-3S</p></td>
 <td><p>69327<br />
 2066</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM-3S_Avenger_‘46214_-_X-3’_(CF-KCG)_(24208392931).jpg" title="fig:Grumman_TBM-3S_Avenger_‘46214_-_X-3’_(CF-KCG)_(24208392931).jpg">Grumman_TBM-3S_Avenger_‘46214_-_X-3’_(CF-KCG)_(24208392931).jpg</a></p></td>
 <td><p>イギリス サマセット州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダックスフォード帝国戦争博物館" title="wikilink">ダックスフォード帝国戦争博物館</a><a href="https://www.iwm.org.uk/collections/item/object/70000170">63</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ダックスフォード帝国戦争博物館" title="wikilink">ダックスフォード帝国戦争博物館</a><a href="https://www.iwm.org.uk/collections/item/object/70000170">67</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.iwm.org.uk/collections/item/object/70000170">64</a></p></td>
+<td><p><a href="https://www.iwm.org.uk/collections/item/object/70000170">68</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3</p></td>
 <td><p>69329<br />
 2068</p></td>
@@ -735,75 +746,75 @@ TBM-3S</p></td>
 <td><p>静態展示</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3</p></td>
 <td><p>69355<br />
 2094</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_Avenger_TBM-3E.jpg" title="fig:Grumman_Avenger_TBM-3E.jpg">Grumman_Avenger_TBM-3E.jpg</a></p></td>
 <td><p>イスラエル べエルシェバ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イスラエル空軍博物館" title="wikilink">イスラエル空軍博物館</a><a href="http://m.iaf.org.il/7240-en/IAF.aspx">65</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イスラエル空軍博物館" title="wikilink">イスラエル空軍博物館</a><a href="http://m.iaf.org.il/7240-en/IAF.aspx">69</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="http://www.demobbed.org.uk/images/6/69355_tbm.jpg?d=040219230542">写真</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3<br />
 TBM-3E</p></td>
 <td><p>69361<br />
 2100</p></td>
 <td><p><a href="https://nbavengers.com/gldx-glex-series-go-series-canadausa/69361-n9596c-goeg-air-tankers-norfolk-b16/">写真</a></p></td>
 <td><p>カナダ アルバータ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Reynolds-Alberta_Museum" title="wikilink">レイノルズ・アルバータ博物館</a><a href="https://reynoldsmuseum.ca/">66</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Reynolds-Alberta_Museum" title="wikilink">レイノルズ・アルバータ博物館</a><a href="https://reynoldsmuseum.ca/">70</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://nbavengers.com/gldx-glex-series-go-series-canadausa/69361-n9596c-goeg-air-tankers-norfolk-b16/">67</a></p></td>
+<td><p><a href="https://nbavengers.com/gldx-glex-series-go-series-canadausa/69361-n9596c-goeg-air-tankers-norfolk-b16/">71</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3</p></td>
 <td><p>69374<br />
 2113</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:TBF_Avenger_at_the_National_World_War_II_Museum.jpg" title="fig:TBF_Avenger_at_the_National_World_War_II_Museum.jpg">TBF_Avenger_at_the_National_World_War_II_Museum.jpg</a></p></td>
 <td><p>アメリカ ルイジアナ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:The_National_WWII_Museum" title="wikilink">国立第二次世界大戦博物館</a><a href="https://www.nationalww2museum.org/">68</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:The_National_WWII_Museum" title="wikilink">国立第二次世界大戦博物館</a><a href="https://www.nationalww2museum.org/">72</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/warbirds/general-motors-tbm-avenger">69</a></p></td>
+<td><p><a href="https://www.nationalww2museum.org/visit/museum-campus/us-freedom-pavilion/warbirds/general-motors-tbm-avenger">73</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3</p></td>
 <td><p>69375<br />
 2114</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:TBM-3_Avenger_USSHM_starboard_side_1.JPG" title="fig:TBM-3_Avenger_USSHM_starboard_side_1.JPG">TBM-3_Avenger_USSHM_starboard_side_1.JPG</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:USS_Hornet_(CV-12)" title="wikilink">空母ホーネット博物館</a><a href="https://www.uss-hornet.org/">70</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:USS_Hornet_(CV-12)" title="wikilink">空母ホーネット博物館</a><a href="https://www.uss-hornet.org/">74</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.uss-hornet.org/visit-hornet/exhibits/aircraft/tbm-3e-avenger">71</a></p></td>
+<td><p><a href="https://www.uss-hornet.org/visit-hornet/exhibits/aircraft/tbm-3e-avenger">75</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3<br />
 TBM-3E</p></td>
 <td><p>69459<br />
 2198</p></td>
 <td><p><a href="https://live.staticflickr.com/1778/43762990802_cbb868239c_o.jpg">写真</a></p></td>
 <td><p>アメリカ ニューメキシコ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウォー・イーグルス航空博物館" title="wikilink">ウォー・イーグルス航空博物館</a><a href="http://www.war-eagles-air-museum.com/">72</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウォー・イーグルス航空博物館" title="wikilink">ウォー・イーグルス航空博物館</a><a href="http://www.war-eagles-air-museum.com/">76</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="http://www.war-eagles-air-museum.com/exhibit.php?id=23">73</a></p></td>
+<td><p><a href="http://www.war-eagles-air-museum.com/exhibit.php?id=23">77</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3</p></td>
 <td><p>69472<br />
 2211</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:301_General_Motors_TBM-3E_Avenger_(_N9593C_)_(8743382481).jpg" title="fig:301_General_Motors_TBM-3E_Avenger_(_N9593C_)_(8743382481).jpg">301_General_Motors_TBM-3E_Avenger_(_N9593C_)_(8743382481).jpg</a></p></td>
 <td><p>アメリカ アリゾナ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a><a href="http://www.pimaair.org/">74</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a><a href="http://www.pimaair.org/">78</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="http://www.pimaair.org/aircraft-by-name/item/general-motors-tbm-3e-avenger">75</a></p></td>
+<td><p><a href="http://www.pimaair.org/aircraft-by-name/item/general-motors-tbm-3e-avenger">79</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3S<br />
 AS Mk.4<br />
 AS Mk.6B</p></td>
@@ -812,12 +823,12 @@ XB446<br />
 2241</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_Avenger_XB446_(6865417599).jpg" title="fig:Grumman_Avenger_XB446_(6865417599).jpg">Grumman_Avenger_XB446_(6865417599).jpg</a></p></td>
 <td><p>イギリス ケンブリッジシャー州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Fleet_Air_Arm_Museum" title="wikilink">イギリス海軍航空博物館</a><a href="https://www.fleetairarm.com/">76</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Fleet_Air_Arm_Museum" title="wikilink">イギリス海軍航空博物館</a><a href="https://www.fleetairarm.com/">80</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.fleetairarm.com/exhibit/grumman-avenger-ecm6b-xb446/2-4-13.aspx">77</a></p></td>
+<td><p><a href="https://www.fleetairarm.com/exhibit/grumman-avenger-ecm6b-xb446/2-4-13.aspx">81</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3<br />
 TBM-3S<br />
 AS Mk.3</p></td>
@@ -825,24 +836,24 @@ AS Mk.3</p></td>
 2325</p></td>
 <td><p><a href="http://www.demobbed.org.uk/images/8/85506_tbm.jpg?d=140419081351">写真</a></p></td>
 <td><p>イスラエル テルアヴィヴ</p></td>
-<td><p>ベン・アミ氏<br />
+<td><p>ベン・アミ<br />
 (Ben Ami)</p></td>
 <td><p>非公開</p></td>
 <td><p>修復中</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3</p></td>
 <td><p>85733<br />
 2552</p></td>
 <td><p><a href="https://kmack2016.files.wordpress.com/2017/09/boistown.jpg?w=736">写真</a></p></td>
 <td><p>カナダ ニューブランズウィック州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Central_New_Brunswick_Woodsmen&#39;s_Museum" title="wikilink">中央ニューブランズウィック・ウッズメンズ博物館</a><a href="https://woodmensmuseum.com">78</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Central_New_Brunswick_Woodsmen&#39;s_Museum" title="wikilink">中央ニューブランズウィック・ウッズメンズ博物館</a><a href="https://woodmensmuseum.com">82</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://nbavengers.com/gldx-glex-series-go-series-canadausa/85733-n6824c-glek-johnson-fpl-a12-14/">79</a></p></td>
+<td><p><a href="https://nbavengers.com/gldx-glex-series-go-series-canadausa/85733-n6824c-glek-johnson-fpl-a12-14/">83</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3</p></td>
 <td><p>85861<br />
 2680</p></td>
@@ -851,9 +862,9 @@ AS Mk.3</p></td>
 <td><p>シアウォター航空博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="http://www.shearwateraviationmuseum.ns.ca/exhibits/avenger.htm">80</a></p></td>
+<td><p><a href="http://www.shearwateraviationmuseum.ns.ca/exhibits/avenger.htm">84</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3<br />
 TBM-3E<br />
 TBM-3R</p></td>
@@ -861,37 +872,37 @@ TBM-3R</p></td>
 2688</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:GRUMMAN_AVENGER_PARISAIRLEGEND_2018_(44962032632).jpg" title="fig:GRUMMAN_AVENGER_PARISAIRLEGEND_2018_(44962032632).jpg">GRUMMAN_AVENGER_PARISAIRLEGEND_2018_(44962032632).jpg</a></p></td>
 <td><p>フランス エタンプ</p></td>
-<td><p>歴史的航空機力学操縦士協会(AMPAA)<a href="http://www.ampaa.fr">81</a></p></td>
+<td><p>歴史的航空機力学操縦士協会(AMPAA)<a href="http://www.ampaa.fr">85</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3</p></td>
 <td><p>91110<br />
 4015</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:CF15_Avenger_ZK-TBE_040415_03.jpg" title="fig:CF15_Avenger_ZK-TBE_040415_03.jpg">CF15_Avenger_ZK-TBE_040415_03.jpg</a></p></td>
 <td><p>ニュージーランド ブルズ</p></td>
-<td><p>ブレンドン・ディアー氏<br />
+<td><p>ブレンドン・ディアー<br />
 (Brendon Deere)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
 <td><p>47733 / NZ2518号機の塗装がされている。<a href="https://commons.m.wikimedia.org/wiki/File:TBF_Avengers_(5744609344).jpg">旧塗装 右奥</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3<br />
 TBM-3U</p></td>
 <td><p>91171<br />
 4076</p></td>
 <td></td>
 <td><p>カナダ ブリティッシュコロンビア州</p></td>
-<td><p>ジェイムズ・ウィルソン氏<br />
+<td><p>ジェイムズ・ウィルソン<br />
 (James Wilson)</p></td>
 <td><p>非公開</p></td>
 <td><p>保管中</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3E<br />
 TBM-3S<br />
 AS Mk.3</p></td>
@@ -899,13 +910,13 @@ AS Mk.3</p></td>
 3399</p></td>
 <td><p><a href="https://live.staticflickr.com/1660/24194041073_e1b9619a3a_o.jpg">写真</a></p></td>
 <td><p>アメリカ ウィスコンシン州</p></td>
-<td><p>ロナルド・M・カールソン氏<br />
+<td><p>ロナルド・M・カールソン<br />
 (Ronald M. Carlson)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://nbavengers.com/fimx-series-canada/conair-601fpl-1-bu53337/">82</a></p></td>
+<td><p><a href="https://nbavengers.com/fimx-series-canada/conair-601fpl-1-bu53337/">86</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TBM-3E</p></td>
 <td><p>53726<br />
 3788</p></td>
@@ -916,28 +927,17 @@ AS Mk.3</p></td>
 <td><p>静態展示</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBM-3E</p></td>
 <td><p>53857<br />
 3919</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBF_Avenger_(26865295180).jpg" title="fig:Grumman_TBF_Avenger_(26865295180).jpg">Grumman_TBF_Avenger_(26865295180).jpg</a></p></td>
 <td><p>オーストラリア ニューサウスウェールズ州</p></td>
-<td><p>ベネット航空株式会社<a href="http://bennettaviation.com">83</a><br />
+<td><p>ベネット航空株式会社<a href="http://bennettaviation.com">87</a><br />
 (Bennet Aviation Pty. Ltd.)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="https://paulbennetairshows.com.au/tbm-grumman-avenger-solo">84</a></p></td>
-</tr>
-<tr class="even">
-<td><p>TBM-3E</p></td>
-<td><p>53914<br />
-3976</p></td>
-<td></td>
-<td><p>アメリカ アリゾナ州</p></td>
-<td><p>アリゾナ記念空軍博物館<a href="https://www.azcaf.org/">85</a></p></td>
-<td><p>公開</p></td>
-<td><p>修復中</p></td>
-<td><p><a href="https://www.azcaf.org/acquisition-grumman-tbm-3e-avenger/">86</a><a href="https://www.newenglandaviationhistory.com/tag/tbm-3e-53914/">87</a><a href="https://nbavengers.com/fafb-series-canada/fbqs-hicks-lawrence-n7029c-aerial-applicators-d16-bu-53914/">88</a></p></td>
+<td><p><a href="https://paulbennetairshows.com.au/tbm-grumman-avenger-solo">88</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3E<br />
@@ -996,7 +996,7 @@ P-102<br />
 2701</p></td>
 <td><p><a href="https://live.staticflickr.com/922/42317469634_4bb01180ca_o.jpg">写真</a></p></td>
 <td><p>アメリカ ワシントン州</p></td>
-<td><p>マイケル・コップ氏<br />
+<td><p>マイケル・コップ<br />
 (Michael Kopp)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
@@ -1054,11 +1054,11 @@ P-102<br />
 2802</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Grumman_TBM_Avenger,_Chino,_California_(1).jpg" title="fig:Grumman_TBM_Avenger,_Chino,_California_(1).jpg">Grumman_TBM_Avenger,_Chino,_California_(1).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p>チャールズ・G・ウェントワース氏<br />
+<td><p>チャールズ・G・ウェントワース<br />
 (Charles G. Wentworth)</p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="../Page/ジョージ・H・W・ブッシュ.md" title="wikilink">G.H.W.ブッシュ氏が搭乗していた機体の塗装がされている</a>。</p></td>
+<td><p><a href="../Page/ジョージ・H・W・ブッシュ.md" title="wikilink">G.H.W.ブッシュが搭乗していた機体の塗装がされている</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>TBM-3E</p></td>
@@ -1135,7 +1135,7 @@ AS Mk.3</p></td>
 4358</p></td>
 <td><p><a href="https://farm9.staticflickr.com/8571/16538022336_da695af8f7_b.jpg">写真</a></p></td>
 <td><p>アメリカ ヴァージニア州</p></td>
-<td><p>クリストファー・E・ジョンソン氏<br />
+<td><p>クリストファー・E・ジョンソン<br />
 (Christopher E. Johnson)</p></td>
 <td><p>非公開</p></td>
 <td><p>飛行可能</p></td>
@@ -1191,7 +1191,7 @@ AS Mk.3</p></td>
 4631</p></td>
 <td><p><a href="https://live.staticflickr.com/4556/38892890971_a19454537f_o.jpg">写真</a></p></td>
 <td><p>アメリカ ミシシッピ州</p></td>
-<td><p>ジョン・モスリー氏<br />
+<td><p>ジョン・モスリー<br />
 (John Mosley)</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>

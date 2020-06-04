@@ -28,7 +28,7 @@
 | 3     |           | 自主放送                                                                           |
 | 6     |           | [日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")                |
 | 10    |           | [ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")                  |
-| 13    |           | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB）                   |
+| 13    |           | [北日本放送](../Page/北日本放送.md "wikilink")（KNB）                                      |
 | 14    | （BS101ch） | [NHK BS1](../Page/NHK_BS1.md "wikilink")                                       |
 | 16    |           | [BS日テレ](../Page/BS日本.md "wikilink")                                            |
 | 17    |           | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                           |

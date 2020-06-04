@@ -7,15 +7,17 @@
 
 ## 解説
 
-浜崎は本作以前に女優を中心に活動をしていた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")発売の「[NOTHING FROM NOTHING](https://ja.wikipedia.org/wiki/NOTHING_FROM_NOTHING "wikilink")」（AYUMI featuring [DOHZI-T](../Page/童子-T.md "wikilink") & DJ BASS名義）でCDデビューを果たしていたが\[2\]、エイベックスに移籍し、浜崎あゆみ名義でのデビュー作は本作となる。
+浜崎は本作以前に女優を中心に活動をしていた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")発売の「[NOTHING FROM NOTHING](https://ja.wikipedia.org/wiki/NOTHING_FROM_NOTHING "wikilink")」（AYUMI featuring [DOHZI-T](../Page/童子-T.md "wikilink") & DJ BASS名義）でCDデビューを果たしていたが\[2\]、エイベックスに移籍し、歌手として再デビュー。浜崎あゆみ名義でのデビュー作は本作となる。
 
-当時の専務でありプロデューサーを担当していた[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")は、浜崎が歌手デビューする際に3～4人組のグループを結成し、そのボーカルに浜崎を据えるつもりでいたが本人が断り、現在での形になった。また、ソロデビュー直前には『「ビジュアル的に100％完璧だった」が、それゆえアイドルになってしまわないかと心配だった』という\[3\]。
+当時の専務でありプロデューサーだった[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")は、浜崎が歌手デビューする際に3～4人組のグループを結成し、そのボーカルに浜崎を据えるつもりでいたが本人が断り、ソロでやりたいという本人の強い希望に沿う形で現在での形になった。また、ソロデビュー直前には『「ビジュアル的に100％完璧だった」が、それゆえアイドルになってしまわないかと心配だった』という\[3\]。
 
 ジャケットも当初は、顔を露出して認知度を高めるところであったが、周囲の芸能関係者からは「アイドルっぽすぎて浜崎の顔では絶対に売れない」と言われていた。そのため、プロデューサーである松浦は、あえて顔がはっきりと分かりにくいジャケットで採用したと語っている\[4\]。
 
-[COUNT DOWN TVのタイアップや](../Page/COUNT_DOWN_TV.md "wikilink")[HEY\!HEY\!HEY\!や](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")[うたばん](../Page/うたばん.md "wikilink")など歌番組に大々的に出演したものの、デビュー曲ながら初登場20位を記録し累計4万枚を売上げたことに、松浦勝人はアイドル時代のファンがこんなにも居たのかと驚いたという。
+[COUNT DOWN TVのタイアップや](../Page/COUNT_DOWN_TV.md "wikilink")[HEY\!HEY\!HEY\!や](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")[うたばん](../Page/うたばん.md "wikilink")など歌番組に大々的に出演したものの、デビュー曲ながら初登場20位を記録し累計4万枚を売上げたことに、松浦勝人はアイドル時代のファンがまだこんなにも居たのかと驚いたという。
 
-## 収録曲
+店舗用カセットと8cmCDSINGLEでは収録曲が異なる
+
+カセットでは2曲目がFRIENDではなくSIGNALに変更されている
 
 ### CD
 

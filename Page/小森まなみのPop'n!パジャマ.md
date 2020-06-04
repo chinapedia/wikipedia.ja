@@ -46,7 +46,7 @@
 
 ### 過去のネット局
 
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")
   - [アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")

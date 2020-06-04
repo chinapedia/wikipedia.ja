@@ -1,9 +1,9 @@
 > この記事は[いつか何処かで \(I FEEL THE ECHO\)](https://ja.wikipedia.org/wiki/いつか何処かで_\(I_FEEL_THE_ECHO\))から翻訳されています。
 
 
-「**いつか何処かで (I FEEL THE ECHO)**」（いつかどこかで アイ・フィール・ジ・エコー）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**いつか何処かで (I FEEL THE ECHO)**」（いつかどこかで アイ・フィール・ジ・エコー）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の楽曲。自身の2作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に発売された。
 
-[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に12cmCDとして再発をしている。
+[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に12cmCDとして再発売されている。
 
 ## 背景
 

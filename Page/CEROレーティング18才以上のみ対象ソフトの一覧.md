@@ -134,12 +134,13 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [デウスエクス マンカインド・ディバイデッド](https://ja.wikipedia.org/wiki/デウスエクス_マンカインド・ディバイデッド "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [デッドバイデイライト](https://ja.wikipedia.org/wiki/デッドバイデイライト "wikilink")（コンテンツアイコン：「暴力」）
   - [バイオショック コレクション](../Page/BioShock.md "wikilink")（コンテンツアイコン：「暴力」）
+  - [ヒットマン２](https://ja.wikipedia.org/wiki/ヒットマン2 "wikilink")（コンテンツアイコン：「暴力」）
   - [Far Cry 4](https://ja.wikipedia.org/wiki/Far_Cry_4 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Far Cry 5](https://ja.wikipedia.org/wiki/Far_Cry_5 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Fallout 4](https://ja.wikipedia.org/wiki/Fallout_4 "wikilink")(コンテンツアイコン：「暴力、犯罪」）
   - [fallout76](https://ja.wikipedia.org/wiki/Fallout_76 "wikilink")（コンテンツアイコン：「暴力」）
   - [Friday the 13th: The Game](https://ja.wikipedia.org/wiki/Friday_the_13th:_The_Game "wikilink") \[5\]（コンテンツアイコン：「暴力」）
-  - [Pｒedator:hantingGrounds](../Page/プレデター_\(映画\).md "wikilink")
+  - [Pｒedator:hantingGrounds](../Page/プレデター_ハンティンググラウンズ.md "wikilink")（コンテンツアイコン：「暴力」）
   - [マッドマックス](https://ja.wikipedia.org/wiki/マッドマックス_\(2015年のゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
   - [マフィア III](https://ja.wikipedia.org/wiki/マフィア_III "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [LET IT DIE](https://ja.wikipedia.org/wiki/LET_IT_DIE "wikilink")（コンテンツアイコン：「暴力」）

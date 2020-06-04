@@ -85,4 +85,4 @@ PC Card/CardBusからExpressCardへの移行は[2005年](../Page/2005年.md "wik
 
   - <http://www.itproportal.com/2011/04/01/expresscard-format-be-discontinued/>
 
-[Category:拡張カード](https://ja.wikipedia.org/wiki/Category:拡張カード "wikilink")
+[Category:拡張カード](https://ja.wikipedia.org/wiki/Category:拡張カード "wikilink") [Category:PCI_Express](https://ja.wikipedia.org/wiki/Category:PCI_Express "wikilink") [Category:USB](https://ja.wikipedia.org/wiki/Category:USB "wikilink")

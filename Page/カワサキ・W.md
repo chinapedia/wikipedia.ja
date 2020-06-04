@@ -23,7 +23,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Kawasaki_W650_1999_Retro.jpg "wikilink") W650は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）12月発表、翌[1999年](../Page/1999年.md "wikilink")（平成11年）2月から販売された車種である。
 
-OHVエンジンの旧シリーズとは直接の関連はない新設計車種であるが、外観は・[トライアンフ](https://ja.wikipedia.org/wiki/トライアンフ_\(二輪車\) "wikilink")・[BSAといった往年の英国車](https://ja.wikipedia.org/wiki/バーミンガム・スモール・アームズ "wikilink")、もしくは「ネオ[クラシック](../Page/旧車.md "wikilink")」「ネオ[レトロ](../Page/レトロ.md "wikilink")」と呼ばれる上述のW1を彷彿とさせる古風なもので、販売戦略上「W」のネーミングが復活した。
+OHVエンジンの旧シリーズとは直接の関連はない新設計車種であるが、外観は、[トライアンフや](https://ja.wikipedia.org/wiki/トライアンフ_\(二輪車\) "wikilink")[BSAといった往年の英国車](https://ja.wikipedia.org/wiki/バーミンガム・スモール・アームズ "wikilink")、もしくは「ネオ[クラシック](../Page/旧車.md "wikilink")」「ネオ[レトロ](../Page/レトロ.md "wikilink")」と呼ばれる上述のW1を彷彿とさせる古風なもので、販売戦略上「W」のネーミングが復活した。
 
 こだわりとして専用設計の左右スイッチボックスや、[質感](https://ja.wikipedia.org/wiki/質感 "wikilink")を高める一環として外装部品に[樹脂製ではなく金属製を採用した](../Page/合成樹脂.md "wikilink")。特にハンドルの造形は凝っており、トップブリッジ（上部三叉）に取り付けられる中央部分は外径25.4 mmの「インチバー」と呼ばれる太さであるが、グリップやスイッチボックスが取り付けられる両端の部分のみ「ミリバー」と呼ばれる外径22.2 mm（7/8インチであるので実際には[インチ](../Page/インチ.md "wikilink")系列の規格であるが）に絞られるという変則的な太さとした。形状も俗に「コンチネンタルハンドル」と呼ばれるローハンドル仕様と、グリップ3本分ほど高くしたアップハンドル仕様の2種類を用意する。
 

@@ -14,7 +14,7 @@
 水酸化ナトリウムで中和するとナトリウム塩が得られ、そこへ[五塩化リン](https://ja.wikipedia.org/wiki/五塩化リン "wikilink")を作用させると[塩化パラトルエンスルホニル](../Page/塩化パラトルエンスルホニル.md "wikilink")が得られる。
 
   -
-    <ce>\\mathit{p} -{CH3C6H4SO3Na} + PCl5 -\> \\mathit{p}-CH3C6H4SO2Cl</ce>
+    <chem>\\mathit{p} -{CH3C6H4SO3Na} + PCl5 -\> \\mathit{p}-CH3C6H4SO2Cl</chem>
 
 パラトルエンスルホン酸のピリジニウム塩である、[パラトルエンスルホン酸ピリジニウム](https://ja.wikipedia.org/wiki/パラトルエンスルホン酸ピリジニウム "wikilink")（pyridinium *p*-toluenesulfonate、略称 PPTS）も、穏和な酸触媒として有機合成で用いられる。
 

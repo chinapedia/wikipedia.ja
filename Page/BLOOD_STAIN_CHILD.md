@@ -13,33 +13,35 @@
 
 [2001年](../Page/2001年.md "wikilink")秋には[プロレスラー](../Page/プロレスラー.md "wikilink")の[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")選手に入場曲「The World」を提供し、同年12月には、当時佐々木が所属していた[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の設立30周年記念テーマ曲「Steel Flame」を提供。
 
-2002年に、2000年に作成したデモをきっかけとして、[和田誠が設立したレーベル](../Page/和田誠_\(評論家\).md "wikilink")[Captain Rockと契約し](https://ja.wikipedia.org/wiki/Captain_Rock "wikilink")、同年[7月17日](../Page/7月17日.md "wikilink")に1stアルバム『Silence Of Northern Hell』をリリース。リード・トラックの「Silence Of Northern Hell」は[JFN系](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")「[カドカワ・サウンドシネマ](../Page/カドカワ・サウンドシネマ.md "wikilink")　[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")～Rage　Against The Moon」のエンディングテーマとなり、同年秋には同アルバムが韓国でもリリースされた。
+2002年に、2000年に作成したデモをきっかけとして、[和田誠が設立したレーベル](../Page/和田誠_\(評論家\).md "wikilink")[Captain Rock](https://ja.wikipedia.org/wiki/Captain_Rock "wikilink")\[1\]と契約し、同年[7月17日](../Page/7月17日.md "wikilink")に1stアルバム『Silence Of Northern Hell』をリリース。リード・トラックの「Silence Of Northern Hell」は[JFN系](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")「[カドカワ・サウンドシネマ](../Page/カドカワ・サウンドシネマ.md "wikilink")　[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")～Rage　Against The Moon」のエンディングテーマとなり、同年秋には同アルバムが韓国でもリリースされた。
 
 [2003年](../Page/2003年.md "wikilink")6月18日に2ndアルバム『MYSTIC YOUR HEART』をリリース。
 
 [2005年](../Page/2005年.md "wikilink")3月にDAIKIが脱退し、翌月に後任としてSHIROMASAが加入。8月18日に3rdアルバム『IDOLATOR』をリリース。このアルバムから、RYUがサイド・ボーカル(クリーン)を務めるようになった。
 
-2006年に、ドイツのレーベルDocktard1と契約、ヨーロッパデビューを果たす。同年末をもってSHIROMASAが脱退し、翌年初頭に後任としてG.S.Rが加入。同時に専任ボーカリストとして、SADEWも加入した。
+2006年に、欧州リリースについてドイツのレーベル・ドックヤード1・レコードと契約、ヨーロッパデビューを果たす。同年末をもってSHIROMASAが脱退し、翌年初頭に後任としてG.S.Rが加入。同時に専任ボーカリストとして、SADEWも加入した。
 
-2007年7月18日に4thアルバム『MOZAIQ』をリリース、リード・トラックの「FREEDOM」の[PVは](../Page/ミュージック・ビデオ.md "wikilink")[ゴンゾ](../Page/ゴンゾ.md "wikilink")が製作した。同年、アメリカのレーベルLocomotiveとも契約し、全米デビューを果たした。
+2007年7月18日に4thアルバム『MOZAIQ』をリリース、リード・トラックの「FREEDOM」の[PVは](../Page/ミュージック・ビデオ.md "wikilink")[ゴンゾ](../Page/ゴンゾ.md "wikilink")が製作した。同年、アメリカでのリリースについて、ロコモティヴ・レコードとも契約し全米デビューを果たした。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にSADEWが「音楽性の違い、もとい自分探しの旅に出るため」、VIOLATORが「諸事情で家業を継がねばならない状況になり、バンド活動を続けることができなくなったため」脱退\[1\]。9月14日に公式サイトにて新メンバーSOPHIA（ヴォーカル）、GAMI（ドラムス）の加入が発表された\[2\]。また、メインレーベルを、[イタリア](../Page/イタリア.md "wikilink")の[Corner Recordsに移した](https://ja.wikipedia.org/wiki/Corner_Records "wikilink")。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月にSADEWが「音楽性の違い、もとい自分探しの旅に出るため」、VIOLATORが「諸事情で家業を継がねばならない状況になり、バンド活動を続けることができなくなったため」脱退\[2\]。9月14日に公式サイトにて新メンバーSOPHIA（ヴォーカル）、GAMI（ドラムス）の加入が発表された\[3\]。また、メインレーベルを、[イタリア](../Page/イタリア.md "wikilink")の[コロナ―・レコード](https://ja.wikipedia.org/wiki/コロナ―・レコード "wikilink")に移した。
 
 [2011年](../Page/2011年.md "wikilink")リリースの、[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")、『[Princess Ghibli](https://ja.wikipedia.org/wiki/Princess_Ghibli "wikilink")』の2曲に参加。また、同年6月には、5thアルバム『psilon』をリリース。
 
-[2012年](../Page/2012年.md "wikilink")7月、Sophiaが脱退した\[3\]。後任を公募し、12月頭に後任として、KiKi (ヴォーカル)の加入が発表された\[4\]。[2013年](../Page/2013年.md "wikilink")3月、[ビデオジョッキー](../Page/ビデオジョッキー.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータを担当するMAKOTOが新加入した](../Page/ミュージックシーケンサー.md "wikilink")\[5\]。また、今後、[キーボーディスト](../Page/キーボーディスト.md "wikilink")のAKIは[ライヴには出演せず](../Page/演奏会.md "wikilink")、スタジオのみの参加となることも併せて発表された\[6\]。
+[2012年](../Page/2012年.md "wikilink")7月、Sophiaが脱退した\[4\]。後任を公募し、12月頭に後任として、KiKi (ヴォーカル)の加入が発表された\[5\]。[2013年](../Page/2013年.md "wikilink")3月、[ビデオジョッキー](../Page/ビデオジョッキー.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータを担当するMAKOTOが新加入した](../Page/ミュージックシーケンサー.md "wikilink")\[6\]。また、今後、[キーボーディスト](../Page/キーボーディスト.md "wikilink")のAKIは[ライヴには出演せず](../Page/演奏会.md "wikilink")、スタジオのみの参加となることも併せて発表された\[7\]。
 
 [2013年](../Page/2013年.md "wikilink")レコード会社を[ランティス](../Page/ランティス.md "wikilink")に移し、事務所[アイウィルに所属](https://ja.wikipedia.org/wiki/アイウィル_\(音楽プロダクション\) "wikilink")。
 
-[2014年](../Page/2014年.md "wikilink")1月29日に移籍後初のリリースとなるシングル[LAST STARDUSTをリリース](https://ja.wikipedia.org/wiki/LAST_STARDUST "wikilink")。タイトルトラックのLAST STARDUSTはPCゲーム[未来戦姫スレイブニル](https://ja.wikipedia.org/wiki/未来戦姫スレイブニル "wikilink")のOP主題歌、収録曲のOVER THE GALAXYはED楽曲でもある。またLAST STARDUSTでは[GRANRODEO](../Page/GRANRODEO.md "wikilink")の[e-ZUKA](https://ja.wikipedia.org/wiki/e-ZUKA "wikilink")がギターソロでゲスト参加している。同年9月、MAKOTOが音楽性の違いを理由に脱退した\[7\]。
+[2014年](../Page/2014年.md "wikilink")1月29日に移籍後初のリリースとなるシングル[LAST STARDUSTをリリース](https://ja.wikipedia.org/wiki/LAST_STARDUST "wikilink")。タイトルトラックのLAST STARDUSTはPCゲーム[未来戦姫スレイブニル](https://ja.wikipedia.org/wiki/未来戦姫スレイブニル "wikilink")のOP主題歌、収録曲のOVER THE GALAXYはED楽曲でもある。またLAST STARDUSTでは[GRANRODEO](../Page/GRANRODEO.md "wikilink")の[e-ZUKA](https://ja.wikipedia.org/wiki/e-ZUKA "wikilink")がギターソロでゲスト参加している。同年9月、MAKOTOが音楽性の違いを理由に脱退した\[8\]。
 
-[2016年](../Page/2016年.md "wikilink")6月に、KiKiとRYOが脱退\[8\]。KiKiはバンドの方向性の違い、RYOは一身上の都合によって脱退した\[9\]。代わって、SAIKA (Vo)とYakky (B)の加入が発表された\[10\]。また2016年6月の時点で、AKIがメンバー一覧から削除されている。
+[2016年](../Page/2016年.md "wikilink")6月に、KiKiとRYOが脱退\[9\]。KiKiはバンドの方向性の違い、RYOは一身上の都合によって脱退した\[10\]。代わって、SAIKA (Vo)とYakky (B)の加入が発表された\[11\]。また2015年のホームページ改修前にはメンバーに記載されていたAKIが\[12\]、2016年6月の時点で、メンバー一覧から削除された\[13\]。しかし、後にリリースされた『THE LEGEND』や『AMATERAS』などのアルバムにはスタジオメンバーとして参加しており、引き続きスタジオメンバーとして在籍している。
 
-[2018年](../Page/2018年.md "wikilink")1月14日のライヴをもってGAMIが脱退\[11\]。後任に[Shatter Silence等で活動するYASUが加入する](https://ja.wikipedia.org/wiki/Shatter_Silence "wikilink")\[12\]。
+その後、和田誠が新たに立ち上げたレーベルである爆音！BAKU-ON.ca\[14\]に移籍。
 
-[2018年](../Page/2018年.md "wikilink")10月7日THE LEGENDリリースツアー終了翌日、SAIKAの脱退とSADEWの再加入が発表された\[13\]。BLOOD STAIN CHILDから派生したSAIKAとG.S.Rによるアコースティックユニット[ですとろい](https://ja.wikipedia.org/wiki/ですとろい "wikilink")は活動継続。
+[2018年](../Page/2018年.md "wikilink")1月14日のライヴをもってGAMIが脱退\[15\]。後任に[Shatter Silence等で活動するYASUが加入する](https://ja.wikipedia.org/wiki/Shatter_Silence "wikilink")\[16\]。
 
-[2019年](../Page/2019年.md "wikilink")、[Ethereal SinのYama](https://ja.wikipedia.org/wiki/Ethereal_Sin "wikilink") Darkblazeが代表を務めるEvoken de Valhall Productionとエージェント契約を結んだ\[14\]。また2月1日にはメンバーチェンジ後初の音源としてデジタルシングル『Del-Sol』をリリースした。
+[2018年](../Page/2018年.md "wikilink")10月7日THE LEGENDリリースツアー終了翌日、SAIKAの脱退とSADEWの再加入が発表された\[17\]。BLOOD STAIN CHILDから派生したSAIKAとG.S.Rによるアコースティックユニット[ですとろい](https://ja.wikipedia.org/wiki/ですとろい "wikilink")は活動継続。
+
+[2019年](../Page/2019年.md "wikilink")、[Ethereal SinのYama](https://ja.wikipedia.org/wiki/Ethereal_Sin "wikilink") Darkblazeが代表を務めるEvoken de Valhall Productionとエージェント契約を結んだ\[18\]。また2月1日にはメンバーチェンジ後初の音源としてデジタルシングル『Del-Sol』をリリースした。同年7月に、オリジナルアルバムとしては2011年以来8年ぶりとなる6thアルバム『AMATERAS』をリリースした。
 
 ## メンバー
 
@@ -55,13 +57,13 @@
 
 <!-- end list -->
 
-  - G.S.R - [サイドギター](../Page/リズムギター.md "wikilink")（2007年1月- ）
+  - G.S.R - [サイドギター](../Page/リズムギター.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（2007年1月- ）
   - Yakky - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（2016年6月- ）
 
 <!-- end list -->
 
   -
-    [☆Skeleton panties☆](https://ja.wikipedia.org/wiki/☆Skeleton_panties☆ "wikilink")\[15\] 等で活動。 遠藤一馬（[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")）サポートメンバー。
+    [☆Skeleton panties☆](https://ja.wikipedia.org/wiki/☆Skeleton_panties☆ "wikilink")\[19\] 等で活動。 遠藤一馬（[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")）サポートメンバー。
 
 <!-- end list -->
 
@@ -74,18 +76,15 @@
 
 <!-- end list -->
 
-  - AKI - [キーボード](../Page/キーボード_\(楽器\).md "wikilink") （1999年6月-?）
+  - AKI - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")（1999年6月-）
 
 <!-- end list -->
 
   -
-    ほとんどの楽曲をRYUが担当しているが、一部楽曲で作曲を行っている。2013年3月以降、スタジオのみの参加となっていた。2016年6月現在、メンバー一覧に記載されていない。2019年現在スタジオメンバーのみ。
+    ほとんどの楽曲をRYUが担当しているが、一部楽曲で作曲を行っている。2013年3月以降、スタジオのみの参加となった。2016年6月以降、ホームページのメンバー一覧に記載されていないが、アルバム等にはスタジオメンバーとして参加している。
 
 ### 旧メンバー
 
-  - DAIKI - サイドギター（2000年6月-2005年3月）
-  - SHIROMASA - サイドギター（2005年4月-2006年12月）
-  - VIOLATOR - ドラムス （1999年6月-2010年6月）
   - SOPHIA - リードボーカル（2010年9月-2012年7月）
 
 <!-- end list -->
@@ -95,9 +94,12 @@
 
 <!-- end list -->
 
-  - MAKOTO - [ビデオジョッキー](../Page/ビデオジョッキー.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータ](../Page/ミュージックシーケンサー.md "wikilink")（2013年3月-2014年9月）
   - KiKi - リードボーカル （2012年12月-2016年6月）
+  - SAIKA - リードボーカル（2016年6月-2018年10月）
+  - DAIKI - サイドギター（2000年6月-2005年3月）
+  - SHIROMASA - サイドギター（2005年4月-2006年12月）
   - RYO - ベース＆[サイドボーカル](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（[グロウル](../Page/デスヴォイス.md "wikilink")）（1999年6月-2016年6月）
+  - VIOLATOR - ドラムス （1999年6月-2010年6月）
   - GAMI - ドラムス（2010年9月-2018年1月）
 
 <!-- end list -->
@@ -107,22 +109,21 @@
 
 <!-- end list -->
 
-  - SAIKA - リードボーカル（2016年6月-2018年10月）
+  - MAKOTO - [ビデオジョッキー](../Page/ビデオジョッキー.md "wikilink")、[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[マニピュレータ](../Page/ミュージックシーケンサー.md "wikilink")（2013年3月-2014年9月）
 
 ### タイムライン
 
-<timeline> ImageSize =width:900 height:auto barincrement:25 PlotArea =left:80 bottom:60 top:0 right:60 Alignbars =justify DateFormat =mm/dd/yyyy Period =from:01/01/2000 till:12/31/2020 ScaleMajor = increment:2 start:2000 ScaleMinor = increment:1 start:2000 TimeAxis =orientation:horizontal format:yyyy Legend =orientation:horizontal position:bottom
+<timeline> ImageSize =width:900 height:auto barincrement:25 PlotArea =left:80 bottom:100 top:0 right:60 Alignbars =justify DateFormat =mm/dd/yyyy Period =from:01/01/2000 till:12/31/2020 ScaleMajor = increment:2 start:2000 ScaleMinor = increment:1 start:2000 TimeAxis =orientation:horizontal format:yyyy Legend =orientation:horizontal position:bottom
 
 Colors=
 
 `id:vocals   value:red        legend:Vocals`
 `id:lead      value:teal     legend:Lead_Guitar`
 `id:rhythm  value:green  legend:Rhythm_Guitar`
-`id:synth    value:claret  legend:Synth_Guitar`
 `id:bass     value:blue       legend:Bass`
 `id:drums    value:orange     legend:Drums`
 `id:keys    value:purple       legend:Keyboards,_Synthesizers,_Programming`
-`id:backing value:yellow    legend:Backing_Vocals`
+`id:backing value:yellow    legend:Side_Vocals`
 `id:DJ        value:lightpurple  legend:DJ/VJ`
 `id:Session  value:pink       legend:Session_Member`
 `id:studio   value:black      legend:Studio_Albums`
@@ -138,8 +139,11 @@ LineData=
 `at:08/18/2005 color:black layer:back`
 `at:07/18/2007 color:black layer:back`
 `at:06/15/2011 color:black layer:back`
+`at:07/03/2019 color:black layer:back`
 `at:01/29/2014 color:other layer:back`
 `at:09/07/2016 color:other layer:back`
+`at:07/26/2017 color:other layer:back`
+`at:02/01/2019 color:other layer:back`
 
 BackgroundColors= bars:bars
 
@@ -170,19 +174,14 @@ PlotData =
 `bar:Kiki      from:12/03/2012 till:06/06/2016   color:vocals`
 `bar:Saika     from:06/06/2016 till:10/06/2018   color:vocals`
 `bar:Ryu       from:01/01/2000 till:end          color:lead`
-`bar:Ryu       from:01/01/2000 till:end          color:synth   width:5.5`
-`bar:Ryu       from:06/06/2016 till:end          color:keys    width:2.5`
 `bar:Daiki     from:01/01/2000 till:03/01/2005   color:rhythm`
-`bar:Daiki     from:01/01/2000 till:03/01/2005   color:synth   width:5.5`
 `bar:Shiromasa from:04/01/2005 till:07/18/2007   color:rhythm`
-`bar:Shiromasa from:04/01/2005 till:07/18/2007   color:synth   width:5.5`
 `bar:G.S.R     from:07/18/2007 till:end          color:rhythm`
-`bar:G.S.R     from:07/18/2007 till:end          color:synth   width:5.5`
 `bar:Ryo       from:01/01/2000 till:06/06/2016   color:bass`
+`bar:Ryo       from:04/01/2007 till:06/06/2016   color:backing width:5`
+`bar:Ryo       from:01/01/2000 till:04/01/2007   color:vocals  width:5`
 `bar:Yakky     from:06/06/2016 till:end          color:bass`
-`bar:Ryo       from:01/01/2000 till:04/01/2007   color:vocals  width:5.5`
-`bar:Aki       from:01/01/2000 till:06/06/2016   color:keys`
-`bar:Aki       from:01/01/2000 till:06/06/2016   color:backing width:5.5`
+`bar:Aki       from:01/01/2000 till:end   color:keys`
 `bar:Makoto    from:02/01/2013 till:05/01/2014   color:Dj`
 `bar:Violator  from:01/01/2000 till:06/12/2010   color:drums`
 `bar:Gami      from:09/01/2010 till:01/14/2018   color:drums`
@@ -255,7 +254,7 @@ PlotData =
     12. SAI-KA-NO
     13. VOID（日本盤ボーナストラック Dmn-str-mix）
     14. Royal Sky（アメリカ盤とヨーロッパ盤ボーナストラック）
-6.  **THE LEGEND**\[16\]（2018年6月13日）
+6.  **THE LEGEND**\[20\]（2018年6月13日）
     1.  KAMUI-神威-
     2.  Silence Of Northern Hell ～0～
     3.  Crimson Symphony ～rage of blood～
@@ -285,7 +284,7 @@ PlotData =
     11. 皇～sumeragi～
     12. CHA-LA HEAD CHA-LA
 
-### シングル
+### シングル・EP
 
 1.  **[LAST STARDUST](https://ja.wikipedia.org/wiki/LAST_STARDUST "wikilink")**（2014年1月29日）
     1.  LAST STARDUST
@@ -314,6 +313,8 @@ PlotData =
 6.  **[Princess Ghibli](https://ja.wikipedia.org/wiki/Princess_Ghibli "wikilink")**
 7.  **[Princess Ghibli II](https://ja.wikipedia.org/wiki/Princess_Ghibli_II "wikilink")**
 
+## 注釈
+
 ## 脚注
 
 ## 外部リンク
@@ -322,19 +323,23 @@ PlotData =
   -
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:メロディックデスメタル・バンド](https://ja.wikipedia.org/wiki/Category:メロディックデスメタル・バンド "wikilink") [Category:シンフォニックメタル・バンド](https://ja.wikipedia.org/wiki/Category:シンフォニックメタル・バンド "wikilink") [Category:インダストリアル・バンド](https://ja.wikipedia.org/wiki/Category:インダストリアル・バンド "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")
 
-1.  [バンドメンバー交代のお知らせ](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
-2.  [新メンバー発表！！](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
-3.  [Sophia脱退のお知らせ](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
-4.  [新ボーカリスト発表！](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
-5.  [新メンバー加入のお知らせ](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
-6.
-7.  [MAKOTO(VJ,Manipulator)脱退のお知らせ](http://www.bloodstainchild.com/news/2014/09/makotovjmanipulator.php) BLOOD STAIN CHILD official webisite 2014年11月27日閲覧。
-8.  <http://www.bloodstainchild.com/news.html> 2016年6月9日閲覧。
-9.
+1.  エムアンドアイカンパニー傘下のレーベル。
+2.  [バンドメンバー交代のお知らせ](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
+3.  [新メンバー発表！！](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
+4.  [Sophia脱退のお知らせ](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
+5.  [新ボーカリスト発表！](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
+6.  [新メンバー加入のお知らせ](http://www.bloodstainchild.com/news.html) 2013年3月30日閲覧
+7.
+8.  [MAKOTO(VJ,Manipulator)脱退のお知らせ](http://www.bloodstainchild.com/news/2014/09/makotovjmanipulator.php) BLOOD STAIN CHILD official webisite 2014年11月27日閲覧。
+9.  <http://www.bloodstainchild.com/news.html> 2016年6月9日閲覧。
 10.
-11. <http://www.bloodstainchild.com/news.html> 2018年1月15日閲覧。
+11.
 12.
-13. [BLOOD STAIN CHLD 公式ツイッター【お知らせ】](https://twitter.com/bsc_of/status/1048906874475577344) 2018年10月7日閲覧。
-14. <http://www.bloodstainchild.com/news.html> 2019年2月2日閲覧。
-15.
-16. 全曲新アレンジ、新録音によるベストアルバム。
+13.
+14. [FABTONE](https://ja.wikipedia.org/wiki/FABTONE "wikilink")傘下のレーベルである。
+15. <http://www.bloodstainchild.com/news.html> 2018年1月15日閲覧。
+16.
+17. [BLOOD STAIN CHLD 公式ツイッター【お知らせ】](https://twitter.com/bsc_of/status/1048906874475577344) 2018年10月7日閲覧。
+18. <http://www.bloodstainchild.com/news.html> 2019年2月2日閲覧。
+19.
+20. 「KAMUI-神威-」のみが新曲で、残りの楽曲はこれまでの楽曲を新しくアレンジし、再録音したベストアルバム。

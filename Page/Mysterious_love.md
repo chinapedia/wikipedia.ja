@@ -36,7 +36,7 @@
 
 ## 関連項目
 
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）
   - [岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
   - [麻井寛史](../Page/麻井寛史.md "wikilink")（[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")・[WAR-ED](https://ja.wikipedia.org/wiki/WAR-ED "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
   - [2002年の音楽](../Page/2002年の音楽.md "wikilink")

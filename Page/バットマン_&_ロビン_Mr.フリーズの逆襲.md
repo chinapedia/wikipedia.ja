@@ -105,19 +105,19 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/ミスター・フリーズ.md" title="wikilink">ヴィクター・フリーズ / Mr.フリーズ</a></p></td>
+<td><p><a href="../Page/アーノルド・シュワルツェネッガー.md" title="wikilink">アーノルド・シュワルツェネッガー</a></p></td>
+<td><p><a href="../Page/大友龍三郎.md" title="wikilink">大友龍三郎</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/バットマン_(架空の人物).md" title="wikilink">ブルース・ウェイン / バットマン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョージ・クルーニー" title="wikilink">ジョージ・クルーニー</a></p></td>
 <td><p><a href="../Page/竹中直人.md" title="wikilink">竹中直人</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディック・グレイソン" title="wikilink">ディック・グレイソン / ロビン</a></p></td>
 <td><p><a href="../Page/クリス・オドネル.md" title="wikilink">クリス・オドネル</a></p></td>
 <td><p><a href="../Page/宮本充.md" title="wikilink">宮本充</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/バットガール.md" title="wikilink">バーバラ・ウィルソン / バットガール</a></p></td>
-<td><p><a href="../Page/アリシア・シルヴァーストーン.md" title="wikilink">アリシア・シルヴァーストーン</a></p></td>
-<td><p><a href="../Page/岡本麻弥.md" title="wikilink">岡本麻弥</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ポイズン・アイビー.md" title="wikilink">パメラ・アイズリー / ポイズン・アイビー</a></p></td>
@@ -125,9 +125,9 @@
 <td><p><a href="../Page/戸田恵子.md" title="wikilink">戸田恵子</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ミスター・フリーズ.md" title="wikilink">ヴィクター・フリーズ / Mr.フリーズ</a></p></td>
-<td><p><a href="../Page/アーノルド・シュワルツェネッガー.md" title="wikilink">アーノルド・シュワルツェネッガー</a></p></td>
-<td><p><a href="../Page/大友龍三郎.md" title="wikilink">大友龍三郎</a></p></td>
+<td><p><a href="../Page/バットガール.md" title="wikilink">バーバラ・ウィルソン / バットガール</a></p></td>
+<td><p><a href="../Page/アリシア・シルヴァーストーン.md" title="wikilink">アリシア・シルヴァーストーン</a></p></td>
+<td><p><a href="../Page/岡本麻弥.md" title="wikilink">岡本麻弥</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アルフレッド・ペニーワース" title="wikilink">アルフレッド・ペニーワース</a></p></td>
@@ -271,7 +271,7 @@
 
 『バットマン & ロビン』の批評家の反応は否定に偏った。2013年2月時点で[Rotten Tomatoesでは](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")66件のレビューで支持率は12%、平均点は3.4/10となっている\[25\]。また[Metacritic](https://ja.wikipedia.org/wiki/Metacritic "wikilink")では21媒体のレビューで加重平均値は21/100となっている\[26\]。
 
-シュマッカーとプロデューサーのピーター・マクレガー＝スコットは、本作の不評はワーナー・ブラザースが製作を急いだために起こったと主張した。「ワーナー・ブラザースは『バットマン & ロビン』をもっとファミリー・フレンドリーにするように圧力をかけてきた」とシュマッカーは説明した。また「我々はあまり重苦しくない『バットマン』映画にし、苦悩を減らし、よりヒロイックにすることに決めていた。それが理由で非難されていることは知っているが、私はそのアプローチに全く害は見いだせなかった」と述べた\[27\]。『[シカゴ・サンタイムズ](../Page/シカゴ・サンタイムズ.md "wikilink")』の[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")は玩具的なアプローチとMr.フリーズのつまらないジョークを批判した\[28\]。『[ロサンゼルス・タイムズ](../Page/ロサンゼルス・タイムズ.md "wikilink")』のは本作が[映画『バットマン』シリーズを](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")「殺した」と考え、また視覚効果に頼りすぎていると感じた\[29\]。『[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")』のはシュマッカーの方向性とゴールズマンの脚本を非難した\[30\]。『[サンフランシスコ・クロニクル](../Page/サンフランシスコ・クロニクル.md "wikilink")』のは、「ジョージ・クルーニーはこの映画におけるビッグ・ゼロであり、シリーズにおける[ジョージ・レーゼンビー](../Page/ジョージ・レーゼンビー.md "wikilink")として歴史に名を残すべきだ」と主張した\[31\]。一方で『[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")』のは肯定的な評価を与えた。彼女はユマ・サーマンの演技、映画の美術、衣裳デサインを称賛した\[32\]。
+シュマッカーとプロデューサーのピーター・マクレガー＝スコットは、本作の不評はワーナー・ブラザースが製作を急いだために起こったと主張した。「ワーナー・ブラザースは『バットマン & ロビン』をもっとファミリー・フレンドリーにするように圧力をかけてきた」とシュマッカーは説明した。また「我々はあまり重苦しくない『バットマン』映画にし、苦悩を減らし、よりヒロイックにすることに決めていた。それが理由で非難されていることは知っているが、私はそのアプローチに全く害は見いだせなかった」と述べた\[27\]。『[シカゴ・サンタイムズ](../Page/シカゴ・サンタイムズ.md "wikilink")』の[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")は玩具的なアプローチとMr.フリーズのつまらないジョークを批判した\[28\]。『[ロサンゼルス・タイムズ](../Page/ロサンゼルス・タイムズ.md "wikilink")』のは本作が[映画『バットマン』シリーズを](https://ja.wikipedia.org/wiki/バットマンの映画作品 "wikilink")「殺した」と考え、また視覚効果に頼りすぎていると感じた\[29\]。『[ワシントン・ポスト](../Page/ワシントン・ポスト.md "wikilink")』のはシュマッカーの方向性とゴールズマンの脚本を非難した\[30\]。『[サンフランシスコ・クロニクル](../Page/サンフランシスコ・クロニクル.md "wikilink")』のは、「ジョージ・クルーニーはこの映画におけるビッグ・ゼロであり、シリーズにおける[ジョージ・レーゼンビー](../Page/ジョージ・レーゼンビー.md "wikilink")として歴史に名を残すべきだ」と主張した\[31\]。一方で『[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")』のは肯定的な評価を与えた。彼女はユマ・サーマンの演技、映画の美術、衣裳デザインを称賛した\[32\]。
 
 多くのオブザーバーはシュマッカーが同性愛の暗示をストーリーに組み込んでいると考えた\[33\]。[ジェームズ・ベラーディネリ](https://ja.wikipedia.org/wiki/ジェームズ・ベラーディネリ "wikilink")はバットスーツの乳首や、尻や股間をクローズアップするカメラアングルに疑問を呈した\[34\]。前作『バットマン フォーエヴァー』でも同様にバットマンとロビンのスーツに乳首と[コッドピース](https://ja.wikipedia.org/wiki/コッドピース "wikilink")がつけられていた。シュマッカーは「私にはバットスーツとロビンのスーツに乳首を付けることが国際的な見出しを喚起することになるとは考えもしなかった。スーツは[古代ギリシャ彫刻から来ており](https://ja.wikipedia.org/wiki/ギリシア美術 "wikilink")、完璧な体を表示する。これらは解剖学的に正しい」と説明した\[35\]。[ジョージ・クルーニー](https://ja.wikipedia.org/wiki/ジョージ・クルーニー "wikilink")は「バットマンがゲイだから、ジョエル・シュマッカーは我々は別の『バットマン』映画を作ったことがないと僕に言った」とジョークを言った\[36\]。クルーニーはこの映画に批判的で、「私たちがフランチャイズを殺してしまったかもしれない」と語り\[37\]、また「金の無駄」とも呼んだ\[38\]。
 
@@ -416,7 +416,7 @@
   -
   -
   -
-[Category:バットマンの映画作品](https://ja.wikipedia.org/wiki/Category:バットマンの映画作品 "wikilink") [Category:1997年の映画](https://ja.wikipedia.org/wiki/Category:1997年の映画 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:アメリカ合衆国のアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアクション映画 "wikilink") [Category:アメリカ合衆国の特撮映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の特撮映画 "wikilink") [Category:アメリカ合衆国のバディムービー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のバディムービー "wikilink") [Category:オンタリオ州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:オンタリオ州で製作された映画作品 "wikilink") [Category:アキヴァ・ゴールズマンの作品](https://ja.wikipedia.org/wiki/Category:アキヴァ・ゴールズマンの作品 "wikilink") [Category:ジョエル・シュマッカーの監督映画](https://ja.wikipedia.org/wiki/Category:ジョエル・シュマッカーの監督映画 "wikilink") [Category:エリオット・ゴールデンサールの作曲映画](https://ja.wikipedia.org/wiki/Category:エリオット・ゴールデンサールの作曲映画 "wikilink") [Category:アキヴァ・ゴールズマンの脚本映画](https://ja.wikipedia.org/wiki/Category:アキヴァ・ゴールズマンの脚本映画 "wikilink") [Category:モントリオールで製作された映画作品](https://ja.wikipedia.org/wiki/Category:モントリオールで製作された映画作品 "wikilink")
+[Category:バットマンの映画作品](https://ja.wikipedia.org/wiki/Category:バットマンの映画作品 "wikilink") [Category:1997年の映画](https://ja.wikipedia.org/wiki/Category:1997年の映画 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:アメリカ合衆国のアクション映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のアクション映画 "wikilink") [Category:アメリカ合衆国の特撮映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の特撮映画 "wikilink") [Category:アメリカ合衆国のバディムービー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のバディムービー "wikilink") [Category:オンタリオ州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:オンタリオ州で製作された映画作品 "wikilink") [Category:ウィーンで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ウィーンで製作された映画作品 "wikilink") [Category:アキヴァ・ゴールズマンの作品](https://ja.wikipedia.org/wiki/Category:アキヴァ・ゴールズマンの作品 "wikilink") [Category:ジョエル・シュマッカーの監督映画](https://ja.wikipedia.org/wiki/Category:ジョエル・シュマッカーの監督映画 "wikilink") [Category:エリオット・ゴールデンサールの作曲映画](https://ja.wikipedia.org/wiki/Category:エリオット・ゴールデンサールの作曲映画 "wikilink") [Category:アキヴァ・ゴールズマンの脚本映画](https://ja.wikipedia.org/wiki/Category:アキヴァ・ゴールズマンの脚本映画 "wikilink") [Category:モントリオールで製作された映画作品](https://ja.wikipedia.org/wiki/Category:モントリオールで製作された映画作品 "wikilink")
 
 1.
 2.

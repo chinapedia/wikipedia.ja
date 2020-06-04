@@ -615,7 +615,7 @@
   - DF [ゲリア](https://ja.wikipedia.org/wiki/ジェイソン・ゲリア "wikilink") (2018年-、)
   - FW [アラン・ピニェイロ](https://ja.wikipedia.org/wiki/アラン・ロペス・ピニェイロ "wikilink") (2019年-、)
   - DF [ベラスケス](https://ja.wikipedia.org/wiki/ウィリアムス・ベラスケス "wikilink") (2019年、)
-  - FW [クレーベ](https://ja.wikipedia.org/wiki/クレーベル・ラウデ・ピニェイロ "wikilink") (2019年-、)
+  - FW [クレーベ](https://ja.wikipedia.org/wiki/クレーベル・ラウビ・ピニェイロ "wikilink") (2019年-、)
   - DF [張敏圭](../Page/張敏圭.md "wikilink") (チャン・ミンギュ) (2020年-、)
 
 ### [柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")

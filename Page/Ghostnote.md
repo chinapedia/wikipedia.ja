@@ -725,7 +725,7 @@ UPCH-1822(通常盤)</p></td>
 
   - [公式サイト](http://www.ghostnote.info/)
 
-  - [ソニー・ミュージックエンタテインメントによるページ](http://www.sonymusic.co.jp/Music/Arch/SMER/ghostnote/)
+  - [ソニー・ミュージックエンタテインメントによるページ](https://www.sonymusic.co.jp/artist/ghostnote/)
 
   - [オフィシャルブログ](https://ameblo.jp/ghostnote-blog/)
 

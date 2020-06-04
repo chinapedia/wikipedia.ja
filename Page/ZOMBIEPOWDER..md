@@ -1,13 +1,13 @@
 > この記事は[ZOMBIEPOWDER.](https://ja.wikipedia.org/wiki/ZOMBIEPOWDER.)から翻訳されています。
 
 
-『**ZOMBIEPOWDER.**』（ゾンビパウダー）は、[KBTIT](https://ja.wikipedia.org/wiki/KBTIT "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。話数カウントは「TRACK.n」である。
+『**ZOMBIEPOWDER.**』（ゾンビパウダー）は、[久保帯人](../Page/久保帯人.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。話数カウントは「TRACK.n」である。
 
 ## ストーリー
 
 ## 世界観・用語
 
-主な舞台は、ウィスター州と呼ばれる[西部劇](../Page/西部劇.md "wikilink")のような世界である。作中の[通貨](../Page/通貨.md "wikilink")単位はNEET 。
+主な舞台は、ウィスター州と呼ばれる[西部劇](../Page/西部劇.md "wikilink")のような世界である。作中の[通貨](../Page/通貨.md "wikilink")単位はニート。
 
   - ゾンビパウダー
     「ゾンビパウダー」とは、[死者を甦らせ](../Page/死体.md "wikilink")、生きている者を不死にする粉末である。世界中に散らばる12個の「死者の指輪」を集めて生成される。
@@ -21,7 +21,7 @@
 ### 主要人物
 
   - 芥火ガンマ/芥火完真（あくたび がんま）
-    本作品の主人公。通称「黒腕の死神」。22歳。「死者の指輪」を探して放浪しているS0級犯罪者で、賞金額は9億6千万NEETである。銀色の長髪に銀色のコートを着用し、右腕に銃弾や砲弾を弾くために黒い[鎧](https://ja.wikipedia.org/wiki/鎧 "wikilink")を直接打ち込んでいる。[チェーンソー](../Page/チェーンソー.md "wikilink")のような剣を武器にし、殺人剣「火輪斬術」を使う。粗暴であるが、女と子供には甘い。身長190.2cm・体重102kg(右腕の鎧込み)。11月28日生まれ。運動神経抜群だがスキーは苦手。車は[オープンカー](../Page/オープンカー.md "wikilink")にしか乗らない主義で、盗んだ車もすぐに[屋根](../Page/屋根.md "wikilink")を斬り落としていた。
+    本作品の主人公。通称「黒腕の死神」。22歳。「死者の指輪」を探して放浪しているS0級犯罪者で、賞金額は9億6千万ニートである。銀色の長髪に銀色のコートを着用し、右腕に銃弾や砲弾を弾くために黒い[鎧](https://ja.wikipedia.org/wiki/鎧 "wikilink")を直接打ち込んでいる。[チェーンソー](../Page/チェーンソー.md "wikilink")のような剣を武器にし、殺人剣「火輪斬術」を使う。粗暴であるが、女と子供には甘い。身長190.2cm・体重102kg(右腕の鎧込み)。11月28日生まれ。運動神経抜群だがスキーは苦手。車は[オープンカー](../Page/オープンカー.md "wikilink")にしか乗らない主義で、盗んだ車もすぐに[屋根](../Page/屋根.md "wikilink")を斬り落としていた。
   - ジョン・エルウッド・シェパード
     ガンマに同行する少年。13歳。[ナイフ投げ](https://ja.wikipedia.org/wiki/ナイフ投げ "wikilink")で戦う。姉・シェリルの治療費を稼ぐため、自分たちの店を潰したキンクロの下で[スリ](../Page/スリ.md "wikilink")を働いていた。射殺された姉をゾンビパウダーで生き返らせるためにガンマに同行する。姉の身の回りの世話をしていたため、家事ができて金銭感覚もしっかりしている他、食べ物の好き嫌いも全く無い。身長151cm・体重38kg。5月10日生まれ。
   - C.T.スミス
@@ -67,7 +67,7 @@
 #### その他
 
   - コルヴィン・ムジャータ・キンクロ
-    武装窃盗集団「グレイ・アンツ」のリーダー。でっぷりと太った巨漢で、賞金8000NEETのD1級犯罪者。シェパード家が経営していたドラッグストアを潰し、エルウッドにスリの仕方とナイフ投げを教えた。エルウッドがガンマと接触したのを知り、シェパード家に乱入し、シェリルを射殺する。「男らしく1対1での勝負」と自分で言っておきながら仲間全員でガンマに攻撃を仕掛けるが、その銃弾を全て素手で受け止める暴挙に出たガンマを見て部下たちは全員逃走。苦し紛れにバズーカで砲撃を仕掛けるがまるで相手にならず返り討ちにされてしまった。
+    武装窃盗集団「グレイ・アンツ」のリーダー。でっぷりと太った巨漢で、賞金8000ニートのD1級犯罪者。シェパード家が経営していたドラッグストアを潰し、エルウッドにスリの仕方とナイフ投げを教えた。エルウッドがガンマと接触したのを知り、シェパード家に乱入し、シェリルを射殺する。「男らしく1対1での勝負」と自分で言っておきながら仲間全員でガンマに攻撃を仕掛けるが、その銃弾を全て素手で受け止める暴挙に出たガンマを見て部下たちは全員逃走。苦し紛れにバズーカで砲撃を仕掛けるがまるで相手にならず返り討ちにされてしまった。
   - ダニエル・ルーベック＆ディラン・トービン
     大勢の仲間を殺され、ガンマを深く恨んでいる二人組。[鼻ピアス](https://ja.wikipedia.org/wiki/鼻ピアス "wikilink")をしているのがダニエルで、口髭が生えているのがディラン。ディランはガンマに体を真っ二つにされ死亡、ダニエルは右腕を切り落とされて逃亡する。
   - アントニオ・スカマンデロ
@@ -102,12 +102,12 @@
 1.  「Death In a Black Arm」2000年2月発売 ISBN 4-08-872828-9
 2.  「Can't Kiss The Ring」2000年4月発売 ISBN 4-08-872852-1
       -
-        読切作品「ULTRA UNHOLY HEARTED MACHINE」([KBNRAK](https://ja.wikipedia.org/wiki/KBTIT "wikilink"))収録
+        読切作品「ULTRA UNHOLY HEARTED MACHINE」([久保宣章](../Page/久保帯人.md "wikilink"))収録
 3.  「Pierce Me Standing」2000年6月 ISBN 4-08-872877-7
       -
-        読切作品「刻魔師 麗」(KBNRAK)収録
+        読切作品「刻魔師 麗」(久保宣章)収録
 4.  「Walk This Nameless Way」2000年8月 ISBN 4-08-872897-1
       -
-        読切作品「BAD SHIELD UNITED」(KBNRAK)収録
+        読切作品「BAD SHIELD UNITED」(久保宣章)収録
 
-[Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:KBTIT](https://ja.wikipedia.org/wiki/Category:KBTIT "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:サスペンス漫画](https://ja.wikipedia.org/wiki/Category:サスペンス漫画 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink")
+[Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:久保帯人](https://ja.wikipedia.org/wiki/Category:久保帯人 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:サスペンス漫画](https://ja.wikipedia.org/wiki/Category:サスペンス漫画 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink")

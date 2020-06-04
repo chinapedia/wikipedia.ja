@@ -23,11 +23,11 @@ Fourdanは開発を続け、Xfceはオリジナルなウィンドウマネージ
 
 ### 近年のXfce
 
-[Xfce-4.4.png](https://ja.wikipedia.org/wiki/File:Xfce-4.4.png "fig:Xfce-4.4.png") [2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")にリリースされたXfce 4.0.0では、使われるツールキットが[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink") 2にアップグレードされた\[4\]。4.2.0ではXfwmにコンポジティングマネージャが導入され、透過や影の描画、新しいデフォルトの[SVG](https://ja.wikipedia.org/wiki/SVG "wikilink")アイコンの導入などが行われた\[5\]。[2007年](../Page/2007年.md "wikilink")1月にはXfce 4.4.0がリリースされ、Xffmに変わって、新たにファイルマネージャとして[Thunar](../Page/Thunar.md "wikilink")が含まれた。Xfce 4.6.0は[2009年](../Page/2009年.md "wikilink")2月にリリースされ、新しい設定のバックエンド、新しい設定マネージャ、新しいサウンドミキサーが導入された。また、いくつかの重要な改善が設定マネージャと残りのXfceのcoreコンポーネントに対して行われた\[6\]。
+[right](https://ja.wikipedia.org/wiki/ファイル:Xfce-4.4.png "wikilink") [2003年](../Page/2003年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")にリリースされたXfce 4.0.0では、使われるツールキットが[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink") 2にアップグレードされた\[4\]。4.2.0ではXfwmにコンポジティングマネージャが導入され、透過や影の描画、新しいデフォルトの[SVG](https://ja.wikipedia.org/wiki/SVG "wikilink")アイコンの導入などが行われた\[5\]。[2007年](../Page/2007年.md "wikilink")1月にはXfce 4.4.0がリリースされ、Xffmに変わって、新たにファイルマネージャとして[Thunar](../Page/Thunar.md "wikilink")が含まれた。Xfce 4.6.0は[2009年](../Page/2009年.md "wikilink")2月にリリースされ、新しい設定のバックエンド、新しい設定マネージャ、新しいサウンドミキサーが導入された。また、いくつかの重要な改善が設定マネージャと残りのXfceのcoreコンポーネントに対して行われた\[6\]。
 
 [2011年](../Page/2011年.md "wikilink")1月には、Xfce 4.8.0がリリースされた。このバージョンはThunarVFSやHALをGIO、udev、ConsoleKitや[PolicyKit](https://ja.wikipedia.org/wiki/PolicyKit "wikilink")で置き換え、[SFTP](https://ja.wikipedia.org/wiki/SFTP "wikilink")、[SMB](https://ja.wikipedia.org/wiki/SMB "wikilink")、[FTP](https://ja.wikipedia.org/wiki/FTP "wikilink")などのプロトコルを用いてネットワーク共有をブラウジングすることができる新たなユーティリティが含まれた。
 
-Xfce4.10は、[2012年](../Page/2012年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")にリリースされた。このリリースの焦点は、ユーザーエクスペリエンスを向上させることであった\[7\]。続いて、Xfce 4.12は[2015年](../Page/2015年.md "wikilink")2月28日にリリースされた\[8\]。4.12のターゲットは、4.10リリース以後に新しく導入された技術を用いて、ユーザーエクスペリエンスを向上させることである。また、Xfce 4.12は、[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink")3へのアプリケーションとサポートするプラグイン、ブックマークのポートの移行を始めた。
+[right](https://ja.wikipedia.org/wiki/ファイル:XFCE-4.10-Desktop.png "wikilink") Xfce4.10は、[2012年](../Page/2012年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")にリリースされた。このリリースの焦点は、ユーザーエクスペリエンスを向上させることであった\[7\]。続いて、Xfce 4.12は[2015年](../Page/2015年.md "wikilink")2月28日にリリースされた\[8\]。4.12のターゲットは、4.10リリース以後に新しく導入された技術を用いて、ユーザーエクスペリエンスを向上させることである。また、Xfce 4.12は、[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink")3へのアプリケーションとサポートするプラグイン、ブックマークのポートの移行を始めた。
 
 Xfce 4.14は公式に[2019年](../Page/2019年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")にリリースされた\[9\]。このリリースのゴールは、dbus-glibへの依存をGDBusに置き換え、廃止されたいくつかのウィジェットを置き換えるなど、依然として残るcoreコンポーネントをGTK 2からGTK 3へポートすることであった。
 

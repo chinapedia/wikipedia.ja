@@ -1,9 +1,9 @@
 > この記事は[SunMin](https://ja.wikipedia.org/wiki/SunMin)から翻訳されています。
 
 
-**SunMin**（ソンミン、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月4日](../Page/6月4日.md "wikilink") - ）は、[大韓民国](../Page/大韓民国.md "wikilink")[大邱広域市](../Page/大邱広域市.md "wikilink")出身の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[身長](../Page/身長.md "wikilink")163[cm](../Page/センチメートル.md "wikilink")。
+**SunMin**（ソンミン、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月4日](../Page/6月4日.md "wikilink") - ）は、[大韓民国](../Page/大韓民国.md "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[身長](../Page/身長.md "wikilink")163[cm](../Page/センチメートル.md "wikilink")。
 
-憧れであったという[久保田利伸](../Page/久保田利伸.md "wikilink")との[コラボレートにより](../Page/コラボレーション.md "wikilink")、**SunMin thanX Kubota**名義で[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")『Keep Holding U』でデビュー。同年12月には『恋の奇跡』でソロデビュー。
+[大邱広域市](../Page/大邱広域市.md "wikilink")出身。憧れであったという[久保田利伸](../Page/久保田利伸.md "wikilink")との[コラボレートにより](../Page/コラボレーション.md "wikilink")、**SunMin thanX Kubota**名義で[2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")『Keep Holding U』でデビュー。同年12月には『恋の奇跡』でソロデビュー。
 
 ## 人物
 

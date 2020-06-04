@@ -1,7 +1,7 @@
 > この記事は[Vフォー・ヴェンデッタ \(映画\)](https://ja.wikipedia.org/wiki/Vフォー・ヴェンデッタ_\(映画\))から翻訳されています。
 
 
-『**Vフォー・ヴェンデッタ**』（原題: *V for Vendetta*）は、[2005年に製作された](../Page/2005年の映画.md "wikilink")[アメリカ](../Page/アメリカ合衆国の映画.md "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")・[ドイツ合作映画](https://ja.wikipedia.org/wiki/ドイツ映画 "wikilink")。[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")製作・配給。[アラン・ムーア](../Page/アラン・ムーア.md "wikilink")とのグラフィックノベル『[Vフォー・ヴェンデッタ](../Page/Vフォー・ヴェンデッタ.md "wikilink")』を原作としている。日本では[PG-12指定で公開された](../Page/映画のレイティングシステム.md "wikilink")。
+『**Vフォー・ヴェンデッタ**』（原題：*V for Vendetta*）は、[2005年に製作された](../Page/2005年の映画.md "wikilink")[アメリカ](../Page/アメリカ合衆国の映画.md "wikilink")・[イギリス](https://ja.wikipedia.org/wiki/イギリスの映画 "wikilink")・[ドイツ合作映画](https://ja.wikipedia.org/wiki/ドイツ映画 "wikilink")。[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")製作・配給。[アラン・ムーア](../Page/アラン・ムーア.md "wikilink")とのグラフィックノベル『[Vフォー・ヴェンデッタ](../Page/Vフォー・ヴェンデッタ.md "wikilink")』を原作としている。日本では[PG-12指定で公開された](../Page/映画のレイティングシステム.md "wikilink")。
 
 ## 概要
 
@@ -35,21 +35,21 @@
 
 ## キャスト
 
-[Principal_cast_of_V_for_Vendetta.jpg](https://ja.wikipedia.org/wiki/File:Principal_cast_of_V_for_Vendetta.jpg "fig:Principal_cast_of_V_for_Vendetta.jpg") ※括弧内は日本語吹き替え
+[Principal_cast_of_V_for_Vendetta.jpg](https://ja.wikipedia.org/wiki/File:Principal_cast_of_V_for_Vendetta.jpg "fig:Principal_cast_of_V_for_Vendetta.jpg") ※括弧内は日本語吹替
 
-  - V：[ヒューゴ・ウィーヴィング](../Page/ヒューゴ・ウィーヴィング.md "wikilink")（[菅生隆之](../Page/菅生隆之.md "wikilink")）
-  - イヴィー・ハモンド：[ナタリー・ポートマン](../Page/ナタリー・ポートマン.md "wikilink")（[浅野まゆみ](../Page/浅野まゆみ.md "wikilink")）
-  - エリック・フィンチ警視：[スティーヴン・レイ](../Page/スティーヴン・レイ.md "wikilink")（[屋良有作](../Page/屋良有作.md "wikilink")）
-  - アダム・サトラー首相：[ジョン・ハート](../Page/ジョン・ハート_\(俳優\).md "wikilink")（[中博史](../Page/中博史.md "wikilink")）
-  - ピーター・クリーディー：[ティム・ピゴット＝スミス](https://ja.wikipedia.org/wiki/ティム・ピゴット＝スミス "wikilink")（[佐々木勝彦](../Page/佐々木勝彦.md "wikilink")）
-  - ゴードン・ディートリッヒ：[スティーヴン・フライ](../Page/スティーヴン・フライ.md "wikilink")（[島香裕](../Page/島香裕.md "wikilink")）
-  - ルイス・プロセロ：[ロジャー・アラム](https://ja.wikipedia.org/wiki/ロジャー・アラム "wikilink")（[長克巳](../Page/長克巳.md "wikilink")）
-  - アンソニー・リリアン司教：[ジョン・スタンディング](https://ja.wikipedia.org/wiki/ジョン・スタンディング "wikilink")（[村松康雄](../Page/村松康雄.md "wikilink")）
-  - デリア・サリッジ：[シニード・キューザック](https://ja.wikipedia.org/wiki/シニード・キューザック "wikilink")（[沢田敏子](../Page/沢田敏子.md "wikilink")）
-  - ドミニク警部：[ルパート・グレイヴス](https://ja.wikipedia.org/wiki/ルパート・グレイヴス "wikilink")（[山野井仁](../Page/山野井仁.md "wikilink")）
-  - ダスコム：[ベン・マイルズ](https://ja.wikipedia.org/wiki/ベン・マイルズ "wikilink")（[成田剣](../Page/成田剣.md "wikilink")）
-  - ヴァレリー：[ナターシャ・ワイトマン](https://ja.wikipedia.org/wiki/ナターシャ・ワイトマン "wikilink")（[渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")）
-  - 若年時のヴァレリー：[イモージェン・プーツ](https://ja.wikipedia.org/wiki/イモージェン・プーツ "wikilink")
+  - イヴィー・ハモンド - [ナタリー・ポートマン](../Page/ナタリー・ポートマン.md "wikilink")（[浅野まゆみ](../Page/浅野まゆみ.md "wikilink")）
+  - V - [ヒューゴ・ウィーヴィング](../Page/ヒューゴ・ウィーヴィング.md "wikilink")（[菅生隆之](../Page/菅生隆之.md "wikilink")）
+  - エリック・フィンチ警視 - [スティーヴン・レイ](../Page/スティーヴン・レイ.md "wikilink")（[屋良有作](../Page/屋良有作.md "wikilink")）
+  - ゴードン・ディートリッヒ - [スティーヴン・フライ](../Page/スティーヴン・フライ.md "wikilink")（[島香裕](../Page/島香裕.md "wikilink")）
+  - アダム・サトラー首相 - [ジョン・ハート](../Page/ジョン・ハート_\(俳優\).md "wikilink")（[中博史](../Page/中博史.md "wikilink")）
+  - ピーター・クリーディー - [ティム・ピゴット＝スミス](https://ja.wikipedia.org/wiki/ティム・ピゴット＝スミス "wikilink")（[佐々木勝彦](../Page/佐々木勝彦.md "wikilink")）
+  - ドミニク警部 - [ルパート・グレイヴス](https://ja.wikipedia.org/wiki/ルパート・グレイヴス "wikilink")（[山野井仁](../Page/山野井仁.md "wikilink")）
+  - ルイス・プロセロ - ロジャー・アラム（[長克巳](../Page/長克巳.md "wikilink")）
+  - ダスコム - ベン・マイルズ（[成田剣](../Page/成田剣.md "wikilink")）
+  - デリア・サリッジ - [シニード・キューザック](https://ja.wikipedia.org/wiki/シニード・キューザック "wikilink")（[沢田敏子](../Page/沢田敏子.md "wikilink")）
+  - ヴァレリー - ナターシャ・ワイトマン（[渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")）
+  - アンソニー・リリマン司教 - ジョン・スタンディング（[村松康雄](../Page/村松康雄.md "wikilink")）
+  - 若年時のヴァレリー - [イモージェン・プーツ](https://ja.wikipedia.org/wiki/イモージェン・プーツ "wikilink")
 
 ## スタッフ
 

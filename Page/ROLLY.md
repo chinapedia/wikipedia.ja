@@ -293,6 +293,7 @@
 
 <!-- end list -->
 
+  - [未来泥棒](https://ja.wikipedia.org/wiki/Some_Dreams "wikilink")（[イヤホンズ](https://ja.wikipedia.org/wiki/イヤホンズ "wikilink")）※RUI（[永井ルイ](../Page/永井ルイ.md "wikilink")）との共同制作。
   - 木村の兄さん（[UMEZZ](../Page/楳図かずお.md "wikilink")）
   - 僕等のセンチュリー ([ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink"))
 

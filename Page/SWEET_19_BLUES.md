@@ -8,7 +8,7 @@
   - [1996年](../Page/1996年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
   - [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサルミュージックLLC](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）からリリースされた「[DANCE TRACKS VOL.1](https://ja.wikipedia.org/wiki/DANCE_TRACKS_VOL.1 "wikilink")」に続く2ndアルバム。avex traxに移籍後、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がプロデュース担当してから初のアルバム作品。
   - アルバム制作にはその他、当時の小室哲哉プロデュース楽曲には欠かせなかった[前田たかひろ](https://ja.wikipedia.org/wiki/前田たかひろ "wikilink")や[久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")、[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")（[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")）も参加した。
-  - 「SWEET 19 BLUES」、「...soon nineteen」のタイトル通り、当時もうすぐ19歳ということで、これに因んで19曲収録された。
+  - 「SWEET 19 BLUES」、「...soon nineteen」のタイトル通り、当時もうすぐ19歳ということに因んで19曲収録された。
   - [ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")が好きという安室の音楽の好みを尊重した[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")色の濃いアルバムに仕上がった。楽曲の間に短い[インタールード](https://ja.wikipedia.org/wiki/インタールード "wikilink")を挟む構成はジャネットの作品（「Rhythm Nation 1814」、「janet.」等）に倣ったものである。
   - 「[Don't wanna cry](../Page/Don't_wanna_cry.md "wikilink")」カップリング曲の「present」は、アルバムではセリフなしで新たに書き直された歌詞で収録された。作詞者の前田たかひろ曰く、シングルカップリング曲の続編というべきものがアルバム曲「present 2」。
   - 新曲・既存曲の新規録音の為に、海外のミュージシャンとマネジメントスタッフが来日し小室のプライベートスタジオに集合した\[1\]。
@@ -17,7 +17,8 @@
   - 100万枚プレスする毎に、ジャケットを変える[プロモーション方法も話題を呼んだ](../Page/宣伝.md "wikilink")（計4種類）。小室は「どうやったら彼女に近づけるか」というマニュアルを示すために安室はノーメイクで撮影に出てもらったという\[4\]。
   - タイトル曲の「[SWEET 19 BLUES](../Page/SWEET_19_BLUES_\(曲\).md "wikilink")」は、翌月8月にリカットされた。カップリング曲も同じくリカットの「Joy」。「Joy」は、m.c.A・T（富樫明生）との[デュエット](../Page/デュエット.md "wikilink")ナンバー。
   - [ヘッドフォン](../Page/ヘッドフォン.md "wikilink")をすると音が立体的に聞こえる、[NTTの音像定位技術を使ったトラックが存在する](../Page/日本電信電話.md "wikilink")。(M-1,2,3,19の計4曲）
-  - 初回出荷は305万枚\[5\]。累計出荷枚数は370万枚\[6\]。
+  - 初回出荷枚数は305万枚\[5\]。累計出荷枚数は370万枚\[6\]。
+  - 累計売上枚数は336.0万枚。
 
 ## チャート成績
 

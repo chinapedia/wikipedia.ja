@@ -38,6 +38,7 @@
 ### シングル
 
   - アンモナイト （2007年12月25日　ALOHA ATTACK RECORDS　AHACD-2）
+  - VooDoo Dancin' （2019年11月24日　ALOHA ATTACK RECORDS　AHACD-0006）
 
 ### DVD
 

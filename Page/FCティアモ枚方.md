@@ -5,7 +5,7 @@
 
 ## 概要
 
-2004年に[稲本潤一](../Page/稲本潤一.md "wikilink")・[新井場徹](../Page/新井場徹.md "wikilink")・[播戸竜二](../Page/播戸竜二.md "wikilink")の3選手が共同オーナーとなり設立されたサッカークラブ。3人ともに[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")時代のチームメイトであり、79年組（いわゆる[ゴールデンエイジ](../Page/黄金世代.md "wikilink")）の同期。なお、現在の事実上のオーナーは選手を引退した新井場のみで、他の二人は休止中（事実上は離脱）。
+2004年に[稲本潤一](../Page/稲本潤一.md "wikilink")・[新井場徹](../Page/新井場徹.md "wikilink")・[播戸竜二](../Page/播戸竜二.md "wikilink")の3選手が共同オーナーとなり設立されたサッカークラブ。3人ともに[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")時代のチームメイトであり、79年組（いわゆる[ゴールデンエイジ](../Page/黄金世代.md "wikilink")）の同期。なお、現在のオーナーは、事実上新井場のみである（稲本のみ現役生活を続行中）。
 
 ## 歴史
 
@@ -23,6 +23,7 @@
   - [2017年](../Page/2017年.md "wikilink") - 関西リーグ1部に再昇格。[第53回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第53回全国社会人サッカー選手権大会 "wikilink")で4位入賞し、[全国地域サッカーチャンピオンズリーグ2017](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2017 "wikilink")に出場。1次ラウンド3位で敗退した。
   - [2018年](../Page/2018年.md "wikilink") - [第54回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第54回全国社会人サッカー選手権大会 "wikilink")は初戦敗退。
   - [2019年](../Page/2019年.md "wikilink") - 関西リーグ1部では[おこしやす京都AC](../Page/おこしやす京都AC.md "wikilink")に勝点1及ばず2位となるも、[第55回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第55回全国社会人サッカー選手権大会 "wikilink")で優勝し、[全国地域サッカーチャンピオンズリーグ2019](https://ja.wikipedia.org/wiki/全国地域サッカーチャンピオンズリーグ2019 "wikilink")出場権を獲得する。グループBでは2連勝しグループ首位に立つも、最終戦[いわきFC](https://ja.wikipedia.org/wiki/いわきFC "wikilink")戦に2-4で敗れ2位に後退、各グループ2位同士の比較でも[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")に及ばず、決勝ラウンド進出および[JFL昇格を逃した](../Page/日本フットボールリーグ.md "wikilink")。
+  - [2020年](../Page/2020年.md "wikilink") - [巻佑樹](../Page/巻佑樹.md "wikilink")が[ゼネラルマネジャー](https://ja.wikipedia.org/wiki/ゼネラルマネジャー "wikilink")に就任\[3\]。
 
 ## クラブ名の由来
 
@@ -563,3 +564,4 @@ TAORU</a></p></td>
 
 1.
 2.
+3.

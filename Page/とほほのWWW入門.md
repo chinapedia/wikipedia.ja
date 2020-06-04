@@ -32,7 +32,7 @@ HTMLや[JavaScript](../Page/JavaScript.md "wikilink")・[CGI](../Page/Common_Gat
 
 [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:技術のウェブサイト](https://ja.wikipedia.org/wiki/Category:技術のウェブサイト "wikilink") [Category:1996年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:1996年開設のウェブサイト "wikilink")
 
-1.  [「娘に情報が古いと指摘されます」 老舗サイト「とほほのWWW入門」の管理人ってどんな人?](http://hrnabi.com/2017/11/17/15642/) HRナビ by リクルート、2017年11月17日
+1.  [「娘に情報が古いと指摘されます」 老舗サイト「とほほのWWW入門」の管理人ってどんな人?](http://hrnabi.com/2017/11/17/15642/) HRナビ by リクルート、2017年11月17日. リンク切れ
 2.  すがやみつる「おもしろサイト ホームページ自作派に味方」『朝日新聞』2001年1月12日付夕刊、6面（2版）。[縮刷版](https://ja.wikipedia.org/wiki/縮刷版 "wikilink")594頁。
 3.  『日経ネットナビ』2001年2月号、[日経BP](../Page/日経BP.md "wikilink")、237頁。
 4.  『あちゃら』2001年7月号、[リクルート](../Page/リクルートホールディングス.md "wikilink")、302頁。

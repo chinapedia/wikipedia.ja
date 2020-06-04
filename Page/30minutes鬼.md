@@ -154,6 +154,6 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.tv-tokyo.co.jp/30/)
+  - [公式サイト](https://www.tv-tokyo.co.jp/30/)
 
 [Category:テレビ東京土曜未明の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京土曜未明の深夜ドラマ "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink")

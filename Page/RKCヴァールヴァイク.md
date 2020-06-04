@@ -140,6 +140,12 @@ PlotData=
 
 ([第2主将](../Page/主将.md "wikilink"))
 
+  - 監督
+
+<!-- end list -->
+
+  - [フレット・フリム](https://ja.wikipedia.org/wiki/フレット・フリム "wikilink")
+
 ### ローン移籍
 
   - in
@@ -164,31 +170,29 @@ PlotData=
 
 ## 歴代所属選手
 
-  - [ハンス・ファン・デ・ハール](https://ja.wikipedia.org/wiki/ハンス・ファン・デ・ハール "wikilink")
+### GK
 
-  - [ピーター・ボス](../Page/ピーター・ボス.md "wikilink") 1985-1988
+  - [ロブ・ファン・ダイク](https://ja.wikipedia.org/wiki/ロブ・ファン・ダイク "wikilink") 1996-2003, 2005-2007
+
+  - [レイモンド・ファン・デル・ホーヴ](https://ja.wikipedia.org/wiki/レイモンド・ファン・デル・ホーヴ "wikilink") 2003-2004
+
+  - [イェルーン・ズート](https://ja.wikipedia.org/wiki/イェルーン・ズート "wikilink") 2011-2013
+
+### DF
 
   - [ジョバンニ・ファン・ブロンクホルスト](../Page/ジョバンニ・ファン・ブロンクホルスト.md "wikilink") 1993-1994
 
-  - [ゼリコ・ペトロビッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") 1994-1996 ,2000-2004
-
-  - [ロブ・ファン・ダイク](https://ja.wikipedia.org/wiki/ロブ・ファン・ダイク "wikilink") 1996-2003 ,2005-2007
-
   - [ミオドラグ・ボージョヴィッチ](../Page/ミオドラグ・ボージョヴィッチ.md "wikilink") 1997-1998
-
-  - [デニス・ロンメダール](../Page/デニス・ロンメダール.md "wikilink") 1997-1998
 
   - [ミヒャエル・ラメイ](../Page/ミヒャエル・ラメイ.md "wikilink") 2000-2002
 
-  - [ユーリ・ニキフォロフ](../Page/ユーリ・ニキフォロフ.md "wikilink") 2002-2003
-
   - [ハリド・ブラールズ](../Page/ハリド・ブラールズ.md "wikilink") 2002-2004
+
+  - [ユーリ・ニキフォロフ](../Page/ユーリ・ニキフォロフ.md "wikilink") 2002-2003
 
   - [トーマス・フェルメーレン](../Page/トーマス・フェルメーレン.md "wikilink") 2004-2005
 
-  - [マールテン・マルテンス](https://ja.wikipedia.org/wiki/マールテン・マルテンス "wikilink") 2004-2006
-
-  - [ミカエル・クローン＝デリ](../Page/ミカエル・クローン＝デリ.md "wikilink") 2004-2006
+  - [ライアン・ドンク](https://ja.wikipedia.org/wiki/ライアン・ドンク "wikilink") 2005-2006
 
   - [ジャンニ・ザイフェルローン](https://ja.wikipedia.org/wiki/ジャンニ・ザイフェルローン "wikilink") 2005-2006
 
@@ -196,7 +200,31 @@ PlotData=
 
   - [ユルゲン・コリン](https://ja.wikipedia.org/wiki/ユルゲン・コリン "wikilink") 2009-2010
 
+  - [クコ・マルティナ](https://ja.wikipedia.org/wiki/クコ・マルティナ "wikilink") 2011-2013
+
+  - [プランス＝デジル・グアノ](https://ja.wikipedia.org/wiki/プランス＝デジル・グアノ "wikilink") 2013-2014
+
+### MF
+
+  - [ピーター・ボス](../Page/ピーター・ボス.md "wikilink") 1985-1988
+
+  - [ゼリコ・ペトロビッチ](../Page/ゼリコ・ペトロビッチ.md "wikilink") 1994-1996 ,2000-2004
+
+  - [ミカエル・クローン＝デリ](../Page/ミカエル・クローン＝デリ.md "wikilink") 2004-2006
+
+  - [マールテン・マルテンス](https://ja.wikipedia.org/wiki/マールテン・マルテンス "wikilink") 2004-2006
+
   - [ヴラトコ・ラジッチ](https://ja.wikipedia.org/wiki/ヴラトコ・ラジッチ "wikilink") 2016-2017
+
+### FW
+
+  - [クリデ・ワインハルト](https://ja.wikipedia.org/wiki/クリデ・ワインハルト "wikilink")1995-1997
+
+  - [デニス・ロンメダール](../Page/デニス・ロンメダール.md "wikilink") 1997-1998
+
+  - [ロメオ・カステレン](../Page/ロメオ・カステレン.md "wikilink") 2013-2014
+
+  - [エミール・ハンソン](https://ja.wikipedia.org/wiki/エミール・ハンソン "wikilink") 2018-2019
 
 ## 脚注
 

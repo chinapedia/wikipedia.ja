@@ -1,7 +1,7 @@
 > この記事は[M \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/M_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**M**」（エム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の19th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『ℳ』はロゴ表記。
+「ℳ」（エム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の19th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『ℳ』はロゴ表記。
 
 [2001年](../Page/2001年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2003年](../Page/2003年.md "wikilink")に**Ayu**名義で発売（[M (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#M_\(Ayuの曲\) "wikilink")）。
 
@@ -15,32 +15,32 @@
 
 2001年[2月7日](../Page/2月7日.md "wikilink")には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")などを収めた同名の[DVD](../Page/DVD.md "wikilink")シングルが発売された。
 
-タイトルの『M』は、サビの部分が「**'MARIA' (マリア)**」の頭文字が由来とされていたが、実際は自身のプロデューサー[MAX MATSUURAこと](https://ja.wikipedia.org/wiki/MAX_MATSUURA "wikilink")、[エイベックス株式会社代表取締役会長CEOの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")であることを、[2019年](../Page/2019年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")発売の小説「[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")」（[小松成美](../Page/小松成美.md "wikilink")・著／[幻冬舎](../Page/幻冬舎.md "wikilink")）内において公表した。その際、「(当時)携帯電話の電話帳に愛する彼を「M」というイニシャルで登録をしていた」事を明かし、小説の最後には、「もしも誰かに『今回の人生で一生に一度きりだと思える大恋愛をしましたか？』と問われたなら私は何の迷いもなくこう答えるだろう。『はい。**自分の身を滅ぼすほど、ひとりの男性を愛しました**』と」と綴られている\[4\]。また、作者の小松がゲスト出演し、浜崎のエピソードが組まれた、[TBS系](../Page/TBSテレビ.md "wikilink")『[中居正広の金曜日のスマイルたちへ](../Page/中居正広の金曜日のスマイルたちへ.md "wikilink")』が放送された2019年10月11日の[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")デイリーシングルチャートでは上位にランクインした。2020年4月18日からは、[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[ABEMAの共同制作によりドラマ化され](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")、テレビ朝日系列では[土曜ナイトドラマ枠](../Page/土曜ナイトドラマ_\(テレビ朝日\).md "wikilink")、ABEMA SPECIALチャンネルでは日曜22時枠にて放送・配信された。
+タイトルの『ℳ』は、サビの部分が「**MARIA (マリア)**」の頭文字が由来とされていたが、実際は自身のプロデューサー[MAX MATSUURAこと](https://ja.wikipedia.org/wiki/MAX_MATSUURA "wikilink")、[エイベックス株式会社代表取締役会長CEOの](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")であることを、[2019年](../Page/2019年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")発売の小説「[ℳ 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")」（[小松成美](../Page/小松成美.md "wikilink")・著／[幻冬舎](../Page/幻冬舎.md "wikilink")）内において公表した。その際、「(当時)携帯電話の電話帳に愛する彼を「M」というイニシャルで登録をしていた」事を明かし、小説の最後には、「もしも誰かに『今回の人生で一生に一度きりだと思える大恋愛をしましたか？』と問われたなら私は何の迷いもなくこう答えるだろう。『はい。**自分の身を滅ぼすほど、ひとりの男性を愛しました**』と」と綴られている\[4\]。また、作者の小松がゲスト出演し、浜崎のエピソードが組まれた、[TBS系](../Page/TBSテレビ.md "wikilink")『[中居正広の金曜日のスマイルたちへ](../Page/中居正広の金曜日のスマイルたちへ.md "wikilink")』が放送された2019年10月11日の[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")デイリーシングルチャートでは上位にランクインした。2020年4月18日からは、[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[ABEMAの共同制作によりドラマ化され](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")、テレビ朝日系列では[土曜ナイトドラマ枠](../Page/土曜ナイトドラマ_\(テレビ朝日\).md "wikilink")、ABEMA SPECIALチャンネルでは日曜22時枠にて放送・配信された。
 
 ## 収録曲
 
 ### CD
 
-1.  **M "Original Mix"**　
+1.  **ℳ "Original Mix"**　
       -
         [作詞](../Page/作詞.md "wikilink")：ayumi hamasaki / [作曲](../Page/作曲.md "wikilink")：[CREA](../Page/浜崎あゆみ.md "wikilink") / [編曲](../Page/編曲.md "wikilink")：[HΛL](../Page/HΛL.md "wikilink")
         [ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海[CMソング](../Page/コマーシャルソング.md "wikilink")
-        テレビ朝日×[Ameba TV共同制作](https://ja.wikipedia.org/wiki/Ameba_TV "wikilink") 土曜ナイトドラマ「M 愛すべき人がいて」主題歌
-2.  **M "Dub's Hard Pop Remix"**
+        テレビ朝日×[Ameba TV共同制作](https://ja.wikipedia.org/wiki/Ameba_TV "wikilink") 土曜ナイトドラマ「[M 愛すべき人がいて](../Page/M_愛すべき人がいて.md "wikilink")」主題歌
+2.  **ℳ "Dub's Hard Pop Remix"**
 3.  **[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink") "Yuta's weather report mix"**
-4.  **M "nicely nice winter parade remix"**
+4.  **ℳ "nicely nice winter parade remix"**
 5.  **[Far away](https://ja.wikipedia.org/wiki/Far_away "wikilink") "[Laugh & Peace](../Page/Laugh_and_Peace.md "wikilink") MIX"**
-6.  **M "REWIRED MIX"**
-7.  **M "SMOKERS MIX"**
-8.  **M "RANK-M Mix"**
-9.  **M "NEUROTIC EYE'S Mix"**
-10. **M "Original Mix -Instrumental-"**
+6.  **ℳ m"REWIRED MIX"**
+7.  **ℳ "SMOKERS MIX"**
+8.  **ℳ "RANK-M Mix"**
+9.  **ℳ NEUROTIC EYE'S Mix"**
+10. **ℳ "Original Mix -Instrumental-"**
 
 ### DVD-Audio/アナログ盤
 
-1.  **M "Dub's Hard Pop Remix"**
-2.  **M "nicely nice winter parade remix"**
-3.  **M "Original Mix"**
+1.  **ℳ "Dub's Hard Pop Remix"**
+2.  **ℳ "nicely nice winter parade remix"**
+3.  **ℳ "Original Mix"**
 
 ## 収録アルバム
 
@@ -60,9 +60,9 @@
 
 ### 収録曲
 
-1.  **M (Video Clip)**
-2.  **M (TV-CM)**
-3.  **M making of**
+1.  **ℳ (Video Clip)**
+2.  **ℳ (TV-CM)**
+3.  **ℳ making of**
 
 ## M (Ayuの曲)
 

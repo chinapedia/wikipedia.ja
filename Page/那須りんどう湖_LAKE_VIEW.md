@@ -355,7 +355,7 @@
   - PON\!（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年9月17日放送
   - [首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")（NHK） - 2018年10月2日放送
   - [グッド\!モーニング](https://ja.wikipedia.org/wiki/グッド!モーニング_\(テレビ番組\) "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）[依田司](https://ja.wikipedia.org/wiki/依田司 "wikilink")のお天気中継 - 2018年10月16日放送
-  - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年12月27日放送
+  - [スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年12月27日放送
   - [マツコの知らない世界](https://ja.wikipedia.org/wiki/マツコの知らない世界 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 2019年2月5日放送
   - [フルーツ宅配便](https://ja.wikipedia.org/wiki/フルーツ宅配便 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）[ドラマ24](../Page/ドラマ24.md "wikilink") - 2019年2月8日放送
   - [この差って何ですか?](https://ja.wikipedia.org/wiki/この差って何ですか? "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）-2019年3月19日放送

@@ -110,6 +110,10 @@
 
 <references />
 
+## 外部リンク
+
+  - [作品紹介ページ ULTRA BLUE](http://www.utadahikaru.jp/music/album/title_10.html)
+
 [Category:宇多田ヒカルのアルバム](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:Virgin_Musicのアルバム](https://ja.wikipedia.org/wiki/Category:Virgin_Musicのアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
 1.

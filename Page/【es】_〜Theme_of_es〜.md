@@ -40,7 +40,7 @@
     <!-- end list -->
       -
         4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』収録曲の「雨のち晴れ」の[リミックス](../Page/リミックス.md "wikilink")バージョン。桜井による日記朗読のような間奏部分も入っている。
-        演奏時間はMr.Childrenのスタジオレコーディング曲の中では最長である（全ての音源では、36thシングル『[ヒカリノアトリエ](https://ja.wikipedia.org/wiki/ヒカリノアトリエ "wikilink")』収録の[シークレット・トラック](https://ja.wikipedia.org/wiki/シークレット・トラック "wikilink")「Over（弾き+語り Version）」が最長）。
+        演奏時間はMr.Childrenのスタジオレコーディング曲の中では最長である（全ての音源では、36thシングル『[ヒカリノアトリエ](https://ja.wikipedia.org/wiki/ヒカリノアトリエ "wikilink")』収録の[シークレット・トラック](../Page/隠しトラック.md "wikilink")「Over（弾き+語り Version）」が最長）。
         このバージョンは映画『【es】Mr.Children in FILM』でも確認できるように、『Mr.Children '94 tour innocent world』でのライヴバージョンとして製作されたもので、元々音源化する予定はなかったが、映画内で使用されていることや、このバージョンが好評であったことなどから収録された。
         ライブでは寸劇スタイルを取り、実際に生演奏されるのは最後の2分半ほどで、それまではほぼテープ演奏によるものである。寸劇内容は歌詞の内容をそのまま表現したもの。
 

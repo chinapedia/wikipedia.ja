@@ -7,13 +7,13 @@
 
 「[花葬](../Page/花葬.md "wikilink")」、「[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")」の2作と合わせ、**シングル3作同時発売**された内の一作。
 
-オリコン週間シングルチャートでは、初登場は2位\[1\]だったが翌週に首位を獲得し、「[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")」から3作連続3作目のオリコンシングルチャート首位獲得となった。さらに、L'Arc〜en〜Cielのシングル作品としては、初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した\[2\]。また、累計売上は123.8万枚を記録し、L'Arc〜en〜CielのCDシングル作品では最大の売上となった。
+オリコン週間シングルチャートでは、初登場は2位\[1\]だったが翌週に首位を獲得し、「[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")」から3作連続3作目のオリコンシングルチャート首位獲得となった。さらに、L'Arc〜en〜Cielのシングル作品としては、初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した\[2\]。また、累計売上は123.8万枚を記録し、L'Arc〜en〜CielのCDシングル作品では最大の売上となった。なお、[プラネット週間シングルチャートでは初登場](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")1位を記録している\[3\]。
 
 この3作同時発売は当時としては非常に稀なことでマスコミなどの各メディアでとり上げられた。また、この頃より映像ディレクターの[箭内道彦](../Page/箭内道彦.md "wikilink")がテレビCM、新聞広告のディレクションに携わるようになった。本作リリース前に放映されたCMでは、[プロレスラー](../Page/プロレスラー.md "wikilink")の[藤原喜明](../Page/藤原喜明.md "wikilink")が刑事役で出演している。[2019年](../Page/2019年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")にはこのCMをセルフリメイフし、公式YouTubeチャンネルを開設することを発表。開設に合わせ、本楽曲と「花葬」、「浸食 〜lose control〜」の3曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")同時公開が行われた。
 
 [カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")曲には、本作と同時発売の「花葬」が収録される予定だった。しかし、スタッフの案でシングル3作同時発売を行うこととなり、同曲がシングルカットされたために本作には表題曲のみの収録となっている。
 
-[2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に行われた、所属事務所主催によるイベント「[JACK IN THE BOX 2007](https://ja.wikipedia.org/wiki/JACK_IN_THE_BOX_\(イベント\) "wikilink")」にて、hydeと[TERU](../Page/TERU.md "wikilink")・[TAKURO](../Page/TAKURO.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）が「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」と共にセッションした\[3\]。また、[2016年](../Page/2016年.md "wikilink")にはhydeと親交の深い、ロックバンド・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")のボーカル、[DAIGO](../Page/DAIGO.md "wikilink")と[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")・[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")の結婚式において、hydeとGLAYメンバー4人が本楽曲を披露している。
+[2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に行われた、所属事務所主催によるイベント「[JACK IN THE BOX 2007](https://ja.wikipedia.org/wiki/JACK_IN_THE_BOX_\(イベント\) "wikilink")」にて、hydeと[TERU](../Page/TERU.md "wikilink")・[TAKURO](../Page/TAKURO.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）が「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」と共にセッションした\[4\]。また、[2016年](../Page/2016年.md "wikilink")にはhydeと親交の深い、ロックバンド・[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")のボーカル、[DAIGO](../Page/DAIGO.md "wikilink")と[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")・[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")の結婚式において、hydeとGLAYメンバー4人が本楽曲を披露している。
 
 ## 収録曲
 
@@ -23,13 +23,13 @@
       -
         「[NTTパーソナル](../Page/NTTパーソナル.md "wikilink")関西」CMソング、及び[TBS系番組](../Page/TBSテレビ.md "wikilink")『[スーパーサッカー](../Page/スーパーサッカー_\(TBSのサッカー番組\).md "wikilink")』エンディングテーマ。
         [2016年](../Page/2016年.md "wikilink")には[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[BS11系アニメ](../Page/日本BS放送.md "wikilink")『[ReLIFE](https://ja.wikipedia.org/wiki/ReLIFE "wikilink")』第4話エンディングテーマに起用された。
-        [オーバーダビング](https://ja.wikipedia.org/wiki/オーバーダビング "wikilink")も少ない上、シンセサイザーによるアレンジもなく、シンプルに[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムというバンドサウンドだけで構成されており](../Page/ドラムセット.md "wikilink")、L'Arc〜en〜Cielのシングル作品としては珍しい楽曲となっている\[4\]。また、[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")として予定されたスケジュールで完成した為\[5\]、後年のインタビューでメンバーは「レコーディングの記憶があまりない\[6\]」と述べている。
-        kenは普段[ストラト・シェイプのギターを使用しているが](../Page/フェンダー・ストラトキャスター.md "wikilink")、この曲のレコーディングでは初めて[フェンダー・カスタム・ショップ製の](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ジャズマスターを使用している](../Page/フェンダー・ジャズマスター.md "wikilink")。また、共同プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")はこの曲のkenのギター・プレイについて、「ギターだけ取り出してみると「HONEY」に聴こえないんですよ。このギター1本でアレンジの柱ができていて、普通のバー・コードだけで弾いている曲だったら、あんなカッコいい曲にはなっていなかったと思います\[7\]」「ある種のラテンとかボサノバみたいなものを感じます\[8\]」と評している。
+        [オーバーダビング](https://ja.wikipedia.org/wiki/オーバーダビング "wikilink")も少ない上、シンセサイザーによるアレンジもなく、シンプルに[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムというバンドサウンドだけで構成されており](../Page/ドラムセット.md "wikilink")、L'Arc〜en〜Cielのシングル作品としては珍しい楽曲となっている\[5\]。また、[プリプロダクション](https://ja.wikipedia.org/wiki/プリプロダクション "wikilink")として予定されたスケジュールで完成した為\[6\]、後年のインタビューでメンバーは「レコーディングの記憶があまりない\[7\]」と述べている。
+        kenは普段[ストラト・シェイプのギターを使用しているが](../Page/フェンダー・ストラトキャスター.md "wikilink")、この曲のレコーディングでは初めて[フェンダー・カスタム・ショップ製の](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ジャズマスターを使用している](../Page/フェンダー・ジャズマスター.md "wikilink")。また、共同プロデューサーの[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")はこの曲のkenのギター・プレイについて、「ギターだけ取り出してみると「HONEY」に聴こえないんですよ。このギター1本でアレンジの柱ができていて、普通のバー・コードだけで弾いている曲だったら、あんなカッコいい曲にはなっていなかったと思います\[8\]」「ある種のラテンとかボサノバみたいなものを感じます\[9\]」と評している。
         ちなみに、1998年3月から行われたファンクラブイベント「[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")・アン・シエル」で訪れた[ホノルル](../Page/ホノルル.md "wikilink")で、hydeが夕日を見ながらこの曲を書き上げたことから、「ホノルルの夕べ」という仮タイトルが付けられていた。また、この曲で『[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")』に初出場を果たしている。
         後に、パートチェンジバンド[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")でリアレンジされ、30thシングル「[SEVENTH HEAVEN](../Page/SEVENTH_HEAVEN_\(L'Arc〜en〜Cielの曲\).md "wikilink")」のカップリングに収録している。
         [2015年](../Page/2015年.md "wikilink")にはアコースティックにリアレンジされ、40thシングル「[Wings Flap](https://ja.wikipedia.org/wiki/Wings_Flap "wikilink")」「HONEY -L'Acoustic version-」としてとして収録されている。
         また、[2019年](../Page/2019年.md "wikilink")にはHYDEがソロシングル「[MAD QUALIA](https://ja.wikipedia.org/wiki/MAD_QUALIA "wikilink")」のカップリングで楽曲をリアレンジしセルフカバーした。
-        [2018年](../Page/2018年.md "wikilink")に開催された[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")「[VIVA LA ROCK 2018](https://ja.wikipedia.org/wiki/VIVA_LA_ROCK "wikilink")」にて、山中拓也（[THE ORAL CIGARETTES](https://ja.wikipedia.org/wiki/THE_ORAL_CIGARETTES "wikilink")）がセッションバンド、"VIVA LA J-ROCK ANTHEMS"\[9\]として本楽曲をカバーしている\[10\]。
+        [2018年](../Page/2018年.md "wikilink")に開催された[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")「[VIVA LA ROCK 2018](https://ja.wikipedia.org/wiki/VIVA_LA_ROCK "wikilink")」にて、山中拓也（[THE ORAL CIGARETTES](https://ja.wikipedia.org/wiki/THE_ORAL_CIGARETTES "wikilink")）がセッションバンド、"VIVA LA J-ROCK ANTHEMS"\[10\]として本楽曲をカバーしている\[11\]。
 
 ## 参加ミュージシャン
 
@@ -89,11 +89,12 @@
 
 1.  1位は[B'z](../Page/B'z.md "wikilink")の「[HOME](../Page/HOME_\(B'zの曲\).md "wikilink")」だったが、累計売上は本作や「花葬」が上回っている。
 2.  アルバム作品のミリオンセラーは[1996年](../Page/1996年.md "wikilink")発売の4thアルバム『[True](../Page/True_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』で記録。
-3.  他のセッションメンバーは、ギター,弐（[ギルガメッシュ](https://ja.wikipedia.org/wiki/girugämesh "wikilink")）、ベース,明希（[シド](../Page/シド_\(バンド\).md "wikilink")）、ドラム,[SATOち](https://ja.wikipedia.org/wiki/SATOち "wikilink")（[ムック](../Page/MUCC.md "wikilink")）。
-4.  『ray 15th Anniversary Expanded Edition』特典DVD、[2006年](../Page/2006年.md "wikilink")
-5.
-6.  ラジオ番組『[やまだひさしのラジアンリミテッドDX](../Page/やまだひさしのラジアンリミテッドDX.md "wikilink")』2004年3月3日放送分
-7.  『音楽プロデューサー 岡野ハジメ エンサイクロペディア CATHARSIS OF MUSIC』、p.155、[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")、2019年
-8.
-9.  他のセッションメンバーは、ベース,[亀田誠治](../Page/亀田誠治.md "wikilink")、ギター,加藤隆志（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）、ギター,津野米咲（[赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")）、ドラム,ピエール中野（[凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")）
-10. [VIVA LA J-ROCK ANTHEMS【Ba:亀田誠治/Gt:加藤隆志(東京スカパラダイスオーケストラ)/Gt:津野米咲(赤い公園)/Dr:ピエール中野(凛として時雨) 】](https://vivalarock.jp/2018/report/vivala-jrock-anthems.html) - VIVA LA ROCK 2018 Flash Report
+3.  [Weekly Chart-SINGLE 98.7.6 - 7.12](https://web.archive.org/web/19991021235300/http://www.pnet.co.jp/chart/weekly/single98/ws0713c.htm)、プラネット Music Information Center（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+4.  他のセッションメンバーは、ギター,弐（[ギルガメッシュ](https://ja.wikipedia.org/wiki/girugämesh "wikilink")）、ベース,明希（[シド](../Page/シド_\(バンド\).md "wikilink")）、ドラム,[SATOち](https://ja.wikipedia.org/wiki/SATOち "wikilink")（[ムック](../Page/MUCC.md "wikilink")）。
+5.  『ray 15th Anniversary Expanded Edition』特典DVD、[2006年](../Page/2006年.md "wikilink")
+6.
+7.  ラジオ番組『[やまだひさしのラジアンリミテッドDX](../Page/やまだひさしのラジアンリミテッドDX.md "wikilink")』2004年3月3日放送分
+8.  『音楽プロデューサー 岡野ハジメ エンサイクロペディア CATHARSIS OF MUSIC』、p.155、[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")、2019年
+9.
+10. 他のセッションメンバーは、ベース,[亀田誠治](../Page/亀田誠治.md "wikilink")、ギター,加藤隆志（[東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")）、ギター,津野米咲（[赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")）、ドラム,ピエール中野（[凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")）
+11. [VIVA LA J-ROCK ANTHEMS【Ba:亀田誠治/Gt:加藤隆志(東京スカパラダイスオーケストラ)/Gt:津野米咲(赤い公園)/Dr:ピエール中野(凛として時雨) 】](https://vivalarock.jp/2018/report/vivala-jrock-anthems.html) - VIVA LA ROCK 2018 Flash Report

@@ -25,7 +25,7 @@
 
 本枠はローカルセールス枠に近い扱い（一部地域のみスポンサードネット）であったため、[朝日放送は深夜に時差ネットしていたが](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")、のちに独立放送局の[KBS京都と](../Page/京都放送.md "wikilink")[サンテレビに移行していた](../Page/サンテレビジョン.md "wikilink")。また[名古屋テレビでは当初](../Page/名古屋テレビ放送.md "wikilink")「[ドラゴンズ倶楽部](https://ja.wikipedia.org/wiki/ドラゴンズ倶楽部 "wikilink")」が始まったため同時ネットできず、「[花のヨシモト金シャチTV](https://ja.wikipedia.org/wiki/花のヨシモト金シャチTV "wikilink")」の放送開始に伴い打ち切られた。それ以外のテレビ朝日系列局は途中開局のネット局を除き番組開始から放送していた。
 
-系列外の[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")や[テレビ山梨](../Page/テレビ山梨.md "wikilink")・[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")\[1\]・[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")、[山陰中央テレビでもネットされていた時期がある](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")。また、[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")が開局するまでは、[石川テレビでもネットされていた](../Page/石川テレビ放送.md "wikilink")。
+系列外の[秋田放送](../Page/秋田放送.md "wikilink")や[テレビ山梨](../Page/テレビ山梨.md "wikilink")・[北日本放送](../Page/北日本放送.md "wikilink")\[1\]・[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")、[山陰中央テレビでもネットされていた時期がある](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")。また、[北陸朝日放送](../Page/北陸朝日放送.md "wikilink")が開局するまでは、[石川テレビでもネットされていた](../Page/石川テレビ放送.md "wikilink")。
 
 ## 出演者
 

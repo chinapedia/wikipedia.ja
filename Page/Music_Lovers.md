@@ -1238,7 +1238,7 @@ flumpool</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a> (ABS)</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a> (ABS)</p></td>
 <td><p>×</p></td>
 <td></td>
 <td></td>
@@ -1287,7 +1287,7 @@ flumpool</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a> (KNB)</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a> (KNB)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1441,7 +1441,7 @@ flumpool</p></td>
   -
   - [Mラバ+ for auスマートパス](http://pass.auone.jp/app/detail?app_id=5944700000003)
 
-[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビの音楽番組](https://ja.wikipedia.org/wiki/Category:日本テレビの音楽番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:Androidのソフトウェア](https://ja.wikipedia.org/wiki/Category:Androidのソフトウェア "wikilink") [Category:KDDIグループの歴史](https://ja.wikipedia.org/wiki/Category:KDDIグループの歴史 "wikilink")
+[Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:日本テレビの音楽番組](https://ja.wikipedia.org/wiki/Category:日本テレビの音楽番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:Androidのソフトウェア](https://ja.wikipedia.org/wiki/Category:Androidのソフトウェア "wikilink") [Category:KDDI一社提供番組](https://ja.wikipedia.org/wiki/Category:KDDI一社提供番組 "wikilink")
 
 1.
 2.  出演アーティストが好きなタレントを呼ぶこともある。

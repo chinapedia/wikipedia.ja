@@ -1,7 +1,7 @@
 > この記事は[彩 〜Aja〜](https://ja.wikipedia.org/wiki/彩_〜Aja〜)から翻訳されています。
 
 
-「**彩 〜Aja〜**」（あや）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の48枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**彩 〜Aja〜**」（あや）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の48作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に発売された。
 
 ## 背景・リリース
 

@@ -37,6 +37,6 @@
 
 ## 外部リンク
 
-  - [宮里藍のビッグゴルフ in USA：テレビ東京](http://www.tv-tokyo.co.jp/biggolf/) - 公式サイト
+  - [宮里藍のビッグゴルフ in USA：テレビ東京](https://www.tv-tokyo.co.jp/biggolf/) - 公式サイト
 
 [Category:テレビ東京の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の番組の歴史 "wikilink") [Category:テレビ東京のゴルフ番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のゴルフ番組 "wikilink") [Category:テレビ東京のローカル番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のローカル番組 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:アメリカ合衆国を舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたテレビ番組 "wikilink") [Category:三菱電機の歴史](https://ja.wikipedia.org/wiki/Category:三菱電機の歴史 "wikilink") [Category:久光製薬](https://ja.wikipedia.org/wiki/Category:久光製薬 "wikilink")

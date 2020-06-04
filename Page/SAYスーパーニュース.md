@@ -52,7 +52,7 @@
   - [海野麻美](https://ja.wikipedia.org/wiki/海野麻美 "wikilink")（当時アナウンサー。天気予報担当）
   - [遠藤敦子](../Page/遠藤敦子.md "wikilink")（現報道部主任。土曜日・日曜日キャスター→天気予報担当→平日サブキャスター）
   - [武藤悠代](https://ja.wikipedia.org/wiki/武藤悠代 "wikilink")（当時アナウンサーで[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")契約キャスターでもあった。天気予報担当）
-  - [安井成行](https://ja.wikipedia.org/wiki/安井成行 "wikilink")（現[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")アナウンサー。週刊スポーツ担当）
+  - [安井成行](https://ja.wikipedia.org/wiki/安井成行 "wikilink")（現[長崎放送](../Page/長崎放送.md "wikilink")アナウンサー。週刊スポーツ担当）
   - [鈴木智子](https://ja.wikipedia.org/wiki/小岩智子 "wikilink")（現[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")アナウンサー。平日サブキャスター。2005年8月1日-）
   - [吉田菜穂](https://ja.wikipedia.org/wiki/吉田菜穂 "wikilink")（当時アナウンサー。月曜日の天気予報担当）
   - [草野真梨子](https://ja.wikipedia.org/wiki/草野真梨子 "wikilink")（当時アナウンサー。サブキャスター。）

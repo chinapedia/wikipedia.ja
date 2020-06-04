@@ -1,7 +1,7 @@
 > この記事は[C調言葉に御用心](https://ja.wikipedia.org/wiki/C調言葉に御用心)から翻訳されています。
 
 
-「**C調言葉に御用心**」（シーちょうことばにごようじん）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1979年](../Page/1979年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。
+「**C調言葉に御用心**」（シーちょうことばにごようじん）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の5作目の[シングル](../Page/シングル.md "wikilink")として、[Invitationから](../Page/Invitation_\(レーベル\).md "wikilink")[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1979年](../Page/1979年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。
 
 [1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](../Page/コンパクトディスク.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
 

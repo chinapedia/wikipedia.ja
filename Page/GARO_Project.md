@@ -32,6 +32,6 @@
 
   - [SAMURAI GUITAR SPIRITS](http://www.espguitars.co.jp/gallery/kyomoto/)
   - [トライスクルエンタテイメント](http://www.tricycle.co.jp/)
-  - [テレビ東京公式HP](http://www.tv-tokyo.co.jp/garo/)
+  - [テレビ東京公式HP](https://www.tv-tokyo.co.jp/garo/)
 
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:牙狼-GARO-](https://ja.wikipedia.org/wiki/Category:牙狼-GARO- "wikilink")

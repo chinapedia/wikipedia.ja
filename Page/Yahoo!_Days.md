@@ -1,9 +1,9 @@
 > この記事は[Yahoo! Days](https://ja.wikipedia.org/wiki/Yahoo!_Days)から翻訳されています。
 
 
-**Yahoo\! Days**（ヤフーデイズ）は、[Yahoo\! JAPANが運営する](../Page/Yahoo!_JAPAN.md "wikilink")[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")(SNS)。[2006年](../Page/2006年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")提供開始。
+**Yahoo\! Days**（ヤフーデイズ）は、かつて[Yahoo\! JAPANが運営していた](../Page/Yahoo!_JAPAN.md "wikilink")[ソーシャル・ネットワーキング・サービス](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")(SNS)。
 
-当初は、当時米[Yahoo\!](../Page/Yahoo!.md "wikilink")が提供していた[SNS](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")「**Yahoo\! 360°**」と同じ名称を仮に使用していた。日本独自のサービス名を公募により決め、2006年[7月31日](../Page/7月31日.md "wikilink")よりYahoo\! Daysと改名した。\[1\]\[2\]
+[2006年](../Page/2006年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に提供を開始した。当初は、当時米[Yahoo\!](../Page/Yahoo!.md "wikilink")が提供していた[SNS](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")「**Yahoo\! 360°**」と同じ名称を仮に使用していた。日本独自のサービス名を公募により決め、2006年[7月31日](../Page/7月31日.md "wikilink")よりYahoo\! Daysと改名した。\[1\]\[2\]
 
 2008年2月13日から招待制が廃止され、Yahoo\! JAPAN IDを取得していれば誰でも参加できるように変更された。
 
@@ -11,12 +11,11 @@
 
 ## サービス
 
-  - 開始時の報道発表では、2006年5月中旬からは[Yahoo\! BB会員または](../Page/Yahoo!_BB.md "wikilink")[Yahoo\!プレミアム](https://ja.wikipedia.org/wiki/Yahoo!プレミアム "wikilink")会員ならば、招待されなくても利用登録が可能と報じられたが、延期を繰り返し、同年7月末のYahoo\! Daysへの名称変更とともに登録可能になった。
-  - そのため、「友だち」（他のSNSでは「マイフレンド」などと呼称される）がゼロのユーザ（Yahoo\! BB会員、Yahoo\!プレミアム会員、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")[パケット](../Page/パケット.md "wikilink")対応機種契約者）と、招待を受けて登録したユーザ（「友だち」が一人以上存在する）が混在している。
-  - 自分の参加コミュニティや友だちに[タグ](../Page/タギング_\(コンピュータ\).md "wikilink")（分類のための単語。メタデータ）を非公開でつけることができ、タグ単位での日記の個別公開などが可能である。
-  - テレビ番組や著名人に関する「公式コミュニティ」が多数存在する。
-  - なお、米国のYahoo\!が運営するSNSの名称はYahoo\! 360°のまま、サービスを終了した。なお、後継のサービスとして[Yahoo\! PULSEのサービスを行っている](https://ja.wikipedia.org/wiki/Yahoo!_PULSE "wikilink")。
-  - 一度退会すると、同じIDでは再度入会することが出来ない仕様となっている\[3\]。
+開始時の報道発表では、2006年5月中旬からは[Yahoo\! BB会員または](../Page/Yahoo!_BB.md "wikilink")[Yahoo\!プレミアム](https://ja.wikipedia.org/wiki/Yahoo!プレミアム "wikilink")会員ならば、招待されなくても利用登録が可能と報じられたが、延期を繰り返し、同年7月末のYahoo\! Daysへの名称変更とともに登録可能になった。そのため、「友だち」（他のSNSでは「マイフレンド」などと呼称される）がゼロのユーザ（Yahoo\! BB会員、Yahoo\!プレミアム会員、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")[パケット](../Page/パケット.md "wikilink")対応機種契約者）と、招待を受けて登録したユーザ（「友だち」が一人以上存在する）が混在している。なお、一度退会すると同じIDでは再度入会することが出来ない仕様となっている\[3\]。
+
+自分の参加コミュニティや友だちに[タグ](../Page/タギング_\(コンピュータ\).md "wikilink")（分類のための単語。メタデータ）を非公開でつけることができ、タグ単位での日記の個別公開などが可能である。テレビ番組や著名人に関する「公式コミュニティ」が多数存在する。
+
+米国のYahoo\!が運営するSNSの名称はYahoo\! 360°のままサービスを終了し、後継のサービスとして[Yahoo\! PULSEのサービスを行っている](https://ja.wikipedia.org/wiki/Yahoo!_PULSE "wikilink")。
 
 ## 脚注
 

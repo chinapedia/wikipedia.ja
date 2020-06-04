@@ -160,6 +160,10 @@ PlotData=
 
   - [グレン・ローフェンス](https://ja.wikipedia.org/wiki/グレン・ローフェンス "wikilink") 2003-2004
 
+  - [カリド・カラミ](https://ja.wikipedia.org/wiki/カリド・カラミ "wikilink") 2013-2018
+
+  - [ジェフリー・フォルテス](https://ja.wikipedia.org/wiki/ジェフリー・フォルテス "wikilink") 2016-2020
+
 ### MF
 
   - [ア・デモス](../Page/ア・デモス.md "wikilink") 1970-1973

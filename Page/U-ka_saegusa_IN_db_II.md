@@ -72,7 +72,7 @@
   - 小澤正澄 - ギター（\#1,2,4,6,7,9,11）
   - [綿貫正顕](../Page/綿貫正顕.md "wikilink") - ギター（\#3）
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス（\#2,4,5,8,10）
-  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - コーラス（\#1,7,11）
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")） - コーラス（\#1,7,11）
   - 徳永暁人（doa） - コーラス（\#9）
 
 [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:三枝夕夏_IN_dbのアルバム](https://ja.wikipedia.org/wiki/Category:三枝夕夏_IN_dbのアルバム "wikilink") [Category:長戸大幸プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:長戸大幸プロデュースのアルバム "wikilink")

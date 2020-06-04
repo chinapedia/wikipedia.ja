@@ -87,8 +87,10 @@
   - 多様体 *M* 上の滑らかな[ベクトル場](../Page/ベクトル場.md "wikilink")全体 \(\mathfrak{X}(M)\)
   - 会社・商品
       - [USスチール](../Page/USスチール.md "wikilink")社の[ニューヨーク証券取引所](../Page/ニューヨーク証券取引所.md "wikilink")[証券コード](../Page/証券コード.md "wikilink")（[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")）。
-  - 機械
+  - 機械・装置
       - 実験・試作・研究・記録用の機械にXネームが付けられる例が多い。（[Xプレーン](../Page/Xプレーン.md "wikilink")など）
+
+      - \- フィンランドの[サルカンニエミ](https://ja.wikipedia.org/wiki/サルカンニエミ "wikilink")にあるアトラクション。
   - タイトル
       - [X (漫画)](../Page/X_\(漫画\).md "wikilink") - [CLAMP](../Page/CLAMP.md "wikilink")の漫画作品。
       - [X (ゲーム)](../Page/X_\(ゲーム\).md "wikilink") - [任天堂](../Page/任天堂.md "wikilink")の[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用シューティングゲーム。

@@ -1,13 +1,13 @@
 > この記事は[KI \(稲葉浩志のシングル\)](https://ja.wikipedia.org/wiki/KI_\(稲葉浩志のシングル\))から翻訳されています。
 
 
-「**KI**」（ケイアイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[2003年](../Page/2003年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")にリリースした、2作目の[シングル](../Page/シングル.md "wikilink")。
+『**KI**』（ケイアイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の[ボーカリスト](../Page/歌手.md "wikilink")・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の2作目の[シングル](../Page/シングル.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")に[VERMILLION RECORDSより発売された](../Page/VERMILLION_RECORDS.md "wikilink")。
 
 ## 概要
 
 前年発売のアルバム『[志庵](../Page/志庵.md "wikilink")』に続き発売されたソロ2作目のシングル。シングルとしては前作から5年ぶりの作品となった。
 
-新曲3曲にメイン曲「AKATSUKI」のヴァージョン違い2曲の計5曲が収録されている。
+新曲3曲にメイン曲「AKATSUKI」のバージョン違い2曲の計5曲が収録されている。
 
 タイトルは稲葉のイニシャル。当初は「AKATSUKI」を表題曲としたシングルを予定していたが、後に「I'm on fire」ができ、曲のタイトルではなくトリプルA面を彷彿させるような全体のパッケージで何かという稲葉の意向により現在のタイトルになった\[1\]。
 

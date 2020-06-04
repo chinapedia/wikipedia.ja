@@ -1,7 +1,7 @@
 > この記事は[DJ OZMA](https://ja.wikipedia.org/wiki/DJ_OZMA)から翻訳されています。
 
 
-**DJ OZMA**（ディージェイ オズマ、[1976年](../Page/1976年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")\[1\] - ）は、「[氣志團](../Page/氣志團.md "wikilink")」のヴォーカル兼リーダーの[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")が扮する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。[所属事務所は](../Page/芸能事務所.md "wikilink")[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。正式な本名、生年、出身地は「非公表」と設定されている。
+**DJ OZMA**（ディージェイ オズマ、[4月26日](../Page/4月26日.md "wikilink")\[1\] - ）は、「[氣志團](../Page/氣志團.md "wikilink")」のヴォーカル兼リーダーの[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")が扮する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")。[所属事務所は](../Page/芸能事務所.md "wikilink")[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。正式な本名、生年、出身地は「非公表」と設定されている。
 
 当初は扮する綾小路翔の「知人」という設定だった。しかし、2013年11月17日放送のトーク番組「[おしゃれイズム](../Page/おしゃれイズム.md "wikilink")」（日本テレビ系）に出演した綾小路が「OZMAと同一人物」である事を認めた\[2\]。
 

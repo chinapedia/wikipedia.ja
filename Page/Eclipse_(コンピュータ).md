@@ -7,7 +7,7 @@ Novaが[PDP-8](../Page/PDP-8.md "wikilink")に対する改善とした場合、E
 
 製造上の問題により、Eclipseは[1970年代](../Page/1970年代.md "wikilink")後半には数々の訴訟の対象となった。データゼネラルの多くの顧客がこの新しいマシンを予約注文したにも関わらず、納入されることがなかったのである。多くの顧客が一年以上待ち続けた末にデータゼネラルを訴え、他の顧客は単に注文を取り消して他のメーカーに流れた。Eclipse は Nova の後継として、発売の翌年には当時の Nova 3 シリーズを縮小/販売停止していく予定だった。しかし、需要が高いために Nova 4 が発売された。当然ながら、その背景には Eclipse の製造問題がある。
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、16ビットの Eclipse シリーズは 32ビットの [Eclipse MV/8000](https://ja.wikipedia.org/wiki/Eclipse_MV/8000 "wikilink") に置き換えられた。1981年、MV/8000 の開発にまつわる話をまとめた『超マシン誕生』*Soul of a New Machine* (トレイシー・キダー著)が出版され、[ピューリッツァー賞](../Page/ピューリッツァー賞.md "wikilink")を受賞している。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、16ビットの Eclipse シリーズは 32ビットの [Eclipse MV/8000](https://ja.wikipedia.org/wiki/Eclipse_MV/8000 "wikilink") に置き換えられた。1981年、MV/8000 の開発にまつわる話をまとめた『[超マシン誕生](https://ja.wikipedia.org/wiki/超マシン誕生 "wikilink")』*Soul of a New Machine* (トレイシー・キダー著)が出版され、[ピューリッツァー賞](../Page/ピューリッツァー賞.md "wikilink")を受賞している。
 
 Eclipse(＝日食)という名称は、データゼネラルの当時の社員の高校生の息子 James Gossel が名づけたと言われている。
 

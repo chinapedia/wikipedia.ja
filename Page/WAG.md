@@ -275,7 +275,7 @@ ICR-009</p></td>
 ## 関連項目
 
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")([doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink"))（作曲：「Just wanna be」「TIME WAITS FOR NO ONE」「吹きすさぶ風の中で」「Don't look back again」等、編曲も多数。）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")([doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink"))（作曲：「Just wanna be」「TIME WAITS FOR NO ONE」「吹きすさぶ風の中で」「Don't look back again」等、編曲も多数。）
   - [AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")([GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")) - 「Free Magic」「悲しみの雨」を作詞。
   - [北浦正尚](../Page/北浦正尚.md "wikilink") - 「All For Your Love」を作曲。
   - [三枝夕夏](../Page/三枝夕夏.md "wikilink") - 「吹きすさぶ風の中で」を作詞。

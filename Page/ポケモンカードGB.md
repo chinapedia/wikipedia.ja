@@ -80,6 +80,6 @@
   -
   - [ポケモンカードGB2 GR団参上！](https://www.pokemon.co.jp/game/other/gbc-gr/)
 
-[Category:ポケットモンスター関連のゲームソフト](https://ja.wikipedia.org/wiki/Category:ポケットモンスター関連のゲームソフト "wikilink") [Category:カードバトルゲーム](https://ja.wikipedia.org/wiki/Category:カードバトルゲーム "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1998年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1998年のコンピュータゲーム "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink")
+[Category:ポケットモンスターのスピンオフゲーム](https://ja.wikipedia.org/wiki/Category:ポケットモンスターのスピンオフゲーム "wikilink") [Category:カードバトルゲーム](https://ja.wikipedia.org/wiki/Category:カードバトルゲーム "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1998年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1998年のコンピュータゲーム "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink")
 
 1.  M.B.MOOK『懐かしゲームボーイパーフェクトガイド』 (ISBN 9784866400259)、88ページ

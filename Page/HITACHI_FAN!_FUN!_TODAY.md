@@ -11,7 +11,7 @@
 
 なお、当番組のネット局は編成上の都合から生放送同時ネットは不可能であった\[2\]。ニッポン放送ではこれに対応するため、別に録音版を毎週水・木曜日に収録、翌週分としてNRNラインで配信していた（但し、ゲスト出演回などの一部は生放送分を編集して送出）。ネット局向けはニッポン放送と違い、月曜から金曜までの放送（放送時間は同じく30分）であったが、放送時間は午前0時からとは限らず各局で異なっていた。
 
-なお、（ニッポン放送においては）金曜は放送していないという「編成上の都合」を利用して、[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")金曜深夜の放送開始が4月1日00:00であることから、同年の[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")特別企画として、裏番組である『[SURF\&SNOW](../Page/SURF&SNOW_\(ラジオ番組\).md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）に上柳が出演するという大胆な相互乗り入れ企画を行ったこともある。
+珍しい企画としては、ニッポン放送においては金曜深夜は放送していないという「編成上の都合」を利用して、また、[1989年](../Page/1989年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")金曜深夜の放送開始が4月1日00:00であることから、同年の[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")特別企画として、裏番組である『[SURF\&SNOW](../Page/SURF&SNOW_\(ラジオ番組\).md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）に上柳が出演するという大胆な相互乗り入れ企画を行ったこともある。
 
 前番組の『ミュージック・イン（・ハイフォニック）』はほぼトーク無しでテーマに沿って予め決められたセットリストの音楽を次々に流し続ける音楽番組だったが、本番組は音楽情報番組と大幅に内容が刷新された。上柳によると『SURF\&SNOW』を担当していた[松宮一彦](../Page/松宮一彦.md "wikilink")（当時TBSアナウンサー）とライブ会場で会うと「ベースの音」や「照明のタイミング」を細かくメモに取りながら聞いている姿を目にしており、「これはとても真似できない」と思い、『ミュージック・イン』に似た構成でもあった上述のDJスタイルではなく、「とにかくミュージシャンにスタジオに来てもらって、できるだけ音楽の話は聞かないで他の話題で盛り上がる」というかなり姑息な手段を止む無く選んだと定年退職後に出した著書で回想している\[3\]。
 
@@ -80,7 +80,7 @@
 <li><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>、24:00 - 24:30（月 - 木）</li>
 <li><a href="../Page/HBCラジオ.md" title="wikilink">北海道放送</a>、23:30 - 24:00</li>
 <li><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>、23:00 - 23:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>、22:00 - 22:30</li>
+<li><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a>、23:30 - 24:00</li>
 <li><a href="../Page/山形放送.md" title="wikilink">山形放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/東北放送.md" title="wikilink">東北放送</a>、23:00 - 23:30</li>
@@ -92,7 +92,7 @@
 </ul></td>
 <td><ul>
 <li><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ</a> - 22:30 - 23:00</li>
-<li><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>、23:00 - 23:30</li>
+<li><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>、23:00 - 23:30</li>
 <li><a href="../Page/福井放送.md" title="wikilink">福井放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>、23:00 - 23:30</li>
@@ -109,7 +109,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/高知放送" title="wikilink">高知放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>、23:30 - 24:00</li>
 <li><a href="../Page/大分放送.md" title="wikilink">大分放送</a>、22:00 - 22:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>、23:00 - 23:30</li>
+<li><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a>、22:00 - 22:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a>、23:00 - 23:30</li>

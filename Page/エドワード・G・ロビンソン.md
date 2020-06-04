@@ -213,7 +213,7 @@
 </tr>
 <tr class="even">
 <td><p>1943</p></td>
-<td><p>肉體と幻想<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/肉体と幻想" title="wikilink">肉体と幻想</a><br />
 '' Flesh and Fantasy''</p></td>
 <td><p>タイラー</p></td>
 <td></td>

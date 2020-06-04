@@ -33,7 +33,7 @@
 ## 関連情報
 
   - [2009年](../Page/2009年.md "wikilink")に[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[歌手](../Page/歌手.md "wikilink")の[王心凌](../Page/王心凌.md "wikilink")が「[心電心](https://ja.wikipedia.org/wiki/心電心 "wikilink")」という題名で[カバー](../Page/カバー.md "wikilink")している。
-  - [プロ野球選手](../Page/プロ野球選手.md "wikilink")の[石井琢朗](https://ja.wikipedia.org/wiki/石井琢朗 "wikilink")が[横浜ベイスターズに所属していたうちの](../Page/横浜DeNAベイスターズ.md "wikilink")[2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで、選手登場曲として使用していた。
+  - [プロ野球選手](../Page/プロ野球選手.md "wikilink")の[石井琢朗](../Page/石井琢朗.md "wikilink")が[横浜ベイスターズに所属していたうちの](../Page/横浜DeNAベイスターズ.md "wikilink")[2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")まで、選手登場曲として使用していた。
 
 ### 収録アルバム
 

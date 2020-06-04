@@ -30,28 +30,16 @@
   - 性格ブス検定
       -
         女性ゲストが恋愛のシチュエーションでどんな行動を取るかをテストし、恋愛に対する価値観や体験談を聞くコーナー。ゲストのほか、ママやフロアレディも挑戦する。
-
-<!-- end list -->
-
   - ショータイム
       -
         茶番劇と称するミニコントを前振りとして、友近ママやフロアレディ、時にはオーナーが歌を披露する。少し懐かしめの歌謡曲が多い。
-
-<!-- end list -->
-
   - 女ごころ
       -
         番組内の[ミニドラマ](https://ja.wikipedia.org/wiki/コーナードラマ "wikilink")。友近ママとチーママ青木さやかの隠された秘密を軸にした物語だったようだが、後述の事情でチーママが準レギュラーの座を外れたため、筋書きがはっきりする前に未完に終わり、まさに茶番劇となった。その後、「女ごころ～昭和」と題し、オーナーの祖父の代の話として、戦前のGoro's Bar（「丸吾屋」というカフェ）を描く筋書きで復活したが、2話しか放送されなかった。
-
-<!-- end list -->
-
   - 河本プレゼンツ企画
       -
         河本マネージャーによる、クイズやゲーム、フロアレディの失恋エピソード披露などの企画コーナー。ただし河本マネージャーはカレーライスの福神漬程度にしか影響力を持たないと言われる。
         この企画コーナーでは、占い芸人の[小笠原まさや](https://ja.wikipedia.org/wiki/小笠原まさや "wikilink")、心理研究家の[亜門虹彦](../Page/亜門虹彦.md "wikilink")、美容整形医の[福田慶三](https://ja.wikipedia.org/wiki/福田慶三 "wikilink")などがVTRで出演する。「バーの常連客」という設定らしい。オーナーやボーイ井上が筋金入りのガンダムマニアということもあり、『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』をテーマにした企画もいくつか行われている。2006年12月7日放送回では、2人とゲストの[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")がガンダムの名ゼリフを当てるガンダムクイズなるものを行った。この際井上は[アムロ・レイ](../Page/アムロ・レイ.md "wikilink")のコスプレで登場した。
-
-<!-- end list -->
-
   - ロケ企画
       -
         特別企画としてごく稀にロケを行うこともある。
@@ -354,7 +342,7 @@
   - [9月18日](../Page/9月18日.md "wikilink")：[はるな愛](../Page/はるな愛.md "wikilink")
   - [9月25日](../Page/9月25日.md "wikilink")：（未公開映像蔵出し総集編）
   - [10月16日](../Page/10月16日.md "wikilink")：[長谷川京子](https://ja.wikipedia.org/wiki/長谷川京子 "wikilink")
-  - [10月23日](../Page/10月23日.md "wikilink")：[青田典子](../Page/青田典子.md "wikilink")、[高部あい](../Page/高部あい.md "wikilink")、[橋本愛実](https://ja.wikipedia.org/wiki/橋本愛実 "wikilink")、[和泉佳子](https://ja.wikipedia.org/wiki/和泉佳子 "wikilink")
+  - [10月23日](../Page/10月23日.md "wikilink")：[青田典子](../Page/青田典子.md "wikilink")、[高部あい](../Page/高部あい.md "wikilink")、[橋本愛実](../Page/橋本マナミ.md "wikilink")、[和泉佳子](https://ja.wikipedia.org/wiki/和泉佳子 "wikilink")
   - [10月30日](../Page/10月30日.md "wikilink")：[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")、[佐田真由美](../Page/佐田真由美.md "wikilink")
   - [11月7日](../Page/11月7日.md "wikilink")：[長谷川理恵](https://ja.wikipedia.org/wiki/長谷川理恵 "wikilink")
   - [11月13日](../Page/11月13日.md "wikilink")：辺見えみり

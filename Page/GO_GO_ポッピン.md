@@ -77,6 +77,6 @@
 
 ## 外部リンク
 
-  - [キャラっと@HAPPY ティンパ（GO GO ポッピン）](http://www.kyoto-np.co.jp/info/chara/070226.html)、[京都新聞](../Page/京都新聞.md "wikilink")。（2007年2月26日付夕刊掲載）
+  - 、[京都新聞](../Page/京都新聞.md "wikilink")。（2007年2月26日付夕刊掲載）
 
 [Category:KBS京都のテレビ帯番組](https://ja.wikipedia.org/wiki/Category:KBS京都のテレビ帯番組 "wikilink") [Category:ローカルテレビ局の教育番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の教育番組 "wikilink") [Category:ローカルテレビ局の子供向け番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の子供向け番組 "wikilink") [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink")

@@ -55,7 +55,7 @@
     Dr. HAYAMIに[トマトジュース](../Page/トマトジュース.md "wikilink")を輸血され、現在では人畜無害な昼型人間になっている。哀愁とユーモラスさを併せ持つ、医学界のなりきり男。誕生日・星座は不明。身長183cm。イメージカラーはレッド。
   - 弓岡蔵人（ゆみおか くらんど）
     声 - [森田成一](../Page/森田成一.md "wikilink")
-    [江戸時代](../Page/江戸時代.md "wikilink")から[タイムスリップ](https://ja.wikipedia.org/wiki/タイムスリップ "wikilink")した[侍](../Page/侍.md "wikilink")ドクター。見るものすべてが[カルチャーショック](https://ja.wikipedia.org/wiki/カルチャーショック "wikilink")で、あらゆるものから刺激を受けている。実は赤ん坊の時に江戸時代に現れ、「神隠し」からぬ「神現れ」として大切に育てられた。
+    [江戸時代](../Page/江戸時代.md "wikilink")から[タイムスリップ](https://ja.wikipedia.org/wiki/タイムスリップ "wikilink")した[侍](../Page/侍.md "wikilink")ドクター。見るものすべてが[カルチャーショック](../Page/カルチャーショック.md "wikilink")で、あらゆるものから刺激を受けている。実は赤ん坊の時に江戸時代に現れ、「神隠し」からぬ「神現れ」として大切に育てられた。
     13号医局では[蘭方医](https://ja.wikipedia.org/wiki/蘭方医 "wikilink")として腕を振るう。正義感が強く、実直で朴訥な性格。愛称は「ユーミン」。[11月1日](../Page/11月1日.md "wikilink")生まれの[蠍座](https://ja.wikipedia.org/wiki/蠍座 "wikilink")。身長180cm。イメージカラーはブラック。
   - 三条光孝（さんじょう みつたか）
     声 - [平川大輔](../Page/平川大輔.md "wikilink")

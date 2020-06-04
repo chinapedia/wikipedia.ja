@@ -100,7 +100,7 @@
   - 2010年: [アンドリュー・ビタビ](https://ja.wikipedia.org/wiki/アンドリュー・ビタビ "wikilink")
   - 2011年: [モリス・チャン](../Page/モリス・チャン.md "wikilink")
   - 2012年: [ジョン・ヘネシー](../Page/ジョン・ヘネシー.md "wikilink")
-  - 2013年: [:en:Irwin M. Jacobs](https://ja.wikipedia.org/wiki/:en:Irwin_M._Jacobs "wikilink")
+  - 2013年: [アーウィン・M・ジェイコブス](https://ja.wikipedia.org/wiki/アーウィン・M・ジェイコブス "wikilink")
   - 2014年: [:en:B. Jayant Baliga](https://ja.wikipedia.org/wiki/:en:B._Jayant_Baliga "wikilink")
   - 2015年: [:en:Mildred Dresselhaus](https://ja.wikipedia.org/wiki/:en:Mildred_Dresselhaus "wikilink")
   - 2016年: [:en:Dave Forney](https://ja.wikipedia.org/wiki/:en:Dave_Forney "wikilink")

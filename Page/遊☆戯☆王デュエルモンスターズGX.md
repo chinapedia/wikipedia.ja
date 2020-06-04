@@ -2319,7 +2319,7 @@ You Bong Hyun</p></td>
 
 ## 外部リンク
 
-  - [公式サイト](http://www.tv-tokyo.co.jp/anime/yugioh2004/)
+  - [公式サイト](https://www.tv-tokyo.co.jp/anime/yugioh2004/)
   - [遊戯王KONAMI総合サイト（ゲーム公式サイト）](http://www.konami.jp/yugioh/)
   - [NAS 遊☆戯☆王デュエルモンスターズGX](http://www.nasinc.co.jp/jp/index.php?action=USER.WORKS.DETAIL&master_id=41&mm_category)
 

@@ -281,7 +281,7 @@
 <td><p><a href="../Page/ラジャ・カサブランカ.md" title="wikilink">ラジャ・カサブランカ</a></p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
-<td><p>2003</p></td>
+<td><p>2003,2018</p></td>
 <td><p>2018</p></td>
 </tr>
 <tr class="even">

@@ -49,6 +49,6 @@
 
 ## 外部リンク
 
-  - [F1GPニュース](http://www.fujitv.co.jp/otn/b_hp/910200017.html)
+  - [F1GPニュース](https://otn.fujitv.co.jp/b_hp/910200017.html)
 
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink") [Category:日本のモータースポーツ番組](https://ja.wikipedia.org/wiki/Category:日本のモータースポーツ番組 "wikilink") [Category:フォーミュラ1](https://ja.wikipedia.org/wiki/Category:フォーミュラ1 "wikilink")

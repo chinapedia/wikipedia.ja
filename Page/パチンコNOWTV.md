@@ -168,7 +168,7 @@
 <td style="text-align: center;"><p>3日遅れ</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a> (NBC)</p></td>
+<td style="text-align: center;"><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a> (NBC)</p></td>
 <td style="text-align: center;"><p>木曜 25:40～25:55</p></td>
 <td style="text-align: center;"><p>4日遅れ</p></td>
 <td style="text-align: center;"></td>
@@ -192,7 +192,7 @@
 <td style="text-align: center;"><p>6日遅れ</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a> (ABS)</p></td>
+<td style="text-align: center;"><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a> (ABS)</p></td>
 <td style="text-align: center;"><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
 <td style="text-align: center;"><p>土曜 24:50～25:05</p></td>
 <td style="text-align: center;"></td>

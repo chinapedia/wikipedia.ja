@@ -3,7 +3,7 @@
 
 『**pure soul**』（ピュア・ソウル）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")のメジャー4作目のオリジナルアルバム。及び本作の収録曲の1つである。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")にプラチナム・レコードよりリリースされた。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")にmustard/UNLIMITED RECORDSよりリリースされた。本作より[YOSHIKI](../Page/YOSHIKI.md "wikilink")の[プラチナム・レコード](../Page/プラチナム・レコード.md "wikilink")から、新たに設立されたアンリミテッドレコードに移籍した為、規格品番がPOCH-8001に採番されている。 音楽出版権は当初エクスタシーミュージックが管理していたが、現在はGLAYの個人事務所lover soulに移管されている。
 
 ## 解説
 

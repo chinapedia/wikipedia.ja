@@ -117,6 +117,9 @@
   - [CHIKUZEN SATO](../Page/佐藤竹善.md "wikilink") : background vocals
   - YASUHIRO KIDO : background vocals
   - KIYOSHI HIYAMA : background vocals
+
+{{-}}
+
   - CHIKUZEN SATO - [SING LIKE TALKING](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")
 
 ### 恋は大騒ぎ

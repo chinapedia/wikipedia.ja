@@ -5,31 +5,30 @@
 
 ## 現メンバー
 
-  - 品川洋（しながわ ひろし、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）Vocal, Guitar、札幌市出身
-  - 大野量平（おおの りょうへい、[1982年](../Page/1982年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - ）Bass, Chorus、札幌市出身
+  - 品川洋（しながわ ひろし、[1981年](../Page/1981年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - ）Vocal, Guitar、札幌市出身。
+  - 大野量平（おおの りょうへい、[1982年](../Page/1982年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - ）Bass, Chorus、札幌市出身。
 
 ### 休養中
 
-  - 杉村博樹（すぎむら ひろき、[1979年](../Page/1979年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - ）Guitar, Chorus\*2012年3月15日無期限休養、石狩市出身
+  - 杉村博樹（すぎむら ひろき、[1979年](../Page/1979年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") - ）Guitar, Chorus、石狩市出身。2012年3月15日無期限休養。
 
 ## サポートメンバー
 
-  - 北山秀一（きたやま しゅういち、1982年11月18日）Guitar,Chorus\*Waterlineで活動中、三笠市出身
+  - 北山秀一（きたやま しゅういち、1982年11月18日）Guitar,Chorus、三笠市出身。Waterlineで活動中。
 
 ## 脱退
 
-  - 神田直樹（かんだ なおき、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月22日](../Page/8月22日.md "wikilink") - ）Drum 2003年加入、札幌市出身\*2014.11/2にて脱退
+  - 神田直樹（かんだ なおき、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月22日](../Page/8月22日.md "wikilink") - ）Drum 2003年加入、札幌市出身。2014.11/2にて脱退。
 
 ## 来歴
 
-幼馴染みの品川洋と大野量平が、2000年に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で杉村博樹らを迎えて結成。
-■2002年：[Sony Music Auditionファイナルでソフィオレコード賞を受賞するが](https://ja.wikipedia.org/wiki/Sony_Music_Audition "wikilink")、その後ドラマーが脱退。
-■2003年：[神田直樹](https://ja.wikipedia.org/wiki/神田直樹 "wikilink")が加入し、現在のラインナップとなる。北海道限定シングルの発表。
-■2004年：9月に[ソニーレコーズよりメジャー](../Page/ソニー・ミュージックレコーズ.md "wikilink")・デビュー。
-　　　　　 [浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")、[スピッツが所属する事務所](../Page/スピッツ_\(バンド\).md "wikilink")「[ロード&スカイ](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")」と契約。
-■2006年：秋に上記レコード会社を離れ、自主レーベルを立ち上げる。
-■2012年：5/27 品川長年の希望が叶い、地元琴似神社の春季大祭のステージに立つ（縦組出演）
-■2014年：8/16　RISING SUN ROCK FESTIVAL 2014 in EZO 〜defgarageにて初出演
+  - 幼馴染みの品川洋と大野量平が、2000年に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で杉村博樹らを迎えて結成。
+  - 2002年：[Sony Music Auditionファイナルでソフィオレコード賞を受賞するが](https://ja.wikipedia.org/wiki/Sony_Music_Audition "wikilink")、その後ドラマーが脱退。
+  - 2003年：[神田直樹](https://ja.wikipedia.org/wiki/神田直樹 "wikilink")が加入し、現在のラインナップとなる。北海道限定シングルの発表。
+  - 2004年：9月に[ソニーレコーズよりメジャー](../Page/ソニー・ミュージックレコーズ.md "wikilink")・デビュー。[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")、[スピッツが所属する事務所](../Page/スピッツ_\(バンド\).md "wikilink")「[ロード&スカイ](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")」と契約。
+  - 2006年：秋に上記レコード会社を離れ、自主レーベルを立ち上げる。
+  - 2012年：5/27 品川長年の希望が叶い、地元琴似神社の春季大祭のステージに立つ（縦組出演）
+  - 2014年：8/16　RISING SUN ROCK FESTIVAL 2014 in EZO 〜defgarageにて初出演
 
 ## ディスコグラフィー
 

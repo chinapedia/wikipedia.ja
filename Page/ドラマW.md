@@ -1265,8 +1265,7 @@
 <tr class="odd">
 <td><p>41</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/駄犬道中おかげ参り#テレビドラマ" title="wikilink">大江戸グレートジャーニー ～ザ・お伊勢参り～</a></p></td>
-<td><p>6月6日 - 7月11日<br />
-(予定)</p></td>
+<td><p>6月6日 - 7月11日</p></td>
 <td><p>全6回</p></td>
 <td><p><a href="../Page/本木克英.md" title="wikilink">本木克英</a><br />
 <a href="https://ja.wikipedia.org/wiki/井上昌典" title="wikilink">井上昌典</a></p></td>
@@ -1866,11 +1865,11 @@
 <tr class="odd">
 <td><p>42</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/太陽は動かない#テレビドラマ" title="wikilink">太陽は動かない －THE ECLIPSE－</a></p></td>
-<td><p>5月24日 - (予定)</p></td>
+<td><p>5月24日 - 6月28日</p></td>
 <td><p>全6回</p></td>
 <td><p>羽住英一郎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/林民夫" title="wikilink">林民夫</a></p></td>
-<td><p>藤原竜也、<a href="https://ja.wikipedia.org/wiki/竹内涼真" title="wikilink">竹内涼真</a>、佐藤浩市、市原隼人、<a href="../Page/日向亘.md" title="wikilink">日向亘</a></p></td>
+<td><p>藤原竜也、<a href="https://ja.wikipedia.org/wiki/竹内涼真" title="wikilink">竹内涼真</a>、佐藤浩市、市原隼人</p></td>
 <td><p>吉田修一</p></td>
 <td></td>
 </tr>

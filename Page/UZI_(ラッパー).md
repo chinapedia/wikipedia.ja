@@ -5,29 +5,29 @@
 
 ## 来歴
 
-学校では「1ミクロンも」勉強などしておらず、授業中は[絵](https://ja.wikipedia.org/wiki/絵 "wikilink")ばかり描いていた。小学生の頃は[4コマ漫画](../Page/4コマ漫画.md "wikilink")入りの[新聞](../Page/新聞.md "wikilink")を描き、高校生の頃は[キース・ヘリング](../Page/キース・ヘリング.md "wikilink")を模倣していた\[3\]。『[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")』を当時既刊であった分は全て読んでおり、小学4年生の時点で[自慰](https://ja.wikipedia.org/wiki/自慰 "wikilink")を行うのに濡れ場のシーンを読んだという\[4\]。後は、同じく濡れ場のシーンを目当てに『昭和極道史』に愛読するなどして[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[劇画](../Page/劇画.md "wikilink")に親しんでいた\[5\]。[平田弘史](../Page/平田弘史.md "wikilink")のファンでもあり、長じて自身のアルバムのジャケットデザインの多くの作画を依頼している。
+学校では「1ミクロンも」勉強などしておらず、授業中は[絵ばかり描いていた](../Page/絵画.md "wikilink")。小学生の頃は[4コマ漫画](../Page/4コマ漫画.md "wikilink")入りの[新聞](../Page/新聞.md "wikilink")を描き、高校生の頃は[キース・ヘリング](../Page/キース・ヘリング.md "wikilink")を模倣していた\[3\]。『[ゴルゴ13](../Page/ゴルゴ13.md "wikilink")』を当時既刊であった分は全て読んでおり、小学4年生の時点で[自慰を行うのに濡れ場のシーンを読んだという](../Page/オナニー.md "wikilink")\[4\]。後は、同じく濡れ場のシーンを目当てに『昭和極道史』に愛読するなどして[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[劇画](../Page/劇画.md "wikilink")に親しんでいた\[5\]。[平田弘史](../Page/平田弘史.md "wikilink")のファンでもあり、長じて自身のアルバムのジャケットデザインの多くの作画を依頼している。
 
-小学生（[慶應幼稚舎](https://ja.wikipedia.org/wiki/慶應幼稚舎 "wikilink")\[6\]）の頃は普通に[歌謡曲](../Page/歌謡曲.md "wikilink")も聴き、中学生の時は[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[レベッカ](../Page/レベッカ.md "wikilink")、[BARBEE BOYSなども好きであった](../Page/BARBEE_BOYS.md "wikilink")。『三宅裕司のいかすバンド天国』などもよく見ており、高校生になると[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")と[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")にのめり込んだ\[7\]。学生時代は[不良](https://ja.wikipedia.org/wiki/不良 "wikilink")としても知られており、16歳で[下北沢](../Page/下北沢.md "wikilink")の[ピンクサロン](../Page/ピンクサロン.md "wikilink")の常連となり、高校生の頃は[煙草](https://ja.wikipedia.org/wiki/煙草 "wikilink")を吸いながら[パチンコ店](../Page/パチンコ店.md "wikilink")にも通っていた\[8\]。
+小学生（[慶應幼稚舎](https://ja.wikipedia.org/wiki/慶應幼稚舎 "wikilink")\[6\]）の頃は普通に[歌謡曲](../Page/歌謡曲.md "wikilink")も聴き、中学生の時は[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[レベッカ](../Page/レベッカ.md "wikilink")、[BARBEE BOYSなども好きであった](../Page/BARBEE_BOYS.md "wikilink")。『三宅裕司のいかすバンド天国』などもよく見ており、高校生になると[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")と[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")にのめり込んだ\[7\]。学生時代は[不良](https://ja.wikipedia.org/wiki/不良 "wikilink")としても知られており、16歳で[下北沢](../Page/下北沢.md "wikilink")の[ピンクサロン](../Page/ピンクサロン.md "wikilink")の常連となり、高校生の頃は[煙草を吸いながら](../Page/たばこ.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")店にも通っていた\[8\]。
 
-最初、邦楽のラッパーは[スチャダラパー](../Page/スチャダラパー.md "wikilink")と[EAST ENDしか知らず](../Page/EAST_END.md "wikilink")、日本語ラップを「クソだせー」としか思っていなかったが、19歳の時に[キングギドラに出会ってその概念が覆され](../Page/KGDR.md "wikilink")、ラッパーデビュー後は[スチャダラパー](../Page/スチャダラパー.md "wikilink")も[EAST ENDも同じ仲間としてリスペクトするに至った](../Page/EAST_END.md "wikilink")\[9\]。
+最初、邦楽のラッパーは[スチャダラパー](../Page/スチャダラパー.md "wikilink")と[EAST ENDしか知らず](../Page/EAST_END.md "wikilink")、日本語ラップを「クソだせー」としか思っていなかったが、19歳の時に[キングギドラに出会ってその概念が覆され](../Page/KGDR.md "wikilink")、ラッパーデビュー後はスチャダラパーもEAST ENDも同じ仲間としてリスペクトするに至った\[9\]。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[ポリスター](../Page/ポリスター.md "wikilink")よりメジャーデビューを果たすが、その後諸事情により活動を休止する。ラッパーとして稼げない時期はとんかつ屋で[アルバイト](../Page/アルバイト.md "wikilink")を行っていたが\[10\]、[2001年](../Page/2001年.md "wikilink")に[プライエイド・レコーズ](https://ja.wikipedia.org/wiki/:en:Pryaid_Records "wikilink")（通称:プライエイド）より再デビューし、[2002年](../Page/2002年.md "wikilink")には[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")へ移籍した。
 
-[2018年](../Page/2018年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")、東京都内の自宅で乾燥[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")600グラムを所持していた疑いで[厚生労働省](../Page/厚生労働省.md "wikilink")[関東信越厚生局](../Page/関東信越厚生局.md "wikilink")[麻薬取締部](../Page/麻薬取締部.md "wikilink")により[大麻取締法](../Page/大麻取締法.md "wikilink")[違反](https://ja.wikipedia.org/wiki/違反 "wikilink")で[現行犯逮捕されていたことが発覚](https://ja.wikipedia.org/wiki/逮捕_\(日本法\)#現行犯逮捕 "wikilink")\[11\]\[12\]。出演していた1月17日未明（16日深夜）放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")』は地上波分については総集編に差し替えられ、[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")放送『[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")』での配信が中止に\[13\]。同局はその後、出演シーンをカットして後日放送するとしている\[14\]。さらにナレーションを務めていた[TBSテレビ](../Page/TBSテレビ.md "wikilink")『[有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")』の1月18日未明（17日深夜）放送分は急遽ナレーションを差し替えて放送したが、その後の対応については未定としている\[15\]。家宅捜査の模様は同年5月12日のTBS系『[新・情報7daysニュースキャスター](https://ja.wikipedia.org/wiki/情報7daysニュースキャスター "wikilink")』にて放送され、その後5月22日に[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")は懲役3年、執行猶予5年（求刑懲役3年）の有罪判決を言い渡した\[16\]。
+[2018年](../Page/2018年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")、東京都内の自宅で乾燥[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")600グラムを所持していた疑いで[厚生労働省](../Page/厚生労働省.md "wikilink")[関東信越厚生局](../Page/関東信越厚生局.md "wikilink")[麻薬取締部](../Page/麻薬取締部.md "wikilink")により[大麻取締法](../Page/大麻取締法.md "wikilink")[違反](https://ja.wikipedia.org/wiki/違反 "wikilink")で[現行犯逮捕されていたことが発覚](https://ja.wikipedia.org/wiki/逮捕_\(日本法\)#現行犯逮捕 "wikilink")\[11\]\[12\]。出演していた1月17日未明（16日深夜）放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")』は地上波分については総集編に差し替えられ、[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")放送『[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")』での配信は中止された\[13\]。同局はその後、出演シーンをカットして後日放送した\[14\]（その後降板\[15\]）。さらにナレーションを務めていた[TBSテレビ](../Page/TBSテレビ.md "wikilink")『[有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")』の1月18日未明（17日深夜）放送分は急遽ナレーションを差し替えて放送したが、その後の対応については未定とした\[16\]。家宅捜査の模様は同年5月12日のTBS系『[新・情報7daysニュースキャスター](https://ja.wikipedia.org/wiki/情報7daysニュースキャスター "wikilink")』で放送され、その後5月22日に[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")は懲役3年、執行猶予5年（求刑懲役3年）の有罪判決を言い渡した\[17\]。
 
 ## 人物
 
-  - 自身のことを探究心の強い人物として認識している\[17\]。[福岡県](../Page/福岡県.md "wikilink")[宗像](https://ja.wikipedia.org/wiki/宗像 "wikilink")地方の武家[許斐氏](https://ja.wikipedia.org/wiki/許斐氏 "wikilink")の末裔。クレー射撃選手・右翼・特殊株主・興行師・スチームサウナ創始者として知られる[許斐氏利](../Page/許斐氏利.md "wikilink")は祖父\[18\]。漫画家の[許斐剛](../Page/許斐剛.md "wikilink")は親戚にあたるが、面識はない。尊敬する人物は10歳年上の兄。アメリカ留学から帰ってきた兄が空港のレストランのウエイトレスに対してかしこまった態度で注文を行ったのを見て、その行為から人間性についてのあるべき様を学んだという\[19\]。
+  - 自身のことを探究心の強い人物として認識している\[18\]。[福岡県](../Page/福岡県.md "wikilink")[宗像](https://ja.wikipedia.org/wiki/宗像 "wikilink")地方の武家[許斐氏](https://ja.wikipedia.org/wiki/許斐氏 "wikilink")の末裔。クレー射撃選手・右翼・特殊株主・興行師・スチームサウナ創始者として知られる[許斐氏利](../Page/許斐氏利.md "wikilink")は祖父\[19\]。漫画家の[許斐剛](../Page/許斐剛.md "wikilink")は親戚にあたるが、面識はない。尊敬する人物は10歳年上の兄。アメリカ留学から帰ってきた兄が空港のレストランのウエイトレスに対してかしこまった態度で注文を行ったのを見て、その行為から人間性についてのあるべき様を学んだという\[20\]。
 
-  - [慶應幼稚舎](https://ja.wikipedia.org/wiki/慶應幼稚舎 "wikilink")時代は、英国[ロールスロイス](https://ja.wikipedia.org/wiki/ロールスロイス "wikilink")で送り迎えされていた\[20\]。
+  - [慶應幼稚舎](https://ja.wikipedia.org/wiki/慶應幼稚舎 "wikilink")時代は、英国[ロールスロイス](https://ja.wikipedia.org/wiki/ロールスロイス "wikilink")で送り迎えされていた\[21\]。
 
   - 。
 
-  - [ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")のプロゲーマーとして2007年に『e-sports』とプロ契約を結んでおり、日本代表として大会にも出演するほどである\[21\]。また、1998年には[SEGA](https://ja.wikipedia.org/wiki/SEGA "wikilink")開催の[バーチャストライカー](../Page/バーチャストライカー.md "wikilink") (Virtua Striker98)の大会において優勝、同年のＷ杯観戦を賞品として獲得している。 ウイニングイレブンのオンライン対戦ではある時期300勝200敗の記録を残したことがある\[22\]。
+  - [ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")のプロゲーマーとして2007年に『e-sports』とプロ契約を結んでおり、日本代表として大会にも出演するほどである\[22\]。また、1998年には[SEGA](https://ja.wikipedia.org/wiki/SEGA "wikilink")開催の[バーチャストライカー](../Page/バーチャストライカー.md "wikilink") (Virtua Striker98)の大会において優勝、同年のＷ杯観戦を賞品として獲得している。 ウイニングイレブンのオンライン対戦ではある時期300勝200敗の記録を残したことがある\[23\]。
 
   - テレビ番組「[フリースタイルダンジョン](https://ja.wikipedia.org/wiki/フリースタイルダンジョン "wikilink")」では進行及びナレーションを担当している。
 
-  - 2014年頃からリングアナを行い、2017年のインタビューでは、格闘技のリングアナを6団体専属で行っていることを明かしているが\[23\]、そこで選手達の体を見ると自分の弛んだ体が情けなくなり、6年半の空白を経て音楽活動を再開しようかという時に鍛えた体で復活しようとトレーニングを始めたところ、トレーニングが楽しくなり、2017年の記事では専門家並にトレーニングや栄養学に詳しくなっている。同じ記事では、トレーニング後30分以内にたんぱく質を取ると筋肉になるということで、トレーニング後に500gのステーキを食べるのにはまり、2017年3月28日時点では、飲食店でステーキを食べた総量のランキング「肉マイレージランキング」で会員約100万人中62位まで上り詰め、総量は108984g（約108㎏）を記録している\[24\]。
+  - 2014年頃からリングアナを行い、2017年のインタビューでは、格闘技のリングアナを6団体専属で行っていることを明かしているが\[24\]、そこで選手達の体を見ると自分の弛んだ体が情けなくなり、6年半の空白を経て音楽活動を再開しようかという時に鍛えた体で復活しようとトレーニングを始めたところ、トレーニングが楽しくなり、2017年の記事では専門家並にトレーニングや栄養学に詳しくなっている。同じ記事では、トレーニング後30分以内にたんぱく質を取ると筋肉になるということで、トレーニング後に500gのステーキを食べるのにはまり、2017年3月28日時点では、[いきなり\!ステーキ](https://ja.wikipedia.org/wiki/いきなり!ステーキ "wikilink")においてステーキを食べた総量のランキング「肉マイレージランキング」で会員約100万人中62位まで上り詰め、総量は108984g（約108㎏）を記録している\[25\]。
 
 ## ディスコグラフィ
 
@@ -189,7 +189,7 @@
 
 ### CM
 
-  - [モンスターストライク](https://ja.wikipedia.org/wiki/モンスターストライク "wikilink") 「ナツの極み。」＜地引網編＞ - 2017年\[25\]。
+  - [モンスターストライク](https://ja.wikipedia.org/wiki/モンスターストライク "wikilink") 「ナツの極み。」＜地引網編＞ - 2017年\[26\]。
 
 ## 出典
 
@@ -220,9 +220,10 @@
 17.
 18.
 19.
-20. [(6ページ目)慶応幼稚舎の教育を国内最高峰と勘違いする生徒たち｜日刊ゲンダイDIGITAL](https://www.nikkan-gendai.com/articles/view/life/257156/6)
-21.
+20.
+21. [(6ページ目)慶応幼稚舎の教育を国内最高峰と勘違いする生徒たち｜日刊ゲンダイDIGITAL](https://www.nikkan-gendai.com/articles/view/life/257156/6)
 22.
-23. 東邦出版『KAMINOGE』vol.65 p134-145
-24.
+23.
+24. 東邦出版『KAMINOGE』vol.65 p134-145
 25.
+26.

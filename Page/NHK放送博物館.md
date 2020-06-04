@@ -44,7 +44,7 @@
 
 ## 外部リンク
 
-  - [NHK放送博物館](http://www.nhk.or.jp/museum/)
+  - [NHK放送博物館](https://www.nhk.or.jp/museum/)
   - [それは「イ」の字から始まった ～テレビのはじまり～ - マンガで読むNHKヒストリー](https://www.nhk.or.jp/archives/search/special/comic/?movie#vol05)
 
 [Category:東京都の登録博物館](https://ja.wikipedia.org/wiki/Category:東京都の登録博物館 "wikilink") [Category:東京都港区の博物館](https://ja.wikipedia.org/wiki/Category:東京都港区の博物館 "wikilink") [Category:日本の企業博物館](https://ja.wikipedia.org/wiki/Category:日本の企業博物館 "wikilink") [Category:NHKの施設](https://ja.wikipedia.org/wiki/Category:NHKの施設 "wikilink") [Category:NHK東京](https://ja.wikipedia.org/wiki/Category:NHK東京 "wikilink") [Category:日本放送協会の歴史](https://ja.wikipedia.org/wiki/Category:日本放送協会の歴史 "wikilink") [Category:NHKの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKの番組の歴史 "wikilink") [Category:日本のラジオ放送史](https://ja.wikipedia.org/wiki/Category:日本のラジオ放送史 "wikilink") [Category:日本のテレビ放送史](https://ja.wikipedia.org/wiki/Category:日本のテレビ放送史 "wikilink") [Category:1956年開設の博物館](https://ja.wikipedia.org/wiki/Category:1956年開設の博物館 "wikilink") [Category:1968年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1968年竣工の日本の建築物 "wikilink")

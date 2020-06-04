@@ -1,7 +1,7 @@
 > この記事は[EMANON](https://ja.wikipedia.org/wiki/EMANON)から翻訳されています。
 
 
-「**EMANON**」（エマノン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**EMANON**」（エマノン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の18作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")に発売された。
 
 [1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発され、計3回再発売されている。
 

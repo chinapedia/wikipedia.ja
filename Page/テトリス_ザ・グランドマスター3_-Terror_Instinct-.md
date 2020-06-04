@@ -231,7 +231,7 @@ MASTER/SHIRASEモードではエンドロール中にブロックが積み上が
 ## 外部リンク
 
   - [アリカ(開発元)のホームページ](http://www.arika.co.jp/)
-  - [公式サイト](http://www.arika.co.jp/product/tgm3/)
+  - [公式サイト](https://web.archive.org/web/20150731085946/http://www.arika.co.jp/product/tgm3/)（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
   - [TETRISWIKI Tetris The Grand Master 3 Terror-Instinct](http://tetris.wikia.com/wiki/Tetris_The_Grand_Master_3_Terror-Instinct)
 
 [en:Tetris:_The_Grand_Master\#Tetris_The_Grand_Master_3_-Terror_Instinct-](https://ja.wikipedia.org/wiki/en:Tetris:_The_Grand_Master#Tetris_The_Grand_Master_3_-Terror_Instinct- "wikilink")

@@ -1,9 +1,9 @@
 > この記事は[悲しい気持ち \(JUST A MAN IN LOVE\)](https://ja.wikipedia.org/wiki/悲しい気持ち_\(JUST_A_MAN_IN_LOVE\))から翻訳されています。
 
 
-「**悲しい気持ち (JUST A MAN IN LOVE)**」（かなしいきもち ジャスト・ア・メン・イン・ラヴ）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**悲しい気持ち (JUST A MAN IN LOVE)**」（かなしいきもち ジャスト・ア・メン・イン・ラヴ）は、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の楽曲。自身の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")は8cmCDとして、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")は12cmCDとして再発をしている。
+[1988年](../Page/1988年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")は8cmCDとして、[2001年](../Page/2001年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")は12cmCDとして再発売されている。
 
 ## 背景・リリース
 

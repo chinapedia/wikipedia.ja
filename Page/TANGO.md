@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 表題曲は、[2004年](../Page/2004年.md "wikilink")発売の6枚目のシングル「[DA DA DA](../Page/DA_DA_DA.md "wikilink")」以来となる、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")である[徳永暁人](../Page/徳永暁人.md "wikilink")による作曲。また、ギターで[グループ・サウンズ](../Page/グループ・サウンズ.md "wikilink")全盛期に活躍したバンド、[オックス](../Page/オックス.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")の[岡田志郎](https://ja.wikipedia.org/wiki/岡田志郎 "wikilink")が参加している。
+  - 表題曲は、[2004年](../Page/2004年.md "wikilink")発売の6枚目のシングル「[DA DA DA](../Page/DA_DA_DA.md "wikilink")」以来となる、[doaの](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")である[徳永暁人](../Page/徳永暁人.md "wikilink")による作曲。また、ギターで[グループ・サウンズ](../Page/グループ・サウンズ.md "wikilink")全盛期に活躍したバンド、[オックス](../Page/オックス.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")の[岡田志郎](https://ja.wikipedia.org/wiki/岡田志郎 "wikilink")が参加している。
   - 4thシングル『[虹色にひかる海](../Page/虹色にひかる海.md "wikilink")』以来、約2年半ぶりのアニメタイアップである。久しぶりの効果のあるタイアップだったことと、このシングルと同じ週に発売されたシングルが少なかったせいもあり、[2002年](../Page/2002年.md "wikilink")以来の[オリコンチャート](../Page/オリコンチャート.md "wikilink")TOP50入りを果たした。
   - 初回版には格闘美神 武龍のステッカーが封入されている。
 

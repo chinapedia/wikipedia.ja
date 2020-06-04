@@ -332,7 +332,7 @@
 
 ## 外部リンク
 
-  - [NHKアニメワールド](http://www.nhk.or.jp/anime/index.html)
+  - [NHKアニメワールド](https://www.nhk.or.jp/anime/index.html)
 
 [Category:NHKアニメの放送枠](https://ja.wikipedia.org/wiki/Category:NHKアニメの放送枠 "wikilink") [Category:NHK_BS2の番組](https://ja.wikipedia.org/wiki/Category:NHK_BS2の番組 "wikilink") [Category:NHK_BSの帯番組](https://ja.wikipedia.org/wiki/Category:NHK_BSの帯番組 "wikilink") [Category:NHK_BSのテレビアニメ](https://ja.wikipedia.org/wiki/Category:NHK_BSのテレビアニメ "wikilink") [Category:1996年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1996年のテレビアニメ "wikilink")
 

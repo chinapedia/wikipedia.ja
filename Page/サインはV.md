@@ -86,7 +86,7 @@
 
   - TBS：日曜 19:30 - 20:00
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")：水曜 19:00 - 19:30\[2\]
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：水曜 19:00 - 19:30\[3\]
+  - [秋田放送](../Page/秋田放送.md "wikilink")：水曜 19:00 - 19:30\[3\]
   - [山形放送](../Page/山形放送.md "wikilink")：水曜 19:00 - 19:30\[4\]
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[5\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：日曜 19:30 - 20:00\[6\]
@@ -115,6 +115,14 @@
   - 島英智子：[栗原妙子](https://ja.wikipedia.org/wiki/栗原妙子 "wikilink")
   - 白川アイ子：[松原麻里](https://ja.wikipedia.org/wiki/松原麻里 "wikilink")
   - 朝丘ユミ：岡田可愛
+  - ：[天草四郎](../Page/天草四郎.md "wikilink")
+  - ：[石井富子](https://ja.wikipedia.org/wiki/石井富子 "wikilink")
+  - ：[穂積隆信](../Page/穂積隆信.md "wikilink")
+  - ：[柳生博](../Page/柳生博.md "wikilink")
+  - ：[伊藤めぐみ](https://ja.wikipedia.org/wiki/伊藤めぐみ "wikilink")
+  - ：[夏川圭](https://ja.wikipedia.org/wiki/夏川圭 "wikilink")
+  - ：[安原義人](../Page/安原義人.md "wikilink")
+  - ：[柳谷寛](../Page/柳谷寛.md "wikilink")
   - ナレーター：納谷悟朗　
 
 ### スタッフ
@@ -170,7 +178,7 @@
 
   - [サインはＶ！](http://www.manga-bank.com/hanken/sign/index.html) - オフィス安井 版権作品紹介ページ
 
-[Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:少女フレンド](https://ja.wikipedia.org/wiki/Category:少女フレンド "wikilink") [Category:バレーボール漫画](https://ja.wikipedia.org/wiki/Category:バレーボール漫画 "wikilink") [Category:女子バレーボールを題材とした作品](https://ja.wikipedia.org/wiki/Category:女子バレーボールを題材とした作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:荒川区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:荒川区を舞台とした作品 "wikilink") [Category:1969年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1969年のテレビドラマ "wikilink") [Category:不二家の時間](https://ja.wikipedia.org/wiki/Category:不二家の時間 "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink") [Category:東宝製作のテレビ作品](https://ja.wikipedia.org/wiki/Category:東宝製作のテレビ作品 "wikilink") [Category:鎌田敏夫脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:鎌田敏夫脚本のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:1973年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1973年のテレビドラマ "wikilink") [Category:1970年の映画](https://ja.wikipedia.org/wiki/Category:1970年の映画 "wikilink") [Category:日本のドラマ映画](https://ja.wikipedia.org/wiki/Category:日本のドラマ映画 "wikilink") [Category:日本のスポーツ映画](https://ja.wikipedia.org/wiki/Category:日本のスポーツ映画 "wikilink") [Category:日本のテレビドラマの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビドラマの劇場版 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:バレーボール映画](https://ja.wikipedia.org/wiki/Category:バレーボール映画 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:岩谷時子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:岩谷時子が制作した楽曲 "wikilink") [Category:1969年のシングル](https://ja.wikipedia.org/wiki/Category:1969年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:1973年のシングル](https://ja.wikipedia.org/wiki/Category:1973年のシングル "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink")
+[Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:少女フレンド](https://ja.wikipedia.org/wiki/Category:少女フレンド "wikilink") [Category:バレーボール漫画](https://ja.wikipedia.org/wiki/Category:バレーボール漫画 "wikilink") [Category:女子バレーボールを題材とした作品](https://ja.wikipedia.org/wiki/Category:女子バレーボールを題材とした作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:荒川区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:荒川区を舞台とした作品 "wikilink") [Category:1969年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1969年のテレビドラマ "wikilink") [Category:不二家の時間](https://ja.wikipedia.org/wiki/Category:不二家の時間 "wikilink") [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink") [Category:東宝製作のテレビ作品](https://ja.wikipedia.org/wiki/Category:東宝製作のテレビ作品 "wikilink") [Category:鎌田敏夫脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:鎌田敏夫脚本のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:1973年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1973年のテレビドラマ "wikilink") [Category:1970年の映画](https://ja.wikipedia.org/wiki/Category:1970年の映画 "wikilink") [Category:日本のドラマ映画](https://ja.wikipedia.org/wiki/Category:日本のドラマ映画 "wikilink") [Category:日本のスポーツ映画](https://ja.wikipedia.org/wiki/Category:日本のスポーツ映画 "wikilink") [Category:日本のテレビドラマの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビドラマの劇場版 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:バレーボール映画](https://ja.wikipedia.org/wiki/Category:バレーボール映画 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:岩谷時子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:岩谷時子が制作した楽曲 "wikilink") [Category:1969年のシングル](https://ja.wikipedia.org/wiki/Category:1969年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:1973年のシングル](https://ja.wikipedia.org/wiki/Category:1973年のシングル "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink")
 
 1.  『福島民報』1973年10月14日付朝刊8面、本作広告。
 2.  『河北新報』1970年2月11日付朝刊、テレビ欄。

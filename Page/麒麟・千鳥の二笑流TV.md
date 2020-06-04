@@ -18,7 +18,7 @@
 
   - [川島明](https://ja.wikipedia.org/wiki/川島明 "wikilink")（[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")）
   - [田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")（麒麟）
-  - 大悟（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")）
+  - [大悟](https://ja.wikipedia.org/wiki/大悟_\(お笑い芸人\) "wikilink")（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")）
   - [ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")（千鳥）
   - ほか、baseよしもとで活動する芸人多数
 

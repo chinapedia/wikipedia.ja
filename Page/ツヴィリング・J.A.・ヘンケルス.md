@@ -1,23 +1,25 @@
 > この記事は[ツヴィリング・J.A.・ヘンケルス](https://ja.wikipedia.org/wiki/ツヴィリング・J.A.・ヘンケルス)から翻訳されています。
 
 
-**ツヴィリング J.A. ヘンケルス** (*Zwilling J.A. Henckels AG*) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ゾーリンゲン](../Page/ゾーリンゲン.md "wikilink")に本拠を置く、刃物などのメーカーである。「ツヴィリング」や「ヘンケルス」などの名前で知られている。双子のマークが有名。なお、社名の「ツヴィリング」とは、ドイツ語で「双子」の意。
+**ツヴィリング J.A. ヘンケルス**（*Zwilling J.A. Henckels AG*）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ゾーリンゲン](../Page/ゾーリンゲン.md "wikilink")に本拠を置く、刃物などのメーカー。「ツヴィリング」や「ヘンケルス」などの名前で知られている。双子のマークが有名。社名の「ツヴィリング」は、ドイツ語で「双子」の意。
 
-創業は[1731年](../Page/1731年.md "wikilink")にヨハン・ペーター・ヘンケルス (*Johann Peter Henckels*) がゾーリンゲンの[カトラリー](https://ja.wikipedia.org/wiki/カトラリー "wikilink")[ギルド](../Page/ギルド.md "wikilink")に双子のマークを登録した年とされている。その後、**ヨハン・アブラハム・ヘンケルス**(*Johann Abraham Henckels*)が[1818年](../Page/1818年.md "wikilink")、ベルリンに第1号店をオープンさせた。社名の J.A. は彼の名前の略である。
+## 概要
 
-日本へは[大阪万国博覧会の際に万能料理バサミが便利なドイツ製キッチン用品としてドイツ館で紹介されて以来ゾーリンゲンの名前とともに知られるようになった](../Page/日本万国博覧会.md "wikilink")。ドイツ本社はゾーリンゲン市の歴史的建造物として保存されている。
+ツヴィリング J.A. ヘンケルス社の創業は、[1731年](../Page/1731年.md "wikilink")にヨハン・ペーター・ヘンケルス（*Johann Peter Henckels*）がゾーリンゲンの[カトラリー](https://ja.wikipedia.org/wiki/カトラリー "wikilink")[ギルド](../Page/ギルド.md "wikilink")に双子のマークを登録した年とされている。その後、**ヨハン・アブラハム・ヘンケルス**（*Johann Abraham Henckels*）が[1818年](../Page/1818年.md "wikilink")、ベルリンに第1号店をオープンさせた。社名の J.A. は彼の名前の略である。
+
+日本へは、[大阪万国博覧会の際に万能料理バサミが便利なドイツ製キッチン用品としてドイツ館で紹介されて以来](../Page/日本万国博覧会.md "wikilink")、ゾーリンゲンの名前とともに知られるようになった。ドイツ本社はゾーリンゲン市の歴史的建造物として保存されている。
 
 ## ブランド
 
-この会社は、**ツヴィリング(ZWILLING)**と**ヘンケルス(HENCKELS)**の2つのブランドを持っている。日本では同社の製品を区別なくヘンケルスと呼ぶ者も多いが、実際には別々のブランドである。
+この会社は、**ツヴィリング**（**ZWILLING**）と**ヘンケルス**（**HENCKELS**）の2つのブランドを持っている。日本では同社の製品を区別なくヘンケルスと呼ぶ者も多いが、実際には別々のブランドである。
 
-  - **ツヴィリング**ブランド　（ZWILLING J.A. HENCKELS）
+  - **ツヴィリング**ブランド （ZWILLING J.A. HENCKELS）
 
 よく知られ、以前からあるブランドで、双子のマークで有名である\[1\]。価格は後述の**ヘンケルス**ブランドよりプレミアム性の高い商品。主にドイツ・日本などで製造されているが、一部の製品はスペインや韓国や中国などで生産されている。
 
 日本においては「ツバイリング」と記された時期があり、今でもそう記載・呼称されることがある。
 
-  - **ヘンケルス**ブランド　（J.A. HENCKELS INTERNATIONAL）
+  - **ヘンケルス**ブランド （J.A. HENCKELS INTERNATIONAL）
 
 1895年に加えられたブランドで、双子ではなく1人のマークである。各国の支社がその国の料理文化に合わせた商材を展開しており、価格は前述の**ツヴィリング**ブランドよりリーズナブルに抑えられている。主に日本・中国・スペインなどで製造されている。
 
@@ -63,7 +65,7 @@
 
 ## 製品
 
-刃物が有名だが、日本では以下の製品などが販売されている。
+刃物が広く知られるが、日本では以下の製品などが販売されている。
 
   - 包丁
   - 事務用はさみ
@@ -72,7 +74,7 @@
 
 など。
 
-ヘンケルスの刃物には必ずFrio durというマークが入っている。これは冷たくして硬くしたという意味である。社長の女性秘書が、あるとき刃物を[氷水の中につけたらよく切れるようになるのを発見し](https://ja.wikipedia.org/wiki/日本刀#質の高い鋼の作成 "wikilink")、社長に報告したことに始まる。
+ヘンケルスの刃物には必ずFrio durというマークが入っている。これは冷たくして硬くしたという意味である。社長の女性秘書が、あるとき刃物を氷水の中につけたらよく切れるようになるのを発見し、社長に報告したことに始まる。
 
 ## 参考文献
 
@@ -80,14 +82,14 @@
 
 ## 脚注
 
+### 注釈・出典
+
 <references />
 
 ## 外部リンク
 
   - [公式サイト](http://www.zwilling.jp/)
 
-
-
-[Category:ドイツの工業製品メーカー](https://ja.wikipedia.org/wiki/Category:ドイツの工業製品メーカー "wikilink") [Category:ノルトライン＝ヴェストファーレン州の企業](https://ja.wikipedia.org/wiki/Category:ノルトライン＝ヴェストファーレン州の企業 "wikilink") [Category:ゾーリンゲン](https://ja.wikipedia.org/wiki/Category:ゾーリンゲン "wikilink") [Category:オーストリア＝ハンガリー帝国帝室・王室御用達](https://ja.wikipedia.org/wiki/Category:オーストリア＝ハンガリー帝国帝室・王室御用達 "wikilink")
+[Category:ドイツの工業製品メーカー](https://ja.wikipedia.org/wiki/Category:ドイツの工業製品メーカー "wikilink") [Category:ノルトライン＝ヴェストファーレン州の企業](https://ja.wikipedia.org/wiki/Category:ノルトライン＝ヴェストファーレン州の企業 "wikilink") [Category:ゾーリンゲン](https://ja.wikipedia.org/wiki/Category:ゾーリンゲン "wikilink") [Category:オーストリア＝ハンガリー帝国帝室・王室御用達](https://ja.wikipedia.org/wiki/Category:オーストリア＝ハンガリー帝国帝室・王室御用達 "wikilink") [Category:刃物](https://ja.wikipedia.org/wiki/Category:刃物 "wikilink")
 
 1.  双子の性別は両方とも中性とされている。

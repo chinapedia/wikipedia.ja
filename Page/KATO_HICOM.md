@@ -49,7 +49,7 @@
 
   - [株式会社加藤製作所](http://www.kato-hicom.co.jp/)
 
-[Category:IHIの歴史](https://ja.wikipedia.org/wiki/Category:IHIの歴史 "wikilink") [Category:日本の建設機械メーカー](https://ja.wikipedia.org/wiki/Category:日本の建設機械メーカー "wikilink") [Category:金沢区の企業](https://ja.wikipedia.org/wiki/Category:金沢区の企業 "wikilink") [Category:1952年設立の企業](https://ja.wikipedia.org/wiki/Category:1952年設立の企業 "wikilink")
+[Category:IHIの歴史](https://ja.wikipedia.org/wiki/Category:IHIの歴史 "wikilink") [Category:日本の建設機械メーカー](https://ja.wikipedia.org/wiki/Category:日本の建設機械メーカー "wikilink") [Category:かつて存在した神奈川県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した神奈川県の企業 "wikilink") [Category:1952年設立の企業](https://ja.wikipedia.org/wiki/Category:1952年設立の企業 "wikilink") [Category:2018年廃止の企業](https://ja.wikipedia.org/wiki/Category:2018年廃止の企業 "wikilink")
 
 1.
 2.

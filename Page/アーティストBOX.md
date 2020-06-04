@@ -76,14 +76,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p>水曜 18:20 - 18:45</p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a><br />
 <a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）</p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）</p></td>
 <td><p>木曜 18:20 - 18:45</p></td>
 <td><p>[7]</p></td>
 </tr>

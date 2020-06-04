@@ -71,15 +71,14 @@
 ## 出身者
 
   - [岩木勇一郎](https://ja.wikipedia.org/wiki/岩木勇一郎 "wikilink")：[株式会社白組プロデューサー](../Page/白組.md "wikilink")。映画監督。
-  - [和田大（わだ まさる）](http://web.archive.org/web/20111116041517/http://hp.rhp.jp/wadaxinc/kaisyagaiyou.html)\[3\]：株式会社[ワダックス(現・GMOクラウドWEST)創業者](https://ja.wikipedia.org/wiki/GMOクラウドWEST "wikilink")、前代表取締役社長、現取締役
-  - 天谷大輔\[4\]：『[洞窟物語](../Page/洞窟物語.md "wikilink")』作者
+  - 天谷大輔\[3\]：『[洞窟物語](../Page/洞窟物語.md "wikilink")』作者
   - [太田垣香織](https://ja.wikipedia.org/wiki/太田垣香織 "wikilink")：[VFX](../Page/VFX.md "wikilink")ディレクター
   - [南亜矢子](https://ja.wikipedia.org/wiki/南亜矢子 "wikilink")：作曲家
-  - 小嶋慎太郎\[5\]：『[大逆転裁判](../Page/逆転裁判.md "wikilink")』『[モンスターハンターX](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")』プロデューサー
-  - 一瀬泰範\[6\]：『[モンスターハンターポータブル2nd](https://ja.wikipedia.org/wiki/モンスターハンターポータブル2nd "wikilink")』『[モンスターハンターポータブル2ndG](https://ja.wikipedia.org/wiki/モンスターハンターポータブル2ndG "wikilink")』『[モンスターハンターX](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")』ディレクター
-  - 山際眞晃\[7\]：『[Bloodborne](https://ja.wikipedia.org/wiki/Bloodborne "wikilink")』プロデューサー
-  - 浜口直樹\[8\]：『[LIGHTNING RETURNS: FINAL FANTASY XIII](https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII "wikilink")』メインプログラマー、『[MOBIUS FINAL FANTASY](https://ja.wikipedia.org/wiki/メビウス_ファイナルファンタジー "wikilink")』プロジェクトリーダー、『[FINAL FANTASY VII REMAKE](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リメイク "wikilink")』制作総指揮
-  - [伊東ライフ](https://ja.wikipedia.org/wiki/伊東ライフ "wikilink")\[9\]\[10\]：イラストレーター
+  - 小嶋慎太郎\[4\]：『[大逆転裁判](../Page/逆転裁判.md "wikilink")』『[モンスターハンターX](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")』プロデューサー
+  - 一瀬泰範\[5\]：『[モンスターハンターポータブル2nd](https://ja.wikipedia.org/wiki/モンスターハンターポータブル2nd "wikilink")』『[モンスターハンターポータブル2ndG](https://ja.wikipedia.org/wiki/モンスターハンターポータブル2ndG "wikilink")』『[モンスターハンターX](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")』ディレクター
+  - 山際眞晃\[6\]：『[Bloodborne](https://ja.wikipedia.org/wiki/Bloodborne "wikilink")』プロデューサー
+  - 浜口直樹\[7\]：『[LIGHTNING RETURNS: FINAL FANTASY XIII](https://ja.wikipedia.org/wiki/ライトニング_リターンズ_ファイナルファンタジーXIII "wikilink")』メインプログラマー、『[MOBIUS FINAL FANTASY](https://ja.wikipedia.org/wiki/メビウス_ファイナルファンタジー "wikilink")』プロジェクトリーダー、『[FINAL FANTASY VII REMAKE](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII_リメイク "wikilink")』制作総指揮
+  - [伊東ライフ](https://ja.wikipedia.org/wiki/伊東ライフ "wikilink")\[8\]\[9\]\[10\]：イラストレーター
   - [加藤利彦](../Page/加藤利彦.md "wikilink") - [日本の実業家](https://ja.wikipedia.org/wiki/日本の実業家 "wikilink")、IT参謀
   - [箕崎准](../Page/箕崎准.md "wikilink")：作家、シナリオライター
 
@@ -106,11 +105,11 @@
 
 1.  仮称として使っていた「東京医専」の名前は[学校法人東京医科大学](../Page/学校法人東京医科大学.md "wikilink")が商標登録している関係で、正式名称は「首都医校」に変更された。
 2.  <http://skyscraperpage.com/diagrams/?countryID=85>
-3.  <http://systemincome.com/main/kakugen/tag/%E5%92%8C%E7%94%B0%E5%A4%A7>
-4.  <http://www.hal.ac.jp/cross/crosspoint/detail.html?id=7962>
+3.  <http://www.hal.ac.jp/cross/crosspoint/detail.html?id=7962>
+4.  <https://twitter.com/kozyex/status/674912545430351872>
 5.  <https://twitter.com/kozyex/status/674912545430351872>
-6.  <https://twitter.com/kozyex/status/674912545430351872>
-7.  <https://www.hal.ac.jp/cross/crosspoint/detail.html?id=15640>
-8.  <http://shingakunet.com/gakko/SC001220/senpaiShigoto/9000903208/>
-9.  <https://twitter.com/itolife/status/605386431729524736>
-10. <https://twitter.com/itolife/status/604479162120728576>
+6.  <https://www.hal.ac.jp/cross/crosspoint/detail.html?id=15640>
+7.  <http://shingakunet.com/gakko/SC001220/senpaiShigoto/9000903208/>
+8.  <https://twitter.com/itolife/status/605386431729524736>
+9.  <https://twitter.com/itolife/status/604479162120728576>
+10. <https://twitter.com/itolife/status/1262250418303668224>

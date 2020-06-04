@@ -1425,7 +1425,7 @@
   - マイクロキャビン
     [アシュギーネ復讐の炎](https://ja.wikipedia.org/wiki/アシュギーネ復讐の炎 "wikilink")（ROM）
 
-    [うる星やつら恋のサバイバル・パーティ](https://ja.wikipedia.org/wiki/うる星やつら恋のサバイバル・パーティ "wikilink")（ROM/DISK）
+    [うる星やつら恋のサバイバル・バースディ](https://ja.wikipedia.org/wiki/うる星やつら恋のサバイバル・バースディ "wikilink")（ROM/DISK）
 
     [大戦略](../Page/大戦略シリーズ.md "wikilink")（ROM/DISK）
 

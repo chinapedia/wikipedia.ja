@@ -6,7 +6,7 @@
 ## 加盟局
 
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（福岡県）
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [大分放送](../Page/大分放送.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

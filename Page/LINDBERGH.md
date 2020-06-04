@@ -99,7 +99,7 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 
 [Category:セガのアーケードゲーム基板](https://ja.wikipedia.org/wiki/Category:セガのアーケードゲーム基板 "wikilink")
 
-1.  NAOMI GD-ROMやChiniroで使われている「キーチップ」がその一例。これが無いとゲームは起動せず、エラーで弾かれる
+1.  NAOMI GD-ROMやChihiroで使われている「キーチップ」がその一例。これが無いとゲームは起動せず、エラーで弾かれる
 2.  [「頭文字D ARCADE STAGE 4」機リンドバーグBD有償先貸出し料金のご返金・有償先貸出し開始に関しまして](http://www.sls-net.co.jp/news/file/08_07_17_LINDBERG_henkin_goannai.pdf)セガ・ロジスティクスサービス
 3.  [「セガ・ネットワークカジノクラブ」機リンドバーグBD有償先貸出し料金のご返金・有償先貸出し開始に関しまして](http://www.sls-net.co.jp/news/file/08_07_17_LINDBERG_henkin_goannai.pdf)セガ・ロジスティクスサービス
 4.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/201611_p_maintenance.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2016年11月

@@ -19,7 +19,7 @@
   - 5001, 5002
     [日本石油輸送](../Page/日本石油輸送.md "wikilink")が所有する[リン酸](../Page/リン酸.md "wikilink")専用コンテナ。
   - 5003 - 5008
-    [トクヤマ](../Page/トクヤマ.md "wikilink")が所有する[クロロスルホン酸](https://ja.wikipedia.org/wiki/クロロスルホン酸 "wikilink")専用コンテナ。かつては[三菱化学物流](https://ja.wikipedia.org/wiki/三菱化学物流 "wikilink")が所有していた。
+    [トクヤマ](../Page/トクヤマ.md "wikilink")が所有する[クロルスルホン酸専用コンテナ](https://ja.wikipedia.org/wiki/塩化スルホン酸 "wikilink")。かつては[三菱化学物流](https://ja.wikipedia.org/wiki/三菱化学物流 "wikilink")が所有していた。
   - 5009
     [日本曹達](../Page/日本曹達.md "wikilink")が所有する[オキシ塩化リン専用コンテナ](https://ja.wikipedia.org/wiki/リン酸トリクロリド "wikilink")。
   - 5010, 5011

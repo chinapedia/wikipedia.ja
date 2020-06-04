@@ -91,7 +91,7 @@
   - [ドイツ第三帝国空軍](https://ja.wikipedia.org/wiki/ドイツ空軍_\(国防軍\) "wikilink")（トワイライト・エクスプレス） - 注意:Microsoft Windows XPでは、機体データを[インストール](../Page/インストール.md "wikilink")出来ない問題あり（ミッション・シナリオのインストールは可能）。
   - 38度線攻防　[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")（トワイライト・エクスプレス）
   - [世界の軍用機セレクション](https://ja.wikipedia.org/wiki/世界の軍用機セレクション "wikilink")（トワイライト・エクスプレス）
-  - コンバットフライトシミュレータ​ アドオンシリーズ（[旧ペンギンワークス（現エアロシム）](https://ja.wikipedia.org/wiki/エアロシム "wikilink")）
+  - コンバットフライトシミュレータ アドオンシリーズ（[旧ペンギンワークス（現エアロシム）](https://ja.wikipedia.org/wiki/エアロシム "wikilink")）
       - 1 ゼロ・ファイター
       - 2 [海軍航空隊](https://ja.wikipedia.org/wiki/海軍航空隊 "wikilink") Japan Navy Air Group
       - 3 [陸軍航空隊](https://ja.wikipedia.org/wiki/陸軍航空隊 "wikilink") Japan Army Air Group
@@ -108,7 +108,7 @@
 
   - [真珠湾攻撃 ワレ奇襲に成功ス](https://ja.wikipedia.org/wiki/真珠湾攻撃_ワレ奇襲に成功ス "wikilink")（[トワイライト・エクスプレス](https://ja.wikipedia.org/wiki/トワイライト・エクスプレス "wikilink")）
   - [U.S.Navy](../Page/アメリカ海軍.md "wikilink") 緊急発艦（トワイライト・エクスプレス）
-  - コンバットフライトシミュレータ2​ アドオンシリーズ（旧ペンギンワークス（現エアロシム））
+  - コンバットフライトシミュレータ2 アドオンシリーズ（旧ペンギンワークス（現エアロシム））
       - 1 珊瑚海・雷撃隊
       - 2 海軍迎撃隊
       - 3 太平洋機動部隊 パールハーバー・ミッドウェイ作​戦
@@ -119,7 +119,7 @@
 
 ### Microsoft Combat Flight Simulator 3 アドオンソフト
 
-  - コンバットフライトシミュレータ3​ アドオンシリーズ（旧ペンギンワークス（現エアロシム））
+  - コンバットフライトシミュレータ3 アドオンシリーズ（旧ペンギンワークス（現エアロシム））
       - 1 ZERO
       - 2 [陸軍ファイター](https://ja.wikipedia.org/wiki/陸軍ファイター "wikilink")
   - Fire Power for Microsoft Combat Simulator 3 （Tri Synergy）

@@ -1,7 +1,7 @@
 > この記事は[9nine](https://ja.wikipedia.org/wiki/9nine)から翻訳されています。
 
 
-[9nine_logo.jpg](https://ja.wikipedia.org/wiki/File:9nine_logo.jpg "fig:9nine_logo.jpg") **9nine**（ナイン）は、[レプロエンタテインメント](../Page/レプロエンタテインメント.md "wikilink")所属の[モデル](../Page/モデル_\(職業\).md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[声優](../Page/声優.md "wikilink")、[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")で構成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のパフォーマンスガールズユニット。[2005年](../Page/2005年.md "wikilink")に結成、[2019年](../Page/2019年.md "wikilink")に活動休止\[1\]。
+[9nine_logo.jpg](https://ja.wikipedia.org/wiki/File:9nine_logo.jpg "fig:9nine_logo.jpg") **9nine**（ナイン）は、[レプロエンタテインメント](../Page/レプロエンタテインメント.md "wikilink")所属の[モデル](../Page/モデル_\(職業\).md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[女優](../Page/俳優.md "wikilink")、[声優](../Page/声優.md "wikilink")、[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")で構成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のパフォーマンスガールズユニット。[2005年](../Page/2005年.md "wikilink")に結成、[2019年](../Page/2019年.md "wikilink")より活動休止中\[1\]。
 
 ## 概要
 
@@ -485,11 +485,13 @@
 
 :\* 4月6日：中野サンプラザにて*ワンマンライブ『9nine one man live 2019 Forever 9nine』*を開催し、活動休止。
 
-:\* 5月20日：吉井の脱退および芸能界引退を発表。
+:\* 5月20日：吉井の脱退を発表。
 
 :\* 9月9日：**Blu-ray『9nine one man live 2019 Forever 9nine』**をリリース。
 
-:\*9月29日：西脇彩華バースディイベント
+  - 2020年
+
+:\* 5月22日：活動休止後初の*オンラインイベント『9nine online event 2020 〜ONLINEのON9NINE\!〜』*をSHOWROOMから配信予定。
 
 ## 作品
 
@@ -1873,6 +1875,12 @@ WEB-CMソング</p></td>
 <td><p>9nine関係者によるワンマンライブプレイベント</p></td>
 </tr>
 <tr class="even">
+<td><p>2020年5月22日</p></td>
+<td><p><strong>9nine online event 2020 〜ONLINEのON9NINE!〜</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SHOWROOM" title="wikilink">SHOWROOM</a></p></td>
+<td><p>各メンバーが自宅よりSHOWROOMを介して配信。</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

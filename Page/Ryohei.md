@@ -1,9 +1,9 @@
 > この記事は[Ryohei](https://ja.wikipedia.org/wiki/Ryohei)から翻訳されています。
 
 
-Ryohei（りょうへい）は、日本のボーカリスト、音楽作家、音楽プロデューサー、DJ等、数々の肩書きを持つ。
+**Ryohei**（りょうへい）は、日本の[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")、[音楽作家](https://ja.wikipedia.org/wiki/音楽作家 "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[DJ等](../Page/ディスクジョッキー.md "wikilink")、数々の肩書きを持つ。
 
-本名、山本 領平（やまもと りょうへい）。
+本名、**山本 領平**（やまもと りょうへい）。
 
 ## プロフィール
 

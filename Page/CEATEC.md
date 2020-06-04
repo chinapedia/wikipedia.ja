@@ -48,6 +48,9 @@
 ## 外部リンク
 
   -
+  -
+  -
+  -
 [Category:幕張メッセの行事・イベント](https://ja.wikipedia.org/wiki/Category:幕張メッセの行事・イベント "wikilink") [Category:JAPAN国際コンテンツフェスティバル](https://ja.wikipedia.org/wiki/Category:JAPAN国際コンテンツフェスティバル "wikilink") [Category:日本の見本市・展示会](https://ja.wikipedia.org/wiki/Category:日本の見本市・展示会 "wikilink") [Category:電子工学](https://ja.wikipedia.org/wiki/Category:電子工学 "wikilink") [Category:コンピュータ関連のイベント](https://ja.wikipedia.org/wiki/Category:コンピュータ関連のイベント "wikilink") [Category:秋のイベント](https://ja.wikipedia.org/wiki/Category:秋のイベント "wikilink")
 
 1.  [2014年9月26日　ソニーのいないＣＥＡＴＥＣの秋](http://www.jcer.or.jp/column/nishioka/print682.html) 日本経済研究センター

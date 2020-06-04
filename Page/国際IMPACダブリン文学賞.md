@@ -42,22 +42,33 @@
 [1999年](../Page/1999年.md "wikilink") - [アンドリュー・ミラー](https://ja.wikipedia.org/wiki/アンドリュー・ミラー_\(小説家\) "wikilink"), *Ingenious Pain*（日本語訳『[器用な痛み](https://ja.wikipedia.org/wiki/器用な痛み "wikilink")』ISBN 4560046921）
 
   - 候補作:
-      - [ジム・クレイス](https://ja.wikipedia.org/wiki/ジム・クレイス "wikilink"), *Quarantine* （日本語訳『四十日』ISBN 978-4309904917）
+      - , *Quarantine* （日本語訳『四十日』ISBN 978-4309904917）
+
       - [ドン・デリーロ](../Page/ドン・デリーロ.md "wikilink"), *Underworld* (日本語訳『アンダーワールド』ISBN 4105418017, ISBN 4105418025)
+
       - [フランシスコ・ゴールドマン](https://ja.wikipedia.org/wiki/フランシスコ・ゴールドマン "wikilink"), *The Ordinary Seaman*
+
       - [イアン・マキューアン](../Page/イアン・マキューアン.md "wikilink"), *Enduring Love* (日本語作品『愛の続き』ISBN 978-4105900212)
+
       - [村上春樹](../Page/村上春樹.md "wikilink"), *The Wind-up Bird Chronicle*（日本語作品『[ねじまき鳥クロニクル](../Page/ねじまき鳥クロニクル.md "wikilink")』より翻訳）
+
       - [シンシア・オジック](https://ja.wikipedia.org/wiki/シンシア・オジック "wikilink"), *The Puttermesser Papers*
+
       - [ベルンハルト・シュリンク](https://ja.wikipedia.org/wiki/ベルンハルト・シュリンク "wikilink"), *The Reader* (日本語作品『[朗読者](https://ja.wikipedia.org/wiki/朗読者 "wikilink")』ISBN 978-4105900182)
 
 [2000年](../Page/2000年.md "wikilink") - [ニコラ・バーカー](https://ja.wikipedia.org/wiki/ニコラ・バーカー "wikilink"), *Wide Open*
 
   - 候補作:
       - [マイケル・カニンガム](../Page/マイケル・カニンガム.md "wikilink"), *The Hours*（日本語訳『めぐりあう時間たち―三人のダロウェイ夫人』ISBN 978-4000245210）
-      - Jackie Kay, *Trumpet*
-      - Colum McCann, *This Side of Brightness*
+
+      - , *Trumpet*（日本語訳『トランペット』ISBN 4000611550）
+
+      - , *This Side of Brightness*
+
       - [アリス・マクダーモット](https://ja.wikipedia.org/wiki/アリス・マクダーモット "wikilink"), *Charming Billy*
+
       - [トニ・モリスン](../Page/トニ・モリスン.md "wikilink"), *Paradise*（日本語訳『パラダイス』 ISBN 4152082038）
+
       - [フィリップ・ロス](../Page/フィリップ・ロス.md "wikilink"), *I Married a Communist*
 
 [2001年](../Page/2001年.md "wikilink") - [アリステア・マクラウド](https://ja.wikipedia.org/wiki/アリステア・マクラウド "wikilink"), *No Great Mischief*（日本語訳『彼方なる歌に耳を澄ませよ』ISBN 4105900455）
@@ -67,7 +78,7 @@
       - Silvia Molina, *The Love You Promised Me*
       - Andrew O'Hagan, *Our Fathers*
       - [ヴィクトル・ペレーヴィン](../Page/ヴィクトル・ペレーヴィン.md "wikilink"), *Buddha's Little Finger*
-      - Colm Tóibín, *The Blackwater Lightship*
+      - [コルム・トビーン](https://ja.wikipedia.org/wiki/コルム・トビーン "wikilink"), *The Blackwater Lightship*（日本語訳『ブラックウォーター灯台船』ISBN 4879843563）
 
 [2002年](../Page/2002年.md "wikilink") - [ミシェル・ウエルベック](../Page/ミシェル・ウエルベック.md "wikilink"), *The Elementary Particles (Atomised)*（フランス語作品より翻訳、日本語訳『[素粒子](https://ja.wikipedia.org/wiki/素粒子_\(小説\) "wikilink")』ISBN 4480421777）
 
@@ -82,12 +93,18 @@
 [2003年](../Page/2003年.md "wikilink") - [オルハン・パムク](../Page/オルハン・パムク.md "wikilink"), *My Name is Red*（日本語訳『[わたしの名は紅](https://ja.wikipedia.org/wiki/わたしの名は紅 "wikilink")』ISBN 4894344092）
 
   - 候補作:
-      - Dennis Bock, *The Ash Garden*
+      - , *The Ash Garden*（日本語訳『灰の庭』ISBN 4309203752）
+
       - Achmat Dangor, *Bitter Fruit*
+
       - [ペール・オロフ・エンクイスト](https://ja.wikipedia.org/wiki/ペール・オロフ・エンクイスト "wikilink"), *The Royal Physician's Visit*
+
       - [ジョナサン・フランゼン](../Page/ジョナサン・フランゼン.md "wikilink"), *The Corrections* (日本語訳『コレクションズ』ISBN 978-4105425012)
+
       - [リディア・ジョルジェ](https://ja.wikipedia.org/wiki/リディア・ジョルジェ "wikilink"), *The Migrant Painter of Birds*
+
       - [ジョン・マクガハン](../Page/ジョン・マクガハン.md "wikilink"), *That They May Face the Rising Sun*(日本語訳『湖畔』ISBN 978-4336051721)
+
       - [アン・パチェット](https://ja.wikipedia.org/wiki/アン・パチェット "wikilink"), *Bel Canto* (日本語訳『ベル・カント』ISBN 4152084812)
 
 [2004年](../Page/2004年.md "wikilink") - [タハール・ベン＝ジェルーン](https://ja.wikipedia.org/wiki/タハール・ベン＝ジェルーン "wikilink"), *This Blinding absence of light*（フランス語作品より翻訳、日本語訳『あやまちの夜』 ISBN 4314008830）
@@ -103,7 +120,7 @@
       - [アティーク・ラヒーミー](https://ja.wikipedia.org/wiki/アティーク・ラヒーミー "wikilink"), *Earth and Ashes* (ダリ語作品より翻訳)
       - [オルガ・トカルチュク](https://ja.wikipedia.org/wiki/オルガ・トカルチュク "wikilink"), *House of Day, House of Night* (ポーランド語作品より翻訳、日本語訳『昼の家、夜の家』 ISBN 978-4560090121)
 
-[2005年](../Page/2005年.md "wikilink") - [エドワード・P・ジョーンズ](https://ja.wikipedia.org/wiki/エドワード・P・ジョーンズ "wikilink"), *The Known World*
+[2005年](../Page/2005年.md "wikilink") - , *The Known World*（日本語訳『地図になかった世界』ISBN 978-4560090190）
 
   - 候補作:
       - [ダイアン・アウェーバック](https://ja.wikipedia.org/wiki/ダイアン・アウェーバック "wikilink"), *Gardening at Night*
@@ -138,13 +155,13 @@
 
 :\* , *The Logogryph*
 
-[2007年](../Page/2007年.md "wikilink") - [ペール・ペッテルソン](https://ja.wikipedia.org/wiki/ペール・ペッテルソン "wikilink"), *Out Stealing Horses* (ノルウェー語作品より翻訳)
+[2007年](../Page/2007年.md "wikilink") - , *Out Stealing Horses* (ノルウェー語作品より翻訳、日本語訳『馬を盗みに』ISBN 4560090130)
 
   - 候補作:
 
 :\* [ジュリアン・バーンズ](https://ja.wikipedia.org/wiki/ジュリアン・バーンズ "wikilink"), *Arthur & George*, (日本語訳『アーサーとジョージ』ISBN 978-4120048104)
 
-:\* Sebastian Barry, *A Long Long Way*
+:\* , *A Long Long Way*
 
 :\* [J・M・クッツェー](../Page/J・M・クッツェー.md "wikilink"), *Slow Man*, (日本語訳『遅い男』ISBN 978-4-15-209261-8)
 
@@ -182,39 +199,39 @@
 
 :\* [ジャン・エシュノーズ](https://ja.wikipedia.org/wiki/ジャン・エシュノーズ "wikilink"), *Ravel* (フランス語作品より翻訳、日本語訳『ラヴェル』ISBN 978-4622073321)
 
-:\* [:en:Mohsin Hamid](https://ja.wikipedia.org/wiki/:en:Mohsin_Hamid "wikilink"), *The Reluctant Fundamentalist*
+:\* , *The Reluctant Fundamentalist*（日本語訳『コウモリの見た夢』ISBN 4270006544）
 
-:\* [:en:Travis Holland](https://ja.wikipedia.org/wiki/:en:Travis_Holland "wikilink"), *The Archivist's Story*
+:\* [Travis Holland](https://ja.wikipedia.org/wiki/:en:Travis_Holland "wikilink"), *The Archivist's Story*
 
-:\* [:en:Roy Jacobsen](https://ja.wikipedia.org/wiki/:en:Roy_Jacobsen "wikilink"), *The Burnt-Out Town of Miracles* (ノルウェー語作品より翻訳)
+:\* [Roy Jacobsen](https://ja.wikipedia.org/wiki/:en:Roy_Jacobsen "wikilink"), *The Burnt-Out Town of Miracles* (ノルウェー語作品より翻訳)
 
-:\* [:en:David Leavitt](https://ja.wikipedia.org/wiki/:en:David_Leavitt "wikilink"), *The Indian Clerk*
+:\* , *The Indian Clerk*
 
-:\* [:en:Indra Sinha](https://ja.wikipedia.org/wiki/:en:Indra_Sinha "wikilink"), *Animal's People*
+:\* , *Animal's People*（日本語訳『アニマルズ・ピープル』ISBN 4152091932）
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [Gerbrand Bakker](https://ja.wikipedia.org/wiki/:en:Gerbrand_Bakker_\(novelist\) "wikilink"), *The Twin* (ドイツ語作品より翻訳)
 
   - 候補作:
 
-:\* [:en:Muriel Barbery](https://ja.wikipedia.org/wiki/:en:Muriel_Barbery "wikilink"), *The Elegance of the Hedgehog* (フランス語作品より翻訳)
+:\* , *The Elegance of the Hedgehog* (フランス語作品より翻訳)
 
-:\* [:en:Robert Edric](https://ja.wikipedia.org/wiki/:en:Robert_Edric "wikilink"), *In Zodiac Light*
+:\* [Robert Edric](https://ja.wikipedia.org/wiki/:en:Robert_Edric "wikilink"), *In Zodiac Light*
 
-:\* [:en:Christoph Hein](https://ja.wikipedia.org/wiki/:en:Christoph_Hein "wikilink"), *Settlement* (ドイツ語作品より翻訳)
+:\* , *Settlement* (ドイツ語作品より翻訳)
 
-:\* [:en:Zoë Heller](https://ja.wikipedia.org/wiki/:en:Zoë_Heller "wikilink"), *The Believers*
+:\* [Zoë Heller](https://ja.wikipedia.org/wiki/:en:Zoë_Heller "wikilink"), *The Believers*
 
-:\* [Joseph O'Neill](https://ja.wikipedia.org/wiki/:en:Joseph_O'Neill_\(born_1964\) "wikilink"), *Netherland*
+:\* , *Netherland*（日本語訳『ネザーランド』ISBN 4152092351）
 
-:\* [:en:Ross Raisin](https://ja.wikipedia.org/wiki/:en:Ross_Raisin "wikilink"), *God's Own Country*
+:\* [Ross Raisin](https://ja.wikipedia.org/wiki/:en:Ross_Raisin "wikilink"), *God's Own Country*
 
 :\* [マリリン・ロビンソン](https://ja.wikipedia.org/wiki/マリリン・ロビンソン "wikilink"), *Home*
 
-[2011年](../Page/2011年.md "wikilink") - [:en:Colum McCann](https://ja.wikipedia.org/wiki/:en:Colum_McCann "wikilink"), *Let the Great World Spin*
+[2011年](../Page/2011年.md "wikilink") - コラム・マッキャン, *Let the Great World Spin*（『世界を回せ』ISBN 4309206220）
 
   - 候補作:
 
-:\* [:en:Michael Crummey](https://ja.wikipedia.org/wiki/:en:Michael_Crummey "wikilink"), *Galore*
+:\* [Michael Crummey](https://ja.wikipedia.org/wiki/:en:Michael_Crummey "wikilink"), *Galore*
 
 :\* [バーバラ・キングソルヴァー](https://ja.wikipedia.org/wiki/バーバラ・キングソルヴァー "wikilink"), *The Lacuna*
 
@@ -224,117 +241,117 @@
 
 :\* [ジョイス・キャロル・オーツ](../Page/ジョイス・キャロル・オーツ.md "wikilink"), *Little Bird of Heaven*
 
-:\* [:en:Craig Silvey](https://ja.wikipedia.org/wiki/:en:Craig_Silvey "wikilink"), *Jasper Jones*
+:\* [Craig Silvey](https://ja.wikipedia.org/wiki/:en:Craig_Silvey "wikilink"), *Jasper Jones*
 
-:\* [:en:Colm Tóibín](https://ja.wikipedia.org/wiki/:en:Colm_Tóibín "wikilink"), *Brooklyn*
+:\* [コルム・トビーン](https://ja.wikipedia.org/wiki/コルム・トビーン "wikilink"), *Brooklyn*（『ブルックリン』ISBN 456009022X）
 
 :\* [ウィリアム・トレヴァー](../Page/ウィリアム・トレヴァー.md "wikilink"), *Love and Summer* (日本語訳『恋と夏』ISBN 978-4-336-05915-4)
 
-:\* [:en:Evie Wyld](https://ja.wikipedia.org/wiki/:en:Evie_Wyld "wikilink"), *After the Fire, A Still Small Voice*
+:\* [Evie Wyld](https://ja.wikipedia.org/wiki/:en:Evie_Wyld "wikilink"), *After the Fire, A Still Small Voice*
 
-[2012年](../Page/2012年.md "wikilink") - [:en:Jon McGregor](https://ja.wikipedia.org/wiki/:en:Jon_McGregor "wikilink"), *Even the Dogs*
+[2012年](../Page/2012年.md "wikilink") - , *Even the Dogs*
 
   - 候補作:
 
-:\* John Bauer, *Rocks in the Belly*
+:\* Jon Bauer, *Rocks in the Belly*
 
-:\* [:en:David Bergen](https://ja.wikipedia.org/wiki/:en:David_Bergen "wikilink"), *The Matter with Morris*
+:\* [David Bergen](https://ja.wikipedia.org/wiki/:en:David_Bergen "wikilink"), *The Matter with Morris*
 
-:\* [:en:Jennifer Egan](https://ja.wikipedia.org/wiki/:en:Jennifer_Egan "wikilink"), *A Visit From the Goon Squad*
+:\* , *A Visit From the Goon Squad*（日本語訳『ならずものがやってくる』ISBN 4151200827）
 
-:\* [:en:Aminatta Forna](https://ja.wikipedia.org/wiki/:en:Aminatta_Forna "wikilink"), *The Memory of Love*
+:\* [Aminatta Forna](https://ja.wikipedia.org/wiki/:en:Aminatta_Forna "wikilink"), *The Memory of Love*
 
-:\* [:en:Karl Marlantes](https://ja.wikipedia.org/wiki/:en:Karl_Marlantes "wikilink"), *Matterhorn*
+:\* [Karl Marlantes](https://ja.wikipedia.org/wiki/:en:Karl_Marlantes "wikilink"), *Matterhorn*
 
-:\* [:en:Tim Pears](https://ja.wikipedia.org/wiki/:en:Tim_Pears "wikilink"), *Landed*
+:\* [Tim Pears](https://ja.wikipedia.org/wiki/:en:Tim_Pears "wikilink"), *Landed*
 
-:\* [:en:Yishai Sarid](https://ja.wikipedia.org/wiki/:en:Yishai_Sarid "wikilink"), *Limassol*
+:\* [Yishai Sarid](https://ja.wikipedia.org/wiki/:en:Yishai_Sarid "wikilink"), *Limassol*
 
-:\* Cristovão Tezza, *The Eternal Son*
+:\* [Cristóvão Tezza](https://ja.wikipedia.org/wiki/:en:Cristóvão_Tezza "wikilink"), *The Eternal Son*
 
-:\* [:en:Willy Vlautin](https://ja.wikipedia.org/wiki/:en:Willy_Vlautin "wikilink"), *Lean on Pete*
+:\* , *Lean on Pete*（日本語訳『荒野にて』ISBN 4152098449）
 
-[2013年](../Page/2013年.md "wikilink") - [:en:Kevin Barry (author)](https://ja.wikipedia.org/wiki/:en:Kevin_Barry_\(author\) "wikilink"), *City of Bohane*
+[2013年](../Page/2013年.md "wikilink") - , *City of Bohane*
 
   - 候補作:
 
 :\* [ミシェル・ウエルベック](../Page/ミシェル・ウエルベック.md "wikilink"), *The Map and the Territory* (日本語訳『地図と領土』ISBN 978-4-480-83206-1)
 
-:\* [:en:Andrew Miller (novelist)](https://ja.wikipedia.org/wiki/:en:Andrew_Miller_\(novelist\) "wikilink"), *Pure*
+:\* [Andrew Miller](https://ja.wikipedia.org/wiki/:en:Andrew_Miller_\(novelist\) "wikilink"), *Pure*
 
 :\* [村上春樹](../Page/村上春樹.md "wikilink"), 『[1Q84](https://ja.wikipedia.org/wiki/1Q84 "wikilink")』
 
-:\* [:en:Julie Otsuka](https://ja.wikipedia.org/wiki/:en:Julie_Otsuka "wikilink"), *The Buddha in the Attic*
+:\* [ジュリー・オオツカ](https://ja.wikipedia.org/wiki/ジュリー・オオツカ "wikilink"), *The Buddha in the Attic*（日本語訳『屋根裏の仏さま』ISBN 4105901257）
 
-:\* [:en:Arthur Phillips](https://ja.wikipedia.org/wiki/:en:Arthur_Phillips "wikilink"), *The Tragedy of Arthur*
+:\* [Arthur Phillips](https://ja.wikipedia.org/wiki/:en:Arthur_Phillips "wikilink"), *The Tragedy of Arthur*
 
-:\* [:en:Karen Russell](https://ja.wikipedia.org/wiki/:en:Karen_Russell "wikilink"), *Swamplandia\!*
+:\* , *Swamplandia\!*
 
-:\* [:en:Sjón](https://ja.wikipedia.org/wiki/:en:Sjón "wikilink"), *From the Mouth of the Whale*
+:\* [Sjón](https://ja.wikipedia.org/wiki/:en:Sjón "wikilink"), *From the Mouth of the Whale*
 
-:\* Kjersti A. Skomsvold, *The Faster I Walk , The Smaller I Am*
+:\* [Kjersti Annesdatter Skomsvold](https://ja.wikipedia.org/wiki/:en:Kjersti_Annesdatter_Skomsvold "wikilink"), *The Faster I Walk, The Smaller I Am*
 
-:\* [:en:Tommy Wieringa](https://ja.wikipedia.org/wiki/:en:Tommy_Wieringa "wikilink"), *Caesarion* (ドイツ語作品より翻訳)
+:\* [Tommy Wieringa](https://ja.wikipedia.org/wiki/:en:Tommy_Wieringa "wikilink"), *Caesarion* (ドイツ語作品より翻訳)
 
 [2014年](../Page/2014年.md "wikilink") - [フアン・ガブリエル・バスケス](https://ja.wikipedia.org/wiki/フアン・ガブリエル・バスケス "wikilink"), ''The Sound of Things Falling '' (スペイン語作品より翻訳、日本語訳『物が落ちる音』ISBN 978-4879843449)
 
   - 候補作:
 
-:\* [:en:Gerbrand Bakker (novelist)](https://ja.wikipedia.org/wiki/:en:Gerbrand_Bakker_\(novelist\) "wikilink"), *The Detour* (ドイツ語作品より翻訳)
+:\* [Gerbrand Bakker](https://ja.wikipedia.org/wiki/:en:Gerbrand_Bakker_\(novelist\) "wikilink"), *The Detour* (ドイツ語作品より翻訳)
 
-:\* [:en:Michelle de Kretser](https://ja.wikipedia.org/wiki/:en:Michelle_de_Kretser "wikilink"), *Questions of Travel*
+:\* [Michelle de Kretser](https://ja.wikipedia.org/wiki/:en:Michelle_de_Kretser "wikilink"), *Questions of Travel*
 
-:\* Patrick Flanery, *Absolution*
+:\* [Patrick Flanery](https://ja.wikipedia.org/wiki/:en:Patrick_Flanery "wikilink"), *Absolution*
 
-:\* [:en:Karl Ove Knausgård](https://ja.wikipedia.org/wiki/:en:Karl_Ove_Knausgård "wikilink"), ''A Death In The Family '' (ノルウェー語作品より翻訳)
+:\* [カール・オーヴェ・クナウスゴール](https://ja.wikipedia.org/wiki/カール・オーヴェ・クナウスゴール "wikilink"), ''A Death In The Family '' (ノルウェー語作品より翻訳、日本語訳『わが闘争 - 父の死』ISBN 978-415209562-6)
 
 :\* [マリー・ンディアイ](https://ja.wikipedia.org/wiki/マリー・ンディアイ "wikilink"), *Three Strong Women* (フランス語作品より翻訳、日本語訳『三人の逞しい女』ISBN 978-4152093134)
 
-:\* [:en:Andrés Neuman](https://ja.wikipedia.org/wiki/:en:Andrés_Neuman "wikilink"), *Traveller of the Century* (スペイン語作品より翻訳)
+:\* [Andrés Neuman](https://ja.wikipedia.org/wiki/:en:Andrés_Neuman "wikilink"), *Traveller of the Century* (スペイン語作品より翻訳)
 
-:\* [:en:Tan Twan Eng](https://ja.wikipedia.org/wiki/:en:Tan_Twan_Eng "wikilink"), *The Garden of Evening Mists*
+:\* [Tan Twan Eng](https://ja.wikipedia.org/wiki/:en:Tan_Twan_Eng "wikilink"), *The Garden of Evening Mists*
 
-[2015年](../Page/2015年.md "wikilink") - [:en:Jim Crace](https://ja.wikipedia.org/wiki/:en:Jim_Crace "wikilink"), *Harvest*
+[2015年](../Page/2015年.md "wikilink") - ジム・クレイス, *Harvest*
 
   - 候補作:
 
 :\* [リチャード・フラナガン](https://ja.wikipedia.org/wiki/リチャード・フラナガン "wikilink"), *The Narrow Road to the Deep North*(日本語訳『奥のほそ道』ISBN 978-4560096291)
 
-:\* [:en:Hannah Kent](https://ja.wikipedia.org/wiki/:en:Hannah_Kent "wikilink"), *Burial Rites*
+:\* , *Burial Rites*（日本語訳『凍える墓』ISBN 4087606996）
 
-:\* [:en:Bernardo Kucinski](https://ja.wikipedia.org/wiki/:en:Bernardo_Kucinski "wikilink"), *K* (ポルトガル語作品より翻訳)
+:\* , *K* (ポルトガル語作品より翻訳、日本語訳『K - 消えた娘を追って』ISBN 4763407406)
 
 :\* [アンドレイ・マキーヌ](https://ja.wikipedia.org/wiki/アンドレイ・マキーヌ "wikilink"), *Brief Loves That Live Forever* (フランス語作品より翻訳)
 
-:\* [:en:Colum McCann](https://ja.wikipedia.org/wiki/:en:Colum_McCann "wikilink"), *TransAtlantic*
+:\* コラム・マッキャン, *TransAtlantic*
 
-:\* [:en:Mahi Binebine](https://ja.wikipedia.org/wiki/:en:Mahi_Binebine "wikilink"), *Horses of God* (フランス語作品より翻訳)
+:\* [Mahi Binebine](https://ja.wikipedia.org/wiki/:en:Mahi_Binebine "wikilink"), *Horses of God* (フランス語作品より翻訳)
 
 :\* [チママンダ・ンゴズィ・アディーチェ](https://ja.wikipedia.org/wiki/チママンダ・ンゴズィ・アディーチェ "wikilink"), *Americanah* (日本語訳『アメリカーナ』ISBN 978-4309207186)
 
-:\* [:en:Alice McDermott](https://ja.wikipedia.org/wiki/:en:Alice_McDermott "wikilink"), *Someone*
+:\* , *Someone*
 
-:\* [:en:Roxana Barry Robinson](https://ja.wikipedia.org/wiki/:en:Roxana_Barry_Robinson "wikilink"), *Sparta*
+:\* [Roxana Barry Robinson](https://ja.wikipedia.org/wiki/:en:Roxana_Barry_Robinson "wikilink"), *Sparta*
 
-[2016年](../Page/2016年.md "wikilink") - [:en:Akhil Sharma](https://ja.wikipedia.org/wiki/:en:Akhil_Sharma "wikilink"), *Family Life*
+[2016年](../Page/2016年.md "wikilink") - , *Family Life*（日本語訳『ファミリー・ライフ』ISBN 4105901435）
 
   - 候補作:
 
 :\* [ハビエル・セルカス](https://ja.wikipedia.org/wiki/ハビエル・セルカス "wikilink"), *Outlaws*(スペイン語作品より翻訳)
 
-:\* Mary Costello, *Academy Street*
+:\* [Mary Costello](https://ja.wikipedia.org/wiki/:en:Mary_Costello "wikilink"), *Academy Street*
 
-:\* [:en:Dave Eggers](https://ja.wikipedia.org/wiki/:en:Dave_Eggers "wikilink"), *Your Fathers, Where Are They? And the Prophets, Do They Live Forever?*
+:\* , *Your Fathers, Where Are They? And the Prophets, Do They Live Forever?*
 
-:\* [:en:Jenny Erpenbeck](https://ja.wikipedia.org/wiki/:en:Jenny_Erpenbeck "wikilink"), *The End of Days*(ドイツ語作品より翻訳)
+:\* , *The End of Days*(ドイツ語作品より翻訳)
 
-:\* [:en:Marlon James (novelist)](https://ja.wikipedia.org/wiki/:en:Marlon_James_\(novelist\) "wikilink"), *A Brief History of Seven Killings*
+:\* , *A Brief History of Seven Killings*（日本語訳『七つの殺人に関する簡潔な記録』ISBN 9784152098672）
 
-:\* [:en:Michel Laub](https://ja.wikipedia.org/wiki/:en:Michel_Laub "wikilink"), *Diary of the Fall*(ポルトガル語作品より翻訳)
+:\* [Michel Laub](https://ja.wikipedia.org/wiki/:en:Michel_Laub "wikilink"), *Diary of the Fall*(ポルトガル語作品より翻訳)
 
-:\* [:en:Scholastique Mukasonga](https://ja.wikipedia.org/wiki/:en:Scholastique_Mukasonga "wikilink"), *Our Lady of the Nile*(フランス語作品より翻訳)
+:\* , *Our Lady of the Nile*(フランス語作品より翻訳)
 
-:\* [:en:Jenny Offill](https://ja.wikipedia.org/wiki/:en:Jenny_Offill "wikilink"), *Dept. of Speculation*
+:\* , *Dept. of Speculation*
 
 :\* [マリリン・ロビンソン](https://ja.wikipedia.org/wiki/マリリン・ロビンソン "wikilink"), *Lila*
 
@@ -344,65 +361,65 @@
 
 :\* [ミア・コウト](https://ja.wikipedia.org/wiki/ミア・コウト "wikilink"), *Confession of the Lioness*(ポルトガル語作品より翻訳)
 
-:\* [:en:Anne Enright](https://ja.wikipedia.org/wiki/:en:Anne_Enright "wikilink"), *The Green Road*
+:\* [Anne Enright](https://ja.wikipedia.org/wiki/:en:Anne_Enright "wikilink"), *The Green Road*
 
-:\* [:en:Kim Leine](https://ja.wikipedia.org/wiki/:en:Kim_Leine "wikilink"), *The Prophets of Eternal Fjord*(デンマーク語作品より翻訳)
+:\* [Kim Leine](https://ja.wikipedia.org/wiki/:en:Kim_Leine "wikilink"), *The Prophets of Eternal Fjord*(デンマーク語作品より翻訳)
 
-:\* [:en:Valeria Luiselli](https://ja.wikipedia.org/wiki/:en:Valeria_Luiselli "wikilink"), *The Story of My Teeth*'(スペイン語作品より翻訳)
+:\* , *The Story of My Teeth*'(スペイン語作品より翻訳、日本語訳『俺の歯の話』ISBN 4560097380)
 
-:\* [:en:Viet Thanh Nguyen](https://ja.wikipedia.org/wiki/:en:Viet_Thanh_Nguyen "wikilink"), *The Sympathizer*
+:\* , *The Sympathizer*（日本語訳『シンパサイザー』ISBN 4151828516）
 
-:\* [:en:Chinelo Okparanta](https://ja.wikipedia.org/wiki/:en:Chinelo_Okparanta "wikilink"), *Under the Udala Trees*(フランス語作品より翻訳)
+:\* [Chinelo Okparanta](https://ja.wikipedia.org/wiki/:en:Chinelo_Okparanta "wikilink"), *Under the Udala Trees*(フランス語作品より翻訳)
 
 :\* [オルハン・パムク](../Page/オルハン・パムク.md "wikilink"), *A Strangeness in My Mind*(トルコ語作品より翻訳、日本語訳『僕の違和感』ISBN 978-4152095985)
 
-:\* [:en:Robert Seethaler](https://ja.wikipedia.org/wiki/:en:Robert_Seethaler "wikilink"), *A Whole Lif*(ドイツ語作品より翻訳)
+:\* , *A Whole Life*(ドイツ語作品より翻訳、日本語訳『ある一生』ISBN 4105901583)
 
 :\* [ハンヤ・ヤナギハラ](../Page/ハンヤ・ヤナギハラ.md "wikilink"), *A Little Lifer*
 
-[2018年](../Page/2018年.md "wikilink") - [:en:Mike McCormack (writer)](https://ja.wikipedia.org/wiki/:en:Mike_McCormack_\(writer\) "wikilink"), *Solar Bone*
+[2018年](../Page/2018年.md "wikilink") - [Mike McCormack](https://ja.wikipedia.org/wiki/:en:Mike_McCormack_\(writer\) "wikilink"), *Solar Bone*
 
   - 候補作:
 
-:\* [:en:Alina Bronsky](https://ja.wikipedia.org/wiki/:en:Alina_Bronsky "wikilink"), *Baba Dunja's Last Love*(ドイツ語作品より翻訳)
+:\* , *Baba Dunja's Last Love*(ドイツ語作品より翻訳、日本語訳『ババ・ドゥンヤ 最後の愛』ISBN 4286211800)
 
-:\* [:en:Yuri Herrera](https://ja.wikipedia.org/wiki/:en:Yuri_Herrera "wikilink") *The Transmigration of Bodies*(スペイン語作品より翻訳)
+:\* [Yuri Herrera](https://ja.wikipedia.org/wiki/:en:Yuri_Herrera "wikilink"), *The Transmigration of Bodies*(スペイン語作品より翻訳)
 
-:\* [:en:Roy Jacobsen](https://ja.wikipedia.org/wiki/:en:Roy_Jacobsen "wikilink") *The Unseen*(ノルウェー語作品より翻訳)
+:\* [Roy Jacobsen](https://ja.wikipedia.org/wiki/:en:Roy_Jacobsen "wikilink"), *The Unseen*(ノルウェー語作品より翻訳)
 
-:\* [韓江](https://ja.wikipedia.org/wiki/韓江_\(小説家\) "wikilink") *Human Acts* (韓国語作品より翻訳、日本語訳『少年が来る』ISBN 978-4904855409)
+:\* [韓江](https://ja.wikipedia.org/wiki/韓江_\(小説家\) "wikilink"), *Human Acts* (韓国語作品より翻訳、日本語訳『少年が来る』ISBN 978-4904855409)
 
-:\* [:en:Eimear McBride](https://ja.wikipedia.org/wiki/:en:Eimear_McBride "wikilink") *The Lesser Bohemians*
+:\* [Eimear McBride](https://ja.wikipedia.org/wiki/:en:Eimear_McBride "wikilink"), *The Lesser Bohemians*
 
-:\* [:en:Antonio Moresco](https://ja.wikipedia.org/wiki/:en:Antonio_Moresco "wikilink") *Distant Light*(イタリア語作品より翻訳)
+:\* [アントニオ・モレスコ](https://ja.wikipedia.org/wiki/アントニオ・モレスコ "wikilink"), *Distant Light*(イタリア語作品より翻訳)
 
-:\* [マリー・ンディアイ](https://ja.wikipedia.org/wiki/マリー・ンディアイ "wikilink") *Ladivine*(フランス語作品より翻訳)
+:\* [マリー・ンディアイ](https://ja.wikipedia.org/wiki/マリー・ンディアイ "wikilink"), *Ladivine*(フランス語作品より翻訳)
 
-:\* [:en:Yewande Omotoso](https://ja.wikipedia.org/wiki/:en:Yewande_Omotoso "wikilink") *The Woman Next Door*
+:\* [Yewande Omotoso](https://ja.wikipedia.org/wiki/:en:Yewande_Omotoso "wikilink"), *The Woman Next Door*
 
-:\* [エリザベス・ストラウト](https://ja.wikipedia.org/wiki/エリザベス・ストラウト "wikilink") *My Name is Lucy Barton* (日本語訳『私の名前はルーシー・バートン』ISBN 978-4152096814)
+:\* [エリザベス・ストラウト](https://ja.wikipedia.org/wiki/エリザベス・ストラウト "wikilink"), *My Name is Lucy Barton* (日本語訳『私の名前はルーシー・バートン』ISBN 978-4152096814)
 
-[2019年](../Page/2019年.md "wikilink") - Emily Ruskovich, *Idaho*
+[2019年](../Page/2019年.md "wikilink") - [Emily Ruskovich](https://ja.wikipedia.org/wiki/:en:Emily_Ruskovich "wikilink"), *Idaho*
 
   - 候補作:
 
 :\* [マティアス・エナール](https://ja.wikipedia.org/wiki/マティアス・エナール "wikilink"), *Compass*(フランス語作品より翻訳)
 
-:\* [:en:Emily Fridlund](https://ja.wikipedia.org/wiki/:en:Emily_Fridlund "wikilink"), *History of Wolves*
+:\* [Emily Fridlund](https://ja.wikipedia.org/wiki/:en:Emily_Fridlund "wikilink"), *History of Wolves*
 
-:\* [:en:Mohsin Hamid](https://ja.wikipedia.org/wiki/:en:Mohsin_Hamid "wikilink"), *Exit West*
+:\* モーシン・ハミッド, *Exit West*（日本語訳『西への出口』ISBN 4105901621）
 
-:\* [:en:Bernard MacLaverty](https://ja.wikipedia.org/wiki/:en:Bernard_MacLaverty "wikilink"), *Midwinter Break*
+:\* [Bernard MacLaverty](https://ja.wikipedia.org/wiki/:en:Bernard_MacLaverty "wikilink"), *Midwinter Break*
 
-:\* [:en:Jon McGregor](https://ja.wikipedia.org/wiki/:en:Jon_McGregor "wikilink"), *Reservoir 13*
+:\* ジョン・マグレガー, *Reservoir 13*
 
-:\* [:en:Sally Rooney](https://ja.wikipedia.org/wiki/:en:Sally_Rooney "wikilink"), *Conversations with Friends*
+:\* [Sally Rooney](https://ja.wikipedia.org/wiki/:en:Sally_Rooney "wikilink"), *Conversations with Friends*
 
-:\* [:en:George Saunders](https://ja.wikipedia.org/wiki/:en:George_Saunders "wikilink"), *Lincoln in the Bardo*
+:\* , *Lincoln in the Bardo*（日本語訳『リンカーンとさまよえる霊魂たち』ISBN 430920743X）
 
-:\* [:en:Rachel Seiffert](https://ja.wikipedia.org/wiki/:en:Rachel_Seiffert "wikilink"), *A Boy in Winter*
+:\* , *A Boy in Winter*
 
-:\* [:en:Kamila Shamsie](https://ja.wikipedia.org/wiki/:en:Kamila_Shamsie "wikilink"), ''Home Fire ''
+:\* [Kamila Shamsie](https://ja.wikipedia.org/wiki/:en:Kamila_Shamsie "wikilink"), ''Home Fire ''
 
 ## 外部リンク
 

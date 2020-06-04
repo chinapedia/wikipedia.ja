@@ -93,7 +93,7 @@
 ### 概要
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に発売された『[SING OR DIE](https://ja.wikipedia.org/wiki/#SING_OR_DIE "wikilink")』の限定盤。ボーナストラックとして、「愛するこころ“pp-mix”live version」を収録。
-  - オリジナル盤の[シークレット・トラック](https://ja.wikipedia.org/wiki/シークレット・トラック "wikilink")に収録されている「[PEACE\!](https://ja.wikipedia.org/wiki/PEACE! "wikilink")」のWORLDWIDE VERSIONは収録されていない。
+  - オリジナル盤の[シークレット・トラックに収録されている](../Page/隠しトラック.md "wikilink")「[PEACE\!](https://ja.wikipedia.org/wiki/PEACE! "wikilink")」のWORLDWIDE VERSIONは収録されていない。
   - 2面デジパック&未発表写真を使ったステッカージャケット仕様。
 
 ### 収録曲

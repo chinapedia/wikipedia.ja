@@ -6,6 +6,7 @@
 ## 概要
 
   - 完全生産限定盤でCDとDVDの2枚組仕様。Disc1は[CD](../Page/コンパクトディスク.md "wikilink")、Disc2は収録曲9曲の[PVとおまけ映像の収録された](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD-Video.md "wikilink")。
+  - オリコン週間ランキングで初登場1位を記録し、彼らにとって初のトップを記録した。
 
 ## 収録曲
 

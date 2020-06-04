@@ -9,6 +9,8 @@
 
 [第39回日本レコード大賞](https://ja.wikipedia.org/wiki/第39回日本レコード大賞 "wikilink")「優秀作品賞」受賞。
 
+本作で初のトップ10入りを果たし、48.8万枚のロングセラーを記録。大ブレイクのきっかけを果たす。
+
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にCHERRYによってカバーされた（[ユーロビート](../Page/ユーロビート.md "wikilink")のコンピレーションアルバム『[SUPER EUROBEAT](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink") VOL.90』に収録）。
 
 [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")の中で[スマELTというコントが行われた際](../Page/SMAP×SMAPのコント・キャラクター.md "wikilink")、この曲が使用されている。なおこのコントでは[中居正広](../Page/中居正広.md "wikilink")が持田、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")が伊藤、[斉藤洋介](https://ja.wikipedia.org/wiki/斉藤洋介 "wikilink")が五十嵐に扮した。
@@ -41,6 +43,6 @@
 
 ## 脚注
 
-[Category:Every_Little_Thingの楽曲](https://ja.wikipedia.org/wiki/Category:Every_Little_Thingの楽曲 "wikilink") [Category:五十嵐充が制作した楽曲](https://ja.wikipedia.org/wiki/Category:五十嵐充が制作した楽曲 "wikilink") [Category:1997年の楽曲](https://ja.wikipedia.org/wiki/Category:1997年の楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:化粧品のコマーシャルソング "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:Every_Little_Thingの楽曲](https://ja.wikipedia.org/wiki/Category:Every_Little_Thingの楽曲 "wikilink") [Category:五十嵐充が制作した楽曲](https://ja.wikipedia.org/wiki/Category:五十嵐充が制作した楽曲 "wikilink") [Category:1997年の楽曲](https://ja.wikipedia.org/wiki/Category:1997年の楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:化粧品のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:化粧品のコマーシャルソング "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink") [Category:友達を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:友達を題材とした楽曲 "wikilink")
 
 1.

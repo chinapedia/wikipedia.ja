@@ -162,6 +162,20 @@
 11. 生きがい GLAY Ver.
 12. Savil Row ～サヴィル ロウ 3番地～ GLAY Ver.
 
+## 参加ミュージシャン
+
+  - [永井利光](../Page/永井利光.md "wikilink") - ドラム演奏
+  - [小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink") - キーボード(\#4)、ピアノ(\#4)
+  - 佐久間正英 - キーボード、ピアノ、プログラミング
+  - Nick Ingman - ストリングス編曲・オーケストラ指揮(\#1,10)
+  - ギャヴィン・ライト - ストリングス(\#1,10)
+  - [ロンドン交響楽団](../Page/ロンドン交響楽団.md "wikilink") - ストリングス合奏(\#1,10)
+  - Yvonne Shelton - コーラス(\#4,10)
+  - Wendi Rose - コーラス(\#4,10)
+  - Brendan Gyatto - コーラス(\#4,10)
+  - Ian Pitter - コーラス(\#4,10)
+  - Eiko Sakuma - コーラス(\#12)
+
 ## 脚注
 
 ## 外部リンク

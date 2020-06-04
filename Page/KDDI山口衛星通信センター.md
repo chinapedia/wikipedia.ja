@@ -45,7 +45,7 @@ KDDIは[2006年](../Page/2006年.md "wikilink")度末で茨城衛星通信セン
 
 [Category:山口市の建築物](https://ja.wikipedia.org/wiki/Category:山口市の建築物 "wikilink") [Category:衛星通信](https://ja.wikipedia.org/wiki/Category:衛星通信 "wikilink") [Category:地上局](https://ja.wikipedia.org/wiki/Category:地上局 "wikilink") [Category:KDDI](https://ja.wikipedia.org/wiki/Category:KDDI "wikilink")
 
-1.  パラボラアンテナ全般では、[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")[臼田宇宙空間観測所](../Page/臼田宇宙空間観測所.md "wikilink")の深宇宙探査用大型アンテナ（直径64m）、[国立天文台](../Page/国立天文台.md "wikilink")[野辺山宇宙電波観測所](../Page/野辺山宇宙電波観測所.md "wikilink")のミリ波電波望遠鏡（直径45m）に次いで日本第3位。なお、衛星通信用途以外では、JAXA[内之浦宇宙空間観測所](../Page/内之浦宇宙空間観測所.md "wikilink")（人工衛星追跡管制用）および[情報通信研究機構](../Page/情報通信研究機構.md "wikilink")鹿島宇宙技術センター（[電波干渉計用](../Page/超長基線電波干渉法.md "wikilink")）にも直径34mのパラボラアンテナが存在する。
+1.  パラボラアンテナ全般では、[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")[臼田宇宙空間観測所](../Page/臼田宇宙空間観測所.md "wikilink")の深宇宙探査用大型アンテナ（直径64m）、[国立天文台](../Page/国立天文台.md "wikilink")[野辺山宇宙電波観測所](../Page/野辺山宇宙電波観測所.md "wikilink")のミリ波電波望遠鏡（直径45m）に次いで日本第3位。なお、衛星通信用途以外では、JAXA[内之浦宇宙空間観測所](../Page/内之浦宇宙空間観測所.md "wikilink")（人工衛星追跡管制用）および[情報通信研究機構](../Page/情報通信研究機構.md "wikilink")鹿島宇宙技術センター（[電波干渉計用](../Page/超長基線電波干渉法.md "wikilink")）にも直径34mのパラボラアンテナが存在する。
 2.  他の無線局及び電波天文業務に用いられる受信設備への妨害になるような運用の禁止、並びに当該施設に対する総務大臣の保護指定。
 3.  地震は比較的少ないが、本センター近辺に[断層](https://ja.wikipedia.org/wiki/断層 "wikilink")がないわけではない。
 4.  ただし、現地の一部の看板類は、未だ『**KDDI山口衛星通信所**』のままである。

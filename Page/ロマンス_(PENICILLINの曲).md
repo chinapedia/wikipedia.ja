@@ -15,7 +15,7 @@
 
 1.  **ロマンス** \[4:53\]
       -
-        [TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[セクシーコマンドー外伝 すごいよ\!\!マサルさん](https://ja.wikipedia.org/wiki/セクシーコマンドー外伝_すごいよ!!マサルさん "wikilink")』オープニングテーマ
+        [TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[セクシーコマンドー外伝 すごいよ\!\!マサルさん](../Page/セクシーコマンドー外伝_すごいよ!!マサルさん.md "wikilink")』オープニングテーマ
 2.  **Tomorrow** \[5:09\]
 3.  ロマンス（[without vox](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 

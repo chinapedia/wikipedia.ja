@@ -1,7 +1,7 @@
 > この記事は[素敵なバーディー \(NO NO BIRDY\)](https://ja.wikipedia.org/wiki/素敵なバーディー_\(NO_NO_BIRDY\))から翻訳されています。
 
 
-「**素敵なバーディー (NO NO BIRDY)**」（すてきなバーディー ノー・ノー・バーディー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の33枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**素敵なバーディー (NO NO BIRDY)**」（すてきなバーディー ノー・ノー・バーディー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の33作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1993年](../Page/1993年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。
 

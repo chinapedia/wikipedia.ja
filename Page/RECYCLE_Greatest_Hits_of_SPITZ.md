@@ -1,7 +1,7 @@
 > この記事は[RECYCLE Greatest Hits of SPITZ](https://ja.wikipedia.org/wiki/RECYCLE_Greatest_Hits_of_SPITZ)から翻訳されています。
 
 
-『**RECYCLE Greatest Hits of SPITZ**』（リサイクル グレイティスト ヒッツ オブ スピッツ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[スピッツの初の](../Page/スピッツ_\(バンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。初回盤は紙ジャケット仕様。
+『**RECYCLE Greatest Hits of SPITZ**』（リサイクル グレイティスト ヒッツ オブ スピッツ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[スピッツの事実上初となる非公式](../Page/スピッツ_\(バンド\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[ポリドールより発売](../Page/ポリドール・レコード.md "wikilink")。初回盤は紙ジャケット仕様。
 
 ## 概要
 

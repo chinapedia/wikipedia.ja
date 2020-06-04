@@ -227,7 +227,7 @@
 ## 外部リンク
 
   -
-  - [競馬予想TV\!～オンデマンド版～](http://fod.fujitv.co.jp/s/genre/sports/ser1101/) - 本放送と同内容を、毎週土曜のテレビ生放送後から日曜のメインレース終了まで限定して配信している。
+  - [競馬予想TV\!～オンデマンド版～](https://fod.fujitv.co.jp/s/genre/sports/ser1101/) - 本放送と同内容を、毎週土曜のテレビ生放送後から日曜のメインレース終了まで限定して配信している。
 
 [Category:フジテレビの競馬番組](https://ja.wikipedia.org/wiki/Category:フジテレビの競馬番組 "wikilink") [Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink") [Category:BSフジのスポーツ番組](https://ja.wikipedia.org/wiki/Category:BSフジのスポーツ番組 "wikilink") [Category:NOTTV](https://ja.wikipedia.org/wiki/Category:NOTTV "wikilink")
 

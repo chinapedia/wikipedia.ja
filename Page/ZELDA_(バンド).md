@@ -5,11 +5,11 @@
 
 リーダーの小嶋さちほを中心に、音楽ジャンルも多彩にこなし、パンク、ポップス、ファンク、ブラックミュージック、そしてルーツミュージックと実験的なものを含め取り組み、次世代バンドに影響を与えた。
 
-バンド名は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")、[F・スコット・フィッツジェラルド](../Page/F・スコット・フィッツジェラルド.md "wikilink")の妻、[ゼルダ・セイヤー](https://ja.wikipedia.org/wiki/ゼルダ・セイヤー "wikilink")に因んでいるとのこと。
+バンド名は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")、[F・スコット・フィッツジェラルド](../Page/F・スコット・フィッツジェラルド.md "wikilink")の妻、[ゼルダ・フィッツジェラルドに因んでいるとのこと](https://ja.wikipedia.org/wiki/ゼルダ・セイヤー "wikilink")\[1\]。
 
 ## 来歴
 
-  - [1979年](../Page/1979年.md "wikilink")、日本のガールズ・パンク・バンドの先駆けであったBOYS BOYSのベーシスト小嶋さちほを中心に結成。[新宿ロフトで初ライブを行う](../Page/ロフト_\(ライブハウス\).md "wikilink")。初代メンバーは、小嶋（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）以外に、ケイ（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、鈴木洋子（[ギター](../Page/ギター.md "wikilink")）、野沢久仁子（[ドラムス](../Page/ドラムセット.md "wikilink")）、トヨ（[シンセサイザー](../Page/シンセサイザー.md "wikilink")）の五人であったが、すぐにケイとトヨが脱退。\[1\]
+  - [1979年](../Page/1979年.md "wikilink")、日本のガールズ・パンク・バンドの先駆けであったBOYS BOYSのベーシスト小嶋さちほを中心に結成。[新宿ロフトで初ライブを行う](../Page/ロフト_\(ライブハウス\).md "wikilink")。初代メンバーは、小嶋（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）以外に、ケイ（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、鈴木洋子（[ギター](../Page/ギター.md "wikilink")）、野沢久仁子（[ドラムス](../Page/ドラムセット.md "wikilink")）、トヨ（[シンセサイザー](../Page/シンセサイザー.md "wikilink")）の五人であったが、すぐにケイとトヨが脱退。\[2\]
   - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月、小嶋が発行していたミニコミ「チェンジ2000」に出したメンバー募集に応募してきた高橋佐代子がボーカルとして加入する。二人が最初にあったのは[ストラングラーズ](../Page/ストラングラーズ.md "wikilink")の来日公演である。当時中学生であった高橋は上下黒づくめの服であったと小嶋は後のインタビューで述べている。同年12月、インディーズ・レーベルのジャンク・コネクションより1st.シングル『ASH-LAH』をリリース。
   - [1981年](../Page/1981年.md "wikilink")、ソノシート『ZELDA』をリリース。
   - メジャーデビューは[1982年](../Page/1982年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")、日本フォノグラム（後のマーキュリー・ミュージックエンタテインメント。現在は[ユニバーサルミュージックK.K.に吸収](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）よりアルバム『ZELDA』とシングル『ミラージュ・ラヴァー』を同時リリース。プロデュースは[LIZARD](https://ja.wikipedia.org/wiki/LIZARD "wikilink")のモモヨであった。なお、この時のメンバーは小嶋、高橋、鈴木、野沢の四人。
@@ -165,4 +165,5 @@
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:1979年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1979年に結成した音楽グループ "wikilink") [Category:1996年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に解散した音楽グループ "wikilink")
 
-1.  雑誌「MUNION SPECIAL EDITION 日本のパンクロック」（1982年発行）より
+1.  『GOLDEN☆BEST/ZELDA-time spiral』（2003年）付属のブックレット、p.5より
+2.  雑誌「MUNION SPECIAL EDITION 日本のパンクロック」（1982年発行）より

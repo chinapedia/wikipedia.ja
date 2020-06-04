@@ -37,7 +37,7 @@
 
     元[G大阪の](../Page/ガンバ大阪.md "wikilink")[伊藤博幹](../Page/伊藤博幹.md "wikilink")ら経験者を中心に11名を補強\[15\]。[同年の中国リーグでは連覇は逃したが](https://ja.wikipedia.org/wiki/2009年の地域リーグ_\(サッカー\)#中国 "wikilink")、優勝した[佐川急便中国が](../Page/佐川急便中国サッカー部.md "wikilink")[地決出場を辞退したため](https://ja.wikipedia.org/wiki/第33回全国地域サッカーリーグ決勝大会 "wikilink")、繰り上げで2年連続で地域決勝に進出。1次ラウンドグループCで[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")にPK戦で勝利し、[浜松大学FCに勝利するも松本山雅FCに敗れてグループ](https://ja.wikipedia.org/wiki/常葉大学浜松キャンパスサッカー部 "wikilink")2位となり敗退。
 
-    [第89回天皇杯では](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink")[三菱水島FC](../Page/三菱水島FC.md "wikilink")を下して初勝利を上げ、Jリーグ勢との対戦を実現させた（[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")に敗戦）。
+    [第89回天皇杯では](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink")[三菱自動車水島FC](https://ja.wikipedia.org/wiki/三菱自動車水島FC "wikilink")を下して初勝利を上げ、Jリーグ勢との対戦を実現させた（[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")に敗戦）。
 
     宮成はこの年限りで監督を退任、教職を辞して総監督・GMに専念することとなった。
 

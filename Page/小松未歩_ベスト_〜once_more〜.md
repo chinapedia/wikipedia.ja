@@ -146,7 +146,7 @@
   - [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
   - [大賀好修](../Page/大賀好修.md "wikilink")（[nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）
   - [小林哲](../Page/小林哲.md "wikilink")
 
 ## 外部リンク

@@ -96,6 +96,6 @@
 
 ## 外部リンク
 
-  - [撮りッたがり決死隊 トッターマンDS](http://www.tv-tokyo.co.jp/ds/)
+  - [撮りッたがり決死隊 トッターマンDS](https://www.tv-tokyo.co.jp/ds/)
 
 [Category:スキバラ](https://ja.wikipedia.org/wiki/Category:スキバラ "wikilink") [Category:雨上がり決死隊](https://ja.wikipedia.org/wiki/Category:雨上がり決死隊 "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")

@@ -155,7 +155,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td><p>火曜 24:50 - 25:20</p></td>
 <td></td>
 </tr>
@@ -313,7 +313,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2005年1月                    | 「[君を知らない街へ](../Page/君を知らない街へ.md "wikilink")」[竹井詩織里](../Page/竹井詩織里.md "wikilink")                                           | 「[白のファンタジー](https://ja.wikipedia.org/wiki/白のファンタジー "wikilink")」[JEWELRY](../Page/ジュエリー_\(音楽グループ\).md "wikilink")                            |
 | 2005年2月                    | 「[Love,needing](../Page/Love,needing.md "wikilink")」[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")                  | 「[花篝り](https://ja.wikipedia.org/wiki/花篝り "wikilink")」[滴草由実](../Page/滴草由実.md "wikilink")                                                     |
-| 2005年3月                    |                                                                                                                            | 「[Siren](https://ja.wikipedia.org/wiki/open_d "wikilink")」[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")                   |
+| 2005年3月                    |                                                                                                                            | 「[Siren](https://ja.wikipedia.org/wiki/open_d "wikilink")」[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")                       |
 | 2005年6月                    | 「[P.S♡MY SUNSHINE](../Page/P.S_MY_SUNSHINE.md "wikilink")」倉木麻衣                                                             | 「[ジューンブライド 〜あなたしか見えない〜](../Page/ジューンブライド_〜あなたしか見えない〜.md "wikilink")」[三枝夕夏 IN db](../Page/三枝夕夏_IN_db.md "wikilink")                          |
 | 2005年7月                    | 「[JUMP\!NG↑GO☆LET'S GO⇒](../Page/JUMP!NG↑GO☆LET'S_GO⇒.md "wikilink")」[岸本早未](https://ja.wikipedia.org/wiki/岸本早未 "wikilink") |                                                                                                                                             |
 | 2005年9月                    |                                                                                                                            | 「[CRAZY](https://ja.wikipedia.org/wiki/ROCK_ON_\(上木彩矢のアルバム\) "wikilink")」[上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink")              |

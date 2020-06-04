@@ -1,7 +1,7 @@
 > この記事は[ミュージックスクエア \(NHK-FM\)](https://ja.wikipedia.org/wiki/ミュージックスクエア_\(NHK-FM\))から翻訳されています。
 
 
-『**ミュージック・スクエア**』（Music Square）は、かつて[NHK-FMで放送されていた](../Page/NHK-FM放送.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")。
+『**ミュージック・スクエア**』（Music Square）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[NHK-FMで放送されていた](../Page/NHK-FM放送.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 ## 概要
 

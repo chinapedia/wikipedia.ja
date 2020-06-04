@@ -5,13 +5,13 @@
 
 ## 概要
 
-かつてはアップルコンピュータの子会社[クラリスより](../Page/クラリス_\(企業\).md "wikilink")**クラリスワークス** (ClarisWorks) の名で開発・発売されていたが、1998年、クラリス社が[ファイルメーカー社に改組された際に開発](../Page/クラリス_\(企業\).md "wikilink")・発売がアップル本社に移り、**AppleWorks**（バージョン5以降）と改称された。日本語版にはバージョン3、バージョン5が存在しない。
+かつてはアップルコンピュータの子会社[クラリスより](../Page/クラリス_\(企業\).md "wikilink")**クラリスワークス** (ClarisWorks) の名で開発・発売されていたが、1998年、クラリス社が[ファイルメーカー社に改組された際に開発](../Page/クラリス_\(企業\).md "wikilink")・発売がアップル本社に移り、**AppleWorks**と改称された。
 
-[Performa](../Page/Performa.md "wikilink")や[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")、[iBook](https://ja.wikipedia.org/wiki/iBook "wikilink")といった家庭用のMacにバンドルされていたが、[2004年](../Page/2004年.md "wikilink")を最後 (**AppleWorks 6.2.9**) にアップデートはされず、Macの[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")移行に伴いバンドルは終了。2007年8月、[iWork '08リリースと前後して単品販売も終了した](https://ja.wikipedia.org/wiki/iWork "wikilink")。
+[Performa](../Page/Performa.md "wikilink")や[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")、[iBook](https://ja.wikipedia.org/wiki/iBook "wikilink")といった家庭用のMacにバンドルされていたが、[2001年](../Page/2001年.md "wikilink") (**AppleWorks 6.2**) に発表、Macの[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")移行に伴いバンドルは終了。2007年8月、[iWork '08リリースと前後して単品販売も終了した](https://ja.wikipedia.org/wiki/iWork "wikilink")。
 
 [Macintosh](../Page/Macintosh.md "wikilink")版のほか、[Windows版も発売されていた](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Windows版では、クラリスワークス4までが一般向けとして販売されていた。米国では教育機関向けに、AppleWorks 6 for Windowsが販売されていた。
 
-「AppleWorks 6」([2000年](../Page/2000年.md "wikilink"))では、[ワープロ](../Page/ワードプロセッサ.md "wikilink")、[ドロー](https://ja.wikipedia.org/wiki/ベクトル画像 "wikilink")、[ペイント](https://ja.wikipedia.org/wiki/ペイントツール "wikilink")、[表計算](../Page/表計算ソフト.md "wikilink")、[データベース](../Page/データベース.md "wikilink")、[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")の6つから構成されていた。また、過去のバージョンでは[パソコン通信](../Page/パソコン通信.md "wikilink")の機能もあった。
+「AppleWorks 6」([2000年](../Page/2000年.md "wikilink"))では、[ワープロ](../Page/ワードプロセッサ.md "wikilink")、[ドロー](https://ja.wikipedia.org/wiki/ベクトル画像 "wikilink")、[ペイント](https://ja.wikipedia.org/wiki/ペイントツール "wikilink")、[表計算](../Page/表計算ソフト.md "wikilink")、[データベース](../Page/データベース.md "wikilink")、[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")の6つから構成されていた。また、過去のバージョンでは[通信](../Page/通信.md "wikilink")の機能もあった。
 
 ## 関連項目
 

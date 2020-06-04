@@ -1,18 +1,18 @@
 > この記事は[JR広島病院](https://ja.wikipedia.org/wiki/JR広島病院)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:広島鉄道病院01.JPG "wikilink") **JR広島病院**（じぇいあーるひろしまびょういん）は、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[東区にある](../Page/東区_\(広島市\).md "wikilink")[病院](../Page/病院.md "wikilink")。かつては[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[広島支社管轄の](../Page/西日本旅客鉄道広島支社.md "wikilink")[鉄道病院](https://ja.wikipedia.org/wiki/鉄道病院 "wikilink")だったが現在は独立した医療法人が管轄している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:広島鉄道病院01.JPG "wikilink") **JR広島病院**（ジェイアールひろしまびょういん）は、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[東区にある](../Page/東区_\(広島市\).md "wikilink")[病院](../Page/病院.md "wikilink")。かつては[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[広島支社管轄の](../Page/西日本旅客鉄道広島支社.md "wikilink")[鉄道病院](https://ja.wikipedia.org/wiki/鉄道病院 "wikilink")だったが現在は独立した医療法人が管轄している。
 
 ## 概要
 
-[1920年](../Page/1920年.md "wikilink")(大正9年)[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")職員の診療を行う広島鉄道治療所として開設され、[1926年](../Page/1926年.md "wikilink")(大正15年)6月に広島鉄道病院となった。 [1963年](../Page/1963年.md "wikilink")(昭和38年)[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")広島駅北側の現在地へ移転、[国鉄分割民営化](../Page/国鉄分割民営化.md "wikilink")に伴い西日本旅客鉄道広島鉄道病院となった。\[1\] [2016年](../Page/2016年.md "wikilink")4月、[医療法人](../Page/医療法人.md "wikilink")化のため、医療法人JR広島病院が設立され、広島鉄道病院の業務を移管、医療法人JR広島病院となった。
+[1920年](../Page/1920年.md "wikilink")(大正9年)[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")職員の診療を行う広島鉄道治療所として開設され、[1926年](../Page/1926年.md "wikilink")(大正15年)6月に広島鉄道病院となった。 [1963年](../Page/1963年.md "wikilink")(昭和38年)[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")広島駅北側の現在地へ移転、[国鉄分割民営化](../Page/国鉄分割民営化.md "wikilink")に伴い西日本旅客鉄道広島鉄道病院となった\[1\]。 [2016年](../Page/2016年.md "wikilink")4月、[医療法人](../Page/医療法人.md "wikilink")化のため、医療法人JR広島病院が設立され、広島鉄道病院の業務を移管、医療法人JR広島病院となった。
 
   - **診療日**：月曜日～金曜日（祝日は休診）
   - **受付時間**：午前8時40分～11時30分（健康診断の受付は午前10時まで）
 
 ### 新築移転計画
 
-広島駅周辺は[都市再生緊急整備地域](https://ja.wikipedia.org/wiki/都市再生緊急整備地域 "wikilink")に指定されており、本院の立地する二葉の里三丁目地区も[2006年](../Page/2006年.md "wikilink")より[中国財務局](https://ja.wikipedia.org/wiki/中国財務局 "wikilink")、[広島県](../Page/広島県.md "wikilink")、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")との間で再開発が検討され、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より[UR都市機構](https://ja.wikipedia.org/wiki/UR都市機構 "wikilink")によって[土地区画整理事業](https://ja.wikipedia.org/wiki/土地区画整理事業 "wikilink")が施行されている。\[2\] 本院についても建物が老朽化していることから、現病院の東側のJR敷地内に新築移転する。新病院は地上7階建（約22,000平方メートル）病床数275床で、事業費は約90億円、[清水建設](../Page/清水建設.md "wikilink")・[広成建設](../Page/広成建設.md "wikilink")[共同企業体](../Page/共同企業体.md "wikilink")が施工する。2016年1月18日に開院し\[3\]\[4\]、西側に隣接して整備される[広島県](../Page/広島県.md "wikilink")地域医療総合支援センター（仮称）および高精度放射線治療センター（仮称）との連携により、がん治療および地域医療連携を強化した病院となる予定である。\[5\]
+広島駅周辺は[都市再生緊急整備地域](https://ja.wikipedia.org/wiki/都市再生緊急整備地域 "wikilink")に指定されており、本院の立地する二葉の里三丁目地区も[2006年](../Page/2006年.md "wikilink")より[中国財務局](https://ja.wikipedia.org/wiki/中国財務局 "wikilink")、[広島県](../Page/広島県.md "wikilink")、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")との間で再開発が検討され、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")より[UR都市機構](https://ja.wikipedia.org/wiki/UR都市機構 "wikilink")によって[土地区画整理事業](https://ja.wikipedia.org/wiki/土地区画整理事業 "wikilink")が施行されている\[2\]。本院についても建物が老朽化していることから、現病院の東側のJR敷地内に新築移転する。新病院は地上7階建（約22,000平方メートル）病床数275床で、事業費は約90億円、[清水建設](../Page/清水建設.md "wikilink")・[広成建設](../Page/広成建設.md "wikilink")[共同企業体](../Page/共同企業体.md "wikilink")が施工する。2016年1月18日に開院し\[3\]\[4\]、西側に隣接して整備される[広島県](../Page/広島県.md "wikilink")地域医療総合支援センター（仮称）および高精度放射線治療センター（仮称）との連携により、がん治療および地域医療連携を強化した病院となる予定である\[5\]。
 
 ## 診療科
 
@@ -65,7 +65,7 @@
   - [JR東京総合病院](../Page/JR東京総合病院.md "wikilink")
   - [JR仙台病院](https://ja.wikipedia.org/wiki/JR仙台病院 "wikilink")
   - [名古屋セントラル病院](../Page/名古屋セントラル病院.md "wikilink")
-  - [JR九州病院](../Page/JR九州病院.md "wikilink")
+  - [九州鉄道記念病院](https://ja.wikipedia.org/wiki/九州鉄道記念病院 "wikilink")
 
 ## 脚注
 

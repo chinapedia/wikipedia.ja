@@ -93,6 +93,8 @@
 
 ### GK
 
+  - [アリソン・ベッカー](https://ja.wikipedia.org/wiki/アリソン・ベッカー "wikilink") 2013-2016
+
 ### DF
 
 ### MF

@@ -17,6 +17,8 @@
 
 [2016年](../Page/2016年.md "wikilink")は市販車の新型プリウス登場に伴い、プリウスを2台体制化。31号車は従来のスーパーキャパシタ、30号車はリチウムイオン電池とバッテリーの仕様を分けている\[2\]。また同時に[トヨタカローラ](https://ja.wikipedia.org/wiki/トヨタカローラ "wikilink")三重社長の[永井宏明がドライバーに就任し](https://ja.wikipedia.org/wiki/永井宏明_\(実業家\) "wikilink")、社員メカニックの研修も並行することになった。
 
+[2019年](../Page/2019年.md "wikilink")は車両規則変更に伴いベース車両をプリウスPHV [GR SPORTに変更](../Page/GR_\(トヨタ自動車\).md "wikilink")、エンジン搭載位置がミッドシップからフロントとなった。
+
 ### 全日本GT選手権・SUPER GT
 
 <table>
@@ -401,7 +403,7 @@ IWASAKI OGT Racing GT-R（第4戦～）</p></td>
 </tbody>
 </table>
 
-<File:No.30> IWASAKI apr GT-R at 2014 SUPER GT SUZUKA TEST (3).JPG|IWASAKI apr GT-R（2014年） <File:No.30> IWASAKI MODA Croco apr R8 at 2012 Pokka 1000km.JPG|IWASAKI MODA マッドクロック apr R8（2012年） <File:Apr> Hasepro Prius GT 2012 Super GT Sugo race.jpg|apr HASEPRO PRIUS GT（2012年） <File:Yuji> Kunimoto 2010 Super GT Fuji 400km qualify.jpg|COROLLA Axio apr GT（2010年） <File:Lightning> McQueen apr MR-S 2008 Super GT.jpg|ライトニングマックイーン apr MR-S（2008年） <File:ARTA> Garaiya ver2008.jpg|ARTA Garaiya（2008年）
+<File:Apr> Prius GT 2016SUGO.jpg|[TOYOTA PRIUS](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink") apr GT（2016年） <File:No.30> IWASAKI apr GT-R at 2014 SUPER GT SUZUKA TEST (3).JPG|IWASAKI apr GT-R（2014年） <File:No.30> IWASAKI MODA Croco apr R8 at 2012 Pokka 1000km.JPG|IWASAKI MODA マッドクロック apr R8（2012年） <File:Apr> Hasepro Prius GT 2012 Super GT Sugo race.jpg|apr HASEPRO PRIUS GT（2012年） <File:Yuji> Kunimoto 2010 Super GT Fuji 400km qualify.jpg|COROLLA Axio apr GT（2010年） <File:Lightning> McQueen apr MR-S 2008 Super GT.jpg|ライトニングマックイーン apr MR-S（2008年） <File:ARTA> Garaiya ver2008.jpg|ARTA Garaiya（2008年）
 
 ### スーパーN1耐久
 

@@ -80,6 +80,11 @@ SIDE 1,2とSIDE 3,4との2枚組。この作品を最後にアナログ盤は公
 
 ## 脚注
 
+## 外部リンク
+
+  - [作品紹介ページ DEEP RIVER](http://www.utadahikaru.jp/music/album/title_5.html)
+  - [作品紹介ページ DEEP RIVER (Analog Album)](http://www.utadahikaru.jp/music/album/title_6.html)
+
 [Category:宇多田ヒカルのアルバム](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:2002年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2002年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink") [Category:オリコン年間アルバムチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位作品 "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:遠藤周作](https://ja.wikipedia.org/wiki/Category:遠藤周作 "wikilink")
 
 1.  Utadaとしてのデビューアルバム『[EXODUS](https://ja.wikipedia.org/wiki/EXODUS "wikilink")』日本盤ブックレットでの新谷洋子との対談より

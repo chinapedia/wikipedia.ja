@@ -36,7 +36,7 @@ GCソフトからGBA本体の[メモリに](../Page/主記憶装置.md "wikilink
 
 併記しているゲームについてはそのソフト同士で連携できることを示している。詳細については各項目を参照。
 
-  - [くるりんスカッシュ\!](https://ja.wikipedia.org/wiki/くるりんスカッシュ! "wikilink")
+  - [くるりんスカッシュ\!](../Page/くるりんスカッシュ!.md "wikilink")
   - [ゼルダの伝説 4つの剣+](../Page/ゼルダの伝説_4つの剣+.md "wikilink")
   - [ゼルダの伝説 風のタクト](https://ja.wikipedia.org/wiki/ゼルダの伝説_風のタクト "wikilink")
   - [どうぶつの森シリーズ](https://ja.wikipedia.org/wiki/どうぶつの森シリーズ "wikilink")

@@ -336,7 +336,7 @@
   - ビーチウム
     [ダイヤモンド](../Page/ダイヤモンド.md "wikilink")の約1000倍ほどの硬さを持つ[鉱物](../Page/鉱物.md "wikilink")（架空の鉱物）。ビーダマン本体やビー玉自体の材料となる。
   - B-1クラッシュカップ（ビー・ワンクラッシュカップ）
-    クラッシュビーダマンの大会。**全日本ビーダマン協会** (**JBA**) 主催。
+    クラッシュビーダマンの大会。**全日本ビーダマン協会**（**JBA**）主催。
       - セパレートレンジ
         いわゆる壁崩しに似た、ビーダマンにおける競技の一種。B-1クラッシュカップ第1次予選の競技に採用された。
       - スルーレンジ
@@ -985,7 +985,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://www.tv-tokyo.co.jp/anime/crash_b-daman/)（テレビ東京）
+  - [公式サイト](https://www.tv-tokyo.co.jp/anime/crash_b-daman/)（テレビ東京）
   - [d-rights版公式サイト](https://www.d-rights.com/work/jp/bakukyu-hit-crash-b-daman.html)
 
 [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:読売広告社のアニメ作品](https://ja.wikipedia.org/wiki/Category:読売広告社のアニメ作品 "wikilink") [Category:ディーライツのアニメ作品](https://ja.wikipedia.org/wiki/Category:ディーライツのアニメ作品 "wikilink") [Category:ビーダマン](https://ja.wikipedia.org/wiki/Category:ビーダマン "wikilink") [Category:日本と韓国の合作アニメ](https://ja.wikipedia.org/wiki/Category:日本と韓国の合作アニメ "wikilink") [Category:タカラトミー原作・原案のアニメ作品](https://ja.wikipedia.org/wiki/Category:タカラトミー原作・原案のアニメ作品 "wikilink") [Category:てんとう虫コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:てんとう虫コミックスのアニメ作品 "wikilink") [Category:玩具を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:玩具を題材にした漫画作品 "wikilink")

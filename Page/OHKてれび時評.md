@@ -8,7 +8,7 @@
 ## 放送内容
 
   - 放送日の前月に行なわれた[番組審議会](https://ja.wikipedia.org/wiki/番組審議会 "wikilink")の報告。これは審議会当日夕方の『[OHKスーパーニュース](../Page/OHKスーパーニュース.md "wikilink")』でも軽く触れられている。
-  - 前月に放送されたOHKの番組の中から5 - 6番組を取り上げて、社外[モニター](https://ja.wikipedia.org/wiki/モニター "wikilink")からの感想を伝える。感想・苦情・要望などといった意見を紹介して今後の番組制作に役立てていくことを目的に放送されている。
+  - 前月に放送されたOHKの番組の中から5 - 6番組を取り上げて、社外[モニター](../Page/モニター.md "wikilink")からの感想を伝える。感想・苦情・要望などといった意見を紹介して今後の番組制作に役立てていくことを目的に放送されている。
   - 取り上げられるのは主に[自社制作](../Page/自社制作.md "wikilink")のレギュラー番組または[単発特番](https://ja.wikipedia.org/wiki/単発特別番組 "wikilink")（[ローカル](../Page/ローカル番組.md "wikilink")・[ブロックネット](../Page/ブロックネット.md "wikilink")・[全国ネット](https://ja.wikipedia.org/wiki/全国ネット "wikilink")すべて含める）であるが、たまに[全国放送](../Page/全国放送.md "wikilink")の番組（『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』や『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』など）も取り上げられることもある。
   - 番組は10分間だが、実質8分間[CMなしで放送される](../Page/コマーシャルメッセージ.md "wikilink")。
 
@@ -30,7 +30,7 @@ OHK[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikili
 
 ## FNS系列局の同種番組
 
-  - [新・週刊フジテレビ批評](https://ja.wikipedia.org/wiki/新・週刊フジテレビ批評 "wikilink") - [キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")・[フジテレビの同種番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。当番組と違い、毎週放送されている。
+  - [新・週刊フジテレビ批評](https://ja.wikipedia.org/wiki/新・週刊フジテレビ批評 "wikilink") - [キー局](../Page/キー局.md "wikilink")・[フジテレビの同種番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。当番組と違い、毎週放送されている。
   - [月刊カンテレ批評](../Page/月刊カンテレ批評.md "wikilink") - [準キー局](../Page/準キー局.md "wikilink")・[関西テレビの同種番組](../Page/関西テレビ放送.md "wikilink")。
 
 [Category:岡山放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:岡山放送のテレビ番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:テレビの自己批評番組](https://ja.wikipedia.org/wiki/Category:テレビの自己批評番組 "wikilink")

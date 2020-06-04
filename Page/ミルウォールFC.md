@@ -216,7 +216,7 @@
 <td><p>得</p></td>
 </tr>
 <tr class="even">
-<td><p>1996–97</p></td>
+<td><p>1996-97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・セカンドディビジョン" title="wikilink">セカンドディビジョン</a></p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
@@ -224,7 +224,7 @@
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
-<td><p>1997–98</p></td>
+<td><p>1997-98</p></td>
 <td><p>セカンドディビジョン</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
@@ -232,7 +232,7 @@
 <td><p>19</p></td>
 </tr>
 <tr class="even">
-<td><p>1998–99</p></td>
+<td><p>1998-99</p></td>
 <td><p>セカンドディビジョン</p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
@@ -240,7 +240,7 @@
 <td><p>18</p></td>
 </tr>
 <tr class="odd">
-<td><p>1999–00</p></td>
+<td><p>1999-00</p></td>
 <td><p>セカンドディビジョン</p></td>
 <td><p>46</p></td>
 <td><p>23</p></td>
@@ -248,7 +248,7 @@
 <td><p>10</p></td>
 </tr>
 <tr class="even">
-<td><p>2000–01</p></td>
+<td><p>2000-01</p></td>
 <td><p>セカンドディビジョン</p></td>
 <td><p>46</p></td>
 <td><p>28</p></td>
@@ -256,7 +256,7 @@
 <td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p>2001–02</p></td>
+<td><p>2001-02</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ファーストディビジョン</a></p></td>
 <td><p>46</p></td>
 <td><p>22</p></td>
@@ -264,7 +264,7 @@
 <td><p>13</p></td>
 </tr>
 <tr class="even">
-<td><p>2002–03</p></td>
+<td><p>2002-03</p></td>
 <td><p>ファーストディビジョン</p></td>
 <td><p>46</p></td>
 <td><p>19</p></td>
@@ -272,7 +272,7 @@
 <td><p>18</p></td>
 </tr>
 <tr class="odd">
-<td><p>2003–04</p></td>
+<td><p>2003-04</p></td>
 <td><p>ファーストディビジョン</p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
@@ -280,7 +280,7 @@
 <td><p>13</p></td>
 </tr>
 <tr class="even">
-<td><p>2004–05</p></td>
+<td><p>2004-05</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ" title="wikilink">チャンピオンシップ</a></p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
@@ -288,7 +288,7 @@
 <td><p>16</p></td>
 </tr>
 <tr class="odd">
-<td><p>2005–06</p></td>
+<td><p>2005-06</p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>8</p></td>
@@ -296,7 +296,7 @@
 <td><p>22</p></td>
 </tr>
 <tr class="even">
-<td><p>2006–07</p></td>
+<td><p>2006-07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ1" title="wikilink">フットボールリーグ1</a></p></td>
 <td><p>46</p></td>
 <td><p>19</p></td>
@@ -304,7 +304,7 @@
 <td><p>18</p></td>
 </tr>
 <tr class="odd">
-<td><p>2007–08</p></td>
+<td><p>2007-08</p></td>
 <td><p>フットボールリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
@@ -312,7 +312,7 @@
 <td><p>22</p></td>
 </tr>
 <tr class="even">
-<td><p>2008–09</p></td>
+<td><p>2008-09</p></td>
 <td><p>フットボールリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>25</p></td>
@@ -320,7 +320,7 @@
 <td><p>14</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009–10</p></td>
+<td><p>2009-10</p></td>
 <td><p>フットボールリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>24</p></td>
@@ -328,7 +328,7 @@
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p>2010–11</p></td>
+<td><p>2010-11</p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
@@ -336,7 +336,7 @@
 <td><p>15</p></td>
 </tr>
 <tr class="odd">
-<td><p>2011–12</p></td>
+<td><p>2011-12</p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>15</p></td>
@@ -344,7 +344,7 @@
 <td><p>19</p></td>
 </tr>
 <tr class="even">
-<td><p>2012–13</p></td>
+<td><p>2012-13</p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>15</p></td>
@@ -352,7 +352,7 @@
 <td><p>20</p></td>
 </tr>
 <tr class="odd">
-<td><p>2013–14</p></td>
+<td><p>2013-14</p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>11</p></td>
@@ -360,7 +360,7 @@
 <td><p>20</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2014-2015" title="wikilink">2014–15</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2014-2015" title="wikilink">2014-15</a></p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>9</p></td>
@@ -368,7 +368,7 @@
 <td><p>23</p></td>
 </tr>
 <tr class="odd">
-<td><p>2015–16</p></td>
+<td><p>2015-16</p></td>
 <td><p>フットボールリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>24</p></td>
@@ -376,7 +376,7 @@
 <td><p>13</p></td>
 </tr>
 <tr class="even">
-<td><p>2016–17</p></td>
+<td><p>2016-17</p></td>
 <td><p>フットボールリーグ1</p></td>
 <td><p>46</p></td>
 <td><p>20</p></td>
@@ -384,7 +384,7 @@
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2017-2018" title="wikilink">2017–18</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2017-2018" title="wikilink">2017-18</a></p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>19</p></td>
@@ -392,7 +392,7 @@
 <td><p>12</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2018-2019" title="wikilink">2018–19</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2018-2019" title="wikilink">2018-19</a></p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td><p>10</p></td>
@@ -400,7 +400,7 @@
 <td><p>22</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020" title="wikilink">2019–20</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020" title="wikilink">2019-20</a></p></td>
 <td><p>チャンピオンシップ</p></td>
 <td><p>46</p></td>
 <td></td>

@@ -7,18 +7,19 @@
 
 一迅社より[2005年](../Page/2005年.md "wikilink")12月に創刊、毎月27日発売。
 
-  - [CYNTHIA THE MISSION](../Page/CYNTHIA_THE_MISSION.md "wikilink")、[SOUL GADGET RADIANT](https://ja.wikipedia.org/wiki/SOUL_GADGET_RADIANT "wikilink")、[ティンクルセイバー](https://ja.wikipedia.org/wiki/ティンクルセイバー "wikilink")NOVA、[BUS GAMER](../Page/BUS_GAMER.md "wikilink")、[私立彩陵高校超能力部](../Page/私立彩陵高校超能力部.md "wikilink")、[突撃\!パッパラ隊](../Page/突撃!パッパラ隊.md "wikilink")、[ガウガウわー太](../Page/ガウガウわー太.md "wikilink")等他社・他誌連載作品の続編の掲載がある。
+  - 実質的に『[コミックZERO-SUM増刊WARD](../Page/コミックZERO-SUM増刊WARD.md "wikilink")』から少年漫画誌として独立した経緯から、初期は『[SOUL GADGET RADIANT](https://ja.wikipedia.org/wiki/SOUL_GADGET_RADIANT "wikilink")』『[ティンクルセイバー](https://ja.wikipedia.org/wiki/ティンクルセイバー "wikilink")NOVA』『[BUS GAMER](../Page/BUS_GAMER.md "wikilink")』『[CYNTHIA THE MISSION](../Page/CYNTHIA_THE_MISSION.md "wikilink")』などの移籍作や、『[私立彩陵高校超能力部](../Page/私立彩陵高校超能力部.md "wikilink")』『[突撃\!パッパラ隊](../Page/突撃!パッパラ隊.md "wikilink")』『[ガウガウわー太](../Page/ガウガウわー太.md "wikilink")』など他社・他誌連載作品の続編で構成されていた。
   - 掲載作の単行本は[REXコミックス](https://ja.wikipedia.org/wiki/REXコミックス "wikilink")として毎月27日に発売される。
   - 『[まんが4コマKINGSぱれっと](../Page/まんが4コマぱれっと.md "wikilink")』は本誌の増刊として創刊され、後に独立創刊。
   - 2010年11・12月合併号より新装刊リニューアルとしてタイトルロゴと発売日が変更になった（毎月9日発売→27日発売）
   - 2012年9月から2017年1月までニコニコ静画より無料で前月号を読め、2015年12月5日から更新日が変更になった（毎月27日更新→5日更新）
+  - 2015年頃まではメディアミックス系のコミカライズ作品が多かったが、近年はオリジナルのラブコメ、エロコメ作品の比率が高くなり、ワンテーマアンソロジーが増刊に近い形で刊行されている。
 
 ## 掲載作品（50音順）
 
 ### 連載中（雑誌オリジナル）
 
-  - [1年A組のモンスター](https://ja.wikipedia.org/wiki/1年A組のモンスター "wikilink")（[英貴](https://ja.wikipedia.org/wiki/英貴 "wikilink")）（2018年3月号 - ）
   - [イケメン女と箱入り娘](https://ja.wikipedia.org/wiki/イケメン女と箱入り娘 "wikilink")（原作：[もちオーレ](https://ja.wikipedia.org/wiki/もちオーレ "wikilink")、漫画：[majoccoid](https://ja.wikipedia.org/wiki/majoccoid "wikilink")）（2019年11月号 - ）
+  - [1年A組のモンスター](https://ja.wikipedia.org/wiki/1年A組のモンスター "wikilink")（[英貴](https://ja.wikipedia.org/wiki/英貴 "wikilink")）（2018年3月号 - ）
   - [お稲荷JKたまもちゃん](https://ja.wikipedia.org/wiki/お稲荷JKたまもちゃん "wikilink")（[ユウキレイ](https://ja.wikipedia.org/wiki/ユウキレイ "wikilink")）（2017年3月号・4月号読み切り、5月号 - ） - 当初は短期集中連載
   - [推しのアイドルが隣の部屋に引っ越してきた](https://ja.wikipedia.org/wiki/推しのアイドルが隣の部屋に引っ越してきた "wikilink")（[脊髄引き抜きの刑](https://ja.wikipedia.org/wiki/脊髄引き抜きの刑 "wikilink")）（2019年9月号 - ）
   - [お兄ちゃんはおしまい\!](https://ja.wikipedia.org/wiki/お兄ちゃんはおしまい! "wikilink")（[ねことうふ](https://ja.wikipedia.org/wiki/ねことうふ "wikilink")）（2019年6月号 - ）
@@ -211,7 +212,7 @@
 #### REX制服イラストコレクション
 
 1.  （2007年12月号）[黒星紅白](../Page/黒星紅白.md "wikilink")・[私屋カヲル](../Page/私屋カヲル.md "wikilink")
-2.  （2008年1月号）[藤真拓哉](../Page/藤真拓哉.md "wikilink")・[神吉](../Page/神吉_\(漫画家\).md "wikilink")
+2.  （2008年1月号）[藤真拓哉](../Page/藤真拓哉.md "wikilink")・[神吉](../Page/神吉李花.md "wikilink")
 3.  （2008年2月号）[村崎久都](https://ja.wikipedia.org/wiki/村崎久都 "wikilink")・[じゃじゃまる](https://ja.wikipedia.org/wiki/じゃじゃまる "wikilink")
 4.  （2008年3月号）[綱島志朗](../Page/綱島志朗.md "wikilink")・[絶叫](https://ja.wikipedia.org/wiki/絶叫_\(イラストレーター\) "wikilink")
 

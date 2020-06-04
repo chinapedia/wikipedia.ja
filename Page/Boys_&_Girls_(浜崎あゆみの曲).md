@@ -5,17 +5,15 @@
 
 ## 解説
 
-前作「[TO BE](../Page/TO_BE.md "wikilink")」より約2か月でのリリースで、初の[マキシシングルとして発売された](../Page/シングル.md "wikilink")。薄型ケースを使用しているのは本作のみである。
-
-前作同様、本人出演のCMソングのタイアップとなっており、浜崎は初の化粧品CM出演となった。
+前作「[TO BE](../Page/TO_BE.md "wikilink")」より約2か月ぶりのリリースで、初の[マキシシングル](../Page/シングル.md "wikilink")。薄型ケースを使用しているのは本作のみである。前作同様、本人出演のCMソングで自身初の化粧品CM出演となった。
 
 1曲目が[リミックス](../Page/リミックス.md "wikilink")で、2曲目が"AUBE Original Mix"となっている。本作から表題曲や過去の楽曲のリミックスバージョンがシングルに多数収録されるようになり、この傾向は25thシングル「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」まで続いた。
 
-初の初動20万枚を突破したものの[鈴木あみ](https://ja.wikipedia.org/wiki/鈴木あみ "wikilink")「[BE TOGETHER](../Page/BE_TOGETHER.md "wikilink")」に阻まれ初登場2位。しかしその後、返り咲きで3週連続1位を獲得し、浜崎あゆみ大ブレイクのきっかけとなった。
+初の初動20万枚を突破したものの同日発売の[鈴木あみ](https://ja.wikipedia.org/wiki/鈴木あみ "wikilink")「[BE TOGETHER](../Page/BE_TOGETHER.md "wikilink")」に阻まれ初登場2位。しかしその後、返り咲きで3週連続1位を獲得し、浜崎あゆみ大ブレイクのきっかけとなった。
 
 累計103.8万枚を売り上げた（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）が、翌月に発売された4曲A面シングル「[A](../Page/A_\(シングル\).md "wikilink")」より後に[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。
 
-[第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")の優秀作品賞を初受賞。大晦日の『[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")』にもこの曲で初出場した。
+[第41回日本レコード大賞](https://ja.wikipedia.org/wiki/第41回日本レコード大賞 "wikilink")の優秀作品賞を初受賞。年末の多数の歌番組でも歌い、大晦日の『[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")』にもこの曲で初出場を果たした。
 
 [アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、リミックスの[アナログ盤がavex](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink") usaより2作発売されている\[1\]\[2\]。
 

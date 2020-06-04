@@ -1,7 +1,7 @@
 > この記事は[ダライアスII](https://ja.wikipedia.org/wiki/ダライアスII)から翻訳されています。
 
 
-『**ダライアスII**』 (**DARIUS II**) は、[1989年](../Page/1989年.md "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が稼働した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。横スクロールの[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、アーケードゲームとしては[ダライアス](../Page/ダライアス.md "wikilink")シリーズの第2作目。
+『**ダライアスII**』 (**DARIUS II**) は、[1989年](../Page/1989年.md "wikilink")に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")が発売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。横スクロールの[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")で、アーケードゲームとしては[ダライアス](../Page/ダライアス.md "wikilink")シリーズの第2作目。
 
 日本国外での名称は『*SAGAIA*』。単に名前が違うだけでなく内容も異なる（詳細は本項「[\#海外版『SAGAIA』](https://ja.wikipedia.org/wiki/#海外版『SAGAIA』 "wikilink")」を参照）。
 

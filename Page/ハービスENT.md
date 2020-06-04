@@ -7,7 +7,7 @@
 
 ハービスENTの断面図はL字型になっており、L字の底層部分のB2-7階が商業施設『ハービスPLAZA ENT』で、[グッチ](../Page/グッチ.md "wikilink")、[オメガ](https://ja.wikipedia.org/wiki/オメガ "wikilink")、[ティファニー](../Page/ティファニー.md "wikilink")、[スワロフスキー](https://ja.wikipedia.org/wiki/スワロフスキー "wikilink")などの高級ブランド店などが入居している。同B2階には[ビルボードライブ大阪が](https://ja.wikipedia.org/wiki/阪神コンテンツリンク#ビルボードライブ "wikilink")、同8-12階は[大阪四季劇場](../Page/大阪四季劇場.md "wikilink")が入居している。
 
-L字の縦のラインに当たる部分は、8-27階が『ハービスENTオフィスタワー』になっており、賃貸オフィスが入っている。頂部には[ヘリポート](../Page/ヘリポート.md "wikilink")がある。また、1階には[阪神バス](../Page/阪神バス.md "wikilink")系の[高速バス](../Page/高速バス.md "wikilink")ターミナルである[ハービスOSAKAバスターミナルがある](https://ja.wikipedia.org/wiki/大阪駅周辺バスのりば#ハービスOSAKAバスターミナル "wikilink")。
+L字の縦のラインに当たる部分は、8-27階が『ハービスENTオフィスタワー』になっており、賃貸オフィスが入っている。頂部には[ヘリポート](../Page/ヘリポート.md "wikilink")がある。また、1階には[阪神バス](../Page/阪神バス.md "wikilink")系の[高速バス](../Page/高速バス.md "wikilink")ターミナルである[ハービスOSAKAバスターミナルがある](https://ja.wikipedia.org/wiki/大阪駅周辺バスのりば#ハービスOSAKAバスターミナル（阪神バス） "wikilink")。
 
 ## 周辺
 
@@ -23,7 +23,7 @@ L字の縦のラインに当たる部分は、8-27階が『ハービスENTオフ
 
 所要時間の記述は公式サイトに準拠した\[1\]。
 
-  - [阪神本線](../Page/阪神本線.md "wikilink") [梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪神\) "wikilink")（西改札）下車すぐ。
+  - [阪神本線](../Page/阪神本線.md "wikilink") [大阪梅田駅](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪神\) "wikilink")（西改札）下車すぐ。
   - [地下鉄四つ橋線](../Page/Osaka_Metro四つ橋線.md "wikilink") [西梅田駅](https://ja.wikipedia.org/wiki/西梅田駅 "wikilink")（北改札）下車すぐ。
   - JR[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")（桜橋口）下車、徒歩2分。
   - [JR東西線](../Page/JR東西線.md "wikilink") [北新地駅](https://ja.wikipedia.org/wiki/北新地駅 "wikilink")（西改札）下車、徒歩4分。

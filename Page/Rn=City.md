@@ -26,7 +26,7 @@
   - [2003年](../Page/2003年.md "wikilink") - 音楽雑誌「[ザッピィ](https://ja.wikipedia.org/wiki/ザッピィ "wikilink")」にて『すっぽんマンション』連載スタート。
   - [2003年](../Page/2003年.md "wikilink") - [ソニンの](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink")「[東京ミッドナイト ロンリネス](https://ja.wikipedia.org/wiki/東京ミッドナイト_ロンリネス "wikilink")」「[合コン後のファミレスにて](https://ja.wikipedia.org/wiki/合コン後のファミレスにて "wikilink")」のバックバンドをメンバー全員で務める。
   - [2004年](../Page/2004年.md "wikilink") - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』の「ヨモギダ少年愚連隊４」にケンとコーヘイが,「偽クラシッQ」の「川島モーツァルト」,「川島ベートーベン」役として出演している。
-  - [2004年](../Page/2004年.md "wikilink") - [横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の[大魔神](../Page/大魔神.md "wikilink")こと[佐々木主浩](../Page/佐々木主浩.md "wikilink")投手のテーマソング『[ダダダ大魔神](https://ja.wikipedia.org/wiki/ダダダ大魔神 "wikilink")』を歌う。
+  - [2004年](../Page/2004年.md "wikilink") - [横浜ベイスターズの](../Page/横浜DeNAベイスターズ.md "wikilink")[大魔神](../Page/大魔神.md "wikilink")こと[佐々木主浩](../Page/佐々木主浩.md "wikilink")投手のテーマソング『[ダダダ大魔神](https://ja.wikipedia.org/wiki/ダダダ大魔神 "wikilink")』を歌う。
   - [2004年](../Page/2004年.md "wikilink") - 「'04盆明けすっぽんNIGHT\!\!〜スキがあったらかかって来んかい\!at[ZeppTokyo](https://ja.wikipedia.org/wiki/ZeppTokyo "wikilink")」に出演。
   - [2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - ワンマンライブ を[渋谷eggman](https://ja.wikipedia.org/wiki/渋谷eggman "wikilink")にて行う。
   - [2006年](../Page/2006年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - ワンマンライブ を[目黒ライブステーション](https://ja.wikipedia.org/wiki/目黒ライブステーション "wikilink")にて行う。

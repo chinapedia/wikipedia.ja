@@ -1,7 +1,7 @@
 > この記事は[ARGO計画](https://ja.wikipedia.org/wiki/ARGO計画)から翻訳されています。
 
 
-[Argo_Logo.png](https://ja.wikipedia.org/wiki/File:Argo_Logo.png "fig:Argo_Logo.png") [200px](https://ja.wikipedia.org/wiki/ファイル:USDA_radar.jpg "wikilink") **Argo計画**（アルゴけいかく）とは、[全球](https://ja.wikipedia.org/wiki/全球 "wikilink")の[海洋表層](https://ja.wikipedia.org/wiki/海洋表層 "wikilink")の[水温](https://ja.wikipedia.org/wiki/水温 "wikilink")・[塩分プロファイル](https://ja.wikipedia.org/wiki/塩分プロファイル "wikilink")を即時的（リアルタイム）に取得し、[海洋物理学](../Page/海洋物理学.md "wikilink")や[水産学](../Page/水産学.md "wikilink")の研究や「海の天気予報」の確立を目指した国際的な研究計画である。Argo とは全世界中層フロート観測網 (A Global Array for Temperature/Salinity Profiling Floats) につけられた名称であり、[ギリシャ神話](https://ja.wikipedia.org/wiki/ギリシャ神話 "wikilink")の英雄[イアソン](https://ja.wikipedia.org/wiki/イアソン "wikilink") (Jason) の乗った[アルゴ船](https://ja.wikipedia.org/wiki/アルゴ船 "wikilink")にちなんだ名称である。Argo計画と関係の深い海面高度計を搭載した[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")[ジェイソン1](../Page/ジェイソン1.md "wikilink")はその英雄イアソンにちなんだ名称である。\[1\]\[2\]
+[Argo_Logo.png](https://ja.wikipedia.org/wiki/File:Argo_Logo.png "fig:Argo_Logo.png") [200px](https://ja.wikipedia.org/wiki/ファイル:USDA_radar.jpg "wikilink") **Argo計画**（アルゴけいかく）とは、[全球](https://ja.wikipedia.org/wiki/全球 "wikilink")の[海洋表層](https://ja.wikipedia.org/wiki/海洋表層 "wikilink")の[水温](https://ja.wikipedia.org/wiki/水温 "wikilink")・[塩分プロファイル](https://ja.wikipedia.org/wiki/塩分プロファイル "wikilink")を即時的（リアルタイム）に取得し、[海洋物理学](../Page/海洋物理学.md "wikilink")や[水産学](../Page/水産学.md "wikilink")の研究や「海の天気予報」の確立を目指した国際的な研究計画である。Argo とは全世界中層フロート観測網 (A Global Array for Temperature/Salinity Profiling Floats) につけられた名称であり、[ギリシャ神話](https://ja.wikipedia.org/wiki/ギリシャ神話 "wikilink")の英雄[イアソン](https://ja.wikipedia.org/wiki/イアソン "wikilink") (Jason) の乗った[アルゴ船](https://ja.wikipedia.org/wiki/アルゴ船 "wikilink")にちなんだ名称である。Argo計画と関係の深い海面高度計を搭載した[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")[ジェイソン1](../Page/ジェイソン1.md "wikilink")はその英雄イアソンにちなんだ名称である\[1\]\[2\]。
 
 ## 概要
 
@@ -18,7 +18,7 @@ Argo計画では、水深2000mから海面までの水温・塩分を約10日毎
   - [海洋学](../Page/海洋学.md "wikilink")
   - [海洋物理学](../Page/海洋物理学.md "wikilink")
 
-## 参考文献
+## 脚注
 
 ## 外部リンク
 
@@ -30,5 +30,5 @@ Argo計画では、水深2000mから海面までの水温・塩分を約10日毎
 
 [Category:海洋学](https://ja.wikipedia.org/wiki/Category:海洋学 "wikilink") [Category:気象学](https://ja.wikipedia.org/wiki/Category:気象学 "wikilink") [Category:研究プロジェクト](https://ja.wikipedia.org/wiki/Category:研究プロジェクト "wikilink") [Category:環境保全プロジェクト](https://ja.wikipedia.org/wiki/Category:環境保全プロジェクト "wikilink")
 
-1.  [Japan Argo ホームページ](http://www.jamstec.go.jp/J-ARGO/index_j.html)
-2.  [中層フロートによる中層循環の観測](http://tnfri.fra.affrc.go.jp/sage/result/tukuba/2iwao/index.html)
+1.
+2.

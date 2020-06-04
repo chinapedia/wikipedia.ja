@@ -11,7 +11,7 @@ Apple TVは[2006年](../Page/2006年.md "wikilink")[9月12日](../Page/9月12日
 
 [2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")にアップルは正式名称を「Apple TV」、日本でのメーカー希望小売価格を36,800円と発表し\[2\]、同時に[Apple Online Storeで注文の受付を開始した](../Page/Apple_Online_Store.md "wikilink")。出荷予定日は当初2007年2月とされたが延期され\[3\]、3月22日に出荷が始まった\[4\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、で行われた[Macworld](https://ja.wikipedia.org/wiki/Macworld_Conference_&_Expo "wikilink")2008で[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")がApple TVの値下げとアップデートをアナウンスした。このアップデートによって、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")の新しいサービスであるiTunes ムービーレンタルにも対応し、今度はMacやPCに同期せずに単体で[iTunes Storeにアクセスできるようになった](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。ムービーレンタルは[DVD](../Page/DVD.md "wikilink")解像度(480i、AVC 1.5Mbps前後)のほかにHD解像度([720p](https://ja.wikipedia.org/wiki/720p "wikilink")、AVC 4Mbps)で[ドルビー](https://ja.wikipedia.org/wiki/ドルビー "wikilink")5.1chサウンドに対応した)転送速度は1本あたりの容量と再生時間から計算)。またHD対応の[Podcast](https://ja.wikipedia.org/wiki/Podcast "wikilink")にも対応している。これにともなってGUIも一新された。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、で行われた[Macworld](https://ja.wikipedia.org/wiki/Macworld_Conference_&_Expo "wikilink")2008で[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")がApple TVの値下げとアップデートをアナウンスした。このアップデートによって、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")の新しいサービスであるiTunes ムービーレンタルにも対応し、今度はMacやPCに同期せずに単体で[iTunes Storeにアクセスできるようになった](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。ムービーレンタルは[DVD](../Page/DVD.md "wikilink")解像度(480i、AVC 1.5Mbps前後)のほかにHD解像度([720p](https://ja.wikipedia.org/wiki/720p "wikilink")、AVC 4Mbps)で[ドルビー](../Page/ドルビーラボラトリーズ.md "wikilink")5.1chサウンドに対応した)転送速度は1本あたりの容量と再生時間から計算)。またHD対応の[Podcast](https://ja.wikipedia.org/wiki/Podcast "wikilink")にも対応している。これにともなってGUIも一新された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")のアップル2010秋スペシャルイベントで第2世代Apple TVが発表され、99ドルへの大幅な値下げ、製品も4分の1に小型化し、AirPlayの初採用と前モデルから内容が大幅に刷新された。この刷新では、iTunesだけでなくiPhoneやiPadからの音楽や動画、画像をAirPlay経由で再生することが可能になった。また、従来のHDムービーに加えて、大手放送局提供のTV番組が1話に付き99セントでレンタルできるサービスが加わった。また米国で人気の[Netflix](../Page/Netflix.md "wikilink")へも対応した。
 
@@ -149,8 +149,8 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 </tr>
 <tr class="odd">
 <td><p>プロセッサ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インテル" title="wikilink">Intel</a> 1.0GHz Crofton プロセッサ[26]</p></td>
-<td><p>1GHz <a href="https://ja.wikipedia.org/wiki/Apple_A4" title="wikilink">Apple A4</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インテル" title="wikilink">Intel</a> 1.0 GHz Crofton プロセッサ[26]</p></td>
+<td><p>1 GHz <a href="https://ja.wikipedia.org/wiki/Apple_A4" title="wikilink">Apple A4</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Apple_A5" title="wikilink">Apple A5</a> シングルコア</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a> デュアルコア</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Apple_A10X" title="wikilink">Apple A10X Fusion</a></p></td>
@@ -176,7 +176,7 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 </tr>
 <tr class="even">
 <td><p>メモリ</p></td>
-<td><p>256MB/400MHz <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>[28]</p></td>
+<td><p>256MB/400 MHz <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>[28]</p></td>
 <td><p>256MB[29]</p></td>
 <td><p>512MB[30]</p></td>
 <td><p>2GB LPDDR3 SDRAM[31]</p></td>
@@ -219,11 +219,11 @@ Bluetooth 4.0</p></td>
 </tr>
 <tr class="even">
 <td><p>映像出力</p></td>
-<td><p>1080p/1080i 60/50Hz・720p 60/50Hz・576p 50Hz（<a href="../Page/PAL.md" title="wikilink">PAL</a>）・480p 60Hz（<a href="../Page/NTSC.md" title="wikilink">NTSC</a>）<br />
+<td><p>1080p/1080i 60/50 Hz・720p 60/50 Hz・576p 50 Hz（<a href="../Page/PAL.md" title="wikilink">PAL</a>）・480p 60 Hz（<a href="../Page/NTSC.md" title="wikilink">NTSC</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/HDMI" title="wikilink">HDMI</a>および<a href="../Page/コンポーネント映像信号.md" title="wikilink">コンポーネント端子</a></p></td>
-<td><p>720p 60/50Hz<br />
+<td><p>720p 60/50 Hz<br />
 HDMIのみ</p></td>
-<td><p>1080p 60/50Hz・720p 60/50Hz<br />
+<td><p>1080p 60/50 Hz・720p 60/50 Hz<br />
 HDMIのみ</p></td>
 <td><p>最大2160p 60fps</p></td>
 <td></td>
@@ -255,7 +255,7 @@ HDMIのみ</p></td>
 </tr>
 <tr class="even">
 <td><p>重量</p></td>
-<td><p>1.09kg</p></td>
+<td><p>1.09 kg</p></td>
 <td><p>272g</p></td>
 <td><p>425g</p></td>
 <td></td>
@@ -318,7 +318,7 @@ HDMIのみ</p></td>
 
   - [TV - Apple（日本）](http://www.apple.com/jp/tv/)
 
-[Category:アップルのハードウェア](https://ja.wikipedia.org/wiki/Category:アップルのハードウェア "wikilink") [Category:iOS_(アップル)](https://ja.wikipedia.org/wiki/Category:iOS_\(アップル\) "wikilink") [Category:スマートテレビ](https://ja.wikipedia.org/wiki/Category:スマートテレビ "wikilink") [Category:2007年のハードウェア](https://ja.wikipedia.org/wiki/Category:2007年のハードウェア "wikilink")
+[Category:アップルのハードウェア](https://ja.wikipedia.org/wiki/Category:アップルのハードウェア "wikilink") [Category:IOS_(アップル)](https://ja.wikipedia.org/wiki/Category:IOS_\(アップル\) "wikilink") [Category:スマートテレビ](https://ja.wikipedia.org/wiki/Category:スマートテレビ "wikilink") [Category:2007年のハードウェア](https://ja.wikipedia.org/wiki/Category:2007年のハードウェア "wikilink")
 
 1.  [アップル、驚きの新機能を加え、iTunes 7を発表](http://www.apple.com/jp/news/2006/sep/13itunes7.html) アップル ニュースリリース 2006年9月13日
 2.  [Apple TVがリビングルームに登場](http://www.apple.com/jp/news/2007/jan/10appletv.html) アップル ニュースリリース 2007年1月10日

@@ -73,7 +73,7 @@
 
 ## 外部リンク
 
-  - [CANCION - Sony Music](http://www.sonymusic.co.jp/Music/Arch/ARI/cancion/)
+  - [CANCION - Sony Music](https://www.sonymusic.co.jp/artist/cancion/)
   - [公式サイト](http://www.cancion.jp/)
 
 <!-- end list -->

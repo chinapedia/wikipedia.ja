@@ -51,7 +51,7 @@
         作詞：赤西仁・上田竜也、作曲・編曲：velvetronica
 12. **RUSH OF LIGHT**※ (4:27)
       -
-        作詞：ma-saya、作曲：Watermelon 6、編曲：CHOKKAKU
+        作詞：[ma-saya](https://ja.wikipedia.org/wiki/ma-saya "wikilink")、作曲：Watermelon 6、編曲：CHOKKAKU
 13. **ハルカナ約束** (3:55)
       -
         作詞：SPIN、Rap詞：JOKER、作曲：森元康介、編曲：[ha-j](https://ja.wikipedia.org/wiki/ha-j "wikilink")

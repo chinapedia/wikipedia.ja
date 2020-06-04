@@ -926,7 +926,7 @@
 
 ## 外部リンク
 
-  - [NHK解説委員室](http://www.nhk.or.jp/kaisetsu/)
+  - [NHK解説委員室](https://www.nhk.or.jp/kaisetsu/)
 
 [Category:日本放送協会](https://ja.wikipedia.org/wiki/Category:日本放送協会 "wikilink") [Category:NHK解説委員](https://ja.wikipedia.org/wiki/Category:NHK解説委員 "wikilink")
 

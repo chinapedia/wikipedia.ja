@@ -329,7 +329,7 @@
 
 ## 外部リンク
 
-  - [we are cambiare (公式ブログ)](http://ameblo.jp/fc-cambiare/)
+  - [we are cambiare (公式ブログ)](https://ameblo.jp/fc-cambiare/)
 
   -
 [Category:秋田県のサッカークラブ](https://ja.wikipedia.org/wiki/Category:秋田県のサッカークラブ "wikilink") [Category:秋田市のスポーツ](https://ja.wikipedia.org/wiki/Category:秋田市のスポーツ "wikilink") [Category:特定非営利活動法人_(スポーツ関係)](https://ja.wikipedia.org/wiki/Category:特定非営利活動法人_\(スポーツ関係\) "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[LPIC](https://ja.wikipedia.org/wiki/LPIC)から翻訳されています。
 
 
-**LPIC**（Linux Professional Institute Certification、エルピック）は、カナダに本部を置く[非営利組織の](../Page/非営利団体.md "wikilink")[Linux Professional Institute](../Page/Linux_Professional_Institute.md "wikilink")（LPI）によって運営されている[Linux](../Page/Linux.md "wikilink")[技術者](../Page/技術者.md "wikilink")の技術者[認定資格](https://ja.wikipedia.org/wiki/認定資格 "wikilink")である。また、LPIはLinuxとオープンソース入門者向けの[Linux Essentialsプログラムや](https://ja.wikipedia.org/wiki/LPIC#Linux_Essentials "wikilink")、[DevOps](https://ja.wikipedia.org/wiki/DevOps "wikilink")や[BSD](../Page/BSD.md "wikilink")などの技術を使用するプロフェッショナル向けのオープン技術のプログラムも提供している。
+**LPIC**（Linux Professional Institute Certification、エルピック）は、カナダに本部を置く[非営利組織の](../Page/非営利団体.md "wikilink")[Linux Professional Institute](../Page/Linux_Professional_Institute.md "wikilink")（LPI）によって運営されている世界最大の[Linux](../Page/Linux.md "wikilink")[技術者](../Page/技術者.md "wikilink")の認定資格である。また、LPIはLinuxとオープンソース入門者向けの[Linux Essentialsプログラムや](https://ja.wikipedia.org/wiki/LPIC#Linux_Essentials "wikilink")、[DevOps](https://ja.wikipedia.org/wiki/DevOps "wikilink")や[BSD](../Page/BSD.md "wikilink")などの技術を使用するプロフェッショナル向けのオープン技術のプログラムも提供している。
 
 ## 概要
 
-日本国内では、東京都内に事務局をおく[LPI日本支部](http://www.lpi.org/ja/)が認定試験の運営事務を行っている。試験の実施に関する業務以外にも、教育機関の支援を行う[トレーニングパートナ制度](http://www.lpi.org/ja/about-lpi/become-a-training-partner)、バウチャー販売を行うチャネルパートナー、LPI認定者の雇用を行うハイアリングパートナー制度など新たなパートナー制度の運用も行っている。\[1\]
+日本国内では、東京都内に事務局をおく[LPI日本支部](http://www.lpi.org/ja/)が認定試験の運営事務を行っている。試験の実施に関する業務以外にも、教育機関の支援を行う[トレーニングパートナ制度](http://www.lpi.org/ja/about-lpi/become-a-training-partner)、バウチャー販売を行うチャネルパートナー、LPI認定者の雇用を行うハイアリングパートナー制度など新たなパートナー制度の運用も行っている\[1\]。
 
 LPICの特徴として、ベンダー・メーカーに依存しない「中立」な資格であること、「世界規模」で実施されており、「世界最大」のLinux技術者認定資格で、国際標準の認定であるため、日本以外の国でも有効な認定であることが挙げられている。
 
@@ -71,7 +71,7 @@ LPIの認定は5年間有効である。Linux Essentialsの認定だけは例外
 
 ## 日本における認定
 
-日本においては、[2000年](../Page/2000年.md "wikilink")に設立されたLPI-Japanが長らくLPICの実施、提供およびサービスに関する独占的権利を保有しており、同団体を通じて試験が実施されてきた\[7\]。一方で、LPI-JapanはLPICを将来置換える目的で、[2018年](../Page/2018年.md "wikilink")3月より日本ローカルの認定試験**[LinuC](https://ja.wikipedia.org/wiki/LinuC "wikilink")**を開始した\[8\]。これに対して、LPIは同年6月に[LPI日本支部](http://www.lpi.org/ja/)を設立して日本でのサービスを開始した\[9\]\[10\]。LPI-Japanは5月31日よりLPICのバウチャー販売を停止し、受験者情報データベースへのアクセスを切断されたとして、8月17日にはLPICの取り扱いの停止を発表した\[11\]。
+日本においては、2000年に設立されたLPI-Japanが長らくLPICの実施してきた\[7\]。一方で、LPI-JapanはLPICを将来置換える目的で、2018年3月より日本ローカルの認定試験LinuCを開始した\[8\]。これに対して、LPIは同年6月に[LPI日本支部](http://www.lpi.org/ja/)を設立して日本でのサービスを開始した\[9\]\[10\]。LPI-Japanは5月31日よりLPICのバウチャー販売を停止し、受験者情報データベースへのアクセスを切断されたとして、8月17日にはLPICの取り扱いの停止を発表した\[11\]。
 
 LPI本部のExecutive DirectorのG・マシュー・ライスは、LPI日本支部を設立した理由について、LPIC資格を持つエンジニアによるガバナンスを実現する計画があり、日本支部が必要であったが、LPI-Japanによる協力が得られなかったためであると説明している\[12\]\[13\]\[14\]。
 

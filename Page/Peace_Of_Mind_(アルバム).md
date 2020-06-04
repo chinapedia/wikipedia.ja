@@ -1,17 +1,17 @@
 > この記事は[Peace Of Mind \(アルバム\)](https://ja.wikipedia.org/wiki/Peace_Of_Mind_\(アルバム\))から翻訳されています。
 
 
-『**Peace Of Mind**』（ピース・オブ・マインド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")のボーカリスト・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")がソロでリリースした、3作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
+『**Peace Of Mind**』（ピース・オブ・マインド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の[ボーカリスト](../Page/歌手.md "wikilink")・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の3作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")に[VERMILLION RECORDSから発売された](../Page/VERMILLION_RECORDS.md "wikilink")。
 
-## 内容
+## 概要
 
-初のソロツアーが開催された[2004年](../Page/2004年.md "wikilink")に制作されたオリジナルアルバム。
+初のソロツアーが開催された[2004年](../Page/2004年.md "wikilink")に制作されたオリジナル・アルバム。
 
-初めてシングル作品が収録され、本作以降はアルバムに先行してシングル作品が製作されるようになる。本作では3rdシングル「[Wonderland](../Page/Wonderland_\(稲葉浩志の曲\).md "wikilink")」から2曲が収録されているが、前年に発売された2ndシングル「[KI](../Page/KI_\(稲葉浩志のシングル\).md "wikilink")」は全曲未収録となった。
+初めてシングル作品が収録され、本作以降はアルバムに先行してシングル作品が製作されるようになる。本作では3rdシングル『[Wonderland](../Page/Wonderland_\(稲葉浩志の曲\).md "wikilink")』から2曲が収録されているが、前年に発売された2ndシングル『[KI](../Page/KI_\(稲葉浩志のシングル\).md "wikilink")』は全曲未収録となった。
 
 初回限定盤には「正面衝突」のライブ映像が収録されたDVDが付属されている。
 
-ギターには以前より親交があった[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")が参加、またソロツアーに参加した、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")と[大田紳一郎](../Page/大田紳一郎.md "wikilink")が参加している。
+ギターには以前より親交があった[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")が参加、またソロツアーに参加した、[doaの](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")と[大田紳一郎](../Page/大田紳一郎.md "wikilink")が参加している。
 
 アルバムは[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")主体の楽曲が最初と中盤、最後に配置されている構成で、この3曲は他の収録曲に比べて演奏時間が短い。
 
@@ -115,10 +115,6 @@
   - 小林廣行：ミックス（\#3.7.11.12）
   - 福田聡：ミックス（\#4.6.8.10.13.14）
   - 中島顕夫：ミックス（\#5）
-
-## 関連項目
-
-  - [LIVE 2004 〜en〜](../Page/LIVE_2004_〜en〜.md "wikilink")
 
 ## 脚注
 

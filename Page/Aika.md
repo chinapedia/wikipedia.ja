@@ -1,7 +1,7 @@
 > この記事は[Aika](https://ja.wikipedia.org/wiki/Aika)から翻訳されています。
 
 
-**AIKA**（あいか、[2月20日](../Page/2月20日.md "wikilink") - ）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・サクソフォンプレイヤー。現在アメリカ、ロサンゼルスを拠点に活動している。父はサクソフォンプレイヤーの[平原まこと](../Page/平原まこと.md "wikilink")、妹は歌手の[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")。
+**AIKA**（あいか、[2月20日](../Page/2月20日.md "wikilink") - ）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[サクソフォンプレイヤー](../Page/サクソフォーン.md "wikilink")。現在[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")を拠点に活動している。父はサクソフォンプレイヤーの[平原まこと](../Page/平原まこと.md "wikilink")、妹は歌手の[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")。
 
 ## 来歴
 
@@ -33,6 +33,6 @@
   - [オフィシャルブログ（2009年2月20日～）](http://ameblo.jp/aikamusic/)
 
   -
-[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:日本の女性ロック歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ロック歌手 "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:バークリー音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:バークリー音楽大学出身の人物 "wikilink") [Category:在アメリカ合衆国日本人のミュージシャン](https://ja.wikipedia.org/wiki/Category:在アメリカ合衆国日本人のミュージシャン "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [平原さんのお姉さん、aikaさんがゲスト！](http://www.tfm.co.jp/hv/index.php?itemid=54281&catid=471)（[TOKYO-FM](../Page/エフエム東京.md "wikilink") [森永乳業presents 平原綾香のヒーリング・ヴィーナス](../Page/森永乳業presents_平原綾香のヒーリング・ヴィーナス.md "wikilink")　2012年8月5日）

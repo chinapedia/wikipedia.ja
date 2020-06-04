@@ -49,7 +49,7 @@
     1.  2015年8月 ISBN 978-4-06-376567-0
     2.  2015年12月 ISBN 978-4-06-376592-2
     3.  2017年4月 ISBN 978-4-06-390692-9
-  - [絢爛たるグランドセーヌ](https://ja.wikipedia.org/wiki/絢爛たるグランドセーヌ "wikilink") （秋田書店 \<[チャンピオンREDコミックス](https://ja.wikipedia.org/wiki/チャンピオンREDコミックス "wikilink")\>、既刊14巻）
+  - [絢爛たるグランドセーヌ](https://ja.wikipedia.org/wiki/絢爛たるグランドセーヌ "wikilink") （秋田書店 \<[チャンピオンREDコミックス](https://ja.wikipedia.org/wiki/チャンピオンREDコミックス "wikilink")\>、既刊15巻）
   - エルジェーベト（講談社 <シリウスKC>、既刊2巻）
     1.  2018年4月 ISBN 978-4-06-511295-3
     2.  2019年6月 ISBN 978-4-06-515686-5

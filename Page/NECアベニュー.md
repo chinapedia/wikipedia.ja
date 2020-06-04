@@ -13,7 +13,7 @@
 
 レコード会社としてはゲームミュージックのサウンドトラックを多く発売した。[葉山宏治](../Page/葉山宏治.md "wikilink")『[超兄貴](../Page/超兄貴.md "wikilink") 〜兄貴のすべて〜』（NACL-1088）は、後年にコロムビアミュージックエンタテインメントより「アベニューコレクション」と題して復刻された。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、新会社・NECインターチャネル（後の[インターチャネル](../Page/インターチャネル.md "wikilink")）にゲームソフト・周辺機器の開発事業を移管。NECアベニュー本体は「制作宣伝部」セクションのみを残してレコードのリリースを続けた後、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")を以て全ての活動を休止。[1999年](../Page/1999年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")付で[清算](../Page/清算.md "wikilink")結了し消滅した。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、新会社・[NECインターチャネル](https://ja.wikipedia.org/wiki/NECインターチャネル "wikilink")にゲームソフト・周辺機器の開発事業を移管。NECアベニュー本体は「制作宣伝部」セクションのみを残してレコードのリリースを続けた後、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")を以て全ての活動を休止。[1999年](../Page/1999年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")付で[清算](../Page/清算.md "wikilink")結了し消滅した。
 
 但し、関連会社のNECアベニュー音楽出版はアイシーアベニュー音楽出版→インデックスミュージック→[ティー ワイ エンタテインメントと三度の社名変更を経て現在も存続している](../Page/ティー_ワイ_エンタテインメント.md "wikilink")。
 
@@ -59,6 +59,6 @@
   - [インターチャネル](../Page/インターチャネル.md "wikilink")
   - [ティー ワイ エンタテインメント](../Page/ティー_ワイ_エンタテインメント.md "wikilink")
 
-[Category:NECグループの歴史](https://ja.wikipedia.org/wiki/Category:NECグループの歴史 "wikilink") [Category:かつて存在した神奈川県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した神奈川県の企業 "wikilink") [Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:かつて存在した日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード・レーベル "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:1999年廃止の企業](https://ja.wikipedia.org/wiki/Category:1999年廃止の企業 "wikilink")
+[Category:NECグループの歴史](https://ja.wikipedia.org/wiki/Category:NECグループの歴史 "wikilink") [Category:かつて存在した神奈川県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した神奈川県の企業 "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:かつて存在した日本のレコード会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード会社 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:1999年廃止の企業](https://ja.wikipedia.org/wiki/Category:1999年廃止の企業 "wikilink")
 
 1.  NintendoDREAM 2008年3月号 77ページ

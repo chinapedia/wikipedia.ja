@@ -1,9 +1,7 @@
 > この記事は[A列車で行こう \(ジャズ\)](https://ja.wikipedia.org/wiki/A列車で行こう_\(ジャズ\))から翻訳されています。
 
 
-**「A列車で行こう」** (*Take the 'A' Train*) は、ジャズの[スタンダード・ナンバー](../Page/スタンダード・ナンバー.md "wikilink")の一つ。
-
-[1939年](../Page/1939年.md "wikilink")に[デューク・エリントン](../Page/デューク・エリントン.md "wikilink")が楽団のピアニスト兼作編曲者であった[ビリー・ストレイホーン](https://ja.wikipedia.org/wiki/ビリー・ストレイホーン "wikilink")に作詞・作曲をオーダーして作られた作品である。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")にエリントン楽団の演奏でレコードが発売され大ヒットした。
+**「A列車で行こう」** (*Take the 'A' Train*) は、ジャズの[スタンダード・ナンバー](../Page/スタンダード・ナンバー.md "wikilink")の一つ。 [1939年](../Page/1939年.md "wikilink")に[デューク・エリントン](../Page/デューク・エリントン.md "wikilink")が楽団のピアニスト兼作編曲者であった[ビリー・ストレイホーン](https://ja.wikipedia.org/wiki/ビリー・ストレイホーン "wikilink")に作詞・作曲をオーダーして作られた作品である。[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")にエリントン楽団の演奏でレコードが発売され大ヒットした。
 
 以来、エリントン楽団のテーマ曲として広く知られている。[エラ・フィッツジェラルド](../Page/エラ・フィッツジェラルド.md "wikilink")との競演でも名高い。
 

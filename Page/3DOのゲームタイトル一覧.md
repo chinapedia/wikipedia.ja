@@ -66,7 +66,7 @@
   - 11月3日 [平田昭吾インタラクティブ絵本「イソップ物語1」](https://ja.wikipedia.org/wiki/イソップ物語 "wikilink")（[エルコム](../Page/エルコム.md "wikilink")）
   - 11月3日 [平田昭吾インタラクティブ絵本「しらゆきひめ」](../Page/白雪姫.md "wikilink")（エルコム）
   - 11月3日 [パタンク](https://ja.wikipedia.org/wiki/パタンク "wikilink")（BMGビクター）
-  - 11月11日 [THE 野球拳 SPECIAL](../Page/野球拳.md "wikilink")（[ソシエッタ代官山](https://ja.wikipedia.org/wiki/ソシエッタ代官山 "wikilink")）\[
+  - 11月11日 [THE 野球拳 SPECIAL](../Page/野球拳.md "wikilink")（[ソシエッタ代官山](../Page/ソシエッタ代官山.md "wikilink")）\[
   - 11月13日 [スーパーストリートファイターIIX](../Page/ストリートファイターII.md "wikilink")（[カプコン](../Page/カプコン.md "wikilink")）
   - 11月18日 [グリッダーズ](https://ja.wikipedia.org/wiki/グリッダーズ "wikilink")（The 3DO Company）
   - 11月18日 [トム・カイトのこれがゴルフだ\!](https://ja.wikipedia.org/wiki/トム・カイトのこれがゴルフだ! "wikilink")（バイス）

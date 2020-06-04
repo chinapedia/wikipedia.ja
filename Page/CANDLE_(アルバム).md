@@ -1,7 +1,7 @@
 > この記事は[CANDLE \(アルバム\)](https://ja.wikipedia.org/wiki/CANDLE_\(アルバム\))から翻訳されています。
 
 
-『**CANDLE**』（キャンドル）は、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")2枚目のアルバム。
+『**CANDLE**』（キャンドル）は、[doaの](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")2枚目のアルバム。
 
 ## 概要
 

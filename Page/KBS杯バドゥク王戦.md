@@ -25,11 +25,11 @@
 5.  1985年 [河燦錫](https://ja.wikipedia.org/wiki/河燦錫 "wikilink") 2-1 金熙中
 6.  1986年 曺薫鉉 2-1 金熙中
 7.  1987年 曺薫鉉 2-1 [徐能旭](../Page/徐能旭.md "wikilink")
-8.  1988年 [李昌鎬](../Page/李昌鎬.md "wikilink") 2-1 [金秀壮](https://ja.wikipedia.org/wiki/金秀壮 "wikilink")
-9.  1989年 曺薫鉉 2-1 徐能旭
-10. 1990年 曺薫鉉 2-0 徐能旭
-11. 1991年 李昌鎬 2-1 曺薫鉉
-12. 1992年 曺薫鉉 2-0 劉昌赫
+8.  1989年 [李昌鎬](../Page/李昌鎬.md "wikilink") 2-1 [金秀壮](https://ja.wikipedia.org/wiki/金秀壮 "wikilink")
+9.  1990年 曺薫鉉 2-1 徐能旭
+10. 1991年 曺薫鉉 2-0 徐能旭
+11. 1992年 李昌鎬 2-1 曺薫鉉
+12. 1993年 曺薫鉉 2-0 劉昌赫
 13. 1994年 李昌鎬 2-0 曺薫鉉
 14. 1995年 [劉昌赫](../Page/劉昌赫.md "wikilink") 2-0 李昌鎬
 15. 1996年 曺薫鉉 2-0 李昌鎬
@@ -45,7 +45,7 @@
 25. 2006年 李世乭 2-0 [崔哲瀚](../Page/崔哲瀚.md "wikilink")
 26. 2007年 李昌鎬 2-1 趙漢乗
 27. 2009年 李昌鎬 2-1 李世乭
-28. 2009年 李昌鎬 2-0 [姜東潤](https://ja.wikipedia.org/wiki/姜東潤 "wikilink")
+28. 2010年 李昌鎬 2-0 [姜東潤](https://ja.wikipedia.org/wiki/姜東潤 "wikilink")
 29. 2011年 [朴廷桓](https://ja.wikipedia.org/wiki/朴廷桓 "wikilink") 2-0 [白洪淅](https://ja.wikipedia.org/wiki/白洪淅 "wikilink")
 30. 2012年 朴廷桓 2-0 白洪淅
 31. 2013年 朴廷桓 2-1 李昌鎬

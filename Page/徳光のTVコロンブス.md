@@ -66,14 +66,14 @@
   - [東北放送](../Page/東北放送.md "wikilink")
   - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [長野放送](../Page/長野放送.md "wikilink")
   - [テレビ静岡](../Page/テレビ静岡.md "wikilink")
   - [中国放送](../Page/中国放送.md "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") → [テレビ高知](../Page/テレビ高知.md "wikilink")
   - [福岡放送](../Page/福岡放送.md "wikilink") - TXN九州開局前の1991年3月まで放送。
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [テレビ熊本](../Page/テレビ熊本.md "wikilink")
   - [鹿児島放送](../Page/鹿児島放送.md "wikilink")
 

@@ -54,7 +54,7 @@
   - [TDK由利本荘](../Page/TDK由利本荘.md "wikilink")
   - [TDK羽後](../Page/TDK羽後.md "wikilink")
 
-[Category:かつて存在した日本の電気機器メーカー‎](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気機器メーカー‎ "wikilink") [Category:かつて存在した秋田県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した秋田県の企業 "wikilink") [Category:TDK](https://ja.wikipedia.org/wiki/Category:TDK "wikilink") [Category:1971年設立の企業](https://ja.wikipedia.org/wiki/Category:1971年設立の企業 "wikilink")
+[Category:かつて存在した日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気機器メーカー "wikilink") [Category:かつて存在した秋田県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した秋田県の企業 "wikilink") [Category:TDK](https://ja.wikipedia.org/wiki/Category:TDK "wikilink") [Category:1971年設立の企業](https://ja.wikipedia.org/wiki/Category:1971年設立の企業 "wikilink")
 
 1.
 2.

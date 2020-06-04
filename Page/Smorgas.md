@@ -57,7 +57,7 @@
 <!-- end list -->
 
   -
-    2006年1月9日脱退後、[ERSKIN](https://ja.wikipedia.org/wiki/ERSKIN "wikilink")、[CORNER](https://ja.wikipedia.org/wiki/CORNER "wikilink")、[MARS EURYTHMICSなどで活動したのち](../Page/MARS_EURYTHMICS.md "wikilink")、ライヴサポートなどで活動中。またベース・マガジンのライター、国立音楽院で講師も勤務。2010年9月メンバー復帰。
+    2006年1月9日脱退後、[ERSKIN](https://ja.wikipedia.org/wiki/ERSKIN "wikilink")、[CORNER](https://ja.wikipedia.org/wiki/CORNER "wikilink")、[MARS EURYTHMICSなどで活動したのち](../Page/MARS_EURYTHMICS.md "wikilink")、ライヴサポートなどで活動中。またベース・マガジンのライターも務める。2010年9月メンバー復帰。
 
 <!-- end list -->
 

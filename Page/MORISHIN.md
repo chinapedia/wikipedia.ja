@@ -50,6 +50,8 @@
       - 『Sha-la-laハジけるLove』（アルバム『[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince_\(アルバム\) "wikilink")』）…作詞
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
       - 『Napa Napa』（シングル『[ファンファーレ\!](https://ja.wikipedia.org/wiki/ファンファーレ! "wikilink")』）…作詞
+  - [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")
+      - 『Amazing\!\!\!\!\!\!』…作詞
 
 ## 出演
 

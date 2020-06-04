@@ -104,7 +104,7 @@ CUIで動作するフロントエンドとして[aptitude](https://ja.wikipedia.
 
 apt-getには隠し機能があり、[aptitudeの隠し機能と対になっている](https://ja.wikipedia.org/wiki/aptitude#イースターエッグ "wikilink")。(""は[円記号](../Page/円記号.md "wikilink")ではなく[バックスラッシュ](../Page/バックスラッシュ.md "wikilink")である)
 
-`$ apt-get moo`
+`$ apt moo`
 `         (__) `
 `         (oo) `
 `   /------``/ `

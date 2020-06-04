@@ -138,7 +138,7 @@
 </ol></td>
 <td><p>CD</p></td>
 <td><p>APCA-189</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バンダイミュージック" title="wikilink">バンダイミュージック</a></p></td>
+<td><p><a href="../Page/バンダイ・ミュージックエンタテインメント.md" title="wikilink">バンダイミュージック</a></p></td>
 </tr>
 </tbody>
 </table>

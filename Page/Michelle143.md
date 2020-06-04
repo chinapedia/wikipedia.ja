@@ -53,6 +53,6 @@
 ## 外部リンク
 
   - michelle143.com - 公式ウェブサイト（閉鎖）
-  - [Sony Music Online Japan : Michelle](http://www.sonymusic.co.jp/Music/Arch/SMER/Michelle/index.html) - [ソニー・ミュージックエンタテインメントによる公式ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+  - [Sony Music Online Japan : Michelle](https://www.sonymusic.co.jp/artist/Michelle/) - [ソニー・ミュージックエンタテインメントによる公式ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
 [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink")

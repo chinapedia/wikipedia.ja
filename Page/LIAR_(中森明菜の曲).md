@@ -9,7 +9,7 @@
 
 シングル盤「LIAR」の[B面として発表された](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")「Blue On Pink」は、[三浦徳子](../Page/三浦徳子.md "wikilink")の作詞に[国安わたる](../Page/国安わたる.md "wikilink")が作曲し、[若草恵](../Page/若草恵.md "wikilink")が編曲を手掛けた楽曲である\[9\]。同曲は、『アジア太平洋音楽祭』、[テレビ朝日系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（1989年5月26日）\[10\]、[フジテレビ系](../Page/フジネットワーク.md "wikilink")『[夜のヒットスタジオDELUXE](https://ja.wikipedia.org/wiki/夜のヒットスタジオ#夜のヒットスタジオDELUXE "wikilink")』（1989年6月21日）\[11\]といったテレビ番組で歌唱された。
 
-中森は本作リリース後の1989年7月11日に自殺未遂事件を起こし、その後およそ1年間歌手活動を休止する\[12\]。
+1989年7月9日、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列『第8回[メガロポリス歌謡祭](https://ja.wikipedia.org/wiki/メガロポリス歌謡祭 "wikilink")』ポップス入賞作品、及び[プレゼンター](../Page/プレゼンター.md "wikilink")として当番組へ生出演し、「LIAR」を披露。ところが、それから僅か2日後の同年7月11日に中森は自殺未遂事件を起こした為、その後およそ1年間歌手活動を休止する\[12\]。
 
 ## 批評
 

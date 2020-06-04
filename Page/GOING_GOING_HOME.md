@@ -26,11 +26,11 @@
 
 ## 脚注
 
-[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:家を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:家を題材とした楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
+[Category:H_Jungle_with_tの楽曲](https://ja.wikipedia.org/wiki/Category:H_Jungle_with_tの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
 1.  [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/Bart "wikilink")」1995年8月14日号88Pより。
 2.
-3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1995年8月号31P-35Pより。
+3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1995年8月号「小室哲哉 小室マトリックスの拡散と変容」31P-35Pより。
 4.
 5.
 6.

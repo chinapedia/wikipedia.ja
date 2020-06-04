@@ -34,7 +34,7 @@
   -
     {| border="1" cellpadding="5" class="wikitable sortable" style="text-align:center;"
 
-|- align="center" \! モデル ナンバー \!\! 動作周波数 \!\! L2 キャッシュ \!\! [TDP](https://ja.wikipedia.org/wiki/熱設計電力 "wikilink") |- | Turion 64 X2 TL-64 || 2.2 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-60 || 2.0 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-56 || 1.8 GHz || 512 KiB × 2 || 33 W |- | Turion 64 X2 TL-52 || 1.6 GHz || 512 KiB × 2 || 31 W |- | Turion 64 X2 TL-50 || 1.6 GHz || 256 KiB × 2 || 31 W |}
+|- align="center" \! モデル ナンバー \!\! 動作周波数 \!\! L2 キャッシュ \!\! [TDP](../Page/熱設計電力.md "wikilink") |- | Turion 64 X2 TL-64 || 2.2 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-60 || 2.0 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-56 || 1.8 GHz || 512 KiB × 2 || 33 W |- | Turion 64 X2 TL-52 || 1.6 GHz || 512 KiB × 2 || 31 W |- | Turion 64 X2 TL-50 || 1.6 GHz || 256 KiB × 2 || 31 W |}
 
 #### Tyler (65 nm SOI)
 
@@ -45,7 +45,7 @@
   -
     {| border="1" cellpadding="5" class="wikitable sortable" style="text-align:center;"
 
-|- align="center" \! モデル ナンバー \!\! 動作周波数 \!\! L2 キャッシュ \!\! [TDP](https://ja.wikipedia.org/wiki/熱設計電力 "wikilink") |- | Turion 64 X2 TL-68 || 2.4 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-66 || 2.3 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-64 || 2.2 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-62 || 2.1 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-60 || 2.0 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-58 || 1.9 GHz || 512 KiB × 2 || 31 W |- | Athlon 64 X2 TK-57 || 1.9 GHz || 256 KiB × 2 || 31 W |- | Turion 64 X2 TL-56 || 1.8 GHz || 512 KiB × 2 || 31 W |- | Athlon 64 X2 TK-55 || 1.8 GHz || 256 KiB × 2 || 31 W |- | Athlon 64 X2 TK-53 || 1.7 GHz || 256 KiB × 2 || 31 W |- | Athlon 64 X2 TK-52 || 1.6 GHz || 512 KiB × 2 || 20 W |}
+|- align="center" \! モデル ナンバー \!\! 動作周波数 \!\! L2 キャッシュ \!\! [TDP](../Page/熱設計電力.md "wikilink") |- | Turion 64 X2 TL-68 || 2.4 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-66 || 2.3 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-64 || 2.2 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-62 || 2.1 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-60 || 2.0 GHz || 512 KiB × 2 || 35 W |- | Turion 64 X2 TL-58 || 1.9 GHz || 512 KiB × 2 || 31 W |- | Athlon 64 X2 TK-57 || 1.9 GHz || 256 KiB × 2 || 31 W |- | Turion 64 X2 TL-56 || 1.8 GHz || 512 KiB × 2 || 31 W |- | Athlon 64 X2 TK-55 || 1.8 GHz || 256 KiB × 2 || 31 W |- | Athlon 64 X2 TK-53 || 1.7 GHz || 256 KiB × 2 || 31 W |- | Athlon 64 X2 TK-52 || 1.6 GHz || 512 KiB × 2 || 20 W |}
 
 ## リビジョンについて
 

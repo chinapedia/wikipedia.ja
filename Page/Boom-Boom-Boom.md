@@ -5,7 +5,7 @@
 
 ## 概要
 
-内容に対して愛内は、「私的なI Love You」を語っている。コーラスに[大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](../Page/Doa_\(ミュージシャン\).md "wikilink")）、[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")が参加している。「[恋はスリル、ショック、サスペンス](../Page/恋はスリル、ショック、サスペンス.md "wikilink")」以降、初めて[オリコンTOP](../Page/オリコンチャート.md "wikilink")10から外れた。
+内容に対して愛内は、「私的なI Love You」を語っている。コーラスに[大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）、[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")が参加している。「[恋はスリル、ショック、サスペンス](../Page/恋はスリル、ショック、サスペンス.md "wikilink")」以降、初めて[オリコンTOP](../Page/オリコンチャート.md "wikilink")10から外れた。
 
 ## 収録曲
 

@@ -15,30 +15,30 @@
 
 ## 記録
 
-[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のシングル3作同時リリースと同日発売であったが、2位の『[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")』を抑えて[オリコンチャート](../Page/オリコンチャート.md "wikilink")で21作連続の初登場1位を獲得。初動・累計売上共に前作を上回り、初動売上は『[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")』以来の50万枚超となった。オリコンでは僅かにミリオンには届かなかったが、[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となっている\[5\]。
+[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のシングル3作同時リリースと同日発売であったが、2位の『[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")』を抑えて[オリコンチャート](../Page/オリコンチャート.md "wikilink")で21作連続の初登場1位を獲得。初動・累計売上共に前作を上回り、初動売上は『[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")』以来の50万枚超となった。[プラネットチャートでは初登場](https://ja.wikipedia.org/wiki/プラネット_\(企業\) "wikilink")4位となり、前作まで続いた19作連続の初登場1位の記録が途絶えた\[5\]。オリコンでは僅かにミリオンには届かなかったが、[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となっている\[6\]。
 
 ## 収録曲
 
 1.  **HOME** (4:22)
       -
-        歌詞やタイトルに登場する「HOME」は、「自分の中のよりどころ、ゆるぎないもの、それがあれば当面何がおきても大丈夫」という稲葉の思いから付けられた\[6\]。
-        イントロに入っているアコーディオンは、かつてパリを訪れた際に駅で演奏しているのを見た稲葉が、「パリの地下鉄駅構内風のイントロを入れたい」という要望を採り入れたもの\[7\]。
-        コーラスに[ひみつのアッコちゃん](../Page/ひみつのアッコちゃん.md "wikilink")に登場する魔法の呪文「テクマクマヤコン」が出てくる。このコーラスは、合いの手としてコーラスを入れることが考えられた際に稲葉が歌いだしたもの\[8\]\[9\]。
-        [PVは](../Page/ミュージック・ビデオ.md "wikilink")『B'z LIVE-GYM '98 "SURVIVE"』ツアー終了後の6月に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で丸2日かけて撮影されたもので、スタッフと出演者は現地の人間\[10\]。
-        オリジナル・アルバムには未収録であり、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』でアルバム初収録となった\[11\]。
-        音楽番組においては、アコースティック・ギターのパートから始まるアレンジで披露された\[12\]。
+        歌詞やタイトルに登場する「HOME」は、「自分の中のよりどころ、ゆるぎないもの、それがあれば当面何がおきても大丈夫」という稲葉の思いから付けられた\[7\]。
+        イントロに入っているアコーディオンは、かつてパリを訪れた際に駅で演奏しているのを見た稲葉が、「パリの地下鉄駅構内風のイントロを入れたい」という要望を採り入れたもの\[8\]。
+        コーラスに[ひみつのアッコちゃん](../Page/ひみつのアッコちゃん.md "wikilink")に登場する魔法の呪文「テクマクマヤコン」が出てくる。このコーラスは、合いの手としてコーラスを入れることが考えられた際に稲葉が歌いだしたもの\[9\]\[10\]。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")『B'z LIVE-GYM '98 "SURVIVE"』ツアー終了後の6月に[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")で丸2日かけて撮影されたもので、スタッフと出演者は現地の人間\[11\]。
+        オリジナル・アルバムには未収録であり、[バラード](../Page/バラード.md "wikilink")・ベスト・アルバム『[The Ballads 〜Love & B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")』でアルバム初収録となった\[12\]。
+        音楽番組においては、アコースティック・ギターのパートから始まるアレンジで披露された\[13\]。
         リリース直前まで行われていた『B'z LIVE-GYM '98 "SURVIVE"』では披露されず、翌年に開催された『[B'z LIVE-GYM '99 "Brotherhood"](../Page/Once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜.md "wikilink")』でライブ初演奏となった。なおこの際イントロのアコースティック・ギターのパートは省かれている。
-        ベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』発売時に[iTunes Music Storeにてこの曲の英語バージョンが現れたが](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")、すぐに姿を消した(その後ミニアルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』に収録され配信されていた)。このバージョンはベストアルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』でファン投票17位にランクインされ\[13\]、初CD化された(ライブでは2006年9月1日に行われたdwango提供の完全招待制のプレミアムライブ『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露されている)。2011年に、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の支援を目的としたコンピレーションアルバム『[ダウンロード・トゥ・ドネート・フォー・ジャパン](https://ja.wikipedia.org/wiki/ダウンロード・トゥ・ドネート・フォー・ジャパン "wikilink")』にも収録された\[14\]。
-        2020年4月27日、[新型コロナウイルスの外出自粛に伴い](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")、公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルにてメンバー2人でこの曲をセッションする動画が公開され\[15\]\[16\]\[17\]、4月30日には『[B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-](../Page/B'z_LIVE-GYM_2019_-Whole_Lotta_NEW_LOVE-.md "wikilink")』のサポートメンバーを加えたバンドセッション動画を公開した\[18\]\[19\]\[20\]。
+        ベスト・アルバム『[B'z The Best "Pleasure II"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")』発売時に[iTunes Music Storeにてこの曲の英語バージョンが現れたが](https://ja.wikipedia.org/wiki/iTunes_Music_Store "wikilink")、すぐに姿を消した(その後ミニアルバム『[B'z](../Page/B'z_\(2007年のアルバム\).md "wikilink")』に収録され配信されていた)。このバージョンはベストアルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』でファン投票17位にランクインされ\[14\]、初CD化された(ライブでは2006年9月1日に行われたdwango提供の完全招待制のプレミアムライブ『[B'z NETWORK LIVE in Japan](../Page/B'z_LIVE_in_なんば.md "wikilink")』にて初披露されている)。2011年に、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の支援を目的としたコンピレーションアルバム『[ダウンロード・トゥ・ドネート・フォー・ジャパン](https://ja.wikipedia.org/wiki/ダウンロード・トゥ・ドネート・フォー・ジャパン "wikilink")』にも収録された\[15\]。
+        2020年4月27日、[新型コロナウイルスの外出自粛に伴い](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルにてメンバー2人でこの曲をセッションする動画が公開され\[16\]\[17\]\[18\]、4月30日には『[B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-](../Page/B'z_LIVE-GYM_2019_-Whole_Lotta_NEW_LOVE-.md "wikilink")』のサポートメンバーを加えたバンドセッション動画を公開した\[19\]\[20\]\[21\]。
 2.  **The Wild Wind** (3:45)
       -
         映画『[不夜城](https://ja.wikipedia.org/wiki/不夜城_\(小説\) "wikilink")』主題歌で、B'zにとってデビュー10年目で初の映画主題歌である。
-        元々は松本がライブでソロコーナーで歌うために用意された楽曲で、主題歌を制作する際に出来た楽曲を稲葉に聴かせ、映画と合っているということから本作が選ばれた\[21\]。歌詞に登場するブランコは、「揺れている不安定な心」の象徴して描かれている\[22\]。
-        2003年に発売された著書「ウルトラクロニクル」のインタビューで、松本がB'zの中で特に好きな曲としてあげた1曲でもある\[23\]\[24\]。
+        元々は松本がライブでソロコーナーで歌うために用意された楽曲で、主題歌を制作する際に出来た楽曲を稲葉に聴かせ、映画と合っているということから本作が選ばれた\[22\]。歌詞に登場するブランコは、「揺れている不安定な心」の象徴して描かれている\[23\]。
+        2003年に発売された著書「ウルトラクロニクル」のインタビューで、松本がB'zの中で特に好きな曲としてあげた1曲でもある\[24\]\[25\]。
         PVは「HOME」と同じく香港で撮影された。また、この曲のPV撮影には不夜城のスタッフも参加している。
         「HOME」（シングルバージョン）より先にマスト・アルバム『[B'z The "Mixture"](../Page/B'z_The_"Mixture".md "wikilink")』でアルバム初収録となった。
         テレビ出演などでも表題曲と共に披露され、稲葉が[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を弾いており、松本はコーラスも担当した。
-        リリースに先駆けて『B'z LIVE-GYM '98 "SURVIVE"』の終盤で未発表曲として先行披露された\[25\]。その後、『B'z SHOWCASE 2007 -19-』、『B'z SHOWCASE 2007 -B'z In Your Town-』で約9年ぶりに演奏され、『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』でも演奏されている。
+        リリースに先駆けて『B'z LIVE-GYM '98 "SURVIVE"』の終盤で未発表曲として先行披露された\[26\]。その後、『B'z SHOWCASE 2007 -19-』、『B'z SHOWCASE 2007 -B'z In Your Town-』で約9年ぶりに演奏され、『[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")』でも演奏されている。
 
 ## タイアップ
 
@@ -113,9 +113,9 @@
 8.
 9.
 10.
-11. ベスト・アルバム『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』収録の「RUN -1998 style-」の無音を挟んで始まる「HOME」は除く。
-12. ただし、アコースティック・ギターのパートをエレクトリック・ギターで弾いている。
-13.
+11.
+12. ベスト・アルバム『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』収録の「RUN -1998 style-」の無音を挟んで始まる「HOME」は除く。
+13. ただし、アコースティック・ギターのパートをエレクトリック・ギターで弾いている。
 14.
 15.
 16.
@@ -125,6 +125,7 @@
 20.
 21.
 22.
-23. もう1曲は「[もう一度キスしたかった](../Page/もう一度キスしたかった.md "wikilink")」。
-24.
-25. 『[SURVIVE](../Page/SURVIVE.md "wikilink")』収録の「泣いて 泣いて 泣きやんだら」、「Shower」が日替わりで演奏されていたパートで、これらの曲と差し替える形でセットリストに加わった。
+23.
+24. もう1曲は「[もう一度キスしたかった](../Page/もう一度キスしたかった.md "wikilink")」。
+25.
+26. 『[SURVIVE](../Page/SURVIVE.md "wikilink")』収録の「泣いて 泣いて 泣きやんだら」、「Shower」が日替わりで演奏されていたパートで、これらの曲と差し替える形でセットリストに加わった。

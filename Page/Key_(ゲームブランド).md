@@ -290,14 +290,21 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 <td><p><a href="../Page/ネット配信.md" title="wikilink">ネット配信</a></p></td>
 <td><p>2016年7月7日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/david_production" title="wikilink">david production</a></p></td>
-<td><p>TV放送ではなく、ニコニコ動画等で配信される。</p></td>
+<td><p>TV放送ではなく、ニコニコ動画等で配信。</p></td>
 </tr>
 <tr class="even">
 <td><p>planetarian 〜星の人〜</p></td>
 <td><p>劇場版</p></td>
 <td><p>2016年9月3日</p></td>
-<td><p>david production</p></td>
 <td><p>[21]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/神様になった日" title="wikilink">神様になった日</a></p></td>
+<td></td>
+<td><p>2020年10月</p></td>
+<td><p>P.A.WORKS</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -390,7 +397,7 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
   - [Key Sounds Label Home Page](http://key.soundslabel.com/)
 
   -
-[Category:Key](https://ja.wikipedia.org/wiki/Category:Key "wikilink") [Category:ビジュアルアーツ](https://ja.wikipedia.org/wiki/Category:ビジュアルアーツ "wikilink")
+[Category:Key](https://ja.wikipedia.org/wiki/Category:Key "wikilink") [Category:ビジュアルアーツ](https://ja.wikipedia.org/wiki/Category:ビジュアルアーツ "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:1998年設立の組織](https://ja.wikipedia.org/wiki/Category:1998年設立の組織 "wikilink")
 
 1.
 2.

@@ -9,9 +9,9 @@
 
 SAPは主にビジネス向けソフトウェアの開発を手掛ける大手ソフトウェア企業であり、売上高では[マイクロソフト](../Page/マイクロソフト.md "wikilink")、[オラクル](../Page/オラクル_\(企業\).md "wikilink")、[IBM](../Page/IBM.md "wikilink")に続いて世界第4位である。\[1\]\[2\] 特に大企業向けのエンタープライズソフトウェア市場においては圧倒的なシェアを保持しており、企業の基幹システムである[ERP分野においては世界一である](../Page/企業資源計画.md "wikilink")。\[3\]\[4\]
 
-2018年末時点で世界全体での売上高が約3兆3,000億円\[5\]、従業員が約84,000人の規模になっている。日本法人である[SAPジャパン](../Page/SAPジャパン.md "wikilink")は1992年に設立され、従業員は1,200人である。
+2019年末時点で世界全体での売上高が約3兆3,000億円\[5\]、従業員が約100,000人の規模になっている。日本法人である[SAPジャパン](../Page/SAPジャパン.md "wikilink")は1992年に設立され、従業員は約1,500人である。
 
-第二次世界大戦後に創業したドイツ企業の中で最も成功した企業の一つであり、時価総額は2016年現在で約11兆円でドイツ最大の企業である。\[6\]　2017年時点、世界190ヶ国で345,000社の顧客を抱え、経済誌[フォーブズが毎年選出する](../Page/フォーブス_\(雑誌\).md "wikilink")[フォーブズ・グローバル2000にランクインする企業のうち](https://ja.wikipedia.org/wiki/フォーブス・グローバル2000 "wikilink")87%がSAPの顧客である。\[7\]\[8\]
+第二次世界大戦後に創業したドイツ企業の中で最も成功した企業の一つであり、時価総額は2019年時点で約18兆円でドイツ最大の企業である。\[6\]　2019年時点、世界190ヶ国で440,000社の顧客を抱え、経済誌[フォーブズが毎年選出する](../Page/フォーブス_\(雑誌\).md "wikilink")[フォーブズ・グローバル2000にランクインする企業のうち](https://ja.wikipedia.org/wiki/フォーブス・グローバル2000 "wikilink")92%がSAPの顧客である。\[7\]\[8\]
 
 SAPは「[システム](../Page/システム.md "wikilink")[分析](../Page/分析.md "wikilink")と[プログラム](../Page/プログラム_\(コンピュータ\).md "wikilink")[開発](../Page/開発.md "wikilink")」の意味のドイツ語*Systemanalyse und Programmentwicklung*という社名で、[1972年](../Page/1972年.md "wikilink")に[IBM](../Page/IBM.md "wikilink")[ドイツ法人を退社した](https://ja.wikipedia.org/wiki/外国法人 "wikilink")5人の[エンジニア](https://ja.wikipedia.org/wiki/エンジニア "wikilink")によって創業された。この名前は後に*Systeme, Anwendungen und Produkte in der Datenverarbeitung* (資料処理における系、応用および製品) と変更されたが、[2005年](../Page/2005年.md "wikilink")に会社の正式名称は単に"SAP AG" と変更された。また、2014年7月からは企業形態を欧州会社(Societas Europaea)に変更し、社名を"SAP SE"と変更した。\[9\] 俗に「[サップ](https://ja.wikipedia.org/wiki/アクロニム "wikilink")」と呼ばれることもあるが、正しくは「エスエイピー」または「エスアーペー」である。
 
@@ -215,7 +215,7 @@ SAPは1972年にIBMドイツ法人出身の下記の5名のエンジニアによ
 3.
 4.  [業務アプリケーションベンダTOP50：首位SAP、オラクルが追走](http://www.publickey1.jp/blog/09/top50sap.html)
 5.
-6.  『日本経済新聞』 2016年8月16日朝刊 「独SAP、提携加速」
+6.  [10．SAPは主力のデータベース製品や企業向けソフトウェアにより、エンタープライズIT業界で支配的な地位を築いた。最近ではアマゾンやマイクロソフトなどの企業と提携し、クラウド・コンピューティングへの移行を進めている](https://www.businessinsider.jp/post-204009)
 7.  [SAP Facts and Information](http://go.sap.com/corporate/en/company.html)
 8.  [SAP: A 45-year history of success](https://www.sap.com/corporate/en/company/history.html)
 9.  [SAP、会社形態を欧州会社(SE)に変更](http://news.mynavi.jp/news/2014/07/10/111/)

@@ -136,7 +136,7 @@ B'zのアルバムでは初の首位を獲得\[5\]。本作以降に発売され
 
 ## 外部リンク
 
-  - [B'z DISCOGRAPHY 『RISKY』](http://bz-vermillion.com/disco/al_04.html) ※楽曲の試聴が可能
+  - [B'z DISCOGRAPHY 『RISKY』](http://bz-vermillion.com/discography/al_04.html) ※楽曲の試聴が可能
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:1990年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1990年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

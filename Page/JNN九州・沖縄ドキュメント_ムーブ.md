@@ -52,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>25:20-25:50<br />
 （月1:20-1:50）</p></td>
 <td><p>20時間5分遅れ</p></td>

@@ -50,4 +50,4 @@
   -
   -
   -
-[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:長野県出身の人物](https://ja.wikipedia.org/wiki/Category:長野県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:長野県出身の人物](https://ja.wikipedia.org/wiki/Category:長野県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:NACK5のパーソナリティ](https://ja.wikipedia.org/wiki/Category:NACK5のパーソナリティ "wikilink")

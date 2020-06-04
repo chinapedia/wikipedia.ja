@@ -1,7 +1,7 @@
 > この記事は[NSTニュース](https://ja.wikipedia.org/wiki/NSTニュース)から翻訳されています。
 
 
-『**NSTこんやのニュース**』（エヌエスティーこんやのニュース）は、[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")\[1\]で放送されている[新潟県](../Page/新潟県.md "wikilink")の[ニュース番組](../Page/報道番組.md "wikilink")。NSTの社屋が[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")にあった時から2015年3月29日まで「NSTニュース」として放送されていたが、ニュースが終了した後に[天気予報](../Page/天気予報.md "wikilink")を放送していた。2015年3月30日から「NSTこんやのニュース」に改題、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")の『[みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』ブランド終了後も、同タイトルで放送が継続されている。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（[地上デジタル放送のみ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
+『**NSTこんやのニュース**』（エヌエスティーこんやのニュース）は、[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")\[1\]で放送されている[新潟県](../Page/新潟県.md "wikilink")の[ニュース番組](../Page/報道番組.md "wikilink")。NSTの社屋が[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")にあった時から2015年3月29日まで「NSTニュース」として放送されていたが、ニュースが終了した後に[天気予報](../Page/天気予報.md "wikilink")を放送していた。2015年3月30日から「NSTこんやのニュース」に改題、[キー局](../Page/キー局.md "wikilink")である[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")の『[みんなのニュース](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")』ブランド終了後も、同タイトルで放送が継続されている。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（[地上デジタル放送のみ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。
 
 ## 放送時間
 

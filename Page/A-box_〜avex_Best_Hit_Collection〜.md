@@ -188,7 +188,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="../Page/BOY_MEETS_GIRL.md" title="wikilink">BOY MEETS GIRL</a></p></td>
+<td><p><a href="../Page/BOY_MEETS_GIRL_(曲).md" title="wikilink">BOY MEETS GIRL</a></p></td>
 <td><p>TRF</p></td>
 <td><p>1994年6月22日</p></td>
 <td><p>avex trax</p></td>

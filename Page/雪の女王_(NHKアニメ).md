@@ -15,6 +15,8 @@
 
 作画は全体的に[劇画](../Page/劇画.md "wikilink")風となっている。特徴として静止画が挿入されたり、画面を二分割にしたり、キャラクターをたくさん並べる演出が多用されている。
 
+[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")制作のアニメがNHKで放送されるのは『[おねがい\!サミアどん](../Page/おねがい!サミアどん.md "wikilink")』以来19年ぶりとなった。
+
 ## 登場人物
 
   - 雪の女王
@@ -578,7 +580,7 @@
 
 ## 外部リンク
 
-  - [NHK アニメ公式サイト](http://www6.nhk.or.jp/anime/program/detail.html?i=snowqueen)
+  - [NHK アニメ公式サイト](https://www6.nhk.or.jp/anime/program/detail.html?i=snowqueen)
   - [VAP DVD紹介ページ](http://www.vap.co.jp/yuki/)
   - [WEBアニメスタイル 出崎統監督「雪の女王」インタビュー](http://www.style.fm/as/13_special/mini_050613.shtml)
 

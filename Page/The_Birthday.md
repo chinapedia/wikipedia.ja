@@ -91,7 +91,7 @@ UPCI-5044（通常盤）</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2007年8月1日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アリシア_(曲)" title="wikilink">アリシア</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/アリシア_(The_Birthdayの曲)" title="wikilink">アリシア</a></strong></p></td>
 <td><p>12cmCD</p></td>
 <td><p>UPCI-5051</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TEARDROP" title="wikilink">TEARDROP</a></p></td>

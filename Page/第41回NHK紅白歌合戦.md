@@ -21,7 +21,8 @@
   - 優勝は白組。
   - 様々な試みが功を奏して、第2部の[視聴率](../Page/視聴率.md "wikilink")が[関東地区では](https://ja.wikipedia.org/wiki/関東地方 "wikilink")51.5%を記録した。以後、[1990年代](../Page/1990年代.md "wikilink")は50%台を維持するようになる。
   - [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、関東地区における瞬間最高視聴率は56.6%、歌手別では植木等・都はるみ出演時に記録された55.6%が最高となった\[8\]。
-  - 西田は紅白の司会担当は今回1度限りだが、その後も幾度か白組司会の候補に挙がったことがあるとされる。
+  - 三田と松平の連続司会は今回までとなったが、前者は[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")（[1993年](../Page/1993年.md "wikilink")）で審査員、後者は[第49回](../Page/第49回NHK紅白歌合戦.md "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）でゲスト出演している。
+  - 西田の白組司会担当は今回1度限りだが、その後も幾度か白組司会の候補に挙がったことがあるとされる。
 
 ## 司会者
 
@@ -105,7 +106,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ギャラリー_(荻野目洋子の曲)" title="wikilink">ギャラリー</a></p></td>
 <td><p>6</p></td>
 <td><p><a href="../Page/少年隊.md" title="wikilink">少年隊</a>(5)</p></td>
-<td><p>FUNKY FLUSHIN'</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FUNKY_FLUSHIN&#39;" title="wikilink">FUNKY FLUSHIN'</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -1,7 +1,7 @@
 > この記事は[GREEN \(TOKIOの曲\)](https://ja.wikipedia.org/wiki/GREEN_\(TOKIOの曲\))から翻訳されています。
 
 
-「**GREEN**」（グリーン）は[TOKIO](../Page/TOKIO.md "wikilink")の26作目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")から発売された。現在は、土曜夜8時からｆｍ系で放送されている『国分太一のラジオボックス』のエンディングとなっている。
+「**GREEN**」（グリーン）は[TOKIO](../Page/TOKIO.md "wikilink")の26作目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")（平成14年）[7月10日](../Page/7月10日.md "wikilink")に[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")から発売された。現在は、土曜夜8時からｆｍ系で放送されている『国分太一のラジオボックス』のエンディングとなっている。
 
 ## 概要・解説
 

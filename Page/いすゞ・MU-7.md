@@ -33,4 +33,4 @@ D-MAXをベースとして2002年に販売を開始した。
 
 [Category:いすゞの車種](https://ja.wikipedia.org/wiki/Category:いすゞの車種 "wikilink") [Category:スポーツ・ユーティリティ・ビークル](https://ja.wikipedia.org/wiki/Category:スポーツ・ユーティリティ・ビークル "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
 
-1.  [いすゞ、インドLCV生産事業進出に向けて覚書を締結 (レスポンス/2013年3月18日掲載/2019年11月1日閲覧)](https://response.jp/article/2013/03/18/193856.html)
+1.

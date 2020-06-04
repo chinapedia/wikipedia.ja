@@ -175,14 +175,14 @@ IWGP決勝リーグ戦の決勝戦「アントニオ猪木 VS ハルク・ホー
 ### 大会概要
 
   - 大会名 : IWGP王座決定リーグ戦（以降第五回大会まで同じ）
-  - 試合形式 : 各ゾーン代表選手１２名により決勝リーグ戦を行う。総得点上位１名が６月１４日蔵前国技館において前年優勝者ハルクホーガンと優勝戦を行う。決勝リーグ戦の試合方法は６０分１本勝負とする。優勝戦は時間無制限１本勝負とする。
+  - 試合形式 : 各ゾーン代表選手12名により決勝リーグ戦を行う。総得点上位1名が6月14日蔵前国技館において前年優勝者[ハルク・ホーガン](../Page/ハルク・ホーガン.md "wikilink")と優勝戦を行う。決勝リーグ戦の試合方法は６０分１本勝負とする。優勝戦は時間無制限１本勝負とする。
   - 採点ルール : 第一回大会に準じる。
-  - 参加選手 : 前大会優勝者 : [ハルク・ホーガン](../Page/ハルク・ホーガン.md "wikilink")(5月11日～18日・6月8日～14日最終戦)
+  - 参加選手 : 前大会優勝者 : ハルク・ホーガン（5月11日～18日・6月8日～14日最終戦）
   - リーグ戦参加選手 : 世界各地区の代表12名
   - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")代表 : [アントニオ猪木](../Page/アントニオ猪木.md "wikilink")、[藤波辰巳](../Page/藤波辰爾.md "wikilink")、[マサ斎藤](../Page/マサ斎藤.md "wikilink")、[長州力](../Page/長州力.md "wikilink")
   - [米国代表](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") : [ビッグ・ジョン・スタッド](https://ja.wikipedia.org/wiki/ビッグ・ジョン・スタッド "wikilink")、[ディック・マードック](../Page/ディック・マードック.md "wikilink")、[アドリアン・アドニス](../Page/アドリアン・アドニス.md "wikilink")、[ケン・パテラ](https://ja.wikipedia.org/wiki/ケン・パテラ "wikilink")
-  - [北米代表](../Page/北アメリカ.md "wikilink") : [アンドレ・ザ・ジャイアント](../Page/アンドレ・ザ・ジャイアント.md "wikilink")、リック・マーテル（マーテルは来日直前にジャンボ鶴田を破りAWA世界新王者となってしまったため不参加。[マスクド・スーパースターが代打出場](https://ja.wikipedia.org/wiki/ビル・イーディー "wikilink")）
-  - [欧州代表](../Page/ヨーロッパ.md "wikilink") : [オットー・ワンツ](https://ja.wikipedia.org/wiki/オットー・ワンツ "wikilink")、[ビッグ・ジョン・クイン](https://ja.wikipedia.org/wiki/前田日明 "wikilink")
+  - [北米代表](../Page/北アメリカ.md "wikilink") : [アンドレ・ザ・ジャイアント](../Page/アンドレ・ザ・ジャイアント.md "wikilink")、[リック・マーテル](../Page/リック・マーテル.md "wikilink")（マーテルは来日直前[ジャンボ鶴田](../Page/ジャンボ鶴田.md "wikilink")を破り[AWA世界ヘビー級王者となったため不参加](../Page/AWA世界ヘビー級王座.md "wikilink")。[マスクド・スーパースターが代打出場](https://ja.wikipedia.org/wiki/ビル・イーディー "wikilink")）
+  - [欧州代表](../Page/ヨーロッパ.md "wikilink") : [オットー・ワンツ](https://ja.wikipedia.org/wiki/オットー・ワンツ "wikilink")、[ビッグ・ジョン・クイン](https://ja.wikipedia.org/wiki/ビッグ・ジョン・クイン "wikilink")
 
 **<big>リーグ戦の結果</big>**
 

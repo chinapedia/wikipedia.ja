@@ -58,11 +58,11 @@
 
       - [南吹田駅](https://ja.wikipedia.org/wiki/南吹田駅 "wikilink")、[JR淡路駅](https://ja.wikipedia.org/wiki/JR淡路駅 "wikilink")、[城北公園通駅](https://ja.wikipedia.org/wiki/城北公園通駅 "wikilink")、[JR野江駅](https://ja.wikipedia.org/wiki/JR野江駅 "wikilink")、[高井田中央駅](https://ja.wikipedia.org/wiki/高井田中央駅 "wikilink")、[JR河内永和駅](https://ja.wikipedia.org/wiki/JR河内永和駅 "wikilink")、[JR俊徳道駅](https://ja.wikipedia.org/wiki/JR俊徳道駅 "wikilink")、[JR長瀬駅](https://ja.wikipedia.org/wiki/JR長瀬駅 "wikilink")、[衣摺加美北駅](https://ja.wikipedia.org/wiki/衣摺加美北駅 "wikilink")、[新加美駅](https://ja.wikipedia.org/wiki/新加美駅 "wikilink")
 
-  - [福知山線](../Page/福知山線.md "wikilink")
+  - [JR宝塚線](../Page/福知山線.md "wikilink")（福知山線）
 
       - [北伊丹駅](https://ja.wikipedia.org/wiki/北伊丹駅 "wikilink")、[中山寺駅](https://ja.wikipedia.org/wiki/中山寺駅 "wikilink")、[生瀬駅](https://ja.wikipedia.org/wiki/生瀬駅 "wikilink")
 
-  - [片町線](https://ja.wikipedia.org/wiki/片町線 "wikilink")
+  - [学研都市線](https://ja.wikipedia.org/wiki/片町線 "wikilink")（片町線）
 
       - [祝園駅](https://ja.wikipedia.org/wiki/祝園駅 "wikilink")、[同志社前駅](../Page/同志社前駅.md "wikilink")、[大住駅](https://ja.wikipedia.org/wiki/大住駅 "wikilink")、[藤阪駅](../Page/藤阪駅.md "wikilink")、[津田駅](https://ja.wikipedia.org/wiki/津田駅 "wikilink")、[寝屋川公園駅](../Page/寝屋川公園駅.md "wikilink")、[鴻池新田駅](https://ja.wikipedia.org/wiki/鴻池新田駅 "wikilink")
 
@@ -78,7 +78,7 @@
 
       - [野田駅](https://ja.wikipedia.org/wiki/野田駅_\(JR西日本\) "wikilink")、[寺田町駅](https://ja.wikipedia.org/wiki/寺田町駅 "wikilink")、[桃谷駅](https://ja.wikipedia.org/wiki/桃谷駅 "wikilink")、[玉造駅](https://ja.wikipedia.org/wiki/玉造駅 "wikilink")
 
-  - [桜島線](../Page/桜島線.md "wikilink")
+  - [桜島線](../Page/桜島線.md "wikilink")（JRゆめ咲線）
 
       - [安治川口駅](https://ja.wikipedia.org/wiki/安治川口駅 "wikilink")、[ユニバーサルシティ駅](https://ja.wikipedia.org/wiki/ユニバーサルシティ駅 "wikilink")、[桜島駅](https://ja.wikipedia.org/wiki/桜島駅 "wikilink")
 
@@ -98,7 +98,7 @@
 
       - [畠田駅](https://ja.wikipedia.org/wiki/畠田駅 "wikilink")、[志都美駅](https://ja.wikipedia.org/wiki/志都美駅 "wikilink")、[香芝駅](https://ja.wikipedia.org/wiki/香芝駅 "wikilink")、[JR五位堂駅](https://ja.wikipedia.org/wiki/JR五位堂駅 "wikilink")、[五条駅](https://ja.wikipedia.org/wiki/五条駅_\(奈良県\) "wikilink")
 
-  - [桜井線](../Page/桜井線.md "wikilink")
+  - [万葉まほろば線](../Page/桜井線.md "wikilink")（桜井線）
 
       - [桜井駅](../Page/桜井駅_\(奈良県\).md "wikilink")
 

@@ -367,7 +367,7 @@
 ## 外部リンク
 
   - [公式サイト](http://www.nanoha.com/archive3/)
-  - [テレビ東京・あにてれ　魔法少女リリカルなのはStrikerS](http://www.tv-tokyo.co.jp/anime/nanoha-s/)
+  - [テレビ東京・あにてれ　魔法少女リリカルなのはStrikerS](https://www.tv-tokyo.co.jp/anime/nanoha-s/)
 
 [Category:魔法少女リリカルなのはのアニメ](https://ja.wikipedia.org/wiki/Category:魔法少女リリカルなのはのアニメ "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:2007年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2007年のテレビアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:メガミマガジン](https://ja.wikipedia.org/wiki/Category:メガミマガジン "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink")
 

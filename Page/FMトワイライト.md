@@ -72,6 +72,6 @@ NHK-FMの平日夕方6時台は[地域別ローカル番組の編成で](https:/
 ## 外部リンク
 
   - [FMトワイライト](https://web.archive.org/web/20060506033524/http://www.nhk.or.jp/nagoya/twilight/)
-  - [NHK名古屋放送局](http://www.nhk.or.jp/nagoya/)
+  - [NHK名古屋放送局](https://www.nhk.or.jp/nagoya/)
 
 [Category:NHK-FMの地域番組](https://ja.wikipedia.org/wiki/Category:NHK-FMの地域番組 "wikilink") [Category:NHK-FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK-FMの音楽番組の歴史 "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink")

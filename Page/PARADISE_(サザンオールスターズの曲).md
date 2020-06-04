@@ -1,7 +1,7 @@
 > この記事は[PARADISE \(サザンオールスターズの曲\)](https://ja.wikipedia.org/wiki/PARADISE_\(サザンオールスターズの曲\))から翻訳されています。
 
 
-「**PARADISE**」（パラダイス）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の42枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**PARADISE**」（パラダイス）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の42作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月29日](../Page/7月29日.md "wikilink")に発売された。
 
 [2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。
 

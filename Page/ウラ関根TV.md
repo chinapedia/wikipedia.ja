@@ -135,7 +135,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>火曜 24:50 - 25:20</p></td>
 <td></td>
 <td></td>

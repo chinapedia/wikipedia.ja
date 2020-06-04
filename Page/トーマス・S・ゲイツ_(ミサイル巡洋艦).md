@@ -17,6 +17,4 @@
   - [navysite.de: *USS Thomas S. Gates*](http://www.navysite.de/cg/cg51.html)
   - [navysite.org: *USS Thomas S. Gates*](http://www.navsource.org/archives/04/040151.htm)
 
-{{-}}
-
 [Category:タイコンデロガ級ミサイル巡洋艦](https://ja.wikipedia.org/wiki/Category:タイコンデロガ級ミサイル巡洋艦 "wikilink") [Category:1987年竣工船](https://ja.wikipedia.org/wiki/Category:1987年竣工船 "wikilink")

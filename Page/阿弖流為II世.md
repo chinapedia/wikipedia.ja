@@ -50,4 +50,8 @@
 
   - [火怨](https://ja.wikipedia.org/wiki/火怨 "wikilink") - アテルイを描いた同原作者の小説作品。
 
-[Category:高橋克彦](https://ja.wikipedia.org/wiki/Category:高橋克彦 "wikilink") [Category:原哲夫の漫画作品](https://ja.wikipedia.org/wiki/Category:原哲夫の漫画作品 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:2000年の漫画](https://ja.wikipedia.org/wiki/Category:2000年の漫画 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:アテルイ](https://ja.wikipedia.org/wiki/Category:アテルイ "wikilink") [Category:岩手県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:岩手県を舞台とした作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:地球外生命体を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした漫画作品 "wikilink")
+## 外部リンク
+
+  - [『阿弖流為（アテルイ）Ⅱ世』](http://www.haratetsuo.com/archives/gallery/%E3%80%8E%E9%98%BF%E5%BC%96%E6%B5%81%E7%82%BA%EF%BC%88%E3%82%A2%E3%83%86%E3%83%AB%E3%82%A4%EF%BC%89%E2%85%A1%E4%B8%96%E3%80%8F) - 原哲夫 公式ウェブサイト
+
+[Category:高橋克彦](https://ja.wikipedia.org/wiki/Category:高橋克彦 "wikilink") [Category:原哲夫の漫画作品](https://ja.wikipedia.org/wiki/Category:原哲夫の漫画作品 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:2000年の漫画](https://ja.wikipedia.org/wiki/Category:2000年の漫画 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:アテルイ](https://ja.wikipedia.org/wiki/Category:アテルイ "wikilink") [Category:岩手県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:岩手県を舞台とした漫画作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:地球外生命体を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした漫画作品 "wikilink")

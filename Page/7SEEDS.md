@@ -431,6 +431,10 @@
   - 「シンクロ」\[17\]
     [サイダーガール](https://ja.wikipedia.org/wiki/サイダーガール "wikilink")によるエンディングテーマ。作詞・作曲は知、編曲は[akkin](https://ja.wikipedia.org/wiki/akkin "wikilink")。
 
+「**生きてゆく**」
+
+12話エンディングテーマ。
+
 ### 各話リスト
 
 ## 脚注

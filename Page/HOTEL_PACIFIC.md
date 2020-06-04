@@ -1,7 +1,7 @@
 > この記事は[HOTEL PACIFIC](https://ja.wikipedia.org/wiki/HOTEL_PACIFIC)から翻訳されています。
 
 
-「**HOTEL PACIFIC**」（ホテル・パシフィック）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の45枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**HOTEL PACIFIC**」（ホテル・パシフィック）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の45作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に発売された。
 
 ## 背景・リリース
 

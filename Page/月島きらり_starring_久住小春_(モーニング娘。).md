@@ -147,9 +147,6 @@
 
 ## 外部リンク
 
-  - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/discography/zetima/102/list.html)
-  - [きらりん☆レボリューション公式サイト](http://www.kirarevo.com/)
-
 [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:きらりん☆レボリューション](https://ja.wikipedia.org/wiki/Category:きらりん☆レボリューション "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:月島きらり_starring_久住小春_(モーニング娘。)のアルバム](https://ja.wikipedia.org/wiki/Category:月島きらり_starring_久住小春_\(モーニング娘。\)のアルバム "wikilink") [Category:月島きらり_starring_久住小春_(モーニング娘。)の楽曲](https://ja.wikipedia.org/wiki/Category:月島きらり_starring_久住小春_\(モーニング娘。\)の楽曲 "wikilink")
 
 1.  [あにてれ：きらりん☆レボリューション 新着情報](http://www.tv-tokyo.co.jp/contents/kirarin/news/index.html) 2006年6月13日付

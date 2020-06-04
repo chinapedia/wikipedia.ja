@@ -1927,7 +1927,7 @@ M\&V SERIES（エムアンドブイ・シリーズ）は、艦船を立体化し
 ## 外部リンク
 
   - [魂ウェブ](http://www.tamashii.jp/)
-  - [mia-hall](http://mia-hall.hp.infoseek.co.jp/)
+  - [mia-hall](https://web.archive.org/20040207092257/http://mia-hall.hp.infoseek.co.jp/)
 
 [Category:ガンダムシリーズの玩具](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズの玩具 "wikilink") [Category:アクションフィギュア](https://ja.wikipedia.org/wiki/Category:アクションフィギュア "wikilink") [Category:1990年代の玩具](https://ja.wikipedia.org/wiki/Category:1990年代の玩具 "wikilink")
 

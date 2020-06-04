@@ -112,7 +112,7 @@ VIAは当初、Nehemiah世代のC3の上位モデルとして**C5X**の投入も
 
 ### Antaur / C3-M
 
-**Antaur**（アンター）はC5XL Nehemiahをベースとして[2003年](../Page/2003年.md "wikilink")に発表されたモバイルCPU。高さを1.5mmに抑えたEBGAパッケージでの1GHz版のみ提供された。デスクトップ版よりコア電圧を抑えるとともに省電力技術として**PowerSave 2.0**を搭載しており、[TDPは](https://ja.wikipedia.org/wiki/熱設計電力 "wikilink")11wとなっている。一部の台湾メーカー製ノートPCで採用された。
+**Antaur**（アンター）はC5XL Nehemiahをベースとして[2003年](../Page/2003年.md "wikilink")に発表されたモバイルCPU。高さを1.5mmに抑えたEBGAパッケージでの1GHz版のみ提供された。デスクトップ版よりコア電圧を抑えるとともに省電力技術として**PowerSave 2.0**を搭載しており、[TDPは](../Page/熱設計電力.md "wikilink")11wとなっている。一部の台湾メーカー製ノートPCで採用された。
 
 Antaurは[2005年](../Page/2005年.md "wikilink")にVIAのブランド再編に伴い**C3-M**（シースリー・エム）に改称された。
 

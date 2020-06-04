@@ -23,7 +23,7 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
 
 ## 日本国内での展開
 
-日本ではケーブルテレビや衛星放送で24時間放送を実施しており、日本語への通訳放送も行っている。[地上波](../Page/地上波.md "wikilink")でも[チバテレビで平日の](../Page/千葉テレビ放送.md "wikilink")5:30 - 6:00に、三重テレビ(エムツー・072ch)で平日の12:00～12:29に放送。過去には[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[tvk](../Page/テレビ神奈川.md "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[富山テレビでも放送されていたことがある](../Page/富山テレビ放送.md "wikilink")。 2012年5月から[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")で毎日4:00 - 4:30と8:30 - 9:00に、ハイビジョンで放送されている。
+日本ではケーブルテレビや衛星放送で24時間放送を実施しており、日本語への通訳放送も行っている。[地上波](../Page/地上波.md "wikilink")でも[チバテレビで平日の](../Page/千葉テレビ放送.md "wikilink")5:30 - 6:00に、三重テレビ(エムツー・072ch)で平日の12:00～12:29に放送、[tvkで平日の](../Page/テレビ神奈川.md "wikilink")6:30 - 7:30に放送。過去には[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[KBS京都](../Page/京都放送.md "wikilink")・[富山テレビでも放送されていたことがある](../Page/富山テレビ放送.md "wikilink")。 2012年5月から[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")で毎日4:00 - 4:30と8:30 - 9:00に、ハイビジョンで放送されている。
 
 ## BBCグローバルニュースジャパン
 

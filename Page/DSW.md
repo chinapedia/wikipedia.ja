@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2005年](../Page/2005年.md "wikilink")8月に設立。オーナーは[WCWパワープラント](https://ja.wikipedia.org/wiki/WCWパワープラント "wikilink")のオーナーでもあった[ジョディ・ハミルトン](https://ja.wikipedia.org/wiki/ジョディ・ハミルトン "wikilink")。[WWE](../Page/WWE.md "wikilink")傘下のプロレス団体で、[OVW](../Page/OVW.md "wikilink")同様に将来WWEへ登場させる予定の[プロレスラー](../Page/プロレスラー.md "wikilink")のトレーニングを行ったり、また[RAWもしくは](../Page/WWE・ロウ.md "wikilink")[Smackdown\!所属のスーパースターが](../Page/スマックダウン.md "wikilink")[ギミック調整を行う場でもある](../Page/ギミック_\(プロレス\).md "wikilink")。
+[2005年](../Page/2005年.md "wikilink")8月に設立。オーナーは[WCWパワープラント](../Page/WCWパワープラント.md "wikilink")のオーナーでもあった[ジョディ・ハミルトン](https://ja.wikipedia.org/wiki/ジョディ・ハミルトン "wikilink")。[WWE](../Page/WWE.md "wikilink")傘下のプロレス団体で、[OVW](../Page/OVW.md "wikilink")同様に将来WWEへ登場させる予定の[プロレスラー](../Page/プロレスラー.md "wikilink")のトレーニングを行ったり、また[RAWもしくは](../Page/WWE・ロウ.md "wikilink")[Smackdown\!所属のスーパースターが](../Page/スマックダウン.md "wikilink")[ギミック調整を行う場でもある](../Page/ギミック_\(プロレス\).md "wikilink")。
 
 [2007年](../Page/2007年.md "wikilink")4月18日WWEはDSWとの関係を終えたと公表。同時にオーナーの[ジョディ・ハミルトン](https://ja.wikipedia.org/wiki/ジョディ・ハミルトン "wikilink")はオフィシャルサイトにおいて、DSWをシャットダウンすると発表。4月19日以降に組まれていたスケジュールは全てキャンセルとなり、契約タレントは今後OVWに移籍するか、リリースされるか、または[フロリダにある](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[スティーブ・カーン](https://ja.wikipedia.org/wiki/スティーブ・カーン "wikilink")主宰のトレーニングキャンプである[FCWに送られるか順次決定されることとなった](../Page/FCW_\(プロレス\).md "wikilink")。その後、新たなレスラーを入れ、単にローカルプロモーションとして活動することになったが[2007年](../Page/2007年.md "wikilink")7月以降は活動を停止している。
 

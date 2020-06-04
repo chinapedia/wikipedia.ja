@@ -5,7 +5,7 @@
 
 元は[ファーストフード](../Page/ファーストフード.md "wikilink")[チェーン](https://ja.wikipedia.org/wiki/チェーン店 "wikilink")[A\&Wレストラン](../Page/A&Wレストラン.md "wikilink")の事業だったが、[ドクターペッパー/セブンアップ](https://ja.wikipedia.org/wiki/ドクターペッパー/セブンアップ "wikilink")（, Inc.、[ドクターペッパー](../Page/ドクターペッパー.md "wikilink")、[セブンアップ等を生産](../Page/セブンアップ_\(飲料\).md "wikilink")）の手に移り、その後の[合併により](../Page/合併_\(企業\).md "wikilink")、現在のオーナーは[ドクターペッパー・スナップル・グループ](https://ja.wikipedia.org/wiki/ドクターペッパー・スナップル・グループ "wikilink") ( Inc.) である。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[沖縄県](../Page/沖縄県.md "wikilink")限定に近い形で[輸入](../Page/輸入.md "wikilink")品が350mlの缶入りを中心に販売されており、沖縄県外でもで輸入食材を扱う店等で販売されている。同県に展開するA\&W沖縄（A\&Wレストランの現地法人）の店舗ではメニューを[注文](https://ja.wikipedia.org/wiki/注文 "wikilink")している客は[無料](../Page/無料.md "wikilink")でルートビアを飲める。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[沖縄県](../Page/沖縄県.md "wikilink")限定に近い形で[輸入](../Page/輸入.md "wikilink")品が350mlの缶入りを中心に販売されており、沖縄県外でも輸入食材を扱う店等で販売されている。同県に展開するA\&W沖縄（A\&Wレストランの現地法人）の店舗ではメニューを[注文](https://ja.wikipedia.org/wiki/注文 "wikilink")している客は[無料](../Page/無料.md "wikilink")でルートビアを飲める。
 
 ## 歴史
 

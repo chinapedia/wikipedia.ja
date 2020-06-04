@@ -9,7 +9,7 @@
 
 「黒の教団」に所属するエクソシスト達。下記4名についての詳細はそれぞれの項目を参照。
 
-  - [アレン・ウォーカー](https://ja.wikipedia.org/wiki/アレン・ウォーカー "wikilink")（Allen Walker）\[1\]
+  - [アレン・ウォーカー](https://ja.wikipedia.org/wiki/アレン・ウォーカー "wikilink")（Allen Walker\[1\]）
     [声](../Page/声優.md "wikilink") - [小林沙苗](../Page/小林沙苗.md "wikilink") / [村瀬歩](https://ja.wikipedia.org/wiki/村瀬歩 "wikilink")
 
   - [リナリー・リー](https://ja.wikipedia.org/wiki/リナリー・リー "wikilink")（Lenalee Lee\<ref name="DG6.42"
@@ -19,7 +19,7 @@
   -
     声 - [伊藤静](../Page/伊藤静.md "wikilink") / [加隈亜衣](https://ja.wikipedia.org/wiki/加隈亜衣 "wikilink")
   - [神田ユウ](https://ja.wikipedia.org/wiki/神田ユウ "wikilink")（かんだ ユウ / Yu Kanda\[2\]）
-    声 - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink") / [佐藤拓也](https://ja.wikipedia.org/wiki/佐藤拓也_\(声優\) "wikilink")
+    声 - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink") / [佐藤拓也](https://ja.wikipedia.org/wiki/佐藤拓也_\(声優\) "wikilink")、[代永翼](../Page/代永翼.md "wikilink")（幼少期）
   - [ラビ](https://ja.wikipedia.org/wiki/ラビ_\(D.Gray-man\) "wikilink")（Lavi\[3\]）
     声 - [鈴村健一](../Page/鈴村健一.md "wikilink") / [花江夏樹](https://ja.wikipedia.org/wiki/花江夏樹 "wikilink")
   - ティムキャンピー（Timcanpy\[4\] / 英語版ではTimcanpi）

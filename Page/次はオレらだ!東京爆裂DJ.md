@@ -1,7 +1,7 @@
 > この記事は[次はオレらだ!東京爆裂DJ](https://ja.wikipedia.org/wiki/次はオレらだ!東京爆裂DJ)から翻訳されています。
 
 
-**次はオレらだ\!東京爆裂DJ**（つぎはオレらだ とうきょうばくれつディージェイ）は、[1996年](../Page/1996年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")まで、[TBSラジオをキー局に](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")[JRN系で毎週](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[土曜日](../Page/土曜日.md "wikilink")に放送された[深夜番組](../Page/深夜放送.md "wikilink")。
+**次はオレらだ\!東京爆裂DJ**（つぎはオレらだ とうきょうばくれつディージェイ）は、[1996年](../Page/1996年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")まで、[TBSラジオ](../Page/TBSラジオ.md "wikilink")をキー局に[JRN系で毎週](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[土曜日](../Page/土曜日.md "wikilink")に放送された[深夜番組](../Page/深夜放送.md "wikilink")。
 
 ## 概要
 
@@ -24,10 +24,10 @@
 
   - 土曜日 27:00 - 29:00（1996年4月13日－1997年4月5日）
       - [北海道放送](../Page/HBCラジオ.md "wikilink")
-      - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+      - [秋田放送](../Page/秋田放送.md "wikilink")
       - [ラジオ福島](../Page/ラジオ福島.md "wikilink")
       - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")
-      - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")
+      - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")
       - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")
       - [大分放送](../Page/大分放送.md "wikilink")
       - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

@@ -7,7 +7,7 @@
 
   - [立川 俊之](http://toshiyukitachikawa.com/) (T.T) Vocal,Guitar 元[大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")
 
-  - [田口耕郎](http://coro-freak.hp.infoseek.co.jp/coro.top.html)(Coro) Drums 元[CORVETTES](https://ja.wikipedia.org/wiki/CORVETTES "wikilink")、現在リーダーバンドであるザ・ヒットパレーズで四度目のメジャーデビュー。他アーティストのサポートとしても活躍
+  - [田口耕郎](https://web.archive.org/20060518021138/http://coro-freak.hp.infoseek.co.jp/coro.top.html)(Coro) Drums 元[CORVETTES](https://ja.wikipedia.org/wiki/CORVETTES "wikilink")、現在リーダーバンドであるザ・ヒットパレーズで四度目のメジャーデビュー。他アーティストのサポートとしても活躍
 
   - (Susumu) Guitar 元[TAX FREE](https://ja.wikipedia.org/wiki/TAX_FREE "wikilink")、現在[FAITH](https://ja.wikipedia.org/wiki/FAITH "wikilink")としても活躍
 

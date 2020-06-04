@@ -63,7 +63,7 @@
 
 ## 外部リンク
 
-  - [B'z DISCOGRAPHY 『WICKED BEAT』](http://bz-vermillion.com/disco/mini_02.html) ※楽曲の試聴が可能
+  - [B'z DISCOGRAPHY 『WICKED BEAT』](http://bz-vermillion.com/discography/mini_02.html) ※楽曲の試聴が可能
 
 [Category:B'zのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:B'zのミニ・アルバム "wikilink") [Category:1990年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1990年のミニ・アルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

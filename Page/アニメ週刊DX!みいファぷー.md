@@ -7,16 +7,18 @@
 
 [小学館](../Page/小学館.md "wikilink")の絵本雑誌や少女向け漫画雑誌の連載作品を基にした短編アニメ『[こっちむいてみい子](../Page/こっちむいて!みい子.md "wikilink")』『[ふしぎ魔法ファンファンファーマシィー](../Page/ふしぎ魔法ファンファンファーマシィー.md "wikilink")』『[ヘリタコぷーちゃん](../Page/ヘリタコぷーちゃん.md "wikilink")』を1本の枠でまとめたものである。作品間を繋ぐ進行役として、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")キャラの[ニャロメ](../Page/ニャロメ.md "wikilink")、[ケムンパス](https://ja.wikipedia.org/wiki/ケムンパス "wikilink")、[べし](https://ja.wikipedia.org/wiki/べし "wikilink")も登場させていた。
 
-3作品ともに[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")の制作で、担当[声優](../Page/声優.md "wikilink")も2作品または3作品全てを兼任している者が多かった。作品ジャンルはそれぞれ子供の日常を描いたもの、[ファンタジー](../Page/ファンタジー.md "wikilink")、[スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック "wikilink")[ギャグ](../Page/ギャグ.md "wikilink")とタイプが大きく異なっていた。3作品の放送順はある程度決まっていて、当初は『ぷーちゃん』→『みい子』→『ファーマシィ』の順で、後に『ファーマシィ』→『みい子』→『ぷーちゃん』の順に変更された。
+3作品ともに[東映動画](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")\[1\]の制作で、担当[声優](../Page/声優.md "wikilink")も2作品または3作品全てを兼任している者が多かった。作品ジャンルはそれぞれ子供の日常を描いたもの、[ファンタジー](../Page/ファンタジー.md "wikilink")、[スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック "wikilink")[ギャグ](../Page/ギャグ.md "wikilink")とタイプが大きく異なっていた。3作品の放送順はある程度決まっていて、当初は『ぷーちゃん』→『みい子』→『ファーマシィ』の順で、後に『ファーマシィ』→『みい子』→『ぷーちゃん』の順に変更された。
 
 放送期間中、3作品を通して登場するキーアイテムを基にストーリーを展開させる回や、『ふしぎ魔法ファンファンファーマシィー』のみを放送する回を設けたこともある。
+
+当時はまだ少なかった全編[デジタル彩色で制作されている](https://ja.wikipedia.org/wiki/デジタルアニメーション "wikilink")。
 
 ## 放送日時
 
 いずれも[日本標準時](../Page/日本標準時.md "wikilink")。
 
   - 土曜 18時30分 - 19時00分（[テレビ朝日](../Page/テレビ朝日.md "wikilink")など23局）
-  - 土曜 17時00分 - 17時30分（[朝日放送](../Page/朝日放送テレビ.md "wikilink")） - ローカルドラマ『[新・部長刑事アーバンポリス24](../Page/部長刑事.md "wikilink")』放送の影響で、本来は19時00分から放送の『[追跡\!金運王国](https://ja.wikipedia.org/wiki/追跡!金運王国 "wikilink")』→『[真相究明\!噂のファイル](https://ja.wikipedia.org/wiki/真相究明!噂のファイル "wikilink")』→『[あなたのフツーは大丈夫\!?激突ハッピーチェック](../Page/あなたのフツーは大丈夫!?激突ハッピーチェック.md "wikilink")』を30分繰り上げていたため\[1\]。
+  - 土曜 17時00分 - 17時30分（[朝日放送](../Page/朝日放送テレビ.md "wikilink")） - ローカルドラマ『[新・部長刑事アーバンポリス24](../Page/部長刑事.md "wikilink")』放送の影響で、本来は19時00分から放送の『[追跡\!金運王国](https://ja.wikipedia.org/wiki/追跡!金運王国 "wikilink")』→『[真相究明\!噂のファイル](https://ja.wikipedia.org/wiki/真相究明!噂のファイル "wikilink")』→『[あなたのフツーは大丈夫\!?激突ハッピーチェック](../Page/あなたのフツーは大丈夫!?激突ハッピーチェック.md "wikilink")』を30分繰り上げていたため\[2\]。
 
 ## スタッフ
 
@@ -39,12 +41,12 @@
   - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")
   - オンライン編集 - [TOVIC](../Page/東映ラボ・テック.md "wikilink")
   - プロデューサー - 上田めぐみ（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）、矢田晃一（[東映エージエンシー](../Page/東映エージエンシー.md "wikilink")）、[東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
-  - 制作 - テレビ朝日、東映エージエンシー、[東映](../Page/東映.md "wikilink")
+  - 制作 - テレビ朝日、東映エージエンシー、[東映](../Page/東映.md "wikilink")\[3\]
 
 ## 主題歌
 
   - オープニングテーマ「ウキウキパラダイス」
-    作詞 - [井上望](../Page/井上望.md "wikilink")、ペリー三世、[おおたか静流](../Page/おおたか静流.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - 林有三 / 歌 - [米良美一](../Page/米良美一.md "wikilink") → おおたか静流
+    作詞 - [井上望](../Page/井上望.md "wikilink")、ペリー三世、[おおたか静流](../Page/おおたか静流.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - 林有三 / 歌 - [米良美一](../Page/米良美一.md "wikilink")、おおたか静流（第6回 - 第9回）
   - エンディングテーマ「バナナチップス」
     作詞・作曲 - やまのなおこ / 編曲・歌 - [少年ナイフ](../Page/少年ナイフ.md "wikilink")
 
@@ -415,4 +417,6 @@
 
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日系アニメの放送枠](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメの放送枠 "wikilink") [Category:東映アニメーション](https://ja.wikipedia.org/wiki/Category:東映アニメーション "wikilink") [Category:赤塚不二夫](https://ja.wikipedia.org/wiki/Category:赤塚不二夫 "wikilink")
 
-1.  1998年当時の朝日放送公式サイト内にあった番組表からの参考。
+1.  放送期間中の1998年10月に称号を「東映アニメーション」に変更したが、本番組では最終回まで旧名義で表記され、後番組『[神風怪盗ジャンヌ](../Page/神風怪盗ジャンヌ.md "wikilink")』で表記変更を行った。
+2.  1998年当時の朝日放送公式サイト内にあった番組表からの参考。
+3.

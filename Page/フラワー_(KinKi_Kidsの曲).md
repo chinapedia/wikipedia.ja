@@ -20,7 +20,7 @@
         （作詞：[HΛL](../Page/HΛL.md "wikilink") / 作曲：HΛL・音妃 / 編曲：[船山基紀](../Page/船山基紀.md "wikilink") / コーラスアレンジ：[松下誠](../Page/松下誠.md "wikilink")）
         [堂本剛](../Page/堂本剛.md "wikilink")・[堂本光一](../Page/堂本光一.md "wikilink")出演の[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「'99パラダイス[沖縄](../Page/沖縄県.md "wikilink")」キャンペーンCMソング。
         同[CMと](../Page/コマーシャルメッセージ.md "wikilink")[PV撮影を兼ねて沖縄で行われている](../Page/ミュージック・ビデオ.md "wikilink")。
-        [横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の[下園辰哉](../Page/下園辰哉.md "wikilink")が打席に入る際の入場曲として使用している。
+        [横浜ベイスターズの](../Page/横浜DeNAベイスターズ.md "wikilink")[下園辰哉](../Page/下園辰哉.md "wikilink")が打席に入る際の入場曲として使用している。
         『[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")』にKinKi Kidsが特別出演した際に、[サビ](../Page/サビ.md "wikilink")のみではあったが、歌唱された。
         本作発売同時期に[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の楽曲も担当し、ヒットさせることとなる[HΛL](../Page/HΛL.md "wikilink")による作詞・曲。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](../Page/音楽番組.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』出演時には、光一が[サビ](../Page/サビ.md "wikilink")の[歌詞](../Page/歌詞.md "wikilink")を間違え、同番組の総集編で取り上げられたことがある。また、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[伊東家の食卓](../Page/伊東家の食卓.md "wikilink")』で、[ピアノ](../Page/ピアノ.md "wikilink")の[黒鍵](https://ja.wikipedia.org/wiki/黒鍵 "wikilink")だけで弾ける曲としても紹介されている。ちなみに黒鍵だけで弾けると言っても、実際は[キーが原曲より](../Page/調.md "wikilink")4つ高いものである。
         『KinKi KISS Single Selection』(DVD)に「フラワー remix ver.」が収録されているほか、[沖縄](../Page/沖縄諸島.md "wikilink")・[奄美地方の](https://ja.wikipedia.org/wiki/奄美諸島 "wikilink")[楽器](../Page/楽器.md "wikilink")・[三線](../Page/三線.md "wikilink")をフィーチャーした、[ラジオ番組](../Page/ラジオ番組.md "wikilink")のオンエア用に製作されたバージョン「フラワー～Remix Radio Edit～」も存在するが、こちらは現時点まで未作品化となっている\[2\]。

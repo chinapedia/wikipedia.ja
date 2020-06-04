@@ -194,7 +194,7 @@
 
   - [プロフィール](http://lasette.net/actors_sano.html#div02) - ラ・セッテ
 
-  - [\*pnish\* 佐野大樹オフィシャルブログ 今日もいっぱいいっぱい です。](http://ameblo.jp/pnish-sano/)
+  - [\*pnish\* 佐野大樹オフィシャルブログ 今日もいっぱいいっぱい です。](https://ameblo.jp/pnish-sano/)
 
   - [\*pnish\* OFFICIAL WEB SITE](http://www.pnish.jp/)
 

@@ -9,25 +9,44 @@
 
 ## 収録曲
 
-**DISC 1**
+**ディスク 1**
 
-1.  **[クレイジー・ダイアモンド](../Page/クレイジー・ダイアモンド.md "wikilink")** - *Shine On You Crazy Diamond*
-2.  **幻の翼** - *Learning To Fly*
-3.  **空虚なスクリーン** - *Yet Another Movie*
-4.  **輪転** - *Round And Around*
-5.  **時のない世界** - *Sorrow*
-6.  **戦争の犬たち** - *The Dogs Of War*
-7.  **現実との差異** - *On The Turning Away*
+1.  「[クレイジー・ダイアモンド](../Page/クレイジー・ダイアモンド.md "wikilink")」 - "Shine On You Crazy Diamond"
+2.  「幻の翼」 - "Learning To Fly"
+3.  「空虚なスクリーン」 - "Yet Another Movie"
+4.  「輪転」 - "Round And Around"
+5.  「時のない世界」 - "Sorrow"
+6.  「戦争の犬たち」 - "The Dogs Of War"
+7.  「現実との差異」 - "On The Turning Away"
 
-**DISC 2**
+**ディスク 2**
 
-1.  **[吹けよ風、呼べよ嵐](../Page/吹けよ風、呼べよ嵐.md "wikilink")** - *One Of These Days*
-2.  **タイム** - *Time*
-3.  **あなたがここにいてほしい** - *Wish You Were Here*
-4.  **アス・アンド・ゼム** - *Us And Them*
-5.  **[マネー](../Page/マネー_\(ピンク・フロイドの曲\).md "wikilink")** - *Money*
-6.  **[アナザー・ブリック・イン・ザ・ウォール](../Page/アナザー・ブリック・イン・ザ・ウォール.md "wikilink")(パート2)** - *Another Brick In The Wall - Part II*
-7.  **[コンフォタブリー・ナム](../Page/コンフォタブリー・ナム.md "wikilink")** - *Comfortably Numb*
-8.  **ラン・ライク・ヘル** - *Run Like hell*
+1.  「[吹けよ風、呼べよ嵐](../Page/吹けよ風、呼べよ嵐.md "wikilink")」 - "One Of These Days"
+2.  「タイム」 - "Time"
+3.  「あなたがここにいてほしい」 - "Wish You Were Here"
+4.  「アス・アンド・ゼム」 - "Us And Them"
+5.  「[マネー](../Page/マネー_\(ピンク・フロイドの曲\).md "wikilink")」 - "Money"
+6.  「[アナザー・ブリック・イン・ザ・ウォール (パート2)](../Page/アナザー・ブリック・イン・ザ・ウォール.md "wikilink")」 - "Another Brick In The Wall - Part II"
+7.  「[コンフォタブリー・ナム](../Page/コンフォタブリー・ナム.md "wikilink")」 - "Comfortably Numb"
+8.  「ラン・ライク・ヘル」 - "Run Like hell"
+
+## メンバー
+
+**ピンク・フロイド**
+
+  - [デヴィッド・ギルモア](../Page/デヴィッド・ギルモア.md "wikilink") (David Gilmour) - ギター、コンソール・スティール・ギター、リード・ボーカル
+  - [ニック・メイスン](../Page/ニック・メイスン.md "wikilink") (Nick Mason) - ドラム、パーカッション
+  - [リチャード・ライト](../Page/リチャード・ライト_\(音楽家\).md "wikilink") (Richard Wright) - キーボード、バック・ボーカル、「タイム」「コンフォタブリー・ナム」リード・ボーカル
+
+**参加ミュージシャン**
+
+  - ジョン・カーリン (Jon Carin) - キーボード、プログラミング、バック・ボーカル
+  - レイチェル・フューリー (Rachel Fury) - バック・ボーカル
+  - ドゥルガ・マクブルーム (Durga McBroom) - バック・ボーカル
+  - スコット・ペイジ (Scott Page) - サクソフォーン、ギター
+  - [ガイ・プラット](https://ja.wikipedia.org/wiki/ガイ・プラット "wikilink") (Guy Pratt) - ベース、バック・ボーカル、「アナザー・ブリック・イン・ザ・ウォール (パート2)」「ラン・ライク・ヘル」一部リード・ボーカル
+  - ティム・レンウィック (Tim Renwick) - ギター、バック・ボーカル
+  - マーガレット・テイラー (Margaret Taylor) - バック・ボーカル
+  - ゲイリー・ウォリス (Gary Wallis) - パーカッション、「コンフォタブリー・ナム」キーボード
 
 [Category:ピンク・フロイドのアルバム](https://ja.wikipedia.org/wiki/Category:ピンク・フロイドのアルバム "wikilink") [Category:1988年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:1988年のライブ・アルバム "wikilink")

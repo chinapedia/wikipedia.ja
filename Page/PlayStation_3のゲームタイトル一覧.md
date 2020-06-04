@@ -4168,7 +4168,7 @@ HDリマスター</p></td>
 | 02月27日 | [IS 〈インフィニット・ストラトス〉2 イグニッション・ハーツ](https://ja.wikipedia.org/wiki/IS_〈インフィニット・ストラトス〉 "wikilink")                              | 5pb.                                                                |                        |             |   | 限定版あり                   |
 | 02月27日 | \[\[魁                                                                                                                       | 男塾|魁                                                                | 男塾 〜日本よ、これが男である\!〜\]\] | バンダイナムコゲームス |   |                         |
 | 02月27日 | [戦極姫4 〜争覇百計、花守る誓い〜](https://ja.wikipedia.org/wiki/戦極姫4〜争覇百計、花守る誓い〜 "wikilink")                                              | システムソフト・アルファー                                                       |                        |             |   | 豪華限定版あり                 |
-| 02月27日 | [影牢 〜ダークサイド・プリンセス〜](https://ja.wikipedia.org/wiki/影牢_〜ダークサイド・プリンセス〜 "wikilink")                                             | コーエーテクモゲームス                                                         |                        |             |   | プレミアムBOXあり              |
+| 02月27日 | [影牢 〜ダークサイド・プリンセス〜](https://ja.wikipedia.org/wiki/影牢_〜ダークサイド_プリンセス〜 "wikilink")                                             | コーエーテクモゲームス                                                         |                        |             |   | プレミアムBOXあり              |
 | 03月06日 | [アルノサージュ〜生まれいずる星へ祈る詩〜](https://ja.wikipedia.org/wiki/アルノサージュ〜生まれいずる星へ祈る詩〜 "wikilink")                                       | ガスト                                                                 |                        |             |   |                         |
 | 03月13日 | [DARK SOULS II](https://ja.wikipedia.org/wiki/DARK_SOULS_II "wikilink")                                                     | フロム・ソフトウェア                                                          | ●                      |             |   |                         |
 | 03月19日 | [ジェイスターズ ビクトリーバーサス](https://ja.wikipedia.org/wiki/ジェイスターズ_ビクトリーバーサス "wikilink")                                             | バンダイナムコゲームス                                                         | ●                      |             |   |                         |
@@ -4910,44 +4910,345 @@ HDリマスター</p></td>
 
 ## 2016年（全36タイトル）
 
-| 発売日    | タイトル                                                                                                                    | 発売元                                                                         | オ | M | 3 | 備考    |
-| ------ | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | - | - | - | ----- |
-| 01月14日 | [オーディンスフィア レイヴスラシル](../Page/オーディンスフィア.md "wikilink")                                                                    | アトラス                                                                        |   |   |   |       |
-| 01月21日 | [バイオハザード0 HDリマスター](../Page/バイオハザード0.md "wikilink")                                                                      | カプコン                                                                        |   |   |   |       |
-| 01月21日 | [龍が如く 極](../Page/龍が如く.md "wikilink")                                                                                    | セガゲームス                                                                      |   |   |   |       |
-| 01月28日 | [ドラゴンクエストビルダーズ アレフガルドを復活せよ](https://ja.wikipedia.org/wiki/ドラゴンクエストビルダーズ_アレフガルドを復活せよ "wikilink")                         | スクウェア・エニックス                                                                 |   |   |   |       |
-| 01月28日 | [恋姫†演武](https://ja.wikipedia.org/wiki/真・恋姫†夢想_〜乙女対戦★三国志演義〜 "wikilink")                                                  | [イエティ](../Page/イエティ_\(ゲームブランド\).md "wikilink")                              |   |   |   |       |
-| 01月28日 | [三國志13](https://ja.wikipedia.org/wiki/三國志13 "wikilink")                                                                 | コーエーテクモゲームス                                                                 |   |   |   |       |
-| 01月28日 | TVアニメ アイドルマスター シンデレラガールズ G4U！パック VOL.8                                                                                  | バンダイナムコエンターテインメント                                                           |   |   |   |       |
-| 02月18日 | [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")                                                                 | コーエーテクモゲームス                                                                 |   |   |   |       |
-| 02月25日 | [仮面ライダー バトライド・ウォー 創生](https://ja.wikipedia.org/wiki/仮面ライダー_バトライド・ウォー "wikilink")                                        | バンダイナムコエンターテインメント                                                           |   |   |   |       |
-| 02月25日 | TVアニメ アイドルマスター シンデレラガールズ G4U！パック VOL.9                                                                                  | バンダイナムコエンターテインメント                                                           |   |   |   |       |
-| 03月24日 | [信長の野望・創造 戦国立志伝](https://ja.wikipedia.org/wiki/信長の野望・創造 "wikilink")                                                     | コーエーテクモゲームス                                                                 |   |   |   |       |
-| 03月31日 | [ウイニングポスト8 2016](https://ja.wikipedia.org/wiki/ウイニングポスト8_2016 "wikilink")                                               | コーエーテクモゲームス                                                                 |   |   |   |       |
-| 03月31日 | [この大空に、翼をひろげて CRUISE SIGN](https://ja.wikipedia.org/wiki/この大空に、翼をひろげて "wikilink")                                       | 5pb.                                                                        |   |   |   |       |
-| 04月21日 | [UEFA EURO 2016 / ウイニングイレブン 2016](https://ja.wikipedia.org/wiki/ウイニングイレブン_2016 "wikilink")                              | コナミデジタルエンタテインメント                                                            |   |   |   |       |
-| 04月28日 | [実況パワフルプロ野球2016](https://ja.wikipedia.org/wiki/実況パワフルプロ野球2016 "wikilink")                                               | コナミデジタルエンタテインメント                                                            |   |   |   |       |
-| 04月28日 | [スターオーシャン5 Integrity and Faithlessness](https://ja.wikipedia.org/wiki/スターオーシャン5_Integrity_and_Faithlessness "wikilink") | スクウェア・エニックス                                                                 |   |   |   | 限定版あり |
-| 04月28日 | [LEGO マーベル アベンジャーズ](https://ja.wikipedia.org/wiki/アベンジャーズ "wikilink")                                                   | ワーナー ブラザース ジャパン                                                             |   |   |   |       |
-| 05月26日 | [GUILTY GEAR Xrd -REVELATOR-](https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN- "wikilink")                          | アークシステムワークス                                                                 |   |   |   |       |
-| 05月27日 | [ドラゴンクエストヒーローズII 双子の王と予言の終わり](https://ja.wikipedia.org/wiki/ドラゴンクエストヒーローズII_双子の王と予言の終わり "wikilink")                     | スクウェア・エニックス                                                                 |   |   |   |       |
-| 06月30日 | [ウォーキング・デッド シーズン2](https://ja.wikipedia.org/wiki/ウォーキング・デッド "wikilink")                                                 | スクウェア・エニックス                                                                 |   |   |   |       |
-| 06月30日 | [スーパーロボット大戦OG ムーン・デュエラーズ](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ムーン・デュエラーズ "wikilink")                             | バンダイナムコエンターテインメント                                                           |   |   |   |       |
-| 07月07日 | [真 流行り神2](https://ja.wikipedia.org/wiki/真_流行り神2 "wikilink")                                                             | 日本一ソフトウェア                                                                   |   |   |   |       |
-| 07月21日 | [現代大戦略2016 〜秩序の崩壊・覇権国家失墜〜](https://ja.wikipedia.org/wiki/現代大戦略2016_〜秩序の崩壊・覇権国家失墜〜 "wikilink")                           | システムソフト・アルファー                                                               |   |   |   |       |
-| 07月28日 | [討鬼伝2](https://ja.wikipedia.org/wiki/討鬼伝2 "wikilink")                                                                   | コーエーテクモゲームス                                                                 |   |   |   | 限定版あり |
-| 08月03日 | [真・三國無双 英傑伝](https://ja.wikipedia.org/wiki/真・三國無双_英傑伝 "wikilink")                                                       | コーエーテクモゲームス                                                                 |   |   |   | 限定版あり |
-| 08月18日 | [テイルズ オブ ベルセリア](https://ja.wikipedia.org/wiki/テイルズ_オブ_ベルセリア "wikilink")                                                 | バンダイナムコエンターテインメント                                                           |   |   |   | 限定版あり |
-| 08月25日 | [戦国BASARA 真田幸村伝](../Page/戦国BASARA.md "wikilink")                                                                        | カプコン                                                                        |   |   |   | 限定版あり |
-| 09月15日 | [ウイニングイレブン 2017](https://ja.wikipedia.org/wiki/ウイニングイレブン_2017 "wikilink")                                               | コナミデジタルエンタテインメント                                                            |   |   |   |       |
-| 09月15日 | [ペルソナ5](https://ja.wikipedia.org/wiki/ペルソナ5 "wikilink")                                                                 | アトラス                                                                        |   |   |   | 限定版あり |
-| 09月21日 | [うたわれるもの 二人の白皇](https://ja.wikipedia.org/wiki/うたわれるもの_二人の白皇 "wikilink")                                                 | アクアプラス                                                                      |   |   |   | 限定版あり |
-| 09月29日 | [FIFA 17](https://ja.wikipedia.org/wiki/FIFA_17 "wikilink")                                                             | エレクトロニック・アーツ                                                                |   |   |   | 限定版あり |
-| 10月06日 | [BLAZBLUE CENTRALFICTION](../Page/BLAZBLUE.md "wikilink")                                                               | アークシステムワークス                                                                 |   |   |   | 限定版あり |
-| 10月13日 | [LEGO スター・ウォーズ/フォースの覚醒](https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒 "wikilink")                                      | ワーナー ブラザース ジャパン                                                             |   |   |   |       |
-| 10月20日 | [NBA 2K17](https://ja.wikipedia.org/wiki/NBA_2K17 "wikilink")                                                           | テイクツー・インタラクティブ・ジャパン                                                         |   |   |   |       |
-| 11月23日 | [戦国無双 〜真田丸〜](https://ja.wikipedia.org/wiki/戦国無双_〜真田丸〜 "wikilink")                                                       | コーエーテクモゲームス                                                                 |   |   |   | 限定版あり |
-| 12月15日 | [アドベンチャー・タイム ネームレス王国の3人のプリンセス](https://ja.wikipedia.org/wiki/アドベンチャー・タイム "wikilink")                                    | [バーグサラ・ライトウェイト](https://ja.wikipedia.org/wiki/ライトウェイト_\(ゲーム会社\) "wikilink") |   |   |   |       |
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売元</p></th>
+<th><p>オ</p></th>
+<th><p>M</p></th>
+<th><p>3</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>01月14日</p></td>
+<td><p><a href="../Page/オーディンスフィア.md" title="wikilink">オーディンスフィア レイヴスラシル</a></p></td>
+<td><p>アトラス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>01月21日</p></td>
+<td><p><a href="../Page/バイオハザード0.md" title="wikilink">バイオハザード0 HDリマスター</a></p></td>
+<td><p>カプコン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>01月21日</p></td>
+<td><p><a href="../Page/龍が如く.md" title="wikilink">龍が如く 極</a></p></td>
+<td><p>セガゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>01月28日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドラゴンクエストビルダーズ_アレフガルドを復活せよ" title="wikilink">ドラゴンクエストビルダーズ アレフガルドを復活せよ</a></p></td>
+<td><p>スクウェア・エニックス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>01月28日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/真・恋姫†夢想_〜乙女対戦★三国志演義〜" title="wikilink">恋姫†演武</a></p></td>
+<td><p><a href="../Page/イエティ_(ゲームブランド).md" title="wikilink">イエティ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>01月28日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三國志13" title="wikilink">三國志13</a></p></td>
+<td><p>コーエーテクモゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>01月28日</p></td>
+<td><p>TVアニメ アイドルマスター シンデレラガールズ G4U！パック VOL.8</p></td>
+<td><p>バンダイナムコエンターテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>02月18日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/進撃の巨人" title="wikilink">進撃の巨人</a></p></td>
+<td><p>コーエーテクモゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>02月25日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/仮面ライダー_バトライド・ウォー" title="wikilink">仮面ライダー バトライド・ウォー 創生</a></p></td>
+<td><p>バンダイナムコエンターテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>02月25日</p></td>
+<td><p>TVアニメ アイドルマスター シンデレラガールズ G4U！パック VOL.9</p></td>
+<td><p>バンダイナムコエンターテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>03月24日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/信長の野望・創造" title="wikilink">信長の野望・創造 戦国立志伝</a></p></td>
+<td><p>コーエーテクモゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>03月31日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングポスト8_2016" title="wikilink">ウイニングポスト8 2016</a></p></td>
+<td><p>コーエーテクモゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>03月31日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/この大空に、翼をひろげて" title="wikilink">この大空に、翼をひろげて CRUISE SIGN</a></p></td>
+<td><p>5pb.</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>04月21日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングイレブン_2016" title="wikilink">UEFA EURO 2016 / ウイニングイレブン 2016</a></p></td>
+<td><p>コナミデジタルエンタテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>04月28日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/実況パワフルプロ野球2016" title="wikilink">実況パワフルプロ野球2016</a></p></td>
+<td><p>コナミデジタルエンタテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>04月28日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スターオーシャン5_Integrity_and_Faithlessness" title="wikilink">スターオーシャン5 Integrity and Faithlessness</a></p></td>
+<td><p>スクウェア・エニックス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="odd">
+<td><p>04月28日</p></td>
+<td></td>
+<td><p>ワーナー ブラザース ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>05月26日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/GUILTY_GEAR_Xrd_-SIGN-" title="wikilink">GUILTY GEAR Xrd -REVELATOR-</a></p></td>
+<td><p>アークシステムワークス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>05月27日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドラゴンクエストヒーローズII_双子の王と予言の終わり" title="wikilink">ドラゴンクエストヒーローズII 双子の王と予言の終わり</a></p></td>
+<td><p>スクウェア・エニックス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>06月30日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウォーキング・デッド" title="wikilink">ウォーキング・デッド シーズン2</a></p></td>
+<td><p>スクウェア・エニックス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>06月30日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ムーン・デュエラーズ" title="wikilink">スーパーロボット大戦OG ムーン・デュエラーズ</a></p></td>
+<td><p>バンダイナムコエンターテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>07月07日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/真_流行り神2" title="wikilink">真 流行り神2</a></p></td>
+<td><p>日本一ソフトウェア</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>07月21日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/現代大戦略2016_〜秩序の崩壊・覇権国家失墜〜" title="wikilink">現代大戦略2016 〜秩序の崩壊・覇権国家失墜〜</a></p></td>
+<td><p>システムソフト・アルファー</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>07月28日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/討鬼伝2" title="wikilink">討鬼伝2</a></p></td>
+<td><p>コーエーテクモゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="odd">
+<td><p>08月03日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/真・三國無双_英傑伝" title="wikilink">真・三國無双 英傑伝</a></p></td>
+<td><p>コーエーテクモゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="even">
+<td><p>08月18日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_ベルセリア" title="wikilink">テイルズ オブ ベルセリア</a></p></td>
+<td><p>バンダイナムコエンターテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="odd">
+<td><p>08月25日</p></td>
+<td><p><a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA 真田幸村伝</a></p></td>
+<td><p>カプコン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="even">
+<td><p>09月15日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウイニングイレブン_2017" title="wikilink">ウイニングイレブン 2017</a></p></td>
+<td><p>コナミデジタルエンタテインメント</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>09月15日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ペルソナ5" title="wikilink">ペルソナ5</a></p></td>
+<td><p>アトラス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="even">
+<td><p>09月21日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/うたわれるもの_二人の白皇" title="wikilink">うたわれるもの 二人の白皇</a></p></td>
+<td><p>アクアプラス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="odd">
+<td><p>09月29日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FIFA_17" title="wikilink">FIFA 17</a></p></td>
+<td><p>エレクトロニック・アーツ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="even">
+<td><p>10月06日</p></td>
+<td><p><a href="../Page/BLAZBLUE.md" title="wikilink">BLAZBLUE CENTRALFICTION</a></p></td>
+<td><p>アークシステムワークス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月13日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒" title="wikilink">LEGO スター・ウォーズ/フォースの覚醒</a></p></td>
+<td><p>ワーナー ブラザース ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月20日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/NBA_2K17" title="wikilink">NBA 2K17</a></p></td>
+<td><p>テイクツー・インタラクティブ・ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月23日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/戦国無双_〜真田丸〜" title="wikilink">戦国無双 〜真田丸〜</a></p></td>
+<td><p>コーエーテクモゲームス</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>限定版あり</p></td>
+</tr>
+<tr class="even">
+<td><p>12月15日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アドベンチャー・タイム" title="wikilink">アドベンチャー・タイム ネームレス王国の3人のプリンセス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ライトウェイト_(ゲーム会社)" title="wikilink">バーグサラ・ライトウェイト</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 2017年（全5タイトル）
 

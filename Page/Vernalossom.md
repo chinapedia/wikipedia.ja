@@ -1751,25 +1751,33 @@ AKSは[レコードレーベル](../Page/レコードレーベル.md "wikilink")
   - 株式会社ヴィジュアルノーツ\[86\]
     2014年12月11日設立。
     代表取締役社長：原田潤一
-    映像コンテンツの企画・制作、テレビコマーシャルの企画・制作、グラフィックデザインの企画・制作、モーショングラフィックスの企画・制作、広告の企画・制作。
-    以上3社の本社所在地は、東京都千代田区外神田6-1-8 思い出ビル。
+    映像コンテンツの企画・制作、テレビコマーシャルの企画・制作、グラフィックデザインの企画・制作、モーショングラフィックスの企画・制作、広告の企画・制作。ジャズを中心としたカルチャーメディア「ARBAN」の運営\[87\]。ジャズ・フェスティバル「[モントルー・ジャズ・フェスティバル・ジャパン](https://ja.wikipedia.org/wiki/モントルー・ジャズ・フェスティバル・ジャパン "wikilink")」の企画制作\[88\]。トランペット奏者[三宅純](../Page/三宅純.md "wikilink")のマネジメント\[89\]。
+  - 株式会社シネボーイ\[90\]
+    1982年9月1日設立。
+    代表取締役社長：原田潤一
+    ゲーム・CM・遊技系などのCG映像制作全般。
+    以上4社の本社所在地は、東京都千代田区外神田6-1-8 思い出ビル。
+  - 株式会社グランドツアー\[91\]
+    1983年5月20日設立。
+    代表取締役社長：高野博幸
+    旅館・ホテル、国内・海外旅行手配業務、視察・招待・社員旅行などの海外・国内団体手配旅行、内外の航空、船舶、鉄道、軌道、バス、その他の運輸機関の貨客販売代理店業。企業イベント（社内イベント、表彰式など）の企画立案、運営業務。損害保険代理業。
   - 亨達娛樂有限公司
     台灣台北市信義區基隆路2段51號14樓
-  - AKB48（China）Holding Limited\[87\]
-    2016年4月26日、CICFH Holding Limitedの社名で設立。2016年11月10日、現社名に変更。[AKB48 Team SHの運営会社である](https://ja.wikipedia.org/wiki/AKB48_Team_SH "wikilink")\[88\]。
+  - AKB48（China）Holding Limited\[92\]
+    2016年4月26日、CICFH Holding Limitedの社名で設立。2016年11月10日、現社名に変更。[AKB48 Team SHの運営会社である](https://ja.wikipedia.org/wiki/AKB48_Team_SH "wikilink")\[93\]。
   - BNK48 Office
-    [BNK48](https://ja.wikipedia.org/wiki/BNK48 "wikilink")の運営会社およびレコード・レーベルであり、AKSとタイのローズ・アーティスト・マネジメントからなる合弁会社である\[89\]。
+    [BNK48](https://ja.wikipedia.org/wiki/BNK48 "wikilink")の運営会社およびレコード・レーベルであり、AKSとタイのローズ・アーティスト・マネジメントからなる合弁会社である\[94\]。
   -  (TPE48 Entertainment)
-    [TPE48の運営会社であり](https://ja.wikipedia.org/wiki/AKB48_Team_TP "wikilink")、AKSととの合弁会社である\[90\]。2018年7月にライセンス契約を解約した\[91\]。
+    [TPE48の運営会社であり](https://ja.wikipedia.org/wiki/AKB48_Team_TP "wikilink")、AKSととの合弁会社である\[95\]。2018年7月にライセンス契約を解約した\[96\]。
   - YAG Entertainment
-    [SGO48](https://ja.wikipedia.org/wiki/SGO48 "wikilink")の運営会社であり、AKSとジオブレイン（東京）、Yeah1 Group（ベトナム・ホーチミン）による合弁会社である\[92\]。「YAG」は、3社のイニシャルをつなげたものである\[93\]。
-    所在地は、Unit 101 - Mplaza 39 Le Duan Street, Ben Nghe Ward, District 1, Ho Chi Minh City \[94\]。
+    [SGO48](https://ja.wikipedia.org/wiki/SGO48 "wikilink")の運営会社であり、AKSとジオブレイン（東京）、Yeah1 Group（ベトナム・ホーチミン）による合弁会社である\[97\]。「YAG」は、3社のイニシャルをつなげたものである\[98\]。
+    所在地は、Unit 101 - Mplaza 39 Le Duan Street, Ben Nghe Ward, District 1, Ho Chi Minh City \[99\]。
   - 阿克斯娯樂有限公司
-    [AKB48 Team TPの運営として発表された合弁会社](https://ja.wikipedia.org/wiki/AKB48_Team_TP "wikilink")\[95\]。
+    [AKB48 Team TPの運営として発表された合弁会社](https://ja.wikipedia.org/wiki/AKB48_Team_TP "wikilink")\[100\]。
   - 株式会社ゼスト
-    2019年1月17日設立のSKE48新運営会社\[96\]\[97\]。同年7月1日に株式会社SKEから社名変更\[98\]。
+    2019年1月17日設立のSKE48新運営会社\[101\]\[102\]。同年7月1日に株式会社SKEから社名変更\[103\]。
     代表取締役社長：赤塚善洋
-    [株式会社KeyHolderの子会社で](../Page/KeyHolder.md "wikilink")、AKSが株式の20%を保有\[99\]。
+    [株式会社KeyHolderの子会社で](../Page/KeyHolder.md "wikilink")、AKSが株式の20%を保有\[104\]。
 
 ## 関連番組
 
@@ -1825,7 +1833,7 @@ AKSは[レコードレーベル](../Page/レコードレーベル.md "wikilink")
   - [株式会社集英社](../Page/集英社.md "wikilink")
   - [合同会社DMM.com](../Page/DMM.com.md "wikilink")
 
-ほか\[100\]\[101\]\[102\]\[103\]
+ほか\[105\]\[106\]\[107\]\[108\]
 
 ## 脚注
 
@@ -1917,20 +1925,20 @@ AKSは[レコードレーベル](../Page/レコードレーベル.md "wikilink")
 76.
 77.
 78.
-79. [ケーアールケープロデュース株式会社 KRKとは](https://krkproduce.co.jp/whats_krk/)
+79. [KRKとは](https://krkproduce.co.jp/whats_krk/). ケーアールケープロデュース公式サイト
 80.
 81.
-82. [株式会社ノース・リバー公式サイト 会社概要](http://www.northriver.co.jp/company/)
-83. [株式会社オサレカンパニー公式サイト COMPANY](https://www.osarecompany.com/company.html)
+82. [会社概要](http://www.northriver.co.jp/company/). ノース・リバー公式サイト
+83. [COMPANY](https://www.osarecompany.com/company.html). オサレカンパニー公式サイト
 84.
 85. 2013年4月3日発売、[高橋みなみ](https://ja.wikipedia.org/wiki/高橋みなみ "wikilink")デビューシングル「[Jane Doe](https://ja.wikipedia.org/wiki/Jane_Doe "wikilink")」のジャケット内スタッフ一覧より所属が変更されている。
-86. [株式会社ヴィジュアルノーツ公式サイト Corporate Profile](https://visualnotes.co.jp/company/)
-87. [AKB48（China）Holding Limited](https://hkdir.co/co/akb48-china-holding-limited) Hong Kong Company Directory, 2017年4月27日閲覧。
+86. [Corporate Profile](https://visualnotes.co.jp/company/). ヴィジュアルノーツ公式サイト
+87.
 88.
 89.
-90.
-91.
-92.
+90. [PROFILE](http://cine-boy.com/profile/). CINEBOY
+91. [会社概要](http://e-grandtr.com/company_profile.html). グランドツアー公式サイト
+92. [AKB48（China）Holding Limited](https://hkdir.co/co/akb48-china-holding-limited) Hong Kong Company Directory, 2017年4月27日閲覧。
 93.
 94.
 95.
@@ -1942,3 +1950,8 @@ AKSは[レコードレーベル](../Page/レコードレーベル.md "wikilink")
 101.
 102.
 103.
+104.
+105.
+106.
+107.
+108.

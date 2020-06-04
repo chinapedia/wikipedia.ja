@@ -6,7 +6,7 @@
 ## 解説
 
   - 現時点でTRFで最も売れたシングルである (158.7万枚・[オリコン調べ](../Page/オリコンチャート.md "wikilink"))。
-  - 3ヶ月連続リリースの第1弾となった曲である。
+  - 3か月連続リリースの第1弾となった曲である。
   - サビの終わりの部分で、次回作「masquerade」のメロディーが入ってくる箇所がある。
   - [関西テレビ制作](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[我慢できない\!](../Page/我慢できない!.md "wikilink")』 主題歌に採用された。
   - 作曲者の小室哲哉は「製作段階では[ジャングル風の曲調にする予定だった](../Page/ジャングル_\(音楽\).md "wikilink")」と語っている。
@@ -68,7 +68,6 @@
 
   - ミュージック・ビデオ
       -
-
 [Category:TRFの楽曲](https://ja.wikipedia.org/wiki/Category:TRFの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:1995年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:フジテレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビドラマ主題歌 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
 
 1.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1996年2月号77Pより。

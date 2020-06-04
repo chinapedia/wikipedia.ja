@@ -112,7 +112,7 @@
 <td><p>18</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ1999-2000" title="wikilink">1999-2000</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ1999-2000" title="wikilink">1999-00</a></p></td>
 <td><p>FAプレミアリーグ</p></td>
 <td><p>38</p></td>
 <td><p>8</p></td>

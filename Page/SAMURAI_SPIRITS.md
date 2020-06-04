@@ -5,7 +5,7 @@
 
 『[サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink")』シリーズの第一作目。1788年を舞台に、己の信念の元に闘いに興じる者たちが、徳川幕府によって命を断たれた天草四郎時貞が復活し世界を破滅に導くのを阻止する事を目的としている。それまでの対戦型格闘ゲームとは異なり、登場キャラクター全てが武器を有している点や残虐描写による演出などを特徴としている。
 
-開発はSNKが行い、プロデューサーは[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト『ファニーフィールド』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）を手掛けた冨田聖司、音楽はアーケードゲーム『[戦国伝承2](../Page/戦国伝承2.md "wikilink")』（1993年）を手掛けた山手安生およびアーケードゲーム『[餓狼伝説2](../Page/餓狼伝説2.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）を手掛けた幡谷正彦、キャラクター・デザインは[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用ソフト『窓ふき会社のスイングくん』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）を手掛けた新谷憲司、アーケードゲーム『[ASOII](https://ja.wikipedia.org/wiki/ASOII "wikilink")』（[1991年](../Page/1991年.md "wikilink")）を手掛けた山口景泉などが担当している。
+開発も同社が行い、プロデューサーは[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト『ファニーフィールド』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）を手掛けた冨田聖司、音楽はアーケードゲーム『[戦国伝承2](../Page/戦国伝承2.md "wikilink")』（1993年）を手掛けた山手安生およびアーケードゲーム『[餓狼伝説2](../Page/餓狼伝説2.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）を手掛けた幡谷正彦、キャラクター・デザインは[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用ソフト『窓ふき会社のスイングくん』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）を手掛けた新谷憲司、アーケードゲーム『[ASOII](https://ja.wikipedia.org/wiki/ASOII "wikilink")』（[1991年](../Page/1991年.md "wikilink")）を手掛けた山口景泉などが担当している。
 
 同年に[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")に移植された他、[1994年](../Page/1994年.md "wikilink")には『**熱闘サムライスピリッツ**』のタイトルでゲームボーイに移植されたのを皮切りに、[ネオジオCD](../Page/ネオジオCD.md "wikilink")、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")、[メガドライブ](../Page/メガドライブ.md "wikilink")、[ゲームギア](../Page/ゲームギア.md "wikilink")など様々な機種に移植、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[3DO](../Page/3DO.md "wikilink")、[FM TOWNSの他に欧米のみで](../Page/FM_TOWNS.md "wikilink")[メガCD](../Page/メガCD.md "wikilink")に移植された。ネオジオ版は[2007年](../Page/2007年.md "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された他、[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『**サムライスピリッツ 剣客指南パック**』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）や[PlayStation 2およびWii用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**サムライスピリッツ 六番勝負**』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）、[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**SNK ARCADE CLASSICS Vol.1**』（[2009年](../Page/2009年.md "wikilink")）などのオムニバスソフトに収録された。アーケード版は[アケアカNEOGEOにて](https://ja.wikipedia.org/wiki/アーケードアーカイブス "wikilink")[2016年](../Page/2016年.md "wikilink")に[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[2017年](../Page/2017年.md "wikilink")に[Xbox Oneおよび](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")[Nintendo Switch用ソフトとして配信された](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。
 
@@ -21,7 +21,7 @@
 
 「アーケードモード」では上記のプレアブルキャラクター12人（[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版では使用可能なキャラクターが増えている）から一人を選択し、世界各地を廻りながらランダムに12人全員のキャラクターと対戦していく。全キャラクターと対戦することになるので、同キャラクター対決が必ずある。全てのプレイアブルキャラクターを倒すと[最終ボスの天草四郎時貞が登場し](https://ja.wikipedia.org/wiki/ラストボス "wikilink")、対決することになる。天草四郎時貞に勝利すれば、個別のエンディングへと繋がる。
 
-アーケードで出た無印オリジナルでは負けた側は血飛沫を舞わせたり胴体が切断されたり（不知火幻庵、タムタム、千両狂死郎は除く）と、残虐描写が激しかったが、後の一部の移植作品ではこの演出はカットされている。
+アーケードで出た無印オリジナルでは負けた側は血飛沫を舞わせたり胴体が切断されたり（不知火幻庵、タムタム、千両狂死郎は胴体切断がない）と、残虐描写が激しかったが、後の一部の移植作品ではこの演出はカットされている。
 
 格闘ゲーム初期の作品らしく「ボーナスステージ」が用意されている。以降のシリーズでは「ボーナスステージ」は取り入れられていない。
 
@@ -115,7 +115,7 @@
 
   - [天草四郎時貞](../Page/天草四郎時貞_\(サムライスピリッツ\).md "wikilink")
     声 - 矢野栄路
-    最終ボスキャラクター。アンブロジァに魂が魔界から呼び出され、半蔵の息子である真蔵の肉体を乗っ取った。武器のガダマーの宝珠（盗んだパレンケストーン）で戦う。一撃の攻撃力が高く、機動力も優れ瞬時に移動出来る。アーケード版とネオジオ版ではCPU専用だが、一部の家庭用のみプレイアブルキャラクターとして使用可能。
+    最終ボスキャラクター。アンブロジァに魂が魔界から呼び出され、半蔵の息子である真蔵の肉体を乗っ取った。武器のガダマーの宝珠（盗んだパレンケストーン）で戦う。MVS/ネオジオ版では唯一刃物ではない武器だが、一撃の攻撃力が高く、機動力も優れ瞬時に移動出来る。アーケード版とネオジオ版ではCPU専用だが、一部の家庭用のみプレイアブルキャラクターとして使用可能。
 
 ### ゲームボーイ版の隠しキャラクター
 
@@ -429,15 +429,18 @@ SNK ARCADE CLASSICS Vol.1</p></td>
     アーケード版の完全移植。天草は使用不可。
   - ゲームボーイ版
     タカラの「[熱闘シリーズ](https://ja.wikipedia.org/wiki/熱闘シリーズ "wikilink")」の1つとして発売。ボタンも2つしかないため、斬りがB、蹴りがA、強斬りがA+B同時押しとなっている。オリジナルのオープニングデモなどが追加され、隠しキャラクターとして天草のほか、本来プレイヤーキャラクターではない「黒子」と「飛脚」も参戦する。飛脚が参戦したのは現時点でこの作品のみ。黒子は次作にて正式に参戦するが、GB版での必殺技は次作とは異なるオリジナルのものである。
+    なお、アイテムは飛脚が投げてくるのではなく、いきなり画面上から落ちてくる仕様になっている。
+    覇王丸・右京・十兵衛・半蔵・幻庵のステージ、およびボーナスステージの曲が原作から大きく変えられている。さらに、勝利メッセージ画面ではコンティニューのBGMに差し替えられている。
   - ネオジオCD版
     裏技で天草が使用可能。
   - スーパーファミコン版
     32メガROMを採用するも容量の都合上によりNG版の売りだった拡大縮小は無く、キャラクターが小さいままではあるが全キャラ登場している\[16\]。裏技で天草が使用可能。
+    血飛沫や胴体切断が削除。なお、この場面では何故か独自のBGMが流れる。
   - メガドライブ版
     開発はザウルスが担当し、[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")。SFC版同様に拡大縮小は無いもののキャラクターサイズは大きいままなので迫力はある。その代わり、間合いを広く取れないので若干バランスが変わった他、SFC版よりも容量の少ない24メガROMを採用したため、覇王丸の代名詞である「斬鉄閃」（遠距離立ち大斬り）など幾つかの技モーションが削除・差し替えられている。またアースクェイクが削除されており、代わりに天草がデフォルトで使用可能になり、対戦では5対5のチームバトルが追加され、SFC版では再現されなかった真赤な血飛沫や真っ二つも再現されている。
     尚、日本では発売中止になったが、欧米では1995年に[ビクターエンタテインメントより](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[メガCD](../Page/メガCD.md "wikilink")版が発売。本作でも拡大縮小は再現されず、アースクェイクは登場しないが、削除された技・勝利デモは復活している。
   - ゲームギア版
-    アースクェイク・王虎・タムタムの3名と、対戦モード、エンディングが削除された。裏技で天草が使用可能。
+    アースクェイク・王虎・タムタムの3名と、ボーナスステージ、対戦モード、エンディングが削除された。裏技で天草が使用可能。
   - 3DO
     日本国外版のタイトルで移植。ゲーム中は日本語表記になっている。
   - PlayStation版
@@ -547,7 +550,7 @@ SNK ARCADE CLASSICS Vol.1</p></td>
 
   - （英語）
 
-[Category:1993年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1993年のアーケードゲーム "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:PlayStation_Now対応ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Now対応ソフト "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:アーケードアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:アーケードアーカイブス対応ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:サムライスピリッツ](https://ja.wikipedia.org/wiki/Category:サムライスピリッツ "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:ネオジオ用ソフト](https://ja.wikipedia.org/wiki/Category:ネオジオ用ソフト "wikilink") [Category:ビクターエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのゲームソフト "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
+[Category:サムライスピリッツ](https://ja.wikipedia.org/wiki/Category:サムライスピリッツ "wikilink") [Category:1993年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1993年のアーケードゲーム "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:PlayStation_Now対応ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Now対応ソフト "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:アーケードアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:アーケードアーカイブス対応ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:ネオジオ用ソフト](https://ja.wikipedia.org/wiki/Category:ネオジオ用ソフト "wikilink") [Category:ビクターエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのゲームソフト "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  同じSNK作品である『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』シリーズの[不知火舞](../Page/不知火舞.md "wikilink")の一族とは無関係。
 2.

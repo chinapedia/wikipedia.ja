@@ -88,7 +88,7 @@
 
 ## 外部リンク
 
-  - [OUT★PUT](http://www.tv-tokyo.co.jp/output/) - テレビ東京
+  - [OUT★PUT](https://www.tv-tokyo.co.jp/output/) - テレビ東京
 
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:イースト](https://ja.wikipedia.org/wiki/Category:イースト "wikilink") [Category:オーディション番組](https://ja.wikipedia.org/wiki/Category:オーディション番組 "wikilink")
 

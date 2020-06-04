@@ -160,7 +160,7 @@
 
   - [TBSラジオの公式ホームページ](http://www.tbsradio.jp/)
 
-[Category:TBSラジオ](https://ja.wikipedia.org/wiki/Category:TBSラジオ "wikilink") [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink") [Category:TBSラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの番組の歴史 "wikilink") [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink")
+[Category:TBSラジオ](https://ja.wikipedia.org/wiki/Category:TBSラジオ "wikilink") [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink") [Category:TBSラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの番組の歴史 "wikilink") [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink") [Category:ポッドキャスティング](https://ja.wikipedia.org/wiki/Category:ポッドキャスティング "wikilink")
 
 1.  [TBS RADIO podcasting954 お知らせ](http://www.tbsradio.jp/info.html)
 2.  [3時台コラム 2010年12月02日](http://www.tbsradio.jp/kirakira/2010/12/20101202-2.html)

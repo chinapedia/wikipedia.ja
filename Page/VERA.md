@@ -27,7 +27,7 @@ VERAプロジェクトとは、相対VLBIの手法を用いて、[銀河系](../
 
   - 光結合VLBIプロジェクト
 
-[北海道大学](../Page/北海道大学.md "wikilink")苫小牧局、[情報通信研究機構](../Page/情報通信研究機構.md "wikilink")鹿島局、[国土地理院](../Page/国土地理院.md "wikilink")筑波局、[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")[臼田局](../Page/臼田宇宙空間観測所.md "wikilink")、[岐阜大学](../Page/岐阜大学.md "wikilink")岐阜局、[山口大学](../Page/山口大学.md "wikilink")山口局（[KDDI山口衛星通信センター](../Page/KDDI山口衛星通信センター.md "wikilink")）を光ファイバで結び、VLBIとして運用する。
+[北海道大学](../Page/北海道大学.md "wikilink")苫小牧局、[情報通信研究機構](../Page/情報通信研究機構.md "wikilink")鹿島局、[国土地理院](../Page/国土地理院.md "wikilink")筑波局、[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")[臼田局](../Page/臼田宇宙空間観測所.md "wikilink")、[岐阜大学](../Page/岐阜大学.md "wikilink")岐阜局、[山口大学](../Page/山口大学.md "wikilink")山口局（[KDDI山口衛星通信センター](../Page/KDDI山口衛星通信センター.md "wikilink")）を光ファイバで結び、VLBIとして運用する。
 
   - スペースVLBI計画([はるか](../Page/はるか_\(人工衛星\).md "wikilink")、[ASTRO-G](../Page/ASTRO-G.md "wikilink"))とVERA計画との関係
 
@@ -49,7 +49,7 @@ VERAプロジェクトとは、相対VLBIの手法を用いて、[銀河系](../
 #### 観測計画共同実施機関
 
   - [情報通信研究機構](../Page/情報通信研究機構.md "wikilink")
-  - [宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")
+  - [宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")
       - [宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")
       - [臼田宇宙空間観測所](../Page/臼田宇宙空間観測所.md "wikilink")
   - [国土地理院](../Page/国土地理院.md "wikilink")

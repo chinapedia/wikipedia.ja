@@ -214,6 +214,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/向井康二" title="wikilink">向井康二</a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p>2020年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西畑大吾" title="wikilink">西畑大吾</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/浮所飛貴" title="wikilink">浮所飛貴</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -293,6 +300,8 @@
   - [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")
   - [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")
   - [King\&Prince](https://ja.wikipedia.org/wiki/King&Prince "wikilink")
+  - [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")
+  - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")
   - [関西ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
   - [中川大志](https://ja.wikipedia.org/wiki/中川大志_\(俳優\) "wikilink")
   - [佐野岳](https://ja.wikipedia.org/wiki/佐野岳 "wikilink")

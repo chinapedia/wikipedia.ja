@@ -388,7 +388,7 @@ CSの[キッズステーション](../Page/キッズステーション.md "wikil
 
 ## 外部リンク
 
-  - [The World of GOLDEN EGGS](http://www.theworldofgoldeneggs.com/) - 公式サイト
+  -
   - [The World of GOLDEN EGGS](http://www.mxtv.co.jp/goldeneggs/) - TOKYO MX内サイト
 
 [Category:アニメ作品_さ](https://ja.wikipedia.org/wiki/Category:アニメ作品_さ "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:実写とアニメーションが混在した作品](https://ja.wikipedia.org/wiki/Category:実写とアニメーションが混在した作品 "wikilink")

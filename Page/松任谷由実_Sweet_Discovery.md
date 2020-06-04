@@ -1,7 +1,7 @@
 > この記事は[松任谷由実 Sweet Discovery](https://ja.wikipedia.org/wiki/松任谷由実_Sweet_Discovery)から翻訳されています。
 
 
-『**松任谷由実 Sweet Discovery**』（まつとうやゆみ スィート ディスカバリー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")、[FMぐんまを除く](../Page/エフエム群馬.md "wikilink")[JFN系列の全国](../Page/全国FM放送協議会.md "wikilink")37局をネットして放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは[松任谷由実](../Page/松任谷由実.md "wikilink")。番組の前身は1982年6月に放送開始の「[AIWA](https://ja.wikipedia.org/wiki/アイワ "wikilink")[サタデーアドベンチャー](https://ja.wikipedia.org/wiki/サタデーアドベンチャー "wikilink")」（その後日曜17時に移動し「[サウンドアドベンチャー](https://ja.wikipedia.org/wiki/松任谷由実_サウンドアドベンチャー "wikilink")」に改題）。
+『**松任谷由実 Sweet Discovery**』（まつとうやゆみ スィート ディスカバリー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](../Page/キー局.md "wikilink")、[FMぐんまを除く](../Page/エフエム群馬.md "wikilink")[JFN系列の全国](../Page/全国FM放送協議会.md "wikilink")37局をネットして放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは[松任谷由実](../Page/松任谷由実.md "wikilink")。番組の前身は1982年6月に放送開始の「[AIWA](https://ja.wikipedia.org/wiki/アイワ "wikilink")[サタデーアドベンチャー](https://ja.wikipedia.org/wiki/サタデーアドベンチャー "wikilink")」（その後日曜17時に移動し「[サウンドアドベンチャー](https://ja.wikipedia.org/wiki/松任谷由実_サウンドアドベンチャー "wikilink")」に改題）。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[FileMaker](https://ja.wikipedia.org/wiki/FileMaker)から翻訳されています。
 
 
-**FileMaker**（ファイルメーカー）は、[クラリス社](../Page/クラリス_\(企業\).md "wikilink")（旧ファイルメーカー社）が開発しているクロスプラットフォームの[データベース](../Page/データベース.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。最新版は**18**。
+**FileMaker**（ファイルメーカー）は、[クラリス社](../Page/クラリス_\(企業\).md "wikilink")（旧ファイルメーカー社）が開発しているクロスプラットフォームの[データベース](../Page/データベース.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。最新版は**19**。
 
 当初は[カード型であったが](https://ja.wikipedia.org/wiki/カード型データモデル "wikilink")、バージョンアップ毎に様々な機能を追加してきた。
 

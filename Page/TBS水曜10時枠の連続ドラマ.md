@@ -1,11 +1,11 @@
 > この記事は[TBS水曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/TBS水曜10時枠の連続ドラマ)から翻訳されています。
 
 
-**TBS水曜10時枠の連続ドラマ**は、1974年10月～1984年9月・2001年4月～2004年3月にかけて、[TBS](../Page/TBSテレビ.md "wikilink")[系列で毎週](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[水曜日](../Page/水曜日.md "wikilink")の22:00～22:54（1982年9月までは22:00-22:55）に[放送](../Page/放送.md "wikilink")されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[枠](https://ja.wikipedia.org/wiki/枠 "wikilink")である。[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")は1975年4月～1984年9月が[準キー局](../Page/準キー局.md "wikilink")の[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")(MBS)で、1974年10月～1975年3月と2001年4月～2004年3月がTBSテレビ(TBS)。
+**TBS水曜10時枠の連続ドラマ**は、1974年10月～1984年9月・2001年4月～2004年3月にかけて、[TBS](../Page/TBSテレビ.md "wikilink")[系列で毎週](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[水曜日](../Page/水曜日.md "wikilink")の22:00～22:54（1982年9月までは22:00-22:55）に[放送](../Page/放送.md "wikilink")されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[枠](https://ja.wikipedia.org/wiki/枠 "wikilink")である。[制作](https://ja.wikipedia.org/wiki/制作 "wikilink")は1975年4月～1984年9月が[準キー局](../Page/準キー局.md "wikilink")の[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）で、1974年10月～1975年3月と2001年4月～2004年3月がTBSテレビ（TBS）。
 
 ## 概要
 
-1973年10月、当時の[水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")（『[時間ですよ](../Page/時間ですよ.md "wikilink")』などのシリーズが放送されていた）が放送時間を30分繰り上げて21時からのスタートとしたため、火曜日に放送されていた30分ドラマシリーズ『[木下恵介アワー](https://ja.wikipedia.org/wiki/木下恵介アワー "wikilink")』がこの時間帯に移動、その1年後に22:30のトーク番組『[仁鶴・きよしのただいま恋愛中](../Page/仁鶴・きよしのただいま恋愛中.md "wikilink")』（[朝日放送制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）が[関西ローカル](../Page/関西ローカル.md "wikilink")に降格されたのに伴いこの枠が誕生した。放送開始から半年間はTBS制作枠だったが、1975年4月の東阪[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")（腸捻転解消）により、それまで[NET（現：テレビ朝日）火曜](../Page/テレビ朝日.md "wikilink")22時枠で放送された『[テレビスター劇場](https://ja.wikipedia.org/wiki/テレビスター劇場 "wikilink")』を引き継ぐ形でMBS制作枠に変更された。1984年9月に放送終了後、16年半後の2001年4月にTBS制作枠（TBS制作の連続ドラマ枠としては26年ぶり、腸捻転解消後は初）として復活したが、3年後の2004年3月に廃枠となった。
+1973年10月、当時の[水曜劇場](../Page/水曜劇場_\(TBS\).md "wikilink")（『[時間ですよ](../Page/時間ですよ.md "wikilink")』などのシリーズが放送されていた）が放送時間を30分繰り上げて21時からのスタートとしたため、火曜日に放送されていた30分ドラマシリーズ『[木下恵介アワー](https://ja.wikipedia.org/wiki/木下恵介アワー "wikilink")』がこの時間帯に移動、その1年後に22:30のトーク番組『[仁鶴・きよしのただいま恋愛中](../Page/仁鶴・きよしのただいま恋愛中.md "wikilink")』（[朝日放送制作](../Page/朝日放送テレビ.md "wikilink")）が[関西ローカル](../Page/関西ローカル.md "wikilink")に降格されたのに伴いこの枠が誕生した。放送開始から半年間はTBS制作枠だったが、1975年4月の東阪[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")（腸捻転解消）により、それまで[NET（現：テレビ朝日）火曜](../Page/テレビ朝日.md "wikilink")22時枠で放送された『[テレビスター劇場](https://ja.wikipedia.org/wiki/テレビスター劇場 "wikilink")』を引き継ぐ形でMBS制作枠に変更された。1984年9月に放送終了後、16年半後の2001年4月にTBS制作枠（TBS制作の連続ドラマ枠としては26年ぶり、腸捻転解消後は初）として復活したが、3年後の2004年3月に廃枠となった。
 
 その後、『[水曜プレミア](../Page/水曜プレミア.md "wikilink")』（第1期、2004年4月～2005年9月）を経て、2005年10月から21年ぶりに再びMBS制作枠（但し、ドラマ枠ではなくバラエティ枠）を経て、2012年4月より映画枠復活で『[水曜プレミアシネマ](https://ja.wikipedia.org/wiki/水曜プレミアシネマ "wikilink")』→『水曜プレミア』（第2期）となり、2014年4月23日からはTBS制作のバラエティ番組『[水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")』となって現在に至る。
 
@@ -121,7 +121,7 @@
 
 **2004年**
 
-  - **[それは、突然、嵐のように…](../Page/それは、突然、嵐のように….md "wikilink")**（1月～3月）出演：[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")。当時は[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")）、[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")、[綾瀬はるか](https://ja.wikipedia.org/wiki/綾瀬はるか "wikilink")、[白川由美](../Page/白川由美.md "wikilink")、[竜雷太](../Page/竜雷太.md "wikilink")
+  - **[それは、突然、嵐のように…](../Page/それは、突然、嵐のように….md "wikilink")**（1月～3月）出演：[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")、[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")）、[柳葉敏郎](../Page/柳葉敏郎.md "wikilink")、[綾瀬はるか](https://ja.wikipedia.org/wiki/綾瀬はるか "wikilink")、[白川由美](../Page/白川由美.md "wikilink")、[竜雷太](../Page/竜雷太.md "wikilink")
 
 ## 備考
 
@@ -145,4 +145,4 @@
 
 <references/>
 
-[Category:TBS水曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS水曜10時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")
+[Category:TBS水曜10時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS水曜10時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink")

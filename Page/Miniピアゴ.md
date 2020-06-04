@@ -1,7 +1,7 @@
 > この記事は[Miniピアゴ](https://ja.wikipedia.org/wiki/Miniピアゴ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Minipiago.shiratori3tyoume.JPG "wikilink") **miniピアゴ**（ミニピアゴ）は、株式会社[99イチバが運営するミニ](https://ja.wikipedia.org/wiki/#株式会社99イチバ "wikilink")[スーパー](../Page/スーパーマーケット.md "wikilink")（[生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")）である。旧店名は**99イチバ**、のちに**みんなのイチバ**であった。 {{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Minipiago.shiratori3tyoume.JPG "wikilink") **miniピアゴ**（ミニピアゴ）は、株式会社[99イチバが運営するミニ](https://ja.wikipedia.org/wiki/#株式会社99イチバ "wikilink")[スーパー](../Page/スーパーマーケット.md "wikilink")（[生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")）である。現在は[G-7ホールディングス](../Page/G-7ホールディングス.md "wikilink")系列。創業時の店名は**99イチバ**、のちに**みんなのイチバ**であった。 {{-}}
 
 ## 概要
 
@@ -67,7 +67,7 @@
 
   - [miniピアゴ](http://99-ichiba.jp/)
 
-[Category:日本のコンビニエンスストア](https://ja.wikipedia.org/wiki/Category:日本のコンビニエンスストア "wikilink") [Category:100円ショップ](https://ja.wikipedia.org/wiki/Category:100円ショップ "wikilink") [Category:ユニーの歴史](https://ja.wikipedia.org/wiki/Category:ユニーの歴史 "wikilink") [Category:ユニー・ファミリーマートグループ](https://ja.wikipedia.org/wiki/Category:ユニー・ファミリーマートグループ "wikilink")
+[Category:日本のコンビニエンスストア](https://ja.wikipedia.org/wiki/Category:日本のコンビニエンスストア "wikilink") [Category:100円ショップ](https://ja.wikipedia.org/wiki/Category:100円ショップ "wikilink") [Category:ユニーの歴史](https://ja.wikipedia.org/wiki/Category:ユニーの歴史 "wikilink")
 
 1.  　-　（株）サークルKサンクス　[プレスリリース](../Page/プレスリリース.md "wikilink")平成24年1月19日
 2.  　-　ユニー（株）プレスリリース平成24年1月19日

@@ -337,7 +337,7 @@
   -
   -
   -
-[Category:AKABEiSOFT2](https://ja.wikipedia.org/wiki/Category:AKABEiSOFT2 "wikilink") [Category:福岡市中央区の企業](https://ja.wikipedia.org/wiki/Category:福岡市中央区の企業 "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
+[Category:AKABEiSOFT2](https://ja.wikipedia.org/wiki/Category:AKABEiSOFT2 "wikilink") [Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink") [Category:福岡市中央区の企業](https://ja.wikipedia.org/wiki/Category:福岡市中央区の企業 "wikilink") [Category:2005年設立の企業](https://ja.wikipedia.org/wiki/Category:2005年設立の企業 "wikilink")
 
 1.  [あかべぇそふとつぅ＞求人情報](http://www.akabeesoft2.com/recruit.html) 2014年12月23日閲覧
 2.

@@ -15,20 +15,22 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、ハッチェンスは[シドニー](../Page/シドニー.md "wikilink")のホテルの一室で自殺。バンドは存続の危機に立たされる。それでも[テレンス・トレント・ダービーら何人かのボーカリストをゲスト起用しながらライブ活動を続けた](../Page/サナンダ・マイトレイヤ.md "wikilink")。[2005年](../Page/2005年.md "wikilink")、アメリカのテレビ番組の企画でバンドは新しいボーカリストを募集、オーディションで12週を勝ち抜いたJ.D.フォーチュンを迎えて復活作を発表した。しかし[2009年](../Page/2009年.md "wikilink")、フォーチュンは[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")に到着した際に解雇された。
 
-## アルバム
+## ディスコグラフィ
 
-  - [INXS](https://ja.wikipedia.org/wiki/INXS_\(アルバム\) "wikilink") / ''[INXS](https://ja.wikipedia.org/wiki/:en:INXS_\(album\) "wikilink") (1980)
-  - [アンダーニース・ザ・カラーズ](https://ja.wikipedia.org/wiki/アンダーニース・ザ・カラーズ "wikilink") / *[Underneath the Colours](https://ja.wikipedia.org/wiki/:en:Underneath_the_Colours "wikilink")* (1981)
-  - [シャブー・シャバー](https://ja.wikipedia.org/wiki/シャブー・シャバー "wikilink") / *[Shabooh Shoobah](https://ja.wikipedia.org/wiki/:en:Shabooh_Shoobah "wikilink")* (1982)
-  - [スウィング](https://ja.wikipedia.org/wiki/スウィング_\(INXSのアルバム\) "wikilink") / *[The Swing](https://ja.wikipedia.org/wiki/:en:The_Swing "wikilink")* (1984)
-  - [リッスン・ライク・シーヴズ](https://ja.wikipedia.org/wiki/リッスン・ライク・シーヴズ "wikilink") / *[Listen Like Thieves](https://ja.wikipedia.org/wiki/:en:Listen_Like_Thieves "wikilink")* (1985)
-  - [キック](https://ja.wikipedia.org/wiki/キック_\(INXSのアルバム\) "wikilink") / *[Kick](https://ja.wikipedia.org/wiki/:en:Kick_\(INXS_album\) "wikilink")* (1987)
-  - [X](https://ja.wikipedia.org/wiki/X_\(INXSのアルバム\) "wikilink") / *[X](https://ja.wikipedia.org/wiki/:en:X_\(INXS_album\) "wikilink")* (1990)
-  - [ホエアエヴァー・ユー・アー](https://ja.wikipedia.org/wiki/ホエアエヴァー・ユー・アー_\(INXSのアルバム\) "wikilink") / *[Welcome to Wherever You Are](https://ja.wikipedia.org/wiki/:en:Welcome_to_Wherever_You_Are "wikilink")* (1992)
-  - [フル・ムーン・ダーティ・ハーツ](https://ja.wikipedia.org/wiki/フル・ムーン・ダーティ・ハーツ "wikilink") / *[Full Moon, Dirty Hearts](https://ja.wikipedia.org/wiki/:en:Full_Moon,_Dirty_Hearts "wikilink")* (1993)
-  - [エレガントリー・ウェイステッド](https://ja.wikipedia.org/wiki/エレガントリー・ウェイステッド "wikilink") / *[Elegantly Wasted](https://ja.wikipedia.org/wiki/:en:Elegantly_Wasted "wikilink")* (1997)
-  - [スウィッチ](https://ja.wikipedia.org/wiki/スウィッチ_\(INXSのアルバム\) "wikilink") / *[Switch](https://ja.wikipedia.org/wiki/:en:Switch_\(INXS_album\) "wikilink")* (2005)
-  - [オリジナル・シン](https://ja.wikipedia.org/wiki/オリジナル・シン_\(アルバム\) "wikilink") / *[Original Sin](https://ja.wikipedia.org/wiki/:en:Original_Sin_\(INXS_album\) "wikilink")* (2010)
+### アルバム
+
+  - 『[INXS](https://ja.wikipedia.org/wiki/INXS_\(アルバム\) "wikilink")』 - *[INXS](https://ja.wikipedia.org/wiki/:en:INXS_\(album\) "wikilink")* (1980年)
+  - 『[アンダーニース・ザ・カラーズ](https://ja.wikipedia.org/wiki/アンダーニース・ザ・カラーズ "wikilink")』 - *[Underneath the Colours](https://ja.wikipedia.org/wiki/:en:Underneath_the_Colours "wikilink")* (1981年)
+  - 『[シャブー・シャバー](https://ja.wikipedia.org/wiki/シャブー・シャバー "wikilink")』 - *[Shabooh Shoobah](https://ja.wikipedia.org/wiki/:en:Shabooh_Shoobah "wikilink")* (1982年)
+  - 『[スウィング](https://ja.wikipedia.org/wiki/スウィング_\(INXSのアルバム\) "wikilink")』 - *[The Swing](https://ja.wikipedia.org/wiki/:en:The_Swing "wikilink")* (1984年)
+  - 『[リッスン・ライク・シーヴズ](https://ja.wikipedia.org/wiki/リッスン・ライク・シーヴズ "wikilink")』 - *[Listen Like Thieves](https://ja.wikipedia.org/wiki/:en:Listen_Like_Thieves "wikilink")* (1985年)
+  - 『[キック](https://ja.wikipedia.org/wiki/キック_\(INXSのアルバム\) "wikilink")』 - *[Kick](https://ja.wikipedia.org/wiki/:en:Kick_\(INXS_album\) "wikilink")* (1987年)
+  - 『[X](https://ja.wikipedia.org/wiki/X_\(INXSのアルバム\) "wikilink")』 - *[X](https://ja.wikipedia.org/wiki/:en:X_\(INXS_album\) "wikilink")* (1990年)
+  - 『[ホエアエヴァー・ユー・アー](https://ja.wikipedia.org/wiki/ホエアエヴァー・ユー・アー_\(INXSのアルバム\) "wikilink")』 - *[Welcome to Wherever You Are](https://ja.wikipedia.org/wiki/:en:Welcome_to_Wherever_You_Are "wikilink")* (1992年)
+  - 『[フル・ムーン・ダーティ・ハーツ](https://ja.wikipedia.org/wiki/フル・ムーン・ダーティ・ハーツ "wikilink")』 - *[Full Moon, Dirty Hearts](https://ja.wikipedia.org/wiki/:en:Full_Moon,_Dirty_Hearts "wikilink")* (1993年)
+  - 『[エレガントリー・ウェイステッド](https://ja.wikipedia.org/wiki/エレガントリー・ウェイステッド "wikilink")』 - *[Elegantly Wasted](https://ja.wikipedia.org/wiki/:en:Elegantly_Wasted "wikilink")* (1997年)
+  - 『[スウィッチ](https://ja.wikipedia.org/wiki/スウィッチ_\(INXSのアルバム\) "wikilink")』 - *[Switch](https://ja.wikipedia.org/wiki/:en:Switch_\(INXS_album\) "wikilink")* (2005年)
+  - 『[オリジナル・シン](https://ja.wikipedia.org/wiki/オリジナル・シン_\(アルバム\) "wikilink")』 - *[Original Sin](https://ja.wikipedia.org/wiki/:en:Original_Sin_\(INXS_album\) "wikilink")* (2010年)
 
 ## 日本公演
 

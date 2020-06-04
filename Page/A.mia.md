@@ -62,7 +62,7 @@
     1.  lost in your eyes 〜永遠〜\[4:32\]
           -
             作詞：a.mia／作曲：Deborah Gibson／編曲：Satoru Sugawara
-            [デビー・ギブソン](https://ja.wikipedia.org/wiki/デビー・ギブソン "wikilink")のカヴァー
+            [デビー・ギブソン](../Page/デビー・ギブソン.md "wikilink")のカヴァー
     2.  la\*la\*la\*\[3:57\]
           -
             作詞・作曲・編曲：a.mia

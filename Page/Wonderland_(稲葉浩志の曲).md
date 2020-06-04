@@ -1,7 +1,7 @@
 > この記事は[Wonderland \(稲葉浩志の曲\)](https://ja.wikipedia.org/wiki/Wonderland_\(稲葉浩志の曲\))から翻訳されています。
 
 
-「**Wonderland**」（ワンダーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")のボーカリスト・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")にリリースした、3作目の[シングル](../Page/シングル.md "wikilink")。
+「**Wonderland**」（ワンダーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の[ボーカリスト](../Page/歌手.md "wikilink")・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の楽曲。[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[VERMILLION RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")3作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 

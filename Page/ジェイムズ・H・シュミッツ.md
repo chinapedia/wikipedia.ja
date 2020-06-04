@@ -5,7 +5,7 @@
 
 ## 来歴
 
-アメリカ人の両親のもと、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ハンブルク](../Page/ハンブルク.md "wikilink")に生まれる。親の仕事の関係で少年時代をドイツで過ごす。10代初めにドイツのSF作家フリードリッヒ・ヴィルヘルム・メイダーの『驚異の世界』を読んだのを機に[SFに傾倒](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。1930年にアメリカに帰国しシカゴの職業学校に入学、2年間在籍していたが不況により就職できず、ドイツに戻り父親の会社で働く。ドイツに戻ってから創作活動を始めるが、ナチスの台頭によりヨーロッパ情勢が不穏になってきたため、1938年に家族全員でアメリカに帰国。第2次世界大戦ではアメリカ空軍の航空写真士として働き、この戦争中に処女作である短編『緑の顔』（SFではない）を執筆した。この「緑の顔」は、[ジョン・W・キャンベル](../Page/ジョン・W・キャンベル.md "wikilink")編集のファンタジー誌『[アンノウン](https://ja.wikipedia.org/wiki/アンノウン_\(雑誌\) "wikilink")』の1943年8月号に掲載された。1949年に、同じくジョン・W・キャンベル編集の『[アスタウンディング](../Page/アスタウンディング.md "wikilink")』誌7月号に載った『ヴェガよりの使者』でSFデビュー。戦争が終わってからはキャンピングトラクターのセールスの仕事をこなしながら執筆活動をしていた。1957年にベティ・メイ・チャップマンと結婚。1959年より仕事をやめ、創作活動に専念。1973年に、リトル・インヴィジブル・マン賞を受賞。1974年に、最後の著作となる短編『不死性の霊気』を発表。1981年にロサンゼルスの病院に5週間入院していたが、1981年4月18日に、充血性肺疾患により死去。69歳。
+アメリカ人の両親のもと、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ハンブルク](../Page/ハンブルク.md "wikilink")に生まれる。親の仕事の関係で少年時代をドイツで過ごす。10代初めにドイツのSF作家フリードリッヒ・ヴィルヘルム・メイダーの『驚異の世界』を読んだのを機に[SFに傾倒](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。1930年にアメリカに帰国しシカゴの職業学校に入学、2年間在籍していたが不況により就職できず、ドイツに戻り父親の会社で働く。ドイツに戻ってから創作活動を始めるが、ナチスの台頭によりヨーロッパ情勢が不穏になってきたため、1938年に家族全員でアメリカに帰国。第2次世界大戦ではアメリカ空軍の航空写真士として働き、この戦争中に処女作である短編『緑の顔』（SFではない）を執筆した。この「緑の顔」は、[ジョン・W・キャンベル](../Page/ジョン・W・キャンベル.md "wikilink")編集のファンタジー誌『[アンノウン](https://ja.wikipedia.org/wiki/アンノウン_\(雑誌\) "wikilink")』の1943年8月号に掲載された。1949年に、同じくジョン・W・キャンベル編集の『[アスタウンディング](../Page/アスタウンディング.md "wikilink")』誌7月号に載った『ヴェガよりの使者』でSFデビュー。戦争が終わってからはキャンピングトラクターのセールスの仕事をこなしながら執筆活動をしていた。1957年にベティ・メイ・チャップマンと結婚。1959年より仕事をやめ、創作活動に専念。1973年に、リトル・インヴィジブル・マン賞を受賞。1974年に、最後の著作となる短編『不死性の霊気』を発表。1981年にロサンゼルスの病院に5週間入院していたが、1981年4月18日に、充血性肺疾患により死去。69歳\[1\]。
 
 ## 著作
 
@@ -181,10 +181,14 @@
 
 ## 翻訳
 
-  - 『[悪鬼の種族](https://ja.wikipedia.org/wiki/:en:The_Demon_Breed "wikilink")』　冬川亘訳　[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")SF、1980年（絶版）
-  - 『ライオンルース』　鎌田三平・田中克己・米村秀雄・[大野万紀](https://ja.wikipedia.org/wiki/大野万紀 "wikilink")訳、[青心社](https://ja.wikipedia.org/wiki/青心社 "wikilink")、1986年、短編集（絶版）
-  - 『[惑星カレスの魔女](https://ja.wikipedia.org/wiki/:en:The_Witches_of_Karres "wikilink")』　鎌田三平訳、[新潮文庫](../Page/新潮文庫.md "wikilink")、1987年、 [創元SF文庫](../Page/創元SF文庫.md "wikilink")　1996年、カバーイラスト[宮崎駿](../Page/宮崎駿.md "wikilink")
-  - 『[テルジーの冒険](https://ja.wikipedia.org/wiki/:en:Telzey_Amberdon "wikilink")』　鎌田三平訳、[新潮文庫](../Page/新潮文庫.md "wikilink")、1988年、元版は青心社、1984年　続編（絶版）
+  - 『[悪鬼の種族](https://ja.wikipedia.org/wiki/:en:The_Demon_Breed "wikilink")』　冬川亘訳　[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")SF、1980年　カバー・本文イラスト：[佐藤道明](../Page/佐藤道明.md "wikilink")
+  - 『ライオンルース』　鎌田三平・田中克己・米村秀雄・[大野万紀](https://ja.wikipedia.org/wiki/大野万紀 "wikilink")訳、[青心社](https://ja.wikipedia.org/wiki/青心社 "wikilink")、1986年　短編集
+  - 『[惑星カレスの魔女](https://ja.wikipedia.org/wiki/:en:The_Witches_of_Karres "wikilink")』　鎌田三平訳、[新潮文庫](../Page/新潮文庫.md "wikilink")、1987年　カバーイラスト：[宮崎駿](../Page/宮崎駿.md "wikilink")
+      - 『惑星カレスの魔女』　鎌田三平訳、[創元SF文庫](../Page/創元SF文庫.md "wikilink")、1996年、カバーイラスト：宮崎駿
+  - 『[テルジーの冒険](https://ja.wikipedia.org/wiki/:en:Telzey_Amberdon "wikilink")』　鎌田三平訳、青心社、1984年
+      - 『テルジーの冒険』　鎌田三平訳、新潮文庫、1988年　カバー・本文イラスト：[伊達誠](https://ja.wikipedia.org/wiki/伊達誠 "wikilink")
+
+## 脚注
 
 ## 外部リンク
 
@@ -196,3 +200,5 @@
   - [SciFan database](http://scifan.com/writers/SS/SchmitzJamesH.asp)
 
 [Category:アメリカ合衆国のSF作家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF作家 "wikilink") [Category:ハンブルク出身の人物](https://ja.wikipedia.org/wiki/Category:ハンブルク出身の人物 "wikilink") [Category:1911年生](https://ja.wikipedia.org/wiki/Category:1911年生 "wikilink") [Category:1981年没](https://ja.wikipedia.org/wiki/Category:1981年没 "wikilink")
+
+1.  来歴については、[米村秀雄](https://ja.wikipedia.org/wiki/米村秀雄 "wikilink")「解説」『テルジーの冒険』（新潮文庫、1988年、pp.237-238）を参照。

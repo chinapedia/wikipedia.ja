@@ -34,6 +34,13 @@
       - 爆弾 1,200 kg
   - 乗員： 5名
 
+## 登場作品
+
+### ゲーム
+
+  - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
+    プレイヤーの操縦機体としてZ.1007bis serie3、Z.1007bis serie5（双尾翼型）が登場
+
 ## 参考文献
 
   - [デルタ出版](https://ja.wikipedia.org/wiki/デルタ出版 "wikilink")刊 隔月刊『[ミリタリーエアクラフト](https://ja.wikipedia.org/wiki/ミリタリーエアクラフト "wikilink")』通刊17号「第二次大戦フランス/イタリア機」[雑誌コード](../Page/雑誌コード.md "wikilink")08495-11

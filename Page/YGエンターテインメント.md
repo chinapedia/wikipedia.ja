@@ -100,7 +100,6 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [イム・イェジン](../Page/イム・イェジン.md "wikilink") （임예진）
   - [カル・ソウォン](https://ja.wikipedia.org/wiki/カル・ソウォン "wikilink") （갈소원）
   - [イ・ソンギョン](https://ja.wikipedia.org/wiki/イ・ソンギョン "wikilink") （이성경）
-  - [ナム・ジュヒョク](https://ja.wikipedia.org/wiki/ナム・ジュヒョク "wikilink") （남주혁）
 
 ### 俳優・女優（日本人）
 

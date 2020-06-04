@@ -29,6 +29,10 @@
   - 写真提供: Hi FASHION
   - 衣裳協力: LA BREA
 
+## 価格
+
+  - 発売当時の価格は700円
+
 ## 再発盤
 
   - 1988年6月25日 - [8cmCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink"): 10SL-146\[19\]

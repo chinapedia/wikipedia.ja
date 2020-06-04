@@ -30,6 +30,7 @@
         作詞：[中山加奈子](../Page/中山加奈子.md "wikilink")
         ソニー「オーディオテープ」CMソング。オリジナル・アルバムには未収録。仮タイトルは「お年玉」だった\[4\]。
         発売から12年後の[2001年](../Page/2001年.md "wikilink")には[スズキ](../Page/スズキ_\(企業\).md "wikilink")「[Kei-SPORTS](../Page/スズキ・Kei.md "wikilink")」CMソングとなり、同年[8月8日](../Page/8月8日.md "wikilink")には「世界でいちばん熱い夏／Diamonds ＜ダイアモンド＞」として両A面シングルで再発された。
+        2020年にはエースコック スーパーはるさめのCMソングとなる。
 2.  **M**
       -
         作詞：[富田京子](../Page/富田京子.md "wikilink")
@@ -57,7 +58,7 @@
   - [木口亜矢](../Page/木口亜矢.md "wikilink") - [2007年](../Page/2007年.md "wikilink")、CD『あやてぃ☆トランス～あやカーブ注意報～』
   - i\*Be（South to North Records所属の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")） - [2009年](../Page/2009年.md "wikilink")、デビューシングル。
   - [High-King](https://ja.wikipedia.org/wiki/High-King "wikilink") - 2009年、CD『[チャンプル①〜ハッピーマリッジソングカバー集〜](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜 "wikilink")』（曲名は「DIAMONDS ＜ダイアモンド＞」）
-  - 岸谷新羅（[福山潤](../Page/福山潤.md "wikilink")） - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、DVD『デュラララ\!\!vol.10』完全生産限定盤特典『カバーソングコレクションCD』
+  - 岸谷新羅（[福山潤](../Page/福山潤.md "wikilink")） - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、DVD『[デュラララ\!\!](https://ja.wikipedia.org/wiki/デュラララ!! "wikilink")vol.10』完全生産限定盤特典『カバーソングコレクションCD』
   - [森三中](../Page/森三中.md "wikilink") - [2011年](../Page/2011年.md "wikilink")、[toto BIGのCM](../Page/スポーツ振興くじ.md "wikilink")（奥居（[黒沢かずこ](../Page/黒沢かずこ.md "wikilink")）、中山（[村上知子](https://ja.wikipedia.org/wiki/村上知子 "wikilink")）、渡辺（[大島美幸](https://ja.wikipedia.org/wiki/大島美幸 "wikilink")））
   - [中川翔子](../Page/中川翔子.md "wikilink") - 2011年、CD『[しょこたん☆かばー4 〜しょこ☆ロック篇〜](https://ja.wikipedia.org/wiki/しょこたん☆かばー4 "wikilink")-2』
   - 秋月律子（[若林直美](../Page/若林直美.md "wikilink")） - 2015年、CD『[THE IDOLM@STER MASTER ARTIST 3 13 秋月律子](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_MASTER_ARTIST_3#13_秋月律子 "wikilink")』

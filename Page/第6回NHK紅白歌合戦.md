@@ -5,7 +5,7 @@
 
 ## 概要
 
-この年から[ラジオ東京が紅白に対抗して](../Page/TBSテレビ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[オールスター丹頂歌合戦](https://ja.wikipedia.org/wiki/オールスター丹頂歌合戦 "wikilink")』\[1\]を放送した。[民放側の出演者は独占契約が結ばれているため](../Page/民間放送.md "wikilink")、NHK側は出演者交渉に苦しむこととなった。
+この年から[ラジオ東京が紅白に対抗して](../Page/TBSテレビ.md "wikilink")[裏番組](../Page/裏番組.md "wikilink")として『[オールスター歌合戦](https://ja.wikipedia.org/wiki/オールスター歌合戦 "wikilink")』\[1\]を放送した。[民放側の出演者は独占契約が結ばれているため](../Page/民間放送.md "wikilink")、NHK側は出演者交渉に苦しむこととなった。
 
 ## 出演者
 
@@ -15,7 +15,11 @@
   - 白組司会：[高橋圭三](../Page/高橋圭三.md "wikilink") - NHKアナウンサー
   - 総合司会：[石井鐘三郎](https://ja.wikipedia.org/wiki/石井鐘三郎 "wikilink") - NHKアナウンサー
 
-宮田は[第4回](../Page/第4回NHK紅白歌合戦.md "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")）で白組司会を務めており、上述の裏番組に対抗する形で復帰。男性の紅組司会起用・両組男性司会・司会陣が全員男性はいずれは史上初。
+宮田は[第3回](../Page/第3回NHK紅白歌合戦.md "wikilink")（[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")）で白組司会を務めており、司会復帰。男性の紅組司会担当および紅白両組の司会担当は史上初。
+
+両組男性司会・司会陣が全員男性もいずれ初めて。
+
+宮田の紅組司会および両組男性司会は男性同士司会の舌戦で上述の『オールスター歌合戦』に対抗する意味合いがあった\[2\]。
 
 ### 出場歌手
 
@@ -41,8 +45,8 @@
 
 前回の出場歌手の中より不選出となった歌手は以下。
 
-  - 紅組:[淡谷のり子](../Page/淡谷のり子.md "wikilink")・[神楽坂はん子](../Page/神楽坂はん子.md "wikilink")・[松田トシ](../Page/松田トシ.md "wikilink")・[美空ひばり](../Page/美空ひばり.md "wikilink")\[2\]・[雪村いづみ](../Page/雪村いづみ.md "wikilink")・[渡辺はま子](../Page/渡辺はま子.md "wikilink")
-  - 白組:[伊藤久男](../Page/伊藤久男.md "wikilink")\[3\]・[近江俊郎](../Page/近江俊郎.md "wikilink")\[4\]・[春日八郎](../Page/春日八郎.md "wikilink")\[5\]・[霧島昇](../Page/霧島昇.md "wikilink")\[6\]・[高英男](../Page/高英男.md "wikilink")・[小畑実](../Page/小畑実_\(歌手\).md "wikilink")
+  - 紅組:[淡谷のり子](../Page/淡谷のり子.md "wikilink")・[神楽坂はん子](../Page/神楽坂はん子.md "wikilink")・[松田トシ](../Page/松田トシ.md "wikilink")・[美空ひばり](../Page/美空ひばり.md "wikilink")\[3\]・[雪村いづみ](../Page/雪村いづみ.md "wikilink")・[渡辺はま子](../Page/渡辺はま子.md "wikilink")
+  - 白組:[伊藤久男](../Page/伊藤久男.md "wikilink")\[4\]・[近江俊郎](../Page/近江俊郎.md "wikilink")\[5\]・[春日八郎](../Page/春日八郎.md "wikilink")\[6\]・[霧島昇](../Page/霧島昇.md "wikilink")\[7\]・[高英男](../Page/高英男.md "wikilink")・[小畑実](../Page/小畑実_\(歌手\).md "wikilink")
 
 ### 審査員
 
@@ -88,9 +92,10 @@
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1955年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1955年のテレビ番組_\(日本\) "wikilink") [Category:1955年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1955年のラジオ番組_\(日本\) "wikilink") [Category:1955年の音楽](https://ja.wikipedia.org/wiki/Category:1955年の音楽 "wikilink") [Category:1955年12月](https://ja.wikipedia.org/wiki/Category:1955年12月 "wikilink")
 
-1.  [1957年](../Page/1957年.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")まで放送された『[オールスター大行進](https://ja.wikipedia.org/wiki/オールスター大行進 "wikilink")』の前身。ちなみに、『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』も元々は『オールスター大行進』の流れを踏襲するような形で[大晦日](../Page/大晦日.md "wikilink")の放送が開始された。
-2.
+1.  [1957年](../Page/1957年.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")まで放送された『[オールスター大行進](https://ja.wikipedia.org/wiki/オールスター大行進 "wikilink")』の前身。ちなみに『[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")』も元々は『オールスター大行進』の流れを踏襲するような形で[大晦日](../Page/大晦日.md "wikilink")の放送が開始された。
+2.  [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦のウラ話』,53頁。
 3.
 4.
 5.
 6.
+7.

@@ -7,8 +7,6 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月2日](../Page/5月2日.md "wikilink")に急逝した日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")であり、[X JAPANの](../Page/X_JAPAN.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")である[hide](https://ja.wikipedia.org/wiki/hide "wikilink")への追悼の意を込め、一周忌にあたる[1999年](../Page/1999年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[PONY CANYONよりリリースされた](../Page/ポニーキャニオン.md "wikilink")。トリビュートアルバムとしては史上唯一の[ミリオンヒット](https://ja.wikipedia.org/wiki/ミリオンヒット "wikilink")を記録している。アルバム全体のマスタリングを[小野誠彦](https://ja.wikipedia.org/wiki/小野誠彦 "wikilink")が担当している。
 
-アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## 収録曲
 
 全作詞・作曲：hide

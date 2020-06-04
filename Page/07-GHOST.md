@@ -448,7 +448,7 @@
 
 DVD全13巻の販売数は56000枚に達している\[46\]。アニメの次回予告はラブラドール役の[宮田幸季](../Page/宮田幸季.md "wikilink")が担当している。
 
-2011年7月から2012年1月まで[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[日本テレビで](../Page/日本テレビ放送網.md "wikilink")[遅れネット](../Page/遅れネット.md "wikilink")された\[47\]。読売テレビが製作した[UHFアニメ](../Page/UHFアニメ.md "wikilink")が日本テレビで放送されるのは『[ドラゴンクライシス\!](https://ja.wikipedia.org/wiki/ドラゴンクライシス! "wikilink")』に次いで2例目。
+2011年7月から2012年1月まで[キー局](../Page/キー局.md "wikilink")である[日本テレビで](../Page/日本テレビ放送網.md "wikilink")[遅れネット](../Page/遅れネット.md "wikilink")された\[47\]。読売テレビが製作した[UHFアニメ](../Page/UHFアニメ.md "wikilink")が日本テレビで放送されるのは『[ドラゴンクライシス\!](https://ja.wikipedia.org/wiki/ドラゴンクライシス! "wikilink")』に次いで2例目。
 
 ### スタッフ
 

@@ -19,7 +19,7 @@
     （作詞：五十嵐充 / 作曲：鈴木大輔 / 編曲：五十嵐充、day after tomorrow）
       -
         [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")『[テイルズ オブ シンフォニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア "wikilink")』（プレイステーション2版）テーマソング・CMソング
-        [ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")専用ソフトとして発売された『[テイルズ オブ シンフォニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア "wikilink")』が[移植され](../Page/移植_\(ソフトウェア\).md "wikilink")、[プレイステーション2版として発売されるにあたり](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、同作のために新たに書き起こされた曲である\[1\]。
+        [ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")専用ソフトとして発売された『[テイルズ オブ シンフォニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア "wikilink")』が[移植され](../Page/移植_\(ソフトウェア\).md "wikilink")、[PlayStation 2版として発売されるにあたり](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、同作のために新たに書き起こされた曲である\[1\]。
 3.  **more than a million miles**
     （作詞：五十嵐充 / 作曲：[北野正人](../Page/北野正人.md "wikilink") / 編曲：五十嵐充、day after tomorrow 弦編曲：弦一徹）
       -

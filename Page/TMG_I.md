@@ -24,7 +24,7 @@
         ライブではオープニングに演奏された。
 3.  **KINGS FOR A DAY** (3:47)
       -
-        松本は[リフ](../Page/リフ.md "wikilink")だけを考えメンバーに渡したようで、歌入り後は[Mr. Bigみたいだと思ったらしい](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")。
+        松本は[リフ](../Page/リフ.md "wikilink")だけを考えメンバーに渡したようで、歌入り後は[Mr. Bigみたいだと思ったらしい](../Page/ミスター・ビッグ_\(アメリカのバンド\).md "wikilink")。
 4.  **I Know You by Heart** (3:33)
       -
         曲の大半が[5拍子である](https://ja.wikipedia.org/wiki/変拍子 "wikilink")。「OH JAPAN 〜OUR TIME IS NOW〜」や「TRAPPED」と共に初期に制作された。

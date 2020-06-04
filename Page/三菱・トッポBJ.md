@@ -3,7 +3,7 @@
 
 **トッポBJ**（トッポ・ビージェイ、*Toppo BJ*）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")がかつて製造・販売していた[軽トールワゴン](https://ja.wikipedia.org/wiki/軽トールワゴン "wikilink")である。「トッポ」を冠する車種として通算3代目。
 
-[2003年](../Page/2003年.md "wikilink")に一旦販売を終了したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")に2代目[eKスポーツの主要コンポーネンツを流用しながら各部に改良を加え](https://ja.wikipedia.org/wiki/三菱・eKスポーツ "wikilink")「[トッポ](https://ja.wikipedia.org/wiki/三菱・トッポ "wikilink")」として販売を開始し、事実上のブランド復活を果たしたが、2014年3月に販売終了した。
+[2004年](../Page/2004年.md "wikilink")に一旦販売を終了したが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")に2代目[eKスポーツの主要コンポーネンツを流用しながら各部に改良を加え](https://ja.wikipedia.org/wiki/三菱・eKスポーツ "wikilink")「[トッポ](https://ja.wikipedia.org/wiki/三菱・トッポ "wikilink")」として販売を開始し、事実上のブランド復活を果たしたが、2013年に販売終了した。
 
 ## 概要
 
@@ -25,7 +25,7 @@
   - [2001年](../Page/2001年.md "wikilink")1月 - 大規模な[フェイスリフト](https://ja.wikipedia.org/wiki/フェイスリフト "wikilink")（「グッピー」、「グッピー・リミテッド」は除く）。ボディ前後の意匠変更。[コラムシフト及び](../Page/シフトレバーの配置.md "wikilink")[ベンチシート](https://ja.wikipedia.org/wiki/ベンチシート "wikilink")の追加。
       - 10月 - 一部改良。[3G83型エンジン搭載車がこれまでの](https://ja.wikipedia.org/wiki/三菱・3G8型エンジン "wikilink")[MVV](https://ja.wikipedia.org/wiki/MVV "wikilink")仕様（[リーンバーン](../Page/リーンバーン.md "wikilink")）から通常仕様（ストイキオバーン）に変更となる。
   - [2002年](../Page/2002年.md "wikilink")9月 - 一部改良。[排ガス規制や](../Page/自動車排出ガス規制.md "wikilink")[グリーン税制](https://ja.wikipedia.org/wiki/グリーン税制 "wikilink")などの強化に伴い4A30型エンジン搭載車が全て廃止、以後3G83型エンジン搭載車のみのラインナップとなる。
-  - 2003年12月末 - 生産、販売共に終了。これにより、三菱から2008年9月に「トッポ」としてボディの一部及びインパネ、収納を中心とした大幅な内装変更をして復活されるまで車高1550mmを超える軽トールワゴンのラインナップが消滅した。軽トールワゴン全盛の中で異例の販売終了であった。
+  - 2004年5月\[4\] - 生産、販売共に終了。これにより、三菱から2008年9月に「トッポ」としてボディの一部及びインパネ、収納を中心とした大幅な内装変更をして復活されるまで車高1550mmを超える軽トールワゴンのラインナップが消滅した。軽トールワゴン全盛の中で異例の販売終了であった。
 
 ファイル:1998-1999 Mitsubishi Toppo BJ rear.jpg|前期型リア ファイル:Mitsubishi Toppo BJ Guppy.jpg|特別仕様車「グッピー」
 
@@ -34,7 +34,7 @@
 ## 車名の由来
 
   - トッポは、 [イタリア語](../Page/イタリア語.md "wikilink")で[ネズミ](../Page/ネズミ.md "wikilink")の意味。また[日本語](../Page/日本語.md "wikilink")での「**ノッポ**」をかけてある。
-  - *BJ*は、英語の**Big Joy**\[4\]の頭文字*B.J*を取った物。
+  - *BJ*は、英語の**Big Joy**\[5\]の頭文字*B.J*を取った物。
 
 ## 脚注
 
@@ -58,4 +58,5 @@
 1.  バックドアが閉まっている時にバックドアガラスのボタンを押すと窓を開けることが可能
 2.  「グッピー」は[1DINサイズのカセットオーディオ](https://ja.wikipedia.org/wiki/ISO_7736 "wikilink")+2スピーカー、「グッピー・リミテッド」は2DINサイズのCD/MDオーディオ+4スピーカーがそれぞれ標準装備される。
 3.  このほか、「グッピー・リミテッド」には13インチ[アルミホイール](../Page/アルミホイール.md "wikilink")も標準装備される。
-4.  大きな楽しさの意味。
+4.  [【Movie】元祖トールボーイ軽、三菱「トッポ」復活](https://www.webcg.net/articles/-/8003)
+5.  大きな楽しさの意味。

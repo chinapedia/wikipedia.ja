@@ -27,7 +27,7 @@
       - リミックス。
 6.  **[NEVER ENDING DARKNESS](../Page/BIG_TIME_CHANGES.md "wikilink")** （作詞・作曲：SGT. ルーク篁III世、編曲：聖飢魔II）
       - エンディングがオリジナルより長い。ルーク参謀によると「オリジナルは最後の方ミスってるから短くしてもらって助かったけど、このバージョンは全部収録されてしまった」とのこと\[1\]。
-7.  **[EL・DO・RA・DO](https://ja.wikipedia.org/wiki/EL・DO・RA・DO "wikilink")** （作詞：デーモン小暮、作曲：デーモン小暮、[紫馬肥](https://ja.wikipedia.org/wiki/紫馬肥 "wikilink")、編曲：聖飢魔II）
+7.  **[EL・DO・RA・DO](https://ja.wikipedia.org/wiki/EL・DO・RA・DO "wikilink")** （作詞：デーモン小暮、作曲：デーモン小暮、[紫馬肥](https://ja.wikipedia.org/wiki/聖飢魔II#結成〜地球デビュー "wikilink")、編曲：聖飢魔II）
       - キーやギターの掛け合いなどが大きく変更されており、ギターソロも[ルーク篁](../Page/ルーク篁.md "wikilink")参謀へ交代。詞も一部変更されている。基本的な構成はこのバージョンが[1999 BLACK LIST版などの後期アレンジの原型となっている](../Page/1999_BLACK_LIST.md "wikilink")。
 8.  **[アダムの林檎](../Page/アダムの林檎.md "wikilink")** （作詞：デーモン小暮、作曲：[ジェイル大橋](../Page/大橋隆志.md "wikilink")、編曲：聖飢魔II）
       - ボーカルのみ新録。当初リミックスのみの予定だったが、ボーカルトラックテープを日本に置いてくるというトラブル発生（いわゆる「[ゼウス](../Page/ゼウス.md "wikilink")の妨害」）によりボーカルを新しく録音することとなった。全曲解説によれば「ビールをひっかけた」あとの声とのこと。林檎を齧るSEがオリジナルより一拍遅れて挿入されている。

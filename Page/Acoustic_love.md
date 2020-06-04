@@ -55,7 +55,7 @@
       - [大賀好修](../Page/大賀好修.md "wikilink")([nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")) - ギター
       - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")([DIMENSION](../Page/DIMENSION.md "wikilink")) - ギター
       - [三好誠](../Page/三好誠.md "wikilink")([rumania montevideo](https://ja.wikipedia.org/wiki/rumania_montevideo "wikilink")) - ギター
-      - [大田紳一郎](../Page/大田紳一郎.md "wikilink")([doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")) - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+      - [大田紳一郎](../Page/大田紳一郎.md "wikilink")([doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")) - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
       - [寺島良一](../Page/寺島良一.md "wikilink") - アコースティックギター、ディレクター
 
 ## 出典

@@ -5,26 +5,22 @@
 
 ## 人物
 
-  - 出演作品は9500本以上、年間約500作品に出演しており、人気AV女優のレンタル用DVDの3本に1本は出演している。セックス経験人数は推定1万人\[1\]。
-  - 一番好きな体位は「ロールスロイス」（車のボンネットに付いているエンブレムのような体位）で、得意技は「しみ[クンニ](../Page/クンニリングス.md "wikilink")」。撮影で一番苦労するのは、長時間の[駅弁スタイルなので](https://ja.wikipedia.org/wiki/立位#駅弁 "wikilink")、先にヨリ（アップ）を収録してもらう。
-  - 弟子に[一徹](https://ja.wikipedia.org/wiki/一徹_\(AV男優\) "wikilink")、[イセドン内村](https://ja.wikipedia.org/wiki/イセドン内村 "wikilink")、[コンピューター園田](https://ja.wikipedia.org/wiki/コンピューター園田 "wikilink")、世界のやまけん、出てこい中平くん2号がいる\[2\]。
-  - クイズ好きで知られ、学生時代はクイズ研究会に属しており\[3\]、クイズ歴は25年くらいだという\[4\]。[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")『今世紀最後\! [アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")』では作問を担当、国内第一次予選の東京ドームにおける〇×クイズ第9問目（放送では第6問目）と早押しクイズで問題が採用される\[5\]。しかし、本人としては本選に出場したかったようで、作問は途中で放棄しクイズに参加するも、あえなく敗退\[6\]。失格した次の問題は、なんと自身が作成した問題であった\[7\]。[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")の番組「[BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink")」内の人気クイズ企画「[地下クイズ王決定戦](https://ja.wikipedia.org/wiki/地下クイズ王決定戦!! "wikilink")\!\!」では第2回準優勝、第3回準優勝、第4回優勝、第5回優勝の戦績を残している。
+  - 出演作品は10000本以上、年間約500作品に出演しており、人気AV女優のレンタル用DVDの3本に1本は出演している。セックス経験人数は推定1万人\[1\]。
+  - 一番好きな体位は「ロールスロイス」（車のボンネットに付いているエンブレムのような体位）で、得意技は「しみ[クンニ](../Page/クンニリングス.md "wikilink")」。
+  - 弟子に[一徹](https://ja.wikipedia.org/wiki/一徹_\(AV男優\) "wikilink")、[イセドン内村](https://ja.wikipedia.org/wiki/イセドン内村 "wikilink")、[コンピューター園田](https://ja.wikipedia.org/wiki/コンピューター園田 "wikilink")、出てこい中平くん2号がいる\[2\]。
+  - クイズ好きで知られ、学生時代はクイズ研究会に属しており\[3\]、クイズ歴は28年くらいだという\[4\]。[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")『今世紀最後\! [アメリカ横断ウルトラクイズ](https://ja.wikipedia.org/wiki/アメリカ横断ウルトラクイズ "wikilink")』では作問を担当、国内第一次予選の東京ドームにおける〇×クイズ第9問目（放送では第6問目）と早押しクイズで問題が採用される\[5\]。しかし、本人としては本選に出場したかったようで、作問は途中で放棄しクイズに参加するも、あえなく敗退\[6\]。失格した次の問題は、なんと自身が作成した問題であった\[7\]。[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")の番組「[BAZOOKA\!\!\!](https://ja.wikipedia.org/wiki/BAZOOKA!!! "wikilink")」内の人気クイズ企画「[地下クイズ王決定戦](https://ja.wikipedia.org/wiki/地下クイズ王決定戦!! "wikilink")\!\!」では第2回準優勝、第3回準優勝、第4回優勝、第5回優勝の戦績を残している。
   - [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[読書](../Page/読書.md "wikilink")、トレーニング、ドライブ、映画、[旅行](../Page/旅行.md "wikilink")、食事\[8\]。特技は[ブレイクダンス](../Page/ブレイクダンス.md "wikilink")\[9\]。
   - 離婚歴があり、その女性との間に二人の子供がいる\[10\]。現在の[内縁](../Page/内縁.md "wikilink")（[事実婚](../Page/事実婚.md "wikilink")）の妻は[はあちゅう](https://ja.wikipedia.org/wiki/伊藤春香_\(編集者\) "wikilink")\[11\]。
-
-<!-- end list -->
-
-  - AV男優ってどんな仕事？ カリスマ男優しみけんに一日密着してみた\[12\]。
 
 ## 来歴
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[昭和学院秀英高等学校卒業](../Page/昭和学院秀英中学校・高等学校.md "wikilink")。一浪のち[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")に入学したが、一度も大学に通うことなく中退。
-  - 1998年、高校卒業後の浪人中に[ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")『[Badi](../Page/Badi.md "wikilink")』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。その後、Badiの編集部員のひとりだった[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")に「あんたはもっと真剣にAV男優を目指すべきだわ」と言われ、AVメーカーに履歴書を送る就活を行い、「君、ウンコ食べられる?」というAVメーカー側からの質問に「ここで『喰えない』と答えれば男優としての道が閉ざされる」と考えた彼は「喰えます」と即答。そして撮影当日、彼はがむしゃらに食べた結果、撮影終了後に監督から『呑み込まなくてよかったのに…』と言われた。すでに食べた彼は撮影後の帰り道、下痢が止まらなくなり数日経っても治らなかったので、病院で治療した。その時の治療費は約2万円。本作のギャラは1万5千円だったので苦痛の上に5千円の出費という痛手をした。しかし、それから多く仕事が舞い込んだ\[13\]。
-  - [2005年](../Page/2005年.md "wikilink")、「東京オープン[ボディビル](../Page/ボディビル.md "wikilink")選手権大会」の60kg級で6位となる\[14\]。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、「[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")2008」で『しみけんのプライベート7 FUCK』（[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）が、[オムニバス](../Page/オムニバス.md "wikilink")部門最優秀賞を受賞\[15\]。
-  - [2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、AV男優名を本名の「清水健」から「しみけん」に改名した\[16\]。
-  - [2015年](../Page/2015年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")、「[スカパー\!アダルト放送大賞](https://ja.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")2015」で「抱かれたいAV男優賞」受賞\[17\]。
-  - 2015年[8月16日](../Page/8月16日.md "wikilink")、東京・世田谷区にうんこ味のカレー屋『カレーショップ志み津』をオープンさせ話題となる\[18\]。店は[2016年](../Page/2016年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に閉店した\[19\]が、同年の4月30日に[ロフトプラスワンWESTにて一日限定で復活した](../Page/新宿ロフトプラスワン.md "wikilink")\[20\]。
+  - 1998年、高校卒業後の浪人中に[ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")『[Badi](../Page/Badi.md "wikilink")』で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。その後、Badiの編集部員のひとりだった[マツコ・デラックス](../Page/マツコ・デラックス.md "wikilink")に「あんたはもっと真剣にAV男優を目指すべきだわ」と言われ、AVメーカーに履歴書を送る就活を行い、「君、ウンコ食べられる?」というAVメーカー側からの質問に「ここで『喰えない』と答えれば男優としての道が閉ざされる」と考えた彼は「喰えます」と即答。そして撮影当日、彼はがむしゃらに食べた結果、撮影終了後に監督から『呑み込まなくてよかったのに…』と言われた。すでに食べた彼は撮影後の帰り道、下痢が止まらなくなり数日経っても治らなかったので、病院で治療した。その時の治療費は約2万円。本作のギャラは1万5千円だったので苦痛の上に5千円の出費という痛手をした。２本目は磔にされて鞭打ち、３本目からは記憶がないらしく、８本目のオファーの電話で「それは人ですか？犬ですか？」と聞いていたという。しかし、それから多く仕事が舞い込んだ\[12\]。
+  - [2005年](../Page/2005年.md "wikilink")、「東京オープン[ボディビル](../Page/ボディビル.md "wikilink")選手権大会」の60kg級で6位となる\[13\]。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、「[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")2008」で『しみけんのプライベート7 FUCK』（[2007年](../Page/2007年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[アイデアポケット](../Page/アイデアポケット.md "wikilink")）が、[オムニバス](../Page/オムニバス.md "wikilink")部門最優秀賞を受賞\[14\]。
+  - [2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、父親からの電話で「本名を名乗るな！」と言われたことにより男優名を「しみけん」に統一した\[15\]。
+  - [2015年](../Page/2015年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")、「[スカパー\!アダルト放送大賞](https://ja.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")2015」で「抱かれたいAV男優賞」受賞\[16\]。
+  - 2015年[8月16日](../Page/8月16日.md "wikilink")、東京・世田谷区にうんこ味のカレー屋『カレーショップ志み津』をオープンさせ話題となる\[17\]。店は[2016年](../Page/2016年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に閉店した\[18\]が、同年の4月30日に[ロフトプラスワンWESTにて一日限定で復活した](../Page/新宿ロフトプラスワン.md "wikilink")\[19\]。
 
 ## 出演
 
@@ -256,7 +252,7 @@
       - ♯140　おっぱいコレクション 2015 秋（2015年9月28日放送）
       - ♯146　トップAV男優・しみけんの正体に迫る！ （2015年11月16日放送）
       - ♯150　第5回 地下クイズ王決定戦\!\! （2015年12月28日放送）
-  - [マグマイザー](https://ja.wikipedia.org/wiki/マグマイザー "wikilink")（BSスカパー\!、2017年3月10日– ） - しみけん 役\[21\]
+  - [マグマイザー](https://ja.wikipedia.org/wiki/マグマイザー "wikilink")（BSスカパー\!、2017年3月10日– ） - しみけん 役\[20\]
   - [ダラケ\! 〜お金を払ってでも見たいクイズ〜](https://ja.wikipedia.org/wiki/ダラケ!_〜お金を払ってでも見たいクイズ〜 "wikilink")（BSスカパー\!）
       - ♯S01E04 「AV男優」ダラケ(2014年10月30日放送)
       - ♯S05E02 「ラブホテルプロデューサー」ダラケ(2015年10月22日)
@@ -277,15 +273,19 @@
 
 <!-- end list -->
 
-  - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")のアゲたい盛り（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、2006年）\[22\]
+  - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")のアゲたい盛り（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、2006年）\[21\]
   - しみちるの「脳ミソつるつる野郎」（[TwitCasting](https://ja.wikipedia.org/wiki/TwitCasting "wikilink")）
       - ＃0（2013年3月10日放送）
       - ＃1（2013年3月20日放送）
-  - [スピードワゴンの月曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2019年11月12日\[23\]、AbemaTV）
+  - [スピードワゴンの月曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2019年11月12日\[22\]、AbemaTV）
 
 ### オリジナルビデオ
 
   - [団地妻は、わけあってヤリました。](https://ja.wikipedia.org/wiki/団地妻は、わけあってヤリました。 "wikilink")（2019年4月19日、リバプール）
+
+#### インターネットラジオ
+
+  - ミッション珍ポッシブル(2019年5月22日\~6月15日(第471回\~第489回)[マンガPark](https://ja.wikipedia.org/wiki/マンガPark "wikilink"))
 
 ## 出版物
 
@@ -297,6 +297,8 @@
   - やっぱり熟女がいちばんでした（角川書店　2018年2月28日発売）
   - AV男優しみけんが教える うんこ座りでオトコの悩みの大半は解決する\!（扶桑社　2018年3月2日発売）
   - しみけん式「超」SEXメソッド 本物とはつねにシンプルである（笠倉出版社　2019年8月29日発売）
+  - AV男優しみけん仕事論0.01 極薄！（扶桑社　2020年3月24日発売）
+  - 人生最高のセックスに出会いたい貴女へ　しみけんが教える５６のルール（笠倉出版社　2020年3月30日発売）
 
 ### 関連図書
 
@@ -304,6 +306,7 @@
   - 「AV男優」という職業 セックス・サイボーグたちの真実 文庫版（角川書店　2014年11月22日発売）
   - AV男優の流儀（扶桑社新書　2014年12月23日発売）
   - BAZOOKA\!\!\! 地下クイズ王決定戦 公式問題集（太田出版　2016年7月27日発売）
+  - 誰も教えてくれない性病対策ハンドブック（三和出版　2019年9月13日発売）
 
 ### 雑誌
 
@@ -412,18 +415,19 @@
 
 ## 外部リンク
 
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  - [しみけんの脳ミソつるつる野郎](https://web.archive.org/web/20150506100144/http://noutsuru.jp/)
+  - [AV男優しみけん](https://note.com/avshimiken) - [note](https://ja.wikipedia.org/wiki/note "wikilink")
 
-  - [セックスの向こう側～AV男優という生き方](http://www.maxam.jp/sex/)
+  -
+  - [【公式】しみけんチャンネル](https://www.youtube.com/channel/UCgjblCwQBAUc7F0YYhRCFVQ) - YouTubeチャンネル
+
+  - [しみけんTV](https://www.youtube.com/channel/UCRb-Kl1gXJrXzKsI-I3egJw) - YouTubeチャンネル
+
+  - [AV男優しみけん (avshimiken)](https://www.instagram.com/avshimiken/?hl=ja) - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
+
+  -
+  - [しみけんショップ](https://shimiken.official.ec) - BASE
+
+  - [男女の仲 研究所](https://community.camp-fire.jp/projects/222484) - [CAMPFIRE](https://ja.wikipedia.org/wiki/CAMPFIRE_\(クラウドファンディング\) "wikilink")
 
 [Category:日本のAV男優](https://ja.wikipedia.org/wiki/Category:日本のAV男優 "wikilink") [Category:日本のゲイポルノ男優](https://ja.wikipedia.org/wiki/Category:日本のゲイポルノ男優 "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:日本の著作家](https://ja.wikipedia.org/wiki/Category:日本の著作家 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
@@ -438,15 +442,14 @@
 9.  [【SILK LABO】しみけんさんの特技??【SILK-010】](http://www.youtube.com/watch?v=6q-myQ4gVYU)YouTube 動画 1分00秒〜
 10.
 11.
-12.
-13. 「AV男優」という職業 セックス・サイボーグたちの真実 p.127〜p.131
-14. [ボディビル大会アーカイブ](http://leanbody.jp/contents/competition/2005meeting/681/) 2005年東京オープンボディビル選手権大会 男子60kg級
-15. [AVグランプリ2008結果発表](http://www.dmm.co.jp/avgp/result/result2008.html) オムニバス部門
-16. [GWニュース](http://nikusyoku.jp/) しみけんが告白。僕がAV男優になった理由！？
-17. [スカパー\!アダルト放送大賞2015受賞者](https://adult-awards.com/archives/2015/) 男優賞
+12. 「AV男優」という職業 セックス・サイボーグたちの真実 p.127〜p.131
+13. [ボディビル大会アーカイブ](http://leanbody.jp/contents/competition/2005meeting/681/) 2005年東京オープンボディビル選手権大会 男子60kg級
+14. [AVグランプリ2008結果発表](http://www.dmm.co.jp/avgp/result/result2008.html) オムニバス部門
+15. [GWニュース](http://nikusyoku.jp/) しみけんが告白。僕がAV男優になった理由！？
+16. [スカパー\!アダルト放送大賞2015受賞者](https://adult-awards.com/archives/2015/) 男優賞
+17.
 18.
 19.
 20.
-21.
-22. [Show Time](http://www.showtime.jp/special/idol/agetai/) はなわのアゲたい盛り♯6〜♯9
-23.
+21. [Show Time](http://www.showtime.jp/special/idol/agetai/) はなわのアゲたい盛り♯6〜♯9
+22.

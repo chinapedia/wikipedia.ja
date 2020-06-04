@@ -72,7 +72,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td><p>土曜 22:30 - 23:00</p></td>
 <td><p>後番組は『<a href="../Page/ライムスター宇多丸のウィークエンド・シャッフル.md" title="wikilink">ライムスター宇多丸のウィークエンド・シャッフル</a>』を放送。</p></td>
 </tr>
@@ -115,7 +115,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）[4]</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）[4]</p></td>
 <td><p>日曜 18:00 - 18:30</p></td>
 <td><p>後番組は『<a href="https://ja.wikipedia.org/wiki/コシノジュンコ_MASACA" title="wikilink">コシノジュンコ MASACA</a>』を放送。</p></td>
 </tr>

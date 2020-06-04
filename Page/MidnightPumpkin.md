@@ -582,7 +582,7 @@
 </tr>
 <tr class="even">
 <td><p>BOYS&amp;GIRLS</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="https://ja.wikipedia.org/wiki/ディズニータイム" title="wikilink">ディズニータイム</a>」エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系「<a href="../Page/Disney_Time.md" title="wikilink">ディズニータイム</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>ソライロミライ</p></td>

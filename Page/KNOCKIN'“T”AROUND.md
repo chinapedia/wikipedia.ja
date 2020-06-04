@@ -33,7 +33,7 @@
 5.  **GO FURTHER**(4:33)
       -
         1999年・2000年の[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[F1グランプリ](https://ja.wikipedia.org/wiki/F1グランプリ "wikilink")』テーマ曲。[インストゥルメンタル曲](../Page/器楽曲.md "wikilink")。
-        原曲は1998年の『B'z LIVE-GYM'98 "SURVIVE"』ツアーのアニメーション演出で使用されていたもの\[12\]。[ベースに](../Page/ベース_\(弦楽器\).md "wikilink")[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")の[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が、[ドラムに](../Page/ドラムセット.md "wikilink")[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[真矢が参加している](../Page/真矢_\(ドラマー\).md "wikilink")（ビリーとはB'zのアルバム『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』でも共演している）。1999年の『[B'z LIVE-GYM'99 "Brotherhood"](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")』ツアーで披露された。
+        原曲は1998年の『B'z LIVE-GYM'98 "SURVIVE"』ツアーのアニメーション演出で使用されていたもの\[12\]。[ベースに](../Page/ベース_\(弦楽器\).md "wikilink")[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")の[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が、[ドラムに](../Page/ドラムセット.md "wikilink")[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[真矢が参加している](../Page/真矢_\(ドラマー\).md "wikilink")（ビリーとはB'zのアルバム『[Brotherhood](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")』でも共演している）。1999年の『[B'z LIVE-GYM'99 "Brotherhood"](https://ja.wikipedia.org/wiki/once_upon_a_time_in_横浜_〜B'z_LIVE_GYM'99_"Brotherhood"〜 "wikilink")』および2015年の『[B'z LIVE-GYM 2015 -EPIC NIGHT-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2015_-EPIC_NIGHT- "wikilink")』ツアーで披露された。
         アルバム『[House Of Strings](../Page/House_Of_Strings.md "wikilink")』には別バージョンが収録されている。
 6.  **two of us**(3:29)
       -

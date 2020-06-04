@@ -461,4 +461,4 @@
   -
   -
   -
-[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:ウィーンのスポーツチーム](https://ja.wikipedia.org/wiki/Category:ウィーンのスポーツチーム "wikilink")
+[Category:オーストリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オーストリアのサッカークラブ "wikilink") [Category:ウィーンのスポーツチーム](https://ja.wikipedia.org/wiki/Category:ウィーンのスポーツチーム "wikilink") [Category:1911年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1911年設立のスポーツチーム "wikilink")

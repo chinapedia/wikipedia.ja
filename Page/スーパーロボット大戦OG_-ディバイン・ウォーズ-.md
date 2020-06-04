@@ -5,7 +5,7 @@
 
 ## 作品概要
 
-[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[GBA用ゲームソフト](../Page/ゲームボーイアドバンス.md "wikilink")『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以後『OG1』）をベースとした作品。群像劇であった『OG1』を主人公のリュウセイ視点で練り直したうえで、コメディ要素をほとんど排除し、シリアスな[リアルロボット](../Page/リアルロボット.md "wikilink")アニメといった作風\[1\]になっている。登場するロボットは3DCGで描かれている。
+[バンプレスト](../Page/バンプレスト.md "wikilink")から発売された[GBA用ゲームソフト](../Page/ゲームボーイアドバンス.md "wikilink")『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以後『OG1』）をベースとした作品。群像劇であった『OG1』を主人公のリュウセイ視点で練り直したうえで、コメディ要素をほとんど排除し、シリアスな[リアルロボット](../Page/リアルロボット.md "wikilink")アニメといった作風\[1\]になっている。登場するロボットは3DCGで描かれている。『OG1』には未登場で『OG2』から登場するキャラクターや当時のOGシリーズには未登場だったキャラクターも一部登場している。
 
 テレビ放送は第25話をもって終了したが、第26話がDVD最終巻に収録されている。2007年2月23日からDVDが発売され、奇数巻のみ通常版のほかに彩色済みアクションフィギュアが同梱されたLimited Editionが発売された\[2\]。
 
@@ -561,7 +561,7 @@
 
   - [公式サイト](http://www.suparobo-anime.jp/)
   - [スーパーロボット大戦公式サイト内ページ](http://www.suparobo.jp/srw_lineup/srw_ogdw/)
-  - [テレビ東京・あにてれ スーパーロボット大戦 OG ディバイン・ウォーズ](http://www.tv-tokyo.co.jp/anime/superrobotog/)
+  - [テレビ東京・あにてれ スーパーロボット大戦 OG ディバイン・ウォーズ](https://www.tv-tokyo.co.jp/anime/superrobotog/)
 
 [Category:スーパーロボット大戦](https://ja.wikipedia.org/wiki/Category:スーパーロボット大戦 "wikilink") [Category:バンプレストオリジナル](https://ja.wikipedia.org/wiki/Category:バンプレストオリジナル "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:OLMのアニメ作品](https://ja.wikipedia.org/wiki/Category:OLMのアニメ作品 "wikilink") [Category:ジェンコのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジェンコのアニメ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:バンダイナムコエンターテインメント原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイナムコエンターテインメント原作のアニメ作品 "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:2007年の漫画](https://ja.wikipedia.org/wiki/Category:2007年の漫画 "wikilink") [Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink")
 

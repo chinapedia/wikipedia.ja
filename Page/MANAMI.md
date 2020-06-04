@@ -22,7 +22,7 @@
 
 ## 外部リンク
 
-  - [本物のマッチョを目指すMANAMIのトレーニングルーム](http://ip.tosp.co.jp/i.asp?I=manami_jeanne)
+  -
   - [【XANADU】\#3 MANAMIオフィシャルブログ「ザナ風呂」](https://ameblo.jp/xanadu03/)
 
 [Category:日本の女子総合格闘家](https://ja.wikipedia.org/wiki/Category:日本の女子総合格闘家 "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:芸能人女子フットサル選手](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサル選手 "wikilink") [Category:静岡県出身の人物](https://ja.wikipedia.org/wiki/Category:静岡県出身の人物 "wikilink") [Category:1981年生](https://ja.wikipedia.org/wiki/Category:1981年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

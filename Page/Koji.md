@@ -99,11 +99,11 @@
   - ドブネズミのバラード - 沢木
   - 実録・若頭 - 中島幸久
   - 極秘潜入捜査官 D.D.T. 2 - 日向アキラ
-  - 堕悪DARK (1.2) - 小林刑事
-  - バウンティハンター (1.2) - 西島純
+  - 堕悪DARK (1.2) - 小林(刑事)
+  - [バウンティハンター](../Page/バウンティハンター_\(漫画\).md "wikilink") 1.2（2011年） - 西島純(刑事)
   - 天獄の島 (1.2) - 上妻裕史
   - 外道軍団 - 北川稔
-  - 外道坊 (1.2) - 正木刑事
+  - [外道坊](https://ja.wikipedia.org/wiki/外道坊 "wikilink")1.2（2011年） - 正木(刑事)
   - ドラゴン - 金原成一
   - 裏盃の軍団 (1.2.3) - 鬼島史郎
   - 新☆四角いジャングル - 結城一郎
@@ -139,7 +139,7 @@
   - 修羅の代償（2013年） - 高橋剛志
   - チンピラ1 2（2013年） - 直治
   - 新・年少バトルロワイヤル1-3（2013年 - 2014年） - 竹下陽介
-  - 新・喧嘩高校軍団 義士高vs民族高（2013年） - 明宗(ミョンジョン)
+  - 新・喧嘩高校軍団 義士高vs民族高（2013年） - 神奈川民族高等学校 明宗(ミョンジョン)
   - [日本統一](https://ja.wikipedia.org/wiki/日本統一 "wikilink")1-9（2013年） - 町田駿
   - 代理戦争 やくざ×韓国マフィア（2013年） - 岩渕竜也
   - 修羅よさらば（2013年） - 町村忍
@@ -169,4 +169,4 @@
 
   - [末吉宏司](http://www.tvdrama-db.com/simple_result.htm?key=末吉宏司&x=0&y=0) (Koji Sueyoshi) - [テレビドラマデータベース](https://ja.wikipedia.org/wiki/テレビドラマデータベース "wikilink")
 
-[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:Vシネマ俳優](https://ja.wikipedia.org/wiki/Category:Vシネマ俳優 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:Vシネマ俳優](https://ja.wikipedia.org/wiki/Category:Vシネマ俳優 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:在メキシコ日本人](https://ja.wikipedia.org/wiki/Category:在メキシコ日本人 "wikilink") [Category:1977年生](https://ja.wikipedia.org/wiki/Category:1977年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

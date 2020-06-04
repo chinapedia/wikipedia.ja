@@ -81,7 +81,7 @@ JR Tokyo General Hospital-1a.jpg|病棟とエントランス（2018年10月19日
   - [JR広島病院](../Page/JR広島病院.md "wikilink")
   - [JR札幌病院](../Page/JR札幌病院.md "wikilink")
   - [名古屋セントラル病院](../Page/名古屋セントラル病院.md "wikilink")
-  - [JR九州病院](../Page/JR九州病院.md "wikilink")
+  - [九州鉄道記念病院](../Page/九州鉄道記念病院.md "wikilink")
 
 ## 外部リンク
 

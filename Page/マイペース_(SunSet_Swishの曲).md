@@ -20,7 +20,7 @@
         作詞・作曲:石田順三　編曲:[坂本昌之](../Page/坂本昌之.md "wikilink")・SunSet Swish
     <!-- end list -->
       - テレビ東京系アニメ『BLEACH』第6期エンディングテーマ\[2\]。
-      - [PVには](../Page/ミュージック・ビデオ.md "wikilink")、前作から引き続き[要潤](../Page/要潤.md "wikilink")が出演している。
+      - [PVには](../Page/ミュージック・ビデオ.md "wikilink")、前作から引き続き[要潤](../Page/要潤.md "wikilink")が出演している。なお、PVで共演した要と[加藤美佳](https://ja.wikipedia.org/wiki/加藤美佳 "wikilink")（現・[我謝レイラニ](../Page/我謝レイラニ.md "wikilink")）とは、いずれも東映制作の特撮テレビドラマ[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")に、作品こそ違うが出演していた。（要は、2001年から2002年まで放送の[仮面ライダーアギト](../Page/仮面ライダーアギト.md "wikilink")に氷川誠／G3およびG3X役で、加藤は、2003年から2004年まで放送の[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")に長田結花／クレインオルフェノク役で出演。）
       - 『[ブリコン 〜BLEACH CONCEPT COVERS〜](https://ja.wikipedia.org/wiki/ブリコン_〜BLEACH_CONCEPT_COVERS〜 "wikilink")』（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）において、同アニメで[コン役の](../Page/コン_\(BLEACH\).md "wikilink")[真殿光昭](../Page/真殿光昭.md "wikilink")がカバーした。
       - 2007年には、[阪神タイガース](../Page/阪神タイガース.md "wikilink")・[矢野燿大](../Page/矢野燿大.md "wikilink")捕手の登場曲としても使われた（[甲子園球場限定](https://ja.wikipedia.org/wiki/阪神甲子園球場 "wikilink")）。
 2.  **砂のオブジェ** \[4:45\]

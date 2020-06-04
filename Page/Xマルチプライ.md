@@ -1,7 +1,7 @@
 > この記事は[Xマルチプライ](https://ja.wikipedia.org/wiki/Xマルチプライ)から翻訳されています。
 
 
-『**X MULTIPLY**』（エックスマルチプライ）は、[1989年](../Page/1989年.md "wikilink")に[アイレムから稼働された](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")[アーケード用](../Page/アーケードゲーム.md "wikilink")[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。タイトル画面では「**X∞**」とも表記されている。
+『**X MULTIPLY**』（エックスマルチプライ）は、[1989年](../Page/1989年.md "wikilink")に[アイレムから稼働された](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")専用オリジナルメカ[横スクロールシューティングゲームである](../Page/シューティングゲーム.md "wikilink")。タイトル画面では「**X∞**」とも表記されている。
 
 同社のヒット作である『[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）及び『[R-TYPE II](../Page/R-TYPE_II.md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の実質的続編として製作されたと言われる。『R-TYPE』の[フォースに代わるバリエーションとして自機から](https://ja.wikipedia.org/wiki/R-TYPE#フォース "wikilink")2本の[触手](../Page/触手.md "wikilink")を生やし、それを自機の移動によって操ると言うアイデアが盛り込まれている。
 
@@ -70,7 +70,7 @@
 
   - 人体内部をモデルにした、『R-TYPE』以上にグロテスクなステージの中を進んでいく。敵もほぼ全てが生物的なデザインを持つ。
   - ステージ2は『R-TYPE』に登場する巨大戦艦と同様、複数のエイリアンが融合した合体エイリアンの全身を時計回りに一周しながら撃破する構成になっている。
-  - 各ステージのボスの名称には[クトゥルフ神話](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")に由来するものが散見される（ステージ1「[HOSTUR](../Page/ハスター.md "wikilink")」・ステージ5「[HIDRA](https://ja.wikipedia.org/wiki/ヒュドラ_\(クトゥルフ神話\) "wikilink")」・ステージ7「[BYKHEE](https://ja.wikipedia.org/wiki/バイアクヘー "wikilink")」）。
+  - 各ステージのボスの名称には[クトゥルフ神話](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")に由来するものが散見される（ステージ1「[HOSTUR](../Page/ハスター.md "wikilink")」・ステージ5「[HIDRA](https://ja.wikipedia.org/wiki/ヒュドラ_\(クトゥルフ神話\) "wikilink")」・ステージ7「[BYKHEE](../Page/バイアクヘー.md "wikilink")」）。
   - 最終ステージは、[子宮](../Page/子宮.md "wikilink")内部でエイリアンの遺伝子により[受精](../Page/受精.md "wikilink")した[卵子](https://ja.wikipedia.org/wiki/卵子 "wikilink")を防護する女王エイリアン・BYKHEEとの対決。BYKHEEを撃破した後、[受精卵](../Page/受精卵.md "wikilink")から4体のBYKHEE HEADが孵化する。
 
 ## 音楽

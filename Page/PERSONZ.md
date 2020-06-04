@@ -44,7 +44,7 @@
 8.  [FUTURE STAR](https://ja.wikipedia.org/wiki/FUTURE_STAR "wikilink")（1993年5月12日） - テレビ朝日系『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』エンディング・テーマ
 9.  [I Need You](https://ja.wikipedia.org/wiki/I_Need_You_\(PERSONZの曲\) "wikilink")（1993年11月17日） - ミナミ'94スキーCMソング
 10. [sayonaraは言わない](https://ja.wikipedia.org/wiki/sayonaraは言わない "wikilink")（1994年3月2日） - [劇場アニメ](../Page/アニメーション映画.md "wikilink")『[幽☆遊☆白書 冥界死闘篇 炎の絆](../Page/幽☆遊☆白書_冥界死闘篇_炎の絆.md "wikilink")』主題歌
-11. [悲しみの天使](https://ja.wikipedia.org/wiki/悲しみの天使 "wikilink")（1994年6月1日） - テレビ東京系『[ダイヤモンドサッカー](https://ja.wikipedia.org/wiki/ダイヤモンドサッカー "wikilink")』エンディング・テーマ
+11. [悲しみの天使](https://ja.wikipedia.org/wiki/悲しみの天使_\(曲\) "wikilink")（1994年6月1日） - テレビ東京系『[ダイヤモンドサッカー](https://ja.wikipedia.org/wiki/ダイヤモンドサッカー "wikilink")』エンディング・テーマ
 12. [VENUSの憂鬱](https://ja.wikipedia.org/wiki/VENUSの憂鬱 "wikilink")（1994年11月16日） - フジテレビ系『[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")』エンディング・テーマ
 13. [Stay as a Friend -友達のままで-](https://ja.wikipedia.org/wiki/Stay_as_a_Friend_-友達のままで- "wikilink")（1995年3月1日） - ABC・TV朝日系ドラマ『[SALE\!](../Page/SALE!.md "wikilink")』主題歌
 14. [blue heaven](https://ja.wikipedia.org/wiki/Blue_heaven_\(PERSONZの曲\) "wikilink")（1996年5月9日）
@@ -54,7 +54,7 @@
 18. [DEAR FRIENDS -21st version-](https://ja.wikipedia.org/wiki/DEAR_FRIENDS_-21st_version- "wikilink")（2001年2月9日）
 19. [SINGIN'](https://ja.wikipedia.org/wiki/SINGIN'_\(曲\) "wikilink") （2002年9月26日）
 20. [HEARTSONG](https://ja.wikipedia.org/wiki/HEARTSONG "wikilink")（2006年5月19日） - 携帯限定販売（販売終了）
-21. [BRAVE HEART](https://ja.wikipedia.org/wiki/BRAVE_HEART "wikilink")（2008年5月28日）- デジタルシングル
+21. [BRAVE HEART](https://ja.wikipedia.org/wiki/BRAVE_HEART_\(PERSONZの曲\) "wikilink")（2008年5月28日）- デジタルシングル
 22. [THE ONLY ONE](https://ja.wikipedia.org/wiki/THE_ONLY_ONE_\(曲\) "wikilink")（2008年7月30日）- デジタルシングル
 23. C（2011年1月31日）- LIMITED SINGLES12 - 12ヶ月連続リリースのシングル
 24. C\#（2011年2月25日）- LIMITED SINGLES12 -

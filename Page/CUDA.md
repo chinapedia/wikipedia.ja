@@ -87,11 +87,13 @@ CUDA Toolkit 7.5の対応OSは、Windows 7、Windows 8.1、[Windows 10](https://
 
 CUDA Toolkit 8.0 GA2の対応OSは、Windows 7、Windows 8.1、Windows 10、Windows Server 2008 R2、Windows Server 2012 R2、[Windows Server 2016](https://ja.wikipedia.org/wiki/Windows_Server_2016 "wikilink")、Fedora 23、OpenSUSE 13.2、RHEL 6/7、CentOS 6/7、SLES 11/12、Ubuntu 14.04/16.04、OS X 10.11/10.12である\[40\]。
 
-CUDA Toolkit 9.2の対応OSは、Windows 7、Windows 8.1、Windows 10、Windows Server 2012 R2、Windows Server 2016、Fedora 27、OpenSUSE 42.3、RHEL 6/7、CentOS 6/7、SLES 12、Ubuntu 16.04/17.10、OS X 10.13である\[41\]。
+CUDA Toolkit 9.2の対応OSは、Windows 7、Windows 8.1、Windows 10、Windows Server 2012 R2、Windows Server 2016、Fedora 27、OpenSUSE Leap 42.3、RHEL 6/7、CentOS 6/7、SLES 12、Ubuntu 16.04/17.10、OS X 10.13である\[41\]。
+
+CUDA Toolkit 10.2の対応OSは、Windows 7、Windows 8.1、Windows 10、Windows Server 2012 R2、Windows Server 2016、[Windows Server 2019](https://ja.wikipedia.org/wiki/Windows_Server_2019 "wikilink")、Fedora 29、OpenSUSE 15、RHEL 6/7/8、CentOS 6/7/8、SLES 1512 SP4、Ubuntu 16.04/18.04、OS X 10.13である\[42\]。
 
 ## NVIDIA OptiX
 
-CUDA基盤上に実装されたプログラマブルGPU[レイトレーシング](../Page/レイトレーシング.md "wikilink")エンジンとして、NVIDIAはを公開している\[42\]。OptiXはFermi世代以降のNVIDIA GPU上で利用可能。なお、[After Effects](https://ja.wikipedia.org/wiki/After_Effects "wikilink") CCではレイトレーシングエンジンにOptiXを採用している\[43\]。
+CUDA基盤上に実装されたプログラマブルGPU[レイトレーシング](../Page/レイトレーシング.md "wikilink")エンジンとして、NVIDIAはを公開している\[43\]。OptiXはFermi世代以降のNVIDIA GPU上で利用可能。なお、[After Effects](https://ja.wikipedia.org/wiki/After_Effects "wikilink") CCではレイトレーシングエンジンにOptiXを採用している\[44\]。
 
 ## 対応ソフトウェア
 
@@ -101,7 +103,7 @@ CUDAの演算処理技術を利用するには、上述のハードウェア・O
   - [MediaCoder](../Page/MediaCoder.md "wikilink") ([MediaCoder](../Page/MediaCoder.md "wikilink")) (フリーソフトウェア)
   - [LoiLoTouch](https://ja.wikipedia.org/wiki/LoiLoTouch "wikilink") ([LoiLo](https://ja.wikipedia.org/wiki/LoiLo "wikilink"))
   - [Super LoiLoScope](https://ja.wikipedia.org/wiki/Super_LoiLoScope "wikilink") ([LoiLo](https://ja.wikipedia.org/wiki/LoiLo "wikilink"))
-  - [PowerDirector](../Page/PowerDirector.md "wikilink") ([CyberLink](https://ja.wikipedia.org/wiki/CyberLink "wikilink"))\[44\] - 同社の[SVRT](https://ja.wikipedia.org/wiki/SVRT "wikilink")とは排他利用である\[45\]。
+  - [PowerDirector](../Page/PowerDirector.md "wikilink") ([CyberLink](https://ja.wikipedia.org/wiki/CyberLink "wikilink"))\[45\] - 同社の[SVRT](https://ja.wikipedia.org/wiki/SVRT "wikilink")とは排他利用である\[46\]。
 
 <!-- end list -->
 
@@ -109,10 +111,10 @@ CUDAの演算処理技術を利用するには、上述のハードウェア・O
   - [VideoStudio Pro X3](https://ja.wikipedia.org/wiki/VideoStudio_Pro_X3 "wikilink") ([COREL](https://ja.wikipedia.org/wiki/COREL "wikilink"))
   - [VideoStudio Ultimate X3](https://ja.wikipedia.org/wiki/VideoStudio_Ultimate_X3 "wikilink") ([COREL](https://ja.wikipedia.org/wiki/COREL "wikilink"))
   - [TMPGEnc](../Page/TMPGEnc.md "wikilink") (ペガシス)
-  - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink") CS4 ([Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")) \[46\]
+  - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink") CS4 ([Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")) \[47\]
   - [Adobe After Effects](../Page/Adobe_After_Effects.md "wikilink") CS4 ([Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink"))
-  - [Adobe Premiere](../Page/Adobe_Premiere.md "wikilink") Pro CS4 ([Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")) \[47\]\[48\]
-  - [Blender](../Page/Blender.md "wikilink") ([GPL](https://ja.wikipedia.org/wiki/GPL "wikilink")ライセンスのフリーソフトウェア) \[49\]
+  - [Adobe Premiere](../Page/Adobe_Premiere.md "wikilink") Pro CS4 ([Adobe](https://ja.wikipedia.org/wiki/Adobe "wikilink")) \[48\]\[49\]
+  - [Blender](../Page/Blender.md "wikilink") ([GPL](https://ja.wikipedia.org/wiki/GPL "wikilink")ライセンスのフリーソフトウェア) \[50\]
   - [Vegas Pro](https://ja.wikipedia.org/wiki/Vegas_Pro "wikilink") 10 ([Sony Creative Software](https://ja.wikipedia.org/wiki/Sony_Creative_Software "wikilink"))
   - [パスゲッター](https://ja.wikipedia.org/wiki/パスゲッター "wikilink") ([インターナル](https://ja.wikipedia.org/wiki/インターナル "wikilink"))
   - [Any Video Converter](https://ja.wikipedia.org/wiki/Any_Video_Converter "wikilink") (フリーソフトウェア・シェアソフトウェア)
@@ -129,11 +131,11 @@ CUDAの演算処理技術を利用するには、上述のハードウェア・O
 
 ### MATLAB
 
-[MATLAB](../Page/MATLAB.md "wikilink")とのコラボレーションもサポートされている。MATLABではParallel Computing Toolboxを介してGPUを使用できる\[50\]。重いプログラムスクリプト実行の高速化に寄与する。ただしCUDAの初期化およびメインメモリ-[VRAM](../Page/VRAM.md "wikilink")間のデータ転送に時間がかかるため、短いスクリプトの場合は逆にトータル処理時間でみるとCPUだけ使用するときよりも遅くなる場合もある。[Intel Xeon](https://ja.wikipedia.org/wiki/Intel_Xeon "wikilink") X5650を使った場合と比べて、[NVIDIA Tesla](https://ja.wikipedia.org/wiki/NVIDIA_Tesla "wikilink") C2050を使うことで[FFTが最大](../Page/高速フーリエ変換.md "wikilink")3.5倍高速化されたとの説明がある\[51\]。
+[MATLAB](../Page/MATLAB.md "wikilink")とのコラボレーションもサポートされている。MATLABではParallel Computing Toolboxを介してGPUを使用できる\[51\]。重いプログラムスクリプト実行の高速化に寄与する。ただしCUDAの初期化およびメインメモリ-[VRAM](../Page/VRAM.md "wikilink")間のデータ転送に時間がかかるため、短いスクリプトの場合は逆にトータル処理時間でみるとCPUだけ使用するときよりも遅くなる場合もある。[Intel Xeon](https://ja.wikipedia.org/wiki/Intel_Xeon "wikilink") X5650を使った場合と比べて、[NVIDIA Tesla](https://ja.wikipedia.org/wiki/NVIDIA_Tesla "wikilink") C2050を使うことで[FFTが最大](../Page/高速フーリエ変換.md "wikilink")3.5倍高速化されたとの説明がある\[52\]。
 
 ### OpenCV
 
-[OpenCV](../Page/OpenCV.md "wikilink") 2.2\[52\]でCUDAを使ったアクセラレータであるgpuモジュールが追加された。OpenCV 3.0ではcudaモジュールに改称された。
+[OpenCV](../Page/OpenCV.md "wikilink") 2.2\[53\]でCUDAを使ったアクセラレータであるgpuモジュールが追加された。OpenCV 3.0ではcudaモジュールに改称された。
 
 ## 出典
 
@@ -208,14 +210,15 @@ CUDAの演算処理技術を利用するには、上述のハードウェア・O
 39. [CUDA 7.5 Downloads Archive | NVIDIA Developer](https://developer.nvidia.com/cuda-75-downloads-archive)
 40. [CUDA Toolkit 8.0 - Feb 2017 | NVIDIA Developer](https://developer.nvidia.com/cuda-80-ga2-download-archive)
 41. [CUDA Toolkit 9.2 Download | NVIDIA Developer](https://developer.nvidia.com/cuda-92-download-archive)
-42. [NVIDIA® OptiX™ Ray Tracing Engine](https://developer.nvidia.com/optix)
-43. [GPU changes (for CUDA and OpenGL) in After Effects CC (12.1) | After Effects region of interest](http://blogs.adobe.com/aftereffects/2013/09/gpu-changes-for-cuda-and-opengl-in-after-effects-cc-12-1.html)
-44. [PowerDirector 7|NVIDIA](http://www.nvidia.co.jp/object/applications_powerdirector7_jp.html)
-45. [CyberLink カスタマーサポート](http://support.jp.cyberlink.com/showdoc.asp?f=/common/pdr.7/faq/0001)
-46. [4Gamer.net ― NVIDIA製GPUが「Photoshop」「After Effects」「Premiere Pro」の最新版「CS4」アクセラレーションをサポート。ムービーでその効果をチェック](http://www.4gamer.net/games/032/G003263/20080925009/)
-47. Premiere Pro CCでは、2基の[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") M6000上でCUDAを活用することで、1基の[Intel Xeon](https://ja.wikipedia.org/wiki/Intel_Xeon "wikilink") E5-2697 v3を用いる場合と比較して、最大で24倍の速度性能向上を提供できるとしている。[Adobe Premiere Pro CC – さらにスピーディーなビデオ編集 | NVIDIA](http://www.nvidia.co.jp/object/adobe-premiere-pro-cc-jp.html)
-48. ただし、CUDAによって必ずしも処理が高速化するわけではない。[CUDA/OpenCL/Mercury Playback Engine について（Adobe Premiere Pro）](https://helpx.adobe.com/jp/premiere-pro/kb/cpsid_89467.html)
-49. [Doc:JA/2.6/Manual/Render/Cycles/GPU Rendering - BlenderWiki](http://wiki.blender.org/index.php/Doc:JA/2.6/Manual/Render/Cycles/GPU_Rendering)
-50. [NVIDIA CUDA に対応した GPU に対する MATLAB GPU 演算のサポート - MATLAB & Simulink](https://jp.mathworks.com/discovery/matlab-gpu.html)
-51. [Using GPUs in MATLAB » Loren on the Art of MATLAB](https://blogs.mathworks.com/loren/2012/02/06/using-gpus-in-matlab/)
-52. [OpenCV 2.2 Released - ROS robotics news](http://www.ros.org/news/2010/12/opencv-22-released.html)
+42.
+43. [NVIDIA® OptiX™ Ray Tracing Engine](https://developer.nvidia.com/optix)
+44. [GPU changes (for CUDA and OpenGL) in After Effects CC (12.1) | After Effects region of interest](http://blogs.adobe.com/aftereffects/2013/09/gpu-changes-for-cuda-and-opengl-in-after-effects-cc-12-1.html)
+45. [PowerDirector 7|NVIDIA](http://www.nvidia.co.jp/object/applications_powerdirector7_jp.html)
+46. [CyberLink カスタマーサポート](http://support.jp.cyberlink.com/showdoc.asp?f=/common/pdr.7/faq/0001)
+47. [4Gamer.net ― NVIDIA製GPUが「Photoshop」「After Effects」「Premiere Pro」の最新版「CS4」アクセラレーションをサポート。ムービーでその効果をチェック](http://www.4gamer.net/games/032/G003263/20080925009/)
+48. Premiere Pro CCでは、2基の[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") M6000上でCUDAを活用することで、1基の[Intel Xeon](https://ja.wikipedia.org/wiki/Intel_Xeon "wikilink") E5-2697 v3を用いる場合と比較して、最大で24倍の速度性能向上を提供できるとしている。[Adobe Premiere Pro CC – さらにスピーディーなビデオ編集 | NVIDIA](http://www.nvidia.co.jp/object/adobe-premiere-pro-cc-jp.html)
+49. ただし、CUDAによって必ずしも処理が高速化するわけではない。[CUDA/OpenCL/Mercury Playback Engine について（Adobe Premiere Pro）](https://helpx.adobe.com/jp/premiere-pro/kb/cpsid_89467.html)
+50. [Doc:JA/2.6/Manual/Render/Cycles/GPU Rendering - BlenderWiki](http://wiki.blender.org/index.php/Doc:JA/2.6/Manual/Render/Cycles/GPU_Rendering)
+51. [NVIDIA CUDA に対応した GPU に対する MATLAB GPU 演算のサポート - MATLAB & Simulink](https://jp.mathworks.com/discovery/matlab-gpu.html)
+52. [Using GPUs in MATLAB » Loren on the Art of MATLAB](https://blogs.mathworks.com/loren/2012/02/06/using-gpus-in-matlab/)
+53. [OpenCV 2.2 Released - ROS robotics news](http://www.ros.org/news/2010/12/opencv-22-released.html)

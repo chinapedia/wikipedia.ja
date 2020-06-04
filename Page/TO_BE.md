@@ -5,7 +5,7 @@
 
 ## 解説
 
-シングルとしては前作「[LOVE〜Destiny〜/LOVE〜since 1999〜](https://ja.wikipedia.org/wiki/LOVE〜Destiny〜/LOVE〜since_1999〜 "wikilink")」からわずか1か月でのリリースとなり、浜崎にとって最後の8cmシングルとなった。前作発売前の4月1日から前年[華原朋美](../Page/華原朋美.md "wikilink")が出演して流行語にもなった[JT](https://ja.wikipedia.org/wiki/JT "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMキャラクターに新たに起用され、タイアップ曲として大量放映されていた。
+シングルとしては前作「[LOVE〜Destiny〜/LOVE〜since 1999〜](https://ja.wikipedia.org/wiki/LOVE〜Destiny〜/LOVE〜since_1999〜 "wikilink")」からわずか1か月でのリリースとなり、浜崎にとって最後の8cmシングルとなった。前作発売前の4月1日から前年[華原朋美](../Page/華原朋美.md "wikilink")が出演して流行語にもなった[JT](https://ja.wikipedia.org/wiki/JT "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」CMキャラクターに新たに起用され、タイアップ曲として大量放映されていた。ロングセラーだった前作には及ばず売上は半減した。
 
 「TO BE」というタイトルは[シェイクスピアの作品](../Page/ウィリアム・シェイクスピア.md "wikilink")『[ハムレット](../Page/ハムレット.md "wikilink")』の有名な台詞、「[To be or not to be](https://ja.wikipedia.org/wiki/ハムレット#有名な台詞 "wikilink")」の「To be（生きるべき）」から付けられた\[1\]。
 

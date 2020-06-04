@@ -40,7 +40,7 @@
 10. **[HOLY BLOOD 〜闘いの血統〜](../Page/メフィストフェレスの肖像.md "wikilink")**（作詞・作曲:Sgt. ルーク篁III世、編曲: 松崎雄一）
 11. **[1999 SECRET OBJECT](https://ja.wikipedia.org/wiki/1999_SECRET_OBJECT "wikilink")**（作詞: デーモン小暮、作曲: Sgt. ルーク篁III世、編曲: 聖飢魔II、松崎雄一）
 12. **[OVERTURE 〜 BAD AGAIN 〜美しき反逆〜](../Page/BAD_AGAIN_〜美しき反逆〜.md "wikilink")**（作詞:デーモン小暮、作曲:Sgt. ルーク篁III世、編曲: 聖飢魔II、松崎雄一）
-13. **[EL. DORADO](../Page/EL._DORADO.md "wikilink")**（作詞:デーモン小暮、作曲:デーモン小暮、[紫馬肥](https://ja.wikipedia.org/wiki/紫馬肥 "wikilink")、編曲: 聖飢魔II）
+13. **[EL. DORADO](../Page/EL._DORADO.md "wikilink")**（作詞:デーモン小暮、作曲:デーモン小暮、[紫馬肥](https://ja.wikipedia.org/wiki/聖飢魔II#結成〜地球デビュー "wikilink")、編曲: 聖飢魔II）
 
 <!-- end list -->
 

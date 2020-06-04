@@ -7,7 +7,7 @@
 
 現在は[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")[ローカル](../Page/ローカル.md "wikilink")のスポットニュース番組として放送されており、本番組がOHKの平日最終ニュース枠となっている。
 
-[2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")までは『**OHKフラッシュニュース FNN**』として、21時前の全国ニュース（『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』→『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』）の差し替えタイトルとしても使われていたが、同年[3月30日](../Page/3月30日.md "wikilink")からは[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")・[フジテレビと同じタイトル](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』→『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』→『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』）で放送され、[2018年](../Page/2018年.md "wikilink")3月末で廃枠となった。
+[2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")までは『**OHKフラッシュニュース FNN**』として、21時前の全国ニュース（『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』→『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』）の差し替えタイトルとしても使われていたが、同年[3月30日](../Page/3月30日.md "wikilink")からは[キー局](../Page/キー局.md "wikilink")・[フジテレビと同じタイトル](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』→『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』→『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』）で放送され、[2018年](../Page/2018年.md "wikilink")3月末で廃枠となった。
 
 以前はネットニュースが『**OHKフラッシュナイト FNN**』、ローカルニュースは『**OHKフラッシュナイト**』というタイトルだった。
 

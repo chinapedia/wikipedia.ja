@@ -24,4 +24,4 @@
   - [KTVニュース](../Page/KTVニュース.md "wikilink")
   - [KTVニュースフラッシュ](../Page/KTVニュースフラッシュ.md "wikilink")
 
-[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:関西テレビのミニ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのミニ番組 "wikilink") [Category:関西テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの帯番組の歴史 "wikilink") [Category:産経新聞の歴史](https://ja.wikipedia.org/wiki/Category:産経新聞の歴史 "wikilink")
+[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:関西テレビのミニ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのミニ番組 "wikilink") [Category:関西テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの帯番組の歴史 "wikilink") [Category:産経新聞社のニュース番組](https://ja.wikipedia.org/wiki/Category:産経新聞社のニュース番組 "wikilink")

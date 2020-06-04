@@ -7,7 +7,7 @@
 
 前作『[地獄より愛をこめて](../Page/地獄より愛をこめて.md "wikilink")』のメインコンポーザー[ジェイル大橋代官の脱退後](../Page/大橋隆志.md "wikilink")、聖飢魔IIは[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、13番目の構成員として[Sgt. ルーク篁III世参謀を迎え入れた](../Page/ルーク篁.md "wikilink")。ちなみにこの悪魔事異動（[メンバーチェンジ](https://ja.wikipedia.org/wiki/メンバーチェンジ "wikilink")）は聖飢魔II史上最後のもので、以降解散まで同じ構成員で活動していくこととなる。
 
-なお、ルーク参謀は、アマチュア時代に[デーモン小暮閣下とともに聖飢魔IIの別働隊バンド](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[紫馬肥](https://ja.wikipedia.org/wiki/紫馬肥 "wikilink")（むらさきうまごやし）のメンバーとして活動しており、先に発布された小教典「[EL・DO・RA・DO](../Page/EL._DORADO.md "wikilink")」（前大教典『地獄より愛をこめて』にも収録）において、作曲者として「[紫馬肥](https://ja.wikipedia.org/wiki/紫馬肥 "wikilink")」の名義でクレジットされていた。
+なお、ルーク参謀は、アマチュア時代に[デーモン小暮閣下とともに聖飢魔IIの別働隊バンド](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[紫馬肥](https://ja.wikipedia.org/wiki/聖飢魔II#結成〜地球デビュー "wikilink")（むらさきうまごやし）のメンバーとして活動しており、先に発布された小教典「[EL・DO・RA・DO](../Page/EL._DORADO.md "wikilink")」（前大教典『地獄より愛をこめて』にも収録）において、作曲者として「紫馬肥」の名義でクレジットされていた。
 
 ルーク参謀を迎え入れた聖飢魔IIは前作までのような、ある特定の構成員が殆どの楽曲の作曲を担当するのではなく、各構成員が作曲を手がける手法をとり今作の制作に臨んだ。
 

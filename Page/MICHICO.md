@@ -446,7 +446,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
 
 ## 外部リンク
 
-  - [MICHICO（Sony Music Online Japan）](http://www.sonymusic.co.jp/Music/Arch/SR/Michico/)
+  - [MICHICO（Sony Music Online Japan）](https://www.sonymusic.co.jp/artist/Michico/)
 
   - [Sony Music Publishing (Japan) Inc.｜michico](http://smpj.jp/songwriters/michico/)
 

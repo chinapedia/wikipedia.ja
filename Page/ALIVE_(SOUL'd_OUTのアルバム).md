@@ -9,6 +9,8 @@
 
 ## 収録曲
 
+## 楽曲解説
+
 1.  **Deep Space (Intro)**
 2.  **[ALIVE](../Page/ALIVE_\(SOUL'd_OUTの曲\).md "wikilink")**
 3.  **[TOKYO通信〜Urbs Communication〜](../Page/TOKYO通信〜Urbs_Communication〜.md "wikilink")**
@@ -16,18 +18,20 @@
         シングルバージョンと若干異なる。
 4.  **Pop n' Top**
       -
-        シングルカットの候補に上がっていた。
+        シングルカットの候補に上がっていた。『Pop n' Top』と題したアナログ盤が同年6月21日に発売されている\[1\]。
 5.  **Dressing Room (Interlude)**
 6.  **[Catwalk](../Page/Catwalk.md "wikilink")**
       -
         後に[リカット](../Page/リカット.md "wikilink")された。
 7.  **DD弾\[改\]**
       -
-        後半部分の歌詞が非公開である。
+        シングル「ALIVE」のカップリング"DD弾"の別バージョン。後半部分の歌詞が非公開である。
 8.  **バナナスプリット**
       -
         制作段階の仮タイトルは「スノースライダー」だった。
 9.  **SHUFFLE DAYZ**
+      -
+        次作『[ATTITUDE](../Page/ATTITUDE_\(SOUL'd_OUTのアルバム\).md "wikilink")』にはこの曲のパート2が収録された。
 10. **A Spacious Floor**
 11. **Sick**
       -
@@ -35,7 +39,14 @@
 12. **FIRE RHYMER**
 13. **[イルカ](../Page/イルカ_\(SOUL'd_OUTの曲\).md "wikilink")**
       -
-        表記はないが、アルバムバージョンである。
+        表記はないが、アルバムバージョンである。このアルバムでの曲順や位置付けを非常に迷ったという\[2\]。
 14. **Morning (Outro)**
 
+## 脚注
+
+<references />
+
 [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:SOUL'd_OUTのアルバム](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTのアルバム "wikilink")
+
+1.
+2.

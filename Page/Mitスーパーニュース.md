@@ -191,7 +191,7 @@
 
   - [伊藤里紗](https://ja.wikipedia.org/wiki/伊藤里紗 "wikilink")（土曜・日曜担当）
   - [春山恵理](../Page/春山恵理.md "wikilink")（2005年6月 - 2006年3月。千葉絢子が産休の間代理でキャスターを担当）
-  - [物袋綾子](../Page/物袋綾子.md "wikilink")（2003年 - 2005年。現・[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")アナウンサー）
+  - [物袋綾子](../Page/物袋綾子.md "wikilink")（2003年 - 2005年。現・[秋田放送](../Page/秋田放送.md "wikilink")アナウンサー）
   - [川原弓奈](https://ja.wikipedia.org/wiki/川原弓奈 "wikilink")（2006年。天気予報担当。現・フリーアナウンサー）
   - [古川興二](../Page/古川興二.md "wikilink")（現・[静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")アナウンサー）
   - [佐藤雪江](https://ja.wikipedia.org/wiki/佐藤雪江 "wikilink")（現・フリーアナウンサー）

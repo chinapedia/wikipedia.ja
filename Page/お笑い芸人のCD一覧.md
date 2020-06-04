@@ -209,7 +209,7 @@
 
   - WEST END×YUKI from [O.P.D.](../Page/大阪パフォーマンスドール.md "wikilink")（[今田耕司](../Page/今田耕司.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[武内由紀子](../Page/武内由紀子.md "wikilink")）
       - [SO.YA.NA.](https://ja.wikipedia.org/wiki/DA.YO.NE#SO.YA.NA "wikilink")（[EAST END×YURI](../Page/EAST_END×YURI.md "wikilink")「DA.YO.NE.」の[パロディ](../Page/パロディ.md "wikilink")ソング、1995年2月22日）
-  - [U.N.O.BAND](https://ja.wikipedia.org/wiki/U.N.O.BAND "wikilink")（[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[田中卓志](../Page/田中卓志.md "wikilink")、[山根良顕](../Page/山根良顕.md "wikilink")、[山田一成](https://ja.wikipedia.org/wiki/山田一成 "wikilink")、[菊地秀規](https://ja.wikipedia.org/wiki/菊地秀規 "wikilink")）
+  - [U.N.O.BAND](https://ja.wikipedia.org/wiki/U.N.O.BAND "wikilink")（[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[田中卓志](../Page/田中卓志.md "wikilink")、[山根良顕](../Page/山根良顕.md "wikilink")、[山田一成](../Page/いつもここから.md "wikilink")、[菊地秀規](https://ja.wikipedia.org/wiki/菊地秀規 "wikilink")）
       - NO.1（2005年11月23日）
   - [エキセントリック少年ボウイオールスターズ](../Page/エキセントリック少年ボウイオールスターズ.md "wikilink")（[松本人志](../Page/松本人志.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[今田耕司](../Page/今田耕司.md "wikilink")、[板尾創路](../Page/板尾創路.md "wikilink")、[ほんこん](../Page/ほんこん.md "wikilink")）
       - [「エキセントリック少年ボウイ」のテーマ](https://ja.wikipedia.org/wiki/「エキセントリック少年ボウイ」のテーマ "wikilink")（1997年9月25日）

@@ -25,7 +25,7 @@
 
 同郷の[HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")・[Nobodyknows+](../Page/Nobodyknows+.md "wikilink") ・[AZU](../Page/AZU.md "wikilink")やギャングスタラップ風日本語ラップの["E"qual](../Page/"E"qual.md "wikilink")とは現在も交流があり、以前は[TOKONA-X](../Page/TOKONA-X.md "wikilink")とも親交があった。特に後輩でもあるHOME MADE 家族にはシーモネーター時代から「てんぐの兄貴」と呼ばれている。シーモネーターとして活動していたころに、愛知県を中心に展開する弁当チェーン「[ベントマン](../Page/ベントマン.md "wikilink")」に[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")を提供している。スポーツは名古屋を本拠地とする[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")のファン。
 
-趣味は[競馬](../Page/競馬.md "wikilink")で、最も好きな馬は[笠松競馬場](../Page/笠松競馬場.md "wikilink")から[中央競馬](../Page/中央競馬.md "wikilink")に移籍して大レースで好勝負を繰り広げた[オグリキャップ](../Page/オグリキャップ.md "wikilink")だという。自身で[一口馬主](../Page/一口馬主.md "wikilink")としても出資しており\[2\]、現役では[ウインガニオン](https://ja.wikipedia.org/wiki/ウインガニオン "wikilink")（2017年[中京記念](../Page/中京記念.md "wikilink")）\[3\]、エピカリス（2017年UAEダービー2着）、ルーカス（2017年東京スポーツ杯2歳S2着、GI6勝馬[モーリスの](https://ja.wikipedia.org/wiki/モーリス_\(競走馬\) "wikilink")[全弟](https://ja.wikipedia.org/wiki/競走馬の血統#兄弟姉妹の関係 "wikilink")）、過去にはウイントリガー（[クローバー賞](../Page/クローバー賞.md "wikilink")）\[4\]、[タッチングスピーチ](https://ja.wikipedia.org/wiki/タッチングスピーチ "wikilink")（2015年[ローズステークス](../Page/ローズステークス.md "wikilink")）、[レッドアリオン](https://ja.wikipedia.org/wiki/レッドアリオン "wikilink")（2015年[マイラーズカップ](../Page/マイラーズカップ.md "wikilink")）などに出資している\[5\]。その延長で[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](../Page/馬主.md "wikilink")資格も取得している\[6\]。
+趣味は[競馬](../Page/競馬.md "wikilink")で、最も好きな馬は[笠松競馬場](../Page/笠松競馬場.md "wikilink")から[中央競馬](../Page/中央競馬.md "wikilink")に移籍して大レースで好勝負を繰り広げた[オグリキャップ](../Page/オグリキャップ.md "wikilink")だという。自身で[一口馬主](../Page/一口馬主.md "wikilink")としても出資しており\[2\]、現役では[ラウダシオン](https://ja.wikipedia.org/wiki/ラウダシオン "wikilink")(2020年[NHKマイルカップ](../Page/NHKマイルカップ.md "wikilink"))、[ルフトシュトローム](../Page/ルフトシュトローム.md "wikilink")(2020年[ニュージーランドトロフィー](../Page/ニュージーランドトロフィー.md "wikilink"))\[3\]、ルーカス(2017年東京スポーツ杯2歳S2着、GI6勝馬[モーリスの](https://ja.wikipedia.org/wiki/モーリス_\(競走馬\) "wikilink")[全弟](https://ja.wikipedia.org/wiki/競走馬の血統#兄弟姉妹の関係 "wikilink"))、過去にはエピカリス(2017年UAEダービー2着)、[ウインガニオン](https://ja.wikipedia.org/wiki/ウインガニオン "wikilink")(2017年[中京記念](../Page/中京記念.md "wikilink"))、[タッチングスピーチ](https://ja.wikipedia.org/wiki/タッチングスピーチ "wikilink")(2015年[ローズステークス](../Page/ローズステークス.md "wikilink"))、[レッドアリオン](https://ja.wikipedia.org/wiki/レッドアリオン "wikilink")(2015年[マイラーズカップ](../Page/マイラーズカップ.md "wikilink"))などに出資している\[4\]。その延長で[地方競馬](../Page/地方競馬.md "wikilink")の[馬主](../Page/馬主.md "wikilink")資格も取得している\[5\]。
 
 自身の経験を基にした書籍を出版したり、[ナガシマスパーランド](../Page/ナガシマスパーランド.md "wikilink")での夏フェス「[TOKAI SUMMIT](../Page/TOKAI_SUMMIT.md "wikilink")」を発起するなどの活動を行っている。
 
@@ -36,7 +36,7 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[NEWSと](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")[MUSIC STATIONで共演](https://ja.wikipedia.org/wiki/MUSIC_STATION "wikilink")。その時にオファーを受けたことが、[Happy Birthday (NEWSの曲)の楽曲提供につながった](https://ja.wikipedia.org/wiki/Happy_Birthday_\(NEWSの曲\) "wikilink")。
   - 上述のナゴヤドームでの始球式の際、中日ドラゴンズの[澤井道久](../Page/澤井道久.md "wikilink")（打席に入る時の音楽に『Champion Road』を使用）から「いつもクルマの中で聞いています。サインを下さい」と声を掛けられ大変感激したという（沢井が中日の選手として初めてSEAMOの楽曲を採用したことにも感激していた。また試合出場予定のなかった[朝倉健太](../Page/朝倉健太.md "wikilink")や[長峰昌司](../Page/長峰昌司.md "wikilink")らとベンチ裏で記念撮影をしている（以上は[中日スポーツ](../Page/中日スポーツ.md "wikilink")の記事より）。始球式の後は[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")の野球中継の副音声放送で[つボイノリオ](../Page/つボイノリオ.md "wikilink")と共演し、「エロ音声」と銘打った中継を行なった。なお、二人とも[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")のDJ経験者だが偶然にも放送時間帯はともに「金曜2部」（土曜朝3時）からだった。（SEAMOはシーモネーター名義でDJ TAKI-SHITとの共演、番組名はオールナイトニッポンRだった）
   - [東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")に登った際、大展望台の1階のガラス張りの床から下をまともに見られなかったほどの、高所恐怖癖である。そのため[ジェットコースター](https://ja.wikipedia.org/wiki/ジェットコースター "wikilink")も苦手である（「Live Goes On」収録の「Rhyme Jet Coaster」の中で暴露）。
-  - シーモネーターとしての活動末期の頃から[パチスロ](../Page/パチスロ.md "wikilink")にはまり、一時は[スロプロ](https://ja.wikipedia.org/wiki/スロプロ "wikilink")として生計を立てていたという。本人によれば『[北斗の拳](../Page/北斗の拳_\(パチスロ\).md "wikilink")』（[サミー](../Page/サミー.md "wikilink")）のバトルボーナス継続回数は最高46回。また「マタアイマショウ」のCD発売当日も仕事が夕方からのラジオ出演のみだったため、朝からパチンコホールの開店待ち行列に並んでいたほど\[7\]。そのせいもあって、曲の歌詞の中にパチスロの機種名が登場したこともある（「Live Goes On」収録の「Mr.Girl Hunter」の中に『[押忍\!番長](../Page/押忍!番長.md "wikilink")』が登場するなど）。
+  - シーモネーターとしての活動末期の頃から[パチスロ](../Page/パチスロ.md "wikilink")にはまり、一時は[スロプロ](https://ja.wikipedia.org/wiki/スロプロ "wikilink")として生計を立てていたという。本人によれば『[北斗の拳](../Page/北斗の拳_\(パチスロ\).md "wikilink")』（[サミー](../Page/サミー.md "wikilink")）のバトルボーナス継続回数は最高46回。また「マタアイマショウ」のCD発売当日も仕事が夕方からのラジオ出演のみだったため、朝からパチンコホールの開店待ち行列に並んでいたほど\[6\]。そのせいもあって、曲の歌詞の中にパチスロの機種名が登場したこともある（「Live Goes On」収録の「Mr.Girl Hunter」の中に『[押忍\!番長](../Page/押忍!番長.md "wikilink")』が登場するなど）。
   - シーモネーターとして[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")に一度出演した際にはジャンプスーツを使用した。
   - [グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")好きで細かい動向をチェックしているらしく、2007年5月放送の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[魁\!音楽番付](../Page/魁!音楽番付.md "wikilink")」に出演した際、対談インタビュー相手の元競馬キャスター[杉本清](../Page/杉本清.md "wikilink")を相手に「お気に入りの[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")」として[白鳥百合子](../Page/白鳥百合子.md "wikilink")の名前を挙げている。また同番組中には「グラビアアイドル、[サラブレッド](../Page/サラブレッド.md "wikilink")、[スポーツカー](../Page/スポーツカー.md "wikilink")はSEAMOの3大セクシー」とも発言している。
   - 好きなマンガは『[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")』 『[魁\!\!男塾](../Page/魁!!男塾.md "wikilink")』『[男樹](https://ja.wikipedia.org/wiki/男樹 "wikilink")』『[天地を喰らう](../Page/天地を喰らう.md "wikilink")』『[サラリーマン金太郎](../Page/サラリーマン金太郎.md "wikilink")』『[クロカン](https://ja.wikipedia.org/wiki/クロカン_\(漫画\) "wikilink")』。
@@ -771,6 +771,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - COUNT DOWN TV（2011年4月3日）「約束」をパフォーマンス
   - サタテン(NHK名古屋)（2011年4月15日）「Lost Boy」、「MOTHER」をパフォーマンス
   - ドラマ「視覚探偵 日暮旅人」（日本テレビ系列）吉見まさお役でゲスト出演
+  - 翔べ！工業高校マーチングバンド部〜泣き虫 先生が僕らに教えてくれたこと〜 (2020年4月4日、[中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink"))- [エアポートウォーク名古屋](../Page/エアポートウォーク名古屋.md "wikilink")でのイベントのMC役
 
 ### ラジオ
 
@@ -783,7 +784,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - 「SUNMALL LIVE ON RADIO」（[HFM](../Page/広島エフエム放送.md "wikilink")、土曜日18:00 - ）準レギュラー
   - 「[杉本清のK-BAR](https://ja.wikipedia.org/wiki/杉本清のK-BAR "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")、金曜日19:30 - ）レギュラーではないがサブレギュラー扱いになっている。この番組では「杉本シーモ」と名乗っており、番組ジングルも彼が手がけている。[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送では[ドバイワールドカップ](../Page/ドバイワールドカップ.md "wikilink")の取材に出かけた[杉本清](../Page/杉本清.md "wikilink")、6月23日の放送では[ワールドカップ](../Page/ワールドカップ.md "wikilink")の取材に出かけた[藤丸由華](../Page/藤丸由華.md "wikilink")のピンチヒッターでパーソナリティを担当した。8月はほぼ毎週レース予想のメールを送り、[12月23日](../Page/12月23日.md "wikilink")の放送でも[第51回有馬記念](../Page/第51回有馬記念.md "wikilink")の予想メールを送っていた。
   - 「[SEAMOの合格\!天狗ゼミナール](../Page/SEAMOの合格!天狗ゼミナール.md "wikilink")」（[JFNCファイル配信](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
-  - TOKAIRADIO × TSUTAYA LIFESTYLE MUSIC 929（[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、[2015年](../Page/2015年.md "wikilink")10月 - ）金曜日パーソナリティ\[8\]。
+  - TOKAIRADIO × TSUTAYA LIFESTYLE MUSIC 929（[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、[2015年](../Page/2015年.md "wikilink")10月 - ）金曜日パーソナリティ\[7\]。
   - 「JOYFUL」（ZIP-FM、金曜日13:00 - ）ミュージックナビゲーター
 
 ## 出演イベント
@@ -917,8 +918,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 1.
 2.
 3.
-4.  2007年10月15日放送の『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』《フジテレビ》にて
+4.
 5.
-6.
-7.  『[競馬最強の法則](../Page/競馬最強の法則.md "wikilink")』（[KKベストセラーズ](https://ja.wikipedia.org/wiki/KKベストセラーズ "wikilink")）2008年12月号 pp.124 - 125
-8.
+6.  『[競馬最強の法則](../Page/競馬最強の法則.md "wikilink")』（[KKベストセラーズ](https://ja.wikipedia.org/wiki/KKベストセラーズ "wikilink")）2008年12月号 pp.124 - 125
+7.

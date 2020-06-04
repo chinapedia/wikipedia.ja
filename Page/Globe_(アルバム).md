@@ -18,6 +18,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 | Certification =
 
   - 4ミリオン（[日本レコード協会](../Page/日本レコード協会.md "wikilink")）
+  - [第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")・アルバム大賞
   - 第11回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")
     グランプリ・アルバム賞（邦楽）\[1\]
 
@@ -31,7 +32,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
 
 小室は「**僕の音楽活動の中で得たもの全てを投入しました。最初の0秒から57分03秒までアルバムのどこを切り取って聴いて頂いても、恥ずかしい所はありません**」と断言するほどの自信を見せていた\[2\]。
 
-[オリコンにおいて](../Page/オリコンチャート.md "wikilink")、初週（集計された日は発売日の3月31日のみ）と2週目でそれぞれ100万枚以上を売り上げ、発売2週目で売上200万枚を突破、5週目には300万枚を突破する。いずれも当時の最速記録である。また、2週目の売上としては歴代最高となる105万枚を記録している。1996年5月、当時オリコンにおけるアルバムの歴代最高売上記録を保持していた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』の累積売上343万枚を突破して記録を更新する。1996年6月、[日本レコード協会](../Page/日本レコード協会.md "wikilink")から4ミリオンの認定を受けた最初の作品となった\[3\]。1997年2月にはオリコン史上初となるアルバムセールス400万枚を突破した。発売元の[エイベックスによる売上枚数は](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")1997年4月26日までの時点で455万枚\[4\]。
+[オリコンにおいて](../Page/オリコンチャート.md "wikilink")、初週（集計された日は発売日の3月31日のみ）と2週目でそれぞれ100万枚以上を売り上げ、発売2週目で売上200万枚を突破、5週目には300万枚を突破する。いずれも当時の最速記録である。また、2週目の売上としては歴代最高となる105万枚を記録している。1996年5月、当時オリコンにおけるアルバムの歴代最高売上記録を保持していた[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』の累積売上343万枚を突破して記録を更新する。1996年6月、[日本レコード協会](../Page/日本レコード協会.md "wikilink")から4ミリオンの認定を受けた最初の作品となった\[3\]。1997年2月にはオリコン史上初となるアルバムセールス400万枚を突破した。発売元の[エイベックスによる売上枚数は](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")1997年4月26日までの時点で413.7万枚\[4\]。
 
 [第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム大賞受賞\[5\]。
 
@@ -90,7 +91,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
         作詞:小室哲哉　Rap詞:MARC
         4thシングル
         [JR東日本](../Page/東日本旅客鉄道.md "wikilink")『JR ski ski キャンペーン』[CMソング](../Page/コマーシャルソング.md "wikilink")
-        歌詞カード等に記載は無いもののアルバムヴァージョンであり、公式サイト内の「DISCOGRAPHY」では(ALBUM MIX)と表記されている\[30\]。
+        歌詞カード等に記載は無いもののアルバムヴァージョンであり、公式サイト内の「DISCOGRAPHY」やCDの外装フィルムに貼られたシールには(ALBUM MIX)と表記されている\[30\]。
         「アルバムの中の1曲に過ぎない」という意向から、シングル盤よりリズムを上げて、頭のサビがカットされた\[31\]。新たにRap詞が間奏に追加されている。
 5.  **Regret of the Day**(5:18)
       -
@@ -108,7 +109,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
       -
         作詞:小室哲哉
         3rdシングル
-        歌詞カード等に記載は無いもののアルバムヴァージョンであり、では(NEW VERSION)と表記されている。
+        歌詞カード等に記載は無いもののアルバムヴァージョンであり、CDの外装フィルムに貼られたシールには(NEW VERSION)と表記されている。
         [TDK](../Page/TDK.md "wikilink")『ミニディスク』CMソング
 8.  **Always Together**(5:15)
       -
@@ -124,7 +125,7 @@ WOODSTOCK KARUIZAWA RECORDING studio | Genre = [J-POP](../Page/J-POP.md "wikilin
       -
         作詞:小室哲哉\&MARC
         5thシングル
-        歌詞カード等に記載は無いもののアルバムヴァージョンであり、一部では(NO EDITED)と表記されている。
+        歌詞カード等に記載は無いもののアルバムヴァージョンであり、CDの外装フィルムに貼られたシールには(NO EDITED)と表記されている。
         [KDDCMソング](../Page/国際電信電話.md "wikilink")
 11. **MUSIC TAKES ME HIGHER**(4:21)
       -

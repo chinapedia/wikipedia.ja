@@ -148,7 +148,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マインドハンター" title="wikilink">マインドハンター</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/マインドハンター_(映画)" title="wikilink">マインドハンター</a><br />
 <em>Mindhunters</em></p></td>
 <td><p>ゲイブ・ヤンセン</p></td>
 <td></td>

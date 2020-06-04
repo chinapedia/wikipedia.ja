@@ -11,7 +11,7 @@
 
 当時は家庭にデジタル放送機器がそれほど普及していなかったため、視聴者は数少なかった（[BSフジ](../Page/BSフジ.md "wikilink")での「[アイドルダウンロードショー](../Page/鈴木あみのアイドルダウンロードショー.md "wikilink")」も同様）が、後に女優、タレントとしてメジャーになったメンバーも出演。[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")、[マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")（当時の芸名は、赤川こはる）、[佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")、[枡田絵理奈](https://ja.wikipedia.org/wiki/枡田絵理奈 "wikilink")（元[TBSアナウンサー](../Page/TBSテレビ.md "wikilink")。[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")・[堂林翔太](https://ja.wikipedia.org/wiki/堂林翔太 "wikilink")夫人）、[小嶋陽菜](https://ja.wikipedia.org/wiki/小嶋陽菜 "wikilink")（元[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）、[海保エミリ](../Page/海保エミリ.md "wikilink")のTV初出演番組である。番組末期には、のちに声優として人気を得る[中島愛も出演していた](../Page/中島愛_\(声優\).md "wikilink")。
 
-[大塚製薬](../Page/大塚製薬.md "wikilink")の単枠提供で出演者の飲み物も[ポカリスエット](../Page/ポカリスエット.md "wikilink")で統一されていた。その他、最初の半年間の提供スポンサーは、[ロッテ](../Page/ロッテ.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")（NEC）、[富士フイルム](../Page/富士フイルム.md "wikilink")だった（ロッテ以外のスポンサーは、半年で提供終了）。
+[大塚製薬](../Page/大塚製薬.md "wikilink")の単枠提供で出演者の飲み物も[ポカリスエット](../Page/ポカリスエット.md "wikilink")で統一されていた。その他、最初の半年間の提供スポンサーは、[ロッテ](../Page/ロッテ.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")（NEC）、[富士フイルム](../Page/富士フイルム.md "wikilink")だったが、ロッテ以外のスポンサーは、半年で提供終了した。
 
 ちなみに番組名のロンチャーズ(Launchers)とは発射台のことである。
 
@@ -135,7 +135,7 @@
 
   - Launchers「Hello...goodbye/気分はSuper Girl\!」（2001年7月28日、ColumBS、CLM-001）
       - 「[Hello...good bye](https://ja.wikipedia.org/wiki/Hello...good_bye "wikilink")」は[RAMJET PULLEYの楽曲のカバーである](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")。但し、作詞はRAMJET PULLEY版と同じ[麻越さとみ](https://ja.wikipedia.org/wiki/麻越さとみ "wikilink")だが、RAMJET PULLEY版とは**歌詞が全く異なる**。
-      - 「気分はSuper Girl\!」は[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")、[doaの](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")から楽曲提供を受けている。
+      - 「気分はSuper Girl\!」は[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")、[doaの](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")[徳永暁人](../Page/徳永暁人.md "wikilink")から楽曲提供を受けている。
       - 後輩にあたる[ももいろクローバーと](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")[マジェスティックセブン](https://ja.wikipedia.org/wiki/マジェスティックセブン "wikilink")（MJ7）が、それぞれ両楽曲ともにカバーしている。（「Hello...good bye」はLaunchers版の歌詞をカバー。）
 
 ## イベント

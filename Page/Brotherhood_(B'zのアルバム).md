@@ -9,7 +9,7 @@
 
 8thアルバム『[LOOSE](../Page/LOOSE.md "wikilink")』及び、9thアルバム『[SURVIVE](../Page/SURVIVE.md "wikilink")』同様通常盤のみで、[スリーブ仕様となっている](https://ja.wikipedia.org/wiki/箱#形状・機能別名称 "wikilink")。[ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")のミリオンダラー・ホテルで撮影されたもので\[1\]、主にCG合成で作られているが、稲葉は実際に高い場所に登って撮影されている\[2\]。
 
-かつてサポートドラマーであったデニー・フォンハイザーがレコーディング・コーディネーターとして、[Mr.Bigの](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")([ベーシスト](../Page/ベーシスト.md "wikilink"))と、[パット・トーピー](../Page/パット・トーピー.md "wikilink")([ドラマー](../Page/ドラマー.md "wikilink"))が製作に参加している。
+かつてサポートドラマーであったデニー・フォンハイザーがレコーディング・コーディネーターとして、[ミスター・ビッグの](../Page/ミスター・ビッグ_\(アメリカのバンド\).md "wikilink")[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")([ベーシスト](../Page/ベーシスト.md "wikilink"))と、[パット・トーピー](../Page/パット・トーピー.md "wikilink")([ドラマー](../Page/ドラマー.md "wikilink"))が製作に参加している。
 
 本作のテーマは「ロック」であり、[ハードロック](../Page/ハードロック.md "wikilink")色が濃い。楽曲は[満園庄太郎](../Page/満園庄太郎.md "wikilink")や[黒瀬蛙一](../Page/黒瀬蛙一.md "wikilink")といったサポートメンバーとのセッションにより制作され、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")音は一切使用せず、前作まで存在した[フェード](../Page/フェード.md "wikilink")アウトの曲も皆無である\[3\]。
 
@@ -40,7 +40,7 @@
       -
         26thシングルのバージョン違い。
         「**Version 51**」は「テイク51」という事から付けられたが、51個のテイクが存在するわけではなく何度か録った中の5バージョン目の1テイクを採用したため「Version 51」となった。
-        このバージョンでは[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")をMR.BIGのビリー・シーンとパット・トーピーが務めている。ボーカル・ギターもリテイクされ、口笛がカットされたり終盤では稲葉の笑い声と高音倍音シャウトが聴こえるなど、フェイクに関しても原曲バージョンとの違いが見られる。
+        このバージョンでは[リズム隊](https://ja.wikipedia.org/wiki/リズム隊 "wikilink")をミスター・ビッグのビリー・シーンとパット・トーピーが務めている。ボーカル・ギターもリテイクされ、口笛がカットされたり終盤では稲葉の笑い声と高音倍音シャウトが聴こえるなど、フェイクに関しても原曲バージョンとの違いが見られる。
         このバージョンは『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でも披露され、その際の[サポートメンバーもビリー](https://ja.wikipedia.org/wiki/バックバンド "wikilink")・シーンとパット・トーピーが務めた\[7\]。
 3.  **Brotherhood** (5:46)
       -
@@ -175,7 +175,7 @@
 
 ## 外部リンク
 
-  - [B'z DISCOGRAPHY 『Brotherhood』](http://bz-vermillion.com/disco/al_10.html) ※楽曲の試聴が可能
+  - [B'z DISCOGRAPHY 『Brotherhood』](http://bz-vermillion.com/discography/al_10.html) ※楽曲の試聴が可能
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:Rooms_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:Rooms_RECORDSのアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

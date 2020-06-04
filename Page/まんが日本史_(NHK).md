@@ -48,7 +48,7 @@
   - [チャーリー浜](../Page/チャーリー浜.md "wikilink") - 番組で聖徳太子を取り上げたときにスタジオに聖徳太子に扮して登場。
   - [間寛平](../Page/間寛平.md "wikilink") - 番組で[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")を取り上げたときにスタジオに秀吉に扮して登場。
 
-[Category:NHK教育テレビジョンの子供向け番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの子供向け番組 "wikilink") [Category:NHK教育テレビジョンの教育番組](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教育番組 "wikilink") [Category:テレビの歴史番組](https://ja.wikipedia.org/wiki/Category:テレビの歴史番組 "wikilink") [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:日本の歴史を題材とした作品](https://ja.wikipedia.org/wiki/Category:日本の歴史を題材とした作品 "wikilink")
+[Category:NHK教育テレビジョンの子供向け番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの子供向け番組の歴史 "wikilink") [Category:NHK教育テレビジョンの教育番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教育番組の歴史 "wikilink") [Category:NHKのテレビ歴史番組](https://ja.wikipedia.org/wiki/Category:NHKのテレビ歴史番組 "wikilink") [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:日本の歴史を題材とした作品](https://ja.wikipedia.org/wiki/Category:日本の歴史を題材とした作品 "wikilink")
 
 1.  アルバム「[KARATEKA](../Page/KARATEKA.md "wikilink")」収録。
 2.  CDに収録されているバージョンは肉体目当てでみてくれの悪い女性と付き合おうとしている男性について歌われている為。

@@ -12,7 +12,7 @@
 
 渋谷パルコの建て替えに伴い、[2016年](../Page/2016年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")を以て一時休館。最終公演は『[ラヴ・レターズ](https://ja.wikipedia.org/wiki/LOVE_LETTERS#日本版 "wikilink")』（[8月1日](../Page/8月1日.md "wikilink") - 8月7日）\[3\]。
 
-[2020年](../Page/2020年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に再オープンした\[4\]。こけら落とし公演は[立川志の輔](../Page/立川志の輔.md "wikilink")による『志の輔らくご ～PARCO劇場こけら落とし～』。
+[2020年](../Page/2020年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に再オープンした\[4\]。こけら落とし公演は[立川志の輔](../Page/立川志の輔.md "wikilink")による『志の輔らくご ～PARCO劇場こけら落とし～』。公演冒頭では、志の輔が[三番叟](https://ja.wikipedia.org/wiki/三番叟 "wikilink")（さんばそう）を舞ったのちに落語に入った。
 
 <File:Shibuya> Parco 200220e.jpg|8階にある劇場（2020年2月20日撮影）
 

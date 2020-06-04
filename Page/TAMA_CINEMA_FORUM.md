@@ -1390,7 +1390,7 @@ beyond's presents 映像と音のLIVE -- 劇伴の実験</p></td>
 <td><p>2011年7月9日</p></td>
 <td><p><a href="http://www.tamaeiga.org/modules/tinyd4/rewrite/100000/index.html">「100,000年後の安全」上映会</a></p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/100,000年後の安全" title="wikilink">100,000年後の安全</a>』</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飯田哲也" title="wikilink">飯田哲也</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/飯田哲也_(環境学者)" title="wikilink">飯田哲也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年9月3日</p></td>

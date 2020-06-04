@@ -1,7 +1,7 @@
 > この記事は[ENEOS](https://ja.wikipedia.org/wiki/ENEOS)から翻訳されています。
 
 
-**ENEOS**（エネオス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[石油元売](../Page/石油元売.md "wikilink")最大手、[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")が運営している[サービスステーションのブランド名である](../Page/ガソリンスタンド.md "wikilink")。JXTGエネルギーの前身、[日石三菱時代の](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に制定された。
+**ENEOS**（エネオス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[石油元売](../Page/石油元売.md "wikilink")最大手、[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")（2020年6月25日に**ENEOS株式会社**へ商号変更予定）が運営している[サービスステーションのブランド名である](../Page/ガソリンスタンド.md "wikilink")。JXTGエネルギーの前身、[日石三菱時代の](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に制定された。
 
 ## 概要
 

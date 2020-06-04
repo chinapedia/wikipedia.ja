@@ -350,7 +350,7 @@
 
 日本では[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")より2017年[11月9日](../Page/11月9日.md "wikilink")に発売\[3\]。
 
-一部、版権曲を除き、『Portable』『Portable2』等の過去作の曲に新曲を加えた約150曲を収録。更にダウンロードコンテンツにて『Clazziquai Edition』『Black Square』『TECHNIKA』シリーズ、『Trilogy』、更には各種コラボレーション曲等も配信されており、全て解禁すればシリーズ曲の大部分がプレイ可能になる。但し、『Portable3』『TECHNIKA TUNE』『RAY』『TECHNIKA Q』など、現時点では未配信の曲を含む作品も存在する。
+一部、版権曲を除き、『Portable』『Portable2』等の過去作の曲に新曲を加えた約150曲を収録。更にダウンロードコンテンツにて『Clazziquai Edition』『Black Square』『TECHNIKA』シリーズ、『Trilogy』の曲を収録したパック、更には各種コラボレーション曲等も配信されており、全て解禁すればシリーズ曲の大部分がプレイ可能になる。但し、パックに含まれていない過去曲も存在し、『Portable3』『TECHNIKA TUNE』『RAY』『TECHNIKA Q』などは未だ楽曲パックが配信されていない。
 
 {{-}}
 

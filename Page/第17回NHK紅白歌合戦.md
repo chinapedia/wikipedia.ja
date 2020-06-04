@@ -99,6 +99,10 @@
   - 本放送はカラー放送であるが保存されておらず、白黒VTRのみが現存している。[カラー](../Page/カラー.md "wikilink")写真はペギーのオープニングでの宣誓シーンなどが現存。
   - 今回使用した[マイクロホン](https://ja.wikipedia.org/wiki/マイクロホン "wikilink")は、司会者・歌手用共に[SONY](https://ja.wikipedia.org/wiki/SONY "wikilink")とNHK放送技術研究所の共同開発コンデンサーマイクC-38Bの原型の[SONY](https://ja.wikipedia.org/wiki/SONY "wikilink")　C-38([BTS呼称](../Page/BTS_\(放送技術規格\).md "wikilink")、CU-2A)。
 
+## 後日譚
+
+  - ペギーは翌年の[第18回は産休中のため](../Page/第18回NHK紅白歌合戦.md "wikilink")、紅組司会続投はならず（ペギーの紅組司会は今回1度限り）、最終的にペギー降板後に『[ファミリーショー](https://ja.wikipedia.org/wiki/ファミリーショー "wikilink")』のホステス役を引き継いでいた[九重佑三子](../Page/九重佑三子.md "wikilink")に紅組司会に交代。
+
 ## 脚注
 
 ### 注釈

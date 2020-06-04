@@ -1266,7 +1266,7 @@ RZC1-46475</p></td>
         w/[夜の本気ダンス](https://ja.wikipedia.org/wiki/夜の本気ダンス "wikilink")
   - 2019年11月30日～12月25日 - Samp Tour（7公演）
   - 2020年01月26日・02月09日 - HiGE Golden Raspberry Award 2020（2公演）
-  - 2020年03月20日・05月05日(03月28日からの開催延期) - Ballade Party Mustache（2公演）
+  - 2020年03月20日 - Ballade Party Mustache
 
 ### 出演イベント
 

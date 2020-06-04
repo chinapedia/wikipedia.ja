@@ -3,9 +3,9 @@
 
 **ADOデン・ハーグ**（**Alles Door Oefening Den Haag** ()）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")南西部、[南ホラント州](../Page/南ホラント州.md "wikilink")の州都[デン・ハーグ](../Page/デン・ハーグ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2019-20シーズンは[エールディヴィジ](../Page/エールディヴィジ.md "wikilink")に所属。読みは「アド・デナーフ」。日本のメディアでは**デン・ハーグ**と略されることがあるが、オランダでは一般的に**ADO**と呼ばれ、FCデン・ハーグ時代からの地元サポーターは現在もデン・ハーグの名前で呼ぶことがある。
 
-## 沿革
+## 概要
 
-[1905年](../Page/1905年.md "wikilink")創立。カップ戦で2回の優勝経験を持つ。またオランダ屈指の都市ハーグを本拠地としていることで、[フェイエノールト](../Page/フェイエノールト.md "wikilink")と並び地元に熱狂的なサポーターを持つことで知られる。
+[1905年](../Page/1905年.md "wikilink")創立。カップ戦で2回の優勝経験を持つ。またオランダ屈指の都市ハーグを本拠地としていることで、[フェイエノールト](../Page/フェイエノールト.md "wikilink")と並び地元に熱狂的なサポーターを持つことで知られる。緑と黄をチームカラーとし、チームロゴの中心には本拠地[デン・ハーグ](../Page/デン・ハーグ.md "wikilink")のシンボルである[コウノトリ](../Page/コウノトリ.md "wikilink")が描かれている。
 
 ## タイトル
 
@@ -15,6 +15,8 @@
 
   - **[KNVBカップ](../Page/KNVBカップ.md "wikilink")：2回**
       - 1967-68, 1974-75
+  - **[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink") : 3回**
+      - 1956-57, 1985-86, 2002-03
 
 ### 国際タイトル
 
@@ -241,7 +243,7 @@ PlotData=
 
 <!-- end list -->
 
-  - [アラン・パーデュー](https://ja.wikipedia.org/wiki/アラン・パーデュー "wikilink")
+  - [アレクサンダル・ランコヴィッチ](https://ja.wikipedia.org/wiki/アレクサンダル・ランコヴィッチ_\(サッカー選手\) "wikilink")
 
 ## 歴代監督
 
@@ -265,7 +267,9 @@ PlotData=
 
   - [アルフォンス・フルネンダデイク](https://ja.wikipedia.org/wiki/アルフォンス・フルネンダデイク "wikilink") 2017-2019
 
-  - [アラン・パーデュー](https://ja.wikipedia.org/wiki/アラン・パーデュー "wikilink") 2019-
+  - [アラン・パーデュー](https://ja.wikipedia.org/wiki/アラン・パーデュー "wikilink") 2019-2020
+
+  - [アレクサンダル・ランコヴィッチ](https://ja.wikipedia.org/wiki/アレクサンダル・ランコヴィッチ_\(サッカー選手\) "wikilink") 2020-
 
 ## 歴代所属選手
 
@@ -283,6 +287,8 @@ PlotData=
 
   - [フランティシェック・クビク](https://ja.wikipedia.org/wiki/フランティシェック・クビク "wikilink") 2010-2011
 
+  - [ヴィト・ヴォルムホール](https://ja.wikipedia.org/wiki/ヴィト・ヴォルムホール "wikilink") 2012-2016
+
   - [ジャンニ・ザイフェルローン](https://ja.wikipedia.org/wiki/ジャンニ・ザイフェルローン "wikilink") 2013-2016
 
 ### MF
@@ -297,7 +303,11 @@ PlotData=
 
   - [カイル・エベシリオ](https://ja.wikipedia.org/wiki/カイル・エベシリオ "wikilink") 2016-
 
+  - [エミリオ・エステべス・ツァイ](https://ja.wikipedia.org/wiki/エミリオ・エステべス・ツァイ "wikilink") 2020-
+
 ### FW
+
+  - [リック・ホーヘンドルプ](https://ja.wikipedia.org/wiki/リック・ホーヘンドルプ "wikilink") 1994-1995, 2007-2009
 
   - [ロメオ・カステレン](../Page/ロメオ・カステレン.md "wikilink") 2000-2004
 
@@ -306,6 +316,8 @@ PlotData=
   - [エドソン・シルバ](https://ja.wikipedia.org/wiki/エドソン・ローランド・シルヴァ・ソウザ "wikilink") 2005
 
   - [ヨーナス・コルッカ](../Page/ヨーナス・コルッカ.md "wikilink") 2005-2006
+
+  - [マイク・ファン・ダイネン](https://ja.wikipedia.org/wiki/マイク・ファン・ダイネン "wikilink") 2011-2015
 
   - [ハーフナー・マイク](../Page/ハーフナー・マイク.md "wikilink") 2015-2017
 

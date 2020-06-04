@@ -231,7 +231,7 @@ TENGAブランドのもと、2018年12月現在、以下の[アスリート](../
   - [TENGA BLOG（社員によるブログ）](https://b.tenga.co.jp/)
   - [TENGAコーポレートサイト](https://tenga-group.com/)
 
-[Category:大人のおもちゃ](https://ja.wikipedia.org/wiki/Category:大人のおもちゃ "wikilink") [Category:男性向けセックストイ](https://ja.wikipedia.org/wiki/Category:男性向けセックストイ "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:日本のブランド](https://ja.wikipedia.org/wiki/Category:日本のブランド "wikilink")
+[Category:大人のおもちゃ](https://ja.wikipedia.org/wiki/Category:大人のおもちゃ "wikilink") [Category:男性向けセックストイ](https://ja.wikipedia.org/wiki/Category:男性向けセックストイ "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:日本のブランド](https://ja.wikipedia.org/wiki/Category:日本のブランド "wikilink") [Category:日本の発明](https://ja.wikipedia.org/wiki/Category:日本の発明 "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > この記事は[LUNAR-A](https://ja.wikipedia.org/wiki/LUNAR-A)から翻訳されています。
 
 
-**LUNAR-A**（ルナーA）は、[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA) により開発されていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")初の本格的な[月](https://ja.wikipedia.org/wiki/月 "wikilink")[探査機](../Page/宇宙探査機.md "wikilink")。「ペネトレータ」と呼ばれる[槍](../Page/槍.md "wikilink")状の観測装置による月内部の探査を主な目的としていた。当初[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の打ち上げを目指していたものの、計画は大幅に遅延。[2007年](../Page/2007年.md "wikilink")1月15日、計画中止の方針が示された\[1\]\[2\]。
+**LUNAR-A**（ルナーA）は、[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink") (JAXA) により開発されていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")初の本格的な[月](https://ja.wikipedia.org/wiki/月 "wikilink")[探査機](../Page/宇宙探査機.md "wikilink")。「ペネトレータ」と呼ばれる[槍](../Page/槍.md "wikilink")状の観測装置による月内部の探査を主な目的としていた。当初[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の打ち上げを目指していたものの、計画は大幅に遅延。[2007年](../Page/2007年.md "wikilink")1月15日、計画中止の方針が示された\[1\]\[2\]。
 
 ## 概要
 

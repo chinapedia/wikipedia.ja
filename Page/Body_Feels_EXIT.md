@@ -1,7 +1,7 @@
 > この記事は[Body Feels EXIT](https://ja.wikipedia.org/wiki/Body_Feels_EXIT)から翻訳されています。
 
 
-「**Body Feels EXIT**」（ボディー・フィールズ・イグジット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では3枚目のフィジカルシングル。初の[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+「**Body Feels EXIT**」（ボディー・フィールズ・イグジット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では3枚目のシングル。初の[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 

@@ -1,7 +1,7 @@
 > この記事は[BLUE HEAVEN](https://ja.wikipedia.org/wiki/BLUE_HEAVEN)から翻訳されています。
 
 
-「**BLUE HEAVEN**」（ブルー・ヘヴン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の40枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**BLUE HEAVEN**」（ブルー・ヘヴン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の40作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")に発売された。
 
 [2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。
 

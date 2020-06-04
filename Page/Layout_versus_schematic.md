@@ -1,7 +1,7 @@
 > この記事は[Layout versus schematic](https://ja.wikipedia.org/wiki/Layout_versus_schematic)から翻訳されています。
 
 
-**** (LVS) は、[集積回路](../Page/集積回路.md "wikilink")の設計に使用される[CAD](../Page/CAD.md "wikilink")ツール ([プログラム](../Page/プログラム.md "wikilink"))のひとつ。集積回路を製造するために作成した[フォトマスク](../Page/フォトマスク.md "wikilink")パターンが、設計した[回路図](../Page/回路図.md "wikilink")と一致しているかを検証するために使用する。 マスクパターンから[MOSFET](../Page/MOSFET.md "wikilink")などの機能素子を抽出することにより回路図を推定し、本来の回路図データと比較する。設計の元となった回路網データと、設計後から抽出した回路網データと比較することにより、意図した設計がされたかの判断を行う。
+**** (LVS) は、[集積回路](../Page/集積回路.md "wikilink")の設計に使用される[CAD](../Page/CAD.md "wikilink")ツール ([プログラム](../Page/プログラム_\(コンピュータ\).md "wikilink"))のひとつ。集積回路を製造するために作成した[フォトマスク](../Page/フォトマスク.md "wikilink")パターンが、設計した[回路図](../Page/回路図.md "wikilink")と一致しているかを検証するために使用する。 マスクパターンから[MOSFET](../Page/MOSFET.md "wikilink")などの機能素子を抽出することにより回路図を推定し、本来の回路図データと比較する。設計の元となった回路網データと、設計後から抽出した回路網データと比較することにより、意図した設計がされたかの判断を行う。
 
 ## 機能
 

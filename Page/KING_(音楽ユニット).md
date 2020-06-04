@@ -110,6 +110,6 @@
 
 ## 外部リンク
 
-  - [RHYME NUTS\!](http://www.queens-ave.com/king/)（KING公式サイト）
+  - \- KING公式サイト
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

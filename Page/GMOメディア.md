@@ -112,6 +112,9 @@ AutoPage（オートページ）はteacup.の[ブログ](../Page/ブログ.md "w
 
   - 2017年11月 - サービス開始
   - 2018年4月 - 株式会社船井総合研究所と「2018年 子ども向けプログラミング教育市場調査」実施
+  - 2019年4月 - 株式会社船井総合研究所と「2019年 子ども向けプログラミング教育市場調査」実施
+  - 2020年3月 - 株式会社船井総合研究所と「2019年 子ども向けプログラミング教育市場調査」実施
+  - 2020年5月 - EdTechサービスの比較・検索サイト「コエテコEdTech byGMO」開始
 
 ## その他
 
@@ -135,6 +138,8 @@ AutoPage（オートページ）はteacup.の[ブログ](../Page/ブログ.md "w
 
   - [GMOメディア株式会社](https://www.gmo.media/)
   - [teacup.ブログ AutoPage](https://autopage.teacup.com/)
+  - [コエテコ byGMO](https://coeteco.jp)
+  - [コエテコEdTech byGMO](https://coeteco.jp/edtech/)
 
 [Category:GMOインターネットグループ](https://ja.wikipedia.org/wiki/Category:GMOインターネットグループ "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:東証マザーズ上場企業](https://ja.wikipedia.org/wiki/Category:東証マザーズ上場企業 "wikilink") [Category:2015年上場の企業](https://ja.wikipedia.org/wiki/Category:2015年上場の企業 "wikilink")
 

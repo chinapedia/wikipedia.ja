@@ -27,8 +27,9 @@
 
 ### 主人公・町の住民
 
-  - 主人公 / リュウト\[1\]
-    本作の主人公。ポケモン総合研究所に住む少年。まだ子供ながら、ポケモンバトルの才能を持つ。亡き父からもらった[イーブイ](../Page/イーブイ.md "wikilink")を大切に育てている。用意されている名前候補はリュウト、ジェイミー、レツ。
+  - リュウト\[1\]
+    本作の主人公。ポケモン総合研究所に住む少年。まだ子供ながら、ポケモンバトルの才能を持つ。亡き父からもらった[イーブイ](../Page/イーブイ.md "wikilink")を大切に育てている。
+    用意されている名前候補はリュウト、ジェイミー、レツ。
   - クレイン
     ポケモン総合研究所所長。ダークポケモンの襲来をいち早く察知し、スナッチマシンとリライブホールの開発をしている。物語序盤で謎の組織に拉致されてしまうが、主人公によって救出される。また、自身の研究においては確固たる信念を持っており、拉致されていた時も協力を迫ったナップスに対しても逆に改心するよう説得した。
   - リリア
@@ -179,7 +180,7 @@
   - [ポケモンXD 闇の旋風ダーク・ルギア](https://www.nintendo.co.jp/ngc/gxxj/)（任天堂）
   - [ポケモンXD 闇の旋風ダーク・ルギア](https://www.pokemon.co.jp/game/other/xd/)（ポケモンオフィシャルサイト）
 
-[Category:ポケットモンスター関連のゲームソフト](https://ja.wikipedia.org/wiki/Category:ポケットモンスター関連のゲームソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
+[Category:ポケットモンスターのスピンオフゲーム](https://ja.wikipedia.org/wiki/Category:ポケットモンスターのスピンオフゲーム "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
 
-1.  デフォルト名の一つだが、ゲーム中のPVとポケモンワンダーランドVol.5に掲載されたコミカライズ版ではこの名前が使用されている。
+1.  デフォルト名。ゲーム中のPVや、ポケモンワンダーランドVol.5に掲載されたコミカライズ版でもこの名前が使用されている。
 2.  そのためオーレコロシアム最終戦では現シャドー幹部戦と旧シャドー幹部戦BGMという組み合わせになることもある

@@ -1,7 +1,7 @@
 > この記事は[FastCGI](https://ja.wikipedia.org/wiki/FastCGI)から翻訳されています。
 
 
-**FastCGI**とは、[Webサーバ](../Page/Webサーバ.md "wikilink")上でユーザ[プログラム](../Page/プログラム.md "wikilink")を動作させるための[インタフェース](https://ja.wikipedia.org/wiki/インタフェース "wikilink")仕様の一つである。[CGIの問題を解決するために](../Page/Common_Gateway_Interface.md "wikilink")社によって1990年代中頃に開発された\[1\]もので、仕様は公開されている。
+**FastCGI**とは、[Webサーバ](../Page/Webサーバ.md "wikilink")上でユーザ[プログラムを動作させるための](../Page/プログラム_\(コンピュータ\).md "wikilink")[インタフェース](https://ja.wikipedia.org/wiki/インタフェース "wikilink")仕様の一つである。[CGIの問題を解決するために](../Page/Common_Gateway_Interface.md "wikilink")社によって1990年代中頃に開発された\[1\]もので、仕様は公開されている。
 
 ## 概要(従来の[CGIの問題点](../Page/Common_Gateway_Interface.md "wikilink"))
 

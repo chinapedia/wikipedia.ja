@@ -9,7 +9,7 @@
 
 『福島テレビ30年史』によると、この番組は25時台という遅い時間帯にも関わらず最高[視聴率](../Page/視聴率.md "wikilink")3%を記録したとされている。
 
-ちなみに、当時この番組の前の時間帯に放送されていた番組は『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』で、この番組の終了後の時間帯には『[北野ファンクラブ](../Page/北野ファンクラブ.md "wikilink")』を[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")していた\[1\]。
+ちなみに、当時この番組の前の時間帯に放送されていた番組は『[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")』で、この番組の終了後の時間帯には『[北野ファンクラブ](../Page/北野ファンクラブ.md "wikilink")』を[キー局](../Page/キー局.md "wikilink")である[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")していた\[1\]。
 
 1993年春の番組[改編](../Page/改編.md "wikilink")でこの番組が終了した後は、『北野ファンクラブ』の放送開始が10分繰り上がった（ただし、同番組はそれ以降はキー局より1週遅れての放送になった）。
 

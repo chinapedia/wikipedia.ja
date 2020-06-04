@@ -265,7 +265,7 @@
 <td><p>拳銃情死行</p></td>
 <td><p>金子武郎</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/内藤誠" title="wikilink">内藤誠</a></p></td>
-<td><p><a href="../Page/星正人.md" title="wikilink">星正人</a>、<a href="https://ja.wikipedia.org/wiki/山本麟一" title="wikilink">山本麟一</a>、<a href="https://ja.wikipedia.org/wiki/山添多佳子" title="wikilink">山添多佳子</a>、<a href="../Page/菅貫太郎.md" title="wikilink">菅貫太郎</a></p></td>
+<td><p><a href="../Page/星正人.md" title="wikilink">星正人</a>、<a href="../Page/山本麟一.md" title="wikilink">山本麟一</a>、<a href="https://ja.wikipedia.org/wiki/山添多佳子" title="wikilink">山添多佳子</a>、<a href="../Page/菅貫太郎.md" title="wikilink">菅貫太郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>

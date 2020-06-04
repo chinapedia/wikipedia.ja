@@ -15,7 +15,7 @@ Windows版は[ソースネクスト](../Page/ソースネクスト.md "wikilink"
 
 ### 身分
 
-[君主](../Page/君主.md "wikilink")、[都督](https://ja.wikipedia.org/wiki/都督 "wikilink")、[太守](../Page/太守.md "wikilink")、一般、[在野](../Page/在野.md "wikilink")の5種類である。『VIII』と同じく放浪軍も採用されている。本作では[軍師](../Page/軍師.md "wikilink")は特技の一つとなり、役職ではなくなった。
+[君主](../Page/君主.md "wikilink")、[都督](../Page/都督.md "wikilink")、[太守](../Page/太守.md "wikilink")、一般、[在野](../Page/在野.md "wikilink")の5種類である。『VIII』と同じく放浪軍も採用されている。本作では[軍師](../Page/軍師.md "wikilink")は特技の一つとなり、役職ではなくなった。
 
 ### マップ
 

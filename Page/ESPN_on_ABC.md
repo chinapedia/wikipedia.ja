@@ -15,7 +15,7 @@
       - ESPN College Football on ABC（1950, 1966年 - ）
       - 主にACC、アメリカン、ビッグ・テン、ビッグ12、パク12の試合を中継
       - Saturday Night Football (2006–present)
-      - キャピタルワンボウル (1987–2010, 2013-present)
+      - キャピタルワンボウル (1987–2010, 2013–present)
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
       - ABC's Coverage of the NBA on ESPN（2005-06シーズンまでは「NBA on ABC」）
   - [WNBA](https://ja.wikipedia.org/wiki/WNBA "wikilink")（2002年 - ）
   - カレッジバスケットボール
-      - SEC男子バスケットボールトーナメント（2010年 -）
+      - SEC男子バスケットボールトーナメント（2010年 - ）
 
 <!-- end list -->
 
@@ -136,11 +136,11 @@
   - [CBSスポーツ](../Page/CBSスポーツ.md "wikilink")
   - [FOXスポーツ](../Page/FOXスポーツ.md "wikilink")
   - [NBCスポーツ](../Page/NBCスポーツ.md "wikilink")
-  - [アル・マイケルズ](https://ja.wikipedia.org/wiki/アル・マイケルズ "wikilink")（1977年-2006年ABCスポーツに所属）
+  - [アル・マイケルズ](https://ja.wikipedia.org/wiki/アル・マイケルズ "wikilink")（1977年–2006年、ABCスポーツに所属）
 
 ## 外部リンク
 
-  - [ESPNtv.com - ABC](http://sports.espn.go.com/espntv/espnNetwork?networkID=30)
+  - [ESPNtv.com - ABC](https://www.espn.com/espntv/espnNetwork?networkID=30)
 
 [Category:ABC](https://ja.wikipedia.org/wiki/Category:ABC "wikilink") [Category:ESPN](https://ja.wikipedia.org/wiki/Category:ESPN "wikilink") [Category:アメリカ合衆国のスポーツ番組](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のスポーツ番組 "wikilink")
 

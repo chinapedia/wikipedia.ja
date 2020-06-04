@@ -34,8 +34,8 @@ CPUバスの性能は、その[コンピュータ・アーキテクチャ](../Pa
 
 ## 各種アーキテクチャとCPUバス
 
-  - MITS [Altair 8800](../Page/Altair_8800.md "wikilink")
-    後に業界標準となるS100バスと呼ばれる拡張バスを備えた。[8080のCPUバスが直接拡張スロットに延長された形となっている](../Page/Intel_8080.md "wikilink")。
+  - [MITS](https://ja.wikipedia.org/wiki/Micro_Instrumentation_and_Telemetry_Systems "wikilink") [Altair 8800](../Page/Altair_8800.md "wikilink")
+    後に業界標準となる[S-100バス](https://ja.wikipedia.org/wiki/S-100バス "wikilink")と呼ばれる拡張バスを備えた。[8080のCPUバスが直接拡張スロットに延長された形となっている](../Page/Intel_8080.md "wikilink")。
   - [ザイログ](../Page/ザイログ.md "wikilink") [Z80](../Page/Z80.md "wikilink")
     8ビットマイクロプロセッサを代表するCPUで、同CPUのバスは[バッファ](../Page/バッファ.md "wikilink")[ICを経てそのまま拡張スロットに使われた](../Page/集積回路.md "wikilink")。標準化された[インタフェースとして](../Page/インタフェース_\(情報技術\).md "wikilink")[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")の拡張スロットが有名である（主にゲームソフトウエアを格納したROMボードの入ったカートリッジを差し込む。拡張RAMや[LANアダプタ](../Page/Local_Area_Network.md "wikilink")、[プリンタインターフェースなども作られた](https://ja.wikipedia.org/wiki/プリンター "wikilink")）。後年の[1チップMSX](https://ja.wikipedia.org/wiki/1チップMSX "wikilink")では拡張スロットインターフェースも再現された。
   - [モトローラ](../Page/モトローラ.md "wikilink") 680x0

@@ -36,7 +36,7 @@
   - 稲葉浩志：ボーカル
   - [増田隆宣](../Page/増田隆宣.md "wikilink")：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - シェーン・ガラース：ドラム
-  - 徳永暁人(from [doa](https://ja.wikipedia.org/wiki/doa "wikilink")）：ベース
+  - 徳永暁人（from [doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）：ベース
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（from doa）：ギター・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 ## 収録曲

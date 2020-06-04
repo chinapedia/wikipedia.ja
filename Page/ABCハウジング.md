@@ -11,7 +11,7 @@
 
 ## CM
 
-[CMでは](../Page/コマーシャルメッセージ.md "wikilink")、2種類のオリジナルソングを使用している。[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")のほか、[スカイ・Aでも放送される](../Page/スカイ・エー.md "wikilink")。関東では新聞折込[チラシ](../Page/チラシ.md "wikilink")での宣伝を中心に、[TBSラジオ](../Page/TBSラジオ.md "wikilink")\[2\]でCMを放送している。かつては[テレビ朝日](../Page/テレビ朝日.md "wikilink")や[文化放送](../Page/文化放送.md "wikilink")（TBSラジオと文化放送は朝日放送ラジオとの[クロスネット関係にある](../Page/クロスネット局.md "wikilink")。またかつて朝日放送テレビの[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")は[TBSであった](../Page/TBSテレビ.md "wikilink")）でCMを放送したことがある。
+[CMでは](../Page/コマーシャルメッセージ.md "wikilink")、2種類のオリジナルソングを使用している。[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")のほか、[スカイ・Aでも放送される](../Page/スカイ・エー.md "wikilink")。関東では新聞折込[チラシ](../Page/チラシ.md "wikilink")での宣伝を中心に、[TBSラジオ](../Page/TBSラジオ.md "wikilink")\[2\]でCMを放送している。かつては[テレビ朝日](../Page/テレビ朝日.md "wikilink")や[文化放送](../Page/文化放送.md "wikilink")（TBSラジオと文化放送は朝日放送ラジオとの[クロスネット関係にある](../Page/クロスネット局.md "wikilink")。またかつて朝日放送テレビの[キー局](../Page/キー局.md "wikilink")は[TBSであった](../Page/TBSテレビ.md "wikilink")）でCMを放送したことがある。
 
 [2011年](../Page/2011年.md "wikilink")は、[ウルトラマン](../Page/ウルトラマン.md "wikilink")とのコラボレーションキャンペーンを展開している。ウルトラマン\[3\]が初放送されたのもABCハウジングが誕生した[1966年](../Page/1966年.md "wikilink")であり、ともに誕生（創業）45周年を記念して実現したものである。
 

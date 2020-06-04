@@ -131,7 +131,7 @@ ED</p></td>
 
 <div style="float: left; vertical-align: top; margin-right: 1em;">
 
-  - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") ☆[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink") ☆[北日本放送](../Page/北日本放送.md "wikilink")
   - [福井県](../Page/福井県.md "wikilink") ☆[福井放送](../Page/福井放送.md "wikilink")
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") ☆\![tvk](../Page/テレビ神奈川.md "wikilink")
   - [東京都](../Page/東京都.md "wikilink") ☆\![TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")

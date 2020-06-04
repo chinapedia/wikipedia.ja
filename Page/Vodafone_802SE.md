@@ -7,9 +7,7 @@
 
 ## 特徴
 
-欧州で開発された[エリクソン](../Page/エリクソン.md "wikilink")製端末の流れを汲む機種であり、日本で開発された[ソニー](../Page/ソニー.md "wikilink")製端末の流れを汲む[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）向けの機種に見られる特徴（[ジョグダイヤル](../Page/ジョグダイヤル.md "wikilink")・[POBox](../Page/POBox.md "wikilink")など）が外部メモリを除き見られない。
-
-ソニー・エリクソンが手がけた北欧風デザインである。CMなどでは北欧のデザイン（[エリクソン](../Page/エリクソン.md "wikilink")タイプ）に日本の技術とうたっていた。外部メモリは[ソニー](../Page/ソニー.md "wikilink")系企業らしく[メモリースティックDuo](https://ja.wikipedia.org/wiki/メモリースティックDuo "wikilink")である（[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")や[miniSDカードには対応していない](https://ja.wikipedia.org/wiki/SDメモリーカード#miniSDカード "wikilink")）。
+ソニー・エリクソンが手がけた北欧風デザインである。CMなどでは北欧のデザイン（[エリクソン](../Page/エリクソン.md "wikilink")タイプ）に日本の技術とうたっていた。欧州で開発されたエリクソン製端末の流れを汲む機種であり、日本で開発された[ソニー](../Page/ソニー.md "wikilink")製端末の流れを汲む[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）向けの機種に見られる特徴（[ジョグダイヤル](../Page/ジョグダイヤル.md "wikilink")など）は見られないが、外部メモリは[ソニー](../Page/ソニー.md "wikilink")系企業らしく[メモリースティックDuo](https://ja.wikipedia.org/wiki/メモリースティックDuo "wikilink")である（[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")や[miniSDカードには対応していない](https://ja.wikipedia.org/wiki/SDメモリーカード#miniSDカード "wikilink")）。
 
 カメラは1基しかついていないが、回転させて外側にも内側にも向けることができ、一般の撮影用としても[TVコールの自分撮り用としても使用可能](../Page/テレビ電話.md "wikilink")。特に自分撮り用としては、一般的なツインカメラ機種のインカメラが11～30万画素程度であるのに比べ、より良好な画質が期待できる。
 

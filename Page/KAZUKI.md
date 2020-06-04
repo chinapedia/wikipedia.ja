@@ -97,7 +97,7 @@
 
   - 「スナイパー・フロム・サ・ダークネス」（[大野雄二](https://ja.wikipedia.org/wiki/大野雄二 "wikilink")） - 元々は[バッドニュース・アレンのテーマ曲](../Page/アレン・コージ.md "wikilink")
   - 「レボリューション」（スクーター）
-  - 「Academic Illusion」（やまげんデザイン事務所）
+  - 「Academic Illusion」（宮元たかし）
 
 ## 外部リンク
 

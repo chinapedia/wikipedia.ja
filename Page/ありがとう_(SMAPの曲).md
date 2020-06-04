@@ -1,7 +1,7 @@
 > この記事は[ありがとう \(SMAPの曲\)](https://ja.wikipedia.org/wiki/ありがとう_\(SMAPの曲\))から翻訳されています。
 
 
-「**ありがとう**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の40枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**ありがとう**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の40枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")（平成18年）[10月11日](../Page/10月11日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ## チャート成績
 
-  - 初動売上で約17.1万枚\[5\]を記録し、[2006年](../Page/2006年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")付[オリコン週間シングルチャートで初登場首位を獲得した](../Page/オリコンチャート.md "wikilink")。SMAPにとって同チャートでの1位獲得は「[freebird](https://ja.wikipedia.org/wiki/freebird "wikilink")」から7作連続、通算18作目となった。また、TOP10入りはデビューから40作連続となり、連続TOP10獲得作品数で[B'z](../Page/B'z.md "wikilink")が保持していた39作連続の記録を抜き、単独1位（当時）。通算TOP10獲得作品数が40作に達したのは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")に次ぐ3組目である。達成に要した期間はデビューから15年1か月で、ZARDの15年3か月を上回り史上最速で達成した（いずれも2016年12月9日現在）。
+  - 初動売上で約17.1万枚\[5\]を記録し、[2006年](../Page/2006年.md "wikilink")（平成18年）[10月23日](../Page/10月23日.md "wikilink")付[オリコン週間シングルチャートで初登場首位を獲得した](../Page/オリコンチャート.md "wikilink")。SMAPにとって同チャートでの1位獲得は「[freebird](https://ja.wikipedia.org/wiki/freebird "wikilink")」から7作連続、通算18作目となった。また、TOP10入りはデビューから40作連続となり、連続TOP10獲得作品数で[B'z](../Page/B'z.md "wikilink")が保持していた39作連続の記録を抜き、単独1位（当時）。通算TOP10獲得作品数が40作に達したのは、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")に次ぐ3組目である。達成に要した期間はデビューから15年1か月で、ZARDの15年3か月を上回り史上最速で達成した（いずれも2016年12月9日現在）。
   - 累計売上は34.7万枚（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）。
 
 ## 収録曲
@@ -94,6 +94,6 @@
 3.  [ありがとう／SMAP -レビュー一覧-](http://www.oricon.co.jp/music/release/d/679788/1/)
 4.  [父の日に贈りたい曲、SMAP、プリプリ、陽水・民生](http://career.oricon.co.jp/news/45533/)
 5.
-6.  このうち、[女子マラソン競技の中継はTBS系](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの陸上競技 "wikilink")28局のみならず、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系単独加盟）・[福井放送](../Page/福井放送.md "wikilink")（日本テレビ系・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[クロスネット](../Page/クロスネット局.md "wikilink")）・[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（フジテレビ系単独加盟）にもネットされた。
+6.  このうち、[女子マラソン競技の中継はTBS系](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの陸上競技 "wikilink")28局のみならず、[秋田放送](../Page/秋田放送.md "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系単独加盟）・[福井放送](../Page/福井放送.md "wikilink")（日本テレビ系・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[クロスネット](../Page/クロスネット局.md "wikilink")）・[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（フジテレビ系単独加盟）にもネットされた。
 7.
 8.

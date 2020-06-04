@@ -20,7 +20,7 @@
   - [TBS](../Page/TBSテレビ.md "wikilink")「[上岡龍太郎がズバリ\!](../Page/上岡龍太郎がズバリ!.md "wikilink")」
   - テレビ朝日「[邦子がタッチ](../Page/邦子がタッチ.md "wikilink")」
   - テレビ東京「[土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")」
-  - テレビ東京「[スターボウリング](https://ja.wikipedia.org/wiki/スターボウリング "wikilink")」
+  - テレビ東京「[ザ・スターボウリング](../Page/ザ・スターボウリング.md "wikilink")」
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「どっきりカメラ」
   - テレビ朝日「プレステージ」　　　
   - テレビ東京「ハッピートゥディ」

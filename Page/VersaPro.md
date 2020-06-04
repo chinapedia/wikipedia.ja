@@ -77,8 +77,8 @@ A4ノート
 
 ## 外部リンク
 
-  - [NEC8番街](https://www.express.nec.co.jp/)
-  - [NEC Direct VersaPro一覧](http://www.necdirect.jp/versapro/)
-  - [NEC得選街](http://club.express.nec.co.jp/store/)
+  - [NECのビジネスPC Mate & VersaPro](https://jpn.nec.com/products/bizpc/)
+  - [VersaPro J ラインナップ情報](http://nec-lavie.jp/shop/versapro/) - NEC Direct
+  - [NEC得選街](https://club.express.nec.co.jp/store/)
 
 [Category:日本電気のパーソナルコンピュータ](https://ja.wikipedia.org/wiki/Category:日本電気のパーソナルコンピュータ "wikilink")

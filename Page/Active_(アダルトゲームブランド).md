@@ -107,4 +107,4 @@
   - [Welcome to Active](https://web.archive.org/web/20090925122057/http://www.active-soft.jp/) - 公式ウェブサイト（2009年9月25日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [アクティブソフトウェア通信販売](https://web.archive.org/web/20080704134417/http://www.ec-shopping.net/shop/pages/ATV00010/index.html) - 公式通販サイト（2008年7月4日時点のアーカイブ）
 
-[Category:Active](https://ja.wikipedia.org/wiki/Category:Active "wikilink") [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink")
+[Category:Active](https://ja.wikipedia.org/wiki/Category:Active "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink") [Category:1991年設立の企業](https://ja.wikipedia.org/wiki/Category:1991年設立の企業 "wikilink")

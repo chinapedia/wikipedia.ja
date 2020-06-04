@@ -47,7 +47,7 @@
 
 ### 連続ドラマ制作中止とスペシャル版放送延期の経緯
 
-栄でのビル爆破によって華々しく撮影がスタートしたその翌日の[8月12日](../Page/8月12日.md "wikilink")13時50分頃、同市[港区の撮影現場](../Page/港区_\(名古屋市\).md "wikilink")[スーパーオートバックス名古屋ベイ店の駐車場内において](../Page/オートバックスセブン.md "wikilink")、松山高之役の[池田努](https://ja.wikipedia.org/wiki/池田努 "wikilink")が[英国製](https://ja.wikipedia.org/wiki/イギリス "wikilink")[スポーツカー](../Page/スポーツカー.md "wikilink")、[TVRタスカンのハンドル操作を誤り](../Page/TVR・タスカン.md "wikilink")[アンダーステア](https://ja.wikipedia.org/wiki/アンダーステア "wikilink")を起こし、そのまま見物人に突っ込んで男女5人を負傷させる人身事故が発生した。この事故を受け、石原プロモーション社長でもある渡が入院中の負傷者を訪問し、事故を起こした俳優とともに謝罪した。かつて石原プロの所属俳優として『西部警察』に出演していた[峰竜太](../Page/峰竜太.md "wikilink")は、自身が司会を担当する『[ザ\!情報ツウ](../Page/ザ!情報ツウ.md "wikilink")』の中で「僕も以前に石原プロに所属してましたが、まさか、こんな事が起きるとは…」とコメントした。
+栄でのビル爆破によって華々しく撮影がスタートしたその翌日の[8月12日](../Page/8月12日.md "wikilink")13時50分頃、同市[港区の撮影現場](../Page/港区_\(名古屋市\).md "wikilink")[スーパーオートバックス名古屋ベイ店の駐車場内において](../Page/オートバックスセブン.md "wikilink")、松山高之役の[池田努](https://ja.wikipedia.org/wiki/池田努 "wikilink")が[TVR・タスカン](../Page/TVR・タスカン.md "wikilink")を運転中にハンドル操作を誤り[アンダーステア](https://ja.wikipedia.org/wiki/アンダーステア "wikilink")を生じ、そのまま見物人に突っ込んで男女5人を負傷させる人身事故が発生した。この事故を受け、石原プロモーション社長でもある渡が入院中の負傷者を訪問し、事故を起こした俳優とともに謝罪した。かつて石原プロの所属俳優として『西部警察』に出演していた[峰竜太](../Page/峰竜太.md "wikilink")は、自身が司会を担当する『[ザ\!情報ツウ](../Page/ザ!情報ツウ.md "wikilink")』の中で「僕も以前に石原プロに所属してましたが、まさか、こんな事が起きるとは…」とコメントした。
 
 これを受けて石原プロは、連続ドラマの制作中止とともに、予定していた10月からの放映の中止をテレビ朝日に要請。これに対し事故で負傷した見物人やその家族からも製作続行を望む声が上がったが、最終的にはテレビ朝日常務取締役（当時）の[早河洋](https://ja.wikipedia.org/wiki/早河洋 "wikilink")もこれに同意、翌日の[8月13日](../Page/8月13日.md "wikilink")に制作の[打ち切り](../Page/打ち切り.md "wikilink")と10月からの放映中止を発表した。併せて、すでに制作が終了して放映を待つのみとなっていた『西部警察 WESTERN POLICE 2003』についても、放映を無期限延期とすることが決まり、放映予定日には通常の『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』が代替放送された。
 
@@ -122,7 +122,7 @@
 
 <references />
 
-[Category:西部警察](https://ja.wikipedia.org/wiki/Category:西部警察 "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:宮崎県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:宮崎県を舞台とした作品 "wikilink") [Category:石原プロモーション](https://ja.wikipedia.org/wiki/Category:石原プロモーション "wikilink")
+[Category:西部警察](https://ja.wikipedia.org/wiki/Category:西部警察 "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:宮崎県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:宮崎県を舞台としたテレビドラマ "wikilink") [Category:石原プロモーション](https://ja.wikipedia.org/wiki/Category:石原プロモーション "wikilink")
 
 1.  テレビ朝日の現行ロゴ使用開始は2003年10月1日から。
 2.  PART-IとPART-II・IIIは一部設定が異なる部分があり、続編として整合性の取れない箇所もある。

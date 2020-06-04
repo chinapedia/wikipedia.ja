@@ -44,6 +44,7 @@
 | [されど罪人は竜と踊る](https://ja.wikipedia.org/wiki/されど罪人は竜と踊る_\(アニメ\) "wikilink")         | 製作協力：セブン・アークス                                                                                     |                 |                 |
 | 2019年                                                                             | [バミューダトライアングル 〜カラフル・パストラーレ〜](https://ja.wikipedia.org/wiki/バミューダトライアングル_〜カラフル・パストラーレ〜 "wikilink") |                 |                 |
 | 2020年                                                                             | [アルテ](https://ja.wikipedia.org/wiki/アルテ_\(漫画\) "wikilink")\[6\]                                   | Seven Arcs      |                 |
+| [トニカクカワイイ](https://ja.wikipedia.org/wiki/トニカクカワイイ "wikilink")\[7\]                |                                                                                                   |                 |                 |
 
 ### 劇場アニメ
 
@@ -248,3 +249,4 @@
 4.  合併公告、2019年（令和元年）8月26日付「官報」（号外第99号）62頁。
 5.
 6.
+7.

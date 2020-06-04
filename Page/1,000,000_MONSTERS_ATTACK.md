@@ -5,12 +5,13 @@
 
 ## 収録曲
 
-1.  **1,000,000 MONSTERS ATTACK** (4:45)
-    （作詞：Diggy-MO',Bro.Hi 作曲：Diggy-MO',Shinnosuke 編曲：Shinnnosuke）
+## 楽曲解説
+
+1.  **1,000,000 MONSTERS ATTACK**
       -
         制作段階の仮タイトルは「Mファンク」だった。
-2.  **ラジカルメッセージ ～Culture Of Destruction～** (5:35)
-    （作詞：Diggy-MO',Bro.Hi 作曲：Diggy-MO',Shinnosuke 編曲：Shinnnosuke）
+        ライブではヒップホップな見せ方ができる曲とBro.Hiが評している\[1\]。
+2.  **ラジカルメッセージ 〜Culture Of Destruction〜**
       -
         約2ヶ月前にリリースされた[K DUB SHINEによるディス曲](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")「なんでそんなに」へのアンサーソングではないかという指摘がある。
 
@@ -21,7 +22,7 @@
 
 ## エピソード
 
-  - ラッパーの[R-指定は](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")、ラジオで1,000,000 MONSTERS ATTACKを聴いたのがきっかけにHIPHOPを聴くようになったと語っている\[1\]。
+  - ラッパーの[R-指定は](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")、ラジオで1,000,000 MONSTERS ATTACKを聴いたのがきっかけにHIPHOPを聴くようになったと語っている\[2\]。
 
 ## 収録アルバム
 
@@ -32,8 +33,8 @@
 
 ## テレビ
 
-  - [2004年](../Page/2004年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")
-      - 現時点で最後のミュージックステーション出演。
+  - [2004年](../Page/2004年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink") [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")\[3\]
+      - 最後のミュージックステーション出演。
 
 ## 脚注
 
@@ -41,4 +42,6 @@
 
 [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:ランク王国](https://ja.wikipedia.org/wiki/Category:ランク王国 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")
 
-1.  [MCバトルの王 R-指定インタビュー　ラッパーは16小節に生死を賭ける](http://kai-you.net/article/27224)
+1.
+2.  [MCバトルの王 R-指定インタビュー　ラッパーは16小節に生死を賭ける](http://kai-you.net/article/27224)
+3.

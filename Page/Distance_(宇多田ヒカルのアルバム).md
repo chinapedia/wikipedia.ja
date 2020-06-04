@@ -11,7 +11,8 @@
   - 累計出荷枚数は日本国内（CD）486万枚、国外（CD）59万枚、アナログ盤3万枚、累計549万枚\[4\]。
   - 5thシングルの「Wait\&See 〜リスク〜」のカップリングである「はやとちり (Original Version)」、「Fly Me To The Moon (In Other Words)」は本作には収録されていない。
   - 初回特典ピクチャーレーベル仕様。
-  - 2019年1月23日に「2018 Remastered Album」の名称でハイレゾ・リマスタリングされ、本アルバム未収録の5thシングルのカップリング「はやとちり(Original Version)」が最後に収録されている\[5\]。
+  - 2019年1月23日に「2018 Remastered Album」の名称でハイレゾ・リマスタリングされ、本アルバム未収録の5thシングルのカップリング「はやとちり(Original Version)」が最後に収録されている\[5\]
+  - 浜崎あゆみの「A BEST」の発売日を宇多田ヒカル側が同じ日にぶつけてきたため オリコン争いが起こった
 
 ## 収録曲
 
@@ -85,6 +86,11 @@ CDの収録曲の順番に対応して表記。
 SIDE1,2とSIDE3,4との2枚組。ジャケットはCDのものとは異なり、CDジャケットの写真をもとにしたイラストのデザイン。
 
 ## 脚注
+
+## 外部リンク
+
+  - [作品紹介ページ Distance](http://www.utadahikaru.jp/music/album/title_3.html)
+  - [作品紹介ページ Distance (Analog Album)](http://www.utadahikaru.jp/music/album/title_4.html)
 
 [Category:宇多田ヒカルのアルバム](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルのアルバム "wikilink") [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink") [Category:2001年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink") [Category:オリコン年間アルバムチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

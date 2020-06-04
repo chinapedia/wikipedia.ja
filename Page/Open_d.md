@@ -1,7 +1,7 @@
 > この記事は[Open d](https://ja.wikipedia.org/wiki/Open_d)から翻訳されています。
 
 
-『**open_d**』（オープンディー）は、[doaのメジャー](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")1枚目のアルバム。
+『**open_d**』（オープンディー）は、[doaのメジャー](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")1枚目のアルバム。
 
 ## 内容
 

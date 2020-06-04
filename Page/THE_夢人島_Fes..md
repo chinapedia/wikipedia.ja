@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Hamanako-gp-02.jpg "wikilink") **THE 夢人島 Fes.**（**ザ・むじんとう・フェス**）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のリーダー[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が提唱した[ロックフェスティバルの名称](../Page/ロック・フェスティバル.md "wikilink")。正式名称は「**THE 夢人島 Fes.2006 WOW\!\!　紅白\! エンタのフレンドパーク Hey Hey ステーション …に泊まろう\!**」。[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")・[8月27日](../Page/8月27日.md "wikilink")、[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[西区](../Page/西区_\(浜松市\).md "wikilink")[村櫛町](https://ja.wikipedia.org/wiki/村櫛町 "wikilink")の[浜名湖ガーデンパーク](../Page/浜名湖ガーデンパーク.md "wikilink")にて開催された。
 
-タイトルの「夢人島」は「無人島」とかけたダブルミーニング。サブタイトルは、[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の人気番組を[関東地方での](https://ja.wikipedia.org/wiki/在京放送局 "wikilink")1チャンネルから順番に並べたものである。WOW\!\!はサザンの年越しライブを長年にわたり中継し、このフェスでも生中継（2006年9月29日18:00-25:45 JSTにバックステージを含めた総集編を[再放送](../Page/再放送.md "wikilink")）した[WOWOW](../Page/WOWOW.md "wikilink")を表している。
+タイトルの「夢人島」は「無人島」とかけたダブルミーニング。サブタイトルは、[キー局](../Page/キー局.md "wikilink")の人気番組を[関東地方での](https://ja.wikipedia.org/wiki/在京放送局 "wikilink")1チャンネルから順番に並べたものである。WOW\!\!はサザンの年越しライブを長年にわたり中継し、このフェスでも生中継（2006年9月29日18:00-25:45 JSTにバックステージを含めた総集編を[再放送](../Page/再放送.md "wikilink")）した[WOWOW](../Page/WOWOW.md "wikilink")を表している。
 
 1.  WOW\!\!→[WOWOW](../Page/WOWOW.md "wikilink")
 2.  紅白→[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）

@@ -1,11 +1,11 @@
 > この記事は[OKI \(ミュージシャン\)](https://ja.wikipedia.org/wiki/OKI_\(ミュージシャン\))から翻訳されています。
 
 
-**OKI**（オキ、加納 沖\[1\]、1957年\[2\]－）[トンコリ](../Page/トンコリ.md "wikilink")\[3\]奏者\[4\]\[5\]。
+**OKI**（オキ、加納 沖\[1\]、1957年\[2\] － ）[トンコリ](../Page/トンコリ.md "wikilink")\[3\]奏者\[4\]\[5\]。
 
 OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
-トンコリやアイヌの伝統歌「ウポポ」による[アイヌ伝統音楽を基調に](../Page/アイヌ音楽.md "wikilink")、[ダブ](../Page/ダブ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[アフロ・ビート](https://ja.wikipedia.org/wiki/アフロ・ビート "wikilink")など世界のルーツ音楽を取り入れた音楽を制作、マレウレウ の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。　[チカルスタジオ](http://www.tonkori.com/)所属。
+トンコリやアイヌの伝統歌「ウポポ」による[アイヌ伝統音楽を基調に](../Page/アイヌ音楽.md "wikilink")、[ダブ](../Page/ダブ.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[アフロ・ビート](https://ja.wikipedia.org/wiki/アフロ・ビート "wikilink")など世界のルーツ音楽を取り入れた音楽を制作、マレウレウの[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。チカルスタジオ所属。
 
 ## 人物・来歴
 
@@ -23,7 +23,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 1995年アルバム「カムイ コル ヌプルペ」発表。
 
-2005年以降、OKI DUB AINU BANDは　世界各国の音楽フェスティバルに出演。　
+2005年以降、OKI DUB AINU BANDは世界各国の音楽フェスティバルに出演。　
 
 2007年の「ダブ アイヌ バンド ライブ イン ジャパン」を発表。
 
@@ -33,7 +33,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 2008年　[北海道文化賞](https://ja.wikipedia.org/wiki/北海道文化賞 "wikilink")奨励賞受賞\[13\]。
 
-2012年、マレウレウ の「もっといて、ひっそりね。」 プロデュース。　
+2012年、マレウレウの「もっといて、ひっそりね。」 プロデュース。　
 
 2016年12月26日 北海道150年音楽祭（[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")）出演　
 
@@ -42,12 +42,12 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 *CDアルバム・シングル*
 
   - **HANKAPUY**（feat.[安東ウメ子](../Page/安東ウメ子.md "wikilink")）　1999年
-  - **KAMUY KOR NUPURPE　**2001年
+  - **KAMUY KOR NUPURPE**　2001年
   - **NO-ONE'S LAND**　2002年
   - **DUB AINU**　2004年
   - **トンコリ**　2005年
-  - '''KiLA\&OKI　2006年
-  - **熊出没（ベストアルバム）**　2006年
+  - **KiLA\&OKI**　2006年
+  - **熊出没**（ベストアルバム）　2006年
   - **DUB AINU DELUXE**　2006年
   - **OKI DUB AINU BAND**　2006年
   - **SAKHALIN ROCK**　2010年
@@ -57,7 +57,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
   - **IHUNKE**　安東ウメ子　2001年5月20日
   - **UPOPO SANKE**　安東ウメ子　2003年12月14日
-  - マレウレウ の**「**もっといて、ひっそりね。**」**2012年、
+  - **「もっといて、ひっそりね。」**　マレウレウ　2012年
 
 *参加作品*
 
@@ -71,7 +71,7 @@ OKI DUB AINU BANDの中心メンバー。トンコリとボーカルを担当。
 
 ## 出演
 
-  - 『OKI インカラ チャシ』 FM AIR-G’2007年11月～
+  - 『OKI インカラ チャシ』 FM AIR-G’ 2007年11月～
   - 『[ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")』オープニングナーレション
 
 ## 脚注

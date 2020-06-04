@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[left](https://ja.wikipedia.org/wiki/image:Daniel_Akaka_at_senate_youth_program.jpg "wikilink") アメリカ準州のハワイ（現在の[ハワイ州](../Page/ハワイ州.md "wikilink")）の[ホノルル](../Page/ホノルル.md "wikilink")で生まれた。[ハワイ大学](https://ja.wikipedia.org/wiki/ハワイ大学 "wikilink")に進学するが[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の間は[アメリカ陸軍工兵隊](https://ja.wikipedia.org/wiki/アメリカ陸軍工兵隊 "wikilink")に所属し[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")と[テニアン](https://ja.wikipedia.org/wiki/テニアン "wikilink")で従軍した。[ハワイ大学](https://ja.wikipedia.org/wiki/ハワイ大学 "wikilink")から[教育学士](https://ja.wikipedia.org/wiki/教育学士 "wikilink")(1952年)と[教育学修士](https://ja.wikipedia.org/wiki/教育学修士 "wikilink")(1966年)を取得した。
+[left](https://ja.wikipedia.org/wiki/image:Daniel_Akaka_at_senate_youth_program.jpg "wikilink") [アメリカ準州のハワイ](https://ja.wikipedia.org/wiki/準州#アメリカ合衆国の準州 "wikilink")（現在の[ハワイ州](../Page/ハワイ州.md "wikilink")）の[ホノルル](../Page/ホノルル.md "wikilink")で生まれた。[ハワイ大学](https://ja.wikipedia.org/wiki/ハワイ大学 "wikilink")に進学するが[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の間は[アメリカ陸軍工兵隊](https://ja.wikipedia.org/wiki/アメリカ陸軍工兵隊 "wikilink")に所属し[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")と[テニアン](https://ja.wikipedia.org/wiki/テニアン "wikilink")で従軍した。[ハワイ大学](https://ja.wikipedia.org/wiki/ハワイ大学 "wikilink")から[教育学士](https://ja.wikipedia.org/wiki/教育学士 "wikilink")(1952年)と[教育学修士](https://ja.wikipedia.org/wiki/教育学修士 "wikilink")(1966年)を取得した。
 
 1990年4月に死去した[スパーク・マツナガ](../Page/スパーク・マツナガ.md "wikilink")の補欠として上院議員に任命され、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月16日](../Page/5月16日.md "wikilink")に就任した。同年の[11月](../Page/11月.md "wikilink")には正式に上院議員として就任し。[1994年](../Page/1994年.md "wikilink")に一般投票の70パーセント以上を獲得して改選され、2000年、2006年にも再選。2012年の選挙には出馬せず、2013年1月3日をもって上院議員を退任した。
 

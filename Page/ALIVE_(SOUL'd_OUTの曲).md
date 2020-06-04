@@ -10,10 +10,12 @@
 
 ## 収録曲
 
-1.  **ALIVE** (5:22)
-    (作詞：Diggy-MO'，Bro.Hi　作曲：Diggy-MO'，Shinnnosuke　編曲：Shinnnosuke)
-2.  **DD弾** (4:26)
-    (作詞：Diggy-MO'，Bro.Hi　作曲：Diggy-MO'，Shinnnosuke　編曲：Shinnnosuke)
+## 楽曲解説
+
+1.  **ALIVE**
+      -
+        サウンドは、[パワー・ステーションや](../Page/パワー・ステーション_\(バンド\).md "wikilink")[ナイル・ロジャース](../Page/ナイル・ロジャース.md "wikilink")が作った[ロックをイメージして](../Page/ロック_\(音楽\).md "wikilink")、制作されたという\[1\]。
+2.  **DD弾**
       -
         後半部分の歌詞が非公開である。
 
@@ -31,4 +33,10 @@
   - DD弾
     オンラインゲーム「[Freestyle](https://ja.wikipedia.org/wiki/Freestyle "wikilink")」テーマソング
 
+## 脚注
+
+<references />
+
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+
+1.

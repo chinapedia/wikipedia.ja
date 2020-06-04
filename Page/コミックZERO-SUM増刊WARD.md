@@ -1,11 +1,15 @@
 > この記事は[コミックZERO-SUM増刊WARD](https://ja.wikipedia.org/wiki/コミックZERO-SUM増刊WARD)から翻訳されています。
 
 
-『**コミックZERO-SUM増刊WARD**』（コミックゼロサムぞうかんワード）は、[一迅社](../Page/一迅社.md "wikilink")が発行していた[漫画雑誌](../Page/漫画雑誌.md "wikilink")。[2003年](../Page/2003年.md "wikilink")創刊。当初の発売日は2、5、8、11月の16日で、Vol.18まで刊行。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より、奇数月の16日発売となり、誌名を『**ゼロサムWARD**』（独立ではなくコミックZERO-SUM増刊のままのマイナーチェンジ）に変更して、号数もリセットされた。2015年5月16日発売のNo.45を以て休刊した\[1\]。
+『**コミックZERO-SUM増刊WARD**』（コミックゼロサムぞうかんワード）は、[一迅社](../Page/一迅社.md "wikilink")が発行していた[漫画雑誌](../Page/漫画雑誌.md "wikilink")。[2003年](../Page/2003年.md "wikilink")創刊。当初の発売日は2、5、8、11月の16日で、Vol.18まで刊行。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")より、奇数月の16日発売となり、誌名を『**ゼロサムWARD**』（独立ではなくコミックZERO-SUM増刊のままのマイナーチェンジ）に変更して、号数もリセットされた。2015年5月16日発売のNo.45を以て休刊した\[1\]。
 
 ## 概要
 
-主に『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』連載作家陣の読み切り作品を掲載する目的で創刊された季刊誌。後には『コミックZERO-SUM』の連載から派生した外伝的漫画・4コマ漫画及び『コミックZERO-SUM』から移行した作品のほか、『コミックZERO-SUM』にてデビューした作家の読み切りなどの作品が掲載されることも多くなった。
+主に『[コミックZERO-SUM](../Page/コミックZERO-SUM.md "wikilink")』連載作家陣の読み切り作品を掲載する目的で創刊された季刊誌。基本的には旧一賽舎系だが、『[月刊ComicREX](../Page/月刊ComicREX.md "wikilink")』創刊までは、旧スタジオDNA系の少年漫画色が強い連載や読み切りも掲載されていた。
+
+『月刊ComicREX』が創刊し、『[SOUL GADGET RADIANT](https://ja.wikipedia.org/wiki/SOUL_GADGET_RADIANT "wikilink")』『[ティンクルセイバー](https://ja.wikipedia.org/wiki/ティンクルセイバー "wikilink")NOVA』『[BUS GAMER](../Page/BUS_GAMER.md "wikilink")』『[CYNTHIA THE MISSION](../Page/CYNTHIA_THE_MISSION.md "wikilink")』などが移籍した後は『コミックZERO-SUM』の連載から派生した外伝的漫画・4コマ漫画及び『コミックZERO-SUM』から移行した作品や、『コミックZERO-SUM』にてデビューした作家の読み切りなどの作品が掲載されることも多くなった。
 
 色彩の賑やかな『コミックZERO-SUM』の表紙とは趣を異にし、表紙は白を背景にすっきりとした印象の絵柄を用いることが多く、マット紙に金色の文字なども使い、垢抜けた印象を与える。
 

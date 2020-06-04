@@ -132,11 +132,11 @@
 
 ## 番組のコラボレーション
 
-  - [富山民放3局共同キャンペーン テレビはイ・ロ・ハ\!?の](https://ja.wikipedia.org/wiki/富山民放3局共同キャンペーン_テレビはイ・ロ・ハ!? "wikilink")[PRを兼ねて](../Page/宣伝.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")の[いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")とコラボ生中継を行った。
+  - [富山民放3局共同キャンペーン テレビはイ・ロ・ハ\!?の](https://ja.wikipedia.org/wiki/富山民放3局共同キャンペーン_テレビはイ・ロ・ハ!? "wikilink")[PRを兼ねて](../Page/宣伝.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")に[北日本放送](../Page/北日本放送.md "wikilink")の[いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")とコラボ生中継を行った。
 
 ## 関連項目
 
-  - [いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")（[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")）
+  - [いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")（[北日本放送](../Page/北日本放送.md "wikilink")）
 
 ## 外部リンク
 

@@ -14,7 +14,7 @@
 [硝酸水銀(II)](https://ja.wikipedia.org/wiki/硝酸水銀\(II\) "wikilink")と[塩酸](https://ja.wikipedia.org/wiki/塩酸 "wikilink")の反応は次の通りである。副産物として水と[二酸化窒素](../Page/二酸化窒素.md "wikilink")、[一酸化窒素](../Page/一酸化窒素.md "wikilink")を生成する。
 
   -
-    <ce>{Hg(NO3)2} + 2HCl -\> {HgCl2} + {H2O} + {2NO2} + NO</ce>
+    <chem>{Hg(NO3)2} + 2HCl -\> {HgCl2} + {H2O} + {2NO2} + NO</chem>
 
 この反応で生成した塩化水銀(II) の[結晶](../Page/結晶.md "wikilink")を凝縮すると濃度の高いものとなる。
 

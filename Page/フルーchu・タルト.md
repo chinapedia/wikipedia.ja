@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-1.  ビタミンLOVE （作詞：ma-saya、作曲：M-Rie、編曲：[清水俊也](https://ja.wikipedia.org/wiki/清水俊也 "wikilink")）
+1.  ビタミンLOVE （作詞：[ma-saya](https://ja.wikipedia.org/wiki/ma-saya "wikilink")、作曲：M-Rie、編曲：[清水俊也](https://ja.wikipedia.org/wiki/清水俊也 "wikilink")）
 2.  だいじょうぶ… （作詞：[久和カノン](https://ja.wikipedia.org/wiki/久和カノン "wikilink")、作曲：ハマモトヒロユキ、編曲：[上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")）
 3.  永遠ラブリン(∂∇\<)/ （作詞・作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")）
 4.  Lovin’ You （作詞：[MIKIKO](https://ja.wikipedia.org/wiki/MIKIKO "wikilink")、作曲・編曲：清水俊也）

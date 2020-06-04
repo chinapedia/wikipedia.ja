@@ -22,7 +22,7 @@
 ## 番組をネットしていた局
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
   - [和歌山放送](../Page/和歌山放送.md "wikilink")

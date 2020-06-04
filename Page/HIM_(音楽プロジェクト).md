@@ -257,6 +257,6 @@ TBS『ランク王国』オープニングテーマ/Minami<a href="https://ja.wi
 
 ## 外部リンク
 
-  - [HIM ソニーミュージック オフィシャルサイト](http://www.sonymusic.co.jp/Music/Arch/SR/Him/)
+  - [HIM ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/Him/)
 
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink") [Category:1997年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に解散した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

@@ -70,7 +70,7 @@
   - [田渕ひさ子](../Page/田渕ひさ子.md "wikilink") - [NUMBER GIRL](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink") / [toddle](https://ja.wikipedia.org/wiki/toddle "wikilink") / [LAMA](https://ja.wikipedia.org/wiki/LAMA "wikilink") / [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
       -
         シリーズライブ「日比谷ノンフィクションV〜LIVE BY THE C2〜」及びフェス「[VIVA LA ROCK](https://ja.wikipedia.org/wiki/VIVA_LA_ROCK "wikilink") 2016」、「[ROCK IN JAPAN FES](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink").2016」、「[RISING SUN ROCK FESTIVAL 2016 in Ezo](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")」に参加。また、[2016年](../Page/2016年.md "wikilink")に発売されたベストアルバム『[増補改訂完全版「バンドBのベスト」](https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」 "wikilink")』に収録された『祭りのあと（2016年リテイクバージョン）』の録音にも参加している。
-  - [ハヤシヒロユキ](../Page/POLYSICS.md "wikilink") - [POLYSICS](../Page/POLYSICS.md "wikilink") / The Vocoders
+  - [ハヤシヒロユキ](https://ja.wikipedia.org/wiki/ハヤシヒロユキ "wikilink") - [POLYSICS](../Page/POLYSICS.md "wikilink") / The Vocoders
       -
         シリーズライブ「日比谷ノンフィクションV〜LIVE BY THE C2〜」に参加。
   - 津野米咲 - [赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")
@@ -202,6 +202,17 @@
 <!-- end list -->
 
   - 1月30日、初のEP作品『[ポラリス](https://ja.wikipedia.org/wiki/ポラリス_\(Base_Ball_Bearのアルバム\) "wikilink")』を発表。
+
+<!-- end list -->
+
+  -
+
+  - 2020年
+
+<!-- end list -->
+
+  - 1月22日、DGP RECORDSの始動後初となるフルアルバム『[C3](../Page/C3_\(アルバム\).md "wikilink")』をリリース。
+  - 5月9日から7月12日にかけて、全15公演に渡るワンマンツアー「LIVE BY THE C3」を開催する予定であったが、新型コロナウイルス感染症への感染拡大を防止する観点から全公演が中止となった。
 
 <!-- end list -->
 

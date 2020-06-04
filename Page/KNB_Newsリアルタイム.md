@@ -1,7 +1,7 @@
 > この記事は[KNB Newsリアルタイム](https://ja.wikipedia.org/wiki/KNB_Newsリアルタイム)から翻訳されています。
 
 
-『**KNB Newsリアルタイム**』（ケイエヌビー ニュースリアルタイム）は、[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNBテレビ）で、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[富山ローカルの](https://ja.wikipedia.org/wiki/富山県 "wikilink")[情報番組](../Page/ニュース.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")からは『**[いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")**』3部として放送。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
+『**KNB Newsリアルタイム**』（ケイエヌビー ニュースリアルタイム）は、[北日本放送](../Page/北日本放送.md "wikilink")（KNBテレビ）で、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[富山ローカルの](https://ja.wikipedia.org/wiki/富山県 "wikilink")[情報番組](../Page/ニュース.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")からは『**[いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")**』3部として放送。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
 
 ## 放送時間
 

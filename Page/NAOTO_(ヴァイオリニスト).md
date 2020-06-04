@@ -23,6 +23,8 @@
 
 「[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")」及び「[ヱヴァンゲリヲン新劇場版](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")」両シリーズの、劇中音楽のヴァイオリンの殆どを担当している（「THANATOS」のソロ等）。
 
+長年にわたってラジオ（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")をレギュラーで担当するなど、出身地の地元民放局である[毎日放送](../Page/毎日放送.md "wikilink")との縁が深い。2016年には、かねてから親交の深い[押尾コータロー](../Page/押尾コータロー.md "wikilink"){{\#tag:ref|MBSラジオで2003年4月から『[押尾コータローの押しても弾いても](https://ja.wikipedia.org/wiki/押尾コータローの押しても弾いても "wikilink")』のパーソナリティを務めているため、同番組のゲストとしてNAOTOを招くことが多い。|group="注"}}・[DEPAPEPE](../Page/DEPAPEPE.md "wikilink"){{\#tag:ref|メンバーの三浦拓也は、『NAOTOな音』に準レギュラー扱いで出演していた。|group="注"}}と共同で、 「押尾コータロー feat. DEPAPEPE & NAOTO」として「Magical Beautiful Seasons」（『[お天気のお知らせ](https://ja.wikipedia.org/wiki/お天気のお知らせ#ラジオ版 "wikilink")』向けのオリジナル[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")）の制作・演奏に携わった。
+
 ## 評価
 
   - 第39回全日本学生音楽コンクール西日本大会第3位\[13\]
@@ -102,7 +104,8 @@
   - [K-MIX](../Page/静岡エフエム放送.md "wikilink")「Saturday NAOTO Fever」（毎週土曜日19:00 - 19:30、放送終了）
   - [FM OSAKA](../Page/エフエム大阪.md "wikilink")「積水ハウス『グランドメゾン』 presents humming eco live sound」（毎週日曜9:00 - 9:30、2008年7月-9月 ）
   - [InterFM](../Page/InterFM.md "wikilink")「NAOTO “G D A E”」（毎週日曜日7:30 - 8:00、放送終了）
-  - [MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")『NAOTOな音』（毎週水曜日24:30 - 25:00）
+  - [MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")『NAOTOな音』（毎週水曜日24:30 - 25:00、2020年3月で放送終了）
+  - MBSラジオ『NAOTOの月イチな音』（2020年4月から毎月最終月曜日の26:30 - 28:55に生放送）
 
 ## 脚注
 

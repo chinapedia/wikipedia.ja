@@ -190,6 +190,5 @@
 
   - [公式サイト](https://web.archive.org/web/20120114082620/http://www.atlus.co.jp/cs/game/pstation2/grow2/) - [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink")（2012年1月14日アーカイブ分）
   - [公式サイト](http://web.archive.org/web/20130927092404/http://www.atlus.co.jp/cs/game/pstation2/gl4/cts02_top.html) - [ウェイバックマシン](https://ja.wikipedia.org/wiki/ウェイバックマシン "wikilink")（2013年9月27日アーカイブ分）
-  - [グローランサー2攻略サイト](https://kouryaku7.com/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%BC2%E6%94%BB%E7%95%A5/)
 
 [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:電撃ゲーム文庫](https://ja.wikipedia.org/wiki/Category:電撃ゲーム文庫 "wikilink") [Category:グローランサーシリーズ](https://ja.wikipedia.org/wiki/Category:グローランサーシリーズ "wikilink") [Category:傭兵を題材とした作品](https://ja.wikipedia.org/wiki/Category:傭兵を題材とした作品 "wikilink")

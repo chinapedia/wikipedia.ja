@@ -52,7 +52,7 @@
 9.  **DRAIN** (3:28)
     （作詞：HIDE、TOSHI　作曲・編曲：HIDE）
       -
-        リズムトラックが打ち込みであり、YOSHIKIが演奏に参加していないほか、ギタートラックは全てHIDEが弾いているため、PATAも演奏に参加していない。そのためToshlとHIDEとHEATHの3人による楽曲である。
+        リズムトラックが打ち込みであり、YOSHIKIが演奏に参加していないほか、ギタートラックは全てHIDEが弾いているため、PATAも演奏に参加していない。(Live演奏時には参加している。）そのためToshlとHIDEとHEATHの3人による楽曲である。
         後に、[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")が[zilch](https://ja.wikipedia.org/wiki/zilch "wikilink")名義でタイトルを「WHAT'S UP MR.JONES?」に変えてカバーした。
 10. **[Forever Love](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink") (Acoustic Version)** (7:54)
     （作詞・作曲・編曲：YOSHIKI）

@@ -83,6 +83,7 @@
 
 **Get Wild**
 
+  - SONY ORIGINAL DEMONSTRATION DISC REBECCA in Liberty（1987年発表の非売品CD、規格品番：YEDS-35）
   - [Gift for Fanks](../Page/Gift_for_Fanks.md "wikilink")
   - [GROOVE GEAR 1984-1994](../Page/GROOVE_GEAR_1984-1994.md "wikilink") (Disc 1にデモ・テイクとオリジナル、Disc 2にライブバージョンが収録)
   - [TETSUYA KOMURO PRESENTS TMN BLACK](../Page/TETSUYA_KOMURO_PRESENTS_TMN_BLACK.md "wikilink")

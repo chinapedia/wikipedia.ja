@@ -266,4 +266,4 @@
   - [IBAF女子ワールドカップ](http://www.ustream.tv/channel/girls-probaseball) - [Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")
 
   -
-[Category:WBSC_女子ワールドカップ‎](https://ja.wikipedia.org/wiki/Category:WBSC_女子ワールドカップ‎ "wikilink") [Category:野球日本代表](https://ja.wikipedia.org/wiki/Category:野球日本代表 "wikilink")
+[Category:WBSC_女子ワールドカップ](https://ja.wikipedia.org/wiki/Category:WBSC_女子ワールドカップ "wikilink") [Category:野球日本代表](https://ja.wikipedia.org/wiki/Category:野球日本代表 "wikilink")

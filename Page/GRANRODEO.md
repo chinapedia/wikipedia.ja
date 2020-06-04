@@ -87,6 +87,7 @@
 | 28th  | 2018年2月21日                                 | **Deadly Drive**                                                                            | LACM-34729   | LACM-14729 |
 | 29th  | 2018年7月11日                                 | *' BEASTFUL*'                                                                               | LACM-34772   | LACM-14772 |
 | 30th  | 2019年5月8日                                  | *' セツナの愛*'                                                                                  | LACM-34867   | LACM-14867 |
+| 31at  | 2020年7月15日予定                               | *' 情熱は覚えている*'                                                                               | LACM-34008   | LACM-24008 |
 
 #### コラボシングル
 
@@ -244,7 +245,7 @@
 
   - GRANRODEOのもっともハートに火をつけて（[TOKYO FM](../Page/エフエム東京.md "wikilink")：2014年4月1日 - 2016年3月25日）
   - GRANRODEOのDOKI×2ラジオジャンボリー（[文化放送](../Page/文化放送.md "wikilink")：2012年4月8日 - 2014年3月30日、[ABCラジオでも同期間時差ネットで放送](../Page/朝日放送ラジオ.md "wikilink")）
-  - GRANRODEO ハートに火をつけて（TOKYO FM「RADIO DRAGON」内Doors火曜日箱番組：2010年4月6日 - 6月29日）
+  - [GRANRODEO ハートに火をつけて](https://ja.wikipedia.org/wiki/GRANRODEOのハートに火をつけて "wikilink")（TOKYO FM「[RADIO DRAGON](https://ja.wikipedia.org/wiki/RADIO_DRAGON "wikilink")」内Doors火曜日箱番組：2010年4月6日 - 6月29日）
   - GRANRODEO もっとハートに火をつけて（TOKYO FM「RADIO DRAGON」内Doors火曜日箱番組：2010年10月5日 - 2012年3月27日）
   - GRANRODEO それでもハートに火をつけて（TOKYO FM「RADIO DRAGON」内Doors火曜日箱番組：2012年10月2日 - 12月25日）
   - GRANRODEOのケンゼンな本能（[ネオロマンス・ライヴ HOT\! 10 Count down Radio II Huu\!内箱番組](../Page/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio_II_Huu!.md "wikilink")：終了）

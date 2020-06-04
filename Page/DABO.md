@@ -27,7 +27,7 @@
 
 [2012年](../Page/2012年.md "wikilink")12月、[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")に出馬した[山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink")の[高円寺](../Page/高円寺.md "wikilink")での街頭演説に[DELI](../Page/DELI.md "wikilink")らと共に登場し、自身の楽曲「拍手喝采」、「デッパツ進行」などを披露\[2\]。
 
-[2014年](../Page/2014年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")、**DABO & MACKA-CHIN & SUIKEN & S-WORD**名義でシングル「東京弐拾伍時」をManhattan Recordingsより発売\[3\]\[4\]。
+[2014年](../Page/2014年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")、**DABO & MACKA-CHIN & SUIKEN & [S-WORD](../Page/S-WORD.md "wikilink")**名義でシングル「東京弐拾伍時」をManhattan Recordingsより発売\[3\]\[4\]。
 
 同年10月1日には、レーベル「FEEL NO PAIN」を[DJ YAKKO](../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md "wikilink")、[DJ SAATと共に設立](https://ja.wikipedia.org/wiki/DJ_SAAT "wikilink")。
 
@@ -1040,6 +1040,7 @@
 ## その他
 
   - [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink")「ADVANCED PLAYER」（2000年4月19日） - CDジャケットのイラストデザインを担当。
+  - 「Def Jam VENDETTA」（[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")、2003年8月21日） - [PlayStation 2用の格闘ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。日本版にてS-WORDと共にキャラクターとして登場。
   - 「札と月」（[トランスワールドジャパン](../Page/トランスワールドジャパン.md "wikilink")、2009年11月24日） - DABOによる初の著書。
 
 ## 脚注

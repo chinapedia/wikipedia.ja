@@ -56,7 +56,7 @@
       -
         松本によると、当初はそれほどヘヴィーではなく、昔っぽい[ディスコサウンドにするつもりだったらしい](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")。
         稲葉曰く「Bメロに影響を受けて詞は寂しげな感じにした。“寂しいけど勇気はあるぞ”という世界を思い描いて書きました」とのこと。
-        稲葉のお気に入りであったが、ライブでは未演奏。
+        稲葉のお気に入りであったが、アルバムツアーでは未演奏となった。
 6.  **アクアブルー** (3:20)
       -
         本作では数少ない[長調](https://ja.wikipedia.org/wiki/長調 "wikilink")の楽曲。
@@ -83,7 +83,7 @@
       -
         B'zの楽曲では数少ない[ベース](../Page/ベース_\(弦楽器\).md "wikilink")[ソロが存在する](../Page/ソロ_\(音楽\).md "wikilink")。松本曰く、「少し普段のB'zとは趣を異にしている」楽曲。
         レコーディングの最初に歌入れを初めて、終盤まで続けたという、本作において稲葉が最も作詞や歌入れに苦労した曲。
-        ライブでは未演奏となっている。
+        アルバムツアーでは未演奏となった。
 11. **イカロス** (3:32)
       -
         本アルバム製作のスタートになった楽曲。
@@ -168,7 +168,7 @@
 
 ## 外部リンク
 
-  - [B'z DISCOGRAPHY 『THE CIRCLE』](http://bz-vermillion.com/disco/al_14.html) ※楽曲の試聴が可能
+  - [B'z DISCOGRAPHY 『THE CIRCLE』](http://bz-vermillion.com/discography/al_14.html) ※楽曲の試聴が可能
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:2005年のアルバム](https://ja.wikipedia.org/wiki/Category:2005年のアルバム "wikilink") [Category:VERMILLION_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:VERMILLION_RECORDSのアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2005年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

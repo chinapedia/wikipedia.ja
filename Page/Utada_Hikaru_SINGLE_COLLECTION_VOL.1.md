@@ -89,6 +89,10 @@
 
 ## 出典
 
+## 外部リンク
+
+  - [作品紹介ページ Utada Hikaru SINGLE COLLECTION VOL.1](http://www.utadahikaru.jp/music/album/title_7.html)
+
 [Category:宇多田ヒカルのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:宇多田ヒカルのベスト・アルバム "wikilink") [Category:2004年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のベスト・アルバム "wikilink") [Category:2004年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink") [Category:オリコン年間アルバムチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位作品 "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.  2010年代に、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")のオールタイム・ベストアルバム『[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")』が2017年11月20日付のオリコン週間CDアルバムランキングにおいて初動売上1,113,291枚を記録し、13年7か月ぶりに初動売上100万枚を突破した。

@@ -149,6 +149,7 @@
   - [U・LA・LA@7](http://www.mxtv.co.jp/ulala7/)（U・LA・LA＠7ホームページ）
 
   -
+  -
 [Category:日系アメリカ人のモデル](https://ja.wikipedia.org/wiki/Category:日系アメリカ人のモデル "wikilink")
 
 [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本の司会者](https://ja.wikipedia.org/wiki/Category:日本の司会者 "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:J-WAVEのナビゲーター](https://ja.wikipedia.org/wiki/Category:J-WAVEのナビゲーター "wikilink") [Category:スターダストプロモーション](https://ja.wikipedia.org/wiki/Category:スターダストプロモーション "wikilink") [Category:在日アメリカ人](https://ja.wikipedia.org/wiki/Category:在日アメリカ人 "wikilink") [Category:日系アメリカ人](https://ja.wikipedia.org/wiki/Category:日系アメリカ人 "wikilink") [Category:英語と日本語のネイティブ](https://ja.wikipedia.org/wiki/Category:英語と日本語のネイティブ "wikilink") [Category:シチリア系アメリカ人](https://ja.wikipedia.org/wiki/Category:シチリア系アメリカ人 "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink") [Category:1984年生](https://ja.wikipedia.org/wiki/Category:1984年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -50,8 +50,10 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [2013年](../Page/2013年.md "wikilink")：[蒼井優](https://ja.wikipedia.org/wiki/蒼井優 "wikilink")\[3\]
   - [2014年](../Page/2014年.md "wikilink") - [2015年](../Page/2015年.md "wikilink")：[長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")\[4\]
   - [2016年](../Page/2016年.md "wikilink")：[真木よう子](https://ja.wikipedia.org/wiki/真木よう子 "wikilink")\[5\]
-  - [2017年](../Page/2017年.md "wikilink") - [2020年](../Page/2020年.md "wikilink")：[森星](https://ja.wikipedia.org/wiki/森星 "wikilink")\[6\]
-  - 2019年：[八木莉可子](https://ja.wikipedia.org/wiki/八木莉可子 "wikilink")、[大坂なおみ](https://ja.wikipedia.org/wiki/大坂なおみ "wikilink")
+  - [2017年](../Page/2017年.md "wikilink") - ：[森星](https://ja.wikipedia.org/wiki/森星 "wikilink")\[6\]
+  - [2019年](../Page/2019年.md "wikilink")：[八木莉可子](https://ja.wikipedia.org/wiki/八木莉可子 "wikilink")
+  - 2019年 -：[大坂なおみ](https://ja.wikipedia.org/wiki/大坂なおみ "wikilink")
+  - [2020年](../Page/2020年.md "wikilink")：[伊藤ふたば](https://ja.wikipedia.org/wiki/伊藤ふたば "wikilink")・[羽根田卓也](https://ja.wikipedia.org/wiki/羽根田卓也 "wikilink")・[重本沙絵](https://ja.wikipedia.org/wiki/重本沙絵 "wikilink")
 
 ## 脚注
 

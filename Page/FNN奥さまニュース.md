@@ -47,7 +47,7 @@
 
 ### FNN非加盟局
 
-岩手放送・福島テレビ・山梨放送・四国放送・高知放送の5局は、FNN非加盟にもかかわらずタイトルを差し替えないで放送していた（福島テレビは1971年10月以降[FNSに加盟](../Page/フジネットワーク.md "wikilink")）。また岩手放送・福島テレビ・テレビ山口は[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")の例外措置として[産業経済新聞社](../Page/産業経済新聞社.md "wikilink")配給番組に準じた扱いで放送された。
+岩手放送・福島テレビ・山梨放送・四国放送・高知放送の5局は、FNN非加盟にもかかわらずタイトルを差し替えないで放送していた（福島テレビは1971年10月以降[FNSに加盟](../Page/フジネットワーク.md "wikilink")）。また、当時JNNに[昼間のスポットニュースが設定されなかったため](https://ja.wikipedia.org/wiki/JNNニュース#スポットニュース "wikilink")、岩手放送・福島テレビ・テレビ山口は[排他協定の例外措置として](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")[産業経済新聞社](../Page/産業経済新聞社.md "wikilink")配給[番組に準じた扱いで放送された](https://ja.wikipedia.org/wiki/産経新聞ニュース#産経新聞ニュース_\(5社ニュース\) "wikilink")。
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - FNN・FNSともに非加盟であるため、『**奥さまニュース**』というタイトルに差し替えていた。タイトル表示は[ブルーバック](../Page/ブルーバック.md "wikilink")。14:55 - 15:00の5分間のみの放送。
   - 岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")）

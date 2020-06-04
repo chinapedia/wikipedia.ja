@@ -1,7 +1,7 @@
 > この記事は[ウォリアーズFC](https://ja.wikipedia.org/wiki/ウォリアーズFC)から翻訳されています。
 
 
-**ウォリアーズFC**（、略称：Warriors）は、[Sリーグに参加する](https://ja.wikipedia.org/wiki/シンガポールサッカーリーグ "wikilink")[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のサッカークラブである。2012年まではシンガポール・アームド・フォーシズFC (Singapore Armed Forces Football Club)という名称だったが、2013年に現在の名称へ変更された\[1\]。
+**ウォリアーズFC**（、略称：Warriors）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のサッカークラブである。2012年まではシンガポール・アームド・フォーシズFC (Singapore Armed Forces Football Club)という名称だったが、2013年に現在の名称へ変更された\[1\]。
 
 ## 概要
 
@@ -9,17 +9,15 @@
 
 ## 歴史
 
-シンガポール軍スポーツ協会（SAFSA）のサッカー部門として発足し、[1975年](../Page/1975年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")までシンガポールの国内リーグに参加。[1996年](../Page/1996年.md "wikilink")の[Sリーグ](https://ja.wikipedia.org/wiki/Sリーグ "wikilink")発足に合わせて独立され、シンガポール・アームド・フォーシズFC (SAFFC) となった。現在は軍隊所属外の選手も参加できるようになっている。
+シンガポール軍スポーツ協会（SAFSA）のサッカー部門として発足し、[1975年](../Page/1975年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")までシンガポールの国内リーグに参加。[1996年](../Page/1996年.md "wikilink")の[シンガポールプレミアリーグ](../Page/シンガポールプレミアリーグ.md "wikilink")（旧：Sリーグ）発足に合わせて独立され、シンガポール・アームド・フォーシズFC (SAFFC) となった。現在は軍隊所属外の選手も参加できるようになっている。
 
 [2009年](../Page/2009年.md "wikilink")、シンガポールのクラブとして初めて[AFCチャンピオンズリーグに出場](https://ja.wikipedia.org/wiki/AFCチャンピオンズリーグ2009 "wikilink")。[2009年のJリーグ](https://ja.wikipedia.org/wiki/2009年のJリーグ "wikilink")優勝の[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")、[Kリーグ優勝の](https://ja.wikipedia.org/wiki/Kリーグクラシック "wikilink")[水原三星ブルーウィングス](../Page/水原三星ブルーウィングス.md "wikilink")、[中国スーパーリーグ準優勝の](https://ja.wikipedia.org/wiki/中国サッカー・スーパーリーグ "wikilink")[上海申花足球倶楽部](https://ja.wikipedia.org/wiki/上海申花足球倶楽部 "wikilink")と同グループに入ったが、1分5敗でグループステージ敗退となった。
 
-## 現所属メンバー
-
-\[2\]
+2019年シーズンをもってシンガポールプレミアリーグを脱退した\[2\]。
 
 ## タイトル
 
-  - **[リーグ](https://ja.wikipedia.org/wiki/Sリーグ "wikilink")：8回**
+  - **[リーグ](../Page/シンガポールプレミアリーグ.md "wikilink")：8回**
 
 <!-- end list -->
 

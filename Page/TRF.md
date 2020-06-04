@@ -103,7 +103,7 @@
 
 ### 2012年 - 2016年
 
-  - [2012年](../Page/2012年.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")にエクササイズDVD『EZ DO DANCERCIZE（イージー・ドゥ・ダンササイズ）』予約販売開始。販売は6月下旬。結成20周年を記念して、avexと[exabodyが共同開発](../Page/オークローンマーケティング.md "wikilink")。ダンスメンバーの[SAM](../Page/SAM_\(ダンサー\).md "wikilink")、ETSU、[CHIHARU](https://ja.wikipedia.org/wiki/CHIHARU "wikilink")が自身のヒット曲である『[EZ DO DANCE](https://ja.wikipedia.org/wiki/EZ_DO_DANCE "wikilink")』『[survival dAnce 〜no no cry more〜](https://ja.wikipedia.org/wiki/survival_dAnce_〜no_no_cry_more〜 "wikilink")』『[BOY MEETS GIRL](../Page/BOY_MEETS_GIRL.md "wikilink")』に合わせてオリジナルのダンスエクササイズプログラムを開発し直接指導している。またこの作品は、TRFのヒット曲にあわせてエクササイズが出来る事が評価され、2013年2月25日にミリオン突破が発表された。CDとDVD両方でミリオンセールスを記録したのは日本人歌手初である。好評を博し、2013年2月28日にDISC4「寒い夜だから・・・」〜体幹集中プログラムがリリース。4月15日に『[Overnight Sensation](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink")』『[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")』『[CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink")』を収録した『EZ DO DANCERCIZE 2nd エディション』のリリースが決定。
+  - [2012年](../Page/2012年.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")にエクササイズDVD『EZ DO DANCERCIZE（イージー・ドゥ・ダンササイズ）』予約販売開始。販売は6月下旬。結成20周年を記念して、avexと[exabodyが共同開発](../Page/オークローンマーケティング.md "wikilink")。ダンスメンバーの[SAM](../Page/SAM_\(ダンサー\).md "wikilink")、ETSU、[CHIHARU](https://ja.wikipedia.org/wiki/CHIHARU "wikilink")が自身のヒット曲である『[EZ DO DANCE](https://ja.wikipedia.org/wiki/EZ_DO_DANCE "wikilink")』『[survival dAnce 〜no no cry more〜](https://ja.wikipedia.org/wiki/survival_dAnce_〜no_no_cry_more〜 "wikilink")』『[BOY MEETS GIRL](../Page/BOY_MEETS_GIRL_\(曲\).md "wikilink")』に合わせてオリジナルのダンスエクササイズプログラムを開発し直接指導している。またこの作品は、TRFのヒット曲にあわせてエクササイズが出来る事が評価され、2013年2月25日にミリオン突破が発表された。CDとDVD両方でミリオンセールスを記録したのは日本人歌手初である。好評を博し、2013年2月28日にDISC4「寒い夜だから・・・」〜体幹集中プログラムがリリース。4月15日に『[Overnight Sensation](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink")』『[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")』『[CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink")』を収録した『EZ DO DANCERCIZE 2nd エディション』のリリースが決定。
 
 <!-- end list -->
 
@@ -187,7 +187,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>1994年<a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
-<td><p><a href="../Page/BOY_MEETS_GIRL.md" title="wikilink">BOY MEETS GIRL</a></p></td>
+<td><p><a href="../Page/BOY_MEETS_GIRL_(曲).md" title="wikilink">BOY MEETS GIRL</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>AVDD-20080</p></td>
 <td><p>3位</p></td>
@@ -566,19 +566,19 @@
 
 #### シングル
 
-  - [BOY MEETS GIRL](https://ja.wikipedia.org/wiki/BOY_MEETS_GIRL_\(香港盤\) "wikilink") 香港盤、※ジャケット違い
-  - [寒い夜だから…](https://ja.wikipedia.org/wiki/寒い夜だから…_\(香港盤\) "wikilink") 香港盤、※ジャケット違い
-  - [CRAZY GONNA CRAZY](https://ja.wikipedia.org/wiki/CRAZY_GONNA_CRAZY_\(香港盤\) "wikilink") 香港盤、※ジャケット違い
-  - [survival dAnce 〜no no cry more〜](https://ja.wikipedia.org/wiki/survival_dAnce_〜no_no_cry_more〜_\(香港盤\) "wikilink") 香港盤、※ジャケット違い
+  - BOY MEETS GIRL 香港盤、※ジャケット違い
+  - 寒い夜だから… 香港盤、※ジャケット違い
+  - CRAZY GONNA CRAZY 香港盤、※ジャケット違い
+  - survival dAnce 〜no no cry more〜 香港盤、※ジャケット違い
   - [WORLD GROOVE '96](https://ja.wikipedia.org/wiki/WORLD_GROOVE_'96 "wikilink")
   - [EZ DO DANCE '96](https://ja.wikipedia.org/wiki/EZ_DO_DANCE_'96 "wikilink")
 
 #### アルバム
 
   - [BILLIONAIRE '96](https://ja.wikipedia.org/wiki/BILLIONAIRE_〜BOY_MEETS_GIRL〜 "wikilink")
-  - [dAnce to positive](https://ja.wikipedia.org/wiki/dAnce_to_positive_\(香港盤\) "wikilink") 香港盤、※ジャケット違い、シングル曲はそれぞれsingle versionで収録
-  - [BRAND NEW TOMORROW](https://ja.wikipedia.org/wiki/BRAND_NEW_TOMORROW_\(香港盤\) "wikilink") 香港盤、※ジャケットは日本と同じ
-  - [MEGA MIXES香港盤](https://ja.wikipedia.org/wiki/MEGA_MIXES "wikilink")
+  - dAnce to positive 香港盤、※ジャケット違い、シングル曲はそれぞれsingle versionで収録
+  - BRAND NEW TOMORROW 香港盤、※ジャケットは日本と同じ
+  - [MEGA MIXES](https://ja.wikipedia.org/wiki/MEGA_MIXES "wikilink") 香港盤
 
 ### 参加作品
 
@@ -692,7 +692,7 @@
 <!-- end list -->
 
   - [NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-      - [第45回NHK紅白歌合戦](../Page/第45回NHK紅白歌合戦.md "wikilink")（1994年12月31日）「[BOY MEETS GIRL](../Page/BOY_MEETS_GIRL.md "wikilink")」 - 初出場
+      - [第45回NHK紅白歌合戦](../Page/第45回NHK紅白歌合戦.md "wikilink")（1994年12月31日）「[BOY MEETS GIRL](../Page/BOY_MEETS_GIRL_\(曲\).md "wikilink")」 - 初出場
       - [第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")（1995年12月31日）「[Overnight Sensation 〜時代はあなたに委ねてる〜](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink")」 - 2年連続2回目の出場
       - [第47回NHK紅白歌合戦](../Page/第47回NHK紅白歌合戦.md "wikilink")（1996年12月31日）「LEGEND OF WIND」 - 3年連続3回目の出場
   - [FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）

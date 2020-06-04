@@ -185,7 +185,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a></p></td>
-<td></td>
+<td><p>1986年10月から1987年9月まで『<a href="../Page/太陽にほえろ!.md" title="wikilink">太陽にほえろ!</a>』『<a href="../Page/ジャングル_(テレビドラマ).md" title="wikilink">ジャングル (テレビドラマ)</a>』（いずれも<a href="https://ja.wikipedia.org/wiki/日本テレビ" title="wikilink">日本テレビ</a>）を放送していたため、『西田敏行の泣いてたまるか』を除き、午後5時台などの枠を含めて一度も放送されていない。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -285,7 +285,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -332,7 +332,7 @@
 
 ## 脚注
 
-[Category:TBS火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜9時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")
+[Category:TBS火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS火曜9時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink")
 
 1.  その2年後には、木曜21時枠へ移動。
 2.  2003年に[ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink")となり、2019年に[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")に統合。

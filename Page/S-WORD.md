@@ -53,7 +53,7 @@
       - 4月2日、3rdシングル「FIGHT FOR YOUR RIGHT」を発売。[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")をカバー。
       - 6月11日、4thシングル「WRAP MUZIK」を発売。[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")が楽曲を提供した。
       - 7月16日、2ndアルバム『STARILL WARZ』をリリース。アメリカのトラックメーカーJUST BLAZEや、プロデューサーRASHAD SMITHなど海外プロデューサーも楽曲を提供し、自身初となるニューヨークでのレコーディングを経験する。
-      - [PlayStation 2の格闘ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・ソフト「Def Jam Vendetta」にゲーム・キャラクターとして登場。
+      - 8月21日発売の[PlayStation 2の格闘ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・ソフト「Def Jam Vendetta」([エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink"))に、同じく当時Def Jam Japanと契約していた[DABO](../Page/DABO.md "wikilink")と共にゲーム・キャラクターとして登場。
 
 <!-- end list -->
 

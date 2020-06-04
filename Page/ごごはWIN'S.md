@@ -1,7 +1,7 @@
 > この記事は[ごごはWIN\'S](https://ja.wikipedia.org/wiki/ごごはWIN\'S)から翻訳されています。
 
 
-『**ごごはWIN'S**』（ごごはウィンズ）は、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")ラジオで放送されていた昼の[ワイド番組](../Page/ワイド番組.md "wikilink")。
+『**ごごはWIN'S**』（ごごはウィンズ）は、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[秋田放送](../Page/秋田放送.md "wikilink")ラジオで放送されていた昼の[ワイド番組](../Page/ワイド番組.md "wikilink")。
 
 ## 概要
 

@@ -1,9 +1,11 @@
 > この記事は[スペースシャワーTV歴代POWER PUSH一覧](https://ja.wikipedia.org/wiki/スペースシャワーTV歴代POWER_PUSH一覧)から翻訳されています。
 
 
-**スペースシャワーTV歴代POWER PUSH一覧**（スペースシャワーティーヴィれきだいパワープッシュいちらん）は、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")音楽チャンネル[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")が毎月[ヘビーローテーション](https://ja.wikipedia.org/wiki/ヘビーローテーション "wikilink")としている**POWER PUSH**の歴代楽曲の一覧。POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")（洋楽は[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")）にスタートし、。[2005年](../Page/2005年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけては、かつてPOWER PUSHに選曲されたアーティストによる「POWER PUSH LIVE」が[リキッドルーム](https://ja.wikipedia.org/wiki/リキッドルーム "wikilink")にて行われた。
+**スペースシャワーTV歴代POWER PUSH一覧**（スペースシャワーティーヴィれきだいパワープッシュいちらん）は、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")音楽チャンネル[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")が毎月[ヘビーローテーション](https://ja.wikipedia.org/wiki/ヘビーローテーション "wikilink")としている**POWER PUSH**の歴代楽曲の一覧。
 
-## Power Push\!
+POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")（洋楽は[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")）にスタートし、。[2005年](../Page/2005年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけては、かつてPOWER PUSHに選曲されたアーティストによる「POWER PUSH LIVE」が[リキッドルーム](https://ja.wikipedia.org/wiki/リキッドルーム "wikilink")にて行われた。
+
+## POWER PUSH\!
 
 ### 1993年
 
@@ -465,7 +467,7 @@
 | 2月 | ユースレスマシン   | [ハンブレッダーズ](../Page/ハンブレッダーズ.md "wikilink")                  |
 | 3月 | アイスクリーム    | [Rude-α](https://ja.wikipedia.org/wiki/Rude-α "wikilink")   |
 | 4月 | life hack  | [Vaundy](https://ja.wikipedia.org/wiki/Vaundy "wikilink")   |
-| 5月 | 優しさ        | [藤井 風](https://ja.wikipedia.org/wiki/藤井_風 "wikilink")       |
+| 5月 | 優しさ        | [藤井風](../Page/藤井風.md "wikilink")                            |
 | 6月 |            |                                                             |
 |    |            |                                                             |
 

@@ -375,7 +375,7 @@ MBSとしては、[1989年](../Page/1989年.md "wikilink")に放送された『[
 ## 放送局
 
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS)
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") (TX) - MBSにおける本来の系列[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[TBSの放送ではない](../Page/TBSテレビ.md "wikilink")。
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") (TX) - MBSにおける本来の系列[キー局](../Page/キー局.md "wikilink")である[TBSの放送ではない](../Page/TBSテレビ.md "wikilink")。
   - [東北放送](../Page/東北放送.md "wikilink") (TBC) - 主題歌を歌っていた[sus4](https://ja.wikipedia.org/wiki/sus4 "wikilink")のメンバー・[根本美緒](https://ja.wikipedia.org/wiki/根本美緒 "wikilink")は2001年から3年間TBCにアナウンサーとして在籍していた。
   - [テレビユー福島](../Page/テレビユー福島.md "wikilink") (TUF) - 上記3局は深夜に放送されたのに対して、TUFは早朝での放送であった。
 

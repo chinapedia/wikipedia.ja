@@ -1,11 +1,11 @@
 > この記事は[F.E.A.R. \(ゲームソフト\)](https://ja.wikipedia.org/wiki/F.E.A.R._\(ゲームソフト\))から翻訳されています。
 
 
-『**F.E.A.R. -First Encounter Assault Recon-**』（フィアー　-ファースト エンカウンター アサルト リコン-）は、[Monolith Productionsがパソコン用に製作した](../Page/Monolith_Productions.md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。ジャンルは[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")発売。
+『**F.E.A.R. -First Encounter Assault Recon-**』（フィアー -ファースト エンカウンター アサルト リコン-）は、[Monolith Productionsがパソコン用に製作した](../Page/Monolith_Productions.md "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。ジャンルは[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")発売。
 
-後に[プレイステーション3版と](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Xbox 360版が米国で発売され](../Page/Xbox_360.md "wikilink")、日本でも発売予定だったが中止になった。マルチプレイ版は後述するが、無料で配布されている。
+後に[PlayStation 3版と](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Xbox 360版が米国で発売され](../Page/Xbox_360.md "wikilink")、日本でも発売予定だったが中止になった。マルチプレイ版は後述するが、無料で配布されている。
 
-続編の『[F.E.A.R.2](https://ja.wikipedia.org/wiki/F.E.A.R.2 "wikilink") :Project Origin』が2009年2月16日にプレイステーション3、Xbox 360、PC版の3フォーマットで発売されている。2010年には『[F.3.A.R.](https://ja.wikipedia.org/wiki/F.3.A.R. "wikilink")』というタイトルで3作目が制作され、2011年6月21日にプレイステーション3、Xbox 360、PC版が北米で、また日本では同年7月21日に発売された。
+続編の『[F.E.A.R.2](https://ja.wikipedia.org/wiki/F.E.A.R.2 "wikilink") :Project Origin』が2009年2月16日にPlayStation 3、Xbox 360、PC版の3フォーマットで発売されている。2010年には『[F.3.A.R.](https://ja.wikipedia.org/wiki/F.3.A.R. "wikilink")』というタイトルで3作目が制作され、2011年6月21日にPlayStation 3、Xbox 360、PC版が北米で、また日本では同年7月21日に発売された。
 
 ## 概要
 
@@ -317,8 +317,6 @@ F.E.A.R.チーム、デルタフォースチーム、ATC職員、その他に分
 
 ## 脚注
 
-<references/>
-
 ## 関連項目
 
   - [F.E.A.R.2](https://ja.wikipedia.org/wiki/F.E.A.R.2 "wikilink")
@@ -331,7 +329,7 @@ F.E.A.R.チーム、デルタフォースチーム、ATC職員、その他に分
   - [MONOLITH（開発元/英語）](http://www.lith.com/home.asp)
   - [F.E.A.R.COMBAT公式サイト](http://www.joinfear.com/)
 
-[Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:超常現象を題材としたコンピューターゲーム](https://ja.wikipedia.org/wiki/Category:超常現象を題材としたコンピューターゲーム "wikilink") [Category:スリラーゲーム](https://ja.wikipedia.org/wiki/Category:スリラーゲーム "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink")
+[Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:スリラーゲーム](https://ja.wikipedia.org/wiki/Category:スリラーゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:超常現象を題材としたコンピューターゲーム](https://ja.wikipedia.org/wiki/Category:超常現象を題材としたコンピューターゲーム "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink")
 
 1.  \[<http://fear.zoo.co.jp/introduction.php>　FEAR3PC日本語製品紹介\]
 2.  [東京レトロゲームショウ2015：第30回　「F.E.A.R.」で，色褪せないグラフィックスに感心したり赤い服の少女に戦慄したりする](http://www.4gamer.net/games/301/G030139/20151202061/)4Gamers

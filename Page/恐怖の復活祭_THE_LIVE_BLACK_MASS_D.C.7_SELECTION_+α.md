@@ -19,7 +19,7 @@
 
 DISC 01
 
-1.  **聖飢魔II SYMPHONY MEDLEY-3 〜 PROLOGUE (@戸田 Nov. 17)**（作曲: [エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink"), [紫馬肥](https://ja.wikipedia.org/wiki/紫馬肥 "wikilink"), [デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") / 編曲: [怪人松崎様](../Page/松崎雄一.md "wikilink")）
+1.  **聖飢魔II SYMPHONY MEDLEY-3 〜 PROLOGUE (@戸田 Nov. 17)**（作曲: [エース清水](../Page/ACE_\(ミュージシャン\).md "wikilink"), [紫馬肥](https://ja.wikipedia.org/wiki/聖飢魔II#結成〜地球デビュー "wikilink"), [デーモン小暮](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink") / 編曲: [怪人松崎様](../Page/松崎雄一.md "wikilink")）
 2.  **[BAD AGAIN "美しき反逆"](../Page/BAD_AGAIN_〜美しき反逆〜.md "wikilink")** (@大阪 Dec. 07)（作詞: デーモン小暮 / 作曲: [ルーク篁](https://ja.wikipedia.org/wiki/LUKE_TAKAMURA "wikilink")）
 3.  **[地獄の皇太子](../Page/聖飢魔II〜悪魔が来たりてヘヴィメタる.md "wikilink")**（作詞・作曲: デーモン小暮）
 4.  **[OVERTURE 〜 WINNER\!](../Page/WINNER!.md "wikilink")**（作詞: デーモン小暮, ぬらりひょん吉 / 作曲: ルーク篁）

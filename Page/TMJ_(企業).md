@@ -1,7 +1,7 @@
 > この記事は[TMJ \(企業\)](https://ja.wikipedia.org/wiki/TMJ_\(企業\))から翻訳されています。
 
 
-**株式会社TMJ**（英称：*TMJ, Inc*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く、[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")より1992年に分社独立した[総合BPOサービス](https://ja.wikipedia.org/wiki/総合BPOサービス "wikilink")[事業会社](https://ja.wikipedia.org/wiki/事業会社 "wikilink")である。2017年より[セコム](../Page/セコム.md "wikilink")の100%子会社となり、セコムグループの1社となる。
+**株式会社TMJ**（英称：*TMJ, Inc*）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く、[ベネッセコーポレーション](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")より1992年に分社独立した[総合BPOサービス](https://ja.wikipedia.org/wiki/総合BPOサービス "wikilink")[会社である](https://ja.wikipedia.org/wiki/事業会社 "wikilink")。2017年より[セコム](../Page/セコム.md "wikilink")の100%子会社となり、セコムグループの1社となる。
 
 ## 概要
 
@@ -34,13 +34,14 @@
   - [2012年](../Page/2012年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - 株式会社テレマーケティングジャパンより現社名に商号変更。
   - [2017年](../Page/2017年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") - [ベネッセホールディングスと](https://ja.wikipedia.org/wiki/ベネッセコーポレーション "wikilink")[丸紅](../Page/丸紅.md "wikilink")が保有していた全株式を[セコム](../Page/セコム.md "wikilink")へ譲渡。TMJはセコムの完全子会社となる\[4\]\[5\]\[6\]。
   - [2018年](../Page/2018年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - セコムスタッフサービス株式会社を吸収合併\[7\]。
+  - 2019年 - 福岡第3センター、福岡第4センター、鹿児島事業所、仙台事業所、みなとみらいセンターを設立
 
 ## 事業内容
 
   - BPOに関するアウトソーシングサービス
   - コンサルティングサービス
   - コンタクトセンター運営
-  - 人材派遣
+  - 人財派遣・人財紹介
   - システム導入支援・提供
 
 ## 事業拠点

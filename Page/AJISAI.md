@@ -16,7 +16,7 @@
 
   - 須江 篤史
     （すえ あつし、[1984年](../Page/1984年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")-） - [ギター](../Page/ギター.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-    彼の持っている楽器は数多く、[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")スタンダード、フェンダー・ストラトキャスター、[ギブソン・ES-335](../Page/ギブソン・ES-335.md "wikilink")、シェクター SD-2、[モーリス](../Page/モーリス楽器製造.md "wikilink") F-15、[ヤマハ](../Page/ヤマハ.md "wikilink") NO G.60、[エピフォン](../Page/エピフォン.md "wikilink")・[フライングV](https://ja.wikipedia.org/wiki/フライングV "wikilink")等
+    一部の楽曲の作曲を担当。彼の持っている楽器は数多く、[ギブソン・レスポール](../Page/ギブソン・レスポール.md "wikilink")スタンダード、フェンダー・ストラトキャスター、[ギブソン・ES-335](../Page/ギブソン・ES-335.md "wikilink")、シェクター SD-2、[モーリス](../Page/モーリス楽器製造.md "wikilink") F-15、[ヤマハ](../Page/ヤマハ.md "wikilink") NO G.60、[エピフォン](../Page/エピフォン.md "wikilink")・[フライングV](https://ja.wikipedia.org/wiki/フライングV "wikilink")等
 
 <!-- end list -->
 

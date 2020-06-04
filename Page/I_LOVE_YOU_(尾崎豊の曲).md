@@ -103,6 +103,7 @@
   - [玉置浩二](../Page/玉置浩二.md "wikilink") - 『群像の星』（2014年12月3日）\[22\]\[23\]
   - [D-LITE](https://ja.wikipedia.org/wiki/D-LITE "wikilink")（from [BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")）シングル「I LOVE YOU」（2013年7月31日）\[24\]、アルバム『D'slove』（2014年）収録\[25\]。[UULA](https://ja.wikipedia.org/wiki/UULA "wikilink") オリジナルドラマ『I LOVE YOU』主題歌。
   - [堂本剛](../Page/堂本剛.md "wikilink")（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")） - ライブでのカバー。ビデオ『KinKi Kids'96』（1996年）に収録。後にアルバム『[カバ](https://ja.wikipedia.org/wiki/カバ_\(アルバム\) "wikilink")』（2013年5月8日）に収録\[26\]。
+  - [Toshl](https://ja.wikipedia.org/wiki/Toshl "wikilink") - 『[IM A SINGER](https://ja.wikipedia.org/wiki/IM_A_SINGER "wikilink")』（2018年11月28日）ALL LIIVE NIPPON 2019（ニッポン放送 オールナイトニッポン）（2019年1月19日）横浜アリーナにて、カバー。アイスショー Fantasy On Ice 2019（2019年5月〜6月）幕張・仙台・神戸・富山にて、ステファン・ランビエールと上演。
   - [NAOKI](https://ja.wikipedia.org/wiki/NAOKI_\(ダンサー\) "wikilink")（EXILE） - ラジオ番組『[EXILE EX-PRESS](https://ja.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")』（[JFN](../Page/全国FM放送協議会.md "wikilink")）でカバー。
   - [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") - シングル「[見えない星](../Page/見えない星.md "wikilink")」（2007年2月21日）カップリング。
   - [中西保志](../Page/中西保志.md "wikilink") - 『Standards2』（2007年11月7日）

@@ -7,7 +7,7 @@
 
 2000年に[コンタクト・ジャパン](https://ja.wikipedia.org/wiki/コンタクト・ジャパン "wikilink")のイベントで来日した。
 
-2011年4月、SFコンベンション「[はるこん](http://www.hal-con.net/)」のゲスト･オブ･オナーとして、3度目の来日を果たした\[12\]。
+2011年4月、SFコンベンション「はるこん」\[[http://www.hal-con.net/\]のゲスト･オブ･オナーとして、3度目の来日を果たした](http://www.hal-con.net/%5Dのゲスト･オブ･オナーとして、3度目の来日を果たした)\[12\]。
 
 ## 小説
 
@@ -37,11 +37,11 @@
 
 ## 編集と学術的な仕事
 
-作家として以外に、[Fitzhenry & Whiteside](https://ja.wikipedia.org/wiki/:en:Fitzhenry_&_Whiteside "wikilink") という出版社の一部である Red Deer Press の[インプリント](../Page/インプリント.md "wikilink") [Robert J. Sawyer Books](http://www.robertjsawyerbooks.com) の編集を担当している\[23\]。また、*[The New York Review of Science Fiction](https://ja.wikipedia.org/wiki/:en:The_New_York_Review_of_Science_Fiction "wikilink")* 誌に寄稿し\[24\]、*The Canadian Encyclopedia* ではサイエンス・フィクションの専門家として協力している\[25\]。[L・ロン・ハバード](../Page/L・ロン・ハバード.md "wikilink")の開催したコンテスト [Writers of the Future](https://ja.wikipedia.org/wiki/:en:Writers_of_the_Future "wikilink") では審査員を務めた\[26\]。
+作家として以外に、[Fitzhenry & Whiteside](https://ja.wikipedia.org/wiki/:en:Fitzhenry_&_Whiteside "wikilink") という出版社の一部である Red Deer Press の[インプリント](../Page/インプリント.md "wikilink")Robert J. Sawyer Books\[[http://www.robertjsawyerbooks.com\]の編集を担当している](http://www.robertjsawyerbooks.com%5Dの編集を担当している)\[23\]。また、*[The New York Review of Science Fiction](https://ja.wikipedia.org/wiki/:en:The_New_York_Review_of_Science_Fiction "wikilink")* 誌に寄稿し\[24\]、*The Canadian Encyclopedia* ではサイエンス・フィクションの専門家として協力している\[25\]。[L・ロン・ハバード](../Page/L・ロン・ハバード.md "wikilink")の開催したコンテスト [Writers of the Future](https://ja.wikipedia.org/wiki/:en:Writers_of_the_Future "wikilink") では審査員を務めた\[26\]。
 
 ## 映画とテレビ
 
-2009年には『[フラッシュフォワード](https://ja.wikipedia.org/wiki/フラッシュフォワード "wikilink")』がアメリカ[ABCでテレビドラマ化された](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（ただしストーリーはまったく異なる）。パイロット版は、[デヴィッド・S・ゴイヤー](https://ja.wikipedia.org/wiki/デヴィッド・S・ゴイヤー "wikilink")と[ブラノン・ブラガ](https://ja.wikipedia.org/wiki/ブラノン・ブラガ "wikilink")が脚本を書き、ゴイヤーが監督を務め、[ジョセフ・ファインズ](https://ja.wikipedia.org/wiki/ジョセフ・ファインズ "wikilink")と[ソーニャ・ヴァルゲル](https://ja.wikipedia.org/wiki/ソーニャ・ヴァルゲル "wikilink")が出演した\[27\]。若干の調整を経て、第1シーズンは22話で構成されることになった\[28\]。ソウヤーはストーリー監修を務め\[29\]、第19話「軌道修正」では自ら脚本を書いた\[30\]。
+2009年には『[フラッシュフォワード](https://ja.wikipedia.org/wiki/フラッシュフォワード_\(小説\) "wikilink")』がアメリカ[ABCでテレビドラマ化された](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（ただしストーリーはまったく異なる）。パイロット版は、[デヴィッド・S・ゴイヤー](https://ja.wikipedia.org/wiki/デヴィッド・S・ゴイヤー "wikilink")と[ブラノン・ブラガ](https://ja.wikipedia.org/wiki/ブラノン・ブラガ "wikilink")が脚本を書き、ゴイヤーが監督を務め、[ジョセフ・ファインズ](https://ja.wikipedia.org/wiki/ジョセフ・ファインズ "wikilink")と[ソーニャ・ヴァルゲル](https://ja.wikipedia.org/wiki/ソーニャ・ヴァルゲル "wikilink")が出演した\[27\]。若干の調整を経て、第1シーズンは22話で構成されることになった\[28\]。ソウヤーはストーリー監修を務め\[29\]、第19話「軌道修正」では自ら脚本を書いた\[30\]。
 
 2005年から2006年にかけて放送された『[チャーリー・ジェイド](https://ja.wikipedia.org/wiki/チャーリー・ジェイド "wikilink")』のシリーズ原案を書いている。2003年には『[ロボテック](https://ja.wikipedia.org/wiki/ロボテック "wikilink")』のコンセプト関連の仕事もしている。[CBCラジオのSFドキュメンタリーシリーズ](../Page/カナダ放送協会.md "wikilink") *Ideas* で脚本やナレーションを担当し、カナダの [Vision TV](https://ja.wikipedia.org/wiki/:en:Vision_TV "wikilink") のドキュメンタリーシリーズ *Supernatural Investigator*（2009年1月27日放送開始）でもホスト役を務めていた\[31\]。また、[CBCが制作したドキュメンタリー](../Page/カナダ放送協会.md "wikilink") *The Planet of the Doctor* ではイギリスのSFテレビ番組『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』をソウヤーが分析している\[32\]。[TVOntarioの](https://ja.wikipedia.org/wiki/:en:TVOntario "wikilink") *[Saturday Night at the Movies](https://ja.wikipedia.org/wiki/:en:Saturday_Night_at_the_Movies "wikilink")* にもよく出演し、[SF映画](../Page/SF映画.md "wikilink")にコメントしている。
 
@@ -95,7 +95,7 @@
   - 『フレームシフト』*Frameshift*（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）
   - 『イリーガル・エイリアン』*Illegal Alien*（1997年）
   - *Factoring Humanity*（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）
-  - 『[フラッシュフォワード](https://ja.wikipedia.org/wiki/フラッシュフォワード "wikilink")』*Flashforward*（[1999年](../Page/1999年.md "wikilink")）
+  - 『[フラッシュフォワード](https://ja.wikipedia.org/wiki/フラッシュフォワード_\(小説\) "wikilink")』*Flashforward*（[1999年](../Page/1999年.md "wikilink")）
   - *Calculating God*（[2000年](../Page/2000年.md "wikilink")）
   - *Iterations* - 短編集（[2002年](../Page/2002年.md "wikilink")）
   - ネアンデルタール・パララックス三部作：
@@ -131,7 +131,7 @@
 
   - [Robert J Sawyer Talks about Flashforward](http://paullev.libsyn.com/webpage/rob_sawyer_talks_about_flash_forward_/)
 
-[Category:カナダの小説家](https://ja.wikipedia.org/wiki/Category:カナダの小説家 "wikilink") [Category:カナダのSF作家](https://ja.wikipedia.org/wiki/Category:カナダのSF作家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ネビュラ賞作家](https://ja.wikipedia.org/wiki/Category:ネビュラ賞作家 "wikilink") [Category:SF編集者](https://ja.wikipedia.org/wiki/Category:SF編集者 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:カナダの小説家](https://ja.wikipedia.org/wiki/Category:カナダの小説家 "wikilink") [Category:カナダのSF作家](https://ja.wikipedia.org/wiki/Category:カナダのSF作家 "wikilink") [Category:ヒューゴー賞作家](https://ja.wikipedia.org/wiki/Category:ヒューゴー賞作家 "wikilink") [Category:ネビュラ賞作家](https://ja.wikipedia.org/wiki/Category:ネビュラ賞作家 "wikilink") [Category:SF編集者](https://ja.wikipedia.org/wiki/Category:SF編集者 "wikilink") [Category:オタワ出身の人物](https://ja.wikipedia.org/wiki/Category:オタワ出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

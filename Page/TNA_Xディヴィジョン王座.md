@@ -655,6 +655,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ウィリー・マック" title="wikilink">ウィリー・マック</a></p></td>
+<td><p>1</p></td>
+<td><p>2020年4月21日放送分[1]</p></td>
+<td><p>テネシー州ナッシュビル</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -664,8 +671,12 @@
 </tbody>
 </table>
 
+## 脚注
+
 ## 外部リンク
 
   - [Wrestling-Titles.com : インパクトX-Division選手権](http://www.wrestling-titles.com/jp/us/tna/j-tna-x.html)
 
 [Category:TNAの王座](https://ja.wikipedia.org/wiki/Category:TNAの王座 "wikilink") [Category:WRESTLE-1の王座](https://ja.wikipedia.org/wiki/Category:WRESTLE-1の王座 "wikilink")
+
+1.  非公開試合。収録は4月8日～10日。

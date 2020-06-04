@@ -207,7 +207,7 @@ DASH村を実際に訪れ、村づくりに協力した主要な人物たち。
 
 DASH村のヤギとヒツジは、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[渋川市](../Page/渋川市.md "wikilink")の[伊香保グリーン牧場](https://ja.wikipedia.org/wiki/伊香保グリーン牧場 "wikilink")\[27\]に避難、2013年7月ヤギの晴男とザビエルの2頭が、福島県[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")の[郡山石筵ふれあい牧場](https://ja.wikipedia.org/wiki/郡山石筵ふれあい牧場 "wikilink")へ移転した。
 
-しかし、DASH村の企画が消滅したわけではなく、2011年[8月](../Page/8月.md "wikilink")に山口達也が浪江町役場の許可の下で[JAXAの研究者とDASH村に入ったことが公表された](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")。DASH村に入った理由は、JAXAの依頼で[ヒマワリ](../Page/ヒマワリ.md "wikilink")が[セシウム137](https://ja.wikipedia.org/wiki/セシウム137 "wikilink")を吸収するという説の実証実験の為で、[7月16日](../Page/7月16日.md "wikilink")と[8月22日](../Page/8月22日.md "wikilink")の2度に亘ってDASH村に入ったことが明かされている。この模様は、震災と原発事故から丁度半年後に当たる2011年[9月11日](../Page/9月11日.md "wikilink")に放送された\[28\]。
+しかし、DASH村の企画が消滅したわけではなく、2011年[8月](../Page/8月.md "wikilink")に山口達也が浪江町役場の許可の下で[JAXAの研究者とDASH村に入ったことが公表された](../Page/宇宙航空研究開発機構.md "wikilink")。DASH村に入った理由は、JAXAの依頼で[ヒマワリ](../Page/ヒマワリ.md "wikilink")が[セシウム137](https://ja.wikipedia.org/wiki/セシウム137 "wikilink")を吸収するという説の実証実験の為で、[7月16日](../Page/7月16日.md "wikilink")と[8月22日](../Page/8月22日.md "wikilink")の2度に亘ってDASH村に入ったことが明かされている。この模様は、震災と原発事故から丁度半年後に当たる2011年[9月11日](../Page/9月11日.md "wikilink")に放送された\[28\]。
 
 東日本大震災から1年となる[2012年](../Page/2012年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")には、『DASH村3・11特別編』と題し、2時間に亘る生放送特番を放送した。当日は福島県内からの生中継のほか、1年が経過したDASH村の現況、除染実験の経過報告\[29\]、山口による[ウクライナ](../Page/ウクライナ.md "wikilink")と[ベラルーシ](../Page/ベラルーシ.md "wikilink")（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の[チェルノブイリ原発事故の影響](https://ja.wikipedia.org/wiki/チェルノブイリ原発事故の影響 "wikilink")を受けた地域）のリポート企画等を放送した\[30\]\[31\]。
 

@@ -1822,6 +1822,7 @@ NHKでは以前から、新番組編成の参考となる[特別番組](../Page/
 
   - [青山ワンセグ開発](https://ja.wikipedia.org/wiki/青山ワンセグ開発 "wikilink")（[ワンセグ2](https://ja.wikipedia.org/wiki/NHKワンセグ2 "wikilink")）
   - [Eテレ・ジャッジ](https://ja.wikipedia.org/wiki/Eテレ・ジャッジ "wikilink")
+  - [レギュラー番組への道](https://ja.wikipedia.org/wiki/レギュラー番組への道 "wikilink")（[BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、2020年4月 - ）
 
 ## 民間放送の関連番組
 

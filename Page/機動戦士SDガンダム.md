@@ -180,7 +180,7 @@
 ## 主題歌
 
   - 『機動戦士SDガンダム MK-II』エンディングテーマ「Planet Zone」
-    作詩 - [渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲・編曲 - [川井憲次](../Page/川井憲次.md "wikilink") / 歌 - [結城梨沙](https://ja.wikipedia.org/wiki/結城梨沙 "wikilink")
+    作詩 - [渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink") / 作曲・編曲 - [川井憲次](../Page/川井憲次.md "wikilink") / 歌 - [結城梨沙](../Page/結城梨沙.md "wikilink")
     レコード、CD、カセットテープ版で発売された。
   - 『機動戦士SDガンダム MK-III』エンディングテーマ「[Tokyo Boogie Night](../Page/WHATEVER_\(アルバム\).md "wikilink")」
     作詞 - 渡辺なつみ / 作曲 - [原一博](../Page/原一博.md "wikilink") / 編曲 - [岡田徹](../Page/岡田徹.md "wikilink") / 歌 - [本多知恵子](../Page/本多知恵子.md "wikilink")、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")
@@ -882,26 +882,6 @@ SD戦国伝 理の巻</p></td>
 
 <!-- end list -->
 
-  - 機動戦士SDガンダム 音搦大歌合
-
-<!-- end list -->
-
-  -
-    1993年3月24日発売。品番 KICA-147。
-
-<!-- end list -->
-
-1.  ロックオペラ「ペナルティキックオールディーズ組曲」
-2.  Planet Zone
-3.  ぺ・ぺ・ぺのぺ
-4.  幻のバルバドレ
-5.  アディオス・DE・ガンダム
-6.  Tokyo Boogie Night
-7.  Sugar Lover Affair
-8.  異国に吹かれて
-
-<!-- end list -->
-
   - 機動戦士SDガンダム 私をコロニーに連れてって
 
 <!-- end list -->
@@ -918,7 +898,7 @@ SD戦国伝 理の巻</p></td>
 
 <!-- end list -->
 
-  - 機動戦士SDガンダム タイホしちゃうわ
+  - 機動戦士SDガンダム タイホしちゃうわ♥
 
 <!-- end list -->
 
@@ -950,6 +930,26 @@ SD戦国伝 理の巻</p></td>
 5.  What do you want?II
 6.  アディオス・DE・ガンダム
 7.  夏のうねり
+
+<!-- end list -->
+
+  - 機動戦士SDガンダム 音搦大歌合
+
+<!-- end list -->
+
+  -
+    1993年3月24日発売。品番 KICA-147。
+
+<!-- end list -->
+
+1.  ロックオペラ「ペナルティキックオールディーズ組曲」
+2.  Planet Zone
+3.  ぺ・ぺ・ぺのぺ
+4.  幻のバルバドレ
+5.  アディオス・DE・ガンダム
+6.  Tokyo Boogie Night
+7.  Sugar Lover Affair
+8.  異国に吹かれて
 
 ## Web配信
 
@@ -1001,6 +1001,14 @@ SD戦国伝 理の巻</p></td>
 
 <!-- end list -->
 
+  - [GUNDAM EVOLVE](../Page/GUNDAM_EVOLVE.md "wikilink")
+
+<!-- end list -->
+
+  - OVA『EVOLVE../14 武者頑駄無』
+
+<!-- end list -->
+
   - [SDガンダム三国伝](../Page/BB戦士三国伝.md "wikilink")
 
 <!-- end list -->
@@ -1016,6 +1024,17 @@ SD戦国伝 理の巻</p></td>
 
   - Webアニメ『SDガンダムワールド 三国創傑伝』
   - コミックムービー『SDガンダムワールド 三国創傑伝 蒼翔記』
+
+<!-- end list -->
+
+  - ガンダムビルドシリーズ
+
+<!-- end list -->
+
+  - テレビアニメ『[ガンダムビルドファイターズ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")』
+  - テレビアニメ『[ガンダムビルドファイターズトライ](https://ja.wikipedia.org/wiki/ガンダムビルドファイターズトライ "wikilink")』
+  - テレビアニメ『[ガンダムビルドダイバーズ](https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズ "wikilink")』
+  - Webアニメ『[ガンダムビルドダイバーズRe:RISE](https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズRe:RISE "wikilink")』
 
 ## 出典
 

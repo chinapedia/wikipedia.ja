@@ -561,7 +561,7 @@
 
 ## テレビアニメ
 
-2009年4月から同年9月まで、[TBS](../Page/TBSテレビ.md "wikilink")・[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[BS-TBS](../Page/BS-TBS.md "wikilink")・[CBCにて放送された](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")。全25話。第1話で登場する成人の儀の屋敷は「普通の屋敷だとすぐ見終わってしまう」「異様な雰囲気を醸し出しつつ、次の話に繋がってくれればいいかな」との理由で原作と違い城のよう広い建物になっている\[13\]。また原作の持っている雰囲気を出すため、ロングショットが好きな監督のクセで、カメラワークに引きとアップのメリハリが付けられており、スタッフにお願いしてるのはカメラの露出で、監督いわく「明るいところに露出が合わせたカットでは、暗いところに入っていったキャラは見えなくなってもてもいいと。画面のコントラストを際立たせようにしている」とのこと\[14\]。それまで通常世界でいた世界から、奇妙な世界に入っていく感覚を、影の描き方でだそうと、人や物の影の中にテクスチャーが貼られていたりする\[15\]。作中のタバコの煙は全てビデオカメラで撮ったりした実写合成である\[16\]。
+2009年4月から同年9月まで、[TBSテレビ](../Page/TBSテレビ.md "wikilink")・[毎日放送](../Page/毎日放送.md "wikilink")（[MBSテレビ](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）・[BS-TBS](../Page/BS-TBS.md "wikilink")・[中部日本放送](../Page/中部日本放送.md "wikilink")（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）にて放送された。全25話。第1話で登場する成人の儀の屋敷は「普通の屋敷だとすぐ見終わってしまう」「異様な雰囲気を醸し出しつつ、次の話に繋がってくれればいいかな」との理由で原作と違い城のよう広い建物になっている\[13\]。また原作の持っている雰囲気を出すため、ロングショットが好きな監督のクセで、カメラワークに引きとアップのメリハリが付けられており、スタッフにお願いしてるのはカメラの露出で、監督いわく「明るいところに露出が合わせたカットでは、暗いところに入っていったキャラは見えなくなってもてもいいと。画面のコントラストを際立たせようにしている」とのこと\[14\]。それまで通常世界でいた世界から、奇妙な世界に入っていく感覚を、影の描き方でだそうと、人や物の影の中にテクスチャーが貼られていたりする\[15\]。作中のタバコの煙は全てビデオカメラで撮ったりした実写合成である\[16\]。
 
 ### スタッフ
 
@@ -1011,63 +1011,63 @@ PandoraHearts（温泉旅行-宴会で…-）</p></td>
 
   - 単行本
 
-:\# PandoraHearts 1巻 ISBN 978-4-7575-1808-7
+:\# PandoraHearts 1巻 2006年10月27日、ISBN 978-4-7575-1808-7
 
-:\# PandoraHearts 2巻 ISBN 978-4-7575-1979-4
+:\# PandoraHearts 2巻 2007年3月27日、ISBN 978-4-7575-1979-4
 
-:\# PandoraHearts 3巻 ISBN 978-4-7575-2062-2
+:\# PandoraHearts 3巻 2007年7月27日、ISBN 978-4-7575-2062-2
 
-:\# PandoraHearts 4巻 ISBN 978-4-7575-2193-3
+:\# PandoraHearts 4巻 2007年12月27日、ISBN 978-4-7575-2193-3
 
-:\# PandoraHearts 5巻 ISBN 978-4-7575-2272-5
+:\# PandoraHearts 5巻 2008年4月26日、ISBN 978-4-7575-2272-5
 
-:\# PandoraHearts 6巻 ISBN 978-4-7575-2367-8
+:\# PandoraHearts 6巻 2008年8月27日、ISBN 978-4-7575-2367-8
 
-:\# PandoraHearts 7巻 ISBN 978-4-7575-2454-5
+:\# PandoraHearts 7巻 2008年12月27日、ISBN 978-4-7575-2454-5
 
-:\# PandoraHearts 8巻 ISBN 978-4-7575-2526-9
+:\# PandoraHearts 8巻 2009年3月27日、ISBN 978-4-7575-2526-9
 
-:\# PandoraHearts 9巻 ISBN 978-4-7575-2631-0
+:\# PandoraHearts 9巻 2009年7月27日、ISBN 978-4-7575-2631-0
 
-:\# PandoraHearts 10巻 ISBN 978-4-7575-2735-5
+:\# PandoraHearts 10巻 2009年11月27日、ISBN 978-4-7575-2735-5
 
-:\# PandoraHearts 11巻 ISBN 978-4-7575-2833-8
+:\# PandoraHearts 11巻 2010年3月27日、ISBN 978-4-7575-2833-8
 
-:\# PandoraHearts 12巻 ISBN 978-4-7575-2947-2
+:\# PandoraHearts 12巻 2010年7月27日、ISBN 978-4-7575-2947-2
 
-:\# PandoraHearts 13巻 ISBN 978-4-7575-3077-5
+:\# PandoraHearts 13巻 2010年11月27日、ISBN 978-4-7575-3077-5
 
-:\# PandoraHearts 14巻 ISBN 978-4-7575-3182-6
+:\# PandoraHearts 14巻 2011年3月27日、ISBN 978-4-7575-3182-6
 
-:\# PandoraHearts 15巻 ISBN 978-4-7575-3304-2
+:\# PandoraHearts 15巻 2011年7月27日、ISBN 978-4-7575-3304-2
 
-:\# PandoraHearts 16巻 ISBN 978-4-7575-3356-1
+:\# PandoraHearts 16巻 2011年11月26日、ISBN 978-4-7575-3356-1
 
 :\#\* 初回限定特装版 ISBN 978-4-7575-3357-8
 
-:\# PandoraHearts 17巻 ISBN 978-4-7575-3358-5
+:\# PandoraHearts 17巻 2012年3月27日、ISBN 978-4-7575-3358-5
 
 :\#\* 初回限定特装版 ISBN 978-4-7575-3314-1
 
-:\# PandoraHearts 18巻 ISBN 978-4-7575-3682-1
+:\# PandoraHearts 18巻 2012年7月27日、ISBN 978-4-7575-3682-1
 
-:\# PandoraHearts 19巻 ISBN 978-4-7575-3584-8
+:\# PandoraHearts 19巻 2012年11月27日、ISBN 978-4-7575-3584-8
 
 :\#\* 初回限定特装版 ISBN 978-4-7575-3586-2
 
-:\# PandoraHearts 20巻 ISBN 978-4-7575-3585-5
+:\# PandoraHearts 20巻 2013年5月27日、ISBN 978-4-7575-3585-5
 
 :\#\* 初回限定特装版 ISBN 978-4-7575-3587-9
 
-:\# PandoraHearts 21巻 ISBN 978-4-7575-4151-1
+:\# PandoraHearts 21巻 2013年11月27日、ISBN 978-4-7575-4151-1
 
-:\# PandoraHearts 22巻 ISBN 978-4-7575-4197-9
+:\# PandoraHearts 22巻 2014年4月24日、ISBN 978-4-7575-4197-9
 
 :\#\* 初回限定特装版 ISBN 978-4-7575-4196-2
 
-:\# PandoraHearts 23巻 ISBN 978-4-7575-4528-1
+:\# PandoraHearts 23巻 2015年6月27日、ISBN 978-4-7575-4528-1
 
-:\# PandoraHearts 24巻(完) ISBN 978-4-7575-4529-8
+:\# PandoraHearts 24巻(完) 2015年6月27日、ISBN 978-4-7575-4529-8
 
   -
 
@@ -1076,48 +1076,48 @@ PandoraHearts（温泉旅行-宴会で…-）</p></td>
 :\* PandoraHearts Official Guide 8.5 mine of mine
 
   -
-    ISBN 978-4-7575-2531-3
+    2009年3月27日、ISBN 978-4-7575-2531-3
 
       - PandoraHearts Official Guide 18.5 〜Evidence〜
 
-    ISBN 978-4-7575-3649-4
+    2012年7月27日、ISBN 978-4-7575-3649-4
 
       - PandoraHearts Official Guide 24+1 Last Dance\!
 
-    ISBN 978-4-7575-4530-4
+    2015年6月1日、ISBN 978-4-7575-4530-4
 
   - 小説
 
 :\* 小説 PandoraHearts 〜Caucus race〜
 
   -
-    ISBN 978-4-7575-3186-4
+    2011年3月26日、ISBN 978-4-7575-3186-4
 
       - 小説 PandoraHearts 〜Caucus race 2〜
 
-    ISBN 978-4-7575-3545-9
+    2012年3月27日、ISBN 978-4-7575-3545-9
 
       - 小説 PandoraHearts 〜Caucus race 3〜
 
-    ISBN 978-4-7575-3936-5
+    2013年5月27日、ISBN 978-4-7575-3936-5
 
   - 画集
 
 :\* 望月淳 画集 PandoraHearts〜odds and ends〜
 
   -
-    ISBN 978-4-7575-2674-7
+    2009年9月26日、ISBN 978-4-7575-2674-7
 
       - 望月淳 2nd画集 PandoraHearts 「There is.」
 
-    ISBN 978-4-7575-4531-1
+    2015年6月27日、ISBN 978-4-7575-4531-1
 
   - オフィシャルアニメーションガイド
 
 :\* PandoraHearts OFFICIAL ANIMATION GUIDE 〜パンドラボックス〜
 
   -
-    ISBN 978-4-7575-2694-5
+    2009年9月26日、ISBN 978-4-7575-2694-5
 
 ## 読み切り「パンドラハーツ」
 

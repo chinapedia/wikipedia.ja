@@ -68,4 +68,4 @@ SPECベンチマークはプラットフォームに依存しない[プログラ
 
   - [Official SPEC website](http://www.spec.org/)（英語）
 
-[Category:ベンチマーク](https://ja.wikipedia.org/wiki/Category:ベンチマーク "wikilink")
+[Category:ベンチマーク](https://ja.wikipedia.org/wiki/Category:ベンチマーク "wikilink") [Category:コンピューターの評価](https://ja.wikipedia.org/wiki/Category:コンピューターの評価 "wikilink")

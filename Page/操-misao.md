@@ -40,4 +40,4 @@
   - [2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")　[日経エンタテインメント](https://ja.wikipedia.org/wiki/日経エンタテインメント "wikilink")
   - [2006年](../Page/2006年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink") [新潟日報](../Page/新潟日報.md "wikilink") - ささえあい～ひと新潟～
 
-[Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のトランスジェンダーの人物](https://ja.wikipedia.org/wiki/Category:日本のトランスジェンダーの人物 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:日本のトランスジェンダーの人物](https://ja.wikipedia.org/wiki/Category:日本のトランスジェンダーの人物 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

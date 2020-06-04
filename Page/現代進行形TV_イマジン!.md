@@ -135,7 +135,7 @@
 <tr class="odd">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
-<td></td>
+<td><p>内容により子会社の<a href="../Page/ケイ・ビー・シー映像.md" title="wikilink">KBC映像が制作に参加</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -57,7 +57,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月13日](../Page/4月13日.md "wikilink")、[コンシューマー・リポート](https://ja.wikipedia.org/wiki/コンシューマー・リポート "wikilink")が「レクサスGX460は横転のリスクを抱えている」と指摘し、[2001年](../Page/2001年.md "wikilink")の[三菱・モンテロ以来となる](../Page/三菱・パジェロ.md "wikilink")「買ってはいけない」との警告を発した。およそ100 km/hの速度で右コーナーに進入した場合、[横滑り防止装置](https://ja.wikipedia.org/wiki/横滑り防止装置 "wikilink")（VSC）の働きが弱く、[縁石](https://ja.wikipedia.org/wiki/縁石 "wikilink")などにぶつかった場合に横転する危険があるというものである\[2\]\[3\]。
 
-これを受け、トヨタ自動車はGX460とランドクルーザープラドの販売を一時中止した\[4\]。[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")（[日本時間](https://ja.wikipedia.org/wiki/日本時間 "wikilink")）、トヨタ自動車は「VSCと[KDSS](http://toyota.jp/landcruiser/dynamism/suspension/index.html)を共に装備した左ハンドルの18インチホイール仕様で顕著」としながら、GX460の全数と、左ハンドル仕様のランドクルーザープラドを[リコールの対象とし](../Page/リコール_\(自動車\).md "wikilink")、VSCの[プログラム](../Page/プログラム.md "wikilink")を改修することを発表した[（プレスリリース 動画あり）](http://www2.toyota.co.jp/jp/news/10/04/nt10_0411.html)\[5\]。 {{-}}
+これを受け、トヨタ自動車はGX460とランドクルーザープラドの販売を一時中止した\[4\]。[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")（[日本時間](https://ja.wikipedia.org/wiki/日本時間 "wikilink")）、トヨタ自動車は「VSCと[KDSS](http://toyota.jp/landcruiser/dynamism/suspension/index.html)を共に装備した左ハンドルの18インチホイール仕様で顕著」としながら、GX460の全数と、左ハンドル仕様のランドクルーザープラドを[リコールの対象とし](../Page/リコール_\(自動車\).md "wikilink")、VSCの[プログラムを改修することを発表した](../Page/プログラム_\(コンピュータ\).md "wikilink")[（プレスリリース 動画あり）](http://www2.toyota.co.jp/jp/news/10/04/nt10_0411.html)\[5\]。 {{-}}
 
 ## 脚注
 

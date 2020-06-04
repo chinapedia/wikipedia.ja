@@ -88,4 +88,4 @@
 
   - [本多俊之](../Page/本多俊之.md "wikilink")「Rapsodie dela Russie（ラプソディ デュラ リュシィ）」
 
-[Category:金曜エンタテイメントのシリーズ](https://ja.wikipedia.org/wiki/Category:金曜エンタテイメントのシリーズ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:推理ドラマ](https://ja.wikipedia.org/wiki/Category:推理ドラマ "wikilink") [Category:日本各地を舞台とした作品](https://ja.wikipedia.org/wiki/Category:日本各地を舞台とした作品 "wikilink")
+[Category:金曜エンタテイメントのシリーズ](https://ja.wikipedia.org/wiki/Category:金曜エンタテイメントのシリーズ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:推理ドラマ](https://ja.wikipedia.org/wiki/Category:推理ドラマ "wikilink") [Category:日本各地を舞台としたテレビドラマ作品](https://ja.wikipedia.org/wiki/Category:日本各地を舞台としたテレビドラマ作品 "wikilink")

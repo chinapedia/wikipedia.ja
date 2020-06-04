@@ -1,7 +1,7 @@
 > この記事は[BiNGO!](https://ja.wikipedia.org/wiki/BiNGO!)から翻訳されています。
 
 
-『**BiNGO\!**』（ビンゴ）は[松村努](https://ja.wikipedia.org/wiki/松村努 "wikilink")による[バスケットボール漫画](https://ja.wikipedia.org/wiki/スポーツ漫画#バスケットボール漫画 "wikilink")。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』に連載され、連載終了後に『[別冊コロコロコミック](https://ja.wikipedia.org/wiki/別冊コロコロコミック "wikilink")』で完結編が掲載された。単行本は全5巻。
+『**BiNGO\!**』（ビンゴ）は、[松村努](https://ja.wikipedia.org/wiki/松村努 "wikilink")による[バスケットボール漫画](https://ja.wikipedia.org/wiki/スポーツ漫画#バスケットボール漫画 "wikilink")。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』に連載され、連載終了後に『[別冊コロコロコミック](https://ja.wikipedia.org/wiki/別冊コロコロコミック "wikilink")』で完結編が掲載された。単行本は全5巻。
 
 ## あらすじ
 
@@ -83,4 +83,4 @@
 
   - 単行本では書き下ろしとして[4コマ漫画](../Page/4コマ漫画.md "wikilink")が掲載されていた。
 
-[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:バスケットボール漫画](https://ja.wikipedia.org/wiki/Category:バスケットボール漫画 "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:千葉県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした作品 "wikilink")
+[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:1995年の漫画](https://ja.wikipedia.org/wiki/Category:1995年の漫画 "wikilink") [Category:コロコロコミックの漫画作品](https://ja.wikipedia.org/wiki/Category:コロコロコミックの漫画作品 "wikilink") [Category:バスケットボール漫画](https://ja.wikipedia.org/wiki/Category:バスケットボール漫画 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:千葉県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした漫画作品 "wikilink")

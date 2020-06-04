@@ -39,13 +39,14 @@
   - [立花恵理](https://ja.wikipedia.org/wiki/立花恵理 "wikilink")
   - [emma](https://ja.wikipedia.org/wiki/Emma_\(モデル\) "wikilink")
   - [谷まりあ](https://ja.wikipedia.org/wiki/谷まりあ "wikilink")
-  - [瑛茉ジャスミン](../Page/瑛茉ジャスミン.md "wikilink") \[8\]
+  - [瑛茉ジャスミン](../Page/瑛茉ジャスミン.md "wikilink")\[8\]
   - miu
   - [藤井サチ](https://ja.wikipedia.org/wiki/藤井サチ "wikilink")
   - [古畑星夏](https://ja.wikipedia.org/wiki/古畑星夏 "wikilink")
   - [藤田ニコル](https://ja.wikipedia.org/wiki/藤田ニコル "wikilink")
   - 愛花
   - [アリアナさくら](https://ja.wikipedia.org/wiki/アリアナさくら "wikilink")
+  - 嵐莉菜\[9\]
 
 ### 卒業モデル
 
@@ -101,7 +102,7 @@
   - [藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink") - Lena Likes
   - [板野友美](https://ja.wikipedia.org/wiki/板野友美 "wikilink") - TOMO'S DIARY
   - [大石参月](../Page/大石参月.md "wikilink") - みつきのふつーがいちばん
-  - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") - EXO-SHOT\[9\]\[10\]
+  - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") - EXO-SHOT\[10\]\[11\]
   - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") - AYUのデジデジ日記
   - [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink") - 加藤ミリヤのファッションSHOW
   - [木下優樹菜](https://ja.wikipedia.org/wiki/木下優樹菜 "wikilink") - シフクテキナユキナ。
@@ -125,7 +126,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2020年1月号</p></td>
-<td><p>通常版 : <a href="https://ja.wikipedia.org/wiki/八木アリサ" title="wikilink">八木アリサ</a>[11] 特別版 : <a href="https://ja.wikipedia.org/wiki/片寄涼太" title="wikilink">片寄涼太</a>[12]</p></td>
+<td><p>通常版 : <a href="https://ja.wikipedia.org/wiki/八木アリサ" title="wikilink">八木アリサ</a>[12] 特別版 : <a href="https://ja.wikipedia.org/wiki/片寄涼太" title="wikilink">片寄涼太</a>[13]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -133,15 +134,15 @@
 <td><p>2020年2月号</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/八木アリサ" title="wikilink">八木アリサ</a> <a href="https://ja.wikipedia.org/wiki/Emma_(モデル)" title="wikilink">emma</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/藤田ニコル" title="wikilink">藤田ニコル</a></p>
-<p><a href="https://ja.wikipedia.org/wiki/谷まりあ" title="wikilink">谷まりあ</a>[13]</p></td>
+<p><a href="https://ja.wikipedia.org/wiki/谷まりあ" title="wikilink">谷まりあ</a>[14]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2020年3月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平野紫耀" title="wikilink">平野紫耀</a>[14]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平野紫耀" title="wikilink">平野紫耀</a>[15]</p></td>
 <td></td>
-<td><p>男性ソロ表紙のみの号は22年ぶり[15]</p></td>
+<td><p>男性ソロ表紙のみの号は22年ぶり[16]</p></td>
 </tr>
 </tbody>
 </table>
@@ -161,7 +162,7 @@
 | 2019年9月号  | [長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")                                                         |               |            |
 | 2019年10月号 | [吉沢亮](https://ja.wikipedia.org/wiki/吉沢亮 "wikilink") [emma](https://ja.wikipedia.org/wiki/Emma_\(モデル\) "wikilink")     | emma　12       |            |
 | 2019年11月号 | [橋本環奈](https://ja.wikipedia.org/wiki/橋本環奈 "wikilink")                                                                 |               |            |
-| 2019年12月号 | [小松奈菜](https://ja.wikipedia.org/wiki/小松菜奈 "wikilink")\[16\]                                                           |               |            |
+| 2019年12月号 | [小松奈菜](https://ja.wikipedia.org/wiki/小松菜奈 "wikilink")\[17\]                                                           |               |            |
 
 2018年
 
@@ -864,7 +865,7 @@
 ## その他
 
   - 1983年の創刊当時、日々快活を文字った「**ヴィヴィ快活**」というキャッチフレーズを擁したCMが放映されている。BGMには[マルコム・マクラーレン](../Page/マルコム・マクラーレン.md "wikilink")の「BUFFALO GALS」が使用されていた。
-  - ViVi創刊20周年を迎えた2003年頃は、[佐田真由美](../Page/佐田真由美.md "wikilink")、[岩堀せり](../Page/岩堀せり.md "wikilink")がメインモデルを務め、[長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")、[藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")、[相沢紗世](../Page/相沢紗世.md "wikilink")、[鈴木サチ](../Page/鈴木サチ.md "wikilink")、[畑田亜希](../Page/畑田亜希.md "wikilink")、[佐藤萌実](https://ja.wikipedia.org/wiki/佐藤萌実 "wikilink")、[岩田ゆり](../Page/岩田ゆり.md "wikilink")など、その後もメディアで活躍しているメンバーが同時に専属モデルとして起用されており、売上のピークを迎えていた（最大50万部とも\[17\]）ことから「ViVi黄金期」と呼ばれた。
+  - ViVi創刊20周年を迎えた2003年頃は、[佐田真由美](../Page/佐田真由美.md "wikilink")、[岩堀せり](../Page/岩堀せり.md "wikilink")がメインモデルを務め、[長谷川潤](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")、[藤井リナ](https://ja.wikipedia.org/wiki/藤井リナ "wikilink")、[相沢紗世](../Page/相沢紗世.md "wikilink")、[鈴木サチ](../Page/鈴木サチ.md "wikilink")、[畑田亜希](../Page/畑田亜希.md "wikilink")、[佐藤萌実](https://ja.wikipedia.org/wiki/佐藤萌実 "wikilink")、[岩田ゆり](../Page/岩田ゆり.md "wikilink")など、その後もメディアで活躍しているメンバーが同時に専属モデルとして起用されており、売上のピークを迎えていた（最大50万部とも\[18\]）ことから「ViVi黄金期」と呼ばれた。
 
 ## 脚注
 
@@ -899,4 +900,5 @@
 14.
 15.
 16.
-17. [ViViの自民党キャンペーン「\#自民党2019」は、読者への裏切りではないのか。 元編集スタッフの私が感じたモヤモヤ。](https://www.huffingtonpost.jp/entry/story_jp_5d01ada0e4b0985c419799ec)ハフポスト
+17.
+18. [ViViの自民党キャンペーン「\#自民党2019」は、読者への裏切りではないのか。 元編集スタッフの私が感じたモヤモヤ。](https://www.huffingtonpost.jp/entry/story_jp_5d01ada0e4b0985c419799ec)ハフポスト

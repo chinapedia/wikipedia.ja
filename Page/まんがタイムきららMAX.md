@@ -79,12 +79,11 @@
 
 （連載期間の長い順 / タイトル五十音順）太字はコミックFUZにて配信している。
 
-  - **[きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink")** （[原悠衣](../Page/原悠衣.md "wikilink")、2010年2 - 3月号ゲスト、6月号 - ・コミックFUZでは土曜枠）-2020年5月号
+  - **[きんいろモザイク](https://ja.wikipedia.org/wiki/きんいろモザイク "wikilink")** （[原悠衣](../Page/原悠衣.md "wikilink")、2010年2 - 3月号ゲスト、6月号 - 2020年5月号、特別編 Best wishes.として 2020年7月号 - ・コミックFUZでは土曜枠）
   - **[ご注文はうさぎですか?](https://ja.wikipedia.org/wiki/ご注文はうさぎですか? "wikilink")** （[Koi](https://ja.wikipedia.org/wiki/Koi "wikilink")、2010年12月号ゲスト、2011年3月号 - ・コミックFUZでは金曜枠）
   - [ステラのまほう](https://ja.wikipedia.org/wiki/ステラのまほう "wikilink")（[くろば・U](https://ja.wikipedia.org/wiki/くろば・U "wikilink")、2012年10月号 - 11月号ゲスト、2013年2月号 - ）
   - [こみっくがーるず](https://ja.wikipedia.org/wiki/こみっくがーるず "wikilink")（[はんざわかおり](../Page/はんざわかおり.md "wikilink")、2014年5月号 - 7月号ゲスト、8月号 - ）
   - **[私を球場に連れてって\!](https://ja.wikipedia.org/wiki/私を球場に連れてって! "wikilink")**（原作：[スーパーまさら](https://ja.wikipedia.org/wiki/スーパーまさら "wikilink")・作画：[うみのとも](https://ja.wikipedia.org/wiki/うみのとも "wikilink")、2017年4月号 - ・コミックFUZでは連載が終了）
-  - [タベモノガタリ](https://ja.wikipedia.org/wiki/タベモノガタリ "wikilink")（[電柱棒](https://ja.wikipedia.org/wiki/電柱棒 "wikilink")、2017年9月号 - 11月号ゲスト\[1\]、2018年1月号 - 2020年4月号）
   - [ぼっち・ざ・ろっく\!](https://ja.wikipedia.org/wiki/ぼっち・ざ・ろっく! "wikilink")（[はまじあき](https://ja.wikipedia.org/wiki/はまじあき "wikilink")、2018年2月号 - 4月号ゲスト、5月号 - ）
   - [しょうこセンセイ\!](https://ja.wikipedia.org/wiki/しょうこセンセイ! "wikilink")（[なじみ](https://ja.wikipedia.org/wiki/なじみ "wikilink")、2018年1月号 - 4月号ゲスト、6月号 - ）
   - [委員長のノゾミ](https://ja.wikipedia.org/wiki/委員長のノゾミ "wikilink")（[戸田大貴](https://ja.wikipedia.org/wiki/戸田大貴 "wikilink")、2018年8月号 - 9月号ゲスト、11月号 - ）
@@ -96,7 +95,10 @@
   - [エンとゆかり](https://ja.wikipedia.org/wiki/エンとゆかり "wikilink")（[しろううらやま](https://ja.wikipedia.org/wiki/しろううらやま "wikilink")、2019年1月号 - 3月号ゲスト、7月号 - ）
   - [ハルメタルドールズ](https://ja.wikipedia.org/wiki/ハルメタルドールズ "wikilink")（[カコベン](https://ja.wikipedia.org/wiki/カコベン "wikilink")、2019年5月号 - 6月号ゲスト、9月号 - ）
   - [いのち短し善せよ乙女](https://ja.wikipedia.org/wiki/いのち短し善せよ乙女 "wikilink")（[土管](https://ja.wikipedia.org/wiki/土管（漫画家） "wikilink")、2019年8月号-10月号ゲスト、12月号 - ）
-  - [六条さんのアトリビュート](https://ja.wikipedia.org/wiki/六条さんのアトリビュート "wikilink")（[セトユーキ](https://ja.wikipedia.org/wiki/セトユーキ "wikilink")、2020年2月号 - ）
+  - [六条さんのアトリビュート](https://ja.wikipedia.org/wiki/六条さんのアトリビュート "wikilink")（[セトユーキ](https://ja.wikipedia.org/wiki/セトユーキ "wikilink")、2019年9月号-10月号ゲスト、2020年2月号 - ）
+  - [ホレンテ島の魔法使い](https://ja.wikipedia.org/wiki/ホレンテ島の魔法使い "wikilink")（[谷津](https://ja.wikipedia.org/wiki/谷津（漫画家） "wikilink")、2020年1月号 - 2月号ゲスト、2020年4月号 - ）
+  - [ぬるめた](https://ja.wikipedia.org/wiki/ぬるめた "wikilink")（[こかむも](https://ja.wikipedia.org/wiki/こかむも "wikilink")、2020年2月号 - 4月号ゲスト、2020年5月号 - ）
+  - [のむラリアット\!](https://ja.wikipedia.org/wiki/のむラリアット! "wikilink")（[こんぱる](https://ja.wikipedia.org/wiki/こんぱる "wikilink")&[ふじしまペポ](https://ja.wikipedia.org/wiki/ふじしまペポ "wikilink")、2020年2月号 - 4月号ゲスト、2020年6月号 - ）
 
 ## 休載中の作品
 
@@ -185,7 +187,7 @@
   - [アキタランド・ゴシック](https://ja.wikipedia.org/wiki/アキタランド・ゴシック "wikilink") （[器械](https://ja.wikipedia.org/wiki/器械_\(漫画家\) "wikilink")、2011年3 - 5月号ゲスト、6月号 - 2013年4月号）
   - [カレーの王女さま](https://ja.wikipedia.org/wiki/カレーの王女さま "wikilink") （[仏さんじょ](../Page/仏さんじょ.md "wikilink")、2011年6月号 - 2013年7月号）
   - [√中学生](https://ja.wikipedia.org/wiki/√中学生 "wikilink")（[さくやついたち](https://ja.wikipedia.org/wiki/さくやついたち "wikilink")、2011年6 - 7月号ゲスト、8月号 - 2013年12月号）
-  - [Free\!](https://ja.wikipedia.org/wiki/Free!_\(漫画\) "wikilink")（[GAN](https://ja.wikipedia.org/wiki/GAN_\(漫画家\) "wikilink")、2010年12月号ゲスト、2011年10月号 -2014年6月号 ）\[2\]
+  - [Free\!](https://ja.wikipedia.org/wiki/Free!_\(漫画\) "wikilink")（[GAN](https://ja.wikipedia.org/wiki/GAN_\(漫画家\) "wikilink")、2010年12月号ゲスト、2011年10月号 -2014年6月号 ）\[1\]
   - [コスプレの神\!](https://ja.wikipedia.org/wiki/コスプレの神! "wikilink")（[方密](https://ja.wikipedia.org/wiki/方密 "wikilink")、2011年4 - 6月号ゲスト、11月号 - 2014年1月号）
   - [三種のジンギ\!](https://ja.wikipedia.org/wiki/三種のジンギ! "wikilink")（[羽咋あみ](https://ja.wikipedia.org/wiki/羽咋あみ "wikilink")、2011年8 - 9月号ゲスト、2012年2月号 - 2013年5月号）
   - [スイーツどんぶり](https://ja.wikipedia.org/wiki/スイーツどんぶり "wikilink")（[FBC](https://ja.wikipedia.org/wiki/FBC_\(漫画家\) "wikilink")、2011年10月号ゲスト、2012年2月号 - 2014年2月号）
@@ -197,35 +199,36 @@
   - [うにうにうにうに](https://ja.wikipedia.org/wiki/うにうにうにうに "wikilink")（[青田めい](https://ja.wikipedia.org/wiki/青田めい "wikilink")、2013年5月号ゲスト、8月号 - 2015年7月号）
   - [アリノス☆ワンダーランド](https://ja.wikipedia.org/wiki/アリノス☆ワンダーランド "wikilink")（[枕辺しょーま](https://ja.wikipedia.org/wiki/枕辺しょーま "wikilink")、2013年6月号 - 7月号ゲスト、10月号 - 2015年11月号）
   - [水瀬まりんの航海日誌](https://ja.wikipedia.org/wiki/水瀬まりんの航海日誌 "wikilink")（[フクハラマサヤ](https://ja.wikipedia.org/wiki/フクハラマサヤ "wikilink")、2013年8月号 - 10月号ゲスト、2014年1月号 - 2015年9月号）
-  - [スクール・アーキテクト](https://ja.wikipedia.org/wiki/スクール・アーキテクト "wikilink")（[器械](https://ja.wikipedia.org/wiki/器械_\(漫画家\) "wikilink")、2013年9月号、2014年2月 - 3月号ゲスト\[3\]、2014年4月号 - 2016年1月号）
+  - [スクール・アーキテクト](https://ja.wikipedia.org/wiki/スクール・アーキテクト "wikilink")（[器械](https://ja.wikipedia.org/wiki/器械_\(漫画家\) "wikilink")、2013年9月号、2014年2月 - 3月号ゲスト\[2\]、2014年4月号 - 2016年1月号）
   - [そよ風テイクオフ](https://ja.wikipedia.org/wiki/そよ風テイクオフ "wikilink")（[うみのとも](https://ja.wikipedia.org/wiki/うみのとも "wikilink")、2013年9月号 - 11月号ゲスト、2014年4月号 - 2016年4月号）
   - [ハナイロ](https://ja.wikipedia.org/wiki/ハナイロ "wikilink")（[アカコッコ](https://ja.wikipedia.org/wiki/アカコッコ_\(漫画家\) "wikilink")、2013年11月号 - 2014年1月号ゲスト、2014年4月号 - 2016年4月号）
   - [アイドル声優☆上村とまり17歳](https://ja.wikipedia.org/wiki/アイドル声優☆上村とまり17歳 "wikilink") （[ぷらぱ](https://ja.wikipedia.org/wiki/ぷらぱ "wikilink")、2014年6月号 - 2016年6月号）
-  - [しょーがくせいのあたまのなか](https://ja.wikipedia.org/wiki/しょーがくせいのあたまのなか "wikilink") （[石見翔子](../Page/石見翔子.md "wikilink")、2014年6月号 - 2015年4月号\[4\]、2016年7月号 - 2017年11月号）
+  - [しょーがくせいのあたまのなか](https://ja.wikipedia.org/wiki/しょーがくせいのあたまのなか "wikilink") （[石見翔子](../Page/石見翔子.md "wikilink")、2014年6月号 - 2015年4月号\[3\]、2016年7月号 - 2017年11月号）
   - [みことの一手\!](https://ja.wikipedia.org/wiki/みことの一手! "wikilink")（[宇城はやひろ](https://ja.wikipedia.org/wiki/宇城はやひろ "wikilink")、2013年7月号、2014年1月号 - 2月号、4月号、6月号 - 8月号ゲスト、9月号 - 2015年2月号）
-  - [廃校ドールズ](https://ja.wikipedia.org/wiki/廃校ドールズ "wikilink")\[5\]（[君と子音](https://ja.wikipedia.org/wiki/君と子音 "wikilink")、2014年4月号 - 6月号ゲスト、9月号 - 2016年10月号）
+  - [廃校ドールズ](https://ja.wikipedia.org/wiki/廃校ドールズ "wikilink")\[4\]（[君と子音](https://ja.wikipedia.org/wiki/君と子音 "wikilink")、2014年4月号 - 6月号ゲスト、9月号 - 2016年10月号）
   - [神様生徒会部\!](https://ja.wikipedia.org/wiki/神様生徒会部! "wikilink") （[未影](https://ja.wikipedia.org/wiki/未影 "wikilink")、2014年9月号 - 2017年1月号）
   - [軍師姫](https://ja.wikipedia.org/wiki/軍師姫 "wikilink")（[吉野貝](https://ja.wikipedia.org/wiki/吉野貝 "wikilink")、2014年7月号 - 9月号ゲスト、10月号 - 2016年8月号）
   - [裏庭には…\!](https://ja.wikipedia.org/wiki/裏庭には…! "wikilink")（原作：[氷坂透](https://ja.wikipedia.org/wiki/氷坂透 "wikilink")・作画：[水鏡ひより](https://ja.wikipedia.org/wiki/水鏡ひより "wikilink")、2014年2月号 - 4月号ゲスト、11月号 - 2016年9月号）
   - [ふるスクらっち\!](https://ja.wikipedia.org/wiki/ふるスクらっち! "wikilink")（[右左もりもり](https://ja.wikipedia.org/wiki/右左もりもり "wikilink")、2015年3月号 - 4月号ゲスト、7月号 - 2016年5月号）
-  - [ぱぺっとコール\!](https://ja.wikipedia.org/wiki/ぱぺっとコール! "wikilink")（[へちま](https://ja.wikipedia.org/wiki/へちま_\(漫画家\) "wikilink")、2015年4月号 - 5月号ゲスト\[6\]、9月号 - 2017年10月号）
-  - [はんどすたんど\!](https://ja.wikipedia.org/wiki/はんどすたんど! "wikilink")（[有馬](https://ja.wikipedia.org/wiki/有馬_\(漫画家\) "wikilink")、2015年6月号・8月号ゲスト\[7\]、9月号 - 2018年9月号）
+  - [ぱぺっとコール\!](https://ja.wikipedia.org/wiki/ぱぺっとコール! "wikilink")（[へちま](https://ja.wikipedia.org/wiki/へちま_\(漫画家\) "wikilink")、2015年4月号 - 5月号ゲスト\[5\]、9月号 - 2017年10月号）
+  - [はんどすたんど\!](https://ja.wikipedia.org/wiki/はんどすたんど! "wikilink")（[有馬](https://ja.wikipedia.org/wiki/有馬_\(漫画家\) "wikilink")、2015年6月号・8月号ゲスト\[6\]、9月号 - 2018年9月号）
   - [ペンにまします神サマの](https://ja.wikipedia.org/wiki/ペンにまします神サマの "wikilink")（[佐古新佑](https://ja.wikipedia.org/wiki/佐古新佑 "wikilink")、2015年7月号 - 9月号ゲスト、10月号 - 2017年8月号）
   - [みゅ〜こん\!](https://ja.wikipedia.org/wiki/みゅ〜こん! "wikilink")（[永山ゆうのん](https://ja.wikipedia.org/wiki/永山ゆうのん "wikilink")、2015年7月号 - 8月号ゲスト、11月号 - 2017年10月号）
   - [きらりブックス迷走中\!](https://ja.wikipedia.org/wiki/きらりブックス迷走中! "wikilink")（[はまじあき](https://ja.wikipedia.org/wiki/はまじあき "wikilink")、2015年9月号 - 11月号ゲスト、12月号 - 2017年10月号）
   - [すくりぞ\!](https://ja.wikipedia.org/wiki/すくりぞ! "wikilink")（[らぐほのえりか](https://ja.wikipedia.org/wiki/らぐほのえりか "wikilink")、2015年10月号 - 11月号ゲスト、2016年1月号 - 2017年12月号）
   - [魔法少女のカレイなる余生](https://ja.wikipedia.org/wiki/魔法少女のカレイなる余生 "wikilink")（[晴瀬ひろき](../Page/晴瀬ひろき.md "wikilink")、2015年11月号 - 12月号ゲスト、2016年1月号 - 2019年1月号）
   - [ななかさんの印税生活入門](https://ja.wikipedia.org/wiki/ななかさんの印税生活入門 "wikilink")（[kashmir](https://ja.wikipedia.org/wiki/kashmir "wikilink")、2016年2月号 - 2019年4月号）
-  - [夢見るプリマ・ガール\!](https://ja.wikipedia.org/wiki/夢見るプリマ・ガール! "wikilink")（[昆布わかめ](https://ja.wikipedia.org/wiki/昆布わかめ "wikilink")、2016年1月号 - 2月号ゲスト\[8\]、4月号 - 2018年3月号）
+  - [夢見るプリマ・ガール\!](https://ja.wikipedia.org/wiki/夢見るプリマ・ガール! "wikilink")（[昆布わかめ](https://ja.wikipedia.org/wiki/昆布わかめ "wikilink")、2016年1月号 - 2月号ゲスト\[7\]、4月号 - 2018年3月号）
   - [どうして私が美術科に\!?](https://ja.wikipedia.org/wiki/どうして私が美術科に!? "wikilink")（[相崎うたう](https://ja.wikipedia.org/wiki/相崎うたう "wikilink")、2016年3月号 - 5月号ゲスト、6月号 - 2019年5月号）
   - [ゴスロリJK無人島漂流記](https://ja.wikipedia.org/wiki/ゴスロリJK無人島漂流記 "wikilink")（[青田めい](https://ja.wikipedia.org/wiki/青田めい "wikilink")、2016年4月号 - 5月号ゲスト、7月号 - 2018年6月号）
   - [TCGirls](https://ja.wikipedia.org/wiki/TCGirls "wikilink")（[もみのさと](https://ja.wikipedia.org/wiki/もみのさと "wikilink")、2016年5月号 - 6月号ゲスト、8月号 - 2018年7月号）
   - [JKすぷらっしゅ\!](https://ja.wikipedia.org/wiki/JKすぷらっしゅ! "wikilink")（[春雨](https://ja.wikipedia.org/wiki/春雨_\(漫画家\) "wikilink")、2016年6月号 - 7月号ゲスト、8月号 - 2018年7月号）
   - [のけもの少女同盟](https://ja.wikipedia.org/wiki/のけもの少女同盟 "wikilink")（[榛名まお](https://ja.wikipedia.org/wiki/榛名まお "wikilink")、2016年5月号 - 6月号ゲスト、8月号 - 2019年3月号）
   - [ヴァンパイアちゃんが狙ってる。](https://ja.wikipedia.org/wiki/ヴァンパイアちゃんが狙ってる。 "wikilink")（[わさも](https://ja.wikipedia.org/wiki/わさも "wikilink")、2016年11月号 - 12月号ゲスト、2017年2月号 - 2018年1月号）
-  - [彼女がお兄ちゃんになったらしたい10のこと](https://ja.wikipedia.org/wiki/彼女がお兄ちゃんになったらしたい10のこと "wikilink")（[アカコッコ](https://ja.wikipedia.org/wiki/アカコッコ_\(漫画家\) "wikilink")、2017年5月号 - 6月号ゲスト\[9\]、8月号 - 2019年7月号）
+  - [彼女がお兄ちゃんになったらしたい10のこと](https://ja.wikipedia.org/wiki/彼女がお兄ちゃんになったらしたい10のこと "wikilink")（[アカコッコ](https://ja.wikipedia.org/wiki/アカコッコ_\(漫画家\) "wikilink")、2017年5月号 - 6月号ゲスト\[8\]、8月号 - 2019年7月号）
   - [合体アイドル\!スノウちゃん](https://ja.wikipedia.org/wiki/合体アイドル!スノウちゃん "wikilink")（[ぷらぱ](https://ja.wikipedia.org/wiki/ぷらぱ "wikilink")、2017年6月号 - 8月号ゲスト、9月号 - 2019年7月号）
   - [サジちゃんの病み日記](https://ja.wikipedia.org/wiki/サジちゃんの病み日記 "wikilink")（[アサギユメ](https://ja.wikipedia.org/wiki/アサギユメ "wikilink")、2017年7月号 - 8月号ゲスト、11月号 - 2019年12月号）
+  - [タベモノガタリ](https://ja.wikipedia.org/wiki/タベモノガタリ "wikilink")（[電柱棒](https://ja.wikipedia.org/wiki/電柱棒 "wikilink")、2017年9月号 - 11月号ゲスト\[9\]、2018年1月号 - 2020年4月号）
   - [ももいろジャンキー](https://ja.wikipedia.org/wiki/ももいろジャンキー "wikilink")（[おにぎり](https://ja.wikipedia.org/wiki/おにぎり_\(漫画家\) "wikilink")、2017年11月号 - 2018年1月号ゲスト、3月号 - 2020年1月号）
   - [魔王城ツアーへようこそ\!](https://ja.wikipedia.org/wiki/魔王城ツアーへようこそ! "wikilink")（[春雨](https://ja.wikipedia.org/wiki/春雨_\(漫画家\) "wikilink")、2019年1月号 - 2020年1月号）
 
@@ -284,12 +287,12 @@
 
 [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:芳文社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:芳文社の漫画雑誌 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:4コマ漫画雑誌](https://ja.wikipedia.org/wiki/Category:4コマ漫画雑誌 "wikilink") [Category:まんがタイムきらら](https://ja.wikipedia.org/wiki/Category:まんがタイムきらら "wikilink") [Category:2004年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2004年創刊の雑誌 "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink")
 
-1.  ゲスト時のタイトルは『これが私の食べる道\!』。
-2.  2013年6月号にて休載の告知があり、同年7月号から2014年2月号まで休載した。休載中は読者欄で『FREE\! SPACE』と題された4コマ1本を掲載。
-3.  ゲスト1作目は「髪長の女」、2作目は「ハラる」、3作目は「きさまのまなざし」のタイトルで掲載。
-4.  2015年5月号においてしばらく休載する旨の告知が掲載され、2016年6月号まで休載した。
-5.  2015年5月号までのタイトルは『楽園ふぇいく』。
-6.  ゲスト時のタイトルは『ぱぺっとと栞のラペル』。
-7.  ゲスト時のタイトルは『ハンドスタンド\!』。
-8.  ゲスト時のタイトルは『まかろにエトワール』。
-9.  ゲスト時のタイトルは『お兄ちゃんって呼ばないで』。
+1.  2013年6月号にて休載の告知があり、同年7月号から2014年2月号まで休載した。休載中は読者欄で『FREE\! SPACE』と題された4コマ1本を掲載。
+2.  ゲスト1作目は「髪長の女」、2作目は「ハラる」、3作目は「きさまのまなざし」のタイトルで掲載。
+3.  2015年5月号においてしばらく休載する旨の告知が掲載され、2016年6月号まで休載した。
+4.  2015年5月号までのタイトルは『楽園ふぇいく』。
+5.  ゲスト時のタイトルは『ぱぺっとと栞のラペル』。
+6.  ゲスト時のタイトルは『ハンドスタンド\!』。
+7.  ゲスト時のタイトルは『まかろにエトワール』。
+8.  ゲスト時のタイトルは『お兄ちゃんって呼ばないで』。
+9.  ゲスト時のタイトルは『これが私の食べる道\!』。

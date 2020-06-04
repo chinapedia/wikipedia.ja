@@ -109,6 +109,7 @@
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a></p></td>
 <td><p><strong>第1期製作局</strong><br />
+現：朝日放送テレビ<br />
 1975年3月まで（<a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">NET系へ移行</a>）</p></td>
 <td></td>
 </tr>
@@ -196,8 +197,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a><br />
 →<a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県<br />
 香川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a></p></td>
-<td><p>1983年3月までの放送エリアは岡山県のみ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></p></td>
+<td><p>現：<a href="../Page/RSK山陽放送.md" title="wikilink">RSK山陽放送</a><br />
+1983年3月までの放送エリアは岡山県のみ<br />
 1983年4月から電波相互乗り入れにより香川県でも放送</p></td>
 <td></td>
 </tr>
@@ -238,7 +240,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>1984年4月から同時ネット</p></td>
 <td></td>
 </tr>
@@ -283,7 +285,7 @@
         [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")は1973年7月に『太陽にほえろ\!』を遅れネットに変更した上で同時ネットに移行した他、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は[熊本県民テレビ](../Page/熊本県民テレビ.md "wikilink")開局に伴い、1982年4月から同時ネットに移行している。
         [中国放送](../Page/中国放送.md "wikilink")は、『三菱ダイヤモンド・アワー』が本来の系列局である[広島テレビに移行した](../Page/広島テレビ放送.md "wikilink")1969年10月から同時ネットとなった。
         [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")・[琉球放送](../Page/琉球放送.md "wikilink")は、1981年4月に『太陽にほえろ\!』の放映権をフジテレビ系列局（[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")・[鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")・[沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")、テレビ宮崎と鹿児島テレビは日本テレビ系列・[NETテレビ系列とのクロスネット局](../Page/テレビ朝日.md "wikilink")）へ放映権を移行して同時ネットに移行している。
-        [信越放送](../Page/信越放送.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")は、1984年4月の『[JNNフラッシュニュース](../Page/JNNフラッシュニュース.md "wikilink")』の放送見直しと『[金曜ナイター](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』の開始に伴い同時ネットに移行している（同時に『太陽にほえろ\!』は長野県・長崎県では[テレビ信州](../Page/テレビ信州.md "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")へ放映権移行、北陸放送は遅れネット化）。
+        [信越放送](../Page/信越放送.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[長崎放送](../Page/長崎放送.md "wikilink")は、1984年4月の『[JNNフラッシュニュース](../Page/JNNフラッシュニュース.md "wikilink")』の放送見直しと『[金曜ナイター](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』の開始に伴い同時ネットに移行している（同時に『太陽にほえろ\!』は長野県・長崎県では[テレビ信州](../Page/テレビ信州.md "wikilink")・[テレビ長崎](../Page/テレビ長崎.md "wikilink")へ放映権移行、北陸放送は遅れネット化）。
   - 当時フジテレビ系列とのクロスネット局だった[福島テレビ](../Page/福島テレビ.md "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")の2局は以下の対応が取られていた。
       -
         福島テレビは1983年3月まで同時ネットで放送していたが、1983年4月にフジテレビ系フルネット局（JNN脱退・[FNN加盟](../Page/フジニュースネットワーク.md "wikilink")）に転換したため打ち切られた。なお、1983年12月に[テレビユー福島](../Page/テレビユー福島.md "wikilink")が開局した事で福島県における放送を再開している。
@@ -297,4 +299,4 @@
   - [TBS金曜9時枠の連続ドラマ](../Page/TBS金曜9時枠の連続ドラマ.md "wikilink")
   - [金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")
 
-[Category:TBS金曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜8時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")
+[Category:TBS金曜8時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜8時枠の連続ドラマ "wikilink") [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink")

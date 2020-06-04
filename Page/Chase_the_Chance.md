@@ -1,7 +1,7 @@
 > この記事は[Chase the Chance](https://ja.wikipedia.org/wiki/Chase_the_Chance)から翻訳されています。
 
 
-「**Chase the Chance**」（チェイス・ザ・チャンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では4枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+「**Chase the Chance**」（チェイス・ザ・チャンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では4枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 
@@ -12,6 +12,7 @@
   - 同曲まで、バックダンサーとして[SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")（現・[MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")）が参加していた。
   - 自身初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した。オリコンでは、自身初のシングルのミリオンセラーを達成（出荷ベースでは2枚目）。また、[大晦日](../Page/大晦日.md "wikilink")の[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")にも初出場した（当時18歳）。
   - 累計出荷枚数は155万枚\[3\]。
+  - 累計売上枚数は136.2万枚。
 
 ## 主な記録
 

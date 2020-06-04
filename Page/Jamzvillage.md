@@ -116,7 +116,7 @@ TVK「BeaTriX TV」エンディングテーマ</p></td>
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : jamzvillage](http://www.sonymusic.co.jp/Music/Arch/SMER/Jamzvillage/) - [ソニー・ミュージックエンタテインメントによる公式ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+  - [Sony Music Online Japan : jamzvillage](https://www.sonymusic.co.jp/artist/Jamzvillage/) - [ソニー・ミュージックエンタテインメントによる公式ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
   - [myspace.com - 籾山タカヒロ](http://www.myspace.com/momispace)
 
 [Category:日本のポップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のポップ・ミュージシャン "wikilink") [Category:エスエムイーレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアーティスト "wikilink")

@@ -19,12 +19,12 @@
 
 ## 人物
 
-  - 金髪がトレードマーク。2008年にDreamがLDHに移籍となった際、イメージチェンジをはかったことがきっかけである\[13\]。
-  - 2020年2月22日、建築家の半田悠人と結婚\[14\]。
+  - 金髪がトレードマーク。在籍しているグループのDreamがLDHへ移籍となった2008年にイメージチェンジをはかったことがきっかけである\[13\]。
+  - 2020年2月22日、建築家の半田悠人と結婚\[14\]。3年の交際期間を経て結婚に至った\[15\]。半田はかつてリアリティ番組『[テラスハウス](https://ja.wikipedia.org/wiki/テラスハウス_\(テレビ番組\) "wikilink")』に出演していた\[16\]。
 
 ## 作品
 
-順位はオリコン週間ランキングの最高位\[15\]
+順位はオリコン週間ランキングの最高位\[17\]
 
 ### シングル
 
@@ -94,7 +94,7 @@
 | 発売日        | タイトル                                                                           |
 | ---------- | ------------------------------------------------------------------------------ |
 | 2017年5月3日  | [はやく逢いたい (Acoustic version)](https://ja.wikipedia.org/wiki/はやく逢いたい "wikilink") |
-| 2016年8月24日 | トライ・エヴリシング（Y\&Co. Remix）\[16\]                                                 |
+| 2016年8月24日 | トライ・エヴリシング（Y\&Co. Remix）\[18\]                                                 |
 | 2019年1月30日 | [Good Goodbye](https://ja.wikipedia.org/wiki/Good_Goodbye "wikilink")          |
 | 2019年9月17日 | [恋のつぼみ](https://ja.wikipedia.org/wiki/恋のつぼみ#Dream_Amiバージョン "wikilink")         |
 
@@ -132,10 +132,10 @@
 | 2013年9月18日                        | FREE FREE                                                                                                                                                              | feat. HAN-KUN & Ami（Dream / E-girls）<ref>{{Cite web |url=<https://www.universal-music.co.jp/spicy-chocolate/news/2013-08-26/> |title=SPICY CHOCOLATE「渋谷 RAGGA SWEET COLLECTION 3」 アルバムリード曲 HAN-KUN（湘南乃風）、Ami（Dream / E-girls） 超話題作「FREE FREE |
 | 2015年9月16日                        | POSITIVE feat. Dream Ami                                                                                                                                               | [tofubeats](https://ja.wikipedia.org/wiki/tofubeats "wikilink")『POSITIVE』                                                                                                                                                                    |
 | 2016年1月20日                        | POSITIVE feat. Dream Ami - 中田ヤスタカ(CAPSULE) REMIX                                                                                                                       | tofubeats『POSITIVE REMIXES』                                                                                                                                                                                                                  |
-| 2016年4月20日                        | トライ・エヴリシング（シングルとは別バージョン\[17\]）                                                                                                                                         | V.A.『[ズートピア オリジナル・サウンドトラック](https://ja.wikipedia.org/wiki/ズートピア#音楽 "wikilink")』                                                                                                                                                              |
+| 2016年4月20日                        | トライ・エヴリシング（シングルとは別バージョン\[19\]）                                                                                                                                         | V.A.『[ズートピア オリジナル・サウンドトラック](https://ja.wikipedia.org/wiki/ズートピア#音楽 "wikilink")』                                                                                                                                                              |
 | トライ・エヴリシング（ズーラシアン・フィルハーモニー・バージョン） |                                                                                                                                                                        |                                                                                                                                                                                                                                              |
 | 2017年10月25日                       | 輝く未来                                                                                                                                                                   | V.A.『Thank You Disney』                                                                                                                                                                                                                       |
-| 2017年12月6日                        | BLACK BEANZ\[18\]<ref name="takahiro2">{{cite web | url = <http://ami-ldh.jp/index.php?a=news_detail&id=1056087> | title = EXILE TAKAHIROの新曲「BLACK BEANZ」にDream Amiが参加 | 12/2のAbemaTVでのEXILE TAKAHIRO特集でMV初解禁！ | date = 2017-11-28 | website = Dream Ami OFFICIAL WEBSITE | publisher = rhythm zone | accessdate = 2018-07-11}}</ref>                                                                                 |
+| 2017年12月6日                        | BLACK BEANZ\[20\]<ref name="takahiro2">{{cite web | url = <http://ami-ldh.jp/index.php?a=news_detail&id=1056087> | title = EXILE TAKAHIROの新曲「BLACK BEANZ」にDream Amiが参加 | 12/2のAbemaTVでのEXILE TAKAHIRO特集でMV初解禁！ | date = 2017-11-28 | website = Dream Ami OFFICIAL WEBSITE | publisher = rhythm zone | accessdate = 2018-07-11}}</ref>                                                                                 |
 
 ### スタイルブック
 
@@ -145,26 +145,26 @@
 
 | 曲名                                                                                                                                 | タイアップ                                                                                                                             | 収録作品                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ドレスを脱いだシンデレラ                                                                                                                       | [KOSE](../Page/コーセー.md "wikilink")「ファシオ」CMソング\[19\]                                                                               | 1stシングル「[ドレスを脱いだシンデレラ](https://ja.wikipedia.org/wiki/ドレスを脱いだシンデレラ "wikilink")」               |
-| トライ・エヴリシング                                                                                                                         | ディズニー映画『[ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink")』日本語版主題歌\[20\]\[21\]\[22\]                                         | 2ndシングル「[トライ・エヴリシング](https://ja.wikipedia.org/wiki/トライ・エヴリシング "wikilink")」                   |
+| ドレスを脱いだシンデレラ                                                                                                                       | [KOSE](../Page/コーセー.md "wikilink")「ファシオ」CMソング\[21\]                                                                               | 1stシングル「[ドレスを脱いだシンデレラ](https://ja.wikipedia.org/wiki/ドレスを脱いだシンデレラ "wikilink")」               |
+| トライ・エヴリシング                                                                                                                         | ディズニー映画『[ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink")』日本語版主題歌\[22\]\[23\]\[24\]                                         | 2ndシングル「[トライ・エヴリシング](https://ja.wikipedia.org/wiki/トライ・エヴリシング "wikilink")」                   |
 | Lovefool -好きだって言って-                                                                                                                | [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」CMソング                                                                             | 3rdシングル「[Lovefool -好きだって言って-](https://ja.wikipedia.org/wiki/Lovefool_-好きだって言って- "wikilink")」 |
 | [Right-on](https://ja.wikipedia.org/wiki/Right-on "wikilink")「MOCOMOCO JEANS」CMソング                                                 |                                                                                                                                   |                                                                                              |
 | JUMP\!                                                                                                                             | [健栄製薬](../Page/健栄製薬.md "wikilink")「手ピカジェルプラス」CMソング                                                                                |                                                                                              |
 | 第32回[東日本女子駅伝](../Page/東日本女子駅伝.md "wikilink") 大会応援ソング                                                                               |                                                                                                                                   |                                                                                              |
 | じゃあね                                                                                                                               | [Right-on](https://ja.wikipedia.org/wiki/Right-on "wikilink") 「ダウンイロイロ篇」CMソング                                                     |                                                                                              |
-| はやく逢いたい                                                                                                                            | 映画『[ひるなかの流星](https://ja.wikipedia.org/wiki/ひるなかの流星 "wikilink")』主題歌\[23\]                                                          | 4thシングル「[はやく逢いたい](https://ja.wikipedia.org/wiki/はやく逢いたい "wikilink")」                         |
-| 第一興商「DAM CHANNEL LIVE 2017」告知CMソング\[24\]                                                                                           |                                                                                                                                   |                                                                                              |
-| Samantha Vega×ひるなかの流星 コラボCM\[25\]                                                                                                  |                                                                                                                                   |                                                                                              |
-| Change my life                                                                                                                     | [サマンサタバサ](../Page/サマンサタバサ.md "wikilink")「DREAM COLOR」TVCMソング\[26\]                                                                |                                                                                              |
+| はやく逢いたい                                                                                                                            | 映画『[ひるなかの流星](https://ja.wikipedia.org/wiki/ひるなかの流星 "wikilink")』主題歌\[25\]                                                          | 4thシングル「[はやく逢いたい](https://ja.wikipedia.org/wiki/はやく逢いたい "wikilink")」                         |
+| 第一興商「DAM CHANNEL LIVE 2017」告知CMソング\[26\]                                                                                           |                                                                                                                                   |                                                                                              |
+| Samantha Vega×ひるなかの流星 コラボCM\[27\]                                                                                                  |                                                                                                                                   |                                                                                              |
+| Change my life                                                                                                                     | [サマンサタバサ](../Page/サマンサタバサ.md "wikilink")「DREAM COLOR」TVCMソング\[28\]                                                                |                                                                                              |
 | 君のとなり                                                                                                                              | [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")『真夏のオオカミくんには騙されない』エンディングテーマ                                            | 5thシングル「[君のとなり](https://ja.wikipedia.org/wiki/君のとなり_\(Dream_Amiの曲\) "wikilink")」             |
 | Re: Dream                                                                                                                          | 健栄製薬「手ピカジェル」CMソング                                                                                                                 | 1stアルバム『[Re: Dream](https://ja.wikipedia.org/wiki/Re:_Dream "wikilink")』                     |
 | アマハル                                                                                                                               | ブルボン「おいしいココナッツミルク」CMソング                                                                                                           | 6thシングル「[アマハル](https://ja.wikipedia.org/wiki/アマハル "wikilink")」                               |
-| Wonderland                                                                                                                         | 映画『[オズランド 笑顔の魔法おしえます。](https://ja.wikipedia.org/wiki/オズの世界#映画 "wikilink")』主題歌\[27\]                                               | 7thシングル「[Wonderland](https://ja.wikipedia.org/wiki/Wonderland_\(Dream_Amiの曲\) "wikilink")」   |
-| 美容・ヘルスケア分野向け求人サイト「リジョブ」CMソング\[28\]\[29\]                                                                                           |                                                                                                                                   |                                                                                              |
-| [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink") 「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」CMソング\[30\] |                                                                                                                                   |                                                                                              |
-| NEXT                                                                                                                               | [Netflix](../Page/Netflix.md "wikilink")オリジナル映画『[ネクスト ロボ](https://ja.wikipedia.org/wiki/ネクスト_ロボ "wikilink")』日本語吹替版エンディングソング\[31\] |                                                                                              |
-| Good Goodbye                                                                                                                       | 劇場版『[えいがのおそ松さん](https://ja.wikipedia.org/wiki/おそ松さん#劇場版 "wikilink")』主題歌\[32\]                                                     | 配信シングル「[Good Goodbye](https://ja.wikipedia.org/wiki/Good_Goodbye "wikilink")」                |
-| 恋のつぼみ                                                                                                                              | 配信ドラマ『[ブスの瞳に恋してる2019](https://ja.wikipedia.org/wiki/ブスの瞳に恋してる#配信ドラマ "wikilink")』主題歌\[33\]                                         | 配信シングル「[恋のつぼみ](https://ja.wikipedia.org/wiki/恋のつぼみ#Dream_Amiバージョン "wikilink")」               |
+| Wonderland                                                                                                                         | 映画『[オズランド 笑顔の魔法おしえます。](https://ja.wikipedia.org/wiki/オズの世界#映画 "wikilink")』主題歌\[29\]                                               | 7thシングル「[Wonderland](https://ja.wikipedia.org/wiki/Wonderland_\(Dream_Amiの曲\) "wikilink")」   |
+| 美容・ヘルスケア分野向け求人サイト「リジョブ」CMソング\[30\]\[31\]                                                                                           |                                                                                                                                   |                                                                                              |
+| [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink") 「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」CMソング\[32\] |                                                                                                                                   |                                                                                              |
+| NEXT                                                                                                                               | [Netflix](../Page/Netflix.md "wikilink")オリジナル映画『[ネクスト ロボ](https://ja.wikipedia.org/wiki/ネクスト_ロボ "wikilink")』日本語吹替版エンディングソング\[33\] |                                                                                              |
+| Good Goodbye                                                                                                                       | 劇場版『[えいがのおそ松さん](https://ja.wikipedia.org/wiki/おそ松さん#劇場版 "wikilink")』主題歌\[34\]                                                     | 配信シングル「[Good Goodbye](https://ja.wikipedia.org/wiki/Good_Goodbye "wikilink")」                |
+| 恋のつぼみ                                                                                                                              | 配信ドラマ『[ブスの瞳に恋してる2019](https://ja.wikipedia.org/wiki/ブスの瞳に恋してる#配信ドラマ "wikilink")』主題歌\[35\]                                         | 配信シングル「[恋のつぼみ](https://ja.wikipedia.org/wiki/恋のつぼみ#Dream_Amiバージョン "wikilink")」               |
 
 ## ライブ
 
@@ -174,7 +174,7 @@
 
 <div class="NavHead" style="text-align: left;">
 
-Dream Ami 1st. Live Tour 2017 ♡ Re: Dream\[34\]\[35\]
+Dream Ami 1st. Live Tour 2017 ♡ Re: Dream\[36\]\[37\]
 
 </div>
 
@@ -244,75 +244,75 @@ E.G. POWER 2019 〜POWER to the DOME〜
 ### テレビ番組
 
   - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（2012年 - 2014年、[TBS](../Page/TBSテレビ.md "wikilink")） - MC
-  - [バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")（2014年4月 - 2016年3月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\[36\]\[37\]
-  - [BF会議](https://ja.wikipedia.org/wiki/BF会議 "wikilink")（2014年10月 - 2015年3月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - MC\[38\]
-  - [Good Time Music](https://ja.wikipedia.org/wiki/Good_Time_Music "wikilink")（2016年4月 - 2017年3月、TBS） - MC\[39\]
+  - [バイキング](https://ja.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")（2014年4月 - 2016年3月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）\[38\]\[39\]
+  - [BF会議](https://ja.wikipedia.org/wiki/BF会議 "wikilink")（2014年10月 - 2015年3月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - MC\[40\]
+  - [Good Time Music](https://ja.wikipedia.org/wiki/Good_Time_Music "wikilink")（2016年4月 - 2017年3月、TBS） - MC\[41\]
   - [陸海空 地球征服するなんて](https://ja.wikipedia.org/wiki/陸海空_こんなところでヤバいバル "wikilink")（2017年4月 - 2019年3月、テレビ朝日）
 
 ### テレビドラマ
 
-  - [ムッシュ\!](https://ja.wikipedia.org/wiki/ムッシュ! "wikilink") 第10話（2013年6月24日、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")） - Ami 役\[40\]
-  - [ひみつ×戦士 ファントミラージュ\!](https://ja.wikipedia.org/wiki/ひみつ×戦士_ファントミラージュ! "wikilink")（2020年4月26日 - 、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - ファントミクイーン アミーゴ 役\[41\]
+  - [ムッシュ\!](https://ja.wikipedia.org/wiki/ムッシュ! "wikilink") 第10話（2013年6月24日、[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")） - Ami 役\[42\]
+  - [ひみつ×戦士 ファントミラージュ\!](https://ja.wikipedia.org/wiki/ひみつ×戦士_ファントミラージュ! "wikilink")（2020年4月26日 - 、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - ファントミクイーン アミーゴ 役\[43\]
 
 ### 声優
 
-  - [ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink") アニメ25周年記念〜旅は道連れ、苦あれば楽あり美味もありスペシャル（2015年1月25日、フジテレビ） - Ami 役\[42\]
-  - [ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink") 日本語版（2016年） - ガゼル 役\[43\]
+  - [ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink") アニメ25周年記念〜旅は道連れ、苦あれば楽あり美味もありスペシャル（2015年1月25日、フジテレビ） - Ami 役\[44\]
+  - [ズートピア](https://ja.wikipedia.org/wiki/ズートピア "wikilink") 日本語版（2016年） - ガゼル 役\[45\]
 
 ### 短編映画
 
-  - CINEMA FIGHTERS 「[色のない洋服店](https://ja.wikipedia.org/wiki/CINEMA_FIGHTERS#色のない洋服店 "wikilink")」（2018年1月）\[44\] - 中目由衣 役
+  - CINEMA FIGHTERS 「[色のない洋服店](https://ja.wikipedia.org/wiki/CINEMA_FIGHTERS#色のない洋服店 "wikilink")」（2018年1月）\[46\] - 中目由衣 役
 
 ### ラジオ
 
-  - 木下グループ Beautiful Harmony（2013年4月 - 2017年10月、[FM802](../Page/FM802.md "wikilink")）\[45\]
-  - Dream AmiのHappy-Go-Lucky☆（2018年4月 - 、[JFN](../Page/全国FM放送協議会.md "wikilink")）\[46\]\[47\]
+  - 木下グループ Beautiful Harmony（2013年4月 - 2017年10月、[FM802](../Page/FM802.md "wikilink")）\[47\]
+  - Dream AmiのHappy-Go-Lucky☆（2018年4月 - 、[JFN](../Page/全国FM放送協議会.md "wikilink")）\[48\]\[49\]
 
 ### 配信番組
 
-  - [DAM CHANNEL](../Page/DAMチャンネル.md "wikilink")（2013年10月） - 月替わりMC\[48\]
-      - [DAM CHANNEL TV](https://ja.wikipedia.org/wiki/DAMチャンネル#歴代司会者 "wikilink")（2017年4月 - 2018年3月） - 14代目MC\[49\]
-  - [真夏のオオカミくんには騙されない](https://ja.wikipedia.org/wiki/オオカミくんには騙されない "wikilink")（2017年7月 - 9月、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - MC\[50\]
-      - 真冬のオオカミくんには騙されない（2018年1月 - 3月）\[51\]
-      - 太陽とオオカミくんには騙されない（2018年7月 - 10月）\[52\]
-      - 白雪とオオカミくんには騙されない（2019年1月 - 3月）\[53\]\[54\]
-      - オオカミちゃんには騙されない（2019年7月 - 9月）\[55\]\[56\]
+  - [DAM CHANNEL](../Page/DAMチャンネル.md "wikilink")（2013年10月） - 月替わりMC\[50\]
+      - [DAM CHANNEL TV](https://ja.wikipedia.org/wiki/DAMチャンネル#歴代司会者 "wikilink")（2017年4月 - 2018年3月） - 14代目MC\[51\]
+  - [真夏のオオカミくんには騙されない](https://ja.wikipedia.org/wiki/オオカミくんには騙されない "wikilink")（2017年7月 - 9月、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - MC\[52\]
+      - 真冬のオオカミくんには騙されない（2018年1月 - 3月）\[53\]
+      - 太陽とオオカミくんには騙されない（2018年7月 - 10月）\[54\]
+      - 白雪とオオカミくんには騙されない（2019年1月 - 3月）\[55\]\[56\]
+      - オオカミちゃんには騙されない（2019年7月 - 9月）\[57\]\[58\]
       - 月とオオカミちゃんには騙されない（2020年1月 - 3月）
 
 ### ランウェイ
 
   - [GirlsAward](https://ja.wikipedia.org/wiki/GirlsAward "wikilink")
-      - GirlsAward 2012 AUTUMN/WINTER（2012年）\[57\]
-      - GirlsAward 2018 SPRING/SUMMER（2018年）\[58\]
-      - GirlsAward 2019 AUTUMN/WINTER（2019年）\[59\]
+      - GirlsAward 2012 AUTUMN/WINTER（2012年）\[59\]
+      - GirlsAward 2018 SPRING/SUMMER（2018年）\[60\]
+      - GirlsAward 2019 AUTUMN/WINTER（2019年）\[61\]
 
 <!-- end list -->
 
-  - [関西コレクション](https://ja.wikipedia.org/wiki/関西コレクション "wikilink") 2013 SPRING/SUMMER（2013年）\[60\]
-  - 東京ランウェイ 2014 SPRING/SUMMER（2014年）\[61\]
+  - [関西コレクション](https://ja.wikipedia.org/wiki/関西コレクション "wikilink") 2013 SPRING/SUMMER（2013年）\[62\]
+  - 東京ランウェイ 2014 SPRING/SUMMER（2014年）\[63\]
 
 ### CM
 
-  - [バンダイ](../Page/バンダイ.md "wikilink")「カラオケランキンパーティ」（2015年）\[62\]
-  - [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」（2016年 - ）\[63\]
+  - [バンダイ](../Page/バンダイ.md "wikilink")「カラオケランキンパーティ」（2015年）\[64\]
+  - [ブルボン](../Page/ブルボン.md "wikilink")「おいしいココナッツミルク」（2016年 - ）\[65\]
   - [健栄製薬](../Page/健栄製薬.md "wikilink")「手ピカジェル」（2016年 - 2017年）
 
 ### 広告
 
-  - [BRITA Japan](../Page/ブリタ.md "wikilink")「fill\&go Active」（2018年）\[64\]\[65\]
-  - リジョブ「リジョブ」（2018年）\[66\]\[67\]
-  - [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink")「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」（2018年）\[68\]
-  - [Google Japan](https://ja.wikipedia.org/wiki/Google#日本法人 "wikilink") Googleアプリ「Discover（探す）」「写真でお店検索」（2018年）\[69\]
-  - [花王](../Page/花王.md "wikilink")「[メリット](../Page/メリット_\(シャンプー\).md "wikilink") PYUAN」（2019年 -）\[70\]\[71\]\[72\]
+  - [BRITA Japan](../Page/ブリタ.md "wikilink")「fill\&go Active」（2018年）\[66\]\[67\]
+  - リジョブ「リジョブ」（2018年）\[68\]\[69\]
+  - [ユニリーバ](../Page/ユニリーバ・ジャパン.md "wikilink")「[LUX](https://ja.wikipedia.org/wiki/ラックス_\(ビューティケア\) "wikilink") Shine Plus」（2018年）\[70\]
+  - [Google Japan](https://ja.wikipedia.org/wiki/Google#日本法人 "wikilink") Googleアプリ「Discover（探す）」「写真でお店検索」（2018年）\[71\]
+  - [花王](../Page/花王.md "wikilink")「[メリット](../Page/メリット_\(シャンプー\).md "wikilink") PYUAN」（2019年 -）\[72\]\[73\]\[74\]
 
 ### ミュージックビデオ
 
-  - [EXILE TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")「[BLACK BEANZ](https://ja.wikipedia.org/wiki/All-The-Time_Memories "wikilink")」（2017年）\[73\]\[74\]
+  - [EXILE TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")「[BLACK BEANZ](https://ja.wikipedia.org/wiki/All-The-Time_Memories "wikilink")」（2017年）\[75\]\[76\]
 
 ### その他
 
-  - サンリオ「Dream Ami × Little Twin Stars」（2019年）\[75\]
-  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[76\]
+  - サンリオ「Dream Ami × Little Twin Stars」（2019年）\[77\]
+  - [サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")「PURO WHITE CHRISTMAS」アンバサダー（2019年）\[78\]
 
 ## 脚注
 
@@ -350,9 +350,9 @@ E.G. POWER 2019 〜POWER to the DOME〜
 20.
 21.
 22.
-23. [胸キュンシーン満載！今春公開映画「ひるなかの流星」の主題歌に、原作漫画の大ファンDream Amiの本人作詞の新曲「はやく逢いたい」が決定！](http://ami-ldh.jp/index.php?a=news_detail&id=1045594)*Dream Ami* (2017年1月31日) 2017年2月6日閲覧
+23.
 24.
-25.
+25. [胸キュンシーン満載！今春公開映画「ひるなかの流星」の主題歌に、原作漫画の大ファンDream Amiの本人作詞の新曲「はやく逢いたい」が決定！](http://ami-ldh.jp/index.php?a=news_detail&id=1045594)*Dream Ami* (2017年1月31日) 2017年2月6日閲覧
 26.
 27.
 28.
@@ -367,9 +367,9 @@ E.G. POWER 2019 〜POWER to the DOME〜
 37.
 38.
 39.
-40. [「ムッシュ\!」公式サイト CAST](http://monsieur-project.jp/cast/)
+40.
 41.
-42.
+42. [「ムッシュ\!」公式サイト CAST](http://monsieur-project.jp/cast/)
 43.
 44.
 45.
@@ -404,3 +404,5 @@ E.G. POWER 2019 〜POWER to the DOME〜
 74.
 75.
 76.
+77.
+78.

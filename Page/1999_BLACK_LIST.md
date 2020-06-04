@@ -27,7 +27,7 @@
 16. **[第3楽章：KILL THE KING GHIDRAH](../Page/聖飢魔II〜悪魔が来たりてヘヴィメタる.md "wikilink")**（作曲:ダミアン浜田、編曲:聖飢魔II、松崎雄一）
 17. **[第4楽章：DEAD SYMPHONY](../Page/聖飢魔II〜悪魔が来たりてヘヴィメタる.md "wikilink")**（作詞:ダミアン浜田、デーモン小暮、作曲:ダミアン浜田、編曲: 聖飢魔II、松崎雄一）
 18. **[嵐の予感](../Page/有害.md "wikilink")**（作詞:デーモン小暮、作曲:ルーク篁、編曲: 聖飢魔II、松崎雄一）
-19. **[EL. DORADO](../Page/EL._DORADO.md "wikilink")**（作詞:デーモン小暮、作曲:[紫馬肥](https://ja.wikipedia.org/wiki/紫馬肥 "wikilink")（ルーク篁）、デーモン小暮、編曲: 聖飢魔II、松崎雄一）
+19. **[EL. DORADO](../Page/EL._DORADO.md "wikilink")**（作詞:デーモン小暮、作曲:[紫馬肥](https://ja.wikipedia.org/wiki/聖飢魔II#結成〜地球デビュー "wikilink")（ルーク篁）、デーモン小暮、編曲: 聖飢魔II、松崎雄一）
 
 <!-- end list -->
 

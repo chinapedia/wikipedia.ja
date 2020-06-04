@@ -1,7 +1,7 @@
 > この記事は[NTTレゾナント](https://ja.wikipedia.org/wiki/NTTレゾナント)から翻訳されています。
 
 
-**エヌ・ティ・ティ レゾナント株式会社**（NTTレゾナント、NTT Resonant Incorporated）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[NTTグループ](../Page/NTTグループ.md "wikilink")の企業である。[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")が筆頭株主であり、実質的にNTTコムグループに属する。
+**エヌ・ティ・ティ レゾナント株式会社**（NTTレゾナント、NTT Resonant Incorporated）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[NTTグループ](../Page/NTTグループ.md "wikilink")の企業である。[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")が筆頭株主である。
 
 [ポータルサイト](../Page/ポータルサイト.md "wikilink")「[goo](https://ja.wikipedia.org/wiki/goo "wikilink")」、映像配信サービス「[BROBA](https://ja.wikipedia.org/wiki/BROBA "wikilink")」の運営の他、NTT-Xから受け継いだ[ECサイト](https://ja.wikipedia.org/wiki/ECサイト "wikilink")「NTT-X Store」の運営も行っている。
 

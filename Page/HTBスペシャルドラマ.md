@@ -1,13 +1,15 @@
 > この記事は[HTBスペシャルドラマ](https://ja.wikipedia.org/wiki/HTBスペシャルドラマ)から翻訳されています。
 
 
-**HTBスペシャルドラマ**（エイチティービースペシャルドラマ）は[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）が制作している[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
+**HTBスペシャルドラマ**（エイチティービースペシャルドラマ）は[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）が制作していた[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
 
 ## 番組概要
 
-[1996年](../Page/1996年.md "wikilink")に第一作が冬に放送され、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")からは毎年夏に放送されている。（1998年に限り、冬と夏の2回制作されている。）放送時間は55分(2008年以降は85分)。作品は全て[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内を舞台にしている。 多くの作品が[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")や[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")賞優秀賞、[文化庁芸術祭](https://ja.wikipedia.org/wiki/文化庁芸術祭 "wikilink")優秀賞などを受賞している。
+[1996年](../Page/1996年.md "wikilink")に第一作が冬に放送され、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")からは毎年夏に放送されている。（1998年に限り、冬と夏の2回制作されている。）放送時間は55分(2008年以降は85分)。作品は全て[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内を舞台にしている。多くの作品が[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")や[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")賞優秀賞、[文化庁芸術祭](https://ja.wikipedia.org/wiki/文化庁芸術祭 "wikilink")優秀賞などを受賞している。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降の3作品は[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")ディレクターの[藤村忠寿](../Page/藤村忠寿.md "wikilink")が[演出](../Page/演出.md "wikilink")、[嬉野雅道](../Page/嬉野雅道.md "wikilink")が[プロデューサー](../Page/プロデューサー.md "wikilink")を担当している。そのため番組宣伝では「『水曜どうでしょう』制作陣（またはスタッフ）がおくる」とテロップが付けられている。また、藤村のこだわりもあり、映画用24pで撮影されている。
+
+[2014年](../Page/2014年.md "wikilink")をもって終了となったが、2019年にはHTB開局50周年記念作品として、連続ドラマ『[チャンネルはそのまま\!](https://ja.wikipedia.org/wiki/チャンネルはそのまま! "wikilink")』が放送された。
 
 ### ネット局
 
@@ -59,4 +61,4 @@
 
   - [HTBスペシャルドラマシリーズ](https://www.htb.co.jp/tv/)
 
-[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:ローカルテレビ局のテレビドラマ](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のテレビドラマ "wikilink") [Category:テレビ朝日のスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスペシャルドラマ "wikilink") [Category:1996年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1996年のテレビドラマ "wikilink") [Category:北海道を舞台とした作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした作品 "wikilink") [Category:水曜どうでしょう](https://ja.wikipedia.org/wiki/Category:水曜どうでしょう "wikilink")
+[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:ローカルテレビ局のテレビドラマ](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局のテレビドラマ "wikilink") [Category:テレビ朝日のスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスペシャルドラマ "wikilink") [Category:1996年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1996年のテレビドラマ "wikilink") [Category:北海道を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:北海道を舞台としたテレビドラマ "wikilink") [Category:水曜どうでしょう](https://ja.wikipedia.org/wiki/Category:水曜どうでしょう "wikilink")

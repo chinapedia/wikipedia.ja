@@ -230,7 +230,7 @@ HAL研究所<br />
       - [ようこそ『ＭＯＴＨＥＲ３』の世界へ！](http://www.1101.com/MOTHER3/index.html)
       - [『ＭＯＴＨＥＲ ３』の開発が中止になったことについての糸井重里・岩田聡・宮本茂の座談会](http://www.1101.com/nintendo/nin13/index.htm) （NINTENDO64版が開発中止になった際の鼎談）
 
-[Category:MOTHERシリーズ](https://ja.wikipedia.org/wiki/Category:MOTHERシリーズ "wikilink")
+[Category:MOTHERシリーズ](https://ja.wikipedia.org/wiki/Category:MOTHERシリーズ "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
 
 1.
 2.

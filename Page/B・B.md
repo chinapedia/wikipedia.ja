@@ -194,7 +194,7 @@
 ### 音楽
 
   - [中島優貴](https://ja.wikipedia.org/wiki/中島優貴 "wikilink") (劇伴作曲)
-  - [結城梨沙](https://ja.wikipedia.org/wiki/結城梨沙 "wikilink")「BURNING BLOOD」(OP)「BELIEVE IN」(ED)
+  - [結城梨沙](../Page/結城梨沙.md "wikilink")「BURNING BLOOD」(OP)「BELIEVE IN」(ED)
 
 ## 外部リンク
 

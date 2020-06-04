@@ -66,7 +66,14 @@
   - 何時までもLoveYou（[1992年](../Page/1992年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")・[音楽専科社](../Page/音楽専科社.md "wikilink")）
   - **Shiho**　 Naked Woman　 いくときいっしょ*\!*　（1992年[11月15日](../Page/11月15日.md "wikilink")・ワニブックス）
   - SHIHO写真集 Dancing（[1993年](../Page/1993年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")・桜桃書房）
+  - SHIHO\&AYUMI（NICE BODIES）写真集 BODIES （1993年・青人社）
   - SHIHO（[1994年](../Page/1994年.md "wikilink")・[竹書房](../Page/竹書房.md "wikilink")）、CD-ROMも発売された。
+
+### ビデオ
+
+  - NICE BODY-S（NICEBODYS名義、1993年6月18日 笠倉出版社）
+  - SHAKE YOUR BODY（1993年9月21日 日本コロムビア）
+  - Fetish（1993年10月21日 ポニーキャニオン）
 
 ## 脚注
 

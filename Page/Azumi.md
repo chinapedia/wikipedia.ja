@@ -275,7 +275,7 @@
 ### ナレーション
 
   - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[畑のうた](https://ja.wikipedia.org/wiki/畑のうた "wikilink")」（2009年）
-  - [JAL](https://ja.wikipedia.org/wiki/JAL "wikilink")機内放送（2009年）
+  - [JAL機内放送](../Page/日本航空.md "wikilink")（2009年）
   - [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink")「[ICE BOX](https://ja.wikipedia.org/wiki/ICE_BOX "wikilink")」（2010年）
   - アクアクララ「ウォーターサーバー・ベビーアクア」（2010年）
   - [JR大阪三越伊勢丹](../Page/ジェイアール西日本伊勢丹.md "wikilink") WEB（2011年）

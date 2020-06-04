@@ -25,6 +25,7 @@
   - [メイキング・オブ・アメリカ](https://ja.wikipedia.org/wiki/メイキング・オブ・アメリカ "wikilink") () - [ミシガン大学](../Page/ミシガン大学.md "wikilink")と[コーネル大学](../Page/コーネル大学.md "wikilink")による電子図書館プロジェクト
   - [軍事活動地域](https://ja.wikipedia.org/wiki/軍事活動地域 "wikilink") ()
   - [メソシュウ酸](https://ja.wikipedia.org/wiki/メソシュウ酸 "wikilink") () - 別名をタルトロン酸、あるいは2-ヒドロキシマロン酸ともいう物質。[トウガン](../Page/トウガン.md "wikilink")（冬瓜）などに含まれ、体内に入ると炭水化物が脂肪に変わるのを抑制する働きがあるが、毒性もある\[1\]。
+  - [薬の作用機序](https://ja.wikipedia.org/wiki/薬の作用機序 "wikilink") ()
 
 <!-- end list -->
 

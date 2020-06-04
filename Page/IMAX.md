@@ -798,19 +798,20 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 
 ### 邦画
 
-| 作品名                                                                                    | 公開日         | 備考             |
-| -------------------------------------------------------------------------------------- | ----------- | -------------- |
-| **[ドラゴンボールZ 神と神](https://ja.wikipedia.org/wiki/ドラゴンボールZ_神と神 "wikilink")**              | 2013年3月30日  | 邦画初のIMAX作品     |
-| **[ドラゴンボールZ 復活の「F」](https://ja.wikipedia.org/wiki/ドラゴンボールZ_復活の「F」 "wikilink")**        | 2015年4月18日  |                |
-| **[進撃の巨人 ATTACK ON TITAN](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")**            | 2015年8月1日   |                |
-| **[進撃の巨人 ATTACK ON TITAN エンドオブザワールド](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")** | 2015年9月19日  |                |
-| **[シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")**                          | 2016年7月29日  |                |
-| **[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")**                            | 2017年1月13日  | 1月26日までの期間限定上映 |
-| **[亜人](../Page/亜人.md "wikilink")**                                                     | 2017年9月30日  |                |
-| **[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")**                                             | 2017年12月1日  |                |
-| **[ドラゴンボール超 ブロリー](https://ja.wikipedia.org/wiki/ドラゴンボール超_ブロリー "wikilink")**            | 2018年12月24日 |                |
-| **[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")**                              | 2019年7月19日  |                |
-| **[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(漫画\)#アニメ映画版 "wikilink")**              | 2020年4月3日   |                |
+| 作品名                                                                                    | 公開日         | 備考                 |
+| -------------------------------------------------------------------------------------- | ----------- | ------------------ |
+| **[イノセンス](../Page/イノセンス.md "wikilink")**                                               | 2004年3月27日  | 邦画初のIMAX作品\[18\]   |
+| **[ドラゴンボールZ 神と神](https://ja.wikipedia.org/wiki/ドラゴンボールZ_神と神 "wikilink")**              | 2013年3月30日  | 邦画初のIMAXデジタルシアター作品 |
+| **[ドラゴンボールZ 復活の「F」](https://ja.wikipedia.org/wiki/ドラゴンボールZ_復活の「F」 "wikilink")**        | 2015年4月18日  |                    |
+| **[進撃の巨人 ATTACK ON TITAN](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")**            | 2015年8月1日   |                    |
+| **[進撃の巨人 ATTACK ON TITAN エンドオブザワールド](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")** | 2015年9月19日  |                    |
+| **[シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")**                          | 2016年7月29日  |                    |
+| **[君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")**                            | 2017年1月13日  | 1月26日までの期間限定上映     |
+| **[亜人](../Page/亜人.md "wikilink")**                                                     | 2017年9月30日  |                    |
+| **[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")**                                             | 2017年12月1日  |                    |
+| **[ドラゴンボール超 ブロリー](https://ja.wikipedia.org/wiki/ドラゴンボール超_ブロリー "wikilink")**            | 2018年12月24日 |                    |
+| **[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")**                              | 2019年7月19日  |                    |
+| **[AKIRA](https://ja.wikipedia.org/wiki/AKIRA_\(漫画\)#アニメ映画版 "wikilink")**              | 2020年4月3日   |                    |
 
 ## 脚注
 
@@ -858,3 +859,4 @@ IMAX最大級のスクリーンサイズ(22.86ｍ以上)に合わせ新開発さ
 15.
 16.
 17.
+18. [押井守最新作「イノセンス」がIMAXで上映！](https://eiga.com/news/20040323/18/) -映画.com

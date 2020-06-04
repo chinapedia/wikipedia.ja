@@ -61,7 +61,7 @@
   - [渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink") - ベース
   - [大賀好修](../Page/大賀好修.md "wikilink")（[nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")） - ギター
   - 寺島良一 - ギター、プログラミング
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - プログラミング、コーラス
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")） - プログラミング、コーラス
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
   - [YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink") - コーラス
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") - プログラミング

@@ -53,7 +53,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ブラウブリッツ秋田.md" title="wikilink">秋田</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a>、<a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a>、<a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">NHK秋田</a></p></td>
 </tr>
 <tr class="odd">
@@ -69,7 +69,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 <tr class="odd">
 <td><p><a href="../Page/鹿島アントラーズ.md" title="wikilink">鹿島</a></p></td>
 <td><p><a href="../Page/NHK水戸放送局.md" title="wikilink">NHK水戸</a>（※1）</p></td>
-<td><p>（◇<a href="../Page/TBSテレビ.md" title="wikilink">TBS</a>（※2）、◇<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>、◇<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>、◇<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>、☆<a href="../Page/テレビ神奈川.md" title="wikilink">tvk</a>[4]、☆<a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレ</a>、<a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>[5]、<a href="../Page/テレビ金沢.md" title="wikilink">テレビ金沢</a>[6]）</p></td>
+<td><p>（◇<a href="../Page/TBSテレビ.md" title="wikilink">TBS</a>（※2）、◇<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>、◇<a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>、◇<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>、☆<a href="../Page/テレビ神奈川.md" title="wikilink">tvk</a>[4]、☆<a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレ</a>、<a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>[5]、<a href="../Page/テレビ金沢.md" title="wikilink">テレビ金沢</a>[6]）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸</a></p></td>

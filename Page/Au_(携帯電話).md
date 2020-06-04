@@ -126,6 +126,8 @@ auブランドを開発した株式会社[ジザイズ](https://ja.wikipedia.org
   - 2017年8月：2018年4月以降にメールドメインをezweb.ne.jpからau.comに変更すると発表。ezweb.ne.jpドメイン利用者は引き続き利用可能\[54\]\[55\]
   - [2018年](../Page/2018年.md "wikilink")（平成30年）
       - [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - [2022年](../Page/2022年.md "wikilink")（令和4年）[3月31日](../Page/3月31日.md "wikilink")（予定）を以って3Gサービス「CDMA 1X WIN（au 3G）」を終了することを発表。\[56\]
+  - [2020年](../Page/2020年.md "wikilink") (令和2年)
+      - [5月14日](../Page/5月14日.md "wikilink") に[高橋誠氏は決算会見を行い](https://ja.wikipedia.org/wiki/高橋誠_\(実業家\) "wikilink")、[KDDI](../Page/KDDI.md "wikilink")と[UQコミュニケーションズ](https://ja.wikipedia.org/wiki/UQコミュニケーションズ "wikilink")は、UQの[MVNO](https://ja.wikipedia.org/wiki/MVNO "wikilink")サービスである「[UQモバイル](https://ja.wikipedia.org/wiki/UQモバイル "wikilink")」の事業を、10月1日付けでKDDIへ統合することを発表した。サービス自体はauとは別に、UQ mobileのブランドが引き続き提供される。
 
 ## 事業展開概説
 

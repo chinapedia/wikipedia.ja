@@ -164,7 +164,7 @@
   -
     1st - 3rdアルバムの楽曲が中心で構成され、オープニングの「MORALITY SLAVE」では、1993年に実施された[日本青年館](../Page/日本青年館.md "wikilink")でのライブの演出を再現し、頭に袋を被せた女性（武道館側のNGで今回は裸ではない）を2人から20人に増やして披露された。吉井が自身の自伝にて「いまだに見ますからね。あのライブ映像は。（中略）喜びの部分では、過去にもあれを超えるライブはない」と胸懐する\[58\]ほど気に入っているライブであり、「いつか完全版を出したい」と綴った約2年後の2009年に完全版の『メカラ ウロコ・LIVE DVD BOX』がリリースされた。ラストでは吉井がレコード会社移籍による心境を語り、移籍後第1段シングルとなる「[楽園](../Page/楽園_\(THE_YELLOW_MONKEYの曲\).md "wikilink")」がライブのトリを飾った。
 
-
+<!-- end list -->
 
   - **メカラ ウロコ・9**（1998年12月28日（日本武道館））
 
@@ -173,7 +173,7 @@
   -
     1997年は『[PUNCH DRUNKARD](../Page/PUNCH_DRUNKARD.md "wikilink")』のレコーディングなどで多忙だったこともあり、1年空いている。「PUNCH DRUNKARD TOUR」中の開催であり、武道館2DAYSの後日でもあったため、充分なリハーサルができない状態であったが、メンバーの強い希望により行われた。前回と同様、1st - 3rdアルバムの楽曲が中心である。アンコールの「MERRY X'MAS」では、吉井が『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』に登場するマリーに女装して披露された。トリを飾った「[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")」はこの日が初披露であり、後に18thシングルとしてリリースされた。
 
-
+<!-- end list -->
 
   - **メカラ ウロコ・10**（1999年12月28日（日本武道館））
 
@@ -182,7 +182,7 @@
   -
     「PUNCH DRUNKARD TOUR」後の活動休止明けに行われた。29日のファンクラブ限定ライブ「We are Petticort Laner de 公演」との2本立てで開催された。女性コーラスとしてロビー・ダンツィ、マナ・リオンの2名、ホーンセクションとしてつづらのあつし（サクソフォーン。管編曲も担当）、[青柳誠](https://ja.wikipedia.org/wiki/青柳誠 "wikilink")（サクソフォーン）、佐々木史郎（トランペット）、下神竜哉（トランペット）、清岡太郎（トロンボーン）が参加し、翌年に開催されたコンサートツアー「SPRING TOUR」にも帯同している。初めて4thアルバム以降の楽曲も披露され、1st - 6thアルバムまで幅広く選曲された。トリを飾った「[バラ色の日々](https://ja.wikipedia.org/wiki/バラ色の日々_\(THE_YELLOW_MONKEYの曲\) "wikilink")」はこの日がライブ初披露である。
 
-
+<!-- end list -->
 
   - **メカラ ウロコ・8**（2001年1月4日（[大阪ドーム](../Page/大阪ドーム.md "wikilink")）、1月8日（[東京ドーム](../Page/東京ドーム.md "wikilink")））
 
@@ -191,7 +191,7 @@
   -
     過去3公演とは異なり、日本武道館以外の会場で行われ、開催日はバンドの誕生日とは無関係である。楽曲はメンバーの「今やりたい曲をやろう」という意向で、アルバム『[8](../Page/8_\(THE_YELLOW_MONKEYのアルバム\).md "wikilink")』の収録曲を中心に構成されている。吉井曰く「昔の曲でセットリストを組んだら、『8』の収録曲が全然入ってなかった」ために、先述のコンセプトのもとセットリストが組み直されたという。そのためタイトルも11（12）ではなく、アルバムに合わせて『8』となっている。ライブのラストでは吉井が「私たち、普通の野良犬に戻ります\!」「我がイエローモンキーは永久に不滅です\!」というMCと共に「WELCOME TO MY DOGHOUSE」がトリを飾った。THE YELLOW MONKEY活動休止前最後のライブであり、後に再結成を迎えるまで実質的にバンドのラストライブとなった。
 
-
+<!-- end list -->
 
   - **[メカラ ウロコ・27](https://ja.wikipedia.org/wiki/メカラ_ウロコ・27 "wikilink")**（2016年12月28日（日本武道館））
 
@@ -200,7 +200,7 @@
   -
     20年前に初めて行われた「メカラ ウロコ・7」と直前まで行われていたツアー「THE YELLOW MONKEY SUPER JAPAN TOUR -Subjective Late Show-」の内容を組み合わせ形で披露。「MORALITY SLAVE」や「真珠色の革命時代(Pearl Light Of Revolution)」などはメカラ ウロコ・7同様の演出で披露され、選曲もインディーズ時代のものから当時の最新曲「砂の塔」まで幅広く選曲された。
 
-
+<!-- end list -->
 
   - **メカラ ウロコ・28**（2017年12月28日（[福岡 ヤフオク\!ドーム](../Page/福岡ドーム.md "wikilink")））
 
@@ -209,7 +209,7 @@
   -
     17年ぶりとなった東京ドーム公演2DAYSの直後、「九州SPECIAL」と銘打ち、選曲や演出を一新して福岡 ヤフオク\!ドームで開催された。過去に１度しか披露されていない「Wedding Dress」から始まり、客席内のステージへ移動してのアコースティックアレンジを披露する場面もあった。「[追憶のマーメイド](../Page/追憶のマーメイド.md "wikilink")」は1995年以来約22年ぶりに披露され、「[LOVE LOVE SHOW](../Page/LOVE_LOVE_SHOW.md "wikilink")」は歌詞を博多弁に変えて披露された\[59\]。
 
-
+<!-- end list -->
 
   - **メカラ ウロコ・29**（2018年12月28日（日本武道館））
 
@@ -260,7 +260,7 @@
 <!-- end list -->
 
   -
-    1993年にソロ活動を開始した頃、ファンを公言して楽曲をとても褒めていたという\[82\]。また、『[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")』1998年6月号にて「自分達がロックを聴いて感じたものをそのまんまビシッとやれている人は誰か」という問いに対し、具体例として14thシングル『[球根](../Page/球根_\(曲\).md "wikilink")』をあげている。
+    1993年にソロ活動を開始した頃、ファンを公言して楽曲をとても褒めていたという\[82\]。また、『[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")』1998年6月号にて「自分達がロックを聴いて感じたものをそのまんまビシッとやれている人（曲）は」という問いに対し、具体例として14thシングル『[球根](../Page/球根_\(曲\).md "wikilink")』をあげている。
 
 <!-- end list -->
 
@@ -278,7 +278,28 @@
 <!-- end list -->
 
   -
-    [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の音楽番組『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』（2000年7月22日放送）にて「直球勝負ならイエローモンキーには勝てない」と語った。このほか雑誌『[BRIDGE](../Page/ロッキング・オン.md "wikilink")』2001年8月号において吉井との「バンドとソロ」をテーマにした対談も行い「ドラムとギターの関係が良好」ということを一目で見抜いた（実際には血の繋がった兄弟同士である）。2016年には、自身の番組『[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』において毎年行う邦楽シングルベスト発表企画において復活シングル『砂の塔』を5位に付けて高く評価していた。
+    [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の音楽番組『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』（2000年7月22日放送）にて「直球勝負ならイエローモンキーには勝てない」と語った\[83\]。
+    このほか雑誌『[BRIDGE](../Page/ロッキング・オン.md "wikilink")』2001年8月号において「（イエローモンキーの楽曲は）曲もほんといいし、サビがちゃんとある。これが悔しいんだよね」と語ったほか、吉井との「バンドとソロ」をテーマにした対談も行い「（血の繋がった兄弟である）ドラムとギターの関係が良好」ということを一目で見抜いた。
+    2016年には、自身の番組『[桑田佳祐のやさしい夜遊び](../Page/桑田佳祐のやさしい夜遊び.md "wikilink")』において毎年行う邦楽シングルベスト発表企画において復活シングル『[砂の塔](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")』を5位に付けて高く評価した。
+
+<!-- end list -->
+
+  - [草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）
+
+<!-- end list -->
+
+  -
+    雑誌『[BRIDGE](../Page/ロッキング・オン.md "wikilink")』2007年12月号にてソロ活動中の吉井と対談。イエローモンキーとスピッツの両バンドがメジャーデビューして間もない頃、偶然横のスタジオで練習をしたことがあり「（音漏れの楽曲を聴いて）すげえと思って。その時からもう艶な感じを持ってた」と評価しているほか、メジャーデビュー後1,2枚目のアルバムを聴き「売れなさそうな音楽だが、今聴くとかっこいい。（当時のスピッツにも通ずる点があり）シンパシーを覚える」と語っている。
+    また、同誌にて「（吉井は）ロックスターなカリスマ性がある。それは、絶対自分が持っていない部分」と評価している。
+
+<!-- end list -->
+
+  - [スティーヴン・タイラー](../Page/スティーヴン・タイラー.md "wikilink")（[エアロスミス](../Page/エアロスミス.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    『週刊[ビッグコミック・スピリッツ』](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")1998年6月号にて、当時最新シングルだった『[球根](../Page/球根_\(曲\).md "wikilink")』を「すごくシンプルなのに、繊細なフィーリングが込められている。すごく気に入ったよ」と絶賛している。
 
 <!-- end list -->
 
@@ -287,7 +308,7 @@
 <!-- end list -->
 
   -
-    「彼らは大きな心と繊細な気持ち、そして本当の才能を持ち合わせている野郎共だ」と評価している\[83\]。
+    「彼らは大きな心と繊細な気持ち、そして本当の才能を持ち合わせている野郎共だ」と評価している\[84\]。
 
 <!-- end list -->
 
@@ -296,8 +317,8 @@
 <!-- end list -->
 
   -
-    1995年に音楽雑誌『[ロッキンf](https://ja.wikipedia.org/wiki/We_ROCK/ロッキンf "wikilink")』で廣瀬が[ジーン・シモンズ](https://ja.wikipedia.org/wiki/ジーン・シモンズ "wikilink")と対談し、その時点でシモンズがTHE YELLOW MONKEYのアルバムや映像作品を所持していた事を明かし廣瀬を脅かせている\[84\]。 [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")の情報番組『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』（2013年10月22日放送）にて「日本のバンドで気に入っているのはTHE YELLOW MONKEYにサザンオールスターズ、そしてX JAPANにはとても影響力があった」「ずっとTHE YELLOW MONKEYと[B'z](../Page/B'z.md "wikilink")について勉強したよ」と語っている\[85\]。
-    2017年訪日時のインタビューにおいて\[86\]、シモンズは自身のソロプロジェクト内であれば選曲にルールはないという話の中で、たとえばTHE YELLOW MONKEYの楽曲のカバーも演奏しようと思えばできるのだとバンド名を挙げていた。
+    1995年に音楽雑誌『[ロッキンf](https://ja.wikipedia.org/wiki/We_ROCK/ロッキンf "wikilink")』で廣瀬が[ジーン・シモンズ](https://ja.wikipedia.org/wiki/ジーン・シモンズ "wikilink")と対談し、その時点でシモンズがTHE YELLOW MONKEYのアルバムや映像作品を所持していた事を明かし廣瀬を脅かせている\[85\]。 [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")の情報番組『[ZIP\!](https://ja.wikipedia.org/wiki/ZIP! "wikilink")』（2013年10月22日放送）にて「日本のバンドで気に入っているのはTHE YELLOW MONKEYにサザンオールスターズ、そしてX JAPANにはとても影響力があった」「ずっとTHE YELLOW MONKEYと[B'z](../Page/B'z.md "wikilink")について勉強したよ」と語っている\[86\]。
+    2017年訪日時のインタビューにおいて\[87\]、シモンズは自身のソロプロジェクト内であれば選曲にルールはないという話の中で、たとえばTHE YELLOW MONKEYの楽曲のカバーも演奏しようと思えばできるのだとバンド名を挙げていた。
 
 ### THE YELLOW MONKEYから、影響を受けたミュージシャン等
 
@@ -306,7 +327,7 @@
 <!-- end list -->
 
   -
-    [NHKの音楽番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』（2000年2月5日放送）にてファンを公言しており、「吉井和哉にファンレターを送ったことがある」と語っている。
+    [NHKの音楽番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』（2000年2月5日放送）にてファンを公言しており、「吉井和哉にファンレターを送ったことがある」と語っている\[88\]。
 
 <!-- end list -->
 
@@ -324,7 +345,7 @@
 <!-- end list -->
 
   -
-    『[ROCK IN JAPAN FES](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink").2006』9月号にてファンを公言しており、吉井の自著である『吉井和哉の㊙おセンチ日記』も読破したと語っている。また、「90年代で、僕みたいな声の人がボーカルを目指すなんてありえなかったんですよ。あの時代でハイトーンではなくミリオンヒットを達成しているのはTHE YELLOW MONKEYくらいではないのかなと思っています」と語っている\[87\]。
+    『[ROCK IN JAPAN FES](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink").2006』9月号にてファンを公言しており、吉井の自著である『吉井和哉の㊙おセンチ日記』も読破したと語っている。また、「90年代で、僕みたいな声の人がボーカルを目指すなんてありえなかったんですよ。あの時代でハイトーンではなくミリオンヒットを達成しているのはTHE YELLOW MONKEYくらいではないのかなと思っています」と語っている\[89\]。
 
 <!-- end list -->
 
@@ -342,7 +363,7 @@
 <!-- end list -->
 
   -
-    『メカラ ウロコ・20』をはじめ、様々な媒体でメンバー4人がファンを公言している。バンド編成もTHE YELLOW MONKEYと全く同じ。トリビュートアルバム『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』に参加したほか、2013年にベスト盤『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』の特設サイトで行われた「私のTHE YELLOW MONKEY『この1曲』」という企画にメンバー4人が参加し、コメントを寄せている\[88\]。
+    『メカラ ウロコ・20』をはじめ、様々な媒体でメンバー4人がファンを公言している。バンド編成もTHE YELLOW MONKEYと全く同じ。トリビュートアルバム『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』に参加したほか、2013年にベスト盤『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』の特設サイトで行われた「私のTHE YELLOW MONKEY『この1曲』」という企画にメンバー4人が参加し、コメントを寄せている\[90\]。
 
 <!-- end list -->
 
@@ -369,7 +390,7 @@
 <!-- end list -->
 
   -
-    ファンを公言しており、トリビュートアルバムにも参加している。「俺にとってのアイドル」「THE YELLOW MONKEYを聴くようになってからリフ中心の曲作りに変わった」と語っている\[89\]。
+    ファンを公言しており、トリビュートアルバムにも参加している。「俺にとってのアイドル」「THE YELLOW MONKEYを聴くようになってからリフ中心の曲作りに変わった」と語っている\[91\]。
 
 <!-- end list -->
 
@@ -379,7 +400,7 @@
 
   -
     ファンを公言しており、トリビュートアルバムにも参加している。吉井もTRICERATOPSをとても気に入っておりベストアルバム発売時にコメントを寄せたほか、2007年には吉井とTRICERATOPSで「JAM」をセッション、その後も度々共演し、吉田に関しては2009年以降ほぼすべてのライブ・レコーディングで吉井のサポートドラマーを務めている。
-    「グラムロックというよりも、もっと洗練されている感じ」「メンバーそれぞれめちゃくちゃキャラが立っている」と語っている\[90\]。
+    「グラムロックというよりも、もっと洗練されている感じ」「メンバーそれぞれめちゃくちゃキャラが立っている」と語っている\[92\]。
 
 <!-- end list -->
 
@@ -388,7 +409,7 @@
 <!-- end list -->
 
   -
-    松尾はCHEMISTRY活動再開の理想的な前例としてTHE YELLOW MONKEY再集結を最初にイメージした\[91\]。
+    松尾はCHEMISTRY活動再開の理想的な前例としてTHE YELLOW MONKEY再集結を最初にイメージした\[93\]。
 
 ## 略年譜
 
@@ -547,16 +568,16 @@
 
 **2012年**
 
-  - 5月21日、メジャーデビューから20年を迎えた同日に、バンドの全アルバムとミュージック・ビデオを6月20日から一斉配信されることが発表された。2007年に、シングル曲と一部楽曲は配信されていたものの、全てのオリジナル・アルバム曲が配信されるのは今回が初となる\[92\]。
+  - 5月21日、メジャーデビューから20年を迎えた同日に、バンドの全アルバムとミュージック・ビデオを6月20日から一斉配信されることが発表された。2007年に、シングル曲と一部楽曲は配信されていたものの、全てのオリジナル・アルバム曲が配信されるのは今回が初となる\[94\]。
   - 6月5日、日本コロムビアより、[Twitter](../Page/Twitter.md "wikilink")での「THE YELLOW MONKEY -DEBUT 20TH- 」オフィシャルアカウントと、バンドの公式[Facebook](../Page/Facebook.md "wikilink")の開設が発表された。
-  - 6月6日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の公式チャンネルが開設され、1stシングル「[Romantist Taste](https://ja.wikipedia.org/wiki/Romantist_Taste "wikilink")」から24thシングル「[プライマル。](https://ja.wikipedia.org/wiki/プライマル。 "wikilink")」までの全24曲のPVが1コーラス限定で公開された\[93\]。余談であるが、この日はドラムの菊地英二の誕生日であった。
-  - 6月19日、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")にて1日限定で、バンドの全シングル24曲を100円（税抜）にディスカウントした状態で配信された\[94\]。また、同日の20:00から翌20日の20:00の24時間にわたって、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")でバンドの特番がオンエアされた\[95\]。
+  - 6月6日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の公式チャンネルが開設され、1stシングル「[Romantist Taste](https://ja.wikipedia.org/wiki/Romantist_Taste "wikilink")」から24thシングル「[プライマル。](https://ja.wikipedia.org/wiki/プライマル。 "wikilink")」までの全24曲のPVが1コーラス限定で公開された\[95\]。余談であるが、この日はドラムの菊地英二の誕生日であった。
+  - 6月19日、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")にて1日限定で、バンドの全シングル24曲を100円（税抜）にディスカウントした状態で配信された\[96\]。また、同日の20:00から翌20日の20:00の24時間にわたって、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")でバンドの特番がオンエアされた\[97\]。
   - 6月20日、バンドの全アルバムとミュージック・ビデオの一斉配信が開始。
   - 9月12日、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")内で「THE YELLOW MONKEYチャンネル」がオープン。
-  - 10月10日、デビューシングル「Romantist Taste」を新たにリミックスした「[Romantist Taste 2012](https://ja.wikipedia.org/wiki/Romantist_Taste_2012 "wikilink")」を初回生産限定シングルとしてリリース\[96\]。
-  - 10月21日、1996年に発売されたライブ作品『TRUE MIND TOUR'95-'96 FOR SEASON:in motion』の完全版となる5枚組作品『TRUE MIND “NAKED”』が、オリジナル作品の発売日と同じこの日に発売\[97\]。同作品には、オリジナル作品に収録されていた[日本武道館](../Page/日本武道館.md "wikilink")公演と[NHKホール](../Page/NHKホール.md "wikilink")公演がほぼ完全な形でDVD化される他、ツアーオフショットやメンバーのインタビューもロングバージョンとして収録されることが決定している。
+  - 10月10日、デビューシングル「Romantist Taste」を新たにリミックスした「[Romantist Taste 2012](https://ja.wikipedia.org/wiki/Romantist_Taste_2012 "wikilink")」を初回生産限定シングルとしてリリース\[98\]。
+  - 10月21日、1996年に発売されたライブ作品『TRUE MIND TOUR'95-'96 FOR SEASON:in motion』の完全版となる5枚組作品『TRUE MIND “NAKED”』が、オリジナル作品の発売日と同じこの日に発売\[99\]。同作品には、オリジナル作品に収録されていた[日本武道館](../Page/日本武道館.md "wikilink")公演と[NHKホール](../Page/NHKホール.md "wikilink")公演がほぼ完全な形でDVD化される他、ツアーオフショットやメンバーのインタビューもロングバージョンとして収録されることが決定している。
   - 11月23日、[タワーレコード渋谷店の](https://ja.wikipedia.org/wiki/タワーレコード#タワーレコード_\(日本\) "wikilink")8Fにオープンした「SpaceHACHIKAI」にて、TOWER RECORDS SHIBUYA×THE YELLOW MONKEYのコラボ企画「タワモン」が開催（〜12月16日）。
-  - 12月3日、1997年に発売されたライブ作品『RED TAPE』の完全盤DVD『RED TAPE "NAKED"』が発売\[98\]\[99\]。
+  - 12月3日、1997年に発売されたライブ作品『RED TAPE』の完全盤DVD『RED TAPE "NAKED"』が発売\[100\]\[101\]。
 
 **2013年**
 
@@ -579,15 +600,15 @@
   - 10月3日、[MTV Video Music Awards Japan 2016](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")「Inspiration Award Japan」受賞。
   - 10月19日、[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")』の主題歌として書き下ろした新曲「[砂の塔](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")」を、「プライマル。」以来15年9カ月ぶりのシングルとしてリリース。同日には約15年半ぶりに再集結した全国ツアー「THE YELLOW MONKEY SUPER JAPAN TOUR 2016」のさいたまスーパーアリーナの模様を収録したLIVE DVD/Blu-rayが発売された。
   - 11月12日より、全国16公演となるホールツアー「THE YELLOW MONKEY SUPER JAPAN TOUR 2016 -SUBJECTIVE LATE SHOW-」開催。
-  - 11月16日、第49回[日本有線大賞](../Page/日本有線大賞.md "wikilink")・特別賞を受賞\[100\]。
+  - 11月16日、第49回[日本有線大賞](../Page/日本有線大賞.md "wikilink")・特別賞を受賞\[102\]。
   - 12月28日、日本武道館にて「THE YELLOW MONKEY SUPER メカラ・ウロコ 27」開催。
   - 12月30日、[第58回日本レコード大賞](https://ja.wikipedia.org/wiki/第58回日本レコード大賞 "wikilink")「特別賞」受賞。
-  - 12月31日、「[第67回紅白歌合戦](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")」（NHK総合）に初出場した\[101\]。曲目は「JAM」。
+  - 12月31日、「[第67回紅白歌合戦](https://ja.wikipedia.org/wiki/第67回NHK紅白歌合戦 "wikilink")」（NHK総合）に初出場した\[103\]。曲目は「JAM」。
 
 **2017年**
 
   - 3月7日、[SPACE SHOWER MUSIC AWARDS 2017](../Page/SPACE_SHOWER_MUSIC_AWARDS.md "wikilink")「BEST RESPECT ARTIST」受賞。
-  - 3月17日0時、メジャーデビュー25周年を記念して2013年にファンによるリクエスト投票としてリリースされた企画ベストアルバム『イエモン-FAN'S BEST SELECTION-』の収録曲の中から新録されたセルフカバー企画ベストアルバム『[THE YELLOW MONKEY IS HERE. NEW BEST](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink")』が5月21日に発売する事と12月に約17年振りとなる解散後初の東京ドーム2daysライブを開催される事、2017年第一弾となる新曲「[ロザーナ](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST#早期購入特典「2017_LIMITED_SPECIAL_SINGLE_CD」 "wikilink")」が解禁されるなどの2017年の活動が発表された\[102\]。
+  - 3月17日0時、メジャーデビュー25周年を記念して2013年にファンによるリクエスト投票としてリリースされた企画ベストアルバム『イエモン-FAN'S BEST SELECTION-』の収録曲の中から新録されたセルフカバー企画ベストアルバム『[THE YELLOW MONKEY IS HERE. NEW BEST](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink")』が5月21日に発売する事と12月に約17年振りとなる解散後初の東京ドーム2daysライブを開催される事、2017年第一弾となる新曲「[ロザーナ](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST#早期購入特典「2017_LIMITED_SPECIAL_SINGLE_CD」 "wikilink")」が解禁されるなどの2017年の活動が発表された\[104\]。
   - 8月9日、16年ぶりの全国ツアーでの彼らに密着したドキュメンタリー映画『[オトトキ](https://ja.wikipedia.org/wiki/オトトキ "wikilink")』は、公開予定日（11月11日）もサイトリニューアルも、さらにツイッター、フェイスブック、インスタグラム開設、これら全てをこの日にプレゼンテーションした。
   - 9月13日、3か月連続配信リリースの第1弾として、デヴィッド・ボウイの楽曲「[ジギー・スターダスト](https://ja.wikipedia.org/wiki/ジギー・スターダスト_\(曲\) "wikilink")」のカバーを[Amazon](../Page/Amazon.co.jp.md "wikilink")（日本）限定で配信開始。同日、Amazon（日本）限定で同カバーのアナログ盤（7インチ・ピクチャー・ディスク仕様）の受注受付を開始。
   - 10月12日、映画『オトトキ』が出品された[釜山国際映画祭](../Page/釜山国際映画祭.md "wikilink")に日本人ロックバンドとして初めて参加。開幕式と翌日の舞台挨拶にメンバー4人と[松永大司](https://ja.wikipedia.org/wiki/松永大司 "wikilink")監督が登場した。
@@ -599,12 +620,12 @@
 
 **2018年**
 
-  - 11月9日、約1年振りとなる新曲「[天道虫](https://ja.wikipedia.org/wiki/天道虫_\(THE_YELLOW_MONKEYの曲\) "wikilink")」を、配信限定シングルとしてリリース。テレビ東京系ドラマ「天 天和通りの快男児」主題歌\[103\]。
+  - 11月9日、約1年振りとなる新曲「[天道虫](https://ja.wikipedia.org/wiki/天道虫_\(THE_YELLOW_MONKEYの曲\) "wikilink")」を、配信限定シングルとしてリリース。テレビ東京系ドラマ「天 天和通りの快男児」主題歌\[105\]。
 
 **2019年**
 
   - 1月25日、配信シングル「[I don't know](https://ja.wikipedia.org/wiki/I_don't_know_\(THE_YELLOW_MONKEYの曲\) "wikilink")」リリース。
-  - 3月28日、19年ぶり9枚目となるオリジナル・アルバム『[9999](https://ja.wikipedia.org/wiki/9999_\(アルバム\) "wikilink")』のリリースに先駆け、「THE YELLOW MONKEY 9th Album『9999』世界最速先行試聴会」と銘打った無料イベントを日本武道館にて開催。参加申し込みのあった5万通以上の中から抽選で9999名が招待された。プロローグとなるドキュメンタリー映像が上映され、それに続きアルバム収録曲の音源が流れた瞬間、スクリーンとなっていた紗幕が取り払われ生演奏をするメンバーがサプライズで登場。『9999』に収録されている13曲をトラックリスト通りにライブ演奏した\[104\]。
+  - 3月28日、19年ぶり9枚目となるオリジナル・アルバム『[9999](https://ja.wikipedia.org/wiki/9999_\(アルバム\) "wikilink")』のリリースに先駆け、「THE YELLOW MONKEY 9th Album『9999』世界最速先行試聴会」と銘打った無料イベントを日本武道館にて開催。参加申し込みのあった5万通以上の中から抽選で9999名が招待された。プロローグとなるドキュメンタリー映像が上映され、それに続きアルバム収録曲の音源が流れた瞬間、スクリーンとなっていた紗幕が取り払われ生演奏をするメンバーがサプライズで登場。『9999』に収録されている13曲をトラックリスト通りにライブ演奏した\[106\]。
   - 4月17日、9thアルバム『9999』リリース。
   - 9月27日、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")50周年記念プレイリスト・プログラム「LED ZEPPELIN × THE YELLOW MONKEY」公開。日本人アーティストとしては初参加。
   - 10月30日、結成30周年を記念した配信シングル「[DANDAN](https://ja.wikipedia.org/wiki/DANDAN "wikilink")」リリース。
@@ -616,7 +637,7 @@
 
 ## ディスコグラフィ
 
-### シングル
+### CDシングル
 
 <table>
 <thead>
@@ -626,8 +647,8 @@
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
 <th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
-<th><p>収録アルバム (オリジナル)</p></th>
-<th><p>備考</p></th>
+<th><p>オリコン最高位</p></th>
+<th><p>初収録アルバム</p></th>
 </tr>
 </thead>
 <tbody>
@@ -637,9 +658,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Romantist_Taste" title="wikilink">Romantist Taste</a></p></td>
 <td><p>8cm<a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>CODA-17</p></td>
-<td><p><a href="../Page/THE_NIGHT_SNAILS_AND_PLASTIC_BOOGIE.md" title="wikilink">THE NIGHT SNAILS AND PLASTIC BOOGIE<br />
-(夜行性のかたつむり達とプラスチックのブギー)</a></p></td>
-<td><p>-</p></td>
+<td><p>圏外</p></td>
+<td><p><a href="../Page/THE_NIGHT_SNAILS_AND_PLASTIC_BOOGIE.md" title="wikilink">THE NIGHT SNAILS AND PLASTIC BOOGIE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -647,9 +667,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アバンギャルドで行こうよ" title="wikilink">アバンギャルドで行こうよ</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-142</p></td>
-<td><p><a href="../Page/EXPERIENCE_MOVIE.md" title="wikilink">EXPERIENCE MOVIE<br />
-(未公開のエクスペリエンス・ムービー)</a></p></td>
-<td><p>-</p></td>
+<td><p>圏外</p></td>
+<td><p><a href="../Page/EXPERIENCE_MOVIE.md" title="wikilink">EXPERIENCE MOVIE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -657,8 +676,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/悲しきASIAN_BOY" title="wikilink">悲しきASIAN BOY</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-305</p></td>
+<td><p>97位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/jaguar_hard_pain" title="wikilink">jaguar hard pain</a></p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -666,8 +685,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/熱帯夜_(THE_YELLOW_MONKEYの曲)" title="wikilink">熱帯夜</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-459</p></td>
+<td><p>59位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/smile_(THE_YELLOW_MONKEYのアルバム)" title="wikilink">smile</a></p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -675,7 +694,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Love_Communication" title="wikilink">Love Communication</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-567</p></td>
-<td><p>-</p></td>
+<td><p>29位</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -684,7 +703,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/嘆くなり我が夜のFantasy" title="wikilink">嘆くなり我が夜のFantasy</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-608</p></td>
-<td><p>-</p></td>
+<td><p>34位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -693,8 +712,8 @@
 <td><p><a href="../Page/追憶のマーメイド.md" title="wikilink">追憶のマーメイド</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-715</p></td>
+<td><p>19位</p></td>
 <td><p><a href="../Page/FOUR_SEASONS.md" title="wikilink">FOUR SEASONS</a></p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -702,7 +721,7 @@
 <td><p><a href="../Page/太陽が燃えている.md" title="wikilink">太陽が燃えている</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-731</p></td>
-<td><p>-</p></td>
+<td><p>9位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -711,8 +730,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/JAM/Tactics" title="wikilink">JAM/Tactics</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-834</p></td>
-<td><p>『<a href="../Page/FOUR_SEASONS.md" title="wikilink">FOUR SEASONS</a>』に収録されているのは『<a href="https://ja.wikipedia.org/wiki/JAM/Tactics" title="wikilink">Tactics</a>』のみ。</p></td>
-<td></td>
+<td><p>6位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TRIAD_YEARS_actI〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY" title="wikilink">TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY</a> (#1) <a href="../Page/FOUR_SEASONS.md" title="wikilink">FOUR SEASONS</a> (#2)</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
@@ -720,8 +739,8 @@
 <td><p><a href="../Page/SPARK_(THE_YELLOW_MONKEYの曲).md" title="wikilink">SPARK</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>CODA-970</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TRIAD_YEARS_actI〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY" title="wikilink">TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
@@ -729,8 +748,8 @@
 <td><p><a href="../Page/楽園_(THE_YELLOW_MONKEYの曲).md" title="wikilink">楽園</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1593</p></td>
+<td><p>3位</p></td>
 <td><p><a href="../Page/SICKS.md" title="wikilink">SICKS</a></p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
@@ -738,8 +757,8 @@
 <td><p><a href="../Page/LOVE_LOVE_SHOW.md" title="wikilink">LOVE LOVE SHOW</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1621</p></td>
+<td><p>4位</p></td>
 <td><p><a href="../Page/PUNCH_DRUNKARD.md" title="wikilink">PUNCH DRUNKARD</a></p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
@@ -747,7 +766,7 @@
 <td><p><a href="../Page/BURN_(THE_YELLOW_MONKEYの曲).md" title="wikilink">BURN</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1644</p></td>
-<td><p>-</p></td>
+<td><p>2位</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -756,7 +775,7 @@
 <td><p><a href="../Page/球根_(曲).md" title="wikilink">球根</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1672</p></td>
-<td><p>-</p></td>
+<td><p>1位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -765,7 +784,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/離れるな" title="wikilink">離れるな</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1688</p></td>
-<td><p>-</p></td>
+<td><p>15位</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -774,8 +793,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SUGAR_FIX" title="wikilink">SUGAR FIX</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>FHCF-2428</p></td>
-<td><p>『<a href="../Page/PUNCH_DRUNKARD.md" title="wikilink">PUNCH DRUNKARD</a>』には日本語バージョンの『甘い経験』として収録。</p></td>
-<td></td>
+<td><p>5位</p></td>
+<td><p><a href="../Page/PUNCH_DRUNKARD.md" title="wikilink">PUNCH DRUNKARD</a>　(日本語バージョンの『甘い経験』として収録)</p></td>
 </tr>
 <tr class="odd">
 <td><p>17th</p></td>
@@ -783,8 +802,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/MY_WINDING_ROAD" title="wikilink">MY WINDING ROAD</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1697</p></td>
-<td><p><a href="../Page/8_(THE_YELLOW_MONKEYのアルバム).md" title="wikilink">8</a></p></td>
-<td><p>初回限定盤『<a href="../Page/8_(THE_YELLOW_MONKEYのアルバム).md" title="wikilink">8</a>』のボーナスCDにのみ収録。</p></td>
+<td><p>5位</p></td>
+<td><p><a href="../Page/8_(THE_YELLOW_MONKEYのアルバム).md" title="wikilink">8</a>（初回限定盤ボーナスCD）</p></td>
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
@@ -792,7 +811,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SO_YOUNG" title="wikilink">SO YOUNG</a></p></td>
 <td><p>8cmCD</p></td>
 <td><p>FHDF-1713</p></td>
-<td></td>
+<td><p>5位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -801,8 +820,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/バラ色の日々_(THE_YELLOW_MONKEYの曲)" title="wikilink">バラ色の日々</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>FHCF-5001</p></td>
-<td><p>-</p></td>
-<td></td>
+<td><p>4位</p></td>
+<td><p><a href="../Page/8_(THE_YELLOW_MONKEYのアルバム).md" title="wikilink">8</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
@@ -810,7 +829,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/聖なる海とサンシャイン" title="wikilink">聖なる海とサンシャイン</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>FHCF-5002</p></td>
-<td><p>-</p></td>
+<td><p>9位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -819,7 +838,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SHOCK_HEARTS" title="wikilink">SHOCK HEARTS</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>FHCF-5007</p></td>
-<td><p>-</p></td>
+<td><p>3位</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -828,7 +847,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/パール_(THE_YELLOW_MONKEYの曲)" title="wikilink">パール</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>FHCF-5011</p></td>
-<td><p>-</p></td>
+<td><p>6位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -837,8 +856,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/BRILLIANT_WORLD" title="wikilink">BRILLIANT WORLD</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>FHCF-5019</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>5位</p></td>
+<td><p><a href="../Page/GOLDEN_YEARS_Singles_1996-2001.md" title="wikilink">GOLDEN YEARS Singles 1996-2001</a></p></td>
 </tr>
 <tr class="even">
 <td><p>24th</p></td>
@@ -846,8 +865,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/プライマル。" title="wikilink">プライマル。</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>FHCF-5024</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>3位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>25th</p></td>
@@ -855,8 +874,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/砂の塔_(THE_YELLOW_MONKEYの曲)" title="wikilink">砂の塔</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>COCA-17240(初回盤)</p></td>
+<td><p>2位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/9999_(アルバム)" title="wikilink">9999</a></p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>COCA-17241(通常盤)</p></td>
@@ -867,71 +886,19 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>特典</p></td>
-<td><p>2017年5月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST#早期購入特典「2017_LIMITED_SPECIAL_SINGLE_CD」" title="wikilink">ロザーナ</a></p></td>
-<td><p>12cmCD</p></td>
-<td><p>COCP-39968</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST" title="wikilink">THE YELLOW MONKEY IS HERE. NEW BEST</a>』の早期購入特典CDに収録。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>配信</p></td>
-<td><p>2017年9月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジギー・スターダスト_(曲)" title="wikilink">ZIGGY STARDUST</a></p></td>
-<td><p>デジタル・ダウンロード</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>3か月連続配信リリース第1弾。スタジオ音源のみ。<a href="../Page/Amazon.co.jp.md" title="wikilink">Amazon限定配信</a>。<a href="https://ja.wikipedia.org/wiki/デヴィッド・ボウイ" title="wikilink">デヴィッド・ボウイ</a>のカバー。</p></td>
-</tr>
-<tr class="odd">
-<td><p>配信</p></td>
-<td><p>2017年10月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Stars_(THE_YELLOW_MONKEYの曲)" title="wikilink">Stars</a></p></td>
-<td><p>デジタル・ダウンロード</p></td>
-<td><p>COKM-40181</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/9999_(アルバム)" title="wikilink">9999</a></p></td>
-<td><p>3か月連続配信リリース第2弾。各配信サイトにて配信。</p></td>
-</tr>
-<tr class="even">
-<td><p>配信</p></td>
-<td><p>2017年11月29日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Horizon_(THE_YELLOW_MONKEYの曲)" title="wikilink">Horizon</a></p></td>
-<td><p>デジタル・ダウンロード</p></td>
-<td><p>COKM-40182</p></td>
-<td><p>3か月連続配信リリース第3弾。各配信サイトにて配信。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>配信</p></td>
-<td><p>2018年11月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/天道虫_(THE_YELLOW_MONKEYの曲)" title="wikilink">天道虫</a></p></td>
-<td><p>デジタル・ダウンロード</p></td>
-<td><p>190295522988</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>系ドラマ「<a href="https://ja.wikipedia.org/wiki/天_天和通りの快男児#テレビドラマ" title="wikilink">天 天和通りの快男児</a>」主題歌。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>配信</p></td>
-<td><p>2019年10月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DANDAN" title="wikilink">DANDAN</a></p></td>
-<td><p>デジタル・ダウンロード</p></td>
-<td><p>190295330323</p></td>
-<td><p>-</p></td>
-<td><p>結成30周年記念シングル。</p></td>
-</tr>
-<tr class="odd">
-<td><p>配信</p></td>
-<td><p>2020年3月13日</p></td>
-<td><p><a href="../Page/未来はみないで.md" title="wikilink">未来はみないで</a></p></td>
-<td><p>デジタル・ダウンロード</p></td>
-<td><p>190295265915</p></td>
-<td><p>-</p></td>
-<td><p>『30th Anniversary Memorial Gift』収録曲。</p></td>
-</tr>
 </tbody>
 </table>
+
+### デジタルシングル
+
+| リリース日       | タイトル                                                                                | 規格          | [規格品番](../Page/規格品番.md "wikilink") | 初収録アルバム                                                        | 備考                                                                                                                                            |
+| ----------- | ----------------------------------------------------------------------------------- | ----------- | ---------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017年9月13日  | [ZIGGY STARDUST](https://ja.wikipedia.org/wiki/ジギー・スターダスト_\(曲\) "wikilink")         | デジタル・ダウンロード | \-                                 | \-                                                             | 3か月連続配信リリース第1弾。スタジオ音源のみ。[Amazon限定配信](../Page/Amazon.co.jp.md "wikilink")。[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")のカバー。 |
+| 2017年10月27日 | [Stars](https://ja.wikipedia.org/wiki/Stars_\(THE_YELLOW_MONKEYの曲\) "wikilink")     | デジタル・ダウンロード | COKM-40181                         | [9999](https://ja.wikipedia.org/wiki/9999_\(アルバム\) "wikilink") | 3か月連続配信リリース第2弾。各配信サイトにて配信。                                                                                                                    |
+| 2017年11月29日 | [Horizon](https://ja.wikipedia.org/wiki/Horizon_\(THE_YELLOW_MONKEYの曲\) "wikilink") | デジタル・ダウンロード | COKM-40182                         | 3か月連続配信リリース第3弾。各配信サイトにて配信。                                     |                                                                                                                                               |
+| 2018年11月9日  | [天道虫](https://ja.wikipedia.org/wiki/天道虫_\(THE_YELLOW_MONKEYの曲\) "wikilink")         | デジタル・ダウンロード | 190295522988                       |                                                                |                                                                                                                                               |
+| 2019年10月30日 | [DANDAN](https://ja.wikipedia.org/wiki/DANDAN "wikilink")                           | デジタル・ダウンロード | 190295330323                       | \-                                                             | 結成30周年記念シングル。                                                                                                                                 |
+| 2020年3月13日  | [未来はみないで](../Page/未来はみないで.md "wikilink")                                            | デジタル・ダウンロード | 190295265915                       | \-                                                             | 『30th Anniversary Memorial Gift』収録曲。                                                                                                          |
 
 ### その他のシングル
 
@@ -940,6 +907,7 @@
 | 企画         | 2012年10月10日 | [Romantist Taste 2012](https://ja.wikipedia.org/wiki/Romantist_Taste_2012 "wikilink")                                       | 12cmCD                                                              | COCA-16672                         | \-                                                                                                                                      |
 | ファンクラブ限定配信 | 2017年2月12日  | [ALRIGHT](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                             | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") | \-                                 | シングル「[砂の塔](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")」B面に収録。                                                 |
 | ファンクラブ限定配信 | 2017年3月17日  | [ロザーナ](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST#早期購入特典「2017_LIMITED_SPECIAL_SINGLE_CD」 "wikilink") | デジタル・ダウンロード                                                         | \-                                 | 『[THE YELLOW MONKEY IS HERE. NEW BEST](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink")』の早期購入特典CDに収録。      |
+| 特典         | 2017年5月21日  | 12cmCD                                                                                                                      | PRCL-10124                                                          |                                    |                                                                                                                                         |
 | LP         | 2018年1月8日   | [ZIGGY STARDUST](https://ja.wikipedia.org/wiki/ジギー・スターダスト_\(曲\) "wikilink")                                                 | 7inch[LP](../Page/レコード.md "wikilink")                               | TYMS-003(完全受注生産)                   | A面はスタジオ音源、B面はライブ音源。[Amazon限定盤](../Page/Amazon.co.jp.md "wikilink")。[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")のカバー。 |
 
 ### オリジナル・アルバム
@@ -952,6 +920,7 @@
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
+<th><p>オリコン最高位</p></th>
 </tr>
 </thead>
 <tbody>
@@ -961,11 +930,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Bunched_Birth" title="wikilink">Bunched Birth</a></p></td>
 <td><p>CD</p></td>
 <td><p>EB-306</p></td>
+<td><p>40位</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年12月4日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルースペックCD" title="wikilink">Blu-spec CD2</a></p></td>
 <td><p>POCS-1119</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -976,10 +947,12 @@
 (夜行性のかたつむり達とプラスチックのブギー)</p></td>
 <td><p>CD</p></td>
 <td><p>COCA-9797</p></td>
+<td><p>79位</p></td>
 </tr>
 <tr class="even">
 <td><p>2000年8月19日</p></td>
 <td><p>COCA-50366</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -990,6 +963,7 @@
 <td><p>COCP-38275</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -998,10 +972,12 @@
 (未公開のエクスペリエンス・ムービー)</p></td>
 <td><p>CD</p></td>
 <td><p>COCA-10630</p></td>
+<td><p>80位</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000年8月19日</p></td>
 <td><p>COCA-50367</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1012,6 +988,7 @@
 <td><p>COCP-38276</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -1019,10 +996,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/jaguar_hard_pain" title="wikilink">jaguar hard pain</a></p></td>
 <td><p>CD</p></td>
 <td><p>COCA-11539</p></td>
+<td><p>28位</p></td>
 </tr>
 <tr class="even">
 <td><p>2000年8月19日</p></td>
 <td><p>COCA-50368</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1033,6 +1012,7 @@
 <td><p>COCP-38277</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -1040,11 +1020,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/smile_(THE_YELLOW_MONKEYのアルバム)" title="wikilink">smile</a></p></td>
 <td><p>CD</p></td>
 <td><p>COCA-12258</p></td>
+<td><p>4位</p></td>
 </tr>
 <tr class="odd">
 <td><p>1995年7月21日</p></td>
 <td><p><a href="../Page/ミニディスク.md" title="wikilink">MD</a></p></td>
 <td><p>COYA-54</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1054,11 +1036,13 @@
 <td><p>COCA-50369</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2013年12月4日</p></td>
 <td><p>Blu-spec CD2</p></td>
 <td><p>COCP-38278</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1068,10 +1052,12 @@
 <td><p><a href="../Page/FOUR_SEASONS.md" title="wikilink">FOUR SEASONS</a></p></td>
 <td><p>CD</p></td>
 <td><p>COCA-12994</p></td>
+<td><p>1位</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000年8月19日</p></td>
 <td><p>COCA-50370</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1082,6 +1068,7 @@
 <td><p>COCP-38279</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
@@ -1089,11 +1076,13 @@
 <td><p><a href="../Page/SICKS.md" title="wikilink">SICKS</a></p></td>
 <td><p>CD</p></td>
 <td><p>FHCF-2355</p></td>
+<td><p>1位</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年1月22日</p></td>
 <td><p><a href="../Page/レコード.md" title="wikilink">LP</a>(2枚組)</p></td>
 <td><p>BVJL-2〜3</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1103,6 +1092,7 @@
 <td><p>BVCL-30010</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
@@ -1110,11 +1100,13 @@
 <td><p><a href="../Page/PUNCH_DRUNKARD.md" title="wikilink">PUNCH DRUNKARD</a></p></td>
 <td><p>CD</p></td>
 <td><p>FHCF-2412</p></td>
+<td><p>1位</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年12月4日</p></td>
 <td><p>Blu-spec CD2</p></td>
 <td><p>BVCL-30011</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1124,9 +1116,11 @@
 <td><p><a href="../Page/8_(THE_YELLOW_MONKEYのアルバム).md" title="wikilink">8</a></p></td>
 <td><p>CD(2枚組)</p></td>
 <td><p>FHCF-2501</p></td>
+<td><p>2位</p></td>
 </tr>
 <tr class="odd">
 <td><p>CD</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1138,6 +1132,7 @@
 <td><p>BVCL-30013</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
@@ -1145,10 +1140,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/9999_(アルバム)" title="wikilink">9999</a></p></td>
 <td><p>CD+DVD</p></td>
 <td><p>WPZL-31619/20(初回生産限定盤)</p></td>
+<td><p>3位</p></td>
 </tr>
 <tr class="even">
 <td><p>CD</p></td>
 <td><p>WPCL-13119(通常盤)</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1159,35 +1156,173 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### ベストアルバム
 
-|              | リリース日              | タイトル                                                                                                                | 規格                                     | 規格品番             |
-| ------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------- |
-| シングルコレクション   | 2001年6月13日         | [GOLDEN YEARS Singles 1996-2001](../Page/GOLDEN_YEARS_Singles_1996-2001.md "wikilink")                              | CD                                     | FHCF-2530        |
-| 2013年12月4日   | Blu-spec CD2       | BVCL-30014                                                                                                          |                                        |                  |
-| ベストアルバム      | 2004年12月8日         | [MOTHER OF ALL THE BEST](../Page/MOTHER_OF_ALL_THE_BEST.md "wikilink")                                              | CD(3枚組)                                | BVCR-18040〜18042 |
-| CD(2枚組)      | BVCR-18043〜18044   |                                                                                                                     |                                        |                  |
-| 2013年12月4日   | Blu-spec CD2(2枚組)  | BVCL-30015〜30016                                                                                                    |                                        |                  |
-| ベストアルバム      | 2013年7月31日         | [イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")                   | Blu-spec CD2+DVD                       | COZP-786〜787     |
-| Blu-spec CD2 | COCP-38132         |                                                                                                                     |                                        |                  |
-| 新録企画ベスト      | 2017年5月21日         | [THE YELLOW MONKEY IS HERE. NEW BEST](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink") | CD+『2017 LIMITED SPECIAL SINGLE CD』特典付 | COCP-39968       |
-| LP(2枚組)      | COJA-9324〜5        |                                                                                                                     |                                        |                  |
-| CD(2枚組)      | COCP-1001〜2(FC限定盤) |                                                                                                                     |                                        |                  |
-
-### 非公認ベストアルバム
-
-| リリース日       | タイトル                                                                                                                                                  | 規格               | 規格品番             |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------- |
-| 1996年12月7日  | [TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/TRIAD_YEARS_actI〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY "wikilink")   | CD               | COCA-13914       |
-| 1997年4月19日  | [TRIAD YEARS actII〜THE VERY BEST OF THE YELLOW MONKEY](https://ja.wikipedia.org/wiki/TRIAD_YEARS_actII〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY "wikilink") | CD               | COCA-14101       |
-| 1998年12月10日 | [THE YELLOW MONKEY SINGLE COLLECTION](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_SINGLE_COLLECTION "wikilink")                                   | CD               | COCP-50016       |
-| 2013年12月4日  | Blu-spec CD2                                                                                                                                          | COCP-38282       |                  |
-| 2001年3月1日   | TRIAD YEARS actI & actII〜THE VERY BEST OF THE YELLOW MONKEY                                                                                           | CD(2枚組)          | COCP-50486〜50487 |
-| 2013年12月4日  | Blu-spec CD2(2枚組)                                                                                                                                     | COCP-38280〜38281 |                  |
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>リリース日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格</p></th>
+<th><p>規格品番</p></th>
+<th><p>オリコン最高位</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>ベストアルバム</p></td>
+<td><p>1996年12月7日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TRIAD_YEARS_actI〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY" title="wikilink">TRIAD YEARS actI〜THE VERY BEST OF THE YELLOW MONKEY</a></p></td>
+<td><p>CD</p></td>
+<td><p>COCA-13914</p></td>
+<td><p>2位</p></td>
+<td><p>TRIAD YEARSの第1弾。 非公認アルバム。</p>
+<p><a href="../Page/ミリオンセラー.md" title="wikilink">ミリオンセラー</a>となり、バンド史上最大のヒット。</p></td>
+</tr>
+<tr class="even">
+<td><p>ベストアルバム</p></td>
+<td><p>1997年4月19日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TRIAD_YEARS_actII〜THE_VERY_BEST_OF_THE_YELLOW_MONKEY" title="wikilink">TRIAD YEARS actII〜THE VERY BEST OF THE YELLOW MONKEY</a></p></td>
+<td><p>CD</p></td>
+<td><p>COCA-14101</p></td>
+<td><p>2位</p></td>
+<td><p>TRIAD YEARSの第2弾。 非公認アルバム。</p></td>
+</tr>
+<tr class="odd">
+<td><p>シングルコレクション</p></td>
+<td><p>1998年12月10日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_SINGLE_COLLECTION" title="wikilink">THE YELLOW MONKEY SINGLE COLLECTION</a></p></td>
+<td><p>CD</p></td>
+<td><p>COCP-50016</p></td>
+<td><p>10位</p></td>
+<td><p>TRIAD時代のシングルコレクション。 非公認アルバム（再発時には所属事務所BAJのロゴが明記された）。</p></td>
+</tr>
+<tr class="even">
+<td><p>2013年12月4日</p></td>
+<td><p>Blu-spec CD2</p></td>
+<td><p>COCP-38282</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ベストアルバム</p></td>
+<td><p>2001年3月1日</p></td>
+<td><p>TRIAD YEARS actI &amp; actII〜THE VERY BEST OF THE YELLOW MONKEY</p></td>
+<td><p>CD(2枚組)</p></td>
+<td><p>COCP-50486〜50487</p></td>
+<td><p>25位</p></td>
+<td><p>TRIAD YEARS actI &amp; actIIのセット。 非公認アルバム（再発時には所属事務所BAJのロゴが明記された）。</p></td>
+</tr>
+<tr class="even">
+<td><p>2013年12月4日</p></td>
+<td><p>Blu-spec CD2(2枚組)</p></td>
+<td><p>COCP-38280〜38281</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>シングルコレクション</p></td>
+<td><p>2001年6月13日</p></td>
+<td><p><a href="../Page/GOLDEN_YEARS_Singles_1996-2001.md" title="wikilink">GOLDEN YEARS Singles 1996-2001</a></p></td>
+<td><p>CD</p></td>
+<td><p>FHCF-2530</p></td>
+<td><p>2位</p></td>
+<td><p>ファンハウス時代のシングルコレクション。</p></td>
+</tr>
+<tr class="even">
+<td><p>2013年12月4日</p></td>
+<td><p>Blu-spec CD2</p></td>
+<td><p>BVCL-30014</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ベストアルバム</p></td>
+<td><p>2004年12月8日</p></td>
+<td><p><a href="../Page/MOTHER_OF_ALL_THE_BEST.md" title="wikilink">MOTHER OF ALL THE BEST</a></p></td>
+<td><p>CD(3枚組)</p></td>
+<td><p>BVCR-18040〜18042</p></td>
+<td><p>5位</p></td>
+<td><p>メンバー自らがセレクションしたベストアルバム。</p></td>
+</tr>
+<tr class="even">
+<td><p>CD(2枚組)</p></td>
+<td><p>BVCR-18043〜18044</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013年12月4日</p></td>
+<td><p>Blu-spec CD2(2枚組)</p></td>
+<td><p>BVCL-30015〜30016</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ベストアルバム</p></td>
+<td><p>2013年7月31日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イエモン-FAN&#39;S_BEST_SELECTION-" title="wikilink">イエモン-FAN'S BEST SELECTION-</a></p></td>
+<td><p>Blu-spec CD2+DVD</p></td>
+<td><p>COZP-786〜787</p></td>
+<td><p>2位</p></td>
+<td><p>ファン投票によるベストアルバム。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Blu-spec CD2</p></td>
+<td><p>COCP-38132</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>新録企画ベスト</p></td>
+<td><p>2017年5月21日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST" title="wikilink">THE YELLOW MONKEY IS HERE. NEW BEST</a></p></td>
+<td><p>CD+『2017 LIMITED SPECIAL SINGLE CD』特典付</p></td>
+<td><p>COCP-39968</p></td>
+<td><p>1位</p></td>
+<td><p>前作『イエモン』の収録楽曲を新録したアルバム。</p></td>
+</tr>
+<tr class="odd">
+<td><p>LP(2枚組)</p></td>
+<td><p>COJA-9324〜5</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>CD(2枚組)</p></td>
+<td><p>COCP-1001〜2(FC限定盤)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### その他のアルバム
 
@@ -1199,6 +1334,7 @@
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
+<th><p>オリコン最高位</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -1209,6 +1345,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/TRIAD_COMPLETE_BOX" title="wikilink">TRIAD COMPLETE BOX</a></p></td>
 <td><p>6CD</p></td>
 <td><p>COCA-14660〜14665</p></td>
+<td><p>14位</p></td>
 <td><p>TRIADよりリリースされた全ての音源を網羅したBOXセット。</p></td>
 </tr>
 <tr class="even">
@@ -1217,12 +1354,14 @@
 <td><p><a href="../Page/SO_ALIVE.md" title="wikilink">SO ALIVE</a></p></td>
 <td><p>CD</p></td>
 <td><p>FHCF-2457</p></td>
+<td><p>4位</p></td>
 <td><p>「PUNCH DRUNKARD TOUR」からメンバー自らがセレクションしたライブアルバム。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年12月4日</p></td>
 <td><p>Blu-spec CD2</p></td>
 <td><p>BVCL-30012</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1233,6 +1372,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM" title="wikilink">THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM</a></p></td>
 <td><p>CD(2枚組)</p></td>
 <td><p>BVCL-50〜51</p></td>
+<td><p>6位</p></td>
 <td><p>結成20周年記念企画の一環で発売。</p></td>
 </tr>
 <tr class="odd">
@@ -1241,6 +1381,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SICKS#COMPLETE_SICKS" title="wikilink">COMPLETE SICKS</a></p></td>
 <td><p>CD(2枚組)+DVD</p></td>
 <td><p>BVCL-20025〜20027</p></td>
+<td><p>6位</p></td>
 <td><p>結成20周年記念企画の一環で発売。<br />
 完全生産限定盤。<br />
 Blu-spec CD+CD+DVDの3枚組。</p></td>
@@ -1251,6 +1392,7 @@ Blu-spec CD+CD+DVDの3枚組。</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/9999_(アルバム)#30th_Anniversary『9999+1』-GRATEFUL_SPOONFUL_EDITION-" title="wikilink">30th Anniversary『9999+1』-GRATEFUL SPOONFUL EDITION-</a></p></td>
 <td><p>CD+DVD+PHOTO</p></td>
 <td><p>WPZL-31703〜4</p></td>
+<td><p>2位</p></td>
 <td><p>結成30周年記念企画の一環で発売。<br />
 完全生産限定盤。<br />
 CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="wikilink">A4版スペシャルパッケージ</a>。</p></td>
@@ -1265,7 +1407,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 | 1996年8月31日  | [MOTH POET HOTEL〜A TRIBUTE TO MOTT THE HOOPLE](https://ja.wikipedia.org/wiki/MOTH_POET_HOTEL "wikilink")              | CD | COCA-13627 | TRIADよりリリース。3曲目に吉井の日本語詞による[モット・ザ・フープル](../Page/モット・ザ・フープル.md "wikilink")「[ホナルーチ・ブギ](https://ja.wikipedia.org/wiki/ホナルーチ・ブギ "wikilink")」のカバーを収録。吉井はMoth Poet All Stars（モス・ポエト・オールスターズ）として1曲目「[すべての若き野郎ども](https://ja.wikipedia.org/wiki/すべての若き野郎ども "wikilink")」（英語詞）メドレーに参加。                                                                              |
 | 1997年11月21日 | T・レックス・トリビュート・アルバム〜ブギー・ウィズ・ザ・ウイザード                                                                                    | CD | TECW-30613 | 2曲目に吉井の日本語詞による[T・レックス](../Page/T・レックス.md "wikilink")「[ティル・ドーン](https://ja.wikipedia.org/wiki/:en:Light_of_Love "wikilink")」のカバーを収録。吉井は[Bolan](../Page/マーク・ボラン.md "wikilink")'s children（ボランズ・チルドレン）として最終曲「T・レックス・トリビュート・メドレー」の「[20センチュリー・ボーイ](https://ja.wikipedia.org/wiki/20センチュリー・ボーイ "wikilink")」（英語詞）に参加。                                           |
 | 1998年2月25日  | 地獄の賞賛〜KISS トリビュート・イン・ジャパン                                                                                             | CD | PHCL-5085  | 1曲目に[KISS](../Page/キッス.md "wikilink")「[Shout It Out Loud](https://ja.wikipedia.org/wiki/:en:Shout_It_Out_Loud_\(Kiss_song\) "wikilink")」（狂気の叫び）のカバーを収録。英語詞。                                                                                                                                                                                              |
-| 2017年9月13日  | T. Rex Tribute 〜Sitting Next To You〜 presented by [Rama Amoeba](https://ja.wikipedia.org/wiki/Rama_Amoeba "wikilink") | CD | VICL-64822 | [マーク・ボラン](../Page/マーク・ボラン.md "wikilink")生誕70年/没後40年記念アルバム。3曲目「[Light Of Love](https://ja.wikipedia.org/wiki/:en:Light_of_Love_\(T._Rex_song\) "wikilink")」（マーク・ボラン作曲）、11曲目「[The Prettiest Star](https://ja.wikipedia.org/wiki/:en:The_Prettiest_Star "wikilink")」（デヴィッド・ボウイ作曲）、12曲目「Sitting Next To You」（ボラン&ボウイ作曲）のカバーにTHE YELLOW MONKEYメンバーが参加\[105\]。 |
+| 2017年9月13日  | T. Rex Tribute 〜Sitting Next To You〜 presented by [Rama Amoeba](https://ja.wikipedia.org/wiki/Rama_Amoeba "wikilink") | CD | VICL-64822 | [マーク・ボラン](../Page/マーク・ボラン.md "wikilink")生誕70年/没後40年記念アルバム。3曲目「[Light Of Love](https://ja.wikipedia.org/wiki/:en:Light_of_Love_\(T._Rex_song\) "wikilink")」（マーク・ボラン作曲）、11曲目「[The Prettiest Star](https://ja.wikipedia.org/wiki/:en:The_Prettiest_Star "wikilink")」（デヴィッド・ボウイ作曲）、12曲目「Sitting Next To You」（ボラン&ボウイ作曲）のカバーにTHE YELLOW MONKEYメンバーが参加\[107\]。 |
 
 ### ビデオ・DVD
 
@@ -2068,7 +2210,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 <tr class="odd">
 <td><p>1998年 -<br />
 1999年</p></td>
-<td><p>PUNCH DRUNKARD TOUR 1998/99</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パンドラ_ザ・イエロー・モンキー_PUNCH_DRUNKARD_TOUR_THE_MOVIE" title="wikilink">PUNCH DRUNKARD TOUR 1998/99</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>全113公演</p>
@@ -2194,20 +2336,33 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 </tr>
 <tr class="even">
 <td><p>1998年</p></td>
-<td><p>メカラ ウロコ・9</p></td>
-<td></td>
+<td><p>THE YELLOW MONKEY UK TOUR</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2公演</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>7月18日 <a href="../Page/ノッティンガム.md" title="wikilink">ノッティンガム</a>・Rock City<br />
+7月20日 <a href="../Page/ロンドン.md" title="wikilink">ロンドン</a>・London Astoria</p>
+</div>
+</div></td>
 </tr>
 <tr class="odd">
+<td><p>メカラ ウロコ・9</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1999年</p></td>
 <td><p>メカラ ウロコ・10</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>We are Petticoat Laner de 公演</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2000年</p></td>
 <td><p>SPRING TOUR</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2228,7 +2383,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 </div>
 </div></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2001年</p></td>
 <td><p>メカラ ウロコ・8</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2241,7 +2396,7 @@ CD+DVD+PHOTOの<a href="https://ja.wikipedia.org/wiki/紙の寸法#A列" title="
 </div>
 </div></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2004年</p></td>
 <td><p>Petticoat Lane PRESENTS<br />
 THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
@@ -2264,7 +2419,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div>
 </div></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年</p></td>
 <td><p>THE YELLOW MONKEY SUPER JAPAN TOUR 2016</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2295,7 +2450,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div>
 </div></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>THE YELLOW MONKEY SUPER JAPAN TOUR 2016<br />
 -YOKOHAMA SPECIAL-</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2309,7 +2464,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>THE YELLOW MONKEY SUPER JAPAN TOUR 2016 SPECIAL<br />
 -ARE YOU A BELIEVER?-</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2323,13 +2478,13 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>THE YELLOW MONKEY SUPER JAPAN TOUR 2016 SPECIAL<br />
 -KUMAMOTO SPECIAL-</p></td>
 <td><p>9月1日 熊本B.9</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>THE YELLOW MONKEY SUPER JAPAN TOUR 2016<br />
 -SUBJECTIVE LATE SHOW-</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2357,12 +2512,12 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/メカラ_ウロコ・27" title="wikilink">THE YELLOW MONKEY SUPER メカラ ウロコ・27</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年</p></td>
 <td><p>THE YELLOW MONKEY SUPER FC PARTY 2017 -DRASTIC HOLIDAY-</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2381,7 +2536,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div>
 </div></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>THE YELLOW MONKEY SUPER BIG EGG 2017</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -2394,17 +2549,17 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/メカラ_ウロコ・28" title="wikilink">THE YELLOW MONKEY SUPER メカラ ウロコ・28 -九州SPECIAL-</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p>THE YELLOW MONKEY SUPER メカラ ウロコ・29 -FINAL</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年</p></td>
 <td><p>THE YELLOW MONKEY SUPER JAPAN TOUR 2019 <strong>-GRATEFUL SPOONFUL-</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2442,12 +2597,12 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 </div>
 </div></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>THE YELLOW MONKEY Private Gig</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年 - 2020年</p></td>
 <td><p>THE YELLOW MONKEY 30th Anniversary DOME TOUR</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2576,7 +2731,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 | 2000年                                                                                                              | [聖なる海とサンシャイン](https://ja.wikipedia.org/wiki/聖なる海とサンシャイン "wikilink")                                                                                                         | 20thシングル                                                                                                                                               | テレビ朝日系「[おネプ\!](../Page/おネプ!.md "wikilink")」エンディングテーマ                                                                                                |
 | 映画「現実の続き 夢の終わり」主題歌                                                                                                 |                                                                                                                                                                             |                                                                                                                                                        |                                                                                                                                                     |
 | [SHOCK HEARTS](https://ja.wikipedia.org/wiki/SHOCK_HEARTS "wikilink")                                              | 21stシングル                                                                                                                                                                    | [大鵬薬品工業](../Page/大鵬薬品工業.md "wikilink")「チオビタドリンク」CMソング                                                                                                  |                                                                                                                                                     |
-| [パール](https://ja.wikipedia.org/wiki/パール_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                        | 22ndシングル                                                                                                                                                                    | [NTV系](../Page/日本テレビネットワーク協議会.md "wikilink")「[劇空間プロ野球](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")」8・9月度イメージソング                       |                                                                                                                                                     |
+| [パール](https://ja.wikipedia.org/wiki/パール_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                        | 22ndシングル                                                                                                                                                                    | [日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")「[劇空間プロ野球](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")」8・9月度イメージソング                     |                                                                                                                                                     |
 | [BRILLIANT WORLD](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")                                        | 23rdシングル                                                                                                                                                                    | TBS系「[世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")」エンディングテーマ                                                                                            |                                                                                                                                                     |
 | 2001年                                                                                                              | [GIRLIE (Original Mix)](https://ja.wikipedia.org/wiki/BRILLIANT_WORLD "wikilink")                                                                                           | 23rdシングル C/W                                                                                                                                           | 映画「[弟切草](../Page/弟切草_\(ゲーム\).md "wikilink")」主題歌                                                                                                     |
 | 2009年                                                                                                              | SPARK                                                                                                                                                                       | 10thシングル                                                                                                                                               | [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")「CR忍術決戦 月影」使用曲                                                                                 |
@@ -2587,9 +2742,9 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 | SPARK                                                                                                              | 10thシングル                                                                                                                                                                    | TBS系「エン活\!」エンディングテーマ                                                                                                                                   |                                                                                                                                                     |
 | 楽園                                                                                                                 | 11thシングル                                                                                                                                                                    | フジテレビ系「[たけしのコマ大数学科](../Page/たけしのコマ大数学科.md "wikilink")」7〜9月度エンディングテーマ                                                                                   |                                                                                                                                                     |
 | パール                                                                                                                | 22ndシングル                                                                                                                                                                    | 日本テレビ系「[ミュージックドラゴン](https://ja.wikipedia.org/wiki/ミュージックドラゴン "wikilink")」POWER PLAY                                                                    |                                                                                                                                                     |
-| [パンチドランカー](../Page/PUNCH_DRUNKARD.md "wikilink")                                                                   | 7thアルバム                                                                                                                                                                     | 映画「[パンドラ ザ・イエロー・モンキー PUNCH DRUNKARD TOUR THE MOVIE](https://ja.wikipedia.org/wiki/パンドラ_ザ・イエロー・モンキー_PUNCH_DRUNKARD_TOUR_THE_MOVIE "wikilink")」エンディングテーマ |                                                                                                                                                     |
+| [パンチドランカー](../Page/PUNCH_DRUNKARD.md "wikilink") (LIVE音源)                                                          | 7thアルバム                                                                                                                                                                     | 映画「[パンドラ ザ・イエロー・モンキー PUNCH DRUNKARD TOUR THE MOVIE](https://ja.wikipedia.org/wiki/パンドラ_ザ・イエロー・モンキー_PUNCH_DRUNKARD_TOUR_THE_MOVIE "wikilink")」エンディングテーマ |                                                                                                                                                     |
 | 2016年                                                                                                              | [砂の塔](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                                 | 25thシングル                                                                                                                                               | TBS系ドラマ「[砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")」主題歌                                                                     |
-| 2017年                                                                                                              | [ALRIGHT](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                             | 25thシングル C/W                                                                                                                                           | インベスターズクラウド「[TATERU](https://ja.wikipedia.org/wiki/TATERU "wikilink")」CMソング第1弾 1月6日TV放映開始\[106\]                                                    |
+| 2017年                                                                                                              | [ALRIGHT](https://ja.wikipedia.org/wiki/砂の塔_\(THE_YELLOW_MONKEYの曲\) "wikilink")                                                                                             | 25thシングル C/W                                                                                                                                           | インベスターズクラウド「[TATERU](https://ja.wikipedia.org/wiki/TATERU "wikilink")」CMソング第1弾 1月6日TV放映開始\[108\]                                                    |
 | SPARK ([2017 新録版](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY_IS_HERE._NEW_BEST "wikilink"))                   | 10thシングル                                                                                                                                                                    | TBS系「イベントGO\!」5月度オープニングテーマ                                                                                                                             |                                                                                                                                                     |
 | インベスターズクラウド「TATERU」CMソング第2弾 8月4日TV放映開始                                                                             |                                                                                                                                                                             |                                                                                                                                                        |                                                                                                                                                     |
 | 楽園 (2017 新録版)                                                                                                      | 11thシングル                                                                                                                                                                    | フジテレビ系「魔女に言われたい夜〜正直過ぎる品定め〜」5月度エンディングテーマ                                                                                                                |                                                                                                                                                     |
@@ -2703,7 +2858,7 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
   -
   -
   -
-[Category:THE_YELLOW_MONKEY](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEY "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:2016年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に再結成した音楽グループ "wikilink")
+[Category:THE_YELLOW_MONKEY](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEY "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:2016年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に再結成した音楽グループ "wikilink")
 
 1.
 2.
@@ -2811,3 +2966,5 @@ THE EXHIBITION AND VIDEO FESTIVAL OF THE YELLOW MONKEY<br />
 104.
 105.
 106.
+107.
+108.

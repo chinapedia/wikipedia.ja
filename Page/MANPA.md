@@ -378,8 +378,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/スタンドマイヒーローズ_PIECE_OF_TRUTH" title="wikilink">スタンドマイヒーローズ PIECE OF TRUTH</a></p></td>
 <td><p>2019年10月8日 - 12月24日</p></td>
-<td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX・BS11との共同製作。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Re:ステージ!" title="wikilink">Re:ステージ！ ドリームデイズ♪</a></p></td>
@@ -624,20 +624,20 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Infini-T_Force" title="wikilink">Infini-T Force</a></p></td>
 <td><p>2017年10月3日 - 12月26日</p></td>
-<td><p>第3部（2:59 - 3:29）</p></td>
 <td><p>本局も製作委員会に参加。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ルパン三世_PART5" title="wikilink">ルパン三世 PART5</a></p></td>
 <td><p>2018年4月10日 - 9月25日</p></td>
-<td><p>第3部（2:59 - 3:29）</p></td>
 <td><p>第2クールは第2部で放送。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/風が強く吹いている" title="wikilink">風が強く吹いている</a></p></td>
 <td><p>2018年10月9日 - 2019年4月2日</p></td>
-<td><p>第3部（2:59 - 3:29）</p></td>
-<td><p>第2クールは第2部で放送。</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -680,10 +680,10 @@
 <tr class="even">
 <td><p>ラブライブ!（第2期）</p></td>
 <td><p>2014年4月8日 - 7月1日</p></td>
-<td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>第1期ではYTEが協力として参加していたが、本作では不参加となっており外部製作のUHFアニメとなっている。<br />
 『[[ラブライブ!サンシャイン</p></td>
 <td><p>|ラブライブ!サンシャイン</p></td>
+<td><p>]]』は関西圏ではサンテレビ・KBS京都・NHK Eテレで放送。</p></td>
 </tr>
 <tr class="odd">
 <td><p>バディ・コンプレックス 完結編 -あの空に還る未来で-</p></td>
@@ -781,8 +781,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンカムイ" title="wikilink">ゴールデンカムイ</a>（第一期）</p></td>
 <td><p>2018年4月10日 - 6月26日</p></td>
-<td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -809,8 +809,8 @@
 <tr class="even">
 <td><p>からかい上手の高木さん２</p></td>
 <td><p>2019年7月9日 - 9月24日</p></td>
-<td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>-</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -958,13 +958,13 @@ AT-X</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/MIX_(漫画)" title="wikilink">MIX</a></p></td>
 <td><p>2019年4月9日 - 6月18日</p></td>
-<td><p>|第3部（2:59 - 3:29）</p></td>
+<td><p>第3部（2:59 - 3:29）</p></td>
 <td><p>第11話までの再放送。</p></td>
 </tr>
 <tr class="even">
 <td><p>僕のヒーローアカデミア</p></td>
 <td><p>2019年7月16日 - 2020年4月7日</p></td>
-<td><p>|第3部（2:59 - 3:29）</p></td>
+<td><p>2019年7月期は第1期、10月期以降は第4期を再放送。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1006,7 +1006,7 @@ AT-X</p></td>
     近畿地方ではサンテレビのプライムタイムで放送。
   - [ビキニ・ウォリアーズ](https://ja.wikipedia.org/wiki/ビキニ・ウォリアーズ "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。YTE企画協力作品。
-  - [SERVAMP -サーヴァンプ-](https://ja.wikipedia.org/wiki/SERVAMP_-サーヴァンプ- "wikilink")
+  - [SERVAMP-サーヴァンプ-](https://ja.wikipedia.org/wiki/SERVAMP-サーヴァンプ- "wikilink")
     [メ〜テレ](https://ja.wikipedia.org/wiki/メ〜テレ "wikilink")企画協力。近畿地方ではサンテレビ、中京地区ではメ〜テレで放送。
   - [セントールの悩み](https://ja.wikipedia.org/wiki/セントールの悩み "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。

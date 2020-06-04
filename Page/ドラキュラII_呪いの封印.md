@@ -1,7 +1,7 @@
 > この記事は[ドラキュラII 呪いの封印](https://ja.wikipedia.org/wiki/ドラキュラII_呪いの封印)から翻訳されています。
 
 
-『**ドラキュラII 呪いの封印**』（ドラキュラツー のろいのふういん、英題: *[Castlevania II: Simon's Quest](https://ja.wikipedia.org/wiki/:en:Castlevania_II:_Simon's_Quest "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から1987年8月28日に発売された[ファミリーコンピュータ ディスクシステム用ソフトの](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。
+『**ドラキュラII 呪いの封印**』（ドラキュラツー のろいのふういん、英題: *[Castlevania II: Simon's Quest](https://ja.wikipedia.org/wiki/:en:Castlevania_II:_Simon's_Quest "wikilink")*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月28日](../Page/8月28日.md "wikilink")に発売された[ファミリーコンピュータ ディスクシステム用ソフトの](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。
 
 ## 概要
 
@@ -47,7 +47,7 @@
 
 いずれも「[十字キー](../Page/十字キー.md "wikilink")上を押しながらBボタン」で使用する。前述のとおりサブ画面を開いて任意のタイミングで変更することが可能。
 
-  - 聖水
+  - [聖水](../Page/聖水.md "wikilink")
     地面に放り投げて攻撃するサブウェポン。前作と違い地面に落ちても火柱が上がらないが、破壊可能な壁や床の石を壊せる効果がある。攻撃力は低いが道を切り開くのに必要で、アイテムとしては重要。ハート使用量が0なので何度でも使える。
   - 聖なる炎
     聖水と同じ軌道で投げるがこちらは火柱が上がる。火柱はしばらく残り、触れた敵に連続的にダメージを与える。1発につきハート1消費。

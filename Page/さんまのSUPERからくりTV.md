@@ -969,7 +969,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）</p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1012,7 +1012,7 @@
 </tbody>
 </table>
 
-  - また、系列局外の[秋田県](../Page/秋田県.md "wikilink")では、[日本テレビ系列の](../Page/日本テレビネットワーク協議会.md "wikilink")[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（ABS）で土日の日中に不定期で放送されていた。
+  - また、系列局外の[秋田県](../Page/秋田県.md "wikilink")では、[日本テレビ系列の](../Page/日本テレビネットワーク協議会.md "wikilink")[秋田放送](../Page/秋田放送.md "wikilink")（ABS）で土日の日中に不定期で放送されていた。
   - [CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")では野球シーズン中は野球中継に差し替えられほとんど放送されていなかった。（事情は[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")を参照のこと）番組終末期には土日の日中に振替放送されるようになった。
   - 一部地域で[再放送](../Page/再放送.md "wikilink")を行っている系列局がある。
 
@@ -1034,12 +1034,13 @@
 
 <!-- end list -->
 
-  - [言えずのI LOVE YOU](../Page/言えずのI_LOVE_YOU.md "wikilink")/[KAN](../Page/KAN.md "wikilink")（1992年4月26日 - 1992年9月27日）
-  - うしろの正面/[GARLAND](https://ja.wikipedia.org/wiki/GARLAND "wikilink")（1992年10月11日 - 1993年3月28日）
-  - 文明の街/[INVOICE](https://ja.wikipedia.org/wiki/INVOICE "wikilink")（1993年）
+  - [言えずのI LOVE YOU](../Page/言えずのI_LOVE_YOU.md "wikilink") / [KAN](../Page/KAN.md "wikilink")（1992年4月26日 - 1992年9月27日）
+  - うしろの正面 / [GARLAND](https://ja.wikipedia.org/wiki/GARLAND "wikilink")（1992年10月11日 - 1993年3月28日）
+  - 文明の街 / [INVOICE](https://ja.wikipedia.org/wiki/INVOICE "wikilink")（1993年）
   - 君を見つめているから/[坂井美唯子](../Page/坂井美唯子.md "wikilink")（1994年）
-  - いっしょにねっ/浅田美代子（1994年10月 - 1995年12月）
-  - river/[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（1996年1月 - 1996年3月24日、[木曜ドラマ](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")『[リスキー・ゲーム](../Page/リスキー・ゲーム.md "wikilink")』のみで放送）
+  - いっしょにねっ / 浅田美代子（1994年10月 - 1995年12月）
+  - こんな日曜日 / [黒田有紀](../Page/黒田有紀.md "wikilink")（1996年頃）
+  - river / [CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")（1996年1月 - 1996年3月24日、[木曜ドラマ](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")『[リスキー・ゲーム](../Page/リスキー・ゲーム.md "wikilink")』のみで放送）
   - Believe 〜あなただけ映したい〜 / [米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")（1996年4月 - 1997年3月）
   - Sunday Sunday / [梶谷美由紀](../Page/梶谷美由紀.md "wikilink")（1997年頃）
   - Hey\!Mr.Angyman / [斉藤和義](../Page/斉藤和義.md "wikilink")（1998年頃）

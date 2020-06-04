@@ -1,7 +1,7 @@
 > この記事は[花唄 \(TOKIOの曲\)](https://ja.wikipedia.org/wiki/花唄_\(TOKIOの曲\))から翻訳されています。
 
 
-「**花唄**」（はなうた）は、[TOKIO](../Page/TOKIO.md "wikilink")の25作目の[シングル](../Page/シングル.md "wikilink")曲。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[ユニバーサルJから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+「**花唄**」（はなうた）は、[TOKIO](../Page/TOKIO.md "wikilink")の25作目の[シングル](../Page/シングル.md "wikilink")曲。[2002年](../Page/2002年.md "wikilink")（平成14年）[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[ユニバーサルJから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 

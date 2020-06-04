@@ -119,6 +119,13 @@ MC.202の前身である[M.C.200サエッタは開戦時のイタリア空軍主
 | MC.202 セリエIX      | MM9667 366 | [Macchi_202.JPG](https://ja.wikipedia.org/wiki/File:Macchi_202.JPG "fig:Macchi_202.JPG")                                                                                                                         | イタリア ラツィオ州     | [ヴィーニャ・ディ・ヴァッレ空軍歴史博物館](../Page/ヴィーニャ・ディ・ヴァッレ空軍歴史博物館.md "wikilink")[3](http://www.aeronautica.difesa.it/storia/museostorico/Pagine/default.aspx) | 公開   | 静態展示 | [4](http://www.aeronautica.difesa.it/storia/museostorico/Pagine/MacchiMC202.aspx)  |
 |                   |            |                                                                                                                                                                                                                   |                |                                                                                                                                                 |      |      |                                                                                    |
 
+## 登場作品
+
+### ゲーム
+
+  - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
+    プレイヤーの操縦機体としてC.202、C202EC（翼下に20mm機関砲を装着した型）が登場する。
+
 ## 脚注
 
 ### 注釈

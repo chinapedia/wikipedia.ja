@@ -46,6 +46,7 @@
   - MS-14S [ゲルググ](../Page/ゲルググ.md "wikilink")
   - MSM-04 [アッガイ](../Page/アッガイ.md "wikilink")
   - RXｰ78-2 ガンダム マグネットコーティングVer.
+  - MSM-10 [ゾック](../Page/ゾック.md "wikilink")
 
 ## 関連書籍
 

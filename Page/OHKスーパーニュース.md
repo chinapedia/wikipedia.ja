@@ -1,7 +1,7 @@
 > この記事は[OHKスーパーニュース](https://ja.wikipedia.org/wiki/OHKスーパーニュース)から翻訳されています。
 
 
-『**OHKスーパーニュース**』（オーエイチケー スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*OHK Super NEWS*）は、[岡山放送](../Page/岡山放送.md "wikilink")（OHK、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")をサービスエリアとする[FNN系列局](../Page/フジニュースネットワーク.md "wikilink")）で夕方に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』が放送開始されたのに伴い、同日よりOHKでも準拠して放送開始された。
+『**OHKスーパーニュース**』（オーエイチケー スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*OHK Super NEWS*）は、[岡山放送](../Page/岡山放送.md "wikilink")（OHK、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")をサービスエリアとする[FNN系列局](../Page/フジニュースネットワーク.md "wikilink")）で夕方に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")に[キー局](../Page/キー局.md "wikilink")の[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』が放送開始されたのに伴い、同日よりOHKでも準拠して放送開始された。
 
 ## 概要
 

@@ -7,11 +7,13 @@
 
 suは一般的に、コマンドラインのターミナルから実行される。suを実行すると、切り替え先ユーザのパスワードが要求され、認証が成功した場合は、そのアカウントへのアクセス権限が与えられる。
 
-`johndoe@klinger:~$ su`
-`Password: `
-`root@klinger# exit`
-`exit`
-`johndoe@klinger:~$`
+``` console
+johndoe@klinger:~$ su
+Password:
+root@klinger# exit
+exit
+johndoe@klinger:~$
+```
 
 関連するコマンドとして[sudo](https://ja.wikipedia.org/wiki/sudo "wikilink")がある。[sudo](https://ja.wikipedia.org/wiki/sudo "wikilink")を用いれば、別のユーザの権限でコマンドを実行できる。
 
@@ -19,7 +21,9 @@ suは一般的に、コマンドラインのターミナルから実行される
 
 システム管理者は、不正な利用者によってroot権限を取得されないように、[root](https://ja.wikipedia.org/wiki/root "wikilink")のパスワードを慎重に決定しなければならない。 [Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")システムによっては[Wheel](https://ja.wikipedia.org/wiki/Wheel "wikilink")グループが存在し、[Wheel](https://ja.wikipedia.org/wiki/Wheel "wikilink")グループに所属していないユーザはsuコマンドでroot権限を得ることができない。 この仕組みによって、侵入者がroot権限を得る可能性を軽減できる。 しかしながら、[GNU](../Page/GNU.md "wikilink") suは思想的な理由により[Wheel](https://ja.wikipedia.org/wiki/Wheel "wikilink")グループをサポートしない。
 
-[Windows XPにもrunasという類似コマンドが存在する](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")。[runas](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/runas.mspx)
+[Windows XPにもrunasという類似コマンドが存在する](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")\[1\]。
+
+## 脚注
 
 ## 外部リンク
 
@@ -28,3 +32,5 @@ suは一般的に、コマンドラインのターミナルから実行される
   - [su(1)](https://nixdoc.net/man-pages/HP-UX/man1/su.1.html) man page（HP-UX リファレンス）
 
 [Category:UNIXのソフトウェア](https://ja.wikipedia.org/wiki/Category:UNIXのソフトウェア "wikilink") [Category:システム管理](https://ja.wikipedia.org/wiki/Category:システム管理 "wikilink")
+
+1.  [runas](http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/runas.mspx)

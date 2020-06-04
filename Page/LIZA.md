@@ -95,7 +95,7 @@
 
   -
   -
-[Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:Oggiモデル](https://ja.wikipedia.org/wiki/Category:Oggiモデル "wikilink") [Category:ガールズアワード出演モデル](https://ja.wikipedia.org/wiki/Category:ガールズアワード出演モデル "wikilink") [Category:オスカープロモーションの人物](https://ja.wikipedia.org/wiki/Category:オスカープロモーションの人物 "wikilink") [Category:1989年生](https://ja.wikipedia.org/wiki/Category:1989年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本の女性タレント](https://ja.wikipedia.org/wiki/Category:日本の女性タレント "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:ガールズアワード出演モデル](https://ja.wikipedia.org/wiki/Category:ガールズアワード出演モデル "wikilink") [Category:ハンブルク出身の人物](https://ja.wikipedia.org/wiki/Category:ハンブルク出身の人物 "wikilink") [Category:オスカープロモーションの人物](https://ja.wikipedia.org/wiki/Category:オスカープロモーションの人物 "wikilink") [Category:1989年生](https://ja.wikipedia.org/wiki/Category:1989年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [公式サイトのバイオグラフィー](http://lizakennedy.com/biography/)
 2.  『[アナザースカイ](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）\[<http://www.ntv.co.jp/anothersky/090102.html>　2009年1月2日放送分\]

@@ -568,7 +568,7 @@
 
 ## 外部リンク
 
-  - [ラブゲッCHU ミラクル声優白書](http://www.tv-tokyo.co.jp/anime/get-chu/)（テレビ東京）
+  - [ラブゲッCHU ミラクル声優白書](https://www.tv-tokyo.co.jp/anime/get-chu/)（テレビ東京）
   - [パチスロ版ラブゲッCHU ミラクル声優白書](http://www.okazakisangyo.com/slot/lovegetchu/)（岡崎産業）
 
 [Category:アニメ作品_ら](https://ja.wikipedia.org/wiki/Category:アニメ作品_ら "wikilink") [Category:テレビ東京の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜アニメ "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:芸能界を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:芸能界を舞台としたアニメ作品 "wikilink") [Category:声優を題材とした作品](https://ja.wikipedia.org/wiki/Category:声優を題材とした作品 "wikilink") [Category:岡崎産業](https://ja.wikipedia.org/wiki/Category:岡崎産業 "wikilink")

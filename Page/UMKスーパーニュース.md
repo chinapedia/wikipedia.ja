@@ -90,7 +90,7 @@
   - [吉田愛美](https://ja.wikipedia.org/wiki/吉田愛美 "wikilink")（スポーツキャスター担当）
   - [鶴衛真理](https://ja.wikipedia.org/wiki/鶴衛真理 "wikilink")（スポーツキャスター担当）
   - [利国理砂](https://ja.wikipedia.org/wiki/利国理砂 "wikilink")（スポーツキャスター担当）
-  - [増田明美](https://ja.wikipedia.org/wiki/増田明美_\(アナウンサー\) "wikilink")（スポーツキャスター担当）
+  - [増田明美](../Page/増田明美_\(アナウンサー\).md "wikilink")（スポーツキャスター担当）
   - [池田麻里子](../Page/池田麻里子.md "wikilink")（スポーツキャスター担当、2007年2月1日まで担当）
   - [首藤真吾](../Page/首藤真吾.md "wikilink")（スポーツキャスター、2012年3月30日まで担当）
   - 児玉泰一郎（スポーツキャスター、2012年3月28日まで担当）

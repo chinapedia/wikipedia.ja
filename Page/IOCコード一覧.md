@@ -1589,12 +1589,6 @@ WAL </p></td>
 <td><p>1896–1904</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -1626,12 +1620,6 @@ WAL </p></td>
 <td><p>NPA</p></td>
 <td></td>
 <td><p>2018</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 </tbody>

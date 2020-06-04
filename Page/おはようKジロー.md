@@ -81,7 +81,7 @@
 <!-- end list -->
 
   - 景山絵里（かげやま　えり）
-    野球部の[監督](../Page/監督.md "wikilink")。Kジローのクラスの担任でもある。[プロ野球](../Page/プロ野球.md "wikilink")「千葉チキンズ」（作品中の架空球団。[ロッテオリオンズ](https://ja.wikipedia.org/wiki/ロッテオリオンズ "wikilink")が千葉移転を決めた3年前に書かれた。フランチャイズは「船橋球場」）の、景山監督の一人娘。父親譲りの気性の激しさと頑固さは、采配にもあらわれるほど。[アメリカに野球留学したこともあり](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、選手としても監督としても並みの男以上の実力を見せる。
+    野球部の[監督](../Page/監督.md "wikilink")。Kジローのクラスの担任でもある。[プロ野球](../Page/プロ野球.md "wikilink")「千葉チキンズ」（作品中の架空球団。[ロッテ・オリオンズが千葉移転を決めた](../Page/千葉ロッテマリーンズ.md "wikilink")3年前に書かれた。フランチャイズは「船橋球場」）の、景山監督の一人娘。父親譲りの気性の激しさと頑固さは、采配にもあらわれるほど。[アメリカに野球留学したこともあり](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、選手としても監督としても並みの男以上の実力を見せる。
 
 <!-- end list -->
 
@@ -130,4 +130,4 @@
     作者が双子の球児を見て、試合中に入れ替わったら面白いだろうなとコメントしている。
     阿久根・飛島・沢村・蔵田・岩神・明智・大前田・俵星・秋・そしてKジロー。冠学園野球部の最後の戦いの結末はいかに。
 
-[Category:水島新司の漫画作品](https://ja.wikipedia.org/wiki/Category:水島新司の漫画作品 "wikilink") [Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:1989年の漫画](https://ja.wikipedia.org/wiki/Category:1989年の漫画 "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:千葉県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした漫画作品 "wikilink")
+[Category:水島新司の漫画作品](https://ja.wikipedia.org/wiki/Category:水島新司の漫画作品 "wikilink") [Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:1989年の漫画](https://ja.wikipedia.org/wiki/Category:1989年の漫画 "wikilink") [Category:週刊少年チャンピオンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年チャンピオンの漫画作品 "wikilink") [Category:野球漫画](https://ja.wikipedia.org/wiki/Category:野球漫画 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:千葉県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:千葉県を舞台とした漫画作品 "wikilink")

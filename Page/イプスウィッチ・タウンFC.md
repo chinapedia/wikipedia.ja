@@ -5,9 +5,9 @@
 
 [アルフ・ラムゼイ](https://ja.wikipedia.org/wiki/アルフ・ラムゼイ "wikilink")が率いた1961-62シーズンにリーグを制し、[ボビー・ロブソン](../Page/ボビー・ロブソン.md "wikilink")が率いた1977-78シーズンには[FAカップ](../Page/FAカップ.md "wikilink")を獲得した。1980-81シーズンには2試合合計スコア5対4で[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[AZを破り](../Page/AZアルクマール.md "wikilink")、[UEFAカップを獲得した](../Page/UEFAヨーロッパリーグ.md "wikilink")。
 
-## タイトル
-
 [Portman_Road_aerial_(cropped).jpg](https://ja.wikipedia.org/wiki/File:Portman_Road_aerial_\(cropped\).jpg "fig:Portman_Road_aerial_(cropped).jpg")\]\]
+
+## タイトル
 
 ### 国内タイトル
 
@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td><p>1969-70</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>10</p></td>
 <td><p>11</p></td>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>1970-71</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>12</p></td>
 <td><p>10</p></td>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="odd">
 <td><p>1971-72</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>11</p></td>
 <td><p>16</p></td>
@@ -91,7 +91,7 @@
 </tr>
 <tr class="even">
 <td><p>1972-73</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>17</p></td>
 <td><p>14</p></td>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td><p>1973-74</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>18</p></td>
 <td><p>11</p></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>1974-75</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>23</p></td>
 <td><p>5</p></td>
@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td><p>1975-76</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>16</p></td>
 <td><p>14</p></td>
@@ -127,7 +127,7 @@
 </tr>
 <tr class="even">
 <td><p>1976-77</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>22</p></td>
 <td><p>8</p></td>
@@ -136,7 +136,7 @@
 </tr>
 <tr class="odd">
 <td><p>1977-78</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>11</p></td>
 <td><p>13</p></td>
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>1978-79</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>20</p></td>
 <td><p>9</p></td>
@@ -154,7 +154,7 @@
 </tr>
 <tr class="odd">
 <td><p>1979-80</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>22</p></td>
 <td><p>9</p></td>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="even">
 <td><p>1980-81</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>23</p></td>
 <td><p>10</p></td>
@@ -172,7 +172,7 @@
 </tr>
 <tr class="odd">
 <td><p>1981-82</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>26</p></td>
 <td><p>5</p></td>
@@ -181,7 +181,7 @@
 </tr>
 <tr class="even">
 <td><p>1982-83</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>15</p></td>
 <td><p>13</p></td>
@@ -190,7 +190,7 @@
 </tr>
 <tr class="odd">
 <td><p>1983-84</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>15</p></td>
 <td><p>8</p></td>
@@ -199,7 +199,7 @@
 </tr>
 <tr class="even">
 <td><p>1984-85</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>13</p></td>
 <td><p>11</p></td>
@@ -208,7 +208,7 @@
 </tr>
 <tr class="odd">
 <td><p>1985-86</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>11</p></td>
 <td><p>8</p></td>
@@ -226,7 +226,7 @@
 </tr>
 <tr class="odd">
 <td><p>1987-88</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・セカンドディビジョン" title="wikilink">ディビジョン2</a></p></td>
+<td><p>ディビジョン2</p></td>
 <td><p>44</p></td>
 <td><p>19</p></td>
 <td><p>9</p></td>
@@ -235,7 +235,7 @@
 </tr>
 <tr class="even">
 <td><p>1988-89</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・セカンドディビジョン" title="wikilink">ディビジョン2</a></p></td>
+<td><p>ディビジョン2</p></td>
 <td><p>46</p></td>
 <td><p>22</p></td>
 <td><p>7</p></td>
@@ -244,7 +244,7 @@
 </tr>
 <tr class="odd">
 <td><p>1989-90</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・セカンドディビジョン" title="wikilink">ディビジョン2</a></p></td>
+<td><p>ディビジョン2</p></td>
 <td><p>46</p></td>
 <td><p>19</p></td>
 <td><p>12</p></td>
@@ -253,7 +253,7 @@
 </tr>
 <tr class="even">
 <td><p>1990-91</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・セカンドディビジョン" title="wikilink">ディビジョン2</a></p></td>
+<td><p>ディビジョン2</p></td>
 <td><p>46</p></td>
 <td><p>13</p></td>
 <td><p>18</p></td>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="odd">
 <td><p>1991-92</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・セカンドディビジョン" title="wikilink">ディビジョン2</a></p></td>
+<td><p>ディビジョン2</p></td>
 <td><p>46</p></td>
 <td><p>24</p></td>
 <td><p>12</p></td>
@@ -280,7 +280,7 @@
 </tr>
 <tr class="odd">
 <td><p>1993-94</p></td>
-<td><p><a href="../Page/プレミアリーグ.md" title="wikilink">プレミア</a></p></td>
+<td><p>プレミア</p></td>
 <td><p>42</p></td>
 <td><p>9</p></td>
 <td><p>16</p></td>
@@ -289,7 +289,7 @@
 </tr>
 <tr class="even">
 <td><p>1994-95</p></td>
-<td><p><a href="../Page/プレミアリーグ.md" title="wikilink">プレミア</a></p></td>
+<td><p>プレミア</p></td>
 <td><p>42</p></td>
 <td><p>7</p></td>
 <td><p>6</p></td>
@@ -298,7 +298,7 @@
 </tr>
 <tr class="odd">
 <td><p>1995-96</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>19</p></td>
 <td><p>12</p></td>
@@ -307,7 +307,7 @@
 </tr>
 <tr class="even">
 <td><p>1996-97</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>20</p></td>
 <td><p>14</p></td>
@@ -316,7 +316,7 @@
 </tr>
 <tr class="odd">
 <td><p>1997-98</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>23</p></td>
 <td><p>14</p></td>
@@ -325,7 +325,7 @@
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>26</p></td>
 <td><p>8</p></td>
@@ -333,8 +333,8 @@
 <td><p>69</p></td>
 </tr>
 <tr class="odd">
-<td><p>1999-2000</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>1999-00</p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>25</p></td>
 <td><p>12</p></td>
@@ -343,7 +343,7 @@
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
-<td><p><a href="../Page/プレミアリーグ.md" title="wikilink">プレミア</a></p></td>
+<td><p>プレミア</p></td>
 <td><p>38</p></td>
 <td><p>20</p></td>
 <td><p>6</p></td>
@@ -352,7 +352,7 @@
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
-<td><p><a href="../Page/プレミアリーグ.md" title="wikilink">プレミア</a></p></td>
+<td><p>プレミア</p></td>
 <td><p>38</p></td>
 <td><p>9</p></td>
 <td><p>9</p></td>
@@ -361,7 +361,7 @@
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>19</p></td>
 <td><p>13</p></td>
@@ -370,7 +370,7 @@
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・ファーストディビジョン" title="wikilink">ディビジョン1</a></p></td>
+<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>21</p></td>
 <td><p>10</p></td>
@@ -388,7 +388,7 @@
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>14</p></td>
@@ -397,7 +397,7 @@
 </tr>
 <tr class="even">
 <td><p>2006-07</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>8</p></td>
@@ -406,7 +406,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007-08</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>15</p></td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
 <td><p>15</p></td>
@@ -424,7 +424,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009-10</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>12</p></td>
 <td><p>20</p></td>
@@ -433,7 +433,7 @@
 </tr>
 <tr class="even">
 <td><p>2010-11</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>8</p></td>
@@ -442,7 +442,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011-12</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
 <td><p>10</p></td>
@@ -451,7 +451,7 @@
 </tr>
 <tr class="even">
 <td><p>2012-13</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>12</p></td>
@@ -460,7 +460,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013-14</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>14</p></td>
@@ -469,7 +469,7 @@
 </tr>
 <tr class="even">
 <td><p>2014-15</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>22</p></td>
 <td><p>12</p></td>
@@ -478,7 +478,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015-16</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>18</p></td>
 <td><p>15</p></td>
@@ -487,7 +487,7 @@
 </tr>
 <tr class="even">
 <td><p>2016-17</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>13</p></td>
 <td><p>16</p></td>
@@ -496,7 +496,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>17</p></td>
 <td><p>9</p></td>
@@ -505,7 +505,7 @@
 </tr>
 <tr class="even">
 <td><p>2018-19</p></td>
-<td><p><a href="../Page/EFLチャンピオンシップ.md" title="wikilink">チャンピオン</a></p></td>
+<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>5</p></td>
 <td><p>16</p></td>
@@ -570,11 +570,13 @@
 
   - [ブライアン・クラグ](https://ja.wikipedia.org/wiki/ブライアン・クラグ "wikilink") 2018.4.11 - 2018.5.6
 
+  - [ポール・ハースト](https://ja.wikipedia.org/wiki/ポール・ハースト_\(サッカー選手\) "wikilink") 2018 .5.30 - 2018.10.25
+
+  - [ポール・ランバート](../Page/ポール・ランバート.md "wikilink") 2018.10.27 -
+
 ## 歴代所属選手
 
-  - GK
-
-<!-- end list -->
+### GK
 
   - [ルイス・プライス](../Page/ルイス・プライス.md "wikilink") 2003-2007
 
@@ -582,11 +584,7 @@
 
   - [ヒュレプ・マールトン](https://ja.wikipedia.org/wiki/ヒュレプ・マールトン "wikilink") 2010-2011
 
-<!-- end list -->
-
-  - DF
-
-<!-- end list -->
+### DF
 
   - [マウリシオ・タリッコ](https://ja.wikipedia.org/wiki/マウリシオ・タリッコ "wikilink") 1994-1998
 
@@ -594,11 +592,7 @@
 
   - [ヘルマン・ヘレイザルソン](https://ja.wikipedia.org/wiki/ヘルマン・ヘレイザルソン "wikilink") 2000-2003
 
-<!-- end list -->
-
-  - MF
-
-<!-- end list -->
+### MF
 
   - [キーロン・ダイアー](../Page/キーロン・ダイアー.md "wikilink") 1996-1999
 
@@ -614,11 +608,7 @@
 
   - [イバン・カンポ](../Page/イバン・カンポ.md "wikilink") 2008-2009
 
-<!-- end list -->
-
-  - FW
-
-<!-- end list -->
+### FW
 
   - [ダレン・ベント](../Page/ダレン・ベント.md "wikilink") 2001-2005
 

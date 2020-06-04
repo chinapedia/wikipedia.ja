@@ -1,7 +1,7 @@
 > この記事は[愛の言霊 〜Spiritual Message〜](https://ja.wikipedia.org/wiki/愛の言霊_〜Spiritual_Message〜)から翻訳されています。
 
 
-「**愛の言霊 〜Spiritual Message〜**」（あいのことだま スピリチュアル・メッセージ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の37枚目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+「**愛の言霊 〜Spiritual Message〜**」（あいのことだま スピリチュアル・メッセージ）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の37作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[8cmCDで](https://ja.wikipedia.org/wiki/8センチCD "wikilink")[1996年](../Page/1996年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に発売された。
 
 [2005年](../Page/2005年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")には12cmCDで再発売されている。
 

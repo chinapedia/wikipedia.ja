@@ -1,7 +1,7 @@
 > この記事は[M-3SIIロケット](https://ja.wikipedia.org/wiki/M-3SIIロケット)から翻訳されています。
 
 
-**M-3SIIロケット**（**ミュースリーエスツー**、[ギリシア文字](../Page/ギリシア文字.md "wikilink")のミューに[ローマ数字](../Page/ローマ数字.md "wikilink")のII）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[文部省](../Page/文部省.md "wikilink")[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")（現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")宇宙科学研究所、ISAS）が[日産自動車](../Page/日産自動車.md "wikilink")宇宙航空事業部（現[IHIエアロスペース](../Page/IHIエアロスペース.md "wikilink")、以下 日産）と共同で開発し、日産が製造、ISASが運用した3段式の[固体燃料](../Page/ロケットエンジンの推進剤.md "wikilink")[ロケット](../Page/ロケット.md "wikilink")。
+**M-3SIIロケット**（**ミュースリーエスツー**、[ギリシア文字](../Page/ギリシア文字.md "wikilink")のミューに[ローマ数字](../Page/ローマ数字.md "wikilink")のII）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[文部省](../Page/文部省.md "wikilink")[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")（現[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")宇宙科学研究所、ISAS）が[日産自動車](../Page/日産自動車.md "wikilink")宇宙航空事業部（現[IHIエアロスペース](../Page/IHIエアロスペース.md "wikilink")、以下 日産）と共同で開発し、日産が製造、ISASが運用した3段式の[固体燃料](../Page/ロケットエンジンの推進剤.md "wikilink")[ロケット](../Page/ロケット.md "wikilink")。
 
 ## 概要
 

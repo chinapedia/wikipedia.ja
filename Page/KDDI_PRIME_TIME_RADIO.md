@@ -13,4 +13,4 @@
 
 JFN系列では当時、日曜日の[時報](../Page/時報.md "wikilink")は[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")が担当していたが、13時の時報のみ「アースコンシャス」に変更になっている。これは後番組の「au DOWNLOAD MUSIC CHART」についても同様である。
 
-[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:KDDIグループの歴史](https://ja.wikipedia.org/wiki/Category:KDDIグループの歴史 "wikilink")
+[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:KDDI一社提供番組](https://ja.wikipedia.org/wiki/Category:KDDI一社提供番組 "wikilink")

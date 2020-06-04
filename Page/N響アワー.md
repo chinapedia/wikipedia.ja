@@ -243,7 +243,7 @@
 
   - \- 番組公式サイト
 
-  - [NHKアーカイブス](http://www.nhk.or.jp/archives/index.html) - [NHKアーカイブス (施設)](https://ja.wikipedia.org/wiki/NHKアーカイブス_\(施設\) "wikilink")
+  - [NHKアーカイブス](https://www.nhk.or.jp/archives/index.html) - [NHKアーカイブス (施設)](https://ja.wikipedia.org/wiki/NHKアーカイブス_\(施設\) "wikilink")
 
       -
         TOP→「NHKアーカイブス保存番組の検索」→「N響アワー」→「タイトル順 放送日順」で、第1回からのタイトルが閲覧可能。

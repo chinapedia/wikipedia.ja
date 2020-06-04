@@ -1,7 +1,7 @@
 > この記事は[FIREBALL \(B\'zの曲\)](https://ja.wikipedia.org/wiki/FIREBALL_\(B\'zの曲\))から翻訳されています。
 
 
-「**FIREBALL**」 (ファイヤーボール)は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[BMGルームスより](../Page/VERMILLION_RECORDS.md "wikilink")21作目の[シングル](../Page/シングル.md "wikilink")として発売された。
+「**FIREBALL**」 (ファイヤーボール)は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")21作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 

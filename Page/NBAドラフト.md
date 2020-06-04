@@ -353,7 +353,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッドソン大学" title="wikilink">デビッドソン大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/デイビッドソン大学" title="wikilink">デイビッドソン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -606,7 +606,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <td></td>
 <td></td>
 <td><p><a href="../Page/センター_(バスケットボール).md" title="wikilink">C</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイスビル大学" title="wikilink">ルイスビル大学</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ルイビル大学" title="wikilink">ルイビル大学</a></p></td>
 <td></td>
 <td></td>
 </tr>

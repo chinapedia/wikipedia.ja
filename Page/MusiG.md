@@ -244,7 +244,7 @@
 <td><p>6日遅れ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p>毎週水曜 24:31-25:01</p></td>
 <td><p>6日遅れ</p></td>
 </tr>

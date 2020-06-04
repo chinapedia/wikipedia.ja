@@ -3,21 +3,21 @@
 
 **ティーガーII**（）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[重戦車](../Page/重戦車.md "wikilink")（70トン級）である[VI号戦車](../Page/VI号戦車.md "wikilink")の通称。VI号戦車にはI型とII型の2種類の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")が存在し、それぞれ**[ティーガーI](../Page/ティーガーI.md "wikilink")**、**ティーガーII**と呼ばれる。本稿での表記は**ティーガーII**で統一する。
 
-[ノルマンディー戦線でこの戦車を見た](../Page/ノルマンディー上陸作戦.md "wikilink")[アメリカ軍](../Page/アメリカ軍.md "wikilink")は「**キング・タイガー**」と呼び、[イギリス軍](../Page/イギリス軍.md "wikilink")は「**ロイヤル・タイガー**」とあだ名した。この渾名がドイツに逆輸入され、「**ケーニッヒス・ティーガー**（）」（ドイツ語での意味は「王の虎」、[ベンガルトラ](https://ja.wikipedia.org/wiki/ベンガルトラ "wikilink")）と翻訳された。なお[ソ連赤軍からは](../Page/赤軍.md "wikilink")[パンターの発展型と解釈され](../Page/V号戦車パンター.md "wikilink")、前線では「新型豹戦車」と呼ばれた。
+[ノルマンディー戦線でこの戦車を見た](../Page/ノルマンディー上陸作戦.md "wikilink")[アメリカ軍](../Page/アメリカ軍.md "wikilink")は「**キング・タイガー**」と呼び、[イギリス軍](../Page/イギリス軍.md "wikilink")は「**ロイヤル・タイガー**」とあだ名した。この[渾名](https://ja.wikipedia.org/wiki/渾名 "wikilink")がドイツに逆輸入され、「**ケーニッヒス・ティーガー**（）」（ドイツ語での意味は「王の虎」、[ベンガルトラ](https://ja.wikipedia.org/wiki/ベンガルトラ "wikilink")）と翻訳された。なお[ソ連赤軍からは](../Page/赤軍.md "wikilink")[パンターの発展型と解釈され](../Page/V号戦車パンター.md "wikilink")、前線では「新型豹戦車」と呼ばれた。
 
 ## 概要
 
 設計概念は[ティーガーI](../Page/ティーガーI.md "wikilink")を踏襲したが、車体には更なる重装甲、重武装が施され、[パンターと同じように傾斜装甲が採用された](../Page/V号戦車パンター.md "wikilink")。車体のデザインはティーガーIよりもむしろパンターの発展型といえるが、トランスミッションはティーガーIの流れを汲んだものである。ティーガーIIの重量は68.5トンから69.8トンにもおよび、前面装甲は150-180mmの厚さを持ち、8.8 cm KwK 43/2 L/71戦車砲が主武装となった。[車台](../Page/プラットフォーム_\(自動車\).md "wikilink")（シャーシ）はほぼ併行して開発されていた[ヤークトティーガー](../Page/ヤークトティーガー.md "wikilink")に、その延長型が流用された。
 
-ティーガーIIが戦線に投入された時点で、その重装甲および強力な主砲に事実上対抗できる戦車は存在しなかった\[1\]。これは[西部戦線で特に顕著で](../Page/西部戦線_\(第二次世界大戦\).md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[アメリカ両軍は対抗しうる重戦車を保有していなかった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。戦闘中にその前面装甲を貫通した事例の記録・証言が現在に至るまで発見されていない\[2\]ことが、本車の防御力の高さを証明している。防御陣地に配備されたティーガーIIはその重装甲の効果を遺憾なく発揮したが、機動性に乏しく攻勢時にはさほど威力を発揮できず、期待をかけていた[ヒトラーの失望を誘った](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")。
+ティーガーIIが戦線に投入された時点で、その重装甲および強力な主砲に事実上対抗できる戦車は存在しなかった\[1\]。これは[西部戦線で特に顕著で](../Page/西部戦線_\(第二次世界大戦\).md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[アメリカ両軍は対抗しうる重戦車を保有していなかった](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。戦闘中にその前面装甲を貫通した事例の記録・証言が現在に至るまで発見されていない\[2\]ことが、本車の防御力の高さを証明している。[防御](../Page/防御_\(戦術論\).md "wikilink")[陣地](../Page/陣地.md "wikilink")に配備されたティーガーIIはその重装甲の効果を遺憾なく発揮したが、機動性に乏しく攻勢時にはさほど威力を発揮できず、期待をかけていた[ヒトラーの失望を誘った](https://ja.wikipedia.org/wiki/アドルフ・ヒトラー "wikilink")。
 
-[thumbでの](https://ja.wikipedia.org/wiki/ファイル:Bundesarchiv_Bild_101I-680-8283A-12A,_Budapest,_marschierende_Pfeilkreuzler_und_Panzer_VI.jpg "wikilink")[第503重戦車大隊](https://ja.wikipedia.org/wiki/第503重戦車大隊 "wikilink")のティーガー（1944年10月）\]\] ティーガーIIの開発は大戦後半であり、試作車も含めて1943年9月から1945年3月の生産終了までに489両と比較的少数の生産に終わった。これは、生産工程が複雑であるのに加え、1944年9月から空爆により何度も工場が破壊され生産が中断したことが大きく、計画通りであれば更に650両をこえるティーガーIIが完成していたはずであったという。
+[thumbでの](https://ja.wikipedia.org/wiki/ファイル:Bundesarchiv_Bild_101I-680-8283A-12A,_Budapest,_marschierende_Pfeilkreuzler_und_Panzer_VI.jpg "wikilink")[第503重戦車大隊](https://ja.wikipedia.org/wiki/第503重戦車大隊 "wikilink")のティーガー（1944年10月）\]\] ティーガーIIの開発は[大戦後半であり](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")、[試作車](https://ja.wikipedia.org/wiki/試作車 "wikilink")も含めて[1943年](../Page/1943年.md "wikilink")9月から[1945年](../Page/1945年.md "wikilink")3月の[生産終了](https://ja.wikipedia.org/wiki/生産終了 "wikilink")までに489輌と比較的少数の生産に終わった。これは、生産工程が複雑であるのに加え、1944年9月から空爆により何度も工場が破壊され生産が中断したことが大きく、計画通りであれば更に650両をこえるティーガーIIが完成していたはずであったという。
 
-他のドイツ戦車同様にティーガーIIは[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")を装備したが、より軽いパンターやティーガーIに装備された物と同じであったため、慢性的に出力不足に悩まされた。本車は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に使用された他の重戦車同様、大量の燃料を消費した。これは補給が不足がちな大戦後半には運用上深刻な問題となった。戦闘で撃破されたティーガーIIよりも、燃料切れや故障で放棄された車両の方が多かったという。 {{-}}
+他のドイツ戦車同様にティーガーIIは[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")を装備したが、より軽い[パンターやティーガーIに装備された物と同じであったため](../Page/V号戦車パンター.md "wikilink")、慢性的に出力不足に悩まされた。本車は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に使用された他の[重戦車](../Page/重戦車.md "wikilink")同様、大量の[燃料](../Page/燃料.md "wikilink")を[消費](../Page/消費.md "wikilink")した。これは[補給](../Page/補給.md "wikilink")が不足がちな大戦後半には運用上深刻な問題となった。[戦闘](../Page/戦闘.md "wikilink")で[撃破](https://ja.wikipedia.org/wiki/撃破 "wikilink")されたティーガーIIよりも、燃料切れや[故障](../Page/故障.md "wikilink")で[放棄](https://ja.wikipedia.org/wiki/放棄 "wikilink")された車両の方が多かったという。 {{-}}
 
 ## 設計
 
-### 砲塔
+### [砲塔](../Page/砲塔.md "wikilink")
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Bundesarchiv_Bild_101I-721-0397-29,_Frankreich,_Panzer_VI_\(Tiger_II,_Königstiger\).jpg "wikilink") 本車の開発は[ヘンシェル](https://ja.wikipedia.org/wiki/ヘンシェル "wikilink")および[ポルシェ](../Page/ポルシェ.md "wikilink")の両社に発注され、各社用の砲塔が[クルップ](../Page/クルップ.md "wikilink")社によってそれぞれ設計された。どちらも前面の厚い装甲と長い砲身の重量バランスをとるため、カウンターウエイトの役を果たすため後部が延長されており、内部は即応砲弾用のラックになっていた。また、トーションバー・サスペンションのせいで床下に脱出ハッチを設置できず、代わりに砲塔後部に置かれた。キューポラはティーガーIの中期型以降と同じ、ペリスコープによる間接視認型であった。
 

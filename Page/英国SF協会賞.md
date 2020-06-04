@@ -7,7 +7,7 @@
 
 ファンの手で優れた作品を顕彰することに加え、SFジャンルを振興し、読者を増やし、同時代SFについて語り合い、楽しむことも目的として掲げている\[1\]。
 
-長編部門、短編部門、ノンフィクション部門、アートワーク部門がある（かつてはメディア部門も存在した）。
+長編部門、中短編部門、ノンフィクション部門、アートワーク部門がある（かつてはメディア部門も存在した）。
 
 対象となるのはイギリスでの初刊行年である。そのため、アメリカなどで以前に刊行済の作品でもノミネート対象となる。
 
@@ -69,8 +69,9 @@
   - 2016年  *Europe in Winter*
   - 2017年  *The Rift*
   - 2018年 [ガレス・L・パウエル](../Page/ガレス・L・パウエル.md "wikilink") *Embers of War*
+  - 2019年  '’Children of Ruin’’
 
-### 短編部門
+### 中短編部門
 
   - 1979年 クリストファー・プリースト「青ざめた逍遥」"The Palely Loitering"
   - 1980年 [トマス・M・ディッシュ](../Page/トマス・M・ディッシュ.md "wikilink")「[いさましいちびのトースター](https://ja.wikipedia.org/wiki/いさましいちびのトースター "wikilink")」"The Brave Little Toaster"
@@ -111,7 +112,8 @@
   - 2015年  「哀しみの杯三つ、星明かりのもとで」 "Thirty Cups of Grief by Starlight"
   - 2016年  "Liberty Bird"
   - 2017年  "The Enclave"
-  - 2018年 イアン・マクドナルド "Time Was"
+  - 2018年 イアン・マクドナルド *Time Was*
+  - 2019年  &  *This is How You Lose the Time War*
 
 ## 脚注
 

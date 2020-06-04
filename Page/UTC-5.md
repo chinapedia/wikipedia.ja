@@ -48,7 +48,7 @@
           - ヌナブト準州のうち、西経85度線から[西経102度線](https://ja.wikipedia.org/wiki/西経102度線 "wikilink")の間の地域（[キティクメオト地域](https://ja.wikipedia.org/wiki/キティクメオト地域 "wikilink")を除く）
           - [マニトバ州](../Page/マニトバ州.md "wikilink")
 
-      -   - ほとんどの地域（キンタナ・ロー州、[シナロア州](../Page/シナロア州.md "wikilink")、[ソノラ州](../Page/ソノラ州.md "wikilink")、[チワワ州](../Page/チワワ州.md "wikilink")、[ナヤリット州](https://ja.wikipedia.org/wiki/ナヤリット州 "wikilink")の大部分、[バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")、[バハ・カリフォルニア・スル州](../Page/バハ・カリフォルニア・スル州.md "wikilink")を除く）
+      -   - ほとんどの地域（キンタナ・ロー州、[シナロア州](../Page/シナロア州.md "wikilink")、[ソノラ州](../Page/ソノラ州.md "wikilink")、[チワワ州](../Page/チワワ州.md "wikilink")、[ナヤリット州](../Page/ナヤリット州.md "wikilink")の大部分、[バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")、[バハ・カリフォルニア・スル州](../Page/バハ・カリフォルニア・スル州.md "wikilink")を除く）
 
 ### 夏時間（南半球）
 

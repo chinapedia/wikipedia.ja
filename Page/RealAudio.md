@@ -53,6 +53,6 @@ RealAudioファイルの拡張子は[1995年](https://ja.wikipedia.org/wiki/1995
 
 ## 外部リンク
 
-  - [リアルプレーヤー無料版](http://www.jp.real.com/downloadRP/download1.html)
+  - [リアルプレーヤー無料版](https://jp.real.com/)
 
 [Category:コーデック](https://ja.wikipedia.org/wiki/Category:コーデック "wikilink") [Category:音声ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:音声ファイルフォーマット "wikilink")

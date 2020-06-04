@@ -20,6 +20,7 @@
   - 悪役令嬢転生おじさん（[上山道郎](../Page/上山道郎.md "wikilink")）
   - アホゲノム〜座牟坂サタニックヘアー〜（[井上和郎](../Page/井上和郎.md "wikilink")）
   - 異世界狙撃手（スナイパー）は女戦士のモフモフ愛玩動物（ペット）（原作：[光永康則](../Page/光永康則.md "wikilink")、作画：いのまる）
+  - 美味しいエルフ（[ISUTOSHI](https://ja.wikipedia.org/wiki/ISUTOSHI "wikilink")）
   - [おくさん](https://ja.wikipedia.org/wiki/おくさん "wikilink")（[大井昌和](../Page/大井昌和.md "wikilink")）
   - 俺のキスで世界が変わるなら（[紺條夏生](https://ja.wikipedia.org/wiki/紺條夏生 "wikilink")）
   - オレは床で寝ます\!（9℃）

@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - 高信頼性ハイビジョンカメラ（[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")のセレーネプロジェクト関連）
+  - 高信頼性ハイビジョンカメラ（[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")のセレーネプロジェクト関連）
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@
 
 ## 外部リンク
 
-  - [NHK放送技術研究所公式サイト](http://www.nhk.or.jp/strl/index.html)
+  - [NHK放送技術研究所公式サイト](https://www.nhk.or.jp/strl/index.html)
 
   - [放送技術研究所建物](https://www.nhk.or.jp/strl/publica/kenkyushi/pdf/23.pdf)
 

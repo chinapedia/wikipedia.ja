@@ -772,7 +772,7 @@
 <td><p>35</p></td>
 <td></td>
 <td><p><a href="../Page/佐々木主浩.md" title="wikilink">佐々木主浩</a></p></td>
-<td><p>「大魔神佐々木」、当時の<a href="https://ja.wikipedia.org/wiki/横浜ベイスターズ" title="wikilink">横浜ベイスターズ</a>の選手で1998年に横浜が38年ぶりのリーグ優勝と38年ぶりの<a href="../Page/1998年の日本シリーズ.md" title="wikilink">日本シリーズ優勝</a>(日本一)の功労者で「<a href="https://ja.wikipedia.org/wiki/メジャーリーグベースボール" title="wikilink">メジャー</a>」に行く前。</p></td>
+<td><p>「大魔神佐々木」、当時の<a href="../Page/横浜DeNAベイスターズ.md" title="wikilink">横浜ベイスターズの選手で</a>1998年に横浜が38年ぶりのリーグ優勝と38年ぶりの<a href="../Page/1998年の日本シリーズ.md" title="wikilink">日本シリーズ優勝</a>(日本一)の功労者で「<a href="https://ja.wikipedia.org/wiki/メジャーリーグベースボール" title="wikilink">メジャー</a>」に行く前。</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
@@ -1173,7 +1173,7 @@
 <td><p>100</p></td>
 <td></td>
 <td><p><a href="../Page/極楽とんぼ.md" title="wikilink">極楽とんぼ</a></p></td>
-<td><p><a href="../Page/加藤浩次.md" title="wikilink">加藤浩次</a>が組んでいたコンビ。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>101</p></td>
@@ -1216,7 +1216,7 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/そのまんま東" title="wikilink">そのまんま東</a><br />
 佐藤江梨子</p></td>
-<td><p>現：東国原英夫（元・宮崎県知事）<br />
+<td><p>現：東国原英夫（元・宮崎県知事・衆議院議員）<br />
 新人座員役として。</p></td>
 </tr>
 <tr class="even">

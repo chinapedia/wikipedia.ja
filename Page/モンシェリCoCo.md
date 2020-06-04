@@ -47,46 +47,47 @@
 
 この他にも以下の声優が演者となっているが、各人ともに担当役名は不詳。
 
-  - [北川国彦](../Page/北川米彦.md "wikilink")、[矢田耕司](../Page/矢田耕司.md "wikilink")、[山田俊司](../Page/キートン山田.md "wikilink")、楕信子、[岡本敏明](https://ja.wikipedia.org/wiki/岡本敏明_\(俳優\) "wikilink")、[吉田理保子](../Page/吉田理保子.md "wikilink")、柳沢絋子
+  - [北川米彦](../Page/北川米彦.md "wikilink")、[矢田耕司](../Page/矢田耕司.md "wikilink")、[キートン山田](../Page/キートン山田.md "wikilink")、楕信子、[岡本敏明](https://ja.wikipedia.org/wiki/岡本敏明_\(俳優\) "wikilink")、[吉田理保子](../Page/吉田理保子.md "wikilink")、柳沢絋子
 
 ### スタッフ
 
   - チーフディレクター - [正延宏三](https://ja.wikipedia.org/wiki/正延宏三 "wikilink")
-  - プロデューサー - [渡邉清](https://ja.wikipedia.org/wiki/新倉雅美 "wikilink")（日本テレビ動画・第9話まで\[6\]）、忠隅昌（TBS）
+  - プロデューサー - [新倉雅美](https://ja.wikipedia.org/wiki/新倉雅美 "wikilink")（日本テレビ動画・第9話まで\[6\]）、忠隅昌（TBS）
   - プロデューサー補 - 佐々木一雄（日本テレビ動画）、白畠豊彦（スタジオテイク）
   - プランナー - [吉沢京夫](https://ja.wikipedia.org/wiki/吉沢京夫 "wikilink")
-  - 演出 - [大貫信夫](https://ja.wikipedia.org/wiki/大貫信夫 "wikilink")（スタジオテイク）、[富野喜幸](../Page/富野由悠季.md "wikilink") ほか
+  - 演出 - [大貫信夫](https://ja.wikipedia.org/wiki/大貫信夫 "wikilink")（スタジオテイク）、[富野由悠季](../Page/富野由悠季.md "wikilink") ほか
   - 演出助手 - 伊藤幸松
   - コンテ - 岡迫和之、小室富士夫
   - 構成 - 卑田純
   - 脚本 - 斉藤次郎、吉原幸栄 他
   - 制作進行 - 伊藤幸松
   - 作画監督 - 菊田武勝
-  - 作画 - [谷口守泰](../Page/谷口守泰.md "wikilink")、日本テレビ動画新潟スタジオ、スタジオテイク、スタジオ・ルック、スタジオジョーク
-  - 原画 - 曽木豊海、金子當行
-  - 動画 - 藤巻隆一、日本テレビ動画新潟スタジオ、スタジオテイク、スタジオ・ルック、スタジオジョーク、秋山恵美子、江部敏春
+  - 原動画 - [谷口守泰](../Page/谷口守泰.md "wikilink")、曽木豊海、金子當行、藤巻隆一、秋山恵美子、江部敏春
+  - 作画/仕上/背景/制作協力 - 日本テレビ動画新潟スタジオ、スタジオテイク、スタジオ・ルック、スタジオジョーク、アド・リブ、[アトリエローク07](../Page/アトリエローク07.md "wikilink")
+
+<!-- end list -->
+
   - 進行 - 小西正夫
-  - 仕上 - 小出カオル、日本テレビ動画新潟スタジオ、アド・リブ
+  - 仕上 - 小出カオル
   - 撮影監督 - 管谷正明（株式会社珊瑚礁）
   - 美術監督 - [井岡雅宏](../Page/井岡雅宏.md "wikilink")
   - コスチューム＆キャラクターデザイン - 河村都
-  - 背景 - 平林茂、スタジオテイク、[スタジオ69](../Page/アトリエローク07.md "wikilink")
-  - 現像 - [東洋現像所](../Page/IMAGICA_Lab..md "wikilink")
+  - 背景 - 平林茂
+  - 現像 - [IMAGICA Lab.](../Page/IMAGICA_Lab..md "wikilink")
   - 編集 - 鶴淵允寿
   - 音楽 - 大柿隆
   - 選曲 - 松原武俊
-  - 音響効果 - 月岡弘（[石田サウンドプロ](../Page/フィズサウンドクリエイション.md "wikilink")）
-  - 音響制作 - [オーディオプランニングU](../Page/AUDIO_PLANNING_U.md "wikilink")
+  - 音響効果 - 月岡弘（[フィズサウンドクリエイション](../Page/フィズサウンドクリエイション.md "wikilink")）
+  - 音響制作 - [AUDIO PLANNING U](../Page/AUDIO_PLANNING_U.md "wikilink")
   - 録音スタジオ - [アオイスタジオ](../Page/アオイスタジオ.md "wikilink")
   - 録音監督 - [浦上靖夫](../Page/浦上靖夫.md "wikilink")
-  - 制作主任 - [下崎闊](https://ja.wikipedia.org/wiki/真佐美ジュン "wikilink") → 不在
-  - 制作協力 - スタジオテイク、スタジオ・ルック
+  - 制作主任 - [真佐美ジュン](https://ja.wikipedia.org/wiki/真佐美ジュン "wikilink")
   - 製作 - 日本テレビ動画、TBS
 
 ### 主題歌
 
   - オープニングテーマ - 「モンシェリCoCo」
-    作詞 - [有馬三恵子](../Page/有馬三恵子.md "wikilink") / 作曲・編曲 - [川口真](../Page/川口真.md "wikilink") / 歌 - 中島まゆこ（[EPIC](../Page/エピックレコードジャパン.md "wikilink")/[CBS・ソニーレコード](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）
+    作詞 - [有馬三恵子](../Page/有馬三恵子.md "wikilink") / 作曲・編曲 - [川口真](../Page/川口真.md "wikilink") / 歌 - 中島まゆこ（[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")/[ソニー・ミュージックエンタテインメント (日本)](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）
   - 挿入歌「まごころ」
     作詞 - 有馬三恵子 / 作曲・編曲 - 川口真 / 歌 - 中島まゆこ（EPIC/CBS・ソニーレコード）
 
@@ -179,7 +180,7 @@
   - TBS：日曜 19:30 - 20:00
   - [青森テレビ](../Page/青森テレビ.md "wikilink")：日曜 19:30 - 20:00\[7\]
   - [岩手放送](../Page/IBC岩手放送.md "wikilink")：日曜 19:30 - 20:00\[8\]
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：火曜 18:00 - 18:30\[9\]
+  - [秋田放送](../Page/秋田放送.md "wikilink")：火曜 18:00 - 18:30\[9\]
   - [山形放送](../Page/山形放送.md "wikilink")：火曜 18:00 - 18:30\[10\]
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[11\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：日曜 19:30 - 20:00\[12\]

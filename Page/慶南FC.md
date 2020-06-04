@@ -99,7 +99,7 @@
 
   - [ポポ](../Page/アジウソン・ペレイラ・デ・ソウザ.md "wikilink") 2007-2009
 
-  - [邦本宜裕](https://ja.wikipedia.org/wiki/邦本宜裕 "wikilink") 2018-
+  - [邦本宜裕](https://ja.wikipedia.org/wiki/邦本宜裕 "wikilink") 2018-2019
 
   - [ルク・カスタイニョス](https://ja.wikipedia.org/wiki/ルク・カスタイニョス "wikilink") 2019-
 

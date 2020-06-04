@@ -60,8 +60,9 @@ iptablesは各テーブル内のチェインを書換えることにより、パ
 
 ## 外部リンク
 
-  - [Manpage of iptables](http://linuxjm.sourceforge.jp/html/iptables/man8/iptables.8.html) (JM Projectによる日本語訳)
-  - [Manpage of ip6tables](http://linuxjm.sourceforge.jp/html/iptables/man8/ip6tables.8.html)
+  - [Man page of iptables](https://linuxjm.osdn.jp/html/iptables/man8/iptables.8.html) (JM Projectによる日本語訳)
+  - [Man page of ip6tables](https://linuxjm.osdn.jp/html/iptables/man8/ip6tables.8.html)
+  - [Man page of iptables-extensions](https://linuxjm.osdn.jp/html/iptables/man8/iptables-extensions.8.html)
   - [Iptablesチュートリアル](http://www.asahi-net.or.jp/~aa4t-nngk/ipttut/output/index.html)
 
 [Category:Linux](https://ja.wikipedia.org/wiki/Category:Linux "wikilink") [Category:セキュリティソフト](https://ja.wikipedia.org/wiki/Category:セキュリティソフト "wikilink") [Category:ネットワークソフト](https://ja.wikipedia.org/wiki/Category:ネットワークソフト "wikilink") [Category:ファイアウォールソフトウェア](https://ja.wikipedia.org/wiki/Category:ファイアウォールソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")

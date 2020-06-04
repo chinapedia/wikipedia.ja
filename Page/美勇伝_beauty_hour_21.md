@@ -18,7 +18,7 @@
 
   - 21:50まで
       -
-        [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[山口放送](../Page/山口放送.md "wikilink")・[西日本放送](../Page/西日本放送.md "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
+        [秋田放送](../Page/秋田放送.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[福井放送](../Page/福井放送.md "wikilink")・[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[山口放送](../Page/山口放送.md "wikilink")・[西日本放送](../Page/西日本放送.md "wikilink")・[長崎放送](../Page/長崎放送.md "wikilink")・[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink")
   - 22:00まで
       -
         [和歌山放送](../Page/和歌山放送.md "wikilink")

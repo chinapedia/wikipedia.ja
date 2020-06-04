@@ -19,6 +19,15 @@
 
 ## キャスター
 
+  - [長谷川晴彦](../Page/長谷川晴彦.md "wikilink")
+  - [菊野麻子](../Page/菊野麻子.md "wikilink")
+  - [岡田花菜子](../Page/岡田花菜子.md "wikilink")
+  - [関根美紀](../Page/関根美紀.md "wikilink")
+  - [大坪幸代](../Page/大坪幸代.md "wikilink")
+  - [棚橋美稚誉](https://ja.wikipedia.org/wiki/棚橋美稚誉 "wikilink")
+
+ほか
+
 ## 関連項目
 
   - [NST新潟総合テレビ番組一覧](../Page/NST新潟総合テレビ番組一覧.md "wikilink")

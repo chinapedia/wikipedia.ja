@@ -709,11 +709,10 @@ CD（11曲）[LP収録分10曲+ボーナストラック1曲]<br />
 <ol>
 <li>HELLO!</li>
 <li>RUN BABY RUN</li>
-<li>J</li>
-<li>JESUS&amp;CRAZE</li>
+<li>JESUS &amp; CRAZE</li>
 <li>盗まれた瞳</li>
 <li>MODERN LOVER</li>
-<li>離れてゆくIMAGE</li>
+<li>離れてゆくIMAGE ―イマージュ―</li>
 <li>ムーンダストに抱かれて</li>
 <li>CLOCKWORK</li>
 <li>誰のものにもしたくない</li>

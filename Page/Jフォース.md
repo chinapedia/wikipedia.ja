@@ -53,6 +53,6 @@
 
 <references />
 
-[Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink")
+[Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:1990年設立の企業](https://ja.wikipedia.org/wiki/Category:1990年設立の企業 "wikilink") [Category:1994年廃止の企業](https://ja.wikipedia.org/wiki/Category:1994年廃止の企業 "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『スーパーファミコンクソゲー番付』マイウェイ出版発行、2017年。ISBN 9784865117097 p74

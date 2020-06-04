@@ -7,7 +7,7 @@
 
   - 前作『[FUTURE](https://ja.wikipedia.org/wiki/FUTURE_\(三代目_J_Soul_Brothers_from_EXILE_TRIBEのアルバム\) "wikilink")』から約1年8か月ぶりのオリジナル・アルバム。「RAISE THE FLAG」の集大成にして完全版。
   - ブリスターパック仕様/フォトブック(100P)が同梱された初回生産限定盤の AL(CD+DVD)+2枚組LIVE DVDとAL(CD+Blu-ray)+2枚組LIVE Blu-ray、通常盤のAL(CD+DVD)+2枚組LIVE DVDとAL(CD+Blu-ray)+2枚組LIVE Blu-ray、AL(CDのみ)の5種。他にファンクラブ限定販売で、初回生産限定盤の内容に加えて ファンクラブ公演を一部収録した AL(CD+DVD)+3枚組LIVE DVDとAL(CD+Blu-ray)+3枚組LIVE Blu-ray。「[Rat-tat-tat](https://ja.wikipedia.org/wiki/Rat-tat-tat "wikilink")」のMusic Videoでおなじみのサングラス＆ケース付きもラインナップされている。多種類だが1枚買えば済む上位互換仕様。
-  - CDには、「[Yes we are](https://ja.wikipedia.org/wiki/Yes_we_are_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[SCARLET](https://ja.wikipedia.org/wiki/SCARLET_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[冬空/White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")」などのシングルCD収録曲8曲、配信限定シングルでヒットし今回初CD化される「Rat-tat-tat」、映画『ウタモノガタリ』主題歌「東京」など全10曲を収録。
+  - CDには、「[Yes we are](https://ja.wikipedia.org/wiki/Yes_we_are_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[SCARLET](https://ja.wikipedia.org/wiki/SCARLET_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[冬空/White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")」などのシングルCD収録曲8曲、配信限定シングルでヒットし今回初CD化される「Rat-tat-tat」、映画『ウタモノガタリ』主題歌「[東京](https://ja.wikipedia.org/wiki/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」など全10曲を収録。
   - DVD/Blu-rayには、Music Video、自己最多の125万人を動員したドームツアーの中から[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")公演のLIVE映像、ドキュメント映像をパッケージしている。ファンクラブ限定版では『LDH BASE Presents ファンクラブ限定 三代目 J SOUL BROTHERS SPECIAL LIVE "RAISE THE FLAG" ～X'mas Party～』から一部を抜粋して収録。
 
 ## 収録曲
@@ -33,7 +33,7 @@
 5.  **[White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")** \[5:24\]
       -
         作詞：小竹正人、作曲：Mike Macdermid, Carlos Okabe, Toshiya Hosokawa
-6.  **東京** \[6:03\]
+6.  **[東京](https://ja.wikipedia.org/wiki/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[6:03\]
       -
         作詞：小竹正人、作曲：Jun Tanaka ([GENTOUKI](../Page/ゲントウキ.md "wikilink"))
     <!-- end list -->
@@ -60,31 +60,31 @@
 
 ［Music Video］
 
-1.  **RAISE THE FLAG**
+1.  **RAISE THE FLAG** \[5:41\]
       -
         Directed by [NINOMIYA“NINO”DAISUKE](https://ja.wikipedia.org/wiki/二宮“NINO”大輔 "wikilink")
-2.  **Yes we are**
+2.  **Yes we are** \[4:17\]
       -
         Directed by [Shigeaki Kubo](../Page/久保茂昭.md "wikilink")
-3.  **冬空**
+3.  **冬空** \[4:35\]
       -
         Directed by Shigeaki Kubo
-4.  **White Wings**
+4.  **White Wings** \[5:24\]
       -
         Directed by Shigeaki Kubo
-5.  **Rat-tat-tat**
+5.  **Rat-tat-tat** \[2:30\]
       -
         Directed by Takumi Koyama
-6.  **GOLDEN**
+6.  **GOLDEN** \[3:53\]
       -
         Directed by Yu-ya HARA
-7.  **SCARLET feat. Afrojack**
+7.  **SCARLET feat. Afrojack** \[3:51\]
       -
         Directed by NINOMIYA“NINO”DAISUKE
-8.  **冬空**（Member Focus Version）Bonus Movie
+8.  **冬空**（Member Focus Version）Bonus Movie \[4:35\]
       -
         Directed by Shigeaki Kubo
-9.  **White Wings**（Member Focus Version）Bonus Movie
+9.  **White Wings**（Member Focus Version）Bonus Movie \[5:37\]
       -
         Directed by Shigeaki Kubo
 
@@ -93,35 +93,35 @@
 ［LIVE］
 
   - **三代目 J SOUL BROTHERS LIVETOUR 2019 “RAISE THE FLAG”**
-      - RAISE THE FLAG
-      - Yes we are
-      - [Summer Madness feat. Afrojack](https://ja.wikipedia.org/wiki/Summer_Madness_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink")
-      - [J.S.B DREAM](https://ja.wikipedia.org/wiki/STORM_RIDERS "wikilink")
-      - FIRE
-      - [Eeny, meeny, miny, moe\!](https://ja.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe! "wikilink")
-      - [RILY](https://ja.wikipedia.org/wiki/RILY "wikilink") / [RYUJI IMAICHI](https://ja.wikipedia.org/wiki/今市隆二 "wikilink")
-      - [君となら](https://ja.wikipedia.org/wiki/J_Soul_Brothers_\(三代目J_Soul_Brothersのアルバム\) "wikilink")
-      - 冬空
-      - White Wings
-      - 東京
-      - [BLUE SAPPHIRE](https://ja.wikipedia.org/wiki/SUPERMOON_\(HIROOMI_TOSAKAの曲\) "wikilink") / [HIROOMI TOSAKA](https://ja.wikipedia.org/wiki/登坂広臣 "wikilink")
-      - [PINK DIAMOND](https://ja.wikipedia.org/wiki/PINK_DIAMOND "wikilink") / [CrazyBoy](https://ja.wikipedia.org/wiki/ELLY "wikilink")
+      - RAISE THE FLAG \[8:18\]
+      - Yes we are \[5:32\]
+      - [Summer Madness feat. Afrojack](https://ja.wikipedia.org/wiki/Summer_Madness_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink") \[5:34\]
+      - [J.S.B DREAM](https://ja.wikipedia.org/wiki/STORM_RIDERS "wikilink") \[4:20\]
+      - FIRE \[3:01\]
+      - [Eeny, meeny, miny, moe\!](https://ja.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe! "wikilink") \[2:51\]
+      - [RILY](https://ja.wikipedia.org/wiki/RILY "wikilink") / [RYUJI IMAICHI](https://ja.wikipedia.org/wiki/今市隆二 "wikilink") \[4:55\]
+      - [君となら](https://ja.wikipedia.org/wiki/J_Soul_Brothers_\(三代目J_Soul_Brothersのアルバム\) "wikilink") \[5:41\]
+      - 冬空 \[3:29\]
+      - White Wings \[4:28\]
+      - 東京 \[4:51\]
+      - [BLUE SAPPHIRE](https://ja.wikipedia.org/wiki/SUPERMOON_\(HIROOMI_TOSAKAの曲\) "wikilink") / [HIROOMI TOSAKA](https://ja.wikipedia.org/wiki/登坂広臣 "wikilink") \[3:27\]
+      - [PINK DIAMOND](https://ja.wikipedia.org/wiki/PINK_DIAMOND "wikilink") / [CrazyBoy](https://ja.wikipedia.org/wiki/ELLY "wikilink") \[4:53\]
 
 #### DISC-4
 
 ［LIVE］
 
   - **三代目 J SOUL BROTHERS LIVETOUR 2019 “RAISE THE FLAG”**
-      - [HAPPY](https://ja.wikipedia.org/wiki/HAPPY_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink")
-      - [Feel So Alive](https://ja.wikipedia.org/wiki/Feel_So_Alive "wikilink")
-      - [O.R.I.O.N.](https://ja.wikipedia.org/wiki/O.R.I.O.N. "wikilink")
-      - [R.Y.U.S.E.I.](https://ja.wikipedia.org/wiki/R.Y.U.S.E.I. "wikilink")
-      - Rat-tat-tat
-      - GOLDEN
-      - [銀河鉄道999](https://ja.wikipedia.org/wiki/THE_JSB_LEGACY "wikilink")
-      - [RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink")
-      - SCARLET feat. Afrojack
-      - [J.S.B LOVE](https://ja.wikipedia.org/wiki/HAPPY_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink")
+      - [HAPPY](https://ja.wikipedia.org/wiki/HAPPY_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink") \[3:27\]
+      - [Feel So Alive](https://ja.wikipedia.org/wiki/Feel_So_Alive "wikilink") \[2:33\]
+      - [O.R.I.O.N.](https://ja.wikipedia.org/wiki/O.R.I.O.N. "wikilink") \[5:39\]
+      - [R.Y.U.S.E.I.](https://ja.wikipedia.org/wiki/R.Y.U.S.E.I. "wikilink") \[7:05\]
+      - Rat-tat-tat \[3:57\]
+      - GOLDEN \[4:34\]
+      - [銀河鉄道999](https://ja.wikipedia.org/wiki/THE_JSB_LEGACY "wikilink") \[4:52\]
+      - [RAINBOW](https://ja.wikipedia.org/wiki/RAINBOW_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink") \[4:38\]
+      - SCARLET feat. Afrojack \[4:50\]
+      - [J.S.B LOVE](https://ja.wikipedia.org/wiki/HAPPY_\(三代目J_Soul_Brothers_from_EXILE_TRIBEの曲\) "wikilink") \[7:45\]
       - 花歌 ～Flowers for you～
 
 ［Document Movie］

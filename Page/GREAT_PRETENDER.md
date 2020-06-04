@@ -19,17 +19,26 @@
 ## スタッフ
 
   - 監督 - [鏑木ひろ](../Page/鏑木ひろ.md "wikilink")
+  - 副監督 - 益山亮司\[4\]
   - 脚本・シリーズ構成 - [古沢良太](../Page/古沢良太.md "wikilink")
   - キャラクターデザイン - [貞本義行](https://ja.wikipedia.org/wiki/貞本義行 "wikilink")
-  - サブキャラクターデザイン・総作画監督 - [加藤寛崇](https://ja.wikipedia.org/wiki/加藤寛崇 "wikilink")
+  - サブキャラクターデザイン - [加藤寛崇](https://ja.wikipedia.org/wiki/加藤寛崇 "wikilink")
+  - 総作画監督 - 加藤寛崇\[5\]、[浅野恭司](https://ja.wikipedia.org/wiki/浅野恭司 "wikilink")\[6\]
+  - デザインワークス - 奥田明世\[7\]、清水慶太\[8\]、石橋翔祐\[9\]
   - コンセプトデザイン - 丹地陽子
   - 美術監督 - 竹田悠介
+  - 美術設定 - 藤井一志\[10\]
+  - 色彩設計 - 小針裕子\[11\]
   - 撮影監督 - 出水田和人
+  - 編集 - 今井大介\[12\]
   - 音楽 - [やまだ豊](https://ja.wikipedia.org/wiki/やまだ豊 "wikilink")
   - 音響監督 - [はたしょう二](https://ja.wikipedia.org/wiki/はたしょう二 "wikilink")
+  - ミュージックエディター - 千田耕平\[13\]
   - アニメーション制作 - [WIT STUDIO](https://ja.wikipedia.org/wiki/ウィットスタジオ "wikilink")
 
 ## 放送局
+
+インターネットでは[Netflix](../Page/Netflix.md "wikilink")にて2020年[6月2日](../Page/6月2日.md "wikilink")より先行配信される。
 
 ## 出典
 
@@ -39,8 +48,18 @@
   -
 {{+Ultra}}
 
-[Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:+Ultra](https://ja.wikipedia.org/wiki/Category:+Ultra "wikilink") [Category:ウィットスタジオのアニメ作品](https://ja.wikipedia.org/wiki/Category:ウィットスタジオのアニメ作品 "wikilink") [Category:詐欺を題材とした作品](https://ja.wikipedia.org/wiki/Category:詐欺を題材とした作品 "wikilink")
+[Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:+Ultra](https://ja.wikipedia.org/wiki/Category:+Ultra "wikilink") [Category:ウィットスタジオのアニメ作品](https://ja.wikipedia.org/wiki/Category:ウィットスタジオのアニメ作品 "wikilink") [Category:東宝製作のアニメ作品](https://ja.wikipedia.org/wiki/Category:東宝製作のアニメ作品 "wikilink") [Category:詐欺を題材とした作品](https://ja.wikipedia.org/wiki/Category:詐欺を題材とした作品 "wikilink")
 
 1.
 2.
 3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.

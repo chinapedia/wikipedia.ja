@@ -1,7 +1,7 @@
 > この記事は[MOV \(タクシー配車アプリ\)](https://ja.wikipedia.org/wiki/MOV_\(タクシー配車アプリ\))から翻訳されています。
 
 
-**MOV**（モブ）は[Mobility Technologies株式会社が開発した](https://ja.wikipedia.org/wiki/Mobility_Technologies "wikilink")[タクシー](../Page/タクシー.md "wikilink")配車用アプリケーションである。対応するOSは[Android](../Page/Android.md "wikilink")、[iOSとなっている](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
+**MOV**（モブ）は株式会社[Mobility Technologiesが開発した](https://ja.wikipedia.org/wiki/Mobility_Technologies "wikilink")[タクシー](../Page/タクシー.md "wikilink")配車用アプリケーションである。対応するOSは[Android](../Page/Android.md "wikilink")、[iOSとなっている](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。
 
 ## 概要
 

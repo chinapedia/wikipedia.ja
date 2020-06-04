@@ -139,6 +139,6 @@
   - [「東京BTH」Amazonプライムビデオ番組ページ](https://www.amazon.co.jp/dp/B07L1DYYP1)
 
   -
-[Category:2019年のWeb動画](https://ja.wikipedia.org/wiki/Category:2019年のWeb動画 "wikilink") [Category:Amazonビデオのオリジナル番組](https://ja.wikipedia.org/wiki/Category:Amazonビデオのオリジナル番組 "wikilink") [Category:日本のWebバラエティ番組](https://ja.wikipedia.org/wiki/Category:日本のWebバラエティ番組 "wikilink") [Category:稲垣吾郎](https://ja.wikipedia.org/wiki/Category:稲垣吾郎 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:2019年のWeb動画](https://ja.wikipedia.org/wiki/Category:2019年のWeb動画 "wikilink") [Category:Amazonビデオのオリジナル番組](https://ja.wikipedia.org/wiki/Category:Amazonビデオのオリジナル番組 "wikilink") [Category:日本のWebバラエティ番組](https://ja.wikipedia.org/wiki/Category:日本のWebバラエティ番組 "wikilink") [Category:稲垣吾郎](https://ja.wikipedia.org/wiki/Category:稲垣吾郎 "wikilink")
 
 1.

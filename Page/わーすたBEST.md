@@ -9,24 +9,51 @@
 
 各ディスクに収録されているものは以下のとおりである。
 
-  - 　CD DISC 1 : シングルのタイトルトラック\[1\]とアルバム・ミニアルバムのリードトラック、および、新曲の「グレープフルーツムーン」。曲順はリリース順。
-  - 　CD DISC 2 : わーすたの公式ファンクラブ「わーしっぷ」の会員による投票で選ばれた上位10曲。順不同。
-  - 　Blu-ray(共通) : CD DISC 1に収録されている曲の[MV](../Page/ミュージック・ビデオ.md "wikilink")(MVのない「バスタブ・アロマティック」を除く)。
-    「わーすた STUDIO LIVE "ゆうめいに、にゃる\!\!\!\!\!" LIVE MOVIE」のうち、5thシングル「[遮二無二 生きる\!/バスタブ・アロマティック](https://ja.wikipedia.org/wiki/遮二無二_生きる!/バスタブ・アロマティック "wikilink")」のBlu-rayに未収録の映像。
-  - 　Blu-ray(豪華パッケージ仕様のみ) : 「わーすた VISUAL MOVIE」の映像。他
+<table>
+<thead>
+<tr class="header">
+<th><p>ディスク</p></th>
+<th><p>内容</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>CD DISC 1</p></td>
+<td><p>シングルのタイトルトラック[1]とアルバム・ミニアルバムのリードトラック、<br />
+および、新曲の「グレープフルーツムーン」。<br />
+曲順はリリース順。</p></td>
+</tr>
+<tr class="even">
+<td><p>CD DISC 2</p></td>
+<td><p>わーすたの公式ファンクラブ「わーしっぷ」の会員による投票で選ばれた上位10曲。順不同。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Blu-ray(共通)</p></td>
+<td><p>CD DISC 1に収録されている曲の<a href="../Page/ミュージック・ビデオ.md" title="wikilink">MV</a>(MVのない「バスタブ・アロマティック」を除く)。<br />
+「わーすた STUDIO LIVE "ゆうめいに、にゃる</p></td>
+</tr>
+<tr class="even">
+<td><p>Blu-ray<br />
+(豪華パッケージ仕様のみ)</p></td>
+<td><p>「わーすた VISUAL MOVIE」の映像。他</p></td>
+</tr>
+</tbody>
+</table>
 
 2月7日に公式ファンクラブ「わーしっぷ」のサイト内でDISC 2に収録したい曲の投票結果が発表された。結果は以下の通り。
 
-`1位 KIRA KIRA ホログラム`
-`2位 ワンダフル・ワールド`
-`3位 SHINING FLOWER`
-`4位 PLATONIC GIRL`
-`5位 ちいさな ちいさな`
-`6位 Love Unmelt`
-`7位 スーパーありがとう`
-`8位 スタンドアロン・コンプレックス`
-`9位 Doki Doki♡today`
-`10位 NEW にゃーくにゃくにゃ水族館2`
+| 順位  | 曲名                |
+| --- | ----------------- |
+| 1位  | KIRA KIRA ホログラム   |
+| 2位  | ワンダフル・ワールド        |
+| 3位  | SHINING FLOWER    |
+| 4位  | PLATONIC GIRL     |
+| 5位  | ちいさな ちいさな         |
+| 6位  | Love Unmelt       |
+| 7位  | スーパーありがとう         |
+| 8位  | スタンドアロン・コンプレックス   |
+| 9位  | Doki Doki♡today   |
+| 10位 | NEW にゃーくにゃくにゃ水族館2 |
 
 同時にDISC 2の収録曲順も発表されたが、順位の通りの順番ではなく、選ばれた10曲でアルバムとしての構成を考えたものとなった。また、「ちいさな ちいさな」は本作のために改めて録音される。
 
@@ -81,7 +108,7 @@ Disc 1.
       -
         作詞：鈴木まなか、作曲・編曲：岸田勇気
           - 3rdアルバム「**[CAT'CH THE WORLD](https://ja.wikipedia.org/wiki/CAT'CH_THE_WORLD "wikilink")**」のリードトラック。
-          - 「CAT'CH THE WORLD」ではイントロの坂元の朗読部分が「プロローグ」として別の曲としてクレジットされていたが、本作では「くらえ\!必殺\!\!ねこパンチ★ 〜私達、戦うにゃこたん【レベル5】〜」の一部として扱われ収録されている。
+          - 「CAT'CH THE WORLD」ではイントロの[坂元の朗読部分が](https://ja.wikipedia.org/wiki/坂元葉月 "wikilink")「プロローグ」として別の曲としてクレジットされていたが、本作では「くらえ\!必殺\!\!ねこパンチ★ 〜私達、戦うにゃこたん【レベル5】〜」の一部として扱われ収録されている。
 11. **メラにゃイザー\!\!\!\!\! 〜君に、あ・げ・う♪〜**
       -
         作詞：鈴木まなか・白井美穂 (Relic Lyric inc)、作曲・編曲：岸田勇気
@@ -496,7 +523,7 @@ Disc 2.
   -
   -
   -
-[Category:エイベックス・グループのアルバム](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアルバム "wikilink") [Category:2020年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のベスト・アルバム "wikilink")
+[Category:わーすたのアルバム](https://ja.wikipedia.org/wiki/Category:わーすたのアルバム "wikilink") [Category:2020年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のベスト・アルバム "wikilink")
 
 1.  配信限定リリースの「[プリティー☆チャンネル](https://ja.wikipedia.org/wiki/プリティー☆チャンネル "wikilink")」、「[ヨ・キエロ・ビビール](https://ja.wikipedia.org/wiki/ヨ・キエロ・ビビール_\(アデクセ・アンド・ナウの曲\)#わーすたのカバー "wikilink")」、「[KIRA KIRA ホログラム](https://ja.wikipedia.org/wiki/KIRA_KIRA_ホログラム "wikilink")」は除く
 2.  振り付けに特化したもの。

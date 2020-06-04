@@ -143,7 +143,7 @@
 
 脚注のない者はすべて劇場パンフレットより。
 
-  - 仮面ライダーゲイツ\[2\] - [縄田雄哉](../Page/縄田雄哉.md "wikilink")
+  - 仮面ライダーゲイツ\[2\]、他\[3\] - [縄田雄哉](../Page/縄田雄哉.md "wikilink")
   - アナザーディエンド - [今井靖彦](../Page/今井靖彦.md "wikilink")
   - 仮面ライダーウォズ、仮面ライダーバース、仮面ライダーアクセル - [永徳](../Page/永徳_\(俳優\).md "wikilink")
   - [佐野夏未](https://ja.wikipedia.org/wiki/佐野夏未 "wikilink")
@@ -185,7 +185,14 @@
   - 音楽 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - 監督 - [諸田敏](../Page/諸田敏.md "wikilink")
   - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")
-  - 配給 - [東映ビデオ](../Page/東映ビデオ.md "wikilink")\[3\]
+  - 照明 - 佐々木康雄
+  - 美術 - [大嶋修一](https://ja.wikipedia.org/wiki/大嶋修一 "wikilink")
+  - 録音 - 堀江二郎
+  - 編集 - 金田昌吉
+  - 助監督 - 塩川純平
+  - スクリプター - 森みどり
+  - 制作担当 - 中島嘉隆
+  - 配給 - [東映ビデオ](../Page/東映ビデオ.md "wikilink")\[4\]
 
 ## 主題歌
 
@@ -194,7 +201,7 @@
 
 ## 映像ソフト化
 
-[2020年](../Page/2020年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")発売。[BD](../Page/Blu-ray_Disc.md "wikilink") / [DVD](../Page/DVD.md "wikilink")でリリース。
+[2020年](../Page/2020年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")発売。[Blu-ray](../Page/Blu-ray_Disc.md "wikilink") / [DVD](../Page/DVD.md "wikilink")でリリース。
 
   - 仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ 通常版（1枚組）
       - 映像特典
@@ -202,7 +209,7 @@
           - TRAILER
           - DESIGN GALLERY
           - POSTER GALLERY
-      - 音声特典（BD版のみ）
+      - 音声特典（Blu-ray版のみ）
           - オーディオ・コメンタリー（押田岳×戸谷公人×プロデューサー：白倉伸一郎）
   - 仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ ゲイツマジェスティライドウォッチ版（1枚組・初回限定生産）
       - セット内容
@@ -237,3 +244,4 @@
 1.
 2.
 3.
+4.

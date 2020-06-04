@@ -90,7 +90,7 @@
     <!-- end list -->
       - 29thシングル表題曲
       - 投票数**13位**
-      - [TOKYO FMラジオドラマ](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")「[君恋物語～キミコイものがたり～](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")」主題歌
+      - [TOKYO FMラジオドラマ](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")「[君恋物語～キミコイものがたり～](../Page/SCHOOL_OF_LOCK!.md "wikilink")」主題歌
 14. **[最高なしあわせ](https://ja.wikipedia.org/wiki/最高なしあわせ "wikilink")** (4:55)
       - 35thシングル表題曲
       - 投票数**14位**

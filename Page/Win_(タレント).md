@@ -42,7 +42,7 @@ Win（中国名：風田、[1992年](https://ja.wikipedia.org/wiki/1992年の日
 
   - Win「[微博](https://ja.wikipedia.org/wiki/微博 "wikilink")」[公式アカウント](https://www.weibo.com/spexialwin?noscale_head=1#_0)
 
-[Category:台湾のアイドル](https://ja.wikipedia.org/wiki/Category:台湾のアイドル "wikilink") [Category:台湾の男性歌手](https://ja.wikipedia.org/wiki/Category:台湾の男性歌手 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink")
+[Category:台湾のアイドル](https://ja.wikipedia.org/wiki/Category:台湾のアイドル "wikilink") [Category:台湾の男性歌手](https://ja.wikipedia.org/wiki/Category:台湾の男性歌手 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink") [Category:在台日本人](https://ja.wikipedia.org/wiki/Category:在台日本人 "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink")
 
 1.
 2.

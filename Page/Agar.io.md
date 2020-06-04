@@ -7,7 +7,7 @@
 
 ## ゲームプレイ
 
-[サムネイル](https://ja.wikipedia.org/wiki/File:Agario-gameplay.jpg "fig:サムネイル")[Dogeのイメージが描かれたものもある](https://ja.wikipedia.org/wiki/Doge_\(ミーム\) "wikilink")。*Agar.io*の目的は、ランダムに生成されたペレット（寒天）の両方を飲み込むことで[シャーレ](../Page/シャーレ.md "wikilink")上で細胞を成長させることで\[4\] ブラウザバージョンには現在、FFA（Free-For-All）、[Battle Royale](https://ja.wikipedia.org/wiki/バトルロイヤルゲーム "wikilink")、Teams、Experimental、およびPartyの5つのゲームモードがあり ゲームのモバイルバージョンには、FFA（Free-For-All）、ラッシュモード、 [バトルロワイヤルモードが含まれ](https://ja.wikipedia.org/wiki/バトルロイヤルゲーム "wikilink") ゲームの目標は、最大のセルを取得することであるがプレーヤーは、すべての細胞が食べられたら再起動する必要がある。プレイヤーは、事前定義された単語、フレーズ、シンボル、またはスキンでセルの外観を変更でき \[5\]セルの質量が大きいほど、細胞の動きは遅くなるが\[6\]細胞は時間の経過とともに徐々に少量の質量を失う\[7\]。
+*Agar.io*の目的は、ランダムに生成されたペレット（寒天）の両方を飲み込むことで[シャーレ](../Page/シャーレ.md "wikilink")上で細胞を成長させることで\[4\] ブラウザバージョンには現在、FFA（Free-For-All）、[Battle Royale](https://ja.wikipedia.org/wiki/バトルロイヤルゲーム "wikilink")、Teams、Experimental、およびPartyの5つのゲームモードがあり ゲームのモバイルバージョンには、FFA（Free-For-All）、ラッシュモード、 [バトルロワイヤルモードが含まれ](https://ja.wikipedia.org/wiki/バトルロイヤルゲーム "wikilink") ゲームの目標は、最大のセルを取得することであるがプレーヤーは、すべての細胞が食べられたら再起動する必要がある。プレイヤーは、事前定義された単語、フレーズ、シンボル、またはスキンでセルの外観を変更でき \[5\]セルの質量が大きいほど、細胞の動きは遅くなるが\[6\]細胞は時間の経過とともに徐々に少量の質量を失う\[7\]。
 
 ## 開発
 
@@ -17,9 +17,11 @@
 
 *Agar.io*について*[エンガジェット](https://ja.wikipedia.org/wiki/Engadget "wikilink")*は、このゲームを「顕微鏡レベルでときどき見られる激しい生存競争の優れた抽象化」と説明した\[13\]。 *Toucharcade*は、そのシンプルさ、戦略的要素、および「個性」を称賛した\[14\]。
 
-## ノート
-
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 関連項目
 

@@ -38,7 +38,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p><a href="../Page/2月28日.md" title="wikilink">2月28日</a></p></td>
 <td><p>オレンジ</p></td>
-<td><p><strong>A.S.A.P</strong>の<strong>リーダー</strong>。</p></td>
+<td><p><strong>リーダー</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/岡田隆之介" title="wikilink">岡田隆之介</a></strong><br />
@@ -46,7 +46,7 @@
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
 <td><p>黄</p></td>
-<td></td>
+<td><p>副リーダー</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>上田涼平</strong><br />

@@ -1,7 +1,7 @@
 > この記事は[J-SPARC](https://ja.wikipedia.org/wiki/J-SPARC)から翻訳されています。
 
 
-**J-SPARC**（**ジェイ・スパーク**、正式和称：**宇宙イノベーションパートナーシップ**、正式英称：**J**AXA **S**pace Innovation through **Par**tnership and **C**o-creation）は、[国立研究開発法人宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/国立研究開発法人宇宙航空研究開発機構法 "wikilink")（[JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")）が、中長期計画の新しい施策として2018年より開始した、事業化までをスコープとした民間事業者等とのパートナーシップ型の新しい研究開発プログラムである。
+**J-SPARC**（**ジェイ・スパーク**、正式和称：**宇宙イノベーションパートナーシップ**、正式英称：**J**AXA **S**pace Innovation through **Par**tnership and **C**o-creation）は、[国立研究開発法人宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/国立研究開発法人宇宙航空研究開発機構法 "wikilink")（[JAXA](../Page/宇宙航空研究開発機構.md "wikilink")）が、中長期計画の新しい施策として2018年より開始した、事業化までをスコープとした民間事業者等とのパートナーシップ型の新しい研究開発プログラムである。
 
 ## 概要
 

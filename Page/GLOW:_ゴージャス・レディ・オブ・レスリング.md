@@ -13,7 +13,7 @@
     演 - [アリソン・ブリー](https://ja.wikipedia.org/wiki/アリソン・ブリー "wikilink")
   - デビー “リバティー・ベル”
     演 - [ベティー・ギルピン](https://ja.wikipedia.org/wiki/ベティー・ギルピン "wikilink")
-  - シェリー “ジャンク・チェーン”
+  - チェリー “ジャンク・チェーン”
     演 - [サイデル・ノエル](https://ja.wikipedia.org/wiki/サイデル・ノエル "wikilink")
   - カルメン “マチュピチュ”
     演 - [ブリトニー・ヤング](https://ja.wikipedia.org/wiki/ブリトニー・ヤング "wikilink")
@@ -29,14 +29,22 @@
     演 - [アメージング・コング](https://ja.wikipedia.org/wiki/アメージング・コング "wikilink")
   - メラニー “メル・ローズ”
     演 - [ジャッキー・トーン](https://ja.wikipedia.org/wiki/ジャッキー・トーン "wikilink")
-  - バッジ
+  - バッシュ
     演 - [クリス・ローウェル](https://ja.wikipedia.org/wiki/クリス・ローウェル "wikilink")
 
 ## エピソード
 
 ＊各シーズン全話一斉配信
 
-## 受賞歴
+### シーズン1 (2017)
+
+### シーズン2 (2018)
+
+### シーズン3 (2019)
+
+## 評価
+
+### 受賞
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[JRE POINT](https://ja.wikipedia.org/wiki/JRE_POINT)から翻訳されています。
 
 
-**JRE POINT**（ジェーアールイー・ポイント）は、[JR東日本が運営しているポイントプログラム](../Page/東日本旅客鉄道.md "wikilink")
+**JRE POINT**（ジェーアールイー・ポイント）は、[JR東日本が運営しているポイントプログラム](../Page/東日本旅客鉄道.md "wikilink")。
 
 ## 概要
 
@@ -12,14 +12,14 @@
 ### JRE POINTカード提示で貯まる店 (旧・アトレポイント等の駅ビルポイント)
 
   - [アトレ](../Page/アトレ.md "wikilink")　([恵比寿](https://ja.wikipedia.org/wiki/恵比寿駅 "wikilink")、[目黒](https://ja.wikipedia.org/wiki/目黒駅 "wikilink")、[五反田](https://ja.wikipedia.org/wiki/五反田駅 "wikilink")、[品川](https://ja.wikipedia.org/wiki/品川駅 "wikilink")、[大井町](https://ja.wikipedia.org/wiki/大井町駅 "wikilink")、[大森](https://ja.wikipedia.org/wiki/大森駅 "wikilink")、[川崎](https://ja.wikipedia.org/wiki/川崎駅 "wikilink")、[四谷](https://ja.wikipedia.org/wiki/四ツ谷駅 "wikilink")、[吉祥寺](https://ja.wikipedia.org/wiki/吉祥寺駅 "wikilink")、[上野](https://ja.wikipedia.org/wiki/上野駅 "wikilink")、[浦和](https://ja.wikipedia.org/wiki/浦和駅 "wikilink")、[松戸](https://ja.wikipedia.org/wiki/松戸駅 "wikilink")、[取手](https://ja.wikipedia.org/wiki/取手駅 "wikilink")、[秋葉原](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")、[亀戸](https://ja.wikipedia.org/wiki/亀戸駅 "wikilink")、[新浦安](https://ja.wikipedia.org/wiki/新浦安駅 "wikilink")、[大船](https://ja.wikipedia.org/wiki/大船駅 "wikilink"))
-  - [アトレヴィ](https://ja.wikipedia.org/wiki/アトレ#アトレヴィ "wikilink")　([大塚](https://ja.wikipedia.org/wiki/大塚駅 "wikilink")、[巣鴨](https://ja.wikipedia.org/wiki/巣鴨駅 "wikilink")、[田端](https://ja.wikipedia.org/wiki/田端駅 "wikilink")、[信濃町](https://ja.wikipedia.org/wiki/信濃町駅 "wikilink")、[東中野](https://ja.wikipedia.org/wiki/東中野駅 "wikilink")、[三鷹](https://ja.wikipedia.org/wiki/三鷹駅 "wikilink"))
+  - [アトレヴィ](https://ja.wikipedia.org/wiki/アトレ#アトレヴィ "wikilink")　([大塚](https://ja.wikipedia.org/wiki/大塚駅_\(東京都\) "wikilink")、[巣鴨](https://ja.wikipedia.org/wiki/巣鴨駅 "wikilink")、[田端](https://ja.wikipedia.org/wiki/田端駅 "wikilink")、[信濃町](https://ja.wikipedia.org/wiki/信濃町駅 "wikilink")、[東中野](https://ja.wikipedia.org/wiki/東中野駅 "wikilink")、[三鷹](https://ja.wikipedia.org/wiki/三鷹駅 "wikilink"))
   - プレイアトレ　([土浦](https://ja.wikipedia.org/wiki/プレイアトレ土浦 "wikilink"))
   - [グランデュオ](../Page/グランデュオ.md "wikilink")　([立川](https://ja.wikipedia.org/wiki/立川駅 "wikilink")、[蒲田](https://ja.wikipedia.org/wiki/蒲田駅 "wikilink"))
   - [テルミナ](https://ja.wikipedia.org/wiki/テルミナ_\(駅ビル\) "wikilink")　([錦糸町](https://ja.wikipedia.org/wiki/錦糸町駅 "wikilink"))
   - シャポー　([市川](https://ja.wikipedia.org/wiki/市川駅 "wikilink")、[船橋](https://ja.wikipedia.org/wiki/船橋駅 "wikilink")、[小岩](https://ja.wikipedia.org/wiki/小岩駅 "wikilink")、[本八幡](https://ja.wikipedia.org/wiki/本八幡駅 "wikilink"))
   - シャポーロコ　([平井](https://ja.wikipedia.org/wiki/平井駅_\(東京都\) "wikilink"))
-  - ビーンズ　([阿佐ヶ谷](https://ja.wikipedia.org/wiki/阿佐ヶ谷駅 "wikilink")、[赤羽](https://ja.wikipedia.org/wiki/赤羽駅 "wikilink")、[亀戸](https://ja.wikipedia.org/wiki/亀戸駅 "wikilink")、[戸田公園](https://ja.wikipedia.org/wiki/戸田公園駅 "wikilink")、[戸田](https://ja.wikipedia.org/wiki/戸田駅 "wikilink")、[武蔵浦和](https://ja.wikipedia.org/wiki/武蔵浦和駅 "wikilink")、[与野本町](https://ja.wikipedia.org/wiki/与野本町駅 "wikilink")、[西川口](https://ja.wikipedia.org/wiki/西川口駅 "wikilink")、[武蔵中原](https://ja.wikipedia.org/wiki/武蔵中原駅 "wikilink")、[武蔵新城](https://ja.wikipedia.org/wiki/武蔵新城駅 "wikilink")、[中山](https://ja.wikipedia.org/wiki/中山駅 "wikilink")、[新杉田](https://ja.wikipedia.org/wiki/新杉田駅 "wikilink")、[保土ヶ谷](https://ja.wikipedia.org/wiki/保土ヶ谷駅 "wikilink"))
-  - [ラスカ](../Page/ラスカ.md "wikilink")　([茅ヶ崎](https://ja.wikipedia.org/wiki/茅ヶ崎駅 "wikilink")、[平塚](https://ja.wikipedia.org/wiki/平塚駅 "wikilink")、[小田原](https://ja.wikipedia.org/wiki/小田原駅 "wikilink")、[熱海](https://ja.wikipedia.org/wiki/熱海駅 "wikilink"))
+  - ビーンズ　([阿佐ヶ谷](https://ja.wikipedia.org/wiki/阿佐ヶ谷駅 "wikilink")、[赤羽](https://ja.wikipedia.org/wiki/赤羽駅 "wikilink")、[亀戸](https://ja.wikipedia.org/wiki/亀戸駅 "wikilink")、[戸田公園](https://ja.wikipedia.org/wiki/戸田公園駅 "wikilink")、[戸田](https://ja.wikipedia.org/wiki/戸田駅_\(埼玉県\) "wikilink")、[武蔵浦和](https://ja.wikipedia.org/wiki/武蔵浦和駅 "wikilink")、[与野本町](https://ja.wikipedia.org/wiki/与野本町駅 "wikilink")、[西川口](https://ja.wikipedia.org/wiki/西川口駅 "wikilink")、[武蔵中原](https://ja.wikipedia.org/wiki/武蔵中原駅 "wikilink")、[武蔵新城](https://ja.wikipedia.org/wiki/武蔵新城駅 "wikilink")、[中山](https://ja.wikipedia.org/wiki/中山駅_\(神奈川県\) "wikilink")、[新杉田](https://ja.wikipedia.org/wiki/新杉田駅 "wikilink")、[保土ヶ谷](https://ja.wikipedia.org/wiki/保土ヶ谷駅 "wikilink"))
+  - [ラスカ](../Page/ラスカ.md "wikilink")　([茅ヶ崎](https://ja.wikipedia.org/wiki/茅ケ崎駅 "wikilink")、[平塚](https://ja.wikipedia.org/wiki/平塚駅 "wikilink")、[小田原](https://ja.wikipedia.org/wiki/小田原駅 "wikilink")、[熱海](https://ja.wikipedia.org/wiki/熱海駅 "wikilink"))
   - [ペリエ](https://ja.wikipedia.org/wiki/ペリエ_\(駅ビル\) "wikilink")　([千葉](https://ja.wikipedia.org/wiki/千葉駅 "wikilink")、[西千葉](https://ja.wikipedia.org/wiki/西千葉駅 "wikilink")、[稲毛](https://ja.wikipedia.org/wiki/稲毛駅 "wikilink")、[津田沼](https://ja.wikipedia.org/wiki/津田沼駅 "wikilink")、[検見川浜](https://ja.wikipedia.org/wiki/検見川浜駅 "wikilink")、[稲毛海岸](https://ja.wikipedia.org/wiki/稲毛海岸駅 "wikilink")、[海浜幕張](https://ja.wikipedia.org/wiki/海浜幕張駅 "wikilink")、[西船橋](https://ja.wikipedia.org/wiki/西船橋駅 "wikilink"))
   - [モントレー](../Page/高崎モントレー.md "wikilink")　([高崎](https://ja.wikipedia.org/wiki/高崎駅 "wikilink"))
   - [イーサイト](https://ja.wikipedia.org/wiki/イーサイト "wikilink")　(高崎、[籠原](https://ja.wikipedia.org/wiki/籠原駅 "wikilink")、[上尾](https://ja.wikipedia.org/wiki/上尾駅 "wikilink"))
@@ -30,11 +30,11 @@
   - [nonowa](https://ja.wikipedia.org/wiki/nonowa "wikilink")　([国立](https://ja.wikipedia.org/wiki/国立駅 "wikilink")、[西国分寺](https://ja.wikipedia.org/wiki/西国分寺駅 "wikilink")、[武蔵小金井](https://ja.wikipedia.org/wiki/武蔵小金井駅 "wikilink")、[東小金井](https://ja.wikipedia.org/wiki/東小金井駅 "wikilink")、[武蔵境](https://ja.wikipedia.org/wiki/武蔵境駅 "wikilink"))
   - [エクセル](../Page/EXCEL_\(水戸市\).md "wikilink")　([水戸](../Page/水戸駅.md "wikilink"))
   - [VAL](../Page/VAL.md "wikilink")　([小山](../Page/小山駅.md "wikilink")、[古河](https://ja.wikipedia.org/wiki/古河駅 "wikilink"))
-  - [エスパル](../Page/エスパル.md "wikilink")　([仙台](../Page/仙台駅.md "wikilink")、[福島](https://ja.wikipedia.org/wiki/福島駅 "wikilink")、[郡山](https://ja.wikipedia.org/wiki/郡山駅 "wikilink")、[山形](../Page/山形駅.md "wikilink"))
+  - [エスパル](../Page/エスパル.md "wikilink")　([仙台](../Page/仙台駅.md "wikilink")、[福島](../Page/福島駅_\(福島県\).md "wikilink")、[郡山](../Page/郡山駅_\(福島県\).md "wikilink")、[山形](../Page/山形駅.md "wikilink"))
   - [フェザン](../Page/フェザン.md "wikilink")　([盛岡](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink"))
   - [あおもり旬味館](https://ja.wikipedia.org/wiki/あおもり旬味館 "wikilink")　([新青森](../Page/新青森駅.md "wikilink"))
   - [東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")のお店　(北町ダイニング、黒塀横丁、キッチンストリート、グランアージュ、グランルーフ、グランルーフ フロント)
-  - リビット　([仙台駅](../Page/仙台駅.md "wikilink")エキナカ、[山形駅](../Page/山形駅.md "wikilink")エキナカ、[米沢駅](../Page/米沢駅.md "wikilink")エキナカ、[福島駅](https://ja.wikipedia.org/wiki/福島駅 "wikilink")エキナカ、[郡山駅](https://ja.wikipedia.org/wiki/郡山駅 "wikilink")エキナカ、[新白河駅](../Page/新白河駅.md "wikilink")エキナカ、[会津若松駅](../Page/会津若松駅.md "wikilink")エキナカ、[長町駅](../Page/長町駅.md "wikilink")エキナカ、[古川駅](../Page/古川駅.md "wikilink")エキナカ、[くりこま高原駅](../Page/くりこま高原駅.md "wikilink")エキナカ、[多賀城駅](../Page/多賀城駅.md "wikilink")エキナカ)
+  - リビット　([仙台駅](../Page/仙台駅.md "wikilink")エキナカ、[山形駅](../Page/山形駅.md "wikilink")エキナカ、[米沢駅](../Page/米沢駅.md "wikilink")エキナカ、[福島駅エキナカ](../Page/福島駅_\(福島県\).md "wikilink")、[郡山駅エキナカ](../Page/郡山駅_\(福島県\).md "wikilink")、[新白河駅](../Page/新白河駅.md "wikilink")エキナカ、[会津若松駅](../Page/会津若松駅.md "wikilink")エキナカ、[長町駅](../Page/長町駅.md "wikilink")エキナカ、[古川駅](../Page/古川駅.md "wikilink")エキナカ、[くりこま高原駅](../Page/くりこま高原駅.md "wikilink")エキナカ、[多賀城駅](../Page/多賀城駅.md "wikilink")エキナカ)
   - tekuteながまち　([長町](../Page/長町駅.md "wikilink"))
   - [ピボット](https://ja.wikipedia.org/wiki/食品館ピボット "wikilink")　(福島、郡山、[会津若松](../Page/会津若松駅.md "wikilink")、[仙台原ノ町](../Page/陸前原ノ町駅.md "wikilink")、[古川](../Page/古川駅.md "wikilink"))
   - [CoCoLo](../Page/CoCoLo.md "wikilink")　([新潟](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")、[長岡](../Page/長岡駅.md "wikilink")、[湯沢・がんぎどおり](../Page/越後湯沢駅.md "wikilink"))

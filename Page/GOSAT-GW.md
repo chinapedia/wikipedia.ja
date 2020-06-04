@@ -1,7 +1,7 @@
 > この記事は[GOSAT-GW](https://ja.wikipedia.org/wiki/GOSAT-GW)から翻訳されています。
 
 
-**GOSAT-GW** (**G**lobal **O**bserving **SAT**ellite for **G**reenhous gases and **W**ater cycle、**温室効果ガス・水循環観測技術衛星**）は、[環境省](../Page/環境省.md "wikilink")、[国立環境研究所](../Page/国立環境研究所.md "wikilink") (NIES) 、[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA) が共同で開発中の、[温室効果ガス](../Page/温室効果ガス.md "wikilink")および水循環観測技術衛星。温室効果ガス観測技術衛星[いぶき](https://ja.wikipedia.org/wiki/いぶき "wikilink") (GOSAT)、[いぶき2号](https://ja.wikipedia.org/wiki/いぶき2号 "wikilink") (GOSAT-2) の後継機として[地球温暖化](../Page/地球温暖化.md "wikilink")の原因とされる[二酸化炭素](../Page/二酸化炭素.md "wikilink")や[メタン](../Page/メタン.md "wikilink")ガスなどの温室効果ガスの濃度分布を[宇宙](../Page/宇宙.md "wikilink")から観測する とともに、水循環変動観測技術衛星「[しずく](https://ja.wikipedia.org/wiki/地球環境変動観測ミッション "wikilink")」 (GCOM-W) の搭載センサAMSR2を高度化した高性能マイクロ波放射計AMSR3により水循環変動の把握と予測を行う。
+**GOSAT-GW** (**G**lobal **O**bserving **SAT**ellite for **G**reenhous gases and **W**ater cycle、**温室効果ガス・水循環観測技術衛星**）は、[環境省](../Page/環境省.md "wikilink")、[国立環境研究所](../Page/国立環境研究所.md "wikilink") (NIES) 、[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink") (JAXA) が共同で開発中の、[温室効果ガス](../Page/温室効果ガス.md "wikilink")および水循環観測技術衛星。温室効果ガス観測技術衛星[いぶき](https://ja.wikipedia.org/wiki/いぶき "wikilink") (GOSAT)、[いぶき2号](https://ja.wikipedia.org/wiki/いぶき2号 "wikilink") (GOSAT-2) の後継機として[地球温暖化](../Page/地球温暖化.md "wikilink")の原因とされる[二酸化炭素](../Page/二酸化炭素.md "wikilink")や[メタン](../Page/メタン.md "wikilink")ガスなどの温室効果ガスの濃度分布を[宇宙](../Page/宇宙.md "wikilink")から観測する とともに、水循環変動観測技術衛星「[しずく](https://ja.wikipedia.org/wiki/地球環境変動観測ミッション "wikilink")」 (GCOM-W) の搭載センサAMSR2を高度化した高性能マイクロ波放射計AMSR3により水循環変動の把握と予測を行う。
 
 ## 目的
 
@@ -64,7 +64,7 @@ GOSATシリーズの後継として温室効果ガス濃度の状況を継続し
 
   - [環境省](../Page/環境省.md "wikilink")
   - [国立環境研究所](../Page/国立環境研究所.md "wikilink")
-  - [宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")(JAXA)
+  - [宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")(JAXA)
 
 ## 外部リンク
 

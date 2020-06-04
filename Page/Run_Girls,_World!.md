@@ -1,7 +1,7 @@
 > この記事は[Run Girls, World!](https://ja.wikipedia.org/wiki/Run_Girls,_World!)から翻訳されています。
 
 
-『**Run Girls, World\!**』（ランガールズ ワールド！）は、[Run Girls, Run\!の](https://ja.wikipedia.org/wiki/Run_Girls,_Run! "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に[DIVE II entertainmentから発売される](https://ja.wikipedia.org/wiki/エイベックス・ピクチャーズ#DIVE_II_ENTERTAINMENT "wikilink")\[1\]。
+『**Run Girls, World\!**』（ランガールズ ワールド！）は、[Run Girls, Run\!の](https://ja.wikipedia.org/wiki/Run_Girls,_Run! "wikilink")1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に[DIVE II entertainmentから発売された](https://ja.wikipedia.org/wiki/エイベックス・ピクチャーズ#DIVE_II_ENTERTAINMENT "wikilink")\[1\]。
 
 ## 概要
 
@@ -17,9 +17,9 @@
 
 [CD](../Page/コンパクトディスク.md "wikilink")+[Blu-ray盤](../Page/Blu-ray_Disc.md "wikilink")（規格品番はEYCA-12943）とCD only盤（規格品番はEYCA-12944）が発売され、CD+Blu-ray盤にはこれまでに制作されてきたすべてのミュージックビデオと、新作「ランガリング・シンガソング」のミュージックビデオを収録したBlu-rayが付属している。
 
-また、ホビーショップの[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")限定の商品として、CD+Blu-ray盤やCD only盤に缶バッジやソロブロマイド、「オリジナルトークCD」が附属した「はやまるVer.」「もっちーVer.」「あっちゃんVer.」という3バージョンの「ゲーマーズ限定盤」も発売予定となっている\[3\]。
+また、ホビーショップの[ゲーマーズ](../Page/ゲーマーズ.md "wikilink")限定の商品として、CD+Blu-ray盤やCD only盤に缶バッジやソロブロマイド、「オリジナルトークCD」が附属した「はやまるVer.」「もっちーVer.」「あっちゃんVer.」という3バージョンの「ゲーマーズ限定盤」も発売された\[3\]。
 
-ゲーマーズ限定盤の「オリジナルトークCD」は当初の予定ではスタジオにて収録予定だったが、[新型コロナウイルス感染症の流行によって収録スタジオへの集合が困難となり](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、各メンバーが自宅にて録音した音声を使ったものになることが明らかになっている\[4\]。
+ゲーマーズ限定盤の「オリジナルトークCD」は当初の予定ではスタジオにて収録予定だったが、[新型コロナウイルス感染症の流行によって収録スタジオへの集合が困難となり](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")、各メンバーが自宅にて録音した音声を使ったものになった\[4\]。
 
 ## プロモーション
 
@@ -33,7 +33,7 @@
 
 本アルバムの発売記念イベント（リリースイベント）が計画中であると、2020年3月24日の『Run Girls, Run！の3人4脚自由形』第8回にて告知されている\[10\]。
 
-[FMヨコハマにて毎週放送されているRun](../Page/横浜エフエム放送.md "wikilink") Girls, Run\!の冠ラジオ番組『[Share the Night](../Page/Share_the_Night.md "wikilink")』では2020年4月9日（4月8日深夜）放送の回より、新曲を順に紹介している\[11\]。
+[FMヨコハマにて毎週放送されているRun](../Page/横浜エフエム放送.md "wikilink") Girls, Run\!の冠ラジオ番組『[Share the Night](../Page/Share_the_Night.md "wikilink")』では2020年4月9日（4月8日深夜）放送の回より、新曲をほぼフルコーラスで順に紹介した\[11\]。
 
 ## ツアー
 

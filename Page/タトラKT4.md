@@ -155,17 +155,9 @@ KT4は2両の車体を繋いだ[2車体連接車だが](../Page/連接台車.md 
 ## 参考資料
 
   -
-<!-- end list -->
-
   -
-<!-- end list -->
-
   -
-<!-- end list -->
-
   -
-<!-- end list -->
-
   -
 [Category:タトラカー](https://ja.wikipedia.org/wiki/Category:タトラカー "wikilink") [Category:PCCカー](https://ja.wikipedia.org/wiki/Category:PCCカー "wikilink") [Category:路面電車車両](https://ja.wikipedia.org/wiki/Category:路面電車車両 "wikilink") [Category:ドイツの路面電車車両](https://ja.wikipedia.org/wiki/Category:ドイツの路面電車車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:ラトビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ラトビアの路面電車車両 "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:エストニアの路面電車](https://ja.wikipedia.org/wiki/Category:エストニアの路面電車 "wikilink") [Category:ユーゴスラビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ユーゴスラビアの路面電車車両 "wikilink") [Category:クロアチアの路面電車車両](https://ja.wikipedia.org/wiki/Category:クロアチアの路面電車車両 "wikilink") [Category:セルビアの路面電車](https://ja.wikipedia.org/wiki/Category:セルビアの路面電車 "wikilink") [Category:朝鮮民主主義人民共和国の路面電車車両](https://ja.wikipedia.org/wiki/Category:朝鮮民主主義人民共和国の路面電車車両 "wikilink") [Category:ポーランドの路面電車車両](https://ja.wikipedia.org/wiki/Category:ポーランドの路面電車車両 "wikilink") [Category:ハンガリーの路面電車車両](https://ja.wikipedia.org/wiki/Category:ハンガリーの路面電車車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:1972年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1972年製の鉄道車両 "wikilink") [Category:連接式の鉄道車両](https://ja.wikipedia.org/wiki/Category:連接式の鉄道車両 "wikilink")
 

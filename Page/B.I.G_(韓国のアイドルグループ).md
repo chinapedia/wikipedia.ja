@@ -149,13 +149,67 @@
 
 #### シングル
 
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>No.</strong></p></th>
+<th><p><strong>タイトル</strong></p></th>
+<th><p><strong>収録曲</strong></p></th>
+<th><p>width="90" style="font-size: 85%;"　|Gaon<br />
+チャート<br />
+（週間）</p></th>
+<th><p>売上枚数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>align="left"　width="250"　|<strong>HELLO HELLO</strong><br />
+(2017年5月23日)</p></td>
+<td><p>align="left" style="font-size: 85%;"　width="250"　|</p>
+<ol>
+<li>'''HELLO HELLO '''</li>
+<li>낯설어</li>
+<li>1.2.3</li>
+<li>듀엣</li>
+<li>HELLO HELLO (Inst.)</li>
+<li>낯설어 (Inst.)</li>
+</ol></td>
+<td><p>25位<br />
+[14]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>align="left"　width="250"　|<strong>ILLUSION</strong><br />
+(2019年11月4日)</p></td>
+<td><p>align="left" style="font-size: 85%;"　width="250"　|</p>
+<ol>
+<li>'''ILLUSION '''</li>
+<li>ILLUSION (Arabic Version)</li>
+<li>ILLUSION (Inst.)</li>
+</ol></td>
+<td><p>60位<br />
+[15]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### デジタルシングル
+
   - **HELLO** (2014年7月9日)
   - **Are You Ready？** (2014年10月21日)
   - **夜と音楽の間** (2015年3月6日)
   - **BIG TRANSFORMER** (2015年11月19日)
   - **B.I.G Rebirth** (2017年2月13日)
-  - **HELLO HELLO** (2017年5月23日)
-  - **ILLUSION** (2019年11月4日)
 
 ### 日本
 
@@ -184,7 +238,7 @@
 <li>TAOLA（Instrumental）</li>
 </ol></td>
 <td><p>15位<br />
-[14]</p></td>
+[16]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -231,4 +285,6 @@
 11. \[<https://news.kstyle.com/article.ksn?articleNo=2130941>　注目の日韓イケメンが集結！グローバルアイドル育成プロジェクト「G-EGG」がついに始動へ…記者会見＆ショーケースを開催\]KSTYLE 2019年11月25日
 12. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=21&hitYear=2016&termGbn=week>　Gaonアルバムチャート2016年5月15日\~2016年5月21日\]
 13. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=05&hitYear=2016&termGbn=month>　Gaonアルバム月間チャート2016年5月\]
-14. \[<https://www.oricon.co.jp/prof/668282/products/1167190/1/>　オリコン作品ページ「TAOLA」\]
+14. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=22&hitYear=2017&termGbn=week>　Gaonアルバムチャート2017年5月28日\~2017年6月3日\]
+15. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=45&hitYear=2019&termGbn=week>　Gaonアルバムチャート2019年11月3日\~2019年11月9日\]
+16. \[<https://www.oricon.co.jp/prof/668282/products/1167190/1/>　オリコン作品ページ「TAOLA」\]

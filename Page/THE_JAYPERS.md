@@ -142,6 +142,8 @@
   - 初代ドラマー青木は、THE JAYPERS卒業後にドラム[修行](../Page/修行.md "wikilink")として、[ニューヨーク](../Page/ニューヨーク.md "wikilink")に渡米している。
   - 二代目ベーシスト平山はギタリストであったが、若年の頃にRIKIと出会い「背が高いから」とベースに転向を勧められた。
 
+## 出典
+
 ## 外部リンク
 
   - [オフィシャル ウェブサイト（日本語）](https://thejaypers.com/)
@@ -154,8 +156,6 @@
   - [Vocal RIE twitter](https://twitter.com/THE_JAYPERS_RIE)
   - [iTunes Music Store](https://music.apple.com/jp/album/the-jaypers-super-best-edition/414826659)
   - [Sony mora 公式ストア](https://mora.jp/package/43000076/RONNIES-005/)
-
-## 出典
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 

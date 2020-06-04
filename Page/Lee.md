@@ -83,7 +83,8 @@
 
   -
   -
-[Category:THE_HOOPERS](https://ja.wikipedia.org/wiki/Category:THE_HOOPERS "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1998年生](https://ja.wikipedia.org/wiki/Category:1998年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+  -
+[Category:THE_HOOPERS](https://ja.wikipedia.org/wiki/Category:THE_HOOPERS "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:日本の女性アイドル](https://ja.wikipedia.org/wiki/Category:日本の女性アイドル "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1998年生](https://ja.wikipedia.org/wiki/Category:1998年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

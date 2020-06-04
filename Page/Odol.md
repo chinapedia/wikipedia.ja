@@ -6,10 +6,10 @@
 ## メンバー
 
   - **ミゾベリョウ**\[4\]
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。2月25日生まれ。福岡県出身。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。2月25日生まれ。[福岡県](../Page/福岡県.md "wikilink")出身。
     全ての楽曲の[作詞](../Page/作詞.md "wikilink")を担当している。
   - **井上拓哉**（いのうえたくや）\[5\]
-    [ギター](../Page/ギター.md "wikilink")担当。10月5日生まれ。
+    ギター担当。10月5日生まれ。
   - **Shaikh Sofian**（シェイクソフィアン）\[6\]
     [ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")担当。10月16日生まれ。
   - **垣守翔真**（かきもりしょうま）\[7\]
@@ -21,7 +21,7 @@
 ### 旧メンバー
 
   - 早川知輝（はやかわともき）
-    [ギター](../Page/ギター.md "wikilink")担当。1991年11月29日生まれ。東京都出身。
+    ギター担当。1991年11月29日生まれ。[東京都](../Page/東京都.md "wikilink")出身。
     2016年11月18日加入\[9\]、2019年9月30日脱退\[10\]。
     バンド[DATS](https://ja.wikipedia.org/wiki/DATS "wikilink")ではベースを担当している。
 
@@ -408,11 +408,11 @@
       - 「**月夜&オパール**」
           - 編曲で参加。
   - ウェブCM「さあ、空を走ろう。」（[経済産業省](../Page/経済産業省.md "wikilink")、2018年12月発表）
-      -   - 森山が楽曲提供で参加。
+      - 森山が楽曲提供で参加。
   - ウェブCM「Good Morning 朝は好き？」（[西川](../Page/西川_\(企業\).md "wikilink")、2019年3月発表）
-      -   - ミゾベが歌唱で参加。
-  - [yui](https://ja.wikipedia.org/wiki/yui "wikilink") ([FLOWER FLOWER](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")) × ミゾベリョウ (odol)『ばらの花 × ネイティブダンサー』（[FRIENDSHIP.](../Page/ヒップランドミュージック.md "wikilink")、2019年12月25日配信）
-      -   - ミゾベが歌唱で参加。
+      - ミゾベが歌唱で参加。
+  - [yui](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink") ([FLOWER FLOWER](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")) × ミゾベリョウ (odol)『ばらの花 × ネイティブダンサー』（[FRIENDSHIP.](../Page/ヒップランドミュージック.md "wikilink")、2019年12月25日配信）
+      - ミゾベが歌唱で参加。
   - ECHOLL / Rayons『[サヨナラまでの30分](https://ja.wikipedia.org/wiki/サヨナラまでの30分 "wikilink")』（[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")、2020年1月22日発売）
       - 「**瞬間 (sayonara ver.)**」
           - ミゾベが作詞、森山が作曲、odolとして編曲で参加。

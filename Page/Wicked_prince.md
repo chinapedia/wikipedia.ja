@@ -14,7 +14,7 @@ iOS/Android端末用ゲーム『[〈物語〉シリーズ ぷくぷく](https://
 1.  **wicked prince**
       -
         歌：princess à la mode（[戦場ヶ原ひたぎ](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")、[羽川翼](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")、[八九寺真宵](../Page/加藤英美里.md "wikilink")、[神原駿河](../Page/沢城みゆき.md "wikilink")、[千石撫子](../Page/花澤香菜.md "wikilink")、[斧乃木余接](../Page/早見沙織.md "wikilink")、[阿良々木火憐](../Page/喜多村英梨.md "wikilink")、[阿良々木月火](../Page/井口裕香.md "wikilink")、[老倉育](../Page/井上麻里奈.md "wikilink")、[忍野扇](../Page/水橋かおり.md "wikilink")）
-        作詞：[meg rock](../Page/日向めぐみ.md "wikilink")、作曲・編曲：[神前暁](../Page/神前暁.md "wikilink")（[MONACA](https://ja.wikipedia.org/wiki/MONACA "wikilink")）
+        作詞：[meg rock](../Page/日向めぐみ.md "wikilink")、作曲：[神前暁](../Page/神前暁.md "wikilink")（[MONACA](https://ja.wikipedia.org/wiki/MONACA "wikilink")）編曲：[神前暁](../Page/神前暁.md "wikilink")（[MONACA](https://ja.wikipedia.org/wiki/MONACA "wikilink")）、木村孝明
         ゲーム『〈物語〉シリーズ ぷくぷく』主題歌
 2.  wicked prince -instrumental-
 

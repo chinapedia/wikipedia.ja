@@ -13,7 +13,7 @@
 
 ## 企画
 
-### モノコン2019[1](https://monocon2019.com/)
+### モノコン2019
 
 モノコン2019で、11個の「賞」それぞれに「お題」を設け、その「お題」にそって投稿された「物語」の中から優秀作品を選出\[2\]。
 
@@ -50,6 +50,8 @@
 
   -
   -
+  - [モノコン2019](https://monocon2019.com/)
+
 [Category:イラストレーション](https://ja.wikipedia.org/wiki/Category:イラストレーション "wikilink") [Category:デジタル・アート](https://ja.wikipedia.org/wiki/Category:デジタル・アート "wikilink") [Category:ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/Category:ソーシャル・ネットワーキング・サービス "wikilink") [Category:画像投稿コミュニティ](https://ja.wikipedia.org/wiki/Category:画像投稿コミュニティ "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:小説投稿サイト](https://ja.wikipedia.org/wiki/Category:小説投稿サイト "wikilink")
 
 1.

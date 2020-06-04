@@ -288,14 +288,14 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>計算物理学・流体力学研究室の主任研究員[39]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アメリカ合衆国海軍研究所" title="wikilink">アメリカ合衆国海軍研究所</a>計算物理学・流体力学研究室の主任研究員[39]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2003年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浅川智恵子" title="wikilink">浅川智恵子</a></p></td>
 <td><p>1958-</p></td>
-<td><p>。<a href="https://ja.wikipedia.org/wiki/IBM東京基礎研究所" title="wikilink">IBM東京基礎研究所</a>グループリーダーで、アクセシビリティの研究をしている。<a href="../Page/視覚障害者.md" title="wikilink">視覚障害者</a>のための音声読み上げWebブラウザである<a href="../Page/ホームページリーダー.md" title="wikilink">ホームページリーダー</a>を開発した[40]。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/IBMフェロー" title="wikilink">IBMフェロー</a>。<a href="https://ja.wikipedia.org/wiki/IBM東京基礎研究所" title="wikilink">IBM東京基礎研究所</a>グループリーダーで、アクセシビリティの研究をしている。<a href="../Page/視覚障害者.md" title="wikilink">視覚障害者</a>のための音声読み上げWebブラウザである<a href="../Page/ホームページリーダー.md" title="wikilink">ホームページリーダー</a>を開発した[40]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -526,9 +526,9 @@
 <td><p>エクゼクティブ・ディレクター[115]。ヒスパニック系教育の卓越性に関する大統領諮問委員会委員[116][117][118]</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イヴリン・ベレジン" title="wikilink">イヴリン・ベレジン</a></p></td>
 <td><p>1925-2018</p></td>
-<td><p>初の<a href="../Page/ワードプロセッサ.md" title="wikilink">ワードプロセッサ</a>を設計したことで知られるアメリカのコンピュータ技術者。また、初の、銀行用コンピュータデータシステムの設計を支援した[119]。</p></td>
+<td><p>初の<a href="../Page/ワードプロセッサ.md" title="wikilink">ワードプロセッサ</a>を設計したことで知られるアメリカのコンピュータ技術者。また、初の<a href="../Page/CRS_(航空).md" title="wikilink">コンピュータ予約システム</a>、銀行用コンピュータデータシステムの設計を支援した[119]。</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -15,8 +15,9 @@
 
   - [COVID-19アプリ](../Page/COVID-19アプリ.md "wikilink")
   - [2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink") (SARS-CoV-2)
+  - [新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink") (COVID-19)
   - [新型コロナウイルス感染症の世界的流行](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")
-  - [2019新型コロナウイルスによる急性呼吸器疾患](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink") (COVID-19)
+  - [感染経路](../Page/感染経路.md "wikilink")
 
 ## 外部リンク
 

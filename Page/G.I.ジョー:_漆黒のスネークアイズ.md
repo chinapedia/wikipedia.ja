@@ -27,7 +27,7 @@
 
 ### 撮影
 
-2018年10月15日、本作の[主要撮影](https://ja.wikipedia.org/wiki/主要撮影 "wikilink")が[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[バンクーバーで始まった](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")\[12\]\[13\]。なお、本作の撮影は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも行われた\[14\]\[15\]。
+2018年10月15日、本作の[主要撮影](https://ja.wikipedia.org/wiki/主要撮影 "wikilink")が[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[バンクーバーで始まった](../Page/バンクーバー_\(ブリティッシュコロンビア州\).md "wikilink")\[12\]\[13\]。なお、本作の撮影は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも姫路、大阪、茨城などで2ヶ月余りかけて行われた。\[14\]\[15\]。
 
 ## 公開
 

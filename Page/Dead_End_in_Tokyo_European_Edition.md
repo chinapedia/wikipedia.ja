@@ -6,7 +6,7 @@
 ## 概要
 
   - 自身初の配信限定EP\[2\]。
-  - 2017年6月22日からスタートする自身の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")ツアーにあわせてヨーロッパのみでリリースされる予定の商品だったが、日本のファンにも届けたいというメンバーの想いから配信決定に至った\[3\]
+  - 2017年6月22日からスタートする自身の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")ツアーにあわせてヨーロッパのみでリリースされる予定の商品だったが、日本のファンにも届けたいというメンバーの想いから配信決定に至った。\[3\](\*ただし、ヨーロッパにてCDとして発売された本作は輸入盤扱いとして日本でも販売されている為入手する事が出来る。)
   - 収録曲は、主に自身の7thシングル『[Dead End in Tokyo](https://ja.wikipedia.org/wiki/Dead_End_in_Tokyo "wikilink")』から構成されており、それに加え新曲「Dog Days」や、アニメタイアップ曲の「[Raise your flag](https://ja.wikipedia.org/wiki/Raise_your_flag "wikilink")」「[Seven Deadly Sins](https://ja.wikipedia.org/wiki/Seven_Deadly_Sins "wikilink")」を収録し、更に、[The World's On Fire TOUR 2016のライブ音源を](https://ja.wikipedia.org/wiki/狼大全集V "wikilink")3曲収録している。
 
 ## 収録曲

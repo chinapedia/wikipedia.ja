@@ -22,12 +22,12 @@
 
 ## 外部リンク
 
-  - サウンド・イン・カラー(Sound in Color)[1](http://www.soundincolor.com/)
-  - P.L.A.Y [2](https://letsplay.house/sound-in-color-new-world-color/)
+  - [サウンド・イン・カラー(Sound in Color)](http://www.soundincolor.com/)
+  - [P.L.A.Y](https://letsplay.house/sound-in-color-new-world-color/)
 
-｢[カテゴリ:トラックメイカー](https://ja.wikipedia.org/wiki/カテゴリ:トラックメイカー "wikilink")
+[カテゴリ:トラックメイカー](https://ja.wikipedia.org/wiki/カテゴリ:トラックメイカー "wikilink")
 
-[Category:福岡市出身の人物](https://ja.wikipedia.org/wiki/Category:福岡市出身の人物 "wikilink") [Category:カリフォルニア州の人物](https://ja.wikipedia.org/wiki/Category:カリフォルニア州の人物 "wikilink") [Category:アメリカ合衆国のミュージシャン](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のミュージシャン "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:アメリカ合衆国のミュージシャン](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のミュージシャン "wikilink") [Category:カリフォルニア州の人物](https://ja.wikipedia.org/wiki/Category:カリフォルニア州の人物 "wikilink") [Category:福岡市出身の人物](https://ja.wikipedia.org/wiki/Category:福岡市出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

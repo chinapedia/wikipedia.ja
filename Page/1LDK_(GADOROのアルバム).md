@@ -18,7 +18,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>チャート（2019年）</p></th>
+<th><p>チャート（2020年）</p></th>
 <th><p>最高<br />
 順位</p></th>
 </tr>

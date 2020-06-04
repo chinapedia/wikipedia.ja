@@ -5,7 +5,7 @@
 
 ## 概要
 
-『FINAL FANTASY VII REMAKE Original Soundtrack/～Special edit version～』の内容を含む。 ～Special edit version～はDISC9追加でジュークボックスバージョンが収録されており、通常盤はDISC8枚までとなっており内容はほぼ変わらない仕様となっている。 今作では多数の作・編曲者が参加しており、新曲関連は主に浜渦正志氏・鈴木光人氏が担当している。
+『FINAL FANTASY VII REMAKE Original Soundtrack/～Special edit version～』の内容を含む。 Special edit versionはDISC8追加でジュークボックスバージョンが収録されており、通常盤はDISC7枚までとなっており内容はほぼ変わらない仕様となっている。 今作では多数の作・編曲者が参加しており、新曲関連は主に浜渦正志氏・鈴木光人氏が担当している。
 
 ## 収録内容
 

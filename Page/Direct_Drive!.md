@@ -1,7 +1,7 @@
 > この記事は[Direct Drive!](https://ja.wikipedia.org/wiki/Direct_Drive!)から翻訳されています。
 
 
-『**Direct Drive\!**』は、[D4DJ](../Page/D4DJ.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に株式会社ブシロードミュージックから発売された。
+『**Direct Drive\!**』は、[D4DJ](../Page/D4DJ.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")\[1\]。[2020年](../Page/2020年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に株式会社[ブシロードミュージック](https://ja.wikipedia.org/wiki/ブシロードミュージック "wikilink")から発売された。
 
 ## 概要
 
@@ -30,7 +30,7 @@
         歌：
 5.  **カレンデュラ**
       -
-        作詞：eMPIRE SOUND SYSTeMS、 作曲・編曲：Sho from [MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")
+        作詞：eMPIRE SOUND SYSTeMS、 作曲・編曲：[Sho from MY FIRST STORY](../Page/Sho.md "wikilink")
         歌：
 6.  '''Direct Drive\! -instrumental- '''
 7.  '''Let’s do the ‘Big-Bang\!’ -instrumental- '''
@@ -41,3 +41,5 @@
 ## 脚注
 
 [Category:ブシロードミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:ブシロードミュージックのアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink")
+
+1.

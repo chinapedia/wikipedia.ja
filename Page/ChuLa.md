@@ -37,16 +37,17 @@
   - 5月1日、渋谷Studio Freedomにて行われたchuLa主催ライブ「2周年&新メンバーデビューLIVE」で、新メンバー4人を含む8人体制を初披露。
   - 6月4日、「4thワンマンライブ」を[TSUTAYA O-EASTにて開催](../Page/Shibuya_O-EAST.md "wikilink")。
   - 6月15日、白金高輪SELENE b2で開催された対バンライブ「[TIF2019メインステージ争奪LIVE](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL#2019年 "wikilink")〜前哨戦〜」に出演。ネット投票最下位ながらも、最終的に2位となり、8月2日に行われる決勝への切符を手にした。
-  - 8月2・4日、TIF2019に出演。2日に行われたメインステージ争奪決勝にて敗れ、惜しくも4日のHOT STAGEでのライブの機会を逃した。\[1\] \[2\]
+  - 8月2・4日、TIF2019に出演。2日に行われたメインステージ争奪決勝にて敗れ、惜しくも4日のHOT STAGEでのライブの機会を逃した\[1\] \[2\]。
   - 9月18日、[声帯ポリープ](../Page/声帯ポリープ.md "wikilink")により、大場の活動終了を発表。
   - 9月21日、「全国8都市ツアー〜閃光8〜」の東京公演を白金高輪SELENE b2にて開催。またこの日を皮切りに、愛知・宮城・福島・石川・埼玉・静岡・大阪の計8都市で公演を実施。
   - 11月30日、TSUTAYA O-EASTにて行われたchuLa主催ライブ「夏目みさき卒業公演」をもって夏目が卒業。
 
 ### 2020年
 
-  - 1月26日、新メンバーとして、北野ゆか、七瀬うたの2人が加入。
-  - 2月15日、フジさんのヨコにて行われた対バンライブ「mini TIF vol.64」にて、北野・七瀬を含む8人体制を初披露。
-  - 5月26日、[ロックフィールド](https://ja.wikipedia.org/wiki/ロックフィールド "wikilink")×[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、1stシングル「完全無敵あいうえお」をメジャーリリース予定。\[3\]
+  - 1月26日、新メンバーとして、北野ゆか、七瀬うたの2人が加入\[3\]。
+  - 2月15日、フジさんのヨコにて行われた対バンライブ「mini TIF vol.64」にて、北野・七瀬を含む8人体制を初披露\[4\]。
+  - 5月1日、公式Twitterにてルール違反を理由に花咲ひよりの契約を5月31日にて解除することを発表\[5\]。
+  - 5月26日、ロックフィールド×[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、1stシングル「完全無敵あいうえお」をメジャーリリース予定\[6\]。
 
 ## メンバー
 
@@ -64,7 +65,7 @@
 <td><p>桜木妃奈</p></td>
 <td><p>ピチピチピンク</p></td>
 <td><p>2月27日</p></td>
-<td><p>現在唯一の初期メンバー、元<a href="https://ja.wikipedia.org/wiki/ニコニコ♡LOVERS" title="wikilink">ニコニコ♡LOVERS</a>メンバー[4]</p></td>
+<td><p>現在唯一の初期メンバー、元<a href="https://ja.wikipedia.org/wiki/ニコニコ♡LOVERS" title="wikilink">ニコニコ♡LOVERS</a>メンバー[7]</p></td>
 </tr>
 <tr class="even">
 <td><p>佐藤まりん</p></td>
@@ -94,7 +95,7 @@
 <td><p>花咲ひより</p></td>
 <td><p>幸せグリーン</p></td>
 <td><p>11月2日</p></td>
-<td><p>グラビアでも活躍中 [5]</p></td>
+<td><p>グラビアでも活躍中 [8]</p></td>
 </tr>
 <tr class="odd">
 <td><p>北野ゆか</p></td>
@@ -180,7 +181,7 @@
 
   - (作詞:[穐田和恵](https://ja.wikipedia.org/wiki/穐田和恵 "wikilink") 作編曲:川崎ダイスケ)
 
-  - (作詞・作曲:八十島弘之([2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")) 編曲:中村皓、[樋口聖典](https://ja.wikipedia.org/wiki/樋口聖典 "wikilink")) \[6\]
+  - (作詞・作曲:八十島弘之([2700](https://ja.wikipedia.org/wiki/2700_\(お笑いコンビ\) "wikilink")) 編曲:中村皓、[樋口聖典](https://ja.wikipedia.org/wiki/樋口聖典 "wikilink")) \[9\]
 
   - (作詞:穐田和恵 作編曲:川崎ダイスケ)
 
@@ -444,18 +445,6 @@
 <td><p>3月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p>5月11日</p></td>
-</tr>
-<tr class="even">
-<td><p>5月12日</p></td>
-</tr>
-<tr class="odd">
-<td><p>5月18日</p></td>
-</tr>
-<tr class="even">
-<td><p>5月24日</p></td>
-</tr>
-<tr class="odd">
 <td><p>7月4日</p></td>
 </tr>
 <tr class="even">
@@ -474,7 +463,7 @@
 
   - 「chuLaの ちゅらららじお！」 (Shibuya-Cross FM、2017年5月2日 - ) 月1回程度放送。
   - 「[NON STYLE](../Page/NON_STYLE.md "wikilink")[井上の渋谷ジャック](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")」(Shibuya-Cross FM、2018年10月28日) ゲスト出演
-  - 「[アイドルゾーン20時](https://ja.wikipedia.org/wiki/アイドルゾーン20時 "wikilink")」（[TOKYO MX2](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2019年4月1日 - 6月21日）金曜レギュラー\[7\]
+  - 「[アイドルゾーン20時](https://ja.wikipedia.org/wiki/アイドルゾーン20時 "wikilink")」（[TOKYO MX2](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2019年4月1日 - 6月21日）金曜レギュラー\[10\]
   - 「[上月せれな](https://ja.wikipedia.org/wiki/上月せれな "wikilink")のラジオモンスター」([エフエム富士](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、2019年7月16日) ゲスト出演
   - 「[この指と〜まれ\!](https://ja.wikipedia.org/wiki/この指と〜まれ! "wikilink")season3」 ([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")、2019年7月29日)
   - 「バリふり\!\!\!」（TOKYO MX2、2019年8月18日 -、日曜隔週）
@@ -529,12 +518,15 @@
 
   - TikTok
       -
-[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink") [Category:Freek](https://ja.wikipedia.org/wiki/Category:Freek "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  かつてFreeKに存在した女性アイドルグループ「女塾オールスターズ」の楽曲のカバーであり、同事務所のKATA☆CHUもこの曲をカバーしている。
+6.
 7.
+8.
+9.  かつてFreeKに存在した女性アイドルグループ「女塾オールスターズ」の楽曲のカバーであり、同事務所のKATA☆CHUもこの曲をカバーしている。
+10.

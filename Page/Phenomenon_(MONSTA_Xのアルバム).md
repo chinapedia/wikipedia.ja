@@ -5,32 +5,35 @@
 
 ## 解説
 
-前作『[PIECE](https://ja.wikipedia.org/wiki/PIECE_\(MONSTA_Xのアルバム\) "wikilink")』以来約1年4ヶ月ぶりのリリース。[6月18日](../Page/6月18日.md "wikilink")に生出演した[日本テレビ系列の情報番組](../Page/日本テレビ放送網.md "wikilink")『[スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")』の放送終了間際で、本作のリリースが発表された\[1\]。
+前作『[PIECE](https://ja.wikipedia.org/wiki/PIECE_\(MONSTA_Xのアルバム\) "wikilink")』以来約1年4ヶ月ぶりのリリース。[6月18日](../Page/6月18日.md "wikilink")に生出演した[日本テレビ系列の情報番組](../Page/日本テレビ放送網.md "wikilink")『[スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")』の放送終了間際で、本作のリリースが発表された\[1\]。
 
 前作以降に日本で発売されたシングル「[LIVIN' IT UP](https://ja.wikipedia.org/wiki/LIVIN'_IT_UP "wikilink")」「[Shoot Out](../Page/Shoot_Out.md "wikilink")」「[Alligator](../Page/Alligator_\(MONSTA_Xの曲\).md "wikilink")」の3作の他、メンバーが作詞作曲を手がけた楽曲などが収録されている\[2\]。なお、日本で発売された作品にメンバーが作詞作曲を手がけた楽曲が収録されたのは、本作が初となる。
 
 本作の発売を記念して、[8月16日](../Page/8月16日.md "wikilink")から[31日にかけて](../Page/8月31日.md "wikilink")[渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")のハチ公口に大型ボードが掲出された\[3\]。
 
-2019年[9月2日](../Page/9月2日.md "wikilink")付のオリコン週間アルバムランキングで初登場3位を獲得した\[4\]。
+2019年[9月2日](../Page/9月2日.md "wikilink")付の[オリコン週間アルバムランキングで初登場](../Page/オリコンチャート.md "wikilink")2位を獲得した\[4\]。
 
-なお、日本においては、本作がウォノが参加した最後のアルバムとなった。
+なお、日本においては、本作が[ウォノ](https://ja.wikipedia.org/wiki/ウォノ "wikilink")が参加した最後のアルバムとなった。
 
 ## 仕様
 
 **【初回限定盤A】**
 
+  - [品番](../Page/規格品番.md "wikilink") : UPCH-29336
   - CD+DVD
   - トールケース仕様
   - スリーブケース仕様
 
 **【初回限定盤B】**
 
+  - 品番 : UPCH-29337
   - CD+DVD
   - トールケース仕様
   - スリーブケース仕様
 
 **【通常盤】**
 
+  - 品番 : UPCH-29338
   - CD
 
 ## 収録内容
@@ -84,7 +87,7 @@
 13. （[隠しトラック](../Page/隠しトラック.md "wikilink")）
       -
         正式なタイトルは不明。
-        5分間の無音の後、初回限定盤Aにはウォノとジュホン、初回限定盤Bにはショヌと[キヒョン](../Page/キヒョン.md "wikilink")、通常盤はミニョクとヒョンウォンとI.Mのボイスメッセージが収録されている。
+        5分間の無音の後、初回限定盤Aには[ウォノ](https://ja.wikipedia.org/wiki/ウォノ "wikilink")と[ジュホン](https://ja.wikipedia.org/wiki/ジュホン "wikilink")、初回限定盤Bにはショヌと[キヒョン](../Page/キヒョン.md "wikilink")、通常盤はミニョクとヒョンウォンとI.Mのボイスメッセージが収録されている。
 
 ## 脚注
 

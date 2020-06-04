@@ -54,6 +54,7 @@
 | -- | ----------- | -------------------------------------- | -------------- | ---------- | --------------------------------------------------------------------- |
 | 1  | **キセラセラ**   | [つるうちはな](../Page/つるうちはな.md "wikilink") | つるうちはな         | 2020年4月18日 | 編曲:[タカユキカトー](https://ja.wikipedia.org/wiki/タカユキカトー "wikilink")・つるうちはな |
 | 2  | **yum yum** | あくちゃん                                  | teoremaa・あくちゃん | 2020年4月18日 |                                                                       |
+| 3  | **ワンダーランド** | あくちゃん                                  | 佐々木二郎          | 2020年5月17日 | 編曲:佐々木二郎                                                              |
 |    |             |                                        |                |            |                                                                       |
 
 ## 作品
@@ -82,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2020年4月</p></td>
+<td><p>2020年4月18日</p></td>
 <td><p><strong>キセラセラ</strong></p></td>
 <td></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -97,6 +98,32 @@
 </div></li>
 </ol></td>
 <td><p>初シングル</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2020年5月16日</p></td>
+<td><p><strong>ワンダーランド</strong></p></td>
+<td></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>ワンダーランド</li>
+<li>yum yum remix
+</div>
+</div></li>
+</ol></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>

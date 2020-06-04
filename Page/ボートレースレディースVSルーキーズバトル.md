@@ -26,6 +26,7 @@
 | 2019年2月16日  | [江戸川](../Page/江戸川競艇場.md "wikilink")                    | [澤崎雄哉](https://ja.wikipedia.org/wiki/澤崎雄哉 "wikilink") | 4880     |
 | 2019年6月13日  | [びわこ](https://ja.wikipedia.org/wiki/びわこ競艇場 "wikilink") | [吉川貴仁](https://ja.wikipedia.org/wiki/吉川貴仁 "wikilink") | 4926     |
 | 2020年2月9日   | [津](../Page/津競艇場.md "wikilink")                        | [松尾拓](https://ja.wikipedia.org/wiki/松尾拓 "wikilink")   | 4808     |
+| 2020年5月11日  | [丸亀](../Page/丸亀競艇場.md "wikilink")                      | [平高奈菜](https://ja.wikipedia.org/wiki/平高奈菜 "wikilink") | 4450     |
 
 ## 脚注
 

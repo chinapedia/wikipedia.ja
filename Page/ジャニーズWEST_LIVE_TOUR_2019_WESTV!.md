@@ -12,7 +12,7 @@
 1.  Overture
 2.  **[スタートダッシュ\!](https://ja.wikipedia.org/wiki/スタートダッシュ!_\(ジャニーズWESTの曲\) "wikilink")**
 3.  **[ええじゃないか](https://ja.wikipedia.org/wiki/ええじゃないか_\(曲\) "wikilink")**
-4.  **[パーリパーリパリ-カタカナを叫べ-](https://ja.wikipedia.org/wiki/WESTV! "wikilink")**
+4.  **[パーリパーリパリ -カタカナを叫べ-](https://ja.wikipedia.org/wiki/WESTV! "wikilink")**
 5.  Inter
 6.  **[アカツキ](https://ja.wikipedia.org/wiki/スタートダッシュ!_\(ジャニーズWESTの曲\) "wikilink")**
 7.  **[Drift\!\!](https://ja.wikipedia.org/wiki/WESTV! "wikilink")**
@@ -21,9 +21,9 @@
     1.  WESTV\!Inter
     2.  星座WEST
     3.  **[初恋](https://ja.wikipedia.org/wiki/プリンシパルの君へ/ドラゴンドッグ "wikilink")**
-10. **[粉モン](https://ja.wikipedia.org/wiki/go_WEST_よーいドン! "wikilink")**
+10. **[粉もん](https://ja.wikipedia.org/wiki/go_WEST_よーいドン! "wikilink")**
 11. **[月詠人](https://ja.wikipedia.org/wiki/WESTV! "wikilink")** - [桐山照史](../Page/桐山照史.md "wikilink")・[小瀧望](https://ja.wikipedia.org/wiki/小瀧望 "wikilink")
-12. **[僕らの奇跡〜ジャニーズWEST列島縦断〜](https://ja.wikipedia.org/wiki/スタートダッシュ!_\(ジャニーズWESTの曲\) "wikilink")**
+12. **[僕らの奇跡 〜ジャニーズWEST列島縦断〜](https://ja.wikipedia.org/wiki/スタートダッシュ!_\(ジャニーズWESTの曲\) "wikilink")**
 13. **[ズンドコ パラダイス](https://ja.wikipedia.org/wiki/ズンドコ_パラダイス "wikilink")**
 14. **[プリンシパルの君へ](https://ja.wikipedia.org/wiki/プリンシパルの君へ/ドラゴンドッグ "wikilink")**
 15. **[Ya\! Hot\! Hot\!](https://ja.wikipedia.org/wiki/おーさか☆愛・EYE・哀/Ya!_Hot!_Hot! "wikilink")**
@@ -31,7 +31,7 @@
 17. MC
 18. Jr.コーナー
     1.  **NEXT STAGE**
-    2.  **NOT FINAL**
+    2.  **NOT FINALE**
     3.  **[Come On A My House](https://ja.wikipedia.org/wiki/Come_On_A_My_House "wikilink")**
     4.  **ハチャメチャ音頭**
 19. **[間違っちゃいない](https://ja.wikipedia.org/wiki/WESTV! "wikilink")** - [濵田崇裕](https://ja.wikipedia.org/wiki/濵田崇裕 "wikilink")・[重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink") ・[神山智洋](../Page/神山智洋.md "wikilink")
@@ -56,11 +56,12 @@ W ENCORE
 
 1.  **[パリピポ](https://ja.wikipedia.org/wiki/パリピポ "wikilink")アンセム**
 
-### Disc 2
+### 特典映像 ＜SPECIAL REEL＞
 
-1.  特典映像「SPECIAL REEL」
+Disc 2
 
-Tour Documentary〜We are WEST\!\!\!\!\!\!\!〜 WESTV\! Inter ×7type
+1.  Tour Documentary 〜We are WEST\!\!\!\!\!\!\!〜
+2.  WESTV\! Inter ×7type
 
 ## 外部リンク
 

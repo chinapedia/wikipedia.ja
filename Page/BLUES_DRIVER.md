@@ -64,7 +64,14 @@ BLUES DRIVERは[ローランド](../Page/ローランド.md "wikilink")（[BOSS]
 <tr class="odd">
 <td><p>Akito Nakayama (THINGS.)</p></td>
 <td><p>「<a href="https://youtube.com/watch?v=T_UxihypIYc">大嫌いで、本当に最低で</a>」<br />
-「<a href="https://youtube.com/watch?v=eNSrG8Sc9Uw">BLUES DRIVER</a>」</p></td>
+「<a href="https://youtube.com/watch?v=eNSrG8Sc9Uw">BLUES DRIVER</a>」<br />
+「<a href="https://youtube.com/watch?v=4d1AFSOMnEQ">Good Bye My Girlfriend Baby</a>」<br />
+「<a href="https://youtube.com/watch?v=EaWziwG9-Ro">This My Life All Away</a>」</p></td>
+</tr>
+<tr class="even">
+<td><p>neneko shiraishi</p></td>
+<td><p>「<a href="https://youtube.com/watch?v=zHt4WHowrj8">勇者ではないです</a>」<br />
+「<a href="https://youtube.com/watch?v=4SYNdBfHqfg">幸せブルース</a>」</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,7 +1,7 @@
 > この記事は[ピクサー・ショート・フィルム Vol.2](https://ja.wikipedia.org/wiki/ピクサー・ショート・フィルム_Vol.2)から翻訳されています。
 
 
-**ピクサー・ショート・フィルム Vol.2**は、[2007年](../Page/2007年.md "wikilink")の『[ピクサー・ショート・フィルム Vol.1](https://ja.wikipedia.org/wiki/ピクサー・ショート・フィルム "wikilink")』および1996年のTiny Toy Storiesに続く、2012年に発売された[ピクサーアニメーション](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")[短編映画](../Page/短編映画.md "wikilink")の[オムニバス](../Page/オムニバス.md "wikilink")形式の[DVD](../Page/DVD.md "wikilink")および[ブルーレイ](https://ja.wikipedia.org/wiki/ブルーレイ "wikilink")である。 2007年から2012年に公開された12本の短編を収録しており、特典としてピクサーの監督の学生時代の映画が含まれている。Vol.2は2012年11月13日に[ウォルト・ディズニー・スタジオ・ホーム・エンターテインメントによって販売さた](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ・ホーム・エンターテイメント "wikilink")。 \[1\] その後、2018年11月13日にピクサー・ショート・フィルム Vol.3が発売されている。
+**ピクサー・ショート・フィルム Vol.2**は、[2007年](../Page/2007年.md "wikilink")の『[ピクサー・ショート・フィルム Vol.1](https://ja.wikipedia.org/wiki/ピクサー・ショート・フィルム "wikilink")』および1996年の『Tiny Toy Stories』に続く、2012年に発売された[ピクサーアニメーション](https://ja.wikipedia.org/wiki/ピクサー・アニメーション・スタジオ "wikilink")[短編映画](../Page/短編映画.md "wikilink")の[オムニバス](../Page/オムニバス.md "wikilink")形式の[DVD](../Page/DVD.md "wikilink")および[ブルーレイ](https://ja.wikipedia.org/wiki/ブルーレイ "wikilink")である。 2007年から2012年に公開された12本の短編を収録しており、特典としてピクサーの監督の学生時代の映画が含まれている。Vol.2は2012年11月13日に[ウォルト・ディズニー・スタジオ・ホーム・エンターテインメントによって販売さた](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・スタジオ・ホーム・エンターテイメント "wikilink")\[1\]。その後、2018年11月13日に『ピクサー・ショート・フィルム Vol.3』が発売されている。
 
 ## 収録内容
 

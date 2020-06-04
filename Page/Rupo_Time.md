@@ -25,7 +25,7 @@
 </tr>
 <tr class="even">
 <td><p>五十嵐 晴菜 （いがらし はるな）</p></td>
-<td><p>1997.04.03（22歳）</p></td>
+<td><p>1997.04.03（23歳）</p></td>
 <td><p>神奈川県</p></td>
 <td><p>Vocal Dance</p></td>
 </tr>

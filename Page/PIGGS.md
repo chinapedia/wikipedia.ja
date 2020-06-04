@@ -39,7 +39,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/プー・ルイ" title="wikilink">プー・ルイ</a></strong></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">8月20日</a></p></td>
-<td></td>
+<td><p>A型</p></td>
 <td><p>155cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
 <p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a>、<a href="https://ja.wikipedia.org/wiki/LUI_FRONTiC_赤羽JAPAN" title="wikilink">LUI FRONTiC 赤羽JAPANの元ボーカル</a>、元<a href="https://ja.wikipedia.org/wiki/BILLIE_IDLE®" title="wikilink">BILLIE IDLE®</a>。</p></td>
@@ -47,33 +47,36 @@
 <tr class="even">
 <td><p><strong>CHIYO-P</strong><br />
 チヨピー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a>[11]<br />
 (育ちは埼玉県)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8月20日" title="wikilink">2月28日</a></p></td>
 <td><p>O型</p></td>
 <td><p>151cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>1次オーデション合格者[11]。</p></td>
+<p>1次オーデション合格者[12]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>SHELLME</strong><br />
 シェルミー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/豊橋市.md" title="wikilink">豊橋市</a>[13]</p></td>
 <td><p><a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td><p>O型</p></td>
 <td><p>164cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>追加オーデション合格者[12]。</p></td>
+<p>追加オーデション合格者[14]。</p>
+<p>モデルのオーディション準グランプリ[15]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>UMI</strong><br />
 ウミ</p></td>
-<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a></p></td>
+<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a>[16]</p></td>
 <td><p><a href="../Page/11月5日.md" title="wikilink">11月5日</a></p></td>
 <td><p>A型</p></td>
 <td><p>156cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>1次オーデション合格者[13]。</p></td>
+<p>1次オーデション合格者[17]。</p>
+<p>3人姉妹[18]。</p>
+<p>学生時代はバスケ部[19]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>BAN-BAN</strong><br />
@@ -83,7 +86,8 @@
 <td><p>B型</p></td>
 <td><p>160cm</p></td>
 <td><div class="NavContent" style="text-align:left;">
-<p>追加オーデション合格者[14]。</p></td>
+<p>追加オーデション合格者[20]。</p>
+<p><a href="https://ja.wikipedia.org/wiki/東京大学" title="wikilink">東京大学</a>在学中。</p></td>
 </tr>
 </tbody>
 </table>
@@ -151,3 +155,9 @@
 12.
 13.
 14.
+15.
+16.
+17.
+18.
+19.
+20.

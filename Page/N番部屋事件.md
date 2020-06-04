@@ -138,17 +138,21 @@
 
 \*;イギヤ\[4\]
 
-\*: [2020年](../Page/2020年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")、警察庁身元公開審議委員会の決定に基づいて、陸軍一等兵の身上公開が決定した。\[5\]\[6\]
+\*: [2020年](../Page/2020年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")、警察庁身元公開審議委員会の決定に基づいて、陸軍一等兵の身上公開が決定した。\[5\]\[6\]\[7\]
 
-\*;元社会公益勤務要員\[7\]
+\*;元社会公益勤務要員\[8\]
 
 \*;ブッタ
 
-\*:[2020年](../Page/2020年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")、「博士の部屋」の参加者を募集して得られた犯罪収益金（仮想通貨）をチョ・ジュビンに与えた疑いで、[児童・青少年の性保護に関する法律](https://ja.wikipedia.org/wiki/児童・青少年の性保護に関する法律 "wikilink")違反などの疑いを適用して逮捕され、拘束令状が申請された。\[8\] [4月16日](../Page/4月16日.md "wikilink")、「博士の部屋」の共同運営者カン・フン（18）の身元が公開された。\[9\]\[10\]
+\*:[2020年](../Page/2020年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")、「博士の部屋」の参加者を募集して得られた犯罪収益金（仮想通貨）をチョ・ジュビンに与えた疑いで、[児童・青少年の性保護に関する法律](https://ja.wikipedia.org/wiki/児童・青少年の性保護に関する法律 "wikilink")違反などの疑いを適用して逮捕され、拘束令状が申請された。\[9\] [4月16日](../Page/4月16日.md "wikilink")、「博士の部屋」の共同運営者カン・フン（18）の身元が公開された。\[10\]\[11\]
+
+\*;カッカッ
+
+\*:[2020年](../Page/2020年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")、一連のn番部屋の創始者であるニックネーム"カッカッ"ことムン・ヒョンウクを、児童・青少年の性保護に関する法律違反で逮捕\[12\]、5月13日に本名が公開された\[13\]。
 
 ## 社会への影響
 
-n番の加害者の処罰を要求する大統領府国民請願が2019年11月29日に上がってきたが、同意者が133、313人を記録し、請願の回答を受けられなかった。　以降、大統領府と国会に請願の受付が相次いだ。
+n番の加害者の処罰を要求する大統領府国民請願が2019年11月29日に上がってきたが、同意者が133,313人を記録し、請願の回答を受けられなかった。　以降、大統領府と国会に請願の受付が相次いだ。
 
 3月26日、行政安全部の住民登録番号変更委員会は、"n番地"の被害者と認知される住民登録番号変更申請の件があった場合、"緊急処理案件"として上程し、できるだけ3週間以内に速やかに処理するという立場を明らかにした。 本来、法定処理期間は6ヵ月であり、通常3ヵ月がかかる。 　
 
@@ -200,7 +204,10 @@ n番の加害者の処罰を要求する大統領府国民請願が2019年11月2
 4.  [조주빈 공범 '이기야'는 '현역 군인'…軍 "엄정 처리"](http://www.inews24.com/view/1255414)
 5.  ['박사방' 공범 육군 일병 신상공개 오늘 결정](https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=277&aid=0004669065&date=20200428&type=0&rankingSeq=2&rankingSectionId=100)
 6.  [박사방 '이기야'는 19세 이원호 일병](https://news.chosun.com/site/data/html_dir/2020/04/28/2020042803646.html?utm_source=naver&utm_medium=original&utm_campaign=news)
-7.  [조주빈에 개인정보 넘긴 공익 구속…法 "피해 극심·도망 우려"](https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=018&aid=0004612699&date=20200403&type=1&rankingSeq=3&rankingSectionId=102)
-8.  [조주빈 도와 '박사방' 관리한 18세 공범 '부따' 구속영장](https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=001&aid=0011530817&isYeonhapFlash=Y&rc=N)
-9.  [조주빈 공범 '부따'는 2001년생 강훈···내일 얼굴 공개한다](https://news.joins.com/article/23755822)
-10. [韓国史上最悪のネット性犯罪「n番部屋事件」、10代の被疑者”ブッタ”身元公開へ](https://headlines.yahoo.co.jp/hl?a=20200416-00256321-wow-kr)
+7.  [「n番の部屋」事件、19歳の共犯者の「顔写真」公開 軍が初の身元公開](https://news.livedoor.com/article/detail/18196990/)
+8.  [조주빈에 개인정보 넘긴 공익 구속…法 "피해 극심·도망 우려"](https://news.naver.com/main/ranking/read.nhn?mid=etc&sid1=111&rankingType=popular_day&oid=018&aid=0004612699&date=20200403&type=1&rankingSeq=3&rankingSectionId=102)
+9.  [조주빈 도와 '박사방' 관리한 18세 공범 '부따' 구속영장](https://news.naver.com/main/read.nhn?mode=LPOD&mid=sec&oid=001&aid=0011530817&isYeonhapFlash=Y&rc=N)
+10. [조주빈 공범 '부따'는 2001년생 강훈···내일 얼굴 공개한다](https://news.joins.com/article/23755822)
+11. [韓国史上最悪のネット性犯罪「n番部屋事件」、10代の被疑者”ブッタ”身元公開へ](https://headlines.yahoo.co.jp/hl?a=20200416-00256321-wow-kr)
+12. [韓国史上最悪のネット性犯罪“n番部屋事件”、チャットルーム創設者「ガッガッ」を拘束＝裁判所が逮捕状発行](https://news.nifty.com/article/world/korea/12211-658668/)
+13. [“n番の部屋”を最初に作った人物の「顔写真」が公開…“カッカッ”は24歳の大学生だった](https://sportsseoulweb.jp/society_topic/id=12446) [スポーツソウル](../Page/スポーツソウル.md "wikilink")2020年5月13日付。

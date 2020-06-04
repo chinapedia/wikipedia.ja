@@ -37,6 +37,7 @@
       -
         SUGIZO原曲
         「[機動戦士ガンダム40周年プロジェクト](http://gundam40th.net/)」記念テーマ曲
+        後に「**[THE BEYOND GUNPLA 40th EDITION THE BEYOND X MS-06 ZAKU II Ver.LUNA SEA](https://ja.wikipedia.org/wiki/THE_BEYOND_GUNPLA_40th_EDITION_THE_BEYOND_X_MS-06_ZAKU_II_Ver.LUNA_SEA "wikilink")**」としてシングルカットされた。
 5.  **You’re knocking at my door**
       -
         INORAN原曲

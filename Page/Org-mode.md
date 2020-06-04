@@ -21,7 +21,7 @@ org-modeは2003年に誕生しました。
 
 ### エクスポート
 
-エクスポートできる主なファイル形式を挙げる。\[9\]
+[エクスポートできる主なファイル形式を挙げる](https://ja.wikipedia.org/wiki/エクスポート_\(コンピュータ\) "wikilink")。\[9\]
 
   - [HTML](https://ja.wikipedia.org/wiki/HTML "wikilink")
   - [LaTeX](../Page/LaTeX.md "wikilink")

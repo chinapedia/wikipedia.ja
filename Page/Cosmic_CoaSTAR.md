@@ -1,11 +1,11 @@
 > この記事は[Cosmic CoaSTAR](https://ja.wikipedia.org/wiki/Cosmic_CoaSTAR)から翻訳されています。
 
 
-『**Cosmic CoaSTAR**』は、[D4DJ](../Page/D4DJ.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に株式会社ブシロードミュージックから発売予定である。
+『**Cosmic CoaSTAR**』は、[D4DJ](../Page/D4DJ.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")\[1\]。[2020年](../Page/2020年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に株式会社ブシロードミュージックから発売予定である。
 
 ## 概要
 
-『D4DJ D4 FES. -Departure-』にて初披露された各ユニットのオリジナル曲に加え、2020年4月26日にキャストが発表されたLyrical Lilyのオリジナル曲が収録されたミニアルバム。
+『D4DJ D4 FES. -Departure-』にて初披露された各ユニットのオリジナル曲に加え、2020年4月26日にキャストが発表されたLyrical Lily\[2\]のオリジナル曲が収録されたミニアルバム。
 
 ## 収録曲
 
@@ -45,3 +45,6 @@
 ## 脚注
 
 [Category:ブシロードミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:ブシロードミュージックのアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink")
+
+1.
+2.

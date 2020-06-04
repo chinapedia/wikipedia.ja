@@ -63,15 +63,20 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>-</p></th>
+<th><p>No.</p></th>
 <th><p>タイトル</p></th>
 <th><p>収録曲</p></th>
+<th><p>Gaon<br />
+チャート<br />
+（週間）</p></th>
+<th><p>売上枚数</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><small>1st</small></p></td>
-<td><p><strong>SOULMATE</strong> <small>（2020年4月21日）</small></p></td>
+<td><p><strong>SOULMATE</strong><br />
+<small>（2020年4月21日）</small></p></td>
 <td><ol>
 <li><small>INTRO</small></li>
 <li><small>SOUL</small></li>
@@ -84,6 +89,8 @@
 <li><small>Good Night (Inst.)</small></li>
 <li><small>오늘보다 더 나은 내일 (Inst.)</small></li>
 </ol></td>
+<td><p>3位[3]</p></td>
+<td><p>21,808枚[4]</p></td>
 </tr>
 </tbody>
 </table>
@@ -172,7 +179,9 @@
   -
 
 
-[Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
+[Category:韓国のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:韓国のボーイ・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
 
 1.
 2.
+3.  \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=17&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年4月19日\~2020年4月25日\]
+4.  [Gaonアルバム月間チャート2020年4月](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2020&termGbn=month)

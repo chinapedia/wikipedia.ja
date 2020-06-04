@@ -1,7 +1,7 @@
 > この記事は[Microsoft Teams](https://ja.wikipedia.org/wiki/Microsoft_Teams)から翻訳されています。
 
 
-**Microsoft Teams**(マイクロソフトチームズ)は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[iOS及び](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")向けに開発・提供するコラボレーションプラットフォームである。[Office 365アプリケーションの一部](https://ja.wikipedia.org/wiki/Microsoft_Office_365 "wikilink")。
+**Microsoft Teams**(マイクロソフトチームズ)は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[iOS及び](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")向けに開発・提供するコラボレーションプラットフォームである。[Office 365アプリケーションの一部](https://ja.wikipedia.org/wiki/Microsoft_Office_365 "wikilink")。
 
 [マイクロソフト](../Page/マイクロソフト.md "wikilink")はニューヨークでのイベントでMicrosoft Teamsを発表し、2017年3月14日に世界中でサービスを開始した \[1\] \[2\] 。社内の[ハッカソン](https://ja.wikipedia.org/wiki/ハッカソン "wikilink")中に作成され、現在はマイクロソフトのコーポレート・バイスプレジデントであるブライアン・マクドナルド\[3\]が主導している。
 

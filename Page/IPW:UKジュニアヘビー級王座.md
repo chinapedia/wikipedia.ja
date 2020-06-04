@@ -21,4 +21,4 @@
 
   - [IPW:UK公式サイト](http://www.ipwuk.com/home)（英語）
 
-[Category:プロレスのジュニアヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのジュニアヘビー級王座 "wikilink")
+[Category:プロレスリング・ノアの王座](https://ja.wikipedia.org/wiki/Category:プロレスリング・ノアの王座 "wikilink") [Category:プロレスのジュニアヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのジュニアヘビー級王座 "wikilink")

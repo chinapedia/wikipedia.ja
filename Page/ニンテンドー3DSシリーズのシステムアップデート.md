@@ -5,7 +5,7 @@
 
 </div>
 
-**ニンテンドー3DSシリーズのシステムアップデート**（ニンテンドースリーディーエスシリーズのシステムアップデート）では、[任天堂](../Page/任天堂.md "wikilink")の携帯型[ゲーム機](https://ja.wikipedia.org/wiki/コンピュータゲーム機 "wikilink")「[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")」と、それに並ぶニンテンドー3DSシリーズ\[1\]の本体内蔵[ソフトウェア](../Page/ソフトウェア.md "wikilink")のシステム[アップデート](https://ja.wikipedia.org/wiki/アップデート "wikilink")について記載する。
+**ニンテンドー3DSシリーズのシステムアップデート**（ニンテンドースリーディーエスシリーズのシステムアップデート）では、[任天堂](../Page/任天堂.md "wikilink")の携帯型[ゲーム機](https://ja.wikipedia.org/wiki/コンピュータゲーム機 "wikilink")「[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")」と、それに並ぶニンテンドー3DSシリーズ\[1\]の本体内蔵[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内におけるシステム[アップデート](https://ja.wikipedia.org/wiki/アップデート "wikilink")について記載する。
 
 ## 概要
 
@@ -467,8 +467,6 @@
 
 ### 注釈
 
-<references group="注"/>
-
 ### 出典
 
 ## 外部リンク
@@ -476,9 +474,9 @@
   - [ニンテンドー3DSのシステムバージョン変更履歴](https://www.nintendo.co.jp/support/3ds/system_update/changelog.html)
   - [ニンテンドー3DSの本体更新について](https://www.nintendo.co.jp/support/3ds/system_update/)
 
-[Category:任天堂](https://ja.wikipedia.org/wiki/Category:任天堂 "wikilink") [Category:ニンテンドー3DS](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS "wikilink")
+[Category:任天堂](https://ja.wikipedia.org/wiki/Category:任天堂 "wikilink") [Category:ニンテンドー3DS](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS "wikilink") [Category:プロプライエタリOS](https://ja.wikipedia.org/wiki/Category:プロプライエタリOS "wikilink")
 
-1.  [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、[ニンテンドー3DS LL](https://ja.wikipedia.org/wiki/ニンテンドー3DS#ニンテンドー3DS_LL "wikilink")、[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")、[Newニンテンドー3DS LL](https://ja.wikipedia.org/wiki/Newニンテンドー3DS#Newニンテンドー3DS_LL "wikilink")、[ニンテンドー2DS](https://ja.wikipedia.org/wiki/ニンテンドー2DS "wikilink")、[Newニンテンドー2DS LL](https://ja.wikipedia.org/wiki/Newニンテンドー2DS_LL "wikilink")
+1.  [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、[ニンテンドー3DS LL](https://ja.wikipedia.org/wiki/ニンテンドー3DS#ニンテンドー3DS_LL "wikilink")、[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")、[Newニンテンドー3DS LL](https://ja.wikipedia.org/wiki/Newニンテンドー3DS#Newニンテンドー3DS_LL "wikilink")、[ニンテンドー2DS](https://ja.wikipedia.org/wiki/ニンテンドー2DS "wikilink")、[Newニンテンドー2DS LL](https://ja.wikipedia.org/wiki/Newニンテンドー2DS_LL "wikilink")。
 2.  New 3DSの場合「Ver.8.1.0-0J」。
 3.  [アフターサービスと保証規定（交換・修理をお断りする場合について）](http://www.nintendo.co.jp/3ds/download/3ds_warranty.pdf) より。
 4.

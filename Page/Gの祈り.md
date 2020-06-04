@@ -38,5 +38,5 @@
 [Category:岡林信康の楽曲](https://ja.wikipedia.org/wiki/Category:岡林信康の楽曲 "wikilink") [Category:1980年の楽曲](https://ja.wikipedia.org/wiki/Category:1980年の楽曲 "wikilink") [Category:関西テレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビのテレビドラマ主題歌 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
 1.  「伝説 信康」岡林信康、[小学館](../Page/小学館.md "wikilink")、1991年7月、ISBN-10: 4093633819、ISBN-13: 978-4093633819、140-142頁
-2.  『岡林、信康を語る』岡林信康、disk union、2011年7月13日、ISBN13:OKBOOK1、ISBN10:OKBOOK1、276-278頁。
-3.  \[<https://www.fujitv.co.jp/MUSICFAIR/bn201603/setlist090131.html>　MUSIC FAIR｜SETLIST\]20203月30日閲覧。
+2.  『岡林、信康を語る』岡林信康、disk union、2011年7月13日、ISBN-13:OKBOOK1、ISBN-10:OKBOOK1、276-278頁。
+3.  [MUSIC FAIR｜SETLIST](https://www.fujitv.co.jp/MUSICFAIR/bn201603/setlist090131.html) 2020年3月30日閲覧。

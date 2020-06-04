@@ -239,14 +239,14 @@
 <tr class="odd">
 <td><p>＃37</p></td>
 <td><p>2020年4月14日</p></td>
-<td><p><a href="../Page/朴ロ美.md" title="wikilink">朴璐美</a></p></td>
 <td></td>
+<td><p>放送中止</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>＃38</p></td>
+<td><p>2020年5月12日</p></td>
+<td><p>なし</p></td>
+<td><p>リモート生放送</p></td>
 </tr>
 </tbody>
 </table>

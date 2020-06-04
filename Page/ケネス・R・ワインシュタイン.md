@@ -13,7 +13,7 @@
 
 2018年に日本国を訪問し、[外務大臣](../Page/外務大臣.md "wikilink")・[河野太郎](../Page/河野太郎.md "wikilink")（当時）と幅広く意見交換を実施した\[5\]。
 
-2020年3月13日、[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")たる[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")より[駐日アメリカ合衆国大使](../Page/駐日アメリカ合衆国大使.md "wikilink")に指名された\[6\]\[7\]\[8\]。
+2020年3月13日、[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")[ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink")より[駐日アメリカ合衆国大使](../Page/駐日アメリカ合衆国大使.md "wikilink")に指名された\[6\]\[7\]\[8\]。3月18日、合衆国上院に指名の承認が提出された\[9\]
 
 ## 脚注
 
@@ -31,3 +31,4 @@
 6.  [President Donald J. Trump Announces Intent to Nominate the Following Individual to a Key Administration Post](https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-following-individual-key-administration-post-2/) The White House March 13, 2020
 7.
 8.
+9.

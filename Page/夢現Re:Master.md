@@ -5,17 +5,23 @@
 
 ## 概要
 
-本作は、「[白衣性恋愛症候群](https://ja.wikipedia.org/wiki/白衣性恋愛症候群 "wikilink")」や「[白衣性愛情依存症](https://ja.wikipedia.org/wiki/白衣性愛情依存症 "wikilink")」を手掛けた『[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")』のしまりすさんちーむによる、ゲーム制作会社を描いた[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。ゲーム制作会社**ユリイカソフト**を舞台に、ゲーム制作者や[声優](../Page/声優.md "wikilink")たちの努力と葛藤が描かれている\[2\]。
+本作は、「[白衣性恋愛症候群](https://ja.wikipedia.org/wiki/白衣性恋愛症候群 "wikilink")」や「[白衣性愛情依存症](https://ja.wikipedia.org/wiki/白衣性愛情依存症 "wikilink")」を手掛けた『[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")』のしまりすさんちーむによる、ゲーム制作会社を描いた[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")であり、ゲーム制作会社**ユリイカソフト**を舞台に、ゲーム制作者や[声優](../Page/声優.md "wikilink")たちの努力と葛藤が描かれている\[2\]。
 
-舞台となるユリイカソフトの社員たちや街並みのモブキャラクターも全員が女性であり、本作は男性が存在しない女性だけの世界になっている\[3\]。そのため、夫婦ではなく婦婦とテキスト表記されていたり、女性同士で子供を作っているルートが存在する\[4\]。
+本作は「白衣性」シリーズと同じく女性だけの世界を舞台としており、登場人物だけでなくモブキャラクターも全員が女性である\[3\]。そのため、夫婦ではなく婦婦とテキスト表記されていたり、女性同士で子供を作っているルートが存在する\[4\]。
 
-[シナリオライターは](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")4人おり、「白衣性愛情依存症」のシナリオを手掛けた向坂氷緒がメインである共通ルートと柳谷こころルートを担当。「[FLOWERS](https://ja.wikipedia.org/wiki/FLOWERS_\(ゲーム\) "wikilink")」などのシナリオを手掛けた志水はつみは太刀花ななルートを担当。「[Schwarzschildシリーズ](../Page/シュヴァルツシルト_\(ゲーム\).md "wikilink")」や「[蒼い海のトリスティア](../Page/蒼い海のトリスティア.md "wikilink")」などのシナリオを手掛けた[竹内なおゆき](../Page/竹内なおゆき.md "wikilink")は無限堂さきルートを担当。「[シンフォニック=レイン](../Page/シンフォニック=レイン.md "wikilink")」や「[追放選挙](https://ja.wikipedia.org/wiki/追放選挙 "wikilink")」のシナリオを手掛けた[西川真音](../Page/西川真音.md "wikilink")はマリー・マーラーのルート担当している。実際にゲーム会社での勤務経験があるライターが書くため、「マスターアップ直前の修羅場で、数年越しの誤字が見つかった」、「データが巻き戻った」など実話も盛り込まれている。
+## 開発
+
+本作の原案・ディレクターを務めたみやざーは、アニメ制作会社を題材としたテレビアニメ『[SHIROBAKO](https://ja.wikipedia.org/wiki/SHIROBAKO "wikilink")』から感銘を受け、自分なりで『SHIROBAKO』のような作品を作ろう考えて本作を企画したとGamerとのインタビューの中で話している\[5\]。
+
+[シナリオライターは](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")4人おり、メインである共通ルートと柳谷こころルートは『白衣性愛情依存症』のシナリオを手掛けた向坂氷緒が担当し、太刀花ななルートは『[FLOWERS](https://ja.wikipedia.org/wiki/FLOWERS_\(ゲーム\) "wikilink")』などのシナリオを手掛けた志水はつみが担当した。また、無限堂さきルートは『[Schwarzschildシリーズ](../Page/シュヴァルツシルト_\(ゲーム\).md "wikilink")』や『[蒼い海のトリスティア](../Page/蒼い海のトリスティア.md "wikilink")』などのシナリオを手掛けた[竹内なおゆき](../Page/竹内なおゆき.md "wikilink")が担当し、マリー・マーラーのルートおよび、劇中で登場人物が開発するゲーム「ニエと魔女と世界の焉わり」のシナリオは、『[シンフォニック=レイン](../Page/シンフォニック=レイン.md "wikilink")』や『[追放選挙](https://ja.wikipedia.org/wiki/追放選挙 "wikilink")』のシナリオを手掛けた[西川真音](../Page/西川真音.md "wikilink")が担当した。 本作のライターのうちの何人かは実際にゲーム会社での勤務経験があり、会社に犬を連れてきたり、データが巻き戻ったといった実話も盛り込まれている。また、SFやアニメ、海外ドラマといった小ネタも織り込まれている。 一方で、みやざーは向坂氷緒にゲーム業界の経験がなかったため、一般人が理解できない部分を見極めることができたとGamerとのインタビューの中で話している。 また、同じ用語でもゲーム会社によって意味が異なることから、本作では専門用語集は取り入れられなかった。 ななルートを担当した志水は、自分が在籍してきたゲーム会社によってやり方が異なるため、自分の経験の中からどれを取捨選択すればよいのか迷ったと電撃オンラインとのインタビューの中で振り返っている。みやざーによると、太刀花なな役の井澤詩織が「（声優である）ななルートって声優さんのこと分かっている人が書いている。むしろ声優がシナリオを書いたんじゃないかというくらいすごい」と言っていたとされている。 さきルートを担当した竹内も、さきのキャラクターが自分と共通するところが多かったとしつつも、あまり現実的過ぎると面白くないため、現実的な要素を3割程度に抑えた「ライターとしての理想像」として描いたと前述のインタビューの中で話している。
+
+本作の主人公・大鳥 あい役を務めた[吉岡麻耶](https://ja.wikipedia.org/wiki/吉岡麻耶 "wikilink")は、本作のシナリオの分量が多く、収録回数が10回を超えたことを2019年の電撃オンラインとのインタビューの中で明らかにしている。
 
 ## あらすじ
 
-舞台は、帝都東京の都心から近い、下町人情が残る街「虹園寺」。そこに小さなゲーム開発会社「ユリイカソフト」がひっそりと居を構えていた。
+帝都東京の都心から近い、下町人情が残る街「虹園寺」には、小さなゲーム開発会社「ユリイカソフト」がひっそりと居を構えていた。
 
-田舎育ち純朴系女の子、大鳥あいは、親の都合で長い間離れて暮らしている妹、柳谷こころに会うため上京。妹の職場である「ユリイカソフト」のドアをたたいた。
+田舎育ち純朴系女の子、大鳥あいは、親の都合で長い間離れて暮らしている妹、柳谷こころに会うため上京し、妹の職場である「ユリイカソフト」のドアをたたいた。
 
 ## 登場人物
 
@@ -23,22 +29,22 @@
     声 - [吉岡麻耶](https://ja.wikipedia.org/wiki/吉岡麻耶 "wikilink")
     [アシスタント](https://ja.wikipedia.org/wiki/アシスタント "wikilink")・[ディレクター](../Page/ディレクター.md "wikilink")
     本作の主人公でこころの姉。こころとは両親の不仲で離ればなれになってしまったが、年に一度は会うことが許され、再開の日にはキスをしていた。3年前の誕生日、連絡が取れなくなった妹を心配し、また不安になり、大切な妹を追って単身で上京。その後、ユリイカソフトに就職することになる。
-    性格は根暗で[ネガティブ](https://ja.wikipedia.org/wiki/ネガティブ "wikilink")気質だが、少々天然で、周りからは面白い人と思われている。興奮すると、地元の方言が出てしまう。絵を描くのが好きだったが、スランプに陥り現在は描いていない\[5\]。
+    性格は根暗で[ネガティブ](https://ja.wikipedia.org/wiki/ネガティブ "wikilink")気質だが、少々天然で、周りからは面白い人と思われている。興奮すると、地元の方言が出てしまう。絵を描くのが好きだったが、スランプに陥り現在は描いていない\[6\]。
 
 <!-- end list -->
 
   - 柳谷 こころ（やなぎや こころ）
     声 - [沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")
     ゲームディレクター
-    ユリイカソフトのディレクターであいの妹。まだ見習いで仕事にも追われているため常に不機嫌。
-    地元にいた頃は、明るく人懐っこい子犬系少女だったが、現在は、思ったことをズバズバ言うクール系女子に。姉のあいには何故かキツイ態度を取っている。物語を考えることが好きで、ゲーム好きにもなった。
+    ユリイカソフトのディレクターで、あいの妹。まだ見習いで仕事にも追われているため常に不機嫌な態度をしており、姉のあいには何故かキツイ態度を取っている。
+    地元にいた頃は、明るく人懐っこい子犬のような性格だったが、現在はずけずけとものをいうような性格になった。物語を考えることが好きで、ゲーム好きにもなった。
 
 <!-- end list -->
 
   - 無限堂 さき（むげんどう さき）
     声 - [徳井青空](https://ja.wikipedia.org/wiki/徳井青空 "wikilink")
     [シナリオライター](https://ja.wikipedia.org/wiki/シナリオライター "wikilink")
-    ユリイカソフトのメインシナリオライター。人の話を敢えて聞かない唯我独尊、基本的に[マイペース](https://ja.wikipedia.org/wiki/マイペース "wikilink")。
+    ユリイカソフトのメインシナリオライター。基本的に[マイペース](https://ja.wikipedia.org/wiki/マイペース "wikilink")で、人の話を敢えて聞かないようにしている。
     普段着は[ジャージ](https://ja.wikipedia.org/wiki/ジャージ "wikilink")で、[ヘッドフォン](../Page/ヘッドフォン.md "wikilink")を常につけていてる。低い身長と可愛らしい顔立ちと合わせて、実年齢より若く見られがち。
     現在開発中の「ニエと魔女と世界の焉わり」のリメイク元作品のシナリオも担当しており、ユリイカメンバーの中では古株。
     口癖の「がうっ\!\!」から「プチザウルス」というあだ名がついた。
@@ -56,15 +62,15 @@
   - マリー・マーラー
     声 - [池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")
     [イラストレーター](../Page/イラストレーター.md "wikilink")・原画
-    縁あってユリイカソフトに来る事になった、ギシリア出身\[6\]のイラストレーター。実直で揺るぎない信念を持った人物。基本的に、迷いなく物事の本質を鋭く掴む才覚を有している。
-    服装の軍服は彼女曰く**正装**日本の文化を愛している。
+    縁あってユリイカソフトに来る事になった、ギシリア出身\[7\]のイラストレーター。実直で揺るぎない信念を持った人物。基本的に、迷いなく物事の本質を鋭く掴む才覚を有している。
+    日本文化を愛しており、正装として軍服を身にまとっている。
 
 <!-- end list -->
 
   - 醍醐 ほのか（だいご ほのか）
     声 - [伊藤静](../Page/伊藤静.md "wikilink")
     代表取締役社長、[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")、宣伝広報営業
-    ユリイカソフトの設立者。「ニエと魔女と世界の焉わり」の同人版を商業リメイク版として、開発を開始している。
+    ユリイカソフトの設立者で、「ニエと魔女と世界の焉わり」の同人版を商業リメイク版として、開発を開始している。
     普段は温厚で皆のお姉さん的存在だが、裏では切れ者らしく、業界内では色々な不穏な二つ名で呼ばれている。お酒には弱い。
 
 <!-- end list -->
@@ -77,7 +83,7 @@
 
 ## スタッフ
 
-  - 原案ディレクター - みやざー\[7\]
+  - 原案ディレクター - みやざー\[8\]
   - キャラクターデザイン - [藤ちょこ](https://ja.wikipedia.org/wiki/藤ちょこ "wikilink")
   - サブキャラクターデザイン - 藤枝雅
   - シナリオ - 向坂氷緒／志水はつみ／[竹内なおゆき](../Page/竹内なおゆき.md "wikilink")／[西川真音](../Page/西川真音.md "wikilink")
@@ -94,13 +100,13 @@
 
 ## その他
 
-  - [LINEスタンプ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")（イラスト：[八雲剣豪](https://ja.wikipedia.org/wiki/八雲剣豪 "wikilink")）\[8\]
+  - [LINEスタンプ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")（イラスト：[八雲剣豪](https://ja.wikipedia.org/wiki/八雲剣豪 "wikilink")）\[9\]
 
 ### コラボ
 
-  - カフェメイリッシュ×『夢現Re：Master』タイアップカフェイベント“カフェ　やくそくのばしょ\[9\]
+  - カフェメイリッシュ×『夢現Re：Master』タイアップカフェイベント“カフェ　やくそくのばしょ\[10\]
   - 「夢現Re:Master」ショートストーリー連載企画
-      - 2019年、「[コミック百合姫](../Page/コミック百合姫.md "wikilink")」8、9、10月号で書き下ろし読み切り小説が掲載された\[10\]。
+      - 2019年、「[コミック百合姫](../Page/コミック百合姫.md "wikilink")」8、9、10月号で書き下ろし読み切り小説が掲載された\[11\]。
 
 ## 書籍
 
@@ -112,11 +118,11 @@
 
 ### 夢現Re:Idol 〜大鳥あいのキャラが主人公として薄すぎる件について
 
-  - 2020年3月26日、[ミュージック](../Page/ミュージック.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")『夢現Re:Idol 〜大鳥あいのキャラが主人公として薄すぎる件について』が発売。『夢現Re:After』の主題歌「ココロひとつ」の大鳥あいソロバージョンも収録されている\[11\]。CEROレーティングはB（12才以上対象）。
+  - 2020年3月26日、[ミュージック](../Page/ミュージック.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")『夢現Re:Idol 〜大鳥あいのキャラが主人公として薄すぎる件について』が発売。『夢現Re:After』の主題歌「ココロひとつ」の大鳥あいソロバージョンも収録されている\[12\]。CEROレーティングはB（12才以上対象）。
 
 ### 夢現Re:After
 
-  - 『夢現Re:Master』のアフターストーリーが収録されている。
+2020年4月に発売された同作は『夢現Re:Master』のアフターストーリーが収録されている\[13\]。大鳥 あい役の[吉岡麻耶](https://ja.wikipedia.org/wiki/吉岡麻耶 "wikilink")によると、あいが自分の居場所を見つけた後の物語であり、彼女のキャラクター性が大きく異なるとされている。
 
 ## 脚注
 
@@ -135,16 +141,18 @@
   -
   - [工画堂スタジオホームページ](http://www.kogado.com/html/kogado.htm)
 
-[Category:工画堂スタジオのゲームソフト](https://ja.wikipedia.org/wiki/Category:工画堂スタジオのゲームソフト "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink") [Category:PlayStation_Vita用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Vita用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:2019年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2019年のコンピュータゲーム "wikilink") [Category:百合系ゲーム](https://ja.wikipedia.org/wiki/Category:百合系ゲーム "wikilink") [Category:ゲーム開発を題材とした作品](https://ja.wikipedia.org/wiki/Category:ゲーム開発を題材とした作品 "wikilink") [Category:企業を舞台とした作品](https://ja.wikipedia.org/wiki/Category:企業を舞台とした作品 "wikilink")
+[Category:工画堂スタジオのゲームソフト](https://ja.wikipedia.org/wiki/Category:工画堂スタジオのゲームソフト "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink") [Category:PlayStation_Vita用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Vita用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:2019年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2019年のコンピュータゲーム "wikilink") [Category:百合系ゲーム](https://ja.wikipedia.org/wiki/Category:百合系ゲーム "wikilink") [Category:ゲーム開発を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ゲーム開発を題材としたコンピュータゲーム "wikilink") [Category:企業を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:企業を舞台としたコンピュータゲーム "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  作中のギリシアの言葉は[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")がベースになっている。
-7.
+6.
+7.  作中のギリシアの言葉は[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")がベースになっている。
 8.
 9.
 10.
 11.
+12.
+13.

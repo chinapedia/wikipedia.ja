@@ -1,13 +1,17 @@
 > この記事は[Official髭男dism one-man tour 2019 @日本武道館](https://ja.wikipedia.org/wiki/Official髭男dism_one-man_tour_2019_@日本武道館)から翻訳されています。
 
 
-「**Official髭男dism one-man tour 2019 @日本武道館**」は、2月12日に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からリリースされた、日本の[ピアノPOPバンド](../Page/バンド_\(音楽\).md "wikilink")、[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")の1枚目の映像作品。
+「**Official髭男dism one-man tour 2019 @日本武道館**」は、2月12日に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からリリースされた、日本の[ピアノPOPバンド](../Page/バンド_\(音楽\).md "wikilink")、[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")の1枚目の映像作品、及び[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。
 
 ## 概要
 
+2019年開催のコンサートツアー「Official髭男dism one-man tour 2019」から、7月8日の日本武道館公演を収録。DVD、Blu-ray、CDの3種類でリリースされた。
+
 ## 収録曲
 
-### DVD（Disc 1）＆Blu-ray
+### DVD/Blu-ray
+
+#### DVD（Disc 1）＆Blu-ray
 
 1.  **115万キロのフィルム**
 2.  **異端なスター**
@@ -28,7 +32,7 @@
 17. **Amazing**
 18. **Stand By You**
 
-### DVD（Disc 2）＆Blu-ray
+#### DVD（Disc 2）＆Blu-ray
 
 1.  **Behind The Scene from Official髭男dism one-man tour 2019**
 
@@ -37,7 +41,7 @@
 
 ### Live CD
 
-### Disc 1
+#### Disc 1
 
 1.  **115万キロのフィルム**
 2.  **異端なスター**
@@ -49,7 +53,7 @@
 8.  **バッドフォーミー**
 9.  **LADY**
 
-### Disc 2
+#### Disc 2
 
 1.  **55**
 2.  **Rolling**

@@ -1,7 +1,7 @@
 > この記事は[NEUTRINO](https://ja.wikipedia.org/wiki/NEUTRINO)から翻訳されています。
 
 
-**NEUTRINO**とは、[ニューラルネットワーク](../Page/ニューラルネットワーク.md "wikilink")を活用した無料の[音声合成ソフトである](../Page/シンセサイザー.md "wikilink")。
+**NEUTRINO**とは、[ニューラルネットワーク](../Page/ニューラルネットワーク.md "wikilink")を活用した無料の[音声合成](../Page/音声合成.md "wikilink")ソフトである。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 [NEUTRINO -Neural singing synthesizer-](https://n3utrino.work/)
 
-[Category:音楽ソフトウェア](https://ja.wikipedia.org/wiki/Category:音楽ソフトウェア "wikilink") [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink")
+[Category:音楽ソフトウェア](https://ja.wikipedia.org/wiki/Category:音楽ソフトウェア "wikilink") [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:人工知能](https://ja.wikipedia.org/wiki/Category:人工知能 "wikilink")
 
 1.
 2.

@@ -49,7 +49,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p>A型</p></td>
 <td><p>レッド</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a> -</p></td>
+<td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/ワンダーウィード" title="wikilink">ワンダーウィード</a>メンバー。<a href="../Page/虹色の飛行少女.md" title="wikilink">虹色の飛行少女</a>兼任。</p></td>
 </tr>
 <tr class="even">
@@ -58,7 +58,7 @@
 <td></td>
 <td></td>
 <td><p>ブルー</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a> -</p></td>
+<td></td>
 <td><p>元<a href="../Page/ワンダーブリード.md" title="wikilink">ワンダーブリード</a>メンバー。</p></td>
 </tr>
 <tr class="odd">
@@ -67,17 +67,17 @@
 <td></td>
 <td></td>
 <td><p>ピンク</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a> -</p></td>
+<td></td>
 <td><p>元<a href="../Page/ワンダーブリード.md" title="wikilink">ワンダーブリード</a>メンバー。</p></td>
 </tr>
 <tr class="even">
 <td><p>葉月 れいか</p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>5|13}}</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>パープル</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a> -</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>柚木 ももな</p></td>
@@ -86,7 +86,7 @@
 <td></td>
 <td></td>
 <td><p>イエロー</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a> -</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

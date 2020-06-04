@@ -143,6 +143,13 @@
 <td><p>Crest Gaming Act</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2020</p></td>
+<td><p>春</p></td>
+<td><p>DetonatioN FocusMe</p></td>
+<td><p>Sengoku Gaming</p></td>
+<td><p>V3 Esports</p></td>
+</tr>
 </tbody>
 </table>
 

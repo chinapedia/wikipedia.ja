@@ -24,6 +24,8 @@
       - 2月5日-[フェルナンド・アロンソ](../Page/フェルナンド・アロンソ.md "wikilink")、[ホセ・マリア・ロペス](https://ja.wikipedia.org/wiki/ホセ・マリア・ロペス "wikilink")、[クリス・ミーク](https://ja.wikipedia.org/wiki/クリス・ミーク "wikilink")がテストドライブする動画を公開。
       - 2月13日-[赤色](https://ja.wikipedia.org/wiki/赤色 "wikilink")のGRヤリスが、WRC第二戦[ラリー・スウェーデン](https://ja.wikipedia.org/wiki/ラリー・スウェーデン "wikilink")のゼロカーとして走行。
 
+<File:Osaka> Auto Messe 2020 (113) - Toyota GR YARIS RZ"High Performance・1st Edition".jpg|シャシー <File:Osaka> Auto Messe 2020 (103) - Toyota GR YARIS RALLY CONCEPT.jpg|ラリー仕様
+
 ## メカニズム
 
 プラットフォームはフロントが[GA-B](https://ja.wikipedia.org/wiki/トヨタ・ニュー・グローバル・アーキテクチャー#GA-Bプラットフォーム "wikilink")、リアが[GA-Cという複合型である](https://ja.wikipedia.org/wiki/トヨタ・ニュー・グローバル・アーキテクチャー#GA-Bプラットフォーム "wikilink")。このためGA-B単独で構成される5ドアの4代目[ヤリスとは同一ファミリーとはみなされず](../Page/トヨタ・ヤリス.md "wikilink")、[グループA](../Page/グループA.md "wikilink")の公認取得にはGRヤリス単独で25,000台の生産を必要とされる\[6\]。

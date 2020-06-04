@@ -7,7 +7,9 @@
 
 『[日テレ系音楽の祭典](../Page/日テレ系音楽の祭典_ベストアーティスト.md "wikilink")』シリーズでは8年ぶりに[春](../Page/春.md "wikilink")の放送となった。時代を超えて残したい名曲「**Premium Music**」を日本テレビの秘蔵映像と生歌唱で披露した。
 
-『日テレ系音楽の祭典』シリーズの司会は[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）であるが、本番組では2020年4月クールの[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[未満警察 ミッドナイトランナー](../Page/未満警察_ミッドナイトランナー.md "wikilink")』でW主演を務める[中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")（[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")）と[平野紫耀](https://ja.wikipedia.org/wiki/平野紫耀 "wikilink")（[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")）が初めて音楽番組の司会を務めた。また、Sexy ZoneとKing & Princeはトリも担当した。
+『日テレ系音楽の祭典』シリーズの司会は[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）であるが\[1\]、本番組では2020年4月クール（後に延期）の[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[未満警察 ミッドナイトランナー](../Page/未満警察_ミッドナイトランナー.md "wikilink")』でW主演を務める[中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")（[Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")）と[平野紫耀](https://ja.wikipedia.org/wiki/平野紫耀 "wikilink")（[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")）が初めて音楽番組の司会を務めた。また、Sexy ZoneとKing & Princeはトリも担当した。
+
+また、[5月30日](../Page/5月30日.md "wikilink")の19:00 - 22:54にも『特別編』として、一部の映像を追加した上で生放送される予定。
 
 ## 出演者
 
@@ -179,7 +181,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -235,7 +237,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -425,6 +427,9 @@
 ## 関連項目
 
   - [THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")
+  - [日テレ系音楽の祭典 ベストアーティスト](../Page/日テレ系音楽の祭典_ベストアーティスト.md "wikilink")
+
+## 脚注
 
 ## 外部リンク
 
@@ -434,3 +439,5 @@
   -
   -
 [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの特別番組](https://ja.wikipedia.org/wiki/Category:日本テレビの特別番組 "wikilink") [Category:日本テレビの音楽番組](https://ja.wikipedia.org/wiki/Category:日本テレビの音楽番組 "wikilink") [Category:Sexy_Zone](https://ja.wikipedia.org/wiki/Category:Sexy_Zone "wikilink") [Category:King_&_Prince](https://ja.wikipedia.org/wiki/Category:King_&_Prince "wikilink")
+
+1.  当日は、嵐が司会を務める『[2020スタジアム](../Page/2020スタジアム.md "wikilink")』（[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")）が19:30 - 20:13に生放送（当初は20:42までの予定だった）されていたため、嵐はこの時間を避けた上で、事前収録の出演となった。

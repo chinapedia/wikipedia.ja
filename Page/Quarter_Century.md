@@ -37,7 +37,7 @@
 
 ### 結成
 
-2019年に同じステージに立ち意気投合。[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")にQuarter Centuryの結成が発表される\[1\]。同年[2020年](../Page/2020年.md "wikilink")7月にシングル「[SPEED STAR](https://ja.wikipedia.org/wiki/SPEED_STAR "wikilink")」でデビュー。
+2019年に同じステージに立ち意気投合。[2020年](../Page/2020年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")にQuarter Centuryの結成が発表される\[1\]。同年[2020年](../Page/2020年.md "wikilink")7月にシングル「[SPEED STAR](https://ja.wikipedia.org/wiki/SPEED_STAR "wikilink")」でデビュー。\[2\]\[3\]
 
 ## ディスコグラフィ
 
@@ -86,3 +86,5 @@
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
 
 1.
+2.
+3.

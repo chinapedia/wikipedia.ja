@@ -3,7 +3,7 @@
 
 **鈴木勝**（すずき まさる）は、[いちから](https://ja.wikipedia.org/wiki/いちから "wikilink")株式会社が運営する[にじさんじ](https://ja.wikipedia.org/wiki/にじさんじ "wikilink")に所属するバーチャルライバー（[バーチャルYouTuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")）。2つ名として「**漆黒の捕食者 Darkness Eater**」「**D.E.**」を名乗っている。
 
-キャラクターデザインは[神吉李花](https://ja.wikipedia.org/wiki/神吉李花 "wikilink")。
+キャラクターデザインは[神吉李花](../Page/神吉李花.md "wikilink")。
 
 ## 来歴
 
@@ -47,7 +47,7 @@
 ## ユニット
 
   - おなえどし組（OD組）
-    にじさんじSEEDs1期生出身メンバーの出雲霞、鈴木勝、卯月コウのコラボ名称。名前の通り3人共に中学2年生の13歳で同い年である。名称の由来は「同い年」を鈴木勝が覚え間違えていたことに由来する。
+    にじさんじSEEDs1期生出身メンバーの出雲霞、鈴木勝、[卯月コウ](https://ja.wikipedia.org/wiki/卯月コウ "wikilink")のコラボ名称。名前の通り3人共に中学2年生の13歳で同い年である。名称の由来は「同い年」を鈴木勝が覚え間違えていたことに由来する。
 
 <!-- end list -->
 
@@ -57,7 +57,13 @@
 <!-- end list -->
 
   - Rain Drops
-    緑仙、三枝明那、童田明治、鈴木勝、える、ジョー・力一のバーチャルライバーからなるユニット。
+    緑仙、三枝明那、[童田明治](https://ja.wikipedia.org/wiki/童田明治 "wikilink")、鈴木勝、える、ジョー・力一のバーチャルライバーからなるユニット。
+
+## 出演
+
+### インターネットラジオ
+
+  - にじさんじpresentsだいたいにじさんじのらじお（2019年[10月6日](../Page/10月6日.md "wikilink") - 、[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")）第30回及び5月パーソナリティ、第34回まで出演予定。
 
 ## 脚注
 
@@ -75,7 +81,7 @@
   -
   -
   -
-[Category:にじさんじ](https://ja.wikipedia.org/wiki/Category:にじさんじ "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink") [Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:バーチャルYouTuber](https://ja.wikipedia.org/wiki/Category:バーチャルYouTuber "wikilink")
+[Category:にじさんじ](https://ja.wikipedia.org/wiki/Category:にじさんじ "wikilink")
 
 1.
 2.

@@ -1,307 +1,47 @@
 > この記事は[Gee up sprout](https://ja.wikipedia.org/wiki/Gee_up_sprout)から翻訳されています。
 
 
-# gee up sprout
-
 『**gee up sprout**』（じー・あっぷ・すぷらうと）は、コミュニティFMラジオ局[FMサルース](https://ja.wikipedia.org/wiki/FMサルース "wikilink")、[FMしながわでラジオ放送](https://ja.wikipedia.org/wiki/エフエムしながわ "wikilink")。ケーブルテレビ局[イッツ・コミュニケーションズ](../Page/イッツ・コミュニケーションズ.md "wikilink")のコミュニティチャンネル・イッツコムチャンネル10でテレビ放送。YouTube Liveでライブ配信されている番組
 
-# 概要
+## 概要
 
   - [セントフォース](../Page/セント・フォース.md "wikilink")・[スプラウトのメンバーが週替わりで出演するバラエティー番組](https://ja.wikipedia.org/wiki/スプラウト_\(芸能プロダクション\) "wikilink")。
-  - 2015年4月4日からコミュニティFM放送局のFMサルース放送開始。
+  - 2015年4月4日からコミュニティFM放送局の[FMサルース](https://ja.wikipedia.org/wiki/FMサルース "wikilink")放送開始。
+  - [たまプラーザ駅](https://ja.wikipedia.org/wiki/たまプラーザ駅 "wikilink")の[たまプラーザテラス](https://ja.wikipedia.org/wiki/たまプラーザテラス "wikilink")内にあるイッツコムスタジオたまプラーザで公開生放送している。
   - 開始から半年は学園ものとして、[劇団スーパーエキセントリックシアター](https://ja.wikipedia.org/wiki/劇団スーパーエキセントリックシアター "wikilink")の[坂田鉄平](https://ja.wikipedia.org/wiki/坂田鉄平 "wikilink")が出演していた。
-  - 2015年10月3日以降は、セントフォース・スプラウトで出演となっている。
+  - 2015年10月3日以降は、[セントフォース](../Page/セント・フォース.md "wikilink")・[スプラウトで出演となっている](https://ja.wikipedia.org/wiki/スプラウト_\(芸能プロダクション\) "wikilink")。
   - 2019年4月6日からイッツ・コミュニケーションズのコミュニティチャンネルでテレビ放送開始\[1\]。
-  - 2019年6月1日からコミュニティFM局、FMしながわで放送開始\[2\]。
+  - 2019年6月1日から[コミュニティFM](https://ja.wikipedia.org/wiki/コミュニティFM "wikilink")局、[FMしながわで放送開始](https://ja.wikipedia.org/wiki/エフエムしながわ "wikilink")\[2\]。
   - 番組は、ほぼアーカイブスされており、YouTubeで視聴可能\[3\]
+  - 新型コロナウイルスの影響により2020年4月11日～5月16日まで放送延期、5月23日よりリモート収録音声のみで放送再開\[4\]
 
-# エピソード
+## エピソード
 
-  - 初出演者の場合、サイコロトークで初恋の話をすることが多い。
-  - ジングルは森香澄が作曲・演奏・声を担当していた。
-  - 2020年4月からリニューアルしており、リニューアル記念として[岡副麻希](https://ja.wikipedia.org/wiki/岡副麻希 "wikilink")が出演した\[4\]。
-  - 毎月第三週目は朗読劇となっている。朗読劇台本は、[東放学園の生徒](../Page/学校法人東放学園.md "wikilink")、卒業生が執筆しており、[セントフォース](https://ja.wikipedia.org/wiki/セントフォース "wikilink")・[スプラウトが演じている](https://ja.wikipedia.org/wiki/スプラウト_\(芸能プロダクション\) "wikilink")。
+  - 2020年4月からリニューアルしており、4月1週目はリニューアル記念として[セントフォースから](../Page/セント・フォース.md "wikilink")[岡副麻希](https://ja.wikipedia.org/wiki/岡副麻希 "wikilink")が出演した\[5\]。
+  - 2020年4月13日から不定期であるがセントフォース・カレッジの生徒が出演。
+  - セントフォース・カレッジの生徒と出演して、後にスプラウト所属となったケースもある。
+  - 毎月第三週目は朗読劇となっている。朗読劇台本は、[東放学園の現役生](../Page/学校法人東放学園.md "wikilink")、卒業生が執筆しており、[セントフォース](https://ja.wikipedia.org/wiki/セントフォース "wikilink")・[スプラウトが演じている](https://ja.wikipedia.org/wiki/スプラウト_\(芸能プロダクション\) "wikilink")。
   - 過去にあった悩み相談コーナーについては、出演者に沿った悩みが多かった。
+  - 番組中盤のジングルは[森香澄](../Page/森香澄.md "wikilink")が作曲・演奏・声を担当していた。
+  - 初出演者の場合、サイコロトークで初恋の話をすることが多い。
 
-# 出演者
+## 出演者
 
-1.  \#001 [南條早紀](https://ja.wikipedia.org/wiki/南條早紀 "wikilink") (2015/04/04)
-2.  \#002 [プリシラ彩華](https://ja.wikipedia.org/wiki/プリシラ彩華 "wikilink") (2015/04/11)
-3.  \#003 [色紙悠](https://ja.wikipedia.org/wiki/色紙悠 "wikilink") (2015/04/18)
-4.  \#004 [宇賀神メグ](https://ja.wikipedia.org/wiki/宇賀神メグ "wikilink") (2015/04/25)
-5.  \#005 [堀江聖夏](https://ja.wikipedia.org/wiki/堀江聖夏 "wikilink") (2015/05/02)
-6.  \#006 [中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2015/05/09)
-7.  \#007 [角谷暁子](https://ja.wikipedia.org/wiki/角谷暁子 "wikilink") (2015/05/16)
-8.  \#008 [結城香織](https://ja.wikipedia.org/wiki/結城香織 "wikilink") (2015/05/23)
-9.  \#009 [野澤美仁](https://ja.wikipedia.org/wiki/野澤美仁 "wikilink") (2015/05/30)
-10. \#010 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") (2015/06/06)
-11. \#011 [梅澤亜季](https://ja.wikipedia.org/wiki/梅澤亜季 "wikilink") (2015/06/13)
-12. \#012 鈴木沙耶 (2015/06/20)
-13. \#013 [茂手木葉奈](https://ja.wikipedia.org/wiki/茂手木葉奈 "wikilink") (2015/06/27)
-14. \#014 [高橋幸](https://ja.wikipedia.org/wiki/高橋幸 "wikilink") (2015/07/04)
-15. \#015 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") (2015/07/11)
-16. \#016 [堀江聖夏](https://ja.wikipedia.org/wiki/堀江聖夏 "wikilink") (2015/07/18)
-17. \#017 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") (2015/07/25)
-18. \#018 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") (2015/08/01)
-19. \#019 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") (2015/08/08)
-20. \#020 [宇賀神メグ](https://ja.wikipedia.org/wiki/宇賀神メグ "wikilink") (2015/08/15)
-21. \#021 [宇賀神メグ](https://ja.wikipedia.org/wiki/宇賀神メグ "wikilink") (2015/08/22)
-22. \#022 [堀江聖夏](https://ja.wikipedia.org/wiki/堀江聖夏 "wikilink") (2015/08/29)
-23. \#023 [堀江聖夏](https://ja.wikipedia.org/wiki/堀江聖夏 "wikilink") (2015/09/05)
-24. \#024 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") ,[神田亜衣子](https://ja.wikipedia.org/wiki/神田亜衣子 "wikilink") (2015/09/12)
-25. \#025 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") (2015/09/19)※アーカイブなし
-26. \#026 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") (2015/09/26)
-27. \#027 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") [茂手木葉奈](https://ja.wikipedia.org/wiki/茂手木葉奈 "wikilink") (2015/10/03)
-28. \#028 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") [茂手木葉奈](https://ja.wikipedia.org/wiki/茂手木葉奈 "wikilink") (2015/10/10)
-29. \#029 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2015/10/17)
-30. \#030 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2015/10/24)
-31. \#031 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[谷亜沙子](https://ja.wikipedia.org/wiki/谷亜沙子 "wikilink") (2015/10/31)
-32. \#032 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[山本りさ](https://ja.wikipedia.org/wiki/山本りさ "wikilink") (2015/11/07)
-33. \#033 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2015/11/14)
-34. \#034 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2015/11/21)
-35. \#035 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") ,[阿部華也子](https://ja.wikipedia.org/wiki/阿部華也子 "wikilink") (2015/11/28)
-36. \#036 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[山本りさ](https://ja.wikipedia.org/wiki/山本りさ "wikilink") (2015/12/05)
-37. \#037 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2015/12/12)
-38. \#038 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2015/12/19)
-39. \#039 [角谷暁子](https://ja.wikipedia.org/wiki/角谷暁子 "wikilink") ,[野澤仁美](https://ja.wikipedia.org/wiki/野澤仁美 "wikilink") (2015/12/26)
-40. \#040 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/01/02)
-41. \#041 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") ,[山本りさ](https://ja.wikipedia.org/wiki/山本りさ "wikilink") (2016/01/09)
-42. \#042 [角谷暁子](https://ja.wikipedia.org/wiki/角谷暁子 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2016/01/16)
-43. \#043 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/01/23)
-44. \#044 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2016/01/30)
-45. \#045 [中野 瑞希](https://ja.wikipedia.org/wiki/中野_瑞希 "wikilink") ,[中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") (2016/02/06)
-46. \#046 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[神田亜衣子](https://ja.wikipedia.org/wiki/神田亜衣子 "wikilink") (2016/02/13)
-47. \#047 [角谷暁子](https://ja.wikipedia.org/wiki/角谷暁子 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/02/20)
-48. \#048 [林詩遥子](https://ja.wikipedia.org/wiki/林詩遥子 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2016/02/27)
-49. \#049 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/03/05)
-50. \#050 [角谷暁子](https://ja.wikipedia.org/wiki/角谷暁子 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/03/12)
-51. \#051 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2016/03/19)
-52. \#052 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/03/26)
-53. \#053 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/04/02)
-54. \#054 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2016/04/09)
-55. \#055 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2016/04/16)
-56. \#056 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/04/23)
-57. \#057 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/04/30)
-58. \#058 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2016/05/07)
-59. \#059 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/05/14)
-60. \#060 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/05/21)
-61. \#061 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[神田亜衣子](https://ja.wikipedia.org/wiki/神田亜衣子 "wikilink") (2016/05/28)
-62. \#062 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2016/06/04)
-63. \#063 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/06/11)
-64. \#064 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") (2016/06/18)
-65. \#065 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/06/25)
-66. \#066 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/07/02)
-67. \#067 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/07/09)
-68. \#068 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/07/16)
-69. \#069 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/07/23)
-70. \#070 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2016/07/30)
-71. \#071 [西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/08/06)
-72. \#072 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[梅澤亜季](https://ja.wikipedia.org/wiki/梅澤亜季 "wikilink") (2016/08/13)
-73. \#073 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") ,[野澤美仁](https://ja.wikipedia.org/wiki/野澤美仁 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2016/08/20) ※アーカイブなし
-74. \#074 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/0/827)
-75. \#075 [森香澄](../Page/森香澄.md "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/09/03)
-76. \#076 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2016/09/10)
-77. \#077 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2016/09/17)
-78. \#078 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[神田亜衣子](https://ja.wikipedia.org/wiki/神田亜衣子 "wikilink") (2016/09/24)
-79. \#079 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2016/10/01)
-80. \#080 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/10/08)
-81. \#081 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2016/10/15)
-82. \#082 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2016/10/22)
-83. \#083 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2016/10/29)
-84. \#084 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2016/11/05)
-85. \#085 [西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") ,[野澤美仁](https://ja.wikipedia.org/wiki/野澤美仁 "wikilink") (2016/11/12)
-86. \#086 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2016/11/19)
-87. \#087 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/11/26)
-88. \#088 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2016/12/10)
-89. \#089 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[熊原吏佳子](https://ja.wikipedia.org/wiki/熊原吏佳子 "wikilink") (2016/12/10)
-90. \#090 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2016/12/17)
-91. \#091 [西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2016/12/24)
-92. \#092 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2016/12/31)
-93. \#093 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/01/07)
-94. \#094 [中川絵美里](https://ja.wikipedia.org/wiki/中川絵美里 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2017/01/14)
-95. \#095 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2017/01/21)
-96. \#096 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[熊原吏佳子](https://ja.wikipedia.org/wiki/熊原吏佳子 "wikilink") (2017/01/28)
-97. \#097 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2017/02/04)
-98. \#098 [西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") ,[山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") (2017/02/11)
-99. \#099 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2017/02/18)
-100. \#100 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/02/25)
-101. \#101 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") (2017/03/04)
-102. \#102 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2017/03/11)
-103. \#103 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") (2017/03/18)
-104. \#104 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/03/25)
-105. \#105 [西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2017/04/01)
-106. \#106 [森香澄](../Page/森香澄.md "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2017/04/08)
-107. \#107 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/04/15)
-108. \#108 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2017/04/22)
-109. \#109 [森香澄](../Page/森香澄.md "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2017/04/29)
-110. \#110 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") (2017/05/06)
-111. \#111 [森香澄](../Page/森香澄.md "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2017/05/13)
-112. \#112 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2017/05/20)
-113. \#113 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2017/05/27)
-114. \#114 [吉田悠希](https://ja.wikipedia.org/wiki/吉田悠希 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/06/03)
-115. \#115 [吉田有希](https://ja.wikipedia.org/wiki/吉田有希 "wikilink") ,[楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") (2017/06/10)
-116. \#116 [森香澄](../Page/森香澄.md "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2017/06/17)
-117. \#117 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2017/06/24)
-118. \#118 [森香澄](../Page/森香澄.md "wikilink") ,[渡辺瑠海](../Page/渡辺瑠海.md "wikilink") (2017/07/01)
-119. \#119 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2017/07/08)
-120. \#120 [西森空良](https://ja.wikipedia.org/wiki/西森空良 "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2017/07/15)
-121. \#121 [堀江聖夏](https://ja.wikipedia.org/wiki/堀江聖夏 "wikilink") ,[楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") (2017/07/22)
-122. \#122 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[森香澄](../Page/森香澄.md "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2017/07/29)
-123. \#123 [森香澄](../Page/森香澄.md "wikilink") ,[喜多由莉奈](https://ja.wikipedia.org/wiki/喜多由莉奈 "wikilink") (2017/08/05)
-124. \#124 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[渡辺瑠海](../Page/渡辺瑠海.md "wikilink") (2017/08/12)
-125. \#125 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") (2017/08/19)
-126. \#126 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2017/08/26)
-127. \#127 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[若林有子](https://ja.wikipedia.org/wiki/若林有子 "wikilink") (2017/09/02)
-128. \#128 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[渡辺瑠海](../Page/渡辺瑠海.md "wikilink") (2017/09/09)
-129. \#129 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2017/09/16)
-130. \#130 [森香澄](../Page/森香澄.md "wikilink") ,[石川みなみ](https://ja.wikipedia.org/wiki/石川みなみ "wikilink") (2017/09/23)
-131. \#131 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[喜多由莉奈](https://ja.wikipedia.org/wiki/喜多由莉奈 "wikilink") (2017/09/30)
-132. \#132 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/10/07)
-133. \#133 [楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") ,[喜多由莉奈](https://ja.wikipedia.org/wiki/喜多由莉奈 "wikilink") (2017/10/14)
-134. \#134 [森香澄](../Page/森香澄.md "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2017/10/21)
-135. \#135 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[石川みなみ](https://ja.wikipedia.org/wiki/石川みなみ "wikilink") (2017/10/28)
-136. \#136 [プリシラ彩華](https://ja.wikipedia.org/wiki/プリシラ彩華 "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2017/11/04)
-137. \#137 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") (2017/11/11)
-138. \#138 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/11/18)
-139. \#139 [森香澄](../Page/森香澄.md "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2017/11/25)
-140. \#140 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2017/12/02)
-141. \#141 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[沖田愛加](https://ja.wikipedia.org/wiki/沖田愛加 "wikilink") (2017/12/09)
-142. \#142 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[石川みなみ](https://ja.wikipedia.org/wiki/石川みなみ "wikilink") (2017/12/16)
-143. \#143 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2017/12/23)
-144. \#144 [森香澄](../Page/森香澄.md "wikilink") ,[喜多由梨奈](https://ja.wikipedia.org/wiki/喜多由梨奈 "wikilink") (2017/12/30) ※アーカイブなし
-145. \#145 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") (2018/01/06)
-146. \#146 [楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") ,[沖田愛加](https://ja.wikipedia.org/wiki/沖田愛加 "wikilink") (2018/01/13)
-147. \#147 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[喜多由利奈](https://ja.wikipedia.org/wiki/喜多由利奈 "wikilink") (20180120) ※アーカイブなし
-148. \#148 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[石川みなみ](https://ja.wikipedia.org/wiki/石川みなみ "wikilink") (2018/01/27)
-149. \#149 [森香澄](../Page/森香澄.md "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2018/02/03)
-150. \#150 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") (2018/02/10)
-151. \#151 [プリシラ彩華](https://ja.wikipedia.org/wiki/プリシラ彩華 "wikilink") ,[楫真梨子](https://ja.wikipedia.org/wiki/楫真梨子 "wikilink") (2018/02/17)
-152. \#152 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[石川みなみ](https://ja.wikipedia.org/wiki/石川みなみ "wikilink") (2018/02/24)
-153. \#153 [中山日南子](https://ja.wikipedia.org/wiki/中山日南子 "wikilink") ,[米山珠央](https://ja.wikipedia.org/wiki/米山珠央 "wikilink") (2018/03/03)
-154. \#154 [プリシラ彩華](https://ja.wikipedia.org/wiki/プリシラ彩華 "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2018/03/10)
-155. \#155 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2018/03/17)
-156. \#156 [山本萩子](https://ja.wikipedia.org/wiki/山本萩子 "wikilink") ,[石川みなみ](https://ja.wikipedia.org/wiki/石川みなみ "wikilink") (2018/03/24)
-157. \#157 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2018/03/31)
-158. \#158 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/04/07)
-159. \#159 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[喜多由莉奈](https://ja.wikipedia.org/wiki/喜多由莉奈 "wikilink") (2018/04/14)
-160. \#160 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") (2018/04/21)
-161. \#161 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[弦間彩華](../Page/弦間彩華.md "wikilink") (2018/04/28)
-162. \#162 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[梅澤亜季](https://ja.wikipedia.org/wiki/梅澤亜季 "wikilink") (2018/05/05)
-163. \#163 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/05/12)
-164. \#164 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[弦間彩華](../Page/弦間彩華.md "wikilink") (2018/05/19)
-165. \#165 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[石川みなみ](https://ja.wikipedia.org/wiki/石川みなみ "wikilink") (2018/05/26)
-166. \#166 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[高橋茉莉](https://ja.wikipedia.org/wiki/高橋茉莉 "wikilink") (2018/06/02)
-167. \#167 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[弦間彩華](../Page/弦間彩華.md "wikilink") (2018/06/09)
-168. \#168 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[米山珠央](https://ja.wikipedia.org/wiki/米山珠央 "wikilink") (2018/06/16)
-169. \#169 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[松田愛美](https://ja.wikipedia.org/wiki/松田愛美 "wikilink") (2018/06/23)
-170. \#170 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/06/30)
-171. \#171 [森香澄](../Page/森香澄.md "wikilink") ,[弦間彩華](../Page/弦間彩華.md "wikilink") (2018/07/07)
-172. \#172 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[松田愛美](https://ja.wikipedia.org/wiki/松田愛美 "wikilink") (2018/07/14)
-173. \#173 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2018/07/21)
-174. \#174 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/07/28)
-175. \#175 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2018/08/04)
-176. \#176 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[喜多由莉奈](https://ja.wikipedia.org/wiki/喜多由莉奈 "wikilink") (2018/08/11)
-177. \#177 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/08/18)
-178. \#178 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2018/08/25)
-179. \#179 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[高橋茉莉](https://ja.wikipedia.org/wiki/高橋茉莉 "wikilink") (2018/09/01)
-180. \#180 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[半田理恵](https://ja.wikipedia.org/wiki/半田理恵 "wikilink") (2018/09/08)
-181. \#181 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2018/09/15)
-182. \#182 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/09/22)
-183. \#183 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2018/09/29)
-184. \#184 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[弦間彩華](../Page/弦間彩華.md "wikilink") (2018/10/06)
-185. \#185 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[高橋茉莉](https://ja.wikipedia.org/wiki/高橋茉莉 "wikilink") (2018/10/13)
-186. \#186 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2018/10/20)
-187. \#187 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/10/27)
-188. \#188 [森香澄](../Page/森香澄.md "wikilink") ,[喜多由莉奈](https://ja.wikipedia.org/wiki/喜多由莉奈 "wikilink") (2018/11/03)
-189. \#189 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") (2018/11/10)
-190. \#190 [渡辺瑠海](../Page/渡辺瑠海.md "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2018/11/17)
-191. \#191 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2018/11/24)
-192. \#192 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") (2018/12/01)
-193. \#193 [森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2018/12/08)
-194. \#194 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[高木由梨奈](https://ja.wikipedia.org/wiki/高木由梨奈 "wikilink") (2018/12/15)
-195. \#195 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") (2018/12/22)
-196. \#196 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[高橋茉莉](https://ja.wikipedia.org/wiki/高橋茉莉 "wikilink") (2019/01/05)
-197. \#197 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2019/01/12)
-198. \#198 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/01/19)
-199. \#199 [森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/01/26)
-200. \#200 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[中塚美緒](../Page/中塚美緒.md "wikilink") (2019/02/02)
-201. \#201 [弦間彩華](../Page/弦間彩華.md "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2019/02/09)
-202. \#202 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2019/02/16)
-203. \#203 [白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2019/02/23)
-204. \#204 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") (2019/03/02)
-205. \#205 [中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2019/03/09)
-206. \#206 [中塚美緒](../Page/中塚美緒.md "wikilink") ,[下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") (2019/03/16)
-207. \#207 [下津里恵](https://ja.wikipedia.org/wiki/下津里恵 "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2019/03/23)
-208. \#208 [白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2019/03/30)
-209. \#209 [中塚美緒](../Page/中塚美緒.md "wikilink") ,[森山みなみ 岡副麻希](https://ja.wikipedia.org/wiki/森山みなみ_岡副麻希 "wikilink") (2019/04/06)
-210. \#210 [白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") ,[村木菜生](https://ja.wikipedia.org/wiki/村木菜生 "wikilink") (2019/04/13)
-211. \#211 [中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/04/20)
-212. \#212 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[高木由梨奈](https://ja.wikipedia.org/wiki/高木由梨奈 "wikilink") (2019/04/27)
-213. \#213 [森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") ,[村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") (2019/05/04)
-214. \#214 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[中村芽留萌](https://ja.wikipedia.org/wiki/中村芽留萌 "wikilink") (2019/05/11)
-215. \#215 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/05/18)
-216. \#216 [高木由梨奈](https://ja.wikipedia.org/wiki/高木由梨奈 "wikilink") ,[齋藤紫帆](https://ja.wikipedia.org/wiki/齋藤紫帆 "wikilink") (2019/05/25)
-217. \#217 [中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") ,[村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") (2019/06/01)
-218. \#218 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[金杉未来](https://ja.wikipedia.org/wiki/金杉未来 "wikilink") (2019/06/08)
-219. \#219 [中塚美緒](../Page/中塚美緒.md "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/06/15)
-220. \#220 [高木由梨奈](https://ja.wikipedia.org/wiki/高木由梨奈 "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2019/06/22)
-221. \#221 [河西歩果](https://ja.wikipedia.org/wiki/河西歩果 "wikilink") ,[中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") (2019/06/29)
-222. \#222 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") (2019/07/06)
-223. \#223 [森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") ,[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") (2019/07/13)
-224. \#224 [白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/07/20)
-225. \#225 [中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") ,[里中真菜](https://ja.wikipedia.org/wiki/里中真菜 "wikilink") (2019/07/27)
-226. \#226 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") (2019/08/03)
-227. \#227 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[林田美学](https://ja.wikipedia.org/wiki/林田美学 "wikilink") (2019/08/10)
-228. \#228 [玉木碧](https://ja.wikipedia.org/wiki/玉木碧 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/08/17)
-229. \#229 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[大迫七海](https://ja.wikipedia.org/wiki/大迫七海 "wikilink") (2019/08/24)
-230. \#230 [森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") ,[依田奈波](https://ja.wikipedia.org/wiki/依田奈波 "wikilink") (2019/08/31)
-231. \#231 [玉木碧](https://ja.wikipedia.org/wiki/玉木碧 "wikilink") ,[喜多由莉奈](https://ja.wikipedia.org/wiki/喜多由莉奈 "wikilink") (2019/09/07)
-232. \#232 [林田美学](https://ja.wikipedia.org/wiki/林田美学 "wikilink") ,[玉木碧](https://ja.wikipedia.org/wiki/玉木碧 "wikilink") (2019/09/14)
-233. \#233 [村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") ,[森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") (2019/09/21)
-234. \#234 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[森田愛梨](https://ja.wikipedia.org/wiki/森田愛梨 "wikilink") (2019/09/28)
-235. \#235 [村木菜生](https://ja.wikipedia.org/wiki/村木菜生 "wikilink") ,[中野瑞希](https://ja.wikipedia.org/wiki/中野瑞希 "wikilink") (2019/10/05)
-236. \#236 [玉木碧](https://ja.wikipedia.org/wiki/玉木碧 "wikilink") ,[矢野汐里](https://ja.wikipedia.org/wiki/矢野汐里 "wikilink") (2019/10/12) ※台風のため収録
-237. \#237 [中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/10/19)
-238. \#238 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[小田安珠](https://ja.wikipedia.org/wiki/小田安珠 "wikilink") (2019/10/26)
-239. \#239 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") (2019/11/02)
-240. \#240 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[小田安珠](https://ja.wikipedia.org/wiki/小田安珠 "wikilink") (2019/11/09)
-241. \#241 [林田美学](https://ja.wikipedia.org/wiki/林田美学 "wikilink") ,[高木由梨奈](https://ja.wikipedia.org/wiki/高木由梨奈 "wikilink") (2019/11/16)
-242. \#242 [森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/11/23)
-243. \#243 [中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") ,[森田愛梨](https://ja.wikipedia.org/wiki/森田愛梨 "wikilink") (2019/11/30)
-244. \#244 [小田安珠](https://ja.wikipedia.org/wiki/小田安珠 "wikilink") ,[村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") (2019/12/07)
-245. \#245 [森山みなみ](https://ja.wikipedia.org/wiki/森山みなみ "wikilink") ,[鈴木新彩](https://ja.wikipedia.org/wiki/鈴木新彩 "wikilink") (2019/12/14)
-246. \#246 [中道詩織](https://ja.wikipedia.org/wiki/中道詩織 "wikilink") ,[神田朝香](https://ja.wikipedia.org/wiki/神田朝香 "wikilink") (2019/12/21)
-247. \#247 [白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") ,[西辻未侑](https://ja.wikipedia.org/wiki/西辻未侑 "wikilink") (2019/12/28)
-248. \#248 [村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") ,[村木菜生](https://ja.wikipedia.org/wiki/村木菜生 "wikilink") (2020/01/04)
-249. \#249 [村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") ,[田﨑さくら](https://ja.wikipedia.org/wiki/田﨑さくら "wikilink") (2020/01/11)
-250. \#250 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") (2020/01/18)
-251. \#251 [高木由梨奈](https://ja.wikipedia.org/wiki/高木由梨奈 "wikilink") ,[味澤咲良](https://ja.wikipedia.org/wiki/味澤咲良 "wikilink") (2020/01/25)
-252. \#252 [林田美学](https://ja.wikipedia.org/wiki/林田美学 "wikilink") ,[山本里咲](https://ja.wikipedia.org/wiki/山本里咲 "wikilink") (2020/02/01)
-253. \#253 [高木由梨奈](https://ja.wikipedia.org/wiki/高木由梨奈 "wikilink") ,[依田奈波](https://ja.wikipedia.org/wiki/依田奈波 "wikilink") (2020/02/08)
-254. \#254 [小田安珠](https://ja.wikipedia.org/wiki/小田安珠 "wikilink") ,[鈴木新彩](https://ja.wikipedia.org/wiki/鈴木新彩 "wikilink") (2020/02/15)
-255. \#255 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[西村香也子](https://ja.wikipedia.org/wiki/西村香也子 "wikilink") (2020/02/22)
-256. \#256 [白木愛奈](https://ja.wikipedia.org/wiki/白木愛奈 "wikilink") ,[西辻未侑](https://ja.wikipedia.org/wiki/西辻未侑 "wikilink") (2020/02/29)
-257. \#257 [村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") ,[梅原早紀](https://ja.wikipedia.org/wiki/梅原早紀 "wikilink") (2020/03/07)
-258. \#258 [村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") ,[西辻未侑](https://ja.wikipedia.org/wiki/西辻未侑 "wikilink") (2020/03/14)
-259. \#259 [岡町綾乃](https://ja.wikipedia.org/wiki/岡町綾乃 "wikilink") ,[田﨑さくら](https://ja.wikipedia.org/wiki/田﨑さくら "wikilink") (2020/03/21)
-260. \#260 [小田安珠](https://ja.wikipedia.org/wiki/小田安珠 "wikilink") ,[宮尾玲衣](https://ja.wikipedia.org/wiki/宮尾玲衣 "wikilink") (2020/03/28)
-261. \#261 [村上なつみ](https://ja.wikipedia.org/wiki/村上なつみ "wikilink") ,[浦沢凜花](https://ja.wikipedia.org/wiki/浦沢凜花 "wikilink") (2020/04/04）
+## 脚注
 
-# 参考文献
+## 参考文献
 
-1.  \#206 マイプレゼンテーション 下津里恵　『gee up sprout』(2019年3月16日放送)
-2.  gee up sprout YouTube アーカイブス
+  - \#206 マイプレゼンテーション 下津里恵　『gee up sprout』(2019年3月16日放送)
+  - gee up sprout YouTube アーカイブス
 
-# 脚注
+## 外部リンク
 
-# 外部リンク
-
-  - [geeupsprout(@geeupsprout)](https://twitter.com/geeupsprout)-[Twitter](../Page/Twitter.md "wikilink")
-  - [geeupsproutアーカイブス](https://www.youtube.com/playlist?list=PL3p3UBZ0okICJylIDLjGkM3jxciqspumV)-[Youtube](https://ja.wikipedia.org/wiki/Youtube "wikilink")
-
-[Category:日本のラジオ番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ番組 "wikilink")
+  -
+  -
+[Category:日本のラジオ番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ番組 "wikilink") [Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink") [Category:2015年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2015年のラジオ番組_\(日本\) "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink")
 
 1.
 2.
 3.
 4.
+5.

@@ -267,14 +267,14 @@ PlotData=
   - *J'ai Pollette d'Arnu* (1991年) ※B面曲、ライブ曲
   - *Forever Live* (1996年)
   - *Subterranea: The Concert* (2000年)
-  - *The Archive Collection: IQ20* (2003年) ※公式[ブートレグ](../Page/ブートレグ.md "wikilink")
+  - *The Archive Collection: IQ20* (2003年) ※公式[海賊版](../Page/海賊版.md "wikilink")
   - *The Wake: Live at De Boerderij* (2010年)
-  - *The Archive Collection: IQ30* (2012年) ※公式ブートレグ
+  - *The Archive Collection: IQ30* (2012年) ※公式海賊版
   - *The Archive Collection: Live on The Road of Bones* (2016年)
 
 ### コンピレーション・アルバム
 
-  - *Nine in a Pond is Here* (1985年) ※デモ曲などの公式ブートレグ
+  - *Nine in a Pond is Here* (1985年) ※デモ曲などの公式海賊版
   - *The Lost Attic* (1999年) (rarities)
   - *Limited edition Frequency Tour CD 1* (2008年) ※レア曲、ライブ曲
   - *Limited edition Frequency Tour CD 2* (2008年) ※レア曲、ライブ曲

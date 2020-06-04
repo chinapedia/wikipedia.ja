@@ -40,7 +40,7 @@
   - [BATTLLOON - バトルーン 公式サイト](https://nonamestudio.itch.io/battlloon)（英語、日本語）
 
   -
-[Category:2019年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2019年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:対戦アクションゲーム "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink")
+[Category:2019年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2019年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:対戦アクションゲーム "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink")
 
 1.
 2.

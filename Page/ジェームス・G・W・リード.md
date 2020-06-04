@@ -9,7 +9,7 @@
 
 ## 出典
 
-[Category:実業家](https://ja.wikipedia.org/wiki/Category:実業家 "wikilink") [Category:上智大学出身の人物](https://ja.wikipedia.org/wiki/Category:上智大学出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1951年生](https://ja.wikipedia.org/wiki/Category:1951年生 "wikilink")
+[Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:アメリカ合衆国の実業家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の実業家 "wikilink") [Category:上智大学出身の人物](https://ja.wikipedia.org/wiki/Category:上智大学出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1951年生](https://ja.wikipedia.org/wiki/Category:1951年生 "wikilink")
 
 1.  [講師プロフィール](http://www.nbc-world.net/old/news/2001/0214/profile.html) NBC国際シンポジウム 2019年12月18日閲覧
 2.  [役員異動のお知らせ](https://www.mizuho-sc.com/company/newsrelease/2010/pdf/20100305_02_jp.pdf) みずほ証券株式会社 2019年12月18日閲覧

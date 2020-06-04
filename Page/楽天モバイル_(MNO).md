@@ -17,27 +17,25 @@
   - 2020年4月8日 - **正式サービス開始**
   - 2020年4月22日 - auローミングエリアにおける通信量上限を5GBへ引き上げる\[8\]
 
+## 通信環境
+
+楽天モバイルは、自社網として1.7GHz帯のうち1730 - 1750MHz（上り）及び1825 - 1845MHz（下り）の各20MHz帯を占有する\[9\]。2020年3月時点で、東京都・愛知県・大阪府の中心部を主体としたエリアに約4400の基地局を設置するとしているが\[10\]、エリア外や自社網の電波の届かない場所では、[auのネットワークにローミング接続する](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")\[11\]。また、楽天モバイル株式会社の光ブロードバンド回線・楽天ひかりの契約者向けに小型[フェムトセル](../Page/フェムトセル.md "wikilink")「Rakuten Casa」を販売している\[12\]。
+
 ## 料金プラン
 
-[Multi-cut_SIM_Rakuten_Mobile.jpg](https://ja.wikipedia.org/wiki/File:Multi-cut_SIM_Rakuten_Mobile.jpg "fig:Multi-cut_SIM_Rakuten_Mobile.jpg") 新規加入及び他のキャリアからの乗り換え([MNP](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink"))で選択できる料金プランは下記の「Rakuten UN-LIMIT」のみとなる\[9\]。
+[Multi-cut_SIM_Rakuten_Mobile.jpg](https://ja.wikipedia.org/wiki/File:Multi-cut_SIM_Rakuten_Mobile.jpg "fig:Multi-cut_SIM_Rakuten_Mobile.jpg") 新規加入及び他のキャリアからの乗り換え([MNP](https://ja.wikipedia.org/wiki/番号ポータビリティ "wikilink"))で選択できる料金プランは下記の「Rakuten UN-LIMIT 2.0」のみとなる\[13\]。
 
-しかし、[MVNOの楽天モバイルから乗り換える利用者に対し](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")、2020年夏を目処にMVNOの料金プラン（スーパーホーダイなど）のままでMNOサービスへの変更を受け付けるとしている\[10\]。
+しかし、[MVNOの楽天モバイルから乗り換える利用者に対し](https://ja.wikipedia.org/wiki/楽天モバイル "wikilink")、2020年夏を目処にMVNOの料金プラン（スーパーホーダイなど）のままでMNOサービスへの変更を受け付けるとしている\[14\]。
 
-### Rakuten UN-LIMIT
+### Rakuten UN-LIMIT 2.0
 
-出典：\[11\]
+出典：\[15\]
 
   - 料金：2980円（消費税別）※先着300万名に限り契約から1年間無料
   - 音声通話（国内）：Rakuten LINKアプリを経由する通話は無料（一部特番除く）、それ以外は30秒ごとに20円
-  - [SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")：無料
-  - データ通信：楽天モバイルエリアでの使用は無料（通信量無制限）、[auローミングエリアでの使用は](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")2GBまで無料で、以降は1GB 500円で追加容量を購入する必要がある。容量超過後の通信速度は最大128kbps。
-
-#### Rakuten UN-LIMIT 2.0
-
-2020年4月8日に楽天モバイルは、Rakuten UN-LIMITの一部内容変更を発表した\[12\]。旧プランの契約者もそのまま移行する。
-
-  - 4月22日以降のauローミングエリアの無料容量が2GBから5GBに変更。
-  - データ容量超過後の通信速度を最大128kbpsから1Mbpsに変更。
+  - 音声通話（国外）：Rakuten LINKアプリ同士、及び指定された国・地域から国内への通話は無料、それ以外は有料\[16\]
+  - [SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")（国内）：Rakuten LINKアプリを経由するSMSは無料、それ以外は全角70文字ごとに3円
+  - データ通信：楽天モバイルエリアでの使用は無料（通信量無制限）、[auローミングエリアでの使用は](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")5GBまで無料で、以降は1GB 500円で追加容量を購入する必要がある。容量超過後の通信速度は最大1Mbps\[17\]\[18\]
 
 ## 対応端末
 
@@ -51,11 +49,11 @@
   - [Xperia Ace](https://ja.wikipedia.org/wiki/Xperia_Ace "wikilink")（[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")製）
   - AQUOS sense 3 plus・AQUOS sense 3 lite（[シャープ](../Page/シャープ.md "wikilink")製）
   - arrows RX（[富士通コネクテッドテクノロジーズ](https://ja.wikipedia.org/wiki/富士通コネクテッドテクノロジーズ "wikilink")製）
-  - Rakuten Mini（Tinno mobile製）\[13\]
+  - Rakuten Mini（Tinno mobile製、eSIM専用端末）\[19\]
 
 なお、MVNOの楽天モバイルにおいて2020年3月時点で販売されているスマートフォン・ルーターはすべてMNOサービスに対応している。
 
-また[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")について公式には「動作対象保証外」としているが\[14\]、[iPhone XR](https://ja.wikipedia.org/wiki/iPhone_XR "wikilink")・[iPhone XS以降の機種であれば](https://ja.wikipedia.org/wiki/iPhone_XS "wikilink")[eSIMをインストールする事により通話](https://ja.wikipedia.org/wiki/SIMカード#eSIM "wikilink")・通信に対応すると発表した\[15\]\[16\]。
+また[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")について公式には「動作対象保証外」としているが\[20\]、[iPhone XR](https://ja.wikipedia.org/wiki/iPhone_XR "wikilink")・[iPhone XS以降の機種であれば](https://ja.wikipedia.org/wiki/iPhone_XS "wikilink")[eSIMをインストールする事により通話](https://ja.wikipedia.org/wiki/SIMカード#eSIM "wikilink")・通信に対応すると発表した\[21\]\[22\]。
 
 ## 脚注
 
@@ -82,6 +80,12 @@
 11.
 12.
 13.
-14. [iPhoneは利用できますか？](https://network.mobile.rakuten.co.jp/cms/faq/detail/00001437)（楽天モバイル）
+14.
 15.
-16. ただしRakuten LINKアプリがiOSに対応していないため、音声通話が有料となることに留意。
+16. 日本国外では、標準の通話アプリによる音声通話は利用できない。
+17. ローミングエリアにおける無料分容量は2020年4月22日まで2GB、また容量超過後の通信速度はプラン公表時は128Kbpsであった。
+18.
+19.
+20. [iPhoneは利用できますか？](https://network.mobile.rakuten.co.jp/cms/faq/detail/00001437)（楽天モバイル）
+21.
+22. ただしRakuten LINKアプリがiOSに対応していないため、音声通話・SMSの送信が有料となることに留意。

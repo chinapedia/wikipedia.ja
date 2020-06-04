@@ -11,7 +11,7 @@
 
 [2月10日](../Page/2月10日.md "wikilink")に本作のリリースを記念した特設サイトが開設された。同サイトには本作およびミュージック・ビデオ集の紹介のほかに、ダイジェスト映像や秋よりスタートする6大ドームツアーの先行予約の応募方法などが記載されている\[4\]。
 
-発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[5\]\[6\]。同日に発表された3月2日付の[Billboard Japan Hot Albumsチャートでも](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_Albums "wikilink")、発売初週で11万6412マイの売上を記録して首位を獲得\[7\]。
+発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[5\]\[6\]。同日に発表された3月2日付の[Billboard Japan Hot Albumsチャートでも](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_Albums "wikilink")、発売初週で11万6412枚の売上を記録して首位を獲得\[7\]。
 
 ## 収録曲
 

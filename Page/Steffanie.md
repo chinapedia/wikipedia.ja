@@ -11,7 +11,7 @@
 
 1977年、[カネボウ](../Page/カネボウ.md "wikilink")水着イメージモデル。1977年から1978年の間に2つのシングルをリリースし、1978年にポップソングのアルバムをリリースして歌手としてのキャリアを開始した。
 
-1982年、彼女はステバニー（Stevany）という名義で、アニメ映画『*[アンドロメダ・ストーリーズ](../Page/アンドロメダ・ストーリーズ.md "wikilink")』の*サウンドトラックのテーマを歌う。80年代の間に彼女は[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")ポップスから[ロック](../Page/ロック.md "wikilink")・[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")に路線を変更。ハードロック旋律によってリリースされた日本で記録された二つの新しいソロアルバムを、[ワーナーから発売した](https://ja.wikipedia.org/wiki/ワーナーミュージックジャパン "wikilink")。
+1980年代の間に彼女は[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")ポップスから[ロック](../Page/ロック.md "wikilink")・[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")に路線を変更。ハードロック旋律によってリリースされた日本で記録された二つの新しいソロアルバムを、[ワーナーから発売した](https://ja.wikipedia.org/wiki/ワーナーミュージックジャパン "wikilink")。
 
 スタジオアルバムのレコーディングで参加ミュージシャンはすべて日本人だったが、一方で作曲陣や、さまざまな日本のテレビ番組で彼女に付随するバンドはいとこのトニーとデビッド・ボルジェス、そして将来の夫のランディ・ユルゲンソン（Randy Juergenson）らのアメリカ人パフォーマーによっていた。1985年からは[うる星やつら](../Page/うる星やつら.md "wikilink")の[主題歌](../Page/主題歌.md "wikilink")を担当している。
 
@@ -29,25 +29,34 @@
   - *ハイダウェイ* （1985）
   - *ピンクノイズ* （1986）
 
-### Show-Yaのあるアルバム
-
-  - *タッチ・ザ・サン* （1995）
-
 ### シングル
 
   - 「恋のロケーション」/「I'm a Lucky Girl」（恋のロケーション/アイム・ア・ラッキーガール）（1977）
   - 「シルエット」/「ふたりのラブソング」（シルエット/ふたりのラヴ・ソング）（1978）
   - 「Rock the Planet」/「Every Day」（1985）
-      - シリーズ*うる星やつら*、エピソード150–165の曲
+      - テレビアニメ「[うる星やつら](https://ja.wikipedia.org/wiki/うる星やつら_\(アニメ\) "wikilink")」エピソード150–165のオープニング、エンディング曲
   - 「Born to Be Free」/「Remember My Love」（1985）
-      - 映画「*うる星やつら：Remember My Love」の*曲
-  - 「隠れ家」/「通りのサバイバル」（1985）
-      - 日本のテレビドラマ*Triangle Blueの*歌
-  - 「Burnin 'Up the Night」/「Breakout」（1986）
-      - 日本のテレビドラマ*Triangle Blue 2の*歌
-  - 「School's Out」/「Change of Heart」（1986）
-      - [アリス・クーパー](../Page/アリス・クーパー.md "wikilink")　カバー
-  - 「天使の炎」/「さよならを言わないで」（1992）
+      - 映画「[うる星やつら3 リメンバー・マイ・ラブ](../Page/うる星やつら3_リメンバー・マイ・ラブ.md "wikilink")」主題歌
+  - 「Hideaway」/「Survival in the Streets」（1985）
+      - 日本のテレビドラマ「[トライアングル・ブルー](https://ja.wikipedia.org/wiki/トライアングル・ブルー "wikilink")」の挿入歌
+  - 「バーニン・アップ・ザ・ナイト Burnin' Up the Night」/「ブレイクアウト Breakout」（1986）
+      - 日本のテレビドラマ「ハーフムーン」主題歌
+  - 「[スクールズ・アウト School's Out](https://ja.wikipedia.org/wiki/スクールズ・アウト_\(曲\) "wikilink")」/「チェンジ・オブ・ハート Change of Heart」（1986）
+      - スクールズ・アウトは[アリス・クーパー](../Page/アリス・クーパー.md "wikilink")のカバー
+
+### SHOW-YA名義
+
+  - シングル
+
+:\* 「[天使の炎-Flame Of The Angels-](../Page/天使の炎-Flame_Of_The_Angels-.md "wikilink")」/「DON'T SAY GOOD BYE」（1992）
+
+:\*\* DON'T SAY GOOD BYEでは作詞も行っている。
+
+  -
+
+  - ミニアルバム
+
+:\* *[Touch The Sun](https://ja.wikipedia.org/wiki/Touch_The_Sun "wikilink")* （1995）
 
 ## 脚注
 

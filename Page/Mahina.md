@@ -1,23 +1,18 @@
 > この記事は[Mahina](https://ja.wikipedia.org/wiki/Mahina)から翻訳されています。
 
 
-**mahina**（マヒナ）とは、天性の歌声を持つシンガーであり、mahinaのクリエイティヴに関わる全ての仲間たちを指す。
+**mahina**（マヒナ）は、[2018年](../Page/2018年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ソロ・プロジェクト。
 
 ## メンバー
 
   - mahina（マヒナ）：ボーカル、作詞・作曲、イラストレーター
       - “mahina”はハワイ語で月の光という意味。
-        2018年8月11日 新月の夜に始動。
-        不思議なゆらぎのある声は、一度聴くと感情を揺さぶられ心を掴まれる。
   - Bambi-chang（バンビーチャン）：MC、スタイリスト、物販店長
-      - Bambi とは色々転じて「仔鹿」を意味する。
-        2019年5月30日アーモンドミルクの日に始動。
-        独自のファッションセンスによってmahinaの世界観を彩る。
-        まとわりつくような関西弁は、一度聞くと感情を揺さぶられ夢に出る。
-  - Creative member
-      - Kim-sun：Sound Producer
-      - Lucky⭐︎star：Bassist
-      - George sky：Guitarist
+      - “Bambi”は色々転じて「仔鹿」という意味。
+  - 共同作業者
+      - Kim-sun：サウンドプロデューサー
+      - Lucky⭐︎star：ベーシスト
+      - George sky：ギタリスト
 
 ## 作品
 
@@ -142,6 +137,21 @@
 </div></td>
 <td><p>配信限定</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月23日.md" title="wikilink">5月23日</a> (予定)</p></td>
+<td><p><strong>GRIMM</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>GRIMM</li>
+</ol>
+</div>
+</div></td>
+<td><p>配信限定</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -156,6 +166,7 @@
 | 「[YOU](https://m.youtube.com/watch?v=mLz679Kjk_A)」                   |
 | 「[week](https://m.youtube.com/watch?v=KvQJ5N99aZE)」                  |
 | 「[Light Of The World](https://m.youtube.com/watch?v=suXe_dMn7Eg)」    |
+| 「[GRIMM](https://m.youtube.com/watch?v=o0lgQsyP7to)」                 |
 
 ## 脚注
 

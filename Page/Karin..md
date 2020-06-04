@@ -1,124 +1,146 @@
 > この記事は[Karin.](https://ja.wikipedia.org/wiki/Karin.)から翻訳されています。
 
 
-## 経歴
+**Karin.**（カリン、[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")所属。
 
-### デビュー前
+## 概要
 
-ピアノは6歳　小学校では吹奏楽部に所属　バレーボールは少年団・中学生まで。
+6歳からピアノを始め、小学校では吹奏楽部に所属し、小学生から中学生までバレーボールをやっていた。中学2年生頃、落ち込んでしまった時に美術の先生の弾き語りを見てギターに憧れを抱くようになった。
 
-中学2年生頃 落ち込んでしまった時に若い女の美術の先生の弾き語りを見てから
+高校進学後、本格的に音楽活動を開始し、高校1年生の終わりの頃に地元の高校生と[コピーバンド](https://ja.wikipedia.org/wiki/コピーバンド "wikilink")としてスタジオ入りしたが、仲間と価値観が合わなくその時に1人でやろうと思った\[1\] 。
 
-ギターに憧れを抱くようになったそうだ。
+[2019年](../Page/2019年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に1stアルバム『アイデンティティクライシス』を発売しデビュー\[2\]\[3\]。
 
-ギターは中学3年生の頃に誕生日プレゼントとして頼み貰ったようだ。。
+[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に2ndアルバム『メランコリックモラトリアム』を発売し\[4\] 、 [2020年](../Page/2020年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")にミニアルバム『君が生きる街』を発売予定\[5\]\[6\]。
 
-高校進学後　本格的に音楽活動を開始した。
+[2021年](../Page/2021年.md "wikilink")3･4月に初のワンマンツアー『最終章お前は泣く』を開催予定\[7\]。
 
-高校1年生の終わりの頃に地元の高校生とコピーバンドとしてスタジオに入り。
+## ディスコグラフィ
 
-仲間と価値観が合わなくその時に1人でやろうと思ったそうだ。
+### 先行配信
 
-高校2年生の6月8日に茨木県内のライブハウスに立ち。
-
-幾度となくライブハウスで歌ったようだ。
-
-初めてのライブハウスの店長さんが目をつけ他のライブハウスにも出演を掛け合ってくれたそうだ。
-
-### デビュー後
-
-2019年6月8日初ライブから満1年の記念日にデビューを発表。
-
-【愛を叫んでみた】を先行配信。
-
-8月7日 ファーストアルバム【アイデンティティクライシス】をリリース。
-
-FMラジオでは【愛を叫んでみた】が8月度のヘビーローテーションに選出され。
-
-ラジオ出演も数々出演している。
-
-【青春脱衣場】のMVは現在では84万回再生以上を記録している。
-
-同12月4日に【命の使い方】を先行配信
-
-2020年Spotify”Early Noise 2020”に選出され注目されている。
-
-2月12日 セカンドアルバム【メランコリックモラトリアム】をリリース。
-
-同6月からは初ワンマンツアー【最終章お前は泣く】を開催が決定している。（延期）
-
-## 使用楽器
-
-  - アコスティックギター
-  - ピアノ
-
-## 作品
-
-### 先行配信（デジタル配信）
-
-| ＃   | 発売日        | タイトル    | 規格                                                                  | 規格品番 | オリコン |
-| --- | ---------- | ------- | ------------------------------------------------------------------- | ---- | ---- |
-| 1st | 2019.06.08 | 愛を叫んでみた | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") | NONE |      |
-| 2st | 2019.12.04 | 命の使い方   | [デジタル・ダウンロード](../Page/音楽配信.md "wikilink")                           | NONE |      |
+|     | 発売日        | タイトル        | 規格                                                                  |
+| --- | ---------- | ----------- | ------------------------------------------------------------------- |
+| 1st | 2019年6月8日  | **愛を叫んでみた** | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") |
+| 2nd | 2019年12月4日 | **命の使い方**   | デジタル・ダウンロード                                                         |
 
 ### アルバム
 
-| ＃   | 発売日        | タイトル          | 規格      | 規格品番      | 収録曲 | オリコン |
-| --- | ---------- | ------------- | ------- | --------- | --- | ---- |
-| 1st | 2019.08.07 | アイデンティティクライシス | CD+デジタル | UMCK-1630 | 全8曲 |      |
-| 2st | 2020.02.12 | メランコリックモラトリアム | CD+デジタル | UMCK-1650 | 全8曲 |      |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2019年8月7日</p></td>
+<td><p><strong>アイデンティティクライシス</strong></p></td>
+<td><p>UMCK-1630</p></td>
+<td><div class="NavFrame collapsed" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全8曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>愛を叫んでみた</li>
+<li>teenage</li>
+<li>だいじなもの</li>
+<li>貴様に流す涙なんて</li>
+<li>白色のコンバース</li>
+<li>あたしの嫌いな唄</li>
+<li>エンドロール</li>
+<li>青春脱衣所</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2020年2月12日</p></td>
+<td><p><strong>メランコリックモラトリアム</strong></p></td>
+<td><p>UMCK-1650</p></td>
+<td><div class="NavFrame collapsed" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全8曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>命の使い方</li>
+<li>「バイバイ」って言わない理由</li>
+<li>藍錆色の夕日</li>
+<li>誰もわるくないね</li>
+<li>残灯、夜に消える</li>
+<li>教室難民</li>
+<li>最終章おまえは泣く</li>
+<li>髪を切ったら</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
-### ep
+### ミニアルバム
 
-| ＃   | 発売日        | タイトル   | 規格                                                                  | 規格品番 | 収録曲 | オリコン |
-| --- | ---------- | ------ | ------------------------------------------------------------------- | ---- | --- | ---- |
-| 1st | 2020.05.22 | 君が生きる街 | [デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink") | NONE | 全4曲 |      |
-
-## MV
-
-  - Karin.「愛を叫んでみた」
-
-<!-- end list -->
-
-  - Karin.「青春脱衣所」
-
-<!-- end list -->
-
-  - Karin.「命の使い方」
-  - Karin.「最終章おまえは泣く」
-  - Karin.「髪を切ったら」
-  - Karin.「君が生きる街」
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格</p></th>
+<th><p>収録曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2020年5月22日</p></td>
+<td><p><strong>君が生きる街</strong></p></td>
+<td><p>デジタル・ダウンロード</p></td>
+<td><div class="NavFrame collapsed" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>君が生きる街</li>
+<li>はないちもんめ</li>
+<li>痛みがわかれば</li>
+<li>青春脱衣所 -弾き語り-</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 ## ライブ
 
-| 日程    |      | ツアータイトル            | 形態                      | 会場  |
-| ----- | ---- | ------------------ | ----------------------- | --- |
-| 2020年 | 6月7日 | 延期                 | 初ワンマンライブ＆ツアー【最終章おまえは泣く】 | ツアー |
-| 6月21日 | 延期   | 大阪 梅田Shangri-La    |                         |     |
-| 6月28日 | 延期   | 愛知 名古屋ell.FITS ALL |                         |     |
+| 日程    | ツアータイトル                                                                           | 会場                          | 備考           |
+| ----- | --------------------------------------------------------------------------------- | --------------------------- | ------------ |
+| 2021年 | 3月27日                                                                             | **初ワンマンライブ＆ツアー「最終章おまえは泣く」** | 梅田Shangri-La |
+| 3月28日 | [Electric Lady Land](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink") |                             |              |
+| 4月3日  | [水戸ライトハウス](https://ja.wikipedia.org/wiki/水戸ライトハウス "wikilink")                     |                             |              |
 
 ## 脚注
 
 ### 出典
 
-  - [karin.プロフィール](https://karin-official.com/feature/biography)
-  - [ユニバーサルジャパン プロフィール](https://www.universal-music.co.jp/karin/)
-  - [ファーストアルバムリリース](https://karin-official.com/discography/detail/1/)
-  - [セカンドアルバム](https://karin-official.com/discography/detail/4/)
-  - [初ワンマンライブ＆ツアー「最終章おまえは泣く」](https://karin-official.com/news/detail/154)
-  - [エンタメ特化型情報メディアスパイス](https://spice.eplus.jp/articles/249086)
-  - [君が生きる街‐ ep](https://karin-official.com/discography/detail/5/)
-
-## 関連項目
-
-  - [UNIVERSALMUSIC JAPAN](https://ja.wikipedia.org/wiki/UNIVERSAL_MUSIC_JAPAN "wikilink")
-  - [フェイスミュージックエンタテインメント](../Page/フェイスミュージックエンタテインメント.md "wikilink")
-
 ## 外部リンク
 
   - [Karin-official](https://karin-official.com/)
-  - [Karin. YouTube Channel](https://www.youtube.com/channel/UCB6Dl5at1tt6DE3CiUMehqQ)
-  - [Karin.Twitter](https://twitter.com/_Karin_official)
-  - [karin.Instagram](https://www.instagram.com/_karin_official/?hl=ja)
 
+  -
+  -
+  -
+  -
 [Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:茨城県出身の人物](https://ja.wikipedia.org/wiki/Category:茨城県出身の人物 "wikilink") [Category:2001年生](https://ja.wikipedia.org/wiki/Category:2001年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.

@@ -499,11 +499,11 @@ TFCC-86646</p></td>
 
 ## タイアップ
 
-| 曲名                | タイアップ                                                               |
-| ----------------- | ------------------------------------------------------------------- |
-| Ghost In My Place | 関西テレビ「[ミュージャック](../Page/ミュージャック.md "wikilink")」エンディングテーマ            |
-| Sunshine          | Amazon Music Unlimitedキャンペーンソング                                     |
-| Gateway           | [JAL](https://ja.wikipedia.org/wiki/JAL "wikilink") ネクストアスリート CMソング |
+| 曲名                | タイアップ                                                    |
+| ----------------- | -------------------------------------------------------- |
+| Ghost In My Place | 関西テレビ「[ミュージャック](../Page/ミュージャック.md "wikilink")」エンディングテーマ |
+| Sunshine          | Amazon Music Unlimitedキャンペーンソング                          |
+| Gateway           | [JAL](../Page/日本航空.md "wikilink") ネクストアスリート CMソング        |
 
 ## 主なライブ
 

@@ -5,12 +5,12 @@
 
 ## 概要
 
-これまでの『[大野勢太郎の楽園ラジオ〜パワー全開\!\!〜](https://ja.wikipedia.org/wiki/大野勢太郎の楽園ラジオ〜パワー全開!!〜 "wikilink")』の8時台から11時台の放送枠を引き継ぎ、新しい土曜日午前中の生ワイド番組として再出発。
+これまでの『[大野勢太郎の楽園ラジオ〜パワー全開\!\!〜](https://ja.wikipedia.org/wiki/大野勢太郎の楽園ラジオ〜パワー全開!!〜 "wikilink")』の8時台から11時台の放送枠を引き継ぎ、「のんびりいこう」をコンセプトに心地よい音楽とともに土曜日の朝を明るく楽しく彩る番組としてスタート。
 
 ## パーソナリティー
 
-  - [Happy だんばら](../Page/Happy_だんばら.md "wikilink")
-  - [小尾渚沙](https://ja.wikipedia.org/wiki/小尾渚沙 "wikilink")
+  - [Happy だんばら](../Page/Happy_だんばら.md "wikilink")\[1\]
+  - [小尾渚沙](https://ja.wikipedia.org/wiki/小尾渚沙 "wikilink")\[2\]
 
 ## タイムテーブル
 
@@ -44,14 +44,12 @@
 
 ## 脚注
 
-## 関連項目
-
-  - [Nutty Radio Show THE魂](https://ja.wikipedia.org/wiki/Nutty_Radio_Show_THE魂 "wikilink") - Happy だんばらが月曜日に担当している、もう一つのNACK5の番組。
-  - [NACK Nパス](https://ja.wikipedia.org/wiki/NACK_Nパス "wikilink") - かつて小尾が担当していたNACK5の番組。2020年3月終了。
-
 ## 外部リンク
 
   - [番組ホームページ](https://www.nack5.co.jp/program/obihappy/)
 
   -
 [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")
+
+1.  『[Nutty Radio Show THE魂](https://ja.wikipedia.org/wiki/Nutty_Radio_Show_THE魂 "wikilink")』月曜パーソナリティ兼任
+2.  『[NACK Nパス](https://ja.wikipedia.org/wiki/NACK_Nパス "wikilink")』（2020年3月終了）パーソナリティを担当

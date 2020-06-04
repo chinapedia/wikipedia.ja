@@ -923,10 +923,10 @@
 <td><p>U+9FFx</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>Notes</strong></p>
+<td><p><strong>注釈</strong></p>
 <dl>
 <dt></dt>
-<dd>1.Unicode version 12.0現在
+<dd>1.Unicode version 13.0現在
 </dd>
 <dd>2.灰色のエリアはコードポイントが割り当てられていないことを示す。
 </dd>

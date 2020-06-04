@@ -7,7 +7,7 @@
 
 パワプロシリーズの新作。このソフトを使用した公式[eスポーツイベント](../Page/エレクトロニック・スポーツ.md "wikilink")「**eBASEBALL パワプロ・プロリーグ**」がコナミと[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")によって開催することが発表されているため、『[eFootball ウイニングイレブン 2020](https://ja.wikipedia.org/wiki/eFootball_ウイニングイレブン_2020 "wikilink")』同様、今作ではタイトルの先頭が『**実況**』から『**eBASEBALL**』に変更となった。なお、今作の（2020年の）ペナントレースの開催日程と東京オリンピックの開催状況などは[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")の影響による変更以前のものとなっている（これは『[プロ野球スピリッツ2019](https://ja.wikipedia.org/wiki/プロ野球スピリッツ2019 "wikilink")』の2020年データも同様）。
 
-[Nintendo Switch版は](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[Switch版の1作目以来](https://ja.wikipedia.org/wiki/実況パワフルプロ野球_\(2019年のゲーム\) "wikilink")1年ぶり、[PlayStation 4版は](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")『[実況パワフルプロ野球2018](https://ja.wikipedia.org/wiki/実況パワフルプロ野球2018 "wikilink")』以来2年ぶりとなる。任天堂ハード向けとしては2008年発売のWii版『[実況パワフルプロ野球15](../Page/実況パワフルプロ野球15.md "wikilink")』以来のナンバリング作品となり、任天堂ハードのメインのナンバリング作品にタイトルに年号が付くゲームは『[実況パワフルプロ野球'94](../Page/実況パワフルプロ野球'94.md "wikilink")』以来である。
+[Nintendo Switch版は](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[Switch版の1作目以来](https://ja.wikipedia.org/wiki/実況パワフルプロ野球_\(2019年のゲーム\) "wikilink")1年ぶり、[PlayStation 4版は](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")『[実況パワフルプロ野球2018](https://ja.wikipedia.org/wiki/実況パワフルプロ野球2018 "wikilink")』以来2年ぶりとなる。任天堂ハード向けとしては2008年発売のWii版『[実況パワフルプロ野球15](../Page/実況パワフルプロ野球15.md "wikilink")』以来のナンバリング作品となり、任天堂ハードのメインのナンバリング作品にタイトルに年号が付くゲームは『[実況パワフルプロ野球2000](../Page/実況パワフルプロ野球2000.md "wikilink")』以来である。
 
 「パワフェス」・「LIVEシナリオ」・「栄冠ナイン」モードがNintendo Switchで初めてプレー可能となる。PS4版では初めて最大4人まで（オフライン）の協力プレーに対応し、『[サクセススペシャル](https://ja.wikipedia.org/wiki/実況パワフルプロ野球サクセススペシャル "wikilink")』との連動もできる予定。
 
@@ -21,11 +21,11 @@
 
 ## パワフェスモード
 
-今作の舞台が空が舞台となっている。
+今作の舞台が「パワフェス・ワールドフライト」こと、[ギリシャ](../Page/ギリシャ.md "wikilink")を目指して世界を巡る飛行型スタジアムとなっている。
 
-  -
-    前作では条件で仲間の数を決めるルーレットは廃止された。
-    これまでのパワフェスとは異なり所属する選手が変更、またはオリジナルチームに所属するようになった。
+ゲーム仕様はこれまでのパワフェスと同様だが、前作では条件で仲間の数を決める条件はルーレットによるランダムから、チーム別独自の条件を設定された。また、これまでのパワフェスで敗退したチームの選手は（条件付き）自チームとボスチームにしか加入できないが、今作は通常の相手チームにも加入できるようになった。
+
+また、一部の旧作のパワフェスモード（『[実況パワフルプロ野球 ヒーローズ](https://ja.wikipedia.org/wiki/実況パワフルプロ野球_ヒーローズ "wikilink")』のヒーローズモード含み）から存在したのチーム廃止・統合などバランス調整があります。
 
 ## 公式イベント
 

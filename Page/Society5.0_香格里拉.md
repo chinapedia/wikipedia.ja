@@ -21,8 +21,8 @@
 
   - [峰竜太](../Page/峰竜太.md "wikilink")とみんなの信州（11:05 - 11:20）
       - 土曜6:45 - 7:00の単独番組から移動。
-  - [柴田阿弥とオテンキのりのジャパン5.0](https://www.gov-online.go.jp/pr/media/radio/japan5/index.html)（12:20 - 12:35）
-      - [政府広報](../Page/政府広報.md "wikilink")番組。[NRN加盟](../Page/全国ラジオネットワーク.md "wikilink")[19局ネット](https://www.gov-online.go.jp/pr/media/radio/japan5/time.html)で放送。
+  - 柴田阿弥と[オテンキ](https://ja.wikipedia.org/wiki/オテンキ "wikilink")のりのジャパン5.0（12:20 - 12:35）
+      - [政府広報](../Page/政府広報.md "wikilink")番組。[NRN加盟](../Page/全国ラジオネットワーク.md "wikilink")19局ネットで放送。
 
 ## 脚注
 
@@ -35,6 +35,8 @@
 ## 外部リンク
 
   - [『Society5.0 香格里拉』公式サイト](https://joqr.co.jp/s5/)
+
+  - [柴田阿弥とオテンキのりのジャパン5.0公式サイト](https://www.gov-online.go.jp/pr/media/radio/japan5/index.html)
 
   -
 [Category:文化放送のトーク番組](https://ja.wikipedia.org/wiki/Category:文化放送のトーク番組 "wikilink") [Category:文化放送の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:文化放送の情報・ワイドショー番組 "wikilink") [Category:文化放送の音楽番組](https://ja.wikipedia.org/wiki/Category:文化放送の音楽番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink")

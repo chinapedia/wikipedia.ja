@@ -55,7 +55,7 @@ VACによって禁止処置を受けたプレイヤーは「Going on "**VAC**ati
 
 2014年、チームに所属していた[プロゲーマー](../Page/プロゲーマー.md "wikilink")であるemilio（Joel Mako）が、[ライブストリーミングの途中で禁止処置を受けた](https://ja.wikipedia.org/wiki/ストリーミング#ライブストリーミング "wikilink")\[42\]。emilioは最初に「自身のメインアカウントとメールアドレスで関連付けられたスマーフアカウントの1つにおいてゲームをプレイしていた友人」が原因であるとして、チートの使用を否定していた\[43\]。その後、[2015年](../Page/2015年.md "wikilink")にチートの使用を認めている\[44\]。
 
-他にも、KQLY（Hovik Tovmassian）やsmn（Simon Beck）、Sf（Gordon Giry）の3名も Winter 2014への出場を控えていたが、直前に禁止処置を受けた\[45\]\[46\]\[47\]。は禁止処置について、Valveと直接協力した結果であると主張した\[48\]。smnとKQLYはどちらもチートの使用を認めている\[49\]。
+他にも、KQLY（Hovik Tovmassian）やsmn（Simon Beck）、Sf（Gordon Giry）の3名も[DreamHack](https://ja.wikipedia.org/wiki/DreamHack "wikilink") Winter 2014への出場を控えていたが、直前に禁止処置を受けた\[45\]\[46\]\[47\]。は禁止処置について、Valveと直接協力した結果であると主張した\[48\]。smnとKQLYはどちらもチートの使用を認めている\[49\]。
 
 ## 脚注
 
@@ -64,7 +64,7 @@ VACによって禁止処置を受けたプレイヤーは「Going on "**VAC**ati
   - [Valve Anti-Cheat(VAC) システム](https://support.steampowered.com/kb_cat.php?id=10) - Steamサポート
   - [Valve Anti-Cheatが有効化されたゲームの一覧](https://store.steampowered.com/search/?category2=8)
 
-[Category:2002年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2002年のソフトウェア "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:オンラインゲーム](https://ja.wikipedia.org/wiki/Category:オンラインゲーム "wikilink") [Category:コンピュータ・ネットワーク・セキュリティ](https://ja.wikipedia.org/wiki/Category:コンピュータ・ネットワーク・セキュリティ "wikilink")
+[Category:2002年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2002年のソフトウェア "wikilink") [Category:Valve](https://ja.wikipedia.org/wiki/Category:Valve "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:オンラインゲーム](https://ja.wikipedia.org/wiki/Category:オンラインゲーム "wikilink") [Category:コンピュータ・ネットワーク・セキュリティ](https://ja.wikipedia.org/wiki/Category:コンピュータ・ネットワーク・セキュリティ "wikilink")
 
 1.
 2.

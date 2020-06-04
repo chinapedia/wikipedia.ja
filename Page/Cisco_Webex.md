@@ -1,8 +1,7 @@
 > この記事は[Cisco Webex](https://ja.wikipedia.org/wiki/Cisco_Webex)から翻訳されています。
 
 
-
- **Cisco Webex**(シスコウェベックス)は、 [Web会議](https://ja.wikipedia.org/wiki/Web会議 "wikilink")および[ビデオ会議アプリケーションを開発および販売するアメリカの企業である](../Page/テレビ電話.md "wikilink") \[1\] 。[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")がWebexを買収した2007年に設立された。 本社は[カリフォルニア州ミルピタス](../Page/ミルピタス_\(カリフォルニア州\).md "wikilink")。
+**Cisco Webex**(シスコウェベックス)は、 [Web会議](https://ja.wikipedia.org/wiki/Web会議 "wikilink")および[ビデオ会議アプリケーションを開発および販売するアメリカの企業である](../Page/テレビ電話.md "wikilink") \[1\] 。[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")がWebexを買収した2007年に設立された。 本社は[カリフォルニア州ミルピタス](../Page/ミルピタス_\(カリフォルニア州\).md "wikilink")。
 
 ソフトウェア製品として、Webex Meetings、Webex Teams、Training Center、Event Center、Support Center、Sales Center、MeetMeNow、PCNow、Webex AIM Pro Business Edition、Webex WebOffice、およびWebEx Connectをリリースしている。 Webexの製品は、 すべて[シスコシステムズ](../Page/シスコシステムズ.md "wikilink")のコラボレーションポートフォリオの一部である。
 

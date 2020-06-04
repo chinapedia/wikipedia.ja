@@ -1,7 +1,7 @@
 > この記事は[Z-BIZ.](https://ja.wikipedia.org/wiki/Z-BIZ.)から翻訳されています。
 
 
-『**Z-BIZ.**』（ジービズ）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から放送されている[報道番組](../Page/報道番組.md "wikilink")である。
+『**Z-BIZ.**』（ジービズ）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から放送されている[報道番組](../Page/報道番組.md "wikilink")である。番組名を名付けたのは[荒戸完](https://ja.wikipedia.org/wiki/荒戸完 "wikilink")本人である。
 
 ## 概要
 

@@ -143,7 +143,7 @@
 （試作車） <File:Volgograd> tram 5865 2019-09.jpg|[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")：[ヴォルゴグラード](../Page/ヴォルゴグラード.md "wikilink")
 （[ヴォルゴグラード・メトロトラム](https://ja.wikipedia.org/wiki/ヴォルゴグラード・メトロトラム "wikilink")）
 （71-623-03） <File:Трамвай> 71-623, Енакиево.jpg|[ウクライナ](../Page/ウクライナ.md "wikilink")： <File:Павлодар> трамвай №148.jpg|[カザフスタン](../Page/カザフスタン.md "wikilink")：[パヴロダル](../Page/パヴロダル.md "wikilink")
-（）
+（[パヴロダル市電](../Page/パヴロダル市電.md "wikilink")）
 
 ## 関連項目
 
@@ -158,7 +158,7 @@
 ## 参考資料
 
   -
-[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両‎](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両‎ "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:ヴォルゴグラード市電](https://ja.wikipedia.org/wiki/Category:ヴォルゴグラード市電 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:ラトビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ラトビアの路面電車車両 "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:2009年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2009年製の鉄道車両 "wikilink")
+[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:ヴォルゴグラード市電](https://ja.wikipedia.org/wiki/Category:ヴォルゴグラード市電 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:ラトビアの路面電車車両](https://ja.wikipedia.org/wiki/Category:ラトビアの路面電車車両 "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:2009年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2009年製の鉄道車両 "wikilink")
 
 1.
 2.

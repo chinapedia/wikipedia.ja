@@ -55,9 +55,11 @@
 
 そしてGENIC初のライブツアーの名称が『**GENIC LIVE TOUR 2020 -GENEX-**』に決定したこと、チケット売り切れ続出による追加公演の決定も発表された。\[32\]
 
+5月8日　GENIC初のライブツアー『**GENIC LIVE TOUR 2020 -GENEX-**』が[新型コロナウイルスによる影響で](../Page/2019新型コロナウイルス.md "wikilink")**中止**となった。\[33\]
+
 ## メンバー
 
-公式サイトにおけるプロフィール\[33\]、過去の実績をもとに記述。
+公式サイトにおけるプロフィール\[34\]、過去の実績をもとに記述。
 
 <table>
 <thead>
@@ -178,8 +180,8 @@
 
 | 発売日                                                                        | タイトル                   | 形態                     |
 | -------------------------------------------------------------------------- | ---------------------- | ---------------------- |
-| [2019年](../Page/2019年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **SUNGENIC ep**\[34\]  | サブスクリプション音楽ストリーミングサービス |
-| [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **MOONGENIC ep**\[35\] | サブスクリプション音楽ストリーミングサービス |
+| [2019年](../Page/2019年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") | **SUNGENIC ep**\[35\]  | サブスクリプション音楽ストリーミングサービス |
+| [2020年](../Page/2020年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")     | **MOONGENIC ep**\[36\] | サブスクリプション音楽ストリーミングサービス |
 
 ## ライブ
 
@@ -209,9 +211,9 @@
 
 ## タイアップ
 
-| 曲名              | タイアップ先                           | 収録作品           |
-| --------------- | -------------------------------- | -------------- |
-| BURNIN' BURNIN' | ドラマ＆舞台連動プロジェクト「KING OF DANCE」主題歌 | 1stアルバム「GENEX」 |
+| 曲名              | タイアップ先                                                                                     | 収録作品           |
+| --------------- | ------------------------------------------------------------------------------------------ | -------------- |
+| BURNIN' BURNIN' | ドラマ＆舞台連動プロジェクト「[KING OF DANCE](https://ja.wikipedia.org/wiki/KING_OF_DANCE "wikilink")」主題歌 | 1stアルバム「GENEX」 |
 
 ## 脚注
 
@@ -279,6 +281,7 @@
 30.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082401|website=GENICライブ生配信放送決定](http://avex.jp/genic/news/detail.php?id=1082401%7Cwebsite=GENICライブ生配信放送決定)！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
 31.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082558|website=GENIC](http://avex.jp/genic/news/detail.php?id=1082558%7Cwebsite=GENIC) Debut Album『GENEX』5月27日(水)リリース決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
 32.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1082582|website=GENIC初のライブツアーがチケット売切続出につき急遽追加公演決定！ツアータイトルも『GENIC](http://avex.jp/genic/news/detail.php?id=1082582%7Cwebsite=GENIC初のライブツアーがチケット売切続出につき急遽追加公演決定！ツアータイトルも『GENIC) LIVE TOUR 2020 -GENEX-』に決定！ - NEWS {{\!}}|accessdate=2020-03-29|language=ja}}
-33.
+33.  男女7人組ダンス&ボーカルグループ GENIC（ジェニック）|url=[http://avex.jp/genic/news/detail.php?id=1083369|website=【重要](http://avex.jp/genic/news/detail.php?id=1083369%7Cwebsite=【重要)】＜GENIC LIVE TOUR 2020 -GENEX-＞開催中止に関するご案内 - NEWS {{\!}}|accessdate=2020-05-08|language=ja}}
 34.
 35.
+36.

@@ -16,14 +16,15 @@
 **2020年**
 
   - 第1回（4月5日）、第2回（4月12日） - [山崎夢羽](https://ja.wikipedia.org/wiki/山崎夢羽 "wikilink")、[小林萌花](https://ja.wikipedia.org/wiki/小林萌花 "wikilink")\[2\]
-  - 第3回（4月19日）、第4回（4月26日予定） - [一岡伶奈](https://ja.wikipedia.org/wiki/一岡伶奈 "wikilink")、[高瀬くるみ](https://ja.wikipedia.org/wiki/高瀬くるみ "wikilink")\[3\]
+  - 第3回（4月19日）、第4回（4月26日） - [一岡伶奈](https://ja.wikipedia.org/wiki/一岡伶奈 "wikilink")、[高瀬くるみ](https://ja.wikipedia.org/wiki/高瀬くるみ "wikilink")\[3\]
+  - 第5回（5月3日）、第6回（5月10日） - [前田こころ](https://ja.wikipedia.org/wiki/前田こころ "wikilink")、山﨑夢羽\[4\]
 
 ## 番組コーナー
 
   - フリーメッセージ
     メンバーへの質問や番組の感想を募集するコーナー。
   - チャレンジコーナー
-    早口言葉と即興ミニラジオドラマを週替わりでおこなっている\[4\]。
+    早口言葉と即興ミニラジオドラマを週替わりでおこなっている\[5\]。
 
 ## 脚注
 
@@ -41,3 +42,4 @@
 2.
 3.
 4.
+5.

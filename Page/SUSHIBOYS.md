@@ -1,11 +1,11 @@
 > この記事は[SUSHIBOYS](https://ja.wikipedia.org/wiki/SUSHIBOYS)から翻訳されています。
 
 
-**SUSHIBOYS**（すしぼーいず）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性2人組ミュージシャン（ラップグループ）。メンバーは**ファームハウス**と**サンテナ**の2MC。
+**SUSHIBOYS**（すしぼーいず）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性2人組ラップグループ。メンバーは**ファームハウス**と**サンテナ**の2MC。
 
 ## 概要
 
-[埼玉県](../Page/埼玉県.md "wikilink")[越生町](../Page/越生町.md "wikilink")出身の2MCからなるラップグループ。2018年までメンバーのエビデンスが所属していた\[1\]。
+[埼玉県](../Page/埼玉県.md "wikilink")[越生町](../Page/越生町.md "wikilink")出身の2MCからなるラップグループ。2018年末までファームハウスの弟であるエビデンスを含めた3MC体制で活動していた\[1\]。
 
 アルバム「NIGIRI」は、Apple Music の「今週のNEW ARTIST」に選出された。
 

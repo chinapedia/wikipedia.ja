@@ -114,7 +114,8 @@
 </ol>
 </div>
 </div></td>
-<td><p>両A面シングル Live会場限定リリース</p></td>
+<td><p>両A面シングル Live会場限定リリース</p>
+<p>2020/02/07 配信開始</p></td>
 </tr>
 </tbody>
 </table>
@@ -174,7 +175,7 @@
 </ol>
 </div>
 </div></td>
-<td><p>現在入手不可</p></td>
+<td><p>2020/02/21より配信再リリース</p></td>
 </tr>
 <tr class="odd">
 <td><p>３rd</p></td>
@@ -194,7 +195,8 @@
 </div>
 </div></td>
 <td><p>Pressure同時リリース</p>
-<p>現在入手不可</p></td>
+<p>2020/03/20より</p>
+<p>Thrasher＋Pressureとして配信再リリース</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -213,13 +215,14 @@
 </ol>
 </div>
 </div></td>
-<td><p>Thrasher同時リリース 現在入手不可</p></td>
+<td><p>Thrasher同時リリース</p>
+<p>2020/03/20より Thrasher＋Pressureとして配信再リリース</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>2019/05/15<br />
 </p></td>
-<td></td>
+<td><p>BSRD-1006</p></td>
 <td><p>MOTHER EP</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -236,7 +239,31 @@
 </ol>
 </div>
 </div></td>
-<td><p>2019/05/14 Live会場にて先行リリース</p></td>
+<td><p>2019/05/14 Live会場にて先行リリース</p>
+<p>2020/02/28 配信開始</p></td>
+</tr>
+<tr class="even">
+<td><p>5th</p></td>
+<td><p>2020/05/14<br />
+</p></td>
+<td></td>
+<td><p>FANTIMMUNE!</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>収録曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>No turning back</li>
+<li>終身刑</li>
+<li>Touch</li>
+<li>MurderTVshow</li>
+<li>truth/world 2020</li>
+<li>世に憚る</li>
+</ol>
+</div>
+</div></td>
+<td><p>2020/05/14 配信リリース</p></td>
 </tr>
 </tbody>
 </table>

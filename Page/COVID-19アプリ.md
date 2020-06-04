@@ -1,7 +1,7 @@
 > この記事は[COVID-19アプリ](https://ja.wikipedia.org/wiki/COVID-19アプリ)から翻訳されています。
 
 
-**COVID-19アプリ**は、[新型コロナウイルス感染症（COVID-19）の](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")[感染経路](../Page/感染経路.md "wikilink")や感染者の行動履歴を特定（コンタクト・トレーシング）するために開発・改良・利用される[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を指す。
+**COVID-19アプリ**は、[新型コロナウイルス感染症（COVID-19）の](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[感染経路](../Page/感染経路.md "wikilink")や感染者の行動履歴を特定（コンタクト・トレーシング）するために開発・改良・利用される[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を指す。
 
 ## 概要
 
@@ -19,37 +19,52 @@
 
 2020年3月、ミハイル・ミシュスチン首相は、ロシア情報技術・通信省に患者と接触している市民を追跡するシステムを作成するよう指示した\[4\]。
 
+### インド
+
+インドは、「健康の架け橋」と呼ばれるアプリを導入。2020年5月に始めた封鎖措置の緩和の際、仕事に復帰する官民労働者すべてにアプリの使用を義務付けた。他の国で採用されたアプリと同様、ブルートゥースを使って人の接触を記録し、感染者が近くにいる場合は警告を発する仕組みだが、情報は中央管理によりデータベース化されることが特徴。個人のプライバシーの領域に大きく踏み込むこととなっている\[5\]。
+
 ## 脚注
 
 ## 関連項目
 
   - [2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink") (SARS-CoV-2)
-      - [2019新型コロナウイルスによる急性呼吸器疾患](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink") (COVID-19)
+      - [新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink") (COVID-19)
       - [新型コロナウイルス感染症の世界的流行](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")
   - [監視カメラ](../Page/監視カメラ.md "wikilink")
   - [監視社会](https://ja.wikipedia.org/wiki/監視社会 "wikilink")
   - [伝染病](../Page/伝染病.md "wikilink")
   - [感染管理](../Page/感染管理.md "wikilink")
+  - [感染経路](../Page/感染経路.md "wikilink")
   - [地理空間情報](../Page/地理空間情報.md "wikilink")
   - [Folding@home](https://ja.wikipedia.org/wiki/Folding@home#ウイルス "wikilink")
   - [TraceTogether](../Page/TraceTogether.md "wikilink")
 
 ## 外部リンク
 
-  - [TraceTogether](https://www.tracetogether.gov.sg/)
-
-  - [COVID‑19 - Mobility Trends Reports](https://www.apple.com/covid19/mobility)  - [Apple](../Page/アップル_\(企業\).md "wikilink")
+  - [新型コロナウイルス対策 - 移動傾向レポート](https://www.apple.com/covid19/mobility)  - [Apple](../Page/アップル_\(企業\).md "wikilink")
 
   - [COVID‑19スクリーニングツール](https://www.apple.com/covid19)  - [Apple](../Page/アップル_\(企業\).md "wikilink")
 
-  - [COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)  - [Google](../Page/Google.md "wikilink")
+  - [COVID-19: コミュニティ モビリティ レポート](https://www.google.com/covid19/mobility/)  - [Google](../Page/Google.md "wikilink")
 
   - [Yahoo\! MAP、エリアやターミナル駅周辺の混雑度を表示する「混雑レーダー」を再び提供](https://map.yahoo.co.jp/blog/archives/20200410_map_crowdradar.html) - [Yahoo\!地図](https://ja.wikipedia.org/wiki/Yahoo!地図 "wikilink")
 
   -
+<!-- end list -->
+
+  - 感染経路や感染予兆に関する追跡アプリ・サイト
+
+<!-- end list -->
+
+  - [COVID Near You](https://www.covidnearyou.org/)
+  - [COVID Symptom Tracker](https://covid.joinzoe.com/)
+  - [Private Kit: Safe Paths](http://safepaths.mit.edu/)
+  - [TraceTogether](https://www.tracetogether.gov.sg/)
+
 [Category:ソフトウェア](https://ja.wikipedia.org/wiki/Category:ソフトウェア "wikilink") [Category:アプリケーションソフト](https://ja.wikipedia.org/wiki/Category:アプリケーションソフト "wikilink") [Category:コンピュータの利用](https://ja.wikipedia.org/wiki/Category:コンピュータの利用 "wikilink") [Category:2019新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症 "wikilink") [Category:人権](https://ja.wikipedia.org/wiki/Category:人権 "wikilink") [Category:社会問題](https://ja.wikipedia.org/wiki/Category:社会問題 "wikilink") [Category:治安](https://ja.wikipedia.org/wiki/Category:治安 "wikilink") [Category:社会システム](https://ja.wikipedia.org/wiki/Category:社会システム "wikilink") [Category:プライバシー](https://ja.wikipedia.org/wiki/Category:プライバシー "wikilink") [Category:地理技術](https://ja.wikipedia.org/wiki/Category:地理技術 "wikilink") [Category:情報](https://ja.wikipedia.org/wiki/Category:情報 "wikilink") [Category:アップルのソフトウェア](https://ja.wikipedia.org/wiki/Category:アップルのソフトウェア "wikilink") [Category:Googleのソフトウェア](https://ja.wikipedia.org/wiki/Category:Googleのソフトウェア "wikilink")
 
 1.
 2.
 3.
 4.
+5.

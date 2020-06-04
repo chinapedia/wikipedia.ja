@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作『WORLD'S END』より約1年3ヶ月ぶり、また2019年6月に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")内のレーベル[CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")へ移籍してからは初めての[フルアルバムとなった](../Page/アルバム.md "wikilink")\[2\]。
+前作『[WORLD'S END](https://ja.wikipedia.org/wiki/WORLD'S_END_\(lyrical_schoolのアルバム\) "wikilink")』より約1年3ヶ月ぶり、また2019年6月に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")内のレーベル[CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")へ移籍してからは初めての[フルアルバムとなった](../Page/アルバム.md "wikilink")\[2\]。
 
 前作以降のシングルや、スキットを含む新録の9トラックを追加した全14曲を収録。
 
@@ -81,9 +81,15 @@
 
 #### 収録曲
 
+### Enough is school EP
+
+『**Enough is school EP**』（イナフ イズ スクール イーピー）は、[lyrical schoolの配信限定](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")[EP](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。 2019年11月6日に[CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）よりリリースされた。2019年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")・レコードの日に7inchアナログ「**Enough is school / LOVE TOGETHER RAP**」が発売されることに伴い配信が決まった\[12\]。
+
+#### 収録曲
+
 ### BE KIND REWIND (Expanded Edition)
 
-『**BE KIND REWIND (Expanded Edition)**』（ビー カインド リワインド エクスパンデッド エディション）は、[lyrical schoolの配信限定](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")[アルバム](../Page/アルバム.md "wikilink")。 2020年1月1日に[CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）よりリリースされた\[12\]。
+『**BE KIND REWIND (Expanded Edition)**』（ビー カインド リワインド エクスパンデッド エディション）は、[lyrical schoolの配信限定](https://ja.wikipedia.org/wiki/lyrical_school "wikilink")[アルバム](../Page/アルバム.md "wikilink")。 2020年1月1日に[CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）よりリリースされた\[13\]。
 
 #### 収録曲
 
@@ -104,7 +110,7 @@
 <!-- end list -->
 
   -
-    ライブのみで披露されてきた楽曲で、2018年[2月14日](../Page/2月14日.md "wikilink")発売のライブアルバム『“TAKE ME OUT” ON DEC 16』に収録されているが、スタジオ音源のリリースは初となる\[13\]。
+    ライブのみで披露されてきた楽曲で、2018年[2月14日](../Page/2月14日.md "wikilink")発売のライブアルバム『“TAKE ME OUT” ON DEC 16』に収録されているが、スタジオ音源のリリースは初となる\[14\]。
 
 ## 出典
 
@@ -123,3 +129,4 @@
 11.
 12.
 13.
+14.

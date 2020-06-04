@@ -1,7 +1,7 @@
 > この記事は[PagerDuty](https://ja.wikipedia.org/wiki/PagerDuty)から翻訳されています。
 
 
-**ページャーデューティー**（英：PagerDuty Inc.) は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ市](https://ja.wikipedia.org/wiki/サンフランシスコ市 "wikilink")に本社を置く、インシデントレスポンスプラットフォームを提供する[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")企業である。2009年に、元々[アマゾンでエンジニアとして勤務していたアレックス](https://ja.wikipedia.org/wiki/アマゾン・ドットコム "wikilink")・ソロモン、アンドリュー・ミクラス、バスカー・プヴァナシャサンの3名によって設立\[1\]。サンフランシスコ本社に加え、米国[アトランタ](../Page/アトランタ.md "wikilink")市、英国（[ロンドン](../Page/ロンドン.md "wikilink")）、オーストラリア（[シドニー](../Page/シドニー.md "wikilink")）に主な拠点を置く\[2\]。
+**ページャーデューティー**（英：PagerDuty Inc.) は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンフランシスコ市](https://ja.wikipedia.org/wiki/サンフランシスコ市 "wikilink")に本社を置く、インシデント管理のソリューションとプラットフォームを提供する[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")企業である。2009年に、元々[アマゾンでエンジニアとして勤務していたアレックス](https://ja.wikipedia.org/wiki/アマゾン・ドットコム "wikilink")・ソロモン、アンドリュー・ミクラス、バスカー・プヴァナシャサンの3名によって設立\[1\]。サンフランシスコ本社に加え、米国[アトランタ](../Page/アトランタ.md "wikilink")市、英国（[ロンドン](../Page/ロンドン.md "wikilink")）、オーストラリア（[シドニー](../Page/シドニー.md "wikilink")）に主な拠点を置く\[2\]。
 
 [ペイパル](../Page/PayPal.md "wikilink")、[ネットフリックス](../Page/Netflix.md "wikilink")、[データドッグ](../Page/Datadog.md "wikilink")、[IBM](../Page/IBM.md "wikilink")といった企業を顧客に持つ\[3\]。2017年にフォーブス「クラウド100」に41位で登場\[4\]。2018年には累計資金調達額が1億7300万ドルに到達、企業評価額が10億ドルを突破\[5\]。
 

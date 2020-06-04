@@ -19,7 +19,7 @@ Snow Manが体を張ったミッションに挑戦し、皆が知りたい情報
 
 ### MC
 
-  - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")（[岩本照](../Page/岩本照.md "wikilink")・[深澤辰哉](../Page/深澤辰哉.md "wikilink")・[ラウール](https://ja.wikipedia.org/wiki/ラウール "wikilink")・[渡辺翔太](../Page/渡辺翔太.md "wikilink")・[向井康二](https://ja.wikipedia.org/wiki/向井康二 "wikilink")・[阿部亮平](../Page/阿部亮平_\(ジャニーズ\).md "wikilink")・[目黒蓮](https://ja.wikipedia.org/wiki/目黒蓮 "wikilink")・[宮舘涼太](../Page/宮舘涼太.md "wikilink")・[佐久間大介](https://ja.wikipedia.org/wiki/佐久間大介 "wikilink")）
+  - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")（[岩本照](../Page/岩本照.md "wikilink")・[深澤辰哉](../Page/深澤辰哉.md "wikilink")・[ラウール](https://ja.wikipedia.org/wiki/ラウール_\(ジャニーズ\) "wikilink")・[渡辺翔太](../Page/渡辺翔太.md "wikilink")・[向井康二](https://ja.wikipedia.org/wiki/向井康二 "wikilink")・[阿部亮平](../Page/阿部亮平_\(ジャニーズ\).md "wikilink")・[目黒蓮](https://ja.wikipedia.org/wiki/目黒蓮 "wikilink")・[宮舘涼太](../Page/宮舘涼太.md "wikilink")・[佐久間大介](https://ja.wikipedia.org/wiki/佐久間大介 "wikilink")）
 
 ### ナレーション
 
@@ -47,6 +47,9 @@ Snow Manが体を張ったミッションに挑戦し、皆が知りたい情報
 | --- | ---------- | ---------------------- | -- |
 | 1   | 2020年4月24日 | レギュラー配信決定サプライズ \[完全版\] |    |
 | 2   | 2020年5月1日  | 目黒＆向井編～地上波SP\[完全版\]    |    |
+| 3   | 2020年5月8日  | 渡辺＆宮舘編～地上波SP\[完全版\]    |    |
+| 4   | 2020年5月15日 | 佐久間編～地上波SP\[完全版\]      |    |
+| 5   | 2020年5月22日 | 深澤＆ラウール編～地上波SP\[完全版\]  |    |
 |     |            |                        |    |
 |     |            |                        |    |
 
@@ -59,8 +62,10 @@ Snow Manが体を張ったミッションに挑戦し、皆が知りたい情報
   - 構成：[桜井慎一](../Page/桜井慎一.md "wikilink")、坂田至
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 制作協力：neo、[ZION](../Page/ザイオン_\(テレビ制作会社\).md "wikilink")
+  - AD：中島栞、栗原悠希、迫上凌
+  - AP：出浦寿恵、増田楓、土屋翔太、李英叔
   - プロデューサー：辻 有一、長瀬 徹（ZION）
-  - ディレクター：吉川文産、長谷川雑平、温井里恵
+  - ディレクター：古川文彦、長谷川雄平、温井里恵
   - 総合演出：吉野真一郎（neo）
   - 製作著作：TBS
 

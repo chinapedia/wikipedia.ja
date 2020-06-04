@@ -30,30 +30,16 @@
 
 ## 番組内コーナー
 
-  - **We are SixTONES\!\!**\[12\]
-
-<!-- end list -->
-
-  -
+  - We are SixTONES\!\!\[12\]
     「我こそはSixTONESだ\!」と自負するリスナーが、自己PRを行う。
-
-<!-- end list -->
-
-  - **週間ワールドワイド報道局**\[13\]
-
-<!-- end list -->
-
-  -
+  - 週間ワールドワイド報道局\[13\]
     リスナーがジャーナリストとなって、SixTONESのメンバーが取りこぼしているニュースや情報を提供する。
-
-<!-- end list -->
-
-  - **ウィルサーチ**\[14\]
-
-<!-- end list -->
-
-  -
+  - ウィルサーチ\[14\]
     未来において投稿されるかもしれないSNSの投稿をリスナーが調べてSixTONESに対して報告を行う。
+
+## ゲスト
+
+  - 2020年[4月25日](../Page/4月25日.md "wikilink") - [YOSHIKI](../Page/YOSHIKI.md "wikilink")\[15\]
 
 ## ネット局
 
@@ -70,7 +56,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
-<td><p><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>（LF）[15]<br />
+<td><p><a href="../Page/ニッポン放送.md" title="wikilink">ニッポン放送</a>（LF）[16]<br />
 <strong>制作局</strong></p></td>
 <td><p>2020年4月4日 -</p></td>
 <td><p>土曜 23:30 - 25:00</p></td>
@@ -106,7 +92,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -127,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
-<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a>（IBS）[16]</p></td>
+<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a>（IBS）[17]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -183,7 +169,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">中京広域圏</a></p></td>
-<td><p><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ放送</a>（SF）[17]</p></td>
+<td><p><a href="../Page/東海ラジオ放送.md" title="wikilink">東海ラジオ放送</a>（SF）[18]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -192,7 +178,7 @@
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><br />
 <a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
 <td><p><a href="../Page/KBS滋賀.md" title="wikilink">KBS滋賀</a><br />
-<a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）[18]</p></td>
+<a href="../Page/京都放送.md" title="wikilink">京都放送</a>（KBS）[19]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -263,7 +249,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p><a href="../Page/RKBラジオ.md" title="wikilink">RKB毎日放送</a>（RKB）[19]</p></td>
+<td><p><a href="../Page/RKBラジオ.md" title="wikilink">RKB毎日放送</a>（RKB）[20]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -272,7 +258,7 @@
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a><br />
 <a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/NBCラジオ佐賀.md" title="wikilink">NBCラジオ佐賀</a><br />
-<a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）</p></td>
+<a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -307,7 +293,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラジオ沖縄" title="wikilink">ラジオ沖縄</a>（ROK）[20]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラジオ沖縄" title="wikilink">ラジオ沖縄</a>（ROK）[21]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -323,6 +309,10 @@
 </table>
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 <references />
 
@@ -347,9 +337,10 @@
 12.
 13.
 14.
-15. NRN系列単独局
-16.
+15.
+16. NRN系列単独局
 17.
 18.
-19. [JRN系列単独局](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
-20.
+19.
+20. [JRN系列単独局](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")
+21.

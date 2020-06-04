@@ -27,11 +27,6 @@
 
 <references />
 
-## 関連ページ
-
-  - [そっくり](https://ja.wikipedia.org/wiki/そっくり "wikilink")
-  - [ものまねタレント](../Page/ものまねタレント.md "wikilink")
-
 ## 外部リンク
 
   - [SoKKuri?公式サイト](https://sokkuri.net)

@@ -3,7 +3,7 @@
 
 **たっくーTVれいでぃお**（たっくーティーヴィーれいでぃお）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")の**たっくー**が開設した[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネル。
 
-*'たっくー **（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")系[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。本名は**澤村拓**（さわむら たく）\[2\]。お笑いコンビ「オーキードーキー」のツッコミ担当\[3\]。血液型は[A型](https://ja.wikipedia.org/wiki/A型 "wikilink")。愛称は、たっくー、チンフェ\[4\]。調理師免許保有\[5\]。 また、この項目では同者が運営する農業ブランド、**KENブランド*'についても解説する。
+*'たっくー **（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")系[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。本名は**澤村拓**（さわむら たく）\[2\]。お笑いコンビ「オーキードーキー」のツッコミ担当。相方はツルクコウダイ\[3\]。血液型は[A型](https://ja.wikipedia.org/wiki/A型 "wikilink")。愛称は、たっくー、チンフェ\[4\]。調理師免許保有\[5\]。 また、この項目では同者が運営する農業ブランド、**KENブランド*'についても解説する。
 
 ## 来歴
 
@@ -41,7 +41,7 @@
 
 ### テレビ番組
 
-  - [アサデス。](https://ja.wikipedia.org/wiki/アサデス。 "wikilink")（2018年11月8日、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）\[17\]\[18\]\[19\]
+  - [アサデス。](../Page/アサデス。.md "wikilink")（2018年11月8日、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）\[17\]\[18\]\[19\]
 
 ### インターネットテレビ
 
@@ -64,7 +64,7 @@
   -
   -
   -
-[Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1995年生](https://ja.wikipedia.org/wiki/Category:1995年生 "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink")
+[Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1995年生](https://ja.wikipedia.org/wiki/Category:1995年生 "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink")
 
 1.  たっくーTVれいでぃお『【性なる夜】今日は凄い多い日なので性病の危険性と種類を紹介します』2019年12月25日公開
 2.

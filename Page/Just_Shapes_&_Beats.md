@@ -42,7 +42,7 @@
 
   -
   -
-[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:カナダで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:カナダで開発されたコンピュータゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:amiibo対応ソフト](https://ja.wikipedia.org/wiki/Category:amiibo対応ソフト "wikilink")
+[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:Linux用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Linux用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:PlayStation_4用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_4用ソフト "wikilink") [Category:カナダで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:カナダで開発されたコンピュータゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:amiibo対応ソフト](https://ja.wikipedia.org/wiki/Category:amiibo対応ソフト "wikilink")
 
 1.
 2.

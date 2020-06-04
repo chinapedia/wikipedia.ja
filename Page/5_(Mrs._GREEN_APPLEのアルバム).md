@@ -11,7 +11,7 @@
 
 ## 収録曲
 
-  - 全曲作詞作曲:[大森元貴](https://ja.wikipedia.org/wiki/大森元貴 "wikilink") 編曲:[Mrs. GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE "wikilink")
+  - 全曲　作詞・作曲:[大森元貴](https://ja.wikipedia.org/wiki/大森元貴 "wikilink") 編曲:[Mrs. GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE "wikilink")
 
 <!-- end list -->
 
@@ -69,6 +69,7 @@
 18. **PRESENT (Japanese ver.)**
       -
         [2020年](../Page/2020年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")にリリースされた配信限定シングル「PRESENT (English ver.)」の日本語版。
+        [2020年](../Page/2020年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")午前0時より[Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")、[LINE MUSIC](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")より先行配信され、同日MVも公開された。
 19. **Theater**
       -
         大森がベストアルバムのために書き下ろした新曲。

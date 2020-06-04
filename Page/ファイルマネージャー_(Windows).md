@@ -3,7 +3,7 @@
 
 **ファイルマネージャー**は1990年から1999年まで[Microsoft Windows内のアプリケーションとして存在していた](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ファイル管理プログラムである](../Page/ファイルマネージャ.md "wikilink")。また2018年4月6日から、[Windows 10を含む現代のWindowsにおいても任意でダウンロードすることで](https://ja.wikipedia.org/wiki/Windows_10 "wikilink")、動作させることができる。\[1\]\[2\]
 
-[Windows 3.1などの以前のWindowsにおいて](https://ja.wikipedia.org/wiki/Windows_3.1 "wikilink")、単一の画面で[ファイル](https://ja.wikipedia.org/wiki/ファイル "wikilink")の管理 (コピー、移動、開く(実行), 削除、検索等の操作)が行え、 [MS-DOS](../Page/MS-DOS.md "wikilink")コマンドによる[コマンドラインインターフェースおよびMS](../Page/キャラクタユーザインタフェース.md "wikilink")-DOSウィンドウ(MS-DOS Executive)でのファイルの管理を置き換えた。 [Windows 95や](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")[Windows NTおよびそれ以降のバージョンにおいては](https://ja.wikipedia.org/wiki/Windows_NT_4.0 "wikilink")、ファイル管理に[Windows エクスプローラーが導入され](../Page/Windows_Explorer.md "wikilink")、"マイ コンピュータ"アイコンをダブルクリックすることで表示されるシングルペイン構成の画面と比較して、ファイルマネージャーは(通常)2ペイン構成であり、画面構成が異なる。
+[Windows 3.1などの以前のWindowsにおいて](https://ja.wikipedia.org/wiki/Windows_3.1 "wikilink")、単一の画面で[ファイルの管理](../Page/ファイル_\(コンピュータ\).md "wikilink") (コピー、移動、開く(実行), 削除、検索等の操作)が行え、 [MS-DOS](../Page/MS-DOS.md "wikilink")コマンドによる[コマンドラインインターフェースおよびMS](../Page/キャラクタユーザインタフェース.md "wikilink")-DOSウィンドウ(MS-DOS Executive)でのファイルの管理を置き換えた。 [Windows 95や](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")[Windows NTおよびそれ以降のバージョンにおいては](https://ja.wikipedia.org/wiki/Windows_NT_4.0 "wikilink")、ファイル管理に[Windows エクスプローラーが導入され](../Page/Windows_Explorer.md "wikilink")、"マイ コンピュータ"アイコンをダブルクリックすることで表示されるシングルペイン構成の画面と比較して、ファイルマネージャーは(通常)2ペイン構成であり、画面構成が異なる。
 
 ## 概要
 

@@ -93,6 +93,8 @@ Dear L manaからの楽曲は後述
 | 2019年9月23日 | ニナペレフェス！！〜アジアワンマンツアーSpecial〜 3部 | VERSUS東海ホール      | 虹色幻想曲 〜プリズム・ファンタジア〜」、夢幻のシナリオ、道玄坂上り隊、CANDY GO\!GO\!、おやすみセカイ、はっぴメシ、Lore☆Eternal、愛知flavor、名古屋チーム＆SNOWHITE、Nina Pelea                                                                                                                                                         |    |
 |            |                                 |                  |                                                                                                                                                                                                                                                                           |    |
 
+2020年5月3日に「Nina Pelea Coco海里生誕祭」が開催予定であったが新型コロナウイルス流行による緊急事態宣言の延長に伴い延期された。
+
 ### 単独ライブ
 
 <div class="NavFrame" style="clear: both; border:0;">

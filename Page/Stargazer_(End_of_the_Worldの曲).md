@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - **日本を除く**諸外国の[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[Amazon Musicなどのデジタルミュージックストアで購入できるほか](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")や[Apple Musicなどの定額制音楽ストリーミングサービスでも聞くことが出来る](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")。また、[SoundCloud](https://ja.wikipedia.org/wiki/SoundCloud "wikilink")ではリミックスを含むすべてのバージョンを聞くことができる。
+  - **日本を除く**諸外国の[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[Amazon Musicなどのデジタルミュージックストアで購入できるほか](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")、[Apple Musicに代表される定額制音楽ストリーミングサービスでも聞くことが出来る](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")。また、[SoundCloud](https://ja.wikipedia.org/wiki/SoundCloud "wikilink")でも**Stargazer (Kove Dance Remix)以外**を聞くことができる。
   - 日本のSpotifyでは、定額制音楽ストリーミングサービスで唯一聞くことができる。
 
 <!-- end list -->
@@ -38,7 +38,7 @@
 
 1.  Stargazer (Clean Bandit Remix)
 
-2018年4月6日発売。ケンブリッジ大学で出会ったメンバーで構成されたエレクトロニックグループ、[Clean Banditによるリミックス](https://ja.wikipedia.org/wiki/クリーン・バンディット "wikilink")。日本で行われたClean Banditのライブの後に食事をしたり\[4\]\[5\]、彼らの楽曲『Rockabye』をリミックスする\[6\]、『Baby』のギターフレーズでNakajinが参加する\[7\]など以前から親交があった。
+2018年4月6日発売。ケンブリッジ大学で出会ったメンバーで構成されたエレクトロニックグループ、[Clean Banditによるリミックス](https://ja.wikipedia.org/wiki/クリーン・バンディット "wikilink")。日本で行われたClean Banditのライブの後に食事をしたり\[4\]\[5\]、彼らの楽曲『Rockabye』をリミックスする\[6\]、『Baby』のギターフレーズで[Nakajin](https://ja.wikipedia.org/wiki/Nakajin "wikilink")が参加する\[7\]など以前から親交があった。
 
 ## 脚注
 

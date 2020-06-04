@@ -1,7 +1,7 @@
 > この記事は[LightPDF](https://ja.wikipedia.org/wiki/LightPDF)から翻訳されています。
 
 
-**LightPDF**は、ウェブベースのPDFソフトウェアである。PDFドキュメントの編集、変換などを行う機能を提供している。 PDFとパワーポイント/Excel/Word/JPG/PNGの相互変換、PDFファイルの編集・圧縮 ・結合などを行えるオンラインアプリケーションである。OCRとSpeech To Text（音声テキスト変換）機能も搭載されている。Windows・Mac OS・Android・iOSで利用可能。
+**LightPDF**は、ウェブベースのPDFソフトウェアである。PDFドキュメントの編集、変換などを行う機能を提供している。\[1\] PDFとパワーポイント/Excel/Word/JPG/PNGの相互変換、PDFファイルの編集・圧縮 ・結合などを行えるオンラインアプリケーションである。\[2\]OCRとSpeech To Text（音声テキスト変換）機能も搭載されている。Windows・Mac OS・Android・iOSで利用可能。
 
 ## 機能
 
@@ -13,6 +13,10 @@
   - PDFのパスワード設定と解除
   - OCR
   - Speech To Text
+
+## 脚注
+
+### 出典
 
 ## 関連項目
 
@@ -26,3 +30,6 @@
   - [PDFの編集が無料でできるオンラインソフト「LightPDF」](https://pjoy.net/?p=22559)
 
 [Category:ソフトウェア](https://ja.wikipedia.org/wiki/Category:ソフトウェア "wikilink") [Category:PDFソフト](https://ja.wikipedia.org/wiki/Category:PDFソフト "wikilink") [Category:文書作成ソフト](https://ja.wikipedia.org/wiki/Category:文書作成ソフト "wikilink") [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:ウェブアプリケーション](https://ja.wikipedia.org/wiki/Category:ウェブアプリケーション "wikilink")
+
+1.  [LightPDFの評価・使い方 - フリーソフト100](https://freesoft-100.com/review/lightpdf.html) 2020年4月30日閲覧。
+2.  [PDF編集・無料OCRソフトのおすすめ「LightPDF」の使い方を解説](https://aprico-media.com/posts/2460) 2020年4月30日閲覧。

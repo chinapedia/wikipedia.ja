@@ -9,7 +9,9 @@
 
 初回盤A/B、通常盤の3形態でリリース。初回盤A付属のDVDにはリードトラック「To Yours」のMVとジャケット・ブックレット・MV撮影に密着したメイキング映像、グループ初の海外パフォーマンスを行った「ASIA FASHION AWARD 2019 in TAIPEI」のオフショット映像を収録。初回盤B付属のDVDにはオリジナルバラエティー番組「KIS-MY-TV～キスマイリアルすごろく～」を収録。通常盤にはシークレットトラック「種」\[4\]が収録されている他、特典CDにはユニット曲4曲が収録されている。3形態を同時購入すると、シリアルコード入りビジュアルカードが先着でプレゼントされる\[5\]\[6\]。
 
-また、今作の各形態に封入されるチラシ及び3形態同時購入特典のビジュアルカードに記載されているシリアルコードで、今作を引っ提げて行われる5大ドームツアー「Kis-My-Ft2 LIVE TOUR 2020 To-y2」の各会場で行われる公開リハーサルに応募可能\[7\]。当選人数は各会場777人で、応募者全員には壁紙（待ち受け）もプレゼントされる\[8\]。さらに3月28日からは、各形態のCDに封入されているシリアルコードで「To Yours」のメンバー別ソロバージョンが視聴可能となった\[9\]。
+今作の各形態に封入されるチラシ及び3形態同時購入特典のビジュアルカードに記載されているシリアルコードで、今作を引っ提げて行われる5大ドームツアー「Kis-My-Ft2 LIVE TOUR 2020 To-y2」の各会場で行われる公開リハーサルに応募可能となる予定だった\[7\]が、[新型コロナウイルスによる肺炎の感染拡大を受け同ツアーの全公演が中止となったため](../Page/2019新型コロナウイルス.md "wikilink")、公開リハーサルも中止となった\[8\]。
+
+3月28日からは、各形態のCDに封入されているシリアルコードで「To Yours」のメンバー別ソロバージョンが視聴可能となった\[9\]。
 
 ### 販売形態・封入特典
 
@@ -102,6 +104,7 @@
         作詞：浜端ヨウヘイ、作曲：桑山哲也、編曲：山下洋介
         通常盤のみ[シークレットトラックとして収録](../Page/隠しトラック.md "wikilink")。
         [サンドアート](../Page/サンドアート.md "wikilink")ビデオが作成され、2020年4月1日にYouTubeにてショートバージョン、4月9日にジャニーズネット公式サイトにてフルバージョンが公開された。
+        2020年3月30日にジャニーズ事務所公式YouTubeチャンネルにて配信された「Johnny's World Happy LIVE with YOU」にて、「Make you mine」「[Mr.FRESH](https://ja.wikipedia.org/wiki/Edge_of_Days "wikilink")」「COUNT 7EVEN」とともに披露された\[12\]。
 
 ### 特典CD
 
@@ -165,8 +168,9 @@
 4.  [「種」歌詞 | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/tane_lyrics.php) - avex trax (2020年3月27日) 2020年3月27日閲覧。
 5.  [Kis-My-Ft2｜CD｜ニューアルバム『To-y2』3月25日発売！3形態同時購入特典シリアルコード入りビジュアルカード付き！初回盤A・B オンライン期間限定10%オフ！](https://tower.jp/article/feature_item/2020/02/03/0701) - TOWER RECORDS ONLINE (2020年2月3日) 2020年2月11日閲覧。
 6.  [DISC | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/discography/detail.php?id=1017429) - avex trax (2020年2月1日) 2020年2月11日閲覧。
-7.  ただし、[新型コロナウイルスの感染拡大を防止するため福岡PayPayドーム公演を除く全公演が中止となったため](../Page/2019新型コロナウイルス.md "wikilink")、公演中止となった各会場での公開リハーサルは中止となった。
-8.  [INFO | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/news/detail.php?id=1080957) - avex trax (2020年2月7日) 2020年2月11日閲覧。
+7.  [INFO | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/news/detail.php?id=1080957) - avex trax (2020年2月7日) 2020年2月11日閲覧。
+8.  [INFO | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/news/detail.php?id=1083510) - avex trax (2020年5月15日) 2020年5月17日閲覧。
 9.  [INFO | Kis-My-Ft2 Official Website](https://avex.jp/kismyft2/news/detail.php?id=1082468) - avex trax (2020年3月25日) 2020年3月25日閲覧。
 10.
 11.
+12. [キスマイ「攻め攻めのセトリ」でファンへの思いをアピール！ 新曲祭りが最高だと話題に](https://entamega.com/36140) - エンタMEGA (2020年4月1日) 2020年5月17日閲覧。

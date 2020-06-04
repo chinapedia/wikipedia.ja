@@ -1,7 +1,7 @@
 > この記事は[COVID-19ワクチン](https://ja.wikipedia.org/wiki/COVID-19ワクチン)から翻訳されています。
 
 
-**COVID-19ワクチン**は、[新型コロナウイルス感染症（COVID-19）に対応するための](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")[ワクチン](../Page/ワクチン.md "wikilink")である。[2020年](../Page/2020年.md "wikilink")4月の段階で製品化はされていないが、[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")（SARS-CoV-2）の[感染](../Page/感染.md "wikilink")拡大防止のため、一部の国の政府機関や製薬企業の手により開発が始まっている。
+**COVID-19ワクチン**は、[新型コロナウイルス感染症（COVID-19）に対応するための](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[ワクチン](../Page/ワクチン.md "wikilink")である。[2020年](../Page/2020年.md "wikilink")4月の段階で製品化はされていないが、[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")（SARS-CoV-2）の[感染](../Page/感染.md "wikilink")拡大防止のため、一部の国の政府機関や製薬企業の手により開発が始まっている。
 
 ## 概要
 
@@ -11,19 +11,20 @@
 
 ### アメリカ
 
-  - 2020年3月16日 - [アメリカ国立衛生研究所](../Page/アメリカ国立衛生研究所.md "wikilink")は、[アメリカ国立アレルギー・感染症研究所](https://ja.wikipedia.org/wiki/アメリカ国立アレルギー・感染症研究所 "wikilink")とバイオ医薬企業のモデルナが開発していたmRNAワクチンが[治験](../Page/治験.md "wikilink")段階に至ったことを発表。治験は、[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](../Page/シアトル.md "wikilink")市内で始まった\[3\]。
+  - 2020年3月16日 - [アメリカ国立衛生研究所](../Page/アメリカ国立衛生研究所.md "wikilink")は、[アメリカ国立アレルギー・感染症研究所](https://ja.wikipedia.org/wiki/アメリカ国立アレルギー・感染症研究所 "wikilink")とバイオ医薬企業のモデルナが開発していたmRNAワクチンが[治験](../Page/治験.md "wikilink")段階に至ったことを発表。治験は、[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](../Page/シアトル.md "wikilink")市内で始まり\[3\]、同年5月18日までに複数の治験参加者から抗体を確認することができた\[4\]。
 
 ### 日本
 
-  - 2020年3月12日 - [田辺三菱製薬](https://ja.wikipedia.org/wiki/田辺三菱製薬 "wikilink")は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の子会社が製造する植物由来の粒子を利用し、ワクチン開発に着手すると発表した\[4\]。
-  - 2020年3月15日 - [アンジェス](../Page/アンジェス.md "wikilink")と[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")、[タカラバイオ](../Page/タカラバイオ.md "wikilink")は共同でDNAワクチンの開発に乗り出すと発表した\[5\]。
+  - 2020年3月12日 - [田辺三菱製薬](https://ja.wikipedia.org/wiki/田辺三菱製薬 "wikilink")は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の子会社が製造する植物由来の粒子を利用し、ワクチン開発に着手すると発表した\[5\]。
+  - 2020年3月15日 - [アンジェス](../Page/アンジェス.md "wikilink")と[大阪大学](https://ja.wikipedia.org/wiki/大阪大学 "wikilink")、[タカラバイオ](../Page/タカラバイオ.md "wikilink")は共同でDNAワクチンの開発に乗り出すと発表した\[6\]。
+  - 2020年5月7日 - [塩野義製薬](../Page/塩野義製薬.md "wikilink")は、子会社のUMNファーマが[国立感染症研究所](../Page/国立感染症研究所.md "wikilink")と共同で、年内の臨床試験開始を目指していることを公表した。市場への投入は2021年秋になる見込み\[7\]。
 
 ## 脚注
 
 ## 関連項目
 
   - [2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink") (SARS-CoV-2)
-      - [2019新型コロナウイルスによる急性呼吸器疾患](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink") (COVID-19)
+      - [新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink") (COVID-19)
       - [新型コロナウイルス感染症の世界的流行](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")
 
 ## 外部リンク
@@ -37,3 +38,5 @@
 3.
 4.
 5.
+6.
+7.

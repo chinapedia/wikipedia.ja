@@ -19,4 +19,4 @@
 
   - [SWEET ROCK TOWN](https://www.instagram.com/sweetrocktown/)（作品公開アカウント）
 
-[Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:日本のキャラクターデザイナー](https://ja.wikipedia.org/wiki/Category:日本のキャラクターデザイナー "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:日本のキャラクターデザイナー](https://ja.wikipedia.org/wiki/Category:日本のキャラクターデザイナー "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

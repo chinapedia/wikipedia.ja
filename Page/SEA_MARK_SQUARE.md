@@ -5,11 +5,11 @@
 
 ## 概要
 
-取扱量の減少と売上の低迷から「日立市公設[地方卸売市場](https://ja.wikipedia.org/wiki/地方卸売市場 "wikilink")」が[2015年](../Page/2015年.md "wikilink")（平成）に廃止となり、その跡地にオープン\[1\]。スーパーマーケットやホームセンター、10年以上市内に存在しなかった映画館などが開業する予定で、屋上には足場やイベント広場の他、「こどもの遊び場」「くつろぎの場」「つなぐ広場」という3つの広場が整備される他、隣接する「東滑川ヒカリモ公園」との歩道橋を整備する予定\[2\]。
+取扱量の減少と売上の低迷から「日立市公設[地方卸売市場](https://ja.wikipedia.org/wiki/地方卸売市場 "wikilink")」が[2015年](../Page/2015年.md "wikilink")（平成）に廃止となり、その跡地にオープン\[1\]。スーパーマーケットやホームセンター、10年以上市内に存在しなかった映画館などが開業する予定で、屋上には足場やイベント広場の他、「こどもの遊び場」「くつろぎの場」「つなぐ広場」という3つの広場が整備される。また、隣接する「東滑川ヒカリモ公園」との歩道橋を整備した。\[2\]。
 
 ## テナント
 
-スーパーマーケットの「[ヨークベニマル](../Page/ヨークベニマル.md "wikilink")」を核店舗に、[水戸市](../Page/水戸市.md "wikilink")にある[百貨店](../Page/百貨店.md "wikilink")「[京成百貨店](../Page/京成百貨店.md "wikilink")」のサテライト店「KEiSEi & sole」\[3\]、「[プレビ](https://ja.wikipedia.org/wiki/プレビ "wikilink")」が運営する映画館の「シネマサンライズ」、中成沢町から移転した「[ユニクロ](../Page/ユニクロ.md "wikilink")」\[4\]\[5\]や、カフェの「[スターバックス](../Page/スターバックス.md "wikilink")」などが出店し、夏にはホームセンター「[スーパービバホーム](../Page/LIXILビバ.md "wikilink")」が開業する予定\[6\]。
+スーパーマーケットの「[ヨークベニマル](../Page/ヨークベニマル.md "wikilink")」を核店舗に、[水戸市](../Page/水戸市.md "wikilink")にある[百貨店](../Page/百貨店.md "wikilink")「[京成百貨店](../Page/京成百貨店.md "wikilink")」のサテライト店「KEiSEi & sole」\[3\]、「[プレビ](https://ja.wikipedia.org/wiki/プレビ "wikilink")」が運営し、市内では14年ぶりとなる映画館\[4\]の「[シネマサンライズ](https://ja.wikipedia.org/wiki/シネマサンライズ "wikilink")」、中成沢町から移転した「[ユニクロ](../Page/ユニクロ.md "wikilink")」\[5\]\[6\]や、カフェの「[スターバックス](../Page/スターバックス.md "wikilink")」などが出店し、夏にはホームセンター「[スーパービバホーム](../Page/LIXILビバ.md "wikilink")」が開業する予定\[7\]。
 
 ## 沿革
 
@@ -35,6 +35,7 @@
 1.
 2.
 3.
-4.  [ユニクロ 日立成沢店（2020/3/18 閉店） - ユニクロ](https://fr.mapion.co.jp/map/uc/PoiInfo?grp=uniqlo&vo=mbml&poi_code=10100483)
-5.  [ユニクロ シーマークスクエア日立店（3月19日移転OPEN） - ユニクロ](https://fr.mapion.co.jp/map/uc/PoiInfo?grp=uniqlo&vo=mbml&poi_code=10101711)
-6.
+4.
+5.  [ユニクロ 日立成沢店（2020/3/18 閉店） - ユニクロ](https://fr.mapion.co.jp/map/uc/PoiInfo?grp=uniqlo&vo=mbml&poi_code=10100483)
+6.  [ユニクロ シーマークスクエア日立店（3月19日移転OPEN） - ユニクロ](https://fr.mapion.co.jp/map/uc/PoiInfo?grp=uniqlo&vo=mbml&poi_code=10101711)
+7.

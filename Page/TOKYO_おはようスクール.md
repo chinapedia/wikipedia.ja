@@ -7,6 +7,8 @@
 
 [新型コロナウイルスの感染拡大により](../Page/2019新型コロナウイルス.md "wikilink")、臨時休校中の小学生に番組を見て一日をスタートさせ、生活のリズムを整え、自分に合った学習を進められるようになってもらうことを狙いとし、子どもたちがテレビの前で楽しみながら学習できる様々なコーナーを制作するとしている\[1\]。
 
+当初は2020年5月6日までの放送を予定していたが\[2\]、[緊急事態措置の実施期間が延長されたことに伴い](../Page/非常事態宣言.md "wikilink")、同月29日までの放送に変更となった\[3\]。
+
 ## 主な内容
 
 ### 朝の放送（8:30 - 9:00）
@@ -37,4 +39,6 @@
 
 [Category:TOKYO_MXの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_MXの番組の歴史 "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:学校放送](https://ja.wikipedia.org/wiki/Category:学校放送 "wikilink") [Category:ローカルテレビ局の教育番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の教育番組 "wikilink") [Category:子供向けテレビ番組](https://ja.wikipedia.org/wiki/Category:子供向けテレビ番組 "wikilink")
 
-1.  [休校中の小学生向けに生活・学習を支援する番組 『TOKYO おはようスクール』を4月15日(水)から放送\!](https://s.mxtv.jp/company/press/pdf/press2020_50001.pdf)
+1.
+2.
+3.

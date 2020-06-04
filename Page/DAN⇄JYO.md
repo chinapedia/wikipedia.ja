@@ -102,25 +102,18 @@
 
 **未収録楽曲**
 
-・出囃子overture
-
-・dance number
-
-・このFeeling
-
-・Dance Dance Robolution
-
-・OPENING RAP NUMBER
-
-・Boys\&Girls(remix ver)
+  - 出囃子overture
+  - dance number
+  - このFeeling
+  - Dance Dance Robolution
+  - OPENING RAP NUMBER
+  - Boys\&Girls(remix ver)
 
 **カバー楽曲（～2019年12月8日まで）**
 
-・[lol](https://ja.wikipedia.org/wiki/Lol_\(音楽ユニット\) "wikilink")『[fire\!](https://ja.wikipedia.org/wiki/fire! "wikilink")』
-
-・[DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")×[岡村靖幸](../Page/岡村靖幸.md "wikilink")『[ステップアップLOVE](https://ja.wikipedia.org/wiki/ステップアップLOVE "wikilink")』
-
-・[星野源](../Page/星野源.md "wikilink")『[アイデア](https://ja.wikipedia.org/wiki/アイデア_\(曲\) "wikilink")』
+  - [lol](https://ja.wikipedia.org/wiki/Lol_\(音楽ユニット\) "wikilink")『[fire\!](https://ja.wikipedia.org/wiki/fire! "wikilink")』
+  - [DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")×[岡村靖幸](../Page/岡村靖幸.md "wikilink")『[ステップアップLOVE](https://ja.wikipedia.org/wiki/ステップアップLOVE "wikilink")』
+  - [星野源](../Page/星野源.md "wikilink")『[アイデア](https://ja.wikipedia.org/wiki/アイデア_\(曲\) "wikilink")』
 
 ## ライブ&イベント
 
@@ -144,22 +137,31 @@
 <td><p>8月29日</p></td>
 <td><p>夢と涙のD7~ROAD TO EBiDAN THE LIVE 2018~</p></td>
 <td><p><a href="../Page/東京国際フォーラム.md" title="wikilink">東京国際フォーラム</a>・ホールD7</p></td>
-<td><p><strong>・結成</strong> ・オープニングアクト</p>
-<p><strong>・オリジナル曲「dance number」カバー曲「fire!」初披露。</strong></p></td>
+<td><ul>
+<li><strong>結成</strong></li>
+<li>オープニングアクト</li>
+<li><strong>オリジナル曲「dance number」カバー曲「fire!」初披露。</strong></li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>10月28日</p></td>
 <td><p>BATTLE BOYS CD『ebidence』発売記念リリースイベント</p></td>
 <td><p><a href="../Page/デックス東京ビーチ.md" title="wikilink">デックス東京ビーチ</a></p></td>
-<td><p><strong>・桐山陽向加入後初ライブ</strong> ・オープニングアクト</p>
-<p>・<strong>カバー曲「ステップアップLOVE」初披露</strong></p>
-<p>・初の特典会実施</p></td>
+<td><ul>
+<li><strong>桐山陽向加入後初ライブ</strong></li>
+<li>オープニングアクト</li>
+<li><strong>カバー曲「ステップアップLOVE」初披露</strong></li>
+<li>初の特典会実施</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>11月23日</p></td>
 <td><p><a href="../Page/原因は自分にある。.md" title="wikilink">BATTLE STREET</a> CD『ebidence』発売記念リリースイベント</p></td>
 <td><p>デックス東京ビーチ</p></td>
-<td><p>・オープニングアクト <strong>・カバー曲「アイデア」初披露</strong></p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li><strong>カバー曲「アイデア」初披露</strong></li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>11月24日</p></td>
@@ -183,8 +185,11 @@
 <td><p>12月23日</p></td>
 <td><p>BATTLE STREET CD『ebidence』発売記念リリースイベント</p></td>
 <td><p><a href="../Page/アーバンドック_ららぽーと豊洲.md" title="wikilink">ららぽーと豊洲</a></p></td>
-<td><p>・オープニングアクト <strong>・ジェフリー、江口シオン卒業発表</strong></p>
-<p><strong>・石田亮太加入発表</strong></p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li><strong>ジェフリー、江口シオン卒業発表</strong></li>
+<li><strong>石田亮太加入発表</strong></li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>12月24日</p></td>
@@ -202,14 +207,20 @@
 <td><p>1月14日</p></td>
 <td><p>BATTLE STREET CD『ebidence』発売記念リリースイベント</p></td>
 <td><p>ららぽーと豊洲</p></td>
-<td><p><strong>・新体制による初ライブ</strong> ・オープニングアクト</p>
-<p>・矢嶋由菜欠席</p></td>
+<td><ul>
+<li><strong>新体制による初ライブ</strong></li>
+<li>オープニングアクト</li>
+<li>矢嶋由菜欠席</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>1月14日</p></td>
 <td><p>初S</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Zepp_DiverCity" title="wikilink">Zepp Diver City</a></p></td>
-<td><p>・オープニングアクト ・矢嶋由菜欠席</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>矢嶋由菜欠席</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>1月20日</p></td>
@@ -221,13 +232,19 @@
 <td><p>1月27日</p></td>
 <td><p>BATTLE STREET CD『ebidence』発売記念リリースイベント</p></td>
 <td><p><a href="../Page/ららぽーと柏の葉.md" title="wikilink">ららぽーと柏の葉</a></p></td>
-<td><p>・オープニングアクト ・飯塚瑠乃欠席</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>飯塚瑠乃欠席</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>2月3日</p></td>
 <td><p>BATTLE STREET CD『ebidence』発売記念リリースイベント</p></td>
 <td><p>ららぽーと豊洲</p></td>
-<td><p>・オープニングアクト ・石田亮太欠席</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>石田亮太欠席</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>2月10日</p></td>
@@ -239,7 +256,10 @@
 <td><p>2月16日</p></td>
 <td><p>BATTLE STREET CD『ebidence』発売記念リリースイベント</p></td>
 <td><p>ららぽーと豊洲</p></td>
-<td><p>・オープニングアクト ・3月に初の単独イベントの開催が発表される</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>3月に初の単独イベントの開催が発表される</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>2月24日</p></td>
@@ -257,8 +277,10 @@
 <td><p>3月16日</p></td>
 <td><p>DAN⇄JYO 単独イベント 『DAN⇄JYOと一緒にENJOY PARTY』</p></td>
 <td><p>としまえん</p></td>
-<td><p><strong>・グループ初単独イベント</strong></p>
-<p><strong>・オリジナル曲「Boys&amp;Girls」「kibo⇄zetsubo」初披露</strong></p></td>
+<td><ul>
+<li><strong>グループ初単独イベント</strong></li>
+<li><strong>オリジナル曲「Boys&amp;Girls」「kibo⇄zetsubo」初披露</strong></li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>3月17日</p></td>
@@ -270,8 +292,10 @@
 <td><p>4月7日</p></td>
 <td><p>ときめき♡宣伝部 ～8thSEASON～ avex 1stシングル リリースイベント</p></td>
 <td><p>ららぽーと柏の葉</p></td>
-<td><p>・オープニングアクト</p>
-<p>・桐山陽向欠席</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>桐山陽向欠席</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>4月20日</p></td>
@@ -295,21 +319,28 @@
 <td><p>6月2日</p></td>
 <td><p>GIG TAKAHASHI tour 2019</p></td>
 <td><p>新宿BLAZE</p></td>
-<td><p>・オープニングアクト ・桜木心菜欠席</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>桜木心菜欠席</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>6月9日</p></td>
 <td><p>DAN⇄JYO 会場限定CD『独DANJYO』リリースイベント</p></td>
 <td><p>としまえん</p></td>
-<td><p><strong>・初のリリースイベント</strong></p>
-<p><strong>・「独DANJYO」初披露</strong></p></td>
+<td><ul>
+<li><strong>初のリリースイベント</strong></li>
+<li><strong>「独DANJYO」初披露</strong></li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>6月23日</p></td>
 <td><p><a href="../Page/佐々木彩夏.md" title="wikilink">佐々木彩夏</a>『AYAKA NATION 2019』 in Yokohama Arena</p></td>
 <td><p>横浜アリーナ</p></td>
-<td><p>・オープニングアクト</p>
-<p>・JYOダンサー4人、本編バックダンサーとして出演</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>JYOダンサー4人、本編バックダンサーとして出演</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>6月30日</p></td>
@@ -327,7 +358,10 @@
 <td><p>7月7日</p></td>
 <td><p>HMV presents『BATTLE BOYS LIVE 2019 ~DREAM COME TRUE~』</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/豊洲PIT" title="wikilink">豊洲PIT</a></p></td>
-<td><p>・オープニングアクト ・初のワンマンライブの開催、DANメンバーのBATTLE BOYS卒業が発表される</p></td>
+<td><ul>
+<li>オープニングアクト</li>
+<li>初のワンマンライブの開催、DANメンバーのBATTLE BOYS卒業が発表される</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>7月21日</p></td>
@@ -379,8 +413,10 @@
 <td><p>9月8日</p></td>
 <td><p>男・組長祭</p></td>
 <td><p>さくらホール</p></td>
-<td><p>・DANメンバー出演</p>
-<p><strong>・「Sing Along」初披露</strong></p></td>
+<td><ul>
+<li>DANメンバー出演</li>
+<li><strong>「Sing Along」初披露</strong></li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>9月16日</p></td>
@@ -392,8 +428,10 @@
 <td><p>9月22日</p></td>
 <td><p>女・組長祭</p></td>
 <td><p>さくらホール</p></td>
-<td><p>・JYOメンバー出演</p>
-<p><strong>・「Hey Girl」初披露</strong></p></td>
+<td><ul>
+<li>JYOメンバー出演</li>
+<li><strong>「Hey Girl」初披露</strong></li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>10月14日</p></td>
@@ -447,9 +485,11 @@
 <td><p>12月8日</p></td>
 <td><p>DAN⇄JYO1stワンマンライブ『DAN⇄JYOの独壇場！』</p></td>
 <td><p>原宿クエストホール</p></td>
-<td><p><strong>・グループ初のワンマンライブ</strong></p>
-<p><strong>・「OPENING RAP NUMBER」「Dance Dance Robolution」初披露</strong></p>
-<p><strong>・グループの目標として</strong>『<strong>Road to Billboard NO.1』が掲げられる。</strong></p></td>
+<td><ul>
+<li><strong>グループ初のワンマンライブ</strong></li>
+<li><strong>「OPENING RAP NUMBER」「Dance Dance Robolution」初披露</strong></li>
+<li><strong>グループの目標として</strong>『<strong>Road to Billboard NO.1』が掲げられる。</strong></li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>12月22日</p></td>
@@ -492,16 +532,20 @@
 <td><p>1月26日</p></td>
 <td><p>DAN⇄JYO主催イベント『フリースタイルダンジョ』vol.1 vol.2</p></td>
 <td><p>南青山 Feture SEVEN</p></td>
-<td><p>・グループ初主催イベント</p>
-<p>・1部：BALA a.k.a SBKN、2部：<a href="https://ja.wikipedia.org/wiki/EINSHTEIN_&amp;_言×THE_ANSWER" title="wikilink">言×THE ANSWERをゲストに招いたラップイベント</a></p>
-<p>・佐藤ひなた欠席</p></td>
+<td><ul>
+<li>グループ初主催イベント</li>
+<li>1部：BALA a.k.a SBKN、2部：<a href="https://ja.wikipedia.org/wiki/EINSHTEIN_&amp;_言×THE_ANSWER" title="wikilink">言×THE ANSWERをゲストに招いたラップイベント</a></li>
+<li>佐藤ひなた欠席</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>2月1日</p></td>
 <td><p>第8 回台北國際動漫節（ICHIBAN JAPAN STAGE）</p></td>
 <td><p>台北世貿南港展覽館2館</p></td>
-<td><p><strong>・グループ初の海外公演</strong></p>
-<p>・佐藤ひなた欠席</p></td>
+<td><ul>
+<li><strong>グループ初の海外公演</strong></li>
+<li>佐藤ひなた欠席</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>2月2日</p></td>
@@ -513,8 +557,10 @@
 <td><p>2月2日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/いぎなり東北産" title="wikilink">いぎなり東北産</a>＆DAN⇆JYO 2 マンライブ『SAMURAI SPECIAL 2MAN LIVE in TAIPEI』</p></td>
 <td><p>CORNER HOUSE</p></td>
-<td><p>・いぎなり東北産との2マンライブ</p>
-<p>・佐藤ひなた欠席</p></td>
+<td><ul>
+<li>いぎなり東北産との2マンライブ</li>
+<li>佐藤ひなた欠席</li>
+</ul></td>
 </tr>
 <tr class="odd">
 <td><p>2月9日</p></td>

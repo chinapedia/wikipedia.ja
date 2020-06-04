@@ -3,6 +3,13 @@
 
 **Xperia 1 II**（エクスペリア・ワン・マークツー）は[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")によって開発された、[第5世代移動通信システム](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink") (5G) 対応の[Android](../Page/Android.md "wikilink")搭載端末である。[Xperia 10 II](../Page/Xperia_10_II.md "wikilink")、[Xperia PROとともに](../Page/Xperia_PRO.md "wikilink")[2020年](../Page/2020年.md "wikilink")（令和2年）2月24日に公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルにて発表された。当初の予定ではスペイン・バルセロナの携帯電話展示会「[MWC2020](https://ja.wikipedia.org/wiki/モバイル・ワールド・コングレス "wikilink")」にてソニーモバイルコミュニケーションズより発表される予定であったが、[コロナウイルスの感染防止のため中止された](../Page/2019新型コロナウイルス.md "wikilink")。
 
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")連合（以下・[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）と[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")から発売が予定されている。キャリアごとの個別の情報は
+
+  - ドコモ - [SO-51A](../Page/SO-51A.md "wikilink")
+  - au - [SOG01](https://ja.wikipedia.org/wiki/SOG01 "wikilink")
+
+を参照されたい。
+
 ## 概要
 
 本機種はXperiaシリーズの2020年度の機種となる。2020年の新商品の1つとして[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")から発表された。

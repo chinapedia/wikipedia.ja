@@ -1,7 +1,7 @@
 > この記事は[BUZZ STUDIO](https://ja.wikipedia.org/wiki/BUZZ_STUDIO)から翻訳されています。
 
 
-『**BUZZ STUDIO**』（バズスタジオ）は、[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")（3日深夜）から[FMヨコハマにて毎週](../Page/横浜エフエム放送.md "wikilink")[土曜日](../Page/土曜日.md "wikilink")の3:30 - 5:00（[金曜日](../Page/金曜日.md "wikilink")[深夜](../Page/深夜放送.md "wikilink")）に放送されているラジオ番組。
+『**BUZZ STUDIO**』（バズスタジオ）は、[FMヨコハマにて](../Page/横浜エフエム放送.md "wikilink")[2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から放送されているラジオ番組。
 
 ## 概要
 
@@ -54,10 +54,15 @@
   -
     シンガーソングライター
 
-## スタッフ
+## 放送時間
 
-  - まえだディレクター
-  - 作家・森
+  - [2020年](../Page/2020年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") -
+
+<!-- end list -->
+
+  - 毎週[土曜日](../Page/土曜日.md "wikilink") 3:30 - 5:00（[金曜日](../Page/金曜日.md "wikilink")[深夜](../Page/深夜放送.md "wikilink")）
+
+## 脚注
 
 ## 外部リンク
 

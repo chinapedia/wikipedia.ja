@@ -1,7 +1,7 @@
 > この記事は[Amber\'s](https://ja.wikipedia.org/wiki/Amber\'s)から翻訳されています。
 
 
-Amber’s（アンバーズ）は、日本の２人組バンド。
+**Amber’s**（アンバーズ）は、日本の２人組バンド。
 
 ふたりそれぞれがソングライティングを行うことから生み出される振れ幅のある楽曲と、その楽曲たちを力強いハイトーンボイスで表現する様は、唯一無二。
 
@@ -114,10 +114,9 @@ Amber’s（アンバーズ）は、日本の２人組バンド。
 
 ## 外部リンク
 
-OFFICIAL HP： <http://ambers-official.tokyo>
+  - OFFICIAL HP： <http://ambers-official.tokyo>
+  - OFFICIAL Twitter：https://mobile.twitter.com/Ambers_band
+  - OFFICIAL Instagram：https://www.instagram.com/ambers_band_jp/
+  - OFFICIAL TikTok ：https://www.tiktok.com/@ambers_official.tokyo
 
-OFFICIAL Twitter：https://mobile.twitter.com/Ambers_band
-
-OFFICIAL Instagram：https://www.instagram.com/ambers_band_jp/
-
-OFFICIAL TikTok ：https://www.tiktok.com/@ambers_official.tokyo
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink")

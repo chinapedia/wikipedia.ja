@@ -88,6 +88,7 @@
 <!-- end list -->
 
   - 3月11日、[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")の影響で、3月14〜29日に開催を予定していた「ATEEZ World Tour The Fellowship：Map The Treasure」の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")7都市（[マドリード](../Page/マドリード.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")、[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")、[モスクワ](../Page/モスクワ.md "wikilink")）の公演を全て延期することが発表された\[33\]。次いで、4月2〜6日に開催を予定していた同ツアーの日本公演([Zepp](../Page/Zepp.md "wikilink") Osaka Bayside, [Zepp](../Page/Zepp.md "wikilink") Tokyo)の延期\[34\]、4月17〜26日に開催を予定していた[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")5都市（[ニューアーク](https://ja.wikipedia.org/wiki/ニューアーク "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[アトランタ](../Page/アトランタ.md "wikilink")、[ダラス](../Page/ダラス.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")）の公演の延期が発表された\[35\]。
+  - 5月8日、韓国文化を世界に伝える「2020 海外文化広報大使」に任命された\[36\]。
 
 ## メンバー
 
@@ -96,13 +97,13 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>名前[36]</p></th>
-<th><p>名前（韓国語・英語表記）[37][38]</p></th>
-<th><p>ポジション[39]</p></th>
-<th><p>生年月日[40]</p></th>
-<th><p>血液型[41]</p></th>
-<th><p>身長[42]</p></th>
-<th><p>出身地[43]</p></th>
+<th><p>名前[37]</p></th>
+<th><p>名前（韓国語・英語表記）[38][39]</p></th>
+<th><p>ポジション[40]</p></th>
+<th><p>生年月日[41]</p></th>
+<th><p>血液型[42]</p></th>
+<th><p>身長[43]</p></th>
+<th><p>出身地[44]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -153,7 +154,7 @@ Choi San</p></td>
 <td><p>ボーカル</p></td>
 <td><p>1999年7月10日</p></td>
 <td><p>B型</p></td>
-<td><p>175cm[44]</p></td>
+<td><p>175cm[45]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南海郡" title="wikilink">南海郡</a></p></td>
 </tr>
 <tr class="even">
@@ -173,7 +174,7 @@ Jung Woo Young</p></td>
 <td><p>パフォーマンス、ボーカル</p></td>
 <td><p>1999年11月26日</p></td>
 <td><p>A型</p></td>
-<td><p>173cm[45]</p></td>
+<td><p>173cm[46]</p></td>
 <td><p><a href="../Page/高陽市.md" title="wikilink">高陽市</a></p></td>
 </tr>
 <tr class="even">
@@ -189,7 +190,7 @@ Choi Jong Ho</p></td>
 </tbody>
 </table>
 
-## ディスコグラフィー\[46\]\[47\]
+## ディスコグラフィー\[47\]\[48\]
 
 ### フルアルバム
 
@@ -330,3 +331,4 @@ AURORA -</p></td>
 45.
 46.
 47.
+48.

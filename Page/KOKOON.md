@@ -76,7 +76,7 @@
 ## 出演
 
   - [ネタパレ](https://ja.wikipedia.org/wiki/ネタパレ "wikilink")（2020年1月24日,31日,2月14日,3月6日、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）
-  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")（2020年3月22日、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")）
+  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")（2020年3月22日、[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")）
 
 ## 作品
 
@@ -103,4 +103,4 @@
   -
   -
   -
-[Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:韓国のコメディアン](https://ja.wikipedia.org/wiki/Category:韓国のコメディアン "wikilink") [Category:韓国の歌手グループ](https://ja.wikipedia.org/wiki/Category:韓国の歌手グループ "wikilink") [Category:アイドルグループ](https://ja.wikipedia.org/wiki/Category:アイドルグループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")
+[Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:韓国のコメディアン](https://ja.wikipedia.org/wiki/Category:韓国のコメディアン "wikilink") [Category:韓国の歌手グループ](https://ja.wikipedia.org/wiki/Category:韓国の歌手グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink")

@@ -1022,6 +1022,41 @@ ADAM atメジャーデビュー5周年記念ワンマン</p></td>
 </div></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/10月9日.md" title="wikilink">10月9日</a> - <a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
+<td><p>'''零ツアー 2020</p></td>
+<td><div class="NavFrame" style="clear: both; border:0;">
+<div class="NavHead" style="text-align: center;">
+<p>10ヶ所10公演</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<dl>
+<dt></dt>
+<dd>10月9日　浜松 窓枠
+</dd>
+<dd>10月28日　渋谷 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">TSUTAYA O-EAST</a>
+</dd>
+<dd>10月30日　仙台 LIVE HOUSE enn 2nd
+</dd>
+<dd>11月22日　横浜 F.A.D.
+</dd>
+<dd>11月25日　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
+</dd>
+<dd>11月26日　岡山 IMAGE
+</dd>
+<dd>11月27日　広島 CAVE-BE
+</dd>
+<dd>12月4日　札幌 ベッシーホール
+</dd>
+<dd>12月25日　心斎橋 Music Club JANUS
+</dd>
+<dd>12月27日　福岡 DRUM LOGOS
+</dd>
+</dl>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

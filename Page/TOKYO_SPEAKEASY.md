@@ -9,7 +9,7 @@
 
 オープニングでは、バーの常連客の設定として[國村隼](../Page/國村隼.md "wikilink")がナビゲーターを担当。聴取者はカウンター席の客同士の会話を盗み聞きしているという設定である。
 
-「SPEAKEASY」は米国・禁酒法時代に密かに酒を販売・提供していた店の意味で\[2\]、転じて実際にはない店を意味している\[3\]。
+「[SPEAKEASY](https://ja.wikipedia.org/wiki/スピークイージー "wikilink")」は禁酒法時代のアメリカ合衆国にあった、ひそかに酒を販売・提供していた店の意味で\[2\]、転じて実際にはない店を意味している\[3\]。
 
 [秋元康](../Page/秋元康.md "wikilink")\[4\]が番組のプロデュースを担当し、秋元が指名したゲスト2名がトークをする\[5\]。
 
@@ -67,7 +67,7 @@
   - [公式サイト](https://www.tfm.co.jp/speakeasy/)
 
   -
-[Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組 "wikilink") [Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:TOKYO_FMの深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの深夜ラジオ番組 "wikilink") [Category:ラジオのトーク番組](https://ja.wikipedia.org/wiki/Category:ラジオのトーク番組 "wikilink")
+[Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組 "wikilink") [Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:TOKYO_FMの深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの深夜ラジオ番組 "wikilink") [Category:ラジオのトーク番組](https://ja.wikipedia.org/wiki/Category:ラジオのトーク番組 "wikilink") [Category:秋元康](https://ja.wikipedia.org/wiki/Category:秋元康 "wikilink")
 
 1.
 2.

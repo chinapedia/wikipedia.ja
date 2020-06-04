@@ -7,7 +7,9 @@
 
 1棟で550戸を超える住戸を有する、[大規模マンション](../Page/大規模マンション.md "wikilink")である。東京ワンダフルプロジェクト第一弾の[SKYZ TOWER\&GARDEN同様](https://ja.wikipedia.org/wiki/SKYZ_TOWER&GARDEN "wikilink")、大手[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")会社6社が合同で[デベロッパー](https://ja.wikipedia.org/wiki/デベロッパー "wikilink")となっている。[光井純](https://ja.wikipedia.org/wiki/光井純 "wikilink")が設計し、[2017年](../Page/2017年.md "wikilink")度に[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")を受賞している\[1\]\[2\]。
 
-[清水建設](../Page/清水建設.md "wikilink")が開発した[免](../Page/免震.md "wikilink")[制震](../Page/制震.md "wikilink")複合システム「スイングセーバー」を搭載したほか、東京都が公表した[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")の最大高さが到達しないよう計算した設計を導入。災害時の停電に備え、大型のA重油ディーゼル発電機も設置した。また、運河沿いの護岸工事も同時に行われた\[3\]。間取りは1LDK～3LDK。販売価格は3,400万円台～1億1,500万円台だった\[4\]。
+[清水建設](../Page/清水建設.md "wikilink")が開発した[免](../Page/免震.md "wikilink")[制震](../Page/制震.md "wikilink")複合システム「スイングセーバー」を搭載したほか、東京都が公表した[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")の最大高さが到達しないよう計算した設計を導入。災害時の停電に備え、大型のA重油ディーゼル発電機も設置した\[3\]。また、運河沿いの護岸工事も同時に行われた。
+
+間取りは1LDK～3LDK。販売価格は3,400万円台～1億1,500万円台（最多価格帯6,000万円台）だった\[4\]。
 
 ## 沿革
 

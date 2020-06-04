@@ -53,7 +53,7 @@
   - [『TOKYO SLOW NEWS』公式サイト](https://www.tfm.co.jp/tokyoslownews/)
 
   -
-[Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:TOKYO_FMの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ラジオのニュース・報道番組 "wikilink")
+[Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:TOKYO_FMの帯番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組 "wikilink") [Category:TOKYO_FMのローカル番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMのローカル番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ラジオのニュース・報道番組 "wikilink")
 
 1.
 2.

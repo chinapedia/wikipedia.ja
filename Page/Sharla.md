@@ -33,11 +33,19 @@
 
 ## 人物
 
-両親と妹が[ベジタリアンであるため](../Page/菜食主義.md "wikilink")、幼少期から肉の摂取を控える生活を送るが、厳格な[ベジタリアンや](../Page/菜食主義.md "wikilink")[ビーガンになったことはないと述べている](../Page/ヴィーガニズム.md "wikilink")。好きな食べ物には、[ブロッコリー](../Page/ブロッコリー.md "wikilink")と[豆腐](../Page/豆腐.md "wikilink")、好きな寿司ネタにマグロたくあんの巻き寿司を挙げている。文化は、日韓両国の[ポップカルチャーに強い興味を持ち](../Page/大衆文化.md "wikilink")、日本の有名人では[浅野忠信](../Page/浅野忠信.md "wikilink")・[Dir En Grey](../Page/DIR_EN_GREY.md "wikilink")\[32\]・[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")、韓国では[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")全般と[BIG BANGの中でも](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")[G-DRAGON](https://ja.wikipedia.org/wiki/G-DRAGON "wikilink")のファンであると語っている。またメタル音楽のファンであり、フランスの[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドGojiraを好んでいる。日本のアニメは『[もののけ姫](../Page/もののけ姫.md "wikilink")』と『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』を好んでおり、高校時代は将来的に自身の子供に「レイ」と名付けたいと考えていたと述べている。また幼い頃から『[ポケットモンスター](../Page/ポケットモンスター.md "wikilink")』の大ファンであり、『[ポケモンGO](https://ja.wikipedia.org/wiki/Pokemon_GO "wikilink")』配信が日本のみ延期発表された際には動画で泣き崩れたシーンがある。好きなポケモンはライチュウとパラス。
+両親と妹が[ベジタリアンであるため](../Page/菜食主義.md "wikilink")、幼少期から肉の摂取を控える生活を送るが、厳格な[ベジタリアンや](../Page/菜食主義.md "wikilink")[ビーガンになったことはないと述べている](../Page/ヴィーガニズム.md "wikilink")。好きな食べ物には、[ブロッコリー](../Page/ブロッコリー.md "wikilink")と[豆腐](../Page/豆腐.md "wikilink")、好きな寿司ネタにマグロたくあんの巻き寿司を挙げており、ラーメンはビーガンラーメン以外は油っこい為あまり好きではないという。
+
+文化は、日韓両国の[ポップカルチャーに強い興味を持ち](../Page/大衆文化.md "wikilink")、日本の有名人では[浅野忠信](../Page/浅野忠信.md "wikilink")・[Dir En Grey](../Page/DIR_EN_GREY.md "wikilink")\[32\]・[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")、韓国では[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")全般と[BIG BANGの中でも](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")[G-DRAGON](https://ja.wikipedia.org/wiki/G-DRAGON "wikilink")のファンであると語っている。またメタル音楽のファンであり、フランスの[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドGojiraを好んでいる。日本のアニメは『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』と『[もののけ姫](../Page/もののけ姫.md "wikilink")』が好きで、高校時代は将来的に自身の子供に「レイ」と名付けたいと考えていた。また亡くなった親しい友人と最後に見た映画が『もののけ姫』であったことも言及している。幼い頃から『[ポケットモンスター](../Page/ポケットモンスター.md "wikilink")』の大ファンであり、『[ポケモンGO](https://ja.wikipedia.org/wiki/Pokemon_GO "wikilink")』配信が日本のみ延期発表された際には動画で泣き崩れたシーンがある。好きなポケモンはライチュウとパラス。他のビデオゲームは『ファイナルファンタジー10』が好きで、プレイステーション4で再度リマスター版を購入する予定だとしている。
 
 日本の伝統的な文化にも興味があり、インタビューでは[吉田兄弟](../Page/吉田兄弟.md "wikilink")がきっかけとなり[津軽三味線](../Page/津軽三味線.md "wikilink")と[演歌](../Page/演歌.md "wikilink")が好きになったと述べている。高校時代は[ジャズバンドに加入していたため](../Page/バンド_\(音楽\).md "wikilink")[アルトサックス演奏を特技としている](../Page/サクソフォーン.md "wikilink")。
 
-愛猫家であり、[スコティッシュフォールド](../Page/スコティッシュフォールド.md "wikilink")の雄「マロ」と[アメリカン・ショートヘア](../Page/アメリカン・ショートヘア.md "wikilink")の雌「ルナ」を飼っている。また「ププ」という名前のハムスターもいる。好きなYouTubeチャンネルはユーモアのセンスにおいて『PDRさん』と『[Abroad in Japan](https://ja.wikipedia.org/wiki/Abroad_in_Japan "wikilink")』のファンであると語っているが、後者の管理者クリス・ブロードには「（Sharla in Japanが）日本で動画を作るきっかけになった人物」として紹介されている。また[アジア](../Page/アジア.md "wikilink")に住み韓国人男性と結婚したことから「アジア人男性が好みであるのか」という視聴者の質問に対しては、「黒髪と黒い瞳がとても好きだが、必ずしもアジア人でないといけないということはない」と述べている。
+愛猫家であり、[スコティッシュフォールド](../Page/スコティッシュフォールド.md "wikilink")の雄「マロ」と[アメリカン・ショートヘア](../Page/アメリカン・ショートヘア.md "wikilink")の雌「ルナ」を飼っている。また「ププ」という名前のハムスターもいる。日本の住宅事情で犬は飼えないが、[ロットワイラーと](https://ja.wikipedia.org/wiki/ロットワイラー_\(犬種\) "wikilink")[ポメラニアン](../Page/ポメラニアン.md "wikilink")が好きと述べている。
+
+好きなYouTubeチャンネルはユーモアのセンスにおいて『PDRさん』と『[Abroad in Japan](https://ja.wikipedia.org/wiki/Abroad_in_Japan "wikilink")』のファンであると語っているが、後者の管理者クリス・ブロードには「（Sharla in Japanが）日本で動画を作るきっかけになった人物」として紹介されている。また同郷のYouTuberである[ミカエラ・ブレスウェート](https://ja.wikipedia.org/wiki/ミカエラ・ブレスウェート "wikilink")とは特に親しく、自身のチャンネルを始めるきっけになった人物であると述べている。また[アジア](../Page/アジア.md "wikilink")に住み韓国人男性と結婚したことから「アジア人男性が好みであるのか」という視聴者の質問に対しては、「黒髪と黒い瞳がとても好きだが、必ずしもアジア人でないといけないということはない」と述べている。
+
+「死ぬ前にしたいこと」として「言語習得」を挙げており、将来的には他の文化と新たな言語習得を経験するため他国（[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")や[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")など欧州）への移住を考えている。また「日本に来て最も変わったこと」としては、「日本の電車マナー」を挙げており、カナダの電車内で声を出してしゃべることに強い抵抗を感じるようになっていると述べている。
+
+「過去に制作した中で最もお勧めの動画は？」という視聴者の質問には、2017年の秋田県[仙北市](../Page/仙北市.md "wikilink")の農家にホームステイし農業体験を行った動画を挙げ、自身もとても好きな動画だと語っており、また「最も好きな動画は」という質問には、人生で最も感動した風景という「夕暮れのしまなみ海道サイクリング」の動画を挙げている。
 
 一方で2015年のインタビュー記事では、日本での[ストーカー](../Page/ストーカー.md "wikilink")被害について明かしており、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")における度重なる目撃情報の記載や帰宅の際に背後から自宅ドアに侵入しようした男性ファンがいたことを語っている\[33\]。その被害防止のため、定期的な引っ越しや本名を明かさないことを余儀なくされていると述べている。
 
@@ -63,7 +71,7 @@
   -
   - [Sharamander](https://www.tokyocreative.com/learn/tutors/68749-sharmander) - Tokyo Creative株式会社
 
-[Category:カナダの翻訳家](https://ja.wikipedia.org/wiki/Category:カナダの翻訳家 "wikilink") [Category:YouTuber](https://ja.wikipedia.org/wiki/Category:YouTuber "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink")
+[Category:カナダの翻訳家](https://ja.wikipedia.org/wiki/Category:カナダの翻訳家 "wikilink") [Category:女性YouTuber](https://ja.wikipedia.org/wiki/Category:女性YouTuber "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink")
 
 1.  [50 THINGS ABOUT ME // 私についての５０のこと Sharla in Japan](https://www.youtube.com/watch?v=AiHOlxZnAbA) [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、2019年12月7日閲覧。
 2.  \[ <https://english.cheerup.jp/article/882> 今注目のユーチューバーSharla(シャーラ)さんインタビュー\] [Cheer up\! English](https://ja.wikipedia.org/wiki/Cheer_up!_English "wikilink")、2019年12月7日閲覧。

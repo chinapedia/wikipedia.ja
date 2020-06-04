@@ -33,7 +33,7 @@
 
   - [公式サイト](https://hz3software.com/st/)
 
-[Category:2017年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2017年のコンピュータゲーム "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:電話を題材とした作品](https://ja.wikipedia.org/wiki/Category:電話を題材とした作品 "wikilink")
+[Category:2017年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2017年のコンピュータゲーム "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Nintendo_Switch用ソフト](https://ja.wikipedia.org/wiki/Category:Nintendo_Switch用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:電話を題材とした作品](https://ja.wikipedia.org/wiki/Category:電話を題材とした作品 "wikilink")
 
 1.
 2.

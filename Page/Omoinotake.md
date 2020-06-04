@@ -1,12 +1,6 @@
 > この記事は[Omoinotake](https://ja.wikipedia.org/wiki/Omoinotake)から翻訳されています。
 
 
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
 **Omoinotake**（オモイノタケ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人組[ピアノ](../Page/ピアノ.md "wikilink")・[トリオ](https://ja.wikipedia.org/wiki/トリオ "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 概要
@@ -20,6 +14,8 @@
 同年2月19日リリースの3rd Mini Album 表題曲「モラトリアム」が、同月公開の映画「囀る鳥は羽ばたかない The clouds gather」主題歌に決定。\[3\]
 
 音楽性としては、[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")、[R\&B](../Page/リズム・アンド・ブルース.md "wikilink")、[HIPHOP](../Page/ヒップホップ.md "wikilink")、[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")の影響を受けている。\[4\]
+
+髭男イチオシのニューカマー
 
 ## メンバー
 

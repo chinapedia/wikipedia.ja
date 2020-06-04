@@ -11,4 +11,4 @@
 
   -
   -
-[Category:ノルウェーの映画作品](https://ja.wikipedia.org/wiki/Category:ノルウェーの映画作品 "wikilink") [Category:ゾンビ映画](https://ja.wikipedia.org/wiki/Category:ゾンビ映画 "wikilink") [Category:2014年の映画](https://ja.wikipedia.org/wiki/Category:2014年の映画 "wikilink")
+[Category:ノルウェーの映画作品](https://ja.wikipedia.org/wiki/Category:ノルウェーの映画作品 "wikilink") [Category:ナチゾンビ映画](https://ja.wikipedia.org/wiki/Category:ナチゾンビ映画 "wikilink") [Category:2014年の映画](https://ja.wikipedia.org/wiki/Category:2014年の映画 "wikilink") [Category:アイスランドで製作された映画作品](https://ja.wikipedia.org/wiki/Category:アイスランドで製作された映画作品 "wikilink")

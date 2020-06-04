@@ -1,7 +1,7 @@
 > この記事は[SLOTHREAT](https://ja.wikipedia.org/wiki/SLOTHREAT)から翻訳されています。
 
 
-SLOTHREATは、克哉(Gt/Misanthropist/ex.CodeRebirth)を中心に、孝哉(Gt/ex. Sailing Before The Wind)、瀬希(Ba)、KAZ(Vo/ex. LAST CALIX)の4人組からなる日本のハイブリッドロックバンド。
+**SLOTHREAT**は、克哉(Gt/Misanthropist/ex.CodeRebirth)を中心に、孝哉(Gt/ex. Sailing Before The Wind)、瀬希(Ba)、KAZ(Vo/ex. LAST CALIX)の4人組からなる日本のハイブリッドロックバンド。
 
 ## 概要
 
@@ -90,24 +90,16 @@ SLOTHREATは、克哉(Gt/Misanthropist/ex.CodeRebirth)を中心に、孝哉(Gt/e
 
 ## 外部リンク
 
-[SLOTHREAT 公式サイト](https://www.slothreat.com/)
+  - [SLOTHREAT 公式サイト](https://www.slothreat.com/)
+  - [SLOTHREAT Youtube](https://www.youtube.com/channel/UCaLRk9wxbWjI6QeBMDfHrOQ)
+  - [SLOTHREAT Twitter](https://twitter.com/slothreat)
+  - [SLOTHREAT Instgram](https://www.instagram.com/slothreat/)
+  - [SLOTHREAT Facebook](https://www.facebook.com/slothreat/)
+  - [KAZ Twitter](https://twitter.com/SLOTHREAT_Vo)
+  - [KAZ Instagram](https://www.instagram.com/kaz_slothreat/)
+  - [克哉 YouTube](https://www.youtube.com/channel/UCG0vnb_BmnJzWjiQrzI8TAg)
+  - [克哉 Twitter](https://twitter.com/fuckinkatsuya)
+  - [克哉 Instagram](https://www.instagram.com/slothreat/)
+  - [瀬希 Instagram](https://www.instagram.com/sl_seki/)
 
-[SLOTHREAT Youtube](https://www.youtube.com/channel/UCaLRk9wxbWjI6QeBMDfHrOQ)
-
-[SLOTHREAT Twitter](https://twitter.com/slothreat)
-
-[SLOTHREAT Instgram](https://www.instagram.com/slothreat/)
-
-[SLOTHREAT Facebook](https://www.facebook.com/slothreat/)
-
-[KAZ Twitter](https://twitter.com/SLOTHREAT_Vo)
-
-[KAZ Instagram](https://www.instagram.com/kaz_slothreat/)
-
-[克哉 YouTube](https://www.youtube.com/channel/UCG0vnb_BmnJzWjiQrzI8TAg)
-
-[克哉 Twitter](https://twitter.com/fuckinkatsuya)
-
-[克哉 Instagram](https://www.instagram.com/slothreat/)
-
-[瀬希 Instagram](https://www.instagram.com/sl_seki/)
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

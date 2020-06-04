@@ -1,9 +1,11 @@
 > この記事は[Alibaba Cloud](https://ja.wikipedia.org/wiki/Alibaba_Cloud)から翻訳されています。
 
 
-**アリクラウドコンピューティング**Alibaba Cloudは、阿里巴巴集団が提供する従量課金制、サブスクリプション型のクラウドサービスである。
+**アリクラウドコンピューティング**Alibaba Cloudは、[阿里巴巴集団が提供する従量課金制](../Page/アリババグループ.md "wikilink")、サブスクリプション型のクラウドサービスである。
 
-また、**アリババクラウド** **の**提供者（フルネーム**アリクラウドコンピューティング・リミテッドは、** **アリ雲**と呼ばれる**）** [クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")のための2009年9月に設立されたサービス技術会社。[アリババグループ](../Page/アリババグループ.md "wikilink")、全額出資\[1\] 。アリババクラウドコンピューティングは、 [杭州に本社を置き](../Page/杭州市.md "wikilink")、 [北京](../Page/北京市.md "wikilink") 、 [シリコンバレー](../Page/シリコンバレー.md "wikilink")などのクラウドコンピューティング製品とサービスに関連する研究開発センターと運営機関を持っています\[2\] 。 2018年前半までに、 パブリッククラウド [IaaSベンダーの世界市場シェアであるAlibaba](https://ja.wikipedia.org/wiki/Infrastructure_as_a_Service "wikilink") Cloudは、 [AWSと](https://ja.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[Azureに次いで](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")3位にランクされました\[3\] 。Alibaba独自のEコマースサイトの基盤として誕生しサービスには、Elastic Compute、データストレージ、リレーショナルデータベース、ビッグデータ処理、DDoS防御およびコンテンツ配信ネットワーク（CDN）が含まれる。Alibaba Cloudは世界中の19のデータセンター地域と53の可用性ゾーンで運営されている。2017年現在、マーケットシェアは世界第3位**\[4\]**。
+## 概要
+
+**アリババクラウド** **の**提供者（フルネーム**アリクラウドコンピューティング・リミテッドは、** **アリ雲**と呼ばれる**）** [クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")のための2009年9月に設立されたサービス技術会社。[アリババグループ](../Page/アリババグループ.md "wikilink")、全額出資\[1\] 。アリババクラウドコンピューティングは、 [杭州に本社を置き](../Page/杭州市.md "wikilink")、 [北京](../Page/北京市.md "wikilink") 、 [シリコンバレー](../Page/シリコンバレー.md "wikilink")などのクラウドコンピューティング製品とサービスに関連する研究開発センターと運営機関を持っています\[2\] 。 2018年前半までに、 パブリッククラウド [IaaSベンダーの世界市場シェアであるAlibaba](https://ja.wikipedia.org/wiki/Infrastructure_as_a_Service "wikilink") Cloudは、 [AWSと](https://ja.wikipedia.org/wiki/Amazon_Web_Services "wikilink")[Azureに次いで](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")3位にランクされました\[3\] 。Alibaba独自のEコマースサイトの基盤として誕生しサービスには、Elastic Compute、データストレージ、リレーショナルデータベース、ビッグデータ処理、DDoS防御およびコンテンツ配信ネットワーク（CDN）が含まれる。Alibaba Cloudは世界中の19のデータセンター地域と53の可用性ゾーンで運営されている。2017年現在、マーケットシェアは世界第3位**\[4\]**。
 
 ## データセンター
 

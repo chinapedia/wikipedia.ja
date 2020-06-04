@@ -33,6 +33,8 @@
 
 音楽活動のほかに、俳優やラジオパーソナリティとして活動。
 
+2020年5月3日より『BAR諸行無常』というタイトルでTOBIがバータテンダーに扮してトークする音声コンテンツを[Note](https://ja.wikipedia.org/wiki/Note_\(配信サイト\) "wikilink") より配信。（翌週より土曜日更新）
+
 ## 出演
 
 音楽ユニット「レ・ロマネスク」としての出演は[レ・ロマネスク](https://ja.wikipedia.org/wiki/レ・ロマネスク "wikilink")を参照
@@ -261,9 +263,14 @@
 ## 外部リンク
 
   - [キューブ公式プロフィール](http://www.cubeinc.co.jp/members/prf/144.html)
+
+  -
   - [レ・ロマネスクＴＯＢＩ](https://twitter.com/rmnsq) (@rmnsq) - [Twitter](../Page/Twitter.md "wikilink")
 
-[Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:クリエイター](https://ja.wikipedia.org/wiki/Category:クリエイター "wikilink") [Category:慶應義塾大学出身の人物](https://ja.wikipedia.org/wiki/Category:慶應義塾大学出身の人物 "wikilink") [Category:修道中学校・修道高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:修道中学校・修道高等学校出身の人物 "wikilink")
+  -
+  -
+  -
+[Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:フランスの歌手](https://ja.wikipedia.org/wiki/Category:フランスの歌手 "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:クリエイター](https://ja.wikipedia.org/wiki/Category:クリエイター "wikilink") [Category:慶應義塾大学出身の人物](https://ja.wikipedia.org/wiki/Category:慶應義塾大学出身の人物 "wikilink") [Category:修道中学校・修道高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:修道中学校・修道高等学校出身の人物 "wikilink") [Category:在フランス日本人](https://ja.wikipedia.org/wiki/Category:在フランス日本人 "wikilink")
 
 1.
 2.  レ・ロマネスクのTOBIが詐欺師役に『びしょ濡れ探偵 水野羽衣』https://dogatch.jp/news/tx/67187/detail/

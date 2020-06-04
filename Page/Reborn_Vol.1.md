@@ -38,9 +38,7 @@
   - [J Storm紹介ページ](https://www.j-storm.co.jp/arashi/discography/reborn-vol-1)
   - [Johnny's net紹介ページ](https://www.johnnys-net.jp/page?id=discoDetail&artist=10&data=2313)
 
-\[\[Category:2020年のミニ・
-
-[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink")
+[Category:嵐のアルバム](https://ja.wikipedia.org/wiki/Category:嵐のアルバム "wikilink") [Category:2020年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のミニ・アルバム "wikilink")
 
 1.
 2.

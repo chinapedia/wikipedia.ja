@@ -7,7 +7,7 @@
 
 2014年に知人の勧めで仕事の傍らYouTubeに弾き語りなどの動画を公開し始める。2016年に勤めていた会社を辞めたのをきっかけに本格的な音楽活動を開始\[1\]。現在まで様々なアーティストのカバー動画を公開してきている。日本国内のみならず海外からのアクセスも多く、顔を見せずに歌声のみでYouTubeの登録者は47万人超、動画総再生回数は3億回を超えている。
 
-2017年に「Lefty Hand Covers」、2018年には「Lefty Hand Covers Ⅱ」と全て自身によるカバーアレンジのミニアルバムをそれぞれ[ヴィレッジヴァンガードから限定販売している](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")。
+2017年に「[Lefty Hand Covers](https://ja.wikipedia.org/wiki/Lefty_Hand_Covers "wikilink")」、2018年には「[Lefty Hand Covers II](https://ja.wikipedia.org/wiki/Lefty_Hand_Covers_II "wikilink")」と全て自身によるカバーアレンジのミニアルバムをそれぞれ[ヴィレッジヴァンガードから限定販売している](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")。
 
 2019年12月7日から[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[フジテレビ系全国ネットで放映された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[オトナの土ドラ](https://ja.wikipedia.org/wiki/オトナの土ドラ "wikilink")『[悪魔の弁護人・御子柴礼司～贖罪の奏鳴曲（ソナタ）～](https://ja.wikipedia.org/wiki/悪魔の弁護人・御子柴礼司_〜贖罪の奏鳴曲〜 "wikilink")』の主題歌を歌うことに抜擢されオリジナル曲を提供する。翌2020年1月23日にドラマ主題歌である「ポーカーフェイス」と作詞作曲も担当したオリジナル曲「栞」を含むアルバム「[1LDK](../Page/1LDK_\(アルバム\).md "wikilink")」発売、[ユニバーサルシグマ](https://ja.wikipedia.org/wiki/ユニバーサルシグマ "wikilink")よりメジャーデビュー。
 
@@ -44,7 +44,7 @@
 <tr class="odd">
 <td><p><small>1st.</small></p></td>
 <td><p><small>2017年11月15日</small></p></td>
-<td><p><small>Lefty Hand Covers</small></p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/Lefty_Hand_Covers" title="wikilink">Lefty Hand Covers</a></small></p></td>
 <td><p><small>YYIREC-001</small></p></td>
 <td><p><small>1. StaRt（<a href="https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE" title="wikilink">Mrs. GREEN APPLE</a>）</small> <small>2. 醒めない（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>）</small></p>
 <p><small>3. 藍（<a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>）</small></p>
@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p><small>2nd.</small></p></td>
 <td><p><small>2018年10月17日</small></p></td>
-<td><p><small>Left Hand Covers II</small></p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/Lefty_Hand_Covers_II" title="wikilink">Lefty Hand Covers II</a></small></p></td>
 <td><p><small>YYIREC-002</small></p></td>
 <td><p><small>1. RPG（<a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARI</a>）</small> <small>2. Yeah! Yeah! Yeah!（<a href="https://ja.wikipedia.org/wiki/androp" title="wikilink">androp</a>）</small></p>
 <p><small>3. オドループ（<a href="https://ja.wikipedia.org/wiki/フレデリック_(バンド)" title="wikilink">フレデリック</a>）</small></p>
@@ -92,11 +92,11 @@
 <p><small>2. <a href="https://ja.wikipedia.org/wiki/恋音と雨空" title="wikilink">恋音と雨空</a>（<a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a>）</small></p>
 <p><small>3. <a href="https://ja.wikipedia.org/wiki/シュガーソングとビターステップ" title="wikilink">シュガーソングとビターステップ</a>（<a href="https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a>）</small></p>
 <p><small>4. なんでもないや（<a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a>）</small></p>
-<p><small>5. 醒めない（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>）</small></p>
+<p><small>5. 醒めない（スピッツ）</small></p>
 <p><small>6. Funny Bunny（<a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a>）</small></p>
-<p><small>7. <a href="https://ja.wikipedia.org/wiki/青いベンチ" title="wikilink">青いベンチ</a>（<a href="../Page/サスケ_(埼玉県出身のデュオ).md" title="wikilink">サスケ</a>）</small></p>
-<p><small>8. イト（<a href="https://ja.wikipedia.org/wiki/クリープハイプ" title="wikilink">クリープハイプ</a>）</small></p>
-<p><small>9. 痛いよ（<a href="https://ja.wikipedia.org/wiki/清竜人" title="wikilink">清 竜人</a>）</small></p>
+<p><small>7. 青いベンチ（サスケ）</small></p>
+<p><small>8. イト（クリープハイプ）</small></p>
+<p><small>9. 痛いよ（清 竜人）</small></p>
 <p><small>10. <a href="https://ja.wikipedia.org/wiki/100万回の「I_love_you」" title="wikilink">100万回の「I love you」</a>（<a href="https://ja.wikipedia.org/wiki/Rake_(シンガーソングライター)" title="wikilink">Rake</a>）</small></p>
 <p><small>11. 藍（<a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>）</small></p>
 <p><small>12. 栞（オリジナル曲）</small></p>
@@ -111,16 +111,16 @@ DISC-2: DVD</small></p>
 <td><p><small><a href="../Page/1LDK_(アルバム).md" title="wikilink">1LDK</a> 通常盤（CD only）</small></p></td>
 <td><p><small>UMCK-1646</small></p></td>
 <td><p><small>1. ポーカーフェイス（オリジナル曲）</small> <small>※「悪魔の弁護人・御子柴礼司〜贖罪の奏鳴曲〜」主題歌</small></p>
-<p><small>2. <a href="https://ja.wikipedia.org/wiki/恋音と雨空" title="wikilink">恋音と雨空</a>（<a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a>）</small></p>
-<p><small>3. <a href="https://ja.wikipedia.org/wiki/シュガーソングとビターステップ" title="wikilink">シュガーソングとビターステップ</a>（<a href="https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN" title="wikilink">UNISON SQUARE GARDEN</a>）</small></p>
-<p><small>4. なんでもないや（<a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a>）</small></p>
-<p><small>5. 醒めない（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>）</small></p>
-<p><small>6. Funny Bunny（<a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a>）</small></p>
-<p><small>7. <a href="https://ja.wikipedia.org/wiki/青いベンチ" title="wikilink">青いベンチ</a>（<a href="../Page/サスケ_(埼玉県出身のデュオ).md" title="wikilink">サスケ</a>）</small></p>
-<p><small>8. イト（<a href="https://ja.wikipedia.org/wiki/クリープハイプ" title="wikilink">クリープハイプ</a>）</small></p>
-<p><small>9. 痛いよ（<a href="https://ja.wikipedia.org/wiki/清竜人" title="wikilink">清 竜人</a>）</small></p>
-<p><small>10. <a href="https://ja.wikipedia.org/wiki/100万回の「I_love_you」" title="wikilink">100万回の「I love you」</a>（<a href="https://ja.wikipedia.org/wiki/Rake_(シンガーソングライター)" title="wikilink">Rake</a>）</small></p>
-<p><small>11. 藍（<a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>）</small></p>
+<p><small>2. 恋音と雨空（AAA）</small></p>
+<p><small>3. シュガーソングとビターステップ（UNISON SQUARE GARDEN）</small></p>
+<p><small>4. なんでもないや（RADWIMPS）</small></p>
+<p><small>5. 醒めない（スピッツ）</small></p>
+<p><small>6. Funny Bunny（the pillows）</small></p>
+<p><small>7. 青いベンチ（サスケ）</small></p>
+<p><small>8. イト（クリープハイプ）</small></p>
+<p><small>9. 痛いよ（清 竜人）</small></p>
+<p><small>10. 100万回の「I love you」（Rake）</small></p>
+<p><small>11. 藍（スキマスイッチ）</small></p>
 <p><small>12. 栞（オリジナル曲）</small></p></td>
 </tr>
 </tbody>

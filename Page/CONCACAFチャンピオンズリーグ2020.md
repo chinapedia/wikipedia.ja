@@ -1,7 +1,7 @@
 > この記事は[CONCACAFチャンピオンズリーグ2020](https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2020)から翻訳されています。
 
 
-**CONCACAFチャンピオンズリーグ2020**（2020 CONCACAF Champions League）は、2008-09年に第1回大会が行われて以来、12回目の[CONCACAFチャンピオンズリーグ](../Page/CONCACAFチャンピオンズリーグ.md "wikilink")である（前身も含めれば54回目）。前シーズンに引き続き[スコシアバンク](../Page/スコシアバンク.md "wikilink")がスポンサーとなり、正式な大会名は**スコシアバンクCONCACAFチャンピオンズリーグ2020**（2020 Scotiabank CONCACAF Champions League）となる\[1\]。優勝チームには[FIFAクラブワールドカップ2020](../Page/FIFAクラブワールドカップ2020.md "wikilink")の出場権が与えられる。
+**CONCACAFチャンピオンズリーグ2020**（2020 CONCACAF Champions League）は、2008-09年に第1回大会が行われて以来、12回目の[CONCACAFチャンピオンズリーグ](../Page/CONCACAFチャンピオンズリーグ.md "wikilink")である（前身も含めれば55回目）。前シーズンに引き続き[スコシアバンク](../Page/スコシアバンク.md "wikilink")がスポンサーとなり、正式な大会名は**スコシアバンクCONCACAFチャンピオンズリーグ2020**（2020 Scotiabank CONCACAF Champions League）となる\[1\]。優勝チームには[FIFAクラブワールドカップ2020](../Page/FIFAクラブワールドカップ2020.md "wikilink")の出場権が与えられる。
 
 2020年3月12日、CONCACAFは北中米地域での[新型コロナウイルス感染症の流行の影響を考慮して同日の試合の延期を発表した](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")\[2\] 。同年3月13日、今後の試合日程全ての30日間以上の延期を発表した。2020年4月末時点ではまだ新規日程は決定していない\[3\]。
 
@@ -69,7 +69,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロサンゼルスFC" title="wikilink">ロサンゼルスFC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年のメジャーリーグサッカー" title="wikilink">サポーターズ・シールド2019</a> 優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2019年のメジャーリーグサッカー" title="wikilink">サポーターズ・シールド2019</a> 優勝<br />
+(MLSウェスタン・カンファレンス2019 優勝)</p></td>
 <td><p>初出場</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -77,7 +78,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニューヨーク・シティFC" title="wikilink">ニューヨーク・シティFC</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2019年のメジャーリーグサッカー" title="wikilink">イースタン・カンファレンス</a> 優勝</p></td>
+<td><p>MLS<a href="https://ja.wikipedia.org/wiki/2019年のメジャーリーグサッカー" title="wikilink">イースタン・カンファレンス</a>2019 優勝</p></td>
 <td><p>初出場</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -85,7 +86,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アトランタ・ユナイテッドFC" title="wikilink">アトランタ・ユナイテッドFC</a></p></td>
-<td><p><a href="../Page/USオープンカップ.md" title="wikilink">USオープンカップ</a> 優勝</p></td>
+<td><p><a href="../Page/USオープンカップ.md" title="wikilink">USオープンカップ</a>2019 優勝</p></td>
 <td><p>2回目</p></td>
 <td><p><a href="../Page/CONCACAFチャンピオンズリーグ2019.md" title="wikilink">2019</a></p></td>
 <td><p>ベスト8<small>（<a href="../Page/CONCACAFチャンピオンズリーグ2019.md" title="wikilink">2019</a>）</small></p></td>
@@ -110,14 +111,16 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コスタリカサッカー連盟" title="wikilink">コスタリカ</a></p></td>
 <td><p><a href="../Page/デポルティーボ・サプリサ.md" title="wikilink">サプリサ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 優勝<br />
+(2018-19 <a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_(コスタリカ)" title="wikilink">リーガFPD年間通算成績最上位</a>)</p></td>
 <td><p>9回目</p></td>
 <td><p><a href="../Page/CONCACAFチャンピオンズリーグ2019.md" title="wikilink">2019</a></p></td>
 <td><p>ベスト4<small>（2010-11）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ADサン・カルロス" title="wikilink">サン・カルロス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体5位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体5位<br />
+(2018-19 <a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_(コスタリカ)" title="wikilink">クラウスーラ優勝</a>)</p></td>
 <td><p>初出場</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -126,7 +129,8 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エルサルバドル連盟" title="wikilink">エルサルバドル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アリアンサFC" title="wikilink">アリアンサ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体4位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体4位<br />
+(2018-19 <a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_(エルサルバドル)" title="wikilink">アペルトゥーラ準優勝</a>、クラウスーラ準優勝)</p></td>
 <td><p>4回目</p></td>
 <td><p><a href="../Page/CONCACAFチャンピオンズリーグ2019.md" title="wikilink">2019</a></p></td>
 <td><p>1回戦<small>（2019）</small></p></td>
@@ -134,7 +138,9 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/グアテマラサッカー連盟" title="wikilink">グアテマラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コムニカシオネスFC" title="wikilink">コムニカシオネス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体6位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体6位<br />
+(2018-19 <a href="https://ja.wikipedia.org/wiki/リーガ・ナシオナル・グアテマラ" title="wikilink">リーガ・ナシオナル・グアテマラ</a> アペルトゥーラ準優勝<br />
+/アペルトゥーラとクラウスーラの準優勝チームのうち、年間通算成績上位)</p></td>
 <td><p>6回目</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2015-16" title="wikilink">2015-16</a></p></td>
 <td><p>ベスト8<small>（2010-11）</small></p></td>
@@ -142,14 +148,16 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ホンジュラスサッカー連盟" title="wikilink">ホンジュラス</a></p></td>
 <td><p><a href="../Page/FCモタグア.md" title="wikilink">FCモタグア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 準優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 準優勝<br />
+(2018-19 <a href="https://ja.wikipedia.org/wiki/ホンジュラス・プロサッカー・ナショナルリーグ" title="wikilink">リーガ・ナシオナル・デ・ホンジュラス</a> アペルトゥーラ優勝、クラウスーラ優勝)</p></td>
 <td><p>5回目</p></td>
 <td><p><a href="../Page/CONCACAFチャンピオンズリーグ2018.md" title="wikilink">2018</a></p></td>
 <td><p>1回戦<small>（<a href="../Page/CONCACAFチャンピオンズリーグ2018.md" title="wikilink">2018</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/CDオリンピア.md" title="wikilink">オリンピア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体3位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CONCACAFリーグ" title="wikilink">CONCACAFリーグ</a>2019 全体3位<br />
+(2018-19 リーガ・ナシオナル・デ・ホンジュラス アペルトゥーラ準優勝、クラウスーラ準優勝)</p></td>
 <td><p>11回目</p></td>
 <td><p><a href="../Page/CONCACAFチャンピオンズリーグ2018.md" title="wikilink">2018</a></p></td>
 <td><p>ベスト8<small>（<a href="https://ja.wikipedia.org/wiki/CONCACAFチャンピオンズリーグ2014-15" title="wikilink">2014-15</a>）</small></p></td>
@@ -166,7 +174,8 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャマイカサッカー連盟" title="wikilink">ジャマイカ</a> </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポートモア・ユナイテッドFC" title="wikilink">ポートモア・ユナイテッド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CFUクラブチャンピオンシップ" title="wikilink">CFUクラブチャンピオンシップ</a>2019 優勝</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CFUクラブチャンピオンシップ" title="wikilink">CFUクラブチャンピオンシップ</a>2019 優勝<br />
+(2017-18 <a href="https://ja.wikipedia.org/wiki/ジャマイカン・ナショナルプレミアリーグ" title="wikilink">ナショナルプレミアリーグ</a> 優勝)</p></td>
 <td><p>初出場</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -176,7 +185,11 @@
 
 ## トーナメント表
 
-<section begin=Bracket />
+準決勝までは、セカンドレグを終えて同点の場合、[アウェーゴールルール](https://ja.wikipedia.org/wiki/アウェーゴールルール "wikilink")が適用される。アウェーゴール数も並んだ場合は、[延長戦は行わず](https://ja.wikipedia.org/wiki/延長戦#サッカー "wikilink")[PK戦](../Page/PK戦.md "wikilink")で勝者を決定する。
+
+決勝では、アウェーゴールルールは適用されず、延長戦を実施する。延長戦でも決着がつかない場合は、PK戦で勝者を決定する。
+
+<section begin="Bracket" />
 
 <section end=Bracket />
 

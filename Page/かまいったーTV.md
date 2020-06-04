@@ -28,21 +28,23 @@ Twitter JAPAN株式会社と株式会社[Libalent](https://libalent.com/) が共
 
 2019年
 
-| 回      | 配信日   | ゲスト                                                                     | 配信                                                                    | 備考                                                                            |
-| ------ | ----- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **5**  | 1月9日  | [パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")           | [番組](https://twitter.com/KamaitterTV/status/1215245912466849792?s=20) |                                                                               |
-| **6**  | 1月23日 | [ミルクボーイ](https://ja.wikipedia.org/wiki/ミルクボーイ "wikilink")\[3\]          | [番組](https://twitter.com/KamaitterTV/status/1220317343810646016?s=20) |                                                                               |
-| **7**  | 2月6日  | [みちょぱ（池田美優）](https://ja.wikipedia.org/wiki/池田美優 "wikilink")             | [番組](https://twitter.com/KamaitterTV/status/1225388615917699072?s=20) | 初の芸人以外ゲスト                                                                     |
-| **8**  | 2月20日 | [ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク_\(お笑いコンビ\) "wikilink")    | [番組](https://twitter.com/KamaitterTV/status/1230296008560562176?s=20) | [バンドルカード](https://vandle.jp/)とコラボ                                             |
-| **9**  | 3月5日  | [ジャルジャル](../Page/ジャルジャル.md "wikilink")                                  | [番組](https://twitter.com/KamaitterTV/status/1235537923019124736?s=20) |                                                                               |
-| **10** | 3月19日 | 山内恭（山内の父親）                                                              | [番組](https://twitter.com/KamaitterTV/status/1240442866004082693?s=20) | [TSKとのコラボ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、島根から放送\[4\] |
-| **11** | 4月2日  | [コロコロチキチキペッパーズ](https://ja.wikipedia.org/wiki/コロコロチキチキペッパーズ "wikilink") | [番組](https://twitter.com/KamaitterTV/status/1245683927127224321?s=20) |                                                                               |
-| **12** | 4月16日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1250740842626560000?s=20) | 第1回の再放送\[5\]                                                                  |
-| **13** | 4月23日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1253278045244252160?s=20) | 第2回の再放送                                                                       |
+| 回      | 配信日   | ゲスト                                                                     | 配信                                                                    | 備考                                                                                                         |
+| ------ | ----- | ----------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **5**  | 1月9日  | [パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")           | [番組](https://twitter.com/KamaitterTV/status/1215245912466849792?s=20) |                                                                                                            |
+| **6**  | 1月23日 | [ミルクボーイ](https://ja.wikipedia.org/wiki/ミルクボーイ "wikilink")\[3\]          | [番組](https://twitter.com/KamaitterTV/status/1220317343810646016?s=20) |                                                                                                            |
+| **7**  | 2月6日  | [みちょぱ（池田美優）](https://ja.wikipedia.org/wiki/池田美優 "wikilink")             | [番組](https://twitter.com/KamaitterTV/status/1225388615917699072?s=20) | 初の芸人以外ゲスト                                                                                                  |
+| **8**  | 2月20日 | [ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク_\(お笑いコンビ\) "wikilink")    | [番組](https://twitter.com/KamaitterTV/status/1230296008560562176?s=20) | [バンドルカード](https://vandle.jp/)とコラボ                                                                          |
+| **9**  | 3月5日  | [ジャルジャル](../Page/ジャルジャル.md "wikilink")                                  | [番組](https://twitter.com/KamaitterTV/status/1235537923019124736?s=20) |                                                                                                            |
+| **10** | 3月19日 | 山内恭（山内の父親）                                                              | [番組](https://twitter.com/KamaitterTV/status/1240442866004082693?s=20) | [TSKとのコラボ](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、[島根から放送](../Page/島根県.md "wikilink")\[4\] |
+| **11** | 4月2日  | [コロコロチキチキペッパーズ](https://ja.wikipedia.org/wiki/コロコロチキチキペッパーズ "wikilink") | [番組](https://twitter.com/KamaitterTV/status/1245683927127224321?s=20) |                                                                                                            |
+| **12** | 4月16日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1250740842626560000?s=20) | 第1回の再放送\[5\]                                                                                               |
+| **13** | 4月23日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1253278045244252160?s=20) | 第2回の再放送                                                                                                    |
+| **14** | 4月30日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1255814259478429698?s=20) | 第3回の再放送                                                                                                    |
+| **15** | 5月15日 | [藤崎マーケット](../Page/藤崎マーケット.md "wikilink")                                | [番組](https://twitter.com/KamaitterTV/status/1260906086099333121?s=20) | リモート配信                                                                                                     |
 
 2020年
 
-第12・13回は新型コロナウイルスの影響により、再放送が行われた。
+第12・13・14回は[新型コロナウイルスの影響により](../Page/2019新型コロナウイルス.md "wikilink")、再放送が行われた。
 
 ## コーナー
 
@@ -74,9 +76,8 @@ Twitter JAPAN株式会社と株式会社[Libalent](https://libalent.com/) が共
 
 <references />
 
-## 外部リンク
+## 配信元
 
-  -
 [Category:Twitter](https://ja.wikipedia.org/wiki/Category:Twitter "wikilink") [Category:日本のWebバラエティ番組](https://ja.wikipedia.org/wiki/Category:日本のWebバラエティ番組 "wikilink") [Category:木曜日](https://ja.wikipedia.org/wiki/Category:木曜日 "wikilink") [Category:2019年](https://ja.wikipedia.org/wiki/Category:2019年 "wikilink")
 
 1.

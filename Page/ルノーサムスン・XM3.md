@@ -47,7 +47,8 @@ TCe260
 
 ## 関連項目
 
-  - [ルノー・アルカナ](../Page/ルノー・アルカナ.md "wikilink")- [兄弟車](https://ja.wikipedia.org/wiki/兄弟車 "wikilink")
+  - [ルノー・アルカナ](../Page/ルノー・アルカナ.md "wikilink") - [兄弟車](https://ja.wikipedia.org/wiki/兄弟車 "wikilink")
+  - [ルノー・キャプチャー](https://ja.wikipedia.org/wiki/ルノー・キャプチャー "wikilink") - ベースを共有する車種。韓国国内においては、ルノーサムスンが販売する。
   - [日産・CMF](https://ja.wikipedia.org/wiki/日産・CMF "wikilink")
 
 ## 外部リンク

@@ -14,8 +14,10 @@
 ### 2019年
 
   - 01月20日 ＋Sugar.1stワンマン～カノン生誕祭～開催。
-  - 06月 2曲目オリジナル曲「無糖、恋ドリップコーヒー。」披露。
-  - 08月25日 藤宮ももかが加入し7人体制となることが発表。
+  - 01月20日 初オリジナル曲「Bitter+Sweet world」披露。
+  - 03～04月 Tokyo candoll2019準決勝まで参加。
+  - 06月26日 2曲目オリジナル曲「無糖、恋ドリップコーヒー。」披露。
+  - 08月25日 藤宮ももかが加入し7人体制となる。
   - 08月25日 ＋Sugar.2nd oneman LIVE\!\!〜MEGUPI\&MELONA Birthday Party 2019〜開催。
   - 12月 3曲目オリジナル曲「始まりの合図」披露。
 
@@ -24,7 +26,8 @@
   - 02月02日 オリジナル曲である[Bitter+Sweet world](https://ja.wikipedia.org/wiki/Bitter+Sweet_world "wikilink")、[始まりの合図（サイン）](https://ja.wikipedia.org/wiki/始まりの合図（サイン） "wikilink")を配信開始\[1\]。
   - 02月02日 [Zirco Tokyoにて](../Page/Zirco_Tokyo.md "wikilink")＋Sugar. 3rd One-man LIVE\!\!〜カノン ・ネンBirth Day Special〜開催\[2\]\[3\]。
   - 02月03日 日刊スポーツ「NIKKAN SPORTSアイドル大好き♡キャンペーン」に参加\[4\]。
-  - 05月01日 "m voice"にて＋Sugar.を紹介\[5\]。
+  - 05月01日 "m voice"にて＋Sugar.紹介\[5\]。
+  - 05月12日 『自粛中でも繋がりを保ちたい！２曲入り配信シングル制作キャンペーン！！』[クラウドファンディング](https://ja.wikipedia.org/wiki/クラウドファンディング "wikilink")実施。\[6\]
 
 ## メンバー
 
@@ -75,7 +78,7 @@
 <td><p>さやっぴ<br />
 さやちゃん</p></td>
 <td></td>
-<td><p>10/06[6]</p></td>
+<td><p>10/06[7]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/B型" title="wikilink">B型</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/食べる" title="wikilink">食べる</a>こと<br />
 <a href="../Page/睡眠.md" title="wikilink">睡眠</a></p></td>
@@ -90,7 +93,7 @@
 <td><p>めろな<br />
 メロぴ</p></td>
 <td></td>
-<td><p>06/11[7]</p></td>
+<td><p>06/11[8]</p></td>
 <td><p>未定</p></td>
 <td><p><a href="../Page/カフェ.md" title="wikilink">カフェ</a>巡り</p></td>
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
@@ -102,7 +105,7 @@
 (YUMENO NEN)</p></td>
 <td><p>ねんちゃん</p></td>
 <td></td>
-<td><p>03/03[8]</p></td>
+<td><p>03/03[9]</p></td>
 <td><p>♡型</p></td>
 <td></td>
 <td><p><a href="../Page/オレンジ.md" title="wikilink">オレンジ</a><a href="../Page/王国.md" title="wikilink">王国</a></p></td>
@@ -122,14 +125,14 @@
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
 <td><p>セサ民</p></td>
 <td><p>しおまる<br />
-メルヘンおじさん大募集[9]</p></td>
+メルヘンおじさん大募集[10]</p></td>
 </tr>
 <tr class="odd">
 <td><p>藤宮 ももか<br />
 (FUJIMIYA MOMOKA)</p></td>
 <td><p>ちぇるちぇる</p></td>
 <td></td>
-<td><p>06/13[10]</p></td>
+<td><p>06/13[11]</p></td>
 <td></td>
 <td><p><a href="../Page/ゲーム.md" title="wikilink">ゲーム</a></p></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
@@ -166,6 +169,7 @@
   - Instagram
       - <span style="color:green">■</span>
       - <span style="color:white">■</span>  \* 黒崎かのん
+      - <span style="color:pink">■</span>
       - <span style="color:aqua">■</span>
       - <span style="color:orange">■</span>  \* 夢乃ねん
       - <span style="color:purple">■</span>
@@ -180,8 +184,9 @@
 3.
 4.
 5.
-6.  年齢非公開
+6.
 7.  年齢非公開
 8.  年齢非公開
-9.
-10. 年齢非公開
+9.  年齢非公開
+10.
+11. 年齢非公開

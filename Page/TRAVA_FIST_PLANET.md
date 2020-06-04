@@ -77,13 +77,13 @@
   - 絵コンテ - [今石洋之](../Page/今石洋之.md "wikilink")、小池健、[北久保弘之](../Page/北久保弘之.md "wikilink")、[山本沙代](https://ja.wikipedia.org/wiki/山本沙代 "wikilink")
   - 原画 - 奥田佳子、若月愛子、榎本結、長沢和好、矢崎優子、夘野一郎、堀剛史、[吉成曜](../Page/吉成曜.md "wikilink")、今石洋之、[吉松孝博](../Page/吉松孝博.md "wikilink")、林秀夫、高秀国男、江本正弘、仲澤崇仁、[浜崎博嗣](../Page/浜崎博嗣.md "wikilink")、加藤優、[野村和也](https://ja.wikipedia.org/wiki/野村和也 "wikilink")、[細田直人](../Page/細田直人.md "wikilink")
   - 色彩設計 - 鎌田千賀子
-  - 特殊効果 - 谷口久美子、鈴木さち
+  - 特殊効果 - 谷口久美子、鈴木さちこ
   - 撮影監督 - 山口仁、滝澤竜
   - 音楽 - [モーガン・フィッシャー](https://ja.wikipedia.org/wiki/モーガン・フィッシャー "wikilink")
   - 音楽プロデューサー - 山田勝也
   - 音響効果 - 野口透
-  - 編集 - 牧野由典
-  - アニメーション制作 - グラスホッパー、[マッドハウス](../Page/マッドハウス.md "wikilink")
+  - 編集 - 寺内聡、[伊藤佑喜子](../Page/有里紅良.md "wikilink")、木村佳史子、土屋さゆり、牧野由典
+  - アニメーション制作 - Grasshoppa\!、[マッドハウス](../Page/マッドハウス.md "wikilink")
 
 ## 主題歌
 

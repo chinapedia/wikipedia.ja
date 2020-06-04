@@ -53,7 +53,7 @@
 ## 外部リンク
 
   -
-[Category:オランダの数学者](https://ja.wikipedia.org/wiki/Category:オランダの数学者 "wikilink") [Category:チューリッヒ大学の教員](https://ja.wikipedia.org/wiki/Category:チューリッヒ大学の教員 "wikilink") [Category:ゲッティンゲン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ゲッティンゲン大学出身の人物 "wikilink") [Category:アムステルダム大学の教員](https://ja.wikipedia.org/wiki/Category:アムステルダム大学の教員 "wikilink") [Category:ライプツィヒ大学の教員](https://ja.wikipedia.org/wiki/Category:ライプツィヒ大学の教員 "wikilink") [Category:代数学者](https://ja.wikipedia.org/wiki/Category:代数学者 "wikilink") [Category:20世紀の歴史家](https://ja.wikipedia.org/wiki/Category:20世紀の歴史家 "wikilink") [Category:1996年没](https://ja.wikipedia.org/wiki/Category:1996年没 "wikilink") [Category:1903年生](https://ja.wikipedia.org/wiki/Category:1903年生 "wikilink") [Category:未査読の翻訳があるページ](https://ja.wikipedia.org/wiki/Category:未査読の翻訳があるページ "wikilink")
+[Category:オランダの数学者](https://ja.wikipedia.org/wiki/Category:オランダの数学者 "wikilink") [Category:チューリッヒ大学の教員](https://ja.wikipedia.org/wiki/Category:チューリッヒ大学の教員 "wikilink") [Category:アムステルダム大学の教員](https://ja.wikipedia.org/wiki/Category:アムステルダム大学の教員 "wikilink") [Category:ライプツィヒ大学の教員](https://ja.wikipedia.org/wiki/Category:ライプツィヒ大学の教員 "wikilink") [Category:代数学者](https://ja.wikipedia.org/wiki/Category:代数学者 "wikilink") [Category:20世紀の歴史家](https://ja.wikipedia.org/wiki/Category:20世紀の歴史家 "wikilink") [Category:ゲッティンゲン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ゲッティンゲン大学出身の人物 "wikilink") [Category:アムステルダム出身の人物](https://ja.wikipedia.org/wiki/Category:アムステルダム出身の人物 "wikilink") [Category:1996年没](https://ja.wikipedia.org/wiki/Category:1996年没 "wikilink") [Category:1903年生](https://ja.wikipedia.org/wiki/Category:1903年生 "wikilink") [Category:未査読の翻訳があるページ](https://ja.wikipedia.org/wiki/Category:未査読の翻訳があるページ "wikilink")
 
 1.
 2.

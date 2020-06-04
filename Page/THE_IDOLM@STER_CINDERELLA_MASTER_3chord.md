@@ -83,7 +83,7 @@
 
   - [THE IDOLM@STER CINDERELLA MASTER 3chord for the Pops\!](https://columbia.jp/idolmaster/COCC-17693.html)
 
-[Category:アイドルマスターの音楽](https://ja.wikipedia.org/wiki/Category:アイドルマスターの音楽 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:キャラクターソングのシリーズ](https://ja.wikipedia.org/wiki/Category:キャラクターソングのシリーズ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:アイドルマスターのシングルシリーズ](https://ja.wikipedia.org/wiki/Category:アイドルマスターのシングルシリーズ "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.

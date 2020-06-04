@@ -85,16 +85,15 @@
 27. 帰り道 -ENCORE INTER-
 28. **[BLUE](https://ja.wikipedia.org/wiki/BLUE_\(NEWSの曲\) "wikilink")**
 
-## 特典映像（通常盤のみ）
+### 通常盤特典映像 ＜SPECIAL REEL＞
 
-  - COUNTDOWN LIVE at KYOCERA DOME OSAKAより
+Disc 2
 
-<!-- end list -->
-
-1.  **[シンデレラガール](https://ja.wikipedia.org/wiki/シンデレラガール_\(曲\) "wikilink")**
-2.  **[大阪ロマネスク](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**
-3.  **[ええじゃないか](https://ja.wikipedia.org/wiki/ええじゃないか_\(曲\) "wikilink")**
-4.  **[Venus](../Page/Venus_\(タッキー&翼の曲\).md "wikilink")**
+1.  **COUNTDOWN LIVE** at KYOCERA DOME OSAKAより
+    1.  **[シンデレラガール](https://ja.wikipedia.org/wiki/シンデレラガール_\(曲\) "wikilink")**
+    2.  **[大阪ロマネスク](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**
+    3.  **[ええじゃないか](https://ja.wikipedia.org/wiki/ええじゃないか_\(曲\) "wikilink")**
+    4.  **[Venus](../Page/Venus_\(タッキー&翼の曲\).md "wikilink")**
 
 ## 脚注
 

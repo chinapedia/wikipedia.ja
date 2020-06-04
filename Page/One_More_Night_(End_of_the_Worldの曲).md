@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - **日本を除く**諸外国の[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[Amazon Musicなどのデジタルミュージックストアで購入できるほか](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")や[Apple Musicなどの定額制音楽ストリーミングサービスでも聞くことが出来る](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")。また、SoundCloudでもリミックスを含むすべてのバージョンを聞くことができる。
-  - 日本においては、定額制音楽ストリーミングサービスのなかでSpotifyのみで聞くことができる。
+  - **日本を除く**諸外国の[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[Amazon Musicなどのデジタルミュージックストアで購入できるほか](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")、[Apple Musicに代表される定額制音楽ストリーミングサービスでも聞くことができる](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")。また、[SoundCloud](https://ja.wikipedia.org/wiki/SoundCloud "wikilink")でもリミックスを含むすべてのバージョンを聞くことができる。
+  - 日本においては、定額制音楽ストリーミングサービスのなかで[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")のみで聞くことができる。
   - 通常バージョンと5つリミックスバージョンの合計6種類存在する。
 
 ## 収録曲
@@ -15,13 +15,13 @@
 
 1.  One More Night
 
-2017年4月28日発売。通常バージョン。YouTubeにミュージックビデオがあり、親交のあるバンド・DNCEが出演している。\[1\]
+2017年4月28日発売。通常バージョン。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にミュージックビデオがあり、親交のあるバンド・[DNCE](../Page/DNCE.md "wikilink")が出演している。\[1\]
 
 ### One More Night (Tep No Remix)
 
 1.  One More Night (Tep No Remix)
 
-カナダのトラックメイカーTep Noによるリミックス。
+[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のトラックメイカーTep Noによるリミックス。
 
 ### One More Night (Gray Remix)
 

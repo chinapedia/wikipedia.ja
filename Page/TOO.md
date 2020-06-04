@@ -5,7 +5,7 @@
 
 ## 概要
 
-TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink")[n.CH Entertainmentのサバイバル番組](../Page/N.CHエンターテイメント.md "wikilink")｢TO BE WORLD KLASS｣から誕生した。グループ名のTOOは｢Ten Oriented Orchestra｣の略で、｢10の東洋の価値観を目指すオーケストラ｣という意味が込められている。
+TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink")[n.CH Entertainmentのサバイバル番組](../Page/N.CHエンターテイメント.md "wikilink")｢TO BE WORLD KLASS｣から誕生した。グループ名のTOOは｢Ten Oriented Orchestra｣の略で、｢10の東洋の価値観を目指すオーケストラ｣という意味が込められている。グループ内の世界観は、宇宙万物を成す木・金・土・火・水、すなわち、五行の中心に東洋的価値を追求していこうという意志が込められている。
 
 ## 来歴
 
@@ -36,6 +36,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：A型</li>
 <li>国籍：</li>
 <li>ポジション：ボーカル・ラッパー・プロデュース</li>
+<li>担当の価値観：묵(墨)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -46,6 +47,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：メインボーカル</li>
+<li>担当の価値観：신(信)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -56,6 +58,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：O型</li>
 <li>国籍：</li>
 <li>ポジション：メインダンサー・ラッパー・プロデュース</li>
+<li>担当の価値観:예(禮)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -66,6 +69,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：ダンサー・ボーカル</li>
+<li>担当の価値観：수(數)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -76,6 +80,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：ダンサー・ボーカル</li>
+<li>担当の価値観：심(心)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -87,6 +92,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>国籍：</li>
 <li>学歴：구암중학교(龜巖中等學校)</li>
 <li>ポジション：リーダー・メインボーカル</li>
+<li>担当の価値観：의(義)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -97,16 +103,18 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：ラッパー</li>
+<li>担当の価値観：인(仁)</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>ギュンホ(KYUNG HO、경호)</strong></p></td>
+<td><p><strong>ギョンホ(KYUNG HO、경호)</strong></p></td>
 <td><ul>
-<li>本名：장경호(チャン・ギュンホ)</li>
+<li>本名：장경호(チャン・ギョンホ)</li>
 <li>生年月日：</li>
 <li>血液型：A型</li>
 <li>国籍：</li>
 <li>ポジション：メインダンサー・ボーカル</li>
+<li>担当の価値観：덕(徳)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -117,6 +125,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：O型</li>
 <li>国籍：</li>
 <li>ポジション：ボーカル</li>
+<li>担当の価値観：생명(生命)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -128,6 +137,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>国籍：</li>
 <li>学歴：翰林演芸芸術高等学校</li>
 <li>ポジション：ボーカル</li>
+<li>担当の価値観：지(知)</li>
 </ul></td>
 </tr>
 </tbody>
@@ -143,6 +153,10 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <th><p>No.</p></th>
 <th><p>タイトル</p></th>
 <th><p>収録曲</p></th>
+<th><p><span style="font-size:80%">Gaon<br />
+チャート<br />
+（週間）</span></p></th>
+<th><p>売上枚数</p></th>
 </tr>
 </thead>
 <tbody>
@@ -157,6 +171,10 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>기억해요 (Remember)</li>
 <li>You Can't Hurry Love</li>
 </ol></td>
+<td><p>4位<br />
+[4]</p></td>
+<td><p>11,043枚<br />
+[5]</p></td>
 </tr>
 </tbody>
 </table>
@@ -196,8 +214,10 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
   -
   -
   -
-[Category:韓国の音楽](https://ja.wikipedia.org/wiki/Category:韓国の音楽 "wikilink")
+[Category:韓国の音楽](https://ja.wikipedia.org/wiki/Category:韓国の音楽 "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink") [Category:韓国のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:韓国のボーイ・バンド "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink")
 
 1.  [グローバルK-POPアイドルの成長ダイアリー「TO BE WORLD KLASS」Mnetにて10月4日より日韓リアルタイム配信決定](https://news.kstyle.com/m/article.ksn?articleNo=2126779) Kstyle 2020年4月27日閲覧。
 2.  [サバイバル番組「World Klass」デビューグループTOO、10人の最終メンバーがついに決定](https://news.kstyle.com/m/article.ksn?articleNo=2131961) Kstyle 2020年4月27日閲覧。
 3.  [TOO、タイトル曲「Magnolia」MVを先行公開…キレのある群舞に釘付け](https://news.kstyle.com/m/article.ksn?articleNo=2139864) Kstyle 2020年4月27日閲覧。
+4.  \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=14&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年3月29日\~2020年4月4日\]
+5.  \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2020&termGbn=month>　Gaonアルバム月間チャート2020年4月\]

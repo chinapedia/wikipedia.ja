@@ -19,7 +19,7 @@
   - **ベース(Base)**, これは、ユーザーが独自にアプリケーションを組み合わせてインストールすることが可能である。AntiX base はベースシステムを含む。フルフレーバーに含まれる4つのウィンドウマネージャが全て付属する\[6\]。
   - **コア（Core-libre）**, これは、ユーザーが自分の意志で完全に自由なインストールを行えるようにするものである。AntiX core はコアシステムのみである。ウィンドウマネージャなし、CLIインストール、UEFIサポートなし、暗号化サポートなしであるが、ほとんどのワイヤレスに対応しており、サイズ的には非常に小さい\[7\]。
 
-これらの 3 つのバージョンは、2014年、[MEPIS](../Page/MEPIS.md "wikilink") コミュニティと協力して開発された antiX MX で合流した。デフォルトのデスクトップ環境として [Xfce](../Page/Xfce.md "wikilink") を使用しており、 [Debian](../Page/Debian.md "wikilink")安定版を直接ベースにしているためにとりわけ安定性が高く、中規模のフットプリントから堅実なパフォーマンスを発揮する。2016年11月現在、 [MX Linux](../Page/MX_Linux.md "wikilink") は DistroWatch で[１個の独立したディストリビューション](http://distrowatch.com/table.php?distribution=mx)立したディストロとしてリストアップされるようになった。\[8\]
+これらの 3 つのバージョンは、2014年、[MEPIS](../Page/MEPIS.md "wikilink") コミュニティと協力して開発された antiX MX で合流した。デフォルトのデスクトップ環境として [Xfce](../Page/Xfce.md "wikilink") を使用しており、 [Debian](../Page/Debian.md "wikilink")安定版を直接ベースにしているためにとりわけ安定性が高く、中規模のフットプリントから堅実なパフォーマンスを発揮する。2016年11月現在、 [MX Linux](../Page/MX_Linux.md "wikilink") は DistroWatch で[１個の独立したディストリビューション](http://distrowatch.com/table.php?distribution=mx)としてリストアップされるようになった。\[8\]
 
 ## リリースの歴史
 

@@ -1,7 +1,7 @@
 > この記事は[中華人民共和国でブロックされたWebサイトのリスト](https://ja.wikipedia.org/wiki/中華人民共和国でブロックされたWebサイトのリスト)から翻訳されています。
 
 
-中華人民共和国政府は、中国本土にある[サーバ](../Page/サーバ.md "wikilink")でホストされている多くのWebサイトを閉鎖しました。また、管轄区域外にある[グレート・ファイアウォール](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")によって耐火されたサイト（主に中国のサイト）があります（  ）全体または一部をブロックします。一部は主に本土のユーザーを対象としています。ブロックした後のユーザーの損失は、Webサイトの運用を継続できないためです。
+中華人民共和国政府は、中国本土にある[サーバ](../Page/サーバ.md "wikilink")でホストされている多くのWebサイトを閉鎖しました。また、管轄区域外にある[グレート・ファイアウォール](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")によってブロックされたサイト（主に中国のサイト）があります（  ）全体または一部をブロックします。一部は主に本土のユーザーを対象としています。ブロックした後のユーザーの損失は、Webサイトの運用を継続できないためです。
 
 以下は、よく知られているブロックされた（閉じられたものとブロックされたものを含む）Webサイト、またはWebサイトのすべてのメディアと組織のリストです。その中で、[チャイナモバイルは万里の長城のブラックリストに基づいて独自のブラックリスト](../Page/中国移動通信.md "wikilink")（一般に「ウォールインザウォール」として知られています）を追加したため、[チャイナユニコムやチャイナテレコムよりも](../Page/中国聯合通信.md "wikilink")、[チャイナモバイルのブロードバンドおよびデータネットワークでアクセスできない海外のWebサイトが多くなっています](../Page/中国移動通信.md "wikilink")。
 
@@ -101,7 +101,7 @@
   - [Googleアカウント](https://ja.wikipedia.org/wiki/Googleアカウント "wikilink")
   - [グーグル](https://ja.wikipedia.org/wiki/グーグル "wikilink")
   - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
-  - [グーグルプレイ](https://ja.wikipedia.org/wiki/グーグルプレイ "wikilink")
+  - [Google Play](https://ja.wikipedia.org/wiki/グーグルプレイ "wikilink")
   - [Gmail](../Page/Gmail.md "wikilink")
   - [Googleコンタクト](https://ja.wikipedia.org/wiki/Googleコンタクト "wikilink")
   - [グーグルドライブ](https://ja.wikipedia.org/wiki/グーグルドライブ "wikilink")
@@ -138,7 +138,7 @@
   - [Zinio](https://ja.wikipedia.org/wiki/Zinio "wikilink")
   - [Break.com](https://ja.wikipedia.org/wiki/Break.com "wikilink")
   - [ダウム](https://ja.wikipedia.org/wiki/ダウム "wikilink")
-  - cnYES[钜亨网](https://ja.wikipedia.org/wiki/钜亨网 "wikilink")
+  - cnYES[鉅亨网](https://ja.wikipedia.org/wiki/鉅亨网 "wikilink")
   - [PressReader](https://ja.wikipedia.org/wiki/PressReader "wikilink")
 
 #### オンラインゲーム
@@ -288,7 +288,7 @@
       - [オリエンタルデイリー](https://ja.wikipedia.org/wiki/オリエンタルデイリー "wikilink")
       - [イーストネットTV](https://ja.wikipedia.org/wiki/イーストネットTV "wikilink")
   - [新聞](../Page/新聞.md "wikilink")
-      - [太陽](../Page/太陽.md "wikilink")（香港）
+      - 太陽（香港）
   - [香港経済ジャーナル](https://ja.wikipedia.org/wiki/香港経済ジャーナル "wikilink")
   - [ミン・パオ](https://ja.wikipedia.org/wiki/ミン・パオ "wikilink")
       - [ミンパオニュースネットワーク海外版](https://ja.wikipedia.org/wiki/ミンパオニュースネットワーク海外版 "wikilink")
@@ -592,9 +592,9 @@
 <div style="{{column-count|3}}">
 
   - [HTC](https://ja.wikipedia.org/wiki/HTC "wikilink")携帯電話（香港および台湾を含む、外国のライセンス済み）天気予報サーバー（htc.accuweather.com、[AccuWeather](https://ja.wikipedia.org/wiki/AccuWeather "wikilink")提供）
-  - [アマゾン](https://ja.wikipedia.org/wiki/亞馬遜公司 "wikilink") （images-na.ssl-images-amazon.com、sellercentral.amazon.com、corvo-reports.s3.amazonaws.com、sellercentral.amazon.com、unagi-na.amazon.com、fls-na.amazon。com、m.media-amazon.com、www.amazon.com）
+  - [Amazon](../Page/Amazon.com.md "wikilink") （images-na.ssl-images-amazon.com、sellercentral.amazon.com、corvo-reports.s3.amazonaws.com、sellercentral.amazon.com、unagi-na.amazon.com、fls-na.amazon。com、m.media-amazon.com、www.amazon.com）
   - Fastly（すべての所属IPの断続的なブロック）
-  - [Yahoo](https://ja.wikipedia.org/wiki/雅虎 "wikilink") Weather Server（weather.yahooapis.com）
+  - [Yahoo](../Page/Yahoo!.md "wikilink") Weather Server（weather.yahooapis.com）
   - [Jack'd](https://ja.wikipedia.org/wiki/Jack'd "wikilink")画像サーバーと多数の[地理位置情報サービスおよび](https://ja.wikipedia.org/wiki/基于位置的服务 "wikilink")[ソーシャルネットワーキングサービス](https://ja.wikipedia.org/wiki/社交網路服務 "wikilink")
   - [コメディセンター](https://ja.wikipedia.org/wiki/喜劇中心 "wikilink") （cc.com）
   - [LiveJournal](https://ja.wikipedia.org/wiki/LiveJournal "wikilink")
@@ -704,7 +704,7 @@
 
 <div style="{{column-count|3}}">
 
-2013年、万里の長城の防火はいくつかのウェブサイトのブロックを解除しました。
+2013年、[グレートファイアウォールはいくつかのウェブサイトのブロックを解除しました](https://ja.wikipedia.org/wiki/グレート・ファイアウォール "wikilink")。
 
   - [GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink") （gist.github.comを除く。封鎖はオンライン抗議の後で解除されたが、それでも新疆とチベットのDNSによって汚染されている。）
 
@@ -718,7 +718,7 @@
 
   - [Python](../Page/Python.md "wikilink") （python.org/download、2月）
 
-  - [フル](https://ja.wikipedia.org/wiki/フル "wikilink") （2月）
+  - [Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink") （2月）
 
   - [aNobii](https://ja.wikipedia.org/wiki/aNobii "wikilink") （2月）
 
@@ -770,7 +770,7 @@
 
 ### これまで閉鎖
 
-  - [Niubo](https://ja.wikipedia.org/wiki/Niubo "wikilink")が2006年7月に作成したブログサイト[罗永浩](https://ja.wikipedia.org/wiki/罗永浩 "wikilink")は、自由由主義的な知識人のグループを集め、いくつかの公開トピックについての議論を組織し、当局に異議を唱えました。[RAN Yunfei](https://ja.wikipedia.org/wiki/RAN_Yunfei "wikilink")、[梁文道](https://ja.wikipedia.org/wiki/梁文道 "wikilink")、[艾未未](https://ja.wikipedia.org/wiki/艾未未 "wikilink")、[王山](https://ja.wikipedia.org/wiki/王山 "wikilink")、[莫之许](https://ja.wikipedia.org/wiki/莫之许 "wikilink")、Wuyue Sanren、10年の薪割り、Adingなどのブログの作者が参加しました。[Charter 08](https://ja.wikipedia.org/wiki/Charter_08 "wikilink")。2009年1月9日、中国のNiuboのサーバーがシャットダウンされました。
+  - [Niubo](https://ja.wikipedia.org/wiki/Niubo "wikilink")が2006年7月に作成したブログサイト[羅永浩](https://ja.wikipedia.org/wiki/羅永浩 "wikilink")は、自由主義的な知識人のグループを集め、いくつかの公開トピックについての議論を組織し、当局に異議を唱えました。[冉雲飛](https://ja.wikipedia.org/wiki/冉雲飛 "wikilink")、[梁文道](https://ja.wikipedia.org/wiki/梁文道 "wikilink")、[艾未未](https://ja.wikipedia.org/wiki/艾未未 "wikilink")、[王山](https://ja.wikipedia.org/wiki/王山 "wikilink")、[莫之許](https://ja.wikipedia.org/wiki/莫之許 "wikilink")、[五岳散人](https://ja.wikipedia.org/wiki/五岳散人 "wikilink")、10年の薪割り、Adingなどのブログの作者が参加しました。[零八憲章](https://ja.wikipedia.org/wiki/零八憲章 "wikilink")。2009年1月9日、中国のNiuboのサーバーがシャットダウンされました。
   - 「Skynet Searching for People」（海外では「[四四天网](https://ja.wikipedia.org/wiki/四四天网 "wikilink")」として知られています）とそのトレンドフォーラム（Huang Qiが議長を務め、2000年3月31日に完全に閉鎖）。
   - 2016年7月19日、有名な脆弱性報告プラットフォーム[Wuyun.comが突然閉鎖され](https://ja.wikipedia.org/wiki/Wuyun（Vulnerability_Reporting_Platform） "wikilink")、Wuyun.comの創設者が逮捕されました。
   - [燕南网](https://ja.wikipedia.org/wiki/燕南网 "wikilink")とそのBBSは2005年9月30日に閉鎖されます。
@@ -791,24 +791,20 @@
   - 2007年9月20日、[Yunnan Wenshan Native Qidu Grassroots Forumは](https://ja.wikipedia.org/wiki/Yunnan_Wenshan_Native_Qidu_Grassroots_Forum "wikilink")、政府による民間企業への幼稚園の売却、雲南省文山県の汚職と贈収賄によって引き起こされた請願、瞑想、ストライキ、および以前の事件について報告しました当時、警察は2つのポストを投稿しており、9月26日の朝に強制的に閉鎖された。
   - 2016年9月3日、若者を主体とした【破土网】が底辺の運命への注目と批判的思考が閉鎖された。
   - 2016年10月1日、[Consensus Networkは閉鎖を命じられました](https://ja.wikipedia.org/wiki/Consensus_Network "wikilink")。その編集長Zhou Zhixingはソーシャルプラットフォームで、当局がコンセンサスネットワークを閉鎖することを望んでいることを明らかにしました。これは間違ったアイデアを渡すためのプラットフォームであると私たちは信じており、それを閉鎖するのは無力です。
-  - 2017年4月2日、中国の同性愛向け出会い系サイト[赞赞](https://ja.wikipedia.org/wiki/赞赞 "wikilink")とそのソフトウェアzankは、国立インターネット情報局によってブロックされるように注文されました。
+  - 2017年4月2日、中国の同性愛向け出会い系サイト[贊贊](https://ja.wikipedia.org/wiki/贊贊 "wikilink")とそのソフトウェアzankは、国立インターネット情報局によってブロックされるように注文されました。
   - 2018年4月10日、[意味のある段落](https://ja.wikipedia.org/wiki/意味のある段落 "wikilink")の閉鎖が命じられました。
-
-</div>
 
 ### 閉鎖
 
-  - [ユートピアの故郷](https://ja.wikipedia.org/wiki/ユートピアの故郷 "wikilink")は、[王立军事](https://ja.wikipedia.org/wiki/王立军事 "wikilink") Chongqing Municipal Party Committee Secretary [Bo XilaiがWuyou](https://ja.wikipedia.org/wiki/Bo_Xilai "wikilink") Zhixiang事務所から削除されたため、2012年3月に国内の有名な[Mao Zedong Thought](https://ja.wikipedia.org/wiki/Mao_Zedong_Thought "wikilink") Webサイトでした。臨時休業いたしました。2012年に第18回中国全国大会が閉会した直後に再開されました。
+  - [ユートピアの故郷](https://ja.wikipedia.org/wiki/ユートピアの故郷 "wikilink")は、[王立軍](https://ja.wikipedia.org/wiki/王立軍 "wikilink") Chongqing Municipal Party Committee Secretary [薄熙来](../Page/薄熙来.md "wikilink")がWuyou Zhixiang事務所から削除されたため、2012年3月に国内の有名な[Mao Zedong Thought](https://ja.wikipedia.org/wiki/Mao_Zedong_Thought "wikilink") Webサイトでした。臨時休業いたしました。2012年に第18回中国全国大会が閉会した直後に再開されました。
   - ぎこちない[嘀gur](https://ja.wikipedia.org/wiki/嘀gur "wikilink")。中国の有名な[微ブログ](https://ja.wikipedia.org/wiki/微ブログ "wikilink")ウェブサイト。2009年7月22日にファンNoの後、同時に閉鎖されました。どちらのホームページも維持されているとのことで、再開時間はありませんでした。ムターは後に10月26日に再開した。
-  - [译言](https://ja.wikipedia.org/wiki/译言 "wikilink")、中国語のオンライン翻訳プラットフォーム。2009年末に閉鎖され、2010年に再開されました。
+  - [譯言](https://ja.wikipedia.org/wiki/譯言 "wikilink")、中国語のオンライン翻訳プラットフォーム。2009年末に閉鎖され、2010年に再開されました。
   - [時光网](https://ja.wikipedia.org/wiki/時光网 "wikilink")、映画レビューサイト。
   - [ご飯](https://ja.wikipedia.org/wiki/ご飯 "wikilink")、中国のソーシャルネットワーキングサイト（500日の閉鎖後に復元）。
-  - [一トウ糊塗BBS](../Page/一トウ糊塗BBS.md "wikilink")は2004年9月に閉鎖され、2007年1月に再開されました。
-  - [中国選挙・統治ネットワーク](https://ja.wikipedia.org/wiki/中国選挙・統治ネットワーク "wikilink")は、[王立军事](https://ja.wikipedia.org/wiki/王立军事 "wikilink")と[博熙来](https://ja.wikipedia.org/wiki/博熙来 "wikilink")に関する不適切な発言により修正のため閉鎖され、ウェブページは「メンテナンス中」と表示され、アクセスは後で復元されました。
+  - [一塌糊塗BBSは](../Page/一トウ糊塗BBS.md "wikilink")2004年9月に閉鎖され、2007年1月に再開されました。
+  - [中国選挙・統治ネットワーク](https://ja.wikipedia.org/wiki/中国選挙・統治ネットワーク "wikilink")は、[王立軍](https://ja.wikipedia.org/wiki/王立軍 "wikilink")と[薄熙来](../Page/薄熙来.md "wikilink")に関する不適切な発言により修正のため閉鎖され、ウェブページは「メンテナンス中」と表示され、アクセスは後で復元されました。
   - 有料の音声質問応答サービス[分分](https://ja.wikipedia.org/wiki/分分 "wikilink")は2016年8月10日に閉鎖されました。これは、サイトで機密性の高い問題について誰かが話していることに関連していると考えられています。9月28日、分割回答がオンラインに戻りました。
-  - 2018年5月8日、[レイジコミック](https://ja.wikipedia.org/wiki/レイジコミック "wikilink")は、58秒の長さの投稿に対して「侮辱的」であると見なされた殉教者[ドンカンルイ](https://ja.wikipedia.org/wiki/ドンカンルイ "wikilink")、[叶挺](https://ja.wikipedia.org/wiki/叶挺 "wikilink")のビデオとしてリリースされました。ウェブサイトをシャットダウンします。2018年7月16日、公式の修正が完了し、お詫びの手紙が発行され、公式Webサイトへのアクセスが再開されました。
-
-</div>
+  - 2018年5月8日、[レイジコミック](https://ja.wikipedia.org/wiki/レイジコミック "wikilink")は、58秒の長さの投稿に対して「侮辱的」であると見なされた殉教者[ドンカンルイ](https://ja.wikipedia.org/wiki/ドンカンルイ "wikilink")、[葉挺](https://ja.wikipedia.org/wiki/葉挺 "wikilink")のビデオとしてリリースされました。ウェブサイトをシャットダウンします。2018年7月16日、公式の修正が完了し、お詫びの手紙が発行され、公式Webサイトへのアクセスが再開されました。
 
 ## 関連項目
 

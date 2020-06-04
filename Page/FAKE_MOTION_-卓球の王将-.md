@@ -1,11 +1,12 @@
 > この記事は[FAKE MOTION -卓球の王将-](https://ja.wikipedia.org/wiki/FAKE_MOTION_-卓球の王将-)から翻訳されています。
 
 
-『**FAKE MOTION -卓球の王将-**』（フェイク・モーション ）は、[2020年](../Page/2020年.md "wikilink")4月8日から[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系で放送中の連続ドラマ。
+『**FAKE MOTION -卓球の王将-**』（フェイク・モーション ）は、[2020年](../Page/2020年.md "wikilink")4月8日から[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系で放送中の連続ドラマ。 本項では、2020年から続いている舞台作品・およびそれらを主軸とした総合エンターテインメントプロジェクトである『FAKE MOTION -卓球の王将-』についても併せて説明する。
 
 ## 概要
 
-[EBiDAN](https://ja.wikipedia.org/wiki/EBiDAN "wikilink")による新たな総合エンタテインメントプロジェクト「FAKE MOTION -卓球の王将-」の一環として企画・制作され、テレビドラマ、漫画、音楽、SNSなど様々なメディアで展開する完全オリジナル作 \[1\] \[2\]
+[EBiDAN](https://ja.wikipedia.org/wiki/EBiDAN "wikilink")による新たな総合エンタテインメントプロジェクト「FAKE MOTION -卓球の王将-」の一環として企画・制作され、テレビドラマ、漫画、音楽、舞台、SNSなど様々なメディアで展開する完全オリジナル作 \[1\]\[2\]。
+
 時代は、空前の[卓球](../Page/卓球.md "wikilink")ブームにより“[卓球](../Page/卓球.md "wikilink")戦国時代”と化した東京。 勉強や喧嘩の強さではなく[卓球](../Page/卓球.md "wikilink")の勝敗で優劣を決められてしまう世界で東東京の頂点に君臨する薩川大学付属渋谷高校は、東東京全ての高校を理不尽に支配している。 そんな時代を終わらせるべく、王者薩川に戦いを挑むのが恵比寿長門学園、通称エビ高。 激しいピンポンバトルを繰り広げる高校生たちのshou戦いや友情を描く。
 
 登場人物の名前が幕末に活躍した人物の名前に由来している。
@@ -30,7 +31,7 @@
 
 :; 槇原 遊
 
-:: 演 - [髙松アロハ](https://ja.wikipedia.org/wiki/髙松アロハ "wikilink")
+:: 演 - [髙松アロハ](https://ja.wikipedia.org/wiki/高松アロハ "wikilink")
 
 :: 二軍。
 
@@ -62,13 +63,13 @@
 
 :: エース。通称コウ様。
 
-:; 高杉 律（たかすぎ　りつ）（由来は騎兵隊の[高杉晋作](../Page/高杉晋作.md "wikilink")）
+:; 高杉 律（たかすぎ　りつ）（由来は奇兵隊の[高杉晋作](../Page/高杉晋作.md "wikilink")）
 
   -
 
       -
         演 - [佐野勇斗](https://ja.wikipedia.org/wiki/佐野勇斗 "wikilink")
-        通称リッツ。特殊能力（ギフテッド）は「無.1秒先の未来が見える絶対時間」
+        通称リッツ。特殊能力（ギフテッド）は「0.1秒先の未来が見える絶対時間」
 
   - 3年
 
@@ -117,6 +118,8 @@
 
 :: エース。
 
+::ギフテッドはラケットをも破壊する「ボルケーノスマッシュ」
+
 :; 大久保 利一（おおくぼ　としかず）（由来は[大久保利通](../Page/大久保利通.md "wikilink")）
 
   -
@@ -159,7 +162,9 @@
 
 :; 沖田 彩（おきた　あや）（由来は[沖田総司](../Page/沖田総司.md "wikilink")）
 
-:: 演 - [矢部昌暉](https://ja.wikipedia.org/wiki/矢部昌暉 "wikilink")
+:: 演 - [矢部昌暉](https://ja.wikipedia.org/wiki/矢部昌暉 "wikilink")（幼少期 : [柴崎楓雅](../Page/柴崎楓雅.md "wikilink")）
+
+:: ギフテッドは相手の感情を色で読み取る「カラージャッジ」
 
 :; 市村 辰（いちむら　たつつ）(由来は[市村辰之助](https://ja.wikipedia.org/wiki/市村辰之助 "wikilink")）
 
@@ -240,16 +245,17 @@
 
 ## スタッフ
 
-  - 企画・原案：[汐留ヱビス商店街](https://ja.wikipedia.org/wiki/汐留ヱビス商店街 "wikilink")「FAKE MOTION -卓球の王将-」
+  - 企画・原案：汐留ヱビス商店街「FAKE MOTION -卓球の王将-」
   - 主題歌：FAKE MOTION　/　King of Ping Pong
   - 語り : [花江夏樹](https://ja.wikipedia.org/wiki/花江夏樹 "wikilink")
-  - 監督：[河合勇人](https://ja.wikipedia.org/wiki/河合勇人 "wikilink")、[千村利光](https://ja.wikipedia.org/wiki/千村利光 "wikilink")
+  - 監督：[河合勇人](https://ja.wikipedia.org/wiki/河合勇人 "wikilink")、千村利光
   - 脚本：[小山正太](https://ja.wikipedia.org/wiki/小山正太 "wikilink")
   - 音楽：[牧戸太郎](https://ja.wikipedia.org/wiki/牧戸太郎 "wikilink")
-  - エグゼクティブプロデューサー：[沢桂一](https://ja.wikipedia.org/wiki/沢桂一 "wikilink")、[藤下良司](https://ja.wikipedia.org/wiki/藤下良司 "wikilink")
-  - 制作：[南波昌人](https://ja.wikipedia.org/wiki/南波昌人 "wikilink")、[高谷和男](https://ja.wikipedia.org/wiki/高谷和男 "wikilink")、[鈴木謙一](https://ja.wikipedia.org/wiki/鈴木謙一 "wikilink")
-  - 企画プロデュース：[植野浩之](https://ja.wikipedia.org/wiki/植野浩之 "wikilink")、[川邊昭宏](https://ja.wikipedia.org/wiki/川邊昭宏 "wikilink")
-  - プロデューサー：[前田直敬](https://ja.wikipedia.org/wiki/前田直敬 "wikilink")、[水田貴久](https://ja.wikipedia.org/wiki/水田貴久 "wikilink")、[森田美桜](https://ja.wikipedia.org/wiki/森田美桜 "wikilink")
+  - 振付：[あさづきかなみ](https://ja.wikipedia.org/wiki/あさづきかなみ "wikilink")
+  - エグゼクティブプロデューサー：沢桂一、藤下良司
+  - 制作：南波昌人、[高谷和男](https://ja.wikipedia.org/wiki/高谷和男 "wikilink")、[鈴木謙一](https://ja.wikipedia.org/wiki/鈴木謙一 "wikilink")
+  - 企画プロデュース：植野浩之、[川邊昭宏](https://ja.wikipedia.org/wiki/川邊昭宏 "wikilink")
+  - プロデューサー：[前田直敬](https://ja.wikipedia.org/wiki/前田直敬 "wikilink")、水田貴久、森田美桜
   - 企画制作：汐留ヱビス商店街
   - 制作プロダクション：[AOI Pro.](../Page/AOI_Pro..md "wikilink")
   - 製作著作：FAKE MOTION 製作委員会
@@ -262,6 +268,9 @@
 | 第2話 | 4月15日 |        |
 | 第3話 | 4月22日 |        |
 | 第4話 | 4月29日 |        |
+| 第5話 | 5月6日  |        |
+| 第6話 | 5月13日 |        |
+| 第7話 | 5月20日 |        |
 |     |       |        |
 
 ## 放送局
@@ -274,13 +283,31 @@
 
   - 地上波放送終了後、[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")・[dTV](https://ja.wikipedia.org/wiki/dTV "wikilink")にて見逃し配信。
 
+## 関連商品
+
+  - FAKE MOTION –卓球の王将- Blu-ray（2020年7月29日発売予定、[Virgin Music](../Page/Virgin_Music.md "wikilink") ([ユニバーサル ミュージック合同会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink"))、品番：TYXT-10044/7）
+  - FAKE MOTION –卓球の王将- DVD（2020年7月29日発売予定、Virgin Music (ユニバーサル ミュージック合同会社)、品番：TYBT-10059/62）
+
+## ネット配信
+
+### FAKE MOTINON ―湯けむり温泉卓球事件簿―
+
+[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")で2020年5月28日から毎週木曜日に配信予定。 恵比寿長門学園（エビ高）卓球部が薩川大学付属渋谷高校に勝負を挑んだ1カ月後に、両校と都立八王子南工業高校が親睦を深めるため温泉旅行をするオリジナルストーリー \[3\]。
+
+#### 放送リスト
+
+| 話数  | 配信開始日      | サブタイトル |
+| --- | ---------- | ------ |
+| 第1話 | 2020年5月28日 |        |
+|     |            |        |
+
 ## 音楽作品
 
 「**FAKE MOTION**」（フェイク　モーション）は、King of Ping Pongの[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[Virgin Music](../Page/Virgin_Music.md "wikilink") ([ユニバーサル ミュージック合同会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink"))から発売された。
 
 ### 歌唱メンバー
 
-[佐野勇斗](https://ja.wikipedia.org/wiki/佐野勇斗 "wikilink")（[M\!LK](https://ja.wikipedia.org/wiki/M!LK "wikilink")）、[古川毅](https://ja.wikipedia.org/wiki/古川毅_\(俳優\) "wikilink")（[SUPER★DRAGON](https://ja.wikipedia.org/wiki/SUPER★DRAGON "wikilink")）、[北村匠海](../Page/北村匠海.md "wikilink")（[DISH/](https://ja.wikipedia.org/wiki/DISH/ "wikilink")/）、[松尾太陽](https://ja.wikipedia.org/wiki/松尾太陽 "wikilink")（[超特急](https://ja.wikipedia.org/wiki/超特急_\(音楽グループ\) "wikilink")）、[森崎ウィン](../Page/森崎ウィン.md "wikilink")（[PRIZMAX](../Page/PRIZMAX.md "wikilink")）、[板垣瑞生](https://ja.wikipedia.org/wiki/板垣瑞生 "wikilink")(元M\!LK）\[3\]
+[佐野勇斗](https://ja.wikipedia.org/wiki/佐野勇斗 "wikilink")（[M\!LK](https://ja.wikipedia.org/wiki/M!LK "wikilink")）、[古川毅](https://ja.wikipedia.org/wiki/古川毅_\(俳優\) "wikilink")（[SUPER★DRAGON](https://ja.wikipedia.org/wiki/SUPER★DRAGON "wikilink")）、[北村匠海](../Page/北村匠海.md "wikilink")（[DISH/](https://ja.wikipedia.org/wiki/DISH/ "wikilink")/）、[松尾太陽](https://ja.wikipedia.org/wiki/松尾太陽 "wikilink")（[超特急](https://ja.wikipedia.org/wiki/超特急_\(音楽グループ\) "wikilink")）、[森崎ウィン](../Page/森崎ウィン.md "wikilink")（[PRIZMAX](../Page/PRIZMAX.md "wikilink")）、[板垣瑞生](https://ja.wikipedia.org/wiki/板垣瑞生 "wikilink")(元M\!LK）\[4\]
 
 ### シングル
 
@@ -328,6 +355,67 @@
   - FAKE MOTION -卓球の王将- エビ高卓球部活動日誌
     漫画：九重ヤエ　ストーリー構成：おでんがんもによるコミカライズが、『[LINE](https://ja.wikipedia.org/wiki/LINE "wikilink")マンガ』にて4月10日から連載。
 
+## 舞台
+
+  - 舞台「FAKE MOTION -卓球の王将-」
+    テレビドラマ「FAKE MOTION -卓球の王将-」を“シーズン1”として、西の高校生にスポットを当て、“卓球戦国時代”に突入した大阪を“シーズン2”とした舞台作品\[5\]\[6\] 2020年7月2日-10日に東京都・[品川プリンスホテル](../Page/品川プリンスホテル.md "wikilink")[ステラボール](https://ja.wikipedia.org/wiki/アクアパーク品川#ステラボール "wikilink")、2020年7月17日-26日に兵庫県・[AiiA 2.5 Theater Kobeで公演予定](https://ja.wikipedia.org/wiki/新神戸オリエンタルシティ#AiiA_2.5Theater_kobe "wikilink")。
+
+#### 出演
+
+### 天下布武学園
+
+:\*織田佐之助：[荒牧慶彦](https://ja.wikipedia.org/wiki/荒牧慶彦 "wikilink")
+
+:\*今川義富：[廣瀬智紀](https://ja.wikipedia.org/wiki/廣瀬智紀 "wikilink")
+
+:\*斯波真一：[定本楓馬](https://ja.wikipedia.org/wiki/定本楓馬 "wikilink")
+
+:\*明智十兵衛：[草川直弥](https://ja.wikipedia.org/wiki/ONE_N'_ONLY#メンバー "wikilink")
+
+:\*滝川勝：[森田桐矢](https://ja.wikipedia.org/wiki/森田桐矢 "wikilink")
+
+:\*丹羽秀樹：山縣悠己
+
+### 謙信ソルト電子工学院
+
+:\*上杉天真：[染谷俊之](https://ja.wikipedia.org/wiki/染谷俊之 "wikilink")
+
+:\*北条忠則：[田村升吾](https://ja.wikipedia.org/wiki/田村升吾 "wikilink")
+
+:\*直江智弘：[山下永玖](https://ja.wikipedia.org/wiki/山下永玖 "wikilink")
+
+:\*柿崎仁：[上村謙信](https://ja.wikipedia.org/wiki/上村謙信 "wikilink")
+
+:\*宇佐美礼一：[高尾颯斗](https://ja.wikipedia.org/wiki/高尾颯斗 "wikilink")
+
+:\*甘粕信太郎：[沢村玲](https://ja.wikipedia.org/wiki/ONE_N'_ONLY#メンバー "wikilink")
+
+:\*山浦孝之：[関哲汰](https://ja.wikipedia.org/wiki/ONE_N'_ONLY#メンバー "wikilink")
+
+### 信玄明王高校
+
+:\*武田不動：[玉城裕規](https://ja.wikipedia.org/wiki/玉城裕規 "wikilink")
+
+:\*真田空：[志村玲於](../Page/志村玲於.md "wikilink")
+
+:\*真田海：[岡本侑樹](https://ja.wikipedia.org/wiki/EBiDAN#BATTLE_BOYS "wikilink")
+
+#### スタッフ（舞台）
+
+:\* 原案 - 汐留ヱビス商店街「FAKE MOTION -卓球の王将-」
+
+:\* 脚本 - [小山正太](https://ja.wikipedia.org/wiki/小山正太 "wikilink")
+
+:\* 演出 - [植木豪](../Page/植木豪.md "wikilink")
+
+:\* 主題歌：「FAKE MOTION」（[まふまふ](https://ja.wikipedia.org/wiki/まふまふ "wikilink")プロデュース）
+
+:\* 主催：舞台「FAKE MOTION -卓球の王将-」製作委員会
+
+## 書籍
+
+  - ドラマ「 FAKE MOTION －卓球の王将－」オフィシャルブック、SDP、2020年5月12日
+
 ## 脚注
 
 ### 注釈
@@ -341,14 +429,19 @@
       - [FAKE MOTION –卓球の王将- ドラマ公式サイト](https://www.fakemotion.jp/drama/)
       - [FAKE MOTION King of Ping Pong 公式サイト](https://www.fakemotion.jp/music/)
       - [FAKE MOTION-卓球の王将- コミック公式サイト](https://www.fakemotion.jp/comic/)
+      - [FAKE MOTION-卓球の王将- 舞台公式サイト](https://www.fakemotion.jp/stage/)
       - [FAKE MOTION-卓球の王将- officisal fanclubサイト](https://fc.fakemotion.jp/)
 
   -
   -
   - [ユニバーサルミュージックによるKing of Ping Pongの公式ページ](https://www.universal-music.co.jp/king-of-ping-pong/)
 
-[Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:日本テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本テレビのテレビドラマ "wikilink") [Category:日本テレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜ドラマ "wikilink") [Category:卓球を題材とした作品](https://ja.wikipedia.org/wiki/Category:卓球を題材とした作品 "wikilink") [Category:将棋を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:将棋を題材としたテレビドラマ "wikilink")
+  -
+[Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:日本テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本テレビのテレビドラマ "wikilink") [Category:日本テレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜ドラマ "wikilink") [Category:卓球を題材とした作品](https://ja.wikipedia.org/wiki/Category:卓球を題材とした作品 "wikilink") [Category:将棋を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:将棋を題材としたテレビドラマ "wikilink") [Category:EBiDAN](https://ja.wikipedia.org/wiki/Category:EBiDAN "wikilink")
 
 1.
 2.
 3.
+4.
+5.
+6.

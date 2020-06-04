@@ -16,7 +16,7 @@
 
 ### テレビ放送
 
-  - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（日本テレビ系）- 特集企画として定期的に放送
+  - [スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")（日本テレビ系）- 特集企画として定期的に放送
   - [Hulu傑作シアター](https://ja.wikipedia.org/wiki/Hulu傑作シアター "wikilink")（2020年3月7日 - 、毎週土曜日、25:30～、関東ローカル・日本テレビ系）- ダイジェスト版を放送
 
 <!-- end list -->
@@ -43,6 +43,9 @@
 | ----------------- |
 | EP                |
 | 第1話               |
+| 第2話               |
+| 第3話               |
+| 第4話               |
 
 ### YouTube配信
 
@@ -306,6 +309,12 @@
 
   - **個人レベルテスト**
 
+<!-- end list -->
+
+  - **チームミッション**
+
+4つのチームに分かれて課題曲を披露する。練習期間は1ヵ月で、対戦カードはくじ引きによって決定した。また、今回のミッションの評価基準は「チームワーク」であり、チーム内でどんな役割を担うのか、勝利チームの「チームワーク」という協調性が見られたら全員キューブを獲得できる。
+
 ## 審査・課題での使用楽曲
 
 ### パート1
@@ -475,7 +484,21 @@
 | 「Who's your mama? (feat. Jessi)」J.Y. Park                                  |
 | 「남자 없이 잘 살아 (I don't need a man)」Miss A                                    |
 | 「Touch」Miss A                                                              |
+| 「Like This」Wonder Girls                                                    |
+| 「BDZ (Korean ver.)」TWICE                                                   |
+| 「Honey」J.Y.Park                                                            |
 | 「Who's your mama? (feat. Jessi)」J.Y. Park                                  |
+| 「24간이 모자라 (24 hours)」ソンミ                                                   |
+
+#### チームミッション
+
+| チームミッション 使用楽曲                                                                    |
+| -------------------------------------------------------------------------------- |
+| 使用楽曲                                                                             |
+| 「Dance The Night Away -Japanese ver.-」TWICE                                      |
+| 「너무너무너무 (Very Very Very)」[I.O.I](https://ja.wikipedia.org/wiki/I.O.I "wikilink") |
+| 「Heart Shaker -Japanese ver.-」TWICE                                              |
+| 「Swing Baby」Ulala Session                                                        |
 
 ## 審査・課題での結果
 
@@ -599,9 +622,135 @@
 
 #### キューブ獲得状況
 
-| \-           | 獲得メンバー                        |
-| ------------ | ----------------------------- |
-| **個人レベルテスト** | <small>鈴野未光、大江梨久、勝村摩耶</small> |
+| \-                | 獲得メンバー                                                                           |
+| ----------------- | -------------------------------------------------------------------------------- |
+| **個人レベルテスト**      | <small>鈴野未光、大江梨久、勝村摩耶、山口真子</small><small>追加（橫井里茉、花橋梨緒、ヒルマンニナ、小合麻由佳、新井彩花）</small> |
+| **チームミッション**      | <small>鈴野未光、橫井里茉、新井彩花</small>                                                    |
+| **全キューブ獲得** (現段階） | <small>鈴野未光、橫井里茉、新井彩花</small>                                                    |
+
+#### 個人レベルテスト
+
+| 個人レベルテスト 結果 |
+| ----------- |
+| 順位          |
+| 1位          |
+| 2位          |
+| 3位          |
+| 4位          |
+| 5位          |
+| 6位          |
+| 7位          |
+
+#### チームミッション
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>チーム名</p></th>
+<th><p>課題曲</p></th>
+<th><p>メンバー</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第 1</p>
+<p>試</p>
+<p>合</p></td>
+<td><p>-</p></td>
+<td><p>Seaside Fairies</p></td>
+<td><p>「Dance The Night Away -Japanese ver.-」 TWICE</p></td>
+<td><p>ヒルマンニナ</p></td>
+</tr>
+<tr class="even">
+<td><p>小合麻由佳</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>池松里梨愛</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>井上あかり</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>勝</strong> <strong>利</strong></p></td>
+<td><p>Sun Rise</p></td>
+<td><p>「너무너무너무 (Very Very Very)」 I.O.I</p></td>
+<td><p>鈴野未光</p></td>
+<td><p>リーダー</p></td>
+</tr>
+<tr class="even">
+<td><p>橫井里茉</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>新井彩花</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第 2</p>
+<p>試</p>
+<p>合</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>「Heart Shaker -Japanese ver.-」 TWICE</p></td>
+<td><p>大江梨久</p></td>
+</tr>
+<tr class="odd">
+<td><p>アンユナ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>平井桃伽</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td></td>
+<td><p>「Swing Baby 」 Ulala Session</p></td>
+<td><p>山口真子</p></td>
+<td><p>リーダー</p></td>
+</tr>
+<tr class="even">
+<td><p>勝村摩耶</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>花橋梨緒</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 参加メンバーのその後
 

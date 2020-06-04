@@ -21,7 +21,7 @@
       - 作詞：Wolf Kid, Toru Ishikawa、作曲：Toru Ishikawa
 4.  **[NAKED LOVE](https://ja.wikipedia.org/wiki/SUPERMOON_〜閃〜 "wikilink")** (3:40)
       - 作詞：SUNNY BOY, HIROOMI TOSAKA、作曲：UTA
-5.  **OVERDOSE** (4:05)
+5.  **[OVERDOSE](https://ja.wikipedia.org/wiki/OVERDOSE_\(HIROOMI_TOSAKAの曲\) "wikilink")** (4:05)
       - 作詞：Yohei、作曲：UTA
 6.  **One Way Love** (3:02)
       - 作詞：UTA、作曲：SUNNY BOY
@@ -37,9 +37,17 @@
 \- Music Video -
 
 1.  **Who Are You?**
+      -
+        Directed by [NINOMIYA“NINO”DAISUKE](https://ja.wikipedia.org/wiki/二宮“NINO”大輔 "wikilink")
 2.  **BLUE SAPPHIRE**
+      -
+        Directed by NINOMIYA“NINO”DAISUKE
 3.  **NAKED LOVE**
+      -
+        Directed by NINOMIYA“NINO”DAISUKE
 4.  **OVERDOSE**
+      -
+        Directed by NINOMIYA“NINO”DAISUKE
 5.  **One Way Love**
 
 \- Document / Live -

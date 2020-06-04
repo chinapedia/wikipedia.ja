@@ -1,7 +1,7 @@
 > この記事は[Hey, darlin\'](https://ja.wikipedia.org/wiki/Hey,_darlin\')から翻訳されています。
 
 
-「**Hey, darlin**'」（ヘイ, ダーリン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のダンス&ボーカルグループ[FANTASTICS from EXILE TRIBEの楽曲](https://ja.wikipedia.org/wiki/FANTASTICS_from_EXILE_TRIBE "wikilink")\[1\]。[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[rhythm zoneから](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")と[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でシングル・リリースされる\[2\]。
+「**Hey, darlin**'」（ヘイ・ダーリン）は、[FANTASTICS from EXILE TRIBEの](https://ja.wikipedia.org/wiki/FANTASTICS_from_EXILE_TRIBE "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")\[1\]。[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。[コンパクトディスク](../Page/コンパクトディスク.md "wikilink")と[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でシングル・リリース\[2\]。
 
 ## リリース
 

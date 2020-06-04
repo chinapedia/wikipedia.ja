@@ -9,7 +9,7 @@
 
 豪華盤、初回盤、通常盤の3形態でリリース。 豪華盤にはインストVer.CDとMV、ドキュメンタリー収録のBlu-ray、スペシャルブックレット同梱。 初回盤にはMV+MakingのDVD付属。
 
-"JOKER"の曲終わりは、LUNA SEAの"MY LOVER"のオマージュである。 中盤の展開は、MARILYN MANSONの"The Beautiful People"と葉月が述べた。
+「JOKER」の曲終わりは、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")「[My Lover](https://ja.wikipedia.org/wiki/gravity_\(LUNA_SEAの曲\) "wikilink")」のオマージュである。中盤の展開は、[Marilyn Mansonの](https://ja.wikipedia.org/wiki/マリリン・マンソン_\(バンド\) "wikilink")「[The Beautiful People](../Page/アンチクライスト・スーパースター.md "wikilink")」と葉月が述べた。
 
 今作を携えて、全国ツアー「TOUR'18『XIII -THE BEAUTIFUL NIGHTMARES-』」を開催\[3\]。
 

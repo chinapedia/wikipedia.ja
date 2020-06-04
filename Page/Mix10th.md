@@ -6,7 +6,8 @@
 ## 概要
 
   - [ガールズロックバンド](../Page/ガールズバンド.md "wikilink")[SILENT SIRENの結成](https://ja.wikipedia.org/wiki/SILENT_SIREN "wikilink")10周年記念アルバムとして、リリース予定\[1\]。
-  - 当初は、[5月13日](../Page/5月13日.md "wikilink")に発売を予定していたが、4月に急遽発売延期が発売され、発売日は[9月2日](../Page/9月2日.md "wikilink")となった\[2\]。
+  - 今作には、[ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")[鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")による提供楽曲「聞かせてwow wowを」や[Poppin’Party](https://ja.wikipedia.org/wiki/Poppin’Party "wikilink")の[愛美](https://ja.wikipedia.org/wiki/愛美 "wikilink")が歌唱参加をする「Up To You feat. 愛美 from Poppin’Party」等の他者とのコラボ楽曲やメンバーそれぞれが作詞を手掛けた楽曲等が収録された、バンド結成10周年の象徴となるアルバムである\[2\]\[3\]。
+  - 当初は、[5月13日](../Page/5月13日.md "wikilink")に発売を予定していたが、4月に急遽発売延期が発売され、発売日は[9月2日](../Page/9月2日.md "wikilink")となった\[4\]。
 
 ## 収録曲
 
@@ -49,7 +50,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞・作曲・編曲 [鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")\[3\]\[4\]
+        作詞・作曲・編曲 [鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")\[5\]\[6\]
 
         </div>
 
@@ -99,7 +100,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞 すぅ 作曲 すぅ クボナオキ
+        作詞 すぅ 作曲 すぅ 編曲 クボナオキ
 
         </div>
 
@@ -147,7 +148,7 @@
 
 ## タイアップ
 
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") ドラマ25 バーチャルYouTuberドラマ『[四月一日さん家の](https://ja.wikipedia.org/wiki/四月一日さん家の "wikilink")』エンディングテーマ (\#6)\[5\]
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") ドラマ25 バーチャルYouTuberドラマ『[四月一日さん家の](https://ja.wikipedia.org/wiki/四月一日さん家の "wikilink")』エンディングテーマ (\#6)\[7\]
   - 「[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")」レギュラー番組『[イマっぽTV](https://ja.wikipedia.org/wiki/イマっぽTV "wikilink")』エンディングテーマ (\#8)
 
 ## 外部リンク
@@ -167,3 +168,5 @@
 3.
 4.
 5.
+6.
+7.

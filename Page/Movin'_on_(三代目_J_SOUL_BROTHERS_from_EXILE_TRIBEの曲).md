@@ -6,7 +6,7 @@
 ## 概要
 
   - 前作「[冬空/White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")」から約4か月ぶりのCDシングル。デビュー10周年目となる2020年の第一弾シングル。
-  - 「CD+DVD」と「CD」の2形態での発売。それぞれ全2曲4トラックを収録。
+  - 「CD+DVD」と「CDのみ」の2形態での発売。それぞれ全2曲4トラックを収録。
   - [STY](../Page/STY.md "wikilink")がシングル表題曲を作詞・作曲・プロデュースするのは「[Summer Madness](https://ja.wikipedia.org/wiki/Summer_Madness "wikilink")」以来約5年ぶり。
   - 「Movin' on」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の広大な荒野や街中で競技用のレーサードローンを駆使し撮影。パフォーマンスでは、ハンドルを回すような振り付けの「ドライブダンス」をメンバーが披露\[2\]。
   - 三代目 J SOUL BROTHERSと[トヨタレンタカーによるコラボ動画がYouTubeで公開された](../Page/トヨタレンタリース.md "wikilink")\[3\]。

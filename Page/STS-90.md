@@ -16,7 +16,7 @@
 ### バックアップ
 
   - ペイロードスペシャリスト1 - [アレクサンダー・ダンラップ](https://ja.wikipedia.org/wiki/アレクサンダー・ダンラップ "wikilink")（初）
-  - ペイロードスペシャリスト2 - [向井千秋](../Page/向井千秋.md "wikilink")（[JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")、2度目）
+  - ペイロードスペシャリスト2 - [向井千秋](../Page/向井千秋.md "wikilink")（[JAXA](../Page/宇宙航空研究開発機構.md "wikilink")、2度目）
 
 ## ミッションハイライト
 

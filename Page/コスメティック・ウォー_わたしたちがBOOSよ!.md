@@ -53,6 +53,7 @@
   - [英語版公式サイト](https://tickets.likeabossmovie.com/)
 
   -
+  -
 [Category:2020年の映画](https://ja.wikipedia.org/wiki/Category:2020年の映画 "wikilink") [Category:アメリカ合衆国のコメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディ映画 "wikilink") [Category:クリストフ・ベックの作曲映画](https://ja.wikipedia.org/wiki/Category:クリストフ・ベックの作曲映画 "wikilink") [Category:ミゲル・アルテタの監督映画](https://ja.wikipedia.org/wiki/Category:ミゲル・アルテタの監督映画 "wikilink") [Category:パラマウント映画の作品](https://ja.wikipedia.org/wiki/Category:パラマウント映画の作品 "wikilink")
 
 1.

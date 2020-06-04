@@ -27,4 +27,4 @@
 ''' YouTube '''
 
   -
-[Category:鈴木雅之の楽曲](https://ja.wikipedia.org/wiki/Category:鈴木雅之の楽曲 "wikilink") [Category:水野良樹が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水野良樹が制作した楽曲 "wikilink") [Category:2020年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2020年のコラボレーション・シングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink")
+[Category:鈴木雅之の楽曲](https://ja.wikipedia.org/wiki/Category:鈴木雅之の楽曲 "wikilink") [Category:鈴木愛理の楽曲](https://ja.wikipedia.org/wiki/Category:鈴木愛理の楽曲 "wikilink") [Category:水野良樹が制作した楽曲](https://ja.wikipedia.org/wiki/Category:水野良樹が制作した楽曲 "wikilink") [Category:2020年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2020年のコラボレーション・シングル "wikilink") [Category:楽曲_た](https://ja.wikipedia.org/wiki/Category:楽曲_た "wikilink") [Category:毎日放送のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ主題歌 "wikilink")

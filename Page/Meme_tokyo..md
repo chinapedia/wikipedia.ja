@@ -5,7 +5,7 @@
 
 ## 概要
 
-でんぱ組虹コンJr.メンバー募集オーディションにより[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")のジュニアユニットとして結成。純粋なオーディション結果としては**SOLI**と**KOROMO**の2人しか合格者が出なかったため、前事務所[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")を辞めて[FA宣言](https://ja.wikipedia.org/wiki/FA宣言 "wikilink")中だった**MEW**、店舗出身の**ASUKA**と**RITO**の5人体制で活動をスタート。
+でんぱ組虹コンJr.メンバー募集オーディションにより[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")のジュニアユニットとして結成。純粋なオーディション結果としては**SOLI**と**KOROMO**の2人しか合格者が出なかったため、前事務所[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")を辞めて[FA宣言](https://ja.wikipedia.org/wiki/FA宣言 "wikilink")中だった**MEW**（元[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")ミュークラブ）、[店舗出身の](https://ja.wikipedia.org/wiki/秋葉原ディアステージ "wikilink")**ASUKA**（小倉あすか）と**RITO**（天沢璃人）の5人体制で活動をスタート。
 
 現在は学業の為活動休止中の**SOLI**に代わり、でんぱ組.inc[鹿目凛](https://ja.wikipedia.org/wiki/鹿目凛 "wikilink")が期間限定サポートメンバー**PERO**として活動中。
 
@@ -15,7 +15,7 @@
 
 ### 2019年
 
-  - 7月31日 - 「DEARSTAGE新人ユニットお披露目LIVE」でお披露目。
+  - 7月31日 - 「DEARSTAGE新人ユニットお披露目LIVE」でお披露目\[1\]。
   - 10月5日 - **SOLI**が学業専念のためライブ活動休止、でんぱ組.incの鹿目凛が期間限定サポートメンバー**PERO**として加入することを発表。
   - 10月11日 - 『でんでんぱっしょん』を配信リリース。
   - 12月17日 - 『メランコリックサーカス』のミュージックビデオを[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に公開。
@@ -83,7 +83,7 @@
 <td><p>たまご色</p></td>
 <td></td>
 <td><p>期間限定サポートメンバー<br />
-<a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a>(<a href="https://ja.wikipedia.org/wiki/鹿目凛" title="wikilink">鹿目凛</a>)と兼任</p></td>
+<a href="https://ja.wikipedia.org/wiki/でんぱ組.inc" title="wikilink">でんぱ組.inc</a>（<a href="https://ja.wikipedia.org/wiki/鹿目凛" title="wikilink">鹿目凛</a>）と兼任</p></td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +99,7 @@
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>収録曲</p></th>
-<th><p>備考</p></th>
+<th><p>規格品番・備考</p></th>
 </tr>
 </thead>
 <tbody>
@@ -107,11 +107,11 @@
 <td><p>1</p></td>
 <td><p><strong>でんでんぱっしょん</strong></p></td>
 <td><p>2019年10月11日</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
 <p>全1曲</p>
 </div>
-<div class="NavContent" style="text-align:left;">
+<div class="NavContent" style="text-align:left">
 <ol>
 <li>でんでんぱっしょん</li>
 </ol>
@@ -123,11 +123,11 @@
 <td><p>2</p></td>
 <td><p><strong>メランコリックサーカス</strong></p></td>
 <td><p>2019年12月25日</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
 <p>全6曲</p>
 </div>
-<div class="NavContent" style="text-align:left;">
+<div class="NavContent" style="text-align:left">
 <ol>
 <li></li>
 <li>でんでんぱっしょん</li>
@@ -138,17 +138,17 @@
 </ol>
 </div>
 </div></td>
-<td></td>
+<td><p>PPTF-8125</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><strong>レトロフューチャー</strong></p></td>
 <td><p>2020年3月18日</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
 <p>全6曲</p>
 </div>
-<div class="NavContent" style="text-align:left;">
+<div class="NavContent" style="text-align:left">
 <ol>
 <li></li>
 <li>でんぱれーどJAPAN</li>
@@ -159,7 +159,7 @@
 </ol>
 </div>
 </div></td>
-<td></td>
+<td><p>TFCP-89679</p></td>
 </tr>
 </tbody>
 </table>
@@ -344,28 +344,27 @@
 </tbody>
 </table>
 
+## 脚注
+
 ## 外部リンク
 
   - [meme tokyo.公式ウェブサイト](https://www.memetokyo.com/)
 
-<!-- end list -->
+  -   -
+      -
+      -
+      -
+      -
+      -
+  -   -
+      -
+      -
+      -
+      -
+      -
+  -
+  - [meme tokyo.](https://live.line.me/channels/4401382) - [LINE LIVE](https://ja.wikipedia.org/wiki/LINE_LIVE "wikilink")
 
-  - Twitter
-      -
-      -
-      -
-      -
-      -
-      -
-      -
-<!-- end list -->
+[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink")
 
-  - Instagram
-      -
-      -
-      -
-      -
-      -
-      -
-      -
-[Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
+1.

@@ -17,7 +17,7 @@
 4.  **[everlasting](https://ja.wikipedia.org/wiki/infinite_synthesis "wikilink")**
 5.  **[Heaven is a Place on Earth](https://ja.wikipedia.org/wiki/Heaven_is_a_Place_on_Earth "wikilink")**
 6.  **[way to answer](https://ja.wikipedia.org/wiki/way_to_answer "wikilink")**
-7.  **[Decade](https://ja.wikipedia.org/wiki/Decade "wikilink")**
+7.  **[Decade](https://ja.wikipedia.org/wiki/Decade_\(fripSideのアルバム\) "wikilink")**
 8.  **[sister's noise](https://ja.wikipedia.org/wiki/sister's_noise "wikilink")**
 9.  **[eternal reality](https://ja.wikipedia.org/wiki/eternal_reality "wikilink")**
 10. **[black bullet](https://ja.wikipedia.org/wiki/black_bullet "wikilink")**

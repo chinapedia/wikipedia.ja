@@ -190,12 +190,12 @@ TSUTAYAオンラインショッピング</p></td>
 | [4月17日](../Page/4月17日.md "wikilink")                    | [KT Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")  | 新型コロナウイルスの感染防止のため中止または延期 |
 | [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | [KT Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")   | 新型コロナウイルスの感染防止のため中止または延期 |
 | [4月21日](../Page/4月21日.md "wikilink")                    | [KT Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")   | 新型コロナウイルスの感染防止のため中止または延期 |
-| [5月5日](../Page/5月5日.md "wikilink")                      | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                             | 振替公演                     |
-| [5月13日](../Page/5月13日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 振替公演                     |
-| [5月14日](../Page/5月14日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 振替公演                     |
-| [5月31日](../Page/5月31日.md "wikilink")                    | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                                 | 振替公演                     |
-| [6月24日](../Page/6月24日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 振替公演                     |
-| [6月25日](../Page/6月25日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 振替公演                     |
+| [5月5日](../Page/5月5日.md "wikilink")                      | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                             | 新型コロナウイルスの感染防止のため開催見合わせ  |
+| [5月13日](../Page/5月13日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ  |
+| [5月14日](../Page/5月14日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ  |
+| [5月31日](../Page/5月31日.md "wikilink")                    | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                                 | 新型コロナウイルスの感染防止のため開催見合わせ  |
+| [6月24日](../Page/6月24日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 新型コロナウイルスの感染防止のため開催見合わせ  |
+| [6月25日](../Page/6月25日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 新型コロナウイルスの感染防止のため開催見合わせ  |
 
 ## 脚注
 

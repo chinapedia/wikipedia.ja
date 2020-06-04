@@ -1,7 +1,7 @@
 > この記事は[Maximum Huavo](https://ja.wikipedia.org/wiki/Maximum_Huavo)から翻訳されています。
 
 
-『**Maximum Huavo**』（マキシマム・ウェボー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")と、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のボーカリストである[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が「**INABA／SALAS**」名義で発表した2作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に発売\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。
+『**Maximum Huavo**』（マキシマム・ウェボー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[スティーヴィー・サラス](../Page/スティーヴィー・サラス.md "wikilink")と、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ボーカリストである](../Page/歌手.md "wikilink")[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")が「**INABA／SALAS**」名義で発表した2作目の[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")に[VERMILLION RECORDSより発売された](../Page/VERMILLION_RECORDS.md "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。
 
 ## 概要
 
@@ -11,9 +11,9 @@
 
 アルバムタイトルにもつけられてる「Huavo」とは本来、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「卵」という意味の「Huevo」を[スラング](../Page/スラング.md "wikilink")にしたもので、アメリカではスキーの上級者コースを「タマがついてるやつじゃなきゃ無理なコース」という意味も込めて「Huevos Grande」をつけられ、勇敢で度胸があることの例えに使われる。その「Huevo」を自分たちだけのスラングにしたかったため「Huavo」にした\[15\]。
 
-タイトルについてサラスは「安全志向や受け身ではなく、勇敢にアグレッシヴに行こうぜ」という意味を込めており\[16\]、稲葉は「意味の分からない言葉だし、発音もしづらいし、綴りも間違ってる。でも、そういうところがINABA／SALASっぽくていいかな」と語っている\[17\]。
+タイトルについてサラスは「安全志向や受け身ではなく、勇敢にアグレッシヴに行こうぜ」という意味を込めており\[16\]、稲葉は「B'zだったらまず付けない\[17\]」「意味の分からない言葉だし、発音もしづらいし、綴りも間違ってる。でも、そういうところがINABA／SALASっぽくていいかな\[18\]」と語っている。
 
-本作発売後ライブツアー『INABA／SALAS "the First of the Last Big Tours 2020"』が開催予定である\[18\]\[19\]\[20\]\[21\]。
+本作発売後ライブツアー『INABA／SALAS "the First of the Last Big Tours 2020"』が開催予定である\[19\]\[20\]\[21\]\[22\]。
 
 ## リリース形態
 
@@ -22,7 +22,7 @@
   - 初回生産限定盤
     CD+オリジナルTシャツの形態。
   - 初回限定盤
-    「CD+DVD」及び「CD+Blu-ray」の形態。付属の映像ソフトには、2017年に行われたライブツアー『INABA／SALAS “CHUBBY GROOVE TOUR 2017”』より、[Zepp](../Page/Zepp.md "wikilink")Tokyo公演のライブ映像を収録\[22\]\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]。
+    「CD+DVD」及び「CD+Blu-ray」の形態。付属の映像ソフトには、2017年に行われたライブツアー『INABA／SALAS “CHUBBY GROOVE TOUR 2017”』より、[Zepp](../Page/Zepp.md "wikilink")Tokyo公演のライブ映像を収録\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]\[29\]。
 
 ## 収録曲
 
@@ -35,23 +35,23 @@
 5.  **Boku No Yume Wa** (4:07)
 6.  **Demolition Girl** (3:27)
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")』4月テーマソングに起用された\[29\]。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の撮影はショー・クラブ[バーレスク東京](https://ja.wikipedia.org/wiki/バーレスク東京 "wikilink")にて行われ、所属のダンサーも出演している\[30\]。監督は前作『[CHUBBY GROOVE](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")』収録の「AISHI-AISARE」同様、[東市篤憲](https://ja.wikipedia.org/wiki/東市篤憲 "wikilink")が担当している\[31\]。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")』4月テーマソングに起用された\[30\]。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の撮影はショー・クラブ[バーレスク東京](https://ja.wikipedia.org/wiki/バーレスク東京 "wikilink")にて行われ、所属のダンサーも出演している\[31\]。監督は前作『[CHUBBY GROOVE](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")』収録の「AISHI-AISARE」同様、[東市篤憲](https://ja.wikipedia.org/wiki/東市篤憲 "wikilink")が担当している\[32\]。
 7.  **IRODORI** (3:18)
       -
-        アルバム発売後、[新型コロナウイルスの外出自粛に伴い歌詞を一部変更](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")\[32\]して、セッションしている模様を公式[SNS上に公開した](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[33\]\[34\]\[35\]。
+        アルバム発売後、[新型コロナウイルスの外出自粛に伴い歌詞を一部変更](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink")\[33\]して、セッションしている模様を公式[SNS上に公開した](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[34\]\[35\]\[36\]。
 8.  **You Got Me So Wrong** (3:32)
 9.  **Bloodline** (3:38)
 10. **Take On Your Love** (3:13)
 11. **CELICA** (3:52)
       -
-        タイトルは「天の、天空の、神の」という意味のスペイン語であり、歌詞には[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[乗用車](../Page/乗用車.md "wikilink")[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")も登場している\[36\]。
-        歌い出しについてサラスから「コウシ、エルヴィス、コウシ、エルヴィス」と[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")を目指すようリクエストがあった\[37\]。
+        タイトルは[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[乗用車](../Page/乗用車.md "wikilink")[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")\[37\]を指しており、稲葉がアマチュアバンドだったころ、所属していたギタリストの都合でライブの出演がなくなり、時間だけが余りドラマーが所有していたセリカでドライブをした実体験を歌詞にしている\[38\]。
+        歌い出しについてサラスから「コウシ、エルヴィス、コウシ、エルヴィス」と[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")を目指すようリクエストがあった\[39\]。
 12. **CELEBRATION ～歓喜の使者～** (3:58)
 
 ### DVD/Blu-ray Disc (初回限定盤のみ)
 
-『INABA／SALAS “CHUBBY GROOVE TOUR 2017”』[Zepp](../Page/Zepp.md "wikilink")Tokyo公演のライブ映像\[38\]\[39\]\[40\]\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]。
+『INABA／SALAS “CHUBBY GROOVE TOUR 2017”』[Zepp](../Page/Zepp.md "wikilink")Tokyo公演のライブ映像\[40\]\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]。
 
 1.  **[SAYONARA RIVER](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")**
 2.  **[苦悩の果てのそれも答えのひとつ](https://ja.wikipedia.org/wiki/CHUBBY_GROOVE "wikilink")**
@@ -74,7 +74,7 @@
 
 ## タイアップ
 
-  - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")』4月テーマソング(\#6)
+  - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")』4月テーマソング(\#6)
 
 ## 参加ミュージシャン
 
@@ -154,12 +154,12 @@
 29.
 30.
 31.
-32. 「大事な家さえもなくしてしまう」の部分を「自分の家だけが唯一の居場所」に変更している。
-33.
+32.
+33. 「大事な家さえもなくしてしまう」の部分を「自分の家だけが唯一の居場所」に変更している。
 34.
 35.
 36.
-37.
+37. スペイン語で「天の、天空の、神の」という意味がある。
 38.
 39.
 40.
@@ -169,3 +169,5 @@
 44.
 45.
 46.
+47.
+48.

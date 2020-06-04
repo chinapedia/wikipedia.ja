@@ -60,6 +60,7 @@ EXOFRAME\[7\]。正式名称はEnhanced Xenobiological Organic FRAME（強化型
     直立字頭長高 - 255㎝ / 重量 - 269Kg
   - アメリカ海兵隊 武装偵察エグゾフレーム USMC AREX-03 トード
     全長 - 2.856m
+    米海兵隊が極秘裏に開発したエグゾフレーム、劇中では4機が登場。最新鋭の電子機器と専用ライフル、近接戦用トーチ等で武装。水上用フロートやドローンなどの拡張装備も備え、現時点で最強のエグゾフレームの一つととされる。
   - アウトキャスト・ブリゲードエグゾフレーム ALFEX-16-SOP オバンボ
     アメリカ国防省識別番号 戦術運用エグゾフレーム TOPEX-12 / NATOコードネーム エグザクトー / 全長 - 2.783m（アンテナ含まず）
   - インド軍エグゾフレーム HAWEX-015 メガドゥート
@@ -97,7 +98,7 @@ EXOFRAME\[7\]。正式名称はEnhanced Xenobiological Organic FRAME（強化型
   - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - サウンドデザイン - 笹松広司
   - 音楽 - [石川智久](../Page/石川智久.md "wikilink")
-  - 企画プロデュース - 髙橋良輔
+  - 企画プロデュース - [髙橋良輔](../Page/高橋良輔_\(アニメ監督\).md "wikilink")
   - アニメーション制作 - [武右ェ門](https://ja.wikipedia.org/wiki/武右ェ門 "wikilink")
   - 製作 - PROJECT OBSOLETE（[バンダイナムコアーツ](https://ja.wikipedia.org/wiki/バンダイナムコアーツ "wikilink")、[ニトロプラス](../Page/ニトロプラス.md "wikilink")、[グッドスマイルカンパニー](../Page/グッドスマイルカンパニー.md "wikilink")、武右ェ門、[バンダイナムコオンライン](https://ja.wikipedia.org/wiki/バンダイナムコオンライン "wikilink")）
 

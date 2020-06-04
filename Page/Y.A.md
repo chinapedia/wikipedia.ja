@@ -39,9 +39,10 @@
 
 ## 作品一覧　
 
-  - [八男って、それはないでしょう\!](https://ja.wikipedia.org/wiki/八男って、それはないでしょう! "wikilink")　既刊19巻　[MFブックス](https://ja.wikipedia.org/wiki/MFブックス "wikilink")
-  - 銭の力で、戦国の世を駆け抜ける。　既刊7巻　[MFブックス](https://ja.wikipedia.org/wiki/MFブックス "wikilink")
-  - 勇者の活躍はこれからだ！異世界からの出戻り勇者は平穏に暮らしたい。　既刊3巻　[オーバーラップノベルス](https://ja.wikipedia.org/wiki/オーバーラップノベルス "wikilink")
+  - [八男って、それはないでしょう\!](https://ja.wikipedia.org/wiki/八男って、それはないでしょう! "wikilink")（既刊19巻、[MFブックス](https://ja.wikipedia.org/wiki/MFブックス "wikilink")）
+  - 銭の力で、戦国の世を駆け抜ける。（既刊7巻、MFブックス）
+  - 勇者の活躍はこれからだ！異世界からの出戻り勇者は平穏に暮らしたい。（既刊3巻、[オーバーラップノベルス](https://ja.wikipedia.org/wiki/オーバーラップノベルス "wikilink")）
+  - 出戻り勇者の気まぐれメニュー（既刊1巻、[LINE文庫エッジ](https://ja.wikipedia.org/wiki/LINE文庫エッジ "wikilink")）
 
 ## 脚注
 

@@ -44,7 +44,7 @@
 
 <File:71-619> (KTM-19) (at number T202) in Angarsk.jpg|71-619K（[アンガルスク](../Page/アンガルスク.md "wikilink")） <File:71-619K> (KTM-19K) in Nizhny Novgorod.jpg|71-619K（[ニジニ・ノヴゴロド](../Page/ニジニ・ノヴゴロド.md "wikilink")）
 （[ニジニ・ノヴゴロド市電](../Page/ニジニ・ノヴゴロド市電.md "wikilink")） <File:Tram> in Oskol.JPG|71-619K（[スタールイ・オスコル](https://ja.wikipedia.org/wiki/スタールイ・オスコル "wikilink")）
-（） <File:71-619K> (KTM-19K) in Ufa.jpg|71-619K（[ウファ](../Page/ウファ.md "wikilink")） <File:Ulan-Ude> tram 71-619K 55 at newest tram line, opened in 2007 (32076976084).jpg|71-619K（[ウランウデ](https://ja.wikipedia.org/wiki/ウランウデ "wikilink")） <File:71-619K-01> (KTM-19) (at number 1401) in Kazan.jpg|71-619K-01（[カザン](../Page/カザン.md "wikilink")）
+（[スタールイ・オスコル市電](../Page/スタールイ・オスコル市電.md "wikilink")） <File:71-619K> (KTM-19K) in Ufa.jpg|71-619K（[ウファ](../Page/ウファ.md "wikilink")） <File:Ulan-Ude> tram 71-619K 55 at newest tram line, opened in 2007 (32076976084).jpg|71-619K（[ウランウデ](https://ja.wikipedia.org/wiki/ウランウデ "wikilink")） <File:71-619K-01> (KTM-19) (at number 1401) in Kazan.jpg|71-619K-01（[カザン](../Page/カザン.md "wikilink")）
 （[カザン市電](../Page/カザン市電.md "wikilink")） <File:Rostov's> Tram.jpg|71-619KU（[ロストフ・ナ・ドヌ](../Page/ロストフ・ナ・ドヌ.md "wikilink")）
 （[ロストフ・ナ・ドヌ市電](../Page/ロストフ・ナ・ドヌ市電.md "wikilink")）
 
@@ -69,7 +69,7 @@
 （） <File:Kolomna> 04-2014 img12 tram.jpg|71-619KT（[コロムナ](../Page/コロムナ.md "wikilink")）
 （） <File:Tram> of Krasnodar 2.jpg|71-619KT（[クラスノダール](../Page/クラスノダール.md "wikilink")） <File:Трамвай> 71-619КТ в Набережных Челнах.jpg|71-619KT（[ナーベレジヌイェ・チェルヌイ](https://ja.wikipedia.org/wiki/ナーベレジヌイェ・チェルヌイ "wikilink")） <File:Трамвай> в Новокузнецке.jpg|71-619KT（[ノヴォクズネツク](../Page/ノヴォクズネツク.md "wikilink")） <File:71-619> (KTM-19) in Perm, Lenina st..jpg|71-619KT（[ペルミ](../Page/ペルミ.md "wikilink")） <File:71-619KT> (KTM-19KT) in Prokopyevsk, Gaydar str..jpg|71-619KT（[プロコピエフスク](https://ja.wikipedia.org/wiki/プロコピエフスク "wikilink")） <File:Saratov> trams 1002+1004.jpg|71-619KT（[サラトフ](../Page/サラトフ.md "wikilink")） <File:Трамвай> 71-619КТ в Томске (пр. Кирова).jpg|71-619KT（[トムスク](../Page/トムスク.md "wikilink")） <File:71-619КТ> Ульяновск.jpg|71-619KT（[ウリヤノフスク](../Page/ウリヤノフスク.md "wikilink")） <File:Волчанск>. 71-619КТ выезжает из депо.jpg|71-619KT（） <File:Tram> 71-619KT in Yaroslavl 02.jpg|71-619KT（[ヤロスラヴリ](../Page/ヤロスラヴリ.md "wikilink")）
 （） <File:Kharkov> tram 3102.JPG|71-619KT（[ハルキウ](../Page/ハルキウ.md "wikilink")）
-（） <File:КТМ-19> 3109.jpg|71-619KT（[タシュケント](../Page/タシュケント.md "wikilink")）
+（[ハルキウ市電](../Page/ハルキウ市電.md "wikilink")） <File:КТМ-19> 3109.jpg|71-619KT（[タシュケント](../Page/タシュケント.md "wikilink")）
 （[タシュケント市電](https://ja.wikipedia.org/wiki/タシュケント市電 "wikilink")）
 
 ## 71-619A
@@ -118,7 +118,7 @@
 <td><p>定員</p></td>
 </tr>
 <tr class="odd">
-<td><p>乗客密度8人/m時</p></td>
+<td><p>乗客密度8人/m<sup>2</sup>時</p></td>
 </tr>
 <tr class="even">
 <td><p>車両重量</p></td>
@@ -178,7 +178,7 @@
 
 ### 出典
 
-[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両‎](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両‎ "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:ウラジオストク市電](https://ja.wikipedia.org/wiki/Category:ウラジオストク市電 "wikilink") [Category:ウクライナの路面電車車両‎](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両‎ "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:ウズベキスタンの路面電車](https://ja.wikipedia.org/wiki/Category:ウズベキスタンの路面電車 "wikilink") [Category:1998年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1998年製の鉄道車両 "wikilink")
+[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:ウラジオストク市電](https://ja.wikipedia.org/wiki/Category:ウラジオストク市電 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:カザフスタンの路面電車車両](https://ja.wikipedia.org/wiki/Category:カザフスタンの路面電車車両 "wikilink") [Category:ウズベキスタンの路面電車](https://ja.wikipedia.org/wiki/Category:ウズベキスタンの路面電車 "wikilink") [Category:1998年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1998年製の鉄道車両 "wikilink")
 
 1.
 2.

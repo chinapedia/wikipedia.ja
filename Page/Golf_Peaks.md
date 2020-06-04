@@ -25,7 +25,7 @@
   - [Afterburn 公式サイト](http://afterburn.games/golf/)（英語）
   - [フライハイワークス 公式サイト](http://flyhighworks.heteml.jp/games_b/gallery/golfpeaks/)
 
-[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:ポーランドで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ポーランドで開発されたコンピュータゲーム "wikilink") [Category:ゴルフゲーム](https://ja.wikipedia.org/wiki/Category:ゴルフゲーム "wikilink") [Category:パズルゲーム](https://ja.wikipedia.org/wiki/Category:パズルゲーム "wikilink")
+[Category:2018年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2018年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:ポーランドで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ポーランドで開発されたコンピュータゲーム "wikilink") [Category:ゴルフゲーム](https://ja.wikipedia.org/wiki/Category:ゴルフゲーム "wikilink") [Category:パズルゲーム](https://ja.wikipedia.org/wiki/Category:パズルゲーム "wikilink")
 
 1.
 2.

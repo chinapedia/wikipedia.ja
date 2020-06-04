@@ -140,9 +140,9 @@
 [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:細野不二彦](https://ja.wikipedia.org/wiki/Category:細野不二彦 "wikilink") [Category:音楽漫画](https://ja.wikipedia.org/wiki/Category:音楽漫画 "wikilink") [Category:音楽家を主人公とした作品](https://ja.wikipedia.org/wiki/Category:音楽家を主人公とした作品 "wikilink") [Category:ジャズを題材とした作品](https://ja.wikipedia.org/wiki/Category:ジャズを題材とした作品 "wikilink") [Category:ビッグコミックスペリオール](https://ja.wikipedia.org/wiki/Category:ビッグコミックスペリオール "wikilink")
 
 1.  小学館文庫版『BLOW UP\!』539頁。
-2.  “[細野不二彦を解剖する漫画家本シリーズ新作、ギャラリーフェイクなど3冊と同発](https://natalie.mu/comic/news/301630)”. コミックナタリー (2018年9月28日). 2020年月日閲覧。
+2.  “[細野不二彦を解剖する漫画家本シリーズ新作、ギャラリーフェイクなど3冊と同発](https://natalie.mu/comic/news/301630)”. コミックナタリー (2018年9月28日). 2020年5月17日閲覧。
 3.  作中の架空の大学名であり、連載当時はまだ[首都大学東京](../Page/首都大学東京.md "wikilink")は開校していない。
-4.  “[Blow UP\! １](https://www.e-hon.ne.jp/bec/SA/Detail?refISBN=4091820115&Mail_id=2018)”. e-hon. 2020年月日閲覧。
-5.  “[Blow Up\! 2](https://www.e-hon.ne.jp/bec/SA/Detail?refISBN=9784091820129&Mail_id=2018)”. e-hon. 2020年月日閲覧。
-6.  “[ワイド版 BLOW UP\!](https://www.e-hon.ne.jp/bec/SA/Detail?refShinCode=0100000000000007043958&Action_id=121&Sza_id=F3)”. e-hon. 2020年月日閲覧。
-7.  “[Blow up\!](https://www.e-hon.ne.jp/bec/SA/Detail?refISBN=4091925545)”. e-hon. 2020年月日閲覧。
+4.  “[Blow UP\! １](https://www.e-hon.ne.jp/bec/SA/Detail?refISBN=4091820115&Mail_id=2018)”. e-hon. 2020年2月5日閲覧。
+5.  “[Blow Up\! 2](https://www.e-hon.ne.jp/bec/SA/Detail?refISBN=9784091820129&Mail_id=2018)”. e-hon. 2020年2月5日閲覧。
+6.  “[ワイド版 BLOW UP\!](https://www.e-hon.ne.jp/bec/SA/Detail?refShinCode=0100000000000007043958&Action_id=121&Sza_id=F3)”. e-hon. 2020年2月5日閲覧。
+7.  “[Blow up\!](https://www.e-hon.ne.jp/bec/SA/Detail?refISBN=4091925545)”. e-hon. 2020年2月5日閲覧。

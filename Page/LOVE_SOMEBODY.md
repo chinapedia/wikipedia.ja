@@ -10,3 +10,5 @@
 パーカッション、ストリングス、女性コーラス等を駆使したサウンドは、ZIGGYの「[YELLOW POP](https://ja.wikipedia.org/wiki/YELLOW_POP "wikilink")」や「[ZOO & RUBY](https://ja.wikipedia.org/wiki/ZOO_&_RUBY "wikilink")」を彷彿させる。
 
 ## 収録曲
+
+[Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink")

@@ -98,6 +98,7 @@
   - [アサヒビール](../Page/アサヒビール.md "wikilink")「[アサヒスーパードライ](../Page/アサヒスーパードライ.md "wikilink")」WEB限定[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)\[7\]\[8\]
   - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")『[KATE](https://ja.wikipedia.org/wiki/KATE "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#3)\[9\]
   - スマートフォン向けゲーム『[放置少女](https://ja.wikipedia.org/wiki/放置少女 "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#8)\[10\]
+  - ソニー 『[So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")』 Web[CMソング](../Page/コマーシャルソング.md "wikilink")(\#12)\[11\]
 
 ## 脚注
 
@@ -113,3 +114,4 @@
 8.
 9.
 10.
+11.

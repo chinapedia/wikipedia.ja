@@ -1,7 +1,7 @@
 > この記事は[Mirror Park](https://ja.wikipedia.org/wiki/Mirror_Park)から翻訳されています。
 
 
-**Mirror Park**は名古屋のラジオ局[ZIP-FM](../Page/ZIP-FM.md "wikilink")にて2020年4月から放送されているラジオ番組である。
+『**Mirror Park**』（ミラー・パーク）は、[2020年](../Page/2020年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[ZIP-FM](../Page/ZIP-FM.md "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 ## 概要
 

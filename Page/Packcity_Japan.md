@@ -27,6 +27,8 @@
 
   - [Packcity Japan](https://www.packcity.co.jp/)
 
+  -
+  -
 [Category:ヤマトグループ](https://ja.wikipedia.org/wiki/Category:ヤマトグループ "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2016年設立の企業](https://ja.wikipedia.org/wiki/Category:2016年設立の企業 "wikilink") [Category:ソリューションサービス業](https://ja.wikipedia.org/wiki/Category:ソリューションサービス業 "wikilink")
 
 1.

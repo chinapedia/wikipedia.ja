@@ -85,7 +85,7 @@
 
   - [Tokyo Creative株式会社](https://www.tokyocreative.jp/ja/)
 
-[Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:2017年設立の企業](https://ja.wikipedia.org/wiki/Category:2017年設立の企業 "wikilink")
+[Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:2017年設立の企業](https://ja.wikipedia.org/wiki/Category:2017年設立の企業 "wikilink") [Category:デジタルコンテンツ制作会社](https://ja.wikipedia.org/wiki/Category:デジタルコンテンツ制作会社 "wikilink")
 
 1.  [日本最大級の海外向けインフルエンサーコミュニティTokyo Creative、“日本”に関連したあらゆる情報を扱うオンラインサロンTokyo Creative LEARNの開設を発表！](https://prtimes.jp/main/html/rd/p/000000006.000036173.html) [PR TIMES](https://ja.wikipedia.org/wiki/PR_TIMES "wikilink")、2020年04月25日閲覧。
 2.  [外国人Youtuber等のマネジメント及び自社インフルエンサーとしての採用（オーストラリア国籍）](https://workingvisa.csap.tokyo/testimonial/%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B5%E3%83%BC%E3%81%AE%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E5%8F%8A%E3%81%B3%E8%87%AA%E7%A4%BE/) [C. S. AND P. 行政書士事務所](https://ja.wikipedia.org/wiki/C._S._AND_P._行政書士事務所 "wikilink")、2020年04月25日閲覧。

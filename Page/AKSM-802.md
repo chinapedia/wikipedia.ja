@@ -5,7 +5,7 @@
 
 ## 概要・運行
 
-ベルコムンマッシュは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降、車内の80 %が低床構造となっている[3車体連接車の](../Page/連接台車.md "wikilink")****を展開している。だが都心部の大量輸送を前提とした設計であるため、顧客によっては定員数の多さや生産コストの高さが課題となっていた。そこで、AKSM-843を基に、安価な車両が求められる中小都市向けの車両として設計されたのがAKSM-802である\[1\]\[2\]。
+ベルコムンマッシュは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降、車内の80 %が低床構造となっている[3車体連接車の](../Page/連接台車.md "wikilink")**[AKSM-843](../Page/AKSM-843.md "wikilink")**を展開している。だが都心部の大量輸送を前提とした設計であるため、顧客によっては定員数の多さや生産コストの高さが課題となっていた。そこで、AKSM-843を基に、安価な車両が求められる中小都市向けの車両として設計されたのがAKSM-802である\[1\]\[2\]。
 
 1両（単行）による運転を前提とした[ボギー車](https://ja.wikipedia.org/wiki/ボギー車 "wikilink")で、[ループ線](../Page/ループ線.md "wikilink")が存在する路線に合わせて運転台は片側のみに設置され、乗降扉（両開き式[プラグドア](../Page/プラグドア.md "wikilink")）も右側面に3箇所存在する。ベルコムンマッシュが展開していた従来型の[ボギー車](https://ja.wikipedia.org/wiki/ボギー車 "wikilink")の運用実績を基に[構体や](https://ja.wikipedia.org/wiki/構体_\(鉄道車両\) "wikilink")[台車](https://ja.wikipedia.org/wiki/台車 "wikilink")の剛性や強度が見直され、故障頻度の大幅な減少が図られている他、重量も抑えられている。また、複合材料によって構成された外板は、事故や火災によって損傷した際には容易に交換可能な構造となっている。
 
@@ -30,7 +30,7 @@
 <td><p><strong>AKSM-802</strong></p></td>
 <td><p><a href="../Page/ベラルーシ.md" title="wikilink">ベラルーシ</a></p></td>
 <td><p><br />
-()</p></td>
+(<a href="../Page/ナヴァポラツク市電.md" title="wikilink">ナヴァポラツク市電</a>)</p></td>
 <td><p>1両</p></td>
 <td></td>
 </tr>
@@ -38,7 +38,7 @@
 <td><p><strong>AKSM-802E</strong></p></td>
 <td><p><a href="../Page/カザフスタン.md" title="wikilink">カザフスタン</a></p></td>
 <td><p><a href="../Page/パヴロダル.md" title="wikilink">パヴロダル</a><br />
-()</p></td>
+(<a href="../Page/パヴロダル市電.md" title="wikilink">パヴロダル市電</a>)</p></td>
 <td><p>23両</p></td>
 <td><p>断熱性の向上を始めとした設計変更を実施[3][4]</p></td>
 </tr>

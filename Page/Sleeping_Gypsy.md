@@ -22,6 +22,7 @@
 4.  **Endless Love**
 5.  **[真夜中のルーレット](https://ja.wikipedia.org/wiki/真夜中のルーレット "wikilink")**
       - [1992年](../Page/1992年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
+      - [ブティックJOY](../Page/三貴.md "wikilink") TV-CFソング
 6.  **Cosmic Love**
 7.  **[あなたが、いた夏](../Page/!BYE_BYE.md "wikilink")**
       - シングル「\!BYE BYE」のカップリング曲。

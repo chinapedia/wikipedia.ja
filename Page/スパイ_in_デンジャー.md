@@ -15,18 +15,18 @@
 
 ## キャスト
 
-| 役名         | **原語版声優**                                                             |
-| ---------- | --------------------------------------------------------------------- |
-| ランス・スターリング | [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")                              |
-| ウォルター・ベケット | [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink")    |
-| マーシー・カペル   | [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink")       |
-| キリアン       | [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink")     |
-| ジョイ・ジェンキンス | [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink")   |
-| ウェンディ・ベケット | [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink") |
-| アイズ        | [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink")           |
-| イアーズ       | [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink")             |
-| カツ・キムラ     | [マシ・オカ](../Page/マシ・オカ.md "wikilink")                                  |
-| ジェラルディン    | [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink")         |
+| 役名         | **原語版声優**                                                             | **日本語吹替**                                           |
+| ---------- | --------------------------------------------------------------------- | --------------------------------------------------- |
+| ランス・スターリング | [ウィル・スミス](../Page/ウィル・スミス.md "wikilink")                              | [鶴岡聡](../Page/鶴岡聡.md "wikilink")                    |
+| ウォルター・ベケット | [トム・ホランド](https://ja.wikipedia.org/wiki/トム・ホランド_\(俳優\) "wikilink")    | [田谷隼](https://ja.wikipedia.org/wiki/田谷隼 "wikilink") |
+| マーシー・カペル   | [ラシダ・ジョーンズ](https://ja.wikipedia.org/wiki/ラシダ・ジョーンズ "wikilink")       |                                                     |
+| キリアン       | [ベン・メンデルソーン](https://ja.wikipedia.org/wiki/ベン・メンデルソーン "wikilink")     |                                                     |
+| ジョイ・ジェンキンス | [リーバ・マッキンタイア](https://ja.wikipedia.org/wiki/リーバ・マッキンタイア "wikilink")   |                                                     |
+| ウェンディ・ベケット | [レイチェル・ブロズナハン](https://ja.wikipedia.org/wiki/レイチェル・ブロズナハン "wikilink") |                                                     |
+| アイズ        | [カレン・ギラン](https://ja.wikipedia.org/wiki/カレン・ギラン "wikilink")           |                                                     |
+| イアーズ       | [DJキャレド](https://ja.wikipedia.org/wiki/DJキャレド "wikilink")             |                                                     |
+| カツ・キムラ     | [マシ・オカ](../Page/マシ・オカ.md "wikilink")                                  |                                                     |
+| ジェラルディン    | [カーラ・ヒメネス](https://ja.wikipedia.org/wiki/カーラ・ヒメネス "wikilink")         |                                                     |
 
 ## 製作
 

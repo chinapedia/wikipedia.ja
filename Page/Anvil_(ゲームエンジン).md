@@ -52,7 +52,7 @@ Anvilは[アサシン クリード II用に改良され](https://ja.wikipedia.or
 
 ## 参考文献
 
-[Category:ゲームエンジン](https://ja.wikipedia.org/wiki/Category:ゲームエンジン "wikilink") [Category:2007年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2007年のソフトウェア "wikilink")
+[Category:ユービーアイソフト](https://ja.wikipedia.org/wiki/Category:ユービーアイソフト "wikilink") [Category:ゲームエンジン](https://ja.wikipedia.org/wiki/Category:ゲームエンジン "wikilink") [Category:2007年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2007年のソフトウェア "wikilink")
 
 1.
 2.

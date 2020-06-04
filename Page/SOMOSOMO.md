@@ -1,7 +1,7 @@
 > この記事は[SOMOSOMO](https://ja.wikipedia.org/wiki/SOMOSOMO)から翻訳されています。
 
 
-**SOMOSOMO**（ソモソモ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ。2019年5月に結成され、2019年7月1日にステージデビューした。略称（通称）は｢**コンギョ**｣。
+**SOMOSOMO**（ソモソモ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ。2019年5月に結成され、2019年7月1日にステージデビューした。略称（通称）は｢**ソモ2**｣。
 
 ## メンバー
 
@@ -26,8 +26,7 @@
 
 ## 外部リンク
 
-  - [公式Twitter](https://mobile.twitter.com/kingvader)
-
+  -
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")
 
 1.

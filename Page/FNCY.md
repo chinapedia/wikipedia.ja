@@ -14,18 +14,24 @@
 | 3rd | 今夜はmedicine | 2019年1月25日 | サブスク配信                                                  |
 | 4th | DRVN'       | 2019年      | サブスク配信                                                  |
 
+### EP
+
+|     | タイトル         | リリース日     | 形態     |       |
+| --- | ------------ | --------- | ------ | ----- |
+| 1st | TOKYO LUV EP | 2020年5月1日 | サブスク配信 | \[2\] |
+
 ### アルバム
 
 |     | タイトル | リリース日       | 収録曲  | レーベル                                                                            | 規格品番      | 形態                                                         | 備考 |       |
 | --- | ---- | ----------- | ---- | ------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------- | -- | ----- |
-| 1st | FNCY | 2019年07月10日 | 全11曲 | [EVIL LINE RECORDS](https://ja.wikipedia.org/wiki/EVIL_LINE_RECORDS "wikilink") | KICS-3808 | [サブスク](https://ja.wikipedia.org/wiki/サブスク "wikilink")配信,CD |    | \[2\] |
+| 1st | FNCY | 2019年07月10日 | 全11曲 | [EVIL LINE RECORDS](https://ja.wikipedia.org/wiki/EVIL_LINE_RECORDS "wikilink") | KICS-3808 | [サブスク](https://ja.wikipedia.org/wiki/サブスク "wikilink")配信,CD |    | \[3\] |
 
 ### 完全限定盤
 
-| タイトル                  | リリース日       | 収録曲 | レーベル                                                                                  | [規格品番](../Page/規格品番.md "wikilink") | 形態                                                            | 備考 |                                                                                                                                                           |
-| --------------------- | ----------- | --- | ------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------- | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AOI夜 / silky          | 2018年12月19日 | 全2曲 | [Kissing Fish Records](https://ja.wikipedia.org/wiki/Kissing_Fish_Records "wikilink") | KMKN26                             | [7インチレコード](https://ja.wikipedia.org/wiki/7インチレコード "wikilink") |    | <ref>{{cite web |url= [https://diskunion.net/black/ct/detail/1007781918|title=](https://diskunion.net/black/ct/detail/1007781918%7Ctitle=) = AOI夜 / silky |
-| CLOTHES / 今夜はmedicine | 2019年08月07日 | 全2曲 | Kissing Fish Records                                                                  | KMKN41                             | [7インチレコード](https://ja.wikipedia.org/wiki/7インチレコード "wikilink") |    | \[3\]                                                                                                                                                     |
+| タイトル                       | リリース日       | 収録曲 | レーベル                                                                                  | [規格品番](../Page/規格品番.md "wikilink") | 形態                                                            | 備考 |                                                                                                                                                           |
+| -------------------------- | ----------- | --- | ------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------- | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AOI夜 / silky               | 2018年12月19日 | 全2曲 | [Kissing Fish Records](https://ja.wikipedia.org/wiki/Kissing_Fish_Records "wikilink") | KMKN26                             | [7インチレコード](https://ja.wikipedia.org/wiki/7インチレコード "wikilink") |    | <ref>{{cite web |url= [https://diskunion.net/black/ct/detail/1007781918|title=](https://diskunion.net/black/ct/detail/1007781918%7Ctitle=) = AOI夜 / silky |
+| FNCY CLOTHES / 今夜はmedicine | 2019年08月07日 | 全2曲 | Kissing Fish Records                                                                  | KMKN41                             | [7インチレコード](https://ja.wikipedia.org/wiki/7インチレコード "wikilink") |    | \[4\]                                                                                                                                                     |
 
 ## Music Video
 
@@ -40,16 +46,23 @@ YouTubeで配信されている
 
 ## 出典
 
+## 関連項目
+
+  - [コマリヨー](https://ja.wikipedia.org/wiki/コマリヨー "wikilink")　（名古屋の靴メーカー。コラボスニーカー「FNCY TOKYO」を製造）
+
 ## 外部リンク
 
   - [FNCY 公式サイト](http://fncy.tokyo/)
-  - [EVIL A MAG](https://evilamag.com/artist/fncy/)
+  - [EVIL A MAG（最新ニュース）](https://evilamag.com/artist/fncy/)
   - [FNCY official twitter](https://twitter.com/FNCY_official?s=20)
   - [FNCY official instagram](https://www.instagram.com/fncy_official/?hl=ja)
   - [FNCY YouTube official channel](https://www.youtube.com/channel/UCYdy-F-0C0WYBBa3gvajtZA/featured)
+  - [FNCY Spotify](https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL?si=Cj6J3B5KRTOmGiGoGLjt8Q)
+  - [FNCY Apple Music](https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL?si=Cj6J3B5KRTOmGiGoGLjt8Q)
 
 [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:EVIL_LINE_RECORDSのアーティスト](https://ja.wikipedia.org/wiki/Category:EVIL_LINE_RECORDSのアーティスト "wikilink")
 
 1.
-2.
+2.   Mixmag Japan|url=[https://www.mixmag.jp/news/fncy-0502.html|website=Mixmag](https://www.mixmag.jp/news/fncy-0502.html%7Cwebsite=Mixmag) Japan｜ダンスミュージック＆クラブカルチャー・メディア|date=2020-05-02|accessdate=2020-05-02|language=js}}
 3.
+4.

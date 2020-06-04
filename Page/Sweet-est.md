@@ -19,7 +19,7 @@
       - 4thスタジオ・アルバム『[抱きしめてオンリィ・ユー](../Page/抱きしめてオンリィ・ユー.md "wikilink")』収録曲。
 2.  **[ジョディ](https://ja.wikipedia.org/wiki/DANCIN'_IN_THE_KITCHEN "wikilink")**
       - 2ndスタジオ・アルバム『DANCIN' IN THE KITCHEN』収録曲。
-3.  **[シャンプー](https://ja.wikipedia.org/wiki/雨の日は家にいて_\(アルバム\) "wikilink")**
+3.  **[シャンプー](https://ja.wikipedia.org/wiki/雨の日は家にいて "wikilink")**
       - 3rdスタジオ・アルバム『雨の日は家にいて』収録曲。
       - [アン・ルイス](../Page/アン・ルイス.md "wikilink")のアルバム『PINK PUSSYCAT』に収録されている楽曲のカバー。
 4.  **[涙がとまらない](../Page/抱きしめてオンリィ・ユー.md "wikilink")**

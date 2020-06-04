@@ -1,7 +1,7 @@
 > この記事は[HAPPY SALVAGE ハッピィサルベージ](https://ja.wikipedia.org/wiki/HAPPY_SALVAGE_ハッピィサルベージ)から翻訳されています。
 
 
-『**HAPPY SALVAGE ハッピィサルベージ**』は[2000年](../Page/2000年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[6月23日](../Page/6月23日.md "wikilink")にかけて、[テレビ朝日](../Page/テレビ朝日.md "wikilink")にて金曜日26時09分から26時39分に放送された深夜テレビドラマである。全10話。
+『**HAPPY SALVAGE ハッピィサルベージ**』は[2000年](../Page/2000年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[6月23日](../Page/6月23日.md "wikilink")にかけて、[テレビ朝日](../Page/テレビ朝日.md "wikilink")にて金曜日26時09分から26時39分に放送された深夜テレビドラマである。全10話。全話放送終了後12月28日に年末特別ダイジェスト版も放送されている。
 
 ## 概要
 

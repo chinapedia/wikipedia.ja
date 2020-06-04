@@ -27,12 +27,14 @@
   - [ウチのガヤがすみません\!](https://ja.wikipedia.org/wiki/ウチのガヤがすみません! "wikilink")（日本テレビ）
   - [全力\!脱力タイムズ](https://ja.wikipedia.org/wiki/全力!脱力タイムズ "wikilink")（[CX](https://ja.wikipedia.org/wiki/CX "wikilink")）
   - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（日本テレビ）
+  - [スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")）
 
 ### ラジオ
 
   - [高田文夫のラジオビバリー昼ズ](../Page/高田文夫のラジオビバリー昼ズ.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
   - [純次と直樹](https://ja.wikipedia.org/wiki/純次と直樹 "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
   - [後藤麻衣の心配ないさぁ〜\!\!](https://ja.wikipedia.org/wiki/後藤麻衣の心配ないさぁ〜!! "wikilink")（[RFラジオ日本](https://ja.wikipedia.org/wiki/RFラジオ日本 "wikilink")）
+  - [『オールナイトニッポン０〜決戦！お笑い有楽城〜』](https://ja.wikipedia.org/wiki/『オールナイトニッポン０〜決戦！お笑い有楽城〜』 "wikilink")[（ニッポン放送）](../Page/ニッポン放送番組一覧.md "wikilink")
 
 ## 脚注
 

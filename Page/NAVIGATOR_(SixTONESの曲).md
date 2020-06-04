@@ -1,7 +1,7 @@
 > この記事は[NAVIGATOR \(SixTONESの曲\)](https://ja.wikipedia.org/wiki/NAVIGATOR_\(SixTONESの曲\))から翻訳されています。
 
 
-「**NAVIGATOR**」（ナビゲーター）は、[SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")の楽曲。同グループの2枚目のシングルとして、[Sony Music Labelsから発売予定](../Page/エスエムイーレコーズ.md "wikilink")\[1\]\[2\]\[3\]。
+「**NAVIGATOR**」（ナビゲーター）は、[SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")の楽曲。同グループの2枚目のシングルとして、[SMEレコーズから発売予定](../Page/エスエムイーレコーズ.md "wikilink")\[1\]\[2\]\[3\]。
 
 ## リリース
 

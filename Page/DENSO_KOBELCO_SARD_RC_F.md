@@ -13,7 +13,7 @@
 
 ## チャンピオンシーズン
 
-[2016年](../Page/2016年.md "wikilink") (平成28年)LEXUS TEAM SARDの[平手晃平](../Page/平手晃平.md "wikilink")、[ヘイキ・コバライネン](../Page/ヘイキ・コバライネン.md "wikilink")のコンビで参戦する。最終戦の[ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")では優勝でドライバーズ・チームズチャンピオンを獲得。SUPER GTの前身の[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")の初年度から参戦しているLEXUS TEAM SARDにとっては22年目で悲願のシリーズチャンピオンを初獲得。ドライバーズとチームのダブルタイトルの栄冠を手にした。
+[2016年](../Page/2016年.md "wikilink") (平成28年)LEXUS TEAM SARDの[平手晃平](../Page/平手晃平.md "wikilink")、[ヘイキ・コバライネン](../Page/ヘイキ・コバライネン.md "wikilink")のコンビで参戦する。最終戦の[ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")では優勝でドライバーズ・チームズチャンピオンを獲得。SUPER GTの前身の[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")の初年度から参戦しているLEXUS TEAM SARDにとっては22年目で悲願のシリーズチャンピオンを初獲得
 
 ## 車両
 

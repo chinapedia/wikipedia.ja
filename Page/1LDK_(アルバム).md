@@ -1,7 +1,7 @@
 > この記事は[1LDK \(アルバム\)](https://ja.wikipedia.org/wiki/1LDK_\(アルバム\))から翻訳されています。
 
 
-『**1LDK**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[YouTubeアーティスト](https://ja.wikipedia.org/wiki/YouTuber "wikilink")[Lefty Hand Creamのメジャーデビューアルバム](../Page/Lefty_Hand_Cream.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")に[ユニバーサルミュージックより発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+『**1LDK**』は、[2020年](../Page/2020年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")に[ユニバーサルミュージックから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[YouTubeアーティストである](https://ja.wikipedia.org/wiki/YouTuber "wikilink")[Lefty Hand Creamのメジャーデビューアルバム](../Page/Lefty_Hand_Cream.md "wikilink")。
 
 ## 解説
 
@@ -43,26 +43,26 @@
         作詞・作曲：[尾崎世界観](https://ja.wikipedia.org/wiki/尾崎世界観 "wikilink") / 再編曲：前田逸平
 9.  **痛いよ**（[清竜人](https://ja.wikipedia.org/wiki/清竜人 "wikilink")）
       -
-        作詞・作曲：[清竜人](https://ja.wikipedia.org/wiki/清竜人 "wikilink") / 再編曲：前田逸平
+        作詞・作曲：清竜人 / 再編曲：前田逸平
 10. **[100万回の「I love you」](https://ja.wikipedia.org/wiki/100万回の「I_love_you」 "wikilink")**（[Rake](https://ja.wikipedia.org/wiki/Rake "wikilink")）
       -
-        作詞・作曲：[Rake](https://ja.wikipedia.org/wiki/Rake "wikilink") / 再編曲：前田逸平
+        作詞・作曲：Rake / 再編曲：前田逸平
 11. **藍**（[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")）
       -
         作詞・作曲：[大橋卓弥](../Page/大橋卓弥.md "wikilink")・[常田真太郎](../Page/常田真太郎.md "wikilink") / 再編曲：前田逸平
 12. **栞**（オリジナル曲）
       -
-        作詞・作曲：[Lefty Hand Cream](../Page/Lefty_Hand_Cream.md "wikilink") / 再編曲：前田逸平
+        作詞・作曲：Lefty Hand Cream / 再編曲：前田逸平
 
 ### 初回限定版 DISC 2: DVD
 
 1.  **ポーカーフェイス** (Music Video)
       -
-        作詞：伊集院香織（みるきーうぇい） / 作曲・編曲：[南田健吾](https://ja.wikipedia.org/wiki/南田健吾 "wikilink")
+        作詞：伊集院香織（みるきーうぇい） / 作曲・編曲：南田健吾
         映像監督：[須永秀明](../Page/須永秀明.md "wikilink") / 主演：夏目志乃 / ダンス：藤井舞香
 2.  **栞** (Music Video)
       -
-        作詞・作曲：[Lefty Hand Cream](../Page/Lefty_Hand_Cream.md "wikilink") / 再編曲：前田逸平
+        作詞・作曲：Lefty Hand Cream / 再編曲：前田逸平
         映像監督：banishment / アニメーション：asano66
 
 ## 脚注
@@ -72,11 +72,7 @@
 ## 外部リンク
 
   - [DISCOGRAPHY | LeftyHandCream OfficialWeb](http://leftyhandcream.com/discography/) - Lefty Hand Cream公式サイト
-
   - [Lefty Hand Cream](https://www.universal-music.co.jp/leftyhandcream/products/umck-7044/) - [ユニバーサル・ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
-
-  -
-  -
 
 [Category:ユニバーサル_ミュージック_グループのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサル_ミュージック_グループのアルバム "wikilink") [Category:2020年のカバー・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のカバー・アルバム "wikilink")
 

@@ -66,13 +66,9 @@ Disc.1
 
 1.  錦戸亮 Album ”NOMAD” リリースイベント映像
 
-#### 初回限定盤
+#### 初回限定盤『「錦戸亮 LIVE TOUR 2019 ”NOMAD”」2019年11月22日 豊洲PIT公演映像 』
 
 Disc.2
-
-  - 錦戸亮 LIVE TOUR 2019 ”NOMAD” 2019年11月22日 豊洲PIT公演映像
-
-<!-- end list -->
 
 1.  **Point of Departure**
 2.  **バッジ**

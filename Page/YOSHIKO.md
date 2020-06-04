@@ -24,7 +24,6 @@
   - HIM『[ETERNAL](https://ja.wikipedia.org/wiki/ETERNAL_\(HIMの曲\) "wikilink")』
   - HIM『[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN_\(HIMの曲\) "wikilink")』
   - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")『[溢れちゃう...BE IN LOVE](https://ja.wikipedia.org/wiki/溢れちゃう...BE_IN_LOVE\(後藤真希の曲\) "wikilink")』
-  - 後藤真希『[抱いてよ\! PLEASE GO ON](https://ja.wikipedia.org/wiki/抱いてよ!_PLEASE_GO_ON\(後藤真希の曲\) "wikilink")』
 
 ### 舞台
 
@@ -164,7 +163,6 @@
   - すまいるブルース
   - 寒いね。
   - 私、ちょいとカワイイ裏番長
-  - 旅立ちのは春が来た
   - どうしよう
   - 初恋の貴方へ
   - チャンス到来！

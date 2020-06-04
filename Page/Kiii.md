@@ -19,10 +19,10 @@
 (この節の出典は\[2\]です。)
 
   - [ブライアン](https://ja.wikipedia.org/wiki/ブライアン_\(YouTuber\) "wikilink")
-  - 気まぐれクック
-  - ラファエル
+  - [きまぐれクック](https://ja.wikipedia.org/wiki/きまぐれクック "wikilink")
+  - [ラファエル](https://ja.wikipedia.org/wiki/ラファエル_\(YouTuber\) "wikilink")
   - へきちゃんトラちゃん
-  - 渥美拓馬
+  - [渥美拓馬](../Page/渥美拓馬.md "wikilink")
   - チャンネルがーどまん
   - MAKIHIKA
   - NOBLEMAN
@@ -38,13 +38,9 @@
   - 大食いラスカル
   - ミーミちゃんねる
   - シューズ 放送チャンネル
-  - ゆゆうた
-  - たっくーTVれいでぃお
-  - PDRさん
-  - mimei
-  - BUNZIN TV
   - smashthings1
   - HPad
+  - ちゃんねる鰐
 
 ## 脚注
 

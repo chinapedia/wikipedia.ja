@@ -125,7 +125,7 @@ WOWOWプライムで2016年1月10日に「連続ドラマW 下町ロケット」
   - 美術 - 乙竹恭慶
   - 衣裳 - 冨樫理英、工藤あずさ
   - 制作協力 - [東阪企画](../Page/東阪企画.md "wikilink")
-  - 協力 - [JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")
+  - 協力 - [JAXA](../Page/宇宙航空研究開発機構.md "wikilink")
   - 製作著作 - [WOWOW](../Page/WOWOW.md "wikilink")
 
 ## 放送日程

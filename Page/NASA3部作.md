@@ -1,7 +1,7 @@
 > この記事は[NASA3部作](https://ja.wikipedia.org/wiki/NASA3部作)から翻訳されています。
 
 
-**NASA3部作**（NASA3ぶさく）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のSF作家である[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")によって書かれた3作の[ハードSF](../Page/ハードSF.md "wikilink")小説。1996年から1998年に発行された。 これらの本は、異なる状況におけるアメリカの宇宙開発計画の可能性を探っている。3部作として扱われているがそれぞれの作品は全く独立した物語である。別の世界の彼の他の作品よりも暗いトーンで書かれており、[NASAに対して批判的である](../Page/アメリカ航空宇宙局.md "wikilink")。
+『**NASA3部作**』（ナサさんぶさく）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のSF作家である[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")によって書かれた3作の[ハードSF](../Page/ハードSF.md "wikilink")小説。1996年から1998年に発行された。 これらの本は、異なる状況におけるアメリカの宇宙開発計画の可能性を探っている。3部作として扱われているが、それぞれの作品は全く独立した物語である。別の世界の彼の他の作品よりも暗いトーンで書かれており、[NASAに対して批判的である](../Page/アメリカ航空宇宙局.md "wikilink")。
 
 以下の作品で構成されている
 
@@ -41,7 +41,7 @@
 
 ## 脚注
 
-[Category:スティーヴン・バクスター](https://ja.wikipedia.org/wiki/Category:スティーヴン・バクスター "wikilink") [Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:宇宙開発](https://ja.wikipedia.org/wiki/Category:宇宙開発 "wikilink") [Category:SF小説のシリーズ](https://ja.wikipedia.org/wiki/Category:SF小説のシリーズ "wikilink") [Category:天文を扱った作品](https://ja.wikipedia.org/wiki/Category:天文を扱った作品 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink")
+[Category:スティーヴン・バクスター](https://ja.wikipedia.org/wiki/Category:スティーヴン・バクスター "wikilink") [Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:宇宙開発](https://ja.wikipedia.org/wiki/Category:宇宙開発 "wikilink") [Category:SF小説のシリーズ](https://ja.wikipedia.org/wiki/Category:SF小説のシリーズ "wikilink") [Category:天文を扱った作品](https://ja.wikipedia.org/wiki/Category:天文を扱った作品 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:三部作](https://ja.wikipedia.org/wiki/Category:三部作 "wikilink")
 
 1.
 2.

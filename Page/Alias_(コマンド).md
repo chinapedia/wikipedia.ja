@@ -5,7 +5,7 @@
 
 ## 概要
 
-aliasに何もつけないと、aliasの一覧が表示される。alias 名前=値　と入れると、"名前"を実行すると"値"が実行されるようになる。\[4\]ただし、aliasコマンドでエイリアスを登録してもシェルを閉じると登録した内容が消えるので、普通はシェルを開くときに実行されるファイル(例えば[bash](https://ja.wikipedia.org/wiki/bash "wikilink")なら\~/.bashrc、[zshなら](../Page/Z_Shell.md "wikilink")\~/zshrc)にaliasコマンドを書いておく。
+aliasを単独で実行すると、エイリアスの一覧が表示される。alias 名前=値　と入れると、"名前"を実行すると"値"が実行されるようになる。\[4\]ただし、aliasコマンドでエイリアスを登録してもシェルを閉じると登録した内容が消えるので、普通はシェルを開くときに実行されるファイル(例えば[bash](https://ja.wikipedia.org/wiki/bash "wikilink")なら\~/.bashrc、[zshなら](../Page/Z_Shell.md "wikilink")\~/zshrc)にaliasコマンドを書いておく。展開は一度なので、lsや[grep](https://ja.wikipedia.org/wiki/grep "wikilink")の出力に色を付けるオプションなど、常に使うオプションの指定などにも使われる。
 
 ## 実行例
 

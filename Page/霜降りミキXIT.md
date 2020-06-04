@@ -8,7 +8,7 @@
 ## 出演者
 
   - [霜降り明星](https://ja.wikipedia.org/wiki/霜降り明星 "wikilink")（[せいや](https://ja.wikipedia.org/wiki/せいや "wikilink")・[粗品](https://ja.wikipedia.org/wiki/粗品_\(お笑い芸人\) "wikilink")）
-  - [ミキ](https://ja.wikipedia.org/wiki/ミキ_\(お笑いコンビ\) "wikilink")（昴生・亜生）
+  - [ミキ](https://ja.wikipedia.org/wiki/ミキ_\(お笑いコンビ\) "wikilink")（[昴生](../Page/昴生.md "wikilink")・[亜生](../Page/亜生.md "wikilink")）
   - [EXIT](https://ja.wikipedia.org/wiki/EXIT_\(お笑いコンビ\) "wikilink")（[りんたろー。](../Page/りんたろー。.md "wikilink")・[兼近大樹](../Page/兼近大樹.md "wikilink")）
 
 ## 放送リスト

@@ -15,7 +15,8 @@ SHOWROOM AWARD 2019に招待を受け参加する｡\[2\]
 
 ## 人物 
 
-  - 好きなアーティスト･グループ : [秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink")､[さかいゆう](../Page/さかいゆう.md "wikilink")､[松室政哉](https://ja.wikipedia.org/wiki/松室政哉 "wikilink")､[DedachiKenta](https://ja.wikipedia.org/wiki/Dedachikenta "wikilink")\[3\]
+  - 夢 : 作詞･作曲を[さかいゆう](../Page/さかいゆう.md "wikilink")さん､編曲を[関口シンゴ](https://ja.wikipedia.org/wiki/関口シンゴ "wikilink")さん､プロデュースを[Kan Sanoさんにして頂くこと](https://ja.wikipedia.org/wiki/Kan_Sano "wikilink")｡[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")さんから楽曲を提供して頂くこと｡
+  - 好きなアーティスト･グループ : [秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink")､[さかいゆう](../Page/さかいゆう.md "wikilink")､[松室政哉](https://ja.wikipedia.org/wiki/松室政哉 "wikilink")､[清水翔太](../Page/清水翔太.md "wikilink")、[ovall](https://ja.wikipedia.org/wiki/ovall "wikilink")、[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")、[DedachiKenta](https://ja.wikipedia.org/wiki/Dedachikenta "wikilink")\[3\]
   - 好きなキャラクター･動物：[スヌーピー](../Page/スヌーピー.md "wikilink")、[パンダ](../Page/パンダ.md "wikilink")\[4\]
   - 好きな色:紫\[5\]
 
@@ -73,6 +74,11 @@ SHOWROOM AWARD 2019に招待を受け参加する｡\[2\]
 <td><p>イベント2位で最終審査進出 → グランプリを獲得</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月27日.md" title="wikilink">4月27日</a> ～ <a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月6日.md" title="wikilink">5月6日</a></p></td>
+<td><p><strong>【第2弾】SHOWROOM短編映画　主題歌アーティスト決定戦！</strong>[20]</p></td>
+<td><p>イベント1位で最終審査進出 → グランプリを獲得</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -112,3 +118,4 @@ SHOWROOM AWARD 2019に招待を受け参加する｡\[2\]
 17.
 18.
 19.
+20.

@@ -1,7 +1,7 @@
 > この記事は[Pint](https://ja.wikipedia.org/wiki/Pint)から翻訳されています。
 
 
-『**Pint**』（ピント）は、[2020年](../Page/2020年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")からNBC[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")テレビで放送されている[生放送](../Page/生放送.md "wikilink")の[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。
+『**Pint**』（ピント）は、[2020年](../Page/2020年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")からNBC[長崎放送](../Page/長崎放送.md "wikilink")テレビで放送されている[生放送](../Page/生放送.md "wikilink")の[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[NEXTをさがせ!](https://ja.wikipedia.org/wiki/NEXTをさがせ!)から翻訳されています。
 
 
-『**NEXTをさがせ\!**』（ネクストをさがせ\!）は、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で[2020年](../Page/2020年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[5月8日](../Page/5月8日.md "wikilink")まで毎週[火曜日](../Page/火曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")の19:00 - 21:00（[JST](https://ja.wikipedia.org/wiki/JST "wikilink")）に編成されているレーベル枠。
+『**NEXTをさがせ\!**』（ネクストをさがせ\!）は、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で[2020年](../Page/2020年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[5月8日](../Page/5月8日.md "wikilink")まで毎週[火曜日](../Page/火曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")の19:00 - 21:00（[JST](https://ja.wikipedia.org/wiki/JST "wikilink")）に編成されていたレーベル枠。
 
 ## 概要
 
@@ -13,16 +13,18 @@
 
 ## 放送時間
 
-  - 火曜-金曜 19:00-21:00
+  - 火曜-金曜 19:00 - 21:00
 
 ## 番組タイトル・出演者
 
-  - 火曜日：「**南天・佐ん吉/吉弥・吉の丞の落語家の出番です\!**」（出演：[桂南天](../Page/桂南天_\(2代目\).md "wikilink")・[桂佐ん吉](../Page/桂佐ん吉.md "wikilink")、[桂吉弥](../Page/桂吉弥.md "wikilink")・[桂吉の丞](../Page/桂吉の丞.md "wikilink")）
+  - 火曜日：以下の番組を隔週交代で放送
+      - 「**南天・佐ん吉の落語家の出番です\!**」（4月14日・4月28日、出演：[桂南天](../Page/桂南天_\(2代目\).md "wikilink")・[桂佐ん吉](../Page/桂佐ん吉.md "wikilink")）
+      - 「**吉弥・吉の丞の落語家の出番です\!**」（4月21日・5月5日、出演：[桂吉弥](../Page/桂吉弥.md "wikilink")・[桂吉の丞](../Page/桂吉の丞.md "wikilink")）
   - 水曜日：週替わり
       - 「**令和喜多みな実のラヂオ**」（4月15日・4月29日・5月6日、出演：[令和喜多みな実](https://ja.wikipedia.org/wiki/令和喜多みな実 "wikilink")）
       - 「**貼らせてカベポスター**」（4月22日、出演：[カベポスター](https://ja.wikipedia.org/wiki/カベポスター "wikilink")）
-  - 木曜日：「**つぼみ大革命のガンバレボリューション☆**」（出演：[つぼみ大革命](https://ja.wikipedia.org/wiki/つぼみ大革命 "wikilink")（[松下千紘](https://ja.wikipedia.org/wiki/松下千紘 "wikilink")、[糸原沙也加](https://ja.wikipedia.org/wiki/糸原沙也加 "wikilink")、[吉岡久美子](https://ja.wikipedia.org/wiki/吉岡久美子 "wikilink")））
-  - 金曜日：「**太一とヴァギーのMagic Night Friday\!**」（出演：[横山太一](https://ja.wikipedia.org/wiki/横山太一 "wikilink")（[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")アナウンサー）、ベビーヴァギー）
+  - 木曜日：「**つぼみ大革命のガンバレボリューション☆**」（出演：[つぼみ大革命](https://ja.wikipedia.org/wiki/つぼみ大革命 "wikilink")＜[松下千紘](https://ja.wikipedia.org/wiki/松下千紘 "wikilink")、[糸原沙也加](https://ja.wikipedia.org/wiki/糸原沙也加 "wikilink")、[吉岡久美子](https://ja.wikipedia.org/wiki/吉岡久美子 "wikilink")＞）
+  - 金曜日：「**太一とヴァギーのMagic Night Friday\!**」（出演：[横山太一](https://ja.wikipedia.org/wiki/横山太一 "wikilink")＜[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")アナウンサー＞、ベビーヴァギー＜関西地方を中心に活動する[女装家](https://ja.wikipedia.org/wiki/女装家 "wikilink")＞）
 
 ## 脚注
 

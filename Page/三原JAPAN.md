@@ -1,27 +1,33 @@
 > この記事は[三原JAPAN](https://ja.wikipedia.org/wiki/三原JAPAN)から翻訳されています。
 
 
-**三原JAPAN**（サンエンジャパン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を拠点に活動する[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")グループによるチャンネル。 元[フジテレビ社員で映像クリエイターの三原慧悟](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")([:zh:三原慧悟](https://ja.wikipedia.org/wiki/:zh:三原慧悟 "wikilink"))が始めた。また、[日本語](../Page/日本語.md "wikilink")で配信する「サンエン台湾」、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")を拠点に[英語](../Page/英語.md "wikilink")で配信する「123JAPAN\!」、台湾の美食を紹介する「UMAI 美食頻道」、男性メンバー3人で配信する「不愛台彎 I'm Black3」、サブチャンネルとして「サンエン台湾のサブチャンネル」がある。
+**三原JAPAN**（サンエンジャパン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を拠点に活動する[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")グループによるチャンネル。 元[フジテレビ社員で映像クリエイターの三原慧悟が始めた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
 
-## 概要
+## YouTube チャンネル
 
-「三原JAPAN」では、全編中国語で日台のグルメや文化をコミカルに発信する。2019年には[台湾総統の](https://ja.wikipedia.org/wiki/中華民国総統 "wikilink")[蔡英文](../Page/蔡英文.md "wikilink")とコラボ動画を配信した\[1\]。CUPSULE所属\[2\]。
+「三原JAPAN」では、全編中国語で日台のグルメや文化をコミカルに発信する。2019年には[台湾総統の](https://ja.wikipedia.org/wiki/中華民国総統 "wikilink")[蔡英文](../Page/蔡英文.md "wikilink")とコラボ動画を配信した\[1\]。
+
+[日本語](../Page/日本語.md "wikilink")で配信する「[サンエン台湾](https://www.youtube.com/channel/UCQimp8PIBqQSDHXtPg7_g9Q)」、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")を拠点に[英語](../Page/英語.md "wikilink")で配信する「[123JAPAN\!](https://www.youtube.com/channel/UC23SG4XKkSrbhz-bZ2f5Mfw)」、台湾の美食を紹介する「[UMAI 美食頻道](https://www.youtube.com/channel/UCYFdIySa00JrdqzxewUzPQg)」、男性メンバー3人で配信する「[我不愛台灣 I'm Black3](https://www.youtube.com/channel/UCDNurv2EuteHflW3Cfuj2UA)」、サブチャンネルとして「[サンエン台湾のサブチャンネル](https://www.youtube.com/channel/UC9L2RW00CgoDA9uhjtWRrSA)」も配信している。
 
 ## メンバー
 
 ### 三原慧悟
 
-[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")出身\[3\]。学生時代は映像制作にのめり込み、大学4年の時に短編で[TOHOシネマズ学生映画祭](https://ja.wikipedia.org/wiki/TOHOシネマズ学生映画祭 "wikilink")のグランプリを獲得した\[4\]。大学卒業後、第一志望の[フジテレビに入社するも](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「楽しいドラマをつくりたい」という入社時の思いが果たせず、[亀山千広](../Page/亀山千広.md "wikilink")社長に企画書を直接送り付け、1年で100本以上の企画を提出した\[5\]。局長の厚意で入社1年目にして、BSの深夜ドラマ『ブサイクの神様』の監督・脚本・編集を担当した。しかし、学生時代との違いにもどかしさを感じ、フジテレビのネット配信部門でトップを狙うことに方向変換。YouTubeチャンネル「東京ちゃぶ台返し」を設立した\[6\]。1週間で12万回再生を獲得するも、会社の方針とのズレを感じ、「25歳からアイドルになるプロジェクト」を始める。日本人YouTuberが少なく、かつ親日国である台湾に目をつけ、台湾での活動を開始。フジテレビを退社し、台湾での活動を本格化させた。現在ではYouTubeチャンネル「三原JAPAN」を中心に活動。「台湾でもっとも有名な日本人」と評価されている\[7\]\[8\]\[9\]。
+CUPSULE所属\[2\]。[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")出身\[3\]。学生時代は映像制作にのめり込み、大学4年の時に短編で[TOHOシネマズ学生映画祭](https://ja.wikipedia.org/wiki/TOHOシネマズ学生映画祭 "wikilink")のグランプリを獲得した\[4\]。大学卒業後、第一志望の[フジテレビに入社するも](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「楽しいドラマをつくりたい」という入社時の思いが果たせず、[亀山千広](../Page/亀山千広.md "wikilink")社長に企画書を直接送り付け、1年で100本以上の企画を提出した\[5\]。局長の厚意で入社1年目にして、BSの深夜ドラマ『ブサイクの神様』の監督・脚本・編集を担当した。しかし、学生時代との違いにもどかしさを感じ、フジテレビのネット配信部門でトップを狙うことに方向変換。YouTubeチャンネル「東京ちゃぶ台返し」を設立した\[6\]。1週間で12万回再生を獲得するも、会社の方針とのズレを感じ、「25歳からアイドルになるプロジェクト」を始める。日本人YouTuberが少なく、かつ親日国である台湾に目をつけ、台湾での活動を開始。フジテレビを退社し、台湾での活動を本格化させた。現在ではYouTubeチャンネル「三原JAPAN」を中心に活動。「台湾でもっとも有名な日本人」と評価されている\[7\]\[8\]\[9\]。
 
-### その他メンバー
+### 他のメンバー
 
-  - JUNちゃん
-  - ズズ
+  - Jun醬 (變態先生、Junちゃん)
+  - Zuzu (ズズ)
       - 2020年、福岡県の[アジアユースカルチャーセンター](https://ja.wikipedia.org/wiki/アジアユースカルチャーセンター "wikilink")が運営する多言語ポップカルチャー配信サイト「アジアンビート」が福岡アジアコレクションと共同企画した「2020台湾Kawaii大使」の1人に選出された\[10\]\[11\]。
-  - まな
-  - リンリン (\[12\]）
-  - サトウ
+  - Mana (まな)
   - YU君
+  - Sato醬 (サトウちゃん)
+  - LinLin (リンリン, \[12\]）
+
+### 旧メンバー
+
+  - Tommy（トミー）
 
 ## ディスコグラフィー
 
@@ -79,7 +85,7 @@
   -
   -
   -
-[Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink")
+[Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink") [Category:在台日本人](https://ja.wikipedia.org/wiki/Category:在台日本人 "wikilink") [Category:日台関係](https://ja.wikipedia.org/wiki/Category:日台関係 "wikilink")
 
 1.  [蔡総統、人気日本人ユーチューバーとコラボ 「台湾に来て」グルメPR](http://japan.cna.com.tw/news/apol/201908210005.aspx) - フォーカス台湾 [中央社](https://ja.wikipedia.org/wiki/中央通訊社 "wikilink") 2019年8月21日
 2.

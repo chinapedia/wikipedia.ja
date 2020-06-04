@@ -14,7 +14,7 @@
 ## パーソナリティ
 
   - [鈴木おさむ](../Page/鈴木おさむ.md "wikilink")
-  - 陣（[THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")）
+  - [陣](https://ja.wikipedia.org/wiki/陣_\(ダンサー\) "wikilink")（[THE RAMPAGE from EXILE TRIBE](https://ja.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE "wikilink")）
 
 ## 脚注
 

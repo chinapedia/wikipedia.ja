@@ -31,7 +31,7 @@
 <td><p><strong>Pochiko</strong></p></td>
 <td><p><a href="../Page/11月29日.md" title="wikilink">11月29日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p>RoaRの初期メンバー。踊ってみたで動画投稿をしており、RoaRとして初のアイドルデビュー。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>Yukino</strong></p></td>

@@ -9,7 +9,7 @@
 
 ジャケット写真はピクセルアート界のレジェンド「[eBoy](https://ja.wikipedia.org/wiki/eBoy "wikilink")」が手がけた創造の街「YUZUTOWN」のピクセルアートで、[渋谷](../Page/渋谷.md "wikilink")や[横浜中華街](../Page/横浜中華街.md "wikilink")、[みなとみらい](../Page/みなとみらい.md "wikilink")などの実在する街をモチーフに、ユーモラスなキャラクターや造形物が1コマ単位で設置され、アルバムのコンセプトが凝縮されているものとなっている\[3\]。2019年12月31日には、eBoyが手がけたChip Tune的なインストゥルメンタルサウンドと壮大な世界観のピクセルアートによるティザー映像が公開された。
 
-今作の発売を記念して、3月4日と3月9日にプレミアムライブ「YUZU SPECIAL LIVE YUZUTOWN」が、それぞれ東京と大阪で開催予定だったが\[4\]、[新型コロナウイルス感染症に関して](../Page/2019新型コロナウイルス.md "wikilink")2月26日に[日本政府](https://ja.wikipedia.org/wiki/日本政府 "wikilink")から要請された方針に従い、延期となった\[5\]。
+今作の発売を記念して、3月4日と3月9日に開催予定だったプレミアムライブ「YUZU SPECIAL LIVE YUZUTOWN」と今作を引っさげて3月28日から予定されていたアリーナツアー「YUZU ARENA TOUR 2020YUZUTOWN」はいずれも[新型コロナウイルス感染拡大の影響で延期となった](../Page/2019新型コロナウイルス.md "wikilink")\[4\]\[5\]。
 
 また、今作に「[公園通り](https://ja.wikipedia.org/wiki/公園通り_\(曲\) "wikilink")」が収録されていることから、[渋谷PARCO](https://ja.wikipedia.org/wiki/渋谷PARCO "wikilink")とコラボレーションしたPOP-UPショップが2月29日から3月8日までの期間限定でオープンした。
 
@@ -30,6 +30,9 @@
         [カラオケ](../Page/カラオケ.md "wikilink")で本人映像ではないときに流れるドラマ仕立ての“背景映像”をオマージュしたMVが作られており、横浜中華街でのとある男女の恋愛模様を描いている。「カラオケで歌ってもらいたい」という思いから、通常のゆずのMVを製作するスタッフではなく、[第一興商](../Page/第一興商.md "wikilink")のスタッフが制作し、[カラオケDAMにてカラオケ店限定で先行配信された](../Page/DAM_\(カラオケ\).md "wikilink")。
 3.  **～Pinky Town～**
       - Arranged by : [TeddyLoid](https://ja.wikipedia.org/wiki/TeddyLoid "wikilink")
+    <!-- end list -->
+      -
+        2020年5月から配信しているWEBラジオ番組「Yuzucast」のエンディングで流れている。
 4.  **花咲ク街**
       - 作詞 : 北川悠仁 / 作曲：北川悠仁 / Sound Produced by [釣俊輔](https://ja.wikipedia.org/wiki/釣俊輔 "wikilink") & ゆず
     <!-- end list -->
@@ -63,12 +66,15 @@
         北川が嵐の[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")と飲んでいた時に「いつか嵐の曲を作れたらいいね」と話していたら、数ヶ月後に実際に楽曲提供が実現したという。
 11. **～Green Town～**
       - Arranged by : TeddyLoid
+    <!-- end list -->
+      -
+        2020年5月から配信しているWEBラジオ番組「Yuzucast」のオープニングで流れている。
 12. **[マスカット](https://ja.wikipedia.org/wiki/マスカット_\(曲\) "wikilink")**
       - 作詞 : 北川悠仁 / 作曲：北川悠仁 / Sound Produced by TeddyLoid & ゆず
     <!-- end list -->
       -
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")』主題歌
-        本作の中で唯一のCDシングル曲。
+        今作の中で唯一のCDシングル曲。
 13. **まだまだ**
       - 作詞 : 岩沢厚治 / 作曲：岩沢厚治 / Arranged by トオミヨウ & ゆず
     <!-- end list -->

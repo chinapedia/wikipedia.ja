@@ -48,7 +48,8 @@
 <small>ももせ めぐ</small></p></td>
 <td></td>
 <td><p>桃色のリボン(Cute)</p></td>
-<td><p>元M!MiC。「須崎芽育」名義で「<a href="https://ja.wikipedia.org/wiki/今日、好きになりました。" title="wikilink">今日、好きになりました。</a>」（<a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>）出演</p></td>
+<td><p>元M!MiC。「須崎芽育」名義で「<a href="https://ja.wikipedia.org/wiki/今日、好きになりました。" title="wikilink">今日、好きになりました。</a>」（<a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>）出演<br />
+<a href="https://ja.wikipedia.org/wiki/サキドルエースSURVIVAL#サキドルエースSURVIVAL_SEASON10" title="wikilink">サキドルエースSURVIVAL SEASON10</a>（<a href="../Page/集英社.md" title="wikilink">集英社</a>）参加[9]</p></td>
 </tr>
 </tbody>
 </table>
@@ -69,7 +70,7 @@
 
 ### テレビ
 
-  - 「[NEXT IDOL GRANDPRIX](https://ja.wikipedia.org/wiki/NEXT_IDOL_GRANDPRIX "wikilink") 前夜祭 -伝説を作るのは君だぁ～！スペシャルぅ\!\!-」\#1（[Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink") 2019年10月5日、[チバテレ](../Page/千葉テレビ放送.md "wikilink") 2019年10月6日 ）\[9\]
+  - 「[NEXT IDOL GRANDPRIX](https://ja.wikipedia.org/wiki/NEXT_IDOL_GRANDPRIX "wikilink") 前夜祭 -伝説を作るのは君だぁ～！スペシャルぅ\!\!-」\#1（[Kawaiian TV](https://ja.wikipedia.org/wiki/Kawaiian_TV "wikilink") 2019年10月5日、[チバテレ](../Page/千葉テレビ放送.md "wikilink") 2019年10月6日 ）\[10\]
   - 「NEXT IDOL GRANDPRIX 後夜祭」（Kawaiian TV 2019年10月26日、チバテレ 2019年10月27日・11月3日）
   - 「[ダイヤモンド☆コレクション](https://ja.wikipedia.org/wiki/ダイヤモンド☆コレクション "wikilink")〜BRASH UP BOUT\!\!〜\#7」（チバテレ 2020年1月14日（13日深夜））
 
@@ -207,3 +208,4 @@
 7.
 8.
 9.
+10.

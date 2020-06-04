@@ -73,6 +73,8 @@
 
 :\* 周防由希子 - [三倉茉奈](../Page/マナカナ.md "wikilink")
 
+:\* 大須純（「デフォルトピア」の主人公） - [鈴之助](https://ja.wikipedia.org/wiki/鈴之助 "wikilink")
+
   -
 
   - ゲスト

@@ -1,56 +1,27 @@
 > この記事は[Shoot Out](https://ja.wikipedia.org/wiki/Shoot_Out)から翻訳されています。
 
 
-「**Shoot Out**」（シュート アウト）は、韓国の男性7人組の歌手グループ、[MONSTA Xの日本](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")5枚目のシングル。
+「**Shoot Out**」（シュート アウト）は、韓国の男性歌手グループ、[MONSTA Xの楽曲](https://ja.wikipedia.org/wiki/Monsta_X "wikilink")。韓国語バージョンと英語バージョンと日本語バージョンの3バージョンが制作されており、韓国語バージョンは[2018年](../Page/2018年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[LOENエンターテインメント](https://ja.wikipedia.org/wiki/LOENエンターテインメント "wikilink")より2ndフル・アルバム『Take.1 Are You There?』からのリード・シングルとして、英語バージョンは2018年[11月8日](../Page/11月8日.md "wikilink")に配信限定で、日本語バージョンは[2019年](../Page/2019年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に日本での5作目のシングルとして発売された。
 
-## 解説
+作詞はソ・ジウムは手がけ、作曲はダニエル・キムとStereo14の共作で、ラップ部分は[ジュホン](https://ja.wikipedia.org/wiki/ジュホン "wikilink")とI.Mによって書かれた。歌詞は喪失感と迷いの狭間で救いを求めて彷徨うさまを描いたもの\[1\]\[2\]。
 
-前作「[LIVIN' IT UP](https://ja.wikipedia.org/wiki/LIVIN'_IT_UP "wikilink")」から約半年ぶりのリリース。
+なお、事務所の後輩グループである[IZ\*ONE](https://ja.wikipedia.org/wiki/IZ*ONE "wikilink")の日本のファンがMONSTA Xを指す名称として使用している「ワカワカ先輩」は、本作の冒頭の「Walker, walker」というフレーズを空耳したワードに由来している\[3\]。
 
-表題曲は韓国で発売された楽曲の日本語バージョンで、このような楽曲がシングル表題曲となるのは2ndシングル「[Beautiful](https://ja.wikipedia.org/wiki/Beautiful_\(MONSTA_Xの曲\) "wikilink")」以来3曲目となる\[1\]。
+## リリース
 
-初回限定盤A、初回限定盤B、通常盤の3形態でリリースされ、初回限定盤Aに付属のDVDには「Shoot Out」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とメイキング映像が収録された（その他の形態の詳細は[後述を参照](https://ja.wikipedia.org/wiki/#仕様 "wikilink")）\[2\]。
+[2018年](../Page/2018年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[LOENエンターテインメント](https://ja.wikipedia.org/wiki/LOENエンターテインメント "wikilink")より2ndフル・アルバム『Take.1 Are You There?』からのリード・シングルとして発売され、『Take.1 Are You There?』の3曲目に収録された。同日には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が公開された\[4\]。
 
-2019年[4月8日](../Page/4月8日.md "wikilink")付のオリコン週間シングルランキングで初登場2位を獲得\[3\]し、販売枚数10万枚を突破してゴールド・ディスク認定を受けた\[4\]。
+[11月8日](../Page/11月8日.md "wikilink")には配信限定で英語バージョンが発売された\[5\]。
 
-## 仕様
+[2019年](../Page/2019年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[Mercury Tokyoより日本語バージョンが](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、5作目のシングルとして発売され、カップリング曲として「叶わぬ恋と知りながらも、抑えられない感情」を描いた日本オリジナル楽曲「FLASH BACK」が収録された\[6\]。前作『[LIVIN' IT UP](https://ja.wikipedia.org/wiki/LIVIN'_IT_UP "wikilink")』から約半年ぶりのリリースで、初回限定盤A（[品番](../Page/規格品番.md "wikilink") : UMCE-89400）、初回限定盤B（品番 : UMCE-89401）、通常盤（品番 : UMCE-89402）の3形態でのリリースされた\[7\]。初回限定盤Aに付属のDVDには「Shoot Out」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とメイキング映像が収録された。初回限定盤Aには表題曲「Shoot Out」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")とメイキング映像が収録されたDVDが付属し、初回限定盤Bはアナログサイズジャケット仕様でアナザージャケット全7種のうち1枚がランダムで、通常盤には初回限定特典として全15種のトレーディングカード\[8\]のうち1枚がランダムで封入された\[9\]
 
-**【初回限定盤A】**
+## チャート成績
 
-  - CD+DVD
-  - スリーブケース仕様
+韓国語バージョンは、[Component Download Chartで最高](https://ja.wikipedia.org/wiki/ガオンチャート "wikilink")41位、[ビルボード](../Page/ビルボード.md "wikilink")誌が発表したWorld Digital Song Salesチャートで最高6位を獲得した\[10\]。
 
-**【初回限定盤B】**
+日本語バージョンが収録されたシングルは、2019年[4月8日](../Page/4月8日.md "wikilink")付のオリコン週間シングルランキングで初登場2位を獲得\[11\]し、販売枚数10万枚を突破して[日本レコード協会](../Page/日本レコード協会.md "wikilink")からゴールド認定を受けた\[12\]。
 
-  - CD
-  - アナログサイズジャケット仕様
-  - アナザージャケット:全7種のうち1種をランダム封入
-
-**【通常盤】**
-
-  - CD
-  - 初回プレス分
-  - トレーディングカード:全15種のうち1種ランダム封入（メンバーソロ各14種・集合1種）※初回プレス分のみ
-
-## 収録曲
-
-### CD
-
-1.  **Shoot Out -Japanese ver.-**（3:28）
-      - 作詞：YVES\&ADAMS / 作曲：Daniel Kim, Stereo14
-    <!-- end list -->
-      -
-        韓国で発売された2ndアルバム『[TAKE:1 ARE YOU THERE](https://ja.wikipedia.org/wiki/TAKE:1_ARE_YOU_THERE "wikilink")』に収録の「Shoot Out」の日本語バージョン\[5\]\[6\]。
-2.  **FLASH BACK**（3:27）
-      - 作詞：YVES & ADAMS / 作曲：Albin Nordqvist, Yoshi Breen, Peter St James
-    <!-- end list -->
-      -
-        日本オリジナル曲\[7\]で、叶わぬ恋と知りながらも、抑えられない感情を描いた楽曲\[8\]。
-
-### DVD（初回限定盤Aのみ）
-
-  - **Shoot Out (Music Video)**
-  - **Shoot Out (Music Video Making)**
+## 収録内容
 
 ## 脚注
 
@@ -58,13 +29,17 @@
 
 ### 出典
 
-[Category:MONSTA_Xの楽曲](https://ja.wikipedia.org/wiki/Category:MONSTA_Xの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:MONSTA_Xの楽曲](https://ja.wikipedia.org/wiki/Category:MONSTA_Xの楽曲 "wikilink") [Category:2018年のシングル](https://ja.wikipedia.org/wiki/Category:2018年のシングル "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
-1.  カップリング曲を含めると、「SHINE FOREVER」（3rdシングル「[SPOTLIGHT](https://ja.wikipedia.org/wiki/SPOTLIGHT_\(MONSTA_Xの曲\) "wikilink")」のカップリング）以来4曲目。
+1.
 2.
 3.
 4.
 5.
 6.
 7.
-8.
+8.  メンバーソロ14種と全員が揃った1種の計15種。
+9.
+10.
+11.
+12.

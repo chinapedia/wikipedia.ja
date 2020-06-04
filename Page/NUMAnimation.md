@@ -51,7 +51,7 @@ or<br />
 <td><p>テレビ朝日</p></td>
 <td><p>○</p></td>
 <td><p>中京圏・関西圏は未放送。<br />
-<a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a>でも放送。</p></td>
+<a href="../Page/大分朝日放送.md" title="wikilink">大分朝日放送</a>、<a href="../Page/テレ朝チャンネル.md" title="wikilink">テレ朝チャンネル</a>1でも放送。</p></td>
 </tr>
 </tbody>
 </table>
@@ -69,7 +69,7 @@ or<br />
       - [アニサタ](https://ja.wikipedia.org/wiki/アニサタ "wikilink") - 本枠の10分後に放送している深夜アニメ枠。
       - [水曜アニメ〈水もん〉](https://ja.wikipedia.org/wiki/水曜アニメ〈水もん〉 "wikilink") - 木曜未明に放送している深夜アニメ枠。
   - [あに。](https://ja.wikipedia.org/wiki/あに。 "wikilink") - [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")が帯番組として1日1作品放送している深夜アニメ枠。
-  - [アニメA](https://ja.wikipedia.org/wiki/アニメA "wikilink") - [BS朝日が金曜日](../Page/ビーエス朝日.md "wikilink")23時台に放送している深夜アニメ枠。
+  - [アニメA](https://ja.wikipedia.org/wiki/アニメA "wikilink") - [BS朝日が金曜日](../Page/ビーエス朝日.md "wikilink")23時台に放送している深夜アニメ枠。後半枠では、当枠の作品が放送されているが、『NUMAnimation』の扱いはされていない。
 
 ## 外部リンク
 

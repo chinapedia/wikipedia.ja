@@ -13,7 +13,7 @@
 
 作詞・作曲：[小渕健太郎](../Page/小渕健太郎.md "wikilink")、編曲：コブクロ
 
-1.  **大阪SOUL**
+1.  **大阪SOUL**（4:40）
       -
         [大阪マラソン](https://ja.wikipedia.org/wiki/大阪マラソン "wikilink")2019テーマソング
 

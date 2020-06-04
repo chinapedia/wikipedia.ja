@@ -11,7 +11,7 @@ TOP Bro jr.として多くのダンスコンテスト等に出場していた。
 
 Castle Jはそれ以前にも子役として活動していた。
 
-WINはオーディション番組 UNDER19 に出場。途中降板
+WINはオーディション番組『UNDER19』に出場。途中降板
 
 ### 2020年
 
@@ -83,8 +83,6 @@ WINはオーディション番組 UNDER19 に出場。途中降板
 </tbody>
 </table>
 
-
-
 ## ディスコグラフィー
 
 ### ミニアルバム
@@ -95,20 +93,28 @@ WINはオーディション番組 UNDER19 に出場。途中降板
 <th><p>No.</p></th>
 <th><p>タイトル</p></th>
 <th><p>収録曲</p></th>
+<th><p><span style="font-size:85%">Gaon<br />
+チャート<br />
+（週間）</span></p></th>
+<th><p>売上枚数</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>into the ICE AGE</strong> (2020年2月27日)<br />
-</p></td>
+<td><p><strong>into the ICE AGE</strong><br />
+(2020年2月27日)</p></td>
 <td><ol>
 <li>into the ICE AGE</li>
 <li><strong>ICE AGE</strong></li>
-<li>Stereotype</li>
+<li>Stereotypes</li>
 <li>Hey You</li>
 <li>TOP GANG</li>
 </ol></td>
+<td><p>16位<br />
+[6]</p></td>
+<td><p>14,398枚<br />
+[7]</p></td>
 </tr>
 </tbody>
 </table>
@@ -126,15 +132,16 @@ WINはオーディション番組 UNDER19 に出場。途中降板
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>TOP GANG</strong> (2020年1月2日)<br />
-</p></td>
+<td><p><strong>TOP GANG</strong><br />
+(2020年1月2日)</p></td>
 <td><ol>
 <li><strong>TOP GANG</strong></li>
 </ol></td>
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p><strong>떠(Spring)</strong> (2020年4月9日)</p></td>
+<td><p><strong>떠(Spring)</strong><br />
+(2020年4月9日)</p></td>
 <td><ol>
 <li><strong>떠(Spring)</strong></li>
 </ol></td>
@@ -175,17 +182,14 @@ WINはオーディション番組 UNDER19 に出場。途中降板
 </tbody>
 </table>
 
-
-
 ## 出演
 
-  - [EBS](../Page/韓国教育放送公社.md "wikilink") TVで見る原作童話 (2011年-キャッスルジェイ)\[6\]
-  - [MBC](../Page/文化放送_\(韓国\).md "wikilink") 女王の教室 (2013年-キャッスルジェイ)\[7\]
-  - [MBC](../Page/文化放送_\(韓国\).md "wikilink") UNDER19 (2018年〜2019年-ウィン)\[8\] ※本名のバン・ジュニョクとして出演。個人の事情により途中で降板。
-  - [SBS](../Page/SBS_\(韓国\).md "wikilink") THE FAN (2018年〜2019年-ミンジェ、フィジュン)\[9\]
+  - [EBS](../Page/韓国教育放送公社.md "wikilink") TVで見る原作童話 (2011年-キャッスルジェイ)\[8\]
+  - [MBC](../Page/文化放送_\(韓国\).md "wikilink") 女王の教室 (2013年-キャッスルジェイ)\[9\]
+  - [MBC](../Page/文化放送_\(韓国\).md "wikilink") UNDER19 (2018年〜2019年-ウィン)\[10\] ※本名のバン・ジュニョクとして出演。個人の事情により途中で降板。
+  - [SBS](../Page/SBS_\(韓国\).md "wikilink") THE FAN (2018年〜2019年-ミンジェ、フィジュン)\[11\]
 
-
-\== 脚注 ==
+## 脚注
 
 ## 外部リンク
 
@@ -195,16 +199,19 @@ WINはオーディション番組 UNDER19 に出場。途中降板
   -
   -
   -
+  -
   - [MCND - V LIVE](https://channels.vlive.tv/A3FB67/home)
 
-[Category:韓国のポップ歌手](https://ja.wikipedia.org/wiki/Category:韓国のポップ歌手 "wikilink") [Category:韓国の音楽グループ](https://ja.wikipedia.org/wiki/Category:韓国の音楽グループ "wikilink") [Category:アイドルグループ](https://ja.wikipedia.org/wiki/Category:アイドルグループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
+[Category:韓国のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:韓国のボーイ・バンド "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.
-7.
+6.  [Gaonアルバムチャート2020年3月1日\~2020年3月7日](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2020&termGbn=week)
+7.  [Gaonアルバム月間チャート2020年4月](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2020&termGbn=month)
 8.
 9.
+10.
+11.

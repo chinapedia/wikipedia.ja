@@ -268,7 +268,7 @@
 
   - ※わーすた公式チャンネル
 
-[Category:エイベックス・グループのアルバム](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアルバム "wikilink") [Category:2019年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のライブ・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:わーすたのアルバム](https://ja.wikipedia.org/wiki/Category:わーすたのアルバム "wikilink") [Category:2019年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2019年のライブ・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.

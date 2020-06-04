@@ -63,7 +63,7 @@
 <!-- end list -->
 
   -
-    [EMPiRE](https://ja.wikipedia.org/wiki/EMPiRE "wikilink")所属。BiS(第二期)解散に伴う[ゴ・ジーラ](https://ja.wikipedia.org/wiki/ゴ・ジーラ "wikilink")と[アヤ・エイトプリンス](https://ja.wikipedia.org/wiki/アヤ・エイトプリンス "wikilink")の卒業により\[11\]、2019年8月4日「[TOKYO IDOL FESTIVAL 2019にて加入](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")\[12\]。
+    [EMPiRE](https://ja.wikipedia.org/wiki/EMPiRE "wikilink")所属。BiS(第二期)解散に伴う[ゴ・ジーラ](https://ja.wikipedia.org/wiki/ゴ・ジーラ "wikilink")と[アヤ・エイトプリンス](../Page/アヤ・エイトプリンス.md "wikilink")の卒業により\[11\]、2019年8月4日「[TOKYO IDOL FESTIVAL 2019にて加入](https://ja.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL_2019 "wikilink")\[12\]。
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
 <!-- end list -->
 
-  - **[アヤ・エイトプリンス](https://ja.wikipedia.org/wiki/アヤ・エイトプリンス "wikilink")**
+  - **[アヤ・エイトプリンス](../Page/アヤ・エイトプリンス.md "wikilink")**
 
 <!-- end list -->
 

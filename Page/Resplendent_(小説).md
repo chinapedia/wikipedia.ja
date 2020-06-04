@@ -1,34 +1,34 @@
 > この記事は[Resplendent \(小説\)](https://ja.wikipedia.org/wiki/Resplendent_\(小説\))から翻訳されています。
 
 
-**Resplendent**は2006年に出版された[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")の[小説家](../Page/小説家.md "wikilink")[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")によるSF小説[短編集](https://ja.wikipedia.org/wiki/短編集 "wikilink")。[デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")シリーズの最終作。
+『**Resplendent**』（レスプレンデント）は、2006年に出版された[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")の[小説家](../Page/小説家.md "wikilink")[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")によるSF小説[短編集](https://ja.wikipedia.org/wiki/短編集 "wikilink")。『[デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")』シリーズの最終作。
 
-短編の合間には不死人の少女ルル・パーツによる幕間が挿入されている。シリーズ全体を読むと彼女が短編集の最後まで全て経験をしたかのような歴史を形成する。
+短編の合間には不死人の少女ルル・パーツによる幕間が挿入されている。シリーズ全体を読むと、彼女が短編集の最後まで全て経験をしたかのような歴史を形成する。
 
 ## 収録作
 
-  - Cadre Siblings (from *[Interzone](https://ja.wikipedia.org/wiki/Interzone_\(magazine\) "wikilink")* 153, 2000年3月)
+  - Cadre Siblings (*Interzone* 153, 2000年3月)
   - Reality Dust (2000)
-  - Silver Ghost(*[Asimov’s](https://ja.wikipedia.org/wiki/Isaac_Asimov's_Science_Fiction_Magazine "wikilink")*2000年9月）- [SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")2003年2月号に邦訳掲載
-  - On the Orion Line (*Asimov’s*, 2000年10月）
-  - In the Un-Black (from *Redshift*, 2001)
-  - The Ghost Pit (*Asimov’s*, 2001年7月）
-  - The Cold Sink (*Asimov’s*, 2001年8月）
-  - Breeding Ground (*Asimov’s*, 2003年2月）
-  - The Great Game (*Asimov’s*, 2003年3月）
-  - The Chop Line (*Asimov’s*, 2003)
+  - Silver Ghost(*Asimov's* 2000年9月）- 『[S-Fマガジン](../Page/S-Fマガジン.md "wikilink")』2003年2月号に日本語訳掲載
+  - On the Orion Line (*Asimov's*, 2000年10月）
+  - In the Un-Black (*Redshift*, 2001)
+  - The Ghost Pit (*Asimov's*, 2001年7月）
+  - The Cold Sink (*Asimov's*, 2001年8月）
+  - Breeding Ground (*Asimov's*, 2003年2月）
+  - The Great Game (*Asimov's*, 2003年3月）
+  - The Chop Line (*Asimov's*, 2003)
   - The Dreaming Mould, (*Interzone* 179, 2002年5月）
-  - Conurbation 2473 (from *Live without a Net*, 2003年8月）
-  - All in a Blaze (from *Stars: Stories Based on the Songs of Janis Ian*, 2003)
-  - Riding the Rock' (2002年11月）
-  - Lakes of Light (from *Constellations*, 2005)
-  - Between Worlds (from *Between Worlds*, 2004年9月より）
+  - Conurbation 2473 (*Live without a Net*, 2003年8月）
+  - All in a Blaze (*Stars: Stories Based on the Songs of Janis Ian*, 2003)
+  - Riding the Rock (2002年11月）
+  - Lakes of Light (*Constellations*, 2005)
+  - Between Worlds (*Between Worlds*, 2004年9月）
   - Mayflower II (2004年8月）
-  - Ghost Wars (from *Asimov’s*, 2006年1月）
+  - Ghost Wars (*Asimov's*, 2006年1月）
 
 ## あらすじ
 
-### Reality Dust
+### Reality Dus t
 
 物語の舞台は第3次拡張時代が始まってすぐの頃の西暦5408年。3000年ごろに始まった最初の拡張の時代は、4874年に人類がスクウィームによって征服されたとき終了した。その後、スクウィームが撤退し5000年頃に始まった第2次拡張時代はクワックスによる人類の征服で終わりを告げる。ジム・ボールダーによるクワックスの母星の星系の破壊(短編**青方偏移**)の後、5400年ごろに第三時拡張時代が始まった\[1\] 。主人公である歴史真理委員会の調査員である「ハマ」は、生存しているクワックスの協力者を調査していた（クワックスはAS非老化テクノロジーへのアクセスを制限していたため）。協力者達は遥かな時を生き、「ファラオ」と呼ばれていた。彼はファラオ達を逮捕しに[木星](../Page/木星.md "wikilink")の[衛星](../Page/衛星.md "wikilink")[カリスト](https://ja.wikipedia.org/wiki/カリスト "wikilink")に赴く。
 
@@ -36,7 +36,7 @@
 
 第3次拡張時代の西暦23479年。人類はスクウィームとクワックスの連続した支配を打ち破った後、バリオン種族の中でジーリーに次ぐほど成功している。しかし、人類は1万8000年以上にわたってジーリーとの戦争を続けていたために、13歳の若さで兵士を送り出すほど極端に軍事的な社会となっていた。 主人公は歴史真理委員会の新人ルカ。若きルカは銀河全体の戦争を制御し、推進する知性ネットワークの中心にいた。そんなルカは艦長ティールと出会いすぐに惹かれる。しかし、拡張に対するルカの義務は、彼を銀河中心部激戦区への並外れた旅へいざなう。ルカはそこで星間戦争の真実に立ち向かう。
 
-### MayflowerII
+### Mayflower II
 
 西暦5420年に太陽系から去った[世代宇宙船](../Page/世代宇宙船.md "wikilink")が主な舞台となる。[世代宇宙船](../Page/世代宇宙船.md "wikilink")が発進してから数千年が経過すると、人々は宇宙船に乗っていることを忘れ、宗教的な儀式を通してのみそのメカニズムを実行し始めるようになった。25000年後、船上の人間は進化の過程で分裂し、半分は子供のような短命な部族の人々となり、半分は共食いを行うようになる。結末のこの状況は恐ろしいように見えるかもしれないが、生命と進化は道を見つけ、人間は伝統的に人間と考えられていたものを放棄することを意味していても、生き続ける方法を見つけるという事実を語っている。
 
@@ -50,15 +50,15 @@
 
 ### Siege of Earth
 
-本に含まれる最後の物語であり、火星の若者と小説の全体的な語り手であるルルとの出会いを描いている。この本の最後の部分では、『Xeelee：Endurance』に収録されている『Old Earth』の起源について説明している。
+本書の最後の物語であり、火星の若者と小説の全体的な語り手であるルルとの出会いを描いている。この本の最後の部分では、『Xeelee：Endurance』に収録されている『Old Earth』の起源について説明している。
+
+## 脚注
 
 ## 関連項目
 
   - [ジーリー](../Page/ジーリー.md "wikilink")
   - [デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")
 
-## 脚注
-
-[Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:2006年の小説](https://ja.wikipedia.org/wiki/Category:2006年の小説 "wikilink") [Category:ジーリー・クロニクル](https://ja.wikipedia.org/wiki/Category:ジーリー・クロニクル "wikilink") [Category:スティーヴン・バクスター](https://ja.wikipedia.org/wiki/Category:スティーヴン・バクスター "wikilink") [Category:地球外生命体を題材とした小説](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした小説 "wikilink") [Category:未来を題材にした小説](https://ja.wikipedia.org/wiki/Category:未来を題材にした小説 "wikilink") [Category:宇宙戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙戦争を題材とした作品 "wikilink") [Category:天文を扱った作品](https://ja.wikipedia.org/wiki/Category:天文を扱った作品 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink")
+[Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:イギリスの短編小説集](https://ja.wikipedia.org/wiki/Category:イギリスの短編小説集 "wikilink") [Category:2006年の小説の短編集](https://ja.wikipedia.org/wiki/Category:2006年の小説の短編集 "wikilink") [Category:デスティニーズチルドレン](https://ja.wikipedia.org/wiki/Category:デスティニーズチルドレン "wikilink")
 
 1.

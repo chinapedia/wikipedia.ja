@@ -50,10 +50,8 @@
 ## 参考資料
 
   -
-<!-- end list -->
-
   -
-[Category:アメリカ合衆国の路面電車車両](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の路面電車車両 "wikilink") [Category:PCCカー](https://ja.wikipedia.org/wiki/Category:PCCカー "wikilink") [Category:1936年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1936年製の鉄道車両 "wikilink")
+[Category:アメリカ合衆国の路面電車車両](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の路面電車車両 "wikilink") [Category:PCCカー](https://ja.wikipedia.org/wiki/Category:PCCカー "wikilink") [Category:かつて存在した路面電車車両](https://ja.wikipedia.org/wiki/Category:かつて存在した路面電車車両 "wikilink") [Category:1936年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1936年製の鉄道車両 "wikilink")
 
 1.
 2.

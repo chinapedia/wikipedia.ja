@@ -232,7 +232,7 @@
 <td><p>第24代</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィル・オスプレイ" title="wikilink">ウィル・オスプレイ</a></p></td>
 <td><p>1</p></td>
-<td><p>2+</p></td>
+<td><p>+</p></td>
 <td><p>2020年2月14日</p></td>
 <td><p>ヨークホール</p></td>
 </tr>
@@ -251,4 +251,4 @@
 
   - [RPW公式サイト](http://www.RevolutionProWrestling.com)
 
-[Category:プロレスのヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのヘビー級王座 "wikilink")
+[Category:新日本プロレスの王座](https://ja.wikipedia.org/wiki/Category:新日本プロレスの王座 "wikilink") [Category:プロレスのヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのヘビー級王座 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Sano ibuki](https://ja.wikipedia.org/wiki/Sano_ibuki)から翻訳されています。
 
 
-**Sano ibuki**（サノ イブキ）は日本の男性シンガーソングライターである。
+**Sano ibuki**（さの いぶき、[1996年](../Page/1996年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")である。[岐阜県](../Page/岐阜県.md "wikilink")出身。所属レーベルは[UNIVERSAL MUSIC内のレーベルであるEMI](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") Records。
 
 ## 略歴
 
@@ -25,7 +25,7 @@
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th><p>発売日b</p></th>
+<th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
@@ -34,18 +34,52 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://ja.wikipedia.org/wiki/12月13日" title="wikilink">12月13日</a></p></td>
+<td><p><strong>魔法</strong></p></td>
+<td><p>SANO-0707</p></td>
+<td><ol>
+<li>魔法</li>
+</ol></td>
+<td><ul>
+<li><a href="../Page/タワーレコード.md" title="wikilink">タワーレコード</a>新宿店限定販売の1曲入りシングル。</li>
+<li>2018年3月11日に初回生産分完売。</li>
+<li>同年4月12日に追加生産分が発売されたが、同年5月8日に完売。現在は入手困難。</li>
+</ul>
+<div class="NavFrame" style="clear: both; border:0;">
+<div class="NavHead" style="text-align: left;">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<p>{{Infobox Single</p></td>
+</tr>
+<tr class="even">
 <td><p>1st</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/12月11日.md" title="wikilink">12月11日</a></p></td>
 <td><p><strong>決戦前夜/おまじない/スピリット</strong></p></td>
-<td><p>UPCH-89415</p></td>
+<td><p>初回仕様:UPCH-89415<br />
+通常仕様:UPCH-80526</p></td>
 <td><ol>
 <li>決戦前夜</li>
 <li>おまじない</li>
 <li>スピリット</li>
+<li>黒髪、白のワンピース<br />
+[Bonus Track]<br />
+(CDのみの収録)</li>
 </ol></td>
-<td><p>オリコン最高143位</p></td>
+<td><ul>
+<li>初回仕様のみ額縁ジャケット。</li>
+<li>アニメ映画『<a href="https://ja.wikipedia.org/wiki/ぼくらの7日間戦争" title="wikilink">ぼくらの7日間戦争</a>』主題歌の3曲を収録。</li>
+<li>「決戦前夜」は1stフルアルバム『STORY TELLER』からのリカット。</li>
+</ul>
+<div class="NavFrame" style="clear: both; border:0;">
+<div class="NavHead" style="text-align: left;">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<p>{{Infobox Single</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -58,13 +92,13 @@
 
 ### 配信シングル
 
-| 発売日        | タイトル                  | 備考   |
-| ---------- | --------------------- | ---- |
-| 2018年6月15日 | **スイマー**              | 先行配信 |
-| 2019年9月4日  | **革命的閃光弾**            |      |
-| **滅亡と砂時計** |                       |      |
-| 2020年3月24日 | **emerald city**\[6\] |      |
-|            |                       |      |
+| 発売日                                                                      | タイトル                  | 収録作品         | 備考   |
+| ------------------------------------------------------------------------ | --------------------- | ------------ | ---- |
+| [2018年](../Page/2018年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink") | **スイマー**              | EMBLEM       | 先行配信 |
+| [2019年](../Page/2019年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")   | **革命的閃光弾**            | STORY TELLER |      |
+| **滅亡と砂時計**                                                               | STORY TELLER          |              |      |
+| [2020年](../Page/2020年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") | **emerald city**\[6\] | SYMBOL       |      |
+|                                                                          |                       |              |      |
 
 ### アルバム
 
@@ -72,7 +106,7 @@
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th><p>発売日b</p></th>
+<th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
@@ -94,7 +128,15 @@
 <li>finlay</li>
 <li>春霞</li>
 </ol></td>
-<td><p>オリコン最高140位</p></td>
+<td><ul>
+<li>自身初の全国流通盤</li>
+</ul>
+<div class="NavFrame" style="clear: both; border:0;">
+<div class="NavHead" style="text-align: left;">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<p>{{Infobox Album</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
@@ -115,13 +157,23 @@
 <li>マリアロード</li>
 <li>梟</li>
 </ol></td>
-<td><p>オリコン最高137位</p></td>
+<td><ul>
+<li>メジャーデビューアルバム</li>
+<li>初回生産分のみ「コンパスシート」封入</li>
+</ul>
+<div class="NavFrame" style="clear: both; border:0;">
+<div class="NavHead" style="text-align: left;">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<p>{{Infobox Album</p></td>
 </tr>
 <tr class="odd">
 <td><p>1st EP</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月13日.md" title="wikilink">5月13日</a></p></td>
 <td><p><strong>SYMBOL</strong></p></td>
-<td><p>UPCH-29355</p></td>
+<td><p>初回仕様:UPCH-29355<br />
+通常仕様:UPCH-20544</p></td>
 <td><ol>
 <li>origin (instrumental)</li>
 <li>emerald city</li>
@@ -131,7 +183,16 @@
 <li>記念碑</li>
 <li>Sága (instrumental)</li>
 </ol></td>
-<td><p>オリコン最高-位</p></td>
+<td><ul>
+<li>初回仕様のみ三方背ケース仕様 &amp; 「emerald city」地図付属</li>
+<li>初回出荷分のみライブ「瑠璃の館」先行案内封入</li>
+</ul>
+<div class="NavFrame" style="clear: both; border:0;">
+<div class="NavHead" style="text-align: left;">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align: left;">
+<p>{{Infobox Album</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -447,6 +508,22 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 </ul></td>
 </tr>
 <tr class="even">
+<td><p>2020年8月22日～8月31日（予定）</p></td>
+<td><p>Sano ibuki LIVE “瑠璃の館”</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>詳細</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>8月22日 - 大阪・心斎橋JANUS</li>
+<li>8月31日 - 東京・SHIBUYA PLEASURE PLEASURE</li>
+</ul>
+<p>[8]</p>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -465,7 +542,8 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
   - 2017年09月17日 - [TOKYO CALLING](../Page/TOKYO_CALLING.md "wikilink") 2017
   - 2017年09月26日 - HOT STUFF presents Ruby Tuesday 25
   - 2017年09月30日 - フジソニック2017
-  - 2017年10月28日 - [武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink") 芸術祭「オトトヒト 2017」\[8\]
+  - 2017年10月28日 - [武蔵野美術大学](../Page/武蔵野美術大学.md "wikilink") 芸術祭「オトトヒト 2017」\[9\]
+  - 2018年03月10日 - J-WAVE(81.3FM)主催「J-WAVE TOKYO GUITAR JAMBOREE〜YOUNGBLOOD〜」※ゲストアクト
   - 2018年03月16日 - HOPE\!
   - 2018年05月05日 - J-WAVE & Roppongi Hills present TOKYO M.A.P.S ～YOSHIKI MIZUNO EDITION～
   - 2018年06月02日 - [SAKAE SP-RING](https://ja.wikipedia.org/wiki/SAKAE_SP-RING "wikilink") 2018
@@ -505,4 +583,5 @@ bayfm78 POWER PLAY(2019/10/14-11/3)</p></td>
 5.  [＜ライブレポート＞Sano ibuki初ワンマンに見た、パフォーマーとしての瑞々しい英気 | Daily News | Billboard JAPAN](http://www.billboard-japan.com/d_news/detail/82149/2)
 6.  [Sano ibukiがデビューアルバムのスピンアウト作品発表、明日リード曲を先行配信 - 音楽ナタリー](https://natalie.mu/music/news/372349)
 7.  [2月29日 LIVE “NOVEL” 振替公演のご案内｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202003231300/)
-8.  [ムサビ芸術祭ライブに向井秀徳、吉田凜音、tricot、Nyantora、ノンブラリ - 音楽ナタリー](https://natalie.mu/music/news/249907)
+8.  [Sano ibuki LIVEに関するご案内｜Sano ibuki オフィシャルサイト](https://www.sanoibuki.com/news/202005112100//)
+9.  [ムサビ芸術祭ライブに向井秀徳、吉田凜音、tricot、Nyantora、ノンブラリ - 音楽ナタリー](https://natalie.mu/music/news/249907)

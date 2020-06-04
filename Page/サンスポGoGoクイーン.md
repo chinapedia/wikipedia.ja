@@ -98,7 +98,7 @@
 
   - [「サンスポGoGoクイーンRADIO」第1回放送（2018年12月31日）の様子](https://www.allnightnippon.com/news/20181230-35991/)
 
-[Category:オーディション](https://ja.wikipedia.org/wiki/Category:オーディション "wikilink") [Category:2018年開始のイベント](https://ja.wikipedia.org/wiki/Category:2018年開始のイベント "wikilink") [Category:産経新聞](https://ja.wikipedia.org/wiki/Category:産経新聞 "wikilink")
+[Category:オーディション](https://ja.wikipedia.org/wiki/Category:オーディション "wikilink") [Category:2018年開始のイベント](https://ja.wikipedia.org/wiki/Category:2018年開始のイベント "wikilink") [Category:サンケイスポーツ](https://ja.wikipedia.org/wiki/Category:サンケイスポーツ "wikilink")
 
 1.
 2.

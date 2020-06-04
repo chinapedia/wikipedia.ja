@@ -17,7 +17,7 @@ Athlon X4は当時、[Intel製ローエンド向けシリーズである](https:
 
 ## 世代ごとのAthlon X4の製品一覧
 
-### *\<Code Name / Release Year\>*
+*\<Code Name / Release Year\>*
 
 ### Richland (2013)
 
@@ -81,7 +81,7 @@ Kaveri世代よりセキュリティ面での機能強化
 
 ### Carrizo (2016)
 
-  - リビジョン: ?
+  - リビジョン: 不明
   - マイクロアーキテクチャ: Excavator
   - 製造プロセスルール: 28nm
   - コア数/スレッド数: 4/4

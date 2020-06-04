@@ -1,13 +1,13 @@
 > この記事は[SARS関連コロナウイルス](https://ja.wikipedia.org/wiki/SARS関連コロナウイルス)から翻訳されています。
 
 
-**SARS関連コロナウイルス**（）は、[ヒト](../Page/ヒト.md "wikilink")や[コウモリ](https://ja.wikipedia.org/wiki/コウモリ "wikilink")をはじめとする[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")に感染する[コロナウイルス](../Page/コロナウイルス.md "wikilink")の1種\[1\]。[ACE2受容体を利用して宿主細胞に侵入する](https://ja.wikipedia.org/wiki/アンジオテンシン変換酵素#ACE2_\(アンジオテンシン変換酵素2\) "wikilink")。[エンベロープを持つ](../Page/エンベロープ_\(ウイルス\).md "wikilink")[一本鎖プラス鎖](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")[RNAウイルス](../Page/RNAウイルス.md "wikilink")である。[ベータコロナウイルス](https://ja.wikipedia.org/wiki/ベータコロナウイルス "wikilink")属（第2群コロナウイルス）に含まれる。
+**SARS関連コロナウイルス**（）は、[ヒト](../Page/ヒト.md "wikilink")や[コウモリ](https://ja.wikipedia.org/wiki/コウモリ "wikilink")をはじめとする[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")に感染する[ウイルス](../Page/ウイルス.md "wikilink")の1種\[1\]。[ACE2受容体を利用して宿主細胞に侵入する](https://ja.wikipedia.org/wiki/アンジオテンシン変換酵素#ACE2_\(アンジオテンシン変換酵素2\) "wikilink")。[エンベロープを持つ](../Page/エンベロープ_\(ウイルス\).md "wikilink")[一本鎖プラス鎖](https://ja.wikipedia.org/wiki/一本鎖プラス鎖RNAウイルス "wikilink")[RNAウイルス](../Page/RNAウイルス.md "wikilink")である。[ベータコロナウイルス](https://ja.wikipedia.org/wiki/ベータコロナウイルス "wikilink")属（第2群コロナウイルス）に含まれる。
 
 以前は単に**SARSコロナウイルス**と呼ばれていたが、非常に近縁なウイルスが複数発見されたため、2009年にそれらを含む形に拡張された\[2\]。
 
 ## 概要
 
-2つのウイルス株がヒトに[病気](../Page/病気.md "wikilink")を引き起こすことが知られている。**[SARSコロナウイルス](../Page/SARSコロナウイルス.md "wikilink")** (SARS-CoV) は、[2002年](../Page/2002年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")にかけて[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (SARS) の[アウトブレイク](../Page/アウトブレイク.md "wikilink")を引き起こし、**[SARSコロナウイルス-2](../Page/2019新型コロナウイルス.md "wikilink")** (SARS-CoV-2) は、[2019年](../Page/2019年.md "wikilink")末からの[新型コロナウイルス感染症](../Page/2019新型コロナウイルスによる急性呼吸器疾患.md "wikilink") (COVID-19) のアウトブレイクを引き起こしている\[3\]。
+2つのウイルス株がヒトに[病気](../Page/病気.md "wikilink")を引き起こすことが知られている。**[SARSコロナウイルス](../Page/SARSコロナウイルス.md "wikilink")** (SARS-CoV) は、[2002年](../Page/2002年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")にかけて[重症急性呼吸器症候群](../Page/重症急性呼吸器症候群.md "wikilink") (SARS) の[アウトブレイク](../Page/アウトブレイク.md "wikilink")を引き起こし、**[SARSコロナウイルス-2](../Page/2019新型コロナウイルス.md "wikilink")** (SARS-CoV-2) は、[2019年](../Page/2019年.md "wikilink")末からの[新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink") (COVID-19) のアウトブレイクを引き起こしている\[3\]。
 
 この2つのウイルス株は、同一の祖先に由来し、ウイルスゲノムに約80%\[4\]の相同性がある。しかし、それぞれ独立にヒトに異種間伝播したものであり、SARSコロナウイルス-2 (SARS-CoV-2) は、SARSコロナウイルス (SARS-CoV) の直接の子孫ではなく、姉妹関係にある\[5\]。SARS関連コロナウイルスは他にも数百の株があるが、この2つの株以外がヒトに感染することは知られていない。
 

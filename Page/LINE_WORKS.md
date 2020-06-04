@@ -1,7 +1,7 @@
 > この記事は[LINE WORKS](https://ja.wikipedia.org/wiki/LINE_WORKS)から翻訳されています。
 
 
-**LINE WORKS**（ラインワークス）とは、LINEの兄弟会社であるワークスモバイルジャパン株式会社が提供する企業向け（グループウェア）のクラウド型ビジネス[チャット](../Page/チャット.md "wikilink")ツールである\[1\]\[2\]。 [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")に対応し、[LINEを踏襲したメッセージのやりとりだけでなく](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")、個人や組織の予定管理、ファイル共有、メール、アドレス帳、アンケートなどが可能である\[3\]。
+**LINE WORKS**（ラインワークス）とは、[LINEの兄弟会社であるワークスモバイルジャパン株式会社が提供する企業向け](https://ja.wikipedia.org/wiki/LINE_\(企業\) "wikilink")（グループウェア）のクラウド型ビジネス[チャット](../Page/チャット.md "wikilink")ツールである\[1\]\[2\]。 [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")に対応し、[LINEを踏襲したメッセージのやりとりだけでなく](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")、個人や組織の予定管理、ファイル共有、メール、アドレス帳、アンケートなどが可能である\[3\]。
 
 ## 機能
 

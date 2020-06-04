@@ -25,7 +25,7 @@
 
 2015年12月、RaviはバラードガールグループMelody Dayのシングル「When It Rains」（）をWinter Ballad Projectの一環として\[21\]\[22\]提供。
 
-2015年12月31日に、最初のミックステープ*\[R.EBIRTH\]の*ために自分のTwitterとInstagramアカウントにティーザーをドロップしした。\[23\]
+2015年12月31日に、最初のミックステープ*\[R.EBIRTH\]の*ために自分のTwitterとInstagramアカウントにティーザーをドロップした。\[23\]
 
 ### 2016–現在： *\[R.EBIRTH\]*、*DamnRa、* *R.EAL1ZE、\[NIRVANA\]*、*R.OOK BOOK*とのソロデビュー
 

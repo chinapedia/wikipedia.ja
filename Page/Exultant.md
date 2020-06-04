@@ -1,7 +1,7 @@
 > この記事は[Exultant](https://ja.wikipedia.org/wiki/Exultant)から翻訳されています。
 
 
-**Exultant**(えぐざるたんと)は[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")の[小説家](../Page/小説家.md "wikilink")[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")による[SF小説](https://ja.wikipedia.org/wiki/SF小説 "wikilink")。[デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")シリーズの2作目。2004年9月に英国の出版社Victor Gollancz社から出版された。
+『**Exultant**』（エグザルタント）は、[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")の[小説家](../Page/小説家.md "wikilink")[スティーヴン・バクスター](../Page/スティーヴン・バクスター.md "wikilink")による[SF小説](https://ja.wikipedia.org/wiki/SF小説 "wikilink")。『[デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")』シリーズの2作目。2004年9月に英国の出版社Victor Gollancz社から出版された。
 
 ## 概要
 
@@ -21,17 +21,17 @@
 
 戦闘のあと、ピリウスは連合軍で無傷のまま残っているものはほとんどいないことに気付いた。チームの1人である不死人ルル・パーツはいつかジーリーが天の川銀河に帰還することを認識し、防衛のため備えようとする。
 
-## 外部リンク
+## 脚注
 
-  -
 ## 関連項目
 
   - [ジーリー](../Page/ジーリー.md "wikilink")
   - [デスティニーズチルドレン](../Page/デスティニーズチルドレン.md "wikilink")
   - [超大質量ブラックホール](https://ja.wikipedia.org/wiki/超大質量ブラックホール "wikilink")
 
-## 脚注
+## 外部リンク
 
-[Category:イギリスのSF小説](https://ja.wikipedia.org/wiki/Category:イギリスのSF小説 "wikilink") [Category:2004年の小説](https://ja.wikipedia.org/wiki/Category:2004年の小説 "wikilink") [Category:ジーリー・クロニクル](https://ja.wikipedia.org/wiki/Category:ジーリー・クロニクル "wikilink") [Category:スティーヴン・バクスター](https://ja.wikipedia.org/wiki/Category:スティーヴン・バクスター "wikilink") [Category:デスティニーズチルドレン](https://ja.wikipedia.org/wiki/Category:デスティニーズチルドレン "wikilink") [Category:地球外生命体を題材とした小説](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした小説 "wikilink") [Category:未来を題材にした小説](https://ja.wikipedia.org/wiki/Category:未来を題材にした小説 "wikilink") [Category:宇宙戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙戦争を題材とした作品 "wikilink") [Category:天文を扱った作品](https://ja.wikipedia.org/wiki/Category:天文を扱った作品 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:スペースオペラ](https://ja.wikipedia.org/wiki/Category:スペースオペラ "wikilink")
+  -
+[Category:2004年の小説](https://ja.wikipedia.org/wiki/Category:2004年の小説 "wikilink") [Category:デスティニーズチルドレン](https://ja.wikipedia.org/wiki/Category:デスティニーズチルドレン "wikilink")
 
 1.

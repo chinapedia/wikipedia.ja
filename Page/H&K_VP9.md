@@ -9,7 +9,9 @@
 
 開発時はVP"Volkspistole"(国民拳銃)という名前がつけられたが、欧州でのセールスに伴い"striker-fired pistol"を表すSFPという名義に変更された(その後、VPという名義は米国市場にて復活することとなった)。
 
-[ドイツ連邦警察局や](https://ja.wikipedia.org/wiki/連邦警察局_\(ドイツ\) "wikilink")[アメリカ合衆国の警察](../Page/アメリカ合衆国の警察.md "wikilink")が採用したほか、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")がSFP9を[9mm拳銃](../Page/9mm拳銃.md "wikilink")の後継拳銃としたことが発表された\[1\]。
+[ドイツ連邦警察局や](https://ja.wikipedia.org/wiki/連邦警察局_\(ドイツ\) "wikilink")[アメリカ合衆国の警察](../Page/アメリカ合衆国の警察.md "wikilink")が採用したほか、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")がSFP9を[9mm拳銃](../Page/9mm拳銃.md "wikilink")の後継拳銃として選定したことが発表された\[1\]。
+
+[2020年](../Page/2020年.md "wikilink")5月18日には、陸自で採用される新型拳銃「**9mm拳銃SFP9**」が、正式に報道陣に公開された\[2\]\[3\]\[4\]。
 
 ## 主なバリエーション
 
@@ -52,3 +54,6 @@
 [Category:自動式拳銃](https://ja.wikipedia.org/wiki/Category:自動式拳銃 "wikilink") [Category:ドイツ連邦共和国の小火器](https://ja.wikipedia.org/wiki/Category:ドイツ連邦共和国の小火器 "wikilink") [Category:9mmパラベラム弾使用銃](https://ja.wikipedia.org/wiki/Category:9mmパラベラム弾使用銃 "wikilink")
 
 1.
+2.
+3.
+4.

@@ -1,11 +1,11 @@
 > この記事は[SEKAI NO OWARI “The House”](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI_“The_House”)から翻訳されています。
 
 
-**SEKAI NO OWARI The House**（セカイノオワリ・ザ・ハウス）とは、2020年4月より[TOKYO FMをキー局に](../Page/エフエム東京.md "wikilink")[JFN](../Page/全国FM放送協議会.md "wikilink")38局で全国放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")である\[1\]\[2\]。
+**SEKAI NO OWARI "The House"**（セカイノオワリ・ザ・ハウス）とは、2020年4月より[TOKYO FMをキー局に](../Page/エフエム東京.md "wikilink")[JFN](../Page/全国FM放送協議会.md "wikilink")38局で全国放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")である\[1\]\[2\]。
 
 ## 概要
 
-　2020年3月に[TOKYO FMの](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")」内の「[セカオワLOCKS\!](https://ja.wikipedia.org/wiki/セカオワLOCKS! "wikilink")」が閉講した後に同局で放送が始まったラジオ番組\[3\]。パーソナリティは[SEKAI NO OWARIの](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")4人で「いつものリビングで、4人のおしゃべりが始まる」をテーマにしている\[4\]。
+　2020年3月に[TOKYO FMの](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")」内の「[セカオワLOCKS\!](https://ja.wikipedia.org/wiki/セカオワLOCKS! "wikilink")」が閉講した後に同局で放送が始まったラジオ番組\[3\]。パーソナリティは[SEKAI NO OWARIの](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")4人で「いつものリビングで、4人のおしゃべりが始まる」をテーマにしている\[4\]。
 
 ## 脚注
 

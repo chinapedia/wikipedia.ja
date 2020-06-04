@@ -86,6 +86,10 @@
 2.  **サンセットベンチ**〈Music Video〉
 3.  Music Video Making
 
+## 関連項目
+
+  - [TAKUYA KIMURA Live Tour 2020 Go with the Flow](https://ja.wikipedia.org/wiki/TAKUYA_KIMURA_Live_Tour_2020_Go_with_the_Flow "wikilink")
+
 ## 脚注
 
 ## 外部リンク

@@ -1,7 +1,7 @@
 > この記事は[KANZAI BOYA](https://ja.wikipedia.org/wiki/KANZAI_BOYA)から翻訳されています。
 
 
-『**KANZAI BOYA**』（カンサイボーヤ\[1\]）は、[KinKi Kidsによる](../Page/KinKi_Kids.md "wikilink")42枚目の[CD](../Page/コンパクトディスク.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")・レコードから発売予定。
+『**KANZAI BOYA**』（カンサイボーヤ\[1\]）は、[KinKi Kidsによる](../Page/KinKi_Kids.md "wikilink")42枚目の[CD](../Page/コンパクトディスク.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")（令和2年）[6月17日](../Page/6月17日.md "wikilink")に[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")・レコードから発売予定。
 
 ## 解説
 

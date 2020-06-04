@@ -5,9 +5,15 @@
 
 ## 概要
 
-2019年9月10日（米国時間）に、イリノイ州シカゴのイベントで発表された。プロセッサは前世代と同じApple A10 Fusionを搭載している。しかし、メモリは前世代の2GBから3GBに増やされている\[1\]。Wi-Fi+CellularモデルはeSIM対応となっている。
+2019年9月10日（米国時間）に、イリノイ州シカゴのイベントで発表された。
 
-Apple Pencil (第1世代)も第6世代同様に、本モデルでも使用可能となっている。バッテリーはこれまで同様最長で10時間持つとしている。[iPad Pro](https://ja.wikipedia.org/wiki/iPad_Pro "wikilink") 10.5インチ・[iPad Air (第3世代)用のSmart](https://ja.wikipedia.org/wiki/iPad_Air_\(第3世代\) "wikilink") Keyboardに対応し、ディスプレイサイズが10.2インチと前世代より大きくなった。高さは前世代より1cm程高くなった\[2\]。また、左右ベゼルが前世代より狭くなっている\[3\]。iPad（第7世代）は廉価なディスプレイを搭載していて、iPad Air(第3世代)やiPad mini(第5世代)に採用されている広色域ディスプレイ（P3）、True Toneテクノロジー、フルラミネーションディスプレイやiPad Proに採用されているProMotionテクノロジーなど高画質技術を省かれている。Split View + Slide Overで3画面に同時表示に対応している。
+プロセッサは前世代と同じApple A10 Fusionを搭載しているが、メモリは前世代の2GBから3GBに増やされている\[1\]。
+
+Wi-Fi+CellularモデルはeSIM対応となっている。
+
+Apple Pencil (第1世代)も第6世代同様に、本モデルでも使用可能となっている。バッテリーもこれまで同様最長で10時間持つとしている。
+
+新たに[iPad Pro](https://ja.wikipedia.org/wiki/iPad_Pro "wikilink") 10.5インチ・[iPad Air (第3世代)用のSmart](https://ja.wikipedia.org/wiki/iPad_Air_\(第3世代\) "wikilink") Keyboardに対応し、ディスプレイサイズが10.2インチと前世代より大きくなった。高さは前世代より1cm程高くなった\[2\]。また、ディスプレイが大きくなった影響で、左右ベゼルが前世代より狭くなっている\[3\]。iPad（第7世代）は廉価なディスプレイを搭載していて、iPad Air(第3世代)やiPad mini(第5世代)に採用されている広色域ディスプレイ（P3）、True Toneテクノロジー、フルラミネーションディスプレイやiPad Proに採用されているProMotionテクノロジーなど高画質技術は省かれている。Split View + Slide Overで3画面に同時表示に対応している。
 
 筐体の長さ・横幅はiPad Air (第3世代)（10.5インチ）と同じサイズになっているが、上述のディスプレイ性能だけでなく、iPad(第7世代)の方が分厚く、重量も少し重くなっていることで差別化されている。\[4\]\[5\]。
 

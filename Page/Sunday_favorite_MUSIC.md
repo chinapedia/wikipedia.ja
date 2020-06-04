@@ -18,6 +18,6 @@
 ## 外部リンク
 
   -
-[Category:長野エフエム放送の番組](https://ja.wikipedia.org/wiki/Category:長野エフエム放送の番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink")
+[Category:長野エフエム放送の番組](https://ja.wikipedia.org/wiki/Category:長野エフエム放送の番組 "wikilink") [Category:2020年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオの音楽番組‎](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組‎ "wikilink")
 
 1.

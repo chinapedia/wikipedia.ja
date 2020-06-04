@@ -7,7 +7,7 @@
 
 ### ストーリー
 
-「THE DREAM CHAPTER: MAGIC」は、デビューミニアルバムである「[The Dream Chapter: STAR](https://ja.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")」に続いて、TOMORROW X TOGETHERが成長する中で向き合う経験の物語が展開される\[2\]。さらにこのアルバムからは、"魔法のようなな冒険談"が語られている。自分たちと似て非になる友人と出会ったメンバーが、共に過しながら起こる魔法のような瞬間、そして彼らの経験する変化や混乱、爆発する感情などを一緒に共有しながら少年へと成長していく様子が描かれている。
+「THE DREAM CHAPTER: MAGIC」は、デビューミニアルバムである「[The DREAM CHAPTER: STAR](https://ja.wikipedia.org/wiki/The_DREAM_CHAPTER:_STAR "wikilink")」に続いて、TOMORROW X TOGETHERが成長する中で向き合う経験の物語が展開される\[2\]。さらにこのアルバムからは、"魔法のようなな冒険談"が語られている。自分たちと似て非になる友人と出会ったメンバーが、共に過しながら起こる魔法のような瞬間、そして彼らの経験する変化や混乱、爆発する感情などを一緒に共有しながら少年へと成長していく様子が描かれている。
 
 ### リリース
 

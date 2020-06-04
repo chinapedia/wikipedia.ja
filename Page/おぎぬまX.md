@@ -7,7 +7,7 @@
 
   - 中学生の時に読んだ漫画『[キン肉マン](../Page/キン肉マン.md "wikilink")』に感銘を受け、自らも漫画家になる夢を抱く。高校三年生の時に渾身の漫画作品を出版社へ持ち込むが酷評を受ける。その後も4年余り、幾たびも持ち込みを試みるが結果に繋がらなかった。
   - 大学在学中に友人からお笑いの道に誘われ、芸人活動を始める。芸人として有名になったのちに漫画家としてのデビューの道も拓けるかもしれないとの考えもあった\[1\]。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")へ19期生として入学（同期にはGroovy Rubbish、[じぐざぐ](../Page/じぐざぐ_\(お笑いコンビ\).md "wikilink")、[こじま観光](https://ja.wikipedia.org/wiki/こじま観光 "wikilink")、コネオ・インターナショナル、[根菜キャバレー](https://ja.wikipedia.org/wiki/根菜キャバレー "wikilink")の天野舞などがいる）。卒業後、[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")所属のお笑い芸人として活動\[2\]。しかし芸人としての芽が出ないことを悟り、[2014年](../Page/2014年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、人力舎を退社。改めてギャグ漫画家を目指す。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")へ19期生として入学（同期には[Groovy Rubbish](../Page/類家大地.md "wikilink")、[じぐざぐ](../Page/じぐざぐ_\(お笑いコンビ\).md "wikilink")、[こじま観光](https://ja.wikipedia.org/wiki/こじま観光 "wikilink")、コネオ・インターナショナル、[根菜キャバレー](https://ja.wikipedia.org/wiki/根菜キャバレー "wikilink")の天野舞などがいる）。卒業後、[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")所属のお笑い芸人として活動\[2\]。しかし芸人としての芽が出ないことを悟り、[2014年](../Page/2014年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、人力舎を退社。改めてギャグ漫画家を目指す。
   - [2017年](../Page/2017年.md "wikilink")よりフリーの漫画家としての活動を開始。
   - [2019年](../Page/2019年.md "wikilink")12月、第91回[赤塚賞](../Page/赤塚賞.md "wikilink")入選（赤塚賞入選が出たのは29年ぶり、[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")初）。受賞作品は「だるまさんがころんだ時空伝」。
 
@@ -33,6 +33,7 @@
 
   - 笑うクレイジーメディア『おぎぬまXの4コマ空間』
   - ジャンプルーキー『戦友』『夢のボインボール』
+  - 2020年5月14日、15日、18日 シスコシステムズ合同会社　公式twitter【4コマ テレワーク ライフ】漫画連載企画
 
 ## 出演
 
@@ -57,6 +58,12 @@
   - [国マガ](https://kunimaga.jimdofree.com/)
 
   - [BRÜCKE odai](https://odaibrucke.org/magazine/)
+
+  - [シスコシステムズ合同会社　公式twitter【4コマ テレワーク ライフ】漫画連載企画(動画)](https://twitter.com/Cisco_Japan/status/1260843705466073095/)
+
+  - [シスコシステムズ合同会社　公式twitter【4コマ テレワーク ライフ】漫画連載企画(避けられぬ誘い)](https://twitter.com/Cisco_Japan/status/1261100238795915264/)
+
+  - [シスコシステムズ合同会社　公式twitter【4コマ テレワーク ライフ】漫画連載企画(筋肉先輩)](https://twitter.com/Cisco_Japan/status/1262187400526258179/)
 
 [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:過去のプロダクション人力舎所属者](https://ja.wikipedia.org/wiki/Category:過去のプロダクション人力舎所属者 "wikilink") [Category:和光大学出身の人物](https://ja.wikipedia.org/wiki/Category:和光大学出身の人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 最新シングル「RILY」、初主演映画の主題歌「Church by the sea」や、新曲5曲など、全7曲を収録。「夜明け前」、「これが運命なら」は収録されていない。
+  - 最新シングル「[RILY](https://ja.wikipedia.org/wiki/RILY "wikilink")」、初主演映画の主題歌「Church by the sea」や、新曲5曲など、全7曲を収録。
   - DVD/Blu-rayには、新曲「ZONE OF GOLD」など4曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を収録。
 
 ## 収録曲
@@ -26,10 +26,10 @@
 4.  **Sweet Therapy** (4:14)
       -
         作詞・作曲：RYUJI IMAICHI, T-SK, HIROMI, BIG-F
-5.  **RILY** (3:00)
+5.  **[RILY](https://ja.wikipedia.org/wiki/RILY "wikilink")** (3:00)
       -
         作詞・作曲：RYUJI IMAICHI, [JAY'ED](../Page/JAY'ED.md "wikilink"), Chaki Zulu
-6.  **Church by the sea** (4:47)
+6.  **[Church by the sea](https://ja.wikipedia.org/wiki/RILY "wikilink")** (4:47)
       -
         作詞：[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")、作曲：MATS LIE SKARE, FAST LANE
     <!-- end list -->

@@ -21,6 +21,8 @@ ApowerPDFの主な機能は次のとおりです。
   - 電子サインと透かし
   - フォーム作成
 
+## 脚注
+
 ## 関連項目
 
   - [PDFソフトウェアの一覧](../Page/PDFソフトウェアの一覧.md "wikilink")
@@ -29,10 +31,6 @@ ApowerPDFの主な機能は次のとおりです。
 
   - [ApowerPDF](https://www.apowersoft.jp/pdf-editor)
   - [ApowerPDFの詳細情報 : Vector ソフトを探す！](https://www.vector.co.jp/soft/winnt/util/se519260.html)
-
-## 脚注
-
-### 出典
 
 [Category:ソフトウェア](https://ja.wikipedia.org/wiki/Category:ソフトウェア "wikilink") [Category:PDFソフト](https://ja.wikipedia.org/wiki/Category:PDFソフト "wikilink") [Category:文書作成ソフト](https://ja.wikipedia.org/wiki/Category:文書作成ソフト "wikilink") [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink")
 

@@ -12,50 +12,28 @@
 ## フィルモグラフィー
 
   - [Punnagai Desam](https://ja.wikipedia.org/wiki/:en:Punnagai_Desam "wikilink")（2002年）
-
   - [Machi](https://ja.wikipedia.org/wiki/:en:Machi_\(film\) "wikilink")（2004年）
-
   - [Gurudeva](https://ja.wikipedia.org/wiki/:en:Gurudeva_\(film\) "wikilink")（2005年）
-
   - [Oru Kalluriyin Kathai](https://ja.wikipedia.org/wiki/:en:Oru_Kalluriyin_Kathai "wikilink")（2005年）
-
   - [Kalabha Kadhalan](https://ja.wikipedia.org/wiki/:en:Kalabha_Kadhalan "wikilink")（2006年）
-
   - [Veyil](https://ja.wikipedia.org/wiki/:en:Veyil "wikilink")（2006年）
-
   - [Ninaithale](https://ja.wikipedia.org/wiki/:en:Ninaithale "wikilink")（2007年）
-
   - [Nepali](https://ja.wikipedia.org/wiki/:en:Nepali_\(film\) "wikilink")（2008年）
-
   - [Silambattam](https://ja.wikipedia.org/wiki/:en:Silambattam_\(film\) "wikilink")（2008年）
-
   - [Paiyaa](https://ja.wikipedia.org/wiki/:en:Paiyaa "wikilink")（2010年）
-
   - [Naan Mahaan Alla](https://ja.wikipedia.org/wiki/:en:Naan_Mahaan_Alla_\(2010_film\) "wikilink")（2010年）
-
   - [Shaitan](https://ja.wikipedia.org/wiki/:en:Shaitan_\(film\) "wikilink")（2011年）
-
   - [Rajapattai](https://ja.wikipedia.org/wiki/:en:Rajapattai "wikilink")（2011年）
-
   - [Mirchi](https://ja.wikipedia.org/wiki/:en:Mirchi_\(film\) "wikilink")（2013年）
-
   - [Pandiya Naadu](https://ja.wikipedia.org/wiki/:en:Pandiya_Naadu "wikilink")（2013年）
-
   - [Endrendrum Punnagai](https://ja.wikipedia.org/wiki/:en:Endrendrum_Punnagai "wikilink")（2013年）
-
   - [Run Raja Run](https://ja.wikipedia.org/wiki/:en:Run_Raja_Run "wikilink")（2014年）
-
   - [Jeeva](https://ja.wikipedia.org/wiki/:en:Jeeva_\(2014_film\) "wikilink")（2014年）
-
   - [Srimanthudu](https://ja.wikipedia.org/wiki/:en:Srimanthudu "wikilink")（2015年）
-
   - [Manithan](https://ja.wikipedia.org/wiki/:en:Manithan_\(2016_film\) "wikilink")（2016年）
-
   - [インパクト・クラッシュ](https://ja.wikipedia.org/wiki/インパクト・クラッシュ "wikilink")（2017年）
-
   - [Bhaagamathie](https://ja.wikipedia.org/wiki/:en:Bhaagamathie "wikilink")（2018年）
-
-  - （2019年）
+  - [サーホー](https://ja.wikipedia.org/wiki/サーホー "wikilink")（2019年）
 
 ## 出典
 

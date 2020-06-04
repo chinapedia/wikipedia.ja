@@ -12,7 +12,7 @@
   - [野外病院](../Page/野外病院.md "wikilink")
   - [イギリスにおける2019年コロナウイルス感染症の流行状況](../Page/イギリスにおける2019年コロナウイルス感染症の流行状況.md "wikilink")
 
-[Category:2019新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症 "wikilink") [Category:イギリスの医療機関](https://ja.wikipedia.org/wiki/Category:イギリスの医療機関 "wikilink") [Category:ロンドンの組織‎](https://ja.wikipedia.org/wiki/Category:ロンドンの組織‎ "wikilink") [Category:ニューアム区](https://ja.wikipedia.org/wiki/Category:ニューアム区 "wikilink") [Category:2020年開業の施設](https://ja.wikipedia.org/wiki/Category:2020年開業の施設 "wikilink")
+[Category:2019新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症 "wikilink") [Category:イギリスの医療機関](https://ja.wikipedia.org/wiki/Category:イギリスの医療機関 "wikilink") [Category:ロンドンの組織](https://ja.wikipedia.org/wiki/Category:ロンドンの組織 "wikilink") [Category:ニューアム区](https://ja.wikipedia.org/wiki/Category:ニューアム区 "wikilink") [Category:2020年開業の施設](https://ja.wikipedia.org/wiki/Category:2020年開業の施設 "wikilink")
 
 1.
 2.

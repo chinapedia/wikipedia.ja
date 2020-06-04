@@ -20,7 +20,7 @@
 | 日程    | 地方   | 会場                                                                         |
 | ----- | ---- | -------------------------------------------------------------------------- |
 | 2020年 | 2月1日 | 愛知                                                                         |
-| 2月8日  | 大阪   | [あべのキューズモール](https://ja.wikipedia.org/wiki/あべのキューズモール "wikilink") 3Fスカイコート |
+| 2月8日  | 大阪   | [あべのキューズモール](https://ja.wikipedia.org/wiki/あべのキューズタウン "wikilink") 3Fスカイコート |
 | 2月12日 | 東京都  | [タワーレコード](../Page/タワーレコード.md "wikilink")渋谷店 B1F「CUTUP STUDIO」              |
 | 2月15日 | 北海道  | [パセオ](../Page/パセオ_\(札幌市\).md "wikilink") センター地下1F テルミヌス広場                  |
 | 2月18日 | 広島   | [広島駅](https://ja.wikipedia.org/wiki/広島駅 "wikilink")南口地下広場                  |
@@ -32,7 +32,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](https://www.adachikana.com/)による紹介ページ
+  - [公式サイト](https://www.adachikana.com/) による紹介ページ
       - [初回生産限定盤A](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2530&disco_page=1&disco_now=0)
       - [初回生産限定盤B](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2532&disco_page=1&disco_now=1)
       - [通常盤](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2534&disco_page=1&disco_now=2)

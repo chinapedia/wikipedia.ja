@@ -25,11 +25,11 @@
 
 ### さらば川柳の光
 
-[サラリーマン川柳](https://ja.wikipedia.org/wiki/サラリーマン川柳 "wikilink")のような、世相や日常生活の哀愁を秀逸に詠み込んだ川柳を募集するコーナー。
+[サラリーマン川柳](https://ja.wikipedia.org/wiki/サラリーマン川柳 "wikilink")のような、世相や日常生活の哀愁を秀逸に詠み込んだ川柳を募集するコーナー。本家サラリーマン川柳に送られていてもおかしくないほど無駄にクオリティが高いネタが多く寄せられ、森田のお気に入りコーナーとなっている。
 
 ### 勝ち抜き！東ブクロの嫁決定戦
 
-その名の通り、東ブクロの嫁を募集するコーナー。３週勝ち抜くと実際に東ブクロと結婚できるという触れ込みである。東ブクロの嫁になりたい女子二人と同時に電話を繋いで早押しクイズで対決する。
+その名の通り、東ブクロの嫁を募集するコーナー。東ブクロの嫁になりたい女子二人と同時に電話を繋いで早押しクイズで対決し、３週勝ち抜いたリスナーは実際に東ブクロと結婚できるという触れ込みである。
 
 ### 家、誘ってイイですか？
 
@@ -68,7 +68,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p>JRN/<a href="../Page/全国ラジオネットワーク.md" title="wikilink">NRN</a></p></td>
 <td><p>2020年4月5日</p></td>
 <td><p>同時ネット</p></td>
@@ -102,7 +102,7 @@
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a><br />
 <a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/NBCラジオ佐賀.md" title="wikilink">NBCラジオ佐賀</a><br />
-<a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）</p></td>
+<a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）</p></td>
 <td><p>JRN/NRN</p></td>
 <td><p>2020年4月11日</p></td>
 <td><p>土曜18:00 - 18:30</p></td>

@@ -22,9 +22,6 @@
       - [ダークネット](https://ja.wikipedia.org/wiki/ダークネット "wikilink")
   - [ダークウェブ](https://ja.wikipedia.org/wiki/ダークウェブ "wikilink")
 
-## 外部リンク
-
-  -
 [Category:検索エンジン](https://ja.wikipedia.org/wiki/Category:検索エンジン "wikilink") [Category:ダークウェブ](https://ja.wikipedia.org/wiki/Category:ダークウェブ "wikilink")
 
 1.   Dark Web Websites|last=Websites {{\!}} 0 {{\!}}|first=Dark Web|language=en-US|access-date=2020-03-27}}

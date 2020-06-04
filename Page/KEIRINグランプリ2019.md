@@ -269,14 +269,17 @@
 
 ## エピソード
 
-  - 地上波中継番組は「坂上忍の勝たせてあげたいTV　KEIRINグランプリ2019」《[日本テレビ系列全国ネット](../Page/日本テレビ放送網.md "wikilink")》\[21\]。
-  - 先頭員（先頭誘導員）などに関する新ルールの導入（2019年5月31日を初日とする開催から）後、初めてのグランプリとなった。
   - 立川での開催は3年ぶり、[KEIRINグランプリ2016](https://ja.wikipedia.org/wiki/KEIRINグランプリ2016 "wikilink")以来。
+  - 先頭員（先頭誘導員）などに関する新ルールの導入（2019年5月31日を初日とする開催から）後、初めてのグランプリとなった。
+  - 地上波中継番組は「坂上忍の勝たせてあげたいTV　KEIRINグランプリ2019」《[日本テレビ系列全国ネット](../Page/日本テレビ放送網.md "wikilink")》\[21\]。また、前年に続き初日に行われた[オッズパーク杯ガールズグランプリ](https://ja.wikipedia.org/wiki/オッズパーク杯ガールズグランプリ "wikilink")2019も[BS日テレが中継している](../Page/BS日本.md "wikilink")。
+  - シリーズ3日間の総売上は、119億0287万3200円で、目標の120億円は達成できずも、前年比5.5%増となった\[22\]。
+    なお、GP単体でも52億1579万6700円\[23\]\[24\]と微増。ただし、前日12月29日開催の[大井競馬場](../Page/大井競馬場.md "wikilink")の[東京大賞典](https://ja.wikipedia.org/wiki/東京大賞典#歴史 "wikilink")（第65回大会・56億0627万5800円\[25\]）に対して、売上が初めて下回った。また、当日の立川競輪場の入場者は12,157人で、これも第1回から通算してワースト2位の記録（ワーストは[2014年](../Page/2014年.md "wikilink")の第30回だが、これは開催場が南関東ではない[岸和田競輪場](../Page/岸和田競輪場.md "wikilink")であったため）。
+
+### 競走データ
+
   - 落車もしくは失格が発生しなかったのは、[KEIRINグランプリ2015](https://ja.wikipedia.org/wiki/KEIRINグランプリ2015 "wikilink")以来。
   - グランプリにおける同着の事例（5着が2名）は、[KEIRINグランプリ2010](https://ja.wikipedia.org/wiki/KEIRINグランプリ2010 "wikilink")（7着が2名）以来。
-  - 3連単は[KEIRINグランプリ05](../Page/KEIRINグランプリ05.md "wikilink")と同じ14万円台で、グランプリ史上2番目の好配当となった\[22\]\[23\]。
-  - シリーズ3日間の総売上は、119億0287万3200円で、目標の120億円は達成できずも、前年比5.5%増となった\[24\]。
-    なお、GP単体でも52億1579万6700円\[25\]\[26\]と微増。ただし、12月29日開催の[大井競馬場](../Page/大井競馬場.md "wikilink")の[東京大賞典](https://ja.wikipedia.org/wiki/東京大賞典#歴史 "wikilink")（第65回大会・56億0627万5800円\[27\]）に対して、売上が初めて下回った。
+  - 3連単は[KEIRINグランプリ05](../Page/KEIRINグランプリ05.md "wikilink")と同じ14万円台で、グランプリ史上2番目の好配当となった\[26\]\[27\]。
 
 ## 脚注
 
@@ -312,9 +315,9 @@
 19. [佐藤慎太郎V GP初制覇では最年長43歳／立川](https://www.nikkansports.com/public_race/keirin/gp/2019/news/201912310000071.html) -日刊スポーツ、2019年12月31日
 20. [佐藤慎 令和初代V\!43歳1カ月は史上2位年長記録](https://www.sponichi.co.jp/gamble/news/2019/12/31/kiji/20191230s00052000445000c.html) - スポニチ、2019年12月31日
 21. [テレビ・ラジオ放送予定](http://keirin.jp/pc/dfw/portal/guest/report/graderace/grandprix/2019/winner_data/tv.html) - KEIRINグランプリ2019（GP）
-22. [43歳・佐藤慎太郎、悲願のグランプリ初V 優勝賞金1億340万円「夢かと思いましたよ」](https://hochi.news/articles/20191230-OHT1T50130.html) - スポーツ報知、2019年12月30日
-23. [慎太郎「賞金王」 グランプリ 【立川】](https://www.nishinippon.co.jp/nsp/item/n/572586/) - 西日本スポーツ、2019年12月31日
-24. [総売り上げは目標120億円にわずかに届かず／立川](https://www.nikkansports.com/public_race/keirin/gp/2019/news/201912300000715.html) - 日刊スポーツ、2019年12月30日
-25. [広島競輪pdf](http://hiroshima-keirin.com/wordpress/wp-content/themes/theme_new/race-table/2019_12_31c.pdf)
-26. [岸和田競輪pdf](https://web.archive.org/web/20191231072212/http://kishiwadakeirin.com/pdf/jogai1.pdf)
-27. [【大井・東京大賞典】売り上げ56億円超え\!地方競馬のレコード大幅更新](https://www.sponichi.co.jp/gamble/news/2019/12/30/kiji/20191229s00004049385000c.html) - スポニチ、2019年12月30日
+22. [総売り上げは目標120億円にわずかに届かず／立川](https://www.nikkansports.com/public_race/keirin/gp/2019/news/201912300000715.html) - 日刊スポーツ、2019年12月30日
+23. [広島競輪pdf](http://hiroshima-keirin.com/wordpress/wp-content/themes/theme_new/race-table/2019_12_31c.pdf)
+24. [岸和田競輪pdf](https://web.archive.org/web/20191231072212/http://kishiwadakeirin.com/pdf/jogai1.pdf)
+25. [【大井・東京大賞典】売り上げ56億円超え\!地方競馬のレコード大幅更新](https://www.sponichi.co.jp/gamble/news/2019/12/30/kiji/20191229s00004049385000c.html) - スポニチ、2019年12月30日
+26. [43歳・佐藤慎太郎、悲願のグランプリ初V 優勝賞金1億340万円「夢かと思いましたよ」](https://hochi.news/articles/20191230-OHT1T50130.html) - スポーツ報知、2019年12月30日
+27. [慎太郎「賞金王」 グランプリ 【立川】](https://www.nishinippon.co.jp/nsp/item/n/572586/) - 西日本スポーツ、2019年12月31日

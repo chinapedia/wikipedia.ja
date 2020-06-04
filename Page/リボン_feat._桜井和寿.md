@@ -22,6 +22,7 @@
     <!-- end list -->
       -
         [桜井和寿](../Page/桜井和寿.md "wikilink")とは前年の『[ap bank fes '18](https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes "wikilink")』出演の際に「[美しく燃える森](https://ja.wikipedia.org/wiki/美しく燃える森 "wikilink")」で初めてコラボレーションが実現。その後、桜井から「**スカパラ三十周年のために何かさせて欲しい**」という言葉があり今回のシングル発売に至った\[1\]。
+        発売翌年の[2020年](../Page/2020年.md "wikilink")5月に、[キリンビール](../Page/麒麟麦酒.md "wikilink")「ビールはいつも」篇の[CMソングに起用された](../Page/コマーシャルソング.md "wikilink")\[2\]。
 2.  **遊戯みたいにGO** \[3:01\]
       - 作詞：谷中敦 / 作曲：NARGO
     <!-- end list -->
@@ -52,3 +53,4 @@
 [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:東京スカパラダイスオーケストラの楽曲](https://ja.wikipedia.org/wiki/Category:東京スカパラダイスオーケストラの楽曲 "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:楽曲_り](https://ja.wikipedia.org/wiki/Category:楽曲_り "wikilink")
 
 1.
+2.

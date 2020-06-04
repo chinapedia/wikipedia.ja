@@ -15,7 +15,7 @@
 
 ### 販売
 
-本作は2018年9月に予告編が公開された\[21\] のち、2018年11月2日から5日にかけてクローズドβテストが行われた\[22\]。 その後、90日限定でゲーマー向けチャットアプリ[Discord定額制サービスNitroの加入者向けに先行配信が行われたのち](https://ja.wikipedia.org/wiki/Discord_\(ソフトウェア\) "wikilink")、Discordストアにて正式に配信されたが、Discordがゲーム販売事業からの撤退を発表したのにあわせ、2019年10月16日に配信を停止した\[23\]。 2019年12月10日にStreamにてあらためて配信される予定である\[24\]。
+本作は2018年9月に予告編が公開された\[21\] のち、2018年11月2日から5日にかけてクローズドβテストが行われた\[22\]。 その後、90日限定でゲーマー向けチャットアプリ[Discord定額制サービスNitroの加入者向けに先行配信が行われたのち](https://ja.wikipedia.org/wiki/Discord_\(ソフトウェア\) "wikilink")、Discordストアにて正式に配信されたが、Discordがゲーム販売事業からの撤退を発表したのにあわせ、2019年10月16日に配信を停止した\[23\]。 2019年12月10日からはSteamであらためて配信されている\[24\]。
 
 ## 反響
 
@@ -23,7 +23,7 @@
 
 ### 評価
 
-*[Destructoid](https://ja.wikipedia.org/wiki/Destructoid "wikilink")*のJordan Devoreは自然で多様性に富んだグラフィックを評価した\[26\] IGNの洋ナシは、『[Dead by Daylight](https://ja.wikipedia.org/wiki/Dead_by_Daylight "wikilink")』といった同ジャンルのゲームとは全くプレイ時の感覚が違うと述べている\[27\]。
+*[Destructoid](https://ja.wikipedia.org/wiki/Destructoid "wikilink")*のJordan Devoreは自然で多様性に富んだグラフィックを評価した\[26\]。IGNの洋ナシは、『[Dead by Daylight](https://ja.wikipedia.org/wiki/Dead_by_Daylight "wikilink")』といった同ジャンルのゲームとは全くプレイ時の感覚が違うと述べている\[27\]。
 
 ## 脚注
 
@@ -55,7 +55,7 @@
 21.
 22.
 23.
-24.
+24. [クラシックホラーインスパイアの非対称対戦ACT『Last Year』がSteamにて配信開始](https://www.gamespark.jp/article/2019/12/10/95313.amp.html)
 25.
 26.
 27.

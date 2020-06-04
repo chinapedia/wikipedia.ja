@@ -22,7 +22,7 @@
 
   - [レイニーフロッグ公式サイト](https://www.rainyfrog.com/ja/game/koral)
 
-[Category:2019年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2019年のコンピュータゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:スペインで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スペインで開発されたコンピュータゲーム "wikilink") [Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:Unreal_Engineを採用したゲームソフト](https://ja.wikipedia.org/wiki/Category:Unreal_Engineを採用したゲームソフト "wikilink") [Category:海を扱った作品](https://ja.wikipedia.org/wiki/Category:海を扱った作品 "wikilink") [Category:環境保護を題材とした作品](https://ja.wikipedia.org/wiki/Category:環境保護を題材とした作品 "wikilink")
+[Category:2019年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2019年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:スペインで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:スペインで開発されたコンピュータゲーム "wikilink") [Category:アクションパズル](https://ja.wikipedia.org/wiki/Category:アクションパズル "wikilink") [Category:Unreal_Engineを採用したゲームソフト](https://ja.wikipedia.org/wiki/Category:Unreal_Engineを採用したゲームソフト "wikilink") [Category:海を扱った作品](https://ja.wikipedia.org/wiki/Category:海を扱った作品 "wikilink") [Category:環境保護を題材とした作品](https://ja.wikipedia.org/wiki/Category:環境保護を題材とした作品 "wikilink")
 
 1.
 2.

@@ -62,14 +62,14 @@
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="https://ja.wikipedia.org/wiki/7月" title="wikilink">7月</a>加入[9]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>村上由歩</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/村上由歩" title="wikilink">村上由歩</a></strong><br />
 （むらかみ ゆうほ）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p><a href="../Page/村上弘明.md" title="wikilink">村上弘明</a>の息子</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>小沼将太</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/小沼将太" title="wikilink">小沼将太</a></strong><br />
 （おおぬま　しょうた）</p></td>
 <td></td>
 <td><p><a href="../Page/茨城県.md" title="wikilink">茨城県</a></p></td>
@@ -83,7 +83,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>定本楓馬</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/定本楓馬" title="wikilink">定本楓馬</a></strong><br />
 （さだもと　ふうま）</p></td>
 <td></td>
 <td><p>北海道</p></td>
@@ -97,7 +97,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>立花裕大</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/立花裕大" title="wikilink">立花裕大</a></strong><br />
 （たちばな ゆうた）</p></td>
 <td></td>
 <td><p>神奈川県</p></td>
@@ -122,17 +122,17 @@
 （まつもと けんた）</p></td>
 <td></td>
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
-<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>正式メンバー[10]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>沖津海友</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/沖津海友" title="wikilink">沖津海友</a></strong><br />
 （おきつ　みゆ）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>岡宮来夢</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/岡宮来夢" title="wikilink">岡宮来夢</a></strong><br />
 （おかみや くるむ）</p></td>
 <td></td>
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
@@ -157,21 +157,21 @@
 （とみなが　せいや）</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
-<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>正式メンバー[11]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>山際海斗</strong><br />
 （やまぎわ　かいと）</p></td>
 <td></td>
 <td><p>東京都</p></td>
-<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>加入[12]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>百瀬拓実</strong><br />
 （ももせ　たくみ）</p></td>
 <td></td>
 <td><p>千葉県</p></td>
-<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>加入[13]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>依田啓嗣</strong><br />
@@ -188,7 +188,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>新井裕介</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/新井裕介" title="wikilink">新井裕介</a></strong><br />
 （あらい　ゆうすけ）</p></td>
 <td></td>
 <td><p>埼玉県</p></td>
@@ -227,21 +227,21 @@
 （ちゃんへ）</p></td>
 <td></td>
 <td><p>神奈川県</p></td>
-<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a>加入 [14]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>竹鼻優太</strong><br />
 （たけはな　ゆうた）</p></td>
 <td></td>
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
-<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a>加入 [15]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>庄司浩平</strong><br />
 （しょうじ　こうへい）</p></td>
 <td></td>
 <td><p>東京都</p></td>
-<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a>加入 [16]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -254,7 +254,7 @@
 
 ### 候補メンバー
 
-公式サイトにおけるプロフィール\[10\]、過去の実績をもとに記述。
+公式サイトにおけるプロフィール\[17\]、過去の実績をもとに記述。
 
 <table>
 <thead>
@@ -321,11 +321,68 @@
 
 ### 過去のメンバー
 
-| 名前                                                    | よみ      | 脱退時期              | 卒業/脱退 | 加入時期 | 備考 |
-| ----------------------------------------------------- | ------- | ----------------- | ----- | ---- | -- |
-| [仲田博喜](https://ja.wikipedia.org/wiki/仲田博喜 "wikilink") | なかだ　ひろき | 2019年11月末\[11\]   | 卒業    | 結成時  |    |
-| [水江建太](https://ja.wikipedia.org/wiki/水江建太 "wikilink") | みずえ　けんた | 2019年11月末\[12\]   | 卒業    | 結成時  |    |
-| 辻憲斗                                                   | つじけんと   | 2019年12月24日\[13\] | 卒業    | 結成時  |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>名前<br />
+（よみ）</p></th>
+<th><p>脱退時期</p></th>
+<th><p>卒業/脱退</p></th>
+<th><p>加入時期</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>明珍隼人</strong><br />
+（みょうちん　はやと）</p></td>
+<td><p>2018年12月24日</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>守谷駿</strong><br />
+（もりや　しゅん）</p></td>
+<td><p>2018年12月24日</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/仲田博喜" title="wikilink">仲田博喜</a></strong><br />
+（なかだ　ひろき）</p></td>
+<td><p>2019年11月末[18]</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/水江建太" title="wikilink">水江建太</a></strong><br />
+（みずえ　けんた）</p></td>
+<td><p>2019年11月末[19]</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>辻憲斗</strong><br />
+（つじ　けんと）</p></td>
+<td><p>2019年12月24日[20]</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>土居秀士</strong><br />
+（どい　しゅうじ）</p></td>
+<td><p>2019年12月24日</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 公演
 
@@ -335,7 +392,7 @@
 
 :\* 演出：[伊藤マサミ](https://ja.wikipedia.org/wiki/伊藤マサミ "wikilink")
 
-:\* 日程・会場：2018年6月14日～17日、東京都 AiiA 2.5 Theater Tokyo \[14\]
+:\* 日程・会場：2018年6月14日～17日、東京都 AiiA 2.5 Theater Tokyo \[21\]
 
   -
 
@@ -345,7 +402,7 @@
 
 :\* 演出：押見泰憲（[犬の心](../Page/犬の心.md "wikilink")）
 
-:\* 日程・会場：2019年3月6日～9日、神保町花月\[15\]
+:\* 日程・会場：2019年3月6日～9日、神保町花月\[22\]
 
   -
 
@@ -353,7 +410,7 @@
 
 :\* 作・演出：[川尻恵太](https://ja.wikipedia.org/wiki/川尻恵太 "wikilink")
 
-:\* 日程・会場：2019年7月20日～28日、東京都 品川プリンスホテル クラブeX \[16\]
+:\* 日程・会場：2019年7月20日～28日、東京都 品川プリンスホテル クラブeX \[23\]
 
   -
 
@@ -363,13 +420,22 @@
 
 :\* 作家：中村元樹、池田亮
 
-:\* 日程・会場：2019年9月6日～8日、神保町花月\[17\]
+:\* 日程・会場：2019年9月6日～8日、神保町花月\[24\]
 
   -
 
 ## 出演
 
 男劇団 青山表参道X内の活動のみ記述。
+
+### イベント
+
+  - 男劇団 青山表参道X 1st Fan Event X’masParty (2017年12月25日、東京・原宿クエストホール)\[25\]
+  - 男劇団 青山表参道X 2nd Fan Event～ファンクラブ結成記念！ここから盛り上がっていくぞー！～　(2018年2月24日、東京・原宿クエストホール)
+  - 男劇団 青山表参道X3rd Fan Event ～Happy White Day 2018～ (2018年3月12日、東京・[品川 THE GRAND HALL](../Page/品川グランドセントラルタワー.md "wikilink"))
+  - 男劇団 青山表参道Xコラボレーションカフェ (2018年6月23日-7月16日、コラボレーションカフェ原宿竹下店)
+  - 男劇団 青山表参道X 4th Fan Event～1周年記念！大人も子供もO-AOX’mas Party～ (2018年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))
+  - 5th Fan Event ～2周年記念！今年は僕たちがサンタクロースだ！～ (2019年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))\[26\]
 
 ### 主な個人の出演
 
@@ -382,7 +448,8 @@
   - [男劇団 青山表参道X](https://oscar-aox.jp/) - オスカープロモーションによる公式サイト
 
   -
-[Category:男劇団_青山表参道X](https://ja.wikipedia.org/wiki/Category:男劇団_青山表参道X "wikilink") [Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink")
+  -
+[Category:オスカープロモーション](https://ja.wikipedia.org/wiki/Category:オスカープロモーション "wikilink") [Category:日本の劇団](https://ja.wikipedia.org/wiki/Category:日本の劇団 "wikilink")
 
 1.
 2.
@@ -401,3 +468,12 @@
 15.
 16.
 17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.

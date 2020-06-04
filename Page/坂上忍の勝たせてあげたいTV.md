@@ -81,7 +81,7 @@
 
 ## 放送時間
 
-  - 放送する曜日が日曜日の場合 16:00 - 16:55
+  - 放送する曜日が日曜日の場合 16:00 - 16:55\[10\]
   - 放送する曜日が月曜日～金曜日の場合 15:55 - 16:50 [news every.第](https://ja.wikipedia.org/wiki/news_every. "wikilink")1部を利用
   - 年末に行われるKEIRINグランプリだけは少し編成が変わり[KEIRINグランプリ2012](https://ja.wikipedia.org/wiki/KEIRINグランプリ2012 "wikilink")・[KEIRINグランプリ2018](https://ja.wikipedia.org/wiki/KEIRINグランプリ2018 "wikilink")は日曜日だったが、15:55 - 16:50で放送されている。
   - 2019年12月30日の[KEIRINグランプリ2019](../Page/KEIRINグランプリ2019.md "wikilink")は月曜日に行われたが、放送時間は日曜日に放送するパターンと同じ16:00 - 16:55だった。
@@ -96,10 +96,11 @@
 
 1.  原則[関東ローカル](../Page/関東ローカル.md "wikilink")だが、[土曜ロータリー](https://ja.wikipedia.org/wiki/土曜ロータリー "wikilink")で放送される場合のみ全国ネットで放送される場合がある。
 2.  2014年のみ中止順延の影響で、準決勝戦12Rを放映
-3.  [2020年](../Page/2020年.md "wikilink")も中継予定だったが、[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の流行と全国的に[緊急事態宣言が発令された影響で開催中止になった](../Page/非常事態宣言.md "wikilink")。番組は内容を変更して放送する。
+3.  [2020年](../Page/2020年.md "wikilink")も中継予定だったが、[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の流行と全国的に[緊急事態宣言が発令された影響で開催中止になった](../Page/非常事態宣言.md "wikilink")。番組は内容を変更して放送した。
 4.  [関東ローカル](../Page/関東ローカル.md "wikilink")で、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")のみの放送
 5.  [2013年](../Page/2013年.md "wikilink")も中継予定だったが、中継する予定だった最終日が中止順延になった。番組は内容を変更して放送した。
 6.  [KEIRINグランプリ09](https://ja.wikipedia.org/wiki/KEIRINグランプリ09 "wikilink")～[KEIRINグランプリ2011](https://ja.wikipedia.org/wiki/KEIRINグランプリ2011 "wikilink")で担当
 7.  現役時代の[KEIRINグランプリ08](https://ja.wikipedia.org/wiki/KEIRINグランプリ08 "wikilink")・[KEIRINグランプリ2014](https://ja.wikipedia.org/wiki/KEIRINグランプリ2014 "wikilink")・[KEIRINグランプリ2016](https://ja.wikipedia.org/wiki/KEIRINグランプリ2016 "wikilink")・解説者として[KEIRINグランプリ2019](../Page/KEIRINグランプリ2019.md "wikilink")で担当
 8.  引退直後の[KEIRINグランプリ2012](https://ja.wikipedia.org/wiki/KEIRINグランプリ2012 "wikilink")で担当
 9.  [KEIRINグランプリ2015](https://ja.wikipedia.org/wiki/KEIRINグランプリ2015 "wikilink")・[KEIRINグランプリ2017](https://ja.wikipedia.org/wiki/KEIRINグランプリ2017 "wikilink")・[KEIRINグランプリ2018](https://ja.wikipedia.org/wiki/KEIRINグランプリ2018 "wikilink")で担当
+10. [2020年](../Page/2020年.md "wikilink")5月10日は中継する予定だった[ワールドレディスチャンピオンシップ サロンパスカップが組まれていた関係で](../Page/ワールドレディスチャンピオンシップ.md "wikilink")、16:25 - 17:20に放送された。

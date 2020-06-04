@@ -162,7 +162,7 @@
   - [FNS 正月だよ\!オールハワイナイトフジ2015 ハワイにいる芸能人大集合\!お年玉つき生放送SP](https://ja.wikipedia.org/wiki/オールナイトフジ#FNS_正月だよ!オールハワイナイトフジ2015_ハワイにいる芸能人大集合!お年玉つき生放送SP "wikilink")（2015年1月1日、フジテレビ） - 高橋み・渡辺麻+SKE48（松井珠）+NMB48（山本彩）+HKT48（指原）
   - AKB48 Team8が行くみちのくグルメ探検隊（2015年2月7日、[山形放送](../Page/山形放送.md "wikilink")\[76\]） - チーム8（横山結衣・谷川聖・佐藤七海・早坂つむぎ・佐藤朱・舞木香純）
   - AKB48 Team8が行く\!今が旬 北陸絶品AKB丼を作ろう（2015年2月 、[富山テレビ](../Page/富山テレビ放送.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・福井放送） - チーム8（橋本陽菜・北玲名・長久玲奈）
-  - ロッチ\&AKB48 Team8のかがやき修学旅行（2015年3月21日、[テレビ信州](../Page/テレビ信州.md "wikilink")・[テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")・[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")・[テレビ金沢](../Page/テレビ金沢.md "wikilink")） - チーム8（近藤萌恵里・佐藤栞・橋本・北）
+  - ロッチ\&AKB48 Team8のかがやき修学旅行（2015年3月21日、[テレビ信州](../Page/テレビ信州.md "wikilink")・[テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")・[北日本放送](../Page/北日本放送.md "wikilink")・[テレビ金沢](../Page/テレビ金沢.md "wikilink")） - チーム8（近藤萌恵里・佐藤栞・橋本・北）
   - [SMAP×SMAP スター大運動会](https://ja.wikipedia.org/wiki/SMAP×SMAP#特別企画 "wikilink")（2015年3月30日、[関西テレビ](../Page/関西テレビ放送.md "wikilink")・フジテレビ） - 高橋み・渡辺麻・島崎・川栄\[77\]
   - AKB48 Team 8 テレビ朝日・六本木ヒルズ夏祭り SUMMER STATION 音楽LIVE 2016 & LoGiRL総集編SP（2016年10月16日、[テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")1） - チーム8\[78\]
   - スーパープレミアム AKB48FES 2016（2016年10月22日、NHK BSプレミアム） - AKB48・SKE48・NMB48・HKT48・NGT48\[79\]
@@ -418,7 +418,7 @@
 73. 3日間のコンサートの模様をステージを中心に一部舞台裏の模様を交えて、3時間半にまとめた物。公式DVDとは大幅に異なった内容となっている。
 74. 『[音楽熱帯夜](https://ja.wikipedia.org/wiki/音楽熱帯夜 "wikilink")』枠にて。本放送が3時間半であったのに対して、こちらは1時間半であるが、単純な短縮版ではなく、2日目（7月23日分）に焦点を当てた再編集が施されており、本放送では使われなかった映像が大幅に使用されている。
 75.
-76. [東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の日本テレビ系列5局（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")・[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")・[テレビ岩手](../Page/テレビ岩手.md "wikilink")・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")・[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")）も放送。
+76. [東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の日本テレビ系列5局（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")・[秋田放送](../Page/秋田放送.md "wikilink")・[テレビ岩手](../Page/テレビ岩手.md "wikilink")・[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")・[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")）も放送。
 77.
 78.
 79.

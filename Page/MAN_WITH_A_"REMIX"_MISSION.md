@@ -1,7 +1,7 @@
 > この記事は[MAN WITH A REMIX MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_REMIX_MISSION)から翻訳されています。
 
 
-『**MAN WITH A "REMIX" MISSION**』（マン・ウィズ・ア・リミックス・ミッション）は、[MAN WITH A MISSIONの](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")3作目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")に[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")（[Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売予定\[1\]\[2\]。
+『**MAN WITH A "REMIX" MISSION**』（マン・ウィズ・ア・リミックス・ミッション）は、[MAN WITH A MISSIONの](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")3作目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")に[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")（[Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売された\[1\]\[2\]。
 
 ## 概要
 

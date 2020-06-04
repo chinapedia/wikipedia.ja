@@ -133,7 +133,7 @@
 07/17 <a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST#TSUTAYA_O-Crest" title="wikilink">TSUTAYA O-Crest</a> (<a href="../Page/東京都.md" title="wikilink">東京都</a>)w/THE LITTLE BLACK、See You Smile、Track's、moon drop</p>
 </div>
 </div>
-<p>2nd EP『Yellow Road』を引っ提げて敢行された初の<a href="../Page/ライブハウス.md" title="wikilink">ライブハウス</a>ツアー。</p></td>
+<p>2nd EP『Yellow Road』を携えての初<a href="../Page/ライブハウス.md" title="wikilink">ライブハウス</a>ツアー。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>2月22日</p></td>
@@ -145,12 +145,15 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>02/22 アメリカ村BEYOND (大阪府)w/<a href="https://ja.wikipedia.org/wiki/竹内アンナ" title="wikilink">竹内アンナ</a>、<a href="https://ja.wikipedia.org/wiki/The_Winking_Owl" title="wikilink">The Winking Owl</a><br />
+（2019新型コロナウイルスの感染症対策基本方針に則り以降の公演を中止）<br />
 <del>02/28 池下CLUB UPSET (愛知県)w/<a href="../Page/Mega_Shinnosuke.md" title="wikilink">Mega Shinnosuke</a></del><br />
 <del>02/29 松本ALECX (長野県)w/FINLANDS、竹内アンナ</del><br />
 <del>03/06 TSUTAYA O-Crest (東京都)</del></p>
 </div>
 </div>
-<p>メジャー1stアルバム『Capture it』を引っ提げて敢行するライブハウスツアーで、最終の東京公演のみワンマン形式で開催される予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染症対策の基本方針に鑑みて</a>、開催済みであった大阪公演以外は中止となった。</p></td>
+<p>メジャー1stアルバム『Capture it』を携えてのライブハウスツアー。<br />
+初日の大阪公演を終えた後の2月25日に、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染症対策基本方針が発表され</a>、以後の公演はこれに則り中止となった。<br />
+最終の東京公演は、ワンマン形式で開催される予定だった。</p></td>
 </tr>
 <tr class="even">
 <td></td>

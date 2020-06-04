@@ -154,20 +154,50 @@
 ### DVD/Blu-ray
 
 1.  瞬間エターナル（Music Video）
+      -
+        監督: [二宮“NINO”大輔](https://ja.wikipedia.org/wiki/二宮“NINO”大輔 "wikilink")
 2.  On My Way (Music Video)
+      -
+        監督: Yu-ya HARA
 3.  アカシア (Music Video)
+      -
+        監督: 二宮“NINO”大輔
 4.  Route 66 (Music Video)
+      -
+        監督:
 5.  Summer Lover (Music Video)
+      -
+        監督: [須永秀明](../Page/須永秀明.md "wikilink")
 6.  SUPER FLY (Music Video)
+      -
+        監督: 二宮“NINO”大輔
 7.  RAY（Music Video）
+      -
+        監督: Ryo Ohishi
 8.  WILD WILD WILD (Music Video)
+      -
+        監督: 二宮“NINO”大輔
 9.  Shut up\!\! Shut up\!\! Shut up\!\! (Music Video)
+      -
+        監督: 二宮“NINO”大輔
 10. YEAH\!\! YEAH\!\! YEAH\!\! (Music Video)
+      -
+        監督: 二宮“NINO”大輔
 11. One Time One Life (Music Video)
+      -
+        監督: [久保茂昭](../Page/久保茂昭.md "wikilink")
 12. HEAD BANGIN'（Music Video）
+      -
+        監督: 二宮“NINO”大輔
 13. SURVIVORS feat. DJ MAKIDAI from EXILE　(Music Video)
+      -
+        監督: 久保茂昭
 14. THINK 'BOUT IT\! (Music Video)
+      -
+        監督: 久保茂昭
 15. Story (Special Movie)
+      -
+        監督: Yu-ya HARA
 
 ## 脚注
 

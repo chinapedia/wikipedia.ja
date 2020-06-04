@@ -9,7 +9,7 @@
 
 ## 概要
 
-『The Benza 』シリーズ１のサブキャストがメインになって繰り広げられる所もスピンオフ作品 メインのロケ地はTokyo Cowboysでお馴染みのBar恵比寿What The Dickens\! や、新宿、中野を中心に行われている。 １話約25分程度。番組の内容は、英会話番組やレッスンでは教えてくれないような”役に立たない英語や韓国語”を　各国のキャスト達が教えてくれる。 本作はダブル監督の作品となっており、日本人の西坂來人監督ががメインであるBARシーンやいんこ先生のコーナーを担当。 イギリス人のマイケル・ウィリアムズ監督が英語の多い番組VTRシーンやディビットのシーンを担当。脚本は、『The Benza 』シリーズ１に引き続き、アメリカ人のクリス・マッコームス、翻訳は川畑誠仁。
+『The Benza 』シリーズ１のサブキャストがメインになって繰り広げられる所もスピンオフ作品 メインのロケ地はTokyo Cowboysでお馴染みのBar恵比寿What The Dickens\! や、新宿、中野を中心に行われている。 １話約25分程度。番組の内容は、英会話番組やレッスンでは教えてくれないような”役に立たない英語や韓国語”を　各国のキャスト達が教えてくれる。 本作はダブル監督の作品となっており、日本人の西坂來人監督ががメインであるBARシーンやいんこ先生のコーナーを担当。 イギリス人の[マイケル・ウィリアムズ (映画監督)監督が英語の多い番組VTRシーンやディビットのシーンを担当](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ_\(映画監督\) "wikilink")。脚本は、『The Benza 』シリーズ１に引き続き、アメリカ人のクリス・マッコームス、翻訳は川畑誠仁。
 
 ## あらすじ
 
@@ -23,7 +23,7 @@
     池田香織
     塩対応な教育番組の司会者。時間内に番組を終わらせる事が一番の使命だと考えている。
   - マリア
-    マリア・パパドプール
+    [マリア・パパドプール](https://ja.wikipedia.org/wiki/マリア・パパドプール "wikilink")
     英語の発音を教えてくれる先生。妖艶なスエーデン人。
   - ハミルトン
     エイベア・ハミルトン
@@ -50,7 +50,7 @@
     [ハンナ・グレース](https://ja.wikipedia.org/wiki/ハンナ・グレース "wikilink")
     アニメ好きなヲタク。アメリカ人
   - デビット
-    アレキサンダー・ハンター
+    [アレクサンダー・ハンター](https://ja.wikipedia.org/wiki/アレクサンダー・ハンター "wikilink")
     侍魂を持つアメリカ人
   - 野口
     [野口径](https://ja.wikipedia.org/wiki/野口径 "wikilink")
@@ -74,7 +74,7 @@
     ボブ・ワーリー
     偽エリートサラリーマン。アメリカ人
   - キャロル
-    アンダーソン静香
+    [アンダーソン静香](https://ja.wikipedia.org/wiki/アンダーソン静香 "wikilink")
     日本人にしか見えないカナダ人。
   - マーク
     マーク・ザー
@@ -104,16 +104,75 @@
     前田けゑ
     肉食系イケメン。お腹が弱い日本人。
 
+## Benza English Series 1 Original Soundtrack
+
+  - 収録曲\[4\]
+
+:; 1. Happy Drunk / The Benza Cast (126)
+
+:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+
+:: 作曲：[野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
+
+:: 歌唱：[川畑誠仁](https://ja.wikipedia.org/wiki/川畑誠仁 "wikilink") and The Benza Cast
+
+:: Benza English Series 1の第３話挿入曲
+
+:; 2. Cool Samurai / The Benza Cast (341)
+
+:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+
+:: 作曲：野宮任裕
+
+:: 歌唱：[アレクサンダー・ハンター](https://ja.wikipedia.org/wiki/アレクサンダー・ハンター "wikilink")
+
+:: Benza English Series 1のデイビットのテーマソング
+
+:; 3. 君の光 / The Benza Cast (135)
+
+:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink"),Mitsugi
+
+:: 作曲：Mitsugi
+
+:: 歌唱：[ハンナ・グレース](https://ja.wikipedia.org/wiki/ハンナ・グレース "wikilink")
+
+:: Benza English Series 1のステファニーのテーマソング
+
+:; 4. Sticks and Stones / Fossilize (107)
+
+:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+
+:: 作曲：[野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
+
+:: 歌唱：デビット・マシコ、[野口径](https://ja.wikipedia.org/wiki/野口径 "wikilink")、シェイナキンバリー
+
+:; 5. We Believe in We / Fossilize (113)
+
+:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+
+:: 作曲：野宮任裕
+
+:: 歌唱：デビット・マシコ、[カイル・カード](https://ja.wikipedia.org/wiki/カイル・カード "wikilink")、[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+
+:; 6. Special to Me / Fossilize (107)
+
+  -
+
+      -
+        作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+        作曲：野宮任裕
+        歌唱：デビット・マシコ、[アンダーソン静香](https://ja.wikipedia.org/wiki/アンダーソン静香 "wikilink")
+
 ## スタッフ
 
-  - 監督 - [西坂來人](https://ja.wikipedia.org/wiki/西坂來人 "wikilink")、マイケル・ウィリアムズ
-  - 脚本 - クリス・マッコームス
-  - プロデューサー - クリス・マッコームス
-  - ラインプロデューサー - 白いんこ
-  - 撮影 - [渡邉泰裕](https://ja.wikipedia.org/wiki/渡邉泰裕 "wikilink")、[久保田雅哉](https://ja.wikipedia.org/wiki/久保田雅哉 "wikilink")、マイケル・ウィリアムズ
-  - 音楽 - 野宮任裕
-  - 編集 - 西坂來人、マイケル・ウィリアムズ、クリス・マッコームス
-  - 製作 - [TOKYO COWBOYS](https://ja.wikipedia.org/wiki/TOKYO_COWBOYS "wikilink")
+  - 監督 - [西坂來人](https://ja.wikipedia.org/wiki/西坂來人 "wikilink")、[マイケル・ウィリアムズ (映画監督)](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ_\(映画監督\) "wikilink")
+  - 脚本 - [クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+  - プロデューサー - [クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+  - ラインプロデューサー - [白いんこ](https://ja.wikipedia.org/wiki/白いんこ "wikilink")
+  - 撮影 - [渡邉泰裕](https://ja.wikipedia.org/wiki/渡邉泰裕 "wikilink")、[久保田雅哉](https://ja.wikipedia.org/wiki/久保田雅哉 "wikilink")、[マイケル・ウィリアムズ](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ "wikilink")
+  - 音楽 - [野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
+  - 編集 - [西坂來人](https://ja.wikipedia.org/wiki/西坂來人 "wikilink")、[マイケル・ウィリアムズ](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ "wikilink")、[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+  - 製作 - TOKYO COWBOYS
 
 
 
@@ -128,3 +187,4 @@
 1.  <https://www.excite.co.jp/news/article/Prtimes_2019-08-26-34913-8/?p=4>
 2.  <https://www.seoulwebfest.com/2019-nominations.html>
 3.  <https://www.imdb.com/title/tt11502710/>
+4.  <https://linkco.re/E6EzmNqp?lang=en>

@@ -35,9 +35,9 @@
 
 金田まこちゃ：連載コラム「サスペンスの神様の鼓動」2018年9月25日〜現在。
 
-蟹江まり：連載コラム「蟹江まりの映画ともしび研究部」2019年10月9日〜現在。
+蟹江まり：連載コラム「蟹江まりの映画ともしび研究部」2019年10月9日〜終了。
 
-小瀧萌香：連載コラム「偏愛洋画劇場」2019年9月3日〜現在。
+小瀧萌香：連載コラム「偏愛洋画劇場」2019年9月3日〜終了。
 
 [近藤希実](https://ja.wikipedia.org/wiki/近藤希実 "wikilink")：連載コラム「メランコリックに溺れたい」2018年8月4日〜現在。
 
@@ -63,19 +63,23 @@
 
 野洲川亮：連載コラム「最強アメコミ番付評」2018年8月1日〜現在。
 
-石井夏子・伊藤博章、黒井猫、さくらきょうこ、谷川裕美子・中村綾子・[村松健太郎](https://ja.wikipedia.org/wiki/村松健太郎 "wikilink")・三島穂乃佳
+石井夏子・星野しげみ・伊藤博章、黒井猫、さくらきょうこ、谷川裕美子・中村綾子・[村松健太郎](https://ja.wikipedia.org/wiki/村松健太郎 "wikilink")・三島穂乃佳
 
 ## 主な雑誌・パンフレット・ネット・映像関連
 
+・劇場用パンフレット『[老人ファーム](https://ja.wikipedia.org/wiki/老人ファーム "wikilink")』シネマダイバー 金田まこちゃ/[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の映画レビュー掲載（2019年4月13日劇場公開）
+
+・劇場用パンフレット『[フェイクプラスティックプラネット](https://ja.wikipedia.org/wiki/フェイクプラスティックプラネット "wikilink")』編集長 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の映画レビュー掲載（2020年2月7日劇場公開）
+
+・劇場用パンフレット『[凱里ブルース](https://ja.wikipedia.org/wiki/凱里ブルース "wikilink")』編集長 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の[ビー・ガン](https://ja.wikipedia.org/wiki/ビー・ガン "wikilink")監督独占インタビュー掲載（2020年劇場公開）
+
+・劇場用パンフレット『[おろかもの](https://ja.wikipedia.org/wiki/おろかもの "wikilink")』責任編集：副編集長 [河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")よる芳賀俊監督の独占インタビュー掲載（2020年劇場公開）
+
 ・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」Cinemarche広告：副編集長[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の詩を掲載
 
-・ピーター・ジャクソン作品『彼らは生きていた』劇場公開応援コメント掲載：松平光冬
+・ピーター・ジャクソン作品『彼らは生きていた』劇場公開応援コメント掲載：シネマダイバー 松平光冬
 
-・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」ベスト&ワースト選出：編集長[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")
-
-・劇場用パンフレット『[フェイクプラスティックプラネット](https://ja.wikipedia.org/wiki/フェイクプラスティックプラネット "wikilink")』編集長 出町光識の映画レビュー（2020年2月7日劇場公開）
-
-・劇場用パンフレット『[おろかもの](https://ja.wikipedia.org/wiki/おろかもの "wikilink")』責任編集：河合のび
+・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」2019年ベスト&ワースト選出：編集長[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")
 
 ## 外部リンク
 

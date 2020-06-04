@@ -3,9 +3,11 @@
 
 **ARCANA PROJECT**（アルカナプロジェクト）は、日本の女性ボーカルグループ。[ディアステージと](https://ja.wikipedia.org/wiki/ディアステージ_\(企業\) "wikilink")[ランティス](../Page/ランティス.md "wikilink")とが共同でプロデュースを手掛ける\[1\]。タロットカードをベースにした世界観をモチーフとしており、各メンバーには担当カラーではなく[タロット](../Page/タロット.md "wikilink")カードが割り当てられている\[2\]ほか、楽曲やライブにもタロットカードの名称に由来する名称が採用されている。
 
+2020年5月、初のアニメタイアップ作品が「[モンスター娘のお医者さん](https://ja.wikipedia.org/wiki/モンスター娘のお医者さん "wikilink")」OPであることが公表された。\[3\]
+
 ## メンバー
 
-2020年1月現在\[3\]
+2020年1月現在\[4\]
 
 <table>
 <thead>
@@ -26,7 +28,8 @@
 <td><p><a href="../Page/女帝_(タロット).md" title="wikilink">女帝</a></p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/妄想キャリブレーション" title="wikilink">妄想キャリブレーション</a></p></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/妄想キャリブレーション" title="wikilink">妄想キャリブレーション</a><br />
+ソロ歌手としても活動</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/空野青空" title="wikilink">空野青空</a></strong><br />
@@ -35,15 +38,16 @@
 <td><p><a href="../Page/運命の輪.md" title="wikilink">運命の輪</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サイド3" title="wikilink">サイド3</a></p></td>
-<td><p>ソロとしても活動</p></td>
+<td><p>ソロアイドルとしても活動</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>相田詩音</strong><br />
 <small>あいだ しおん</small></p></td>
-<td><p>アイーダ</p></td>
+<td><p>しおぴ<br />
+アイーダ</p></td>
 <td><p><a href="../Page/審判_(タロット).md" title="wikilink">審判</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/四川省.md" title="wikilink">中国四川省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -52,7 +56,7 @@
 <td><p>ハナハナ</p></td>
 <td><p><a href="../Page/魔術師_(タロット).md" title="wikilink">魔術師</a></p></td>
 <td></td>
-<td><p>東京都</p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><a href="https://ja.wikipedia.org/wiki/トリアエズ・ハナ" title="wikilink">トリアエズ・ハナ</a></p></td>
 </tr>
 <tr class="odd">
@@ -68,32 +72,74 @@
 <tr class="even">
 <td><p><strong>天野ひかる</strong><br />
 <small>あまの ひかる</small></p></td>
-<td></td>
+<td><p>ﾋｶﾙﾁｬﾝ</p></td>
 <td><p><a href="../Page/星_(タロット).md" title="wikilink">星</a></p></td>
-<td><p>{{生年月日と年齢|2003</p></td>
-<td><p>}}</p></td>
 <td></td>
+<td></td>
+<td><p>メンバー最年少</p></td>
 </tr>
 </tbody>
 </table>
 
 ## シングル
 
-| \#         | タイトル         | 品番         | 発売日        | 販売元            |
-| ---------- | ------------ | ---------- | ---------- | -------------- |
-| プレデビューシングル | ACE of WANDS | LACM-24006 | 2020年3月25日 | 株式会社バンダイナムコアーツ |
-|            |              |            |            |                |
-|            |              |            |            |                |
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>収録曲</p></th>
+<th><p>規格品番・備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>0</p></td>
+<td><p><strong>ACE of WANDS</strong></p></td>
+<td><p>2020年3月25日</p></td>
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li></li>
+<li>1・2・3!</li>
+</ol>
+</div>
+</div></td>
+<td><p>LACM-24006</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p><strong>カンパネラ響く空で</strong></p></td>
+<td></td>
+<td><div class="NavFrame">
+<div class="NavHead" style="font-weight:normal">
+<p>全1曲</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>カンパネラ響く空で</li>
+</ol>
+</div>
+</div></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 作品
 
   - [ACE of WANDS](https://www.youtube.com/watch?v=ebX_bFDC2MU): ロック調の楽曲 (作詞：安藤紗々 作曲：内藤英雅 編曲：[中野雄太](../Page/中野雄太.md "wikilink") )
   - 1・2・3\!: マーチングソング的な楽曲で、タロット占いの要素が歌詞に読み込まれている (作詞：[金子麻友美](https://ja.wikipedia.org/wiki/金子麻友美 "wikilink") 作曲・編曲：[久下真音](https://ja.wikipedia.org/wiki/久下真音 "wikilink"))
+  - カンパネラ響く空で（作詞：安藤紗々　作曲・編曲：[高田暁](https://ja.wikipedia.org/wiki/高田暁 "wikilink")）
 
 ## ライブ
 
-  - ARCANA PROJECT お披露目ライブ ～0th Oracle～（2020年1月18日、表参道GROUND）\[4\]
-  - ACE of CUPS vol.1（初の主催ライブ。2020年2月2日予定、於 [Mt.RAINIER HALL SHIBUYA](https://ja.wikipedia.org/wiki/Mt.RAINIER_HALL_SHIBUYA_PLEASURE_PLEASURE "wikilink")）\[5\]
+  - ARCANA PROJECT お披露目ライブ ～0th Oracle～（2020年1月18日、表参道GROUND）\[5\]
+  - ACE of CUPS vol.1（初の主催ライブ。2020年2月2日予定、於 [Mt.RAINIER HALL SHIBUYA](https://ja.wikipedia.org/wiki/Mt.RAINIER_HALL_SHIBUYA_PLEASURE_PLEASURE "wikilink")）\[6\]
 
 ## 脚注
 
@@ -112,3 +158,4 @@
 3.
 4.
 5.
+6.

@@ -72,17 +72,17 @@
 
 2013年4月13日、SimonCollins -Laflamme\[5\]（別名「Hypixel」）およびPhilippe Touchette（別名「Rezzus」）としてベータ版で公開。また、情報をYouTubeに公開した。
 
-2015年9月の時点で、サーバーのメンテナンスには月に約100,000ドル（日本円で約一千万円）かかるとしている。
+2015年9月の時点で、
 
 2016年4月14日、Hypixelのハウジングゲームモードでは、クリストフニーマンの協力により*ニューヨークタイムズの*「注目の世界」が開催された\[6\]。
 
-2016年12月21日、Hypixelは、ログインしたプレーヤーが合計1,000万人を超え、サーバーにプレイヤーが述べ接続した時間は1,410万時間に達した。
+2016年12月21日、
 
 2017年5月15日、ログインしたプレーヤーが合計1,500万人を超えたことをツイートした。 2017年8月3日時点でー、Hypixelは毎月300万人のプレイヤーがログインしていた\[7\]。
 
 2017年5月21日、Hypixel は*Minecraft China*の発行元である[NetEase](https://ja.wikipedia.org/wiki/NetEase "wikilink")と提携して、Hypixelを[中国](../Page/中国.md "wikilink")で公開した\[8\]。
 
-2018年4月頃、[Miraiが](https://ja.wikipedia.org/wiki/Mirai_\(マルウェア\) "wikilink")[Hypixel](../Page/Hypixel.md "wikilink")サーバーを複数にわたって[DDos攻撃をした](../Page/DoS攻撃.md "wikilink")。その後Hypixelは、[DDoS攻撃の対策としてとして](../Page/DoS攻撃.md "wikilink")[Cloudflare](https://ja.wikipedia.org/wiki/Cloudflare "wikilink")の使用を開始した\[9\]。
+2018年4月頃、[MiraiがHypixelサーバーを複数にわたって](https://ja.wikipedia.org/wiki/Mirai_\(マルウェア\) "wikilink")[DDos攻撃をした](https://ja.wikipedia.org/wiki/DoS攻撃#DDos攻撃 "wikilink")。その後Hypixelは、DDoS攻撃の対策としてとして[Cloudflare](https://ja.wikipedia.org/wiki/Cloudflare "wikilink")の使用を開始した\[9\]。
 
 2018年12月13日、Hypixel Studioが[Hytale](https://ja.wikipedia.org/wiki/Hytale "wikilink")を発表した\[10\]。
 
@@ -96,8 +96,6 @@
 
   - [Hypixel公式](https://hypixel.net/)
   - [Hypixel Server for Minecraft（YouTube）](https://www.youtube.com/user/Hypixel)
-
-
 
 ## 関連項目
 

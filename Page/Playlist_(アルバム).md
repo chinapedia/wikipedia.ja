@@ -153,8 +153,8 @@
   - 7月17日（振替） - 福岡・[Zepp Fukuoka](../Page/Zepp.md "wikilink")
   - 7月25日（振替） - 千葉・[森のホール21](../Page/森のホール21.md "wikilink") 大ホール
   - 7月31日（振替） - 宮城・[東京エレクトロンホール宮城](../Page/宮城県民会館.md "wikilink")
-  - 8月1日（振替） - 群馬・[桐生市市民文化会館](../Page/桐生市市民文化会館.md "wikilink") シルクホール
-  - 8月6日（振替） - 埼玉・[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink") 大ホール
+  - 8月1日（振替） - [群馬](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・[桐生市市民文化会館](../Page/桐生市市民文化会館.md "wikilink") シルクホール
+  - 8月6日（振替） - [埼玉](../Page/埼玉県.md "wikilink")・[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink") 大ホール
   - 8月7日（振替） - 兵庫・[神戸国際会館](../Page/神戸国際会館.md "wikilink")こくさいホール
   - 8月10日 - 愛知・[一宮市民会館](https://ja.wikipedia.org/wiki/一宮市民会館 "wikilink")
   - 9月25日（振替） - 神奈川・[神奈川県民ホール](../Page/神奈川県立県民ホール.md "wikilink") 大ホール

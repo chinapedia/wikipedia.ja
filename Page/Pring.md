@@ -50,6 +50,7 @@ pringアプリには、お金の送金に加えてチャット機能も組み込
   -
   -
   -
+  -
 [Category:2017年設立の企業](https://ja.wikipedia.org/wiki/Category:2017年設立の企業 "wikilink") [Category:電子マネー](https://ja.wikipedia.org/wiki/Category:電子マネー "wikilink")
 
 1.  [おつりで投資「トラノコ」、無料送金アプリ「pring (プリン)」と連携サービスを開始](https://www.excite.co.jp/news/article/Prtimes_2019-11-29-23255-43/)

@@ -1,7 +1,7 @@
 > この記事は[Goplay](https://ja.wikipedia.org/wiki/Goplay)から翻訳されています。
 
 
-**GOPLAY NETWORK TECHNOLOGY株式会社**は、\[\[東京都|東京都\]\]\[\[新宿区|新宿区\]\]に本社を置く、SNSアプリサービスの開発・運営事業などを行う会社。
+**GOPLAY NETWORK TECHNOLOGY株式会社**は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置く、SNSアプリサービスの開発・運営事業などを行う会社。
 
 また、同社が開発している、「知識・スキル・時間」といった特技を売り買いできるスキルマーケットの総称である。「人々に笑顔と幸せを」「自分の特技を活かして周りに幸せを」をビジョンに掲げている。
 

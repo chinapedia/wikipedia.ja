@@ -1,7 +1,7 @@
 > この記事は[タトラKT4TMR](https://ja.wikipedia.org/wiki/タトラKT4TMR)から翻訳されています。
 
 
-**タトラKT4TMR**は、[エストニア](../Page/エストニア.md "wikilink")の****で使用されている[路面電車](../Page/路面電車.md "wikilink")[車両の](../Page/電車.md "wikilink")1形式。かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）に存在した[タトラ国営会社スミーホフ工場（→ČKDタトラ）が製造した](../Page/タトラ_\(自動車\).md "wikilink")**[タトラKT4](../Page/タトラKT4.md "wikilink")**を改造した形式である。
+**タトラKT4TMR**は、[エストニア](../Page/エストニア.md "wikilink")の****で使用されている[路面電車](../Page/路面電車.md "wikilink")[車両の](../Page/電車.md "wikilink")1形式。かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）に存在したが製造した**[タトラKT4](../Page/タトラKT4.md "wikilink")**を改造した形式である。
 
 ## 概要・運用
 

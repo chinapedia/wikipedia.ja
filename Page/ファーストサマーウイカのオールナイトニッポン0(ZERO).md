@@ -49,6 +49,7 @@
 ## ゲストおよびその他の出演者
 
   - [安田顕](../Page/安田顕.md "wikilink") - 2020年4月28日（電話出演）
+  - [くっきー\!](../Page/くっきー!.md "wikilink")（[野性爆弾](https://ja.wikipedia.org/wiki/野性爆弾 "wikilink")） - 2020年6月9日
 
 ## スタッフ
 

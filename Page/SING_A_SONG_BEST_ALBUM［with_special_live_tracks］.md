@@ -41,7 +41,7 @@
       - 原曲は、18thアルバム『SMILE』に収録。
 11. **[風を感じる時](../Page/SMILE_\(山下久美子のアルバム\).md "wikilink")** *(Live Version)*
       - 原曲は、18thアルバム『SMILE』に収録。
-12. **[LOVE AND HATE](https://ja.wikipedia.org/wiki/LOVE_and_HATE "wikilink")**
+12. **[LOVE AND HATE](https://ja.wikipedia.org/wiki/LOVE_and_HATE "wikilink")** *(Live Version)*
       - 原曲は、16thアルバム『LOVE and HATE』に収録。
 13. **[SING A SONG](https://ja.wikipedia.org/wiki/FOUR_SEASONS_\(山下久美子の曲\) "wikilink")** *(Live Version)*
       - 原曲は、34thシングル「FOUR SEASONS」のカップリングに収録。
@@ -144,7 +144,7 @@
   - Chorus：Beverley Skeete
   - Manipulator：梅崎俊春
 
-**[LOVE AND HATE](https://ja.wikipedia.org/wiki/LOVE_and_HATE "wikilink")**
+**[LOVE AND HATE](https://ja.wikipedia.org/wiki/LOVE_and_HATE "wikilink")** *(Live Version)*
 
   - Drums：Frank Tontoh
   - Bass：Steve Walters

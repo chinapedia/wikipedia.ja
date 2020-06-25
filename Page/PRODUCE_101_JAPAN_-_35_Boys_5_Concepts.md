@@ -22,7 +22,7 @@
       - 作曲：チェ・ヒョンジュン,Kim Seung-soo
     <!-- end list -->
       -
-        参加メンバー - [川尻蓮](../Page/川尻蓮.md "wikilink"), [キム・ユンドン](https://ja.wikipedia.org/wiki/キム・ユンドン "wikilink"),[チョン・ヨンフン](../Page/チョン・ヨンフン.md "wikilink"),[川西拓実](../Page/川西拓実.md "wikilink"),[河野純喜](../Page/河野純喜.md "wikilink"),[鶴房汐恩](../Page/鶴房汐恩.md "wikilink"),[豆原一成](../Page/豆原一成.md "wikilink")
+        参加メンバー - [川尻蓮](../Page/川尻蓮.md "wikilink"), [キム・ユンドン](../Page/キム・ユンドン.md "wikilink"),[チョン・ヨンフン](../Page/チョン・ヨンフン.md "wikilink"),[川西拓実](../Page/川西拓実.md "wikilink"),[河野純喜](../Page/河野純喜.md "wikilink"),[鶴房汐恩](../Page/鶴房汐恩.md "wikilink"),[豆原一成](../Page/豆原一成.md "wikilink")
 3.  **Happy Merry Christmas** (3:28)
       - 作詞:小久保祐希
       - 作曲：Bae Jae Seok,小久保祐希

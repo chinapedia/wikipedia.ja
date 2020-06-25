@@ -17,4 +17,4 @@
 
   - [RIZIN公式サイト](http://jp.rizinff.com/)
 
-[Category:RIZINの大会](https://ja.wikipedia.org/wiki/Category:RIZINの大会 "wikilink") [Category:2020年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:2020年の日本のスポーツ "wikilink") [Category:2020年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2020年の総合格闘技 "wikilink") [Category:横浜アリーナで開催された総合格闘技の大会](https://ja.wikipedia.org/wiki/Category:横浜アリーナで開催された総合格闘技の大会 "wikilink") [Category:開催中止となったスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:開催中止となったスポーツ競技大会 "wikilink") [Category:2020年4月](https://ja.wikipedia.org/wiki/Category:2020年4月 "wikilink")
+[Category:RIZINの大会](https://ja.wikipedia.org/wiki/Category:RIZINの大会 "wikilink") [Category:2020年の日本のスポーツ](https://ja.wikipedia.org/wiki/Category:2020年の日本のスポーツ "wikilink") [Category:2020年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2020年の総合格闘技 "wikilink") [Category:横浜アリーナで開催された総合格闘技の大会](https://ja.wikipedia.org/wiki/Category:横浜アリーナで開催された総合格闘技の大会 "wikilink") [Category:2019新型コロナウイルス感染症の流行の影響で開催中止となったスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:2019新型コロナウイルス感染症の流行の影響で開催中止となったスポーツ競技大会 "wikilink") [Category:2020年4月](https://ja.wikipedia.org/wiki/Category:2020年4月 "wikilink")

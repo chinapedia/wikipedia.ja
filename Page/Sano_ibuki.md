@@ -421,9 +421,25 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p>2020/05/23</p></td>
+<td><p>Tetsuya Tatamitani</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=mp821ryFWAk">Jewelry</a></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>クレジット</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>Producer：Yusuke Kobayashi</li>
+<li>Production：CROMANYON
+</div>
+</div></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2020/05/29</p></td>
+<td><p>Sano ibuki</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=vQIU5y1uBGo">ファーストトイ</a></p></td>
 <td></td>
 </tr>
 </tbody>

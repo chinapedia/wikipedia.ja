@@ -32,7 +32,7 @@
 
 ### 個人
 
-  - [MLSルーキー・オブ・ジ・イヤー](https://ja.wikipedia.org/wiki/MLSルーキー・オブ・ジ・イヤー "wikilink"): 2011
+  - [MLSルーキー・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/MLSルーキー・オブ・ザ・イヤー "wikilink"): 2011
 
 ## 脚注
 

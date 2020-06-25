@@ -3,6 +3,8 @@
 
 **合同会社WESSAP**（ウィザップ）は、日本の[芸能事務所](../Page/芸能事務所.md "wikilink")。所在地は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")。社名の由来は、「W/World・E/Entertainment・S/Sexual Minority・S/Smile・A/Advantage・P/Personality」\[1\]。
 
+
+
 ## 所属タレント
 
   - [天海蓮音](https://ja.wikipedia.org/wiki/天海蓮音 "wikilink")
@@ -18,7 +20,6 @@
   - [六条瑠伽](https://ja.wikipedia.org/wiki/六条瑠伽 "wikilink")
   - [ゆかもり](https://ja.wikipedia.org/wiki/ゆかもり "wikilink")
   - [モノクロエール](../Page/モノクロエール.md "wikilink")
-  - [笹塚真以](https://ja.wikipedia.org/wiki/笹塚真以 "wikilink")
   - [御縁明日菜](https://ja.wikipedia.org/wiki/御縁明日菜 "wikilink")
   - [萬造寺竜希](https://ja.wikipedia.org/wiki/萬造寺竜希 "wikilink")
   - [彩白いくみ](https://ja.wikipedia.org/wiki/彩白いくみ "wikilink")

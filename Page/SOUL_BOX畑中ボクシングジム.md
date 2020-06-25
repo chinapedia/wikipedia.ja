@@ -13,7 +13,6 @@
 
   - 田中恒成（元[WBO世界フライ級](../Page/世界ボクシング機構.md "wikilink")、元WBO世界ミニマム級、元WBO世界ライトフライ級王者、第17代[OPBF](https://ja.wikipedia.org/wiki/OPBF "wikilink")東洋太平洋ミニマム級王者）
   - [畑中建人](https://ja.wikipedia.org/wiki/畑中建人 "wikilink") （会長の長男、現[WBC世界フライ級](../Page/世界ボクシング評議会.md "wikilink")[ユース王者](https://ja.wikipedia.org/wiki/ユース王座 "wikilink")）
-  - [田中裕士](https://ja.wikipedia.org/wiki/田中裕士_\(ボクサー\) "wikilink")（元WBC世界[バンタム級](../Page/バンタム級.md "wikilink")ユース王者）
 
 ### 引退した主な選手
 
@@ -23,6 +22,7 @@
   - [真教杉田](../Page/真教杉田.md "wikilink")（天熊丸木ジムから移籍、元WBC世界[スーパーバンタム級](../Page/スーパーバンタム級.md "wikilink")ユース王者）
   - [岡橋龍一](https://ja.wikipedia.org/wiki/岡橋龍一 "wikilink")（元日本・東洋太平洋バンタム級1位）
   - [林翔太](https://ja.wikipedia.org/wiki/林翔太_\(ボクサー\) "wikilink")（元日本[フェザー級](../Page/フェザー級.md "wikilink")王者）
+  - [田中裕士](https://ja.wikipedia.org/wiki/田中裕士_\(ボクサー\) "wikilink")（元WBC世界[バンタム級](../Page/バンタム級.md "wikilink")ユース王者）
 
 ## 脚注
 

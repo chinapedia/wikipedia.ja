@@ -1,7 +1,7 @@
 > この記事は[Samsung Galaxy Z Flip](https://ja.wikipedia.org/wiki/Samsung_Galaxy_Z_Flip)から翻訳されています。
 
 
-**Galaxy Z Flip**は、[Samsung Electronicsが設計](https://ja.wikipedia.org/wiki/Samsung_Electronics "wikilink")、製造、開発、発表、発売した折りたたみ式スマートフォンである\[1\]。その存在は2020年2月9日に開催された[第92回アカデミー賞](https://ja.wikipedia.org/wiki/第92回アカデミー賞 "wikilink")の広告で初めて正式に明らかにされ、2020年2月11日（現地時間）に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")で開催された「Galaxy UNPACKED 2020」にて、[Galaxy S20│S20+│S20 Ultraなどとともに正式発表された](https://ja.wikipedia.org/wiki/Galaxy_S20 "wikilink")\[2\]\[3\]\[4\]\[5\]。グローバル発売は2020年2月14日\[6\]。
+**Galaxy Z Flip**は、[Samsung Electronicsが設計](https://ja.wikipedia.org/wiki/Samsung_Electronics "wikilink")、製造、開発、発表、発売した折りたたみ式スマートフォンである\[1\]。その存在は2020年2月9日に開催された[第92回アカデミー賞](https://ja.wikipedia.org/wiki/第92回アカデミー賞 "wikilink")の広告で初めて正式に明らかにされ、2020年2月11日（現地時間）に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")で開催された「Galaxy UNPACKED 2020」にて、[Galaxy S20｜S20+｜S20 Ultraなどとともに正式発表された](https://ja.wikipedia.org/wiki/Galaxy_S20 "wikilink")\[2\]\[3\]\[4\]\[5\]。グローバル発売は2020年2月14日\[6\]。
 
 ## 仕様
 
@@ -9,7 +9,7 @@
 
 #### ディスプレイ
 
-開いたときに使用するメインディスプレイと閉じている状態て使用するサブディスプレイがある。メインディスプレイは、6.7[インチ](../Page/インチ.md "wikilink")でHDR10+に対応した[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")「Dynamic AMOLED」、サブディスプレイは1.1インチの有機EL「Super AMOLED」。メインディスプレイは、パンチホールカメラを画面上部中央に配置した「Infinity-O Display」となっている。また、メインディスプレイには折りたたみスマートフォンとしては初めて[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")が使われている\[7\]\[8\]\[9\]。折れ曲がるガラスには、極薄の「Ultra Thin Glass」（UTG）を採用。直接手が触れる面には[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")保護層があり、その下にUTGが配置されている\[10\]\[11\]。
+開いたときに使用するメインディスプレイと閉じている状態で使用するサブディスプレイがある。メインディスプレイは、6.7[インチ](../Page/インチ.md "wikilink")でHDR10+に対応した[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")「Dynamic AMOLED」、サブディスプレイは1.1インチの有機EL「Super AMOLED」。メインディスプレイは、パンチホールカメラを画面上部中央に配置した「Infinity-O Display」となっている。また、メインディスプレイには折りたたみスマートフォンとしては初めて[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")が使われている\[7\]\[8\]\[9\]。折れ曲がるガラスには、極薄の「Ultra Thin Glass」（UTG）を採用。直接手が触れる面には[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")保護層があり、その下にUTGが配置されている\[10\]\[11\]。
 
 #### チップセット
 
@@ -25,7 +25,7 @@
 
 #### カメラ
 
-リアカメラは超広角と広角のデュアル構成。超広角カメラは約123°の視野角での撮影が可能。また、[4K](https://ja.wikipedia.org/wiki/4K "wikilink") UHD、HDR10+の動画撮影、[スーパー手ブレ補正](https://ja.wikipedia.org/wiki/光学式手ブレ補正 "wikilink")、写真/動画の背景ぼかし（ライブフォーカス）、ナイトモードに対応する。Flexモードでは、折り曲げ角度をつけテーブルなどに置いて、写真撮影することが可能\[12\]。セルフィーやナイトハイパーラプスを撮影する際に机に置くとブレが少なくなるほか、[UIも自動で変更される](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")。
+リアカメラは超広角と広角のデュアル構成。超広角カメラは約123°の視野角での撮影が可能。また、[4K](https://ja.wikipedia.org/wiki/4K "wikilink") UHD、HDR10+の動画撮影、[スーパー手ブレ補正](https://ja.wikipedia.org/wiki/光学式手ブレ補正 "wikilink")、写真/動画の背景ぼかし（ライブフォーカス）、ナイトモードに対応する。Flexモードでは、折り曲げ角度をつけテーブルなどに置いて、写真撮影することが可能\[12\]。セルフィーやナイトハイパーラプスを撮影する際に机などに置くとブレが少なくなるほか、[UIも自動で変更される](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")。
 
 #### デザイン
 
@@ -134,7 +134,7 @@ Galaxy Z Flipのデザイン、設計には[化粧品](../Page/化粧品.md "wik
 
 #### その他
 
-国によって、[Ling Wuや](https://ja.wikipedia.org/wiki/Ling_Wu "wikilink")[Vogue](https://ja.wikipedia.org/wiki/Vogue "wikilink")とのコラボケースなども発売している。
+国によって、[Ling Wuや](https://ja.wikipedia.org/wiki/Ling_Wu "wikilink")[Vogue](https://ja.wikipedia.org/wiki/Vogue "wikilink")とのコラボケース、コラボバッグなども発売している。
 
 ## 日本での展開
 

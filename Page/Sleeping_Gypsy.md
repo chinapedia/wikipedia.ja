@@ -17,10 +17,10 @@
       - 先行シングル。
       - [日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink") CM曲
 2.  **愛すればこそ**
-3.  **[私を独りにしないでね](https://ja.wikipedia.org/wiki/真夜中のルーレット "wikilink")**
+3.  **[私を独りにしないでね](../Page/真夜中のルーレット.md "wikilink")**
       - シングル「真夜中のルーレット」のカップリング曲。
 4.  **Endless Love**
-5.  **[真夜中のルーレット](https://ja.wikipedia.org/wiki/真夜中のルーレット "wikilink")**
+5.  **[真夜中のルーレット](../Page/真夜中のルーレット.md "wikilink")**
       - [1992年](../Page/1992年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
       - [ブティックJOY](../Page/三貴.md "wikilink") TV-CFソング
 6.  **Cosmic Love**

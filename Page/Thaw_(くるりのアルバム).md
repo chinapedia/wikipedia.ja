@@ -1,7 +1,7 @@
 > この記事は[Thaw \(くるりのアルバム\)](https://ja.wikipedia.org/wiki/Thaw_\(くるりのアルバム\))から翻訳されています。
 
 
-『**thaw**』（ソー）は、[くるり](../Page/くるり.md "wikilink")の未発表作品集（コンセプト・アルバム）。[4月15日](../Page/4月15日.md "wikilink")にデジタル配信。CD盤は同[5月27日](../Page/5月27日.md "wikilink")発売予定。
+『**thaw**』（ソー）は、[くるり](../Page/くるり.md "wikilink")の未発表作品集（コンセプト・アルバム）。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にデジタル配信。CD盤は同[5月27日](../Page/5月27日.md "wikilink")発売。
 
 ## 概要
 
@@ -20,6 +20,7 @@
 1.  **心のなかの悪魔**
       -
         2009年『[魂のゆくえ](https://ja.wikipedia.org/wiki/魂のゆくえ "wikilink")』のレコーディング期のリハーサル・テイクをそのまま収録。
+        CD版発売日の[5月27日](../Page/5月27日.md "wikilink")に、[鳥飼茜](https://ja.wikipedia.org/wiki/鳥飼茜 "wikilink")の描き下ろし[ネームを使用した](https://ja.wikipedia.org/wiki/ネーム_\(漫画\) "wikilink")[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")が公開された\[5\]。
 2.  **鍋の中のつみれ**
       -
         2008年秋頃、『[魂のゆくえ](https://ja.wikipedia.org/wiki/魂のゆくえ "wikilink")』に向けた楽曲製作のなかで制作。
@@ -37,7 +38,7 @@
 5.  **evergreen**
       -
         2012年製作「my sunrise」から着想し書き上げた楽曲。『[坩堝の電圧](https://ja.wikipedia.org/wiki/坩堝の電圧 "wikilink")』期に完成間近となったがスケジュールの都合でレコーディングを中断。
-        この曲のみ、本作収録にあたり2020年3月に新たに（録られていなかった）ヴォーカルとオーバーダビング、ミックスを施し完成させた\[5\]。
+        この曲のみ、本作収録にあたり2020年3月に新たに（録られていなかった）ヴォーカルとオーバーダビング、ミックスを施し完成させた\[6\]。
         エンジニアは谷川充博。
 6.  **Hotel Evropa**
       -
@@ -77,7 +78,7 @@
 3.  **Midnight Train（has gone）**
       -
         2005年『[NIKKI](../Page/NIKKI.md "wikilink")』のレコーディング期に制作。
-4.  **ヘウレーカ**
+4.  **ヘウレーカ\!**
       -
         『[又吉直樹のヘウレーカ\!](https://ja.wikipedia.org/wiki/又吉直樹のヘウレーカ! "wikilink")』(NHK Eテレ 2018年)に書き下ろした楽曲。
 
@@ -92,3 +93,4 @@ __インデックス__
 3.
 4.
 5.
+6.

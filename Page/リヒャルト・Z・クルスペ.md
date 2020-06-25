@@ -14,3 +14,8 @@
 2007年、初のソロアルバム『Emigrate』を完成。
 
 ## 参考文献
+
+## 外部リンク
+
+  -
+[Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ラムシュタインのメンバー](https://ja.wikipedia.org/wiki/Category:ラムシュタインのメンバー "wikilink")

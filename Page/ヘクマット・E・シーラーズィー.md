@@ -3,9 +3,11 @@
 
 **ヘクマット・E・シーラーズィー**（[1892年](../Page/1892年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")、ペルシア語:علی‌اصغر حکمت شیرازی Ali-Asghar Hekmat-e Shirazi または Mirza Ali-Asghar Khan Hekmat-e Shirazi ) は、[イラン](../Page/イラン.md "wikilink")の[政治家](../Page/政治家.md "wikilink")、[外交官](../Page/外交官.md "wikilink")、[作家](../Page/作家.md "wikilink")。**ヘクマテ・シーラーズィー**とも表記される。[レザー・パフラヴィー](../Page/レザー・パフラヴィー.md "wikilink")および[モハンマド・レザー・パフラヴィー](../Page/モハンマド・レザー・パフラヴィー.md "wikilink")の統治下で、、、を務めた。[インド](../Page/インド.md "wikilink")ではイラン大使を務め、インドの歴史や文化について複数の著書がある。[イラン革命](../Page/イラン革命.md "wikilink")後は、その著書や作品は無視され、本人は[フリーメイソン](https://ja.wikipedia.org/wiki/フリーメイソン "wikilink")だという烙印を押されたが、著書『[インドの記念碑に関するペルシャ語の碑文](https://ja.wikipedia.org/wiki/インドの記念碑に関するペルシャ語の碑文 "wikilink")』がその後再版され、イランに紹介されている\[1\]。
 
-## 出典
+## 脚注
 
 <references />
+
+## 出典
 
   - Aḥmad Eqtedāri, Kārvān-e ʿomr: ḵāṭerāt-e siāsi-farhangi-ehaftād sāl ʿomr, Tehran, 1993, pp. 25–26, 205.
   - Ḥasan-ʿAli Ḥekmat, "Moḵtaṣari dar šarḥ-e zendegi-e ostād ʿAli-Aṣḡar Ḥekmat", unpublished pamphlet, Tehran, 1981.

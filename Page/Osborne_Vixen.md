@@ -13,7 +13,7 @@
 | --------------------------------------------------------------- | ----- | ---------------------------------------- | ----------- |
 | [WordStar](../Page/WordStar.md "wikilink")                      | 3.3   | マイクロプロ                                   | ワープロ        |
 | [SuperCalc](https://ja.wikipedia.org/wiki/SuperCalc "wikilink") | 2     | Sorcim                                   | 表計算         |
-| [MBASIC](https://ja.wikipedia.org/wiki/MBASIC "wikilink")       |       | [マイクロソフト](../Page/マイクロソフト.md "wikilink") | プログラミング言語   |
+| [MBASIC](../Page/MBASIC.md "wikilink")                          |       | [マイクロソフト](../Page/マイクロソフト.md "wikilink") | プログラミング言語   |
 | Osboard                                                         |       |                                          | 描画          |
 | TurnKey                                                         |       |                                          | システムユーティリティ |
 | MediaMaster                                                     |       |                                          | データ交換       |

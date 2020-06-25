@@ -19,7 +19,7 @@
 
 ## 脚注
 
-[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:2020年設立](https://ja.wikipedia.org/wiki/Category:2020年設立 "wikilink")
+[Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:2020年設立の組織](https://ja.wikipedia.org/wiki/Category:2020年設立の組織 "wikilink")
 
 1.  “\[<https://aoyama-rabness.com/news/20191227_debut-live-announcement/> 「青山Rabness お披露目ワンマンライブ」開催決定！
 2.  “\[<https://aoyama-rabness.com/profile/> 「青山Rabness プロフィール」

@@ -386,7 +386,7 @@ VICL-65263:通常盤</p></td>
 <li>1/25 広島BACK BEAT w/<a href="https://ja.wikipedia.org/wiki/2_(バンド)" title="wikilink">2</a>, <a href="https://ja.wikipedia.org/wiki/空きっ腹に酒" title="wikilink">空きっ腹に酒</a></li>
 <li>1/26 広島BACK BEAT w/2, 空きっ腹に酒</li>
 <li>1/28 高松TOONICE w/<a href="https://ja.wikipedia.org/wiki/Brian_the_Sun" title="wikilink">Brian the Sun</a>, <a href="https://ja.wikipedia.org/wiki/Slimcat" title="wikilink">Slimcat</a></li>
-<li>2/01 LIVE HOUSE enn 2nd w/The Cheserasera, <a href="https://ja.wikipedia.org/wiki/No_Buses" title="wikilink">No Buses</a></li>
+<li>2/01 LIVE HOUSE enn 2nd w/The Cheserasera, <a href="../Page/No_Buses.md" title="wikilink">No Buses</a></li>
 <li>2/02 HEAVEN'S ROCK 宇都宮 2/3(VJ-4) w/<a href="https://ja.wikipedia.org/wiki/ズーカラデル" title="wikilink">ズーカラデル</a>, <a href="https://ja.wikipedia.org/wiki/Helsinki_Lambda_Club" title="wikilink">Helsinki Lambda Club</a></li>
 <li>2/09 京都GROWLY w/<a href="https://ja.wikipedia.org/wiki/DENIMS" title="wikilink">DENIMS</a>, Easycome</li>
 <li>2/11 金沢vanvan V4 w/DENIMS, <a href="https://ja.wikipedia.org/wiki/MONO_NO_AWARE" title="wikilink">MONO NO AWARE</a>

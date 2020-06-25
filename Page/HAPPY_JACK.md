@@ -786,7 +786,7 @@ HAPPY JACK（ハッピー・ジャック）は、毎年3月に熊本県の複数
 <li><a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
+<li><a href="../Page/ドラマストア.md" title="wikilink">ドラマストア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_Cheserasera" title="wikilink">The Cheserasera</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GIRLFRIEND_(バンド)" title="wikilink">GIRLFRIEND</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Bentham_(バンド)" title="wikilink">Bentham</a></li>

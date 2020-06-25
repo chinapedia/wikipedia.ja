@@ -1,7 +1,7 @@
 > この記事は[N番部屋事件](https://ja.wikipedia.org/wiki/N番部屋事件)から翻訳されています。
 
 
-**n番部屋事件**（エヌばんへやじけん）または**n番ルーム事件**（エヌばんルームじけん）は、[韓国などで](../Page/大韓民国.md "wikilink")[2018年](../Page/2018年.md "wikilink")後半から[2020年](../Page/2020年.md "wikilink")3月までメッセンジャーアプリ内で行われていた大規模な・性[搾取](../Page/搾取.md "wikilink")事件。\[1\]
+**n番部屋事件**（エヌばんべやじけん）または**n番ルーム事件**（エヌばんルームじけん）は、[韓国などで](../Page/大韓民国.md "wikilink")[2018年](../Page/2018年.md "wikilink")後半から[2020年](../Page/2020年.md "wikilink")3月まで[Telegram](https://ja.wikipedia.org/wiki/Telegram "wikilink")、[Discordなどのメッセンジャーアプリ内で行われていた大規模な](https://ja.wikipedia.org/wiki/Discord_\(ソフトウェア\) "wikilink")・性[搾取](../Page/搾取.md "wikilink")事件。\[1\]
 
 ## 概要
 

@@ -25,7 +25,7 @@
   -
   -
   -
-[Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink") [Category:1993年生](https://ja.wikipedia.org/wiki/Category:1993年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink") [Category:1993年生](https://ja.wikipedia.org/wiki/Category:1993年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

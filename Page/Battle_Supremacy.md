@@ -32,16 +32,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ</a></p></td>
 <td><p>やや強め</p></td>
 <td><p>最高水準</p></td>
-<td><p>このゲームでは一番機動性が高く、オンラインでも使う ユーザーが多い。なおM4と同じく敵(AI)としても登場する。</p></td>
+<td><p>このゲームでは一番機動性が高く、オンラインでも使うユーザーが多い。なおM4と同じく敵(AI)としても登場する。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/一式中戦車" title="wikilink">一式中戦車</a>チヘ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大日本帝国" title="wikilink">日本</a></p></td>
 <td><p>通常よりやや低め</p></td>
 <td><p>通常よりやや高い</p></td>
-<td><p>キャンペーンモードを進めると結構早めに入手できる。 火力は少し心もとないが、リロード速度でカバーしている</p>
-<p>形である。しかし、装甲が薄いという弱点があるため、</p>
-<p>敵(AI)にエンジンを焼かれたりすることもある。</p></td>
+<td><p>キャンペーンモードを進めると結構早めに入手できる。火力は少し心もとないが、リロード速度でカバーしている形である。しかし、装甲が薄いという弱点があるため、敵(AI)にエンジンを焼かれたりすることもある。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/四式中戦車.md" title="wikilink">四式中戦車</a>チト</p></td>

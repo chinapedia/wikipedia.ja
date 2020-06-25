@@ -11,7 +11,7 @@
 
 ソーシャルメディア、インバウンド、動画マーケティングに関するイベントでの講演実績多数。2018年1月にデザイン・クリエイティブセンター神戸で開催された「神戸学校」\[4\]でCEO 赤峰俊治が講演。2018年4月に東京大学の非常勤講師にCSO [孝藤右近](https://ja.wikipedia.org/wiki/孝藤右近 "wikilink")が就任。2018年6月に[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")で開催されたソーシャルメディアカンファレンス「Live Your Dream」でCEO 赤峰俊治が講演。2019年1月に立命館アジア太平洋大学で開催された「[TED](https://ja.wikipedia.org/wiki/TED "wikilink")」でCMO [Leong Shen Limが講演](https://ja.wikipedia.org/wiki/Leong_Shen_Lim "wikilink")。2019年8月にシンガポールで開催された「Chinese National Achiever Congress」でCMO [Leong Shen Limが講演](https://ja.wikipedia.org/wiki/Leong_Shen_Lim "wikilink")。*※その他、講演会・セミナーの講師実績はイベントカテゴリーを参照*
 
-2018年11月に大手通信販売会社の株式会社[フェリシモ](https://ja.wikipedia.org/wiki/フェリシモ "wikilink")と共同出資会社、株式会社Cool Japan Academyを設立。オンライン動画学習プラットフォーム事業を開始。2019年2月に[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")の芸能事務所[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")株式会社と共同出資会社、エイベックス\&CJTV インフルエンサー株式会社を設立\[5\]。インフルエンサーアカデミー事業、インフルエンサーエージェンシー事業、SNSマーケティングコンサルティング事業を開始。2019年3月に[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の香港・台湾オフィシャルショップ、[ヴィレッジヴァンガード](https://ja.wikipedia.org/wiki/ヴィレッジヴァンガード "wikilink")香港を運営したChanoisグループと共同出資会社、株式会社JPEG（Japan Entertainment Group）を設立。
+2018年11月に大手通信販売会社の株式会社[フェリシモ](https://ja.wikipedia.org/wiki/フェリシモ "wikilink")と共同出資会社、株式会社Cool Japan Academyを設立。オンライン動画学習プラットフォーム事業を開始。2019年2月に[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")の芸能事務所[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")株式会社と共同出資会社、エイベックス\&CJTV インフルエンサー株式会社を設立\[5\]。インフルエンサーアカデミー事業、インフルエンサーエージェンシー事業、SNSマーケティングコンサルティング事業を開始。2020年5月に[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の香港・台湾オフィシャルショップ、[ヴィレッジヴァンガード](https://ja.wikipedia.org/wiki/ヴィレッジヴァンガード "wikilink")香港を運営したChanoisグループと共同出資会社、株式会社JPEG（Japan Entertainment Group）の設立とAKB48の馬嘉伶の所属を発表。
 
 ## 沿革
 
@@ -27,10 +27,10 @@
   - 2018年11月 - フェリシモと共同出資会社「株式会社 Cool Japan Academy」設立
   - 2018年12月 - マイナビと「COOL JAPAN FEST 2019」共催\[11\]
   - 2019年2月 - [エイベックス](https://ja.wikipedia.org/wiki/エイベックス "wikilink")と共同出資会社「エイベックス & CJTV インフルエンサー株式会社」設立
-  - 2019年3月 - Chanoisグループと共同出資会社「株式会社JPEG」設立
   - 2019年8月 - 神田明神納涼祭り「TOKYO BON DANCE FEST 2019」開催
   - 2019年10月 - [デイリースポーツ](../Page/デイリースポーツ.md "wikilink")と動画配信事業における業務提携発表\[12\]
   - 2020年2月 - NEXUS Bangsar South（マレーシア・クアラルンプール）にて「SMEA 2020」開催
+  - 2020年5月 - Chanoisグループと共同出資会社「株式会社JPEG」設立
 
 ## 関連会社
 
@@ -117,6 +117,8 @@
 
   -
   - [avex & CJTV Influencer](https://avex-cjtv.com/)
+
+  - [JPEG](http://jpeg-inc.com/)
 
   -
 [Category:日本のマーケティング会社](https://ja.wikipedia.org/wiki/Category:日本のマーケティング会社 "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:2017年設立の企業](https://ja.wikipedia.org/wiki/Category:2017年設立の企業 "wikilink")

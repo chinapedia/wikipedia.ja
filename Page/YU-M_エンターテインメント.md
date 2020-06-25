@@ -44,6 +44,7 @@
   - [アップフロントグループ](../Page/アップフロントグループ.md "wikilink")
   - [アップフロントクリエイト](https://ja.wikipedia.org/wiki/アップフロントクリエイト "wikilink")
   - [アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")
+  - [SATOYAMA movement](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")
 
 ## 外部リンク
 

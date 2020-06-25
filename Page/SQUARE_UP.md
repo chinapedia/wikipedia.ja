@@ -1,7 +1,7 @@
 > この記事は[SQUARE UP](https://ja.wikipedia.org/wiki/SQUARE_UP)から翻訳されています。
 
 
-『**SQUARE UP**』（スクエア・アップ）は、[韓国のガールズグループ](../Page/大韓民国.md "wikilink")[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")の[ミニ・アルバムである](../Page/コンパクト盤.md "wikilink")\[1\]。2018年6月15日に[YGエンターテインメント](../Page/YGエンターテインメント.md "wikilink")によってリリースされた。
+`『`**`SQUARE``   ``UP`**`』（スクエア・アップ）は、`[`韓国のガールズグループ`](../Page/大韓民国.md "wikilink")[`BLACKPINK`](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")の[`ミニ・アルバムである`](../Page/コンパクト盤.md "wikilink")\[1\]`。2018年6月15日に`[`YGエンターテインメント`](../Page/YGエンターテインメント.md "wikilink")によってリリースされた`。 `
 
 <table>
 <thead>

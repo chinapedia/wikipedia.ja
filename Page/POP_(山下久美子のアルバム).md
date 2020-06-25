@@ -20,7 +20,7 @@
 ### SIDE A
 
 1.  **WHY?**
-2.  **[Lilith (British Fantasy)](https://ja.wikipedia.org/wiki/リリス_\(山下久美子の曲\) "wikilink")**
+2.  **[Lilith (British Fantasy)](../Page/リリス_\(山下久美子の曲\).md "wikilink")**
       - 先行シングル。
 3.  **Happy Birthday…to me**
 4.  **LADY×××POP\!**
@@ -31,7 +31,7 @@
 1.  **TIRED OUT**
 2.  **LOVE & PEACE**
 3.  **BIBBIDI-BOBBIDI-BOO**
-4.  **[STAY](https://ja.wikipedia.org/wiki/リリス_\(山下久美子の曲\) "wikilink")**
+4.  **[STAY](../Page/リリス_\(山下久美子の曲\).md "wikilink")**
       - 先行シングル「リリス」のB面曲。
 5.  **Rock me Baby**
 6.  **BLUEZY**

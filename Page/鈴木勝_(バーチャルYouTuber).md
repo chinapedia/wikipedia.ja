@@ -24,7 +24,7 @@
 
 ### 2020年
 
-  - [2020年](../Page/2020年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、にじさんじ公式放送内にて、[ユニバーサルミュージックのレーベル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")「[Virgin Music](../Page/Virgin_Music.md "wikilink")」よりメジャーデビュー予定のユニット「**[Rain Drops](https://ja.wikipedia.org/wiki/Rain_Drops "wikilink")**」メンバーの1人であることが発表された。「\#RainDrops」は[Twitter](../Page/Twitter.md "wikilink")世界トレンド1位、YouTube同時アクセスは5.1万人を記録した\[4\]。
+  - [2020年](../Page/2020年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、にじさんじ公式放送内にて、[ユニバーサルミュージックのレーベル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")「[Virgin Music](../Page/Virgin_Music.md "wikilink")」よりメジャーデビュー予定のユニット「**[Rain Drops](https://ja.wikipedia.org/wiki/にじさんじ#Rain_Drops "wikilink")**」メンバーの1人であることが発表された。「\#RainDrops」は[Twitter](../Page/Twitter.md "wikilink")世界トレンド1位、YouTube同時アクセスは5.1万人を記録した\[4\]。
 
 ## 公式プロフィール
 
@@ -63,7 +63,7 @@
 
 ### インターネットラジオ
 
-  - にじさんじpresentsだいたいにじさんじのらじお（2019年[10月6日](../Page/10月6日.md "wikilink") - 、[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")）第30回及び5月パーソナリティ、第34回まで出演予定。
+  - にじさんじpresentsだいたいにじさんじのらじお（2019年[10月6日](../Page/10月6日.md "wikilink") - 、[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")）第30回及び5月パーソナリティ、第35回まで出演。
 
 ## 脚注
 
@@ -77,6 +77,7 @@
 
   - （2ndチャンネル）
 
+  -
   -
   -
   -

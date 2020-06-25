@@ -37,11 +37,11 @@
       -
         SUGIZO原曲
         「[機動戦士ガンダム40周年プロジェクト](http://gundam40th.net/)」記念テーマ曲
-        後に「**[THE BEYOND GUNPLA 40th EDITION THE BEYOND X MS-06 ZAKU II Ver.LUNA SEA](https://ja.wikipedia.org/wiki/THE_BEYOND_GUNPLA_40th_EDITION_THE_BEYOND_X_MS-06_ZAKU_II_Ver.LUNA_SEA "wikilink")**」としてシングルカットされた。
+        後に「**[THE BEYOND GUNPLA 40th EDITION THE BEYOND X MS-06 ZAKU II Ver.LUNA SEA](../Page/THE_BEYOND_GUNPLA_40th_EDITION_THE_BEYOND_X_MS-06_ZAKU_II_Ver.LUNA_SEA.md "wikilink")**」としてシングルカットされた。
 5.  **You’re knocking at my door**
       -
         INORAN原曲
-6.  **[宇宙の詩 ～Higher and Higher～](https://ja.wikipedia.org/wiki/宇宙の詩_～Higher_and_Higher～/悲壮美 "wikilink")**
+6.  **[宇宙の詩 ～Higher and Higher～](https://ja.wikipedia.org/wiki/宇宙の詩_〜Higher_and_Higher〜/悲壮美 "wikilink")**
       -
         SUGIZO原曲
         テレビアニメ「[機動戦士ガンダム THE ORIGIN 前夜 赤い彗星](https://ja.wikipedia.org/wiki/機動戦士ガンダム_THE_ORIGIN_前夜_赤い彗星 "wikilink")」第1弾オープニングテーマ
@@ -49,7 +49,7 @@
 7.  **anagram**
       -
         RYUICHI原曲、SUGIZOアレンジ
-8.  **[悲壮美](https://ja.wikipedia.org/wiki/宇宙の詩_～Higher_and_Higher～/悲壮美 "wikilink")**
+8.  **[悲壮美](https://ja.wikipedia.org/wiki/宇宙の詩_〜Higher_and_Higher〜/悲壮美 "wikilink")**
       -
         SUGIZO原曲
         20thシングル

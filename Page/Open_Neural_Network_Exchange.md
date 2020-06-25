@@ -44,7 +44,7 @@ MicrosoftとFacebookは、[Apple](../Page/アップル_\(企業\).md "wikilink")
 
   -
   -
-[Category:人工知能](https://ja.wikipedia.org/wiki/Category:人工知能 "wikilink") [Category:ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ファイルフォーマット "wikilink")
+[Category:人工知能](https://ja.wikipedia.org/wiki/Category:人工知能 "wikilink") [Category:ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ファイルフォーマット "wikilink") [Category:応用機械学習](https://ja.wikipedia.org/wiki/Category:応用機械学習 "wikilink")
 
 1.
 2.

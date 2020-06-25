@@ -16,11 +16,11 @@
 
   - [ドラえもん](../Page/ドラえもん_\(キャラクター\).md "wikilink") - [水田わさび](../Page/水田わさび.md "wikilink")
   - [野比のび太](../Page/野比のび太.md "wikilink") - [大原めぐみ](../Page/大原めぐみ.md "wikilink")
-  - [源静香](../Page/源静香.md "wikilink") - [かかずゆみ](../Page/かかずゆみ.md "wikilink")
-  - [剛田武](../Page/剛田武.md "wikilink") - [木村昴](../Page/木村昴.md "wikilink")
+  - [源静香](../Page/源静香.md "wikilink")（しずか） - [かかずゆみ](../Page/かかずゆみ.md "wikilink")
+  - [剛田武](../Page/剛田武.md "wikilink")（[ジャイアン](https://ja.wikipedia.org/wiki/ジャイアン "wikilink")） - [木村昴](../Page/木村昴.md "wikilink")
   - [骨川スネ夫](../Page/骨川スネ夫.md "wikilink") - [関智一](../Page/関智一.md "wikilink")
-  - [野比玉子](../Page/野比玉子.md "wikilink") - [三石琴乃](../Page/三石琴乃.md "wikilink")
-  - [野比のび助](../Page/野比のび助.md "wikilink") - [松本保典](../Page/松本保典.md "wikilink")
+  - [野比玉子](../Page/野比玉子.md "wikilink")（のび太の[ママ](../Page/母親.md "wikilink")） - [三石琴乃](../Page/三石琴乃.md "wikilink")
+  - [野比のび助](../Page/野比のび助.md "wikilink")（のび太の[パパ](../Page/父親.md "wikilink")） - [松本保典](../Page/松本保典.md "wikilink")
   - [のび太のおばあちゃん](https://ja.wikipedia.org/wiki/のび太のおばあちゃん "wikilink") - [羽鳥靖子](../Page/羽鳥靖子.md "wikilink")
 
 ## スタッフ

@@ -9,8 +9,6 @@
 
 ## トラックリスト
 
-全4曲ですが2曲のタイトルのみ公表されています。
-
 ## 脚注
 
 [Category:韓国のTWICEの楽曲](https://ja.wikipedia.org/wiki/Category:韓国のTWICEの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[タトラKT8D5](https://ja.wikipedia.org/wiki/タトラKT8D5)から翻訳されています。
 
 
-**タトラKT8D5**は、かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[プラハ](../Page/プラハ.md "wikilink")に存在した**[タトラ国営会社スミーホフ工場（ČKDタトラ）](../Page/タトラ_\(自動車\).md "wikilink")**が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）の1つ。大量輸送が可能な[3車体連接車で](../Page/連接台車.md "wikilink")、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")や[北朝鮮](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")など[社会主義](../Page/社会主義.md "wikilink")諸国に導入された。
+**タトラKT8D5**は、かつて[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[プラハ](../Page/プラハ.md "wikilink")に存在した****が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）の1つ。大量輸送が可能な[3車体連接車で](../Page/連接台車.md "wikilink")、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")や[北朝鮮](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")など[社会主義](../Page/社会主義.md "wikilink")諸国に導入された。
 
 ## 導入までの経緯
 
-[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の首都・[プラハ](../Page/プラハ.md "wikilink")を走る**[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")**には、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")の以降、地元の[タトラ国営会社スミーホフ工場（→ČKDタトラ）で製造された](../Page/タトラ_\(自動車\).md "wikilink")**[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")**と呼ばれる路面電車車両の導入が続いていた。1960年代以降は1両でも運転可能な[タトラT3](../Page/タトラT3.md "wikilink")の大量導入が実施されたが、1970年代以降は車体形状や制御装置を一新した新型車両が他都市に導入されるようになり、プラハ市電を運営していたプラハ公共交通公社（Dopravní podnik hl. m. Prahy）は[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")などの新技術を導入した新機軸の車両を開発するようタトラ国営会社へと依頼した。これを受け、[1967年](../Page/1967年.md "wikilink")の時点で検討されていた**[3車体連接車](../Page/連接台車.md "wikilink")**の開発計画を応用する形で設計が行われたのがKT8D5である\[1\]\[2\]。
+[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の首都・[プラハ](../Page/プラハ.md "wikilink")を走る**[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")**には、[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")の以降、地元ので製造された**[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")**と呼ばれる路面電車車両の導入が続いていた。1960年代以降は1両でも運転可能な[タトラT3](../Page/タトラT3.md "wikilink")の大量導入が実施されたが、1970年代以降は車体形状や制御装置を一新した新型車両が他都市に導入されるようになり、プラハ市電を運営していたプラハ公共交通公社（Dopravní podnik hl. m. Prahy）は[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")などの新技術を導入した新機軸の車両を開発するようタトラ国営会社へと依頼した。これを受け、[1967年](../Page/1967年.md "wikilink")の時点で検討されていた**[3車体連接車](../Page/連接台車.md "wikilink")**の開発計画を応用する形で設計が行われたのがKT8D5である\[1\]\[2\]。
 
 ## 概要
 

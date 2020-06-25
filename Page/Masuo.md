@@ -1,9 +1,7 @@
 > この記事は[Masuo](https://ja.wikipedia.org/wiki/Masuo)から翻訳されています。
 
 
-**Masuo**（マスオ、[1989年](../Page/1989年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。[MUUU所属](https://ja.wikipedia.org/wiki/UUUM "wikilink")。
-
-HIKAKINの腰巾着として活動している。
+**Masuo**（マスオ、[1989年](../Page/1989年.md "wikilink")〈[平成](../Page/平成.md "wikilink")元年〉[10月29日](../Page/10月29日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")。[UUUM](https://ja.wikipedia.org/wiki/UUUM "wikilink")所属。
 
 ## 概要
 
@@ -12,7 +10,7 @@ HIKAKINの腰巾着として活動している。
 
 ## 略歴
 
-  - [2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）
+  - [2012年](../Page/2012年.md "wikilink")（平成24年）
       - [8月8日](../Page/8月8日.md "wikilink") - 『MasuoTV』を開設する\[10\]。
       - [8月10日](../Page/8月10日.md "wikilink") - 動画投稿を開始。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")活動を開始する\[11\]。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）10月 - 『MasuoTV』のチャンネル登録者数が10万人を突破する\[12\]。

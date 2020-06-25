@@ -5,15 +5,11 @@
 
 ## 来歴
 
-2007年4月、ダンスボーカルダンスユニット[SQUAREHOOD](http://www.squarehood.org/index.html)(スクエアフッド)結成。
-
-2009年8月、[Warner Music Japanでメジャーデビュー](https://ja.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")。
-
-2015年、S.S.P.D.-Steel Sound Police Dept- 結成。
-
-2016年3月、Breathing Booost（ブリージングブースト）に改名。
-
-2019年11月22日、[BOOOST](https://booost.jp)（ブースト）に改名。
+  - 2007年4月、ダンスボーカルダンスユニット[SQUAREHOOD](http://www.squarehood.org/index.html)(スクエアフッド)結成。
+  - 2009年8月、[Warner Music Japanでメジャーデビュー](https://ja.wikipedia.org/wiki/WARNER_MUSIC_JAPAN "wikilink")。
+  - 2015年、S.S.P.D.-Steel Sound Police Dept- 結成。
+  - 2016年3月、Breathing Booost（ブリージングブースト）に改名。
+  - 2019年11月22日、[BOOOST](https://booost.jp)（ブースト）に改名。
 
 ## 人物
 
@@ -150,7 +146,7 @@
 
 <references />
 
-[Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:埼玉県出身の人物](https://ja.wikipedia.org/wiki/Category:埼玉県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.   国内最大級のライブ配信サービス|accessdate=2020-03-04|language=ja}}

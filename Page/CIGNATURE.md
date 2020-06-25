@@ -1,7 +1,7 @@
 > この記事は[CIGNATURE](https://ja.wikipedia.org/wiki/CIGNATURE)から翻訳されています。
 
 
-**CIGNATURE**（シグネイチャー、시그니처）は、[韓国の](../Page/大韓民国.md "wikilink")7人組女性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。C9エンターテイメントの子会社、[J9エンターテイメント](../Page/J9エンターテイメント.md "wikilink")所属。[2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に1stシングル『NUN NU NAN NA(눈누난나)』でデビュー\[1\]。
+**CIGNATURE**（シグネイチャー、시그니처）は、[韓国の](../Page/大韓民国.md "wikilink")7人組女性[アイドルグループ](https://ja.wikipedia.org/wiki/韓国のアイドルグループ一覧 "wikilink")。[C9エンターテイメント](../Page/C9エンターテイメント.md "wikilink")の子会社、[J9エンターテイメント](../Page/J9エンターテイメント.md "wikilink")所属。[2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に1stシングル『NUN NU NAN NA(눈누난나)』でデビュー\[1\]。
 
 ## 概要
 

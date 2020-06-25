@@ -1,16 +1,16 @@
 > この記事は[KANA-BOON THE BEST](https://ja.wikipedia.org/wiki/KANA-BOON_THE_BEST)から翻訳されています。
 
 
-『**KANA-BOON THE BEST**』は、[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")のメジャー1枚目\[1\]の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、[Ki/oon Recordsより発売された](../Page/キューンミュージック.md "wikilink")\[2\]。
+『**KANA-BOON THE BEST**』は、[KANA-BOON](https://ja.wikipedia.org/wiki/KANA-BOON "wikilink")のメジャー1枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、[Ki/oon Recordsより発売された](../Page/キューンミュージック.md "wikilink")\[1\]。
 
 ## 概要
 
-  - 自身初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である\[3\]。
+  - 自身初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である\[2\]。
   - CDは初回生産限定盤・通常盤の2形態で発売。
-  - 1stシングル『[盛者必衰の理、お断り](https://ja.wikipedia.org/wiki/盛者必衰の理、お断り "wikilink")』から13thシングル『[まっさら](../Page/まっさら.md "wikilink")』までシングル表題曲14曲\[4\]と、1stミニアルバム『[僕がCDを出したら](https://ja.wikipedia.org/wiki/僕がCDを出したら "wikilink")』から3rdミニアルバム『[ネリネ](https://ja.wikipedia.org/wiki/ネリネ_\(KANA-BOONのアルバム\) "wikilink")』までのアルバム収録曲14曲、現在は廃盤している自主制作盤には収録していたがメジャーデビュー後の作品には未収録であった「**スノーエスカー**」を新録したものと本作のための新曲「**マーブル**」を含めた30曲を2枚組で収録\[5\]。
-  - 初回限定盤には、過去に発表したミュージックビデオ30曲\[6\]を収録した特典Blu-rayと、ボーカルの谷口鮪が各楽曲にまつわる思いを赤裸々に綴った“タイムストリップ”ライナーノーツを付属\[7\]。更に、三方背BOX仕様となっている。
+  - 1stシングル『[盛者必衰の理、お断り](https://ja.wikipedia.org/wiki/盛者必衰の理、お断り "wikilink")』から13thシングル『[まっさら](../Page/まっさら.md "wikilink")』までシングル表題曲14曲\[3\]と、1stミニアルバム『[僕がCDを出したら](https://ja.wikipedia.org/wiki/僕がCDを出したら "wikilink")』から3rdミニアルバム『[ネリネ](https://ja.wikipedia.org/wiki/ネリネ_\(KANA-BOONのアルバム\) "wikilink")』までのアルバム収録曲14曲、現在は廃盤している自主制作盤には収録していたがメジャーデビュー後の作品には未収録であった「**スノーエスカー**」を新録したものと本作のための新曲「**マーブル**」を含めた30曲を2枚組で収録\[4\]。
+  - 初回限定盤には、過去に発表したミュージックビデオ30曲\[5\]を収録した特典Blu-rayと、ボーカルの谷口鮪が各楽曲にまつわる思いを赤裸々に綴った“タイムストリップ”ライナーノーツを付属\[6\]。更に、三方背BOX仕様となっている。
   - マーブルのMVが3月4日に解禁
-  - 発売を記念して、発売翌日に漫画『[100日後に死ぬワニ](../Page/100日後に死ぬワニ.md "wikilink")』とのコラボレーションが行われた\[8\]。
+  - 発売を記念して、発売翌日に漫画『[100日後に死ぬワニ](../Page/100日後に死ぬワニ.md "wikilink")』とのコラボレーションが行われた\[7\]。
 
 ## 収録曲
 
@@ -98,7 +98,7 @@
       - 1stミニアルバム『僕がCDを出したら』収録曲
 15. **マーブル** -bonus track-
       - 新曲
-      - [リクルート](../Page/リクルートホールディングス.md "wikilink")「Follow Your Heart & Music Presented by RECRUIT」参加楽曲\[9\]
+      - [リクルート](../Page/リクルートホールディングス.md "wikilink")「Follow Your Heart & Music Presented by RECRUIT」参加楽曲\[8\]
 
 ### 初回限定盤Blu-ray
 
@@ -118,12 +118,11 @@
 
 [Category:2020年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のベスト・アルバム "wikilink") [Category:KANA-BOONのアルバム](https://ja.wikipedia.org/wiki/Category:KANA-BOONのアルバム "wikilink") [Category:キューンミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアルバム "wikilink")
 
-1.  B面集を含めると3枚目
-2.  [KANA-BOON初のベストアルバム発売、ホールツアーも決定](https://natalie.mu/music/news/358920)
-3.  B面集である『[KBB vol.2](https://ja.wikipedia.org/wiki/KBB_vol.2 "wikilink")』からは約1年6ヶ月振り、ミニアルバムである『[ネリネ](https://ja.wikipedia.org/wiki/ネリネ_\(KANA-BOONのアルバム\) "wikilink")』からは約1年3ヶ月振りのリリース
-4.  本作と同日発売の14thシングルの表題曲「[スターマーカー](../Page/スターマーカー.md "wikilink")」は未収録。
-5.  [KANA-BOON初のベストアルバム詳細公開、初回限定盤にMV全30作品収録](https://natalie.mu/music/news/360488)
-6.  「anger in the mind」「ネリネ」「春を待って」「湯気」のみショートバージョンのMVを収録。
-7.  [ベストアルバム「KANA-BOON THE BEST」の詳細発表！](http://kanaboon.jp/news/detail/1572)
-8.
-9.  [KANA-BOON、古舘佑太郎＆伊藤万理華出演の「マーブル」MV公開](https://natalie.mu/music/news/369744)
+1.  [KANA-BOON初のベストアルバム発売、ホールツアーも決定](https://natalie.mu/music/news/358920)
+2.  B面集である『[KBB vol.2](https://ja.wikipedia.org/wiki/KBB_vol.2 "wikilink")』からは約1年6ヶ月振り、ミニアルバムである『[ネリネ](https://ja.wikipedia.org/wiki/ネリネ_\(KANA-BOONのアルバム\) "wikilink")』からは約1年3ヶ月振りのリリース
+3.  本作と同日発売の14thシングルの表題曲「[スターマーカー](../Page/スターマーカー.md "wikilink")」は未収録。
+4.  [KANA-BOON初のベストアルバム詳細公開、初回限定盤にMV全30作品収録](https://natalie.mu/music/news/360488)
+5.  「anger in the mind」「ネリネ」「春を待って」「湯気」のみショートバージョンのMVを収録。
+6.  [ベストアルバム「KANA-BOON THE BEST」の詳細発表！](http://kanaboon.jp/news/detail/1572)
+7.
+8.  [KANA-BOON、古舘佑太郎＆伊藤万理華出演の「マーブル」MV公開](https://natalie.mu/music/news/369744)

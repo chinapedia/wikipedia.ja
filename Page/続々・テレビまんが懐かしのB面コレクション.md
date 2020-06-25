@@ -103,7 +103,7 @@
 23. 少年マルス
       -
         作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲：越部信義、歌：スチーブン・トート、大杉久美子
-        フジテレビ系「[ジェッターマルス](../Page/ジェッターマルス.md "wikilink")」初代エンディングテーマ\[2\]
+        フジテレビ系「[ジェッターマルス](../Page/ジェッターマルス.md "wikilink")」初代エンディングテーマ
 24. さすらいの星ジミーオリオン
       -
         作詞：保富康午、作、編曲：渡辺宙明、歌：水木一郎、こおろぎ'73
@@ -202,7 +202,7 @@
 21. 誰かが前を
       -
         作詞：[千家和也](../Page/千家和也.md "wikilink")、作曲：[萩田光雄](../Page/萩田光雄.md "wikilink")、編曲：青木望、歌：こおろぎ'73、コロムビアゆりかご会
-        MBS系「[まんが偉人物語](https://ja.wikipedia.org/wiki/まんが偉人物語 "wikilink")」後期エンディングテーマ\[3\]
+        MBS系「[まんが偉人物語](https://ja.wikipedia.org/wiki/まんが偉人物語 "wikilink")」後期エンディングテーマ\[2\]
 22. ごきげんいかが?紅緒です
       -
         作詞：[中里綴](https://ja.wikipedia.org/wiki/中里綴 "wikilink")、編曲：[山口ますひろ](../Page/山口ますひろ.md "wikilink")、作曲・歌：[関田昇介](https://ja.wikipedia.org/wiki/関田昇介 "wikilink")
@@ -220,6 +220,5 @@
 
 [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:テレビアニメ主題歌集](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌集 "wikilink")
 
-1.  2代目エンディングテーマ「元祖天才バカボンの春」は未収録。
-2.  2代目エンディングテーマ「おやすみマルス」は未収録。
-3.  前期エンディングテーマ「ありの大統領」は[トリオレコード（現：アートユニオン）から発売](../Page/アートユニオン.md "wikilink")。
+1.  シングル盤に同録の2代目エンディングテーマ「元祖天才バカボンの春」は未収録。
+2.  前期エンディングテーマ「ありの大統領」は[トリオレコード（現：アートユニオン）から発売](../Page/アートユニオン.md "wikilink")。

@@ -1,7 +1,9 @@
 > この記事は[Replicant \(オペレーティングシステム\)](https://ja.wikipedia.org/wiki/Replicant_\(オペレーティングシステム\))から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Note_II_Replicant_6.0.jpg "wikilink") Replicantとは[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")によって、[Android](../Page/Android.md "wikilink")から[プロプライエタリな部分をすべて除き完全に](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[フリーにする事を目標に作られた携帯電話用の](../Page/フリーソフトウェア.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Note_II_Replicant_6.0.jpg "wikilink")
+
+Replicantとは[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")によって、[Android](../Page/Android.md "wikilink")から[プロプライエタリな部分をすべて除き完全に](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[フリーにする事を目標に作られた携帯電話用の](../Page/フリーソフトウェア.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。
 
 ## 対応したデバイス
 

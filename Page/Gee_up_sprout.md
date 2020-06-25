@@ -19,11 +19,26 @@
 
   - 2020年4月からリニューアルしており、4月1週目はリニューアル記念として[セントフォースから](../Page/セント・フォース.md "wikilink")[岡副麻希](https://ja.wikipedia.org/wiki/岡副麻希 "wikilink")が出演した\[5\]。
   - 2020年4月13日から不定期であるがセントフォース・カレッジの生徒が出演。
-  - セントフォース・カレッジの生徒と出演して、後にスプラウト所属となったケースもある。
+  - セントフォース・カレッジの生徒として出演、後にスプラウト所属となったケースもある。
   - 毎月第三週目は朗読劇となっている。朗読劇台本は、[東放学園の現役生](../Page/学校法人東放学園.md "wikilink")、卒業生が執筆しており、[セントフォース](https://ja.wikipedia.org/wiki/セントフォース "wikilink")・[スプラウトが演じている](https://ja.wikipedia.org/wiki/スプラウト_\(芸能プロダクション\) "wikilink")。
   - 過去にあった悩み相談コーナーについては、出演者に沿った悩みが多かった。
   - 番組中盤のジングルは[森香澄](../Page/森香澄.md "wikilink")が作曲・演奏・声を担当していた。
   - 初出演者の場合、サイコロトークで初恋の話をすることが多い。
+  - 2019年4月からサイコロトークまたgee up ルーレットでアタリが出ると出演者のツーショットチェキをプレゼントしている。
+
+## コーナー
+
+  - gee up twister（早口言葉、番組開始からの名物コーナー）
+  - 朗読劇（出演者が朗読劇で演技を披露）
+  - 映画紹介
+  - サイコロトーク（サイコロを振って、出た面のお題で出演者のプライベートに迫る）
+  - gee up ルーレット（ルーレットを回して、当たったお題で出演者のプライベートに迫る）
+  - 言葉クイズ（言葉の語源や由来をお題に出演者が答える早押しクイズ、間違えるとモノマネを披露）
+
+## 番組外での出演
+
+  - フタコTV2018　Summer TV Festival by iTSCOM　イッツコムチャンネル内　CM出演 [安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink") ,[渡辺瑠海](../Page/渡辺瑠海.md "wikilink") (2018/07-08）\[6\]
+  - おうちでgee up sprout twitter内にて出演者のお家動画を公開　※OGとしてセント・フォースより[堀江聖夏](https://ja.wikipedia.org/wiki/堀江聖夏 "wikilink")が出演 （2020/04-05）
 
 ## 出演者
 
@@ -38,10 +53,11 @@
 
   -
   -
-[Category:日本のラジオ番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ番組 "wikilink") [Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink") [Category:2015年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2015年のラジオ番組_\(日本\) "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink")
+[Category:2015年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2015年のラジオ番組_\(日本\) "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:日本のコミュニティ放送局の番組](https://ja.wikipedia.org/wiki/Category:日本のコミュニティ放送局の番組 "wikilink") [Category:関東・甲信越地方のラジオ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のラジオ番組 "wikilink") [Category:YouTubeのチャンネル](https://ja.wikipedia.org/wiki/Category:YouTubeのチャンネル "wikilink")
 
 1.
 2.
 3.
 4.
 5.
+6.

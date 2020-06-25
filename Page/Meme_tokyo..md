@@ -5,11 +5,11 @@
 
 ## 概要
 
-でんぱ組虹コンJr.メンバー募集オーディションにより[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")のジュニアユニットとして結成。純粋なオーディション結果としては**SOLI**と**KOROMO**の2人しか合格者が出なかったため、前事務所[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")を辞めて[FA宣言](https://ja.wikipedia.org/wiki/FA宣言 "wikilink")中だった**MEW**（元[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")ミュークラブ）、[店舗出身の](https://ja.wikipedia.org/wiki/秋葉原ディアステージ "wikilink")**ASUKA**（小倉あすか）と**RITO**（天沢璃人）の5人体制で活動をスタート。
+でんぱ組虹コンJr.メンバー募集オーディションにより[でんぱ組.inc](https://ja.wikipedia.org/wiki/でんぱ組.inc "wikilink")のジュニアユニットとして結成。純粋なオーディション結果としては**SOLI**と**KOROMO**の2人しか合格者が出なかったため、前事務所[WACK](https://ja.wikipedia.org/wiki/WACK "wikilink")を辞め、[FA宣言](https://ja.wikipedia.org/wiki/FA宣言 "wikilink")中だった**MEW**（元[BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")ミュークラブ）と[店舗出身の](https://ja.wikipedia.org/wiki/秋葉原ディアステージ "wikilink")**ASUKA**（小倉あすか）、**RITO**（天沢璃人）を加えた5人体制で活動をスタート。
 
 現在は学業の為活動休止中の**SOLI**に代わり、でんぱ組.inc[鹿目凛](https://ja.wikipedia.org/wiki/鹿目凛 "wikilink")が期間限定サポートメンバー**PERO**として活動中。
 
-ライブではオリジナル楽曲だけでなくでんぱ組.incの楽曲をアレンジしてカバーしている。
+ライブではオリジナル楽曲とでんぱ組.incの楽曲をアレンジしてカバーしている。
 
 ## 沿革
 
@@ -25,9 +25,12 @@
 
   - 2月16日 - 3月22日の1stワンマンライブをもって**PERO**がサポート期間を終了することを発表。
   - 3月6日 - 『レトロフューチャー』のミュージックビデオをYouTubeに公開。
-  - 3月15日 - 新型コロナウイルスの影響により1stワンマンライブの開催延期を発表。
+  - 3月15日 - 新型コロナウイルスの影響により1stワンマンライブの開催を延期を発表。**PERO**のサポート期間は延長された。
   - 3月18日 - 2ndシングル『レトロフューチャー』発売。
   - 3月22日 - 1thワンマンライブの延期を受けてYouTubeにを公開。
+  - 5月15日 - 『モラトリアムアクアリウム』のライブ映像をYouTubeに公開。
+  - 5月21日 - 1stワンマンライブの延期公演の中止を発表。
+  - 5月23日 - 1stワンマンライブの中止を受けて有料配信ライブを開催することを発表。この公演をもって**PERO**のサポート期間を終了する。
 
 ## メンバー
 
@@ -46,21 +49,21 @@
 <small>みゅー</small></p></td>
 <td><p>白</p></td>
 <td></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><a href="https://ja.wikipedia.org/wiki/ミュークラブ" title="wikilink">ミュークラブ</a></p></td>
+<td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a>（<a href="https://ja.wikipedia.org/wiki/ミュークラブ" title="wikilink">ミュークラブ</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>ASUKA</strong><br />
 <small>あすか</small></p></td>
 <td><p>ピンク</p></td>
 <td></td>
-<td><p>ディアガール<strong>小倉あすか</strong></p></td>
+<td><p>ディアガール（小倉あすか）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>RITO</strong><br />
 <small>りと</small></p></td>
 <td><p>青</p></td>
 <td></td>
-<td><p>ディアボーイ<strong>天沢璃人</strong></p></td>
+<td><p>ディアボーイ（天沢璃人）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>KOROMO</strong><br />
@@ -75,7 +78,7 @@
 <td><p>黄色</p></td>
 <td><p><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
 <td><p>でんぱ組虹コンJr.メンバー募集オーディション合格者<br />
-学業の為活動休止中</p></td>
+元RARE STAGE（そりちゃん）学業の為活動休止中</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>PERO</strong><br />
@@ -183,16 +186,17 @@
 
 #### 2020年
 
-| 公演名                                  | 公演日                | 会場                | 備考                     |
-| ------------------------------------ | ------------------ | ----------------- | ---------------------- |
-| 「メランコリックサーカス」リリース記念イベント              | 1月12日              | ヴィレッジヴァンガード渋谷本店   |                        |
-| 「レトロフューチャー」リリース記念イベント                | 3月17日              | タワーレコード錦糸町店       | 新型コロナウイルスの影響により中止      |
-| 3月18日                                | HMV\&BOOKS SHIBUYA |                   |                        |
-| 3月19日                                | タワーレコード新宿店         |                   |                        |
-| 3月20日                                | タワーレコード池袋店         |                   |                        |
-| ヴィレッジヴァンガード渋谷本店                      |                    |                   |                        |
-| 1st ONE-MAN LIVE “MEMETIC ALGORITHM” | 3月22日              | WWWX（振替公演はWWWに変更） | 新型コロナウイルスの影響により6月2日に延期 |
-| 「レトロフューチャー」リリース記念イベント                | 3月28日              | タワーレコード新宿店        | 新型コロナウイルスの影響により中止      |
+| 公演名                                  | 公演日                | 会場              | 備考                                                                  |
+| ------------------------------------ | ------------------ | --------------- | ------------------------------------------------------------------- |
+| 「メランコリックサーカス」リリース記念イベント              | 1月12日              | ヴィレッジヴァンガード渋谷本店 |                                                                     |
+| 「レトロフューチャー」リリース記念イベント                | 3月17日              | タワーレコード錦糸町店     | 新型コロナウイルスの影響により中止                                                   |
+| 3月18日                                | HMV\&BOOKS SHIBUYA |                 |                                                                     |
+| 3月19日                                | タワーレコード新宿店         |                 |                                                                     |
+| 3月20日                                | タワーレコード池袋店         |                 |                                                                     |
+| ヴィレッジヴァンガード渋谷本店                      |                    |                 |                                                                     |
+| 1st ONE-MAN LIVE "MEMETIC ALGORITHM" | 3月22日              | 渋谷WWWX          | 新型コロナウイルスの影響により6月2日に延期                                              |
+| 「レトロフューチャー」リリース記念イベント                | 3月28日              | タワーレコード新宿店      | 新型コロナウイルスの影響により中止                                                   |
+| MEMETIC ALGORITHM ONLIINE            | 6月2日               | 渋谷WWW           | 『1st ONE-MAN LIVE "MEMETIC ALGORITHM"』の振替公演だったが中止となったため有料生配信ライブとなった |
 
 ### イベント出演
 

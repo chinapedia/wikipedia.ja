@@ -1,7 +1,7 @@
 > この記事は[Altair BASIC](https://ja.wikipedia.org/wiki/Altair_BASIC)から翻訳されています。
 
 
-**Altair BASIC**（アルテア・ベーシック）は、[MITS社の](https://ja.wikipedia.org/wiki/Micro_Instrumentation_and_Telemetry_Systems "wikilink")[Altair 8800やそれ以降の](../Page/Altair_8800.md "wikilink")[S-100バス](https://ja.wikipedia.org/wiki/S-100バス "wikilink")コンピュータ上で動作する、[プログラミング言語](../Page/プログラミング言語.md "wikilink")[BASIC](../Page/BASIC.md "wikilink")の[インタプリタ](../Page/インタプリタ.md "wikilink")である。これは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")（当時はMicro-Soft表記）の最初の製品であり、MITSとの契約に基づいて配布された。Altair BASICは、[Microsoft BASIC製品群の起源となるものである](../Page/Microsoft_BASIC.md "wikilink")。
+**Altair BASIC**（アルテア・ベーシック）は、[MITS社の](../Page/Micro_Instrumentation_and_Telemetry_Systems.md "wikilink")[Altair 8800やそれ以降の](../Page/Altair_8800.md "wikilink")[S-100バス](../Page/S-100バス.md "wikilink")コンピュータ上で動作する、[プログラミング言語](../Page/プログラミング言語.md "wikilink")[BASIC](../Page/BASIC.md "wikilink")の[インタプリタ](../Page/インタプリタ.md "wikilink")である。これは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")（当時はMicro-Soft表記）の最初の製品であり、MITSとの契約に基づいて配布された。Altair BASICは、[Microsoft BASIC製品群の起源となるものである](../Page/Microsoft_BASIC.md "wikilink")。
 
 ## 起源と開発
 
@@ -17,7 +17,7 @@
 
 [Altair_BASIC_Paper_Tape.jpg](https://ja.wikipedia.org/wiki/File:Altair_BASIC_Paper_Tape.jpg "fig:Altair_BASIC_Paper_Tape.jpg") ロバーツはインタプリタの配布に同意した。また、ゲイツとアレンをMITS社で雇ってメンテナンスと改良を行った。8K BASIC、Extended BASIC、Extended ROM BASIC、Disk BASICなどのアップグレード版が追加されると、オリジナルのバージョンは4K BASICと呼ばれるようになった。
 
-最小のバージョンである4K BASICは4キロバイトのRAMを持つマシンで動作し、プログラムコードエリアには約790バイトの空きしかなかった。このような小さなメモリ空間に収めるために、4Kバージョンには文字列操作やいくつかの一般的な数学関数が入っていなかった。8K BASICバージョンでは、文字列変数とその操作関数、乱数のための`RND`などの数学関数、ブール演算子、[`PEEK`と`POKE`などが追加された](https://ja.wikipedia.org/wiki/PEEKとPOKE "wikilink")。8Kバージョンは、[ホビーパソコン](../Page/ホビーパソコン.md "wikilink")時代のBASICのほとんどのバージョンの基礎となっている。Extended BASICでは`PRINT USING`や基本的なディスクコマンドが追加され、Disk BASICではさらにディスクコマンドが拡張され、raw I/O機能が可能になった\[5\]\[6\]。
+最小のバージョンである4K BASICは4キロバイトのRAMを持つマシンで動作し、プログラムコードエリアには約790バイトの空きしかなかった。このような小さなメモリ空間に収めるために、4Kバージョンには文字列操作やいくつかの一般的な数学関数が入っていなかった。8K BASICバージョンでは、文字列変数とその操作関数、乱数のための`RND`などの数学関数、ブール演算子、[`PEEK`と`POKE`などが追加された](../Page/PEEKとPOKE.md "wikilink")。8Kバージョンは、[ホビーパソコン](../Page/ホビーパソコン.md "wikilink")時代のBASICのほとんどのバージョンの基礎となっている。Extended BASICでは`PRINT USING`や基本的なディスクコマンドが追加され、Disk BASICではさらにディスクコマンドが拡張され、raw I/O機能が可能になった\[5\]\[6\]。
 
 1975年10月、4K BASICは150ドル、8K BASICは200ドル、Extended BASICは350ドルで販売された。8KのAltairメモリとAltair IOボードを購入すると、それぞれ60ドル、75ドル、150ドルに値引きされた。配布形式は[紙テープ](../Page/紙テープ.md "wikilink")または[カセットテープ](../Page/カセットテープ.md "wikilink")だった\[7\]。
 

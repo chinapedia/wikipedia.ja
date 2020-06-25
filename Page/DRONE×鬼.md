@@ -61,4 +61,4 @@
 
   - [公式サイト](https://www.ntv.co.jp/drone/)
 
-[Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink") [Category:陣内智則](https://ja.wikipedia.org/wiki/Category:陣内智則 "wikilink") [Category:指原莉乃](https://ja.wikipedia.org/wiki/Category:指原莉乃 "wikilink")
+[Category:2019年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組 "wikilink") [Category:日本テレビの特別番組](https://ja.wikipedia.org/wiki/Category:日本テレビの特別番組 "wikilink") [Category:陣内智則](https://ja.wikipedia.org/wiki/Category:陣内智則 "wikilink") [Category:指原莉乃](https://ja.wikipedia.org/wiki/Category:指原莉乃 "wikilink")

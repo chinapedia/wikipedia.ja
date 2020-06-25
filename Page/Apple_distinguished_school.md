@@ -18,7 +18,7 @@
 
 ### 日本の認定校
 
-日本では9校（[大阪女学院大学](../Page/大阪女学院大学.md "wikilink")・大阪女学院短期大学、[関西大学初等部](https://ja.wikipedia.org/wiki/関西大学初等部・中等部・高等部 "wikilink")、[近畿大学附属高等学校](../Page/近畿大学附属高等学校・中学校.md "wikilink")、[東京インターナショナルスクール](https://ja.wikipedia.org/wiki/東京インターナショナルスクール "wikilink")、[東京成徳大学中学校](../Page/東京成徳大学中学校・高等学校.md "wikilink")、[松山市立三雲中学校](https://ja.wikipedia.org/wiki/松山市立三雲中学校 "wikilink")、[三田国際学園中学校・高等学校](https://ja.wikipedia.org/wiki/三田国際学園中学校・高等学校 "wikilink")、[上越教育大学附属中学校](../Page/上越教育大学附属中学校.md "wikilink")、[洗足学園小学校](https://ja.wikipedia.org/wiki/洗足学園小学校 "wikilink")）が同プログラムに認定されている。\[6\]
+日本では、[大阪女学院大学](../Page/大阪女学院大学.md "wikilink")・大阪女学院短期大学、[関西大学初等部](https://ja.wikipedia.org/wiki/関西大学初等部・中等部・高等部 "wikilink")、[近畿大学附属高等学校](../Page/近畿大学附属高等学校・中学校.md "wikilink")、[東京インターナショナルスクール](https://ja.wikipedia.org/wiki/東京インターナショナルスクール "wikilink")、[東京成徳大学中学校](../Page/東京成徳大学中学校・高等学校.md "wikilink")、[松山市立三雲中学校](https://ja.wikipedia.org/wiki/松山市立三雲中学校 "wikilink")、[三田国際学園中学校・高等学校](https://ja.wikipedia.org/wiki/三田国際学園中学校・高等学校 "wikilink")、[上越教育大学附属中学校](../Page/上越教育大学附属中学校.md "wikilink")、[洗足学園小学校](https://ja.wikipedia.org/wiki/洗足学園小学校 "wikilink")などの学校が同プログラムに認定された。\[6\]
 
 #### 認定校期間
 
@@ -45,6 +45,8 @@
       - 2014-2016年\[15\]
       - 2018-2021年\[16\]
   - 三田国際中学校・高等学校
+      - 期間不明
+  - 上越大学付属中学校
       - 期間不明
   - 洗足学園小学校
       - 2019-2022年\[17\]

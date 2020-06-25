@@ -1,7 +1,7 @@
 > この記事は[Top Down](https://ja.wikipedia.org/wiki/Top_Down)から翻訳されています。
 
 
-}} 「**Top Down**」（トップ ダウン）は、[EXILE THE SECONDの配信限定シングル](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")。[2019年](../Page/2019年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
+「**Top Down**」（トップ ダウン）は、[EXILE THE SECONDの配信限定シングル](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")。[2019年](../Page/2019年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
 
 ## 概要
 

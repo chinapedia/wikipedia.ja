@@ -25,123 +25,35 @@
 
 ### 配信日程
 
-| Nizi Project パート1 |
-| ----------------- |
-| EP                |
-| 第1話               |
-| 第2話               |
-| 第3話               |
-| 第4話               |
-| 第5話               |
-| 第6話               |
-| 第7話               |
-| 第8話               |
-| 第9話               |
-| 第10話(最終話)         |
-
-| Nizi Project パート2 |
-| ----------------- |
-| EP                |
-| 第1話               |
-| 第2話               |
-| 第3話               |
-| 第4話               |
+| Nizi Project パート1 | Nizi Project パート2 |
+| ----------------- | ----------------- |
+| EP                | 配信日程              |
+| 第1話               | 2020年1月31日        |
+| 第2話               | 2020年1月31日        |
+| 第3話               | 2020年2月7日         |
+| 第4話               | 2020年2月14日        |
+| 第5話               | 2020年2月21日        |
+| 第6話               | 2020年2月28日        |
+| 第7話               | 2020年3月6日         |
+| 第8話               | 2020年3月13日        |
+| 第9話               | 2020年3月20日        |
+| 第10話(最終話)         | 2020年3月27日        |
 
 ### YouTube配信
 
-  - パート 1　(地域オーディション〜東京合宿)
-
-<table>
-<thead>
-<tr class="header">
-<th><p><strong>EP</strong></p></th>
-<th><p><strong>配信日程</strong></p></th>
-<th><p><strong>Video</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>第1話</p></td>
-<td><p>2020年3月6日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=EeuwKvHjXMA">https://www.youtube.com/watch?v=EeuwKvHjXMA</a>　Part 1 #1-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=m3LqnUhNbEo">https://www.youtube.com/watch?v=m3LqnUhNbEo</a>　Part 1 #1-2]</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>第2話</p></td>
-<td><p>2020年3月6日</p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=wgmC27Aj7O0">Part 1 #2-1</a></li>
-<li><a href="https://www.youtube.com/watch?v=Um2nvpUrVYk">Part 1 #2-2</a></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>第3話</p></td>
-<td><p>2020年3月13日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=u2NIoVZHC4o">https://www.youtube.com/watch?v=u2NIoVZHC4o</a>　Part 1 #3-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=3JGGtoCIwUc">https://www.youtube.com/watch?v=3JGGtoCIwUc</a>　Part 1 #3-2]</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>第4話</p></td>
-<td><p>2020年3月20日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=C6MkfQwKzgQ">https://www.youtube.com/watch?v=C6MkfQwKzgQ</a>　Part 1 #4-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=o3_3roCJ9OQ">https://www.youtube.com/watch?v=o3_3roCJ9OQ</a>　Part 1 #4-2]</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>第5話</p></td>
-<td><p>2020年3月27日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=oKPTr7o0F1o">https://www.youtube.com/watch?v=oKPTr7o0F1o</a>　Part 1 #5-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=H_sWL7Qlv2k">https://www.youtube.com/watch?v=H_sWL7Qlv2k</a>　Part 1 #5-2]</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>第6話</p></td>
-<td><p>2020年4月3日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=98ifQUC27Kk">https://www.youtube.com/watch?v=98ifQUC27Kk</a>　Part 1 #6-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=A4g0SnZDbv0">https://www.youtube.com/watch?v=A4g0SnZDbv0</a>　Part 1 #6-2]</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>第7話</p></td>
-<td><p>2020年4月10日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=RNeC1T_EAL8">https://www.youtube.com/watch?v=RNeC1T_EAL8</a>　Part 1 #7-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=yap_EmZYyMY">https://www.youtube.com/watch?v=yap_EmZYyMY</a>　Part 1 #7-2]</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>第8話</p></td>
-<td><p>2020年4月17日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=_2tsfo1l_xk">https://www.youtube.com/watch?v=_2tsfo1l_xk</a>　Part 1 #8-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=Eb1f3vKjsfY">https://www.youtube.com/watch?v=Eb1f3vKjsfY</a>　Part 1 #8-2]</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>第9話</p></td>
-<td><p>2020年4月24日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=-KP4yxou2N8">https://www.youtube.com/watch?v=-KP4yxou2N8</a>　Part 1 #9-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=cWVXbar6iXI">https://www.youtube.com/watch?v=cWVXbar6iXI</a>　Part 1 #9-2]</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>第10話</p></td>
-<td><p>2020年5月1日</p></td>
-<td><ul>
-<li>[<a href="https://www.youtube.com/watch?v=KKfrWIue2JQ">https://www.youtube.com/watch?v=KKfrWIue2JQ</a>　Part 1 #10-1]</li>
-<li>[<a href="https://www.youtube.com/watch?v=fH1BBu7W9yQ">https://www.youtube.com/watch?v=fH1BBu7W9yQ</a>　Part 1 #10-2]</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+| パート 1　(地域オーディション〜東京合宿) | パート 2　(韓国最終合宿) |
+| ---------------------- | -------------- |
+| **EP**                 | **配信日程**       |
+| 第1話                    | 2020年3月6日      |
+| 第2話                    | 2020年3月6日      |
+| 第3話                    | 2020年3月13日     |
+| 第4話                    | 2020年3月20日     |
+| 第5話                    | 2020年3月27日     |
+| 第6話                    | 2020年4月3日      |
+| 第7話                    | 2020年4月10日     |
+| 第8話                    | 2020年4月17日     |
+| 第9話                    | 2020年4月24日     |
+| 第10話                   | 2020年5月1日      |
 
 ## 出演者
 
@@ -159,6 +71,8 @@
 
   - [モモ](https://ja.wikipedia.org/wiki/モモ_\(TWICEのメンバー\) "wikilink")（[TWICEのメンバー](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")）- パート1・第9話に特別審査員として出演
   - [サナ](https://ja.wikipedia.org/wiki/サナ "wikilink")（TWICEのメンバー）- パート1・第9話に特別審査員として出演
+  - [ウヨン](https://ja.wikipedia.org/wiki/ウヨン "wikilink")（[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")のメンバー）- パート2・第6話に出演
+  - ウ・ジソク - パート2・第6話に通訳して出演
 
 ### 虹の架け橋
 
@@ -314,6 +228,8 @@
   - **チームミッション**
 
 4つのチームに分かれて課題曲を披露する。練習期間は1ヵ月で、対戦カードはくじ引きによって決定した。また、今回のミッションの評価基準は「チームワーク」であり、チーム内でどんな役割を担うのか、勝利チームの「チームワーク」という協調性が見られたら全員キューブを獲得できる。
+
+  - **チームバトル**
 
 ## 審査・課題での使用楽曲
 
@@ -471,6 +387,12 @@
 
 ### パート2
 
+#### テーマ曲
+
+  - 「Baby I'm a star」
+
+番組オリジナル曲。新井彩花、アン・ユナ、池松里梨愛、井上あかり、大江梨久、小合麻由佳、勝村摩耶、鈴野未光、花橋梨緒、平井桃加、ヒルマンニナ、山口真子、横井里茉の13人が歌唱参加。
+
 #### 個人レベルテスト
 
 | 個人レベルテスト 使用楽曲                                                              |
@@ -498,7 +420,25 @@
 | 「Dance The Night Away -Japanese ver.-」TWICE                                      |
 | 「너무너무너무 (Very Very Very)」[I.O.I](https://ja.wikipedia.org/wiki/I.O.I "wikilink") |
 | 「Heart Shaker -Japanese ver.-」TWICE                                              |
-| 「Swing Baby」Ulala Session                                                        |
+| 「Swing Baby」J.Y. Park                                                            |
+
+#### 極限の体育祭
+
+| 極限の体育祭 使用楽曲                              |
+| ---------------------------------------- |
+| 使用楽曲                                     |
+| 「I'll be back -Japanese ver.-」2PM        |
+| 「FEVER (feat. SUPERBEE & BIBI)」J.Y. Park |
+| 「Hands Up」2PM                            |
+
+#### チームバトル
+
+| チームミッション 使用楽曲       |
+| ------------------- |
+| 使用楽曲                |
+| 「Feel Special」TWICE |
+| 「Heartbeat」2PM      |
+| 「ICY」ITZY           |
 
 ## 審査・課題での結果
 
@@ -506,13 +446,13 @@
 
 #### キューブ獲得状況
 
-| \-           | 獲得メンバー                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **ダンスキューブ**  | <small>山口真子、鈴野未光、池松里梨愛</small> <small>追加（岸田莉里花、尾崎すず、大江梨久、横井里茉、アン・ユナ、花橋梨緒、井上あかり、伊藤玲、勝村摩耶、山城萌野、プランケット明、平井桃伽、新井彩花、小栗かこ、*小合*麻由佳）</small>　※（順位順） |
-| **ボーカルキューブ** | <small>山口真子、ヒルマンニナ、鈴野未光、大江梨久、尾崎すず、池松里梨愛、櫻井美羽</small> <small>追加（横井里茉、アン・ユナ、井上あかり、平井桃伽、勝村摩耶、花橋梨緒、*小合*麻由佳）</small>　<small>※（順位順）</small>       |
-| **スター性キューブ** | <small>新井彩花、アン・ユナ、大江梨久、尾崎すず、勝村摩耶、鈴野未光、ヒルマンニナ、横井里茉</small> <small>追加（井上あかり、*小合*麻由佳、谷屋杏香、平井桃伽、山城萌野、山口真子）　　※（50音順）</small>                     |
-| 人柄キューブ       | <small>山口真子、鈴野未光、勝村摩耶、横井里茉、大江梨久、アン・ユナ、花橋梨緒、池松里梨愛、新井彩花、ヒルマンニナ※（順不同） </small>                                                                 |
-| **全キューブ獲得**  | <small>山口真子、鈴野未光、勝村摩耶、横井里茉、大江梨久、アン・ユナ　※（順位順）</small>                                                                                        |
+| \-           | 獲得メンバー                                                                                                                                                     |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ダンスキューブ**  | <small>山口真子、鈴野未光、池松里梨愛</small> <small>追加（岸田莉里花、尾崎すず、大江梨久、横井里茉、アン・ユナ、花橋梨緒、井上あかり、伊藤玲、勝村摩耶、山城萌野、プランケット明、平井桃伽、新井彩花、小栗かこ、*小合*麻由佳）</small>　<small>※（順位順）</small> |
+| **ボーカルキューブ** | <small>山口真子、ヒルマンニナ、鈴野未光、大江梨久、尾崎すず、池松里梨愛、櫻井美羽</small> <small>追加（横井里茉、アン・ユナ、井上あかり、平井桃伽、勝村摩耶、花橋梨緒、*小合*麻由佳）</small>　<small>※（順位順）</small>                      |
+| **スター性キューブ** | <small>新井彩花、アン・ユナ、大江梨久、尾崎すず、勝村摩耶、鈴野未光、ヒルマンニナ、横井里茉</small> <small>追加（井上あかり、*小合*麻由佳、谷屋杏香、平井桃伽、山城萌野、山口真子）　　※（50音順）</small>                                    |
+| 人柄キューブ       | <small>山口真子、鈴野未光、勝村摩耶、横井里茉、大江梨久、アン・ユナ、花橋梨緒、池松里梨愛、新井彩花、ヒルマンニナ※（順不同） </small>                                                                                |
+| **全キューブ獲得**  | <small>山口真子、鈴野未光、勝村摩耶、横井里茉、大江梨久、アン・ユナ　※（順位順）</small>                                                                                                       |
 
 #### ダンスレベルテスト
 
@@ -622,11 +562,11 @@
 
 #### キューブ獲得状況
 
-| \-                | 獲得メンバー                                                                           |
-| ----------------- | -------------------------------------------------------------------------------- |
-| **個人レベルテスト**      | <small>鈴野未光、大江梨久、勝村摩耶、山口真子</small><small>追加（橫井里茉、花橋梨緒、ヒルマンニナ、小合麻由佳、新井彩花）</small> |
-| **チームミッション**      | <small>鈴野未光、橫井里茉、新井彩花</small>                                                    |
-| **全キューブ獲得** (現段階） | <small>鈴野未光、橫井里茉、新井彩花</small>                                                    |
+| \-                | 獲得メンバー                                                                                   |
+| ----------------- | ---------------------------------------------------------------------------------------- |
+| **個人レベルテスト**      | <small>鈴野未光、大江梨久、勝村摩耶、山口真子 （※順位順）</small><small>追加（橫井里茉、花橋梨緒、ヒルマンニナ、小合麻由佳、新井彩花）</small>  |
+| **チームミッション**      | <small>鈴野未光、橫井里茉、新井彩花、山口真子、勝村摩耶、花橋梨緒 （※チーム順）</small><small>追加（大江梨久、井上あかり、ヒルマンニナ）</small> |
+| **全キューブ獲得** (現段階） | <small>新井彩花、大江梨久、勝村摩耶、鈴野未光、花橋梨緒、ヒルマンニナ、山口真子、橫井里茉（※50音順）</small>                          |
 
 #### 個人レベルテスト
 
@@ -650,6 +590,9 @@
 <th><p>チーム名</p></th>
 <th><p>課題曲</p></th>
 <th><p>メンバー</p></th>
+<th><p>チーム 順位[5]</p></th>
+<th><p>個人 順位</p></th>
+<th><p>キューブ 獲得</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -662,9 +605,15 @@
 <td><p>Seaside Fairies</p></td>
 <td><p>「Dance The Night Away -Japanese ver.-」 TWICE</p></td>
 <td><p>ヒルマンニナ</p></td>
+<td><p>3位</p></td>
+<td><p>9位</p></td>
+<td><p>●(追加)</p></td>
 </tr>
 <tr class="even">
 <td><p>小合麻由佳</p></td>
+<td><p>11位</p></td>
+<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -672,6 +621,9 @@
 </tr>
 <tr class="odd">
 <td><p>池松里梨愛</p></td>
+<td><p>10位</p></td>
+<td><p>-</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -679,6 +631,9 @@
 </tr>
 <tr class="even">
 <td><p>井上あかり</p></td>
+<td><p>5位</p></td>
+<td><p>●(追加)</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -689,10 +644,16 @@
 <td><p>Sun Rise</p></td>
 <td><p>「너무너무너무 (Very Very Very)」 I.O.I</p></td>
 <td><p>鈴野未光</p></td>
+<td><p>2位</p></td>
+<td><p>6位</p></td>
+<td><p>●</p></td>
 <td><p>リーダー</p></td>
 </tr>
 <tr class="even">
 <td><p>橫井里茉</p></td>
+<td><p>2位</p></td>
+<td><p>●</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -700,6 +661,9 @@
 </tr>
 <tr class="odd">
 <td><p>新井彩花</p></td>
+<td><p>7位</p></td>
+<td><p>●</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -710,12 +674,148 @@
 <p>試</p>
 <p>合</p></td>
 <td><p>-</p></td>
-<td></td>
+<td><p>Heart Maker</p></td>
 <td><p>「Heart Shaker -Japanese ver.-」 TWICE</p></td>
 <td><p>大江梨久</p></td>
+<td><p>4位</p></td>
+<td><p>4位</p></td>
+<td><p>●(追加)</p></td>
 </tr>
 <tr class="odd">
 <td><p>アンユナ</p></td>
+<td><p>12位</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>平井桃伽</p></td>
+<td><p>13位</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>勝</strong> <strong>利</strong></p></td>
+<td><p>Mr.お姉さん</p></td>
+<td><p>「Swing Baby」 J.Y. Park</p></td>
+<td><p>山口真子</p></td>
+<td><p>1位</p></td>
+<td><p>3位</p></td>
+<td><p>●</p></td>
+<td><p>リーダー</p></td>
+</tr>
+<tr class="even">
+<td><p>勝村摩耶</p></td>
+<td><p>1位</p></td>
+<td><p>●</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>花橋梨緒</p></td>
+<td><p>8位</p></td>
+<td><p>●</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 極限の体育祭
+
+| チーム名                                   | メンバー                                                      | <small>種目</small>                        | 合計 スコア                                   |
+| -------------------------------------- | --------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| <small>イス取り</small> <small>ゲーム</small> | <small>リンボー</small> <small>ダンス</small>                    | <small>ジェスチャー</small> <small>ゲーム</small> | <small>カードめくり</small> <small>ゲーム</small> |
+| ピンクチーム                                 | <small>新井彩花、アンユナ、池松里梨愛、大江梨久、小合麻由佳、山口真子(リーダー)、横井里茉</small> | \-                                       | \-                                       |
+| ミントチーム                                 | <small>井上あかり、勝村摩耶、鈴野未光、花橋梨緒(リーダー)、平井桃加、ヒルマンニナ</small>     | 勝利 (50点)                                 | 勝利 (50点)                                 |
+
+#### チームバトル
+
+<table>
+<thead>
+<tr class="header">
+<th><p>チーム名</p></th>
+<th><p>課題曲</p></th>
+<th><p>メンバー</p></th>
+<th><p>チーム 順位</p></th>
+<th><p>個人 順位</p></th>
+<th><p>キューブ 獲得</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>マヤチーム</p></td>
+<td><p>「Feel Special」</p>
+<p>TWICE</p></td>
+<td><p>井上あかり</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>アンユナ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>勝村摩耶</p></td>
+<td></td>
+<td></td>
+<td><p>リーダー</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>鈴野未光</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>マコチーム</p></td>
+<td><p>「Heartbeat」 2PM</p></td>
+<td><p>新井彩花</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>大江梨久</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>小合麻由佳</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -727,16 +827,23 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>-</p></td>
-<td></td>
-<td><p>「Swing Baby 」 Ulala Session</p></td>
 <td><p>山口真子</p></td>
+<td></td>
+<td></td>
 <td><p>リーダー</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>勝村摩耶</p></td>
+<td><p>リマチーム</p></td>
+<td><p>「ICY」</p>
+<p>ITZY</p></td>
+<td><p>池松里梨愛</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -748,22 +855,90 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ヒルマンニナ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>橫井里茉</p></td>
+<td></td>
+<td></td>
+<td><p>リーダー</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+### 虹かけランキング
+
+Nizi Project公式サイトにて毎日更新されるランキング\[6\]。各練習生に1回「虹かけ」(投票)を行うことができる。シーズン2放送開始の4月24日より投票が開始された。
+
+| 虹かけランキング集計結果              |
+| ------------------------- |
+| 集計日                       |
+| <small>2020年4月24日</small> |
+| <small>2020年4月25日</small> |
+| <small>2020年4月26日</small> |
+| <small>2020年4月27日</small> |
+| <small>2020年4月28日</small> |
+| <small>2020年4月29日</small> |
+| <small>2020年4月30日</small> |
+| <small>2020年5月1日</small>  |
+| <small>2020年5月2日</small>  |
+| <small>2020年5月3日</small>  |
+| <small>2020年5月4日</small>  |
+| <small>2020年5月5日</small>  |
+| <small>2020年5月6日</small>  |
+| <small>2020年5月7日</small>  |
+| <small>2020年5月8日</small>  |
+| <small>2020年5月9日</small>  |
+| <small>2020年5月10日</small> |
+| <small>2020年5月11日</small> |
+| <small>2020年5月12日</small> |
+| <small>2020年5月13日</small> |
+| <small>2020年5月14日</small> |
+| <small>2020年5月15日</small> |
+| <small>2020年5月16日</small> |
+| <small>2020年5月17日</small> |
+| <small>2020年5月18日</small> |
+| <small>2020年5月19日</small> |
+| <small>2020年5月20日</small> |
+| <small>2020年5月21日</small> |
+| <small>2020年5月22日</small> |
+| <small>2020年5月23日</small> |
+| <small>2020年5月24日</small> |
+| <small>2020年5月25日</small> |
+| <small>2020年5月26日</small> |
+| <small>2020年5月27日</small> |
+| <small>2020年5月28日</small> |
+| <small>2020年5月29日</small> |
+| <small>2020年5月30日</small> |
+| <small>2020年5月31日</small> |
+| <small>2020年6月1日</small>  |
 
 ## 参加メンバーのその後
 
   - 伊藤玲 - ([Instagram](https://www.instagram.com/reihwan/))
   - 小栗かこ - 自身のInstagramにダンス動画をアップしている。([Instagram](https://www.instagram.com/kako_oguri/))
-  - 岸田莉里花 - 韓国人3人、日本人2人の5人組ガールズグループ「Orange Latte」のメンバー・RIRIとして活動している\[5\]。
+  - 尾崎すず - ([Twitter](https://twitter.com/osuzu_o))
+  - 岸田莉里花 - 韓国人3人、日本人2人の5人組ガールズグループ「Orange Latte」のメンバー・RIRIとして活動している\[7\]。
   - 高谷楓菜 - ([Instagram](https://www.instagram.com/fuuchan._.28/))
-  - 谷川陽菜 - [aoiro](https://ja.wikipedia.org/wiki/aoiro "wikilink")「負けてたまるか」のミュージックビデオに出演\[6\]。([Twitter](https://twitter.com/tanigawa_hina)/[Instagram](https://www.instagram.com/tanihina._.0927/)/[SHOWROOM](https://www.showroom-live.com/happy_hina)/[Tiktok](https://www.tiktok.com/@tanihina0927))
-  - 谷屋杏香 - 自身のYouTubeチャンネルを開設し、ダンス動画をアップしている。([Instagram](https://www.instagram.com/kyokataniya/)/[YouTube](https://www.youtube.com/channel/UCVZ1MmDO3k2BKI9V4HUwegg?app=desktop))
+  - 谷川陽菜 - [aoiro](https://ja.wikipedia.org/wiki/aoiro "wikilink")「負けてたまるか」のミュージックビデオに出演\[8\]。([Twitter](https://twitter.com/tanigawa_hina)/[Instagram](https://www.instagram.com/tanihina._.0927/)/[YouTube](https://www.youtube.com/channel/UC3GSZCrGM4QKmO9mCe1HrWQ)//[SHOWROOM](https://www.showroom-live.com/happy_hina)/[Tiktok](https://www.tiktok.com/@tanihina0927))
+  - 谷屋杏香 - 自身のYouTubeチャンネルを開設し、ダンス動画をアップしている。([Twitter](https://twitter.com/_kyoka827_)/[Instagram](https://www.instagram.com/kyokataniya/)/[YouTube](https://www.youtube.com/channel/UCVZ1MmDO3k2BKI9V4HUwegg?app=desktop)/[Tiktok](https://www.tiktok.com/@_kyoka827_))
   - プランケット明 - ([Twitter](https://twitter.com/mei_plunkett?s=20)/[Instagram](https://www.instagram.com/mei_plunkett/))
-  - 丸谷彩音 - ([Twitter](https://twitter.com/Ayane_marutani?s=20)/[Instagram](https://www.instagram.com/yon._.0h/))
+  - 丸谷彩音 - ([Twitter](https://twitter.com/Ayane_marutani?s=20)/[Instagram](https://www.instagram.com/yon._.0a/))
   - 山城萌野 - ([Instagram](https://www.instagram.com/moeno_going/))
-  - 佐藤愛夏 - 自身のYouTubeチャンネルを開設し、NiziProjectでの経験談を話した。([Instagram](https://www.instagram.com/_suasn/?hl=ja)/[YouTube](https://www.youtube.com/channel/UCWNXLWFciksYLhQGMe-ioSA))
+  - 佐藤愛夏 - 自身のYouTubeチャンネルを開設し、NiziProjectでの経験談やカバー動画をアップしている。([Twitter](https://twitter.com/_suasn)/[Instagram](https://www.instagram.com/susu._a/)/[YouTube](https://www.youtube.com/channel/UCWNXLWFciksYLhQGMe-ioSA))
 
 ## 脚注
 
@@ -786,5 +961,7 @@
 2.
 3.
 4.
-5.
+5.  5月22日放送「虹の架け橋」にてJ.Y.Parkが発表
 6.
+7.
+8.

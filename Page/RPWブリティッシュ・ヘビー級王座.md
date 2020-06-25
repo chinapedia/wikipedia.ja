@@ -251,4 +251,4 @@
 
   - [RPW公式サイト](http://www.RevolutionProWrestling.com)
 
-[Category:新日本プロレスの王座](https://ja.wikipedia.org/wiki/Category:新日本プロレスの王座 "wikilink") [Category:プロレスのヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのヘビー級王座 "wikilink")
+[Category:プロレスのヘビー級王座](https://ja.wikipedia.org/wiki/Category:プロレスのヘビー級王座 "wikilink")

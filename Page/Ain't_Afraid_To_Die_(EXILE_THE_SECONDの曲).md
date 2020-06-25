@@ -1,7 +1,7 @@
 > この記事は[Ain\'t Afraid To Die \(EXILE THE SECONDの曲\)](https://ja.wikipedia.org/wiki/Ain\'t_Afraid_To_Die_\(EXILE_THE_SECONDの曲\))から翻訳されています。
 
 
-}} 「**Ain't Afraid To Die**」（エイント・アフレイド・トゥ・ダイ）は、[EXILE THE SECONDの配信限定シングル](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")。[2019年](../Page/2019年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
+「**Ain't Afraid To Die**」（エイント・アフレイド・トゥ・ダイ）は、[EXILE THE SECONDの配信限定シングル](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")。[2019年](../Page/2019年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[rhythm zoneから発売された](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")\[1\]。
 
 ## 概要
 

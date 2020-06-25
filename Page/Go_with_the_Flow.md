@@ -88,7 +88,7 @@
 
 ## 関連項目
 
-  - [TAKUYA KIMURA Live Tour 2020 Go with the Flow](https://ja.wikipedia.org/wiki/TAKUYA_KIMURA_Live_Tour_2020_Go_with_the_Flow "wikilink")
+  - [TAKUYA KIMURA Live Tour 2020 Go with the Flow](../Page/TAKUYA_KIMURA_Live_Tour_2020_Go_with_the_Flow.md "wikilink")
 
 ## 脚注
 

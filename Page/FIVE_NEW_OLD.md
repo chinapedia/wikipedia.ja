@@ -527,7 +527,7 @@ TFCC-86646</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ul>
-<li>11/01 渋谷THE GAME w/<a href="https://ja.wikipedia.org/wiki/SHIT_HAPPENING" title="wikilink">SHIT HAPPENING</a>, <a href="https://ja.wikipedia.org/wiki/The♡Valentine." title="wikilink">The♡Valentine.</a>, <a href="https://ja.wikipedia.org/wiki/SAY_MY_NAME." title="wikilink">SAY MY NAME.</a></li>
+<li>11/01 渋谷THE GAME w/<a href="../Page/SHIT_HAPPENING.md" title="wikilink">SHIT HAPPENING</a>, <a href="https://ja.wikipedia.org/wiki/The♡Valentine." title="wikilink">The♡Valentine.</a>, <a href="https://ja.wikipedia.org/wiki/SAY_MY_NAME." title="wikilink">SAY MY NAME.</a></li>
 <li>11/02 アメリカ村DROP</li>
 <li>11/03 栄R.A.D w/<a href="https://ja.wikipedia.org/wiki/ENTH" title="wikilink">ENTH</a>, <a href="https://ja.wikipedia.org/wiki/3style" title="wikilink">3style</a>
 </div>

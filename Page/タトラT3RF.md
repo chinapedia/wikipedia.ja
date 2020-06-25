@@ -1,11 +1,11 @@
 > この記事は[タトラT3RF](https://ja.wikipedia.org/wiki/タトラT3RF)から翻訳されています。
 
 
-**タトラT3RF**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した鉄道車両メーカーの[ČKDタトラが製造した](../Page/タトラ_\(自動車\).md "wikilink")[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")。同社が展開していた[タトラT3](../Page/タトラT3.md "wikilink")や[タトラT3R](../Page/タトラT3R.md "wikilink")を基に、車体設計や機器の近代化等の変更が施された形式で、[2000年](../Page/2000年.md "wikilink")に倒産した同社が最後に製造した車両の1つだった\[1\]。
+**タトラT3RF**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した鉄道車両メーカーのが製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")。同社が展開していた[タトラT3](../Page/タトラT3.md "wikilink")や[タトラT3R](../Page/タトラT3R.md "wikilink")を基に、車体設計や機器の近代化等の変更が施された形式で、[2000年](../Page/2000年.md "wikilink")に倒産した同社が最後に製造した車両の1つだった\[1\]。
 
 ## 概要
 
-1990年代以降、[ČKDタトラは長年製造していた](../Page/タトラ_\(自動車\).md "wikilink")[タトラT3](../Page/タトラT3.md "wikilink")の改良型車両である**[タトラT3R](../Page/タトラT3R.md "wikilink")**を開発し、[チェコ](../Page/チェコ.md "wikilink")のや[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")に向けて導入した。これに続き、[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")の各都市へ向けて製造されたのがタトラT3RFである\[2\]\[3\]。
+1990年代以降、は長年製造していた[タトラT3](../Page/タトラT3.md "wikilink")の改良型車両である**[タトラT3R](../Page/タトラT3R.md "wikilink")**を開発し、[チェコ](../Page/チェコ.md "wikilink")のや[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")に向けて導入した。これに続き、[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")の各都市へ向けて製造されたのがタトラT3RFである\[2\]\[3\]。
 
 [インダストリアルデザイナー](../Page/インダストリアルデザイナー.md "wikilink")のが設計した新造形の前面デザインや片運転台の車体、電力消費を抑えた[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")装置など基本的な構造はT3Rに準じていたが、以下の点で差異が存在した。
 

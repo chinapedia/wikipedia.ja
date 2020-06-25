@@ -32,7 +32,7 @@
 
 1.  Lost (feat. Clean Bandit)\[Joel Corry Remix\]
 
-2019年9月13日発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のDJ兼プロデューサー、Joel Corryによるリミックスバージョン。
+2019年9月13日発売。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のDJ兼プロデューサー、によるリミックスバージョン。
 
 ### Lost (feat. Clean Bandit)\[Fresh Mode Remix\]
 

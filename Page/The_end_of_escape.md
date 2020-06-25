@@ -9,11 +9,17 @@
 
 ### 初回限定盤
 
-## メディアでの使用
+## タイアップ
 
-| 曲名                | [タイアップ](../Page/タイアップ.md "wikilink")                                                                                                                                               |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The end of escape | [TBS系列](../Page/TBSテレビ.md "wikilink")[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")B2枠アニメ『[亜人](https://ja.wikipedia.org/wiki/亜人_\(漫画\)#アニメ "wikilink")』第2クール後期オープニングテーマ |
+  - [TBS系列](../Page/TBSテレビ.md "wikilink")[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")B2枠アニメ『[亜人](https://ja.wikipedia.org/wiki/亜人_\(漫画\)#アニメ "wikilink")』第2クール後期オープニングテーマ\[1\]
+
+## カバー
+
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
@@ -25,6 +31,10 @@
   - [fripSide×angela Special Site](http://angela-fripside.com/)
 
   -
-## 脚注
+  - インタビュー記事
 
-[Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:fripSideの楽曲](https://ja.wikipedia.org/wiki/Category:fripSideの楽曲 "wikilink") [Category:angelaの楽曲](https://ja.wikipedia.org/wiki/Category:angelaの楽曲 "wikilink") [Category:八木沼悟志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:八木沼悟志が制作した楽曲 "wikilink") [Category:2016年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2016年のコラボレーション・シングル "wikilink") [Category:アニメイズムの主題歌](https://ja.wikipedia.org/wiki/Category:アニメイズムの主題歌 "wikilink")
+      - [angela×fripSide & fripSide×angela、コラボ記念インタビュー - 音楽ナタリー](https://natalie.mu/music/pp/angela_fripside)
+
+[Category:fripSideの楽曲](https://ja.wikipedia.org/wiki/Category:fripSideの楽曲 "wikilink") [Category:angelaの楽曲](https://ja.wikipedia.org/wiki/Category:angelaの楽曲 "wikilink") [Category:八木沼悟志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:八木沼悟志が制作した楽曲 "wikilink") [Category:NBCユニバーサル・ジャパンの楽曲](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの楽曲 "wikilink") [Category:2016年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2016年のコラボレーション・シングル "wikilink") [Category:アニメイズムの主題歌](https://ja.wikipedia.org/wiki/Category:アニメイズムの主題歌 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+
+1.

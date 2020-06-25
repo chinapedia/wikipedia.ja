@@ -10,6 +10,6 @@
 ## 外部リンク
 
   -
-  - [‎「Procreate」をApp Storeで](https://apps.apple.com/jp/app/procreate/id425073498)
+  - [「Procreate」をApp Storeで](https://apps.apple.com/jp/app/procreate/id425073498)
 
 [Category:2011年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2011年のソフトウェア "wikilink") [Category:画像処理ソフト](https://ja.wikipedia.org/wiki/Category:画像処理ソフト "wikilink") [Category:ペイントソフト](https://ja.wikipedia.org/wiki/Category:ペイントソフト "wikilink") [Category:iOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:iOSのソフトウェア "wikilink")

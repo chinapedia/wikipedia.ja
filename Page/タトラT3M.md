@@ -1,7 +1,7 @@
 > この記事は[タトラT3M](https://ja.wikipedia.org/wiki/タトラT3M)から翻訳されています。
 
 
-**タトラT3M**は、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[プラハ](../Page/プラハ.md "wikilink")に存在した**[タトラ国営会社スミーホフ工場（ČKDタトラ）](../Page/タトラ_\(自動車\).md "wikilink")**が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）の**[タトラT3](../Page/タトラT3.md "wikilink")**のうち、同社によって[サイリスタチョッパ制御](https://ja.wikipedia.org/wiki/サイリスタチョッパ制御 "wikilink")方式の制御装置への交換が実施された車両の形式である。
+**タトラT3M**は、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[プラハ](../Page/プラハ.md "wikilink")に存在した****が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）の**[タトラT3](../Page/タトラT3.md "wikilink")**のうち、同社によって[サイリスタチョッパ制御](https://ja.wikipedia.org/wiki/サイリスタチョッパ制御 "wikilink")方式の制御装置への交換が実施された車両の形式である。
 
 ## 概要・運用
 

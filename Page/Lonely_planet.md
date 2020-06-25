@@ -49,6 +49,7 @@
 | 4月14日 |
 | 5月9日  |
 | 5月24日 |
+| 6月7日  |
 
 ### イベント
 
@@ -58,6 +59,75 @@
 | 2月3日  |
 
 ## ディスコグラフィ
+
+### 楽曲一覧
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発表日</p></th>
+<th><p>曲名 (Title)</p></th>
+<th><p>作詞 (Lyrics)</p></th>
+<th><p>作曲 (Music)</p></th>
+<th><p>編曲 (Arrange)</p></th>
+<th><p>振り付け</p></th>
+<th><p>公式動画リンク</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年11月12日</p></td>
+<td><p>PLANET NINE</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中野たむ" title="wikilink">中野たむ</a></p></td>
+<td></td>
+<td><p>プレお披露目の初ステージで初公開</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月12日</p></td>
+<td><p>TOKYO DUNGEON NIGHT</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中野たむ" title="wikilink">中野たむ</a></p></td>
+<td></td>
+<td><p>プレお披露目の初ステージで初公開</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月12日</p></td>
+<td><p>PREVIOUS STAR</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中野たむ" title="wikilink">中野たむ</a></p></td>
+<td></td>
+<td><p>プレお披露目の初ステージで初公開</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月12日</p></td>
+<td><p>SIGNAL LIGHT</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中野たむ" title="wikilink">中野たむ</a></p></td>
+<td></td>
+<td><p>プレお披露目の初ステージで初公開</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年3月18日</p></td>
+<td><p>WAS LIE</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中野たむ" title="wikilink">中野たむ</a></p></td>
+<td></td>
+<td><p>「都会の寂しい女の子　4夜」で初公開 「WAS LIE」は「わずらい（患い）」と読む</p></td>
+</tr>
+</tbody>
+</table>
 
 ### シングル
 
@@ -75,11 +145,17 @@
 
   - [lonely planet](https://www.lonelyplanet-official.com/) -lonely planetオフィシャルサイト
 
+  -
   -   -
       -
       -
       -
   - [lonely planet](https://www.showroom-live.com/lonely_planet) -lonely planetオフィシャルSHOWROOM
+
+      - [りんちゃん本舗](https://www.showroom-live.com/lonely_rinka) -RinkaオフィシャルSHOWROOM
+      - [Yu-maのお部屋](https://www.showroom-live.com/lonely_yuma) -Yu-maオフィシャルSHOWROOM
+      - [Umiのゆるるーむ](https://www.showroom-live.com/lonely_umi) -UmiオフィシャルSHOWROOM
+      - [Asunaの秘密基地](https://www.showroom-live.com/lonely_asuna) -AsunaオフィシャルSHOWROOM
 
 [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")
 

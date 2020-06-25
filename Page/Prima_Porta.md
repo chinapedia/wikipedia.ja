@@ -17,12 +17,80 @@
 
 ### シングル
 
-|                                 | 発売日          | タイトル                                                                                  | 規格品番       | [オリコン最高位](../Page/オリコンチャート.md "wikilink") |
-| ------------------------------- | ------------ | ------------------------------------------------------------------------------------- | ---------- | ----------------------------------------- |
-| 1st                             | 2019年12月25日  | **[CALL\&GOAL\!](https://ja.wikipedia.org/wiki/CALL&GOAL! "wikilink")【Prima Porta盤】** | XNST-10022 | 59位                                       |
-| **CALL\&GOAL\!【GO GO\!ブロンコス盤】** | XNST-10023   | 57位                                                                                   |            |                                           |
-| 2nd                             | 2020年7月22日予定 | 未定                                                                                    | XNST-10024 | TBA                                       |
-|                                 |              |                                                                                       |            |                                           |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン最高位</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2019年12月25日</p></td>
+<td><p><strong>CALL&amp;GOAL!【Prima Porta盤】</strong></p></td>
+<td><p>XNST-10022</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>CALL&amp;GOAL!</li>
+<li>☆トリルで始まっちゃう！</li>
+<li>朝焼けアプローチ</li>
+<li>CALL&amp;GOAL! (Off Vocal)</li>
+<li>☆トリルで始まっちゃう！ (Off Vocal)</li>
+<li>朝焼けアプローチ (Off Vocal)
+</div>
+</div></li>
+</ol></td>
+<td><p>59位</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>CALL&amp;GOAL!【GO GO!ブロンコス盤】</strong></p></td>
+<td><p>XNST-10023</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>CALL&amp;GOAL! (Yell for SAITAMA BRONCOS ver.)</li>
+<li>GO! BRONCOS GO!</li>
+<li>朝焼けアプローチ</li>
+<li>CALL&amp;GOAL! (Off Vocal)</li>
+<li>GO! BRONCOS GO! (Off Vocal)</li>
+<li>朝焼けアプローチ (Off Vocal)
+</div>
+</div></li>
+</ol></td>
+<td><p>57位</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2020年7月22日予定</p></td>
+<td><p>未定 </p></td>
+<td><p>XNST-10024</p></td>
+<td><p>全3曲 + 各カラオケ収録予定</p></td>
+<td><p>TBA</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### タイアップ曲
 
@@ -38,10 +106,10 @@
 
 原則としてリリースイベントは省略。
 
-| 公演年   | 形態     | タイトル                                          | 公演日・会場                                                                                              |
-| ----- | ------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 2020年 | 1stライブ | **Prima Porta LIVE 2020 “Open The 1st Door”** | 8月8日・9日予定 [浅草公会堂](https://ja.wikipedia.org/wiki/浅草公会堂 "wikilink")（[東京都](../Page/東京都.md "wikilink")） |
-|       |        |                                               |                                                                                                     |
+| 公演年   | 形態     | タイトル                                          | 公演日・会場 |
+| ----- | ------ | --------------------------------------------- | ------ |
+| 2020年 | 1stライブ | **Prima Porta LIVE 2020 “Open The 1st Door”** | 未定     |
+|       |        |                                               |        |
 
 ## 脚注
 

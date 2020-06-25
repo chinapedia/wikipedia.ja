@@ -41,7 +41,7 @@
 
 ### 出典
 
-[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:かつて存在した路面電車車両‎‎](https://ja.wikipedia.org/wiki/Category:かつて存在した路面電車車両‎‎ "wikilink") [Category:1947年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1947年製の鉄道車両 "wikilink")
+[Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ウスチ＝カタフスキー車両製造工場製の鉄道車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:モスクワ市電](https://ja.wikipedia.org/wiki/Category:モスクワ市電 "wikilink") [Category:かつて存在した路面電車車両](https://ja.wikipedia.org/wiki/Category:かつて存在した路面電車車両 "wikilink") [Category:1947年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1947年製の鉄道車両 "wikilink")
 
 1.
 2.

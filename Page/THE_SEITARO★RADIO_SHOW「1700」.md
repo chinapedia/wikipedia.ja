@@ -25,6 +25,7 @@
 
   - 17:00　オープニング
   - 17:03　[NACK5 NEWS](https://ja.wikipedia.org/wiki/NACK5_NEWS "wikilink")（ニュースルームのアナウンサーには任せず大野が自ら担当）
+  - 17:05　todayトピックス
   - 17:12　NACK5 TRAFFIC（パチンコ・スロット 夢らんどグループ提供）
   - 17:15　デイリー★1700（日替わりコーナー）
   - 17:26　NACK5 TRAFFIC（[トヨタ勝又グループ](../Page/トヨタ勝又グループ.md "wikilink")提供）

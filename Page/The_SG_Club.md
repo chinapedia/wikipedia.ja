@@ -1,7 +1,7 @@
 > この記事は[The SG Club](https://ja.wikipedia.org/wiki/The_SG_Club)から翻訳されています。
 
 
-**The SG Club**（エスジー クラブ）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[神南一丁目にある](https://ja.wikipedia.org/wiki/神南#神南一丁目 "wikilink")[バー](../Page/バー_\(酒場\).md "wikilink")。[バーテンダー](../Page/バーテンダー.md "wikilink")の[後閑信吾](https://ja.wikipedia.org/wiki/後閑信吾 "wikilink")が率いるSG Groupによって運営され、[上海で営業する](../Page/上海市.md "wikilink")「Speak Low」「Sober Company」に続き展開するものである。2020年の[Asia's 50 Best Bars](https://ja.wikipedia.org/wiki/Asia's_50_Best_Bars "wikilink") 9位、2019年の[The World's 50 Best Bars](https://ja.wikipedia.org/wiki/The_World's_50_Best_Bars "wikilink") 24位にランクインしている。
+**The SG Club**（エスジー クラブ）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")の[神南一丁目にある](https://ja.wikipedia.org/wiki/神南#神南一丁目 "wikilink")[バー](../Page/バー_\(酒場\).md "wikilink")。[バーテンダー](../Page/バーテンダー.md "wikilink")の[後閑信吾](https://ja.wikipedia.org/wiki/後閑信吾 "wikilink")が率いるSG Groupによって運営され、[上海で営業する](../Page/上海市.md "wikilink")「Speak Low」「Sober Company」に続き展開するものである。2020年の[Asia's 50 Best Bars](../Page/Asia's_50_Best_Bars.md "wikilink") 9位、2019年の[The World's 50 Best Bars](../Page/The_World's_50_Best_Bars.md "wikilink") 24位にランクインしている。
 
 ## 概要
 
@@ -48,7 +48,7 @@
 
 ### 2019年5月
 
-ウィリアム・リード・ビジネス・メディアが主催する「[ASIA'S 50 BEST BARS](https://ja.wikipedia.org/wiki/Asia's_50_Best_Bars "wikilink") 2019」にて13位を受賞\[3\]。
+ウィリアム・リード・ビジネス・メディアが主催する「[ASIA'S 50 BEST BARS](../Page/Asia's_50_Best_Bars.md "wikilink") 2019」にて13位を受賞\[3\]。
 
 同アワードにおいて、後閑は「ALTOS BARTENDERS' BARTENDER」を受賞\[4\]。
 
@@ -58,11 +58,11 @@
 
 ### 2019年10月
 
-ウィリアム・リード・ビジネス・メディアが主催する「[THE WORLD'S 50 BEST BARS](https://ja.wikipedia.org/wiki/The_World's_50_Best_Bars "wikilink") 2019」にて24位を受賞\[6\]。
+ウィリアム・リード・ビジネス・メディアが主催する「[THE WORLD'S 50 BEST BARS](../Page/The_World's_50_Best_Bars.md "wikilink") 2019」にて24位を受賞\[6\]。
 
 ### 2020年5月
 
-「[ASIA'S 50 BEST BARS](https://ja.wikipedia.org/wiki/Asia's_50_Best_Bars "wikilink") 2020」にて9位を受賞\[7\]。
+「[ASIA'S 50 BEST BARS](../Page/Asia's_50_Best_Bars.md "wikilink") 2020」にて9位を受賞\[7\]。
 
 また、日本国内最高位にランクしたバーを称える賞「The Best Bar in Japan, sponsored by [Nikka Whisky](https://ja.wikipedia.org/wiki/ニッカウヰスキー "wikilink")」が贈られた\[8\]。
 

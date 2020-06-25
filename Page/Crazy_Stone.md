@@ -41,7 +41,7 @@
   - [Crazy Stone website](http://www.remi-coulom.fr/CrazyStone/)
   - [Remi-Coulom GitHub](https://github.com/Remi-Coulom) - [GitHub](https://ja.wikipedia.org/wiki/GitHub "wikilink")
 
-[Category:コンピュータ囲碁](https://ja.wikipedia.org/wiki/Category:コンピュータ囲碁 "wikilink") [Category:モンテカルロ法](https://ja.wikipedia.org/wiki/Category:モンテカルロ法 "wikilink")
+[Category:囲碁ソフトウエア](https://ja.wikipedia.org/wiki/Category:囲碁ソフトウエア "wikilink") [Category:モンテカルロ法](https://ja.wikipedia.org/wiki/Category:モンテカルロ法 "wikilink")
 
 1.  [Crazy Stone's profile](http://senseis.xmp.net/?CrazyStone). [Sensei's Library](https://ja.wikipedia.org/wiki/Sensei's_Library "wikilink"). Retrieved 2 February 2010
 2.  [Crazy Stone's ICGA record](http://www.grappa.univ-lille3.fr/icga/program.php?id=1). [International Computer Games Association](https://ja.wikipedia.org/wiki/International_Computer_Games_Association "wikilink"). Retrieved 2 February 2010

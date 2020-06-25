@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")のデビューシングル「[バスルームから愛をこめて](https://ja.wikipedia.org/wiki/バスルームから愛をこめて "wikilink")」から、活動休止前の[1988年](../Page/1988年.md "wikilink")のシングル「[微笑みのその前で](https://ja.wikipedia.org/wiki/微笑みのその前で "wikilink")」までのシングルA面曲を収録した[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。12インチシングルとして発売された「[FLIP FLOP & FLY](https://ja.wikipedia.org/wiki/FLIP_FLOP_&_FLY "wikilink")」\[1\]と「[REINCARNATION](https://ja.wikipedia.org/wiki/REINCARNATION_\(山下久美子の曲\) "wikilink")」\[2\]は未収録となっている。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")のデビューシングル「[バスルームから愛をこめて](https://ja.wikipedia.org/wiki/バスルームから愛をこめて "wikilink")」から、活動休止前の[1988年](../Page/1988年.md "wikilink")のシングル「[微笑みのその前で](../Page/微笑みのその前で.md "wikilink")」までのシングルA面曲を収録した[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。12インチシングルとして発売された「[FLIP FLOP & FLY](https://ja.wikipedia.org/wiki/FLIP_FLOP_&_FLY "wikilink")」\[1\]と「[REINCARNATION](https://ja.wikipedia.org/wiki/REINCARNATION_\(山下久美子の曲\) "wikilink")」\[2\]は未収録となっている。
 
-収録曲の「[とりあえずニューヨーク](https://ja.wikipedia.org/wiki/とりあえずニューヨーク "wikilink")」「[赤道小町ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」「[GIRL-FRIEND](https://ja.wikipedia.org/wiki/GIRL-FRIEND "wikilink")」「[BOY-FRIEND](https://ja.wikipedia.org/wiki/BOY-FRIEND "wikilink")」の4曲は、初[CD化された](../Page/コンパクトディスク.md "wikilink")。
+収録曲の「[とりあえずニューヨーク](https://ja.wikipedia.org/wiki/とりあえずニューヨーク "wikilink")」「[赤道小町ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」「[GIRL-FRIEND](../Page/GIRL-FRIEND.md "wikilink")」「[BOY-FRIEND](../Page/BOY-FRIEND.md "wikilink")」の4曲は、初[CD化された](../Page/コンパクトディスク.md "wikilink")。
 
 ## 収録曲
 

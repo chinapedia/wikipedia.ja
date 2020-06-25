@@ -7,6 +7,7 @@
 
   - 前作、「Find MySelf\!」から約5ヶ月ぶりとなるシングル。また、前作同様「Type A」「Type B」の2形態でリリースされる。
   - DOORはテレビ東京系「[ゾイドワイルドZERO](https://ja.wikipedia.org/wiki/ゾイドワイルド#テレビアニメ "wikilink")」の2期エンディングテーマとして起用され、自身初のタイアップとなった。
+  - 5月4日付オリコンデイリーランキングで2位、5月18日付オリコン週間ランキングで6位を記録し、前作を上回る順位を獲得した。
 
 ## 収録曲
 
@@ -16,7 +17,11 @@
       -
         作詞：Junxix./17/Mr.Routine/Keisuke Koyama、作曲：Junxix.、編曲：Keisuke Koyama
 2.  **SMiLE**
+      -
+        作詞作曲 : Junxix.、編曲 : かずぼーい.
 3.  **Rock with me**
+      -
+        作詞 : Junxix.、作曲 : 17/GEIST/Goku、編曲 : GEIST
 4.  **DOOR（instrumental）**
 
 ### B Type
@@ -24,6 +29,8 @@
 1.  **DOOR**
 2.  **Rock with me**
 3.  **college、**
+      -
+        作詞作曲 : Junxix.、編曲 : かずぼーい.
 4.  **DOOR（instrumental）**
 
 ## 脚注

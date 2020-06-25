@@ -66,10 +66,11 @@
 17. **アボイドノート**
       -
         大森がベストアルバムのために書き下ろした新曲。
+        2020年[5月27日](../Page/5月27日.md "wikilink")から先行配信が行われた。
 18. **PRESENT (Japanese ver.)**
       -
         [2020年](../Page/2020年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")にリリースされた配信限定シングル「PRESENT (English ver.)」の日本語版。
-        [2020年](../Page/2020年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")午前0時より[Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")、[LINE MUSIC](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")より先行配信され、同日MVも公開された。
+        [2020年](../Page/2020年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")から先行配信がスタートされ、同日にMVも公開された。
 19. **Theater**
       -
         大森がベストアルバムのために書き下ろした新曲。
@@ -82,7 +83,8 @@
 
 ## 外部リンク
 
-  - [Mrs. GREEN APPLE 『5』 スペシャルサイト](https://sp.universal-music.co.jp/mrsgreenapple/bestalbum5/) - Mrs. GREEN APPLE公式サイト
+  - [Mrs. GREEN APPLE](https://mrsgreenapple.com/) ‐ 公式サイト
+  - [Mrs. GREEN APPLE 『5』 スペシャルサイト](https://sp.universal-music.co.jp/mrsgreenapple/bestalbum5/) - 「5」公式サイト
 
 [Category:2020年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2020年のベスト・アルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink") [Category:Mrs._GREEN_APPLEのアルバム](https://ja.wikipedia.org/wiki/Category:Mrs._GREEN_APPLEのアルバム "wikilink")
 

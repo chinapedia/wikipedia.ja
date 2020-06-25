@@ -40,7 +40,7 @@
   - 2015年 『壊れた心』 監督・脚本/ケヴィン・デ・ラ・クルス 出演/[浅野忠信](../Page/浅野忠信.md "wikilink") ・ ナタリア・アセベド
   - 2017年 『[四月の永い夢](https://ja.wikipedia.org/wiki/四月の永い夢 "wikilink")』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[朝倉あき](../Page/朝倉あき.md "wikilink")・[三浦貴大](https://ja.wikipedia.org/wiki/三浦貴大 "wikilink")
   - 2019年 『[わたしは光をにぎっている](https://ja.wikipedia.org/wiki/わたしは光をにぎっている "wikilink")』 監督・脚本/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 出演/[松本穂香](https://ja.wikipedia.org/wiki/松本穂香 "wikilink")・[渡辺大知](https://ja.wikipedia.org/wiki/渡辺大知 "wikilink")
-  - 2020年 『[オルジャスの白い馬](https://ja.wikipedia.org/wiki/オルジャスの白い馬 "wikilink")』 監督・脚本/ 竹葉リサ ・ エルラン・ヌルムハンベトフ 出演/[森山未來](../Page/森山未來.md "wikilink") ・ サマル・イェスリャーモワ
+  - 2020年 『[オルジャスの白い馬](https://ja.wikipedia.org/wiki/オルジャスの白い馬 "wikilink")』 監督・脚本/ [竹葉リサ](../Page/竹葉リサ.md "wikilink") ・ エルラン・ヌルムハンベトフ 出演/[森山未來](../Page/森山未來.md "wikilink") ・ サマル・イェスリャーモワ
   - 2020年 『[静かな雨](https://ja.wikipedia.org/wiki/静かな雨_\(小説\) "wikilink")』 監督/[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 脚本/梅原英司・[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink") 原作/[宮下奈都](../Page/宮下奈都.md "wikilink") 出演/[仲野太賀](../Page/仲野太賀.md "wikilink")・[衛藤美彩](https://ja.wikipedia.org/wiki/衛藤美彩 "wikilink")
 
 ## 脚注
@@ -50,6 +50,6 @@
   -
   -
   -
-[Category:町田市の企業](https://ja.wikipedia.org/wiki/Category:町田市の企業 "wikilink") [Category:2015年設立の企業](https://ja.wikipedia.org/wiki/Category:2015年設立の企業 "wikilink")
+[Category:町田市の企業](https://ja.wikipedia.org/wiki/Category:町田市の企業 "wikilink") [Category:2015年設立の企業](https://ja.wikipedia.org/wiki/Category:2015年設立の企業 "wikilink") [Category:日本の映画制作会社](https://ja.wikipedia.org/wiki/Category:日本の映画制作会社 "wikilink")
 
 1.

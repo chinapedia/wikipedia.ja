@@ -9,7 +9,7 @@
 
 ジャケット写真はピクセルアート界のレジェンド「[eBoy](https://ja.wikipedia.org/wiki/eBoy "wikilink")」が手がけた創造の街「YUZUTOWN」のピクセルアートで、[渋谷](../Page/渋谷.md "wikilink")や[横浜中華街](../Page/横浜中華街.md "wikilink")、[みなとみらい](../Page/みなとみらい.md "wikilink")などの実在する街をモチーフに、ユーモラスなキャラクターや造形物が1コマ単位で設置され、アルバムのコンセプトが凝縮されているものとなっている\[3\]。2019年12月31日には、eBoyが手がけたChip Tune的なインストゥルメンタルサウンドと壮大な世界観のピクセルアートによるティザー映像が公開された。
 
-今作の発売を記念して、3月4日と3月9日に開催予定だったプレミアムライブ「YUZU SPECIAL LIVE YUZUTOWN」と今作を引っさげて3月28日から予定されていたアリーナツアー「YUZU ARENA TOUR 2020YUZUTOWN」はいずれも[新型コロナウイルス感染拡大の影響で延期となった](../Page/2019新型コロナウイルス.md "wikilink")\[4\]\[5\]。
+今作の発売を記念して、3月4日と3月9日に開催予定だったプレミアムライブ「YUZU SPECIAL LIVE YUZUTOWN」と今作を引っさげて3月28日から予定されていたアリーナツアー「YUZU ARENA TOUR 2020 YUZUTOWN」はいずれも[新型コロナウイルス感染拡大の影響で延期となった](../Page/2019新型コロナウイルス.md "wikilink")\[4\]\[5\]。
 
 また、今作に「[公園通り](https://ja.wikipedia.org/wiki/公園通り_\(曲\) "wikilink")」が収録されていることから、[渋谷PARCO](https://ja.wikipedia.org/wiki/渋谷PARCO "wikilink")とコラボレーションしたPOP-UPショップが2月29日から3月8日までの期間限定でオープンした。
 

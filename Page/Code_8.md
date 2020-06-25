@@ -46,7 +46,7 @@
 演 - ジェフ・シナサック
 
 **パーク
-**演 - [カン・ソン](https://ja.wikipedia.org/wiki/カン・ソン "wikilink")
+**演 - [サン・カン](../Page/サン・カン.md "wikilink")
 
 無能力者の警官。
 

@@ -41,7 +41,7 @@
 
 [Category:オランダのDJ](https://ja.wikipedia.org/wiki/Category:オランダのDJ "wikilink")
 
-1.   MNN|url=[https://music-newsnetwork.com/?p=13154,%20https://music-newsnetwork.com/?p=13154|website=music-newsnetwork.com|accessdate=2020-05-07|language=ja](https://music-newsnetwork.com/?p=13154,%20https://music-newsnetwork.com/?p=13154%7Cwebsite=music-newsnetwork.com%7Caccessdate=2020-05-07%7Clanguage=ja)}}
+1.   MNN|url=[https://music-newsnetwork.com/?p=13154|website=music-newsnetwork.com|accessdate=2020-05-07|language=ja](https://music-newsnetwork.com/?p=13154%7Cwebsite=music-newsnetwork.com%7Caccessdate=2020-05-07%7Clanguage=ja)}}
 2.
 3.
 4.

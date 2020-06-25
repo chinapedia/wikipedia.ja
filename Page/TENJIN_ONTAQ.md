@@ -90,7 +90,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/メシアと人人" title="wikilink">メシアと人人</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THA_ALBATROSS" title="wikilink">THA ALBATROSS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/EVERLONG" title="wikilink">EVERLONG</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SHIT_HAPPENING" title="wikilink">SHIT HAPPENING</a></li>
+<li><a href="../Page/SHIT_HAPPENING.md" title="wikilink">SHIT HAPPENING</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ジョゼ_(バンド)" title="wikilink">ジョゼ</a></li>
@@ -420,7 +420,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/The_Urge_out_of_Heroes" title="wikilink">The Urge out of Heroes</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/39degrees" title="wikilink">39degrees</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
+<li><a href="../Page/ドラマストア.md" title="wikilink">ドラマストア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/パノラマパナマタウン" title="wikilink">パノラマパナマタウン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/グミ_(バンド)" title="wikilink">グミ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Laxity" title="wikilink">Laxity</a></li>
@@ -625,7 +625,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/THE_BOYS&amp;GIRLS" title="wikilink">THE BOYS&amp;GIRLS</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/RED_in_BLUE" title="wikilink">RED in BLUE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/two_step_glory" title="wikilink">two step glory</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
+<li><a href="../Page/ドラマストア.md" title="wikilink">ドラマストア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バンドハラスメント" title="wikilink">バンドハラスメント</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/PRAISE" title="wikilink">PRAISE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/FOOL_THE_PUBLIC" title="wikilink">FOOL THE PUBLIC</a></li>
@@ -836,7 +836,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/め組_(バンド)" title="wikilink">め組</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/嘘とカメレオン" title="wikilink">嘘とカメレオン</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ココロオークション" title="wikilink">ココロオークション</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
+<li><a href="../Page/ドラマストア.md" title="wikilink">ドラマストア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Wienners" title="wikilink">Wienners</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SHIMA" title="wikilink">SHIMA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/KNOCK_OUT_MONKEY" title="wikilink">KNOCK OUT MONKEY</a></li>
@@ -987,7 +987,7 @@
   - [超能力戦士ドリアン](https://ja.wikipedia.org/wiki/超能力戦士ドリアン "wikilink")
   - [This is LAST](https://ja.wikipedia.org/wiki/This_is_LAST "wikilink")
   - [DURAN](https://ja.wikipedia.org/wiki/DURAN "wikilink")
-  - [ドラマストア](https://ja.wikipedia.org/wiki/ドラマストア "wikilink")
+  - [ドラマストア](../Page/ドラマストア.md "wikilink")
   - [Newspeak](https://ja.wikipedia.org/wiki/Newspeak "wikilink")
   - [灰色ロジック](https://ja.wikipedia.org/wiki/灰色ロジック "wikilink")
   - [林青空](https://ja.wikipedia.org/wiki/林青空 "wikilink")

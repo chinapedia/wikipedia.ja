@@ -1,7 +1,7 @@
 > この記事は[SLOTHREAT](https://ja.wikipedia.org/wiki/SLOTHREAT)から翻訳されています。
 
 
-**SLOTHREAT**は、克哉(Gt/Misanthropist/ex.CodeRebirth)を中心に、孝哉(Gt/ex. Sailing Before The Wind)、瀬希(Ba)、KAZ(Vo/ex. LAST CALIX)の4人組からなる日本のハイブリッドロックバンド。
+**SLOTHREAT**は、克哉(Gt/Misanthropist)を中心に、KAZ(Vo)、孝哉(Gt)、瀬希(Ba)、SHINYA(Dr)の5人組からなる日本のハイブリッドロックバンド。
 
 ## 概要
 
@@ -17,12 +17,15 @@
 
 2019年11月 猫曼珠とのsplit CD「人工灯のヴァルハラ」を会場限定発売。SLOTHREATからは「軀謳」を収録。
 
+2020年5月 SHINYA(Dr)が正式加入。
+
 ## メンバー
 
   - KAZ(Vo)
   - 克哉(Gt)：ソロプロジェクト「Misanthropist」としても活動。孝哉の双子の兄。
   - 孝哉(Gt)：克哉の双子の弟。
   - 瀬希(Ba)
+  - SHINYA(Dr)：2019年7月よりサポートドラムを経て、2020年5月に正式加入。
 
 ## ディスコグラフィ
 

@@ -11,6 +11,8 @@
 
 2019年には、映画ライターの表記ではなく[シネマダイバー](https://ja.wikipedia.org/wiki/シネマダイバー "wikilink")の造語をつくり、多くの文筆家が連載をしている。
 
+2020年に出町光識が編集長を辞任し、後継者として[詩人](../Page/詩人.md "wikilink")の[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")を就任。
+
 ## 沿革
 
 2016年12月、共同運営者である出町光識と高橋正樹によってインターネットにて創刊。
@@ -21,8 +23,6 @@
 
 同年4月、[日本映画大学](https://ja.wikipedia.org/wiki/日本映画大学 "wikilink")の田辺秋守教授と[細野辰興](../Page/細野辰興.md "wikilink")教授（映画監督）、2名による記事連載を開始。
 
-2020年6月、「[FMたちかわ](https://ja.wikipedia.org/wiki/FMたちかわ "wikilink")」のパーソナリティ[藤田みさ](https://ja.wikipedia.org/wiki/藤田みさ "wikilink")のラジオ番組で映画紹介コーナー開始予定。
-
 ## シネマダイバー（執筆者）
 
 [大窪晶](https://ja.wikipedia.org/wiki/大窪晶 "wikilink")：インタビュー取材担当・主なインタビューイは、[三上博史](../Page/三上博史.md "wikilink")、[柄本明](../Page/柄本明.md "wikilink")、[榎木孝明](https://ja.wikipedia.org/wiki/榎木孝明 "wikilink")、[イッセー尾形](../Page/イッセー尾形.md "wikilink")。
@@ -31,7 +31,7 @@
 
 桂伸也：主に担当したインタビュー取材は、[アーロン・クォック](https://ja.wikipedia.org/wiki/アーロン・クォック "wikilink")、[尾上松也](https://ja.wikipedia.org/wiki/尾上松也 "wikilink")、[工藤阿須加](https://ja.wikipedia.org/wiki/工藤阿須加 "wikilink")、[松重豊](../Page/松重豊.md "wikilink")。
 
-[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")（副編集長）主に担当したインタビュー取材は、[今泉力哉](https://ja.wikipedia.org/wiki/今泉力哉 "wikilink")、[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink")、[森達也](https://ja.wikipedia.org/wiki/森達也 "wikilink")、[深田晃司](https://ja.wikipedia.org/wiki/深田晃司 "wikilink")。
+[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")（編集長）主に担当したインタビュー取材は、[今泉力哉](https://ja.wikipedia.org/wiki/今泉力哉 "wikilink")、[中川龍太郎](https://ja.wikipedia.org/wiki/中川龍太郎 "wikilink")、[森達也](https://ja.wikipedia.org/wiki/森達也 "wikilink")、[深田晃司](https://ja.wikipedia.org/wiki/深田晃司 "wikilink")。
 
 金田まこちゃ：連載コラム「サスペンスの神様の鼓動」2018年9月25日〜現在。
 
@@ -43,7 +43,7 @@
 
 田辺秋守：講義【映画と哲学】2019年2月10日〜現在。
 
-[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")（編集長）主に担当したインタビュー取材は、[アミール・ナデリ](https://ja.wikipedia.org/wiki/アミール・ナデリ "wikilink")、[オリヴィエ・アサイヤス](https://ja.wikipedia.org/wiki/オリヴィエ・アサイヤス "wikilink")、[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[白石和彌](https://ja.wikipedia.org/wiki/白石和彌 "wikilink")。
+[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")（前編集長）主に担当したインタビュー取材は、[アミール・ナデリ](https://ja.wikipedia.org/wiki/アミール・ナデリ "wikilink")、[オリヴィエ・アサイヤス](https://ja.wikipedia.org/wiki/オリヴィエ・アサイヤス "wikilink")、[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")、[白石和彌](https://ja.wikipedia.org/wiki/白石和彌 "wikilink")。
 
 奈香じゅん：連載コラム「海外ドラマ絞りたて」2019年7月30日〜現在。
 
@@ -67,19 +67,19 @@
 
 ## 主な雑誌・パンフレット・ネット・映像関連
 
-・劇場用パンフレット『[老人ファーム](https://ja.wikipedia.org/wiki/老人ファーム "wikilink")』シネマダイバー 金田まこちゃ/[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の映画レビュー掲載（2019年4月13日劇場公開）
+・劇場用パンフレット『[老人ファーム](https://ja.wikipedia.org/wiki/老人ファーム "wikilink")』 金田まこちゃ/[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の映画レビュー掲載（2019年4月13日劇場公開）
 
-・劇場用パンフレット『[フェイクプラスティックプラネット](https://ja.wikipedia.org/wiki/フェイクプラスティックプラネット "wikilink")』編集長 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の映画レビュー掲載（2020年2月7日劇場公開）
+・劇場用パンフレット『[フェイクプラスティックプラネット](https://ja.wikipedia.org/wiki/フェイクプラスティックプラネット "wikilink")』 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の映画レビュー掲載（2020年2月7日劇場公開）
 
-・劇場用パンフレット『[凱里ブルース](https://ja.wikipedia.org/wiki/凱里ブルース "wikilink")』編集長 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の[ビー・ガン](https://ja.wikipedia.org/wiki/ビー・ガン "wikilink")監督独占インタビュー掲載（2020年劇場公開）
+・劇場用パンフレット『[凱里ブルース](https://ja.wikipedia.org/wiki/凱里ブルース "wikilink")』 [出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")の[ビー・ガン](https://ja.wikipedia.org/wiki/ビー・ガン "wikilink")監督独占インタビュー掲載（2020年劇場公開）
 
-・劇場用パンフレット『[おろかもの](https://ja.wikipedia.org/wiki/おろかもの "wikilink")』責任編集：副編集長 [河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")よる芳賀俊監督の独占インタビュー掲載（2020年劇場公開）
+・劇場用パンフレット『[おろかもの](https://ja.wikipedia.org/wiki/おろかもの "wikilink")』責任編集： [河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")よる芳賀俊監督の独占インタビュー掲載（2020年劇場公開）
 
 ・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」Cinemarche広告：副編集長[河合のび](https://ja.wikipedia.org/wiki/河合のび "wikilink")の詩を掲載
 
-・ピーター・ジャクソン作品『彼らは生きていた』劇場公開応援コメント掲載：シネマダイバー 松平光冬
+・ピーター・ジャクソン作品『彼らは生きていた』劇場公開応援コメント掲載：松平光冬
 
-・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」2019年ベスト&ワースト選出：編集長[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")
+・「[映画芸術](https://ja.wikipedia.org/wiki/映画芸術 "wikilink")」2019年ベスト&ワースト選出：[出町光識](https://ja.wikipedia.org/wiki/出町光識 "wikilink")
 
 ## 外部リンク
 

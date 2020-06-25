@@ -1,7 +1,7 @@
 > この記事は[DeepL翻訳](https://ja.wikipedia.org/wiki/DeepL翻訳)から翻訳されています。
 
 
-**DeepL翻訳**（ディープルほんやく、）は、2017年8月に開始された[機械翻訳](../Page/機械翻訳.md "wikilink")サービスである\[1\]。[Google 翻訳よりも](https://ja.wikipedia.org/wiki/Google_翻訳 "wikilink")「精度が高い」と主張する肯定的な報道があるが\[2\]、自身のblind studiesにて裏付けているものであり\[3\]、科学的に2つのサービスを比較したものはない\[4\]。DeepL翻訳は、 [英語](../Page/英語.md "wikilink")や[日本語](../Page/日本語.md "wikilink")をはじめ、複数の言語\[5\]間で翻訳することが出来る。
+**DeepL翻訳**（ディープエルほんやく、）は、2017年8月に開始された[機械翻訳](../Page/機械翻訳.md "wikilink")サービスである\[1\]。[Google 翻訳よりも](https://ja.wikipedia.org/wiki/Google_翻訳 "wikilink")「精度が高い」と主張する肯定的な報道があるが\[2\]、自身のblind studiesにて裏付けているものであり\[3\]、科学的に2つのサービスを比較したものはない\[4\]。DeepL翻訳は、 [英語](../Page/英語.md "wikilink")や[日本語](../Page/日本語.md "wikilink")をはじめ、複数の言語\[5\]間で翻訳することが出来る。
 
 2020年3月19日に日本語と[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")の翻訳機能が加わった。なお、日本語や中国語は、英語を介しての二次翻訳である。
 

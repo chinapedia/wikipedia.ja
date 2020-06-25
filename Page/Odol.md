@@ -53,26 +53,27 @@
 
 **2018年**
 
-  - 3月14日、配信限定シングル「時間と距離と僕らの旅」をリリース\[20\]。
+  - 3月14日、シングル「時間と距離と僕らの旅」を配信リリース\[20\]。
     またこの日、[UK.PROJECT](https://ja.wikipedia.org/wiki/UK.PROJECT "wikilink")と[HIP LAND MUSIC両社による共同マネジメント契約を結んだことを発表した](../Page/ヒップランドミュージック.md "wikilink")\[21\]。
-  - 5月30日、配信限定シングル「大人になって」をリリース。
+  - 5月30日、シングル「大人になって」を配信リリース。
   - 7月25日、タワーレコード限定シングル「four eyes」リリース\[22\]。
   - 7月29日、[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")’18 RED MARQUEEに出演\[23\]。
   - 10月24日、3rdアルバム『**往来するもの**』をリリース。これに伴い全国3箇所で『odol TOUR 2018 "往来"』を開催\[24\]。
 
 **2019年**
 
-  - 6月19日、配信限定シングル「眺め / POSE」をリリース\[25\]。
+  - 6月19日、シングル「眺め / POSE」を配信リリース\[25\]。
   - 7月19日、渋谷WWWにて、自主企画『O/g』10回目を記念してワンマンライブ『O/g-10』を開催。
   - 9月25日、"**Rework Series**"の第1弾として「狭い部屋 (Rearrange)」を配信リリース\[26\]。
   - 9月30日、早川知輝が脱退しオリジナルメンバー5人体制となる\[27\]。
-  - 11月13日、配信限定シングル「身体」をリリース。
+  - 11月13日、シングル「身体」を配信リリース。
   - 12月19日、12月22日、大阪・FANJ twice、東京・WWWにて、ワンマンライブ『odol ONE-MAN LIVE 2019 “individuals”』開催。
 
 **2020年**
 
   - 2月26日、"**Rework Series**"の第2弾として「虹の端 (Rearrange)」を配信リリース\[28\]。
   - 4月1日、"**Rework Series**"の第3弾として「人の海で (Rearrange)」を配信リリース。
+  - 6月24日、EP『**WEFT**』を配信リリース\[29\]。
 
 ## ディスコグラフィー
 
@@ -210,6 +211,27 @@
 <li>またあした</li>
 <li>その向こう側</li>
 <li>虹の端</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UK.PROJECT" title="wikilink">UKPM</a> / <a href="../Page/ヒップランドミュージック.md" title="wikilink">HIP LAND MUSIC</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年6月24日</p></td>
+<td><p><strong>WEFT</strong></p></td>
+<td><p>UKCD-1191（配信限定）</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>小さなことをひとつ</li>
+<li>かたちのないもの</li>
+<li>瞬間</li>
 </ol></td>
 </tr>
 <tr class="odd">
@@ -416,18 +438,22 @@
   - ECHOLL / Rayons『[サヨナラまでの30分](https://ja.wikipedia.org/wiki/サヨナラまでの30分 "wikilink")』（[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")、2020年1月22日発売）
       - 「**瞬間 (sayonara ver.)**」
           - ミゾベが作詞、森山が作曲、odolとして編曲で参加。
+        <!-- end list -->
+          -
+            2020年6月24日リリースのEP『**WEFT**』にオリジナルバージョンを収録。
   - [FLOWER FLOWER](https://ja.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")『[ターゲット](../Page/ターゲット_\(FLOWER_FLOWERのアルバム\).md "wikilink")』（[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")、2020年3月25日発売）
       - 「**熱いアイツ feat.ミゾベリョウ（odol）**」、「**ふたり feat.ミゾベリョウ（odol）**」
           - ミゾベが歌唱で参加。
 
 ## タイアップ
 
-| 起用年   | 作品名          | タイアップ                                                                                                           |
-| ----- | ------------ | --------------------------------------------------------------------------------------------------------------- |
-| 2015年 | **生活**       | [石川テレビ音楽情報番組](../Page/石川テレビ放送.md "wikilink")「[N-18 凸](https://ja.wikipedia.org/wiki/N-18_凸 "wikilink")」5月エンディング |
-| 2019年 | **身体**       | [アース製薬](../Page/アース製薬.md "wikilink")『温泡 本物の素材感編』テレビCM                                                           |
-| 2020年 | **かたちのないもの** | [UCC](../Page/UCC上島珈琲.md "wikilink") BLACK無糖 ウェブCM                                                              |
-|       |              |                                                                                                                 |
+| 起用年           | 作品名                                                                        | タイアップ                                                                                                           |
+| ------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 2015年         | **生活**                                                                     | [石川テレビ音楽情報番組](../Page/石川テレビ放送.md "wikilink")「[N-18 凸](https://ja.wikipedia.org/wiki/N-18_凸 "wikilink")」5月エンディング |
+| 2019年         | **身体**                                                                     | [アース製薬](../Page/アース製薬.md "wikilink")『温泡 本物の素材感編』テレビCM                                                           |
+| 2020年         | **かたちのないもの**                                                               | [UCC](../Page/UCC上島珈琲.md "wikilink") BLACK無糖 ウェブCM                                                              |
+| **小さなことをひとつ** | [radiko](https://ja.wikipedia.org/wiki/radiko "wikilink") ブランドムービーオリジナルソング |                                                                                                                 |
+|               |                                                                            |                                                                                                                 |
 
 ## ミュージックビデオ
 
@@ -555,3 +581,4 @@
 26.
 27.
 28.
+29.

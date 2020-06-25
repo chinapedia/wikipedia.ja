@@ -23,7 +23,8 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/イ・ハンギョル" title="wikilink">イ・ハンギョル</a></strong>(Lee Hangyul、이한결、李翰潔)</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/イ・ハンギョル" title="wikilink">イ・ハンギョル</a></strong> (Lee Hangyul、이한결、李翰潔)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Micheal_Lee_(Hangyul)_at_Seoul_Fashion_Week_SS_2020_02.png" title="wikilink">中央</a></p></td>
 <td style="text-align: left;"><ul>
 <li>生年月日：</li>
 <li>出身： <a href="../Page/仁川広域市.md" title="wikilink">仁川広域市</a></li>
@@ -39,11 +40,12 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>ナム・ドヒョン</strong>(Nam Dohyon、남도현、南到賢)</p></td>
+<td><p><strong>ナム・ドヒョン</strong> (Nam Dohyon、남도현、南到賢)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:200207_남도현_01.png" title="wikilink">中央</a></p></td>
 <td style="text-align: left;"><ul>
 <li>生年月日：</li>
 <li>出身： <a href="../Page/京畿道.md" title="wikilink">京畿道</a></li>
-<li>学歴：<a href="https://ja.wikipedia.org/wiki/セント・メリーズ・インターナショナル・スクール" title="wikilink">セント・メリーズ・インターナショナル・スクール</a>中等部 →ソウル対峙中学校（卒業）</li>
+<li>学歴：<a href="https://ja.wikipedia.org/wiki/セント・メリーズ・インターナショナル・スクール" title="wikilink">セント・メリーズ・インターナショナル・スクール</a>中等部 →ソウル対峙中学校（卒業）→<a href="https://ja.wikipedia.org/wiki/翰林演芸芸術高等学校" title="wikilink">翰林演芸芸術高等学校</a></li>
 <li>血液型：O</li>
 <li>身長：183cm</li>
 <li>体重：62kg</li>
@@ -177,8 +179,6 @@
   -
   -
   -
-
-
 [Category:韓国のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:韓国のボーイ・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
 
 1.

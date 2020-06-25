@@ -54,7 +54,7 @@
 ## 外部リンク
 
   -
-[Category:スマートフォン](https://ja.wikipedia.org/wiki/Category:スマートフォン "wikilink") [Category:Android端末](https://ja.wikipedia.org/wiki/Category:Android端末 "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:国際ローミング対応機種](https://ja.wikipedia.org/wiki/Category:国際ローミング対応機種 "wikilink") [Category:防塵機種](https://ja.wikipedia.org/wiki/Category:防塵機種 "wikilink")
+[Category:スマートフォン](https://ja.wikipedia.org/wiki/Category:スマートフォン "wikilink") [Category:Android端末](https://ja.wikipedia.org/wiki/Category:Android端末 "wikilink") [Category:携帯電話_(楽天モバイル)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(楽天モバイル\) "wikilink") [Category:国際ローミング対応機種](https://ja.wikipedia.org/wiki/Category:国際ローミング対応機種 "wikilink") [Category:防塵機種](https://ja.wikipedia.org/wiki/Category:防塵機種 "wikilink")
 
 1.
 2.

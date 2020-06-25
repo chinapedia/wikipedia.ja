@@ -262,6 +262,8 @@ kooouya
 
 また、会員限定のコンテンツとして、ダンスビデオの未公開シーンやLIVEの裏側を撮影した動画、メンバーによるブログリレーや毎晩22時の生配信、ダンス初心者でも楽しめるリズムトレーニングを収録した『SHOSHINSHA』等が設けられている。
 
+## 脚注
+
 ## 外部リンク
 
   - [GANMI OFFICIAL WEB SITE](https://ganmiofficial.com)

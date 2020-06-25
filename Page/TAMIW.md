@@ -1,7 +1,7 @@
 > この記事は[TAMIW](https://ja.wikipedia.org/wiki/TAMIW)から翻訳されています。
 
 
-**TAMIW**（タミュー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。2018年、結成。神戸、大阪を中心に活動している。2018年8月8日、1stフルアルバム『flower vases』を全国リリース。
+**TAMIW**（タミュー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。2018年、結成。神戸、大阪を中心に活動している。\[1\]2018年8月8日、1stフルアルバム『flower vases』を全国リリース。
 
 ## メンバー
 
@@ -12,7 +12,7 @@
 
   - 田口智章
       - シンセサイザー/キーボード/ギター/コーラス
-      - Muscle Soulのボーカルとしても活動。
+      - Muscle Soulのボーカルとしても活動。\[2\]
 
 <!-- end list -->
 
@@ -27,13 +27,13 @@
 ## 来歴
 
   - 2016年 tamiのソロでの活動開始。
-  - [2018年](../Page/2018年.md "wikilink")5月 ４人体制での活動開始。8月、1stフルアルバム『flower vases』リリース、全国ツアー開始。
-  - [2019年](../Page/2019年.md "wikilink")5月 初の海外ツアー、TAMIW USA TOUR -from CALIFORNIA to TEXAS-。6月 アルカラ主催フェス、ネコフェス出演。
+  - [2018年](../Page/2018年.md "wikilink")5月 ４人体制での活動開始。8月、1stフルアルバム『flower vases』リリース、全国ツアー開始。\[3\]
+  - [2019年](../Page/2019年.md "wikilink")5月 初の海外ツアー、TAMIW USA TOUR -from CALIFORNIA to TEXAS-。6月 アルカラ主催フェス、ネコフェス出演。\[4\]\[5\]
 
 **2020年**
 
-  - 1月 1stデジタルシングル『future exercise』配信開始。\[1\]
-  - 4月 2ndデジタルアルバム『future exercise』配信開始。\[2\]
+  - 1月 1stデジタルシングル『future exercise』配信開始。\[6\]
+  - 4月 2ndデジタルアルバム『future exercise』配信開始。\[7\]
   - 6月 1st LP『future exercise』リリース。
 
 ## ディスコグラフィー　
@@ -103,7 +103,7 @@
 </ol>
 </div>
 </div></td>
-<td></td>
+<td><p><a href="../Page/ヒップランドミュージック.md" title="wikilink">ヒップランドミュージック</a>の「FRIENDSHIP.」よりデジタルリリース[8]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -145,5 +145,11 @@
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink")
 
-1.  [TAMIW、“寺の隠れスタジオ”で制作した2ndアルバムリリース決定](https://www.barks.jp/news/?id=1000177624).[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
-2.  [TAMIW、“futureの音を作る”2ndアルバムリリース＆生ライブ配信](https://www.barks.jp/news/?id=1000181604).[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
+1.  [神戸・大阪を中心に活動するオルタナティブロックバンド。まるで一つの映画のような壮大でアンビエントな世界を作り出している彼らが登場！【TAMIW】](http://prbassontop.com/mh365-173/)
+2.  [Muscle Soulが2年ぶり新作リリース、リード曲にTAMIW・tami参加](https://natalie.mu/music/news/378986).[ナタリー (ニュースサイト)](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")
+3.  [TAMIW – 1st Album『flower vases』Release | A-FILES オルタナティヴ・ストリートカルチャー・ウェブマガジン](https://a-files.jp/tamiw-flowervases.html)
+4.  [ネコフェス出演バンド紹介　TAMIW - ネコフェス2019 -KUDAKENEKO ROCK FESTIVAL-](http://nekofes.net/2019/blog/267)
+5.  [アルカラ「ネコフェス」第2弾で感エロ、マスドレ、LEGO、つしまみれ、UNCHAINら追加](https://natalie.mu/music/news/328913).[ナタリー (ニュースサイト)](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")
+6.  [TAMIW、“寺の隠れスタジオ”で制作した2ndアルバムリリース決定](https://www.barks.jp/news/?id=1000177624).[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
+7.  [TAMIW、“futureの音を作る”2ndアルバムリリース＆生ライブ配信](https://www.barks.jp/news/?id=1000181604).[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
+8.  [TAMIW、2ndアルバム『future exercise』をデジタルリリース、スタジオ生ライブ配信も決定](https://spice.eplus.jp/articles/268280).[SPICE (ニュースサイト)](https://ja.wikipedia.org/wiki/SPICE_\(ニュースサイト\) "wikilink")

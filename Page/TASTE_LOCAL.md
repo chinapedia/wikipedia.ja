@@ -15,7 +15,7 @@
 
   - [TASTE LOCAL公式ストア](https://taste-local.net/)
 
-[Category:2020年設立](https://ja.wikipedia.org/wiki/Category:2020年設立 "wikilink") [Category:食品](https://ja.wikipedia.org/wiki/Category:食品 "wikilink")
+[Category:2020年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2020年開設のウェブサイト "wikilink") [Category:食品](https://ja.wikipedia.org/wiki/Category:食品 "wikilink")
 
 1.
 2.   キャリアハック（CAREER HACK）|url=[http://careerhack.en-japan.com/report/detail/1378|website=キャリアハック|accessdate=2020-05-12|language=ja|publisher=](http://careerhack.en-japan.com/report/detail/1378%7Cwebsite=キャリアハック%7Caccessdate=2020-05-12%7Clanguage=ja%7Cpublisher=)}}

@@ -32,3 +32,5 @@
 <!-- end list -->
 
   -
+
+[Category:アメリカ合衆国の化学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の化学者 "wikilink") [Category:コーネル大学の教員](https://ja.wikipedia.org/wiki/Category:コーネル大学の教員 "wikilink") [Category:1942年生](https://ja.wikipedia.org/wiki/Category:1942年生 "wikilink") [Category:ハーバード大学出身の人物](https://ja.wikipedia.org/wiki/Category:ハーバード大学出身の人物 "wikilink") [Category:コロンビア大学出身の人物](https://ja.wikipedia.org/wiki/Category:コロンビア大学出身の人物 "wikilink")

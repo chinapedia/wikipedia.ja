@@ -9,7 +9,7 @@
 
 ## 概要
 
-『The Benza 』シリーズ１のサブキャストがメインになって繰り広げられる所もスピンオフ作品 メインのロケ地はTokyo Cowboysでお馴染みのBar恵比寿What The Dickens\! や、新宿、中野を中心に行われている。 １話約25分程度。番組の内容は、英会話番組やレッスンでは教えてくれないような”役に立たない英語や韓国語”を　各国のキャスト達が教えてくれる。 本作はダブル監督の作品となっており、日本人の西坂來人監督ががメインであるBARシーンやいんこ先生のコーナーを担当。 イギリス人の[マイケル・ウィリアムズ (映画監督)監督が英語の多い番組VTRシーンやディビットのシーンを担当](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ_\(映画監督\) "wikilink")。脚本は、『The Benza 』シリーズ１に引き続き、アメリカ人のクリス・マッコームス、翻訳は川畑誠仁。
+『The Benza 』シリーズ１のサブキャストがメインになって繰り広げられる所もスピンオフ作品 メインのロケ地は[Tokyo Cowboysでお馴染みのBar恵比寿What](https://ja.wikipedia.org/wiki/Tokyo_Cowboys "wikilink") The Dickens\! や、新宿、中野を中心に行われている。 １話約25分程度。番組の内容は、英会話番組やレッスンでは教えてくれないような”役に立たない英語や韓国語”を　各国のキャスト達が教えてくれる。 本作はダブル監督の作品となっており、日本人の西坂來人監督ががメインであるBARシーンやいんこ先生のコーナーを担当。 イギリス人の[マイケル・ウィリアムズ (映画監督)監督が英語の多い番組VTRシーンやディビットのシーンを担当](../Page/マイケル・ウィリアムズ_\(映画監督\).md "wikilink")。脚本は、『The Benza 』シリーズ１に引き続き、アメリカ人のクリス・マッコームス、翻訳は川畑誠仁。
 
 ## あらすじ
 
@@ -20,16 +20,16 @@
 メインキャスト
 
   - かおり
-    池田香織
+    [池田香織](../Page/池田香織.md "wikilink")
     塩対応な教育番組の司会者。時間内に番組を終わらせる事が一番の使命だと考えている。
   - マリア
-    [マリア・パパドプール](https://ja.wikipedia.org/wiki/マリア・パパドプール "wikilink")
+    [マリア・パパドプール](../Page/マリア・パパドプール.md "wikilink")
     英語の発音を教えてくれる先生。妖艶なスエーデン人。
   - ハミルトン
     エイベア・ハミルトン
     英語の発音を教えてくれる先生。大きな…を持つアメリカ人。
   - 田村
-    川畑誠仁
+    [川畑誠仁](../Page/川畑誠仁.md "wikilink")
     英語の文法を教えてくれる幽霊。おっぱいが好き。
   - クリス
     [クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")。
@@ -37,7 +37,7 @@
   - カイル
     [カイル・カード](https://ja.wikipedia.org/wiki/カイル・カード "wikilink")
     クリスのルームメイト。カナダ出身。
-  - いん子先生
+  - いんこ先生
     [白いんこ](https://ja.wikipedia.org/wiki/白いんこ "wikilink")
     クリスとカイルが通っていた日本語学校の先生。日本人。
   - アレナ
@@ -59,7 +59,7 @@
 サブメイン
 
   - ひろみ
-    かえひろみ
+    [かえひろみ](https://ja.wikipedia.org/wiki/かえひろみ "wikilink")
     原宿系お馬鹿タレント。日本人。
   - ファニーディープ
     川本かず子
@@ -74,7 +74,7 @@
     ボブ・ワーリー
     偽エリートサラリーマン。アメリカ人
   - キャロル
-    [アンダーソン静香](https://ja.wikipedia.org/wiki/アンダーソン静香 "wikilink")
+    [アンダーソン静香](../Page/アンダーソン静香.md "wikilink")
     日本人にしか見えないカナダ人。
   - マーク
     マーク・ザー
@@ -86,7 +86,7 @@
     キュ・タツヤ
     かおりが所属する芸能事務所の心優しいスタッフ。日本人。
   - 内藤聡子
-    内藤聡子
+    [内藤聡子](https://ja.wikipedia.org/wiki/内藤聡子 "wikilink")
     かおりの先輩MC。クールビューティーな日本人。
   - ヒロ
     小野裕崇
@@ -95,13 +95,13 @@
     ジャスティン・リーパー
     アレナのライバルトレジャーハンター。アメリカ人。
   - エースワン
-    Dj Ace
+    [DJ ACE](https://ja.wikipedia.org/wiki/DJ_ACE "wikilink")
     世界を股にかけるDJ。クリスに無理やり呼ばれた日本人。
   - MCこうすけ
-    今井孝祐
+    [今井孝祐](https://ja.wikipedia.org/wiki/今井孝祐 "wikilink")
     テンションの高い意地悪な司会者。日本人。
   - けゑ
-    前田けゑ
+    [前田けゑ](https://ja.wikipedia.org/wiki/前田けゑ "wikilink")
     肉食系イケメン。お腹が弱い日本人。
 
 ## Benza English Series 1 Original Soundtrack
@@ -114,7 +114,7 @@
 
 :: 作曲：[野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
 
-:: 歌唱：[川畑誠仁](https://ja.wikipedia.org/wiki/川畑誠仁 "wikilink") and The Benza Cast
+:: 歌唱：[川畑誠仁](../Page/川畑誠仁.md "wikilink") and The Benza Cast
 
 :: Benza English Series 1の第３話挿入曲
 
@@ -122,7 +122,7 @@
 
 :: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
 
-:: 作曲：野宮任裕
+:: 作曲：[野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
 
 :: 歌唱：[アレクサンダー・ハンター](https://ja.wikipedia.org/wiki/アレクサンダー・ハンター "wikilink")
 
@@ -130,9 +130,9 @@
 
 :; 3. 君の光 / The Benza Cast (135)
 
-:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink"),Mitsugi
+:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink"), [MITSUGI](https://ja.wikipedia.org/wiki/MITSUGI "wikilink")
 
-:: 作曲：Mitsugi
+:: 作曲：[MITSUGI](https://ja.wikipedia.org/wiki/MITSUGI "wikilink")
 
 :: 歌唱：[ハンナ・グレース](https://ja.wikipedia.org/wiki/ハンナ・グレース "wikilink")
 
@@ -150,7 +150,7 @@
 
 :: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
 
-:: 作曲：野宮任裕
+:: 作曲：[野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
 
 :: 歌唱：デビット・マシコ、[カイル・カード](https://ja.wikipedia.org/wiki/カイル・カード "wikilink")、[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
 
@@ -160,19 +160,19 @@
 
       -
         作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
-        作曲：野宮任裕
-        歌唱：デビット・マシコ、[アンダーソン静香](https://ja.wikipedia.org/wiki/アンダーソン静香 "wikilink")
+        作曲：[野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
+        歌唱：デビット・マシコ、[アンダーソン静香](../Page/アンダーソン静香.md "wikilink")
 
 ## スタッフ
 
-  - 監督 - [西坂來人](https://ja.wikipedia.org/wiki/西坂來人 "wikilink")、[マイケル・ウィリアムズ (映画監督)](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ_\(映画監督\) "wikilink")
+  - 監督 - [西坂來人](../Page/西坂來人.md "wikilink")、[マイケル・ウィリアムズ (映画監督)](../Page/マイケル・ウィリアムズ_\(映画監督\).md "wikilink")
   - 脚本 - [クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
   - プロデューサー - [クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
   - ラインプロデューサー - [白いんこ](https://ja.wikipedia.org/wiki/白いんこ "wikilink")
   - 撮影 - [渡邉泰裕](https://ja.wikipedia.org/wiki/渡邉泰裕 "wikilink")、[久保田雅哉](https://ja.wikipedia.org/wiki/久保田雅哉 "wikilink")、[マイケル・ウィリアムズ](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ "wikilink")
   - 音楽 - [野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
-  - 編集 - [西坂來人](https://ja.wikipedia.org/wiki/西坂來人 "wikilink")、[マイケル・ウィリアムズ](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ "wikilink")、[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
-  - 製作 - TOKYO COWBOYS
+  - 編集 - [西坂來人](../Page/西坂來人.md "wikilink")、[マイケル・ウィリアムズ](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ "wikilink")、[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
+  - 製作 - [Tokyo Cowboys](https://ja.wikipedia.org/wiki/Tokyo_Cowboys "wikilink")
 
 
 

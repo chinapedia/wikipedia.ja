@@ -115,6 +115,7 @@
 #### ニッポン放送 Spin Out
 
   - [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")[尾崎世界観](https://ja.wikipedia.org/wiki/尾崎世界観 "wikilink")の野球100% powered by ニッポン放送ショウアップナイター
+  - [トータルテンボスのぬきさしならナイト\! season2](../Page/トータルテンボスのぬきさしならナイト!.md "wikilink")※[NRNの系列局である](../Page/全国ラジオネットワーク.md "wikilink")、[TBCラジオで放送していた番組がPodcast配信のみコンテンツとしてニッポン放送に移籍](https://ja.wikipedia.org/wiki/東北放送#ラジオ "wikilink")
 
 ### 過去
 
@@ -342,14 +343,14 @@
   -
     [シルクドソレイユ](https://ja.wikipedia.org/wiki/シルクドソレイユ "wikilink")の演目の1つである「DRALION」の番宣番組
 
+## 出典
+
 ## 関連項目
 
   - [LFX mudigi](../Page/LFX_mudigi.md "wikilink")※同局でBSデジタル若しくはWebにて配信していたインターネットラジオ局
   - [Suono Dolce](../Page/Suono_Dolce.md "wikilink")※同局で地上波デジタル放送若しくはWebにて配信していた[ラブソング](https://ja.wikipedia.org/wiki/ラブソング "wikilink")メインでブランドチェンジした、インターネットラジオ局
   - [オールナイトニッポンモバイル](https://ja.wikipedia.org/wiki/オールナイトニッポンモバイル "wikilink")※Radital及びスマートフォンアプリケーションにて配信されていた、オールナイトニッポンブランドのコンテンツ
   - [オールナイトニッポンi](https://ja.wikipedia.org/wiki/オールナイトニッポンi "wikilink")※当該Webサイト統合前に配信していた、オールナイトニッポンブランドのWebラジオ＆Web動画配信サービス
-
-## 出典
 
 ## 外部リンク
 

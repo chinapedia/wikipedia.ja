@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink")（全曲）
+  - [a2c](https://ja.wikipedia.org/wiki/a2c_\(ギタリスト\) "wikilink")：[Guitar](../Page/ギター.md "wikilink") (全曲)
 
 ## 脚注
 

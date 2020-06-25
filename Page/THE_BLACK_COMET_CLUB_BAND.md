@@ -27,9 +27,18 @@
 
 ## エピソード
 
+  - Little Light,Big Shadowでは、佐藤統がサンバホイッスルを吹いている。ある時から、ライブ中に客席でも吹いてほしいとMC等で話があった。しばらくの間はサンバホイッスルを吹く客はいなかったが、Twitterで佐藤統がサンバホイッスルの商品紹介したりしたため、2019年頃より客席でも一緒にサンバホイッスルを吹く者が現れだした。最近はサンバホイッスルによるコール・アンド・レスポンスを楽しんでいる様子もある。
+
+<!-- end list -->
+
+  - Little Light,Big Shadowのサンバホイッスルタイムは佐藤統の魅せ場の一つであるが、佐藤統の肺活量を試すようにサンバホイッスルを吹く間奏部分を繰り返す行為を高野哲が楽しんでいる。
   - 2020年、照井仁加入後初のフルアルバム“La Vie En Rose"の制作合宿を、照井仁の住む盛岡で行った。最終日には、総仕上げ的な意味合いも含め、わかんたんかにて[鉄人](../Page/鉄人_\(アコースティックユニット\).md "wikilink")([高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")、[照井仁](https://ja.wikipedia.org/wiki/照井仁 "wikilink")、[佐藤統](../Page/佐藤統.md "wikilink"))+ゲスト；[小林勝](https://ja.wikipedia.org/wiki/小林勝 "wikilink")、[風間弘行](https://ja.wikipedia.org/wiki/風間弘行 "wikilink")でライブが行われる予定であったが、Covid-19の影響で中止を余儀なくされた。\[3\]
   - “La Vie En Rose"リリースツアーを2020年5月より行う予定で、日程と大まかな地域は発表されていた。しかし社会情勢を鑑みツアー前半の日程は延期となっている。こういった状況ではあるが、新たなアルバムをファンクラブ会員にお披露目する機会として5月15日にはバンドとして初となる、オンラインイベントを実施した。
-  - “La Vie En Rose"発売日の5月17日には、インストアイベント的な位置づけとしてYOUTUBEのafro skull channel初の無料配信を企画したが、当日のzoom通信障害により延期となったが、5月19日に実施された。
+  - “La Vie En Rose"発売日であり、本来ツアー初日であった（会場名は告知されていなかったが千葉LOOKだった）5月17日には、インストアイベント的な位置づけとしてYOUTUBEのafro skull channel初の無料配信を企画。当日は世界的なzoom通信障害により急遽Skypeを利用し登場したが、通信品質が悪かったため5月19日に改めて実施された。
+
+<!-- end list -->
+
+  - 延期となったTour 2020 La Vie En Roseの前半日程は、On Line Virtual Live Tour 2020 La Vie En Roseを開催。(本来のツアー初日の5月17日は上述の通りアルバム発売にあわせた無料配信を実施）メンバー全員が出演し、遠隔Mix Live動画の公開をはじめ、チャット機能を利用しファンからの質問への回答、高野哲生弾き語りが披露された
 
 ## ディスコグラフィ
 
@@ -190,7 +199,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p>FILM El あComino,El Dorado</p></td>
+<td><p>FILM El Comino,El Dorado</p></td>
 <td><p>ds‐00015</p></td>
 <td><p>The Sundance Kid Border Line</p>
 <p>Kaminari Song</p>
@@ -314,6 +323,18 @@
   - 2015年9月26日　[中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink")　(village of illusion)
   - 2016年9月10日　[中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink")　(REDEMPTION STAGE)\[11\]
   - 2018年9月28日　[中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink")　(REALIZE STAGE)
+
+
+
+## メディア
+
+・2016年9月6日公開：「El Camino, El Dorado」発売時Mora インタビュー [3](https://mora.jp/topics/interview/the-black-comet-club-band/)
+
+・2018年7月11日発売 MASSIVE Vo.31 特別インタビュー イントロ (interviewer:音楽ライター 増田勇一氏) [4](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND?action=edit)
+
+・2020年5月24日公開：afro skull TV Vo.1 new album ‘La Vie En Rose’ 発売 高野哲インタビュー (interviewer:音楽ライター 増田勇一氏) [5](https://www.youtube.com/watch?v=_-qwfIqbLz8&feature=youtu.be)
+
+・2020年5月26日公開：afro skull TV Vo.2 new album ‘La Vie En Rose’ 発売 高野哲インタビュー (interviewer:音楽ライター 増田勇一氏) [6](https://www.youtube.com/watch?v=phthdBB-nq8&list=PLCs6zN3xca_54epegDSMuNES1hpxtxij3&index=2)
 
 ## 脚注
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-この[アワードは](../Page/賞.md "wikilink")、The World's 50 Best Restaurantsのバー版として、2009年に設立された。毎年、上位50店舗のリストや特別賞が授賞式で発表される\[1\]。2016年には、[アジア](../Page/アジア.md "wikilink")に特化した[Asia's 50 Best Barsも創設された](https://ja.wikipedia.org/wiki/Asia's_50_Best_Bars "wikilink")。
+この[アワードは](../Page/賞.md "wikilink")、The World's 50 Best Restaurantsのバー版として、2009年に設立された。毎年、上位50店舗のリストや特別賞が授賞式で発表される\[1\]。2016年には、[アジア](../Page/アジア.md "wikilink")に特化した[Asia's 50 Best Barsも創設された](../Page/Asia's_50_Best_Bars.md "wikilink")。
 
 表彰および投票の運営は、William Reed Business Mediaが実施する。同社はThe World's 50 Best Restaurants、Asia's 50 Best Restaurants、Latin America's 50 Best Restaurantsもプロデュースしている。投票は、世界の500人以上の[ドリンク専門家によって行われる](https://ja.wikipedia.org/wiki/飲料 "wikilink")\[2\]。
 

@@ -1,7 +1,7 @@
 > この記事は[Voodoo \(会社\)](https://ja.wikipedia.org/wiki/Voodoo_\(会社\))から翻訳されています。
 
 
-**Voodoo SAS**（別名:**Voodoo.io**）は、パリを拠点とするフランスの[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")およびゲーム販売会社。2013年にアレクサンドル・ヤズディとローラン・リッターによって設立され、[Android](../Page/Android.md "wikilink")と[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")向けの[基本プレイ無料](https://ja.wikipedia.org/wiki/基本プレイ無料 "wikilink")で遊べる「ハイパー[カジュアルゲーム](../Page/カジュアルゲーム.md "wikilink")」を中心に開発している。 2019年12月の時点で、Voodooによってリリースされたゲームは合計26億回ダウンロードされた。
+**Voodoo SAS**（別名:**Voodoo.io**）は、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")を拠点とする[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ゲームクリエイター](../Page/ゲームクリエイター.md "wikilink")およびゲーム販売会社。2013年にアレクサンドル・ヤズディとローラン・リッターによって設立され、[Android](../Page/Android.md "wikilink")と[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")向けの[基本プレイ無料](https://ja.wikipedia.org/wiki/基本プレイ無料 "wikilink")で遊べる「ハイパー[カジュアルゲーム](../Page/カジュアルゲーム.md "wikilink")」を中心に開発している。 2019年12月の時点で、Voodooによってリリースされたゲームは合計26億回ダウンロードされた。
 
 ## 歴史
 

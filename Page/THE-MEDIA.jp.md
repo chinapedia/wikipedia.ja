@@ -11,7 +11,7 @@
 
 ## 沿革
 
-  - 2018年12月2日　サービス開始。編集長に幸田良佑が就任\[5\]。
+  - 2018年12月2日　サービス開始。\[5\]。
   - 2019年1月　「Nordot」のキュレーターとして参画メディアの記事の配信を開始。
   - 2019年7月　「Nordot」のコンテンツホルダーとして参画。独自記事の配信を開始\[6\]。
 
@@ -27,7 +27,6 @@
 
   - [THE-MEDIA.jp コーポレートサイト](https://corp.the-media.jp)
 
-  -
   -
   -
 [Category:日本のニュースサイト](https://ja.wikipedia.org/wiki/Category:日本のニュースサイト "wikilink") [Category:愛知県の企業](https://ja.wikipedia.org/wiki/Category:愛知県の企業 "wikilink") [Category:2018年設立の企業](https://ja.wikipedia.org/wiki/Category:2018年設立の企業 "wikilink")

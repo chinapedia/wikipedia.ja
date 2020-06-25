@@ -5,7 +5,7 @@
 
 ## 概要
 
-[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")が[社会主義国家であった時代](../Page/東側諸国.md "wikilink")、同国の路面電車車両は[プラハ](../Page/プラハ.md "wikilink")に工場を有した[タトラ国営会社スミーホフ工場（→ČKDタトラ）が生産を行っていた](../Page/タトラ_\(自動車\).md "wikilink")。だが、チェコスロバキアを含む[東側諸国](../Page/東側諸国.md "wikilink")の民主化や[ビロード離婚](../Page/ビロード離婚.md "wikilink")に伴う[チェコ](../Page/チェコ.md "wikilink")・[スロバキア](../Page/スロバキア.md "wikilink")の分離などの社会情勢の変化によりČKDタトラの需要は大幅に減少し、[2000年](../Page/2000年.md "wikilink")に倒産した。その一方、分離後のチェコでは同社が製造した路面電車車両・[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")の近代化を目的に路面電車事業に参入する事業者が現れており、その1つが以下の3社によって[2001年](../Page/2001年.md "wikilink")に設立された[企業グループの](../Page/合弁事業.md "wikilink")**アライアンスTW**である。
+[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")が[社会主義国家であった時代](../Page/東側諸国.md "wikilink")、同国の路面電車車両は[プラハ](../Page/プラハ.md "wikilink")に工場を有したが生産を行っていた。だが、チェコスロバキアを含む[東側諸国](../Page/東側諸国.md "wikilink")の民主化や[ビロード離婚](../Page/ビロード離婚.md "wikilink")に伴う[チェコ](../Page/チェコ.md "wikilink")・[スロバキア](../Page/スロバキア.md "wikilink")の分離などの社会情勢の変化によりČKDタトラの需要は大幅に減少し、[2000年](../Page/2000年.md "wikilink")に倒産した。その一方、分離後のチェコでは同社が製造した路面電車車両・[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")の近代化を目的に路面電車事業に参入する事業者が現れており、その1つが以下の3社によって[2001年](../Page/2001年.md "wikilink")に設立された[企業グループの](../Page/合弁事業.md "wikilink")**アライアンスTW**である。
 
   - **プラゴイメックス**（Pragoimex s.v.） - [1991年](../Page/1991年.md "wikilink")に設立された[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。アライアンスTWの中心企業で、路面電車車両の製造・近代化改造に加え、[鉄道車両](../Page/鉄道車両.md "wikilink")や[トロリーバス](../Page/トロリーバス.md "wikilink")の部品や主電動機の製造、[交通工学](../Page/交通工学.md "wikilink")に基づいた設計作業を実施する\[1\]。
   - **クルノフ修理機械工場**（Krnovské opravny a strojírny s.r.o.、KOS） - 元は[1872年](../Page/1872年.md "wikilink")の[オロモウツ - オパヴァ線開通に併せて](https://ja.wikipedia.org/wiki/オロモウツ_-_オパヴァ線 "wikilink")で操業を開始した、鉄道車両の修繕や部品製造を担当する工場で、[1992年](../Page/1992年.md "wikilink")に鉄道車両の修理工場・機械工場の民営化が決定した事に伴い[有限会社](../Page/有限会社.md "wikilink")として再出発を遂げた。[客車](../Page/客車.md "wikilink")や[貨車](../Page/貨車.md "wikilink")の製造や改造、鉄道車両の部品製造、歴史的車両の修繕も行っており、[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")のみならず[ポーランド](../Page/ポーランド.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")など[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各国に実績を残している。
@@ -15,42 +15,45 @@
 
 ## 主要製品
 
-| **アライアンスTW 主要製品**                               |
-| ----------------------------------------------- |
-| 形式                                              |
-| ****                                            |
-| **[T3R.PV](../Page/タトラT3R.PV.md "wikilink")**   |
-| **[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")**      |
-| **[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")R.E**   |
-| **[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")R.R**   |
-| **[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-| **[ヴァリオLF3](../Page/ヴァリオLF3.md "wikilink")**    |
-| ****                                            |
-| **ヴァリオLF3 プラス**                                 |
-| **ヴァリオLF4**                                     |
-| **ヴァリオLF4 プラス**                                 |
-| **[VV60LF](../Page/VV60LF.md "wikilink")**      |
-| ****                                            |
-| ****                                            |
-| ****                                            |
-|                                                 |
+| **アライアンスTW 主要製品**                                  |
+| -------------------------------------------------- |
+| 形式                                                 |
+| ****                                               |
+| **[T3R.PV](../Page/タトラT3R.PV.md "wikilink")**      |
+| **[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")**         |
+| **[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")R.E**      |
+| **[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")R.R**      |
+| **[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")**    |
+| ****                                               |
+| **[ヴァリオLF プラス](../Page/ヴァリオLF_プラス.md "wikilink")** |
+| ****                                               |
+| ****                                               |
+| ****                                               |
+| ****                                               |
+| ****                                               |
+| ****                                               |
+| **[ヴァリオLF3](../Page/ヴァリオLF3.md "wikilink")**       |
+| ****                                               |
+| **ヴァリオLF3 プラス**                                    |
+| **ヴァリオLF4**                                        |
+| **ヴァリオLF4 プラス**                                    |
+| **[VV60LF](../Page/VV60LF.md "wikilink")**         |
+| ****                                               |
+| ****                                               |
+| ****                                               |
+|                                                    |
 
 ## ギャラリー
 
-<File:Brno>, Husovice, Mostecká, BMUE 2004, Tatra T3R.EV č. 1531 a VV60LF č. 1301.jpg|**** <File:Palmovka>, 8156.jpg|**[T3R.PV](../Page/タトラT3R.PV.md "wikilink")** <File:Vario> LF v Brně.jpeg|**[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")** <File:TT_Kotlářka_-_Sídliště_Řepy,_Krematorium_Motol,_Tatra_T3R.PLF.jpg>|**[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** <File:Liberec>, Žitavská, tramvaj 66 na lince 3.jpg|**** <File:Most>, nádraží, tram 314 - Vario LF.jpg|**** <File:Olomouc>, Hlavní nádraží, tramvaj linky 3.jpg|**** <File:Tramvaj> Ostrava.JPG|**** <File:Plzeň>, tramvaj VarioLF2 2 IN (03).jpeg|**** <File:Vario> LF2+ Košice č801.JPG|**** <File:Tram> Vario LF3 Ostrava.jpg|**[ヴァリオLF3](../Page/ヴァリオLF3.md "wikilink")** <File:Ostrava>, Náměstí Republiky, Vario LF3 2.jpg|**** <File:Vlečňák_č._1303.jpg>|**[VV60LF](../Page/VV60LF.md "wikilink")** <File:Czech> Raildays 2015, EVO1 (09).jpg|**** <File:EVO1o> 123 121 V Kotline Olomouc.jpg|**** <File:EVO2> v Plzni 20190910.jpg|****
+<File:Brno>, Husovice, Mostecká, BMUE 2004, Tatra T3R.EV č. 1531 a VV60LF č. 1301.jpg|**** <File:Palmovka>, 8156.jpg|**[T3R.PV](../Page/タトラT3R.PV.md "wikilink")** <File:Vario> LF v Brně.jpeg|**[ヴァリオLF](../Page/ヴァリオLF.md "wikilink")** <File:TT_Kotlářka_-_Sídliště_Řepy,_Krematorium_Motol,_Tatra_T3R.PLF.jpg>|**[T3R.PLF](../Page/タトラT3R.PLF.md "wikilink")** <File:Liberec>, Žitavská, tramvaj 66 na lince 3.jpg|**** <File:Most>, nádraží, tram 314 - Vario LF.jpg|**[ヴァリオLF プラス](../Page/ヴァリオLF_プラス.md "wikilink")** <File:Olomouc>, Hlavní nádraží, tramvaj linky 3.jpg|**** <File:Tramvaj> Ostrava.JPG|**** <File:Plzeň>, tramvaj VarioLF2 2 IN (03).jpeg|**** <File:Vario> LF2+ Košice č801.JPG|**** <File:Tram> Vario LF3 Ostrava.jpg|**[ヴァリオLF3](../Page/ヴァリオLF3.md "wikilink")** <File:Ostrava>, Náměstí Republiky, Vario LF3 2.jpg|**** <File:Vlečňák_č._1303.jpg>|**[VV60LF](../Page/VV60LF.md "wikilink")** <File:Czech> Raildays 2015, EVO1 (09).jpg|**** <File:EVO1o> 123 121 V Kotline Olomouc.jpg|**** <File:EVO2> v Plzni 20190910.jpg|****
 
 ## 関連項目
 
+  - \- [ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")の路面電車車両メーカー。[2016年](../Page/2016年.md "wikilink")にプラゴイメックスとの間に[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")の子更新工事に関する業務提携を交わしており、アライアンスTWの技術を基礎とした更新車両の生産を行っている\[4\]\[5\]。
+
   - [シュコダ・トランスポーテーション](https://ja.wikipedia.org/wiki/シュコダ・トランスポーテーション "wikilink") - アライアンスTWと同様に[タトラT3](../Page/タトラT3.md "wikilink")の更新工事から路面電車市場に参入した[チェコ](../Page/チェコ.md "wikilink")の企業。
-  - [タトラ＝ユーク](https://ja.wikipedia.org/wiki/タトラ＝ユーク "wikilink") - タトラカー（）の同型車両製造から路面電車市場に参入した[ウクライナ](../Page/ウクライナ.md "wikilink")の企業\[4\]。
+
+  - [タトラ＝ユーク](https://ja.wikipedia.org/wiki/タトラ＝ユーク "wikilink") - タトラカー（）の同型車両製造から路面電車市場に参入した[ウクライナ](../Page/ウクライナ.md "wikilink")の企業\[6\]。
 
 ## 脚注
 
@@ -67,3 +70,5 @@
 2.
 3.
 4.
+5.
+6.

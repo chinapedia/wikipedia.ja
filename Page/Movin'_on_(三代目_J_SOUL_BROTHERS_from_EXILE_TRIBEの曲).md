@@ -8,12 +8,12 @@
   - 前作「[冬空/White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")」から約4か月ぶりのCDシングル。デビュー10周年目となる2020年の第一弾シングル。
   - 「CD+DVD」と「CDのみ」の2形態での発売。それぞれ全2曲4トラックを収録。
   - [STY](../Page/STY.md "wikilink")がシングル表題曲を作詞・作曲・プロデュースするのは「[Summer Madness](https://ja.wikipedia.org/wiki/Summer_Madness "wikilink")」以来約5年ぶり。
-  - 「Movin' on」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の広大な荒野や街中で競技用のレーサードローンを駆使し撮影。パフォーマンスでは、ハンドルを回すような振り付けの「ドライブダンス」をメンバーが披露\[2\]。
+  - 「Movin' on」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の広大な荒野や街中で競技用のレーサードローンを駆使し撮影。パフォーマンスでは、ハンドルを回すような振り付けの「ドライブダンス」をメンバーが披露している\[2\]。
   - 三代目 J SOUL BROTHERSと[トヨタレンタカーによるコラボ動画がYouTubeで公開された](../Page/トヨタレンタリース.md "wikilink")\[3\]。
 
 ## チャート成績
 
-  - 2020年4月20日付の[オリコン週間シングルランキングで](../Page/オリコンチャート.md "wikilink")、初登場1位を獲得した。22枚目のシングル「[J.S.B. HAPPINESS](https://ja.wikipedia.org/wiki/J.S.B._HAPPINESS "wikilink")」以来、2年4か月ぶり、通算7作目の1位となった。シングル連続TOP10入り記録は、デビューシングル「[Best Friend's Girl](https://ja.wikipedia.org/wiki/Best_Friend's_Girl "wikilink")」から26作連続に更新した\[4\]。
+  - 2020年4月20日付の[オリコン週間シングルランキングで](../Page/オリコンチャート.md "wikilink")、初登場1位を獲得した。22枚目のシングル「[J.S.B. HAPPINESS](https://ja.wikipedia.org/wiki/J.S.B._HAPPINESS "wikilink")」以来、2年4か月ぶり、通算7作目の1位となった。デビューシングル「[Best Friend's Girl](https://ja.wikipedia.org/wiki/Best_Friend's_Girl "wikilink")」から26作連続でTOP10入りとなった\[4\]。
 
 ## 収録曲
 
@@ -25,16 +25,12 @@
 2.  **Lose Control** \[3:56\]
       -
         作詞：TAKANORI([LL BROTHERS](../Page/LL_BROTHERS.md "wikilink")), ALLY、作曲：Theron Thomas, Sam Sumser, Sean Small, Raymond Daniels
-    <!-- end list -->
-      - アメリカのクリエーターRock City をプロデュースに迎えた。
 3.  Movin' on（Instrumental）
 4.  Lose Control（Instrumental）
 
 ### DVD
 
 1.  **Movin' on**（Music Video） \[2:59\]
-      -
-        Directed by Takumi Koyama
 
 ## 脚注
 

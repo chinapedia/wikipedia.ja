@@ -117,7 +117,7 @@
 
   - オープニングテーマ「[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")」
     歌 - [WANDS](../Page/WANDS.md "wikilink") / 作詞 - 上原大史 / 作曲・編曲 - [大島こうすけ](../Page/大島こうすけ.md "wikilink")
-  - エンディングテーマ「[少しづつ 少しづつ](https://ja.wikipedia.org/wiki/少しづつ_少しづつ "wikilink")」
+  - エンディングテーマ「[少しづつ 少しづつ](../Page/少しづつ_少しづつ.md "wikilink")」
     歌 - [SARD UNDERGROUND](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink") / 作詞 - [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") / 作曲 - [大野愛果](../Page/大野愛果.md "wikilink") / 編曲 - 鶴澤夢人、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")
 
 ## スタッフ

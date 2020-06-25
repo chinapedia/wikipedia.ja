@@ -9,7 +9,7 @@
 
 ## チャート成績
 
-オリコンチャートにて初動売上で前作「[The Future Is Now/タイムリープ](https://ja.wikipedia.org/wiki/The_Future_Is_Now/タイムリープ "wikilink")」 の累計売上を上回る4,044枚を売り上げ「[SIX DAY WONDER](https://ja.wikipedia.org/wiki/SIX_DAY_WONDER "wikilink")」、「[Lightning](https://ja.wikipedia.org/wiki/Lightning "wikilink")」、「[Man-like Creatures](https://ja.wikipedia.org/wiki/Man-like_Creatures "wikilink")」に並ぶ自己最高タイの週間8位を獲得\[3\]、また同オリコンの週間ROCKシングルランキングにて週間1位を獲得した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")にて初動売上で前作「[The Future Is Now/タイムリープ](https://ja.wikipedia.org/wiki/The_Future_Is_Now/タイムリープ "wikilink")」 の累計売上を上回る4,044枚を売り上げ「[SIX DAY WONDER](https://ja.wikipedia.org/wiki/SIX_DAY_WONDER "wikilink")」、「[Lightning](https://ja.wikipedia.org/wiki/Lightning "wikilink")」、「[Man-like Creatures](https://ja.wikipedia.org/wiki/Man-like_Creatures "wikilink")」に並ぶ自己最高タイの週間8位を獲得\[3\]、また同オリコンの週間ROCKシングルランキングにて週間1位を獲得した。
 
 ## 収録内容
 
@@ -38,7 +38,7 @@
 10. **[彩雲](https://ja.wikipedia.org/wiki/Behind_The_Scene#収録曲 "wikilink")**
 11. **[TOWER](https://ja.wikipedia.org/wiki/LOST_WORLD'S_ANTHOLOGY#収録曲 "wikilink")**
 12. **[灯り](https://ja.wikipedia.org/wiki/灯り_\(ストレイテナー×秦基博の曲\) "wikilink")**
-13. **[WISH I COULD FORGET](https://ja.wikipedia.org/wiki/Resplendent#収録曲 "wikilink")**
+13. **[WISH I COULD FORGET](https://ja.wikipedia.org/wiki/Resplendent_\(アルバム\)#収録曲 "wikilink")**
 14. **[FREE ROAD](https://ja.wikipedia.org/wiki/DAY_TO_DAY#収録曲 "wikilink")**
 15. **[スパイラル](https://ja.wikipedia.org/wiki/スパイラル_\(ストレイテナーの曲\) "wikilink")**
 

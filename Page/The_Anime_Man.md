@@ -19,7 +19,7 @@
 
 2019年7月、『Anime Expo 2019』にてアニメ『[ダンジョンに出会いを求めるのは間違っているだろうか](https://ja.wikipedia.org/wiki/ダンジョンに出会いを求めるのは間違っているだろうか "wikilink")II』に関するイベントのMCを務める\[15\]。同年同月、[京都アニメーション放火事件の報道を受け](https://ja.wikipedia.org/wiki/京都アニメーション放火殺人事件 "wikilink")、[追悼](https://ja.wikipedia.org/wiki/追悼 "wikilink")と海外の視聴者に企業再建のための募金を呼びかける。同年8月、英語版のライトノベルオーディオブック『戦闘員、派遣します！』（[暁なつめ](https://ja.wikipedia.org/wiki/暁なつめ "wikilink")/著）のナレーションを担当\[16\]。また同年12月21日には「**Ikurru**」名義で自身初のピアノアルバム**『A Picture Frame Full of Memories』**を発表\[17\]。インターネットでの音楽配信を開始。
 
-2020年3月、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")のNone Like Joshua（ジョシュアのようなものなし）のチャンネルにて『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』に関する[同人音楽](../Page/同人音楽.md "wikilink")の楽曲づくりに[ラッパーとして参加](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。同年同月、[株式会社ガイナックス所属スタッフより](../Page/ガイナックス.md "wikilink")2011年に新設された[株式会社トリガーの代表取締役桝本和也との対談を行う](https://ja.wikipedia.org/wiki/トリガー_\(アニメ制作会社\) "wikilink")。
+2020年3月、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")のNone Like Joshua（ジョシュアのようなものなし）のチャンネルにて『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』に関する[同人音楽](../Page/同人音楽.md "wikilink")の楽曲づくりに[ラッパーとして参加](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。同年同月、[株式会社ガイナックス所属スタッフより](../Page/ガイナックス.md "wikilink")2011年に新設された[株式会社トリガーの代表取締役桝本和也との対談を行う](https://ja.wikipedia.org/wiki/トリガー_\(アニメ制作会社\) "wikilink")。同年5月、音楽作品の二作目として15歳の頃に制作したアンビエントEP『**FIFTEEN**』を発表。
 
 2019年11月時点で動画総再生回数は3億回以上、チャンネル登録者数200万人、動画投稿数1100本以上を記録している。取り上げられたメディアは『the japan times』\[18\]『KADOKAWA』\[19\]『アニメ！アニメ！』\[20\]『VERGE』\[21\]『grape』\[22\]『J-Con』\[23\]など多数。
 
@@ -99,7 +99,8 @@ YouTubeサイト内コラボレーションは、「YouTube史上最も成功し
 
 ## 音楽作品（アルバム）
 
-  - A Picture Frame Full of Memories (Ikurru) - ピアノアルバム\[29\]
+  - A Picture Frame Full of Memories - ピアノアルバム（2019）\[29\]
+  - FIFTEEN - アンビエントEP（2020）
 
 ## 著書
 

@@ -1,7 +1,7 @@
 > この記事は[FIAヨーロッパヒルクライム選手権](https://ja.wikipedia.org/wiki/FIAヨーロッパヒルクライム選手権)から翻訳されています。
 
 
-**FIAヨーロッパヒルクライム選手権** (フランス語: *La Championnat d'Europe de la Montagne de la FIA*、英語: *The FIA European Hill Climb Championship*\[1\]) は、毎年[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (*Fedelation Internationale de l'Automobile*, 以下、**FIA**) が主催する[ヒルクライムの年間シリーズ戦である](https://ja.wikipedia.org/wiki/ヒルクライム_\(自動車\) "wikilink")。略称としてフランス語では**CEM**、英語では**EHC**も公式に用いられる\[2\]。
+**FIAヨーロッパヒルクライム選手権** (フランス語: *Championnat d'Europe de la Montagne de la FIA*、英語: *FIA European Hill Climb Championship*\[1\]) は、毎年[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (*Fedelation Internationale de l'Automobile*, 以下、**FIA**) が主催する[ヒルクライムの年間シリーズ戦である](https://ja.wikipedia.org/wiki/ヒルクライム_\(自動車\) "wikilink")。略称としてフランス語では**CEM**、英語では**EHC**も公式に用いられる\[2\]。
 
 ## 概要
 

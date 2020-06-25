@@ -95,4 +95,4 @@
 4.  **双子座生まれ（女声用・カラオケ）**
 5.  **淑女のルンバ（オリジナル・カラオケ）**
 
-[Category:美川憲一の楽曲](https://ja.wikipedia.org/wiki/Category:美川憲一の楽曲 "wikilink") [Category:1973年のアルバム](https://ja.wikipedia.org/wiki/Category:1973年のアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink")
+[Category:美川憲一の楽曲](https://ja.wikipedia.org/wiki/Category:美川憲一の楽曲 "wikilink") [Category:1973年のアルバム](https://ja.wikipedia.org/wiki/Category:1973年のアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:星座を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星座を題材とした楽曲 "wikilink")

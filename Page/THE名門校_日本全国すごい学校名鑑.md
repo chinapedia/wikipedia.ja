@@ -15,11 +15,43 @@
 
 ## 放送リスト
 
-| 放送日        | 名門校                                                                     | ゲスト                                                   |
-| ---------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
-| 2020年1月5日  | [開成中学校・高等学校](../Page/開成中学校・高等学校.md "wikilink")                          | [伊沢拓司](https://ja.wikipedia.org/wiki/伊沢拓司 "wikilink") |
-| 2020年4月19日 | [開成中学校・高等学校](../Page/開成中学校・高等学校.md "wikilink")                          | [柳沢幸雄](https://ja.wikipedia.org/wiki/柳沢幸雄 "wikilink") |
-| 2020年4月26日 | [ラ・サール中学校・高等学校](https://ja.wikipedia.org/wiki/ラ・サール中学校・高等学校 "wikilink") | [ラサール石井](../Page/ラサール石井.md "wikilink")                |
+<table>
+<thead>
+<tr class="header">
+<th><p>放送日</p></th>
+<th><p>名門校</p></th>
+<th><p>ゲスト</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年1月5日</p></td>
+<td><p><a href="../Page/開成中学校・高等学校.md" title="wikilink">開成中学校・高等学校</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/伊沢拓司" title="wikilink">伊沢拓司</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2020年4月19日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/柳沢幸雄" title="wikilink">柳沢幸雄</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年4月26日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラ・サール中学校・高等学校" title="wikilink">ラ・サール中学校・高等学校</a></p></td>
+<td><p><a href="../Page/ラサール石井.md" title="wikilink">ラサール石井</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2020年5月24日</p></td>
+<td><p><a href="../Page/北嶺中学校・高等学校.md" title="wikilink">北嶺中学校・高等学校</a></p></td>
+<td><p>谷内田穣<br />
+山口知也</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年5月31日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県立横浜翠嵐高等学校" title="wikilink">神奈川県立横浜翠嵐高等学校</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/水谷修" title="wikilink">水谷修</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ## スタッフ
 

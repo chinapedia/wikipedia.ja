@@ -27,7 +27,7 @@ Caffeはアカデミックな研究プロジェクト、スタートアップの
 ## 外部リンク
 
   -
-[Category:機械学習](https://ja.wikipedia.org/wiki/Category:機械学習 "wikilink") [Category:アメリカ合衆国のIT企業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のIT企業 "wikilink") [Category:画像処理](https://ja.wikipedia.org/wiki/Category:画像処理 "wikilink") [Category:フリー科学ソフトウェア](https://ja.wikipedia.org/wiki/Category:フリー科学ソフトウェア "wikilink") [Category:人工ニューラルネットワーク](https://ja.wikipedia.org/wiki/Category:人工ニューラルネットワーク "wikilink")
+[Category:応用機械学習](https://ja.wikipedia.org/wiki/Category:応用機械学習 "wikilink") [Category:アメリカ合衆国のIT企業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のIT企業 "wikilink") [Category:画像処理](https://ja.wikipedia.org/wiki/Category:画像処理 "wikilink") [Category:フリー科学ソフトウェア](https://ja.wikipedia.org/wiki/Category:フリー科学ソフトウェア "wikilink") [Category:人工ニューラルネットワーク](https://ja.wikipedia.org/wiki/Category:人工ニューラルネットワーク "wikilink")
 
 1.
 2.

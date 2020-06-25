@@ -41,7 +41,7 @@
   - [飛行艇 | ディスコグラフィ | King Gnu | ソニーミュージック オフィシャルサイト](https://www.sonymusic.co.jp/artist/kinggnu/discography/BVXX01235B01A)
   - [飛行艇](https://kinggnu.jp/music/hikoutei) - King Gnu Official Website
 
-[Category:King_Gnuの楽曲](https://ja.wikipedia.org/wiki/Category:King_Gnuの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:ANAグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ANAグループのコマーシャルソング "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
+[Category:King_Gnuの楽曲](https://ja.wikipedia.org/wiki/Category:King_Gnuの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:飛行機を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:飛行機を題材とした楽曲 "wikilink") [Category:ANAグループのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ANAグループのコマーシャルソング "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
 
 1.  [King Gnuが大坂なおみ出演ANAテレビCMに新曲「飛行艇」提供、来月配信リリース](https://natalie.mu/music/news/340318)
 2.  [King Gnu、いち少年の未来を“螺旋坂道”舞台に描く「飛行艇」MV](https://natalie.mu/music/news/344580)

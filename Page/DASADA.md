@@ -100,7 +100,7 @@
     丑岡の子分\[59\]。
   - 沙織の母
     演 - [神田うの](../Page/神田うの.md "wikilink")\[60\]
-  - ポンディ
+  - ボンディ
     演 - [エゼマタ健太チャールズ](https://ja.wikipedia.org/wiki/青春高校3年C組 "wikilink")
     中華料理屋「七龍」の岡持ち\[61\]。とろろのファン\[62\]。ゆりあの家族とも親しい\[63\]。
 
@@ -129,7 +129,7 @@
 | 2020年4月27日 -           | 火曜日 1:00 - 1:30（月曜日深夜）                                       | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（mrt） | [宮崎県](../Page/宮崎県.md "wikilink")    | [TBS系列](../Page/TBS系列.md "wikilink")            | \[79\] |
 | 2020年5月5日 -            | 水曜日 1:29 - 1:59（火曜日深夜）                                       | [福岡放送](../Page/福岡放送.md "wikilink")（FBS）                    | [福岡県](../Page/福岡県.md "wikilink")    | 日本テレビ系列                                         | \[80\] |
 | 水曜日 1:30 - 2:00（火曜日深夜） | [中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")（CTV） | [中京広域圏](../Page/広域放送.md "wikilink")                        | 日本テレビ系列                             | \[81\]                                          |        |
-| 2020年5月8日 -            | 金曜日 1:29 - 2:29（木曜日深夜）                                       | [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")（TeNY）              | [新潟県](../Page/新潟県.md "wikilink")    | 日本テレビ系列                                         | \[82\] |
+| 2020年5月8日 - 6月5日（予定）   | 金曜日 1:29 - 2:29（木曜日深夜）                                       | [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")（TeNY）              | [新潟県](../Page/新潟県.md "wikilink")    | 日本テレビ系列                                         | \[82\] |
 
 **ネット配信**
 
@@ -166,7 +166,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2020年5月22日</p></td>
+<td><p>2020年5月22日[93]</p></td>
 <td><p><strong>DASADA<br />
 DVD-BOX</strong></p></td>
 <td><p><a href="../Page/バップ.md" title="wikilink">vap</a></p></td>
@@ -198,7 +198,8 @@ Blu-ray BOX</strong></p></td>
   - [DASADA 公式サイト](https://www.ntv.co.jp/dasada/) - 日本テレビ
 
   -
-  -
+  - （2019年9月26日 - ）
+
 [Category:2020年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2020年のテレビドラマ "wikilink") [Category:日本テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組 "wikilink") [Category:日本テレビ木曜未明の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:日本テレビ木曜未明の深夜ドラマ "wikilink") [Category:日テレアックスオンのテレビドラマ](https://ja.wikipedia.org/wiki/Category:日テレアックスオンのテレビドラマ "wikilink") [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:日向坂46](https://ja.wikipedia.org/wiki/Category:日向坂46 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:秋元康](https://ja.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:学園ドラマ](https://ja.wikipedia.org/wiki/Category:学園ドラマ "wikilink") [Category:ファッションを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ファッションを題材としたテレビドラマ "wikilink")
 
 1.
@@ -293,3 +294,4 @@ Blu-ray BOX</strong></p></td>
 90.
 91.
 92.
+93.

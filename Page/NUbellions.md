@@ -39,7 +39,7 @@
   - Nubellions [公式サイト](http://nbs.tatuiyo.xyz)
 
   -
-[Category:ゲームの組織](https://ja.wikipedia.org/wiki/Category:ゲームの組織 "wikilink") [Category:日本の電子競技チーム](https://ja.wikipedia.org/wiki/Category:日本の電子競技チーム "wikilink")
+[Category:ゲームの組織](https://ja.wikipedia.org/wiki/Category:ゲームの組織 "wikilink") [Category:日本の電子競技チーム](https://ja.wikipedia.org/wiki/Category:日本の電子競技チーム "wikilink") [Category:2017年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:2017年設立のスポーツチーム "wikilink")
 
 1.
 2.

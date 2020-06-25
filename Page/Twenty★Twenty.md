@@ -1,15 +1,13 @@
 > この記事は[Twenty★Twenty](https://ja.wikipedia.org/wiki/Twenty★Twenty)から翻訳されています。
 
 
-**Twenty★Twenty**（トゥエンティー・トゥエンティー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")内の期間限定ユニット。[2020年](../Page/2020年.md "wikilink")5月に[新型コロナウイルス復興支援プロジェクトとして立ち上げた](../Page/2019新型コロナウイルス.md "wikilink")。事務所所属タレントの75名が参加する。プロデュースは[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")副社長が行う\[1\]\[2\]。
+**Twenty★Twenty**（トゥエンティー・トゥエンティー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")内の期間限定ユニット。事務所所属タレントの75名が参加する。プロデュースは[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")副社長が行う\[1\]\[2\]。
 
 ## 概要
 
-2013年に[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")社長（当時）が[東京オリンピックに向けて](https://ja.wikipedia.org/wiki/2020年東京オリンピック "wikilink")[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")40名で結成しようという構想があったが、オリンピックが延期になり消滅しかけたが、Smile Up！Projectの一つの取り組みとしてチャリティーソングを発売する目的で結成された\[3\]。
-
 ## 活動歴
 
-  - 2020年5月12日\[4\]、[新型コロナウイルスの復興プロジェクトとして](../Page/2019新型コロナウイルス.md "wikilink")「**Twenty★Twenty**」の結成をジャニーズ事務所が発表。翌13日の早朝には各マスコミも結成の報道を行った\[5\]。
+  - 2020年5月12日\[3\]、[新型コロナウイルスの復興プロジェクトとして](../Page/2019新型コロナウイルス.md "wikilink")「**Twenty★Twenty**」の結成をジャニーズ事務所が発表。翌13日の早朝には各マスコミも結成の報道を行った\[4\]。
 
 ## 参加メンバー
 
@@ -272,7 +270,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャニーズWEST" title="wikilink">ジャニーズWEST</a></p></td>
-<td><p><a href="../Page/中間淳太.md" title="wikilink">中間淳太</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/重岡大毅" title="wikilink">重岡大毅</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -281,7 +279,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/重岡大毅" title="wikilink">重岡大毅</a></p></td>
+<td><p><a href="../Page/中間淳太.md" title="wikilink">中間淳太</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -364,7 +362,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Snow_Man" title="wikilink">Snow Man</a></p></td>
 <td><p><a href="../Page/深澤辰哉.md" title="wikilink">深澤辰哉</a></p></td>
 <td><p><a href="../Page/岩本照.md" title="wikilink">岩本照</a>は不祥事による<br />
-活動自粛中のため不参加[6]</p></td>
+活動自粛中のため不参加</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ラウール_(ジャニーズ)" title="wikilink">ラウール</a></p></td>
@@ -427,11 +425,12 @@
 
 ## 外部リンク
 
+期間限定ユニット「Twenty★Twenty」（トゥエンティー・トゥエンティー）結成 チャリティーソング「smile」（作詞・作曲：櫻井和寿）制作開始のお知らせ\[5\]
+
 [Category:ジャニーズ事務所](https://ja.wikipedia.org/wiki/Category:ジャニーズ事務所 "wikilink")
 
 1.  [ジャニーズ15組76人総力結集　期間限定ユニット　歌で支える](https://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2020051302000172.html)中日スポーツ（2020年5月13日）2020年5月13日閲覧。
 2.
-3.  [ジャニーズ版Ｗｅ　ａｒｅ　ｔｈｅ　ｗｏｒｌｄだ　期間限定ユニットＴｗｅｎｔｙ★Ｔｗｅｎｔｙ結成](https://www.sanspo.com/geino/news/20200513/joh20051304000001-n1.html)サンケイスポーツ（2020年5月13日）2020年5月14日閲覧。
-4.
-5.  [ジャニーズ15組参加の期間限定ユニットTwenty★Twenty結成、楽曲提供は櫻井和寿](https://natalie.mu/music/news/378803)音楽ナタリー（2020年5月13日）2020年5月13日閲覧。
-6.  <https://friday.kodansha.co.jp/article/104445>
+3.
+4.  [ジャニーズ15組参加の期間限定ユニットTwenty★Twenty結成、楽曲提供は櫻井和寿](https://natalie.mu/music/news/378803)音楽ナタリー（2020年5月13日）2020年5月13日閲覧。
+5.  [Smile Up \! Projectよりお知らせ](https://www.johnnys-net.jp/page?id=text&dataId=1925) - johnnys-net OFFICIAL WEBSITE 2020年5月13日

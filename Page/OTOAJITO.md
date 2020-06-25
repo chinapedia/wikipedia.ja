@@ -9,7 +9,7 @@
 
 当番組のスポンサー、サッポロビールは1995年10月から2009年3月まで、当番組と同じくクリスがナビゲーターを担当する番組『[TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink")』のスポンサーであった。
 
-番組開始から2020年3月まで毎週土曜18時から1時間番組として放送されていたが、2020年4月から金曜23時へ移動と同時に放送時間が30分へと短縮された\[1\]。
+番組開始から2020年3月まで毎週土曜18時から54分番組として放送されていたが、2020年4月から金曜23時へ移動と同時に放送時間が30分へと短縮された\[1\]。
 
 ## 放送時間
 
@@ -17,11 +17,14 @@
 
 **過去の放送時間**
 
-  - 毎週土曜 18:00 - 19:00（[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - 2020年[3月28日](../Page/3月28日.md "wikilink")）
+  - 毎週土曜 18:00 - 18:54（[2009年](../Page/2009年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - 2020年[3月28日](../Page/3月28日.md "wikilink")）
 
 ## 関連項目
 
-  - [キリン一番搾り](../Page/キリン一番搾り生ビール.md "wikilink") [One More Pint\!](https://ja.wikipedia.org/wiki/One_More_Pint! "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")）- 当番組と同様、パーソナリティとゲストが一緒にビールを飲みながらトークを繰り広げる形式の番組。
+当番組と同様、パーソナリティとゲストが一緒に飲酒をしながらトークを繰り広げる形式の番組。
+
+  - [キリン一番搾り](../Page/キリン一番搾り生ビール.md "wikilink") [One More Pint\!](../Page/One_More_Pint!.md "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")）
+  - [霧島リラックスタイム](../Page/霧島酒造.md "wikilink") [焼酎ダイニング J-Fairy YASU](https://ja.wikipedia.org/wiki/焼酎ダイニング_J-Fairy_YASU "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")・一部[JFN系列局](../Page/全国FM放送協議会.md "wikilink")）
 
 ## 脚注
 

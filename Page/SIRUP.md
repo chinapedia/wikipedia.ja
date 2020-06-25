@@ -1,7 +1,7 @@
 > この記事は[SIRUP](https://ja.wikipedia.org/wiki/SIRUP)から翻訳されています。
 
 
-**SIRUP**(シラップ)は日本のラッパー。
+**SIRUP**(シラップ)は日本のシンガーソングライター。
 
 ## ディスコグラフィー
 

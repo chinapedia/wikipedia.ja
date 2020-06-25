@@ -35,13 +35,13 @@
 6.  **[闇夜](../Page/闇夜_\(Eveの曲\).md "wikilink")**
 7.  **朝が降る**
 8.  **心予報**
-    編曲:[TAKU INOUE](https://ja.wikipedia.org/wiki/TAKU_INOUE "wikilink")
+    編曲:[TAKU INOUE](https://ja.wikipedia.org/wiki/TAKU_INOUE "wikilink"),[Numa](https://ja.wikipedia.org/wiki/沼能友樹 "wikilink")
 9.  **[白銀](../Page/白銀_\(Eveの曲\).md "wikilink")**
 10. **バウムクーヘンエンド**
 11. **mellow**
 12. **ognanje**
 13. **胡乱な食卓**
-    編曲:[Eve](https://ja.wikipedia.org/wiki/Eve_\(歌手\) "wikilink")
+    編曲:[Eve](https://ja.wikipedia.org/wiki/Eve_\(歌手\) "wikilink"),[Numa](https://ja.wikipedia.org/wiki/沼能友樹 "wikilink")
 
 ## 特典
 

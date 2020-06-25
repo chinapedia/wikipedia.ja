@@ -13,7 +13,7 @@
 
 2019年[9月2日](../Page/9月2日.md "wikilink")付の[オリコン週間アルバムランキングで初登場](../Page/オリコンチャート.md "wikilink")2位を獲得した\[4\]。
 
-なお、日本においては、本作が[ウォノ](https://ja.wikipedia.org/wiki/ウォノ "wikilink")が参加した最後のアルバムとなった。
+なお、日本においては、本作が[ウォノ](../Page/ウォノ.md "wikilink")が参加した最後のアルバムとなった。
 
 ## 仕様
 
@@ -87,7 +87,7 @@
 13. （[隠しトラック](../Page/隠しトラック.md "wikilink")）
       -
         正式なタイトルは不明。
-        5分間の無音の後、初回限定盤Aには[ウォノ](https://ja.wikipedia.org/wiki/ウォノ "wikilink")と[ジュホン](https://ja.wikipedia.org/wiki/ジュホン "wikilink")、初回限定盤Bにはショヌと[キヒョン](../Page/キヒョン.md "wikilink")、通常盤はミニョクとヒョンウォンとI.Mのボイスメッセージが収録されている。
+        5分間の無音の後、初回限定盤Aには[ウォノ](../Page/ウォノ.md "wikilink")と[ジュホン](https://ja.wikipedia.org/wiki/ジュホン "wikilink")、初回限定盤Bにはショヌと[キヒョン](../Page/キヒョン.md "wikilink")、通常盤はミニョクとヒョンウォンとI.Mのボイスメッセージが収録されている。
 
 ## 脚注
 

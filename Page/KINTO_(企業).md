@@ -7,7 +7,7 @@
 
 ## 概要
 
-トヨタ車23車種とレクサス車8車種の新車の中から選べる。頭金なしで税金や任意保険の支払い、メンテナンスなどの手続きもすべてワンパッケージ化した月々定額制で、3年間利用できるサービスである。また、特徴的なのはWEBで申し込みから契約まで行える点である。
+トヨタ車23車種とレクサス車8車種の新車の中から選べる。頭金なしで税金や任意保険の支払い、メンテナンスなどの手続きもすべてワンパッケージ化した月々定額制で、3年、５年、７年と期間が選択できるほか、契約期間中に別プランに乗り換えが可能となる「のりかえGO」がある。また、特徴的なのはWEBで申し込みから契約まで行える点である。
 
 ## サービスの特徴
 
@@ -50,9 +50,11 @@
 
   - [株式会社KINTO コーポレートサイト](https://corp.kinto-jp.com/)
   - [KINTO ONE](https://kinto-jp.com/kinto_one/)
+  - [KINTO FLEX](https://kinto-jp.com/kinto_flex/)
   - [公式twitter「KINTO～クルマのサブスク、トヨタから～【キント公式】」](https://twitter.com/KINTO_JP)
   - [公式instgram「愛車サブスクリプション KINTO」](https://www.instagram.com/kinto_jp/)
   - [公式Facebook「株式会社KINTO」](https://www.facebook.com/KINTOJP/)
+  - [公式LINE「KINTO」](https://line.me/R/ti/p/%40733wvygu)
   - [公式 YouTube「愛車サブスクリプションKINTO」](https://www.youtube.com/channel/UC3ap_PduzYM6MINNeFLRonA)
 
 [Category:トヨタ自動車](https://ja.wikipedia.org/wiki/Category:トヨタ自動車 "wikilink") [Category:トヨタグループ](https://ja.wikipedia.org/wiki/Category:トヨタグループ "wikilink") [Category:日本の自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本の自動車メーカー・ブランド "wikilink") [Category:日本の多国籍企業](https://ja.wikipedia.org/wiki/Category:日本の多国籍企業 "wikilink") [Category:住友商事グループ](https://ja.wikipedia.org/wiki/Category:住友商事グループ "wikilink") [Category:三井住友フィナンシャルグループ](https://ja.wikipedia.org/wiki/Category:三井住友フィナンシャルグループ "wikilink") [Category:サブスクリプション方式](https://ja.wikipedia.org/wiki/Category:サブスクリプション方式 "wikilink") [Category:モビリティサービス](https://ja.wikipedia.org/wiki/Category:モビリティサービス "wikilink") [Category:MaaS](https://ja.wikipedia.org/wiki/Category:MaaS "wikilink") [Category:テレマティクス](https://ja.wikipedia.org/wiki/Category:テレマティクス "wikilink") [Category:カーリース](https://ja.wikipedia.org/wiki/Category:カーリース "wikilink") [Category:名古屋市西区の企業](https://ja.wikipedia.org/wiki/Category:名古屋市西区の企業 "wikilink") [Category:2019年設立の企業](https://ja.wikipedia.org/wiki/Category:2019年設立の企業 "wikilink")

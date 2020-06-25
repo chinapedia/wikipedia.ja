@@ -11,7 +11,7 @@
   - 前作のミニアルバムから10ヶ月ぶりのリリース。
   - 1stフルアルバムからは1年5ヶ月ぶりのアルバムである。
   - 全国流通3枚目のアルバム。
-  - [2019年](../Page/2019年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")にLINE MUSICのみで先行配信された。
+  - [2019年](../Page/2019年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[LINE MUSICのみで先行配信された](https://ja.wikipedia.org/wiki/LINE_MUSIC "wikilink")。
   - 今作は「[YouTube Music](https://ja.wikipedia.org/wiki/YouTube_Music "wikilink")」にも配信された\[1\]。
 
 ## チャート成績

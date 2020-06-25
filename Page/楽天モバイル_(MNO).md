@@ -65,7 +65,7 @@
 
   - [楽天モバイル](https://mobile.rakuten.co.jp/)
 
-[Category:日本の携帯電話事業者](https://ja.wikipedia.org/wiki/Category:日本の携帯電話事業者 "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink")
+[Category:携帯電話_(楽天モバイル)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(楽天モバイル\) "wikilink")
 
 1.
 2.

@@ -32,32 +32,31 @@
 <!-- end list -->
 
   - 5月13日、[DYGL](https://ja.wikipedia.org/wiki/DYGL "wikilink")の[ギター](../Page/ギター.md "wikilink")を担当するYosuke Shimonakaを客演に迎えた新曲『Heaven ft. Yosuke Shimonaka』をリリース。ミックスは[illicit tsuboiが担当](../Page/キエるマキュウ.md "wikilink")。新しいアーティスト写真およびジャケットの写真はShusaku Yoshikawaが撮影。\[10\]
+  - 5月27日、[Matmosの片割れであるDrew](https://ja.wikipedia.org/wiki/マトモス "wikilink") Danielによるソロ・プロジェクトThe Soft Pink Truthのクラストパンク・カバーアルバム『Am I Free To Go?』に、ハードコアバンドDisclose「Hellish View」のカバーで参加。
+  - 5月28日、若き異能たちが集結したYouTube発のクリエイティブレーベル<KAMITSUBAKI STUDIO>が送り出す新たなヴァーチャル・シンガーte'resaのデビュー曲『Drippin'』に[DAOKO](https://ja.wikipedia.org/wiki/DAOKO "wikilink")や[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")など様々な著名アーティストへの楽曲提供も行っているサウンドクリエイター[Hideya Kojimaらと共に参加](https://ja.wikipedia.org/wiki/ORESAMA "wikilink")。[Wakumoto Tomotaka](http://wakumoto.work/)がディレクター、[wataboku](https://www.wataboku.com/)がビジュアルデザインを務めた[ミュージックビデオ](https://www.youtube.com/watch?v=TBcDxrHr_e8)も公開された。\[11\]\[12\]
 
 <!-- end list -->
 
-  - 5月29日、「Labyrinth of Summer (KM Remix)」が収録された、日本のエレクトロニック・プロデューサーCVNによるキュレーションで全12アーティストが参加する、デジタル・リリースがデフォルトの世代を中心にしながら、＜パッケージ版＞を主眼にした2020s新世代コンピレーション『S.D.S =零=』をEM Recordsよりリリース予定。（5月29日にCD/LP/DLの販売開始、6月12日にストリーミング配信開始予定）\[11\]
-
-<!-- end list -->
-
-  - 6月17日、NTsKiが客演として参加した楽曲「bubbles feat. NTsKi」が収録された、South Penguin初のアナログリリースとなる『bubbles / mad love』が[Pヴァイン](../Page/Pヴァイン.md "wikilink")よりリリース予定。\[12\]
+  - 6月17日、NTsKiが客演として参加した楽曲「bubbles feat. NTsKi」が収録された、South Penguin初のアナログリリースとなる『bubbles / mad love』が[Pヴァイン](../Page/Pヴァイン.md "wikilink")よりリリース予定。\[13\]
+  - 6月19日、「Labyrinth of Summer (KM Remix)」が収録された、日本のエレクトロニック・プロデューサーCVNによるキュレーションで全12アーティストが参加する、デジタル・リリースがデフォルトの世代を中心にしながら、＜パッケージ版＞を主眼にした2020s新世代コンピレーション『S.D.S =零=』をEM Recordsよりリリース予定。（6月19日にCD/LP/DLの販売開始、6月12日にストリーミング配信開始予定）\[14\]
 
 ## 演奏スタイル
 
-環境はMacBook Pro、Logic Pro X、Native Instrumentsプラグイン等、アナログシンセ、マイクはaudio-technicaのAT4050を使用。BOSS Loop Station RC-30をすぐに使えるよう近くに置き、そこに保存されているボーカルループをLogic Pro X内で再現するという作業をメインに行っている。\[13\]
+環境はMacBook Pro、Logic Pro X、Native Instrumentsプラグイン等、アナログシンセ、マイクはaudio-technicaのAT4050を使用。BOSS Loop Station RC-30をすぐに使えるよう近くに置き、そこに保存されているボーカルループをLogic Pro X内で再現するという作業をメインに行っている。\[15\]
 
 ## ディスコグラフィー
 
 ### シングル
 
-  - H S K（2016年、AMINO ACID）
-  - Fig（2018年、AMINO ACID）
-  - 真夏のラビリンス（2018年、AMINO ACID）
-  - Tree Song（2018年、AMINO ACID）
-  - [1992](https://aminoacid.stores.jp/items/5d8030df65d3262e3b789c57)（2018年、AMINO ACID）
-  - Labyrinth of Summer（KM Remix）（2019年、AMINO ACID）
-  - [D’Ya Hear Me\!](https://aminoacid.stores.jp/items/5defc3d863538a0c9bd46cf8)（2019年、[EM Records](https://www.emrecords.net/)）
-  - [The New Japan Islands](https://thenewjapanislands.com/history/2019/index.html)（2020年、AMINO ACID）
-  - Heaven ft. Yosuke Shimonaka（2020年、AMINO ACID）
+  - H S K（2016年8月29日、AMINO ACID）
+  - Fig（2018年3月12日、AMINO ACID）
+  - 真夏のラビリンス（2018年10月24日、AMINO ACID）
+  - Tree Song（2018年11月21日、AMINO ACID）
+  - [1992](https://aminoacid.stores.jp/items/5d8030df65d3262e3b789c57)（2018年12月5日、AMINO ACID）
+  - Labyrinth of Summer（KM Remix）（2019年10月23日、AMINO ACID）
+  - [D’Ya Hear Me\!](https://aminoacid.stores.jp/items/5defc3d863538a0c9bd46cf8)（2019年10月28日、[EM Records](https://www.emrecords.net/)）
+  - [The New Japan Islands](https://thenewjapanislands.com/history/2019/index.html)（2020年1月1日、AMINO ACID）
+  - Heaven ft. Yosuke Shimonaka（2020年5月13日、AMINO ACID）
 
 ### ミュージックビデオ
 
@@ -75,12 +74,14 @@
 | --------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 2017年     | Hun Sen                                                                       | Lafidki『Chinabot』（We Be Friends)                                                               |
 | 2017年     | [Foodman](https://ja.wikipedia.org/wiki/食品まつり "wikilink") & NTsKi - Three Man | Various Artists『TAR Class of 2017 Vol.Ⅱ』(TAR)                                                  |
-| 2019年     | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink")『Ride On Time』（Mary Joy Recordings）\[14\]   |
+| 2019年     | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink")『Ride On Time』（Mary Joy Recordings）\[16\]   |
 | 2019年     | 成分 Seibun                                                                     | CVN『I.C.』（[Orange Milk](https://ja.wikipedia.org/wiki/Orange_Milk "wikilink")）                 |
 | 2019年     | Crystal feat. NTsKi                                                           | Xin Seha『1000』（POCLANOS）                                                                       |
-| 2019年     | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink") × KM『More Wave』（Mary Joy Recordings）\[15\] |
-| 2020年5月予定 | Labyrinth of Summer (KM Remix)                                                | Various Artists『S.D.S =零= (Subscription Double Suicide =Zero=』（EM Records）\[16\]               |
-| 2020年6月予定 | bubbles feat. NTsKi                                                           | South Penguin『bubbles / mad love』（[P-VINE RECORDS](../Page/Pヴァイン.md "wikilink")）\[17\]         |
+| 2019年     | Anywhere feat. NTsKi                                                          | [田我流](https://ja.wikipedia.org/wiki/田我流 "wikilink") × KM『More Wave』（Mary Joy Recordings）\[17\] |
+| 2020年     | Hellish View (Disclose cover)                                                 | The Soft Pink Truth『Am I Free To Go?』                                                          |
+| 2020年     | Drippin'                                                                      | te'resa『[Drippin'](https://www.youtube.com/watch?v=TBcDxrHr_e8)』                               |
+| 2020年6月予定 | Labyrinth of Summer (KM Remix)                                                | Various Artists『S.D.S =零= (Subscription Double Suicide =Zero=』（EM Records）\[18\]               |
+| 2020年6月予定 | bubbles feat. NTsKi                                                           | South Penguin『bubbles / mad love』（[P-VINE RECORDS](../Page/Pヴァイン.md "wikilink")）\[19\]         |
 
 ## 外部リンク
 
@@ -117,3 +118,5 @@
 15.
 16.
 17.
+18.
+19.

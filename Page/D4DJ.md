@@ -89,10 +89,10 @@
     声 - [進藤あまね](https://ja.wikipedia.org/wiki/進藤あまね "wikilink")\[23\]
     生真面目な性格で風紀委員を買って出るが、いつも厄介事に巻き込まれてしまうお人好し。DJ活動に興味のないそぶりを見せているが、オーディオマニアの血が騒いでいる。
   - 白鳥胡桃（しらとり くるみ）
-    声 - [深川瑠華](https://ja.wikipedia.org/wiki/深川瑠華 "wikilink")\[24\]
+    声 - [深川瑠華](../Page/深川瑠華.md "wikilink")\[24\]
     名家の子女が通う厳格な学校生活に退屈していて、常にいたずらを企んでいる。トラブルに神対応で解決してくれる美夢に頭が上がらない（でも、いたずらはやめない！）。
   - 竹下みいこ（たけした みいこ）
-    声 - [渡瀬結月](https://ja.wikipedia.org/wiki/渡瀬結月 "wikilink")\[25\]
+    声 - [渡瀬結月](../Page/渡瀬結月.md "wikilink")\[25\]
     遊ぶのが大好きで、美夢たちのことも大好き。天衣無縫で何を考えているのかわからないが、実は何も考えていないだけ。お化け屋敷やホラー映画も笑って楽しんじゃうタイプ。
 
 ## 音楽プロデューサー
@@ -227,9 +227,9 @@ Lyrical Lily</p></td>
 
 ### Happy Around\!
 
-| \#  | 出演日          | タイトル                       | 会場                                                                | 備考                                     |
-| --- | ------------ | -------------------------- | ----------------------------------------------------------------- | -------------------------------------- |
-| 1st | 2020年6月20日予定 | Happy Around\! 1st LIVE（仮） | [LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink") | 2020年3月27日に下北沢GARDENで開催を予定していたライブの振替公演 |
+| \#  | 出演日 | タイトル                       | 会場  | 備考                                     |
+| --- | --- | -------------------------- | --- | -------------------------------------- |
+| 1st | TBA | Happy Around\! 1st LIVE（仮） | TBA | 2020年3月27日に下北沢GARDENで開催を予定していたライブの振替公演 |
 
 ## 参加イベント
 
@@ -245,10 +245,6 @@ Lyrical Lily</p></td>
 ### 燐舞曲
 
   - スペシャプラスまつり　-鏡花水月- （2019年12月1日、[Shibuya WWW X](https://ja.wikipedia.org/wiki/WWW_\(ライブハウス\) "wikilink")）
-
-### Peaky P-key
-
-  - Animelo Summer Live 2020 -COLORS-（2020年8月28日予定、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）
 
 ## ネット配信
 
@@ -271,6 +267,7 @@ Lyrical Lily</p></td>
   - グルミクをディグろう！！ 出張版（2020年3月25日-、Youtube）- 西尾、根岸
   - \#D4DJ_StayHome（2020年4月26日、[Twitch](https://ja.wikipedia.org/wiki/Twitch "wikilink")）- 西尾
   - \#D4DJ_StayHome（2020年4月27日、Twitch）- つんこ
+  - \#D4DJ_DJTIME（2020年5月29日、Twitch）- 高木
 
 ### Happy Around\!
 
@@ -374,7 +371,7 @@ Lyrical Lily</p></td>
   - ぽっぴん’しゃっふる（[Poppin'Party](https://ja.wikipedia.org/wiki/Poppin'Party "wikilink")）
   - [ココロオドル](https://ja.wikipedia.org/wiki/ココロオドル "wikilink")（[nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")）
   - [ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")（DALI）
-  - [恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+  - [恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
   - [DAYS](../Page/DAYS_\(FLOWの曲\).md "wikilink") （[FLOW](../Page/FLOW.md "wikilink")）
   - Happy Music♪\[29\]
 
@@ -391,7 +388,7 @@ Lyrical Lily</p></td>
   - ブルー・フィールド（Trident）
   - [HOT LIMIT](../Page/HOT_LIMIT.md "wikilink")（[T.M. Revolution](https://ja.wikipedia.org/wiki/T.M._Revolution "wikilink")）
   - [シドニア](https://ja.wikipedia.org/wiki/シドニア_\(曲\) "wikilink")（[angela](https://ja.wikipedia.org/wiki/angela_\(音楽ユニット\) "wikilink")）
-  - [READY STEADY GO](https://ja.wikipedia.org/wiki/READY_STEADY_GO "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）
+  - [READY STEADY GO](../Page/READY_STEADY_GO_\(L'Arc〜en〜Cielの曲\).md "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）
 
 #### Merm4id
 

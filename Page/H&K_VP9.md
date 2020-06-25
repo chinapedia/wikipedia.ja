@@ -1,7 +1,7 @@
 > この記事は[H\&K VP9](https://ja.wikipedia.org/wiki/H\&K_VP9)から翻訳されています。
 
 
-**H\&K VP9**もしくは**SFP9**(欧州およびカナダ市場での名称)は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[銃](../Page/銃.md "wikilink")器メーカーである[H\&K社が開発し](../Page/ヘッケラー&コッホ.md "wikilink")、製造している[自動拳銃である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。
+**H\&K VP9**もしくは**SFP9**(欧州およびカナダ市場での名称)は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[銃](../Page/銃.md "wikilink")器メーカーである[H\&K社が開発し](../Page/ヘッケラー&コッホ.md "wikilink")、2014年から製造している[自動拳銃である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。
 
 ## 概要
 

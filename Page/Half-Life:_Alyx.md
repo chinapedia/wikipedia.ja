@@ -3,7 +3,7 @@
 
 『**Half-Life：Alyx**』（**ハーフライフ アリックス**）は、[Valveが開発](../Page/Valve_Corporation.md "wikilink")・発売した2020年の[バーチャル・リアリティ](../Page/バーチャル・リアリティ.md "wikilink")（VR） [ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。『[ハーフライフ2](../Page/ハーフライフ2.md "wikilink")』（2004）の[前日譚](https://ja.wikipedia.org/wiki/前日譚 "wikilink")となる本作では、プレイヤーは地球を占領するエイリアン「コンバイン」（Combine）を相手に父親のイーライ（Eli）と共に戦うアリックス・バンス（Alyx Vance）を操作する。プレイヤーはVRを使って環境と関わり、敵と戦い、ハーフライフ2のグラビティガンのように「グラビティグローブ」を使ってオブジェクトを操作する。探索、パズル、物理ベースの戦闘などのシリーズの伝統的な要素も復活する。
 
-大規模なVRゲームの需要を認識していたValveは2015年にハーフライフのVRゲームの実験を開始した。2016年にはValveの歴史上最大のチームによって本格的に制作が開始された。Valveが同社の「フラッグシップ」VRゲームと位置付けるはSource 2エンジンを使用して開発され、すべてのPC互換VRヘッドセットをサポートする。『Half-Life 2：Episode Two』（2007）以来初となるハーフライフゲームであり、2020年3月23日に[Windows向けに発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。 本作は批評家の称賛を得ており、VRの最初の[キラーアプリ](https://ja.wikipedia.org/wiki/キラーアプリ "wikilink")と表現された。批評家は同作のグラフィック、声の演技、脚本、懐かしさ及び雰囲気を称賛した。
+大規模なVRゲームの需要を認識していたValveは2015年にハーフライフのVRゲームの実験を開始した。2016年にはValveの歴史上最大のチームによって本格的に制作が開始された。Valveが同社の「フラッグシップ」VRゲームと位置付ける本作はSource 2エンジンを使用して開発され、すべてのPC互換VRヘッドセットをサポートする。『Half-Life 2：Episode Two』（2007）以来初となるハーフライフゲームであり、2020年3月23日に[Windows向けに発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。 本作は批評家の称賛を得ており、VRの最初の[キラーアプリ](https://ja.wikipedia.org/wiki/キラーアプリ "wikilink")と表現された。批評家は同作のグラフィック、声の演技、脚本、懐かしさ及び雰囲気を称賛した。
 
 ## ゲームプレイ
 

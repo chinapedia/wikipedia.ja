@@ -1,7 +1,7 @@
 > この記事は[SO-51A](https://ja.wikipedia.org/wiki/SO-51A)から翻訳されています。
 
 
-ドコモ スマートフォン Xperia 1 II（エクスペリアワンマークツー）、**SO-51A**とは、[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")が開発し、2020年5月下旬以降\[1\]に[ドコモ](https://ja.wikipedia.org/wiki/ドコモ "wikilink")が発売予定のスマートフォンである。
+**ドコモ スマートフォン Xperia 1 II SO-51A**（エクスペリアワンマークツー エスオーゴイチエー）とは、[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")が開発し、2020年6月以降\[1\]に[ドコモ](https://ja.wikipedia.org/wiki/ドコモ "wikilink")が発売予定のスマートフォンである。
 
 [Xperia](https://ja.wikipedia.org/wiki/Xperia "wikilink")初の[docomo 5G対応スマホ](https://ja.wikipedia.org/wiki/docomo_5G "wikilink")。
 

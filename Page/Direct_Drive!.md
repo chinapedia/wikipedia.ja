@@ -40,6 +40,8 @@
 
 ## 脚注
 
+### 出典
+
 [Category:ブシロードミュージックのアルバム](https://ja.wikipedia.org/wiki/Category:ブシロードミュージックのアルバム "wikilink") [Category:2020年のアルバム](https://ja.wikipedia.org/wiki/Category:2020年のアルバム "wikilink")
 
 1.

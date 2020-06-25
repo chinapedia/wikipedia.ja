@@ -62,7 +62,7 @@
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="https://ja.wikipedia.org/wiki/7月" title="wikilink">7月</a>加入[9]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/村上由歩" title="wikilink">村上由歩</a></strong><br />
+<td><p><strong>村上由歩</strong><br />
 （むらかみ ゆうほ）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
@@ -125,125 +125,118 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>正式メンバー[10]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/沖津海友" title="wikilink">沖津海友</a></strong><br />
+<td><p><strong><a href="../Page/沖津海友.md" title="wikilink">沖津海友</a></strong><br />
 （おきつ　みゆ）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/岡宮来夢" title="wikilink">岡宮来夢</a></strong><br />
-（おかみや くるむ）</p></td>
-<td></td>
-<td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>池上翔</strong><br />
 （いけがみ　しょう）</p></td>
 <td></td>
 <td><p>長野県</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>岩田知樹</strong><br />
 （いわた　ともき）</p></td>
 <td></td>
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>富永盛也</strong><br />
 （とみなが　せいや）</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>正式メンバー[11]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>山際海斗</strong><br />
 （やまぎわ　かいと）</p></td>
 <td></td>
 <td><p>東京都</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>加入[12]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>百瀬拓実</strong><br />
 （ももせ　たくみ）</p></td>
 <td></td>
 <td><p>千葉県</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a>加入[13]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>依田啓嗣</strong><br />
 （よだ　たかし）</p></td>
 <td></td>
 <td><p>東京都</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>沢柳健</strong><br />
 （さわやなぎ　けん）</p></td>
 <td></td>
 <td><p>東京都</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/新井裕介" title="wikilink">新井裕介</a></strong><br />
 （あらい　ゆうすけ）</p></td>
 <td></td>
 <td><p>埼玉県</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>山本学</strong><br />
 （やまもと　まなぶ）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>田中ジョシュア</strong><br />
 （たなか　じょしゅあ）</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカ" title="wikilink">アメリカ</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>佐々木駿</strong><br />
 （ささき　はやて）</p></td>
 <td></td>
 <td><p>北海道</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>春口尚人</strong><br />
 （はるぐち　なおと）</p></td>
 <td></td>
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>チャンへ</strong><br />
 （ちゃんへ）</p></td>
 <td></td>
 <td><p>神奈川県</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a>加入 [14]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>竹鼻優太</strong><br />
 （たけはな　ゆうた）</p></td>
 <td></td>
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a>加入 [15]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>庄司浩平</strong><br />
 （しょうじ　こうへい）</p></td>
 <td></td>
 <td><p>東京都</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="https://ja.wikipedia.org/wiki/10月" title="wikilink">10月</a>加入 [16]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -381,6 +374,21 @@
 <td><p>結成時</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/岡宮来夢" title="wikilink">岡宮来夢</a></strong><br />
+（おかみや くるむ）</p></td>
+<td><p>2020年5月31日[21][22]</p></td>
+<td><p>卒業</p></td>
+<td><p>結成時</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -392,7 +400,7 @@
 
 :\* 演出：[伊藤マサミ](https://ja.wikipedia.org/wiki/伊藤マサミ "wikilink")
 
-:\* 日程・会場：2018年6月14日～17日、東京都 AiiA 2.5 Theater Tokyo \[21\]
+:\* 日程・会場：2018年6月14日～17日、東京都 AiiA 2.5 Theater Tokyo \[23\]
 
   -
 
@@ -402,7 +410,7 @@
 
 :\* 演出：押見泰憲（[犬の心](../Page/犬の心.md "wikilink")）
 
-:\* 日程・会場：2019年3月6日～9日、神保町花月\[22\]
+:\* 日程・会場：2019年3月6日～9日、神保町花月\[24\]
 
   -
 
@@ -410,7 +418,7 @@
 
 :\* 作・演出：[川尻恵太](https://ja.wikipedia.org/wiki/川尻恵太 "wikilink")
 
-:\* 日程・会場：2019年7月20日～28日、東京都 品川プリンスホテル クラブeX \[23\]
+:\* 日程・会場：2019年7月20日～28日、東京都 品川プリンスホテル クラブeX \[25\]
 
   -
 
@@ -420,7 +428,7 @@
 
 :\* 作家：中村元樹、池田亮
 
-:\* 日程・会場：2019年9月6日～8日、神保町花月\[24\]
+:\* 日程・会場：2019年9月6日～8日、神保町花月\[26\]
 
   -
 
@@ -430,12 +438,12 @@
 
 ### イベント
 
-  - 男劇団 青山表参道X 1st Fan Event X’masParty (2017年12月25日、東京・原宿クエストホール)\[25\]
+  - 男劇団 青山表参道X 1st Fan Event X’masParty (2017年12月25日、東京・原宿クエストホール)\[27\]
   - 男劇団 青山表参道X 2nd Fan Event～ファンクラブ結成記念！ここから盛り上がっていくぞー！～　(2018年2月24日、東京・原宿クエストホール)
   - 男劇団 青山表参道X3rd Fan Event ～Happy White Day 2018～ (2018年3月12日、東京・[品川 THE GRAND HALL](../Page/品川グランドセントラルタワー.md "wikilink"))
   - 男劇団 青山表参道Xコラボレーションカフェ (2018年6月23日-7月16日、コラボレーションカフェ原宿竹下店)
   - 男劇団 青山表参道X 4th Fan Event～1周年記念！大人も子供もO-AOX’mas Party～ (2018年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))
-  - 5th Fan Event ～2周年記念！今年は僕たちがサンタクロースだ！～ (2019年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))\[26\]
+  - 5th Fan Event ～2周年記念！今年は僕たちがサンタクロースだ！～ (2019年12月24日、東京・[よみうり大手町ホール](https://ja.wikipedia.org/wiki/読売新聞東京本社#よみうり大手町ホール "wikilink"))\[28\]
 
 ### 主な個人の出演
 
@@ -477,3 +485,5 @@
 24.
 25.
 26.
+27.
+28.

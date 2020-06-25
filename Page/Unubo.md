@@ -9,9 +9,11 @@
 
 同社CEOであるLeandro Thomas氏のツイートによると、Unuboという名前は[エスペラント](https://ja.wikipedia.org/wiki/エスペラント "wikilink")で「雲を統一する」という意味の「Unuigi Nubo」の略称とされている。\[2\]
 
+[2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")、Unuboは[Twitter](../Page/Twitter.md "wikilink")上においてサービスのシャットダウンを発表した。\[3\]
+
 ## 対応環境
 
-対応状況は公式ドキュメント\[3\]による。
+対応状況は公式ドキュメント\[4\]による。
 
 ### Webアプリケーション
 
@@ -62,3 +64,4 @@
 1.
 2.
 3.
+4.

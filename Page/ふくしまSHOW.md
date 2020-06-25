@@ -86,6 +86,13 @@
 <td><p>柳沢慎吾 (リモート出演)</p></td>
 <td><p>コロナウイルスの影響により特別編(未公開SP)となった。</p></td>
 </tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>5月27日</p></td>
+<td><p>訪れた場所: 石川町</p></td>
+<td><p>なし</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -99,3 +106,5 @@
 ## テーマ曲
 
 ## 外部リンク
+
+[Category:東北地方のバラエティ番組](https://ja.wikipedia.org/wiki/Category:東北地方のバラエティ番組 "wikilink") [Category:テレビユー福島の番組](https://ja.wikipedia.org/wiki/Category:テレビユー福島の番組 "wikilink")

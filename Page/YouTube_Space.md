@@ -1,9 +1,9 @@
 > この記事は[YouTube Space](https://ja.wikipedia.org/wiki/YouTube_Space)から翻訳されています。
 
 
-**YouTube Space**（ユーチューブ スペース）は、クリエイターのためにYouTubeが設立した場所であり、ロサンゼルスやロンドンなどの複数の都市にある\[1\]。
+**YouTube Space**（ユーチューブ スペース）は、クリエイターのために[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")が設立した施設であり、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")や[ロンドン](../Page/ロンドン.md "wikilink")などの複数の都市にある\[1\]。
 
-YouTube Spaceは完全に無料で使用でき、YouTubeは機器、スタジオスペース、ポストプロダクション施設、トレーニング、ワークショップを提供している。ただし、クリエーターは、必要に応じて自分でスタッフを雇う必要がある\[2\]。現在、世界中に10のYouTube Spaceがある\[3\]。これら常設スペースの他に期間限定のポップアップスペースも存在する。ポップアップスペースはこれまでにバンコク、マドリッド、メキシコシティの三都市でオープンされている。
+YouTube Spaceは条件を満たせば完全に無料で使用でき、YouTubeは機器、スタジオスペース、ポストプロダクション施設、トレーニング、ワークショップを提供している。ただし、クリエーターは、必要に応じて自分でスタッフを雇う必要がある\[2\]。[2020年](../Page/2020年.md "wikilink")時点で世界中に10のYouTube Spaceがある\[3\]。これら常設スペースの他に期間限定のポップアップスペースも存在する。ポップアップスペースはこれまでに[バンコク](../Page/バンコク.md "wikilink")、[マドリッド](../Page/マドリード.md "wikilink")、[メキシコシティ](../Page/メキシコシティ.md "wikilink")の三都市でオープンされている。
 
 ## 所在地
 
@@ -63,6 +63,7 @@ YouTube Spaceは完全に無料で使用でき、YouTubeは機器、スタジオ
 
   - [世界各地の YouTube Space](https://www.youtube.com/intl/ja/space/)
 
+  -
 [Category:YouTube](https://ja.wikipedia.org/wiki/Category:YouTube "wikilink") [Category:アメリカ合衆国のウェブサイト](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のウェブサイト "wikilink") [Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:ソーシャル・ネットワーキング・サービス](https://ja.wikipedia.org/wiki/Category:ソーシャル・ネットワーキング・サービス "wikilink") [Category:アメリカ合衆国のインターネット企業](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のインターネット企業 "wikilink") [Category:Googleのサービス](https://ja.wikipedia.org/wiki/Category:Googleのサービス "wikilink") [Category:インターネットテレビ局](https://ja.wikipedia.org/wiki/Category:インターネットテレビ局 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.

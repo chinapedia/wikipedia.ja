@@ -156,3 +156,5 @@
 ・[eye＋スーパー - 高知放送](http://www.rkc-kochi.co.jp/tv/eyeplussuper/index.html)
 
 ・[eye＋スーパー 公式 Twitter](https://twitter.com/RKC_eyeplus)
+
+[Category:高知放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:高知放送のテレビ番組 "wikilink")

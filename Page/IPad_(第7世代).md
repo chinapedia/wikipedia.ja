@@ -19,6 +19,8 @@ Apple Pencil (第1世代)も第6世代同様に、本モデルでも使用可能
 
 一番安いモデルでも、端末価格が第6世代の37,800円から34,800円と安くなっている。
 
+このモデルに防水機能は搭載されなかった
+
 ## 出典
 
 [Category:iPad](https://ja.wikipedia.org/wiki/Category:iPad "wikilink") [Category:携帯電話端末_(アップル)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(アップル\) "wikilink") [Category:携帯可能なコンピュータ](https://ja.wikipedia.org/wiki/Category:携帯可能なコンピュータ "wikilink") [Category:タブレット型端末](https://ja.wikipedia.org/wiki/Category:タブレット型端末 "wikilink") [Category:2019年のハードウェア](https://ja.wikipedia.org/wiki/Category:2019年のハードウェア "wikilink")

@@ -84,7 +84,7 @@ Miek Gieben は Caddy Web サーバーのフォークから CoreDNS を作成し
 
   -
   -
-[Category:Web_サーバー](https://ja.wikipedia.org/wiki/Category:Web_サーバー "wikilink") [Category:オープンソース](https://ja.wikipedia.org/wiki/Category:オープンソース "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:Go_言語_のソフトウェア](https://ja.wikipedia.org/wiki/Category:Go_言語_のソフトウェア "wikilink") [Category:オープンソースのサーバー](https://ja.wikipedia.org/wiki/Category:オープンソースのサーバー "wikilink") [Category:オープンソースのソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースのソフトウェア "wikilink") [Category:HTTP/2](https://ja.wikipedia.org/wiki/Category:HTTP/2 "wikilink") [Category:QUIC](https://ja.wikipedia.org/wiki/Category:QUIC "wikilink")
+[Category:Webサーバ](https://ja.wikipedia.org/wiki/Category:Webサーバ "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:インターネットのプロトコル](https://ja.wikipedia.org/wiki/Category:インターネットのプロトコル "wikilink")
 
 1.
 2.

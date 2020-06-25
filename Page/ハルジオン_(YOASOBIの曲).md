@@ -1,7 +1,7 @@
 > この記事は[ハルジオン \(YOASOBIの曲\)](https://ja.wikipedia.org/wiki/ハルジオン_\(YOASOBIの曲\))から翻訳されています。
 
 
-『**ハルジオン**』 は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")ユニット[YOASOBI](../Page/YOASOBI.md "wikilink")の楽曲。3作目のデジタル配信限定シングルとして2020年5月11日に各音楽配信サービスにてリリースされた。
+「**ハルジオン**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")ユニット[YOASOBI](../Page/YOASOBI.md "wikilink")の楽曲。3作目の配信限定シングルとして[2020年](../Page/2020年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")にリリースされた。
 
 ## 概要
 
@@ -12,13 +12,13 @@
 ## 収録曲
 
 1.  **ハルジオン**
-      - 作詞・作曲・編曲:Ayase
-          - 原作:[橋爪駿輝](https://ja.wikipedia.org/wiki/橋爪駿輝 "wikilink")『それでも、ハッピーエンド』
+      - 作詞・作曲・編曲：[Ayase](../Page/Ayase.md "wikilink")
+          - 原作：[橋爪駿輝](https://ja.wikipedia.org/wiki/橋爪駿輝 "wikilink")『それでも、ハッピーエンド』
           - ZONe IMMERSIVE SONG PROJECTとのコラボ楽曲\[7\]。
 
 ## 脚注
 
-[Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink") [Category:YOASOBI](https://ja.wikipedia.org/wiki/Category:YOASOBI "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink")
+[Category:YOASOBI](https://ja.wikipedia.org/wiki/Category:YOASOBI "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  [YOASOBI 超没入エナジードリンク「ZONe Ver.1.0.0」とのコラボ楽曲「ハルジオン」が５/11(月)リリース決定！本日より原作小説も公開！](https://prtimes.jp/main/html/rd/p/000000051.000014577.html)
 2.  [YOASOBI、新曲「ハルジオン」を5/11に配信リリース＋本日より原作小説公開](https://www.barks.jp/news/?id=1000182055)

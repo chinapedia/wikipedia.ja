@@ -1,7 +1,7 @@
 > この記事は[Dropout \(SEKAI NO OWARIの曲\)](https://ja.wikipedia.org/wiki/Dropout_\(SEKAI_NO_OWARIの曲\))から翻訳されています。
 
 
-「Dropout」（ドロップアウト）は、日本のバンド、[SEKAI NO OWARIの](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")4作目の配信限定シングル。
+「Dropout」（ドロップアウト）は、日本のバンド、[SEKAI NO OWARIの](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")5作目の配信限定シングル。
 
 ## 概要
 

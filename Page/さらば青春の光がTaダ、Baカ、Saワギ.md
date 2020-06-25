@@ -105,7 +105,7 @@
 <a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）</p></td>
 <td><p>JRN/NRN</p></td>
 <td><p>2020年4月11日</p></td>
-<td><p>土曜18:00 - 18:30</p></td>
+<td><p>日曜22:30 - 23:00</p></td>
 <td><p>遅れネット</p></td>
 </tr>
 <tr class="odd">

@@ -96,14 +96,14 @@
 ## 来歴
 
   - 2017年6月、立花まこ、塩藤さやの、星乃さゆみ、ニーナ・ショコラ、佐乃茉莉、アンズ卍100%で結成。
-  - 2017年6月26日 代々木museデビューLive
-  - 2017年12月21日 ZircoTokyo ワンマンLIVE～アイドルの逆襲～
-  - 2018年1月8日 佐乃茉莉 脱退
-  - 2018年4月5日 渋谷clubasia 2ndワンマンライブ～限界突破の無限OSE\!\!～
-  - 2018年12月29日 名古屋大須RADHALL 3rdワンマンライブ
-  - 2019年6月7日 メンバーに重大な規約違反があったとして以降のライブは塩藤、星乃の出演となる\[1\]
-  - 2019年8月10日 双方の弁護士を挟んだ協議のアンズ及びニーナと和解が成立正式に二人体制へ\[2\]
-  - 2019年8月21日 tsutaya o-west 4th ワンマンライブ～誓え 君を連れて行くと～-Special Collaboration-
+  - 2017年6月26日 代々木museデビューLive。
+  - 2017年12月21日 ZircoTokyo ワンマンLIVE～アイドルの逆襲～。
+  - 2018年1月8日 佐乃茉莉 脱退。
+  - 2018年4月5日 渋谷clubasia 2ndワンマンライブ～限界突破の無限OSE\!\!～。
+  - 2018年12月29日 名古屋大須RADHALL 3rdワンマンライブ。
+  - 2019年6月7日 メンバーに重大な規約違反があったとして以降のライブは塩藤、星乃の出演となる\[1\]。
+  - 2019年8月10日 双方の弁護士を挟んだ協議のアンズ及びニーナと和解が成立正式に二人体制へ\[2\]。
+  - 2019年8月21日 tsutaya o-west 4th ワンマンライブ～誓え 君を連れて行くと～-Special Collaboration-。
 
 ## 作品
 
@@ -124,7 +124,7 @@ AIBECK OFFICIAL STORE、TOWER RECORDS ONLINEによる\[3\]\[4\]
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p><strong>Wake Up</strong></p></td>
 <td></td>
 <td><p>6か月連続シングルリリース第1弾</p></td>
@@ -171,12 +171,6 @@ ABC-8</p></td>
 
 ### アルバム
 
-| \# | 発売日 | タイトル                 | 規格品番 | 備考 |
-| -- | --- | -------------------- | ---- | -- |
-| 1  |     | **AIBECK 1st ALBUM** |      |    |
-
-### 映像作品
-
 <table>
 <thead>
 <tr class="header">
@@ -190,14 +184,20 @@ ABC-8</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>8月29日</p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
 <td><p><strong>IDOL COUNTER ATTACK</strong></p></td>
 <td><p>ABC-1<br />
 ABC-2</p></td>
-<td><p>1st ONE MAN LIVE 2017/12/21 @zirco tokyo</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+### 映像作品
+
+| \# | 発売日                                                                    | タイトル                    | 規格品番 | 備考                                       |
+| -- | ---------------------------------------------------------------------- | ----------------------- | ---- | ---------------------------------------- |
+| 1  | [2018年](../Page/2018年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") | **IDOL COUNTER ATTACK** |      | 1st ONE MAN LIVE 2017/12/21 @zirco tokyo |
 
 ## 脚注
 

@@ -47,4 +47,4 @@
 ## 外部リンク
 
   -
-[Category:タトラ＝ユーク製の鉄道車両](https://ja.wikipedia.org/wiki/Category:タトラ＝ユーク製の鉄道車両 "wikilink") [Category:ウクライナの路面電車車両‎‎](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両‎‎ "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:2012年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2012年製の鉄道車両 "wikilink")
+[Category:タトラ＝ユーク製の鉄道車両](https://ja.wikipedia.org/wiki/Category:タトラ＝ユーク製の鉄道車両 "wikilink") [Category:ウクライナの路面電車車両](https://ja.wikipedia.org/wiki/Category:ウクライナの路面電車車両 "wikilink") [Category:キエフ市電](https://ja.wikipedia.org/wiki/Category:キエフ市電 "wikilink") [Category:2012年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:2012年製の鉄道車両 "wikilink")

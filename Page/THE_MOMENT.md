@@ -5,11 +5,11 @@
 
 ## 解説
 
-『[Citylights Dandy](https://ja.wikipedia.org/wiki/Citylights_Dandy "wikilink")』以来約3年7ヶ月ぶりのオリジナル・アルバム。
+『[Citylights Dandy](https://ja.wikipedia.org/wiki/Citylights_Dandy "wikilink")』\[1\]以来約3年7ヶ月ぶりのオリジナル・アルバム。
 
 「プログレッシブ・ポップ」と銘打った、角松自身が以前よりファンだった[イエスをオマージュした](../Page/イエス_\(バンド\).md "wikilink")、組曲的要素を取り入れたアルバム。収録曲は5曲と少ないが、20分前後の大曲が収められており、収録時間は通常のオリジナル・アルバムと同じくらい長い。
 
-前回『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』\[1\]を発表したことから、周囲からは『[REBIRTH 2](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』を期待されていたそうだが、角松自身は「売れたからもう一枚というのは、ビジネス的には正しい」とは思いつつ「ああしたセルフ・カヴァーは連発するものではない」と考えており、「それなら、次は好きなことをやっていい」と言われたので、オリジナル・アルバムを発表することにしたそうである。
+前回『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』\[2\]を発表したことから、周囲からは『[REBIRTH 2](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』を期待されていたそうだが、角松自身は「売れたからもう一枚というのは、ビジネス的には正しい」とは思いつつ「ああしたセルフ・カヴァーは連発するものではない」と考えており、「それなら、次は好きなことをやっていい」と言われたので、オリジナル・アルバムを発表することにしたそうである。
 
 「I SEE THE LIGHT 〜輝く未来〜」はディズニー映画『[塔の上のラプンツェル](https://ja.wikipedia.org/wiki/塔の上のラプンツェル "wikilink")』の主題歌のカバー。
 
@@ -17,10 +17,10 @@
 
 ## 収録曲
 
-1.  **OPENING ACT feat. SHIENA**  \[2\]
+1.  **OPENING ACT feat. SHIENA** \[3\]
       -
         作詞・作曲・編曲：角松敏生
-2.  **The Moment of 4.6 Billion Years 〜46億年の刹那〜**  \[3\]
+2.  **The Moment of 4.6 Billion Years 〜46億年の刹那〜** \[4\]
       - I. The Birth of Coral 〜珊瑚礁の誕生〜
         II. The Depth of Love 〜愛の深淵〜
         III. Setting Sail 〜船出〜
@@ -28,17 +28,17 @@
         V. The Memory of Eternity 〜永遠の記憶〜
         VI. Dawn of the Island 〜島嶼の夜明け〜
         作詞・作曲・編曲：角松敏生 / クワイア指揮：鬼無宣寿
-3.  **Get Back to the Love**  \[4\]
+3.  **Get Back to the Love** \[5\]
       - I. Get Back to the Love
         II. You are Still with Me
         III. Hero
         IV. Show Me the Way
         V. Get Back to the Love(Reprise)
         作詞・作曲・編曲：角松敏生 / ブラス編曲：[本田雅人](../Page/本田雅人.md "wikilink") / クワイア指揮：鬼無宣寿
-4.  **THE LIFE 〜いのち〜**  \[5\]
+4.  **THE LIFE 〜いのち〜**  \[6\]
       -
         作詞・作曲・編曲：角松敏生
-5.  **I SEE THE LIGHT 〜輝く未来〜**  \[6\]
+5.  **I SEE THE LIGHT 〜輝く未来〜** \[7\]
       -
         作詞：GLENN SLATER / 訳詞：高橋知伽江 / 作曲：[ALAN MENKEN](../Page/アラン・メンケン.md "wikilink") / 編曲：角松敏生 / オーケストラ編曲：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")
 
@@ -314,9 +314,10 @@ Words Translated by <strong>CHIKAE TAKAHASHI</strong> / Orchestra Arranged by <s
 
 [Category:角松敏生のアルバム](https://ja.wikipedia.org/wiki/Category:角松敏生のアルバム "wikilink") [Category:2014年のアルバム](https://ja.wikipedia.org/wiki/Category:2014年のアルバム "wikilink") [Category:IDEAKのアルバム](https://ja.wikipedia.org/wiki/Category:IDEAKのアルバム "wikilink") [Category:アリオラジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアルバム "wikilink")
 
-1.  『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』 発売 IDEAK ⁄ [Ariola Japan Inc.](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") BVCL-317
-2.
+1.  『[Citylights Dandy](https://ja.wikipedia.org/wiki/Citylights_Dandy "wikilink")』 発売 IDEAK ⁄ [Ariola Japan Inc.](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") Blu-ray Disc:BVXL-5 / CD:BVCL-117
+2.  『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』 発売 IDEAK ⁄ [Ariola Japan Inc.](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") BVCL-317
 3.
 4.
 5.
 6.
+7.

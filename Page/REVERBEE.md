@@ -66,6 +66,6 @@ HiYO Ribery（ヒヨリベリー）
   -
   -
   -
-[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:ソニー・ミュージックエンタテインメント_(日本)](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:ソニー・ミュージックエンタテインメント_(日本)](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
 1.

@@ -40,7 +40,7 @@
 
 ## 出演者
 
-  - ニュースキャスター
+  - ニュースキャスター(2020年4月)
 
 <!-- end list -->
 
@@ -50,7 +50,9 @@
   - [鈴木理香子](../Page/鈴木理香子.md "wikilink") (金曜担当)
   - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")アナウンサー (土曜担当)
 
-※平日担当のキャスターについては、前の番組の「[Wake-Up News](https://ja.wikipedia.org/wiki/Wake-Up_News "wikilink")」と「[Market News](https://ja.wikipedia.org/wiki/Market_News "wikilink")」も担当する。
+※2020年5月以降、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")の影響でシフトに多少の変更がある。4月から日曜を担当していた[土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink")は火曜のみの担当となり、日曜日は[加田晶子](https://ja.wikipedia.org/wiki/加田晶子 "wikilink")が担当する。
+
+※平日担当のキャスターについては、前の番組の「[Wake-Up News](https://ja.wikipedia.org/wiki/Wake-Up_News "wikilink")」と「[Market News](https://ja.wikipedia.org/wiki/Market_News "wikilink")」も担当する。また、[the SOCIAL放送休止中は](https://ja.wikipedia.org/wiki/the_SOCIAL "wikilink")、代替番組[Lunch Updateも担当する](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")。
 
 ※土曜日担当の日本テレビアナウンサーは、その週によって異なるが、同じキャスターが[Lunch Update](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")、[Afternoon Newsを担当することもある](https://ja.wikipedia.org/wiki/Afternoon_News "wikilink")。(別のキャスターが[Lunch Update以降を担当することもある](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink"))
 

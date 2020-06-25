@@ -1,7 +1,7 @@
 > この記事は[さっぽろ雪まつりK-POP FESTIVAL](https://ja.wikipedia.org/wiki/さっぽろ雪まつりK-POP_FESTIVAL)から翻訳されています。
 
 
-**さっぽろ雪まつりK-POP FESTIVAL**（さっぽろゆきまつりケーポップフェスティバル、）は毎年2月[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")実行委員会とNPO法人日韓文化交流会の共催で行われるチャリティイベントである。
+**さっぽろ雪まつりK-POP FESTIVAL**（さっぽろゆきまつりケーポップフェスティバル、、[朝](../Page/朝鮮語.md "wikilink")：삿포로 눈축제 K-POP 페스티벌）は毎年2月[さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")実行委員会とNPO法人日韓文化交流会の共催で行われるチャリティイベントである。
 
 2009年にさっぽろ雪まつりの60周年と「ソウル南大門の大雪像」が制作されることを記念して「COREA FESTA 2009」が開催された。
 
@@ -29,6 +29,8 @@
 | 2020年    | 2月8日(土)                                                                                                                                                                                                                                                                                | [キム・ジェファン](https://ja.wikipedia.org/wiki/キム・ジェファン_\(歌手\) "wikilink")、[NATURE](https://ja.wikipedia.org/wiki/NATURE_\(音楽グループ\) "wikilink")、[イ・ハンギョル](https://ja.wikipedia.org/wiki/イ・ハンギョル "wikilink")＆[ナム・ドヒョン](https://ja.wikipedia.org/wiki/X1_\(音楽グループ\) "wikilink")、[TOO](../Page/TOO.md "wikilink")\[16\] | [札幌文化芸術劇場](https://ja.wikipedia.org/wiki/札幌文化芸術劇場 "wikilink")hitaru |
 
 ## 脚注
+
+### 出典
 
 <references />
 

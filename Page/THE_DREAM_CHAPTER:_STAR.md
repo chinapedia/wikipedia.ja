@@ -1,25 +1,95 @@
 > この記事は[THE DREAM CHAPTER: STAR](https://ja.wikipedia.org/wiki/THE_DREAM_CHAPTER:_STAR)から翻訳されています。
 
 
-『**THE DREAM CHAPTER: STAR**』（ザ・ドリーム・チャプター: スター）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の5人組[男性](../Page/男性.md "wikilink")[アイドルグループ](https://ja.wikipedia.org/wiki/アイドルグループ "wikilink")・[TOMORROW X TOGETHERの韓国でのデビューミニアルバム](https://ja.wikipedia.org/wiki/Tomorrow_X_Together "wikilink")。[2019年](../Page/2019年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")に[Big Hit Entertainmentからリリースされた](../Page/Big_Hit_Entertainment.md "wikilink")\[1\]。
+『**THE DREAM CHAPTER: STAR**』（ザ・ドリーム・チャプター: スター）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の5人組[男性](../Page/男性.md "wikilink")[アイドルグループ](https://ja.wikipedia.org/wiki/アイドルグループ "wikilink")[TOMORROW X TOGETHERの韓国でのデビューミニアルバム](https://ja.wikipedia.org/wiki/Tomorrow_X_Together "wikilink")。[2019年](../Page/2019年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")に[Big Hit Entertainment](../Page/Big_Hit_Entertainment.md "wikilink")、[iriverからリリースされた](../Page/アイリバー.md "wikilink")\[1\]。
 
-## 概要
+## 背景
 
-### ストーリー
+『THE DREAM CHAPTER: STAR』では、少年たちが成長する過程で出会う経験についての物語が展開される。タイトルにある「STAR」は、幼少期に夜空の星をみながら明日への期待を膨らませ、現在でも星を追うということは幼少期の夢を記憶しているというストーリーからつけられた\[2\]。
 
-「THE DREAM CHAPTER: STAR」では、TOMORROW X TOGETHERが成長する中で向き合う経験の物語が展開される。タイトルにある'STAR'は、幼少期に夜空の星をみながら明日への期待を膨らませ、現在でも星を追うということは幼少期の夢を記憶しているということからつけられた\[2\]。
+## リリース
 
-### リリース
-
-2019年[2月22日](../Page/2月22日.md "wikilink")、本アルバムの収録曲が発表発表された\[3\]。
-
-発売日である3月4日には、[Mnet](../Page/Mnet.md "wikilink")『デビューセレブレーションショー』で収録曲である『CROWN』『Blue Orangeade』『Nap Of The Star』が披露された\[4\]\[5\]。
-
-[4月7日](../Page/4月7日.md "wikilink")には、Big Hit Entertainmentの公式[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネルより収録曲である『Blue Orangeade』のリリックビデオが公開され\[6\]、同月25日には『Cat\&Dog』\[7\]、[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")には『Nap Of The Star』のミュージックビデオが公開された\[8\]。
-
-[5月31日](../Page/5月31日.md "wikilink")、『Our Summer (Acoustic Mix)』が[デジタルシングルで全世界一斉配信された](https://ja.wikipedia.org/wiki/デジタル・シングル "wikilink")\[9\]。
+2019年[2月22日](../Page/2月22日.md "wikilink")、本アルバムの収録曲が発表された\[3\]。発売日である3月4日には、[Mnet](../Page/Mnet.md "wikilink")『デビューセレブレーションショー』で収録曲である「CROWN」「Blue Orangeade」「Nap Of The Star」が披露された\[4\]\[5\]。[4月7日](../Page/4月7日.md "wikilink")には、収録曲である「Blue Orangeade」のリリックビデオが公開され\[6\]、同月25日には「Cat & Dog」\[7\]、[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")には「Nap Of The Star」のミュージックビデオが公開された\[8\]。[5月31日](../Page/5月31日.md "wikilink")、「Our Summer (Acoustic Mix)」が[デジタルシングルで全世界一斉配信された](https://ja.wikipedia.org/wiki/デジタル・シングル "wikilink")\[9\]。
 
 ## 収録曲
+
+## スタッフ・クレジット
+
+  - 'hitman'bang – [エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")
+  - NINE CHOI – エグゼクティブ・スーパーバイザー
+  - LENZO YOON – 最高業務責任者
+  - 김서영, 최승린, 박지원, 안인용, 이아람 – 音楽制作
+  - NICOLE KIM, GIA LIM, HIJU YANG – [A\&R](https://ja.wikipedia.org/wiki/A&R "wikilink")
+  - 양창원, 김지연, 박진세, 정우영 – スタジオ
+  - 김성현, 이현주, 윤지현, GABRIEL CHO – ビジュアルクリエイティヴ
+  - 김신규, 오광택, 양준형 – アーティストマネジメント
+  - 김린용 – [プロデューサー](../Page/プロデューサー.md "wikilink")
+  - 김은주, 김규남, 이소영, 조수지 – [スタイリスト](https://ja.wikipedia.org/wiki/スタイリスト "wikilink")
+  - 김세경, 김인혜 – ヘアー
+  - 김부성, 안세영, 맹하영 – メイク
+  - HuskyFox – アートワーク
+  - QUENZY – [イラストレーター](../Page/イラストレーター.md "wikilink")
+
+### Blue Orangeade
+
+  - Slow Rabbit – [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
+
+  - TOMORROW X TOGETHER, ADORA, Supreme Boi, Moonshine – バックグラウンド・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+
+  - TOMORROW X TOGETHER, Supreme Boi, 김현정, 임지연, 양희주, 김지연 – ギャングボーカル
+
+  - ADORA, Slow Rabbit, Supreme Boi – ボーカルアレンジ
+
+  - 박진세, 정우영, 김지연, Slow Rabbit, ADORA – レコーディング・エンジニア
+
+  - ADORA, EL CAPITXN, Slow Rabbit – デジタル編曲
+
+  - ,  –
+
+### CROWN
+
+  - Slow Rabbit – キーボード、シンセサイザー
+  - TOMORROW X TOGETHER, Melanie Joy Fontana, 정명훈 – バックグラウンド・ボーカル
+  - 이태욱 – [ギター](../Page/ギター.md "wikilink")
+  - Slow Rabbit, Supreme Boi – ボーカルアレンジ
+  - Slow Rabbit, 정우영, Michel "Lindgren"Schulz – レコーディング・エンジニア
+  - Slow Rabbit – デジタル編曲
+  - Phil Tan – ミックス・エンジニア
+
+### Our Summer
+
+  - The Futuristics – 全楽器法・プログラミング
+  - ADORA, Colllin' – バックグラウンド・ボーカル
+  - Slow Rabbit, EL CAPITXN – ボーカルアレンジ
+  - Slow Rabbit, 김지연, 박진세, 정우영, EL CAPITXN, ADORA – レコーディング・エンジニア
+  - Slow Rabbit, ADORA, EL CAPITXN – デジタル編曲
+  - Yong Ga – ミックス・エンジニア
+
+### Cat & Dog
+
+  - Daniel "JUNE NAWAKII" Celestin – キーボード
+
+  - Daniel "JUNE NAWAKII" Celestin, Supreme Boi – シンセサイザー
+
+  - Slow Rabbit – 追加楽器法・プログラミング、ボーカルアレンジ
+
+  - Supreme Boi, TOMORROW X TOGETHER – バックグラウンド・ボーカル
+
+  - 정우영, 박진세, Supreme Boi – レコーディング・エンジニア
+
+  - Supreme Boi, EL CAPITXN – デジタル編曲
+
+  - – ミックス・エンジニア
+
+### Nap Of The Star
+
+  - LEL, Slow Rabbit – シンセサイザー、ボーカルアレンジ
+  - 정재필– ギター
+  - Slow Rabbit – 追加楽器法・プログラミング、ボーカルアレンジ
+  - LEL – バックグラウンド・ボーカル
+  - 김지연, 박진세, 정우영 – レコーディング・エンジニア
+  - LEL, Slow Rabbit, 정우영, 박진세 – デジタル編曲
+  - Hector Castillo – ミックス・エンジニア
 
 ## チャート成績
 

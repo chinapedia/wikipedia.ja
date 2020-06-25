@@ -22,7 +22,7 @@
 1.  **Dance Dance<sup>2</sup>**
 2.  **秘密が足りない**
 3.  **プラトニック ラプソディー**
-4.  **[瞳いっぱいの涙](https://ja.wikipedia.org/wiki/瞳いっぱいの涙 "wikilink")**
+4.  **[瞳いっぱいの涙](../Page/瞳いっぱいの涙.md "wikilink")**
       - アルバムと同時発売されたシングル。アルバムバージョンとして収録されている。
 5.  **最後のドアーまで**
 
@@ -32,7 +32,7 @@
 2.  **He's a Lonely Guy**
 3.  **プリテンダー**
 4.  **今宵かぎりのcheek to cheek**
-5.  **[Cry For The Moon](https://ja.wikipedia.org/wiki/瞳いっぱいの涙 "wikilink")**
+5.  **[Cry For The Moon](../Page/瞳いっぱいの涙.md "wikilink")**
       - シングル「瞳いっぱいの涙」のB面曲。
 
 ## 参加ミュージシャン

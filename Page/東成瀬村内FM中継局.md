@@ -3,7 +3,7 @@
 
 **東成瀬村内FM中継局**（ひがしなるせそんないエフエムちゅうけいきょく）は、[秋田県](../Page/秋田県.md "wikilink")[雄勝郡](../Page/雄勝郡.md "wikilink")[東成瀬村](../Page/東成瀬村.md "wikilink")に置かれている、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")加盟局・[エフエム秋田](../Page/エフエム秋田.md "wikilink")の[中継局](../Page/中継局.md "wikilink")と、[NHKラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")の[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")である。
 
-### 概要
+## 概要
 
 <table>
 <thead>

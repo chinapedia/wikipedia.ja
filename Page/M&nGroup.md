@@ -9,7 +9,7 @@
 
 翌年、[2016年](../Page/2016年.md "wikilink")（平成28年）4月に店舗事業を目的としたm\&nGroup株式会社を「会員制BAR RELUM -リルム-」渋谷店の店長、つばきを代表取締役として設立。
 
-当時、会員制のコンセプトカフェは無く、2019年までに5店舗を出店。同[2016年](../Page/2016年.md "wikilink")にはセカンドブランド「アミューズメントバーApare-アペル-」を出店、「男装Café \&BAR Salieri la Torata」、「PhotoStudio Meteor」を含め[2019年](../Page/2019年.md "wikilink")までの3年間で東京・埼玉・名古屋を中心に14店舗展開した。
+当時、会員制のコンセプトカフェは無く、2019年までに5店舗を出店。同[2016年](../Page/2016年.md "wikilink")にはセカンドブランド「アミューズメントバーApare-アペル-」を出店、「男装Café \&BAR Salieri la Torata」、「PhotoStudio Meteor」を含め[2019年](../Page/2019年.md "wikilink")までの3年間で東京・[埼玉](../Page/埼玉県.md "wikilink")・名古屋を中心に14店舗展開した。
 
 [2019年](../Page/2019年.md "wikilink")（平成30年）代表取締役のつばきが諸般の事情により辞任、株主兼取締役の[鶴岡祐将](https://ja.wikipedia.org/wiki/鶴岡祐将 "wikilink")が代表取締役に就任した。
 

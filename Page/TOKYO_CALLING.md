@@ -985,7 +985,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/moon_drop" title="wikilink">moon drop</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/THE冠" title="wikilink">THE冠</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Day_tripper" title="wikilink">Day tripper</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SHIT_HAPPENING" title="wikilink">SHIT HAPPENING</a></li>
+<li><a href="../Page/SHIT_HAPPENING.md" title="wikilink">SHIT HAPPENING</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/EVERLONG" title="wikilink">EVERLONG</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Maki" title="wikilink">Maki</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/DYINGDAY" title="wikilink">DYINGDAY</a></li>
@@ -1054,7 +1054,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/THE_LITTLE_BLACK" title="wikilink">THE LITTLE BLACK</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/CRAZY_VODKA_TONIC" title="wikilink">CRAZY VODKA TONIC</a></li>
 <li><a href="../Page/神はサイコロを振らない.md" title="wikilink">神はサイコロを振らない</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
+<li><a href="../Page/ドラマストア.md" title="wikilink">ドラマストア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/グッバイフジヤマ" title="wikilink">グッバイフジヤマ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/3markets［］" title="wikilink">3markets［］</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ネクライトーキー" title="wikilink">ネクライトーキー</a></li>
@@ -1532,7 +1532,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/SUP_(バンド)" title="wikilink">SUP</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/GLASGOW" title="wikilink">GLASGOW</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Hue&#39;s" title="wikilink">Hue's</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/オレンジスパイニクラブ" title="wikilink">オレンジスパイニクラブ</a></li>
+<li><a href="../Page/オレンジスパイニクラブ.md" title="wikilink">オレンジスパイニクラブ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/PK_shampoo" title="wikilink">PK shampoo</a></li>
 </ul></td>
 <td><ul>

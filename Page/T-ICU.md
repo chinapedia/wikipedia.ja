@@ -23,16 +23,26 @@
   - イギリスの 2020-Global Health & Pharma にて"Cutting-Edge Hospital Communication in 2019" \[8\]
   - 三菱総合研究所「未来共創イノベーションネットワーク」ビジネス・アクセラレーション・プログラムにて最優秀賞を受賞\[9\]
 
+## 脚注
+
 ## 関連項目
 
   - [三菱京都病院](https://ja.wikipedia.org/wiki/三菱京都病院 "wikilink")
   - [京都大学医学部附属病院](../Page/京都大学医学部附属病院.md "wikilink")
   - [TMGあさか医療センター](https://ja.wikipedia.org/wiki/TMGあさか医療センター "wikilink")
   - [国民健康保険志摩市民病院](https://ja.wikipedia.org/wiki/国民健康保険志摩市民病院 "wikilink")
+  - [藤田医科大学](../Page/藤田医科大学.md "wikilink")
+  - [神戸市立医療センター中央市民病院](https://ja.wikipedia.org/wiki/神戸市立医療センター中央市民病院 "wikilink")
+  - [西神戸医療センター](https://ja.wikipedia.org/wiki/西神戸医療センター "wikilink")
+  - [聖マリアンナ医科大学](../Page/聖マリアンナ医科大学.md "wikilink")
+  - [聖マリアンナ医科大学横浜市西部病院](https://ja.wikipedia.org/wiki/聖マリアンナ医科大学横浜市西部病院 "wikilink")
+  - [京都桂病院](https://ja.wikipedia.org/wiki/京都桂病院 "wikilink")
+  - [防衛医科大学校](../Page/防衛医科大学校.md "wikilink")
+  - [高島市民病院](../Page/高島市民病院.md "wikilink")
+  - [フューチャーベンチャーキャピタル](https://ja.wikipedia.org/wiki/フューチャーベンチャーキャピタル "wikilink")
+  - [大和SMBCキャピタル](../Page/大和SMBCキャピタル.md "wikilink")
 
-## 脚注
-
-[Category:日本企業のテンプレート](https://ja.wikipedia.org/wiki/Category:日本企業のテンプレート "wikilink") [Category:福祉サービス](https://ja.wikipedia.org/wiki/Category:福祉サービス "wikilink") [Category:2016年設立の企業](https://ja.wikipedia.org/wiki/Category:2016年設立の企業 "wikilink") [Category:芦屋市の企業](https://ja.wikipedia.org/wiki/Category:芦屋市の企業 "wikilink") [Category:兵庫県の企業](https://ja.wikipedia.org/wiki/Category:兵庫県の企業 "wikilink") [Category:兵庫県発祥の企業](https://ja.wikipedia.org/wiki/Category:兵庫県発祥の企業 "wikilink")
+[Category:福祉サービス](https://ja.wikipedia.org/wiki/Category:福祉サービス "wikilink") [Category:2016年設立の企業](https://ja.wikipedia.org/wiki/Category:2016年設立の企業 "wikilink") [Category:芦屋市の企業](https://ja.wikipedia.org/wiki/Category:芦屋市の企業 "wikilink") [Category:兵庫県の企業](https://ja.wikipedia.org/wiki/Category:兵庫県の企業 "wikilink") [Category:兵庫県発祥の企業](https://ja.wikipedia.org/wiki/Category:兵庫県発祥の企業 "wikilink")
 
 1.  [T-ICU、集中治療の患者 遠隔で異変察知 来年秋にも、現場医師を支援](https://www.nikkei.com/article/DGKKZO48733570Z10C19A8LKB000/)
 2.  [専門医による「遠隔集中治療」を実現、T-ICU](https://xtech.nikkei.com/dm/atcl/event/15/101000173/101800005/?ST=health/)

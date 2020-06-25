@@ -1,7 +1,7 @@
 > この記事は[おぎぬまX](https://ja.wikipedia.org/wiki/おぎぬまX)から翻訳されています。
 
 
-**おぎぬまX**（おぎぬまえっくす、男性、 - ）は、日本の[漫画家](../Page/漫画家.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")出身。血液型はAB型。[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink")[表現学部](https://ja.wikipedia.org/wiki/表現学部 "wikilink")卒。元[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")。本名：**荻沼 竜太**（おぎぬま りゅうた）。好きなものはパン、雨。嫌いなものは豆、虫。特技は一発ギャグ、妄想。
+**おぎぬまX**（おぎぬまエックス、男性、 - ）は、日本の[漫画家](../Page/漫画家.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")出身。血液型はAB型。[和光大学](https://ja.wikipedia.org/wiki/和光大学 "wikilink")[表現学部](https://ja.wikipedia.org/wiki/表現学部 "wikilink")卒。元[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")。本名：**荻沼 竜太**（おぎぬま りゅうた）。好きなものはパン、雨。嫌いなものは豆、虫。特技は一発ギャグ、妄想。
 
 ## 来歴
 
@@ -10,6 +10,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[スクールJCA](https://ja.wikipedia.org/wiki/スクールJCA "wikilink")へ19期生として入学（同期には[Groovy Rubbish](../Page/類家大地.md "wikilink")、[じぐざぐ](../Page/じぐざぐ_\(お笑いコンビ\).md "wikilink")、[こじま観光](https://ja.wikipedia.org/wiki/こじま観光 "wikilink")、コネオ・インターナショナル、[根菜キャバレー](https://ja.wikipedia.org/wiki/根菜キャバレー "wikilink")の天野舞などがいる）。卒業後、[2011年](../Page/2011年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")所属のお笑い芸人として活動\[2\]。しかし芸人としての芽が出ないことを悟り、[2014年](../Page/2014年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、人力舎を退社。改めてギャグ漫画家を目指す。
   - [2017年](../Page/2017年.md "wikilink")よりフリーの漫画家としての活動を開始。
   - [2019年](../Page/2019年.md "wikilink")12月、第91回[赤塚賞](../Page/赤塚賞.md "wikilink")入選（赤塚賞入選が出たのは29年ぶり、[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")初）。受賞作品は「だるまさんがころんだ時空伝」。
+  - [2020年](../Page/2020年.md "wikilink")6月、Youtubeチャンネル「おぎぬまXの4コマ道」を開設。
 
 ## おぎぬまXの名前の由来
 
@@ -46,9 +47,13 @@
 
 ## 外部リンク
 
-  - [おぎぬまXの運命ー公式サイト](https://ameblo.jp/oginumax/)
+  - [おぎぬまXの4コマ道-公式サイト](https://oginumax4komadou.com//)
+
+  - [Youtubeチャンネル「おぎぬまXの4コマ道」](https://www.youtube.com/channel/UCoek5hxEYaavUUH2bATOC1A/featured)
 
   -
+  - [おぎぬまXの運命ー過去ブログ](https://ameblo.jp/oginumax/)
+
   - [プロジェクトおぎぬまX（映像）](https://www.youtube.com/watch?v=bze9CQJTsKU)
 
   - [笑うクレイジーメディア『おぎぬまXの4コマ空間』](https://curazy.com/manga/49)　

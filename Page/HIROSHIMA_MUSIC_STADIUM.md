@@ -271,7 +271,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/MOSHIMO" title="wikilink">MOSHIMO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/King_Gnu" title="wikilink">King Gnu</a></li>
 <li><a href="../Page/FIVE_NEW_OLD.md" title="wikilink">FIVE NEW OLD</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
+<li><a href="../Page/ドラマストア.md" title="wikilink">ドラマストア</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/POT_(バンド)" title="wikilink">POT</a></li>
@@ -365,7 +365,7 @@
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/ズーカラデル" title="wikilink">ズーカラデル</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/KOTORI" title="wikilink">KOTORI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ドラマストア" title="wikilink">ドラマストア</a></li>
+<li><a href="../Page/ドラマストア.md" title="wikilink">ドラマストア</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ラックライフ" title="wikilink">ラックライフ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/MAGIC_OF_LiFE" title="wikilink">MAGIC OF LiFE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ircle" title="wikilink">ircle</a></li>
@@ -503,7 +503,7 @@
   - [Oh No Darkness\!\!](https://ja.wikipedia.org/wiki/Oh_No_Darkness!! "wikilink")
   - [OKOJO](https://ja.wikipedia.org/wiki/OKOJO "wikilink")
   - [homme](https://ja.wikipedia.org/wiki/homme "wikilink")
-  - [オレンジスパイニクラブ](https://ja.wikipedia.org/wiki/オレンジスパイニクラブ "wikilink")
+  - [オレンジスパイニクラブ](../Page/オレンジスパイニクラブ.md "wikilink")
   - [OCEANS](https://ja.wikipedia.org/wiki/OCEANS "wikilink")
   - [KALMA](https://ja.wikipedia.org/wiki/-KARMA- "wikilink")
   - [きつねでこんコン\!](https://ja.wikipedia.org/wiki/きつねでこんコン! "wikilink")
@@ -527,7 +527,7 @@
   - [東京少年倶楽部](https://ja.wikipedia.org/wiki/東京少年倶楽部 "wikilink")
   - [東京初期衝動](https://ja.wikipedia.org/wiki/東京初期衝動 "wikilink")
   - [ドミコ](https://ja.wikipedia.org/wiki/ドミコ "wikilink")
-  - [ドラマストア](https://ja.wikipedia.org/wiki/ドラマストア "wikilink")
+  - [ドラマストア](../Page/ドラマストア.md "wikilink")
   - [ドラマチックアラスカ](https://ja.wikipedia.org/wiki/ドラマチックアラスカ "wikilink")
   - 中山卓哉([愛しておくれ](https://ja.wikipedia.org/wiki/愛しておくれ "wikilink"))
   - [Newspeak](https://ja.wikipedia.org/wiki/Newspeak "wikilink")

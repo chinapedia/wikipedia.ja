@@ -19,7 +19,7 @@
 
 2018年10月7日、男性5人グループ「[台風少年団](https://ja.wikipedia.org/wiki/台風少年団 "wikilink")」を結成。2019年7月2日、台風少年団が解散。メンバーの姚景元は影視部に移動。残り4人に練習生3人を加え、オーディション番組「台風蜕変の戦」に出場。
 
-2019年8月25日、男性7人グループ「[時代少年団](https://ja.wikipedia.org/wiki/時代少年団 "wikilink")」を結成\[8\]。11月23日にメジャーデビューさせる。
+2019年8月25日、男性7人グループ「[時代少年団](../Page/時代少年団.md "wikilink")」を結成\[8\]。11月23日にメジャーデビューさせる。
 
 ## 所属タレント
 
@@ -70,7 +70,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/馬嘉祺" title="wikilink">馬嘉祺</a></p></td>
 <td></td>
 <td><p>2019年11月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/時代少年団" title="wikilink">時代少年団</a></p></td>
+<td><p><a href="../Page/時代少年団.md" title="wikilink">時代少年団</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/台風少年団" title="wikilink">台風少年団</a></p></td>
 </tr>
 <tr class="even">
@@ -120,7 +120,7 @@
 
 #### 影視部
 
-  - [李俊濠](https://ja.wikipedia.org/wiki/李俊濠 "wikilink")
+  - [李俊濠](../Page/李俊濠.md "wikilink")
   - 鄧恩熙
   - 姚景元
   - 宋文嘉

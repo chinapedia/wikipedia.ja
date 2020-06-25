@@ -58,6 +58,7 @@
 ### 2019年
 
   - [3月8日](../Page/3月8日.md "wikilink")　「Kolokol 1st ONEMANSHOW Bookmark」を開催。
+  - [5月29日](../Page/5月29日.md "wikilink") Akiho & Konomi BirthFestival 開催。オリジナルユニット曲「Rebel」披露
   - [8月18日](../Page/8月18日.md "wikilink")　2ndシングル「Fanfare」配信開始。
 
 ### 2020年

@@ -1,11 +1,135 @@
 > この記事は[三国志 Secret of Three Kingdoms](https://ja.wikipedia.org/wiki/三国志_Secret_of_Three_Kingdoms)から翻訳されています。
 
 
-『**三国志 Secret of Three Kingdoms**』（さんごくし シークレット・オブ・スリー・キングダムズ、）は、による小説「三国机密・潜龙在渊」を原作とした[2018年](../Page/2018年.md "wikilink")の[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
+『**三国志 Secret of Three Kingdoms**』（さんごくし シークレット・オブ・スリー・キングダムズ、）は、[2018年](../Page/2018年.md "wikilink")の[中華人民共和国](../Page/中華人民共和国.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。による小説『三国机密・潜龙在渊』を原作としている。
 
 ## 概要
 
-が制作し、チャン・ジャン（）が脚本で、パトリック・ヤウ（）とスティーブ・チェン（）が監督した。マー・ティエンユー（[馬天宇](https://ja.wikipedia.org/wiki/馬天宇 "wikilink")）、エルビス・ハン（）、[レジーナ・ワン](https://ja.wikipedia.org/wiki/レジーナ・ワン "wikilink")（万茜）、ドン・ジェ（[董潔](../Page/董潔.md "wikilink")）、サニー・ワン（）、ドン・シュアン（）、ツェー・クワンホウ（[謝君豪](../Page/謝君豪.md "wikilink")）、タン・ジェンツー（）が出演した。シリーズは[2018年](../Page/2018年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")から[テンセント・ビデオ](../Page/テンセント・ビデオ.md "wikilink")で放送された。
+が制作し、チャン・ジャン（）が脚本で、パトリック・ヤウ（）とスティーブ・チェン（）が監督した。シリーズは[2018年](../Page/2018年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")から[テンセント・ビデオ](../Page/テンセント・ビデオ.md "wikilink")で放送された。
+
+## 登場人物・出演者
+
+  - 劉平／[献帝](../Page/献帝_\(漢\).md "wikilink")：[マー・ティエンユー（馬天宇）](https://ja.wikipedia.org/wiki/馬天宇 "wikilink")
+
+      -
+        献帝・劉協の双子の弟で、献帝の身代わりとなる。
+
+  - [司馬懿](../Page/司馬懿.md "wikilink")：
+
+      -
+        劉平（陽平）の義兄。
+
+  - [伏寿](https://ja.wikipedia.org/wiki/伏寿 "wikilink")：[レジーナ・ワン](https://ja.wikipedia.org/wiki/レジーナ・ワン "wikilink")（万茜）
+
+      -
+        献帝の[皇后](../Page/皇后.md "wikilink")。
+
+  - [唐瑛](https://ja.wikipedia.org/wiki/唐姫_\(後漢少帝\) "wikilink")：[ドン・ジェ（董潔）](../Page/董潔.md "wikilink")
+
+      -
+        [弘農王・劉弁](../Page/少帝弁.md "wikilink")（劉協の兄）の[正室](../Page/正室.md "wikilink")。
+
+  - [郭嘉](../Page/郭嘉.md "wikilink")：
+
+  - [任紅晶](../Page/貂蝉.md "wikilink")：
+
+  - [曹操](../Page/曹操.md "wikilink")：[ツェー・クワンホウ（謝君豪）](../Page/謝君豪.md "wikilink")
+
+      -
+        後漢の[司空](../Page/司空.md "wikilink")。
+
+  - [曹丕](../Page/曹丕.md "wikilink")：
+
+  - [曹節](https://ja.wikipedia.org/wiki/献穆曹皇后 "wikilink")：
+
+  - [荀彧](https://ja.wikipedia.org/wiki/荀彧 "wikilink")：
+
+      -
+        荀令君。後漢の[尚書令](../Page/尚書令.md "wikilink")。
+
+  - [賈詡](https://ja.wikipedia.org/wiki/賈詡 "wikilink")：[シュー・ヤオシュエン（舒耀暄）](https://ja.wikipedia.org/wiki/舒耀暄 "wikilink")
+
+  - [甄宓](../Page/文昭皇后甄氏.md "wikilink")：
+
+  - [曹仁](../Page/曹仁.md "wikilink")：何果軒
+
+      -
+        [魏の](../Page/魏_\(三国\).md "wikilink")[将軍](../Page/将軍.md "wikilink")。
+
+  - [司馬防](https://ja.wikipedia.org/wiki/司馬防 "wikilink")：夏志卿
+
+      -
+        司馬懿の父。
+
+  - [司馬朗](../Page/司馬朗.md "wikilink")：賈本初
+
+      -
+        司馬懿の長兄。
+
+  - [楊俊](https://ja.wikipedia.org/wiki/楊俊_\(曹魏\) "wikilink")：
+
+      -
+        後漢・[霊帝の子である劉平を我が子](../Page/霊帝_\(漢\).md "wikilink")（楊平）として育てる。
+
+  - [楊彪](../Page/楊彪.md "wikilink")：
+
+      -
+        後漢の大尉。
+
+  - [楊修](../Page/楊修.md "wikilink")：王萌
+
+      -
+        楊彪の息子。
+
+  - [何皇后](../Page/霊思何皇后.md "wikilink")：
+
+      -
+        後漢・霊帝の皇后。
+
+  - ：
+
+      -
+        献帝・劉協の祖母。
+
+  - 張宇：
+
+      -
+        劉協づきの[宦官](https://ja.wikipedia.org/wiki/宦官 "wikilink")。
+
+  - [満寵](../Page/満寵.md "wikilink")：屠楠
+
+      -
+        満府君。[許都の](../Page/許昌市.md "wikilink")[県令](../Page/県令.md "wikilink")。
+
+  - [种輯](https://ja.wikipedia.org/wiki/チュウ輯 "wikilink")：
+
+      -
+        皇帝が暮らす宮殿の[衛兵](https://ja.wikipedia.org/wiki/衛兵 "wikilink")。
+
+  - [孔融](../Page/孔融.md "wikilink")：李燕生
+
+      -
+        [許都の役人](../Page/許昌市.md "wikilink")。
+
+  - ：王藝霖
+
+      -
+        後漢の議郎（皇帝の諮問に対して進言する役職）。
+
+  - [伏完](../Page/伏完.md "wikilink")：魯玉傑
+
+      -
+        皇后・伏寿の父。
+
+  - ：王藝諾
+
+      -
+        献帝・劉協の側室。
+
+  - [董承](../Page/董承.md "wikilink")：李躍民
+
+      -
+        董妃の父。
 
 ## 放送リスト
 
@@ -169,6 +293,18 @@
 
 ## 外部リンク
 
-[中国ドラマ「三国志 Secret of Three Kingdoms」 | 中国ドラマ | BS無料放送ならBS12（トゥエルビ）](https://www.twellv.co.jp/program/china/sangokushi-sotk/)
+  -
+  -
+  - [公式サイト](https://bd-dvd.sonypictures.jp/sangokushi/)
 
-[Category:中国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:中国のテレビドラマ "wikilink") [Category:2018年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2018年のテレビドラマ "wikilink") [Category:三国志を題材とした作品](https://ja.wikipedia.org/wiki/Category:三国志を題材とした作品 "wikilink") [Category:双子を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:双子を題材としたテレビドラマ "wikilink")
+  - [衛星劇場](https://www.eigeki.com/special/sangokushi)
+
+  - [BS12（トゥエルビ）](https://www.twellv.co.jp/program/china/sangokushi-sotk/)
+
+  - [チャンネル銀河](https://www.ch-ginga.jp/sp/feature/secretofthreekingdoms/)
+
+  - [楽天TV](https://tv.rakuten.co.jp/content/312226/)（一話無料）
+
+  - [華HAO](https://hualiu.yapy.jp/drama/the_secret_dragon/)
+
+[Category:中国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:中国のテレビドラマ "wikilink") [Category:2018年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2018年のテレビドラマ "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:三国志を題材とした作品](https://ja.wikipedia.org/wiki/Category:三国志を題材とした作品 "wikilink") [Category:双子を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:双子を題材としたテレビドラマ "wikilink") [Category:人物の入れ代わりを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材としたテレビドラマ "wikilink")

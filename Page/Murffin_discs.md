@@ -24,175 +24,134 @@
 <th><p>アーティスト名</p></th>
 <th><p>読み</p></th>
 <th><p>所属期間</p></th>
-<th><p>iTunes</p></th>
+<th><p>レーベル</p></th>
+<th><p>Apple Music</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/惑星_(バンド).md" title="wikilink">惑星</a></p></td>
-<td><p>わくせい</p></td>
-<td><p>2006年〜2007年</p></td>
-<td></td>
-<td><p>2007年活動終了</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/The_Sun_calls_Stars" title="wikilink">The Sun calls Stars</a></p></td>
-<td><p>ザサンコールスターズ</p></td>
-<td><p>2006年</p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オータコージ" title="wikilink">オータコージ</a>と<a href="https://ja.wikipedia.org/wiki/クラムボン_(バンド)" title="wikilink">伊藤大助によるユニット</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャズネコ" title="wikilink">ジャズネコ</a></p></td>
-<td><p>ジャズネコ</p></td>
-<td><p>2007年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/ジャズネコ/322800337">リンク</a></p></td>
-<td><p><a href="../Page/上杉昇.md" title="wikilink">上杉昇</a>のレーベルpojjo récordに移籍</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/YUEY" title="wikilink">YUEY</a></p></td>
-<td><p>ユーエイ</p></td>
-<td><p>2007年〜2013年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/yuey/277761689">リンク</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/MISUNDERSTAND" title="wikilink">MISUNDERSTAND</a></p></td>
-<td><p>ミスアンダースタンド</p></td>
-<td><p>2007年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/misunderstand/356144546">リンク</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/The_Mirraz" title="wikilink">The Mirraz</a></p></td>
-<td><p>ザミイラズ</p></td>
-<td><p>2007年〜2010年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/the-mirraz/297695929">リンク</a></p></td>
-<td><p>→自主レーベル→EMIミュージック・ジャパン→自主レーベル</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Veni_Vidi_Vicious" title="wikilink">Veni Vidi Vicious</a></p></td>
-<td><p>ヴェニヴィディヴィシャス</p></td>
-<td><p>2007年〜2009年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/veni-vidi-vicious/292652293">リンク</a></p></td>
-<td><p>DAIZAWA RECORDSに移籍</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/踊ってばかりの国" title="wikilink">踊ってばかりの国</a></p></td>
-<td><p>おどってばかりのくに</p></td>
-<td><p>2009年〜2013年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/踊ってばかりの国/423525169">リンク</a></p></td>
-<td><p>ツクモガミに移籍</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Czecho_No_Republic" title="wikilink">Czecho No Republic</a></p></td>
 <td><p>チェコノーリパブリック</p></td>
-<td><p>2010年〜2012年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/czecho-no-republic/429377773">リンク</a></p></td>
-<td><p>2013年日本コロムビアよりメジャーデビュー</p></td>
+<td><p>2010年 - 2012年<br />
+2019年 -</p></td>
+<td><p>mini muff records</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/czecho-no-republic/429377773">リンク</a></p></td>
+<td><p><a href="../Page/日本コロムビア.md" title="wikilink">日本コロムビア</a>（2013年 - 2019年）から再移籍。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/OTOTOI_GROUP" title="wikilink">OTOTOI GROUP</a></p></td>
-<td><p>オトトイグループ</p></td>
-<td><p>2012年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/ototoi-group/327771628">リンク</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/テスラは泣かない。" title="wikilink">テスラは泣かない。</a></p></td>
 <td><p>テスラはなかない</p></td>
-<td><p>2012年〜2013年<br />
-2017年〜</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/テスラは泣かない/550395897">リンク</a></p></td>
-<td><p>2014年〜2015年ユニバーサルミュージックに所属</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Hermann_H.&amp;The_Pacemakers.md" title="wikilink">Hermann H.&amp;The Pacemakers</a></p></td>
-<td><p>ヘルマンエイチアンドザペースメーカー</p></td>
-<td><p>2014年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/hermann-h-the-pacemakers/41296016">リンク</a></p></td>
-<td></td>
+<td><p>2012年 - 2013年<br />
+2017年 -</p></td>
+<td><p>mini muff records</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/テスラは泣かない/550395897">リンク</a></p></td>
+<td><p><a href="../Page/Virgin_Music.md" title="wikilink">Virgin Music</a>（2014年 - 2015年）から再移籍。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/SUPER_BEAVER" title="wikilink">SUPER BEAVER</a></p></td>
 <td><p>スーパービーバー</p></td>
-<td><p>2014年〜</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/super-beaver/207340886">リンク</a></p></td>
-<td><p>murffin discs傘下ロックレーベル[NOiD]に所属。</p></td>
+<td><p>2014年 -</p></td>
+<td><p>[NOiD]</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/super-beaver/207340886">リンク</a></p></td>
+<td><p><a href="../Page/エピックレコードジャパン.md" title="wikilink">エピックレコードジャパン</a>（2009年 - 2011年）、<br />
+I×L×P× RECORDS（2012年 - 2013年）を経て所属。<br />
+メジャー再契約に伴い2020年からはマネジメントのみ所属。<br />
+<a href="../Page/ソニー・ミュージックレコーズ.md" title="wikilink">ソニー・ミュージックレコーズ</a>（2020年 - ）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/sumika" title="wikilink">sumika</a></p></td>
 <td><p>スミカ</p></td>
-<td><p>2014年〜2017年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/sumika/586120102">リンク</a></p></td>
-<td><p>[NOiD]所属。2018年ソニー・ミュージックレコーズよりメジャーデビュー</p></td>
+<td><p>2014年 -</p></td>
+<td><p>[NOiD]</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/sumika/586120102">リンク</a></p></td>
+<td><p>メジャーデビューに伴い2018年からはマネジメントのみ所属。<br />
+ソニー・ミュージックレコーズ（2018年 - ）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/the_quiet_room" title="wikilink">the quiet room</a></p></td>
 <td><p>ザクワイエットルーム</p></td>
-<td><p>2014年〜</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/the-quiet-room/1291848206">リンク</a></p></td>
-<td><p>[NOiD]所属</p></td>
+<td><p>2014年 -</p></td>
+<td><p>mini muff records</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/the-quiet-room/1291848206">リンク</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Anly" title="wikilink">Anly</a></p></td>
-<td><p>アンリィ</p></td>
-<td><p>2015年</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/anly/956111461">リンク</a></p></td>
-<td><p>2015年11月ソニー・ミュージックレコーズよりメジャーデビュー</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Amelie" title="wikilink">Amelie</a></p></td>
 <td><p>アメリ</p></td>
-<td><p>2015年〜</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/amelie/1388716055">リンク</a></p></td>
-<td><p>[NOiD]所属</p></td>
+<td><p>2015年 -</p></td>
+<td><p>[NOiD]</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/amelie/1388716055">リンク</a></p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/東京カランコロン" title="wikilink">東京カランコロン</a></p></td>
 <td><p>とうきょうカランコロン</p></td>
-<td><p>2017年〜</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/東京カランコロン/371634899">リンク</a></p></td>
-<td><p>TALTO所属。avex traxより移籍</p></td>
+<td><p>2017年 -</p></td>
+<td><p>TALTO</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/東京カランコロン/371634899">リンク</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/グッデイ_(芸能プロダクション)" title="wikilink">BUDDY RECORDS</a>（2011年）、<br />
+<a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a>（2012年 - 2017年）を経て所属。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マカロニえんぴつ" title="wikilink">マカロニえんぴつ</a></p></td>
 <td><p>マカロニえんぴつ</p></td>
-<td><p>2017年〜</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/マカロニえんぴつ/956011835">リンク</a></p></td>
-<td><p>TALTO所属</p></td>
+<td><p>2017年 -</p></td>
+<td><p>TALTO</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/マカロニえんぴつ/956011835">リンク</a></p></td>
+<td><p>BUDDY RECORDS（2015年 - 2017年）から移籍。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/SAKANAMON" title="wikilink">SAKANAMON</a></p></td>
 <td><p>サカナモン</p></td>
-<td><p>2017年〜</p></td>
-<td><p><a href="https://itunes.apple.com/jp/artist/sakanamon/460336060">リンク</a></p></td>
-<td><p>TALTO所属。Getting Betterより移籍</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/osage" title="wikilink">osage</a></p></td>
-<td><p>オサゲ</p></td>
-<td><p>2018年〜</p></td>
-<td><p><a href="https://music.apple.com/jp/artist/osage/1458678654">リンク</a></p></td>
-<td><p>murffin Lab.所属</p></td>
+<td><p>2017年 -</p></td>
+<td><p>TALTO</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/sakanamon/460336060">リンク</a></p></td>
+<td><p>BUDDY RECORDS（2011年 - 2012年）、<br />
+<a href="https://ja.wikipedia.org/wiki/Getting_Better" title="wikilink">Getting Better</a>（2012年 - 2016年）を経て所属。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/なきごと" title="wikilink">なきごと</a></p></td>
-<td><p>なきごと</p></td>
-<td><p>2018年〜</p></td>
-<td><p><a href="https://music.apple.com/jp/artist/なきごと/1459494097">リンク</a></p></td>
-<td><p>[NOiD]所属</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/osage" title="wikilink">osage</a></p></td>
+<td><p>オサゲ</p></td>
+<td><p>2018年 -</p></td>
+<td><p>murffin Lab.</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/osage/1458678654">リンク</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/なきごと" title="wikilink">なきごと</a></p></td>
+<td><p>なきごと</p></td>
+<td><p>2018年 -</p></td>
+<td><p>[NOiD]</p></td>
+<td><p><a href="https://music.apple.com/jp/artist/なきごと/1459494097">リンク</a></p></td>
 <td></td>
-<td></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/SherLock" title="wikilink">SherLock</a></p></td>
+<td><p>シャーロック</p></td>
+<td><p>2020年 -</p></td>
+<td><p>murffin Lab.</p></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+## 過去の所属アーティスト
+
+| アーティスト名                                                                             | 読み                 | 所属期間          | Apple Music                                                                | 備考                                                                                                                              |
+| ----------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [惑星](../Page/惑星_\(バンド\).md "wikilink")                                              | わくせい               | 2006年 - 2007年 |                                                                            | 2007年活動終了                                                                                                                       |
+| [The Sun calls Stars](https://ja.wikipedia.org/wiki/The_Sun_calls_Stars "wikilink") | ザサンコールスターズ         | 2006年         |                                                                            | [オータコージ](https://ja.wikipedia.org/wiki/オータコージ "wikilink")と[伊藤大助によるユニット](https://ja.wikipedia.org/wiki/クラムボン_\(バンド\) "wikilink") |
+| [ジャズネコ](https://ja.wikipedia.org/wiki/ジャズネコ "wikilink")                             | ジャズネコ              | 2007年         | [リンク](https://music.apple.com/jp/artist/ジャズネコ/322800337)                   | [上杉昇](../Page/上杉昇.md "wikilink")のレーベルpojjo récordに移籍                                                                            |
+| [YUEY](https://ja.wikipedia.org/wiki/YUEY "wikilink")                               | ユーエイ               | 2007年 - 2013年 | [リンク](https://music.apple.com/jp/artist/yuey/277761689)                    |                                                                                                                                 |
+| [MISUNDERSTAND](https://ja.wikipedia.org/wiki/MISUNDERSTAND "wikilink")             | ミスアンダースタンド         | 2007年         | [リンク](https://music.apple.com/jp/artist/misunderstand/356144546)           |                                                                                                                                 |
+| [The Mirraz](https://ja.wikipedia.org/wiki/The_Mirraz "wikilink")                   | ザミイラズ              | 2007年 - 2010年 | [リンク](https://music.apple.com/jp/artist/the-mirraz/297695929)              | →自主レーベル→EMIミュージック・ジャパン→自主レーベル                                                                                                   |
+| [Veni Vidi Vicious](https://ja.wikipedia.org/wiki/Veni_Vidi_Vicious "wikilink")     | ヴェニヴィディヴィシャス       | 2007年 - 2009年 | [リンク](https://music.apple.com/jp/artist/veni-vidi-vicious/292652293)       | DAIZAWA RECORDSに移籍                                                                                                              |
+| [踊ってばかりの国](https://ja.wikipedia.org/wiki/踊ってばかりの国 "wikilink")                       | おどってばかりのくに         | 2009年 - 2013年 | [リンク](https://music.apple.com/jp/artist/踊ってばかりの国/423525169)                | ツクモガミに移籍                                                                                                                        |
+| [OTOTOI GROUP](https://ja.wikipedia.org/wiki/OTOTOI_GROUP "wikilink")               | オトトイグループ           | 2012年         | [リンク](https://music.apple.com/jp/artist/ototoi-group/327771628)            |                                                                                                                                 |
+| [Hermann H.\&The Pacemakers](../Page/Hermann_H.&The_Pacemakers.md "wikilink")       | ヘルマンエイチアンドザペースメーカー | 2014年         | [リンク](https://music.apple.com/jp/artist/hermann-h-the-pacemakers/41296016) |                                                                                                                                 |
+| [Anly](https://ja.wikipedia.org/wiki/Anly "wikilink")                               | アンリィ               | 2015年         | [リンク](https://music.apple.com/jp/artist/anly/956111461)                    | 2015年11月ソニー・ミュージックレコーズよりメジャーデビュー                                                                                                |
 
 ## サウンドトラック・コンピレーション
 
@@ -222,4 +181,6 @@
   -
   -
   -
+  - [murffin discs](https://murffinshop.thebase.in) - BASE
+
 [Category:日本のレコード・レーベル](https://ja.wikipedia.org/wiki/Category:日本のレコード・レーベル "wikilink") [Category:インディーズのレコード・レーベル](https://ja.wikipedia.org/wiki/Category:インディーズのレコード・レーベル "wikilink") [Category:2006年設立の組織](https://ja.wikipedia.org/wiki/Category:2006年設立の組織 "wikilink")

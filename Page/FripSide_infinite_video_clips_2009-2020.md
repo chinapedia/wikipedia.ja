@@ -26,7 +26,7 @@
 13. **[Two souls -toward the truth-](https://ja.wikipedia.org/wiki/Two_souls_-toward_the_truth- "wikilink")**
 14. **[white forces](https://ja.wikipedia.org/wiki/white_forces "wikilink")**
 15. **[1983-schwarzesmarken-(IS3 edition)](https://ja.wikipedia.org/wiki/infinite_synthesis_3 "wikilink")**
-16. **The end of escape**
+16. **[The end of escape](../Page/The_end_of_escape.md "wikilink")**
       -
         [2016年](../Page/2016年.md "wikilink")にリリースされた、[angela](https://ja.wikipedia.org/wiki/angela "wikilink")とのコラボ楽曲。これより以前にリリースされた「**[僕は僕であって](../Page/僕は僕であって.md "wikilink")**」は未収録。
 17. **[clockwork planet](https://ja.wikipedia.org/wiki/clockwork_planet "wikilink")**
@@ -37,7 +37,7 @@
 22. **[Love with You](https://ja.wikipedia.org/wiki/Love_with_You "wikilink")**
 23. **[when chance strikes](https://ja.wikipedia.org/wiki/infinite_synthesis_5 "wikilink")**
 24. **[final phase](https://ja.wikipedia.org/wiki/final_phase "wikilink")**
-25. **only my railgun-version2020-**
+25. **[only my railgun-version2020-](https://ja.wikipedia.org/wiki/only_my_railgun#カバー "wikilink")**
 
 ### 映像特典
 

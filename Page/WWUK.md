@@ -1,7 +1,7 @@
 > この記事は[WWUK](https://ja.wikipedia.org/wiki/WWUK)から翻訳されています。
 
 
-**WWUK**（ウォーク、[6月14日](../Page/6月14日.md "wikilink")\[1\] - ）は、[日本語](../Page/日本語.md "wikilink")を用いて活動している[韓国人](https://ja.wikipedia.org/wiki/韓国人 "wikilink") [YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である。
+**WWUK**（ウォーク、[6月14日](../Page/6月14日.md "wikilink")\[1\] - ）は、[日本語](../Page/日本語.md "wikilink")を用いて活動している[韓国人](https://ja.wikipedia.org/wiki/韓国人 "wikilink") [YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である。2019年に日本国籍の取得する為、帰化申請を行った。
 
 ## 来歴
 
@@ -15,7 +15,7 @@
 
 ## 主張と活動
 
-[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")から[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")を始める。YouTubeをやり始めた当初は時事問題をすぐにやるつもりは無く初期はエンタメ系の動画を中心に投稿していた。その後、日韓問題や日朝関係史の動画を徐々に投稿し始めた\[6\]。
+[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")から[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")を始める。YouTubeをやり始めた当初は時事問題をすぐにやるつもりは無く初期はエンタメ系の動画を中心に投稿していた。その後、[日韓問題](../Page/日韓問題.md "wikilink")や[日朝関係史](https://ja.wikipedia.org/wiki/日朝関係史 "wikilink")の動画を徐々に投稿し始めた\[6\]。
 
 [韓国軍](https://ja.wikipedia.org/wiki/韓国軍 "wikilink")による[レーダー照射問題を取り扱った動画が注目されWWUK自身も知られるようになってきたが](https://ja.wikipedia.org/wiki/韓国海軍レーダー照射問題 "wikilink")、その頃から[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の規制に引っかかり不適切とみなされ広告収入が入らなくなる事が多くなり動画のタイトルを変えるなどの工夫をして動画投稿を続けていると語っている\[7\]。
 

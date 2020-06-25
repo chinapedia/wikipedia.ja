@@ -26,6 +26,8 @@
 | 第5回 | 新生活を始めたけどホームシックになってしまった　そんな時に聴きたい家族の歌 |
 | 第6回 | イントロが印象的な曲                            |
 | 第7回 | 外にお出かけした気分になれる曲                       |
+| 第8回 | 想い出のゲームミュージック                         |
+| 第9回 | MVごっこしたくなる曲                           |
 
 ### Tomori Call
 
@@ -41,6 +43,8 @@
 | 第3回 | [鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")            |
 | 第4回 | [HUNTER×HUNTER](../Page/HUNTER×HUNTER.md "wikilink")                         |
 | 第6回 | [のだめカンタービレ](https://ja.wikipedia.org/wiki/のだめカンタービレ "wikilink")              |
+| 第8回 | [犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")                          |
+| 第9回 | [化物語](https://ja.wikipedia.org/wiki/化物語 "wikilink")                          |
 
 ### Tomoreply（ともりぷ）
 
@@ -72,7 +76,7 @@
 | TS                                                                                    | 『三千万年』                                                                                  | [相対性理論](../Page/相対性理論_\(バンド\).md "wikilink")                                            |                                                                             |
 | 『さくらいろの季節』                                                                            | かたまり隊Jr.                                                                                |                                                                                         |                                                                             |
 | 『春の雨』                                                                                 | [ハルカトミユキ](https://ja.wikipedia.org/wiki/ハルカトミユキ "wikilink")                             |                                                                                         |                                                                             |
-| 第2-7回                                                                                 | ED                                                                                      | 『アカトキ』                                                                                  | 楠木ともり                                                                       |
+| 第2-9回                                                                                 | ED                                                                                      | 『アカトキ』                                                                                  | 楠木ともり                                                                       |
 | 第3回\[4\]                                                                              | OP                                                                                      | 『[罠](../Page/罠_\(THE_BACK_HORNの曲\).md "wikilink")』                                      | [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")                        |
 | Music                                                                                 | 『[春の歌](https://ja.wikipedia.org/wiki/春の歌/テクテク "wikilink")』                              | [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")                                              |                                                                             |
 | 『Light Years』                                                                         | [Calm](https://ja.wikipedia.org/wiki/Calm_\(ミュージシャン\) "wikilink")                       |                                                                                         |                                                                             |
@@ -94,7 +98,7 @@
 | 『[Time goes by](../Page/Time_goes_by.md "wikilink")』                                  |                                                                                         |                                                                                         |                                                                             |
 | 第5回\[6\]                                                                              | OP                                                                                      | 『[シャングリラ](../Page/シャングリラ_\(チャットモンチーの曲\).md "wikilink")』                                 | [チャットモンチー](../Page/チャットモンチー.md "wikilink")                                  |
 | Music                                                                                 | 『[真夜中のドア～Stay With Me](https://ja.wikipedia.org/wiki/真夜中のドア〜Stay_With_Me "wikilink")』   | [松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")                                   |                                                                             |
-| 『Flash                                                                                | \!』                                                                                     | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")                           |                                                                             |
+| 『\[\[Flash                                                                            | \!|Flash                                                                                | \!\]\]』                                                                                 | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")               |
 | 『ゼロのままでいられたら』                                                                         | Official髭男dism                                                                          |                                                                                         |                                                                             |
 | TS                                                                                    | 『[to Mother](https://ja.wikipedia.org/wiki/to_Mother "wikilink")』                       | [YUI](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")                              |                                                                             |
 | 『冬の朝』                                                                                 | [緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会 "wikilink")                                 |                                                                                         |                                                                             |
@@ -130,6 +134,24 @@
 | TS                                                                                    | 『Laurentech』                                                                            | [SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink")                                  |                                                                             |
 | 『Jump In The Line』                                                                    | Toucans Steel Drum Band                                                                 |                                                                                         |                                                                             |
 | 『[キャラバンの到着](https://ja.wikipedia.org/wiki/キャラバンの到着 "wikilink")』                       | [ミシェル・ルグラン](../Page/ミシェル・ルグラン.md "wikilink")                                            |                                                                                         |                                                                             |
+| 第8回\[9\]                                                                              | OP                                                                                      | 『SAIREN』                                                                                | Reol                                                                        |
+| Music                                                                                 | 『僕の見る世界、君の見る世界』                                                                         | 楠木ともり                                                                                   |                                                                             |
+| 『トゲめくスピカ』                                                                             | [ポルカドットスティングレイ](https://ja.wikipedia.org/wiki/ポルカドットスティングレイ "wikilink")                 |                                                                                         |                                                                             |
+| 『[深い森](../Page/深い森.md "wikilink")』                                                    | [Do As Infinity](../Page/Do_As_Infinity.md "wikilink")                                  |                                                                                         |                                                                             |
+| TS                                                                                    | 『よみがえる古のタマシイ』                                                                           |                                                                                         |                                                                             |
+| 『透明なマニキュア moonlit mix』                                                                | [Kiyommy +Seiya](../Page/くまのきよみ.md "wikilink")                                          |                                                                                         |                                                                             |
+| 『Take me to…』                                                                         | [Sana](../Page/新谷さなえ.md "wikilink")                                                     |                                                                                         |                                                                             |
+| 『Dimanche』                                                                            | [Orange Lounge](../Page/舟木智介.md "wikilink")                                             |                                                                                         |                                                                             |
+| 『LONELY ROLLING STAR』                                                                 | [椛田早紀](../Page/椛田早紀.md "wikilink")                                                      |                                                                                         |                                                                             |
+| 『つよがり魂』                                                                               | [キリンジ](../Page/キリンジ.md "wikilink")                                                      |                                                                                         |                                                                             |
+| 第9回\[10\]                                                                             | OP                                                                                      | 『asphyxia』                                                                              | [Cö shu Nie](https://ja.wikipedia.org/wiki/Co_shu_Nie "wikilink")           |
+| Music                                                                                 | 『KMTR645 feat. ネコカミノカマタリ』                                                               | [レキシ](../Page/レキシ.md "wikilink")                                                        |                                                                             |
+| 『cigarette』                                                                           | [さユり](https://ja.wikipedia.org/wiki/さユり "wikilink")                                     |                                                                                         |                                                                             |
+| 『ナナナナナイロ』                                                                             | [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")                             |                                                                                         |                                                                             |
+| 『[君の知らない物語](https://ja.wikipedia.org/wiki/君の知らない物語 "wikilink")』                       | [supercell](https://ja.wikipedia.org/wiki/supercell "wikilink")                         |                                                                                         |                                                                             |
+| TS                                                                                    | 『The Lazy Song』                                                                         | [ブルーノ・マーズ](https://ja.wikipedia.org/wiki/ブルーノ・マーズ "wikilink")                           |                                                                             |
+| 『ジェニーハイラプソディー』                                                                        | [ジェニーハイ](https://ja.wikipedia.org/wiki/ジェニーハイ "wikilink")                               |                                                                                         |                                                                             |
+| 『[We Are The World](../Page/ウィ・アー・ザ・ワールド.md "wikilink")』                              | [U.S.A.for Africa](../Page/USAフォー・アフリカ.md "wikilink")                                   |                                                                                         |                                                                             |
 
 「TS」：Tomori Selection
 
@@ -137,9 +159,9 @@
 
 ## スペシャルゲスト
 
-| 放送回      | ゲスト名 |
-| -------- | ---- |
-| 第1回\[9\] | 多田三洋 |
+| 放送回       | ゲスト名 |
+| --------- | ---- |
+| 第1回\[11\] | 多田三洋 |
 
 ## 脚注
 
@@ -159,3 +181,5 @@
 7.
 8.
 9.
+10.
+11.

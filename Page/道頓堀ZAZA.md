@@ -5,29 +5,29 @@
 
 ## 概要
 
-[1999年](../Page/1999年.md "wikilink")まで[道頓堀五座の一つである](https://ja.wikipedia.org/wiki/道頓堀#道頓堀五座 "wikilink")[中座](../Page/中座.md "wikilink")があった場所の跡地に建てられた「セラヴィスクエア中座」がリニューアルオープンして[複合商業施設](../Page/複合商業施設.md "wikilink")「中座くいだおれビル」に名称を変更後、地下1階に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")設立された劇場\[2\]\[3\]。主に[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")ライブが行われている\[4\]\[5\]。
+[1999年](../Page/1999年.md "wikilink")まで[道頓堀五座の一つである](https://ja.wikipedia.org/wiki/道頓堀#道頓堀五座 "wikilink")[中座](../Page/中座.md "wikilink")があった場所の跡地に建てられた「セラヴィスクエア中座」がリニューアルオープンして[複合商業施設](../Page/複合商業施設.md "wikilink")「中座くいだおれビル」に名称を変更後、地下1階に[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")設立された劇場\[2\]\[3\]。主に[お笑い](https://ja.wikipedia.org/wiki/お笑い "wikilink")ライブが行われている\[4\]\[5\]\[6\]。
 
 ## 道頓堀ZAZA HOUSE
 
 お笑い、[演劇](../Page/演劇.md "wikilink")、[コンサートなどを開催している多目的スペース](../Page/演奏会.md "wikilink")。
 
-  - 客席：シアター形式 100席 - 150席、テーブル形式 50席 - 80席 \[6\]
-  - 楽屋：2室（26、10[平方メートル](../Page/平方メートル.md "wikilink")）\[7\]
+  - 客席：シアター形式 100席 - 150席、テーブル形式 50席 - 80席 \[7\]
+  - 楽屋：2室（26、10[平方メートル](../Page/平方メートル.md "wikilink")）\[8\]
 
 ## 道頓堀ZAZA POCKET’S
 
-お笑い、[落語](../Page/落語.md "wikilink")などを開催、毎日お笑いライブが昼間の時間帯に複数回行われている\[8\]。
+お笑い、[落語](../Page/落語.md "wikilink")などを開催していて、毎日お笑いライブが昼間の時間帯に複数回行われている\[9\]。
 
-  - 客席：50席 - 80席 \[9\]
-  - 楽屋：1室 \[10\]
+  - 客席：50席 - 80席 \[10\]
+  - 楽屋：1室 \[11\]
 
 ## 道頓堀ZAZA Box
 
-[2018年](../Page/2018年.md "wikilink")6月、同じフロア内に道頓堀スクエアがオープンする時に増設された劇場、座席は100席、270度の[プロジェクションマッピング](https://ja.wikipedia.org/wiki/プロジェクションマッピング "wikilink")を常設していて「フードミュージカルGOTTA（ゴッタ）\[11\]」を[ロングラン公演](../Page/ロングラン公演.md "wikilink")している\[12\]\[13\]。GOTTAで使用していない時間帯は、ZAZAよしもとライブを不定期で開催している\[14\]。
+[2018年](../Page/2018年.md "wikilink")6月、同じフロア内に道頓堀スクエアがオープンする時に増設された劇場で座席は100席、270度の[プロジェクションマッピング](https://ja.wikipedia.org/wiki/プロジェクションマッピング "wikilink")を常設していて「フードミュージカルGOTTA（ゴッタ）\[12\]」を[ロングラン公演](../Page/ロングラン公演.md "wikilink")している\[13\]\[14\]。GOTTAで使用していない時間帯は、ZAZAよしもとライブを不定期で開催している\[15\]。
 
 ## アクセス
 
-\[15\]
+\[16\]
 
   - [Osaka Metro](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") [なんば駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink") から徒歩5分
   - [近鉄](../Page/近畿日本鉄道.md "wikilink")・[阪神](../Page/阪神電気鉄道.md "wikilink") [大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink") から徒歩6分
@@ -64,3 +64,4 @@
 13.
 14.
 15.
+16.

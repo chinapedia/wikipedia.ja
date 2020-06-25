@@ -18,7 +18,7 @@
   - 木村 祐介 （きむらゆうすけ）
     [ギター](../Page/ギター.md "wikilink")、[コーラス](https://ja.wikipedia.org/wiki/コーラス "wikilink")担当。東京パピーズのサポートギターも務める。
   - 浅井 萌 （あさいもえ）
-    [ドラムス担当](../Page/ドラムセット.md "wikilink")。[STOMP TALK MODSTONEでもドラムを務める](https://ja.wikipedia.org/wiki/Stomp_talk_modstone "wikilink")。
+    [ドラムス担当](../Page/ドラムセット.md "wikilink")。[STOMP TALK MODSTONEでもドラムを務める](../Page/Stomp_talk_modstone.md "wikilink")。
 
 ### サポートメンバー
 

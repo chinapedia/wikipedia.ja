@@ -18,7 +18,7 @@
 2.  明日夢みて
       - 作詞：[保富康午](../Page/保富康午.md "wikilink")、作、編曲[すぎやまこういち](https://ja.wikipedia.org/wiki/すぎやまこういち "wikilink")、歌：[ささきいさお](../Page/ささきいさお.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[科学忍者隊ガッチャマンII](../Page/科学忍者隊ガッチャマンII.md "wikilink")」エンディングテーマ
-3.  よんでいる
+3.  あさっておいで
       - 作詞：[岸田衿子](../Page/岸田衿子.md "wikilink")、作、編曲：[宇野誠一郎](../Page/宇野誠一郎.md "wikilink")、歌：[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
       - [MBS系](../Page/毎日放送.md "wikilink")「[まんがこども文庫](https://ja.wikipedia.org/wiki/まんがこども文庫 "wikilink")」イメージソング
 4.  小さな船乗り
@@ -56,7 +56,7 @@
       - TBS系「[コラルの探検](https://ja.wikipedia.org/wiki/コラルの探検 "wikilink")」エンディングテーマ
 15. お前がいれば
       - 作詞：山川啓介、作曲：[渡辺岳夫](../Page/渡辺岳夫.md "wikilink")、編曲：[クニ河内](../Page/クニ河内.md "wikilink")、歌：[水木一郎](../Page/水木一郎.md "wikilink")、こおろぎ'73
-      - [よみうりテレビ系](../Page/讀賣テレビ放送.md "wikilink")「[新巨人の星II](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")」イメージソング
+      - [よみうりテレビ系](../Page/讀賣テレビ放送.md "wikilink")「[新巨人の星II](https://ja.wikipedia.org/wiki/巨人の星_\(アニメ\) "wikilink")」イメージソング\[1\]
 16. 花のなかの花
       - 作詞：関根栄一、作曲：菊池俊輔、編曲：[武市昌久](../Page/武市昌久.md "wikilink")、歌：堀江美都子、こおろぎ'73
       - フジテレビ系「[円卓の騎士物語 燃えろアーサー](../Page/円卓の騎士物語_燃えろアーサー.md "wikilink")」エンディングテーマ
@@ -68,7 +68,7 @@
       - 東京12チャンネル系「[森の陽気な小人たちベルフィーとリルビット](../Page/森の陽気な小人たちベルフィーとリルビット.md "wikilink")」エンディングテーマ
 19. 今ほしいものは愛
       - 作詞：[山上路夫](../Page/山上路夫.md "wikilink")、作、編曲：[宮川泰](../Page/宮川泰.md "wikilink")、歌：[福原みどり](https://ja.wikipedia.org/wiki/福原みどり "wikilink")
-      - フジテレビ系「[メーテルリンクの青い鳥 チルチルミチルの冒険旅行](../Page/メーテルリンクの青い鳥_チルチルミチルの冒険旅行.md "wikilink")」挿入歌\[1\]
+      - フジテレビ系「[メーテルリンクの青い鳥 チルチルミチルの冒険旅行](../Page/メーテルリンクの青い鳥_チルチルミチルの冒険旅行.md "wikilink")」挿入歌
 20. 魔法少女ララベル
       - 作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲：[いずみたく](../Page/いずみたく.md "wikilink")、編曲：[親泊正昇](https://ja.wikipedia.org/wiki/親泊正昇 "wikilink")、歌：堀江美都子、コロムビアゆりかご会
       - テレビ朝日系「[魔法少女ララベル](../Page/魔法少女ララベル.md "wikilink")」エンディングテーマ
@@ -174,4 +174,4 @@
 
 [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:テレビアニメ主題歌集](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌集 "wikilink")
 
-1.  TVでは『窓灯り』（[大須賀ひでき](../Page/大須賀ひでき.md "wikilink")）がエンディングテーマとして使用された。
+1.  エンディングテーマ『行け行け飛雄馬』は[続々・テレビまんが主題歌のあゆみ](https://ja.wikipedia.org/wiki/続々・テレビまんが主題歌のあゆみ "wikilink")に収録。

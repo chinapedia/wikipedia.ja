@@ -74,47 +74,26 @@
   - 栗栖秀太郎（くるす しゅうたろう）
     声 - 徳山秀典\[6\]、[古川雄大](../Page/古川雄大.md "wikilink")\[7\]、[畠中祐](https://ja.wikipedia.org/wiki/畠中祐 "wikilink")\[8\]
     大日本帝国陸軍憲兵上等兵。
-
-<!-- end list -->
-
   - 山上徳一（やまがみ とくいち）
-    声 - 小杉十郎太\[9\]、諏訪部順一\[10\]
+    声 - 小杉十郎太\[9\] / 諏訪部順一\[10\]
     大日本帝国陸軍憲兵少佐。
-
-<!-- end list -->
-
   - タケウチ
     声 - [石田彰](../Page/石田彰.md "wikilink")\[11\]\[12\]\[13\]
     大日本帝国陸軍憲兵兵長。
-
-<!-- end list -->
-
   - スワ
     声 - 鈴村健一\[14\]\[15\]\[16\]
     大日本帝国陸軍憲兵伍長。
-
-<!-- end list -->
-
   - 前田義信（まえだ よしのぶ）
-    声 - 諏訪部順一\[17\]、高橋広樹\[18\]、[諏訪部順一](../Page/諏訪部順一.md "wikilink")\[19\]
+    声 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")\[17\] / 高橋広樹\[18\] / 諏訪部順一\[19\]
     大日本帝国陸軍憲兵中佐、後に憲兵大佐。
-
-<!-- end list -->
-
   - 中島宗之助（なかじま そうのすけ）
-    声 - 高橋広樹\[20\]、堀内賢雄\[21\]
+    声 - 高橋広樹\[20\] / 堀内賢雄\[21\] / [家中宏](../Page/家中宏.md "wikilink")\[22\]
     大日本帝国陸軍憲兵中将。
-
-<!-- end list -->
-
   - デフロット
-    声 - [沢城みゆき](../Page/沢城みゆき.md "wikilink")\[22\]\[23\]
+    声 - [沢城みゆき](../Page/沢城みゆき.md "wikilink")\[23\]\[24\]
     白系金髪の少年でヴァンパイア。
-
-<!-- end list -->
-
   - 白瀬葵（しらせ あおい）
-    声 - 美波\[24\]、朝倉あき\[25\]
+    声 - 美波\[25\] / 朝倉あき\[26\] / [折笠富美子](../Page/折笠富美子.md "wikilink")\[27\]
     栗栖秀太郎の幼馴染の女。
 
 ## DVD
@@ -126,23 +105,22 @@
 
 ## 漫画
 
-月刊コミックガーデンの2019年12月号から隔月で連載。タイトルは同じく『MARS RED』
-
-  - 原作：[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")
-  - 漫画：[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")
+『月刊コミックガーデン』2019年12月号から隔月で連載。原作：[藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")、漫画：[唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")。
 
 ## テレビアニメ
 
+2021年より放送予定\[28\]。
+
 ### スタッフ
 
-  - 原作 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[26\]
-  - 監督 - 羽多野浩平\[27\]
-  - シリーズ構成・脚本 - [藤咲淳一](../Page/藤咲淳一.md "wikilink")\[28\]
-  - キャラクター原案 - [唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")\[29\]
-  - キャラクターデザイン - 竹内由香里\[30\]
-  - 音響監督 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[31\]
-  - 音楽 - [村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")\[32\]
-  - アニメーション制作 - [SIGNAL.MD](https://ja.wikipedia.org/wiki/シグナル・エムディ "wikilink")\[33\]
+  - 原作 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[29\]
+  - 監督 - 羽多野浩平\[30\]
+  - シリーズ構成・脚本 - [藤咲淳一](../Page/藤咲淳一.md "wikilink")\[31\]
+  - キャラクター原案 - [唐々煙](https://ja.wikipedia.org/wiki/唐々煙 "wikilink")\[32\]
+  - キャラクターデザイン - 竹内由香里\[33\]
+  - 音響監督 - [藤沢文翁](https://ja.wikipedia.org/wiki/藤沢文翁 "wikilink")\[34\]
+  - 音楽 - [村中俊之](https://ja.wikipedia.org/wiki/村中俊之 "wikilink")\[35\]
+  - アニメーション制作 - [SIGNAL.MD](https://ja.wikipedia.org/wiki/シグナル・エムディ "wikilink")\[36\]
 
 ## 脚注
 
@@ -161,7 +139,7 @@
       -
 　　　　
 
-[Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:朗読劇](https://ja.wikipedia.org/wiki/Category:朗読劇 "wikilink") [Category:大正時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:大正時代を舞台とした作品 "wikilink") [Category:吸血鬼を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたフィクション作品 "wikilink") [Category:2013年の舞台作品](https://ja.wikipedia.org/wiki/Category:2013年の舞台作品 "wikilink") [Category:2015年の舞台作品](https://ja.wikipedia.org/wiki/Category:2015年の舞台作品 "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:2019年の漫画](https://ja.wikipedia.org/wiki/Category:2019年の漫画 "wikilink") [Category:マッグガーデンの漫画](https://ja.wikipedia.org/wiki/Category:マッグガーデンの漫画 "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:シグナル・エムディ](https://ja.wikipedia.org/wiki/Category:シグナル・エムディ "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink")
+[Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:朗読劇](https://ja.wikipedia.org/wiki/Category:朗読劇 "wikilink") [Category:大正時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:大正時代を舞台とした作品 "wikilink") [Category:吸血鬼を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたフィクション作品 "wikilink") [Category:2013年の舞台作品](https://ja.wikipedia.org/wiki/Category:2013年の舞台作品 "wikilink") [Category:2015年の舞台作品](https://ja.wikipedia.org/wiki/Category:2015年の舞台作品 "wikilink") [Category:メディアミックス作品](https://ja.wikipedia.org/wiki/Category:メディアミックス作品 "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:2019年の漫画](https://ja.wikipedia.org/wiki/Category:2019年の漫画 "wikilink") [Category:マッグガーデンの漫画](https://ja.wikipedia.org/wiki/Category:マッグガーデンの漫画 "wikilink") [Category:吸血鬼漫画](https://ja.wikipedia.org/wiki/Category:吸血鬼漫画 "wikilink") [Category:大正時代を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:大正時代を舞台とした漫画作品 "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:2021年のアニメ](https://ja.wikipedia.org/wiki/Category:2021年のアニメ "wikilink") [Category:シグナル・エムディ](https://ja.wikipedia.org/wiki/Category:シグナル・エムディ "wikilink") [Category:吸血鬼を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:吸血鬼を題材としたアニメ作品 "wikilink") [Category:大正時代を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:大正時代を舞台としたアニメ作品 "wikilink")
 
 1.
 2.
@@ -196,3 +174,6 @@
 31.
 32.
 33.
+34.
+35.
+36.

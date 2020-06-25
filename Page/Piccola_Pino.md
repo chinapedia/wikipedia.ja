@@ -35,7 +35,7 @@
 <td><p>リーダー</p></td>
 </tr>
 <tr class="even">
-<td><p>REMI</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川北麗美" title="wikilink">REMI</a></p></td>
 <td><p>れみ</p></td>
 <td><p>れみぷぅ</p></td>
 <td><p>フリー</p></td>
@@ -58,7 +58,7 @@
 <td><p>鈴木花純</p></td>
 <td><p>すずきかすみ</p></td>
 <td><p>かすみ</p></td>
-<td><p>テレジア</p></td>
+<td><p>テレジアプロジェクト</p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>2019年9月</p></td>

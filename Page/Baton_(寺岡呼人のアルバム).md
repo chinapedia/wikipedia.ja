@@ -66,7 +66,7 @@
 <!-- end list -->
 
 1.  **[ブランニュージェネレーション](https://ja.wikipedia.org/wiki/ブランニュージェネレーション "wikilink")**
-2.  **[{{Ruby](https://ja.wikipedia.org/wiki/競争る為にだけ生まれてきた訳じゃねぇ "wikilink")**
+2.  **[{{Ruby](../Page/競争る為にだけ生まれてきた訳じゃねぇ.md "wikilink")**
 3.  **スマイル**
 4.  **バトン**
 5.  **[スーパースター](https://ja.wikipedia.org/wiki/LIVES#収録曲 "wikilink")**

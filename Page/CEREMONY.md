@@ -87,6 +87,20 @@
 19. The hole
 20. サマーレイン・ダイバー
 
+## 演奏
+
+  - 常田大希：Guitar, Piano, Cello, Contrabass, Programming, Vocal
+  - 井口理：Vocal
+  - 新井和輝：Bass, Additional Chorus (4)
+  - 勢喜遊：Drums
+
+  - 江崎文武 ([WONK](https://ja.wikipedia.org/wiki/WONK "wikilink"))：Piano, Rhodes, Organ, Synthesizer (4,5,7,8,9,10,11)
+  - MELRAW：Saxophone (1,2,6,12)
+  - 真砂陽地：Trumpet (1,2,6,12)
+  - 常田俊太郎：Violin, Cello (1,6,11)
+  - ermhoi：Additional Chorus (3)
+  - 西田弓：Additional Chorus (4,7)
+
 ## 特典
 
 ### 初回プレス分限定特典
@@ -174,28 +188,24 @@ TSUTAYAオンラインショッピング</p></td>
 
 ## King Gnu Live Tour 2020 “CEREMONY”
 
-このアルバムを引っ下げて開催される全12公演の全国ツアー。
+このアルバムを引っ下げて開催されるバンド初のアリーナ公演含む全国ツアー。 (全公演が新型コロナウイルスの感染防止のため開催見合わせ)
 
-| 公演日                                                     | 会場                                                                     | 備考                       |
-| ------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------ |
-| [2月29日](../Page/2月29日.md "wikilink")                    | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                             | 新型コロナウイルスの感染防止のため延期      |
-| [3月5日](../Page/3月5日.md "wikilink")                      | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                                 | 新型コロナウイルスの感染防止のため延期      |
-| [3月17日](../Page/3月17日.md "wikilink")                    | [国立代々木競技場 第1体育館](../Page/国立代々木競技場.md "wikilink")                       | 新型コロナウイルスの感染防止のため延期      |
-| [3月18日](../Page/3月18日.md "wikilink")                    | [国立代々木競技場 第1体育館](../Page/国立代々木競技場.md "wikilink")                       | 新型コロナウイルスの感染防止のため延期      |
-| [4月4日](../Page/4月4日.md "wikilink")                      | 仙台GIGS                                                                 | 新型コロナウイルスの感染防止のため中止または延期 |
-| [4月5日](../Page/4月5日.md "wikilink")                      | 仙台GIGS                                                                 | 新型コロナウイルスの感染防止のため中止または延期 |
-| [4月10日](../Page/4月10日.md "wikilink")                    | [KT Zepp Yokohama](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink") | 新型コロナウイルスの感染防止のため中止または延期 |
-| [4月11日](../Page/4月11日.md "wikilink")                    | [KT Zepp Yokohama](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink") | 新型コロナウイルスの感染防止のため中止または延期 |
-| [4月16日](../Page/4月16日.md "wikilink")                    | [KT Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")  | 新型コロナウイルスの感染防止のため中止または延期 |
-| [4月17日](../Page/4月17日.md "wikilink")                    | [KT Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")  | 新型コロナウイルスの感染防止のため中止または延期 |
-| [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | [KT Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")   | 新型コロナウイルスの感染防止のため中止または延期 |
-| [4月21日](../Page/4月21日.md "wikilink")                    | [KT Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")   | 新型コロナウイルスの感染防止のため中止または延期 |
-| [5月5日](../Page/5月5日.md "wikilink")                      | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                             | 新型コロナウイルスの感染防止のため開催見合わせ  |
-| [5月13日](../Page/5月13日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ  |
-| [5月14日](../Page/5月14日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ  |
-| [5月31日](../Page/5月31日.md "wikilink")                    | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                                 | 新型コロナウイルスの感染防止のため開催見合わせ  |
-| [6月24日](../Page/6月24日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 新型コロナウイルスの感染防止のため開催見合わせ  |
-| [6月25日](../Page/6月25日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 新型コロナウイルスの感染防止のため開催見合わせ  |
+| 公演日                                                     | 会場                                                                     | 備考                      |
+| ------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------- |
+| [4月4日](../Page/4月4日.md "wikilink")                      | 仙台GIGS                                                                 | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [4月5日](../Page/4月5日.md "wikilink")                      | 仙台GIGS                                                                 | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [4月10日](../Page/4月10日.md "wikilink")                    | [KT Zepp Yokohama](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink") | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [4月11日](../Page/4月11日.md "wikilink")                    | [KT Zepp Yokohama](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink") | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [4月16日](../Page/4月16日.md "wikilink")                    | [Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")     | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [4月17日](../Page/4月17日.md "wikilink")                    | [Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")     | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") | [Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [4月21日](../Page/4月21日.md "wikilink")                    | [Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp#施設一覧 "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [5月5日](../Page/5月5日.md "wikilink")                      | [マリンメッセ福岡](../Page/マリンメッセ福岡.md "wikilink")                             | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [5月13日](../Page/5月13日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [5月14日](../Page/5月14日.md "wikilink")                    | [東京ガーデンシアター](https://ja.wikipedia.org/wiki/東京ガーデンシアター "wikilink")      | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [5月31日](../Page/5月31日.md "wikilink")                    | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                                 | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [6月24日](../Page/6月24日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 新型コロナウイルスの感染防止のため開催見合わせ |
+| [6月25日](../Page/6月25日.md "wikilink")                    | [ぴあアリーナMM](https://ja.wikipedia.org/wiki/ぴあアリーナMM "wikilink")          | 新型コロナウイルスの感染防止のため開催見合わせ |
 
 ## 脚注
 

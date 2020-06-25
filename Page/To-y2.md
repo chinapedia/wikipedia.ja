@@ -13,6 +13,8 @@
 
 3月28日からは、各形態のCDに封入されているシリアルコードで「To Yours」のメンバー別ソロバージョンが視聴可能となった\[9\]。
 
+2015年発売の『[KIS-MY-WORLD](https://ja.wikipedia.org/wiki/KIS-MY-WORLD "wikilink")』、2016年発売の『[I SCREAM](https://ja.wikipedia.org/wiki/I_SCREAM "wikilink")』、2017年発売の『[MUSIC COLOSSEUM](https://ja.wikipedia.org/wiki/MUSIC_COLOSSEUM "wikilink")』、2018年発売の『[Yummy\!\!](https://ja.wikipedia.org/wiki/Yummy!! "wikilink")』、2019年発売の『[FREE HUGS\!](https://ja.wikipedia.org/wiki/FREE_HUGS! "wikilink")』、本作『To-y2』のタイトルの頭文字をつなげると「Kis-My-Ft2」となる。
+
 ### 販売形態・封入特典
 
   - 初回盤A（CD+DVD）（AVCD-96465/B）
@@ -61,7 +63,7 @@
         作詞：[TEE](https://ja.wikipedia.org/wiki/TEE_\(歌手\) "wikilink")、作曲：Chris Meyer, クドリャフカ、編曲：Chris Meyer
 8.  **MAHARAJA** \[3:36\]
       -
-        作詞：岡野りほ, MiNE、作曲：Andreas Ohrn, 川口進、編曲：川口進
+        作詞：岡野りほ, MiNE、作曲：Andreas Ohrn, [川口進](https://ja.wikipedia.org/wiki/川口進 "wikilink")、編曲：川口進
 9.  **Be alright** \[3:49\]
       -
         作詞・作曲・編曲：AOJI
@@ -105,6 +107,7 @@
         通常盤のみ[シークレットトラックとして収録](../Page/隠しトラック.md "wikilink")。
         [サンドアート](../Page/サンドアート.md "wikilink")ビデオが作成され、2020年4月1日にYouTubeにてショートバージョン、4月9日にジャニーズネット公式サイトにてフルバージョンが公開された。
         2020年3月30日にジャニーズ事務所公式YouTubeチャンネルにて配信された「Johnny's World Happy LIVE with YOU」にて、「Make you mine」「[Mr.FRESH](https://ja.wikipedia.org/wiki/Edge_of_Days "wikilink")」「COUNT 7EVEN」とともに披露された\[12\]。
+        2020年5月19日にジャニーズ事務所公式YouTubeチャンネルにて「Smile Up \! Project」の一環として配信されたキスマイの動画で、この曲のアコーディオンバージョンが公開された。
 
 ### 特典CD
 

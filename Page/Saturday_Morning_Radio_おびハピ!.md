@@ -17,8 +17,7 @@
 ### 8時台
 
   - 8:00 オープニング
-  - 8:03 [NACK5 NEWS](https://ja.wikipedia.org/wiki/NACK5_NEWS "wikilink")
-  - 8:08 NACK5 TRAFFIC
+  - 8:03 nack５ニュース
   - 8:10 NACK5 WEATHER
   - 8:55 NACK5 TRAFFIC
   - 8:57 NACK5 WEATHER

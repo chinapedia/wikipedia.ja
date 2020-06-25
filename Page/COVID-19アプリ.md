@@ -23,6 +23,10 @@
 
 インドは、「健康の架け橋」と呼ばれるアプリを導入。2020年5月に始めた封鎖措置の緩和の際、仕事に復帰する官民労働者すべてにアプリの使用を義務付けた。他の国で採用されたアプリと同様、ブルートゥースを使って人の接触を記録し、感染者が近くにいる場合は警告を発する仕組みだが、情報は中央管理によりデータベース化されることが特徴。個人のプライバシーの領域に大きく踏み込むこととなっている\[5\]。
 
+### 日本
+
+[2020年](../Page/2020年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")首相が記者会見の中で**感染者接触確認アプリ**として、同年6月中旬の公開を目指して開発を進める方針を表明。仕様書を公開した。個人情報の保護に関しては、[竹本直一](https://ja.wikipedia.org/wiki/竹本直一 "wikilink")IT政策担当相が「絶対外に漏れないという配慮をしながらやっていきたい。」と言及した\[6\]。
+
 ## 脚注
 
 ## 関連項目
@@ -38,8 +42,11 @@
   - [地理空間情報](../Page/地理空間情報.md "wikilink")
   - [Folding@home](https://ja.wikipedia.org/wiki/Folding@home#ウイルス "wikilink")
   - [TraceTogether](../Page/TraceTogether.md "wikilink")
+  - [まもりあいJAPAN](https://ja.wikipedia.org/wiki/まもりあいJAPAN "wikilink")
 
 ## 外部リンク
+
+  - [接触確認アプリに関する仕様書等の公表](https://cio.go.jp/node/2613) - [政府CIOポータル](https://ja.wikipedia.org/wiki/政府CIOポータル "wikilink")
 
   - [新型コロナウイルス対策 - 移動傾向レポート](https://www.apple.com/covid19/mobility)  - [Apple](../Page/アップル_\(企業\).md "wikilink")
 
@@ -68,3 +75,4 @@
 3.
 4.
 5.
+6.

@@ -107,4 +107,4 @@
 
 ## 脚注
 
-[Category:2013年のアルバム](https://ja.wikipedia.org/wiki/Category:2013年のアルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink") [Category:日本のヒップホップのアルバム](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのアルバム "wikilink")
+[Category:2013年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2013年のベスト・アルバム "wikilink") [Category:キングレコードのアルバム](https://ja.wikipedia.org/wiki/Category:キングレコードのアルバム "wikilink") [Category:日本のヒップホップのアルバム](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのアルバム "wikilink")

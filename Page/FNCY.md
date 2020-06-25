@@ -48,7 +48,7 @@ YouTubeで配信されている
 
 ## 関連項目
 
-  - [コマリヨー](https://ja.wikipedia.org/wiki/コマリヨー "wikilink")　（名古屋の靴メーカー。コラボスニーカー「FNCY TOKYO」を製造）
+  - [コマリヨー](../Page/コマリヨー.md "wikilink")　（名古屋の靴メーカー。コラボスニーカー「FNCY TOKYO」を製造）
 
 ## 外部リンク
 

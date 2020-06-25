@@ -17,6 +17,7 @@
 <th><p>タロットカード</p></th>
 <th><p>誕生日</p></th>
 <th><p>出身</p></th>
+<th><p>課外活動</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -28,6 +29,7 @@
 <td><p><a href="../Page/女帝_(タロット).md" title="wikilink">女帝</a></p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/妄想キャリブレーション" title="wikilink">妄想キャリブレーション</a><br />
 ソロ歌手としても活動</p></td>
 </tr>
@@ -38,6 +40,7 @@
 <td><p><a href="../Page/運命の輪.md" title="wikilink">運命の輪</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サイド3" title="wikilink">サイド3</a></p></td>
+<td><p>DS☆ゲーム部</p></td>
 <td><p>ソロアイドルとしても活動</p></td>
 </tr>
 <tr class="odd">
@@ -48,6 +51,7 @@
 <td><p><a href="../Page/審判_(タロット).md" title="wikilink">審判</a></p></td>
 <td></td>
 <td><p><a href="../Page/四川省.md" title="wikilink">中国四川省</a></p></td>
+<td><p>DS☆ゲーム部</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -57,6 +61,7 @@
 <td><p><a href="../Page/魔術師_(タロット).md" title="wikilink">魔術師</a></p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p>DSPM人狼部</p></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/BiS" title="wikilink">BiS</a><a href="https://ja.wikipedia.org/wiki/トリアエズ・ハナ" title="wikilink">トリアエズ・ハナ</a></p></td>
 </tr>
 <tr class="odd">
@@ -66,6 +71,7 @@
 <td><p><a href="../Page/世界_(タロット).md" title="wikilink">世界</a></p></td>
 <td></td>
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/THEカラオケ★バトル" title="wikilink">THEカラオケ★バトル</a><br />
 元「U-18四天王」</p></td>
 </tr>
@@ -74,6 +80,7 @@
 <small>あまの ひかる</small></p></td>
 <td><p>ﾋｶﾙﾁｬﾝ</p></td>
 <td><p><a href="../Page/星_(タロット).md" title="wikilink">星</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>メンバー最年少</p></td>

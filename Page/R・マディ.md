@@ -33,7 +33,7 @@
   - [Manithan](https://ja.wikipedia.org/wiki/:en:Manithan_\(2016_film\) "wikilink")（2016年）
   - [インパクト・クラッシュ](https://ja.wikipedia.org/wiki/インパクト・クラッシュ "wikilink")（2017年）
   - [Bhaagamathie](https://ja.wikipedia.org/wiki/:en:Bhaagamathie "wikilink")（2018年）
-  - [サーホー](https://ja.wikipedia.org/wiki/サーホー "wikilink")（2019年）
+  - [サーホー](../Page/サーホー.md "wikilink")（2019年）
 
 ## 出典
 

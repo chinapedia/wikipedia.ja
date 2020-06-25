@@ -11,7 +11,7 @@
 
   - [南山国際中学校](https://ja.wikipedia.org/wiki/南山国際中学校 "wikilink")・高等学校卒業。[南山大学](../Page/南山大学.md "wikilink")[法学部](../Page/法学部.md "wikilink")中退。
   - 2003年 - AVERを結成。楽曲「Voices Over Bullets」などをプロデュースし、故郷の名古屋周辺のクラブで定期的にギターを演奏していた\[3\]。
-  - 2007年 - AVERとRxYxOが率いるWheel of Lifeが解散、残された5人のメンバーでcoldrainを結成。
+  - 2007年 - AVER解散。残ったメンバーであるKatsumaと、先輩であるWheel Of LifeのRxYxO、Sugi、Y.K.Cと合流しcoldrainを結成。
   - 2019年10月25日、モデルの[ケルクハナ](https://ja.wikipedia.org/wiki/ケルクハナ "wikilink")との結婚を発表\[4\]。
 
 ## 音楽性

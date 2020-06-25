@@ -36,7 +36,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：A型</li>
 <li>国籍：</li>
 <li>ポジション：ボーカル・ラッパー・プロデュース</li>
-<li>担当の価値観：묵(墨)</li>
+<li>担当：墨, 木, 東, 靑</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -47,7 +47,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：メインボーカル</li>
-<li>担当の価値観：신(信)</li>
+<li>担当：信, 土, 中, 黃</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -58,7 +58,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：O型</li>
 <li>国籍：</li>
 <li>ポジション：メインダンサー・ラッパー・プロデュース</li>
-<li>担当の価値観:예(禮)</li>
+<li>担当:禮, 火, 南, 赤</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -69,7 +69,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：ダンサー・ボーカル</li>
-<li>担当の価値観：수(數)</li>
+<li>担当：知, 水, 北, 黑</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -80,7 +80,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：ダンサー・ボーカル</li>
-<li>担当の価値観：심(心)</li>
+<li>担当：心, 土, 中, 黃</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -92,7 +92,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>国籍：</li>
 <li>学歴：구암중학교(龜巖中等學校)</li>
 <li>ポジション：リーダー・メインボーカル</li>
-<li>担当の価値観：의(義)</li>
+<li>担当：義, 金, 西, 白</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -103,7 +103,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>ポジション：ラッパー</li>
-<li>担当の価値観：인(仁)</li>
+<li>担当：仁, 木, 東, 靑</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -114,7 +114,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：A型</li>
 <li>国籍：</li>
 <li>ポジション：メインダンサー・ボーカル</li>
-<li>担当の価値観：덕(徳)</li>
+<li>担当：德, 火, 南, 赤</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -125,7 +125,7 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：O型</li>
 <li>国籍：</li>
 <li>ポジション：ボーカル</li>
-<li>担当の価値観：생명(生命)</li>
+<li>担当：生命, 金, 西, 白</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -136,8 +136,8 @@ TOOは[Stone Music Entertainmentと](https://ja.wikipedia.org/wiki/Stone_Music_E
 <li>血液型：B型</li>
 <li>国籍：</li>
 <li>学歴：翰林演芸芸術高等学校</li>
-<li>ポジション：ボーカル</li>
-<li>担当の価値観：지(知)</li>
+<li>ポジション：ボーカル・演技</li>
+<li>担当：知, 水, 北, 黑</li>
 </ul></td>
 </tr>
 </tbody>

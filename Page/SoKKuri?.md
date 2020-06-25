@@ -1,7 +1,7 @@
 > この記事は[SoKKuri\?](https://ja.wikipedia.org/wiki/SoKKuri\?)から翻訳されています。
 
 
-**SoKKuri?**(そっくり)は日本の[ウェブサイト](../Page/ウェブサイト.md "wikilink")。自分が似ていると思う芸能人や有名人を[投稿](https://ja.wikipedia.org/wiki/投稿 "wikilink")することができる\[1\]。
+**SoKKuri?**（そっくり）は日本の[ウェブサイト](../Page/ウェブサイト.md "wikilink")。自分が似ていると思う芸能人や有名人を[投稿](https://ja.wikipedia.org/wiki/投稿 "wikilink")することができる\[1\]。
 
 ## 概要
 
@@ -29,9 +29,9 @@
 
 ## 外部リンク
 
-  - [SoKKuri?公式サイト](https://sokkuri.net)
+  - [SoKKuri?](https://sokkuri.net)
 
-[Category:2008年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2008年開設のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:肖像画](https://ja.wikipedia.org/wiki/Category:肖像画 "wikilink") [Category:ポートレート・アート](https://ja.wikipedia.org/wiki/Category:ポートレート・アート "wikilink")
+[Category:2008年開設のウェブサイト](https://ja.wikipedia.org/wiki/Category:2008年開設のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink")
 
 1.
 2.   そっくり?soKKuri?|url=[https://sokkuri.net/cont-info.php|website=そっくり?soKKuri](https://sokkuri.net/cont-info.php%7Cwebsite=そっくり?soKKuri)? 似ている？似てない？|accessdate=2020-04-16}}

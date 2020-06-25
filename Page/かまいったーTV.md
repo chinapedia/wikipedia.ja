@@ -40,7 +40,8 @@ Twitter JAPAN株式会社と株式会社[Libalent](https://libalent.com/) が共
 | **12** | 4月16日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1250740842626560000?s=20) | 第1回の再放送\[5\]                                                                                               |
 | **13** | 4月23日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1253278045244252160?s=20) | 第2回の再放送                                                                                                    |
 | **14** | 4月30日 |                                                                         | [番組](https://twitter.com/KamaitterTV/status/1255814259478429698?s=20) | 第3回の再放送                                                                                                    |
-| **15** | 5月15日 | [藤崎マーケット](../Page/藤崎マーケット.md "wikilink")                                | [番組](https://twitter.com/KamaitterTV/status/1260906086099333121?s=20) | リモート配信                                                                                                     |
+| **15** | 5月14日 | [藤崎マーケット](../Page/藤崎マーケット.md "wikilink")                                | [番組](https://twitter.com/KamaitterTV/status/1260906086099333121?s=20) | リモート配信                                                                                                     |
+| **16** | 5月28日 | [見取り図](https://ja.wikipedia.org/wiki/見取り図_\(お笑い\) "wikilink")           | [番組](https://twitter.com/KamaitterTV/status/1265961082461380608?s=20) | リモート配信                                                                                                     |
 
 2020年
 

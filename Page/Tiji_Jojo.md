@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - 高校1年生の時に逮捕され、[少年院](../Page/少年院.md "wikilink")に送致される。少年院から出所した時に[T-Pablow](https://ja.wikipedia.org/wiki/T-Pablow "wikilink")が第一回[高校生ラップ選手権](https://ja.wikipedia.org/wiki/高校生ラップ選手権 "wikilink")で優勝しており、[ラップ](../Page/ラップ.md "wikilink")を始めるきっかけとなった。\[2\]
+  - 高校1年生の時に逮捕され、[少年院](../Page/少年院.md "wikilink")に送致される。少年院から出所した時に[T-Pablow](https://ja.wikipedia.org/wiki/T-Pablow "wikilink")が第一回[高校生ラップ選手権](https://ja.wikipedia.org/wiki/高校生ラップ選手権 "wikilink")で優勝しており、[ラップ](../Page/ラップ.md "wikilink")を始めるきっかけとなった\[2\]。
 
 <!-- end list -->
 

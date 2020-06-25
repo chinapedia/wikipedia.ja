@@ -13,7 +13,7 @@
 
 3曲目の「**Love Fight\!**」は、映画『[ナイトメアー・ビフォア・クリスマス](../Page/ナイトメアー・ビフォア・クリスマス.md "wikilink")』のようなダークファンタジーをイメージしたダンス曲\[4\]。
 
-4曲目の「**DAYBREAKERS**」は、[bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink")が[中華人民共和国](../Page/中華人民共和国.md "wikilink")にて配信しているスマートフォンゲーム『重装戦姫』の主題歌\[5\]。
+4曲目の「**DAYBREAKERS**」は、[bilibili](https://ja.wikipedia.org/wiki/bilibili "wikilink")のスマートフォンゲーム『[重装戦姫](https://ja.wikipedia.org/wiki/重装戦姫 "wikilink")』の[中国大陸](../Page/中国大陸.md "wikilink")および[繁体字](../Page/繁体字.md "wikilink")版主題歌\[5\]。
 
 5曲目の「**Knock U down**」は[TBSテレビ](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』の2019年12月度・2020年1月度のオープニングテーマ\[6\]。
 

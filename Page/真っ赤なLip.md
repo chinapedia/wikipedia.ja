@@ -32,7 +32,7 @@
 
 2019年[12月21日](../Page/12月21日.md "wikilink")にはジャケットアートワークが公開され、名探偵コナン盤のアートワークは、「真っ赤なLip」をつけた[毛利蘭](../Page/毛利蘭.md "wikilink")と、そのセクシーな姿にドキドキする[工藤新一のビジュアルとなっている](../Page/江戸川コナン.md "wikilink")\[30\]。
 
-通常盤ではメンバー3人の表情が正面からハーフシャドウの技法で撮影されており、上原のシングルジャケットへの顔出しは初となる他、柴崎は在籍時のラストシングル「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」、木村は「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」以来の登場となる。
+通常盤ではメンバー3人の表情が正面からハーフシャドウの技法で撮影されており、上原のシングルジャケットへの顔出しは初となる他、柴崎は第2期ラストシングル「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」、木村は「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」以来の登場となる（第3期最後のシングル『[「今日、ナニカノハズミデ生きている」](../Page/「今日、ナニカノハズミデ生きている」.md "wikilink")』は、[和久二郎](https://ja.wikipedia.org/wiki/和久二郎 "wikilink")のみがジャケット写真に写っている）。
 
 ## ミュージックビデオ
 
@@ -42,31 +42,13 @@
 
 「真っ赤なLip」は[オリコンチャート](../Page/オリコンチャート.md "wikilink")の週間シングルランキングで14位、合算シングルランキングで週間35位、ROCKシングルランキングで週間2位、アニメシングルランキングで週間8位を獲得し、[Billboard JAPANの](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")「[Hot 100](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_100 "wikilink")」で週間45位、「[Hot Animation](https://ja.wikipedia.org/wiki/Billboard_Japan_Hot_Animation "wikilink")」で週間7位、「[Download Songs](https://ja.wikipedia.org/wiki/Billboard_Japan_Download_Songs "wikilink")」で週間27位、「[Top Singles Sales](https://ja.wikipedia.org/wiki/Billboard_Japan_Top_Singles_Sales "wikilink")」で週間16位を獲得した。
 
-オリコンチャート週間シングルランキングでは「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」の8位以来、22年振りのトップ20入りを達成｡
-
 ## 収録曲
 
 ## 収録アルバム
 
-<table>
-<thead>
-<tr class="header">
-<th><p>楽曲</p></th>
-<th><p>発売日</p></th>
-<th><p>収録アルバム</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>真っ赤なLip</strong></p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a></p></td>
-<td><p><a href="../Page/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜.md" title="wikilink">THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜</a></p></td>
-<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』の<a href="https://ja.wikipedia.org/wiki/コンピレーションアルバム" title="wikilink">コンピレーションアルバム</a>。<br />
-「真っ赤なLip -TV size-」のみ収録[35][36]。</p></td>
-</tr>
-</tbody>
-</table>
+**真っ赤なLip**
+
+  - [THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜.md "wikilink")（TV size）\[35\]\[36\]
 
 ## 脚注
 
@@ -74,7 +56,7 @@
 
 ### 出典
 
-[Category:WANDSの楽曲](https://ja.wikipedia.org/wiki/Category:WANDSの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:大島こうすけが制作した楽曲](https://ja.wikipedia.org/wiki/Category:大島こうすけが制作した楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:WANDSの楽曲](https://ja.wikipedia.org/wiki/Category:WANDSの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:大島こうすけが制作した楽曲](https://ja.wikipedia.org/wiki/Category:大島こうすけが制作した楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 
 1.
 2.

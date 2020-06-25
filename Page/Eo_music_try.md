@@ -847,7 +847,7 @@ Main Award
   - [Tequeolo Caliqueolo](https://ja.wikipedia.org/wiki/Tequeolo_Caliqueolo "wikilink")
   - [テトラサイクル](https://ja.wikipedia.org/wiki/テトラサイクル "wikilink")
   - [DENIMS](https://ja.wikipedia.org/wiki/DENIMS "wikilink")
-  - [ドラマストア](https://ja.wikipedia.org/wiki/ドラマストア "wikilink")
+  - [ドラマストア](../Page/ドラマストア.md "wikilink")
   - [NEVERSTAND](https://ja.wikipedia.org/wiki/NEVERSTAND "wikilink")
   - [PURPLE HUMPTY](https://ja.wikipedia.org/wiki/PURPLE_HUMPTY "wikilink")
   - [バウンダリー](https://ja.wikipedia.org/wiki/バウンダリー_\(バンド\) "wikilink")

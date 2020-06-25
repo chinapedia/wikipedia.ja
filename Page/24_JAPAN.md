@@ -1,7 +1,7 @@
 > この記事は[24 JAPAN](https://ja.wikipedia.org/wiki/24_JAPAN)から翻訳されています。
 
 
-『**24 JAPAN**』（トゥエンティーフォー・ジャパン）は、[2020年](../Page/2020年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[テレビ朝日系列](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")で放送が予定されている[唐沢寿明](../Page/唐沢寿明.md "wikilink")主演の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である\[1\]。
+『**24 JAPAN**』（トゥエンティフォー・ジャパン）は、[2020年](../Page/2020年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[テレビ朝日系列](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")で放送が予定されている[唐沢寿明](../Page/唐沢寿明.md "wikilink")主演の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である\[1\]。
 
 ## 概要
 
@@ -14,6 +14,9 @@
   - 獅堂現馬（しどう げんば）
     演 - [唐沢寿明](../Page/唐沢寿明.md "wikilink")
     CTU（テロ対策ユニット）第1支部A班の班長。
+  - 朝倉麗（あさくら うらら）
+    演 - [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")\[3\]
+    「民生党」の党首で日本初の女性総理候補。
 
 ## テーマ曲
 
@@ -59,3 +62,4 @@
 
 1.
 2.
+3.

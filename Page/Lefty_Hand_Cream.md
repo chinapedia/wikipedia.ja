@@ -7,7 +7,7 @@
 
 2014年に知人の勧めで仕事の傍らYouTubeに弾き語りなどの動画を公開し始める。2016年に勤めていた会社を辞めたのをきっかけに本格的な音楽活動を開始\[1\]。現在まで様々なアーティストのカバー動画を公開してきている。日本国内のみならず海外からのアクセスも多く、顔を見せずに歌声のみでYouTubeの登録者は47万人超、動画総再生回数は3億回を超えている。
 
-2017年に「[Lefty Hand Covers](https://ja.wikipedia.org/wiki/Lefty_Hand_Covers "wikilink")」、2018年には「[Lefty Hand Covers II](https://ja.wikipedia.org/wiki/Lefty_Hand_Covers_II "wikilink")」と全て自身によるカバーアレンジのミニアルバムをそれぞれ[ヴィレッジヴァンガードから限定販売している](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")。
+2017年に「[Lefty Hand Covers](https://ja.wikipedia.org/wiki/Lefty_Hand_Covers "wikilink")」、2018年には「[Lefty Hand Covers II](../Page/Lefty_Hand_Covers_II.md "wikilink")」と全て自身によるカバーアレンジのミニアルバムをそれぞれ[ヴィレッジヴァンガードから限定販売している](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")。
 
 2019年12月7日から[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[フジテレビ系全国ネットで放映された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[オトナの土ドラ](https://ja.wikipedia.org/wiki/オトナの土ドラ "wikilink")『[悪魔の弁護人・御子柴礼司～贖罪の奏鳴曲（ソナタ）～](https://ja.wikipedia.org/wiki/悪魔の弁護人・御子柴礼司_〜贖罪の奏鳴曲〜 "wikilink")』の主題歌を歌うことに抜擢されオリジナル曲を提供する。翌2020年1月23日にドラマ主題歌である「ポーカーフェイス」と作詞作曲も担当したオリジナル曲「栞」を含むアルバム「[1LDK](../Page/1LDK_\(アルバム\).md "wikilink")」発売、[ユニバーサルシグマ](https://ja.wikipedia.org/wiki/ユニバーサルシグマ "wikilink")よりメジャーデビュー。
 
@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p><small>2nd.</small></p></td>
 <td><p><small>2018年10月17日</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/Lefty_Hand_Covers_II" title="wikilink">Lefty Hand Covers II</a></small></p></td>
+<td><p><small><a href="../Page/Lefty_Hand_Covers_II.md" title="wikilink">Lefty Hand Covers II</a></small></p></td>
 <td><p><small>YYIREC-002</small></p></td>
 <td><p><small>1. RPG（<a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARI</a>）</small> <small>2. Yeah! Yeah! Yeah!（<a href="https://ja.wikipedia.org/wiki/androp" title="wikilink">androp</a>）</small></p>
 <p><small>3. オドループ（<a href="https://ja.wikipedia.org/wiki/フレデリック_(バンド)" title="wikilink">フレデリック</a>）</small></p>

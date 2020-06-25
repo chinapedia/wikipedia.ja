@@ -32,4 +32,4 @@
     7.  2018年5月18日発売、ISBN 978-4-7580-7811-5
     8.  2018年12月18日発売、ISBN 978-4-7580-7892-4
 
-[Category:漫画作品_に](https://ja.wikipedia.org/wiki/Category:漫画作品_に "wikilink") [Category:2015年の作品](https://ja.wikipedia.org/wiki/Category:2015年の作品 "wikilink") [Category:コミック百合姫](https://ja.wikipedia.org/wiki/Category:コミック百合姫 "wikilink")
+[Category:漫画作品_に](https://ja.wikipedia.org/wiki/Category:漫画作品_に "wikilink") [Category:2015年の漫画](https://ja.wikipedia.org/wiki/Category:2015年の漫画 "wikilink") [Category:コミック百合姫](https://ja.wikipedia.org/wiki/Category:コミック百合姫 "wikilink")

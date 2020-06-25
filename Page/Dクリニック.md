@@ -1,7 +1,7 @@
 > この記事は[Dクリニック](https://ja.wikipedia.org/wiki/Dクリニック)から翻訳されています。
 
 
-**Dクリニック**とは、東京、名古屋、大阪、福岡の4都市に6ヶ所展開している頭髪治療を専門とするクリニックである。東京・大阪は男女別にクリニックを設置、名古屋・福岡は男女別の待合室を設け、診察室も個室でプライバシーに最大限配慮した治療環境を整えている。 同クリニックでは、症状や原因に対して皮膚科、形成外科、メンタルヘルス（精神神経科）等の各分野の専門家である医師が連携し、男女問わず様々な脱毛症の改善のために最新の情報と技術を提供している。 川島眞が、医療法人社団ウェルエイジング・医療法人翠奏会・医療法人リアルエイジ静哉会の総院長としてDクリニック全体を指導する\[1\]。
+**Dクリニック**とは、東京、名古屋、大阪、福岡の4都市に6ヶ所展開している薄毛治療を専門とするクリニックである。東京・大阪は男女別にクリニックを設置、名古屋・福岡は男女別の待合室を設け、診察室も個室でプライバシーに最大限配慮した治療環境を整えている。 同クリニックでは、症状や原因に対して皮膚科、形成外科、メンタルヘルス（精神神経科）等の各分野の専門家である医師が連携し、男女問わず様々な脱毛症の改善のために最新の情報と技術を提供している。 川島眞が、医療法人社団ウェルエイジング・医療法人翠奏会・医療法人リアルエイジ静哉会の総院長としてDクリニック全体を指導する\[1\]。
 
 ## 沿革
 
@@ -34,7 +34,7 @@
 
 **患者ひとりひとりに合わせた治療**
 
-  - 初診の診療では、症状、家族歴、生活習慣などをじっくり聞き、マイクロスコープを使って頭皮の状態をチェックする。再診でもマイクロスコープを使った視診や頭部写真の撮影で頭髪の状態を確認するなど、治療の効果等を把握しながら治療を進める。内服薬のみの単剤処方だけでなく、外用薬、サプリメントなどを取り入れることで、患者の症状や要望に合わせた豊富な発毛治療方法を提案\[4\]。
+  - 初診では、症状、家族歴、生活習慣などをじっくり聞き、マイクロスコープを使って頭皮の状態をチェックする。再診でもマイクロスコープを使った視診や頭部写真の撮影で頭髪の状態を確認するなど、治療の効果等を把握しながら治療を進める。内服薬のみの単剤処方だけでなく、外用薬、サプリメントなどを取り入れることで、患者の症状や要望に合わせた豊富な発毛治療方法を提案\[4\]。
 
 **最新の毛髪知識を国内外に発信**
 
@@ -54,96 +54,119 @@ Dクリニックの[AGA](https://ja.wikipedia.org/wiki/AGA "wikilink")（[男性
 
 令和元年7月に20周年を迎え、クリニック名称を「Dクリニック」ブランドに統一\[8\]。
 
-### Dクリニック東京メンズ
+### Dクリニック東京 メンズ
 
 医療法人社団ウェルエイジング　Dクリニック東京メンズ（旧メンズヘルスクリニック東京）。
 
 「男性の外見と内面を医療によってサポートし、男性の健康を支えていきます」をコンセプトに、AGA治療（薄毛・抜け毛に関する治療）、メンズヘルス医療を提供する\[9\]。
 
+院長の小林一広は、精神科医としての経験を生かし心身両面からの頭髪治療に取り組んでいる\[10\]。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『そもそもなんでダメなんだっけ？』（2019年12月30日（月）23：15〜放送）に出演した際には、「白髪って抜いたらダメなんだっけ？」という疑問に対し解説するなど、頭髪治療の専門家としてメディアでも活躍の場を広げる\[11\]。
+
 **診療科目**
 
   - 自由診療 ― AGA専門外来・男性妊活外来・男性更年期専門外来・男性皮膚専門外来・前立腺がんサポート外来
-  - 保険診療 ― 円形脱毛症専門外来・メンタルヘルスケア\[10\]
+  - 保険診療 ― 円形脱毛症専門外来・メンタルヘルスケア\[12\]
 
 **アクセス**
 
   - 〒100-6210　東京都千代田区丸の内1-11-1　パシフィックセンチュリープレイス丸の内 10F
-  - [JR](../Page/JR.md "wikilink")・[東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink") [東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")、[有楽町駅](https://ja.wikipedia.org/wiki/有楽町駅 "wikilink")、[京橋駅](https://ja.wikipedia.org/wiki/京橋駅 "wikilink")\[11\]
+  - [JR](../Page/JR.md "wikilink")・[東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink") [東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")、[有楽町駅](https://ja.wikipedia.org/wiki/有楽町駅 "wikilink")、[京橋駅](https://ja.wikipedia.org/wiki/京橋駅 "wikilink")\[13\]
 
-### Dクリニック東京ウィメンズ
+### Dクリニック東京 ウィメンズ
 
 医療法人 Dクリニック東京ウィメンズ （旧ウィメンズヘルスクリニック東京）
 
 女性ホルモンを中心としホルモンバランスに着目した女性医療を提供する。
 
-名誉院長の[塩谷信幸](https://ja.wikipedia.org/wiki/塩谷信幸 "wikilink")は[アンチエイジング](https://ja.wikipedia.org/wiki/アンチエイジング "wikilink")分野の専門家として知られ、形成外科、美容医療、アンチエイジング医学・医療の発展に尽力している\[12\]。[2012年](../Page/2012年.md "wikilink")4月28日放送の[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")『[世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")』に、保健体育の先生として出演するなどメディアでも活躍\[13\]。
+名誉院長の[塩谷信幸](https://ja.wikipedia.org/wiki/塩谷信幸 "wikilink")は[アンチエイジング](https://ja.wikipedia.org/wiki/アンチエイジング "wikilink")分野の専門家として知られ、形成外科、美容医療、アンチエイジング医学・医療の発展に尽力している\[14\]。[2012年](../Page/2012年.md "wikilink")4月28日放送の[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")『[世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")』に、保健体育の先生として出演するなどメディアでも活躍\[15\]。 また、院長の浜中聡子は[NHK](https://ja.wikipedia.org/wiki/NHK "wikilink")『ニュース シブ５時』（2020年1月9日（木）16:50～放送）や[TBS](../Page/TBSテレビ.md "wikilink")『[名医のTHE太鼓判！](https://ja.wikipedia.org/wiki/名医のTHE太鼓判! "wikilink")』（2019年2月18日(月)放送）、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")『[スッキリ](https://ja.wikipedia.org/wiki/スッキリ "wikilink")』（2019年1月24日（木）放送）、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[主治医が見つかる診療所](../Page/主治医が見つかる診療所.md "wikilink")』（2018年10月18日（木）放送）など、これまで数多くのメディアに出演し、女性の薄毛や頭皮ケアなどについて解説している。
 
 **診療科目**
 
-  - 女性頭髪専門外来、女性更年期外来、女性皮膚専門外来、美肌外来、点滴・注射外来、からだエイジングドック、ストレスドックメディカルアートメイク\[14\]
+  - 女性頭髪専門外来、女性更年期外来、女性皮膚専門外来、美肌外来、点滴・注射外来、からだエイジングドック、ストレスドック、メディカルアートメイク\[16\]
 
 **アクセス**
 
   - 〒100-6210　東京都千代田区丸の内1-11-1 パシフィックセンチュリープレイス丸の内 10F
-  - [JR](../Page/JR.md "wikilink")・[東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink")[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")、[有楽町駅](https://ja.wikipedia.org/wiki/有楽町駅 "wikilink")、[京橋駅](https://ja.wikipedia.org/wiki/京橋駅 "wikilink")\[15\]
-
-### Dクリニック大阪メンズ
-
-医療法人 翠奏会　Dクリニック大阪 メンズ（旧脇坂クリニック大阪）。男女診療可能な頭髪治療専門病院。
-
-**診療科目**
-
-  - 皮膚科・形成外科\[16\]
-
-**アクセス**
-
-  - 〒530-0001　大阪府大阪市北区梅田3-3-20　明治安田生命大阪梅田ビル21階
-  - [JR](../Page/JR.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")桜橋口出口、[地下鉄四つ橋線](https://ja.wikipedia.org/wiki/地下鉄四つ橋線 "wikilink")[西梅田駅](https://ja.wikipedia.org/wiki/西梅田駅 "wikilink")北改札口\[17\]
-
-### Dクリニック大阪ウィメンズ
-
-医療法人 Dクリニック大阪ウィメンズ（旧脇坂ウィメンズヘルスクリニック大阪）。 女性頭髪専門外来。
-
-「頭髪を中心とした女性の悩みに寄り添う女性専門のクリニック」をコンセプトとしている\[18\]。
-
-**診療科目**
-
-  - 皮膚科・形成外科\[19\]
-
-**アクセス**
-
-  - 〒530-0001　大阪府大阪市北区梅田3-3-20　明治安田生命大阪梅田ビル22階
-  - [JR](../Page/JR.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")桜橋口出口、[地下鉄四つ橋線](https://ja.wikipedia.org/wiki/地下鉄四つ橋線 "wikilink")[西梅田駅](https://ja.wikipedia.org/wiki/西梅田駅 "wikilink")北改札口\[20\]
+  - [JR](../Page/JR.md "wikilink")・[東京メトロ](https://ja.wikipedia.org/wiki/東京メトロ "wikilink")[東京駅](https://ja.wikipedia.org/wiki/東京駅 "wikilink")、[有楽町駅](https://ja.wikipedia.org/wiki/有楽町駅 "wikilink")、[京橋駅](https://ja.wikipedia.org/wiki/京橋駅 "wikilink")\[17\]
 
 ### Dクリニック名古屋
 
 医療法人リアルエイジ静哉会　Dクリニック名古屋（旧 AACクリニック名古屋）
 
-東海地区唯一の頭髪治療専門病院で、男女診療が可能。
+東海地区唯一の薄毛治療専門クリニックで、男女診療が可能。
 
 **診療科目**
 
-  - 皮膚科・形成外科\[21\]
+  - 皮膚科・形成外科\[18\]
 
 **アクセス**
 
   - 〒460-0008　愛知県名古屋市中区栄3-17-15　エフエックスビル9階
-  - [地下鉄東山線](https://ja.wikipedia.org/wiki/地下鉄東山線 "wikilink")[名城線](https://ja.wikipedia.org/wiki/名城線 "wikilink") [栄駅](https://ja.wikipedia.org/wiki/栄駅 "wikilink")、[地下鉄名城線](https://ja.wikipedia.org/wiki/地下鉄名城線 "wikilink") [矢場町駅](https://ja.wikipedia.org/wiki/矢場町駅 "wikilink")\[22\]
+  - [地下鉄東山線](https://ja.wikipedia.org/wiki/地下鉄東山線 "wikilink")[名城線](https://ja.wikipedia.org/wiki/名城線 "wikilink") [栄駅](https://ja.wikipedia.org/wiki/栄駅 "wikilink")、[地下鉄名城線](https://ja.wikipedia.org/wiki/地下鉄名城線 "wikilink") [矢場町駅](https://ja.wikipedia.org/wiki/矢場町駅 "wikilink")\[19\]
 
-### Dクリニック福岡
+### Dクリニック大阪 メンズ
 
-医療法人社団ウェルエイジング Dクリニック福岡（旧城西クリニック福岡）。
+医療法人 翠奏会　Dクリニック大阪 メンズ（旧脇坂クリニック大阪）
 
-九州地区最大級の臨床数を誇る発毛治療専門病院。
+男性専門の薄毛治療専門クリニック。
 
 **診療科目**
 
-  - 皮膚科\[23\]
+  - 皮膚科・形成外科\[20\]
+
+**アクセス**
+
+  - 〒530-0001　大阪府大阪市北区梅田3-3-20　明治安田生命大阪梅田ビル21階
+  - [JR](../Page/JR.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")桜橋口出口、[地下鉄四つ橋線](https://ja.wikipedia.org/wiki/地下鉄四つ橋線 "wikilink")[西梅田駅](https://ja.wikipedia.org/wiki/西梅田駅 "wikilink")北改札口\[21\]
+
+### Dクリニック大阪 ウィメンズ
+
+医療法人 Dクリニック大阪ウィメンズ（旧脇坂ウィメンズヘルスクリニック大阪）
+
+女性の薄毛治療専門クリニック。「頭髪を中心とした女性の悩みに寄り添う女性専門のクリニック」をコンセプトとしている\[22\]。
+
+**診療科目**
+
+  - 皮膚科・形成外科\[23\]
+
+**アクセス**
+
+  - 〒530-0001　大阪府大阪市北区梅田3-3-20　明治安田生命大阪梅田ビル22階
+  - [JR](../Page/JR.md "wikilink")[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")桜橋口出口、[地下鉄四つ橋線](https://ja.wikipedia.org/wiki/地下鉄四つ橋線 "wikilink")[西梅田駅](https://ja.wikipedia.org/wiki/西梅田駅 "wikilink")北改札口\[24\]
+
+### Dクリニック福岡
+
+医療法人社団ウェルエイジング Dクリニック福岡（旧城西クリニック福岡）
+
+九州地区最大級の臨床数を誇る薄毛治療専門クリニック。
+
+**診療科目**
+
+  - 皮膚科\[25\]
 
 **アクセス**
 
   - 〒810-0001　福岡県福岡市中央区[天神](../Page/天神.md "wikilink")1-12-7福岡ダイヤモンドビル9F
-  - [地下鉄空港線](https://ja.wikipedia.org/wiki/地下鉄空港線 "wikilink")[福岡天神駅](https://ja.wikipedia.org/wiki/福岡天神駅 "wikilink")\[24\]
+  - [地下鉄空港線](https://ja.wikipedia.org/wiki/地下鉄空港線 "wikilink")[福岡天神駅](https://ja.wikipedia.org/wiki/福岡天神駅 "wikilink")\[26\]
+
+## CM
+
+Dクリニック20周年を記念した初のCM。2019年8月29日（土）より放送\[27\]。
+
+  - 第1弾「Ｄクリニック　あなたは何型篇」
+
+　　出演者：[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")・[矢部浩之](../Page/矢部浩之.md "wikilink")）　
+
+  - 第2弾「Ｄクリニック　AGAは進行性　15秒篇」
+
+　　出演者：ナインティナイン（岡村隆史・矢部浩之）
+
+## 関連書籍
+
+  - 脇坂 長興・小林 一広・武田 克之（著）『薄毛・抜け毛を治す』[講談社](../Page/講談社.md "wikilink")（2006年08月12日発売）\[28\]
+  - 浜中 聡子（著）『女性のための「頭髪外来」』[扶桑社](../Page/扶桑社.md "wikilink")（2015年03月発売）\[29\]
+  - 熊本 悦明 (著)『さあ立ちあがれ男たちよ\! 老後を捨てて、未来を生きる』[幻冬舎](../Page/幻冬舎.md "wikilink")（2016年03月17日発売）\[30\]
+  - 堀江 重郎（著）『うつかな?と思ったら男性更年期を疑いなさい』[東洋経済新報社](../Page/東洋経済新報社.md "wikilink")（2016年07月15日発売）\[31\]
 
 ## 脚注
 
@@ -164,18 +187,25 @@ Dクリニックの[AGA](https://ja.wikipedia.org/wiki/AGA "wikilink")（[男性
 7.  \[<https://medicalnote.jp/contents/190510-006-QF>　MediaNote「DクリニックでおこなうAGAの治療とは？ ――​​患者さんに適した治療方法を一緒に検討」\]2020年5月18日閲覧
 8.  [産経デジタル「メンズヘルスクリニック２０周年　名称を『Ｄクリニック』ブランドに統一」](https://www.sankei-haircarepost.jp/column/228/)2020年5月18日閲覧
 9.  [Dクリニック東京メンズ WEBサイト クリニックコンセプト](https://www.menshealth-tokyo.com/clinic/feature/)2020年5月18日閲覧
-10. [Dクリニック東京メンズ WEBサイト クリニックについて](https://www.menshealth-tokyo.com/clinic/)2020年5月18日閲覧
-11. [Dクリニック東京メンズ WEBサイト アクセス](https://www.menshealth-tokyo.com/clinic/access/)2020年5月18日閲覧
-12. [朝日新聞Reライフ](https://www.asahi.com/relife/article/12547494)2020年5月20日閲覧
-13. [世界一受けたい授業](http://www.ntv.co.jp/sekaju/profile/sioyanobuyuki.html)2020年5月20日閲覧
-14. [Dクリニック東京ウィメンズ WEBサイト クリニックについて](https://www.womenshealth-tokyo.com/info/)2020年5月18日閲覧
-15. [Dクリニック東京ウィメンズ WEBサイト クリニックについて](https://www.womenshealth-tokyo.com/access/)2020年5月18日閲覧
-16. [Dクリニック大阪メンズ WEBサイト クリニックについて](https://www.osaka-clinic.com/clinic/)2020年5月18日閲覧
-17. [Dクリニック大阪メンズ WEBサイト アクセス](https://www.osaka-clinic.com/access/)2020年5月18日閲覧
-18. [Dクリニック大阪ウィメンズ WEBサイト クリニックコンセプト](https://www.dclinic-osaka-women.com/concept/)2020年5月18日閲覧
-19. [クリニックについて　Dクリニック大阪ウィメンズ](https://www.dclinic-osaka-women.com/clinic/)2020年5月18日閲覧
-20. [Dクリニック大阪ウィメンズ WEBサイト アクセス](https://www.dclinic-osaka-women.com/access/)2020年5月18日閲覧
-21. [Dクリニック名古屋 WEBサイト クリニックについて](https://www.aac-nagoya.com/clinic/)2020年5月18日閲覧
-22. [Dクリニック名古屋メンズ WEBサイト アクセス](https://www.aac-nagoya.com/access/)2020年5月18日閲覧
-23. [Ｄクリニック福岡 ドクターズ・ファイル](https://doctorsfile.jp/h/57660/)2020年5月18日閲覧
-24. \[<https://www.aac-nagoya.com/access/>　Dクリニック福岡 WEBサイト アクセス\]2020年5月18日閲覧
+10. \[<https://medicalnote.jp/contents/190510-009-WF>　Medical Note「小林一広先生がAGA治療にかける思い――​​「精神科医としての経験を生かし、心身両面からの治療に取り組む」」\]2020年5月25日閲覧
+11. \[<https://www.tv-tokyo.co.jp/somodame/>　テレビ東京\]2020年5月18日閲覧
+12. [Dクリニック東京メンズ WEBサイト クリニックについて](https://www.menshealth-tokyo.com/clinic/)2020年5月18日閲覧
+13. [Dクリニック東京メンズ WEBサイト アクセス](https://www.menshealth-tokyo.com/clinic/access/)2020年5月18日閲覧
+14. [朝日新聞Reライフ](https://www.asahi.com/relife/article/12547494)2020年5月20日閲覧
+15. [世界一受けたい授業](http://www.ntv.co.jp/sekaju/profile/sioyanobuyuki.html)2020年5月20日閲覧
+16. [Dクリニック東京ウィメンズ WEBサイト クリニックについて](https://www.womenshealth-tokyo.com/info/)2020年5月18日閲覧
+17. [Dクリニック東京ウィメンズ WEBサイト クリニックについて](https://www.womenshealth-tokyo.com/access/)2020年5月18日閲覧
+18. [Dクリニック名古屋 WEBサイト クリニックについて](https://www.aac-nagoya.com/clinic/)2020年5月18日閲覧
+19. [Dクリニック名古屋メンズ WEBサイト アクセス](https://www.aac-nagoya.com/access/)2020年5月18日閲覧
+20. [Dクリニック大阪メンズ WEBサイト クリニックについて](https://www.osaka-clinic.com/clinic/)2020年5月18日閲覧
+21. [Dクリニック大阪メンズ WEBサイト アクセス](https://www.osaka-clinic.com/access/)2020年5月18日閲覧
+22. [Dクリニック大阪ウィメンズ WEBサイト クリニックコンセプト](https://www.dclinic-osaka-women.com/concept/)2020年5月18日閲覧
+23. [クリニックについて　Dクリニック大阪ウィメンズ](https://www.dclinic-osaka-women.com/clinic/)2020年5月18日閲覧
+24. [Dクリニック大阪ウィメンズ WEBサイト アクセス](https://www.dclinic-osaka-women.com/access/)2020年5月18日閲覧
+25. [Ｄクリニック福岡 ドクターズ・ファイル](https://doctorsfile.jp/h/57660/)2020年5月18日閲覧
+26. \[<https://www.aac-nagoya.com/access/>　Dクリニック福岡 WEBサイト アクセス\]2020年5月18日閲覧
+27. [SANKEI HairCarePost](https://www.sankei-haircarepost.jp/column/585/)2020年5月25日閲覧
+28. \[<https://bookclub.kodansha.co.jp/product?item=0000195777>　講談社BOOK倶楽部\]
+29. [紀伊國屋書店ウェブストア](https://www.kinokuniya.co.jp/f/dsg-08-EK-0238877)
+30. \[<https://www.amazon.co.jp/%E3%81%95%E3%81%82%E7%AB%8B%E3%81%A1%E3%81%82%E3%81%8C%E3%82%8C%E7%94%B7%E3%81%9F%E3%81%A1%E3%82%88-%E8%80%81%E5%BE%8C%E3%82%92%E6%8D%A8%E3%81%A6%E3%81%A6%E3%80%81%E6%9C%AA%E6%9D%A5%E3%82%92%E7%94%9F%E3%81%8D%E3%82%8B-%E7%86%8A%E6%9C%AC-%E6%82%A6%E6%98%8E/dp/4344029216>　Amazon.cp.jp\]
+31. [東洋経済STORE](https://str.toyokeizai.net/books/9784492045961/)

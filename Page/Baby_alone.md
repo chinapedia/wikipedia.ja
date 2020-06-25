@@ -24,7 +24,7 @@
 1.  **サヨナラ (ADIÓS)**
 2.  **優しくしたいの**
 3.  **逢いたい**
-4.  **[微笑みのその前で](https://ja.wikipedia.org/wiki/微笑みのその前で "wikilink")**
+4.  **[微笑みのその前で](../Page/微笑みのその前で.md "wikilink")**
       - 先行シングル。
 5.  **C'est la vie**
 
@@ -34,7 +34,7 @@
 2.  **HEAVEN**
 3.  **踊り明かしたい**
 4.  **LADY JEAN**
-5.  **[Stop Stop Rock'n' Roll](https://ja.wikipedia.org/wiki/微笑みのその前で "wikilink")**
+5.  **[Stop Stop Rock'n' Roll](../Page/微笑みのその前で.md "wikilink")**
       - シングル「微笑みのその前で」のB面曲。
 
 ## 参加ミュージシャン

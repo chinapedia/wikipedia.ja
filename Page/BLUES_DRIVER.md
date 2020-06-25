@@ -16,7 +16,7 @@ BLUES DRIVERは[ローランド](../Page/ローランド.md "wikilink")（[BOSS]
 <!-- end list -->
 
   - 4月8日 - 「大嫌いで、本当に最低で」のミュージックビデオを[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に公開し、活動を開始。同日、デジタルシングルとして配信開始。
-  - 5月20日 - 1stアルバム『BLUES DRIVER』を発売予定。
+  - 5月20日 - 1stアルバム『BLUES DRIVER』を発売。
 
 ## 作品
 
@@ -66,7 +66,8 @@ BLUES DRIVERは[ローランド](../Page/ローランド.md "wikilink")（[BOSS]
 <td><p>「<a href="https://youtube.com/watch?v=T_UxihypIYc">大嫌いで、本当に最低で</a>」<br />
 「<a href="https://youtube.com/watch?v=eNSrG8Sc9Uw">BLUES DRIVER</a>」<br />
 「<a href="https://youtube.com/watch?v=4d1AFSOMnEQ">Good Bye My Girlfriend Baby</a>」<br />
-「<a href="https://youtube.com/watch?v=EaWziwG9-Ro">This My Life All Away</a>」</p></td>
+「<a href="https://youtube.com/watch?v=EaWziwG9-Ro">This My Life All Away</a>」<br />
+「<a href="https://youtube.com/watch?v=wqSlMiULnyo">believe this</a>」</p></td>
 </tr>
 <tr class="even">
 <td><p>neneko shiraishi</p></td>

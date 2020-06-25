@@ -3,7 +3,7 @@
 
 [Major_League_Soccer_club_locations_2020.png](https://ja.wikipedia.org/wiki/File:Major_League_Soccer_club_locations_2020.png "fig:Major_League_Soccer_club_locations_2020.png")
 
-**ウェスタン・カンファレンス**（**Western Conference**）は、北米プロサッカーリーグ[MLSの二つあるカンファレンスのうちの一つ](../Page/メジャーリーグサッカー.md "wikilink")。もう一つは、[イースタン・カンファレンス](https://ja.wikipedia.org/wiki/イースタン・カンファレンス_\(MLS\) "wikilink") (Eastern Conference)。
+**ウェスタン・カンファレンス**（**Western Conference**）は、北米プロサッカーリーグ[MLSの二つあるカンファレンスのうちの一つ](../Page/メジャーリーグサッカー.md "wikilink")。もう一つは、[イースタン・カンファレンス](../Page/イースタン・カンファレンス_\(MLS\).md "wikilink") (Eastern Conference)。
 
 2020年現在、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")から12クラブ、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")から1クラブの計13クラブが参加している。
 
@@ -207,7 +207,7 @@
 
 ## 関連項目
 
-  - [イースタン・カンファレンス (MLS)](https://ja.wikipedia.org/wiki/イースタン・カンファレンス_\(MLS\) "wikilink")
+  - [イースタン・カンファレンス (MLS)](../Page/イースタン・カンファレンス_\(MLS\).md "wikilink")
   - [セントラル・ディビジョン (MLS)](https://ja.wikipedia.org/wiki/セントラル・ディビジョン_\(MLS\) "wikilink")
 
 ## 外部リンク

@@ -68,7 +68,7 @@ Minigoの第二段階から[CGOS](https://ja.wikipedia.org/wiki/CGOS "wikilink")
 
   -
 
-[Category:コンピュータ囲碁](https://ja.wikipedia.org/wiki/Category:コンピュータ囲碁 "wikilink") [Category:人工ニューラルネットワーク](https://ja.wikipedia.org/wiki/Category:人工ニューラルネットワーク "wikilink") [Category:機械学習](https://ja.wikipedia.org/wiki/Category:機械学習 "wikilink") [Category:2018年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2018年のソフトウェア "wikilink")
+[Category:囲碁ソフトウエア](https://ja.wikipedia.org/wiki/Category:囲碁ソフトウエア "wikilink") [Category:人工ニューラルネットワーク](https://ja.wikipedia.org/wiki/Category:人工ニューラルネットワーク "wikilink") [Category:応用機械学習](https://ja.wikipedia.org/wiki/Category:応用機械学習 "wikilink") [Category:2018年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2018年のソフトウェア "wikilink")
 
 1.
 2.

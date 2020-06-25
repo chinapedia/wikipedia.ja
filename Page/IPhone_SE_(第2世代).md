@@ -11,21 +11,23 @@
 
 [iPhone 8の筐体と](https://ja.wikipedia.org/wiki/iPhone_8 "wikilink")[iPhone 11](https://ja.wikipedia.org/wiki/iPhone_11 "wikilink")、[iPhone 11 Pro、iPhone 11 Pro Maxの](https://ja.wikipedia.org/wiki/iPhone_11_Pro/11_Pro_Max "wikilink")[SoC](../Page/System-on-a-chip.md "wikilink") [A13Bionicチップを組み合わせたモデル](https://ja.wikipedia.org/wiki/Apple_A13 "wikilink")。2016年3月31日に発売された[iPhone SE（第1世代）と同様](https://ja.wikipedia.org/wiki/IPhone_SE_\(第1世代\) "wikilink")、旧モデルをベースに最新のSoCを組み合わせている。
 
-Appleから正式にアナウンスがある前は、アナリストやリークのまとめページからは「**iPhone 9**」や「**iPhone SE2**」と呼ばれていた\[3\]\[4\]。
-
-[iPhone 11](https://ja.wikipedia.org/wiki/iPhone_11 "wikilink")、[iPhone 11 Pro、iPhone 11 Pro Maxとの違いは](https://ja.wikipedia.org/wiki/iPhone_11_Pro/11_Pro_Max "wikilink")、カメラがシングルレンズ（広角）、[RAMが](../Page/Random_Access_Memory.md "wikilink")3GB\[5\]、フロントカメラが7MP、ディスプレイはLiquid Retinaディスプレイではなく[Retina](https://ja.wikipedia.org/wiki/Retinaディスプレイ "wikilink") HDディスプレイ、ホームボタンがある、[Face ID非搭載で](https://ja.wikipedia.org/wiki/Face_ID "wikilink")[Touch ID認証であることなど](https://ja.wikipedia.org/wiki/Touch_ID "wikilink")\[6\]である。
+[iPhone 11](https://ja.wikipedia.org/wiki/iPhone_11 "wikilink")、[iPhone 11 Pro、iPhone 11 Pro Maxとの違いは](https://ja.wikipedia.org/wiki/iPhone_11_Pro/11_Pro_Max "wikilink")、カメラがシングルレンズ（広角）、[RAMが](../Page/Random_Access_Memory.md "wikilink")3GB\[3\]、フロントカメラが7MP、ディスプレイはLiquid Retinaディスプレイではなく[Retina](https://ja.wikipedia.org/wiki/Retinaディスプレイ "wikilink") HDディスプレイ、ホームボタンがある、[Face ID非搭載で](https://ja.wikipedia.org/wiki/Face_ID "wikilink")[Touch ID認証であることなど](https://ja.wikipedia.org/wiki/Touch_ID "wikilink")\[4\]である。
 
 ### 歴史
 
-iPhone SEの後継機が発表されたのは2017年であり、発売からわずか1年後のことだった\[7\]。この機種にはiPhone 8とデザインが類似していることから、他にもiPhone SE 2やiPhone 9といった名前ではないかと噂されていた。2020年3月には、iPhone 8のサイズのボディに通常モデルのカメラレンズ1個を搭載したiPhoneを示すケースが\[8\]、[ベスト・バイ](../Page/ベスト・バイ.md "wikilink")に出荷されていると報じられていた。このスマートフォン用の[ベルキン](https://ja.wikipedia.org/wiki/ベルキン "wikilink")の画面保護商品もアップルで販売されており、通常サイズのiPhone 8とiPhone 7に対応していた。しかし、iPhone SEの記述はすぐに削除された\[9\]。
+iPhone SEの後継機が発表されたのは2017年であり、[iPhone SE（第1世代）の発売からわずか](https://ja.wikipedia.org/wiki/IPhone_SE_\(第1世代\) "wikilink")1年後のことだった\[5\]。この機種にはiPhone 8とデザインが類似していることから、Appleから正式にアナウンスがある前は、アナリストやリークのまとめページの間で「**iPhone 9**」や「**iPhone SE2**」と呼ばれていた\[6\]\[7\]。
+
+2020年3月には、iPhone 8のサイズのボディに通常モデルのカメラレンズ1個を搭載したiPhoneを示すケースが\[8\]、[ベスト・バイ](../Page/ベスト・バイ.md "wikilink")に出荷されていると報じられていた。このスマートフォン用の[ベルキン](https://ja.wikipedia.org/wiki/ベルキン "wikilink")の画面保護商品もアップルで販売されており、通常サイズのiPhone 8とiPhone 7に対応していた。このことからiPhone SEとの名で近いうちに発売されると予想された\[9\]。
+
+2020年4月16日(日本時間)にAppleのWebサイト上で発表された\[10\]。
 
 ## 仕様
 
 ### ハードウェア
 
-iPhone 11同様Apple A13 Bionicを搭載している。また64GB、128GB、256GBの3つの内部ストレージ容量の構成がある\[10\]。
+iPhone 11同様Apple A13 Bionicを搭載している。また64GB、128GB、256GBの3つの内部ストレージ容量の構成がある\[11\]。
 
-重量は148g、寸法は138.4×67.3×7.3mm（縦×横×厚さ）であり、[iPhone 8と同等である](https://ja.wikipedia.org/wiki/iPhone_8 "wikilink")\[11\]。しかし、フロントガラスの表面カーブにおいては微妙に違いがあり、エッジ部分が浮き上がって、iPhone 8用の画面保護のガラスフィルムを貼ることができない\[12\]。
+重量は148g、寸法は138.4×67.3×7.3mm（縦×横×厚さ）であり、[iPhone 8と同等である](https://ja.wikipedia.org/wiki/iPhone_8 "wikilink")\[12\]。しかし、フロントガラスの表面カーブにおいては微妙に違いがあり、エッジ部分が浮き上がって、iPhone 8用の画面保護のガラスフィルムを貼ることができない\[13\]。
 
 ディスプレイは、iPhone 11同様に[Haptic Touchに対応したiPhone](https://ja.wikipedia.org/wiki/触覚タッチ "wikilink") 8、Retina HDディスプレイを採用している。
 
@@ -35,11 +37,11 @@ iPhone 11同様Apple A13 Bionicを搭載している。また64GB、128GB、256G
 
 [SoCは](../Page/System-on-a-chip.md "wikilink")[iPhone 11](https://ja.wikipedia.org/wiki/iPhone_11 "wikilink")、[iPhone 11 Pro、iPhone 11 Pro Maxと同じA](https://ja.wikipedia.org/wiki/iPhone_11_Pro/11_Pro_Max "wikilink")13 Bionicチップを搭載。
 
-しかし、処理能力は一割ほど劣るものとなっている\[13\]。
+しかし、処理能力は一割ほど劣るものとなっている\[14\]。
 
 ### 電源
 
-iPhone 8同様に[Qiに対応する](https://ja.wikipedia.org/wiki/Qi_\(ワイヤレス給電\) "wikilink")他、急速充電をサポートしており、18W充電器などの急速充電に対応した充電器を利用することで30分で50%充電できる\[14\]。
+iPhone 8同様に[Qiに対応する](https://ja.wikipedia.org/wiki/Qi_\(ワイヤレス給電\) "wikilink")他、急速充電をサポートしており、18W充電器などの急速充電に対応した充電器を利用することで30分で50%充電できる\[15\]。
 
 ### 無線通信
 
@@ -51,13 +53,13 @@ Wi-Fi6と、eSIMを使用したデュアルSIMデュアルスタンバイ (DSDS)
 
 ### その他
 
-[IEC規格60529の防塵](../Page/電気機械器具の外郭による保護等級.md "wikilink")・耐水性ではIP67の評価を受けており、水深1メートルで最大30分間利用できる\[15\]。
+[IEC規格60529の防塵](../Page/電気機械器具の外郭による保護等級.md "wikilink")・耐水性ではIP67の評価を受けており、水深1メートルで最大30分間利用できる\[16\]。
 
 なお、[Face IDは搭載しておらず](https://ja.wikipedia.org/wiki/Face_ID "wikilink")、[Touch IDを採用している](https://ja.wikipedia.org/wiki/Touch_ID "wikilink")。
 
-[iPhone SE（第1世代）にあったイヤホンジャックはこの第](https://ja.wikipedia.org/wiki/iPhone_SE_\(第1世代\) "wikilink")2世代においては、省略されている\[16\]。
+[iPhone SE（第1世代）にあったイヤホンジャックはこの第](https://ja.wikipedia.org/wiki/iPhone_SE_\(第1世代\) "wikilink")2世代においては、省略されている\[17\]。
 
-一部のパーツはiPhone 8と共通である\[17\]。
+一部のパーツはiPhone 8と共通である\[18\]。
 
 ### カメラ性能
 
@@ -132,13 +134,13 @@ iPhone SE（第2世代）はiOS 13.4がプリインストールされ、[Apple P
 
 ## デザイン
 
-iPhone SE（第2世代）はアルミフレームを採用したデザインが特徴で、前面及び背面がガラスと、基本的なデザインは[iPhone 8とほぼ同じだが](https://ja.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone 11と同様にAppleのロゴが中央に移動している](https://ja.wikipedia.org/wiki/iPhone_11 "wikilink")\[18\]。
+iPhone SE（第2世代）はアルミフレームを採用したデザインが特徴で、前面及び背面がガラスと、基本的なデザインは[iPhone 8とほぼ同じだが](https://ja.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone 11と同様にAppleのロゴが中央に移動している](https://ja.wikipedia.org/wiki/iPhone_11 "wikilink")\[19\]。
 
-カラーはホワイト、ブラック、(PRODUCT)RED\[19\]で、ホワイトモデルでも前面がブラックになっている。
+カラーはホワイト、ブラック、(PRODUCT)RED\[20\]で、ホワイトモデルでも前面がブラックになっている。
 
-また側面のデザインからは、ステンレスベゼルがなくなり丸型のデザインに変更された\[20\]。
+また側面のデザインからは、ステンレスベゼルがなくなり丸型のデザインに変更された\[21\]。
 
-前面の上下にはベゼルがあり、[Touch IDと一体化したホームボタンが搭載されている](https://ja.wikipedia.org/wiki/Touch_ID "wikilink")\[21\]。
+前面の上下にはベゼルがあり、[Touch IDと一体化したホームボタンが搭載されている](https://ja.wikipedia.org/wiki/Touch_ID "wikilink")\[22\]。
 
 iPhone SE（第2世代）には、ホワイト、ブラック、(PRODUCT)REDの3色が用意されている。
 
@@ -149,7 +151,7 @@ iPhone SE（第2世代）には、ホワイト、ブラック、(PRODUCT)REDの3
 | (PRODUCT)RED |      |
 |              |      |
 
-ホームボタンやTouchIDも搭載し、ケースにも一部互換性がある\[22\]。
+ホームボタンやTouchIDも搭載し、ケースにも一部互換性がある\[23\]。
 
 [IPhone_SE(第2世代)とiPhone_8の比較.jpg](https://ja.wikipedia.org/wiki/File:IPhone_SE\(第2世代\)とiPhone_8の比較.jpg "fig:IPhone_SE(第2世代)とiPhone_8の比較.jpg")
 
@@ -157,13 +159,13 @@ iPhone SE（第2世代）には、ホワイト、ブラック、(PRODUCT)REDの3
 
 ## 前世代との比較
 
-[iPhone SE（第1世代）との違いは](https://ja.wikipedia.org/wiki/IPhone_SE_\(第1世代\) "wikilink")、画面サイズが4インチから[iPhone 6](https://ja.wikipedia.org/wiki/iPhone_6 "wikilink")、[6s](https://ja.wikipedia.org/wiki/IPhone_6s "wikilink")、[7](https://ja.wikipedia.org/wiki/IPhone_7 "wikilink")、[8と同じ](https://ja.wikipedia.org/wiki/IPhone_8 "wikilink")4.7インチとなったこと、SoCがA9チップからA13 Bionicチップになったこと、Wi-Fi 6やeSIMに対応したことなどである\[23\]。
+[iPhone SE（第1世代）との違いは](https://ja.wikipedia.org/wiki/IPhone_SE_\(第1世代\) "wikilink")、画面サイズが4インチから[iPhone 6](https://ja.wikipedia.org/wiki/iPhone_6 "wikilink")、[6s](https://ja.wikipedia.org/wiki/IPhone_6s "wikilink")、[7](https://ja.wikipedia.org/wiki/IPhone_7 "wikilink")、[8と同じ](https://ja.wikipedia.org/wiki/IPhone_8 "wikilink")4.7インチとなったこと、SoCがA9チップからA13 Bionicチップになったこと、Wi-Fi 6やeSIMに対応したことなどである\[24\]。
 
-Appleによると、A9チップに比べ最大2.4倍速いCPU、最大4倍速いGPU、またモバイルデータ通信接続が最大60%速くなり、Wi-FI接続が最大38%速くなったと言われている\[24\]。
+Appleによると、A9チップに比べ最大2.4倍速いCPU、最大4倍速いGPU、またモバイルデータ通信接続が最大60%速くなり、Wi-FI接続が最大38%速くなったと言われている\[25\]。
 
-新たに、[Haptic Touchや](https://ja.wikipedia.org/wiki/Haptic_Touch "wikilink")[Neural Engine](https://ja.wikipedia.org/wiki/Neural_Engine "wikilink")、[FeliCa](../Page/FeliCa.md "wikilink")などを搭載しているため、感触フィードバックがあり、店舗でApple Payの決済が可能である\[25\]。
+新たに、[Haptic Touchや](https://ja.wikipedia.org/wiki/Haptic_Touch "wikilink")[Neural Engine](https://ja.wikipedia.org/wiki/Neural_Engine "wikilink")、[FeliCa](../Page/FeliCa.md "wikilink")などを搭載しているため、感触フィードバックがあり、店舗でApple Payの決済が可能である\[26\]。
 
-そして[ワイヤレス充電](https://ja.wikipedia.org/wiki/ワイヤレス充電 "wikilink")、[急速充電も可能になった](https://ja.wikipedia.org/wiki/急速充電器 "wikilink")\[26\]。
+そして[ワイヤレス充電](https://ja.wikipedia.org/wiki/ワイヤレス充電 "wikilink")、[急速充電も可能になった](https://ja.wikipedia.org/wiki/急速充電器 "wikilink")\[27\]。
 
 なおイヤホンジャックは廃止されており、前世代に付属するEarpods with 3.5mm Headphone Plugは利用できない。
 
@@ -174,7 +176,7 @@ Appleによると、A9チップに比べ最大2.4倍速いCPU、最大4倍速い
   - Lightning - USBケーブル
   - 5W USB電源アダプタ
 
-なお、[iPhone 11 Pro/Pro Maxに付属している](https://ja.wikipedia.org/wiki/IPhone_11_Pro/11_Pro_Max "wikilink")18Wの電源アダプタは付属していない。また、iPhone7/8に付属しているLightning - 3.5 mmヘッドフォンジャックアダプタも付属していない\[27\]。
+なお、[iPhone 11 Pro/Pro Maxに付属している](https://ja.wikipedia.org/wiki/IPhone_11_Pro/11_Pro_Max "wikilink")18Wの電源アダプタは付属していない。また、iPhone7/8に付属しているLightning - 3.5 mmヘッドフォンジャックアダプタも付属していない\[28\]。
 
 [IPhone_SE(第2世代)の箱及び同梱物.jpg](https://ja.wikipedia.org/wiki/File:IPhone_SE\(第2世代\)の箱及び同梱物.jpg "fig:IPhone_SE(第2世代)の箱及び同梱物.jpg")
 
@@ -182,11 +184,11 @@ Appleによると、A9チップに比べ最大2.4倍速いCPU、最大4倍速い
 
 ## COVID-19による影響
 
-[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の感染拡大防止のため、[Softbank](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[KDDI (au)](../Page/Au_\(携帯電話\).md "wikilink") の3社は発売延期を発表した\[28\]\[29\]\[30\]。
+[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の感染拡大防止のため、[Softbank](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[KDDI (au)](../Page/Au_\(携帯電話\).md "wikilink") の3社は発売延期を発表した\[29\]\[30\]\[31\]。
 
-国内のAppleStoreも無期限で全店舗休業しており、実店舗での購入は家電量販店のみ可能となった\[31\]。
+国内のAppleStoreも無期限で全店舗休業しており、実店舗での購入は家電量販店のみ可能となった\[32\]。
 
-またAppleは、2020年9月までに購入されたiPhone SE (PRODUCT) REDの売り上げをCOVID-19対策基金に寄付すると発表した\[32\]。
+またAppleは、2020年9月までに購入されたiPhone SE (PRODUCT) REDの収益の一部をCOVID-19対策基金に寄付すると発表した\[33\]。
 
 ## iPhoneのモデルのタイムライン
 
@@ -229,3 +231,4 @@ Appleによると、A9チップに比べ最大2.4倍速いCPU、最大4倍速い
 30.
 31.
 32.
+33.

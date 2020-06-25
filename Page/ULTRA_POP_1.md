@@ -31,18 +31,18 @@
 6.  **[\! BYE BYE](../Page/!BYE_BYE.md "wikilink")**
       - 22ndシングル。
       - [NISSEKI](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")『[レーサー100](https://ja.wikipedia.org/wiki/高オクタン価ガソリン#日本国内の主な元売各社のハイオクガソリンの商品名 "wikilink")』CMソング
-7.  **[真夜中のルーレット](https://ja.wikipedia.org/wiki/真夜中のルーレット "wikilink")**
+7.  **[真夜中のルーレット](../Page/真夜中のルーレット.md "wikilink")**
       - 23rdシングル。
       - [三貴](../Page/三貴.md "wikilink")『ブティックJOY』CMソング\[3\]
 8.  **[いっぱいキスしよう (Single Version)](../Page/いっぱいキスしよう.md "wikilink")**
       - 24thシングル。シングルバージョンはアルバム初収録。
       - [東芝](../Page/東芝.md "wikilink")グループ CM曲
-9.  **[ごめんね太陽](https://ja.wikipedia.org/wiki/ごめんね太陽 "wikilink")**
+9.  **[ごめんね太陽](../Page/ごめんね太陽.md "wikilink")**
       - 25thシングル。
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")』エンディングテーマ
-10. **[Love glitter](https://ja.wikipedia.org/wiki/ごめんね太陽 "wikilink")**
+10. **[Love glitter](../Page/ごめんね太陽.md "wikilink")**
       - 25thシングル「ごめんね太陽」のカップリング曲。
-11. **[BABY DON'T CRY](https://ja.wikipedia.org/wiki/BABY_DON'T_CRY "wikilink")**
+11. **[BABY DON'T CRY](../Page/BABY_DON'T_CRY.md "wikilink")**
       - 26thシングル。
       - [JASキャンペーン曲](../Page/日本エアシステム.md "wikilink")
 12. **[夢でも逢えるかな](https://ja.wikipedia.org/wiki/夢でも逢えるかな "wikilink")** *([BONUS TRACK](../Page/ボーナス・トラック.md "wikilink"))*

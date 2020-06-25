@@ -7,7 +7,7 @@
 
   - 前作『[FUTURE](https://ja.wikipedia.org/wiki/FUTURE_\(三代目_J_Soul_Brothers_from_EXILE_TRIBEのアルバム\) "wikilink")』から約1年8か月ぶりのオリジナル・アルバム。「RAISE THE FLAG」の集大成にして完全版。
   - ブリスターパック仕様/フォトブック(100P)が同梱された初回生産限定盤の AL(CD+DVD)+2枚組LIVE DVDとAL(CD+Blu-ray)+2枚組LIVE Blu-ray、通常盤のAL(CD+DVD)+2枚組LIVE DVDとAL(CD+Blu-ray)+2枚組LIVE Blu-ray、AL(CDのみ)の5種。他にファンクラブ限定販売で、初回生産限定盤の内容に加えて ファンクラブ公演を一部収録した AL(CD+DVD)+3枚組LIVE DVDとAL(CD+Blu-ray)+3枚組LIVE Blu-ray。「[Rat-tat-tat](https://ja.wikipedia.org/wiki/Rat-tat-tat "wikilink")」のMusic Videoでおなじみのサングラス＆ケース付きもラインナップされている。多種類だが1枚買えば済む上位互換仕様。
-  - CDには、「[Yes we are](https://ja.wikipedia.org/wiki/Yes_we_are_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[SCARLET](https://ja.wikipedia.org/wiki/SCARLET_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[冬空/White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")」などのシングルCD収録曲8曲、配信限定シングルでヒットし今回初CD化される「Rat-tat-tat」、映画『ウタモノガタリ』主題歌「[東京](https://ja.wikipedia.org/wiki/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」など全10曲を収録。
+  - CDには、「[Yes we are](https://ja.wikipedia.org/wiki/Yes_we_are_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[SCARLET](https://ja.wikipedia.org/wiki/SCARLET_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")」「[冬空/White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")」などのシングルCD収録曲8曲、配信限定シングルでヒットし今回初CD化される「Rat-tat-tat」、映画『ウタモノガタリ』主題歌「[東京](../Page/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\).md "wikilink")」など全10曲を収録。
   - DVD/Blu-rayには、Music Video、自己最多の125万人を動員したドームツアーの中から[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")公演のLIVE映像、ドキュメント映像をパッケージしている。ファンクラブ限定版では『LDH BASE Presents ファンクラブ限定 三代目 J SOUL BROTHERS SPECIAL LIVE "RAISE THE FLAG" ～X'mas Party～』から一部を抜粋して収録。
 
 ## 収録曲
@@ -33,7 +33,7 @@
 5.  **[White Wings](https://ja.wikipedia.org/wiki/冬空/White_Wings "wikilink")** \[5:24\]
       -
         作詞：小竹正人、作曲：Mike Macdermid, Carlos Okabe, Toshiya Hosokawa
-6.  **[東京](https://ja.wikipedia.org/wiki/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[6:03\]
+6.  **[東京](../Page/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\).md "wikilink")** \[6:03\]
       -
         作詞：小竹正人、作曲：Jun Tanaka ([GENTOUKI](../Page/ゲントウキ.md "wikilink"))
     <!-- end list -->

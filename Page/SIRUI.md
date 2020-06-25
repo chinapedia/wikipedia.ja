@@ -44,7 +44,7 @@ SIRUI（シルイ、中国語：思銳）は、[2001年](../Page/2001年.md "wik
 
 ### 雲台
 
-[アルカスイス](https://ja.wikipedia.org/wiki/アルカスイス "wikilink")規格に互換性がある。[三脚](../Page/三脚.md "wikilink")や[一脚](../Page/一脚.md "wikilink")のセットで販売されているものも有る。
+[アルカスイス](../Page/アルカスイス.md "wikilink")規格に互換性がある。[三脚](../Page/三脚.md "wikilink")や[一脚](../Page/一脚.md "wikilink")のセットで販売されているものも有る。
 
   - KXシリーズ - ハイエンドモデルの自由雲台。
   - GXシリーズ - ベーシックモデルの自由雲台。

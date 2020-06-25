@@ -25,7 +25,7 @@ TAI Studio | Genre = [J-POP](../Page/J-POP.md "wikilink")
 
 1.  **ファンタジア** \[4:19\]
 2.  **アストロボーイ 〜Born on the seventh of April 2003〜** \[4:27\]
-3.  **[{{Ruby](https://ja.wikipedia.org/wiki/競争る為にだけ生まれてきた訳じゃねぇ "wikilink")** \[4:28\]
+3.  **[{{Ruby](../Page/競争る為にだけ生まれてきた訳じゃねぇ.md "wikilink")** \[4:28\]
       - 作詞：[桜井和寿](../Page/桜井和寿.md "wikilink") / 作曲：寺岡呼人 / 編曲：寺岡呼人・桜井和寿
     <!-- end list -->
       -

@@ -1,7 +1,9 @@
 > この記事は[ビルド・バック・ベター Build Back Better](https://ja.wikipedia.org/wiki/ビルド・バック・ベター_Build_Back_Better)から翻訳されています。
 
 
-ビルド・バック・ベター 或いは ビルドバックベター は2015年仙台で開催された第3回国連防災会議で採択された国連文書である「災害リスク削減のための仙台枠組み 2015-2030」で世界で最初に公式に定義され3つのBを大文字で表記する Build Back Better を特定の固定概念として防災の世界での世界標準の言葉となった。仙台枠組みは2015年6月3日の国連総会で承認されている。[1](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
+日本語では「**より良い復興**」と訳される\[1\]、**ビルド・バック・ベター** () は災害の復旧・再建・復興について発災前より準備をし、災害リスク削減を開発施策に取り込むことなどを指すことば\[2\]。
+
+2015年仙台で開催された第3回国連防災会議で採択された国連文書である「災害リスク削減のための仙台枠組み 2015-2030」で世界で最初に公式に定義され3つのBを大文字で表記する Build Back Better を特定の固定概念として防災の世界での世界標準の言葉となった。仙台枠組みは2015年6月3日の国連総会で承認されている。[1](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
 
 この仙台枠組み文書のジュネーブ国連本部での交渉過程で、Build Back Better は日本政府交渉団から全く新しく定義された概念として文書で提案されている。
 
@@ -26,3 +28,6 @@
 国連仙台枠組み文書が採択された後、その達成をチェックする指標の策定過程で Build Back Better の用語定義も追加されている。それによると「災害発生後の復旧・復興フェーズを使って災害リスク削減策をインフラ構造物や社会システム、経済、なりわい、環境へ強化し、国や社会をよりレジリエントにするものである。註）なおここでいう社会とは特定の政治システムや国を指すものではない」と定義されている。
 
 "Build Back Better" were defined like, "The use of the recovery, rehabilitation and reconstruction phases after a disaster to increase the resilience of nations and communities through integrating disaster risk reduction measures into the restoration of physical infrastructure and societal systems, and into the revitalization of livelihoods, economies and the environment. Annotation: The term “societal” will not be interpreted as a political system of any country."[3](https://www.preventionweb.net/terminology/view/51750)
+
+1.
+2.

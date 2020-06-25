@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作『[WORLD'S END](https://ja.wikipedia.org/wiki/WORLD'S_END_\(lyrical_schoolのアルバム\) "wikilink")』より約1年3ヶ月ぶり、また2019年6月に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")内のレーベル[CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")へ移籍してからは初めての[フルアルバムとなった](../Page/アルバム.md "wikilink")\[2\]。
+前作『[WORLD'S END](../Page/WORLD'S_END_\(lyrical_schoolのアルバム\).md "wikilink")』より約1年3ヶ月ぶり、また2019年6月に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")内のレーベル[CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")へ移籍してからは初めての[フルアルバムとなった](../Page/アルバム.md "wikilink")\[2\]。
 
 前作以降のシングルや、スキットを含む新録の9トラックを追加した全14曲を収録。
 

@@ -60,6 +60,8 @@
   - [スナックワールド 人嫌いのレニー](https://ja.wikipedia.org/wiki/スナックワールド_人嫌いのレニー "wikilink")
   - [映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！](https://ja.wikipedia.org/wiki/映画_妖怪ウォッチ_空飛ぶクジラとダブル世界の大冒険だニャン! "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [株式会社ティーズミュージック 公式サイト](https://www.tsmusic.co.jp/)

@@ -14,7 +14,7 @@
   - 恩田康人 [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
     cahierでベースを担当。トラックメイカーalgolyckとしても活動している。水野正敏氏にエレキベース、音楽理論を師事。音楽教室 ライフベンドミュージックスクールのベース科講師を務めるほか、学校法人神村学園 高等部 広域通信制課程 サポート校 Saitama Music Education Campusにて作曲、ミックス、アンサンブルの授業を受け持つ。好きな食べ物はマヨコーンの寿司。共演＆サポート：[ダモ鈴木](../Page/ダモ鈴木.md "wikilink")、odorico、川﨑レオン etc... \[2\]
   - 大光亘 [ドラム](https://ja.wikipedia.org/wiki/ドラム "wikilink")
-    ヤマハのドラム講師を経て91年「SAKANA」でメジャーデビュー。[TMネットワーク](../Page/TM_NETWORK.md "wikilink")[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")氏プロデュースアルバムリリース。「SPOOZYS」で全米リリース＆ツアー敢行。[浅倉大介](../Page/浅倉大介.md "wikilink")らと「drei projekt」結成。特殊インストバンド「about tess」で上海野外フェス等に出演。共演＆サポート：[access](../Page/Access_\(音楽ユニット\).md "wikilink")、[小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[曽我部恵一](../Page/曽我部恵一.md "wikilink")、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[矢野誠](../Page/矢野誠_\(ミュージシャン\).md "wikilink") etc.\[3\]
+    ヤマハのドラム講師を経て91年「SAKANA」でメジャーデビュー。[TMネットワーク](../Page/TM_NETWORK.md "wikilink")[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")氏プロデュースアルバムリリース。「SPOOZYS」で全米リリース＆ツアー敢行。[浅倉大介](../Page/浅倉大介.md "wikilink")らと「drei projekt」結成。特殊インストバンド「about tess」で上海野外フェス等に出演。共演＆サポート：[access](../Page/Access_\(音楽ユニット\).md "wikilink")、[小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink")、[SMAP](../Page/SMAP.md "wikilink")、[曽我部恵一](../Page/曽我部恵一.md "wikilink")、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[矢野誠](../Page/矢野誠_\(ミュージシャン\).md "wikilink") etc.\[3\]
 
 ## 音楽性
 

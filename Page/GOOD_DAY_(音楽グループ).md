@@ -5,7 +5,7 @@
 
 ## 概要
 
-グループ名の『GOOD DAY』には「一緒なら一日中明るく元気なエネルギーに満ちた10人のメンバーのようにまぶしい朝と快適な昼、輝く夜を作ってくれる音楽とパフォーマンスを見せたい」という意味が込められている。 チェソル・ジウォン・ハウン・ビバ・ラッキーの5人のメンバーは、GOOD DAYの解散と同時にデビューした7人組ガールズグループ[CIGNATURE](../Page/CIGNATURE.md "wikilink")([2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")〜)のメンバーとして再デビューした。
+グループ名の『GOOD DAY』には「一緒なら一日中明るく元気なエネルギーに満ちた10人のメンバーのようにまぶしい朝と快適な昼、輝く夜を作ってくれる音楽とパフォーマンスを見せたい」という意味が込められている。 チェソル・ジウォン・ハウン・ビバ・ラッキーの5人のメンバーは、GOOD DAYの解散と同時にデビューした7人組ガールズグループ[CIGNATURE](../Page/CIGNATURE.md "wikilink")([2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")〜)のメンバーとして再デビューした。またジニー・チェリー・ナユン・ボミンの4人のメンバーもGOOD DAYの解散後にAboutエンターテイメントに移籍し5人組ガールズグループ[REDSQUARE](https://ja.wikipedia.org/wiki/REDSQUARE_\(音楽グループ\) "wikilink")([2020年](../Page/2020年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")〜)のメンバーとして再デビューした。
 
 ## 経歴
 
@@ -59,6 +59,7 @@
 <li>血液型：B型</li>
 <li>出身地：</li>
 <li>ポジション：サブボーカル、ビジュアル</li>
+<li>現在、REDSQUAREのメンバーで、グリーンとして活動中。</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -71,6 +72,7 @@
 <li>血液型：B型</li>
 <li>出身地：</li>
 <li>ポジション：メインダンサー</li>
+<li>現在、REDSQUAREのメンバーでチェアとして活動中。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -96,6 +98,7 @@
 <li>血液型：O型</li>
 <li>出身地：</li>
 <li>ポジション：サブボーカル、リードダンサー</li>
+<li>現在、REDSQUAREのメンバーで、アリとして活動中。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -108,7 +111,7 @@
 <li>血液型：O型</li>
 <li>出身地：<a href="../Page/釜山広域市.md" title="wikilink">釜山広域市</a></li>
 <li>ポジション：サブボーカル、ビジュアル</li>
-<li>現在、CIGNATUREのメンバーとして、同名で活動中</li>
+<li>現在、CIGNATUREのメンバーとして、同名で活動</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -147,6 +150,7 @@
 <li>血液型：AB型</li>
 <li>出身地：</li>
 <li>ポジション：サブボーカル、ビジュアル</li>
+<li>現在、REDSQUAREのメンバーとして、同名で活動中</li>
 </ul></td>
 </tr>
 <tr class="even">

@@ -58,7 +58,7 @@
 
 ### 元メンバー
 
-  - **[ペリ・ウブ](https://ja.wikipedia.org/wiki/ペリ・ウブ "wikilink")**
+  - **[ペリ・ウブ](../Page/ペリ・ウブ.md "wikilink")**
 
 <!-- end list -->
 

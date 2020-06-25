@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-1.  **[東京](https://ja.wikipedia.org/wiki/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\) "wikilink")** \[6:03\]
+1.  **[東京](../Page/東京_\(三代目_J_SOUL_BROTHERS_from_EXILE_TRIBEの曲\).md "wikilink")** \[6:03\]
       -
         作詞：[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")、作曲：Jun Tanaka ([GENTOUKI](../Page/ゲントウキ.md "wikilink"))
     <!-- end list -->

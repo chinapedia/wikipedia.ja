@@ -37,11 +37,13 @@
 
   - 2019/9/12に登録
 
-STスタジオはメインチャンネルを一度削除されており、現在のメインチャンネルは当時のサブチャンネルである。
+STスタジオはメインチャンネルを一度削除されており、現在のメインチャンネルは当時のゲームチャンネルである。
 
 主に[ホラー](https://ja.wikipedia.org/wiki/ホラー "wikilink")系の動画を投稿していて、住んでいる家は、いわゆる[事故物件](https://ja.wikipedia.org/wiki/事故物件 "wikilink")と言われる家の近くであると言っている。
 
 また、ホラー系以外でも「[ドッキリ](../Page/ドッキリ.md "wikilink")」や「[早食い・大食い](../Page/早食い・大食い.md "wikilink")企画」などもやっている。
+
+他に、せーぎ以外のメンバーは全員[タトゥー](https://ja.wikipedia.org/wiki/タトゥー "wikilink")を入れている。
 
 ## メンバー
 
@@ -50,7 +52,7 @@ STスタジオはメインチャンネルを一度削除されており、現在
   - リーダー、初期メンバー。
   - 生年月日：[1994年](../Page/1994年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")
   - 年齢：26歳\[5\]
-  - 身長：170cmか171cm
+  - 身長：171cm
   - 本名：不明（○○ せいぎ）
   - 出身：不明\[6\]
   - 出身高校：[城西高校](https://ja.wikipedia.org/wiki/城西高校 "wikilink")
@@ -80,8 +82,8 @@ STスタジオはメインチャンネルを一度削除されており、現在
 **[りぼん](https://ja.wikipedia.org/wiki/りぼん_\(STスタジオ\) "wikilink")**
 
   - 初期メンバー。
-  - 生年月日：????年[3月22日](../Page/3月22日.md "wikilink")
-  - 年齢：不明
+  - 生年月日：[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")
+  - 年齢：25歳
   - 身長：不明
   - 本名：犬走 匠太（いぬばしり-しょうた）
   - 出身：不明
@@ -92,7 +94,7 @@ STスタジオはメインチャンネルを一度削除されており、現在
 
   - [2017年](../Page/2017年.md "wikilink")[9月](../Page/9月.md "wikilink")に加入。
   - 生年月日：[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")
-  - 年齢：23歳
+  - 年齢：25歳
   - 身長：不明
   - 本名：小島 大輝（こじま-だいき）
   - 出身：[埼玉県](../Page/埼玉県.md "wikilink")
@@ -101,7 +103,7 @@ STスタジオはメインチャンネルを一度削除されており、現在
 **[たつき](https://ja.wikipedia.org/wiki/たつき_\(STスタジオ\) "wikilink")**
 
   - [2017年](../Page/2017年.md "wikilink")[9月](../Page/9月.md "wikilink")に加入。
-  - 生年月日：不明
+  - 生年月日：????年[7月20日](../Page/7月20日.md "wikilink")
   - 年齢：不明
   - 身長：174cm
   - 本名：○○ たつき
@@ -113,31 +115,31 @@ STスタジオはメインチャンネルを一度削除されており、現在
 **[オナブタ](https://ja.wikipedia.org/wiki/オナブタ "wikilink")**
 
   - 初期メンバー。[2017年](../Page/2017年.md "wikilink")に脱退。
-  - 生年月日：不明
-  - 年齢：不明
+  - 生年月日：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")
+  - 年齢：23歳
   - 身長：不明
-  - 本名：女部田 ○○（おなぶた-○○）
+  - 本名：女部田 けい（おなぶた-けい）
   - 出身：不明
   - 出身校：不明
-  - [同年](../Page/2017年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")に「[よさこいバンキッシュ](https://ja.wikipedia.org/wiki/よさこいバンキッシュ "wikilink")」というYouTubeグループを作り、リーダーを務めている。
+  - [同年](../Page/2017年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から「[よさこいバンキッシュ](https://ja.wikipedia.org/wiki/よさこいバンキッシュ "wikilink")」というYouTubeグループを作り、リーダーを務めていた。
 
 **[わきを](https://ja.wikipedia.org/wiki/わきを "wikilink")**
 
   - [2017年](../Page/2017年.md "wikilink")に脱退
-  - 生年月日：不明
-  - 年齢：不明
+  - 生年月日：[1996年](../Page/1996年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")
+  - 年齢：23歳
   - 身長：不明
-  - 本名：不明
-  - 出身：不明
+  - 本名：宮脇 悠吾（みやわき-ゆうご）
+  - 出身：不明\[10\]
   - 出身校：不明
-  - オナブタ同様、現在は「よさこいバンキッシュ」のメンバー。
+  - オナブタ同様、現在は「よさこいバンキッシュ」のメンバーだった。
 
 **[ノリ](https://ja.wikipedia.org/wiki/ノリ_\(STスタジオ\) "wikilink")**
 
   - [2017年](../Page/2017年.md "wikilink")[9月](../Page/9月.md "wikilink")に加入、[2019年](../Page/2019年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")に卒業。
-  - 生年月日：不明
-  - 年齢：不明
-  - 身長：不明
+  - 生年月日：[6月30日](../Page/6月30日.md "wikilink")
+  - 年齢：
+  - 身長：169cm
   - 本名：東郷 知典（とうごう-とものり）
   - 出身：[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")
   - 出身校：不明
@@ -205,6 +207,8 @@ STスタジオはメインチャンネルを一度削除されており、現在
 
 など。
 
+## 脚注
+
 ## 関連項目
 
   - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
@@ -214,7 +218,7 @@ STスタジオはメインチャンネルを一度削除されており、現在
   - [よさこいバンキッシュ](https://ja.wikipedia.org/wiki/よさこいバンキッシュ "wikilink")
   - [ウマヅラビデオ](https://ja.wikipedia.org/wiki/ウマヅラビデオ "wikilink")
 
-## 脚注
+<!-- end list -->
 
 1.  2020/5/19時点。
 2.  2020/5/19時点。
@@ -225,3 +229,4 @@ STスタジオはメインチャンネルを一度削除されており、現在
 7.  [城西大学](../Page/城西大学.md "wikilink")の可能性がある
 8.  2020/5月時点。
 9.  せーぎより高い。自身でも高身長と言っている。
+10. [東京都](../Page/東京都.md "wikilink")である可能性が高い。

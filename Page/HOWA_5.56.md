@@ -1,7 +1,7 @@
 > この記事は[HOWA 5.56](https://ja.wikipedia.org/wiki/HOWA_5.56)から翻訳されています。
 
 
-{{ 銃器 | 画像 = [HOWA_5.56_Prototype_rifle.jpg](https://ja.wikipedia.org/wiki/File:HOWA_5.56_Prototype_rifle.jpg "fig:HOWA_5.56_Prototype_rifle.jpg") | 説明 = 2020年時点の[プロトタイプ](../Page/プロトタイプ.md "wikilink") | 名称 = HOWA 5.56 | 種類 = 軍用[自動小銃](../Page/自動小銃.md "wikilink") | 製造国 =  | 設計・製造 = [豊和工業](../Page/豊和工業.md "wikilink")株式会社 | 年代 = [2010年代](../Page/2010年代.md "wikilink") | 種別 = | 口径 = 5.56 mm | 銃身長 = | ライフリング = | 使用弾薬 = [5.56x45mm NATO弾](../Page/5.56x45mm_NATO弾.md "wikilink") | 装弾数 = 30 | 作動方式 = ガス圧式 | 全長 = | 重量 = | 発射速度 = | 推進方式 = | 誘導方式 = | 銃口初速 = | 射程 = | 最小射程 = | 最大射程 = | 実用最大射程 = | 有効射程 = | 命中公算躱避 = | コストユニット = | 設計年 = [2015年](../Page/2015年.md "wikilink") | 製造期間 = 2020年〜（生産中） | 配備期間 = | 配備先 = | 戦争 = | バリエーション = | 製造数 = }} **HOWA 5.56**は豊和工業で開発されたアサルトライフルである。[自衛隊](../Page/自衛隊.md "wikilink")で運用されている[89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")の後継として[2020年](../Page/2020年.md "wikilink")度（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年度）より調達が開始された。
+{{ 銃器 | 画像 = [HOWA_5.56_Prototype_rifle.jpg](https://ja.wikipedia.org/wiki/File:HOWA_5.56_Prototype_rifle.jpg "fig:HOWA_5.56_Prototype_rifle.jpg") | 説明 = 2020年時点の[プロトタイプ](../Page/プロトタイプ.md "wikilink") | 名称 = 20式5.56mm小銃 | 種類 = 軍用[自動小銃](../Page/自動小銃.md "wikilink") | 製造国 =  | 設計・製造 = [豊和工業](../Page/豊和工業.md "wikilink")株式会社 | 年代 = [2010年代](../Page/2010年代.md "wikilink") | 種別 = | 口径 = 5.56 mm | 銃身長 = | ライフリング = | 使用弾薬 = [5.56x45mm NATO弾](../Page/5.56x45mm_NATO弾.md "wikilink") | 装弾数 = 30 | 作動方式 = [ガス圧作動方式](https://ja.wikipedia.org/wiki/ガス圧作動方式 "wikilink") | 全長 = | 重量 = | 発射速度 = | 推進方式 = | 誘導方式 = | 銃口初速 = | 射程 = | 最小射程 = | 最大射程 = | 実用最大射程 = | 有効射程 = | 命中公算躱避 = | コストユニット = | 設計年 = [2015年](../Page/2015年.md "wikilink") | 製造期間 = 2020年〜（生産中） | 配備期間 = | 配備先 = | 戦争 = | バリエーション = | 製造数 = }} [20式5.56mm小銃](../Page/20式5.56mm小銃.md "wikilink")は豊和工業で開発されたアサルトライフルである。[自衛隊](../Page/自衛隊.md "wikilink")で運用されている[89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")の後継として[2020年](../Page/2020年.md "wikilink")度（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年度）より調達が開始された。
 
 ## 開発
 
@@ -44,7 +44,7 @@ HOWA 5.56（K型）、HK 416（YH型）、SCAR-L（YS型）の三種類まで絞
 
 ## 特徴
 
-HOWA 5.56はHK 416と同様のショルダーパッドを備えた伸縮式銃床やアンビタイプのセーフティセレクター、折畳式の[照準器](../Page/照準器.md "wikilink")といった現代的な特徴を有し、89式と比較して耐久性や火力の面においても改良が加えられていると言われている\[15\]。 また、[弾倉](../Page/弾倉.md "wikilink")は[STANAG マガジンとの互換性もあると考えられている](https://ja.wikipedia.org/wiki/STANAG_マガジン "wikilink")\[16\] 。銃身は89式よりも僅かに短縮されて閉所における取り回しが容易になったほか、ハンドガード部にはM-LOKモジュラーレールシステムを採用しており拡張性が格段に向上されている\[17\]\[18\]。作動方式はショートストロークピストン式を採用しているとされている\[19\]。
+HOWA 5.56はSCAR Lと同様のショルダーパッドとチークパッドを備えた伸縮式銃床やHK416同様のアンビタイプのセーフティセレクター、折畳式の[照準器](../Page/照準器.md "wikilink")といった現代的な特徴を有し、89式と比較して耐久性や火力の面においても改良が加えられていると言われている\[15\]。 また、[弾倉](../Page/弾倉.md "wikilink")は[STANAG マガジンとの互換性もあると考えられている](https://ja.wikipedia.org/wiki/STANAG_マガジン "wikilink")\[16\] 。銃身は89式よりも僅かに短縮されて閉所における取り回しが容易になったほか、ハンドガード部にはM-LOKモジュラーレールシステムを採用しており拡張性が格段に向上されている\[17\]\[18\]。作動方式はショートストロークピストン式を採用しているとされている\[19\]。
 
 HOWA 5.56の外見は89式と比較して近代的なデザインになっている。外見の参考元についてはいくつかの憶測があり、日本の[特殊部隊](../Page/特殊部隊.md "wikilink")などで調達されてきた前例がある[欧州製の小銃に影響を受けたと考えられている](../Page/ヨーロッパ.md "wikilink")。また、海外のメディアなどではFN SCARや[CZ 805 BREN](https://ja.wikipedia.org/wiki/Cz805 "wikilink")、[H\&K HK433と比較されることがある](https://ja.wikipedia.org/wiki/H&K_HK433 "wikilink")\[20\]\[21\]\[22\]\[23\]。
 

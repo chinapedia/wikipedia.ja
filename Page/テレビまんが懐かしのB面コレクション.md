@@ -32,7 +32,7 @@
 6.  ジュンの歌
       -
         作詞：[保波順](https://ja.wikipedia.org/wiki/保波順 "wikilink")、作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink")、歌：上高田少年合唱団
-        NET系「[宇宙パトロールホッパ](https://ja.wikipedia.org/wiki/宇宙パトロールホッパ "wikilink")」初代エンディングテーマ\[1\]
+        NET系「[宇宙パトロールホッパ](https://ja.wikipedia.org/wiki/宇宙パトロールホッパ "wikilink")」エンディングテーマ
 7.  ピピのうた
       -
         作詞：[小松左京](../Page/小松左京.md "wikilink")、作曲：[冨田勲](../Page/冨田勲.md "wikilink")、歌：[中村メイコ](../Page/中村メイコ.md "wikilink")、コロムビアゆりかご会
@@ -52,7 +52,7 @@
 11. ロビンの宇宙旅行
       -
         作詞：小川敬一、作曲：服部公一、歌：[丹野伸](https://ja.wikipedia.org/wiki/丹野伸 "wikilink")、[日本合唱協会](../Page/日本合唱協会.md "wikilink")
-        NET系「[レインボー戦隊ロビン](../Page/レインボー戦隊ロビン.md "wikilink")」初代エンディングテーマ・コロムビアカヴァー版\[2\]
+        NET系「[レインボー戦隊ロビン](../Page/レインボー戦隊ロビン.md "wikilink")」初代エンディングテーマ・コロムビアカヴァー版
 12. 海賊稼業はやめられない
       -
         作詞：[浦川けんじ](https://ja.wikipedia.org/wiki/浦川けんじ "wikilink")、作曲：[宮崎尚志](../Page/宮崎尚志.md "wikilink")、歌：ボーカル・ショップ
@@ -64,11 +64,11 @@
 14. 魔法のマンボ
       -
         作詞：山本清、作曲：小林亜星、歌：[前川陽子](../Page/前川陽子.md "wikilink")、[ハニー・ナイツ](../Page/ハニー・ナイツ.md "wikilink")
-        NET系「[魔法使いサリー](../Page/魔法使いサリー.md "wikilink")」初代エンディングテーマ\[3\]
+        NET系「[魔法使いサリー](../Page/魔法使いサリー.md "wikilink")」初代エンディングテーマ
 15. 悟空が好き好き
       -
         作詞：[吉岡治](../Page/吉岡治.md "wikilink")・[宇野誠一郎](../Page/宇野誠一郎.md "wikilink")、作曲：宇野誠一郎、歌：[ヤング・フレッシュ](../Page/ヤング・フレッシュ.md "wikilink")、アンサンブル・ファンタジア
-        フジテレビ系「[悟空の大冒険](../Page/悟空の大冒険.md "wikilink")」エンディングテーマ・コロムビアカヴァー版\[4\]
+        フジテレビ系「[悟空の大冒険](../Page/悟空の大冒険.md "wikilink")」エンディングテーマ・コロムビアカヴァー版
 16. 悟空がやってくる
       -
         作詞：吉岡治、編曲：[中村五郎](https://ja.wikipedia.org/wiki/中村五郎 "wikilink")、作曲・歌：[山崎唯](../Page/山崎唯.md "wikilink")
@@ -162,7 +162,7 @@
         フジテレビ系「[ムーミン](../Page/ムーミン.md "wikilink")」イメージソング
 15. バン・ボ・ボン
       -
-        作詞：東京ムービー企画部、作曲：渡辺岳夫、編曲：[松山茂](../Page/松山祐士.md "wikilink")、歌：[伊集加代子](https://ja.wikipedia.org/wiki/伊集加代子 "wikilink")
+        作詞：東京ムービー企画部、作曲：渡辺岳夫、編曲：[松山茂](../Page/松山祐士.md "wikilink")、歌：[伊集加代](../Page/伊集加代.md "wikilink")子
         フジテレビ系「[アタックNo.1](../Page/アタックNo.1.md "wikilink")」エンディングテーマ
 16. ジョーの子守唄
       -
@@ -198,8 +198,3 @@
 <references />
 
 [Category:1988年のアルバム](https://ja.wikipedia.org/wiki/Category:1988年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:テレビアニメ主題歌集](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌集 "wikilink")
-
-1.  『パトロールホッパ 宇宙っ子ジュン』時代のエンディングテーマ『ジュンの歌』は未収録。
-2.  2代目エンディングテーマ「すてきなリリ」は未収録。
-3.  2代目エンディングテーマ「いたずらのうた」と3代目エンディングテーマ「パパパのチョイナのうた」は未収録。
-4.  2代目エンディングテーマ「悟空音頭」は未収録。

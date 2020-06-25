@@ -29,8 +29,9 @@
 
 ## 外部リンク
 
-  - [きりたんぽ](https://uuum.jp/creator/kiritampo)（UUUM公式プロフィール）
+  - [きりたんぽ](https://uuum.jp/creator/kiritampo) - [UUUM](https://ja.wikipedia.org/wiki/UUUM "wikilink")
 
   -
   -
-[Category:日本の女性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の女性YouTuber "wikilink") [Category:UUUMのYouTuber](https://ja.wikipedia.org/wiki/Category:UUUMのYouTuber "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+[Category:日本の女性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の女性YouTuber "wikilink") [Category:UUUMのYouTuber](https://ja.wikipedia.org/wiki/Category:UUUMのYouTuber "wikilink") [Category:VAZのYouTuber](https://ja.wikipedia.org/wiki/Category:VAZのYouTuber "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

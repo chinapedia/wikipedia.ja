@@ -238,6 +238,7 @@
 ## 外部リンク
 
   - [国分太一のお気楽さんぽ ～Happy Go Lucky〜](https://www.fujitv.co.jp/b_hp/okirakusanpo/index.html) - フジテレビによる番組紹介
+  - [国分太一のお気楽さんぽ](https://okirakusanpo.com/) - 番組内で紹介したグルメなどを紹介
 
 [Category:2020年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2020年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの紀行・旅番組](https://ja.wikipedia.org/wiki/Category:フジテレビの紀行・旅番組 "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:フジテレビの帯番組](https://ja.wikipedia.org/wiki/Category:フジテレビの帯番組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:共同テレビ](https://ja.wikipedia.org/wiki/Category:共同テレビ "wikilink") [Category:国分太一](https://ja.wikipedia.org/wiki/Category:国分太一 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 

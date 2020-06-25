@@ -1,7 +1,7 @@
 > この記事は[BXW \(日本の音楽グループ\)](https://ja.wikipedia.org/wiki/BXW_\(日本の音楽グループ\))から翻訳されています。
 
 
-**BXW**（ビーエックスダブリュー）は、[2020年](../Page/2020年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の6人のボーイズグループ。グループ名の由来は“ダークな恰好良さ(ブラック)” と “無垢な可愛さ(ホワイト)” を併せ持つ “Black × White” から来ている\[1\]\[2\]。ファン名は「**CROSS**(クロス)」\[3\]。
+**BXW**（ビーエックスダブリュー）は、[2020年](../Page/2020年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の3人のボーイズグループ。グループ名の由来は“ダークな恰好良さ(ブラック)” と “無垢な可愛さ(ホワイト)” を併せ持つ “Black × White” から来ている\[1\]\[2\]。ファン名は「**CROSS**(クロス)」\[3\]。
 
 ## 略歴
 
@@ -149,9 +149,15 @@
   -
   -
   -
+### 　元メンバー
+
+  -
+<!-- end list -->
+
   -
   -
-  -
+
+
 [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:PRODUCE_101](https://ja.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:2020年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に結成した音楽グループ "wikilink")
 
 1.  [人気オーディション番組練習生らで結成　次世代ボーイズユニット「BXW」がデビュー決定＜プロフィール＞](https://mdpr.jp/music/detail/1967935)mdpr.jp　2020年2月14日

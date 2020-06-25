@@ -3,7 +3,7 @@
 
 **The Grateful a MogAAAz**（ザ・グレイトフルア・モガーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。
 
-2019年6月結成、活動を開始した、アバンギャルドでクレイジー直球ロックアイドル。[めろん畑a go goを手掛けた](https://ja.wikipedia.org/wiki/めろん畑a_go_go "wikilink")[木下盛隆](https://ja.wikipedia.org/wiki/木下盛隆 "wikilink")プロデュース。所属レコード事務所は[Gollipop Record](https://ja.wikipedia.org/wiki/Gollipop_Record "wikilink")。メンバーは知世千世、るなてん！、名波みやび、やわらぎめんま、あみのころみの5人で構成される。主に80's - 90'sの[ニュー・ウェイブ](https://ja.wikipedia.org/wiki/ニュー・ウェイブ "wikilink")パンクや[ビート](../Page/ビート.md "wikilink")パンクの影響を受けたサウンドでパフォーマンスを行ってる。めろん畑a go goは姉妹グループである。
+2019年6月結成、活動を開始した、アバンギャルドでクレイジー直球ロックアイドル。[めろん畑a go goを手掛けた](https://ja.wikipedia.org/wiki/めろん畑a_go_go "wikilink")[木下盛隆](https://ja.wikipedia.org/wiki/木下盛隆 "wikilink")プロデュース。所属レコード事務所は[Gollipop Record](../Page/Gollipop_Record.md "wikilink")。メンバーは知世千世、るなてん！、名波みやび、やわらぎめんま、あみのころみの5人で構成される。主に80's - 90'sの[ニュー・ウェイブ](https://ja.wikipedia.org/wiki/ニュー・ウェイブ "wikilink")パンクや[ビート](../Page/ビート.md "wikilink")パンクの影響を受けたサウンドでパフォーマンスを行ってる。めろん畑a go goは姉妹グループである。
 
 ## 概要
 
@@ -42,7 +42,7 @@
 <td><p>知世千世</p></td>
 <td><p>ともよちよ</p></td>
 <td><p>1月17日</p></td>
-<td><p>グリーン</p></td>
+<td><p>緑</p></td>
 <td><p>オリジナルメンバー<br />
 リーダーでありめろん畑a go goメンバー兼任</p></td>
 </tr>
@@ -50,7 +50,7 @@
 <td><p>るなてん！</p></td>
 <td><p>るなてん</p></td>
 <td><p>3月16日</p></td>
-<td><p>ピンク</p></td>
+<td><p>桃</p></td>
 <td><p>オリジナルメンバー<br />
 <a href="https://ja.wikipedia.org/wiki/清水瑠菜" title="wikilink">清水瑠菜</a>として女優としても活躍中</p></td>
 </tr>
@@ -58,7 +58,7 @@
 <td><p>名波みやび</p></td>
 <td><p>ななみみやび</p></td>
 <td><p>11月9日</p></td>
-<td><p>オレンジ</p></td>
+<td><p>橙</p></td>
 <td><p>オリジナルメンバー<br />
 めろん畑a go goの運営も務める、メンバーとしてステージにも上がる</p></td>
 </tr>
@@ -66,14 +66,14 @@
 <td><p>やわらぎめんま</p></td>
 <td><p>やわらぎめんま</p></td>
 <td><p>3月26日</p></td>
-<td><p>パープル</p></td>
+<td><p>紫</p></td>
 <td><p>オリジナルメンバー</p></td>
 </tr>
 <tr class="odd">
 <td><p>あみのころみ</p></td>
 <td><p>あみのころみ</p></td>
 <td><p>8月6日</p></td>
-<td><p>ホワイト</p></td>
+<td><p>白</p></td>
 <td><p>オリジナルメンバー<br />
 めろん畑a go goメンバー兼任</p></td>
 </tr>
@@ -109,9 +109,11 @@
   - 2月6日 - 主催公演『Our Generationvol.4』開催
   - 2月16日 - 『PREDAWN vol.9』に出演
   - 2月20日 - 主催公演『Our Generationvol.5』開催
-  - 2月22日 - 「酔音祭」\#003+ リベンジ オブ S.U.Iにて大阪初進出
+  - 2月22日 -「酔音祭」\#003+ リベンジ オブ S.U.Iにて大阪初進出
+  - 2月23日 - 初冠ラジオ『GOLLIPOP RECORDのGO\!GO\!マンション』がスタート\[3\]
   - 3月15日 - るなてん\!生誕祭 『〜ワクワクわんぱく大冒険〜』開催
   - 3月28日 - やわらぎめんま生誕祭『やわらぎ春のはしゃぎ祭り』『1000%underground IDOL』新型コロナウイルスの影響により中止
+  - 4月5日 -[エフエム東京](../Page/エフエム東京.md "wikilink")の Music Hot Flavor番組内コーナー「Gollipop Recordのウホウホウホホー」スタート
   - 5月25日 - 渋谷[CLUB QUATTROでの](../Page/CLUB_QUATTRO.md "wikilink")『Our Generation Special』主催公演、新型コロナウイルスの影響により延期が発表される。
 
 ## 作品
@@ -209,3 +211,4 @@
 
 1.  [1](https://twitter.com/mogaaaz/status/1209291108359950336?s=20)
 2.  [2](http://gyunoufes.com)
+3.

@@ -99,7 +99,7 @@
 <tr class="odd">
 <td><p>ジン・ユービン<br />
 （金宇彬）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/許光漢" title="wikilink">許光漢</a><br />
+<td><p><a href="../Page/許光漢.md" title="wikilink">許光漢</a><br />
 （グレッグ・シュー）</p></td>
 <td><p>シャオシーのクラスメイト。ルーピンに片思い。<br />
 荘敬高校から龍華大学に進学</p></td>

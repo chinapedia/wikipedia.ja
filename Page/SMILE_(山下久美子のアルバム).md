@@ -7,7 +7,7 @@
 
 [キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**優しいlonely、甘美なmemoly、胸打つsmile。**」。
 
-前作『[SUCCESS MOON](https://ja.wikipedia.org/wiki/SUCCESS_MOON "wikilink")』から2年ぶりとなるアルバムで\[1\]、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")に[レニー・ザカテクを迎え](https://ja.wikipedia.org/wiki/:en:Lenny_Zakatek "wikilink")、レコーディングは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[イタリア](../Page/イタリア.md "wikilink")で行われた。
+前作『[SUCCESS MOON](../Page/SUCCESS_MOON.md "wikilink")』から2年ぶりとなるアルバムで\[1\]、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")に[レニー・ザカテクを迎え](https://ja.wikipedia.org/wiki/:en:Lenny_Zakatek "wikilink")、レコーディングは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[イタリア](../Page/イタリア.md "wikilink")で行われた。
 
 [布袋寅泰](../Page/布袋寅泰.md "wikilink")との離婚後初のアルバムで、それに反映された楽曲が多く、[歌詞](../Page/歌詞.md "wikilink")もやや暗めである。
 

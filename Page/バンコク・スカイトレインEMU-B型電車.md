@@ -29,7 +29,49 @@
 
 最初は[シーロム線だけで運用された](https://ja.wikipedia.org/wiki/バンコク・スカイトレイン#%E3%82%B7%E3%83%BC%E3%83%AD%E3%83%A0%E7%B7%9A "wikilink")。今はBTS各線で運行されている。
 
-## 脚注
+## 編成
+
+  - **「EMU-B1」**に呼ばれた1次車。2009-2010年製造
+  - **「EMU-B2」**に呼ばれた2次車。2013年製造
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p><small><strong>&lt;-- <a href="https://ja.wikipedia.org/wiki/ケーハ駅" title="wikilink">ケーハ</a>/<a href="https://ja.wikipedia.org/wiki/バーンワー駅" title="wikilink">バーンワー</a> <a href="https://ja.wikipedia.org/wiki/サナームキラーヘンチャート駅" title="wikilink">サナームキラーヘンチャート</a>/<a href="https://ja.wikipedia.org/wiki/クーコット駅" title="wikilink">クーコット</a> --&gt;</strong></small></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>形式</p></td>
+<td><p>1800 (T)</p></td>
+</tr>
+<tr class="even">
+<td><p>1次車</p></td>
+<td><p><small>1836</small> <small>1837</small></p>
+<p><small>1838</small></p>
+<p><small>1839</small></p>
+<p><small>1840</small></p>
+<p><small>1841</small></p>
+<p><small>1842</small></p>
+<p><small>1843</small></p>
+<p><small>1844</small></p>
+<p><small>1845</small></p>
+<p><small>1846</small></p>
+<p><small>1847</small></p></td>
+</tr>
+<tr class="odd">
+<td><p>2次車</p></td>
+<td><p><small>1848</small> <small>1849</small></p>
+<p><small>1850</small></p>
+<p><small>1851</small></p>
+<p><small>1852</small></p></td>
+</tr>
+</tbody>
+</table>
+
+
+\== 脚注 ==
 
 <references />
 

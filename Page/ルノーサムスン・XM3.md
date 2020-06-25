@@ -3,7 +3,7 @@
 
 **XM3** (エックスエムスリー) は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の自動車メーカー、[ルノーサムスン自動車](../Page/ルノーサムスン自動車.md "wikilink")が生産・販売する[クーペ](../Page/クーペ.md "wikilink")[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")（[韓国車](https://ja.wikipedia.org/wiki/韓国車 "wikilink")基準でいうところの準中型車～中型車に相当）。
 
-[セダン](../Page/セダン.md "wikilink")の優雅さと[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の力強さを高次元で融合した車種として開発され\[1\]、仮想敵は[キア・セルトス](../Page/キア・セルトス.md "wikilink")、[ヒュンダイ・べニュー](https://ja.wikipedia.org/wiki/ヒュンダイ・べニュー "wikilink")、[日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")、[三菱・エクリプスクロス](https://ja.wikipedia.org/wiki/三菱・エクリプスクロス "wikilink")、[BMW・X1](https://ja.wikipedia.org/wiki/BMW・X1 "wikilink")/[BMW・X2](https://ja.wikipedia.org/wiki/BMW・X2 "wikilink")、[アウディ・Q3](https://ja.wikipedia.org/wiki/アウディ・Q3 "wikilink")などである。
+[セダン](../Page/セダン.md "wikilink")の優雅さと[SUV](https://ja.wikipedia.org/wiki/SUV "wikilink")の力強さを高次元で融合した車種として開発され\[1\]、仮想敵は[キア・セルトス](../Page/キア・セルトス.md "wikilink")、[ヒュンダイ・ヴェニュー](https://ja.wikipedia.org/wiki/ヒュンダイ・ヴェニュー "wikilink")、[日産・ジューク](https://ja.wikipedia.org/wiki/日産・ジューク "wikilink")、[三菱・エクリプスクロス](https://ja.wikipedia.org/wiki/三菱・エクリプスクロス "wikilink")、[BMW・X1](https://ja.wikipedia.org/wiki/BMW・X1 "wikilink")/[BMW・X2](https://ja.wikipedia.org/wiki/BMW・X2 "wikilink")、[アウディ・Q3](https://ja.wikipedia.org/wiki/アウディ・Q3 "wikilink")などである。
 
 ## 歴史
 

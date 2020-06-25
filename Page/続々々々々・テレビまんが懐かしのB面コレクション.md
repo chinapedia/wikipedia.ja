@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 本CDはすでにリリースされている『[続々々々々・テレビまんが主題歌のあゆみ](https://ja.wikipedia.org/wiki/続々々々々・テレビまんが主題歌のあゆみ "wikilink")』収録曲のシングルCDリリースにおけるカップリング曲をCD2枚組で全43曲収録している。
+  - 本CDはすでにリリースされている『[続々々々々・テレビまんが主題歌のあゆみ](https://ja.wikipedia.org/wiki/続々々々々・テレビまんが主題歌のあゆみ "wikilink")』収録曲のシングルレコード・CDリリースにおけるカップリング曲をCD2枚組で全43曲収録している。
   - DISC1には、上述のCD収録曲のB面曲が21曲、DISC2には、22曲が収録されている。
 
 ## 収録曲
@@ -14,13 +14,13 @@
 
 1.  ともだちがいっぱい
       - 作詞：[伊藤アキラ](../Page/伊藤アキラ.md "wikilink")、作曲・編曲：[越部信義](../Page/越部信義.md "wikilink")、歌：[林幸生](https://ja.wikipedia.org/wiki/林幸生 "wikilink")、[森の木児童合唱団](https://ja.wikipedia.org/wiki/森の木児童合唱団 "wikilink")
-      - [MBS系](../Page/毎日放送.md "wikilink")「[まんが日本昔ばなし](../Page/まんが日本昔ばなし.md "wikilink")」イメージソング
+      - [MBS系](../Page/毎日放送.md "wikilink")「[まんが日本昔ばなし](../Page/まんが日本昔ばなし.md "wikilink")」イメージソング\[1\]
 2.  はじめまして
       - 作詞・作曲・歌:[小坂明子](../Page/小坂明子.md "wikilink")、編曲:[松下一也](https://ja.wikipedia.org/wiki/松下一也_\(音楽家\) "wikilink")
-      - [ABC系](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")「[ハーイあっこです](../Page/ハーイあっこです.md "wikilink")」イメージソング
+      - [ABC系](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")「[ハーイあっこです](../Page/ハーイあっこです.md "wikilink")」イメージソング\[2\]
 3.  太郎体操
       - 作詞:伊藤アキラ、作曲:小坂明子、編曲:[牧野三朗](https://ja.wikipedia.org/wiki/牧野三朗 "wikilink")、歌:[鳥飼真己子](https://ja.wikipedia.org/wiki/鳥飼真己子 "wikilink")、コーラス:[SHINES](https://ja.wikipedia.org/wiki/SHINES "wikilink")
-      - ABC系「ハーイあっこです」イメージソング
+      - ABC系「ハーイあっこです」イメージソング\[3\]
 4.  サイバトロンばんざい
       - 作詞:[藤公之介](../Page/藤公之介.md "wikilink")、作曲:[渡辺宙明](../Page/渡辺宙明.md "wikilink")、編曲:[石田勝範](../Page/石田勝範.md "wikilink")、歌:[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")、森の木児童合唱団
       - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[戦え\!超ロボット生命体 トランスフォーマーV](../Page/戦え!超ロボット生命体_トランスフォーマーV.md "wikilink")」エンディングテーマ
@@ -38,7 +38,7 @@
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")」エンディングテーマ
 9.  ハッチでチャチャチャ
       - 作詞:[丘灯至夫](../Page/丘灯至夫.md "wikilink")、作曲:[越部信義](../Page/越部信義.md "wikilink")、編曲:石田勝範、歌:[橋本潮](../Page/橋本潮.md "wikilink")、コーラス:森の木児童合唱団
-      - 日本テレビ系「[昆虫物語みなしごハッチ](https://ja.wikipedia.org/wiki/昆虫物語みなしごハッチ "wikilink")」イメージソング
+      - 日本テレビ系「[昆虫物語みなしごハッチ](https://ja.wikipedia.org/wiki/昆虫物語みなしごハッチ "wikilink")」イメージソング\[4\]
 10. I Like You から I Love You
       - 作詞:[松本一起](../Page/松本一起.md "wikilink")、作曲:池毅、編曲:[田中公平](../Page/田中公平.md "wikilink")、歌:[橋本潮](../Page/橋本潮.md "wikilink")
       - テレビ朝日系「[エスパー魔美](../Page/エスパー魔美.md "wikilink")」2代目エンディングテーマ
@@ -50,7 +50,7 @@
       - フジテレビ系「キテレツ大百科」5代目エンディングテーマ
 13. コロ助ROCK'91
       - 作詞:森雪之丞、作曲:[林哲司](../Page/林哲司.md "wikilink")、編曲:山本健司、歌:[内田順子](../Page/内田順子_\(歌手\).md "wikilink")
-      - フジテレビ系「キテレツ大百科」イメージソング
+      - フジテレビ系「キテレツ大百科」イメージソング\[5\]
 14. HAPPY BIRTHDAY
       - 作詞:森雪之丞、作曲:[清岡千穂](../Page/清岡千穂.md "wikilink")、編曲:[藤原いくろう](../Page/藤原いくろう.md "wikilink")、歌:[YUKA](../Page/YUKA.md "wikilink")
       - フジテレビ系「キテレツ大百科」7代目エンディングテーマ
@@ -89,7 +89,7 @@
       - ABC系「[まじかる☆タルるートくん](../Page/まじかる☆タルるートくん.md "wikilink")」初代エンディングテーマ
 4.  いっしょう いっしょっしょ
       - 作詞・作曲・歌:[TARAKO](../Page/TARAKO.md "wikilink")、編曲:[横山菁児](../Page/横山菁児.md "wikilink")
-      - ABC系「まじかる☆タルるートくん」イメージソング
+      - ABC系「まじかる☆タルるートくん」イメージソング\[6\]
 5.  ちょっと魔法でばんそうこ
       - 作詞:冬杜花代子、作曲:つのこうじ、編曲:信田かずお、歌:中島安名、つのこうじ、[ヤング・フレッシュ](../Page/ヤング・フレッシュ.md "wikilink")
       - テレビ東京系「[三つ目がとおる](../Page/三つ目がとおる.md "wikilink")」エンディングテーマ
@@ -101,22 +101,22 @@
       - テレビ朝日系「[きんぎょ注意報\!](../Page/きんぎょ注意報!.md "wikilink")」初代エンディングテーマ
 8.  わぴこメイト行進曲
       - 作詞、作曲:小坂明子、編曲:有澤孝紀、歌:内田順子、コーラス:おさわがせシスターズ
-      - テレビ朝日系「きんぎょ注意報\!」挿入歌
+      - 東映系映画「きんぎょ注意報\!」エンディングテーマ\[7\]
 9.  両手を広げて
       - 作詞:[いしいめぐみ](https://ja.wikipedia.org/wiki/いしいめぐみ "wikilink")、作曲・編曲:[風戸慎介](../Page/川辺真.md "wikilink")、歌:[伊東恵里](../Page/伊東恵里.md "wikilink")
-      - フジテレビ系「[トラップ一家物語](../Page/トラップ一家物語.md "wikilink")」オープニングテーマ
+      - フジテレビ系「[トラップ一家物語](../Page/トラップ一家物語.md "wikilink")」エンディングテーマ
 10. ちいさなおばけたいそうのうた
       - 作詞:[角野栄子](../Page/角野栄子.md "wikilink")、作曲:池毅、編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")、歌:[鉄炮塚葉子](../Page/鉄炮塚葉子.md "wikilink")、[矢島晶子](../Page/矢島晶子.md "wikilink")、[山田妙子](https://ja.wikipedia.org/wiki/山田妙子 "wikilink")
-      - 日本テレビ系「[ちいさなおばけアッチコッチソッチ](https://ja.wikipedia.org/wiki/ちいさなおばけアッチコッチソッチ "wikilink")」イメージソング
+      - 日本テレビ系「[ちいさなおばけアッチコッチソッチ](https://ja.wikipedia.org/wiki/ちいさなおばけアッチコッチソッチ "wikilink")」イメージソング\[8\]
 11. ちっちゃな「おばけ」のうた
       - 作詞:角野栄子、作曲:池毅、編曲:岩田雅之、歌:[平野レミ](../Page/平野レミ.md "wikilink")
       - 日本テレビ系「ちいさなおばけアッチコッチソッチ」エンディングテーマ
 12. ジャンケンマン体操
       - 作詞:[佐藤友美](../Page/佐藤友美.md "wikilink")、作曲:越部信義、編曲:有澤孝紀、歌:[Cotton](https://ja.wikipedia.org/wiki/Cotton "wikilink")、コーラス:森の木児童合唱団
-      - テレビ東京系「[ジャンケンマン](../Page/ジャンケンマン.md "wikilink")」イメージソング
+      - テレビ東京系「[ジャンケンマン](../Page/ジャンケンマン.md "wikilink")」イメージソング\[9\]
 13. 友だちになりたい
       - 作詞:[康珍化](../Page/康珍化.md "wikilink")、作、編曲:渡辺宙明、歌:水木一郎
-      - [テレビせとうち](../Page/テレビせとうち.md "wikilink")系「[ゲッターロボ號](https://ja.wikipedia.org/wiki/ゲッターロボ號 "wikilink")」2代目エンディングテーマ\[1\]
+      - [テレビせとうち](../Page/テレビせとうち.md "wikilink")系「[ゲッターロボ號](https://ja.wikipedia.org/wiki/ゲッターロボ號 "wikilink")」2代目エンディングテーマ\[10\]
 14. 月火水木 キン肉マン
       - 作詞・作曲:つのごうじ、編曲:山本健司、歌:[ケント・デリカット](../Page/ケント・デリカット.md "wikilink")、松田多香子、コーラス:森の木児童合唱団
       - 日本テレビ系「[キン肉マン～キン肉王位争奪戦](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")」エンディングテーマ
@@ -134,8 +134,8 @@
       - フジテレビ系「[大草原の小さな天使 ブッシュベイビー](../Page/大草原の小さな天使_ブッシュベイビー.md "wikilink")」エンディングテーマ
 19. さよならの物語
       - 作詞:[及川眠子](https://ja.wikipedia.org/wiki/及川眠子 "wikilink")、作曲・編曲:[宮川彬良](../Page/宮川彬良.md "wikilink")、歌:山野さと子
-      - フジテレビ系「大草原の小さな天使 ブッシュベイビー」イメージソング
-20. HEART MOVING
+      - フジテレビ系「大草原の小さな天使 ブッシュベイビー」イメージソング\[11\]
+20. [HEART MOVING](https://ja.wikipedia.org/wiki/ムーンライト伝説/HEART_MOVING "wikilink")
       - 作詞:[津島義昭](https://ja.wikipedia.org/wiki/津島義昭 "wikilink")、作曲・編曲:[佐藤和朗](https://ja.wikipedia.org/wiki/佐藤和朗 "wikilink")、歌:[高松美砂絵(さくらさくら)](https://ja.wikipedia.org/wiki/高松美砂絵\(さくらさくら\) "wikilink")
       - テレビ朝日系「[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")」エンディングテーマ
 21. 時の船
@@ -155,4 +155,14 @@
 
 [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:日本コロムビアのアルバム](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアルバム "wikilink") [Category:テレビアニメ主題歌集](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌集 "wikilink")
 
-1.  初代エンディングテーマの『[GRIEVOUS RAIN](https://ja.wikipedia.org/wiki/GRIEVOUS_RAIN "wikilink")』は、バンダイ・ミュージックからリリースされた。
+1.  シングル「みんなでたんじょうび」のB面曲
+2.  シングル「キッチンから愛をこめて」のB面曲
+3.  シングル「ぱっとちょっとちゅっちゅ」のC/W曲
+4.  シングル「みなしごハッチ」のC/W曲
+5.  シングル「すいみん不足」のC/W曲
+6.  シングル「タルル カタブラルル」のC/W曲
+7.  シングル「ぎょっぴーダンス」のC/W曲
+8.  シングル「ちっちゃなおばけのうた」のC/W曲
+9.  シングル「やったぞジャンケンマン」のC/W曲
+10. 初代エンディングテーマの『[GRIEVOUS RAIN](https://ja.wikipedia.org/wiki/GRIEVOUS_RAIN "wikilink")』は、バンダイ・ミュージックからリリースされた。
+11. シングル「微笑みでプロローグ」のC/W曲

@@ -14,7 +14,7 @@
   - [TSSプライムフライデー](https://ja.wikipedia.org/wiki/TSSプライムニュース "wikilink")（2018年4月6日 - 、[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")） - 「STU48のおでかけ♪天気予報」、今村・矢野\[6\]
   - [熱血テレビ](../Page/熱血テレビ.md "wikilink")（2019年4月19日 - 、[KRY山口放送](../Page/山口放送.md "wikilink")） - 月1コーナー「STU48のぶち山口\!みーつけた」\[7\]
   - [とく6徳島](https://ja.wikipedia.org/wiki/とく6徳島 "wikilink")（2019年5月16日 - 、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")・[徳島放送局](../Page/NHK徳島放送局.md "wikilink")） - 木曜「STU48防災航路」\[8\]
-  - [STU発⇒東京](https://ja.wikipedia.org/wiki/STU発⇒東京 "wikilink")（2019年10月31日 - 、[BSフジ](../Page/BSフジ.md "wikilink")）\[9\]
+  - [STU発⇒東京](../Page/STU発⇒東京.md "wikilink")（2019年10月31日 - 、[BSフジ](../Page/BSフジ.md "wikilink")）\[9\]
   - SETOUCHI ISLAND（2019年11月4日 - 、BSフジ）\[10\]
   - \#STU48のくらコン（2020年4月29日 - 、テレビ新広島）\[11\]
 

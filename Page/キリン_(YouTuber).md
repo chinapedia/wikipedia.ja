@@ -7,7 +7,7 @@
 
 [キリン](../Page/キリン.md "wikilink")の[マスクを被り](../Page/仮面.md "wikilink")、主に[都市伝説](../Page/都市伝説.md "wikilink")、検索してはいけない言葉、[ダークウェブ](https://ja.wikipedia.org/wiki/ダークウェブ "wikilink")、鬼畜な作品等の[ホラー](https://ja.wikipedia.org/wiki/ホラー "wikilink")系・[サブカルチャー](../Page/サブカルチャー.md "wikilink")系のを題材をネタにして語る動画を投稿している。
 
-2020年2月14日に、[テイコウペンギン](../Page/テイコウペンギン.md "wikilink")との共同姉妹チャンネル「**[秘密結社ヤルミナティー](../Page/秘密結社ヤルミナティー.md "wikilink")**」をスタート。\[1\]
+2020年2月14日に、[テイコウペンギン](../Page/テイコウペンギン.md "wikilink")との共同姉妹チャンネル「**[秘密結社ヤルミナティー](../Page/秘密結社ヤルミナティー.md "wikilink")**」をスタート\[1\]。
 
 動画は主に都市伝説や実際に起きた事件、雑学、SCP紹介等を中心に投稿している。
 
@@ -27,6 +27,6 @@
   -
   - [株式会社BitStar](https://corp.bitstar.tokyo/)
 
-[Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.

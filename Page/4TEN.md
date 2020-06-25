@@ -1,13 +1,13 @@
 > この記事は[4TEN](https://ja.wikipedia.org/wiki/4TEN)から翻訳されています。
 
 
-**4TEN**（포텐、POTEN、ポテン）は、[2014年](../Page/2014年.md "wikilink")に[ジャングルエンターテインメント](https://ja.wikipedia.org/wiki/ジャングルエンターテインメント "wikilink")によって結成された[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の少女グループである。最終的なメンバーは、[ヘジ](https://ja.wikipedia.org/wiki/ヘジ "wikilink")、[ヘジン](https://ja.wikipedia.org/wiki/ヘジン "wikilink")、[ヒオ](https://ja.wikipedia.org/wiki/ヒオ "wikilink")の3人だった。
+**4TEN**（포텐、POTEN、ポテン）は、[2014年](../Page/2014年.md "wikilink")に[ジャングルエンターテインメント](https://ja.wikipedia.org/wiki/ジャングルエンターテインメント "wikilink")によって結成された[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の4(5)人組女性音楽グループである。最終的なメンバーは、[ヘジ](https://ja.wikipedia.org/wiki/ヘジ "wikilink")、[ヘジン](https://ja.wikipedia.org/wiki/ヘジン "wikilink")、[ヒオ](https://ja.wikipedia.org/wiki/ヒオ "wikilink")の3人だった。
 
 ## 歴史
 
 [2014年](../Page/2014年.md "wikilink")に4TENという名前でデビューした。名前の由来は、「爆発する」という意味の[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")である「ポテンショ」に由来している。
 
-[2015年](../Page/2015年.md "wikilink")、メンバーを5人に再構成する事を明らかにし、名前をPOTENに変更した。元の名前に含まれている4人組を表す4を、発音の同じ"PO"(韓国語表記:포)に変更した。一時的に[カルテット](../Page/カルテット.md "wikilink")（5人組）として活動した後、[ハジョン](https://ja.wikipedia.org/wiki/ハジョン "wikilink")の脱退によりメンバーが4人になったため、グループ名を以前と同じ4TENに戻した。
+[2015年](../Page/2015年.md "wikilink")、2人の元メンバーの脱退による人数の減少の影響でグループを5人に再構成する事を明らかにし、名前をPOTENに変更した。元の名前に含まれている4人組を表す4を、発音の同じ"PO"(韓国語表記:포)に変更した。一時的に[カルテット](../Page/カルテット.md "wikilink")（5人組）として活動した後、[ハジョン](https://ja.wikipedia.org/wiki/ハジョン "wikilink")の脱退によりメンバーが4人になったため、グループ名を以前と同じ4TENに戻した。
 
 ## メンバー
 
@@ -108,11 +108,11 @@
 
 ## 外部リンク
 
-  - [ポテン公式サイト](http://www.jungleent.com/)
+  - [4TEN公式サイト](http://www.jungleent.com/)
 
-  - [ポテンインスタグラム](https://www.instagram.com/4ten_official/)
+  - [4TENインスタグラム](https://www.instagram.com/4ten_official/)
 
-  - [ポテンブログ](http://blog.naver.com/junglepoten/)
+  - [4TENブログ](http://blog.naver.com/junglepoten/)
 
   -
   -

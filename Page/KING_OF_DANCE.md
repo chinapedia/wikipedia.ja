@@ -1,7 +1,7 @@
 > この記事は[KING OF DANCE](https://ja.wikipedia.org/wiki/KING_OF_DANCE)から翻訳されています。
 
 
-『**KING OF DANCE**』（キングオブダンス ）は、[2020年](../Page/2020年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から[読売テレビ系で放送中の連続ドラマ](../Page/讀賣テレビ放送.md "wikilink")。 本項では、2020年の舞台作品についても併せて説明する。
+『**KING OF DANCE**』（キングオブダンス ）は、[2020年](../Page/2020年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から[5月16日](../Page/5月16日.md "wikilink")まで[読売テレビ系で放送された連続ドラマ](../Page/讀賣テレビ放送.md "wikilink")。 本項では、2020年の舞台作品についても併せて説明する。
 
 ## 概要
 
@@ -59,7 +59,7 @@
 
 :;高山晴彦
 
-:: 演 - [和田琢磨](../Page/和田琢磨.md "wikilink")
+:: 演 - [和田琢磨](https://ja.wikipedia.org/wiki/和田琢磨_\(俳優\) "wikilink")
 
 :;石井
 
@@ -89,6 +89,7 @@
 | 第3話 | 4月25日 |        |
 | 第4話 | 5月2日  |        |
 | 第5話 | 5月9日  |        |
+| 第6話 | 5月16日 |        |
 |     |       |        |
 
 ## 放送局
@@ -103,6 +104,11 @@
 |                                             |              |             |
 
   - 地上波放送終了後、[TVer](https://ja.wikipedia.org/wiki/TVer "wikilink")、ytvMyDo\!、[GYAO\!](../Page/GYAO!.md "wikilink")、Locipo、[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")、DMM.com、ビデオマーケット、GYAOストア、amazonビデオ、グーグルプレイムービーにて見逃し配信。
+
+## 関連商品
+
+  - TVドラマ『KING OF DANCE』【Blu-ray BOX】（2020年8月26日発売予定、[TCエンタテインメント](https://ja.wikipedia.org/wiki/TCエンタテインメント "wikilink")、品番：TCBD-0953）
+  - TVドラマ『KING OF DANCE』【DVD-BOX】（2020年8月26日発売予定、TCエンタテインメント、品番：TCED-5095）
 
 ## 舞台
 

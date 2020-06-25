@@ -138,7 +138,7 @@
 <td><p>配信限定</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月23日.md" title="wikilink">5月23日</a> (予定)</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月23日.md" title="wikilink">5月23日</a></p></td>
 <td><p><strong>GRIMM</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
@@ -147,6 +147,21 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>GRIMM</li>
+</ol>
+</div>
+</div></td>
+<td><p>配信限定</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/7月1日.md" title="wikilink">7月1日</a> (予定)</p></td>
+<td><p><strong>everyday</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>everyday</li>
 </ol>
 </div>
 </div></td>

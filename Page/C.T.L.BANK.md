@@ -27,6 +27,6 @@
   - [旧和泉銀行本店](https://bunka.nii.ac.jp/heritages/detail/151895) –文化遺産オンライン
   - [旧和泉銀行本店](https://www.nihon-kankou.or.jp/osaka/272027/detail/27202ae2182031716) –全国観るなび
 
-[Category:1933年竣工の建築物](https://ja.wikipedia.org/wiki/Category:1933年竣工の建築物 "wikilink") [Category:岸和田市の歴史](https://ja.wikipedia.org/wiki/Category:岸和田市の歴史 "wikilink") [Category:岸和田市の建築物](https://ja.wikipedia.org/wiki/Category:岸和田市の建築物 "wikilink") [Category:大阪府の登録有形文化財](https://ja.wikipedia.org/wiki/Category:大阪府の登録有形文化財 "wikilink")
+[Category:1933年竣工の建築物](https://ja.wikipedia.org/wiki/Category:1933年竣工の建築物 "wikilink") [Category:岸和田市の歴史](https://ja.wikipedia.org/wiki/Category:岸和田市の歴史 "wikilink") [Category:岸和田市の建築物](https://ja.wikipedia.org/wiki/Category:岸和田市の建築物 "wikilink") [Category:大阪府の登録有形文化財](https://ja.wikipedia.org/wiki/Category:大阪府の登録有形文化財 "wikilink") [Category:日本の銀行建築](https://ja.wikipedia.org/wiki/Category:日本の銀行建築 "wikilink")
 
 1.

@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a>（STV）</p></td>
+<td><p><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a>（STV）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -147,7 +147,7 @@
   - [オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
   - [オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")
   - [2020年のラジオ (日本)](https://ja.wikipedia.org/wiki/2020年のラジオ_\(日本\) "wikilink")
-  - [ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink") （前枠番組）
+  - [ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink") （前枠番組） - 2020年5月28日放送分からこちらが収録放送に移行するため、木曜日深夜放送かつ生放送は当番組だけとなる。
 
 ## 外部リンク
 

@@ -45,22 +45,19 @@
       - 自身の生い立ちや半生を綴ったコンセプトアルバム『理由』を発表。収録曲「来たぜ」の中のリリックからDEV LARGEとの[ビーフ](https://ja.wikipedia.org/wiki/ビーフ "wikilink")が勃発。（後述）
       - 出演しているスペースシャワーTVの時事放談番組『[第三会議室](../Page/第三会議室.md "wikilink")』が放送を開始。
       - 映画『[デビルマン](../Page/デビルマン.md "wikilink")』に楽曲「彼が去れば」を提供。
-  - [2006年](../Page/2006年.md "wikilink")
       - DJ OASISと共にRadio Aktive Project（後にradio aktive projeqtに改名）を始動。
   - [2007年](../Page/2007年.md "wikilink")
-      - 映画『それでも生きる子供たちへ』の応援ソングとして「ソンはしないから聞いときな」を発表。
       - 自身の半生を綴った書籍『渋谷のドン - Kダブシャインと渋谷のリアルな30 年史』を発表。
-      - アトミックボム・プロダクションズが[倒産](../Page/倒産.md "wikilink")\[12\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 映画版及びOVA版『[デトロイト・メタル・シティ](../Page/デトロイト・メタル・シティ.md "wikilink")』の劇中曲に「フロムNYシティ」を提供。アニメ版には声優として出演もしている。
-      - [妄走族](../Page/妄走族.md "wikilink")のメンバー[剣桃太郎と同席し和解](https://ja.wikipedia.org/wiki/剣桃太郎_\(ミュージシャン\) "wikilink")\[13\]。
+      - [妄走族](../Page/妄走族.md "wikilink")のメンバー[剣桃太郎と同席し和解](https://ja.wikipedia.org/wiki/剣桃太郎_\(ミュージシャン\) "wikilink")\[12\]。
   - [2009年](../Page/2009年.md "wikilink")
       - [5月27日](../Page/5月27日.md "wikilink")、Radio Aktive Projeqtとしてファーストアルバム「neworlder」を発売。
       - [8月5日](../Page/8月5日.md "wikilink")、少年犯罪事件の犠牲者となり他界した高校生（ケンタS）が生前に録音していたラップ曲を、高校生がキングギドラのファンだったと知ったDJ OASISと共に「今の世の中」としてiTunes Storeで配信。名義は「K ダブシャイン feat. ケンタS」
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [1月27日](../Page/1月27日.md "wikilink")、新曲3枚と2009年に発表した「今の世の中」を含む、2枚目のベストアルバムとなる「自主規制」を発売。
   - [2011年](../Page/2011年.md "wikilink")
-      - [3月18日](../Page/3月18日.md "wikilink")、自身の[ツィッター](https://ja.wikipedia.org/wiki/ツィッター "wikilink")にて、キングギドラ名義で[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の被災者への[義援金](https://ja.wikipedia.org/wiki/義援金 "wikilink")[チャリティー](../Page/チャリティー.md "wikilink")・[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")を行う計画を立てていることを明かす。\[14\]
+      - [3月18日](../Page/3月18日.md "wikilink")、自身の[ツィッター](https://ja.wikipedia.org/wiki/ツィッター "wikilink")にて、キングギドラ名義で[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の被災者への[義援金](https://ja.wikipedia.org/wiki/義援金 "wikilink")[チャリティー](../Page/チャリティー.md "wikilink")・[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")を行う計画を立てていることを明かす。\[13\]
       - [4月30日](../Page/4月30日.md "wikilink")、キングギドラを再結成させ、[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で開催された[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")チャリティーライブ「KEEP YOUR HEADS UP！」でライブを行う。
   - [2012年](../Page/2012年.md "wikilink")
       - [9月19日](../Page/9月19日.md "wikilink")、昨年発生した東日本大震災から、その後の日本の状況についてまでの心情を綴った約8年ぶりとなるシングル「沈まぬ太陽」を発売。
@@ -69,42 +66,42 @@
 
   - 愛称は「コッタ」「コッちゃん」。別名は「ビッグコッタ」「渋谷のドン」「最後の皇帝」「K二乗」「Mr.Atomic Bomb」「ミコータ・カガ」等多数。
   - 名前のK DUBは本名のイニシャル*K.K*（KのDouble→Dub）から来ている。この名前に定着する以前は、「MC SHINE」や「サムライマー」と名乗っていた。
-  - 若い頃は[不良で](../Page/不良行為少年.md "wikilink")、渋谷区[宇田川町](../Page/宇田川町.md "wikilink")に在った「Rビル」（2008年に解体）の前に集まっていた事から、「R's（アールズ）」という集団を結成していた\[15\]\[16\]。しかし、本人達はこれをいわゆる[チーマー](../Page/チーマー.md "wikilink")の集団（チーム）ではなく、[自警団](../Page/自警団.md "wikilink")と称していたようである\[17\]。
-  - 子供の頃に[剣道](../Page/剣道.md "wikilink")と[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")をやっていた。中学時代はサッカー部だった\[18\]。
-  - アメリカに8年間留学していたため英語が堪能であり、現地の大学にも通っていた事から文法的にもかなりしっかりした英語を話すことが出来る\[19\]。
-  - 「[韻](https://ja.wikipedia.org/wiki/韻 "wikilink")を踏まないとラップではあるけどヒップホップではない。」と述べており、[押韻](../Page/押韻.md "wikilink")に関しては語感さえ合っていれば全て[母音](../Page/母音.md "wikilink")が合ってなくてもいいとし、簡単に踏める韻と自分にしか踏めない韻を織り交ぜていくのをスタイルとしている\[20\]。
-  - 『[朝まで生テレビ](https://ja.wikipedia.org/wiki/朝まで生テレビ "wikilink")』の「激論\! 2009年"崖っぷち"ニッポン〜脱・貧困\!ドーする?\!経済・雇用危機〜」に観客として参加していたが、[風邪](../Page/風邪.md "wikilink")をひいていたため収録中苦しい思いをしたと述べた\[21\]。
-  - [仮面ライダー](../Page/仮面ライダー.md "wikilink")が好きで、[宇多丸](../Page/宇多丸.md "wikilink")によると一時期玩具のコレクションもしていたという\[22\]。
-  - ジムの[ジャグジーで騒いでいた](https://ja.wikipedia.org/wiki/風呂#噴流式泡風呂 "wikilink")[十一代目市川海老蔵を叱ったことがある](../Page/市川海老蔵_\(11代目\).md "wikilink")。2010年、海老蔵が傷害事件に遭った事件が報道された後、犯人が色黒の男ということである歌舞伎関係者に犯人でないかと疑われ困ったという\[23\]。
-  - いわゆる[ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")というものに価値を見出さず、面白いことやおかしいことはそれ以前に決まっていると考えている。またいちいちオチをつけて話すような風潮にも否定的である。\[24\]
+  - 若い頃は[不良で](../Page/不良行為少年.md "wikilink")、渋谷区[宇田川町](../Page/宇田川町.md "wikilink")に在った「Rビル」（2008年に解体）の前に集まっていた事から、「R's（アールズ）」という集団を結成していた\[14\]\[15\]。しかし、本人達はこれをいわゆる[チーマー](../Page/チーマー.md "wikilink")の集団（チーム）ではなく、[自警団](../Page/自警団.md "wikilink")と称していたようである\[16\]。
+  - 子供の頃に[剣道](../Page/剣道.md "wikilink")と[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")をやっていた。中学時代はサッカー部だった\[17\]。
+  - アメリカに8年間留学していたため英語が堪能であり、現地の大学にも通っていた事から文法的にもかなりしっかりした英語を話すことが出来る\[18\]。
+  - 「[韻](https://ja.wikipedia.org/wiki/韻 "wikilink")を踏まないとラップではあるけどヒップホップではない。」と述べており、[押韻](../Page/押韻.md "wikilink")に関しては語感さえ合っていれば全て[母音](../Page/母音.md "wikilink")が合ってなくてもいいとし、簡単に踏める韻と自分にしか踏めない韻を織り交ぜていくのをスタイルとしている\[19\]。
+  - 『[朝まで生テレビ](https://ja.wikipedia.org/wiki/朝まで生テレビ "wikilink")』の「激論\! 2009年"崖っぷち"ニッポン〜脱・貧困\!ドーする?\!経済・雇用危機〜」に観客として参加していたが、[風邪](../Page/風邪.md "wikilink")をひいていたため収録中苦しい思いをしたと述べた\[20\]。
+  - [仮面ライダー](../Page/仮面ライダー.md "wikilink")が好きで、[宇多丸](../Page/宇多丸.md "wikilink")によると一時期玩具のコレクションもしていたという\[21\]。
+  - ジムの[ジャグジーで騒いでいた](https://ja.wikipedia.org/wiki/風呂#噴流式泡風呂 "wikilink")[十一代目市川海老蔵を叱ったことがある](../Page/市川海老蔵_\(11代目\).md "wikilink")。2010年、海老蔵が傷害事件に遭った事件が報道された後、犯人が色黒の男ということである歌舞伎関係者に犯人でないかと疑われ困ったという\[22\]。
+  - いわゆる[ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")というものに価値を見出さず、面白いことやおかしいことはそれ以前に決まっていると考えている。またいちいちオチをつけて話すような風潮にも否定的である。\[23\]
 
 ## 他のラッパーとの関係
 
 ### DEV LARGEとのビーフ
 
-[2004年](../Page/2004年.md "wikilink")6月19日、[BUDDHA BRANDの](../Page/BUDDHA_BRAND.md "wikilink")[DEV LARGEと思われる人物がK](../Page/DEV_LARGE.md "wikilink") DUB SHINEを[ディスした曲](../Page/ディスリスペクト.md "wikilink")、「ULTIMATE LOVE SONG」がとある[サイトにアップされ](../Page/ウェブサイト.md "wikilink")、一気に[ビーフ](https://ja.wikipedia.org/wiki/ビーフ "wikilink")に発展した\[25\]。
+[2004年](../Page/2004年.md "wikilink")6月19日、[BUDDHA BRANDの](../Page/BUDDHA_BRAND.md "wikilink")[DEV LARGEと思われる人物がK](../Page/DEV_LARGE.md "wikilink") DUB SHINEを[ディスした曲](../Page/ディスリスペクト.md "wikilink")、「ULTIMATE LOVE SONG」がとある[サイトにアップされ](../Page/ウェブサイト.md "wikilink")、一気に[ビーフ](https://ja.wikipedia.org/wiki/ビーフ "wikilink")に発展した\[24\]。
 
 内容は、K DUB SHINEの新作『理由』の収録曲である「来たぜ」の中での、「BUDDHA BRANDとのバトルは俺が完全に食った」といった挑発的な内容の歌詞が発端。また、英語を多用するDEV LARGEとして、K DUB SHINEが日本語ラップと言いながら英語を多用する[バイリンガル](https://ja.wikipedia.org/wiki/二言語話者 "wikilink")・ラップを、以前から批判していたことへの反発などであった。
 
 6月22日にDEV LARGEが[InterFMのラジオ番組](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")『Joint One Radio Show / DEN説の火曜日』に出演し、この曲をかけたため本人によるものである事が発覚した。10日後の6月22日にK DUB SHINEがアンサーソング「1 THREE SOME」を同じくネット上で発表。内容は「急にどうしたのか」という様な問いかけやDEV LARGEがソロアルバムを出していないことへの皮肉などであった。これに対しDEV LARGEは、更なるアンサーソング「前略ケイダブ様」を発表した。
 
-以降ビーフは展開が無かったが、。なお、DEV LARGEは2006年にソロアルバムをリリースした。
+なお、DEV LARGEは2006年にソロアルバムをリリースした。
 
-[2013年](../Page/2013年.md "wikilink")、[MAKI THE MAGICの死を機に両者は和解した](../Page/キエるマキュウ.md "wikilink")\[26\]。
+[2013年](../Page/2013年.md "wikilink")、[MAKI THE MAGICの死を機に両者は和解した](../Page/キエるマキュウ.md "wikilink")\[25\]。
 
 なお、後にK DUB SHINEの「1 THREE SOME」はDJ MASAKI『BEST OF K DUB SHINE（Blendz Version）』に収録され、DEV LARGEの「ULTIMATE LOVE SONG」、「前略ケイダブ様」は[刃頭](../Page/刃頭.md "wikilink")のミックステープ『現場デ炸裂』に収録されている（『前略ケイダブ様』は『前略、ケイダブ様お元気ですか？pt.2』として）。また「ULTIMATE LOVE SONG」は[I-DeA](../Page/I-DeA.md "wikilink")のアルバム『self-expression』に「Ultimate Love Song（Letter） feat. MONEV MILS & 漢」として別バージョンが収録されている。
 
-[2015年](../Page/2015年.md "wikilink")にDEV LARGEが逝去し、KダブシャインはTwitterで追悼コメントを寄せている。\[27\]
+[2015年](../Page/2015年.md "wikilink")にDEV LARGEが逝去し、KダブシャインはTwitterで追悼コメントを寄せている。\[26\]
 
 ### ZEEBRAとの関係
 
-キングギドラのメンバーであるZEEBRAとは、アングラ志向寄りのK DUB SHINEとオープンなZEEBRAというヒップホップに対する価値観の違いから不仲とされている（ヒップホップ雑誌のインタビューでも両者共に価値観は違うと認めている）。DJ OASISは「仲が悪い訳じゃない。お互いの考え方が違うだけ。それは二人とも分かってること」とどちらの肩を持つわけでもなく、話している。1996年のキングギドラの活動停止も、リーダーのK DUB SHINEが抱くキングギドラのコンセプトに、幅広いヒップホップの音楽をやりたかったZEEBRAが賛同しなかったことが理由とされている\[28\]。会話の弾みからではあるがZEEBRAを「元相棒」と発言したり、「（俺が死んだとして）ZEEBRAは（葬式に）来ない」と話したこともある。
+キングギドラのメンバーであるZEEBRAとは、アングラ志向寄りのK DUB SHINEとオープンなZEEBRAというヒップホップに対する価値観の違いから不仲とされている（ヒップホップ雑誌のインタビューでも両者共に価値観は違うと認めている）。DJ OASISは「仲が悪い訳じゃない。お互いの考え方が違うだけ。それは二人とも分かってること」とどちらの肩を持つわけでもなく、話している。1996年のキングギドラの活動停止も、リーダーのK DUB SHINEが抱くキングギドラのコンセプトに、幅広いヒップホップの音楽をやりたかったZEEBRAが賛同しなかったことが理由とされている\[27\]。会話の弾みからではあるがZEEBRAを「元相棒」と発言したり、「（俺が死んだとして）ZEEBRAは（葬式に）来ない」と話したこともある。
 
-一方、Radio Aktive ProjectがZEEBRAが司会をしていた番組『[シュガーヒルストリート](../Page/シュガーヒルストリート.md "wikilink")』に出演し、2007年1月11日（12日）に放送され、このときに撮られた写真がDJ OASISのブログに掲載されており、K DUB SHINEがDJ OASISとZEEBRAと肩を組んでいる写真や話をしている写真が掲載されている\[29\]。さらに1月の『DANGEROUS』ではZEEBRA、K DUB SHINE、DJ OASISそしてRHYMESTERの宇多丸四人で写っている写真も公開されている\[30\]。後日の『第三会議室』の公開収録の際に、この事に話が及んだがK DUB SHINEはこれを「お芝居」と語っており、実際の所は不明である。
+一方、Radio Aktive ProjectがZEEBRAが司会をしていた番組『[シュガーヒルストリート](../Page/シュガーヒルストリート.md "wikilink")』に出演し、2007年1月11日（12日）に放送され、このときに撮られた写真がDJ OASISのブログに掲載されており、K DUB SHINEがDJ OASISとZEEBRAと肩を組んでいる写真や話をしている写真が掲載されている\[28\]。さらに1月の『DANGEROUS』ではZEEBRA、K DUB SHINE、DJ OASISそしてRHYMESTERの宇多丸四人で写っている写真も公開されている\[29\]。後日の『第三会議室』の公開収録の際に、この事に話が及んだがK DUB SHINEはこれを「お芝居」と語っており、実際の所は不明である。
 
 2007年3月31日、[RHYMESTER](../Page/RHYMESTER.md "wikilink")のライブ、『King of Stage vol.7 at [日本武道館](../Page/日本武道館.md "wikilink")』で、キングギドラとして一時再結成しRHYMESTERと共に「口から出まかせ」を披露した。K DUB SHINEにこの武道館ライブに出演するように[宇多丸](../Page/宇多丸.md "wikilink")が催促する様子が過去に第三会議室で放送された。
 
-2008年11月1日、ZEEBRAが同じく日本武道館で、デビュー20周年を飾る公演『ZEEBRA 20th ANNIVERSARY THE LIVE ANIMAL in 武道館』を行った。多数の縁のあるゲストが出演したがK DUB SHINEは現れず、キングギドラの揃い踏みは実現しなかった。この件に関して『第三会議室』内で、宇多丸が参加を強く促すもK DUB SHINEが頑なに拒み続ける様子が放送された。 その後、早稲田大学で行われた『第三会議室』の公開収録においても、ゲストであり、武道館ライブに出演した[YOU THE ROCKから武道館ライブに来なかった事について強く責められた](https://ja.wikipedia.org/wiki/YOU_THE_ROCK "wikilink")。この件について後にK DUB SHINEは1995年にキングギドラとして一緒にデビューしたのでZeebraがデビュー20周年ではない事を指摘し、当時自分に対しディスを行っていて対立関係だったゲストとコラボレーションしていたことに関しても不満を述べている\[31\]。
+2008年11月1日、ZEEBRAが同じく日本武道館で、デビュー20周年を飾る公演『ZEEBRA 20th ANNIVERSARY THE LIVE ANIMAL in 武道館』を行った。多数の縁のあるゲストが出演したがK DUB SHINEは現れず、キングギドラの揃い踏みは実現しなかった。この件に関して『第三会議室』内で、宇多丸が参加を強く促すもK DUB SHINEが頑なに拒み続ける様子が放送された。 その後、早稲田大学で行われた『第三会議室』の公開収録においても、ゲストであり、武道館ライブに出演した[YOU THE ROCKから武道館ライブに来なかった事について強く責められた](https://ja.wikipedia.org/wiki/YOU_THE_ROCK "wikilink")。この件について後にK DUB SHINEは1995年にキングギドラとして一緒にデビューしたのでZeebraがデビュー20周年ではない事を指摘し、当時自分に対しディスを行っていて対立関係だったゲストとコラボレーションしていたことに関しても不満を述べている\[30\]。
 
 2009年、[B BOY PARKの会場で行われた](../Page/B_BOY_PARK.md "wikilink")『第三会議室』の公開収録では、ZEEBRAが[Mummy-D](../Page/Mummy-D.md "wikilink")とともにゲストとして登場し、K DUB SHINEと共演した。ZEEBRA退場後、宇多丸にこの二人はすごく仲がいいとコメントされると「表面上はね」「カメラの前ではホント仲良し」とコメントしている。
 
@@ -112,21 +109,19 @@
 
 ### ポップなラップに対して
 
-[セルアウト](https://ja.wikipedia.org/wiki/セルアウト "wikilink")の傾向のあるヒップホップを極端に嫌う。キングギドラ「公開処刑」では[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")、[RIP SLYMEを暗に](../Page/RIP_SLYME.md "wikilink")[ディスした](../Page/ディスリスペクト.md "wikilink")（その後、この2グループとは和解したようである）。また、『理由』収録の「なんでそんなに」ではこの頃頻出していた[歌手](../Page/歌手.md "wikilink")や[SOUL'd OUTを批判している](../Page/SOUL'd_OUT.md "wikilink")。「公開処刑」以後は特定のラッパーに向けたディスはしておらず、ソロ楽曲『いつもの』、[radio aktive projeqtの](../Page/Radio_Aktive_Project.md "wikilink")「そりゃあないよ」でもポップなラップをする者全般に関して言及している（インタビューによればヒップホップを感じないのにラッパー面している者をディスするとのこと）。
+[セルアウト](https://ja.wikipedia.org/wiki/セルアウト "wikilink")の傾向のあるヒップホップを極端に嫌う。キングギドラ「公開処刑」では[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")、[RIP SLYMEを暗に](../Page/RIP_SLYME.md "wikilink")[ディスした](../Page/ディスリスペクト.md "wikilink")（その後、この2グループとは和解したようである）。また、『理由』収録の「なんでそんなに」ではこの頃頻出していた[歌手](../Page/歌手.md "wikilink")や[SOUL'd OUTを批判している](../Page/SOUL'd_OUT.md "wikilink")。「公開処刑」以後は特定のラッパーに向けたディスはしておらず、ソロ楽曲『いつもの』、[radio aktive projeqtの](../Page/Radio_Aktive_Project.md "wikilink")「そりゃあないよ」でもポップなラップをする者全般に関して言及している。
 
-かつてアトミックボムに所属していたラッパー[童子-T](../Page/童子-T.md "wikilink")に対して、DJ MASAKIのミックステープ「DJ MASAKI Presents R.A.P. Special MixShow」においてディスした（DJ MASAKIのブログにおいてトラックリスト欄にDissin by童子-Tと表記されている）。 また、2009年7月28日に「R-Festa2009」に出演した後\[32\]、悪ガキGプロダクション\[33\]のメンバーのTHE A-WORD a.k.a. 日の丸240が、ブログにて「Rフェスタで童子-Tがコッタ君（K DUB SHINE）に胸ぐらを掴まれて、泣かされたらしい」といった記事を投稿した\[34\]。
+かつてアトミックボムに所属していたラッパー[童子-T](../Page/童子-T.md "wikilink")に対して、DJ MASAKIのミックステープ「DJ MASAKI Presents R.A.P. Special MixShow」においてディスした（DJ MASAKIのブログにおいてトラックリスト欄にDissin by童子-Tと表記されている）。 また、2009年7月28日に「R-Festa2009」に出演した後\[31\]、悪ガキGプロダクション\[32\]のメンバーのTHE A-WORD a.k.a. 日の丸240が、ブログにて「Rフェスタで童子-Tがコッタ君（K DUB SHINE）に胸ぐらを掴まれて、泣かされたらしい」といった記事を投稿した\[33\]。
 
 ### 他のラッパーからのディス
 
-DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia.org/wiki/剣桃太郎_\(ミュージシャン\) "wikilink")、「きたないおっさん\[35\]」にて、[般若から](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")、「サンクチュアリ\[36\]」にて、[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")から、SEEDA & DJ ISSO『CONCRETE GREEN 3』特典CD-R収録曲にてディスされている。本人はこれらに対して、楽曲「いつもの」のリリックやインタビュー\[37\]にて「CDを売るための話題作り。2回戦ボーイがチャンピオンとタイトル・マッチなんて出来るわけないだろ。いい加減にしてくれよなー、ウィー。」としている。その後、Kダブシャインと剣桃太郎は、両者による話し合いが行なわれ和解した\[38\]。
+DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia.org/wiki/剣桃太郎_\(ミュージシャン\) "wikilink")、「きたないおっさん\[34\]」にて、[般若から](https://ja.wikipedia.org/wiki/般若_\(ミュージシャン\) "wikilink")、「サンクチュアリ\[35\]」にて、[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")から、SEEDA & DJ ISSO『CONCRETE GREEN 3』特典CD-R収録曲にてディスされている。本人はこれらに対して、楽曲「いつもの」のリリックやインタビュー\[36\]にて「CDを売るための話題作り。2回戦ボーイがチャンピオンとタイトル・マッチなんて出来るわけないだろ。いい加減にしてくれよなー、ウィー。」としている。その後、Kダブシャインと剣桃太郎は、両者による話し合いが行なわれ和解した\[37\]。
 
 ## 交友関係
 
-派閥的な対立はほとんどせず、上記の対立関係にあるラッパーと友好的なミュージシャン（RIP SLYMEやKICK THE CAN CREWの兄貴分であり、DEV LARGEとも親交を持つ宇多丸など）でも交流を持つ事が多い。盟友・DJ OASISの他、『第三会議室』で共演している宇多丸が在籍する[RHYMESTER](../Page/RHYMESTER.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[DJ MASTERKEYら親交がある](../Page/DJ_MASTERKEY.md "wikilink")。。
+派閥的な対立はほとんどせず、上記の対立関係にあるラッパーと友好的なミュージシャン（RIP SLYMEやKICK THE CAN CREWの兄貴分であり、DEV LARGEとも親交を持つ宇多丸など）でも交流を持つ事が多い。盟友・DJ OASISの他、『第三会議室』で共演している宇多丸が在籍する[RHYMESTER](../Page/RHYMESTER.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[DJ MASTERKEYら親交がある](../Page/DJ_MASTERKEY.md "wikilink")。思想
 
-## 思想
-
-[靖国神社](../Page/靖国神社.md "wikilink")に積極的に参拝、[ロシア](../Page/ロシア.md "wikilink")で行われた世界愛国者政党会議に[一水会と共に参加するなど](../Page/一水会_\(思想団体\).md "wikilink")、[保守](../Page/保守.md "wikilink")的なラッパーとして知られていたが、[2013年](../Page/2013年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に[安倍首相が](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")[靖国神社](../Page/靖国神社.md "wikilink")に参拝した際、[中国](../Page/中華人民共和国.md "wikilink")・[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")との関係が日々悪化している事と、その日が[毛沢東](../Page/毛沢東.md "wikilink")の誕生日である事を理由に批判\[39\]するなど、主に[保守派](https://ja.wikipedia.org/wiki/保守派 "wikilink")から支持を集めている[安倍政権には概ね批判的である](https://ja.wikipedia.org/wiki/安倍内閣 "wikilink")。また、[義務教育](../Page/義務教育.md "wikilink")で[小学校](../Page/小学校.md "wikilink")低学年には「[自由](../Page/自由.md "wikilink")」という教科を設け、自由と自分勝手、無秩序の違いや、人としての尊厳がなぜ守られるべきなのか? といった基本的なことについて授業してほしいと述べるなど、[リベラル色が強まりつつ](https://ja.wikipedia.org/wiki/自由主義 "wikilink")[自由主義](https://ja.wikipedia.org/wiki/自由主義 "wikilink")的な思想や考え方も多く主張する様になった\[40\]。
+[靖国神社](../Page/靖国神社.md "wikilink")に積極的に参拝、[ロシア](../Page/ロシア.md "wikilink")で行われた世界愛国者政党会議に[一水会と共に参加するなど](../Page/一水会_\(思想団体\).md "wikilink")、[保守](../Page/保守.md "wikilink")的なラッパーとして知られていたが、[2013年](../Page/2013年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に[安倍首相が](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")[靖国神社](../Page/靖国神社.md "wikilink")に参拝した際、[中国](../Page/中華人民共和国.md "wikilink")・[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")との関係が日々悪化している事と、その日が[毛沢東](../Page/毛沢東.md "wikilink")の誕生日である事を理由に批判\[38\]するなど、主に[保守派](https://ja.wikipedia.org/wiki/保守派 "wikilink")から支持を集めている[安倍政権には概ね批判的である](https://ja.wikipedia.org/wiki/安倍内閣 "wikilink")。また、[義務教育](../Page/義務教育.md "wikilink")で[小学校](../Page/小学校.md "wikilink")低学年には「[自由](../Page/自由.md "wikilink")」という教科を設け、自由と自分勝手、無秩序の違いや、人としての尊厳がなぜ守られるべきなのか? といった基本的なことについて授業してほしいと述べるなど、[リベラル色が強まりつつ](https://ja.wikipedia.org/wiki/自由主義 "wikilink")[自由主義](https://ja.wikipedia.org/wiki/自由主義 "wikilink")的な思想や考え方も多く主張する様になった\[39\]。
 
 ## ディスコグラフィ
 
@@ -203,7 +198,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
   - DJ OASIS 『ハルマゲドン』（2001年3月14日）
       - 1\. ハルマゲドン feat. ZEEBRA, K DUB SHINE
   - DJ OASIS 『キ・キ・チ・ガ・イ』（2001年4月25日）
-      - 1\. キ・キ・チ・ガ・イ feat. 宇多丸 & K DUB SHINE - ※500枚限定でアナログ盤のみの発売\[41\]。
+      - 1\. キ・キ・チ・ガ・イ feat. 宇多丸 & K DUB SHINE - ※500枚限定でアナログ盤のみの発売\[40\]。
   - V.A. 『[凶気の桜](../Page/凶気の桜.md "wikilink") オリジナル・サウンドトラック』（2002年10月17日）
       - 2\. アウトロー（K DUB SHINE feat. ZEEBRA）
       - 7\. 生き証人（青のブルース）
@@ -236,7 +231,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
   - JUN-GMC 『路上の太陽』（2008年3月14日）
       - 8\. 感謝 feat. 三善善三, K DUB SHINE
   - MC鬼刃 BY K ダブ シャイン 『フロム NY シティ〜for the movie〜』（2008年8月13日）
-      - 1\. フロムNYシティ -※実写映画『[デトロイト・メタル・シティ](../Page/デトロイト・メタル・シティ.md "wikilink")』に出てくるキャラクター・MC鬼刃（演:[ダイノジ](../Page/ダイノジ.md "wikilink")・[大地洋輔](https://ja.wikipedia.org/wiki/大地洋輔 "wikilink")）の楽曲という設定で制作された。なお、[PVにはKダブ本人も参加している](../Page/ミュージック・ビデオ.md "wikilink")\[42\]。
+      - 1\. フロムNYシティ -※実写映画『[デトロイト・メタル・シティ](../Page/デトロイト・メタル・シティ.md "wikilink")』に出てくるキャラクター・MC鬼刃（演:[ダイノジ](../Page/ダイノジ.md "wikilink")・[大地洋輔](https://ja.wikipedia.org/wiki/大地洋輔 "wikilink")）の楽曲という設定で制作された。なお、[PVにはKダブ本人も参加している](../Page/ミュージック・ビデオ.md "wikilink")\[41\]。
   - [L-VOKAL](../Page/L-VOKAL.md "wikilink") 『Lovin'』（2010年3月3日）
       - 5\. EDUTAINMENT feat. K DUB SHINE
   - DJ TY-KOH 『YOU KNOW WHAT IT IZ THE MIXTAPE』（2011年9月7日）
@@ -252,7 +247,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
       - 5\. RGTO feat. [SALU](https://ja.wikipedia.org/wiki/SALU "wikilink"), [H.TEFLON](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink") & K DUB SHINE
   - UZI 『フジヤマ』（2014年12月3日）
       - 8\. 韻 feat. K DUB SHINE
-  - [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink") 『新MINMI☆FRIENDS 〜"BAD" MINMI"というネタをラッパー、トラックメーカーがどう料理したのか〜』（2015年7月22日）\[43\]
+  - [MINMI](https://ja.wikipedia.org/wiki/MINMI "wikilink") 『新MINMI☆FRIENDS 〜"BAD" MINMI"というネタをラッパー、トラックメーカーがどう料理したのか〜』（2015年7月22日）\[42\]
       - 7\. jealous Remix by banvox featuring K DUB SHINE
 
 ### 映画音楽
@@ -273,7 +268,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
   - [ドレミファドン](https://ja.wikipedia.org/wiki/ドレミファドン "wikilink")　2015年[9月29日](../Page/9月29日.md "wikilink")
   - [バナナ♪ゼロミュージック](https://ja.wikipedia.org/wiki/バナナ♪ゼロミュージック "wikilink")　[2016年](../Page/2016年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")
   - [人気芸能人にイタズラ\! 仰天ハプニング100連発](https://ja.wikipedia.org/wiki/仰天ハプニング100連発 "wikilink")　2016年[6月28日](../Page/6月28日.md "wikilink")
-  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")　2017年[3月19日](../Page/3月19日.md "wikilink")\[44\]
+  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")　2017年[3月19日](../Page/3月19日.md "wikilink")\[43\]
 
 ### 映画
 
@@ -281,9 +276,9 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
 
 ### インターネットテレビ
 
-  - [\#日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV](https://ja.wikipedia.org/wiki/日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV "wikilink")（2016年4月15日 - 2017年3月24日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 進行 役\[45\]
+  - [\#日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV](https://ja.wikipedia.org/wiki/日本で一番カワイイ女の子をこの番組が、決めちゃうゾTV "wikilink")（2016年4月15日 - 2017年3月24日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 進行 役\[44\]
   - [ライムスター宇多丸の水曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（2018年10月4日 - 、AbemaTV） - アシスタント
-  - [タベドリ](https://ja.wikipedia.org/wiki/タベドリ "wikilink")（2018年10月15日 - 11月6日、AbemaTV） - エロ四天王\[46\]
+  - [タベドリ](https://ja.wikipedia.org/wiki/タベドリ "wikilink")（2018年10月15日 - 11月6日、AbemaTV） - エロ四天王\[45\]
   - 情熱報道ライブ「[ニューズ・オプエド](https://ja.wikipedia.org/wiki/ニューズ・オプエド "wikilink")®」（2014年11月7日・2016年6月2日・2017年3月7日、NOBORDER NEWS TOKYO）
 
 ### 声優
@@ -294,7 +289,7 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
 
   - [ライムスター宇多丸のウィークエンド・シャッフル](../Page/ライムスター宇多丸のウィークエンド・シャッフル.md "wikilink")（2007年8月11日、2008年8月30日、2010年1月23日、[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
   - [ザ・トップ5](https://ja.wikipedia.org/wiki/ザ・トップ5 "wikilink")（2011年11月9日、TBSラジオ）
-  - SCHOOL OF LOCK\! スカパー！校内放送ラッパーズ（2018年8月10日、[TOKYO FM](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")）\[47\]\[48\]
+  - SCHOOL OF LOCK\! スカパー！校内放送ラッパーズ（2018年8月10日、[TOKYO FM](https://ja.wikipedia.org/wiki/TOKYO_FM "wikilink")）\[46\]\[47\]
   - 他多数
 
 ### インターネットラジオ
@@ -336,40 +331,39 @@ DEV LARGEにディスされたほか、[剣桃太郎から](https://ja.wikipedia
 9.  [生まれも育ちも渋谷－ラッパー、K・ダブ・シャインさんが自伝本](http://www.shibukei.com/headline/4557) - 渋谷経済新聞
 10. 当時同大学には[EAST ENDの](../Page/EAST_END.md "wikilink")[GAKU-MC](../Page/GAKU-MC.md "wikilink")も通っており、この時点で知り合いになる
 11. [朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink") 2005年4月15日夕刊 7面【ARTIST meets ARTIST】「日本のラップと社会」K DUB SHINE
-12. [New Klear Vision ＃１「アトミックボム倒産の真相」](http://www.nicovideo.jp/watch/1239903166) - ニコニコ動画
-13. [Kダブシャインと剣桃太郎が和解｜NEWS / REPORT（ニュース/レポート）](http://amebreak.ameba.jp/news/2008/11/000545.html) - Amebrak（アメブレイク）
-14. [TOWER RECORDS ニュース 2011年3月18日](http://tower.jp/article/news/76473)
-15.
-16. [渋谷アンダーグラウンド 〜街を作った男達の20年〜](http://www.fujitv.co.jp/nonfix/library/2004/431.html) - フジテレビ
+12. [Kダブシャインと剣桃太郎が和解｜NEWS / REPORT（ニュース/レポート）](http://amebreak.ameba.jp/news/2008/11/000545.html) - Amebrak（アメブレイク）
+13. [TOWER RECORDS ニュース 2011年3月18日](http://tower.jp/article/news/76473)
+14.
+15. [渋谷アンダーグラウンド 〜街を作った男達の20年〜](http://www.fujitv.co.jp/nonfix/library/2004/431.html) - フジテレビ
+16.
 17.
 18.
 19.
 20.
-21.
-22. 語ろう\!クウガ・アギト・龍騎 【永遠の平成仮面ライダーシリーズ】（2013年 レッカ社）31p
-23.
-24. 槙田雄司 『一億総ツッコミ時代』 2012年
-25. シンコーミュージック『blast』2004年10月号 「公論R、Ultimate Love Songの巻、知っておきたい前知識」
-26. <http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2013/11/21.html>
-27. <https://twitter.com/kingkottakromac/status/595390116983611393>
-28. アルバム『理由』収録曲の「運命」の歌詞の中でも語られている。
-29. [2006年12月30日に撮られたもの](http://ameblo.jp/djoasis/entry-10022521429.html)
-30. [2007年1月12日に撮られたもの](http://ameblo.jp/djoasis/entry-10023381250.html)
-31.
-32. [dwango.jp presents R-Festa 2009 イベント概要](http://pc.dwango.jp/sp/r2009/rpt)
-33. K DUB SHINE関連の楽曲にいくつか参加しているJA飛龍が所属するクルー
-34. [Rフェスタの裏話… The A-Ward Office](http://ameblo.jp/the-award/entry-10309487629.html)
-35. アルバム『斬』のボーナストラック収録曲
-36. アルバム『[根こそぎ](https://ja.wikipedia.org/wiki/根こそぎ "wikilink")』収録
-37. [radio aktive projeqt｜INTERVIEW（インタビュー）](http://amebreak.ameba.jp/interview/2008/08/000411.html) - Amebreak（アメブレイク）
-38. [Kダブシャインと剣桃太郎が和解 NEWS / REPORT - Amebreak\[アメブレイク](http://amebreak.ameba.jp/news/2008/11/000545.html)
-39. [Kダブ シャイン - SPACE SHOWER MOBILE](http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2014/01/09.html)
-40. [Kダブ シャイン - SPACE SHOWER MOBILE](http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2014/07/31.html)
-41. 歌詞の内容の過激さから、後に発禁・自主回収されている。
-42. [MC鬼刃 BY K ダブ シャイン - フロムNYシティ](https://www.youtube.com/watch?v=S5y8UMu3gXg)
+21. 語ろう\!クウガ・アギト・龍騎 【永遠の平成仮面ライダーシリーズ】（2013年 レッカ社）31p
+22.
+23. 槙田雄司 『一億総ツッコミ時代』 2012年
+24. シンコーミュージック『blast』2004年10月号 「公論R、Ultimate Love Songの巻、知っておきたい前知識」
+25. <http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2013/11/21.html>
+26. <https://twitter.com/kingkottakromac/status/595390116983611393>
+27. アルバム『理由』収録曲の「運命」の歌詞の中でも語られている。
+28. [2006年12月30日に撮られたもの](http://ameblo.jp/djoasis/entry-10022521429.html)
+29. [2007年1月12日に撮られたもの](http://ameblo.jp/djoasis/entry-10023381250.html)
+30.
+31. [dwango.jp presents R-Festa 2009 イベント概要](http://pc.dwango.jp/sp/r2009/rpt)
+32. K DUB SHINE関連の楽曲にいくつか参加しているJA飛龍が所属するクルー
+33. [Rフェスタの裏話… The A-Ward Office](http://ameblo.jp/the-award/entry-10309487629.html)
+34. アルバム『斬』のボーナストラック収録曲
+35. アルバム『[根こそぎ](https://ja.wikipedia.org/wiki/根こそぎ "wikilink")』収録
+36. [radio aktive projeqt｜INTERVIEW（インタビュー）](http://amebreak.ameba.jp/interview/2008/08/000411.html) - Amebreak（アメブレイク）
+37. [Kダブシャインと剣桃太郎が和解 NEWS / REPORT - Amebreak\[アメブレイク](http://amebreak.ameba.jp/news/2008/11/000545.html)
+38. [Kダブ シャイン - SPACE SHOWER MOBILE](http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2014/01/09.html)
+39. [Kダブ シャイン - SPACE SHOWER MOBILE](http://www.spaceshowertv.com/sp/content/mobile/column/kdub/2014/07/31.html)
+40. 歌詞の内容の過激さから、後に発禁・自主回収されている。
+41. [MC鬼刃 BY K ダブ シャイン - フロムNYシティ](https://www.youtube.com/watch?v=S5y8UMu3gXg)
+42.
 43.
 44.
 45.
 46.
 47.
-48.

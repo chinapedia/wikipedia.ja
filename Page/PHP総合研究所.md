@@ -13,7 +13,7 @@
 
 ## 外部リンク
 
-  - [PHP総研ブログ『番町Cafe』](http://blog.goo.ne.jp/php2/)
+  - [PHP総研ブログ『番町Cafe』](https://blog.goo.ne.jp/php2)
 
   -
   - [松下幸之助経営塾](http://www.php.co.jp/seminar/m-keieijuku/)

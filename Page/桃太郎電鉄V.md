@@ -292,7 +292,7 @@
 
   - ヤイマック ([iMac](https://ja.wikipedia.org/wiki/iMac "wikilink"))
   - 大渕総理（[小渕恵三](../Page/小渕恵三.md "wikilink")）
-  - スリっ娘。（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+  - スリっ娘。（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
   - 車掌
 
 ## 関連書籍

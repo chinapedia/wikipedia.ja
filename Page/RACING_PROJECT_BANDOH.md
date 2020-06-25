@@ -57,7 +57,7 @@
 <td><p>1998年</p></td>
 <td><p>GT300</p></td>
 <td><p>ウェッズスポーツセリカ</p></td>
-<td><p><a href="../Page/織戸学.md" title="wikilink">織戸学</a>/<a href="https://ja.wikipedia.org/wiki/マッシミリアーノ・アンジェレッリ" title="wikilink">マッシミリアーノ・アンジェレッリ</a>/<a href="../Page/山本勝巳_(レーサー).md" title="wikilink">山本勝巳</a></p></td>
+<td><p><a href="../Page/織戸学.md" title="wikilink">織戸学</a>/<a href="../Page/マックス・アンジェレッリ.md" title="wikilink">マックス・アンジェレッリ</a>/<a href="../Page/山本勝巳_(レーサー).md" title="wikilink">山本勝巳</a></p></td>
 <td><p>2位</p></td>
 </tr>
 <tr class="odd">

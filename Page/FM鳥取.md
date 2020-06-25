@@ -38,7 +38,7 @@
   - [幸田慶子](../Page/幸田慶子.md "wikilink")（放送部長兼チーフアナウンサー）
   - [山下弥生](https://ja.wikipedia.org/wiki/山下弥生 "wikilink")（営業企画部長兼アナウンサー）
   - [濱井丈栄](https://ja.wikipedia.org/wiki/濱井丈栄 "wikilink")（フリーアナウンサー）
-  - [本庄かおり](https://ja.wikipedia.org/wiki/本庄かおり "wikilink")（フリーアナウンサー）
+  - [本庄かおり](https://ja.wikipedia.org/wiki/本庄かおり "wikilink")（フリーアナウンサー、娘は鳥取地方アイドル「だいやぁ☆もんど」のメンバーだった）
   - [福浜隆宏](../Page/福浜隆宏.md "wikilink")（[鳥取県議会](https://ja.wikipedia.org/wiki/鳥取県議会 "wikilink")議員、元[日本海テレビ](https://ja.wikipedia.org/wiki/日本海テレビ "wikilink")アナウンサー）
 
 ### 過去

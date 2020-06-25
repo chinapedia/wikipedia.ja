@@ -430,10 +430,8 @@
     [上白石萌音](https://ja.wikipedia.org/wiki/上白石萌音 "wikilink")によるオープニングテーマ。作詞は松尾レミ、作曲は[GLIM SPANKY](https://ja.wikipedia.org/wiki/GLIM_SPANKY "wikilink")、編曲は亀本寛貴。
   - 「シンクロ」\[17\]
     [サイダーガール](https://ja.wikipedia.org/wiki/サイダーガール "wikilink")によるエンディングテーマ。作詞・作曲は知、編曲は[akkin](https://ja.wikipedia.org/wiki/akkin "wikilink")。
-
-「**生きてゆく**」
-
-12話エンディングテーマ。
+  - 「**生きてゆく**」
+    12話エンディングテーマ。
 
 ### 各話リスト
 

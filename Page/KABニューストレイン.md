@@ -1,7 +1,7 @@
 > この記事は[KABニューストレイン](https://ja.wikipedia.org/wiki/KABニューストレイン)から翻訳されています。
 
 
-『**KABニューストレイン**』（ケイエービー ニューストレイン）は、[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")（『[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")ローカルパート）。番組タイトルロゴは「**NEWS TRAIN**」と表記されていた。
+『**KABニューストレイン**』（ケイエービー ニューストレイン）は、[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[熊本朝日放送](../Page/熊本朝日放送.md "wikilink")で放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")（『[ANNスーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』の[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")ローカルパート）。番組タイトルロゴは「**NEWS TRAIN**」と表記されていた。
 
 ## 概要
 
@@ -88,7 +88,7 @@
 
 ## 関連項目
 
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 

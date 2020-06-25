@@ -424,7 +424,7 @@
 ## 外部リンク
 
   - [CHIMPAN NEWS CHANNEL](http://web.archive.org/web/20100823013202/http://www.fujitv.co.jp/cnc/index2.html) - フジテレビ（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
-  - [CHIMPAN NEWS CHANNEL](http://www.fujitv.co.jp/b_hp/chimpannews/) - フジテレビ（番組基本情報ページ）
+  - [CHIMPAN NEWS CHANNEL](https://www.fujitv.co.jp/b_hp/chimpannews/) - フジテレビ（番組基本情報ページ）
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:フジテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの帯番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:テレビの動物番組](https://ja.wikipedia.org/wiki/Category:テレビの動物番組 "wikilink") [Category:サルを題材とした作品](https://ja.wikipedia.org/wiki/Category:サルを題材とした作品 "wikilink")
 

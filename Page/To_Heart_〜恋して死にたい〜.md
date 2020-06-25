@@ -88,4 +88,4 @@
 
   - [to Heart 〜恋して死にたい〜（ウェブアーカイブ）](http://web.archive.org/web/20070313195740/http://www.tbs.co.jp:80/drama_archive/toheart/)
 
-[Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:ボクシングを題材とした作品](https://ja.wikipedia.org/wiki/Category:ボクシングを題材とした作品 "wikilink")
+[Category:TBS金曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ "wikilink") [Category:1999年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1999年のテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:ボクシングドラマ](https://ja.wikipedia.org/wiki/Category:ボクシングドラマ "wikilink")

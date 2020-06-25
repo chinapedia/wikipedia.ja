@@ -82,7 +82,7 @@
       - 18thシングル
       - TBS系ドラマ「[ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")」主題歌
       - [任天堂](../Page/任天堂.md "wikilink")「[ファイアーエムブレム 烈火の剣](../Page/ファイアーエムブレム_烈火の剣.md "wikilink")」CMソング
-      - 5thアルバム『[LIFE is...](../Page/LIFE_is....md "wikilink")』からのリカットシングル。このバージョンはアルバム初収録。
+      - 5thアルバム『[LIFE is...](../Page/LIFE_is....md "wikilink")』からのリカットシングルでオリジナルバージョンとはアレンジが異なるバージョン。このバージョンはアルバム初収録。
 8.  **[style](../Page/Style_\(平井堅の曲\).md "wikilink")**
       - 19thシングル
 9.  **[瞳をとじて](../Page/瞳をとじて.md "wikilink")**

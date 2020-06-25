@@ -150,7 +150,7 @@
   - [鈴木健二](../Page/鈴木健二.md "wikilink")（元NHKアナウンサー）：第34〜[36回白組司会](../Page/第36回NHK紅白歌合戦.md "wikilink")。
   - [中村紘子](../Page/中村紘子.md "wikilink")（[ピアニスト](../Page/ピアニスト.md "wikilink")）：「時代の証言者」。
   - [川上哲治](../Page/川上哲治.md "wikilink")（NHK[野球解説者](../Page/野球解説者.md "wikilink")）：同上。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")：光GENJIのバックダンサー。
+  - [SMAP](../Page/SMAP.md "wikilink")：光GENJIのバックダンサー。
   - [Mr.マリック](../Page/Mr.マリック.md "wikilink")：荻野目洋子と伊藤多喜雄の曲間。
 
 ### 演奏ゲスト
@@ -176,8 +176,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
   - [第４０回　ＮＨＫ紅白歌合戦 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010359_00000)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:武田鉄矢](https://ja.wikipedia.org/wiki/Category:武田鉄矢 "wikilink") [Category:1989年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のテレビ番組_\(日本\) "wikilink") [Category:1989年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のラジオ番組_\(日本\) "wikilink") [Category:1989年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1989年の日本の音楽 "wikilink") [Category:1989年12月](https://ja.wikipedia.org/wiki/Category:1989年12月 "wikilink")

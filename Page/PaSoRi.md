@@ -9,16 +9,28 @@
 
   - RC-S310●
     2001年発売。[USB接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")。[Windows98](../Page/Microsoft_Windows_98.md "wikilink")/[Me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")/[2000](../Page/Microsoft_Windows_2000.md "wikilink")/[XP](../Page/Microsoft_Windows_XP.md "wikilink")/[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")/[7](../Page/Microsoft_Windows_7.md "wikilink")/[8.xおよび](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")[PLAYSTATION 3に対応](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[1\]。ICカードは[FeliCa](../Page/FeliCa.md "wikilink")にのみ対応。
+
   - RC-S320●
     2004年10月発売\[2\]。[USB接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")。[Windows98](../Page/Microsoft_Windows_98.md "wikilink")/[Me](../Page/Microsoft_Windows_Millennium_Edition.md "wikilink")/[2000](../Page/Microsoft_Windows_2000.md "wikilink")/[XP](../Page/Microsoft_Windows_XP.md "wikilink")/[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")/[7](../Page/Microsoft_Windows_7.md "wikilink")/[8.xおよび](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")[PLAYSTATION 3に対応](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[3\]\[4\]\[5\]。ICカードは[FeliCa](../Page/FeliCa.md "wikilink")にのみ対応。
+
     ユーザーのコミュニティでは、後述のRC-S330と比較し、筐体色から「白パソリ」と呼ばれる。
+
     2007年8月2日、USBコネクタ部品に形状不良の樹脂部品を使用していたため、機器側USB端子を変形させてしまう可能性があるとして無償交換を実施した\[6\]が、2013年9月30日をもって受付を終了した。
+
   - RC-S330●
     2009年1月21日発売\[7\]\[8\]。[USB接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")。[WindowsXP](../Page/Microsoft_Windows_XP.md "wikilink")/[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")/[7](../Page/Microsoft_Windows_7.md "wikilink")/[8.x](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")/[10および](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[PLAYSTATION 3に対応](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[9\]\[10\]。ICカードは[NFCに対応し](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")、[FeliCa](../Page/FeliCa.md "wikilink")だけでなく[MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink")などの[ISO/IEC 14443タイプA](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink")、タイプBの非接触ICカードもサポートし、[e-Tax](https://ja.wikipedia.org/wiki/e-Tax "wikilink")にも対応している。2019年9月サポート終了。
+
     ユーザーのコミュニティでは、前述のRC-S320と比較し、筐体色から「黒パソリ」と呼ばれる。
+
     S320と比べてLEDランプが無くなった。
+
     業務用途専用モデルとしてアメリカ・ヨーロッパでの[電波法](../Page/電波法.md "wikilink")にも準拠したRC-S330/Sも同時に発売\[11\]。
+
   - RC-S370○
+
+[Contactless_Ic_Card_Reader_Writer_RC-S370.jpg](https://ja.wikipedia.org/wiki/File:Contactless_Ic_Card_Reader_Writer_RC-S370.jpg "fig:Contactless_Ic_Card_Reader_Writer_RC-S370.jpg")」\]\]
+
+  -
     2010年10月13日発売。[USB接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")。[WindowsXP](../Page/Microsoft_Windows_XP.md "wikilink")/[Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")/[7](../Page/Microsoft_Windows_7.md "wikilink")/[8.x](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")/[10および](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")[PLAYSTATION 3に対応](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[12\]。ICカードは[NFCに対応し](https://ja.wikipedia.org/wiki/近距離無線通信 "wikilink")、[FeliCa](../Page/FeliCa.md "wikilink")だけでなく[MIFARE](https://ja.wikipedia.org/wiki/MIFARE "wikilink")などの[ISO/IEC 14443タイプA](https://ja.wikipedia.org/wiki/ISO/IEC_14443 "wikilink")、タイプBの非接触ICカードもサポートし、[e-Tax](https://ja.wikipedia.org/wiki/e-Tax "wikilink")にも対応している。
     RC-S330との差は、専用スタンドが同梱されていることと、CD-ROMが同梱されなくなったことである\[13\]。
   - RC-S380◎

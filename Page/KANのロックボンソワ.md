@@ -1,7 +1,7 @@
 > この記事は[KANのロックボンソワ](https://ja.wikipedia.org/wiki/KANのロックボンソワ)から翻訳されています。
 
 
-『**KANのロックボンソワ**』（カンのロックボンソワ）とは、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**KANのロックボンソワ**』（カンのロックボンソワ）とは、[STVラジオ](../Page/STVラジオ.md "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 放送時間
 

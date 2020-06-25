@@ -25,7 +25,7 @@
   - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")が「[もう一度ふたりで歌いたい](https://ja.wikipedia.org/wiki/もう一度ふたりで歌いたい "wikilink")」で[第29回](../Page/第29回NHK紅白歌合戦.md "wikilink")（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）以来8年ぶりに復帰を果たした。歌唱中、歌詞テロップが出なくなるトラブルがあり曲の最後まで表示されなかった。
   - [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")は史上初の30年連続出場を達成（30回出場も初）。だが、30年連続出場に区切りをつける形で、翌年は出場を辞退（「**卒業宣言**」）し、連続出場は今回で一旦ストップ。本人によると次回の辞退は今回の時点で決めており、今回身に纏った白色の着物はその表れだったという\[15\]。しかしその年に発売した「[人生いろいろ](https://ja.wikipedia.org/wiki/人生いろいろ "wikilink")」が後になって大ヒットし、第39回で2年ぶりに復帰した。
   - [石川さゆり](../Page/石川さゆり.md "wikilink")が「[天城越え](../Page/天城越え_\(曲\).md "wikilink")」で自身初の紅組トリを務めた。
-  - 大トリは2年連続（白組トリ自体は3年連続）で[森進一](../Page/森進一.md "wikilink")（この年デビュー20周年）が担当し、「[ゆうすげの恋](https://ja.wikipedia.org/wiki/ゆうすげの恋 "wikilink")」を歌唱。今回の進一を最後に3年連続以上のトリ担当者は[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")） - [第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）の[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")まで途絶えることとなった。
+  - 大トリは2年連続（白組トリ自体は3年連続）で[森進一](../Page/森進一.md "wikilink")（この年デビュー20周年）が担当し、「[ゆうすげの恋](https://ja.wikipedia.org/wiki/ゆうすげの恋 "wikilink")」を歌唱。今回の進一を最後に3年連続以上のトリ担当者は[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")） - [第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）の[SMAP](../Page/SMAP.md "wikilink")まで途絶えることとなった。
   - 今回の勝敗判定は[第31回](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink")（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）以来6年ぶりにボール投げではなく、中央の巨大[CRTモニターに得票数を帯グラフで表示する方式だった](../Page/ブラウン管.md "wikilink")。
   - 優勝は白組だったが、紅組の敗戦が決まった瞬間、斉藤はその場に立ちつくし、大粒の悔やし涙を流す。紅組メンバーが必死に斉藤を励ましたこともあり、一時は立ち直って気丈に「負けたけど、精一杯頑張りました」とコメントするも、終了後ステージから引き上げる際に声をあげながら泣き続けた。その模様を見ていた、[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")や聖子、石川の目にも涙があった。斉藤は他の紅組出演者から口々に「由貴ちゃんが居れば優勝間違いなし」と言われていたので「自分のせいで負けてしまった」と思ってしまったそうである。
   - 「[蛍の光](../Page/蛍の光.md "wikilink")」の途中30秒近く歌声のみが途絶えた。
@@ -76,7 +76,7 @@
 | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
 | 歌手                                                          | 曲                                                                          |
 | [荻野目洋子](../Page/荻野目洋子.md "wikilink")(初)                     | [ダンシング・ヒーロー (Eat You Up)](../Page/ダンシング・ヒーロー_\(Eat_You_Up\).md "wikilink") |
-| [大月みやこ](../Page/大月みやこ.md "wikilink")(初)                     | [女の港](https://ja.wikipedia.org/wiki/女の港 "wikilink")                        |
+| [大月みやこ](../Page/大月みやこ.md "wikilink")(初)                     | [女の港](../Page/大月みやこ.md "wikilink")                                         |
 | [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")(3)  | [夜明けのMEW](../Page/夜明けのMEW.md "wikilink")                                   |
 | [斉藤由貴](https://ja.wikipedia.org/wiki/斉藤由貴 "wikilink")(初)    | [悲しみよこんにちは](../Page/悲しみよこんにちは_\(斉藤由貴の曲\).md "wikilink")                    |
 | [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(16)                    | 乱                                                                          |
@@ -85,15 +85,15 @@
 | [研ナオコ](../Page/研ナオコ.md "wikilink")(10)                      | [Tokyo見返り美人](https://ja.wikipedia.org/wiki/Tokyo見返り美人 "wikilink")          |
 | [五輪真弓](../Page/五輪真弓.md "wikilink")(3)                       | [時の流れに〜鳥になれ〜](https://ja.wikipedia.org/wiki/時の流れに〜鳥になれ〜 "wikilink")        |
 | [河合奈保子](../Page/河合奈保子.md "wikilink")(6)                     | [ハーフムーン・セレナーデ](../Page/ハーフムーン・セレナーデ.md "wikilink")                         |
-| [川中美幸](../Page/川中美幸.md "wikilink")(6)                       | [ふたりの絆](https://ja.wikipedia.org/wiki/ふたりの絆_\(川中美幸の曲\) "wikilink")         |
+| [川中美幸](../Page/川中美幸.md "wikilink")(6)                       | [ふたりの絆](../Page/川中美幸.md "wikilink")                                        |
 | [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")(10) | [もう一度ふたりで歌いたい](https://ja.wikipedia.org/wiki/もう一度ふたりで歌いたい "wikilink")      |
 | [松田聖子](../Page/松田聖子.md "wikilink")(7)                       | [瑠璃色の地球](../Page/瑠璃色の地球.md "wikilink")                                     |
 | [岩崎宏美](../Page/岩崎宏美.md "wikilink")(12)                      | [好きにならずにいられない](../Page/好きにならずにいられない_\(岩崎宏美の曲\).md "wikilink")              |
-| [水前寺清子](../Page/水前寺清子.md "wikilink")(22)                    | [男三百六十度](https://ja.wikipedia.org/wiki/男三百六十度 "wikilink")                  |
-| [松原のぶえ](../Page/松原のぶえ.md "wikilink")(2)                     | [演歌みち](https://ja.wikipedia.org/wiki/演歌みち "wikilink")                      |
-| [八代亜紀](../Page/八代亜紀.md "wikilink")(14)                      | [港町純情](https://ja.wikipedia.org/wiki/港町純情 "wikilink")                      |
-| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(30) | [くちべに挽歌](https://ja.wikipedia.org/wiki/くちべに挽歌 "wikilink")                  |
-| [小林幸子](../Page/小林幸子.md "wikilink")(8)                       | [別離（ワカレ）](https://ja.wikipedia.org/wiki/別離_\(小林幸子の曲\) "wikilink")          |
+| [水前寺清子](../Page/水前寺清子.md "wikilink")(22)                    | [男三百六十度](../Page/水前寺清子.md "wikilink")                                      |
+| [松原のぶえ](../Page/松原のぶえ.md "wikilink")(2)                     | [演歌みち](../Page/松原のぶえ.md "wikilink")                                        |
+| [八代亜紀](../Page/八代亜紀.md "wikilink")(14)                      | [港町純情](../Page/八代亜紀.md "wikilink")                                         |
+| [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(30) | [くちべに挽歌](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")                   |
+| [小林幸子](../Page/小林幸子.md "wikilink")(8)                       | [別離（ワカレ）](../Page/小林幸子.md "wikilink")                                      |
 | [石川さゆり](../Page/石川さゆり.md "wikilink")(9)                     | [天城越え](../Page/天城越え_\(曲\).md "wikilink")                                   |
 |                                                             |                                                                            |
 
@@ -149,8 +149,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink") [Category:1986年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のラジオ番組_\(日本\) "wikilink") [Category:1986年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1986年の日本の音楽 "wikilink") [Category:1986年12月](https://ja.wikipedia.org/wiki/Category:1986年12月 "wikilink") [Category:加山雄三](https://ja.wikipedia.org/wiki/Category:加山雄三 "wikilink")
 

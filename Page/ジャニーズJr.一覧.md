@@ -127,7 +127,7 @@
 
 ### た
 
-  - [高田翔](../Page/高田翔.md "wikilink")\* 高橋賢生\* 髙橋汐音\* 高橋翔吾\* 髙橋曽良\* 髙橋真斗\* [髙橋優斗](https://ja.wikipedia.org/wiki/髙橋優斗 "wikilink")\* 瀧陽次朗\* 滝本海都\* 竹田凌\* 竹村実悟\* 田中誠治\* 田仲陽成\* 谷田柊士\* 田村匠\* [谷村龍一](https://ja.wikipedia.org/wiki/谷村龍一 "wikilink")\* 田村海琉
+  - [高田翔](../Page/高田翔.md "wikilink")\* 高橋賢生\* 髙橋汐音\* 高橋翔吾\* 髙橋曽良\* 髙橋真斗\* [髙橋優斗](https://ja.wikipedia.org/wiki/髙橋優斗 "wikilink")\* 瀧陽次朗\* 滝本海都\* 竹田凌\* 竹村実悟\* 田中誠治\* 田仲陽成\* 谷田柊士\* 田村匠\* 谷村龍一\* 田村海琉
 
 ### ち
 
@@ -303,7 +303,7 @@
   - [佐野晶哉](https://ja.wikipedia.org/wiki/佐野晶哉 "wikilink")
   - 澤田雅也
   - 嶋﨑斗亜
-  - [末澤誠也](https://ja.wikipedia.org/wiki/末澤誠也 "wikilink")
+  - 末澤誠也
   - 角紳太郎
   - 千田藍生
 

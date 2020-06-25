@@ -38,7 +38,7 @@
   - [タブ](../Page/タブ_\(GUI\).md "wikilink")
   - [タブブラウザ](../Page/タブブラウザ.md "wikilink")
 
-[Category:グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/Category:グラフィカルユーザインタフェース "wikilink")
+[Category:ドキュメント・インタフェース](https://ja.wikipedia.org/wiki/Category:ドキュメント・インタフェース "wikilink") [Category:ユーザインタフェース技術](https://ja.wikipedia.org/wiki/Category:ユーザインタフェース技術 "wikilink") [Category:グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/Category:グラフィカルユーザインタフェース "wikilink")
 
 1.  [MFCにおいて](../Page/Microsoft_Foundation_Class.md "wikilink")、1つのドキュメントに対して、複数のビューウィンドウを表示する「マルチビュー」という方式も存在するが、SDI/MDIの分類とは異なる。
 2.  \[<https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/dd465268(v=vs.100>) What's New in the Visual Studio 2010 Editor | Microsoft Docs\]

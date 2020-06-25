@@ -23,7 +23,7 @@
 
   - Tama ([Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")) - 1999年9月号（初のアーティスト起用）. 2000年4月号.11月号
   - [今宿麻美](../Page/今宿麻美.md "wikilink") - 1999年10月号
-  - [飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）- 1999年11月号
+  - [飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）- 1999年11月号
   - [FLIPFLAP](../Page/FLIP-FLAP.md "wikilink") - 1999年12月号
   - NATSU（[センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")）- 2000年1月号. 9月号
   - [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink") - 2000年3月号
@@ -71,7 +71,7 @@
   - [松井珠理奈](https://ja.wikipedia.org/wiki/松井珠理奈 "wikilink")（[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")・[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）- 2014年8月号
   - [神田沙也加](../Page/神田沙也加.md "wikilink") - 2014年10月号. 2015年3月号
   - [中村里砂](https://ja.wikipedia.org/wiki/中村里砂 "wikilink") - 2014年11月号
-  - [道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'14）- 2014年12月号
+  - [道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")'14）- 2014年12月号
   - [真山りか](https://ja.wikipedia.org/wiki/真山りか "wikilink")＆[廣田あいか](https://ja.wikipedia.org/wiki/廣田あいか "wikilink")（[私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")）- 2015年1月号
 
 ## 連載

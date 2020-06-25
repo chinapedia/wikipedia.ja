@@ -102,7 +102,7 @@
 [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
 
 1.  [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")刊「[ザッピィ](https://ja.wikipedia.org/wiki/ザッピィ "wikilink")」2001年9月号206Pより。
-2.  [スイッチ・パブリッシング](../Page/スイッチ・パブリッシング.md "wikilink")刊「Switch」2002年8月号109P-110Pより。
+2.  [スイッチ・パブリッシング](../Page/スイッチ・パブリッシング.md "wikilink")刊「Switch」2002年8月号「SIT UP LATE 小室哲哉（GABALL）／原田大三郎（GABALL）」109P-110Pより。
 3.  [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊 『[キーボード・マガジン](../Page/キーボード・マガジン.md "wikilink")』 2001年12月号32P-40Pより。
 4.  [「小室新ユニット『GABALL』」](https://web.archive.org/web/20011118125639/http://www.nikkansports.com/news/entert/p-et-tp0-011117-07.html)より。
 5.

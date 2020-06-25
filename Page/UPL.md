@@ -5,7 +5,7 @@
 
 ## 主な作品
 
-  - [マウサー](https://ja.wikipedia.org/wiki/マウサー "wikilink")
+  - [マウザー](../Page/マウザー.md "wikilink")
 
   - [NOVA2001](../Page/NOVA2001.md "wikilink")
 

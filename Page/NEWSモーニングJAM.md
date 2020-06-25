@@ -40,7 +40,7 @@
   - NHK『[NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")』6:00 - 8:15（番組自体は放送時間が4:30 - 8:00に起伏拡大して現在も放送継続中）
   - 日本テレビ『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』5:59 - 7:00／『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』7:00 - 8:30
   - TBS『[オンタイム](../Page/あなたにオンタイム.md "wikilink")』5:30 - 6:50／『[フレッシュ\!](../Page/ザ・フレッシュ!.md "wikilink")』6:50 - 8:30
-  - フジテレビ『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』5:55 - 8:00（番組自体は放送時間が4:55 − 8:00、一部地域では5:25 - 8:00で現在も放送継続中）
+  - フジテレビ『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』5:55 - 8:00（番組自体は放送時間が4:55 - 8:00、一部地域では5:25 - 8:00で現在も放送継続中）
   - テレビ朝日『[ANNニュースフレッシュ](../Page/ANNニュースフレッシュ.md "wikilink")』6:30 - 6:45／『[新やじうまワイド](../Page/やじうまワイド.md "wikilink")』6:45 - 8:00
 
 [Category:テレビ東京のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のニュース・報道番組の歴史 "wikilink") [Category:テレビ東京の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の情報・ワイドショー番組 "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink")

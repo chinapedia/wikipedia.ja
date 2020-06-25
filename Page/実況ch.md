@@ -546,7 +546,7 @@ BSデジタル放送における、民放テレビ局が運営する無料チャ
 
 ### 芸能ch板
 
-芸能に関する実況をするための板。かつては大半が[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")関係の実況であったが、現在は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")関係の実況が中心となっている。
+芸能に関する実況をするための板。かつては大半が[モーニング娘。](../Page/モーニング娘。.md "wikilink")関係の実況であったが、現在は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")関係の実況が中心となっている。
 
 #### 板の歴史
 

@@ -289,7 +289,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/春風亭昇吉" title="wikilink">春風亭昇吉</a><br />
 <a href="../Page/笑福亭べ瓶.md" title="wikilink">笑福亭べ瓶</a><br />
 <a href="../Page/桂三度.md" title="wikilink">桂三度</a><br />
-<a href="https://ja.wikipedia.org/wiki/三遊亭志う歌" title="wikilink">三遊亭歌太郎</a></p></td>
+<a href="../Page/三遊亭志う歌.md" title="wikilink">三遊亭歌太郎</a></p></td>
 <td><p>104（58・46）</p></td>
 </tr>
 <tr class="even">
@@ -315,7 +315,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三遊亭志う歌" title="wikilink">三遊亭歌太郎</a>「磯の鮑」[13]</p></td>
+<td><p><a href="../Page/三遊亭志う歌.md" title="wikilink">三遊亭歌太郎</a>「磯の鮑」[13]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/立川こはる" title="wikilink">立川こはる</a><br />
 桂三度<br />
 <a href="https://ja.wikipedia.org/wiki/古今亭志ん吉" title="wikilink">古今亭志ん吉</a><br />

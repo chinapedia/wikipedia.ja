@@ -63,4 +63,4 @@
 
 [「ICT国際競争力懇談会」の開催（総務省報道資料）](http://www.soumu.go.jp/s-news/2006/061006_5.html)
 
-[Category:総務省](https://ja.wikipedia.org/wiki/Category:総務省 "wikilink") [Category:懇談会等行政運営上の会合](https://ja.wikipedia.org/wiki/Category:懇談会等行政運営上の会合 "wikilink") [Category:2006年設立の組織](https://ja.wikipedia.org/wiki/Category:2006年設立の組織 "wikilink")
+[Category:総務省](https://ja.wikipedia.org/wiki/Category:総務省 "wikilink") [Category:懇談会等行政運営上の会合](https://ja.wikipedia.org/wiki/Category:懇談会等行政運営上の会合 "wikilink") [Category:2006年設立の政府機関](https://ja.wikipedia.org/wiki/Category:2006年設立の政府機関 "wikilink")

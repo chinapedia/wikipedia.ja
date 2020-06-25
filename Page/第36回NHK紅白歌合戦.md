@@ -117,8 +117,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1985年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のテレビ番組_\(日本\) "wikilink") [Category:1985年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1985年のラジオ番組_\(日本\) "wikilink") [Category:1985年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1985年の日本の音楽 "wikilink") [Category:1985年12月](https://ja.wikipedia.org/wiki/Category:1985年12月 "wikilink")
 

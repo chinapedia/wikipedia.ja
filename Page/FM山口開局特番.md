@@ -115,7 +115,7 @@
 
 そのとっかかりとして2015年4月から11月は『[さんまるっ\! -FMY HAPPY 30 YEARS-](https://ja.wikipedia.org/wiki/さんまるっ! "wikilink")』を放送。
 
-この特番を挟んで、12月1日は『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』をFMYの第1スタジオから生放送。また大型ワイド番組の大改編を行う。
+この特番を挟んで、12月1日は『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』をFMYの第1スタジオから生放送。また大型ワイド番組の大改編を行う。
 
 ### FMY Happy 30 Years 届いてる\!FMY 〜30年分の感謝を込めて〜
 

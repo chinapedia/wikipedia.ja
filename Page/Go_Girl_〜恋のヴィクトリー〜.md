@@ -1,7 +1,7 @@
 > この記事は[Go Girl 〜恋のヴィクトリー〜](https://ja.wikipedia.org/wiki/Go_Girl_〜恋のヴィクトリー〜)から翻訳されています。
 
 
-「**Go Girl 〜恋のヴィクトリー〜**」（ゴー ガール こいのヴィクトリー）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Go Girl 〜恋のヴィクトリー〜**」（ゴー ガール こいのヴィクトリー）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の20枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

@@ -1,15 +1,15 @@
 > この記事は[FIA GT選手権](https://ja.wikipedia.org/wiki/FIA_GT選手権)から翻訳されています。
 
 
-**FIA GT選手権**（エフアイエー ジーティーせんしゅけん、FIA GT Championship）は、[国際自動車連盟](../Page/国際自動車連盟.md "wikilink")（FIA）が管轄する、GTカーによるレースの名称。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から2009年まで開催されていた。
+**FIA GT選手権**（FIA・GTせんしゅけん、またはFIAグランドツーリングせんしゅけん、FIA GT Championship）は、1997年から2009年まで[国際自動車連盟](../Page/国際自動車連盟.md "wikilink")（FIA）が主催していたグランドツーリングカーレースの年間シリーズ戦である。
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:C5R_and_Maserati.JPG "wikilink") 1996年一杯で[国際ツーリングカー選手権](../Page/国際ツーリングカー選手権.md "wikilink")（ITC）が終了することにより、FIAはそれまでBPRという団体が主催して1994年に発足した「BPR GTグローバルシリーズ」（[鈴鹿1000km](../Page/鈴鹿1000km.md "wikilink")もシリーズの1戦に加わっていた）という国際耐久シリーズをFIA直轄とし、1997年より「FIA GT選手権」としてスタートさせた。FIA直轄としては、1992年の[スポーツカー世界選手権](../Page/スポーツカー世界選手権.md "wikilink")（SWC）終了以来、5年ぶりの耐久レースの復活である。ITC終了で戦いの場をなくしていた[AMG](../Page/メルセデスAMG.md "wikilink")・[メルセデスは](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")、急遽[GT1マシンを製作しこのシリーズに](https://ja.wikipedia.org/wiki/グループGT1_\(90年代\) "wikilink")[ワークス参戦した](../Page/ワークス・チーム.md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:C5R_and_Maserati.JPG "wikilink") FIAは1996年を以て[国際ツーリングカー選手権](../Page/国際ツーリングカー選手権.md "wikilink") (ITC) が終了したことに伴い、認定シリーズであった[BPRエンデュランスGT](https://ja.wikipedia.org/wiki/BPRエンデュランスGT "wikilink")を、翌1997年から主催シリーズに格上げし、**FIAグランドツーリング選手権** (*FIA Grang Touring Championship*, **GTC**) として開始した。FIA主催としては、1992年を以て終了した[スポーツカー世界選手権](../Page/スポーツカー世界選手権.md "wikilink")以来、5年ぶりとなる[スポーツカーと](https://ja.wikipedia.org/wiki/スポーツカー_\(モータースポーツ\) "wikilink")[GTカーによる耐久レースシリーズの復活である](https://ja.wikipedia.org/wiki/グランツーリスモ#モータースポーツ "wikilink")。ITC終了で戦いの場をなくしていた[AMG](../Page/メルセデスAMG.md "wikilink")・[メルセデスは](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")、急遽[GT1マシンを製作しこのシリーズに](https://ja.wikipedia.org/wiki/グループGT1_\(90年代\) "wikilink")[ワークス参戦した](../Page/ワークス・チーム.md "wikilink")。
 
-初年度はメルセデスのほか、[ポルシェ](../Page/ポルシェ.md "wikilink")、[BMW](../Page/BMW.md "wikilink")（[マクラーレン](../Page/マクラーレン.md "wikilink")）、[パノス](../Page/パノス.md "wikilink")、[ロータスがワークス参戦した](../Page/ロータス・カーズ.md "wikilink")。ワークスが主流のGT1クラスにはセミプロトタイプとも言える[メルセデスベンツ・CLK GTR](https://ja.wikipedia.org/wiki/メルセデスベンツ・CLK_GTR "wikilink")、[ポルシェ・911 GT1](../Page/ポルシェ・911_GT1.md "wikilink")、[マクラーレン・F1 LMが参戦した](../Page/マクラーレン・F1.md "wikilink")-GTR。そのほかにもプライベーター仕様のマクラーレン・F1 GTRやパノス・エスペランテ GTR、[ロータス・エリーゼ GT1も参戦し](../Page/ロータス・エリーゼ.md "wikilink")、[GT2クラスでは](https://ja.wikipedia.org/wiki/グループGT1 "wikilink")[クライスラー](../Page/クライスラー.md "wikilink")・[バイパー GTS-Rと](../Page/ダッジ・バイパー.md "wikilink")[ポルシェ・911 GT2の白熱したバトルが展開したほか](../Page/ポルシェ・911.md "wikilink")、[マーコス](../Page/マーコス.md "wikilink")、[モーガン](../Page/モーガン_\(自動車\).md "wikilink")、[サリーン](../Page/サリーン.md "wikilink")も参戦し、開催国も欧州以外に日本、アメリカを含む事実上の[世界選手権](https://ja.wikipedia.org/wiki/世界選手権 "wikilink")と呼べるシリーズとなった。
+初年度はメルセデスのほか、[ポルシェ](../Page/ポルシェ.md "wikilink")、[BMW](../Page/BMW.md "wikilink")（[マクラーレン](../Page/マクラーレン.md "wikilink")）、[パノス](../Page/パノス.md "wikilink")、[ロータスがワークス参戦した](../Page/ロータス・カーズ.md "wikilink")。ワークスが主流のGT1クラス (またはカテゴリー) は国際スポーツ法典付則J項のグループGT1 ([グランドツーリング・スポーツカー](https://ja.wikipedia.org/wiki/スポーツカー_\(モータースポーツ\) "wikilink")) の[メルセデスベンツ・CLK GTR](https://ja.wikipedia.org/wiki/メルセデスベンツ・CLK_GTR "wikilink")、[ポルシェ・911 GT1](../Page/ポルシェ・911_GT1.md "wikilink")、[マクラーレン・F1 LMが参戦した](../Page/マクラーレン・F1.md "wikilink")-GTR。そのほかにもプライベーター仕様のマクラーレン・F1 GTRやパノス・エスペランテ GTR、[ロータス・エリーゼ GT1も参戦し](../Page/ロータス・エリーゼ.md "wikilink")、[GT2クラスでは](https://ja.wikipedia.org/wiki/グループGT1 "wikilink")[クライスラー](../Page/クライスラー.md "wikilink")・[バイパー GTS-Rと](../Page/ダッジ・バイパー.md "wikilink")[ポルシェ・911 GT2の白熱したバトルが展開したほか](../Page/ポルシェ・911.md "wikilink")、[マーコス](../Page/マーコス.md "wikilink")、[モーガン](../Page/モーガン_\(自動車\).md "wikilink")、[サリーン](../Page/サリーン.md "wikilink")も参戦し、開催国も欧州以外に日本、アメリカを含む事実上の[世界選手権](https://ja.wikipedia.org/wiki/世界選手権 "wikilink")\[1\]と呼べるシリーズとなった。
 
-初年度はGT1、GT2マシンを含め常時35～52台のマシンが参戦していたが、翌1998年には、各メーカーの相次ぐ撤退により、1999年にはGT1クラスが廃止され[GT2（GTと改称）主流のレースとなり](https://ja.wikipedia.org/wiki/グループGT1 "wikilink")（クライスラー・バイパーGTS-R、リスター・ストーム、[フェラーリ・550マラネロ](https://ja.wikipedia.org/wiki/フェラーリ・550マラネロ "wikilink")など）、翌2000年からはアジア・北米ラウンドがなくなり欧州ラウンドのみとなった。またこの年から[フェラーリ・360モデナ](../Page/フェラーリ・360モデナ.md "wikilink")やポルシェ・911 GT3などが参戦する下位カテゴリー、[N-GTクラスが新設されている](https://ja.wikipedia.org/wiki/グループGT2 "wikilink")。
+初年度はGT1、GT2マシンを含め常時35～52台のマシンが参戦していたが、翌1998年には、各メーカーの相次ぐ撤退により、1999年には付則J項からグループGT1が事実上廃止\[2\]されたことに伴い、最上位クラスはそれまでのGT2を引き継いだ[GTとなり](https://ja.wikipedia.org/wiki/グループGT1 "wikilink")（クライスラー・バイパーGTS-R、リスター・ストーム、[フェラーリ・550マラネロ](https://ja.wikipedia.org/wiki/フェラーリ・550マラネロ "wikilink")など）となった。またシリーズ名称はグランドツーリングを略称のGTに置き換えた**FIA GT選手権**を正式に定めた。翌2000年からはアジア・北米ラウンドがなくなり欧州ラウンドのみとなった。またこの年から[フェラーリ・360モデナ](../Page/フェラーリ・360モデナ.md "wikilink")やポルシェ・911 GT3などが参戦する下位クラスに[N-GTクラスが新設されている](https://ja.wikipedia.org/wiki/グループGT2 "wikilink")。
 
 2009年は、GT1（旧GT）クラスでは[マセラティ・MC12](../Page/マセラティ・MC12.md "wikilink")、[アストンマーティン・DBR9](../Page/アストンマーティン・DB9.md "wikilink")、[シボレー・コルベット](../Page/シボレー・コルベット.md "wikilink")C5・C6R、[ランボルギーニ・ムルシエラゴ R-GT](../Page/ランボルギーニ・ムルシエラゴ.md "wikilink")、[フォード・GT](../Page/フォード・GT.md "wikilink")、GT2（旧N-GT）クラスではポルシェ・911 GT3-RSR（996型、997型）[フェラーリ・F430](../Page/フェラーリ・F430.md "wikilink")、G2クラスでは、[ギレ](https://ja.wikipedia.org/wiki/ギレ "wikilink")・[ベルティゴ](https://ja.wikipedia.org/wiki/ベルティゴ "wikilink")といったマシンが活躍している。伝統の[スパ・フランコルシャン24時間レース](../Page/スパ・フランコルシャン24時間レース.md "wikilink")もシリーズの1戦に加わっているが、年々参戦台数が少なくなっている。そのような中で[ニッサン・モータースポーツ・インターナショナル](../Page/ニッサン・モータースポーツ・インターナショナル.md "wikilink")（NISMO）は、2009年にGT1クラスへ[日産・GT-R](../Page/日産・GT-R.md "wikilink")での参戦を発表し、実戦での車両開発する目的で同年に賞典外ながらスポット参戦した。
 
@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2004年のFIA_GT選手権" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファブリツィオ・ゴーリン" title="wikilink">ファブリツィオ・ゴーリン</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ファブリツィオ・ゴリン" title="wikilink">ファブリツィオ・ゴーリン</a><br />
  <a href="https://ja.wikipedia.org/wiki/ルカ・カッペラーリ" title="wikilink">ルカ・カッペラーリ</a></p></td>
 </tr>
 <tr class="even">
@@ -135,3 +135,6 @@
   - [FIA GT1世界選手権 公式サイト](http://gt1world.com/)
 
 [Category:国際自動車連盟](https://ja.wikipedia.org/wiki/Category:国際自動車連盟 "wikilink") [Category:自動車レース](https://ja.wikipedia.org/wiki/Category:自動車レース "wikilink") [Category:現存しない自動車レース](https://ja.wikipedia.org/wiki/Category:現存しない自動車レース "wikilink")
+
+1.  シリーズを構成する各大会の各クラスに常時4製造者以上の参加が見込める場合に、「世界」を名乗れる。
+2.  同年の付則J項にグループとしてのGT (GT1とGT2) は残置されるも技術規定は示されず、別途ブルテンで開示するとされた。翌2000年の付則J項では、それまでのGT2技術規定を引き継いだグループGTが明記されたことにより、旧GT1は正式に廃止となった。

@@ -51,7 +51,7 @@
 
 ## 関連項目
 
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [AABステーションEYE](../Page/AABステーションEYE.md "wikilink") - 前番組『[チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")』の前身番組。
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 

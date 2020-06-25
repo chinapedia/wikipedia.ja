@@ -9,7 +9,7 @@
 
 ## 仕様
 
-丸型[ヘッドランプ](../Page/前照灯.md "wikilink")、[オーバル](../Page/オーバル.md "wikilink")[グリルと統一](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")[CI](../Page/コーポレートアイデンティティ.md "wikilink")（[三つの楕円](http://www.toyota.co.jp/jpn/auto/emblem/passion/)）ではないTOYOTAの[ロゴ](../Page/ロゴタイプ.md "wikilink")、白色の屋根などに見られるように、[FJ40型ランドクルーザーを彷彿とさせる外観が特徴である](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#40系（1960年-1984年） "wikilink")。
+丸型[ヘッドランプ](../Page/前照灯.md "wikilink")、[オーバル](../Page/オーバル.md "wikilink")[グリルと統一](../Page/フロントグリル.md "wikilink")[CI](../Page/コーポレートアイデンティティ.md "wikilink")（[三つの楕円](http://www.toyota.co.jp/jpn/auto/emblem/passion/)）ではないTOYOTAの[ロゴ](../Page/ロゴタイプ.md "wikilink")、白色の屋根などに見られるように、[FJ40型ランドクルーザーを彷彿とさせる外観が特徴である](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#40系（1960年-1984年） "wikilink")。
 
 当初の企画目的は、日野・羽村工場の[ハイラックスサーフの](../Page/トヨタ・ハイラックスサーフ.md "wikilink")[組立ラインを使い](../Page/ライン生産方式.md "wikilink")、収益性の高い新型車を開発することであった。[2000年](../Page/2000年.md "wikilink")に[ロッド・ミレン](https://ja.wikipedia.org/wiki/ロッド・ミレン "wikilink")が製作した[100系のシャシ](https://ja.wikipedia.org/wiki/トヨタ・ランドクルーザー#100系（1998年_-_2007年） "wikilink")、パワートレインに、FJ45V（初代4ドア）のボディを拡幅して載せた、ランドクルーザー同士を組み合わせた「レトロクルーザー」が話題となり、デザインコンセプトが決定した\[4\]。
 

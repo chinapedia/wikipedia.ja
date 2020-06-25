@@ -85,7 +85,7 @@
 | 7                                                    | [長保有紀](../Page/長保有紀.md "wikilink")(初)                                      | 惚（ほ）の字傘                                                                     | 8  | [山本譲二](../Page/山本譲二.md "wikilink")(7）                                   | 関門海峡                                                                                         |    |   |
 | 9                                                    | [伍代夏子](../Page/伍代夏子.md "wikilink")(5)                                      | ひとり酒                                                                        | 10 | [堀内孝雄](../Page/堀内孝雄.md "wikilink")(7)                                   | 夢の道草                                                                                         |    |   |
 | ショーコーナー・Mickey Mouse Our Shining Star〜輝くスターミッキー・マウス〜 |                                                                            |                                                                             |    |                                                                         |                                                                                              |    |   |
-| 11                                                   | [森口博子](../Page/森口博子.md "wikilink")(4)                                      | Let's Go                                                                    | 12 | [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")(4)                | [がんばりましょう](../Page/がんばりましょう.md "wikilink")                                                   |    |   |
+| 11                                                   | [森口博子](../Page/森口博子.md "wikilink")(4)                                      | Let's Go                                                                    | 12 | [SMAP](../Page/SMAP.md "wikilink")(4)                                   | [がんばりましょう](../Page/がんばりましょう.md "wikilink")                                                   |    |   |
 | 13                                                   | [田川寿美](../Page/田川寿美.md "wikilink")(初)                                      | [女…ひとり旅](https://ja.wikipedia.org/wiki/女…ひとり旅 "wikilink")                   | 14 | [香田晋](../Page/香田晋.md "wikilink")(初)                                     | 夢いちど                                                                                         |    |   |
 | 15                                                   | [中山美穂](../Page/中山美穂.md "wikilink")(7)                                      | [ただ泣きたくなるの](../Page/ただ泣きたくなるの.md "wikilink")                                | 16 | [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")(2)                                 | [DAYS](https://ja.wikipedia.org/wiki/DAYS_\(藤井フミヤの曲\) "wikilink")                            |    |   |
 | 17                                                   | [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")(5)              | [すき](https://ja.wikipedia.org/wiki/すき/きづいてよ "wikilink")〜紅白バージョン〜\[29\]      | 18 | [米米CLUB](../Page/米米CLUB.md "wikilink")(2）                               | [手紙](../Page/手紙_\(米米CLUBの曲\).md "wikilink")〜紅白バージョン〜\[30\]                                   |    |   |
@@ -121,7 +121,7 @@
 
 今回から[第48回](../Page/第48回NHK紅白歌合戦.md "wikilink")（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）まで[NHK新人歌謡コンテスト](https://ja.wikipedia.org/wiki/NHK新人歌謡コンテスト "wikilink")の優勝者に紅白の出場権が与えられた\[34\]。今回は[田川寿美](../Page/田川寿美.md "wikilink")がそれによって出場を掴んだ\[35\]
 
-今回から[第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）まで[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属グループからの出場歌手は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")と[TOKIO](../Page/TOKIO.md "wikilink")（今回初出場）の2組のみとなった\[36\]。
+今回から[第59回](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）まで[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属グループからの出場歌手は[SMAP](../Page/SMAP.md "wikilink")と[TOKIO](../Page/TOKIO.md "wikilink")（今回初出場）の2組のみとなった\[36\]。
 
 [松任谷由実](../Page/松任谷由実.md "wikilink")（この年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")』の主題歌「[春よ、来い](../Page/春よ、来い_\(松任谷由実の曲\).md "wikilink")」を担当）・[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")・**[CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")**・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")・[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")・[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")らが出場を辞退した\[37\]。
 
@@ -182,8 +182,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:1994年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のラジオ番組_\(日本\) "wikilink") [Category:1994年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1994年の日本の音楽 "wikilink") [Category:1994年12月](https://ja.wikipedia.org/wiki/Category:1994年12月 "wikilink")
 

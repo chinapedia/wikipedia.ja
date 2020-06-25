@@ -1,7 +1,7 @@
 > この記事は[ドライビングパートナー・STVホットライン](https://ja.wikipedia.org/wiki/ドライビングパートナー・STVホットライン)から翻訳されています。
 
 
-**ドライビングパートナー・STVホットライン**（Driving Partner STV Hotline）は、1986年10月-2006年3月31日まで[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")で放送されていた、生放送の[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")ローカル）。
+**ドライビングパートナー・STVホットライン**（Driving Partner STV Hotline）は、1986年10月-2006年3月31日まで[STVラジオ](../Page/STVラジオ.md "wikilink")で放送されていた、生放送の[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")ローカル）。
 
 ## 番組終了時の放送時間
 

@@ -35,6 +35,6 @@ S-FIELDの "S" は、"Sports"（スポーツ） "Survival"（生き残る） "Se
 
 ## 外部リンク
 
-  - [S-FIELD](http://www.fujitv.co.jp/b_hp/sfield/) - フジテレビ
+  - [S-FIELD](https://www.fujitv.co.jp/b_hp/sfield/) - フジテレビ
 
 [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのスポーツ番組 "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:イースト](https://ja.wikipedia.org/wiki/Category:イースト "wikilink")

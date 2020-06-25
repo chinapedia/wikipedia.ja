@@ -178,7 +178,7 @@ th.navbox-group { /\* Group style \*/
 `   content: " · ";`
 `   font-weight: bold;`
 
-} /\* 日本語版の独自仕様。-pipe、-hyphen、-slash \*/ .hlist-pipe dd:after, .hlist-pipe li:after {
+} /\* 日本語版の独自仕様。-pipe、-hyphen、-comma、-slash \*/ .hlist-pipe dd:after, .hlist-pipe li:after {
 
 `   content: " | ";`
 `   font-weight: normal;`

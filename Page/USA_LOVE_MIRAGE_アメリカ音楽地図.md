@@ -10,7 +10,7 @@
 ## 番組ネット局
 
   - FM東京（キー局）
-  - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（現・[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）→[FM北海道](../Page/エフエム北海道.md "wikilink")（現・AIR-G）
+  - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（現・[STVラジオ](../Page/STVラジオ.md "wikilink")）→[FM北海道](../Page/エフエム北海道.md "wikilink")（現・AIR-G）
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")
   - [FM仙台](../Page/エフエム仙台.md "wikilink")（現・DateFM）
   - [FM秋田](../Page/エフエム秋田.md "wikilink")

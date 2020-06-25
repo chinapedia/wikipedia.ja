@@ -116,6 +116,8 @@ INU時代の音盤はアルバム『[メシ喰うな\!](../Page/メシ喰うな!
 
   -
   -
+  - [「汝、我が民に非ズ」YouTube登録チャンネル](https://www.youtube.com/channel/UCnMC2utiCMi1m8LXAWY4aUA)
+
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:1979年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1979年に結成した音楽グループ "wikilink") [Category:1981年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1981年に解散した音楽グループ "wikilink") [Category:徳間ジャパンコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:徳間ジャパンコミュニケーションズのアーティスト "wikilink")
 
 1.  [先鋭疾風社](https://ja.wikipedia.org/wiki/小西昌幸 "wikilink")『ハードスタッフ』12号「ロングインタヴュー 林直人、かく語りき」

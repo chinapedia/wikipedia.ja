@@ -15,7 +15,7 @@
 
 [2012年](../Page/2012年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から、日曜日9:55 - 11:25にて『[マハトマパンチ](https://ja.wikipedia.org/wiki/マハトマパンチ "wikilink")』が放送開始されるのに伴い、日曜日7:30 - 8:00に移動し放送を継続したが、当番組の後に放送されているキー局[日本テレビ制作の生ワイド番組](../Page/日本テレビ放送網.md "wikilink")『[シューイチ](https://ja.wikipedia.org/wiki/シューイチ "wikilink")』が30分繰り上げ拡大することにより、[2013年](../Page/2013年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")をもって7年半の長い歴史にピリオドを打った。当番組の終了後、STV日曜午前の30分番組路線は同年[4月7日](../Page/4月7日.md "wikilink")から10:55 - 11:25に再移動し、『[たびばん](https://ja.wikipedia.org/wiki/たびばん "wikilink")』がスタートしている。
 
-[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")『[スーパーヒットチャートなまらん](../Page/スーパーヒットチャートなまらん.md "wikilink")』では、「BeAmbitious\!\!」という音楽コーナーが放送されていたが、当番組との直接の関連性はない。
+[STVラジオ](../Page/STVラジオ.md "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")『[スーパーヒットチャートなまらん](../Page/スーパーヒットチャートなまらん.md "wikilink")』では、「BeAmbitious\!\!」という音楽コーナーが放送されていたが、当番組との直接の関連性はない。
 
 ## 司会・ナレーション
 

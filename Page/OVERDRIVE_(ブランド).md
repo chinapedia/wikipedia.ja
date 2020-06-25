@@ -7,9 +7,11 @@
 
 設立は[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、代表は[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")リーダーの「[bamboo](https://ja.wikipedia.org/wiki/bamboo_\(実業家\) "wikilink")」。現在、[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[雷門に拠点を置いている](../Page/雷門_\(台東区\).md "wikilink")。[童貞](../Page/童貞.md "wikilink")を雇用しないという（冗談を理解出来ない人間を雇用しないという意味合い）他ブランドと異なる大きな特徴があったが、現在は備考欄からは消されている。2008年8月より2010年4月まで公式モバイルサイト「OVERDRIVE MOBILE」が展開されていた\[1\]。
 
-[2018年](../Page/2018年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、12年におよぶ活動の締めくくりとして最終作[MUSICA\!](https://ja.wikipedia.org/wiki/MUSICA! "wikilink")の制作を発表。シナリオは[瀬戸口廉也](../Page/瀬戸口廉也.md "wikilink")、原画・キャラクターデザインは[すめらぎ琥珀](../Page/すめらぎ琥珀.md "wikilink")が参加。[CAMPFIRE](https://ja.wikipedia.org/wiki/CAMPFIRE "wikilink")にて同年[7月30日](../Page/7月30日.md "wikilink")に開発プロジェクトのクラウドファンディング(CF)を開始したところ、日本記録級の異例の速さで目標調達金額に到達\[2\]。2018年10月18日の最終集計で1億3230万2525円の支援金額となり、日本国内クラウドファンディング史上最高調達額を達成した\[3\]\[4\]。
+[2018年](../Page/2018年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、12年におよぶ活動の締めくくりとして最終作[MUSICA\!](https://ja.wikipedia.org/wiki/MUSICA! "wikilink")の制作を発表。シナリオは[瀬戸口廉也](../Page/瀬戸口廉也.md "wikilink")、原画・キャラクターデザインは[すめらぎ琥珀](../Page/すめらぎ琥珀.md "wikilink")が参加。[CAMPFIREにて同年](https://ja.wikipedia.org/wiki/CAMPFIRE_\(クラウドファンディング\) "wikilink")[7月30日](../Page/7月30日.md "wikilink")に開発プロジェクトのクラウドファンディング(CF)を開始したところ、日本記録級の異例の速さで目標調達金額に到達\[2\]。2018年10月18日の最終集計で1億3230万2525円の支援金額となり、日本国内クラウドファンディング史上最高調達額を達成した\[3\]\[4\]。
 
 ブランド終了の理由として代表のbambooは、「体力的・精神的な問題」や「若いクリエイターのセンスに敵わなくなったと感じたこと」、「自身の持つ様々な肩書きを整理し、ゆくゆくは音楽一つにシフトしていきたい気持ちもある」というものを挙げている。また、今回はOVERDRIVEブランドを終了するだけであって、母体の会社であるキッチンガイズファクトリー自体を畳むつもりはないとも語った\[5\]。
+
+クラウドゲーミングプラットフォーム「OOParts」に『キラ☆キラ』『超電激ストライカー』をアルファ版として提供しており\[6\]、2020年4月24日に正式配信された。 2020年5月29日にはOVERDRIVEの全作品が配信された。\[7\]
 
 ## 作品一覧
 
@@ -51,3 +53,5 @@
 3.
 4.
 5.
+6.
+7.

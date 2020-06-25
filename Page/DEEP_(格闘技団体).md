@@ -100,7 +100,7 @@
 <tr class="even">
 <td><p><a href="../Page/フライ級.md" title="wikilink">フライ級</a></p></td>
 <td><p>56.7kg以下</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神龍誠" title="wikilink">神龍誠</a></p></td>
+<td><p><a href="../Page/神龍誠.md" title="wikilink">神龍誠</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ストロー級" title="wikilink">ストロー級</a></p></td>

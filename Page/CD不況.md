@@ -57,7 +57,7 @@ CD不況の原因や背景として、以下のようなことがらが挙げら
       - 3月 - [エイベックスが](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で初めて[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")を導入する。
   - 2003年
       - 4月 - [米アップルが](../Page/アップル_\(企業\).md "wikilink")[iTunes Storeを](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")などで開始。日本では2005年よりサービス開始。
-      - この年は国民的アイドルグループ[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」が257万枚を売り上げ、[21世紀](../Page/21世紀.md "wikilink")初のダブルミリオンセラーとなった。
+      - この年は国民的アイドルグループ[SMAP](../Page/SMAP.md "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」が257万枚を売り上げ、[21世紀](../Page/21世紀.md "wikilink")初のダブルミリオンセラーとなった。
   - 2004年
       - 11月 - [KDDI](../Page/KDDI.md "wikilink")が携帯電話向けの音楽配信サービスである[着うたフル](../Page/着うたフル.md "wikilink")を開始する（曲の一部を配信する[着うた](../Page/着うた.md "wikilink")は2002年12月に先行開始したものの、スマートフォン向けの音楽配信サービスが台頭後は急速に低迷し結果的に[2016年](../Page/2016年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")を以ってサービス終了）。
       - [ソニー・ミュージックエンタテインメントの米国法人と](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")[BMG](../Page/BMG.md "wikilink")が合併。世界最大級の音楽ソフト企業同士の合併であった。

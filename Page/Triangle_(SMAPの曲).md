@@ -1,7 +1,7 @@
 > この記事は[Triangle \(SMAPの曲\)](https://ja.wikipedia.org/wiki/Triangle_\(SMAPの曲\))から翻訳されています。
 
 
-「**Triangle**」（トライアングル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の38枚目の[シングル](../Page/シングル.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")（平成17年）[11月23日](../Page/11月23日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**Triangle**」（トライアングル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](../Page/SMAP.md "wikilink")の38枚目の[シングル](../Page/シングル.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 

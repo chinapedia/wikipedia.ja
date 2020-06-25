@@ -1,9 +1,7 @@
 > この記事は[NOBODY \(ロックバンド\)](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\))から翻訳されています。
 
 
-**NOBODY**（ノーバディ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")・[作詞家](../Page/作詞家.md "wikilink")ユニット。
-
-[矢沢永吉](../Page/矢沢永吉.md "wikilink")のバックメンバーを担当していた**相沢 行夫**と**木原 敏雄**の2名で構成されている\[1\] 。
+**NOBODY**（ノーバディ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")・[作詞家](../Page/作詞家.md "wikilink")ユニット。[矢沢永吉](../Page/矢沢永吉.md "wikilink")のバックメンバーを担当していた**相沢 行夫**と**木原 敏雄**の2名で構成されている\[1\]。
 
 ## メンバー
 
@@ -30,13 +28,13 @@
 
 ## 経歴
 
-1975年、相沢・木原がともに[矢沢永吉](../Page/矢沢永吉.md "wikilink")のバックメンバーとなる\[11\]。[1976年](../Page/1976年.md "wikilink")より、矢沢のコンサートツアー及びレコーディングにバンドとして参加し「矢沢ファミリー」と呼ばれる固定メンバーとして活動。[1981年](../Page/1981年.md "wikilink")、矢沢が渡米し拠点をアメリカにおいた事により矢沢ファミリーは解散。同年10月に**NOBODY**を結成する。
+1975年、相沢・木原がともに[矢沢永吉](../Page/矢沢永吉.md "wikilink")のバックメンバーとなる\[11\]。[1976年](../Page/1976年.md "wikilink")より、矢沢のコンサートツアーおよびレコーディングにバンドとして参加し「矢沢ファミリー」と呼ばれる固定メンバーとして活動。[1981年](../Page/1981年.md "wikilink")、矢沢が渡米し拠点をアメリカにおいたことにより矢沢ファミリーは解散。同年10月に**NOBODY**を結成する。
 
 1981年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")「[浮気な、パレット・キャット](https://ja.wikipedia.org/wiki/浮気な、パレット・キャット "wikilink")」でユニットとして初の楽曲提供\[12\]、後にセルフカバーしている。
 
 [1982年](../Page/1982年.md "wikilink")[6月](../Page/6月.md "wikilink")、1stアルバム『NOBODY』とシングル『MY ROAD SHOW』を同時リリース\[13\]。1983年公開の映画『[里見八犬伝](../Page/里見八犬伝_\(1983年の映画\).md "wikilink")』では音楽を担当し、その後も様々なアーティストへの楽曲提供、サウンドプロデュースを行う。
 
-矢沢との盟友関係はその後も続き、[1996年](../Page/1996年.md "wikilink")12月13日の日本武道館公演 （WILD HEART TOUR）のほか、[1999年](../Page/1999年.md "wikilink")9月15日の[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")（TONIGHT THE NIGHT\!）で[サディスティックス](../Page/サディスティックス.md "wikilink")のメンバーらとコンサートにゲスト出演。[2002年](../Page/2002年.md "wikilink")8月に[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")で行われたアコースティック・ライヴには、相沢がギターで参加。[2006年](../Page/2006年.md "wikilink")8月には矢沢・相沢・木原の3人によるアコースティック・スペシャル・ライヴを、矢沢のファンクラブから抽選で招待した会員約70名の前で行い、インターネットで生配信された。[2007年](../Page/2007年.md "wikilink")12月19日には、矢沢の日本武道館公演（102回目）のアンコールにゲスト出演し、二人も参加した矢沢初の日本武道館公演（1977年[8月26日](../Page/8月26日.md "wikilink")）の1曲目「カモン・ベイビー」を演奏した。
+矢沢との盟友関係はその後も続き、[1996年](../Page/1996年.md "wikilink")12月13日の日本武道館公演 (WILD HEART TOUR) のほか、[1999年](../Page/1999年.md "wikilink")9月15日の[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink") (TONIGHT THE NIGHT\!) で[サディスティックス](../Page/サディスティックス.md "wikilink")のメンバーらとコンサートにゲスト出演。[2002年](../Page/2002年.md "wikilink")8月に[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")で行われたアコースティック・ライヴには、相沢がギターで参加。[2006年](../Page/2006年.md "wikilink")8月には矢沢・相沢・木原の3人によるアコースティック・スペシャル・ライヴを、矢沢のファンクラブから抽選で招待した会員約70名の前で行い、インターネットで生配信された。[2007年](../Page/2007年.md "wikilink")12月19日には、矢沢の日本武道館公演（102回目）のアンコールにゲスト出演し、二人も参加した矢沢初の日本武道館公演（1977年[8月26日](../Page/8月26日.md "wikilink")）の1曲目「カモン・ベイビー」を演奏した。
 
 ## ディスコグラフィ
 
@@ -45,7 +43,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>c/w</p></th>
@@ -232,12 +230,12 @@
 <table>
 <thead>
 <tr class="header">
-<th><p> </p></th>
+<th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
-<th><p> </p></th>
+<th></th>
 </tr>
 </thead>
 <tbody>
@@ -509,18 +507,18 @@
 <td><p>30周年記念CD-BOX、WEB限定発売（販売は終了）</p></td>
 </tr>
 <tr class="odd">
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
 <p>詳細</p>
 </div>
-<div class="NavContent" style="text-align:left;">
+<div class="NavContent" style="text-align:left">
 <ul>
-<li>｢NOBODY｣　(DISK 1)</li>
-<li>｢POP GEAR｣　(DISK 2)</li>
-<li>｢NIGHT WALKER｣　(DISK 3)</li>
-<li>｢FROM A WINDOW｣　(DISK 4)</li>
-<li>｢THE MERSEY BEAT MEDLEY｣　(DISK 5)</li>
-<li>｢NOBODY's Demo Tracks｣　(DISK 6,7)　未発表デモ・トラック集</li>
+<li>「NOBODY」(DISK 1)</li>
+<li>「POP GEAR」(DISK 2)</li>
+<li>「NIGHT WALKER」(DISK 3)</li>
+<li>「FROM A WINDOW」(DISK 4)</li>
+<li>「THE MERSEY BEAT MEDLEY」(DISK 5)</li>
+<li>「NOBODY's Demo Tracks」(DISK 6,7) 未発表デモ・トラック集</li>
 </ul>
 </div>
 </div></td>
@@ -534,17 +532,17 @@
 
 #### タイアップ
 
-| 楽曲                                                                         | タイアップ                                                                                         |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **MY ROAD SHOW**                                                           | [東洋Zラジアル](https://ja.wikipedia.org/wiki/東洋ゴム工業 "wikilink")717 イメージソング                         |
-| **FOR ONLY YOU**                                                           | [クラリオン](../Page/クラリオン.md "wikilink")「シティコネクション」CMソング                                          |
-| **PURE GIRL I & II**                                                       | [花王](../Page/花王.md "wikilink")「ピュアシャンプー」 CMソング                                                |
-| **ディア・マイ・ハート 〜君のためにラヴ・ソング〜**                                               | [サンキスト](https://ja.wikipedia.org/wiki/サンキスト_\(飲料\) "wikilink") CMソング                          |
-| [UCC COFFEE](../Page/UCC上島珈琲.md "wikilink")「ANOTHER DAY (彼女とアナザー・デイ)」CMソング |                                                                                               |
-| **EVERYBODY SHOUT**                                                        | [東宝映画](../Page/東宝映画.md "wikilink")「[19 ナインティーン](../Page/19_ナインティーン.md "wikilink")」挿入歌         |
-| **RESTLESS HEART**                                                         | [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「アルパス」CMソング                                |
-| **DREAM 〜夢の中で**                                                            | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[WIN](../Page/WIN_\(テレビ番組\).md "wikilink")」エンディングテーマ |
-| **YOU GOT TO WIN**                                                         | 日本テレビ系「WIN」オープニングテーマ                                                                          |
+| 楽曲                                                                        | タイアップ                                                                                         |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **MY ROAD SHOW**                                                          | [東洋Zラジアル](https://ja.wikipedia.org/wiki/東洋ゴム工業 "wikilink")717 イメージソング                         |
+| **FOR ONLY YOU**                                                          | [クラリオン](../Page/クラリオン.md "wikilink")「シティコネクション」CMソング                                          |
+| **PURE GIRL I & II**                                                      | [花王](../Page/花王.md "wikilink")「ピュアシャンプー」 CMソング                                                |
+| **ディア・マイ・ハート 〜君のためにラヴ・ソング〜**                                              | [サンキスト](https://ja.wikipedia.org/wiki/サンキスト_\(飲料\) "wikilink") CMソング                          |
+| [UCC COFFEE](../Page/UCC上島珈琲.md "wikilink")「ANOTHER DAY（彼女とアナザー・デイ）」CMソング |                                                                                               |
+| **EVERYBODY SHOUT**                                                       | [東宝映画](../Page/東宝映画.md "wikilink")「[19 ナインティーン](../Page/19_ナインティーン.md "wikilink")」挿入歌         |
+| **RESTLESS HEART**                                                        | [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「アルパス」CMソング                                |
+| **DREAM 〜夢の中で**                                                           | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[WIN](../Page/WIN_\(テレビ番組\).md "wikilink")」エンディングテーマ |
+| **YOU GOT TO WIN**                                                        | 日本テレビ系「WIN」オープニングテーマ                                                                          |
 
 ## 主な提供楽曲
 

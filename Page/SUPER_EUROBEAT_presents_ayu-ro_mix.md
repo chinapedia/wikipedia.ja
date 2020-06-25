@@ -41,7 +41,7 @@
 10. [End roll](../Page/A_\(シングル\).md "wikilink") "ayu-ro Extended Mix"
       -
         Remixed by Laurent Newfield
-11. [poker face](https://ja.wikipedia.org/wiki/poker_face "wikilink") "Eurosenti Mix"
+11. [poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink") "Eurosenti Mix"
       -
         Remixed by Dave Rodgers & Albert Contini
 12. [YOU](../Page/YOU_\(浜崎あゆみの曲\).md "wikilink") "Aggressive Mix"

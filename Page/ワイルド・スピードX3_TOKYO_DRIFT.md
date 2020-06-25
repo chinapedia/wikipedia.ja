@@ -249,6 +249,7 @@
     その他吹き替え：[近藤広務](https://ja.wikipedia.org/wiki/近藤広務 "wikilink")、[駒谷昌男](https://ja.wikipedia.org/wiki/駒谷昌男 "wikilink")、[白石充](https://ja.wikipedia.org/wiki/白石充 "wikilink")、[東條加那子](../Page/東條加那子.md "wikilink")
     [エキストラ](../Page/エキストラ.md "wikilink")　[田所藍](https://ja.wikipedia.org/wiki/田所藍 "wikilink")、[小桜セレナ](https://ja.wikipedia.org/wiki/小桜セレナ "wikilink")、[澤田友美](https://ja.wikipedia.org/wiki/澤田友美 "wikilink") 他
     その他、作中に[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が大型ビジョンならびに劇中に登場するR34型スカイラインGT-Rのナビゲーションシステムの映像として、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")が渋谷の一角に掲げられた自身のCDのポスター写真としてカメオ出演している。
+    フェアレディZ、RX-7など本作品の登場車両の改造を手掛けた[Veilside](https://ja.wikipedia.org/wiki/Veilside "wikilink")代表取締役社長の横幕宏尚がパチンコ店内奥のシーンでカメオ出演している。
     また[ピエール瀧](https://ja.wikipedia.org/wiki/ピエール瀧 "wikilink")がガソリンスタンドの店員役でカメオ出演していたがその出演シーンがカットされており、DVD/Blu-ray特典の未公開映像に登場。
 
 ## 日本側スタッフ

@@ -7,7 +7,7 @@
 
 ### 放送まで
 
-両組司会は[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")・[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）が担当。和田は[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink")（[1988年](../Page/1988年.md "wikilink")）以来9年ぶりの紅組司会起用。当時25歳の中居は白組司会の最年少記録を打ち立てた（[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")のタレントが司会を務めたのも初）。
+両組司会は[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")・[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）が担当。和田は[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink")（[1988年](../Page/1988年.md "wikilink")）以来9年ぶりの紅組司会起用。当時25歳の中居は白組司会の最年少記録を打ち立てた（[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")のタレントが司会を務めたのも初）。
 
 総合司会は3年連続で[宮本隆治](../Page/宮本隆治.md "wikilink")が務めたが、今回は自身初の単独での担当となった（過去2年間は後輩の[草野満代](../Page/草野満代.md "wikilink")と共同での担当）。
 
@@ -26,7 +26,7 @@
   - [松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")の歌唱前、和田は松が前回紅組司会を務めたことに触れた後、松が和田に「去年はありがとうございました」、和田が松に「いえいえ、どう致しまして」とのやりとりがそれぞれ交わされた。
   - [伍代夏子](../Page/伍代夏子.md "wikilink")の曲前に和田が審査員の[吉永小百合](../Page/吉永小百合.md "wikilink")に「紅組・白組どちらが優勢でしょうか?」と振ったところ、「去年は松さんが司会で松さんが初々しくて、皆で守ってあげようという雰囲気を感じましたが、今年は和田キャプテンが怖いからということで、紅組に勢いがありますね」と吉永が返して会場や視聴者をわかせた。
   - [森高千里](../Page/森高千里.md "wikilink")の曲紹介を[美川憲一](../Page/美川憲一.md "wikilink")が行った。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")は前回に引き続き第2部の先行トップバッターを務め、「[ダイナマイト](../Page/ダイナマイト_\(SMAPの曲\).md "wikilink")」、「[セロリ](../Page/セロリ_\(SMAPの曲\).md "wikilink")」の[メドレー](../Page/メドレー.md "wikilink")を披露。なお、SMAPの出番の曲紹介は中居が自ら行った。
+  - [SMAP](../Page/SMAP.md "wikilink")は前回に引き続き第2部の先行トップバッターを務め、「[ダイナマイト](../Page/ダイナマイト_\(SMAPの曲\).md "wikilink")」、「[セロリ](../Page/セロリ_\(SMAPの曲\).md "wikilink")」の[メドレー](../Page/メドレー.md "wikilink")を披露。なお、SMAPの出番の曲紹介は中居が自ら行った。
   - [華原朋美](../Page/華原朋美.md "wikilink")には前回同様、当時彼女の音楽プロデューサーで交際中だった[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が駆けつけ、ギター演奏とコーラスを担当した。
   - [美川憲一](../Page/美川憲一.md "wikilink")は[プリンセス・テンコープロデュースにより間奏でステージから消え](https://ja.wikipedia.org/wiki/引田天功_\(2代目\) "wikilink")、2番がはじまると後ろのセットから「大天使ミカエル」に扮し大きな翼を生やした衣装に早着替えし空中浮遊で現れ会場が歓声に包まれた。（プリンセス・テンコーのプロデュースは[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）まで続いた）。
   - [小林幸子](../Page/小林幸子.md "wikilink")は「生命誕生」と呼ばれる豪華衣装で登場。間奏あたりでステージいっぱいに蝶々の羽をイメージした舞台装置が展開した。歌唱曲「幸せ」の中にせんないねせんないねという歌詞があるため、歌唱後、白組司会の[中居正広](../Page/中居正広.md "wikilink")に「せんないねせんないねというのが、狭いね狭いねと聞こえたのは私だけでしょうか。」と突っ込まれた。
@@ -48,7 +48,7 @@
 ## 司会者
 
   - 紅組司会：[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")
-  - 白組司会：[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+  - 白組司会：[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）
   - 総合司会：[宮本隆治](../Page/宮本隆治.md "wikilink")（[東京アナウンス室](../Page/NHK放送センター.md "wikilink")）
 
 ## 演奏
@@ -181,8 +181,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:1997年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のラジオ番組_\(日本\) "wikilink") [Category:1997年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1997年の日本の音楽 "wikilink") [Category:1997年12月](https://ja.wikipedia.org/wiki/Category:1997年12月 "wikilink")
 

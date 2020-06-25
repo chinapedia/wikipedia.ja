@@ -1,9 +1,15 @@
 > この記事は[VOFAN](https://ja.wikipedia.org/wiki/VOFAN)から翻訳されています。
 
 
-**VOFAN**（ヴォーハン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](../Page/漫画家.md "wikilink")。男性。[台南市](../Page/台南市.md "wikilink")生まれ。私立[中原大学](../Page/中原大学.md "wikilink")建築学科卒。[国立台北芸術大学](../Page/国立台北芸術大学.md "wikilink")大学院科技芸術科修士課程修了。本名は**戴源亨**。 ペンネームの由来が[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")ファンを略したものであるため、台湾での一般的な読まれ方はブイオーファンである。
+**VOFAN**（ヴォーハン）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")、[漫画家](../Page/漫画家.md "wikilink")。男性。[台南市](../Page/台南市.md "wikilink")生まれ。私立[中原大学](../Page/中原大学.md "wikilink")建築学科卒。[国立台北芸術大学](../Page/国立台北芸術大学.md "wikilink")大学院科技芸術科修士課程修了。本名は**戴源亨**。
 
-[イラスト風のカラー掌編](../Page/イラストレーション.md "wikilink")[CG漫画を中心に作品を発表し続け](../Page/コンピュータグラフィックス.md "wikilink")、鮮やかな色を操りながら、爽やかな作風を持ち、色彩の明暗を使って独特な光と[空気感](https://ja.wikipedia.org/wiki/空気感 "wikilink")を描き出す。[2005年](../Page/2005年.md "wikilink")、「台湾からの光の魔術師」として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に紹介された。
+ペンネームの由来が[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")ファンを略したものであるため、台湾での一般的な読まれ方はブイオーファンである。
+
+鮮やかな色を操りながら、爽やかな作風を持ち、色彩の明暗を使って独特な光と[空気感](https://ja.wikipedia.org/wiki/空気感 "wikilink")を描き出す。
+
+1999年頃から『[Colorful PUREGIRL](../Page/Colorful_PUREGIRL.md "wikilink")』（[ビブロス](../Page/ビブロス_\(出版社\).md "wikilink")）のイラスト投稿コーナー『純粋少女倶楽部（ピュアガールクラブ）』の投稿者として活動。同年、台湾のコンピューターゲーム『新天使帝國』（[大宇情報](https://ja.wikipedia.org/wiki/:zh:大宇資訊 "wikilink")）でキャラクターデザインを担当。以降、『[月刊挑戦者](https://ja.wikipedia.org/wiki/月刊挑戦者 "wikilink")』などで[イラスト風のカラー掌編](../Page/イラストレーション.md "wikilink")[CG漫画を中心に作品を発表する](../Page/コンピュータグラフィックス.md "wikilink")。
+
+[2005年](../Page/2005年.md "wikilink")、『[ファウスト](../Page/ファウスト_\(文芸誌\).md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて「台湾からの光の魔術師」という惹句で[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に紹介され、西尾維新の[〈物語〉シリーズ](../Page/〈物語〉シリーズ.md "wikilink")、[忘却探偵シリーズ](https://ja.wikipedia.org/wiki/忘却探偵シリーズ "wikilink")のカバーイラストで人気を博す。
 
 単行本は台湾では5冊刊行されているが、日本ではそのうち1冊が同時刊行となっている。
 

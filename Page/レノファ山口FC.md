@@ -37,7 +37,7 @@
 
     元[G大阪の](../Page/ガンバ大阪.md "wikilink")[伊藤博幹](../Page/伊藤博幹.md "wikilink")ら経験者を中心に11名を補強\[15\]。[同年の中国リーグでは連覇は逃したが](https://ja.wikipedia.org/wiki/2009年の地域リーグ_\(サッカー\)#中国 "wikilink")、優勝した[佐川急便中国が](../Page/佐川急便中国サッカー部.md "wikilink")[地決出場を辞退したため](https://ja.wikipedia.org/wiki/第33回全国地域サッカーリーグ決勝大会 "wikilink")、繰り上げで2年連続で地域決勝に進出。1次ラウンドグループCで[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")にPK戦で勝利し、[浜松大学FCに勝利するも松本山雅FCに敗れてグループ](https://ja.wikipedia.org/wiki/常葉大学浜松キャンパスサッカー部 "wikilink")2位となり敗退。
 
-    [第89回天皇杯では](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink")[三菱自動車水島FC](https://ja.wikipedia.org/wiki/三菱自動車水島FC "wikilink")を下して初勝利を上げ、Jリーグ勢との対戦を実現させた（[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")に敗戦）。
+    [第89回天皇杯では](https://ja.wikipedia.org/wiki/第89回天皇杯全日本サッカー選手権大会 "wikilink")[三菱自動車水島FC](../Page/三菱自動車水島FC.md "wikilink")を下して初勝利を上げ、Jリーグ勢との対戦を実現させた（[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")に敗戦）。
 
     宮成はこの年限りで監督を退任、教職を辞して総監督・GMに専念することとなった。
 
@@ -574,41 +574,43 @@ Humore<br />
 
 2015年にはレオーネ山口と本格的な提携を行い、同クラブが2015年4月1日以降「レノファ山口FCアカデミー」に名称変更して\[60\] レノファ山口FCの下部組織の一つとなった。レオーネ時代から引き続いてU-15（トップ / セカンド）、U-13、U-12（トップ / レオーネ）、プリマヴェーラ（小3-小5クラス）、バンビーノ（小学校低学年）の各チームを有する。サッカー以外には[テニス](../Page/テニス.md "wikilink")・[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の部門を有する。運営はNPO法人レノファ山口スポーツクラブ。
 
+2019年シーズンからU-18監督に[桐蔭学園高校元監督の](https://ja.wikipedia.org/wiki/桐蔭学園高等学校 "wikilink")[山本富士雄](https://ja.wikipedia.org/wiki/山本富士雄 "wikilink")が就任\[61\]。
+
 ## レディース
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発足したレオーネ山口のレディースチームを前身とする。永らく[県リーグで活動しており](https://ja.wikipedia.org/wiki/山口県女子サッカーリーグ "wikilink")、2012年に[中国女子サッカーリーグ](https://ja.wikipedia.org/wiki/中国女子サッカーリーグ "wikilink")に昇格するも1年で降格。
 
-[2016年](../Page/2016年.md "wikilink")にレディースチームの運営をレノファ山口FCアカデミーからレノファ山口本体に移管し、「レノファ山口FCレディース」として[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（なでしこリーグ）への参戦を本格的に目指す方針を明らかにした\[61\]。運営移行後の2016年シーズンは県リーグで優勝、中国女子サッカーリーグチャレンジ戦にも勝利し中国リーグへの再昇格を果たした。
+[2016年](../Page/2016年.md "wikilink")にレディースチームの運営をレノファ山口FCアカデミーからレノファ山口本体に移管し、「レノファ山口FCレディース」として[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（なでしこリーグ）への参戦を本格的に目指す方針を明らかにした\[62\]。運営移行後の2016年シーズンは県リーグで優勝、中国女子サッカーリーグチャレンジ戦にも勝利し中国リーグへの再昇格を果たした。
 
-[2019年](../Page/2019年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、レディースチームは2019年度の中国女子サッカーリーグにて対戦を行わず、不戦敗とすると発表した（事実上の棄権）\[62\]。
+[2019年](../Page/2019年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、レディースチームは2019年度の中国女子サッカーリーグにて対戦を行わず、不戦敗とすると発表した（事実上の棄権）\[63\]。
 
 ## メディア
 
   - テレビ
 
-:\* [みんなのレノファ](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび#みんなのレノファ "wikilink")（[山口朝日放送](../Page/山口朝日放送.md "wikilink")『[土曜の目覚めはどき生てれび](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび "wikilink")』内・毎週土曜 7:25頃 -\[63\]、および同局『[Jチャンやまぐち](https://ja.wikipedia.org/wiki/Jチャンやまぐち "wikilink")』内・毎週月曜 18:30頃 - ）
+:\* [みんなのレノファ](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび#みんなのレノファ "wikilink")（[山口朝日放送](../Page/山口朝日放送.md "wikilink")『[土曜の目覚めはどき生てれび](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび "wikilink")』内・毎週土曜 7:25頃 -\[64\]、および同局『[Jチャンやまぐち](https://ja.wikipedia.org/wiki/Jチャンやまぐち "wikilink")』内・毎週月曜 18:30頃 - ）
 
-:\* 週刊\! レノファTV（[山口放送](../Page/山口放送.md "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』内・毎週木曜 6:15頃 - 、および同局『[KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")』内・毎週金曜 18:35頃 - ）\[64\]
+:\* 週刊\! レノファTV（[山口放送](../Page/山口放送.md "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』内・毎週木曜 6:15頃 - 、および同局『[KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")』内・毎週金曜 18:35頃 - ）\[65\]
 
-:\* レノファスクエア（[テレビ山口](../Page/テレビ山口.md "wikilink") 毎週土曜 2:12 - ） - 2016年春まで県内のケーブルテレビで放送。[スタジアムMCの](../Page/スタジアムDJ.md "wikilink")[吉永達哉](https://ja.wikipedia.org/wiki/吉永達哉 "wikilink")が出演と制作をすべて一人で行っている\[65\]。
+:\* レノファスクエア（[テレビ山口](../Page/テレビ山口.md "wikilink") 毎週土曜 2:12 - ） - 2016年春まで県内のケーブルテレビで放送。[スタジアムMCの](../Page/スタジアムDJ.md "wikilink")[吉永達哉](https://ja.wikipedia.org/wiki/吉永達哉 "wikilink")が出演と制作をすべて一人で行っている\[66\]。
 
-:\* レノスマ\!（テレビ山口『[ちぐスマ\!](https://ja.wikipedia.org/wiki/週末ちぐまや家族#ちぐスマ! "wikilink")』内・毎週金曜 16:15頃 - ）\[66\]
+:\* レノスマ\!（テレビ山口『[ちぐスマ\!](https://ja.wikipedia.org/wiki/週末ちぐまや家族#ちぐスマ! "wikilink")』内・毎週金曜 16:15頃 - ）\[67\]
 
   - ラジオ
 
 :\* GO\! GO\! RENOFA（[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")『[Happy Happy FRIDAY](https://ja.wikipedia.org/wiki/Happy_Happy_FRIDAY "wikilink")』内・17:45頃 - ）
 
-:\* ジャンプアップ・レノファ\!（山口放送『[お昼はZENKAI ラヂオな時間](../Page/お昼はZENKAI_ラヂオな時間.md "wikilink")』内・毎週水曜 14:40頃 - \[67\]、および同局『[ほっとゾーンおはようKRY](../Page/ほっとゾーンおはようKRY.md "wikilink")』内・毎週金曜 9:05頃 - \[68\]）
+:\* ジャンプアップ・レノファ\!（山口放送『[お昼はZENKAI ラヂオな時間](../Page/お昼はZENKAI_ラヂオな時間.md "wikilink")』内・毎週水曜 14:40頃 - \[68\]、および同局『[ほっとゾーンおはようKRY](../Page/ほっとゾーンおはようKRY.md "wikilink")』内・毎週金曜 9:05頃 - \[69\]）
 
 :\* RIDE ON\! RENOFA（[COME ON\! FM](../Page/コミュニティエフエム下関.md "wikilink")『ゴジラヂ\! 木曜日』内・18:15頃 - ）
 
-:\* まるっとレノファ（[FMサンサンきらら](https://ja.wikipedia.org/wiki/FM山陽小野田 "wikilink") 毎週木曜 15:00 - ）\[69\]
+:\* まるっとレノファ（[FMサンサンきらら](https://ja.wikipedia.org/wiki/FM山陽小野田 "wikilink") 毎週木曜 15:00 - ）\[70\]
 
 ## テーマソング
 
-  - MIKKO「スタートライン～All For Team～」（クラブ公式テーマソング、2015年8月制定\[70\]
+  - MIKKO「スタートライン～All For Team～」（クラブ公式テーマソング、2015年8月制定\[71\]
 
-このほか、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")『Fight for a renovation』\[71\]、[水本諭](https://ja.wikipedia.org/wiki/水本諭 "wikilink")『Orange』、[Unlimited tone](https://ja.wikipedia.org/wiki/Unlimited_tone "wikilink")『RENOFA SOUL』（yab「みんなのレノファ」主題歌）などがクラブ公認の「応援ソング」として試合会場等で用いられている。
+このほか、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")『Fight for a renovation』\[72\]、[水本諭](https://ja.wikipedia.org/wiki/水本諭 "wikilink")『Orange』、[Unlimited tone](https://ja.wikipedia.org/wiki/Unlimited_tone "wikilink")『RENOFA SOUL』（yab「みんなのレノファ」主題歌）などがクラブ公認の「応援ソング」として試合会場等で用いられている。
 
 ## 脚注
 
@@ -702,3 +704,4 @@ Humore<br />
 69.
 70.
 71.
+72.

@@ -50,6 +50,6 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [水の中のASIAへ](http://yuming.co.jp/discography/album/original11/)
 
-[Category:Yumingのアルバム](https://ja.wikipedia.org/wiki/Category:Yumingのアルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink") [Category:1981年のアルバム](https://ja.wikipedia.org/wiki/Category:1981年のアルバム "wikilink")
+[Category:Yumingのアルバム](https://ja.wikipedia.org/wiki/Category:Yumingのアルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink") [Category:1981年のアルバム](https://ja.wikipedia.org/wiki/Category:1981年のアルバム "wikilink") [Category:アジアを舞台とした作品](https://ja.wikipedia.org/wiki/Category:アジアを舞台とした作品 "wikilink")
 
 1.  『[松任谷由実 Sweet Discovery](../Page/松任谷由実_Sweet_Discovery.md "wikilink")』2010年11月14日放送より

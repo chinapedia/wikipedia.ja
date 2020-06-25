@@ -1,9 +1,9 @@
 > この記事は[フラワー \(KinKi Kidsの曲\)](https://ja.wikipedia.org/wiki/フラワー_\(KinKi_Kidsの曲\))から翻訳されています。
 
 
-「**フラワー**」は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")（平成11年）[5月26日](../Page/5月26日.md "wikilink")に[8cmCD](https://ja.wikipedia.org/wiki/8cmCD "wikilink")で発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
+「**フラワー**」は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に[8cmCD](https://ja.wikipedia.org/wiki/8cmCD "wikilink")で発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
-[2007年](../Page/2007年.md "wikilink")（平成19年）[12月26日](../Page/12月26日.md "wikilink")に12cmCD（[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")）として再発売をしている。
+[2007年](../Page/2007年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に12cmCD（[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")）として再発売をしている。
 
 ## 解説
 

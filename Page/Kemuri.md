@@ -95,7 +95,7 @@
 
   -
     解散前からサポートで参加。再結成後もサポートメンバーを務め、2015年10月5日に正式メンバーとして加入。
-    [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[堂本光一](../Page/堂本光一.md "wikilink")、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")など多くのアーティストのレコーディングやツアーに参加したことがある。\[1\]。
+    [SMAP](../Page/SMAP.md "wikilink")、[堂本光一](../Page/堂本光一.md "wikilink")、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")など多くのアーティストのレコーディングやツアーに参加したことがある。\[1\]。
 
 ## 旧メンバー
 

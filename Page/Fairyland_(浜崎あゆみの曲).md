@@ -15,6 +15,8 @@
 
 この曲で同年の「[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")」に7回目の出場を果たした。
 
+「alterna」のみ、7thアルバム『[(miss)understood](../Page/\(miss\)understood.md "wikilink")』にはシングルと異なるバージョンで収録。
+
 ## 収録曲
 
 全曲[作詞](../Page/作詞.md "wikilink")：ayumi hamasaki
@@ -51,7 +53,7 @@
       - 『[A COMPLETE 〜ALL SINGLES〜](https://ja.wikipedia.org/wiki/A_COMPLETE_〜ALL_SINGLES〜 "wikilink")』
       - 『[A SUMMER BEST](https://ja.wikipedia.org/wiki/A_SUMMER_BEST "wikilink")』
   - **alterna**
-      - 『[(miss)understood](../Page/\(miss\)understood.md "wikilink")』
+      - 『[(miss)understood](../Page/\(miss\)understood.md "wikilink")』（アルバムバージョン）
 
 ## 脚注
 

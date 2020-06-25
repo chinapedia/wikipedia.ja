@@ -91,7 +91,7 @@
 <li>白い街(Instrumental)</li>
 </ol></td>
 <td><p>TBS系「<a href="../Page/日立_世界・ふしぎ発見!.md" title="wikilink">日立 世界・ふしぎ発見!</a>」エンディングテーマ<br />
-<a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a>「<a href="https://ja.wikipedia.org/wiki/アサデス。" title="wikilink">アサデス。</a>KBC」お天気コーナーBGM<br />
+<a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a>「<a href="../Page/アサデス。.md" title="wikilink">アサデス。</a>KBC」お天気コーナーBGM<br />
 オリコン最高106位</p></td>
 </tr>
 <tr class="odd">

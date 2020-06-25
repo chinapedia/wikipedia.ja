@@ -60,7 +60,7 @@
 
 ### ネット局に関する事情
 
-この番組は、NRN系列局が複数加盟している[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")では[北海道放送](../Page/HBCラジオ.md "wikilink")、[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")では[ラジオ大阪へネットされた](../Page/大阪放送.md "wikilink")。また[JRN単独系列の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")や[山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")（当時）にもネットされた（日立枠が週1回になった後もそのまま撤廃されるまで放送された）。
+この番組は、NRN系列局が複数加盟している[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")では[北海道放送](../Page/HBCラジオ.md "wikilink")、[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")では[ラジオ大阪へネットされた](../Page/大阪放送.md "wikilink")。また[JRN単独系列の](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")や[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")（当時）にもネットされた（日立枠が週1回になった後もそのまま撤廃されるまで放送された）。
 
 なお、[沖縄県](../Page/沖縄県.md "wikilink")の本来のNRN系列局である[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")では、当番組ではなく、当時ライバルの電機メーカーである[シャープ](../Page/シャープ.md "wikilink")の提供で「[シャープと共に](../Page/シャープと共に.md "wikilink")」というローカルのリクエスト番組が放送された。放送時間が一時期当番組の裏に当たったこともある。
 
@@ -97,7 +97,7 @@
 <li><a href="../Page/福井放送.md" title="wikilink">福井放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/和歌山放送.md" title="wikilink">和歌山放送</a>、23:00 - 23:30</li>
 <li><a href="../Page/大阪放送.md" title="wikilink">ラジオ大阪</a>、24:00 - 24:30</li>
-<li><a href="https://ja.wikipedia.org/wiki/山陽放送ラジオ" title="wikilink">山陽放送</a>、23:00 - 23:30</li>
+<li><a href="https://ja.wikipedia.org/wiki/RSKラジオ" title="wikilink">山陽放送</a>、23:00 - 23:30</li>
 <li><a href="https://ja.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a>、22:00 - 22:30</li>
 <li><a href="../Page/中国放送.md" title="wikilink">中国放送</a>、23:00 - 23:30</li>
 <li><a href="../Page/山口放送.md" title="wikilink">山口放送</a>、22:00 - 22:30</li>

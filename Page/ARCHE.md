@@ -75,9 +75,7 @@
   - ヒット&ドライブ（TOKYO FM）
   - MusicPhotograph（K-MIX、毎週日曜日）
   - MUSIC GARDEN（[USEN](../Page/USEN.md "wikilink")）
-  - [赤坂泰彦のミリオンナイツ](https://ja.wikipedia.org/wiki/ミリオンナイツ#赤坂泰彦のミリオンナイツ "wikilink")（TOKYO FM／JFN系列）
-      -
-        [赤坂泰彦](../Page/赤坂泰彦.md "wikilink")不在時の代役を何度も務めている。
+  - [赤坂泰彦のミリオンナイツ](https://ja.wikipedia.org/wiki/ミリオンナイツ#赤坂泰彦のミリオンナイツ "wikilink")（TOKYO FM／JFN系列） - [赤坂不在時の代役を何度も務めている](../Page/赤坂泰彦.md "wikilink")。
 
 <!-- end list -->
 

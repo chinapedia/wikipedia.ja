@@ -600,7 +600,7 @@
 
 <!-- end list -->
 
-  - [U-tan](http://blog.goo.ne.jp/u-tan182/) （[gooブログ](https://ja.wikipedia.org/wiki/gooブログ "wikilink")）
+  - [U-tan](https://blog.goo.ne.jp/u-tan182) （[gooブログ](https://ja.wikipedia.org/wiki/gooブログ "wikilink")）
 
   -
   -

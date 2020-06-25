@@ -148,7 +148,7 @@
 <td><p>14,511</p></td>
 <td></td>
 <td><p>2,102</p></td>
-<td><p>富山</p></td>
+<td><p><a href="../Page/カターレ富山.md" title="wikilink">富山</a></p></td>
 <td><p>湖南</p></td>
 <td></td>
 <td><p>307</p></td>
@@ -159,10 +159,10 @@
 <td><p>2009</p></td>
 <td><p><strong>16,929</strong></p></td>
 <td><p>2,058</p></td>
-<td><p>長崎</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">長崎</a></p></td>
 <td><p>皇子山</p></td>
 <td><p>338</p></td>
-<td><p><a href="../Page/FC琉球.md" title="wikilink">FC琉球</a></p></td>
+<td><p><a href="../Page/FC琉球.md" title="wikilink">琉球</a></p></td>
 <td><p>上野競</p></td>
 <td><p>996</p></td>
 <td><p>17</p></td>
@@ -174,7 +174,7 @@
 <td><p>2,144</p></td>
 <td><p><a href="../Page/ジェフユナイテッド市原・千葉リザーブズ.md" title="wikilink">ジェフR</a></p></td>
 <td><p><strong>163</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/流通経済大学サッカー部" title="wikilink">流通経済大</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/流通経済大学サッカー部" title="wikilink">流経大</a></p></td>
 <td><p>湖南</p></td>
 <td><p>793</p></td>
 <td><p>17</p></td>
@@ -211,7 +211,7 @@
 <td><p>2013</p></td>
 <td><p>9,233</p></td>
 <td><p><strong>2,206</strong></p></td>
-<td><p>讃岐</p></td>
+<td><p><a href="../Page/カマタマーレ讃岐.md" title="wikilink">讃岐</a></p></td>
 <td><p>208</p></td>
 <td><p>Honda</p></td>
 <td><p>東近江</p></td>
@@ -250,7 +250,7 @@
 <td><p>2016</p></td>
 <td><p>10,195</p></td>
 <td><p>1,810</p></td>
-<td><p>流経大</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/流通経済大学サッカー部#流通経済大学ドラゴンズ龍ケ崎" title="wikilink">流経大D</a></p></td>
 <td><p>甲賀</p></td>
 <td><p>253</p></td>
 <td><p>Honda</p></td>
@@ -263,7 +263,7 @@
 <td><p>2017</p></td>
 <td><p>9,771</p></td>
 <td><p>1,955</p></td>
-<td><p>浦安</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブリオベッカ浦安" title="wikilink">浦安</a></p></td>
 <td><p>東近江</p></td>
 <td><p>191</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴィアティン三重" title="wikilink">三重</a></p></td>
@@ -286,6 +286,19 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019</p></td>
+<td><p>8,292</p></td>
+<td><p>1,523</p></td>
+<td><p>Honda</p></td>
+<td><p>東近江</p></td>
+<td><p>206</p></td>
+<td><p>FC大阪</p></td>
+<td><p>553</p></td>
+<td><p>15</p></td>
+<td><p>東近江12、甲賀3</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

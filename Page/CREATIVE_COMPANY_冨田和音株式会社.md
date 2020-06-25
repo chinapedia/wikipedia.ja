@@ -251,7 +251,7 @@
 ## 内包していた主な番組
 
   - ビーバーヤング [光のスターライトキッス](../Page/光GENJI.md "wikilink")（1989年10月 - 1990年3月。打ち切りの半年後、同番組が[東海ラジオで](../Page/東海ラジオ放送.md "wikilink")、ナイターオフ期のみネット。[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
-  - POP [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（1989年10月 - 1990年9月、[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")。終了後、『スクランブルSMAP』に番組タイトルが変更。内包枠から独立）
+  - POP [SMAP](../Page/SMAP.md "wikilink")（1989年10月 - 1990年9月、[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")。終了後、『スクランブルSMAP』に番組タイトルが変更。内包枠から独立）
   - [大槻ケンヂのセニョール\!セニョリータ\!](../Page/大槻ケンヂのセニョール!セニョリータ!.md "wikilink") （1989年10月 - 1990年6月、ニッポン放送制作）
       - 当番組のみ[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")提供。以降下記の各番組は[ダイハツ提供](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")。
   - [TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")の[Xハラスメント](../Page/X_JAPAN.md "wikilink")（1990年7月 - 1991年2月、ニッポン放送制作）

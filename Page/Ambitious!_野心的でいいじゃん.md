@@ -1,7 +1,7 @@
 > この記事は[Ambitious! 野心的でいいじゃん](https://ja.wikipedia.org/wiki/Ambitious!_野心的でいいじゃん)から翻訳されています。
 
 
-「**Ambitious\! 野心的でいいじゃん**」（アンビシャス\! やしんてきでいいじゃん）は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の30枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Ambitious\! 野心的でいいじゃん**」（アンビシャス\! やしんてきでいいじゃん）は[モーニング娘。](../Page/モーニング娘。.md "wikilink")の30枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

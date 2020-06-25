@@ -1,7 +1,7 @@
 > この記事は[ICOMS国際作曲コンクール](https://ja.wikipedia.org/wiki/ICOMS国際作曲コンクール)から翻訳されています。
 
 
-**ICOMS国際作曲コンクール**（ICOMSこくさいさっきょくコンクール）は[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")で行われる国際作曲[コンクール](../Page/コンクール.md "wikilink")。名称は「International Center Of Musical Sources」の頭文字から。
+**ICOMS国際作曲コンクール**（ICOMSこくさいさっきょくコンクール）は、[イタリア](../Page/イタリア.md "wikilink")の[トリノ](../Page/トリノ.md "wikilink")で行われる国際作曲[コンクール](../Page/コンクール.md "wikilink")。名称は「International Center Of Musical Sources」の頭文字から。
 
 ## 概要
 
@@ -11,11 +11,11 @@
 
 現在では[ヴァレンティーノ・ブッキ国際作曲コンクール](https://ja.wikipedia.org/wiki/ヴァレンティーノ・ブッキ国際作曲コンクール "wikilink")、[エジディオ・カレッラ国際作曲コンクール](https://ja.wikipedia.org/wiki/エジディオ・カレッラ国際作曲コンクール "wikilink")と並んで、若手作曲家の登竜門的な存在になりつつある。審査員が元国際コンクールの覇者であったことも、世界中からの信頼に繋がっている。2010年に公式サイトが全面リニューアルされ、コンクールの経緯も解説された。しかし、特別賞の掲載の不備、受賞者の綴り間違い、果てはICONS時代の受賞者の欠落などを含んでいる。2011年からは、審査員の居住地である[マンタ](https://ja.wikipedia.org/wiki/マンタ "wikilink")市のバックアップを受け、審査もマンタで行われる模様であるが、優勝者の作品が[トリノ](../Page/トリノ.md "wikilink")のMITO9月音楽祭に招待される点だけは変わっていない。
 
-2012年度を以って閉会した。
+2012年度をもって閉会した。
 
 ## 優勝者一覧
 
-  - [中村寛](../Page/中村寛.md "wikilink")
+  - [中村寛](https://ja.wikipedia.org/wiki/中村寛_\(作曲家\) "wikilink")
   - [ルカ・ベルカストロ](../Page/ルカ・ベルカストロ.md "wikilink")（唯一の二度優勝）
   - [ディエゴ・ダロスト](https://ja.wikipedia.org/wiki/ディエゴ・ダロスト "wikilink")
   - [コスチン・カザヴァン](https://ja.wikipedia.org/wiki/コスチン・カザヴァン "wikilink")
@@ -74,7 +74,7 @@
 
   - [公式サイト](http://web.archive.org/web/20120526020558/http://www.icoms.it/)
 
-[Category:イタリアの音楽コンクール](https://ja.wikipedia.org/wiki/Category:イタリアの音楽コンクール "wikilink") [Category:トリノ](https://ja.wikipedia.org/wiki/Category:トリノ "wikilink")
+[Category:イタリアの音楽コンクール](https://ja.wikipedia.org/wiki/Category:イタリアの音楽コンクール "wikilink") [Category:トリノの文化](https://ja.wikipedia.org/wiki/Category:トリノの文化 "wikilink")
 
 1.
 2.

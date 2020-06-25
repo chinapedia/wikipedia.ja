@@ -178,7 +178,8 @@
 17134<br />
 17763<br />
 18362<br />
-18363</p></td>
+18363<br />
+19041</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_10" title="wikilink">Windows 10</a><br />
 <a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_10_Mobile" title="wikilink">Windows 10 Mobile</a><br />
 <a href="https://ja.wikipedia.org/wiki/Microsoft_Windows_10_IoT" title="wikilink">Windows 10 IoT</a></p></td>

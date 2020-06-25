@@ -51,7 +51,7 @@
 
 ## 外部リンク
 
-  - [NHKラジオ らじる★らじる](http://www.nhk.or.jp/radio/)
+  - [NHKラジオ らじる★らじる](https://www.nhk.or.jp/radio/)
   - [海外向けラジオ番組](https://www3.nhk.or.jp/nhkworld/en/radio/)
   - [ウグイスは鳴かなかった ～ラジオのはじまり～ - マンガで読むNHKヒストリー](https://www.nhk.or.jp/archives/search/special/comic/?movie#vol01)
   - [経済市況　NHK名作選（動画・静止画）-NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060050_00000)

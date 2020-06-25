@@ -68,7 +68,12 @@
 13. **HAYATOCHI-REMIX (Bonus Track)** (4:10)
       -
         編曲：宇多田ヒカル
-        5thシングルのカップリング「[はやとちり](https://ja.wikipedia.org/wiki/Wait&See_～リスク～ "wikilink")」のリミックス。
+        5thシングルのカップリング「[はやとちり](https://ja.wikipedia.org/wiki/Wait_&_See_～リスク～ "wikilink")」のリミックス。
+14. **[はやとちり](../Page/Wait_&_See_〜リスク〜.md "wikilink")**(4:15)
+      -
+        編曲：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")(ストリングスアレンジ)
+        5thシングルのカップリング
+        「2018 Remastered Album」のみの収録
 
 ## アナログ盤収録曲
 

@@ -25,10 +25,12 @@ JH-7Aを基に機体を再設計しステルス性を高め、アビオニクス
 
 ## 配備
 
+2018年現在、海軍に約120機、空軍に約140機が配備されている\[2\]。
+
 ## 事故
 
-  - [2009年](../Page/2009年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")、[吉林省](../Page/吉林省.md "wikilink")で行われていたテロを想定した中ロ合同軍事演習「平和使命―2009」の最中に墜落。乗組員2人が死亡\[2\]。
-  - [2011年](../Page/2011年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")、[陝西省](../Page/陝西省.md "wikilink")蒲城で行われた航空ショーで1機が墜落\[3\]。
+  - [2009年](../Page/2009年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")、[吉林省](../Page/吉林省.md "wikilink")で行われていたテロを想定した中ロ合同軍事演習「平和使命―2009」の最中に墜落。乗組員2人が死亡\[3\]。
+  - [2011年](../Page/2011年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")、[陝西省](../Page/陝西省.md "wikilink")蒲城で行われた航空ショーで1機が墜落\[4\]。
   - [2014年](../Page/2014年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")、[浙江省](../Page/浙江省.md "wikilink")夜間訓練飛行中に山岳地帯に墜落。
 
 ## 性能諸元
@@ -72,5 +74,6 @@ JH-7Aを基に機体を再設計しステルス性を高め、アビオニクス
 [Category:中華人民共和国の戦闘機](https://ja.wikipedia.org/wiki/Category:中華人民共和国の戦闘機 "wikilink") [Category:中華人民共和国の爆撃機](https://ja.wikipedia.org/wiki/Category:中華人民共和国の爆撃機 "wikilink")
 
 1.  [新型隐身飞豹歼轰-7B已经试飞成功](https://web.archive.org/web/20131230235735/http://news.gasshow.com/News_1407096.html)gasshow.com news 2011年11月19日
-2.
+2.  International Institute for Strategic Studies: The Military Balance 2019
 3.
+4.

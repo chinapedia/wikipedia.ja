@@ -47,7 +47,7 @@
 
   - 川重車体工業
 
-ファイル:K-CJM500-Nagasaki-Bus-2107.jpg|K-CJM500 [長崎バス](../Page/長崎自動車.md "wikilink") ファイル:Iwatekenkotsu isuzu K-CJM500 kawasaki.jpg|K-CJM500 岩手県交通 ファイル:NanbuBus K-CJM550 No,533.jpg|K-CJM550（中扉大型窓） [南部バス](../Page/南部バス.md "wikilink")（[京浜急行電鉄からの譲受車](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")） ファイル:K-CJM550-Tozan-B757.jpg|K-CJM550 箱根登山バス ファイル:Iwatekenkotsu isuzu K-CLA500 kawasaki.jpg|K-CLA500 [岩手県交通](../Page/岩手県交通.md "wikilink") ファイル:Towadakanko ISUZU K-CLA500.jpg|K-CLA500 [十和田観光電鉄](../Page/十和田観光電鉄.md "wikilink")
+ファイル:K-CJM500-Nagasaki-Bus-2107.jpg|K-CJM500 [長崎バス](../Page/長崎自動車.md "wikilink") ファイル:Iwatekenkotsu isuzu K-CJM500 kawasaki.jpg|K-CJM500 岩手県交通 ファイル:NanbuBus K-CJM550 No,533.jpg|K-CJM550（中扉大型窓） [南部バス](../Page/南部バス.md "wikilink")（[京浜急行電鉄からの譲受車](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")） ファイル:K-CJM550-Tozan-B757.jpg|K-CJM550 箱根登山バス ファイル:Iwatekenkotsu isuzu K-CLA500 kawasaki.jpg|K-CLA500 [岩手県交通](../Page/岩手県交通.md "wikilink") ファイル:Towadakanko ISUZU K-CLA500.jpg|K-CLA500 [十和田観光電鉄](../Page/十和田観光電鉄.md "wikilink") ファイル:Oriental Land K-CPM600.jpg|K-CPM600 [オリエンタルランド交通](https://ja.wikipedia.org/wiki/オリエンタルランド交通 "wikilink")
 
   - 純正以外の車体
 

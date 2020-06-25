@@ -329,7 +329,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
 
 ### テレビ番組
 
-  - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（日本テレビ、火曜日「WEニュース」9月度マンスリーMC）
+  - [スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")（日本テレビ、火曜日「WEニュース」9月度マンスリーMC）
   - [あさイチ](https://ja.wikipedia.org/wiki/あさイチ "wikilink") ([NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、金曜日「特選\!エンタ」英語ナビゲーター)
 
 ## 関連のある主なアーティスト
@@ -339,7 +339,7 @@ LISA LIONの名で[ラップ](../Page/ラップ.md "wikilink")パートを行う
   - [朝本浩文](../Page/朝本浩文.md "wikilink")
   - [GTS](../Page/GTS_\(DJグループ\).md "wikilink")
   - [今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")
-  - 今井大介
+  - [今井大介](https://ja.wikipedia.org/wiki/今井大介 "wikilink")
   - [HOME GROWN](https://ja.wikipedia.org/wiki/HOME_GROWN "wikilink")
   - [長渕剛](../Page/長渕剛.md "wikilink")
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")

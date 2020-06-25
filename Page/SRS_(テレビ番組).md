@@ -179,6 +179,6 @@
 ## 外部リンク
 
   - [SRS - スペシャルリングサイド](http://web.archive.org/web/20080927031422/http://www.fujitv.co.jp/srs/index2.html) - フジテレビ（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
-  - [SRS-スペシャルリングサイド](http://www.fujitv.co.jp/b_hp/frispn/) - フジテレビ
+  - [SRS-スペシャルリングサイド](https://www.fujitv.co.jp/b_hp/frispn/) - フジテレビ
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:格闘技のメディア](https://ja.wikipedia.org/wiki/Category:格闘技のメディア "wikilink") [Category:K-1](https://ja.wikipedia.org/wiki/Category:K-1 "wikilink") [Category:田代まさし](https://ja.wikipedia.org/wiki/Category:田代まさし "wikilink")

@@ -183,7 +183,7 @@
 
 ## その他
 
-  - DMX-C1発売当初、[テレビ](../Page/テレビ.md "wikilink")[CMには](../Page/コマーシャルメッセージ.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[草彅剛を起用していた](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")。その後、「赤と黒の[パンダ](../Page/パンダ.md "wikilink")」や[桐島ローランド](../Page/桐島ローランド.md "wikilink")を起用。末期には[長谷川潤が出演していた](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")。
+  - DMX-C1発売当初、[テレビ](../Page/テレビ.md "wikilink")[CMには](../Page/コマーシャルメッセージ.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")の[草彅剛を起用していた](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")。その後、「赤と黒の[パンダ](../Page/パンダ.md "wikilink")」や[桐島ローランド](../Page/桐島ローランド.md "wikilink")を起用。末期には[長谷川潤が出演していた](https://ja.wikipedia.org/wiki/長谷川潤_\(モデル\) "wikilink")。
 
 ## 関連項目
 

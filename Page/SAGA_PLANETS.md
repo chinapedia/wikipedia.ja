@@ -181,7 +181,7 @@
 <td><p>21</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>2月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/金色ラブリッチェ" title="wikilink">金色ラブリッチェ -Golden Time-</a></strong></p></td>
-<td><p>ほんたにかなえ、とらのすけ、有末つかさ、プリンプリン、ぴこぴこぐらむ (SD)</p></td>
+<td><p>ほんたにかなえ、とらのすけ、有末つかさ、<a href="../Page/プリンプリン.md" title="wikilink">プリンプリン</a>、ぴこぴこぐらむ (SD)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さかき傘" title="wikilink">さかき傘</a></p></td>
 </tr>
 <tr class="odd">

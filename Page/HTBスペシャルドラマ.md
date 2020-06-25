@@ -30,24 +30,24 @@
 
 タイトルの前に☆があるものは日本民間放送連盟賞優秀賞、★があるものは文化庁芸術祭優秀賞、◎は[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")奨励賞を受賞した作品。
 
-  - 約束の街・札幌 (1996年)
-  - 君といた街角 (1997年)
-  - 夢の標本 (1998年冬)
-  - ここではない何処か (1998年夏）
-  - 藤堂志津子スペシャル 黒い瞳 (1999年)
-  - ☆◎[ひかりのまち](https://ja.wikipedia.org/wiki/ひかりのまち_\(テレビドラマ\) "wikilink") (2000年)
-  - 丘をこえて (2001年)
-  - ☆★夏の約束 (2002年)
-  - ☆そして明日から (2003年)
-  - ★六月のさくら (2004年)
-  - ★うみのほたる (2005年)
-  - ★◎大麦畑でつかまえて (2006年)　- [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")でも放送。(2008年)
-  - そらぷち (2007年)
-  - [歓喜の歌](https://ja.wikipedia.org/wiki/歓喜の歌_\(落語\) "wikilink") (2008年) - HTB開局40周年記念作品。
-  - ★◎[ミエルヒ](../Page/ミエルヒ.md "wikilink") (2009年) - 第47回ギャラクシー賞テレビ部門優秀賞受賞。
-  - 幸せハッピー (2012年)
-  - [別に普通の恋](https://ja.wikipedia.org/wiki/別に普通の恋 "wikilink") (2013年)
-  - UBASUTE (2014年)
+  - 約束の街・札幌 (1996年、主演:[別所哲也](../Page/別所哲也.md "wikilink"))
+  - 君といた街角 (1997年、主演:[有森也美](https://ja.wikipedia.org/wiki/有森也美 "wikilink"))
+  - 夢の標本 (1998年冬、主演:[戸田菜穂](../Page/戸田菜穂.md "wikilink"))
+  - ここではない何処か (1998年夏、主演:[石田ゆり子](../Page/石田ゆり子.md "wikilink")）
+  - [藤堂志津子](../Page/藤堂志津子.md "wikilink")スペシャル 黒い瞳 (1999年、主演:[清水美砂](https://ja.wikipedia.org/wiki/清水美砂 "wikilink"))
+  - ☆◎[ひかりのまち](https://ja.wikipedia.org/wiki/ひかりのまち_\(テレビドラマ\) "wikilink") (2000年、主演:[尾野真千子](https://ja.wikipedia.org/wiki/尾野真千子 "wikilink"))
+  - 丘をこえて (2001年、主演:[伊藤淳史](../Page/伊藤淳史.md "wikilink"))
+  - ☆★夏の約束 (2002年、主演:[夏川結衣](https://ja.wikipedia.org/wiki/夏川結衣 "wikilink"))
+  - ☆そして明日から (2003年、主演:[水橋研二](../Page/水橋研二.md "wikilink"))
+  - ★六月のさくら (2004年、主演:[大塚寧々](https://ja.wikipedia.org/wiki/大塚寧々 "wikilink"))
+  - ★うみのほたる (2005年、主演:[小澤征悦](../Page/小澤征悦.md "wikilink"))
+  - ★◎大麦畑でつかまえて (2006年、主演:[大泉洋](../Page/大泉洋.md "wikilink"))　- [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")でも放送。(2008年)
+  - そらぷち (2007年、主演:[森田直幸](../Page/森田直幸.md "wikilink"))
+  - [歓喜の歌](https://ja.wikipedia.org/wiki/歓喜の歌_\(落語\) "wikilink") (2008年、主演:[大泉洋](../Page/大泉洋.md "wikilink")) - HTB開局40周年記念作品。
+  - ★◎[ミエルヒ](../Page/ミエルヒ.md "wikilink") (2009年、主演:[安田顕](../Page/安田顕.md "wikilink")) - 第47回ギャラクシー賞テレビ部門優秀賞受賞。
+  - 幸せハッピー (2012年、主演:[渡辺えり](../Page/渡辺えり.md "wikilink"))
+  - [別に普通の恋](https://ja.wikipedia.org/wiki/別に普通の恋 "wikilink") (2013年、主演:[金子貴俊](../Page/金子貴俊.md "wikilink"))
+  - UBASUTE (2014年、主演:[大和田健介](https://ja.wikipedia.org/wiki/大和田健介 "wikilink"))
 
 ## スタッフ
 

@@ -36,6 +36,7 @@
   - *Il Commissario Montalbano*
   - *Gente di mare*
   - *Lo zio d'America 2*
+  - [ナポリの物語](https://ja.wikipedia.org/wiki/ナポリの物語#テレビドラマシリーズ "wikilink")
 
 ### スポーツ
 

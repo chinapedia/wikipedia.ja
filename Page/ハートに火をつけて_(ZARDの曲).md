@@ -8,11 +8,12 @@
   - ZARDにとって最初で最後の昼ドラタイアップ。このシングルで女性ヴォーカルアーティスト シングルTOP10入り通算40作品となった。
   - 初回限定盤はデジパック仕様で、表題曲のピアノによるインストアレンジが収録されている。また、ディスクの色が異なっているなどの違いがある。
   - 翌[2007年](../Page/2007年.md "wikilink")に坂井は死去したため、生前に発売された最後のシングルとなった。
+  - 坂井曰く、本曲のキーワードについて「いつも今が最高だと思いたい！」と語っている\[1\]。
   - この曲にはPVが存在する（[2006年](../Page/2006年.md "wikilink")4月9日撮影）。2014年7月26日に閉業した「恵比寿ロビンズクラブ（フレンチレストラン。チャペルやガーデンも備えた複合レストランであった）」において撮影が日中に行われ、撮影終了直後の晩、坂井は腹部の激痛による体調の急変で救急搬送された。PVの中では、僅かであるがチャペルで白いドレスを身につけた坂井の動画が盛り込まれており、坂井泉水にとって、事実上それが生前最後の映像となった。2019年現在、この撮影に関する状況の更なる詳細や、PVに使われなかった部分の生前最後の映像の有無について公にされていない。
 
 ## 収録曲
 
-1.  **ハートに火をつけて**\[1\]
+1.  **ハートに火をつけて**\[2\]
       -
         作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink") 作曲：[大野愛果](../Page/大野愛果.md "wikilink") 編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
     <!-- end list -->
@@ -52,4 +53,5 @@
 
 [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:TBS愛の劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS愛の劇場の主題歌 "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
-1.  [ハートに火をつけて ZARD 歌詞情報](http://www.utamap.com/showkasi.php?surl=B15769)　2001-　うたまっぷ
+1.  『[Golden Best 〜15th Anniversary〜](../Page/Golden_Best_〜15th_Anniversary〜.md "wikilink")』付属、『Golden History 1991〜2006』より（坂井泉水談）
+2.  [ハートに火をつけて ZARD 歌詞情報](http://www.utamap.com/showkasi.php?surl=B15769)　2001-　うたまっぷ

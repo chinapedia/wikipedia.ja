@@ -154,7 +154,7 @@
 
 <!-- end list -->
 
-  - CYBERJAPAN DANCERS
+  - [CYBERJAPAN DANCERS](https://ja.wikipedia.org/wiki/CYBERJAPAN_DANCERS "wikilink")
       - [U.S.A.](https://ja.wikipedia.org/wiki/U.S.A._\(曲\) "wikilink")（2018年）
 
 <!-- end list -->

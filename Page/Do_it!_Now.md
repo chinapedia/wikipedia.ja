@@ -1,7 +1,7 @@
 > この記事は[Do it! Now](https://ja.wikipedia.org/wiki/Do_it!_Now)から翻訳されています。
 
 
-「**Do it\! Now**」（ドゥー イット\! ナウ）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Do it\! Now**」（ドゥー イット\! ナウ）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

@@ -193,6 +193,20 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガムラ・ウッレヴィ" title="wikilink">ガムラ・ウッレヴィ</a>（<a href="../Page/ヨーテボリ.md" title="wikilink">ヨーテボリ</a>）</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ_2021-22" title="wikilink">2021-22</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ユヴェントス・スタジアム" title="wikilink">ユヴェントス・スタジアム</a>（<a href="../Page/トリノ.md" title="wikilink">トリノ</a>）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFA女子チャンピオンズリーグ_2022-23" title="wikilink">2022-23</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/フィリップス・スタディオン.md" title="wikilink">フィリップス・スタディオン</a>（<a href="../Page/アイントホーフェン.md" title="wikilink">アイントホーフェン</a>）</p></td>
+</tr>
 </tbody>
 </table>
 

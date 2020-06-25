@@ -5,9 +5,9 @@
 
 ## メンバー
 
-  - 牧野元(Vo\&G)
-  - 小宮山聖(G)
-  - 阿部耕作（Dr)
+  - 牧野元（[1967年](../Page/1967年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink") - ) Vo\&G
+  - 小宮山聖（[1966年](../Page/1966年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink") - ) G
+  - 阿部耕作（[1966年](../Page/1966年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ) Dr
   - 小島タケヒロ (Ba)
 
 ### 旧メンバー
@@ -32,6 +32,8 @@
 2017年　[ザ・コレクターズ](../Page/ザ・コレクターズ.md "wikilink")でドラムを叩いていた、[阿部耕作](https://ja.wikipedia.org/wiki/阿部耕作 "wikilink")が加入。
 
 2018年　Vo.の牧野元が舌癌を発表。夏の一時期活動を休止し闘病。牧野が休んだCLUB Que夏ノ陣でのライブには、[大木温之](https://ja.wikipedia.org/wiki/大木温之 "wikilink")([Theピーズ](https://ja.wikipedia.org/wiki/Theピーズ "wikilink"))、[TOMOVSKY](../Page/TOMOVSKY.md "wikilink")、[鈴木圭介](https://ja.wikipedia.org/wiki/鈴木圭介 "wikilink")([フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink"))、[井垣宏章](https://ja.wikipedia.org/wiki/井垣宏章 "wikilink")([無限放送](https://ja.wikipedia.org/wiki/無限放送 "wikilink"))、[山田稔明](https://ja.wikipedia.org/wiki/山田稔明 "wikilink")([GOMES THE HITMAN](../Page/GOMES_THE_HITMAN.md "wikilink"))らが応援ヴォーカルとして参加。
+
+2019年　10月25日よりアンティノス・レコード時代の音源のダウンロードおよびストリーミング配信がスタートした。
 
 
 

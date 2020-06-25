@@ -1,7 +1,7 @@
 > この記事は[SODクリエイト](https://ja.wikipedia.org/wiki/SODクリエイト)から翻訳されています。
 
 
-**SODクリエイト株式会社**（エスオーディークリエイト、*SOD Create CO.,LTD.*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")である。[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")（SOD）グループの企画・制作を担当している。SODグループで流通・販売を担当する[ソフト・オン・デマンド株式会社](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド株式会社 "wikilink")と直接的な資本関係は無い。
+**SODクリエイト株式会社**（エスオーディークリエイト、*SOD Create CO.,LTD.*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")である。[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")（SOD）グループの企画・制作を担当している。SODグループで流通・販売を担当するソフト・オン・デマンド株式会社と直接的な資本関係は無い。
 
 ## 概要
 

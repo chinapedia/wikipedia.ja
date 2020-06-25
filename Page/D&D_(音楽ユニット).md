@@ -16,7 +16,7 @@
   - 沖縄アクターズスクール時代、比嘉千賀乃と上原あやがSPEEDの前身であるBRAND NEW KIDSに在籍していた。
   - OLIVIAがメインボーカルであるため、テレビ番組に出演する際はセンターに立って歌っていた。しかし2ndシングル『LOVE IS A MELODY』で活動していたときはAyaがセンターを務めていた。
   - 『SHAPE UP LOVE』発売と前後してフジテレビ系の音楽番組『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に出演した際、トークのコーナーでAyaがMCの浜田雅功に頭を叩かれたが、Ayaは「ヤッタァー！」と喜びながら叫んだ。その理由は当時、同番組で浜田に頭を叩かれると売れる（シャ乱Qのつんく♂談）といったジンクスが有ったため。また番組中で当時日本語があまり話せなかったOLIVIAがダウンタウンに下品な日本語を言わされていた。
-  - シングル曲は、3枚目のシングル『SUNSHINE HERO』を除いて全て[ユーロビート](../Page/ユーロビート.md "wikilink")のカバーである。「SUNSHINE HERO」は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")などの楽曲を手掛けていた[庄野賢一](https://ja.wikipedia.org/wiki/庄野賢一 "wikilink")が作曲した曲である。
+  - シングル曲は、3枚目のシングル『SUNSHINE HERO』を除いて全て[ユーロビート](../Page/ユーロビート.md "wikilink")のカバーである。「SUNSHINE HERO」は、[SMAP](../Page/SMAP.md "wikilink")などの楽曲を手掛けていた[庄野賢一](https://ja.wikipedia.org/wiki/庄野賢一 "wikilink")が作曲した曲である。
   - CDデビュー当時は、所属事務所の方針で一切メディア出演を行わなかった。顔出しを行うようになったのは2枚目のシングル『LOVE IS A MELODY』からである\[1\]。
 
 ## メンバー

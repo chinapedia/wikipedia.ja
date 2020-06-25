@@ -13,11 +13,11 @@
 
 [2004年](../Page/2004年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。制作は[ノイズファクトリー](https://ja.wikipedia.org/wiki/ノイズファクトリー "wikilink")。オリジナルキャラクターのデザインは[FALCOON](https://ja.wikipedia.org/wiki/FALCOON "wikilink")が手がける。SNKプレイモアとしては初めてのテレビ[CMが放映された](../Page/コマーシャルメッセージ.md "wikilink")。
 
-### KOF MAXIMUM IMPACT MANIAX
+#### KOF MAXIMUM IMPACT MANIAX
 
-[2005年](../Page/2005年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。第1作の調整版で、対戦バランス調整のほか、スクリーンショット撮影や、[Xbox Liveによるネット対戦機能を搭載している](../Page/Xbox_Live.md "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[Xboxで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。第1作をほぼそのままマイナーチェンジした作品で、対戦バランス調整のほか、Xbox版ではリプレイ保存、スクリーンショット撮影、[Xbox Liveによるネット対戦機能を搭載している](../Page/Xbox_Live.md "wikilink")。
 
-[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にはほぼ同内容でPlayStation 2でも発売され、こちらは次作『2』の特典映像が収録されている。オンライン対戦には非対応。[2015年](../Page/2015年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")からは[PS2アーカイブスで配信開始](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にはPlayStation 2でも発売。こちらはXbox版と異なりオンライン対戦や保存機能には非対応で、前作と比較しての新要素はカメラアングルの切り替え機能とボイス再生機能などしかないが、次作『2』の特典映像が収録されている。[2015年](../Page/2015年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")からは[PS2アーカイブスで配信開始](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")。
 
 ### KOF MAXIMUM IMPACT 2
 
@@ -29,7 +29,7 @@
 
 シリーズ初の業務用（[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")）作品。[2007年](../Page/2007年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")稼動。基板は「[Taito Type X2](../Page/Taito_Type_X.md "wikilink")」を使用。
 
-『KOF MAXIMUM IMPACT 2』に業務用のアレンジを施したオリジナル作品（廉価版）で、対戦形式を『KOF』シリーズと同じ3on3のチームバトルへ変更や、対戦バランス調整・技の追加などが施されている。また新キャラクターとして、『KOF2003』以降の「アッシュ編」主人公である[アッシュ・クリムゾン](../Page/アッシュ・クリムゾン.md "wikilink")や、[データイースト](../Page/データイースト.md "wikilink")が開発したゲームのライセンスを取得した[ジー・モード](../Page/ジー・モード.md "wikilink")との[クロスライセンス](https://ja.wikipedia.org/wiki/クロスライセンス "wikilink")契約により[『ファイターズヒストリー』シリーズに登場する](../Page/ファイターズヒストリー.md "wikilink")[溝口誠](../Page/溝口誠.md "wikilink")などが登場する。『MI2』の登場キャラクターは隠しを含めて全員登場するが、アーマーラルフだけは削除されている。
+『KOF MAXIMUM IMPACT 2』をベースにしつつ、対戦形式を『KOF』シリーズと同じ3on3のチームバトルをメインに変更し、対戦バランス調整・技の追加などが施されている。また新キャラクターとして、『KOF2003』以降の「アッシュ編」主人公である[アッシュ・クリムゾン](../Page/アッシュ・クリムゾン.md "wikilink")や、[データイースト](../Page/データイースト.md "wikilink")が開発したゲームのライセンスを取得した[ジー・モード](../Page/ジー・モード.md "wikilink")との[クロスライセンス](https://ja.wikipedia.org/wiki/クロスライセンス "wikilink")契約により[『ファイターズヒストリー』シリーズに登場する](../Page/ファイターズヒストリー.md "wikilink")[溝口誠](../Page/溝口誠.md "wikilink")などが登場する。『MI2』の登場キャラクターは隠しを含めて全員登場するが、アーマーラルフだけは削除されている。
 
 タイトルの"A"には、「アッシュ（**A**sh）、アーケード（**A**rcade）、アレンジ（**A**rrange）」の意味がある。
 
@@ -54,7 +54,7 @@
 
 2Dシリーズとの大きな違いとして、決められたとおりにボタンを押していくことで連続攻撃を出す事ができる**スタイリッシュアート（SA）**が存在することがあげられる。スタイリッシュアートはキャンセル必殺技による連続技やガード崩しなど、バリエーションはキャラクターごとに異なり多岐にわたる。
 
-『MAXIMUM IMPACT 2』では強力なスタイリッシュアートへの対抗手段として相手の攻撃をいなす**さばき**が追加されている。ガード中でも、さばきを出して相手の攻撃を中断・反撃に転じることが可能となっている。
+『MAXIMUM IMPACT 2』からは強力なスタイリッシュアートへの対抗手段として相手の攻撃をいなす**さばき**が追加されている。ガード中でも、さばきを出して相手の攻撃を中断・反撃に転じることが可能となっている。
 
 ## ゲームストーリー
 
@@ -64,22 +64,22 @@
 
 ## 登場人物
 
-グラフィックが3Dになった事で、3D格闘ゲームに準じるように各キャラクターに2Pコスチュームが用意された。2Pコスチュームは、ほとんどのキャラクターで一見すると別人と思われるほどの変化を遂げている。
+グラフィックが3Dになった事で、3D格闘ゲームに準じるように各キャラクターにアナザーコスチュームが用意された。アナザーコスチュームは、ほとんどのキャラクターで一見すると別人と思われるほどの変化を遂げている他、隠しカラーによるバリエーションでは別作品のキャラクターの姿を再現した衣装もある。
 
 ### KOF MAXIMUM IMPACT
 
 #### プレイヤーキャラクター
 
-  - [アルバ・メイラ](../Page/アルバ・メイラ.md "wikilink")
-  - [ソワレ・メイラ](../Page/ソワレ・メイラ.md "wikilink")
+  - [アルバ・メイラ](../Page/アルバ・メイラ.md "wikilink") - 『MI』シリーズで初登場。主人公。
+  - [ソワレ・メイラ](../Page/ソワレ・メイラ.md "wikilink") - 『MI』シリーズで初登場。
   - [草薙京](../Page/草薙京.md "wikilink")
   - [八神庵](../Page/八神庵.md "wikilink")
   - [不知火舞](../Page/不知火舞.md "wikilink")
-  - [リアン・ネヴィル](../Page/リアン・ネヴィル.md "wikilink")
+  - [リアン・ネヴィル](../Page/リアン・ネヴィル.md "wikilink") - 『MI』シリーズで初登場。
   - [麻宮アテナ](../Page/麻宮アテナ.md "wikilink")
-  - [ミニョン・ベアール](../Page/ミニョン・ベアール.md "wikilink")
+  - [ミニョン・ベアール](../Page/ミニョン・ベアール.md "wikilink") - 『MI』シリーズで初登場。
   - [テリー・ボガード](../Page/テリー・ボガード.md "wikilink")
-  - [チェ・リム](https://ja.wikipedia.org/wiki/チェ・リム "wikilink")
+  - [チェ・リム](https://ja.wikipedia.org/wiki/チェ・リム "wikilink") - 『MI』シリーズで初登場。
   - [リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")
   - [ユリ・サカザキ](../Page/ユリ・サカザキ.md "wikilink")
   - [レオナ](../Page/レオナ・ハイデルン.md "wikilink")
@@ -88,18 +88,18 @@
   - [セス](https://ja.wikipedia.org/wiki/セス_\(KOF\) "wikilink")
   - [K'](https://ja.wikipedia.org/wiki/K' "wikilink")
   - [マキシマ](../Page/マキシマ_\(KOF\).md "wikilink")
-  - [ロック・ハワード](../Page/ロック・ハワード.md "wikilink")
+  - [ロック・ハワード](../Page/ロック・ハワード.md "wikilink") - 『[餓狼 MARK OF THE WOLVES](../Page/餓狼_MARK_OF_THE_WOLVES.md "wikilink")』より。
 
 #### ボスキャラクター
 
-  - [デューク](../Page/デューク_\(KOF\).md "wikilink") - 『2』ではデフォルト使用キャラクターになった。
+  - [デューク](../Page/デューク_\(KOF\).md "wikilink") - 『MI』シリーズで初登場。『2』ではデフォルト使用キャラクターになった。
 
 ### KOF MAXIMUM IMPACT 2
 
 #### 追加キャラクター
 
-  - [ルイーゼ・マイリンク](../Page/ルイーゼ・マイリンク.md "wikilink")
-  - [ナガセ](../Page/ナガセ_\(KOF\).md "wikilink")
+  - [ルイーゼ・マイリンク](../Page/ルイーゼ・マイリンク.md "wikilink") - 『MI』シリーズで初登場。
+  - [ナガセ](../Page/ナガセ_\(KOF\).md "wikilink") - 『MI』シリーズで初登場。
   - [ビリー・カーン](../Page/ビリー・カーン.md "wikilink")
   - [クーラ・ダイアモンド](../Page/クーラ・ダイアモンド.md "wikilink")
 
@@ -107,35 +107,35 @@
 
   - [B.ジェニー](../Page/B.ジェニー.md "wikilink")
   - [キム](../Page/キム・カッファン.md "wikilink")
-  - [ニノン・ベアール](../Page/ニノン・ベアール.md "wikilink")
+  - [ニノン・ベアール](../Page/ニノン・ベアール.md "wikilink") - 『MI』シリーズで初登場。
   - [ナイトメア・ギース](../Page/ギース・ハワード.md "wikilink")
-  - [リチャード・マイヤ](https://ja.wikipedia.org/wiki/リチャード・マイヤ "wikilink")
-  - [ハイエナ](../Page/ハイエナ_\(KOF\).md "wikilink")
-  - [リリィ・カーン](https://ja.wikipedia.org/wiki/リリィ・カーン "wikilink")
-  - [服部半蔵](../Page/服部半蔵_\(サムライスピリッツ\).md "wikilink")（[サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink")）
-  - [フィオ](https://ja.wikipedia.org/wiki/フィオ・ジェルミ "wikilink")（[メタルスラッグ](../Page/メタルスラッグ.md "wikilink")）
-  - [ワイルドウルフ](../Page/テリー・ボガード.md "wikilink")
-  - [二代目Mr.カラテ](https://ja.wikipedia.org/wiki/リョウ・サカザキ#『龍虎の拳』『KOF』シリーズ以外での設定 "wikilink")
-  - 草薙京CLASSIC
-  - [アーマーラルフ](https://ja.wikipedia.org/wiki/ラルフ・ジョーンズ#アーマーラルフ "wikilink") - 『REGULATION "A"』には登場しない。
+  - [リチャード・マイヤ](https://ja.wikipedia.org/wiki/リチャード・マイヤ "wikilink") - 『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』より。
+  - [ハイエナ](../Page/ハイエナ_\(KOF\).md "wikilink") - 『MI』シリーズで初登場。『1』ではサブキャラクター。
+  - [リリィ・カーン](https://ja.wikipedia.org/wiki/リリィ・カーン "wikilink") - 『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』より、[ビリー・カーン](../Page/ビリー・カーン.md "wikilink")の妹。
+  - [服部半蔵](../Page/服部半蔵_\(サムライスピリッツ\).md "wikilink") - 『[サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink")』より。
+  - [フィオ](https://ja.wikipedia.org/wiki/フィオ・ジェルミ "wikilink") - 『[メタルスラッグ](../Page/メタルスラッグ.md "wikilink")』より。
+  - [ワイルドウルフ](../Page/テリー・ボガード.md "wikilink") - テリーの別バージョン。
+  - [二代目Mr.カラテ](https://ja.wikipedia.org/wiki/リョウ・サカザキ#『龍虎の拳』『KOF』シリーズ以外での設定 "wikilink") - リョウの別バージョン。
+  - 草薙京CLASSIC - 京の別バージョン。
+  - [アーマーラルフ](https://ja.wikipedia.org/wiki/ラルフ・ジョーンズ#アーマーラルフ "wikilink") - ラルフの別バージョン。『REGULATION "A"』には登場しない。
 
 #### ボスキャラクター
 
-  - [ジヴァートマ](../Page/ジヴァートマ.md "wikilink")
+  - [ジヴァートマ](../Page/ジヴァートマ.md "wikilink") - 『MI』シリーズで初登場。
 
 ### KOF MAXIMUM IMPACT REGULATION "A"
 
-『2』のアーマーラルフを除く全キャラクターが最初から使用可能。3on3形式だがデフォルトチームは設定されていない。
+『2』のアーマーラルフを除く全キャラクターが最初から使用可能。3on3形式だが、最終ボスを除いてデフォルトチームは設定されていない。
 
 #### 追加キャラクター
 
   - [アッシュ・クリムゾン](../Page/アッシュ・クリムゾン.md "wikilink")
   - [ブルー・マリー](../Page/ブルー・マリー.md "wikilink")
-  - [笑龍](../Page/シャオロン_\(KOF\).md "wikilink")
+  - [笑龍](../Page/シャオロン_\(KOF\).md "wikilink") - 『MI』シリーズで初登場。
 
 #### ボスキャラクター
 
-  - [溝口誠](../Page/溝口誠.md "wikilink")（[ファイターズヒストリー](../Page/ファイターズヒストリー.md "wikilink")） - 隠しボス。最初から使用可能。
+  - [溝口誠](../Page/溝口誠.md "wikilink") - 『[ファイターズヒストリー](../Page/ファイターズヒストリー.md "wikilink")』より。隠しボス。最初から使用可能。
 
 通常の最終ボスはデューク、ギース、ジヴァートマがチームを組んで登場し、12分以内にクリアすると溝口が現れる。
 

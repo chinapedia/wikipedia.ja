@@ -38,7 +38,7 @@
       - STEVE REID - CONGAS, PERCUSSION AND SOUNDSCAPE（\#1, \#2, \#5, \#6, \#7, \#8, \#10）
       - [荒木敏男](https://ja.wikipedia.org/wiki/荒木敏男 "wikilink") - TRUMPET（\#1, \#3, \#4, \#6）
       - [小林正弘](../Page/小林正弘.md "wikilink") - TRUMPET（\#1, \#3, \#4, \#6, \#8, \#9）
-      - MASAHIKO SUGASAKA - TRUMPET（\#8, \#9）
+      - [菅坂雅彦](https://ja.wikipedia.org/wiki/菅坂雅彦 "wikilink") - TRUMPET（\#8, \#9）
       - [山本拓夫](../Page/山本拓夫.md "wikilink") - TENOR SAXOPHONE（\#1, \#3, \#4, \#6）
       - [村田陽一](../Page/村田陽一.md "wikilink") - TROMBONE（\#4, \#6, \#8, \#9）
       - [中西俊博](../Page/中西俊博.md "wikilink")グループ - STRINGS（\#10）

@@ -25,16 +25,16 @@
 
 ## ラジオ
 
-※2010年4月現在
+※2020年4月現在
 
-  - （平日）9:00・10:00・11:00・13:00・14:00・15:00・17:48\[1\]
-  - （土曜）7:55・11:55・16:00\[2\]・17:00
-  - （日曜）14:55・17:55
+  - （平日）7:35 / 9:00・10:00・11:00（『あさドレッ\!わいど』（月曜 - 木曜）内 / 『ぶちぬきFRIDAY』（金曜）内） / 13:00 / 14:00・15:00（『笑ジオ』（月曜 - 木曜）内 / 『ぶちぬきFRIDAY』（金曜）内） / 17:48\[1\]
+  - （土曜）11:55（『[ゴッドアフタヌーン アッコのいいかげんに1000回](../Page/ゴッドアフタヌーン_アッコのいいかげんに1000回.md "wikilink")』内） / 13:55（『[ロンドンブーツ1号2号 田村淳のNewsCLUB](https://ja.wikipedia.org/wiki/ロンドンブーツ1号2号_田村淳のNewsCLUB "wikilink")』内） / 16:00\[2\] / 17:00
+  - （日曜）13:55・14:55（『[中村こずえのSUNDAY HAPPY MAP](https://ja.wikipedia.org/wiki/中村こずえのSUNDAY_HAPPY_MAP "wikilink")』内） / 17:55
 
-出典：[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")刊『[ラジオ番組表](../Page/ラジオ番組表.md "wikilink") 2010年春号』
+<!-- end list -->
 
   -
-    00分開始のニュース枠には専用のジングル（「Just In Time RKC」\[3\]）があり、時報に続けて流れる。
+    00分開始の枠には専用のジングル（「Just In Time RKC」\[3\]）があり、時報に続けて流れる。
 
 ## 脚注
 
@@ -48,6 +48,6 @@
 
 [Category:高知放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:高知放送のテレビ番組 "wikilink") [Category:高知放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:高知放送のラジオ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:ラジオの帯番組](https://ja.wikipedia.org/wiki/Category:ラジオの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:NNNストレイトニュース](https://ja.wikipedia.org/wiki/Category:NNNストレイトニュース "wikilink") [Category:NNN_Newsリアルタイム](https://ja.wikipedia.org/wiki/Category:NNN_Newsリアルタイム "wikilink")
 
-1.  平日17:48のニュースはRKCラジオ夕刊として放送。
-2.  土曜 16:00のニュースは「園芸連情報」終了後に放送。
+1.  『RKCラジオ夕刊』として放送。
+2.  「園芸販売情報」終了後に放送。
 3.  かつて[ABCラジオ](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")に存在した『[ジャスポンニュース](https://ja.wikipedia.org/wiki/ABC朝日ニュース#かつての「ジャスポンニュース」 "wikilink")』に似た形式。

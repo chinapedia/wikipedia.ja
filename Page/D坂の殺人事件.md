@@ -27,7 +27,7 @@
 
 作中での明智の「君は、ポーの『[ル・モルグ](../Page/モルグ街の殺人.md "wikilink")』やルルーの『[黄色い部屋](../Page/黄色い部屋の秘密.md "wikilink")』などの材料になった、あのパリのRose Delacourt事件を知っているでしょう。」という台詞は、乱歩が『[ストランド・マガジン](../Page/ストランド・マガジン.md "wikilink")』1915年10月号に掲載された、「"Originality in Murder"」（[George Robert Sims著](https://ja.wikipedia.org/wiki/:en:George_Robert_Sims "wikilink")）という記事を参考にしたものである\[2\]。
 
-本作と次作『[心理試験](../Page/心理試験.md "wikilink")』の出来栄えを高く評価した[森下雨村](https://ja.wikipedia.org/wiki/森下雨村 "wikilink")は、乱歩が専業作家になることを応援する試みとして『新青年』誌上で6ヶ月連続短編連載を企画した。本作の掲載は以降、『[心理試験](../Page/心理試験.md "wikilink")』（2月号）、『[黒手組](https://ja.wikipedia.org/wiki/黒手組_\(江戸川乱歩\) "wikilink")』（3月号）、『[赤い部屋](https://ja.wikipedia.org/wiki/赤い部屋 "wikilink")』（4月号）、『幽霊』（5月号）、（6月号は休載）、『白昼夢』、『指輪』（7月号）、『[屋根裏の散歩者](https://ja.wikipedia.org/wiki/屋根裏の散歩者 "wikilink")』（8月増刊号）と続き、探偵小説家としての名を揺るぎないものとした。本作は乱歩自身も「私の短編の代表的なものに属する」と位置付けている。初出誌『新青年』では、冒頭に次のような編集部の一文が載せられた。
+本作と次作『[心理試験](../Page/心理試験.md "wikilink")』の出来栄えを高く評価した[森下雨村](https://ja.wikipedia.org/wiki/森下雨村 "wikilink")は、乱歩が専業作家になることを応援する試みとして『新青年』誌上で6ヶ月連続短編連載を企画した。本作の掲載は以降、『[心理試験](../Page/心理試験.md "wikilink")』（2月号）、『[黒手組](https://ja.wikipedia.org/wiki/黒手組_\(江戸川乱歩\) "wikilink")』（3月号）、『[赤い部屋](../Page/赤い部屋.md "wikilink")』（4月号）、『幽霊』（5月号）、（6月号は休載）、『白昼夢』、『指輪』（7月号）、『[屋根裏の散歩者](https://ja.wikipedia.org/wiki/屋根裏の散歩者 "wikilink")』（8月増刊号）と続き、探偵小説家としての名を揺るぎないものとした。本作は乱歩自身も「私の短編の代表的なものに属する」と位置付けている。初出誌『新青年』では、冒頭に次のような編集部の一文が載せられた。
 
 また本作末尾には、乱歩の次のような「作者付記」が載せられた。
 

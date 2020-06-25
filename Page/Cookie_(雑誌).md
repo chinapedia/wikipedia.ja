@@ -13,16 +13,16 @@
 
 ## 現在の連載中の作品
 
-※ 2020年3月26日（2020年5月号）現在。作品名五十音順。
+※ 2020年5月26日（2020年7月号）現在。作品名五十音順。
 
-  - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")（原作:[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")、漫画:[シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink")）：2019年1月号 -
+  - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")（原作：[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")、漫画：[シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink")）：2019年1月号 -
   - [きのう、きょう、あした](https://ja.wikipedia.org/wiki/きのう、きょう、あした "wikilink")（[如月園](https://ja.wikipedia.org/wiki/如月園 "wikilink")）：2018年7月号 -
   - [グッドモーニング・キス](../Page/グッドモーニング・コール.md "wikilink")（[高須賀由枝](../Page/高須賀由枝.md "wikilink")）※『Cookie BOX』2006年初夏号 - 2008年秋号を経て本誌へ移動：2009年3月号 -
   - [孤食ロボット](https://ja.wikipedia.org/wiki/孤食ロボット "wikilink")（[岩岡ヒサエ](../Page/岩岡ヒサエ.md "wikilink")）※『[ジャンプ改](https://ja.wikipedia.org/wiki/ジャンプ改 "wikilink")』（集英社）より移籍：2015年1月号 -
-  - [これは経費で落ちません\!](https://ja.wikipedia.org/wiki/これは経費で落ちません! "wikilink")（原作:[青木祐子](../Page/青木祐子.md "wikilink")、漫画:[森こさち](https://ja.wikipedia.org/wiki/森こさち "wikilink")）：2018年1月号 -
-  - [サロン・ド・ディスコ](https://ja.wikipedia.org/wiki/サロン・ド・ディスコ "wikilink")（[碧](https://ja.wikipedia.org/wiki/碧（漫画家） "wikilink")）：2020年3月号 -
+  - [これは経費で落ちません！](https://ja.wikipedia.org/wiki/これは経費で落ちません！ "wikilink")（原作:[青木祐子](../Page/青木祐子.md "wikilink")、漫画:[森こさち](https://ja.wikipedia.org/wiki/森こさち "wikilink")）：2018年1月号 -
+  - [サロン・ド・ディスコ](https://ja.wikipedia.org/wiki/サロン・ド・ディスコ "wikilink")（[碧](https://ja.wikipedia.org/wiki/碧（漫画家） "wikilink")）：2020年3月号 - 2020年7月号
   - [好いも甘いも](https://ja.wikipedia.org/wiki/好いも甘いも "wikilink")（[小藤まつ](https://ja.wikipedia.org/wiki/小藤まつ "wikilink")）：2019年7月号 -
-  - [長森くんの結婚](https://ja.wikipedia.org/wiki/長森くんの結婚 "wikilink")（[あいざわ遥](../Page/あいざわ遥.md "wikilink")）：2020年5月号 -
+  - [長森くんの結婚](https://ja.wikipedia.org/wiki/長森くんの結婚 "wikilink")（[あいざわ遥](../Page/あいざわ遥.md "wikilink")）：2020年5月号 - 2020年7月号
   - [ハイヒールをはいた猫 ルブたん](https://ja.wikipedia.org/wiki/ハイヒールをはいた猫_ルブたん "wikilink")（[鳥海りさこ](https://ja.wikipedia.org/wiki/鳥海りさこ "wikilink")）：2016年7月号 -
   - [ハコイリのムスメ](https://ja.wikipedia.org/wiki/ハコイリのムスメ "wikilink")（[池谷理香子](https://ja.wikipedia.org/wiki/池谷理香子 "wikilink")）：2015年5月号 -
   - [初めて恋をした日に読む話](https://ja.wikipedia.org/wiki/初めて恋をした日に読む話 "wikilink")（[持田あき](../Page/持田あき.md "wikilink")）：2016年7月号 -
@@ -32,11 +32,11 @@
   - [ボードレールの猫](https://ja.wikipedia.org/wiki/ボードレールの猫 "wikilink")（[生藤由美](https://ja.wikipedia.org/wiki/生藤由美 "wikilink")）：2020年1月号 -
   - [僕の家においで Wedding](https://ja.wikipedia.org/wiki/僕の家においで_Wedding "wikilink")（[優木なち](../Page/優木なち.md "wikilink")）：2017年7月号 -
   - [まゆみ\!\!2020〜再婚〜](https://ja.wikipedia.org/wiki/まゆみ!!2020〜再婚〜 "wikilink")（[田辺真由美](../Page/田辺真由美.md "wikilink")）：2020年1月号 -
-  - [まんだん\!](https://ja.wikipedia.org/wiki/まんだん! "wikilink")（[櫻井リヤ](https://ja.wikipedia.org/wiki/櫻井リヤ "wikilink")）：2017年9月号 -
+  - [まんだん！](https://ja.wikipedia.org/wiki/まんだん！ "wikilink")（[櫻井リヤ](https://ja.wikipedia.org/wiki/櫻井リヤ "wikilink")）：2017年9月号 -
   - [三日月と流れ星](https://ja.wikipedia.org/wiki/三日月と流れ星 "wikilink")（[椎名あゆみ](../Page/椎名あゆみ.md "wikilink")）※2014年9月号読切を経て連載：2015年1月号 -
-  - [もしもしカメさん](https://ja.wikipedia.org/wiki/もしもしカメさん "wikilink")（[山本カエル](https://ja.wikipedia.org/wiki/山本カエル "wikilink")）：2017年9月号 - 2020年5月号
   - [林檎と蜂蜜walk](../Page/林檎と蜂蜜_\(漫画\).md "wikilink")（[宮川匡代](../Page/宮川匡代.md "wikilink")）：2009年6月号 -
   - [レポまんが なんかおもしろいことして](https://ja.wikipedia.org/wiki/レポまんが_なんかおもしろいことして "wikilink")（櫻井リヤ）：2019年7月号 -
+  - [ローズ ローズィ ローズフル バッド](https://ja.wikipedia.org/wiki/ローズ_ローズィ_ローズフル_バッド "wikilink")（[いくえみ綾](../Page/いくえみ綾.md "wikilink")）：2020年7月号
 
 ### 不定期連載
 
@@ -190,6 +190,7 @@
   - [『未』成熟](https://ja.wikipedia.org/wiki/『未』成熟 "wikilink")（Maria）：2016年3月号 - 2020年3月号
   - [妙齢ですから](https://ja.wikipedia.org/wiki/妙齢ですから "wikilink")（[田島ハル](https://ja.wikipedia.org/wiki/田島ハル "wikilink")）：2013年1月 - 2016年7月号
   - モザイクの魚（あいざわ遥）
+  - [もしもしカメさん](https://ja.wikipedia.org/wiki/もしもしカメさん "wikilink")（[山本カエル](https://ja.wikipedia.org/wiki/山本カエル "wikilink")）：2017年9月号 - 2020年5月号
   - モロッコ100丁目（田島ハル）
   - [汚れてる暇なんかない](../Page/汚れてる暇なんかない.md "wikilink")（石田拓実）：2000年10月号 - 2002年10月号
   - [LIPS](https://ja.wikipedia.org/wiki/LIPS_\(漫画\) "wikilink")（[よねやませつこ](https://ja.wikipedia.org/wiki/よねやませつこ "wikilink")、応援：[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")、シナリオ：[神楽坂淳](https://ja.wikipedia.org/wiki/神楽坂淳 "wikilink")）：2011年3月号 - 11月号

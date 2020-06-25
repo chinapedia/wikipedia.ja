@@ -92,7 +92,7 @@
 
 ## 脚注
 
-[Category:2001年の小説](https://ja.wikipedia.org/wiki/Category:2001年の小説 "wikilink") [Category:日本の推理小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の推理小説のシリーズ "wikilink") [Category:富士見ミステリー文庫](https://ja.wikipedia.org/wiki/Category:富士見ミステリー文庫 "wikilink") [Category:タイムトラベル小説](https://ja.wikipedia.org/wiki/Category:タイムトラベル小説 "wikilink")
+[Category:2001年の小説](https://ja.wikipedia.org/wiki/Category:2001年の小説 "wikilink") [Category:日本の推理小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の推理小説のシリーズ "wikilink") [Category:富士見ミステリー文庫](https://ja.wikipedia.org/wiki/Category:富士見ミステリー文庫 "wikilink") [Category:タイムトラベル小説](https://ja.wikipedia.org/wiki/Category:タイムトラベル小説 "wikilink") [Category:曜日を題材とした作品](https://ja.wikipedia.org/wiki/Category:曜日を題材とした作品 "wikilink")
 
 1.
 2.

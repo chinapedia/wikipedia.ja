@@ -25,6 +25,42 @@
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[ニューヨーク](../Page/ニューヨーク.md "wikilink")にあるビルの屋上で撮影されたもので、中にはメンバーが野球をしているシーンも見受けられる。因みに、5thアルバム『[深海](../Page/深海_\(アルバム\).md "wikilink")』の収録曲の中でシングル曲を含め、唯一ミュージック・ビデオが作成されている楽曲である。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月25日](../Page/4月25日.md "wikilink")発売の『[music clips ALIVE](https://ja.wikipedia.org/wiki/music_clips_ALIVE "wikilink")』、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は[中野裕之](../Page/中野裕之.md "wikilink")。
         [2001年](../Page/2001年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発売された20thシングル「[優しい歌](../Page/優しい歌_\(Mr.Childrenの曲\).md "wikilink")」のカップリングにリメイクバージョンが収録された。リメイクバージョンは副題が外されており、
 
+## ライブ映像作品
+
+### 花 -Mémento-Mori-
+
+<table>
+<thead>
+<tr class="header">
+<th><p>作品名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/regress_or_progress_&#39;96-&#39;97_tour_final_IN_TOKYO_DOME" title="wikilink">regress or progress '96-'97 tour final IN TOKYO DOME</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Mr.Children_TOUR_&#39;99_DISCOVERY.md" title="wikilink">Mr.Children TOUR '99 DISCOVERY</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_&quot;SENSE&quot;" title="wikilink">Mr.Children TOUR 2011 "SENSE"</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION｛Live&amp;Film｝" title="wikilink">Mr.Children REFLECTION｛Live&amp;Film｝</a></p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION" title="wikilink">Mr.Children REFLECTION』に収録</a></p>
+<p>弾き語りで演奏された</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_Tour_2018-19_重力と呼吸" title="wikilink">Mr.Children Tour 2018-19 重力と呼吸</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 収録アルバム
 
   - 『[深海](../Page/深海_\(アルバム\).md "wikilink")』 (\#1)

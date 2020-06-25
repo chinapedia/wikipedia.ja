@@ -1,7 +1,7 @@
 > この記事は[WANT ME, WANT ME](https://ja.wikipedia.org/wiki/WANT_ME,_WANT_ME)から翻訳されています。
 
 
-「**WANT ME, WANT ME**」（ウォント・ミー・ウォント・ミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では29枚目のシングルである。
+「**WANT ME, WANT ME**」（ウォント・ミー・ウォント・ミー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では29枚目のシングル。
 
 ## 解説
 

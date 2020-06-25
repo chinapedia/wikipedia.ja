@@ -59,9 +59,10 @@
 
 1.  自社（もしくは関連子会社の[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")（YTE））製作または製作協力作品
 2.  [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")製作作品（[詳細](../Page/日本テレビの深夜アニメ枠.md "wikilink")）
-3.  [UHFアニメ](../Page/UHFアニメ.md "wikilink")
-4.  [再放送](../Page/再放送.md "wikilink")作品
-5.  [若手アニメーター育成プロジェクト](https://ja.wikipedia.org/wiki/若手アニメーター育成プロジェクト "wikilink")（アニメミライ→あにめたまご）の作品\[4\]
+3.  日本テレビ系列局以外のその他の放送局製作作品
+4.  [UHFアニメ](../Page/UHFアニメ.md "wikilink")
+5.  [再放送](../Page/再放送.md "wikilink")作品
+6.  [若手アニメーター育成プロジェクト](https://ja.wikipedia.org/wiki/若手アニメーター育成プロジェクト "wikilink")（アニメミライ→あにめたまご）の作品\[4\]
 
 ### 放送中
 
@@ -78,6 +79,10 @@
 :\* [アルテ](https://ja.wikipedia.org/wiki/アルテ_\(漫画\) "wikilink")（2020年4月7日 - 、TOKYO MX・BSフジ）
 
 ### 放送予定
+
+  - 第1部
+
+:\* [魔王学院の不適合者 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜](https://ja.wikipedia.org/wiki/魔王学院の不適合者_〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜 "wikilink")（2020年7月7日 - ）
 
   - 未定
 
@@ -642,7 +647,7 @@
 </tbody>
 </table>
 
-#### UHFアニメ（外部製作）
+#### その他の放送局製作
 
 <table>
 <thead>
@@ -656,40 +661,10 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/薄桜鬼_黎明録" title="wikilink">薄桜鬼 黎明録</a></p></td>
-<td><p>2012年7月10日 - 9月25日</p></td>
-<td><p>第3部（2:53 - 3:23）</p></td>
-<td><p>-</p></td>
-<td><p>本局が最速放送。第1期『薄桜鬼』・第2期『薄桜鬼 碧血録』は関西圏ではサンテレビ・KBS京都でネットされていた。<br />
-本局としては初の純然たる外部製作UHFアニメとなる。</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/機巧少女は傷つかない" title="wikilink">機巧少女は傷つかない</a></p></td>
 <td><p>2013年10月8日 - 12月24日</p></td>
 <td><p>第2部（2:12 - 2:42）</p></td>
 <td><p>AT-X</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/バディ・コンプレックス" title="wikilink">バディ・コンプレックス</a></p></td>
-<td><p>2014年1月7日 - 4月1日</p></td>
-<td><p>第2部（2:29 - 2:59）</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>ラブライブ!（第2期）</p></td>
-<td><p>2014年4月8日 - 7月1日</p></td>
-<td><p>第1期ではYTEが協力として参加していたが、本作では不参加となっており外部製作のUHFアニメとなっている。<br />
-『[[ラブライブ!サンシャイン</p></td>
-<td><p>|ラブライブ!サンシャイン</p></td>
-<td><p>]]』は関西圏ではサンテレビ・KBS京都・NHK Eテレで放送。</p></td>
-</tr>
-<tr class="odd">
-<td><p>バディ・コンプレックス 完結編 -あの空に還る未来で-</p></td>
-<td><p>2014年9月30日 - 10月7日</p></td>
-<td><p>第2部（2:41 - 3:11）</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -700,13 +675,6 @@
 <td><p>第3部（2:59 - 3:29）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山田くんと7人の魔女" title="wikilink">山田くんと7人の魔女</a></p></td>
-<td><p>2015年4月14日 - 6月30日</p></td>
-<td><p>第1部（1:59 - 2:29）</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/赤髪の白雪姫.md" title="wikilink">赤髪の白雪姫</a></p></td>
 <td><p>2015年7月7日 - 9月22日<br />
 2016年1月12日 - 3月29日</p></td>
@@ -714,28 +682,28 @@
 <td><p><a href="../Page/BSフジ.md" title="wikilink">BSフジ</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SHOW BY ROCK</p></td>
 <td><p>しょ〜と</p></td>
 <td></td>
 <td><p>2016年7月5日 - 9月20日</p></td>
 <td><p>第3部（2:59 - 3:04）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モブサイコ100" title="wikilink">モブサイコ100</a></p></td>
 <td><p>2016年7月12日 - 9月27日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>BSフジ</p></td>
 <td><p>第2期は<a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a>『<a href="https://ja.wikipedia.org/wiki/水もん" title="wikilink">水もん</a>』枠で放送。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SHOW BY ROCK</p></td>
 <td><p>#</p></td>
 <td><p>2016年10月4日 - 12月20日</p></td>
 <td><p>第3部（2:59 - 3:29）</p></td>
 <td><p>TOKYO MX</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_(アニメ)" title="wikilink">僕のヒーローアカデミア</a>（第1期）</p></td>
 <td><p>2017年1月10日 - 3月28日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
@@ -743,45 +711,38 @@
 <td><p><a href="../Page/広域放送.md" title="wikilink">関西圏では実質再放送</a>。<br />
 第2期以降は<a href="https://ja.wikipedia.org/wiki/読売テレビ制作土曜夕方5時30分枠のアニメ" title="wikilink">土曜夕方枠で放送</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/笑ゥせぇるすまんNEW" title="wikilink">笑ゥせぇるすまんNEW</a></p></td>
 <td><p>2017年4月4日 - 6月20日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>TOKYO MX</p></td>
 <td><p>『あにめのめ』レーベル作品。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/潔癖男子!青山くん" title="wikilink">潔癖男子！青山くん</a></p></td>
 <td><p>2017年7月4日 - 9月19日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/妖怪アパートの幽雅な日常" title="wikilink">妖怪アパートの幽雅な日常</a></p></td>
 <td><p>2017年7月4日 - 12月26日</p></td>
 <td><p>第1部（1:59 - 2:29）</p></td>
 <td><p>BS11</p></td>
 <td><p>『あにめのめ』レーベル作品。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ネト充のススメ" title="wikilink">ネト充のススメ</a></p></td>
 <td><p>2017年10月10日 - 12月12日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>TOKYO MX</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/からかい上手の高木さん" title="wikilink">からかい上手の高木さん</a></p></td>
-<td><p>2018年1月9日 - 3月27日</p></td>
-<td><p>第1部（1:59 - 2:29）</p></td>
-<td><p>-</p></td>
-<td><p>『あにめのめ』レーベル作品。</p></td>
-</tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンカムイ" title="wikilink">ゴールデンカムイ</a>（第一期）</p></td>
 <td><p>2018年4月10日 - 6月26日</p></td>
-<td><p>TOKYO MX</p></td>
+<td><p>第1部（1:59 - 2:29）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -807,20 +768,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>からかい上手の高木さん２</p></td>
-<td><p>2019年7月9日 - 9月24日</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鬼滅の刃" title="wikilink">鬼滅の刃</a></p></td>
-<td><p>2019年4月9日 - 10月1日</p></td>
-<td><p>第1部（1:59 - 2:29）</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺を好きなのはお前だけかよ" title="wikilink">俺を好きなのはお前だけかよ</a></p></td>
 <td><p>2019年10月8日 - 12月31日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
@@ -835,6 +782,71 @@ BS11</p></td>
 <td><p>TOKYO MX<br />
 BS11<br />
 AT-X</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### UHFアニメ
+
+<table>
+<thead>
+<tr class="header">
+<th><p>作品名</p></th>
+<th><p>放送期間</p></th>
+<th><p>放送時間</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/薄桜鬼_黎明録" title="wikilink">薄桜鬼 黎明録</a></p></td>
+<td><p>2012年7月10日 - 9月25日</p></td>
+<td><p>第3部（2:53 - 3:23）</p></td>
+<td><p>本局が最速放送。第1期『薄桜鬼』・第2期『薄桜鬼 碧血録』は関西圏ではサンテレビ・KBS京都でネットされていた。<br />
+本局としては初の純然たる外部製作UHFアニメとなる。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/バディ・コンプレックス" title="wikilink">バディ・コンプレックス</a></p></td>
+<td><p>2014年1月7日 - 4月1日</p></td>
+<td><p>第2部（2:29 - 2:59）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラブライブ!（第2期）</p></td>
+<td><p>2014年4月8日 - 7月1日</p></td>
+<td><p>第1期ではYTEが協力として参加していたが、本作では不参加となっており外部製作のUHFアニメとなっている。<br />
+『[[ラブライブ!サンシャイン</p></td>
+<td><p>|ラブライブ!サンシャイン</p></td>
+</tr>
+<tr class="even">
+<td><p>バディ・コンプレックス 完結編 -あの空に還る未来で-</p></td>
+<td><p>2014年9月30日 - 10月7日</p></td>
+<td><p>第2部（2:41 - 3:11）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/山田くんと7人の魔女" title="wikilink">山田くんと7人の魔女</a></p></td>
+<td><p>2015年4月14日 - 6月30日</p></td>
+<td><p>第1部（1:59 - 2:29）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/からかい上手の高木さん" title="wikilink">からかい上手の高木さん</a></p></td>
+<td><p>2018年1月9日 - 3月27日</p></td>
+<td><p>『あにめのめ』レーベル作品。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>からかい上手の高木さん２</p></td>
+<td><p>2019年7月9日 - 9月24日</p></td>
+<td><p>第2部（2:29 - 2:59）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/鬼滅の刃" title="wikilink">鬼滅の刃</a></p></td>
+<td><p>2019年4月9日 - 10月1日</p></td>
+<td><p>第1部（1:59 - 2:29）</p></td>
 <td></td>
 </tr>
 </tbody>

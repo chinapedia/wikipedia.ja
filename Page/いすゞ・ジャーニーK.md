@@ -74,7 +74,7 @@ P-LR312F
 
 #### U-LR系
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[平成元年排出ガス規制に適合](https://ja.wikipedia.org/wiki/自動車排出ガス規制#日本 "wikilink")。[ラジエーター](../Page/ラジエーター.md "wikilink")[グリルの位置が変更された](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")（ターボ車は除く）。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[平成元年排出ガス規制に適合](https://ja.wikipedia.org/wiki/自動車排出ガス規制#日本 "wikilink")。[ラジエーター](../Page/ラジエーター.md "wikilink")[グリルの位置が変更された](../Page/フロントグリル.md "wikilink")（ターボ車は除く）。
 
 型式は以下のとおり。※ターボ車は普通尺（J尺、ホイールベース4.3m）のみ。
 

@@ -112,7 +112,7 @@
   - [2006年](../Page/2006年.md "wikilink")（平成18年）、『[ますだおかだのオールナイトニッポン](../Page/ますだおかだのオールナイトニッポン.md "wikilink")』のエンディングテーマ曲として起用。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）11月に公開された映画『[ハンサム★スーツ](../Page/ハンサム★スーツ.md "wikilink")』の主題歌として起用。
   - [2013年](../Page/2013年.md "wikilink")（平成25年）[MBS](../Page/毎日放送.md "wikilink")『[水野真紀の魔法のレストランR](../Page/水野真紀の魔法のレストランR.md "wikilink")』「新100人の料理人\!レボリューション」のエンディンクテーマとしてオーケストラVer.を使用。
-  - 2013年（平成25年）日本テレビ系『[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")』「株主優待で暮らす桐谷さんシリーズ」のコーナーで桐谷さんが自転車を全力で漕ぐ際に度々使用されている。
+  - 2013年（平成25年）日本テレビ系『[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")』「[株主優待で暮らす桐谷さんシリーズ](https://ja.wikipedia.org/wiki/月曜から夜ふかし#株主優待で暮らす桐谷さんシリーズ "wikilink")」のコーナーで[桐谷さんが自転車を全力で漕ぐ際に度々使用されている](https://ja.wikipedia.org/wiki/桐谷広人 "wikilink")。
   - [2020年](../Page/2020年.md "wikilink")（令和2年）[BSテレ東](../Page/BSテレビ東京.md "wikilink")「[真夜中ドラマ](https://ja.wikipedia.org/wiki/真夜中ドラマ "wikilink")」『[ハイポジ 1986年、二度目の青春。](https://ja.wikipedia.org/wiki/ハイポジ_\(漫画\)#テレビドラマ "wikilink")』最終回で挿入歌として使用\[8\]。
 
 ## 同曲のカバーアーティスト

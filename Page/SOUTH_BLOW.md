@@ -314,7 +314,7 @@ VICL-36237:通常盤</p></td>
 
 ## 関連項目
 
-  - [SCHOOL OF LOCK\!KING](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") OF ROOKIE
+  - [SCHOOL OF LOCK\!KING](../Page/SCHOOL_OF_LOCK!.md "wikilink") OF ROOKIE
   - [ナニワ音楽ショウ](../Page/ナニワ音楽ショウ.md "wikilink")
 
 ## 外部リンク

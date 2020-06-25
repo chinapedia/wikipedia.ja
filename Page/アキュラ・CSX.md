@@ -11,7 +11,7 @@ EL同様にカナダの[オンタリオ州](../Page/オンタリオ州.md "wikil
 
 2006年11月には「Type-S」が追加された。基本的に北米仕様シビック「Si」と同様で、197hpのK20Z3には6速[MTとヘリカル](../Page/マニュアルトランスミッション.md "wikilink")[LSDが組み合されている](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")。[サスペンション](../Page/サスペンション.md "wikilink")にはスポーツ[チューンが施され](https://ja.wikipedia.org/wiki/チューニング "wikilink")、215/45 R17サイズの[タイヤ](../Page/タイヤ.md "wikilink")が装着されている。
 
-[2009年](../Page/2009年.md "wikilink")、アキュラのトレンドに合わせ、「パワープレミアムグリル」と名付けられた新意匠の[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")の採用、[ヘッドランプユニット内を](../Page/前照灯.md "wikilink")[クローム](https://ja.wikipedia.org/wiki/クローム "wikilink")から黒へ、[リアコンビランプを丸形から八角形へ](../Page/尾灯.md "wikilink")、など、外観の変更が行われた。
+[2009年](../Page/2009年.md "wikilink")、アキュラのトレンドに合わせ、「パワープレミアムグリル」と名付けられた新意匠の[フロントグリル](../Page/フロントグリル.md "wikilink")の採用、[ヘッドランプユニット内を](../Page/前照灯.md "wikilink")[クローム](https://ja.wikipedia.org/wiki/クローム "wikilink")から黒へ、[リアコンビランプを丸形から八角形へ](../Page/尾灯.md "wikilink")、など、外観の変更が行われた。
 
 ## 搭載エンジン
 

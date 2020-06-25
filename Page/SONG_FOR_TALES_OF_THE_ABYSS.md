@@ -22,7 +22,7 @@
 1.  '''譜歌 〜quartet〜 '''
 2.  **meaning of birth**
       -
-        『カルマ』のオーケストラバージョン。このアルバムの中で（『カルマ』除く）、最も早くラジオで解禁された曲。その番組は『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』。
+        『カルマ』のオーケストラバージョン。このアルバムの中で（『カルマ』除く）、最も早くラジオで解禁された曲。その番組は『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』。
 3.  **promise**
 4.  **time to raise the cross**
       -

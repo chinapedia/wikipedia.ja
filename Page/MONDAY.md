@@ -54,4 +54,4 @@
   -
   -
   -
-[Category:2000年の映画](https://ja.wikipedia.org/wiki/Category:2000年の映画 "wikilink") [Category:SABUの監督映画](https://ja.wikipedia.org/wiki/Category:SABUの監督映画 "wikilink")
+[Category:2000年の映画](https://ja.wikipedia.org/wiki/Category:2000年の映画 "wikilink") [Category:SABUの監督映画](https://ja.wikipedia.org/wiki/Category:SABUの監督映画 "wikilink") [Category:曜日を題材とした作品](https://ja.wikipedia.org/wiki/Category:曜日を題材とした作品 "wikilink")

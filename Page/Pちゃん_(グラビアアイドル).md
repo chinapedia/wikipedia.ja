@@ -89,6 +89,9 @@ AVデビューから約1年後の[2010年](https://ja.wikipedia.org/wiki/2010年
   - [Pちゃんオフィシャルブログ](http://www.diamondblog.jp/official/p-chan/)
   - [オフィシャルブログ「風子の風まかせ〜♪」](http://blog.livedoor.jp/you_got_served/)（旧サイト）
 
+※以下は、[18禁サイト](https://ja.wikipedia.org/wiki/成人向け "wikilink")
+
+  -
 [Category:1988年生](https://ja.wikipedia.org/wiki/Category:1988年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:日本のアイドル](https://ja.wikipedia.org/wiki/Category:日本のアイドル "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:MUTEKI](https://ja.wikipedia.org/wiki/Category:MUTEKI "wikilink") [Category:S1女優](https://ja.wikipedia.org/wiki/Category:S1女優 "wikilink")
 
 1.  [風子（ふうこ） - 芸能人専門メーカー「MUTEKI」公式サイト](https://www.mutekimuteki.com/actress/detail/23933/)

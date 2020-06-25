@@ -1,7 +1,7 @@
 > この記事は[DOWAホールディングス](https://ja.wikipedia.org/wiki/DOWAホールディングス)から翻訳されています。
 
 
-**DOWAホールディングス株式会社**（どうわホールディングス、[英社名](../Page/英語.md "wikilink")：*DOWA Holdings Co., Ltd.*）は、[非鉄金属](../Page/非鉄金属.md "wikilink")の[製錬](../Page/製錬.md "wikilink")、[加工](../Page/金属加工.md "wikilink")、[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")を主たる業務とする\[1\][DOWAグループの](https://ja.wikipedia.org/wiki/#DOWAグループ "wikilink")[持株会社](../Page/持株会社.md "wikilink")\[2\]。旧社名**同和鉱業**。かつては「**藤田組**（ふじたぐみ）」と呼ばれて[藤田財閥](../Page/藤田財閥.md "wikilink")の中核企業であった。なお、かつて同じく「藤田組」と称していた[準大手](https://ja.wikipedia.org/wiki/準大手 "wikilink")[ゼネコン](../Page/ゼネコン.md "wikilink")の[フジタ](../Page/フジタ.md "wikilink")とは資本関係はない。
+**DOWAホールディングス株式会社**（どうわホールディングス、[英社名](../Page/英語.md "wikilink")：*DOWA Holdings Co., Ltd.*）は、[非鉄金属](../Page/非鉄金属.md "wikilink")の[製錬](../Page/製錬.md "wikilink")、[加工](../Page/金属加工.md "wikilink")、[環境](../Page/環境.md "wikilink")・[リサイクル](../Page/リサイクル.md "wikilink")を主たる業務とする\[1\][DOWAグループの](https://ja.wikipedia.org/wiki/#DOWAグループ "wikilink")[持株会社](../Page/持株会社.md "wikilink")\[2\]。旧社名**同和鉱業**。かつては「**藤田組**（ふじたぐみ）」と呼ばれて[藤田財閥](../Page/藤田財閥.md "wikilink")の中核企業であった。なお、かつて同じく「藤田組」と称していた[準大手](https://ja.wikipedia.org/wiki/準大手 "wikilink")[ゼネコン](../Page/ゼネコン.md "wikilink")の[フジタ](../Page/フジタ.md "wikilink")とは資本関係はない。本社所在地[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")。
 
 ## 沿革
 
@@ -26,7 +26,7 @@
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）1月 - 同和興産株式会社を合併。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）4月 - 東京熱処理工業株式会社を合併、サーモテック事業本部を設置。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）4月 - [社内カンパニー](../Page/社内カンパニー.md "wikilink")制を導入。
-  - [2006年](../Page/2006年.md "wikilink")（平成18年）10月 - **DOWAホールディングス株式会社**に社名変更、[持株会社](../Page/持株会社.md "wikilink")制に移行。事業会社[DOWAメタルマイン](../Page/DOWAメタルマイン.md "wikilink")、[DOWAエコシステム](../Page/DOWAエコシステム.md "wikilink")、[DOWAエレクトロニクス](https://ja.wikipedia.org/wiki/DOWAエレクトロニクス "wikilink")、[DOWAメタルテック](https://ja.wikipedia.org/wiki/DOWAメタルテック "wikilink")、[DOWAサーモテック](https://ja.wikipedia.org/wiki/DOWAサーモテック "wikilink")を設立。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）10月 - **DOWAホールディングス株式会社**に社名変更、[持株会社](../Page/持株会社.md "wikilink")制に移行。事業会社[DOWAメタルマイン](../Page/DOWAメタルマイン.md "wikilink")・[DOWAエコシステム](../Page/DOWAエコシステム.md "wikilink")・[DOWAエレクトロニクス](https://ja.wikipedia.org/wiki/DOWAエレクトロニクス "wikilink")・[DOWAメタルテック](https://ja.wikipedia.org/wiki/DOWAメタルテック "wikilink")および[DOWAサーモテック](https://ja.wikipedia.org/wiki/DOWAサーモテック "wikilink")を設立。
 
 なお、藤田興業㈱から観光部門が分離・独立して設立された会社が藤田観光㈱であることから、DOWAは現在でも藤田観光の株式のうち31.8%を保有している。
 

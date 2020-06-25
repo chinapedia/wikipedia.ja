@@ -859,7 +859,7 @@
 
   - [フランク・シルヴェストル](https://ja.wikipedia.org/wiki/フランク・シルヴェストル "wikilink") 2003-2005
 
-  - [フランク・フェルラート](https://ja.wikipedia.org/wiki/フランク・フェルラート "wikilink") 2004-2007
+  - [フランク・フェルラート](../Page/フランク・フェルラート.md "wikilink") 2004-2007
 
   - [ローナルド・ゲルサリウ](https://ja.wikipedia.org/wiki/ローナルド・ゲルサリウ "wikilink") 2004-2005, 2006
 

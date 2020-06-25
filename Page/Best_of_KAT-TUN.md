@@ -68,6 +68,13 @@
       -
         同時発売したシングルのアレンジ違いで、[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")が中心のシングルバージョンと比較すると[エレキギターと](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")[ベースが前面に押し出されたロック色の強い](../Page/エレクトリックベース.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[アレンジとなっている](../Page/編曲.md "wikilink")。またメンバーの歌唱法が異なり、一部カット及び追加されている歌詞がある（冒頭の[ラップ](../Page/ラップ.md "wikilink")と一番のサビの直前の舌打ちはカットされ、[ラップ](../Page/ラップ.md "wikilink")の部分においてシングルバージョンにはなかった歌詞が追加されている）。
 
+## スタッフ
+
+  - プロデューサー JULIE K
+  - ディレクター　[鎌田俊哉](https://ja.wikipedia.org/wiki/鎌田俊哉 "wikilink")、[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")
+  - レコーディング・ミキシングエンジニア -[秋元秀之](https://ja.wikipedia.org/wiki/秋元秀之 "wikilink")、 [中林慶一](https://ja.wikipedia.org/wiki/中林慶一 "wikilink")、[横手 博史](https://ja.wikipedia.org/wiki/横手_博史 "wikilink")、[谷田茂](https://ja.wikipedia.org/wiki/谷田茂 "wikilink")、[青柳延幸](https://ja.wikipedia.org/wiki/青柳延幸 "wikilink")
+  - マスタリングエンジニア　[川崎洋](../Page/川崎洋.md "wikilink")
+
 ## 関連項目
 
   - [Real Face](../Page/Real_Face.md "wikilink")

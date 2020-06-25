@@ -35,6 +35,13 @@
       - 650kgまでの爆弾を搭載可能
   - 乗員 1名
 
+## 登場作品
+
+### ゲーム
+
+  - 『[War Thunder](https://ja.wikipedia.org/wiki/War_Thunder "wikilink")』
+    プレイヤーの操縦機体として「Re.2002 Early」が登場
+
 ## 関連項目
 
   - [戦闘機一覧](../Page/戦闘機一覧.md "wikilink")

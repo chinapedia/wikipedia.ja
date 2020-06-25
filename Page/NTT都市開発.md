@@ -53,7 +53,7 @@
   - [大手町ファーストスクエア](https://ja.wikipedia.org/wiki/大手町ファーストスクエア "wikilink")（東京都千代田区）
   - UD日比谷ビル（東京都千代田区）
   - 大手町一丁目地区第一種市街地再開発事業（第一次、A棟:[日経ビル](../Page/日本経済新聞社.md "wikilink")・B棟:[JAビル](https://ja.wikipedia.org/wiki/JAビル "wikilink")・C棟:[（新）経団連会館](https://ja.wikipedia.org/wiki/経団連会館 "wikilink")、大手町カンファレスセンターの4棟）、東京都千代田区）
-  - グランパークタワー（東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")）
+  - [グランパークタワー](https://ja.wikipedia.org/wiki/グランパークタワー "wikilink")（東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")）
   - [シーバンス](../Page/シーバンス.md "wikilink")N館（東京都港区）
   - 原宿クエスト （東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")）
   - NTT幕張ビル（[千葉市](../Page/千葉市.md "wikilink")[美浜区](../Page/美浜区.md "wikilink")）

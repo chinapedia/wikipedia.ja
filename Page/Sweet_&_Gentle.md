@@ -7,7 +7,7 @@
 
 前作『GRAVITY』からキーボーディストとして参加した[難波正司](https://ja.wikipedia.org/wiki/難波正司 "wikilink")がスクェアから退団したため、サポートメンバーとして参加した[松本圭司](https://ja.wikipedia.org/wiki/松本圭司 "wikilink")がキーボードを担当することになった。アルバム発売後の1999年7月、松本はスクェアの正式メンバーとなった。
 
-5曲目に収録されている「SCRAMBLING」は1999年4月から2000年12月の間[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されている『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のテーマ曲として使われた他、2014年以降の『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』の途中の[提供クレジット](../Page/提供クレジット.md "wikilink")切り替え時にも使用されている。なお、この曲はその後「The Scramble」と曲名を変え、須藤のソロ活動や、彼が参加した[本田雅人](../Page/本田雅人.md "wikilink") With VOICE OF ELEMENTSなどでも演奏されている。
+5曲目に収録されている「SCRAMBLING」は1999年4月から2000年12月の間[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されている『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』のテーマ曲として使われた他、2014年以降の『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』の途中の[提供クレジット](../Page/提供クレジット.md "wikilink")切り替え時にも使用されている。なお、この曲はその後「The Scramble」と曲名を変え、須藤のソロ活動や、彼が参加した[本田雅人](../Page/本田雅人.md "wikilink") With VOICE OF ELEMENTSなどでも演奏されている。
 
 通常のCDに加えて[DSDマスタリングを採用した高音質の](../Page/Direct_Stream_Digital.md "wikilink")[スーパーオーディオCD](https://ja.wikipedia.org/wiki/スーパーオーディオCD "wikilink")も同時に発売された。
 

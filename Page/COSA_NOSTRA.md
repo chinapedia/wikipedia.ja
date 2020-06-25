@@ -609,7 +609,7 @@ The Best of COSA NOSTRA</strong></p></td>
 <td><p>編曲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a></p></td>
+<td><p><a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a></p></td>
 <td><p><a href="../Page/モーニングコーヒー.md" title="wikilink">モーニングコーヒー</a><br />
 <a href="../Page/愛の種.md" title="wikilink">愛の種</a><br />
 <a href="https://ja.wikipedia.org/wiki/二十歳のモーニング娘。" title="wikilink">タネはツバサ(Wings of the Seed)</a>（<a href="../Page/中澤裕子.md" title="wikilink">中澤裕子</a>・<a href="https://ja.wikipedia.org/wiki/石黒彩" title="wikilink">石黒彩</a>・<a href="https://ja.wikipedia.org/wiki/飯田圭織" title="wikilink">飯田圭織</a>・<a href="../Page/安倍なつみ.md" title="wikilink">安倍なつみ</a>・<a href="../Page/福田明日香.md" title="wikilink">福田明日香</a>）</p></td>

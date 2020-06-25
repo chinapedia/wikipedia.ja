@@ -69,7 +69,7 @@
       - 「ヒャクイチ\!」（[100s](../Page/100s.md "wikilink")）
       - 「ポルイチ\!」（[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）
       - 「マツイチ\!」（[SOPHIA](../Page/SOPHIA.md "wikilink")のボーカル[松岡充](../Page/松岡充.md "wikilink")）…ゴゴイチ友の会3発目アーティスト。KREVAと共に「クマイチ\!」として出演した事も。
-      - 「モーイチ\!」（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+      - 「モーイチ\!」（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
       - 「モリイチ\!」（[森山直太朗](../Page/森山直太朗.md "wikilink")）
       - 「ヤマイチ\!」（[やまだひさし](../Page/やまだひさし.md "wikilink")）…[やまだひさしのラジアンリミテッドDX](../Page/やまだひさしのラジアンリミテッドDX.md "wikilink")の舞台裏など。
       - 「ユウイチ\!」（[MCU](https://ja.wikipedia.org/wiki/MCU "wikilink")）

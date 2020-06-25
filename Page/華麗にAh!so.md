@@ -56,7 +56,7 @@
   - [峰竜太](../Page/峰竜太.md "wikilink")
   - [ピーター](../Page/池畑慎之介.md "wikilink")（テレビ朝日の旧社名が日本教育テレビだと語る）
   - [ZOO](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink")（音楽グループの出演としては最多）
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（1991年に出演し、歌唱力にピーターが大笑いした）
+  - [SMAP](../Page/SMAP.md "wikilink")（1991年に出演し、歌唱力にピーターが大笑いした）
   - [片岡鶴太郎](../Page/片岡鶴太郎.md "wikilink")
   - [デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン小暮閣下 "wikilink")
   - [BaBe](../Page/BaBe.md "wikilink")（パジャマ姿のBaBeを所ジョージがインタビュー。歌はFull Moon Night）

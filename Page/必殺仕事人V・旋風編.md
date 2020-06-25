@@ -569,7 +569,7 @@
 [Category:必殺シリーズ](https://ja.wikipedia.org/wiki/Category:必殺シリーズ "wikilink") [Category:1986年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1986年のテレビドラマ "wikilink") [Category:必殺仕事人](https://ja.wikipedia.org/wiki/Category:必殺仕事人 "wikilink")
 
 1.  <https://twitter.com/e_lehnsherr/status/795284391693955072>
-2.  次作の『風雲竜虎編』第1話の鍛冶屋の政の登場シーンでは主水から「銀平のことは諦めろ」との一言がある。
+2.  次作の『風雲竜虎編』第1話の鍛冶屋の政の登場シーンでは主水から「銀平のことは忘れろ」との一言がある。
 3.  今でいうところの[古物商](../Page/古物商.md "wikilink")。
 4.  この虎が『[新・必殺仕置人](../Page/新・必殺仕置人.md "wikilink")』の元締・虎を指すかは不明。
 5.  ひかるのコメントによると、旋風編での順之助の最期は「爆死」ではなく「行方不明」である。これは映画『[必殺4 恨みはらします](../Page/必殺4_恨みはらします.md "wikilink")』の公開が控えていたことと、いずれ、必殺シリーズに順之助を再登場させるためにと、制作スタッフと約束していたことであるが、再登場の前に必殺シリーズが一旦、終了となった。出典：『時代劇マガジンVol.19』（[辰巳出版](../Page/辰巳出版.md "wikilink")）内のスペシャル インタビューより。

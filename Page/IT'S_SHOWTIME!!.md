@@ -11,7 +11,7 @@ CDジャケットの題字は、[書家](../Page/書家.md "wikilink")の[柿沼
 
 今作で5thシングル『[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")』から30作連続、30作目のオリコンの1位を獲得した。
 
-4月のCDセールストップになった。このシングルの発売と同時に、4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』から13thシングル『[裸足の女神](../Page/裸足の女神.md "wikilink")』までシングル10作を[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")の上12cmCD化し再発した。このため、オリコンデイリーチャート上位11位までをB'zで独占という記録を成し遂げた。但し、ウィークリーチャートでは2位に[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』がランクインしたため、ウィークリーチャートTOP10独占までには至らなかった。
+4月のCDセールストップになった。このシングルの発売と同時に、4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』から13thシングル『[裸足の女神](../Page/裸足の女神.md "wikilink")』までシングル10作を[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")の上12cmCD化し再発した。このため、オリコンデイリーチャート上位11位までをB'zで独占という記録を成し遂げた。但し、ウィークリーチャートでは2位に[SMAP](../Page/SMAP.md "wikilink")の『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』がランクインしたため、ウィークリーチャートTOP10独占までには至らなかった。
 
 ## 収録曲
 

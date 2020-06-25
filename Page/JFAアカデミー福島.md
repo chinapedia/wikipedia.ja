@@ -380,7 +380,7 @@ Jヴィレッジが2019年春に全面再開予定であることを受け、日
 <tr class="odd">
 <td><center>
 <p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鎌田大夢" title="wikilink">鎌田大夢</a></p></td>
+<td><p><a href="../Page/鎌田大夢.md" title="wikilink">鎌田大夢</a></p></td>
 <td><p>2014</p></td>
 <td><p>2016</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/昌平中学校・高等学校" title="wikilink">昌平高校</a></p></td>

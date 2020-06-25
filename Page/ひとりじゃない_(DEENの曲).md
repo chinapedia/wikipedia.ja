@@ -9,7 +9,7 @@
 
 ライブでもよく演奏されDEENの中でも人気曲の一つである。
 
-。 。 。
+[日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売されたCD『こどものうた』シリーズで[加嶋浩司](https://ja.wikipedia.org/wiki/加嶋浩司 "wikilink")がカバーしている。\[1\] 。 。
 
   - 。
 
@@ -76,3 +76,5 @@
 </table>
 
 [Category:DEENの楽曲](https://ja.wikipedia.org/wiki/Category:DEENの楽曲 "wikilink") [Category:池森秀一が制作した楽曲](https://ja.wikipedia.org/wiki/Category:池森秀一が制作した楽曲 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:フジテレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビのテレビアニメ主題歌 "wikilink") [Category:ドラゴンボールの音楽](https://ja.wikipedia.org/wiki/Category:ドラゴンボールの音楽 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
+
+1.

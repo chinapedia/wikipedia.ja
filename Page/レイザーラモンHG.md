@@ -1,7 +1,7 @@
 > この記事は[レイザーラモンHG](https://ja.wikipedia.org/wiki/レイザーラモンHG)から翻訳されています。
 
 
-**レイザーラモンHG**（レイザーラモンエイチジー、[1975年](../Page/1975年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、元[プロレスラー](../Page/プロレスラー.md "wikilink")。[レイザーラモンRG](../Page/レイザーラモンRG.md "wikilink")／出渕誠とお笑いコンビ[レイザーラモン](../Page/レイザーラモン.md "wikilink")を組んでいる。本名の**住谷 正樹**（すみたに まさき）名義での活動もある。左利き。
+**レイザーラモンHG**（レイザーラモンエイチジー、[1975年](../Page/1975年.md "wikilink")〈昭和50年〉[12月18日](../Page/12月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いタレント](../Page/お笑いタレント.md "wikilink")、元[プロレスラー](../Page/プロレスラー.md "wikilink")。[レイザーラモンRG](../Page/レイザーラモンRG.md "wikilink")／出渕誠とお笑いコンビ[レイザーラモン](../Page/レイザーラモン.md "wikilink")を組んでいる。本名の**住谷 正樹**（すみたに まさき）名義での活動もある。左利き。
 
 ## 来歴
 

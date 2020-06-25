@@ -1,7 +1,7 @@
 > この記事は[Miniピアゴ](https://ja.wikipedia.org/wiki/Miniピアゴ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Minipiago.shiratori3tyoume.JPG "wikilink") **miniピアゴ**（ミニピアゴ）は、株式会社[99イチバが運営するミニ](https://ja.wikipedia.org/wiki/#株式会社99イチバ "wikilink")[スーパー](../Page/スーパーマーケット.md "wikilink")（[生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")）である。現在は[G-7ホールディングス](../Page/G-7ホールディングス.md "wikilink")系列。創業時の店名は**99イチバ**、のちに**みんなのイチバ**であった。 {{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Minipiago.shiratori3tyoume.JPG "wikilink") **miniピアゴ**（ミニピアゴ）は、株式会社[99イチバが運営するミニ](https://ja.wikipedia.org/wiki/#株式会社99イチバ "wikilink")[スーパー](../Page/スーパーマーケット.md "wikilink")（[生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")）である。現在は[業務スーパーをフランチャイズで経営する](../Page/神戸物産.md "wikilink")[G-7ホールディングス](../Page/G-7ホールディングス.md "wikilink")系列。創業時の店名は**99イチバ**、のちに**みんなのイチバ**であった。 {{-}}
 
 ## 概要
 
@@ -25,7 +25,7 @@
 
 かつて多くが24時間営業であったが、現在は7時開店、24時または25時閉店の店舗が多くなっている。毎月セールを実施しており、旧99イチバ時代はキューイチ祭として、毎月9日前後に行っていたが、みんなのイチバになってからは毎月2、3週目の3日間に行うことが多くなっていた。
 
-2013年[7月1日](../Page/7月1日.md "wikilink")より全店でクレジットカード・電子マネー決済の取り扱い開始している。
+2013年[7月1日](../Page/7月1日.md "wikilink")より全店でクレジットカード・電子マネー決済の取り扱い開始している。ただし、[PPIH](https://ja.wikipedia.org/wiki/PPIH "wikilink")グループだった当時より[majica](https://ja.wikipedia.org/wiki/majica "wikilink")や[uniko](https://ja.wikipedia.org/wiki/uniko "wikilink")の使用は不可。
 
 ## 株式会社99イチバ
 
@@ -62,6 +62,7 @@
   - [プライベートブランド](../Page/プライベートブランド.md "wikilink")
   - [スーパーマーケット](../Page/スーパーマーケット.md "wikilink")
   - [コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")
+  - [まいばすけっと](../Page/まいばすけっと.md "wikilink") - 同じく母体が大手スーパー（こちらは[イオンが運営](../Page/イオン_\(企業\).md "wikilink")）のミニスーパー。
 
 ## 外部リンク
 

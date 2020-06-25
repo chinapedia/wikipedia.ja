@@ -22,10 +22,10 @@
 
 ### 平日
 
-  - [竹鼻純](https://ja.wikipedia.org/wiki/竹鼻純 "wikilink")（当時ミヤギテレビアナウンサー）
+  - [竹鼻純](../Page/竹鼻純.md "wikilink")（当時ミヤギテレビアナウンサー）
   - [堤聖月](https://ja.wikipedia.org/wiki/折原聖月 "wikilink")（当時ミヤギテレビアナウンサー）
   - [三雲茂晴](../Page/三雲茂晴.md "wikilink")（当時ミヤギテレビアナウンサー）
-  - [水本豊](https://ja.wikipedia.org/wiki/水本豊 "wikilink")（当時ミヤギテレビアナウンサー）
+  - [水本豊](../Page/水本豊.md "wikilink")（当時ミヤギテレビアナウンサー）
 
 ### 土曜日
 

@@ -7,7 +7,7 @@
 
 ## 背景
 
-国務省内でも数少ない[ソ連通として通っていたジョージ](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・F・ケナンは、3度にわたって[モスクワ](../Page/モスクワ.md "wikilink")に赴任し、大使館勤務を経験した。[1946年](../Page/1946年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")、「[長文電報](https://ja.wikipedia.org/wiki/長文電報 "wikilink")（Long telegram）」をモスクワから国務省へ打電した。ソ連との関係のあり方を詳細に分析したこの[電報](../Page/電報.md "wikilink")は国務省内で回覧され、当時の[トルーマン政権に大きな影響を及ぼした](../Page/ハリー・S・トルーマン.md "wikilink")。[1947年](../Page/1947年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")の一般教書演説で発表された「[トルーマン・ドクトリン](../Page/トルーマン・ドクトリン.md "wikilink")」は、この長文電報の影響を色濃く反映したものであった。ただしケナンは後述する報告書（PPS1）で、善悪二元論に基づく対ソ強硬路線を主張するこの宣言を批判している。
+国務省内でも数少ない[ソ連通として通っていたジョージ](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")・F・ケナンは、3度にわたって[モスクワ](../Page/モスクワ.md "wikilink")に赴任し、大使館勤務を経験した。[1946年](../Page/1946年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")、ケナンは約8,000語にも及ぶ\[2\]\[3\]「[長文電報](https://ja.wikipedia.org/wiki/長文電報 "wikilink")（Long telegram）」をモスクワから国務省へ打電した。ソ連との関係のあり方を詳細に分析したこの[電報](../Page/電報.md "wikilink")は国務省内で回覧され、当時の[トルーマン政権に大きな影響を及ぼした](../Page/ハリー・S・トルーマン.md "wikilink")。[1947年](../Page/1947年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")の一般教書演説で発表された「[トルーマン・ドクトリン](../Page/トルーマン・ドクトリン.md "wikilink")」は、この長文電報の影響を色濃く反映したものであった。ただしケナンは後述する報告書（PPS1）で、善悪二元論に基づく対ソ強硬路線を主張するこの宣言を批判している。
 
 同年[5月5日](../Page/5月5日.md "wikilink")、[国務長官](../Page/アメリカ合衆国国務長官.md "wikilink")[ジョージ・マーシャル](../Page/ジョージ・マーシャル.md "wikilink")は国務省内に[政策企画本部](https://ja.wikipedia.org/wiki/政策企画本部 "wikilink")（Policy Planning Staff, PPS）を設立し、ケナンを長に据えた。5月23日に提出された報告書「合衆国の西欧援助政策―政策企画本部の見解」（PPS1）は、経済復興を通じて[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")の影響を西欧から排することを主張した論考であり、[マーシャル・プラン](../Page/マーシャル・プラン.md "wikilink")の源流の1つをなすが、同時にこの報告書は、トルーマン・ドクトリンが与える2つの誤った印象を是正するよう求めた。即ち、「世界問題に取り組む米国の態度は、共産主義の圧力に対する防衛的反応であり、諸外国への復興援助は、この反応の副産物に過ぎない」という印象と、「トルーマン・ドクトリンは、共産圏に入る気配のある地域へ経済的、軍事的援助を与える白紙委任手形である」という印象である。
 
@@ -23,7 +23,7 @@
 
 ソ連権力の政治的性格は、[イデオロギー](../Page/イデオロギー.md "wikilink")と環境とによって生み出されたものである。ソ連の行動を理解し、対抗するためには、この2つがどう影響しているかを考察せねばならない。
 
-ソ連の指導者が奉じたイデオロギーは、[マルクス以来不断の変化を遂げてきた複雑なものであるが](https://ja.wikipedia.org/wiki/カール・マルクス "wikilink")\[2\]、[1916年](../Page/1916年.md "wikilink")における共産主義思想の特徴は、次のように要約できよう。
+ソ連の指導者が奉じたイデオロギーは、[マルクス以来不断の変化を遂げてきた複雑なものであるが](https://ja.wikipedia.org/wiki/カール・マルクス "wikilink")\[4\]、[1916年](../Page/1916年.md "wikilink")における共産主義思想の特徴は、次のように要約できよう。
 
   -
     a. 人間生活の中核をなす要素は、商品が生産・交換される構造である。
@@ -119,4 +119,6 @@
 [Category:冷戦](https://ja.wikipedia.org/wiki/Category:冷戦 "wikilink") [Category:アメリカ合衆国の政治史_(1945年-1989年)](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の政治史_\(1945年-1989年\) "wikilink") [Category:アメリカ合衆国の国際関係_(1945年-1989年)](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の国際関係_\(1945年-1989年\) "wikilink") [Category:論文](https://ja.wikipedia.org/wiki/Category:論文 "wikilink") [Category:政治書](https://ja.wikipedia.org/wiki/Category:政治書 "wikilink") [Category:1947年のアメリカ合衆国](https://ja.wikipedia.org/wiki/Category:1947年のアメリカ合衆国 "wikilink") [Category:1947年の国際関係](https://ja.wikipedia.org/wiki/Category:1947年の国際関係 "wikilink")
 
 1.  英語の「containment」は、「中に容れること」「抑制」を意味する。これに「封じ込め」という強圧的な訳を当てるのは適当でないとする指摘があるが、「封じ込め」は一般に通用している訳語であるため、本項もこれに倣う。
-2.  共産主義思想は論者によって十人十色であり、マルクスの理論がそのまま継承されたわけではない。論文中でケナンも指摘しているが、典型例として挙げられるのが、農民の位置付けである。マルクスや[エンゲルスによれば](https://ja.wikipedia.org/wiki/フリードリヒ・エンゲルス "wikilink")、農民は保守的であるばかりか反動的ですらある（『[共産党宣言](../Page/共産党宣言.md "wikilink")』第1章）。しかしこうした規定は次第に変質し、ソ連のシンボルに「[鎌と槌](../Page/鎌と槌.md "wikilink")」があしらわれたことが示すように、農民（[鎌](../Page/鎌.md "wikilink")は農民の象徴）は労働者（[槌](../Page/槌.md "wikilink")は労働者の象徴）と同じく革命の担い手とされるに至った。
+2.  [「ことばで見る政治の世界　米中の対立、軽々しく「冷戦」と呼ぶべきではない」](https://globe.asahi.com/article/12153680)（朝日新聞GLOBE＋）
+3.  [George Kennan and Containment](https://history.state.gov/departmenthistory/short-history/kennan)（アメリカ合衆国国務省ホームページ内）
+4.  共産主義思想は論者によって十人十色であり、マルクスの理論がそのまま継承されたわけではない。論文中でケナンも指摘しているが、典型例として挙げられるのが、農民の位置付けである。マルクスや[エンゲルスによれば](https://ja.wikipedia.org/wiki/フリードリヒ・エンゲルス "wikilink")、農民は保守的であるばかりか反動的ですらある（『[共産党宣言](../Page/共産党宣言.md "wikilink")』第1章）。しかしこうした規定は次第に変質し、ソ連のシンボルに「[鎌と槌](../Page/鎌と槌.md "wikilink")」があしらわれたことが示すように、農民（[鎌](../Page/鎌.md "wikilink")は農民の象徴）は労働者（[槌](../Page/槌.md "wikilink")は労働者の象徴）と同じく革命の担い手とされるに至った。

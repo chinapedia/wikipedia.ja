@@ -12,7 +12,7 @@
       - 『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』（10月時点） - 「紅組司会は[藤原紀香](../Page/藤原紀香.md "wikilink")（[前回の審査員](../Page/第49回NHK紅白歌合戦.md "wikilink")）か[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")が有力」
       - 『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』（10月時点） - 「[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")の紅組司会が有力」
       - 『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』（10月時点） - 「紅組司会は[黒木瞳](../Page/黒木瞳.md "wikilink")（この年の『[思い出のメロディー](../Page/思い出のメロディー.md "wikilink")』司会）が有力」
-      - 『[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")』（10月時点・10月21日付） - 「紅組司会は久保の続投が大本命、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")と紀香が対抗に挙がる。白組司会は[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）の続投が有力、[爆笑問題](../Page/爆笑問題.md "wikilink")（この年の『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』の司会）の名前も挙がる」「爆笑問題が司会候補に挙がっている」\[3\]
+      - 『[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")』（10月時点・10月21日付） - 「紅組司会は久保の続投が大本命、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")と紀香が対抗に挙がる。白組司会は[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）の続投が有力、[爆笑問題](../Page/爆笑問題.md "wikilink")（この年の『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』の司会）の名前も挙がる」「爆笑問題が司会候補に挙がっている」\[3\]
       - 同時期[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』のメインキャスターを一時降板していた[久米宏](../Page/久米宏.md "wikilink")の白組司会起用説もあった。
       - [合田道人](../Page/合田道人.md "wikilink")『紅白歌合戦の真実』 - 「当初、宇多田の紅組歌手兼司会案もあった。宇多田が出場を辞退した（後述）ことに合わせ、このプランは立ち消えとなり、紅組司会の有力候補に上がったのは紀香、松嶋、黒木らである。この年の『思い出のメロディー』の司会が好評だった黒木は関係者から「『思メロ』の司会は紅白のテスト」という声がまことしやかに広がり、一時は本命と目された。一方、前回の高[視聴率](../Page/視聴率.md "wikilink")獲得から久保・中居の両組司会続投を推す声も多く上がった。最終的に紅組司会は久保が続投し、白組司会は勘九郎が選出された」
   - なお、翌年の『大河ドラマ』の主演者が審査員に起用されることが慣例的な中、前回勘九郎の審査員起用はなかった（応援ゲストでの出演もなし。なお、同作出演者の[松平健](../Page/松平健.md "wikilink")が審査員を担当）。
@@ -83,7 +83,7 @@
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | 曲順                                                                                                                | 歌手                                                                               |
 | 第1部                                                                                                               |                                                                                  |
-| 1                                                                                                                 | [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")(2)                   |
+| 1                                                                                                                 | [モーニング娘。](../Page/モーニング娘。.md "wikilink")(2)                                      |
 | 3                                                                                                                 | [Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")(初)       |
 | 5                                                                                                                 | [茂森あゆみ](../Page/茂森あゆみ.md "wikilink")・[速水けんたろう](../Page/速水けんたろう.md "wikilink")(初) |
 | 7                                                                                                                 | [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")(3)                |
@@ -233,8 +233,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)  - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)  - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1999年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1999年の日本の音楽 "wikilink") [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:1999年12月](https://ja.wikipedia.org/wiki/Category:1999年12月 "wikilink")
 

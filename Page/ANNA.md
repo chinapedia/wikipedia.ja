@@ -1,7 +1,15 @@
 > この記事は[ANNA](https://ja.wikipedia.org/wiki/ANNA)から翻訳されています。
 
 
-**ANNA**（アンナ、[1975年](../Page/1975年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[千葉県](../Page/千葉県.md "wikilink")出身の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")。血液型A型。[キャストコーポレーション](../Page/キャストコーポレーション.md "wikilink")所属。 1996年6月12日にシングルCD「Heart to you〜夜が終わる前に〜」で歌手デビューも果たしている。タレントの[桂菊丸](../Page/桂菊丸.md "wikilink")と歌手の[泉アキ](../Page/泉アキ.md "wikilink")の長女。 2007年、2008年に出産し、2女の母。
+**ANNA**（アンナ、[1975年](../Page/1975年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") - ）は、[千葉県](../Page/千葉県.md "wikilink")出身の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")。血液型A型。[キャストコーポレーション](../Page/キャストコーポレーション.md "wikilink")所属。
+
+歌手としての活動は
+
+1996年6月12日にシングルCD「Heart to you〜夜が終わる前に〜」でソロデビューも果たしている。
+
+タレントの[桂菊丸](../Page/桂菊丸.md "wikilink")と歌手の[泉アキ](../Page/泉アキ.md "wikilink")の長女。
+
+2007年、2008年に出産し、2女の母。
 
 ## 出演番組
 
@@ -52,7 +60,7 @@
   - ANNA (1997/03/21)
   - Stories (1998/03/18)
 
-ゲスト参加 LOVERS／堀井勝美PROJECT(1993/8/21) 02：LOOKING FOR LOVE（作詞、VOCAL) 日本国土開発（株）アンビックス滋賀ストリートタワーCMソング 05：SPREAD MORE LOVE(作詞、VOCAL)
+
 
 ## 外部リンク
 

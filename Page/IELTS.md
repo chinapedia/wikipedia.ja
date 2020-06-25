@@ -91,6 +91,10 @@ IELTSは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、
 
 2019年よりすでにオーストラリアをはじめとする海外のテストセンターで実施されている「コンピューターで受験するIELTS」を日本国内でもIDP公式テストセンターである[一般財団法人日本スタディ・アブロード・ファンデーション（JSAF）](http://www.japanstudyabroadfoundation.or.jp/)が東京・高田馬場にて、ブリティッシュ・カウンシルが[東京・飯田橋](https://www.britishcouncil.jp/exam/ielts/which-test/computer-delivered-ielts)にて、[バークレーハウス語学センター](https://berkeleyhouse.co.jp/jp034/)が東京・市ヶ谷にて開始し、現在ほぼ毎日IELTS試験が実施されている。
 
+2020年4-5月の2ヶ月は緊急事態宣言により受験が中止となる。
+
+2020年6月からの再開に向け、新型コロナウイルス感染拡大防止の一環として一部のテストセンターで、スピーキングテストをモニター越しで行う『[ビデオコール・スピーキングテスト](https://ieltsjp.com/novel-coronavirus-update/)』を導入することになりました。6月以降、[バークレーハウス（東京・市ヶ谷）](https://berkeleyhouse.co.jp/jp034/)で実施します。
+
 IELTSは2019年現在、札幌、仙台、埼玉、東京、横浜、松本、金沢、名古屋、京都、大阪、神戸、岡山、広島、福岡で提供されている。
 
 日本の受験者数は増加傾向が続いており、2016年には3万7000人が受検した。

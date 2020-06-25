@@ -1,7 +1,7 @@
 > この記事は[ティモシー・B・シュミット](https://ja.wikipedia.org/wiki/ティモシー・B・シュミット)から翻訳されています。
 
 
-[Eagles.jpg](https://ja.wikipedia.org/wiki/File:Eagles.jpg "fig:Eagles.jpg")\]\] **ティモシー・B・シュミット**の芸名で知られる**ティモシー・ブルース・シュミット**（**Timothy Bruce Schmit**、[1947年](../Page/1947年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[1970年代](../Page/1970年代.md "wikilink")に[ポコや](https://ja.wikipedia.org/wiki/ポコ_\(バンド\) "wikilink")[イーグルス](../Page/イーグルス.md "wikilink")のメンバーとして活動したことで知られる。
+[Eagles.jpg](https://ja.wikipedia.org/wiki/File:Eagles.jpg "fig:Eagles.jpg")\]\] **ティモシー・ブルース・シュミット**（Timothy Bruce Schmit、[1947年](../Page/1947年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[1970年代](../Page/1970年代.md "wikilink")に[ポコや](https://ja.wikipedia.org/wiki/ポコ_\(バンド\) "wikilink")[イーグルス](../Page/イーグルス.md "wikilink")のベーシストとして活動したことで知られる。
 
 ## 来歴
 

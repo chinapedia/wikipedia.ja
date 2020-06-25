@@ -26,7 +26,7 @@
 
 ### レギュラー
 
-  - [中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+  - [中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）
   - [木村拓哉](../Page/木村拓哉.md "wikilink")（SMAP）
   - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（SMAP）
   - [森且行](../Page/森且行.md "wikilink")（SMAP）

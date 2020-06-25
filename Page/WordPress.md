@@ -34,7 +34,7 @@ WordPressは[gettext](https://ja.wikipedia.org/wiki/gettext "wikilink")を利用
 
 ### 動作環境
 
-WordPress 5.2 より動作環境がアップデートされました。
+WordPress 5.2 より動作環境が変更された。
 
   - PHP バージョン 5.6.20以上（PHP 7.3以上を推奨）
   - MySQL バージョン 5.0以上（MySQL 5.6以上、または[MariaDB](https://ja.wikipedia.org/wiki/MariaDB "wikilink") 10.0以上を推奨）

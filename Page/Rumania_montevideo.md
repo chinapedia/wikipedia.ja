@@ -9,9 +9,9 @@
 
 1999年、3月にGIZA studio傘下のインディーズレーベル「[Garage Indies Zapping Association](https://ja.wikipedia.org/wiki/Garage_Indies_Zapping_Association "wikilink")」より『JET PLANE』『sunny, cloudy, rain』の2枚のミニアルバムと限定アナログ盤2枚を立て続けにリリース後、同年4月14日にシングル『[Still for your love](../Page/Still_for_your_love.md "wikilink")』で[GIZA studioよりメジャーデビュー](../Page/GIZA_studio.md "wikilink")。同曲はアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のエンディングテーマとなり、[オリコン最高位](../Page/オリコンチャート.md "wikilink")9位のスマッシュヒットを記録。
 
-2000年7月14日、渋谷[CLUB QUATTROで開催された](../Page/CLUB_QUATTRO.md "wikilink")「UNDOWN vol.4」に出演し、「picnic」「Anny」等を演奏した。これが2019年に再始動する前のrumania montevideoとして、最初で最後のライブとなった\[1\]。
+2000年7月14日、渋谷[CLUB QUATTROで開催された](../Page/CLUB_QUATTRO.md "wikilink")「UNDOWN vol.4」に出演し、「picnic」「Anny」等を演奏した。これが2019年に再始動する前のrumania montevideoとして、最初で最後のライブとなった。
 
-2000年、[間島和伸](../Page/間島和伸.md "wikilink")・[麻越さとみ](https://ja.wikipedia.org/wiki/麻越さとみ "wikilink")・[松田明子の](https://ja.wikipedia.org/wiki/松田明子_\(ミュージシャン\) "wikilink")3人で[RAMJET PULLEYを結成](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")\[2\]。
+2000年、[間島和伸](../Page/間島和伸.md "wikilink")・[麻越さとみ](https://ja.wikipedia.org/wiki/麻越さとみ "wikilink")・[松田明子の](https://ja.wikipedia.org/wiki/松田明子_\(ミュージシャン\) "wikilink")3人で[RAMJET PULLEYを結成](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")。
 
 2002年、3枚目のアルバム『[MO' BETTER TRACKS](https://ja.wikipedia.org/wiki/MO'_BETTER_TRACKS "wikilink")』をリリース。これを最後に2019年までの間、活動を事実的中止。
 
@@ -19,11 +19,11 @@
 
 メディアにあまり出演しない方針を採っている[ビーイング](../Page/ビーイング.md "wikilink")系アーティストとしては比較的メディアへの露出が多く、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（1999年5月7日放送）に出演した。これは、GIZA studio所属のアーティストの中で初めての地上波全国ネットへの出演となった。又、2000年1月10日には『[NHK青春メッセージ](../Page/NHK青春メッセージ.md "wikilink")2000』にも出演した。
 
-2019年3月6日、三好誠のツイッターより再始動に向けて準備中であることが投稿された\[3\]。ただし、オリジナルメンバーは三好姉弟のみで、真美はドラムボーカルではなくボーカルのみを担当。誠はギターを担当。サポートメンバーとして[spaghetti vabune\!より島井直哉](https://ja.wikipedia.org/wiki/spaghetti_vabune! "wikilink")（しまーる。）がドラムを担当、れんたがギターを担当、トムがベースを担当、しぇりがキーボードを担当。
+2019年3月6日、三好誠のツイッターより再始動に向けて準備中であることが投稿された\[1\]。ただし、オリジナルメンバーは三好姉弟のみで、真美はドラムボーカルではなくボーカルのみを担当。誠はギターを担当。サポートメンバーとして[spaghetti vabune\!より島井直哉](https://ja.wikipedia.org/wiki/spaghetti_vabune! "wikilink")（しまーる。）がドラムを担当、れんたがギターを担当、トムがベースを担当、しぇりがキーボードを担当。
 
-2019年12月1日に再始動後1本目のライブとして、[hills パン工場で](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")『Rumania Montevideo Live 2019〜僕を待つ君へ〜』を開催。
+2019年12月1日に再始動後1本目のライブとして、[hills パン工場で](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink")『Rumania Montevideo Live 2019〜僕を待つ君へ〜』を開催。再始動には加わらなかったオリジナルメンバ全員もライブを鑑賞\[2\]\[3\]。
 
-2020年3月20日に再始動後2本目のライブとして、[代官山UNIT](https://ja.wikipedia.org/wiki/代官山UNIT "wikilink")で『rumania montevideo LIVE 2020』の開催を予定していたが、[新型コロナウイルスの感染拡大を避けるため中止となった](../Page/2019年コロナウイルス感染症による社会・経済的影響.md "wikilink")。このライブでは、一部の曲のみであるが、再始動前と同様、真美がドラムボーカルを担当する予定であった\[4\]\[5\]。
+2020年3月20日に再始動後2本目のライブとして、[代官山UNIT](https://ja.wikipedia.org/wiki/代官山UNIT "wikilink")で『rumania montevideo LIVE 2020』の開催を予定していたが、[2019年新型コロナウイルス感染症](https://ja.wikipedia.org/wiki/2019年新型コロナウイルス感染症 "wikilink")（COVID-19）の感染拡大を避けるため中止となった。このライブでは、一部の曲のみであるが、再始動前と同様、真美がドラムボーカルを担当する予定であった\[4\]\[5\]。
 
 2020年4月に三好誠が[山口県](../Page/山口県.md "wikilink")[光市](https://ja.wikipedia.org/wiki/光市 "wikilink")へ転勤となったため、2019年の再始動後のライブ活動は一区切りとなった\[6\]\[7\]\[8\]。
 
@@ -670,6 +670,10 @@
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [RAMJET PULLEY](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink") - rumania montevideoのメンバーのうち、[三好真美](https://ja.wikipedia.org/wiki/三好真美 "wikilink")・[誠の姉弟を除く](../Page/三好誠.md "wikilink")3人が2000年に結成したバンド。
@@ -686,9 +690,9 @@
   -
 [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:兄弟姉妹の音楽グループ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽グループ "wikilink")
 
-1.  ただし、rumania montevideoの全メンバーではなく、三好真美・誠の姉弟2人のみでの出演であった。
-2.  [RAMJET PULLEYの公式プロフィールでは](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")、RAMJET PULLEY結成の経緯を以下の通り説明している。『[rumania montevideoのリハの際など3人で暇を見つけてはスタジオに入って音を出して遊んでいました。そのうちノリで曲なんかをつくって演奏するようになり、自然な流れの中でこの形を発見しました。特に意図があってとか、企画を練ってとかじゃなく、自分達的にはいつもの生活の延長線上で無意識にスタートしていた感じです。](http://web.archive.org/web/20051023182705fw_/http://ramjetpulley.net:80/pro/pro.html)』
-3.   「ルーマニアモンテビデオというバンドを再開して今練習しています。」
+1.   「ルーマニアモンテビデオというバンドを再開して今練習しています。」
+2.   「2019/12/1のライブ後の1ショット。実はモンテビメンバーみんな観に来てくれてたんです」
+3.   「楽屋でお話しさせて頂きました。間島さんは想像通りクールな方でした(´Д\` )笑」
 4.
     「3/20のliveでしたいなと
     思ってたこと

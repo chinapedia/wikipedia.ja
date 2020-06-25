@@ -5,7 +5,7 @@
 
 ## 概要
 
-[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のドラマデビュー作で、メンバー全員が本人役で出演していた。[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")と[森且行](../Page/森且行.md "wikilink")は途中他局のドラマ撮影のため、不在の期間があった。他に、当時[平家派メンバーで](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以前\)#平家派 "wikilink")、SMAP同様このドラマがデビュー作となった[坂本昌行](../Page/坂本昌行.md "wikilink")（現・[V6](../Page/V6_\(グループ\).md "wikilink")）、[城島茂](../Page/城島茂.md "wikilink")（現・[TOKIO](../Page/TOKIO.md "wikilink")）、[国分太一](../Page/国分太一.md "wikilink")（現・TOKIO）が出演。また、前作まで主演を務めていた[光GENJI](../Page/光GENJI.md "wikilink")のメンバーのうち、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")と佐藤敦啓（現・[佐藤アツヒロ](../Page/佐藤アツヒロ.md "wikilink")）が出演していた。
+[SMAP](../Page/SMAP.md "wikilink")のドラマデビュー作で、メンバー全員が本人役で出演していた。[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")と[森且行](../Page/森且行.md "wikilink")は途中他局のドラマ撮影のため、不在の期間があった。他に、当時[平家派メンバーで](https://ja.wikipedia.org/wiki/ジャニーズJr.解散グループ_\(1990年以前\)#平家派 "wikilink")、SMAP同様このドラマがデビュー作となった[坂本昌行](../Page/坂本昌行.md "wikilink")（現・[V6](../Page/V6_\(グループ\).md "wikilink")）、[城島茂](../Page/城島茂.md "wikilink")（現・[TOKIO](../Page/TOKIO.md "wikilink")）、[国分太一](../Page/国分太一.md "wikilink")（現・TOKIO）が出演。また、前作まで主演を務めていた[光GENJI](../Page/光GENJI.md "wikilink")のメンバーのうち、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")と佐藤敦啓（現・[佐藤アツヒロ](../Page/佐藤アツヒロ.md "wikilink")）が出演していた。
 
 舞台は[湘南](../Page/湘南.md "wikilink")にある渚学園中等部。放送部員である6人とその他の人物が、様々なトラブルを解決していく。ドラマ本編の途中には「SMAP特別編集」というバラエティコーナーがあった。番組の最後には、SMAPが視聴者に向けて「[ローラースケート](../Page/ローラースケート.md "wikilink")・[スケートボード](../Page/スケートボード.md "wikilink")で公道を走らないでください」と書かれたボードを掲げて注意喚起を行っていた。
 

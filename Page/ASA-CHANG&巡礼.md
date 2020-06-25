@@ -725,7 +725,7 @@ VICL-63123:通常盤</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/たきび" title="wikilink">たきび</a> / <a href="../Page/中山うり.md" title="wikilink">中山うり</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/冬景色" title="wikilink">冬景色</a> / <a href="https://ja.wikipedia.org/wiki/元ちとせ" title="wikilink">元ちとせ</a></li>
 <li><a href="../Page/冬の夜.md" title="wikilink">冬の夜</a> / <a href="https://ja.wikipedia.org/wiki/小林翔" title="wikilink">小林翔</a>＋<a href="https://ja.wikipedia.org/wiki/栗原務" title="wikilink">栗原務</a></li>
-<li>ペチカ / <a href="../Page/嶺川貴子.md" title="wikilink">嶺川貴子</a>＋<a href="https://ja.wikipedia.org/wiki/rei_harakami" title="wikilink">rei harakami</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/ペチカ_(曲)" title="wikilink">ペチカ</a> / <a href="../Page/嶺川貴子.md" title="wikilink">嶺川貴子</a>＋<a href="https://ja.wikipedia.org/wiki/rei_harakami" title="wikilink">rei harakami</a></li>
 <li><a href="../Page/雪_(童謡).md" title="wikilink">雪</a> / <a href="../Page/Saigenji.md" title="wikilink">Saigenji</a></li>
 <li><a href="../Page/雪の降るまちを.md" title="wikilink">雪の降るまちを</a> / <a href="../Page/手嶌葵.md" title="wikilink">手嶌葵</a>＋<a href="../Page/坂本龍一.md" title="wikilink">坂本龍一</a>
 </div>

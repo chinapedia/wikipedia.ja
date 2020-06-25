@@ -38,6 +38,8 @@
   - [スーパーリアル麻雀PV](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀PV "wikilink")（コンテンツアイコン：「セクシャル」）
   - [スーパーリアル麻雀PVI](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀PVI "wikilink")（コンテンツアイコン：「セクシャル」）
   - [スーパーリアル麻雀P7](https://ja.wikipedia.org/wiki/スーパーリアル麻雀#スーパーリアル麻雀P7 "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [アズールレーン クロスウェーブ](https://ja.wikipedia.org/wiki/アズールレーン "wikilink")（コンテンツアイコン：「セクシャル」）
+    PS4版では。
 
 ### Wii U
 
@@ -865,17 +867,17 @@ Xbox 360
 
 ## 関連項目
 
-  - [CERO](https://ja.wikipedia.org/wiki/CERO "wikilink")
-  - [ESRB](https://ja.wikipedia.org/wiki/ESRB "wikilink")
-  - [PEGI](https://ja.wikipedia.org/wiki/PEGI "wikilink")
-  - [OFLC](https://ja.wikipedia.org/wiki/OFLC "wikilink")
-  - [USK](https://ja.wikipedia.org/wiki/USK "wikilink")
+  - [CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")
+  - [ESRB](../Page/エンターテインメントソフトウェアレイティング委員会.md "wikilink")
+  - [PEGI](../Page/汎欧州ゲーム情報.md "wikilink")
+  - [OFLC](../Page/フィルム・文献分類管理局.md "wikilink")
+  - [USK](../Page/ソフトウェア事前審査機構.md "wikilink")
   - [コンピュータゲームのレイティングシステム](../Page/コンピュータゲームのレイティングシステム.md "wikilink")
 
 ## 外部リンク
 
-  - [公式サイト](http://www.cero.gr.jp/index.html)
-      -
-      - [タイトル検索](http://www.cero.gr.jp/search/)（機種別、対象年齢別で審査のなされたソフトの検索ができる）
+  - [コンピュータエンターテインメントレーティング機構](https://www.cero.gr.jp/)
+      - [CERO倫理規定](https://www.cero.gr.jp/relays/download/?file=/files/libs/183/201711211303545293.pdf)
+      - [タイトル検索](http://www.cero.biz/search/)（機種別、対象年齢別で審査のなされたソフトの検索ができる）
 
 [Category:コンピュータゲームのタイトル一覧](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのタイトル一覧 "wikilink") [Category:コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/Category:コンピュータエンターテインメントレーティング機構 "wikilink")

@@ -23,4 +23,4 @@
 
   - [A\&W Root Beer](http://www.rootbeer.com)
 
-[Category:市販清涼飲料水](https://ja.wikipedia.org/wiki/Category:市販清涼飲料水 "wikilink") [Category:アメリカ合衆国の食文化](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の食文化 "wikilink") [Category:沖縄県の食文化](https://ja.wikipedia.org/wiki/Category:沖縄県の食文化 "wikilink")
+[Category:市販清涼飲料水](https://ja.wikipedia.org/wiki/Category:市販清涼飲料水 "wikilink") [Category:アメリカ合衆国の飲料](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の飲料 "wikilink") [Category:沖縄県の食文化](https://ja.wikipedia.org/wiki/Category:沖縄県の食文化 "wikilink")

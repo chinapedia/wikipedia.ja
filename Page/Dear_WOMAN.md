@@ -1,7 +1,7 @@
 > この記事は[Dear WOMAN](https://ja.wikipedia.org/wiki/Dear_WOMAN)から翻訳されています。
 
 
-「**Dear WOMAN**」（ディア ウーマン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の39枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**Dear WOMAN**」（ディア ウーマン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](../Page/SMAP.md "wikilink")の39枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 

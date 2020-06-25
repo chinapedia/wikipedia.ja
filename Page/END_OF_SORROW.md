@@ -33,4 +33,6 @@
   - [LUNA SEA 3D IN LOS ANGELES](https://ja.wikipedia.org/wiki/LUNA_SEA_3D_IN_LOS_ANGELES "wikilink") （2011年6月1日、YICQ-10077〜8）
   - LUNA SEA 25th Anniversary Ultimate Best -THE ONE-（2014.5.28・UPCH-1982/3）
 
+## 脚注
+
 [Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")

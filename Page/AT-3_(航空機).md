@@ -74,6 +74,14 @@ AT-3の要目 [right](https://ja.wikipedia.org/wiki/ファイル:Profil_AIDC_AT-
 
 {{-}}
 
+## 登場作品
+
+### 映画
+
+  - 『トップ・ガイ』
+    AT-3が登場。戦闘機パイロットを目指す主人公たちが搭乗し、[編隊飛行の訓練などを行う](https://ja.wikipedia.org/wiki/編隊_\(航空機\)#軍事 "wikilink")。
+    撮影には、[CGで描かれた機体と台湾空軍の全面協力で実物が使用されている](../Page/コンピュータグラフィックス.md "wikilink")。
+
 ## 脚注・出典
 
 ## 関連項目

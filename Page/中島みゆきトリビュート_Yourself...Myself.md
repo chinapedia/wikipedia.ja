@@ -23,6 +23,6 @@
 10. **Tomorrow** (**[あした](https://ja.wikipedia.org/wiki/あした_\(中島みゆきの曲\) "wikilink")**) / [モーリス・ホワイト](../Page/モーリス・ホワイト.md "wikilink")
       -
         [EW\&Fのヴォーカル](../Page/アース・ウィンド・アンド・ファイアー.md "wikilink")。
-11. **Portrait in Loneliness** (**[孤独の肖像](https://ja.wikipedia.org/wiki/孤独の肖像 "wikilink")**) / [デビー・ギブソン](https://ja.wikipedia.org/wiki/デビー・ギブソン "wikilink")
+11. **Portrait in Loneliness** (**[孤独の肖像](https://ja.wikipedia.org/wiki/孤独の肖像 "wikilink")**) / [デビー・ギブソン](../Page/デビー・ギブソン.md "wikilink")
 
 [Category:2003年のトリビュート・アルバム](https://ja.wikipedia.org/wiki/Category:2003年のトリビュート・アルバム "wikilink") [Category:中島みゆきの制作楽曲によるアルバム](https://ja.wikipedia.org/wiki/Category:中島みゆきの制作楽曲によるアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")

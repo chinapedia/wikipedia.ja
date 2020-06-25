@@ -45,7 +45,7 @@
 
   - [おはようコールABC](../Page/おはようコールABC.md "wikilink")/[おはよう朝日です](../Page/おはよう朝日です.md "wikilink")（[朝日放送](../Page/朝日放送テレビ.md "wikilink")）
   - [どですか\!](../Page/どですか!.md "wikilink")（[名古屋テレビ放送](../Page/名古屋テレビ放送.md "wikilink")）
-  - [アサデス。](https://ja.wikipedia.org/wiki/アサデス。 "wikilink")KBC（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）
+  - [アサデス。](../Page/アサデス。.md "wikilink")KBC（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）
 
 ### 現在のHTBの情報番組
 

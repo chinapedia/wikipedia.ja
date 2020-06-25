@@ -387,6 +387,8 @@ CPUやメモリを装着するドーターボードの仕様が変更され、2C
   - 18倍速SuperDrive最大2台搭載可能
   - HDDもしくはSSDを最大4台搭載可能
 
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Mac_OS_X_Leopard_Install_Disc_in_a_Mac_Pro_\(2485906184\).jpg "wikilink")
+
 ### Mac Pro (2013)
 
 Mid 2012の後継モデルとしてWWDC 2013にて発表された。

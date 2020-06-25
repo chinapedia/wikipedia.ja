@@ -47,7 +47,7 @@
 
 ## 外部リンク
 
-  - [1DAY John-B-Chopper\!?](http://blog.goo.ne.jp/john-b-chopper/) - 本人によるブログ（更新停止）
+  - [1DAY John-B-Chopper\!?](https://blog.goo.ne.jp/john-b-chopper) - 本人によるブログ（更新停止）
   - [JOHN・B・BLOG](http://blog.excite.co.jp/johnbchopper) - 新ブログ
   - [JOHN.B AVENUE](http://www.john-b.jp/) - 本人のホームページ
   - [ジョン・B・チョッパーの悩ンデルタール人\!〜ぼくらは、みんな悩んでいる\!\!〜](http://eonet.jp/ulfuls/) - 本人によるネットラジオ。

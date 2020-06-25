@@ -20,7 +20,7 @@
   - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [MAX](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")
   - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
   - [ZONE](../Page/ZONE_\(バンド\).md "wikilink")
   - [shela](https://ja.wikipedia.org/wiki/shela "wikilink")

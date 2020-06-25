@@ -368,7 +368,7 @@
   - [NHKドラマ 大河ドラマ「花の生涯」](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=taiga01)
   - [大河ドラマ 花の生涯 NHK名作選(動画他) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010103_00000)
 
-[Category:1963年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1963年のテレビドラマ "wikilink") [Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:NHK大津](https://ja.wikipedia.org/wiki/Category:NHK大津 "wikilink") [Category:舟橋聖一原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:舟橋聖一原作のテレビドラマ "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:井伊直弼](https://ja.wikipedia.org/wiki/Category:井伊直弼 "wikilink")
+[Category:1963年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1963年のテレビドラマ "wikilink") [Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:NHK大津](https://ja.wikipedia.org/wiki/Category:NHK大津 "wikilink") [Category:舟橋聖一原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:舟橋聖一原作のテレビドラマ "wikilink") [Category:幕末を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:幕末を舞台としたテレビドラマ "wikilink") [Category:井伊直弼](https://ja.wikipedia.org/wiki/Category:井伊直弼 "wikilink")
 
 1.
 2.  鈴木嘉一『大河ドラマの50年』中央公論新社、2011年

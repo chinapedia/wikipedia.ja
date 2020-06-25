@@ -9,7 +9,7 @@
 
 ### 司会について
 
-  - 両組司会については、紅組司会には[東京アナウンス室在籍](../Page/NHK放送センター.md "wikilink")3年目（NHK在籍自体は5年目）ながら大抜擢される形となった[久保純子](../Page/久保純子.md "wikilink")、白組司会には2年連続での登板となる[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居正広](../Page/中居正広.md "wikilink")がそれぞれ起用された。なお、今回の司会発表は[11月10日](../Page/11月10日.md "wikilink")に行われた。
+  - 両組司会については、紅組司会には[東京アナウンス室在籍](../Page/NHK放送センター.md "wikilink")3年目（NHK在籍自体は5年目）ながら大抜擢される形となった[久保純子](../Page/久保純子.md "wikilink")、白組司会には2年連続での登板となる[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")がそれぞれ起用された。なお、今回の司会発表は[11月10日](../Page/11月10日.md "wikilink")に行われた。
   - 久保は司会発表会見にて、紅組司会の話を聞いた時の心境を聞かれ、「『私でいいんかい?』と思った」と述べた。久保・中居は当時26歳同士（久保は早生まれ）であり、この両組司会について、「44年ぶり\!NHK女性単独[アナウンサーの紅組司会](../Page/日本のアナウンサー.md "wikilink")」「26歳同士。若さと明るさで乗り切る\!」と好意的なマスコミもあった一方、初起用である久保に対して「若さ」を危惧する声が局の内外から上がっていたのも事実だった。総合司会で久保の先輩（[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")の先輩でもある）である[宮本隆治](../Page/宮本隆治.md "wikilink")\[1\]は久保に対し、当時『[NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")』（紅白同様、NHKホールから生放送）の司会をしていた経験から司会の指導を行った。[12月30日](../Page/12月30日.md "wikilink")のリハーサル終了後、「宮本さん、なんだかウキウキしてきました\!」との久保の言葉を聞いた宮本はこの瞬間、久保の凄さと番組の成功を確信したという\[2\]。また、久保は本紅白での紅組司会起用が決定した直後より、各[週刊誌](../Page/週刊誌.md "wikilink")\[3\]で[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")転身・[民放移籍が報じられるようにもなった](../Page/民間放送.md "wikilink")（後にフリー転身）。
   - [有働由美子](https://ja.wikipedia.org/wiki/有働由美子 "wikilink")は後輩である久保が自身より先に紅白の司会に選出されたことに不満を持ち、これがきっかけで2人は確執関係になったとの報道があった\[4\]。なお、久保は以後[第51回](../Page/第51回NHK紅白歌合戦.md "wikilink")（[2000年](../Page/2000年.md "wikilink")）まで紅組司会を連続して担当したが、[第52回](../Page/第52回NHK紅白歌合戦.md "wikilink")（[2001年](../Page/2001年.md "wikilink")） - [第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")（[2003年](../Page/2003年.md "wikilink")）は久保に代わって有働が紅組司会を務める格好となる（2000年に結婚した久保は翌年に産休入りしたことで同年の第52回では司会候補から外れ、代わって有働が選出される運びとなった）。
   - 一部メディアは[前回初出場を果たした](../Page/第48回NHK紅白歌合戦.md "wikilink")[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")や[江角マキコ](https://ja.wikipedia.org/wiki/江角マキコ "wikilink")が紅組司会の有力候補と報じていた。
@@ -28,7 +28,7 @@
       - ちなみにMAXの[Linaは当日](https://ja.wikipedia.org/wiki/Lina_\(歌手\) "wikilink")39度の高熱を出しており、会場に着いた後医務室で倒れ込む状態だったが、医者から尻に注射を打ってステージに立ったという\[7\]。
   - [さだまさし](../Page/さだまさし.md "wikilink")が歌唱した「[北の国から〜遥かなる大地より〜](https://ja.wikipedia.org/wiki/北の国から〜遥かなる大地より〜 "wikilink")」は歌詞のない楽曲であることから、歌詞を付けて歌うと報道された\[8\]が、実際には歌詞を付けて歌うことはなかった。紅白でのハミング歌唱は史上初\[9\]。
   - [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[ウッチャンナンチャンのウリナリ\!\!](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』で結成された[ポケットビスケッツ](../Page/ポケットビスケッツ.md "wikilink")と[ブラックビスケッツ](../Page/ブラックビスケッツ.md "wikilink")が同時に合同ユニットとして初出場。番組出演メンバーも応援団としてステージを盛り上げた。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")は「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」を歌唱。司会席に集結した歌手達も観客同様、ペンライトで応援した。中居の代理としてSMAPの曲紹介は久保が行った。
+  - [SMAP](../Page/SMAP.md "wikilink")は「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」を歌唱。司会席に集結した歌手達も観客同様、ペンライトで応援した。中居の代理としてSMAPの曲紹介は久保が行った。
   - 「[アメリカ橋](https://ja.wikipedia.org/wiki/恵比寿南橋#この橋にちなむ曲 "wikilink")」を歌唱した[山川豊](../Page/山川豊.md "wikilink")のバックコーラスには、白組歌手の[美川憲一](../Page/美川憲一.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")に加え同曲を作曲した[平尾昌晃](../Page/平尾昌晃.md "wikilink")が参加して場を盛り上げた。同曲は年跨ぎのヒットとなり、翌年の第50回でも歌唱された（平尾も2年連続で参加）。今回は持ち時間上2番目の一部が割愛されたが、第50回はリピート部分を除いたフルコーラスで歌われた。
   - 15周年を迎えた[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")から[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")ら人気キャラクターを迎えたコラボレーション企画が行われた。なお、この時のバックダンサーを[教育テレビで放送されている](../Page/NHK教育テレビジョン.md "wikilink")『[天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")』のてれび戦士らが務めており、後に[WaT](../Page/WaT.md "wikilink")として紅白に出場する[ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")も、てれび戦士の1人としてステージを務めた。また[西田ひかる](../Page/西田ひかる.md "wikilink")が「ザッツ ディズニー ファンタジー」の題目で、ディズニーソングの5曲を[メドレー](../Page/メドレー.md "wikilink")形式で披露した。
   - [藤岡弘、](../Page/藤岡弘、.md "wikilink")が、[せがた三四郎](../Page/せがた三四郎.md "wikilink")に扮して登場。[TOKIO](../Page/TOKIO.md "wikilink")の曲紹介を務めた直後、怪人イカデビル率いるショッカー軍団の出現からNHKを守るために[本郷猛](../Page/本郷猛.md "wikilink")として、[仮面ライダー](../Page/仮面ライダー.md "wikilink")に変身。ライダー2号、[V3](../Page/仮面ライダーV3.md "wikilink")、[RXとともにショッカーと果敢に戦い](../Page/仮面ライダーBLACK_RX.md "wikilink")、撃退するという活躍を見せ、低年齢層の視聴者たちの支持を集めた。
@@ -57,7 +57,7 @@
 ## 司会者
 
   - 紅組司会：[久保純子](../Page/久保純子.md "wikilink")（[東京アナウンス室](../Page/NHK放送センター.md "wikilink")）
-  - 白組司会：[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+  - 白組司会：[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）
   - 総合司会：[宮本隆治](../Page/宮本隆治.md "wikilink")（東京アナウンス室）
 
 ## メイン演奏
@@ -90,7 +90,7 @@
 | 曲順                     | 歌手                                                                                                    |
 | 第1部                    |                                                                                                       |
 | 1                      | [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")(2)                                            |
-| 3                      | [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")(初)                                        |
+| 3                      | [モーニング娘。](../Page/モーニング娘。.md "wikilink")(初)                                                           |
 | 5                      | [田川寿美](../Page/田川寿美.md "wikilink")(3)                                                                 |
 | 7                      | [中村美律子](../Page/中村美律子.md "wikilink")(6)                                                               |
 | 9                      | [西田ひかる](../Page/西田ひかる.md "wikilink")(4)                                                               |
@@ -199,8 +199,8 @@ JUDY AND MARYは2001年に解散したため、今回が最後の出場となっ
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink") [Category:1998年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1998年の日本の音楽 "wikilink") [Category:1998年12月](https://ja.wikipedia.org/wiki/Category:1998年12月 "wikilink")
 

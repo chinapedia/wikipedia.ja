@@ -134,7 +134,7 @@
 ## 備考
 
   - 壮大な雪山をバックにした崖上のセットで歌う[PVは](../Page/ミュージック・ビデオ.md "wikilink")、スタジオで撮影され、雪には塩を使っている。
-  - 元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")は、モーニング娘。の[オーディション](../Page/オーディション.md "wikilink")でこの曲を歌った。
+  - 元[モーニング娘。](../Page/モーニング娘。.md "wikilink")の[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")は、モーニング娘。の[オーディション](../Page/オーディション.md "wikilink")でこの曲を歌った。
   - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")が、2004年10月の『ミュージックステーションSP』で、究極のラブソングBEST100に「I BELIEVE」がランクインした際に“印象深い曲”として触れ、「カラオケでキーの高い朋ちゃんの曲を全部歌えると“あっ、やった\!”という気分になる」と、コメントしていた。ちなみに、浜崎自身は思い出に残るラブソングとして「I'm proud」を挙げていた。
   - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が著書「罪と音楽」の中で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")逮捕時の取り調べで担当検事から「I Believeは名曲ですよ」と言われたエピソードを述べている。
   - [マツコデラックス](https://ja.wikipedia.org/wiki/マツコデラックス "wikilink")が華原朋美の楽曲の中で一番好きな楽曲だという。

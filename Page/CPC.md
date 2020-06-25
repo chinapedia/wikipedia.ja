@@ -7,7 +7,7 @@
 
 ### 政党
 
-  - [カナダ共産党](https://ja.wikipedia.org/wiki/カナダ共産党 "wikilink") ([:en:Communist Party of Canada](https://ja.wikipedia.org/wiki/:en:Communist_Party_of_Canada "wikilink"))
+  - [カナダ共産党](https://ja.wikipedia.org/wiki/カナダ共産党 "wikilink") (Communist Party of Canada)
   - [カナダ共産党 (マルクスレーニン主義)](https://ja.wikipedia.org/wiki/カナダ共産党_\(マルクスレーニン主義\) "wikilink") ([Communist Party of Canada (Marxist-Leninist)](https://ja.wikipedia.org/wiki/:en:Communist_Party_of_Canada_\(Marxist-Leninist\) "wikilink"))
   - [カナダ保守党](../Page/カナダ保守党.md "wikilink") (Conservative Party of Canada)
   - [中国共産党](../Page/中国共産党.md "wikilink") (Communist Party of China)

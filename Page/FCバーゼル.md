@@ -312,6 +312,8 @@
 
   - [ジャック・ズア](https://ja.wikipedia.org/wiki/ジャック・ズア "wikilink") 2009-2013
 
+  - [朴光龍](https://ja.wikipedia.org/wiki/朴光龍 "wikilink") 2011-2013
+
   - [モハメド・サラー](https://ja.wikipedia.org/wiki/モハメド・サラー "wikilink") 2012-2014
 
   - [ブレール・エンボロ](https://ja.wikipedia.org/wiki/ブレール・エンボロ "wikilink") 2014-2016

@@ -61,7 +61,7 @@
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")(金子、織田、河合、小林)
   - [MINAKO](https://ja.wikipedia.org/wiki/MINAKO "wikilink")(金子、織田、河合、佐々木、小林)
   - [村上“ポンタ”秀一](../Page/村上秀一.md "wikilink")(金子、織田、河合、佐々木、小林)
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")(河合、小林。但し、サックス及びホーンアレンジは[竹上良成](https://ja.wikipedia.org/wiki/竹上良成 "wikilink")が担当)
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")(河合、小林。但し、サックス及びホーンアレンジは[竹上良成](https://ja.wikipedia.org/wiki/竹上良成 "wikilink")が担当)
   - [米倉利紀](../Page/米倉利紀.md "wikilink")(金子、織田、河合、小林)
   - [渡辺美里](../Page/渡辺美里.md "wikilink")(金子、織田、河合、小林)
   - [野猿](../Page/野猿.md "wikilink")(村田)　アルバム[STAFF　ROLLのみ参加](../Page/STAFF_ROLL.md "wikilink")　他多数

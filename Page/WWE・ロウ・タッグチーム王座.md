@@ -656,7 +656,7 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td><p>セス・ロリンズ (6) &amp; <a href="https://ja.wikipedia.org/wiki/マット・シルバ" title="wikilink">バディ・マーフィー</a></p></td>
+<td><p>セス・ロリンズ (6) &amp; <a href="https://ja.wikipedia.org/wiki/マット・シルバ" title="wikilink">マーフィー</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>1月20日</p></td>
 <td><p>RAW</p></td>

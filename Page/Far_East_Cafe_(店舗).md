@@ -369,7 +369,7 @@
 11. この年は[宝塚記念](https://ja.wikipedia.org/wiki/宝塚記念 "wikilink")（[阪神競馬場](../Page/阪神競馬場.md "wikilink")）の発走前セレモニーにも出演しているが、こちらは未収録となっている。
 12. 同年8月7日に行われた公演を収録。
 13. 同年5月4日、[早稲田大学戸山キャンパス](https://ja.wikipedia.org/wiki/早稲田大学戸山キャンパス "wikilink")内記念講堂にて実施。
-14. ただし、[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）がゲスト出演したシーンは[所属事務所の著作権管理上のため](../Page/ジャニーズ事務所.md "wikilink")、収録されていない。
+14. ただし、[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）がゲスト出演したシーンは[所属事務所の著作権管理上のため](../Page/ジャニーズ事務所.md "wikilink")、収録されていない。
 15. 『[22'50"](../Page/クリスマスの約束.md "wikilink")』は演奏した一部の曲に使用許可が下りなかったため、収録されていない。
 16. 5大ドーム公演（東京ドーム、[札幌ドーム](../Page/札幌ドーム.md "wikilink")、[福岡Yahoo\! Japanドーム](../Page/福岡ドーム.md "wikilink")（当時）、[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")、[京セラドーム大阪](../Page/大阪ドーム.md "wikilink")）含む。
 17. 『[28'58"](https://ja.wikipedia.org/wiki/28'58"_\(曲\) "wikilink")』は演奏した一部の曲に使用許可が下りなかったため、収録されていない。

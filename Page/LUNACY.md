@@ -70,4 +70,4 @@
 
 [Category:LUNA_SEAのアルバム](https://ja.wikipedia.org/wiki/Category:LUNA_SEAのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
 
-1.  [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#16」](http://blog.oricon.co.jp/lunasea/16) Oricon Style、2007年12月22日
+1.  [山本弘子「証言 LUNA SEA 軌跡 カウントダウン\#16」](https://web.archive.org/web/20081211160926/http://blog.oricon.co.jp/lunasea/16) Oricon Style、2007年12月22日(2008年12月11日時点でのアーカイブより引用)

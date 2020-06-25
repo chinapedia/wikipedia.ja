@@ -190,7 +190,7 @@
 
   - [人身売買](../Page/人身売買.md "wikilink")
   - [介護](../Page/介護.md "wikilink")
-  - [孤独死](https://ja.wikipedia.org/wiki/孤独死 "wikilink")
+  - [孤独死](../Page/孤独死.md "wikilink")
   - [独居老人](../Page/独居老人.md "wikilink")
   - [児童虐待](../Page/児童虐待.md "wikilink")
   - [マインドコントロール](../Page/マインドコントロール.md "wikilink")

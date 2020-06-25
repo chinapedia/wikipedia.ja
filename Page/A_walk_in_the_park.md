@@ -1,7 +1,7 @@
 > この記事は[A walk in the park](https://ja.wikipedia.org/wiki/A_walk_in_the_park)から翻訳されています。
 
 
-「**a walk in the park**」（ウォーク・イン・ザ・パーク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では8枚目の[シングル](../Page/シングル.md "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+「**a walk in the park**」（ウォーク・イン・ザ・パーク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では8枚目の[シングル](../Page/シングル.md "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 
@@ -60,7 +60,7 @@
 
 ## 脚注
 
-[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:1996年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:公園を題材とした作品](https://ja.wikipedia.org/wiki/Category:公園を題材とした作品 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「JANSiS」62Pより。

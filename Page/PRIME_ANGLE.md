@@ -7,7 +7,7 @@
 
 14:00から17:00まで3時間放送されており、番組当初から「アフター5に役立つ情報」と「ニュースを解かりやすく解説」をモットーに放送されていた。
 
-前身は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月から2000年3月まで放送されていた[TOKIO LIFE](https://ja.wikipedia.org/wiki/TOKIO_LIFE "wikilink")。同番組で水曜・木曜を担当していた[金子奈緒](../Page/金子奈緒.md "wikilink")がナビゲーターを務め、同じく3月まで放送されたTHE VILLAGEに出演していた[中島渉](https://ja.wikipedia.org/wiki/中島渉 "wikilink")がニュース解説を担当した。2002年4月以降は新たに[入江たのし](../Page/入江たのし.md "wikilink")・[小林至](https://ja.wikipedia.org/wiki/小林至 "wikilink")の両名がコメンテーターが加わり3人編成となった。2004年4月には前月限りで降板した中島に代わり[島田昭彦](https://ja.wikipedia.org/wiki/島田昭彦 "wikilink")が加わる。2005年3月で放送終了した。
+前身は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月から2000年3月まで放送されていた[TOKIO LIFE](https://ja.wikipedia.org/wiki/TOKIO_LIFE "wikilink")。同番組で水曜・木曜を担当していた[金子奈緒](../Page/金子奈緒.md "wikilink")がナビゲーターを務め、同じく3月まで放送されたTHE VILLAGEに出演していた[中島渉](https://ja.wikipedia.org/wiki/中島渉 "wikilink")がニュース解説を担当した。2002年4月以降は新たに[入江たのし](../Page/入江たのし.md "wikilink")・[小林至](https://ja.wikipedia.org/wiki/小林至 "wikilink")の両名がコメンテーターが加わり3人編成となった。2004年4月には前月限りで降板した中島に代わり[島田昭彦](../Page/島田昭彦.md "wikilink")が加わる。2005年3月で放送終了した。
 
 ## 放送時間
 

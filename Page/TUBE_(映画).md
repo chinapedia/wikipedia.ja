@@ -15,7 +15,7 @@
   - ソン・インギョン - [ペ・ドゥナ](../Page/ペ・ドゥナ.md "wikilink")： スリ
   - カン・ギテク - [パク・サンミン](https://ja.wikipedia.org/wiki/パク・サンミン "wikilink")： 元国家情報部秘密要員
   - クォン中央統制室長 - [ソン・ビョンホ](https://ja.wikipedia.org/wiki/ソン・ビョンホ "wikilink")
-  - 刑事班長 - [イム・ヒョンシク](https://ja.wikipedia.org/wiki/イム・ヒョンシク "wikilink")
+  - 刑事班長 - [イム・ヒョンシク](../Page/イム・ヒョンシク.md "wikilink")
   - かみそり - [クォン・オジュン](https://ja.wikipedia.org/wiki/クォン・オジュン_\(俳優\) "wikilink")： スリ
   - ソン・イルグォン - [ソン・ヨンテ](https://ja.wikipedia.org/wiki/ソン・ヨンテ "wikilink")： 前総理
   - 新婚男 - [チョン・ジュン](https://ja.wikipedia.org/wiki/チョン・ジュン "wikilink")： 線路担当統制室職員、[友情出演](../Page/カメオ出演.md "wikilink")
@@ -60,7 +60,7 @@
 </tr>
 <tr class="even">
 <td><p>刑事班長</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イム・ヒョンシク" title="wikilink">イム・ヒョンシク</a></p></td>
+<td><p><a href="../Page/イム・ヒョンシク.md" title="wikilink">イム・ヒョンシク</a></p></td>
 <td><p><a href="../Page/富田耕生.md" title="wikilink">富田耕生</a></p></td>
 </tr>
 <tr class="odd">

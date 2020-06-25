@@ -66,7 +66,7 @@
 
   - [アラン・ガイガー](https://ja.wikipedia.org/wiki/アラン・ガイガー "wikilink") 2002-2003, 2005-2006
 
-  - [マリンコ・ジュレンディック](https://ja.wikipedia.org/wiki/マリンコ・ジュレンディック "wikilink") 2017-
+  - [マリンコ・ジュレンディック](https://ja.wikipedia.org/wiki/マリンコ・ジュレンディック "wikilink") 2017-2018
 
 ## 歴代所属選手
 
@@ -105,4 +105,7 @@
 
   - [クラブの公式サイト](http://www.fcaarau.ch/)（ドイツ語）
 
+  -
+  -
+  -
 [Category:スイスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スイスのサッカークラブ "wikilink")

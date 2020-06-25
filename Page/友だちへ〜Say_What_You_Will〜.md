@@ -1,7 +1,7 @@
 > この記事は[友だちへ〜Say What You Will〜](https://ja.wikipedia.org/wiki/友だちへ〜Say_What_You_Will〜)から翻訳されています。
 
 
-「**友だちへ〜Say What You Will〜**」（ともだちへ〜セイ ワット ユー ウィル〜）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の36枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")（平成17年）[1月19日](../Page/1月19日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
+「**友だちへ〜Say What You Will〜**」（ともだちへ〜セイ ワット ユー ウィル〜）は、[SMAP](../Page/SMAP.md "wikilink")の36枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")（平成17年）[1月19日](../Page/1月19日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 概要
 
@@ -9,12 +9,12 @@
   - [ギタリスト](../Page/ギタリスト.md "wikilink")、[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")が[愛・地球博のテーマソングとして作詞](../Page/2005年日本国際博覧会.md "wikilink")・作曲を手がけた「Say What You Will」（アルバム『[バック・ホーム](../Page/バック・ホーム.md "wikilink")』に収録）を、SMAPが「友だちへ〜Say What You Will〜」としてカバーした形で発売となる。作曲に[サイモン・クライミー](https://ja.wikipedia.org/wiki/サイモン・クライミー "wikilink")も加わり、日本語訳は[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")が担当、編曲は[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のプロデューサーで知られ、他にも数々のアーティストの音楽活動に携わっている[小林武史](../Page/小林武史.md "wikilink")が担当した。
   - ジャケットは、両面を使えるようになっている。ジャケットに大きく写っている[ピースサイン](../Page/ピースサイン.md "wikilink")で星の形を作っているのはSMAPの5人である。
   - 「友だちへ〜Say What You Will〜」は2005年（平成17年）[7月27日](../Page/7月27日.md "wikilink")に発売のアルバム『[SAMPLE BANG\!](../Page/SAMPLE_BANG!.md "wikilink")』に収録されている。
-  - 『[Smac](../Page/Smac.md "wikilink")』以降、メンバー全員にソロパートがあったが、この曲は中居にのみソロパートが存在しない。
+  - 『[Smac](../Page/Smac.md "wikilink")』以降、メンバー全員にソロパートがあったが、この曲は中居にのみソロパートが存在しない(中居には2番目のBメロで稲垣とのハモりパートが与えられている)。
   - 「Song of X'smap」は、SMAP全員が出演した[2004年](../Page/2004年.md "wikilink")（平成16年）[12月25日](../Page/12月25日.md "wikilink")に[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、『[プレミアムステージ](https://ja.wikipedia.org/wiki/プレミアムステージ "wikilink")』で放送したドラマ『[X'smap〜虎とライオンと五人の男〜](../Page/X'smap〜虎とライオンと五人の男〜.md "wikilink")』主題歌。作詞は、後にリリースすることとなる「[Dear WOMAN](../Page/Dear_WOMAN.md "wikilink")」の作詞も手がけた麻生哲朗。作曲は[菅野よう子](../Page/菅野よう子.md "wikilink")。編曲は武藤星児。ドラマの放映当時にはCD化の予定はなく、2004年（平成16年）[12月24日](../Page/12月24日.md "wikilink")から3日間限定で[インターネット](../Page/インターネット.md "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")の[着うた](../Page/着うた.md "wikilink")・[着メロ](https://ja.wikipedia.org/wiki/着メロ "wikilink")で配信限定曲として有料配信されたことがあった\[1\]。またエンディングテーマとして同曲のバラードバージョンが放送されたが、そちらは配信もCD化もされていない。オリジナル・バージョンは[2016年](../Page/2016年.md "wikilink")（平成28年）[12月21日](../Page/12月21日.md "wikilink")に発売のベストアルバム『[SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")』に収録された。
 
 ## チャート成績
 
-  - [2005年](../Page/2005年.md "wikilink")（平成17年）[1月31日](../Page/1月31日.md "wikilink")付のオリコン週間シングルチャートで、初週24.1万枚を売り上げ、初登場1位を獲得した。
+  - [2005年](../Page/2005年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")付のオリコン週間シングルチャートで、初週24.1万枚を売り上げ、初登場1位を獲得した。
   - 累計売上は36.5万枚（[オリコン](../Page/オリコン.md "wikilink")調べ）。
 
 ## 収録曲

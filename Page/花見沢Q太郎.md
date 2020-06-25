@@ -30,7 +30,7 @@
   - [ちまちまはいすくーる](../Page/ちまちまはいすくーる.md "wikilink")（1996年12月、[少年画報社](../Page/少年画報社.md "wikilink")、『[ヤングキング](../Page/ヤングキング.md "wikilink")』連載、全1巻）
   - [痛快すずらん通り](../Page/痛快すずらん通り.md "wikilink")（1997年7月、少年画報社、『ヤングキング』連載、全1巻）
   - [HoneyBlue](../Page/HoneyBlue.md "wikilink")（1998年6月、少年画報社、『ヤングキング』連載、全1巻）
-  - [冒険どきの私達伝説](../Page/冒険どきの私達伝説.md "wikilink")（1998年8月、[集英社](../Page/集英社.md "wikilink")、『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』連載、全1巻）
+  - [冒険どきの私達伝説](../Page/冒険どきの私達伝説.md "wikilink")（1998年8月、[集英社](../Page/集英社.md "wikilink")、『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』連載、全1巻）
   - [白い月光](https://ja.wikipedia.org/wiki/白い月光 "wikilink")（1999年2月 - 7月、少年画報社、『ヤングキング』連載、全2巻）
   - [ももいろさんご](../Page/ももいろさんご.md "wikilink")（2000年11月 - 2008年10月、少年画報社、『ヤングキング』連載、全13巻）
   - [BWH](https://ja.wikipedia.org/wiki/BWH_\(漫画\) "wikilink")（ベルウッドハウス）（2001年3月 - 2002年9月、集英社、全3巻）

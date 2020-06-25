@@ -1,7 +1,7 @@
 > この記事は[Pop Up! SMAP](https://ja.wikipedia.org/wiki/Pop_Up!_SMAP)から翻訳されています。
 
 
-『**Pop Up\! SMAP**』（ポップ アップ\! スマップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")**[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**の17枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[ビクターエンタテインメントから発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
+『**Pop Up\! SMAP**』（ポップ アップ\! スマップ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")**[SMAP](../Page/SMAP.md "wikilink")**の17枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[ビクターエンタテインメントから発売](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 

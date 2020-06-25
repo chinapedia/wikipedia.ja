@@ -44,7 +44,7 @@
 11. **[翼をください](../Page/翼をください.md "wikilink")**（[赤い鳥](https://ja.wikipedia.org/wiki/赤い鳥_\(フォークグループ\) "wikilink")）
       - （ゲストの山本潤子と）
 12. **[woh woh](https://ja.wikipedia.org/wiki/woh_woh "wikilink")**
-13. **[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")**（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+13. **[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")**（[SMAP](../Page/SMAP.md "wikilink")）
 14. **[風のように](../Page/緑の街_\(小田和正の曲\).md "wikilink")**
 15. **[Little Tokyo](../Page/Little_Tokyo.md "wikilink")**
 16. **[The Flag](../Page/個人主義_\(小田和正のアルバム\).md "wikilink")**

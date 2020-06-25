@@ -92,10 +92,10 @@ FFDはLittlewitchにおける象徴的な演出方法ではあるが、これを
 ## 外部リンク
 
   - [Littlewitch OFFICIAL WEB SITE](http://www.littlewitch.jp/)（年齢確認あり）
-  - [DreamCast版 白詰草話](https://sega.jp/dc/030602/) 製品情報
-  - [PS2版 Quartett\! ～THE STAGE OF LOVE～](http://www.oaks-soft.co.jp/princess-soft/quartett/) 製品情報
+  - [DreamCast版 白詰草話](https://web.archive.org/web/20141110180433/https://sega.jp/dc/030602/) 製品情報（2014年11月10日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
+  - [PS2版 Quartett\! ～THE STAGE OF LOVE～](https://web.archive.org/web/20160920151605/http://www.oaks-soft.co.jp/princess-soft/quartett/) 製品情報（2016年9月20日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
   - [PS2版 少女魔法学リトルウィッチロマネスク ～アリアとカヤと黒の塔～](http://www.success-corp.co.jp/software/ps2/littlewitch/) 製品情報
-  - [gyutto.com](http://gyutto.com/search/search_list.php?mode=search&author_id=1814&category_id=6&set_category_flag=1) ダウンロード版販売サイト
+  - [gyutto.com](https://gyutto.com/search/search_list.php?mode=search&author_id=1814&category_id=6&set_category_flag=1) ダウンロード版販売サイト
 
 [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 

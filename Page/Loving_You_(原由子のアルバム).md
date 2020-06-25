@@ -80,7 +80,7 @@
 16. **[みんないい子](https://ja.wikipedia.org/wiki/みんないい子 "wikilink") (わるい子ヴァージョン)** (BONUS TRACK)
       -
         （作詞・作曲・編曲：桑田佳祐）
-        元は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")と「香取慎吾&原由子」名義で発売されたもの。こちらのオリジナルバージョンは[フジテレビ系バラエティ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[中居正広のボクらはみんな生きている](../Page/中居正広のボクらはみんな生きている.md "wikilink")』テーマソングになっている。SMAPと原及びサザンオールスターズは同じレコード会社[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")所属であり、発売のきっかけもここにある。本作では権利上の問題でボーカルを桑田佳祐に替え、実質「原由子&桑田佳祐」で収録されている。“わるい子ヴァージョン”とあるが、歌詞に変更などはない。
+        元は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[SMAP](../Page/SMAP.md "wikilink")の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")と「香取慎吾&原由子」名義で発売されたもの。こちらのオリジナルバージョンは[フジテレビ系バラエティ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[中居正広のボクらはみんな生きている](../Page/中居正広のボクらはみんな生きている.md "wikilink")』テーマソングになっている。SMAPと原及びサザンオールスターズは同じレコード会社[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")所属であり、発売のきっかけもここにある。本作では権利上の問題でボーカルを桑田佳祐に替え、実質「原由子&桑田佳祐」で収録されている。“わるい子ヴァージョン”とあるが、歌詞に変更などはない。
 
 ## 脚注
 

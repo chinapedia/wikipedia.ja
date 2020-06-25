@@ -39,8 +39,10 @@
 
   - [1962年](../Page/1962年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")、松森の本社敷地内から送信所移転。
 
-  -
-  -
+  - 。
+
+  - 。
+
   - RABラジオは地域ごとに異なる内容の番組・CMを流す時間帯が設けられており、[野辺地ラジオ中継局](../Page/野辺地ラジオ中継局.md "wikilink")と[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")・radikoプレミアムは青森局の内容を、[八戸局と](https://ja.wikipedia.org/wiki/RAB八戸ラジオ中継局 "wikilink")[十和田局は八戸局の内容を](../Page/十和田ラジオ中継局.md "wikilink")、[弘前局と](../Page/弘前ラジオ中継局.md "wikilink")[深浦局は弘前局の内容を放送している](../Page/深浦ラジオ中継局.md "wikilink")。
 
 ## 関連項目

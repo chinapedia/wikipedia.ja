@@ -83,7 +83,7 @@
 
 ## 後日譚
 
-  - 『オールスター歌合戦』に男性司会同士の舌戦で対抗する意味合いとして2年連続で実施した[宮田輝](../Page/宮田輝.md "wikilink")・[高橋圭三](../Page/高橋圭三.md "wikilink")による両組男性司会は今回で終了（これは先述の宮田や三木への野次も一因とされる）、今回を最後に男性の紅組司会は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）の[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）まで途絶える\[4\]。
+  - 『オールスター歌合戦』に男性司会同士の舌戦で対抗する意味合いとして2年連続で実施した[宮田輝](../Page/宮田輝.md "wikilink")・[高橋圭三](../Page/高橋圭三.md "wikilink")による両組男性司会は今回で終了（これは先述の宮田や三木への野次も一因とされる）、今回を最後に男性の紅組司会は[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）の[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）まで途絶える\[4\]。
   - 司会陣が全員NHKアナウンサーで固められるケースは[第52回](../Page/第52回NHK紅白歌合戦.md "wikilink")（[2001年](../Page/2001年.md "wikilink")）までなかった。また、司会陣が全員男性という体制は今回以降ない。
   - 翌年の[第8回の司会陣に関し](../Page/第8回NHK紅白歌合戦.md "wikilink")、高橋・[石井鐘三郎](https://ja.wikipedia.org/wiki/石井鐘三郎 "wikilink")は続投したものの、紅組司会は宮田から[水の江瀧子](../Page/水の江瀧子.md "wikilink")に交代。宮田は[第13回](../Page/第13回NHK紅白歌合戦.md "wikilink")（[1962年](../Page/1962年.md "wikilink")）でこの[前年を以って降板した同期の高橋](../Page/第12回NHK紅白歌合戦.md "wikilink")（NHK退職・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")転身に伴うもの）に代わって白組司会として司会復帰している。
   - [2004年](../Page/2004年.md "wikilink")に[NHKラジオ第1で放送された特集番組内で](../Page/NHKラジオ第1放送.md "wikilink")、現存するラジオ中継の音声のうち、[江利チエミ](../Page/江利チエミ.md "wikilink")の歌の音声が紹介された。
@@ -101,7 +101,7 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1956年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1956年のテレビ番組_\(日本\) "wikilink") [Category:1956年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1956年のラジオ番組_\(日本\) "wikilink") [Category:1956年の音楽](https://ja.wikipedia.org/wiki/Category:1956年の音楽 "wikilink") [Category:1956年12月](https://ja.wikipedia.org/wiki/Category:1956年12月 "wikilink")
 

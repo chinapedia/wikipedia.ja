@@ -21,7 +21,7 @@
   - 「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」がヒットし、初出場した[KAN](../Page/KAN.md "wikilink")はこの年[モーツァルト没年](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink")200年ということもあって、モーツァルトに扮した衣装で登場した。サビの部分から風船を持ったコーラス隊（[音羽ゆりかご会](../Page/音羽ゆりかご会.md "wikilink")※歴代の合唱団メンバーから現役メンバーまで老若男女を問わず約50名）が参加し、華やかなステージとなった。
   - 第1部最後にこの年発生した[雲仙普賢岳噴火災害の被災者へのメッセージソングとして出場者の](../Page/雲仙岳.md "wikilink")1人である[さだまさし](../Page/さだまさし.md "wikilink")（雲仙のある[長崎県](../Page/長崎県.md "wikilink")出身）が作詞・作曲を手掛けた「 Smile_Again Smile Again 」を出場歌手で大合唱するというコーナーが設けられた。以後、番組内でオリジナルソング・テーマソングを歌唱する演出が恒例的に行われるようになる。
   - 従来白テロップだった司会者と歌手の名前テロップに初めてアニメーションと装飾がなされるようになる。紅組の歌手紹介はオレンジ色のバー、白組は青色のバー、山川は金色のバーに名前とイニシャル（名前部分が頭文字で、名字が英字表記。グループ名がアルファベット表記の場合はカタカナ表記）が表示される。アニメーションは山川が画面奥から飛び出してきて、消える時は下に下がる。両軍司会と歌手は画面横端（紅組は左端、白組は右端）からスライドして、両軍司会はそのまま引っ込む。歌手はバーが上に向かって斜めった後、画面手前に消える。地上波の審査員・ゲスト等とBS2の全出演者に関しては従前の白テロップ。
-  - この年初出場となった[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が歌唱中に表示されるはずであった歌詞テロップがトラブルにより曲の最後まで表示されなかった。
+  - この年初出場となった[SMAP](../Page/SMAP.md "wikilink")が歌唱中に表示されるはずであった歌詞テロップがトラブルにより曲の最後まで表示されなかった。
   - [石川さゆり](../Page/石川さゆり.md "wikilink")はこの年の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[君の名は](../Page/君の名は.md "wikilink")』（『連続テレビ小説』開始30周年記念で1年放映。同作出演者の[田中好子](../Page/田中好子.md "wikilink")が審査員を担当）の主題歌「君の名は」を担当していたが、本紅白ではそちら楽曲ではなく当時最新曲であった「[港唄](https://ja.wikipedia.org/wiki/港唄 "wikilink")」を歌唱\[5\]。
   - 今回はゲスト審査員のほか、無作為抽出による全国600世帯の視聴者モニター、会場の観客も審査に参加。なお、観客審査員の得点集計は例年のうちわやボードといった手法ではなく、観客席の真上に浮いているUFO型の模型に内蔵されたマイクにより観客の歓声を拾い集め、どちらの組により多くの歓声が集まったかを[デシベル](../Page/デシベル.md "wikilink")の単位で数値化し、その数値の高かったチームに会場審査員票を加算するというユニークな方式が採られた。
   - 優勝は紅組。通算成績は紅組23勝19敗、白組19勝23敗。
@@ -244,7 +244,7 @@
   - [前川清](../Page/前川清.md "wikilink")も[内山田洋とクール・ファイブ](../Page/内山田洋とクール・ファイブ.md "wikilink")（グループで紅白は[1982年](../Page/1982年.md "wikilink")まで11回出場）脱退後にソロ歌手として9年ぶりに紅白に復帰した。
   - [テレサ・テン](../Page/テレサ・テン.md "wikilink")は1986年（昭和61年）以来5年ぶりの復帰となり、同1986年のヒット曲「[時の流れに身をまかせ](../Page/時の流れに身をまかせ.md "wikilink")」を歌唱した。しかし、今回がテレサの生涯最後の紅白出場となり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）5月にテレサは42歳の若さで死去。
 
-初出場組は[とんねるず](../Page/とんねるず.md "wikilink")、[X](../Page/X_JAPAN.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[森口博子](../Page/森口博子.md "wikilink")、[西田ひかる](../Page/西田ひかる.md "wikilink")、海外からはショービジネス界の重鎮・[アンディ・ウィリアムス](https://ja.wikipedia.org/wiki/アンディ・ウィリアムス "wikilink")や、日本におけるグループサウンズブームの火付け役であり根強い人気を誇る[ザ・ベンチャーズ](../Page/ザ・ベンチャーズ.md "wikilink")ら計23組。この23組という初出場歌手数は番組史上最多である。
+初出場組は[とんねるず](../Page/とんねるず.md "wikilink")、[X](../Page/X_JAPAN.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")、[森口博子](../Page/森口博子.md "wikilink")、[西田ひかる](../Page/西田ひかる.md "wikilink")、海外からはショービジネス界の重鎮・[アンディ・ウィリアムス](https://ja.wikipedia.org/wiki/アンディ・ウィリアムス "wikilink")や、日本におけるグループサウンズブームの火付け役であり根強い人気を誇る[ザ・ベンチャーズ](../Page/ザ・ベンチャーズ.md "wikilink")ら計23組。この23組という初出場歌手数は番組史上最多である。
 
 この年も前回同様[12月5日](../Page/12月5日.md "wikilink")に紅組28組、白組27組の出場歌手を先ず発表。最終決定は[12月12日](../Page/12月12日.md "wikilink")までずれ込む。最後に決まった出場歌手は[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")人の音楽グループ、[スモーキー・マウンテンだった](https://ja.wikipedia.org/wiki/スモーキー・マウンテン_\(音楽グループ\) "wikilink")\[12\]。
 
@@ -293,8 +293,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:1991年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のラジオ番組_\(日本\) "wikilink") [Category:1991年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1991年の日本の音楽 "wikilink") [Category:1991年12月](https://ja.wikipedia.org/wiki/Category:1991年12月 "wikilink")
 

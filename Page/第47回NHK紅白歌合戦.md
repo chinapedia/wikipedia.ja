@@ -15,7 +15,7 @@
   - [ウルフルズ](../Page/ウルフルズ.md "wikilink")は同ボーカルの[トータス松本](../Page/トータス松本.md "wikilink")が演中に倒れて演奏がストップ。白組歌手からの「トータス\!トータス\!…」と呼びかける掛け声で立ち上りまた歌いだすという演出を行った。これは「[ガッツだぜ\!\!](../Page/ガッツだぜ!!.md "wikilink")」のミュージックビデオを踏襲したものである。
   - [近藤真彦](../Page/近藤真彦.md "wikilink")の演奏が始まる前に、まだCDデビュー前（翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にCDデビュー）の[KinKi Kidsが登場し](../Page/KinKi_Kids.md "wikilink")「[ミッドナイト・シャッフル](https://ja.wikipedia.org/wiki/ミッドナイト・シャッフル "wikilink")」のサビ部分を歌った。また演奏に[たのきんトリオ](../Page/たのきんトリオ.md "wikilink")の[野村義男](../Page/野村義男.md "wikilink")がギター奏者として参加。
   - 初登場の[華原朋美](../Page/華原朋美.md "wikilink")の歌唱では、彼女の音楽プロデューサーで交際中であった[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がピアノ演奏で参加（小室は[globe](https://ja.wikipedia.org/wiki/globe "wikilink")としても出場している）。小室のピアノソロで華原は歌唱した。
-  - この年[森且行](../Page/森且行.md "wikilink")が脱退し、5人編成となった[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が今回初めて第2部で歌唱（以後、毎回第2部で登場）。第2部オープニングで松・古舘が揃って登場、古舘はSMAPを時代をねじ伏せた男達と紹介し、SMAPと共演経験のある松に「何も言うことはありません」と言わしめた（曲タイトル読み上げも2人で行われた）。また、SMAPは[鳥羽一郎](../Page/鳥羽一郎.md "wikilink")の歌唱時にもバックダンサーとして登場した。
+  - この年[森且行](../Page/森且行.md "wikilink")が脱退し、5人編成となった[SMAP](../Page/SMAP.md "wikilink")が今回初めて第2部で歌唱（以後、毎回第2部で登場）。第2部オープニングで松・古舘が揃って登場、古舘はSMAPを時代をねじ伏せた男達と紹介し、SMAPと共演経験のある松に「何も言うことはありません」と言わしめた（曲タイトル読み上げも2人で行われた）。また、SMAPは[鳥羽一郎](../Page/鳥羽一郎.md "wikilink")の歌唱時にもバックダンサーとして登場した。
   - [玉置浩二](../Page/玉置浩二.md "wikilink")のバックバンドには[TOKIO](../Page/TOKIO.md "wikilink")を迎えて演奏した。
   - [米米CLUB](../Page/米米CLUB.md "wikilink")は、「[浪漫飛行](../Page/浪漫飛行.md "wikilink")」の終了直前に同ボーカルの[カールスモーキー石井がステージから客席に転落した](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")。
   - [憲三郎](../Page/木梨憲武.md "wikilink")&[ジョージ山本は](../Page/山本譲二.md "wikilink")、[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")の掛け声と共に登場。しかし憲三郎が北島に似せたメイク、そして[ものまねで歌ったことで会場が笑いに包まれた](../Page/物真似.md "wikilink")。この時の映像は、ユニットを生んだ[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[とんねるずの生でダラダラいかせて\!\!](../Page/とんねるずの生でダラダラいかせて!!.md "wikilink")』内でも放送された。
@@ -167,8 +167,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink") [Category:1996年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1996年の日本の音楽 "wikilink") [Category:1996年12月](https://ja.wikipedia.org/wiki/Category:1996年12月 "wikilink")
 

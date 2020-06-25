@@ -1,7 +1,7 @@
 > この記事は[AICJ中学校・高等学校](https://ja.wikipedia.org/wiki/AICJ中学校・高等学校)から翻訳されています。
 
 
-**AICJ中学校・高等学校**（エーアイシージェイちゅうがっこう・こうとうがっこう）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐南区](../Page/安佐南区.md "wikilink")にある[私立](../Page/私立学校.md "wikilink")[中高一貫校](https://ja.wikipedia.org/wiki/中高一貫校 "wikilink")。
+**AICJ中学校・高等学校**（エーアイシージェイちゅうがっこう・こうとうがっこう）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[安佐南区](../Page/安佐南区.md "wikilink")にある[私立](../Page/私立学校.md "wikilink")[中学校](../Page/中学校.md "wikilink")・[高等学校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")。
 
 [国際バカロレア](../Page/国際バカロレア.md "wikilink")認定校。
 

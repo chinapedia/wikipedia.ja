@@ -9,7 +9,7 @@
 
 2011年までの間、年に一枚のペースでアルバムを発表。一台のバスで[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")から[種子島](../Page/種子島.md "wikilink")までを回る全国ツアーや、数々の野外フェスに参加する。2011年には自身の[アトリエ](../Page/アトリエ.md "wikilink") "Studio Byrd"を完成させ、2012年プライベートレーベル“ Slow Flow Music”を立ち上げた。
 
-これまでにDonavon Frankenreiter、Calexico、Tommy Guerrero、Ray Barbee、The Photons、Beautiful Girls、SLIP、Sim Redmond Band等、多くの来日アーティストのオープニングアクトや共演を果たし、[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「[ハミングバード](https://ja.wikipedia.org/wiki/ハミングバード_\(YUKIの曲\) "wikilink")」「ワゴン」、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「モアイ」、[渡辺美里](../Page/渡辺美里.md "wikilink")「Glory」「Hello Again」を始め、楽曲提供も手掛けている。
+これまでにDonavon Frankenreiter、Calexico、Tommy Guerrero、Ray Barbee、The Photons、Beautiful Girls、SLIP、Sim Redmond Band等、多くの来日アーティストのオープニングアクトや共演を果たし、[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")「[ハミングバード](https://ja.wikipedia.org/wiki/ハミングバード_\(YUKIの曲\) "wikilink")」「ワゴン」、[SMAP](../Page/SMAP.md "wikilink")「モアイ」、[渡辺美里](../Page/渡辺美里.md "wikilink")「Glory」「Hello Again」を始め、楽曲提供も手掛けている。
 
 ## ディスコグラフィー
 

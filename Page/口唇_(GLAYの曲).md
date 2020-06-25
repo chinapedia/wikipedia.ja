@@ -36,7 +36,7 @@
 
 <references/>
 
-[Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
+[Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
 
 1.
 2.  同様にピアノイントロが追加されたリミックス・バージョンが、アルバム『[BELOVED](../Page/BELOVED_\(GLAYのアルバム\).md "wikilink")』の復刻版『[BELOVED Anthology](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYのアルバム\)#BELOVED_Anthology "wikilink")』に収録されている。

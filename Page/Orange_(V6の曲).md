@@ -7,9 +7,11 @@
 
 V6のデビュー10周年記念シングルである。
 
-初回限定盤A（CD+DVD）と、初回限定盤B（CD+バンダナ）と、通常盤（CDのみ）の3形態がリリースされた。
+初回限定盤A（CD+DVD）、初回限定盤B（CD+バンダナ）、通常盤（CDのみ）の3形態がリリースされた。
 
-振付は現[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の[NAOTOが担当](https://ja.wikipedia.org/wiki/NAOTO_\(ダンサー\) "wikilink")。
+振付は現[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")/[三代目 J SOUL BROTHERS from EXILE TRIBEの](https://ja.wikipedia.org/wiki/三代目_J_SOUL_BROTHERS_from_EXILE_TRIBE "wikilink")[NAOTOが担当](https://ja.wikipedia.org/wiki/NAOTO_\(ダンサー\) "wikilink")。
+
+[坂本と](../Page/坂本昌行.md "wikilink")[岡田にソロパートが与えられている](../Page/岡田准一.md "wikilink")。
 
 ## 収録曲
 

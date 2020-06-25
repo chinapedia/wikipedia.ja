@@ -42,18 +42,12 @@
 
 [BSD](../Page/BSD.md "wikilink")（[BSDの子孫](../Page/BSDの子孫.md "wikilink")）を基に開発されたもの。
 
-  - NetBSD系
-
-<!-- end list -->
+#### NetBSD系
 
   - [NetBSD](../Page/NetBSD.md "wikilink") - [NetBSD公式のimageファイル](ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-archive/iso/2.0/i386live.iso)([参考書類](ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-archive/iso/2.0/README.i386live)(英語))。
   - [NeWBIE](https://ja.wikipedia.org/wiki/NeWBIE "wikilink") - NetBSD系。
 
-<!-- end list -->
-
-  - OpenBSD系
-
-<!-- end list -->
+#### OpenBSD系
 
   - \- 安全な匿名Webブラウズ用Live CD\[1\]。[OpenBSD](../Page/OpenBSD.md "wikilink")系。
 
@@ -61,9 +55,7 @@
 
   - [河豚板](https://ja.wikipedia.org/wiki/河豚板 "wikilink") (FuguIta) - OpenBSD系。Live USB版も提供されている。
 
-<!-- end list -->
-
-  - FreeBSD系
+#### FreeBSD系
 
 [FreeBSDディストリビューション\#Live CDも参照](https://ja.wikipedia.org/wiki/FreeBSDディストリビューション#Live_CD "wikilink")。
 
@@ -79,61 +71,65 @@
 
   - [RedBSD](http://redbsd.com)
 
-#### Linux系のLive CD
+### Linux系のLive CD
 
 [Linuxライブディストリビューションの比較](../Page/Linuxライブディストリビューションの比較.md "wikilink")も参照。
 [Linux](../Page/Linux.md "wikilink")系のLive CDを**1CD Linux**などと表記されることがある。
 
-  - Debian系
+#### Debian系
 
-<!-- end list -->
+  - [Debian Live](https://ja.wikipedia.org/wiki/Debian_Live "wikilink") - [Debian](../Page/Debian.md "wikilink") Etch / Lenny / Sid 派生のLive CD。Debian Live Project によるリリース。
 
-  - Debian Live - [Debian](../Page/Debian.md "wikilink") Etch / Lenny / Sid 派生のLive CD。Debian Live Project によるリリース。
   - [antiX](https://ja.wikipedia.org/wiki/antiX "wikilink") - Debian安定版派生の軽量なオリジナルLive CD。
+
   - [BackTrack](https://ja.wikipedia.org/wiki/BackTrack "wikilink") - [ペネトレーションテスト](https://ja.wikipedia.org/wiki/ペネトレーションテスト "wikilink")に特化したLive DVD。Debian系。
+
   - [Clonezilla Live](https://ja.wikipedia.org/wiki/Clonezilla#Clonezilla_Live "wikilink") - [ディスクまたは](../Page/補助記憶装置.md "wikilink")[パーティション](../Page/パーティション.md "wikilink")の複製（クローニング）ならびに[イメージ作成](../Page/ディスクドライブ仮想化ソフト.md "wikilink")（イメージング）用。
+
   - [Kali Linux](https://ja.wikipedia.org/wiki/Kali_Linux "wikilink") - BackTrackの後継でペネトレーションテストに特化している。Debian系。
+
   - [KNOPPIX](../Page/KNOPPIX.md "wikilink") - Debian系のオリジナルLive CD。
+
   - [Damn Small Linux](../Page/Damn_Small_Linux.md "wikilink") - ビジネスカードサイズのCDやUSB pendrive向けの軽量なKnoppix。
+
   - [MEPIS](../Page/MEPIS.md "wikilink") - Debian (APT compatible) 導入者向け。
-  - [Morphix](https://ja.wikipedia.org/wiki/Morphix "wikilink") - [GNOME](../Page/GNOME.md "wikilink")やWindowマネージャーの[fluxbox](https://ja.wikipedia.org/wiki/fluxbox "wikilink")を使用。Debian系。
+
+  - \- [GNOME](../Page/GNOME.md "wikilink")やWindowマネージャーの[fluxbox](https://ja.wikipedia.org/wiki/fluxbox "wikilink")を使用。Debian系。
+
   - [MX Linux](../Page/MX_Linux.md "wikilink") - Debian安定版派生のポピュラーな[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")。
+
   - [Puppy Linux](../Page/Puppy_Linux.md "wikilink") - [バージョン 5 以降はDebian系もあり](https://ja.wikipedia.org/wiki/Puppy_Linux#バージョン_5_以降 "wikilink")。
+
+  - [PureOS](../Page/PureOS.md "wikilink") - 完全に自由ソフトウェアだけで構成されている、[プライバシー](../Page/プライバシー.md "wikilink")と[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")、利便性に重点を置いているGNU/Linuxディストリビューション。
+
   - [sidux](https://ja.wikipedia.org/wiki/sidux "wikilink") - Debian sid 系の、[sidux プロジェクトによる 日本語版 Live CD](http://2.csx.jp/livecdroom/#sidux)。
+
   - [SLAX](../Page/SLAX.md "wikilink") - Slax 9からはDebian系。元は[Slackware](../Page/Slackware.md "wikilink")の派生ソフト。
+
   - [Tails](https://ja.wikipedia.org/wiki/Tails_\(オペレーティングシステム\) "wikilink") - Debian系でプライバシーと匿名性に特化している。
+
   - [Ubuntu](../Page/Ubuntu.md "wikilink") - ポピュラーなDebian派生ディストリビューション。[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")に雑誌社特製のLive CD/DVDとして付属される場合がある。
+
       - [elementary OS](https://ja.wikipedia.org/wiki/elementary_OS "wikilink")\[2\] : 独自の[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")「Pantheon」を採用した[MacOS](../Page/MacOS.md "wikilink")風の画面。Ubuntu派生でLive起動にも対応。
       - [Linux Mint](../Page/Linux_Mint.md "wikilink") : [MATEや](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[Cinnamon](https://ja.wikipedia.org/wiki/Cinnamon "wikilink")の採用でデザインやソフトウェア環境を改善し、[マルチメディア](../Page/マルチメディア.md "wikilink")関係の[コーデック](../Page/コーデック.md "wikilink")を充実させている。Ubuntu派生とDebian派生があり、Live起動にも対応。
-      - [Voyager](https://ja.wikipedia.org/wiki/Voyager_\(オペレーティングシステム\) "wikilink")\[3\] - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink")から派生した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")産のOSで、[Xfce](../Page/Xfce.md "wikilink")を採用したMacOS風の画面が美しい。[32bit版と](../Page/32ビット.md "wikilink")[64bit版があり](https://ja.wikipedia.org/wiki/64ビット "wikilink")、Live起動にも対応。
+      - [Voyager](https://ja.wikipedia.org/wiki/Voyager_\(オペレーティングシステム\) "wikilink")\[3\]\[4\]\[5\] - [Xubuntu](https://ja.wikipedia.org/wiki/Xubuntu "wikilink")から派生した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")産のOSで、[Xfce](../Page/Xfce.md "wikilink")を採用したMacOS風の画面が美しい。[32bit版と](../Page/32ビット.md "wikilink")[64bit版があり](https://ja.wikipedia.org/wiki/64ビット "wikilink")、Live起動にも対応。
+
   - [WindOS](https://ja.wikipedia.org/wiki/WindOS "wikilink") - Debian Squeeze派生で作られた軽量OS。
 
-<!-- end list -->
-
-  - Fedora系
-
-<!-- end list -->
+#### Fedora系
 
   - [Fedora](../Page/Fedora.md "wikilink") - Fedora 7より同時公開。[Fedora Project内のFedoraLiveCDプロジェクトによるリリース](https://ja.wikipedia.org/wiki/Fedora_Project "wikilink")。
   - [Berry Linux](https://ja.wikipedia.org/wiki/Berry_Linux "wikilink") - 日本で制作されているLive CD。Fedora派生。
   - Mandriva One - [Mandriva](https://ja.wikipedia.org/wiki/Mandriva "wikilink")によるLive CD。[GNOME](../Page/GNOME.md "wikilink")版と[KDE](../Page/KDE.md "wikilink")版がある。
   - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink") - [MandrakeによるLive](https://ja.wikipedia.org/wiki/Mandriva "wikilink") CDプロジェクト。
 
-<!-- end list -->
-
-  - Slackware系
-
-<!-- end list -->
+#### Slackware系
 
   - [SLAX](../Page/SLAX.md "wikilink") - Slax 8までは[Slackware](../Page/Slackware.md "wikilink")の派生ソフト。モジュールと非常に簡単なリマスターを持つ。
   - [Puppy Linux](../Page/Puppy_Linux.md "wikilink") - 50-90MB前後の軽量Live CD。CDやDVD自身へのデータ書き戻し可能。
-      - [Yara OSX](https://ja.wikipedia.org/wiki/Yara_OSX "wikilink")\[4\] - Puppy Linux派生。Xfceを採用したMacOS風の画面。日本語化も可能\[5\]\[6\]。
+      - [Yara OSX](https://ja.wikipedia.org/wiki/Yara_OSX "wikilink")\[6\]\[7\] - Puppy Linux派生。Xfceを採用したMacOS風の画面。日本語化も可能\[8\]\[9\]。
 
-<!-- end list -->
-
-  - その他のLinux
-
-<!-- end list -->
+#### その他のLinux
 
   - [Sabayon Linux](https://ja.wikipedia.org/wiki/Sabayon_Linux "wikilink") - [Gentoo Linuxの派生ディストリビューション](../Page/Gentoo_Linux.md "wikilink")。Gentooの特徴であるカスタマイズはなりを潜めているが、様々なアプリケーションが同梱されている。
 
@@ -149,12 +145,11 @@
 
 #### OpenSolaris系のLive CD
 
-  - [SchilliX](https://ja.wikipedia.org/wiki/SchilliX "wikilink") - [OpenSolaris](../Page/OpenSolaris.md "wikilink")による初めてのLive CD。
+  - \- [OpenSolaris](../Page/OpenSolaris.md "wikilink")による初めてのLive CD。
 
   -
   -
-  - [marTux](https://ja.wikipedia.org/wiki/marTux "wikilink")
-
+  -
 #### その他のUNIX系OSから派生したLive CD
 
   - [Hurd](http://www.superunprivileged.org/hurd/live-cd/) - [GNU HurdのLive](../Page/GNU_Hurd.md "wikilink") CD。
@@ -208,6 +203,9 @@
 1.  [ネット上の匿名性を保護する『Anonym.OS』｜WIRED.jp](https://wired.jp/2006/01/18/%E3%83%8D%E3%83%83%E3%83%88%E4%B8%8A%E3%81%AE%E5%8C%BF%E5%90%8D%E6%80%A7%E3%82%92%E4%BF%9D%E8%AD%B7%E3%81%99%E3%82%8B%E3%80%8Eanonym-os%E3%80%8F/)
 2.  [Elementary OS](https://elementary.io/)
 3.  [Live Voyager](https://voyagerlive.org/)
-4.  [Yara OSX - Home](https://yara-osx.weebly.com/)
-5.  [日本語サポートパッケージ - sakurapup.browserloadofcoolness.com](http://sakurapup.browserloadofcoolness.com/viewtopic.php?t=1937)
-6.  [日本語化ファイル入手先](http://shinobar.server-on.net/puppy/opt/)
+4.  [DistroWatch.com: Voyager Live](https://distrowatch.com/table.php?distribution=voyager)
+5.  [Voyager 日本語情報トップページ - OSDN](https://ja.osdn.net/projects/sfnet_voyagerlive/)
+6.  [Yara OSX - Home](https://yara-osx.weebly.com/)
+7.  [Puppy Linux Discussion Forum :: View topic - Yara OSX 3](http://www.murga-linux.com/puppy/viewtopic.php?t=107173)
+8.  [日本語サポートパッケージ - sakurapup.browserloadofcoolness.com](http://sakurapup.browserloadofcoolness.com/viewtopic.php?t=1937)
+9.  [日本語化ファイル入手先](http://shinobar.server-on.net/puppy/opt/)

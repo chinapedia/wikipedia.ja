@@ -81,9 +81,13 @@ TrackMania Unitedに少し改良を加えたもの。
 
 日本語の製品版は、オーバーランドより2008年6月27日に発売。
 
-### [トラックマニア ターボ](https://ja.wikipedia.org/wiki/トラックマニア_ターボ "wikilink")
+### トラックマニア ターボ
 
 2016年3月24日にPlayStation 4、Xbox One、PC（Microsoft Windows)発売された。
+
+### Trackmania
+
+TrackMania Nationsのリメイク版で、PC向けに[Uplay](https://ja.wikipedia.org/wiki/Uplay "wikilink")及びで2020年7月1日にリリース予定\[1\]\[2\]。無料でプレイ可能だが、一部機能へのアクセスや、特定大会への参加には期間制の利用権の購入（[サブスクリプション](https://ja.wikipedia.org/wiki/サブスクリプション "wikilink")）が必要\[3\]。
 
 ## 音楽ファイルについて
 
@@ -96,3 +100,7 @@ TrackMania United/Nations Foreverでは、[WAV](../Page/WAV.md "wikilink")と[Og
   - [公式サイト（一部英語）](http://www.trackmania.com/?lang=jp)
 
 [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:レースゲーム](https://ja.wikipedia.org/wiki/Category:レースゲーム "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
+
+1.
+2.
+3.

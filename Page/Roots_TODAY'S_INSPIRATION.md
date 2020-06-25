@@ -1,7 +1,7 @@
 > この記事は[Roots TODAY\'S INSPIRATION](https://ja.wikipedia.org/wiki/Roots_TODAY\'S_INSPIRATION)から翻訳されています。
 
 
-『**Roots TODAY'S INSPIRATION**』（ルーツ・トゥデイス・インスピレーション）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションにして放送されていた](https://ja.wikipedia.org/wiki/キー局 "wikilink")[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。2005年10月3日放送開始、2007年4月13日放送終了。[缶コーヒー](../Page/缶コーヒー.md "wikilink")「[Roots](../Page/ルーツ_\(缶コーヒー\).md "wikilink")」の[日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")（JT）[一社提供](../Page/一社提供.md "wikilink")。
+『**Roots TODAY'S INSPIRATION**』（ルーツ・トゥデイス・インスピレーション）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションにして放送されていた](../Page/キー局.md "wikilink")[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。2005年10月3日放送開始、2007年4月13日放送終了。[缶コーヒー](../Page/缶コーヒー.md "wikilink")「[Roots](../Page/ルーツ_\(缶コーヒー\).md "wikilink")」の[日本たばこ産業](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink")（JT）[一社提供](../Page/一社提供.md "wikilink")。
 
 ## 放送時間
 

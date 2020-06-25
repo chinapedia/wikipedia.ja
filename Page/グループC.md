@@ -75,7 +75,7 @@
 
 ### マツダ
 
-  - [マツダ・737C](https://ja.wikipedia.org/wiki/マツダ・737C "wikilink")
+  - [マツダ・737C](../Page/マツダ・737C.md "wikilink")
   - [マツダ・787](../Page/マツダ・787.md "wikilink")B（[1991年のル・マン24時間レース](https://ja.wikipedia.org/wiki/1991年のル・マン24時間レース "wikilink")で日本車初の[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")総合優勝）
   - [マツダ・MX-R01](../Page/マツダ・MX-R01.md "wikilink")（[TWR製作のシャシーに](https://ja.wikipedia.org/wiki/アロウズ#TWR時代 "wikilink")[ジャッド](../Page/ジャッド.md "wikilink")製GV改を搭載）
 

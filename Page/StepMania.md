@@ -9,7 +9,7 @@
 
 元々は[Windows用であるが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[Linux](../Page/Linux.md "wikilink")への移植も行われている。また、（正当なものではないが）[Xboxへの移植も行われている他](../Page/Xbox_\(ゲーム機\).md "wikilink")、海外ではこのゲームのエンジンを使用したダンスゲーム『In the Groove』も発売されている。
 
-日本国内においては2004年のfoonmixの公開から使用する人が多くなり、別のStepmaniaパッケージを配信するユーザーや、プレイ動画をYoutubeやニコニコ動画等に投稿するユーザーも現れ、盛んとなった。しかし最近は、パッケージに楽曲提供を行った有名同人アーティストの商業用音楽ゲームへの進出や、パッケージ配信を行っていたユーザーの諸事情などにより、過去に比べ公開されているパッケージやそれを制作するユーザーが少なくなっている。
+日本国内においては2004年のfoonmixの公開から使用する人が多くなり、別のStepmaniaパッケージを配信するユーザーや、プレイ動画を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")や[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")等に投稿するユーザーも現れ、盛んとなった。しかし最近は、パッケージに楽曲提供を行った有名同人アーティストの商業用音楽ゲームへの進出や、パッケージ配信を行っていたユーザーの諸事情などにより、過去に比べ公開されているパッケージやそれを制作するユーザーが少なくなっている。
 
 ## 機能
 

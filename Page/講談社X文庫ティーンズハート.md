@@ -13,52 +13,326 @@
 
 しかし少女小説ブームの収束とともに、読者の嗜好の変化に対応できず、発行点数・発行部数ともに激減してしまう。2000年11月には発売ペースを隔月に変更。末期は長期シリーズの続編を中心に細々と奇数月に数冊が発売されていたが、2006年3月に、継続中のシリーズを全て完結させて刊行が終了した。後年、コバルト文庫やパレット文庫が小説ジャンルや読者層の変遷を図った流れとは対照的に、廃刊まで一貫して少女小説を中心として扱っていたレーベルであった。
 
-## 主な作家
+## 執筆者
 
-  - [青山えりか](https://ja.wikipedia.org/wiki/青山えりか "wikilink")
-  - [秋野ひとみ](../Page/秋野ひとみ_\(小説家\).md "wikilink")
-  - [あさぎり夕](../Page/あさぎり夕.md "wikilink")
-  - [石井ゆうみ](https://ja.wikipedia.org/wiki/石井ゆうみ "wikilink")
-  - [井出千昌](https://ja.wikipedia.org/wiki/井出千昌 "wikilink")
-  - [井上ほのか](https://ja.wikipedia.org/wiki/井上ほのか "wikilink")
-  - [上田美和](https://ja.wikipedia.org/wiki/上田美和 "wikilink")
-  - [小川夏野](https://ja.wikipedia.org/wiki/小川夏野 "wikilink")
-  - [奥井理帆](https://ja.wikipedia.org/wiki/奥井理帆 "wikilink")
-  - [織田加絵](https://ja.wikipedia.org/wiki/織田加絵 "wikilink")
-  - [小野不由美](../Page/小野不由美.md "wikilink")
-  - [折原みと](https://ja.wikipedia.org/wiki/折原みと "wikilink")
-  - [風見潤](../Page/風見潤.md "wikilink")
-  - [鎌田絵里](https://ja.wikipedia.org/wiki/鎌田絵里 "wikilink")
-  - [かわちゆかり](../Page/かわちゆかり.md "wikilink")
-  - [神崎あおい](https://ja.wikipedia.org/wiki/神崎あおい "wikilink")
-  - [倉橋耀子](../Page/倉橋燿子.md "wikilink")
-  - [くりた陸](../Page/くりた陸.md "wikilink")
-  - [小泉まりえ](https://ja.wikipedia.org/wiki/小泉まりえ "wikilink")
-  - [小林深雪](../Page/小林深雪.md "wikilink")
-  - [西条せつな](https://ja.wikipedia.org/wiki/西条せつな "wikilink")
-  - [五月祥子](https://ja.wikipedia.org/wiki/五月祥子 "wikilink")
-  - [高林真夏](https://ja.wikipedia.org/wiki/高林真夏 "wikilink")
-  - [橘もも](https://ja.wikipedia.org/wiki/橘もも "wikilink")
-  - [津月ひかる](https://ja.wikipedia.org/wiki/津月ひかる "wikilink")
-  - [津原やすみ](../Page/津原泰水.md "wikilink")
-  - [中原涼](../Page/中原涼.md "wikilink")
-  - [野原野枝実](../Page/桐野夏生.md "wikilink")
-  - [花井愛子](../Page/花井愛子.md "wikilink")（神戸あやか、浦根絵夢:裏ネームのもじり）
-  - [林葉直子](https://ja.wikipedia.org/wiki/林葉直子 "wikilink")
-  - [氷堂るびい](https://ja.wikipedia.org/wiki/氷堂るびい "wikilink")
-  - [まついなつき](../Page/まついなつき.md "wikilink")
-  - [水木マリ](https://ja.wikipedia.org/wiki/水木マリ "wikilink")
-  - [皆川ゆか](../Page/皆川ゆか.md "wikilink")
-  - [宮本りり子](https://ja.wikipedia.org/wiki/宮本りり子 "wikilink")
-  - [萌木智佳](https://ja.wikipedia.org/wiki/萌木智佳 "wikilink")
-  - [森本由紀子](https://ja.wikipedia.org/wiki/森本由紀子 "wikilink")
-  - [ゆうき☆みすず](https://ja.wikipedia.org/wiki/ゆうき☆みすず "wikilink")
-  - [夢乃愛子](https://ja.wikipedia.org/wiki/夢乃愛子 "wikilink")
-  - [芳村杏](https://ja.wikipedia.org/wiki/芳村杏 "wikilink")
-  - [若林真紀](https://ja.wikipedia.org/wiki/若林真紀 "wikilink")
+（五十音順。著作10冊以上の作家を**太字**で表記）
+
+| 筆名                                                            | 備考                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [愛菜](../Page/花井愛子.md "wikilink")                              | 花井愛子の別名義。                                                                                                                                                                                                                                                                   |
+| [藍川晶子](https://ja.wikipedia.org/wiki/藍川晶子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [相川なぎさ](https://ja.wikipedia.org/wiki/相川なぎさ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [相原夏希](https://ja.wikipedia.org/wiki/相原夏希 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[青山えりか](https://ja.wikipedia.org/wiki/青山えりか "wikilink")**   |                                                                                                                                                                                                                                                                             |
+| **[秋野ひとみ](../Page/秋野ひとみ_\(小説家\).md "wikilink")**              | レーベル最多の121作を刊行。創刊翌年の1988年から2006年の廃刊まで執筆。代表作『[つかまえて](https://ja.wikipedia.org/wiki/秋野ひとみ_\(小説家\)#つかまえてシリーズ "wikilink")』シリーズ。                                                                                                                                                 |
+| [あきば麦子](https://ja.wikipedia.org/wiki/あきば麦子 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [あさぎり夕](../Page/あさぎり夕.md "wikilink")                          |                                                                                                                                                                                                                                                                             |
+| [亜沙木るか](https://ja.wikipedia.org/wiki/亜沙木るか "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [麻生ゆう](https://ja.wikipedia.org/wiki/麻生ゆう "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [阿月ありあ](https://ja.wikipedia.org/wiki/阿月ありあ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [雨宮沙織](https://ja.wikipedia.org/wiki/雨宮沙織 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [あやせりこ](https://ja.wikipedia.org/wiki/あやせりこ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [飯田雪子](https://ja.wikipedia.org/wiki/飯田雪子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [五十嵐優美子](https://ja.wikipedia.org/wiki/五十嵐優美子 "wikilink")     |                                                                                                                                                                                                                                                                             |
+| [池田裕幾](https://ja.wikipedia.org/wiki/池田裕幾 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[石井ゆうみ](https://ja.wikipedia.org/wiki/石井ゆうみ "wikilink")**   |                                                                                                                                                                                                                                                                             |
+| [石井敏弘](https://ja.wikipedia.org/wiki/石井敏弘 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [石野リホコ](https://ja.wikipedia.org/wiki/石野リホコ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [泉優二](https://ja.wikipedia.org/wiki/泉優二 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [井出千昌](https://ja.wikipedia.org/wiki/井出千昌 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [伊東麻紀](https://ja.wikipedia.org/wiki/伊東麻紀 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[井上ほのか](https://ja.wikipedia.org/wiki/井上ほのか "wikilink")**   |                                                                                                                                                                                                                                                                             |
+| [岩橋久梨江](https://ja.wikipedia.org/wiki/岩橋久梨江 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [岩田麻里](https://ja.wikipedia.org/wiki/岩田麻里 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [上田美和](https://ja.wikipedia.org/wiki/上田美和 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [内館牧子](../Page/内館牧子.md "wikilink")                            |                                                                                                                                                                                                                                                                             |
+| [浦根絵夢](../Page/花井愛子.md "wikilink")                            | 花井愛子の別名義。                                                                                                                                                                                                                                                                   |
+| [大江小夜](https://ja.wikipedia.org/wiki/大江小夜 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [大島暁美](https://ja.wikipedia.org/wiki/大島暁美 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| '''[小川夏野](https://ja.wikipedia.org/wiki/小川夏野 "wikilink")      |                                                                                                                                                                                                                                                                             |
+| [奥井理帆](https://ja.wikipedia.org/wiki/奥井理帆 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [小椋恵里子](https://ja.wikipedia.org/wiki/小椋恵里子 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| '''[織田加絵](https://ja.wikipedia.org/wiki/織田加絵 "wikilink")      |                                                                                                                                                                                                                                                                             |
+| **[小野不由美](../Page/小野不由美.md "wikilink")**                      | 代表作『[悪霊](../Page/悪霊シリーズ.md "wikilink")』シリーズは後に改稿され、2010年より[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")にて再刊。                                                                                                                                                               |
+| **[折原みと](https://ja.wikipedia.org/wiki/折原みと "wikilink")**     | 1000万部を超えた3人のうちのの1人。代表作『[時の輝き](https://ja.wikipedia.org/wiki/時の輝き "wikilink")』は1995年に映画化。他に『[アナトゥール星伝](../Page/アナトゥール星伝.md "wikilink")』シリーズなど。ブーム下ではアイドル的に売り出され、イメージアルバム『[折原みと ティーンズハートコレクション](https://ja.wikipedia.org/wiki/折原みと_ティーンズハートコレクション "wikilink")』では自ら歌唱も担当している。 |
+| [覚和歌子](../Page/覚和歌子.md "wikilink")                            |                                                                                                                                                                                                                                                                             |
+| **[風見潤](../Page/風見潤.md "wikilink")**                          | 創刊翌年の1988年から2006年の廃刊まで執筆。代表作は『[幽霊事件](https://ja.wikipedia.org/wiki/風見潤#幽霊事件シリーズ "wikilink")』シリーズ。                                                                                                                                                                           |
+| [梶原葉月](https://ja.wikipedia.org/wiki/梶原葉月 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [加藤実秋](https://ja.wikipedia.org/wiki/加藤実秋 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [金子晴美](../Page/金子晴美.md "wikilink")                            |                                                                                                                                                                                                                                                                             |
+| '''[鎌田絵里](https://ja.wikipedia.org/wiki/鎌田絵里 "wikilink")      |                                                                                                                                                                                                                                                                             |
+| [かわちゆかり](../Page/かわちゆかり.md "wikilink")                        |                                                                                                                                                                                                                                                                             |
+| [川名香津美](https://ja.wikipedia.org/wiki/川名香津美 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [川村真澄](../Page/川村真澄.md "wikilink")                            |                                                                                                                                                                                                                                                                             |
+| **[神崎あおい](https://ja.wikipedia.org/wiki/神崎あおい "wikilink")**   |                                                                                                                                                                                                                                                                             |
+| **[神戸あやか](../Page/花井愛子.md "wikilink")**                       | 花井愛子の別名義。                                                                                                                                                                                                                                                                   |
+| [菊池早苗](https://ja.wikipedia.org/wiki/菊池早苗 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [北原なおみ](https://ja.wikipedia.org/wiki/北原なおみ "wikilink")       | 北原尚彦の別名義。                                                                                                                                                                                                                                                                   |
+| [喜多嶋隆](https://ja.wikipedia.org/wiki/喜多嶋隆 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [樹山まみ](https://ja.wikipedia.org/wiki/樹山まみ "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [桐野まゆみ](https://ja.wikipedia.org/wiki/桐野まゆみ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| **[倉橋燿子](../Page/倉橋燿子.md "wikilink")**                        | 代表作『風を道しるべに…』シリーズ。                                                                                                                                                                                                                                                          |
+| [くりた陸](../Page/くりた陸.md "wikilink")                            |                                                                                                                                                                                                                                                                             |
+| [くれこゆう](https://ja.wikipedia.org/wiki/くれこゆう "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [黒川裕也](https://ja.wikipedia.org/wiki/黒川裕也 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [黒須まりや](https://ja.wikipedia.org/wiki/黒須まりや "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [小池きよみ](https://ja.wikipedia.org/wiki/小池きよみ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| **[小泉まりえ](https://ja.wikipedia.org/wiki/小泉まりえ "wikilink")**   |                                                                                                                                                                                                                                                                             |
+| [小寺真理](https://ja.wikipedia.org/wiki/小寺真理 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[小林深雪](../Page/小林深雪.md "wikilink")**                        | ブーム下の1990年から2006年の廃刊まで執筆し、100作を刊行。1000万部を超えた3人のうちのの1人。代表作は志保・沙保・果保／美保／真保シリーズなど。                                                                                                                                                                                             |
+| [今野いず美](https://ja.wikipedia.org/wiki/今野いず美 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| **[西条せつな](https://ja.wikipedia.org/wiki/西条せつな "wikilink")**   |                                                                                                                                                                                                                                                                             |
+| [佐伯瑞穂](https://ja.wikipedia.org/wiki/佐伯瑞穂 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [桜あずさ](https://ja.wikipedia.org/wiki/桜あずさ "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [桜沢恵美](https://ja.wikipedia.org/wiki/桜沢恵美 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[五月祥子](https://ja.wikipedia.org/wiki/五月祥子 "wikilink")**     |                                                                                                                                                                                                                                                                             |
+| [佐藤大](../Page/佐藤大.md "wikilink")                              |                                                                                                                                                                                                                                                                             |
+| [佐和みずえ](https://ja.wikipedia.org/wiki/佐和みずえ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [沢嶋桂子](https://ja.wikipedia.org/wiki/沢嶋桂子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [沢木りょう](https://ja.wikipedia.org/wiki/沢木りょう "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [如衣まりや](https://ja.wikipedia.org/wiki/如衣まりや "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [しおざわ千絵](https://ja.wikipedia.org/wiki/しおざわ千絵 "wikilink")     |                                                                                                                                                                                                                                                                             |
+| [篠原まり](https://ja.wikipedia.org/wiki/篠原まり "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [芝風美子](https://ja.wikipedia.org/wiki/芝風美子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [しばた佑](https://ja.wikipedia.org/wiki/しばた佑 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [嶋田あずさ](https://ja.wikipedia.org/wiki/嶋田あずさ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [清水美季](https://ja.wikipedia.org/wiki/清水美季 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [神保いずみ](https://ja.wikipedia.org/wiki/神保いずみ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [芹沢薫](https://ja.wikipedia.org/wiki/芹沢薫 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [高岡みちしげ](https://ja.wikipedia.org/wiki/高岡みちしげ "wikilink")     | 創刊ラインナップの1人。                                                                                                                                                                                                                                                                |
+| [高木あや](https://ja.wikipedia.org/wiki/高木あや "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [高橋ななを](https://ja.wikipedia.org/wiki/高橋ななを "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [高林真夏](https://ja.wikipedia.org/wiki/高林真夏 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [竹河聖](../Page/竹河聖.md "wikilink")                              |                                                                                                                                                                                                                                                                             |
+| **[立花薫](https://ja.wikipedia.org/wiki/立花薫 "wikilink")**       |                                                                                                                                                                                                                                                                             |
+| [橘はな江](https://ja.wikipedia.org/wiki/橘はな江 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [橘もも](https://ja.wikipedia.org/wiki/橘もも "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [田辺梨紗](https://ja.wikipedia.org/wiki/田辺梨紗 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [谷口恵美子](https://ja.wikipedia.org/wiki/谷口恵美子 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [谷脇もも](https://ja.wikipedia.org/wiki/谷脇もも "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [知文圭](https://ja.wikipedia.org/wiki/知文圭 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [つきしまりお](https://ja.wikipedia.org/wiki/つきしまりお "wikilink")     |                                                                                                                                                                                                                                                                             |
+| [月森花子](https://ja.wikipedia.org/wiki/月森花子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [月森ふたみ](https://ja.wikipedia.org/wiki/月森ふたみ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [辻ともこ](https://ja.wikipedia.org/wiki/辻ともこ "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[津月ひかる](https://ja.wikipedia.org/wiki/津月ひかる "wikilink")**   |                                                                                                                                                                                                                                                                             |
+| **[津原やすみ](https://ja.wikipedia.org/wiki/津原やすみ "wikilink")**   | 後の津原泰水。代表作『[あたしのエイリアン](https://ja.wikipedia.org/wiki/あたしのエイリアンシリーズ "wikilink")』シリーズ。『[ルピナス探偵団](https://ja.wikipedia.org/wiki/ルピナス探偵団シリーズ "wikilink")』シリーズは後に改稿され、2007年[原書房](../Page/原書房.md "wikilink")より再刊。                                                                 |
+| [直井さよこ](https://ja.wikipedia.org/wiki/直井さよこ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [中尾まり](https://ja.wikipedia.org/wiki/中尾まり "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [中島かほり](https://ja.wikipedia.org/wiki/中島かほり "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [中嶋理香](https://ja.wikipedia.org/wiki/中嶋理香 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [中田早紀](https://ja.wikipedia.org/wiki/中田早紀 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [なかつのりこ](https://ja.wikipedia.org/wiki/なかつのりこ "wikilink")     |                                                                                                                                                                                                                                                                             |
+| **[中原涼](../Page/中原涼.md "wikilink")**                          | 代表作『アリス』シリーズは1998年、『[アリスSOS](../Page/アリスSOS.md "wikilink")』としてアニメ化。                                                                                                                                                                                                         |
+| [なつめ](https://ja.wikipedia.org/wiki/なつめ "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [夏井瑶子](https://ja.wikipedia.org/wiki/夏井瑶子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [奈月ゆう](https://ja.wikipedia.org/wiki/奈月ゆう "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [七瀬みしか](https://ja.wikipedia.org/wiki/七瀬みしか "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [なぶらひみ](https://ja.wikipedia.org/wiki/なぶらひみ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [萩原京子](https://ja.wikipedia.org/wiki/萩原京子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [萩原麻里](https://ja.wikipedia.org/wiki/萩原麻里 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [羽鳥あさの](https://ja.wikipedia.org/wiki/羽鳥あさの "wikilink")       |                                                                                                                                                                                                                                                                             |
+| **[花井愛子](../Page/花井愛子.md "wikilink")**                        | 少女小説ブームの立役者。1000万部を超えた3人のうちのの1人。代表作は『[山田ババアに花束を](https://ja.wikipedia.org/wiki/山田ババアに花束を "wikilink")』など。「神戸あやか」「浦根絵夢」「愛菜」名義でも執筆。                                                                                                                                            |
+| [馬場ゆみ](https://ja.wikipedia.org/wiki/馬場ゆみ "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [林さわこ](https://ja.wikipedia.org/wiki/林さわこ "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[林葉直子](https://ja.wikipedia.org/wiki/林葉直子 "wikilink")**     | 代表作『とんでもポリス』シリーズ。                                                                                                                                                                                                                                                           |
+| [速水彩](https://ja.wikipedia.org/wiki/速水彩 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [原田やよい](https://ja.wikipedia.org/wiki/原田やよい "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [原田梨花](https://ja.wikipedia.org/wiki/原田梨花 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [久木彩](https://ja.wikipedia.org/wiki/久木彩 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [氷堂るびい](https://ja.wikipedia.org/wiki/氷堂るびい "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [平野文](../Page/平野文.md "wikilink")                              |                                                                                                                                                                                                                                                                             |
+| [藤けいこ](https://ja.wikipedia.org/wiki/藤けいこ "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [古屋智子](https://ja.wikipedia.org/wiki/古屋智子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [フローレンス蘭](https://ja.wikipedia.org/wiki/フローレンス蘭 "wikilink")   |                                                                                                                                                                                                                                                                             |
+| [星名アカネ](https://ja.wikipedia.org/wiki/星名アカネ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [星野りかこ](https://ja.wikipedia.org/wiki/星野りかこ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [牧村優](https://ja.wikipedia.org/wiki/牧村優 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [魔知](https://ja.wikipedia.org/wiki/魔知 "wikilink")             |                                                                                                                                                                                                                                                                             |
+| [まついなつき](../Page/まついなつき.md "wikilink")                        |                                                                                                                                                                                                                                                                             |
+| [松岡やよい](https://ja.wikipedia.org/wiki/松岡やよい "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [松本美緒](../Page/松本美緒.md "wikilink")                            |                                                                                                                                                                                                                                                                             |
+| [真野ともこ](https://ja.wikipedia.org/wiki/真野ともこ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [馬里邑れい](https://ja.wikipedia.org/wiki/馬里邑れい "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [実川朋子](https://ja.wikipedia.org/wiki/実川朋子 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[水木マリ](https://ja.wikipedia.org/wiki/水木マリ "wikilink")**     |                                                                                                                                                                                                                                                                             |
+| [水原沙里衣](https://ja.wikipedia.org/wiki/水原沙里衣 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [三田さくら](https://ja.wikipedia.org/wiki/三田さくら "wikilink")       |                                                                                                                                                                                                                                                                             |
+| **[皆川ゆか](../Page/皆川ゆか.md "wikilink")**                        | 代表作『[ティー・パーティー](https://ja.wikipedia.org/wiki/ティー・パーティー（八幡高校超常研報告） "wikilink")』シリーズ、『[運命のタロット](../Page/運命のタロット.md "wikilink")』シリーズ。                                                                                                                                         |
+| [宮崎しずか](https://ja.wikipedia.org/wiki/宮崎しずか "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [宮田いづみ](https://ja.wikipedia.org/wiki/宮田いづみ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [宮原ゆう](https://ja.wikipedia.org/wiki/宮原ゆう "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [みやもとじゅん](https://ja.wikipedia.org/wiki/みやもとじゅん "wikilink")   |                                                                                                                                                                                                                                                                             |
+| [宮本りり子](https://ja.wikipedia.org/wiki/宮本りり子 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [三好礼子](../Page/三好礼子.md "wikilink")                            | 創刊ラインナップの1人。                                                                                                                                                                                                                                                                |
+| [萌木智佳](https://ja.wikipedia.org/wiki/萌木智佳 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [森美樹](https://ja.wikipedia.org/wiki/森美樹 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [森脇道](https://ja.wikipedia.org/wiki/森脇道 "wikilink")           | 創刊ラインナップの1人。                                                                                                                                                                                                                                                                |
+| [森本由紀子](https://ja.wikipedia.org/wiki/森本由紀子 "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [矢崎麗夜](https://ja.wikipedia.org/wiki/矢崎麗夜 "wikilink")         |                                                                                                                                                                                                                                                                             |
+| [矢沢翔](https://ja.wikipedia.org/wiki/矢沢翔 "wikilink")           | 創刊ラインナップの1人。                                                                                                                                                                                                                                                                |
+| [矢島さら](../Page/矢島さら.md "wikilink")                            |                                                                                                                                                                                                                                                                             |
+| [柳瑠美](https://ja.wikipedia.org/wiki/柳瑠美 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [山田あゆみ](https://ja.wikipedia.org/wiki/山田あゆみ "wikilink")       |                                                                                                                                                                                                                                                                             |
+| [弥生まゆ](https://ja.wikipedia.org/wiki/弥生まゆ "wikilink")         |                                                                                                                                                                                                                                                                             |
+| **[ゆうきみすず](https://ja.wikipedia.org/wiki/ゆうきみすず "wikilink")** |                                                                                                                                                                                                                                                                             |
+| **[夢乃愛子](https://ja.wikipedia.org/wiki/夢乃愛子 "wikilink")**     |                                                                                                                                                                                                                                                                             |
+| [ゆめもと杏奈](https://ja.wikipedia.org/wiki/ゆめもと杏奈 "wikilink")     |                                                                                                                                                                                                                                                                             |
+| [吉田ちか](https://ja.wikipedia.org/wiki/吉田ちか "wikilink")         | 創刊ラインナップの1人。                                                                                                                                                                                                                                                                |
+| [芳村杏](https://ja.wikipedia.org/wiki/芳村杏 "wikilink")           |                                                                                                                                                                                                                                                                             |
+| [若菜さはる](https://ja.wikipedia.org/wiki/若菜さはる "wikilink")       |                                                                                                                                                                                                                                                                             |
+| **[若林真紀](https://ja.wikipedia.org/wiki/若林真紀 "wikilink")**     |                                                                                                                                                                                                                                                                             |
+|                                                               |                                                                                                                                                                                                                                                                             |
+
+## 編集体制
+
+ティーンズハートの編集部は当初、講談社において第三編集局企画部（以下「企画部」）と文芸局文芸図書第三出版部（いわゆる「文三」。以下「文芸局」）に分かれており\[1\]、それぞれに動いていた。
+
+文芸局に持ち込まれたジュニア文庫の企画が、企画部のX文庫に紹介されたことが発端と言われる。 以降、1992年に「文芸第四」として統合されるまで\[2\]\[3\]、毎月の刊行物は2つの編集部で分担して編集された。
+
+後にティーンズハートについて回顧する発言の多い[花井愛子](../Page/花井愛子.md "wikilink")、[皆川ゆか](../Page/皆川ゆか.md "wikilink")、津原やすみ（[津原泰水](../Page/津原泰水.md "wikilink")）はこの企画部の作家であり、**現在知られている当時のティーンズハートの内部事情に関する情報は、主に企画部側のものである**。
+
+同じくティーンズハート出身として語られることの多い[小野不由美](../Page/小野不由美.md "wikilink")や、男性であることを公にして執筆していた[中原涼](../Page/中原涼.md "wikilink")（[\#レーベルの特徴](https://ja.wikipedia.org/wiki/#レーベルの特徴 "wikilink")参照）は文芸局の作家である。花井、皆川はそれぞれに、この2つの編集部の作家に接点はなかったと証言している\[4\]。
+
+## 創刊と盛衰
+
+**この項の内容は主に、企画部の作家であった[花井愛子](../Page/花井愛子.md "wikilink")、[皆川ゆか](../Page/皆川ゆか.md "wikilink")、津原やすみ（[津原泰水](../Page/津原泰水.md "wikilink")）の発言に基づく。**
+
+1984年、講談社**X文庫**創刊。ノベライズの文庫であった。
+
+この立ち上げにコピーライターとして関わった花井愛子が、続けてここから刊行されるノベライズを受注、その伝手から新規企画**ティーンズハート**への小説執筆を依頼された。 1986年初冬、既に第2回までのラインナップが決定していた時期である。 この時点での企画は「X文庫のブランドはそのままにして、ノベライズのほかに、オリジナルの小説をティーンズハートのサブブランド名でリリースしていく」というものであった。
+
+1987年2月、**ティーンズハート**レーベル創刊。
+
+高岡みちしげ『ときめいてチャンピオン』、三好礼子『風より元気\!\!』、森脇道『少女探偵に明日はない』、矢沢翔『テルアキ : 風のチェッカーフラッグ』、吉田ちか『初恋♥スクーターロード』の5冊である\[5\]。バイクやミステリを題材にした主に三人称の小説という、後のレーベルの傾向とは程遠いラインナップとなっている。
+
+創刊2箇月のラインナップについて花井は「ターゲットの絞り込みがハンパ」「カバーのデザインが地味」だったと評価している。花井は、既に隆盛を極めていた[集英社](../Page/集英社.md "wikilink")[コバルト文庫](../Page/コバルト文庫.md "wikilink")の傾向と、当時並行して執筆していた少女漫画原作の経験を踏まえ、自著をプロデュースする。ターゲットはコバルト文庫と競合しない、「いままでマトモに活字の本を読んだことがない15歳中3少女」に設定された。 後に皆川は花井より、コバルト文庫に対しての二番手戦略だったと聞かされたという。
+
+この戦略が当たり、またまもなく花井は複数ペンネームを使い分けることで刊行ペースを上げる。毎月の新刊の半数が花井の著作という状況となり、また他の作家もこの方向性に足並みを揃えることで、レーベルのカラーが定まった。
+
+立ち上げから数箇月で急速なブームとなったことで早々に販売規模が拡大され、企画部は新刊点数の確保に難渋するようになる。
+
+皆川のデビュー作は、6月の他編集部への原稿持ち込みから紹介、改稿を経て、9月には刊行されている。 1989年デビューの津原は、ライターとして所属していた事務所への「少女小説が書ける人はいないか？」との打診に応じて提出した冒頭13枚のサンプルがそのまま採用されデビュー作となった\[6\]。
+
+また[秋野ひとみ](../Page/秋野ひとみ_\(小説家\).md "wikilink")、[青山えりか](https://ja.wikipedia.org/wiki/青山えりか "wikilink")、[小林深雪](../Page/小林深雪.md "wikilink")は、企画部と縁のあった[ホットドッグプレス](https://ja.wikipedia.org/wiki/ホットドッグプレス "wikilink")で執筆していたライターであった\[7\]。
+
+皆川は後にこの状況を、「持ち込みの新人やライターといった有象無象へ無理矢理書かせて、実戦投入」と表現している。 「粗製濫造」と評される状況である\[8\]\[9\]。
+
+また、読書慣れしていない少女たちにも読みやすいものを目指した作品群は、時を経ずして読者層の年齢を押し下げた。 読者層は当初の中高生から小中学生へと移行し、編集方針も低年齢層に迎合するようになる。以降のレーベル低迷の要因として、この流れが指摘される\[10\]\[11\]。
+
+読者層が購買力の低い低年齢層へと移ったことで、毎月の新刊が買い支えられなくなったとの指摘もある。 1991年頃のことであり、バブル崩壊に伴う出版不況も状況の悪化に拍車を掛けた。
+
+以降レーベルは低迷を続け、徐々に刊行点数と発行頻度を落とし、2006年に廃刊となる。
+
+## レーベルの特徴
+
+広く認知された特徴として、ピンクの背表紙と少女漫画家による表紙イラスト、少女一人称によるラブストーリー、「ページの下半分がメモ帳」とも言われる極端な版面率の低さが挙げられる。 最盛期である1980年代終盤に刊行された作品の多くはこれに当てはまるが、レーベル最初期、また後期の作品には該当しないものも多い。
+
+少女漫画読者に強く訴求する表紙と内容は、初期に看板作家となった[花井愛子](../Page/花井愛子.md "wikilink")の作品傾向に他作家も追従したものである。 極端に改行の多い文体について花井は、児童書の基準を適用した用字の制約への対処、また当初並行して執筆していた少女漫画原作での経験を生かした、小説を読み慣れない読者のための可読性を高める工夫だったと語っている。 用字の制約については、花井の他、[皆川ゆか](../Page/皆川ゆか.md "wikilink")、[津原泰水](../Page/津原泰水.md "wikilink")も難渋したことをそれぞれに語っている\[12\]。
+
+多くの作品は、用字の制約の影響もあり仮名の多い文体となっているが、極端に版面率の低いものは少ない。花井の著作においても、1990年に入る頃から改行が減少している。 少女による一人称という形式は不文律であった\[13\]が、レーベル後期の作品には例外もある\[14\]。
+
+背表紙の色は創刊からピンクに統一されていたが、1996年12月にリニューアルされ、ジャンル別の4色となった。
+
+この際、作品内容についても幅を広げる方針が、次のように告知された。
+
+「ピンクは、いままでどおりティーンズのラブストーリーがメイン。グリーンは、ミステリー、ホラー、ファンタジーなどのエンタテインメント。レッドは、“ピンクのラブストーリーはもう卒業”という女のコのための新シリーズ。オレンジは、楽しい実用です」\[15\]。
+
+以降は、1996年以前に刊行された作品の再版においてもジャンル別の色分けが為された。 [秋野ひとみ](../Page/秋野ひとみ_\(小説家\).md "wikilink")『つかまえて』シリーズ、[小野不由美](../Page/小野不由美.md "wikilink")『[悪霊](../Page/悪霊シリーズ.md "wikilink")』シリーズ、皆川ゆか『[運命のタロット](../Page/運命のタロット.md "wikilink")』シリーズなどはこの際にグリーンへと区分されている。
+
+また、男性作家は性別を明かさない編集方針が存在したことが知られている。 この方針を適用された例として知られるのは、企画部の作家であった津原やすみ（後の[津原泰水](../Page/津原泰水.md "wikilink")）、北原なおみ（[北原尚彦](https://ja.wikipedia.org/wiki/北原尚彦 "wikilink")）などである\[16\]\[17\]。
+
+これに対し、[中原涼](../Page/中原涼.md "wikilink")や[風見潤](../Page/風見潤.md "wikilink")は男性であることを明かした上で執筆していたが、彼らは文芸局の作家であった（[\#編集体制](https://ja.wikipedia.org/wiki/#編集体制 "wikilink")参照）。
+
+花井が参入する以前のレーベル最初期に刊行された作品は、そもそもターゲットが少女に絞られておらず、上記の特徴には全て当てはまらない。
+
+## 略年表
+
+レーベルの盛衰に関わる代表的な出来事に、主要な情報源である[花井愛子](../Page/花井愛子.md "wikilink")、[皆川ゆか](../Page/皆川ゆか.md "wikilink")、[津原やすみ](https://ja.wikipedia.org/wiki/津原やすみ "wikilink")の動向を示す出来事を加える。
+
+| 時期       | 出来事                                                                                                                                           |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1984年    | 講談社**X文庫**創刊。                                                                                                                                 |
+| 1986年初冬  | 企画部より、花井愛子に執筆依頼。                                                                                                                              |
+| 1987年2月  | **ティーンズハート**創刊。                                                                                                                               |
+| 1987年3月  | 第2回配本。                                                                                                                                        |
+| 1987年4月  | 第3回配本。花井愛子デビュー作『一週間のオリーブ』を含む。                                                                                                                 |
+| 1987年5月  | 第4回配本。花井愛子第2作『[山田ババアに花束を](https://ja.wikipedia.org/wiki/山田ババアに花束を "wikilink")』、別名義「神戸あやか」デビュー作を含む。花井は以降翌年まで、名義を使い分けて毎月複数の新刊を上梓する。             |
+| 1987年3月  | [中原涼](../Page/中原涼.md "wikilink")のティーンズハートでの最初の著作『[受験の国のアリス](../Page/アリスSOS.md "wikilink")』刊行\[18\]。                                           |
+| 1987年6月  | 皆川ゆか、講談社出版研究所に小説原稿を持ち込み。企画部への紹介を受ける。この時点で既に、企画部は毎月の新刊点数の確保に難渋している。                                                                            |
+| 1987年9月  | 皆川ゆかデビュー作『[ぱらどっくすティー・パーティー](https://ja.wikipedia.org/wiki/ティー・パーティー（八幡高校超常研報告） "wikilink")』刊行。                                                |
+| 1987年10月 | 神崎あおいデビュー作『Catch me                                                                                                                           |
+| 1988年    | 学校読書調査において中学2・3年女子の上位作品の過半数を花井愛子の著作が占める。この年だけの現象。                                                                                             |
+| 1988年2月  | [折原みと](https://ja.wikipedia.org/wiki/折原みと "wikilink")のティーンズハートでの最初の著作『夢みるように、愛したい』、[倉橋燿子](../Page/倉橋燿子.md "wikilink")デビュー作『スウィート・リトル・ダーリン』刊行。 |
+| 1988年3月  | [林葉直子](https://ja.wikipedia.org/wiki/林葉直子 "wikilink")デビュー作『とんでもポリスは恋泥棒』刊行。                                                                    |
+| 1988年6月  | [秋野ひとみデビュー作](../Page/秋野ひとみ_\(小説家\).md "wikilink")『夕暮れどきにつかまえて』刊行。                                                                             |
+| 1988年7月  | [風見潤](../Page/風見潤.md "wikilink")のティーンズハートでの最初の著作『清里幽霊事件』刊行。                                                                                   |
+| 1988年9月  | [小野不由美](../Page/小野不由美.md "wikilink")デビュー作『バースデイ・イブは眠れない』刊行。                                                                                   |
+| 1988年12月 | 花井愛子の複数名義による最後の著作が刊行。以降花井は刊行速度を落とし、数年でティーンズハートからフェードアウトする。                                                                                    |
+| 1989年    | 学校読書調査において花井愛子に替わり、同じティーンズハートの倉橋燿子、折原みとの著作が上位を占める。                                                                                            |
+| 1989年頃   | **少女小説ブーム**。他社より競合レーベルの創刊が相次ぐ。                                                                                                                |
+| 1989年4月  | [津原やすみ](https://ja.wikipedia.org/wiki/津原やすみ "wikilink")デビュー作『[星からきたボーイフレンド](https://ja.wikipedia.org/wiki/あたしのエイリアンシリーズ "wikilink")』刊行。       |
+| 1990年11月 | [小林深雪](../Page/小林深雪.md "wikilink")デビュー作『ガールフレンドになりたい                                                                                          |
+| 1991年1月  | 折原みと『[時の輝き](https://ja.wikipedia.org/wiki/時の輝き "wikilink")』刊行。                                                                                |
+| 1991年頃   | 読者層の低年齢化、バブル崩壊による出版不況を受け、**売り上げが低迷**。                                                                                                         |
+| 1991年4月  | 姉妹レーベル**[ホワイトハート](https://ja.wikipedia.org/wiki/ホワイトハート "wikilink")**創刊。読者層の低年齢化を受け、年齢層の高い作品を別レーベルとして切り離した。                                   |
+| 1992年夏   | 文芸第三と三局企画部に分かれていた編集部が「文芸第四」として統合。                                                                                                             |
+| 1993年頃   | 「読者層はだんだん下がってきて、中学一年生が主体」との編集部の発言。                                                                                                            |
+| 1995年3月  | 折原みと『時の輝き』映画化。                                                                                                                                |
+| 1996年8月  | 花井愛子『ボクがいる』刊行。以降2002年まで花井はティーンズハートを離れている。                                                                                                     |
+| 1996年12月 | 津原やすみのティーンズハートでの最後の著作『ささやきは魔法』刊行。                                                                                                             |
+| 1996年12月 | （1997年1月度の繰り上げ刊行）大幅リニューアル。                                                                                                                    |
+| 2002年5月  | 花井愛子、数年ぶりの新作『カレシと夜明けまで』刊行。                                                                                                                    |
+| 2003年5月  | 花井愛子のティーンズハートでの最後の著作（愛菜名義）『天使の砂時計』刊行。                                                                                                         |
+| 2004年7月  | 皆川ゆかのティーンズハートでの最後の著作『《世界》。』刊行。                                                                                                                |
+| 2006年3月  | ティーンズハートレーベルからの最後の刊行。                                                                                                                         |
+|          |                                                                                                                                               |
+
+## 参考文献
+
+  -
+  -
+  -
+  - 花井愛子、2005、『ときめきイチゴ時代』初版、[講談社](../Page/講談社.md "wikilink") ISBN 978-4062752282
+
+  - 嵯峨景子、2016、『コバルト文庫で辿る少女小説変遷史』初版、[彩流社](../Page/彩流社.md "wikilink") ISBN 978-4779122750
+
+  - [ありさとの蔵](https://alisato.web2.jp/)（講談社X文庫ティーンズハート著者名リスト、ティーンズハート作家別刊行チャート全期間）
+
+## 脚注
 
 ## 関連項目
 
   - [文庫レーベル一覧](../Page/文庫レーベル一覧.md "wikilink")
+  - 各作品（著者50音順）
+      - [悪霊シリーズ](../Page/悪霊シリーズ.md "wikilink")（小野不由美）
+      - [時の輝き](https://ja.wikipedia.org/wiki/時の輝き "wikilink")（折原みと）
+      - [真夜中を駆けぬける](../Page/真夜中を駆けぬける.md "wikilink")（折原みと）
+      - [アナトゥール星伝](../Page/アナトゥール星伝.md "wikilink")（折原みと）
+      - [あたしのエイリアンシリーズ](https://ja.wikipedia.org/wiki/あたしのエイリアンシリーズ "wikilink")（津原やすみ）
+      - [ルピナス探偵団シリーズ](https://ja.wikipedia.org/wiki/ルピナス探偵団シリーズ "wikilink")（津原やすみ）
+      - [アリスSOS](../Page/アリスSOS.md "wikilink")（中原涼）
+      - [山田ババアに花束を](https://ja.wikipedia.org/wiki/山田ババアに花束を "wikilink")（花井愛子）
+      - [ティー・パーティー（八幡高校超常研報告）](https://ja.wikipedia.org/wiki/ティー・パーティー（八幡高校超常研報告） "wikilink")（皆川ゆか）
+      - [運命のタロット](../Page/運命のタロット.md "wikilink")（皆川ゆか）
 
-[Category:講談社X文庫](https://ja.wikipedia.org/wiki/Category:講談社X文庫 "wikilink") [Category:講談社の歴史](https://ja.wikipedia.org/wiki/Category:講談社の歴史 "wikilink") [Category:廃刊した文庫](https://ja.wikipedia.org/wiki/Category:廃刊した文庫 "wikilink") [Category:1987年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1987年刊行開始の刊行物 "wikilink") [Category:2006年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行終了の刊行物 "wikilink")
+[Category:講談社X文庫](https://ja.wikipedia.org/wiki/Category:講談社X文庫 "wikilink") [Category:講談社の歴史](https://ja.wikipedia.org/wiki/Category:講談社の歴史 "wikilink") [Category:廃刊した文庫](https://ja.wikipedia.org/wiki/Category:廃刊した文庫 "wikilink") [Category:廃刊したライトノベル_(レーベル別)](https://ja.wikipedia.org/wiki/Category:廃刊したライトノベル_\(レーベル別\) "wikilink") [Category:1987年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1987年刊行開始の刊行物 "wikilink") [Category:2006年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行終了の刊行物 "wikilink")
+
+1.  名称は各部署刊行物の奥付下部を参照。花井、皆川はそれぞれに略して記述している。
+2.
+3.  皆川ゆか『ティー・パーティー　我らこの世界を愛す（後編）』（1992年6月刊）は「三企」、津原やすみ『あたしのエイリアン　悲しみがいっぱい』（1992年8月刊）は「文４」の編集であることを奥付から確認した。
+4.
+5.
+6.
+7.
+8.  津原泰水「黄昏をあるき続けた」講談社IN POCKET2001年6月号
+9.
+10.
+11.
+12.
+13. 東雅夫編『ホラー・ジャパネスク読本』p.56／双葉社／2006年
+14. 皆川ゆか『真・運命のタロット』終盤は主に三人称で書かれている。
+15. 講談社X文庫ティーンズハート折り込み広告「ティーンズハートクラブvol.9」1996年12月25日発行。
+16. 津原は後に「『女性だと誤解される余地を残してくれ』という要請はありました」と証言している（東雅夫編『ホラー・ジャパネスク読本』p.56／双葉社／2006年）。
+17. 津原、北原は、編集部の要請に対し、性別の特定できない筆名、あとがきで使用する一人称を工夫する、という方法で応じた。、、
+18. 以下、年表内の刊行年月は国会図書館オンラインのデータに基づく。

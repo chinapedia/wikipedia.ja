@@ -25,7 +25,7 @@
 男性メンバー
 
   - Paul - 本名:[ポール・キャターモール](https://ja.wikipedia.org/wiki/ポール・キャターモール "wikilink")（1977年3月7日、好きな色:オレンジ色、元ロックバンド）
-  - Jon - 本名:[ジョン・リー](https://ja.wikipedia.org/wiki/ジョン・リー "wikilink")（1982年4月26日生、好きな色:緑色、元俳優）
+  - Jon - 本名:[ジョン・リー](https://ja.wikipedia.org/wiki/ジョン・リー_\(俳優\) "wikilink")（1982年4月26日生、好きな色:緑色、元俳優）
   - Bradley - 本名:[ブラッドリー・マッキントッシュ](https://ja.wikipedia.org/wiki/ブラッドリー・マッキントッシュ "wikilink")（1981年8月8日生、好きな色:青色、元ピザ屋店員）
 
 ## ディスコグラフィー

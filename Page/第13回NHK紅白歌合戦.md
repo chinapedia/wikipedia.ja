@@ -7,11 +7,11 @@
 
 ### 司会者
 
-  - 紅組司会:[森光子](../Page/森光子.md "wikilink") - 女優。前年の[芸術座](../Page/芸術座.md "wikilink")公演『[放浪記](../Page/放浪記.md "wikilink")』が話題となった。前回は審査員。
-  - 白組司会:[宮田輝](../Page/宮田輝.md "wikilink") - NHKアナウンサー。『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』司会。
-  - 総合司会:[石井鐘三郎](https://ja.wikipedia.org/wiki/石井鐘三郎 "wikilink")　- NHKアナウンサー。
+  - 紅組司会：[森光子](../Page/森光子.md "wikilink") - 女優。前年の[芸術座](../Page/芸術座.md "wikilink")公演『[放浪記](../Page/放浪記.md "wikilink")』が話題となった。前回は審査員。
+  - 白組司会：[宮田輝](../Page/宮田輝.md "wikilink") - NHKアナウンサー。『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』司会。
+  - 総合司会：[石井鐘三郎](https://ja.wikipedia.org/wiki/石井鐘三郎 "wikilink") - NHKアナウンサー。
 
-両軍司会は[前回まで](../Page/第12回NHK紅白歌合戦.md "wikilink")3年連続で担当した[中村メイコ](../Page/中村メイコ.md "wikilink")（前回の時点で子供が3歳となるのでそろそろ[御節料理](../Page/御節料理.md "wikilink")など[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[正月](../Page/正月.md "wikilink")の風習を教えてあげたい」との理由により同回が最後という条件を出していた）・[高橋圭三](../Page/高橋圭三.md "wikilink")（この年完全に[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")転身）が揃って降板した。後任には森が初司会、宮田が復帰した。総合司会については、石井鐘三郎が2年ぶりに復帰した。
+両軍司会は[前回まで](../Page/第12回NHK紅白歌合戦.md "wikilink")3年連続で担当した[中村メイコ](../Page/中村メイコ.md "wikilink")（前回の時点で[子供が](../Page/神津カンナ.md "wikilink")3歳となるのでそろそろ[御節料理](../Page/御節料理.md "wikilink")など[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[正月](../Page/正月.md "wikilink")の風習を教えてあげたい」との理由により同回が最後という条件を出していた）・[高橋圭三](../Page/高橋圭三.md "wikilink")（この年完全に[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")転身）が揃って降板した。後任には森が初司会、宮田が復帰した。総合司会については、石井鐘三郎が2年ぶりに復帰した。
 
 ### 出場歌手
 
@@ -116,7 +116,7 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1962年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1962年のテレビ番組_\(日本\) "wikilink") [Category:1962年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1962年のラジオ番組_\(日本\) "wikilink") [Category:1962年の音楽](https://ja.wikipedia.org/wiki/Category:1962年の音楽 "wikilink") [Category:1962年12月](https://ja.wikipedia.org/wiki/Category:1962年12月 "wikilink")

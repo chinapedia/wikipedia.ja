@@ -125,7 +125,7 @@
 
   - [ケーシー・ランキン](../Page/ケーシー・ランキン.md "wikilink") (*Casey Rankin*)
   - [デス・ダイアー](../Page/ジグソー.md "wikilink") (*Des Dyer*)
-  - [デビー・ギブソン](https://ja.wikipedia.org/wiki/デビー・ギブソン "wikilink")
+  - [デビー・ギブソン](../Page/デビー・ギブソン.md "wikilink")
       - 2010年11月放送の「MUSIC FAIR」では[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")とデュエットした。
   - [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink") - 『[COVERS:2](https://ja.wikipedia.org/wiki/COVERS:2 "wikilink")』（2012年）\[32\]
 

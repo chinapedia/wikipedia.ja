@@ -8,7 +8,7 @@
       - [Dear My Friend (Every Little Thingの曲)](../Page/Dear_My_Friend_\(Every_Little_Thingの曲\).md "wikilink") - [Every Little Thingのシングル曲](../Page/Every_Little_Thing.md "wikilink")。
       - Dear My Friend　- [嵐の曲](../Page/嵐_\(グループ\).md "wikilink")。アルバム『[いざッ、Now](../Page/いざッ、Now.md "wikilink")』に収録。
       - Dear My Friend - [大藤史](../Page/大藤史.md "wikilink")のアルバム。
-      - dear my friend. - [水野あおい](../Page/水野あおい.md "wikilink")の3ndアルバム。
+      - dear my friend. - [水野あおい](../Page/水野あおい.md "wikilink")の3rdアルバム。
       - Dear my friend - [雅-miyavi-](https://ja.wikipedia.org/wiki/雅-miyavi- "wikilink")の曲。両A面シングル「[Dear my friend/愛しい人](https://ja.wikipedia.org/wiki/Dear_my_friend/愛しい人 "wikilink")」に収録。
       - [Dear My Friend -まだ見ぬ未来へ-](https://ja.wikipedia.org/wiki/Dear_My_Friend_-まだ見ぬ未来へ- "wikilink") - [ELISAのシングル曲](https://ja.wikipedia.org/wiki/ELISA_\(歌手\) "wikilink")。
   - [Dear My Friend (劇団)](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(劇団\) "wikilink") - 日本の劇団。[2001年](../Page/2001年.md "wikilink")に「D.M.F. PROJECT」から改称した。

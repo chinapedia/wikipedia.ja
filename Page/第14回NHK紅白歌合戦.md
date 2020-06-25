@@ -219,8 +219,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
   - [第１４回ＮＨＫ紅白歌合戦 ～東京宝塚劇場から中継～ - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009050264_00000)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1963年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1963年のテレビ番組_\(日本\) "wikilink") [Category:1963年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1963年のラジオ番組_\(日本\) "wikilink") [Category:1963年の音楽](https://ja.wikipedia.org/wiki/Category:1963年の音楽 "wikilink") [Category:1963年12月](https://ja.wikipedia.org/wiki/Category:1963年12月 "wikilink")

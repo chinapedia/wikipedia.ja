@@ -58,7 +58,7 @@
 |            | BS202         | [スター・チャンネル](../Page/スター・チャンネル.md "wikilink")3                                                  |
 |            | BS211         | [BS11](../Page/日本BS放送.md "wikilink")                                                           |
 |            | BS222         | [BS12 トゥエルビ](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")                                          |
-|            | BS258         | [Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")                                        |
+|            | ~~BS258~~     | ~~[Dlife](https://ja.wikipedia.org/wiki/Dlife "wikilink")~~                                    |
 |            | 011           | ナイスチャンネル                                                                                       |
 |            | 012           | YOUチャンネルLIVE                                                                                   |
 |            | 121           | [ディスカバリーチャンネル](../Page/ディスカバリーチャンネル.md "wikilink")(HD)                                         |
@@ -111,7 +111,7 @@
 |            | 188           | [テレ朝チャンネル ニュース・情報・スポーツ](../Page/テレ朝チャンネル.md "wikilink")2                                       |
 |            | 191           | [パチンコ★パチスロTV\!](../Page/パチンコ★パチスロTV!.md "wikilink")HD                                          |
 |            | 192           | [ジュエリー☆Gem Shopping TV HD](https://ja.wikipedia.org/wiki/GemsTV "wikilink")                    |
-|            | 193           | [FOXスポーツ&エンターテイメント](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")                          |
+|            | ~~193~~       | ~~[FOXスポーツ&エンターテイメント](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")~~ \[2\]                |
 |            | 194           | [FOXムービー プレミアム HD](../Page/FOXムービー.md "wikilink")                                              |
 |            | 210           | [J SPORTS 3](../Page/J_SPORTS.md "wikilink")                                                   |
 |            | 211           | [スカイ・A sports+](../Page/スカイ・エー.md "wikilink")                                                  |
@@ -220,15 +220,15 @@
   - 横浜ミストリー（横浜の歴史や文化にスポットを当てた自主制作ドキュメンタリー）
       - 主なスタッフ：ディレクター：高科英昭・西野暢一、プロデューサー：松野裕一
 
-## 脚注
-
 ## 関連項目
 
-  - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [日本ケーブルキャスセンター](../Page/日本ケーブルキャスセンター.md "wikilink")
-  - [社団法人CATV技術協会](../Page/日本CATV技術協会.md "wikilink")
-  - [日本ケーブルラボ](../Page/日本ケーブルラボ.md "wikilink")
-  - [社団法人日本ケーブルテレビ連盟](../Page/日本ケーブルテレビ連盟.md "wikilink")
+## 脚注
+
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
 
 ## 外部リンク
 
@@ -238,3 +238,4 @@
 [Category:横浜市鶴見区の企業](https://ja.wikipedia.org/wiki/Category:横浜市鶴見区の企業 "wikilink") [Category:神奈川県のケーブルテレビ局](https://ja.wikipedia.org/wiki/Category:神奈川県のケーブルテレビ局 "wikilink")
 
 1.  \[<http://www.netyou.jp/quicknews/150119_digiana.html>　デジアナ変換サービス終了のご案内\]
+2.

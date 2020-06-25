@@ -9,7 +9,7 @@
 
 ## リリース
 
-前作と同じく初回盤は紙製のスリーブケース付きになっており、[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")も対応する。アルバム未収録で再発はされていないため、現在オリジナル・シングル盤のみ存在する。収録曲は全てシングル盤にのみ収録。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の「[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")」以来10年ぶりにライブバージョンの楽曲が収録され、サザンのシングルとしては初めて3曲が収録された。
+前作と同じく初回盤は紙製のスリーブケース付きになっており、[CD EXTRAも対応する](../Page/CD_EXTRA.md "wikilink")。アルバム未収録で再発はされていないため、現在オリジナル・シングル盤のみ存在する。収録曲は全てシングル盤にのみ収録。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の「[真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")」以来10年ぶりにライブバージョンの楽曲が収録され、サザンのシングルとしては初めて3曲が収録された。
 
 本作の[CD盤の収録時間は](../Page/コンパクトディスク.md "wikilink")14分ちょうどである。同時発売のアナログ盤とは収録内容が異なっている。現在でもCDシングルと同時発売で[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")が発売されているが、収録内容が違うのは本作が唯一である。
 

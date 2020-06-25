@@ -7,7 +7,7 @@
 
 「カルチャーやファッションに敏感な女性たちをターゲットに情報を発信し、同世代の女性同士のコミュニティを提供している番組。 放送当時の終盤期は[J-WAVE](../Page/J-WAVE.md "wikilink")の[BOOM TOWNと](../Page/BOOM_TOWN.md "wikilink")[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")の[NACK WITH YOUに聴取率で差をつけられ](../Page/NACK_WITH_YOU.md "wikilink")、苦戦していた。
 
-2006年8月15日、[SCHOOL OF LOCK\!の](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")[やましげ校長](../Page/山崎樹範.md "wikilink")、[やしろ教頭と](../Page/カリカ_\(お笑いコンビ\).md "wikilink")「親子問題」をテーマに話し合った。
+2006年8月15日、[SCHOOL OF LOCK\!の](../Page/SCHOOL_OF_LOCK!.md "wikilink")[やましげ校長](../Page/山崎樹範.md "wikilink")、[やしろ教頭と](../Page/カリカ_\(お笑いコンビ\).md "wikilink")「親子問題」をテーマに話し合った。
 
 2006年10月2日から[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")と共同で「香り付き音楽」サービスを開始。指定曲が流れると、NTTコミュニケーションズが発売している「香り発生装置」が作動するシステムと同時にSNSのコミュニティを活動した「Tapestry net」を開始。
 

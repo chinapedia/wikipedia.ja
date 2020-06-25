@@ -179,7 +179,7 @@
 
 ## 脚注
 
-[Category:かしわプロダクション](https://ja.wikipedia.org/wiki/Category:かしわプロダクション "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:ラジオの番販番組](https://ja.wikipedia.org/wiki/Category:ラジオの番販番組 "wikilink")
+[Category:かしわプロダクション](https://ja.wikipedia.org/wiki/Category:かしわプロダクション "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:ローカルラジオ局の音楽番組‎](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組‎ "wikilink") [Category:ラジオの番販番組](https://ja.wikipedia.org/wiki/Category:ラジオの番販番組 "wikilink")
 
 1.  ナイターインは月曜 18:20 - 19:00に放送。
 2.  『[お昼はZENKAI ラヂオな時間](../Page/お昼はZENKAI_ラヂオな時間.md "wikilink")』の放送拡大のため、2015年3月に打ち切ったが、2016年9月26日から2017年3月31日に火曜 - 金曜 18:30 - 18:45に放送。2017年10月2日より再開。

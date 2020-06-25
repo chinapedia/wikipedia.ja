@@ -176,4 +176,4 @@
   - [Radiant Impression/B](http://yashiron.sblo.jp/)
   - [Mju:z（ミューズ）](http://es-dev.sakura.ne.jp/)
 
-[Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink")
+[Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink") [Category:1999年設立の組織](https://ja.wikipedia.org/wiki/Category:1999年設立の組織 "wikilink")

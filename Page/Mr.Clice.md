@@ -43,7 +43,7 @@
 
 2018年4月からは『ジャンプSQ.RISE』創刊に伴い、同誌で連載されている。
 
-2016年9月に発売されたジャンプリミックス版の表紙には、「新シリーズ開始」と銘打たれていた。2020年現在、『月刊少年ジャンプ』連載作品の中で連載を継続している作品では『[キャプテン](https://ja.wikipedia.org/wiki/キャプテン_\(漫画\) "wikilink")』（[ちばあきお](../Page/ちばあきお.md "wikilink") / [コージィ城倉](../Page/コージィ城倉.md "wikilink")\[2\]）に次いで連載開始時期が古い。
+2016年9月に発売されたジャンプリミックス版の表紙には、「新シリーズ開始」と銘打たれていた。2020年現在、『月刊少年ジャンプ』連載作品の中で連載を継続している作品では『[キャプテン](../Page/キャプテン_\(漫画\).md "wikilink")』（[ちばあきお](../Page/ちばあきお.md "wikilink") / [コージィ城倉](../Page/コージィ城倉.md "wikilink")\[2\]）に次いで連載開始時期が古い。
 
 ## 単行本
 
@@ -94,7 +94,7 @@
   -
     MEGA CITY PANIC（[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ロッキー山脈](../Page/ロッキー山脈.md "wikilink")〜[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[シリコンバレー](../Page/シリコンバレー.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")2月号）
     古都北京不夜城対決（[北京](../Page/北京市.md "wikilink")、2001年9月号）
-    南国の星に願いを…（南[太平洋](../Page/太平洋.md "wikilink")の[赤道](../Page/赤道.md "wikilink")直下・[ピットケルン島](https://ja.wikipedia.org/wiki/ピットケルン島 "wikilink")〜ジオテイル島、[2002年](../Page/2002年.md "wikilink")2月号）
+    南国の星に願いを…（南[太平洋](../Page/太平洋.md "wikilink")の[赤道](../Page/赤道.md "wikilink")直下・[ピットケルン島](../Page/ピトケアン諸島.md "wikilink")〜ジオテイル島、[2002年](../Page/2002年.md "wikilink")2月号）
 
 <!-- end list -->
 

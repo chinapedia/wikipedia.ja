@@ -17,7 +17,7 @@
 
 ## 出演者
 
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
 
 <!-- end list -->
 

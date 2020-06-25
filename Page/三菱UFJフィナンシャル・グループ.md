@@ -120,10 +120,11 @@
 
 ## かつての親密企業
 
-  - [アプラス](https://ja.wikipedia.org/wiki/アプラス "wikilink")（法人格として現[アプラスフィナンシャル](../Page/アプラスフィナンシャル.md "wikilink")）（旧三和系の信販会社・現在は[新生銀行](../Page/新生銀行.md "wikilink")の傘下）
-  - [プロミス](https://ja.wikipedia.org/wiki/プロミス "wikilink")（現[SMBCコンシューマーファイナンス](../Page/SMBCコンシューマーファイナンス.md "wikilink")）（旧三和系の消費者金融会社・現在は[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")の傘下）
-  - [セントラルファイナンス](../Page/セントラルファイナンス.md "wikilink")（現・[セディナ](https://ja.wikipedia.org/wiki/セディナ "wikilink")）（旧東海系の信販会社。現在は三井住友FG系列の[SMFGカード&クレジット](https://ja.wikipedia.org/wiki/SMFGカード&クレジット "wikilink")と[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")の傘下）
-  - [東海東京証券](../Page/東海東京証券.md "wikilink")（法人格としては、現・[東海東京フィナンシャル・ホールディングス](https://ja.wikipedia.org/wiki/東海東京フィナンシャル・ホールディングス "wikilink")）（旧東海系の証券会社・現在は[三井住友海上火災保険](../Page/三井住友海上火災保険.md "wikilink")の傘下）
+  - [アプラス](https://ja.wikipedia.org/wiki/アプラス "wikilink")（法人格として現[アプラスフィナンシャル](../Page/アプラスフィナンシャル.md "wikilink")）（旧三和系の信販会社・後に[新生銀行](../Page/新生銀行.md "wikilink")の傘下）
+  - プロミス（現[SMBCコンシューマーファイナンス](../Page/SMBCコンシューマーファイナンス.md "wikilink")）（旧三和系の消費者金融会社・後に[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")の傘下）
+  - モビット（現[SMBCモビット](../Page/SMBCモビット.md "wikilink")）（旧三和系の消費者金融会社・後に三井住友フィナンシャルグループの傘下）
+  - [セントラルファイナンス](../Page/セントラルファイナンス.md "wikilink")（現・[セディナ](https://ja.wikipedia.org/wiki/セディナ "wikilink")）（旧東海系の信販会社。後に三井住友FG系列の[SMFGカード&クレジット](https://ja.wikipedia.org/wiki/SMFGカード&クレジット "wikilink")と[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")の傘下）
+  - [東海東京証券](../Page/東海東京証券.md "wikilink")（法人格としては、現・[東海東京フィナンシャル・ホールディングス](https://ja.wikipedia.org/wiki/東海東京フィナンシャル・ホールディングス "wikilink")）（旧東海系の証券会社・後に[三井住友海上火災保険](../Page/三井住友海上火災保険.md "wikilink")の傘下）
   - [ユナイテッド・カリフォルニア銀行](https://ja.wikipedia.org/wiki/ユナイテッド・カリフォルニア銀行 "wikilink")（[BNPパリバ](../Page/BNPパリバ.md "wikilink")に[営業譲渡](https://ja.wikipedia.org/wiki/営業譲渡 "wikilink")）
 
 ## 主要大口取引先

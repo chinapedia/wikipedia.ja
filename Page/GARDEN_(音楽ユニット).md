@@ -18,7 +18,7 @@
 
 [1992年](../Page/1992年.md "wikilink")にソニーレコードより**GARDEN**として再デビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[アルファミュージックへ移籍](../Page/アルファレコード.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")へ移籍。その後、独自レーベル、**フラワートップ**を立ち上げ現在に至る。
 
-GARDENとして音楽活動の他にも[織田裕二](../Page/織田裕二.md "wikilink")、[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")、[山本麻里安](../Page/山本麻里安.md "wikilink")らに楽曲を提供することも多く、特に最も大ヒットした有名曲としては織田裕二に提供した「[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")」シリーズの主題歌「[Love Somebody](https://ja.wikipedia.org/wiki/Love_Somebody "wikilink")」がある。また、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")が「Beautiful」をカバーしたが、当時は似た名前の有名なグループが存在していたために多くのファンに勘違いを生じさせてしまった。
+GARDENとして音楽活動の他にも[織田裕二](../Page/織田裕二.md "wikilink")、[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")、[山本麻里安](../Page/山本麻里安.md "wikilink")らに楽曲を提供することも多く、特に最も大ヒットした有名曲としては織田裕二に提供した「[踊る大捜査線](../Page/踊る大捜査線.md "wikilink")」シリーズの主題歌「[Love Somebody](https://ja.wikipedia.org/wiki/Love_Somebody "wikilink")」がある。また、[SMAP](../Page/SMAP.md "wikilink")の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")が「Beautiful」をカバーしたが、当時は似た名前の有名なグループが存在していたために多くのファンに勘違いを生じさせてしまった。
 
 [2002年](../Page/2002年.md "wikilink")には『[ポケットモンスター アドバンスジェネレーション](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")』の主題歌に起用される。
 

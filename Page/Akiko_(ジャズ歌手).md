@@ -1,7 +1,7 @@
 > この記事は[Akiko \(ジャズ歌手\)](https://ja.wikipedia.org/wiki/Akiko_\(ジャズ歌手\))から翻訳されています。
 
 
-**akiko**（あきこ、[1976年](../Page/1976年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - ）は、日本の[ジャズ](../Page/ジャズ.md "wikilink")シンガー。[埼玉県](../Page/埼玉県.md "wikilink")[浦和市](https://ja.wikipedia.org/wiki/浦和市 "wikilink")（現：[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")）生まれ。[豊島岡女子学園高等学校](../Page/豊島岡女子学園中学校・高等学校.md "wikilink")、[中央大学](../Page/中央大学.md "wikilink")[文学部](../Page/文学部.md "wikilink")卒業。
+**akiko**（あきこ、[1976年](../Page/1976年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink") - ）は、日本の[ジャズ](../Page/ジャズ.md "wikilink")シンガー。
 
 ## 略歴
 

@@ -62,7 +62,7 @@
   -
   -
   -
-[Category:1969年の映画](https://ja.wikipedia.org/wiki/Category:1969年の映画 "wikilink") [Category:1960年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1960年代の特撮作品 "wikilink") [Category:イギリスのSF映画作品](https://ja.wikipedia.org/wiki/Category:イギリスのSF映画作品 "wikilink") [Category:イギリスの特撮映画](https://ja.wikipedia.org/wiki/Category:イギリスの特撮映画 "wikilink") [Category:イギリスの冒険映画](https://ja.wikipedia.org/wiki/Category:イギリスの冒険映画 "wikilink") [Category:冷戦の映画](https://ja.wikipedia.org/wiki/Category:冷戦の映画 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:アンダーソン作品](https://ja.wikipedia.org/wiki/Category:アンダーソン作品 "wikilink") [Category:モンゴルを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:モンゴルを舞台とした映画作品 "wikilink")
+[Category:1969年の映画](https://ja.wikipedia.org/wiki/Category:1969年の映画 "wikilink") [Category:1960年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1960年代の特撮作品 "wikilink") [Category:イギリスのSF映画作品](https://ja.wikipedia.org/wiki/Category:イギリスのSF映画作品 "wikilink") [Category:イギリスの特撮映画](https://ja.wikipedia.org/wiki/Category:イギリスの特撮映画 "wikilink") [Category:イギリスの冒険映画](https://ja.wikipedia.org/wiki/Category:イギリスの冒険映画 "wikilink") [Category:冷戦の映画](https://ja.wikipedia.org/wiki/Category:冷戦の映画 "wikilink") [Category:宇宙を舞台としたSF作品](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたSF作品 "wikilink") [Category:アンダーソン作品](https://ja.wikipedia.org/wiki/Category:アンダーソン作品 "wikilink") [Category:モンゴルを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:モンゴルを舞台とした映画作品 "wikilink") [Category:パインウッド・スタジオで製作された映画作品](https://ja.wikipedia.org/wiki/Category:パインウッド・スタジオで製作された映画作品 "wikilink")
 
 1.  DVDブックレットより、「『決死圏SOS宇宙船』と名づけられた日」
 2.

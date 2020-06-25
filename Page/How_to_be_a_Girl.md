@@ -1,7 +1,7 @@
 > この記事は[How to be a Girl](https://ja.wikipedia.org/wiki/How_to_be_a_Girl)から翻訳されています。
 
 
-『**How to be a Girl**』（ハウ・トゥー・ビー・ア・ガール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では10枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+『**How to be a Girl**』（ハウ・トゥー・ビー・ア・ガール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では10枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 
@@ -24,7 +24,7 @@
 
 ## 収録曲
 
-作詞：小室哲哉＆[MARC](../Page/マーク・パンサー.md "wikilink")　作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+作詞：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")＆[MARC](../Page/マーク・パンサー.md "wikilink")　作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
 
 1.  **How to be a Girl** (STRAIGHT RUN)
 2.  **How to be a Girl** (ADULT EDUCATION MIX)

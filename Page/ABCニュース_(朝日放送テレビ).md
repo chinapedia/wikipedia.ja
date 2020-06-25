@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - 土曜 17:48頃 - 17:55（『[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』内で放送）
+  - 土曜 17:48頃 - 17:55（『[ANNスーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』内で放送）
   - 日曜 17:51 - 17:55（『[サンデーステーション](https://ja.wikipedia.org/wiki/サンデーステーション "wikilink")』内で放送）
       - 2016年12月30日・2017年12月29日は、年末特別編成に伴い『[キャスト](https://ja.wikipedia.org/wiki/キャスト_\(テレビ番組\) "wikilink")』（平日夕方のローカル報道ワイド番組）が休止となったため、18:15 - 18:30に『ABCニュース&天気予報』のタイトルで当番組が放送された。
       - 2019年4月30日は、前天皇（現：上皇陛下）退位関連の特別報道体制などによる特別編成のため『キャスト』が休止となったのに伴い、18:15 - 18:30に『ABCニュース&天気予報』のタイトルで当番組が放送された。
@@ -103,7 +103,7 @@
 
   - [ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")
   - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ANN NEWS\&SPORTS](../Page/ANN_NEWS&SPORTS.md "wikilink")
   - [たいむ6 ABC](../Page/たいむ6.md "wikilink")
   - [ニュースウェーブABC](../Page/ニュース・ウェーブ.md "wikilink")

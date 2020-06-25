@@ -278,7 +278,7 @@
 
 ## 外部リンク
 
-  - [フジテレビTHE MANZAI](http://www.fujitv.co.jp/themanzai/)
+  - [フジテレビTHE MANZAI](https://www.fujitv.co.jp/themanzai/)
   - [THE MANZAI公式サイト](http://www.themanzai.com/)
 
 [Category:1980年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1980年のテレビ番組_\(日本\) "wikilink") [Category:火曜ワイドスペシャル](https://ja.wikipedia.org/wiki/Category:火曜ワイドスペシャル "wikilink") [Category:テレビの演芸番組](https://ja.wikipedia.org/wiki/Category:テレビの演芸番組 "wikilink") [Category:お笑いのコンテスト](https://ja.wikipedia.org/wiki/Category:お笑いのコンテスト "wikilink") [Category:漫才番組](https://ja.wikipedia.org/wiki/Category:漫才番組 "wikilink") [Category:ひょうきん族](https://ja.wikipedia.org/wiki/Category:ひょうきん族 "wikilink") [Category:THE_MANZAI](https://ja.wikipedia.org/wiki/Category:THE_MANZAI "wikilink")

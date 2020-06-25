@@ -169,7 +169,7 @@ CRCP-10117</p></td>
 <li>It's good</li>
 </ol></td>
 <td><p>HEAVENS RECORDS<br />
-オリコン40位</p></td>
+オリコン40位 10万枚以上のセールスを記録</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>

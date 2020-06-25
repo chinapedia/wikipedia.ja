@@ -1,7 +1,7 @@
 > この記事は[NHK杯国際フィギュアスケート競技大会](https://ja.wikipedia.org/wiki/NHK杯国際フィギュアスケート競技大会)から翻訳されています。
 
 
-**NHK杯国際フィギュアスケート競技大会**（エヌエイチケーはいこくさいフィギュアスケートきょうぎたいかい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で行われる[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")の国際競技会。[ISUグランプリシリーズ](../Page/ISUグランプリシリーズ.md "wikilink")を構成する[フィギュアスケート競技会](../Page/フィギュアスケート競技会.md "wikilink")のひとつ。
+{{ Infobox フィギュアスケート競技会 | 大会名 = NHK杯国際フィギュアスケート競技大会 |ラテン文字 = NHK Trophy | 画像 = [Photos_–_NHK_Trophy_2017_–_Ladies_(Medalists)_(1).jpg](https://ja.wikipedia.org/wiki/File:Photos_–_NHK_Trophy_2017_–_Ladies_\(Medalists\)_\(1\).jpg "fig:Photos_–_NHK_Trophy_2017_–_Ladies_(Medalists)_(1).jpg") | キャプション = [2017年NHK杯](https://ja.wikipedia.org/wiki/2017年NHK杯国際フィギュアスケート競技大会 "wikilink") 女子シングル表彰式 | 大会種 = [ISUグランプリシリーズ](../Page/ISUグランプリシリーズ.md "wikilink") | 優勝ポイント = 400 | 創設年 = [1979年](../Page/1979年.md "wikilink") | 廃止年 = | シーズン開始年 = | シーズン終了年 = | 開催初日 = | 開催最終日 = | 主催 = [日本スケート連盟](../Page/日本スケート連盟.md "wikilink") | 開催国 =  | 開催地 = | 会場 = | 参加国数 = | 参加チーム数 = | 参加人数 = | 賞金総額 = 180,000[ドル](../Page/アメリカ合衆国ドル.md "wikilink") | 中継局 = [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") | 公式サイト = | 備考 = | 男子前回優勝 = [羽生結弦](https://ja.wikipedia.org/wiki/羽生結弦 "wikilink") | 女子前回優勝 = [アリョーナ・コストルナヤ](https://ja.wikipedia.org/wiki/アリョーナ・コストルナヤ "wikilink") | ペア前回優勝女 = [隋文静](https://ja.wikipedia.org/wiki/隋文静 "wikilink") | ペア前回優勝男 = [韓聰](https://ja.wikipedia.org/wiki/韓聰 "wikilink") | ダンス前回優勝女 = [ガブリエラ・パパダキス](https://ja.wikipedia.org/wiki/ガブリエラ・パパダキス "wikilink") | ダンス前回優勝男 = [ギヨーム・シゼロン](https://ja.wikipedia.org/wiki/ギヨーム・シゼロン "wikilink") | 男子最多優勝 = 5回  [髙橋大輔](../Page/高橋大輔_\(フィギュアスケート選手\).md "wikilink") | 女子最多優勝 = 6回  [伊藤みどり](../Page/伊藤みどり.md "wikilink") | ペア最多優勝女 = 5回  [申雪](../Page/申雪.md "wikilink") | ペア最多優勝男 = 5回  [趙宏博](../Page/趙宏博.md "wikilink") | ダンス最多優勝女 = 5回  [マリナ・アニシナ](../Page/マリナ・アニシナ.md "wikilink") | ダンス最多優勝男 = 5回  [グウェンダル・ペーゼラ](../Page/グウェンダル・ペーゼラ.md "wikilink") | 最新大会 = [2019年NHK杯](https://ja.wikipedia.org/wiki/2019年NHK杯国際フィギュアスケート競技大会 "wikilink") }} **NHK杯国際フィギュアスケート競技大会**（エヌエイチケーはいこくさいフィギュアスケートきょうぎたいかい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で行われる[フィギュアスケート](../Page/フィギュアスケート.md "wikilink")の国際競技会。[ISUグランプリシリーズ](../Page/ISUグランプリシリーズ.md "wikilink")を構成する[フィギュアスケート競技会](../Page/フィギュアスケート競技会.md "wikilink")のひとつ。
 
 ## 概要
 
@@ -1491,9 +1491,7 @@ and <a href="https://ja.wikipedia.org/wiki/マルコ・ファッブリ" title="w
 
 ## 脚注
 
-<references />
-
-## 外部リンク
+## 参考文献
 
   - [2000年大会サイト](http://www.jsfresults.com/InterNational/2000-2001/Figure/NHK/Index.htm)
   - [2001年大会サイト](http://www.jsfresults.com/InterNational/2001-2002/Figure/NHK/Index.htm)
@@ -1525,6 +1523,9 @@ and <a href="https://ja.wikipedia.org/wiki/マルコ・ファッブリ" title="w
   - [2018公式結果](http://www.isuresults.com/results/season1819/gpjpn2018/)
   - [2019公式結果](http://www.isuresults.com/results/season1920/gpjpn2019/)
   - [NHK杯応援ページ 過去の大会の記録](http://www.theartsroom.com/figure/nhk/old/oldnhk.html)
+
+## 外部リンク
+
   - [NHK杯フィギュアスペシャルエキシビション](http://www.nhk-p.co.jp/event/detail.php?id=528)
 
 [Category:NHK杯国際フィギュアスケート競技大会](https://ja.wikipedia.org/wiki/Category:NHK杯国際フィギュアスケート競技大会 "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink")

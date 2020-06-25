@@ -3,7 +3,7 @@
 
 **株式会社OSGコーポレーション**（オーエスジーコーポレーション）は、[大阪市](../Page/大阪市.md "wikilink")[北区に本社を置く](../Page/北区_\(大阪市\).md "wikilink")[浄水器](../Page/浄水器.md "wikilink")・アルカリイオン整水器などの製造を行う企業である。「**OSG**」とは「大阪三愛グループ」（**O**saka **S**an-ai **G**roup）の略である。
 
-なお、[工作機械](../Page/工作機械.md "wikilink")部品の[オーエスジー](../Page/オーエスジー.md "wikilink")との資本関係はない。
+なお、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[豊川市](../Page/豊川市.md "wikilink")に本社を置く[切削工具](../Page/切削工具.md "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")の[オーエスジー](../Page/オーエスジー.md "wikilink")との資本関係はない。
 
 ## 沿革
 

@@ -221,16 +221,6 @@ PlotData=
 
 ## 現所属メンバー
 
-[ADO_Den_Haag_in_het_seizoen_2018-19.jpg](https://ja.wikipedia.org/wiki/File:ADO_Den_Haag_in_het_seizoen_2018-19.jpg "fig:ADO_Den_Haag_in_het_seizoen_2018-19.jpg")
-
-  - 2016-17シーズン 開幕戦フォーメーション
-
-<div style="position: relative;">
-
-[350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
-
-</div>
-
 ([第2主将](../Page/主将.md "wikilink"))    ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
 
 ### レンタル移籍
@@ -243,7 +233,7 @@ PlotData=
 
 <!-- end list -->
 
-  - [アレクサンダル・ランコヴィッチ](https://ja.wikipedia.org/wiki/アレクサンダル・ランコヴィッチ_\(サッカー選手\) "wikilink")
+  - [アレクサンダル・ランコヴィッチ](../Page/アレクサンダル・ランコヴィッチ_\(サッカー選手\).md "wikilink")
 
 ## 歴代監督
 
@@ -269,7 +259,7 @@ PlotData=
 
   - [アラン・パーデュー](https://ja.wikipedia.org/wiki/アラン・パーデュー "wikilink") 2019-2020
 
-  - [アレクサンダル・ランコヴィッチ](https://ja.wikipedia.org/wiki/アレクサンダル・ランコヴィッチ_\(サッカー選手\) "wikilink") 2020-
+  - [アレクサンダル・ランコヴィッチ](../Page/アレクサンダル・ランコヴィッチ_\(サッカー選手\).md "wikilink") 2020-
 
 ## 歴代所属選手
 
@@ -287,7 +277,7 @@ PlotData=
 
   - [フランティシェック・クビク](https://ja.wikipedia.org/wiki/フランティシェック・クビク "wikilink") 2010-2011
 
-  - [ヴィト・ヴォルムホール](https://ja.wikipedia.org/wiki/ヴィト・ヴォルムホール "wikilink") 2012-2016
+  - [ヴィト・ヴォルムホール](../Page/ヴィト・ヴォルムホール.md "wikilink") 2012-2016
 
   - [ジャンニ・ザイフェルローン](https://ja.wikipedia.org/wiki/ジャンニ・ザイフェルローン "wikilink") 2013-2016
 
@@ -303,7 +293,7 @@ PlotData=
 
   - [カイル・エベシリオ](https://ja.wikipedia.org/wiki/カイル・エベシリオ "wikilink") 2016-
 
-  - [エミリオ・エステべス・ツァイ](https://ja.wikipedia.org/wiki/エミリオ・エステべス・ツァイ "wikilink") 2020-
+  - [エミリオ・エステべス・ツァイ](../Page/エミリオ・エステべス・ツァイ.md "wikilink") 2020-
 
 ### FW
 
@@ -317,7 +307,7 @@ PlotData=
 
   - [ヨーナス・コルッカ](../Page/ヨーナス・コルッカ.md "wikilink") 2005-2006
 
-  - [マイク・ファン・ダイネン](https://ja.wikipedia.org/wiki/マイク・ファン・ダイネン "wikilink") 2011-2015
+  - [マイク・ファン・ダイネン](../Page/マイク・ファン・ダイネン.md "wikilink") 2011-2015
 
   - [ハーフナー・マイク](../Page/ハーフナー・マイク.md "wikilink") 2015-2017
 

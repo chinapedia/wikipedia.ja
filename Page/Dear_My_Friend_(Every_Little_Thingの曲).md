@@ -24,7 +24,6 @@
       -
         「[スリムビューティハウス](../Page/スリムビューティハウス.md "wikilink")」（[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")出演）[CMソング](../Page/コマーシャルメッセージ.md "wikilink")
         [日本メナード化粧品](../Page/日本メナード化粧品.md "wikilink")「[名古屋ウィメンズマラソン2019](https://ja.wikipedia.org/wiki/マラソンフェスティバル_ナゴヤ・愛知 "wikilink")」企業CM\[1\]
-        元々は他のアーティストへ提供する予定だったが、あまりにも出来が良かったために自分達の曲になった。
 2.  **Dear My Friend (UK Mix)**
       -
         リミックス：Pete and Steve Hammond

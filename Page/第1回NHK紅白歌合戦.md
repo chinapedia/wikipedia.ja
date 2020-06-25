@@ -87,7 +87,7 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](http://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
   - [第１回　紅白歌合戦　NHK名作選（動画・静止画） NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009060095_00000)
 
 [fi:Kōhaku Uta Gassen](https://ja.wikipedia.org/wiki/fi:Kōhaku_Uta_Gassen "wikilink")

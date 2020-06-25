@@ -183,5 +183,4 @@
 ## 外部リンク
 
   -
-
 [Category:劇場版_NARUTO_-ナルト-](https://ja.wikipedia.org/wiki/Category:劇場版_NARUTO_-ナルト- "wikilink") [Category:2004年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2004年のアニメ映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink") [Category:三部作](https://ja.wikipedia.org/wiki/Category:三部作 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[SMAP 003](https://ja.wikipedia.org/wiki/SMAP_003)から翻訳されています。
 
 
-『**SMAP 003**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1993年](../Page/1993年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にビクター音楽産業（現・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）から発売された。
+『**SMAP 003**』は、[SMAP](../Page/SMAP.md "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1993年](../Page/1993年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")にビクター音楽産業（現・[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）から発売された。
 
 ## 解説
 

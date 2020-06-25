@@ -1,7 +1,7 @@
 > この記事は[宮脇“JOE”知史](https://ja.wikipedia.org/wiki/宮脇“JOE”知史)から翻訳されています。
 
 
-**宮脇“JOE”知史**（みやわき ジョー さとし、[1964年](../Page/1964年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")（[ドラマー](../Page/ドラマー.md "wikilink")）。[京都府](../Page/京都府.md "wikilink")出身。既婚。
+**宮脇“JOE”知史**（みやわき ジョー さとし、[1964年](../Page/1964年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")（[ドラマー](../Page/ドラマー.md "wikilink")）。[京都府](../Page/京都府.md "wikilink")出身。既婚。[同志社香里高等学校卒](../Page/同志社香里中学校・高等学校.md "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 | [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[SNAKE HIP SHAKES](https://ja.wikipedia.org/wiki/SNAKE_HIP_SHAKES "wikilink") | 1994 - 2010            |
 | [Hide](../Page/Hide.md "wikilink")/[hide with spread beaver](https://ja.wikipedia.org/wiki/hide_with_spread_beaver "wikilink")        | 1994 - 1998            |
 | [KINGS](https://ja.wikipedia.org/wiki/KINGS "wikilink")                                                                               | 1995                   |
-| [MADBEAVERS](https://ja.wikipedia.org/wiki/MADBEAVERS "wikilink")                                                                     | 1998、2005 - 2016       |
+| [MADBEAVERS](https://ja.wikipedia.org/wiki/MADBEAVERS "wikilink")                                                                     | 1998、2005 - 現在         |
 | [RIDER CHIPS](../Page/RIDER_CHIPS.md "wikilink")                                                                                      | 2000 - 現在              |
 | [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")と[橘高文彦](../Page/橘高文彦.md "wikilink")                                            | 2006                   |
 | Nozomu Wakai’s Destinia                                                                                                               | 2014 - 2016            |

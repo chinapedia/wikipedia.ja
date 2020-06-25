@@ -177,7 +177,7 @@ SPバトル
       - [リクーム](https://ja.wikipedia.org/wiki/ギニュー特戦隊#リクーム "wikilink")
     <!-- end list -->
       -
-        チェーンヒット技（リクームデスドライバー〈SS版〉orリクームイレイザーガン〈SS版〉）
+        チェーンヒット技（リクームデスドライバー〈PS版〉orリクームイレイザーガン〈SS版〉）
     <!-- end list -->
       - [バータ](https://ja.wikipedia.org/wiki/ギニュー特戦隊#バータ "wikilink")
     <!-- end list -->

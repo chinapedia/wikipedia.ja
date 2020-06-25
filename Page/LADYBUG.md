@@ -3,7 +3,7 @@
 
 **LADYBUG**（レディーバグ）は、東京で結成された4ピースバンド。現在は活動を休止中。
 
-[2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")にシングル「FLASH」でメジャーデビュー。所属レーベルは[VAP](../Page/バップ.md "wikilink")。シングル「オレンジ」が、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の12月推薦曲に決定し、北海道区に名をとどろかせた。
+[2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")にシングル「FLASH」でメジャーデビュー。所属レーベルは[VAP](../Page/バップ.md "wikilink")。シングル「オレンジ」が、[STVラジオ](../Page/STVラジオ.md "wikilink")の12月推薦曲に決定し、北海道区に名をとどろかせた。
 
 ## メンバー
 
@@ -64,7 +64,7 @@
 ## 関連項目
 
   - [横浜エフエム放送](../Page/横浜エフエム放送.md "wikilink")
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")
   - [アタヤンPUSH\!](../Page/アタヤンPUSH!.md "wikilink")
 
 ## 外部リンク

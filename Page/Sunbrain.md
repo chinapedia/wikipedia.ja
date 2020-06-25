@@ -14,7 +14,7 @@
             [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink") 「style」 作曲
             [中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink") 「MY MEDICINE」「ISOLATION」 作曲
             [BILLY’S BOOTCAMP](https://ja.wikipedia.org/wiki/BILLY’S_BOOTCAMP "wikilink") 「BOOM BOOM WONDERLAND」 作曲
-            [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") 「Love loser」 作曲
+            [SMAP](../Page/SMAP.md "wikilink") 「Love loser」 作曲
             [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink") 「Baby I Luv you」 作曲
 
 <!-- end list -->

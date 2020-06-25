@@ -5,8 +5,6 @@
 
 ## 内容
 
-当初は限定盤としての発売予定だったが、発売直前に一般発売となった。
-
 ジャケットの写真は両面ともモノクロで、表が、ボーカルの[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")の顔のアップ写真、裏がギターの[松本孝弘](../Page/松本孝弘.md "wikilink")のアップ写真となっている\[1\]。なお、松本の写真は4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink")』から流用している。
 
 本作では新曲がなく、過去に発表した曲の全英詞によるアレンジバージョンが収録されており、収録曲は曲間を無くして繋がっているようにしている\[2\]\[3\]。
@@ -28,7 +26,6 @@
       -
         5thシングル「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」の全英詞アレンジ違い。
         アレンジは原曲とあまり変わらないが、イントロや間奏、コーラスが追加されているほか、[ギター](../Page/ギター.md "wikilink")[リフ](../Page/リフ.md "wikilink")が目立つようになり、[サンプリング](../Page/サンプリング.md "wikilink")が多用されている。
-        1991年に行われたツアー『[B'z LIVE-GYM Pleasure '91](../Page/JUST_ANOTHER_LIFE.md "wikilink")』では原曲通り日本語で歌われたが、演奏に関しては本作でのアレンジが取り入れられた。
 3.  **Bad Communication E.Style**(7:20)
       -
         1stミニ・アルバム『[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")』の表題曲の全英詞バージョン。

@@ -93,7 +93,7 @@ kukuiという名前は、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "w
 <td><p>ローゼンメイデン トロイメント Character Drama Vol.6 雛苺</p></td>
 <td><p><strong>kukui</strong></p></td>
 <td><p>「近くて遠いゆめ（Drama Version）」</p></td>
-<td><p>| テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ローゼンメイデン_トロイメント" title="wikilink">ローゼンメイデン トロイメント</a>』イメージソング</p></td>
+<td><p>| テレビアニメ『ローゼンメイデン トロイメント』イメージソング</p></td>
 <td><p>作詞：霜月はるか / 作曲・編曲：myu</p></td>
 </tr>
 <tr class="odd">
@@ -180,7 +180,7 @@ kukuiという名前は、[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "w
 | 楽曲              | タイアップ                                                                                                          | 時期    |
 | --------------- | -------------------------------------------------------------------------------------------------------------- | ----- |
 | 透明シェルター         | テレビアニメ『[ローゼンメイデン](https://ja.wikipedia.org/wiki/ローゼンメイデン "wikilink")』エンディングテーマ                                 | 2004年 |
-| 光の螺旋律           | テレビアニメ『ローゼンメイデン トロイメント』エンディングテーマ                                                                               | 2005年 |
+| 光の螺旋律           | テレビアニメ『[ローゼンメイデン トロイメント](https://ja.wikipedia.org/wiki/ローゼンメイデン_トロイメント "wikilink")』エンディングテーマ                   | 2005年 |
 | Little Primrose | テレビアニメ『[鍵姫物語 永久アリス輪舞曲](../Page/鍵姫物語_永久アリス輪舞曲.md "wikilink")』オープニングテーマ                                          | 2006年 |
 | Starry Waltz    | テレビアニメ『[西の善き魔女 Astraea Testament](https://ja.wikipedia.org/wiki/西の善き魔女_Astraea_Testament "wikilink")』オープニングテーマ |       |
 | 空蝉ノ影            | テレビアニメ『[ローゼンメイデン オーベルテューレ](https://ja.wikipedia.org/wiki/ローゼンメイデン_オーベルテューレ "wikilink")』エンディングテーマ               |       |

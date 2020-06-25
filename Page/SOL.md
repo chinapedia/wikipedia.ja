@@ -19,7 +19,7 @@
 
 ## 頭文字語
 
-  - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") - [TOKYO FMで放送されている](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") - [TOKYO FMで放送されている](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
   - [right](https://ja.wikipedia.org/wiki/ファイル:Star_of_life2.svg "wikilink") [スター・オブ・ライフ](../Page/スター・オブ・ライフ.md "wikilink") (star of life) - 右図のようなシンボル。
   - [生の尊厳](https://ja.wikipedia.org/wiki/生の尊厳 "wikilink") () - 対義語はQOL:quality of life（[生の質](../Page/クオリティ・オブ・ライフ.md "wikilink")）」。
   - [三國志Online](../Page/三國志Online.md "wikilink") () - [コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が2008年に発売した[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")。

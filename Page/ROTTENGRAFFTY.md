@@ -13,13 +13,13 @@
 <!-- end list -->
 
   -
-    メイクをするのは[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド出身からだと言われている\[2\]\[3\]。過去にEDE:EE(1994-1995)というバンドに**NOV**名義で所属していてベース担当だった。\[4\]\[5\]。京都MUSEで[La'cryma Chistiとの共演もあり](../Page/La'cryma_Christi.md "wikilink")。
+    メイクをするのは[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド出身からだと言われている\[2\]\[3\]。過去にEDE:EE(1994-1995)というバンドのローディーだった\[4\]\[5\]。
+    京都MUSEで[La'cryma Chistiとの共演もあり](../Page/La'cryma_Christi.md "wikilink")。
     また、カラオケで泥酔し[DIR EN GREY本人にこんなに大好きなのに分かっていないと号泣した](../Page/DIR_EN_GREY.md "wikilink")。
 
 <!-- end list -->
 
   - 「悪巧み～Merry Christmas Mr.Lawrence」は、バイク事故で入院していた際に、大ファンであった[坂本龍一](../Page/坂本龍一.md "wikilink")の「戦場のメリークリスマス」を聞き直し、「悪巧み」という曲のアレンジとして加えたところ完成したと公言している。勿論、坂本本人公認である\[6\]。
-  - ドラムのHIROSHIとは同じバンドを組んでいた。
 
 **N∀OKI（ナオキ、 - ）**[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ハープ担当](../Page/ハーモニカ.md "wikilink")。本名は牧沢直樹（まきざわなおき）。[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")出身
 
@@ -53,7 +53,7 @@
   - 2010年頃まではアシンメトリーの髪型だった。
   - [ガンダム好きで](../Page/機動戦士ガンダム.md "wikilink")、仲の良いバンドからは「Mr.ガンダム」と言われるほど。アンプの上にはガンダムのヘッドフィギアがあった。
   - アニメ好きでFLOWとの対バンを楽しみにしていた時期があった。
-  - ヴィジュアル系バンド出身\[8\]。尊敬するバンドとして[LUNA SEAを公言している](../Page/LUNA_SEA.md "wikilink")。
+  - ヴィジュアル系バンド出身\[8\]。ドラムのHIROSHIとは同じバンドを組んでいた。尊敬するバンドとして[LUNA SEAを公言している](../Page/LUNA_SEA.md "wikilink")。
 
 **HIROSHI（ヒロシ、 - ）**[ドラム担当](../Page/ドラムセット.md "wikilink")。本名は中間弘士（なかまひろし）。通称「[マイケルBOY](https://www.youtube.com/watch?v=msgKG2rdnHU)」
 
@@ -63,7 +63,7 @@
       - FAMILIARIZEツアーで見せた「[甲甲DANCE](https://www.youtube.com/watch?v=RnLwtDhN6kg)」などが有名。
       - また、[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")のドラム・ナヲからは「山崎邦正的ポジション」とも言われるほど。
   - 一度、脱退を決意するが最後のツアーが楽しすぎて撤回した。\[9\]というエピソードがある。
-  - ヴィジュアル系バンド出身\[10\]。
+  - ヴィジュアル系バンド出身\[10\]。ベースの侑威地とバンドを組んでいた。
   - 尊敬するバンドとして[ユニコーンなどがあげられる](../Page/UNICORN.md "wikilink")。
 
 ## 概要

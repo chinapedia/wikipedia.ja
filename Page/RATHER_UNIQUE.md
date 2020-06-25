@@ -11,7 +11,7 @@
 
 2004年5月12日、インディーズレーベルよりシングル「ARather Train」を発売。同年12月29日、シングル「Winter Bell」でメジャーデビュー。
 
-2006年9月、活動休止を発表。
+2006年9月、活動終了を発表。メンバーが兼任しているグループである[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")が、第二章として活動を仕切り直すタイミングであった\[3\]。
 
 ## メンバー
 
@@ -68,9 +68,10 @@
 
 ## 外部リンク
 
-  - [RATHER UNIQUE :: rhythmzone.net](http://www.rhythmzone.net/ru/index.html)
+  - [RATHER UNIQUE :: rhythmzone.net](https://www.rhythmzone.net/ru/index.html)
 
 [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2006年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2006年に解散した音楽グループ "wikilink")
 
 1.
 2.
+3.

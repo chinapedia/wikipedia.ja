@@ -17,7 +17,7 @@
   - 紅組トップバッターを務めた[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")の曲紹介の際、紅組歌手が手話にて曲紹介をし、酒井は手話を交えて歌唱した。これは歌唱した「[碧いうさぎ](https://ja.wikipedia.org/wiki/碧いうさぎ "wikilink")」が、[日本テレビ系で放送され](../Page/日本テレビ放送網.md "wikilink")、酒井が主演した耳と口が不自由な主人公のドラマ『[星の金貨](../Page/星の金貨.md "wikilink")』の主題歌に採用されたためであった。
   - [岡本真夜](../Page/岡本真夜.md "wikilink")はこの年のデビュー当初はテレビやラジオ等のメディア露出やライブを一切しなかったが、本紅白でメディア初出演となった。
   - [TOKIO](../Page/TOKIO.md "wikilink")のバックダンサーに[V6が参加した](../Page/V6_\(グループ\).md "wikilink")。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")は、翌[1996年](../Page/1996年.md "wikilink")5月にメンバーの[森且行](../Page/森且行.md "wikilink")が脱退したため、6人では最後の出場となった（また、第1部での登場も今回が最後）。
+  - [SMAP](../Page/SMAP.md "wikilink")は、翌[1996年](../Page/1996年.md "wikilink")5月にメンバーの[森且行](../Page/森且行.md "wikilink")が脱退したため、6人では最後の出場となった（また、第1部での登場も今回が最後）。
   - [浜田雅功](../Page/浜田雅功.md "wikilink")（[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")）と[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")によるユニット・[H Jungle with tの演奏中に](../Page/H_Jungle_with_t.md "wikilink")、浜田の相方・[松本人志](../Page/松本人志.md "wikilink")がゲイシャ・ガールズの扮装で登場。歌っている浜田にかつらや着物を被せたりした。浜田は初出場決定時の会見で松本の応援ゲスト出演はないと語っていたが、[スポーツ紙報道で登場の可能性が取り沙汰された](../Page/スポーツ新聞.md "wikilink")（松本自身は[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』内で「何で浜田の応援に行かないといけないのか\!?」と述べていた）。なお、ダウンタウンはここ2年間紅白の[裏番組](../Page/裏番組.md "wikilink")『[ダウンタウンの裏番組をブッ飛ばせ\!\!](../Page/ダウンタウンの裏番組をブッ飛ばせ!!.md "wikilink")』（日本テレビ系列）の司会を務めていたが、浜田が本紅白に出場したことからそちらの司会を外れる格好となった（同番組は『裏番組をブッ飛ばせ\!\!'95大晦日スペシャル』と改題・司会交代で放送された）。歌唱後、ダウンタウンの2人は上沼・古舘・小室とトークを行い、浜田の「お前何してんねん\!」というツッコミに対し松本は「（裏番組の）『野球拳』行かんとあかんから、呼びに来たんや」と返し、最後には「はい、コマーシャル」とボケた\[7\]。
   - この年「上沼とつんく（後の[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")。[シャ乱Q](../Page/シャ乱Q.md "wikilink")）が似ている」として話題になった。本紅白では[小林幸子](../Page/小林幸子.md "wikilink")の曲紹介前にツーショットで登場。2人の初共演が実現した。
   - 古舘は[鳥羽一郎](../Page/鳥羽一郎.md "wikilink")を「歌う魚群探知機、鳥羽一郎」と紹介した\[8\]。
@@ -143,8 +143,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink") [Category:1995年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1995年の日本の音楽 "wikilink") [Category:1995年12月](https://ja.wikipedia.org/wiki/Category:1995年12月 "wikilink")
 
@@ -152,7 +152,7 @@
 2.  [1](http://www.daily.co.jp/newsflash/gossip/2015/10/03/0008453177.shtml),[デイリースポーツ](../Page/デイリースポーツ.md "wikilink"),2015年10月3日
 3.  この以前では、[第38回](../Page/第38回NHK紅白歌合戦.md "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）で白組司会の候補に挙がったことがあるとされる。
 4.  <http://ichimon.main.jp/no37/37miyamoto.html> 紅組司会・短期養成講座 宮本隆治
-5.  同回の両組司会は[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")・[中居正広](../Page/中居正広.md "wikilink")（当時[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）。
+5.  同回の両組司会は[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")・[中居正広](../Page/中居正広.md "wikilink")（当時[SMAP](../Page/SMAP.md "wikilink")）。
 6.  [【前川清】歌でつながった“復興の輪”…時代と共に生きる](http://www.zakzak.co.jp/people/news/20110818/peo1108180953000-n1.htm),[ZAKZAK](../Page/夕刊フジ.md "wikilink"),2011年8月18日
 7.  合田『紅白歌合戦の舞台裏』
 8.  [秋元康に聞く“作詞の秘訣”“テレビの今”](http://www.tv-asahi.co.jp/hst/info/index_150414.html)

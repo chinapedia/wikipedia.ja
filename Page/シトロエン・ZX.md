@@ -13,7 +13,7 @@
 
 [サスペンション](../Page/サスペンション.md "wikilink")は、前輪が[マクファーソンストラットで](../Page/ストラット式サスペンション.md "wikilink")、後輪が[トーションビーム](../Page/トーションビーム式サスペンション.md "wikilink")。GSの後継車種でありながら[ハイドロニューマチックの採用はなく](../Page/ハイドロニューマチック・サスペンション.md "wikilink")、一般的な金属ばねが使われている。しかし旋回時の[横Gとストローク](../Page/重力.md "wikilink")（足の伸び縮み）でブッシュを変形させ、後輪が前輪と同位相に操舵する、セルフステアリング・リアアクスルと呼ばれる簡易的な[四輪操舵](../Page/四輪操舵.md "wikilink")機構が新しく採用されている。
 
-1995年に[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")周辺の形状が変わるなど小規模な変更を加えながら、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")発表の[クサラにその地位を譲るまで生産された](https://ja.wikipedia.org/wiki/シトロエン・クサラ "wikilink")。
+1995年に[フロントグリル](../Page/フロントグリル.md "wikilink")周辺の形状が変わるなど小規模な変更を加えながら、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")発表の[クサラにその地位を譲るまで生産された](https://ja.wikipedia.org/wiki/シトロエン・クサラ "wikilink")。
 
 ファイル:Citroen ZX Aura Turbo D Heck.JPG|ブレーク ファイル:Citroen Elysee.jpg|エリゼー
 

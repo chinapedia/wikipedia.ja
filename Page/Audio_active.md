@@ -1,11 +1,11 @@
 > この記事は[Audio active](https://ja.wikipedia.org/wiki/Audio_active)から翻訳されています。
 
 
-**audio active**（オーディオ・アクティブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダブ](../Page/ダブ.md "wikilink")[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**audio active**（オーディオ・アクティブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダブ](../Page/ダブ.md "wikilink")・[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 概要
 
-ダブを根底に置きながら、レゲエ/[ニュー・ウェイヴ](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")/[ドラムンベース](../Page/ドラムンベース.md "wikilink")/[ファンク](../Page/ファンク.md "wikilink")の要素を取り入れたサウンドは、日本国外での評価も高い。かねてからバンドの生音とデジタル・サウンドの融合を図り、後進のバンド、DJ、サウンド・クリエーターたちにも影響を与えた。イギリス最大の[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")、[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")、欧州最大のロック・フェス、ロスギルダー、日本のレインボー2000、[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")などのフェスにも多数出演。
+ダブを根底に置きながら、レゲエ/[ニュー・ウェイヴ](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")/[ドラムンベース](../Page/ドラムンベース.md "wikilink")/[ファンク](../Page/ファンク.md "wikilink")の要素を取り入れたサウンドは、日本国外での評価も高い。かねてからバンドの生音とデジタル・サウンドの融合を図り、後進のバンド、DJ、サウンド・クリエーターたちにも影響を与えた。イギリス最大の[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")、[グラストンベリー・フェスティバル](../Page/グラストンベリー・フェスティバル.md "wikilink")、欧州最大のロック・フェス、ロスギルダー、日本のレインボー2000、[フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")などのフェスにも多数出演。
 
 バンド名はUKレゲエのパイオニア[デニス・ボーヴェル](https://ja.wikipedia.org/wiki/デニス・ボーヴェル "wikilink")&ザ・ダブ・バンドの1986年発表のアルバム『AUDIO ACTIVE』に由来している。
 
@@ -90,49 +90,49 @@
 
 ## ディスコグラフィ
 
-### シングル
-
-1.  Wanna-Na（1994年）12inch
-2.  Free The Marijuana（1994年）12inch／CD（1995年）
-3.  More Tokyo Space Cowboys（1994年）CD
-4.  Happy Shopper（1995年）12inch
-5.  Electric Bombardment（1995年）12inch
-6.  The Way In / The Way Out（1995年）12inch　Laraajiとのコラボーレション盤
-7.  24 Hours Exploration（1995年）CD
-8.  Happy Shopper in Europe（1995年11月1日）CD／12inch
-9.  Start Rec（1996年6月、2002年12月にデッドストックが再リリース）CD／12inch
-10. Bag Filled With Emptiness（1999年10月27日）CD／12inch
-11. Happers EP（2000年）12inch　Boss the MCをフィーチャリング
-12. YOU'RE NO GOOD（2001年1月24日）CD
-13. FRF EP（2003年）CD（8cm）フジロック限定EP
-14. Stoned EP（2003年）12inch
-15. FROZEN HEAD（2003年）7inch
-16. 2007 88（2007年）iTunesStore 配信限定リミックスEP
-
 ### アルバム
 
-1.  AUDIO ACTIVE（1993年11月21日）アルファレコードSPINレーベル（廃盤）
-2.  Happy Happer（1995年）ON.U sound／BEAT RECORDS
-3.  Apollo Choco（1996年8月19日）ON.U sound／BEAT RECORDS
-4.  Return Of The Red I（1999年3月25日）WARNER MUSIC／DREAM MACHINE
-5.  Spaced Dolls（2000年9月27日）WARNER MUSIC／DREAM MACHINE
-6.  Back To The Stoned Age（2003年10月4日）BEAT RECORDS
+  - AUDIO ACTIVE（1993年11月21日）アルファレコードSPINレーベル
+  - Happy Happer（1995年）ON.U sound／BEAT RECORDS
+  - Apollo Choco（1996年8月19日）ON.U sound／BEAT RECORDS
+  - Return Of The Red I（1999年3月25日）WARNER MUSIC／DREAM MACHINE
+  - Spaced Dolls（2000年9月27日）WARNER MUSIC／DREAM MACHINE
+  - Back To The Stoned Age（2003年10月4日）BEAT RECORDS
 
 ### ミニアルバム
 
-1.  We Are Experienced（1994年）BEAT RECORDS／Massive Recording Co（廃盤）
-2.  MELT 1（2002年9月3日）BEAT RECORDS
-3.  MELT 2（2004年10月4日）BEAT RECORDS
+  - We Are Experienced（1994年）BEAT RECORDS／Massive Recording Co
+  - MELT 1（2002年9月3日）BEAT RECORDS
+  - MELT 2（2004年10月4日）BEAT RECORDS
 
 ### その他アルバム
 
-1.  We Are Audio Active（1994年、2003年12月6日に再編集されBEAT RECORDSより再発）ON.U sound　1stアルバム海外盤
-2.  The Way Out Is the Way In（1995年11月14日）All Saints／BEAT RECORDS　Laraajiとのコラボ盤
-3.  Apollo Choco Remixed　ON.U sound　リミックスアルバム
-4.  IT’S A STONY（1998年5月25日）BEAT RECORDS（廃盤）外部アーティストのオーディオ・アクティブによるRemixなど
-5.  ALTERED I（1999年7月14日）WARNER MUSIC／DREAM MACHINE　リミックスアルバム
-6.  Bong（2000年3月21日）CD　WARNER MUSIC／Birdman Records　リミックスアルバム　ALTERED Iの海外盤
-7.  Audio Active Sound Crash　mixed by [エイドリアン・シャーウッド](../Page/エイドリアン・シャーウッド.md "wikilink")（2006年4月22日）BEAT RECORDS　ミックスCD
+  - We Are Audio Active（1994年、2003年12月6日に再編集されBEAT RECORDSより再発）ON.U sound ※1stアルバム海外盤
+  - The Way Out Is the Way In（1995年11月14日）All Saints／BEAT RECORDS ※[ララージ](https://ja.wikipedia.org/wiki/ララージ "wikilink")とのコラボ盤
+  - Apollo Choco Remixed　ON.U sound ※リミックスアルバム
+  - IT’S A STONY（1998年5月25日）BEAT RECORDS ※外部アーティストのオーディオ・アクティブによるRemixなど
+  - ALTERED I（1999年7月14日）WARNER MUSIC／DREAM MACHINE ※リミックスアルバム
+  - Bong（2000年3月21日）CD　WARNER MUSIC／Birdman Records ※リミックスアルバム　ALTERED Iの海外盤
+  - Audio Active Sound Crash　mixed by [エイドリアン・シャーウッド](../Page/エイドリアン・シャーウッド.md "wikilink")（2006年4月22日）BEAT RECORDS ※ミックスCD
+
+### シングル
+
+  - Wanna-Na（1994年）12inch
+  - Free The Marijuana（1994年）12inch／CD（1995年）
+  - More Tokyo Space Cowboys（1994年）CD
+  - Happy Shopper（1995年）12inch
+  - Electric Bombardment（1995年）12inch
+  - The Way In / The Way Out（1995年）12inch ※ララージとのコラボーレション盤
+  - 24 Hours Exploration（1995年）CD
+  - Happy Shopper in Europe（1995年11月1日）CD／12inch
+  - Start Rec（1996年6月、2002年12月にデッドストックが再リリース）CD／12inch
+  - Bag Filled With Emptiness（1999年10月27日）CD／12inch
+  - Happers EP（2000年）12inch　Boss the MCをフィーチャリング
+  - YOU'RE NO GOOD（2001年1月24日）CD
+  - FRF EP（2003年）CD（8cm）フジロック限定EP
+  - Stoned EP（2003年）12inch
+  - FROZEN HEAD（2003年）7inch
+  - 2007 88（2007年）iTunesStore 配信限定リミックスEP
 
 ### その他
 

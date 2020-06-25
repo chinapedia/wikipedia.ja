@@ -44,15 +44,17 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
   - 2006年7月25日 Metasequoia Ver2.4.0
   - 2012年4月29日 Metasequoia Ver3.0.0
   - 2012年10月25日 Metasequoia Ver3.1.0
-  - 2013年9月30日 Metasequoia 4 \[13\]
-  - 2014年1月24日 Metasequoia 4.1.0 \[14\]
-  - 2014年1月29日 Metasequoia 3.1.6(バージョン3系最後のリリース) \[15\]
-  - 2014年6月4日 Metasequoia 4.2.0 \[16\]
-  - 2014年9月30日 Metasequoia 4.3.0 \[17\]
-  - 2015年2月13日 Metasequoia 4.4.0 \[18\]
-  - 2015年7月8日 Metasequoia 4.5.0 \[19\]
-  - 2016年3月28日 Metasequoia 4.5.5(macOS版の初リリース) \[20\]
-  - 2017年08月21日 Metasequoia 4.6.0 \[21\]
+  - 2013年9月30日 Metasequoia 4\[13\]
+  - 2014年1月24日 Metasequoia 4.1.0\[14\]
+  - 2014年1月29日 Metasequoia 3.1.6(バージョン3系最後のリリース)\[15\]
+  - 2014年6月4日 Metasequoia 4.2.0\[16\]
+  - 2014年9月30日 Metasequoia 4.3.0\[17\]
+  - 2015年2月13日 Metasequoia 4.4.0\[18\]
+  - 2015年7月8日 Metasequoia 4.5.0\[19\]
+  - 2016年3月28日 Metasequoia 4.5.5(macOS版の初リリース)\[20\]
+  - 2017年08月21日 Metasequoia 4.6.0\[21\]
+  - 2019年04月24日 Metasequoia 4.7.0\[22\]
+  - 2020年05月18日 Metasequoia 4.7.4b\[23\]
 
 ## モデルコンテスト
 
@@ -80,15 +82,17 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 
   - [Parthenon Renderer](https://ja.wikipedia.org/wiki/Parthenon_Renderer "wikilink") [1](http://www.bee-www.com/parthenon/)
 
-  - [Warabi MP](https://ja.wikipedia.org/wiki/Warabi "wikilink")\[22\]
+  - [Warabi MP](https://ja.wikipedia.org/wiki/Warabi "wikilink")\[24\]
 
-  - [POV-Ray](../Page/POV-Ray.md "wikilink")\[23\] - 関連ソフトウェアのMetaMegaを通して使用可能
+  - [POV-Ray](../Page/POV-Ray.md "wikilink")\[25\] - 関連ソフトウェアのMetaMegaを通して使用可能
 
   - \- 関連ソフトウェアのMetaSceneを通して使用可能
 
   - Lightflow - 関連ソフトウェアのMetalight2やMATSpiderを通して使用可能
 
-  - [Redqueen](https://ja.wikipedia.org/wiki/Redqueen "wikilink")\[24\]\[25\]\[26\] - プラグインのrrtdlgMQを通して使用可能
+  - [Redqueen](https://ja.wikipedia.org/wiki/Redqueen "wikilink")\[26\]
+
+\[27\] \[28\] - プラグインのrrtdlgMQを通して使用可能
 
 ### モーション / アニメーション
 
@@ -105,7 +109,7 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 
 <!-- end list -->
 
-  - [Mikoto](https://ja.wikipedia.org/wiki/Mikoto "wikilink")\[27\]
+  - [Mikoto](https://ja.wikipedia.org/wiki/Mikoto "wikilink")\[29\]
   - エルフレイナ [4](http://sorceryforce.com/elfreina/)
   - [MechaStudio](https://ja.wikipedia.org/wiki/MechaStudio "wikilink")/ToyStudio
 
@@ -151,30 +155,32 @@ Metasequoiaは長らくボーンやモーフなどのキャラクターアニメ
 
 [Category:3DCGソフトウェア](https://ja.wikipedia.org/wiki/Category:3DCGソフトウェア "wikilink") [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink")
 
-1.  [会社概要](http://www.tetraface.co.jp/jp/about.html)　tetraface　2014年11月28日確認
+1.
 2.
 3.
-4.  [採用情報](http://ash.jp/job/)　ASH有限会社　2014年11月28日観覧
+4.
 5.  [ゲームエフェクトデザイナー（アートディレクター候補）](http://jobinjapan.jp/job-listing/J24352.html)　JOBinJAPAN　2014年11月28日観覧
-6.  [バージョンアップ履歴](http://www.metaseq.net/jp/release_note.html)
+6.
 7.  [Metasequoia 4.5の新機能：RenderMan連携機能のチュートリアル | metaseq.net](http://www.metaseq.net/jp/archives/280/)
 8.  [metaseq.net blog: Metasequoia 4.3の新機能(1) ボーン](http://blog.metaseq.net/2014/10/metasequoia-431.html)
 9.  [Metasequoia 4.5の新機能：モーフ機能のチュートリアル | metaseq.net](http://www.metaseq.net/jp/archives/278/)
 10. [C++Builder 2009](http://metaseq.sblo.jp/article/18463741.html)　metaseq.net blog（旧公式ブログ）　2008年08月27日
 11. [C++BuilderXEへ移行中](http://metaseq.sblo.jp/article/45935261.html)　metaseq.net blog（旧公式ブログ）　2011年06月12日
-12. [変形オブジェクトも楽々の国産3D CGモデリングソフト「Metasequoia」v1.0](http://www.forest.impress.co.jp/article/1999/05/13/metasequoia.html) 窓の杜 1999年5月13日
-13. [Metasequoia 4を販売開始しました | metaseq.net](http://blog.metaseq.net/2013/09/metasequoia-4_30.html)
-14. [Metasequoia Ver4.1.0 リリース | metaseq.net](http://blog.metaseq.net/2014/01/metasequoia-41-ver410.html)
-15. [Metasequoia Ver3.1.6 リリース | metaseq.net](http://blog.metaseq.net/2014/01/metasequoia-ver316.html)
-16. [Metasequoia 4.2 (Ver4.2.0) リリース | metaseq.net](http://blog.metaseq.net/2014/06/metasequoia-42-ver420.html)
-17. [Metasequoia 4.3 (Ver4.3.0) リリース | metaseq.net](http://blog.metaseq.net/2014/09/metasequoia-43-ver430.html)
-18. [Metasequoia 4.4 (Ver4.4.0) リリース | metaseq.net](http://blog.metaseq.net/2015/02/metasequoia-44-ver440.html)
-19. [Metasequoia 4.5（Ver4.5.0）リリース | metaseq.net](http://www.metaseq.net/jp/archives/223/)
-20. [Metasequoia 4.5（Ver4.5.5）for Windows・macOS/OS Xリリース | metaseq.net](http://www.metaseq.net/jp/archives/478/)
-21. [Metasequoia 4.6（Ver4.6.0） for Windows・macOS/OS Xリリース | metaseq.net](http://www.metaseq.net/jp/archives/944/)
-22. 『3D Character Animation Manual ローポリアニメーションのすべて』 K.KINO 2009年5月29日 ISBN 978-4797352283
-23. 『メタセコイアとPOV-Rayで始める3D CG』 古俣信行 1999年12月 ISBN 978-4871937207
-24. 『メタセコイアマスターガイド―Metasequoiaからつくる3DCG』 田崎進一 2004年5月15日 ISBN 978-4861000072
-25. 『Metasequoia―3D CG メタセコイア入門』 横枕雄一郎、伊藤真健、むつきはつか 2004年7月 ISBN 978-4274065729
-26. 『新 メタセコイアからはじめよう\! 』 原田大輔 2009年10月1日 ISBN 978-4774139982
-27. 『Metasequoiaスーパーモデリングガイド』 P.212 かこみき 2007年9月10日 ISBN 978-4861004032
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.

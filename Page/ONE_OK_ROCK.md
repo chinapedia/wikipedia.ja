@@ -94,7 +94,7 @@
 ### 旧メンバー
 
   - **[You](../Page/小柳友.md "wikilink")**（ユウ）（2006年7月1日脱退） - [Drums](../Page/ドラマー.md "wikilink")。現在は本名の[小柳友](../Page/小柳友.md "wikilink")名義で俳優として活動。著名な家族 として[Bro.TOM](../Page/Bro.TOM.md "wikilink")（ブラザー・トム)（父）、[小柳心](https://ja.wikipedia.org/wiki/小柳心 "wikilink")（兄）がいる。バンド名の名付け親である。
-  - **[Alex](../Page/ALEX_\(ファッションモデル\).md "wikilink")**（アレク）（2009年5月13日脱退） - [Guitar](../Page/ギタリスト.md "wikilink")。現在はファッションモデルとして活動。主にリードギターを担当していた。
+  - **[Alex](../Page/ALEX_\(ファッションモデル\).md "wikilink")**（アレク）（2009年5月13日脱退） - [Guitar](../Page/ギタリスト.md "wikilink")。ファッションモデルとしても活動していた。主にリードギターを担当。現在はカメラマン。
 
 ## 来歴
 

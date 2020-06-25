@@ -82,7 +82,7 @@
   - [64大相撲](../Page/64大相撲.md "wikilink")
   - [怪盗ルソー](../Page/怪盗ルソー.md "wikilink")
   - [無双神機ライガスト](https://ja.wikipedia.org/wiki/無双神機ライガスト "wikilink")
-  - [魔獣水滸伝Kizna](https://ja.wikipedia.org/wiki/魔獣水滸伝Kizna "wikilink")
+  - [魔獣水滸伝KIZNA(キズナ)](https://ja.wikipedia.org/wiki/魔獣水滸伝Kizna "wikilink")
   - [魍魎戦記MADARA摩陀羅弐](../Page/魍魎戦記MADARA摩陀羅弐.md "wikilink")
   - [バカっち\!](https://ja.wikipedia.org/wiki/バカっち! "wikilink")
   - [聖痕のジョカ](https://ja.wikipedia.org/wiki/聖痕のジョカ "wikilink")

@@ -114,8 +114,7 @@
 
 ## 外部リンク
 
-  - [YouTuber DJ KOO](https://www.youtube.com/channel/UCYDFxWio04dzvmFQE1bm-xw/)
-
+  -
   - [DJ KOO 公式ブログ](https://ameblo.jp/dj-koo-official/)
 
   - [ブログ「MUZIK-CHANNEL」](https://blog.excite.co.jp/MUZIK-CHANNEL/)

@@ -233,7 +233,7 @@
 
 <references />
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1993年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1993年のテレビドラマ "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:NHK沖縄](https://ja.wikipedia.org/wiki/Category:NHK沖縄 "wikilink") [Category:琉球王国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:琉球王国を舞台とした作品 "wikilink") [Category:安土桃山時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台とした作品 "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:陳舜臣](https://ja.wikipedia.org/wiki/Category:陳舜臣 "wikilink") [Category:東山紀之](https://ja.wikipedia.org/wiki/Category:東山紀之 "wikilink") [Category:沢田研二](https://ja.wikipedia.org/wiki/Category:沢田研二 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1993年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1993年のテレビドラマ "wikilink") [Category:NHK沖縄](https://ja.wikipedia.org/wiki/Category:NHK沖縄 "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:琉球王国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:琉球王国を舞台とした作品 "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:陳舜臣](https://ja.wikipedia.org/wiki/Category:陳舜臣 "wikilink") [Category:東山紀之](https://ja.wikipedia.org/wiki/Category:東山紀之 "wikilink") [Category:沢田研二](https://ja.wikipedia.org/wiki/Category:沢田研二 "wikilink")
 
 1.
 2.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

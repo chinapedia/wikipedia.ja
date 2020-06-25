@@ -19,9 +19,10 @@
 
 ## 過去の所属選手
 
-  - [ヴェレニキ・ゴネヴァ](https://ja.wikipedia.org/wiki/ヴェレニキ・ゴネヴァ "wikilink") - ウイング、[フィジー代表](../Page/ラグビーフィジー代表.md "wikilink")
+  - [ヴェレニキ・ゴネヴァ](../Page/ヴェレニキ・ゴネヴァ.md "wikilink") - ウイング、[フィジー代表](../Page/ラグビーフィジー代表.md "wikilink")
   - [トマス・ロハス](../Page/トマス・ロハス_\(ラグビー選手\).md "wikilink") - フルバック、[フランス代表](../Page/ラグビーフランス代表.md "wikilink")
-  - [ギヨーム・ピロン](https://ja.wikipedia.org/wiki/ギヨーム・ピロン "wikilink") - センター、ベルギー代表
+  - [ヘンリー・タエフ](https://ja.wikipedia.org/wiki/ヘンリー・タエフ "wikilink") - センター、[サモア代表](../Page/ラグビーサモア代表.md "wikilink")
+  - [ギヨーム・ピロン](../Page/ギヨーム・ピロン.md "wikilink") - センター、ベルギー代表
 
 ## 外部リンク
 

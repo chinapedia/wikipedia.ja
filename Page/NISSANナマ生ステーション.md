@@ -53,7 +53,7 @@
 
   - 1987年のナイターオフシーズン以降月 - 金の19:30 - 20:00は**[スポーツ&バラエティーワイド](https://ja.wikipedia.org/wiki/スポーツ&バラエティーワイド "wikilink")**扱いの[企画ネット番組](../Page/企画ネット番組.md "wikilink")が2011年度オフまで続いていた。
 
-（加盟局:[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")・[毎日放送ラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")･[KBCラジオ](../Page/KBCラジオ.md "wikilink")の5局）
+（加盟局:[STVラジオ](../Page/STVラジオ.md "wikilink")・[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")・[毎日放送ラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")･[KBCラジオ](../Page/KBCラジオ.md "wikilink")の5局）
 
   - 1990年度オフ以降のナイターオフ平日夜7時台前半枠は[つぼ八](../Page/つぼ八.md "wikilink")（1991年～）をメインとするスポンサー複数社枠（19:10 - 19:30）を中心とした編成枠が長く続いたが、バブル不況による広告出稿を減らす企業が増えたりしたなどで2012年度オフ現在、ノンスポンサーやスポットで穴埋めされる放送局が相次いでいる。
   - 2018年ナイターイン編成に「[アフター6ジャンクション](https://ja.wikipedia.org/wiki/アフター6ジャンクション "wikilink")」（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）が開始されたことと、南海放送の「[痛快\!杉作J太郎のどっきりナイト7](https://ja.wikipedia.org/wiki/痛快!杉作J太郎のどっきりナイト7 "wikilink")」などのワイド番組を組む関係で番組枠を取りやめ、もしくは曜日によって放送しない局が相次いでいる。

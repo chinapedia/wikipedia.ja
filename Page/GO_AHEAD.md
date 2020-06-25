@@ -120,7 +120,7 @@
 
   - [月ジャンネット GO AHEAD](http://mj.shueisha.co.jp/goahead/index.html)（リンク切れ）
 
-[Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:月刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ジャンプの漫画作品 "wikilink") [Category:アイスホッケー漫画](https://ja.wikipedia.org/wiki/Category:アイスホッケー漫画 "wikilink") [Category:宮崎県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:宮崎県を舞台とした作品 "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink")
+[Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:月刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ジャンプの漫画作品 "wikilink") [Category:アイスホッケー漫画](https://ja.wikipedia.org/wiki/Category:アイスホッケー漫画 "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:宮崎県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:宮崎県を舞台とした漫画作品 "wikilink")
 
 1.  単行本第3巻189頁おまけ漫画「ナリミヤ残酷物語第一章」にて、初対面の男子から「外国人」と言われている。明信中との練習試合の応援席にいる父の隣に金髪外国人女性が並んでいる。
 2.  [パピオアイスアリーナ](http://www.papio.jp/arena/index.html)

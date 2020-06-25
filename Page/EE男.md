@@ -1,7 +1,7 @@
 > この記事は[EE男](https://ja.wikipedia.org/wiki/EE男)から翻訳されています。
 
 
-**EE男**（いいおとこ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。2003年結成、2015年よりコンビでの活動休止中。
+**EE男**（いいおとこ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")所属。2003年コンビ結成
 
 ## メンバー
 
@@ -125,6 +125,8 @@
   - [関根麻里のKUSUKUSU](https://ja.wikipedia.org/wiki/関根麻里のKUSUKUSU "wikilink")（[bayfm](../Page/ベイエフエム.md "wikilink")、2010年8月14日・21日）
   - [ハイタッチ\!](https://ja.wikipedia.org/wiki/ハイタッチ!_\(ラジオ番組\) "wikilink")（[RKB毎日放送](../Page/RKBラジオ.md "wikilink")、2012年10月10日 - ）- 毎週水曜日-金曜日22:00-23:50 山口のみ、[森田美位子](https://ja.wikipedia.org/wiki/森田美位子 "wikilink")とともにMCを務める。
   - [たかちゃんの電リクじゃんけん](https://ja.wikipedia.org/wiki/たかちゃんの電リクじゃんけん "wikilink")（RKB毎日放送、2014年4月 - ） - 山口のみ、[山内孝徳](../Page/山内孝徳.md "wikilink")の後任。
+  - 笑売繁盛！ウメ子食堂
+  - 九星隊のナイスタCampus
 
 ## 雑誌
 

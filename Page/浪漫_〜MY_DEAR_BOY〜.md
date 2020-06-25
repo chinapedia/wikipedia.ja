@@ -1,7 +1,7 @@
 > この記事は[浪漫 〜MY DEAR BOY〜](https://ja.wikipedia.org/wiki/浪漫_〜MY_DEAR_BOY〜)から翻訳されています。
 
 
-「**浪漫 〜MY DEAR BOY〜**」（ろまん マイ ディア ボーイ）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。
+「**浪漫 〜MY DEAR BOY〜**」（ろまん マイ ディア ボーイ）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の22枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

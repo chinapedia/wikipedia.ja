@@ -33,7 +33,7 @@ SRAMのロード用コンポーネントが発売されたのは2006年春で、
 
 ## 脚注
 
-[Category:アメリカ合衆国の自転車部品サプライヤー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の自転車部品サプライヤー "wikilink") [Category:自転車部品サプライヤー](https://ja.wikipedia.org/wiki/Category:自転車部品サプライヤー "wikilink")
+[Category:アメリカ合衆国の自転車部品サプライヤー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の自転車部品サプライヤー "wikilink")
 
 1.  [SRAMのFAQ](http://www.sram.com/en/service/sram/faq.php?faqID=d3d9446802a44259755d38e6d163e820) の「『スラム』とはどういう意味ですか？」という問いについて「イニシャルは『商標にできる社名』、『英語以外の他言語にもそのまま使える社名』として簡便なものだから。発音はS-RAM（エスラム）、SchRAM（シュラム）、SkRAM（スクラム）などではなく、Just SRAM（単にスラム）」とメーカー自ら説明している。
 2.

@@ -5,7 +5,7 @@
 
 ## 概要
 
-MOTHERシリーズは、『[MOTHER](../Page/MOTHER_\(ゲーム\).md "wikilink")』、『[MOTHER2 ギーグの逆襲](../Page/MOTHER2_ギーグの逆襲.md "wikilink")』、『[MOTHER3](../Page/MOTHER3.md "wikilink")』（以下『**1**』、『**2**』、『**3**』と表記）の3作と、『1』、『2』の2作をセットにして[移植した](../Page/移植_\(ソフトウェア\).md "wikilink")『[MOTHER1+2](../Page/MOTHER1+2.md "wikilink")』の全4作が[任天堂](../Page/任天堂.md "wikilink")より発売された。
+MOTHERシリーズは、『[MOTHER](../Page/MOTHER_\(ゲーム\).md "wikilink")』、『[MOTHER2 ギーグの逆襲](../Page/MOTHER2_ギーグの逆襲.md "wikilink")』、『[MOTHER3](../Page/MOTHER3.md "wikilink")』（以下『**1**』『**2**』『**3**』と表記）の3作と、『1』『2』の2作をセットにして[移植した](../Page/移植_\(ソフトウェア\).md "wikilink")『[MOTHER1+2](../Page/MOTHER1+2.md "wikilink")』の全4作が[任天堂](../Page/任天堂.md "wikilink")より発売された。
 
 現代風の世界を舞台とした[RPGで](../Page/コンピュータRPG.md "wikilink")、主人公の少年たちが「PSI」と呼ばれる[超能力](../Page/超能力.md "wikilink")を用いて冒険し、地域の危機、さらには世界の危機に立ち向かう姿が描かれる。[バットや](../Page/バット_\(野球\).md "wikilink")[フライパン](../Page/フライパン.md "wikilink")などを武器として使用し、[ハンバーガー](../Page/ハンバーガー.md "wikilink")や[フライドポテト](../Page/フライドポテト.md "wikilink")などで体力を回復するといったように、登場するアイテムも現代風のものとなっている。
 
@@ -211,6 +211,54 @@ HAL研究所<br />
 | nowrap style="text-align:center"|MOTHER3+       | nowrap style="text-align:center"|[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")                      | nowrap style="text-align:center"|-                                                               | 上記『MOTHER3+』の配信版。ボーナストラック1曲を追加収録。全11曲。                                                                                      |
 | nowrap style="text-align:center"|MOTHER3i       | nowrap style="text-align:center"|[2007年](../Page/2007年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")                      | nowrap style="text-align:center"|-                                                               | 配信限定販売。作曲者の[酒井省吾](../Page/酒井省吾.md "wikilink")自身が編曲した『MOTHER3』のアレンジ曲メドレー。全15曲。                                               |
 
+## HOBONICHI MOTHER PROJECT
+
+[2020年](../Page/2020年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")、『ほぼ日刊イトイ新聞』（以下「ほぼ日」）上において、MOTHERシリーズの全ての台詞を収録した書籍を2020年末までに発売予定であることが発表された。これに合わせ、様々なコンテンツやグッズを展開する企画「HOBONICHI MOTHER PROJECT」が行われている\[26\]。
+
+### Pollyanna
+
+総勢35人の漫画家・イラストレーターによる作品を収録したMOTHERシリーズのトリビュートコミック。ほぼ日が運営する「ほぼ日ストア」で2020年[6月12日](../Page/6月12日.md "wikilink")に先行発売が行われ、[6月25日](../Page/6月25日.md "wikilink")より一般販売される\[27\]。
+
+  - 参加作家\[28\]
+
+<!-- end list -->
+
+  - [青木俊直](https://ja.wikipedia.org/wiki/青木俊直 "wikilink")
+  - [浅野いにお](../Page/浅野いにお.md "wikilink")
+  - [阿部共実](https://ja.wikipedia.org/wiki/阿部共実 "wikilink")
+  - [ア・メリカ](https://ja.wikipedia.org/wiki/ア・メリカ "wikilink")
+  - [あらゐけいいち](../Page/あらゐけいいち.md "wikilink")
+  - [石黒正数](../Page/石黒正数.md "wikilink")
+  - [今川伸浩](https://ja.wikipedia.org/wiki/今川伸浩 "wikilink")
+  - [大石浩二](../Page/大石浩二.md "wikilink")
+  - [緒方雄一](https://ja.wikipedia.org/wiki/緒方雄一 "wikilink")
+  - [久木ゆづる](https://ja.wikipedia.org/wiki/久木ゆづる "wikilink")
+  - [こがわみさき](../Page/こがわみさき.md "wikilink")
+  - [坂野杏梨](https://ja.wikipedia.org/wiki/坂野杏梨 "wikilink")
+  - [須藤真澄](../Page/須藤真澄.md "wikilink")
+  - [竹谷州史](https://ja.wikipedia.org/wiki/竹谷州史 "wikilink")
+  - [田辺洋一郎](https://ja.wikipedia.org/wiki/田辺洋一郎 "wikilink")
+  - [トビー・フォックス](https://ja.wikipedia.org/wiki/トビー・フォックス "wikilink")
+  - [とよ田みのる](../Page/とよ田みのる.md "wikilink")
+  - [成家慎一郎](https://ja.wikipedia.org/wiki/成家慎一郎 "wikilink")
+  - [成田芋虫](https://ja.wikipedia.org/wiki/成田芋虫 "wikilink")
+  - [羊の目。](https://ja.wikipedia.org/wiki/羊の目。 "wikilink")
+  - [福地翼](../Page/福地翼.md "wikilink")
+  - [藤沢カミヤ](https://ja.wikipedia.org/wiki/藤沢カミヤ "wikilink")
+  - [ふるえるとり](https://ja.wikipedia.org/wiki/ふるえるとり "wikilink")
+  - [まえだくん](https://ja.wikipedia.org/wiki/まえだくん "wikilink")
+  - [松本大洋](../Page/松本大洋.md "wikilink")
+  - [松本ひで吉](https://ja.wikipedia.org/wiki/松本ひで吉 "wikilink")
+  - [水あさと](https://ja.wikipedia.org/wiki/水あさと "wikilink")
+  - [みずしな孝之](../Page/みずしな孝之.md "wikilink")
+  - [山本さほ](https://ja.wikipedia.org/wiki/山本さほ "wikilink")
+  - [横山了一](https://ja.wikipedia.org/wiki/横山了一 "wikilink")
+  - [ヨシオカサトシ](https://ja.wikipedia.org/wiki/ヨシオカサトシ "wikilink")
+  - [吉田戦車](https://ja.wikipedia.org/wiki/吉田戦車 "wikilink")
+  - [ろびこ](https://ja.wikipedia.org/wiki/ろびこ "wikilink")
+  - [ワキサカ](https://ja.wikipedia.org/wiki/ワキサカ "wikilink")
+  - [和田ラヂヲ](../Page/和田ラヂヲ.md "wikilink")
+
 ## 脚注
 
 ## 外部リンク
@@ -229,6 +277,7 @@ HAL研究所<br />
       - [『MOTHER』の目次。](http://www.1101.com/MOTHER/MOTHER.html)
       - [ようこそ『ＭＯＴＨＥＲ３』の世界へ！](http://www.1101.com/MOTHER3/index.html)
       - [『ＭＯＴＨＥＲ ３』の開発が中止になったことについての糸井重里・岩田聡・宮本茂の座談会](http://www.1101.com/nintendo/nin13/index.htm) （NINTENDO64版が開発中止になった際の鼎談）
+      - [HOBONICHI MOTHER PROJECT](https://www.1101.com/mother_project/)
 
 [Category:MOTHERシリーズ](https://ja.wikipedia.org/wiki/Category:MOTHERシリーズ "wikilink") [Category:コンピュータゲームのシリーズ](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのシリーズ "wikilink")
 
@@ -258,3 +307,6 @@ HAL研究所<br />
 23.
 24.
 25.
+26.
+27.
+28.

@@ -98,7 +98,7 @@ TBFの後継機であった爆撃・雷撃兼用[艦上攻撃機](../Page/艦上
 
 ### 日本での運用
 
-[TBM-3M.jpg](https://ja.wikipedia.org/wiki/File:TBM-3M.jpg "fig:TBM-3M.jpg") [JMSDF_TBM-3W.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_TBM-3W.jpg "fig:JMSDF_TBM-3W.jpg") [1954年](../Page/1954年.md "wikilink")（昭和29年）7月1日に発足した[海上自衛隊](../Page/海上自衛隊.md "wikilink")に対して[MSA協定に基づき米軍から航空機が供与されることとなった](../Page/日本国とアメリカ合衆国との間の相互防衛援助協定.md "wikilink")。同年12月に最初の実用機として索敵型のTBM-3Wが10機供与された。[1955年](../Page/1955年.md "wikilink")（昭和30年）11月には攻撃型のTBM-3Sの供与が始まり[1956年](../Page/1956年.md "wikilink")（昭和31年）2月までに計10機を受領し、10組の対潜チームの編成が可能となった。しかし、機体が鈍重であることと、すでに老朽化していたため、本格的な単機任務完結型の対潜哨戒機が導入されるの間、主に訓練用として運用された。TBM-3Sは[1959年](../Page/1959年.md "wikilink")（昭和34年）6月に、TBM-3Wは[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）8月に全機除籍。 {{-}}
+[TBM-3M.jpg](https://ja.wikipedia.org/wiki/File:TBM-3M.jpg "fig:TBM-3M.jpg") [JMSDF_TBM-3W.jpg](https://ja.wikipedia.org/wiki/File:JMSDF_TBM-3W.jpg "fig:JMSDF_TBM-3W.jpg") [1954年](../Page/1954年.md "wikilink")（昭和29年）7月1日に発足した[海上自衛隊](../Page/海上自衛隊.md "wikilink")に対して[MSA協定に基づき米軍から航空機が供与されることとなった](../Page/日本国とアメリカ合衆国との間の相互防衛援助協定.md "wikilink")。同年12月に最初の実用機として索敵型のTBM-3Wが10機供与された。[1955年](../Page/1955年.md "wikilink")（昭和30年）11月には攻撃型のTBM-3Sの供与が始まり[1956年](../Page/1956年.md "wikilink")（昭和31年）2月までに計10機を受領し、10組の対潜チームの編成が可能となった。しかし、機体が鈍重であることと、すでに老朽化していたため、本格的な単機任務完結型の対潜哨戒機が導入されるまでの間、主に訓練用として運用された。TBM-3Sは[1959年](../Page/1959年.md "wikilink")（昭和34年）6月に、TBM-3Wは[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）8月に全機除籍。{{-}}
 
 ## 民間での運用
 

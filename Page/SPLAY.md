@@ -108,7 +108,7 @@
   - [シンコーミュージック](http://www.shinko-music.co.jp/main/Top.do)
 
   -
-  - [こんにちは。さようなら。SPLAY Official Blog](http://blog.goo.ne.jp/splayofficial/)
+  - [こんにちは。さようなら。SPLAY Official Blog](https://blog.goo.ne.jp/splayofficial)
 
   - [SPLAY OFFICIAL MYSPACE](http://www.myspace.com/splayofficial)
 

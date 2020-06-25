@@ -91,7 +91,7 @@ MAKAIの「LOVE LITE」ツアーファイナル、「LOVE LITE RELEASE TOUR THE 
 
 ### 2011年
 
-[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")、[Berryz工房](../Page/Berryz工房.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")等、アップフロントエージェンシー所属全タレントと「がんばろうニッポン　愛は勝つ」のチャリティCDをリリース。
+[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[モーニング娘。](../Page/モーニング娘。.md "wikilink")、[Berryz工房](../Page/Berryz工房.md "wikilink")、[五木ひろし](../Page/五木ひろし.md "wikilink")等、アップフロントエージェンシー所属全タレントと「がんばろうニッポン　愛は勝つ」のチャリティCDをリリース。
 
 ### 2012年
 

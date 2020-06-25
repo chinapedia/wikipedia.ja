@@ -324,7 +324,7 @@
 （にしがわ・りゅういち）</p></td>
 <td><p>教育・地方自治・社会</p></td>
 <td><p>記者</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Nらじ" title="wikilink">Nらじ</a>※</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/関東ラグビーフットボール協会" title="wikilink">関東ラグビー協会公認B級レフェリーの資格を持つ</a>。</p></td>
 </tr>
 <tr class="odd">

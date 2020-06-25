@@ -17,6 +17,8 @@
 
 [2018年](../Page/2018年.md "wikilink")6月22日に[Psycho le CemuのAYAとseek](../Page/Psycho_le_Cemu.md "wikilink")、元[Hysteric Blueの](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")[楠瀬タクヤにTAMAMIZUを含めた](https://ja.wikipedia.org/wiki/楠瀬拓哉 "wikilink")4人で[MIMIZUQ](https://ja.wikipedia.org/wiki/MIMIZUQ "wikilink")を結成。同年9月8日に初ライブを開催した\[2\]。
 
+[2020年](../Page/2020年.md "wikilink")6月に[MIMIZUQ](https://ja.wikipedia.org/wiki/MIMIZUQ "wikilink")を脱退することを発表。\[3\]
+
 ## ディスコグラフィー
 
 ### シングル
@@ -127,3 +129,4 @@
 
 1.
 2.
+3.

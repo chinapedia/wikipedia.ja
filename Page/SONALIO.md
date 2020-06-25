@@ -301,8 +301,7 @@
 
   - [海保けんたろー主催・ミュージシャン大喜利バトル「KAIGIRI」](http://www.ustream.tv/channel/海保けんたろー主催-ミュージシャン大喜利バトル-kaigiri) - Ustream
 
-  - [F-project Official Home Page](http://music.geocities.jp/fusion_fwy/)
-
+  -
 <!-- end list -->
 
   - 長田

@@ -32,7 +32,7 @@
 <!-- end list -->
 
   - [蘭寿とむ](../Page/蘭寿とむ.md "wikilink") - アルバム「Le Ange（ル アンジュ）」（2015年10月21日）収録\[1\]
-  - [Zero-shaft](https://ja.wikipedia.org/wiki/Zero-shaft "wikilink") - アルバム「dramatic. (ドラマチック)」(2018年6月21日)収録。歌っているのは「ほのか」である。
+  - ほのか（Zero-Shaft） - アルバム「dramatic. (ドラマチック)」（2018年6月21日）収録。
   - [家入レオ](https://ja.wikipedia.org/wiki/家入レオ "wikilink") - EP「Answer」(2020年5月13日)収録。編曲は[冨田恵一](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink")。
 
 ## 関連作品

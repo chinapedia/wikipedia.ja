@@ -64,7 +64,7 @@
 ## スタッフ
 
   - ナレーター：[石橋蓮司](../Page/石橋蓮司.md "wikilink")、[織本順吉](../Page/織本順吉.md "wikilink")、[田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")、[谷育子](../Page/谷育子.md "wikilink")、[武藤礼子](../Page/武藤礼子.md "wikilink")、[森本レオ](../Page/森本レオ.md "wikilink")ほか
-  - 構成：[内海邦一](https://ja.wikipedia.org/wiki/内海邦一 "wikilink")
+  - 構成：[内海邦一](https://ja.wikipedia.org/wiki/日野原幼紀_高橋秀樹 "wikilink")
   - 音楽：[羽仁知治](../Page/羽仁知治.md "wikilink")
   - デザイン：菅沼光児
   - プロデューサー：[吉崎隆](../Page/吉崎隆.md "wikilink")

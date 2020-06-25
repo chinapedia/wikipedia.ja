@@ -3,7 +3,7 @@
 
 『**イブニングKOCHI**』（イブニングこうち）は、[テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）で月曜 - 金曜 18:15 - 18:50に放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。放送開始時の表記は『イブニングKochi』だった。
 
-テレビ高知開局翌年の[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送を開始。[夕](../Page/夕.md "wikilink")方に放送されていたローカルワイドニュースとしては全国で最古の[長寿番組であった](../Page/長寿番組の一覧.md "wikilink")\[1\]\[2\]。[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")系のニュース番組では[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ）の「[テレポート山陰](../Page/テレポート山陰.md "wikilink")」や[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBCテレビ）の「[IBCニュースエコー](../Page/ニュースエコー.md "wikilink")」（共に[1977年](../Page/1977年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")開始）とともに、[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")時代から中断期間もなく、同一タイトルで放送されていた番組であった。
+テレビ高知開局翌年の[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送を開始。[夕](../Page/夕.md "wikilink")方に放送されていたローカルワイドニュースとしては全国で最古の[長寿番組であった](../Page/長寿番組の一覧.md "wikilink")\[1\]\[2\]。[JNN系のニュース番組では](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSSテレビ）の「[テレポート山陰](../Page/テレポート山陰.md "wikilink")」や[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBCテレビ）の「[IBCニュースエコー](../Page/ニュースエコー.md "wikilink")」（共に[1977年](../Page/1977年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")開始）とともに、[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")時代から中断期間もなく、同一タイトルで放送されていた番組であった。
 
 「JNN SPORTS」と題してスポーツをVTRで部分ネット。
 

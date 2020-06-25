@@ -7,7 +7,7 @@
 
 『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』増刊の『スーパージャンプアルファ』を前身として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に創刊（10月号）。一部の連載作品は『スーパージャンプアルファ』より引き継がれていた。創刊当初は[月刊だったが](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、[1996年](../Page/1996年.md "wikilink")9月（10号）以降休刊まで[月2回刊で発行された](https://ja.wikipedia.org/wiki/逐次刊行物#月2回刊 "wikilink")。
 
-[2002年](../Page/2002年.md "wikilink")No.15で休刊。休刊の際に「[監査役野崎修平](../Page/監査役野崎修平.md "wikilink")」「[戦海の剣](../Page/戦海の剣.md "wikilink")」「[P女子寮のネコ](https://ja.wikipedia.org/wiki/P女子寮のネコ "wikilink")」「[俺の空](../Page/俺の空.md "wikilink")」は『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")』に、「[江戸前鮨職人きららの仕事](../Page/江戸前鮨職人きららの仕事.md "wikilink")」は『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』に、「[源氏物語](https://ja.wikipedia.org/wiki/源氏物語_\(漫画\) "wikilink")」は『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』にそれぞれ移籍している。
+[2002年](../Page/2002年.md "wikilink")No.15で休刊。休刊の際に「[監査役野崎修平](../Page/監査役野崎修平.md "wikilink")」「[戦海の剣](../Page/戦海の剣.md "wikilink")」「[P女子寮のネコ](https://ja.wikipedia.org/wiki/P女子寮のネコ "wikilink")」「[俺の空](../Page/俺の空.md "wikilink")」は『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink")』に、「[江戸前鮨職人きららの仕事](../Page/江戸前鮨職人きららの仕事.md "wikilink")」は『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』に、「[源氏物語](https://ja.wikipedia.org/wiki/源氏物語_\(漫画\) "wikilink")」は『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』にそれぞれ移籍している。
 
 単行本は[SCオールマンレーベルで発売されていた](https://ja.wikipedia.org/wiki/#SCオールマン "wikilink")。
 

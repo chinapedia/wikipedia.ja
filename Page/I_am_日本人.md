@@ -37,7 +37,7 @@
   - [早瀬久美](../Page/早瀬久美.md "wikilink")
   - [中島マリ](https://ja.wikipedia.org/wiki/中島マリ "wikilink")
   - [渋谷琴乃](../Page/渋谷琴乃.md "wikilink")
-  - [多岐川華子](https://ja.wikipedia.org/wiki/多岐川華子 "wikilink")
+  - [多岐川華子](../Page/多岐川華子.md "wikilink")
   - [村松利史](../Page/村松利史.md "wikilink")
   - [高品剛](../Page/高品剛.md "wikilink")
   - [田窪一世](../Page/田窪一世.md "wikilink")

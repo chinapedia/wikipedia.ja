@@ -179,7 +179,7 @@
   - [それが大事](../Page/それが大事_\(大事MANブラザーズバンドの曲\).md "wikilink")（'91）/[大事MANブラザーズバンド](../Page/大事MANブラザーズバンド.md "wikilink")
   - [このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")（'93）/[DEEN](../Page/DEEN.md "wikilink")
   - [バンザイ 〜好きでよかった〜](../Page/バンザイ_〜好きでよかった〜.md "wikilink")（'96）/[ウルフルズ](../Page/ウルフルズ.md "wikilink")
-  - [朝日を見に行こうよ](../Page/朝日を見に行こうよ.md "wikilink")（'99）/[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [朝日を見に行こうよ](../Page/朝日を見に行こうよ.md "wikilink")（'99）/[SMAP](../Page/SMAP.md "wikilink")
   - [涙のキッス](../Page/涙のキッス.md "wikilink")（'92）/[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")
   - [CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")（'97）/[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")
   - [innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")（'94）/[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")

@@ -14,7 +14,7 @@
 ### 司会
 
   - [石田靖](../Page/石田靖.md "wikilink")
-  - [吉田千尋](https://ja.wikipedia.org/wiki/吉田千尋 "wikilink")（中国放送アナウンサー）
+  - [吉田千尋](../Page/吉田千尋.md "wikilink")（中国放送アナウンサー）
 
 ### レギュラー出演者
 

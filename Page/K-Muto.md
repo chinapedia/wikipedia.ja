@@ -40,7 +40,7 @@
   - [B☆Luck](https://ja.wikipedia.org/wiki/B☆Luck "wikilink")
   - [K-WON](https://ja.wikipedia.org/wiki/K-WON "wikilink")
   - [PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
   - [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink")
   - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")

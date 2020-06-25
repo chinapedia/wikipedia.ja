@@ -63,9 +63,11 @@ NOISE
 
   - "Atlantic City" (繋船ホテル; 1981; cassette / Siwa; 2005; LP)
   - "Unify My Heart" (2004; CDR)
+  - "return to a source-源にオカエリ-" (minamoto; 2005; CD) ※工藤冬里＋sayasource
   - "piano solo at mono" (igloo; 2007; CDR)
   - "ピアノ・ソロ（彼は窓から帰って来る、手に職を持って）" (PSF; 2009; CD)
   - "すべての読書は道場破りである" (mds; 2011; CDR/DVDR)
+  - "三つのりんご" (2011; CDR)
   - "徘徊老人 その他" (7e.p.; 2014; CD)
   - "Enka Blues" (OSR Tapes; 2016; cassette)
   - "Live At Harness" (Moone Records; 2018; cassette)
@@ -74,6 +76,8 @@ NOISE
   - "kochi" (2019; CDR)
   - "Ein Traum Für Dich" (Black Truffle; 2019; LP) ※Kayo Makino, Tori Kudo
   - "The Last Song Of My Life" (An'archives; 2020; LP)
+  - "last super flux the movie" (2020; DVDR)
+  - "初見arabesque" (2020; CDR)
 
 工藤礼子
 

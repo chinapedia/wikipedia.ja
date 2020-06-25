@@ -7,7 +7,7 @@
 
 ## 概説
 
-自らアーティスト活動も行っているが、[ソングライター](../Page/ソングライター.md "wikilink")・[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")として一般的に知られている。[TOKIO](../Page/TOKIO.md "wikilink")、[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、[V6](../Page/V6_\(グループ\).md "wikilink")、[嵐他多くのアーティストに楽曲を提供し](../Page/嵐_\(グループ\).md "wikilink")、その作品に参加。[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「Mistake\!」、嵐の「Find The Answer」、[Hey\! Say\! JUMPの](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")「AinoArika」、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")の「Edge of Days」などヒット曲も数多く手がけており、作曲と編曲を担当した[Snow Manのデビューシングル](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")「D.D.」では発売から3日でミリオン達成という驚異的な記録を残している\[1\]。 アーティストとしては[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")レーベルJOTAより[シングル](../Page/シングル.md "wikilink")「ジェットコースター」でデビュー、同年[9月22日](../Page/9月22日.md "wikilink")、BMGファンハウスより「PLAY BACK」でメジャーデビューを果たした。以降、4枚のシングルと1枚のアルバムを発表している。
+自らアーティスト活動も行っているが、[ソングライター](../Page/ソングライター.md "wikilink")・[アレンジャー](https://ja.wikipedia.org/wiki/アレンジャー "wikilink")として一般的に知られている。[TOKIO](../Page/TOKIO.md "wikilink")、[Every Little Thing](../Page/Every_Little_Thing.md "wikilink")、[V6](../Page/V6_\(グループ\).md "wikilink")、[嵐他多くのアーティストに楽曲を提供し](../Page/嵐_\(グループ\).md "wikilink")、その作品に参加。[SMAP](../Page/SMAP.md "wikilink")の「Mistake\!」、嵐の「Find The Answer」、[Hey\! Say\! JUMPの](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")「AinoArika」、[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")の「Edge of Days」などヒット曲も数多く手がけており、作曲と編曲を担当した[Snow Manのデビューシングル](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")「D.D.」では発売から3日でミリオン達成という驚異的な記録を残している\[1\]。 アーティストとしては[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")レーベルJOTAより[シングル](../Page/シングル.md "wikilink")「ジェットコースター」でデビュー、同年[9月22日](../Page/9月22日.md "wikilink")、BMGファンハウスより「PLAY BACK」でメジャーデビューを果たした。以降、4枚のシングルと1枚のアルバムを発表している。
 
 ## 提供した主な楽曲
 
@@ -126,7 +126,7 @@
   - [Super Junior](https://ja.wikipedia.org/wiki/Super_Junior "wikilink")
       - [Snow white](https://ja.wikipedia.org/wiki/Mr.Simple#日本語版 "wikilink")（作曲/編曲）
       - [Way](https://ja.wikipedia.org/wiki/Opera_\(スーパージュニアの曲\) "wikilink")（作詞/作曲/編曲）
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
       - [HIKARI](https://ja.wikipedia.org/wiki/GIFT_of_SMAP#収録曲 "wikilink")（作詞/作曲/編曲）
       - [Mistake\!](https://ja.wikipedia.org/wiki/Mistake!/Battery "wikilink")（作曲）
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")

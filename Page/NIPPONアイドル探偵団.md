@@ -1,7 +1,7 @@
 > この記事は[NIPPONアイドル探偵団](https://ja.wikipedia.org/wiki/NIPPONアイドル探偵団)から翻訳されています。
 
 
-『**NIPPONアイドル探偵団**』（にっぽんアイドルたんていだん）は、[1988年](../Page/1988年.md "wikilink")から発売されていた日本の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[名鑑](https://ja.wikipedia.org/wiki/名鑑 "wikilink")。ランキング形式を採っていた。
+『**NIPPONアイドル探偵団**』（にっぽんアイドルたんていだん）は、[1988年](../Page/1988年.md "wikilink")から発売されていた日本の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")[名鑑](https://ja.wikipedia.org/wiki/名鑑 "wikilink")。ランキング形式を採っていた。 出版社は創刊から1993年まで[JICC出版](../Page/宝島社.md "wikilink")\[1\]。2004年まで[宝島社](../Page/宝島社.md "wikilink")\[2\]。
 
 雑誌『[すッぴん](https://ja.wikipedia.org/wiki/すっぴん_\(雑誌\) "wikilink")』などで毎月連載されていた『アイドル探偵団』の年間バージョンで、現在は携帯･パソコンのWEB上でも毎月のデータや情報を公開している。著者で、アイドル[評論家](../Page/評論家.md "wikilink")の[北川昌弘](../Page/北川昌弘.md "wikilink")を中心に関係者が選んだ独自のランキングとなっている。（興りは氏の立ち上げた「といれっと・ぺいぱあ」でのランキング）
 
@@ -233,8 +233,13 @@
   - [吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink")／[小雪](https://ja.wikipedia.org/wiki/小雪_\(女優\) "wikilink")
   - [市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")／[釈由美子](https://ja.wikipedia.org/wiki/釈由美子 "wikilink")
 
+## 脚注
+
 ## 関連サイト
 
 （公式サイト）
 
 [Category:アイドルに関するメディア](https://ja.wikipedia.org/wiki/Category:アイドルに関するメディア "wikilink") [Category:日本の逐次刊行物](https://ja.wikipedia.org/wiki/Category:日本の逐次刊行物 "wikilink") [Category:1988年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1988年刊行開始の刊行物 "wikilink") [Category:2004年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:2004年刊行終了の刊行物 "wikilink")
+
+1.
+2.

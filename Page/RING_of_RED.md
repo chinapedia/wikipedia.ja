@@ -1,7 +1,7 @@
 > この記事は[RING of RED](https://ja.wikipedia.org/wiki/RING_of_RED)から翻訳されています。
 
 
-『**RING of RED**』（リング・オブ・レッド）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（[コナミコンピュータエンタテインメントスタジオ](../Page/コナミコンピュータエンタテインメントスタジオ.md "wikilink")）より[2000年](../Page/2000年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。
+『**RING of RED**』（リング・オブ・レッド）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（[コナミコンピュータエンタテインメントスタジオ](../Page/コナミコンピュータエンタテインメントスタジオ.md "wikilink")）より[2000年](../Page/2000年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された[PlayStation 2専用オリジナルロボット](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。
 
 ## 概要
 
@@ -512,4 +512,4 @@
   - 発煙弾 - 45秒間、敵AFWの命中率初期値と照準修正を3/4にする砲弾。
   - 白燐弾 - 敵全前衛兵を強制後退させ、10秒間隊列変更を不可能にする砲弾。
 
-[Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:ウォー・シミュレーションゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:電撃ゲーム文庫](https://ja.wikipedia.org/wiki/Category:電撃ゲーム文庫 "wikilink")
+[Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:ウォー・シミュレーションゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:電撃ゲーム文庫](https://ja.wikipedia.org/wiki/Category:電撃ゲーム文庫 "wikilink") [Category:巨大ロボットを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたコンピュータゲーム "wikilink")

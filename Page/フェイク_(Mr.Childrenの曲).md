@@ -5,13 +5,13 @@
 
 ## 概要
 
-前作から約2ヵ月ぶりのシングルで、11thシングル「[花 -Mémento-Mori-](../Page/花_-Memento-Mori-.md "wikilink")」以来19作ぶりとなる1曲のみ収録の500円シングルである。また、本作は40万枚限定生産となっており、現在は廃盤となっている。限定生産はライブアルバム『[1/42](https://ja.wikipedia.org/wiki/1/42 "wikilink")』以来となる。
+前作から約2ヵ月ぶりのシングルで、11枚目のシングル「[花 -Mémento-Mori-](../Page/花_-Memento-Mori-.md "wikilink")」以来19作ぶりとなる1曲のみ収録の500円シングルである。また、本作は40万枚限定生産となっており、現在は廃盤となっている。限定生産はライブアルバム『[1/42](https://ja.wikipedia.org/wiki/1/42 "wikilink")』以来となる。
 
 ジャケットは女性が口を大きく開けて舌を出しているというもので、「フェイク」の「ェ」の文字だけが[ゴシック体](../Page/ゴシック体.md "wikilink")であり、それ以外の文字は[明朝体](../Page/明朝体.md "wikilink")となっている。裏側は文字が反転していて、女性の口が偽物（フェイク）になっている。アートディレクターは[丹下紘希](../Page/丹下紘希.md "wikilink")。
 
 ## チャート成績
 
-オリコンチャートで5thシングル「[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")」から26作連続初登場1位を獲得。シングル1位獲得数は[松田聖子](../Page/松田聖子.md "wikilink")（25作）を抜き、[B'z](../Page/B'z.md "wikilink")（38作、当時）、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")（27作、当時）に次ぐ歴代3位となった。限定生産シングルの1位獲得は「[feel](https://ja.wikipedia.org/wiki/feel_\(倖田來未の曲\) "wikilink")」（[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")）以来、約1年ぶり。
+[オリコン](../Page/オリコン.md "wikilink")シングルチャートで5枚目の「[innocent world](https://ja.wikipedia.org/wiki/innocent_world "wikilink")」から26作連続初登場1位を獲得した。シングル1位獲得数は[松田聖子](../Page/松田聖子.md "wikilink")（25作）を抜き、[B'z](../Page/B'z.md "wikilink")（38作、当時）、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")（27作、当時）に次ぐ歴代3位となった。限定生産シングルの1位獲得は「[feel](https://ja.wikipedia.org/wiki/feel_\(倖田來未の曲\) "wikilink")」（[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")）以来、約1年ぶりである。
 
 ## 収録曲
 
@@ -34,4 +34,4 @@
 ## 外部リンク
 
   -
-[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:どろろ](https://ja.wikipedia.org/wiki/Category:どろろ "wikilink")

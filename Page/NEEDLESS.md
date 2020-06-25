@@ -1,7 +1,7 @@
 > この記事は[NEEDLESS](https://ja.wikipedia.org/wiki/NEEDLESS)から翻訳されています。
 
 
-『**NEEDLESS**』（ニードレス）は、[今井神](https://ja.wikipedia.org/wiki/今井神 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、[2003年](../Page/2003年.md "wikilink")11月号から[2013年](../Page/2013年.md "wikilink")6月号まで連載。 [超能力](../Page/超能力.md "wikilink")[バトル](https://ja.wikipedia.org/wiki/バトル "wikilink")シーンと[コメディパートの両軸を主軸とした構成で物語が進行する](../Page/喜劇.md "wikilink")。漫画内には[パンチラ](../Page/パンチラ.md "wikilink")や[ギャグ](../Page/ギャグ.md "wikilink")が多く存在し、本編・番外編・短編集のものにも含まれる。特に表紙や、シリアスな場面が長く続いた時にギャグが出る傾向が強い。[2009年](../Page/2009年.md "wikilink")7月から12月にかけて[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された。
+『**NEEDLESS**』（ニードレス）は、[今井神](https://ja.wikipedia.org/wiki/今井神 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、[2003年](../Page/2003年.md "wikilink")11月号から[2013年](../Page/2013年.md "wikilink")6月号まで連載。 [超能力](../Page/超能力.md "wikilink")[バトル](https://ja.wikipedia.org/wiki/バトル "wikilink")シーンと[コメディパートの両軸を主軸とした構成で物語が進行する](../Page/喜劇.md "wikilink")。漫画内には[パンチラ](../Page/パンチラ.md "wikilink")や[ギャグ](../Page/ギャグ.md "wikilink")が多く存在し、本編・番外編・短編集のものにも含まれる。特に表紙や、シリアスな場面が長く続いた時にギャグが出る傾向が強い。[2009年](../Page/2009年.md "wikilink")7月から12月にかけて[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された。
 
 ## ストーリー
 

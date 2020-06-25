@@ -139,7 +139,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [Far Cry 5](https://ja.wikipedia.org/wiki/Far_Cry_5 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Fallout 4](https://ja.wikipedia.org/wiki/Fallout_4 "wikilink")(コンテンツアイコン：「暴力、犯罪」）
   - [fallout76](https://ja.wikipedia.org/wiki/Fallout_76 "wikilink")（コンテンツアイコン：「暴力」）
-  - [Friday the 13th: The Game](https://ja.wikipedia.org/wiki/Friday_the_13th:_The_Game "wikilink") \[5\]（コンテンツアイコン：「暴力」）
+  - [Friday the 13th: The Game](https://ja.wikipedia.org/wiki/Friday_the_13th:_The_Game "wikilink")\[5\]（コンテンツアイコン：「暴力」）
   - [Pｒedator:hantingGrounds](../Page/プレデター_ハンティンググラウンズ.md "wikilink")（コンテンツアイコン：「暴力」）
   - [マッドマックス](https://ja.wikipedia.org/wiki/マッドマックス_\(2015年のゲーム\) "wikilink")（コンテンツアイコン：「暴力」）
   - [マフィア III](https://ja.wikipedia.org/wiki/マフィア_III "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -569,10 +569,9 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
 ## 外部リンク
 
-  - [公式サイト](http://www.cero.gr.jp/index.html)
-      -
-      - [タイトル検索](http://www.cero.gr.jp/search/)（機種別、対象年齢別で審査のなされたソフトの検索ができる）
-  - [「Z」区分ソフト店頭告知ツール](http://www.cesa.or.jp/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=199&cntnt01origid=52&cntnt01dateformat=%28%25m%2F%25d%29&cntnt01year=2006&cntnt01summarytemplate=summary_byyear.tpl&cntnt01lang=ja_JP.UTF-8&cntnt01returnid=51)（[コンピュータエンターテインメント協会](../Page/コンピュータエンターテインメント協会.md "wikilink")（CESA）のHPより）
+  - [公式サイト](https://www.cero.gr.jp/)
+      - [CERO倫理規定](https://www.cero.gr.jp/relays/download/?file=/files/libs/183/201711211303545293.pdf)
+      - [タイトル検索](http://www.cero.biz/search/)（機種別、対象年齢別で審査のなされたソフトの検索ができる）
   - 販売店向けに「Z」区分のソフトであることを明確に告知するため、[ポップ用のデータとして公開されている](../Page/POP広告.md "wikilink")。
 
 [Category:コンピュータゲームのタイトル一覧](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのタイトル一覧 "wikilink") [Category:コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/Category:コンピュータエンターテインメントレーティング機構 "wikilink") [Category:コンピュータゲームと公的規制](https://ja.wikipedia.org/wiki/Category:コンピュータゲームと公的規制 "wikilink")

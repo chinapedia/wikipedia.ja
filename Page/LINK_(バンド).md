@@ -21,6 +21,8 @@
 
   - 猪股ヨウスケ (ギター・コーラス)
 
+・現在は[Dr.DOWNER](https://ja.wikipedia.org/wiki/Dr.DOWNER "wikilink")で活動中。
+
 ## ディスコグラフィー
 
 ### シングル
@@ -29,6 +31,8 @@
   - 6 SOUND MINDS IN 6 SOUND BODIES（2000年6月7日）[FROTRIP](https://ja.wikipedia.org/wiki/FROTRIP "wikilink")とのスプリットシングル
   - FLOWER OF THE SUN（2001年6月6日）
   - EARTHSICK（2002年1月10日）
+  - さらば闇よ(2003年) ワンマンツアーのライブで無料配布
+  - BREAKDOWN(2004年) ライブ会場限定
   - GOLD FIELD（2004年10月9日）ライブ会場限定
   - GOLD FIELD e.p. plus（2005年1月15日）
   - 素晴らしい世界（2006年1月18日）

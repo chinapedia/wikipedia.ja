@@ -100,13 +100,13 @@
   - 2010年: [アンドリュー・ビタビ](https://ja.wikipedia.org/wiki/アンドリュー・ビタビ "wikilink")
   - 2011年: [モリス・チャン](../Page/モリス・チャン.md "wikilink")
   - 2012年: [ジョン・ヘネシー](../Page/ジョン・ヘネシー.md "wikilink")
-  - 2013年: [アーウィン・M・ジェイコブス](https://ja.wikipedia.org/wiki/アーウィン・M・ジェイコブス "wikilink")
+  - 2013年: [アーウィン・M・ジェイコブス](../Page/アーウィン・M・ジェイコブス.md "wikilink")
   - 2014年: [:en:B. Jayant Baliga](https://ja.wikipedia.org/wiki/:en:B._Jayant_Baliga "wikilink")
   - 2015年: [:en:Mildred Dresselhaus](https://ja.wikipedia.org/wiki/:en:Mildred_Dresselhaus "wikilink")
   - 2016年: [:en:Dave Forney](https://ja.wikipedia.org/wiki/:en:Dave_Forney "wikilink")
   - 2017年: [ケイス・スホウハメル・イミンク](https://ja.wikipedia.org/wiki/ケイス・スホウハメル・イミンク "wikilink")
   - 2018年: [:en:Bradford Parkinson](https://ja.wikipedia.org/wiki/:en:Bradford_Parkinson "wikilink")
-  - 2019年: Kurt E. Petersen
-  - 2020年: Chenming Hu
+  - 2019年: [:en:Kurt Petersen (inventor)](https://ja.wikipedia.org/wiki/:en:Kurt_Petersen_\(inventor\) "wikilink")
+  - 2020年: [:en:Chenming Hu](https://ja.wikipedia.org/wiki/:en:Chenming_Hu "wikilink")
 
 [Category:IEEEの賞](https://ja.wikipedia.org/wiki/Category:IEEEの賞 "wikilink")

@@ -80,7 +80,7 @@
 
 ## カバー
 
-  - 1999年、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")らが所属するライジングプロダクション（現・[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")）からデビューした女性3人組のヴォーカル&ダンスグループ・[AN-J](https://ja.wikipedia.org/wiki/AN-J "wikilink")がこの曲をカバーし、[1999年](../Page/1999年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")にデビューシングルとして「笑顔が見える場所〜I WANNA GO〜」をリリース、[TBS系](../Page/TBSテレビ.md "wikilink")[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")『[週末婚](../Page/週末婚.md "wikilink")』の主題歌に起用された。なお、このカバーを元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")は芸能界デビュー前に[NHKジュニアのど自慢で歌っている](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
+  - 1999年、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")らが所属するライジングプロダクション（現・[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")）からデビューした女性3人組のヴォーカル&ダンスグループ・[AN-J](https://ja.wikipedia.org/wiki/AN-J "wikilink")がこの曲をカバーし、[1999年](../Page/1999年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")にデビューシングルとして「笑顔が見える場所〜I WANNA GO〜」をリリース、[TBS系](../Page/TBSテレビ.md "wikilink")[連続ドラマ](https://ja.wikipedia.org/wiki/連続ドラマ "wikilink")『[週末婚](../Page/週末婚.md "wikilink")』の主題歌に起用された。なお、このカバーを元[モーニング娘。](../Page/モーニング娘。.md "wikilink")の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")は芸能界デビュー前に[NHKジュニアのど自慢で歌っている](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
 
 ## 出典
 

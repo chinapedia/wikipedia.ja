@@ -1,7 +1,7 @@
 > この記事は[バトルスタジアム D.O.N](https://ja.wikipedia.org/wiki/バトルスタジアム_D.O.N)から翻訳されています。
 
 
-『**バトルスタジアム D.O.N**』（バトルスタジアム ディー・オー・エヌ）は、[バンダイナムコゲームスから発売された](../Page/バンダイナムコエンターテインメント.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームキューブのマルチで発売された](../Page/ニンテンドーゲームキューブ.md "wikilink")。
+『**バトルスタジアム D.O.N**』（バトルスタジアム ディー・オー・エヌ）は、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームキューブのマルチで発売された](../Page/ニンテンドーゲームキューブ.md "wikilink")。
 
 ## 概要
 
@@ -98,4 +98,4 @@
 ## 外部リンク
 
   -
-[Category:2D対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:2D対戦アクションゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:週刊少年ジャンプのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプのクロスオーバー作品 "wikilink") [Category:バンダイのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンダイのクロスオーバー作品 "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:ONE_PIECEのゲーム](https://ja.wikipedia.org/wiki/Category:ONE_PIECEのゲーム "wikilink") [Category:NARUTO_-ナルト-](https://ja.wikipedia.org/wiki/Category:NARUTO_-ナルト- "wikilink")
+[Category:2D対戦アクションゲーム](https://ja.wikipedia.org/wiki/Category:2D対戦アクションゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:週刊少年ジャンプのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプのクロスオーバー作品 "wikilink") [Category:バンダイのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:バンダイのクロスオーバー作品 "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:エイティングのゲームソフト](https://ja.wikipedia.org/wiki/Category:エイティングのゲームソフト "wikilink") [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:ONE_PIECEのゲーム](https://ja.wikipedia.org/wiki/Category:ONE_PIECEのゲーム "wikilink") [Category:NARUTO_-ナルト-](https://ja.wikipedia.org/wiki/Category:NARUTO_-ナルト- "wikilink")

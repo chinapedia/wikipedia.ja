@@ -77,7 +77,7 @@
 
   - [ユニバーサルミュージック内公式サイト](http://www.universal-music.co.jp/ttb/index.html)
 
-  - [ttbのこんな毎日\!](http://blog.goo.ne.jp/threetightb/) - 公式ブログ
+  - [ttbのこんな毎日\!](https://blog.goo.ne.jp/threetightb) - 公式ブログ
 
   - [three tight b official fan site](http://www.ttb.ne.nu/)
 

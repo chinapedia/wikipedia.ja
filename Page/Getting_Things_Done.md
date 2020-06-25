@@ -1,7 +1,7 @@
 > この記事は[Getting Things Done](https://ja.wikipedia.org/wiki/Getting_Things_Done)から翻訳されています。
 
 
-**Getting Things Done**（ゲッティング・シングス・ダン）、略称 **GTD**（ジー・ティー・ディー）は、個人用の[ワークフロー](../Page/ワークフロー.md "wikilink")の管理手法である。[デビッド・アレン Allen）が同名の書籍](https://ja.wikipedia.org/wiki/デビッド・アレン "wikilink")（David『仕事を成し遂げる技術 ―ストレスなく生産性を発揮する方法』（原題: *Getting Things Done*、2002年）の中で提唱する。[ハッカー文化](../Page/ハッカー文化.md "wikilink")の一つで、**[LifeHack](https://ja.wikipedia.org/wiki/LifeHack "wikilink")**（ライフハック）の中でも代表的なものである。
+**Getting Things Done**（ゲッティング・シングス・ダン）、略称 **GTD**（ジー・ティー・ディー）は、個人用の[ワークフロー](../Page/ワークフロー.md "wikilink")の管理手法である。[デビッド・アレン Allen）が同名の書籍](https://ja.wikipedia.org/wiki/デビッド・アレン "wikilink")（David『仕事を成し遂げる技術 ―ストレスなく生産性を発揮する方法』（原題: *Getting Things Done*、2002年）の中で提唱する。[ハッカー文化](../Page/ハッカー文化.md "wikilink")の一つで、**[LifeHack](https://ja.wikipedia.org/wiki/LifeHack "wikilink")**（ライフハック）の中でも代表的なものである。, and [a life of dan](https://www.thelifeofdance.com/)ce.
 
 「ナレッジワーカー（知識労働者ないし[頭脳労働](https://ja.wikipedia.org/wiki/頭脳労働 "wikilink")者）の仕事術」と呼ばれ、「次に何をやるか」という[予定](https://ja.wikipedia.org/wiki/予定 "wikilink")や[スケジュール](https://ja.wikipedia.org/wiki/スケジュール "wikilink")の管理、作業する上での[モチベーション](https://ja.wikipedia.org/wiki/モチベーション "wikilink")を損なわないための体制作りなどが含まれる。心理的な負担を減らしながら個人の生産性を上げることを主眼とし、簡単な5つのステップを実行することによって成し遂げたいことを現実にするメソッドである。基本はなすべき仕事のリストを何かに記録しておくことで、頭の中からなすべき仕事のことを追い出すことである。これで頭の中はすべき仕事全部を覚えなくてもよくなりすっきりとし、リストに基づき実際の仕事をこなすことに集中できる。
 

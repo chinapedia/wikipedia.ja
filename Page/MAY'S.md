@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - アルバム名はインディーズ時代から一貫して「〜ing（進行形）」が使われている。MAY'Sのファンクラブ名も「Smiling」である。
+  - オリジナル・アルバム名はインディーズ時代から一貫して「〜ing（進行形）」が使われている。MAY'Sのファンクラブ名も「Smiling」である。
 
 ## メンバー
 
@@ -244,6 +244,19 @@ CRCP-40536</p></td>
 <td><p>CRCP-40452<br />
 CRCP-40453</p></td>
 </tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2017年5月31日</p></td>
+<td><p><em>' <a href="https://ja.wikipedia.org/wiki/波音_Never_Ending" title="wikilink">波音 Never Ending</a></em>'</p></td>
+<td><p>CRCP-40511<br />
+CRCP-40512</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2018年5月23日</p></td>
+<td><p><em>' <a href="https://ja.wikipedia.org/wiki/デュエットしようよ" title="wikilink">デュエットしようよ</a></em>'</p></td>
+<td><p>CRCP-40552</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -272,6 +285,12 @@ KICS-1535/6</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BEST_2005-2013" title="wikilink">BEST 2005-2013</a></strong></p></td>
 <td><p>KICS-91842<br />
 KICS-1842</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2017年<a href="../Page/3月15日.md" title="wikilink">3月15日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/LOVE_SONG_BEST_〜15th_Anniversary_Edition〜" title="wikilink">LOVE SONG BEST 〜15th Anniversary Edition〜</a></strong></p></td>
+<td><p>CRCP-40500/01</p></td>
 </tr>
 </tbody>
 </table>
@@ -308,6 +327,8 @@ KICS-1842</p></td>
 | ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP I**                               |
 | ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP II**                              |
 | アルバム（クリフエッジ & [LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink") & MAY'S & [Noa](https://ja.wikipedia.org/wiki/Noa "wikilink")名義） | 2015年5月13日         | ''' Quads '''                                        |
+| アルバム（Maicoと恋のキューピッツ♡\[9\]名義）                                                                                                                   | 2018年              | ''' \#totsugitai '''                                 |
+| Digital Single                                                                                                                                 | 2020年4月22日         | ''' F\*ck You 2 My Ex '''                            |
 |                                                                                                                                                |                    |                                                      |
 
 ### インディーズ
@@ -318,7 +339,7 @@ KICS-1842</p></td>
 | --- | ----------- | ------------------------------ | ---------- |
 | 1st | 2005年11月30日 | ''' Drawing '''                | GDCY-1003  |
 | 2nd | 2007年3月14日  | ''' Remix Collection Vol.1 ''' | CHSI-1002  |
-| 3rd | 2007年11月14日 | *' Dear...*'\[9\]              | KIZC-17/18 |
+| 3rd | 2007年11月14日 | *' Dear...*'\[10\]             | KIZC-17/18 |
 
 #### アルバム
 
@@ -336,28 +357,129 @@ KICS-1842</p></td>
 
 ## タイアップ
 
-|                                                                                                                    |                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **曲名**                                                                                                             | **タイアップ**                                                                                                                                                           |
-| Sha la la...                                                                                                       | [集英社](../Page/集英社.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」CMソング                                          |
-| REAL                                                                                                               | [TBS系](../Page/TBSテレビ.md "wikilink")「恋愛脳℃」エンディングテーマ                                                                                                                 |
-| My Everything                                                                                                      | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ                                                                |
-| Daydream                                                                                                           | TBS系「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」エンディングテーマ                                                                                                          |
-| KISS 〜恋におちて...冬〜                                                                                                   | 「WINTER SPORTS FESTA season8」公式テーマソング                                                                                                                               |
-| [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」POWER PLAY |                                                                                                                                                                     |
-| Sparkling Girl                                                                                                     | [北海道文化放送](../Page/北海道文化放送.md "wikilink")・[FNS系列](../Page/フジネットワーク.md "wikilink")8局ネット「[UHB杯ジャンプ大会](../Page/UHB杯ジャンプ大会.md "wikilink")」エンディングテーマ                      |
-| I WISH                                                                                                             | [酒井彩名](../Page/酒井彩名.md "wikilink")プロデュース ウエディングドレス「Aya na ture」イメージソング                                                                                              |
-| MaMa (Remix)                                                                                                       | TBS系「\[\[がっちりマンデー                                                                                                                                                   |
-| Brave Heart (Remix)                                                                                                | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・TBS系ドラマ「[漂流ネットカフェ](https://ja.wikipedia.org/wiki/漂流ネットカフェ "wikilink")」主題歌                                   |
-| ONE LOVE 〜100万回のKISSでアイシテル〜                                                                                        | 「WINTER SPORTS FESTA season9 冬スポ                                                                                                                                    |
-| 永遠                                                                                                                 | 映画「[音楽人](https://ja.wikipedia.org/wiki/音楽人 "wikilink")」挿入歌                                                                                                          |
-| 星の数だけ抱きしめて                                                                                                         | 映画「音楽人」主題歌                                                                                                                                                          |
-| Unfair Love                                                                                                        | [ジャンヌ・アルテス](https://ja.wikipedia.org/wiki/ジャンヌアルテス "wikilink") 香水「ラブ ネバー ダイ ディーバ」イメージソング                                                                            |
-| 遠くへ 〜Spread Your Wings〜                                                                                            | [尚美ミュージックカレッジ専門学校](../Page/尚美ミュージックカレッジ専門学校.md "wikilink")CMソング                                                                                                     |
-| 日本テレビ系「[ハッピーMusic](https://ja.wikipedia.org/wiki/ハッピーMusic "wikilink")」8月POWER PLAY                                |                                                                                                                                                                     |
-| 君に届け...                                                                                                            | 日本テレビ系アニメ「[君に届け 2ND SEASON](../Page/君に届け.md "wikilink")」エンディングテーマ                                                                                                   |
-| WONDERLAND                                                                                                         | 「WINTER SPORTS FESTA season 10」公式テーマソング                                                                                                                             |
-| BONDS                                                                                                              | [東海テレビ](../Page/東海テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[毒姫とわたし](https://ja.wikipedia.org/wiki/毒姫とわたし "wikilink")」主題歌 |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>曲名</strong></p></td>
+<td><p><strong>タイアップ</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Sha la la...</p></td>
+<td><p><a href="../Page/集英社.md" title="wikilink">集英社</a><a href="../Page/ファッション雑誌.md" title="wikilink">ファッション雑誌</a>「<a href="../Page/MORE_(雑誌).md" title="wikilink">MORE</a>」CMソング</p></td>
+</tr>
+<tr class="odd">
+<td><p>REAL</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「恋愛脳℃」エンディングテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>My Everything</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系「<a href="../Page/ビートたけしのTVタックル.md" title="wikilink">ビートたけしのTVタックル</a>」エンディングテーマ</p></td>
+</tr>
+<tr class="odd">
+<td><p>Daydream</p></td>
+<td><p>TBS系「<a href="../Page/恋するハニカミ!.md" title="wikilink">恋するハニカミ!</a>」エンディングテーマ</p></td>
+</tr>
+<tr class="even">
+<td><p>KISS 〜恋におちて...冬〜</p></td>
+<td><p>「WINTER SPORTS FESTA season8」公式テーマソング</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」POWER PLAY</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Sparkling Girl</p></td>
+<td><p><a href="../Page/北海道文化放送.md" title="wikilink">北海道文化放送</a>・<a href="../Page/フジネットワーク.md" title="wikilink">FNS系列</a>8局ネット「<a href="../Page/UHB杯ジャンプ大会.md" title="wikilink">UHB杯ジャンプ大会</a>」エンディングテーマ</p></td>
+</tr>
+<tr class="odd">
+<td><p>I WISH</p></td>
+<td><p><a href="../Page/酒井彩名.md" title="wikilink">酒井彩名</a>プロデュース ウエディングドレス「Aya na ture」イメージソング[11]</p></td>
+</tr>
+<tr class="even">
+<td><p>MaMa (Remix)</p></td>
+<td><p>TBS系「[[がっちりマンデー</p></td>
+</tr>
+<tr class="odd">
+<td><p>Brave Heart (Remix)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a>・TBS系ドラマ「<a href="https://ja.wikipedia.org/wiki/漂流ネットカフェ" title="wikilink">漂流ネットカフェ</a>」主題歌[12]</p></td>
+</tr>
+<tr class="even">
+<td><p>ONE LOVE 〜100万回のKISSでアイシテル〜</p></td>
+<td><p>「WINTER SPORTS FESTA season9 冬スポ</p></td>
+</tr>
+<tr class="odd">
+<td><p>永遠</p></td>
+<td><p>映画「<a href="https://ja.wikipedia.org/wiki/音楽人" title="wikilink">音楽人</a>」挿入歌[13]</p></td>
+</tr>
+<tr class="even">
+<td><p>星の数だけ抱きしめて</p></td>
+<td><p>映画「音楽人」主題歌[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>Unfair Love</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャンヌアルテス" title="wikilink">ジャンヌ・アルテス</a> 香水「ラブ ネバー ダイ ディーバ」イメージソング</p></td>
+</tr>
+<tr class="even">
+<td><p>遠くへ 〜Spread Your Wings〜</p></td>
+<td><p><a href="../Page/尚美ミュージックカレッジ専門学校.md" title="wikilink">尚美ミュージックカレッジ専門学校</a>CMソング</p></td>
+</tr>
+<tr class="odd">
+<td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/ハッピーMusic" title="wikilink">ハッピーMusic</a>」8月POWER PLAY</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>君に届け...</p></td>
+<td><p>日本テレビ系アニメ「<a href="../Page/君に届け.md" title="wikilink">君に届け 2ND SEASON</a>」エンディングテーマ[15]</p></td>
+</tr>
+<tr class="odd">
+<td><p>WONDERLAND</p></td>
+<td><p>「WINTER SPORTS FESTA season 10」公式テーマソング</p></td>
+</tr>
+<tr class="even">
+<td><p>BONDS</p></td>
+<td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a>・<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/毒姫とわたし" title="wikilink">毒姫とわたし</a>」主題歌[16]</p></td>
+</tr>
+<tr class="odd">
+<td><p>I Remember You</p></td>
+<td><p>love perfume.新作香水「アモーレミオ フォーエバー」イメージソング</p></td>
+</tr>
+<tr class="even">
+<td><p>今宵、月の下で feat. 上妻宏光</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHKワールド</a>『<a href="../Page/J-MELO.md" title="wikilink">J-MELO</a>』2011年10月～12月期エンディングテーマ</p></td>
+</tr>
+<tr class="odd">
+<td><p>SKY</p></td>
+<td><p>2012年6月 <a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビフラワーネットTVCM</a> イメージソング<br />
+<a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ系</a>「<a href="https://ja.wikipedia.org/wiki/ハッピーMusic" title="wikilink">ハッピーMusic</a>」 POWER PLAY<br />
+日本テレビ系「<a href="https://ja.wikipedia.org/wiki/音龍門" title="wikilink">音龍門</a>」 Baby Dragon's Gate<br />
+全国26局ネット「<a href="https://ja.wikipedia.org/wiki/Girl&#39;s_TV" title="wikilink">Girl's TV</a>」 5,6月度オープニングテーマ<br />
+全国22局ネット「<a href="https://ja.wikipedia.org/wiki/MUSIC_LAUNCHER" title="wikilink">MUSIC LAUNCHER</a>」6月度エンディングテーマ<br />
+<a href="https://ja.wikipedia.org/wiki/東海テレビ" title="wikilink">東海テレビ</a>「<a href="https://ja.wikipedia.org/wiki/バナナマンのブログ刑事" title="wikilink">バナナマンのブログ刑事</a>」 6月度エンディングテーマ<br />
+<a href="../Page/長崎国際テレビ.md" title="wikilink">長崎国際テレビ</a>「<a href="https://ja.wikipedia.org/wiki/AIR_MUSIC_PROGRAM" title="wikilink">AIR MUSIC PROGRAM</a>」 6月度オープニング曲<br />
+<a href="https://ja.wikipedia.org/wiki/くまもと県民テレビ" title="wikilink">くまもと県民テレビ</a>「<a href="https://ja.wikipedia.org/wiki/ROCKET_COMPLEX" title="wikilink">ROCKET COMPLEX</a>」6月度エンディング曲</p></td>
+</tr>
+<tr class="even">
+<td><p>Smiling</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/Sweet_(雑誌)" title="wikilink">sweet</a> 5月号 モテキ篇」,「sweet 6月号 ドレッサー篇」TVCMソング<br />
+<a href="https://ja.wikipedia.org/wiki/金沢ハウジングセンター" title="wikilink">金沢ハウジングセンター</a>TV CMソング</p></td>
+</tr>
+<tr class="odd">
+<td><p>運命のバラード</p></td>
+<td><p>love perfume.ブライダルキャンペーンイメージソング</p></td>
+</tr>
+<tr class="even">
+<td><p>ヒロイン<br />
+CHEER GIRL</p></td>
+<td><p>テレビ東京系「<a href="../Page/流派-R.md" title="wikilink">流派-R since 2001</a>」5月度エンディングレコメンド曲<ref>{{Cite news|author=|url=<a href="http://clubmays.com/news/949.html%7Ctitle=「ヒロイン">http://clubmays.com/news/949.html|title=「ヒロイン</a>」「CHEER GIRL」 テレビ東京系「流派-R since 2001」 ５月度エンディングレコメンド曲　に決定</p></td>
+</tr>
+<tr class="odd">
+<td><p>たとえ世界が真っ白になっても</p></td>
+<td><p>tvk「<a href="https://ja.wikipedia.org/wiki/音楽缶" title="wikilink">音楽缶</a>」12月度テーマソング[17]<br />
+テレビ東京系「流派-R since 2001」12月度エンディングレコメンド曲[18]<br />
+TBSテレビ「<a href="../Page/噂の!東京マガジン.md" title="wikilink">噂の!東京マガジン</a>」2018年1月〜3月エンディングテーマ[19]</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 参加作品
 
@@ -397,7 +519,9 @@ KICS-1842</p></td>
       - 9\. 「MISERY」
 17. LGRookees『Only One feat. LGYankees HIRO/Wedding Story feat. MAY'S』（2014年7月30日）
       - 2\. 「Wedding Story feat. MAY'S」
-18. V.A.『[新日本プロレスリング](https://ja.wikipedia.org/wiki/新日本プロレスリング "wikilink") NJPWグレイテストミュージックIV』（2016年1月13日）
+18. one's wishes-D feat.MAY'S「Everybody OK\!?」（2015年9月2日）
+      - 1\. 「Everybody OK\!?」
+19. V.A.『[新日本プロレスリング](https://ja.wikipedia.org/wiki/新日本プロレスリング "wikilink") NJPWグレイテストミュージックIV』（2016年1月13日）
       - 1\. 「Stone Pitbull」（[石井智宏](../Page/石井智宏.md "wikilink")のテーマ）
 
 ## 交友のあるアーティスト
@@ -441,6 +565,10 @@ KICS-1842</p></td>
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [音楽人](https://ja.wikipedia.org/wiki/音楽人 "wikilink") - 主題歌・挿入歌を担当し、MAY'Sの2人も本編に出演している。
@@ -461,7 +589,7 @@ KICS-1842</p></td>
 
   - [SAPPORO MUSIC NAKED　インタビュー](http://www.sapporo-mn.com/m/naked/naked.php?naked_id=262_1)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本クラウンのアーティスト](https://ja.wikipedia.org/wiki/Category:日本クラウンのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")
 
 1.
 2.
@@ -471,4 +599,14 @@ KICS-1842</p></td>
 6.
 7.  [劇団MAY'S「プリンセスと魔法の城」in サンリオピューロランド](http://gekidan.clubmays.com/)
 8.  レンタルは2010年10月4日
-9.  「**[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink") & MAY'S**」名義
+9.  [逗子三兄弟](https://ja.wikipedia.org/wiki/逗子三兄弟 "wikilink")とのスペシャルユニット
+10. 「**[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink") & MAY'S**」名義
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.

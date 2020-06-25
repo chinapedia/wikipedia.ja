@@ -712,7 +712,7 @@ SRCP-371</p></td>
 </tr>
 <tr class="even">
 <td><p>2005年07月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a> アルバム『<strong><a href="../Page/SAMPLE_BANG!.md" title="wikilink">SAMPLE BANG!</a></strong>』</p></td>
+<td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a> アルバム『<strong><a href="../Page/SAMPLE_BANG!.md" title="wikilink">SAMPLE BANG!</a></strong>』</p></td>
 <td><p>VICL-61888</p></td>
 <td><p>リミックス参加（曲は「SHAKE」）</p></td>
 </tr>

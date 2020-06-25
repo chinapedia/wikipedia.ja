@@ -24,7 +24,7 @@
   - [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")は「[LOVE 2000](../Page/LOVE_2000_\(hitomiの曲\).md "wikilink")」を歌唱。同曲は高橋がシドニーオリンピック女子[フルマラソン](https://ja.wikipedia.org/wiki/フルマラソン "wikilink")のスタート直前に聞いていたことで話題に。そのシーンの映像が曲紹介の時に放映された。
   - [松田聖子](../Page/松田聖子.md "wikilink")の曲目について、当時聖子と交際が囁かれていた[原田真二](../Page/原田真二.md "wikilink")の作詞・作曲による最新曲「[The Sound of Fire](../Page/The_Sound_of_Fire.md "wikilink")」も候補に挙がり、バックバンドの原田との「紅白ツーショット」も期待されたが、結果的にお茶の間への浸透度の高い「[あなたに逢いたくて〜Missing You〜](https://ja.wikipedia.org/wiki/あなたに逢いたくて〜Missing_You〜/明日へと駆け出してゆこう "wikilink")」に決まった\[9\]。
   - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")はこの年行われた[九州・沖縄サミットのテーマソング](../Page/第26回主要国首脳会議.md "wikilink")「[NEVER END](../Page/NEVER_END_\(安室奈美恵の曲\).md "wikilink")」を歌唱。同曲の作詞・作曲・編曲担当で、当時安室のプロデューサーだった[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がピアノ演奏を行った。小室は曲前に久保、安室とトークを行った際、翌日に[沖縄でライブを開催する事に触れ](../Page/沖縄県.md "wikilink")、沖縄県民に放送を通じて改めて挨拶していた。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")は自身の出番で「[らいおんハート](../Page/らいおんハート.md "wikilink")」を歌唱した。また5人でプレゼンターを務めたコーナーの最後に「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」のサビも披露した。当初、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")がこの年放送していた[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[サタ☆スマ](../Page/サタ☆スマ.md "wikilink")』で演じたキャラクター「慎吾ママ」として出演するコーナーを設けることが予想されていたが\[10\]、5人によるコーナーの設置により見送られた\[11\]。
+  - [SMAP](../Page/SMAP.md "wikilink")は自身の出番で「[らいおんハート](../Page/らいおんハート.md "wikilink")」を歌唱した。また5人でプレゼンターを務めたコーナーの最後に「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」のサビも披露した。当初、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")がこの年放送していた[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[サタ☆スマ](../Page/サタ☆スマ.md "wikilink")』で演じたキャラクター「慎吾ママ」として出演するコーナーを設けることが予想されていたが\[10\]、5人によるコーナーの設置により見送られた\[11\]。
   - 翌元日に[BS2で放送の歌舞伎の](../Page/NHK衛星第2テレビジョン.md "wikilink")[特別番組](../Page/特別番組.md "wikilink")の番組宣伝を兼ねて、前回の白組司会・中村勘九郎がゲスト出演した。
   - 初出場の[氷川きよし](../Page/氷川きよし.md "wikilink")の応援に氷川の芸名の名付け親である[ビートたけし](../Page/ビートたけし.md "wikilink")と[志村けん](../Page/志村けん.md "wikilink")が登場した。
   - この年下期の連続テレビ小説『[オードリー](../Page/オードリー_\(テレビドラマ\).md "wikilink")』にちなみ[長嶋一茂](../Page/長嶋一茂.md "wikilink")がゲスト出演。父・茂雄の見守る前で演技を披露した。
@@ -88,7 +88,7 @@
 | 20                                                                                                                                  | [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")(4)          |
 | 22                                                                                                                                  | [原田悠里](../Page/原田悠里.md "wikilink")(2)                                      |
 | ショーコーナー・[劇団四季](../Page/劇団四季.md "wikilink")『[ライオン・キング](https://ja.wikipedia.org/wiki/ライオン・キング_\(ミュージカル\) "wikilink")』より「サークル・オブ・ライフ」 |                                                                            |
-| 23                                                                                                                                  | [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")(3)             |
+| 23                                                                                                                                  | [モーニング娘。](../Page/モーニング娘。.md "wikilink")(3)                                |
 | 25                                                                                                                                  | [坂本冬美](../Page/坂本冬美.md "wikilink")(13)                                     |
 | 27                                                                                                                                  | [香西かおり](../Page/香西かおり.md "wikilink")(9)                                    |
 | ショーコーナー・「[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")」                                                                                |                                                                            |
@@ -139,14 +139,14 @@
   - 「[よさこい鳴子踊り](https://ja.wikipedia.org/wiki/よさこい鳴子踊り "wikilink")」：香西かおり、藤あや子、長山洋子。
   - 「[ソーラン節](../Page/ソーラン節.md "wikilink")」：大泉逸郎、北島三郎、五木ひろし、谷村新司。
   - 「[津軽じょんから節](https://ja.wikipedia.org/wiki/津軽じょんから節 "wikilink")」：[吉田兄弟](../Page/吉田兄弟.md "wikilink")（演奏）。
-  - 「[唐船ドーイ](https://ja.wikipedia.org/wiki/唐船ドーイ "wikilink")」：[園田青年会](https://ja.wikipedia.org/wiki/園田青年会 "wikilink")（踊り）。
+  - 「[唐船ドーイ](../Page/唐船ドーイ.md "wikilink")」：[園田青年会](https://ja.wikipedia.org/wiki/園田青年会 "wikilink")（踊り）。
 
 ### 選考を巡って
 
   - この年の出場歌手中最大の目玉となった[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")が[第41回](../Page/第41回NHK紅白歌合戦.md "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）以来10年ぶりに出場。初出場した[アリスと対戦し話題となる](../Page/アリス_\(フォークグループ\).md "wikilink")。
   - この年スキャンダルが発覚した[川中美幸](../Page/川中美幸.md "wikilink")、[美川憲一](../Page/美川憲一.md "wikilink")、[吉幾三](../Page/吉幾三.md "wikilink")の当落が注目されたが、3人共「問題なし」と判断され出場が決定した\[18\]。
   - 当時58歳の[大泉逸郎](../Page/大泉逸郎.md "wikilink")が初出場、最年長初出場記録を更新するが、翌年[花紀京](../Page/花紀京.md "wikilink")が[Re:Japan](../Page/Re:Japan.md "wikilink")として63歳で初出場したため、1年限りの記録となった。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")は、初出場した[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）からの連続出場が今回で途絶えた（翌年の[第52回はメンバーの](../Page/第52回NHK紅白歌合戦.md "wikilink")[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事により辞退したため。[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）で復帰）。
+  - [SMAP](../Page/SMAP.md "wikilink")は、初出場した[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")（[1991年](../Page/1991年.md "wikilink")）からの連続出場が今回で途絶えた（翌年の[第52回はメンバーの](../Page/第52回NHK紅白歌合戦.md "wikilink")[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事により辞退したため。[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）で復帰）。
   - [シドニーオリンピック](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")の[NHK中継テーマソング](../Page/NHKオリンピック歴代テーマソング.md "wikilink")「[Get U're Dream](../Page/Get_U're_Dream.md "wikilink")」を歌った[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")に出場を打診し、出場に前向きと報道されるも、[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")の体調の関係で実現しなかった\[19\]。
   - この年ブレイクし、この年下期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[オードリー](../Page/オードリー_\(テレビドラマ\).md "wikilink")』の主題歌「[Reach for the sky](../Page/Reach_for_the_sky.md "wikilink")」を担当した[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")も、これまで音楽番組に1度も出演していないことを理由に出場辞退\[20\]。
   - 当時[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")留学中の[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")に、現地からの中継を含めた出演プランを立てて出演要請したが、年末年始はレコーディングに専念したいことを理由に辞退した\[21\]。
@@ -212,8 +212,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦 公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)  - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦 公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)  - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")37年）（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:2000年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2000年の日本の音楽 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:2000年12月](https://ja.wikipedia.org/wiki/Category:2000年12月 "wikilink")
 

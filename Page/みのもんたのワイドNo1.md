@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    （ネット局：[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ラジオ大阪](../Page/大阪放送.md "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")）
+    （ネット局：[STVラジオ](../Page/STVラジオ.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ラジオ大阪](../Page/大阪放送.md "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")）
 
 <!-- end list -->
 

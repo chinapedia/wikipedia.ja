@@ -17,7 +17,7 @@
 
 ## 選手
 
-[Gatas Brilhantes H.P.に所属していない](../Page/Gatas_Brilhantes_H.P..md "wikilink")[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")と[美勇伝](../Page/美勇伝.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")解散）のメンバーから構成される。カッコ内は背番号。
+[Gatas Brilhantes H.P.に所属していない](../Page/Gatas_Brilhantes_H.P..md "wikilink")[モーニング娘。](../Page/モーニング娘。.md "wikilink")と[美勇伝](../Page/美勇伝.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")解散）のメンバーから構成される。カッコ内は背番号。
 
   - [田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")（1）※
   - [亀井絵里](../Page/亀井絵里.md "wikilink")（7）※

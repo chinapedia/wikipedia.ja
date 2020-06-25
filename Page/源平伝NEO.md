@@ -174,6 +174,6 @@
   - [伊勢平氏](../Page/伊勢平氏.md "wikilink") - [平氏](../Page/平氏.md "wikilink")の武家集団。いわゆる「平家」。
   - [奥州藤原氏](../Page/奥州藤原氏.md "wikilink")
 
-[Category:角川スニーカー文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー文庫 "wikilink") [Category:漫画作品_け](https://ja.wikipedia.org/wiki/Category:漫画作品_け "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:源義経を題材とした作品](https://ja.wikipedia.org/wiki/Category:源義経を題材とした作品 "wikilink") [Category:あかほりさとる](https://ja.wikipedia.org/wiki/Category:あかほりさとる "wikilink")
+[Category:あかほりさとる](https://ja.wikipedia.org/wiki/Category:あかほりさとる "wikilink") [Category:角川スニーカー文庫](https://ja.wikipedia.org/wiki/Category:角川スニーカー文庫 "wikilink") [Category:1998年の小説](https://ja.wikipedia.org/wiki/Category:1998年の小説 "wikilink") [Category:源義経を題材とした小説](https://ja.wikipedia.org/wiki/Category:源義経を題材とした小説 "wikilink") [Category:漫画作品_け](https://ja.wikipedia.org/wiki/Category:漫画作品_け "wikilink") [Category:1998年の漫画](https://ja.wikipedia.org/wiki/Category:1998年の漫画 "wikilink") [Category:月刊少年エースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年エースの漫画作品 "wikilink") [Category:源義経を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:源義経を題材とした漫画作品 "wikilink")
 
 1.  本作では正史に従い、前世の[源義経](../Page/源義経.md "wikilink")は[衣川館](../Page/衣川館.md "wikilink")で自害したという設定になっているため、[義経不死伝説は否定されている](https://ja.wikipedia.org/wiki/源義経#不死伝説 "wikilink")。

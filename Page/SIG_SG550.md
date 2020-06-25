@@ -5,7 +5,7 @@
 
 [AR-18](../Page/AR-18.md "wikilink")の影響を受けて登場した[欧州製アサルトライフルだが](../Page/ヨーロッパ.md "wikilink")、動作機構は[AK-47](../Page/AK-47.md "wikilink")を単純化させ、ガス・ピストンにリコイル・スプリングガイドを兼用させた独自の構造となっている。
 
-[スイス軍](https://ja.wikipedia.org/wiki/スイス軍 "wikilink")向けに60万丁以上が生産され、[SIG SG510とともに現在も採用されている](https://ja.wikipedia.org/wiki/:en:SIG_SG_510 "wikilink")。スイスでは、徴兵期間を終えた国民に[小銃](../Page/小銃.md "wikilink")を貸与しており、家庭での管理も許されていた。現在は事故防止のため[郵便局](../Page/郵便局.md "wikilink")などが一括管理をしている。本銃とその派生型は輸出も行われている。
+[スイス軍](https://ja.wikipedia.org/wiki/スイス軍 "wikilink")向けに60万丁以上が生産され、[SG510とともに現在も採用されている](https://ja.wikipedia.org/wiki/SIG_SG510 "wikilink")。スイスでは、徴兵期間を終えた国民に[小銃](../Page/小銃.md "wikilink")を貸与しており、家庭での管理も許されていた。現在は事故防止のため[郵便局](../Page/郵便局.md "wikilink")などが一括管理をしている。本銃とその派生型は輸出も行われている。
 
 ## 歴史と概要
 

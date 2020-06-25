@@ -65,7 +65,7 @@
   - [JR東京総合病院](../Page/JR東京総合病院.md "wikilink")
   - [JR仙台病院](https://ja.wikipedia.org/wiki/JR仙台病院 "wikilink")
   - [名古屋セントラル病院](../Page/名古屋セントラル病院.md "wikilink")
-  - [九州鉄道記念病院](https://ja.wikipedia.org/wiki/九州鉄道記念病院 "wikilink")
+  - [九州鉄道記念病院](../Page/九州鉄道記念病院.md "wikilink")
 
 ## 脚注
 

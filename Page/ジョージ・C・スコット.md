@@ -187,7 +187,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/王子と乞食_(映画)" title="wikilink">王子と乞食</a><br />
+<td><p><a href="../Page/王子と乞食_(映画).md" title="wikilink">王子と乞食</a><br />
 <em>Crossed Swords</em></p></td>
 <td><p>Ruffler</p></td>
 <td></td>

@@ -1307,7 +1307,7 @@
   -
   -
   -
-  - [久保田洋司ブログ「今日の出来心」](http://blog.goo.ne.jp/yoji_diary/) - [Gooブログ](../Page/Gooブログ.md "wikilink")
+  - [久保田洋司ブログ「今日の出来心」](https://blog.goo.ne.jp/yoji_diary) - [Gooブログ](../Page/Gooブログ.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:1983年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1983年に結成した音楽グループ "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1997年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に解散した音楽グループ "wikilink") [Category:2012年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に再結成した音楽グループ "wikilink")
 

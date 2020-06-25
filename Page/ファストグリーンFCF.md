@@ -11,7 +11,7 @@
 
 ## 脚注
 
-[Category:着色料](https://ja.wikipedia.org/wiki/Category:着色料 "wikilink") [Category:色素](https://ja.wikipedia.org/wiki/Category:色素 "wikilink") [Category:トリアリールメタン系色素](https://ja.wikipedia.org/wiki/Category:トリアリールメタン系色素 "wikilink") [Category:フェノール](https://ja.wikipedia.org/wiki/Category:フェノール "wikilink") [Category:ベンゼンスルホン酸](https://ja.wikipedia.org/wiki/Category:ベンゼンスルホン酸 "wikilink") [Category:アニリン](https://ja.wikipedia.org/wiki/Category:アニリン "wikilink")
+[Category:着色料](https://ja.wikipedia.org/wiki/Category:着色料 "wikilink") [Category:色素](https://ja.wikipedia.org/wiki/Category:色素 "wikilink") [Category:トリアリールメタン系色素](https://ja.wikipedia.org/wiki/Category:トリアリールメタン系色素 "wikilink") [Category:フェノール](https://ja.wikipedia.org/wiki/Category:フェノール "wikilink") [Category:ベンゼンスルホン酸](https://ja.wikipedia.org/wiki/Category:ベンゼンスルホン酸 "wikilink") [Category:スルホン酸塩](https://ja.wikipedia.org/wiki/Category:スルホン酸塩 "wikilink") [Category:アニリン](https://ja.wikipedia.org/wiki/Category:アニリン "wikilink") [Category:ナトリウムの化合物](https://ja.wikipedia.org/wiki/Category:ナトリウムの化合物 "wikilink")
 
 1.  厚生省「表5 食品添加物の年齢別摂取量」[マーケットバスケット方式による年齢層別食品添加物の一日摂取量の調査 （平成12年12月14日 厚生省）](http://www.ffcr.or.jp/zaidan/MHWinfo.nsf/98a5d7b766af9bfb492565a10020c601/1100115ac3d23fd7492569d800171034) （日本食品化学研究振興財団）
 2.  [FAST GREEN FCF](http://www.inchem.org/documents/jecfa/jecmono/v16je12.htm), JECFA

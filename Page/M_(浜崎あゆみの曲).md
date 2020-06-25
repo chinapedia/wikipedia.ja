@@ -11,7 +11,7 @@
 
 本人出演の[TU-KA](https://ja.wikipedia.org/wiki/TU-KA "wikilink")CMソングとして大量にオンエアされており、3ヶ月前に発売した『[Duty](../Page/Duty.md "wikilink")』「[SURREAL](../Page/SURREAL.md "wikilink")」のジャケットで披露し話題となっていた豹柄にちなんで、豹柄の携帯電話”限定あゆモデル”が発売された。
 
-16thシングル「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」以来半年ぶりとなる初動売上50万枚を突破し、当時人気絶頂の[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")「[恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")」を僅差で上回り、[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を2週連続で獲得。累計131.9万枚を売り上げた\[2\]。また、[20世紀](../Page/20世紀.md "wikilink")最後（2000年[12月25日](../Page/12月25日.md "wikilink")）と[21世紀](../Page/21世紀.md "wikilink")最初（2001年[1月1日](../Page/1月1日.md "wikilink")付）のシングルチャート1位獲得作品でもあった。[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは、[2001年](../Page/2001年.md "wikilink")度の年間7位\[3\]を獲得した。
+16thシングル「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」以来半年ぶりとなる初動売上50万枚を突破し、当時人気絶頂の[モーニング娘。](../Page/モーニング娘。.md "wikilink")「[恋愛レボリューション21](../Page/恋愛レボリューション21.md "wikilink")」を僅差で上回り、[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を2週連続で獲得。累計131.9万枚を売り上げた\[2\]。また、[20世紀](../Page/20世紀.md "wikilink")最後（2000年[12月25日](../Page/12月25日.md "wikilink")）と[21世紀](../Page/21世紀.md "wikilink")最初（2001年[1月1日](../Page/1月1日.md "wikilink")付）のシングルチャート1位獲得作品でもあった。[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink")（JASRAC）の著作権使用料分配額（国内作品）ランキングでは、[2001年](../Page/2001年.md "wikilink")度の年間7位\[3\]を獲得した。
 
 2001年[2月7日](../Page/2月7日.md "wikilink")には[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")などを収めた同名の[DVD](../Page/DVD.md "wikilink")シングルが発売された。
 

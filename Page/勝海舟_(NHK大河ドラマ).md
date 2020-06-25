@@ -1,7 +1,7 @@
 > この記事は[勝海舟 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/勝海舟_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**勝海舟**』（かつかいしゅう）は、[NHKが制作し](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1974年](../Page/1974年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[12月29日](../Page/12月29日.md "wikilink")に[総合テレビジョンで放送した](../Page/NHK総合テレビジョン.md "wikilink")12作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全52回。[子母沢寛の同名小説を原作に](../Page/子母澤寛.md "wikilink")[勝海舟](../Page/勝海舟.md "wikilink")の生涯を、海舟を取り巻く人々の人間模様を織り交ぜて描いた。
+『**勝海舟**』（かつかいしゅう）は、[NHKが制作し](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1974年](../Page/1974年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[12月29日](../Page/12月29日.md "wikilink")に[総合テレビジョンで放送した](../Page/NHK総合テレビジョン.md "wikilink")12作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全52回。[1946年](../Page/1946年.md "wikilink")に刊行された[子母沢寛の同名小説を原作に](../Page/子母澤寛.md "wikilink")、[勝海舟](../Page/勝海舟.md "wikilink")の生涯を、海舟を取り巻く人々の人間模様を織り交ぜて描いた。
 
 ## 概要
 
@@ -141,7 +141,7 @@
   - 目付：[八木光生](../Page/八木光生.md "wikilink")、[岸野一彦](../Page/岸野一彦.md "wikilink")
   - 家臣：[加藤正之](../Page/加藤正之.md "wikilink")
   - 都築源之助：松原正之介（現・[片岡功](https://ja.wikipedia.org/wiki/片岡功 "wikilink")）
-  - その他：東野孝彦（[東野英心](../Page/東野英心.md "wikilink")）、綿引洪（現・[綿引勝彦](../Page/綿引勝彦.md "wikilink")）、[風間杜夫](../Page/風間杜夫.md "wikilink")、[伊藤つかさ](../Page/伊藤つかさ.md "wikilink")、[宮部昭夫](../Page/宮部昭夫.md "wikilink")、[円谷文彦](../Page/円谷文彦.md "wikilink")、[絵沢萌子](https://ja.wikipedia.org/wiki/絵沢萌子 "wikilink")、[勝部演之](../Page/勝部演之.md "wikilink")、[大宮悌二](../Page/大宮悌二.md "wikilink")、[千葉繁](../Page/千葉繁.md "wikilink")、[藤城裕士](../Page/藤城裕士.md "wikilink")、松本敬通（現・[壤晴彦](../Page/壤晴彦.md "wikilink")）
+  - その他：東野孝彦（[東野英心](../Page/東野英心.md "wikilink")）、綿引洪（現・[綿引勝彦](../Page/綿引勝彦.md "wikilink")）、[風間杜夫](../Page/風間杜夫.md "wikilink")、[伊藤つかさ](../Page/伊藤つかさ.md "wikilink")、[宮部昭夫](../Page/宮部昭夫.md "wikilink")、[円谷文彦](../Page/円谷文彦.md "wikilink")、[絵沢萌子](https://ja.wikipedia.org/wiki/絵沢萌子 "wikilink")、[勝部演之](../Page/勝部演之.md "wikilink")、[大宮悌二](../Page/大宮悌二.md "wikilink")、[千葉繁](../Page/千葉繁.md "wikilink")、[藤城裕士](../Page/藤城裕士.md "wikilink")、松本敬通（現・[壤晴彦](../Page/壤晴彦.md "wikilink")）、[古川慎](../Page/古川慎_\(俳優\).md "wikilink")
 
 ## スタッフ
 
@@ -163,7 +163,7 @@
 
 ## 放送
 
-特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](http://www.nhk.or.jp/archives/chronicle/)で確認。
+特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/)で確認。
 
 ### 通常放送時間
 
@@ -532,7 +532,7 @@
 
 [映画監督](../Page/映画監督.md "wikilink")の[中島貞夫](../Page/中島貞夫.md "wikilink")の著書『遊撃の美学 - 映画監督中島貞夫』では、渡が病気になると倉本は[東京大学文学部](https://ja.wikipedia.org/wiki/東京大学文学部 "wikilink")の同級生で親友である中島に「時代劇を背負えるやつが誰かおらんか」と相談し\[49\]、中島はこの頃仕事に恵まれず、空いていた松方を倉本に推薦\[50\]。NHKへ行く松方に中島は付き添い、「じゃあ弘樹ちゃんでいこう」と代役が決まった\[51\]、中島は「帰ってくる時に（主演）映画を一本用意しておく」と松方に約束した、と書かれている。 中島は著書で「この頃仕事に恵まれず、空いていた松方」と書いているが、松方は先述のようにこの頃忙しかったのであり、中島の記憶違いが見られる。何より中島は1967年に東映を退社してフリーになっており\[52\]\[53\]、フリーの一監督で『勝海舟』とは何の関係もない中島が、著書に書いている中島と松方が二人でNHKへ行って『大河ドラマ』の主役交代という重要事案を二人、あるいはNHKと三者で決めたというのは考えにくい。松方は東映専属の俳優ではなく岡田茂の個人預かりの俳優だった\[54\]\[55\]。先の倉本の著書やインタビュー、『日本経済新聞』の連載、松方の手記、著書などにも中島は出てこない。
 
-神経質でひ弱な海舟が出来あがり\[56\]、松方は放送終了後「NHKはモノをつくるところじゃない」などと発言して物議を醸した\[57\]。松方が[仁科明子](https://ja.wikipedia.org/wiki/仁科明子 "wikilink")と恋仲になるのは、このドラマで夫婦役を演じてからであるが、松方は当時既婚者で、仁科の父である[岩井半四郎](../Page/岩井半四郎.md "wikilink")が激怒し、マスコミを賑わせたものの、彼らの知名度が上がることにつながっている\[58\]\[59\]。 倉本は週刊誌の記事を巡ってドラマのスタッフとこじれ[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")へ飛び、そのまま北海道に転居\[60\]\[61\]。この後は北海道を舞台とした多くのドラマを手掛けることになる\[62\]\[63\]。
+神経質でひ弱な海舟が出来あがり\[56\]、松方は放送終了後「NHKはモノをつくるところじゃない」などと発言して物議を醸した\[57\]。松方が[仁科明子](https://ja.wikipedia.org/wiki/仁科明子 "wikilink")と恋仲になるのは、このドラマで共演したからであるが、松方は当時既婚者で、仁科の父である[岩井半四郎](../Page/岩井半四郎.md "wikilink")が激怒し、マスコミを賑わせたものの、彼らの知名度が上がることにつながっている\[58\]\[59\]。 倉本は週刊誌の記事を巡ってドラマのスタッフとこじれ[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")へ飛び、そのまま北海道に転居\[60\]\[61\]。この後は北海道を舞台とした多くのドラマを手掛けることになる\[62\]\[63\]。
 
 ## 脚注
 
@@ -549,7 +549,7 @@
   - [大河ドラマ　勝海舟 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010185_00000)
   - \[<https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga035>　番組エピソード 大河ドラマ『勝海舟』　-NHKアーカイブス\]
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1974年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1974年のテレビドラマ "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:子母澤寛](https://ja.wikipedia.org/wiki/Category:子母澤寛 "wikilink") [Category:倉本聰脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:倉本聰脚本のテレビドラマ "wikilink") [Category:勝海舟](https://ja.wikipedia.org/wiki/Category:勝海舟 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1974年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1974年のテレビドラマ "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:幕末を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:幕末を舞台としたテレビドラマ "wikilink") [Category:子母澤寛](https://ja.wikipedia.org/wiki/Category:子母澤寛 "wikilink") [Category:倉本聰脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:倉本聰脚本のテレビドラマ "wikilink") [Category:勝海舟](https://ja.wikipedia.org/wiki/Category:勝海舟 "wikilink")
 
 1.
 2.

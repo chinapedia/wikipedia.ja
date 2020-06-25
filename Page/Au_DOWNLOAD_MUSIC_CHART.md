@@ -145,7 +145,7 @@
 ## 関連項目
 
   - [カウントダウンステーション](../Page/カウントダウンステーション.md "wikilink")
-  - [学校の英雄](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#SCHOOL_OF_LOCK!_FRIDAY "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")「[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")」の金曜版「SCHOOL OF LOCK\! FRIDAY」内。[au提供で](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、SCHOOL OF LOCK\!のオンエア楽曲に限定した同様のランキングを発表している）
+  - [学校の英雄](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK!#SCHOOL_OF_LOCK!_FRIDAY "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")「[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")」の金曜版「SCHOOL OF LOCK\! FRIDAY」内。[au提供で](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、SCHOOL OF LOCK\!のオンエア楽曲に限定した同様のランキングを発表している）
 
 ## 外部リンク
 

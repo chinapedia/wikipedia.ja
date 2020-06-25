@@ -3,7 +3,7 @@
 
 **Microsoft Update**（マイクロソフト アップデート）は[マイクロソフト](../Page/マイクロソフト.md "wikilink")が提供する[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Microsoft Officeなどの](../Page/Microsoft_Office.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")、および[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")の[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")と更新を行うための[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。主に[セキュリティ更新や](../Page/セキュリティホール.md "wikilink")[バグ](../Page/バグ.md "wikilink")修正等が行われる。
 
-**Windows Update**（ウィンドウズ アップデート）はMicrosoft Updateの機能のうちWindows関連のみに限定されたものである。具体的にはWindows自身やWindowsに含まれるソフトウェア（[Internet Explorerや](../Page/Internet_Explorer.md "wikilink")[Windows Media Playerなど](../Page/Windows_Media_Player.md "wikilink")）、デバイスドライバの更新を行える。
+**Windows Update**（ウィンドウズ アップデート）はMicrosoft Updateの機能のうちWindows関連のみに限定されたものである。具体的にはWindows自身やWindowsに含まれるソフトウェア（[Microsoft Edgeや](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")[Windows Media Playerなど](../Page/Windows_Media_Player.md "wikilink")）、デバイスドライバの更新を行える。
 
 [2006年](../Page/2006年.md "wikilink")7月から、Windows Updateは[Windows XP及びその後継の](../Page/Microsoft_Windows_XP.md "wikilink")[OSの標準の更新サービス](../Page/オペレーティングシステム.md "wikilink")、Microsoft Updateはオプションのサービスという扱いになった。
 

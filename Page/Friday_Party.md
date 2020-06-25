@@ -38,4 +38,4 @@
 
 ## 出典
 
-[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:AAAの楽曲](https://ja.wikipedia.org/wiki/Category:AAAの楽曲 "wikilink") [Category:富樫明生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:富樫明生が制作した楽曲 "wikilink") [Category:音楽戦士_MUSIC_FIGHTER](https://ja.wikipedia.org/wiki/Category:音楽戦士_MUSIC_FIGHTER "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:AAAの楽曲](https://ja.wikipedia.org/wiki/Category:AAAの楽曲 "wikilink") [Category:富樫明生が制作した楽曲](https://ja.wikipedia.org/wiki/Category:富樫明生が制作した楽曲 "wikilink") [Category:音楽戦士_MUSIC_FIGHTER](https://ja.wikipedia.org/wiki/Category:音楽戦士_MUSIC_FIGHTER "wikilink") [Category:曜日を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:曜日を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

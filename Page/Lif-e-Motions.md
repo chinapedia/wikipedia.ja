@@ -15,34 +15,49 @@
 
 ### Disc 1
 
-曲名後の（　）内は、作詞 / 作曲。
-
-1.  **Good day, Sunshine**（NAHO / JUNKOO）
+1.  **Good day, Sunshine**
       -
+        作詞：NAHO / 作曲：JUNKOO
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")』エンディング・テーマ
-2.  **Everlasthings**（Sachiko Shimada / Yasunori Masuda）
-3.  **[Where to begin](https://ja.wikipedia.org/wiki/Where_to_begin "wikilink")**（Miyako Kawahara / Kazuhiro Hara）
+2.  **Everlasthings**
       -
+        作詞：Sachiko Shimada / 作曲：Yasunori Matsuda
+3.  **[Where to begin](https://ja.wikipedia.org/wiki/Where_to_begin "wikilink")**
+      -
+        作詞：Miyako Kawahara / 作曲：[Kazuhiro Hara](../Page/原一博.md "wikilink")
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』1月エンディング・テーマ
         復活第1弾シングル。
-4.  **You & me**（Miyako Kawahara / Junjiro Seki）
-5.  **Precious**（Junya Urushino / Takehiro Iida）
+4.  **You & me**
       -
+        作詞：Miyako Kawahara / 作曲：Junjiro Seki
+5.  **Precious**
+      -
+        作詞：Junya Urushino / 作曲：Takehiro Iida
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[2ndハウス](../Page/2ndハウス.md "wikilink")』エンディング・テーマ
-6.  **As it is**（YU-KI, Hideki Naruse / Hideki Naruse）
-7.  **Urbanature** （Sachiko Shimada / Satoshi Shimano）
-8.  **Signal Theta**（ - / [WILL](../Page/WILL_\(バンド\).md "wikilink")）
+6.  **As it is**
       -
+        作詞：YU-KI, Hideki Naruse / 作曲：Hideki Naruse
+7.  **Urbanature**
+      -
+        作詞：Sachiko Shimada / 作詞：Satoshi Shimano
+8.  **Signal Theta**
+      -
+        作曲：[WILL](../Page/WILL_\(バンド\).md "wikilink")
         インスト曲。
-9.  **Life signs again**（HIDE from Dt., Shigeco Ogula / Rio from SaGa）
+9.  **Life signs again**
       -
+        作詞：HIDE from Dt., Shigeco Ogula / 作曲：Rio from SaGa
         [ミュゥモ](../Page/ミュゥモ.md "wikilink") TV-CFソング、結婚情報サービス『サンマリエ』CMソング
-10. **Be ever wonderful**（DJ KOO / YU-KI, DJ KOO）
-11. **One Nation**（Ken Harada, Maki Mihara / TETSUYA KOMURO）
+10. **Be ever wonderful**
       -
+        作詞：DJ KOO / 作曲：YU-KI, DJ KOO
+11. **One Nation**
+      -
+        作詞：Ken Harada, Maki Mihara / 作曲：[TETSUYA KOMURO](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")）
         [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に起きた[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")を受けて小室哲哉と[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")が立ち上げた[チャリティー](../Page/チャリティー.md "wikilink")・プロジェクト「song+nation」参加曲。2000年代初頭は主に目立った楽曲制作はしておらず、2000年に入ってからの唯一の新曲でもある。
-12. **ENGAGED '06**（TETSUYA KOMURO / TETSUYA KOMURO）
+12. **ENGAGED '06**
       -
+        作詞・作曲：TETSUYA KOMURO
         大ヒットアルバム『[dAnce to positive](https://ja.wikipedia.org/wiki/dAnce_to_positive "wikilink")』収録曲の2006年版。歌詞カードに歌詞が記載されていない。
 13. **DANCE LOOP 4（CD+DVD盤のみ）**
 14. **DANCE LOOP 5（CD+DVD盤のみ）**

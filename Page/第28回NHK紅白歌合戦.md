@@ -66,6 +66,7 @@
       - 紅組:[梓みちよ](../Page/梓みちよ.md "wikilink")・[伊藤咲子](../Page/伊藤咲子.md "wikilink")・[研ナオコ](../Page/研ナオコ.md "wikilink")\[1\]・[藤圭子](../Page/藤圭子.md "wikilink")・[二葉百合子](../Page/二葉百合子.md "wikilink")
       - 白組:[あおい輝彦](https://ja.wikipedia.org/wiki/あおい輝彦 "wikilink")・[堺正章](../Page/堺正章.md "wikilink")・[ダークダックス](https://ja.wikipedia.org/wiki/ダーク・ダックス "wikilink")・[殿さまキングス](../Page/殿さまキングス.md "wikilink")・[橋幸夫](../Page/橋幸夫.md "wikilink")・[フォーリーブス](https://ja.wikipedia.org/wiki/フォーリーブス "wikilink")
   - [美空ひばり](../Page/美空ひばり.md "wikilink")は例年通り辞退。この年『[ビッグショー](../Page/ビッグショー_\(テレビ番組\).md "wikilink")』に4年ぶりに出演を果たしNHKと雪解けが噂され、番組側はカムバックを熱心に要請したが、ひばりが「他の番組はともかく紅白は卒業した。私が出ると泣く人が2人出る。1人目は次点の落選者、2人目は紅組トリを取る人」として打診を断った。
+  - [さだまさし](../Page/さだまさし.md "wikilink")はこの年ヒットした「[雨やどり](../Page/雨やどり_\(さだまさしの曲\).md "wikilink")」で出場の打診を受けていたが、当時の紅白ではフル・コーラスを歌うことができないという理由で辞退したという\[2\]。
 
 ### 演奏
 
@@ -141,9 +142,10 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1977年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1977年のテレビ番組_\(日本\) "wikilink") [Category:1977年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1977年のラジオ番組_\(日本\) "wikilink") [Category:1977年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1977年の日本の音楽 "wikilink") [Category:1977年12月](https://ja.wikipedia.org/wiki/Category:1977年12月 "wikilink")
 
 1.  この年、大麻所持取締違反（のち起訴猶予処分）による不祥事で芸能活動自粛中のため。
+2.  [さだまさし　幻の紅白初出場明かす、2年後にひばりさんの“鶴の一声”「関白宣言」を歌唱](https://www.sponichi.co.jp/entertainment/news/2020/05/24/kiji/20200524s00041000366000c.html)、[スポニチ Sponichi Annex](../Page/スポーツニッポン.md "wikilink")、2020年5月24日 22時17分。

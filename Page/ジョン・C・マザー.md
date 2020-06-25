@@ -3,7 +3,7 @@
 
 ` `
 
-**ジョン・クロムウェル・マザー**（*John Cromwell Mather*、[1946年](../Page/1946年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")・[ロアノーク](../Page/ロアノーク_\(バージニア州\).md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[天体物理学](../Page/天体物理学.md "wikilink")者であり[宇宙論](../Page/宇宙論.md "wikilink")学者である。
+**ジョン・クロムウェル・マザー**（John Cromwell Mather、[1946年](../Page/1946年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[バージニア州](../Page/バージニア州.md "wikilink")[ロアノーク出身の](../Page/ロアノーク_\(バージニア州\).md "wikilink")[天体物理学](../Page/天体物理学.md "wikilink")者であり[宇宙論](../Page/宇宙論.md "wikilink")学者である。
 
 マザーは[メリーランド州](../Page/メリーランド州.md "wikilink")の[NASA](../Page/アメリカ航空宇宙局.md "wikilink")[ゴダード宇宙飛行センター](../Page/ゴダード宇宙飛行センター.md "wikilink")の上級天体物理学者で、[メリーランド大学](https://ja.wikipedia.org/wiki/メリーランド大学 "wikilink")の準教授である。マザーは[黒体](../Page/黒体.md "wikilink")形状の発見と[宇宙マイクロ波背景放射](../Page/宇宙マイクロ波背景放射.md "wikilink")の異方性の発見や人工衛星[COBE](../Page/COBE.md "wikilink")（宇宙背景放射探査機）で[ビッグバン](../Page/ビッグバン.md "wikilink")理論を具体化するのを助けた業績で[ジョージ・F・スムートとともに](../Page/ジョージ・スムート.md "wikilink")[2006年](../Page/2006年.md "wikilink")[ノーベル物理学賞](../Page/ノーベル物理学賞.md "wikilink")受賞者に選ばれた\[1\]。
 
@@ -17,7 +17,9 @@
 
 ### COBE参加
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:COBE_cmb_fluctuations.png "wikilink") NRCフェローとして、[ゴダード宇宙科学研究所](https://ja.wikipedia.org/wiki/ゴダード宇宙科学研究所 "wikilink")に在籍（1974～76）、そこでCOBE開発、推進を提唱した。 [COBE](../Page/COBE.md "wikilink")が成功したのは、1000人以上の調査員、技術者などの大規模なチームワークの賜物である。ジョン・マザーは全体を統括し、COBEが観測した極超短波背景輻射の黒体放射を明らかにした中心的な役割も担った。ジョージ・スムートは輻射の温度に微妙な違いがあることを主に計測していた。\[2\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:COBE_cmb_fluctuations.png "wikilink") NRCフェローとして、[ゴダード宇宙科学研究所](https://ja.wikipedia.org/wiki/ゴダード宇宙科学研究所 "wikilink")に在籍（1974～76）、そこでCOBE開発、推進を提唱した。
+
+[COBE](../Page/COBE.md "wikilink")が成功したのは、1000人以上の調査員、技術者などの大規模なチームワークの賜物である。ジョン・マザーは全体を統括し、COBEが観測した極超短波背景輻射の黒体放射を明らかにした中心的な役割も担った。ジョージ・スムートは輻射の温度に微妙な違いがあることを主に計測していた。\[2\]
 
 ## 著書
 

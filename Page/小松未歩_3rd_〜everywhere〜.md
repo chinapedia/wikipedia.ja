@@ -5,7 +5,7 @@
 
 ## 内容
 
-  - サブタイトルのeverywhereは「いつも近くに感じてほしい」という気持ちからつけられた。\[1\]
+  - サブタイトルのeverywhereは「いつも近くに感じてほしい」という気持ちからつけられた\[1\]。
   - 「[さよならのかけら](../Page/さよならのかけら.md "wikilink")」から「[風がそよぐ場所](../Page/風がそよぐ場所.md "wikilink")」までの3作のシングル曲などを収録した3枚目のアルバム。なお、本作から[2002年](../Page/2002年.md "wikilink")の『[小松未歩 5 〜source〜](../Page/小松未歩_5_〜source〜.md "wikilink")』までは[セルフカバー](../Page/セルフカバー.md "wikilink")が収録されない。
   - [GIZA studio移籍後初のアルバムであり](../Page/GIZA_studio.md "wikilink")、「さよならのかけら」「BOY FRIEND」など[Amemura O-town Record在籍時代に発表された楽曲も収録されている](../Page/Amemura_O-town_Record.md "wikilink")。
   - 外装はスリーブケース仕様、裏ジャケットはクリアシートなど、パッケージ加工に凝っている。歌詞カードは1枚の紙に記載されており、広げると裏面がジャケット写真のミニポスターとなっている。
@@ -25,7 +25,8 @@
         出版者:[日音](../Page/日音.md "wikilink")、ギザミュージック
 2.  **BEAUTIFUL LIFE**　編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
       -
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列\[2\][朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")『[やじうまワイド](../Page/やじうまワイド.md "wikilink")』テーマソング。アルバム発売時にビデオクリップが制作されており、小松未歩の全作品で初めて、本人が歌う姿を収録した映像を使用していた（なお、シングルで初めて歌う姿を披露したのは「[あなたがいるから](../Page/あなたがいるから_\(小松未歩の曲\).md "wikilink")」である）。小松の作品のジャケットなどでよく見られる、後頭部で髪をまとめた姿ではなく、髪を下ろしたショートヘアの姿で収録されている。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")『[やじうまワイド](../Page/やじうまワイド.md "wikilink")』テーマソング。アルバム発売時にビデオクリップが制作されており、小松未歩の全作品で初めて、本人が歌う姿を収録した映像を使用していた（なお、シングルで初めて歌う姿を披露したのは「[あなたがいるから](../Page/あなたがいるから_\(小松未歩の曲\).md "wikilink")」である）。小松の作品のジャケットなどでよく見られる、後頭部で髪をまとめた姿ではなく、髪を下ろしたショートヘアの姿で収録されている。
+        [新星堂](../Page/新星堂.md "wikilink")の新譜情報「SOUND CUE」2000年2月号では、『「やじうまワイド」テーマソング（1/3よりオンエア）「HAPPY HOLID***E***AYS」』（原文ママ）と、異なる曲名で紹介されていた。
         出版者:[テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")、ギザミュージック
 3.  **As**　編曲:葉山たけし
       -
@@ -37,7 +38,7 @@
         出版者:ギザミュージック
 5.  **sickness**　編曲:葉山たけし
       -
-        サビ以外の部分が[Billy Joelの](../Page/ビリー・ジョエル.md "wikilink")「Don't Ask Me Why」と酷似している。なお、小松は、幼少時代より兄が好きな曲をテープでいつも聴いていた影響で、成長とともに自らBilly Joelに興味を持つようになったと述べている。\[3\]また、フリーペーパー『Music Freak Magazine（2000年1月号）』（[エムアールエム](../Page/エムアールエム.md "wikilink")）の特集“90年代もっともよく聴いたアルバムTOP5”で、小松は、Billy Joelの『[GREATEST HITS VOLUME I & VOLUME II](https://ja.wikipedia.org/wiki/ビリー・ザ・ベスト "wikilink")』を1位にあげている。\[4\]
+        サビ以外の部分が[Billy Joelの](../Page/ビリー・ジョエル.md "wikilink")「Don't Ask Me Why」と酷似している。なお、小松は、幼少時代より兄が好きな曲をテープでいつも聴いていた影響で、成長とともに自らBilly Joelに興味を持つようになったと述べている\[2\]。また、フリーペーパー『Music Freak Magazine（2000年1月号）』（[エムアールエム](../Page/エムアールエム.md "wikilink")）の特集“90年代もっともよく聴いたアルバムTOP5”で、小松は、Billy Joelの『[GREATEST HITS VOLUME I & VOLUME II](https://ja.wikipedia.org/wiki/ビリー・ザ・ベスト "wikilink")』を1位にあげている。
         出版者:ギザミュージック
 6.  **No time to fall**　編曲:古井弘人
       -
@@ -72,7 +73,7 @@
   - [綿貫正顕](../Page/綿貫正顕.md "wikilink")（WAXX） - ギター(\#9）
   - [渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink")（[SPECTRUM](../Page/スペクトラム_\(日本のバンド\).md "wikilink")・[AB'S](../Page/AB'S.md "wikilink")） - ベース（\#2,\#3,\#5）
   - [小野塚晃](../Page/小野塚晃.md "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - アコースティックピアノ＆オルガン（\#3)、エレクトリックピアノ（\#5）
-  - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")（[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")・[Mi-Ke](../Page/Mi-Ke.md "wikilink")） - コーラス\[5\]
+  - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")（[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")・[Mi-Ke](../Page/Mi-Ke.md "wikilink")） - コーラス
 
 ## [lyrics](https://ja.wikipedia.org/wiki/lyrics_\(小松未歩のアルバム\) "wikilink") 収録曲
 
@@ -80,7 +81,11 @@
   - BOY FRIEND
   - 夢と現実の狭間
 
-## 出典・脚注
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 関連項目
 
@@ -92,7 +97,4 @@
 [Category:GIZA_studioのアルバム](https://ja.wikipedia.org/wiki/Category:GIZA_studioのアルバム "wikilink") [Category:小松未歩のアルバム](https://ja.wikipedia.org/wiki/Category:小松未歩のアルバム "wikilink") [Category:長戸大幸プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:長戸大幸プロデュースのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")
 
 1.  artist express 小松未歩“『everywhere』は「いつも近くに感じてほしい」という気持ちからつけられたタイトルだ。「愛とか地球とか…を一言で表せる言葉を探していたら、なんとなくeverywhereは、すべてを含んでいる優しい響きだなぁと思ったので、このアルバムのサブタイトルとして入れました。」”『[JUNON](../Page/JUNON.md "wikilink") （2000年4月号）』、[主婦と生活社](../Page/主婦と生活社.md "wikilink")。
-2.  但し、小松の活動拠点である近畿[広域圏の](../Page/広域放送.md "wikilink")[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")では[ネットされていなかった](../Page/ネットワーク_\(放送\).md "wikilink")。
-3.  artist express 小松未歩“そして成長とともに、[ワム](../Page/ワム!.md "wikilink")、[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")、[スティービー・ワンダーといったアーチストたちにも](../Page/スティーヴィー・ワンダー.md "wikilink")、自ら興味を持つようになる。”『[JUNON](../Page/JUNON.md "wikilink") （2000年4月号）』、[主婦と生活社](../Page/主婦と生活社.md "wikilink")。
-4.  Billy Joelの『GREATEST HITS VOLUME I & VOLUME II』は、日本盤・米国初回盤と米国通常盤で収録曲が1曲だけ異なる。異なる収録曲は、日本盤・米国初回盤が「[Honesty](https://ja.wikipedia.org/wiki/オネスティ "wikilink")」に対し、米国通常盤は「Don't Ask Me Why」。小松がどの盤を愛聴していたのか記述はないが、本アルバム発売直前や直後に、Billy Joelを愛聴していたと述べていることより、「Don't Ask Me Why」のオマージュとして「sickness」を制作したと解するのが相当である。
-5.  [1stアルバムから](../Page/謎_\(アルバム\).md "wikilink")[4thアルバムまではSecil](../Page/小松未歩_4_〜A_thousand_feelings〜.md "wikilink") Minami名義で参加していたが、[6thアルバムでは宇徳敬子名義で参加](../Page/小松未歩_6th_〜花野〜.md "wikilink")。
+2.  artist express 小松未歩“そして成長とともに、[ワム](../Page/ワム!.md "wikilink")、[ビリー・ジョエル](../Page/ビリー・ジョエル.md "wikilink")、[スティービー・ワンダーといったアーチストたちにも](../Page/スティーヴィー・ワンダー.md "wikilink")、自ら興味を持つようになる。”『[JUNON](../Page/JUNON.md "wikilink") （2000年4月号）』、[主婦と生活社](../Page/主婦と生活社.md "wikilink")。

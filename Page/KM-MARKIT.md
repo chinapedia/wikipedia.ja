@@ -204,6 +204,12 @@
 
 ・”Levanter -Japanese Ver.-” (2020) /日本語詞作詞
 
+・”TOP -Japanese Ver.-” (2020) /日本語詞作詞
+
+・”SLUMP -Japanese Ver.-” (2020) /日本語詞作詞
+
+
+
 ## 関連項目
 
   - [防弾少年団](https://ja.wikipedia.org/wiki/防弾少年団 "wikilink")

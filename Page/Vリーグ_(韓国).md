@@ -53,8 +53,7 @@
 | 13 | [2016-2017](https://ja.wikipedia.org/wiki/韓国Vリーグ2016-2017 "wikilink") | 現代キャピタル                                                               | IBK企業銀行アルトス                                                              |
 | 14 | [2017-2018](https://ja.wikipedia.org/wiki/韓国Vリーグ2017-2018 "wikilink") | 仁川大韓航空ジャンボス                                                           | 慶北金泉ハイパス                                                                 |
 | 15 | [2018-2019](https://ja.wikipedia.org/wiki/韓国Vリーグ2018-2019 "wikilink") | 現代キャピタル                                                               | 興国生命                                                                     |
-| 16 | [2019-2020](https://ja.wikipedia.org/wiki/韓国Vリーグ2019-2020 "wikilink") | シーズン途中終了によりなし                                                         | シーズン途中終了によりなし                                                            |
-|    |                                                                       |                                                                       |                                                                          |
+| 16 | [2019-2020](https://ja.wikipedia.org/wiki/韓国Vリーグ2019-2020 "wikilink") | （シーズン途中終了によりなし）                                                       | （シーズン途中終了によりなし）                                                          |
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[AMBITIOUS JAPAN!](https://ja.wikipedia.org/wiki/AMBITIOUS_JAPAN!)から翻訳されています。
 
 
-[thumbにて](https://ja.wikipedia.org/wiki/ファイル:700-bf.JPG "wikilink")\]\] 「**AMBITIOUS JAPAN\!**」（アンビシャス ジャパン\!）は、[TOKIO](../Page/TOKIO.md "wikilink")の楽曲。通算28作目の[シングル](../Page/シングル.md "wikilink")として[2003年](../Page/2003年.md "wikilink")（平成15年）[10月1日](../Page/10月1日.md "wikilink")に[ユニバーサル ミュージック（ユニバーサルJレーベル）から発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+[thumbにて](https://ja.wikipedia.org/wiki/ファイル:700-bf.JPG "wikilink")\]\] 「**AMBITIOUS JAPAN\!**」（アンビシャス ジャパン\!）は、[TOKIO](../Page/TOKIO.md "wikilink")の楽曲。通算28作目の[シングル](../Page/シングル.md "wikilink")として[2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[ユニバーサル ミュージック（ユニバーサルJレーベル）から発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 [オリコンチャート](../Page/オリコンチャート.md "wikilink")初登場で首位を獲得し、同チャートでの首位獲得は通算3作目、前作「[ding-dong/glider](https://ja.wikipedia.org/wiki/ding-dong/glider "wikilink")」に続き、2作連続での首位獲得であった。
 

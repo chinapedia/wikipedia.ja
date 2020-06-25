@@ -148,7 +148,7 @@
   - [TVとWEBでつながる！ビタペディア](https://eonet.jp/vitapedia/) eo光テレビで放送中のレギュラー番組。
 
   -
-[Category:日本の男女お笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本の男女お笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink")
+[Category:日本の男女お笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本の男女お笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:兄弟姉妹の二人](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の二人 "wikilink")
 
 1.  [吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")企業情報室　『[マンスリーよしもと](../Page/マンスリーよしもと.md "wikilink")』2009年5月号、吉本音楽出版、2009年。
 2.  [卒業生インタビュー](http://www.mukogawa-u.ac.jp/~hi/job/interview/interview02.html)　武庫川女子大学。

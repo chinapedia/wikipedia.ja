@@ -1,7 +1,7 @@
 > この記事は[I HAVE NEVER SEEN](https://ja.wikipedia.org/wiki/I_HAVE_NEVER_SEEN)から翻訳されています。
 
 
-「**I HAVE NEVER SEEN**」（アイ・ハヴ・ネヴァー・シーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では12枚目の[シングル](../Page/シングル.md "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+「**I HAVE NEVER SEEN**」（アイ・ハヴ・ネヴァー・シーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では12枚目の[シングル](../Page/シングル.md "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が1年間の産休から復帰した後の第1弾シングルであり、産休復帰の約1週間前に発売された。
 
 ## 解説
 

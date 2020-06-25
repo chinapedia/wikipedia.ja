@@ -1,19 +1,21 @@
 > この記事は[VEIGUES](https://ja.wikipedia.org/wiki/VEIGUES)から翻訳されています。
 
 
-『**VEIGUES**』（ヴェイグス）は、[1988年](../Page/1988年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に日本の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")から発売された[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")mkIISR以降の機種対応の[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
+『**VEIGUES**』（ヴェイグス）は、[1988年](../Page/1988年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に日本の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")から発売された[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")mkIISR以降の機種対応の
+
+オリジナルロボット[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 
 西暦2321年を舞台に、自機「ヴェイグス」を操作し敵である「ミズガルズサーペント」を倒し地球を救出する事を目的としたゲーム。
 
 開発はゲームアーツが行い、同社のゲームソフト『ゼリアード』（1988年）を手掛けた竹内誠と、『[テグザー](../Page/テグザー.md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）を手掛けた上坂哲がシナリオを担当、パッケージイラストは[末弥純](../Page/末弥純.md "wikilink")が担当した。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には冗長気味だったステージを短縮して[PCエンジン](../Page/PCエンジン.md "wikilink")に移植された。発売は[ビクター音楽産業だが開発はビッツラボラトリーが行った](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。PCエンジン版は北米においては『*Veigues: Tactical Gladiator*』のタイトルで発売された。PC-8801版は[2003年](../Page/2003年.md "wikilink")に[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には冗長気味だったステージを短縮して[PCエンジン](../Page/PCエンジン.md "wikilink")に移植された。発売は[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（現在は[マーベラス](../Page/マーベラス_\(企業\).md "wikilink")）だが開発はビッツラボラトリーが行った。PCエンジン版は北米においては『*Veigues: Tactical Gladiator*』のタイトルで発売された。PC-8801版は[2003年](../Page/2003年.md "wikilink")に[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")にて配信された。
 
 ## ゲーム内容
 
 ### システム
 
-ゲーム自体は、サイドビュータイプの強制横スクロール[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")に分類される。ただ、同社の高度なプログラミング技術によって、当時のパソコンゲームとしては極端に大きなキャラクターが画面上を激しく動き回る点で画期的とされた。しかし同社作品の他の例に漏れず難易度は高く設定されていた。
+オリジナルロボットの操作ですか、ゲーム自体の内容はサイドビュータイプの強制横スクロール[アクション](../Page/アクションゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")に分類される。ただ、同社の高度なプログラミング技術によって、当時のパソコンゲームとしては極端に大きなキャラクターが画面上を激しく動き回る点で画期的とされた。しかし同社作品の他の例に漏れず難易度は高く設定されていた。
 
 ヴェイグスは通常、地面の上をローラーダッシュしており、左右キーで前後に移動、ジャンプと下キーを入れた際に方向転換する。クイックターン時には[当たり判定](https://ja.wikipedia.org/wiki/当たり判定 "wikilink")がなくなるので、これを利用して敵の攻撃を回避するのがプレイの基本である。なお、ローラーダッシュせずに通常歩行することはできない。
 

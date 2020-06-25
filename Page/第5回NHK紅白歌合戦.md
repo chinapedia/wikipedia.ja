@@ -84,7 +84,7 @@
   -
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1954年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1954年のテレビ番組_\(日本\) "wikilink") [Category:1954年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1954年のラジオ番組_\(日本\) "wikilink") [Category:1954年の音楽](https://ja.wikipedia.org/wiki/Category:1954年の音楽 "wikilink") [Category:1954年12月](https://ja.wikipedia.org/wiki/Category:1954年12月 "wikilink")
 

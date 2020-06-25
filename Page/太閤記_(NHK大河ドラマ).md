@@ -1,7 +1,7 @@
 > この記事は[太閤記 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/太閤記_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**太閤記**』（たいこうき）は、[1965年](../Page/1965年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")から[12月26日](../Page/12月26日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")3作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
+『**太閤記**』（たいこうき）とは[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1965年](../Page/1965年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")から[12月26日](../Page/12月26日.md "wikilink")まで放送した第3[大河ドラマ](../Page/大河ドラマ.md "wikilink")。
 
 ## 概要
 
@@ -226,7 +226,7 @@
 
 ## 放送
 
-特記が無い限り\[<http://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
+特記が無い限り\[<https://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
 
 ### 通常放送時間
 
@@ -339,7 +339,7 @@
 
   - \[<https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010118_00000>　大河ドラマ　太閤記 - NHK名作選(動画・静止画) NHKアーカイブス\]
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1965年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1965年のテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:吉川英治原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉川英治原作のテレビドラマ "wikilink") [Category:豊臣秀吉を題材とした作品](https://ja.wikipedia.org/wiki/Category:豊臣秀吉を題材とした作品 "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1965年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1965年のテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:吉川英治原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉川英治原作のテレビドラマ "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:豊臣秀吉を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:豊臣秀吉を題材としたテレビドラマ "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
 
 1.
 2.

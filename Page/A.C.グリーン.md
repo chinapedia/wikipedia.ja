@@ -1,7 +1,7 @@
 > この記事は[A.C.グリーン](https://ja.wikipedia.org/wiki/A.C.グリーン)から翻訳されています。
 
 
-**A.C.グリーン**（**A.C. Green Jr.**、[1963年](../Page/1963年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オレゴン州](../Page/オレゴン州.md "wikilink")[ポートランド出身の元](../Page/ポートランド_\(オレゴン州\).md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手。ファーストネームの "A.C." は略称ではなく、これが本名である。
+**A.C.グリーン・ジュニア**（**A.C. Green Jr.**、[1963年](../Page/1963年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オレゴン州](../Page/オレゴン州.md "wikilink")[ポートランド出身の元](../Page/ポートランド_\(オレゴン州\).md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手。ファーストネームの **"A.C."** は略称ではなく、これが本名である。
 
 [NBA](../Page/NBA.md "wikilink")でプレイし、1,192試合連続出場の記録保持者である。1987年、1988年、2000年のNBAチャンピオン、[ロサンゼルス・レイカーズ](../Page/ロサンゼルス・レイカーズ.md "wikilink")のメンバー。身長206センチ。ポジションはフォワード。愛称は「Iron Man（[鉄人](../Page/鉄人.md "wikilink")）」。
 

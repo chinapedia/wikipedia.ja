@@ -440,7 +440,7 @@
 <tr class="even">
 <td><p>86</p></td>
 <td><p>2000年8月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a></p></td>
+<td><p><a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a></p></td>
 <td><p>CM音楽で話そう</p></td>
 </tr>
 <tr class="odd">

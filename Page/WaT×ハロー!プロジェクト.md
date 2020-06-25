@@ -7,7 +7,7 @@
 
   - [WaT](../Page/WaT.md "wikilink")（[ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")・[小池徹平](../Page/小池徹平.md "wikilink")）
   - [ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")
-      - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")（[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")・[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")・[新垣里沙](../Page/新垣里沙.md "wikilink")・[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")・[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")・[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")・[久住小春](../Page/久住小春.md "wikilink")）
+      - [モーニング娘。](../Page/モーニング娘。.md "wikilink")（[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")・[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")・[新垣里沙](../Page/新垣里沙.md "wikilink")・[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")・[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")・[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")・[久住小春](../Page/久住小春.md "wikilink")）
       - [DEF.DIVA](../Page/DEF.DIVA.md "wikilink")（[安倍なつみ](../Page/安倍なつみ.md "wikilink")・[松浦亜弥](../Page/松浦亜弥.md "wikilink")・[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")・[石川梨華](../Page/石川梨華.md "wikilink")）
       - [Berryz工房](../Page/Berryz工房.md "wikilink")（[清水佐紀](../Page/清水佐紀.md "wikilink")・[嗣永桃子](../Page/嗣永桃子.md "wikilink")・[徳永千奈美](../Page/徳永千奈美.md "wikilink")・[須藤茉麻](../Page/須藤茉麻.md "wikilink")・[夏焼雅](../Page/夏焼雅.md "wikilink")・[熊井友理奈](../Page/熊井友理奈.md "wikilink")・[菅谷梨沙子](../Page/菅谷梨沙子.md "wikilink")）
 

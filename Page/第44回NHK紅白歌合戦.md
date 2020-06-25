@@ -23,7 +23,7 @@
   - [谷村新司](../Page/谷村新司.md "wikilink")はこの年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[琉球の風](../Page/琉球の風_\(NHK大河ドラマ\).md "wikilink")』の主題歌「[階-きざはし-](https://ja.wikipedia.org/wiki/階-きざはし- "wikilink")」を歌唱。堺は曲紹介時、このタイアップに触れている。
   - [都はるみ](../Page/都はるみ.md "wikilink")の「[おんなの海峡](https://ja.wikipedia.org/wiki/おんなの海峡 "wikilink")」、[森進一](../Page/森進一.md "wikilink")の「[さらば友よ](https://ja.wikipedia.org/wiki/さらば友よ "wikilink")」は、この年6月に急逝した[猪俣公章](../Page/猪俣公章.md "wikilink")を偲んで歌われたものである。
   - 紅組トリはこの年デビュー20周年を迎えた[石川さゆり](../Page/石川さゆり.md "wikilink")が務め、「[津軽海峡・冬景色](../Page/津軽海峡・冬景色.md "wikilink")」を歌唱。
-  - 白組トリおよび大トリは2年連続で[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")（30回出場達成）が担当し、「[まつり](https://ja.wikipedia.org/wiki/まつり_\(北島三郎の曲\) "wikilink")」を歌唱。今回の北島を最後に2年連続以上での大トリ担当は[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")） - [第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）の[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")まで途絶えることとなった。
+  - 白組トリおよび大トリは2年連続で[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")（30回出場達成）が担当し、「[まつり](https://ja.wikipedia.org/wiki/まつり_\(北島三郎の曲\) "wikilink")」を歌唱。今回の北島を最後に2年連続以上での大トリ担当は[第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")） - [第64回](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")（[2013年](../Page/2013年.md "wikilink")）の[SMAP](../Page/SMAP.md "wikilink")まで途絶えることとなった。
   - 優勝は白組。堺は[五木ひろし](../Page/五木ひろし.md "wikilink")、北島、そして白組司会の先輩である[武田鉄矢](../Page/武田鉄矢.md "wikilink")（[海援隊](../Page/海援隊_\(フォークグループ\).md "wikilink")）と抱擁した。
   - エンディングの「[蛍の光](../Page/蛍の光.md "wikilink")」の指揮は、[藤山一郎](../Page/藤山一郎.md "wikilink")の死去に伴い、今回から[第56回](../Page/第56回NHK紅白歌合戦.md "wikilink")（[2005年](../Page/2005年.md "wikilink")）まで[宮川泰](../Page/宮川泰.md "wikilink")が担当することになった。
   - [ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")調べ、関東地区における瞬間最高視聴率は[小林幸子](../Page/小林幸子.md "wikilink")の「約束」歌唱時に記録された55.6%である\[4\]。
@@ -220,8 +220,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。1962年（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:1993年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1993年の日本の音楽 "wikilink") [Category:1993年12月](https://ja.wikipedia.org/wiki/Category:1993年12月 "wikilink")
 

@@ -583,7 +583,7 @@ MSCL-60774:MEG-CD</p></td>
 
 ## 参考文献・出典
 
-  - [フジテレビ『FACTORY』](http://www.fujitv.co.jp/FACTORY/CX0013/0004pro.html)
+  - [フジテレビ『FACTORY』](https://www.fujitv.co.jp/FACTORY/CX0013/0004pro.html)
   - [オリコンスタイル/アーティストプロフ](http://www.oricon.co.jp/artists/26007/full/)
   - WINO's unofficial site Anyhow（WINO全ライヴデータベース掲載）
   - バンド・スコア WINO Useless Music [シンコー・ミュージック](https://ja.wikipedia.org/wiki/シンコー・ミュージック "wikilink") 1999年7月27日発行

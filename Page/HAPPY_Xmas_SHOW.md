@@ -81,7 +81,7 @@
 
 ### 2003年
 
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")が“モープリームス”として[シュープリームス](https://ja.wikipedia.org/wiki/シュープリームス "wikilink")、[ロネッツ](https://ja.wikipedia.org/wiki/ロネッツ "wikilink")など、60年代のガールズグループの代表曲やクリスマスソングと自身のオリジナル曲のメドレーを歌唱。[エド・サリヴァン](../Page/エド・サリヴァン.md "wikilink")ならぬオーエド・サリヴァンが登場し、[エド・サリヴァン・ショー](../Page/エド・サリヴァン・ショー.md "wikilink")を模した構成。
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")が“モープリームス”として[シュープリームス](https://ja.wikipedia.org/wiki/シュープリームス "wikilink")、[ロネッツ](https://ja.wikipedia.org/wiki/ロネッツ "wikilink")など、60年代のガールズグループの代表曲やクリスマスソングと自身のオリジナル曲のメドレーを歌唱。[エド・サリヴァン](../Page/エド・サリヴァン.md "wikilink")ならぬオーエド・サリヴァンが登場し、[エド・サリヴァン・ショー](../Page/エド・サリヴァン・ショー.md "wikilink")を模した構成。
 
 ### 2004年
 

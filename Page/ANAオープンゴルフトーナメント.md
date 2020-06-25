@@ -24,7 +24,7 @@
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p>第46回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅地洋佑" title="wikilink">浅地洋佑</a>[5]</p></td>
+<td><p><a href="../Page/浅地洋佑.md" title="wikilink">浅地洋佑</a>[5]</p></td>
 <td><p>札幌ゴルフ倶楽部輪厚コース[6]</p></td>
 </tr>
 <tr class="even">

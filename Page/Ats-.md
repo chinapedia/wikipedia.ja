@@ -12,7 +12,7 @@
   - [1991年](../Page/1991年.md "wikilink") ハードロックバンド「Darlin's Darlin」のボーカリストとしてデビュー。
   - [1993年](../Page/1993年.md "wikilink") ソロデビュー。
   - [1994年](../Page/1994年.md "wikilink") ロックバンド「STAGGER」のキーボードとして活動。
-  - 作家活動をしながら1996年[HΛL](../Page/HΛL.md "wikilink")に参加し、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")氏などの楽曲制作に携わる。
+  - 作家活動をしながら1996年[HΛL](../Page/HΛL.md "wikilink")に参加し、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")などの楽曲制作に携わる。
   - [2002年](../Page/2002年.md "wikilink")にHΛL脱退。以降、**ats-**名義で数多くのアーティストに楽曲を提供。
   - 2002年 『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』編曲賞受賞 [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」（編曲）
   - 2006年 『[第48回日本レコード大賞](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")』金賞受賞 [BoA](../Page/BoA.md "wikilink")の「Winter Love」（作曲・編曲）
@@ -460,6 +460,7 @@
       - Time of Victory（編曲）「[仮面ライダーエグゼイド](https://ja.wikipedia.org/wiki/仮面ライダーエグゼイド "wikilink")」挿入歌
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
       - Powder snow（編曲）
+      - Existence (編曲)
   - [阿久悠](../Page/阿久悠.md "wikilink")トリビュートアルバム・[島袋寛子](../Page/島袋寛子.md "wikilink")
       - つかみそこねた幸福に（編曲）
   - [Def Will](https://ja.wikipedia.org/wiki/Def_Will "wikilink")
@@ -498,6 +499,10 @@
 
       - キライになれたらいいのに〜prologue〜 (編曲)
       - Break It Out (編曲)
+
+  - [GENIC](../Page/GENIC.md "wikilink")
+
+      - 抱きしめたら (編曲)
 
 ## 出典
 

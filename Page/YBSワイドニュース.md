@@ -97,7 +97,7 @@ NNN Newsリアルタイムは2006年4月3日の月曜日に開始されたが、
 <tr class="even">
 <td><p>2001.4</p></td>
 <td><p>2002.3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木智草" title="wikilink">鈴木智草</a></p></td>
+<td><p><a href="../Page/鈴木智草.md" title="wikilink">鈴木智草</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002.4</p></td>

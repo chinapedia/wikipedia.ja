@@ -44,8 +44,8 @@
 
 ### 家族
 
-  - 進藤勘一：[浅野和之](../Page/浅野和之.md "wikilink") - 勘九郎の父。唯野市役所観光課に勤めている。終始勘九郎を優しく見守る。
-  - 進藤美和子：[高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink") - 勘九郎の母。唯野市教育委員会の課長を務め、当初はシンクロに反対していたが後に応援する立場に。
+  - 進藤勘一：[浅野和之](../Page/浅野和之.md "wikilink") - 勘九郎の父。唯野市役所観光課に勤めている。勘九郎の良き理解者であり、終始勘九郎を優しく見守る。
+  - 進藤美和子：[高橋ひとみ](https://ja.wikipedia.org/wiki/高橋ひとみ "wikilink") - 勘九郎の母。唯野市教育委員会の課長を務め、当初から勘九郎には厳しく接しており、シンクロ活動にも反対していたが後に応援する立場に回った。
   - 進藤仁美：[碇由貴子](../Page/碇由貴子.md "wikilink") - 勘九郎の妹。生意気でませた小学生。憲男に好意を抱いている。
   - 立松憲介：[平泉成](../Page/平泉成.md "wikilink") - 憲男の父。立松建設の社長で県議会議員でもある。憲男を後継者にしようと考えており、それに従わない憲男と衝突する。
   - 立松尚子：[山本道子](../Page/山本道子_\(女優\).md "wikilink") - 憲男の母。憲男のやりたいようにさせてやりたいと思っている。
@@ -233,7 +233,7 @@
 
 ## 外部リンク
 
-  - [ウォーターボーイズ - フジテレビ番組基本情報](http://www.fujitv.co.jp/b_hp/waterboys/)
+  - [ウォーターボーイズ - フジテレビ番組基本情報](https://www.fujitv.co.jp/b_hp/waterboys/)
   - [トゥリトネス公式サイト](http://www.tritones.jp/) - シンクロコーチ不破央らによるシンクロチーム
 
 [Category:ウォーターボーイズ](https://ja.wikipedia.org/wiki/Category:ウォーターボーイズ "wikilink") [Category:フジテレビ火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマ "wikilink") [Category:2003年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2003年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:LGBT関連ドラマ](https://ja.wikipedia.org/wiki/Category:LGBT関連ドラマ "wikilink") [Category:水泳を題材とした作品](https://ja.wikipedia.org/wiki/Category:水泳を題材とした作品 "wikilink") [Category:映画を原作とする作品](https://ja.wikipedia.org/wiki/Category:映画を原作とする作品 "wikilink") [Category:青春ドラマ](https://ja.wikipedia.org/wiki/Category:青春ドラマ "wikilink") [Category:布施明](https://ja.wikipedia.org/wiki/Category:布施明 "wikilink")

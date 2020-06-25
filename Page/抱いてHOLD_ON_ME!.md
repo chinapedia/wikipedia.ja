@@ -1,7 +1,7 @@
 > この記事は[抱いてHOLD ON ME!](https://ja.wikipedia.org/wiki/抱いてHOLD_ON_ME!)から翻訳されています。
 
 
-「**抱いてHOLD ON ME\!**」（だいてホールド オン ミー\!）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")に[zetimaより発売された](../Page/アップフロントワークス.md "wikilink")。
+「**抱いてHOLD ON ME\!**」（だいてホールド オン ミー\!）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月9日](../Page/9月9日.md "wikilink")に[zetimaより発売された](../Page/アップフロントワークス.md "wikilink")。
 
 ## 概要
 

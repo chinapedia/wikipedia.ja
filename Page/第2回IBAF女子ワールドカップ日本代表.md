@@ -152,7 +152,7 @@
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太田あゆみ" title="wikilink">太田あゆみ</a></p></td>
+<td><p><a href="../Page/太田あゆみ.md" title="wikilink">太田あゆみ</a></p></td>
 <td><p>花咲徳栄高</p></td>
 <td><p>17歳</p></td>
 <td></td>

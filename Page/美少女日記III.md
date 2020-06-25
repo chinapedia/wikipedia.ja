@@ -44,7 +44,7 @@
 
   - ことミック大辞典、燃えろ\!マナー部
       - [松浦亜弥](../Page/松浦亜弥.md "wikilink")
-      - [藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")（元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+      - [藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")（元[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
 
 ## DVD
 

@@ -1,7 +1,7 @@
 > この記事は[月島きらり starring 久住小春 \(モーニング娘。\)](https://ja.wikipedia.org/wiki/月島きらり_starring_久住小春_\(モーニング娘。\))から翻訳されています。
 
 
-**月島きらり starring 久住小春（モーニング娘。）**（つきしまきらり スターリング くすみこはる （モーニングむすめ））は、当時[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")に所属していた**[久住小春](../Page/久住小春.md "wikilink")**が、[声優](../Page/声優.md "wikilink")を務める[テレビアニメ](../Page/アニメ.md "wikilink")「[きらりん☆レボリューション](../Page/きらりん☆レボリューション.md "wikilink")」の登場キャラクター「**[月島きらり](https://ja.wikipedia.org/wiki/きらりん☆レボリューションの登場キャラクター#主人公 "wikilink")**」として活動する際のアーティスト名である。
+**月島きらり starring 久住小春（モーニング娘。）**（つきしまきらり スターリング くすみこはる （モーニングむすめ））は、当時[モーニング娘。](../Page/モーニング娘。.md "wikilink")に所属していた**[久住小春](../Page/久住小春.md "wikilink")**が、[声優](../Page/声優.md "wikilink")を務める[テレビアニメ](../Page/アニメ.md "wikilink")「[きらりん☆レボリューション](../Page/きらりん☆レボリューション.md "wikilink")」の登場キャラクター「**[月島きらり](https://ja.wikipedia.org/wiki/きらりん☆レボリューションの登場キャラクター#主人公 "wikilink")**」として活動する際のアーティスト名である。
 
 ## 概要
 
@@ -96,7 +96,7 @@
     4.  アナタボシ（[MilkyWay](https://ja.wikipedia.org/wiki/MilkyWay "wikilink"))
     5.  サンサンGOGO（MilkyWay)
 5.  きらりん☆レボリューション・ソング・セレクション4（2008年8月27日発売 初回生産限定盤：EPCE-5572〜73／通常盤：EPCE-5574）
-    1.  パパンケーキ（月島きらり starring [久住小春](../Page/久住小春.md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")））
+    1.  パパンケーキ（月島きらり starring [久住小春](../Page/久住小春.md "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")））
     2.  TOKYO FRIEND☆SHIPS（SHIPS）
     3.  アナタボシ（きらり Ver.）（月島きらり starring 久住小春（モーニング娘。））
     4.  アナタボシ（のえる Ver.）（雪野のえる starring [北原沙弥香](../Page/北原沙弥香.md "wikilink")）

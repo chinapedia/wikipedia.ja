@@ -340,7 +340,7 @@ DVD
 
 ## 関連サイト
 
-  - [株式会社o-daiba.com\~美少女IT戦士リアルシスターズ](http://www.fujitv.co.jp/b_hp/o-daiba/)
+  - [株式会社o-daiba.com\~美少女IT戦士リアルシスターズ](https://www.fujitv.co.jp/b_hp/o-daiba/)
   - [o-daiba.com外伝](http://www.fujitv.co.jp/jp/b_hp/odaiba-g/)
   - [リアルシスターズ サブタイトルリスト](http://gt.ws8.arena.ne.jp/shiryou/rsz.html)
 

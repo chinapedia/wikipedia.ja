@@ -17,7 +17,7 @@
 
 日本国内でのデビュー当初は、左ハンドル+[MTモデルのみだったが](../Page/マニュアルトランスミッション.md "wikilink")、最終的には右ハンドル+[ATモデルになった](../Page/オートマチックトランスミッション.md "wikilink")。
 
-マイナーチェンジが一回実施されており、外観では、[ヘッドランプ周囲が黒から銀黒色へ](../Page/前照灯.md "wikilink")、[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")が水平基調から格子柄となったほか、[アルミホイール](../Page/アルミホイール.md "wikilink")のデザインが変更されている。
+マイナーチェンジが一回実施されており、外観では、[ヘッドランプ周囲が黒から銀黒色へ](../Page/前照灯.md "wikilink")、[フロントグリル](../Page/フロントグリル.md "wikilink")が水平基調から格子柄となったほか、[アルミホイール](../Page/アルミホイール.md "wikilink")のデザインが変更されている。
 
 グレード構成は以下のとおり
 
@@ -128,7 +128,7 @@
 
 ### 3代目（2015年-）タイプ8S
 
-[Audi_TTS_-_Mondial_de_l'Automobile_de_Paris_2014_-_004.jpg](https://ja.wikipedia.org/wiki/File:Audi_TTS_-_Mondial_de_l'Automobile_de_Paris_2014_-_004.jpg "fig:Audi_TTS_-_Mondial_de_l'Automobile_de_Paris_2014_-_004.jpg") {{-}}
+[Audi_TTS_-_Mondial_de_l'Automobile_de_Paris_2014_-_004.jpg](https://ja.wikipedia.org/wiki/File:Audi_TTS_-_Mondial_de_l'Automobile_de_Paris_2014_-_004.jpg "fig:Audi_TTS_-_Mondial_de_l'Automobile_de_Paris_2014_-_004.jpg") 2014年のジュネーブモーターショーで世界初公開された。フォルクスワーゲングループのMQBプラットフォームを採用するが、ボディ外板は全てアルミ製となり、従来比で最大50kgの軽量化を果たしている。外寸は先代と大きく変わらないが、ホイールベースは37mm延長された。{{-}}
 
 ## 脚注
 

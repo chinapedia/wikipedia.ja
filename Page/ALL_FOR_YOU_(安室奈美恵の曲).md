@@ -1,7 +1,7 @@
 > この記事は[ALL FOR YOU \(安室奈美恵の曲\)](https://ja.wikipedia.org/wiki/ALL_FOR_YOU_\(安室奈美恵の曲\))から翻訳されています。
 
 
-「**ALL FOR YOU**」（オール・フォー・ユー）は、日本の女性歌手・[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では27枚目の[シングル](../Page/シングル.md "wikilink")。
+「**ALL FOR YOU**」（オール・フォー・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手・[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では27枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 

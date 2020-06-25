@@ -1,7 +1,7 @@
 > この記事は[SMAP 004](https://ja.wikipedia.org/wiki/SMAP_004)から翻訳されています。
 
 
-『**SMAP 004**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4th[アルバム](../Page/アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")からリリース。
+『**SMAP 004**』は、[SMAP](../Page/SMAP.md "wikilink")の4th[アルバム](../Page/アルバム.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")からリリース。
 
 ## 解説
 

@@ -1,7 +1,7 @@
 > この記事は[Happy World!](https://ja.wikipedia.org/wiki/Happy_World!)から翻訳されています。
 
 
-『**Happy World\!**』（ハッピーワールド）は、[竹下堅次朗による](../Page/竹下けんじろう.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』2000年6月号から2006年7月号まで連載されていた。単行本全11巻。また2002年から2003年には全3巻の[OVA](../Page/OVA.md "wikilink")が製作された。
+『**Happy World\!**』（ハッピーワールド）は、[竹下堅次朗による](../Page/竹下けんじろう.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』2000年6月号から2006年7月号まで連載されていた。単行本全11巻。また2002年から2003年には全3巻の[OVA](../Page/OVA.md "wikilink")が製作された。
 
 ## 概要
 

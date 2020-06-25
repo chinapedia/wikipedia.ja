@@ -239,6 +239,8 @@
 
   - [ダビド・フェレイラ](https://ja.wikipedia.org/wiki/ダビド・フェレイラ "wikilink") 2009–2013
 
+  - [ビクトル・ウジョア](https://ja.wikipedia.org/wiki/ビクトル・ウジョア "wikilink") 2011-2018
+
   - [カルロス・グルエソ](https://ja.wikipedia.org/wiki/カルロス・グルエソ "wikilink") 2016-
 
 ### FW

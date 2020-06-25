@@ -4200,147 +4200,153 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/マナリアフレンズ" title="wikilink">マナリアフレンズ エクストラパート</a></p></td>
+<td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a>等</p></td>
+<td><p>2019年1月21日</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アート引越センター_WEBアニメーションムービー" title="wikilink">アート引越センター WEBアニメーションムービー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年2月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[やりすぎ</p></td>
 <td><p>!イタズラくん|やりすぎ</p></td>
 <td><p>!イタズラくん]]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/子育てRPG" title="wikilink">子育てRPG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年2月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/下町コロッケのまんま" title="wikilink">下町コロッケのまんま</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年2月21日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイトリーグ" title="wikilink">ファイトリーグ ギア・ガジェット・ジェネレーターズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年2月28日</p></td>
 <td><p>第3話以降</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おそ松さん#オリジナル短編劇場" title="wikilink">「えいがのおそ松さん」劇場公開記念 オリジナル短編劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/終末のハーレム" title="wikilink">終末のハーレム</a>VR</p></td>
 <td><p><a href="../Page/DMM.com.md" title="wikilink">DMM.com</a></p></td>
 <td><p>2019年3月4日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おとなの防具屋さん" title="wikilink">おとなの防具屋さん</a>(裏面)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dアニメストア" title="wikilink">dアニメストア</a></p></td>
 <td><p>2019年3月6日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/そばへ" title="wikilink">そばへ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月7日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/中通りく" title="wikilink">中通りく 非常用持ち出し袋を用意しよう</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月11日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ばーちゃるわいど" title="wikilink">ばーちゃるわいど 〜ふりかえれ!平成30年史〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Yahoo!_Japan" title="wikilink">Yahoo! Japan</a><br />
 <a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2019年3月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒトトキ桐生足利" title="wikilink">ヒトトキ桐生足利</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ソニックシリーズ.md" title="wikilink">チームソニックレーシング：OVERDRIVE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/天下統一恋の乱_Love_Ballad" title="wikilink">天下統一恋の乱 Love Ballad 〜月の章〜 2周年お祝いちびアニメ 愛し月に祝杯を</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2019年3月21日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エロ◆ラバ" title="wikilink">エロ◆ラバ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2019年3月22日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おジャ魔女どれみ#Webアニメ" title="wikilink">おジャ魔女どれみ お笑い劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道新幹線の旅〜マギュロウ、どこでもユキちゃんに会いに行く!" title="wikilink">北海道新幹線の旅〜マギュロウ、どこでもユキちゃんに会いに行く!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">蒼空の竜騎士劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムシリーズ一覧#その他の作品" title="wikilink">ガンダムvsハローキティプロジェクト特別PV</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/LINE_(アプリケーション)" title="wikilink">LINE</a></p></td>
 <td><p>2019年3月29日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[誕生</p></td>
 <td><p>KKT21|誕生</p></td>
 <td><p>KKT21]]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/まほうのルミティア_Luminary_Tears" title="wikilink">まほうのルミティア Luminary Tears</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年3月29日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ULTRAMAN_(漫画)" title="wikilink">ULTRAMAN</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年4月1日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第4期）</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
 <a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2019年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/けものフレンズ#けものフレンズ3" title="wikilink">ちょこっとアニメ けものフレンズ3</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a><br />
@@ -4348,75 +4354,75 @@
 <td><p>2019年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ベイブレードバースト" title="wikilink">ベイブレードバースト ガチ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年4月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/荒野のコトブキ飛行隊" title="wikilink">荒野のコトブキ飛行隊 大空のハルカゼ飛行隊</a>外伝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ<br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年4月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/こびとづかん" title="wikilink">ぼくのこびとづかん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/360Channel" title="wikilink">360Channel</a><br />
 <a href="../Page/DMM.com.md" title="wikilink">DMM.com</a></p></td>
 <td><p>2019年4月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/未来想像記" title="wikilink">未来想像記</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年4月16日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/爆丸バトルプラネット" title="wikilink">爆丸バトルプラネット ショートアニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年4月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/リラックマ.md" title="wikilink">リラックマ</a>とカオルさん</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年4月19日</p></td>
 <td><p><a href="../Page/人形アニメ.md" title="wikilink">パペットアニメ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/シルバニアファミリー.md" title="wikilink">シルバニアファミリー 空飛ぶみんなの大きな夢</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年4月27日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/トランスフォーマー_サイバーバース" title="wikilink">トランスフォーマー サイバーバース</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年4月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。" title="wikilink">ラティナの日記</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年4月29日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1000ちゃん" title="wikilink">1000差万別! オーイズミ宣伝部（研修中）</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年5月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/戦え!除菌四天王" title="wikilink">戦え!除菌四天王</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年5月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/みるタイツ" title="wikilink">みるタイツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a><br />
 <a href="https://ja.wikipedia.org/wiki/dアニメストア" title="wikilink">dアニメストア</a><br />
@@ -4424,615 +4430,615 @@
 <td><p>2019年5月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/サザエさん_(テレビアニメ)" title="wikilink">サザエさんの愉快なタビin宮城</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年5月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/荒ぶる季節の乙女どもよ。" title="wikilink">荒乙 ミニアニメ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年5月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/プロメア" title="wikilink">プロメア ガロ編</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2019年5月23日</p></td>
 <td><p>後にこの映像を用いて映画化</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/火の鳥_(漫画)#火の鳥“道後温泉編”" title="wikilink">火の鳥“道後温泉編”</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年5月24日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/狼と香辛料" title="wikilink">狼と香辛料</a>VR</p></td>
 <td><p><a href="../Page/Steam.md" title="wikilink">Steam</a><br />
 <a href="https://ja.wikipedia.org/wiki/Oculus" title="wikilink">Oculus Store</a></p></td>
 <td><p>2019年6月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プロメア" title="wikilink">プロメア リオ編</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2019年6月7日</p></td>
 <td><p>後にこの映像を用いて映画化</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モモウメ" title="wikilink">モモウメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年6月7日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アグレッシブ烈子" title="wikilink">アグレッシブ烈子 シーズン2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年6月14日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャボックス" title="wikilink">超緊急特番! ニンジャボックス丸出しまるわかりスペシャル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a></p></td>
 <td><p>2019年6月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/バトルスピリッツ_サーガブレイヴ" title="wikilink">バトルスピリッツ サーガブレイヴ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年6月15日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔王様、リトライ!" title="wikilink">魔王様、“プチ”リトライ!</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年6月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/まちカドまぞく" title="wikilink">まちカドまぞく みに</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年6月24日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タナバタノオト" title="wikilink">タナバタノオト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年6月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/7SEEDS.md" title="wikilink">7SEEDS</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年6月28日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/キャロル&amp;チューズデイ" title="wikilink">きゃろる あんど ちゅーずでい</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年6月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラッククローバー" title="wikilink">むぎゅっと!ブラッククローバー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV</a></p></td>
 <td><p>2019年7月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_レイズ" title="wikilink">TALES OF THE RAYS Everlasting Destiny</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2019年7月4日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/からかい上手の高木さん" title="wikilink">からかい劇場</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年7月4日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/少女☆歌劇_レヴュースタァライト" title="wikilink">少女☆寸劇 オールスタァライト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2019年7月5日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/はたらく細胞" title="wikilink">はたらく細胞 第11.5話</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年7月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖闘士星矢:_Knights_of_the_Zodiac" title="wikilink">聖闘士星矢: Knights of the Zodiac</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年7月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/貝社員" title="wikilink">デラックスだよ!貝社員</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年7月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫テニス" title="wikilink">白テニミニアニメ劇場〜今日もどこかでミューエンマ〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年7月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪 吉田くんの×（バッテン）ファイル『夏休みミステリー・アドベンチャー』</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年7月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/メギド72" title="wikilink">メギド72 The short animation 長き戦旅の傍らで</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年7月27日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ケンガンアシュラ" title="wikilink">ケンガンアシュラ</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年7月31日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">電気保安官キョーコってだれ?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年7月31日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アロンアルフアイター!" title="wikilink">アロンアルフアイター!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年8月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ひみつ×戦士_ファントミラージュ!" title="wikilink">ファントミ ミニアニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年8月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャボックス" title="wikilink">ニンジャボックス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a></p></td>
 <td><p>2019年8月8日</p></td>
 <td><p>後に編集版がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/キャノン・バスターズ" title="wikilink">キャノン・バスターズ</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年8月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/HERO_MASK" title="wikilink">HERO MASK PartII</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年8月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/＜Infinite_Dendrogram＞-インフィニット・デンドログラム-" title="wikilink">なぜなにデンドログラム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年8月23日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスターストライク_(アニメ)#銀魂_〜モンスターストライク編〜" title="wikilink">銀魂 〜モンスターストライク編〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年8月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/テラスハウス_(テレビ番組)" title="wikilink">テラスハウス×クラフトボス「MILK TEA COMING」【9th WEEK】</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年8月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/労働条件(RJ)パトロール!" title="wikilink">労働条件(RJ)パトロール!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年8月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中華一番!.md" title="wikilink">真・中華一番!ぷち</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年9月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ゼノンザード.md" title="wikilink">ゼノンザード THE ANIMATION</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トランスフォーマー_サイバーバース" title="wikilink">トランスフォーマー サイバーバース シーズン2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆるゆり" title="wikilink">みにゆり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モノのかみさま_ここたま" title="wikilink">モノのかみさま ここたま</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プラモ向上委員会" title="wikilink">mini.プラモ向上委員会</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/カナリスおーるでいず!" title="wikilink">カナリスおーるでいず!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月27日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ROAD_TO_YOU〜記憶に舞う粉雪〜" title="wikilink">ROAD TO YOU〜記憶に舞う粉雪〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月3日</p></td>
 <td><p><a href="../Page/ダンロップ.md" title="wikilink">ダンロップ</a>製品のプロモーション</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズRe:RISE" title="wikilink">ガンダムビルドダイバーズRe:RISE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ" title="wikilink">ノー・ガンズ・ライフ ミニ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/無限の住人.md" title="wikilink">無限の住人</a>-IMMORTAL-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2019年10月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/天体のメソッド" title="wikilink">天体のメソッド 第17話</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SUPER_SHIRO" title="wikilink">SUPER SHIRO</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a><br />
 <a href="https://ja.wikipedia.org/wiki/ビデオパス" title="wikilink">ビデオパス</a></p></td>
 <td><p>2019年10月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/あの日の心をとらえて" title="wikilink">あの日の心をとらえて</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャボックス" title="wikilink">ニンジャボックス シーズン2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a></p></td>
 <td><p>2019年10月24日</p></td>
 <td><p>後に編集版がTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ケンガンアシュラ" title="wikilink">ケンガンアシュラ Part2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年10月31日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">あなたが選ぶ島根県の名城はどっち!?「松江城」vs「富田城」頂上決戦!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年11月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ころころコロニャ" title="wikilink">ころころコロニャ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2019年11月4日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ランウェイで笑って" title="wikilink">ランウェイで笑って ミニアニメ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年11月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ#Webアニメ" title="wikilink">THE IDOLM@STER CINDERELLA GIRLS 8周年特別企画 Spin-off!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2019年11月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/にこやか食堂" title="wikilink">にこやか食堂</a>第2弾・はなちゃんのおでかけ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年11月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/しおひガールズ" title="wikilink">しおひガールズ ボンゴレビアンコ</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/しおひガールズ.md" title="wikilink">しおひガールズ ボンゴレビアンコ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年11月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/虚構推理" title="wikilink">虚構推理 ミニアニメ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年11月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/恐竜少女ガウ子" title="wikilink">恐竜少女ガウ子</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年11月22日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/嫌な顔されながらおパンツ見せてもらいたい" title="wikilink">嫌な顔されながらおパンツ見せてもらいたい</a>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2019年11月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Levius_-レビウス-" title="wikilink">Levius -レビウス-</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年11月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">YouTube課!吉田くん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年11月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/耐え子の日常" title="wikilink">耐え子の日常 YouTube課編</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年11月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/OBSOLETE.md" title="wikilink">OBSOLETE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube Originals</a></p></td>
 <td><p>2019年12月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FASTENING_DAYS" title="wikilink">FASTENING DAYS 4</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年12月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">おせニャんPR劇場 〜ヴァイスADさんになる〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年12月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/つぐもも" title="wikilink">継つぐももミニアニメ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年12月16日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/from_North_Field" title="wikilink">from North Field</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年12月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/囀る鳥は羽ばたかない" title="wikilink">囀る動物はやるしかない!</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年12月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/イナズマイレブン.md" title="wikilink">イナズマイレブン フィギュアたちのSD劇場</a>SD</p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年12月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/やすみカタログ" title="wikilink">やすみカタログ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2019年12月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガイナタマガー" title="wikilink">ガイナタマガー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年12月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/配信勇者" title="wikilink">配信勇者</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アニメBeans" title="wikilink">アニメBeans</a></p></td>
 <td><p>2019年12月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/斉木楠雄のΨ難" title="wikilink">斉木楠雄のΨ難 Ψ始動編</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年12月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/機動戦士ガンダム.md" title="wikilink">機動戦士ガンダム ガンダム×KEN OKUYAMA DESIGN×LDH JAPAN“G40プロジェクト”スペシャルムービー</a>40周年記念</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>1月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/映像研には手を出すな!" title="wikilink">映像研 ミニアニメ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2020年1月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/リッチ警官_キャッシュ!.md" title="wikilink">リッチ警官 キャッシュ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年1月10日</p></td>
 <td><p>コミックアニメ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/言霊少女プロジェクト.md" title="wikilink">言霊少女 the Animation -Microphone soul spinners-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SHOWROOM" title="wikilink">SHOWROOM</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a></p></td>
 <td><p>2020年1月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/織田シナモン信長" title="wikilink">わん次元!織田シナモン信長</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV" title="wikilink">dTV</a></p></td>
 <td><p>2020年1月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ポケットモンスター_ソード・シールド" title="wikilink">薄明の翼</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年1月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/青鬼_(ゲーム)" title="wikilink">おしえて凪先生</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年1月21日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖闘士星矢:_Knights_of_the_Zodiac" title="wikilink">聖闘士星矢: Knights of the Zodiac Part2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年1月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ちはやふる" title="wikilink">ちはやふる 「新に会いにあわらへいこっさ!」</a>番外編</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年1月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/花王_きれいつながる毎日へ" title="wikilink">花王 きれいつながる毎日へ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年2月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/超合金_ガンダム★ハローキティ_ショートアニメーション" title="wikilink">超合金 ガンダム★ハローキティ ショートアニメーション</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年2月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪団のサイバー犯罪撲滅大作戦</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2020年2月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/虫籠のカガステル" title="wikilink">虫籠のカガステル</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年2月6日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/新幹線変形ロボ_シンカリオン" title="wikilink">シンカリオン ハローキティ 特別PV</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年2月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…" title="wikilink">カタリナ脳内会議</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2020年2月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_-キャッスルヴァニア-" title="wikilink">悪魔城ドラキュラ -キャッスルヴァニア- シーズン3</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">ルクサント劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[[&amp;CAST</p></td>
 <td><p>!アワー_ラブナイツ!|ラブナイツ!A×D]]</p></td>
 <td><p>[[&amp;CAST</p></td>
 <td><p>!|&amp;CAST</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オルタード・カーボン" title="wikilink">オルタード・カーボン</a>:リスリーブド</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/恐竜少女ガウ子" title="wikilink">恐竜少女ガウ子 シーズン2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 Extra Stage</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
 <a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
 <td><p>2020年3月24日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Love_Love_Kitakyushu_愛すべきまち_愛すべき人々" title="wikilink">Love Love Kitakyushu 愛すべきまち 愛すべき人々</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/7SEEDS.md" title="wikilink">7SEEDS パート2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャボックス" title="wikilink">ニンジャボックス 新シリーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a></p></td>
 <td><p>2020年3月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイカツオンパレード!" title="wikilink">アイカツオンパレード!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a><br />
@@ -5040,108 +5046,114 @@
 <td><p>2020年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/つのつのまめたん" title="wikilink">つのつのまめたん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロノー先生の悪魔な神授業" title="wikilink">ロノー先生の悪魔な神授業</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スタディサプリ" title="wikilink">スタディサプリ</a></p></td>
 <td><p>2020年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大垣まつりにいこうよ!" title="wikilink">大垣まつりにいこうよ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/がきたびっ!" title="wikilink">がきたびっ!</a>〜青春お城編〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャラ" title="wikilink">ニンジャラ エピソード0</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/神酒ノ尊-ミキノミコト-.md" title="wikilink">神酒ノ尊〜絆の物語〜</a></p></td>
 <td><p>[[&amp;CAST</p></td>
 <td><p>!|&amp;CAST</p></td>
 <td><p>!]]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Sol_Levante" title="wikilink">Sol Levante</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/かいじゅうせかいせいふく" title="wikilink">かいじゅうせかいせいふく</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/爆丸アーマードアライアンス.md" title="wikilink">爆丸アーマードアライアンス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a>等</p></td>
 <td><p>2020年4月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ベイブレードバースト" title="wikilink">ベイブレードバースト スパーキング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/イエスタデイをうたって.md" title="wikilink">イエスタデイをうたって 配信限定episode</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2020年4月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファンタシースターオンライン2#Webアニメ" title="wikilink">アニメぷそ煮コミおかわり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2020年4月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズRe:RISE" title="wikilink">ガンダムビルドダイバーズRe:RISE 2nd Season</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月9日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ざしきわらしのタタミちゃん.md" title="wikilink">ざしきわらしのタタミちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV" title="wikilink">dTV</a>等</p></td>
 <td><p>2020年4月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魔神英雄伝ワタル_七魂の龍神丸.md" title="wikilink">魔神英雄伝ワタル 七魂の龍神丸</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゾゾゾ_ゾンビーくん" title="wikilink">ゾゾゾ ゾンビーくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月15日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪団のジェネリックトラベル大作戦2030</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月16日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/まるとしっぽ" title="wikilink">まるとしっぽ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年4月18日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5179,6 +5191,38 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a><br />
 <a href="https://ja.wikipedia.org/wiki/Periscope" title="wikilink">Periscope</a></p></td>
 <td><p>2020年5月7日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…" title="wikilink">はめふら!</a></p></td>
+<td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
+<td><p>2020年5月9日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">白猫ミニアニメ劇場 〜ゼロキス、がんばる?〜</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年5月12日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/星合の空" title="wikilink">星合の空 Special Fan Movie</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年5月20日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/からかい上手の高木さん" title="wikilink">からかい上手の高木さん 1学期</a>VR</p></td>
+<td><p><a href="../Page/Steam.md" title="wikilink">Steam</a><br />
+<a href="https://ja.wikipedia.org/wiki/Oculus" title="wikilink">Oculus Store</a></p></td>
+<td><p>2020年5月22日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/峰岸さんは大津くんに食べさせたい" title="wikilink">峰岸さんは大津くんに食べさせたい</a></p></td>
+<td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
+<a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年5月22日</p></td>
 <td></td>
 </tr>
 </tbody>

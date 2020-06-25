@@ -12,7 +12,7 @@
 1.  TOUCH ME \#1 - TSUNKU名義でのファーストシングル
       -
         作詞・作曲:つんく 編曲:松原憲
-2.  [Mr.Moonlight〜愛のビッグバンド〜](https://ja.wikipedia.org/wiki/Mr.Moonlight〜愛のビッグバンド〜 "wikilink") - 原曲:[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+2.  [Mr.Moonlight〜愛のビッグバンド〜](https://ja.wikipedia.org/wiki/Mr.Moonlight〜愛のビッグバンド〜 "wikilink") - 原曲:[モーニング娘。](../Page/モーニング娘。.md "wikilink")
       -
         作詞・作曲:つんく 編曲:鈴木俊介
 3.  [ここにいるぜぇ\!](../Page/ここにいるぜぇ!.md "wikilink") - 原曲:モーニング娘。

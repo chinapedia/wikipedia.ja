@@ -448,7 +448,7 @@
 
   - 「[SONIC BOOM](https://ja.wikipedia.org/wiki/かぜよみ "wikilink")」（作曲・編曲）
 
-**[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**
+**[SMAP](../Page/SMAP.md "wikilink")**
 
   - 「[Touch Me Kiss Me](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」（作詞・作曲）
 

@@ -379,7 +379,7 @@ DVD
 ## 外部リンク
 
   - [Ruvie Official website](http://www.ruvie.jp/)
-  - [Ruvie OFFICIAL BLOG](http://blog.goo.ne.jp/ruvielog_tm/)
+  - [Ruvie OFFICIAL BLOG](https://blog.goo.ne.jp/ruvielog_tm)
   - [S'CUBE official site](http://www011.upp.so-net.ne.jp/scube/)
   - [Free Will official site](http://www.free-will.co.jp/)
 

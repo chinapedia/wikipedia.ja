@@ -132,7 +132,7 @@ MC：[高島彩](../Page/高島彩.md "wikilink")
   - [松本英子](../Page/松本英子_\(歌手\).md "wikilink")
   - [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")
   - [宮原永海](../Page/宮原永海.md "wikilink")
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [RUCA](https://ja.wikipedia.org/wiki/RUCA "wikilink")
   - [若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")
 
@@ -637,7 +637,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
 
 ## 外部リンク
 
-  - [公式サイト](http://www.fujitv.co.jp/otogumi/GIRLFOLK2015/)
+  - [公式サイト](https://www.fujitv.co.jp/otogumi/GIRLFOLK2015/)
   - [GIRLS' FACTORY NEXT (2017)](https://www.fujitv.co.jp/otogumi/GIRLFOLK2017/index.html)
       - [GIRLS' FACTORY NEXT 17](http://otn.fujitv.co.jp/b_hp/917200139.html) - [フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")
   - [GIRLS' FACTORY NEXT (2018)](https://www.fujitv.co.jp/otogumi/GFN18/)

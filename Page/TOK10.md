@@ -51,7 +51,7 @@
 10. **[パラダイス銀河](../Page/パラダイス銀河.md "wikilink")**（[光GENJI](../Page/光GENJI.md "wikilink")）
       -
         作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")、編曲：小西康陽
-11. **[らいおんハート](../Page/らいおんハート.md "wikilink")**（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+11. **[らいおんハート](../Page/らいおんハート.md "wikilink")**（[SMAP](../Page/SMAP.md "wikilink")）
       -
         作詞：[野島伸司](../Page/野島伸司.md "wikilink")、作曲：[コモリタミノル](https://ja.wikipedia.org/wiki/コモリタミノル "wikilink")、編曲：知野芳彦
 12. **[フラワー](../Page/フラワー_\(KinKi_Kidsの曲\).md "wikilink")**（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")）

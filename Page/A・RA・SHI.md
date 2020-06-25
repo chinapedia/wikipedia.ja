@@ -9,7 +9,7 @@
 
 [ジャケットの嵐の文字は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、社長の[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")が書いたものである。[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")と[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")（[ラップ](../Page/ラップ.md "wikilink")）にソロパートが与えられている。
 
-『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』内の「[新・食わず嫌い王決定戦](https://ja.wikipedia.org/wiki/とんねるずのみなさんのおかげでした#新・食わず嫌い王決定戦 "wikilink")」に嵐のメンバーが出演し勝負に勝たないと罰ゲームとして歌い、踊らされる曲である（負けた時はもちろん、引き分けの時でも行われる）。以前に出演したメンバーの映像と合成して放送される（これまで、大野以外のメンバーが犠牲になっている）。『[うたばん](../Page/うたばん.md "wikilink")』内でもゲームに負けると連帯責任など何かと理由をつけられアカペラで歌わされていた。その際、最初は(当時[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink"))の[中居正広](../Page/中居正広.md "wikilink")からの駄目出しが入るのが定番であった。
+『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』内の「[新・食わず嫌い王決定戦](https://ja.wikipedia.org/wiki/とんねるずのみなさんのおかげでした#新・食わず嫌い王決定戦 "wikilink")」に嵐のメンバーが出演し勝負に勝たないと罰ゲームとして歌い、踊らされる曲である（負けた時はもちろん、引き分けの時でも行われる）。以前に出演したメンバーの映像と合成して放送される（これまで、大野以外のメンバーが犠牲になっている）。『[うたばん](../Page/うたばん.md "wikilink")』内でもゲームに負けると連帯責任など何かと理由をつけられアカペラで歌わされていた。その際、最初は(当時[SMAP](../Page/SMAP.md "wikilink"))の[中居正広](../Page/中居正広.md "wikilink")からの駄目出しが入るのが定番であった。
 
 なお、この曲の作詞を手掛けたJ\&Tは、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の後輩である[Sexy Zoneの](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink")の父の[菊池常利](https://ja.wikipedia.org/wiki/菊池常利 "wikilink")である\[1\]。息子の風磨が後にジャニーズ事務所入りした際には、そのことを明かしていなかったために、ジャニー喜多川が風磨を叱責したというエピソードもある\[2\]。
 

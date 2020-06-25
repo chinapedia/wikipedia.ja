@@ -5,7 +5,7 @@
 
 タクシー運転手への暴行事件で謹慎していた[木村一八](../Page/木村一八.md "wikilink")の『[十年愛](../Page/十年愛.md "wikilink")』に続いての連続ドラマ復帰第2作であったが、[Vシネマ](https://ja.wikipedia.org/wiki/Vシネマ "wikilink")に活路を見出したため、本作を最後に、テレビドラマにはしばらく出演していなかった（その後、2003年放送の『[伝説のマダム](../Page/伝説のマダム.md "wikilink")』にゲスト出演。2009年放送の『[帝王](https://ja.wikipedia.org/wiki/帝王_\(漫画\)#テレビドラマ "wikilink")』で15年ぶりに連続ドラマレギュラー出演を果たした）。
 
-タイトルは主人公・山田多喜男の血液型と星座の設定で、純粋でエネルギッシュな性格とされる組み合わせ。演じた武田自身も血液型は[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")、星座は[牡羊座](https://ja.wikipedia.org/wiki/牡羊座 "wikilink")である。
+タイトルは主人公・山田多喜男の[血液型](../Page/血液型.md "wikilink")と[星座](../Page/星座.md "wikilink")の設定で、純粋でエネルギッシュな性格とされる組み合わせ。演じた武田自身も血液型は[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")、星座は[牡羊座](https://ja.wikipedia.org/wiki/牡羊座 "wikilink")である。
 
 ## キャスト
 
@@ -61,4 +61,4 @@
 8.  女の意地vs男の見栄
 9.  最後に正義は勝つ
 
-[Category:土曜グランド劇場](https://ja.wikipedia.org/wiki/Category:土曜グランド劇場 "wikilink") [Category:テレパックのテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレパックのテレビドラマ "wikilink") [Category:1994年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1994年のテレビドラマ "wikilink") [Category:武田鉄矢](https://ja.wikipedia.org/wiki/Category:武田鉄矢 "wikilink")
+[Category:土曜グランド劇場](https://ja.wikipedia.org/wiki/Category:土曜グランド劇場 "wikilink") [Category:テレパックのテレビドラマ](https://ja.wikipedia.org/wiki/Category:テレパックのテレビドラマ "wikilink") [Category:1994年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1994年のテレビドラマ "wikilink") [Category:星座を題材とした作品](https://ja.wikipedia.org/wiki/Category:星座を題材とした作品 "wikilink") [Category:武田鉄矢](https://ja.wikipedia.org/wiki/Category:武田鉄矢 "wikilink")

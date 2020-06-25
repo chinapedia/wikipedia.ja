@@ -21,7 +21,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 
 地域密着型を標榜するJリーグの場合、全国ネットの放映権とは別に、Jリーグ所属クラブの[ホームタウン](../Page/ホームタウン.md "wikilink")を含む放送エリアを持つテレビ局に対して、[ローカル放送に限定した当該チーム対戦カードの放映権が設定されており](../Page/ローカル番組.md "wikilink")、各地の放送局（[NHKの地域放送局ならびに民放各局](../Page/日本放送協会放送局の一覧.md "wikilink")）が放映を行っている。ホームゲームは自社取材の独自映像が基本となるが、アウェーゲームの場合、相手ホームタウンの放送局との共同制作という形で、番組または映像と場内音声のみ（実況音声は差し替え）の提供を受け放送するケースのほか、試合映像を管理しているJリーグメディアプロモーションから[スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")→[DAZN](https://ja.wikipedia.org/wiki/DAZN "wikilink")と同一の映像・場内音声の提供を受ける（実況音声のみ差し替え）ことがある。いずれの場合も試合当日深夜などの録画中継となる場合が多く、特にナイトマッチの生中継の関係で独立局などに限られ極めて稀である\[3\]。
 
-スカパー\!向け中継の委託制作を行なっていた局では、スカパー\!向けと同一内容を自局向けにも放送する場合がある（[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")、[群馬テレビ](../Page/群馬テレビ.md "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[山陽放送など](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")）。
+スカパー\!向け中継の委託制作を行なっていた局では、スカパー\!向けと同一内容を自局向けにも放送する場合がある（[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")、[群馬テレビ](../Page/群馬テレビ.md "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[山陽放送など](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")）。
 
   - ローカル放送での中継局一覧
     2018年シーズンにホームタウン地域でのテレビ中継（全国中継を除く）を行う予定の放送局の一覧。◇は放送エリア等の関係上[広域放送](../Page/広域放送.md "wikilink")とする局、☆はナイトマッチの生中継を行う（または行っていた）局。
@@ -174,7 +174,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 <tr class="even">
 <td><p><a href="../Page/アルビレックス新潟.md" title="wikilink">新潟</a></p></td>
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">NHK新潟</a>、テレビ新潟、<a href="https://ja.wikipedia.org/wiki/新潟テレビ21" title="wikilink">新潟テレビ21</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a>、<a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新潟放送" title="wikilink">新潟放送</a>、<a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/カターレ富山.md" title="wikilink">富山</a></p></td>
@@ -253,7 +253,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">岡山</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a>、☆<a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a>[12]、<a href="../Page/NHK岡山放送局.md" title="wikilink">NHK岡山</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a>、☆<a href="../Page/テレビせとうち.md" title="wikilink">テレビせとうち</a>[12]、<a href="../Page/NHK岡山放送局.md" title="wikilink">NHK岡山</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a></p></td>
 </tr>
 <tr class="odd">
@@ -451,7 +451,7 @@ J1チャンピオンシップは全試合生放送<br />
   - J1の試合では、試合後に当日の解説者が両チームの監督にインタビューを行う。J2の試合では、ヒーローインタビューと同時に勝利監督のインタビュー（一部チームのみ）のみ行う。J SPORTS制作試合では2011年まで監督インタビューを行わなかった。2012年より行うようになったが、解説者ではなくアナウンサーがインタビューを行う。
   - ハーフタイムに「○○〔ここにホームチームのクラブ名が入る〕lab.〔ラボ〕（2013年まではホームクラブ応援コーナー）」がある。内容はクラブによってさまざまで、選手インタビューや、クラブのスタッフ、あるいはマッチスポンサーとなる企業・団体・自治体の関係者を当該ホームチームのサポータースタンドの前（会場によってはベンチ脇）に迎えてのインタビュー、その前後にクラブスポンサーのCMが30秒ずつ流れる（J SPORTS3・4における、同チャンネル制作の番組では応援コーナーは行わず、[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")の前節ハイライト集を送っている）。
 
-なお、TBSチャンネルではBS-TBS・地上波との共同放送を行う関係で[2011年](../Page/2011年.md "wikilink")まではTBS側で独自の字幕を使用していたが、[2012年](../Page/2012年.md "wikilink")からは上掲スカパー共通字幕を利用するほか、ホームクラブ応援コーナーも設けられるなど、TBS制作の番組でもスカパーの統一フォーマットをそのまま生かすことになった。また、2012年から開始するスカイ・エーについても、スカチャン・J SPORTSと同じ要領でJリーグから委託を受けた各放送局や映像制作会社の制作したものを使うため、必ずしも[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")や[ANN系列の放送局が担当するとは限らない](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")（たまたま該当試合が朝日放送およびANNが担当するクラブの中継ということで、スカイ・エーで放送があるから担当するということではない）。
+なお、TBSチャンネルではBS-TBS・地上波との共同放送を行う関係で[2011年](../Page/2011年.md "wikilink")まではTBS側で独自の字幕を使用していたが、[2012年](../Page/2012年.md "wikilink")からは上掲スカパー共通字幕を利用するほか、ホームクラブ応援コーナーも設けられるなど、TBS制作の番組でもスカパーの統一フォーマットをそのまま生かすことになった。また、2012年から開始するスカイ・エーについても、スカチャン・J SPORTSと同じ要領でJリーグから委託を受けた各放送局や映像制作会社の制作したものを使うため、必ずしも[朝日放送や](../Page/朝日放送テレビ.md "wikilink")[ANN系列の放送局が担当するとは限らない](../Page/オールニッポン・ニュースネットワーク.md "wikilink")（たまたま該当試合が朝日放送およびANNが担当するクラブの中継ということで、スカイ・エーで放送があるから担当するということではない）。
 
 ### 出演者
 
@@ -735,7 +735,7 @@ AX-ON</p></td>
 <td><p><a href="../Page/ガンバ大阪.md" title="wikilink">G大阪</a></p></td>
 <td><p>J1</p></td>
 <td><p><a href="../Page/エキスプレススポーツ.md" title="wikilink">エキスプレススポーツ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ABCテレビ" title="wikilink">朝日放送</a>*<br />
+<a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a>*<br />
 <a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a>[54]*</p></td>
 <td><p>2007 - 2009<br />
 2010 -<br />
@@ -776,7 +776,7 @@ AX-ON</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山" title="wikilink">岡山</a></p></td>
 <td><p>J2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送" title="wikilink">山陽放送</a>*</p></td>
+<td><p><a href="../Page/RSK山陽放送.md" title="wikilink">山陽放送</a>*</p></td>
 <td><p>2009 -</p></td>
 </tr>
 <tr class="even">
@@ -951,7 +951,7 @@ DAZNは、不具合を発見した段階で、まだ試合中であったG大阪
 
 なお、ニッポン放送とともにNRNのキー局である[文化放送](../Page/文化放送.md "wikilink")はこれまでJリーグ中継を行っていなかったが、2012年10月6日にJ1第28節浦和レッズ対コンサドーレ札幌を中継する。
 
-ローカル中継では、[NACK5](../Page/エフエムナックファイブ.md "wikilink")、[FMぐんま](../Page/エフエム群馬.md "wikilink")、[FM PORT](../Page/新潟県民エフエム放送.md "wikilink")（新潟）、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")等の県域FM放送、前述のNRN各局の他[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[JRN単独加盟の](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[RKB毎日放送などの県域AM放送](../Page/RKBラジオ.md "wikilink")、[三角山放送局](../Page/らむれす.md "wikilink")（札幌市）、[ラジオ3](../Page/仙台シティエフエム.md "wikilink")（仙台）、[エフエムかしま](../Page/エフエムかしま市民放送.md "wikilink")、[REDS WAVE](https://ja.wikipedia.org/wiki/エフエム浦和 "wikilink")、[調布FM](../Page/調布エフエム放送.md "wikilink")、[かわさきFM](../Page/かわさき市民放送.md "wikilink")、[FMしみずマリンパル](../Page/エフエムしみず.md "wikilink")、[FM Haro](../Page/浜松エフエム放送.md "wikilink")（浜松市、磐田戦）、[RADIO LOVEAT](../Page/エフエムとよた.md "wikilink")（豊田市、名古屋戦）などホームタウンでの[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")での中継が行われることがある。ほとんどがホーム戦中継であるが、三角山放送局はアウェイ戦に絞って中継している。
+ローカル中継では、[NACK5](../Page/エフエムナックファイブ.md "wikilink")、[FMぐんま](../Page/エフエム群馬.md "wikilink")、[FM PORT](../Page/新潟県民エフエム放送.md "wikilink")（新潟）、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")等の県域FM放送、前述のNRN各局の他[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[JRN単独加盟の](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[RKB毎日放送などの県域AM放送](../Page/RKBラジオ.md "wikilink")、[三角山放送局](../Page/らむれす.md "wikilink")（札幌市）、[ラジオ3](../Page/仙台シティエフエム.md "wikilink")（仙台）、[エフエムかしま](../Page/エフエムかしま市民放送.md "wikilink")、[REDS WAVE](https://ja.wikipedia.org/wiki/エフエム浦和 "wikilink")、[調布FM](../Page/調布エフエム放送.md "wikilink")、[かわさきFM](../Page/かわさき市民放送.md "wikilink")、[FMしみずマリンパル](../Page/エフエムしみず.md "wikilink")、[FM Haro](../Page/浜松エフエム放送.md "wikilink")（浜松市、磐田戦）、[RADIO LOVEAT](../Page/エフエムとよた.md "wikilink")（豊田市、名古屋戦）などホームタウンでの[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")での中継が行われることがある。ほとんどがホーム戦中継であるが、三角山放送局はアウェイ戦に絞って中継している。
 
 なお、[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")では中波・コミュニティーFMともJリーグ中継を実施する放送局はほとんどなく（前述のとおりごく初期に朝日放送で中継はしていたが、現在は関連番組のみ）、定期的に行っているのは[KBS京都における京都サンガ主管の日曜デーゲーム試合程度](../Page/京都放送.md "wikilink")（通常、「[伊舞なおみのみんながメダリスト](../Page/伊舞なおみのみんながメダリスト.md "wikilink")」のコーナーとして）である。
 

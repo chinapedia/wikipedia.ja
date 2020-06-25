@@ -21,4 +21,4 @@
 ## 外部リンク
 
   -
-[Category:エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/Category:エレクトロニック・アーツ "wikilink") [Category:ゲームメーカー・ブランドの歴史](https://ja.wikipedia.org/wiki/Category:ゲームメーカー・ブランドの歴史 "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink") [Category:2003年廃止の企業](https://ja.wikipedia.org/wiki/Category:2003年廃止の企業 "wikilink") [Category:ラスベガスの企業](https://ja.wikipedia.org/wiki/Category:ラスベガスの企業 "wikilink")
+[Category:エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/Category:エレクトロニック・アーツ "wikilink") [Category:かつて存在したアメリカ合衆国のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在したアメリカ合衆国のコンピュータゲームメーカー "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink") [Category:2003年廃止の企業](https://ja.wikipedia.org/wiki/Category:2003年廃止の企業 "wikilink")

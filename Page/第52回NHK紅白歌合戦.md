@@ -16,7 +16,7 @@
       - 『[デイリースポーツ](../Page/デイリースポーツ.md "wikilink")』（2001年9月7日付） - 「紅組司会の候補に有働、[膳場貴子](../Page/膳場貴子.md "wikilink")、[森田美由紀](../Page/森田美由紀.md "wikilink")（NHKアナウンサー）が挙がる」
       - 『[週刊ポスト](../Page/週刊ポスト.md "wikilink")』（2001年9月28日号） - 「紅組司会に国仲が急浮上」\[5\]
       - 『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』（2001年10月15日付） - 「両組司会は翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[利家とまつ〜加賀百万石物語〜](../Page/利家とまつ〜加賀百万石物語〜.md "wikilink")』の主演同士である[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")・[唐沢寿明](../Page/唐沢寿明.md "wikilink")が最有力」
-      - 『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』（2001年10月15日付） - 「紅組司会はこの年[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")を卒業した[中澤裕子](../Page/中澤裕子.md "wikilink")が有力候補に挙がっている。白組司会は唐沢が候補。その他、紅組司会の候補に[藤原紀香](../Page/藤原紀香.md "wikilink")、国仲の名前が挙がる。白組司会の候補に『[いっきにパラダイス](https://ja.wikipedia.org/wiki/いっきにパラダイス "wikilink")』の司会・[五木ひろし](../Page/五木ひろし.md "wikilink")、『ちゅらさん』にヒロインの父親役で出演した[堺正章](../Page/堺正章.md "wikilink")らが挙がる」
+      - 『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』（2001年10月15日付） - 「紅組司会はこの年[モーニング娘。](../Page/モーニング娘。.md "wikilink")を卒業した[中澤裕子](../Page/中澤裕子.md "wikilink")が有力候補に挙がっている。白組司会は唐沢が候補。その他、紅組司会の候補に[藤原紀香](../Page/藤原紀香.md "wikilink")、国仲の名前が挙がる。白組司会の候補に『[いっきにパラダイス](https://ja.wikipedia.org/wiki/いっきにパラダイス "wikilink")』の司会・[五木ひろし](../Page/五木ひろし.md "wikilink")、『ちゅらさん』にヒロインの父親役で出演した[堺正章](../Page/堺正章.md "wikilink")らが挙がる」
       - 『[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")』（2001年10月15日付） - 「両組司会は有働・[堂本光一](../Page/堂本光一.md "wikilink")（[KinKi Kids](../Page/KinKi_Kids.md "wikilink")。当時『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』の司会）が有力」
       - 『[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")』（2001年10月15日付） - 「両組司会は有働・唐沢が有力」
       - 『[夕刊フジ](../Page/夕刊フジ.md "wikilink")』（2001年10月15日付） - 「両組司会の候補に国仲・堺が挙がる。紅組司会の候補に有働や膳場も挙がる。総合司会は[宮本隆治](../Page/宮本隆治.md "wikilink")（当時NHKアナウンサー）の続投で決定」
@@ -40,7 +40,7 @@
   - 人気アンケートで上位にランクインした[キム・ヨンジャ](../Page/キム・ヨンジャ.md "wikilink")が復帰出場し、過去に発売中止になったこともある「[イムジン河](https://ja.wikipedia.org/wiki/イムジン河 "wikilink")」を、翌年の[2002 FIFAワールドカップにちなんで歌った](../Page/2002_FIFAワールドカップ.md "wikilink")。曲目発表時ではキムが「トリ内定」との推測も流れた\[11\]。
   - [堀内孝雄](../Page/堀内孝雄.md "wikilink")は同じ[大阪府](../Page/大阪府.md "wikilink")出身で親友であり、この年亡くなった[河島英五](../Page/河島英五.md "wikilink")の代表曲「[酒と泪と男と女](https://ja.wikipedia.org/wiki/酒と泪と男と女 "wikilink")」を本人の映像と一緒に歌った（なお、河島本人は紅白に1回出場（[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")）したが、同曲は歌唱していない\[12\]）。客席で観覧していた河島の息子から「堀内さん、ありがとう\!」の大声が上がると、堀内は男泣きしながら「英五…酒は飲んでるか? 声を高らかに歌っているか? そしてお前が好きだった、[龍馬には逢えたか](../Page/坂本龍馬.md "wikilink")? もう何も言うまい。さらば、英五…」と言い残し、涙の熱唱となる。歌唱終了後の堀内は「英五、有難う\!\!」と右手を挙げ叫びながら締め括ったが、その光景を見続けていた阿部も、思わずもらい泣きする場面があった。
   - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")は[郷ひろみ](../Page/郷ひろみ.md "wikilink")のバックコーラスとしても歌い、事実上2曲歌ったことになった。「[この世界のどこかに](../Page/この世界のどこかに.md "wikilink")」をゴスペラーズが楽曲提供し、実際にコーラス参加していたため。また、郷は本紅白出場を最後に[2005年](../Page/2005年.md "wikilink")（平成17年）まで活動休止となった。
-  - 特別ゲストとして[木村弓](../Page/木村弓.md "wikilink")が出演し、[アニメ映画](../Page/アニメーション映画.md "wikilink")『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』の主題歌「[いつも何度でも](https://ja.wikipedia.org/wiki/いつも何度でも "wikilink")」を歌った。また、[ハムちゃんず](https://ja.wikipedia.org/wiki/ハムちゃんず "wikilink")と[ミニハムず](../Page/ミニハムず.md "wikilink")（の着ぐるみ）が登場し、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")と共に「ハム太郎とっとこうた」を歌った\[13\]。
+  - 特別ゲストとして[木村弓](../Page/木村弓.md "wikilink")が出演し、[アニメ映画](../Page/アニメーション映画.md "wikilink")『[千と千尋の神隠し](../Page/千と千尋の神隠し.md "wikilink")』の主題歌「[いつも何度でも](https://ja.wikipedia.org/wiki/いつも何度でも "wikilink")」を歌った。また、[ハムちゃんず](https://ja.wikipedia.org/wiki/ハムちゃんず "wikilink")と[ミニハムず](../Page/ミニハムず.md "wikilink")（の着ぐるみ）が登場し、[モーニング娘。](../Page/モーニング娘。.md "wikilink")と共に「ハム太郎とっとこうた」を歌った\[13\]。
   - 紅組トリは25回出場を果たした[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")の「[夢](../Page/夢_\(和田アキ子の曲\).md "wikilink")」。
   - 白組トリおよび大トリは[北島三郎](https://ja.wikipedia.org/wiki/北島三郎 "wikilink")の「[山](https://ja.wikipedia.org/wiki/山_\(北島三郎の曲\) "wikilink")」。
   - 優勝は白組。優勝旗を受け取った阿部は号泣した。一方、有働は紅組歌手に励ましを受け「来年頑張りましょうね」と述べた。なお、有働は翌年の紅組司会の際にリベンジを果たしている。
@@ -103,7 +103,7 @@
 | 13                         | [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")(5)           |
 | 15                         | [中村美律子](../Page/中村美律子.md "wikilink")(9)                                     |
 | 17                         | [香西かおり](../Page/香西かおり.md "wikilink")(10)                                    |
-| 19                         | [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")(4)              |
+| 19                         | [モーニング娘。](../Page/モーニング娘。.md "wikilink")(4)                                 |
 | 21                         | [長山洋子](../Page/長山洋子.md "wikilink")(8)                                       |
 | 23                         | [伍代夏子](../Page/伍代夏子.md "wikilink")(12)                                      |
 | 25                         | [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")(2)                    |
@@ -143,7 +143,7 @@
   - この年恒例のカウントダウンコンサートを開催しなかった[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")に対し、番組側は出場並びにいずれもこの年のヒット曲である「[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")」と「[白い恋人達](../Page/白い恋人達.md "wikilink")」のメドレー歌唱を粘りの交渉で要請したが辞退される。その他、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")や[井上陽水](../Page/井上陽水.md "wikilink")も辞退した\[26\]\[27\]。
   - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")はレコーディング活動を行うため辞退。[B'z](../Page/B'z.md "wikilink")も辞退した。[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")や[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")も他の活動があるためNHKは出演交渉を断念している\[28\]。
   - 実際の出場歌手以外に、『[スポーツ報知](../Page/スポーツ報知.md "wikilink")』は[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")、[Do As Infinity](../Page/Do_As_Infinity.md "wikilink")、[hiro](../Page/島袋寛子.md "wikilink")、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")、[スガシカオ](../Page/スガシカオ.md "wikilink")、[三木道三](https://ja.wikipedia.org/wiki/三木道三 "wikilink")の初出場が有力と報じた。同じく初出場が有力と報じられた[木村弓](../Page/木村弓.md "wikilink")は紅組歌手としてではなく、コーナーゲストとして出演した\[29\]。
-  - この年デビュー10周年を迎え、[前回までデビューから](../Page/第51回NHK紅白歌合戦.md "wikilink")10年連続出場中だった[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")はメンバーの[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事により出場を辞退した\[30\]（翌年の第53回は2年ぶり11回目の復帰出場を果たしている）。稲垣の紅白出演に関して、当時のNHK会長・[海老沢勝二](../Page/海老沢勝二.md "wikilink")は「個人的には問題ないのでは」という見解を示していた\[31\]。またSMAPが辞退したため、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からの出場は[TOKIO](../Page/TOKIO.md "wikilink")のみとなった。
+  - この年デビュー10周年を迎え、[前回までデビューから](../Page/第51回NHK紅白歌合戦.md "wikilink")10年連続出場中だった[SMAP](../Page/SMAP.md "wikilink")はメンバーの[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の不祥事により出場を辞退した\[30\]（翌年の第53回は2年ぶり11回目の復帰出場を果たしている）。稲垣の紅白出演に関して、当時のNHK会長・[海老沢勝二](../Page/海老沢勝二.md "wikilink")は「個人的には問題ないのでは」という見解を示していた\[31\]。またSMAPが辞退したため、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からの出場は[TOKIO](../Page/TOKIO.md "wikilink")のみとなった。
 
 ### その他
 
@@ -192,7 +192,7 @@
 
 ## 外部リンク
 
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:2001年の日本の音楽](https://ja.wikipedia.org/wiki/Category:2001年の日本の音楽 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:2001年12月](https://ja.wikipedia.org/wiki/Category:2001年12月 "wikilink")
 

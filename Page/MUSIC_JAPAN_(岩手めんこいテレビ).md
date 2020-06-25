@@ -161,7 +161,7 @@ ALBUM「CATCH」より「Who」</p></td>
 <tr class="odd">
 <td><p><strong>9</strong></p></td>
 <td><p><a href="../Page/Triangle_(SMAPの曲).md" title="wikilink">Triangle</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a></p></td>
+<td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>10</strong></p></td>

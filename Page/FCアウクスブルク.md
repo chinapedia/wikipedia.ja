@@ -119,7 +119,7 @@
 
   - [2020年](../Page/2020年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dominican_Republic.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ★  ★   ★       ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_United_States.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dominican_Republic.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ★  ★   ★       ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_United_States.svg "wikilink"))   ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
   - [監督](../Page/監督.md "wikilink")
 

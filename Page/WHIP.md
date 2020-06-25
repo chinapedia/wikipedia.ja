@@ -1,7 +1,7 @@
 > この記事は[WHIP](https://ja.wikipedia.org/wiki/WHIP)から翻訳されています。
 
 
-**WHIP**（Walks plus Hits per Inning Pitched、「投球回あたり与四球・被安打数合計」）とは、[野球](../Page/野球.md "wikilink")における[投手](../Page/投手.md "wikilink")の成績評価項目の1つで、1[投球回](../Page/投球回.md "wikilink")あたり何人の走者を出したかを表す数値。与[四球](../Page/四球.md "wikilink")数と被[安打](https://ja.wikipedia.org/wiki/安打 "wikilink")数を足した数値を[投球回](../Page/投球回.md "wikilink")で割ることで求められる（[死球](../Page/死球.md "wikilink")や[失策](../Page/失策.md "wikilink")など、安打や四球以外による出塁は数えない）。[米大リーグや](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[台湾プロ野球では](../Page/中華職業棒球大聯盟.md "wikilink")、WHIPは[防御率](../Page/防御率.md "wikilink")などとともに公式に記録・公開されている指標である（[日本プロ野球](../Page/日本プロ野球.md "wikilink")では非採用）。一方で、WHIPは他の多くの統計の副産物であるとして、投手を評価する際に基本的に無視されるべきであるという指摘もある\[1\]。
+**WHIP**（Walks plus Hits per Inning Pitched、「投球回あたり与四球・被安打数合計」）とは、[野球](../Page/野球.md "wikilink")における[投手](../Page/投手.md "wikilink")の[成績評価](../Page/成績評価.md "wikilink")項目の1つで、1[投球回](../Page/投球回.md "wikilink")あたり何人の走者を出したかを表す数値。与[四球](../Page/四球.md "wikilink")数と被[安打](https://ja.wikipedia.org/wiki/安打 "wikilink")数を足した数値を[投球回](../Page/投球回.md "wikilink")で割ることで求められる（[死球](../Page/死球.md "wikilink")や[失策](../Page/失策.md "wikilink")など、安打や四球以外による出塁は数えない）。[米大リーグや](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[台湾プロ野球では](../Page/中華職業棒球大聯盟.md "wikilink")、WHIPは[防御率](../Page/防御率.md "wikilink")などとともに公式に記録・公開されている指標である（[日本プロ野球](../Page/日本プロ野球.md "wikilink")では非採用）。一方で、WHIPは他の多くの統計の副産物であるとして、投手を評価する際に基本的に無視されるべきであるという指摘もある\[1\]。
 
 ## 概要
 

@@ -7,7 +7,8 @@
 
 ## 来歴
 
-  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、結成。
+  - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")、石原、二井原、渡辺の3人で結成。翌1979年に渡辺が脱退し工藤が加入。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、二井原が「もう[ハードロック](../Page/ハードロック.md "wikilink")は歌いたくない」と宣言し脱退。(しかし後に[ラウドネス](https://ja.wikipedia.org/wiki/ラウドネス "wikilink")に加入。)同年に後任として、西田、甲斐が加入。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[伊藤政則](../Page/伊藤政則.md "wikilink")をプロデューサーとして1stアルバムを発売。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、元[ノヴェラ](../Page/ノヴェラ.md "wikilink")の永川敏郎が加入。
   - [1993年](../Page/1993年.md "wikilink")、解散を発表。（正式な解散宣言は[1994年](../Page/1994年.md "wikilink")）

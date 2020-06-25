@@ -36,7 +36,7 @@
 [1970年](../Page/1970年.md "wikilink")、高出力型は直噴E120H型エンジン (250ps) を搭載した型式末尾Kに変更となった（型式末尾Eは廃止）。
 
 ファイル:bu10.kawabus.jpg|BU10 [川中島自動車](https://ja.wikipedia.org/wiki/川中島自動車 "wikilink")
-川崎路線タイプ車体 ファイル:Shuhoku-bus-90.jpg|BU10KP [秋北バス](../Page/秋北バス.md "wikilink") 観光タイプ車体の路線車 ファイル:bu06.jpg|BU06改 [西東京バス](../Page/西東京バス.md "wikilink")　 ファイル:bu05d.jpg|BU05D 自家用
+川崎路線タイプ車体 ファイル:Shuhoku-bus-90.jpg|BU10KP [秋北バス](../Page/秋北バス.md "wikilink") 観光タイプ車体の路線車 ファイル:bu06.jpg|BU06改 [西東京バス](../Page/西東京バス.md "wikilink")　 ファイル:Tokyubus_IsuzuBU06D.jpg|BU06D 東京急行電鉄（撮影当時）　 ファイル:bu05d.jpg|BU05D 自家用
 富士重工車体 ファイル:bu20.kitamura.jpg|BU20 [諏訪バス](../Page/諏訪バス.md "wikilink")
 北村製作所路線タイプ車体 ファイル:bu10kp.jpg|BU10KP [蒲原鉄道](../Page/蒲原鉄道.md "wikilink")
 北村製作所観光タイプ車体 ファイル:bu10.keisei.body.jpg|BU10　[京成電鉄](https://ja.wikipedia.org/wiki/京成電鉄 "wikilink")
@@ -63,11 +63,11 @@
   - [富士重工業](../Page/スバルカスタマイズ工房.md "wikilink")
 
 ファイル:M531-79103-BU10K.jpg|BU10K FHI-13型 [JRバス関東](../Page/ジェイアールバス関東.md "wikilink") ファイル:bu10kp.tozan.jpg|BU10KP R13B型
-[箱根登山鉄道](../Page/箱根登山鉄道.md "wikilink") ファイル:HachinoheCityBus BU04-FHI No.1706.jpg|BU04 FHI-13型E [八戸市営バス](../Page/八戸市営バス.md "wikilink")
+[箱根登山鉄道](../Page/箱根登山鉄道.md "wikilink") ファイル:HachinoheCityBus BU04-FHI No.1706.jpg|BU04 FHI-13型E [八戸市営バス](../Page/八戸市営バス.md "wikilink") ファイル:Odakyu BU15K.jpg|BU15K FHI-13型E [小田急バス](../Page/小田急バス.md "wikilink")
 
   - [北村車体](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")
 
-ファイル:Gunma bus BU10 kitamura.jpg|BU10 [群馬バス](../Page/群馬バス.md "wikilink") バス窓 ファイル:MDC-BUS-No461.jpg|BU10K [松本電気鉄道](../Page/松本電鉄バス.md "wikilink") 1974年式まではバス窓 ファイル:MDC-BUS-No517-Front.jpg|BU10K 松本電気鉄道 1975年式以降はアルミサッシ化
+ファイル:Gunma bus BU10 kitamura.jpg|BU10 [群馬バス](../Page/群馬バス.md "wikilink") バス窓 ファイル:MDC-BUS-No461.jpg|BU10K [松本電気鉄道](../Page/松本電鉄バス.md "wikilink") 1974年式まではバス窓 ファイル:MDC-BUS-No517-Front.jpg|BU10K 松本電気鉄道 1975年式以降はアルミサッシ化 ファイル:Kanachu BU10D Kitamura.jpg|BU10D [神奈川中央交通](https://ja.wikipedia.org/wiki/神奈川中央交通 "wikilink")
 
   - [日野車体](../Page/日野車体工業.md "wikilink")
 

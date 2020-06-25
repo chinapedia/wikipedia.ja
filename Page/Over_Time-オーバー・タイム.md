@@ -125,7 +125,7 @@
 ## 外部リンク
 
   -
-  - [Over Time-オーバー・タイム - フジテレビ番組基本情報](http://www.fujitv.co.jp/b_hp/overtime/)
+  - [Over Time-オーバー・タイム - フジテレビ番組基本情報](https://www.fujitv.co.jp/b_hp/overtime/)
 
   - [Over Time-オーバー・タイム - フジテレビオンデマンド](https://fod.fujitv.co.jp/s/genre/drama/ser4276/)
 

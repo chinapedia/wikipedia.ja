@@ -21,7 +21,7 @@
 
 </div>
 
-[Category:着色料](https://ja.wikipedia.org/wiki/Category:着色料 "wikilink") [Category:トリアリールメタン系色素](https://ja.wikipedia.org/wiki/Category:トリアリールメタン系色素 "wikilink") [Category:ベンゼンスルホン酸](https://ja.wikipedia.org/wiki/Category:ベンゼンスルホン酸 "wikilink") [Category:アニリン](https://ja.wikipedia.org/wiki/Category:アニリン "wikilink")
+[Category:着色料](https://ja.wikipedia.org/wiki/Category:着色料 "wikilink") [Category:トリアリールメタン系色素](https://ja.wikipedia.org/wiki/Category:トリアリールメタン系色素 "wikilink") [Category:ベンゼンスルホン酸](https://ja.wikipedia.org/wiki/Category:ベンゼンスルホン酸 "wikilink") [Category:スルホン酸塩](https://ja.wikipedia.org/wiki/Category:スルホン酸塩 "wikilink") [Category:アニリン](https://ja.wikipedia.org/wiki/Category:アニリン "wikilink") [Category:ナトリウムの化合物](https://ja.wikipedia.org/wiki/Category:ナトリウムの化合物 "wikilink")
 
 1.  厚生省「表5 食品添加物の年齢別摂取量」 [マーケットバスケット方式による年齢層別食品添加物の一日摂取量の調査 （平成12年12月14日 厚生省）](http://www.ffcr.or.jp/zaidan/MHWinfo.nsf/98a5d7b766af9bfb492565a10020c601/1100115ac3d23fd7492569d800171034) （日本食品化学研究振興財団）
 2.  [Current EU approved additives and their E Numbers](http://www.food.gov.uk/safereating/chemsafe/additivesbranch/enumberlist)，[the Food Standard Agency](https://ja.wikipedia.org/wiki/w:en:Food_Standards_Agency "wikilink"), UK

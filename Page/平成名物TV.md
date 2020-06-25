@@ -47,13 +47,12 @@
 
 木村降板後は、藍田ほか2名の女性が司会を務める。また、パネラーとして元・[T-BACKS](../Page/T-BACKS.md "wikilink")の[佐藤恵子](https://ja.wikipedia.org/wiki/佐藤恵子 "wikilink")や、[遠峯ありさも出演していた](../Page/華原朋美.md "wikilink")。
 
-この時間帯はVTRによる放送。前半と後半で同じスタジオを使っての生放送のため、この時間を使ってセットチェンジ及び観客の入れ替えをしていた。
+この時間帯はVTRによる放送。前半と後半で同じスタジオを使っての生放送のため、この時間を使ってセットチェンジ及び観客の入れ替えをしていた\[1\]。
 
 ### 後半（3部）
 
-27:30〜29:09（〜29:04の時も有り。1989年2月11日〜1991年4月6日）
-
-27:00〜28:59（1991年4月13日〜1991年9月28日）
+  - 27:30〜29:09（〜29:04の時も有り。1989年2月11日〜1991年4月6日）
+  - 27:00〜28:59（1991年4月13日〜1991年9月28日）
 
 #### トンガリ編
 
@@ -135,8 +134,8 @@
   - [テレビユー山形](../Page/テレビユー山形.md "wikilink")（TUY）※イカ天ネット拡大記念スペシャルのみ放送し、1990年よりネット開始。
   - [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）
   - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）※1990年10月の開局から
-  - [信越放送](../Page/信越放送.md "wikilink")（SBC）※1989年10月7日から\[1\]
-  - [山陽放送（現:RSK山陽放送）](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK）※2・3部も放送していた時期あり
+  - [信越放送](../Page/信越放送.md "wikilink")（SBC）※1989年10月7日から\[2\]
+  - [山陽放送（現:RSK山陽放送）](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）※2・3部も放送していた時期あり
   - [中国放送](../Page/中国放送.md "wikilink")（RCC）
   - [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）※1990年頃から
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）
@@ -161,4 +160,5 @@ TBS系列であっても[青森テレビ](../Page/青森テレビ.md "wikilink")
 
 [Category:1989年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のテレビ番組_\(日本\) "wikilink") [Category:TBSの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの深夜番組の歴史 "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:テレビのお色気番組](https://ja.wikipedia.org/wiki/Category:テレビのお色気番組 "wikilink") [Category:テレビ放送枠](https://ja.wikipedia.org/wiki/Category:テレビ放送枠 "wikilink")
 
-1.  1989年10月7日 信濃毎日新聞 テレビ欄
+1.  [旺文社](../Page/旺文社.md "wikilink")ムック『「イカ天」「ホコ天」アマチュアバンド大全集「WOWOOO（ワォーッ）\!\!」』53頁
+2.  1989年10月7日 信濃毎日新聞 テレビ欄

@@ -7,11 +7,9 @@
 
 昭和33年（[1958年](../Page/1958年.md "wikilink")）の[東京の](../Page/東京都.md "wikilink")[下町](../Page/下町.md "wikilink")を舞台とし、夕日町三丁目に暮らす人々の温かな交流を描くドラマに仕上がっている（当時の[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[愛宕界隈を想定している](../Page/愛宕_\(東京都港区\).md "wikilink")）。
 
-建設中の[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")や[上野駅](https://ja.wikipedia.org/wiki/上野駅 "wikilink")、[蒸気機関車C62](../Page/国鉄C62形蒸気機関車.md "wikilink")、[東京都電](https://ja.wikipedia.org/wiki/東京都電 "wikilink")など当時の東京の街並みをミニチュアと[VFX](../Page/VFX.md "wikilink")（[CG](../Page/コンピュータグラフィックス.md "wikilink")）で再現した点が特徴である\[1\]。
+建設中の[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")や[上野駅](https://ja.wikipedia.org/wiki/上野駅 "wikilink")、[蒸気機関車C62](../Page/国鉄C62形蒸気機関車.md "wikilink")、[東京都電など当時の東京の街並みをミニチュアと](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")[VFX](../Page/VFX.md "wikilink")（[CG](../Page/コンピュータグラフィックス.md "wikilink")）で再現した点が特徴である\[1\]。昭和30年代の街並みが再現された[コンピュータシミュレーション](https://ja.wikipedia.org/wiki/コンピュータシミュレーション "wikilink")では、[東京工科大学](../Page/東京工科大学.md "wikilink")[メディア学部](../Page/メディア学部.md "wikilink")の研究室が協力した。
 
-昭和30年代の街並みが再現された[コンピュータシミュレーション](https://ja.wikipedia.org/wiki/コンピュータシミュレーション "wikilink")では、[東京工科大学](../Page/東京工科大学.md "wikilink")[メディア学部](../Page/メディア学部.md "wikilink")の研究室が協力した。
-
-映画に出てくる、三丁目の住宅、商店、街並みは全てセットで再現されており、[東宝](../Page/東宝.md "wikilink")第2、9ステージ及び、[館林市](../Page/館林市.md "wikilink")[大西飛行場](../Page/大西飛行場.md "wikilink")に建設されたオープンセットで撮影された。[三輪自動車ミゼット](../Page/ダイハツ・ミゼット.md "wikilink")、[家電](https://ja.wikipedia.org/wiki/家電 "wikilink")、店内の商品などはほとんどが各地から集められた本物である。
+映画に出てくる、三丁目の住宅、商店、街並みは全てセットで再現されており、[東宝](../Page/東宝.md "wikilink")第2・9ステージ及び、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[館林市](../Page/館林市.md "wikilink")の[大西飛行場](../Page/大西飛行場.md "wikilink")跡地に建設されたオープンセットで撮影された。[三輪自動車ミゼット](../Page/ダイハツ・ミゼット.md "wikilink")、[家電](https://ja.wikipedia.org/wiki/家電 "wikilink")、店内の商品などはほとんどが各地から集められた本物である。
 
 [山崎貴](../Page/山崎貴.md "wikilink")監督によると、当時の現実的情景の再現以上に、人々の記憶や心に存在しているイメージ的情景の再生を重視したようである。
 
@@ -402,7 +400,7 @@
   - [オート三輪](../Page/オート三輪.md "wikilink")
   - [東京都電車](https://ja.wikipedia.org/wiki/東京都電車 "wikilink")
   - [温家宝](https://ja.wikipedia.org/wiki/温家宝 "wikilink") - [王毅](../Page/王毅.md "wikilink")の薦めでこの映画を鑑賞。「（映画で描かれた時代の日本は）[現代の中国のようだ](../Page/改革開放.md "wikilink")」と評した。
-  - 『[クレヨンしんちゃん 嵐を呼ぶ モーレツ\!オトナ帝国の逆襲](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_嵐を呼ぶ_モーレツ!オトナ帝国の逆襲 "wikilink")』（2001年） - ノスタルジーの対象は[1970年](../Page/1970年.md "wikilink")の[大阪万博](../Page/日本万国博覧会.md "wikilink")
+  - 『[クレヨンしんちゃん 嵐を呼ぶ モーレツ\!オトナ帝国の逆襲](../Page/クレヨンしんちゃん_嵐を呼ぶ_モーレツ!オトナ帝国の逆襲.md "wikilink")』（2001年） - ノスタルジーの対象は[1970年](../Page/1970年.md "wikilink")の[大阪万博](../Page/日本万国博覧会.md "wikilink")
   - [ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink") - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[エアー](../Page/エア・ギター.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。全国ツアー[2016](../Page/2016年.md "wikilink")-[2017のタイトルが本作をもじった](../Page/2017年.md "wikilink")「オールゲイズ 二丁目のユウジ」である。
 
 ## 外部リンク

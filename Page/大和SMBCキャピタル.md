@@ -3,7 +3,7 @@
 
 **大和SMBCキャピタル株式会社**（だいわエスエムビーシーキャピタル）は、[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")および[三井住友銀行](../Page/三井住友銀行.md "wikilink")（SMBC）が出資していた、かつて存在した[合弁企業](https://ja.wikipedia.org/wiki/合弁企業 "wikilink")。国内第2位の大手[ベンチャー](../Page/ベンチャー.md "wikilink")[投資ファンド](../Page/投資ファンド.md "wikilink")（[ベンチャーキャピタル](../Page/ベンチャーキャピタル.md "wikilink")）であった。
 
-2010年の合弁契約の解消に伴い、現在は、大和証券系の**株式会社[大和キャピタル・ホールディングス](https://ja.wikipedia.org/wiki/大和キャピタル・ホールディングス "wikilink")**とSMBC系の**[SMBCベンチャーキャピタル](https://ja.wikipedia.org/wiki/SMBCベンチャーキャピタル "wikilink")株式会社**（SMBCC）に分割されている。
+2010年の合弁契約の解消に伴い、現在は、大和証券系の**株式会社[大和キャピタル・ホールディングス](https://ja.wikipedia.org/wiki/大和キャピタル・ホールディングス "wikilink")**とSMBC系の**[SMBCベンチャーキャピタル](https://ja.wikipedia.org/wiki/SMBCベンチャーキャピタル "wikilink")株式会社**（SMBCVC）に分割されている。
 
 ## 概説
 

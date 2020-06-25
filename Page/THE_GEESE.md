@@ -363,7 +363,7 @@
   - [アッシュ・アンド・ディ・コーポレーション](http://ash-d.info/talent.html)
   - [THE GEESE ウェブサイト](https://thegeese.jp/)
       - [お笑い・コントユニット「THE GEESE（ザ・ギース）」ホームページ](http://geese.fc2web.com/)（旧ホームページ）
-  - [THE GEESE（ザ・ギース）ブログ](http://blog.goo.ne.jp/the-geese/)
+  - [THE GEESE（ザ・ギース）ブログ](https://blog.goo.ne.jp/the-geese)
   - ギース高佐
       -
       -

@@ -9,10 +9,10 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 
 ### 1993年
 
-| 月   | 曲名                                                                                | アーティスト名                            |
-| --- | --------------------------------------------------------------------------------- | ---------------------------------- |
-| 7月  | [天気読み](../Page/天気読み.md "wikilink")                                                | [小沢健二](../Page/小沢健二.md "wikilink") |
-| 11月 | [INDIE POP CAR BABY](https://ja.wikipedia.org/wiki/INDIE_POP_CAR_BABY "wikilink") | Nelories                           |
+| 月   | 曲名                                                                                | アーティスト名                                                       |
+| --- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 7月  | [天気読み](../Page/天気読み.md "wikilink")                                                | [小沢健二](../Page/小沢健二.md "wikilink")                            |
+| 11月 | [INDIE POP CAR BABY](https://ja.wikipedia.org/wiki/INDIE_POP_CAR_BABY "wikilink") | [Nelories](https://ja.wikipedia.org/wiki/Nelories "wikilink") |
 
 ### 1994年
 
@@ -28,20 +28,20 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 
 ### 1995年
 
-| 月   | 曲名                                                                                          | アーティスト名                                                                  |
-| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 1月  | [LOVE COMMUNICATION](https://ja.wikipedia.org/wiki/LOVE_COMMUNICATION "wikilink")           | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")             |
-| 2月  | [Call Me Call Me](https://ja.wikipedia.org/wiki/Alive_\(LOVE_TAMBOURINESのアルバム\) "wikilink") | |[LOVE TAMBOURINES](../Page/ラヴ・タンバリンズ.md "wikilink")                     |
-| 3月  | [黄昏'95〜太陽の季節](https://ja.wikipedia.org/wiki/黄昏'95〜太陽の季節 "wikilink")                         | [TOKYO No.1 SOUL SET](../Page/TOKYO_No.1_SOUL_SET.md "wikilink")         |
-| 4月  | [ロビンソン](../Page/ロビンソン_\(曲\).md "wikilink")                                                  | [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")                               |
-| 5月  | [BOOSTER](https://ja.wikipedia.org/wiki/BOOSTER "wikilink")                                 | HAL FROM APOLLO'69                                                       |
-| 6月  | [大阪ストラット](../Page/大阪ストラット・パートII.md "wikilink")                                              | [ウルフルズ](../Page/ウルフルズ.md "wikilink")                                     |
-| 7月  | [ありったけの愛](https://ja.wikipedia.org/wiki/CALM_DOWN "wikilink")                               | [THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")                     |
-| 8月  | [明日の行方](https://ja.wikipedia.org/wiki/明日の行方 "wikilink")                                     | [SMILE](../Page/SMILE_\(バンド\).md "wikilink")                             |
-| 9月  | [COLONY](../Page/COLONY_\(UAの曲\).md "wikilink")                                             | [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")                 |
-| 10月 | [ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")                                                | [THE HIGH-LOWS](../Page/THE_HIGH-LOWS.md "wikilink")                     |
-| 11月 | [恋におちたら](https://ja.wikipedia.org/wiki/恋におちたら_\(サニーデイ・サービスの曲\) "wikilink")                  | [サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")        |
-| 12月 | [神歌](https://ja.wikipedia.org/wiki/神歌_\(THE_MAD_CAPSULE_MARKET'Sの曲\) "wikilink")            | [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink") |
+| 月   | 曲名                                                                                          | アーティスト名                                                                           |
+| --- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 1月  | [LOVE COMMUNICATION](https://ja.wikipedia.org/wiki/LOVE_COMMUNICATION "wikilink")           | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")                      |
+| 2月  | [Call Me Call Me](https://ja.wikipedia.org/wiki/Alive_\(LOVE_TAMBOURINESのアルバム\) "wikilink") | |[LOVE TAMBOURINES](../Page/ラヴ・タンバリンズ.md "wikilink")                              |
+| 3月  | [黄昏'95〜太陽の季節](https://ja.wikipedia.org/wiki/黄昏'95〜太陽の季節 "wikilink")                         | [TOKYO No.1 SOUL SET](../Page/TOKYO_No.1_SOUL_SET.md "wikilink")                  |
+| 4月  | [ロビンソン](../Page/ロビンソン_\(曲\).md "wikilink")                                                  | [スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")                                        |
+| 5月  | [BOOSTER](https://ja.wikipedia.org/wiki/BOOSTER "wikilink")                                 | [HAL FROM APOLLO'69](https://ja.wikipedia.org/wiki/HAL_FROM_APOLLO'69 "wikilink") |
+| 6月  | [大阪ストラット](../Page/大阪ストラット・パートII.md "wikilink")                                              | [ウルフルズ](../Page/ウルフルズ.md "wikilink")                                              |
+| 7月  | [ありったけの愛](https://ja.wikipedia.org/wiki/CALM_DOWN "wikilink")                               | [THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")                              |
+| 8月  | [明日の行方](https://ja.wikipedia.org/wiki/明日の行方 "wikilink")                                     | [SMILE](../Page/SMILE_\(バンド\).md "wikilink")                                      |
+| 9月  | [COLONY](../Page/COLONY_\(UAの曲\).md "wikilink")                                             | [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")                          |
+| 10月 | [ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")                                                | [THE HIGH-LOWS](../Page/THE_HIGH-LOWS.md "wikilink")                              |
+| 11月 | [恋におちたら](https://ja.wikipedia.org/wiki/恋におちたら_\(サニーデイ・サービスの曲\) "wikilink")                  | [サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")                 |
+| 12月 | [神歌](https://ja.wikipedia.org/wiki/神歌_\(THE_MAD_CAPSULE_MARKET'Sの曲\) "wikilink")            | [THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")          |
 
 ### 1996年
 
@@ -71,7 +71,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 7月  | [ENDLESS SUMMER NUDE](https://ja.wikipedia.org/wiki/ENDLESS_SUMMER_NUDE "wikilink")     | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                |
 | 8月  | [チャイナ・カフェ](https://ja.wikipedia.org/wiki/チャイナ・カフェ "wikilink")                           | [高橋徹也](../Page/高橋徹也.md "wikilink")                                      |
 | 9月  | [覚醒](../Page/覚醒_\(アルバム\).md "wikilink")                                                 | [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")                            |
-| 10月 | [終わりなき世界](https://ja.wikipedia.org/wiki/終わりなき世界 "wikilink")                             | カーマイン (音楽ユニット)|カーマイン                                                    |
+| 10月 | [終わりなき世界](https://ja.wikipedia.org/wiki/終わりなき世界 "wikilink")                             | [カーマイン](https://ja.wikipedia.org/wiki/カーマイン_\(音楽バンド\) "wikilink")       |
 | 11月 | [WALKING IN THE RHYTHM](https://ja.wikipedia.org/wiki/WALKING_IN_THE_RHYTHM "wikilink") | [Fishmans](https://ja.wikipedia.org/wiki/Fishmans "wikilink")           |
 | 12月 | [青すぎる空](https://ja.wikipedia.org/wiki/青すぎる空 "wikilink")                                 | [eastern youth](https://ja.wikipedia.org/wiki/eastern_youth "wikilink") |
 |     |                                                                                         |                                                                         |
@@ -433,7 +433,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 4月  | [Selfish](https://ja.wikipedia.org/wiki/分離派の夏 "wikilink")                            | [小袋成彬](https://ja.wikipedia.org/wiki/小袋成彬 "wikilink")                   |
 | 5月  | [真昼の月](https://ja.wikipedia.org/wiki/サラダデイズ "wikilink")                              | [Saucy Dog](https://ja.wikipedia.org/wiki/Saucy_Dog "wikilink")         |
 | 6月  | [Memory](https://ja.wikipedia.org/wiki/Digital_Analog_Translation_System "wikilink") | [DATS](https://ja.wikipedia.org/wiki/DATS "wikilink")                   |
-| 7月  | \[\[Sympa_(King_Gnuのアルバム)|Flash                                                    | \!\]\]                                                                  |
+| 7月  | \[\[Flash                                                                            | \!|Flash                                                                |
 | 8月  | [東京](https://ja.wikipedia.org/wiki/AHA_\(MONO_NO_AWAREのアルバム\) "wikilink")            | [MONO NO AWARE](https://ja.wikipedia.org/wiki/MONO_NO_AWARE "wikilink") |
 | 9月  | [溶けた銃口](https://ja.wikipedia.org/wiki/手_\(tetoのアルバム\) "wikilink")                    | [teto](https://ja.wikipedia.org/wiki/teto "wikilink")                   |
 | 10月 | [悲しみもいつかは](https://ja.wikipedia.org/wiki/swanflight "wikilink")                      | [Halo at 四畳半](https://ja.wikipedia.org/wiki/Halo_at_四畳半 "wikilink")     |
@@ -449,7 +449,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 2月  | [僕らまだアンダーグラウンド](https://ja.wikipedia.org/wiki/おとぎ "wikilink")               | [Eve](https://ja.wikipedia.org/wiki/Eve_\(歌手\) "wikilink")        |
 | 3月  | [Feel the Moon](https://ja.wikipedia.org/wiki/Natural_Born_Pain "wikilink") | [Kvi Baba](https://ja.wikipedia.org/wiki/Kvi_Baba "wikilink")     |
 | 4月  | [ノーベル](https://ja.wikipedia.org/wiki/mol-74（アルバム） "wikilink")               | [mol-74](https://ja.wikipedia.org/wiki/mol-74 "wikilink")         |
-| 5月  | [Pool](https://ja.wikipedia.org/wiki/FEEL_GOOD "wikilink")                  | [SIRUP](https://ja.wikipedia.org/wiki/SIRUP "wikilink")           |
+| 5月  | [Pool](https://ja.wikipedia.org/wiki/FEEL_GOOD "wikilink")                  | [SIRUP](../Page/SIRUP.md "wikilink")                              |
 | 6月  | [のめりこめ、震えろ。](https://ja.wikipedia.org/wiki/21世紀より愛をこめて "wikilink")          | [Tempalay](https://ja.wikipedia.org/wiki/Tempalay "wikilink")     |
 | 7月  | [イエス](https://ja.wikipedia.org/wiki/ズーカラデル（アルバム） "wikilink")                | [ズーカラデル](https://ja.wikipedia.org/wiki/ズーカラデル "wikilink")         |
 | 8月  | [Balloon](https://ja.wikipedia.org/wiki/Fishing "wikilink")                 | [chelmico](https://ja.wikipedia.org/wiki/chelmico "wikilink")     |
@@ -461,15 +461,15 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 
 ### 2020年
 
-| 月  | 曲名         | アーティスト名                                                     |
-| -- | ---------- | ----------------------------------------------------------- |
-| 1月 | GOLD TRAIN | [リーガルリリー](https://ja.wikipedia.org/wiki/リーガルリリー "wikilink") |
-| 2月 | ユースレスマシン   | [ハンブレッダーズ](../Page/ハンブレッダーズ.md "wikilink")                  |
-| 3月 | アイスクリーム    | [Rude-α](https://ja.wikipedia.org/wiki/Rude-α "wikilink")   |
-| 4月 | life hack  | [Vaundy](https://ja.wikipedia.org/wiki/Vaundy "wikilink")   |
-| 5月 | 優しさ        | [藤井風](../Page/藤井風.md "wikilink")                            |
-| 6月 |            |                                                             |
-|    |            |                                                             |
+| 月  | 曲名                  | アーティスト名                                                     |
+| -- | ------------------- | ----------------------------------------------------------- |
+| 1月 | GOLD TRAIN          | [リーガルリリー](https://ja.wikipedia.org/wiki/リーガルリリー "wikilink") |
+| 2月 | ユースレスマシン            | [ハンブレッダーズ](../Page/ハンブレッダーズ.md "wikilink")                  |
+| 3月 | アイスクリーム             | [Rude-α](https://ja.wikipedia.org/wiki/Rude-α "wikilink")   |
+| 4月 | life hack           | [Vaundy](https://ja.wikipedia.org/wiki/Vaundy "wikilink")   |
+| 5月 | 優しさ                 | [藤井風](../Page/藤井風.md "wikilink")                            |
+| 6月 | The Love We've Made | [milet](https://ja.wikipedia.org/wiki/milet "wikilink")     |
+| 7月 |                     |                                                             |
 
 ## POWER PUSH\! INTERNATIONAL
 
@@ -794,11 +794,20 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 3月 | CELESTE                            | [Stop This Flame](https://ja.wikipedia.org/wiki/Stop_This_Flame "wikilink") |
 | 4月 | WISH YOU WERE SOBER                | [CONAN GRAY](https://ja.wikipedia.org/wiki/CONAN_GRAY "wikilink")           |
 | 5月 | "JUMP" feat NBA Youngboy           | [DABABY](https://ja.wikipedia.org/wiki/DABABY "wikilink")                   |
-| 6月 |                                    |                                                                             |
+| 6月 | Say So                             | [Doja Cat](https://ja.wikipedia.org/wiki/Doja_Cat "wikilink")               |
+| 7月 |                                    |                                                                             |
 |    |                                    |                                                                             |
 
 ## その他
 
   - スペースシャワーTVの公式HPのバックナンバーは、2007年1月以降が掲載されており、2007年1月以前のPOWER PUSH\!アーティストは載っていない。
+
+<!-- end list -->
+
+  - パワープッシュが開始された時は画面上部の角に丸いマークでPower Push\!と表記されたのが出ていた。色は白地に抜き文字。ビデオクリップによって、黒地に抜き文字、青地に黄色文字などもあった。[天気読み](../Page/天気読み.md "wikilink")_[小沢健二](../Page/小沢健二.md "wikilink")から[Hip Hop Royal](https://ja.wikipedia.org/wiki/Hip_Hop_Royal "wikilink")_[YOU THE ROCK★まで上記のマークが表示されていた](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")。2002年4月にビデオミュージックチャンネル(現在の[スペースシャワーTVプラス](https://ja.wikipedia.org/wiki/スペースシャワーTVプラス "wikilink"))開局に伴いパワープッシュインターナショナルが開始した。パワープッシュのロゴも現在のロゴになった。パワープッシュのジングルが[ミラージュ](../Page/ミラージュ.md "wikilink")_[GOING UNDER GROUNDから始まり](../Page/GOING_UNDER_GROUND.md "wikilink")[君がいるなら★](https://ja.wikipedia.org/wiki/君がいるなら★ "wikilink")_[SOFFet](../Page/SOFFet.md "wikilink")まで、[AM 11:00](https://ja.wikipedia.org/wiki/AM_11:00 "wikilink")_[HY](https://ja.wikipedia.org/wiki/HY "wikilink")から[紫陽花](https://ja.wikipedia.org/wiki/紫陽花 "wikilink")_[椿屋四重奏](../Page/椿屋四重奏.md "wikilink")まで続いた。しかし、一新されたロゴの表記が[Life is Like a Boat](https://ja.wikipedia.org/wiki/Life_is_Like_a_Boat "wikilink")_[Rie Fuまでで](https://ja.wikipedia.org/wiki/Rie_Fu "wikilink")[セピア](https://ja.wikipedia.org/wiki/セピア "wikilink")_[Jackson vibeから現在の表記になった](../Page/Jackson_vibe.md "wikilink")。パワープッシュのジングルが[ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")_[タカチャ](../Page/タカチャ.md "wikilink")から[サイクル](https://ja.wikipedia.org/wiki/サイクル "wikilink")_[cutman-booche](https://ja.wikipedia.org/wiki/cutman-booche "wikilink")まで、[Monkey Discooooooo](https://ja.wikipedia.org/wiki/Monkey_Discooooooo "wikilink")_[the telephones\!から現在のジングルになった](https://ja.wikipedia.org/wiki/the_telephones! "wikilink")。
+
+<!-- end list -->
+
+  - パワープッシュ期間が終わってもパワープッシュ期間同様に頻繁にかかっていた曲が存在する。[ロビンソン](../Page/ロビンソン.md "wikilink")_[スピッツ](https://ja.wikipedia.org/wiki/スピッツ "wikilink")(1995年4月から1995年6月まで)と、[Automatic](https://ja.wikipedia.org/wiki/Automatic "wikilink")_[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")(1998年12月から1999年2月まで)の2曲。反対にパワープッシュ期間前から頻繁にかかっていた曲も存在する。[夏色](../Page/夏色.md "wikilink")_[ゆず](https://ja.wikipedia.org/wiki/ゆず "wikilink")。この曲は発売日は1998年6月3日で6月からバンバンかかっていた。しかし、1998年6月のパワープッシュ楽曲は[欲望](https://ja.wikipedia.org/wiki/欲望 "wikilink")_[ホフディラン](../Page/ホフディラン.md "wikilink")だった。月が変わって夏色_ゆずのビデオクリップにパワープッシュマークが付いた時にこれからまたひと月聴くのかと思った。
 
 [Category:スペースシャワーTV](https://ja.wikipedia.org/wiki/Category:スペースシャワーTV "wikilink") [Category:音楽作品の一覧](https://ja.wikipedia.org/wiki/Category:音楽作品の一覧 "wikilink")

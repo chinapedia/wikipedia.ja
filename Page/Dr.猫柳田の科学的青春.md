@@ -54,4 +54,4 @@
   - 真中ススム
     ミチルの婚約者。東京官僚大学を首席で卒業し、外交官を務めている。
 
-[Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:コミックバーズ](https://ja.wikipedia.org/wiki/Category:コミックバーズ "wikilink") [Category:高度経済成長期の日本を舞台とした作品](https://ja.wikipedia.org/wiki/Category:高度経済成長期の日本を舞台とした作品 "wikilink")
+[Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:2001年の漫画](https://ja.wikipedia.org/wiki/Category:2001年の漫画 "wikilink") [Category:コミックバーズ](https://ja.wikipedia.org/wiki/Category:コミックバーズ "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:高度経済成長期の日本を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高度経済成長期の日本を舞台とした漫画作品 "wikilink")

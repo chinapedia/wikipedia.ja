@@ -121,7 +121,7 @@
 ## スタッフ
 
   - プロデュース：[田村充義](https://ja.wikipedia.org/wiki/田村充義 "wikilink")（[田村制作所](https://ja.wikipedia.org/wiki/田村制作所 "wikilink")）、本間昭光（ブルーソファ）
-  - 録音：山内"Dr."隆義（[サウンドインスタジオ](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink")）、青柳延幸（[サンライズスタジオ](https://ja.wikipedia.org/wiki/サンライズスタジオ "wikilink")）、岡雅幸（ビクタースタジオ）
+  - 録音：山内"Dr."隆義（[サウンドインスタジオ](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink")）、[青柳延幸](https://ja.wikipedia.org/wiki/青柳延幸 "wikilink")（[サンライズスタジオ](https://ja.wikipedia.org/wiki/サンライズスタジオ "wikilink")）、岡雅幸（ビクタースタジオ）
   - ミキサー／プリ・マスター：山内"Dr."隆義
   - 録音スタジオ：ブルーソファスタジオ、ビクタースタジオ、サンライズスタジオ
   - ミキサースタジオ：サウンドインスタジオ、ブルーソファスタジオ

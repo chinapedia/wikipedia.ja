@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 前作「[HOWEVER](../Page/HOWEVER.md "wikilink")」に続いてミリオンセラーを達成し、1998年度のオリコン年間シングルランキング1位を獲得した（[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")・[CDTVでは](../Page/COUNT_DOWN_TV.md "wikilink")「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）に次ぐ年間2位）。初動売上はシングルでは自身初の80万枚を突破、GLAYのシングルでは初動・累計ともに「[Winter,again](../Page/Winter,again.md "wikilink")」に次いで2番目の売上を記録している。（162万枚）
+  - 前作「[HOWEVER](../Page/HOWEVER.md "wikilink")」に続いてミリオンセラーを達成し、1998年度のオリコン年間シングルランキング1位を獲得した（[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")・[CDTVでは](../Page/COUNT_DOWN_TV.md "wikilink")「[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")」（[SMAP](../Page/SMAP.md "wikilink")）に次ぐ年間2位）。初動売上はシングルでは自身初の80万枚を突破、GLAYのシングルでは初動・累計ともに「[Winter,again](../Page/Winter,again.md "wikilink")」に次いで2番目の売上を記録している。（162万枚）
   - 「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」との同時発売で、2週連続でオリコン1位・2位を独占した。1位・2位独占の記録は[1970年](../Page/1970年.md "wikilink")の[藤圭子](../Page/藤圭子.md "wikilink")「[圭子の夢は夜ひらく](../Page/圭子の夢は夜ひらく.md "wikilink")」「[女のブルース](../Page/女のブルース.md "wikilink")」、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の[松田聖子](../Page/松田聖子.md "wikilink")「[瞳はダイアモンド/蒼いフォトグラフ](https://ja.wikipedia.org/wiki/瞳はダイアモンド/蒼いフォトグラフ "wikilink")」「[ガラスの林檎/SWEET MEMORIES](https://ja.wikipedia.org/wiki/ガラスの林檎/SWEET_MEMORIES "wikilink")」、[1992年](../Page/1992年.md "wikilink")の[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[涙のキッス](../Page/涙のキッス.md "wikilink")」「[シュラバ★ラ★バンバ](../Page/シュラバ★ラ★バンバ.md "wikilink")」に続くオリコン史上4度目の記録である。
   - 2007年12月26日に行われたJACK IN THE BOX 2007にて[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")）とTERU、TAKUROがセッションし、「誘惑」と「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」をツインボーカルで披露した。
 

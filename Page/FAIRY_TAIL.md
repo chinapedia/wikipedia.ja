@@ -5640,7 +5640,7 @@ DVDは『月刊 FAIRY TAIL マガジン』に内包されている。
   - [FAIRY TAIL ゼレフ覚醒](https://ja.wikipedia.org/wiki/FAIRY_TAIL_ゼレフ覚醒 "wikilink")
     2012年3月22日にコナミよりPSP用ソフトとして発売。
   - FAIRY TAIL
-    2020年6月25日に[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")より[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")/[Nintendo Switch用ソフトとして発売予定](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。コンシューマ向けとしては『ゼレフ覚醒』以来の完全新作となる。
+    2020年7月30日に[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")より[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")/[Nintendo Switch用ソフトとして発売予定](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。コンシューマ向けとしては『ゼレフ覚醒』以来の完全新作となる。
 
 ### モバイルゲーム
 

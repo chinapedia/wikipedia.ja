@@ -684,7 +684,7 @@
 
   - [OZROSAURUS](http://www.universal-music.co.jp/ozrosaurus/) - [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
 
-[Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink")
+[Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
 
 1.  [Profile](http://www.ozrosaurus.jp/html/profile.html) - OZROSAURUS Official Web Site
 2.  [OZROSAURUS : バイオグラフィー](http://www.barks.jp/artist/?id=52005631&m=bio) - BARKS アーティスト

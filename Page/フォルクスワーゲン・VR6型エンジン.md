@@ -111,6 +111,10 @@ V型6気筒エンジンでは[シリンダーヘッド](https://ja.wikipedia.org
   - [フォルクスワーゲン・ニュービートル](../Page/フォルクスワーゲン・ニュービートル.md "wikilink")
   - [セアト・トレド](https://ja.wikipedia.org/wiki/:en:SEAT_Toledo "wikilink") Mk2
 
+### WR8型
+
+  - [フォルクスワーゲン・パサート](../Page/フォルクスワーゲン・パサート.md "wikilink") (B5）
+
 ### WR12型
 
   - [アウディ・A8 W12](../Page/アウディ・A8.md "wikilink")

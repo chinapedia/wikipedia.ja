@@ -73,12 +73,12 @@
 
   - **RYO**（リョウ、本名：前田亮太、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月11日](../Page/7月11日.md "wikilink") - ）
       - 長崎県長崎市出身。血液型O型。
-      - VOCAL BATTLE AUDITIONのセミファイナリストを経て2006年加入。2018年12月31日に芸能界引退\[15\]。
-      - メンバーのYUICHIROは実兄\[16\]。
+      - VOCAL BATTLE AUDITIONのセミファイナリストを経て2006年加入。2018年12月31日に芸能界引退\[15\]。2019年にブランドを立ち上げた\[16\]。
+      - メンバーのYUICHIROは実兄\[17\]。
 
 ## 作品
 
-順位はオリコン週間ランキングの最高位\[17\]
+順位はオリコン週間ランキングの最高位\[18\]
 
 ### シングル
 
@@ -421,7 +421,7 @@
 | 2008年6月18日      | [COLOR LIVE TOUR 2007 BLUE](https://ja.wikipedia.org/wiki/COLOR_LIVE_TOUR_2007_BLUE "wikilink")               |
 | 2008年11月12日     | [COLOR LIVE TOUR 2008 BLACK](https://ja.wikipedia.org/wiki/COLOR_LIVE_TOUR_2008_BLACK "wikilink")             |
 | DEEP            |                                                                                                               |
-| 2011年7月6日\[18\] | [DEEP SYMPHONIC CONCERT TOUR 2010](https://ja.wikipedia.org/wiki/DEEP_SYMPHONIC_CONCERT_TOUR_2010 "wikilink") |
+| 2011年7月6日\[19\] | [DEEP SYMPHONIC CONCERT TOUR 2010](https://ja.wikipedia.org/wiki/DEEP_SYMPHONIC_CONCERT_TOUR_2010 "wikilink") |
 
 ### 参加作品
 
@@ -519,7 +519,7 @@
   - DEEP LIVE HOUSE TOUR 2015 "Love Light"（3月25日 - 5月30日）
   - DEEP OFFICIAL FAN CLUB LIVE 2015 "MORE DEEP"（10月11日 - 12月23日）
   - DEEP COUNTDOWN LIVE 2015-2016（12月31日）
-  - EXILE THE SECOND LIVE TOUR 2017-2018 "ROUTE 6・6"（10月28日 - 5月24日）\[19\]
+  - EXILE THE SECOND LIVE TOUR 2017-2018 "ROUTE 6・6"（10月28日 - 5月24日）\[20\]
   - DEEP LIVE TOUR 2018 "THE SINGER"（11月26日 - 12月26日）
   - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月25日、4月4日</s>）新型ウイルスによる政府の自粛要請に従い中止
 
@@ -536,20 +536,20 @@
 
 ### 配信
 
-  - 漢部 〜真ノ男道〜（2014年10月\[20\] - 2015年2月\[21\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）\[22\]
+  - 漢部 〜真ノ男道〜（2014年10月\[21\] - 2015年2月\[22\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）\[23\]
 
 ## DEEP SQUAD
 
-**DEEP SQUAD**（ディープ スクワッド）は、DEEPによるプロジェクト。2019年2月19日、「DEEP VOCALIST AUDITION」の開催を発表\[23\]。同年4月より始動した1次審査は、約1万2千人が参加した。同年7月22日に赤坂BLITZで最終審査を行い、DEEPと合格者によるプロジェクト「DEEP SQUAD」を発表\[24\]。
+**DEEP SQUAD**（ディープ スクワッド）は、DEEPによるプロジェクト。2019年2月19日、「DEEP VOCALIST AUDITION」の開催を発表\[24\]。同年4月より始動した1次審査は、約1万2千人が参加した。同年7月22日に赤坂BLITZで最終審査を行い、DEEPと合格者によるプロジェクト「DEEP SQUAD」を発表\[25\]。
 
 **DEEP以外のメンバー**
 
   - 宇原雄飛（うはら ゆうひ、[2001年](../Page/2001年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - ）
-      - [大阪府](../Page/大阪府.md "wikilink")出身。身長178cm\[25\]。
+      - [大阪府](../Page/大阪府.md "wikilink")出身。身長178cm\[26\]。
   - 杉山亮司（すぎやま りょうじ、[1996年](../Page/1996年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") - ）
-      - [埼玉県](../Page/埼玉県.md "wikilink")出身。身長177cm\[26\]。
+      - [埼玉県](../Page/埼玉県.md "wikilink")出身。身長177cm\[27\]。
   - 比嘉涼樹（ひが すずき、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）
-      - [沖縄県](../Page/沖縄県.md "wikilink")出身。身長175cm\[27\]。
+      - [沖縄県](../Page/沖縄県.md "wikilink")出身。身長175cm\[28\]。
 
 **ライブ**
 
@@ -597,8 +597,8 @@
 15.
 16.
 17.
-18. ファンクラブ期間限定販売
-19.
+18.
+19. ファンクラブ期間限定販売
 20.
 21.
 22.
@@ -607,3 +607,4 @@
 25.
 26.
 27.
+28.

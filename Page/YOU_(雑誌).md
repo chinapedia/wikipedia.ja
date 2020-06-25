@@ -90,6 +90,7 @@
   - [福原ヒロ子](https://ja.wikipedia.org/wiki/福原ヒロ子 "wikilink") 「裁きの家」
   - [星崎真紀](../Page/星崎真紀.md "wikilink") 「[ひみつな奥さん](../Page/ひみつな奥さん.md "wikilink")」「|新ひみつな奥さん」「[ステージママの分際で\!](https://ja.wikipedia.org/wiki/ステージママの分際で! "wikilink")」
   - [松本ぷりっつ](../Page/松本ぷりっつ.md "wikilink")「[にじいろあっちゃん](https://ja.wikipedia.org/wiki/にじいろあっちゃん "wikilink")」
+  - [宮越和草](https://ja.wikipedia.org/wiki/宮越和草 "wikilink")　[真実イチロ](https://ja.wikipedia.org/wiki/真実イチロ "wikilink")「[エーヨーヒーロー](https://ja.wikipedia.org/wiki/エーヨーヒーロー "wikilink")」
   - [桃栗みかん](../Page/河下水希.md "wikilink")「群青にサイレン」
   - [もりたじゅん](https://ja.wikipedia.org/wiki/もりたじゅん "wikilink") 「[ニシンとシシャモ](https://ja.wikipedia.org/wiki/ニシンとシシャモ "wikilink")」「[大借金](https://ja.wikipedia.org/wiki/大借金 "wikilink")」「[マイ・プア・レディー](https://ja.wikipedia.org/wiki/マイ・プア・レディー "wikilink")」
   - [森本梢子](../Page/森本梢子.md "wikilink") 「[わたしがママよ](https://ja.wikipedia.org/wiki/わたしがママよ "wikilink")」「[研修医なな子](../Page/研修医なな子.md "wikilink")」「[ごくせん](../Page/ごくせん.md "wikilink")」「[デカワンコ](https://ja.wikipedia.org/wiki/デカワンコ "wikilink")」「[高台家の人々](https://ja.wikipedia.org/wiki/高台家の人々 "wikilink")」

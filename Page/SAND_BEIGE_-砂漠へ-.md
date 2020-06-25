@@ -45,7 +45,7 @@
 
   - [中森明菜 「SAND BEIGE-砂漠へ-」｜Warner Music Japan](https://wmg.jp/akina/discography/5190/)
 
-[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:1985年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1985年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:都志見隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:都志見隆が制作した楽曲 "wikilink") [Category:アフリカを舞台とした作品](https://ja.wikipedia.org/wiki/Category:アフリカを舞台とした作品 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+[Category:中森明菜の楽曲](https://ja.wikipedia.org/wiki/Category:中森明菜の楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:1985年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1985年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:都志見隆が制作した楽曲](https://ja.wikipedia.org/wiki/Category:都志見隆が制作した楽曲 "wikilink") [Category:アフリカを舞台とした作品](https://ja.wikipedia.org/wiki/Category:アフリカを舞台とした作品 "wikilink") [Category:砂を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:砂を題材とした楽曲 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
 
 1.
 2.

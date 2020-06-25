@@ -1,7 +1,7 @@
 > この記事は[中央競馬実況中継 \(STVラジオ\)](https://ja.wikipedia.org/wiki/中央競馬実況中継_\(STVラジオ\))から翻訳されています。
 
 
-**中央競馬実況中継**（ちゅうおうけいばじっきょうちゅうけい）は[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")が土曜「[GO\!GO\!サタデー](https://ja.wikipedia.org/wiki/GO!GO!サタデー_\(STVラジオ\) "wikilink")」、日曜「[GO\!GO\!サンデー](https://ja.wikipedia.org/wiki/GO!GO!サタデー_\(STVラジオ\) "wikilink")」の番組内で放送されている[中央競馬](../Page/中央競馬.md "wikilink")中継のタイトルである。
+**中央競馬実況中継**（ちゅうおうけいばじっきょうちゅうけい）は[STVラジオ](../Page/STVラジオ.md "wikilink")が土曜「[GO\!GO\!サタデー](https://ja.wikipedia.org/wiki/GO!GO!サタデー_\(STVラジオ\) "wikilink")」、日曜「[GO\!GO\!サンデー](https://ja.wikipedia.org/wiki/GO!GO!サタデー_\(STVラジオ\) "wikilink")」の番組内で放送されている[中央競馬](../Page/中央競馬.md "wikilink")中継のタイトルである。
 
 ## 概要
 

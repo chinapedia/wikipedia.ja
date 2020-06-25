@@ -77,7 +77,7 @@
   - 小橋蔵人：[三田康二](https://ja.wikipedia.org/wiki/三田康二 "wikilink")
   - 御池十郎左衛門：[唐沢民賢](../Page/唐沢民賢.md "wikilink")
   - 南保余一兵衛：[高月忠](https://ja.wikipedia.org/wiki/高月忠 "wikilink")
-  - 大田黒兵助：[真木仁](https://ja.wikipedia.org/wiki/真木仁 "wikilink")
+  - 大田黒兵助：[真木仁](../Page/真木仁.md "wikilink")
   - 高田軍平：[岡田直樹](../Page/岡田直樹.md "wikilink")
   - 日下部兵馬：[内田大貴](https://ja.wikipedia.org/wiki/内田大貴 "wikilink")
 

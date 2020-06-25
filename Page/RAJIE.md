@@ -1,7 +1,7 @@
 > この記事は[RAJIE](https://ja.wikipedia.org/wiki/RAJIE)から翻訳されています。
 
 
-**RAJIE**（ラジ　本名：**本田(旧姓：相馬)淳子**、[1956年](../Page/1956年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。
+**RAJIE**（ラジ、本名：**本田 淳子**（旧姓：相馬）、[1956年](../Page/1956年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である。
 
 ## 来歴・人物
 

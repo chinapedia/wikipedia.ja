@@ -146,7 +146,12 @@
 
 また、2015年7月に[国土交通省](../Page/国土交通省.md "wikilink")は、ICaを含む地域独自カードエリアにおいて、manacaや全国相互利用サービスに対応する新片利用システムの開発、支援を行うことを検討していると発表している。
 
-2018年2月23日から、金沢駅西口バス待合室に設置の小松空港リムジンバス自動券売機（2基）のみ、全国交通系ICカードに対応した。（乗車券購入、残額確認のみ。ICa（アイカ）での購入は不可。カードリーダーのマークはmanaca）\[3\]
+[北陸鉄道](../Page/北陸鉄道.md "wikilink")では、2018年2月23日から、一部のバス乗車券の事前購入のみ[Suica](../Page/Suica.md "wikilink")などの[全国相互利用サービス対応の交通系ICカードが利用できるようになった](https://ja.wikipedia.org/wiki/交通系ICカード全国相互利用サービス "wikilink")。\[3\]（ICa（アイカ）での購入は不可。電子マネー端末は、[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")）
+
+  - 交通系ICカード利用可能場所及び購入可能な乗車券
+      - [金沢駅西口バスターミナル北鉄バス待合室内自動券売機](https://ja.wikipedia.org/wiki/金沢駅バスターミナル#西口 "wikilink")（[小松空港連絡バス](../Page/小松空港連絡バス.md "wikilink")乗車券）
+      - [小松空港](https://ja.wikipedia.org/wiki/小松空港 "wikilink")バス乗り場前自動券売機（バス乗車券）
+      - [金沢駅東口バスターミナル北鉄グループ案内所](https://ja.wikipedia.org/wiki/金沢駅バスターミナル#東口 "wikilink")（[金沢市内1日フリー乗車券](https://ja.wikipedia.org/wiki/北鉄バス#企画乗車券 "wikilink")）\[4\]
 
 ## 脚注
 
@@ -160,3 +165,4 @@
 1.  [カーシェアポイントをお持ちのお客様へ](http://www.hokutetsu.co.jp/news/news130313.html) - 北陸鉄道株式会社公式ウェブサイト-NEWS-
 2.  [北陸新幹線開業にあわせ平成27年3月14日より金沢地区の路線バスで交通系ICカードサービスPiTaPaがご利用いただけます。小銭いらずでスムーズな降車が可能に。～ 北陸で初めて全国相互利用サービスに対応～](http://www.nishinihonjrbus.co.jp/web/uploads/news/61e654172ca9e795b3b4d33eef5cbfa041cf4aac.pdf)（西日本ジェイアールバス 2015年3月14日）
 3.  [小松空港乗車券券売機の全国交通系ICカード対応について（2/23）](http://www.hokutetsu.co.jp/archives/25797)（北陸鉄道 新着情報 2018年3月6日）
+4.

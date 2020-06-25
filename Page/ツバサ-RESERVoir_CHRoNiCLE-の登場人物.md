@@ -54,7 +54,8 @@
 
 侑子たちのいる日本とは別の世界 。黒鋼一家はオリジナルキャラクターである。
 
-  - 黒鋼
+  - 黒鋼(くろがね)
+    　声 - [稲田徹](../Page/稲田徹.md "wikilink")
     知世姫に仕える忍者だが、訳あって小狼や桜と行動を共にする。
     詳しくは、[ツバサ-RESERVoir CHRoNiCLE-のメインキャラクターを参照](../Page/ツバサ-RESERVoir_CHRoNiCLE-のメインキャラクター.md "wikilink")。
   - 知世（ともよ）:声 - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")

@@ -35,7 +35,7 @@
 
 ### 渡辺明竜王との対局
 
-[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")、[大和証券杯ネット将棋・最強戦](https://ja.wikipedia.org/wiki/大和証券杯ネット将棋・最強戦 "wikilink")の創設を記念して、[渡辺明](../Page/渡辺明_\(棋士\).md "wikilink")[竜王との平手一番特別対局が組まれた](https://ja.wikipedia.org/wiki/竜王戦 "wikilink")。結果は渡辺が勝利した。対局は品川[プリンスホテル](../Page/プリンスホテル.md "wikilink")での[公開対局となりBonanzaの先手](https://ja.wikipedia.org/wiki/公開対局_\(将棋\) "wikilink")、[持ち時間](../Page/持ち時間.md "wikilink")はそれぞれ2時間とされた。Bonanza側には、駒を動かすアシスタントとして当時奨励会三段の[田中悠一](https://ja.wikipedia.org/wiki/田中悠一 "wikilink")がつき、保木は初手と終局以外は、Bonanzaの監視を行った。公の場で、コンピュータ将棋がタイトル保持者と平手で対局するのは初めてのことであったが、渡辺は「私は嫌でしたが、頼まれたので引き受けました、と公表すること」を条件として、これを引き受けた\[12\]
+[2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")、[大和証券杯ネット将棋・最強戦](https://ja.wikipedia.org/wiki/大和証券杯ネット将棋・最強戦 "wikilink")の創設を記念して、[渡辺明](../Page/渡辺明_\(棋士\).md "wikilink")[竜王との平手一番特別対局が組まれた](https://ja.wikipedia.org/wiki/竜王戦 "wikilink")。結果は渡辺が勝利した。対局は品川[プリンスホテル](../Page/プリンスホテル.md "wikilink")での[公開対局となりBonanzaの先手](https://ja.wikipedia.org/wiki/公開対局_\(将棋\) "wikilink")、[持ち時間](../Page/持ち時間.md "wikilink")はそれぞれ2時間とされた。Bonanza側には、駒を動かすアシスタントとして当時奨励会三段の[田中悠一](https://ja.wikipedia.org/wiki/田中悠一 "wikilink")がつき、保木は初手と終局以外は、Bonanzaの監視を行った。公の場で、コンピュータ将棋がタイトル保持者と平手で対局するのは初めてのことであったが、渡辺は「私は嫌でしたが、頼まれたので引き受けました、と公表すること」を条件として、これを引き受けた\[12\]。
 
 この対局に用いられたBonanzaは、当時公開されていたver.2.1と比較しても、探索手数を大幅に増やし、戦法の選択を改善するなどチューニングをほどこしたものであった。またハードウェアもリアルコンピューティングの「RC Server Calm2000」（CPU：Intel Xeon X5355 2.66GHz×8cores、メモリ：8GB)と、市販のPCよりは高性能のものを使用した。これにより将棋倶楽部24でのレーティングは2800相当（アマチュア最強レベル）に達したという。
 

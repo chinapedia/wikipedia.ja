@@ -135,12 +135,10 @@
 
 ## 備考
 
-  - 創刊にあたり2006年[10月21日](../Page/10月21日.md "wikilink")より[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[関西テレビ](../Page/関西テレビ放送.md "wikilink")、[KBS京都テレビで大々的な](../Page/京都放送.md "wikilink")[TVCMキャンペーンを展開した](../Page/コマーシャルメッセージ.md "wikilink")。[安倍内閣発足直後だったことから](../Page/第1次安倍内閣.md "wikilink")、CMコピーには「美しい新聞」を、CMキャラクターには[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")を起用。当紙に対する産経新聞社の意気込みの強さを表していた。ただし、「美しい新聞」というキャッチフレーズは、安倍政権の支持率低落とともに使われなくなった。
-  - [2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは、「残念じゃない新聞」をキャッチフレーズに、[千原せいじ](../Page/千原せいじ.md "wikilink")を起用した[スポットCM](../Page/スポットCM.md "wikilink")を上記のテレビ局で放送した。[千原ジュニア](../Page/千原ジュニア.md "wikilink")が初めて監督を務めた映像作品で、「残念じゃない新聞」というフレーズも彼のアイデアによった[1](http://sankei-express.iza.ne.jp/blog/entry/1268983/)。
+  - 創刊にあたり2006年[10月21日](../Page/10月21日.md "wikilink")より[フジテレビと](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[関西テレビ](../Page/関西テレビ放送.md "wikilink")、[KBS京都テレビで大々的な](../Page/京都放送.md "wikilink")[TVCMキャンペーンを展開した](../Page/コマーシャルメッセージ.md "wikilink")。[安倍内閣発足直後だったことから](../Page/第1次安倍内閣.md "wikilink")、CMコピーには「美しい新聞」を、CMキャラクターには[SMAP](../Page/SMAP.md "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")を起用。当紙に対する産経新聞社の意気込みの強さを表していた。ただし、「美しい新聞」というキャッチフレーズは、安倍政権の支持率低落とともに使われなくなった。
+  - [2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは、「残念じゃない新聞」をキャッチフレーズに、[千原せいじ](../Page/千原せいじ.md "wikilink")を起用した[スポットCM](../Page/スポットCM.md "wikilink")を上記のテレビ局で放送した。[千原ジュニア](../Page/千原ジュニア.md "wikilink")が初めて監督を務めた映像作品で、「残念じゃない新聞」というフレーズも彼のアイデアによった。
 
 ## 脚注
-
-<references />
 
 ## 関連項目
 
@@ -152,7 +150,7 @@
 
   -
   -
-[Category:日本の新聞_(廃刊)](https://ja.wikipedia.org/wiki/Category:日本の新聞_\(廃刊\) "wikilink") [Category:産経新聞](https://ja.wikipedia.org/wiki/Category:産経新聞 "wikilink") [Category:産業経済新聞社](https://ja.wikipedia.org/wiki/Category:産業経済新聞社 "wikilink") [Category:東京都のマスメディア](https://ja.wikipedia.org/wiki/Category:東京都のマスメディア "wikilink") [Category:大阪府のマスメディア](https://ja.wikipedia.org/wiki/Category:大阪府のマスメディア "wikilink")
+[Category:日本の新聞_(廃刊)](https://ja.wikipedia.org/wiki/Category:日本の新聞_\(廃刊\) "wikilink") [Category:産経新聞社の歴史](https://ja.wikipedia.org/wiki/Category:産経新聞社の歴史 "wikilink") [Category:東京都のマスメディア](https://ja.wikipedia.org/wiki/Category:東京都のマスメディア "wikilink") [Category:大阪府のマスメディア](https://ja.wikipedia.org/wiki/Category:大阪府のマスメディア "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink") [Category:2016年刊行終了の刊行物](https://ja.wikipedia.org/wiki/Category:2016年刊行終了の刊行物 "wikilink")
 
 1.
 2.

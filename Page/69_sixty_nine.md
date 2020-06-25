@@ -98,6 +98,6 @@
   -
   -
   -
-[Category:1987年の小説](https://ja.wikipedia.org/wiki/Category:1987年の小説 "wikilink") [Category:村上龍の小説](https://ja.wikipedia.org/wiki/Category:村上龍の小説 "wikilink") [Category:長崎県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:長崎県を舞台とした作品 "wikilink") [Category:高等学校を舞台とした小説](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした小説 "wikilink") [Category:佐世保市の文化](https://ja.wikipedia.org/wiki/Category:佐世保市の文化 "wikilink")
+[Category:1987年の小説](https://ja.wikipedia.org/wiki/Category:1987年の小説 "wikilink") [Category:村上龍の小説](https://ja.wikipedia.org/wiki/Category:村上龍の小説 "wikilink") [Category:長崎県を舞台とした小説](https://ja.wikipedia.org/wiki/Category:長崎県を舞台とした小説 "wikilink") [Category:高等学校を舞台とした小説](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした小説 "wikilink") [Category:佐世保市の文化](https://ja.wikipedia.org/wiki/Category:佐世保市の文化 "wikilink")
 
 1.  『69 sixty nine』あとがき

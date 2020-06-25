@@ -11,7 +11,7 @@
 
 テレビ東京系『[おはスタ](../Page/おはスタ.md "wikilink")』とは視聴者が違うこともあり、テレビ番組との連携は少なかった。[ナイター](../Page/ナイター.md "wikilink")シーズンに伴う春・秋の番組改編期ごとに、放送局によっては曜日や時間帯が大幅に変更することもあった。
 
-[ニッポン放送](../Page/ニッポン放送.md "wikilink")の他にも、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[ラジオ大阪](../Page/大阪放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")で放送されたが、2005年3月に番組が終了したため、この4局は後番組として同年4月から、[文化放送](../Page/文化放送.md "wikilink")発の『[テニスの王子様 オン・ザ・レイディオ](../Page/テニスの王子様_オン・ザ・レイディオ.md "wikilink")』を放送することになった。
+[ニッポン放送](../Page/ニッポン放送.md "wikilink")の他にも、[STVラジオ](../Page/STVラジオ.md "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[ラジオ大阪](../Page/大阪放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")で放送されたが、2005年3月に番組が終了したため、この4局は後番組として同年4月から、[文化放送](../Page/文化放送.md "wikilink")発の『[テニスの王子様 オン・ザ・レイディオ](../Page/テニスの王子様_オン・ザ・レイディオ.md "wikilink")』を放送することになった。
 
 ## ニッポン放送の放送時間
 

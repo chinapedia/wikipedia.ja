@@ -1,7 +1,7 @@
 > この記事は[KSBスーパーJチャンネル](https://ja.wikipedia.org/wiki/KSBスーパーJチャンネル)から翻訳されています。
 
 
-『**KSBスーパーJチャンネル**』（ケイエスビー・スーパージェイチャンネル）は、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（KSB）で放送されている夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』は1997年3月31日から既に放送されていたが、KSBは2000年3月31日まで前番組『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』のタイトルを使用した『[KSBステーションEYE](../Page/KSBステーションEYE.md "wikilink")』を放送していた。通常は[高松本社製作である](https://ja.wikipedia.org/wiki/高松市 "wikilink")。音楽はテレビ朝日とは違う独自のものを使用し、CMに前に表示するテロップはテレビ朝日の昔のものを使用している。
+『**KSBスーパーJチャンネル**』（ケイエスビー・スーパージェイチャンネル）は、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（KSB）で放送されている夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』は1997年3月31日から既に放送されていたが、KSBは2000年3月31日まで前番組『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』のタイトルを使用した『[KSBステーションEYE](../Page/KSBステーションEYE.md "wikilink")』を放送していた。通常は[高松本社製作である](https://ja.wikipedia.org/wiki/高松市 "wikilink")。音楽はテレビ朝日とは違う独自のものを使用し、CMに前に表示するテロップはテレビ朝日の昔のものを使用している。
 
 ## 放送時間
 
@@ -22,7 +22,7 @@
 ### 開始前 - 開始当初
 
   - 元々17時台は刑事ドラマ（過去にテレビ朝日で放送された『[西部警察](../Page/西部警察.md "wikilink")』『[特捜最前線](../Page/特捜最前線.md "wikilink")』『[はぐれ刑事純情派](../Page/はぐれ刑事純情派.md "wikilink")』『[さすらい刑事旅情編](../Page/さすらい刑事旅情編.md "wikilink")』など）再放送枠だった枠を、それまで14時台に編成していた生活[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[にこまるTV](../Page/にこまるTV.md "wikilink")』（現在は終了）を事実上内包し、『おとなりTV・KSBスーパーJチャンネル』のタイトルでスタート。
-      - [山陽放送は](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")17時台にローカルワイドを編成（2005年4月から2009年3月までは『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』を、2010年4月から9月までは『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』をネットしていたために16時台に編成）していたことや、[西日本放送も](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")『[RNCワイドニュースプラス1](../Page/RNCワイドニュースプラス1.md "wikilink")』（現『[RNC news every.](https://ja.wikipedia.org/wiki/RNC_news_every. "wikilink")』）を時間枠拡大（実質は、RNCキー局である[日本テレビ製作の東京ローカルの内容もそのまま放送](../Page/日本テレビ放送網.md "wikilink")）したこともあった。
+      - [山陽放送は](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")17時台にローカルワイドを編成（2005年4月から2009年3月までは『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』を、2010年4月から9月までは『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』をネットしていたために16時台に編成）していたことや、[西日本放送も](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")『[RNCワイドニュースプラス1](../Page/RNCワイドニュースプラス1.md "wikilink")』（現『[RNC news every.](https://ja.wikipedia.org/wiki/RNC_news_every. "wikilink")』）を時間枠拡大（実質は、RNCキー局である[日本テレビ製作の東京ローカルの内容もそのまま放送](../Page/日本テレビ放送網.md "wikilink")）したこともあった。
   - しかし、視聴率が思わしくなかったために3か月で方向転換し、『にこまるTV』は再独立。タイトルも「おとなりTV」を外して『KSBスーパーJチャンネル』と改め、放送内容も17時台前半はキー局のテレビ朝日のネットとして後半をローカル情報枠という、現在とほぼ同じ内容になって現在に至る。
   - コメンテーター制も金曜のみとなり、レギュラーゲストという形になった。また、視聴者参加の電話クイズコーナー（全曜日共通）、金曜の[FM香川](https://ja.wikipedia.org/wiki/FM香川 "wikilink")『[JOY-U・CLUB](../Page/JOY-U・CLUB.md "wikilink")』との同時放送コーナー「おとなりFM中継」は2年ほど続けられた。
   - かつては17時台の後半で飛び降りて17:54までローカル枠を放送していたが、2012年3月時点で17時台フルネットに移行した。
@@ -107,7 +107,7 @@
 ## 関連項目
 
   - [KSBステーションEYE](../Page/KSBステーションEYE.md "wikilink")（前番組）
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 外部リンク

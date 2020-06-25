@@ -92,7 +92,7 @@ __TOC__ {{-}}
   - 2009年1月28日、メジャー3rdシングル「あの日タイムマシン」をリリース。アニメ「[続 夏目友人帳](https://ja.wikipedia.org/wiki/続_夏目友人帳 "wikilink")」のオープニングテーマソング。
   - 2009年2月7日、書き下ろしの新曲「ハートビート」が、2009年[スカパー\!Ｊリーグ中継オフィシャルソングに決定と発表される](../Page/スカパー!プレミアムサービス.md "wikilink")。
   - 2009年8月5日、メジャー4thシングル「ハートビート」をリリース。
-  - 2010年7月3日、フランスで開催される[JAPAN EXPO](../Page/JAPAN_EXPO.md "wikilink")2010に出演（他出演アーティスト：[X-JAPAN](https://ja.wikipedia.org/wiki/X-JAPAN "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink") など）
+  - 2010年7月3日、フランスで開催される[JAPAN EXPO](../Page/JAPAN_EXPO.md "wikilink")2010に出演（他出演アーティスト：[X-JAPAN](https://ja.wikipedia.org/wiki/X-JAPAN "wikilink")、[聖飢魔II](../Page/聖飢魔II.md "wikilink")、[モーニング娘。](../Page/モーニング娘。.md "wikilink") など）
   - 2010年7月28日、メジャー1stアルバム「LONG SHOT PARTY」をリリース。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")、渋谷eggmanでのワンマンライブ「THANKS 2010」をもって[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")。
 

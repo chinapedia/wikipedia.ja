@@ -1,7 +1,7 @@
 > この記事は[TOHOシネマズ日劇](https://ja.wikipedia.org/wiki/TOHOシネマズ日劇)から翻訳されています。
 
 
-**TOHOシネマズ日劇**（とうほうシネマズにちげき、）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")二丁目にあった、[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社が経営・運営3つの[映画館](../Page/映画館.md "wikilink")の総称。
+**TOHOシネマズ日劇**（とうほうシネマズにちげき、）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[有楽町](../Page/有楽町.md "wikilink")二丁目にあった、[TOHOシネマズ](https://ja.wikipedia.org/wiki/TOHOシネマズ "wikilink")株式会社が経営・運営する3つの[映画館](../Page/映画館.md "wikilink")の総称。
 
 ## 概要
 

@@ -93,7 +93,7 @@
 
 <!-- end list -->
 
-  - **Raychell**（レイチェル - 2ndボーカル担当。1月13日 - ）
+  - **[Raychell](https://ja.wikipedia.org/wiki/Raychell "wikilink")**（レイチェル - 2ndボーカル担当。1月13日 - ）
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@
 
 <!-- end list -->
 
-  - **夏芽**（ナツメ - [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日 - ）
+  - **[夏芽](https://ja.wikipedia.org/wiki/夏芽 "wikilink")**（ナツメ - [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日 - ）
 
 <!-- end list -->
 

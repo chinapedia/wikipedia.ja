@@ -92,7 +92,7 @@
 ## 外部リンク
 
   - [Littlewitch](http://www.littlewitch.jp/)
-  - [Quartett\!-STAGE OF LOVE-](http://www.oaks-soft.co.jp/princess-soft/quartett/)
+  - [PS2版 Quartett\! ～THE STAGE OF LOVE～](https://web.archive.org/web/20160920151605/http://www.oaks-soft.co.jp/princess-soft/quartett/) 製品情報（2016年9月20日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
 [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:アドベンチャーゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2004年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2004年のアダルトゲーム "wikilink") [Category:音楽学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:音楽学校を舞台とした作品 "wikilink") [Category:弦楽四重奏を題材とした作品](https://ja.wikipedia.org/wiki/Category:弦楽四重奏を題材とした作品 "wikilink")
 

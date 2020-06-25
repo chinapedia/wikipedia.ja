@@ -37,7 +37,7 @@
 
 ### その他
 
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
       - 『[ありがとう](../Page/ありがとう_\(SMAPの曲\).md "wikilink")』…作詞・作曲
       - 『どうか届きますように』（アルバム『[super.modern.artistic.performance](https://ja.wikipedia.org/wiki/super.modern.artistic.performance "wikilink")』）…作詞・作曲
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")

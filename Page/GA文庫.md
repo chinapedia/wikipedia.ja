@@ -129,7 +129,7 @@ GA文庫のイラストを纏めた[ムック](../Page/ムック_\(出版\).md "
   -
   -
   -
-[Category:GA文庫](https://ja.wikipedia.org/wiki/Category:GA文庫 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")
+[Category:GA文庫](https://ja.wikipedia.org/wiki/Category:GA文庫 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:2006年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2006年刊行開始の刊行物 "wikilink")
 
 1.  なお、[Bbmfマガジン](https://ja.wikipedia.org/wiki/Bbmfマガジン "wikilink")が刊行しているGAコミックスは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にBbmfマガジンと合併した旧[グリーンアロー出版社](https://ja.wikipedia.org/wiki/グリーンアロー出版社 "wikilink")の社名に由来するレーベル名であり、GA文庫とは無関係である。
 2.  2012年放映当時。作品は後にKADOKAWAへ移行している。

@@ -1684,7 +1684,7 @@ Koma2 Kaz</p></td>
 <tr class="odd">
 <td><p>2005.07.27</p></td>
 <td><p>Yeah Oh!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a></p></td>
+<td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>h-wonder</p></td>

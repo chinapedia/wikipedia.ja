@@ -9,6 +9,8 @@
   - 一見、シングル曲はリリース順に収録されているようだが、五十嵐の意向で、7thシングル「[Face the change](../Page/Face_the_change.md "wikilink")」8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」と、11thシングル「[Over and Over](../Page/Over_and_Over.md "wikilink")」、12thシングル「[Someday, Someplace](../Page/Someday,_Someplace.md "wikilink")」の順番が入れ替わっており、「[Feel My Heart](../Page/Feel_My_Heart.md "wikilink")」から「[Time goes by](../Page/Time_goes_by.md "wikilink")」が[カセットテープ](../Page/カセットテープ.md "wikilink")のA面として、「[Face the change](../Page/Face_the_change.md "wikilink")」から「Dedicate (Instrumental)」までをB面になるように収録されている。\[1\]
   - また、ボーナストラックとして「キモチ」と[インストゥルメンタル](../Page/器楽曲.md "wikilink")2曲の合わせて3曲が入っている（実質、完全な未発表の新曲でありタイトルの「+3」はここから）。\[2\]
   - オリコン初登場から25週目（1999.9.27付）までの累計売上枚数は214万4,160枚。
+  - 両A面の「Shapes of Love/Never Stop\!」のNever Stop\!はeverlasting からのリカットで収録されていない
+  - スリーブケース仕様
 
 ## 収録曲
 

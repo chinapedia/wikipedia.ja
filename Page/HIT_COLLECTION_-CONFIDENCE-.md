@@ -25,7 +25,7 @@ PAMELAHのアルバムでは初のデジパック仕様となっている。
       - 6thシングル
 6.  **[I FEEL DOWN](../Page/I_FEEL_DOWN.md "wikilink")**
       - 2ndシングル
-7.  **[いとしいキミ](https://ja.wikipedia.org/wiki/いとしいキミ_\(曲\) "wikilink")**
+7.  **[いとしいキミ](../Page/いとしいキミ_\(曲\).md "wikilink")**
       - 8thシングル
 8.  **[stay cool](../Page/Truth_\(PAMELAHのアルバム\).md "wikilink")**
       - 1stアルバム収録曲

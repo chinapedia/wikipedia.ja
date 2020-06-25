@@ -1,7 +1,7 @@
 > この記事は[Base Ball Bear](https://ja.wikipedia.org/wiki/Base_Ball_Bear)から翻訳されています。
 
 
-**Base Ball Bear**（ベース ボール ベアー）は、[2001年](../Page/2001年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。[2006年](../Page/2006年.md "wikilink")にメジャーデビュー。結成以来4人組で活動していたが、[2016年](../Page/2016年.md "wikilink")にメンバーが脱退。それ以降は[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")で活動している。 所属レコード会社は[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、所属レーベルはプライベートレーベルであるDGP RECORDS。所属事務所は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。略称として主に**ベボベ**\[1\]や**BBB**が用いられる。公式ファンクラブは「**ベボ部**」\[2\]。
+**Base Ball Bear**（ベース ボール ベアー）は、[2001年](../Page/2001年.md "wikilink")に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。[2006年](../Page/2006年.md "wikilink")にメジャーデビュー。結成以来4人組で活動していたが、[2016年](../Page/2016年.md "wikilink")にメンバーが脱退。それ以降は[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")で活動している。 所属レコード会社は[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、所属レーベルはプライベートレーベルであるDGP RECORDS。所属事務所は[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")。略称として主に**ベボベ**や**BBB**が用いられる。公式ファンクラブは「**ベボ部**」。
 
 ## 概要
 
@@ -23,24 +23,26 @@
   - 映画やアイドルに精通している。
   - 2018年より本人が主体となるプロジェクト「[マテリアルクラブ](https://ja.wikipedia.org/wiki/マテリアルクラブ "wikilink")」を立ち上げる。
 
-**関根 史織** - Bass,Chorus
+{{-}} **関根 史織** - Bass,Chorus
 
   - [埼玉県](../Page/埼玉県.md "wikilink")[浦和市](https://ja.wikipedia.org/wiki/浦和市 "wikilink")(現・[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink"))[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")。血液型はB型。[ベース](../Page/エレクトリックベース.md "wikilink")・コーラス担当。また一部メインボーカルを務める楽曲が存在する。愛称「史織ちゃん」「関根嬢」など。
-  - 現在のメインベースのFreedom Custom Guitar Research製の[JB](../Page/JB.md "wikilink")モデルの要素を持つ"Rhino 4strings(Passive)"は、関根氏のオーダーメイドによるベース。同社の"Retrospective J-Bass"という[JB](../Page/JB.md "wikilink")タイプのベースをサブ用としてレコーディングやライヴステージ上にスタンバイ。また[フェンダー](https://ja.wikipedia.org/wiki/フェンダー "wikilink")USA[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")を使用している\[3\]。さらに、2018年よりライブなどで[チャップマンスティックも使用している](../Page/スティック.md "wikilink")。
-  - [tatsu](../Page/レピッシュ.md "wikilink")\[4\]、[オータコージ](https://ja.wikipedia.org/wiki/オータコージ "wikilink")\[5\]と共にsticoというユニットを2018年に結成し、チャップマンスティック担当として活動。
-  - 海外のプログレッシヴ・ロック\[6\]を愛好。その中でも[ジェスロ・タル](../Page/ジェスロ・タル.md "wikilink")には多大な影響を受けており、Base Ball Bearのライブでは同バンドの[イアン・アンダーソン](../Page/イアン・アンダーソン.md "wikilink")がライブで行う「フラミンゴ奏法」を真似て片足をあげて演奏することも多い。
-  - [ナンバーガール](../Page/ナンバーガール.md "wikilink")の[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")に影響され、[ダウンピッキングを多用する](https://ja.wikipedia.org/wiki/ピック奏法#奏法 "wikilink")。また、[指弾き](https://ja.wikipedia.org/wiki/指弾き "wikilink")でなく[ピック弾きなのは男らしい音を出すためである](../Page/ピック奏法.md "wikilink")\[7\]。
+  - 現在のメインベースのFreedom Custom Guitar Research製の[JB](../Page/JB.md "wikilink")モデルの要素を持つ"Rhino 4strings(Passive)"は、関根氏のオーダーメイドによるベース。同社の"Retrospective J-Bass"という[JB](../Page/JB.md "wikilink")タイプのベースをサブ用としてレコーディングやライヴステージ上にスタンバイ。また[フェンダー](https://ja.wikipedia.org/wiki/フェンダー "wikilink")USA[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")を使用している。さらに、2018年よりライブなどで[チャップマンスティックも使用している](../Page/スティック.md "wikilink")。
+  - [tatsu](../Page/レピッシュ.md "wikilink")、[オータコージ](https://ja.wikipedia.org/wiki/オータコージ "wikilink")と共にsticoというユニットを2018年に結成し、チャップマンスティック担当として活動。
+  - 海外のプログレッシヴ・ロックを愛好。その中でも[ジェスロ・タル](../Page/ジェスロ・タル.md "wikilink")には多大な影響を受けており、Base Ball Bearのライブでは同バンドの[イアン・アンダーソン](../Page/イアン・アンダーソン.md "wikilink")がライブで行う「フラミンゴ奏法」を真似て片足をあげて演奏することも多い。
+  - [ナンバーガール](../Page/ナンバーガール.md "wikilink")の[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")に影響され、[ダウンピッキングを多用する](https://ja.wikipedia.org/wiki/ピック奏法#奏法 "wikilink")。また、[指弾き](https://ja.wikipedia.org/wiki/指弾き "wikilink")でなく[ピック弾きなのは男らしい音を出すためである](../Page/ピック奏法.md "wikilink")。
   - バンド結成当初は[キーボードとして加入したが](../Page/キーボード_\(楽器\).md "wikilink")、後にベースへと転向。
   - 既婚者。2012年2月、結婚を発表。
   - 映画『[リンダリンダリンダ](https://ja.wikipedia.org/wiki/リンダリンダリンダ "wikilink")』に出演。
   - 『[Mステーション](https://ja.wikipedia.org/wiki/Mステーション "wikilink")』出演時の[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")と[櫻井敦司](../Page/櫻井敦司.md "wikilink")のコラボ曲『駆け落ち者』にベースで参加。
 
-**堀之内 大介** - Drums,Chorus
+{{-}} **堀之内 大介** - Drums,Chorus
 
   - [東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")出身。血液型はA型。[ドラムス](../Page/ドラムセット.md "wikilink")・コーラス担当。愛称「ホリくん」「ホリ」など。
   - 趣味は筋トレ・[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")・[プロレス](../Page/プロレス.md "wikilink")観戦など。
   - [カノウプス](../Page/カノウプス.md "wikilink")メイプルキット、dw社製のドラムセット、[ラディック](https://ja.wikipedia.org/wiki/ラディック "wikilink")のドラムセットを所有しており、それぞれ「キキ」、「ベラ」、「テラ」という名前をつけている。シンバルは[ジルジャン](../Page/ジルジャン.md "wikilink")のものを使用。
   - 既婚者。2019年9月、結婚を発表。また一児の父でもある。
+
+{{-}}
 
 ### 元メンバー
 
@@ -48,13 +50,15 @@
 
   - [千葉県](../Page/千葉県.md "wikilink")[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")出身。血液型はO型。元[ギター担当](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。愛称「将平」「将やん」など。身長170[cm](../Page/センチメートル.md "wikilink")。
   - メインギターは[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink") 「FENDER USA STRATOCASTER '58年製 リイシュー（サンバースト）」、ライブではサブギターとして「Fender USA American Deluxe Stratocaster (アンバー)」も使用していた。またエフェクターを様々使用しており、[ワウペダル](../Page/ワウペダル.md "wikilink")やワーミーペダル(DigiTech/WhammyPedalなどを使用することを得意としていた。
-  - また『若者のゆくえ』ではベースを弾いていた\[8\]\[9\]。
+  - また『若者のゆくえ』ではベースを弾いていた\[1\]。
   - ライブ演奏時、主に『[SAYONARA-NOSTALGIA](https://ja.wikipedia.org/wiki/夕方ジェネレーション "wikilink")』や、『[真夏の条件](https://ja.wikipedia.org/wiki/真夏の条件 "wikilink")』『[青い春.虚無](https://ja.wikipedia.org/wiki/十七歳_\(Base_Ball_Bearのアルバム\) "wikilink")』『[十字架 You and I](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")』などの曲において、小出の「ダンス湯浅将平！」の合図で踊りだしていた。
   - [2016年](../Page/2016年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、約15年間在籍したBase Ball Bearから**脱退**。
 
-**脱退に至る経緯**\[10\]
+**脱退に至る経緯**\[2\]
 
   - [2016年](../Page/2016年.md "wikilink")2月中旬、突如として制作現場に現れなくなる。この時よりメンバーなどとの連絡がつかなくなっていたが、その後第三者を通じ「Base Ball Bearでの活動を続けるのは難しい」という本人の意思表示が関係者などに伝えられた。この意思表示がなされてからの以後数日間、様々な方法を用いて本人との話し合いの場を設けようと試みたもののうまくいかず、バンド・そして所属事務所であるSMAはフルメンバー4名でのバンド活動は困難と判断した。[2016年](../Page/2016年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")夕方、公式サイトを通じ「脱退」の声明がSMAのバンド担当スタッフ・レーベル・メンバーの連名でコメントと共に発表された。
+
+{{-}}
 
 ### サポートメンバー
 
@@ -70,7 +74,7 @@
   - [田渕ひさ子](../Page/田渕ひさ子.md "wikilink") - [NUMBER GIRL](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink") / [toddle](https://ja.wikipedia.org/wiki/toddle "wikilink") / [LAMA](https://ja.wikipedia.org/wiki/LAMA "wikilink") / [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
       -
         シリーズライブ「日比谷ノンフィクションV〜LIVE BY THE C2〜」及びフェス「[VIVA LA ROCK](https://ja.wikipedia.org/wiki/VIVA_LA_ROCK "wikilink") 2016」、「[ROCK IN JAPAN FES](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink").2016」、「[RISING SUN ROCK FESTIVAL 2016 in Ezo](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")」に参加。また、[2016年](../Page/2016年.md "wikilink")に発売されたベストアルバム『[増補改訂完全版「バンドBのベスト」](https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」 "wikilink")』に収録された『祭りのあと（2016年リテイクバージョン）』の録音にも参加している。
-  - [ハヤシヒロユキ](https://ja.wikipedia.org/wiki/ハヤシヒロユキ "wikilink") - [POLYSICS](../Page/POLYSICS.md "wikilink") / The Vocoders
+  - [ハヤシヒロユキ](../Page/ハヤシヒロユキ.md "wikilink") - [POLYSICS](../Page/POLYSICS.md "wikilink") / The Vocoders
       -
         シリーズライブ「日比谷ノンフィクションV〜LIVE BY THE C2〜」に参加。
   - 津野米咲 - [赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")
@@ -160,7 +164,7 @@
 
 <!-- end list -->
 
-  - [2月4日](../Page/2月4日.md "wikilink")、渋谷CLUB QUATTROにて新シリーズライブ「LIVE IN LIVE」を開催\[11\]。
+  - [2月4日](../Page/2月4日.md "wikilink")、渋谷CLUB QUATTROにて新シリーズライブ「LIVE IN LIVE」を開催\[3\]。
 
 <!-- end list -->
 
@@ -170,8 +174,8 @@
 
 <!-- end list -->
 
-  - 結成15周年、メジャーデビュー10周年\[12\]。
-  - [3月2日](../Page/3月2日.md "wikilink")、**湯浅がBase Ball Bearから脱退**\[13\]。
+  - 結成15周年、メジャーデビュー10周年。
+  - [3月2日](../Page/3月2日.md "wikilink")、**湯浅がBase Ball Bearから脱退**。
 
 <!-- end list -->
 
@@ -191,7 +195,7 @@
 
 <!-- end list -->
 
-  - 11月、これまでの所属レコード会社であった[ユニバーサル ミュージックを離れ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")に移籍\[14\]\[15\]。同社にプライベートレーベル「**DGP RECORDS**」を立ちあげる。
+  - 11月、これまでの所属レコード会社であった[ユニバーサル ミュージックを離れ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")に移籍\[4\]。同社にプライベートレーベル「**DGP RECORDS**」を立ちあげる。
 
 <!-- end list -->
 
@@ -531,8 +535,8 @@
 <td><p>2011年<a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Tabibito_In_The_Dark/スローモーションをもう一度_part.2" title="wikilink">Tabibito In The Dark/スローモーションをもう一度 part.2</a></strong></p></td>
 <td><p>15</p></td>
-<td><p>新呼吸[16]<br />
-<a href="https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」" title="wikilink">増補改訂完全版「バンドBのベスト」</a>[17]</p></td>
+<td><p>新呼吸<br />
+<a href="https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」" title="wikilink">増補改訂完全版「バンドBのベスト」</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15th</p></td>
@@ -553,8 +557,8 @@
 <td><p>2013年<a href="../Page/11月27日.md" title="wikilink">11月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ファンファーレがきこえる/senkou_hanabi" title="wikilink">ファンファーレがきこえる/senkou_hanabi</a></strong></p></td>
 <td><p>28</p></td>
-<td><p>二十九歳[18]<br />
-増補改訂完全版「バンドBのベスト」[19]</p></td>
+<td><p>二十九歳<br />
+増補改訂完全版「バンドBのベスト」</p></td>
 </tr>
 <tr class="even">
 <td><p>17th</p></td>
@@ -618,7 +622,7 @@
 <td><p>2nd</p></td>
 <td><p>2019年<a href="../Page/9月4日.md" title="wikilink">9月4日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Grape_(Base_Ball_Bearのアルバム)" title="wikilink">Grape</a></strong></p></td>
-<td><p>4[20]</p></td>
+<td><p>4</p></td>
 <td><p>配信限定だがCD盤も販売。<br />
 CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクションVIII～」（2019年9月15日）<br />
 および「Guitar！Drum！Bass！Tour」（2019年9月〜12月）の各会場でのみ販売。</p></td>
@@ -628,23 +632,23 @@ CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクショ
 
 ##### 配信リリース
 
-| 発売日                                                          | タイトル                                                                                               | 収録作品                                                                                                                                                 | 備考                                                                                                                                               |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| EMIミュージック・ジャパン                                               |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
-| 2008年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") | **SCHOOL GIRL FANTASY**                                                                            | [LOVE MATHEMATICS](https://ja.wikipedia.org/wiki/LOVE_MATHEMATICS "wikilink")                                                                        |                                                                                                                                                  |
-| 2010年[6月23日](../Page/6月23日.md "wikilink")                    | **kimino-me**                                                                                      | [CYPRESS GIRLS](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")                                                                              | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の[山口一郎とのコラボ曲](https://ja.wikipedia.org/wiki/山口一郎_\(歌手\) "wikilink")                   |
-| 2010年[7月21日](../Page/7月21日.md "wikilink")                    | **クチビル・ディテクティヴ**                                                                                   | [DETECTIVE BOYS](https://ja.wikipedia.org/wiki/DETECTIVE_BOYS "wikilink")                                                                            | [福岡晃子](https://ja.wikipedia.org/wiki/福岡晃子 "wikilink")\[21\]とラッパーの呂布（Ryohu、[KANDYTOWN](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink")）とのコラボ曲 |
-| 2010年[8月25日](../Page/8月25日.md "wikilink")                    | **Transfer Girl**                                                                                  |                                                                                                                                                      |                                                                                                                                                  |
-| 2010年[9月15日](../Page/9月15日.md "wikilink")                    | **十字架You and I**                                                                                   | [CYPRESS GIRLS](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")                                                                              |                                                                                                                                                  |
-| [EMI Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")     |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
-| 2013年[7月24日](../Page/7月24日.md "wikilink")                    | 夏のShow Window ～Base Ball Bear サマーコレクション2013～                                                       |                                                                                                                                                      | 「senkou_hanabi」含む、歴代の「夏ソング」を集めた配信限定パック                                                                                                          |
-| **senkou_hanabi**                                           | [ファンファーレがきこえる/senkou_hanabi](https://ja.wikipedia.org/wiki/ファンファーレがきこえる/senkou_hanabi "wikilink") | 後発両A面シングルからの先行配信                                                                                                                                     |                                                                                                                                                  |
-| 2013年[10月23日](../Page/10月23日.md "wikilink")                  | **ファンファーレがきこえる**                                                                                   |                                                                                                                                                      |                                                                                                                                                  |
-| 2014年[2月26日](../Page/2月26日.md "wikilink")                    | **Funny Bunny**                                                                                    | [ROCK AND SYMPATHY](https://ja.wikipedia.org/wiki/ROCK_AND_SYMPATHY "wikilink")（[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")） | the pillowsの楽曲をカバーしたもの。[トリビュートアルバム収録曲](../Page/トリビュート・アルバム.md "wikilink")                                                                        |
-| DGP RECORDS                                                  |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
-| 2019年[1月9日](../Page/1月9日.md "wikilink")                      | **Flame**                                                                                          | [ポラリス](https://ja.wikipedia.org/wiki/ポラリス_\(Base_Ball_Bearのアルバム\) "wikilink")                                                                        | EPからの先行配信                                                                                                                                        |
-| 2019年[12月25日](../Page/12月25日.md "wikilink")                  | **Cross Words**                                                                                    | [C3](../Page/C3_\(アルバム\).md "wikilink")                                                                                                              | アルバムからの先行配信                                                                                                                                      |
-|                                                              |                                                                                                    |                                                                                                                                                      |                                                                                                                                                  |
+| 発売日                                                          | タイトル                                                                                               | 収録作品                                                                                                                                                 | 備考                                                                                                                                         |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| EMIミュージック・ジャパン                                               |                                                                                                    |                                                                                                                                                      |                                                                                                                                            |
+| 2008年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink") | **SCHOOL GIRL FANTASY**                                                                            | [LOVE MATHEMATICS](https://ja.wikipedia.org/wiki/LOVE_MATHEMATICS "wikilink")                                                                        |                                                                                                                                            |
+| 2010年[6月23日](../Page/6月23日.md "wikilink")                    | **kimino-me**                                                                                      | [CYPRESS GIRLS](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")                                                                              | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")の[山口一郎とのコラボ曲](https://ja.wikipedia.org/wiki/山口一郎_\(歌手\) "wikilink")             |
+| 2010年[7月21日](../Page/7月21日.md "wikilink")                    | **クチビル・ディテクティヴ**                                                                                   | [DETECTIVE BOYS](https://ja.wikipedia.org/wiki/DETECTIVE_BOYS "wikilink")                                                                            | [福岡晃子](https://ja.wikipedia.org/wiki/福岡晃子 "wikilink")とラッパーの呂布（Ryohu、[KANDYTOWN](https://ja.wikipedia.org/wiki/KANDYTOWN "wikilink")）とのコラボ曲 |
+| 2010年[8月25日](../Page/8月25日.md "wikilink")                    | **Transfer Girl**                                                                                  |                                                                                                                                                      |                                                                                                                                            |
+| 2010年[9月15日](../Page/9月15日.md "wikilink")                    | **十字架You and I**                                                                                   | [CYPRESS GIRLS](https://ja.wikipedia.org/wiki/CYPRESS_GIRLS "wikilink")                                                                              |                                                                                                                                            |
+| [EMI Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")     |                                                                                                    |                                                                                                                                                      |                                                                                                                                            |
+| 2013年[7月24日](../Page/7月24日.md "wikilink")                    | 夏のShow Window ～Base Ball Bear サマーコレクション2013～                                                       |                                                                                                                                                      | 「senkou_hanabi」含む、歴代の「夏ソング」を集めた配信限定パック                                                                                                    |
+| **senkou_hanabi**                                           | [ファンファーレがきこえる/senkou_hanabi](https://ja.wikipedia.org/wiki/ファンファーレがきこえる/senkou_hanabi "wikilink") | 後発両A面シングルからの先行配信                                                                                                                                     |                                                                                                                                            |
+| 2013年[10月23日](../Page/10月23日.md "wikilink")                  | **ファンファーレがきこえる**                                                                                   |                                                                                                                                                      |                                                                                                                                            |
+| 2014年[2月26日](../Page/2月26日.md "wikilink")                    | **Funny Bunny**                                                                                    | [ROCK AND SYMPATHY](https://ja.wikipedia.org/wiki/ROCK_AND_SYMPATHY "wikilink")（[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")） | the pillowsの楽曲をカバーしたもの。[トリビュートアルバム収録曲](../Page/トリビュート・アルバム.md "wikilink")                                                                  |
+| DGP RECORDS                                                  |                                                                                                    |                                                                                                                                                      |                                                                                                                                            |
+| 2019年[1月9日](../Page/1月9日.md "wikilink")                      | **Flame**                                                                                          | [ポラリス](https://ja.wikipedia.org/wiki/ポラリス_\(Base_Ball_Bearのアルバム\) "wikilink")                                                                        | EPからの先行配信                                                                                                                                  |
+| 2019年[12月25日](../Page/12月25日.md "wikilink")                  | **Cross Words**                                                                                    | [C3](../Page/C3_\(アルバム\).md "wikilink")                                                                                                              | アルバムからの先行配信                                                                                                                                |
+|                                                              |                                                                                                    |                                                                                                                                                      |                                                                                                                                            |
 
 ##### ライブ会場限定シングル
 
@@ -856,14 +860,54 @@ CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクショ
 
 ##### ミュージックビデオ集
 
-| 枚              | 発売日                                                                                         | タイトル                                                                               | オリコン最高位 |
-| -------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------- |
-| EMIミュージック・ジャパン |                                                                                             |                                                                                    |         |
-| 1st            | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月12日](../Page/3月12日.md "wikilink") | **[映像版『バンドBについて』第一巻](https://ja.wikipedia.org/wiki/映像版『バンドBについて』第一巻 "wikilink")**  | 32      |
-| 2nd            | [2011年](../Page/2011年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")                    | **[映像版『バンドBについて』第二巻](https://ja.wikipedia.org/wiki/映像版『バンドBについて』第二巻 "wikilink")**  | 9       |
-| EMI Records    |                                                                                             |                                                                                    |         |
-| 3rd            | [2016年](../Page/2016年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")                    | **[映像版『バンドBについて』第三巻](https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」 "wikilink")** | \[22\]  |
-|                |                                                                                             |                                                                                    |         |
+<table>
+<thead>
+<tr class="header">
+<th><p>枚</p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>オリコン最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>EMIミュージック・ジャパン</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/3月12日.md" title="wikilink">3月12日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/映像版『バンドBについて』第一巻" title="wikilink">映像版『バンドBについて』第一巻</a></strong></p></td>
+<td><p>32</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/映像版『バンドBについて』第二巻" title="wikilink">映像版『バンドBについて』第二巻</a></strong></p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td><p>EMI Records</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/増補改訂完全版「バンドBのベスト」" title="wikilink">映像版『バンドBについて』第三巻</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ##### ライブ映像作品
 
@@ -949,7 +993,7 @@ CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクショ
 | 祭りのあと                                                                                                                                           | テレビ東京系「JAPAN COUNTDOWN」2006年11月度エンディングテーマ                                                                                                                         |                                                                                                                                                |
 | [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink") 2006年12月度 『[POWER PUSH](../Page/スペースシャワーTV歴代POWER_PUSH一覧.md "wikilink")』                         |                                                                                                                                                                   |                                                                                                                                                |
 | ラストダンス                                                                                                                                          | [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[ミュージック・スクエア](https://ja.wikipedia.org/wiki/ミュージック・スクエア "wikilink")」エンディングテーマ                           |                                                                                                                                                |
-| 東京生まれ\[23\]                                                                                                                                     | [J-WAVE](../Page/J-WAVE.md "wikilink") マクドナルドCMソング                                                                                                                |                                                                                                                                                |
+| 東京生まれ                                                                                                                                           | [J-WAVE](../Page/J-WAVE.md "wikilink") マクドナルドCMソング                                                                                                                |                                                                                                                                                |
 | 2007年                                                                                                                                           | 抱きしめたい                                                                                                                                                            | テレビ東京系「JAPAN COUNTDOWN」2007年4月度オープニングテーマ                                                                                                       |
 | tvk他「saku saku」2007年4月度エンディングテーマ                                                                                                                |                                                                                                                                                                   |                                                                                                                                                |
 | ドラマチック                                                                                                                                          | TBS系アニメ「[おおきく振りかぶって](../Page/おおきく振りかぶって.md "wikilink")」2007年4月 - 6月度（第1期）オープニングテーマ                                                                                |                                                                                                                                                |
@@ -957,7 +1001,7 @@ CD盤はツアー「Guitar！Drum！Bass！Tour～日比谷ノンフィクショ
 | 日本テレビ系『[音燃え\!](../Page/音燃え!.md "wikilink")』エンディング・テーマ                                                                                           |                                                                                                                                                                   |                                                                                                                                                |
 | [中京テレビ](../Page/中京テレビ放送.md "wikilink")『[スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")』2007年11月度エンディング・テーマ                                         |                                                                                                                                                                   |                                                                                                                                                |
 | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[志村けんのだいじょうぶだぁII](../Page/志村けんのだいじょうぶだぁII.md "wikilink")』2007年12月度エンディング・テーマ        |                                                                                                                                                                   |                                                                                                                                                |
-| 2008年                                                                                                                                           | [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")『[夢チカ18](../Page/夢チカ18.md "wikilink")』2008年1月度 オープニングテーマ \[24\]                                                         |                                                                                                                                                |
+| 2008年                                                                                                                                           | [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")『[夢チカ18](../Page/夢チカ18.md "wikilink")』2008年1月度 オープニングテーマ \[5\]                                                          |                                                                                                                                                |
 | changes                                                                                                                                         | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠アニメ『[図書館戦争](../Page/図書館戦争.md "wikilink")』エンディングテーマ              |                                                                                                                                                |
 | LOVE MATHEMATICS                                                                                                                                | テレビ東京系『JAPAN COUNTDOWN』2008年12月度エンディングテーマ                                                                                                                         |                                                                                                                                                |
 | 2009年                                                                                                                                           | 神々LOOKS YOU                                                                                                                                                       | [松竹](../Page/松竹.md "wikilink")配給映画「[鴨川ホルモー](https://ja.wikipedia.org/wiki/鴨川ホルモー "wikilink")」主題歌                                               |
@@ -1003,7 +1047,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 #### ラジオ
 
   - Base Ball BearのオールナイトニッポンR（特番、2006年12月2日・2007年3月3日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
-  - [ベボベ LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")（2007年より[TOKYO FM制作](../Page/エフエム東京.md "wikilink")、[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")系[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") WEBサイトでネットラジオ配信→2009年9月22日より火曜日レギュラー→月曜日レギュラー→2010年7月より再びwebラジオ→2010年10月5日より再度火曜レギュラー→2014年3月25日終了。）
+  - [ベボベ LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")（2007年より[TOKYO FM制作](../Page/エフエム東京.md "wikilink")、[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")系[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") WEBサイトでネットラジオ配信→2009年9月22日より火曜日レギュラー→月曜日レギュラー→2010年7月より再びwebラジオ→2010年10月5日より再度火曜レギュラー→2014年3月25日終了。）
   - [Base Ball Bearのソフトボール同好会](https://ja.wikipedia.org/wiki/Base_Ball_Bearのソフトボール同好会 "wikilink")（[JFNC系](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink") 放送時間は局によって異なる。2009年9月終了）
 
 ### その他
@@ -1403,7 +1447,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>6月30日 SHIBUYA-AX</li>
 <li>7月1日 下北沢 GARAGE</li>
 </ol></td>
-<td><p>結成10周年記念ツアー。全36公演を予定していたが[25]、<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>により3月に開催を予定していた全公演と4・5月に行われる公演の一部が見合わせ、または公演中止となった。</p></td>
+<td><p>結成10周年記念ツアー。全36公演を予定していたが[6]、<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>により3月に開催を予定していた全公演と4・5月に行われる公演の一部が見合わせ、または公演中止となった。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/10月1日.md" title="wikilink">10月1日</a> - <a href="../Page/10月30日.md" title="wikilink">10月30日</a></p></td>
@@ -1500,7 +1544,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/3月25日" title="wikilink">3月25日</a> - <a href="../Page/4月10日.md" title="wikilink">4月10日</a></p></td>
-<td><p>Tour「光蘚[26]」</p></td>
+<td><p>Tour「光蘚」</p></td>
 <td><ol>
 <li>3月25日 SHIBUYA-AX</li>
 <li>3月30日 なんば Hatch</li>
@@ -1717,7 +1761,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>2月9日（金）東京都 Zepp Tokyo（追加公演）</li>
 </ol></td>
 <td><p>アルバム「<a href="https://ja.wikipedia.org/wiki/光源_(アルバム)" title="wikilink">光源</a>」のリリースツアー。<a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a>の東京公演は『日比谷ノンフィクションVI〜光源〜』として開催される。<br />
-《サポートギタリスト》 <a href="../Page/キリンジ.md" title="wikilink">弓木英梨乃</a>（<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a>）[27]</p></td>
+《サポートギタリスト》 <a href="../Page/キリンジ.md" title="wikilink">弓木英梨乃</a>（<a href="../Page/キリンジ.md" title="wikilink">キリンジ</a>）[7]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1733,7 +1777,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 </tr>
 <tr class="even">
 <td><p><a href="../Page/5月18日.md" title="wikilink">5月18日</a> - <a href="../Page/6月23日.md" title="wikilink">6月23日</a></p></td>
-<td><p>Tour「LIVE IN LIVE」[28]</p></td>
+<td><p>Tour「LIVE IN LIVE」[8]</p></td>
 <td><ol>
 <li>5月18日（金）愛知県 名古屋CLUB QUATTRO</li>
 <li>5月25日（金）東京都 渋谷CLUB QUATTRO</li>
@@ -1760,7 +1804,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>10月21日（日）東京都 日比谷野外大音楽堂(<a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>・<a href="https://ja.wikipedia.org/wiki/ペトロールズ" title="wikilink">ペトロールズ</a>)</li>
 <li>11月11日（日）愛知県 名古屋DIAMOND HALL (<a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a>)</li>
 </ol></td>
-<td><p>「LIVE IN LIVE」ツアーの対バン編。サポートメンバーはつかない。なお東京公演は『<strong>日比谷ノンフィクションVII</strong>』として開催された。また11/11名古屋公演のthe pillowsが演奏する際には関根史織がサポートベースとして演奏した[29]。</p></td>
+<td><p>「LIVE IN LIVE」ツアーの対バン編。サポートメンバーはつかない。なお東京公演は『<strong>日比谷ノンフィクションVII</strong>』として開催された。また11/11名古屋公演のthe pillowsが演奏する際には関根史織がサポートベースとして演奏した[9]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
@@ -1782,7 +1826,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 <li>3月2日（土）石川県 金沢AZ</li>
 <li>3月3日（日）新潟県 新潟LOTS</li>
 <li>3月9日（土）岡山県 岡山IMAGE</li>
-<li><del><span style="color:#FF0000">3月10日（日）愛知県 名古屋DIAMOND HALL</span></del>[30]</li>
+<li><del><span style="color:#FF0000">3月10日（日）愛知県 名古屋DIAMOND HALL</span></del></li>
 <li>3月15日(金) 東京都 Zepp Divercity Tokyo</li>
 <li>3月23日（土）福岡県 福岡DRUM LOGOS</li>
 <li>3月24日（日）鹿児島県 鹿児島SR HALL</li>
@@ -2036,7 +2080,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
       - 4月28日 - [ARABAKI ROCK FEST.19](../Page/ARABAKI_ROCK_FEST..md "wikilink")
       - 5月3日 - VIVA LA ROCK 2019
       - 5月4日 - JAPAN JAM 2019
-      - 7月8日 - BIGCAT 20th presents "Today is yours"\[31\]
+      - 7月8日 - BIGCAT 20th presents "Today is yours"
       - 7月14日 - JOIN ALIVE 2019
       - 8月11日 - ROCK IN JAPAN FESTIVAL 2019
       - 10月6日 - THE GREAT SATSUMANIAN HESTIVAL 2019
@@ -2045,6 +2089,10 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
       - ~~<span style="color:#FF0000">5月5日 - JAPAN JAM 2020</span>~~（開催中止）
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 ## 関連項目
 
@@ -2075,34 +2123,12 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
   -
 [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアーティスツ "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
-1.  この略称を考案したのは小出祐介である。
-2.  所属事務所が運営するモバイルファンクラブサイト「SMA☆アーティスト」内で運営。スマートフォンを推奨環境としているがPCでの閲覧も可能。なお閲覧には会員登録に加え月額利用料(300円+税)の支払いが必要
-3.  ベースを始めた当初は[ムスタングベースを使用していたが](https://ja.wikipedia.org/wiki/フェンダー・ムスタングベース "wikilink")、2005年からプレシジョンベースを使用している。カラーはダコタレッド。他にも、[ギブソン・SG](../Page/ギブソン・SG.md "wikilink")ベース（[ギブソン・EB-3](https://ja.wikipedia.org/wiki/ギブソン・EB-3 "wikilink")）を若若男女サマーツアーなどで使用しており、フェンダー・ジャパンの赤の[ジャズベースも所持している](../Page/フェンダー・ジャズベース.md "wikilink")。
-4.  ベース担当。Base Ball Bearの1stアルバム『[C](https://ja.wikipedia.org/wiki/C_\(Base_Ball_Bearのアルバム\) "wikilink")』のプロデューサー。バンド『レピッシュ』のメンバー。
-5.  ドラムス担当。
-6.  主に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各国のプログレ音源。特に[キャラヴァン](../Page/キャラヴァン.md "wikilink")をはじめとした[カンタベリー系](../Page/カンタベリー・ロック.md "wikilink")、[PFMなどのイタリアン](../Page/プレミアータ・フォルネリア・マルコーニ.md "wikilink")・プログレなど
-7.  また、曲によっては指弾きをすることもあり、[スラップ奏法](../Page/スラップ奏法.md "wikilink")も用いる。
-8.  関根がピアノを担当している曲のため、湯浅がベースを担当している。湯浅がエレクトリック・ギター以外の楽器を使用した唯一の楽曲。
-9.  1stベストアルバム「[バンドBのベスト](https://ja.wikipedia.org/wiki/バンドBのベスト "wikilink")」初回盤特典ブックレット参照
-10.
-11.
-12. 通称「クロスイヤー」の年。
-13. 注:公式発表を行った3月2日を脱退日としている
-14.
-15. 小出が2018年に開始したプロジェクト「[マテリアルクラブ](https://ja.wikipedia.org/wiki/マテリアルクラブ "wikilink")」もビクターエンタテインメント所属である
-16. 「Tabibito In The Dark」。
-17. 「スローモーションをもう一度 part.2」。A面曲だが、フルアルバムなどには収録されておらず、今作が初収録となった
-18. 「ファンファーレがきこえる」。
-19. 「senkou_hanabi」。A面曲だが、フルアルバムなどには収録されず、今作が初収録となった。
-20. ※ただし順位は[オリコン](../Page/オリコン.md "wikilink")・週間デジタルアルバムチャートのもの
-21. [チャットモンチー](../Page/チャットモンチー.md "wikilink")（当時）。今作では「acco」名義。
-22. 『増補改訂完全版「バンドBのベスト」』における初回限定盤特典DVDのためオリコンの順位算出はなし
-23. 3.5thアルバム「[DETECTIVE BOYS](https://ja.wikipedia.org/wiki/DETECTIVE_BOYS "wikilink")」に収録されている「東京」の元となった楽曲。
-24. 山野楽器 ホームページ （タイアップについての記載参照） <https://www.yamano-music.co.jp/userProdDetailCD.do?itemCode=4107101338&itemClass=C> 2015年11月2日閲覧。
-25.
-26. 読みは「ひかりごけ」
-27.
-28.
-29.
-30. 小出の急性扁桃腺炎のため中止。振替公演として、4月19日に改めて公演を行う
-31. ロックバンド[フレンズとの対バンイベント](https://ja.wikipedia.org/wiki/フレンズ_\(バンド\) "wikilink")。
+1.  1stベストアルバム「[バンドBのベスト](https://ja.wikipedia.org/wiki/バンドBのベスト "wikilink")」初回盤特典ブックレット参照。
+2.
+3.
+4.
+5.  山野楽器 ホームページ （タイアップについての記載参照） <https://www.yamano-music.co.jp/userProdDetailCD.do?itemCode=4107101338&itemClass=C> 2015年11月2日閲覧。
+6.
+7.
+8.
+9.

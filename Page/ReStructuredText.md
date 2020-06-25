@@ -64,6 +64,7 @@ __ http://www.python.org/
       - [データ記述言語](../Page/データ記述言語.md "wikilink")
           - [マークアップ言語](../Page/マークアップ言語.md "wikilink")
               - [軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")
+  - [Sphinx](https://ja.wikipedia.org/wiki/Sphinx_\(ドキュメンテーションジェネレータ\) "wikilink")
 
 ## 外部リンク
 

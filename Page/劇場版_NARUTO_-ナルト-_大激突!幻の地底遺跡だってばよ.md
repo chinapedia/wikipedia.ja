@@ -17,9 +17,9 @@
 
   - **[うずまきナルト](../Page/うずまきナルト.md "wikilink")**（声 - [竹内順子](../Page/竹内順子.md "wikilink")）
   - **[春野サクラ](https://ja.wikipedia.org/wiki/春野サクラ "wikilink")**（声 - [中村千絵](../Page/中村千絵.md "wikilink")）
-  - **[奈良シカマル](https://ja.wikipedia.org/wiki/奈良シカマル "wikilink")**（声 - [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")）
-  - **[我愛羅](https://ja.wikipedia.org/wiki/我愛羅 "wikilink")**（声 - [石田彰](../Page/石田彰.md "wikilink")）
-  - **[カンクロウ](https://ja.wikipedia.org/wiki/カンクロウ "wikilink")**（声 - [加瀬康之](../Page/加瀬康之.md "wikilink")）
+  - **[奈良シカマル](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#奈良シカマル "wikilink")**（声 - [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")）
+  - **[我愛羅](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#我愛羅 "wikilink")**（声 - [石田彰](../Page/石田彰.md "wikilink")）
+  - **[カンクロウ](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-の登場人物#カンクロウ "wikilink")**（声 - [加瀬康之](../Page/加瀬康之.md "wikilink")）
 
 以上の人物についてはリンク先のページを参照。
 
@@ -122,7 +122,6 @@
 ## 外部リンク
 
   -
-
 [de:Naruto (Manga)\#Kinofilme](https://ja.wikipedia.org/wiki/de:Naruto_\(Manga\)#Kinofilme "wikilink")
 
 [Category:劇場版_NARUTO_-ナルト-](https://ja.wikipedia.org/wiki/Category:劇場版_NARUTO_-ナルト- "wikilink") [Category:2005年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2005年のアニメ映画 "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink")

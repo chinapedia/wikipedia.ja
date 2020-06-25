@@ -17,7 +17,7 @@
 
 ## 外部リンク
 
-  - [ただいま夢中\!](http://www.fujitv.co.jp/b_hp/imamuchu/) - フジテレビ
+  - [ただいま夢中\!](https://www.fujitv.co.jp/b_hp/imamuchu/) - フジテレビ
 
 [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのスポーツ番組 "wikilink") [Category:関西テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:関西テレビの一社提供番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:ミズノ一社提供番組](https://ja.wikipedia.org/wiki/Category:ミズノ一社提供番組 "wikilink") [Category:TOKIO](https://ja.wikipedia.org/wiki/Category:TOKIO "wikilink")
 

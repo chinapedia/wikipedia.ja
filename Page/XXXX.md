@@ -32,4 +32,4 @@
   - [Australian Beers Page](http://www.australianbeers.com/beers/xxxx/xxxx.htm)
   - [Interbrew UK Ltd.,](http://www.inbev.com/brands/2__6__0__brandsunderlicense.cfm) - xXXのイギリスでの発売元 (オーストラリアのホップを輸入して使っている
 
-[Category:キリングループ](https://ja.wikipedia.org/wiki/Category:キリングループ "wikilink") [Category:オーストラリアの食文化](https://ja.wikipedia.org/wiki/Category:オーストラリアの食文化 "wikilink") [Category:ビール](https://ja.wikipedia.org/wiki/Category:ビール "wikilink")
+[Category:キリングループ](https://ja.wikipedia.org/wiki/Category:キリングループ "wikilink") [Category:オーストラリアの酒](https://ja.wikipedia.org/wiki/Category:オーストラリアの酒 "wikilink") [Category:ビール](https://ja.wikipedia.org/wiki/Category:ビール "wikilink")

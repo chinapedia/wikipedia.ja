@@ -130,7 +130,7 @@ DSに採用されている[WEPは解読が容易であり](../Page/Wired_Equival
 
 ## 外部リンク
 
-  - [公式サイト](http://wifi.nintendo.co.jp/)
+  -
   - [「ニンテンドーDS」および「Wii」ソフトの「ニンテンドーWi-Fiコネクション」サービス終了のお知らせ](https://www.nintendo.co.jp/support/information/2014/0227.html)
 
 [Category:ニンテンドーDS](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS "wikilink") [Category:Wii](https://ja.wikipedia.org/wiki/Category:Wii "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink") [Category:オンラインゲームサービス](https://ja.wikipedia.org/wiki/Category:オンラインゲームサービス "wikilink")

@@ -11,7 +11,7 @@
   - [エフエム宮崎](../Page/エフエム宮崎.md "wikilink")の[AREA J-MORNINGでは](https://ja.wikipedia.org/wiki/AREA_J-MORNING "wikilink")、共演者の[柿塚日香里](https://ja.wikipedia.org/wiki/柿塚日香里 "wikilink")を年齢的観点から面白可笑しく罵倒しており、本人も苦笑いのニュアンスを伝えながら切り返していた。
   - 仕事はパーソナリティやタレントが主だが、[イベント](../Page/イベント.md "wikilink")[MCや](../Page/司会.md "wikilink")[CM](../Page/コマーシャルメッセージ.md "wikilink")、[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")や[結婚式](../Page/結婚式.md "wikilink")の[司会](../Page/司会.md "wikilink")も行っている。
   - 趣味はバイク、野球、ゴルフである。
-  - 2007年に娘が生まれ、父親になる。その後、息子を3人儲けて現在、子供は4人。
+  - 2007年に娘が生まれ、父親になる。その後、息子が3人生まれ子供は4人儲けた。
   - 同年の24時間テレビでは、[高千穂町](../Page/高千穂町.md "wikilink")から[宮崎市](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")まで自転車で途中募金してもらいながら走破した。
   - 2015年12月、[筋萎縮性側索硬化症](../Page/筋萎縮性側索硬化症.md "wikilink")に罹患のためAREA J-MORNINGを降板。療養生活を送りながら活動していたが2019年5月4日の夜に死去\[1\]。。
 

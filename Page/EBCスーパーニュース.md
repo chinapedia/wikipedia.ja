@@ -5,11 +5,13 @@
 
 ## 番組概要
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")、『[EBCザ・ヒューマン FNN](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』の後番組として『**EBCスーパーニュース FNN**』の題で放送を開始。
-  - 週末版『**FNNスーパーニュースWEEKEND EBC**』は[2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より放送している。
-  - [2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からは『スーパーニュース』第1部（ローカルセールス枠）のネットを開始し、それを『**一番出し\!スーパーニュース EBC**』と題して放送している。
-  - [2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までは夕方の[コンプレックス型情報ワイド](../Page/コンプレックス_\(番組形式\).md "wikilink")『[テレチュー2・5h](../Page/テレチュー2・5h.md "wikilink")』に内包した「コンプレックスのコンプレックス」として前半の『一番出し\!スーパーニュース EBC』が第2部、後半の『EBCスーパーニュース FNN』が第3部（実質的には『一番出し\!\!』と『EBCスーパーニュース』の前半・東京発の全国ニュース編（東京からのネット受け）までが第2部、『EBCスーパーニュース』後半・愛媛ローカル編が第3部）として位置づけられた。
-  - [2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")からは、第1部・第2部ともに『EBCスーパーニュース』と題して放送。同年[10月1日](../Page/10月1日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")4月1日までは放送開始を早めて16:48開始とし、16:50から『FNNスーパーニュース』をネットしていた。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")、『[EBCザ・ヒューマン FNN](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』の後番組として『**EBCスーパーニュース FNN**』の題で放送を開始。週末版『**FNNスーパーニュースWEEKEND EBC**』は[2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より放送している。
+
+[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からは『スーパーニュース』第1部（ローカルセールス枠）のネットを開始し、それを『**一番出し\!スーパーニュース EBC**』と題して放送している。
+
+[2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までは夕方の[コンプレックス型情報ワイド](../Page/コンプレックス_\(番組形式\).md "wikilink")『[テレチュー2・5h](../Page/テレチュー2・5h.md "wikilink")』に内包した「コンプレックスのコンプレックス」として前半の『一番出し\!スーパーニュース EBC』が第2部、後半の『EBCスーパーニュース FNN』が第3部（実質的には『一番出し\!\!』と『EBCスーパーニュース』の前半・東京発の全国ニュース編（東京からのネット受け）までが第2部、『EBCスーパーニュース』後半・愛媛ローカル編が第3部）として位置づけられた。
+
+[2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")からは、第1部・第2部ともに『EBCスーパーニュース』と題して放送。同年[10月1日](../Page/10月1日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")4月1日までは放送開始を早めて16:48開始とし、16:50から『FNNスーパーニュース』をネットしていた。
 
 ## キャスター
 
@@ -20,7 +22,7 @@
 
 <!-- end list -->
 
-  - [堀本直克](../Page/堀本直克.md "wikilink")(2007年より)、[加藤夏海](https://ja.wikipedia.org/wiki/加藤夏海 "wikilink")
+  - [堀本直克](../Page/堀本直克.md "wikilink")（2007年より）、[加藤夏海](https://ja.wikipedia.org/wiki/加藤夏海 "wikilink")
   - [東将太](https://ja.wikipedia.org/wiki/東将太 "wikilink")、[名護谷希慧](https://ja.wikipedia.org/wiki/名護谷希慧 "wikilink")
 
 <!-- end list -->
@@ -133,42 +135,10 @@
 ## コーナー
 
   - 特集
-
-<!-- end list -->
-
-  -
-
-<!-- end list -->
-
-  - マドンナをさがせ\!（2013年9月30日-）
-
-<!-- end list -->
-
-  -
-
-<!-- end list -->
-
+  - マドンナをさがせ\!（2013年9月30日 - ）
   - スポーツえひめ
-
-<!-- end list -->
-
-  -
-
-<!-- end list -->
-
   - すぱにゅ〜うぇざ〜
-
-<!-- end list -->
-
-  -
-
-<!-- end list -->
-
   - きょうの俳句
-
-<!-- end list -->
-
-  -
 
 ## 関連項目
 
@@ -177,9 +147,5 @@
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
   - テレチュー2・5h
   - [EBCニュース](https://ja.wikipedia.org/wiki/EBCニュース "wikilink")
-
-## 外部リンク
-
-  - [EBCスーパーニュース](http://www.ebc.co.jp/bangumi/snews/)
 
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:テレビ愛媛の番組](https://ja.wikipedia.org/wiki/Category:テレビ愛媛の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink")

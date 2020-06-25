@@ -368,7 +368,7 @@
 
 <!-- end list -->
 
-  - **[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**
+  - **[SMAP](../Page/SMAP.md "wikilink")**
       - 「[Otherside](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")」（[MIYAVI](../Page/MIYAVI.md "wikilink")と共編曲）
       - 「[愛が止まるまでは](https://ja.wikipedia.org/wiki/Otherside/愛が止まるまでは "wikilink")」（編曲）
       - 「[FIVE RESPECT](https://ja.wikipedia.org/wiki/SMAP_015/Drink!_Smap! "wikilink")」（編曲）
@@ -876,7 +876,7 @@
 
 <!-- end list -->
 
-  - **[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")**
+  - **[モーニング娘。](../Page/モーニング娘。.md "wikilink")**
       - 「[Do it\! Now](../Page/Do_it!_Now.md "wikilink")」（編曲）
       - 「[ここにいるぜぇ\!](../Page/ここにいるぜぇ!.md "wikilink")」（編曲・プログラミング・ギター）
       - 「[AS FOR ONE DAY](../Page/AS_FOR_ONE_DAY.md "wikilink")」（編曲・プログラミング・ギター）

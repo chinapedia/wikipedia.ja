@@ -166,7 +166,7 @@ ESCL-2285</p></td>
 
 ## 外部リンク
 
-  - [Mean Machine](http://www.sonymusic.co.jp/Music/Arch/ES/MeanMachine/) - Sony Musicのアーティストページ
+  - [Mean Machine](https://www.sonymusic.co.jp/artist/MeanMachine/) - Sony Musicのアーティストページ
   - [Seventh avenue 伊藤歩](http://www.7th-avenue.co.jp/biography/ito.html)
   - [THE THRILL](http://www.thethrill.info/)
   - [SITE THRILL PLUS YUKARIE](http://www.linkclub.or.jp/~yukarie/)

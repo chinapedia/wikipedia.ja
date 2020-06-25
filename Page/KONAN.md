@@ -131,12 +131,12 @@
   - [ロンドンハーツ](../Page/ロンドンハーツ.md "wikilink")（2013年〜2015年、テレビ朝日）
   - [おーい！ひろいき村](https://ja.wikipedia.org/wiki/おーい!ひろいき村 "wikilink")「シンクロ部」（2015年、フジテレビ）
   - [有吉ゼミ](https://ja.wikipedia.org/wiki/有吉ゼミ "wikilink")（2015年〜2016年、日本テレビ）
-  - 水曜日のダウンタウン（2019年８月、TBS）
+  - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")(2019年8月、TBS）
   - [DJモノフェスタ](../Page/DJモノフェスタ.md "wikilink")（2019年〜2020年、フジテレビ）
 
 ### 配信
 
-　バチェラージャパン、シーズン１（2017年２月〜、Amazon primeにて配信中）
+  - [バチェラー・ジャパン](https://ja.wikipedia.org/wiki/バチェラー・ジャパン "wikilink")シーズン1 (2017年2月〜、[Amazonプライム](https://ja.wikipedia.org/wiki/Amazonプライム "wikilink")にて配信中）
 
 ### インターネットテレビ
 

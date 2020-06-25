@@ -1,7 +1,7 @@
 > この記事は[Dreaming I was dreaming](https://ja.wikipedia.org/wiki/Dreaming_I_was_dreaming)から翻訳されています。
 
 
-『**Dreaming I was dreaming**』（ドリーミング・アイ・ワズ・ドリーミング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では11枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
+『**Dreaming I was dreaming**』（ドリーミング・アイ・ワズ・ドリーミング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では11枚目のシングル。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。
 
 ## 解説
 

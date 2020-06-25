@@ -1,7 +1,7 @@
 > この記事は[ViX](https://ja.wikipedia.org/wiki/ViX)から翻訳されています。
 
 
-**ViX**は、K_OKADAが開発していた[Microsoft Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[グラフィックビューア](https://ja.wikipedia.org/wiki/画像ビューア "wikilink")。[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[フリーウェア](../Page/フリーウェア.md "wikilink")であった。2011年頃に公式サイトが閉鎖\[1\]されてサポート終了となった後も[窓の杜](../Page/窓の杜.md "wikilink")や[Vectorなどのサイトで配布され続けていた](../Page/ベクター_\(企業\).md "wikilink")\[2\]\[3\]が、2018年3月に[JVN](https://ja.wikipedia.org/wiki/JVN "wikilink")が本ソフトウェアに[脆弱性があることを公表して使用中止を呼び掛けるに至り](https://ja.wikipedia.org/wiki/セキュリティホール#脆弱性 "wikilink")\[4\]\[5\]\[6\]、多くのサイトで配布停止となった。
+**ViX**は、K_OKADAが開発していた[Microsoft Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[グラフィックビューア](https://ja.wikipedia.org/wiki/画像ビューア "wikilink")。[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[フリーウェア](../Page/フリーウェア.md "wikilink")。2011年頃に公式サイトが閉鎖され\[1\]、サポート終了となった後も[窓の杜](../Page/窓の杜.md "wikilink")や[Vectorなどのサイトで配布されていたが](../Page/ベクター_\(企業\).md "wikilink")\[2\]\[3\]、2018年3月に[JVN](https://ja.wikipedia.org/wiki/JVN "wikilink")が本ソフトウェアに[脆弱性があることを公表して使用中止を呼び掛け](https://ja.wikipedia.org/wiki/セキュリティホール#脆弱性 "wikilink")\[4\]\[5\]\[6\]、多くのサイトで配布停止となった。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 ## 対応OS
 
-開発当時、対応するOSとされたのは[Windows95](https://ja.wikipedia.org/wiki/Windows95 "wikilink")、[Windows98](https://ja.wikipedia.org/wiki/Windows98 "wikilink")、[Windows Me](https://ja.wikipedia.org/wiki/Windows_Me "wikilink")、[Windows NT4.0](https://ja.wikipedia.org/wiki/Windows_NT4.0 "wikilink")、[Windows 2000](https://ja.wikipedia.org/wiki/Windows_2000 "wikilink")、[WindowsXP](https://ja.wikipedia.org/wiki/WindowsXP "wikilink")。\[25\]\[26\]
+開発当時、対応するOSとされたのは[Windows95](https://ja.wikipedia.org/wiki/Windows95 "wikilink")、[Windows98](https://ja.wikipedia.org/wiki/Windows98 "wikilink")、[Windows Me](https://ja.wikipedia.org/wiki/Windows_Me "wikilink")、[Windows NT4.0](https://ja.wikipedia.org/wiki/Windows_NT4.0 "wikilink")、[Windows 2000](https://ja.wikipedia.org/wiki/Windows_2000 "wikilink")、[WindowsXP](https://ja.wikipedia.org/wiki/WindowsXP "wikilink")\[25\]\[26\]。
 
 ## 脚注
 
@@ -25,13 +25,9 @@
 
 ### 出典
 
-## 関連項目
-
-  - [Susie](../Page/Susie.md "wikilink")
-
 ## 外部リンク
 
-  - [K_OKADA's WebPage](http://web.archive.org/web/20110823043022/http://www.katch.ne.jp/~k_okada/) - 作者のページ（閉鎖、2011年8月23日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [K_OKADA's WebPage](http://web.archive.org/web/20110823043022/http://www.katch.ne.jp/~k_okada/) - 作者のページ（2011年8月23日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:画像処理ソフト](https://ja.wikipedia.org/wiki/Category:画像処理ソフト "wikilink") [Category:画像ビューア](https://ja.wikipedia.org/wiki/Category:画像ビューア "wikilink")
 
@@ -47,7 +43,7 @@
 10.
 11.
 12.
-13. GIFフォーマットのアルゴリズム『LZW特許』に端を発する「[Unisys（ユニシス）GIFライセンス問題](https://ja.wikipedia.org/wiki/Graphics_Interchange_Format#特許問題とその顛末 "wikilink")」に直面した際、これを回避するためにソース上の該当コードを書き換えてViX単体でのGIFフォーマット対応を封印した。件のLZW特許は2004年6月20日付で日本での特許期限失効を迎えたが、本ソフトはそれ以前に更新停止となっており、GIF標準対応の復活は果たされなかった。
+13. 。
 14.
 15.
 16.

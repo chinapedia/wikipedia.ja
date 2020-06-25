@@ -25,7 +25,7 @@ YBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikili
   - [吉岡秀樹](../Page/吉岡秀樹.md "wikilink")
   - [横内洋樹](../Page/横内洋樹.md "wikilink")
   - [中島そよか](../Page/中島そよか.md "wikilink")
-  - [鈴木智草](https://ja.wikipedia.org/wiki/鈴木智草 "wikilink")
+  - [鈴木智草](../Page/鈴木智草.md "wikilink")
 
 また、番組開始と終了時の提供の読み上げは以下のアナウンサーが担当していた。
 

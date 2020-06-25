@@ -144,7 +144,7 @@ PlotData=
 
 <!-- end list -->
 
-  - [フレット・フリム](https://ja.wikipedia.org/wiki/フレット・フリム "wikilink")
+  - [フレット・フリム](../Page/フレット・フリム.md "wikilink")
 
 ### ローン移籍
 

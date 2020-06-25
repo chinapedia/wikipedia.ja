@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [世界一の九州が始まる\!](https://ja.wikipedia.org/wiki/世界一の九州が始まる! "wikilink")（提供：[キリンビール](../Page/麒麟麦酒.md "wikilink")）
+  - [世界一の九州が始まる\!](https://ja.wikipedia.org/wiki/世界一の九州が始まる! "wikilink")
   - [選抜女子駅伝北九州大会](https://ja.wikipedia.org/wiki/選抜女子駅伝北九州大会 "wikilink")（2019年まで関西・中四国のTBS系列局でも放送。2020年からは地上波録画ネット局が大幅縮小された代わりに裏送りにより[BS-TBS](../Page/BS-TBS.md "wikilink")で生中継）
   - [新 窓をあけて九州](../Page/窓をあけて九州.md "wikilink")（提供：[九州電力](../Page/九州電力.md "wikilink")グループ（2018年12月現在は九電グループと表記変更））
   - [カンパイ\!\! ツマミッケ\!\!](https://ja.wikipedia.org/wiki/カンパイ!!_ツマミッケ!! "wikilink")（提供：[霧島酒造](../Page/霧島酒造.md "wikilink")）

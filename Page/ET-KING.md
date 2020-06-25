@@ -837,7 +837,7 @@ REGGAE MILLION III</p></td>
   - 2007年10月28日 - MINAMI WHEEL 2007
   - 2008年02月10日 - [大阪オートメッセ](../Page/大阪オートメッセ.md "wikilink")
   - 2008年08月09日・10日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2008
-  - 2008年10月05日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 08
+  - 2008年10月05日 - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR YOUNG FLAG 08
   - 2009年07月25日 - TOKAI SUMMIT'09
   - 2009年08月13日 - お台場合衆国2009～フジがやらなきゃだれがやる\!～ めざましライブ
   - 2009年08月23日 - [KOYABU SONIC](https://ja.wikipedia.org/wiki/コヤブソニック "wikilink") 2009

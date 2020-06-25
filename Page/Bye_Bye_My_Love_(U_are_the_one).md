@@ -3,7 +3,7 @@
 
 「**Bye Bye My Love (U are the one)**」（バイ・バイ・マイ・ラヴ ユー・アー・ザ・ワン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の楽曲。自身の22作目の[シングル](../Page/シングル.md "wikilink")として、[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")から[7インチレコードで](https://ja.wikipedia.org/wiki/レコード#7インチシングル盤 "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月29日](../Page/5月29日.md "wikilink")に発売された。
 
-[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売され、計3回再発売されている。
+[1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[CD化](../Page/コンパクトディスク.md "wikilink")、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")にも8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売され、計3回再発売されている。
 
 ## 制作
 
@@ -24,7 +24,7 @@
 1.  **Bye Bye My Love (U are the one)** (4:42)
     （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") & リアル・フィッシュ）
       -
-        [シンセサイザー](../Page/シンセサイザー.md "wikilink")を用いた象徴的な[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")は、[ライブでは](../Page/演奏会.md "wikilink")[管楽器](../Page/管楽器.md "wikilink")で再現されることが多い。メンバーはリリース当初から『一般受けする曲』と位置付けている。
+        [シンセサイザー](../Page/シンセサイザー.md "wikilink")を用いた象徴的な[イントロは](../Page/導入部.md "wikilink")、[ライブでは](../Page/演奏会.md "wikilink")[管楽器](../Page/管楽器.md "wikilink")で再現されることが多い。メンバーはリリース当初から『一般受けする曲』と位置付けている。
         曲中で“湘南御母堂”という[歌詞](../Page/歌詞.md "wikilink")が登場するが、このような[御母堂は実在せず](https://ja.wikipedia.org/wiki/敬称 "wikilink")、桑田が造った架空のものである。
         近年のライブでは曲構成に[マーチングの](../Page/鼓笛隊.md "wikilink")[ドラム](../Page/スネアドラム.md "wikilink")[ロール](https://ja.wikipedia.org/wiki/ルーディメンツ#ルーディメンツの分類 "wikilink")、シンセサイザーによる[バグパイプ](https://ja.wikipedia.org/wiki/バグパイプ "wikilink")を取り入れ、[スコットランド](../Page/スコットランド.md "wikilink")等[北欧の](../Page/北ヨーロッパ.md "wikilink")[民族音楽](../Page/民族音楽.md "wikilink")の様な[アレンジに仕上げている](../Page/編曲.md "wikilink")。仮タイトルは『[陰核](../Page/陰核.md "wikilink")の疼き』。
         [2015年](../Page/2015年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」でお笑いコンビ[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")の[大竹一樹](../Page/大竹一樹.md "wikilink")が応援ソングとしてこの曲を挙げた。また、相方の[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")は、「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」を挙げた。
@@ -33,7 +33,7 @@
     （作詞:桑田佳祐　作曲:桑田佳祐・[八木正生](../Page/八木正生.md "wikilink")　編曲:サザンオールスターズ）
       -
         [前年発売の](../Page/1984年.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[人気者で行こう](../Page/人気者で行こう.md "wikilink")』収録曲「Dear John」の、[1984年](../Page/1984年.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に掛けて行われた[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")ツアー『[大衆音楽取締法違反“やっぱりアイツはクロだった\!”実刑判決2月まで](https://ja.wikipedia.org/wiki/大衆音楽取締法違反「やっぱりアイツはクロだった!」実刑判決2月まで "wikilink")』の[日本武道館](../Page/日本武道館.md "wikilink")での音源を収録している。
-        原曲が完全な[オーケストラ](../Page/オーケストラ.md "wikilink")サウンドであるのに対し、こちらは[バンドサウンドである](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。エンディングの[メロディ](../Page/メロディ.md "wikilink")は[ビートルズ](../Page/ビートルズ.md "wikilink")の「[ザ・ロング・アンド・ワインディング・ロード](../Page/ザ・ロング・アンド・ワインディング・ロード.md "wikilink")」からの引用。
+        原曲が完全な[オーケストラ](../Page/オーケストラ.md "wikilink")サウンドであるのに対し、こちらは[バンドサウンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。エンディングの[メロディ](../Page/メロディ.md "wikilink")は[ビートルズ](../Page/ビートルズ.md "wikilink")の「[ザ・ロング・アンド・ワインディング・ロード](../Page/ザ・ロング・アンド・ワインディング・ロード.md "wikilink")」からの引用。
 
 ## 参加ミュージシャン
 
@@ -52,7 +52,7 @@
       - 福原マリ:[Accordion](../Page/アコーディオン.md "wikilink")
       - [美尾洋乃](https://ja.wikipedia.org/wiki/美尾洋乃 "wikilink"):Accordion, [Violin](../Page/ヴァイオリン.md "wikilink")
       - [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink"):[Cello](../Page/チェロ.md "wikilink"), [Buzúki](https://ja.wikipedia.org/wiki/ブズーキ "wikilink")
-      - [小滝満](https://ja.wikipedia.org/wiki/小滝満 "wikilink"):Accordion
+      - [小滝満](https://ja.wikipedia.org/wiki/小滝みつる "wikilink"):Accordion
   - Dear John (Live at BUDOKAN)
       - 藤井丈司:Synthesizer
       - 矢口博康:Sax

@@ -58,7 +58,7 @@
     1.  [Depend on you](../Page/Depend_on_you.md "wikilink") "EXTENDED POWER MIX"
     2.  [Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink") "Euro-Power Mix"
     3.  [AUDIENCE](../Page/AUDIENCE.md "wikilink") "Euro-Power Mix"
-    4.  [poker face](https://ja.wikipedia.org/wiki/poker_face "wikilink") "Extended Power Mix"
+    4.  [poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink") "Extended Power Mix"
     5.  [monochrome](../Page/A_\(シングル\).md "wikilink") "ayu-ro Extended Mix"
     6.  [immature](https://ja.wikipedia.org/wiki/appears "wikilink") "Sweet Mix"
     7.  [Trauma](../Page/A_\(シングル\).md "wikilink") "Eurobeat Mix"

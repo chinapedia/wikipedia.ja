@@ -527,7 +527,7 @@
 <td><p><strong>6,399</strong></p></td>
 <td><p><a href="../Page/AC長野パルセイロ.md" title="wikilink">長野</a></p></td>
 <td><p><em>483</em></p></td>
-<td><p>新潟経営大学}</p></td>
+<td><p>新潟経営大学</p></td>
 <td><p>南長野</p></td>
 <td><p>3,044</p></td>
 <td><p>7</p></td>

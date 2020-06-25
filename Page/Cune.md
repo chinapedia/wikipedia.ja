@@ -44,7 +44,7 @@
 
   - **小林亮三**（こばやしりょうぞう）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ギター](../Page/ギター.md "wikilink") 1978年5月30日生・B型
       - cuneの楽曲の大部分において作詞・作曲を担当していた。
-      - cune活動休止後ソロ活動として、元[Sound Scheduleの大石昌良と共に](../Page/Sound_Schedule.md "wikilink")「OKコンビ」としても活動。
+      - cune活動休止後ソロ活動として、[Sound Scheduleの](../Page/Sound_Schedule.md "wikilink")[大石昌良](../Page/大石昌良.md "wikilink")と共に「OKコンビ」として2014年まで活動。
       - cune結成以前は、「Ray」という[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドで活動していた。メンバーには中村泰造、元[Waive](../Page/Waive.md "wikilink")の[杉本善徳](../Page/杉本善徳.md "wikilink")、元[Wyseの牧田拓磨らが名を連ねていた](https://ja.wikipedia.org/wiki/wyse_\(音楽バンド\) "wikilink")。
       - 自身のブログやツイッターにてcuneの活動再開の意思がないことや、結婚し2児の父である事、その家族と別居中で写真作家の女性と不倫状態になり、後に妻と離婚した事を告白するなど自身をさらけ出すような記事を度々掲載したが、記事や自身への反感コメントがあると、反発してすぐにブログやツイッターを閉鎖、再開を繰り返す事が度々ある。
       - 2012年7月23日、音楽性と人生観の違いを理由にcuneを脱退し、「波音（なみおと）」と言う名でソロ活動する事を発表した。

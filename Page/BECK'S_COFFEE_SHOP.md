@@ -1,7 +1,7 @@
 > この記事は[BECK\'S COFFEE SHOP](https://ja.wikipedia.org/wiki/BECK\'S_COFFEE_SHOP)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Beck's_coffeeshop_kinshicho.jpg "wikilink") ****（ベックス・コーヒーショップ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[子会社](../Page/子会社.md "wikilink")である[ジェイアール東日本フードビジネス](../Page/ジェイアール東日本フードビジネス.md "wikilink")（ジェフビー） が運営および[フランチャイズ](../Page/フランチャイズ.md "wikilink")展開している[コーヒーショップ](../Page/喫茶店.md "wikilink")。[関東のJRの](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[駅構内](../Page/鉄道駅.md "wikilink")（[駅ナカ](../Page/駅ナカ.md "wikilink")）および駅の周辺に店舗を展開している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Beck's_coffeeshop_kinshicho.jpg "wikilink") ****（ベックス・コーヒーショップ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の[子会社](../Page/子会社.md "wikilink")である[JR東日本フーズ](../Page/JR東日本フーズ.md "wikilink")が運営および[フランチャイズ](../Page/フランチャイズ.md "wikilink")展開している[コーヒーショップ](../Page/喫茶店.md "wikilink")。[関東のJRの](https://ja.wikipedia.org/wiki/関東地方 "wikilink")[駅構内](../Page/鉄道駅.md "wikilink")（[駅ナカ](../Page/駅ナカ.md "wikilink")）および駅の周辺に店舗を展開している。
 
 ## サービス
 
@@ -11,7 +11,7 @@
 
 ジェイアール東日本フードビジネスが運営する[ハンバーガー](../Page/ハンバーガー.md "wikilink")・[ベーカリー](../Page/ベーカリー.md "wikilink")[カフェ](../Page/カフェ.md "wikilink")の「[Becker's](../Page/Becker's.md "wikilink")」と同様に、全店舗で[Suica](../Page/Suica.md "wikilink")（[PASMO](../Page/PASMO.md "wikilink")）を利用した「[Suicaショッピングサービス](https://ja.wikipedia.org/wiki/Suicaショッピングサービス "wikilink")」での支払いが可能である。
 
-一部店舗では[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")の[公衆無線LAN](../Page/公衆無線LAN.md "wikilink")サービス「[BBモバイルポイント](https://ja.wikipedia.org/wiki/BBモバイルポイント "wikilink")」の[アクセスポイント](https://ja.wikipedia.org/wiki/アクセスポイント "wikilink")を設置している。
+一部店舗では[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")の[公衆無線LAN](../Page/公衆無線LAN.md "wikilink")サービス「[BBモバイルポイント](https://ja.wikipedia.org/wiki/BBモバイルポイント "wikilink")」の[アクセスポイントを設置している](../Page/アクセスポイント_\(無線LAN\).md "wikilink")。
 
 ## 関連項目
 

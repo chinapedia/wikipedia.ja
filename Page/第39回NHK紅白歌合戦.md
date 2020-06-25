@@ -73,7 +73,7 @@
 | [佐藤しのぶ](../Page/佐藤しのぶ_\(歌手\).md "wikilink")(2)              | [シューベルトのアヴェ・マリア](../Page/エレンの歌第3番.md "wikilink")                                        |
 | [島倉千代子](https://ja.wikipedia.org/wiki/島倉千代子 "wikilink")(31) | [人生いろいろ](https://ja.wikipedia.org/wiki/人生いろいろ "wikilink")                               |
 | [大月みやこ](../Page/大月みやこ.md "wikilink")(3)                     | [乱れ花](https://ja.wikipedia.org/wiki/乱れ花 "wikilink")                                     |
-| [瀬川瑛子](../Page/瀬川瑛子.md "wikilink")(2)                       | [憂き世川](https://ja.wikipedia.org/wiki/憂き世川 "wikilink")                                   |
+| [瀬川瑛子](../Page/瀬川瑛子.md "wikilink")(2)                       | [憂き世川](../Page/憂き世川.md "wikilink")                                                      |
 | [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")(18)                    | [愛のセレブレイション](https://ja.wikipedia.org/wiki/愛のセレブレイション "wikilink")                       |
 | [ちあきなおみ](../Page/ちあきなおみ.md "wikilink")(9)                   | [紅とんぼ](https://ja.wikipedia.org/wiki/紅とんぼ "wikilink")                                   |
 | [石川さゆり](../Page/石川さゆり.md "wikilink")(11)                    | [滝の白糸](https://ja.wikipedia.org/wiki/滝の白糸_\(石川さゆりの曲\) "wikilink")                       |
@@ -113,7 +113,7 @@
 ## ゲスト出演者
 
   - [島村俊治](../Page/島村俊治.md "wikilink")アナウンサー（オープニング実況、この年のソウルオリンピックで[ジャパンプール（現在のジャパンコンソーシアムにあたる）の一員として実況を務めた](../Page/ジャパンコンソーシアム.md "wikilink")）
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（タレント。光GENJIのバックダンサー）
+  - [SMAP](../Page/SMAP.md "wikilink")（タレント。光GENJIのバックダンサー）
   - [深井洋正](https://ja.wikipedia.org/wiki/深井洋正 "wikilink")（マジシャン。小泉今日子の曲紹介）
 
 ### 演奏ゲスト
@@ -141,8 +141,8 @@
 
 ## 外部リンク
 
-  - [NHK紅白歌合戦公式サイト](http://www.nhk.or.jp/kouhaku/)
-  - [NHK総合「紅白歌合戦」](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
+  - [NHK紅白歌合戦公式サイト](https://www.nhk.or.jp/kouhaku/)
+  - [NHK総合「紅白歌合戦」](https://web.archive.org/web/20080213165139/http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm) - ビデオリサーチ。[1962年](../Page/1962年.md "wikilink")（第13回）以降のテレビ視聴率を掲載。
 
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:1988年の日本の音楽](https://ja.wikipedia.org/wiki/Category:1988年の日本の音楽 "wikilink") [Category:1988年12月](https://ja.wikipedia.org/wiki/Category:1988年12月 "wikilink")
 

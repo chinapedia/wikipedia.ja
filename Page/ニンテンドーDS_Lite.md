@@ -196,7 +196,7 @@
 
 [de:Nintendo DS\#Nintendo DS Lite](https://ja.wikipedia.org/wiki/de:Nintendo_DS#Nintendo_DS_Lite "wikilink")
 
-[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS "wikilink") [Category:携帯型ゲーム機](https://ja.wikipedia.org/wiki/Category:携帯型ゲーム機 "wikilink")
+[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS "wikilink") [Category:任天堂のハードウェア](https://ja.wikipedia.org/wiki/Category:任天堂のハードウェア "wikilink") [Category:携帯型ゲーム機](https://ja.wikipedia.org/wiki/Category:携帯型ゲーム機 "wikilink")
 
 1.
 2.  例えば[振動カートリッジや](../Page/DS振動カートリッジ.md "wikilink")[メモリー拡張カートリッジではDS](https://ja.wikipedia.org/wiki/ニンテンドーDSブラウザー#メモリー拡張カートリッジ "wikilink") Lite専用の製品も用意された。

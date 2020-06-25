@@ -23,6 +23,7 @@
   - 企業
       - [ファーストチョイス航空](https://ja.wikipedia.org/wiki/ファーストチョイス航空 "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")。合併により[トムソン航空](https://ja.wikipedia.org/wiki/トムソン航空 "wikilink")に。
       - [デジタルホン](https://ja.wikipedia.org/wiki/デジタルホン "wikilink") () - かつて日本にあった携帯電話会社グループ。
+      - [Dude Perfect](../Page/Dude_Perfect.md "wikilink") YouTubeのエンターテインメント企業
   - タイトル
       - ポケットモンスターDP
           - [ダイヤモンド・パール](../Page/ポケットモンスター_ダイヤモンド・パール.md "wikilink") - ゲーム。

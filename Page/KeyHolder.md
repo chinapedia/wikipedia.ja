@@ -9,7 +9,7 @@
 
 また、他社への販売を第一目的としない開発部門を有しており、高品質なメダルゲームを自社店舗向けに数多く開発してきた。製造開発部門は、アルゼ（現・[ユニバーサルエンターテインメント](../Page/ユニバーサルエンターテインメント.md "wikilink")）の資本参加をうけた際、アルゼに統合された。2006年にアルゼ社から独立した後は、純粋オペレーターとしてサービス・接客の強化に注力しており、過去の機械による差別化から、ソフトでの差別化路線へシフトしている。なお、2007年8月3日付の自己株式取得によりアルゼとの資本関係を解消している。
 
-アルゼによる買収とそれに伴う[焦土化経営を受けたゲームメーカーとしては](https://ja.wikipedia.org/wiki/濫用的買収者#具体例 "wikilink")、ゲームメーカーとしての機能は失ったものの唯一破綻することなく離脱する事が出来た会社でもある。アルゼ傘下時代のアルゼによる焦土化経営の影響で脆弱となった経営基盤の急速な建て直しのため、得意とする首都圏駅前立地を中心に出店攻勢をかけていた上、2008年7月には同業オペレーターの事業譲受をなどを実施していた。2008年10月には銀座で賭博性の無い「カジノ」ゲームを提供する店舗を開設した\[1\]。
+アルゼによる買収とそれに伴う[焦土化経営を受けたゲームメーカーとしては](https://ja.wikipedia.org/wiki/濫用的買収者#具体例 "wikilink")、ゲームメーカーとしての機能は失ったものの唯一破綻することなく離脱する事が出来た会社でもある。アルゼ傘下時代のアルゼによる焦土化経営の影響で脆弱となった経営基盤の急速な建て直しのため、得意とする首都圏駅前立地を中心に出店攻勢をかけていた上、2008年7月には同業オペレーターの事業譲受などを実施していた。2008年10月には銀座で賭博性の無い「カジノ」ゲームを提供する店舗を開設した\[1\]。
 
 2009年9月に[ネクストジャパンホールディングス](../Page/ネクストジャパンホールディングス.md "wikilink")と資本・業務提携を締結し、店舗開発等で協業を行う。首都圏にて、JJ CLUBのタイム制とアドアーズのゲーム性を取り入れた新しいカラオケ店を出店。2010年3月末をもって、ネクストジャパンホールディングスが株式比率24.9％を取得し、同社の持分法適用会社となる。2012年に[Jトラスト](../Page/Jトラスト.md "wikilink")が親会社となった。
 
@@ -52,6 +52,7 @@
   - 2018年7月1日 - 子会社の株式会社KeyProductionが、株式会社BIGFACEからテレビ制作事業を吸収分割により譲受\[13\]。
   - [2019年](../Page/2019年.md "wikilink")3月1日 - [株式会社AKSより女性アイドルグループ](../Page/AKS.md "wikilink")[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の運営を譲受\[14\]。
   - 2019年4月1日 - 株式会社allfuzを完全子会社化\[15\]。
+  - 2020年7月1日 - 株式会社ノース・リバーの全株式を取得（予定）。同社は、アイドルグループ「[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")」を運営する「乃木坂46合同会社」の持分の50％を保有しており、株式譲受後、ノース・リバーは連結子会社、乃木坂46合同会社は持分適用会社となる予定\[16\]\[17\]。
 
 ## 主要株主
 
@@ -66,10 +67,10 @@
 ## 関係会社
 
   - キーノート株式会社：戸建及びマンションの開発分譲、中古住宅再生、商業施設建築。
-  - 株式会社allfuz：広告代理店、デジタルコンテンツ、ライブ・イベント施設「KeyStudio」運営事業。2019年7月1日に株式会社KeyStudioを吸収合併\[16\]。
+  - 株式会社allfuz：広告代理店、デジタルコンテンツ、ライブ・イベント施設「KeyStudio」運営事業。2019年7月1日に株式会社KeyStudioを吸収合併\[18\]。
       - [株式会社A.M.Entertainment](https://ja.wikipedia.org/wiki/A.M.Entertainment "wikilink")：芸能及びモデルプロダクション事業。
-  - 株式会社UNITED PRODUCTIONS：テレビ制作事業。設立時（2018年4月）の社名「株式会社KeyProduction」から2019年8月に「株式会社UNITED PRODUCTION」変更された\[17\]。
-  - 株式会社ゼスト：[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")および[芸能スクール運営事業](../Page/アクターズスクール.md "wikilink")\[18\]。設立時（2019年1月\[19\]）の社名「株式会社SKE」から2019年7月に「株式会社ゼスト」変更された\[20\]。
+  - 株式会社UNITED PRODUCTIONS：テレビ制作事業。設立時（2018年4月）の社名「株式会社KeyProduction」から2019年8月に「株式会社UNITED PRODUCTION」変更された\[19\]。
+  - 株式会社ゼスト：[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")および[芸能スクール運営事業](../Page/アクターズスクール.md "wikilink")\[20\]。設立時（2019年1月\[21\]）の社名「株式会社SKE」から2019年7月に「株式会社ゼスト」変更された\[22\]。
 
 ## その他
 
@@ -98,8 +99,10 @@
 13. [連結子会社（株式会社ＫｅｙＰｒｏｄｕｃｔｉｏｎ）による吸収分割契約の締結に関するお知らせ](http://www.keyholder.co.jp/dl/20180524_kp_kyusyubunkatsu.pdf?s.5b0650fb37e0a1jkngdj)
 14. [アイドルグループ【ＳＫＥ４８】事業開始のお知らせ](http://www.keyholder.co.jp/dl/20190301_SKE_Notice.pdf?s.5c78ed777bd7121jnc1e)
 15. [簡易株式交換による株式会社allfuzの完全子会社化に関するお知らせ](http://www.keyholder.co.jp/dl/kabukou_allfiz.pdf?s.5c63b6abbc150994lngn)
-16. [当社連結子会社間の吸収合併に関するお知らせ](http://www.keyholder.co.jp/dl/merger_allfuz_keystudio.pdf?s.5cde78d82b4ed8958l3c)
-17. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190717_subsidiary_company%20name%20change.pdf?s.5d2ea7b14dc2a47nhkll)
-18. [アイドル・タレント養成スクール の開校に関するお知らせ](http://www.keyholder.co.jp/dl/20190308_notice_SKE_school.pdf?s.5c820fc2885d65f62450)
-19. [子会社設立に関するお知らせ](http://www.keyholder.co.jp/dl/20181227_kh_subsidiary.pdf?s.5c245e6ec7fd5m3ehd7)
-20. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190606_Change%20of%20subsidiary%20company%20name.pdf?s.5cf89fdc2346579jn4l3)
+16.
+17.
+18. [当社連結子会社間の吸収合併に関するお知らせ](http://www.keyholder.co.jp/dl/merger_allfuz_keystudio.pdf?s.5cde78d82b4ed8958l3c)
+19. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190717_subsidiary_company%20name%20change.pdf?s.5d2ea7b14dc2a47nhkll)
+20. [アイドル・タレント養成スクール の開校に関するお知らせ](http://www.keyholder.co.jp/dl/20190308_notice_SKE_school.pdf?s.5c820fc2885d65f62450)
+21. [子会社設立に関するお知らせ](http://www.keyholder.co.jp/dl/20181227_kh_subsidiary.pdf?s.5c245e6ec7fd5m3ehd7)
+22. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190606_Change%20of%20subsidiary%20company%20name.pdf?s.5cf89fdc2346579jn4l3)

@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作『[EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")』から2年3ヶ月ぶりのオリジナルアルバム。ライブ映像作品『[EXILE LIVE TOUR 2005 〜PERFECT LIVE "ASIA"〜](https://ja.wikipedia.org/wiki/EXILE_LIVE_TOUR_2005_〜PERFECT_LIVE_"ASIA"〜 "wikilink")』と同時発売で、この2作を以てボーカルの[SHUNがグループを脱退した](../Page/清木場俊介.md "wikilink")。
+前作『[EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")』から2年3ヶ月ぶりのオリジナルアルバム。ライブ映像作品『[EXILE LIVE TOUR 2005 〜PERFECT LIVE "ASIA"〜](https://ja.wikipedia.org/wiki/EXILE_LIVE_TOUR_2005_〜PERFECT_LIVE_"ASIA"〜 "wikilink")』と同時発売であり、この2作を以てボーカルの[SHUNがグループを脱退した](../Page/清木場俊介.md "wikilink")。
 
 ベストアルバム『[PERFECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")』以降に発売された[GLAY](../Page/GLAY.md "wikilink")とのコラボレーション「[SCREAM](https://ja.wikipedia.org/wiki/SCREAM_\(GLAY×EXILEの曲\) "wikilink")」や、シングル「[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")」「[ただ…逢いたくて](../Page/ただ…逢いたくて.md "wikilink")」、本作からの先行シングルである「[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")」を含む全17曲を収録。『PERFECT BEST』以前に発売され、そちらに収録の「[Carry On/運命のヒト](https://ja.wikipedia.org/wiki/Carry_On/運命のヒト "wikilink")」「[real world](https://ja.wikipedia.org/wiki/real_world "wikilink")」「[HEART of GOLD](../Page/HEART_of_GOLD.md "wikilink")」「[HERO](../Page/HERO_\(EXILEの曲\).md "wikilink")」は未収録となった。
 

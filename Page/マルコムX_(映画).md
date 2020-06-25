@@ -15,7 +15,7 @@
 
 マルコムXは、『[ドゥ・ザ・ライト・シング](../Page/ドゥ・ザ・ライト・シング_\(映画\).md "wikilink")』など、[スパイク・リー](../Page/スパイク・リー.md "wikilink")の監督作品にしばしば登場する。
 
-映画の公開に合わせてメイキング本『メイキング オブ マルコムX』（スパイク・リー、[ラルフ・ワイリー](https://ja.wikipedia.org/wiki/ラルフ・ワイリー "wikilink")共著、[片岡理智](https://ja.wikipedia.org/wiki/片岡理智 "wikilink")訳、[ビクター音楽産業](https://ja.wikipedia.org/wiki/ビクター音楽産業 "wikilink")、1993年、ISBN 978-4893890795）も出版された。
+映画の公開に合わせてメイキング本『メイキング オブ マルコムX』（スパイク・リー、[ラルフ・ワイリー](https://ja.wikipedia.org/wiki/ラルフ・ワイリー "wikilink")共著、[片岡理智](https://ja.wikipedia.org/wiki/片岡理智 "wikilink")訳、[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")、1993年、ISBN 978-4893890795）も出版された。
 
 ## ストーリー
 
@@ -159,6 +159,6 @@
   -
   -
   -
-[Category:1992年の映画](https://ja.wikipedia.org/wiki/Category:1992年の映画 "wikilink") [Category:アメリカ合衆国の伝記映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の伝記映画 "wikilink") [Category:人種差別を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした映画作品 "wikilink") [Category:ニューヨーク市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした映画作品 "wikilink") [Category:マサチューセッツ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:マサチューセッツ州を舞台とした映画作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:スパイク・リーの監督映画](https://ja.wikipedia.org/wiki/Category:スパイク・リーの監督映画 "wikilink") [Category:アメリカ国立フィルム登録簿に登録された作品](https://ja.wikipedia.org/wiki/Category:アメリカ国立フィルム登録簿に登録された作品 "wikilink") [Category:アフリカ系アメリカ人の文化](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の文化 "wikilink")
+[Category:1992年の映画](https://ja.wikipedia.org/wiki/Category:1992年の映画 "wikilink") [Category:アメリカ合衆国の伝記映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の伝記映画 "wikilink") [Category:人種差別を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人種差別を題材とした映画作品 "wikilink") [Category:ニューヨーク市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした映画作品 "wikilink") [Category:マサチューセッツ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:マサチューセッツ州を舞台とした映画作品 "wikilink") [Category:エジプトで製作された映画作品](https://ja.wikipedia.org/wiki/Category:エジプトで製作された映画作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:スパイク・リーの監督映画](https://ja.wikipedia.org/wiki/Category:スパイク・リーの監督映画 "wikilink") [Category:アメリカ国立フィルム登録簿に登録された作品](https://ja.wikipedia.org/wiki/Category:アメリカ国立フィルム登録簿に登録された作品 "wikilink") [Category:アフリカ系アメリカ人の文化](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人の文化 "wikilink")
 
-1.  \[<http://democracynow.jp/editorblog/14-06-07-7902>　アンジェラとユリ：パワーって伝染する！ \]Democracy Now\!, 2014-06-07
+1.  \[<http://democracynow.jp/editorblog/14-06-07-7902>　アンジェラとユリ：パワーって伝染する！ \] Democracy Now\!, 2014-06-07

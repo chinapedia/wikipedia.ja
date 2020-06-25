@@ -183,7 +183,7 @@
   - [瀬長奈津実](../Page/瀬長奈津実.md "wikilink")
   - [高見こころ](../Page/高見こころ.md "wikilink")
   - [宮内かれん](https://ja.wikipedia.org/wiki/宮内かれん "wikilink")
-  - [本橋優華](../Page/本橋優華.md "wikilink")（[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")11期生、現在は芸能プロダクション[アヴィラ所属グラビアアイドル](https://ja.wikipedia.org/wiki/アヴィラ_\(芸能プロダクション\) "wikilink")）
+  - [本橋優華](../Page/本橋優華.md "wikilink")（[恋のから騒ぎ](../Page/恋のから騒ぎ.md "wikilink")11期生、現在は芸能プロダクション[アヴィラ所属グラビアアイドル](https://ja.wikipedia.org/wiki/アヴィラ_\(芸能プロダクション\) "wikilink")）
       -
         本橋はいったんオビガールから退いたものの、事務所移籍を経て、番組最後の3ヵ月間再び出演した
   - [雪谷和美](https://ja.wikipedia.org/wiki/雪谷和美 "wikilink")
@@ -207,7 +207,7 @@
   - [関谷名加](../Page/関谷名加.md "wikilink")（現在は[テレビ山口](../Page/テレビ山口.md "wikilink")アナウンサー、出演当時は内定状態の女子大生）
   - [関真由美](https://ja.wikipedia.org/wiki/関真由美 "wikilink")（現在は[松竹芸能](../Page/松竹芸能.md "wikilink")所属、出演当時は女子大生。大学卒業後に[山口朝日放送](../Page/山口朝日放送.md "wikilink")アナウンサー）
   - [竹盛あり](https://ja.wikipedia.org/wiki/竹盛あり "wikilink")
-  - [中山真見](../Page/中山真見.md "wikilink")（[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")12期生）
+  - [中山真見](../Page/中山真見.md "wikilink")（[恋のから騒ぎ](../Page/恋のから騒ぎ.md "wikilink")12期生）
   - [野口菜菜](https://ja.wikipedia.org/wiki/野口菜菜 "wikilink")（横浜ベイスターズ・オフィシャル・チアリーダー『diana』2006年度メンバー）◇
   - [八田牧子](../Page/八田牧子.md "wikilink")（テレビ神奈川『みんなが出るテレビ』元女子大生レポーター。2008年3月に[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[徳永悠平](../Page/徳永悠平.md "wikilink")選手と入籍）
   - [平松美奈](https://ja.wikipedia.org/wiki/平松美奈 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[イブニングDonDon](https://ja.wikipedia.org/wiki/イブニングDonDon)から翻訳されています。
 
 
-『**イブニングDonDon**』（イブニングドンドン）は、[山陽放送の](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")。『イブニングワイド21 ゆうがたDonDon』の後を受ける形で[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から2011年4月1日まで放送されていた。
+『**イブニングDonDon**』（イブニングドンドン）は、[山陽放送の](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")。『イブニングワイド21 ゆうがたDonDon』の後を受ける形で[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から2011年4月1日まで放送されていた。
 
 ## 概要
 

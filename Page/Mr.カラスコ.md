@@ -55,7 +55,7 @@
 ## 関連項目
 
   - [着ぐるみ](../Page/着ぐるみ.md "wikilink")
-  - [ブラックホッシー](https://ja.wikipedia.org/wiki/横浜ベイスターズ#マスコット "wikilink")
+  - [ブラックホッシー](https://ja.wikipedia.org/wiki/横浜DeNAベイスターズ#マスコット "wikilink")
   - [ゴールデンドアラ](https://ja.wikipedia.org/wiki/ゴールデンドアラ "wikilink")
   - [ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink") - この番組に生出演したことがある。また、アメリカにわたって大暴れした話題などで取り上げられたことがある。さらに、楽天イーグルスの話題があった場合は、カラスコのぬいぐるみが置かれることがある。
   - [榴ケ岡駅](../Page/榴ケ岡駅.md "wikilink") - 宮城球場に近い入り口は、カラスコのイメージカラーのひとつである紫に塗られており、カラスコやチームロゴが描かれている。

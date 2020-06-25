@@ -29,9 +29,9 @@
 
 2019年8月6日から106 が、2020年に開催される[第75回国民体育大会](https://ja.wikipedia.org/wiki/第75回国民体育大会 "wikilink")のラッピングを施されている\[29\]。
 
-2020年1月より同社と姉妹路線となっていた[台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink")（台鉄）の[屏東線](https://ja.wikipedia.org/wiki/屏東線 "wikilink")および[南迴線で使用されている](https://ja.wikipedia.org/wiki/南廻線 "wikilink")[DR3100型仕様のラッピング車が運行を開始した](https://ja.wikipedia.org/wiki/台湾鉄路管理局DR3100型気動車 "wikilink")\[30\]。局のロゴや塗装だけではなく前面扉上にある高電圧電車線への注意を促す「」のステッカーも中国語のまま再現されている。
+2020年1月より同社と姉妹路線となっていた[台湾鉄路管理局](https://ja.wikipedia.org/wiki/台湾鉄路管理局 "wikilink")（台鉄）の[屏東線](https://ja.wikipedia.org/wiki/屏東線 "wikilink")および[南迴線で使用されている](https://ja.wikipedia.org/wiki/南廻線 "wikilink")[DR3100型などのディーゼル](https://ja.wikipedia.org/wiki/台湾鉄路管理局DR3100型気動車 "wikilink")[自強号](../Page/自強号.md "wikilink")（柴聯自強号）仕様のラッピング車が運行を開始した\[30\]。局のロゴや塗装だけではなく前面扉上にある高電圧電車線への注意を促す「」のステッカーも中国語のまま再現されている。
 
-ファイル:HSOR-103.JPG|103 「水俣号」（運行終了） ファイル:HSOR-151 Galaxy Express 999.jpg|151 「銀河鉄道999号」（運行終了） ファイル:HSOR 111.JPG|111 「くまモン号」 ファイル:HSOR Kumamon Train.JPG|「くまモン号」車内 ファイル:HSOR-107A Kumamon 2 20200314.jpg|107 「くまモン2号」 ファイル:HSOR-102A Kumamon 3 20200313.jpg|102 「くまモン3号」 <File:HSOR-152A> Taiwan Railway Administration 20200314.jpg|152「台鉄DR3100型自強号」仕様 <File:ITRA> DR3104 at Fangliao Station 20180502.jpg|元となった台鉄DR3100型
+ファイル:HSOR-103.JPG|103 「水俣号」（運行終了） ファイル:HSOR-151 Galaxy Express 999.jpg|151 「銀河鉄道999号」（運行終了） ファイル:HSOR 111.JPG|111 「くまモン号」 ファイル:HSOR Kumamon Train.JPG|「くまモン号」車内 ファイル:HSOR-107A Kumamon 2 20200314.jpg|107 「くまモン2号」 ファイル:HSOR-102A Kumamon 3 20200313.jpg|102 「くまモン3号」 <File:HSOR-152A> Taiwan Railway Administration 20200314.jpg|152「台鉄DC自強号気動車」仕様 <File:ITRA> DR3104 at Fangliao Station 20180502.jpg|台鉄DR3100型
 
 ## 「おれんじ食堂」用車両
 

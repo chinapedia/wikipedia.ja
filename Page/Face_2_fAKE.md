@@ -3,7 +3,7 @@
 
 **Face 2 fAKE**（フェイス・トゥー・フェイク）は1994年[作曲家](../Page/作曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")のAchilles DamigosとOh\!Beによって結成された日本国内初の音楽プロデューサー・ユニット。1995年の 活動開始から現在に至までの間、ジャンルに囚われずJ-Popをはじめ、サウンドトラック等、様々な方面で幅広い創作活動を行う。
 
-　両者のセンスとその実力は [Comporser](../Page/Composer.md "wikilink") / [Arranger](../Page/編曲家.md "wikilink") / [Producerとして](../Page/音楽プロデューサー.md "wikilink")、ブラックミュージック、ロック、ポップス、ジャズ、 クラシック、ダンスミュージック等、多種多彩な音楽スタイルをこなす。[Kinki Kidsや](../Page/KinKi_Kids.md "wikilink")[V6](../Page/V6_\(グループ\).md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のシングル・アルバム曲等の作曲をし、ヒット・ソング・メーカーとしての地位を築く。2001年 TVドラマCX「[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")」のサウンド・トラックを担当した際、劇中挿入歌「[Your eyes only〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")」で[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")を抜擢した。彼らをデビューさせる切っ掛けを作ったばかりでなく、デビュー曲でいきなりヒットさせた事は高く評価された。そのスキルは数々の楽曲をミュージックチャートのトップに入れてきたヒットソングメーカーとして広く知られ、2005年\~2010年まで日本テレビのオーディション番組「[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")」に辛口キャラの審査員としてレギュラー出演した。
+　両者のセンスとその実力は [Comporser](../Page/Composer.md "wikilink") / [Arranger](../Page/編曲家.md "wikilink") / [Producerとして](../Page/音楽プロデューサー.md "wikilink")、ブラックミュージック、ロック、ポップス、ジャズ、 クラシック、ダンスミュージック等、多種多彩な音楽スタイルをこなす。[Kinki Kidsや](../Page/KinKi_Kids.md "wikilink")[V6](../Page/V6_\(グループ\).md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")のシングル・アルバム曲等の作曲をし、ヒット・ソング・メーカーとしての地位を築く。2001年 TVドラマCX「[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")」のサウンド・トラックを担当した際、劇中挿入歌「[Your eyes only〜曖昧なぼくの輪郭〜](../Page/Your_eyes_only_〜曖昧なぼくの輪郭〜.md "wikilink")」で[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")を抜擢した。彼らをデビューさせる切っ掛けを作ったばかりでなく、デビュー曲でいきなりヒットさせた事は高く評価された。そのスキルは数々の楽曲をミュージックチャートのトップに入れてきたヒットソングメーカーとして広く知られ、2005年\~2010年まで日本テレビのオーディション番組「[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")」に辛口キャラの審査員としてレギュラー出演した。
 
 　サウンドトラックにおいては、ポップスで培われてきた印象的なメロディーラインに、重厚なシンフォニック・テイストと打ち込みによるエレクトロニック・サウンドが掛け合わせた、他者には真似できないメロディアスで壮大かつハイブリッドな次世代サウンドが特徴である。
 
@@ -48,7 +48,7 @@
       - 『[sha la la](https://ja.wikipedia.org/wiki/sha_la_la "wikilink")』
       - 『[a tomorrowsong](https://ja.wikipedia.org/wiki/a_tomorrowsong "wikilink")』
       - 『around the world』
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
       - 『[Peace\!](https://ja.wikipedia.org/wiki/Peace! "wikilink")』
       - 『[Let It Be](../Page/Let_It_Be_\(SMAPの曲\).md "wikilink")』
       - 『[Fool On The Hill](../Page/ダイナマイト_\(SMAPの曲\).md "wikilink")』

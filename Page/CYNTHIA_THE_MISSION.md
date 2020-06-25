@@ -1,7 +1,7 @@
 > この記事は[CYNTHIA THE MISSION](https://ja.wikipedia.org/wiki/CYNTHIA_THE_MISSION)から翻訳されています。
 
 
-『**CYNTHIA_THE_MISSION**』（シンシア ザ ミッション）は、[高遠るい](../Page/高遠るい.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[格闘アクション漫画作品](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")。
+『**CYNTHIA_THE_MISSION**』（シンシア ザ ミッション）は、[高遠るい](../Page/高遠るい.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[格闘アクション漫画作品](../Page/格闘漫画.md "wikilink")。
 
 ## 概要
 

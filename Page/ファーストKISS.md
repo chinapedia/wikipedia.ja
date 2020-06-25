@@ -14,7 +14,7 @@
 5.  絶対解ける問題　X=♥
 6.  笑顔に涙〜THANK YOU\! DEAR MY FRIENDS〜
       - 「卒業」が題材。[2005年](../Page/2005年.md "wikilink")発売の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[松浦亜弥ベスト1](../Page/松浦亜弥ベスト1.md "wikilink")』にも収録。
-      - [2012年](../Page/2012年.md "wikilink")に[新垣里沙](../Page/新垣里沙.md "wikilink")が[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")を卒業する際にこの曲をカバーし、参加ラストシングル「[恋愛ハンター（初回生産限定盤E：新垣里沙卒業記念盤）](https://ja.wikipedia.org/wiki/恋愛ハンター#初回生産限定盤E：新垣里沙卒業記念盤 "wikilink")」に収録された。
+      - [2012年](../Page/2012年.md "wikilink")に[新垣里沙](../Page/新垣里沙.md "wikilink")が[モーニング娘。](../Page/モーニング娘。.md "wikilink")を卒業する際にこの曲をカバーし、参加ラストシングル「[恋愛ハンター（初回生産限定盤E：新垣里沙卒業記念盤）](https://ja.wikipedia.org/wiki/恋愛ハンター#初回生産限定盤E：新垣里沙卒業記念盤 "wikilink")」に収録された。
 7.  [LOVE涙色](https://ja.wikipedia.org/wiki/LOVE涙色 "wikilink")
 8.  そう言えば
 9.  S君

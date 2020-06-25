@@ -23,7 +23,10 @@
 
   - 200 OK
     **OK**。リクエストは成功し、レスポンスとともに要求に応じた情報が返される。
-    [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")でページが正しく表示された場合は、ほとんどがこのステータスコードを返している。
+    [ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")でページが正しく表示された場合は、ほとんどがこのステータスコードを返している。
+
+[200 OKの例](https://www.google.com)
+
   - 201 Created
     **作成**。リクエストは完了し、新たに作成されたリソースのURIが返される。
     例: PUTメソッドでリソースを作成するリクエストを行ったとき、そのリクエストが完了した場合に返される。
@@ -109,6 +112,10 @@
     例: サーバは英語か日本語しか受け付けられないが、リクエストのAccept-Language:ヘッダにzh（中国語）しか含まれていなかった。
     例: サーバはapplication/pdfを送信したかったが、リクエストのAccept:ヘッダにapplication/pdfが含まれていなかった。
     例: サーバはUTF-8の文章を送信したかったが、リクエストのAccept-Charset:ヘッダには、UTF-8が含まれていなかった。
+    [406 Not Acceptableの例](https://www.nnn.ed.nico/courses/663/chapters/9495.2)
+
+<!-- end list -->
+
   - 407 Proxy Authentication Required
     **[プロキシ](../Page/プロキシ.md "wikilink")認証が必要である**。プロキシの認証が必要な場合に返される。
   - 408 Request Timeout
@@ -143,7 +150,6 @@
   - 418 I'm a teapot
     **私はティーポット**。[HTCPCP/1.0の拡張ステータスコード](../Page/Hyper_Text_Coffee_Pot_Control_Protocol.md "wikilink")。
     [ティーポット](https://ja.wikipedia.org/wiki/ティーポット "wikilink")に[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を淹れさせようとして、拒否された場合に返すとされる、[ジョーク](../Page/ジョーク.md "wikilink")のコードである。
-    [418 I'm a teapotの例](https://www.google.com/teapot)
   - 421 Misdirected Request (RFC 7540)
     **誤ったリクエスト**。
   - 422 Unprocessable Entity

@@ -61,6 +61,8 @@
 
 2019年11月6日、アルバム『FAUST』発売。このアルバムは[ゲーテの](../Page/ヨハン・ヴォルフガング・フォン・ゲーテ.md "wikilink")[戯曲](../Page/戯曲.md "wikilink")、[ファウストをモチーフにして作成された](../Page/ファウスト_\(ゲーテ\).md "wikilink")。
 
+2020年、5月から6月にかけて予定していたAngelo Tour 2020「Mephisto Rebellion」及び6月から7月にかけて予定していたAngelo「THE BRANCHED WORLD LINE」が[新型コロナウィルス感染拡大防止のため開催中止となった](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")。 それを受けて6月7日にAngelo -Acoustic Live Streaming「NEOPHASE」-を有料配信予定。
+
 ## 作品
 
 ### シングル
@@ -1208,53 +1210,288 @@
 
 ### ツアー
 
-| 日程                  | タイトル                                                | 公演規模                                                      | 備考                                                                                                            |
-| ------------------- | --------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 2006年               |                                                     |                                                           |                                                                                                               |
-| 11月11日 - 11月27日     | **Tour 2006「BROKEN WORLD,AFTER THE HEAVEN」**        | 全国7ヵ所8公演                                                  | 初の全国ツアー                                                                                                       |
-| 2007年               |                                                     |                                                           |                                                                                                               |
-| 4月1日 - 6月10日        | **Tour 2007「EASTER FOR TREASON」**                   | 全国22ヵ所24公演                                                |                                                                                                               |
-| 12月21日 - 2008年3月16日 | **TOUR 07-08「THE FRENZIED EMPIRE」**                 | 全国16ヵ所17公演                                                | ツアーファイナルは初の[日本武道館](../Page/日本武道館.md "wikilink")公演                                                             |
-| 2008年               |                                                     |                                                           |                                                                                                               |
-| 6月15日 - 7月21日       | **Club circuit 08「VEILED SIGN」**                    | 全国9ヵ所10公演                                                 |                                                                                                               |
-| 11月13日 - 2009年1月6日  | **Tour 08-09「NATURAL BORN ULTIMATE CHILD」**         | 全国18ヵ所21公演                                                |                                                                                                               |
-| 2009年               |                                                     |                                                           |                                                                                                               |
-| 6月13日 - 7月26日       | **Tour 2009「GROWS UP METALLIC BUTTERFLY」**          | 全国12ヵ所13公演                                                |                                                                                                               |
-| 2010年               |                                                     |                                                           |                                                                                                               |
-| 1月30日 - 3月6日        | **Tour 2010 「SEARCH THE LIGHTWAVE」**                | 全国6ヵ所7公演                                                  |                                                                                                               |
-| 9月1日 - 10月16日       | **LIVE HOUSE Tour 2010 「UNDERGROUND INFECTION」**    | 全国11ヵ所12公演                                                |                                                                                                               |
-| 2011年               |                                                     |                                                           |                                                                                                               |
-| 4月8日 - 5月5日         | **Tour 2011 「SELF-REGARD NUCLEAR FISSION」**         | 全国5ヵ所7公演                                                  | 3月11日からツアー開始の予定であったが [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で一部の公演が延期及び中止された。            |
-| 6月26日 - 7月22日       | *' LIVE HOUSE Tour 2011 「NEW KIND OF SPIRAL」*'      | 全国4ヵ所4公演                                                  |                                                                                                               |
-| 11月20日 - 2012年2月25日 | **Tour 11-12 「CORNERSTONE OF THE FORBIDDEN TOWER」** | 全国18ヵ所24公演                                                | 5人体制での初のツアー                                                                                                   |
-| 2012年               |                                                     |                                                           |                                                                                                               |
-| 5月18日 - 6月30日       | **Tour 2012 「The outer wall of brilliant colors」**  | 11ヵ所13公演                                                  | 初の海外公演（[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）開催 |
-| 11月27日 - 12月31日     | **Tour 12-13 「REFLECTIONS IN THE RETINA」**          | 全国9ヵ所11公演                                                 | ファイナルの[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink")での公演は カウントダウンライブ                                            |
-| 2013年               |                                                     |                                                           |                                                                                                               |
-| 4月12日 - 6月9日        | **Tour 2013 「REMODELING OF THE AFTER IMAGE」**       | 台湾公演含め11ヵ所11公演                                            |                                                                                                               |
-| 10月4日 - 10月14日      | *' 「THE SEVENTH INCREASE」*'                         | [東名阪](https://ja.wikipedia.org/wiki/東名阪 "wikilink")3ヵ所3公演 | 7周年記念ツアー                                                                                                      |
-| 11月28日 - 2014年1月4日  | **Tour 「THE FAITH TO FOLLOW」**                      | 全国13ヵ所13公演                                                | 「FAITH」発売ツアー                                                                                                  |
-| 2014年               |                                                     |                                                           |                                                                                                               |
-| 4月19日 - 6月7日        | **Tour 2014 「AWAKENING THE NEW VARIETIES」**         | 全国13ヵ所14公演                                                |                                                                                                               |
-| 12月24日 - 2015年2月24日 | **Tour 「THE BLIND SPOT OF PSYCHOLOGY」**             | 全国12ヵ所15公演                                                | 「PSYCHE」発売ツアー                                                                                                 |
-| 2015年               |                                                     |                                                           |                                                                                                               |
-| 5月5日 - 6月13日        | **Tour 2015 「CREATING A SINGULARITY」**              | 全国9ヵ所10公演                                                 |                                                                                                               |
-| 11月23日 - 2016年1月10日 | *' Tour 2015-2016「THE RESULT FROM PHENOMENON」*'     | 全国11ヵ所12公演                                                | 「FACTOR/RESULT」ツアー                                                                                            |
-| 2016年               |                                                     |                                                           |                                                                                                               |
-| 5月3日 - 6月11日        | **Tour 2016「CELL DIVISION」**                        | 全国8ヵ所9公演                                                  |                                                                                                               |
-| 11月22日 - 2017年1月7日  | *' Tour「THE COUNTLESS CORD」*'                       | 全国10ヵ所12公演                                                | 「CORD」ツアー                                                                                                     |
-| 2017年               |                                                     |                                                           |                                                                                                               |
-| 4月26日 - 6月2日        | **Tour 2017「THE CONNECTED STRINGS」**                | 全国15ヵ所17公演                                                |                                                                                                               |
-| 11月17日 - 2018年1月6日  | *' Tour「REVERSAL OF HETERODOXY」*'                   | 全国13ヵ所15公演                                                | 「HETERODOX」ツアー                                                                                                |
-| 2018年               |                                                     |                                                           |                                                                                                               |
-| 5月17日 - 6月28日       | **Tour 2018「REMISSIONARY」**                         | 全国11ヵ所12公演                                                |                                                                                                               |
-| 11月15日 - 2019年1月5日  | ''' Tour 2018-2019「WAVY EFFECT OF RESONANCE」 '''    | 全国10ヵ所16公演                                                | 「RESONANCE」ツアー                                                                                                |
-| 2019年               |                                                     |                                                           |                                                                                                               |
-| 4月30日 - 6月14日       | **Tour 2019「THE REACTED WORLD」**                    | 全国11ヵ所13公演                                                |                                                                                                               |
-| 11月9日 - 2020年1月5日   | '''Tour 2019-2020「THE CONTRACT DEADLINE」 '''        | 全国12ヵ所15公演                                                | 「FAUST」ツアー                                                                                                    |
-| 2020年               |                                                     |                                                           |                                                                                                               |
-| 5月1日 - 6月6日         | **Tour 2020「Mephisto Rebellion」**                   | 全国10ヵ所12公演                                                |                                                                                                               |
-| 6月27日 - 7月17日       | **「THE BRANCHED WORLD LINE」**                       | 全国3ヵ所5公演                                                  | ホールツアー                                                                                                        |
+<table>
+<thead>
+<tr class="header">
+<th><p>日程</p></th>
+<th><p>タイトル</p></th>
+<th><p>公演規模</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2006年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月11日 - 11月27日</p></td>
+<td><p><strong>Tour 2006「BROKEN WORLD,AFTER THE HEAVEN」</strong></p></td>
+<td><p>全国7ヵ所8公演</p></td>
+<td><p>初の全国ツアー</p></td>
+</tr>
+<tr class="odd">
+<td><p>2007年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月1日 - 6月10日</p></td>
+<td><p><strong>Tour 2007「EASTER FOR TREASON」</strong></p></td>
+<td><p>全国22ヵ所24公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月21日 - 2008年3月16日</p></td>
+<td><p><strong>TOUR 07-08「THE FRENZIED EMPIRE」</strong></p></td>
+<td><p>全国16ヵ所17公演</p></td>
+<td><p>ツアーファイナルは初の<a href="../Page/日本武道館.md" title="wikilink">日本武道館</a>公演</p></td>
+</tr>
+<tr class="even">
+<td><p>2008年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月15日 - 7月21日</p></td>
+<td><p><strong>Club circuit 08「VEILED SIGN」</strong></p></td>
+<td><p>全国9ヵ所10公演</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月13日 - 2009年1月6日</p></td>
+<td><p><strong>Tour 08-09「NATURAL BORN ULTIMATE CHILD」</strong></p></td>
+<td><p>全国18ヵ所21公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月13日 - 7月26日</p></td>
+<td><p><strong>Tour 2009「GROWS UP METALLIC BUTTERFLY」</strong></p></td>
+<td><p>全国12ヵ所13公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1月30日 - 3月6日</p></td>
+<td><p><strong>Tour 2010 「SEARCH THE LIGHTWAVE」</strong></p></td>
+<td><p>全国6ヵ所7公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月1日 - 10月16日</p></td>
+<td><p><strong>LIVE HOUSE Tour 2010 「UNDERGROUND INFECTION」</strong></p></td>
+<td><p>全国11ヵ所12公演</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月8日 - 5月5日</p></td>
+<td><p><strong>Tour 2011 「SELF-REGARD NUCLEAR FISSION」</strong></p></td>
+<td><p>全国5ヵ所7公演</p></td>
+<td><p>3月11日からツアー開始の予定であったが <a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>の影響で一部の公演が延期及び中止された。</p></td>
+</tr>
+<tr class="even">
+<td><p>6月26日 - 7月22日</p></td>
+<td><p><em>' LIVE HOUSE Tour 2011 「NEW KIND OF SPIRAL」</em>'</p></td>
+<td><p>全国4ヵ所4公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月20日 - 2012年2月25日</p></td>
+<td><p><strong>Tour 11-12 「CORNERSTONE OF THE FORBIDDEN TOWER」</strong></p></td>
+<td><p>全国18ヵ所24公演</p></td>
+<td><p>5人体制での初のツアー</p></td>
+</tr>
+<tr class="even">
+<td><p>2012年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月18日 - 6月30日</p></td>
+<td><p><strong>Tour 2012 「The outer wall of brilliant colors」</strong></p></td>
+<td><p>11ヵ所13公演</p></td>
+<td><p>初の海外公演（<a href="https://ja.wikipedia.org/wiki/香港" title="wikilink">香港</a>・<a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a>）開催</p></td>
+</tr>
+<tr class="even">
+<td><p>11月27日 - 12月31日</p></td>
+<td><p><strong>Tour 12-13 「REFLECTIONS IN THE RETINA」</strong></p></td>
+<td><p>全国9ヵ所11公演</p></td>
+<td><p>ファイナルの<a href="../Page/大宮ソニックシティ.md" title="wikilink">大宮ソニックシティ</a>での公演は カウントダウンライブ</p></td>
+</tr>
+<tr class="odd">
+<td><p>2013年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月12日 - 6月9日</p></td>
+<td><p><strong>Tour 2013 「REMODELING OF THE AFTER IMAGE」</strong></p></td>
+<td><p>台湾公演含め11ヵ所11公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月4日 - 10月14日</p></td>
+<td><p><em>' 「THE SEVENTH INCREASE」</em>'</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東名阪" title="wikilink">東名阪</a>3ヵ所3公演</p></td>
+<td><p>7周年記念ツアー</p></td>
+</tr>
+<tr class="even">
+<td><p>11月28日 - 2014年1月4日</p></td>
+<td><p><strong>Tour 「THE FAITH TO FOLLOW」</strong></p></td>
+<td><p>全国13ヵ所13公演</p></td>
+<td><p>「FAITH」発売ツアー</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月19日 - 6月7日</p></td>
+<td><p><strong>Tour 2014 「AWAKENING THE NEW VARIETIES」</strong></p></td>
+<td><p>全国13ヵ所14公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月24日 - 2015年2月24日</p></td>
+<td><p><strong>Tour 「THE BLIND SPOT OF PSYCHOLOGY」</strong></p></td>
+<td><p>全国12ヵ所15公演</p></td>
+<td><p>「PSYCHE」発売ツアー</p></td>
+</tr>
+<tr class="even">
+<td><p>2015年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月5日 - 6月13日</p></td>
+<td><p><strong>Tour 2015 「CREATING A SINGULARITY」</strong></p></td>
+<td><p>全国9ヵ所10公演</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月23日 - 2016年1月10日</p></td>
+<td><p><em>' Tour 2015-2016「THE RESULT FROM PHENOMENON」</em>'</p></td>
+<td><p>全国11ヵ所12公演</p></td>
+<td><p>「FACTOR/RESULT」ツアー</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月3日 - 6月11日</p></td>
+<td><p><strong>Tour 2016「CELL DIVISION」</strong></p></td>
+<td><p>全国8ヵ所9公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月22日 - 2017年1月7日</p></td>
+<td><p><em>' Tour「THE COUNTLESS CORD」</em>'</p></td>
+<td><p>全国10ヵ所12公演</p></td>
+<td><p>「CORD」ツアー</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月26日 - 6月2日</p></td>
+<td><p><strong>Tour 2017「THE CONNECTED STRINGS」</strong></p></td>
+<td><p>全国15ヵ所17公演</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月17日 - 2018年1月6日</p></td>
+<td><p><em>' Tour「REVERSAL OF HETERODOXY」</em>'</p></td>
+<td><p>全国13ヵ所15公演</p></td>
+<td><p>「HETERODOX」ツアー</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月17日 - 6月28日</p></td>
+<td><p><strong>Tour 2018「REMISSIONARY」</strong></p></td>
+<td><p>全国11ヵ所12公演</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月15日 - 2019年1月5日</p></td>
+<td><p>''' Tour 2018-2019「WAVY EFFECT OF RESONANCE」 '''</p></td>
+<td><p>全国10ヵ所16公演</p></td>
+<td><p>「RESONANCE」ツアー</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4月30日 - 6月14日</p></td>
+<td><p><strong>Tour 2019「THE REACTED WORLD」</strong></p></td>
+<td><p>全国11ヵ所13公演</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月9日 - 2020年1月5日</p></td>
+<td><p>'''Tour 2019-2020「THE CONTRACT DEADLINE」 '''</p></td>
+<td><p>全国12ヵ所15公演</p></td>
+<td><p>「FAUST」ツアー</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p>　</p></td>
+<td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウィルス感染拡大防止のため開催中止</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><strong>　　</strong></p></td>
+<td><p>　</p></td>
+<td><p>　　<a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウィルス感染拡大防止のため開催中止</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ### ゲスト出演ライブ
 

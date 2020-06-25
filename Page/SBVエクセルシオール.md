@@ -160,9 +160,9 @@ PlotData=
 
   - [グレン・ローフェンス](https://ja.wikipedia.org/wiki/グレン・ローフェンス "wikilink") 2003-2004
 
-  - [カリド・カラミ](https://ja.wikipedia.org/wiki/カリド・カラミ "wikilink") 2013-2018
+  - [カリド・カラミ](../Page/カリド・カラミ.md "wikilink") 2013-2018
 
-  - [ジェフリー・フォルテス](https://ja.wikipedia.org/wiki/ジェフリー・フォルテス "wikilink") 2016-2020
+  - [ジェフリー・フォルテス](../Page/ジェフリー・フォルテス.md "wikilink") 2016-2020
 
 ### MF
 

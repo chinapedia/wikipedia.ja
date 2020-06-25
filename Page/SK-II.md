@@ -119,7 +119,7 @@ SK-IIの**SK**とは「**Secret Key（秘密の鍵）**」の略である。
 
 :\*マスターピース トートネス セラム
 
-  - [パック](https://ja.wikipedia.org/wiki/パック "wikilink")・[マスク](../Page/マスク.md "wikilink")
+  - [パック](../Page/パック.md "wikilink")・[マスク](../Page/マスク.md "wikilink")
 
 :\*フェイシャル トリートメント マスク
 

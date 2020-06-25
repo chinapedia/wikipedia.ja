@@ -106,7 +106,7 @@
       - [OVER](https://ja.wikipedia.org/wiki/OVER_\(Hey!_Say!_JUMPの曲\) "wikilink")（2011年）
   - [高木雄也](../Page/高木雄也.md "wikilink")
       - [題名の無い物語](https://ja.wikipedia.org/wiki/SENSE_or_LOVE "wikilink")
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
       - [Cry for the Smile](https://ja.wikipedia.org/wiki/We_are_SMAP! "wikilink")（2010年）
       - [前に\!](https://ja.wikipedia.org/wiki/GIFT_of_SMAP "wikilink")（2012年）
   - [タッキー&翼](../Page/タッキー&翼.md "wikilink")

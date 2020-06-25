@@ -103,7 +103,7 @@
   - 放送時間：日曜夜7時30分 - 8時
   - 放送回数：全24話
 
-### 登場人物
+### キャスト
 
   - 江川ゆか：[坂口良子](../Page/坂口良子.md "wikilink")
   - 牧圭介：中山仁
@@ -123,6 +123,22 @@
   - ：[夏川圭](https://ja.wikipedia.org/wiki/夏川圭 "wikilink")
   - ：[安原義人](../Page/安原義人.md "wikilink")
   - ：[柳谷寛](../Page/柳谷寛.md "wikilink")
+  - ：[柴田鋭子](https://ja.wikipedia.org/wiki/柴田鋭子 "wikilink")
+  - ：[市川治](../Page/市川治.md "wikilink")
+  - ：[八代駿](../Page/八代駿.md "wikilink")
+  - ：[中山愛子](https://ja.wikipedia.org/wiki/中山愛子 "wikilink")
+  - ：[津田京子](https://ja.wikipedia.org/wiki/津田京子 "wikilink")
+  - ：[小沢弘治](https://ja.wikipedia.org/wiki/小沢弘治 "wikilink")
+  - ：[松下達夫](https://ja.wikipedia.org/wiki/松下達夫 "wikilink")
+  - ：[川口敦子](../Page/川口敦子.md "wikilink")
+  - ：[佐々木真巳](https://ja.wikipedia.org/wiki/佐々木真巳 "wikilink")
+  - ：[佐々木勝彦](../Page/佐々木勝彦.md "wikilink")
+  - ：[近藤宏](../Page/近藤宏.md "wikilink")
+  - ：[愛田純](../Page/愛田純.md "wikilink")
+  - ：[水城蘭子](../Page/水城蘭子.md "wikilink")
+  - ：[大久保正信](../Page/大久保正信.md "wikilink")
+  - ：[江守徹](../Page/江守徹.md "wikilink")
+  - アナウンサー：[山田二郎](../Page/山田二郎_\(アナウンサー\).md "wikilink")
   - ナレーター：納谷悟朗　
 
 ### スタッフ
@@ -130,6 +146,14 @@
   - 監督：日高武治、金谷稔、[土屋統吾郎](https://ja.wikipedia.org/wiki/土屋統吾郎 "wikilink")
   - 脚本：上條逸雄、[鴨井達比古](../Page/鴨井達比古.md "wikilink")
   - 音楽：三沢郷
+
+### サブタイトル
+
+  - 1～20回はサブタイトルなし
+  - 21回：怪物スパイカー出現！
+  - 22回：頑張れ！キャプテンゆか
+  - 23回：試合場からの脱走！！
+  - 24回：勝利！！この道は永遠(とわ)に
 
 ### 放送局（坂口良子版）
 

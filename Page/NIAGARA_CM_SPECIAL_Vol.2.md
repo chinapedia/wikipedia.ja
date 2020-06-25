@@ -202,7 +202,7 @@ Ms. Miyama, &amp; Niagara Cheer Leaders,<br />
 
 ### 出典
 
-[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:コマーシャルソング集](https://ja.wikipedia.org/wiki/Category:コマーシャルソング集 "wikilink")
+[Category:ナイアガラ・レーベルのアルバム](https://ja.wikipedia.org/wiki/Category:ナイアガラ・レーベルのアルバム "wikilink") [Category:1982年のコンピレーション・アルバム](https://ja.wikipedia.org/wiki/Category:1982年のコンピレーション・アルバム "wikilink") [Category:コマーシャルソング集](https://ja.wikipedia.org/wiki/Category:コマーシャルソング集 "wikilink")
 
 1.  『[NIAGARA CM SPECIAL Vol.1](../Page/NIAGARA_CM_SPECIAL_Vol.1.md "wikilink")』 発売 [NIAGARA](../Page/ナイアガラ・レーベル.md "wikilink") ⁄ [COLUMBIA](../Page/日本コロムビア.md "wikilink") LP:LZ-7005-E (NGLP-509, 510-CM)
 2.  『[NIAGARA CM SPECIAL Vol.1 2nd Issue](../Page/NIAGARA_CM_SPECIAL_Vol.1_2nd_Issue.md "wikilink")』 発売 NIAGARA ⁄ [CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") 25cmLP:23AH 1244 (NGLP-509,510-CM), CT:23KH 964

@@ -8,36 +8,36 @@
 **2000年 - 2014年：DOBERMAN INC**
 
   - 2000年、WEST HEADのメンバーであるKUBO-C、GS、P-CHOの3人が、トラックメイカーの[BACHLOGIC](https://ja.wikipedia.org/wiki/BACHLOGIC "wikilink")を介して、Tomogen、MABと「DOBERMAN INC」を結成。大阪を拠点に活動を開始する。
-  - 2002年、アルバム『DOBERMANN』でインディーズデビュー。
+  - 2002年、アルバム『DOBERMANN』でインディーズデビュー\[1\]。
   - 2004年、ミニアルバム『CONVERSATION PIECE』でメジャーデビュー。
   - 2006年、MABが脱退。
-  - 2008年、LDH所属となり活動拠点を東京へ移す\[1\]。
-  - 2013年10月17日、Tomogenが脱退\[2\]。
+  - 2008年、LDH所属となり\[2\]活動拠点を東京へ移す\[3\]。
+  - 2013年10月17日、Tomogenが脱退\[4\]。
 
 **2014年 - 現在：DOBERMAN INFINITY**
 
-  - 2014年6月17日、「[VOCAL BATTLE AUDITION 4](https://ja.wikipedia.org/wiki/VOCAL_BATTLE_AUDITION#EXILE_Presents_VOCAL_BATTLE_AUDITION_4_〜夢を持った若者達へ〜 "wikilink")」のファイナリストであるKAZUKIの加入と、「DOBERMAN INFINITY」への改名を発表\[3\]\[4\]。
-  - 2014年6月24日、SWAYの加入を発表\[5\]。正式に再始動する\[6\]。
+  - 2014年6月17日、「[VOCAL BATTLE AUDITION 4](https://ja.wikipedia.org/wiki/VOCAL_BATTLE_AUDITION#EXILE_Presents_VOCAL_BATTLE_AUDITION_4_〜夢を持った若者達へ〜 "wikilink")」のファイナリストであるKAZUKIの加入と、「DOBERMAN INFINITY」への改名を発表\[5\]。
+  - 2014年6月24日、SWAYの加入を発表\[6\]。正式に再始動する\[7\]。
 
 ## メンバー
 
-  - **KUBO-C**（クボシー、本名：久保貴史、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）MC、リーダー\[7\]
-      - [奈良県](../Page/奈良県.md "wikilink")出身\[8\]。血液型A型。
-      - メンバーのGSは小学3年からの仲である\[9\]。
-      - 2012年11月、一般女性と結婚\[10\]。2014年12月、第1子となる女児が誕生。
+  - **KUBO-C**（クボシー、本名：久保貴史、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）MC、リーダー\[8\]
+      - [奈良県](../Page/奈良県.md "wikilink")出身\[9\]。血液型A型。
+      - メンバーのGSは小学3年からの仲である\[10\]。
+      - 2012年11月、一般女性と結婚\[11\]。2014年12月、第1子となる女児が誕生。
 
 <!-- end list -->
 
   - **GS** （ジーエス、本名：武藤隆志、[1979年](../Page/1979年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink") - ）MC
-      - 奈良県出身\[11\]。身長174cm\[12\]。血液型B型。
-      - メンバーのKUBO-Cは小学3年からの仲である\[13\]。
-      - 2019年12月24日、一般女性と結婚\[14\]。
+      - 奈良県出身\[12\]。身長174cm\[13\]。血液型B型。
+      - メンバーのKUBO-Cは小学3年からの仲である\[14\]。
+      - 2019年12月24日、一般女性と結婚\[15\]。
 
 <!-- end list -->
 
   - **P-CHO** （ピーチョウ、本名：長野祐仁、1980年[5月2日](../Page/5月2日.md "wikilink") - ）MC
-      - 奈良県出身\[15\]。血液型A型。
-      - 2018年2月12日、一般女性と結婚\[16\]\[17\]。2019年12月、第1子となる女児が誕生\[18\]。
+      - 奈良県出身\[16\]。血液型A型。
+      - 2018年2月12日、一般女性と結婚\[17\]。2019年12月、第1子となる女児が誕生\[18\]。
 
 <!-- end list -->
 
@@ -491,18 +491,18 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[29\]
 
 <div class="NavContent" style="text-align: left;">
 
-*新型ウイルスによる政府の自粛要請に従い5月末まで中止*
+*新型ウイルスによる政府の自粛要請に従い中止*
 
   - <s>3月07日：新潟・[新潟テルサ](https://ja.wikipedia.org/wiki/新潟テルサ "wikilink")
   - 3月17日：愛知・愛知県芸術劇場 大ホール
   - 4月17日：新潟・新潟テルサ（振替公演）
   - 5月08日：東京・[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink") ホールA
   - 5月17日：奈良・なら100年会館 大ホール
-  - 5月23日：広島・ふくやま芸術文化ホール リーデンローズ 大ホール</s>
+  - 5月23日：広島・ふくやま芸術文化ホール リーデンローズ 大ホール
   - 6月27日：岐阜・[長良川国際会議場](../Page/長良川国際会議場.md "wikilink")
   - 7月02日：愛知・愛知県芸術劇場 大ホール（振替公演）
   - 7月07日：千葉・市川市文化会館 大ホール
-  - 7月17日：神奈川・[神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink") 大ホール
+  - 7月17日：神奈川・[神奈川県民ホール](https://ja.wikipedia.org/wiki/神奈川県民ホール "wikilink") 大ホール</s>
   - 9月11日：福岡・福岡サンパレス
   - 10月18日：大阪・大阪国際会議場 グランキューブ大阪 メインホール
   - 11月04日：兵庫・神戸国際会館 こくさいホール
@@ -524,7 +524,7 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜\[30\]
 
 <div class="NavContent" style="text-align: left;">
 
-*新型ウイルスによる政府の自粛要請に従い5月末まで中止*
+*新型ウイルスによる政府の自粛要請に従い中止*
 
   - <s>3月28日：宮崎・宮崎WEATHER KING
   - 3月29日：鹿児島・鹿児島CAPARVO HALL
@@ -535,13 +535,13 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜\[30\]
   - 5月19日：滋賀・[滋賀U★STONE](https://ja.wikipedia.org/wiki/U★STONE "wikilink")
   - 5月20日：和歌山・和歌山 CLUB GATE
   - 5月30日：秋田・[秋田Club SWINDLE](https://ja.wikipedia.org/wiki/秋田Club_SWINDLE "wikilink")
-  - 5月31日：山形・[山形ミュージック昭和Session](https://ja.wikipedia.org/wiki/山形ミュージック昭和Session "wikilink")</s>
+  - 5月31日：山形・[山形ミュージック昭和Session](https://ja.wikipedia.org/wiki/山形ミュージック昭和Session "wikilink")
   - 6月13日：鳥取・米子laughs
   - 6月14日：島根・松江canova
   - 6月20日：宮城・[Rensa](https://ja.wikipedia.org/wiki/Rensa "wikilink")
   - 6月28日：三重・四日市CLUB ROOTS
   - 7月11日：青森・青森Quarter
-  - 7月12日：岩手・盛岡CLUB CHANGE WAVE
+  - 7月12日：岩手・盛岡CLUB CHANGE WAVE</s>
 
 </div>
 

@@ -24,7 +24,7 @@
 
 ## 参加ミュージシャン
 
-  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - コーラス
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")） - コーラス
 
 ## 関連項目
 

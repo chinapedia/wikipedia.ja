@@ -7,7 +7,7 @@
 
 OHKは、これまで他の民放が17時台に自社制作の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の放送、または東京発のニュース・情報番組をネットしている中、長らく同時間帯をドラマ（一時期はアニメ）再放送に充てていた。しかし、2006年3月31日に廃枠となった[準キー局](../Page/準キー局.md "wikilink")の[関西テレビ制作の午後の情報番組枠の事実上の代替として](../Page/関西テレビ放送.md "wikilink")、同年4月3日にフジテレビから『スーパーニュース』17時台のネットを開始した。
 
-2013年4月現在、岡山・香川地区の[NHK及び民放](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")5局は、[RSKテレビがローカル情報番組](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")『[RSKイブニング5時](https://ja.wikipedia.org/wiki/RSKイブニング5時 "wikilink")』を、[テレビせとうち](../Page/テレビせとうち.md "wikilink")が全国ニュースのローカル枠において『[TSCnews5](https://ja.wikipedia.org/wiki/TSCnews5 "wikilink")』を放送している以外、東京発のニュース・情報番組をフルネットしている。[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")については、[テレビ朝日](../Page/テレビ朝日.md "wikilink")が制作する『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』17時台の開始前（16:45 - 16:53）にローカルニュースを放送している（2012年3月まで、17:36 - 17:54はローカルニュースに差し替えていた）。
+2013年4月現在、岡山・香川地区の[NHK及び民放](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")5局は、[RSKテレビ](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")がローカル情報番組『[RSKイブニング5時](https://ja.wikipedia.org/wiki/RSKイブニング5時 "wikilink")』を、[テレビせとうち](../Page/テレビせとうち.md "wikilink")が全国ニュースのローカル枠において『[TSCnews5](https://ja.wikipedia.org/wiki/TSCnews5 "wikilink")』を放送している以外、東京発のニュース・情報番組をフルネットしている。[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")については、[テレビ朝日](../Page/テレビ朝日.md "wikilink")が制作する『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』17時台の開始前（16:45 - 16:53）にローカルニュースを放送している（2012年3月まで、17:36 - 17:54はローカルニュースに差し替えていた）。
 
 [2015年](../Page/2015年.md "wikilink")春の番組改編によって新たなニュース番組『[みんなのニュース](https://ja.wikipedia.org/wiki/OHKみんなのニュース "wikilink")』（フジテレビにおいても[同タイトル](https://ja.wikipedia.org/wiki/みんなのニュース "wikilink")）が放送開始されるのに伴い、17年にわたり放送されてきた当番組は[3月29日](../Page/3月29日.md "wikilink")の週末版の放送をもって終了した。
 

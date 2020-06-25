@@ -19,7 +19,7 @@
 
   - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")（テレビ朝日系列）
   - [スーパーモーニング](../Page/スーパーモーニング.md "wikilink")（テレビ朝日系列）
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")（テレビ朝日系列）
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")（テレビ朝日系列）
   - [報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")（テレビ朝日系列）
   - [サンデーフロントライン](https://ja.wikipedia.org/wiki/サンデーフロントライン "wikilink")（テレビ朝日系列）
   - [News Access](../Page/News_Access.md "wikilink")（[BS朝日](../Page/ビーエス朝日.md "wikilink")）

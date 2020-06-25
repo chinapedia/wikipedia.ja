@@ -5,7 +5,7 @@
 
   - [トリニトロトルエン](../Page/トリニトロトルエン.md "wikilink") (**t**ri**n**itro**t**oluene) - 化学物質。爆薬。
   - TNTアーキテクチャ (**) - 米エヌビディア ([nVIDIA](https://ja.wikipedia.org/wiki/nVIDIA "wikilink")) 社の画像処理アーキテクチャ。または、その製品 (Riva TNT/Riva TNT2) 。
-  - トンネル [ナノチューブ](https://ja.wikipedia.org/wiki/ナノチューブ "wikilink") (Tunneling nanotubule) - 広義の[細胞小器官](../Page/細胞小器官.md "wikilink")の名称。
+  - [トンネルナノチューブ](https://ja.wikipedia.org/wiki/トンネルナノチューブ "wikilink") (Tunneling nanotubule) - 広義の[細胞小器官](../Page/細胞小器官.md "wikilink")の名称。
   - The [Template Numerical Toolkitのこと](https://ja.wikipedia.org/wiki/Template_Numerical_Toolkit "wikilink")。
   - [プエルトリコ](../Page/プエルトリコ.md "wikilink")出身の[プロレスラー](../Page/プロレスラー.md "wikilink")、[サビオ・ベガ](https://ja.wikipedia.org/wiki/サビオ・ベガ "wikilink")の旧リングネーム。
   - ブラジルの飲料メーカー、セルベジャリア・ペトロポリスが販売する[エナジードリンク](https://ja.wikipedia.org/wiki/エナジードリンク "wikilink")。

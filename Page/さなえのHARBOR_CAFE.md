@@ -51,4 +51,4 @@
   - [パーソナリティ・田中さなえのＯＡ日記♪](http://cafe-s.seesaa.net/)
   - [『ハーバーカフェ』専属ピアニスト・天宮遥のブログ](https://ameblo.jp/haruca-i/)
 
-[Category:ラジオ関西の帯番組](https://ja.wikipedia.org/wiki/Category:ラジオ関西の帯番組 "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:ラジオ関西の帯番組](https://ja.wikipedia.org/wiki/Category:ラジオ関西の帯番組 "wikilink") [Category:ローカルラジオ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

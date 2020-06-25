@@ -7,7 +7,7 @@
 
 シングルとしては前作「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」より、約1か月ぶりとなる。前作「vogue」と、次作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」とともに、「絶望3部作」と呼ばれたシングル3部作の2作目にあたるシングルで\[2\]、前作発売前となる発売3ヶ月前から本人出演[TU-KA](https://ja.wikipedia.org/wiki/TU-KA "wikilink")のCMで大量にオンエアされていた。
 
-初登場2位（1位は同日発売の[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")「[ハッピーサマーウェディング](../Page/ハッピーサマーウェディング.md "wikilink")」）、累計51.0万枚\[3\]。
+初登場2位（1位は同日発売の[モーニング娘。](../Page/モーニング娘。.md "wikilink")「[ハッピーサマーウェディング](../Page/ハッピーサマーウェディング.md "wikilink")」）、累計51.0万枚\[3\]。
 
 作曲は[菊池一仁](../Page/菊池一仁.md "wikilink")と[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")の共作であるが、本来は前年の浜崎の誕生日に2人が贈った楽曲であったという\[4\]。
 

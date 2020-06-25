@@ -529,7 +529,7 @@ FM青森</p></td>
 <td><p>2011</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北本隆雄" title="wikilink">北本隆雄</a>・ア・<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

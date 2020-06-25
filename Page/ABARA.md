@@ -1,7 +1,7 @@
 > この記事は[ABARA](https://ja.wikipedia.org/wiki/ABARA)から翻訳されています。
 
 
-『**ABARA**』（アバラ）は[弐瓶勉](../Page/弐瓶勉.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）[2005年](../Page/2005年.md "wikilink")6月号から[2006年](../Page/2006年.md "wikilink")4月号に掲載。
+『**ABARA**』（アバラ）は[弐瓶勉](../Page/弐瓶勉.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）[2005年](../Page/2005年.md "wikilink")6月号から[2006年](../Page/2006年.md "wikilink")4月号に掲載。
 
 単行本は上と下の全2巻。下の巻末には本作との関わりがある短編「DIGIMORTAL」が収録されている。
 

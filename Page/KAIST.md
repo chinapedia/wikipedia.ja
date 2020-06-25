@@ -1,19 +1,19 @@
 > この記事は[KAIST](https://ja.wikipedia.org/wiki/KAIST)から翻訳されています。
 
 
-[大田広域市](../Page/大田広域市.md "wikilink")の本部の他に分院もある。旧称は韓国科学技術院。[未来創造科学部](../Page/未来創造科学部.md "wikilink")（旧科学技術部）所管。
+[ロイター通信による](https://ja.wikipedia.org/wiki/トムソン・ロイター "wikilink")2015年度世界イノベーション大学ランキングでは、第10位（上位10校の中で唯一のアメリカ以外の大学。東京大学は24位）\[1\]。2016年度は、第6位。\[2\]。
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、当時の[朴正煕](../Page/朴正煕.md "wikilink")[大統領](https://ja.wikipedia.org/wiki/韓国大統領 "wikilink")\[1\]が高度科学技術人材を輩出する体系的な理工系大学院を国内に設立する必要性や海外への頭脳流出の抑制等を目的に、国内初の研究中心の理工系大学院として発足させたのが始まりである。韓国科学技術院法に基づき設置された法人であり、その設立目的は同法第1条に次のように規定されている\[2\]。
+[QS世界大学ランキングによって](https://ja.wikipedia.org/wiki/世界大学ランキング#QS世界大学ランキング "wikilink")、アジアの大学において2位（1位はシンガポール国立大。日本で最上位は10位の東京大学）と2014年に評価されている\[3\]。
+
+グローバル急進政策の代表校として、全ての講義が英語で行われている\[4\]（TOEFL80点以上が入学条件）。
+
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、当時の[朴正煕](../Page/朴正煕.md "wikilink")[大統領](https://ja.wikipedia.org/wiki/韓国大統領 "wikilink")\[5\]が高度科学技術人材を輩出する体系的な理工系大学院を国内に設立する必要性や海外への頭脳流出の抑制等を目的に、国内初の研究中心の理工系大学院として発足させたのが始まりである。韓国科学技術院法に基づき設置された法人であり、その設立目的は同法第1条に次のように規定されている\[6\]。
 
   - 深い理論と実際的な応用力とで国の産業の発展に寄与する高度科学技術人材の養成
   - 国の政策で推進する中長期的な研究開発と国の科学技術力の涵養のための基礎・応用研究の実施
   - 各分野の研究機関及び産業界と連携した研究の支援
-
-グローバル急進政策の代表校として、全ての講義が英語で行われている\[3\]。
-
-[ロイター通信による](https://ja.wikipedia.org/wiki/トムソン・ロイター "wikilink")2015年度世界イノベーション大学ランキングでは、第10位（上位10校の中で唯一のアメリカ以外の大学。東京大学は24位）\[4\]。2016年度は、第6位。\[5\]。
-
-[QS世界大学ランキングによって](https://ja.wikipedia.org/wiki/世界大学ランキング#QS世界大学ランキング "wikilink")、アジアの大学において2位（1位はシンガポール国立大。日本で最上位は10位の東京大学）と2014年に評価されている\[6\]。
+  -
+[大田広域市](../Page/大田広域市.md "wikilink")の本部の他に分院もある。旧称は韓国科学技術院。[未来創造科学部](../Page/未来創造科学部.md "wikilink")（旧科学技術部）所管。
 
 ## 歴史
 
@@ -83,12 +83,12 @@
 
 [Category:KAIST](https://ja.wikipedia.org/wiki/Category:KAIST "wikilink") [Category:韓国の国立大学](https://ja.wikipedia.org/wiki/Category:韓国の国立大学 "wikilink") [Category:韓国の科学技術](https://ja.wikipedia.org/wiki/Category:韓国の科学技術 "wikilink") [Category:学校記事](https://ja.wikipedia.org/wiki/Category:学校記事 "wikilink")
 
-1.  Park, Geunhong (21 April 2011). "The Advance of a Korean Institute: A Brief History of KAIST". herald.kaist.ac.kr. KAIST Herald.
-2.  \[<http://www.kaist.ac.kr/html/kr/kaist/kaist_010201.html>　KAISTウェブサイト\]
-3.  \[Piller, I. and Cho, J., “Neoliberalism as Language Policy,” Language and Society, vol. 42, 2013\]
-4.  \[<http://www.reuters.com/article/idUSL1N11K16Q20150915>　The World's Most Innovative Universities 2015 \]
-5.  [The World's Most Innovative Universities 2016](http://www.reuters.com/article/amers-reuters-ranking-innovative-univers-idUSL2N1C406D)
-6.  \[<http://www.topuniversities.com/universities/kaist-korea-advanced-institute-science-technology/undergrad>　QS University Rankings: Asia 2014 \]
+1.  [The World's Most Innovative Universities 2015](http://www.reuters.com/article/idUSL1N11K16Q20150915)
+2.  [The World's Most Innovative Universities 2016](http://www.reuters.com/article/amers-reuters-ranking-innovative-univers-idUSL2N1C406D)
+3.  [QS University Rankings: Asia 2014](http://www.topuniversities.com/universities/kaist-korea-advanced-institute-science-technology/undergrad)
+4.  \[Piller, I. and Cho, J., “Neoliberalism as Language Policy,” Language and Society, vol. 42, 2013\]
+5.  Park, Geunhong (21 April 2011). "The Advance of a Korean Institute: A Brief History of KAIST". herald.kaist.ac.kr. KAIST Herald.
+6.  [KAISTウェブサイト](http://www.kaist.ac.kr/html/kr/kaist/kaist_010201.html)
 7.  Energy（エネルギー）、Environment（環境）、Water（水）、Sustainability（持続可能性）を指す
 8.  チョ・チョンシクは人名。KAISTに寄付した人物で、この寄付金で同大学院が設立された
 9.  [100億ウォン台不動産をKAISTに寄付、Joongang Ilbo、2010年06月18日13時50分、中央日報日本語版](http://japanese.joins.com/article/272/130272.html) 、2016年11月25日閲覧。

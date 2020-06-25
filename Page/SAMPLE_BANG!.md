@@ -1,7 +1,7 @@
 > この記事は[SAMPLE BANG!](https://ja.wikipedia.org/wiki/SAMPLE_BANG!)から翻訳されています。
 
 
-『**SAMPLE BANG\!**』（サンプル バン\!）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の16枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売。
+『**SAMPLE BANG\!**』（サンプル バン\!）は、[SMAP](../Page/SMAP.md "wikilink")の16枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売。
 
 ## 解説
 

@@ -101,10 +101,12 @@
 <!-- end list -->
 
   - [Alphonte（筒井香織）](http://www.alphonte.com/)
-  - [ひとくちピアノ（川越好博）](http://goegoe.jugem.jp/)
-  - [テイセナのArtlessな日々](http://teisena.blog94.fc2.com/)
-  - [FLAT122](http://music.geocities.jp/thewaves2005/)
 
+  - [ひとくちピアノ（川越好博）](http://goegoe.jugem.jp/)
+
+  - [テイセナのArtlessな日々](http://teisena.blog94.fc2.com/)
+
+  -
 <!-- end list -->
 
   - [Poseidon - 海外プログレライブ報告](http://poseidon.air-nifty.com/show/)

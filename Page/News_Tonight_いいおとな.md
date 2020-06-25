@@ -19,7 +19,7 @@
 
 ラジオ大阪では、当番組の週1回放送化に伴って、2018年4月から2019年3月まで『[産経新聞ニュース](../Page/産経新聞ニュース.md "wikilink")』を単独番組として月 - 木曜日の21:55 - 22:00に編成していた。しかし、2019年の4月改編で、平日の早朝（7:55 - 8:00）以外の『産経新聞ニュース』枠を一斉に廃枠。平日の早朝枠も同年の10月改編から廃止（『[ハッピー・プラス](https://ja.wikipedia.org/wiki/ハッピー・プラス "wikilink")』8時台の「Today's Pick Up」に内包）されたため、レギュラー編成のニュース番組としては唯一の自社制作番組になっている。
 
-2020年4月3日放送分から、番組のタイトルを『**週末ワイド ラジオ産経**』に変更。2007年4月から『[ニュース・ハイブリッド](https://ja.wikipedia.org/wiki/ニュース・ハイブリッド "wikilink")』のスポンサーにも付いていた産経新聞大阪本社は、『[里見まさとのおおきに\!サタデー](https://ja.wikipedia.org/wiki/里見まさとのおおきに!サタデー "wikilink")』に内包されていた後継コーナー（ニュース・ハイブリッドゾーン）が前週（3月28日）で終了したことを機に、ラジオ大阪での番組提供を『ラジオ産経』に集約させている。ただし、放送曜日・時間を変更せず、「ナビゲーター」の松本や「アンカーマン」の安本も続投している。その一方で、改称後最初の放送では、21時の時報明けから30秒以上の無音状態と[ステーションジングルの再生が数回にわたって繰り返される不体裁](https://ja.wikipedia.org/wiki/ジングル "wikilink")（番組送出システムの不具合による[放送事故](../Page/放送事故.md "wikilink")）が、およそ4分間にわたって発生、番組タイトル部分は流れず開始となった。
+2020年4月3日放送分から、番組のタイトルを『**週末ワイド ラジオ産経**』に変更。2007年4月から『[ニュース・ハイブリッド](https://ja.wikipedia.org/wiki/ニュース・ハイブリッド "wikilink")』のスポンサーにも付いていた産経新聞大阪本社は、『[里見まさとのおおきに\!サタデー](https://ja.wikipedia.org/wiki/里見まさとのおおきに!サタデー "wikilink")』に内包されていた後継コーナー（ニュース・ハイブリッドゾーン）が前週（3月28日）で終了したことを機に、ラジオ大阪での番組提供を『ラジオ産経』に集約させている。ただし、放送曜日・時間を変更せず、「ナビゲーター」の松本や「アンカーマン」の安本も続投している。その一方で、改称後最初の放送では、21時の時報明けから30秒以上の無音状態と[ステーションジングルの再生が数回にわたって繰り返される不体裁](https://ja.wikipedia.org/wiki/ジングル "wikilink")（番組送出システムの不具合による[放送事故](../Page/放送事故.md "wikilink")）がおよそ4分間にわたって発生。番組タイトルが流れないまま、再スタートを切る羽目になった。
 
 ## 出演者
 
@@ -120,7 +120,7 @@
   - [週末ワイドラジオ産経](http://www.obc1314.co.jp/bangumi/san/)
   - [MSN産経ニュースサイト内、「NewsTonightいいおとな」の一部が聴けるエンタメコーナー](http://sankei.jp.msn.com/entertainments/media/media.htm)
 
-[Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:ラジオ大阪の帯番組](https://ja.wikipedia.org/wiki/Category:ラジオ大阪の帯番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:ローカルラジオ局の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の情報・ワイドショー番組 "wikilink") [Category:ラジオの教養番組](https://ja.wikipedia.org/wiki/Category:ラジオの教養番組 "wikilink") [Category:ローカルラジオ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組 "wikilink") [Category:産経新聞](https://ja.wikipedia.org/wiki/Category:産経新聞 "wikilink")
+[Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:ラジオ大阪の帯番組](https://ja.wikipedia.org/wiki/Category:ラジオ大阪の帯番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:ローカルラジオ局の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の情報・ワイドショー番組 "wikilink") [Category:ラジオの教養番組](https://ja.wikipedia.org/wiki/Category:ラジオの教養番組 "wikilink") [Category:ローカルラジオ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組 "wikilink") [Category:産経新聞社のニュース番組](https://ja.wikipedia.org/wiki/Category:産経新聞社のニュース番組 "wikilink")
 
 1.  [【番組リニューアルのおしらせ】『週末ワイド ラジオ産経』（金21:00～）](http://www.obc1314.co.jp/wordpress/?p=6349)（ラジオ大阪2020年3月23日付ニュースリリース）
 2.  担当期間中は、本来のレギュラー番組『[ほんまもん\!原田年晴です](../Page/ほんまもん!原田年晴です.md "wikilink")』（2011年3月まで水・木曜日のみ）を休演したため、同番組では[安井ゆたか](https://ja.wikipedia.org/wiki/安井ゆたか "wikilink")が代役を務めた。

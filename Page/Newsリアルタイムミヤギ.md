@@ -46,7 +46,7 @@
 
 <!-- end list -->
 
-  - [竹鼻純](https://ja.wikipedia.org/wiki/竹鼻純 "wikilink")（当時ミヤギテレビアナウンサー、2008年4月 - 引き続き『ミヤギnews every.』を担当）
+  - [竹鼻純](../Page/竹鼻純.md "wikilink")（当時ミヤギテレビアナウンサー、2008年4月 - 引き続き『ミヤギnews every.』を担当）
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
   - [三雲茂晴](../Page/三雲茂晴.md "wikilink")（ミヤギテレビアナウンサー、2006年4月 - 引き続き『ミヤギnews every.』を担当）
   - [吾妻秀謙](https://ja.wikipedia.org/wiki/吾妻秀謙 "wikilink")（ミヤギテレビアナウンサー、2006年4月 - 引き続き『ミヤギnews every.』を担当）
-  - [外賀幸一](https://ja.wikipedia.org/wiki/外賀幸一 "wikilink")（ミヤギテレビアナウンサー、2006年4月 - 引き続き『ミヤギnews every.』を担当）
+  - [外賀幸一](../Page/外賀幸一.md "wikilink")（ミヤギテレビアナウンサー、2006年4月 - 引き続き『ミヤギnews every.』を担当）
 
 ### 過去
 

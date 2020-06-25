@@ -58,4 +58,4 @@
 </tbody>
 </table>
 
-[Category:倉木麻衣の楽曲](https://ja.wikipedia.org/wiki/Category:倉木麻衣の楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:名探偵コナン映画作品のアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナン映画作品のアニメソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:倉木麻衣の楽曲](https://ja.wikipedia.org/wiki/Category:倉木麻衣の楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:名探偵コナンのアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナンのアニメソング "wikilink") [Category:名探偵コナン映画作品のアニメソング](https://ja.wikipedia.org/wiki/Category:名探偵コナン映画作品のアニメソング "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:大野愛果が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大野愛果が制作した楽曲 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

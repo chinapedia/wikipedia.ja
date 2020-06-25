@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の夏に[広島修道大学](../Page/広島修道大学.md "wikilink")フォークソング部で知り合い結成した。[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")デビューする。[SNAIL RAMPのTAKEMURAの目に止まった事により](../Page/SNAIL_RAMP.md "wikilink")、彼の立ち上げたSCHOOL BUS RECORDSに所属する。[2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")に[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")内のgr8\!recordsからメジャーデビュー。後にソニーミュージックから離れ、K\&A CO,.LTD内にプライベートレーベル「Indigo Park」を立ち上げて、インディーズで活動していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にオフィシャルウェブサイトにて解散を発表、[2009年](../Page/2009年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")の[Shibuya O-WESTでのワンマンライブをもって解散した](../Page/Shibuya_O-WEST.md "wikilink")。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の夏に[広島修道大学](../Page/広島修道大学.md "wikilink")フォークソング部で知り合い結成した。[SNAIL RAMPのTAKEMURAの目に止まった事により](../Page/SNAIL_RAMP.md "wikilink")、彼の立ち上げたSCHOOL BUS RECORDSに所属する。[2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")デビュー。1stアルバム『青いカラス』はインディーズながら7万枚以上のセールスを記録した。[2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")に[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")内のgr8\!recordsからメジャーデビュー。後にソニーミュージックから離れ、K\&A CO,.LTD内にプライベートレーベル「Indigo Park」を立ち上げて、インディーズで活動していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")にオフィシャルウェブサイトにて解散を発表、[2009年](../Page/2009年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")の[Shibuya O-WESTでのワンマンライブをもって解散した](../Page/Shibuya_O-WEST.md "wikilink")。
 
 ## メンバー
 

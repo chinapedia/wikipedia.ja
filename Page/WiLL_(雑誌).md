@@ -84,6 +84,7 @@
 
 ## 関連項目
 
+  - [ネット右翼](https://ja.wikipedia.org/wiki/ネット右翼 "wikilink")
   - [Hanada](https://ja.wikipedia.org/wiki/Hanada "wikilink")
   - [諸君\!](../Page/諸君!.md "wikilink")
   - [正論 (雑誌)](../Page/正論_\(雑誌\).md "wikilink")

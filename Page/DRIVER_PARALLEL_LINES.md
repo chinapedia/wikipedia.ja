@@ -166,7 +166,7 @@
   - [ドライバー:レネゲイド3D](https://ja.wikipedia.org/wiki/ドライバー:レネゲイド3D "wikilink")
   - [ドライバー:サンフランシスコ](https://ja.wikipedia.org/wiki/ドライバー:サンフランシスコ "wikilink")
 
-[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ユービーアイソフト](https://ja.wikipedia.org/wiki/Category:ユービーアイソフト "wikilink") [Category:アタリのゲームソフト](https://ja.wikipedia.org/wiki/Category:アタリのゲームソフト "wikilink") [Category:ニューヨーク市を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台としたコンピュータゲーム "wikilink") [Category:復讐を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:復讐を題材としたコンピュータゲーム "wikilink")
+[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ユービーアイソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:ユービーアイソフトのゲームソフト "wikilink") [Category:アタリのゲームソフト](https://ja.wikipedia.org/wiki/Category:アタリのゲームソフト "wikilink") [Category:ニューヨーク市を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台としたコンピュータゲーム "wikilink") [Category:復讐を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:復讐を題材としたコンピュータゲーム "wikilink")
 
 1.
 2.

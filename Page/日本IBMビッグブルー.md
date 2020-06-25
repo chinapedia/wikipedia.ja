@@ -368,7 +368,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤風馬" title="wikilink">加藤風馬</a></p></td>
+<td><p><a href="../Page/加藤風馬.md" title="wikilink">加藤風馬</a></p></td>
 <td><p><a href="../Page/ワイカト大学.md" title="wikilink">ワイカト大</a></p></td>
 <td></td>
 <td></td>

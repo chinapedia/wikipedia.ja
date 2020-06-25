@@ -41,9 +41,9 @@
   - [有川裕也](https://ja.wikipedia.org/wiki/有川裕也 "wikilink")
   - [伊尾槙紀](https://ja.wikipedia.org/wiki/伊尾槙紀 "wikilink")
   - [伊藤拓海](https://ja.wikipedia.org/wiki/伊藤拓海 "wikilink")
+  - [加藤京一郎](https://ja.wikipedia.org/wiki/加藤京一郎 "wikilink")
   - [日下文人](https://ja.wikipedia.org/wiki/日下文人 "wikilink")
   - [小鍛冶樹](https://ja.wikipedia.org/wiki/小鍛冶樹 "wikilink")
-  - [小林慶佑](https://ja.wikipedia.org/wiki/小林慶佑 "wikilink")
   - [佐藤洋亮](https://ja.wikipedia.org/wiki/佐藤洋亮 "wikilink")
   - [菅拓人](https://ja.wikipedia.org/wiki/菅拓人 "wikilink")
   - [図師廣紀](https://ja.wikipedia.org/wiki/図師廣紀 "wikilink")
@@ -55,10 +55,13 @@
 
 ### 女性
 
-  - [藍羽海帆](https://ja.wikipedia.org/wiki/藍羽海帆 "wikilink")
   - [阿部穂乃香](https://ja.wikipedia.org/wiki/阿部穂乃香 "wikilink")
+  - [岩田晶紀](https://ja.wikipedia.org/wiki/岩田晶紀 "wikilink")
   - [大城幸子](https://ja.wikipedia.org/wiki/大城幸子 "wikilink")
+  - [片岡智実](https://ja.wikipedia.org/wiki/片岡智実 "wikilink")
+  - [川崎夢実](https://ja.wikipedia.org/wiki/川崎夢実 "wikilink")
   - [川村みのり](https://ja.wikipedia.org/wiki/川村みのり "wikilink")
+  - [岸本杏奈](https://ja.wikipedia.org/wiki/岸本杏奈 "wikilink")
   - [小磯里奈](https://ja.wikipedia.org/wiki/小磯里奈 "wikilink")
   - [さとうかな](https://ja.wikipedia.org/wiki/さとうかな "wikilink")
   - [清水彩加](https://ja.wikipedia.org/wiki/清水彩加 "wikilink")
@@ -70,10 +73,13 @@
   - [二宮梨乃](https://ja.wikipedia.org/wiki/二宮梨乃 "wikilink")
   - [東奈津実](https://ja.wikipedia.org/wiki/東奈津実 "wikilink")
   - [松元千壽恵](https://ja.wikipedia.org/wiki/松元千壽恵 "wikilink")
+  - [森優佳理](https://ja.wikipedia.org/wiki/森優佳理 "wikilink")
   - [八木橋敏慧](https://ja.wikipedia.org/wiki/八木橋敏慧 "wikilink")
+  - [安井渚紗](https://ja.wikipedia.org/wiki/安井渚紗 "wikilink")
   - [宮田怜奈](https://ja.wikipedia.org/wiki/宮田怜奈 "wikilink")
   - [山内詩織](https://ja.wikipedia.org/wiki/山内詩織 "wikilink")
   - [山本佳奈](https://ja.wikipedia.org/wiki/山本佳奈 "wikilink")
+  - [吉田優希](https://ja.wikipedia.org/wiki/吉田優希 "wikilink")
 
 ## 所属クリエイター
 

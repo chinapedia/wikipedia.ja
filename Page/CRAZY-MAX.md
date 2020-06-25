@@ -22,7 +22,7 @@
 
 ## 歴史
 
-[1996年](../Page/1996年.md "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")上陸後、意見が合わなくなっていた同じ[闘龍門](../Page/闘龍門.md "wikilink")1期生の[マグナムTOKYO](https://ja.wikipedia.org/wiki/マグナムTOKYO "wikilink")を除いた[シーマ・ノブナガ](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")（現：CIMA）、[ジュードー・スワ](../Page/SUWA.md "wikilink")（現：SUWA）、[スモー・フジ](../Page/ドン・フジイ.md "wikilink")（現：ドン・フジイ）の3人で結成。当初のユニット名は、それぞれの性格を象徴したイメージで「**○×△（トライアングル**（まるぺけさんかくトライアングル）」に決定していたがSUWAの「**キ○ガイ野郎どもの集まり**」というニュアンスで「**CRAZY-MAX**（クレイジー-マックス）」を提案して落ち着いた。後に[多留嘉一](../Page/TARU.md "wikilink")（現：TARU）が合流（このとき一時「C-MAX with T」を名乗る。元ネタは歌手の「H jungle with T」より。なおフジイは知らなかった）その後、メンバーを度々加入させるも根付かず結局この4人のまま最後まで活動。あの独特のロゴマークは「悪の華」を意味していた。
+[1996年](../Page/1996年.md "wikilink")、[メキシコ](../Page/メキシコ.md "wikilink")上陸後、意見が合わなくなっていた同じ[闘龍門](../Page/闘龍門.md "wikilink")1期生の[マグナムTOKYO](https://ja.wikipedia.org/wiki/マグナムTOKYO "wikilink")を除いた[シーマ・ノブナガ](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")（現：CIMA）、[ジュードー・スワ](../Page/SUWA.md "wikilink")（現：SUWA）、[スモー・フジ](../Page/ドン・フジイ.md "wikilink")（現：ドン・フジイ）の3人で結成。当初のユニット名は、それぞれの性格を象徴したイメージで「**○×△トライアングル**（まるぺけさんかくトライアングル）」に決定していたがSUWAの「**キ○ガイ野郎どもの集まり**」というニュアンスで「**CRAZY-MAX**（クレイジー-マックス）」を提案して落ち着いた。後に[多留嘉一](../Page/TARU.md "wikilink")（現：TARU）が合流（このとき一時「C-MAX with T」を名乗る。元ネタは歌手の「H jungle with T」より。なおフジイは知らなかった）その後、メンバーを度々加入させるも根付かず結局この4人のまま最後まで活動。あの独特のロゴマークは「悪の華」を意味していた。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[SASUKEにカレー粉で買収されて](../Page/ザ・グレート・サスケ.md "wikilink")[ヒールユニット](../Page/ヒール_\(プロレス\).md "wikilink")「[SASUKE組](https://ja.wikipedia.org/wiki/SASUKE組 "wikilink")」に加入して、[みちのくプロレス](../Page/みちのくプロレス.md "wikilink")に参戦。
 

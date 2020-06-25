@@ -353,7 +353,7 @@ NBAのドラフト抽選(ロッタリー)は、前シーズンにプレーオフ
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デイビッドソン大学" title="wikilink">デイビッドソン大学</a></p></td>
+<td><p><a href="../Page/デイビッドソン大学.md" title="wikilink">デイビッドソン大学</a></p></td>
 <td></td>
 <td></td>
 </tr>

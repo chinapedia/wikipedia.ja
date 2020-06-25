@@ -22,11 +22,11 @@ ACEのソロアルバム（エース清水名義）『[TIME AXIS](../Page/TIME_A
 
 ### サポートメンバー
 
-  - [Yanz](https://ja.wikipedia.org/wiki/Yanz "wikilink")（ヤンズ）
+  - Yanz（ヤンズ）
     [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。元[DOVEのメンバー](https://ja.wikipedia.org/wiki/DOVE_\(バンド\) "wikilink")。
-  - [嶋田修](https://ja.wikipedia.org/wiki/嶋田修 "wikilink")（しまだ おさむ）
+  - 嶋田修（しまだ おさむ）
     ギター担当。[Swinging Popsicleのメンバー](../Page/Swinging_Popsicle.md "wikilink")。
-  - [西川貴博](https://ja.wikipedia.org/wiki/西川貴博 "wikilink")（にしかわ たかひろ）
+  - 西川貴博（にしかわ たかひろ）
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")の夫としても知られる。
 
 ## 作品

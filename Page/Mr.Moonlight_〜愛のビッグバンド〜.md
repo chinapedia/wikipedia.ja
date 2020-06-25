@@ -1,7 +1,7 @@
 > この記事は[Mr.Moonlight 〜愛のビッグバンド〜](https://ja.wikipedia.org/wiki/Mr.Moonlight_〜愛のビッグバンド〜)から翻訳されています。
 
 
-「**Mr.Moonlight 〜愛のビッグバンド〜**」（ミスター・ムーンライト〜あいのビッグバンド〜）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Mr.Moonlight 〜愛のビッグバンド〜**」（ミスター・ムーンライト〜あいのビッグバンド〜）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

@@ -50,7 +50,7 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a>◎</li>
+<li><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a>◎</li>
 <li><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></li>
 <li><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></li>
 <li><a href="../Page/IBC岩手放送.md" title="wikilink">岩手放送</a>○</li>

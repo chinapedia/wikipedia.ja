@@ -1,7 +1,7 @@
 > この記事は[SMAP 002](https://ja.wikipedia.org/wiki/SMAP_002)から翻訳されています。
 
 
-『**SMAP 002**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1992年](../Page/1992年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**SMAP 002**』は、[SMAP](../Page/SMAP.md "wikilink")の2枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1992年](../Page/1992年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 

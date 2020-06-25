@@ -42,7 +42,7 @@
     [PlayStation Vita用に](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")[日本ファルコム](../Page/日本ファルコム.md "wikilink")が開発したリメイク作品\[20\]。[2012年](../Page/2012年.md "wikilink")（平成24年）9月27日発売\[21\]。
     初めてファルコムが自社開発する作品であり、ファルコムは本作をリメイクではなく完全新作として扱っている\[22\]。
   - [イース セルセタの樹海：改](https://ja.wikipedia.org/wiki/イース_セルセタの樹海：改 "wikilink")
-    [PlayStation 4用に日本ファルコムが開発](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。Vitaで発売された『セルセタの樹海』をフルHDでリマスターした作品。2019年5月16日発売予定。
+    [PlayStation 4用に日本ファルコムが開発](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。Vitaで発売された『セルセタの樹海』をフルHDでリマスターした作品。2019年5月16日発売。
 
 ## 共通する登場人物
 

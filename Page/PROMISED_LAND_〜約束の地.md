@@ -47,6 +47,7 @@
 7.  **DJお願い\!** (HELP ME,DJ)
       - [RCCの](../Page/中国放送.md "wikilink")「[ミュージック・スクランブル](https://ja.wikipedia.org/wiki/ミュージック・スクランブル "wikilink")」というラジオ音楽番組のメインテーマ曲が元歌。この番組のDJだった[一松真佐子](https://ja.wikipedia.org/wiki/一松真佐子 "wikilink")アナをイメージしている。
 8.  **バックシート・ラブ** (BACKSEAT LOVE)
+      - メロディが[ザ・クリスタルズの](https://ja.wikipedia.org/wiki/クリスタルズ_\(アメリカ合衆国のグループ\) "wikilink")「Da Doo Ron Ron」と全く同一だがこれに関してのコメントは未だない。
 9.  **さよならスウィート・ホーム** (GOODBYE SWEET HOME)
       - 7〜9の3曲はひとつのストーリーとして繋がっている。[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")の[カップル](../Page/カップル.md "wikilink")が付き合い始めて、やがて[結婚](../Page/結婚.md "wikilink")するも擦れ違い別れていく様子を描いている。
 10. **[凱旋門](https://ja.wikipedia.org/wiki/凱旋門_\(曲\) "wikilink")** (TRIUPPHAL ARCH)

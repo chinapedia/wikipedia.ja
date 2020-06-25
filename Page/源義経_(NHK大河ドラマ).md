@@ -189,7 +189,7 @@
 
 ## 放送
 
-特記が無い限り\[<http://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
+特記が無い限り\[<https://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
 
 ### 通常放送時間
 
@@ -281,7 +281,7 @@
   - [NHKドラマ 大河ドラマ「源義経」](https://www6.nhk.or.jp/drama/pastprog/detail.html?i=taiga04)
   - [NHK名作選（動画他） 大河ドラマ 源義経](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010028_00000) - NHKアーカイブス
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1966年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1966年のテレビドラマ "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:源義経を題材とした作品](https://ja.wikipedia.org/wiki/Category:源義経を題材とした作品 "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:村上元三](https://ja.wikipedia.org/wiki/Category:村上元三 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1966年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1966年のテレビドラマ "wikilink") [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:源義経を題材とした作品](https://ja.wikipedia.org/wiki/Category:源義経を題材とした作品 "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:村上元三](https://ja.wikipedia.org/wiki/Category:村上元三 "wikilink")
 
 1.  この点は[2011年](../Page/2011年.md "wikilink")の『[江〜姫たちの戦国〜](https://ja.wikipedia.org/wiki/江〜姫たちの戦国〜 "wikilink")』と類似するが、そちらの脚本は既存の歴史小説を脚色したものではなく事実上の書き下ろし作品であるため、本作とは事情が全く異なる。
 2.

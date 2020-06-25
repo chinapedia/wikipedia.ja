@@ -34,7 +34,6 @@
   - [2004年](../Page/2004年.md "wikilink")（平成16年）[6月](../Page/6月.md "wikilink") - 臨床研修指定病院（新制度）となる
   - [2005年](../Page/2005年.md "wikilink")（平成17年）[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 救急告示病院の指定
   - [2014年](../Page/2014年.md "wikilink")（平成26年）[7月22日](../Page/7月22日.md "wikilink") - 医療費や人間ドック受診料の支払いに[Suica](../Page/Suica.md "wikilink")が利用可能になる。\[6\]
-  - [2017年](../Page/2017年.md "wikilink")（平成29年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 病院長、歯科口腔外科・形成外科部長に東京大学医学系研究科口腔顎顔面外科学名誉教授高戸毅が就任
 
 ## 診療科
 

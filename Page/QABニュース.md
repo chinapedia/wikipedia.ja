@@ -20,7 +20,7 @@
   - [お昼のN天ワイド](../Page/お昼のN天ワイド.md "wikilink") - 開局時に放送されていた昼のニュース。
   - [ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink") - 開局時に放送されていた夕方のニュース。
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ステーションQ](../Page/ステーションQ.md "wikilink")
   - [Qプラス](https://ja.wikipedia.org/wiki/Qプラス "wikilink")
 

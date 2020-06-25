@@ -326,7 +326,7 @@ with NEW BLUE DAY HORNS</strong></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/TAICHI_MASTER.md" title="wikilink">TAICHI MASTER</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ハヤシヒロユキ" title="wikilink">ハヤシヒロユキ</a>(POLYSICS)</li>
+<li><a href="../Page/ハヤシヒロユキ.md" title="wikilink">ハヤシヒロユキ</a>(POLYSICS)</li>
 <li>TEAM 紅卍(松尾スズキ・河井克夫)</li>
 </ul></td>
 </tr>
@@ -1134,7 +1134,7 @@ RESIDENT DJ's
 <li><a href="https://ja.wikipedia.org/wiki/HY_(バンド)" title="wikilink">HY</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/ハヤシヒロユキ" title="wikilink">ハヤシヒロユキ</a>（<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>）</li>
+<li><a href="../Page/ハヤシヒロユキ.md" title="wikilink">ハヤシヒロユキ</a>（<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>）</li>
 <li><a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a>BAND</li>
 <li><a href="../Page/ダイノジ.md" title="wikilink">ダイノジ</a></li>
 </ul></td>
@@ -4001,7 +4001,7 @@ SPECIAL FORMATION SET</li>
 <li>フジファブリック</li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/SIRUP" title="wikilink">SIRUP</a></li>
+<li><a href="../Page/SIRUP.md" title="wikilink">SIRUP</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a></li>
 <li>Survive Said The Prophet</li>
 <li>Hump Back</li>

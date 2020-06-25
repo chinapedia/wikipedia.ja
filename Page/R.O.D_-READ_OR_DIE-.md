@@ -5,7 +5,7 @@
 
 ## 概要
 
-原作は[倉田英之](../Page/倉田英之.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")作品『[R.O.D READ OR DIE YOMIKO READMAN "THE PAPER"](https://ja.wikipedia.org/wiki/R.O.D_READ_OR_DIE_YOMIKO_READMAN_"THE_PAPER" "wikilink")』（[スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")）である。ただし、当作製作中は原作の出版が間に合っていなかったため、先行作品として[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")（[集英社](../Page/集英社.md "wikilink")）に連載され、同様のレーベルで既に単行本化されていた[コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")漫画版を原作として挙げている。
+原作は[倉田英之](../Page/倉田英之.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")作品『[R.O.D READ OR DIE YOMIKO READMAN "THE PAPER"](https://ja.wikipedia.org/wiki/R.O.D_READ_OR_DIE_YOMIKO_READMAN_"THE_PAPER" "wikilink")』（[スーパーダッシュ文庫](../Page/スーパーダッシュ文庫.md "wikilink")）である。ただし、当作製作中は原作の出版が間に合っていなかったため、先行作品として[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）に連載され、同様のレーベルで既に単行本化されていた[コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")漫画版を原作として挙げている。
 
 なお、原作の重要人物である「菫川ねねね」は名前だけ登場し、本編には出演していない。続編として2003年にテレビアニメ『[R.O.D -THE TV-](../Page/R.O.D_-THE_TV-.md "wikilink")』が制作され、本作から5年後の物語が描かれている。
 

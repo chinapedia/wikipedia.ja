@@ -67,7 +67,7 @@
 
 <references />
 
-[Category:JFNCの番組](https://ja.wikipedia.org/wiki/Category:JFNCの番組 "wikilink") [Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:JFN系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組 "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組の歴史 "wikilink")
+[Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:JFN系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組の歴史 "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink")
 
 1.  少なくとも[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")ごろまでは年度末の3月に放送された。このため、総集編の対象も4月から翌年2月までのものだった
 2.

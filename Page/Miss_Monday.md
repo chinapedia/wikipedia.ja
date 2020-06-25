@@ -1,7 +1,7 @@
 > この記事は[Miss Monday](https://ja.wikipedia.org/wiki/Miss_Monday)から翻訳されています。
 
 
-**Miss Monday**（ミスマンデイ、[1976年](../Page/1976年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")-)は、日本で活動していた元・女性[ラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")に所属していた。
+**Miss Monday**（ミス・マンデイ、[1976年](../Page/1976年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - ）は、日本で活動していた元・女性[ラッパー](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")に所属していた。
 
 ## 来歴
 

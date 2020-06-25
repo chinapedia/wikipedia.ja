@@ -148,7 +148,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[Animelo Summer Liveにて](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")[milktub](https://ja.wikipedia.org/wiki/milktub "wikilink")と[サイキックラバー](../Page/サイキックラバー.md "wikilink")によってコラボされた。「GET WILD SONG MAFIA」には未収録。
   - [2011年](../Page/2011年.md "wikilink")に発表された[クレモンティーヌ](https://ja.wikipedia.org/wiki/クレモンティーヌ "wikilink")の[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")カバーアルバム「続 アニメンティーヌ」に収録されている。日本語の歌詞の部分が仏語になっている。「GET WILD SONG MAFIA」Disc 4 \#9 に収録。
   - [2012年](../Page/2012年.md "wikilink")放送の[ラジオ大阪のラジオ番組](../Page/大阪放送.md "wikilink")[THE IDOLM@STER STATION\!\!\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!! "wikilink")（第149回）内のコーナー「歌姫楽園2012」内で[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")が歌唱した。楽曲は2013年発売のアルバム『THE IDOLM@STER STATION\!\!\! FAVORITE TALKS』に収録された。「GET WILD SONG MAFIA」には未収録。
-  - その他、テレビ番組にて、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")（[LOVE LOVE あいしてる](../Page/LOVE_LOVE_あいしてる.md "wikilink")\[8\]）、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")・[石川梨華](../Page/石川梨華.md "wikilink")（[歌ドキッ\! 〜ポップクラシックス〜](../Page/歌ドキッ!_〜ポップクラシックス〜.md "wikilink")）、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")（[SKE48のマジカル・ラジオ](https://ja.wikipedia.org/wiki/SKE48のマジカル・ラジオ "wikilink")）がカバーしている。また、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")）や[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")（[僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink")）などのアーティストとの[コラボレーション](../Page/コラボレーション.md "wikilink")も実現した。「GET WILD SONG MAFIA」には未収録。
+  - その他、テレビ番組にて、[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")（[LOVE LOVE あいしてる](../Page/LOVE_LOVE_あいしてる.md "wikilink")\[8\]）、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")・[石川梨華](../Page/石川梨華.md "wikilink")（[歌ドキッ\! 〜ポップクラシックス〜](../Page/歌ドキッ!_〜ポップクラシックス〜.md "wikilink")）、[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")（[SKE48のマジカル・ラジオ](https://ja.wikipedia.org/wiki/SKE48のマジカル・ラジオ "wikilink")）がカバーしている。また、[SMAP](../Page/SMAP.md "wikilink")（[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")）や[ゴールデンボンバー](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")（[僕らの音楽](../Page/僕らの音楽_Our_Music.md "wikilink")）などのアーティストとの[コラボレーション](../Page/コラボレーション.md "wikilink")も実現した。「GET WILD SONG MAFIA」には未収録。
   - [2018年](../Page/2018年.md "wikilink")に本家オリジナルである「TM NETWORK」メンバーであり[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")によるセルフカバー『GET WILD PANDEMIC』がリリースされた。\<\!--\>なお「GET WILD SONG MAFIA」は2017年作品であるため時系列上後になる2018年以降は当然ながら未収録。\<--\>
   - 2018年12月16日に[TRF](../Page/TRF.md "wikilink") x [access名義で二組のジョイントライブの際に披露されたものが配信された](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")
 
@@ -190,6 +190,6 @@
 3.
 4.
 5.  レコードレーベルがそれぞれ異なるため。
-6.  7インチアナログ盤のみジャケット裏面にアニメ「シティーハンター」のセル画が描かれている。
+6.  7インチアナログ盤のみジャケット裏面にアニメ「シティーハンター」の[セル画](../Page/セル画.md "wikilink")が描かれている。
 7.
 8.

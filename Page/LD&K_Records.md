@@ -146,7 +146,7 @@
   - [ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")([BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")、アーティストとしてではなく社員として勤めていた｡)
   - [ビンジョウバカネ](https://ja.wikipedia.org/wiki/ビンジョウバカネ "wikilink") (2005年)
   - [フレアオッズ](https://ja.wikipedia.org/wiki/フレアオッズ "wikilink") (2008年)
-  - [舞華](https://ja.wikipedia.org/wiki/舞華 "wikilink") (2014年)
+  - [舞華](../Page/舞華.md "wikilink") (2014年)
   - [まえだまえだ](../Page/まえだまえだ.md "wikilink") (2008年)
   - [牧伸二](../Page/牧伸二.md "wikilink") (1995年)
   - [マニ★ラバ](../Page/マニ★ラバ.md "wikilink") (2003年)2004年自主レーベル「青森レコード」設立。2007年解散。
@@ -968,7 +968,7 @@ living, dining and kitchen records (1995年 - )
 </tr>
 <tr class="even">
 <td><p>2014年10月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/舞華" title="wikilink">舞華</a>『Bitter Sweet ～J-POP Electro Cover～』</p></td>
+<td><p><a href="../Page/舞華.md" title="wikilink">舞華</a>『Bitter Sweet ～J-POP Electro Cover～』</p></td>
 <td><p>254-LDKCD</p></td>
 </tr>
 <tr class="odd">

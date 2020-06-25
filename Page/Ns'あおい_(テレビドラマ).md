@@ -101,6 +101,7 @@
 <th><p>各話</p></th>
 <th><p>放送日</p></th>
 <th><p>サブタイトル</p></th>
+<th><p>演出</p></th>
 <th><p>視聴率</p></th>
 </tr>
 </thead>
@@ -109,6 +110,7 @@
 <td><p>KARTE 1</p></td>
 <td><p>2006/1/10</p></td>
 <td><p>私は絶対諦めない</p></td>
+<td><p>土方政人</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -116,69 +118,88 @@
 <td><p>2006/1/17</p></td>
 <td><p>君の笑顔が病院を変える</p></td>
 <td><p>13.8%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>KARTE 3</p></td>
 <td><p>2006/1/24</p></td>
 <td><p>隠されていた秘密</p></td>
+<td><p>都築淳一</p></td>
 <td><p>14.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>KARTE 4</p></td>
 <td><p>2006/1/31</p></td>
 <td><p>心に残る傷と勇気</p></td>
+<td><p>土方政人</p></td>
 <td><p>15.5%</p></td>
 </tr>
 <tr class="odd">
 <td><p>KARTE 5</p></td>
 <td><p>2006/2/7</p></td>
 <td><p>研修医の医療ミス</p></td>
+<td><p>都築淳一</p></td>
 <td><p>14.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>KARTE 6</p></td>
 <td><p>2006/2/14</p></td>
 <td><p>命を救うヒーロー</p></td>
+<td><p>土方政人</p></td>
 <td><p>15.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>KARTE 7</p></td>
 <td><p>2006/2/21</p></td>
 <td><p>強がりナースの夢</p></td>
+<td><p>石川淳一</p></td>
 <td><p>14.8%</p></td>
 </tr>
 <tr class="even">
 <td><p>KARTE 8</p></td>
 <td><p>2006/2/28</p></td>
 <td><p>患者か娘か、命の選択</p></td>
+<td><p>都築淳一</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>KARTE 9</p></td>
 <td><p>2006/3/7</p></td>
 <td><p>リストラ看護助手の勇気</p></td>
+<td><p>土方政人</p></td>
 <td><p>13.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>KARTE 10</p></td>
 <td><p>2006/3/14</p></td>
 <td><p>桜・前編～2つの死</p></td>
+<td><p>石川淳一</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>KARTE 11</p></td>
 <td><p>2006/3/21</p></td>
 <td><p>桜・後編～君がいるからがんばれる</p></td>
+<td><p>土方政人</p></td>
 <td><p>13.1%</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>レギュラー放送平均視聴率14.2%（視聴率は関東地区･<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>調べ）</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>スペシャル</p></td>
 <td><p>2006/9/26</p></td>
 <td><p>桜川病院最悪の日</p></td>
+<td><p>土方政人</p></td>
 <td><p>13.5%</p></td>
 </tr>
-<tr class="odd">
-<td><p><strong>レギュラー放送平均視聴率14.2%（視聴率は関東地区･<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>調べ）</strong></p></td>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

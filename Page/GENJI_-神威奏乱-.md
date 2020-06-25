@@ -57,4 +57,4 @@
 
   - [GENJI -神威奏乱- 公式サイト](http://www.jp.playstation.com/software/title/bcjs30002.html)
 
-[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:源義経を題材とした作品](https://ja.wikipedia.org/wiki/Category:源義経を題材とした作品 "wikilink")
+[Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:ソニー・コンピュータエンタテインメントのゲームソフト](https://ja.wikipedia.org/wiki/Category:ソニー・コンピュータエンタテインメントのゲームソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:源義経を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:源義経を題材としたコンピュータゲーム "wikilink")

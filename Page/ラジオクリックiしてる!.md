@@ -1,7 +1,7 @@
 > この記事は[ラジオクリックiしてる!](https://ja.wikipedia.org/wiki/ラジオクリックiしてる!)から翻訳されています。
 
 
-**ラジオクリック iしてる\!**(-あい-)は、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")で[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[放送](../Page/放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**ラジオクリック iしてる\!**(-あい-)は、[STVラジオ](../Page/STVラジオ.md "wikilink")で[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[放送](../Page/放送.md "wikilink")されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 

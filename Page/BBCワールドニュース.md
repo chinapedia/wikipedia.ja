@@ -70,7 +70,7 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
       - [6月30日](../Page/6月30日.md "wikilink") - スカパー\!プレミアムサービス光にて[標準画質映像](../Page/標準画質映像.md "wikilink")を終了し、ハイビジョンに全面移行した。
   - [2016年](../Page/2016年.md "wikilink")
       - 12月1日 - スカパー\!プレミアムサービスの衛星一般放送事業者が、[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")から[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")に変更。
-  - [2018年](../Page/2018年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")）において、ニュース動画の配信を開始\[8\]。
+  - [2018年](../Page/2018年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - [Yahoo\!ニュース](https://ja.wikipedia.org/wiki/Yahoo!ニュース "wikilink")（[Yahoo\! JAPAN](../Page/Yahoo!_JAPAN.md "wikilink")）において、ニュース動画の配信を開始\[8\]\[9\]。
 
 ## 主な番組
 
@@ -121,3 +121,4 @@ LiveStationを経由して、[世界](../Page/世界.md "wikilink")中から[イ
 6.  [ボイスオーバー](../Page/ボイスオーバー.md "wikilink")形式での日本語同時通訳が入る主音声と、原音のままの副音声。平日は深夜と夕方の一部を除いて常時、土曜・日曜は主に午前中と夕方から夜にかけて行われる。なお、CMは全て英語のままで同時通訳は行われない。
 7.  [NHKでイギリスBBCのニュースが流される際は](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")16:9フルサイズで放送されている。
 8.
+9.

@@ -526,7 +526,7 @@ Welcome! [Alexandros]</p></td>
 
 #### 使用機材
 
-  - インディーズ時代、メンバーからの要望でツインペダルを使いはじめ、現在はツーバスセッティング。色んな種類のドラムセットを触ったが、[Ludwig](https://ja.wikipedia.org/wiki/Ludwig "wikilink")のビスタライトが一番良かったらしく、2009年9月9日に[日本武道館](../Page/日本武道館.md "wikilink")で行われた「999＜アットブドウカン＞」まで使用していた。しかし「より音に対して貪欲になったため、見た目重視のビスタライトを使ってファッションで音楽するのは辞めた」という本人の意向もあり\[15\]、それ以降（レコーディングでは「Cold Edge」から、「命ノゼンマイ」は収録時期の違いによりビスタライト、ライブでは2009年9月20日に[Zepp Tokyoで行われた](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR "YOUNG FLAG 09"』から）は[YAMAHA](https://ja.wikipedia.org/wiki/YAMAHA "wikilink")のドラムセット（Birch Custom Absolute / ブルー・アイス・スパークル）を使用していた。本人のネーミングは「青いデビル」。また10周年武道館からヤマハの最上位ドラムセットPHXを使用することになった。本人のネーミングは「青い不死鳥」。
+  - インディーズ時代、メンバーからの要望でツインペダルを使いはじめ、現在はツーバスセッティング。色んな種類のドラムセットを触ったが、[Ludwig](https://ja.wikipedia.org/wiki/Ludwig "wikilink")のビスタライトが一番良かったらしく、2009年9月9日に[日本武道館](../Page/日本武道館.md "wikilink")で行われた「999＜アットブドウカン＞」まで使用していた。しかし「より音に対して貪欲になったため、見た目重視のビスタライトを使ってファッションで音楽するのは辞めた」という本人の意向もあり\[15\]、それ以降（レコーディングでは「Cold Edge」から、「命ノゼンマイ」は収録時期の違いによりビスタライト、ライブでは2009年9月20日に[Zepp Tokyoで行われた](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR "YOUNG FLAG 09"』から）は[YAMAHA](https://ja.wikipedia.org/wiki/YAMAHA "wikilink")のドラムセット（Birch Custom Absolute / ブルー・アイス・スパークル）を使用していた。本人のネーミングは「青いデビル」。また10周年武道館からヤマハの最上位ドラムセットPHXを使用することになった。本人のネーミングは「青い不死鳥」。
   - ビスタライト、Birch Custom Absoluteは自身の所有するスタジオ（ちースタ）にあり、Birch Custom Absoluteは左利き用のセッティングとして設置されている。これは左半身の筋肉もまんべんなく鍛えるためであり、練習後は右利き用のセッティングがしてあるビスタライトを叩き、感覚を戻している。
   - ドラムのセッティングにはこだわりがあり、左右対称にセットされている。そのため「自分のドラミングを真似ようと思ったら全部のタイコを2つずつ用意したほうがいい」と本人も語っている。
   - ジルジャンから出ているシグネチュア・モデルと同様のスペック、ジルジャンのUSヒッコリー製ウッドチップのスティックASJ2を愛用している。シグネチュアモデルを使用する前はジルジャンの3Aを使用していた。現在は使用していない。
@@ -3309,7 +3309,7 @@ EX THEATERのオープニング記念として<br />
 
 ### ラジオ
 
-  - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")・[TOKYOFM](https://ja.wikipedia.org/wiki/FM東京 "wikilink")）(2009年8月5日 - 9月30日)にて全9回の限定コーナー、『[9mm LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#9mm_LOCKS! "wikilink")』パーソナリティ担当。
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")・[TOKYOFM](https://ja.wikipedia.org/wiki/FM東京 "wikilink")）(2009年8月5日 - 9月30日)にて全9回の限定コーナー、『[9mm LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#9mm_LOCKS! "wikilink")』パーソナリティ担当。
 
 ## 脚注
 

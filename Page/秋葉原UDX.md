@@ -50,8 +50,6 @@
 JR東日本秋葉原駅から徒歩2分、[東京メトロ銀座線](https://ja.wikipedia.org/wiki/東京メトロ銀座線 "wikilink")[末広町駅](https://ja.wikipedia.org/wiki/末広町駅_\(東京都\) "wikilink")、[東京メトロ日比谷線](https://ja.wikipedia.org/wiki/東京メトロ日比谷線 "wikilink")・[つくばエクスプレス秋葉原駅から徒歩](https://ja.wikipedia.org/wiki/首都圏新都市鉄道つくばエクスプレス "wikilink")3分と交通利便性が非常に高く、[NTTグループ](../Page/NTTグループ.md "wikilink")や[日本製鉄グループ](https://ja.wikipedia.org/wiki/日本製鉄グループ "wikilink")の企業を中心に多数入居している。
 
   - [日鉄建材](../Page/日鉄建材.md "wikilink")
-  - [シーケム](https://ja.wikipedia.org/wiki/シーケム "wikilink")
-  - [日立ビルシステム](../Page/日立ビルシステム.md "wikilink")
   - [アクセル](https://ja.wikipedia.org/wiki/アクセル_\(電気機器\) "wikilink")
   - [ベース](https://ja.wikipedia.org/wiki/ベース_\(企業\) "wikilink")
   - [三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")
@@ -64,7 +62,6 @@ JR東日本秋葉原駅から徒歩2分、[東京メトロ銀座線](https://ja.
   - [田島ルーフィング](https://ja.wikipedia.org/wiki/田島ルーフィング "wikilink")
   - [レノボ](../Page/レノボ.md "wikilink")・ジャパン
   - レノボ・エンタープライズ・ソリューションズ
-  - [日本動画協会](../Page/日本動画協会.md "wikilink")
   - [弥生](../Page/弥生_\(ソフトウェア\).md "wikilink")
 
 ## AKIBA ICHI

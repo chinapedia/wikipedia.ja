@@ -22,4 +22,4 @@
   - [鈴木英俊](../Page/鈴木英俊.md "wikilink") - ギター
   - 大黒摩季 - コーラス
 
-[Category:MANISHの楽曲](https://ja.wikipedia.org/wiki/Category:MANISHの楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:大黒摩季が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季が制作した楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")
+[Category:MANISHの楽曲](https://ja.wikipedia.org/wiki/Category:MANISHの楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:大黒摩季が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季が制作した楽曲 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

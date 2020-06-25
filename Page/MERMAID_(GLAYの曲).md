@@ -1,7 +1,7 @@
 > この記事は[MERMAID \(GLAYの曲\)](https://ja.wikipedia.org/wiki/MERMAID_\(GLAYの曲\))から翻訳されています。
 
 
-『**MERMAID**』（マーメイド）は、[GLAY](../Page/GLAY.md "wikilink")の19枚目の[シングル](../Page/シングル.md "wikilink")である。
+『**MERMAID**』（マーメイド）は、[GLAY](../Page/GLAY.md "wikilink")の19枚目の[シングル](../Page/シングル.md "wikilink")である。[2000年](../Page/2000年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")に発売された。
 
 ## 概要
 

@@ -2600,10 +2600,10 @@
   - [Dance with Devils](https://ja.wikipedia.org/wiki/Dance_with_Devils "wikilink")
   - [探偵歌劇 ミルキィホームズ TD](https://ja.wikipedia.org/wiki/探偵オペラ_ミルキィホームズ_\(アニメ\) "wikilink")
   - 探偵オペラ ミルキィホームズ 〜逆襲のミルキィホームズ〜
-  - [転生したらスライムだった件](https://ja.wikipedia.org/wiki/転生したらスライムだった件 "wikilink")
+  - [転生したらスライムだった件](https://ja.wikipedia.org/wiki/転生したらスライムだった件 "wikilink")\[12\]
   - [となりの怪物くん](https://ja.wikipedia.org/wiki/となりの怪物くん "wikilink")
   - [BanG Dream\!プロジェクト](https://ja.wikipedia.org/wiki/BanG_Dream! "wikilink")
-  - [B型H系](../Page/B型H系.md "wikilink")\[12\]
+  - [B型H系](../Page/B型H系.md "wikilink")\[13\]
   - [WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink")
   - [護くんに女神の祝福を\!](../Page/護くんに女神の祝福を!.md "wikilink")
   - [モーレツ宇宙海賊](https://ja.wikipedia.org/wiki/ミニスカ宇宙海賊 "wikilink")
@@ -2685,7 +2685,7 @@
       - [猫撫ディストーション](https://ja.wikipedia.org/wiki/猫撫ディストーション "wikilink")
       - 猫撫ディストーションExodus
       - ラブライド・イヴ
-      - 運命が君の親を選ぶ 君の友人は君が選ぶ\[13\]
+      - 運命が君の親を選ぶ 君の友人は君が選ぶ\[14\]
   - [eufonie](https://ja.wikipedia.org/wiki/etude "wikilink")
       - [恋剣乙女](https://ja.wikipedia.org/wiki/恋剣乙女 "wikilink")
   - [Littlewitch](../Page/Littlewitch.md "wikilink")
@@ -2708,7 +2708,7 @@
 
   - **Elements Garden**（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月6日](../Page/8月6日.md "wikilink")発売）
     1.  Introduction （Vocal：木蓮 / 作編曲：上松範康・藤田淳平）
-    2.  SALVAGE REQUIEM （Vocal：榊原ゆい / 作詞・作曲・編曲:Elements Garden\[14\]）
+    2.  SALVAGE REQUIEM （Vocal：榊原ゆい / 作詞・作曲・編曲:Elements Garden\[15\]）
     3.  Wing of Destiny （Vocal：富田麻帆 / 作詞・作曲・編曲：上松範康）
     4.  KAMUY （Vocal：木蓮 / 作詞・作曲：上松範康 / 編曲：藤田淳平）
     5.  dissonant chord （Vocal：NANA / 作詞：kanoko / 作曲・編曲：上松範康）
@@ -2725,14 +2725,14 @@
     16. 夢の月 （Vocal：KAKO / 作詞：kanoko / 作編曲：藤間仁）
   - **Elements Garden II -TONE CLUSTER-**（[2009年](../Page/2009年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")発売）
     1.  Introduction （作編曲：Elements Garden）
-    2.  Deus Ex Machina （Vocal：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 作詞・作曲・編曲：Elements Garden\[15\]）
+    2.  Deus Ex Machina （Vocal：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 作詞・作曲・編曲：Elements Garden\[16\]）
     3.  尋ねビト （Vocal：Veil∞[Lia](../Page/Lia.md "wikilink") / 作詞：Bee' / 作編曲：藤間仁）
     4.  星☆に願いを （Vocal：NANA / 作詞・作曲・編曲：上松範康）
     5.  ENGAGE LINKS （Vocal：真理絵 / 作詞：ayachi / 作曲：藤田淳平 / 編曲：中山真斗）
     6.  アルカディア・パレード （Vocal・作詞：片霧烈火 / 作編曲：藤田淳平）
     7.  Try on\! （Vocal：NANA / 作詞：外山堅・kanoko / 作曲：上松範康 / 編曲：菊田大介）
     8.  Tears in snow （Vocal：佐藤ひろ美 / 作詞：tororo / 作編曲：上松範康）
-    9.  超新生 -スーパーノヴァ- （Vocal：[たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink") / 作詞：大王SP\[16\] / 作曲：上松範康 / 編曲：菊田大介）
+    9.  超新生 -スーパーノヴァ- （Vocal：[たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink") / 作詞：大王SP\[17\] / 作曲：上松範康 / 編曲：菊田大介）
     10. ふれあ☆こんぷれっくす （Vocal：NANA / 作詞：ayachi / 作編曲：中山真斗）
     11. ガーネット・クレイドル （Vocal：長瀬弘樹 / 作詞：片桐由摩 / 作編曲：藤田淳平）
     12. Border -境界- （Vocal：笶田みこ / 作詞：海富一 / 作編曲：藤間仁）
@@ -2742,9 +2742,9 @@
     16. 祝福のカンパネラ （Vocal：佐藤ひろ美・NANA / 作詞：佐藤ひろ美 / 作曲：上松範康 / 編曲：菊田大介）
   - **Elements Garden III -phenomena-**（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")発売）
     1.  Introduction （作編曲：Elements Garden）
-    2.  PLEASE KILL OUR MUSIC （Vocal：[谷山紀章](../Page/谷山紀章.md "wikilink") / 作詞・作曲・編曲：Elements Garden\[17\]）
+    2.  PLEASE KILL OUR MUSIC （Vocal：[谷山紀章](../Page/谷山紀章.md "wikilink") / 作詞・作曲・編曲：Elements Garden\[18\]）
     3.  Crimson Star （Vocal：富田麻帆 / 作詞：Bee' / 作編曲：上松範康）
-    4.  1/6000000000\[18\] （Vocal：音無 蘭・凛・蓮(CV 高本めぐみ) / 作詞：[RUCCA](https://ja.wikipedia.org/wiki/溝口貴紀 "wikilink") / 作編曲：菊田大介）
+    4.  1/6000000000\[19\] （Vocal：音無 蘭・凛・蓮(CV 高本めぐみ) / 作詞：[RUCCA](https://ja.wikipedia.org/wiki/溝口貴紀 "wikilink") / 作編曲：菊田大介）
     5.  Believe forever （Vocal：佐藤ひろ美 / 作詞：Bee' / 作曲：上松範康 / 編曲：中山真斗）
     6.  pile up HURRICANE\! （Vocal：中川春菜 / 作詞：ayachi / 作編曲：藤田淳平）
     7.  色に出でにけりわが恋は（Vocal：片霧烈火 / 作詞：ayachi / 作編曲：菊田大介）
@@ -2784,9 +2784,10 @@
 10. [お知らせ](http://www.ariamusic.co.jp/news/20190131204725/)
 11. [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")、[井上あずみ](../Page/井上あずみ.md "wikilink")、[Wake Up, Girls\!](https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_\(声優ユニット\) "wikilink")、[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")、[串田アキラ](../Page/串田アキラ.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[ささきいさお](../Page/ささきいさお.md "wikilink")、[下野紘](../Page/下野紘.md "wikilink")、[JAM Project](../Page/JAM_Project.md "wikilink")、[鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[TRUE](../Page/唐沢美帆.md "wikilink")、[豊永利行](../Page/豊永利行.md "wikilink")、[中川翔子](../Page/中川翔子.md "wikilink")、[羽多野渉](../Page/羽多野渉.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")、[Minami](https://ja.wikipedia.org/wiki/Minami "wikilink")、[三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")、[May'n](../Page/May'n.md "wikilink")、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")
 12.
-13. 公式サイト上では、この [バナー](http://white-soft.jp/products/unmei/img/unmei_bn1024.jpg) のみにしか表記がない。
-14. アニメイトTVインタビュー [1](http://www.animate.tv/news/detail.php?id=atv080805b) において、作詞は主に上松・中山が、作編曲は主に藤田・藤間・菊田が担当したとの発言がある。
-15. 電撃萌王ブログ [2](http://moeoh.dengeki.com/blog/2009/08/2_15.html) などから。
-16. 大王ソングプロジェクトの略。
-17. アニメイトtvなどのインタビュー [3](http://www.animate.tv/news/details.php?id=1283821722) から。
-18. 読みは「エイ ワン シックス ビリオンス」。
+13.
+14. 公式サイト上では、この [バナー](http://white-soft.jp/products/unmei/img/unmei_bn1024.jpg) のみにしか表記がない。
+15. アニメイトTVインタビュー [1](http://www.animate.tv/news/detail.php?id=atv080805b) において、作詞は主に上松・中山が、作編曲は主に藤田・藤間・菊田が担当したとの発言がある。
+16. 電撃萌王ブログ [2](http://moeoh.dengeki.com/blog/2009/08/2_15.html) などから。
+17. 大王ソングプロジェクトの略。
+18. アニメイトtvなどのインタビュー [3](http://www.animate.tv/news/details.php?id=1283821722) から。
+19. 読みは「エイ ワン シックス ビリオンス」。

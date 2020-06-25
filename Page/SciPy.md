@@ -36,6 +36,6 @@ SciPyは、配列オブジェクトとその他の基本的な機能を備えた
 
 ## 外部リンク
 
-  - [SciPy 公式サイト](http://www.scipy.org/)
+  - [SciPy 公式サイト](https://www.scipy.org/)
 
 [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Pythonライブラリ](https://ja.wikipedia.org/wiki/Category:Pythonライブラリ "wikilink") [Category:数値解析ソフトウェア](https://ja.wikipedia.org/wiki/Category:数値解析ソフトウェア "wikilink") [Category:Linux向け数値解析ソフトウェア](https://ja.wikipedia.org/wiki/Category:Linux向け数値解析ソフトウェア "wikilink")

@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [フアン・カルロス・ガリード](https://ja.wikipedia.org/wiki/フアン・カルロス・ガリード "wikilink")
+  - [ペドロ・エマヌエル](https://ja.wikipedia.org/wiki/ペドロ・エマヌエル "wikilink")
 
 ## 歴代監督
 
@@ -89,7 +89,13 @@
 
   - [ズラトコ・ダリッチ](https://ja.wikipedia.org/wiki/ズラトコ・ダリッチ "wikilink") 2014-2017
 
-  - [ゾラン・マミッチ](https://ja.wikipedia.org/wiki/ゾラン・マミッチ "wikilink") 2017-
+  - [ゾラン・マミッチ](https://ja.wikipedia.org/wiki/ゾラン・マミッチ "wikilink") 2017-2019
+
+  - [フアン・カルロス・ガリード](https://ja.wikipedia.org/wiki/フアン・カルロス・ガリード "wikilink") 2019
+
+  - [イヴァン・レコ](../Page/イヴァン・レコ.md "wikilink") 2019
+
+  - [ペドロ・エマヌエル](https://ja.wikipedia.org/wiki/ペドロ・エマヌエル "wikilink") 2020-
 
 ## 歴代所属選手
 

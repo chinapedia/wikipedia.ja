@@ -1,7 +1,7 @@
 > この記事は[Saigenji](https://ja.wikipedia.org/wiki/Saigenji)から翻訳されています。
 
 
-**Saigenji**（サイゲンジ、[1975年](../Page/1975年.md "wikilink") - ）は、[広島県](../Page/広島県.md "wikilink")出身のミュージシャンである。2002年Happiness Recordsよりデビュー。2005年[東芝EMIに移籍](../Page/EMIミュージック・ジャパン.md "wikilink")。2007年より再びHappiness Recordsに在籍。他アーティストのゲストボーカルやリミックスをなども多数参加している。
+**Saigenji**（サイゲンジ、[1975年](../Page/1975年.md "wikilink") - ）は、[広島県](../Page/広島県.md "wikilink")出身のミュージシャンである。2002年Happiness Recordsよりデビュー。2005年[東芝EMIに移籍](../Page/EMIミュージック・ジャパン.md "wikilink")。2007年より再びHappiness Recordsに在籍。他アーティストのゲストボーカルやリミックスなども多数参加している。
 
 ## 人物
 

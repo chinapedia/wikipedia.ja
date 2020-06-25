@@ -1,7 +1,7 @@
 > この記事は[AS FOR ONE DAY](https://ja.wikipedia.org/wiki/AS_FOR_ONE_DAY)から翻訳されています。
 
 
-「**AS FOR ONE DAY**」（アズ・フォー・ワン・デイ）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。
+「**AS FOR ONE DAY**」（アズ・フォー・ワン・デイ）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の18枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

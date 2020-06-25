@@ -3,7 +3,7 @@
 
 『**FNSの日**』（エフエヌエスのひ）\[1\] は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[フジネットワーク](../Page/フジネットワーク.md "wikilink")（FNS）系列各局（[テレビ大分](../Page/テレビ大分.md "wikilink")を除く）が、毎年1つのメインコンセプトテーマを掲げ、1987年から毎年総力を挙げて制作、[生放送](../Page/生放送.md "wikilink")されている[長時間特別](../Page/日本の長時間特別番組一覧.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
-2016年の放送で放送開始30周年を迎えた。2017年・2018年はほとんど事前収録だったが、2019年から再び生放送形式に戻る。
+2016年の放送で放送開始30周年を迎えた。2017年・2018年はほとんど事前収録だったが、2019年から再び生放送形式に戻る。2020年は後述の理由により、中止。
 
 ## 概要・成り立ち
 
@@ -16,6 +16,8 @@
 2007年以降、制作著作は「[フジネットワーク](../Page/フジネットワーク.md "wikilink")27社」であり、[クロスネット](https://ja.wikipedia.org/wiki/クロスネット "wikilink")の[テレビ大分](../Page/テレビ大分.md "wikilink")以外の全局が製作局となっている。
 
 フジテレビが1987年に自局の開局30周年を記念して企画された[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[特別番組](../Page/特別番組.md "wikilink")である。当初は、1987年の放送1回きりの予定だったが平均[視聴率](../Page/視聴率.md "wikilink")が**19.9%**（ビデオリサーチ調べ、関東地区・世帯・リアルタイム）という高視聴率となり（2018年時点でこれは破られていない。）、以後も継続して企画・放送されている（ビデオリサーチ調べ、関東地区・世帯・リアルタイム）。
+
+2020年の放送については[新型コロナウイルスの感染拡大に伴い](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")、史上初の中止となった\[2\]。
 
 ### 放送時間の推移
 
@@ -83,7 +85,7 @@
 1億人のテレビ夢列島'89</p></td>
 <td><p>タモリ<br />
 明石家さんま</p></td>
-<td><p>長野智子（当時フジテレビ）[2]</p></td>
+<td><p>長野智子（当時フジテレビ）[3]</p></td>
 <td><p><a href="../Page/八木亜希子.md" title="wikilink">八木亜希子</a>（当時フジテレビ）</p></td>
 <td><p>14.7%</p></td>
 </tr>
@@ -193,7 +195,7 @@
 笑福亭鶴瓶<small>（大会副委員長）</small><br />
 所ジョージ<small>（大会委員）</small><br />
 <a href="https://ja.wikipedia.org/wiki/田代まさし" title="wikilink">田代まさし</a><small>（大会委員）</small><br />
-<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a><small>（番組パーソナリティー）</small></p></td>
+<a href="../Page/SMAP.md" title="wikilink">SMAP</a><small>（番組パーソナリティー）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/F・MAP" title="wikilink">F・MAP</a></p>
 <hr />
 <p>福井謙二（当時フジテレビ）<br />
@@ -214,7 +216,7 @@
 <td><p><a href="../Page/ダウンタウン_(お笑いコンビ).md" title="wikilink">ダウンタウン</a><br />
 （<a href="../Page/浜田雅功.md" title="wikilink">浜田雅功</a>・<a href="../Page/松本人志.md" title="wikilink">松本人志</a>）</p></td>
 <td><p><a href="../Page/川端健嗣.md" title="wikilink">川端健嗣</a>（当時フジテレビ）<br />
-（27日のみ[3]）</p></td>
+（27日のみ[4]）</p></td>
 <td><p><a href="../Page/牧原俊幸.md" title="wikilink">牧原俊幸</a>（当時フジテレビ）<br />
 <a href="https://ja.wikipedia.org/wiki/佐藤里佳" title="wikilink">佐藤里佳</a>（フジテレビ）</p></td>
 <td><p>11.6%</p></td>
@@ -226,7 +228,7 @@
 7月19日（日曜日）20:54</p></td>
 <td><p>'98FNS1億2700万人の<a href="../Page/FNS27時間テレビ.md" title="wikilink">27時間テレビ夢列島</a><br />
 てれずにいいこと、てれずに楽しく</p></td>
-<td><p><a href="../Page/中居正広.md" title="wikilink">中居正広</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</p></td>
+<td><p><a href="../Page/中居正広.md" title="wikilink">中居正広</a>（<a href="../Page/SMAP.md" title="wikilink">SMAP</a>）</p></td>
 <td><p>西山喜久恵（フジテレビ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/木佐彩子" title="wikilink">木佐彩子</a>（当時フジテレビ）<br />
 <a href="../Page/佐野瑞樹_(アナウンサー).md" title="wikilink">佐野瑞樹</a>（フジテレビ）</p></td>
@@ -298,7 +300,7 @@
 <td><p>FNS27時間テレビ<br />
 みんなのうた</p></td>
 <td><p>みのもんた<br />
-<a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a><small>（番組パーソナリティー）</small></p></td>
+<a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a><small>（番組パーソナリティー）</small></p></td>
 <td><p>西山喜久恵（フジテレビ）<br />
 高島彩（当時フジテレビ）</p></td>
 <td><p>不在</p></td>
@@ -364,7 +366,7 @@
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
 <td><p><a href="../Page/7月28日.md" title="wikilink">7月28日</a>（土曜日） 19:00<br />
 <a href="../Page/7月29日.md" title="wikilink">7月29日</a>（日曜日）21:15<br />
-[4]</p></td>
+[5]</p></td>
 <td><p>26時間15分</p></td>
 <td><p><a href="../Page/FNS27時間テレビ_(2007年).md" title="wikilink">FNS27時間テレビ<br />
 みんな なまか だっ!<br />
@@ -494,14 +496,14 @@
 <td><p>生野陽子（フジテレビ）<br />
 加藤綾子（当時フジテレビ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/榎並大二郎" title="wikilink">榎並大二郎</a>（フジテレビ）</p></td>
-<td><p>9.8%[5]</p></td>
+<td><p>9.8%[6]</p></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
 <td><p><a href="../Page/2014年.md" title="wikilink">2014年</a></p></td>
 <td><p>7月26日（土曜日） 18:30<br />
 7月27日（日曜日） 20:54<br />
-[6]</p></td>
+[7]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FNS27時間テレビ_(2014年)" title="wikilink">武器はテレビ。<br />
 SMAP×FNS 27時間テレビ</a><br />
 </p></td>
@@ -541,12 +543,12 @@ SMAP×FNS 27時間テレビ</a><br />
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a>[7]</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a>[8]</p></td>
 <td><p>7月23日（土曜日）18:30<br />
 7月24日（日曜日）21:24</p></td>
 <td><p>26時間54分</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FNS27時間テレビ_(2016年)" title="wikilink">FNS27時間テレビフェスティバル!</a></p></td>
-<td><p>総合司会なし</p></td>
+<td><p>各コーナーのMCが担当するMCリレー</p></td>
 <td><p>27時間フェス実行委員会</p>
 <hr />
 <p><a href="../Page/陣内智則.md" title="wikilink">陣内智則</a><br />
@@ -561,11 +563,11 @@ SMAP×FNS 27時間テレビ</a><br />
 永島優美（フジテレビ）<br />
 <a href="https://ja.wikipedia.org/wiki/宮司愛海" title="wikilink">宮司愛海</a>（フジテレビ）</p></td>
 <td><p>不在</p></td>
-<td><p>7.7%[8]</p></td>
+<td><p>7.7%[9]</p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
-<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a>[9]</p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a>[10]</p></td>
 <td><p>9月9日（土曜日）18:30<br />
 9月10日（日曜日）21:24</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FNS27時間テレビ_(2017年)" title="wikilink">FNS27時間テレビ<br />
@@ -580,7 +582,7 @@ SMAP×FNS 27時間テレビ</a><br />
 </tr>
 <tr class="even">
 <td><p>32</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>[10]</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>[11]</p></td>
 <td><p>9月8日（土曜日）18:30<br />
 9月9日（日曜日）21:54</p></td>
 <td><p>27時間24分</p></td>
@@ -590,13 +592,13 @@ SMAP×FNS 27時間テレビ</a><br />
 バカリズム<br />
 上戸彩<br />
 林修</p></td>
-<td><p>7.3%[11]</p></td>
+<td><p>7.3%[12]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>[12]</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>[13]</p></td>
 <td><p>11月2日（土曜日）18:30<br />
 11月3日（日曜日）21:54</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FNS27時間テレビ_(2019年)" title="wikilink">FNS27時間テレビ<br />
@@ -607,7 +609,7 @@ SMAP×FNS 27時間テレビ</a><br />
 バカリズム<br />
 <a href="https://ja.wikipedia.org/wiki/木村沙織" title="wikilink">木村沙織</a></p></td>
 <td><p>不在</p></td>
-<td><p>5.8%[13]</p></td>
+<td><p>5.8%[14]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -683,7 +685,7 @@ SMAP×FNS 27時間テレビ</a><br />
 <tr class="even">
 <td><p>第4回</p></td>
 <td><p>1990年</p></td>
-<td><p>おたく[14]</p></td>
+<td><p>おたく[15]</p></td>
 <td><p>全国美人妻コンテスト</p></td>
 <td><p>7月22日未明</p></td>
 <td><p><a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a></p></td>
@@ -937,7 +939,7 @@ SMAPよりアイドルな!?ご当地SMAP選手権大会</p></td>
 <td><p>本気になれなきゃテレビじゃないじゃ〜ん</p></td>
 <td></td>
 <td><p>めちゃ<sup>2</sup>イケてるッ!</p></td>
-<td><p>FNSちびっこホンキーダンス選手権[15]</p></td>
+<td><p>FNSちびっこホンキーダンス選手権[16]</p></td>
 <td><p>7月26日</p></td>
 </tr>
 <tr class="odd">
@@ -946,15 +948,15 @@ SMAPよりアイドルな!?ご当地SMAP選手権大会</p></td>
 <td><p>一年に一度、皆さんに<br />
 笑顔をお届けする大感謝祭</p></td>
 <td><p>無し</p></td>
-<td><p>FNS高校生スーパーダンク選手権[16]</p></td>
+<td><p>FNS高校生スーパーダンク選手権[17]</p></td>
 <td><p>7月24日</p></td>
 <td><p><a href="../Page/テレビ長崎.md" title="wikilink">テレビ長崎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>笑っていいとも!<br />
 （身内自慢コンテスト・そっくりさんカーニバル）</p></td>
-<td><p>FNS全国そっくりキャラ選手権[17]</p></td>
-<td><p>テレビ静岡[18]</p></td>
+<td><p>FNS全国そっくりキャラ選手権[18]</p></td>
+<td><p>テレビ静岡[19]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -965,7 +967,7 @@ SMAPよりアイドルな!?ご当地SMAP選手権大会</p></td>
 <td><p>2017年</p></td>
 <td><p>にほんのれきし</p></td>
 <td><p>無し</p></td>
-<td><p>れきし自慢!大賞[19]</p></td>
+<td><p>れきし自慢!大賞[20]</p></td>
 <td><p>9月9日</p></td>
 <td><p>《あの偉人の意外ですね部門》<br />
 関西テレビ</p></td>
@@ -1069,7 +1071,7 @@ SMAPよりアイドルな!?ご当地SMAP選手権大会</p></td>
 <td><p>11月3日</p></td>
 <td><p>テレビ新広島<br />
 <a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a><br />
-（2局同時優勝[20]）</p></td>
+（2局同時優勝[21]）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1191,7 +1193,7 @@ SMAPよりアイドルな!?ご当地SMAP選手権大会</p></td>
 <tr class="odd">
 <td><p>第26回</p></td>
 <td><p>2012年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/草なぎ剛" title="wikilink">草彅剛</a>（当時<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/草なぎ剛" title="wikilink">草彅剛</a>（当時<a href="../Page/SMAP.md" title="wikilink">SMAP</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1251,7 +1253,7 @@ SMAPよりアイドルな!?ご当地SMAP選手権大会</p></td>
 
 #### 競馬中継
 
-FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬中継番組を放送しているが、当番組の放送日はその日に開催される重賞レースのみ実況中継する\[21\]（1996年から）。当日は通常競馬中継を放送していない地域（サガテレビ・2002年～2006年までのテレビ大分）でも放送する。また、代替番組として[BSフジ](../Page/BSフジ.md "wikilink")で[BSみんなのKEIBAが放送される](https://ja.wikipedia.org/wiki/みんなのKEIBA#BSみんなの競馬中継 "wikilink")。
+FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬中継番組を放送しているが、当番組の放送日はその日に開催される重賞レースのみ実況中継する\[22\]（1996年から）。当日は通常競馬中継を放送していない地域（サガテレビ・2002年～2006年までのテレビ大分）でも放送する。また、代替番組として[BSフジ](../Page/BSフジ.md "wikilink")で[BSみんなのKEIBAが放送される](https://ja.wikipedia.org/wiki/みんなのKEIBA#BSみんなの競馬中継 "wikilink")。
 
 #### F1中継
 
@@ -1271,7 +1273,7 @@ FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬
     2008年は総合司会の[明石家さんま](../Page/明石家さんま.md "wikilink")が、2009年は総合司会の[島田紳助](../Page/島田紳助.md "wikilink")が「テレフォンショッキング」のテレフォンゲストとして出演した。
     『[FNSスーパースペシャルテレビ夢列島](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島 "wikilink")』（1987年）、『FNSの日 1億2500万人の超夢列島』（1995年）、『FNSの日 十周年記念 1億2500万人の超夢リンピック』（1996年）、『'99FNS1億2700万人の27時間テレビ夢列島 - てれずに楽しく、てれずに愛して』（1999年）は2部制だった。
 
-※お台場でやる回と通常放送で借りていた、スタジオアルタでやった回の両方ともある
+※河田町→お台場でやる回と通常放送で借りていた、スタジオアルタでやった回の両方ともある
 
   - [サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")（毎年放送）
 
@@ -1473,7 +1475,7 @@ FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬
 #### スポーツコーナー
 
   - [プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")スペシャル（1987年 - 2000年）
-  - [すぽると\!](../Page/すぽると!.md "wikilink")スペシャル（2001年 - 2007年・2011年・2012年・2015年）\[22\]
+  - [すぽると\!](../Page/すぽると!.md "wikilink")スペシャル（2001年 - 2007年・2011年・2012年・2015年）\[23\]
 
 ## その他の企画
 
@@ -1491,7 +1493,7 @@ FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬
   -
     土曜日のゴールデン枠がFNS（フジテレビ系列）編成であることなどから、系列局協定で必ず本番組を放送しなくてはならないため、[NNN編成](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")（[NNSは非加盟](../Page/日本テレビネットワーク協議会.md "wikilink")）である土曜23:55 - 、日曜日19:00 - 22:30についても、当番組の放送を優先する。ただし、ニュース枠についてはその限りではないケースもある（なお、NNN、ANNの当該時間帯のニュースを放送しても、年度の時間編成によってはFNNのニュースも放送される場合がある）。なお、2011年以降は全編フルネットを行っている。
       - 土曜日のNNN最終ニュース - 2009年までは飛び降りで土曜日のNNN最終ニュース枠（『[NNNニュース](../Page/NNNニュース.md "wikilink")』）を放送。2010年以降の『[Going\!](https://ja.wikipedia.org/wiki/Going!Sports&News "wikilink")』は放送せず。
-      - 日曜日の昼前のニュース - 2010年までは飛び降りで『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を放送\[23\]。2011年以降は放送せず。
+      - 日曜日の昼前のニュース - 2010年までは飛び降りで『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』を放送\[24\]。2011年以降は放送せず。
       - 日曜日の19:00以降、本番組と時間帯が重なった報道番組を除くNNS同時ネット番組に関しては振替放送がなされる。
 
 <!-- end list -->
@@ -1501,14 +1503,14 @@ FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬
 <!-- end list -->
 
   -
-    土曜日19時-21時と日曜日の朝のニュースと[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")全体及び深夜のニュース枠はNNN/NNS編成（NNS加盟）である都合からFNS非加盟に準じた扱い\[24\] として2001年度までと2007年度以降はネットされない。しかし、2002年から2006年まではネットを行った（ただし、終夜放送は行っていなかった）。だが、NNN/NNS編成である関係で一部のコーナーが放送できずに、フィナーレの部分を深夜に録画放送するなどの対応を取っていた。現在は本番組自体の放送を取り止めて、日テレ同時ネット編成でない時間は自主編成または番組の時差放送を行っている。
-    通常FNNから配信される昼（『[FNNスピークWeekend](https://ja.wikipedia.org/wiki/FNNスピークWeekend "wikilink")』（2016年以降）←『[TOSテレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』）と夕方のニュース（『[FNN みんなのニュース Weekend](https://ja.wikipedia.org/wiki/FNN_みんなのニュース_Weekend "wikilink")』（2015年以降）←『[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")』）のネット受けはせず、昼のニュース枠は休止、夕方枠は自社制作ローカルニュース『[TOSニュース](../Page/TOSニュース.md "wikilink")』で対応している。また、『サザエさん』は定刻の日曜18:30-19:00に放送している。\[25\]
+    土曜日19時-21時と日曜日の朝のニュースと[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")全体及び深夜のニュース枠はNNN/NNS編成（NNS加盟）である都合からFNS非加盟に準じた扱い\[25\] として2001年度までと2007年度以降はネットされない。しかし、2002年から2006年まではネットを行った（ただし、終夜放送は行っていなかった）。だが、NNN/NNS編成である関係で一部のコーナーが放送できずに、フィナーレの部分を深夜に録画放送するなどの対応を取っていた。現在は本番組自体の放送を取り止めて、日テレ同時ネット編成でない時間は自主編成または番組の時差放送を行っている。
+    通常FNNから配信される昼（『[FNNスピークWeekend](https://ja.wikipedia.org/wiki/FNNスピークWeekend "wikilink")』（2016年以降）←『[TOSテレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』）と夕方のニュース（『[FNN みんなのニュース Weekend](https://ja.wikipedia.org/wiki/FNN_みんなのニュース_Weekend "wikilink")』（2015年以降）←『[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")』）のネット受けはせず、昼のニュース枠は休止、夕方枠は自社制作ローカルニュース『[TOSニュース](../Page/TOSニュース.md "wikilink")』で対応している。また、『サザエさん』は定刻の日曜18:30-19:00に放送している。\[26\]
 
 ### かつてのクロスネット系列局の対応
 
   - [テレビ熊本](../Page/テレビ熊本.md "wikilink")（1987 - 1989年 クロスネット相手はANN系列([熊本朝日放送](../Page/熊本朝日放送.md "wikilink")開局まで)）
       - クロスネット当時、日曜日の昼は『[ANNニュースライナー](../Page/ANNニュースライナー.md "wikilink")』をネットしていなかったため全編ネットと、開始当初から一貫して全編ネットとなっている。
-  - [テレビ長崎](../Page/テレビ長崎.md "wikilink")（1987 - 1990年 クロスネット相手はNNN系列\[26\]([長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")開局まで)）
+  - [テレビ長崎](../Page/テレビ長崎.md "wikilink")（1987 - 1990年 クロスネット相手はNNN系列\[27\]([長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")開局まで)）
       - クロスネット当時の土曜19時以降はFNN・FNS編成が組まれている事から、開始当初から当番組を放送。但し、クロスネット時代は、土曜深夜の『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』・日曜朝の『[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")』・日曜昼の『[NNN昼のニュース](../Page/NNN昼のニュース.md "wikilink")』の放送時間帯はその度に中断していた。また、クロスネット当時の日曜19時 - 22時30分はNNN編成だが、当番組の放送を優先していた。
   - [鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")（1988年・1990年 - 1993年 クロスネット相手はNNN/NNS系列([鹿児島読売テレビ開局まで](../Page/鹿児島讀賣テレビ.md "wikilink"))）
       - 1987年と1989年は編成上の都合により、ネットなし。
@@ -1537,28 +1539,29 @@ FNS系列局では通常、一部の局を除いて日曜日の15時台に競馬
 [Category:FNSの日](https://ja.wikipedia.org/wiki/Category:FNSの日 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:7月](https://ja.wikipedia.org/wiki/Category:7月 "wikilink") [Category:9月](https://ja.wikipedia.org/wiki/Category:9月 "wikilink") [Category:11月](https://ja.wikipedia.org/wiki/Category:11月 "wikilink") [Category:明石家さんま](https://ja.wikipedia.org/wiki/Category:明石家さんま "wikilink") [Category:タモリ](https://ja.wikipedia.org/wiki/Category:タモリ "wikilink")
 
 1.  [日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink") 「日本民間放送年鑑'87（[昭和62年版](https://ja.wikipedia.org/wiki/1987年 "wikilink")）」436ページ
-2.  クイズ出題以外のコーナー（「ニュースコーナー」・「列島リレーニュース」）では、露木茂が進行。
-3.  27日早朝の「世紀の早朝ゴルフ対決 IN 大箱根」から参加。これは、放送直前まで「[FNNニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")」の土曜日キャスターを担当していた関係上。27日早朝までは、インフォメーション担当の牧原俊幸が進行。
-4.  参議院議員通常選挙実施日だったため、開票速報を交えた放送となった。
-5.  [フジ27時間TV全平均9・8%、昨年下回る](http://www.bunkatsushin.com/news/article.aspx?id=78828) 文化通信.com 2013年8月6日閲覧。
-6.  2014年6月15日放送の『[ワイドナB面](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")』で発表された。
-7.  [FNS27時間テレビ2016](http://www.fujitv.co.jp/fujitv/news/pub_2016/160607-i132.html) フジテレビ2016年6月7日閲覧
-8.  [フジ「27時間テレビ」視聴率7･7% 13年下回りワーストに](http://www.sponichi.co.jp/entertainment/news/2016/07/25/kiji/K20160725013028600.html) スポニチアネックス 2016年7月26日配信・閲覧
-9.  [1](http://www.fujitv.co.jp/27h/index.html) フジテレビ2017年7月18日閲覧
-10. [2](http://www.fujitv.co.jp/27h/) フジテレビ2018年6月21日閲覧
-11. [フジ「27時間テレビ」視聴率は7.3% 歴代ワーストに](https://www.sponichi.co.jp/entertainment/news/2018/09/10/kiji/20180909s00041000479000c.html) - スポーツニッポン新聞社、2018年9月10日配信、同日閲覧
-12. [3](http://www.fujitv.co.jp/27h/) フジテレビ2019年7月8日閲覧
-13. [フジ「27時間テレビ」歴代最低視聴率5・8％　グランドフィナーレは8・3％](https://www.sponichi.co.jp/entertainment/news/2019/11/05/kiji/20191103s00041000335000c.html) - スポーツニッポン、2019年11月5日配信、同日閲覧
-14. 意味としては[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")と[住宅](https://ja.wikipedia.org/wiki/住宅 "wikilink")（御宅）を引っ掛けたテーマ。実際に、本番中（24時間以内）に一軒家を建てようという企画が行われ、オタク評論家[宅八郎](../Page/宅八郎.md "wikilink")がゲスト出演した。
-15. [FNS27時間テレビ2015](http://www.fujitv.co.jp/27h/index.html) フジテレビ2015年4月15日閲覧
-16. [FNS27時間テレビ2016](http://www.fujitv.co.jp/27h/baske-kiyaku.html)フジテレビ2016年5月26日閲覧
-17. [FNS27時間テレビ2016](http://www.fujitv.co.jp/27h/sokkuri-kiyaku.html)フジテレビ2016年5月26日閲覧
-18. FNS各局だけでなく飛び入りで参加できた。（FNS27時間テレビ2016公式サイト・7月25日閲覧）
-19. [FNS27時間テレビ2017](http://www.fujitv.co.jp/27h/index.html)フジテレビ2017年8月6日閲覧
-20. 本来は1局のみが優勝となる予定だったが、MCのビートたけしの判断で、[達川光男](../Page/達川光男.md "wikilink")に関するエピソードをとりあげた2局が同時優勝となった。なお、達川はVTRだけでなく、放送当日に一日店長を務めていた[広島ガス](../Page/広島ガス.md "wikilink")尾道支店からの生放送という形でも出演。トロフィーが1つしか用意されていなかったため、本来のトロフィーはFNSの日初優勝となるテレビ西日本に、前述の生放送での映像切り替えに使用された切り替えボタンがトロフィー代わりにテレビ新広島に授与された。
-21. 2012年から2016年までは、当日に重賞レースが2つ組まれた場合はそのうちの1つを中継していた。
-22. 「すぽると」「[スポーツLIFE HERO'S](https://ja.wikipedia.org/wiki/スポーツLIFE_HERO'S "wikilink")」単発での特別番組放送がなかった2008年 - 2010年と2013年、2014年、2016年も『[さんま・中居の今夜も眠れない](https://ja.wikipedia.org/wiki/さんま・中居の今夜も眠れない "wikilink")』に内包する形で10分程度のスポーツニュースをこの番組の女性キャスター2名が担当して伝えている。ただ通常の番組とは大幅に時間が短いダイジェスト編集のため、プロ野球・Jリーグの結果速報は各2試合程度で、残りは字幕のみという形になっている
-23. 2011年のニュースの時間にはアナログ放送が終了するため放送せず、フルネットとなった。
-24. NNSおよびFNSには加盟しているものの、両ネットワークの業務協定に参加していない準加盟に近い形態となっている。
-25. 2017年は18:00-20:25に『[ワールドグランドチャンピオンズカップバレー](https://ja.wikipedia.org/wiki/2017年ワールドグランドチャンピオンズカップ "wikilink")』（日本テレビ製作）を放送された為、後日に振替放送された。
-26. [NNS系列には非加盟だった](../Page/日本テレビネットワーク協議会.md "wikilink")。
+2.
+3.  クイズ出題以外のコーナー（「ニュースコーナー」・「列島リレーニュース」）では、露木茂が進行。
+4.  27日早朝の「世紀の早朝ゴルフ対決 IN 大箱根」から参加。これは、放送直前まで「[FNNニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")」の土曜日キャスターを担当していた関係上。27日早朝までは、インフォメーション担当の牧原俊幸が進行。
+5.  参議院議員通常選挙実施日だったため、開票速報を交えた放送となった。
+6.  [フジ27時間TV全平均9・8%、昨年下回る](http://www.bunkatsushin.com/news/article.aspx?id=78828) 文化通信.com 2013年8月6日閲覧。
+7.  2014年6月15日放送の『[ワイドナB面](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")』で発表された。
+8.  [FNS27時間テレビ2016](http://www.fujitv.co.jp/fujitv/news/pub_2016/160607-i132.html) フジテレビ2016年6月7日閲覧
+9.  [フジ「27時間テレビ」視聴率7･7% 13年下回りワーストに](http://www.sponichi.co.jp/entertainment/news/2016/07/25/kiji/K20160725013028600.html) スポニチアネックス 2016年7月26日配信・閲覧
+10. [1](http://www.fujitv.co.jp/27h/index.html) フジテレビ2017年7月18日閲覧
+11. [2](http://www.fujitv.co.jp/27h/) フジテレビ2018年6月21日閲覧
+12. [フジ「27時間テレビ」視聴率は7.3% 歴代ワーストに](https://www.sponichi.co.jp/entertainment/news/2018/09/10/kiji/20180909s00041000479000c.html) - スポーツニッポン新聞社、2018年9月10日配信、同日閲覧
+13. [3](http://www.fujitv.co.jp/27h/) フジテレビ2019年7月8日閲覧
+14. [フジ「27時間テレビ」歴代最低視聴率5・8％　グランドフィナーレは8・3％](https://www.sponichi.co.jp/entertainment/news/2019/11/05/kiji/20191103s00041000335000c.html) - スポーツニッポン、2019年11月5日配信、同日閲覧
+15. 意味としては[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")と[住宅](https://ja.wikipedia.org/wiki/住宅 "wikilink")（御宅）を引っ掛けたテーマ。実際に、本番中（24時間以内）に一軒家を建てようという企画が行われ、オタク評論家[宅八郎](../Page/宅八郎.md "wikilink")がゲスト出演した。
+16. [FNS27時間テレビ2015](http://www.fujitv.co.jp/27h/index.html) フジテレビ2015年4月15日閲覧
+17. [FNS27時間テレビ2016](http://www.fujitv.co.jp/27h/baske-kiyaku.html)フジテレビ2016年5月26日閲覧
+18. [FNS27時間テレビ2016](http://www.fujitv.co.jp/27h/sokkuri-kiyaku.html)フジテレビ2016年5月26日閲覧
+19. FNS各局だけでなく飛び入りで参加できた。（FNS27時間テレビ2016公式サイト・7月25日閲覧）
+20. [FNS27時間テレビ2017](http://www.fujitv.co.jp/27h/index.html)フジテレビ2017年8月6日閲覧
+21. 本来は1局のみが優勝となる予定だったが、MCのビートたけしの判断で、[達川光男](../Page/達川光男.md "wikilink")に関するエピソードをとりあげた2局が同時優勝となった。なお、達川はVTRだけでなく、放送当日に一日店長を務めていた[広島ガス](../Page/広島ガス.md "wikilink")尾道支店からの生放送という形でも出演。トロフィーが1つしか用意されていなかったため、本来のトロフィーはFNSの日初優勝となるテレビ西日本に、前述の生放送での映像切り替えに使用された切り替えボタンがトロフィー代わりにテレビ新広島に授与された。
+22. 2012年から2016年までは、当日に重賞レースが2つ組まれた場合はそのうちの1つを中継していた。
+23. 「すぽると」「[スポーツLIFE HERO'S](https://ja.wikipedia.org/wiki/スポーツLIFE_HERO'S "wikilink")」単発での特別番組放送がなかった2008年 - 2010年と2013年、2014年、2016年も『[さんま・中居の今夜も眠れない](https://ja.wikipedia.org/wiki/さんま・中居の今夜も眠れない "wikilink")』に内包する形で10分程度のスポーツニュースをこの番組の女性キャスター2名が担当して伝えている。ただ通常の番組とは大幅に時間が短いダイジェスト編集のため、プロ野球・Jリーグの結果速報は各2試合程度で、残りは字幕のみという形になっている
+24. 2011年のニュースの時間にはアナログ放送が終了するため放送せず、フルネットとなった。
+25. NNSおよびFNSには加盟しているものの、両ネットワークの業務協定に参加していない準加盟に近い形態となっている。
+26. 2017年は18:00-20:25に『[ワールドグランドチャンピオンズカップバレー](https://ja.wikipedia.org/wiki/2017年ワールドグランドチャンピオンズカップ "wikilink")』（日本テレビ製作）を放送された為、後日に振替放送された。
+27. [NNS系列には非加盟だった](../Page/日本テレビネットワーク協議会.md "wikilink")。

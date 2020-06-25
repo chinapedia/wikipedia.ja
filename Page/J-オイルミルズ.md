@@ -17,8 +17,8 @@
 
 #### ホーネンコーポレーション
 
-  - [1922年](../Page/1922年.md "wikilink")（[大正](../Page/大正.md "wikilink")11年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - **豊年製油株式会社**を設立。
-  - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）4月 - **株式会社ホーネンコーポレーション**に社名変更。
+  - [1922年](../Page/1922年.md "wikilink")（[大正](../Page/大正.md "wikilink")11年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - **[豊年製油](https://ja.wikipedia.org/wiki/豊年製油 "wikilink")株式会社**を設立。
+  - [1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）4月 - **株式会社[ホーネンコーポレーション](../Page/ホーネンコーポレーション.md "wikilink")**に社名変更。
 
 #### 味の素製油
 

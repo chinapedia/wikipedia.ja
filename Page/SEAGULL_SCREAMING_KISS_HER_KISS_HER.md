@@ -13,7 +13,7 @@
 
 ## メンバー
 
-  - [日暮愛葉](../Page/日暮愛葉.md "wikilink")
+  - [日暮愛葉](../Page/日暮愛葉.md "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[11月8日](../Page/11月8日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [中尾憲太郎](../Page/中尾憲太郎.md "wikilink")
+  - [中尾憲太郎](../Page/中尾憲太郎.md "wikilink")（[1974年](../Page/1974年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - おかもとなおこ
+  - おかもとなおこ（[1979年](../Page/1979年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - 蓮尾理之
+  - 蓮尾理之（[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
   -
     ギター担当。
-    快速東京。
+    [快速東京](https://ja.wikipedia.org/wiki/快速東京 "wikilink")。
 
 <!-- end list -->
 

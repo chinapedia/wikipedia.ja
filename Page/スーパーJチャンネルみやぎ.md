@@ -1,7 +1,7 @@
 > この記事は[スーパーJチャンネルみやぎ](https://ja.wikipedia.org/wiki/スーパーJチャンネルみやぎ)から翻訳されています。
 
 
-『**スーパーJチャンネルみやぎ**』（スーパージェイチャンネルみやぎ）は、2003年3月31日から2019年3月29日まで[東日本放送](../Page/東日本放送.md "wikilink") (KHB) で平日夕方に放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。[テレビ朝日](../Page/テレビ朝日.md "wikilink")発『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカルパートに相当する。
+『**スーパーJチャンネルみやぎ**』（スーパージェイチャンネルみやぎ）は、2003年3月31日から2019年3月29日まで[東日本放送](../Page/東日本放送.md "wikilink") (KHB) で平日夕方に放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。[テレビ朝日](../Page/テレビ朝日.md "wikilink")発『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』の[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")ローカルパートに相当する。
 
 ## 概要
 

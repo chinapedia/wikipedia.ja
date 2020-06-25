@@ -310,7 +310,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/カルバマゼピン" title="wikilink">カルバマゼピン</a>[179][180][181]</li>
 <li><a href="../Page/フェニトイン.md" title="wikilink">フェニトイン</a>[182][183]</li>
-<li><a href="https://ja.wikipedia.org/wiki/オクスカルバゼピン" title="wikilink">オクスカルバゼピン</a>[184]</li>
+<li><a href="../Page/オクスカルバゼピン.md" title="wikilink">オクスカルバゼピン</a>[184]</li>
 </ul></li>
 <li><a href="../Page/バルビツール酸系.md" title="wikilink">バルビツール酸系</a>[185]
 <ul>

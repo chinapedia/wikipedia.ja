@@ -3,7 +3,7 @@
 
 **CUTIE PARTY**（キューティーパーティー）は、[2006年](../Page/2006年.md "wikilink")10月7日から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月27日に[FM-FUJIで放送された](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")の[矢島舞美](../Page/矢島舞美.md "wikilink")・[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")・[岡井千聖](../Page/岡井千聖.md "wikilink")の3人。土曜23:00〜24:00の[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の番組『[Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")』の前半23:00〜23:30に放送された。
 
-なお、『Hello\! Project Night』の後半23:30〜24:00は、[新垣里沙](../Page/新垣里沙.md "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）がパーソナリティを務める「[GAKI・KAME](../Page/GAKI・KAME.md "wikilink")」である。
+なお、『Hello\! Project Night』の後半23:30〜24:00は、[新垣里沙](../Page/新垣里沙.md "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）がパーソナリティを務める「[GAKI・KAME](../Page/GAKI・KAME.md "wikilink")」である。
 
 ## 放送時間
 

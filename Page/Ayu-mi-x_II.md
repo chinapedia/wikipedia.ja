@@ -124,14 +124,14 @@
 
 ## ayu-mi-x II version Non-Stop Mega Mix
 
+### 内容
+
   - DISC1には、本作以外の『ayu-mi-x II』3タイトルに収録されたリミックスを、26曲（約74分）のノンストップ・メガ・ミックスとして収録。
   - DISC2には、未発表テイクを収録。
 
 ### 収録曲
 
-  - DISC1 Mega Mixed by Shoji Ueda
-
-<!-- end list -->
+#### DISC1 (Mega Mixed by Shoji Ueda)
 
 1.  kanariya "Main Radio Mix"
 2.  Fly high "Vincent De Moor Remix Radio Edit"
@@ -160,11 +160,7 @@
 25. End roll "da urban maesto mix" 〜Acoustic Orchestra version
 26. Who... "Blue Obsession Mix" 〜Acoustic Orchestra version
 
-<!-- end list -->
-
-  - DISC2
-
-<!-- end list -->
+#### DISC2
 
 1.  [Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink") "HΛL'S MIX 2000"
       -

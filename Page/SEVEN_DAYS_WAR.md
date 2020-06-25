@@ -1,19 +1,19 @@
 > この記事は[SEVEN DAYS WAR](https://ja.wikipedia.org/wiki/SEVEN_DAYS_WAR)から翻訳されています。
 
 
-**SEVEN DAYS WAR**（セブン・デイズ・ウォー）は[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")14枚目のシングル。
+「**SEVEN DAYS WAR**」（セブン・デイズ・ウォー）は[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")14枚目のシングル。
 
 ## 内容
 
-[1988年](../Page/1988年.md "wikilink")公開の[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")主演の実写[映画](../Page/映画.md "wikilink")『[ぼくらの七日間戦争](../Page/ぼくらの七日間戦争.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")。映画CMではサビ部分が使用された。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「GIRLFRIEND」も実写映画『ぼくらの七日間戦争』の[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")である。この曲で[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")出演も果たしている。同名の[サウンドトラックアルバムと平行してつくられたため](https://ja.wikipedia.org/wiki/SEVEN_DAYS_WAR_MUSIC_FROM_THE_ORIGINAL_MOTION_PICTURE_SOUNDTRACK "wikilink")、小室は「[ミュージカル](../Page/ミュージカル.md "wikilink")的要素、ミュージカルを感じるシングル」とコメントしている。\[1\]
+[1988年](../Page/1988年.md "wikilink")公開の[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")主演映画『[ぼくらの七日間戦争](../Page/ぼくらの七日間戦争.md "wikilink")』の主題歌。映画CMではサビ部分が使用された。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「GIRLFRIEND」も『ぼくらの七日間戦争』の[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")である。この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』出演も果たしている。同名の[サウンドトラックアルバムと並行してつくられたため](https://ja.wikipedia.org/wiki/SEVEN_DAYS_WAR_MUSIC_FROM_THE_ORIGINAL_MOTION_PICTURE_SOUNDTRACK "wikilink")、小室は「[ミュージカル](../Page/ミュージカル.md "wikilink")的要素、ミュージカルを感じるシングル」とコメントしている。\[1\]
 
 小室の作品として、初めてレコーディング作業の全工程を海外で行った作品である\[2\]。
 
-TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も認める程の難しさだったが、本楽曲はピアノ・ギター・ベース・ドラムスのみでシンセサイザーが無くても、十分本来の魅力が引き出せるような構成を心がけた\[3\]。
+TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も認める程の難しさだったが、本楽曲はピアノ・ギター・ベース・ドラムスのみでシンセサイザーがなくても、十分本来の魅力が引き出せるような構成を心がけた\[3\]。
 
 [コーラスに中学生](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")20人が入っており、マルチトラックレコーダーを用いて3回重ねて60声としている。この20人の中学生の中には、後に日本の大学へ進学し、エイベックスの洋楽レーベルから[OBLIVION DUSTのボーカリストとしてデビューする](https://ja.wikipedia.org/wiki/OBLIVION_DUST "wikilink")[ケン・ロイド](https://ja.wikipedia.org/wiki/ケン・ロイド "wikilink")がいた。
 
-また、[12弦ギター](../Page/12弦ギター.md "wikilink")を使用し全体的に厚みのある[アレンジとなっている](../Page/編曲.md "wikilink")。アルバム『[CAROL](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")』収録版では、コーラスや、ストリングスが排除されたアレンジとなっていて、[リミックス](../Page/リミックス.md "wikilink")アルバム『[TMN CLASSIX 2](../Page/TMN_CLASSIX.md "wikilink")』では、その『CAROL』収録版にさらに[シーケンス](https://ja.wikipedia.org/wiki/シーケンス "wikilink")[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")を重ねたアレンジとなっている。
+また、[12弦ギター](../Page/12弦ギター.md "wikilink")を使用し、全体的に厚みのある[アレンジとなっている](../Page/編曲.md "wikilink")。アルバム『[CAROL](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink")』収録版では、コーラスや、ストリングスが排除されたアレンジとなっていて、[リミックス](../Page/リミックス.md "wikilink")アルバム『[TMN CLASSIX 2](../Page/TMN_CLASSIX.md "wikilink")』では、その『CAROL』収録版にさらに[シーケンス](https://ja.wikipedia.org/wiki/シーケンス "wikilink")[フレーズ](https://ja.wikipedia.org/wiki/フレーズ "wikilink")を重ねたアレンジとなっている。
 
 [2019年](../Page/2019年.md "wikilink")公開のアニメ版にも使われている。宇都宮は「素敵なシーンで使っていただき大変光栄」とコメントしている。\[4\]
 
@@ -77,7 +77,7 @@ TMの楽曲は「アマチュアバンドでは再現しにくい」と小室も
 
 </div>
 
-[Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:戦争を題材とした作品 "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
+[Category:1988年のシングル](https://ja.wikipedia.org/wiki/Category:1988年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:角川映画の主題歌](https://ja.wikipedia.org/wiki/Category:角川映画の主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_せ](https://ja.wikipedia.org/wiki/Category:楽曲_せ "wikilink")
 
 1.  GB 1988年8月号 インタビュアー三浦雅子より 「TMN FINAL 4001」ソニーマガジンズ
 2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1992年3月号54Pより。

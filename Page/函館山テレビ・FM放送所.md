@@ -253,7 +253,7 @@
 </table>
 
   - NHK総合は1957年3月22日、NHK教育は1960年8月1日、HBCは1958年12月15日、STVは1961年12月22日\[1\]に開局し、2011年7月24日の停波で、全局廃局となった。
-  - なお、地上デジタル放送では付与されなかったコールサインについては、HBCでは[ラジオ局で同じコールサインを持っているために存続されるが](../Page/HBCラジオ.md "wikilink")、STVではテレビ｢JOMY-TV｣と[ラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")「JOWN」でコールサインが異なるため、｢JOMY(-TV)｣は、アナログ放送停波を以って、廃止された。
+  - なお、地上デジタル放送では付与されなかったコールサインについては、HBCでは[ラジオ局で同じコールサインを持っているために存続されるが](../Page/HBCラジオ.md "wikilink")、STVではテレビ｢JOMY-TV｣と[ラジオ](../Page/STVラジオ.md "wikilink")「JOWN」でコールサインが異なるため、｢JOMY(-TV)｣は、アナログ放送停波を以って、廃止された。
 
 ### FMラジオ放送
 
@@ -330,6 +330,10 @@
 <th><p>放送区域</p></th>
 <th><p>放送区域<br />
 内世帯数</p></th>
+<th><p>運用<br />
+開始日</p></th>
+<th><p>サービス<br />
+終了日</p></th>
 </tr>
 </thead>
 <tbody>
@@ -343,20 +347,25 @@
 木古内町、七飯町、森町の各一部、<br />
 青森県大間町の全域、風間浦村、佐井村の各一部</p></td>
 <td><p>約150,000世帯[7]</p></td>
+<td><p>2014年<br />
+7月18日</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><br />
+<a href="../Page/6月30日.md" title="wikilink">6月30日</a><br />
+[8][9]</p></td>
 </tr>
 </tbody>
 </table>
 
 #### 放送エリア
 
-  - 北海道函館市・北斗市、上磯郡知内町・木古内町、亀田郡七飯町・[森町](../Page/森町_\(北海道\).md "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[下北郡](../Page/下北郡.md "wikilink")[大間町](../Page/大間町.md "wikilink")・[風間浦村](../Page/風間浦村.md "wikilink")・[佐井村](../Page/佐井村.md "wikilink")の各一部\[8\]
+  - 北海道函館市・北斗市、上磯郡知内町・木古内町、亀田郡七飯町・[森町](../Page/森町_\(北海道\).md "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[下北郡](../Page/下北郡.md "wikilink")[大間町](../Page/大間町.md "wikilink")・[風間浦村](../Page/風間浦村.md "wikilink")・[佐井村](../Page/佐井村.md "wikilink")の各一部\[10\]
 
 #### 歴史
 
-  - [2014年](../Page/2014年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - [予備免許](../Page/予備免許.md "wikilink")交付\[9\]
-  - 2014年[5月13日](../Page/5月13日.md "wikilink") - [試験放送](../Page/試験放送.md "wikilink")開始\[10\]
-  - [2014年](../Page/2014年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") - 免許交付\[11\]
-  - 2014年[7月18日](../Page/7月18日.md "wikilink") - 放送開始\[12\]
+  - [2014年](../Page/2014年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - [予備免許](../Page/予備免許.md "wikilink")交付\[11\]
+  - 2014年[5月13日](../Page/5月13日.md "wikilink") - [試験放送](../Page/試験放送.md "wikilink")開始\[12\]
+  - [2014年](../Page/2014年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") - 免許交付\[13\]
+  - 2014年[7月18日](../Page/7月18日.md "wikilink") - 放送開始\[14\]
 
 ## 送信所置局住所
 
@@ -443,8 +452,10 @@
 5.  <http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=J&DFCD=0000009888&DD=1&styleNumber=01>
 6.  [携帯端末向けマルチメディア放送局の予備免許 －函館エリアで7月放送開始予定－](http://www.soumu.go.jp/soutsu/hokkaido/2014/0421c.html) - [総務省](../Page/総務省.md "wikilink")[北海道総合通信局](https://ja.wikipedia.org/wiki/北海道総合通信局 "wikilink")（2014年4月21日プレスリリース）
 7.
-8.
+8.  [「テレビと呼ぶには、面白すぎる」NOTTV、4年超でサービス終了](https://www.itmedia.co.jp/business/articles/1606/30/news153.html) IT Media 2016年6月30日 2020年5月24日閲覧
 9.
-10. [NEWS/函館送信所の試験電波発射](http://www.j-mobilecasting.com/news/2014/05/13/1147/) [ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink") 2014年5月13日掲載
-11. [NEWS/モバキャスサービス函館局の開局](http://www.j-mobilecasting.com/news/2014/07/14/1250/)  ジャパン・モバイルキャスティング 2014年7月14日掲載
-12.
+10.
+11.
+12. [NEWS/函館送信所の試験電波発射](http://www.j-mobilecasting.com/news/2014/05/13/1147/) [ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink") 2014年5月13日掲載
+13. [NEWS/モバキャスサービス函館局の開局](http://www.j-mobilecasting.com/news/2014/07/14/1250/)  ジャパン・モバイルキャスティング 2014年7月14日掲載
+14.

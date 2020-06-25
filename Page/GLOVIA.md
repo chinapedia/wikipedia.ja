@@ -1,7 +1,7 @@
 > この記事は[GLOVIA](https://ja.wikipedia.org/wiki/GLOVIA)から翻訳されています。
 
 
-**GLOVIA**（**グロービア**）は[富士通](../Page/富士通.md "wikilink")が開発・販売する統合ビジネスソリューションおよび業務管理ソフトウェアパッケージである。
+**GLOVIA**（**グロービア**）は[富士通](../Page/富士通.md "wikilink")が開発・販売する統合ビジネスソリューションおよび業務管理ソフトウェアパッケージである。国内の中小企業向け[ERPではトップクラスのシェアを誇る](../Page/企業資源計画.md "wikilink")\[1\]。
 
 ## 業務パッケージのラインナップ
 
@@ -29,4 +29,8 @@ Excelテンプレートと呼ばれるMicrosoft Excelのマクロを利用した
 
 サーバOSは[UNIX](../Page/UNIX.md "wikilink")
 
+## 脚注
+
 [Category:ビジネスソフト](https://ja.wikipedia.org/wiki/Category:ビジネスソフト "wikilink")
+
+1.

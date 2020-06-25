@@ -94,7 +94,7 @@
 
 ## 外部リンク
 
-  - [フジテレビムービー：That's カンニング\!　史上最大の作戦?](http://www.fujitv.co.jp/movie/01movie/19960000_05_M00.html)
+  - [フジテレビムービー：That's カンニング\!　史上最大の作戦?](https://www.fujitv.co.jp/movie/01movie/19960000_05_M00.html)
 
 [Category:ぼくたちの映画シリーズ](https://ja.wikipedia.org/wiki/Category:ぼくたちの映画シリーズ "wikilink") [Category:1996年の映画](https://ja.wikipedia.org/wiki/Category:1996年の映画 "wikilink") [Category:日本のロマンティック・コメディ映画](https://ja.wikipedia.org/wiki/Category:日本のロマンティック・コメディ映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:大学を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:大学を舞台とした映画作品 "wikilink") [Category:菅原浩志の監督映画](https://ja.wikipedia.org/wiki/Category:菅原浩志の監督映画 "wikilink") [Category:フジテレビ製作の映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作の映画 "wikilink") [Category:東映製作の映画作品](https://ja.wikipedia.org/wiki/Category:東映製作の映画作品 "wikilink") [Category:山口達也](https://ja.wikipedia.org/wiki/Category:山口達也 "wikilink") [Category:安室奈美恵](https://ja.wikipedia.org/wiki/Category:安室奈美恵 "wikilink")
 

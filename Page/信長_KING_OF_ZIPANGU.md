@@ -450,7 +450,7 @@
   - [大河ドラマ　信長　KING OF ZIPANGU - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010388_00000)
   - [番組エピソード大河ドラマ『信長 KING OF ZIPANGU』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga025)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1992年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1992年のテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK岐阜](https://ja.wikipedia.org/wiki/Category:NHK岐阜 "wikilink") [Category:NHK大津](https://ja.wikipedia.org/wiki/Category:NHK大津 "wikilink") [Category:織田信長を題材とした作品](https://ja.wikipedia.org/wiki/Category:織田信長を題材とした作品 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1992年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1992年のテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK岐阜](https://ja.wikipedia.org/wiki/Category:NHK岐阜 "wikilink") [Category:NHK大津](https://ja.wikipedia.org/wiki/Category:NHK大津 "wikilink") [Category:織田信長を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:織田信長を題材としたテレビドラマ "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink")
 
 1.  [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")特別番組「研究・織田信長〜NHK大河ドラマにみる信長の魅力〜」内・緒形直人インタビューより。
 2.  NHK大河ドラマ・ストーリー「信長」（日本放送協会出版、1992年）p10-11、緒形のインタビューより

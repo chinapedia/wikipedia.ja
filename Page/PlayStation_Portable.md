@@ -611,7 +611,7 @@ PSP-2000/3000の場合、別売りバッテリーカバーが必要。</p></td>
 <td><p>クレードル本体</p></td>
 <td><p>×</p></td>
 <td><p>○</p></td>
-<td><p>×</p></td>
+<td><p>○</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -627,7 +627,7 @@ PSP-2000/3000の場合、別売りバッテリーカバーが必要。</p></td>
 <td><p>クレードル</p></td>
 <td><p>×</p></td>
 <td><p>○</p></td>
-<td><p>×</p></td>
+<td><p>○</p></td>
 <td><p>PSP-S340とPSP-S350のセット。</p></td>
 </tr>
 <tr class="odd">
@@ -725,7 +725,7 @@ PSPJ-15009</p></td>
 <td><p>クレードル&amp;D端子ケーブル</p></td>
 <td><p>×</p></td>
 <td><p>○</p></td>
-<td><p>×</p></td>
+<td><p>○</p></td>
 <td><p>PSP-S170とPSP-S360のセット。</p></td>
 </tr>
 <tr class="odd">

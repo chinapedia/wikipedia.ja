@@ -34,7 +34,7 @@
 
 ### その他
 
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")ライブ用VTR
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")ライブ用VTR
 
 ## 外部リンク
 

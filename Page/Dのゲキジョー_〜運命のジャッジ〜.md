@@ -296,6 +296,6 @@
 
 ## 外部リンク
 
-  - [Dのゲキジョー - フジテレビ](http://www.fujitv.co.jp/b_hp/dgeki/index.html)
+  - [Dのゲキジョー - フジテレビ](https://www.fujitv.co.jp/b_hp/dgeki/index.html)
 
 [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:フジテレビのドキュメンタリー番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:みのもんた](https://ja.wikipedia.org/wiki/Category:みのもんた "wikilink") [Category:ハウフルス](https://ja.wikipedia.org/wiki/Category:ハウフルス "wikilink") [Category:ザ・ワークス](https://ja.wikipedia.org/wiki/Category:ザ・ワークス "wikilink")

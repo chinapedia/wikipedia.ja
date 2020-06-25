@@ -27,6 +27,7 @@
 
 ## 外部リンク
 
+  - [The Mix (2009 Remaster) - YouTube](https://www.youtube.com/playlist?list=OLAK5uy_kMf1-9FD-v5R9vfVUe01usg9y9N6JqOWk)
   - [Kraftwerk – The Mix](http://www.discogs.com/Kraftwerk-The-Mix/master/42218) - [Discogs](https://ja.wikipedia.org/wiki/Discogs "wikilink")
 
 [Category:クラフトワークのアルバム](https://ja.wikipedia.org/wiki/Category:クラフトワークのアルバム "wikilink") [Category:1991年のセルフカバー・アルバム](https://ja.wikipedia.org/wiki/Category:1991年のセルフカバー・アルバム "wikilink") [Category:EMIのアルバム](https://ja.wikipedia.org/wiki/Category:EMIのアルバム "wikilink") [Category:エレクトラ・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:エレクトラ・レコードのアルバム "wikilink")

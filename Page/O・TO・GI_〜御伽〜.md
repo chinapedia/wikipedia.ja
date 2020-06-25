@@ -78,4 +78,4 @@
 
   - [『O・TO・GI ～御伽～』公式サイト](http://www.fromsoftware.jp/top/soft/otogi/)
 
-[Category:フロム・ソフトウェアのゲームソフト](https://ja.wikipedia.org/wiki/Category:フロム・ソフトウェアのゲームソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:鬼を題材にした作品](https://ja.wikipedia.org/wiki/Category:鬼を題材にした作品 "wikilink") [Category:平安時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:平安時代を舞台とした作品 "wikilink")
+[Category:フロム・ソフトウェアのゲームソフト](https://ja.wikipedia.org/wiki/Category:フロム・ソフトウェアのゲームソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:鬼を題材にした作品](https://ja.wikipedia.org/wiki/Category:鬼を題材にした作品 "wikilink") [Category:平安時代を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:平安時代を舞台としたコンピュータゲーム "wikilink")

@@ -137,63 +137,6 @@
 | 61  | [蝦名達夫](../Page/蝦名達夫.md "wikilink")                    | 右 | 右 | 2019年ドラフト6位 |
 | 63  | [関根大気](https://ja.wikipedia.org/wiki/関根大気 "wikilink") | 左 | 左 |             |
 
-## チームスタッフ
-
-| 名前                                                      | 背番号 | 役職                                              |
-| ------------------------------------------------------- | --- | ----------------------------------------------- |
-| [狩野行寿](https://ja.wikipedia.org/wiki/狩野行寿 "wikilink")   | 111 | チーム付デスク兼ゲームアナリスト兼打撃投手                           |
-| [三橋直樹](../Page/三橋直樹.md "wikilink")                      | 112 | チーム付ゲームアナリスト兼[打撃投手](../Page/打撃投手.md "wikilink") |
-| [山下永吉](https://ja.wikipedia.org/wiki/山下永吉 "wikilink")   | 114 | チーム付デスク兼打撃投手                                    |
-| [中村辰哉](../Page/中村辰哉.md "wikilink")                      | 115 | 打撃投手                                            |
-| [宮下直季](https://ja.wikipedia.org/wiki/宮下直季 "wikilink")   | 116 | ファーム用具担当兼[ブルペン捕手](../Page/ブルペン捕手.md "wikilink") |
-| [福本誠](../Page/福本誠.md "wikilink")                        | 117 | 1軍用具担当兼査定担当補佐兼打撃投手                              |
-| [堤内健](../Page/堤内健.md "wikilink")                        | 118 | 1軍用具担当兼打撃投手                                     |
-| [前田浩継](../Page/前田浩継.md "wikilink")                      | 119 | 1軍サブマネジャー兼打撃投手                                  |
-| [深澤季生](../Page/深澤季生.md "wikilink")                      | 120 | ファーム用具担当兼ブルペン捕手                                 |
-| [定岡卓摩](../Page/定岡卓摩.md "wikilink")                      | 121 | 1軍用具担当補佐兼ブルペン捕手                                 |
-| [豊島明好](../Page/豊島明好.md "wikilink")                      | 124 | ファームマネージャー兼打撃投手                                 |
-| [具志堅秀樹](https://ja.wikipedia.org/wiki/具志堅秀樹 "wikilink") | 125 | 1軍用具担当補佐兼ブルペン捕手                                 |
-| [藤井秀悟](../Page/藤井秀悟.md "wikilink")                      | 221 | チーム付広報兼打撃投手                                     |
-| [西崎伸洋](../Page/西崎伸洋.md "wikilink")                      |     | 1軍運営GL兼1軍マネージャー                                 |
-| [桑原義行](../Page/桑原義行.md "wikilink")                      |     | 人材開発GL兼ファーム運営GL                                 |
-
-### ゲームアナリスト（スコアラー）
-
-| 名前                                                      | 役職           |
-| ------------------------------------------------------- | ------------ |
-| [横山道哉](../Page/横山道哉.md "wikilink")                      | アナリストGL      |
-| [有働克也](../Page/有働克也.md "wikilink")                      | ゲームアナリスト     |
-| [斉藤肇](../Page/斉藤肇.md "wikilink")                        | ゲームアナリスト     |
-| [東野峻](../Page/東野峻.md "wikilink")                        | チーム付ゲームアナリスト |
-| [靍岡賢二郎](https://ja.wikipedia.org/wiki/鶴岡賢二郎 "wikilink") | チーム付ゲームアナリスト |
-| [大原慎司](https://ja.wikipedia.org/wiki/大原慎司 "wikilink")   | ゲームアナリスト     |
-| [五十嵐英樹](../Page/五十嵐英樹.md "wikilink")                    | ファーム担当アナリスト  |
-
-### 編成・スカウト
-
-| 名前                                                           | 役職               | 備考      |
-| ------------------------------------------------------------ | ---------------- | ------- |
-| [萩原龍大](https://ja.wikipedia.org/wiki/萩原龍大 "wikilink")        | 取締役チーム統括本部長      |         |
-| 壁谷周介                                                         | チーム戦略部長          |         |
-| [進藤達哉](../Page/進藤達哉.md "wikilink")                           | 編成部長             |         |
-| [加古潤二](https://ja.wikipedia.org/wiki/加古潤二 "wikilink")        | 査定担当             |         |
-| [河原隆一](../Page/河原隆一.md "wikilink")                           | 編成部スカウティングディレクター |         |
-| [武居邦生](https://ja.wikipedia.org/wiki/武居邦生 "wikilink")        | 編成部アマスカウト        |         |
-| [欠端光則](../Page/欠端光則.md "wikilink")                           | 編成部アマスカウト        |         |
-| [八馬幹典](../Page/八馬幹典.md "wikilink")                           | 編成部アマスカウト        |         |
-| [篠原貴行](../Page/篠原貴行.md "wikilink")                           | 編成部アマスカウト        |         |
-| [稲嶺茂夫](../Page/稲嶺茂夫.md "wikilink")                           | 編成部アマスカウト        |         |
-| [吉見祐治](../Page/吉見祐治.md "wikilink")                           | 編成部アマスカウト        |         |
-| [安部建輝](https://ja.wikipedia.org/wiki/安部建輝 "wikilink")        | 編成部アマスカウト        |         |
-| [中川大志](https://ja.wikipedia.org/wiki/中川大志_\(野球\) "wikilink") | 編成部アマスカウト        |         |
-| [大久保弘司](../Page/大久保弘司.md "wikilink")                         | 編成部プロスカウト        | ウエスタン担当 |
-| [竹田光訓](../Page/竹田光訓.md "wikilink")                           | 編成部プロスカウト        | イースタン担当 |
-| [高崎健太郎](../Page/高崎健太郎.md "wikilink")                         | 編成部プロスカウト        | イースタン担当 |
-| [ルイス・ロペス](../Page/ルイス・ロペス_\(1964年生の内野手\).md "wikilink")      | 国際スカウト           |         |
-| [グレッグ・ハンセル](../Page/グレッグ・ハンセル.md "wikilink")                 | 国際スカウト           |         |
-| [住田ワタリ](../Page/住田ワタリ.md "wikilink")                         | 人材開発コーディネーター     |         |
-| 上林遼                                                          | 人材開発コーディネーター     |         |
-
 ## 退団・移籍した選手
 
 大洋・大洋松竹（洋松）・横浜大洋・横浜時代を含む。
@@ -673,6 +616,8 @@
   - [下町豊一](https://ja.wikipedia.org/wiki/下町豊一 "wikilink")（1951）
   - [ジェフ・シュワーズ](../Page/ジェフ・シュワーズ.md "wikilink")（1995 - 1995途）
   - [ジョー古河](../Page/古河有一.md "wikilink")（1996 - 1999）
+  - [スタン・ジョンソン](https://ja.wikipedia.org/wiki/スタン・ジョンソン "wikilink")（1969）
+  - [ダン・ジョンソン](../Page/ダン・ジョンソン.md "wikilink")（2009）
   - [白井正勝](../Page/白井正勝.md "wikilink")（1985 - 1990）
   - [白崎浩之](https://ja.wikipedia.org/wiki/白崎浩之 "wikilink")（2013 - 2018途）
   - [白根尚貴](https://ja.wikipedia.org/wiki/白根尚貴 "wikilink")（2016 - 2018）
@@ -681,8 +626,6 @@
   - [アウディ・シリアコ](https://ja.wikipedia.org/wiki/アウディ・シリアコ "wikilink")（2017）
   - [進藤達哉](../Page/進藤達哉.md "wikilink")（1988 - 2000）
   - [新谷嘉孝](../Page/新谷嘉孝.md "wikilink")（1984）
-  - [スタン・ジョンソン](https://ja.wikipedia.org/wiki/スタン・ジョンソン "wikilink")（1969）
-  - [ダン・ジョンソン](../Page/ダン・ジョンソン.md "wikilink")（2009）
 
 <!-- end list -->
 
@@ -1135,6 +1078,7 @@
   - [間柴富裕](../Page/間柴茂有.md "wikilink")（1970 - 1977）
   - [桝重正](https://ja.wikipedia.org/wiki/桝重正 "wikilink")（1953 - 1955）
   - [益田貢](https://ja.wikipedia.org/wiki/益田貢 "wikilink")（1955 - 1959）
+  - [トム・マストニー](https://ja.wikipedia.org/wiki/トム・マストニー "wikilink")（2009）
   - [増本宏](../Page/増本宏.md "wikilink")（1979 - 1987）
   - [松井武雄](https://ja.wikipedia.org/wiki/湊谷武雄 "wikilink")（1956 - 1962）
   - [松浦宏明](../Page/松浦宏明.md "wikilink")（1995途 - 終了）
@@ -1164,7 +1108,6 @@
   - [丸田卓](https://ja.wikipedia.org/wiki/丸田卓 "wikilink")（1958 - 1959）
   - [丸山二三雄](https://ja.wikipedia.org/wiki/丸山二三雄 "wikilink")（1951）
   - [スコット・マレン](../Page/スコット・マレン.md "wikilink")（2004）
-  - [トム・マストニー](https://ja.wikipedia.org/wiki/トム・マストニー "wikilink")（2009）
   - [万永貴司](../Page/万永貴司.md "wikilink")（1994 - 2006）
   - [萬谷康平](https://ja.wikipedia.org/wiki/萬谷康平 "wikilink")（2014 - 2016）
 
@@ -1374,7 +1317,7 @@
 
   - [ジョニー・ワーハス](../Page/ジョニー・ワーハス.md "wikilink")（1971）
   - [若田部健一](../Page/若田部健一.md "wikilink")（2003 - 2005）
-  - [若菜嘉晴](../Page/若菜嘉晴.md "wikilink")（1983途 - 1989途）
+  - [若菜嘉晴](../Page/若菜嘉晴.md "wikilink")（1983途 - 1988）
   - [若林憲一](../Page/若林憲一.md "wikilink")（1972 - 1981）
   - [若生照元](https://ja.wikipedia.org/wiki/若生照元 "wikilink")（1960 - 1963）
   - [渡辺清](https://ja.wikipedia.org/wiki/渡辺清_\(野球\) "wikilink")（1960 - 1961）
@@ -1445,5 +1388,10 @@
   - [日本のプロ野球選手一覧](../Page/日本のプロ野球選手一覧.md "wikilink")
   - [松竹ロビンスの選手一覧](../Page/松竹ロビンスの選手一覧.md "wikilink")
   - [横浜55年会](../Page/横浜55年会.md "wikilink")
+
+## 外部リンク
+
+  - [チーム情報](https://www.baystars.co.jp/team/) - 横浜DeNAベイスターズ
+  - [横浜DeNAベイスターズ 2020年度 選手一覧](http://npb.jp/bis/teams/rst_db.html) - NPB.jp 日本野球機構
 
 [Category:横浜DeNAベイスターズ及びその前身球団の選手](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ及びその前身球団の選手 "wikilink") [Category:プロ野球選手一覧](https://ja.wikipedia.org/wiki/Category:プロ野球選手一覧 "wikilink") [Category:横浜DeNAベイスターズ](https://ja.wikipedia.org/wiki/Category:横浜DeNAベイスターズ "wikilink")

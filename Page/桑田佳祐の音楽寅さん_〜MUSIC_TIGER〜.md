@@ -455,7 +455,7 @@
 
 <!-- end list -->
 
-1.  [Dear WOMAN](../Page/Dear_WOMAN.md "wikilink") （[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")） - フジテレビの社員食堂で披露。[鍵盤ハーモニカ](../Page/鍵盤ハーモニカ.md "wikilink")の演奏で深町栄が参加。
+1.  [Dear WOMAN](../Page/Dear_WOMAN.md "wikilink") （[SMAP](../Page/SMAP.md "wikilink")） - フジテレビの社員食堂で披露。[鍵盤ハーモニカ](../Page/鍵盤ハーモニカ.md "wikilink")の演奏で深町栄が参加。
 2.  [おふくろさん](../Page/おふくろさん.md "wikilink") （[森進一](../Page/森進一.md "wikilink")）〜[かあさんの歌](../Page/かあさんの歌.md "wikilink")（唱歌） - スタジオライブ。歌唱中には桑田と母・昌子\[23\]が一緒に写っている写真(子供時代やサザンがデビューして2年目に撮影されたもの)が放映された\[24\]。
 3.  Yesterday （ビートルズ） - 替え歌。第1回においての替え歌と別歌詞ながら同じ構成で、「[タマ捨てたでい](https://ja.wikipedia.org/wiki/睾丸 "wikilink")」と歌っている。
 4.  [おかあさん](../Page/おかあさん_\(ザ・テンプターズの曲\).md "wikilink") （[ザ・テンプターズ](../Page/ザ・テンプターズ.md "wikilink")） - 3.とともにニューハーフショーパブで披露。[アコーディオン](../Page/アコーディオン.md "wikilink")の演奏に深町、[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")に[金原千恵子](../Page/金原千恵子.md "wikilink")が参加。

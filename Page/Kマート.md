@@ -5,7 +5,7 @@
 
 菓子[問屋](../Page/問屋.md "wikilink")の[橘高](https://ja.wikipedia.org/wiki/橘高 "wikilink")が[1964年](../Page/1964年.md "wikilink")（昭和39年）に[食品スーパー](https://ja.wikipedia.org/wiki/食品スーパー "wikilink")としてチェーンを結成した\[3\]。本部は[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")にあり\[4\]、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")を中心に出店するも[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）に倒産した\[5\]。一部の事業者は[1993年](../Page/1993年.md "wikilink")（平成5年）に橘高が会社更生法の適用を申請した時点でKマートチェーンから離脱し、[全日食チェーン](../Page/全日食チェーン.md "wikilink")に鞍替えした\[6\]。
 
-[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に展開する[シアーズ・ホールディングス](../Page/シアーズ・ホールディングス.md "wikilink")グループの[Kmart](https://ja.wikipedia.org/wiki/Kmart "wikilink")、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")に[フジタコーポレーションが展開するKマート](https://ja.wikipedia.org/wiki/フジタコーポレーション_\(群馬県\) "wikilink")、さらには世界展開する（日本でもかつて[ファミリーマートが運営していた](https://ja.wikipedia.org/wiki/ファミリーマート_\(企業\) "wikilink")）[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")の[サークルK](../Page/サークルK.md "wikilink")とは無関係である。
+[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")に展開する[シアーズ・ホールディングス](../Page/シアーズ・ホールディングス.md "wikilink")グループの[Kmart](https://ja.wikipedia.org/wiki/Kmart "wikilink")、[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")に[フジタコーポレーションが展開するKマート](https://ja.wikipedia.org/wiki/フジタコーポレーション_\(群馬県\) "wikilink")、さらには世界展開する（日本でも存在したが撤退）[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")の[サークルK](../Page/サークルK.md "wikilink")とは無関係である。
 
 ## 概要
 

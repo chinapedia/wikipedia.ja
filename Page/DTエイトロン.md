@@ -510,7 +510,7 @@
 
 ## 外部リンク
 
-  - [DTエイトロン - フジテレビ](http://www.fujitv.co.jp/b_hp/dt8/)
+  - [DTエイトロン - フジテレビ](https://www.fujitv.co.jp/b_hp/dt8/)
 
   -
 [Category:サンライズ作品](https://ja.wikipedia.org/wiki/Category:サンライズ作品 "wikilink") [Category:フジテレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜アニメ "wikilink") [Category:アニメ作品_て](https://ja.wikipedia.org/wiki/Category:アニメ作品_て "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:SFアニメ](https://ja.wikipedia.org/wiki/Category:SFアニメ "wikilink") [Category:ディストピアを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:ディストピアを題材としたアニメ作品 "wikilink") [Category:文明崩壊後の世界が描かれたアニメ作品](https://ja.wikipedia.org/wiki/Category:文明崩壊後の世界が描かれたアニメ作品 "wikilink")

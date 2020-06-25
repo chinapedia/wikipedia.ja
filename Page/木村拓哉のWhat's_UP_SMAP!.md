@@ -7,7 +7,7 @@
 
 番組の正式名称は『木村拓哉のWhat's UP SMAP\!』で、[感嘆符](../Page/感嘆符.md "wikilink")が付く。番組開始当初は『木村拓哉のWhat's UP SMAP?』と[疑問符](../Page/疑問符.md "wikilink")付だったが、「なんとなく」変えたらしい。
 
-テレビ番組では語る事のないプライベートトークや、裏話なども多く話されるので、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のメンバーの話や収録裏話などを知ることが出来る番組。
+テレビ番組では語る事のないプライベートトークや、裏話なども多く話されるので、[SMAP](../Page/SMAP.md "wikilink")のメンバーの話や収録裏話などを知ることが出来る番組。
 
 以下に箇条書きで一例を表記する
 
@@ -30,13 +30,13 @@
 
 また、前述の通り毎回のように下ネタが十分に発揮されている。
 
-番組内での挨拶は、「こんばんBANG\!」や「こんばんWHAT'S」など、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")や番組を意識しての投稿が多く、番組内＆公式サイトでの呼び方は、「木村拓哉」ではなく、「拓哉キャプテン」や「キャプテン」と称されることが多い。
+番組内での挨拶は、「こんばんBANG\!」や「こんばんWHAT'S」など、[SMAP](../Page/SMAP.md "wikilink")や番組を意識しての投稿が多く、番組内＆公式サイトでの呼び方は、「木村拓哉」ではなく、「拓哉キャプテン」や「キャプテン」と称されることが多い。
 
 なお、放送作家は番組開始から一貫して[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")であり、稀に出演する場合もある。
 
 [2011年](../Page/2011年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")の放送ではSMAP全員が出演し、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")被災者へのメッセージを送った。
 
-番組内でかける音楽は、洋楽2曲、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")ソング1曲構成である事が多い。放送内容により、全てSMAPソングであったり、出演ドラマ主題歌等が流されることもある。
+番組内でかける音楽は、洋楽2曲、[SMAP](../Page/SMAP.md "wikilink")ソング1曲構成である事が多い。放送内容により、全てSMAPソングであったり、出演ドラマ主題歌等が流されることもある。
 
 「バレンタインデーに聴きたいSMAPの恋愛ソングランキング」や「木村拓哉が演じた役ランキング」など、色々なランキングを木村が当てていくコーナーもある。
 
@@ -46,7 +46,7 @@
 
 放送が開始されてしばらくの期間は木村のほか、TOKYO FMアナウンサー（当時）木村達彦（きむらたつひこ）も出演していたことがある。木村がキムタクと呼ばれるのに対して、木村達彦は「きむたつ」と呼ばれていた。ちなみに達彦は現在引退しているが、当時、SMAPとも紅白などで親交が深い[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")がDJを務める『[DJアッコのパニックスタジオ](https://ja.wikipedia.org/wiki/DJアッコのパニックスタジオ "wikilink")』も担当していた。
 
-2007年4月～2010年9月、番組の前後を『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』に挟まれており、その『SCHOOL OF LOCK\!』のパーソナリティーの[やましげ校長は](../Page/山崎樹範.md "wikilink")、この番組を「**キムタクLOCKS\!**」と称した（いつの間にか木村がSOLの教師になっていた）。
+2007年4月～2010年9月、番組の前後を『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』に挟まれており、その『SCHOOL OF LOCK\!』のパーソナリティーの[やましげ校長は](../Page/山崎樹範.md "wikilink")、この番組を「**キムタクLOCKS\!**」と称した（いつの間にか木村がSOLの教師になっていた）。
 
 [2009年](../Page/2009年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")放送分は、[太田光](../Page/太田光.md "wikilink")が番組冒頭ではディレクター役（「クリリン」こと栗原広志ディレクターが本来の役割の為、チーフディレクターを名乗る）、後半ではディレクターとしての番組ジャックを太田自ら出演して謝罪、この模様は2009年5月30日放送のTBSテレビ『[キズナ食堂](https://ja.wikipedia.org/wiki/キズナ食堂 "wikilink")』で放送された。
 
@@ -97,7 +97,7 @@
 ## 関連項目
 
   - [木村拓哉 Flow supported by GYAO\!](https://ja.wikipedia.org/wiki/木村拓哉_Flow_supported_by_GYAO! "wikilink") - 後継番組
-  - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") - 2007年3月 - 2010年9月、2016年7月 - 9月まで当番組を挟んで2部制で放送されていた。
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") - 2007年3月 - 2010年9月、2016年7月 - 9月まで当番組を挟んで2部制で放送されていた。
 
 ## 外部リンク
 

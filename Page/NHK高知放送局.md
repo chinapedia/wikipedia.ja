@@ -585,7 +585,7 @@
 前述の「みてみて高知12468」に関連して、新型コロナウイルスへの啓発を目的としたキャンペーンを[2020年](../Page/2020年.md "wikilink")に実施\[5\]。このキャンペーンでは、テレビだけでなくラジオ各局とも実施している。テレビでは夕方のニュース番組のキャスターが出演している。
 
   - テレビ：高知局（こうちいちばん、高橋篤史・中道洋司）、高知放送（[eye+スーパー](https://ja.wikipedia.org/wiki/eye+スーパー "wikilink")、雫石将克・[高橋生](https://ja.wikipedia.org/wiki/高橋生 "wikilink")）、テレビ高知（[情報パレット からふる](https://ja.wikipedia.org/wiki/情報パレット_からふる "wikilink")、中川美咲・[藤崎美希](https://ja.wikipedia.org/wiki/藤崎美希 "wikilink")）、高知さんさんテレビ（[プライムこうちF](https://ja.wikipedia.org/wiki/プライムこうちF "wikilink")、[玉井新平](../Page/玉井新平.md "wikilink")・[石井愛子](../Page/石井愛子.md "wikilink")）
-  - ラジオ：高知局・高知放送・[エフエム高知](../Page/エフエム高知.md "wikilink")
+  - ラジオ：高知局（[吉岡真央](https://ja.wikipedia.org/wiki/吉岡真央 "wikilink")、[瀬戸光](https://ja.wikipedia.org/wiki/瀬戸光 "wikilink")）・高知放送（[井上琢己](https://ja.wikipedia.org/wiki/井上琢己 "wikilink")、[石田佳代](https://ja.wikipedia.org/wiki/石田佳代 "wikilink")）・[エフエム高知](../Page/エフエム高知.md "wikilink")（[大西由梨](https://ja.wikipedia.org/wiki/大西由梨 "wikilink")、[加藤結](https://ja.wikipedia.org/wiki/加藤結 "wikilink")）
 
 ## 脚注
 

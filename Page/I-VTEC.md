@@ -22,6 +22,7 @@
   - [K型エンジン](../Page/ホンダ・K型エンジン.md "wikilink")：直列4気筒 DOHC 16バルブ 2.0L, 2.4L
   - [R型エンジン](../Page/ホンダ・R型エンジン.md "wikilink")：直列4気筒 SOHC 16バルブ 1.8L, 2.0L
   - [L型エンジン](../Page/ホンダ・L型エンジン.md "wikilink")：直列4気筒 SOHC 16バルブ 1.2L, 1.3L, 1.5L / DOHC 16バルブ 1.3L, 1.5L
+  - [S型エンジン](https://ja.wikipedia.org/wiki/ホンダ・S型エンジン "wikilink")：直列3気筒 DOHC 16バルブ 0.6L
 
 ## 関連項目
 

@@ -1,7 +1,7 @@
 > この記事は[OHKサタデー・サンデースピーク](https://ja.wikipedia.org/wiki/OHKサタデー・サンデースピーク)から翻訳されています。
 
 
-『**ポケモンサンデー**』とは、\>[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送されていた朝8時からの[エンターテイメント番組](https://ja.wikipedia.org/wiki/エンターテイメント番組 "wikilink")である。
+『**OHKサタデースピーク**』（オーエイチケーサタデースピーク）・『**OHKサンデースピーク**』（オーエイチケーサンデースピーク）とは、OHK[岡山放送](../Page/岡山放送.md "wikilink")で放送されていた昼前の[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 概要
 

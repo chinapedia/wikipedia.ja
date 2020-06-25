@@ -9,13 +9,15 @@
 
 設計は建築家の[黒川紀章](../Page/黒川紀章.md "wikilink")。
 
+１階正面玄関前に、[戸塚警察署が管理する](../Page/戸塚警察署_\(東京都\).md "wikilink")「高田馬場駅前交番」が併設されている\[1\]。
+
 走る人が壁面に大きく描かれていてよく目立つことで、集合の目印となっており、[早大生の](../Page/早稲田大学.md "wikilink")[コンパ](../Page/コンパ.md "wikilink")の待ち合わせ場所によく使われていた。
 
 しかし、完成から30年以上経過していて老朽化が見られることから、2007年6月1日から10月にかけて改修工事を行い、同年10月19日午前10:00に再オープンとなった。色もそれまでの赤から青を基調とした外観に大きく変更された。 また、[調布駅](../Page/調布駅.md "wikilink")北口構内そばのものと同様、交番は「*女性の安全相談所*」などと謳っていたことがある。
 
-2013年度に1 - 2階店舗の改修を行い、同年10月7日に[Emio](https://ja.wikipedia.org/wiki/Emio "wikilink")高田馬場-スタイル-としてリニューアルオープンしている\[1\]。
+2013年度に1 - 2階店舗の改修を行い、同年10月7日に[Emio](https://ja.wikipedia.org/wiki/Emio "wikilink")高田馬場-スタイル-としてリニューアルオープンしている\[2\]。
 
-出店している店舗のレジの大半は[PASMO](../Page/PASMO.md "wikilink")に対応している。
+出店している店舗のレジの大半は、[PASMO](../Page/PASMO.md "wikilink")や[Suica](../Page/Suica.md "wikilink")などの[交通系ICカードに対応している](../Page/乗車カード.md "wikilink")。
 
 **営業時間**
 
@@ -54,4 +56,5 @@
 
 [Category:西武鉄道グループ](https://ja.wikipedia.org/wiki/Category:西武鉄道グループ "wikilink") [Category:東京都の商業施設](https://ja.wikipedia.org/wiki/Category:東京都の商業施設 "wikilink") [Category:高田馬場](https://ja.wikipedia.org/wiki/Category:高田馬場 "wikilink") [Category:新宿区の建築物](https://ja.wikipedia.org/wiki/Category:新宿区の建築物 "wikilink") [Category:東大和市の建築物](https://ja.wikipedia.org/wiki/Category:東大和市の建築物 "wikilink") [Category:黒川紀章](https://ja.wikipedia.org/wiki/Category:黒川紀章 "wikilink") [Category:ボウリング場](https://ja.wikipedia.org/wiki/Category:ボウリング場 "wikilink") [Category:日本のスケートリンク](https://ja.wikipedia.org/wiki/Category:日本のスケートリンク "wikilink")
 
-1.  [10月7日（月）BIGBOX高田馬場リニューアル1階・2階に駅ナカ商業施設「エミオ オープン 」](http://www.seibupros.jp/news/20130912.pdf)（ニュースリリース） - 西武プロパティーズ（2013年9月12日）
+1.
+2.  [10月7日（月）BIGBOX高田馬場リニューアル1階・2階に駅ナカ商業施設「エミオ オープン 」](http://www.seibupros.jp/news/20130912.pdf)（ニュースリリース） - 西武プロパティーズ（2013年9月12日）

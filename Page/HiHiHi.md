@@ -186,7 +186,7 @@ KBCラジオ「[PAO〜N ぼくらラジオ異星人](../Page/PAO〜N.md "wikilin
       - 火曜日：川口香（象足時代より地元タレント事務所に所属）
       - 水曜日：小原良
       - 木曜日：[木原友香](../Page/木原友香.md "wikilink")（1995年度より[FM福岡のアナウンサーとして活躍し](../Page/エフエム福岡.md "wikilink")2003年9月からはフリー。[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")報道部の[近藤鉄太郎](../Page/近藤鉄太郎.md "wikilink")夫人）
-      - 金曜日：[中野早杜子](../Page/中野早杜子.md "wikilink")（モモコクラブ出身。[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")「[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")」レギュラーを経て現在は元・[プロ野球](../Page/プロ野球.md "wikilink")選手の[高波文一](../Page/高波文一.md "wikilink")夫人）
+      - 金曜日：[中野早杜子](../Page/中野早杜子.md "wikilink")（モモコクラブ出身。[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")「[恋のから騒ぎ](../Page/恋のから騒ぎ.md "wikilink")」レギュラーを経て現在は元・[プロ野球](../Page/プロ野球.md "wikilink")選手の[高波文一](../Page/高波文一.md "wikilink")夫人）
 
 <!-- end list -->
 

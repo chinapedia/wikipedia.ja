@@ -86,7 +86,7 @@
 ### ラジオ
 
   - [土曜ワイドラジオTOKYO 永六輔その新世界](../Page/土曜ワイドラジオTOKYO_永六輔その新世界.md "wikilink")・乙女探検隊が行く（[TBSラジオ](../Page/TBSラジオ.md "wikilink")、2008年9月27日）
-  - 『KIRIN 一番搾り [One More Pint\!](https://ja.wikipedia.org/wiki/One_More_Pint! "wikilink")』（[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")、2011年5月6日 -、毎週金曜日18:00 - 19:00） - メインパーソナリティ
+  - 『KIRIN 一番搾り [One More Pint\!](../Page/One_More_Pint!.md "wikilink")』（[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")、2011年5月6日 -、毎週金曜日18:00 - 19:00） - メインパーソナリティ
   - [OLERA](https://ja.wikipedia.org/wiki/OLERA "wikilink")（TBSラジオ、2014年9月 - 2015年3月）- 火曜日パーソナリティ
   - [たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")（TBSラジオ、2019年6月20日・8月29日）-　週替わり・代理パートナー
 

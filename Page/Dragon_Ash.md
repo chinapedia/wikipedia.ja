@@ -78,7 +78,7 @@
   -
 
       -
-        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。46歳没。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席でhideを遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、アンプヘッドにhide人形を飾っていたが、生前の[hide](https://ja.wikipedia.org/wiki/hide "wikilink")と直接の関わりは無かった。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")と[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")をこよなく愛していた。
+        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。没46歳。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席でhideを遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、アンプヘッドにhide人形を飾っていたが、生前の[hide](https://ja.wikipedia.org/wiki/hide "wikilink")と直接の関わりは無かった。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")と[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")をこよなく愛していた。
 
 ### 旧サポートメンバー
 
@@ -1563,7 +1563,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
   - 2008年07月12日 - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2008〜去年は台風でごめんな祭〜
   - 2008年08月03日 - ROCK IN JAPAN FESTIVAL 2008
   - 2008年08月30日 - RUSH BALL 2008
-  - 2008年09月27日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 08
+  - 2008年09月27日 - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR YOUNG FLAG 08
   - 2009年06月27日 - 一月早い前夜祭\! rockin'on presents JAPAN CIRCUIT -vol.47- PRE-FES NIGHT SHIBUYA-AX STAGE
   - 2009年07月05日 - 湘南音祭 Vol.3
   - 2009年07月11日 - 京都大作戦2009〜暑いのに熱くてごめんな祭〜

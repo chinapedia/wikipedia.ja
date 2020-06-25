@@ -493,7 +493,8 @@ SEKICHU</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><a href="http://www.medical-e.net/frame.html">予防医学総合研究所</a></p></td>
+<td><p><a href="http://www.medical-e.net/frame.html">予防医学<br />
+</a></p></td>
 <td><p><a href="http://www.toyoizumishika.com/">豊泉歯科医院</a></p></td>
 <td><p><a href="http://www.enza.jp/">ENZA<br />
 </a></p></td>

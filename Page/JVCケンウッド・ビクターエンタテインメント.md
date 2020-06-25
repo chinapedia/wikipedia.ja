@@ -312,7 +312,7 @@
   - [いしだあゆみ](../Page/いしだあゆみ.md "wikilink")（1964年〜、 → [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[コロムビアに移籍](../Page/日本コロムビア.md "wikilink")、[1980年代](../Page/1980年代.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink") → [CBS・ソニーを経て](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[トーラスレコード](../Page/トーラスレコード.md "wikilink")に移籍後は女優業に専念）
   - [石野真子](../Page/石野真子.md "wikilink") (1978年〜)
   - [磯貝サイモン](../Page/磯貝サイモン.md "wikilink") (2006年〜2008年)
-  - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（1991年〜2016年、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
+  - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
   - [井上望](../Page/井上望.md "wikilink") (1979年〜1982年)（引退後、[エド山口](../Page/エド山口.md "wikilink")と結婚。母親になった後は[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")として復帰）
   - [岩崎宏美](../Page/岩崎宏美.md "wikilink")（1975年〜2000年、 → [2001年](../Page/2001年.md "wikilink")、[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")）（[Imperial Records](../Page/インペリアルレコード_\(日本\).md "wikilink"))に移籍。）
   - [魚海洋司](https://ja.wikipedia.org/wiki/魚海洋司 "wikilink") (1987年)
@@ -338,7 +338,7 @@
   - [オトナモード](../Page/オトナモード.md "wikilink") (2006年〜2010年)
   - [オヨネーズ](../Page/オヨネーズ.md "wikilink") (1989年〜1998年)
   - [甲斐智枝美](../Page/甲斐智枝美.md "wikilink")（1980年〜1982年、 → その後女優に転身、1990年に結婚・引退）
-  - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink") （1991年〜2016年、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
+  - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink") （1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
   - [金子美香](../Page/金子美香.md "wikilink") (1987年〜1992年)
   - [金沢明子](../Page/金沢明子.md "wikilink")
   - [カヒミ・カリィ](../Page/カヒミ・カリィ.md "wikilink") (2003年〜2010年)
@@ -356,7 +356,7 @@
   - [京本政樹](../Page/京本政樹.md "wikilink") (1984年〜1986年)（1988年移籍後、2013年よりビクターからリリース）
   - [清浦夏実](../Page/清浦夏実.md "wikilink") (2008年〜2011年)
   - [THE GOOD-BYE](../Page/THE_GOOD-BYE.md "wikilink") (1983年〜1990年)
-  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（1991年〜2016年、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
+  - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として。解散後、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")退社後、[新しい地図](https://ja.wikipedia.org/wiki/新しい地図 "wikilink")として[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍）
   - [クラッシュギャルズ](../Page/クラッシュギャルズ.md "wikilink") (1984年〜1988年)
   - [倉橋ヨエコ](../Page/倉橋ヨエコ.md "wikilink")（2005年〜[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")廃業）
   - [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink") (2012年〜2014年)（2014年、[ユニバーサルミュージックへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
@@ -412,7 +412,7 @@
   - [Sweet Vacation](../Page/Sweet_Vacation.md "wikilink") (2008年〜2010年)
   - [須賀響子](../Page/須賀響子.md "wikilink") (1994年〜1997年)
   - [スカポンタス](../Page/スカポンタス.md "wikilink") (2003年〜2006年)
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（1991年〜2016年、グループ解散のため）
+  - [SMAP](../Page/SMAP.md "wikilink")（1991年〜2016年、グループ解散のため）
       - \&G (2004年)
       - 香取慎吾&原由子 (1997年)
       - Goro Inagaki・Jody Watley (1993年)
@@ -463,7 +463,7 @@
 
   - [ナイス橋本](../Page/ナイス橋本.md "wikilink") (2006年〜2009年)
   - [仲雅美](https://ja.wikipedia.org/wiki/仲雅美 "wikilink") (1970年〜1974年)
-  - [中居正広](../Page/中居正広.md "wikilink") (1991年〜2016年、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")として)
+  - [中居正広](../Page/中居正広.md "wikilink") (1991年〜2016年、[SMAP](../Page/SMAP.md "wikilink")として)
   - [中尾ミエ](../Page/中尾ミエ.md "wikilink") (1962年〜1989年)
   - [中島愛](../Page/中島愛_\(声優\).md "wikilink") (2009年〜2014年)
   - [中坪健](https://ja.wikipedia.org/wiki/中坪健 "wikilink")

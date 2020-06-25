@@ -25,6 +25,6 @@
 
 ## 外部リンク
 
-  - [日本列島元気満点\!力あわせてゴーゴゴー](http://www.fujitv.co.jp/b_hp/gogogo-p/) - フジテレビ
+  - [日本列島元気満点\!力あわせてゴーゴゴー](https://www.fujitv.co.jp/b_hp/gogogo-p/) - フジテレビ
 
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:ネプチューン](https://ja.wikipedia.org/wiki/Category:ネプチューン "wikilink") [Category:IVSテレビ制作](https://ja.wikipedia.org/wiki/Category:IVSテレビ制作 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

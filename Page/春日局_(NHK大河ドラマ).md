@@ -524,7 +524,7 @@
 
 ## 放送
 
-特記が無い限り\[<http://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
+特記が無い限り\[<https://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
 
 ### 通常放送時間
 
@@ -626,7 +626,7 @@
 
   - [大河ドラマ　春日局 - NHK名作選（動画・静止画） NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010043_00000)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1989年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1989年のテレビドラマ "wikilink") [Category:橋田壽賀子のシナリオ作品](https://ja.wikipedia.org/wiki/Category:橋田壽賀子のシナリオ作品 "wikilink") [Category:安土桃山時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台とした作品 "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:大坂の陣を題材とした作品](https://ja.wikipedia.org/wiki/Category:大坂の陣を題材とした作品 "wikilink") [Category:NHK神戸](https://ja.wikipedia.org/wiki/Category:NHK神戸 "wikilink") [Category:NHK京都](https://ja.wikipedia.org/wiki/Category:NHK京都 "wikilink") [Category:大奥を題材とした作品](https://ja.wikipedia.org/wiki/Category:大奥を題材とした作品 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1989年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1989年のテレビドラマ "wikilink") [Category:NHK神戸](https://ja.wikipedia.org/wiki/Category:NHK神戸 "wikilink") [Category:NHK京都](https://ja.wikipedia.org/wiki/Category:NHK京都 "wikilink") [Category:橋田壽賀子のシナリオ作品](https://ja.wikipedia.org/wiki/Category:橋田壽賀子のシナリオ作品 "wikilink") [Category:安土桃山時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:安土桃山時代を舞台としたテレビドラマ "wikilink") [Category:江戸時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸時代を舞台としたテレビドラマ "wikilink") [Category:大坂の陣を題材とした作品](https://ja.wikipedia.org/wiki/Category:大坂の陣を題材とした作品 "wikilink") [Category:大奥を題材とした作品](https://ja.wikipedia.org/wiki/Category:大奥を題材とした作品 "wikilink")
 
 1.  その調査はお楽を主人公にした時代劇「[東芝日曜劇場](https://ja.wikipedia.org/wiki/東芝日曜劇場 "wikilink")1500回記念ドラマ『[花のこころ](https://ja.wikipedia.org/wiki/花のこころ "wikilink")』」の脚本のためのものであった。なお同作品には主人公のお楽（おらん）役に大原麗子が起用された。
 2.  『NHK大河ドラマストーリー春日局』（日本放送出版協会、1989年）

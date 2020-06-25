@@ -11,7 +11,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sony_RDZ-D700.jpg "wikilink") DVDプレーヤーは[テレビ等のモニターに接続して視聴する](https://ja.wikipedia.org/wiki/テレビ受像器 "wikilink")。DVDプレーヤー単体製品のほか[レーザーディスク](../Page/レーザーディスク.md "wikilink") (LD) とのコンバチブルプレーヤー、[VHS](../Page/VHS.md "wikilink")との一体型（一部の製品は、[S-VHS](../Page/S-VHS.md "wikilink")にも対応）などがある。またCDと同様に[ディスクサイズが](../Page/ディスクメディア.md "wikilink")12cmと小型であるため[ラジカセ](https://ja.wikipedia.org/wiki/ラジカセ "wikilink")や[カーオーディオ](../Page/カーオーディオ.md "wikilink")、[カーナビゲーション](../Page/カーナビゲーション.md "wikilink")でもDVDの再生が可能な機種がある。[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")や[スピーカー](../Page/スピーカー.md "wikilink")を搭載し、可搬性のあるポータブルDVDプレーヤーもある。内蔵[バッテリーにより](../Page/二次電池.md "wikilink")、単体でもおおむね2時間程度の再生が可能である。
 
-最初のDVDプレーヤー（据え置き型）は[1996年](../Page/1996年.md "wikilink")に発売された。1996年当時は最も下位の機種でも6 - 8万円程度と高価であったことや、対応ソフトの少なさから普及の出足は鈍かったが、2000年以降はプレーヤーの低価格化が進み、DVDソフトの普及が一気に進んだ。
+最初のDVDプレーヤー（据え置き型）は[1996年](../Page/1996年.md "wikilink")11月に発売された。1996年当時は最も下位の機種でも6 - 8万円程度と高価であったことや、対応ソフトの少なさから普及の出足は鈍かった。1998年初頭において、日本でDVDプレーヤーの出荷台数は20万台前後であり、家庭への普及台数は「10万台すら怪しい」という\[1\]。2000年以降はプレーヤーの低価格化が進み、DVDソフトの普及が一気に進んだ。
 
 DVDプレーヤー以外に[2000年](../Page/2000年.md "wikilink")にDVD-Video再生対応の[ゲーム](../Page/ゲーム.md "wikilink")機「[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")」（当初の標準価格は39800円）が発売された。以後日本で発売された[ゲーム](../Page/ゲーム.md "wikilink")機では[Q](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ#互換機「Q」 "wikilink")（[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")の派生機種）、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation 4がDVD](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")-Video再生に対応している。
 
@@ -71,6 +71,8 @@ BDプレーヤーの普及に伴い、DVD専用機の生産は縮小している
 
 「DVD再生ソフトウェア」は単体機器としてのDVDプレーヤーに搭載されているデジタル信号処理をソフトウェアで実現したものである。途切れのない再生のためにはパソコンにはある程度処理能力が求められる（力不足のマシンを使うとコマ落ちが発生する）。
 
+## 脚注
+
 ## 関連項目
 
   - [DVD](../Page/DVD.md "wikilink")
@@ -85,3 +87,5 @@ BDプレーヤーの普及に伴い、DVD専用機の生産は縮小している
 [pl:DVD\#Odtwarzacz DVD](https://ja.wikipedia.org/wiki/pl:DVD#Odtwarzacz_DVD "wikilink")
 
 [Category:DVD関連のソフト](https://ja.wikipedia.org/wiki/Category:DVD関連のソフト "wikilink") [Category:ビデオディスク](https://ja.wikipedia.org/wiki/Category:ビデオディスク "wikilink") [Category:DVD](https://ja.wikipedia.org/wiki/Category:DVD "wikilink") [Category:AV機器](https://ja.wikipedia.org/wiki/Category:AV機器 "wikilink") [Category:メディアプレーヤーソフト](https://ja.wikipedia.org/wiki/Category:メディアプレーヤーソフト "wikilink")
+
+1.  『日経マルチメディア』（後の『[日経ネットビジネス](https://ja.wikipedia.org/wiki/日経ネットビジネス "wikilink")』）1998年3月号、50頁。

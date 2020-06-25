@@ -340,7 +340,7 @@
 
   -
   -
-[Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ朝日の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜アニメ "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:小学館集英社プロダクションのアニメ作品](https://ja.wikipedia.org/wiki/Category:小学館集英社プロダクションのアニメ作品 "wikilink") [Category:巨大ロボットを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ作品 "wikilink") [Category:九州地方を舞台とした作品](https://ja.wikipedia.org/wiki/Category:九州地方を舞台とした作品 "wikilink")
+[Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:テレビ朝日の深夜アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜アニメ "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:エイベックス・グループのアニメ作品](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアニメ作品 "wikilink") [Category:小学館集英社プロダクションのアニメ作品](https://ja.wikipedia.org/wiki/Category:小学館集英社プロダクションのアニメ作品 "wikilink") [Category:巨大ロボットを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ作品 "wikilink") [Category:九州地方を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:九州地方を舞台としたアニメ作品 "wikilink")
 
 1.  [小学館プロダクション](https://ja.wikipedia.org/wiki/小学館プロダクション "wikilink")刊『破邪巨星Gダンガイオー記録全集』（2001年11月発刊、ISBN 4-7968-7014-8）より。
 2.

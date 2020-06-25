@@ -17,7 +17,7 @@
 
 ### ラジオパーソナリティとして
 
-2018年10月より、ラジオパーソナリティとしての活動を開始。東海オンエアメンバーの[ゆめまる](https://ja.wikipedia.org/wiki/ゆめまる "wikilink")と共同でパーソナリティを務めている。
+2018年10月より、ラジオパーソナリティとしての活動を開始。[東海オンエアラジオ](https://ja.wikipedia.org/wiki/東海オンエアラジオ "wikilink")では東海オンエアメンバーの[ゆめまる](https://ja.wikipedia.org/wiki/ゆめまる "wikilink")と共同でパーソナリティを務めている。
 
   - 番組歴
     [2018年](../Page/2018年.md "wikilink")10月、[東海ラジオで](../Page/東海ラジオ放送.md "wikilink")『[東海オンエアラジオ](https://ja.wikipedia.org/wiki/東海オンエアラジオ "wikilink")』開始。

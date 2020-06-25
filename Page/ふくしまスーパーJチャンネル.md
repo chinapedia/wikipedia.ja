@@ -1,7 +1,7 @@
 > この記事は[ふくしまスーパーJチャンネル](https://ja.wikipedia.org/wiki/ふくしまスーパーJチャンネル)から翻訳されています。
 
 
-『**ふくしまスーパーJチャンネル**』（ふくしまスーパージェイチャンネル）は、[福島放送](../Page/福島放送.md "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から放送されている、『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』を内包した[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+『**ふくしまスーパーJチャンネル**』（ふくしまスーパージェイチャンネル）は、[福島放送](../Page/福島放送.md "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から放送されている、『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』を内包した[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 概要
 
@@ -264,7 +264,7 @@
 
   - [KFBステーションEYE](../Page/KFBステーションEYE.md "wikilink")
   - [ふくしまニュース1番街](../Page/ふくしまニュース1番街.md "wikilink")
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 外部リンク

@@ -10,7 +10,7 @@
   - 「THE END OF ASIA」はアルバム『YMO GO HOME\!』収録のクリーン・イントロ・バージョン、「SOLID STATE SURVIVOR」は初登場のフェイド・アウトが長いロング・バージョン。
   - Sony Musicの公式HPに掲載された坂本のインタビューによれば、選曲に際し「（特定の作曲者に）偏らないように気を配った」という。
   - 各収録曲には、曲に関する思い出を中心とした坂本の解説が掲載されている。
-  - テッド・ジャンセンにより[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")が施されている。
+  - [テッド・ジェンセン](https://ja.wikipedia.org/wiki/テッド・ジェンセン "wikilink")により[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")が施されている。
   - YMOとして初めて「[SACD](../Page/Super_Audio_CD.md "wikilink")」でも発売された。
   - 一般ヴァージョンとプレミアムヴァージョンの二種類で発売され、プレミアムヴァージョンには1980年のワールドツアーでメンバーが着用したのと同仕様のシャツとバンダナが同梱された。
   - アルバム発売時の関連企画として、[大村憲司](../Page/大村憲司.md "wikilink")、[松武秀樹](../Page/松武秀樹.md "wikilink")、[クリス・モスデルなど](https://ja.wikipedia.org/wiki/クリス・モズデル "wikilink")、YMOに関わりのあったアーティストの旧譜が紙ジャケットで限定復刻された。

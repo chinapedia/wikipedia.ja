@@ -100,7 +100,7 @@ A\*の性質はhの性質によって大きく左右される。
 
 ## 参照
 
-[Category:検索アルゴリズム](https://ja.wikipedia.org/wiki/Category:検索アルゴリズム "wikilink") [Category:アルゴリズム](https://ja.wikipedia.org/wiki/Category:アルゴリズム "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
+[Category:検索アルゴリズム](https://ja.wikipedia.org/wiki/Category:検索アルゴリズム "wikilink") [Category:アルゴリズム](https://ja.wikipedia.org/wiki/Category:アルゴリズム "wikilink") [Category:ゲーム人工知能](https://ja.wikipedia.org/wiki/Category:ゲーム人工知能 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
 
 1.  Pearl,Judea. "Heuristics: intelligent search strategies for computer problem solving." (1984).
 2.  Hoffmann, Jörg, and Bernhard Nebel. "The FF planning system: Fast plan generation through heuristic search." Journal of Artificial Intelligence Research (2001): 253-302.

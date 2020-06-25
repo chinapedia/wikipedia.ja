@@ -19,7 +19,7 @@
 
 （6時台）
 
-  - [おはようSMAP](../Page/おはようSMAP.md "wikilink") - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が東京地方の天気を伝える。
+  - [おはようSMAP](../Page/おはようSMAP.md "wikilink") - [SMAP](../Page/SMAP.md "wikilink")が東京地方の天気を伝える。
   - [コスモアースコンシャスアクト ずっと地球で暮らそう。](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink") - 2003年4月に独立した番組としてスタート。JFNとコスモ石油が共同で繰り広げているキャンペーン「アースコンシャス〜地球を愛し、感じる心」に関連した番組。6Senseスタートと同時にこの番組内に内包。
   - [マルコメ カラダがよろこぶ朝ごはん](https://ja.wikipedia.org/wiki/マルコメ_カラダがよろこぶ朝ごはん "wikilink") - 簡単でおいしい朝ごはんのレシピを紹介。
   - [MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink") - [ジャパンエフエムネットワーク制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。

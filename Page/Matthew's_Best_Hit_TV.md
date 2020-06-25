@@ -72,7 +72,7 @@
 
 会員は以下の2名。
 
-  - [紺野あさ美](../Page/紺野あさ美.md "wikilink")（元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+  - [紺野あさ美](../Page/紺野あさ美.md "wikilink")（元[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
   - [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")
 
 ## 主なコーナー

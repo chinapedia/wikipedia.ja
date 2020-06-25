@@ -367,7 +367,7 @@
           - 作詞・作曲：北川勝利 / 編曲：ROUND TABLE・桜井康史
     2.  Just For You
           - 『ARIA The ANIMATION』挿入歌
-          - [KBCテレビ情報番組](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")『[アサデス。](https://ja.wikipedia.org/wiki/アサデス。 "wikilink")』オープニングテーマ
+          - [KBCテレビ情報番組](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")『[アサデス。](../Page/アサデス。.md "wikilink")』オープニングテーマ
           - 作詞：伊藤利恵子 / 作曲：北川勝利 / 編曲：ROUND TABLE・桜井康史・宮川弾
     3.  Rainbow（Instrumental）
     4.  Just For You（Instrumental）

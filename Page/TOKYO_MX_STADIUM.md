@@ -133,12 +133,12 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
 ### 高校野球
 
-  - [全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")東東京大会・西東京大会（準々決勝以降、いずれも神宮球場）※かつては[府中市民球場](../Page/府中市民球場.md "wikilink")や[江戸川区球場](../Page/江戸川区球場.md "wikilink")などから中継したこともあった。
+  - [全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")東東京大会・西東京大会（準々決勝以降、いずれも神宮球場）※かつては1回戦から[府中市民球場](../Page/府中市民球場.md "wikilink")や[江戸川区球場](../Page/江戸川区球場.md "wikilink")などから中継したこともあった。
   - 2017年より準決勝以降に縮小。
 
 ### 大学野球
 
-  - [東京六大学野球](https://ja.wikipedia.org/wiki/東京六大学野球 "wikilink") ※現在は[スカイ・A sports+で放送](../Page/スカイ・エー.md "wikilink")
+  - [東京六大学野球中継](https://ja.wikipedia.org/wiki/東京六大学野球中継 "wikilink") 1996年から数年間、※現在は[スカイ・A sports+で放送](../Page/スカイ・エー.md "wikilink")
 
 ## 放送時間
 

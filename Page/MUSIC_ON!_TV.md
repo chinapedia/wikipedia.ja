@@ -11,7 +11,7 @@
 
 [J-POP](../Page/J-POP.md "wikilink")・[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")を中心に、最新[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")やヒットチャート等を24時間放映。放送される邦楽ミュージック・ビデオの大半は歌詞を表示する様になっている\[2\]。前身チャンネル「**Viewsic**」では、[邦楽](../Page/邦楽.md "wikilink")と[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")が半々程度の割合であったが、「**MUSIC ON\! TV**」に社名（局名）変更以降K-POP等が急増。以降、K-POP等関連の番組を欠かさず放送している一方で、洋楽等関連の番組が多い。
 
-[新型コロナウイルスの影響で作成できない番組](../Page/2019新型コロナウイルス.md "wikilink")（新曲を扱うサキドリやランキング系番組）がある\[3\]\[4\]。
+[新型コロナウイルスの影響で作成できない番組](../Page/2019新型コロナウイルス.md "wikilink")（新曲を扱うサキドリやランキング系番組）がある\[3\]\[4\]\[5\]。
 
 ## キャッチコピー
 
@@ -19,7 +19,7 @@
 
 *M-ON\!（エムオン\!）は、ライブコンサート映像やアーティスト特番が充実！J-POPやK-POP、ロック、アイドル、アニソン、オトナ等を虜にするレジェンドアーティストのライブ映像など、さまざまなジャンルを網羅。「みんなの見たい・知りたい」を、満足させる幅広い番組を絶賛放送中！*
 
-CMでの「毎日がエムオンライブ」の名の通り必ず放送がある。
+CMでの「毎日がエムオン！ライブ！」の名の通り必ず放送がある。
 
 ## 来歴
 
@@ -44,7 +44,7 @@ CMでの「毎日がエムオンライブ」の名の通り必ず放送がある
   - [2007年](../Page/2007年.md "wikilink")
       - [1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")、5年ぶりにホームページをリニューアル。
   - [2009年](../Page/2009年.md "wikilink")
-      - [10月1日](../Page/10月1日.md "wikilink")、スカパー\!HD、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")、[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")にてハイビジョン放送を開始\[5\]。スカパー\!e2にて[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")16:9の付与を開始。
+      - [10月1日](../Page/10月1日.md "wikilink")、スカパー\!HD、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")、[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")にてハイビジョン放送を開始\[6\]。スカパー\!e2にて[画角比](../Page/画角情報_\(テレビ放送\).md "wikilink")16:9の付与を開始。
   - [2011年](../Page/2011年.md "wikilink")
       - 毎月1組のアーティストを特集する「[M-ON\! MONTHLY ICON](https://ja.wikipedia.org/wiki/M-ON!_MONTHLY_ICON "wikilink")」を開始。
   - [2012年](../Page/2012年.md "wikilink")
@@ -57,8 +57,8 @@ CMでの「毎日がエムオンライブ」の名の通り必ず放送がある
 <!-- end list -->
 
   - 2012年
-      - 4月1日、株式会社[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")と会社統合し、株式会社[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")に社名変更。同時にチャンネル名をスカパー\!・スカパー\!e2は「**MUSIC ON\! TV（エムオン\!）**」\[6\]、スカパー\!HDは「**MUSIC ON\! TV（エムオン\!）HD**」にそれぞれ変更し、ウォーターマークを「We believe in Music」\[7\]からM-ON\!ボックスに変更。
-      - [9月1日](../Page/9月1日.md "wikilink")、スカパー\!e2の物理チャンネル変更（ND22→ND12）に伴い、ハイビジョン放送\[8\]ならびに[字幕放送開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。同時にC-TBSへの委託から直営放送に変更。
+      - 4月1日、株式会社[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")と会社統合し、株式会社[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")に社名変更。同時にチャンネル名をスカパー\!・スカパー\!e2は「**MUSIC ON\! TV（エムオン\!）**」\[7\]、スカパー\!HDは「**MUSIC ON\! TV（エムオン\!）HD**」にそれぞれ変更し、ウォーターマークを「We believe in Music」\[8\]からM-ON\!ボックスに変更。
+      - [9月1日](../Page/9月1日.md "wikilink")、スカパー\!e2の物理チャンネル変更（ND22→ND12）に伴い、ハイビジョン放送\[9\]ならびに[字幕放送開始](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")。同時にC-TBSへの委託から直営放送に変更。
   - 2015年
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、韓国ドラマの放送を開始。
   - 2016年
@@ -150,7 +150,7 @@ CMでの「毎日がエムオンライブ」の名の通り必ず放送がある
 
 ### トーク&インタビュー他
 
-  - **[LisAni\!NAVI](https://ja.wikipedia.org/wiki/リスアニ!#LisAni!NAVI "wikilink")**\[9\]
+  - **[LisAni\!NAVI](https://ja.wikipedia.org/wiki/リスアニ!#LisAni!NAVI "wikilink")**\[10\]
 
 <!-- end list -->
 
@@ -158,17 +158,6 @@ CMでの「毎日がエムオンライブ」の名の通り必ず放送がある
 
       -
         アニメ音楽雑誌「[リスアニ\!](https://ja.wikipedia.org/wiki/リスアニ! "wikilink")」の番組
-
-<!-- end list -->
-
-  - **NHKミュージックアーカイブ [ジャストポップアップ](https://ja.wikipedia.org/wiki/ジャストポップアップ "wikilink")**\[10\]
-
-<!-- end list -->
-
-  -
-
-      -
-        1988年から1991年まで[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")で放送された音楽番組
 
 <!-- end list -->
 
@@ -203,6 +192,17 @@ CMでの「毎日がエムオンライブ」の名の通り必ず放送がある
 
       -
         アーティストのインタビューなど。平日放送をまとめたものを「**サキドリ！〜週刊 ZOOM UP\!〜**」として毎週日曜に放送
+
+<!-- end list -->
+
+  - **タンドリーズ**
+
+<!-- end list -->
+
+  -
+
+      -
+        カレー好きなおじさん3人がひたすらおいしいカレーを食べる番組　【出演】竹中直人(マルチタレント)、アービン(築地の仲卸人＆ミュージシャン)、大倉孝二(俳優)
 
 ### ミュージックビデオ
 
@@ -303,6 +303,17 @@ CMでの「毎日がエムオンライブ」の名の通り必ず放送がある
 
       -
         過去の洋楽ヒット曲
+
+<!-- end list -->
+
+  - **嗚呼、いとしの歌謡曲**
+
+<!-- end list -->
+
+  -
+
+      -
+        現在、過去、そしてこれからも。日本の音楽の中心にはいつでも歌謡曲が存在します。この番組では、歌謡史を彩ってきた不朽の名曲のミュージックビデオを放送。[ウィキペディア](../Page/ウィキペディア.md "wikilink")の[歌謡曲](../Page/歌謡曲.md "wikilink")の範疇に入るものが放送されるが、**ミュージックビデオがあることが大前提**になるためどうしてもJ-POPの曲が多くなる。
 
 ### ヒットチャート
 
@@ -1633,12 +1644,12 @@ CMでの「毎日がエムオンライブ」の名の通り必ず放送がある
 2.  洋楽は権利の関係上、表示が認められていない
 3.
 4.
-5.  チャンネル名は「MUSIC ON\! TV HD」
-6.  受像機局名表記は「エムオン\!」
-7.  2012年3月31日までのキャッチコピー
-8.  [スカパー\!e2 チャンネルに関する変更のご案内](http://www.e2sptv.jp/oshirase/pdf/120710_01.pdf)
-9.  [LisAni\!NAVI | トーク・バラエティ・情報番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/lisani-navi/)
-10. [NHKミュージックアーカイブ ジャストポップアップ | その他番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/justpopup/)
+5.
+6.  チャンネル名は「MUSIC ON\! TV HD」
+7.  受像機局名表記は「エムオン\!」
+8.  2012年3月31日までのキャッチコピー
+9.  [スカパー\!e2 チャンネルに関する変更のご案内](http://www.e2sptv.jp/oshirase/pdf/120710_01.pdf)
+10. [LisAni\!NAVI | トーク・バラエティ・情報番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/lisani-navi/)
 11. [RX-72 ～ HISASHI (GLAY) VS 茂木淳一 ～ | トーク・バラエティ・情報番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/rx72/)
 12. [サキドリ！ | ミュージックビデオ番組 | レギュラー番組 | MUSIC ON\! TV（エムオン\!）](http://www.m-on.jp/program/detail/sakidori/)
 13. K-POPを含む

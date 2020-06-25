@@ -41,7 +41,7 @@
 
 1991年のオリコン年間シングルチャートでは、ランキングの集計期間の関係で[小田和正](../Page/小田和正.md "wikilink")の「[Oh\! Yeah\! / ラブ・ストーリーは突然に](https://ja.wikipedia.org/wiki/Oh!_Yeah! "wikilink")」に阻まれ2位にとどまるが、[1992年](../Page/1992年.md "wikilink")に入ってもチャートインし続けた結果、累計売上では「Oh\! Yeah\! / ラブ・ストーリーは突然に」を上回り、累計282.2万枚（オリコン調べ）を記録し、**CHAGE and ASKAの作品（シングル・アルバム）の中では最大売上**となる\[16\]。なお、累計売上は300万枚との記事もある\[17\]。
 
-[2017年](../Page/2017年.md "wikilink")現在、オリコン歴代シングル売り上げランキング7位であるが、上位6作のうち、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」に抜かれたのは2016年[9月19日](../Page/9月19日.md "wikilink")付ランキングで、SMAPの[解散騒動に起因する購買運動によるものであった](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")。SMAPはデビュー曲「[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")」が本作と同時期発売であり、本作に首位を阻まれ2位止まりであったが、「世界に一つだけの花」の売上が本作を上回ったのがデビューから丁度25周年の週であったため、ファンからは「25年越しのリベンジ」と呼ばれた\[18\]。
+[2017年](../Page/2017年.md "wikilink")現在、オリコン歴代シングル売り上げランキング7位であるが、上位6作のうち、[SMAP](../Page/SMAP.md "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」に抜かれたのは2016年[9月19日](../Page/9月19日.md "wikilink")付ランキングで、SMAPの[解散騒動に起因する購買運動によるものであった](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")。SMAPはデビュー曲「[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")」が本作と同時期発売であり、本作に首位を阻まれ2位止まりであったが、「世界に一つだけの花」の売上が本作を上回ったのがデビューから丁度25周年の週であったため、ファンからは「25年越しのリベンジ」と呼ばれた\[18\]。
 
 ## 収録曲
 

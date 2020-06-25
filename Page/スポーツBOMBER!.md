@@ -119,4 +119,4 @@
   - [TBSラジオ ザ・ベースボール](../Page/TBSラジオ_エキサイトベースボール.md "wikilink")
   - [TBSラジオ番組一覧](../Page/TBSラジオ番組一覧.md "wikilink")
 
-[Category:TBSラジオのスポーツ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのスポーツ番組 "wikilink") [Category:TBSラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの帯番組の歴史 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink")
+[Category:TBSラジオのスポーツ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのスポーツ番組 "wikilink") [Category:TBSラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの帯番組の歴史 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:佐々木主浩](https://ja.wikipedia.org/wiki/Category:佐々木主浩 "wikilink") [Category:畑山隆則](https://ja.wikipedia.org/wiki/Category:畑山隆則 "wikilink")

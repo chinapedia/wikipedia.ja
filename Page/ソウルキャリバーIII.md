@@ -176,7 +176,7 @@
 
 以下のリンク先から、当件に関する詳細なデータを参照可能。
 
-  - [「ソウルキャリバーIII」に関するお知らせ（バンダイナムコゲームス）](http://www.bandainamcogames.co.jp/cs_support/info/20051202.html)
+  - [「ソウルキャリバーIII」に関するお知らせ（バンダイナムコエンターテインメント）](https://www.bandainamcoent.co.jp/cs/notice/?q=soulcalibur3)
 
 <!-- end list -->
 

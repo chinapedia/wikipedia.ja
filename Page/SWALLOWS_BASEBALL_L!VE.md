@@ -78,8 +78,8 @@
   - [達川光男](../Page/達川光男.md "wikilink") (テレビ新広島・J SPORTSでも解説) ★⚫
   - [齊藤明雄](../Page/齊藤明雄.md "wikilink")（テレビ神奈川・J SPORTSでも解説）★⚫
   - [池田親興](../Page/池田親興.md "wikilink")（テレビ西日本・ソフトバンク球団制作中継でも解説）★⚫
-  - [斎藤雅樹](../Page/斎藤雅樹.md "wikilink") (文化放送でも解説) ★⚫
-  - [大久保博元](https://ja.wikipedia.org/wiki/大久保博元 "wikilink")(文化放送でも解説) ★⚫
+  - [斎藤雅樹](../Page/斎藤雅樹.md "wikilink") ★⚫
+  - [大久保博元](https://ja.wikipedia.org/wiki/大久保博元 "wikilink") ★⚫
   - [田尾安志](../Page/田尾安志.md "wikilink")（関西テレビ・テレビ愛知・ニッポン放送でも解説）★⚫
   - [片岡篤史](../Page/片岡篤史.md "wikilink") (関西テレビ・北海道文化放送でも解説) ★⚫
   - [谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")（テレビ神奈川・CBCテレビ・メ～テレ・ニッポン放送・東海ラジオでも解説）★⚫
@@ -267,7 +267,7 @@
 
   - [SWALLOWS BASEBALL L\!VE2018](http://otn.fujitv.co.jp/b_hp/918200012.html) - [フジテレビワンツーネクスト](../Page/フジテレビワンツーネクスト.md "wikilink")
 
-[Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/Category:東京ヤクルトスワローズ "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink")
+[Category:フジテレビのCS放送の番組](https://ja.wikipedia.org/wiki/Category:フジテレビのCS放送の番組 "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:CSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:CSのスポーツ番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:東京ヤクルトスワローズ関連作品](https://ja.wikipedia.org/wiki/Category:東京ヤクルトスワローズ関連作品 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink")
 
 1.  2012年4月21日の対巨人戦はBSフジ・フジテレビONEで「SWALLOWS L\!VE」名義で同時放送、翌4月22日の対巨人戦はフジテレビ地上波（全国ネット）、フジテレビONEで「BASEBALL LIVE〜野球道〜」形式で同時放送した。
 2.  [F1中継や他の生放送番組が組まれる場合は休止となった](../Page/フォーミュラ1.md "wikilink")。

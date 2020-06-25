@@ -88,7 +88,7 @@
       - 作詞：小室みつ子　作曲・編曲：小室哲哉
     <!-- end list -->
       -
-        14thシングル。シングルバージョンはアルバム初収録。
+        14thシングル。
 15. **[COME ON EVERYBODY](../Page/COME_ON_EVERYBODY.md "wikilink")**
       - 作詞・作曲・編曲：小室哲哉
     <!-- end list -->

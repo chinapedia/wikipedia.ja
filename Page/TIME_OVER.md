@@ -108,7 +108,7 @@
 
 ## 司会者
 
-  - [斎藤哲也](../Page/斎藤哲也.md "wikilink")（[TBSアナウンサー](../Page/TBSテレビ.md "wikilink")）
+  - [斎藤哲也](../Page/斎藤哲也.md "wikilink")（[TBSアナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")）
   - [土肥美緒](../Page/美緒.md "wikilink")（[2002年](../Page/2002年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
 
 ### 歴代女性司会者

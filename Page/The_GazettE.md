@@ -125,7 +125,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 
 <!-- end list -->
 
-  - [2009年](../Page/2009年.md "wikilink")3月25日に14thシングル『[DISTRESS AND COMA](https://ja.wikipedia.org/wiki/DISTRESS_AND_COMA "wikilink")』をリリース。発売日には[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて1,700人限定の抽選参加型ライブを中心に、[SHIBUYA‐BOXXでの抽選会](../Page/SHIBUYA_BOXX.md "wikilink")（前述のライブの抽選）、[渋谷PARCOでの映像放映と](https://ja.wikipedia.org/wiki/渋谷パルコ "wikilink")、渋谷3会場でのイベントを開催した。同年7月には4thアルバム『DIM』をリリース。10月には15thシングル『[BEFORE I DECAY](https://ja.wikipedia.org/wiki/BEFORE_I_DECAY "wikilink")』を発表し、表題曲が映画「[ワイルド・スピード MAX](https://ja.wikipedia.org/wiki/ワイルド・スピード_MAX "wikilink")」の日本版イメージソング（日本語吹き替え版のエンディング、およびCM曲）に起用された。
+  - [2009年](../Page/2009年.md "wikilink")3月25日に14thシングル『[DISTRESS AND COMA](https://ja.wikipedia.org/wiki/DISTRESS_AND_COMA "wikilink")』をリリース。発売日には[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて1,700人限定の抽選参加型ライブを中心に、[SHIBUYA‐BOXXでの抽選会](../Page/SHIBUYA_BOXX.md "wikilink")（前述のライブの抽選）、[渋谷PARCOでの映像放映と](https://ja.wikipedia.org/wiki/渋谷パルコ "wikilink")、渋谷3会場でのイベントを開催した。同年7月には4thアルバム『DIM』をリリース。10月には15thシングル『[BEFORE I DECAY](https://ja.wikipedia.org/wiki/BEFORE_I_DECAY "wikilink")』を発表し、表題曲が映画「[ワイルド・スピード MAX](https://ja.wikipedia.org/wiki/ワイルド・スピード_MAX "wikilink")」の日本版イメージソング（日本語吹き替え版のエンディング、およびCM曲）に起用された。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月21日リリースの16thシングル『[SHIVER](https://ja.wikipedia.org/wiki/SHIVER "wikilink")』より、[キングレコード](../Page/キングレコード.md "wikilink")から[Sony Music Recordsへレコード会社を移籍](../Page/ソニー・ミュージックレコーズ.md "wikilink")。シングル表題曲はバンド初のアニメタイアップ「[黒執事II](https://ja.wikipedia.org/wiki/黒執事#テレビアニメ（第2期） "wikilink")」のオープニングテーマ曲に起用された。その後『[Red](https://ja.wikipedia.org/wiki/Red_\(the_GazettEの曲\) "wikilink")』、『[PLEDGE](https://ja.wikipedia.org/wiki/PLEDGE "wikilink")』とシングルをコンスタントにリリースし、同年12月26日に全国ホールツアー「TOUR 10 NAMELESS LIBERTY SIX BULLETS」の最終公演として「TOUR 10 NAMELESS LIBERTY SIX BULLETS FINAL \[THE NAMELESS LIBERTY\]」を自身初となる[東京ドーム](../Page/東京ドーム.md "wikilink")にて開催した。
 
 <!-- end list -->
@@ -179,7 +179,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p>01</p></td>
 <td><p><strong>別れ道</strong></p>
 <div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -205,7 +205,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p>02</p></td>
 <td><p><strong>鬼畜教師(32歳独身)の悩殺講座</strong></p>
 <div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -223,7 +223,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p>03</p></td>
 <td><p><strong>午前0時のとらうまラヂヲ</strong></p>
 <div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -266,7 +266,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p>総集盤</p></td>
 <td><p><strong>大日本異端芸者的脳味噌中吊り絶頂絶景音源集。</strong></p>
 <div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全3曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -548,9 +548,9 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 | 2005年11月23日再発 |                                                                                                                                                         |             |                                     |
 | 02            | **斑蠡〜MADARA〜**                                                                                                                                          | 2004年5月26日  |                                     |
 | 2005年11月23日再発 |                                                                                                                                                         |             |                                     |
-| 03            | **大日本異端芸者的全国巡礼単独公演「平成挽歌」2004年4月23日 Shibuya O-EAST**                                                                                                     | 2004年8月25日  |                                     |
+| 03            | **大日本異端芸者的全国巡礼単独公演「平成挽歌」2004.4.23 Shibuya O-EAST**                                                                                                      | 2004年8月25日  |                                     |
 | 2005年11月23日再発 |                                                                                                                                                         |             |                                     |
-| 04            | **STANDING TOUR 2005 FINAL「M.R.D」at 2005年4月17 渋谷公会堂**                                                                                                   | 2005年7月6日   |                                     |
+| 04            | **STANDING TOUR 2005 FINAL「M.R.D」at 2005.4.17 渋谷公会堂**                                                                                                   | 2005年7月6日   |                                     |
 | 2005年11月23日再発 |                                                                                                                                                         |             |                                     |
 | 05            | **Standing Live tour 2006「Nameless Liberty.Six Guns...」TOUR FINAL-日本武道館-**                                                                              | 2006年9月6日   |                                     |
 | 06            | **TOUR2006-2007「DECOMPOSITION BEAUTY」FINAL Meaningless Art That People Showed AT YOKOHAMA ARENA**                                                       | 2007年6月13日  |                                     |
@@ -587,7 +587,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p><strong>FILM BUG I</strong></p></td>
 <td><p>2006年6月7日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全6曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -607,7 +607,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p><strong>FILM BUG II</strong></p></td>
 <td><p>2010年8月4日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全10曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -631,7 +631,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p><strong>FILM BUG III</strong></p></td>
 <td><p>2014年12月24日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
+<div class="NavHead">
 <p>全11曲</p>
 </div>
 <div class="NavContent" style="text-align:left;">
@@ -750,7 +750,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
   - バンドスコア「DIM」（2009年9月14日）
   - バンドスコア「TRACES BEST OF 2005-2009」（2012年9月1日）
   - バンドスコア「TOXIC」（2012年9月1日）
-  - バンドスコア「BEAUTIFUL DEFORMITY」（2013年12月15日)
+  - バンドスコア「BEAUTIFUL DEFORMITY」（2013年12月15日）
 
 ## ライブ
 
@@ -950,18 +950,18 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
 <td><p>TOUR 2006[DECOMPOSITION BEAUTY]</p></td>
-<td><p>11月28日 札幌市民会館</p>
-<p>11月30日 仙台電力ホール</p>
-<p>12月1日 郡山市民文化センター中ホール</p>
-<p>12月6日 富山県教育会館</p>
-<p>12月7日 金沢文化ホール</p>
-<p>12月12日 愛媛県県民文化会館サブホール</p>
-<p>12月13日 香川県県民ホール・アクトホール</p>
-<p>12月15日 メルパルクホールFUKUOKA</p>
-<p>12月19日 三重県文化会館中ホール</p>
-<p>12月20日 愛知県勤労会館</p>
-<p>12月22日 広島アステールプラザ大ホール</p>
-<p>12月24日 大阪厚生年金会館大ホール</p></td>
+<td><p>11月28日 札幌市民会館<br />
+11月30日 仙台電力ホール<br />
+12月1日 郡山市民文化センター中ホール<br />
+12月6日 富山県教育会館<br />
+12月7日 金沢文化ホール<br />
+12月12日 愛媛県県民文化会館サブホール<br />
+12月13日 香川県県民ホール・アクトホール<br />
+12月15日 メルパルクホールFUKUOKA<br />
+12月19日 三重県文化会館中ホール<br />
+12月20日 愛知県勤労会館<br />
+12月22日 広島アステールプラザ大ホール<br />
+12月24日 大阪厚生年金会館大ホール</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1213,7 +1213,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 </tr>
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
-<td><p>　the GazettE TOUR10 NAMELESS LIBERTY SIX BULLETS 02</p></td>
+<td><p>the GazettE TOUR10 NAMELESS LIBERTY SIX BULLETS 02</p></td>
 <td><p>10月1日 本多の森ホール<br />
 10月2日 富山県民会館<br />
 10月5日 和歌山市民会館 大ホール<br />
@@ -1380,13 +1380,14 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
 <td><p>the GazettE WORLD TOUR13</p></td>
-<td><p>9月8日　サンティアゴ　Teatro Caupolican 9月11日　ブエノスアイレス　Teatro Vorterix</p>
-<p>9月14日　サンパウロ　Espaco Victory</p>
-<p>9月20日　パリ　Le Trianon</p>
-<p>9月22日　トゥールーズ　Le Phare</p>
-<p>9月25日　ドルトムント　FZW</p>
-<p>9月27日　ミュンヘン　Tonlalle</p>
-<p>9月29日　ヘルシンキ　The Circus</p></td>
+<td><p>9月8日 サンティアゴ Teatro Caupolican<br />
+9月11日 ブエノスアイレス Teatro Vorterix<br />
+9月14日 サンパウロ Espaco Victory<br />
+9月20日 パリ Le Trianon<br />
+9月22日 トゥールーズ Le Phare<br />
+9月25日 ドルトムント FZW<br />
+9月27日 ミュンヘン Tonlalle<br />
+9月29日 ヘルシンキ The Circus</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1478,34 +1479,33 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <td><p>2015年</p></td>
 <td><p>単発コンサート</p></td>
 <td><p>the GazettE 13th Anniversary LIVE [13-T H I R T E E N-]</p></td>
-<td><p>3月10日　日本武道館</p></td>
+<td><p>3月10日 日本武道館</p></td>
 </tr>
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
 <td><p>the GazettE LIVE TOUR 15 DOGMATIC -UN-</p></td>
-<td><p>9月5日　羽生市産業文化ホール HERESY ONLY<br />
-9月6日　羽生市産業文化ホール<br />
-9月8日　金沢市文化ホール<br />
-9月10日　新潟テルサ<br />
-9月14日　神奈川県民ホール<br />
-9月17日　市川市文化会館　大ホール<br />
-9月19日　千葉県文化会館<br />
-9月22日　相模女子大学グリーンホール<br />
-9月24日　茨城県民文化センター<br />
-9月26日　山梨県民文化ホール<br />
-9月29日　三重県文化会館　大ホール<br />
-10月3日　サンシティ越谷市民ホール<br />
-10月4日　サンシティ越谷市民ホール<br />
-10月6日　長野県・ホクト文化ホール　中ホール<br />
-10月7日　富山県民会<br />
-館<br />
-10月9日　前橋市民文化会館<br />
-10月11日　滋賀県立芸術劇場びわ湖ホール　大ホール<br />
-10月14日　栃木県総合文化センター<br />
-10月15日　大宮ソニックシティ<br />
-10月27日　引前市民会館<br />
-10月28日　秋田市文化会館　大ホール<br />
-10月30日　郡山市民文化センター　中ホール</p></td>
+<td><p>9月5日 羽生市産業文化ホール HERESY ONLY<br />
+9月6日 羽生市産業文化ホール<br />
+9月8日 金沢市文化ホール<br />
+9月10日 新潟テルサ<br />
+9月14日 神奈川県民ホール<br />
+9月17日 市川市文化会館 大ホール<br />
+9月19日 千葉県文化会館<br />
+9月22日 相模女子大学グリーンホール<br />
+9月24日 茨城県民文化センター<br />
+9月26日 山梨県民文化ホール<br />
+9月29日 三重県文化会館 大ホール<br />
+10月3日 サンシティ越谷市民ホール<br />
+10月4日 サンシティ越谷市民ホール<br />
+10月6日 長野県・ホクト文化ホール 中ホール<br />
+10月7日 富山県民会館<br />
+10月9日 前橋市民文化会館<br />
+10月11日 滋賀県立芸術劇場びわ湖ホール 大ホール<br />
+10月14日 栃木県総合文化センター<br />
+10月15日 大宮ソニックシティ<br />
+10月27日 引前市民会館<br />
+10月28日 秋田市文化会館 大ホール<br />
+10月30日 郡山市民文化センター 中ホール</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1515,30 +1515,30 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <dt>2015年</dt>
 
 </dl>
-<p>12月1日　よこすか芸術劇場<br />
-12月3日　オリンパスホール八王子<br />
-12月9日　松戸・森のホール21<br />
-12月11日　高知市文化プラザ・かるぽーと<br />
-12月13日　サンポートホール高松<br />
-12月15日　広島明日テールプラザ　大ホール<br />
-12月17日　倉敷市芸文館<br />
-12月19日　オリックス劇場<br />
-12月20日　オリックス劇場<br />
-12月23日　和歌山市民会館<br />
-12月24日　神戸国際会館　こくさいホール<br />
-12月27日　仙台サンプラザホール</p>
+<p>12月1日 よこすか芸術劇場<br />
+12月3日 オリンパスホール八王子<br />
+12月9日 松戸・森のホール21<br />
+12月11日 高知市文化プラザ・かるぽーと<br />
+12月13日 サンポートホール高松<br />
+12月15日 広島明日テールプラザ 大ホール<br />
+12月17日 倉敷市芸文館<br />
+12月19日 オリックス劇場<br />
+12月20日 オリックス劇場<br />
+12月23日 和歌山市民会館<br />
+12月24日 神戸国際会館 こくさいホール<br />
+12月27日 仙台サンプラザホール</p>
 <dl>
 <dt>2016年</dt>
 
 </dl>
-<p>1月7日　旭川市民文化会館大ホール<br />
-1月9日　札幌市教育文化会館<br />
-1月11日　山形市民会館　大ホール<br />
-1月13日　盛岡市民文化ホール<br />
-1月16日　福岡市民会館　大ホール<br />
-1月18日　鹿児島市民文化ホール　第2ホール<br />
-1月23日　日本特殊陶業市民会館　フォレストホール（名古屋市民会館）<br />
-1月24日　なら100年会館　大ホール</p></td>
+<p>1月7日 旭川市民文化会館大ホール<br />
+1月9日 札幌市教育文化会館<br />
+1月11日 山形市民会館 大ホール<br />
+1月13日 盛岡市民文化ホール<br />
+1月16日 福岡市民会館 大ホール<br />
+1月18日 鹿児島市民文化ホール 第2ホール<br />
+1月23日 日本特殊陶業市民会館 フォレストホール（名古屋市民会館）<br />
+1月24日 なら100年会館 大ホール</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1550,48 +1550,49 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <tr class="even">
 <td><p>コンサートツアー</p></td>
 <td><p>the GazettE LIVE TOUR 15-16 DOGMA FINAL 漆黒</p></td>
-<td><p>2月28日　代々木第一体育館</p></td>
+<td><p>2月28日 代々木第一体育館</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
 <td><p>the GazettE WORLD TOUR16 DOGMATIC -TROIS-</p></td>
-<td><p>4月15日　メキシコシティ　Teatro Metropolitan 4月22日　サンパウロ　Audio Club</p>
-<p>4月25日　ダラス　The Bomb Factory</p>
-<p>4月27日　トロント　The Danforth Music Hall</p>
-<p>4月29日　ニューヨーク　PlayStation Theater</p>
-<p>5月1日　サンフランシスコ　The Regency Ballroom</p>
-<p>5月3日　ロサンゼルス　The Wiltern</p>
-<p>5月5日　バンクーバー　Vogue Theater</p>
-<p>5月13日　台北　TICC</p>
-<p>5月21日　上海　Q.Hall</p>
-<p>6月3日　パリ　Le Zenith</p>
-<p>6月5日　ケルン　E-Werk</p>
-<p>6月8日　ミュンヘン　Tonhalle</p>
-<p>6月10日　ヘルシンキ　The Circus</p>
-<p>6月12日　モスクワ　Izvestia Hall</p></td>
+<td><p>4月15日 メキシコシティ Teatro Metropolitan<br />
+4月22日 サンパウロ Audio Club<br />
+4月25日 ダラス The Bomb Factory<br />
+4月27日 トロント The Danforth Music Hall<br />
+4月29日 ニューヨーク PlayStation Theater<br />
+5月1日 サンフランシスコ The Regency Ballroom<br />
+5月3日 ロサンゼルス The Wiltern<br />
+5月5日 バンクーバー Vogue Theater<br />
+5月13日 台北 TICC<br />
+5月21日 上海 Q.Hall<br />
+6月3日 パリ Le Zenith<br />
+6月5日 ケルン E-Werk<br />
+6月8日 ミュンヘン Tonhalle<br />
+6月10日 ヘルシンキ The Circus<br />
+6月12日 モスクワ Izvestia Hall</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>コンサートツアー</p></td>
 <td><p>the GazettE STANDING LIVE TOUR 16 DOGMATIC -ANOTHER FATE-</p>
 </div></td>
-<td><p>7月6日　豊洲PIT<br />
-7月10日　仙台PIT<br />
-7月13日　Zepp DiverCity<br />
-7月20日　CLUB CITTA'川崎<br />
-7月21日　CLUB CITTA'川崎<br />
-7月25日　Zepp Nagoya<br />
-7月27日　なんばHatch<br />
-7月29日　福岡DRUM LOGOS<br />
-8月1日　新木場STUDIO COAST<br />
-8月2日　新木場STUDIO COAST</p></td>
+<td><p>7月6日 豊洲PIT<br />
+7月10日 仙台PIT<br />
+7月13日 Zepp DiverCity<br />
+7月20日 CLUB CITTA'川崎<br />
+7月21日 CLUB CITTA'川崎<br />
+7月25日 Zepp Nagoya<br />
+7月27日 なんばHatch<br />
+7月29日 福岡DRUM LOGOS<br />
+8月1日 新木場STUDIO COAST<br />
+8月2日 新木場STUDIO COAST</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>限定フリーライブ</p></td>
 <td><p>the GazettE STANDING LIVE TOUR 16 GRAND FINALE DOGMA -ANOTHER FATE-</p></td>
-<td><p>9月27日　幕張メッセ国際展示場ホール10</p>
+<td><p>9月27日 幕張メッセ国際展示場ホール10</p>
 <dl>
 <dt></dt>
 <dd>代々木第一公演にて「GOLDEN TICKET」と引き換えたエントリカードより、期間内にエントリーした人限定のフリーライブ
@@ -1602,154 +1603,160 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>氣志團万博2016 〜房総ロックンロール・チャンピオン・カーニバル〜 Presented by シミズオクト</p></td>
-<td><p>9月18日　千葉県 袖ケ浦海浜公園</p></td>
+<td><p>9月18日 千葉県 袖ケ浦海浜公園</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p>the GazettE THE DARK HALLOWEEN NIGHT HERESY LIMITED SPOOKY BOX</p></td>
-<td><p>10月28日　Zepp Tokyo</p></td>
+<td><p>10月28日 Zepp Tokyo</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>KNOT FEST JAPAN 2016</p></td>
-<td><p>11月6日　幕張メッセ国際展示場</p></td>
+<td><p>11月6日 幕張メッセ国際展示場</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>単発コンサート</p></td>
-<td><p>十五周年記念公演　大日本異端芸者「暴動区　愚鈍の桜」</p></td>
-<td><p>3月10日　代々木第一体育館</p></td>
+<td><p>十五周年記念公演 大日本異端芸者「暴動区 愚鈍の桜」</p></td>
+<td><p>3月10日 代々木第一体育館</p></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>ROCK IN JAPAN FESTIVAL 2017</p></td>
-<td><p>8月11日　茨城県 国営ひたち海浜公園</p></td>
+<td><p>8月11日 茨城県 国営ひたち海浜公園</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p>the GazettE LIVE IN SUMMER 17 BURST INTO A BLAZE 3</p></td>
-<td><p>8月19日　富士急ハイランド・コニファーフォレスト</p></td>
+<td><p>8月19日 富士急ハイランド・コニファーフォレスト</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
-<td><p>the GazettE HALLOWEEN NIGHT 17 THE DARK HORROR SHOW SPOOKY BOX2　アビス LUCY</p></td>
-<td><p>10月25日　なんばHatch(アビス) 10月26日　なんばHatch(LUCY)</p>
-<p>10月30日　豊洲PIT(アビス)</p>
-<p>10月31日　豊洲PIT(LUCY)</p></td>
+<td><p>the GazettE HALLOWEEN NIGHT 17 THE DARK HORROR SHOW SPOOKY BOX2 アビス LUCY</p></td>
+<td><p>10月25日 なんばHatch(アビス)<br />
+10月26日 なんばHatch(LUCY)<br />
+10月30日 豊洲PIT(アビス)<br />
+10月31日 豊洲PIT(LUCY)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>COUNTDOWN JAPAN 17/18</p></td>
-<td><p>12月29日　幕張メッセ国際展示場</p></td>
+<td><p>12月29日 幕張メッセ国際展示場</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>コンサートツアー</p></td>
-<td><p>the GazettE Live Tour18　THE NINTH PHASE #01 -PHENOMENON-</p></td>
-<td><p>7月19日　三郷市文化会館　大ホール 7月20日　三郷市文化会館　大ホール</p>
-<p>7月25日　市川市文化会館　大ホール</p>
-<p>7月27日　昌賢学園まえばしホール　大ホール</p>
-<p>7月30日　相模女子大学グリーンホール　大ホール</p>
-<p>8月2日　一宮市民会館</p>
-<p>8月3日　一宮市民会館</p>
-<p>8月7日　オリックス劇場</p>
-<p>8月8日　オリックス劇場</p>
-<p>8月10日　神戸国際会館　こくさいホール</p>
-<p>8月15日　JMSアステールプラザ　大ホール</p>
-<p>8月19日　福岡市民会館　大ホール</p>
-<p>8月22日　ホクト文化ホール　中ホール</p>
-<p>8月26日　東京エレクトロンホール宮城　大ホール</p>
-<p>8月27日　山形市民会館　大ホール</p>
-<p>8月29日　わくわくホリデーホール</p>
-<p>9月4日　神奈川県民ホール　大ホール</p></td>
+<td><p>the GazettE Live Tour18 THE NINTH PHASE #01 -PHENOMENON-</p></td>
+<td><p>7月19日 三郷市文化会館 大ホール<br />
+7月20日 三郷市文化会館 大ホール<br />
+7月25日 市川市文化会館 大ホール<br />
+7月27日 昌賢学園まえばしホール 大ホール<br />
+7月30日 相模女子大学グリーンホール 大ホール<br />
+8月2日 一宮市民会館<br />
+8月3日 一宮市民会館<br />
+8月7日 オリックス劇場<br />
+8月8日 オリックス劇場<br />
+8月10日 神戸国際会館 こくさいホール<br />
+8月15日 JMSアステールプラザ 大ホール<br />
+8月19日 福岡市民会館 大ホール<br />
+8月22日 ホクト文化ホール 中ホール<br />
+8月26日 東京エレクトロンホール宮城 大ホール<br />
+8月27日 山形市民会館 大ホール<br />
+8月29日 わくわくホリデーホール<br />
+9月4日 神奈川県民ホール 大ホール</p></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>ROCK IN JAPAN FESTIVAL 2018</p></td>
-<td><p>8月12日　茨城県 国営ひたち海浜公園</p></td>
+<td><p>8月12日 茨城県 国営ひたち海浜公園</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>氣志團万博2018 〜房総爆音爆勝宣言〜 Presented by シミズオクト</p></td>
-<td><p>9月16日　千葉県 袖ケ浦海浜公園</p></td>
+<td><p>9月16日 千葉県 袖ケ浦海浜公園</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
-<td><p>the GazettE LIVE TOUR18　THE NINTH PHASE #02 -ENHANCEMENT-</p></td>
-<td><p>11月6日　CLUB CITTA'川崎 11月7日　CLUB CITTA'川崎</p>
-<p>11月10日　仙台GIGS</p>
-<p>11月13日　なんばHatch</p>
-<p>11月14日　なんばHatch</p>
-<p>11月19日　Zepp DiverCity</p>
-<p>11月21日　Zepp Nagoya</p>
-<p>11月29日　福岡DRUM LOGOS</p>
-<p>12月5日　Zepp Tokyo</p>
-<p>12月10日　新木場STUDIO COAST</p>
-<p>12月11日　新木場STUDIO COAST</p></td>
+<td><p>the GazettE LIVE TOUR18 THE NINTH PHASE #02 -ENHANCEMENT-</p></td>
+<td><p>11月6日 CLUB CITTA'川崎<br />
+11月7日 CLUB CITTA'川崎<br />
+11月10日 仙台GIGS<br />
+11月13日 なんばHatch<br />
+11月14日 なんばHatch<br />
+11月19日 Zepp DiverCity<br />
+11月21日 Zepp Nagoya<br />
+11月29日 福岡DRUM LOGOS<br />
+12月5日 Zepp Tokyo<br />
+12月10日 新木場STUDIO COAST<br />
+12月11日 新木場STUDIO COAST</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>コンサートツアー</p></td>
-<td><p>the GazettE LIVE TOUR18-19　THE NINTH PHASE #03 激情は獰猛</p></td>
-<td><p>2月1日　高田馬場AREA HERESY ONLY 2月2日　高田馬場AREA HERESY ONLY</p>
-<p>2月5日　恵比寿LIQUIDROOM</p>
-<p>2月6日　恵比寿LIQUIDROOM</p>
-<p>2月11日　長野CLUB JUNK BOX</p>
-<p>2月20日　福岡DRUM Be-1</p>
-<p>2月23日　新横浜NEW SIDE BEACH</p></td>
+<td><p>the GazettE LIVE TOUR18-19 THE NINTH PHASE #03 激情は獰猛</p></td>
+<td><p>2月1日 高田馬場AREA HERESY ONLY<br />
+2月2日 高田馬場AREA HERESY ONLY<br />
+2月5日 恵比寿LIQUIDROOM<br />
+2月6日 恵比寿LIQUIDROOM<br />
+2月11日 長野CLUB JUNK BOX<br />
+2月20日 福岡DRUM Be-1<br />
+2月23日 新横浜NEW SIDE BEACH</p></td>
 </tr>
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
-<td><p>the GazettE LIVE TOUR19　THE NINTH PHASE #04 -99.999-</p></td>
-<td><p>4月30日　ロサンゼルス　The Wiltern 5月4日　ダラス　The Bomb Factory</p>
-<p>5月6日　ニューヨーク　PlayStation Theater</p>
-<p>5月9日　トロント　The Queen Elizabeth Theater</p>
-<p>5月12日　メキシコシティ　Pabellon Curevo</p>
-<p>5月15日　ブエノスアイレス　Teatro Flores</p>
-<p>5月17日　サンティアゴ　Teatro Caupolican</p>
-<p>5月19日　サンパウロ　Audio Club</p>
-<p>6月11日　ロンドン　Electric Ballroom</p>
-<p>6月14日　パリ　La Bataclan</p>
-<p>6月16日　ケルン　E werk</p>
-<p>6月18日　ミュンヘン　Backstage Werk</p>
-<p>6月21日　モスクワ　Izvestia Hall</p>
-<p>6月29日 台北 Att Showbox Dazhi</p>
-<p>6月30日 台北 Att Showbox Dazhi</p></td>
+<td><p>the GazettE LIVE TOUR19 THE NINTH PHASE #04 -99.999-</p></td>
+<td><p>4月30日 ロサンゼルス The Wiltern<br />
+5月4日 ダラス The Bomb Factory<br />
+5月6日 ニューヨーク PlayStation Theater<br />
+5月9日 トロント The Queen Elizabeth Theater<br />
+5月12日 メキシコシティ Pabellon Curevo<br />
+5月15日 ブエノスアイレス Teatro Flores<br />
+5月17日 サンティアゴ Teatro Caupolican<br />
+5月19日 サンパウロ Audio Club<br />
+6月11日 ロンドン Electric Ballroom<br />
+6月14日 パリ La Bataclan<br />
+6月16日 ケルン E werk<br />
+6月18日 ミュンヘン Backstage Werk<br />
+6月21日 モスクワ Izvestia Hall<br />
+6月29日 台北 Att Showbox Dazhi<br />
+6月30日 台北 Att Showbox Dazhi</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>ROCK IN JAPAN FESTIVAL 2019</p></td>
-<td><p>8月10日　茨城県 国営ひたち海浜公園</p></td>
+<td><p>8月10日 茨城県 国営ひたち海浜公園</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>コンサートツアー</p></td>
-<td><p>the GazettE LIVE TOUR18-19　THE NINTH #05「混血」</p></td>
-<td><p>8月15日　横須賀芸術劇場</p></td>
+<td><p>the GazettE LIVE TOUR18-19 THE NINTH #05「混血」</p></td>
+<td><p>8月15日 横須賀芸術劇場</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>コンサートツアー</p></td>
-<td><p>the GazettE LIVE TOUR18-19　THE NINTHE TOUR FINAL「第九」</p></td>
-<td><p>9月23日　横浜アリーナ</p></td>
+<td><p>the GazettE LIVE TOUR18-19 THE NINTHE TOUR FINAL「第九」</p></td>
+<td><p>9月23日 横浜アリーナ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2020年</p></td>
-<td><p>単発コンサート ※ <a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">COVID-19の影響により中止</a></p></td>
+<td><p>単発コンサート<br />
+※<a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">COVID-19の影響により中止</a></p></td>
 <td><p>18TH ANNIVERSARY 「DAY/6576」</p></td>
-<td><p>3月10日　武蔵野の森総合スポーツプラザ・メインアリーナ</p></td>
+<td><p>3月10日 武蔵野の森総合スポーツプラザ・メインアリーナ</p></td>
 </tr>
 </tbody>
 </table>

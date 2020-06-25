@@ -197,17 +197,29 @@ Starter Edition は廃止された。Professional Edition にあった別売の 
 
 Windows 用 [32ビット](../Page/32ビット.md "wikilink") コンパイラ (BCC32X, BCC32C) にて [C++17](https://ja.wikipedia.org/wiki/C%2B%2B17 "wikilink") をサポートするようになった。
 
-[2019年](../Page/2019年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")にリリースされた Release 2 (10.3.2) において、Windows 用 [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink") コンパイラ (BCC64) にて [C++17](https://ja.wikipedia.org/wiki/C%2B%2B17 "wikilink") をサポートするようになった。
+[2019年](../Page/2019年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")にリリースされた Release 2 (10.3.2) において、Windows 用 [64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink") コンパイラ (BCC64) にて [C++17](https://ja.wikipedia.org/wiki/C%2B%2B17 "wikilink") をサポートするようになった。[Language Server Protocol](https://ja.wikipedia.org/wiki/Language_Server_Protocol "wikilink") (LSP) に対応し、コード補完 (Code Insight) の性能が向上した。
 
 Starter / Community 版を除き、C++ Builder 6、2007、2009、2010、XE - XE8、10 - 10.2 のライセンスが付属する。
 
+### C++ Builder 10.4 Sydney
+
+[2020年](../Page/2020年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に「**C++ Builder 10.4 Sydney**」（コードネーム: Denali、内部バージョン: 27.0）が発表された\[18\]。同日の Community Edition リリースはなかった。
+
+LLDBベースの新しいWin64 C++デバッガが追加された。数多くの C++ ライブラリが移植されており、追加で GetIt パッケージマネージャからもインストールできる。
+
+macOS Catalina において32ビットアプリが動作しなくなったため、ターゲットプラットフォームから "macOS 32ビット" が選べなくなり、BCCOSX が付属しなくなった。同様に "iOS デバイス 32ビット" も選択できなくなっているが、BCCIOSARM は含まれている。これにより、C++ Builder による macOS 開発は macOS 64ビットコンパイラの登場を待たねばならなくなった。
+
+搭載されるコンパイラはBCC32（Windows 32ビット）、BCC32C（Windows 32ビット / Clang）、BCC32X（Windows 32ビット / Clang）、BCC64（Windows 64ビット / Clang）、BCCIOSARM（iOS デバイス用 32ビット / Clang）、BCCIOSARM64（iOSデバイス用64ビット / Clang）、BCCAARM (Android 32ビット/ Clang) の7つとなった。
+
+Community 版を除き、C++ Builder 6、2007、2009、2010、XE - XE8、10 - 10.3 のライセンスが付属する。
+
 ### 今後のC++Builder
 
-今後、Linux ([64ビット](../Page/X64.md "wikilink")) コンパイラの追加を盛り込む予定であると、[2018年](../Page/2018年.md "wikilink")のロードマップにてアナウンスされている\[18\]。
+今後、Linux ([64ビット](../Page/X64.md "wikilink")) コンパイラの追加を盛り込む予定であると、[2018年](../Page/2018年.md "wikilink")のロードマップにてアナウンスされている\[19\]。
 
 ## C++ Builder Community Edition
 
-10.2 Tokyo より完全無料版の **Community Edition**\[19\] が提供されている。
+10.2 Tokyo より完全無料版の **Community Edition**\[20\] が提供されている。
 
 有料の C++ Builder Professional と同等の機能を持ち、従来の Win32 アプリケーションのみならず Windows 64bit, macOS, iOS, Android の開発が可能となっている。
 
@@ -261,15 +273,31 @@ C++ BuilderではXE2から採用されているクロスプラットフォーム
 
 ## その他
 
-  - [2000年](../Page/2000年.md "wikilink")に **Borland C++ Compiler (BCC) 5.5** が公開された。これは[コンパイラ](../Page/コンパイラ.md "wikilink")、[リンケージエディタ](../Page/リンケージエディタ.md "wikilink")、標準ライブラリおよび[開発ツールの無料版である](https://ja.wikipedia.org/wiki/プログラミングツール "wikilink")。開発はRADではなく、コマンドラインから行う。当時、Windows用の無償のC/C++コンパイラは、ほかに[GCCほどしかなく](../Page/GNUコンパイラコレクション.md "wikilink")、Borland C++が広く知られることになった。BCC 5.5は 2018 年現在もエンバカデロのサイトから無償ダウンロードして使用できる\[20\]が、保証やサポートはなされていない。
+  - [2000年](../Page/2000年.md "wikilink")に **Borland C++ Compiler (BCC) 5.5** が公開された。これは[コンパイラ](../Page/コンパイラ.md "wikilink")、[リンケージエディタ](../Page/リンケージエディタ.md "wikilink")、標準ライブラリおよび[開発ツールの無料版である](https://ja.wikipedia.org/wiki/プログラミングツール "wikilink")。開発はRADではなく、コマンドラインから行う。当時、Windows用の無償のC/C++コンパイラは、ほかに[GCCほどしかなく](../Page/GNUコンパイラコレクション.md "wikilink")、Borland C++が広く知られることになった。BCC 5.5は 2018 年現在もエンバカデロのサイトから無償ダウンロードして使用できる\[21\]が、保証やサポートはなされていない。
   - C++ Builderのでは[MFCや](../Page/Microsoft_Foundation_Class.md "wikilink")[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")などもサポートしている。
   - バージョンやパッケージの種類によっては[Delphi](../Page/Delphi.md "wikilink")などの[CD-ROM](../Page/CD-ROM.md "wikilink")も付属する。
   - [Delphi](../Page/Delphi.md "wikilink")やC++Builderの開発者の一部は[マイクロソフト](../Page/マイクロソフト.md "wikilink")に移籍して、[Visual C\#などを開発している](../Page/Microsoft_Visual_C_Sharp.md "wikilink")。
-  - [2016年](../Page/2016年.md "wikilink")に **Free C++ Compiler** が公開された。[Clang](https://ja.wikipedia.org/wiki/Clang "wikilink") ベースで、最新のものは [C++17](https://ja.wikipedia.org/wiki/C++17 "wikilink") に対応している\[21\]。
+  - [2016年](../Page/2016年.md "wikilink")に無償版である **Free C++ Compiler** が公開された。[Clang](https://ja.wikipedia.org/wiki/Clang "wikilink") ベースで、最新のものは [C++17](https://ja.wikipedia.org/wiki/C++17 "wikilink") に対応している\[22\]。
+  - [2018年](../Page/2018年.md "wikilink")に無償版である **C++ Builder Community Edition** が公開された\[23\]。Professional Edition 相当。
 
 ## 脚注
 
 <references />
+
+## 関連項目
+
+  - [Appmethod](https://ja.wikipedia.org/wiki/Appmethod "wikilink")
+  - [C\#](../Page/C_Sharp.md "wikilink")
+  - [C++](../Page/C++.md "wikilink")
+  - [Delphi](../Page/Delphi.md "wikilink")
+  - [Kylix](../Page/Kylix.md "wikilink")
+  - [Rapid Application Development](../Page/Rapid_Application_Development.md "wikilink")
+  - [RAD Studio](https://ja.wikipedia.org/wiki/RAD_Studio "wikilink")
+  - [Turbo C](https://ja.wikipedia.org/wiki/Turbo_C "wikilink")
+  - [Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")
+  - [エンバカデロ・テクノロジーズ](https://ja.wikipedia.org/wiki/エンバカデロ・テクノロジーズ "wikilink")
+  - [コードギア](../Page/コードギア.md "wikilink")
+  - [ボーランド](../Page/ボーランド.md "wikilink")
 
 ## 外部リンク
 
@@ -278,6 +306,7 @@ C++ BuilderではXE2から採用されているクロスプラットフォーム
       - [Turbo C++](http://www.turboexplorer.com/jp/cpp/)
       - [Borland C++ Compiler (BCC) 5.5](https://downloads.embarcadero.com/item/24778)
       - [Free C++ Compiler (BCC32C)](https://www.embarcadero.com/jp/free-tools/ccompiler)
+      - [C++Builder Community Edition](https://embarcadero.com/jp/products/cbuilder/starter)
 
 [Category:C++](https://ja.wikipedia.org/wiki/Category:C++ "wikilink") [Category:統合開発環境](https://ja.wikipedia.org/wiki/Category:統合開発環境 "wikilink") [Category:コンパイラ](https://ja.wikipedia.org/wiki/Category:コンパイラ "wikilink") [Category:プログラミング言語](https://ja.wikipedia.org/wiki/Category:プログラミング言語 "wikilink") [Category:コードギアの開発ツール](https://ja.wikipedia.org/wiki/Category:コードギアの開発ツール "wikilink")
 
@@ -298,7 +327,9 @@ C++ BuilderではXE2から採用されているクロスプラットフォーム
 15.
 16.
 17.
-18. <https://community.embarcadero.com/article/news/16639-rad-studio-2018-8>
-19.
+18.
+19. <https://community.embarcadero.com/article/news/16639-rad-studio-2018-8>
 20.
 21.
+22.
+23.

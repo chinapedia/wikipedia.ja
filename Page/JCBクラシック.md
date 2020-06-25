@@ -86,8 +86,10 @@
 ## 大会打ち切り
 
   - 2007年（平成19年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）のツアー日程を発表。その中に当大会の名前はなく打ち切りが発表された。[仙台放送](../Page/仙台放送.md "wikilink")広報室によると特別協賛のJCBから打ち切りが申しだされ新たな協賛企業を模索したが手を上げる企業がなくしかも、男子ツアーの[視聴率](../Page/視聴率.md "wikilink")の低下も影響した。東北唯一の男子大会が終了となり初夏の風物詩が一つ消えてしまったが、2014年より[福島県](../Page/福島県.md "wikilink")を舞台とした[ダンロップ・スリクソン福島オープン](https://ja.wikipedia.org/wiki/ダンロップ・スリクソン福島オープン "wikilink")が開催されることになり、東北地方での男子ツアーが復活することになった。
-  - 大会のテレビ放送権をもっていた[仙台放送](../Page/仙台放送.md "wikilink")は、代わりにバラエティ特番を制作し、毎年6月の大会放送時間帯（16:05～17:20）に[フジテレビ系列全国ネットをすることとなった](../Page/フジネットワーク.md "wikilink")。2008年（平成20年）～2010年（平成22年）は、「[脳テレ〜あたまの取扱説明書（トリセツ）〜](https://ja.wikipedia.org/wiki/脳テレ〜あたまの取扱説明書（トリセツ）〜 "wikilink")」を放送した。
-      - なお、2011年は10月23日の同時間帯に同番組を、2017年は7月2日の同時間帯に「どっち派ジャーニー」を放送した。
+  - 大会のテレビ放送権を持っていた仙台放送は大会中継終了に伴い、新たにバラエティ特番を制作し、毎年6月の大会放送時間帯（16:05～17:20）に[フジテレビ系列で全国ネット放送している](../Page/フジネットワーク.md "wikilink")。
+      - 2008年（平成20年）～2010年（平成22年）は『[脳テレ〜あたまの取扱説明書（トリセツ）〜](https://ja.wikipedia.org/wiki/脳テレ〜あたまの取扱説明書（トリセツ）〜 "wikilink")』を放送した。
+      - 2011年は10月23日の同時間帯に同番組を、2017年は7月2日の同時間帯に『どっち派ジャーニー』を放送した。
+      - 2018年以降は、地元宮城県出身のお笑いコンビ・[サンドウィッチマンがメインを務めるロケ番組](../Page/サンドウィッチマン_\(お笑いコンビ\).md "wikilink")『[終着駅からはじめちゃう?\! 〜満腹&ハプニング\!サンドが行くローカル線〜](https://ja.wikipedia.org/wiki/終着駅からはじめちゃう?! "wikilink")』を放送している\[1\]\[2\]。
 
 ## 関連項目
 
@@ -101,8 +103,13 @@
       - [ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント](../Page/ミヤギテレビ杯ダンロップ女子オープンゴルフトーナメント.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[宮城郡](../Page/宮城郡.md "wikilink")[利府町](../Page/利府町.md "wikilink")）…[仙台都市圏](../Page/仙台都市圏.md "wikilink")北東部
       - [リゾートトラストレディス](../Page/リゾートトラストレディス.md "wikilink")（[福島県](../Page/福島県.md "wikilink")[西白河郡](../Page/西白河郡.md "wikilink")[西郷村](../Page/西郷村.md "wikilink")）…[白河都市圏](../Page/白河都市圏.md "wikilink")西部 ※2005年 - 2007年まで。
 
+## 脚注
+
 ## 外部リンク
 
   - [JCBクラシック2007](http://www.ox-tv.co.jp/jcb-classic/)
 
 [Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:現存しないゴルフトーナメント](https://ja.wikipedia.org/wiki/Category:現存しないゴルフトーナメント "wikilink") [Category:宮城県のスポーツ史](https://ja.wikipedia.org/wiki/Category:宮城県のスポーツ史 "wikilink") [Category:仙台放送](https://ja.wikipedia.org/wiki/Category:仙台放送 "wikilink")
+
+1.  [仙台放送／終着駅からはじめちゃう?\!](https://www.ox-tv.co.jp/shuchakueki/)
+2.

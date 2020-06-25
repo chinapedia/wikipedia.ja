@@ -24,6 +24,7 @@
   - [ハーヴェイ賞](https://ja.wikipedia.org/wiki/ハーヴェイ賞 "wikilink")（[イスラエル工科大学](https://ja.wikipedia.org/wiki/イスラエル工科大学 "wikilink")）（1999年）
   - [パサノ賞](https://ja.wikipedia.org/wiki/パサノ賞 "wikilink")（1999年）
   - [ディクソン賞](https://ja.wikipedia.org/wiki/ディクソン賞 "wikilink")医学部門（[ピッツバーグ大学](../Page/ピッツバーグ大学.md "wikilink")）（2000年）
+  - [E・B・ウィルソン・メダル](https://ja.wikipedia.org/wiki/E・B・ウィルソン・メダル "wikilink")（2001年）
   - [ハイネケン賞](https://ja.wikipedia.org/wiki/ハイネケン賞 "wikilink")（2004年）
   - [ベンジャミン・フランクリン・メダル](https://ja.wikipedia.org/wiki/ベンジャミン・フランクリン・メダル_\(フランクリン協会\) "wikilink")（2005年）
   - [アルバート・ラスカー基礎医学研究賞](../Page/アルバート・ラスカー基礎医学研究賞.md "wikilink")（2006年）

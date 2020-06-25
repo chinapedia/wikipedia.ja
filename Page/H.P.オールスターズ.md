@@ -130,7 +130,7 @@
 
 ## ハロー\!プロジェクト モベキマス
 
-**ハロー\!プロジェクト モベキマス**は、[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の全メンバー（[9月30日](../Page/9月30日.md "wikilink")卒業の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")を除く）で結成した[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")（モ）、[Berryz工房](../Page/Berryz工房.md "wikilink")（ベ）、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（キ）、[真野恵里菜](../Page/真野恵里菜.md "wikilink")（マ）、[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（ス）の[コラボレーション](../Page/コラボレーション.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。同年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")にシングル「[ブスにならない哲学](https://ja.wikipedia.org/wiki/ブスにならない哲学 "wikilink")」を発売し\[5\]、同月[23日には発売記念イベントとして](../Page/11月23日.md "wikilink")[よみうりランド](../Page/よみうりランド.md "wikilink")オープンシアターEASTで『ハロー\!プロジェクト☆フェスティバル2011』を開催した\[6\]。
+**ハロー\!プロジェクト モベキマス**は、[2011年](../Page/2011年.md "wikilink")[9月](../Page/9月.md "wikilink")に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の全メンバー（[9月30日](../Page/9月30日.md "wikilink")卒業の[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")を除く）で結成した[モーニング娘。](../Page/モーニング娘。.md "wikilink")（モ）、[Berryz工房](../Page/Berryz工房.md "wikilink")（ベ）、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（キ）、[真野恵里菜](../Page/真野恵里菜.md "wikilink")（マ）、[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（ス）の[コラボレーション](../Page/コラボレーション.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。同年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")にシングル「[ブスにならない哲学](https://ja.wikipedia.org/wiki/ブスにならない哲学 "wikilink")」を発売し\[5\]、同月[23日には発売記念イベントとして](../Page/11月23日.md "wikilink")[よみうりランド](../Page/よみうりランド.md "wikilink")オープンシアターEASTで『ハロー\!プロジェクト☆フェスティバル2011』を開催した\[6\]。
 
 ### メンバー
 
@@ -539,54 +539,52 @@
 
 ## ハロプロ・オールスターズ
 
-**ハロプロ・オールスターズ**は、[2018年](../Page/2018年.md "wikilink")[8月](../Page/8月.md "wikilink")に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")誕生20周年を記念し、ハロー\!プロジェクトの全メンバー（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18、[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")、[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")、[カントリー・ガールズ](https://ja.wikipedia.org/wiki/カントリー・ガールズ "wikilink")、[こぶしファクトリー](https://ja.wikipedia.org/wiki/こぶしファクトリー "wikilink")、[つばきファクトリー](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")、[BEYOOOOONDS](https://ja.wikipedia.org/wiki/BEYOOOOONDS "wikilink")）で結成された期間限定[コラボレーション](../Page/コラボレーション.md "wikilink")企画[ユニット](../Page/音楽ユニット.md "wikilink")\[43\]。同年[9月26日](../Page/9月26日.md "wikilink")にシングル「[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")」を発売した\[44\]。
+**ハロプロ・オールスターズ**は、[2018年](../Page/2018年.md "wikilink")[8月](../Page/8月.md "wikilink")に[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")誕生20周年を記念し、ハロー\!プロジェクトの全メンバー（[モーニング娘。](../Page/モーニング娘。.md "wikilink")'18、[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")、[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")、[カントリー・ガールズ](https://ja.wikipedia.org/wiki/カントリー・ガールズ "wikilink")、[こぶしファクトリー](https://ja.wikipedia.org/wiki/こぶしファクトリー "wikilink")、[つばきファクトリー](https://ja.wikipedia.org/wiki/つばきファクトリー "wikilink")、[BEYOOOOONDS](https://ja.wikipedia.org/wiki/BEYOOOOONDS "wikilink")）で結成された期間限定[コラボレーション](../Page/コラボレーション.md "wikilink")企画[ユニット](../Page/音楽ユニット.md "wikilink")\[43\]。同年[9月26日](../Page/9月26日.md "wikilink")にシングル「[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")」を発売した\[44\]。
 
 ### メンバー
 
-各グループの人数およびメンバーはリリース時点
-
-  - [モーニング娘。 / '19](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18（12名→11名）
+  - [モーニング娘。 / '19 / '20](../Page/モーニング娘。.md "wikilink")'18（12名→11名→14名）
 
 <!-- end list -->
 
   -
-    [譜久村聖](https://ja.wikipedia.org/wiki/譜久村聖 "wikilink")、[生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")、[飯窪春菜](https://ja.wikipedia.org/wiki/飯窪春菜 "wikilink")\[45\]、[石田亜佑美](https://ja.wikipedia.org/wiki/石田亜佑美 "wikilink")、[佐藤優樹](https://ja.wikipedia.org/wiki/佐藤優樹_\(ハロー!プロジェクト\) "wikilink")、[小田さくら](https://ja.wikipedia.org/wiki/小田さくら "wikilink")、[野中美希](https://ja.wikipedia.org/wiki/野中美希 "wikilink")、[牧野真莉愛](https://ja.wikipedia.org/wiki/牧野真莉愛 "wikilink")、[羽賀朱音](https://ja.wikipedia.org/wiki/羽賀朱音 "wikilink")、[加賀楓](https://ja.wikipedia.org/wiki/加賀楓 "wikilink")、[横山玲奈](https://ja.wikipedia.org/wiki/横山玲奈 "wikilink")、[森戸知沙希](https://ja.wikipedia.org/wiki/森戸知沙希 "wikilink")
+    [譜久村聖](https://ja.wikipedia.org/wiki/譜久村聖 "wikilink")、[生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")、[飯窪春菜](https://ja.wikipedia.org/wiki/飯窪春菜 "wikilink")\[45\]、[石田亜佑美](https://ja.wikipedia.org/wiki/石田亜佑美 "wikilink")、[佐藤優樹](https://ja.wikipedia.org/wiki/佐藤優樹_\(ハロー!プロジェクト\) "wikilink")、[小田さくら](https://ja.wikipedia.org/wiki/小田さくら "wikilink")、[野中美希](https://ja.wikipedia.org/wiki/野中美希 "wikilink")、[牧野真莉愛](https://ja.wikipedia.org/wiki/牧野真莉愛 "wikilink")、[羽賀朱音](https://ja.wikipedia.org/wiki/羽賀朱音 "wikilink")、[加賀楓](https://ja.wikipedia.org/wiki/加賀楓 "wikilink")、[横山玲奈](https://ja.wikipedia.org/wiki/横山玲奈 "wikilink")、[森戸知沙希](https://ja.wikipedia.org/wiki/森戸知沙希 "wikilink")、[北川莉央](https://ja.wikipedia.org/wiki/北川莉央 "wikilink")\[46\]、[岡村ほまれ](https://ja.wikipedia.org/wiki/岡村ほまれ "wikilink")\[47\]、[山﨑愛生](https://ja.wikipedia.org/wiki/山﨑愛生 "wikilink")\[48\]
 
 <!-- end list -->
 
-  - [アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（10名→12名）
-
-<!-- end list -->
-
-  -
-    [和田彩花](https://ja.wikipedia.org/wiki/和田彩花 "wikilink")、[中西香菜](https://ja.wikipedia.org/wiki/中西香菜 "wikilink")、[竹内朱莉](https://ja.wikipedia.org/wiki/竹内朱莉 "wikilink")、[勝田里奈](https://ja.wikipedia.org/wiki/勝田里奈 "wikilink")、[室田瑞希](https://ja.wikipedia.org/wiki/室田瑞希 "wikilink")、[佐々木莉佳子](https://ja.wikipedia.org/wiki/佐々木莉佳子 "wikilink")、[上國料萌衣](https://ja.wikipedia.org/wiki/上國料萌衣 "wikilink")、[笠原桃奈](https://ja.wikipedia.org/wiki/笠原桃奈 "wikilink")、[船木結](https://ja.wikipedia.org/wiki/船木結 "wikilink")、[川村文乃](https://ja.wikipedia.org/wiki/川村文乃 "wikilink")、[太田遥香](https://ja.wikipedia.org/wiki/太田遥香 "wikilink")\[46\]、[伊勢鈴蘭](https://ja.wikipedia.org/wiki/伊勢鈴蘭 "wikilink")\[47\]
-
-<!-- end list -->
-
-  - [Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")（8名→7名）
+  - [アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（10名→12名→9名）
 
 <!-- end list -->
 
   -
-    [宮崎由加](https://ja.wikipedia.org/wiki/宮崎由加 "wikilink")、[金澤朋子](https://ja.wikipedia.org/wiki/金澤朋子 "wikilink")、[高木紗友希](https://ja.wikipedia.org/wiki/高木紗友希 "wikilink")、[宮本佳林](https://ja.wikipedia.org/wiki/宮本佳林 "wikilink")、[植村あかり](https://ja.wikipedia.org/wiki/植村あかり "wikilink")、[梁川奈々美](https://ja.wikipedia.org/wiki/梁川奈々美 "wikilink")\[48\]、[段原瑠々](https://ja.wikipedia.org/wiki/段原瑠々 "wikilink")、[稲場愛香](https://ja.wikipedia.org/wiki/稲場愛香 "wikilink")
+    [和田彩花](https://ja.wikipedia.org/wiki/和田彩花 "wikilink")\[49\]、[中西香菜](https://ja.wikipedia.org/wiki/中西香菜 "wikilink")\[50\]、[竹内朱莉](https://ja.wikipedia.org/wiki/竹内朱莉 "wikilink")、[勝田里奈](https://ja.wikipedia.org/wiki/勝田里奈 "wikilink")\[51\]、[室田瑞希](https://ja.wikipedia.org/wiki/室田瑞希 "wikilink")\[52\]、[佐々木莉佳子](https://ja.wikipedia.org/wiki/佐々木莉佳子 "wikilink")、[上國料萌衣](https://ja.wikipedia.org/wiki/上國料萌衣 "wikilink")、[笠原桃奈](https://ja.wikipedia.org/wiki/笠原桃奈 "wikilink")、[船木結](https://ja.wikipedia.org/wiki/船木結 "wikilink")、[川村文乃](https://ja.wikipedia.org/wiki/川村文乃 "wikilink")、[太田遥香](https://ja.wikipedia.org/wiki/太田遥香 "wikilink")\[53\]、[伊勢鈴蘭](https://ja.wikipedia.org/wiki/伊勢鈴蘭 "wikilink")\[54\]、[橋迫鈴](https://ja.wikipedia.org/wiki/橋迫鈴 "wikilink")\[55\]
 
 <!-- end list -->
 
-  - [カントリー・ガールズ](https://ja.wikipedia.org/wiki/カントリー・ガールズ "wikilink")（5名→4名、重複3名=2名→重複2名=2名）
-
-<!-- end list -->
-
-  -
-    [山木梨沙](https://ja.wikipedia.org/wiki/山木梨沙 "wikilink")、森戸知沙希、[小関舞](https://ja.wikipedia.org/wiki/小関舞 "wikilink")、梁川奈々美\[49\]、船木結
-
-<!-- end list -->
-
-  - [こぶしファクトリー](https://ja.wikipedia.org/wiki/こぶしファクトリー "wikilink")（5名）
+  - [Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")（8名→7名→9名）
 
 <!-- end list -->
 
   -
-    [広瀬彩海](https://ja.wikipedia.org/wiki/広瀬彩海 "wikilink")、[野村みな美](https://ja.wikipedia.org/wiki/野村みな美 "wikilink")、[浜浦彩乃](https://ja.wikipedia.org/wiki/浜浦彩乃 "wikilink")、[和田桜子](https://ja.wikipedia.org/wiki/和田桜子 "wikilink")、[井上玲音](https://ja.wikipedia.org/wiki/井上玲音 "wikilink")
+    [宮崎由加](https://ja.wikipedia.org/wiki/宮崎由加 "wikilink")\[56\]、[金澤朋子](https://ja.wikipedia.org/wiki/金澤朋子 "wikilink")、[高木紗友希](https://ja.wikipedia.org/wiki/高木紗友希 "wikilink")、[宮本佳林](https://ja.wikipedia.org/wiki/宮本佳林 "wikilink")、[植村あかり](https://ja.wikipedia.org/wiki/植村あかり "wikilink")、[稲場愛香](https://ja.wikipedia.org/wiki/稲場愛香 "wikilink")、[井上玲音](https://ja.wikipedia.org/wiki/井上玲音 "wikilink")、[梁川奈々美](https://ja.wikipedia.org/wiki/梁川奈々美 "wikilink")\[57\]、[段原瑠々](https://ja.wikipedia.org/wiki/段原瑠々 "wikilink")、[工藤由愛](https://ja.wikipedia.org/wiki/工藤由愛 "wikilink")\[58\]、[松永里愛](https://ja.wikipedia.org/wiki/松永里愛 "wikilink")\[59\]
+
+<!-- end list -->
+
+  - [カントリー・ガールズ](https://ja.wikipedia.org/wiki/カントリー・ガールズ "wikilink")（5名→4名→0名、重複3名=2名→重複2名=2名→重複0名=0名）\[60\]
+
+<!-- end list -->
+
+  -
+    [山木梨沙](https://ja.wikipedia.org/wiki/山木梨沙 "wikilink")、森戸知沙希、[小関舞](https://ja.wikipedia.org/wiki/小関舞 "wikilink")、梁川奈々美\[61\]、船木結
+
+<!-- end list -->
+
+  - [こぶしファクトリー](https://ja.wikipedia.org/wiki/こぶしファクトリー "wikilink")（5名→0名）\[62\]
+
+<!-- end list -->
+
+  -
+    [広瀬彩海](https://ja.wikipedia.org/wiki/広瀬彩海 "wikilink")、[野村みな美](https://ja.wikipedia.org/wiki/野村みな美 "wikilink")、[浜浦彩乃](https://ja.wikipedia.org/wiki/浜浦彩乃 "wikilink")、[和田桜子](https://ja.wikipedia.org/wiki/和田桜子 "wikilink")、井上玲音
 
 <!-- end list -->
 
@@ -604,37 +602,41 @@
 <!-- end list -->
 
   -
-    [一岡伶奈](https://ja.wikipedia.org/wiki/一岡伶奈 "wikilink")、[島倉りか](https://ja.wikipedia.org/wiki/島倉りか "wikilink")、[西田汐里](https://ja.wikipedia.org/wiki/西田汐里 "wikilink")、[江口紗耶](https://ja.wikipedia.org/wiki/江口紗耶 "wikilink")、[高瀬くるみ](https://ja.wikipedia.org/wiki/高瀬くるみ "wikilink")、[前田こころ](https://ja.wikipedia.org/wiki/前田こころ "wikilink")、[山﨑夢羽](https://ja.wikipedia.org/wiki/山﨑夢羽 "wikilink")、[岡村美波](https://ja.wikipedia.org/wiki/岡村美波 "wikilink")、[清野桃々姫](https://ja.wikipedia.org/wiki/清野桃々姫 "wikilink")、[平井美葉](https://ja.wikipedia.org/wiki/平井美葉 "wikilink")\[50\]、[小林萌花](https://ja.wikipedia.org/wiki/小林萌花 "wikilink")\[51\]、[里吉うたの](https://ja.wikipedia.org/wiki/里吉うたの "wikilink")\[52\]
+    [一岡伶奈](https://ja.wikipedia.org/wiki/一岡伶奈 "wikilink")、[島倉りか](https://ja.wikipedia.org/wiki/島倉りか "wikilink")、[西田汐里](https://ja.wikipedia.org/wiki/西田汐里 "wikilink")、[江口紗耶](https://ja.wikipedia.org/wiki/江口紗耶 "wikilink")、[高瀬くるみ](https://ja.wikipedia.org/wiki/高瀬くるみ "wikilink")、[前田こころ](https://ja.wikipedia.org/wiki/前田こころ "wikilink")、[山﨑夢羽](https://ja.wikipedia.org/wiki/山﨑夢羽 "wikilink")、[岡村美波](https://ja.wikipedia.org/wiki/岡村美波 "wikilink")、[清野桃々姫](https://ja.wikipedia.org/wiki/清野桃々姫 "wikilink")、[平井美葉](https://ja.wikipedia.org/wiki/平井美葉 "wikilink")\[63\]、[小林萌花](https://ja.wikipedia.org/wiki/小林萌花 "wikilink")\[64\]、[里吉うたの](https://ja.wikipedia.org/wiki/里吉うたの "wikilink")\[65\]
 
 ### 特徴
 
-  - シングル「[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")」は、初回生産限定盤と通常盤A〜Fの7形態で発売\[53\]。
-  - “Additional Track”として、作詞・作曲を[前山田健一](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")が手掛けた楽曲「ハロー\!ヒストリー」を収録\[54\]。この楽曲のみ、[ハロプロ研修生](https://ja.wikipedia.org/wiki/ハロプロ研修生 "wikilink")も参加。
-  - 通常盤のカップリングでは、BEYOOOOONDSを除くハロー\!プロジェクト所属の各グループが歌唱する「YEAH YEAH YEAH」の音源を収録\[55\]。
-  - 初回生産限定盤には、「YEAH YEAH YEAH」「憧れのStress-free」のミュージックビデオが収められたDVDを付属\[56\]。
+  - シングル「[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")」は、初回生産限定盤と通常盤A〜Fの7形態で発売\[66\]。
+  - “Additional Track”として、作詞・作曲を[前山田健一](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")が手掛けた楽曲「ハロー\!ヒストリー」を収録\[67\]。この楽曲のみ、[ハロプロ研修生](https://ja.wikipedia.org/wiki/ハロプロ研修生 "wikilink")も参加。
+  - 通常盤のカップリングでは、BEYOOOOONDSを除くハロー\!プロジェクト所属の各グループが歌唱する「YEAH YEAH YEAH」の音源を収録\[68\]。
+  - 初回生産限定盤には、「YEAH YEAH YEAH」「憧れのStress-free」のミュージックビデオが収められたDVDを付属\[69\]。
 
 ### 作品
 
 #### シングル
 
-  - **[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")**（2018年9月26日、[zetima](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")/[UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")、初回生産限定盤：EPCE-7429〜30・通常盤A モーニング娘。'18盤：EPCE-7431・同B アンジュルム盤：EPCE-7432・同C Juice=Juice盤：EPCE-7433・同D カントリー・ガールズ盤：EPCE-7434・同E こぶしファクトリー盤：EPCE-7435・同F つばきファクトリー盤：EPCE-7436）\[57\]
+  - **[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")**（2018年9月26日、[zetima](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")/[UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")、初回生産限定盤：EPCE-7429〜30・通常盤A モーニング娘。'18盤：EPCE-7431・同B アンジュルム盤：EPCE-7432・同C Juice=Juice盤：EPCE-7433・同D カントリー・ガールズ盤：EPCE-7434・同E こぶしファクトリー盤：EPCE-7435・同F つばきファクトリー盤：EPCE-7436）\[70\]
 
 #### コンピレーションアルバム
 
-  - [プッチベスト19](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19 "wikilink")（2018年12月12日、zetima、EPCE-7454）\[58\]
+  - [プッチベスト19](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19 "wikilink")（2018年12月12日、zetima、EPCE-7454）\[71\]
 
 #### 映像作品
 
   - イベントV「YEAH YEAH YEAH/花、闌の時」（2018年10月20日、UP-FRONT WORKS、TGBS-10732)
-  - [プッチベスト19 Blu-ray Disc](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19_Blu-ray_Disc "wikilink")（2018年12月12日、zetima、EPXE-5146）\[59\]
-  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2019年3月27日、zetima/UP-FRONT WORKS、DVD：EPBE-5588・Blu-ray：EPXE-5149）\[60\]\[61\]
+  - [プッチベスト19 Blu-ray Disc](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19_Blu-ray_Disc "wikilink")（2018年12月12日、zetima、EPXE-5146）\[72\]
+  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2019年3月27日、zetima/UP-FRONT WORKS、DVD：EPBE-5588・Blu-ray：EPXE-5149）\[73\]\[74\]
 
 ### 出演
 
 #### イベント
 
-  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2018年10月21日、[彩の国くまがやドーム](https://ja.wikipedia.org/wiki/熊谷スポーツ文化公園#彩の国くまがやドーム "wikilink")）\[62\]
-  - ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜（2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")）\[63\]
+  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2018年10月21日、[彩の国くまがやドーム](https://ja.wikipedia.org/wiki/熊谷スポーツ文化公園#彩の国くまがやドーム "wikilink")）\[75\]
+  - ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜（2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")）\[76\]
+
+#### YouTube
+
+  - [ハロプロ・オールスターズ テレワーク合唱「でっかい宇宙に愛がある」](https://www.youtube.com/watch?v=JNZLBX90TA8)（2020年5月24日）
 
 ## 脚注
 
@@ -719,21 +721,34 @@
 43. 結成時点でソロとして在籍していた[光井愛佳](../Page/光井愛佳.md "wikilink")と[鞘師里保](https://ja.wikipedia.org/wiki/鞘師里保 "wikilink")は不参加。2名は当ユニットの活動期間中にハロー\!プロジェクトを卒業。また、シングル発売時、[BEYOOOOONDS](https://ja.wikipedia.org/wiki/BEYOOOOONDS "wikilink")というグループ名はなかった。
 44.
 45. 2018年12月16日付をもって、同グループ、およびハロー\!プロジェクトを卒業。
-46. 2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された「ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜」にのみ参加。
+46. 2020年5月24日、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で開催されたテレワーク合唱「[でっかい宇宙に愛がある](../Page/ザ☆ピ〜ス!.md "wikilink")」にのみ参加。
 47.
-48. 2019年3月11日付をもって、同グループ、カントリー・ガールズ、およびハロー\!プロジェクトを卒業、ならびに芸能界を引退。
-49.
-50.
-51.
-52.
-53.
-54.
+48.
+49. 2019年6月18日付をもって、同グループ、およびハロー\!プロジェクトを卒業。
+50. 2019年12月10日付をもって、同グループ、およびハロー\!プロジェクトを卒業、ならびに芸能界を引退。
+51. 2019年9月25日付をもって、同グループ、およびハロー\!プロジェクトを卒業。
+52. 2020年3月22日付をもって、同グループ、およびハロー\!プロジェクトを卒業。
+53. 2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された「ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜」にのみ参加。
+54. 2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された「ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜」より参加。
 55.
-56.
-57.
+56. 2019年6月17日付をもって、同グループ、およびハロー\!プロジェクトを卒業。
+57. 2019年3月11日付をもって、同グループ、カントリー・ガールズ、およびハロー\!プロジェクトを卒業、ならびに芸能界を引退。
 58.
 59.
-60.
+60. 2019年12月26日付をもって、全員が同グループを卒業し、活動休止。
 61.
-62.
+62. 2020年3月30日付をもって活動終了。
 63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.

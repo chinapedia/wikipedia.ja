@@ -35,6 +35,10 @@
 
   - グループカラーは青。これまでは2005年にリリースされたアルバム『[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")』のジャケットアートに因み、各メンバーごとにイメージカラー（[涼平](../Page/千葉涼平.md "wikilink")：青、[慶太](../Page/橘慶太.md "wikilink")：黄→2006年より赤、[龍一](../Page/緒方龍一.md "wikilink")：緑）が割り当てられ、公式サインライトの色等に用いられていたが、2009年夏よりグループ統一のイメージカラーとして定められており、ライブでのサインライト使用も青色に制限されている。青色が選ばれたのは当時のマネージャーの発案によるもので、サッカー日本代表のユニフォームカラーに由来し、音楽界の日本代表を目指す意が込められている。なお、メンバーカラーは現在でも衣裳や公式ライブグッズ等に用いられることがある。例えば、35thシングル「In Love With The Music」のミュージックビデオで各メンバーカラーの衣装を着用している。
 
+<!-- end list -->
+
+  - 2020年6月1日 - 所属事務所が2020年5月31日付けでメンバーの緒方龍一が[心身症](../Page/心身症.md "wikilink")のため脱退・契約終了を発表。今後は、橘・千葉の2人でグループ活動を継続することを発表した｡
+
 ## 主な出演・開催イベント
 
   - 2000年
@@ -302,36 +306,52 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/千葉涼平.md" title="wikilink">千葉涼平</a></strong> ちば りょうへい</p></td>
+<td><p><strong><a href="../Page/千葉涼平.md" title="wikilink">千葉涼平</a></strong><br />
+ちば りょうへい</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a></p></td>
 <td><p>青</p></td>
-<td><p>リーダー ダンス＆コーラス・ラップ</p></td>
+<td><p>リーダー<br />
+ダンス＆コーラス・ラップ</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a></strong> たちばな けいた</p></td>
+<td><p><strong><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a></strong><br />
+たちばな けいた</p></td>
 <td></td>
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">Ｂ型</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a></p></td>
 <td><p>赤</p></td>
 <td><p>ボーカル＆ダンス</p></td>
 </tr>
+</tbody>
+</table>
+
+### 旧メンバー
+
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>生年月日（年齢）</p></th>
+<th><p>出身地</p></th>
+<th><p>血液型</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/メンバーカラー" title="wikilink">メンバーカラー</a></p></th>
+<th><p>担当パート</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/緒方龍一.md" title="wikilink">緒方龍一</a></strong> おがた りゅういち</p></td>
+<td><p><strong><a href="../Page/緒方龍一.md" title="wikilink">緒方龍一</a></strong><br />
+おがた りゅういち</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
-<td><p>O型</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">O型</a></p></td>
 <td><p>緑</p></td>
 <td><p>ダンス＆コーラス・ラップ</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a>をもって脱退し[1]、<br />
+同時に芸能界も引退。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1937,14 +1957,14 @@ c/w「Love or Leave」（全盤共通）<br />
 
 #### NHK 紅白歌合戦
 
-| \# | 年度（放送回）                                                              | タイトル                                                                 | 出演順    | 対戦相手                                                                                                    |
-| -- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------- |
-| 1  | 2002年（[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")）                    | [NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")                   | 1 / 27 | [藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")                                                   |
-| 2  | 2003年（[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")） | [Long Road](../Page/Long_Road.md "wikilink")                         | 1 / 30 | [BoA](../Page/BoA.md "wikilink")                                                                        |
-| 3  | 2004年（[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")） | [四季](../Page/四季_\(w-inds.の曲\).md "wikilink")                         | 2 / 28 | [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")・[W](../Page/W_\(ハロー!プロジェクト\).md "wikilink") |
-| 4  | 2005年（[第56回](../Page/第56回NHK紅白歌合戦.md "wikilink")）                    | [十六夜の月](../Page/十六夜の月.md "wikilink")                                 | 3 / 29 | [水森かおり](https://ja.wikipedia.org/wiki/水森かおり "wikilink")                                                 |
-| 5  | 2006年（[第57回](../Page/第57回NHK紅白歌合戦.md "wikilink")）                    | [ブギウギ66](../Page/ブギウギ66.md "wikilink")                               | 1 / 27 | [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")                                     |
-| 6  | 2007年（[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")）                    | [Beautiful Life](../Page/Beautiful_Life_\(w-inds.の曲\).md "wikilink") | 3 / 27 | [中村美律子](../Page/中村美律子.md "wikilink")                                                                    |
+| \# | 年度（放送回）                                                              | タイトル                                                                 | 出演順    | 対戦相手                                                                                 |
+| -- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------ |
+| 1  | 2002年（[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")）                    | [NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")                   | 1 / 27 | [藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")                                |
+| 2  | 2003年（[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")） | [Long Road](../Page/Long_Road.md "wikilink")                         | 1 / 30 | [BoA](../Page/BoA.md "wikilink")                                                     |
+| 3  | 2004年（[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")） | [四季](../Page/四季_\(w-inds.の曲\).md "wikilink")                         | 2 / 28 | [モーニング娘。](../Page/モーニング娘。.md "wikilink")・[W](../Page/W_\(ハロー!プロジェクト\).md "wikilink") |
+| 4  | 2005年（[第56回](../Page/第56回NHK紅白歌合戦.md "wikilink")）                    | [十六夜の月](../Page/十六夜の月.md "wikilink")                                 | 3 / 29 | [水森かおり](https://ja.wikipedia.org/wiki/水森かおり "wikilink")                              |
+| 5  | 2006年（[第57回](../Page/第57回NHK紅白歌合戦.md "wikilink")）                    | [ブギウギ66](../Page/ブギウギ66.md "wikilink")                               | 1 / 27 | [mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")                  |
+| 6  | 2007年（[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")）                    | [Beautiful Life](../Page/Beautiful_Life_\(w-inds.の曲\).md "wikilink") | 3 / 27 | [中村美律子](../Page/中村美律子.md "wikilink")                                                 |
 
 ### 映画
 
@@ -1998,7 +2018,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [bounce](https://ja.wikipedia.org/wiki/bounce "wikilink")
   - [PATi PATi](https://ja.wikipedia.org/wiki/PATi_PATi "wikilink")
   - [PATi PATi PRIME](https://ja.wikipedia.org/wiki/PATi_PATi_PRIME "wikilink")
-  - [美人百花](https://ja.wikipedia.org/wiki/美人百花 "wikilink")
+  - [美人百花](../Page/美人百花.md "wikilink")
   - [B-PASS](https://ja.wikipedia.org/wiki/B-PASS "wikilink")
   - [BARFOUT\!](https://ja.wikipedia.org/wiki/BARFOUT! "wikilink")
   - [BoyAge](https://ja.wikipedia.org/wiki/BoyAge "wikilink")
@@ -2294,3 +2314,5 @@ c/w「Love or Leave」（全盤共通）<br />
   -
   -
 [Category:w-inds.](https://ja.wikipedia.org/wiki/Category:w-inds. "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:バーニングプロダクション系列所属者](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列所属者 "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:日本のラジオパーソナリティ](https://ja.wikipedia.org/wiki/Category:日本のラジオパーソナリティ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink")
+
+1.

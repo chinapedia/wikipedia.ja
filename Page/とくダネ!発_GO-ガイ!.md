@@ -34,7 +34,7 @@
 
 ## 外部リンク
 
-  - [とくダネ\!発 GO-ガイ\! - フジテレビ](http://www.fujitv.co.jp/b_hp/gogai/)
+  - [とくダネ\!発 GO-ガイ\! - フジテレビ](https://www.fujitv.co.jp/b_hp/gogai/)
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の歴史 "wikilink") [Category:フジテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:フジテレビの情報・ワイドショー番組 "wikilink") [Category:他番組から派生した番組](https://ja.wikipedia.org/wiki/Category:他番組から派生した番組 "wikilink") [Category:オフィス・トゥー・ワン](https://ja.wikipedia.org/wiki/Category:オフィス・トゥー・ワン "wikilink")
 

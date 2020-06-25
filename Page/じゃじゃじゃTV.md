@@ -5,7 +5,7 @@
 
 ## 概要
 
-『岩手を元気にするテレビ』をテーマに、毎週2時間超の生放送。特集、生中継、視聴者からのFAX、[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")などで構成されており、学生から主婦、高齢者まで、雑多な層をターゲットにしている。
+『岩手を元気にするテレビ』をテーマに、毎週2時間超の生放送。特集、生中継、視聴者からの[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、[インフォマーシャル](../Page/インフォマーシャル.md "wikilink")などで構成されており、学生から主婦、高齢者まで、雑多な層をターゲットにしている。
 
 番組タイトルにある「じゃじゃじゃ」とは、驚いたり感動した時に使う[盛岡弁](../Page/盛岡弁.md "wikilink")の[感嘆詞](https://ja.wikipedia.org/wiki/感嘆詞 "wikilink")である。「じゃ」「じゃじゃ」「じゃじゃじゃ」（ジャッジャッジャッ）のように、「じゃ」を[単位](../Page/単位.md "wikilink")としてその繰り返しに[比例](https://ja.wikipedia.org/wiki/比例 "wikilink")し、驚きの度合いを示す\[1\]。本県の[方言](../Page/方言.md "wikilink")においてその単位となるのは「じゃ」以外にも「じゃい」「ざい」「じぇぁ」「じぇぁー」「じぇゃ」「[じぇ](https://ja.wikipedia.org/wiki/じぇ "wikilink")」「ぢぇ」がある\[2\]。また、[三陸海岸](../Page/三陸海岸.md "wikilink")南部では「ざ」（[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")周辺）、「だ」（[大槌町](https://ja.wikipedia.org/wiki/大槌町 "wikilink")周辺）、「ば」（旧[気仙郡](../Page/気仙郡.md "wikilink")地域ほか）が繰り返しの単位となっている\[3\]\[4\]\[5\]。
 
@@ -13,11 +13,11 @@
 
 番組のテーマ曲は[佐藤将展](https://ja.wikipedia.org/wiki/佐藤将展 "wikilink")が作曲。[北上市](../Page/北上市.md "wikilink")出身のボーカリスト[佐々木由香利](https://ja.wikipedia.org/wiki/佐々木由香利 "wikilink")が歌っており、番組に出演して生で歌った事もある\[8\]。
 
-過去に[青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）の『[おしゃべりハウス](../Page/おしゃべりハウス.md "wikilink")』と番組交換企画を行っていた。[奥州市](../Page/奥州市.md "wikilink")江刺区出身という縁でATVアナウンサーの[津田禎](../Page/津田禎.md "wikilink")がIBCのスタジオに生出演することがあった。なお、IBCからは奥村奈穂美がATVに出演した。
+過去に[青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）の『[おしゃべりハウス](../Page/おしゃべりハウス.md "wikilink")』と番組交換企画を行っていた。[江刺市](../Page/江刺市.md "wikilink")（現・[奥州市](../Page/奥州市.md "wikilink")）出身という縁でATVアナウンサーの[津田禎](../Page/津田禎.md "wikilink")がIBCのスタジオに生出演することがあった。なお、IBCからは奥村奈穂美がATVに出演した。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")に放送350回を迎えた。これを記念して、[水沢競馬場](../Page/水沢競馬場.md "wikilink")でじゃじゃじゃTV杯が行われた。このレースの模様などを13:00 - 13:25に「じゃじゃじゃTV杯生中継SP」として放送した\[9\]。
 
-[2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")（[金](../Page/金曜日.md "wikilink")）に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の報道のため、翌日（土）の放送は休止された。[19日は照井](../Page/3月19日.md "wikilink")・風見出演のまま『[震災情報いわて](https://ja.wikipedia.org/wiki/震災情報いわて "wikilink")』として放送。[26日から](https://ja.wikipedia.org/wiki/3月26日 "wikilink")『じゃじゃじゃTV』として再開した。この回は番組400回目だったが、通常の内容とは異なり、[陸前高田市](../Page/陸前高田市.md "wikilink")から放送され、全編震災関連情報に差し替えられた。震災後しばらく視聴者プレゼントは自粛していたが、7月下旬から県産品のプレゼントとして再開されている。
+[2011年](../Page/2011年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")（[金](../Page/金曜日.md "wikilink")）に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の報道のため、翌[12日の放送は休止された](../Page/3月12日.md "wikilink")。[19日は照井](../Page/3月19日.md "wikilink")・風見出演のまま『[震災情報いわて](https://ja.wikipedia.org/wiki/震災情報いわて "wikilink")』として放送。[26日から](https://ja.wikipedia.org/wiki/3月26日 "wikilink")『じゃじゃじゃTV』として再開した。この回は番組400回目だったが、通常の内容とは異なり、[陸前高田市](../Page/陸前高田市.md "wikilink")から放送され、全編震災関連情報に差し替えられた。震災後しばらく視聴者プレゼントは自粛していたが、7月下旬から県産品のプレゼントとして再開されている。
 
 ## 放送日時
 
@@ -27,6 +27,8 @@
 
   -
     『[サタデープラス](https://ja.wikipedia.org/wiki/サタデープラス "wikilink")』終了直後の9:24から1分間、その日の放送内容や投稿テーマなどを紹介しているため、事実上は9:24スタートとなっている。また、番組開始当初は9:30開始、11:24終了だったが、徐々に放送時間を拡大して現在に至る。
+
+なお、[2020年](../Page/2020年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")以降は不定期で土曜11:27 - 11:30に[ミニ番組](../Page/ミニ番組.md "wikilink")『[じゃじゃ馬TV](https://ja.wikipedia.org/wiki/じゃじゃ馬TV "wikilink")（じゃじゃばティーブイ）』が放送されるようになった為、『じゃじゃ馬TV』放送週は11:27終了と放送時間が3分縮小されるようになった。
 
 ## タイムテーブル
 
@@ -202,10 +204,10 @@
 
   - [松原友希](https://ja.wikipedia.org/wiki/松原友希 "wikilink")（IBCアナウンサー）
   - [川島有貴](https://ja.wikipedia.org/wiki/川島有貴 "wikilink")（IBCアナウンサー）
-  - 長谷川拳杜（IBCアナウンサー）
+  - [長谷川拳杜](https://ja.wikipedia.org/wiki/長谷川拳杜 "wikilink")（IBCアナウンサー）
   - [清水康志](https://ja.wikipedia.org/wiki/清水康志 "wikilink")（IBCアナウンサー）
   - [弦間彩華](../Page/弦間彩華.md "wikilink")（IBCアナウンサー）
-  - 今井日奈子（IBCアナウンサー）
+  - [今井日奈子](https://ja.wikipedia.org/wiki/今井日奈子 "wikilink")（IBCアナウンサー）
   - [千葉星子](https://ja.wikipedia.org/wiki/千葉星子 "wikilink")（[ローカルタレント](../Page/ローカルタレント.md "wikilink")）
   - 葛巻舞香（モデル、フリーリポーター）
   - イガリン（ローカルタレント）
@@ -221,7 +223,7 @@
 
 <!-- end list -->
 
-  - [そのだつくし](https://ja.wikipedia.org/wiki/そのだつくし "wikilink")（漫画家）
+  - [そのだつくし](https://ja.wikipedia.org/wiki/そのだつくし "wikilink")（[漫画家](../Page/漫画家.md "wikilink")）
 
 <!-- end list -->
 
@@ -333,7 +335,7 @@
 <!-- end list -->
 
   -
-    特集や番組内コーナーを担当。
+    特集や番組内コーナーを担当。IBC退職により2016年3月で降板。
 
 <!-- end list -->
 
@@ -465,7 +467,7 @@
 ## 関連項目
 
   - [じゃじゃじゃFriday](../Page/じゃじゃじゃFriday.md "wikilink") - IBCテレビで金曜日の午前に放送されていた姉妹番組。
-  - [いわてホットライン](https://ja.wikipedia.org/wiki/いわてホットライン "wikilink") - 元日の特別番組。出演者の重複が多い
+  - [いわてホットライン](https://ja.wikipedia.org/wiki/いわてホットライン "wikilink") - 元日の特別番組。出演者の重複が多い。
 
 ## 外部リンク
 

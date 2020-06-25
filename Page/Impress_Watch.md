@@ -21,12 +21,14 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
 
 ## サイト一覧
 
-  - Impress Watch Headline
-    Impress Watchの総合ポータル。Watchで配信された記事のヘッドラインページにもなっている。
+  - Impress Watch
+    Impress Watchシリーズの記事のヘッドラインページ。1998年12月に「Impress Watch Headline」として創刊し\[4\]、[2018年](../Page/2018年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")にImpress Watchとしてリニューアル創刊\[5\]。
   - INTERNET Watch
-    [インターネット](../Page/インターネット.md "wikilink")関連総合ニュースサイト。[1996年](../Page/1996年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")創刊。インターネット上で拾った小ネタを扱う「やじうまWatch」もある。
+    [インターネット](../Page/インターネット.md "wikilink")関連総合ニュースサイト。雑誌「[iNTERNET magazine](https://ja.wikipedia.org/wiki/iNTERNET_magazine "wikilink")」を母体として、有料メールマガジンという形態で[1996年](../Page/1996年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")創刊\[6\]。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月にウェブサイトを開設し、有料メールマガジンで配信した記事のダイジェストを公開していたが、のちに有料メールマガジンを廃止しウェブ版がメインとなった。インターネット上で拾った小ネタを扱う「やじうまWatch」もある。
+  - Free Watch
+    有料メールマガジン「INTERNET Watch」のダイジェスト版として創刊。購読料金は無料。Impress Watchシリーズの記事のヘッドラインと記事の抜粋を配信。[1996年](../Page/1996年.md "wikilink")3月創刊\[7\]。
   - PC Watch
-    [パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")総合ニュースサイト。1996年[7月22日](../Page/7月22日.md "wikilink")創刊。後述のケータイ Watch(Mobile Central)やAV Watchが開設される前は、[携帯電話](../Page/携帯電話.md "wikilink")や[オーディオ・ビジュアル](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")関連のニュースも掲載されていた。
+    [パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")総合ニュースサイト。[1996年](../Page/1996年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")創刊。後述のケータイ Watch(Mobile Central)やAV Watchが開設される前は、[携帯電話](../Page/携帯電話.md "wikilink")や[オーディオ・ビジュアル](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")関連のニュースも掲載されていた。
   - AKIBA PC Hotline\!
     [秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")のPCショップや自作パーツの最新情報や価格情報を配信。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に「秋葉原マップ」として創刊、その後[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に現在の名称に。
   - [窓の杜](../Page/窓の杜.md "wikilink")
@@ -38,35 +40,37 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
   - AV Watch
     [AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")や[DVD](../Page/DVD.md "wikilink")ソフトに関する情報サイト。[2001年](../Page/2001年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")にプレビュー版創刊後、同年2月1日に正式に創刊。
   - クラウド Watch
-    [2003年](../Page/2003年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に法人向けITニュースサイト「Enterprise Watch」として創刊。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月9日](../Page/6月9日.md "wikilink")に[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")情報に特化する形で現在の名称にリニューアル。
+    [2003年](../Page/2003年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に法人向けITニュースサイト「Enterprise Watch」として創刊\[8\]。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月9日](../Page/6月9日.md "wikilink")に[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")情報に特化する形で現在の名称にリニューアル。
   - デジカメ Watch
     [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")専門ニュースサイト。これまでPC Watchで扱ってきたデジタルカメラ関連記事を分割する形で[2004年](../Page/2004年.md "wikilink")9月に創刊。
   - I next
     アイネクスト（[2006年](../Page/2006年.md "wikilink")6月設立、旧称インプレスキャリア）が運営する、IT業界の転職サポートサイト。2006年[9月1日](../Page/9月1日.md "wikilink")に「Impress Career」という名称で開始され、2009年[10月1日](../Page/10月1日.md "wikilink")に社名変更に伴い名称変更。
   - 家電 Watch
-    [白物家電](../Page/白物家電.md "wikilink")専門ニュースサイト。2006年[10月2日](../Page/10月2日.md "wikilink")創刊。
+    [白物家電](../Page/白物家電.md "wikilink")専門ニュースサイト。[2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")創刊。
   - 教えて\! Watch
     [OKWave](https://ja.wikipedia.org/wiki/OKWave "wikilink")と連携したQ\&A形式の情報交換サイト。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")創刊。
   - Impress Watch Video
-    携帯電話やパソコンに関する動画番組を配信。2008年6月開始。その後[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にもオフィシャルチャンネルが設けられ、同様の動画を配信している（更新は若干遅め）。
+    携帯電話やパソコンに関する動画番組を配信。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月開始。その後[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にもオフィシャルチャンネルが設けられ、同様の動画を配信している（更新は若干遅め）。
   - Car Watch
-    [自動車](../Page/自動車.md "wikilink")専門ニュースサイト。2008年[9月24日](../Page/9月24日.md "wikilink")創刊。
+    [自動車](../Page/自動車.md "wikilink")専門ニュースサイト。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月24日](../Page/9月24日.md "wikilink")創刊。
   - スマートフォン Watch
     他のWatchでのスマートフォン関連のニュースをピックアップした増刊号形式のニュースサイト。[2011年](../Page/2011年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")開始。期間限定で運営予定。
   - 女子カメ Watch
-    デジカメ Watchの記事から女性向けのニュースをピックアップした別冊形式のニュースサイト。2011年[9月22日](../Page/9月22日.md "wikilink")開始。期間限定で運営予定。
+    デジカメ Watchの記事から女性向けのニュースをピックアップした別冊形式のニュースサイト。[2011年](../Page/2011年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")開始。期間限定で運営予定。
   - 得スマ Watch
     他のWatchでのスマートフォン関連のニュースから、MVNO関連や端末情報をピックアップしたサイト。
   - トラベル Watch
     旅行情報サイト。[2015年](../Page/2015年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")創刊。
   - ネタとぴ
-    比較的柔らかめな、身近で旬な話題を提供するサイト。2015年[5月25日](../Page/5月25日.md "wikilink")創刊。
+    比較的柔らかめな、身近で旬な話題を提供するサイト。[2015年](../Page/2015年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")創刊。
   - シニアガイド
-    シニア向けの日常生活に役立つ知識を提供するサイト。2015年[9月15日](../Page/9月15日.md "wikilink")創刊。
+    シニア向けの日常生活に役立つ知識を提供するサイト。[2015年](../Page/2015年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")創刊。
   - ペトハピ［Pet×Happy］
-    犬や猫を中心としたペットニュースサイト。2015年冬創刊。
+    犬や猫を中心としたペットニュースサイト。[2015年](../Page/2015年.md "wikilink")冬創刊。
   - VR Watch
-    VR（[バーチャルリアリティ](https://ja.wikipedia.org/wiki/バーチャルリアリティ "wikilink")）関連ニュースのサイト。2016年12月創刊。
+    VR（[バーチャルリアリティ](https://ja.wikipedia.org/wiki/バーチャルリアリティ "wikilink")）関連ニュースのサイト。[2016年](../Page/2016年.md "wikilink")12月創刊。
+  - Hobby Watch
+    ホビー関連ニュースのサイト。[2020年](../Page/2020年.md "wikilink")6月創刊\[9\]。
   - GANREF（ガンレフ）
     写真投稿および写真共有サイト。会員による機材レビューも紹介。
   - qufour（クフール）
@@ -83,7 +87,7 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
   - TechWire Japan（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink") - 2000年4月）
     アメリカのIT産業情報大手のCMP社との提携による。アメリカの最新ITニュースをメールで配信していた。
   - MOVIE Watch（1997年9月 - [2001年](../Page/2001年.md "wikilink")12月）
-    映画に関する情報を配信するサイト。[2002年](../Page/2002年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")から発行元が変更され、「[シネマカフェ](http://www.cinemacafe.net/index.html)」となった。
+    映画に関する情報を配信するサイト。[カフェグルーヴ](https://ja.wikipedia.org/wiki/カフェグルーヴ "wikilink")に譲渡され、[2002年](../Page/2002年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")から「[シネマカフェ](http://www.cinemacafe.net)」として運営。
   - SPORTS Watch（1998年2月 - 2001年6月）
     JIJI NEWS Watch（1998年4月 - 2001年6月）
     [時事通信社](../Page/時事通信社.md "wikilink")のニュース配信を受けて前者はスポーツニュースを、後者は一般ニュースを配信。
@@ -92,7 +96,7 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
   - FINANCE Watch（2000年[7月24日](../Page/7月24日.md "wikilink") - 2001年[3月30日](../Page/3月30日.md "wikilink")）
     IT関連の金融情報に特化した、経済ニュースサイト。2001年3月30日に韓国PAXNetと提携し「PAXNet Impress」として統合・改称したが、その後2002年[8月30日](../Page/8月30日.md "wikilink")にサービスを停止した。
   - [林檎の杜](https://ja.wikipedia.org/wiki/林檎の杜 "wikilink")（2000年[11月14日](../Page/11月14日.md "wikilink") - 2002年[3月29日](../Page/3月29日.md "wikilink")）
-    [Macintosh](../Page/Macintosh.md "wikilink")情報誌「[MAC LIFE](https://ja.wikipedia.org/wiki/MAC_LIFE "wikilink")」の協力を得て製作された、Macintosh用オンラインソフト情報サイト。「MAC LIFE」の休刊を受けてこのサイトも終了。
+    [Macintosh](../Page/Macintosh.md "wikilink")情報誌「[MAC LIFE](https://ja.wikipedia.org/wiki/MACLIFE "wikilink")」の協力を得て製作された、Macintosh用オンラインソフト情報サイト。「MAC LIFE」の休刊を受けてこのサイトも終了。
   - Impress Watch Weekly（2001年[12月15日](../Page/12月15日.md "wikilink") - 2002年[5月25日](../Page/5月25日.md "wikilink")）
     Impress Watchの記事の内容をまとめた[フリーペーパー](../Page/フリーペーパー.md "wikilink")。[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")の路上で配布されていた。
   - BB Watch（2001年[7月2日](../Page/7月2日.md "wikilink") - 2009年[12月25日](../Page/12月25日.md "wikilink")）
@@ -101,6 +105,8 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
     [ロボット](../Page/ロボット.md "wikilink")関連の記事を専門に扱ったニュースサイト。PC Watchで扱ってきたロボット関連記事を分割する形で[2006年](../Page/2006年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に開始。2009年12月25日付で更新を終了し、同年[12月14日](../Page/12月14日.md "wikilink")に新設したGAME Watchの「ホビー/ロボット」チャンネルに統合された。
   - Que\!（[2012年](../Page/2012年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - 2016年[3月31日](../Page/3月31日.md "wikilink")）
     不特定多数の人に聞きたいあらゆる「お題」を出したり、それに答えたりすることができる参加型サイト。[twitter](https://ja.wikipedia.org/wiki/twitter "wikilink")や[facebook](https://ja.wikipedia.org/wiki/facebook "wikilink")とも連携。
+  - 仮想通貨 Watch（2018年5月22日\[10\] - 2020年3月31日\[11\]）
+    [仮想通貨](../Page/仮想通貨.md "wikilink")関連の記事を専門に扱うニュースサイト。INTERNET Watchから分割される形で設立され、休刊後はINTERNET Watchに統合された。
 
 ## エイプリルフール企画「イソプレスうおっち」
 
@@ -127,7 +133,7 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
   - 2016年…「PCジャナイ Watch」と、何故か規模が縮小された「窓の社」を開設。
   - 2017年…「VR Watch」で新コーナー「おすすめVRコンテンツレビュー」を開始（内容はすべて架空）。「窓の社」に至ってはとうとうトップページが消滅し、公式[Twitter](../Page/Twitter.md "wikilink")アカウントを経由しないと記事にアクセスできないようになってしまった。
 
-2003年、[日本インターネットエイプリル・フール協会](https://ja.wikipedia.org/wiki/日本インターネットエイプリル・フール協会 "wikilink")は「ばかオブザイヤー」の「[殿堂](../Page/殿堂.md "wikilink")入り」とした\[4\]。以降、協会の審査ではおみそ扱いとなっている。
+2003年、[日本インターネットエイプリル・フール協会](https://ja.wikipedia.org/wiki/日本インターネットエイプリル・フール協会 "wikilink")は「ばかオブザイヤー」の「[殿堂](../Page/殿堂.md "wikilink")入り」とした\[12\]。以降、協会の審査ではおみそ扱いとなっている。
 
 2007年、「窓の社」に「[イソプレスウォッチ、Wikipediaに自ら“窓の社”記事を追加](http://www.forest.impress.co.jp/yashiro/2007/yashiropedia.html)」というジョーク記事が掲載され、この中で[Wikipedia](https://ja.wikipedia.org/wiki/Wikipedia "wikilink")に投稿された記事であるかのような偽の画像が掲載された。すると第三者によって再現された記事が実際にWikipediaに作成され、窓の杜編集部を名乗る人物がWikipedia上で謝罪する騒動となった。[Wikipedia:削除依頼/窓の社関係にログが残っている](https://ja.wikipedia.org/wiki/Wikipedia:削除依頼/窓の社関係 "wikilink")。
 
@@ -155,6 +161,10 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
 
   - [Impress Watch](https://www.watch.impress.co.jp/)
 
+  - [Impress Watch 電子メール新聞](https://www.watch.impress.co.jp/mail/news/) - 無料版メールマガジンの配信申し込みページ。2020年6月時点では、Free Watchのみが現存。
+
+  - [株式会社インプレス　ネットメディア・サービス事業](https://www.impress.co.jp/business.html#01_digital) - Impress Watchシリーズの一覧を掲載。
+
   -
   -
   -
@@ -164,4 +174,12 @@ Webサイト上では通常のWebの更新だけでなく一部を除き[RSS](..
 1.  小川亨「\[<http://www.jepa.or.jp/jepa/chronicle/21-2/>　電子メール新聞からWebニュースへと続いた「Watch」\]」『電子出版クロニクル 増補改訂版　～JEPA 30年のあゆみ～』、[日本電子出版協会](https://ja.wikipedia.org/wiki/日本電子出版協会 "wikilink")、2018年2月、ISBN 978-4-9904404-2-8
 2.  [第1回Webクリエーション・アウォード Web人特別賞：山下憲治氏](http://award.wab.ne.jp/winning/1_4.asp)
 3.  [インターネット白書1999 電子メール新聞　メール広告が生んだメールマガジン産業の現在](http://iwparchives.jp/files/pdf/iwp1999/iwp1999-ch03-05-p111.pdf)
-4.  [【2003年ばかオブザイヤー】受賞サイト発表♪](http://org.aprilfool.jp/list2003.html)([日本インターネットエイプリル・フール協会](https://ja.wikipedia.org/wiki/日本インターネットエイプリル・フール協会 "wikilink"))
+4.  「[Impress Watchは今年20周年を迎えます](https://www.watch.impress.co.jp/20th/history.html)」『Impresss Watch20周年企画』 インプレス、2016年
+5.  「お知らせ・ニュースリリース　[Watch Headlineをリニューアルした 新しい『Impress Watch』を9月20日（木）にスタート](https://www.impress.co.jp/newsrelease/2018/09/2018092002-01.png)」『株式会社インプレス』 株式会社インプレス、2018年9月20日
+6.
+7.
+8.  「[インプレス、企業向けITニュースサイト「Enterprise Watch」](https://internet.watch.impress.co.jp/cda/news/2003/09/16/443.html)」『INTERNET Watch』 インプレス、2003年9月16日
+9.  「[【編集部から】ホビー総合専門誌「HOBBY Watch」創刊のご挨拶](https://hobby.watch.impress.co.jp/docs/common/1255874.html)」『HOBBY Watch』 インプレス、2020年6月1日
+10. 「[仮想通貨 Watch 創刊の挨拶](https://crypto.watch.impress.co.jp/docs/common/notice/1121931.html)」『仮想通貨 Watch』 インプレス、2018年5月22日
+11. 「[仮想通貨 Watch 休刊のお知らせ](https://crypto.watch.impress.co.jp/docs/common/notice/1241006.html)」『仮想通貨 Watch』 インプレス、2020年3月17日
+12. [【2003年ばかオブザイヤー】受賞サイト発表♪](http://org.aprilfool.jp/list2003.html)([日本インターネットエイプリル・フール協会](https://ja.wikipedia.org/wiki/日本インターネットエイプリル・フール協会 "wikilink"))

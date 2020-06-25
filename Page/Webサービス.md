@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Webservices.png "wikilink")\]\]
 
-**Webサービス**（ウェブサービス）とは、[HTTPなどのインターネット関連技術を応用して](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[SOAPと呼ばれる](../Page/SOAP_\(プロトコル\).md "wikilink")[XML形式の](../Page/Extensible_Markup_Language.md "wikilink")[プロトコル](../Page/プロトコル.md "wikilink")を用いメッセージの送受信を行う技術、またはそれを適用したサービス。[W3Cにおいては](../Page/World_Wide_Web_Consortium.md "wikilink")、Webサービスとは、さまざまな[プラットフォーム上で動作する異なるソフトウェア同士が相互運用するための標準的な手段を提供するものと説明されている](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。
+**Webサービス**（ウェブサービス）とは、[HTTPなどのインターネット関連技術を応用して](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")を実現したものを指す。[W3Cにおいては](../Page/World_Wide_Web_Consortium.md "wikilink")、Webサービスとは、さまざまな[プラットフォーム上で動作する異なるソフトウェア同士が相互運用するための標準的な手段を提供するものと説明されている](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。
 
 類似の用語として**Web API**（ウェブエーピーアイ）があるが、ほぼ同義語である。\[1\]
 

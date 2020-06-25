@@ -76,6 +76,8 @@
   - 『[ハンボーン](https://ja.wikipedia.org/wiki/ハンボーン "wikilink")』 *Hambone and Hillie* (1983)
   - 『[裸の銃を持つ男](../Page/裸の銃を持つ男.md "wikilink")』 *The Naked Gun* (1988)
 
+また、実現こそしなかったものの、1984年の映画『[ターミネーター](../Page/ターミネーター_\(映画\).md "wikilink")』で[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")が演じたターミネーター役の候補にも挙がっていた。
+
 ## 脚注
 
 ## 関連項目

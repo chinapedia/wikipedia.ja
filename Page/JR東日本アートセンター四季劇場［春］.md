@@ -20,7 +20,8 @@
 
 ### 2代目・四季劇場［春］
 
-  - [アナと雪の女王](https://ja.wikipedia.org/wiki/アナと雪の女王_\(ミュージカル\) "wikilink")（[2020年](../Page/2020年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")開幕予定）
+  - 劇団四季 The Bridge ～歌の架け橋～（2021年1月）\[6\]
+  - [アナと雪の女王](https://ja.wikipedia.org/wiki/アナと雪の女王_\(ミュージカル\) "wikilink")（[2021年](../Page/2021年.md "wikilink")[6月](../Page/6月.md "wikilink")開幕予定）
 
 ## アクセス
 
@@ -49,3 +50,4 @@
 3.  <https://www.shiki.jp/navi/news/renewinfo/032351.html>
 4.
 5.
+6.

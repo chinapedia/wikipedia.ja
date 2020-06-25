@@ -28,7 +28,7 @@
 ## 主な記録
 
   - [オリコン調べによると](../Page/オリコンチャート.md "wikilink")、1997年のシングルおよび、自身のシングルで最高初動(82.8万枚)。
-  - 登場7週目で[ダブルミリオン](https://ja.wikipedia.org/wiki/ダブルミリオン "wikilink")を達成している。
+  - 登場2週目で[ミリオン](../Page/ミリオンセラー.md "wikilink")、登場7週目で[ダブルミリオン](https://ja.wikipedia.org/wiki/ダブルミリオン "wikilink")を達成している。
   - [HEY\!HEY\!HEY\! MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・3週連続（97/03/03〜03/17・\#104〜106）1位。
   - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でもシングルが発売され、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")国内の総合チャートで5位を記録した。20万枚（人口比からすると日本の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に匹敵する）を超える大ヒット。
   - HEY\!HEY\!HEY\! MUSIC CHAMP1994〜1997アーティスト別パーフェクトランキング2位。

@@ -5,7 +5,7 @@
 
 ## 出演
 
-  - [タンポポ](../Page/タンポポ_\(ハロー!プロジェクト\).md "wikilink") - 女性アイドルグループ[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の派生ユニットである。
+  - [タンポポ](../Page/タンポポ_\(ハロー!プロジェクト\).md "wikilink") - 女性アイドルグループ[モーニング娘。](../Page/モーニング娘。.md "wikilink")の派生ユニットである。
       - [飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")（2000年10月-2002年9月）
       - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（2000年10月-2002年9月）
       - [石川梨華](../Page/石川梨華.md "wikilink")（2000年10月-2003年9月）

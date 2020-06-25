@@ -34,7 +34,7 @@
 ### 写真
 
   - [小沢健二](../Page/小沢健二.md "wikilink")の17thシングル「[ある光](../Page/ある光.md "wikilink")」の12インチアナログ盤（1998年1月発売）の写真撮影を担当。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")27枚目シングル[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")(1998年1月14日発売)のジャケット写真\[1\]
+  - [SMAP](../Page/SMAP.md "wikilink")27枚目シングル[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")(1998年1月14日発売)のジャケット写真\[1\]
 
 ### 音楽
 

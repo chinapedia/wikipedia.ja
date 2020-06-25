@@ -101,6 +101,7 @@
 ### 投手
 
   -   3 [ケイシー・ケリー](https://ja.wikipedia.org/wiki/ケイシー・ケリー "wikilink")
+  - 19 [高宇錫](https://ja.wikipedia.org/wiki/高宇錫 "wikilink")（コ・ウソク）
   - 21 [陳該受](https://ja.wikipedia.org/wiki/陳該受 "wikilink")（チン・ヘス）
   - 23 [車雨燦](https://ja.wikipedia.org/wiki/車雨燦 "wikilink")（チャ・ウチャン）
   - 35 [タイラー・ウィルソン](https://ja.wikipedia.org/wiki/タイラー・ウィルソン_\(野球\) "wikilink")

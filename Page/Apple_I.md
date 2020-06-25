@@ -55,7 +55,7 @@
   - [John Calande III blog – Building the Apple I clone](http://apple1computer.blogspot.com)
   - [Pom1 Apple 1 Emulator](http://pom1.sourceforge.net/)
 
-[Category:アップルのパソコン](https://ja.wikipedia.org/wiki/Category:アップルのパソコン "wikilink") [Category:スティーブ・ジョブズ](https://ja.wikipedia.org/wiki/Category:スティーブ・ジョブズ "wikilink")
+[Category:アップルのパソコン](https://ja.wikipedia.org/wiki/Category:アップルのパソコン "wikilink") [Category:スティーブ・ジョブズ](https://ja.wikipedia.org/wiki/Category:スティーブ・ジョブズ "wikilink") [Category:第一世代のマイクロコンピュータ](https://ja.wikipedia.org/wiki/Category:第一世代のマイクロコンピュータ "wikilink")
 
 1.
 2.  [NPR : A Chat with Computing Pioneer Steve Wozniak](http://www.npr.org/templates/story/story.php?storyId=6167297)

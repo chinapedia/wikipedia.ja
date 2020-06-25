@@ -172,7 +172,7 @@
   - [LLR](../Page/LLR_\(お笑いコンビ\).md "wikilink")
   - [三浦マイルド](https://ja.wikipedia.org/wiki/三浦マイルド "wikilink")
   - [井下好井](https://ja.wikipedia.org/wiki/井下好井 "wikilink")
-  - [すゑひろがりず](https://ja.wikipedia.org/wiki/すゑひろがりず_\(お笑いコンビ\) "wikilink")
+  - [すゑひろがりず](https://ja.wikipedia.org/wiki/すゑひろがりず "wikilink")
   - [鬼越トマホーク](https://ja.wikipedia.org/wiki/鬼越トマホーク "wikilink")
   - [ひょっこりはん](https://ja.wikipedia.org/wiki/ひょっこりはん "wikilink")
   - [もりやすバンバンビガロ](https://ja.wikipedia.org/wiki/もりやすバンバンビガロ "wikilink")

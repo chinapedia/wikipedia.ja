@@ -480,7 +480,7 @@ feat. GooF from SOFFet <SMOOTH RAP version></p></td>
 <tr class="odd">
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
 <td><p>星空の下で</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>「<a href="../Page/Pop_Up!_SMAP.md" title="wikilink">Pop Up! SMAP</a>」</p></td>
+<td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a>「<a href="../Page/Pop_Up!_SMAP.md" title="wikilink">Pop Up! SMAP</a>」</p></td>
 <td><p>作詞・作曲（SOFFet）<br />
 コーラスアレンジ（YoYo）</p></td>
 </tr>
@@ -675,8 +675,8 @@ feat. GooF from SOFFet <SMOOTH RAP version></p></td>
   - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")とデビュー前から交流があり、音楽の話からプライベートの相談まで聞きあう関係。
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")のアルバム「SENTIMENTALovers」収録の「言わない関係」にコーラスでゲスト参加。
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の4thアルバム「[fo(u)r](https://ja.wikipedia.org/wiki/fo\(u\)r "wikilink")」収録曲「believin'」を作詞。
-  - [藤本和則](../Page/藤本和則.md "wikilink")（[Liga Oriente](../Page/Liga_Oriente.md "wikilink"))とは、「春風」「Life」「Love Story」「Answer」「花」の他に、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")作品など多くの作品を共作している。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の18th Album「[Pop Up\! SMAP](../Page/Pop_Up!_SMAP.md "wikilink")」収録曲「星空の下で」を作詞、作曲、コーラスアレンジ。
+  - [藤本和則](../Page/藤本和則.md "wikilink")（[Liga Oriente](../Page/Liga_Oriente.md "wikilink"))とは、「春風」「Life」「Love Story」「Answer」「花」の他に、[SMAP](../Page/SMAP.md "wikilink")、[日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")作品など多くの作品を共作している。
+  - [SMAP](../Page/SMAP.md "wikilink")の18th Album「[Pop Up\! SMAP](../Page/Pop_Up!_SMAP.md "wikilink")」収録曲「星空の下で」を作詞、作曲、コーラスアレンジ。
   - [Aqua Timezの太志は新曲のCDをあげるほどの仲である](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")。
   - [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")とは、お互いの曲に参加している。
 

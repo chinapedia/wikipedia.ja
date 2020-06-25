@@ -103,17 +103,17 @@
 
 <references />
 
-## 外部リンク
-
-  - \[<http://www.abn-tv.co.jp/abnst/>　abnステーション\]
-
 ## 関連項目
 
   - ABNニュース
   - abnニュース&天気予報
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
+
+## 外部リンク
+
+  - [abnステーション](https://www.abn-tv.co.jp/abnst/) - 番組公式サイト
 
 [Category:1991年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1991年のテレビ番組_\(日本\) "wikilink") [Category:長野朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:長野朝日放送のテレビ番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組 "wikilink") [Category:ステーションEYE](https://ja.wikipedia.org/wiki/Category:ステーションEYE "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")
 

@@ -28,7 +28,7 @@ iFデザイン賞はIDEA賞(アメリカ)、レッドドット・デザイン賞
   - [タイガー魔法瓶](../Page/タイガー魔法瓶.md "wikilink")株式会社 「Maho Nabé」 2019年デザイン賞\[12\]
   - [穴織カーボン](https://ja.wikipedia.org/wiki/穴織カーボン "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT OVAL-X」-2019年デザイン賞
   - [穴織カーボン](https://ja.wikipedia.org/wiki/穴織カーボン "wikilink")株式会社 カーボン製無水調理鍋「ANAORI CARBON POT DISC」-2019年金賞
-  - 株式会社ワイ・エス・エム「NIGHT BOOK」-2019年デザイン賞
+  - [株式会社ワイ・エス・エム](http://www.ysm-products.jp/ja)「NIGHT BOOK」-2019年デザイン賞
   - Nature株式会社 エネルギーマネジメントシステム「Nature Remo E」-2020デザイン賞\[13\]
   - [島産業株式会社](http://parisparis.jp)　家庭用生ごみ減量乾燥機「Paris Paris Cue」 - 2020年デザイン賞\[14\]
   - \[<http://quantum.ne.jp>　quantum inc. \]　日常を旅するクルマイス「Wheeliy」-2020年デザイン賞\[15\]

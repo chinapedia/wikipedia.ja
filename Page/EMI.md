@@ -174,7 +174,7 @@
 
 ## 外部リンク
 
-  - [EMI Group](http://www.emigroup.com)　現在はユニバーサル・ミュージックの公式サイトへリダイレクトされる。
+  - [現在](http://www.emigroup.com)はユニバーサル・ミュージックの公式サイトへ[リダイレクトされる](../Page/リダイレクト_\(HTTP\).md "wikilink")。
 
 [Category:EMI](https://ja.wikipedia.org/wiki/Category:EMI "wikilink") [Category:ロンドンの企業](https://ja.wikipedia.org/wiki/Category:ロンドンの企業 "wikilink") [Category:イギリスの多国籍企業](https://ja.wikipedia.org/wiki/Category:イギリスの多国籍企業 "wikilink")
 

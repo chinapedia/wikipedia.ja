@@ -793,7 +793,7 @@ VIBL-534</p></td>
       - 7.原始的じゃナイト 〜アナログ ラブ〜 （和田唱 作詞）
   - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") 「[SNOW DOMEの約束/Luv Sick](https://ja.wikipedia.org/wiki/SNOW_DOMEの約束/Luv_Sick "wikilink")」 (2013年11月13日)
       - 1.SNOW DOMEの約束（和田唱 作詞）
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") 「[Yes we are/ココカラ](https://ja.wikipedia.org/wiki/Yes_we_are/ココカラ "wikilink")」 (2014年4月9日)
+  - [SMAP](../Page/SMAP.md "wikilink") 「[Yes we are/ココカラ](https://ja.wikipedia.org/wiki/Yes_we_are/ココカラ "wikilink")」 (2014年4月9日)
       - 2.ココカラ（和田唱 作詞作曲）※初回限定盤BにおいてはM-1.
   - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink") 「[re:Action](https://ja.wikipedia.org/wiki/re:Action "wikilink")」 (2017年2月15日)
       - 5\.[マリンスノウ](../Page/マリンスノウ.md "wikilink") produced by TRICERATOPS（TRICERATOPSプロデュース）

@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ピヤ・ピロームパック](https://ja.wikipedia.org/wiki/ピヤ・ピロームパック "wikilink")博士が創設した。創設者の英語表記Piya Bhirombhakdiの頭文字を取ってこの会社名になった。当初は[ビア・シン](../Page/ビア・シン.md "wikilink")で有名な[ブンロート・ブリュワリー](https://ja.wikipedia.org/wiki/ブンロート・ブリュワリー "wikilink")社社員を輸送するための航空会社であったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にチャーター便の営業許可を取得し、4年後には定期便のサービスを開始した。2009年10月、全便の運航を停止した\[1\]。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")にピヤ・ピロームパック博士が創設した。創設者の英語表記Piya Bhirombhakdiの頭文字を取ってこの会社名になった。当初は[ビア・シン](../Page/ビア・シン.md "wikilink")で有名なブンロート・ブリュワリー社社員を輸送するための航空会社であったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にチャーター便の営業許可を取得し、4年後には定期便のサービスを開始した。2009年10月、全便の運航を停止した\[1\]。
 
 ## 運航路線
 
@@ -26,7 +26,7 @@
 
 ## 機材
 
-  - [ERJ-145LR](https://ja.wikipedia.org/wiki/ERJ-145LR "wikilink") 2機
+  - [ERJ-145LR](../Page/エンブラエル_ERJ_145.md "wikilink") 2機
 
 ## 脚注
 
@@ -37,4 +37,4 @@
 
 [Category:かつて存在したタイの航空会社](https://ja.wikipedia.org/wiki/Category:かつて存在したタイの航空会社 "wikilink")
 
-1.  [タイ民間航空のＰＢエア、全便運航停止](http://www.newsclip.be/news/20091111_025748.html) newsclip.be
+1.

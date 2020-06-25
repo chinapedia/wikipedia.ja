@@ -226,7 +226,7 @@ IF</p></td>
 <tr class="even">
 <td><p>15<br />
 FD</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月26日.md" title="wikilink">6月26日</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/8月28日.md" title="wikilink">8月28日</a></p></td>
 <td><p>'''<a href="https://ja.wikipedia.org/wiki/あの日の旅人、ふれあう未来" title="wikilink">あの日の旅人、ふれあう未来</a></p></td>
 <td><p>八島タカヒロ</p></td>
 <td></td>

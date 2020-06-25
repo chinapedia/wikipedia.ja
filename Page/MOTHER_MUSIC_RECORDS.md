@@ -17,7 +17,7 @@
 
 その後、三菱自動車はテレビでのCM放映は再開したが、ラジオでは再開できていない局があるためスポンサーに復帰していない状態が暫く続いたが、2013年4月に『[ピートのふしぎなガレージ](https://ja.wikipedia.org/wiki/ピートのふしぎなガレージ "wikilink")』で久々のラジオ番組の提供を再開した。 また、開始当初からのサブスポンサーだった[ブルボン](../Page/ブルボン.md "wikilink")と[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")が三菱自動車降板後のメインスポンサー、また[PTの為](../Page/パーティシペーション.md "wikilink")、各局CMとなっている。
 
-番組は[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")で終了し、後続番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』に引き継いだ。
+番組は[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")で終了し、後続番組『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』に引き継いだ。
 
 ## 担当とタイムテーブル（末期）
 

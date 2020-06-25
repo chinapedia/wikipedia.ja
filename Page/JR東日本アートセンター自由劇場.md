@@ -1,9 +1,7 @@
 > この記事は[JR東日本アートセンター自由劇場](https://ja.wikipedia.org/wiki/JR東日本アートセンター自由劇場)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:Ziyuu_2.jpg "wikilink") **JR東日本アートセンター自由劇場**（ジェイアールひがしにほんアートセンターじゆうげきじょう、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, JIYU*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇団四季](../Page/劇団四季.md "wikilink")の専用劇場である。
-
-一般に**自由劇場**と呼ばれているが、[串田和美](../Page/串田和美.md "wikilink")の主宰した自由劇場と関係はない。
+[right](https://ja.wikipedia.org/wiki/ファイル:Ziyuu_2.jpg "wikilink") **自由劇場**（じゆうげきじょう、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, JIYU*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇団四季](../Page/劇団四季.md "wikilink")の専用劇場である。[串田和美](../Page/串田和美.md "wikilink")の主宰した自由劇場と関係はない。
 
 ## 概要
 
@@ -184,7 +182,7 @@
 
 ## 外部リンク
 
-  - [劇場情報 JR東日本アートセンター自由劇場｜劇団四季](https://www.shiki.jp/theatres/4008/)
+  - [劇場情報 自由劇場｜劇団四季](https://www.shiki.jp/theatres/4008/)
 
 [Category:東京都の劇場](https://ja.wikipedia.org/wiki/Category:東京都の劇場 "wikilink") [Category:劇団四季の劇場](https://ja.wikipedia.org/wiki/Category:劇団四季の劇場 "wikilink") [Category:東京都港区の建築物](https://ja.wikipedia.org/wiki/Category:東京都港区の建築物 "wikilink")
 

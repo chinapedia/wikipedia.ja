@@ -484,7 +484,7 @@ BR・EDR・LE</p></td>
 3.
 4.
 5.  [Topology Options |Bluetooth Technology Website](https://www.bluetooth.com/bluetooth-technology/topology-options)
-6.  <https://www.bluetooth.com/ja-jp/about-us/bluetooth-origin>
+6.
 7.
 8.
 9.

@@ -945,7 +945,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a>・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a> (RSK)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a> (RSK)</p></td>
 <td><p>2001年10月20日 -</p></td>
 <td><p>土曜 6:00 - 6:30</p></td>
 </tr>

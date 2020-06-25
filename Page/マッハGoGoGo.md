@@ -1065,7 +1065,7 @@
   - 2009年には、[High Speed Boyzとのコラボレーションが開始された](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")。
   - これまでにも[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")はダウンロード用に発売されていたが、2011年12月9日にモバイル用[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")『マッハGoGoGo』がアプリカにより[Mobage](../Page/Mobage.md "wikilink")からリリースされた。なお、同じくMobageの『タツノコオールスターズ』（[DeNA](https://ja.wikipedia.org/wiki/DeNA "wikilink")製）にも参戦している。
   - 2013年、『[Peeping Life](https://ja.wikipedia.org/wiki/Peeping_Life "wikilink")』と[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")&タツノコプロのコラボレーションアニメ『Peeping Life -手塚プロ・タツノコプロワンダーランド-』を放送。
-  - 2013年9月30日にフジテレビ系列で放送された大型特別番組『[SMAP GO\!GO\!](https://ja.wikipedia.org/wiki/SMAP_GO!GO! "wikilink")』で、オープニングに第1作風のアニメーションを放送。映像では[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が5人とも三船剛のスーツ姿で登場し、マッハ号が5台登場した。また、SMAPが歌唱する第1作テーマソングがオープニングテーマに使われていたが、サビ部分の「マッハ」は「SMAP」に変えられていた。
+  - 2013年9月30日にフジテレビ系列で放送された大型特別番組『[SMAP GO\!GO\!](https://ja.wikipedia.org/wiki/SMAP_GO!GO! "wikilink")』で、オープニングに第1作風のアニメーションを放送。映像では[SMAP](../Page/SMAP.md "wikilink")が5人とも三船剛のスーツ姿で登場し、マッハ号が5台登場した。また、SMAPが歌唱する第1作テーマソングがオープニングテーマに使われていたが、サビ部分の「マッハ」は「SMAP」に変えられていた。
   - 2015年に放送された『[夜ノヤッターマン](https://ja.wikipedia.org/wiki/夜ノヤッターマン "wikilink")』第9話・第12話にはマッハ号に似た車両が登場しており、第9話においては同作品の登場人物であるガリナとアルエットが搭乗した。ただしボンネットのマーキングが「M」ではなく「W」となっているなど、詳細は異なる。
   - 2015年に放送された[JAバンク](../Page/JAバンク.md "wikilink")のCM「マジシャン先輩」篇・「こねこ先輩」篇の各最後のBGMは、第1作テーマソングサビ部分の歌詞「マッハGoGo」を「バンクJA」に変えた[替え歌](../Page/替え歌.md "wikilink")である。
 

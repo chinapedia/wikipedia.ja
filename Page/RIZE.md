@@ -71,7 +71,7 @@
   -
 
       -
-        u:zoと共に加入。2008年5月脱退。現在は[The BONEZでNAKAとして活動中](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")。
+        u:zoと共に加入。2008年5月脱退。「NAKA」名義で2019年12月まで[The BONEZでも活動していた](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")。
 
 ## 経歴
 

@@ -1,9 +1,13 @@
 > この記事は[Taka \(ONE OK ROCKのメンバー\)](https://ja.wikipedia.org/wiki/Taka_\(ONE_OK_ROCKのメンバー\))から翻訳されています。
 
 
-**Taka**（タカ、本名：森内貴寛（もりうち たかひろ）、[1988年](../Page/1988年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ・[NEWSの初期メンバーであった](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")。
+**Taka**（タカ、[1988年](../Page/1988年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[歌手](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。
+
+[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。本名および旧名義は**森内貴寛**（もりうち たかひろ）。東京都出身。[慶應義塾湘南藤沢高校中退](https://ja.wikipedia.org/wiki/慶應義塾湘南藤沢高等部 "wikilink")。[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")所属。
 
 歌手の[森進一](../Page/森進一.md "wikilink")と、同じく歌手の[森昌子](../Page/森昌子.md "wikilink")の長男である。弟(三男)はロックバンド・[MY FIRST STORYの](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")[Hiro](../Page/森内寛樹.md "wikilink")。
+
+[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属の[NEWSの元メンバーでもあった](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")。
 
 ## 略歴
 
@@ -70,7 +74,7 @@
 #### 2016年 -
 
   -
-    以降の活動は[ONE OK ROCKの項目に詳しい](../Page/ONE_OK_ROCK.md "wikilink")。
+    以降の活動は[ONE OK ROCKの項目に詳しく記載](../Page/ONE_OK_ROCK.md "wikilink")。
 
 ## 活動歴
 

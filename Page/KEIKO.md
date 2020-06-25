@@ -60,7 +60,7 @@ globe名義でリリースしたものは[globeのディスコグラフィを参
       - I WILL SURVIVE / [GABALL](../Page/GABALL.md "wikilink") featuring KEIKO
   - [Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink") / [TRF](../Page/TRF.md "wikilink")
       - EZ DO DANCE meets KEIKO
-  - [maniac](https://ja.wikipedia.org/wiki/maniac "wikilink") / [globe](https://ja.wikipedia.org/wiki/globe "wikilink") (2006/3/23)
+  - [maniac](https://ja.wikipedia.org/wiki/maniac_\(アルバム\) "wikilink") / [globe](https://ja.wikipedia.org/wiki/globe "wikilink") (2006/3/23)
       - Reason (LA Updated Mix) / keiko
     <!-- end list -->
       -

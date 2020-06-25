@@ -248,7 +248,7 @@
 主にその日にラジオ・テレビの他の番組で担当がないアナウンサーが代理を勤めることが多い。以下は今までに代理を務めたアナウンサーである
 
   - **[穀田慎也](https://ja.wikipedia.org/wiki/穀田慎也 "wikilink")**
-  - **[鈴木智草](https://ja.wikipedia.org/wiki/鈴木智草 "wikilink")**
+  - **[鈴木智草](../Page/鈴木智草.md "wikilink")**
   - **[吉岡秀樹](../Page/吉岡秀樹.md "wikilink")**
   - **[中島そよか](../Page/中島そよか.md "wikilink")**（2005年度のみ）
   - **[酒井康宜](../Page/酒井康宜.md "wikilink")**

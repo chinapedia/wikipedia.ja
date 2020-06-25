@@ -1,6 +1,14 @@
 > この記事は[USBフラッシュドライブ](https://ja.wikipedia.org/wiki/USBフラッシュドライブ)から翻訳されています。
 
 
+[SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg](https://ja.wikipedia.org/wiki/File:SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg "fig:SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg")製 4[GB](../Page/ギガバイト.md "wikilink")）\]\] **USBフラッシュドライブ**()は、[USBを用いて](../Page/ユニバーサル・シリアル・バス.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")に接続してデータの読み書きを行う[半導体メモリ](../Page/半導体メモリ.md "wikilink")を用いた[補助記憶装置](../Page/補助記憶装置.md "wikilink")のうち、別途[メモリーカード](../Page/メモリーカード.md "wikilink")や[リーダライタを必要とせずに単体で動作するものである](../Page/メモリーカードリーダライタ.md "wikilink")。日本国内においては**USBメモリ**、またはさらに略して単に**USB**とも呼ばれる。
+
+典型的な製品の大きさは、長さ数センチメートル、幅と厚さは[USB A端子より若干大きい程度である](https://ja.wikipedia.org/wiki/ユニバーサル・シリアル・バス#端子類/コネクタ "wikilink")。
+
+USBメモリの普及当初はUSB A端子にて[コンピュータと接続するタイプが多かったが](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")の普及に伴いmicro B端子やUSB TYPE-C端子をもつUSBメモリも販売されるようになってきた。
+
+## 概要
+
 <div class="infobox" style="width:250px">
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:Usbkey_internals.jpg "wikilink") **一般的なUSBメモリの内部**
@@ -15,14 +23,6 @@
 8.  二つ目のフラッシュメモリチップ（この写真では未実装）
 
 </div>
-
-**USBフラッシュドライブ**()は、[USBを用いて](../Page/ユニバーサル・シリアル・バス.md "wikilink")[コンピュータ](../Page/コンピュータ.md "wikilink")に接続してデータの読み書きを行う[半導体メモリ](../Page/半導体メモリ.md "wikilink")を用いた[補助記憶装置](../Page/補助記憶装置.md "wikilink")のうち、別途[メモリーカード](../Page/メモリーカード.md "wikilink")や[リーダライタを必要とせずに単体で動作するものである](../Page/メモリーカードリーダライタ.md "wikilink")。日本国内においては**USBメモリ**、またはさらに略して単に**USB**とも呼ばれる。
-
-典型的な製品の大きさは、長さ数センチメートル、幅と厚さは[USB A端子より若干大きい程度である](https://ja.wikipedia.org/wiki/ユニバーサル・シリアル・バス#端子類/コネクタ "wikilink")。
-
-USBメモリの普及当初はUSB A端子にて[コンピュータと接続するタイプが多かったが](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")の普及に伴いmicro B端子やUSB TYPE-C端子をもつUSBメモリも販売されるようになってきた。
-
-## 概要
 
 USB規格には、**USB Mass Storage Class**（[USBマスストレージクラス](https://ja.wikipedia.org/wiki/USBマスストレージクラス "wikilink")）という補助記憶装置を接続するための仕様があり、このクラスに対応した機器および[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) であれば、機器専用の[デバイスドライバ](../Page/デバイスドライバ.md "wikilink")を改めてインストールする必要もなく、装置をUSBコネクタに接続することでOS内蔵のクラスドライバ（共通ドライバ）でただちに補助記憶装置として認識することができる。この仕組みを用いたのが、USBメモリである。
 

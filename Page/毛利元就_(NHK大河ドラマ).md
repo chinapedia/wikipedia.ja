@@ -48,7 +48,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
     演：[富田靖子](../Page/富田靖子.md "wikilink")
     元就の正室。吉川国経の娘。隆元・元春・隆景・可愛の母。尼子経久は彼女を唯一苦手としている。
     当初は元就に嫁ぐことに反発し、了承して嫁した[初夜に](https://ja.wikipedia.org/wiki/結婚初夜 "wikilink")「危害を与えない」という意思表示としていきなり元就の前で全裸になったことから傷ついた元就に距離を置かれてしまう。しかし、元就を刺客が襲った事件をきっかけに同衾するようになる。「勝ったようなもの」が口癖。彼女が死去するまで元就は側室を置かなかった。
-    彼女の死後、彼女の血筋は毛利家・宍戸家・吉川家によって色濃く受け継がれていくことになる。
+    彼女の死後、彼女の血筋は毛利家・宍戸家・吉川家・小早川家によって色濃く受け継がれていくことになる。
   - [杉の方](../Page/杉大方.md "wikilink")（すぎのかた）
     演：[松坂慶子](../Page/松坂慶子.md "wikilink")
     毛利弘元の側室→継室、元就の育ての親。当初、松寿丸とは犬猿の仲で、「小坊主」「化け猫」と罵り合っていたが、成り行きで松寿丸を看病したことをきっかけに関係は改善され、実の親子同然の間柄になっていく。「女は顔」などの独特の価値観の持ち主で、元就が成長すると「あのように立派な息子がいながらこの若さ」と褒められる事を生きがいにしている。そういった価値観からか、弘元の死後、未亡人となっても落飾しなかった。上記の通り明るくハイテンションな性格で、「お黙りっ\!」が口癖。一目惚れした堀立直正と天竺まで旅立とうと思い立つが、その直前に急死する。念仏を唱えるなど信仰心が篤く元就にも受け継がれた。
@@ -629,7 +629,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
 
 </div>
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:NHK広島](https://ja.wikipedia.org/wiki/Category:NHK広島 "wikilink") [Category:NHK山口](https://ja.wikipedia.org/wiki/Category:NHK山口 "wikilink") [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:安芸毛利氏](https://ja.wikipedia.org/wiki/Category:安芸毛利氏 "wikilink") [Category:戦国時代_(日本)を舞台とした作品](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台とした作品 "wikilink") [Category:内館牧子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:内館牧子脚本のテレビドラマ "wikilink") [Category:永井路子](https://ja.wikipedia.org/wiki/Category:永井路子 "wikilink") [Category:毛利元就](https://ja.wikipedia.org/wiki/Category:毛利元就 "wikilink") [Category:森田剛](https://ja.wikipedia.org/wiki/Category:森田剛 "wikilink") [Category:一路真輝](https://ja.wikipedia.org/wiki/Category:一路真輝 "wikilink") [Category:榎木孝明](https://ja.wikipedia.org/wiki/Category:榎木孝明 "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:NHK広島](https://ja.wikipedia.org/wiki/Category:NHK広島 "wikilink") [Category:NHK山口](https://ja.wikipedia.org/wiki/Category:NHK山口 "wikilink") [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:内館牧子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:内館牧子脚本のテレビドラマ "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:安芸毛利氏](https://ja.wikipedia.org/wiki/Category:安芸毛利氏 "wikilink") [Category:永井路子](https://ja.wikipedia.org/wiki/Category:永井路子 "wikilink") [Category:毛利元就](https://ja.wikipedia.org/wiki/Category:毛利元就 "wikilink") [Category:森田剛](https://ja.wikipedia.org/wiki/Category:森田剛 "wikilink") [Category:一路真輝](https://ja.wikipedia.org/wiki/Category:一路真輝 "wikilink") [Category:榎木孝明](https://ja.wikipedia.org/wiki/Category:榎木孝明 "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
 
 1.  [特集　その時、舞台裏では…CGデジタル技術の歩みを振り返る NHKアーカイブス](http://www.nhk.or.jp/archives/search/special/detail/?d=backstage017)
 2.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

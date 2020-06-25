@@ -30,7 +30,7 @@
 <li>6:25　★<a href="../Page/MY_OLYMPIC.md" title="wikilink">MY OLYMPIC</a> - <a href="../Page/蒲田健.md" title="wikilink">蒲田健</a></li>
 <li>6:30　時々刻々</li>
 <li>6:40　Catch Of THE DAY</li>
-<li>6:46　★<a href="../Page/おはようSMAP.md" title="wikilink">おはようSMAP</a> - <a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>、<a href="../Page/立花裕人.md" title="wikilink">立花裕人</a>、<a href="../Page/柴田玲.md" title="wikilink">柴田玲</a></li>
+<li>6:46　★<a href="../Page/おはようSMAP.md" title="wikilink">おはようSMAP</a> - <a href="../Page/SMAP.md" title="wikilink">SMAP</a>、<a href="../Page/立花裕人.md" title="wikilink">立花裕人</a>、<a href="../Page/柴田玲.md" title="wikilink">柴田玲</a></li>
 <li>6:51　★<a href="https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。#百万人のメッセージ" title="wikilink">COSMO EARTH CONSCIOUS ACT'99〜百万人のメッセージ〜</a> - 柴田玲</li>
 <li>6:54　ウェザーリポート</li>
 <li><strong><em>7:00 - 30　★<a href="../Page/立花裕人のMORNING_FREEWAY.md" title="wikilink">立花裕人のMORNING FREEWAY</a> - 立花裕人、柴田玲</em></strong></li>

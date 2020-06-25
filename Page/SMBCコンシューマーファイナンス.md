@@ -163,10 +163,10 @@
 
 <!-- end list -->
 
-  - [しゃべくり007](../Page/しゃべくり007.md "wikilink") ※同業の[アコム](../Page/アコム.md "wikilink")、[アイフル](../Page/アイフル.md "wikilink")、[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")も提供。
-  - [月曜プラチナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")「[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")」（2020年4月 - ）※前半ナショナルスポンサーで、同業のアイフルも提供。
-  - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink") （2018年10月 - ）※同業のアイフルも提供。
-  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") （2017年4月 - ）※[日曜ドラマから移行](https://ja.wikipedia.org/wiki/日曜ドラマ_\(日本テレビ\) "wikilink")。
+  - [しゃべくり007](../Page/しゃべくり007.md "wikilink") ※同業者の[アコム](../Page/アコム.md "wikilink")、[アイフル](../Page/アイフル.md "wikilink")、[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")も提供。
+  - [月曜プラチナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")「[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")」（2020年4月 - ）※同業者のアイフルと共に前半ナショナルスポンサー。
+  - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink") （2018年10月 - ）※同業者のアイフルも提供。
+  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") （2017年4月 - ）※『[日曜ドラマ](https://ja.wikipedia.org/wiki/日曜ドラマ_\(日本テレビ\) "wikilink")』から移行。
   - 日曜ドラマ（2019年10月 - ）※一時降板時期あり
 
 <!-- end list -->
@@ -175,7 +175,7 @@
 
 <!-- end list -->
 
-  - [日曜プライム](https://ja.wikipedia.org/wiki/日曜プライム "wikilink")（22時台固定スポンサー）※2018年4 - 9月の間は、同業の[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")も提供だった。
+  - [日曜プライム](https://ja.wikipedia.org/wiki/日曜プライム "wikilink")（22時台固定スポンサー）※2018年4 - 9月の間は、同業者の[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")も提供だった。
 
 <!-- end list -->
 
@@ -183,7 +183,7 @@
 
 <!-- end list -->
 
-  - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink") ※同業のアコム、アイフル、[レイクALSAも提供](../Page/新生フィナンシャル.md "wikilink")。
+  - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink") ※同業者のアコム、アイフル、[レイクALSAも提供](../Page/新生フィナンシャル.md "wikilink")。
   - [櫻井・有吉 THE夜会](https://ja.wikipedia.org/wiki/櫻井・有吉_THE夜会 "wikilink")
 
 <!-- end list -->
@@ -192,7 +192,7 @@
 
 <!-- end list -->
 
-  - [ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink") ※同業のアコム、アイフル、レイクALSA、[SMBC モビットも提供](../Page/SMBCモビット.md "wikilink")。
+  - [ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink") ※同業者のアコム、アイフル、レイクALSA、[SMBC モビットも提供](../Page/SMBCモビット.md "wikilink")。
   - [ワイドナショー](https://ja.wikipedia.org/wiki/ワイドナショー "wikilink")
 
 #### 過去の提供番組
@@ -206,12 +206,12 @@
 [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列
 
   - [SmaSTATION\!\!](../Page/SmaSTATION!!.md "wikilink")
-  - [ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink") ※プロミスグループとして
+  - [ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink") ※プロミスグループとして。
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")
   - [やべっちFC〜日本サッカー応援宣言〜](../Page/やべっちFC〜日本サッカー応援宣言〜.md "wikilink")
   - [マツコ&有吉 かりそめ天国](https://ja.wikipedia.org/wiki/マツコ&有吉_かりそめ天国 "wikilink")（前半ナショナルスポンサー）
   - [金曜ナイトドラマ](../Page/金曜ナイトドラマ.md "wikilink")（前半ナショナルスポンサー）
-  - [シルシルミシル](https://ja.wikipedia.org/wiki/シルシルミシル "wikilink") ※[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月までは関東ローカルスポンサー。同年10月以降前半ナショナルスポンサーに昇格
+  - [シルシルミシル](https://ja.wikipedia.org/wiki/シルシルミシル "wikilink") ※[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月までは関東ローカルスポンサー。同年10月以降前半ナショナルスポンサーに昇格。
   - [おネプ\!](../Page/おネプ!.md "wikilink")
   - [『ぷっ』すま](../Page/『ぷっ』すま.md "wikilink")
   - [GO\!オスカル\!X21](https://ja.wikipedia.org/wiki/GO!オスカル!X21 "wikilink")（関東ローカルスポンサー）

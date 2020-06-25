@@ -339,11 +339,11 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 
 ## 外部リンク
 
-  - [LOVE LOVE あいしてる SUMMARY](http://www.fujitv.co.jp/LOVELOVE/) - フジテレビによる番組公式サイト
-  - [LOVE LOVE あいしてる 16年ぶりの復活SP](http://www.fujitv.co.jp/LOVELOVE2017/) - 同上
-  - [音組ホームページ](http://www.fujitv.co.jp/otogumi/)
-  - [きくちPの音組収録日記](http://www.fujitv.co.jp/otogumi/lovekp/)
-  - [音組スタッフルーム](http://www.fujitv.co.jp/FNS/staffroom/)
+  - [LOVE LOVE あいしてる SUMMARY](https://www.fujitv.co.jp/LOVELOVE/) - フジテレビによる番組公式サイト
+  - [LOVE LOVE あいしてる 16年ぶりの復活SP](https://www.fujitv.co.jp/LOVELOVE2017/) - 同上
+  - [音組ホームページ](https://www.fujitv.co.jp/otogumi/)
+  - [きくちPの音組収録日記](https://www.fujitv.co.jp/otogumi/lovekp/)
+  - [音組スタッフルーム](https://www.fujitv.co.jp/FNS/staffroom/)
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:パナソニックグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:パナソニックグループ単独提供番組 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:KinKi_Kids](https://ja.wikipedia.org/wiki/Category:KinKi_Kids "wikilink") [Category:吉田拓郎](https://ja.wikipedia.org/wiki/Category:吉田拓郎 "wikilink")
 

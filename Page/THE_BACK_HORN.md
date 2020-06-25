@@ -686,7 +686,7 @@ TYCT-60109 (通常盤)</p></td>
   - 2007年04月29日 - ARABAKI ROCK FEST.07
   - 2007年08月25日 - OTODAMA '07 音泉魂
   - 2007年09月03日・05日・07日 - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") TOUR 2007
-  - 2007年10月19日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 07
+  - 2007年10月19日 - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR YOUNG FLAG 07
   - 2007年12月30日・31日 - COUNTDOWN JAPAN 07/08
   - 2008年04月27日 - ARABAKI ROCK FEST.08
   - 2008年06月22日 - [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink") 2マンTour"徹子のHair"ファイナル

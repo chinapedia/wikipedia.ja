@@ -298,7 +298,7 @@ Folder5</p></td>
 </tr>
 <tr class="odd">
 <td><p>00.09.16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a></p></td>
+<td><p><a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a></p></td>
 </tr>
 <tr class="even">
 <td><p>00.09.30</p></td>

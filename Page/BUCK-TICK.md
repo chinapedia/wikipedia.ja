@@ -80,7 +80,7 @@
       - 10月26日、2ndシングル「[JUST ONE MORE KISS](https://ja.wikipedia.org/wiki/JUST_ONE_MORE_KISS "wikilink")」をリリース。ビクターのラジカセ「[CDian](../Page/CDian.md "wikilink")」のCMに起用。
       - 同年、[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")新人賞を獲得。
   - [1989年](../Page/1989年.md "wikilink")
-      - 1月18日、4thアルバム『[TABOO](https://ja.wikipedia.org/wiki/TABOO "wikilink")』リリース。
+      - 1月18日、4thアルバム『[TABOO](../Page/TABOO_\(アルバム\).md "wikilink")』リリース。
 
       - 1月19日-20日、ライブツアー『SEVENTH HEAVEN』最終公演として、バンド初の[日本武道館](../Page/日本武道館.md "wikilink")公演を開催。
 

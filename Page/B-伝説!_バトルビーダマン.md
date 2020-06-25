@@ -1589,6 +1589,10 @@
   - [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")
   - [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")
 
+## 海外版
+
+[韓国版は第](../Page/大韓民国.md "wikilink")1期は『玉対戦 バトルビーダマン』であり、第2期では『[天下統一 ファイヤービーダマン](../Page/天下統一_ファイヤービーダマン.md "wikilink")』と言うタイトル名で[KBSで放送した](../Page/韓国放送公社.md "wikilink")
+
 ## 脚注
 
 ## 外部リンク

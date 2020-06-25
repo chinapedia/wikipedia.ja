@@ -7,35 +7,35 @@
 
 ### ビクター・キニョネス体制
 
-[W★INGプロモーション](../Page/W★INGプロモーション.md "wikilink")の創設者の1人で[悪役](../Page/ヒール_\(プロレス\).md "wikilink")[マネージャーだった](../Page/マネージャー_\(プロレス\).md "wikilink")[ビクター・キニョネス](../Page/ビクター・キニョネス.md "wikilink")は[1992年](../Page/1992年.md "wikilink")、W★INGの代表であった[茨城清志](https://ja.wikipedia.org/wiki/茨城清志 "wikilink")と衝突してW★INGから撤退。その後、W★INGが崩壊したことにより残された元所属選手を救済する目的によって設立。
+[1992年](../Page/1992年.md "wikilink")、[W★INGプロモーション](../Page/W★INGプロモーション.md "wikilink")の創設者の1人で[悪役](../Page/ヒール_\(プロレス\).md "wikilink")[マネージャーだった](../Page/マネージャー_\(プロレス\).md "wikilink")[ビクター・キニョネス](../Page/ビクター・キニョネス.md "wikilink")は、W★INGの代表であった[茨城清志](https://ja.wikipedia.org/wiki/茨城清志 "wikilink")と衝突してW★INGから撤退。その後、W★INGが崩壊したことにより残された元所属選手を救済する目的によって設立。
 
-[1994年](../Page/1994年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で旗揚げ戦を開催（実際には、この直前に[横須賀臨海公園](https://ja.wikipedia.org/wiki/横須賀臨海公園 "wikilink")特設リングで旗揚げ前夜祭を開催している）。当時、実際のオーナーはキニョネスだったが登記その他の理由からキニョネスの知人である日本人の若手実業家を社長に迎える（後に団体内のトラブルからキニョネスが代表に就任）。
+[1994年](../Page/1994年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で旗揚げ戦を開催\[1\]。当時、実際のオーナーはキニョネスだったが、登記その他の理由からキニョネスの知人である日本人の若手実業家を社長に迎える（後に団体内のトラブルからキニョネスが代表に就任）。
 
-[IWA流山](../Page/ユニオンプロレス.md "wikilink")（後の[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")。DDTグループだったユニオンプロレスとは繋がりはあるものの会社としては別）から移籍した[荒谷信孝](../Page/荒谷望誉.md "wikilink")（現：荒谷望誉）をエースにW★INGから移籍した[金村ゆきひろ](../Page/金村キンタロー.md "wikilink")（現：金村キンタロー）が対抗して、それにキニョネスがブッキングした外国人選手が絡むと言う図式で興行を開催。
+[IWA流山](../Page/ユニオンプロレス.md "wikilink")\[2\]から移籍した[荒谷信孝](../Page/荒谷望誉.md "wikilink")（現：荒谷望誉）をエースに、W★INGから移籍した[金村ゆきひろ](../Page/金村キンタロー.md "wikilink")（現：金村キンタロー）が対抗して、それにキニョネスがブッキングした外国人選手が絡むと言う図式で興行を開催。
 
-その後、金村が[FMWに荒谷が](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")[WARに移籍して両エースが離脱する事態に直面するが金村同様にW](../Page/WAR_\(プロレス\).md "wikilink")★INGから移籍した[中牧昭二](../Page/中牧昭二.md "wikilink")と[小野浩志](https://ja.wikipedia.org/wiki/小野浩志 "wikilink")がタッグチーム「[血みどろブラザーズ](https://ja.wikipedia.org/wiki/血みどろブラザーズ "wikilink")」を結成して「画鋲[デスマッチ](../Page/デスマッチ.md "wikilink")」などの過激なデスマッチを展開。それに加えてキニョネスのブッキングで[テリー・ファンク](../Page/テリー・ファンク.md "wikilink")、[カクタス・ジャック](../Page/ミック・フォーリー.md "wikilink")、[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")等の大物選手を招聘。加えて当時のライバル団体であったFMWを退団した[ターザン後藤](../Page/ターザン後藤.md "wikilink")、[ミスター雁之助](../Page/ミスター雁之助.md "wikilink")、[フライングキッド市原](../Page/フライングキッド市原.md "wikilink")のユニット「[真FMW](https://ja.wikipedia.org/wiki/真FMW "wikilink")」なども参戦。
+その後、金村が[FMWに](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")、荒谷が[WARに移籍して両エースが離脱する事態に直面するが](../Page/WAR_\(プロレス\).md "wikilink")、金村同様にW★INGから移籍した[中牧昭二](../Page/中牧昭二.md "wikilink")と[小野浩志](https://ja.wikipedia.org/wiki/小野浩志 "wikilink")がタッグチーム「[血みどろブラザーズ](https://ja.wikipedia.org/wiki/血みどろブラザーズ "wikilink")」を結成して「画鋲[デスマッチ](../Page/デスマッチ.md "wikilink")」などの過激なデスマッチを展開。それに加えてキニョネスのブッキングで[テリー・ファンク](../Page/テリー・ファンク.md "wikilink")、[カクタス・ジャック](../Page/ミック・フォーリー.md "wikilink")、[ダン・スバーン](../Page/ダン・スバーン.md "wikilink")等の大物選手を招聘。加えて、当時のライバル団体であったFMWを退団した[ターザン後藤](../Page/ターザン後藤.md "wikilink")、[ミスター雁之助](../Page/ミスター雁之助.md "wikilink")、[フライングキッド市原](../Page/フライングキッド市原.md "wikilink")のユニット「[真FMW](https://ja.wikipedia.org/wiki/真FMW "wikilink")」なども参戦。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、[川崎球場](../Page/川崎球場.md "wikilink")で興行を開催する程の隆盛を得る。同年、[NWAにも加盟](../Page/NWA_\(プロレス\).md "wikilink")。11月から12月、NWA世界タッグ・リーグ戦（[日本プロレス](../Page/日本プロレス.md "wikilink")で開催された[NWAタッグ・リーグ戦](https://ja.wikipedia.org/wiki/NWAタッグ・リーグ戦 "wikilink")とは別物）を開催した他に[NWA世界ヘビー級選手権試合も組まれたことがあった](../Page/NWA世界ヘビー級王座.md "wikilink")。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、[川崎球場](../Page/川崎球場.md "wikilink")で興行を開催する程の隆盛を得る。同年、[NWAにも加盟](../Page/NWA_\(プロレス\).md "wikilink")。11月から12月、NWA世界タッグ・リーグ戦\[3\]を開催した他に[NWA世界ヘビー級選手権試合も組まれたことがあった](../Page/NWA世界ヘビー級王座.md "wikilink")。
 
 ### 山田圭介体制
 
-[1996年](../Page/1996年.md "wikilink")、代表のキニョネスが経営陣から撤退してFMWへ手駒の外国人選手（[プエルトリコ軍](https://ja.wikipedia.org/wiki/プエルトリコ軍 "wikilink")）を率いて参戦。これに中牧も呼応する形で離脱してFMWへ参戦するなど苦境が続いたが真FMW軍との抗争をメインに何とか興行活動を維持することが出来た。
+[1996年](../Page/1996年.md "wikilink")、代表のキニョネスが経営陣から撤退し、FMWへ手駒の外国人選手（[プエルトリコ軍](https://ja.wikipedia.org/wiki/プエルトリコ軍 "wikilink")）を率いて参戦。これに中牧も呼応する形で離脱してFMWへ参戦するなど苦境が続いたが、真FMW軍との抗争をメインに何とか興行活動を維持することが出来た。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月、元[WWF](../Page/WWE.md "wikilink")（現：WWE）[極東](../Page/極東.md "wikilink")地区担当マネージャーで前年にWARで選手兼ブッカーとして参戦していた[佐藤昭雄](../Page/佐藤昭雄.md "wikilink")を専務として招聘。この佐藤のラインから6月には[ECW](../Page/ECW.md "wikilink")と業務提携を結んで[レイヴェン](../Page/レイヴェン_\(プロレスラー\).md "wikilink")、[トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")、[スティービー・リチャーズなどのECWの精鋭が興行に参加するなど全盛期の勢いを取り戻すものと思われた](../Page/マイケル・マナ.md "wikilink")。11月、「FFF（プロレスリング統一機構）」の設立に佐藤が関与して退団。これに呼応する形で真FMW軍も撤退するなど存続の最大の危機を迎える事となった。この時は若手選手の[山田圭介](../Page/バッファロー_\(プロレスラー\).md "wikilink")（現：バッファロー）が代表に就任してテコ入れとしてFFFに参加しなかった[ザ・グレート・カブキ](../Page/ザ・グレート・カブキ.md "wikilink")を所属選手として三顧の礼で迎え入れてファンの支えにより何とか持続する事が出来た。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")2月、元[WWF](../Page/WWE.md "wikilink")（現：WWE）[極東](../Page/極東.md "wikilink")地区担当マネージャーで前年にWARで選手兼ブッカーとして参戦していた[佐藤昭雄](../Page/佐藤昭雄.md "wikilink")を専務として招聘。この佐藤のラインから6月には[ECW](../Page/ECW.md "wikilink")と業務提携を結び、[レイヴェン](../Page/レイヴェン_\(プロレスラー\).md "wikilink")、[トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")、[スティービー・リチャーズなどのECWの精鋭が興行に参加するなど](../Page/マイケル・マナ.md "wikilink")、全盛期の勢いを取り戻すものと思われた。11月、「FFF（プロレスリング統一機構）」の設立に佐藤が関与して退団。これに呼応する形で真FMW軍も撤退するなど存続の最大の危機を迎える事となった。この時は若手選手の[山田圭介](../Page/バッファロー_\(プロレスラー\).md "wikilink")（現：バッファロー）が代表に就任し、テコ入れとしてFFFに参加しなかった[ザ・グレート・カブキ](../Page/ザ・グレート・カブキ.md "wikilink")を所属選手として三顧の礼で迎え入れ、ファンの支えにより何とか持続する事が出来た。
 
 ### 浅野起州体制
 
 [SHINJUKU_CIMG5193.jpg](https://ja.wikipedia.org/wiki/File:SHINJUKU_CIMG5193.jpg "fig:SHINJUKU_CIMG5193.jpg") [1999年](../Page/1999年.md "wikilink")、選手兼代表の山田が退団。それと前後して当時後援者でもあった[浅野起州](../Page/浅野起州.md "wikilink")が代表に就任。
 
-上記の通り何度も存続の危機に見舞われるが、その都度危機を乗り越えてネームバリューのある外国人選手の招聘や[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")を始めとする他団体との交流を行っている。主なストーリーラインは謎の集団「UMA軍団」を中心とした「[新宿二丁目](https://ja.wikipedia.org/wiki/新宿二丁目 "wikilink")劇場」と銘打ったコミカルな[アングル](../Page/アングル_\(プロレス\).md "wikilink")。小規模会場をメインとしながら継続的な興行を開催していた。
+上記の通り何度も存続の危機に見舞われるが、その都度危機を乗り越え、ネームバリューのある外国人選手の招聘や[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")を始めとする他団体との交流を行っていた。主なストーリーラインは、謎の集団「UMA軍団」を中心とした「[新宿二丁目](https://ja.wikipedia.org/wiki/新宿二丁目 "wikilink")劇場」と銘打ったコミカルな[アングル](../Page/アングル_\(プロレス\).md "wikilink")。小規模会場をメインとしながら継続的な興行を開催していた。
 
 [2011年](../Page/2011年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")、[3月11日](../Page/3月11日.md "wikilink")に起きた[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の復興ボランティア興行を浅野の地元[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[岩沼市](../Page/岩沼市.md "wikilink")で開催。8月に[松田慶三](https://ja.wikipedia.org/wiki/松田慶三 "wikilink")、12月に[小部卓真](https://ja.wikipedia.org/wiki/小部卓真 "wikilink")が退団して所属選手が0人になった。
 
-[2012年](../Page/2012年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")、浅野の60歳の誕生日前日に約1年3ヶ月ぶりの興行「金六〇祭」を[新宿FACE](../Page/新宿FACE.md "wikilink")で開催\[1\]。
+[2012年](../Page/2012年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")、浅野の60歳の誕生日前日に約1年3ヶ月ぶりの興行「金六〇祭」を[新宿FACE](../Page/新宿FACE.md "wikilink")で開催\[4\]。
 
-[2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、浅野が体調面の不安から年内で引退と同時に年内でI.W.A.JAPANの活動休止を発表\[2\]。[10月13日](../Page/10月13日.md "wikilink")、新宿FACE大会を最後に活動休止。同興行で「浅野起州代理引退記念試合」が行われた。
+[2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、浅野が体調面の不安から年内で引退と同時に年内でI.W.A.JAPANの活動休止を発表\[5\]。[10月13日](../Page/10月13日.md "wikilink")、新宿FACE大会を最後に活動休止。同興行で「浅野起州代理引退記念試合」が行われた。
 
-活動休止中であるが会社は存続しており王座の管理、UMA軍団のマネジメント、浅野が運営している飲食店「[お食事処 花膳](https://ja.wikipedia.org/wiki/お食事処_花膳 "wikilink")」の営業を事業としている。
+活動休止中ではあるが会社は存続しており、王座の管理、UMA軍団のマネジメント、浅野が運営している飲食店「[お食事処 花膳](https://ja.wikipedia.org/wiki/お食事処_花膳 "wikilink")」の営業を事業としている。
 
 ## タイトル
 
@@ -179,5 +179,8 @@
 
 [Category:IWA・JAPAN](https://ja.wikipedia.org/wiki/Category:IWA・JAPAN "wikilink") [Category:現在活動していない日本のプロレス団体](https://ja.wikipedia.org/wiki/Category:現在活動していない日本のプロレス団体 "wikilink") [Category:GPWA](https://ja.wikipedia.org/wiki/Category:GPWA "wikilink") [Category:NWA](https://ja.wikipedia.org/wiki/Category:NWA "wikilink") [Category:ECW](https://ja.wikipedia.org/wiki/Category:ECW "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:1994年設立の企業](https://ja.wikipedia.org/wiki/Category:1994年設立の企業 "wikilink")
 
-1.
-2.
+1.  実際には、この直前に[横須賀臨海公園](https://ja.wikipedia.org/wiki/横須賀臨海公園 "wikilink")特設リングで旗揚げ前夜祭を開催している
+2.  後の[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")。DDTグループだったユニオンプロレスとは繋がりはあるものの会社としては別
+3.  [日本プロレス](../Page/日本プロレス.md "wikilink")で開催された[NWAタッグ・リーグ戦](https://ja.wikipedia.org/wiki/NWAタッグ・リーグ戦 "wikilink")とは別物
+4.
+5.

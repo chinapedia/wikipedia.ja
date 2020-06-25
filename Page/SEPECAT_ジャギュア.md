@@ -23,6 +23,8 @@
 
 現在、作戦機としては、イギリス、フランス、[オマーン](https://ja.wikipedia.org/wiki/オマーン空軍 "wikilink")、ナイジェリア空軍から退役しており、残るのは[インド空軍](../Page/インド空軍.md "wikilink")のみ\[3\]。
 
+練習機としてもイギリスは07年に退役済み。
+
 インド空軍のジャギュア攻撃機は、[1980年代](../Page/1980年代.md "wikilink")から[ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink")で[ライセンス生産](../Page/ライセンス生産.md "wikilink")されており、[偵察](../Page/偵察.md "wikilink")任務から海上での[支援戦闘機](../Page/支援戦闘機.md "wikilink")として運用してきた。実戦に参加したのは、[1999年](../Page/1999年.md "wikilink")の[カルギル戦争で](https://ja.wikipedia.org/wiki/:en:Kargil_War "wikilink")、[レーザー誘導爆弾](../Page/レーザー誘導爆弾.md "wikilink")を落としたり積極的な役割を果たした。
 
 古くなったジャギュア攻撃機の近代化改修は、ヒンドスタン航空機が手掛ける。HAL ジャギュア・ダーリンIIIと名付け、その改修内容は多岐にわたる。現代の基準ではパワー不足となっている[アドーア](https://ja.wikipedia.org/wiki/ロールス・ロイス・チュルボメカ_アドーア "wikilink")[エンジン](../Page/エンジン.md "wikilink")から、[ハネウェル](../Page/ハネウェル.md "wikilink")社の[F125IN](https://ja.wikipedia.org/wiki/:en:Honeywell/ITEC_F124 "wikilink") エンジンに換装し推力強化をはかり、全天候マルチモード[レーダー](../Page/レーダー.md "wikilink")、[オートパイロット](../Page/オートパイロット.md "wikilink")システム、[グラスコックピット](../Page/グラスコックピット.md "wikilink")化と[ヘッドマウントディスプレイ](../Page/ヘッドマウントディスプレイ.md "wikilink")、[フライ・バイ・ワイヤ](../Page/フライ・バイ・ワイヤ.md "wikilink")を採用\[4\]。ミッション[コンピュータ](../Page/コンピュータ.md "wikilink")、飛行計器システム、ソリッドステート・デジタル・ビデオ・レコーディング・システム、ソリッドステートフライトデータレコーダーと追加機能を含む新しい最先端の[アビオニクス](../Page/アビオニクス.md "wikilink")に変更する\[5\]。

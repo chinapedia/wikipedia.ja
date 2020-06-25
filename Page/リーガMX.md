@@ -1007,7 +1007,14 @@
 
 ## 関連項目
 
-  - [スーパーリーガ (北米サッカー)](../Page/スーパーリーガ_\(北米サッカー\).md "wikilink")
+  - [プリメーラ・フエルサ](https://ja.wikipedia.org/wiki/プリメーラ・フエルサ "wikilink")
+  - [リーガ・オクシデンタル・デ・ハリスコ](https://ja.wikipedia.org/wiki/リーガ・オクシデンタル・デ・ハリスコ "wikilink")
+  - [リーガ・アマテウル・デ・ベラクルス](https://ja.wikipedia.org/wiki/リーガ・アマテウル・デ・ベラクルス "wikilink")
+  - [アセンソMX](https://ja.wikipedia.org/wiki/リーガ・デ・アセンソ "wikilink")
+  - [リーガ・プレミエル](https://ja.wikipedia.org/wiki/リーガ・プレミエル_\(メキシコ\) "wikilink")
+  - [リーガTDP](https://ja.wikipedia.org/wiki/テルセーラ・ディビシオン_\(メキシコ\) "wikilink")
+  - [カンペオン・デ・カンペオーネス](https://ja.wikipedia.org/wiki/カンペオン・デ・カンペオーネス "wikilink")
+  - [コパMX](https://ja.wikipedia.org/wiki/コパ・メヒコ "wikilink")
 
 ## 脚注
 

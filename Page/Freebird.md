@@ -1,7 +1,7 @@
 > この記事は[Freebird](https://ja.wikipedia.org/wiki/Freebird)から翻訳されています。
 
 
-「**freebird**」（フリーバード）は、[2002年](../Page/2002年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")に[ビクターエンタテインメントよりリリースされた](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の34枚目の[シングル](../Page/シングル.md "wikilink")。前年8月末より活動を休止していた、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の復帰作品でもある。
+「**freebird**」（フリーバード）は、[2002年](../Page/2002年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink")に[ビクターエンタテインメントよりリリースされた](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[SMAP](../Page/SMAP.md "wikilink")の34枚目の[シングル](../Page/シングル.md "wikilink")。前年8月末より活動を休止していた、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")の復帰作品でもある。
 
 ## チャート成績
 

@@ -11,7 +11,7 @@
 
 **[吉田 大吾](../Page/吉田大吾.md "wikilink")**（よしだ だいご [1979年](../Page/1979年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）
 
-ツッコミ（便乗ボケ）、主にネタ作り担当。身長182cm、体重63kg O型。趣味は散歩・株。特技は単独行動。[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の大ファン。[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪出身](../Page/荻窪_\(杉並区\).md "wikilink")。[東京都立豊多摩高等学校](../Page/東京都立豊多摩高等学校.md "wikilink")卒業。小・中学校は[せんだみつお](../Page/せんだみつお.md "wikilink")、高校は[宮崎駿](../Page/宮崎駿.md "wikilink")の後輩。阿部と同じく『映話』のレギュラーメンバー。 東京大吾組の主催者。2012年4月から2014年10月までの2年半、[TOKYO FMのラジオ番組](../Page/エフエム東京.md "wikilink")『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』にて「よしだ教頭」として[メインパーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
+ツッコミ（便乗ボケ）、主にネタ作り担当。身長182cm、体重63kg O型。趣味は散歩・株。特技は単独行動。[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の大ファン。[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪出身](../Page/荻窪_\(杉並区\).md "wikilink")。[東京都立豊多摩高等学校](../Page/東京都立豊多摩高等学校.md "wikilink")卒業。小・中学校は[せんだみつお](../Page/せんだみつお.md "wikilink")、高校は[宮崎駿](../Page/宮崎駿.md "wikilink")の後輩。阿部と同じく『映話』のレギュラーメンバー。 東京大吾組の主催者。2012年4月から2014年10月までの2年半、[TOKYO FMのラジオ番組](../Page/エフエム東京.md "wikilink")『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』にて「よしだ教頭」として[メインパーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
 
 ## 来歴
 
@@ -91,7 +91,7 @@
 
 ### ラジオ
 
-  - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")、2012年4月2日 - 2014年10月2日、吉田のみ）
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")、2012年4月2日 - 2014年10月2日、吉田のみ）
 
 ### CM（声の出演）
 

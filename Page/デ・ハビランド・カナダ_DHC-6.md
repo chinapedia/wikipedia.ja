@@ -7,11 +7,13 @@
 
 ## 概要
 
-[De_Havilland_Canada_DHC-6-200_Twin_Otter,_Fayard_Enterprises_AN1275854.jpg](https://ja.wikipedia.org/wiki/File:De_Havilland_Canada_DHC-6-200_Twin_Otter,_Fayard_Enterprises_AN1275854.jpg "fig:De_Havilland_Canada_DHC-6-200_Twin_Otter,_Fayard_Enterprises_AN1275854.jpg") DHC-3を[ターボプロップ双発としたもので](../Page/ターボプロップエンジン.md "wikilink")、[1964年](../Page/1964年.md "wikilink")から開発が開始された。[1965年](../Page/1965年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に試作機が初飛行し、翌年には最初の量産機が就航している。しかし、未開地で運航する会社からの要請を念頭に設計された本機が[コミューター航空会社](../Page/コミューター航空会社.md "wikilink")から高い人気を集めたのはデ・ハビランド・カナダ社にとって予想外のことであった。また、軍用機としても[アメリカを始め多くの国で採用された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（アメリカ軍での呼称は**UV-18**）。
+[De_Havilland_Canada_DHC-6-200_Twin_Otter,_Fayard_Enterprises_AN1275854.jpg](https://ja.wikipedia.org/wiki/File:De_Havilland_Canada_DHC-6-200_Twin_Otter,_Fayard_Enterprises_AN1275854.jpg "fig:De_Havilland_Canada_DHC-6-200_Twin_Otter,_Fayard_Enterprises_AN1275854.jpg") [DHC-3を](../Page/デ・ハビランド・カナダ_DHC-3.md "wikilink")[ターボプロップ双発としたもので](../Page/ターボプロップエンジン.md "wikilink")、[1964年](../Page/1964年.md "wikilink")から開発が開始された。[1965年](../Page/1965年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に試作機が初飛行し、翌年には最初の量産機が就航している。しかし、未開地で運航する会社からの要請を念頭に設計された本機が[コミューター航空会社](../Page/コミューター航空会社.md "wikilink")から高い人気を集めたのはデ・ハビランド・カナダ社にとって予想外のことであった。また、軍用機としても[アメリカを始め多くの国で採用された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（アメリカ軍での呼称は**UV-18**）。
 
-胴体部はDHC-3と同等のものをストレッチして用いており、乗客収容数が増加している。主翼は高翼配置の直線翼であり、双発化に伴い約2 m広げられたほか、垂直尾翼に後退角が付けられている。[コックピット](https://ja.wikipedia.org/wiki/コックピット "wikilink")はアナログ計器主体の保守的な仕様であるが、[操縦桿](../Page/操縦桿.md "wikilink")は機体中央から伸びたアームが途中で左右に分かれるというDHC-3と同じレイアウトを採用している。[グラスコックピット](../Page/グラスコックピット.md "wikilink")化されたDHC-400では左右に分かれる部分にスイッチ類が配置されている。なおDHC-8ではボーイングなどと同等の標準的なレイアウトに変更された。
+胴体部はDHC-3と同等のものをストレッチして用いており、乗客収容数が増加している。主翼は高翼配置の直線翼であり、双発化に伴い約2m広げられたほか、垂直尾翼に後退角が付けられている。[コックピット](https://ja.wikipedia.org/wiki/コックピット "wikilink")はアナログ計器主体の保守的な仕様であるが、[操縦桿](../Page/操縦桿.md "wikilink")は機体中央から伸びたアームが途中で左右に分かれるというDHC-3と同じレイアウトを採用している。[グラスコックピット](../Page/グラスコックピット.md "wikilink")化されたDHC-400では左右に分かれる部分にスイッチ類が配置されている。なお後の[DHC-7以降は](../Page/デ・ハビランド・カナダ_DHC-7.md "wikilink")[ボーイング](../Page/ボーイング.md "wikilink")などと同等の標準的なレイアウトに変更された。
 
 降着装置は前輪式に変更となっている他、[スキー](../Page/スキー.md "wikilink")や[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")の装備も可能であることから、スリランカ・エアタクシー（[スリランカ航空](../Page/スリランカ航空.md "wikilink")の事業）では、観光客を島々へ送迎する[エアタクシー](https://ja.wikipedia.org/wiki/エアタクシー "wikilink")として[水上機](../Page/水上機.md "wikilink")仕様のDHC-6を利用している。
+
+未開地での運航を想定した頑丈な造りから、「空の[四輪駆動](../Page/四輪駆動.md "wikilink")車」と評するパイロットもいる\[1\]。
 
 [1988年](../Page/1988年.md "wikilink")にデ・ハビランド・カナダ社での生産が終了するまでに総数844機が生産された。その後はより効率的な新型の機体が出現したため航空会社での使用は減少したが、中小規模の運航会社では依然として人気が高く、現在ボンバルディア社から製造権を取得した[バイキング・エア](https://ja.wikipedia.org/wiki/バイキング・エア "wikilink")が、独自の改良型シリーズ400の製造を行っている。 またバイキング・エアは水上機への改装業者からスタートしたこともあり、水陸両用の車輪付きフロートを自社で製造し、純正オプションに加えている。
 
@@ -59,7 +61,7 @@
 
 エアーニッポンの機体も1994年7月に[エアー北海道](../Page/エアー北海道.md "wikilink")へ移籍され、2003年からは最後に残った一機（JA8797）が[函館](../Page/函館空港.md "wikilink") ‐ [奥尻線で運航されていたが](../Page/奥尻空港.md "wikilink")、老朽化や[TCAS](https://ja.wikipedia.org/wiki/TCAS "wikilink")設置の義務化（ADKのDHC-6はTCASが設置されていなかった）などにより、[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の運航を最後に引退し、一旦は日本の空からDHC-6が消えた。
 
-[2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[第一航空](https://ja.wikipedia.org/wiki/第一航空 "wikilink")がDHC-6-400を2機を発注し、2015年3月31日にJA201D・JA202Dとして登録された。2015年8月5日より、[那覇](../Page/那覇空港.md "wikilink") - [粟国間の定期便として就航した](../Page/粟国空港.md "wikilink")\[1\] が、2015年8月28日午前8時55分頃、那覇発粟国行きのJA201Dが粟国空港に接地後、滑走路を逸脱しフェンスに衝突。機体を中破し搭乗客11人が負傷する[事故となり](../Page/航空事故.md "wikilink")、路線運休を余儀なくされた。2018年1月にいったん運航を再開したものの、国・沖縄県・粟国村からの補助金が切れるため同年4月より再び運休となった\[2\]。
+[2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[第一航空](https://ja.wikipedia.org/wiki/第一航空 "wikilink")がDHC-6-400を2機を発注し、2015年3月31日にJA201D・JA202Dとして登録された。2015年8月5日より、[那覇](../Page/那覇空港.md "wikilink") - [粟国間の定期便として就航した](../Page/粟国空港.md "wikilink")\[2\] が、2015年8月28日午前8時55分頃、那覇発粟国行きのJA201Dが粟国空港に接地後、滑走路を逸脱しフェンスに衝突。機体を中破し搭乗客11人が負傷する[事故となり](../Page/航空事故.md "wikilink")、路線運休を余儀なくされた。2018年1月にいったん運航を再開したものの、国・沖縄県・粟国村からの補助金が切れるため同年4月より再び運休となった\[3\]。
 
 ## 脚注
 
@@ -75,5 +77,6 @@
 
 [Category:カナダの航空機](https://ja.wikipedia.org/wiki/Category:カナダの航空機 "wikilink") [Category:旅客機](https://ja.wikipedia.org/wiki/Category:旅客機 "wikilink")
 
-1.
+1.  [メーデー\!:航空機事故の真実と真相](https://ja.wikipedia.org/wiki/メーデー!:航空機事故の真実と真相 "wikilink") 第11シーズン第9話 "Terror In Paradise"
 2.
+3.

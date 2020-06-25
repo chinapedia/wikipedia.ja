@@ -69,7 +69,7 @@
   - [29](https://ja.wikipedia.org/wiki/29_\(アルバム\) "wikilink")（2016年10月26日 ZACL-9094）
   - [Best Of Best 25th Anniversary](https://ja.wikipedia.org/wiki/Best_Of_Best_25th_Anniversary "wikilink")（2017年4月26日 ZACL-9095〜9096）
   - [30](https://ja.wikipedia.org/wiki/30（アルバム） "wikilink")（2017年10月25日 ZACL-9097）
-  - [31](https://ja.wikipedia.org/wiki/31_\(DIMENSIONのアルバム\) "wikilink")（2020年5月6日 ZACL-9116）
+  - [31](../Page/31_\(DIMENSIONのアルバム\).md "wikilink")（2020年5月6日 ZACL-9116）
 
 ### CD-BOX
 

@@ -35,7 +35,7 @@
 ## その他
 
   - [パワープレイ](https://ja.wikipedia.org/wiki/パワープレイ "wikilink")
-  - [ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション_\(曖昧さ回避\) "wikilink")(**p**ole **p**osition)
+  - [ポールポジション (曖昧さ回避)](https://ja.wikipedia.org/wiki/ポールポジション_\(曖昧さ回避\) "wikilink") (**p**ole **p**osition)
   - [プロスペクト](https://ja.wikipedia.org/wiki/プロスペクト "wikilink")（**P**ros**P**ect） - 「見込み客」を意味する営業用語
   - [プロダクトプレイスメント](https://ja.wikipedia.org/wiki/プロダクトプレイスメント "wikilink") (**P**roduct **P**lacement) - 劇中において、小道具とや背景として商標を表示させる手法のこと。
   - [NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")（[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")：JO**PP**-DTV/JO**PP**-FM）
@@ -46,6 +46,7 @@
   - [フローンの気候区分](https://ja.wikipedia.org/wiki/フローンの気候区分 "wikilink")における気候帯である亜熱帯乾燥帯
   - [ローマ教皇](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")（[羅](../Page/ラテン語.md "wikilink")：*Papa*）の略称
   - [docomo NEXT Series MEDIAS **PP** N-01D](https://ja.wikipedia.org/wiki/N-01D "wikilink") - [NECカシオ モバイルコミュニケーションズ製の](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向け[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")
+  - [陽子-陽子連鎖反応](../Page/陽子-陽子連鎖反応.md "wikilink") (**p**roton-**p**roton chain reaction)
 
 ## 関連項目
 

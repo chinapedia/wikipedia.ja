@@ -1,7 +1,7 @@
 > この記事は[VOICE21](https://ja.wikipedia.org/wiki/VOICE21)から翻訳されています。
 
 
-『**VOICE21**』（ボイスにじゅういち）は、[山陽放送テレビ](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK）で放送されていた、瀬戸内ローカルの[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に放送を開始し、2009年4月に放送開始20周年を、2013年6月23日放送分で1000回目を迎えた長寿番組であった。その後、およそ2年間のブランクを経て、[2015年](../Page/2015年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")より『**VOICE愛**』（ボイスラブ）としてリニューアルされた\[1\]。
+『**VOICE21**』（ボイスにじゅういち）は、[山陽放送テレビ](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）で放送されていた、瀬戸内ローカルの[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[1989年](../Page/1989年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")に放送を開始し、2009年4月に放送開始20周年を、2013年6月23日放送分で1000回目を迎えた長寿番組であった。その後、およそ2年間のブランクを経て、[2015年](../Page/2015年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")より『**VOICE愛**』（ボイスラブ）としてリニューアルされた\[1\]。
 
 RSKの[地上デジタル放送開始に伴い](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、2006年12月7日放送分から[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作になった。
 

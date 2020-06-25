@@ -188,6 +188,8 @@
       - [ロボロボ](https://ja.wikipedia.org/wiki/ロボロボ "wikilink")（火 - 金 0:53 - 0:59〈月 - 木深夜〉）
       - [関西発\!才能発掘TV マンモスター](https://ja.wikipedia.org/wiki/関西発!才能発掘TV_マンモスター "wikilink")（火 0:59 - 1:30〈月深夜〉）
       - [ミキBASE〜いいね\!で応援〜](https://ja.wikipedia.org/wiki/ミキBASE〜いいね!で応援〜 "wikilink")（木 1:59 - 2:30〈水深夜〉）
+      - [バズ★ナイトサマー\!](https://ja.wikipedia.org/wiki/バズ★ナイトサマー! "wikilink")（木 23:58 - 翌0:25）
+      - [田村淳のコンテンツHolic](https://ja.wikipedia.org/wiki/田村淳のコンテンツHolic "wikilink")（金 0:25 - 0:53〈木深夜〉）
       - [よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜](https://ja.wikipedia.org/wiki/よしもと新喜劇NEXT〜小籔千豊には怒られたくない〜 "wikilink")（最終以外の木 2:30 - 3:00〈水深夜〉）
       - [ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣\!〜](https://ja.wikipedia.org/wiki/ボイメンのなにわ統一大作戦〜ヤベー敵地にいざ出陣!〜 "wikilink")（最終木 2:30 - 3:00〈水深夜〉）
       - [らくごのお時間](https://ja.wikipedia.org/wiki/らくごのお時間 "wikilink")（毎月第4日 5:00 - 5:30）
@@ -208,7 +210,7 @@
       - [覗きたい24の財布](https://ja.wikipedia.org/wiki/覗きたい24の財布 "wikilink")シリーズ
       - ▲[予約殺到\!スゴ腕の専門外来](https://ja.wikipedia.org/wiki/予約殺到!スゴ腕の専門外来 "wikilink")
           - ▲[衝撃速報\!アカルイ☆ミライ](https://ja.wikipedia.org/wiki/衝撃速報!アカルイ☆ミライ "wikilink")(上記の[スピンオフ](../Page/スピンオフ.md "wikilink")元)
-      - ▲[出川哲朗の恥の王様](https://ja.wikipedia.org/wiki/出川哲朗の恥の王様 "wikilink")
+      - ▲[出川哲朗の恥の王様](../Page/出川哲朗の恥の王様.md "wikilink")
 
 ### 放送終了した番組
 
@@ -622,7 +624,6 @@
 
 ### 現在放送中の番組
 
-  - [ピーナッツバターサンドウィッチ](https://ja.wikipedia.org/wiki/ピーナッツバターサンドウィッチ#テレビドラマ "wikilink")（[ドラマ特区](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、金 0:59 - 1:29〈木深夜〉）
   - [家にはじめて行ってみた](https://ja.wikipedia.org/wiki/家にはじめて行ってみた "wikilink")（金 22:54 - 23:00）
 
 ### 放送終了した番組
@@ -664,7 +665,7 @@
       - [野々山家の人々](https://ja.wikipedia.org/wiki/野々山家の人々 "wikilink")（1994年8月 - 9月）
           - 野々山家の人々RETURN（1995年5月 - 7月）
       - [命いずこへ](https://ja.wikipedia.org/wiki/命いずこへ "wikilink")（1994年11月 - 1995年1月）
-      - [愛の産科](https://ja.wikipedia.org/wiki/愛の産科 "wikilink")（1996年1月 - 3月）
+      - [愛の産科](../Page/愛の産科.md "wikilink")（1996年1月 - 3月）
       - [もう大人なんだから\!](../Page/もう大人なんだから!.md "wikilink")（1996年4月 - 5月）
       - [命つないで](https://ja.wikipedia.org/wiki/命つないで "wikilink")（1996年8月 - 9月）
       - [あしたは晴れる](https://ja.wikipedia.org/wiki/あしたは晴れる "wikilink")（1997年6月 - 8月）
@@ -854,13 +855,14 @@
       - [SEDAI WARS](../Page/SEDAI_WARS.md "wikilink")
       - [死にたい夜にかぎって](https://ja.wikipedia.org/wiki/死にたい夜にかぎって#テレビドラマ "wikilink")
       - [映像研には手を出すな\!](https://ja.wikipedia.org/wiki/映像研には手を出すな!#実写ドラマ・映画 "wikilink")
-  - [ドラマ特区](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")
+  - ドラマ特区
       - [カカフカカ-こじらせ大人のシェアハウス-](https://ja.wikipedia.org/wiki/カカフカカ#テレビドラマ "wikilink")
       - [コーヒー&バニラ](https://ja.wikipedia.org/wiki/コーヒー&バニラ#テレビドラマ "wikilink")
       - [カフカの東京絶望日記](https://ja.wikipedia.org/wiki/カフカの東京絶望日記 "wikilink")
       - [あおざくら 防衛大学校物語](https://ja.wikipedia.org/wiki/あおざくら_防衛大学校物語#テレビドラマ "wikilink")
       - [ねぇ先生、知らないの?](https://ja.wikipedia.org/wiki/ねぇ先生、知らないの?#テレビドラマ "wikilink")
       - [ホームルーム](https://ja.wikipedia.org/wiki/ホームルーム_\(漫画\)#テレビドラマ "wikilink")
+      - [ピーナッツバターサンドウィッチ](https://ja.wikipedia.org/wiki/ピーナッツバターサンドウィッチ#テレビドラマ "wikilink")
   - [エリアコードドラマ06](https://ja.wikipedia.org/wiki/エリアコードドラマ#エリアコードドラマ06 "wikilink")
       - [CRANE 突然の訪問者](https://ja.wikipedia.org/wiki/CRANE_突然の訪問者 "wikilink")
       - [FM999 真夏のレディオガール](https://ja.wikipedia.org/wiki/FM999_真夏のレディオガール "wikilink")
@@ -1277,7 +1279,7 @@
 ## TBS系列局制作・時差ネット番組
 
   - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜〉）
-  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")（水 0:59 - 1:29〈火深夜〉、木 23:58 - 翌0:53）
+  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")（水 0:59 - 1:29〈火深夜〉）
   - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（水 1:29 - 1:59〈火深夜〉）
   - [有田哲平の夢なら醒めないで](https://ja.wikipedia.org/wiki/有田哲平の夢なら醒めないで "wikilink")（木 1:59 - 1:59〈水深夜〉）
   - [有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")（金 1:29 - 1:59〈木深夜〉）
@@ -1330,7 +1332,7 @@
   - ☆◇[ナショナル劇場](https://ja.wikipedia.org/wiki/ナショナル劇場 "wikilink")
   - ☆[月曜ロードショー](../Page/月曜ロードショー.md "wikilink") → ☆◇[月曜ドラマスペシャル](../Page/月曜ドラマスペシャル.md "wikilink") - 現在の『[月曜名作劇場](https://ja.wikipedia.org/wiki/月曜名作劇場 "wikilink")』枠。
   - ☆◇[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink") - 現在でも放送中。
-  - ☆◇[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場#東芝日曜劇場 "wikilink") - 単発シリーズは1993年3月末に終了。
+  - ☆◇[東芝日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場#東芝日曜劇場として "wikilink") - 単発シリーズは1993年3月末に終了。
   - ☆[おはよう720](https://ja.wikipedia.org/wiki/おはよう720 "wikilink")→☆[おはよう700](https://ja.wikipedia.org/wiki/おはよう700 "wikilink")→☆[テレビ列島7時](https://ja.wikipedia.org/wiki/テレビ列島7時 "wikilink")→☆[朝のワイドX](https://ja.wikipedia.org/wiki/朝のワイドX "wikilink")→☆[朝のホットライン](https://ja.wikipedia.org/wiki/朝のホットライン "wikilink")→☆ホットライン→☆[THE WAVE](https://ja.wikipedia.org/wiki/THE_WAVE "wikilink") - 現在の『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")』枠。
   - ☆[モーニングジャンボ奥さま8時半です](../Page/モーニングジャンボ奥さま8時半です.md "wikilink")→☆◇[モーニングEye](../Page/モーニングEye.md "wikilink") - 現在の『[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink")』枠。
   - ☆◇[3時にあいましょう](../Page/3時にあいましょう.md "wikilink")

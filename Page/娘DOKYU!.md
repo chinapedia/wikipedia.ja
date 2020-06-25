@@ -15,7 +15,7 @@
 
 ### ハロー\!プロジェクト
 
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
       - [高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")（2005年4月4日 - 2006年9月1日）
       - [道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")（2005年4月5日 - 2006年9月1日）
       - [亀井絵里](../Page/亀井絵里.md "wikilink")（2005年4月11日 - 2006年9月1日）

@@ -1,29 +1,33 @@
 > この記事は[Baroque](https://ja.wikipedia.org/wiki/Baroque)から翻訳されています。
 
 
-**BAROQUE**（バロック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。[フリーウィル](../Page/フリーウィル.md "wikilink")所属。[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")におけるサブジャンルのひとつである**オサレ系**（お洒落系）の元祖とされる事が多い。[2001年](../Page/2001年.md "wikilink")結成、[2004年](../Page/2004年.md "wikilink")解散。[2011年](../Page/2011年.md "wikilink")再結成。
+**BAROQUE**（バロック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。[フリーウィル](../Page/フリーウィル.md "wikilink")所属。[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")におけるサブジャンルのひとつである**オサレ系**（お洒落系）の元祖とされる事が多い。
+
+[2001年](../Page/2001年.md "wikilink")結成、[2004年](../Page/2004年.md "wikilink")解散。[2011年](../Page/2011年.md "wikilink")再結成。
 
 ## メンバー
 
   - **[怜](https://ja.wikipedia.org/wiki/兒玉怜 "wikilink")**（りょう） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
-      - 本名：兒玉龍（こだま りょう）
+      - 本名：[兒玉龍](https://ja.wikipedia.org/wiki/兒玉怜 "wikilink")（こだま りょう）
       - [1982年](../Page/1982年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")生
       - [東京都](../Page/東京都.md "wikilink")[青梅市](../Page/青梅市.md "wikilink")出身
+      - 幼少の頃は川で魚をとって遊ぶなど、青梅の自然に囲まれた環境で育つ\[1\]
   - **[圭](https://ja.wikipedia.org/wiki/濱田圭 "wikilink")**（けい） - [ギター](../Page/ギター.md "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
-      - 本名：濱田圭（はまだ けい）
+      - 本名：[濱田圭](https://ja.wikipedia.org/wiki/濱田圭 "wikilink")（はまだ けい）
       - [1984年](../Page/1984年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")生
       - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[座間市](../Page/座間市.md "wikilink")出身
+      - 幼少の頃は様々な英才教育を受けた（４歳で空手を始め、習字、絵画教室、水泳等）\[2\]
 
 ### 元メンバー
 
   - **晃**（あきら） - ギター、[テルミン](../Page/テルミン.md "wikilink")
       - 期間：結成 - 2013年
       - 本名：大野晃（おおの あきら）
-      - 2012年末脱退\[1\]。
+      - 2012年末脱退\[3\]。
   - **万作**（ばんさく） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - 期間：結成 - 2012年
       - 本名：林万作（はやし ばんさく）
-      - 2012年6月のツアー「TOURバロック現象 第3現象 激しいライブハウスツアー」の直前に失踪\[2\]。
+      - 2012年6月のツアー「TOURバロック現象 第3現象 激しいライブハウスツアー」の直前に失踪\[4\]。
   - **ナル** - [ドラム](../Page/ドラムセット.md "wikilink")
       - 期間：結成 - 2002年4月2日
   - **祐二**（ゆうじ） - ドラム
@@ -45,6 +49,7 @@
 
   - [ドラム](../Page/ドラムセット.md "wikilink")
       - **[KENZO](https://ja.wikipedia.org/wiki/KENZO_\(ミュージシャン\) "wikilink")** （2016年 - ）
+      - [山口大吾](https://ja.wikipedia.org/wiki/People_In_The_Box "wikilink")(2019年 - )
       - かどしゅんたろう （2004年、2014年 - 2016年）
       - [ササブチヒロシ](https://ja.wikipedia.org/wiki/ササブチヒロシ "wikilink") （2011年 - 2014年）
       - [淳士](../Page/淳士.md "wikilink") (2003年)
@@ -52,41 +57,60 @@
 <!-- end list -->
 
   - [マニピュレーター](../Page/マニピュレーター.md "wikilink")
+      - [hico](../Page/堀向彦輝.md "wikilink") (2019年 -)
       - **佐久間薫**（2017年 ‐）
       - 辺見直義（2012年 - 2014年）
       - [阿部尚徳](https://ja.wikipedia.org/wiki/阿部尚徳 "wikilink")（2003年 - 2004年）
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")5月に結成され\[3\]、2001年8月にライブ活動を開始する\[4\]。ドラムのメンバーチェンジを繰り返し、結果ドラムレスバンドに至る。 華やかな外見と退廃的な世界観が主流であった90年代の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ブームが衰退しつつあった当時において、薄いメイクにラフな衣装、更に[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")、[ポストロック](https://ja.wikipedia.org/wiki/ポストロック "wikilink")、[シューゲイザー](../Page/シューゲイザー.md "wikilink")など、特定のジャンルに留まらない様々な音楽性を取り入れた楽曲で人気を博した\[5\]。
+### 2001～2004年
 
-2003年7月24日、シングル「我伐道」でメジャーデビュー\[6\]2003年8月20日\[7\]、初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行う。\[8\]\[9\]\[10\]
+[2001年](../Page/2001年.md "wikilink")5月に結成され\[5\]、2001年8月にライブ活動を開始する\[6\]。ドラムのメンバーチェンジを繰り返し、結果ドラムレスバンドに至る。 華やかな外見と退廃的な世界観が主流であった90年代の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ブームが衰退しつつあった当時において、薄いメイクにラフな衣装、更に[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")、[ポストロック](https://ja.wikipedia.org/wiki/ポストロック "wikilink")、[シューゲイザー](../Page/シューゲイザー.md "wikilink")など、特定のジャンルに留まらない様々な音楽性を取り入れた楽曲で人気を博した\[7\]。
 
-2003年9月、突如活動を休止するも12月のライブで活動再開する。2004年4月7日、シングル「ila.」を皮切りにコンスタントに作品のリリースを続けるも、2004年9月11日に万作の脱退による解散を発表\[11\]。2004年12月25日の[Zepp Tokyoで行われたラストライブ](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")「baroque last live 無未来-NO FUTURE-」にて解散\[12\]。
+2003年7月24日、シングル「我伐道」でメジャーデビュー\[8\]。2003年8月20日\[9\]、初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行う。公演当時、2001年の結成から2年3ヶ月で[日本武道館](../Page/日本武道館.md "wikilink")に立つのは史上最速の記録。\[10\]\[11\]\[12\]
+
+2003年9月、突如活動を休止するも12月のライブで活動再開する。2004年4月7日、シングル「ila.」を皮切りにコンスタントに作品のリリースを続けるも、2004年9月11日に万作の脱退による解散を発表\[13\]。2004年12月25日の[Zepp Tokyoで行われたラストライブ](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")「baroque last live 無未来-NO FUTURE-」にて解散\[14\]。
 
 その後、怜と圭は[kannivalism](https://ja.wikipedia.org/wiki/kannivalism "wikilink")、万作と晃は[boogieman](https://ja.wikipedia.org/wiki/boogieman "wikilink")としてそれぞれ活動。
 
-2011年7月17日に[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")野外特設ステージでフリーライブを行い\[13\]\[14\]、2011年9月に本格的な活動再開を発表\[15\]\[16\]。2012年1月4日に同時発売したシングルが、[オリコンチャート](../Page/オリコンチャート.md "wikilink")週間シングルランキング（2012年1月16日付）にてトップ5内に3作同時にランクインした。インディーズアーティストによるシングルランキングでの記録としては史上初であった\[17\]\[18\]。
+### 2011～2013年
 
-2012年6月24日に万作が突如[行方不明](../Page/行方不明.md "wikilink")になったことを公表。翌々日から予定されていた全国ツアー「TOURバロック現象 第3現象 激しいライブハウスツアー」は「TOURバロック現象 第3現象 激しいライブハウスツアー ～ばんさくをさがせ～」に変更し、万作不在のまま敢行\[19\]。7月30日に代理人を名乗る人物から体調不良による契約解除の申し出の書面が届く。再メジャーデビューを控えた状況での突然の一方的な申し出だったため、メンバー側は復帰に向けた手がかりを模索していたが、後に正式に脱退となる。メンバーは原因を「プライベートでの女性関係」としている\[20\]。
+2011年7月17日に[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")野外特設ステージでフリーライブを行い\[15\]\[16\]、2011年9月に本格的な活動再開を発表\[17\]\[18\]。2012年1月4日に同時発売したシングルが、[オリコンチャート](../Page/オリコンチャート.md "wikilink")週間シングルランキング（2012年1月16日付）にてトップ5内に3作同時にランクインした。インディーズアーティストによるシングルランキングでの記録としては史上初であった\[19\]\[20\]。
 
-更に2012年末、アルバム「ノンフィクション」製作中に晃がバンドを離脱、その後正式に脱退（のちに和解\[21\]\[22\]）。その後は怜と圭の2人にサポートメンバーを加えた体制での活動を行っており、圭は「今後正式メンバーを入れたりする事は無い」と明言している\[23\]。
+2012年6月24日に万作が突如[行方不明](../Page/行方不明.md "wikilink")になったことを公表。翌々日から予定されていた全国ツアー「TOURバロック現象 第3現象 激しいライブハウスツアー」は「TOURバロック現象 第3現象 激しいライブハウスツアー ～ばんさくをさがせ～」に変更し、万作不在のまま敢行\[21\]。7月30日に代理人を名乗る人物から体調不良による契約解除の申し出の書面が届く。再メジャーデビューを控えた状況での突然の一方的な申し出だったため、メンバー側は復帰に向けた手がかりを模索していたが、後に正式に脱退となる。メンバーは原因を「プライベートでの女性関係」としている\[22\]。
 
-2014年2月の全国ツアー「SYMMETRIA」より、バンド名の表記が大文字の「**BAROQUE**」となる\[24\]。
+更に2012年末、アルバム「ノンフィクション」製作中に晃がバンドを離脱、その後正式に脱退（のちに和解\[23\]\[24\]）。その後は怜と圭の2人にサポートメンバーを加えた体制での活動を行っており、圭は「今後正式メンバーを入れたりする事は無い」と明言している\[25\]。
+
+### 2014～現在
+
+2014年2月の全国ツアー「SYMMETRIA」より、バンド名の表記が大文字の「**BAROQUE**」となる\[26\]。
 
 2015年5月27日、2人体制での初のアルバム「PLANETARY SECRET」をリリース。
 
-2016年10月26日に初の外部からのプロデューサーとして[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ken](https://ja.wikipedia.org/wiki/ken "wikilink")を迎えたシングル「G I R L」をリリース\[25\]\[26\]。2018年7月24日にシングル「AN ETERNITY」「FLOWER OF ROMANCE」を2枚同時リリース。
+2016年10月26日に初の外部からのプロデューサーとして[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ken](https://ja.wikipedia.org/wiki/ken "wikilink")を迎えたシングル「G I R L」をリリース\[27\]\[28\]。2018年7月24日にシングル「AN ETERNITY」「FLOWER OF ROMANCE」を2枚同時リリース。
 
-アルバム「PLANETARY SECRET」のリリースに合わせ、アルバムの[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")となった[星にちなんだ](../Page/天体.md "wikilink")[プラネタリウム](../Page/プラネタリウム.md "wikilink")での先行試聴会を開催した\[27\]。その後、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")での撮影および[SNS等での共有を許可したライブ](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[28\]\[29\]、ライブペインティングによる演出\[30\]、客席中央に円形ステージを設置した360度ライブ\[31\]、フラワーアーティストによるステージ演出など、近年は実験的なスタイルの公演も積極的に行っている。
+アルバム「PLANETARY SECRET」のリリースに合わせ、アルバムの[モチーフ](https://ja.wikipedia.org/wiki/モチーフ "wikilink")となった[星にちなんだ](../Page/天体.md "wikilink")[プラネタリウム](../Page/プラネタリウム.md "wikilink")での先行試聴会を開催した\[29\]。その後、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")での撮影および[SNS等での共有を許可したライブ](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[30\]\[31\]、ライブペインティングによる演出\[32\]、客席中央に円形ステージを設置した360度ライブ\[33\]、フラワーアーティストによるステージ演出\[34\]など、近年は実験的なスタイルの公演も積極的に行っている。
+
+2019年4月30日、2人体制となって初のホールライブ「VISION OF // PEP」を[日本橋三井ホール](https://ja.wikipedia.org/wiki/日本橋三井ホール "wikilink")にて開催\[35\]。本公演はリリース予定のアルバム「PUER ET PUELLA」(ピュエル エ ピュエラ：ラテン語で"少年少女"の意)のお披露目公演でもあった。
+
+2019年7月13日アルバムの視聴会とトークイベントを開催\[36\]。2019年7月24日名古屋E.L.Lを皮切りに全国21カ所にわたるツアー「THE BIRTH OF LIBERTY」を決行。2019年7月30日に先行シングル3枚を含む4thアルバム「PUER ET PUELLA」をリリース。前作「PLANETARY SECRET」から実に4年2ヶ月ぶりの待望のアルバムリリースとなった。
+
+精力的にライブ活動を行う一方、2019年11月1日突如カウントダウンが始まり、2日0時、翌年1月にニューアルバム「SIN DIVISION」をリリースすると発表\[37\]。前作リリースから4ヶ月というショートスパンでの告知、またツアー中の出来事ということもありファン・関係者を大いに沸かせた。
+
+2020年1月10日「THE BIRTH OF LIBERTY」ツアーファイナルを[ハーモニーホール座間](https://ja.wikipedia.org/wiki/ハーモニーホール座間 "wikilink")で開催\[38\]。ギター圭にとっては凱旋公演となった。
+
+2020年1月28日「SIN DIVISION」をリリース。これにより、圭曰く「2人体制になったときに作りたいと思った3枚のアルバム」が完成することとなる。しばしば「PLANETARY SECRET（PS）」は黒い本、「PUER ET PUELLA（PEP）」は白い本、「SIN DIVISION（SD）」は赤い本と形容される\[39\]。2020年2月より「SIN DIVISION」を引っさげてツアーを開催する予定であったが、2020年5月末現在、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")感染症拡大防止に伴う自粛により公演の延期を余儀なくされている\[40\]。
+
+[2020年](../Page/2020年.md "wikilink") 4月3日「STAY」\[41\]をYouTubeにて公開。デモ音源を用いて緊急公開した映像は、[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")感染拡大防止のため、怜（Vo）と圭（G）が自宅から外に出ることなく、インターネット上での遠隔コミュニケーションを重ねて生み出した。全編英詞の歌詞は2人の共作。 また、ミュージックビデオはファン参加型を試み、[Twitter](../Page/Twitter.md "wikilink")、[LINE](https://ja.wikipedia.org/wiki/LINE "wikilink")のOPENCHAT（オープンチャット）機能を活用し、「自分の大切なもの、守りたいもの、好きなもの」などの画像やコメントを募った上で、編集したものが新たに公開された\[42\]。
 
 ### バンド名の表記について
 
 在籍メンバーや音楽性の変化に併せてバンド名の表記を変えることがある。（読みは全て「バロック」で共通。）
 
-2001年の結成からシングル「スケベボウイ」までは、片仮名の「**バロック**」（バが左右反転したロゴを使用。「*ﾂヽロック*」とも）表記を使用。バンドの方向性の変化にともない2002年末頃から英語小文字の「**baroque**」表記が増え\[32\]、以後はこの表記が主流となる。なお2004年のシングル「Nutty a hermit.」から第一期の解散までは「**brq**」も使用されていた。
+2001年の結成からシングル「スケベボウイ」までは、片仮名の「**バロック**」（バが左右反転したロゴを使用。「*ﾂヽロック*」とも）表記を使用。バンドの方向性の変化にともない2002年末頃から英語小文字の「**baroque**」表記が増え\[43\]、以後はこの表記が主流となる。なお2004年のシングル「Nutty a hermit.」から第一期の解散までは「**brq**」も使用されていた。
 
-2011年以降の復活と再結成においては「baroque」および「バロック」の二種類を併用していたが、晃と万作の脱退、怜と圭の2人体制スタートにともない、2014年のツアー「SYMMETRIA」以降は「**BAROQUE**」と大文字に改めている\[33\]。
+2011年以降の復活と再結成においては「baroque」および「バロック」の二種類を併用していたが、晃と万作の脱退、怜と圭の2人体制スタートにともない、2014年のツアー「SYMMETRIA」以降は「**BAROQUE**」と大文字に改めている\[44\]。 なお、現在のBAROQUEのロゴについては再出発の決意とし改めて[デザイン](../Page/デザイン.md "wikilink")された。怜、圭、2人の同じ星座の[獅子座](https://ja.wikipedia.org/wiki/獅子座 "wikilink")のマークがモチーフになっている\[45\]。
 
 ## ディスコグラフィ
 
@@ -554,6 +578,75 @@ PGSK-016/017</p></td>
 </div>
 </div></td>
 </tr>
+<tr class="even">
+<td><p>18th</p></td>
+<td><p>2018年12月25日</p></td>
+<td><p><strong>YOU</strong></p></td>
+<td><p>初回盤<br />
+PGSK-018/019 通常盤<br />
+PGSK-20</p>
+<p>会場・通販限定盤</p>
+<p>PGSK-021/022</p></td>
+<td><p>初回盤</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2＋1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>YOU</li>
+<li>YOU [Instrumental Ver.]</li>
+</ol>
+<p>DVD</p>
+<ol>
+<li>何千何万何億の君への想い 2018 -MUSIC CLIP-</li>
+</ol>
+</div>
+</div>
+<p>通常盤</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>YOU</li>
+<li>何千何万何億の君への想い 2018</li>
+<li>YOU [Instrumental Ver.]</li>
+</ol>
+</div>
+</div>
+<p>会場・通販限定盤</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11＋3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>YOU</li>
+<li>何千何万何億の君への想い 2018</li>
+<li>YOU [Acoustic Ver.]</li>
+<li>YOU [Instrumental Ver.]</li>
+<li>何千何万何億の君への想い 2018 [Instrumental Ver.]</li>
+<li>AN ETERNITY [LIVE]</li>
+<li>FLOWER OF ROMANCE [LIVE]</li>
+<li>PLAY [LIVE]</li>
+<li>G I R L [LIVE]</li>
+<li>BLACK BANE [LIVE]</li>
+<li>キズナ [LIVE Acoustic Ver.]<br />
+</li>
+</ol>
+<p>1～7. *Live Take at 仙台darwin on September 14, 2018</p>
+<p>8～11. *Live Take at ディファ有明on December 25, 2017</p>
+<p>DVD</p>
+<ol>
+<li>何千何万何億の君への想い 2018 -MUSIC CLIP-</li>
+<li>BONUS FOOTAGE</li>
+</ol>
+</div>
+</div></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -811,6 +904,139 @@ PGSK-001/002</p></td>
 <td><p>通販限定版特殊パッケージ仕様<br />
 <a href="https://ja.wikipedia.org/wiki/ブルースペックCD" title="wikilink">Blu-spec CD2</a>、DVD、USB<a href="https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ" title="wikilink">ハイレゾ音源収録</a><br />
 オリコン週間チャート初登場73位</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p>2019年7月30日</p></td>
+<td><p><strong>PUER ET PUELLA</strong></p></td>
+<td><p>一般流通盤<br />
+PGSK-026<br />
+通販限定盤<br />
+PGSK-027-28</p></td>
+<td><p>一般流通盤</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>BIRTH OF VICTORY</li>
+<li>PUER ET PUELLA</li>
+<li>STARRY BOY</li>
+<li>SKY FITS HEAVEN</li>
+<li>IN THE ATMOSPHERE</li>
+<li>LAST SCENE</li>
+<li>AN ETERNITY [ALBUM VERSION]</li>
+<li>FLOWER OF ROMANCE [ALBUM MIX]</li>
+<li>YOU</li>
+<li>GIRL [ALBUM VERSION]</li>
+<li>RINGING THE LIBERTY</li>
+<li>PERFECT WORLD</li>
+</ol>
+</div>
+</div>
+<p>通販限定盤</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12＋6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>BIRTH OF VICTORY</li>
+<li>PUER ET PUELLA</li>
+<li>STARRY BOY</li>
+<li>SKY FITS HEAVEN</li>
+<li>IN THE ATMOSPHERE</li>
+<li>LAST SCENE</li>
+<li>AN ETERNITY [ALBUM VERSION]</li>
+<li>FLOWER OF ROMANCE [ALBUM MIX]</li>
+<li>YOU</li>
+<li>GIRL [ALBUM VERSION]</li>
+<li>RINGING THE LIBERTY</li>
+<li>PERFECT WORLD</li>
+</ol>
+<p>DVD</p>
+<ol>
+<li>PUER ET PUELLA –MUSIC CLIP–</li>
+<li>STARRY BOY –MUSIC CLIP–</li>
+<li>AN ETERNITY –MUSIC CLIP–</li>
+<li>FLOWER OF ROMANCE –MUSIC CLIP–</li>
+<li>YOU –MUSIC CLIP–</li>
+<li>GIRL –MUSIC CLIP–</li>
+</ol>
+</div>
+</div></td>
+<td><p>通販限定版特殊パッケージ仕様<br />
+<a href="https://ja.wikipedia.org/wiki/ブルースペックCD" title="wikilink">Blu-spec CD2</a>、DVD、USB<a href="https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ" title="wikilink">ハイレゾ音源収録</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2020年1月28日</p></td>
+<td><p><strong>SIN DIVISION</strong></p></td>
+<td><p>一般流通盤<br />
+PGSK-031<br />
+通販限定盤<br />
+PGSK-032-33</p></td>
+<td><p>一般流通盤</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>RITUAL</li>
+<li>END VISION</li>
+<li>SIN QUALIA</li>
+<li>REDME</li>
+<li>FALLEN VENUS</li>
+<li>SUCCUBUS</li>
+<li>SABBAT</li>
+<li>GLOOMY LILITH</li>
+<li>FROZEN ABYSS</li>
+<li>COCYTUS</li>
+<li>I LUCIFER</li>
+<li>INFERNO</li>
+</ol>
+</div>
+</div>
+<p>通販限定盤</p>
+<div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12＋6曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>RITUAL</li>
+<li>END VISION</li>
+<li>SIN QUALIA</li>
+<li>REDME</li>
+<li>FALLEN VENUS</li>
+<li>SUCCUBUS</li>
+<li>SABBAT</li>
+<li>GLOOMY LILITH</li>
+<li>FROZEN ABYSS</li>
+<li>COCYTUS</li>
+<li>I LUCIFER</li>
+<li>INFERNO</li>
+</ol>
+<p>DVD</p>
+<ol>
+<li>BIRTH OF VICTORY</li>
+<li>PUER ET PUELLA</li>
+<li>HITO NO IRO</li>
+<li>AN ETERNITY</li>
+<li>GIRL</li>
+<li>YOU</li>
+<li>RINGING THE LIBERTY</li>
+<li>PURIFY</li>
+<li>LAST SCENE [Acoustic Ver.]</li>
+</ol>
+<p>DVD 1～7.*Live Take at 代官山UNIT on July 31, 2019</p>
+<p>DVD 8～9.*Live Take at 日本橋三井ホール on April 30, 2019</p>
+</div>
+</div></td>
+<td><p>通販限定版特殊パッケージ仕様<br />
+<a href="https://ja.wikipedia.org/wiki/ブルースペックCD" title="wikilink">Blu-spec CD2</a>、DVD、USB<a href="https://ja.wikipedia.org/wiki/ハイレゾリューションオーディオ" title="wikilink">ハイレゾ音源収録</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1306,6 +1532,8 @@ PGSK-011</p></td>
 
 ## 主なライブ・ツアー
 
+### 2001～2004年
+
   - 2001年 - バロック主催「ともだちTOUR」
   - 2002年 - ワンマン「TOKIO DOMEstic violence」
   - 2002年 - ワンマン「恋泥棒」
@@ -1315,8 +1543,11 @@ PGSK-011</p></td>
   - 2002年 - ワンマン「フェロモンシャワー」
   - 2003年 - ラストインディーズ ツアー「絶交KAMEN」
   - 2003年 - メジャーデビューFirst GIG「小人プロ©」
-  - 2004年 - ワンマンツアー「Nutty a Harmit.」
-  - 2005年 - Last Live「無未来-NO FUTURE-」
+  - 2004年 - ワンマンツアー「Nutty a Hermit.」
+  - 2004年 - Last Live「無未来-NO FUTURE-」
+
+### 2011～2013年
+
   - 2011年 - バロック完全無料ライブ「お代は結構要りませんから」
   - 2012年 - 完全復活ライブ baroque Re:First Live IN FUTURE
   - 2012年 - TOUR バロック現象 第1現象 楽しいライブハウスツアー
@@ -1327,16 +1558,19 @@ PGSK-011</p></td>
   - 2013年 - TOUR バロック現象 第5現象
   - 2013年 - TOUR バロック現象 第0現象
   - 2013年 - バロック vs [vistlip](https://ja.wikipedia.org/wiki/vistlip "wikilink") 「reversion fruits」
+
+### 2014～現在
+
   - 2014年 - バロック 2014全国ツアー「SYMMETRIA」
   - 2014年 - バロック 2014全国ツアー「de novo」
-  - 2014年 - The SURVIVERZ '14（[LM.C](../Page/LM.C.md "wikilink")、BAROQUE、GREMLINS）
+  - 2014年 - The SURVIVERZ '14（[LM.C](../Page/LM.C.md "wikilink")、BAROQUE、[GREMLINS](https://ja.wikipedia.org/wiki/GREMLINS "wikilink")）
   - 2015年 - BAROQUE TOUR 2015「OPEN YOUR WORLD AND SEE THE LIGHT」(\[Mercury\]/\[Venus\]/\[Earth\]/\[Mars\]/\[Jupiter\]/\[Saturn\]/\[Uranus\]/\[Neptune\]/\[Pluto\]/\[Sun\])
   - 2015年 - BAROQUE × [THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink") TOUR 「adbn」
   - 2015年～2016年 - GOOD MORNING BOYS AND GIRLS
   - 2016年 - GIRL //SO// SWEET GIRL //SO// BRAVE
-  - 2016年 - PARTY ZOO ～[Ken](../Page/Ken.md "wikilink") Entwines Naughty stars
   - 2016年 - PERFECT WORLD
   - 2017年 - PERFECT WORLD2
+  - 2017年 - [ASH DA HERO](https://ja.wikipedia.org/wiki/ASH_DA_HERO "wikilink") 2MAN SHOW SERIES 2017「CONNECT X」【ACT.2】
   - 2017年 - [Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")×BAROQUE「Night which GLORIOUS」
   - 2017年 - SKY FITS HEAVEN
   - 2017年 - BAROQUE TOUR FLOWER OF ROMANCE
@@ -1345,6 +1579,15 @@ PGSK-011</p></td>
   - 2017年 - BAROQUE TOUR ALL OF THE LOVE, ALL OF THE DREAM
   - 2018年 - BAROQUE TOUR 2018 IN THE ATMOSPHERE
   - 2018年 - BAROQUE TOUR 2018 FALLING FOR // YOU
+  - 2019年 - BAROQUE主催 2MAN LIVE SERIES : kiss the sky Ⅰ～IV(Ⅰ Rayflower/II GOTCHAROCKA/III [sleepyhead](https://ja.wikipedia.org/wiki/sleepyhead "wikilink")/IV [ACID ANDROID](../Page/Acid_android.md "wikilink"))
+  - 2019年 - [SHIN](https://ja.wikipedia.org/wiki/SHIN "wikilink")×BAROQUE「SKULL HEADS SPEAKING vol.3」
+
+<!-- end list -->
+
+  - 2019年～2020年 - BAROQUE THE BIRTH OF LIBERTY
+  - 2019年 - BAROQUE × [THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink") TOUR "BRILLIANCE"
+  - 2019年 - [彩冷える](../Page/彩冷える.md "wikilink") x BAROQUE VIVA LA KNZ SPECIAL 〜KENZO Birthday 2MAN LIVE〜
+  - 2020年 - BAROQUE TOUR SAINTS OR SINNERS
 
 ### 主な出演イベント
 
@@ -1360,8 +1603,12 @@ PGSK-011</p></td>
   - 2014年12月20日 - The 5th NOVA
   - 2015年09月12日 - SAITAMA SUPER ARENA 15th Anniversary 肉ロックフェス2015
   - 2015年12月31日 - Tokyo Chaos 2015
+  - 2016年09月11日・18日・25日・10月02日・09日 - PARTY ZOO ～Ken Entwines Naughty stars～
   - 2016年12月31日 - Tokyo Chaos 2016
+  - 2017年11月23日 - PARTY ZOO 2017 DAY2
   - 2018年08月09日 - [BugLug](https://ja.wikipedia.org/wiki/BugLug "wikilink")主催Fes「バグサミ」
+  - 2018年12月09日 - ANTI ONION RECORDS PRESENTS VIVA LA KNZ Vol.3 〜 KENZO BIRTHDAY PARTY 2018〜※Secret Guest
+  - 2019年01月14日 - Free-Will SLUM Day2
 
 ## 脚注
 
@@ -1369,13 +1616,15 @@ PGSK-011</p></td>
 
   - [BAROQUE OFFICIAL SITE](http://www.pigmy.jp/) - 公式ウェブサイト
 
-  -   -
-      -
+  -
+  -
+  -
+  -
   -
   -
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2004年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に解散した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")
 
-1.
+1.  <https://www.barks.jp/news/?id=1000086727>
 2.
 3.
 4.
@@ -1406,5 +1655,17 @@ PGSK-011</p></td>
 29.
 30.
 31.
-32. 2002年11月29日のZepp Tokyo公演にて限定販売されたシングル「キャラメルドロップス」の盤面には「baroque」と印字されている。
+32.
 33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41. <https://www.barks.jp/news/?id=1000181755>
+42.
+43. 2002年11月29日のZepp Tokyo公演にて限定販売されたシングル「キャラメルドロップス」の盤面には「baroque」と印字されている。
+44.
+45. <https://www.barks.jp/news/?id=1000150261>

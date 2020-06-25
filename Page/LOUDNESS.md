@@ -536,7 +536,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
   - [2月22日](../Page/2月22日.md "wikilink")、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でワンマンライブ「Live Terror 2004」を開催。
   - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、17thシングル『CRAZY SAMURAI』をリリース。
   - [7月15日](../Page/7月15日.md "wikilink")、[TOKYO FM HALLにて](https://ja.wikipedia.org/wiki/TOKYO_FM_HALL "wikilink")「大江千里のLive Depot」の公開収録ライブを行う。
-  - [8月13日](../Page/8月13日.md "wikilink")、[赤坂プリンスホテルにて](https://ja.wikipedia.org/wiki/グランドプリンスホテル赤坂 "wikilink")、ヘヴィメタル・バンドとしては異例の[ディナーショー](../Page/ディナーショー.md "wikilink")を行う。
+  - [8月13日](../Page/8月13日.md "wikilink")、[赤坂プリンスホテル](../Page/赤坂プリンスホテル.md "wikilink")にて、ヘヴィメタル・バンドとしては異例の[ディナーショー](../Page/ディナーショー.md "wikilink")を行う。
   - [10月27日](../Page/10月27日.md "wikilink")、リメイク・アルバム『[ROCK SHOCKS](https://ja.wikipedia.org/wiki/ROCK_SHOCKS "wikilink")』、第1期の[日本コロムビア](../Page/日本コロムビア.md "wikilink")時代の5枚のアルバムのリマスター盤をリリース。
   - [11月19日](../Page/11月19日.md "wikilink")から[12月11日](../Page/12月11日.md "wikilink")まで全国ツアー「LOUDNESS LIVE ROCK SHOCKS 2004」を計7公演行う。
   - [11月25日](../Page/11月25日.md "wikilink")、19thアルバム『[Racing/音速](https://ja.wikipedia.org/wiki/Racing/音速 "wikilink")』をリリース。

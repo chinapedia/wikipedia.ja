@@ -658,7 +658,7 @@ BAMBOO BLADE C
   - [テレビ東京・あにてれ バンブーブレード](https://www.tv-tokyo.co.jp/anime/bambooblade/)
   - [バンブーブレードPSP それからの挑戦](http://www.acgateway.com/bamboopsp/)
 
-[Category:BAMBOO_BLADE](https://ja.wikipedia.org/wiki/Category:BAMBOO_BLADE "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:ヤングガンガン](https://ja.wikipedia.org/wiki/Category:ヤングガンガン "wikilink") [Category:神奈川県を舞台とした作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした作品 "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:剣道漫画](https://ja.wikipedia.org/wiki/Category:剣道漫画 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:2009年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2009年のコンピュータゲーム "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink")
+[Category:BAMBOO_BLADE](https://ja.wikipedia.org/wiki/Category:BAMBOO_BLADE "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:ヤングガンガン](https://ja.wikipedia.org/wiki/Category:ヤングガンガン "wikilink") [Category:神奈川県を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:神奈川県を舞台とした漫画作品 "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:剣道漫画](https://ja.wikipedia.org/wiki/Category:剣道漫画 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:2009年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2009年のコンピュータゲーム "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink")
 
 1.
 2.  単行本第9巻あとがき。

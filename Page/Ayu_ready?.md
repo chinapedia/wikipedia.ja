@@ -106,8 +106,8 @@
 
 ## 外部リンク
 
-  - [ayu ready? - フジテレビ](http://www.fujitv.co.jp/b_hp/ayuready/)
-  - [フジテレビ](http://www.fujitv.co.jp/AYU/) - ゲストの一覧、視聴率、きくち伸による最終回収録レポートなどを掲載。
+  - [ayu ready? - フジテレビ](https://www.fujitv.co.jp/b_hp/ayuready/)
+  - [フジテレビ](https://www.fujitv.co.jp/AYU/) - ゲストの一覧、視聴率、きくち伸による最終回収録レポートなどを掲載。
 
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:イースト](https://ja.wikipedia.org/wiki/Category:イースト "wikilink") [Category:浜崎あゆみ](https://ja.wikipedia.org/wiki/Category:浜崎あゆみ "wikilink")
 

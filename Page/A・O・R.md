@@ -5,9 +5,9 @@
 
 ## 概要
 
-本番組は[パーソナリティ](https://ja.wikipedia.org/wiki/パーソナリティ "wikilink")の[ユキ・ラインハート](../Page/ユキ・ラインハート.md "wikilink")が、「**今日はあなたにとってどんな一日でしたでしょうか。今日がいい日だったという人も、そうでなかったという人も、この時間だけでもリラックスしておつきあい下さいね。**」という冒頭の言葉から始まるように、一日の仕事や勉強などの疲れをクールダウンさせたり、リラックス出来る音楽の選曲をコンセプトに置いている生放送の音楽番組だが、選曲は番組タイトル通りの「[AOR](../Page/AOR.md "wikilink")」に特化せずにジャンルの枠組みを超えた「アダルト・コンテンポラリー・サウンド」にこだわるとしている。
+本番組は[パーソナリティの](../Page/ラジオパーソナリティ.md "wikilink")[ユキ・ラインハート](../Page/ユキ・ラインハート.md "wikilink")が、「**今日はあなたにとってどんな一日でしたでしょうか。今日がいい日だったという人も、そうでなかったという人も、この時間だけでもリラックスしておつきあい下さいね。**」という冒頭の言葉から始まるように、一日の仕事や勉強などの疲れをクールダウンさせたり、リラックス出来る音楽の選曲をコンセプトに置いている生放送の音楽番組だが、選曲は番組タイトル通りの「[AOR](../Page/AOR.md "wikilink")」に特化せずにジャンルの枠組みを超えた「アダルト・コンテンポラリー・サウンド」にこだわるとしている。
 
-なお、同名の番組が[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")（2007年3月終了）・[FM COCOLO](../Page/FM_COCOLO.md "wikilink")（2010年3月28日終了）及び、類似したタイトルの番組が[Kiss-FM KOBE](https://ja.wikipedia.org/wiki/Kiss-FM_KOBE "wikilink")（『たそがれのA.O.R.』、2009年7月終了）、[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")（『たまらなく、AOR』）・FM COCOLO（『君と焚き火とAOR』）に存在するが、全て本番組とは無関係である。ちなみにKiss-FM KOBEでは、前述の番組が終了後に本番組のネットを開始している。
+なお、同名の番組が[エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")（2007年3月終了）・[FM COCOLO](../Page/FM_COCOLO.md "wikilink")（2010年3月28日終了）及び、類似したタイトルの番組が[Kiss-FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")（『たそがれのA.O.R.』、2009年7月終了）、[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")（『たまらなく、AOR』）・FM COCOLO（『君と焚き火とAOR』）に存在するが、全て本番組とは無関係である。ちなみにKiss-FM KOBEでは、前述の番組が終了後に本番組のネットを開始している。
 
 放送開始 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")9月は『**Adult Oriented Radio**』（アダルト・オリエンテッド・レディオ）というタイトルで月曜 - 木曜 19:00 - 19:55で放送されており、前番組の『Plug in tokyo』からコンセプトが変わり、洋楽が多くなった。同年10月より、略称である『A・O・R』に番組タイトルが変更されて現在に至る。
 
@@ -87,81 +87,81 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
-<td><p><a href="../Page/エフエム岐阜.md" title="wikilink">エフエム岐阜</a>（FM GIFU）★</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
 <td><p><a href="../Page/エフエム香川.md" title="wikilink">エフエム香川</a>（FM香川）★</p></td>
 <td><p>[6]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
 <td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）★</p></td>
 <td><p>[7]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
 <td><p><a href="../Page/エフエム徳島.md" title="wikilink">エフエム徳島</a>（FM TOKUSHIMA）</p></td>
 <td><p>[8]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/エフエム鹿児島.md" title="wikilink">エフエム鹿児島</a>（μFM）★</p></td>
 <td><p>[9]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="../Page/エフエム青森.md" title="wikilink">エフエム青森</a>（AFB）★</p></td>
 <td><p>毎週月曜 - 木曜 19:00 - 19:55</p></td>
 <td><p>[10]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
 <td><p><a href="../Page/エフエム仙台.md" title="wikilink">エフエム仙台</a>（Date fm）★</p></td>
 <td><p>[11]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）★</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/エフエム福島.md" title="wikilink">エフエム福島</a>（ふくしまFM）★</p></td>
 <td><p>[12]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエム栃木" title="wikilink">エフエム栃木</a>（RADIO BERRY）★</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
+<td><p><a href="../Page/エフエム岐阜.md" title="wikilink">エフエム岐阜</a>（FM GIFU）★</p></td>
+<td><p>[13]</p></td>
+<td></td>
+</tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三重エフエム放送" title="wikilink">三重エフエム放送</a>（レディオキューブ FM三重）★</p></td>
-<td><p>[13]</p></td>
+<td><p>[14]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエム山口" title="wikilink">エフエム山口</a>（FMY）★</p></td>
-<td><p>[14]</p></td>
+<td><p>[15]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
 <td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）★</p></td>
-<td><p>[15]</p></td>
+<td><p>[16]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -179,7 +179,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="../Page/エフエム熊本.md" title="wikilink">エフエム熊本</a>（FMK）★</p></td>
-<td><p>[16]</p></td>
+<td><p>[17]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -187,49 +187,49 @@
 <td><p><a href="../Page/エフエム滋賀.md" title="wikilink">エフエム滋賀</a>（e-radio）★</p></td>
 <td><p>毎週月曜・火曜・木曜 19:00 - 19:55<br />
 毎週水曜 19:00 - 19:45</p></td>
-<td><p>[17][18]</p></td>
+<td><p>[18][19]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/兵庫エフエム放送" title="wikilink">兵庫エフエム放送</a>（Kiss FM KOBE）★</p></td>
 <td><p>毎週月曜 - 水曜 19:00 - 20:55</p></td>
-<td><p>[19]</p></td>
+<td><p>[20]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a></p></td>
 <td><p><a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>（FM GUNMA）★</p></td>
 <td><p>毎週月曜 - 水曜、木曜（不定期）19:00 - 19:55</p></td>
-<td><p>[20]</p></td>
+<td><p>[21]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="../Page/広島エフエム放送.md" title="wikilink">広島エフエム放送</a>（HFM）★</p></td>
 <td><p>毎週火曜 - 木曜 19:00 - 19:55</p></td>
-<td><p>[21]</p></td>
+<td><p>[22]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）★</p></td>
 <td><p>毎週月曜 - 木曜 20:00 - 20:55</p></td>
-<td><p>[22]</p></td>
+<td><p>[23]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
 <td><p><a href="../Page/エフエム大分.md" title="wikilink">エフエム大分</a>（Air-Radio FM88）★</p></td>
-<td><p>[23]</p></td>
+<td><p>[24]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）★</p></td>
-<td><p>[24]</p></td>
+<td><p>[25]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岩手県.md" title="wikilink">岩手県</a></p></td>
 <td><p><a href="../Page/エフエム岩手.md" title="wikilink">エフエム岩手</a>（FM IWATE）★</p></td>
 <td><p>毎週月曜 - 水曜 20:00 - 20:55</p></td>
-<td><p>[25]</p></td>
+<td><p>[26]</p></td>
 </tr>
 </tbody>
 </table>
@@ -252,7 +252,7 @@
 <td><p><a href="../Page/エフエムラジオ新潟.md" title="wikilink">エフエムラジオ新潟</a>（FM-NIIGATA）★</p></td>
 <td><p>毎週月曜 - 木曜 19:00 - 20:55</p></td>
 <td><p>2015年6月1日 - 6月18日</p></td>
-<td><p>[26]</p></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
@@ -260,14 +260,14 @@
 <td><p>毎週月曜 - 水曜 20:00 - 20:55</p></td>
 <td><p>2009年4月 - 2010年3月<br />
 2014年4月 - 9月</p></td>
-<td><p>[27]</p></td>
+<td><p>[28]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="../Page/静岡エフエム放送.md" title="wikilink">静岡エフエム放送</a>（K-mix）★</p></td>
 <td><p>毎週月曜 - 水曜 19:00 - 19:55</p></td>
 <td><p>2004年10月 - 2013年3月</p></td>
-<td><p>[28]</p></td>
+<td><p>[29]</p></td>
 </tr>
 </tbody>
 </table>
@@ -292,19 +292,20 @@
 10. 放送開始 - 2015年9月は月曜・火曜・木曜の19時台、火曜・水曜の20時台ネットしていたが、同年10月 - 2017年3月に水曜の20時台放送の打ち切りにより20時台の放送が終了した。
 11. 2011年7月に全曜日19時台のみ放送開始。2017年1月 - 3月は木曜のみ自社制作番組『THE BEAT GOES ON』開始によりネット中断していた。
 12. 放送開始 - 2010年3月は19時台のみのネット。2011年7月 - 2013年3月は月曜 - 水曜の20時台のみネットし、一旦打ち切り。2015年4月 - 同年9月は月曜・火曜の20時台のネットを再開したが、同年10月 - 2017年6月は再び19時台のみのネット。2017年7月より第2・第4木曜は自社制作番組『中テレディオ』開始により19時台はネット中断。同年10月より20時台のネットを再開し、20:45に飛び降りていたが、2018年1月より全曜日フルネット。2019年4月より19時台のみのネットに戻る。
-13. 2009年3月をもって一旦打ち切りとなったが、同年10月よりネット再開した。
-14. 2011年4月に放送開始。2016年3月までは20時台もネットしていた
-15. 放送開始 - 2010年3月はフルネットしていた。
-16. 2013年4月に放送開始。2015年10月は自社制作の特別番組放送のため、放送を休止していた。
-17. 水曜のみ『洋子の湖北ミュージックラウンジ』放送のため19:45飛び降り。
-18. 放送開始 - 2009年9月は20時台もネットしていた。
-19. 放送開始 - 2006年9月にネットしたが、一旦打ち切り。2009年8月よりネット再開し、同年10月より20時台もネットを開始。放送前に番組紹介が挿入され、スポンサーが付いている。2012年7月 - 2017年12月に『Love in Action』の関係で20:45で飛び降りていた。2019年4月より木曜は自社制作の『[SHINGO'S RADIO SHOW](../Page/SHINGO'S_RADIO_SHOW.md "wikilink") モ・ク・シ・チ』を放送するために月曜 - 水曜の放送となる。
-20. 2015年3月で木曜の19時台のみ自社制作番組『[続・チャンネル148（仮）](../Page/チャンネル148.md "wikilink")』→『[148neo](../Page/チャンネル148.md "wikilink")』の放送時間拡大でネット打ち切り。但し、148自体が年末年始等で放送休止や放送時間短縮になった場合は木曜の19時台も臨時ネットする。また、ユキは148に電話でゲスト出演した経験もある。
-21. 2004年10月 - 2013年3月は20時台のみネットしたが一旦打ち切り。2016年4月 - 2017年3月は自社制作番組『5COLORS』の時間短縮に伴い19:00 ‐ 19:45に放送。2019年4月より3度目のネット開始。
-22. 2016年10月より自社制作番組『[TWILIGHT PAVEMENT](https://ja.wikipedia.org/wiki/TWILIGHT_PAVEMENT "wikilink")』が放送時間を1時間拡大したため、同年9月をもって19時台のネットを打ち切り。
-23.
-24. 2013年4月に放送開始。放送開始 - 同年8月は20時台のみネット、同年9月より19時台のネットを開始すると共に2013年9月 - 2017年12月に『Love in Action』の関係で20:45で飛び降りていた。2019年4月より自社制作番組『Radio Paradise 耳が恋した\!』の放送時間拡大で19時台のネットを打ち切り、再び20時台のみネット。
-25. 2009年10月 - 2010年12月は19時台のみネットだったが2011年1月からフルネット開始。また20時台において月曜は2011年1月から、火曜は2010年4月6日から放送開始した。2011年5月・6月は月曜 - 木曜の20時台のみで、同年7月 - は月曜・水曜の20時台のみネットした。
-26. 同時間帯での自社制作番組『パリパリ～PARTY\!PARTY\!～』の終了により2015年6月1日よりネットしていたが、新しい自社制作番組『FES.19』の開始に伴い同年6月18日で打ち切った。
-27. 2009年4月 - 2010年3月は毎週月曜 - 木曜 19:00 - 21:30で放送（20:55 - 21:30は東京ローカル）し一旦打ち切り。2014年4月は月曜 - 水曜の20時台のみネット再開したが、同年9月に自社制作番組『EARTH RECORDS』の放送開始により再び打ち切り。
-28. 月曜・火曜は『インフォメーションしずおか』放送の為19:54で飛び降りしていた。同年4月に自社制作番組『[K-mix みんなの19HR\!](https://ja.wikipedia.org/wiki/K-mix_みんなの19HR! "wikilink")』の放送時間拡大により打ち切り。
+13. 2020年3月までは20時台もネットしていた。
+14. 2009年3月をもって一旦打ち切りとなったが、同年10月よりネット再開した。
+15. 2011年4月に放送開始。2016年3月までは20時台もネットしていた。
+16. 放送開始 - 2010年3月はフルネットしていた。
+17. 2013年4月に放送開始。2015年10月は自社制作の特別番組放送のため、放送を休止していた。
+18. 水曜のみ『洋子の湖北ミュージックラウンジ』放送のため19:45飛び降り。
+19. 放送開始 - 2009年9月は20時台もネットしていた。
+20. 放送開始 - 2006年9月にネットしたが、一旦打ち切り。2009年8月よりネット再開し、同年10月より20時台もネットを開始。放送前に番組紹介が挿入され、スポンサーが付いている。2012年7月 - 2017年12月に『Love in Action』の関係で20:45で飛び降りていた。2019年4月より木曜は自社制作の『[SHINGO'S RADIO SHOW](../Page/SHINGO'S_RADIO_SHOW.md "wikilink") モ・ク・シ・チ』を放送するために月曜 - 水曜の放送となる。
+21. 2015年3月で木曜の19時台のみ自社制作番組『[続・チャンネル148（仮）](../Page/チャンネル148.md "wikilink")』→『[148neo](../Page/チャンネル148.md "wikilink")』の放送時間拡大でネット打ち切り。但し、148自体が年末年始等で放送休止や放送時間短縮になった場合は木曜の19時台も臨時ネットする。また、ユキは148に電話でゲスト出演した経験もある。
+22. 2004年10月 - 2013年3月は20時台のみネットしたが一旦打ち切り。2016年4月 - 2017年3月は自社制作番組『5COLORS』の時間短縮に伴い19:00 ‐ 19:45に放送。2019年4月より3度目のネット開始。
+23. 2016年10月より自社制作番組『[TWILIGHT PAVEMENT](https://ja.wikipedia.org/wiki/TWILIGHT_PAVEMENT "wikilink")』が放送時間を1時間拡大したため、同年9月をもって19時台のネットを打ち切り。
+24.
+25. 2013年4月に放送開始。放送開始 - 同年8月は20時台のみネット、同年9月より19時台のネットを開始すると共に2013年9月 - 2017年12月に『Love in Action』の関係で20:45で飛び降りていた。2019年4月より自社制作番組『Radio Paradise 耳が恋した\!』の放送時間拡大で19時台のネットを打ち切り、再び20時台のみネット。
+26. 2009年10月 - 2010年12月は19時台のみネットだったが2011年1月からフルネット開始。また20時台において月曜は2011年1月から、火曜は2010年4月6日から放送開始した。2011年5月・6月は月曜 - 木曜の20時台のみで、同年7月 - は月曜・水曜の20時台のみネットした。
+27. 同時間帯での自社制作番組『パリパリ～PARTY\!PARTY\!～』の終了により2015年6月1日よりネットしていたが、新しい自社制作番組『FES.19』の開始に伴い同年6月18日で打ち切った。
+28. 2009年4月 - 2010年3月は毎週月曜 - 木曜 19:00 - 21:30で放送（20:55 - 21:30は東京ローカル）し一旦打ち切り。2014年4月は月曜 - 水曜の20時台のみネット再開したが、同年9月に自社制作番組『EARTH RECORDS』の放送開始により再び打ち切り。
+29. 月曜・火曜は『インフォメーションしずおか』放送の為19:54で飛び降りしていた。同年4月に自社制作番組『[K-mix みんなの19HR\!](https://ja.wikipedia.org/wiki/K-mix_みんなの19HR! "wikilink")』の放送時間拡大により打ち切り。

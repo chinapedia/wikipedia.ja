@@ -15,7 +15,7 @@
 
 所属事務所の当時の方針により、[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")エリアフリーによる関東地方以外からの聴取および、タイムフリーによる聴取と[LISMO WAVEでの聴取には対応していなかった](https://ja.wikipedia.org/wiki/LISMO#LISMO_WAVE "wikilink")。
 
-出演者は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")より1名。中居は2010年1月1日に担当して以来、一切出演していなかった。
+出演者は、[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")より1名。中居は2010年1月1日に担当して以来、一切出演していなかった。
 
 SMAPのメンバーが一人ずつ交代で当日の[東京](../Page/東京.md "wikilink")地方の天気を伝え、「きょうは何の日」であるか、それに関したエピソードなどを話す。SMAPメンバーは4週間ごとに交代。原則として、放送は1人で行い、事前収録となっている。なお、6:29頃には**TOKYO FM トラフィックレポート**を内包する。
 

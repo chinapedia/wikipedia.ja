@@ -11,7 +11,7 @@
 
 また同番組における小室とゲストとのトークをまとめた「With t 小室哲哉音楽対論」（[幻冬舎](../Page/幻冬舎.md "wikilink")・全5巻、文庫版は幻冬舎文庫より全4巻）も発売されている。
 
-番組開始当初は小室が約1年間、司会としてレギュラー出演してきたが、[TRF](../Page/TRF.md "wikilink")、[華原朋美](../Page/華原朋美.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")などの複数のアーティストの[プロデュース活動で多忙になり](../Page/音楽プロデューサー.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居正広](../Page/中居正広.md "wikilink")が番組の司会を受け継いだ。小室は司会降板後もスーパーバイザーとして番組に携わり、度々出演していた。
+番組開始当初は小室が約1年間、司会としてレギュラー出演してきたが、[TRF](../Page/TRF.md "wikilink")、[華原朋美](../Page/華原朋美.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")などの複数のアーティストの[プロデュース活動で多忙になり](../Page/音楽プロデューサー.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")が番組の司会を受け継いだ。小室は司会降板後もスーパーバイザーとして番組に携わり、度々出演していた。
 
 番組終了後、コーナー「TK MUSIC CLAMP "FACTORY"」が『[FACTORY](https://ja.wikipedia.org/wiki/FACTORY "wikilink")』と番組として独立してスタートした。
 
@@ -303,10 +303,10 @@
 
 ## 外部リンク
 
-  - [TK MUSIC CLAMP HomePage](http://www.fujitv.co.jp/TKMC/index2.html)
-  - [音組ホームページ](http://www.fujitv.co.jp/otogumi/)
-  - [きくちPの音組収録日記](http://www.fujitv.co.jp/otogumi/lovekp/)
-  - [音組スタッフルーム](http://www.fujitv.co.jp/FNS/staffroom/)
+  - [TK MUSIC CLAMP HomePage](https://www.fujitv.co.jp/TKMC/index2.html)
+  - [音組ホームページ](https://www.fujitv.co.jp/otogumi/)
+  - [きくちPの音組収録日記](https://www.fujitv.co.jp/otogumi/lovekp/)
+  - [音組スタッフルーム](https://www.fujitv.co.jp/FNS/staffroom/)
 
 [Category:HEY\!HEY\!HEY\!_MUSIC_CHAMP](https://ja.wikipedia.org/wiki/Category:HEY!HEY!HEY!_MUSIC_CHAMP "wikilink") [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:音組](https://ja.wikipedia.org/wiki/Category:音組 "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink") [Category:中居正広](https://ja.wikipedia.org/wiki/Category:中居正広 "wikilink") [Category:華原朋美](https://ja.wikipedia.org/wiki/Category:華原朋美 "wikilink")
 

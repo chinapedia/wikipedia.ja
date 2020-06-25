@@ -240,7 +240,7 @@
 
 ## 外部リンク
 
-  - [イザワオフィス公式サイト](http://www.jame.or.jp/izawa/index.html)
+  - [イザワオフィス公式サイト](https://izawaoffice.jp/)
   - [フジテレビジョンホームページ](http://www.fujitv.co.jp/index.html)
   - [志村けんのだいじょうぶだぁⅡ](https://www.fami-geki.com/detail/index.php?fami_id=02724) - ファミリー劇場
 

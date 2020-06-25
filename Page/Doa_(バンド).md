@@ -11,13 +11,13 @@
 
   - 作曲と編曲は、全てリーダーの徳永暁人が担当している。
 
-  - 　[2005年](../Page/2005年.md "wikilink")3月16日 - 18日に行われた[R.E.M.](../Page/R.E.M..md "wikilink")のワールドツアー日本公演にて、オープニングアクトを担当した。
+  - [2005年](../Page/2005年.md "wikilink")3月16日 - 18日に行われた[R.E.M.](../Page/R.E.M..md "wikilink")のワールドツアー日本公演にて、オープニングアクトを担当した。
 
   - 10thシングル『[ガラスのハイウェイ](https://ja.wikipedia.org/wiki/ガラスのハイウェイ "wikilink")』は、オリコンデイリーチャート初登場7位を記録。デイリーチャートでトップ10入りしたのはシングルとアルバムを通じて初めて。週間チャートでも14位と自己最高位を更新した。
 
   - 徳永暁人は2007年まで、大田紳一郎は2008年まで、[B'z](../Page/B'z.md "wikilink")のサポートメンバーとしてレコーディング、ライブなどで活躍していた。
 
-  - 　2011年3月19日、初のホールライブ『doa LIVE “open_door” 2011 Spring』を九段会館で行う予定であったが、同年3月11日の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で会場が使用できなくなったことを受けて延期。約4ヶ月後の7月10日に会場を渋谷C.C.Lemonホールへ変更して開催された\[1\]。
+  - 2011年3月19日、初のホールライブ『doa LIVE “open_door” 2011 Spring』を九段会館で行う予定であったが、同年3月11日の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響で会場が使用できなくなったことを受けて延期。約4ヶ月後の7月10日に会場を渋谷C.C.Lemonホールへ変更して開催された\[1\]。
 
 ## メンバー
 
@@ -174,7 +174,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/deadstock_II" title="wikilink">deadstock II</a></strong></p></td>
 <td><p>メジャーデビュー直後にレコーディングが行われたもの。<br />
-3thシングル『<a href="../Page/英雄_(doaの曲).md" title="wikilink">英雄</a>』発売後にリリースを予定していたが[3]、未発表のままとなっている。</p></td>
+3rdシングル『<a href="../Page/英雄_(doaの曲).md" title="wikilink">英雄</a>』発売後にリリースを予定していたが[3]、未発表のままとなっている。</p></td>
 </tr>
 </tbody>
 </table>

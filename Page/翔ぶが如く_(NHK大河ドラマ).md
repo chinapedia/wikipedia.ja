@@ -393,7 +393,7 @@
     明治新政府樹立後、政務に関わることを避けることの多い隆盛のことで利通を責める場面もある。弟分の伊藤博文を最後まで案じていた。
   - [大村益次郎](https://ja.wikipedia.org/wiki/大村益次郎 "wikilink")（おおむら ますじろう）
     演：[平田満](../Page/平田満.md "wikilink")
-    長州藩士。軍略の天才だが、隆盛のことを快く思っていない。
+    長州藩士。軍略の天才。吉之助のことをあまり快く思っていない。明治維新を成し遂げるが、明治2年に不平を抱く士族たちに襲撃されて命を落とす。
   - [木戸松子](../Page/木戸松子.md "wikilink")（きど まつこ）
     （幾松→木戸松子）
     演：[景山仁美](https://ja.wikipedia.org/wiki/景山仁美 "wikilink")
@@ -1129,7 +1129,7 @@
 
   - [大河ドラマ　翔ぶが如く - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010372_00000)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:NHK鹿児島](https://ja.wikipedia.org/wiki/Category:NHK鹿児島 "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:明治時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:明治時代を舞台とした作品 "wikilink") [Category:西南戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:西南戦争を題材とした作品 "wikilink") [Category:鹿児島県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:鹿児島県を舞台としたテレビドラマ "wikilink") [Category:西郷隆盛を題材とした作品](https://ja.wikipedia.org/wiki/Category:西郷隆盛を題材とした作品 "wikilink") [Category:大久保利通](https://ja.wikipedia.org/wiki/Category:大久保利通 "wikilink") [Category:西田敏行](https://ja.wikipedia.org/wiki/Category:西田敏行 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:NHK鹿児島](https://ja.wikipedia.org/wiki/Category:NHK鹿児島 "wikilink") [Category:幕末を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:幕末を舞台としたテレビドラマ "wikilink") [Category:明治時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:明治時代を舞台としたテレビドラマ "wikilink") [Category:西南戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:西南戦争を題材とした作品 "wikilink") [Category:鹿児島県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:鹿児島県を舞台としたテレビドラマ "wikilink") [Category:西郷隆盛を題材とした作品](https://ja.wikipedia.org/wiki/Category:西郷隆盛を題材とした作品 "wikilink") [Category:大久保利通](https://ja.wikipedia.org/wiki/Category:大久保利通 "wikilink") [Category:西田敏行](https://ja.wikipedia.org/wiki/Category:西田敏行 "wikilink")
 
 1.  ただし、現在も肖像画が隆盛の実像を反映しているかは疑問視されている。
 2.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

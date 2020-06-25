@@ -19,6 +19,6 @@
 
 ## 外部リンク
 
-  - [JAPAN BOYS](http://www.fujitv.co.jp/b_hp/jboys/) - フジテレビ
+  - [JAPAN BOYS](https://www.fujitv.co.jp/b_hp/jboys/) - フジテレビ
 
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:関西テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:関西テレビの一社提供番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:日本のリアリティ番組](https://ja.wikipedia.org/wiki/Category:日本のリアリティ番組 "wikilink") [Category:ミズノ一社提供番組](https://ja.wikipedia.org/wiki/Category:ミズノ一社提供番組 "wikilink") [Category:とんねるず](https://ja.wikipedia.org/wiki/Category:とんねるず "wikilink")

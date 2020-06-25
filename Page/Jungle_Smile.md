@@ -1,7 +1,7 @@
 > この記事は[Jungle Smile](https://ja.wikipedia.org/wiki/Jungle_Smile)から翻訳されています。
 
 
-**Jungle Smile**（ジャングル スマイル）は、高木郁乃と[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")の二人からなる、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。現在活動休止中。
+**Jungle Smile**（ジャングル スマイル）は、高木郁乃と[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")の二人からなる、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。2002年をもって活動休止中であるが、後述のとおり断片的な活動は行われている。
 
 Jungle Smileというグループ名には、"殺伐とした[ジャングル](https://ja.wikipedia.org/wiki/ジャングル "wikilink")（のような[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")）でも、いつも[笑顔](https://ja.wikipedia.org/wiki/笑顔 "wikilink")でいられますように…"という高木郁乃の想いが込められている。
 
@@ -17,6 +17,7 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](h
   - [2011年](../Page/2011年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")、デビュー15周年を記念し、当日はかつてのラジオレギュラー番組「のほほん喫茶」を渋谷J-POP CAFÉで一夜限りの復活。「Jungle Smile 15周年特別企画『帰ってきた〜のほほん喫茶〜』」と題し実施。当初は当時のリスナーを集めたパーティー形式で行う予定だったが、イベントのチケットが即日完売するなど反響が非常に大きかったことから、急遽当日の模様が[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")で生中継されることも決定。
   - [2013年](../Page/2013年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - [12月26日](../Page/12月26日.md "wikilink")にかけて、[K-mixで放送されたラジオドラマ](../Page/静岡エフエム放送.md "wikilink")『[新静岡セノバ](https://ja.wikipedia.org/wiki/新静岡セノバ "wikilink") presents セノバスマイルストーリー』のテーマソングとして、12年振りの新曲「流星スペクタクル」「理由は要らない」がオンエアされる。また、同曲が[公式サイト](http://www.jungle-smile.com)にて視聴可能となる。
   - [2014年](../Page/2014年.md "wikilink")2月8日、K-mix開局30周年記念として開催されたライブ「再会」にて、「流星スペクタクル」をシングルCDとして配布。現在、同CDはメルカリでオフィシャル出品されている。
+  - [2016年](../Page/2016年.md "wikilink")11月21日、デビュー20周年特別企画「ジャンスマ、成人式」を[東京キネマ倶楽部](https://ja.wikipedia.org/wiki/東京キネマ倶楽部 "wikilink")にて昼夜2公演行う。来場者には新曲「おおるり おおぞら」を含む「のほほん喫茶」を模したトークCDが配布された。
 
 ## メンバー
 

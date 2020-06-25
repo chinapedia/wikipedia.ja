@@ -42,8 +42,8 @@
   - [血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[身長](../Page/身長.md "wikilink")178cm。名前の由来は[英単語](../Page/英語.md "wikilink")*clever*（「ずる賢い」の意）から。
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")など様々なアーティストの楽曲のリミックスや客演等も行い、CUEZERO、 [SONOMIを率いて自らのレーベル](../Page/SONOMI_\(歌手\).md "wikilink")「[くレーベル](../Page/くレーベル.md "wikilink")」を発足し、プロデューサーとしても活動。[DJ TATSUTAと結成した](../Page/DJ_TATSUTA.md "wikilink")[顔PASSブラザーズ](https://ja.wikipedia.org/wiki/顔PASSブラザーズ "wikilink")、[BLAST RAMPAGEの](https://ja.wikipedia.org/wiki/BLAST_RAMPAGE "wikilink")[千晴](https://ja.wikipedia.org/wiki/千晴 "wikilink")と結成した[ストレスFREE](https://ja.wikipedia.org/wiki/ストレスFREE "wikilink")としても活動。
   - 「[B-BOY PARK](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")」の[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")\[2\] にて史上初の3連覇（[1999年](../Page/1999年.md "wikilink") - [2001年](../Page/2001年.md "wikilink")）を達成。2001年をもって大会殿堂入りを果たしている。
-  - 2004年からソロ活動を始めた理由は、思いついたメロディや言葉を、聞こえてきたまま、形にしたかったからと述べている。また、グループだから聞かないという人に向けたものをやりたかったという\[3\]。
-  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとして知られており、KICK THE CAN CREW時代からのスタッフ等で構成されるサッカーチーム「東京忍者」の代表でもある。好きな選手は[リカルド・クアレスマ](../Page/リカルド・クアレスマ.md "wikilink")で、JUMP ON IT という曲中でも歌詞にしている。ツアー中、ホテルでしばしば[ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")に興じていることもブログにて明かしている。 また自身も高校の時までサッカー部所属で子供の頃はプロサッカー選手を目指していた\[4\]。
+  - 2004年からソロ活動を始めた理由は、思いついたメロディや言葉を、聞こえてきたまま、形にしたかったからと述べている。また、グループだから聞かないという人に向けたものをやりたかったという\[3\]。ソロ活動開始当初は全都道府県の[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")を訪ね、KICK THE CAN CREWの話は極力避けながら新人アーティストとしてプロモーション活動をしていた\[4\]。
+  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとして知られており、KICK THE CAN CREW時代からのスタッフ等で構成されるサッカーチーム「東京忍者」の代表でもある。好きな選手は[リカルド・クアレスマ](../Page/リカルド・クアレスマ.md "wikilink")で、JUMP ON IT という曲中でも歌詞にしている。ツアー中、ホテルでしばしば[ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")に興じていることもブログにて明かしている。 また自身も高校の時までサッカー部所属で子供の頃はプロサッカー選手を目指していた\[5\]。
   - [2012年](../Page/2012年.md "wikilink")の4月1日から自身の誕生日である6月18日までの間、期間限定で[Twitter](../Page/Twitter.md "wikilink")の発信をしていた。[2014年](../Page/2014年.md "wikilink")以降は自身でのツイートを時々行っている。
 
 ## ディスコグラフィ
@@ -1470,7 +1470,7 @@ CD+DVD</p></td>
   - [BLITZ INDEX](https://ja.wikipedia.org/wiki/BLITZ_INDEX "wikilink")（TBS、2013年1月4日、1月11日）
   - [僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2013年1月25日）
   - [LIVE MONSTER](https://ja.wikipedia.org/wiki/LIVE_MONSTER "wikilink")（日本テレビ、2013年9月8日）
-  - [亀田音楽専門学校](https://ja.wikipedia.org/wiki/亀田音楽専門学校 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2013年10月31日、11月7日、2014年10月2日、10月9日）\[5\]
+  - [亀田音楽専門学校](https://ja.wikipedia.org/wiki/亀田音楽専門学校 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2013年10月31日、11月7日、2014年10月2日、10月9日）\[6\]
   - [musicる TV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")（テレビ朝日、2014年1月27日）
   - [せまソン♪](https://ja.wikipedia.org/wiki/せまソン♪ "wikilink")（日本テレビ、2014年1月30日）
   - [小林賢太郎テレビ10](https://ja.wikipedia.org/wiki/小林賢太郎テレビ10 "wikilink")（[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、2019年1月19日）
@@ -1486,15 +1486,15 @@ CD+DVD</p></td>
   - [MUSIC FREAKS](../Page/MUSIC_FREAKS.md "wikilink")（2001年 - 2002年）隔週でDJを担当
   - [α-MONTHLY COLORS](https://ja.wikipedia.org/wiki/α-MONTHLY_COLORS "wikilink")（2007年9月）
   - [RADIPEDIA](https://ja.wikipedia.org/wiki/RADIPEDIA "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）火曜日 24:30 - 26:00（2010年1月 - 2011年3月29日）
-  - KREVAの[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2016年6月10日）\[6\]
+  - KREVAの[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2016年6月10日）\[7\]
 
 ### 映画
 
   - [ローレライ](../Page/ローレライ_\(映画\).md "wikilink")（2005年） - 機関員 小松春平
   - [隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")（2008年） - 刑部付きの侍
   - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")（2015年） - 役名なし
-  - [シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")（2016年） - 村崎 第2戦車中隊長\[7\]
-  - [461個のおべんとう](https://ja.wikipedia.org/wiki/461個の弁当は、親父と息子の男の約束。#映画 "wikilink")（2020年 ） - 古市栄太 役\[8\]
+  - [シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")（2016年） - 村崎 第2戦車中隊長\[8\]
+  - [461個のおべんとう](https://ja.wikipedia.org/wiki/461個の弁当は、親父と息子の男の約束。#映画 "wikilink")（2020年 ） - 古市栄太 役\[9\]
 
 ### CM
 
@@ -1513,7 +1513,7 @@ BY PHAR THE DOPEST及びKICK THE CAN CREWの作品は除く
 
   - 最高はひとつじゃない（2011年）
   - 最高はひとつじゃない2014（2014年）
-  - 『リトル・マーメイド』イン・コンサート（2018年2月11日 - 2月14日、東京 / 大阪） - セバスチャン役\[9\]
+  - 『リトル・マーメイド』イン・コンサート（2018年2月11日 - 2月14日、東京 / 大阪） - セバスチャン役\[10\]
 
 ## 出典
 
@@ -1530,9 +1530,10 @@ BY PHAR THE DOPEST及びKICK THE CAN CREWの作品は除く
 1.  [KREVAがレーベル移籍、春に4年ぶりのアルバムをリリース](http://natalie.mu/music/news/200566) Natalie 2016年9月3日
 2.  即興で[フリースタイルを披露する](https://ja.wikipedia.org/wiki/ラップ#関連用語 "wikilink")
 3.  『ロッキング・オン・ジャパン』2014年7月号、KREVA挑戦の10年、p224
-4.  [KREVA - J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20110508.htm)
-5.
+4.
+5.  [KREVA - J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20110508.htm)
 6.
 7.
 8.
 9.
+10.

@@ -431,23 +431,20 @@ THE BOOM 島唄のものがたり（2013年） - 監督：[真喜屋力](https:/
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a>（平成14年）/<a href="../Page/第53回NHK紅白歌合戦.md" title="wikilink">第53回</a></p></td>
-<td><p>2</p></td>
+<td><p>2[7]</p></td>
 <td><p>島唄(Shima Uta)</p></td>
 <td><p>17/27</p></td>
 <td><p><a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a></p></td>
-<td><p>アルフレッド・カセーロ<br />
-&amp;THE BOOMとして出場</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>（平成20年）/<a href="https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦" title="wikilink">第59回</a></p></td>
-<td><p>特別出演</p></td>
+<td><p>特別出演[8]</p></td>
 <td><p>島唄〜ブラジル移民<br />
 100周年記念バージョン</p></td>
 <td><p>-</p></td>
 <td><p>| -</p></td>
-<td><p>特別企画枠。「宮沢和史<br />
-in ガンガ・ズンバ<br />
-&amp; THE BOOM」として出場</p></td>
+<td><p>特別企画枠からの出場</p></td>
 </tr>
 </tbody>
 </table>
@@ -481,3 +478,5 @@ in ガンガ・ズンバ<br />
 4.  出場歌手別[視聴率](../Page/視聴率.md "wikilink")（関東地区）は、[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")、[石川さゆり](../Page/石川さゆり.md "wikilink")と並ぶ53.6%であった（2位）。[紅白歌手別視聴率ベスト10](http://www1.plala.or.jp/nakaatsu/ritu.htm)
 5.
 6.
+7.  アルフレッド・カセーロ\&THE BOOMとして出場
+8.  宮沢和史in ガンガ・ズンバ& THE BOOMとして出場

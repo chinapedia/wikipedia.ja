@@ -168,7 +168,7 @@
 
 ## 外部リンク
 
-  - [HR - フジテレビ番組基本情報](http://www.fujitv.co.jp/b_hp/hr/)
+  - [HR - フジテレビ番組基本情報](https://www.fujitv.co.jp/b_hp/hr/)
 
 [Category:シチュエーション・コメディ](https://ja.wikipedia.org/wiki/Category:シチュエーション・コメディ "wikilink") [Category:バラパラ](https://ja.wikipedia.org/wiki/Category:バラパラ "wikilink") [Category:フジテレビの深夜ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜ドラマ "wikilink") [Category:2002年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2002年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:三谷幸喜脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:三谷幸喜脚本のテレビドラマ "wikilink") [Category:教師を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:教師を主人公としたテレビドラマ "wikilink") [Category:高等学校を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたテレビドラマ "wikilink") [Category:香取慎吾](https://ja.wikipedia.org/wiki/Category:香取慎吾 "wikilink")
 

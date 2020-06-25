@@ -1,7 +1,7 @@
 > この記事は[藤本美貴のドキみきNight](https://ja.wikipedia.org/wiki/藤本美貴のドキみきNight)から翻訳されています。
 
 
-**藤本美貴のドキ♥みきNight**は、[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")が[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")加入前から名古屋・[CBCラジオ](../Page/CBCラジオ.md "wikilink")で、[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**藤本美貴のドキ♥みきNight**は、[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")が[モーニング娘。](../Page/モーニング娘。.md "wikilink")加入前から名古屋・[CBCラジオ](../Page/CBCラジオ.md "wikilink")で、[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 [2002年](../Page/2002年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")放送開始。当初の放送時間は毎週日曜24:00～24:30だった。2004年4月より[ハイパーナイト](../Page/ハイパーナイト.md "wikilink")月曜1枠の23:30～24:00に移動。
 

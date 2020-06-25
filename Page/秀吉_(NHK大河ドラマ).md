@@ -529,7 +529,7 @@
 
 ## 放送
 
-特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](http://www.nhk.or.jp/archives/chronicle/)で確認。
+特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/)で確認。
 
 ### 通常放送時間
 
@@ -615,7 +615,7 @@
 
   - [大河ドラマ　秀吉 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010434_00000)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1996年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1996年のテレビドラマ "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK大阪のテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK大阪のテレビドラマ "wikilink") [Category:豊臣秀吉を題材とした作品](https://ja.wikipedia.org/wiki/Category:豊臣秀吉を題材とした作品 "wikilink") [Category:堺屋太一](https://ja.wikipedia.org/wiki/Category:堺屋太一 "wikilink") [Category:竹山洋脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:竹山洋脚本のテレビドラマ "wikilink") [Category:名古屋市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:名古屋市を舞台としたテレビドラマ "wikilink") [Category:大阪市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:大阪市を舞台としたテレビドラマ "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1996年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1996年のテレビドラマ "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK大阪のテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK大阪のテレビドラマ "wikilink") [Category:豊臣秀吉を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:豊臣秀吉を題材としたテレビドラマ "wikilink") [Category:堺屋太一](https://ja.wikipedia.org/wiki/Category:堺屋太一 "wikilink") [Category:竹山洋脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:竹山洋脚本のテレビドラマ "wikilink") [Category:名古屋市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:名古屋市を舞台としたテレビドラマ "wikilink") [Category:大阪市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:大阪市を舞台としたテレビドラマ "wikilink")
 
 1.  このドラマで初めて秀吉の妻の名前が「ねね」ではなく「おね」として呼ばれた。この呼び名は6年後の『[利家とまつ](../Page/利家とまつ〜加賀百万石物語〜.md "wikilink")』でも引き続いて使用された。また、呼び名に関しての解説が、第27話のアバンタイトルでされている。
 2.  所属するロックバンド「[安全地帯](../Page/安全地帯_\(ロックバンド\).md "wikilink")」の活動休止後、しばらくは目立った活動がなかったが、この作品以降、翌年にかけて、民放のドラマシリーズで3作の主演を果たすことになった。なお、玉置の芝居は義昭初登場時は物腰の柔らかい落ち着いた口調で演じていたが、徐々に声が甲高くなりハイテンションな演技へと変化していった。

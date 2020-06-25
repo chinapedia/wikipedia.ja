@@ -40,9 +40,9 @@ NS32000シリーズCPUを使用したマシンの実例である。
   - Trinity College Workstation - NS32332
   - ETH Ceres Workstation - NS32532
   - [シーメンス](../Page/シーメンス.md "wikilink") PC-MX2 - NS32016
-  - Compupro 32016 - NS32016 S-100 カード
+  - [CompuPro](https://ja.wikipedia.org/wiki/CompuPro "wikilink") 32016 - NS32016 [S-100カード](../Page/S-100バス.md "wikilink")
   - Symmetrics S/375 - NS32016
-  - General Robotics Corp. Python - NS32032 & N32016 Q-Bus カード
+  - General Robotics Corp. Python - NS32032 & N32016 [Q-Bus](https://ja.wikipedia.org/wiki/Q-Bus "wikilink")カード
 
 ## 名前の似ているプロセッサ
 

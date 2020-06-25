@@ -30,7 +30,7 @@
 
 ### 整腸薬
 
-  - ポポンVL整腸薬【第3類医薬品】- [2011年](../Page/2011年.md "wikilink")（平成23年）12月発売。[ビフィズス菌](../Page/ビフィズス菌.md "wikilink")・[ガセリ菌](https://ja.wikipedia.org/wiki/ガセリ菌 "wikilink")・[アシドフィルス菌](https://ja.wikipedia.org/wiki/アシドフィルス菌 "wikilink")にビタミンB2・B6・Cを配合したチュアブル（水なしで服用する）タイプ（製造販売元：[日東薬品工業](https://ja.wikipedia.org/wiki/日東薬品工業 "wikilink")）。
+  - ポポンVL整腸薬【第3類医薬品】- [2011年](../Page/2011年.md "wikilink")（平成23年）12月発売。[ビフィズス菌](../Page/ビフィズス菌.md "wikilink")・[ガセリ菌](https://ja.wikipedia.org/wiki/ガセリ菌 "wikilink")・[アシドフィルス菌](https://ja.wikipedia.org/wiki/アシドフィルス菌 "wikilink")にビタミンB2・B6・Cを配合したチュアブル（水なしで服用する）タイプ（製造販売元：[日東薬品工業](../Page/日東薬品工業.md "wikilink")）。
 
 ### 販売終了品
 

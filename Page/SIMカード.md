@@ -1,7 +1,7 @@
 > この記事は[SIMカード](https://ja.wikipedia.org/wiki/SIMカード)から翻訳されています。
 
 
-[thumbのSIMカード](https://ja.wikipedia.org/wiki/ファイル:T-Mobile_SIM_card.jpg "wikilink")。クレジットカードサイズのカードから切り離して使用\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:SIM_Socket2.jpg "wikilink") **SIMカード**（シムカード、）とは、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")や[W-CDMA](../Page/W-CDMA.md "wikilink")などの方式の[携帯電話](../Page/携帯電話.md "wikilink")で使われている、加入者を特定するためのID番号が記録された[ICカード](../Page/ICカード.md "wikilink")\[1\]。なお、[第2.5世代移動通信システムの方式の一つ](../Page/第2世代移動通信システム.md "wikilink")、[IS-95](https://ja.wikipedia.org/wiki/IS-95 "wikilink")で使われるICカードを[CSIMカード](https://ja.wikipedia.org/wiki/CSIMカード "wikilink")と呼ぶ。なお、日本の[cdmaOne](https://ja.wikipedia.org/wiki/cdmaOne "wikilink")ではこの方式は採用されなかった。
+[thumbのSIMカード](https://ja.wikipedia.org/wiki/ファイル:T-Mobile_SIM_card.jpg "wikilink")。クレジットカードサイズのカードから切り離して使用\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:SIM_Socket2.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Dual_Sim_Slot.jpg "wikilink") **SIMカード**（シムカード、）とは、[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")や[W-CDMA](../Page/W-CDMA.md "wikilink")などの方式の[携帯電話](../Page/携帯電話.md "wikilink")で使われている、加入者を特定するためのID番号が記録された[ICカード](../Page/ICカード.md "wikilink")\[1\]。なお、[第2.5世代移動通信システムの方式の一つ](../Page/第2世代移動通信システム.md "wikilink")、[IS-95](https://ja.wikipedia.org/wiki/IS-95 "wikilink")で使われるICカードを[CSIMカード](https://ja.wikipedia.org/wiki/CSIMカード "wikilink")と呼ぶ。なお、日本の[cdmaOne](https://ja.wikipedia.org/wiki/cdmaOne "wikilink")ではこの方式は採用されなかった。
 
 [第3世代（3G）携帯電話用のSIMカードは機能が拡張されており](../Page/第3世代移動通信システム.md "wikilink")、[W-CDMA](../Page/W-CDMA.md "wikilink")（UMTS）に利用するものを[UIMカード](../Page/UIMカード.md "wikilink")ないしUSIMカード、[CDMA2000](../Page/CDMA2000.md "wikilink")に利用するものをR-UIMカードと言うが、基本的に互換性があるため、特に区別せずにSIMカードと呼ぶことが多い。
 
@@ -57,7 +57,7 @@ SWPの上位層でUICCやCLF間の通信を管理するHCI（Host Controller Int
 
 ## データ
 
-  - ICCID
+  - ICCID(Integrated Circuit Card ID)
     最大19桁であり、1 - 2桁目は産業識別（電気通信は89）、3 - 4桁目は国番号（日本は81）、日本の場合、5 - 6桁目は事業者番号、7 - 18桁目はカード番号、19桁目は[チェックデジット](https://ja.wikipedia.org/wiki/チェックデジット "wikilink")である<ref>
 
 </ref>。
@@ -69,7 +69,7 @@ SWPの上位層でUICCやCLF間の通信を管理するHCI（Host Controller Int
 （旧[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")←[イー・モバイル](../Page/イー・モバイル.md "wikilink")）||00 |- |[阪神ケーブルエンジニアリング](https://ja.wikipedia.org/wiki/阪神ケーブルエンジニアリング "wikilink")||02 |- |[楽天モバイル](../Page/楽天モバイル_\(MNO\).md "wikilink")||09 |- |[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")||10 |- |ソフトバンク（主にSoftBankブランド）
 （旧・[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")→ソフトバンクモバイル）||20 |- |[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")）||30 |- |[UQコミュニケーションズ](https://ja.wikipedia.org/wiki/UQコミュニケーションズ "wikilink")||31 |- |旧・[ウィルコム](../Page/ウィルコム.md "wikilink")||70 |- |[Wireless City Planning](https://ja.wikipedia.org/wiki/Wireless_City_Planning "wikilink")||71 |}
 
-  - IMSI
+  - IMSI(International Mobile Sub scriber Indentity)
     最大15桁であり、MCC3桁、MNC2 - 3桁、MSIN最大10桁で構成される。
 
 ## 日本のSIMカード

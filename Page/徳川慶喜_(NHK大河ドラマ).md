@@ -386,7 +386,7 @@
 
 ## 放送
 
-特記がない限り[NHKクロニクルのNHK番組表ヒストリー](http://www.nhk.or.jp/archives/chronicle/)で確認。
+特記がない限り[NHKクロニクルのNHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/)で確認。
 
 ### 通常放送時間
 
@@ -474,7 +474,7 @@
   - [大河ドラマ　徳川慶喜（よしのぶ） - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010459_00000)
   - \[<https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga038>　番組エピソード　大河ドラマ『徳川慶喜』 NHKアーカイブス\]
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:茨城県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:茨城県を舞台としたテレビドラマ "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:NHK水戸](https://ja.wikipedia.org/wiki/Category:NHK水戸 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:徳川慶喜](https://ja.wikipedia.org/wiki/Category:徳川慶喜 "wikilink") [Category:本木雅弘](https://ja.wikipedia.org/wiki/Category:本木雅弘 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1998年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1998年のテレビドラマ "wikilink") [Category:司馬遼太郎原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:司馬遼太郎原作のテレビドラマ "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:茨城県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:茨城県を舞台としたテレビドラマ "wikilink") [Category:幕末を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:幕末を舞台としたテレビドラマ "wikilink") [Category:NHK水戸](https://ja.wikipedia.org/wiki/Category:NHK水戸 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink") [Category:徳川慶喜](https://ja.wikipedia.org/wiki/Category:徳川慶喜 "wikilink") [Category:本木雅弘](https://ja.wikipedia.org/wiki/Category:本木雅弘 "wikilink")
 
 1.  同じ東洋文庫には『昔夢会筆記　徳川慶喜公回想談』（[渋沢栄一](../Page/渋沢栄一.md "wikilink")編・[大久保利謙](../Page/大久保利謙.md "wikilink")校訂）がある。
 2.  大河ドラマの『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』では、原作となった同名の小説の他にも同じ司馬遼太郎執筆の小説が複数原作として用いられており、本作の原作でもある『[最後の将軍](https://ja.wikipedia.org/wiki/最後の将軍_徳川慶喜 "wikilink")』も『翔ぶが如く』第一部の「幕末編」に組み込まれていた。

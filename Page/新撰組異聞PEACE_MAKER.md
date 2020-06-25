@@ -1029,7 +1029,7 @@
   - [新選組PEACE MAKER](http://www.mbs.jp/peacemaker/) - テレビドラマ版[毎日放送](../Page/毎日放送.md "wikilink")番宣サイト
   - [Blue Shuttle Presents 『新撰組異聞PEACE MAKER』](http://blog.livedoor.jp/bluepeacemaker/archives/50598311.html) - 2007年舞台版を主催した[ブルーシャトル](../Page/ブルーシャトル.md "wikilink")による公演情報。
   - [新撰組異聞PEACE MAKER](http://free-es.net/works/stage/2009/peacemaker.html) - 2009年舞台版を主催したFREE(S)による舞台情報。
-  - [Knocturn 舞台公演情報](http://ameblo.jp/knocturn/) - 2011年・2012年舞台版を主催した[Knocturn](https://ja.wikipedia.org/wiki/Knocturn "wikilink")による舞台情報。
+  - [Knocturn 舞台公演情報](https://ameblo.jp/knocturn/) - 2011年・2012年舞台版を主催した[Knocturn](https://ja.wikipedia.org/wiki/Knocturn "wikilink")による舞台情報。
   - [新選組異聞PEACE MAKER 再炎](http://knocturn.com/peacemaker/)（） - 2012年舞台版公式サイト。
 
 **アニメ・ドラマCD関連**
@@ -1039,7 +1039,7 @@
   -
   - [劇場アニメ「PEACE MAKER 鐡」公式サイト](http://www.peacemakerk.jp/)
 
-[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:歴史漫画](https://ja.wikipedia.org/wiki/Category:歴史漫画 "wikilink") [Category:月刊少年ガンガンの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ガンガンの漫画作品 "wikilink") [Category:新選組を題材とした漫画](https://ja.wikipedia.org/wiki/Category:新選組を題材とした漫画 "wikilink") [Category:戊辰戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:戊辰戦争を題材とした作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:漫画を原作とする舞台作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする舞台作品 "wikilink") [Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2007年の舞台作品](https://ja.wikipedia.org/wiki/Category:2007年の舞台作品 "wikilink") [Category:2009年の舞台作品](https://ja.wikipedia.org/wiki/Category:2009年の舞台作品 "wikilink") [Category:2011年の舞台作品](https://ja.wikipedia.org/wiki/Category:2011年の舞台作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:歴史漫画](https://ja.wikipedia.org/wiki/Category:歴史漫画 "wikilink") [Category:月刊少年ガンガンの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ガンガンの漫画作品 "wikilink") [Category:新選組を題材とした漫画](https://ja.wikipedia.org/wiki/Category:新選組を題材とした漫画 "wikilink") [Category:戊辰戦争を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:戊辰戦争を題材とした漫画作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:漫画を原作とする舞台作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする舞台作品 "wikilink") [Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2007年の舞台作品](https://ja.wikipedia.org/wiki/Category:2007年の舞台作品 "wikilink") [Category:2009年の舞台作品](https://ja.wikipedia.org/wiki/Category:2009年の舞台作品 "wikilink") [Category:2011年の舞台作品](https://ja.wikipedia.org/wiki/Category:2011年の舞台作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  [時代劇専門チャンネル＞放送作品一覧＞PEACE MAKER 鐵](https://www.jidaigeki.com/program/detail/jd00000536.html)
 2.  [劇場アニメ「PEACE MAKER鐡」公式サイト](http://www.peacemakerk.jp/)

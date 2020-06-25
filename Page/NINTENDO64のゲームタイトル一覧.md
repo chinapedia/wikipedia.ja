@@ -148,7 +148,7 @@
   - 6月3日 [NBA IN THE ZONE2](https://ja.wikipedia.org/wiki/NBA_IN_THE_ZONE "wikilink")（コナミ）
   - 6月11日 [ズール 魔獣使い伝説](https://ja.wikipedia.org/wiki/ズール_魔獣使い伝説 "wikilink")（イマジニア）
   - 6月11日 [マリオゴルフ](../Page/マリオゴルフ.md "wikilink")64（任天堂）★
-  - 6月18日 [バイオレンスキラー TUROK NEW GENERATION](https://ja.wikipedia.org/wiki/バイオレンスキラー_TUROK_NEW_GENERATION "wikilink")（[gemzi](https://ja.wikipedia.org/wiki/gemzi "wikilink")）
+  - 6月18日 [バイオレンスキラー TUROK NEW GENERATION](https://ja.wikipedia.org/wiki/バイオレンスキラー_TUROK_NEW_GENERATION "wikilink")（アクレイムジャパン）
   - 6月25日 [新世紀エヴァンゲリオン](../Page/新世紀エヴァンゲリオン_\(NINTENDO64\).md "wikilink")（バンダイ）
   - 7月9日 [エルテイルモンスターズ](../Page/エルテイルモンスターズ.md "wikilink")（イマジニア）
   - 7月14日 [オウガバトル64 Person of Lordly Caliber](../Page/オウガバトル64.md "wikilink")（任天堂）★
@@ -334,7 +334,7 @@
   - 『DDシーケンサー』
   - 『ビデオジョッキーメーカー』
   - 『オリエンタルブルー 青の天外』
-  - 『バンジョーとカズーイの大冒険３』→『[バンジョーとカズーイの大冒険〜グランティの復讐](../Page/バンジョーとカズーイの大冒険〜グランティの復讐.md "wikilink")』英語名『[Banjo-Kazooie: Grunty's Revenge](https://ja.wikipedia.org/wiki/Banjo-Kazooie:_Grunty's_Revenge "wikilink")』ゲームボーイに海外のみ販売
+  - 『バンジョーとカズーイの大冒険３』→『[バンジョーとカズーイの大冒険〜グランティの復讐](../Page/バンジョーとカズーイの大冒険〜グランティの復讐.md "wikilink")』英語名『[Banjo-Kazooie: Grunty's Revenge](https://ja.wikipedia.org/wiki/Banjo-Kazooie:_Grunty's_Revenge "wikilink")』ゲームボーイアドバンスに海外のみ販売
   - 『Dr. Mario 64』→『[NINTENDOパズルコレクション](../Page/NINTENDOパズルコレクション.md "wikilink")』GCに移行
 
 64DDについては[64DD\#発売中止になったソフト](https://ja.wikipedia.org/wiki/64DD#発売中止になったソフト "wikilink")を参照すること。

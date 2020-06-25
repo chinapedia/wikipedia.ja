@@ -72,7 +72,7 @@
 
 [2001年](../Page/2001年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に放送された。
 
-開始当初は「**香取慎吾と小宮悦子の新ニュース番組**」として、ゲストを呼ばず（ゲストは自宅などから中継で出演）、2人のみで番組を進めた。第一回は[カーブル](../Page/カーブル.md "wikilink")からの生中継や「ステーションの先輩」として、当時『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の司会をしていた[久米宏](../Page/久米宏.md "wikilink")がテレビ電話出演するなど、当初はニュース色の強い番組だった。香取は、「**司会でもニュースキャスターでもなく主役**」と番組での自らの位置付けについて話していた。しかし小宮が、担当する『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』など[報道番組](../Page/報道番組.md "wikilink")に専念するという理由で2001年[12月22日](../Page/12月22日.md "wikilink")の放送を最後に番組を降板。毎回、小宮にニュースキャスターにしては過激な衣装（例：パーマがかかったロングヘアのカツラを被り、エナメルのジャンパーやミニスカートなど黒い衣装で統一）を着せていたことが小宮の[当時の事務所サイドの怒りを買ったため](../Page/オフィス・トゥー・ワン.md "wikilink")、という説がある。香取についても、スケジュール上このスマステ開始により、売れっ子とはいえ想定以上の激務になることから、それまでフジテレビ系レギュラー番組で、ロケ収録を行っていた「[サタ☆スマ](../Page/サタ☆スマ.md "wikilink")」をやめている（2002年3月）。
+開始当初は「**香取慎吾と小宮悦子の新ニュース番組**」として、ゲストを呼ばず（ゲストは自宅などから中継で出演）、2人のみで番組を進めた。第一回は[カーブル](../Page/カーブル.md "wikilink")からの生中継や「ステーションの先輩」として、当時『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』の司会をしていた[久米宏](../Page/久米宏.md "wikilink")がテレビ電話出演するなど、当初はニュース色の強い番組だった。香取は、「**司会でもニュースキャスターでもなく主役**」と番組での自らの位置付けについて話していた。しかし小宮が、担当する『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』など[報道番組](../Page/報道番組.md "wikilink")に専念するという理由で2001年[12月22日](../Page/12月22日.md "wikilink")の放送を最後に番組を降板。毎回、小宮にニュースキャスターにしては過激な衣装（例：パーマがかかったロングヘアのカツラを被り、エナメルのジャンパーやミニスカートなど黒い衣装で統一）を着せていたことが小宮の[当時の事務所サイドの怒りを買ったため](../Page/オフィス・トゥー・ワン.md "wikilink")、という説がある。香取についても、スケジュール上このスマステ開始により、売れっ子とはいえ想定以上の激務になることから、それまでフジテレビ系レギュラー番組で、ロケ収録を行っていた「[サタ☆スマ](../Page/サタ☆スマ.md "wikilink")」をやめている（2002年3月）。
 
 2002年1月からは中継先ではなくスタジオにゲストが2組出演するようになるなど、バラエティー要素が強くなっていった。小宮の後任には、自局の看板女性アナウンサーである『[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")』司会の[大下容子](../Page/大下容子.md "wikilink")を敢えてシフト無視\[6\] で起用し、最終回まで至る。
 
@@ -91,7 +91,7 @@
 
 ### SmaSTATION-2の出来事
 
-  - [2003年](../Page/2003年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")には、[新潟スタジアム](../Page/新潟スタジアム.md "wikilink")で行われた[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")終了後に、[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")の局舎全体をスタジオとして利用して全国に向けて放送した。
+  - [2003年](../Page/2003年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")には、[新潟スタジアム](../Page/新潟スタジアム.md "wikilink")で行われた[SMAP](../Page/SMAP.md "wikilink")の[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")終了後に、[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")の局舎全体をスタジオとして利用して全国に向けて放送した。
 
 ## SmaSTATION-3
 
@@ -156,7 +156,7 @@
 
 #### NASA初潜入&緊張の記者会見に挑む\!
 
-  - 2005年[7月9日](../Page/7月9日.md "wikilink")は日本人宇宙飛行士・[野口聡一](../Page/野口聡一.md "wikilink")が乗り込む[スペースシャトル](../Page/スペースシャトル.md "wikilink")・[ディスカバリーが近日打ち上げられることになったため香取と稲垣の](https://ja.wikipedia.org/wiki/ディスカバリー_\(オービタ\) "wikilink")2人でアメリカの[NASAに取材に出かける](../Page/アメリカ航空宇宙局.md "wikilink")。\[7\] スペースシャトルなどを見学後、ディスカバリーの乗組員による記者会見が行われ、香取らも会見場に参列する。そして、質疑応答の時間に香取は「宇宙へいったら何を聞きたいですか?」と質問。そのときに[野口聡一](../Page/野口聡一.md "wikilink")は答えてくれなかった。しかし、その後の写真撮影で香取らは野口聡一に接近し、もう一度同じ質問をぶつける。すると野口は「[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")\!」と快く答えてくれた。（そしてフライト13日目となる2005年8月7日にウェイクアップコールで『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』がかけられた）
+  - 2005年[7月9日](../Page/7月9日.md "wikilink")は日本人宇宙飛行士・[野口聡一](../Page/野口聡一.md "wikilink")が乗り込む[スペースシャトル](../Page/スペースシャトル.md "wikilink")・[ディスカバリーが近日打ち上げられることになったため香取と稲垣の](https://ja.wikipedia.org/wiki/ディスカバリー_\(オービタ\) "wikilink")2人でアメリカの[NASAに取材に出かける](../Page/アメリカ航空宇宙局.md "wikilink")。\[7\] スペースシャトルなどを見学後、ディスカバリーの乗組員による記者会見が行われ、香取らも会見場に参列する。そして、質疑応答の時間に香取は「宇宙へいったら何を聞きたいですか?」と質問。そのときに[野口聡一](../Page/野口聡一.md "wikilink")は答えてくれなかった。しかし、その後の写真撮影で香取らは野口聡一に接近し、もう一度同じ質問をぶつける。すると野口は「[SMAP](../Page/SMAP.md "wikilink")\!」と快く答えてくれた。（そしてフライト13日目となる2005年8月7日にウェイクアップコールで『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』がかけられた）
 
 #### テレビ朝日×日本テレビ、2回目の生中継コラボ（世界を救うチャリティー）
 
@@ -504,7 +504,7 @@
 
 ## 番組内でよく使われる楽曲
 
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」「[Dear WOMAN](../Page/Dear_WOMAN.md "wikilink")」「[buzzer beater](../Page/Dear_WOMAN.md "wikilink")」「[ススメ\!](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」「[Theme of MIJ](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」
+  - [SMAP](../Page/SMAP.md "wikilink")「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」「[Dear WOMAN](../Page/Dear_WOMAN.md "wikilink")」「[buzzer beater](../Page/Dear_WOMAN.md "wikilink")」「[ススメ\!](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」「[Theme of MIJ](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」
   - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")「[ROCK AND ROLL HERO](../Page/ROCK_AND_ROLL_HERO.md "wikilink")」「HOLD ON (It's Alright)」
   - [U2](../Page/U2.md "wikilink")、[THE Beatles](../Page/ビートルズ.md "wikilink")、[THE ROLLING STONES](../Page/ローリング・ストーンズ.md "wikilink")
   - [ジョン・パウエル](../Page/ジョン・パウエル.md "wikilink")「Our Heros」([映画「エボリューション」より](../Page/エボリューション_\(映画\).md "wikilink")、主に企画前の前振りVTR時)

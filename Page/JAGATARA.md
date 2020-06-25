@@ -35,40 +35,122 @@
 
 ## 主なメンバー
 
-  - **[江戸アケミ](../Page/江戸アケミ.md "wikilink")**（江戸正孝）（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")）（1979年〜）
-  - **[EBBY](https://ja.wikipedia.org/wiki/EBBY "wikilink")**（永井章）（ギター）（1979年〜）　
-      -
-        JAGATARAと並行して[THE FOOLS](https://ja.wikipedia.org/wiki/THE_FOOLS "wikilink")、[TOMATOS](https://ja.wikipedia.org/wiki/TOMATOS "wikilink")にも在籍。解散後はPHAT DOGS、MAMBABOOなどで活動。
-  - **[ナベ](https://ja.wikipedia.org/wiki/ナベ_\(ベーシスト\) "wikilink")**（渡邊正己）（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）（1979年〜）　
-      -
-        JAGATARAと並行してTOMATOSにも在籍。解散後はイモンズを結成。
-  - **[OTO](https://ja.wikipedia.org/wiki/OTO_\(ミュージシャン\) "wikilink")**（村田尚紀）（[ギター](../Page/ギター.md "wikilink")）（1981年〜）　
-      -
-        加入前は後に[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")を結成するジュネのMARIA023に在籍。またJAGATARAと並行して[ビブラストーン](../Page/ビブラストーン.md "wikilink")で活動。1991年に[あがた森魚](../Page/あがた森魚.md "wikilink")の[雷蔵](https://ja.wikipedia.org/wiki/雷蔵 "wikilink")へ参加。1994年に南潤子（後の[南流石](../Page/南流石.md "wikilink")）らとTANGOSを結成。2004年に元[ZELDAのサヨコらと](../Page/ZELDA_\(バンド\).md "wikilink")[サヨコオトナラ](https://ja.wikipedia.org/wiki/サヨコオトナラ "wikilink")を結成。
-  - **[篠田昌已](../Page/篠田昌已.md "wikilink")**（[サックス](../Page/サクソフォーン.md "wikilink")）（1983年〜）　
-      -
-        加入前は[生活向上委員会](../Page/梅津和時.md "wikilink")、PUNGOなどに在籍。またJAGATARAと並行して[チンドン楽団](../Page/チンドン屋.md "wikilink")、[オルケスタ・デル・ビエント](https://ja.wikipedia.org/wiki/オルケスタ・デル・ビエント "wikilink")、コンポステラなどでも活動。
-  - **中村ていゆう**（中村貞祐）（[ドラムス](../Page/ドラムセット.md "wikilink")）（1983年〜）　
-      -
-        加入前はMARIA023、AUTO-MOD、[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")、火の宮などに在籍。解散後は[KUSU KUSUのマネジメントなどを行った](../Page/KUSU_KUSU.md "wikilink")。
-  - **吉田哲治**（[トランペット](../Page/トランペット.md "wikilink")）（1981〜1989年）
-      -
-        加入前は生活向上委員会などに在籍。脱退後は自らのバンドFIVESなどで活動。
-  - **ヤヒロトモヒロ**（八尋知洋）（[パーカッション](../Page/打楽器.md "wikilink")）（1985年〜）　
-      -
-        解散後は自らのバンド、オズ・ アマレーロスなどで活動。
-  - **[村田陽一](../Page/村田陽一.md "wikilink")**（[トロンボーン](../Page/トロンボーン.md "wikilink")）（1986年〜）　
-      -
-        JAGATARAと並行して[米米CLUB](../Page/米米CLUB.md "wikilink")の[BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")、[オルケスタ・デ・ラ・ルス](../Page/オルケスタ・デ・ラ・ルス.md "wikilink")にも在籍。解散後は自らのバンドSOLID BRASSなどで活動。
-  - **エマーソン北村**（北村賢治）（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）（1988年〜）　
-      -
-        解散後は[MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")、[シアターブルック](https://ja.wikipedia.org/wiki/シアターブルック "wikilink")などで活動。
-  - **南潤子**（後の**[南流石](../Page/南流石.md "wikilink")**。[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")&ダンス）（1986年〜）　
-      -
-        コーラス兼ダンサー。解散後は主に振付師として活躍。1994年にOTOらとTANGOSを結成。2012年には[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")らと[Rabbitを結成](https://ja.wikipedia.org/wiki/Rabbit_\(バンド\) "wikilink")。
-  - **ユカリ**（塚越優香）（コーラス&ダンス、サックス）（1985年〜1989年）　
-      -
-        加入前は[タンゴ・ヨーロッパ](../Page/タンゴ・ヨーロッパ.md "wikilink")に在籍。当初は南と共にコーラス兼ダンサーとして加入するが、篠田の薫陶を受けサックスを習得。バンド後期に脱退し、解散後は「Yukarie」（読みはユカリ）名義でサックスプレーヤーとして[THE THRILL](https://ja.wikipedia.org/wiki/ザ・スリル "wikilink")、[Mean Machine](../Page/Mean_Machine.md "wikilink")、[河村隆一](../Page/河村隆一.md "wikilink")のバックメンバーなどで活動（Mean Machineではベース担当）。
+  - **[江戸アケミ](../Page/江戸アケミ.md "wikilink")**（江戸正孝、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")（1979年〜）
+
+<!-- end list -->
+
+  - **[EBBY](https://ja.wikipedia.org/wiki/EBBY "wikilink")**（永井章、[1957年](../Page/1957年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") - ）
+
+<!-- end list -->
+
+  -
+    ギター（1979年〜）　
+    JAGATARAと並行して[THE FOOLS](https://ja.wikipedia.org/wiki/THE_FOOLS "wikilink")、[TOMATOS](https://ja.wikipedia.org/wiki/TOMATOS "wikilink")にも在籍。解散後はPHAT DOGS、MAMBABOOなどで活動。
+
+<!-- end list -->
+
+  - **[ナベ](https://ja.wikipedia.org/wiki/ナベ_\(ベーシスト\) "wikilink")**（渡邊正己、生年不明 - [1992年](../Page/1992年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（1979年〜）　
+    JAGATARAと並行してTOMATOSにも在籍。解散後はイモンズを結成。
+
+<!-- end list -->
+
+  - **[OTO](https://ja.wikipedia.org/wiki/OTO_\(ミュージシャン\) "wikilink")**（村田尚紀）
+
+<!-- end list -->
+
+  -
+    [ギター](../Page/ギター.md "wikilink")（1981年〜）　
+    加入前は後に[AUTO-MOD](../Page/AUTO-MOD.md "wikilink")を結成するジュネのMARIA023に在籍。またJAGATARAと並行して[ビブラストーン](../Page/ビブラストーン.md "wikilink")で活動。1991年に[あがた森魚](../Page/あがた森魚.md "wikilink")の[雷蔵](https://ja.wikipedia.org/wiki/雷蔵 "wikilink")へ参加。1994年に南潤子（後の[南流石](../Page/南流石.md "wikilink")）らとTANGOSを結成。2004年に元[ZELDAのサヨコらと](../Page/ZELDA_\(バンド\).md "wikilink")[サヨコオトナラ](https://ja.wikipedia.org/wiki/サヨコオトナラ "wikilink")を結成。
+
+<!-- end list -->
+
+  - **[篠田昌已](../Page/篠田昌已.md "wikilink")**（[1958年](../Page/1958年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink") - [1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")）
+
+<!-- end list -->
+
+  -
+    [サックス](../Page/サクソフォーン.md "wikilink")（1983年〜）　
+    加入前は[生活向上委員会](../Page/梅津和時.md "wikilink")、PUNGOなどに在籍。またJAGATARAと並行して[チンドン楽団](../Page/チンドン屋.md "wikilink")、[オルケスタ・デル・ビエント](https://ja.wikipedia.org/wiki/オルケスタ・デル・ビエント "wikilink")、コンポステラなどでも活動。
+
+<!-- end list -->
+
+  - **中村ていゆう**（中村貞祐）
+
+<!-- end list -->
+
+  -
+    [ドラムス](../Page/ドラムセット.md "wikilink")（1983年〜）　
+    加入前はMARIA023、AUTO-MOD、[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")、火の宮などに在籍。解散後は[KUSU KUSUのマネジメントなどを行った](../Page/KUSU_KUSU.md "wikilink")。
+
+<!-- end list -->
+
+  - **吉田哲治**（[1957年](../Page/1957年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - ）
+
+<!-- end list -->
+
+  -
+    [トランペット](../Page/トランペット.md "wikilink")（1981〜1989年）
+    加入前は生活向上委員会などに在籍。脱退後は自らのバンドFIVESなどで活動。
+
+<!-- end list -->
+
+  - **ヤヒロトモヒロ**（八尋知洋）（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）
+
+<!-- end list -->
+
+  -
+    [パーカッション](../Page/打楽器.md "wikilink")（1985年〜）　
+    解散後は自らのバンド、オズ・ アマレーロスなどで活動。
+
+<!-- end list -->
+
+  - **[村田陽一](../Page/村田陽一.md "wikilink")**（[1963年](../Page/1963年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") - ）
+
+<!-- end list -->
+
+  -
+    [トロンボーン](../Page/トロンボーン.md "wikilink")（1986年〜）　
+    JAGATARAと並行して[米米CLUB](../Page/米米CLUB.md "wikilink")の[BIG HORNS BEE](../Page/BIG_HORNS_BEE.md "wikilink")、[オルケスタ・デ・ラ・ルス](../Page/オルケスタ・デ・ラ・ルス.md "wikilink")にも在籍。解散後は自らのバンドSOLID BRASSなどで活動。
+
+<!-- end list -->
+
+  - **エマーソン北村**（北村賢治、[1962年](../Page/1962年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink") - ）
+
+<!-- end list -->
+
+  -
+    [キーボード](../Page/キーボード_\(楽器\).md "wikilink")（1988年〜）　
+    解散後は[MUTE BEAT](https://ja.wikipedia.org/wiki/MUTE_BEAT "wikilink")、[シアターブルック](https://ja.wikipedia.org/wiki/シアターブルック "wikilink")などで活動。
+
+<!-- end list -->
+
+  - **南潤子**（後の**[南流石](../Page/南流石.md "wikilink")**、[1958年](../Page/1958年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）
+
+<!-- end list -->
+
+  -
+    [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")&ダンス（1986年〜）　
+    コーラス兼ダンサー。解散後は主に振付師として活躍。1994年にOTOらとTANGOSを結成。2012年には[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")、[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")らと[Rabbitを結成](https://ja.wikipedia.org/wiki/Rabbit_\(バンド\) "wikilink")。
+
+<!-- end list -->
+
+  - **ユカリ**（塚越優香、[1月9日](../Page/1月9日.md "wikilink") - ）
+
+<!-- end list -->
+
+  -
+    コーラス&ダンス、サックス（1985年〜1989年）　
+    加入前は[タンゴ・ヨーロッパ](../Page/タンゴ・ヨーロッパ.md "wikilink")に在籍。当初は南と共にコーラス兼ダンサーとして加入するが、篠田の薫陶を受けサックスを習得。バンド後期に脱退し、解散後は「Yukarie」（読みはユカリ）名義でサックスプレーヤーとして[THE THRILL](https://ja.wikipedia.org/wiki/ザ・スリル "wikilink")、[Mean Machine](../Page/Mean_Machine.md "wikilink")、[河村隆一](../Page/河村隆一.md "wikilink")のバックメンバーなどで活動（Mean Machineではベース担当）。
 
 ### 一時的に在籍したメンバー
 
@@ -460,7 +542,7 @@ A面がJAGATARA、B面が吉川洋一郎、Hamza El Din<br />
   - [近田春夫](../Page/近田春夫.md "wikilink")（[ビブラストーン](../Page/ビブラストーン.md "wikilink")）
   - 高田エージ（[SUPER BAD](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")）
   - 不破大輔（[渋さ知らズ](../Page/渋さ知らズ.md "wikilink")）
-  - [大熊ワタル](https://ja.wikipedia.org/wiki/大熊ワタル "wikilink")（シカラムータ）
+  - 大熊ワタル（[シカラムータ](https://ja.wikipedia.org/wiki/シカラムータ "wikilink")）
   - [田口トモロヲ](../Page/田口トモロヲ.md "wikilink")（[ばちかぶり](../Page/ばちかぶり.md "wikilink")）
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")（[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")）
   - [もりばやしみほ](https://ja.wikipedia.org/wiki/もりばやしみほ "wikilink")（[ハイポジ](https://ja.wikipedia.org/wiki/ハイポジ "wikilink")）

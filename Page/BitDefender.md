@@ -178,7 +178,7 @@ Unix環境向けに、次の製品が発売されている。
 
 ## 個人向け製品（OEM版）
 
-[ソースネクスト](../Page/ソースネクスト.md "wikilink")販売の「スーパーセキュリティZERO」はBitDefenderの[OEM](../Page/OEM.md "wikilink")製品である。BitDefender Total Securityをベースにしている。使用するOSのサポート期限までの間、更新が保障される特徴がある。
+[ソースネクスト](../Page/ソースネクスト.md "wikilink")販売の「ZERO スーパーセキュリティ」はBitDefenderの[OEM](../Page/OEM.md "wikilink")製品である。BitDefender Total Securityをベースにしている。使用する端末毎に、更新が無期限で保証される特徴がある（言い換えれば、端末を買い換えると、必ず新たに購入する必要がある）\[1\]。
 
 ## 動作環境
 
@@ -191,7 +191,7 @@ Unix環境向けに、次の製品が発売されている。
 
 ## トラブル事例
 
-2010年3月21日 午前1時（[日本時間](../Page/日本標準時.md "wikilink")）に提供された自動アップデートにて64ビット版Windows環境においてOSのシステムファイルやBitDefender自身のファイルをTrojan.FakeAlert.5として誤検出し、場合によりOSが起動しなくなる問題が発生した。同日午前3時半にこの問題を解決したアップデートを提供した。\[1\]\[2\]
+2010年3月21日 午前1時（[日本時間](../Page/日本標準時.md "wikilink")）に提供された自動アップデートにて64ビット版Windows環境においてOSのシステムファイルやBitDefender自身のファイルをTrojan.FakeAlert.5として誤検出し、場合によりOSが起動しなくなる問題が発生した。同日午前3時半にこの問題を解決したアップデートを提供した。\[2\]\[3\]
 
 ## 外部リンク
 
@@ -212,5 +212,6 @@ Unix環境向けに、次の製品が発売されている。
 
 [Category:セキュリティソフト](https://ja.wikipedia.org/wiki/Category:セキュリティソフト "wikilink") [Category:2001年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2001年のソフトウェア "wikilink")
 
-1.  [BitDefender 製品 64bit版製品での誤検知問題について](http://www.bitdefender.jp/20100321.php)
-2.  [Faulty Update for 64 bit Operating Systems](http://news.bitdefender.com/NW1431-en--Trojan.FakeAlert.5-Update-issue.html)
+1.  [ZERO スーパーセキュリティ　特長](https://www.sourcenext.com/pt/s/1604/08_zeross_af/?argument=HGtSAqRz&dmai=a5b87a9ec612e5&utm_source=ls&utm_medium=aff&i=aff_ls) - ソースネクスト
+2.  [BitDefender 製品 64bit版製品での誤検知問題について](http://www.bitdefender.jp/20100321.php)
+3.  [Faulty Update for 64 bit Operating Systems](http://news.bitdefender.com/NW1431-en--Trojan.FakeAlert.5-Update-issue.html)

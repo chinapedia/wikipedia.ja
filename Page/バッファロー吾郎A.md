@@ -85,7 +85,7 @@
   - [TWO WEEKS](https://ja.wikipedia.org/wiki/TWO_WEEKS_\(テレビドラマ\) "wikilink")（2019年、フジテレビ） - 葛城茂 役
   - [ニッポンノワール](https://ja.wikipedia.org/wiki/ニッポンノワール "wikilink")（2019年、日本テレビ） - 佐久間現 役\[1\]
   - [浦安鉄筋家族](https://ja.wikipedia.org/wiki/浦安鉄筋家族#テレビドラマ "wikilink")（2020年、テレビ東京） - 西川のり子の父 役
-  - [KING OF DANCE](https://ja.wikipedia.org/wiki/KING_OF_DANCE "wikilink")（2020年4月11日 - 、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink") / 4月16日 - 、[中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink") / 5月7日 - 、[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")） - 石井　役\[2\]\[3\]
+  - [KING OF DANCE](../Page/KING_OF_DANCE.md "wikilink")（2020年4月11日 - 、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink") / 4月16日 - 、[中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink") / 5月7日 - 、[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")） - 石井　役\[2\]\[3\]
 
 ### 映画
 

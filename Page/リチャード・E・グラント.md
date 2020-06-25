@@ -376,6 +376,20 @@
 <td><p>計3話出演</p></td>
 </tr>
 <tr class="odd">
+<td><p>2020</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/別世界からのメッセージ" title="wikilink">別世界からのメッセージ</a><br />
+<em>Dispatches from Elsewhere</em></p></td>
+<td><p>オクタビオ・コールマン</p></td>
+<td><p>メイン</p></td>
+</tr>
+<tr class="even">
+<td><p>2021</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マーベル_ロキ" title="wikilink">マーベル ロキ</a><br />
+<em>Loki</em></p></td>
+<td></td>
+<td><p>ゲスト出演</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

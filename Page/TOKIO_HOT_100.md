@@ -17,9 +17,12 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 ### ランキングのシステム
 
-「**J-WAVE全番組でのオンエア**」「**都内主要CDショップ**（[TOWER RECORDS](../Page/タワーレコード.md "wikilink")、[HMV](../Page/HMV.md "wikilink")、[山野楽器](../Page/山野楽器.md "wikilink")）\[3\]**のシングル・アルバム両セールス**」「番組サイトの【VOTE\!\!】のクリック回数による**リスナーズ・ポイント**」（2013年4月7日 - ）をポイント計算し、100曲を選んでいる。
+  - 「**J-WAVE全番組でのオンエア**」
+  - 「**都内主要CDショップ**（[TOWER RECORDS](../Page/タワーレコード.md "wikilink")、[HMV](../Page/HMV.md "wikilink")、[山野楽器](../Page/山野楽器.md "wikilink")、[Amazon](https://ja.wikipedia.org/wiki/Amazon "wikilink")）\[3\]**のシングル・アルバム両セールス**」
+  - 「番組サイトの【VOTE\!\!】のクリック回数による**リスナーズ・ポイント**」（2013年4月7日 - ）
+  - 「**音楽ストリーミングサービス**（[Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")、[Amazon Music Unlimited他](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")）**による聴取データ**」（2018年10月分〜）\[4\]。
 
-2018年10月分からはこれに加え、「**音楽ストリーミングサービス**（[Apple Music](https://ja.wikipedia.org/wiki/Apple_Music "wikilink")、[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")、[Amazon Music Unlimited他](https://ja.wikipedia.org/wiki/Amazon_Music "wikilink")）**による聴取データ**」も対象となる\[4\]。
+をポイント計算し、100曲を選んでいる。
 
 ## 番組の歴史
 
@@ -574,6 +577,8 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
 
 サッポロビールが冠スポンサーの時代は、数多くのオリジナルCMや、ゲストと同社商品を呑みながらのトーク&プレゼントという構成となっていた。系列の[ヱビスビール](../Page/ヱビスビール.md "wikilink")など休日のビールを主題としたCM。ドラフトワンなどの「ドラドンピシャ」のコーナーなどが設けられていた。
 
+マクドナルドが冠スポンサーの頃は「LUCKY NUMBER HOT 100」と題した企画が放送されていた。1～100の中から毎週1つの数字が選ばれ、その選ばれた数字の順位になるとマクドナルドの「[i'm lovin' it](https://ja.wikipedia.org/wiki/i'm_lovin'_it "wikilink")」のジングルが流れ、特設サイトにその数字を入力するとマクドナルドで利用可能な割引クーポン（全員）やマックカード（抽選）が貰えた。
+
 Olympicグループになってからは「Olympic HOT 10 RANKING」と題して、オリジナルキャラクター・トコトンが売れ筋商品のトップ10を発表するCMを放送していた。
 
 ### 冠スポンサー
@@ -692,7 +697,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
 ## 関連項目
 
   - [COUNTDOWN RADIO](https://ja.wikipedia.org/wiki/COUNTDOWN_RADIO "wikilink") - クリスの弟である[ALAN Jが毎週土曜日午後](../Page/ALAN_J.md "wikilink")1時から洋楽チャートを[bayfm](https://ja.wikipedia.org/wiki/bayfm "wikilink")で放送している番組。
-  - [OTOAJITO](https://ja.wikipedia.org/wiki/OTOAJITO "wikilink") - クリスがナビゲートのトーク番組。サッポロビール提供。
+  - [OTOAJITO](../Page/OTOAJITO.md "wikilink") - クリスがナビゲートのトーク番組。サッポロビール提供。
 
 ## 外部リンク
 

@@ -11,7 +11,7 @@
 
 ## レギュラー出演者
 
-  - [中澤裕子](../Page/中澤裕子.md "wikilink")（当時・[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+  - [中澤裕子](../Page/中澤裕子.md "wikilink")（当時・[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
   - [原千晶](https://ja.wikipedia.org/wiki/原千晶 "wikilink")
   - [石塚英彦](../Page/石塚英彦.md "wikilink")
   - [原口あきまさ](../Page/原口あきまさ.md "wikilink")

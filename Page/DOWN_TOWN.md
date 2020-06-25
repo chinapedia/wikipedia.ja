@@ -484,7 +484,7 @@ WPCL-11205~7【通常盤】</p></td>
 
   - 福寿  [ホンダ・フィット](../Page/ホンダ・フィット.md "wikilink")CMソング（ -、『L.A.スタイル』篇）
   - Fleming Pie  ホンダ・フィットCMソング（ -、『L.A.スタイル・シャワー』篇）
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")  『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、）\[25\]
+  - [SMAP](../Page/SMAP.md "wikilink")  『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、）\[25\]
   - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")×[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")  『[MUSIC FAIR 21](../Page/ミュージックフェア.md "wikilink")』（フジテレビ、）
   - [シャンソンズ](https://ja.wikipedia.org/wiki/カエルの王女さま "wikilink") - 『[カエルの王女さま](https://ja.wikipedia.org/wiki/カエルの王女さま "wikilink")』（フジテレビ、）
 

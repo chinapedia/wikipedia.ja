@@ -44,7 +44,7 @@
 
 [1979年](../Page/1979年.md "wikilink")に昭和54年排出ガス規制適合に合わせてBA系からのフルモデルチェンジで登場。台湾では1990年代までECM/EDMシャーシのバスの生産が続けられていた。
 
-ファイル:Ikasatetudo K-ECM430 IK automatic.jpg |K-ECM430 井笠鉄道（AUTOMATIC車） ファイル:K-ECM430-Nara-Kotsu-721.jpg|K-ECM430 奈良交通 ファイル:Keikyu-bus-Y2373.jpg|K-EDM430N 京浜急行（ナロー車） ファイル:KaohsiungBus FX145 Front.jpg|台湾の高雄バス会社のECM500
+ファイル:Ikasatetudo K-ECM430 IK automatic.jpg |K-ECM430 井笠鉄道（AUTOMATIC車） ファイル:K-ECM430-Nara-Kotsu-721.jpg|K-ECM430 奈良交通 ファイル:Keikyu-bus-Y2373.jpg|K-EDM430N 京浜急行（ナロー車） ファイル:Oriental Land K-ECM430N.jpg|K-ECM430N オリエンタルランド交通（ナロー車） ファイル:KaohsiungBus FX145 Front.jpg|台湾の高雄バス会社のECM500
 
 ### キュービックLT
 

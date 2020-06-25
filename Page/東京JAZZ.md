@@ -14,6 +14,7 @@
   - 2020年
       - 4月14日（火）：新型コロナウイルス感染拡大防止のため中止が発表された。\[1\]
       - 4月24日（金）：『TOKYO JAZZ+plus LIVE STREAM』として、５月23日（土）24日（日）に、オンライン配信されることが発表された。\[2\]
+      - 5月23日（土）24日（日）に『TOKYO JAZZ+plus LIVE STREAM』として、オンライン配信された。\[3\]\[4\]
 
 ## 参加アーティスト
 
@@ -410,7 +411,7 @@
 
 ### 2020年
 
-『TOKYO JAZZ+plus LIVE STREAM』として\[3\]\[4\]\[5\]
+『TOKYO JAZZ+plus LIVE STREAM』として\[5\]\[6\]\[7\]\[8\]\[9\]
 
   - 上原ひろみ
   - H ZETTRIO
@@ -423,7 +424,7 @@
   - ロン・マイルス、スコット・コリー ＆ デイヴ・キング
   - チック・コリア
   - ティグラン・ハマシアン
-  - ディマシュ・クダイベルゲン
+  - [ディマシュ・クダイベルゲン](https://ja.wikipedia.org/wiki/ディマシュ・クダイベルゲン "wikilink")
   - デヴィッド・サンボーン
   - TRI4TH feat. チャイナ・モーゼス
   - 狭間美帆 m_unit
@@ -445,10 +446,10 @@
 
 ### 2020年
 
-  - 第１８回　東京ジャズ「Ｖｏｌ．１」（NHK BSプレミアム・2020年5月24日 (日) 午前1:00～午前2:29）\[6\]
+  - 第１８回　東京ジャズ「Ｖｏｌ．１」（NHK BSプレミアム・2020年5月24日 (日) 午前1:00～午前2:29）\[10\]
   - 第１８回　東京ジャズ「Ｖｏｌ．２」（NHK BSプレミアム・2020年5月24日 (日) 午前2:29～午前3:58）
   - 第１８回　東京ジャズ「Ｖｏｌ．３」（NHK BSプレミアム・2020年5月24日 (日) 午前3:58～午前5:27）
-  - プレイバック東京ＪＡＺＺ　２０１７～２０１９（NHK FM・2020年5月23日 (土) 午後0:15～午後6:50）\[7\]
+  - プレイバック東京ＪＡＺＺ　２０１７～２０１９（NHK FM・2020年5月23日 (土) 午後0:15～午後6:50）\[11\]
   - プレイバック東京ＪＡＺＺ　２０１７～２０１９（NHK FM・2020年5月23日 (土) 午後7:20～午後10:00）
 
 ## 参考文献
@@ -468,8 +469,12 @@
 
 1.  [TOKYO JAZZ ＋plus 開催中止のお知らせ](https://tokyo-jazz.com/news/192/)
 2.  [TOKYO JAZZ ＋plus LIVE STREAM 開催！](https://tokyo-jazz.com/news/195/)
-3.  [TOKYO JAZZ ＋plus 開催中止のお知らせ](https://tokyo-jazz.com/news/192/)
-4.  [TOKYO JAZZ ＋plus LIVE STREAM 開催！](https://tokyo-jazz.com/news/195/)
-5.  [TOKYO JAZZ ＋plus LIVE STREAM 第４弾出演アーティスト決定！](https://tokyo-jazz.com/news/234/)
-6.  [第１８回東京ジャズ　ＢＳプレミアムで再放送決定！](https://tokyo-jazz.com/news/223/)
-7.  [ＮＨＫＦＭで「プレイバック東京JAZZ　2017〜2019」放送決定\!](https://tokyo-jazz.com/news/224/)
+3.  [ＤＡＹ１　セットリスト公開！](https://tokyo-jazz.com/news/244/)
+4.  [ＤＡＹ２　セットリスト公開！](https://tokyo-jazz.com/news/247/)
+5.  [TOKYO JAZZ ＋plus 開催中止のお知らせ](https://tokyo-jazz.com/news/192/)
+6.  [TOKYO JAZZ ＋plus LIVE STREAM 開催！](https://tokyo-jazz.com/news/195/)
+7.  [TOKYO JAZZ ＋plus LIVE STREAM 第４弾出演アーティスト決定！](https://tokyo-jazz.com/news/234/)
+8.  [ＤＡＹ１　セットリスト公開！](https://tokyo-jazz.com/news/244/)
+9.  [ＤＡＹ２　セットリスト公開！](https://tokyo-jazz.com/news/247/)
+10. [第１８回東京ジャズ　ＢＳプレミアムで再放送決定！](https://tokyo-jazz.com/news/223/)
+11. [ＮＨＫＦＭで「プレイバック東京JAZZ　2017〜2019」放送決定\!](https://tokyo-jazz.com/news/224/)

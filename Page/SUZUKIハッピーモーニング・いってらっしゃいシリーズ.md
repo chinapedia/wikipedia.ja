@@ -151,7 +151,7 @@
 <tr class="odd">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>（KBC）</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/小林徹夫のアサデス。ラジオ" title="wikilink">小林徹夫のアサデス。ラジオ</a>』内</p></td>
+<td><p>『<a href="../Page/小林徹夫のアサデス。ラジオ.md" title="wikilink">小林徹夫のアサデス。ラジオ</a>』内</p></td>
 <td></td>
 </tr>
 <tr class="even">

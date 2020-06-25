@@ -173,6 +173,7 @@
   - 2011-12シーズン [ナオト・インティライミ](https://ja.wikipedia.org/wiki/ナオト・インティライミ "wikilink")「[Brave](https://ja.wikipedia.org/wiki/Brave_\(ナオト・インティライミの曲\) "wikilink")」
   - 2012-13シーズン [PES](../Page/PES.md "wikilink")([RIP SLYME](../Page/RIP_SLYME.md "wikilink"))「素敵なこと」
   - 2013-14シーズン VEGA「FIGHTER」(以降のシーズンもサポートソング設定からは離れたものの、選手入場や試合終了直後に流れるなどクラブを象徴する曲である)
+  - 2018-19シーズン～ [GAGLE](../Page/GAGLE.md "wikilink")「Grind\!」「ひとつになるとき」
 
 なお2017-18シーズンより [GAGLE](../Page/GAGLE.md "wikilink")が選手登場曲の制作、プロデュースを担当している。
 

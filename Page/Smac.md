@@ -1,7 +1,7 @@
 > この記事は[Smac](https://ja.wikipedia.org/wiki/Smac)から翻訳されています。
 
 
-「**Smac**」（スマック）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の楽曲。同グループ33枚目の[シングル](../Page/シングル.md "wikilink")として[2001年](../Page/2001年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+「**Smac**」（スマック）は、[SMAP](../Page/SMAP.md "wikilink")の楽曲。同グループ33枚目の[シングル](../Page/シングル.md "wikilink")として[2001年](../Page/2001年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 概要
 

@@ -46,16 +46,15 @@
 
 特記のない番組は[フジテレビ制作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
 
-  - [関ジャニ∞クロニクル](https://ja.wikipedia.org/wiki/関ジャニ∞クロニクル "wikilink")（水曜 24:30 - 25:00）
-  - [村上マヨネーズのツッコませて頂きます\!](https://ja.wikipedia.org/wiki/村上マヨネーズのツッコませて頂きます! "wikilink")（水曜 25:00 - 25:30、関西テレビ制作）
-  - [KinKi Kidsのブンブブーン](https://ja.wikipedia.org/wiki/KinKi_Kidsのブンブブーン "wikilink")（水曜 25:30 - 26:00）
+  - [村上マヨネーズのツッコませて頂きます\!](https://ja.wikipedia.org/wiki/村上マヨネーズのツッコませて頂きます! "wikilink")（月曜 25:25 - 25:55、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")）
+  - [KinKi Kidsのブンブブーン](https://ja.wikipedia.org/wiki/KinKi_Kidsのブンブブーン "wikilink")（水曜 25:25 - 26:10）
   - 粋男流儀〜遊びの美学〜（木曜 25:25 - 25:40、[BSフジ](../Page/BSフジ.md "wikilink")制作）
   - [富豪刑事 Balance:UNLIMITED](https://ja.wikipedia.org/wiki/富豪刑事#テレビアニメ "wikilink")（木曜 25:45 - 26:15、『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠）
-  - [志村でナイト](https://ja.wikipedia.org/wiki/志村でナイト "wikilink") （金曜 26:00 - 26:30）
+  - [ウラマヨ\!](https://ja.wikipedia.org/wiki/ウラマヨ! "wikilink")（金曜 25:00 - 26:00、関西テレビ制作）
+  - [志村友達](../Page/志村友達.md "wikilink") （金曜 26:00 - 26:30）
   - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink") （土曜 5:30 - 6:00）
-  - [おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")（土曜 11:15 - 11:45、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")）
+  - [おかべろ](https://ja.wikipedia.org/wiki/おかべろ "wikilink")（土曜 11:15 - 11:45、関西テレビ制作）
   - [正直さんぽ](https://ja.wikipedia.org/wiki/正直さんぽ "wikilink")（土曜 15:00 - 16:30）
-  - [ウラマヨ\!](https://ja.wikipedia.org/wiki/ウラマヨ! "wikilink")（土曜 25:45 - 26:50、関西テレビ制作）
   - [テレビ寺子屋](../Page/テレビ寺子屋.md "wikilink")（日曜 5:30 - 6:00、[テレビ静岡](../Page/テレビ静岡.md "wikilink")制作）
   - [もしもツアーズ](../Page/もしもツアーズ.md "wikilink")（日曜 8:25 - 9:00）
   - [物語の始まりへ](https://ja.wikipedia.org/wiki/物語の始まりへ "wikilink")（日曜 11:45 - 11:50、[石川テレビ制作](../Page/石川テレビ放送.md "wikilink")）
@@ -71,7 +70,6 @@
 ### テレビ東京系列
 
   - [昼めし旅 〜あなたのご飯見せてください\!〜](https://ja.wikipedia.org/wiki/昼めし旅_〜あなたのご飯見せてください!〜 "wikilink")（月曜 - 木曜 16:20 - 16:50）
-  - [チマタの噺](https://ja.wikipedia.org/wiki/チマタの噺 "wikilink")（月曜 25:25 - 25:55）
   - [出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")（火曜 24:30 - 25:25）
   - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（火曜 25:25 - 25:55）
   - [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")（木曜 24:30 - 25:25）
@@ -251,7 +249,8 @@
   - [ヒャッキン\!〜世界で100円グッズを使ってみると?〜](https://ja.wikipedia.org/wiki/ヒャッキン!〜世界で100円グッズを使ってみると?〜 "wikilink")（2019年3月31日に打ち切り）
   - [フューチャーカード バディファイトX オールスターファイト](https://ja.wikipedia.org/wiki/フューチャーカード_バディファイト "wikilink")→[フューチャーカード 神バディファイト](https://ja.wikipedia.org/wiki/フューチャーカード_神バディファイト "wikilink")（テレビ愛知制作、2019年4月23日に打ち切り）
   - [TVチャンピオン極 〜KIWAMI〜](https://ja.wikipedia.org/wiki/TVチャンピオン極_〜KIWAMI〜 "wikilink")
-  - [太一](../Page/国分太一.md "wikilink")×[ケンタロウ](../Page/ケンタロウ.md "wikilink") 男子ごはん→[男子ごはん](https://ja.wikipedia.org/wiki/男子ごはん "wikilink")
+  - [太一](../Page/国分太一.md "wikilink")×[ケンタロウ](../Page/ケンタロウ.md "wikilink") 男子ごはん→[男子ごはん](https://ja.wikipedia.org/wiki/男子ごはん "wikilink")（2020年3月26日に打ち切り）
+  - [チマタの噺](https://ja.wikipedia.org/wiki/チマタの噺 "wikilink")（2020年5月5日に打ち切り）
 
 他
 

@@ -1,7 +1,7 @@
 > この記事は[LOVEマシーン](https://ja.wikipedia.org/wiki/LOVEマシーン)から翻訳されています。
 
 
-「**LOVEマシーン**」（ラブマシーン）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")に発売された。「ラブマ」と略して呼ばれる場合もある。
+「**LOVEマシーン**」（ラブマシーン）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")に発売された。「ラブマ」と略して呼ばれる場合もある。
 
 ## 概要
 
@@ -42,7 +42,7 @@
   - [2002年](../Page/2002年.md "wikilink")[春](../Page/春.md "wikilink")の[市井紗耶香 in CUBIC-CROSSのツアーではこの曲がセットリストに入っていた](../Page/市井紗耶香_in_CUBIC-CROSS.md "wikilink")。
   - [2003年](../Page/2003年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")に死去した[福田一郎](../Page/福田一郎.md "wikilink")を送る会ではハロー\!プロジェクトに在籍する卒業生を含めたモーニング娘。全員でこの曲を歌った。
   - 2003年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")放送の[めちゃ×2イケてるッ\!の企画](../Page/めちゃ×2イケてるッ!の企画.md "wikilink")「[私立岡村女子高等学校。](../Page/私立岡村女子高等学校。.md "wikilink")」の「岡女体育祭」では競技終了後に[ハロー\!プロジェクト・キッズ](../Page/ハロー!プロジェクト・キッズ.md "wikilink")のメンバー全員が岡女中等部としてこの曲を披露した。
-  - 2003年[12月29日](../Page/12月29日.md "wikilink")放送の『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』では[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")とのコラボによるモーニング娘。メドレーの1曲として、歌詞の一部「あんたもあたしも」を「SMAP5人も」に変えて歌った。
+  - 2003年[12月29日](../Page/12月29日.md "wikilink")放送の『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』では[SMAP](../Page/SMAP.md "wikilink")とのコラボによるモーニング娘。メドレーの1曲として、歌詞の一部「あんたもあたしも」を「SMAP5人も」に変えて歌った。
   - 2005年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")のハロー\!プロジェクトのコンサートでは[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")を除くハロー\!プロジェクトに在籍するモーニング娘。の卒業メンバーによってこの曲が歌われた。
   - 2005年7月[31日の](../Page/7月31日.md "wikilink")[よみうりテレビ主催の](../Page/讀賣テレビ放送.md "wikilink")[天保山10デイズわくわく宝島](https://ja.wikipedia.org/wiki/天保山10デイズわくわく宝島 "wikilink")イベントでは「中澤裕子&[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")と“LOVEマシーンを一緒に歌おう”」なるイベントが実施され、中澤・後藤がオーディションによって一般から選ばれたメンバーと一緒にステージ上で歌った。
   - 『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』アンケート「[スキウタ](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」投票にて総合では第4位、紅組（女性）では第1位を獲得し、ハロー\!プロジェクトに在籍する卒業したメンバーを含めた19人のメンバーでこの曲を披露した。卒業メンバー9人が一番の歌詞を歌った後、現メンバー10人が二番の歌詞を歌い、最後に19人全員で歌う形をとった。この時のアーチスト名の表記は公式には「モーニング娘。」であったが、一部のマスコミでは「ドリームチーム」あるいは「スペシャルモーニング娘。」等と呼ばれていた。なお、この19人という人数は『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に出場したグループの人数としては当時の最大人数であった（ただし、正確には[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")名義で出場した[安倍なつみ](../Page/安倍なつみ.md "wikilink")・後藤真希・[石川梨華](../Page/石川梨華.md "wikilink")を除いた6人の卒業メンバーはサポート扱いであり、出場歌手ではない）。

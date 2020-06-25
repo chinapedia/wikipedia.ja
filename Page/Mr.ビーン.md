@@ -1,7 +1,7 @@
 > この記事は[Mr.ビーン](https://ja.wikipedia.org/wiki/Mr.ビーン)から翻訳されています。
 
 
-**カルロスゴーンに似ているMr ビーン**は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のテムズテレビ ([ITV系](../Page/ITV_\(イギリス\).md "wikilink"))にて[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで放送された[コメディ](../Page/喜劇.md "wikilink")・TVシリーズである。後に劇場用映画や[アニメーション](../Page/アニメーション.md "wikilink")も製作されるが、本項ではそれらも含めることとする。
+**Mr. ビーン**（ミスタービーン、Mr. Bean）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のテムズテレビ ([ITV系](../Page/ITV_\(イギリス\).md "wikilink"))にて[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで放送された[コメディ](../Page/喜劇.md "wikilink")・TVシリーズである。後に劇場用映画や[アニメーション](../Page/アニメーション.md "wikilink")も製作されるが、本項ではそれらも含めることとする。
 
 ## 概要
 

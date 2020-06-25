@@ -297,7 +297,7 @@
   - 月 - 金 … 『[ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』のAラインネットの時間帯（7:00 - 7:30、8:00 - 8:20）\[11\]
   - 月 - 木11:00 … 『[坂本美雨のディア・フレンズ](../Page/ディア・フレンズ.md "wikilink")』
   - 金11:00 … 『[松任谷由実のYuming Chord](https://ja.wikipedia.org/wiki/松任谷由実のYuming_Chord "wikilink")』
-  - 金22:00、23:00 … 『[SCHOOL OF LOCK\! FRIDAY](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』
+  - 金22:00、23:00 … 『[SCHOOL OF LOCK\! FRIDAY](../Page/SCHOOL_OF_LOCK!.md "wikilink")』
   - 土10:00 … 『[TOYOTA Athlete Beat](https://ja.wikipedia.org/wiki/TOYOTA_Athlete_Beat "wikilink")』
   - 土13:00 … 『[JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")』
   - 土14:00 … 『[福山雅治 福のラジオ](../Page/福山雅治_福のラジオ.md "wikilink")』

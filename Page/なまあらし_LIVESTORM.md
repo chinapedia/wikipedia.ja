@@ -56,6 +56,41 @@
   - 今どき言葉の基礎知識 （松本潤 担当）
   - 給食の時間 （大野智 担当）
 
+## スタッフ
+
+  - 構成：[堀江利幸](../Page/堀江利幸.md "wikilink")、[山名宏和](../Page/山名宏和.md "wikilink")、[鈴木しげき](https://ja.wikipedia.org/wiki/鈴木しげき "wikilink")、[鈴木雅貴](https://ja.wikipedia.org/wiki/鈴木雅貴 "wikilink")、[興津豪乃](https://ja.wikipedia.org/wiki/興津豪乃 "wikilink")、[山内正之](https://ja.wikipedia.org/wiki/山内正之 "wikilink")
+  - TD／SW：石田智男（フジテレビ）
+  - SW：[関克哉](../Page/関克哉.md "wikilink")（フジテレビ）
+  - CAM：武田篤・松本英士【週替り1名】（以上フジテレビ）
+  - VE：佐藤光雄（フジテレビ）
+  - AUD：鹿又健一
+  - 照明：さわだあつひろ（フジテレビ）
+  - 中継技術：障子川雅則
+  - 音響効果：今野直秀
+  - 編集：丸山雄介、宮部真也【週替り1名】
+  - MA：岩野博昭、小田崇【週替り1名】
+  - 技術協力：[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[共立](../Page/共立_\(照明\).md "wikilink")、[IMAGICA](../Page/IMAGICA_Lab..md "wikilink")、SAVAN、FLYING 2
+  - 美術制作：行武直高（フジテレビ）
+  - デザイン：金子隆
+  - 美術進行：楫野淳司
+  - 大道具：原卓也
+  - メイク：平岡将平
+  - 電飾：久光義紀
+  - アクリル装飾：岡村正樹
+  - 特殊装置：森山武
+  - TK：江野澤郁子、松下絵里
+  - 編成：[熊谷剛](https://ja.wikipedia.org/wiki/熊谷剛 "wikilink")・[松崎容子](../Page/松崎容子.md "wikilink")（以上フジテレビ）
+  - 広報：小出和人（フジテレビ）
+  - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
+  - 制作協力：[D:COMPLEX](../Page/ディ・コンプレックス.md "wikilink")
+  - デスク：
+  - AP：土田芳美（[VIC](../Page/ビジュアルコミュニケーションズ.md "wikilink")）
+  - 制作進行：中野行男（D:COMPLEX）
+  - ディレクター：北村要、[谷口大二](../Page/谷口大二.md "wikilink")（フジテレビ）、神崎啓太郎・[佐々木敦規](../Page/佐々木敦規.md "wikilink")・江島浩之・丸林徳昭（以上D:COMPLEX）
+  - プロデューサー：深瀬雄介（フジテレビ）、本永巳樹（D:COMPLEX）
+  - 制作：フジテレビ制作センター
+  - 制作著作：フジテレビ
+
 ## 備考
 
 この番組はフジテレビ系列の一部ネット局でも同時刻ネットされていたが、[北海道文化放送](../Page/北海道文化放送.md "wikilink")では開始からわずか半年後に途中打ち切りとなり、自社制作の情報番組枠（第1作は「[えき☆スタLIVE@noon](../Page/YASUのえき☆スタ@noon.md "wikilink")」）に差し替えられた。

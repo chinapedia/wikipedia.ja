@@ -254,7 +254,7 @@
 
 ## 外部リンク
 
-  - [番組情報ページ](http://www.fujitv.co.jp/b_hp/beautyc/index.html)
+  - [番組情報ページ](https://www.fujitv.co.jp/b_hp/beautyc/index.html)
 
 [Category:カスペ\!](https://ja.wikipedia.org/wiki/Category:カスペ! "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:美容を題材とした番組](https://ja.wikipedia.org/wiki/Category:美容を題材とした番組 "wikilink") [Category:和田アキ子](https://ja.wikipedia.org/wiki/Category:和田アキ子 "wikilink") [Category:島田紳助](https://ja.wikipedia.org/wiki/Category:島田紳助 "wikilink")
 

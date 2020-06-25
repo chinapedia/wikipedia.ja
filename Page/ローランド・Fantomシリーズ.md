@@ -41,7 +41,7 @@ Fantom-Sのマイナーチェンジモデル。[2004年](../Page/2004年.md "wik
 
 Fantom-X6は、[JYONGRI](https://ja.wikipedia.org/wiki/JYONGRI "wikilink")のファーストシングル『[Possession](https://ja.wikipedia.org/wiki/Possession/My_All_For_You "wikilink")』で、彼女がキーボードを前方に傾斜させてセッティングできるオーダーメイドのスタンドにセットして使用したことで有名。Fantom-X8は主立って、テレビでは『[堂本兄弟](../Page/堂本兄弟.md "wikilink")』で[えなりかずき](../Page/えなりかずき.md "wikilink")が使用していた。
 
-再結成した[プリンセス プリンセスのおいて](../Page/プリンセス_プリンセス.md "wikilink")、[今野登茂子](../Page/今野登茂子.md "wikilink")はFantom-X7をフロントシンセに使用した。
+再結成した[プリンセス プリンセスにおいて](../Page/プリンセス_プリンセス.md "wikilink")、[今野登茂子](../Page/今野登茂子.md "wikilink")はFantom-X7をフロントシンセに使用した。
 
 2016年現在では、[姫神](../Page/姫神.md "wikilink")・星吉紀がライブパフォーマンスでFantom-X6を使用。複数台セットすることもある。
 

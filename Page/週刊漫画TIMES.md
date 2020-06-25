@@ -211,7 +211,7 @@
   - **[風流つまみ道場](https://ja.wikipedia.org/wiki/風流つまみ道場 "wikilink")**（[ラズウェル細木](../Page/ラズウェル細木.md "wikilink")・コミックFUZでは水曜枠）
   - 復讐の兇獣（原作：[セルジオ関](https://ja.wikipedia.org/wiki/鷹匠政彦 "wikilink")、作画：[筒美廣平](../Page/谷村ひとし.md "wikilink")）
   - 富士の麓のベルベル人〜モロッコから来た花ムコ〜（[赤みつ](https://ja.wikipedia.org/wiki/赤みつ "wikilink")）
-  - ぶらコン（[ながしま超助](https://ja.wikipedia.org/wiki/ながしま超助 "wikilink")、全2巻）
+  - ぶらコン（[ながしま超助](../Page/ながしま超助.md "wikilink")、全2巻）
   - 弁護士TASUKE（原作：[針村鳳堂](https://ja.wikipedia.org/wiki/針村鳳堂 "wikilink")、作画：[はやせ淳](../Page/はやせ淳.md "wikilink")）
   - [星の案内人](https://ja.wikipedia.org/wiki/星の案内人 "wikilink")（[上村五十鈴](https://ja.wikipedia.org/wiki/上村五十鈴 "wikilink")、全4巻\[98\]）
   - ぼくのプリンシパル（[中村さぼてん](https://ja.wikipedia.org/wiki/中村さぼてん "wikilink")）

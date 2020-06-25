@@ -619,7 +619,7 @@ LATAM チリは南米[チリ](../Page/チリ.md "wikilink")最大の航空会社
 <td><p><a href="../Page/オークランド_(ニュージーランド).md" title="wikilink">オークランド</a></p></td>
 <td><p>AKL</p></td>
 <td><p>NZAA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オークランド国際空港" title="wikilink">オークランド国際空港</a></p></td>
+<td><p><a href="../Page/オークランド国際空港_(ニュージーランド).md" title="wikilink">オークランド国際空港</a></p></td>
 <td><p>A340</p></td>
 </tr>
 </tbody>

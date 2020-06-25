@@ -21,7 +21,7 @@
 
 ## 開催方式
 
-各都道府県代表1チーム（前年度優勝都道府県のみ2チーム）の48チームが決勝大会に出場。
+各都道府県代表1チーム（前年度優勝都道府県のみ2チーム）の48チームが全国大会に出場。
 
   - 2010年大会は[口蹄疫](../Page/口蹄疫.md "wikilink")の影響により宮崎県大会が中止、47チームにて開催。
 
@@ -494,7 +494,7 @@ FC邑楽（群馬県）</p></td>
 <td><p>2-0</p></td>
 <td><p>鹿島アントラーズ<br />
 ジュニア（茨城県）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/兵庫FC" title="wikilink">兵庫FC</a>（兵庫県）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/兵庫フットボールクラブ" title="wikilink">兵庫フットボールクラブ</a>（兵庫県）<br />
 符津SS（石川県）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -542,9 +542,9 @@ FC邑楽（群馬県）</p></td>
 （神奈川県2）</p></td>
 <td><p>3-1<small><br />
 </p></td>
-<td><p>柏レイソルU-12<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a>U-12<br />
 （千葉県）</p></td>
-<td><p>センアーノ神戸（兵庫県）<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/センアーノ神戸" title="wikilink">センアーノ神戸</a>（兵庫県）<br />
 <a href="../Page/ベガルタ仙台.md" title="wikilink">ベガルタ仙台</a>U-12（宮城県）</p></td>
 <td><p>-</p></td>
 </tr>

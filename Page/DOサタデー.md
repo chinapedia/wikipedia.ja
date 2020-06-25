@@ -74,8 +74,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
-<td><p>1983年10月から[2]</p></td>
+<td><p>新潟総合テレビ</p></td>
+<td><p>現・<a href="../Page/NST新潟総合テレビ.md" title="wikilink">NST新潟総合テレビ</a><br />
+1983年10月から[2]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -93,19 +94,19 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/富山テレビ放送.md" title="wikilink">富山テレビ</a></p></td>
-<td></td>
+<td><p>[3]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="../Page/石川テレビ放送.md" title="wikilink">石川テレビ</a></p></td>
-<td></td>
+<td><p>[4]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a></p></td>
-<td></td>
+<td><p>[5]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -141,9 +142,9 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/愛媛県.md" title="wikilink">愛媛県</a></p></td>
-<td><p><a href="../Page/テレビ愛媛.md" title="wikilink">愛媛放送</a></p></td>
+<td><p>愛媛放送</p></td>
 <td><p>フジテレビ系列</p></td>
-<td><p>現：テレビ愛媛</p></td>
+<td><p>現：<a href="../Page/テレビ愛媛.md" title="wikilink">テレビ愛媛</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
@@ -209,3 +210,6 @@
 
 1.  それまでは[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）の『[八木治郎ショー・いい朝8時](../Page/八木治郎ショー・いい朝8時.md "wikilink")』をネットしていた。
 2.  それまでは[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABC）の『[おはようワイド・土曜の朝に](../Page/おはようワイド・土曜の朝に.md "wikilink")』をネットしていたが、同時期に開局した[新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")に同番組のネット権を移譲して放送を開始。
+3.  『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1984年2月18日付朝刊、テレビ欄。
+4.
+5.

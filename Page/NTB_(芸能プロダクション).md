@@ -28,6 +28,7 @@
 ### アナウンサー
 
   - [神取恭子](../Page/神取恭子.md "wikilink")（名古屋テレビ契約）
+  - [住谷明日香](https://ja.wikipedia.org/wiki/住谷明日香 "wikilink")（[NHK広島契約](../Page/NHK広島放送局.md "wikilink") → [NHK神戸契約](../Page/NHK神戸放送局.md "wikilink") → [NHK岐阜契約](../Page/NHK岐阜放送局.md "wikilink") → フリー）
   - [千ヶ崎公子](../Page/千ヶ崎公子.md "wikilink")（名古屋テレビ契約 → フリー）
   - [樋田かおり](https://ja.wikipedia.org/wiki/樋田かおり "wikilink")（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") → 中京テレビ契約 → フリー）
   - [早川真代](../Page/早川真代.md "wikilink")（富山テレビ契約 → フリー）

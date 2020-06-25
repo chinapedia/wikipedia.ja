@@ -7,11 +7,11 @@
 
 ## 番組概要
 
-MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")と様々なアーティスト達とのトークや、モーニング娘。のコントが行われる音楽バラエティー番組だった。
+MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニング娘。](../Page/モーニング娘。.md "wikilink")と様々なアーティスト達とのトークや、モーニング娘。のコントが行われる音楽バラエティー番組だった。
 
 [BSデジタルテレビジョン放送がスタートした](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ではBSデジタル放送局として[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")を開局した。その2日後の[3日に音楽バラエティー番組としてこの番組が放送を開始した](../Page/12月3日.md "wikilink")。テレビ東京系列やBSジャパンだけでなく、多くのテレビ東京系列以外のテレビ局が番販扱いで購入して放送していた。
 
-日曜放送時代は『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』の次番組として放送し、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")系列以外の同番組出身アーティストが多く出演していた。もちろん同番組も日曜放送終了まで放送していたが、ここでは不定期で[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の企画が放送されていた。しかし、[2001年](../Page/2001年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")にはこの番組と『ASAYAN』の2番組を休止し、「モーニング娘。LOVEオーディション21」という特別番組が放送され、同番組からモーニング娘。の5期メンバー（[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")・[紺野あさ美](../Page/紺野あさ美.md "wikilink")・[小川麻琴](../Page/小川麻琴.md "wikilink")・[新垣里沙](../Page/新垣里沙.md "wikilink")）が誕生した。この番組でも途中経過が放送されていた。
+日曜放送時代は『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』の次番組として放送し、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")系列以外の同番組出身アーティストが多く出演していた。もちろん同番組も日曜放送終了まで放送していたが、ここでは不定期で[モーニング娘。](../Page/モーニング娘。.md "wikilink")の企画が放送されていた。しかし、[2001年](../Page/2001年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")にはこの番組と『ASAYAN』の2番組を休止し、「モーニング娘。LOVEオーディション21」という特別番組が放送され、同番組からモーニング娘。の5期メンバー（[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")・[紺野あさ美](../Page/紺野あさ美.md "wikilink")・[小川麻琴](../Page/小川麻琴.md "wikilink")・[新垣里沙](../Page/新垣里沙.md "wikilink")）が誕生した。この番組でも途中経過が放送されていた。
 
 『ASAYAN』が終了するとこの番組は火曜日夜10時枠に移動。ここでは「モーニング娘。LOVEオーディション2002」の途中経過（ただし最終決定は2003年[1月19日](../Page/1月19日.md "wikilink")の「[日曜ビッグバラエティ](https://ja.wikipedia.org/wiki/日曜ビッグバラエティ "wikilink")」で放送）や[市井紗耶香 in CUBIC CROSSの密着コーナーが放送された](https://ja.wikipedia.org/wiki/市井紗耶香_in_CUBIC_CROSS "wikilink")。なお、「モーニング娘。LOVEオーディション2002」からモーニング娘。の6期メンバー（[亀井絵里](../Page/亀井絵里.md "wikilink")・[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")・[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")。発表直前に[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")も加入）が誕生しているが、こちらはこの番組が終了した後にデビューした。
 
@@ -22,7 +22,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
 ## MC
 
   - [キャイ〜ン](../Page/キャイ〜ン.md "wikilink")（ウド鈴木・天野ひろゆき）
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")（[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")・安倍なつみ・[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")・後藤真希・石川梨華・[辻希美](../Page/辻希美.md "wikilink")・[加護亜依](../Page/加護亜依.md "wikilink")など）
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")（[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")・安倍なつみ・[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")・後藤真希・石川梨華・[辻希美](../Page/辻希美.md "wikilink")・[加護亜依](../Page/加護亜依.md "wikilink")など）
 
 ## 放送日時
 

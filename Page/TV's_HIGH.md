@@ -1,9 +1,9 @@
 > この記事は[TV\'s HIGH](https://ja.wikipedia.org/wiki/TV\'s_HIGH)から翻訳されています。
 
 
-『**TV's HIGH**』（**ティーヴィーズ・ハイ**）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2000年](../Page/2000年.md "wikilink")10月から[2001年](../Page/2001年.md "wikilink")3月まで毎週[金曜日](../Page/金曜日.md "wikilink")に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")であり、テレビドラマ仕立ての[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。主演は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")。
+『**TV's HIGH**』（**ティーヴィーズ・ハイ**）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2000年](../Page/2000年.md "wikilink")10月から[2001年](../Page/2001年.md "wikilink")3月まで毎週[金曜日](../Page/金曜日.md "wikilink")に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")であり、テレビドラマ仕立ての[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。主演は[SMAP](../Page/SMAP.md "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")。
 
-当番組終了後の[2001年](../Page/2001年.md "wikilink")4月から[2009年](../Page/2009年.md "wikilink")3月までの同時間帯は「[チョナン・カン](../Page/チョナン・カン.md "wikilink")」（チョナン・カン2も含む）が放送され、長く[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")メンバーがメインMCの番組が放送された事になる。
+当番組終了後の[2001年](../Page/2001年.md "wikilink")4月から[2009年](../Page/2009年.md "wikilink")3月までの同時間帯は「[チョナン・カン](../Page/チョナン・カン.md "wikilink")」（チョナン・カン2も含む）が放送され、長く[SMAP](../Page/SMAP.md "wikilink")メンバーがメインMCの番組が放送された事になる。
 
 ## あらすじ
 

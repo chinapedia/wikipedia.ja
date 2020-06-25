@@ -4531,6 +4531,18 @@ ClariS（録音）</p></td>
 <td><p>918</p></td>
 </tr>
 <tr class="odd">
+<td><p>5月23日</p></td>
+<td><p>915</p></td>
+<td><p>富田美憂</p></td>
+<td><p>919</p></td>
+</tr>
+<tr class="even">
+<td><p>5月30日</p></td>
+<td><p>916</p></td>
+<td><p>森久保祥太郎</p></td>
+<td><p>920</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

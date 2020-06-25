@@ -364,7 +364,7 @@
 
 <!-- end list -->
 
-  - **[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**
+  - **[SMAP](../Page/SMAP.md "wikilink")**
       - 「[負けるなBaby\! 〜Never give up](../Page/負けるなBaby!_〜Never_give_up.md "wikilink")」（編曲）
       - 「[君色思い](../Page/君色思い.md "wikilink")」（編曲）
       - 「[忘れないでよ](../Page/君色思い.md "wikilink")」（編曲）

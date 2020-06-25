@@ -7,7 +7,7 @@
 
 ## 概要
 
-[藤子不二雄<span class="Unicode">Ⓐ</span>の](../Page/藤子不二雄A.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[忍者ハットリくん](../Page/忍者ハットリくん.md "wikilink")』を最先端の[VFX](../Page/VFX.md "wikilink")を駆使して[実写映画](https://ja.wikipedia.org/wiki/実写映画 "wikilink")化した。主演は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")。
+[藤子不二雄<span class="Unicode">Ⓐ</span>の](../Page/藤子不二雄A.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[忍者ハットリくん](../Page/忍者ハットリくん.md "wikilink")』を最先端の[VFX](../Page/VFX.md "wikilink")を駆使して[実写映画](https://ja.wikipedia.org/wiki/実写映画 "wikilink")化した。主演は[SMAP](../Page/SMAP.md "wikilink")の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")。
 
 2004年9月14日（日曜日）に来場者100万人を記録。興行収入は10億円（トータル約19億円）を超え、2004年邦画ランキングのトップ10に入るヒット作となった。
 

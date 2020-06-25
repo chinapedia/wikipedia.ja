@@ -9,7 +9,7 @@
 
 ## 概要
 
-現代の日本を舞台に、天下一の[サムライを目指す少年](../Page/武士.md "wikilink")・**刃**と剣の魔力で[鬼](https://ja.wikipedia.org/wiki/鬼 "wikilink")になった**鬼丸**との戦いを描いたコメディタッチの[格闘漫画](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")。[宮本武蔵](../Page/宮本武蔵.md "wikilink")や[佐々木小次郎](../Page/佐々木小次郎.md "wikilink")や[柳生十兵衛といった実在した剣豪をモデルとした](../Page/柳生三厳.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")や、[カエル](../Page/カエル.md "wikilink")男や[ナマコ](../Page/ナマコ.md "wikilink")男など動物を擬人化したキャラクターが数多く登場するのが特徴。
+現代の日本を舞台に、天下一の[サムライを目指す少年](../Page/武士.md "wikilink")・**刃**と剣の魔力で[鬼](https://ja.wikipedia.org/wiki/鬼 "wikilink")になった**鬼丸**との戦いを描いたコメディタッチの[格闘漫画](../Page/格闘漫画.md "wikilink")。[宮本武蔵](../Page/宮本武蔵.md "wikilink")や[佐々木小次郎](../Page/佐々木小次郎.md "wikilink")や[柳生十兵衛といった実在した剣豪をモデルとした](../Page/柳生三厳.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")や、[カエル](../Page/カエル.md "wikilink")男や[ナマコ](../Page/ナマコ.md "wikilink")男など動物を擬人化したキャラクターが数多く登場するのが特徴。
 
 青山剛昌は本作のインスピレーション元になった作品として[1981年](../Page/1981年.md "wikilink")の映画『[魔界転生](../Page/魔界転生.md "wikilink")』を挙げている\[1\]。
 

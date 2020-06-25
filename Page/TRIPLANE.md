@@ -331,7 +331,7 @@ NFCD-27262:通常盤</p></td>
 <li>軌跡</li>
 <li>眠れない夜は</li>
 <li>ロマンチック★ボーイ</li>
-<li>光</li>
+<li>光 bonustrack</li>
 <li>初めてのクリスマス</li>
 <li>遠く遠く</li>
 </ol>
@@ -412,6 +412,36 @@ NFCD-27366:通常盤</p></td>
 <li>星空のメリーゴーランド</li>
 <li>スポットライト</li>
 </ol></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>８th</p></td>
+<td><p>2019年1月30日</p></td>
+<td><p><strong>THETA-never ending fantasy-</strong></p></td>
+<td><p>QAIR-10143<br />
+</p></td>
+<td><ol>
+<li>アンセム</li>
+<li>夜空の風になって</li>
+<li>冬の街</li>
+<li>モスキート</li>
+<li>シナリオ</li>
+<li>祈り</li>
+<li>The garden〜五稜星の夏〜</li>
+<li>ミルク</li>
+<li>新世界</li>
+<li>君もいますか</li>
+</ol></td>
+<td><p>オリコン最高100位</p>
+<p>（2019年02月11日付）</p>
+<p>登場回数1週</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -1,7 +1,7 @@
 > この記事は[ワイドABCDE〜す](https://ja.wikipedia.org/wiki/ワイドABCDE〜す)から翻訳されています。
 
 
-『**ワイドABCDE〜す**』（わいどエービーシーでーす）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")（[夏季高校野球期間中は休止](https://ja.wikipedia.org/wiki/夏の甲子園 "wikilink")、但し1999年10月1日までは18時台のニュースのみ放送）に放送された[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）\[1\]の[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。
+『**ワイドABCDE〜す**』（わいどエービーシーでーす）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")（[夏季高校野球期間中は休止](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")、但し1999年10月1日までは18時台のニュースのみ放送）に放送された[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）\[1\] の[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。
 
 ## 番組概要
 
@@ -20,7 +20,7 @@
   - 番組の構成は、16時台と17時台にそれぞれ特集を組んで暮らしに役立つ知恵・買い物・タウン情報を紹介。毎時間のニュース（ABCアナウンサーの[堀江政生](../Page/堀江政生.md "wikilink")など）・17時台の[天気](../Page/天気予報.md "wikilink")、これに前後する形で[神田川俊郎](../Page/神田川俊郎.md "wikilink")や[程一彦](../Page/程一彦.md "wikilink")らの料理コーナー、中継（初代リポーターは三代澤康司）、[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")前からイベント・トレンド情報「駅前情報局」（亀山房代など）を放送。
   - また、随時[FAXで寄せられたメッセージ紹介](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")（[山下真妃](https://ja.wikipedia.org/wiki/山下真妃 "wikilink")など）、ハガキ応募・電話参加の視聴者ゲーム「めざせ10万円 キャッシュかティッシュ」などが放送された。[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")『[どさんこワイド](../Page/どさんこワイド.md "wikilink")』に代表される、夕方ワイド番組のパイオニア的存在となる。
   - このスタイルの番組としては、[関西地方で一番手であった](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")。エンディングでは1ヶ月または2ヶ月ごとにテーマ曲を変更し、[Kiroro](../Page/Kiroro.md "wikilink")の「長い間」や[19の](../Page/19_\(音楽グループ\).md "wikilink")「[あの紙ヒコーキ くもり空わって](../Page/あの紙ヒコーキ_くもり空わって.md "wikilink")」などを[ブレイク](https://ja.wikipedia.org/wiki/ブレイク "wikilink")前に採用していた。
-  - また当初は『[ステーションEYE ANN](../Page/ステーションEYE.md "wikilink")』→『[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』といった[テレビ朝日](../Page/テレビ朝日.md "wikilink")発全国ニュースと関西ローカルニュースを番組内に内包していた。
+  - また当初は『[ステーションEYE ANN](../Page/ステーションEYE.md "wikilink")』→『[ANNスーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』といった[テレビ朝日](../Page/テレビ朝日.md "wikilink")発全国ニュースと関西ローカルニュースを番組内に内包していた。
   - ローカルニュースについては[1999年](../Page/1999年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")以降『[ワイド630](../Page/ワイド630.md "wikilink")』というタイトルがつけられたが、1年後の[2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")からニュース枠は切り離し、ローカルニュース枠を『[ABC NEWSゆう](../Page/ABC_NEWSゆう.md "wikilink")』として独立させたが、スタジオは共通のものを使用していた。
   - エキスタ時代は三代澤と浜村らが駅前からエンディングを放送し、三代澤はニュースコーナーに出演しなかったが、エキスタ廃止後は三代澤もローカルニュースを担当している。
   - さらに、2000年[12月23日](../Page/12月23日.md "wikilink")までは、土曜日の朝の時間帯に1週間分のダイジェスト版として[タージン](../Page/タージン.md "wikilink")司会の『**[週刊\!\!ワイドABCDE〜す](https://ja.wikipedia.org/wiki/週刊!!ワイドABCDE〜す "wikilink")**』も放送されていた。
@@ -60,7 +60,7 @@
   - [朝日放送夕方ニュース枠](../Page/朝日放送夕方ニュース枠.md "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - ABC News Report
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ABCニュース](../Page/ABCニュース_\(朝日放送テレビ\).md "wikilink")
   - [ABCフラッシュニュース](../Page/ABCフラッシュニュース.md "wikilink")
   - ワイド630

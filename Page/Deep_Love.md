@@ -212,7 +212,7 @@ DVD『Deep Love アユの物語』2004年6月18日発売。ネオプレックス
 #### スタッフ
 
   - 原作・監修：Yoshi
-  - 脚本：[南部英夫](https://ja.wikipedia.org/wiki/南部英夫 "wikilink")、[山室有紀子](https://ja.wikipedia.org/wiki/山室有紀子 "wikilink")
+  - 脚本：[南部英夫](https://ja.wikipedia.org/wiki/南部英夫 "wikilink")、[山室有紀子](../Page/山室有紀子.md "wikilink")
   - 監督 ：[南部英夫](https://ja.wikipedia.org/wiki/南部英夫 "wikilink")
   - 制作協力：[不破敏之](https://ja.wikipedia.org/wiki/不破敏之 "wikilink")、[小坂一雄](https://ja.wikipedia.org/wiki/小坂一雄 "wikilink")
   - 製作協力：PROTX

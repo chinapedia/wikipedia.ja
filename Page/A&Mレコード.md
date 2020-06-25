@@ -1,13 +1,15 @@
 > この記事は[A\&Mレコード](https://ja.wikipedia.org/wiki/A\&Mレコード)から翻訳されています。
 
 
-**A\&Mレコード**（エー アンド エム レコード）は、米[ユニバーサル ミュージック グループ傘下の](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")。
+**A\&Mレコード**（エー アンド エム レコード、A\&M Records）は、米[ユニバーサル ミュージック グループ傘下の](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")[レコードレーベル](../Page/レコードレーベル.md "wikilink")。
 
-元々は[1962年](../Page/1962年.md "wikilink")に[ジェリー・モス](https://ja.wikipedia.org/wiki/ジェリー・モス "wikilink")と[ハーブ・アルパート](../Page/ハーブ・アルパート.md "wikilink")が設立した。会社は1989年にイギリスの[ポリドール社に子会社として買収されたのちも数々のヒット曲を量産した](../Page/ポリドール・レコード.md "wikilink")。1998年に当時[ユニバーサルスタジオ](https://ja.wikipedia.org/wiki/ユニバーサルスタジオ "wikilink")を傘下に持っていたカナダの酒造メーカー[シーグラム](../Page/シーグラム.md "wikilink")（現：[(仏)](https://ja.wikipedia.org/wiki/フランス "wikilink")[ペルノ・リカール](https://ja.wikipedia.org/wiki/ペルノ・リカール "wikilink")）がエンターテイメント産業強化の一環で親会社ポリドールを買収しA\&Mも傘下となった。しかし、1年後の1999年にシーグラムが破綻しフランスの[ヴィヴェンディ](../Page/ヴィヴェンディ.md "wikilink")が資産を継承し、ユニバーサルを[ブランド](../Page/ブランド.md "wikilink")として全面に出した[ユニバーサル ミュージック グループに組み入れられ](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")、A\&Mはレコードレーベル（レコードブランド）として使用されている。「A」はアルパート、「M」はモスの頭文字である。
+元々は[1962年](../Page/1962年.md "wikilink")に[ハーブ・アルパート](../Page/ハーブ・アルパート.md "wikilink")と[ジェリー・モス](https://ja.wikipedia.org/wiki/ジェリー・モス "wikilink")が設立した。会社は1989年にイギリスの[ポリドール社に子会社として買収されたのちも数々のヒット曲を量産した](../Page/ポリドール・レコード.md "wikilink")。1998年に当時[ユニバーサルスタジオ](https://ja.wikipedia.org/wiki/ユニバーサルスタジオ "wikilink")を傘下に持っていたカナダの酒造メーカーである[シーグラム](../Page/シーグラム.md "wikilink")（現：[(仏)](https://ja.wikipedia.org/wiki/フランス "wikilink")[ペルノ・リカール](https://ja.wikipedia.org/wiki/ペルノ・リカール "wikilink")）がエンターテイメント産業強化の一環として親会社ポリドールを買収し、A\&Mも傘下となった。しかし、1年後の1999年にシーグラムが破綻しフランスの[ヴィヴェンディ](../Page/ヴィヴェンディ.md "wikilink")が資産を継承し、ユニバーサルを[ブランド](../Page/ブランド.md "wikilink")として全面に出した[ユニバーサル ミュージック グループに組み入れられ](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")、現在、A\&Mはレコードレーベル（レコードブランド）としてのみ使用されている。
+
+「A\&M」の「A」はアルパート、「M」はモスの頭文字（**A**lpert **& M**oss）である。
 
 ## 歴史
 
-[@_A\&M_Studios_Main_Gate,_11_Feb_1988.jpg](https://ja.wikipedia.org/wiki/File:@_A&M_Studios_Main_Gate,_11_Feb_1988.jpg "fig:@_A&M_Studios_Main_Gate,_11_Feb_1988.jpg") 当初は[ハーブ・アルパート](../Page/ハーブ・アルパート.md "wikilink")自身の[レコード](../Page/レコード.md "wikilink")を発売する為に設立され、メキシコのマリアッチとアメリカン・ポップスを融合させた“アメリアッチ”で人気を集めた。1960年代後半になると、[ソフト・ロック](https://ja.wikipedia.org/wiki/ソフト・ロック "wikilink")や[スワンプ・ロック](https://ja.wikipedia.org/wiki/スワンプ・ロック "wikilink")にも手を広げると共に、イギリスの新興レーベルであるアイランド・レコードの米国配給権を得るなど、ブリティッシュ・ロックの新しい流れにも積極的に取り組んだ。1970年代には[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")のヒットによって[レコード会社](../Page/レコード会社.md "wikilink")としての地位を固めると共に、[ピーター・フランプトン](../Page/ピーター・フランプトン.md "wikilink")や[ポリスなども扱う総合レーベルへと躍進した](../Page/ポリス_\(バンド\).md "wikilink")。
+[@_A\&M_Studios_Main_Gate,_11_Feb_1988.jpg](https://ja.wikipedia.org/wiki/File:@_A&M_Studios_Main_Gate,_11_Feb_1988.jpg "fig:@_A&M_Studios_Main_Gate,_11_Feb_1988.jpg") 当初は[ハーブ・アルパート](../Page/ハーブ・アルパート.md "wikilink")自身の[レコード](../Page/レコード.md "wikilink")を発売するために設立され、メキシコの[マリアッチ](../Page/マリアッチ.md "wikilink")とアメリカン・ポップスを融合させた“アメリアッチ”で人気を集めた。1960年代後半になると、[ソフト・ロック](https://ja.wikipedia.org/wiki/ソフト・ロック "wikilink")や[スワンプ・ロック](https://ja.wikipedia.org/wiki/スワンプ・ロック "wikilink")にも手を広げると共に、イギリスの新興レーベルである[アイランド・レコード](../Page/アイランド・レコード.md "wikilink")の米国配給権を得るなど、ブリティッシュ・ロックの新しい流れにも積極的に取り組んだ。1970年代には[カーペンターズ](https://ja.wikipedia.org/wiki/カーペンターズ "wikilink")のヒットによって[レコード会社](../Page/レコード会社.md "wikilink")としての地位を固めると共に、[ピーター・フランプトン](../Page/ピーター・フランプトン.md "wikilink")や[ポリスなども扱う総合レーベルへと躍進した](../Page/ポリス_\(バンド\).md "wikilink")。
 
 1993年には[ポリグラム](../Page/ポリグラム.md "wikilink")（現：[ユニバーサルミュージック](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")）傘下となった。そのため、日本でもポリグラム傘下の[ポリドールに販売権を移行](../Page/ポリドール・レコード.md "wikilink")。現在は[ユニバーサルミュージック内の事業再編により](../Page/ユニバーサル_ミュージック_グループ.md "wikilink")、法人としては旧[MCAと合併したインタースコープとなったが](../Page/MCAレコード.md "wikilink")、レーベルとしてのA\&Mは残っている。
 
@@ -49,7 +51,7 @@
 
   - [セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")（EMIから移籍した直後に契約破棄となり、[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")に移籍。よって、在籍はしたもののA\&Mからは1枚もレコードを出していないばかりか、多額の違約金を支払う羽目になった）
   - [Y\&T](../Page/Y&T.md "wikilink")（1987年に[ゲフィン・レコード](../Page/ゲフィン・レコード.md "wikilink")に移籍）
-  - [アンディ・テイラー](https://ja.wikipedia.org/wiki/アンディ・テイラー "wikilink")（元[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")・・・ただし、契約はA\&M・UKと交わしている）
+  - [アンディ・テイラー](https://ja.wikipedia.org/wiki/アンディ・テイラー "wikilink")（元[デュラン・デュラン](../Page/デュラン・デュラン.md "wikilink")。ただし、契約はA\&M・UKと交わしている）
   - [UB40](../Page/UB40.md "wikilink")（1989年に米国での配給先を[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")・アメリカに移し、A\&Mを通じて発売していた旧作も再発された）
   - [ヒューマン・リーグ](../Page/ヒューマン・リーグ.md "wikilink")
   - [シンプル・マインズ](../Page/シンプル・マインズ.md "wikilink")（両バンドともUB40と同様に米国の配給権はA\&Mが所持していた(A\&Mの隣に「Virgin」のロゴがあった)。現在米国盤はヴァージン・レコード・アメリカから発売されている）
@@ -65,10 +67,10 @@
 
 洋楽作品のもの
 
-  - ～1978年：[キングレコード](../Page/キングレコード.md "wikilink")
-  - 1978～86年：[アルファレコード](../Page/アルファレコード.md "wikilink")
-  - 1986～93年：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")
-  - 1993～：[ポリドール](../Page/ポリドール・レコード.md "wikilink")（現：[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
+  - \- 1978年：[キングレコード](../Page/キングレコード.md "wikilink")
+  - 1978年 - 1986年：[アルファレコード](../Page/アルファレコード.md "wikilink")
+  - 1986年 - 1993年：[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")
+  - 1993年 - ：[ポリドール](../Page/ポリドール・レコード.md "wikilink")（現：[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
 
 ### 日本の邦楽レーベルとしてのA\&M
 

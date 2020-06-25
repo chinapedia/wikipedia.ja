@@ -1,7 +1,7 @@
 > この記事は[イリヤの空、UFOの夏](https://ja.wikipedia.org/wiki/イリヤの空、UFOの夏)から翻訳されています。
 
 
-『**イリヤの空、UFOの夏**』（イリヤのそら、ユーフォーのなつ）は、[電撃文庫](../Page/電撃文庫.md "wikilink")から刊行されている[秋山瑞人](../Page/秋山瑞人.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。また、これを原作とする[OVA](../Page/OVA.md "wikilink")・[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")・[ゲーム](../Page/コンピュータゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。
+『**イリヤの空、UFOの夏**』（イリヤのそら、ユーフォーのなつ）は、[電撃文庫](../Page/電撃文庫.md "wikilink")から刊行されている[秋山瑞人](../Page/秋山瑞人.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。また、これを原作とする[OVA](../Page/OVA.md "wikilink")・[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")・[ゲーム](../Page/コンピュータゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。「[セカイ系](../Page/セカイ系.md "wikilink")」の代表作の一つとして扱われる\[1\]。
 
 原作の[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[駒都えーじ](../Page/駒都えーじ.md "wikilink")。
 
@@ -26,7 +26,7 @@
   - [2009年](../Page/2009年.md "wikilink")
       - 漫画版の連載が終了。
   - [2018年](../Page/2018年.md "wikilink")
-      - [カクヨム](https://ja.wikipedia.org/wiki/カクヨム "wikilink")で無料公開される。平日に限り毎日更新する形式\[1\]。
+      - [カクヨム](https://ja.wikipedia.org/wiki/カクヨム "wikilink")で無料公開される。平日に限り毎日更新する形式\[2\]。
 
 ## ストーリー
 
@@ -133,6 +133,10 @@
   - 第3巻収録 ESPの冬
     タイトルの通り、水前寺テーマが超能力だった時期の園原（当時は太陽系）電波新聞部の話。
 
+## 評価
+
+『おすすめ文庫王国 2003年度版』今年の収穫ベストテンSF部門4位。選者の[大森望](../Page/大森望.md "wikilink")は、『イリヤの空、UFOの夏』は1位『[あなたの人生の物語](https://ja.wikipedia.org/wiki/あなたの人生の物語 "wikilink")』・2位『しあわせの理由』([グレッグ・イーガン](../Page/グレッグ・イーガン.md "wikilink"))・3位『[マルドゥック・スクランブル](../Page/マルドゥック・スクランブル.md "wikilink")』と同じく個人的なオールタイムベストの作品であり順位はつけがたいとし、また「何の取り柄もない平凡な男の子に訪れた“不思議のひと触れ”を通じて、『とっくの昔に終わっちゃったこと』に奇跡的な輝きを与える、[スタージョン](../Page/シオドア・スタージョン.md "wikilink")/[ブラッドベリ的な少年小説の傑作](../Page/レイ・ブラッドベリ.md "wikilink")」と評した\[3\]。
+
 ## 既刊一覧
 
 イリヤの空、UFOの夏
@@ -222,4 +226,6 @@
   -
 [Category:電撃文庫](https://ja.wikipedia.org/wiki/Category:電撃文庫 "wikilink") [Category:日本のSF小説](https://ja.wikipedia.org/wiki/Category:日本のSF小説 "wikilink") [Category:2000年の小説](https://ja.wikipedia.org/wiki/Category:2000年の小説 "wikilink") [Category:2001年の小説の短編集](https://ja.wikipedia.org/wiki/Category:2001年の小説の短編集 "wikilink") [Category:地球外生命体を題材とした小説](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした小説 "wikilink") [Category:未確認飛行物体を題材とした作品](https://ja.wikipedia.org/wiki/Category:未確認飛行物体を題材とした作品 "wikilink") [Category:航空を題材とした作品](https://ja.wikipedia.org/wiki/Category:航空を題材とした作品 "wikilink") [Category:アニメ作品_い](https://ja.wikipedia.org/wiki/Category:アニメ作品_い "wikilink") [Category:2005年のOVA](https://ja.wikipedia.org/wiki/Category:2005年のOVA "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:ハピネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:ハピネットのアニメ作品 "wikilink") [Category:電撃文庫のアニメ作品](https://ja.wikipedia.org/wiki/Category:電撃文庫のアニメ作品 "wikilink") [Category:地球外生命体を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ作品 "wikilink") [Category:航空アニメ](https://ja.wikipedia.org/wiki/Category:航空アニメ "wikilink") [Category:アスキー・メディアワークスのゲームソフト](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークスのゲームソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:地球外生命体を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたコンピュータゲーム "wikilink") [Category:漫画作品_い](https://ja.wikipedia.org/wiki/Category:漫画作品_い "wikilink") [Category:電撃マオウ](https://ja.wikipedia.org/wiki/Category:電撃マオウ "wikilink") [Category:地球外生命体を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした漫画作品 "wikilink") [Category:カクヨム](https://ja.wikipedia.org/wiki/Category:カクヨム "wikilink")
 
-1.  [電撃文庫公式レーベルページが本日から始まります&初期ラインナップ5作品一挙公開！](https://kakuyomu.jp/info/entry/dengeki_official_start)
+1.  『本の雑誌増刊　おすすめ文庫王国2003年度版』 P.43,45 本の雑誌社
+2.  [電撃文庫公式レーベルページが本日から始まります&初期ラインナップ5作品一挙公開！](https://kakuyomu.jp/info/entry/dengeki_official_start)
+3.

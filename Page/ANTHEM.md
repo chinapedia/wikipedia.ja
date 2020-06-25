@@ -214,9 +214,9 @@ LineData =
 
 [1989年](../Page/1989年.md "wikilink")に[練馬マッチョマン](https://ja.wikipedia.org/wiki/練馬マッチョマン "wikilink")なるバンドを結成し、1枚だけアルバムをリリースした後、活動を休止。[1996年](../Page/1996年.md "wikilink")には「さかもとえいぞう」として[アニメタル](../Page/アニメタル.md "wikilink")のヴォーカリストとしてメジャーシーンに復帰。1stの「アニメタル・マラソン」は30万枚以上の売り上げを記録した。その後は[JAM Projectに同じくさかもとえいぞうとして参加するなど](../Page/JAM_Project.md "wikilink")、アニメ界での活動も行う。（アンセムではこれまで通り坂本英三）
 
-  - 福田洋也
+  - [福田洋也](../Page/福田洋也.md "wikilink")
 
-1990年、「バンドの方向性」によりアンセム(Anthem)を脱退。後に元アンセム、現TYOのTony前田（Vo）と「FINGER」を結成するも数年後には解散。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、元[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")などを迎え入れ、ビクターレコードから「演歌メタル」をリリースする。1999年には初のソロアルバムである『Resuscitation』をリリース。2002年7月にはジャパニーズ ヘヴィメタル ハードロックミュージシャンのコンピレーションアルバム『Skill and Shout it lets out\[1\]』をリリース。初のトータルプロデュースアルバムになる。2003年にはかねてからの職業難聴のため左耳の聴力が3分の1になってしまったということもあり、音楽界から引退し、[写真家](../Page/写真家.md "wikilink")としての活動を開始。2005年、ANTHEM 20th ANNIVERSARY TOURに[ギタリスト](../Page/ギタリスト.md "wikilink")として参加する。2009年、ソロアルバム『Resuscitation[\[4\]](https://music.apple.com/jp/album/resuscitation-ep/339903075)』がiTunesStoreで配信開始となる。2010年、ANTHEM-25th Anniversaryの全国ツアーに参加。これを期に「ギタリスト完全復活」を遂げる。2012年、元[D.T.R](../Page/D.T.R.md "wikilink")のVo の竹内光雄と「フルコンタクト」を結成。アコースティックギターとコーラスを担当している。2013年、映画「[リュウセイ](https://ja.wikipedia.org/wiki/リュウセイ "wikilink")」の音楽を担当。カメラマンを続けながらも、アコースティックユニット「R.C.G.T」をTank Horiuchi(Percussion)と2015年に結成。2019年にミニアルバムを発表。2019年は全国38か所でソロツアーを実施！ANTHEM時代の盟友である坂本英三ともライブを開催。デビュー35周年である2020年にはニューバンド「Thunder」を結成。2020年3月レコーディング開始。5曲入りミニアルバムを発売予定。また2020年3月より動画配信サイト「[ツイキャス](https://twitcasting.tv/hiroya1128/)」にて配信ライブを開始する。昨年同様に全国ツアーを開催予定。
+1990年、「バンドの方向性」によりアンセム(Anthem)を脱退。後に元アンセム、現TYOのTony前田（Vo）と「FINGER」を結成するも数年後には解散。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、元[HOUND DOGの](../Page/HOUND_DOG.md "wikilink")[鮫島秀樹](../Page/鮫島秀樹.md "wikilink")などを迎え入れ、ビクターレコードから「演歌メタル」をリリースする。1999年には初のソロアルバムである『Resuscitation』をリリース。2002年7月にはジャパニーズ ヘヴィメタル ハードロックミュージシャンのコンピレーションアルバム『Skill and Shout it lets out\[1\]』をリリース。初のトータルプロデュースアルバムになる。2003年にはかねてからの職業難聴のため左耳の聴力が3分の1になってしまったということもあり、音楽界から引退し、[写真家](../Page/写真家.md "wikilink")としての活動を開始。2005年、ANTHEM 20th ANNIVERSARY TOURに[ギタリスト](../Page/ギタリスト.md "wikilink")として参加する。2009年、ソロアルバム『Resuscitation[\[4\]](https://music.apple.com/jp/album/resuscitation-ep/339903075)』がiTunesStoreで配信開始となる。2010年、ANTHEM-25th Anniversaryの全国ツアーに参加。これを期に「ギタリスト完全復活」を遂げる。2012年、元[D.T.R](../Page/D.T.R.md "wikilink")のVo の竹内光雄と「フルコンタクト」を結成。アコースティックギターとコーラスを担当している。2013年、映画「[リュウセイ](https://ja.wikipedia.org/wiki/リュウセイ "wikilink")」の音楽を担当。カメラマンを続けながらも、アコースティックユニット「R.C.G.T」をTank Horiuchi(Percussion)と2015年に結成。2019年にミニアルバムを発表。2019年は全国38か所でソロツアーを実施！ANTHEM時代の盟友である坂本英三ともライブを開催。デビュー35周年である2020年にはニューバンド「Thunder」を結成。2020年3月レコーディング開始。5曲入りミニアルバムを発売予定。また2020年3月より動画配信サイト「[ツイキャス](https://twitcasting.tv/hiroya1128/)」にて配信ライブを開始する。昨年同様に全国ツアーを開催予定。2020年5月WEB STORE「[Live or Die～福田"Hiroya”洋也 WEB STORE](https://liveordie.thebase.in/)」を開設。
 
   - 中間英明
 
@@ -683,6 +683,8 @@ ANTHEM以外では<a href="../Page/SABBRABELLS.md" title="wikilink">SABBRABELLS<
 
   -
   -
+  - [福田"Hiroya"洋也](https://twitter.com/Hiroya1128)（@Hiyoya1128)-[Twitter](https://twitter.com/Hiroya1128)
+
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:1981年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1981年に結成した音楽グループ "wikilink") [Category:1992年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に解散した音楽グループ "wikilink") [Category:2001年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に再結成した音楽グループ "wikilink") [Category:LOUD_PARK出演者](https://ja.wikipedia.org/wiki/Category:LOUD_PARK出演者 "wikilink")
 
 1.

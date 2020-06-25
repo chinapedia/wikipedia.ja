@@ -7,6 +7,6 @@
 
 ## 出典
 
-[Category:酸塩基指示薬](https://ja.wikipedia.org/wiki/Category:酸塩基指示薬 "wikilink") [Category:アゾ化合物](https://ja.wikipedia.org/wiki/Category:アゾ化合物 "wikilink") [Category:ニトロベンゼン](https://ja.wikipedia.org/wiki/Category:ニトロベンゼン "wikilink") [Category:ナトリウムの化合物](https://ja.wikipedia.org/wiki/Category:ナトリウムの化合物 "wikilink") [Category:サリチル酸](https://ja.wikipedia.org/wiki/Category:サリチル酸 "wikilink") [Category:アゾ染料](https://ja.wikipedia.org/wiki/Category:アゾ染料 "wikilink")
+[Category:酸塩基指示薬](https://ja.wikipedia.org/wiki/Category:酸塩基指示薬 "wikilink") [Category:アゾ化合物](https://ja.wikipedia.org/wiki/Category:アゾ化合物 "wikilink") [Category:ニトロベンゼン](https://ja.wikipedia.org/wiki/Category:ニトロベンゼン "wikilink") [Category:ナトリウムの化合物](https://ja.wikipedia.org/wiki/Category:ナトリウムの化合物 "wikilink") [Category:サリチル酸](https://ja.wikipedia.org/wiki/Category:サリチル酸 "wikilink") [Category:カルボン酸塩](https://ja.wikipedia.org/wiki/Category:カルボン酸塩 "wikilink") [Category:アゾ染料](https://ja.wikipedia.org/wiki/Category:アゾ染料 "wikilink")
 
 1.  <http://msds.chem.ox.ac.uk/AL/alizarin_yellow_R.html>

@@ -107,7 +107,7 @@ NHKエンタープライズ21</p></td>
 <td><p><strong><a href="../Page/陰陽師_(2001年のテレビドラマ).md" title="wikilink">陰陽師</a></strong></p></td>
 <td><p>原作：<a href="../Page/夢枕獏.md" title="wikilink">夢枕獏</a><br />
 脚本：<a href="https://ja.wikipedia.org/wiki/小松江里子" title="wikilink">小松江里子</a> ほか</p></td>
-<td><p><a href="../Page/稲垣吾郎.md" title="wikilink">稲垣吾郎</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）、<a href="https://ja.wikipedia.org/wiki/杉本哲太" title="wikilink">杉本哲太</a>、<a href="https://ja.wikipedia.org/wiki/本上まなみ" title="wikilink">本上まなみ</a>、<a href="../Page/船木誠勝.md" title="wikilink">船木誠勝</a>、<a href="https://ja.wikipedia.org/wiki/山口紗弥加" title="wikilink">山口紗弥加</a>、<a href="../Page/後藤理沙.md" title="wikilink">後藤理沙</a> ほか</p></td>
+<td><p><a href="../Page/稲垣吾郎.md" title="wikilink">稲垣吾郎</a>（<a href="../Page/SMAP.md" title="wikilink">SMAP</a>）、<a href="https://ja.wikipedia.org/wiki/杉本哲太" title="wikilink">杉本哲太</a>、<a href="https://ja.wikipedia.org/wiki/本上まなみ" title="wikilink">本上まなみ</a>、<a href="../Page/船木誠勝.md" title="wikilink">船木誠勝</a>、<a href="https://ja.wikipedia.org/wiki/山口紗弥加" title="wikilink">山口紗弥加</a>、<a href="../Page/後藤理沙.md" title="wikilink">後藤理沙</a> ほか</p></td>
 <td><p>東北新社クリエイツ<br />
 NHKエンタープライズ21</p></td>
 <td><p>[6]</p></td>

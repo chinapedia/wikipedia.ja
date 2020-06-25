@@ -127,10 +127,10 @@
 
 ### 歴代所属日本人選手
 
-  - [松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")（2010年）
-  - [高橋尚成](../Page/高橋尚成.md "wikilink")（2011 - 2012年）
-  - [大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")（2018年 - ）
-  - [田澤純一](../Page/田澤純一.md "wikilink")（2018年）
+  - 55 [松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")（2010年）
+  - 21 [高橋尚成](../Page/高橋尚成.md "wikilink")（2011 - 2012年）
+  - 17 [大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")（2018年 - ）
+  - 47 [田澤純一](../Page/田澤純一.md "wikilink")（2018年）
 
 ## エンゼルス野球殿堂
 

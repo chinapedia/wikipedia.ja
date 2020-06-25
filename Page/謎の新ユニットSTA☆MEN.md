@@ -171,7 +171,7 @@
 ## 外部リンク
 
   - [謎の新ユニットＳＴＡ☆ＭＥＮ｜日本コロムビア](http://columbia.jp/stamen/)
-  - [謎の新ユニットＳＴＡ☆ＭＥＮ通信](http://blog.goo.ne.jp/stamen-info/)
+  - [謎の新ユニットＳＴＡ☆ＭＥＮ通信](https://blog.goo.ne.jp/stamen-info)
 
 [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:7人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:7人組の音楽グループ "wikilink") [Category:鈴村健一](https://ja.wikipedia.org/wiki/Category:鈴村健一 "wikilink") [Category:GyaOジョッキー](https://ja.wikipedia.org/wiki/Category:GyaOジョッキー "wikilink") [Category:GyaOのバラエティ番組](https://ja.wikipedia.org/wiki/Category:GyaOのバラエティ番組 "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2013年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2013年に解散した音楽グループ "wikilink")
 

@@ -33,4 +33,4 @@
   -
   -
   -
-[Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:アメリカ合衆国の伝記映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の伝記映画 "wikilink") [Category:ギャガの映画作品](https://ja.wikipedia.org/wiki/Category:ギャガの映画作品 "wikilink")
+[Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:アメリカ合衆国の伝記映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の伝記映画 "wikilink") [Category:ギャガの映画作品](https://ja.wikipedia.org/wiki/Category:ギャガの映画作品 "wikilink") [Category:パインウッド・スタジオで製作された映画作品](https://ja.wikipedia.org/wiki/Category:パインウッド・スタジオで製作された映画作品 "wikilink")

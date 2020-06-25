@@ -143,14 +143,16 @@
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><strong>2011年9月2日（コンサート会場限定販売）</strong></p></td>
+<td><p><strong>2011年9月2日</strong><br />
+（コンサート会場限定販売）</p></td>
 <td></td>
 <td><p>78位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/音道_(Chageのベストアルバム)" title="wikilink">音道</a></p></td>
 <td><p>カップリングには『<a href="../Page/遠くへ行きたい_(曲).md" title="wikilink">遠くへ行きたい</a>』のカバーが収録されている。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>2011年11月2日（一般発売）</strong></p></td>
+<td><p><strong>2011年11月2日</strong><br />
+（一般発売）</p></td>
 <td></td>
 <td></td>
 <td></td>

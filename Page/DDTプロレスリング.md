@@ -436,8 +436,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D無差別級王座" title="wikilink">KO-D無差別級王座</a></p></td>
 <td><p><a href="../Page/田中将斗.md" title="wikilink">田中将斗</a></p></td>
 <td><p>第74代</p></td>
-<td><p>3</p></td>
-<td></td>
+<td><p>4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/遠藤哲哉" title="wikilink">遠藤哲哉</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-Dタッグ王座" title="wikilink">KO-Dタッグ王座</a></p></td>
@@ -445,8 +445,8 @@
 <a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
 <td><p>第67代</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上麻生" title="wikilink">MAO</a><br />
-<a href="https://ja.wikipedia.org/wiki/マイク・ベイリー" title="wikilink">マイク・ベイリー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小野寺卓也" title="wikilink">T-Hawk</a><br />
+<a href="https://ja.wikipedia.org/wiki/林悠河" title="wikilink">エル・リンダマン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D6人タッグ王座" title="wikilink">KO-D6人タッグ王座</a></p></td>
@@ -454,7 +454,7 @@
 <a href="https://ja.wikipedia.org/wiki/小野寺卓也" title="wikilink">T-Hawk</a><br />
 <a href="https://ja.wikipedia.org/wiki/林悠河" title="wikilink">エル・リンダマン</a></p></td>
 <td><p>第40代</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -472,18 +472,17 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/DDT_UNIVERSAL王座" title="wikilink">DDT UNIVERSAL王座</a></p></td>
 <td><p><a href="../Page/佐々木大輔_(プロレスラー).md" title="wikilink">佐々木大輔</a></p></td>
 <td><p>第2代</p></td>
-<td><p>1</p></td>
-<td><p><a href="../Page/クリス・ブルックス.md" title="wikilink">クリス・ブルックス</a><br />
-<a href="https://ja.wikipedia.org/wiki/井上麻生" title="wikilink">MAO</a><br />
-<a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a><br />
-(4wayマッチ)</p></td>
+<td><p>2</p></td>
+<td><p><a href="../Page/木高イサミ.md" title="wikilink">木高イサミ</a><br />
+<a href="https://ja.wikipedia.org/wiki/勝俣瞬馬" title="wikilink">勝俣瞬馬</a><br />
+(3wayマッチ)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権" title="wikilink">DDT EXTREME級王座</a></p></td>
 <td><p><a href="../Page/青木真也.md" title="wikilink">青木真也</a></p></td>
 <td><p>第48代</p></td>
-<td><p>1</p></td>
-<td><p><a href="../Page/中村圭吾.md" title="wikilink">中村圭吾</a></p></td>
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/納谷幸男" title="wikilink">納谷幸男</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座" title="wikilink">アイアンマンヘビーメタル級王座</a></p></td>
@@ -715,9 +714,9 @@
 
 <!-- end list -->
 
+  - [安納サオリ](https://ja.wikipedia.org/wiki/安納サオリ "wikilink")
   - [伊藤麻希](https://ja.wikipedia.org/wiki/伊藤麻希 "wikilink")
   - [山下りな](https://ja.wikipedia.org/wiki/山下りな "wikilink")
-  - [安納サオリ](https://ja.wikipedia.org/wiki/安納サオリ "wikilink")
 
 <!-- end list -->
 

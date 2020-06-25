@@ -42,7 +42,7 @@
   - [氷川きよし](../Page/氷川きよし.md "wikilink")
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
   - [鈴木あみ](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")
   - [GLAY](../Page/GLAY.md "wikilink")

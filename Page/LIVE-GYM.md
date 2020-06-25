@@ -1787,7 +1787,7 @@ B'z Pleasure in Hawaii</p></td>
 <tr class="odd">
 <td><p>2019年8月16日・18日</p></td>
 <td><p><a href="../Page/サマーソニック.md" title="wikilink">SUMMER SONIC 2019</a></p></td>
-<td><p><strong>2会場2公演</strong> - <a href="../Page/千葉マリンスタジアム.md" title="wikilink">ZOZOマリンスタジアム</a>&amp;幕張メッセ、<a href="../Page/舞洲スポーツアイランド.md" title="wikilink">舞洲SONIC PARK</a> B'zとしては10年ぶり[58]の3度目の出演。サマーソニックでは史上初となる日本人アーティストのヘッドライナーを務める[59]。</p></td>
+<td><p><strong>2会場2公演</strong> - <a href="../Page/千葉マリンスタジアム.md" title="wikilink">ZOZOマリンスタジアム</a>&amp;幕張メッセ、<a href="../Page/舞洲スポーツアイランド.md" title="wikilink">舞洲SONIC PARK</a> B'zとしては10年ぶり[58]、3度目の出演。サマーソニックでは史上初となる日本人アーティストのヘッドライナーを務めた[59]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -2283,7 +2283,7 @@ Hidden Treasure<br />
 55.
 56.
 57.
-58. 2017年に稲葉のみ、INABA/SALASとして出演している。
+58. 2017年に稲葉のみ、INABA／SALASとして出演している。
 59.
 60.
 61.

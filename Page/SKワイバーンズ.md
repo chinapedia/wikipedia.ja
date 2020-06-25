@@ -70,6 +70,7 @@
 ### 捕手
 
   - 20 [李宰元](https://ja.wikipedia.org/wiki/李宰元 "wikilink")（イ・ジェウォン）
+  - 30 [李興練](https://ja.wikipedia.org/wiki/李興練 "wikilink")（イ・フンリョン）
 
 ### 内野手
 
@@ -78,6 +79,7 @@
   - 4 [崔恒](https://ja.wikipedia.org/wiki/崔恒 "wikilink")（チェ・ハン）
   - 14 [崔廷](https://ja.wikipedia.org/wiki/崔廷 "wikilink")（チェ・ジョン）
   - 27 [ジェイミー・ロマック](https://ja.wikipedia.org/wiki/ジェイミー・ロマック "wikilink")
+  - 38 [呉重錫](https://ja.wikipedia.org/wiki/呉重錫 "wikilink")（オ・ジュンヒョク）
 
 </div>
 

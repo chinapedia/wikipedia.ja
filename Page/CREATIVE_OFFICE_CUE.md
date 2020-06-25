@@ -33,7 +33,7 @@
       - [大泉洋](../Page/大泉洋.md "wikilink")（1995年契約）
       - [安田顕](../Page/安田顕.md "wikilink")（1993年契約）
       - [森崎博之](../Page/森崎博之.md "wikilink")（1999年契約）
-      - [戸次重幸](../Page/戸次重幸.md "wikilink")（2000年契約。旧芸名：佐藤重幸）
+      - [戸次重幸](../Page/戸次重幸.md "wikilink")（2000年契約。旧姓：佐藤）
       - [音尾琢真](../Page/音尾琢真.md "wikilink")（2000年契約）
   - [小橋亜樹](../Page/小橋亜樹.md "wikilink")（1999年契約）
   - [北川久仁子](../Page/北川久仁子.md "wikilink")（2005年契約）
@@ -54,7 +54,7 @@
 ### バンド・ミュージシャン
 
   - Chima（2010年契約。レーベル：[ランティス](../Page/ランティス.md "wikilink")、A-CUE RECORDS）
-  - [綾野ましろ](https://ja.wikipedia.org/wiki/綾野ましろ "wikilink")（2014年契約。レーベル：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")内[SACRA MUSIC](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
+  - [綾野ましろ](https://ja.wikipedia.org/wiki/綾野ましろ "wikilink")（2014年契約。レーベル：[サクラミュージック](https://ja.wikipedia.org/wiki/SACRA_MUSIC "wikilink")）
   - [nonoc](https://ja.wikipedia.org/wiki/nonoc "wikilink")（2018年契約。レーベル：[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）
 
 ### スペシャリスト
@@ -102,7 +102,7 @@
 #### 劇団
 
   - [OOPARTS](../Page/OOPARTS_\(劇団\).md "wikilink")（鈴井主宰）
-  - [劇団イナダ組](../Page/劇団イナダ組.md "wikilink")（森崎・大泉・音尾・飯野が参加）
+  - [劇団イナダ組](../Page/劇団イナダ組.md "wikilink")（森崎・戸次・大泉・音尾・飯野が参加）
   - [upspeak](https://ja.wikipedia.org/wiki/upspeak "wikilink")（安田主宰）
 
 ##### 演劇ユニット

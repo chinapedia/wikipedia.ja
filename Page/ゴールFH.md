@@ -20,7 +20,7 @@
 
 ## テレビアニメ
 
-[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")まで、[NHK BS2の](../Page/NHK衛星第2テレビジョン.md "wikilink")[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")枠内で月曜 18:00 - 18:30の時間帯において放送された。全39話。
+[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[12月26日](../Page/12月26日.md "wikilink")まで、[NHK BS2の](../Page/NHK衛星第2テレビジョン.md "wikilink")[衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")枠内で月曜 18:00 - 18:30の時間帯において放送された。全39話。
 
 ### スタッフ
 
@@ -373,4 +373,4 @@
 
 1995年10月13日、[カロッツェリアジャパン](https://ja.wikipedia.org/wiki/カロッツェリアジャパン "wikilink")より発売。[3DO](../Page/3DO.md "wikilink")用ソフト。
 
-[Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:小学館の学年誌の漫画作品](https://ja.wikipedia.org/wiki/Category:小学館の学年誌の漫画作品 "wikilink") [Category:サッカー漫画](https://ja.wikipedia.org/wiki/Category:サッカー漫画 "wikilink") [Category:静岡市を舞台とした漫画](https://ja.wikipedia.org/wiki/Category:静岡市を舞台とした漫画 "wikilink") [Category:衛星アニメ劇場](https://ja.wikipedia.org/wiki/Category:衛星アニメ劇場 "wikilink") [Category:サッカーアニメ](https://ja.wikipedia.org/wiki/Category:サッカーアニメ "wikilink") [Category:アニメ作品_こ](https://ja.wikipedia.org/wiki/Category:アニメ作品_こ "wikilink") [Category:1994年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1994年のテレビアニメ "wikilink") [Category:静岡市を舞台とした作品](https://ja.wikipedia.org/wiki/Category:静岡市を舞台とした作品 "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:サッカーゲーム](https://ja.wikipedia.org/wiki/Category:サッカーゲーム "wikilink") [Category:清水エスパルス](https://ja.wikipedia.org/wiki/Category:清水エスパルス "wikilink")
+[Category:漫画作品_こ](https://ja.wikipedia.org/wiki/Category:漫画作品_こ "wikilink") [Category:小学館の学年誌の漫画作品](https://ja.wikipedia.org/wiki/Category:小学館の学年誌の漫画作品 "wikilink") [Category:サッカー漫画](https://ja.wikipedia.org/wiki/Category:サッカー漫画 "wikilink") [Category:静岡市を舞台とした漫画](https://ja.wikipedia.org/wiki/Category:静岡市を舞台とした漫画 "wikilink") [Category:アニメ作品_こ](https://ja.wikipedia.org/wiki/Category:アニメ作品_こ "wikilink") [Category:1994年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1994年のテレビアニメ "wikilink") [Category:衛星アニメ劇場](https://ja.wikipedia.org/wiki/Category:衛星アニメ劇場 "wikilink") [Category:サッカーアニメ](https://ja.wikipedia.org/wiki/Category:サッカーアニメ "wikilink") [Category:小学館のアニメ作品](https://ja.wikipedia.org/wiki/Category:小学館のアニメ作品 "wikilink") [Category:静岡県を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:静岡県を舞台としたアニメ作品 "wikilink") [Category:3DO用ソフト](https://ja.wikipedia.org/wiki/Category:3DO用ソフト "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink") [Category:サッカーゲーム](https://ja.wikipedia.org/wiki/Category:サッカーゲーム "wikilink") [Category:清水エスパルス](https://ja.wikipedia.org/wiki/Category:清水エスパルス "wikilink")

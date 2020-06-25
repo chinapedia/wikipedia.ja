@@ -37,7 +37,7 @@
   - [KBS京都](../Page/京都放送.md "wikilink") 10時台（『[ただ今勤務中\!森谷威夫のお世話になります\!](https://ja.wikipedia.org/wiki/ただ今勤務中!森谷威夫のお世話になります! "wikilink")』内）
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink") 10:32 - 10:37（『[HARBOR CAFE](https://ja.wikipedia.org/wiki/HARBOR_CAFE "wikilink")』(月 - 木)・『[ばんばひろふみ\!ラジオ・DE・しょー\!](../Page/ばんばひろふみ!ラジオ・DE・しょー!.md "wikilink")』(金)内）
   - [和歌山放送](../Page/和歌山放送.md "wikilink") 11:50 - 11:55
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink") 10:40 - 10:45
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink") 10:40 - 10:45
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink") 12:40 - 12:45
   - [山口放送](../Page/山口放送.md "wikilink") 9:55 - 10:00
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink") 11:35 - 11:40

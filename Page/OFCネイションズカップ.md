@@ -21,11 +21,8 @@
 <th><p>回</p></th>
 <th><p>開催年</p></th>
 <th><p>開催国</p></th>
-<th></th>
 <th><p>決勝戦</p></th>
-<th></th>
 <th><p>3位決定戦</p></th>
-<th></th>
 <th><p>出場<br />
 国数</p></th>
 </tr>
@@ -38,19 +35,13 @@
 <td><p>3位</p></td>
 <td><p>結果</p></td>
 <td><p>4位</p></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/OFCネイションズカップ1973.md" title="wikilink">1</a></p></td>
 <td><p><a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
 <td></td>
-<td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -59,9 +50,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 - 2</strong></p></td>
-<td></td>
-<td></td>
-<td><p><strong>2 - 1</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -72,9 +60,6 @@
 <td><p><strong>6 - 0</strong><br />
 <strong>5 - 0</strong></p></td>
 <td></td>
-<td><p>/ [1]</p></td>
-<td><p>4</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/OFCネイションズカップ1998.md" title="wikilink">4</a></p></td>
@@ -82,9 +67,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
-<td></td>
-<td></td>
-<td><p><strong>4 - 2</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -94,9 +76,6 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td></td>
-<td></td>
-<td><p><strong>2 - 1</strong></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/OFCネイションズカップ2002.md" title="wikilink">6</a></p></td>
@@ -105,21 +84,15 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td></td>
-<td></td>
-<td><p><strong>1 - 0</strong></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/OFCネイションズカップ2004.md" title="wikilink">7</a></p></td>
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><p>[2]<br />
+<td><p><br />
 <a href="../Page/ホーム・アンド・アウェー.md" title="wikilink">ホーム&amp;アウェー方式</a></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>5 - 1</strong><br />
 <strong>6 - 0</strong></p></td>
-<td></td>
-<td></td>
-<td><p><strong>-----</strong>[3]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -127,10 +100,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p><a href="../Page/ホーム・アンド・アウェー.md" title="wikilink">ホーム&amp;アウェー方式</a></p></td>
 <td><p><strong></strong></p></td>
-<td><p><strong>-----</strong>[4]</p></td>
-<td></td>
-<td></td>
-<td><p><strong>-----</strong>[5]</p></td>
+<td><p><strong>-----</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -139,9 +109,6 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
-<td></td>
-<td></td>
-<td><p><strong>4 - 3</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -152,16 +119,27 @@
 <td><p><strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 4 - 2)</small></p></td>
 <td></td>
-<td><p>/ [6]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/OFCネイションズカップ2020" title="wikilink">―</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td></td>
+<td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウイルス感染症の流行により中止</a>[1]</p></td>
 <td><p>8</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p><a href="../Page/2024年.md" title="wikilink">2024年</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-※注
-
-<references group="注" />
+**注釈**
 
 ## 統計・記録
 
@@ -410,9 +388,4 @@
 
 [Category:ナショナルチームによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:ナショナルチームによる国際サッカー大会 "wikilink") [Category:OFCネイションズカップ](https://ja.wikipedia.org/wiki/Category:OFCネイションズカップ "wikilink") [Category:OFCサッカー大会](https://ja.wikipedia.org/wiki/Category:OFCサッカー大会 "wikilink")
 
-1.  3位決定戦は実施されず。
-2.  2次リーグは全試合[オーストラリア](../Page/オーストラリア.md "wikilink")で開催。決勝戦のみホーム&アウェー方式。
-3.  3位決定戦は実施されず。表記の3位・4位チームは2次リーグの結果による。
-4.  ホーム&アウェー方式の総当たり戦で実施された。
-5.
-6.
+1.

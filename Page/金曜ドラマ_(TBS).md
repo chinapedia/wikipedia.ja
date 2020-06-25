@@ -363,7 +363,7 @@
   - [メゾン・ド・ポリス](https://ja.wikipedia.org/wiki/メゾン・ド・ポリス "wikilink")（1月11日 - 3月15日、原作：[加藤実秋](https://ja.wikipedia.org/wiki/加藤実秋 "wikilink")、主演：[高畑充希](https://ja.wikipedia.org/wiki/高畑充希 "wikilink")）製作：共同テレビ
   - [インハンド](https://ja.wikipedia.org/wiki/インハンド "wikilink")（4月12日 - 6月21日、原作：朱戸アオ、主演：山下智久）製作：[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
   - [凪のお暇](https://ja.wikipedia.org/wiki/凪のお暇 "wikilink")（7月19日 - 9月20日、原作：[コナリミサト](../Page/コナリミサト.md "wikilink")、主演：[黒木華](https://ja.wikipedia.org/wiki/黒木華 "wikilink")）
-  - [4分間のマリーゴールド](https://ja.wikipedia.org/wiki/4分間のマリーゴールド "wikilink")（10月11日 - 12月13日、原作：キリエ、主演：[福士蒼汰](https://ja.wikipedia.org/wiki/福士蒼汰 "wikilink")）※2度目の「全て原作あり」
+  - [4分間のマリーゴールド](https://ja.wikipedia.org/wiki/4分間のマリーゴールド "wikilink")（10月11日 - 12月13日、原作：キリエ、主演：[福士蒼汰](https://ja.wikipedia.org/wiki/福士蒼汰 "wikilink")）製作：共同テレビ ※2度目の「全て原作あり」
 
 ### 2020年
 

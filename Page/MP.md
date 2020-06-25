@@ -20,7 +20,7 @@
   - [マッサージパーラー](../Page/マッサージパーラー.md "wikilink")()
   - [マレー・ポリネシア語派](../Page/マレー・ポリネシア語派.md "wikilink") ()
   - [マイクロプラスチック](https://ja.wikipedia.org/wiki/マイクロプラスチック "wikilink")（）
-  - [マスクポイント](https://ja.wikipedia.org/wiki/密ですゲーム#マスクポイント "wikilink")（Mask Point） - 「[密ですゲーム](https://ja.wikipedia.org/wiki/密ですゲーム "wikilink")」内で使用されるポイント。
+  - [マスクポイント](https://ja.wikipedia.org/wiki/密ですゲーム#マスクポイント "wikilink")（Mask Point） - 「[密ですゲーム](../Page/密ですゲーム.md "wikilink")」内で使用される[ヒットポイント](../Page/ヒットポイント.md "wikilink")。
 
 ### 地名
 

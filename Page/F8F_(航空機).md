@@ -395,7 +395,7 @@ D.1088</p></td>
 <td><p>ザ・ファイター・コレクション<a href="http://fighter-collection.com/cft/">8</a><br />
 (The Fighter Collection)</p></td>
 <td><p>公開</p></td>
-<td><p>静態展示</p></td>
+<td><p>飛行可能</p></td>
 <td><p><a href="http://fighter-collection.com/cft/grumman-f8f-2p-bearcat/">9</a></p></td>
 </tr>
 <tr class="even">

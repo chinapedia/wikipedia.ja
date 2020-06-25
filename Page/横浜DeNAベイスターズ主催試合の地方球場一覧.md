@@ -149,16 +149,16 @@
   - [山陽小野田市野球場](https://ja.wikipedia.org/wiki/山陽小野田市野球場 "wikilink")（1974）
   - [西京スタジアム](https://ja.wikipedia.org/wiki/山口市スポーツの森#西京スタジアム "wikilink")（2007）
       - オープン戦では2002年に広島主催で開催。
-  - 山口市営球場（1958）
+  - [山口市営球場](https://ja.wikipedia.org/wiki/山口市営球場 "wikilink")（1958）
   - [徳山市野球場](../Page/周南市野球場.md "wikilink")（1971-1973）
-  - 徳山毛利球場（1950,1952,1954）
+  - [徳山市営毛利球場](https://ja.wikipedia.org/wiki/徳山市営毛利球場 "wikilink")（1950,1952,1954）
   - [宇部市野球場](../Page/宇部市野球場.md "wikilink")（現：ユーピーアールスタジアム）（1958-1959）
-  - 防府市設球場（1952,1954）
+  - [防府市設野球場](https://ja.wikipedia.org/wiki/防府市設野球場 "wikilink")（1952,1954）
   - [平和台野球場](../Page/平和台野球場.md "wikilink")（1952,1954）
       - 福岡県を本拠とする球団がなかった1979-1988年は、平和台野球が勧進元（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")主催は同社を通さず球団と[読売新聞社](../Page/読売新聞社.md "wikilink")・[日本テレビとの共催](../Page/日本テレビ放送網.md "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")後援で自主開催）となる他球団主催のビジターゲームでも使用した。
   - [八幡桃園球場](https://ja.wikipedia.org/wiki/北九州市立桃園球場 "wikilink")（1950）
   - [八幡大谷球場](../Page/北九州市立大谷球場.md "wikilink")（1953-1954）
-  - 門司市営老松球場（1952）
+  - [門司市営老松球場](https://ja.wikipedia.org/wiki/門司市営老松球場 "wikilink")（1952）
   - [小倉豊楽園球場](../Page/小倉豊楽園球場.md "wikilink")（1952-1954）
 
 :\*かつて二軍が本拠地を置いていた（当時の球団名は洋松ジュニアロビンス）。

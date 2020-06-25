@@ -106,7 +106,6 @@
   - [今日の女バレ](https://ja.wikipedia.org/wiki/今日の女バレ "wikilink")（[小林開](https://ja.wikipedia.org/wiki/小林開 "wikilink")）2013年No.9 - 2014年No.8←本誌より移籍
   - [Croquis](https://ja.wikipedia.org/wiki/Croquis "wikilink")（[新井三喜](https://ja.wikipedia.org/wiki/新井三喜 "wikilink")）2000年No.11 - 2001年No.5 ★
   - [くろのロワイヤル](https://ja.wikipedia.org/wiki/くろのロワイヤル "wikilink")（[木下由一](https://ja.wikipedia.org/wiki/木下由一 "wikilink")）2009年No.10 - 2012年No.5 ☆
-      - （外部リンク）
   - [Goal Den Age](../Page/Goal_Den_Age.md "wikilink")（原作/[綱本将也](../Page/綱本将也.md "wikilink") 漫画/[高岡永生](https://ja.wikipedia.org/wiki/高岡永生 "wikilink")）2005年No.11 - 2007年No.1
   - [こちら新宿フリッパーズ](https://ja.wikipedia.org/wiki/こちら新宿フリッパーズ "wikilink")（[渋染かずき](https://ja.wikipedia.org/wiki/渋染かずき "wikilink")）1997年No.10 - 2000年No.6
 

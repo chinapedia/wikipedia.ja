@@ -37,6 +37,6 @@
 ## 外部リンク
 
   - [SINJI OFFICIAL WEB SITE](http://sinji.jp/)
-  - [SINJI OFFICIAL BLOG](http://blog.goo.ne.jp/dj-sinji/)
+  - [SINJI OFFICIAL BLOG](https://blog.goo.ne.jp/dj-sinji)
 
 [Category:日本の男性声優](https://ja.wikipedia.org/wiki/Category:日本の男性声優 "wikilink") [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

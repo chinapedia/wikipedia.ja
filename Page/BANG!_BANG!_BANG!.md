@@ -15,7 +15,7 @@
 
 ## 出演者
 
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") - 最初は[森且行](../Page/森且行.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")の3人で、後に[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")も出演、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")は一度も出演しなかった。森の脱退を機にSMAPは降板。その後[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")などジャニーズ所属タレントの混合編成となる（先輩格も出演）。
+  - [SMAP](../Page/SMAP.md "wikilink") - 最初は[森且行](../Page/森且行.md "wikilink")、[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")の3人で、後に[中居正広](../Page/中居正広.md "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")も出演、[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")は一度も出演しなかった。森の脱退を機にSMAPは降板。その後[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")などジャニーズ所属タレントの混合編成となる（先輩格も出演）。
   - [V6](../Page/V6_\(グループ\).md "wikilink")（[坂本昌行](../Page/坂本昌行.md "wikilink")・[長野博](../Page/長野博.md "wikilink")・[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")）
   - [忍者](../Page/忍者_\(グループ\).md "wikilink")（[柳沢超](../Page/柳沢超.md "wikilink")・[遠藤直人](../Page/遠藤直人.md "wikilink")・[正木慎也](../Page/正木慎也.md "wikilink")）
   - [今田耕司](../Page/今田耕司.md "wikilink")

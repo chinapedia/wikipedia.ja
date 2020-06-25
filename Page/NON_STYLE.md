@@ -8,12 +8,12 @@
 ## メンバー
 
   - [石田 明](https://ja.wikipedia.org/wiki/石田明 "wikilink")（いしだ あきら、 - ）
-    [ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")（まれに[ツッコミ](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")）・担当。既婚。身長173cm、[大阪府立東淀川高等学校](../Page/大阪府立東淀川高等学校.md "wikilink")卒。
+    [ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")（まれに[ツッコミ](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")）担当。既婚。身長173cm、[大阪府立東淀川高等学校](../Page/大阪府立東淀川高等学校.md "wikilink")卒。
     立ち位置は向かって左。[血液型](../Page/血液型.md "wikilink")は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。全身白の衣装を着用することが多い。ツッコミの井上がナルシストになりきる場面ではツッコミ役になる。
     2016年、劇団間座旗揚げ公演『恋の虫』で脚本を担当し、初めてミュージカルの脚本を手掛ける\[1\]。
     [合唱コンクール](../Page/合唱コンクール.md "wikilink")等で[合唱指揮者](../Page/合唱指揮者.md "wikilink")を任されることもある。
   - [井上 裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")（いのうえ ゆうすけ、 - ）
-    [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")（まれに[ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")）。未婚。身長163cm（公称165cm）、[神戸学院大学](../Page/神戸学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒。
+    [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")（まれに[ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")）担当。未婚。身長163cm（公称165cm）、[神戸学院大学](../Page/神戸学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒。
     立ち位置は向かって右。血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。大阪府大阪市出身。[ジャケット](../Page/ジャケット.md "wikilink")の下に[タンクトップ](../Page/タンクトップ.md "wikilink")の衣装を着用することが多かったが、最近ではワイシャツを着ている。ナルシストになりきる場面ではボケ役になる。
     個人で[Day of the legend](../Page/Day_of_the_legend.md "wikilink")（ミュージシャン）としても活動。また、期間限定でロックバンド[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")のサポートメンバーとしても活動していた。
 

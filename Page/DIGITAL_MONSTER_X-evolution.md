@@ -5,11 +5,13 @@
 
 ## 概要
 
-この作品は、製作発表当初、原名は『DIGITAL MONSTER X-evolution ～13番目のロイヤルナイツ～』（デジタルモンスター ゼヴォリューション ～13番目のロイヤルナイツ～）、[2005年](../Page/2005年.md "wikilink")映画公開予定と発表されていたが、諸事情により予定が変更になり、2005年[1月3日](../Page/1月3日.md "wikilink")に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")で[テレビ放送](https://ja.wikipedia.org/wiki/テレビ放送 "wikilink")された。変更に至った理由は不明。
+この作品は、製作発表当初、原名は『DIGITAL MONSTER X-evolution ～13番目のロイヤルナイツ～』（デジタルモンスター ゼヴォリューション ～13番目のロイヤルナイツ～）、[2005年](../Page/2005年.md "wikilink")映画公開予定と発表されていたが\[1\]、諸事情により予定が変更になり、2005年[1月3日](../Page/1月3日.md "wikilink")に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")で[テレビ放送](https://ja.wikipedia.org/wiki/テレビ放送 "wikilink")された。変更に至った理由は不明。
 
 当初はデジモンシリーズ5作目として扱われる場合もあったが、後に正規の最新作『[デジモンセイバーズ](../Page/デジモンセイバーズ.md "wikilink")』が開始したため、現在では本作は番外編のような扱いとなっている。
 
-2005年[11月25日](../Page/11月25日.md "wikilink")にDVDが発売された。
+デジモンアニメシリーズ初の全編フルCGアニメでもある\[2\]\[3\]。
+
+2005年[11月25日](../Page/11月25日.md "wikilink")にDVDが発売された\[4\]。
 
 [声優](../Page/声優.md "wikilink")陣は、基本的に過去のデジモンアニメシリーズのオリジナルキャストが再現されている。
 
@@ -97,8 +99,17 @@
   - [デジモンクロニクル](../Page/デジモンクロニクル.md "wikilink")
   - [時空冒険記ゼントリックス](../Page/時空冒険記ゼントリックス.md "wikilink")
 
+## 脚注
+
+<references />
+
 ## 外部リンク
 
   - [東映アニメーションによる公式ページ](http://www.toei-anim.co.jp/tv/digimon_x/)
 
 [Category:アニメ作品_て](https://ja.wikipedia.org/wiki/Category:アニメ作品_て "wikilink") [Category:デジタルモンスターのアニメ作品](https://ja.wikipedia.org/wiki/Category:デジタルモンスターのアニメ作品 "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:年末年始に放送されたスペシャルアニメ](https://ja.wikipedia.org/wiki/Category:年末年始に放送されたスペシャルアニメ "wikilink") [Category:かつて存在したフジテレビの年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したフジテレビの年末年始特番 "wikilink")
+
+1.
+2.
+3.
+4.

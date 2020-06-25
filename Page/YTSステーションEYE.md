@@ -9,7 +9,7 @@
 
 ## 追記
 
-また、毎週月曜日限定にて17時台の情報ワイド番組と18時台のニュースワイド番組との長時間融合複合番組枠である『[情報わいどYTSゴジダス](../Page/情報わいどYTSゴジダス.md "wikilink")』（略称：「情わいゴジダス」。同じ[ANN系列局の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[朝日放送](../Page/朝日放送テレビ.md "wikilink")『[ワイドABCDE〜す](../Page/ワイドABCDE〜す.md "wikilink")』と[山形県](../Page/山形県.md "wikilink")内[民放](../Page/民間放送.md "wikilink")[テレビ局の他局の放映局である](../Page/テレビジョン放送局.md "wikilink")[山形放送](../Page/山形放送.md "wikilink")『[YBC5時\!ピヨ卵&プラス1ワイド&](../Page/ピヨ卵ワイド.md "wikilink")[YBCニュースプラス1](../Page/YBCニュースプラス1.md "wikilink")』の編成に倣って当時、対抗・競合して編成）を編成し始めたが、ANNの夕方番組が『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』になると番組編成内容も大幅に改変、YTS夕方番組枠も現在の「Jチャンゴジダス」の放送へと繋がり現在に至る。
+また、毎週月曜日限定にて17時台の情報ワイド番組と18時台のニュースワイド番組との長時間融合複合番組枠である『[情報わいどYTSゴジダス](../Page/情報わいどYTSゴジダス.md "wikilink")』（略称：「情わいゴジダス」。同じ[ANN系列局の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[朝日放送](../Page/朝日放送テレビ.md "wikilink")『[ワイドABCDE〜す](../Page/ワイドABCDE〜す.md "wikilink")』と[山形県](../Page/山形県.md "wikilink")内[民放](../Page/民間放送.md "wikilink")[テレビ局の他局の放映局である](../Page/テレビジョン放送局.md "wikilink")[山形放送](../Page/山形放送.md "wikilink")『[YBC5時\!ピヨ卵&プラス1ワイド&](../Page/ピヨ卵ワイド.md "wikilink")[YBCニュースプラス1](../Page/YBCニュースプラス1.md "wikilink")』の編成に倣って当時、対抗・競合して編成）を編成し始めたが、ANNの夕方番組が『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』になると番組編成内容も大幅に改変、YTS夕方番組枠も現在の「Jチャンゴジダス」の放送へと繋がり現在に至る。
 
 ## キャスターの変遷
 
@@ -42,6 +42,6 @@
   - [YTS夕やけステーション](../Page/YTS夕やけステーション.md "wikilink") - 本番組の事前番組。ただし、実際のタイトル表記は『**YTS○曜ステーション**』であった。
   - [スーパーJチャンネルYTSゴジダス](../Page/スーパーJチャンネルYTSゴジダス.md "wikilink") - 後番組。。
   - [スーパーJチャンネルYTSニュース](https://ja.wikipedia.org/wiki/スーパーJチャンネルYTSニュース "wikilink") - 後番組。。
-  - [ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink") - 1999年度以降の年末年始版ニュース番組はこちらを放送。ちなみに、1998年度の年末年始までは『**[ANNニュース (年末年始夕方版・1987年度 - 1998年度)](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")**』を放映していた。
+  - [ANNスーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink") - 1999年度以降の年末年始版ニュース番組はこちらを放送。ちなみに、1998年度の年末年始までは『**[ANNニュース (年末年始夕方版・1987年度 - 1998年度)](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")**』を放映していた。
 
 [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:山形テレビの番組](https://ja.wikipedia.org/wiki/Category:山形テレビの番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:ステーションEYE](https://ja.wikipedia.org/wiki/Category:ステーションEYE "wikilink")

@@ -517,7 +517,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 <!-- end list -->
 
   -
-    ※2018年改編で週末・祝日・年末年始のニュース・気象情報は災害時等を除き、広島放送局から終日**中国地方向け放送**となり、岡山県向け放送は平日（岡山〈7:45 - 7:51〉・ひるまえ直送便〈11:52 - 12:00〉・正午のニュース〈12:15 - 12:20〉・もぎたて\!〈18:10 - 19:00〉・岡山ニュース845〈20:45 - 21:00〉）のみに縮小する\[8\]。
+    ※2018年改編で週末・祝日・年末年始のニュース・気象情報は災害時等を除き、広島放送局から終日**中国地方向け放送**となり、岡山県向け放送は平日（岡山〈7:45 - 7:51〉・ひるまえ直送便〈火曜11:50 - 11:54〉・正午のニュース〈12:15 - 12:20〉・もぎたて\!〈18:10 - 19:00〉・岡山ニュース845〈20:45 - 21:00〉）のみに縮小する\[8\]。
 
 ### ラジオ第1放送
 
@@ -630,7 +630,7 @@ FMの中継局を設置している局、アナログ[UHFテレビ出力](../Pag
 
 [2020年](../Page/2020年.md "wikilink")、[新型コロナウイルスの流行に伴い感染予防を呼びかけるキャンペーンを民間放送各局と展開](../Page/2019新型コロナウイルス.md "wikilink")。テレビでは岡山県と香川県\[9\]、ラジオでは岡山県の各局と展開。また、テレビにおいては四国ブロックの[NHK高松放送局](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")も参加している。参加局などは以下のとおり（いずれも2020年時点）。
 
-  - テレビ ：岡山県（[伊原木隆太](https://ja.wikipedia.org/wiki/伊原木隆太 "wikilink")）、香川県（[浜田恵造](https://ja.wikipedia.org/wiki/浜田恵造 "wikilink")）、NHK岡山放送局（望月啓太）、NHK高松放送局（[五味哲太](../Page/五味哲太.md "wikilink")）、[西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")（[松田愛里](https://ja.wikipedia.org/wiki/松田愛里 "wikilink")）、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（[白戸ゆめの](https://ja.wikipedia.org/wiki/白戸ゆめの "wikilink")）、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（岡田美奈子）、[テレビせとうち](../Page/テレビせとうち.md "wikilink")（[中島有香](../Page/中島有香.md "wikilink")）、[岡山放送](../Page/岡山放送.md "wikilink")（[森夏美](https://ja.wikipedia.org/wiki/森夏美_\(香川県出身\) "wikilink")）
+  - テレビ ：岡山県（[伊原木隆太](https://ja.wikipedia.org/wiki/伊原木隆太 "wikilink")） 、香川県（[浜田恵造](https://ja.wikipedia.org/wiki/浜田恵造 "wikilink")） 、NHK岡山放送局（望月啓太）、NHK高松放送局（[五味哲太](../Page/五味哲太.md "wikilink")）、[西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")（[松田愛里](https://ja.wikipedia.org/wiki/松田愛里 "wikilink")）、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（[白戸ゆめの](https://ja.wikipedia.org/wiki/白戸ゆめの "wikilink")）、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（岡田美奈子）、[テレビせとうち](../Page/テレビせとうち.md "wikilink")（[中島有香](../Page/中島有香.md "wikilink")）、[岡山放送](../Page/岡山放送.md "wikilink")（[森夏美](https://ja.wikipedia.org/wiki/森夏美_\(香川県出身\) "wikilink")）
   - ラジオ：NHK岡山放送局、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、[岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")、[岡山シティエフエム](../Page/岡山シティエフエム.md "wikilink")
 
 ## 脚注

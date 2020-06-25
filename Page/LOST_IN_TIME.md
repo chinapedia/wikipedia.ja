@@ -530,7 +530,7 @@ VIDEO CLIP: 1.手紙 2.約束 3.列車 4.ココロノウタ 5.ココロノウタ
   - 2006年12月30日 - COUNTDOWN JAPAN 06/07
   - 2007年07月16日 - HIGH LINE RECORDS 10th ANNIVERSARY 〜10年目の夏〜
   - 2007年08月17日 - RISING SUN ROCK FESTIVAL 2007 in EZO
-  - 2007年10月11日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 07
+  - 2007年10月11日 - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR YOUNG FLAG 07
   - 2007年12月08日 - スペースシャワー列伝 第70巻 ～音袋(ネブクロ)の宴～
   - 2008年09月10日 - RADIO BERRY 15th ANNIVERSARY ベリテンライブ2008
   - 2008年12月30日 - COUNTDOWN JAPAN 08/09

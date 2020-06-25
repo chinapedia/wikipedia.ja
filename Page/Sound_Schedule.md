@@ -217,12 +217,13 @@
 </tbody>
 </table>
 
-### DVD
+### 映像作品
 
 |     | 発売日                                       | タイトル                                                                                                                                                                  | 規格品番       | 収録曲      |
 | --- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
 | 1st | 2005年[8月24日](../Page/8月24日.md "wikilink") | **[SS FILMS 〜Sound Schedule 8 Clips of Singles〜](https://ja.wikipedia.org/wiki/SS_FILMS_〜Sound_Schedule_8_Clips_of_Singles〜 "wikilink")**                             | YCBL-10001 | オリコン149位 |
 | 2nd | 2006年[2月8日](../Page/2月8日.md "wikilink")   | **[SS LIVES 〜Sound Schedule Live Tour "you can't beat that."〜](https://ja.wikipedia.org/wiki/SS_LIVES_〜Sound_Schedule_Live_Tour_"you_can't_beat_that."〜 "wikilink")** | YCBL-10002 | オリコン60位  |
+| 3rd | 2020年[3月5日](../Page/3月5日.md "wikilink")   | **[Sound Schedule Live Tour “PLACE2019" LIQUIDROOM](https://ja.wikipedia.org/wiki/Sound_Schedule_Live_Tour_“PLACE2019"_LIQUIDROOM "wikilink")**                       | YCXL-10001 | オリコン62位  |
 |     |                                           |                                                                                                                                                                       |            |          |
 
 ### スコアブック
@@ -295,7 +296,7 @@
 
   - [大石昌良 オフィシャルウェブサイト](http://www.014014.jp/)
 
-  - [カワハラ・ブログ・ヨウジ](http://blog.goo.ne.jp/ssline3/)
+  - [カワハラ・ブログ・ヨウジ](https://blog.goo.ne.jp/ssline3)
 
   -
   -

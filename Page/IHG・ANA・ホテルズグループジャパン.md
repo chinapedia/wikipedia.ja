@@ -1,7 +1,7 @@
 > この記事は[IHG・ANA・ホテルズグループジャパン](https://ja.wikipedia.org/wiki/IHG・ANA・ホテルズグループジャパン)から翻訳されています。
 
 
-**IHG・ANA・ホテルズグループジャパン**は、[航空会社](../Page/航空会社.md "wikilink")・[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（以下全日空）と[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インターコンチネンタルホテルズグループ](../Page/インターコンチネンタルホテルズグループ.md "wikilink") (IHG)との合弁による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のホテル運営企業である。持分比率はIHG74％、ANA25％、 IHG・ANAホテルズホールディングス株式会社1％となっている。
+**IHG・ANA・ホテルズグループジャパン合同会社**は、[航空会社](../Page/航空会社.md "wikilink")・[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（以下全日空）と[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インターコンチネンタルホテルズグループ](../Page/インターコンチネンタルホテルズグループ.md "wikilink") (IHG)との合弁による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のホテル運営企業である。持分比率はIHG74％、ANA25％、 IHG・ANAホテルズホールディングス株式会社1％となっている。
 
 ｢**インターコンチネンタル**｣、｢**ANAクラウンプラザホテル**｣、｢**[ホリデイ・イン](https://ja.wikipedia.org/wiki/ホリデイ・イン "wikilink")**｣、「ホテル インディゴ」の4つのホテルブランドを日本で[チェーン展開し](https://ja.wikipedia.org/wiki/チェーンストア "wikilink")、38ホテル、10,000室以上の客室を運営する。
 

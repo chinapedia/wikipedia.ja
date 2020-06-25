@@ -1,7 +1,7 @@
 > この記事は[Hey Hey おおきに毎度あり](https://ja.wikipedia.org/wiki/Hey_Hey_おおきに毎度あり)から翻訳されています。
 
 
-「**Hey Hey おおきに毎度あり**」（ヘイ ヘイ おおきにまいどあり）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+「**Hey Hey おおきに毎度あり**」（ヘイ ヘイ おおきにまいどあり）は、[SMAP](../Page/SMAP.md "wikilink")の12枚目の[シングル](../Page/シングル.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 概要
 

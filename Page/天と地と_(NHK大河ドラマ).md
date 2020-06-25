@@ -250,7 +250,7 @@
 
 ## 放送
 
-特記が無い限り\[<http://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
+特記が無い限り\[<https://www.nhk.or.jp/archives/chronicle/>　NHKクロニクルのNHK番組表ヒストリー\]で確認。
 
 ### 通常放送時間
 
@@ -340,7 +340,7 @@
   - \[<https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010147_00000>　大河ドラマ　天と地と　- NHK名作選(動画・静止画) NHKアーカイブス\]
   - \[<https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga023>　番組エピソード　大河ドラマ『天と地と』-NHKアーカイブス\]
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:1969年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1969年のテレビドラマ "wikilink") [Category:NHK新潟](https://ja.wikipedia.org/wiki/Category:NHK新潟 "wikilink") [Category:戦国時代_(日本)を舞台とした作品](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台とした作品 "wikilink") [Category:武田信玄を題材とした作品](https://ja.wikipedia.org/wiki/Category:武田信玄を題材とした作品 "wikilink") [Category:上杉謙信](https://ja.wikipedia.org/wiki/Category:上杉謙信 "wikilink") [Category:海音寺潮五郎](https://ja.wikipedia.org/wiki/Category:海音寺潮五郎 "wikilink") [Category:石坂浩二](https://ja.wikipedia.org/wiki/Category:石坂浩二 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:1969年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1969年のテレビドラマ "wikilink") [Category:NHK新潟](https://ja.wikipedia.org/wiki/Category:NHK新潟 "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:武田信玄を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:武田信玄を題材としたテレビドラマ "wikilink") [Category:上杉謙信](https://ja.wikipedia.org/wiki/Category:上杉謙信 "wikilink") [Category:海音寺潮五郎](https://ja.wikipedia.org/wiki/Category:海音寺潮五郎 "wikilink") [Category:石坂浩二](https://ja.wikipedia.org/wiki/Category:石坂浩二 "wikilink")
 
 1.
 2.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

@@ -34,6 +34,7 @@
 ### 歴代パーソナリティ
 
   - [三井ゆり](../Page/三井ゆり.md "wikilink")
+  - [畑中秀哉](../Page/畑中秀哉.md "wikilink")☆
   - [山内宏明](../Page/山内宏明.md "wikilink")☆
   - [師岡正雄](../Page/師岡正雄.md "wikilink")☆
   - [垣花正](../Page/垣花正.md "wikilink")☆

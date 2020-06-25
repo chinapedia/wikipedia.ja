@@ -1151,7 +1151,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
   -
     クリス・ペプラー
-    [OTOAJITO](https://ja.wikipedia.org/wiki/OTOAJITO "wikilink")の特別版として放送
+    [OTOAJITO](../Page/OTOAJITO.md "wikilink")の特別版として放送
 
 <!-- end list -->
 
@@ -1651,7 +1651,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 <!-- end list -->
 
-  - 12月23日 [OTOAJITO OTOUTAGE](https://ja.wikipedia.org/wiki/OTOAJITO "wikilink") (18:00-19:55)
+  - 12月23日 [OTOAJITO OTOUTAGE](../Page/OTOAJITO.md "wikilink") (18:00-19:55)
 
 <!-- end list -->
 

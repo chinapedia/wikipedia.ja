@@ -143,7 +143,7 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <td><p><a href="https://ja.wikipedia.org/wiki/クリス・ヴァイス" title="wikilink">クリス・ヴァイス</a></p></td>
 <td><p>第27代</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハートリー・ジャクソン" title="wikilink">ハートリー・ジャクソン</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NWAユナイテッド・ナショナル・ヘビー級王座" title="wikilink">NWA UNヘビー級王座</a></p></td>

@@ -1,7 +1,9 @@
 > この記事は[Missing \(小説\)](https://ja.wikipedia.org/wiki/Missing_\(小説\))から翻訳されています。
 
 
-『**Missing**』（ミッシング）は、[甲田学人](../Page/甲田学人.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[翠川しん](https://ja.wikipedia.org/wiki/翠川しん "wikilink")。[電撃文庫](../Page/電撃文庫.md "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）より、[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")にかけて刊行された。番外編として『夜魔』が刊行されている。
+『**Missing**』（ミッシング）は、[甲田学人](../Page/甲田学人.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[翠川しん](https://ja.wikipedia.org/wiki/翠川しん "wikilink")。[電撃文庫](../Page/電撃文庫.md "wikilink")（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）より、[2001年](../Page/2001年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")にかけて刊行された。[2020年](../Page/2020年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")より[メディアワークス文庫](https://ja.wikipedia.org/wiki/メディアワークス文庫 "wikilink")より復刊している。復刊の表紙絵は花邑まい。
+
+番外編として『夜魔』が刊行されている。
 
 「神隠しの物語」のみ[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")で[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")、連載されている。また、ラジオ番組「[電撃大賞](../Page/電撃大賞.md "wikilink")」で放送された[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")のCDも発売されている。
 
@@ -189,9 +191,10 @@
 
 ## 既刊一覧
 
-本編（[電撃文庫](../Page/電撃文庫.md "wikilink")：全13巻）
+本編（[電撃文庫](../Page/電撃文庫.md "wikilink")：全13巻、挿絵：[翠川しん](https://ja.wikipedia.org/wiki/翠川しん "wikilink")/[メディアワークス文庫](https://ja.wikipedia.org/wiki/メディアワークス文庫 "wikilink")：既刊1巻、表紙絵：花邑まい）
 
   - Missing　神隠しの物語　ISBN 4-8402-1866-8 2001年7月25日 初版発行
+      - 【メディアワークス文庫版】ISBN 978-4-0491-3081-2 2020年5月23日 初版発売
   - Missing 2　呪いの物語　ISBN 4-8402-1946-X 2001年10月25日 初版発行
   - Missing 3　首くくりの物語　ISBN 4-8402-2010-7 2002年1月25日 初版発行
   - Missing 4　首くくりの物語・完結編　ISBN 4-8402-2061-1 2002年3月25日 初版発行
@@ -205,11 +208,11 @@
   - Missing 12　神降ろしの物語　ISBN 4-8402-2996-1 2005年3月25日 初版発行
   - Missing 13　神降ろしの物語・完結編　ISBN 4-8402-3038-2 2005年6月25日 初版発行
 
-番外編
+番外編（[電撃の単行本](https://ja.wikipedia.org/wiki/電撃文庫#電撃の単行本 "wikilink")：全1巻/電撃文庫・メディアワークス文庫：合計 全2巻、挿絵（電撃文庫）：[三日月かける](https://ja.wikipedia.org/wiki/三日月かける "wikilink")）
 
-  - 夜魔　ISBN 4-8402-3249-0　　　（[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）
-  - 夜魔　奇　ISBN 4-04-868277-6 2010年1月 初版発行　　（[電撃文庫](../Page/電撃文庫.md "wikilink")）
-  - 夜魔　怪　ISBN 4-04-868287-3 2010年1月 初版発行　　（[メディアワークス文庫](https://ja.wikipedia.org/wiki/メディアワークス文庫 "wikilink")）
+  - 夜魔　ISBN 4-8402-3249-0　2005年11月 初版発行
+      - 【分冊・電撃文庫版】 夜魔　奇　ISBN 4-04-868277-6 2010年1月 初版発行
+      - 【分冊・メディアワークス文庫版】 夜魔　怪　ISBN 4-04-868287-3 2010年1月 初版発行
 
 ## 漫画
 

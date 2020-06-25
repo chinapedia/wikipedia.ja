@@ -1,7 +1,7 @@
 > この記事は[市井紗耶香 in CUBIC-CROSS](https://ja.wikipedia.org/wiki/市井紗耶香_in_CUBIC-CROSS)から翻訳されています。
 
 
-**市井紗耶香 in CUBIC-CROSS**（いちい さやか・イン・キュービック・クロス）は、日本の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ「[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")」の元メンバー[市井紗耶香](../Page/市井紗耶香.md "wikilink")を中心に結成された[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2003年](../Page/2003年.md "wikilink")に解散した。
+**市井紗耶香 in CUBIC-CROSS**（いちい さやか・イン・キュービック・クロス）は、日本の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ「[モーニング娘。](../Page/モーニング娘。.md "wikilink")」の元メンバー[市井紗耶香](../Page/市井紗耶香.md "wikilink")を中心に結成された[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2003年](../Page/2003年.md "wikilink")に解散した。
 
 ## メンバー
 

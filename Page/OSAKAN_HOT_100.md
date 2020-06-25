@@ -12,7 +12,7 @@
 現在は以下の3つを集計し、ランキングを作る。
 
 1.  FM802でのオンエア回数を基にした**オンエア・ポイント**\[2\]
-2.  [TOWER RECORDS全店](https://ja.wikipedia.org/wiki/TOWER_RECORDS "wikilink") (2016年12月25日付まで 梅田大阪マルビル店のみ→2017年1月1日付から 全国83店舗すべてを集計の対象に)、[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")戎橋店(2018年5月13日付より梅田堂山店閉店により対象店舗の変更)、[HMV](../Page/HMV.md "wikilink") SPOT あべのキューズモール店でのアルバム売上を基にした**アルバムセールス・ポイント**\[3\]
+2.  [TOWER RECORDS全店](https://ja.wikipedia.org/wiki/TOWER_RECORDS "wikilink") (2016年12月25日付まで 梅田大阪マルビル店のみ→2017年1月1日付から 全国83店舗すべてを集計の対象に)、[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")戎橋店(2018年5月13日付より梅田堂山店閉店により対象店舗の変更)、[HMV](../Page/HMV.md "wikilink") SPOT あべのキューズモール店でのアルバム売上を基にした**アルバムセールス・ポイント**\[3\] ※新型コロナウィルスによる緊急事態宣言等の影響で店舗が閉店していたことから2020年4月 - 5月24日付けまで一旦集計対象から外していた。
 3.  [レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")（「レコチョク ランキング」「レコチョク 洋楽総合」）の[ダウンロード売上を基にした](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")**デジタルセールス・ポイント**（2008年10月12日付から新たに加算ポイントとして追加）
 
 <!-- end list -->

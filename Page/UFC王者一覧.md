@@ -1097,12 +1097,19 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘンリー・セフード" title="wikilink">ヘンリー・セフード</a></p></td>
-<td><p>2019年6月8日 - 現在</p></td>
+<td><p>2019年6月8日 - 2020年5月24日</p></td>
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マルロン・モラエス" title="wikilink">マルロン・モラエス</a>との王座決定戦により獲得<br />
-○ ドミニク・クルーズ（<a href="https://ja.wikipedia.org/wiki/UFC_249" title="wikilink">UFC 249</a>）</p></td>
+○ ドミニク・クルーズ（<a href="../Page/UFC_249.md" title="wikilink">UFC 249</a>）</p></td>
 </tr>
 <tr class="even">
+<td><p>-</p></td>
+<td><p>空位</p></td>
+<td><p>2020年5月24日 - 現在</p></td>
+<td><p>-</p></td>
+<td><p>セフードの王座返上により空位</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

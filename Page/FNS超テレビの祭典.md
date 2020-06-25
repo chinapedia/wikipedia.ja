@@ -19,7 +19,7 @@
 
   - ビートたけし
   - 所ジョージ
-  - 中居正広（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、1996年秋のみ）
+  - 中居正広（[SMAP](../Page/SMAP.md "wikilink")、1996年秋のみ）
   - [福井謙二](../Page/福井謙二.md "wikilink")（当時フジテレビ[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、『料理の鉄人』コーナーの実況も兼任）
   - [八木亜希子](../Page/八木亜希子.md "wikilink")（当時フジテレビアナウンサー、1996年春のみ）
   - [小島奈津子](https://ja.wikipedia.org/wiki/小島奈津子 "wikilink")（当時フジテレビアナウンサー、1996年秋のみ）

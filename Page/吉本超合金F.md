@@ -42,7 +42,7 @@
   - [ハリガネロック](../Page/ハリガネロック.md "wikilink")
   - [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")
   - [ますだおかだ](../Page/ますだおかだ.md "wikilink")
-  - [スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink")（コンビを解散して土肥のピンでの出演もあり）
+  - [スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink") - コンビを解散して土肥のピンでの出演もあり
   - [2丁拳銃](../Page/2丁拳銃.md "wikilink")
   - [ロザン](../Page/ロザン.md "wikilink")
   - [なかやまきんに君](../Page/なかやまきんに君.md "wikilink")
@@ -68,7 +68,7 @@
   - [中田ボタン](https://ja.wikipedia.org/wiki/中田ボタン "wikilink")
   - [月亭八方](../Page/月亭八方.md "wikilink")
   - [大木こだまひびき](https://ja.wikipedia.org/wiki/大木こだまひびき "wikilink")
-  - [岩尾望](../Page/岩尾望.md "wikilink")（[フットボールアワー](../Page/フットボールアワー.md "wikilink")）
+  - [フットボールアワー](../Page/フットボールアワー.md "wikilink") - 岩尾のみでの出演もあり。
   - [後藤秀樹](../Page/後藤秀樹.md "wikilink")
   - [中川剛](https://ja.wikipedia.org/wiki/中川剛_\(お笑い芸人\) "wikilink")（[中川家](../Page/中川家.md "wikilink")）
   - FUCKブラザーズ

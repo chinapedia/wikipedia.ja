@@ -1,7 +1,7 @@
 > この記事は[さんま\&SMAP!美女と野獣のクリスマススペシャル](https://ja.wikipedia.org/wiki/さんま\&SMAP!美女と野獣のクリスマススペシャル)から翻訳されています。
 
 
-『**さんま\&SMAP\!美女と野獣のクリスマススペシャル**』（さんまアンドスマップ\!びじょとやじゅうのクリスマススペシャル）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で](../Page/日本テレビネットワーク協議会.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2015年](../Page/2015年.md "wikilink")まで[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の[クリスマス](../Page/クリスマス.md "wikilink")期間に[日本テレビGスタジオから](../Page/日本テレビ放送網麹町分室.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた[特別](../Page/特別番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[明石家さんま](../Page/明石家さんま.md "wikilink")と[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもあった。
+『**さんま\&SMAP\!美女と野獣のクリスマススペシャル**』（さんまアンドスマップ\!びじょとやじゅうのクリスマススペシャル）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で](../Page/日本テレビネットワーク協議会.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2015年](../Page/2015年.md "wikilink")まで[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の[クリスマス](../Page/クリスマス.md "wikilink")期間に[日本テレビGスタジオから](../Page/日本テレビ放送網麹町分室.md "wikilink")[生放送](../Page/生放送.md "wikilink")されていた[特別](../Page/特別番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[明石家さんま](../Page/明石家さんま.md "wikilink")と[SMAP](../Page/SMAP.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもあった。
 
 通称は『**さんま\&SMAP\!**』、『**さんスマ**』。
 
@@ -89,7 +89,7 @@
 ### 司会
 
   - [明石家さんま](../Page/明石家さんま.md "wikilink")
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
       - [中居正広](../Page/中居正広.md "wikilink")
       - [木村拓哉](../Page/木村拓哉.md "wikilink")
       - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")

@@ -122,7 +122,7 @@
       - 1999年3月 - 1999年9月は金曜com（26:30 - 27:00）を担当。
   - [プロデューサーズナイト](https://ja.wikipedia.org/wiki/プロデューサーズナイト "wikilink")（月1回持ち回り制）/1999年3月 - 2000年9月
     1.  [松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")/1999年3月 - 2000年9月
-    2.  [和田薫](../Page/和田薫_\(芸能事務所社長\).md "wikilink")（当時[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")マネージャー、現[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink")代表取締役社長）/1999年3月 - 2000年9月
+    2.  [和田薫](../Page/和田薫_\(芸能事務所社長\).md "wikilink")（当時[モーニング娘。](../Page/モーニング娘。.md "wikilink")マネージャー、現[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink")代表取締役社長）/1999年3月 - 2000年9月
     3.  [ヒロ吉田](../Page/吉田たかよし.md "wikilink")（[キューンレコード](../Page/キューンミュージック.md "wikilink")）/1999年3月 - 1999年9月
     4.  [中西建夫](https://ja.wikipedia.org/wiki/中西建夫 "wikilink")（[ディスクガレージ](https://ja.wikipedia.org/wiki/ディスクガレージ "wikilink")）/1999年3月 - 2000年9月
   - [ビビる](../Page/ビビる.md "wikilink")/2000年10月 - 2001年9月
@@ -1996,7 +1996,7 @@ ONLY ONE</a></p></th>
 | nowrap|番外編           | nowrap|2018年秋 | nowrap colspan=4|10周年スペシャル（MC / 東貴博・いとうあさこ）                                 |                                                                                              |                    |
 | nowrap|第20回          | nowrap|2019年春 | nowrap|[EXIT](https://ja.wikipedia.org/wiki/EXIT_\(お笑いコンビ\) "wikilink")     | nowrap|よしもとクリエイティブ・エージェンシー東京                                                                 | nowrap|2019年6月8日   |
 | nowrap|第21回          | nowrap|2019年秋 | nowrap|[スタンダップコーギー](https://ja.wikipedia.org/wiki/スタンダップコーギー "wikilink")    | nowrap|マセキ芸能社                                                                                | nowrap|2019年12月28日 |
-| nowrap|第22回          | nowrap|2020年春 | nowrap|[鬼越トマホーク](https://ja.wikipedia.org/wiki/鬼越トマホーク "wikilink")          | nowrap|[吉本興業ホールディングス](https://ja.wikipedia.org/wiki/吉本興業ホールディングス "wikilink")                 | nowrap|            |
+| nowrap|第22回          | nowrap|2020年春 | nowrap|[鬼越トマホーク](https://ja.wikipedia.org/wiki/鬼越トマホーク "wikilink")          | nowrap|[吉本興業ホールディングス](https://ja.wikipedia.org/wiki/吉本興業ホールディングス "wikilink")                 | nowrap|2020年5月23日  |
 
 歴代優勝者
 

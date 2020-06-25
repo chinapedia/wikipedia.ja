@@ -3,7 +3,7 @@
 
 **トッテナム・ホットスパー・フットボール・クラブ**（**Tottenham Hotspur Football Club**、: ）は、[イングランド](../Page/イングランド.md "wikilink")の首都[ロンドン](../Page/ロンドン.md "wikilink")北部をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。トットナム・ホットスパーと表記されることもある。愛称は**スパーズ**（Spurs）。
 
-クラブ名の「ホットスパー」とは、を[英国貴族](https://ja.wikipedia.org/wiki/世襲貴族 "wikilink")[パーシー家](https://ja.wikipedia.org/wiki/パーシー家 "wikilink")が所有していたことから同家の祖先である中世イングランドの騎士[ヘンリー・パーシーのあだ名](../Page/ヘンリー・パーシー_\(ホットスパー\).md "wikilink")「ホットスパー\[1\]」から取ったものである\[2\]。クラブカラーは[白](../Page/白.md "wikilink")と[青](../Page/青.md "wikilink")。クラブの[モットー](https://ja.wikipedia.org/wiki/モットー "wikilink")は[ラテン語](../Page/ラテン語.md "wikilink")で「*Audere est Facere*（英語訳「**To Dare Is to Do**」）」。
+クラブ名の「ホットスパー」とは、を[英国貴族](https://ja.wikipedia.org/wiki/世襲貴族 "wikilink")[パーシー家](../Page/パーシー家.md "wikilink")が所有していたことから同家の祖先である中世イングランドの騎士[ヘンリー・パーシーのあだ名](../Page/ヘンリー・パーシー_\(ホットスパー\).md "wikilink")「ホットスパー\[1\]」から取ったものである\[2\]。クラブカラーは[白](../Page/白.md "wikilink")と[青](../Page/青.md "wikilink")。クラブの[モットー](https://ja.wikipedia.org/wiki/モットー "wikilink")は[ラテン語](../Page/ラテン語.md "wikilink")で「*Audere est Facere*（英語訳「**To Dare Is to Do**」）」。
 
 ## 概要
 
@@ -95,7 +95,7 @@
 
 #### 2019-20シーズン
 
-[タンギ・エンドンベレ](https://ja.wikipedia.org/wiki/タンギ・エンドンベレ "wikilink")、[ジオヴァニ・ロ・チェルソ](https://ja.wikipedia.org/wiki/ジオヴァニ・ロ・チェルソ "wikilink")などを獲得した。[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")への移籍が取り沙汰されていたエリクセンは残留した。前年以上の成績が期待されたが、リーグ戦では12節終了時点で3勝5分4敗の14位に沈み、[チャンピオンズリーグ](https://ja.wikipedia.org/wiki/チャンピオンズリーグ "wikilink")では[バイエルンにホームで](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")2-7で敗れるなど不調に陥った。11月19日、[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")監督が解任され\[14\]、後任に[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")が就任した\[15\]｡モウリーニョ監督の初戦となったウェストハム戦は3-2でアウェイで勝利した。そして、チャンピオンズリーグのオリンピアコス戦では2点を先制されるも、4点とって逆転勝利して、トッテナムでのチャンピオンズリーグ初勝利をおさめた。冬の移籍市場では、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")から[ジェドソン・フェルナンデス](https://ja.wikipedia.org/wiki/ジェドソン・フェルナンデス "wikilink")、PSVから[ステーフェン・ベルフワイン](https://ja.wikipedia.org/wiki/ステーフェン・ベルフワイン "wikilink")を獲得し、レンタル加入していたロ・チェルソを完全移籍で獲得した。一方で、エリクセンはインテル・ミラノに完全移籍、ダニー・ローズがニューカッスル・ユナイテッドに、カイル・ウォーカー・ピータースがサウサンプトンにレンタル移籍した。
+[タンギ・エンドンベレ](https://ja.wikipedia.org/wiki/タンギ・エンドンベレ "wikilink")、[ジオヴァニ・ロ・チェルソ](https://ja.wikipedia.org/wiki/ジオヴァニ・ロ・チェルソ "wikilink")などを獲得した。[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")への移籍が取り沙汰されていたエリクセンは残留した。前年以上の成績が期待されたが、リーグ戦では12節終了時点で3勝5分4敗の14位に沈み、[チャンピオンズリーグ](https://ja.wikipedia.org/wiki/チャンピオンズリーグ "wikilink")では[バイエルンにホームで](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")2-7で敗れるなど不調に陥った。11月19日、[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")監督が解任され\[14\]、後任に[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")が就任した\[15\]｡モウリーニョ監督の初戦となったウェストハム戦は3-2でアウェイで勝利した。そして、チャンピオンズリーグのオリンピアコス戦では2点を先制されるも、4点とって逆転勝利して、トッテナムでのチャンピオンズリーグ初勝利をおさめた。冬の移籍市場では、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")から[ジェドソン・フェルナンデス](https://ja.wikipedia.org/wiki/ジェドソン・フェルナンデス "wikilink")、PSVから[ステーフェン・ベルフワイン](https://ja.wikipedia.org/wiki/ステーフェン・ベルフワイン "wikilink")を獲得し、レンタル加入していたロ・チェルソを完全移籍で獲得した。一方で、エリクセンはインテル・ミラノに完全移籍、ダニー・ローズがニューカッスル・ユナイテッドに、カイル・ウォーカー・ピータースがサウサンプトンにレンタル移籍した。 そして、チャンピオンズリーグは、決勝ラウンド進出を5節で決め、決勝ラウンドは､ラウンド16で、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")に、アグリゲートスコア、0-4で、敗退が決定した。[FAカップ](../Page/FAカップ.md "wikilink")は、5回戦で、[ノリッジ・シティにPK戦で敗れた](../Page/ノリッジ・シティFC.md "wikilink")。
 
 ## ユニフォーム
 

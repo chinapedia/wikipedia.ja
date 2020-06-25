@@ -58,7 +58,7 @@
 
 1.  [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")「掌」（19回）
 2.  [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「虹」（12回）
-3.  [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」・[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「雪の華」・[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")「ロコローション」（11回）
+3.  [SMAP](../Page/SMAP.md "wikilink")「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」・[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「雪の華」・[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")「ロコローション」（11回）
 
 ### 最長連覇記録
 

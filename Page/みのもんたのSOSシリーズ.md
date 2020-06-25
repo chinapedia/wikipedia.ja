@@ -56,8 +56,8 @@
 
 ## 外部リンク
 
-  - [危機一髪\!SOS](http://www.fujitv.co.jp/b_hp/kikisos/index.html)
-  - [奇跡の脱出\!SOS](http://www.fujitv.co.jp/b_hp/kisekisos/index.html)
+  - [危機一髪\!SOS](https://www.fujitv.co.jp/b_hp/kikisos/index.html)
+  - [奇跡の脱出\!SOS](https://www.fujitv.co.jp/b_hp/kisekisos/index.html)
 
 ## 関連項目
 

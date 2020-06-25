@@ -268,7 +268,7 @@ acid androidが企画するオールナイトイベント。[2001年](../Page/20
 
 **[2020年](../Page/2020年.md "wikilink")**
 
-  - [5月30日](../Page/5月30日.md "wikilink") - [6月27日](../Page/6月27日.md "wikilink")、ライブツアー「ACID ANDROID LIVE 2020」を開催\[34\]。新型コロナウイルス感染症の拡大に絡み、4月21日に全公演延期が発表された。
+  - [10月17日](../Page/10月17日.md "wikilink") - [11月30日](../Page/11月30日.md "wikilink")、ライブツアー「ACID ANDROID LIVE 2020」を開催予定\[34\]。当初同年5月30日より開催される予定だったが、[新型コロナウイルス感染症の拡大に絡み](../Page/2019新型コロナウイルス.md "wikilink")、4月21日に全公演延期が発表された。
 
 ## 作品
 
@@ -797,20 +797,21 @@ BananaHall（#2）<br />
 HEAVEN'S ROCK 熊谷（#2）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a> - <a href="../Page/6月27日.md" title="wikilink">6月27日</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a> - <a href="../Page/11月30日.md" title="wikilink">11月30日</a></p></td>
 <td><p>ライブツアー</p></td>
 <td><p>ACID ANDROID LIVE 2020</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead" style="text-align:center;">
-<p>全5都市5公演（延期）</p>
+<p>全5都市5公演</p>
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>BananaHall（#1）<br />
-CLUB UPSET（#1）<br />
-HEAVEN'S ROCK 宇都宮 VJ-2（#1）<br />
 GOLDEN PIGS BLACK STAGE（#1）<br />
 LIVE HOUSE J（#1）<br />
-DRUM SON（#1）Veats shibuya（#1）</p></td>
+HEAVEN'S ROCK 宇都宮 VJ-2（#1）<br />
+CLUB UPSET（#1）<br />
+DRUM SON（#1）<br />
+Veats shibuya（#1）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1194,6 +1195,18 @@ yukihiro</p></td>
 </tr>
 </tbody>
 </table>
+
+## ミュージック・ビデオ
+
+|                                                         |                                                                                                                         |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                  | **曲名**                                                                                                                  |
+| [井上卓](https://ja.wikipedia.org/wiki/井上卓 "wikilink")     | 「faults feat.toni halliday」                                                                                             |
+| [大久保拓朗](https://ja.wikipedia.org/wiki/大久保拓朗 "wikilink") | 「[roses](https://www.youtube.com/watch?v=KkeH0PgLm3E)」                                                                  |
+| 奥和義                                                     | 「let's dance」                                                                                                           |
+| 近藤廣行                                                    | 「[violator:1.02](https://www.youtube.com/watch?v=grHT7vGG_qM)」「[violator](https://www.youtube.com/watch?v=J35CbhMhctI)」 |
+| ムラカミタツヤ                                                 | 「[violent parade](https://www.youtube.com/watch?v=jbE9IjNgUnE)」                                                         |
+|                                                         |                                                                                                                         |
 
 ## 脚注
 

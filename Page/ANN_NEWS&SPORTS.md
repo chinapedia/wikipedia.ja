@@ -73,18 +73,19 @@
 
 すべて[日本時間で表す](../Page/日本標準時.md "wikilink")。
 
-| 期間        | 土曜版(日曜未明に放送) | 日曜版(月曜未明に放送)     |
-| --------- | ------------ | ---------------- |
-| 2001.4.8  | 2002.3.31    | 0:00 - 0:30（30分） |
-| 2002.4.7  | 2006.3.27    | 0:00 - 0:25（25分） |
-| 2006.4.2  | 2010.3.29    | 0:15 - 0:40（25分） |
-| 2010.4.4  | 2011.10.3    | 0:30 - 0:55（25分） |
-| 2011.10.9 | 2012.10.1    | 0:45 - 1:10（25分） |
-| 2012.10.8 | 2016.12.26   | （放送なし）           |
-| 2017.1.8  | 2017.4.17    | 0:15 - 0:35（20分） |
-| 2018.4.2  | 2019.9.30    | （放送なし）           |
-| 2019.10.7 | 2020.3.30    | 0:45 - 0:59（14分） |
-| 2020.4.6  | 現在           | 0:25 - 0:40（15分） |
+| 期間        | 土曜版(日曜未明に放送) | 日曜版(月曜未明に放送)                                                  |
+| --------- | ------------ | ------------------------------------------------------------- |
+| 2001.4.8  | 2002.3.31    | 0:00 - 0:30（30分）                                              |
+| 2002.4.7  | 2006.3.27    | 0:00 - 0:25（25分）                                              |
+| 2006.4.2  | 2010.3.29    | 0:15 - 0:40（25分）                                              |
+| 2010.4.4  | 2011.10.3    | 0:30 - 0:55（25分）                                              |
+| 2011.10.9 | 2012.10.1    | 0:45 - 1:10（25分）                                              |
+| 2012.10.8 | 2016.12.26   | （放送なし）                                                        |
+| 2017.1.8  | 2017.4.17    | 0:15 - 0:35（20分）                                              |
+| 2017.4.22 | 2018.3.25    | （放送なし）                                                        |
+| 2018.4.2  | 2019.9.30    | （[放送なし](https://ja.wikipedia.org/wiki/サタデーステーション "wikilink")） |
+| 2019.10.7 | 2020.3.30    | 0:45 - 0:59（14分）                                              |
+| 2020.4.6  | 現在           | 0:25 - 0:40（15分）                                              |
 
 「ANN NEWS\&SPORTS」放送時間の変遷
 
@@ -115,6 +116,28 @@
   -
     月曜未明の「日曜版」第1期より再起用。同日の『GET SPORTS』を兼務。
 
+<!-- end list -->
+
+  - 取材担当
+
+<!-- end list -->
+
+  - [山木翔遥](https://ja.wikipedia.org/wiki/山木翔遥 "wikilink")（2020年4月6日 - ）
+
+<!-- end list -->
+
+  -
+    同日の『GET SPORTS』を兼務。
+
+<!-- end list -->
+
+  - [山崎弘喜](https://ja.wikipedia.org/wiki/山崎弘喜 "wikilink")（2020年4月6日 - ）
+
+<!-- end list -->
+
+  -
+    同日の『GET SPORTS』を兼務。
+
 ## 過去の出演者
 
 <table>
@@ -130,119 +153,131 @@
 <tbody>
 <tr class="odd">
 <td><p>土曜日</p></td>
-<td><p>日曜日<sup>1</sup></p></td>
-<td><p>土曜日</p></td>
 <td><p>日曜日</p></td>
+<td><p>土曜日</p></td>
+<td><p>日曜日<sup>1</sup></p></td>
 </tr>
 <tr class="even">
-<td><p>2001.04.08</p></td>
-<td><p>2001.12</p></td>
-<td><p><a href="../Page/小松靖.md" title="wikilink">小松靖</a><sup>2・3</sup></p></td>
-<td><p><a href="../Page/岡田洋子.md" title="wikilink">岡田洋子</a><sup>4</sup></p></td>
+<td><p>男性</p></td>
+<td><p>女性</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>2001.04.08</p></td>
+<td><p>2001.12</p></td>
+<td><p><a href="../Page/小松靖.md" title="wikilink">小松靖</a><sup>2</sup></p></td>
+<td><p><a href="../Page/岡田洋子.md" title="wikilink">岡田洋子</a></p></td>
+</tr>
+<tr class="even">
 <td><p>2002.01</p></td>
 <td><p>2002.03.31</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松並健治" title="wikilink">松並健治</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2002.04.07</p></td>
 <td><p>2003.03.31</p></td>
-<td><p><a href="../Page/田原浩史.md" title="wikilink">田原浩史</a><sup>3</sup></p></td>
-<td><p><a href="../Page/富川悠太.md" title="wikilink">富川悠太</a></p></td>
+<td><p><a href="../Page/田原浩史.md" title="wikilink">田原浩史</a></p></td>
+<td><p>岡田洋子</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2003.04.06</p></td>
 <td><p>2003.09.29</p></td>
 <td><p><a href="../Page/櫻井健介.md" title="wikilink">櫻井健介</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2003.10.05</p></td>
 <td><p>2005.03.28</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大木優紀" title="wikilink">大木優紀</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005.04.03</p></td>
 <td><p>2006.03.27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/野村真季" title="wikilink">野村真季</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006.04.01</p></td>
 <td><p>2008.03.31</p></td>
 <td><p>萩野志保子</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/久保田直子" title="wikilink">久保田直子</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008.04.06</p></td>
 <td><p>2008.06.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長島三奈" title="wikilink">長島三奈</a><sup>6</sup></p></td>
-<td><p>櫻井健介<sup>7</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/長島三奈" title="wikilink">長島三奈</a><sup>4</sup></p></td>
+<td><p>櫻井健介<sup>5</sup></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008.07.06</p></td>
 <td><p>2008.09.29</p></td>
 <td><p><a href="../Page/加藤泰平.md" title="wikilink">加藤泰平</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008.10.05</p></td>
 <td><p>2009.03.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本間智恵" title="wikilink">本間智恵</a><sup>8</sup><br />
-<a href="https://ja.wikipedia.org/wiki/八木麻紗子" title="wikilink">八木麻紗子</a><sup>8</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/本間智恵" title="wikilink">本間智恵</a><sup>6</sup><br />
+<a href="https://ja.wikipedia.org/wiki/八木麻紗子" title="wikilink">八木麻紗子</a><sup>6</sup></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009.04.05</p></td>
 <td><p>2011.04.04</p></td>
 <td><p><a href="../Page/大西洋平_(アナウンサー).md" title="wikilink">大西洋平</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011.04.10</p></td>
 <td><p>2012.10.01</p></td>
 <td><p>加藤泰平</p></td>
-<td><p>本間智恵<sup>8</sup><br />
-<a href="https://ja.wikipedia.org/wiki/竹内由恵" title="wikilink">竹内由恵</a><sup>8</sup></p></td>
-</tr>
-<tr class="even">
-<td><p>2012.10.07</p></td>
-<td><p>2013.04.01</p></td>
-<td><p>萩野志保子</p></td>
-<td><p>（放送なし）</p></td>
+<td><p>本間智恵<sup>6</sup><br />
+<a href="https://ja.wikipedia.org/wiki/竹内由恵" title="wikilink">竹内由恵</a><sup>6</sup></p></td>
 </tr>
 <tr class="odd">
+<td><p>2012.10.07</p></td>
+<td><p>2013.04.01</p></td>
+<td><p>（放送なし）</p></td>
+<td><p>萩野志保子</p></td>
+</tr>
+<tr class="even">
 <td><p>2013.04.08</p></td>
 <td><p>2013.11.11</p></td>
 <td><p>本間智恵</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三上大樹" title="wikilink">三上大樹</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013.11.18</p></td>
 <td><p>2015.06.29</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/村上祐子_(テレビ朝日)" title="wikilink">村上祐子</a><sup>7</sup></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2015.07.06</p></td>
-<td><p>2016.12.26</p></td>
-<td><p><a href="../Page/上山千穂.md" title="wikilink">上山千穂</a><sup>9</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/村上祐子_(テレビ朝日)" title="wikilink">村上祐子</a><sup>5</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2017.01.08</p></td>
-<td><p>2017.04.17</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山崎弘喜" title="wikilink">山崎弘喜</a></p></td>
-<td><p>（シフト勤務）</p></td>
+<td><p>2015.07.06</p></td>
+<td><p>2016.12.26</p></td>
+<td><p><a href="../Page/上山千穂.md" title="wikilink">上山千穂</a><sup>6</sup></p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2018.04.02</p></td>
-<td><p>2020.03.30</p></td>
+<td><p>2017.01.08</p></td>
+<td><p>2017.04.17</p></td>
+<td><p>（不在）</p></td>
+<td><p>上山千穂</p></td>
+</tr>
+<tr class="even">
+<td><p>2017.04.22</p></td>
+<td><p>2018.03.25</p></td>
 <td><p>（放送なし）</p></td>
-<td><p>三上大樹</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018.04.01</p></td>
+<td><p>2020.03.30</p></td>
+<td><p>（<a href="https://ja.wikipedia.org/wiki/サタデーステーション" title="wikilink">放送なし</a>）</p></td>
+<td><p>上山千穂</p></td>
 </tr>
 <tr class="even">
 <td><p>2020.04.06</p></td>
@@ -251,19 +286,21 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><small></p>
+<td><p><br />
+<small></p>
 <ul>
 <li><sup>1</sup>　一部地域においての内包番組『<a href="../Page/GET_SPORTS.md" title="wikilink">GET SPORTS</a>』本編を兼務。</li>
 <li><sup>2</sup>　土曜最終の『ANNニュース』から続投。</li>
-<li><sup>3</sup>　土曜版のみ担当。</li>
-<li><sup>4</sup>　2002年4月から両曜日を担当。</li>
-<li><sup>5</sup>　『<a href="../Page/速報!スポーツCUBE.md" title="wikilink">速報!スポーツCUBE</a>』から続投。</li>
-<li><sup>6</sup>　『<a href="https://ja.wikipedia.org/wiki/ポータル_ANNニュース&amp;スポーツ" title="wikilink">ポータル ANNニュース&amp;スポーツ</a>』も続投。</li>
-<li><sup>7</sup>　人事異動のため改編期を待たずに降板。</li>
-<li><sup>8</sup>　交代で担当（稀に一緒に出演する場合もある）。</li>
-<li><sup>9</sup>　土曜日は『TOKYO応援宣言』から続投。『<a href="https://ja.wikipedia.org/wiki/スーパーJチャンネル" title="wikilink">スーパーJチャンネル</a>』（土曜版）および『ANNニュース・あすの空もよう』（2017年4月8日まで）を兼務。</li>
+<li><sup>3</sup>　『<a href="../Page/速報!スポーツCUBE.md" title="wikilink">速報!スポーツCUBE</a>』から続投。</li>
+<li><sup>4</sup>　『<a href="https://ja.wikipedia.org/wiki/ポータル_ANNニュース&amp;スポーツ" title="wikilink">ポータル ANNニュース&amp;スポーツ</a>』も続投。</li>
+<li><sup>5</sup>　人事異動のため改編期を待たずに降板。</li>
+<li><sup>6</sup>　交代で担当（稀に一緒に出演する場合もある）。</li>
+<li><sup>7</sup>　土曜日は『TOKYO応援宣言』から続投。『<a href="../Page/スーパーJチャンネル.md" title="wikilink">スーパーJチャンネル</a>』（土曜版）および『ANNニュース・あすの空もよう』（2017年4月8日まで）を兼務。</li>
+<li><sup>8</sup>　</li>
+<li><sup>9</sup>　</li>
 </ul>
-<p></small></p></td>
+<p><br />
+</small></p></td>
 <td></td>
 <td></td>
 <td></td>

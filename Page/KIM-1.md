@@ -101,7 +101,7 @@ KIM-1はもう少し複雑なブートストラップ・ローダに相当する
   - [Modern KIM-1 clone website](http://www.brielcomputers.com/micro-KIM.html)
   - [KIM-1 hobbyist's development:](http://nowscape.com/blk/KIM_development.htm) KIM-1とそのクローンの写真
 
-[Category:パーソナルコンピュータ_(製品)](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ_\(製品\) "wikilink") [Category:シングルボードコンピュータ](https://ja.wikipedia.org/wiki/Category:シングルボードコンピュータ "wikilink") [Category:パソコンの歴史](https://ja.wikipedia.org/wiki/Category:パソコンの歴史 "wikilink")
+[Category:第一世代のマイクロコンピュータ](https://ja.wikipedia.org/wiki/Category:第一世代のマイクロコンピュータ "wikilink") [Category:シングルボードコンピュータ](https://ja.wikipedia.org/wiki/Category:シングルボードコンピュータ "wikilink") [Category:パソコンの歴史](https://ja.wikipedia.org/wiki/Category:パソコンの歴史 "wikilink")
 
 1.
 2.

@@ -89,7 +89,7 @@
   - [ドラゴンボールGT](https://ja.wikipedia.org/wiki/ドラゴンボールGT "wikilink")1〜2
   - [ウルトラマンvs仮面ライダー](https://ja.wikipedia.org/wiki/ウルトラマンvs仮面ライダー "wikilink")
   - [動物戦隊ジュウオウジャー](https://ja.wikipedia.org/wiki/動物戦隊ジュウオウジャー "wikilink")
-  - [ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")　01～05
+  - [ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")　01～06
   - HG仮面ライダー 01、NEW01～02
   - HGウルトラマン 01～02
 

@@ -557,7 +557,7 @@ TAKUYA
   - 「[ハイタテキ\!](https://ja.wikipedia.org/wiki/ハイタテキ! "wikilink")」（作曲・共編曲・ギター）（編曲はKeisuke Iizukaと共同）
   - 「[紅の詩](https://ja.wikipedia.org/wiki/エビクラシー "wikilink")」（作詞・作曲・共編曲・コーラス・ギター）（編曲はKeisuke Iizukaと共作）
 
-**[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**
+**[SMAP](../Page/SMAP.md "wikilink")**
 
   - 「[ススメ\!](https://ja.wikipedia.org/wiki/SMAP_016/MIJ "wikilink")」（2003年6月25日）（作曲）
 

@@ -143,7 +143,7 @@ NOVAうさぎのキャラクター商品は、元々NOVAに入会した人だけ
 
   - キャラクター商品の発売から3ヵ月間の売り上げは2億6000万円に達した\[2\]。
   - [CMソング](../Page/コマーシャルソング.md "wikilink")『NOVAうさぎのうた ～いっぱい聞けて、いっぱいしゃべれる～』は[オリコン](../Page/オリコンチャート.md "wikilink")12位を記録した。
-  - CM総合研究所調べによる2003年度のCM好感度ランキングでNOVAうさぎのCMが2位（1位は[サントリー](../Page/サントリー.md "wikilink")「[燃焼系](../Page/燃焼系.md "wikilink")アミノ式」）。同じくCMタレント好感度ランキングでNOVAうさぎが総合3位（1位は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、2位は[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")）。
+  - CM総合研究所調べによる2003年度のCM好感度ランキングでNOVAうさぎのCMが2位（1位は[サントリー](../Page/サントリー.md "wikilink")「[燃焼系](../Page/燃焼系.md "wikilink")アミノ式」）。同じくCMタレント好感度ランキングでNOVAうさぎが総合3位（1位は[SMAP](../Page/SMAP.md "wikilink")、2位は[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")）。
 
 ## 脚注
 

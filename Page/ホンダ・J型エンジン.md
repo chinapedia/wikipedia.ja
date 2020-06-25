@@ -53,7 +53,7 @@ V型6気筒エンジンとしては[C型の後継にあたる](../Page/ホンダ
 
 [Honda_J35A_engine_001.JPG](https://ja.wikipedia.org/wiki/File:Honda_J35A_engine_001.JPG "fig:Honda_J35A_engine_001.JPG")
 
-  - 弁機構：SOHC VTEC ベルト駆動 吸気2 排気2
+  - 弁機構：SOHC VTEC 24バルブ ベルト駆動 吸気2 排気2
   - 排気量：3,471cc
   - 内径×行程：89.0mm×93.0mm
   - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
@@ -114,7 +114,7 @@ V型6気筒エンジンとしては[C型の後継にあたる](../Page/ホンダ
 
 [Honda_J37A_Engine_01.JPG](https://ja.wikipedia.org/wiki/File:Honda_J37A_Engine_01.JPG "fig:Honda_J37A_Engine_01.JPG")
 
-  - 弁機構：SOHC VTEC ベルト駆動 吸気2 排気2
+  - 弁機構：SOHC VTEC 24バルブ ベルト駆動 吸気2 排気2
   - 排気量：3,664cc
   - 内径×行程：90.0mm×96.0mm
   - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
@@ -145,7 +145,7 @@ V型6気筒エンジンとしては[C型の後継にあたる](../Page/ホンダ
 
 [Honda_engine_type_J30A_(Honda_ODYSSEY).jpg](https://ja.wikipedia.org/wiki/File:Honda_engine_type_J30A_\(Honda_ODYSSEY\).jpg "fig:Honda_engine_type_J30A_(Honda_ODYSSEY).jpg")
 
-  - 弁機構：SOHC VTEC ベルト駆動 吸気2 排気2
+  - 弁機構：SOHC VTEC 24バルブ ベルト駆動 吸気2 排気2
   - 排気量：2,997cc
   - 内径×行程：86.0mm×86.0mm
   - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
@@ -159,7 +159,7 @@ V型6気筒エンジンとしては[C型の後継にあたる](../Page/ホンダ
 
 <!-- end list -->
 
-  - 弁機構：SOHC i-VTEC ベルト駆動 吸気2 排気2
+  - 弁機構：SOHC i-VTEC 24バルブ ベルト駆動 吸気2 排気2
   - 排気量：2,997cc
   - 内径×行程：86.0mm×86.0mm
   - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）
@@ -169,7 +169,7 @@ V型6気筒エンジンとしては[C型の後継にあたる](../Page/ホンダ
 
 #### J32A
 
-  - 弁機構：SOHC VTEC ベルト駆動 吸気2 排気2
+  - 弁機構：SOHC VTEC 24バルブ ベルト駆動 吸気2 排気2
   - 排気量：3,210cc
   - 内径×行程：89.0mm×86.0mm
   - 燃料供給装置形式：電子制御燃料噴射式（PGM-FI）

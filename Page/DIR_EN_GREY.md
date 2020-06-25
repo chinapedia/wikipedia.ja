@@ -352,7 +352,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 6月21日、30枚目となるシングル「[The World of Mercy](https://ja.wikipedia.org/wiki/The_World_of_Mercy "wikilink")」を、同年9月18日に発売することを発表\[40\]。
 
-10月21日、2020年1月29日に発売が予定されている、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のカバーアルバム『PARADE III ～RESPECTIVE TRACKS OF BUCK-TICK～』に、DIR EN GREYとして参加することが決定\[41\]。
+10月21日、2020年1月29日に発売の[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のカバーアルバム『[PARADE III 〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE_III_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink")』に、DIR EN GREYとして参加\[41\]。
 
 ## ディスコグラフィー
 

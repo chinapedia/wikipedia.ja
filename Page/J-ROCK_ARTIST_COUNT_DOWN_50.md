@@ -14,7 +14,8 @@
   - ビーイング制作番組の特徴である[番組開始直前と](../Page/カウキャッチャー_\(放送\).md "wikilink")[番組終了後に](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")、[J-DISCの新譜スポットCMが打たれていた](../Page/J-DISC_Being.md "wikilink")。
   - 1994年10月から本番組の放送を皮切りに、ビーイングは**MODS HOUSE**が関西のテレビ・ラジオ各局と共同制作した番組を次々に開始させていく。
       - 『ROOTS』 - 本番組と同時に放送開始したブルースやロックの歴史を辿ったアーカイブ番組。放送局によっては本番組の次に編成されてる所もあった。([KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink")との共同制作)
-      - 『AMEMURA ROCK STREET』→『アメロク』 - 1995年秋から土曜深夜に放送開始した[アメリカ村](../Page/アメリカ村.md "wikilink")のトレンドと音楽を取り上げた番組。([テレビ大阪](../Page/テレビ大阪.md "wikilink")との共同制作)
+      - 『AMEMURA ROCK STREET』→『アメロク』- 1995年秋から土曜深夜に放送開始した[アメリカ村](../Page/アメリカ村.md "wikilink")のトレンドと音楽を取り上げた番組だったが、半期ごとにナレーターや内容がテコ入れされていた。([テレビ大阪](../Page/テレビ大阪.md "wikilink")との共同制作)
+      - 『SO-HOT』- 『アメロク』から番組名を変更し、放送日を金曜深夜に移動した上で2001年4月から放送開始。2003年9月に放送終了。
       - 『ROX』- 1996年6月1日に放送を開始した[RIKACO](../Page/RIKACO.md "wikilink")とUJが司会の音楽クイズ番組で、初回は[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")の特集。[矢沢永吉](../Page/矢沢永吉.md "wikilink")や[GLAY](../Page/GLAY.md "wikilink")なども取り上げられてたが、3か月で終了。([関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")との共同制作)
       - 『HIP POP』 - HIP HOPをメインとした番組([奈良テレビ](https://ja.wikipedia.org/wiki/奈良テレビ "wikilink")との共同制作)
       - 『情報IN』 - 『[ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")』放送終了後に放送されてた「SUNDAY BLUES LIVE」の模様を紹介した番組。([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")との共同制作)

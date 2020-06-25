@@ -15,8 +15,8 @@
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）7月1日 - 津支局、**津放送局**に改称（送信施設なし）。\[4\]
   - [1970年](../Page/1970年.md "wikilink")（昭和45年）[4月6日](../Page/4月6日.md "wikilink") - FMラジオ放送（呼出符号JONP-FM）開局。\[5\]
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - 津市丸之内養正町に新築された**津放送会館**に移転。
-  - 1973年（昭和48年）[4月2日](../Page/4月2日.md "wikilink") - 県域ローカルのテレビ放送を開始。\[6\]
-  - [2005年](../Page/2005年.md "wikilink")（平成17年）[4月1日](../Page/4月1日.md "wikilink") - [三重テレビと共に](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[地上デジタル放送開始](../Page/地上デジタルテレビ放送.md "wikilink")。特別番組を共同制作。愛知・岐阜両県でも放送。
+  - 1973年（昭和48年）[4月2日](../Page/4月2日.md "wikilink") - 総合テレビ（呼出符号JONP-TV）で[県域ローカルの番組を開始](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")\[6\]。先行開局していた三重県内の総合テレビ中継局を[名古屋局から移管](../Page/NHK名古屋放送局.md "wikilink")（教育テレビは引き続き名古屋局管轄）。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[4月1日](../Page/4月1日.md "wikilink") - [三重テレビと共に](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[地上デジタル放送開始](../Page/地上デジタルテレビ放送.md "wikilink")（津市に教育テレビの送信所を新設）。特別番組を共同制作。愛知・岐阜両県でも放送。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。翌日午前0時までに完全停波。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）[11月6日](../Page/11月6日.md "wikilink") - FM放送が終日ステレオ放送となった。
 

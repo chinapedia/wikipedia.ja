@@ -216,7 +216,7 @@ ZOとの戦いでエネルギー不足に陥ったドラスが自身の細胞か
   - 西村：[山下優](../Page/山下優.md "wikilink")
   - 宮崎：[榊原伊織](https://ja.wikipedia.org/wiki/榊原伊織_\(俳優\) "wikilink")
   - 望月宏：[柴田翔平](https://ja.wikipedia.org/wiki/柴田翔平 "wikilink")
-  - ネオ生命体（声） - 湯沢真伍
+  - ネオ生命体（声）：湯沢真伍
   - 望月博士：[佐々木功](../Page/ささきいさお.md "wikilink")
   - 望月清吉：[犬塚弘](../Page/犬塚弘.md "wikilink")
 

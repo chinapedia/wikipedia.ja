@@ -314,6 +314,15 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/川崎フロンターレ" title="wikilink">川崎フロンターレ</a>U-15<br />
 <a href="https://ja.wikipedia.org/wiki/浦和レッズ" title="wikilink">浦和レッズ</a>ジュニアユース</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><strong><a href="../Page/ガンバ大阪.md" title="wikilink">ガンバ大阪</a>ジュニアユース</strong></p></td>
+<td><p><strong>2 - 0</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サガン鳥栖" title="wikilink">サガン鳥栖</a>U-15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a>ジュニアユース<br />
+<a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a>ジュニアユース</p></td>
+</tr>
 </tbody>
 </table>
 

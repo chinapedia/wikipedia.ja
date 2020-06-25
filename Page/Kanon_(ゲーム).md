@@ -349,7 +349,7 @@ STAFF WHY</p></td>
 
   - 原作 - Key / Visual Art's
   - 監督 - [石原立也](../Page/石原立也.md "wikilink")
-  - シリーズ構成 - [志茂文彦](../Page/志茂文彦.md "wikilink")
+  - シリーズ構成・脚本 - [志茂文彦](../Page/志茂文彦.md "wikilink")
   - キャラクター原案 - 樋上いたる
   - キャラクターデザイン・総作画監督 - [池田和美](../Page/池田和美.md "wikilink")
   - 美術監督・美術設定 - 篠原睦雄
@@ -373,32 +373,32 @@ STAFF WHY</p></td>
 
 サブタイトルには全て音楽用語が用いられている。
 
-| 話数   | サブタイトル\[37\]               | 脚本                                                    | 絵コンテ                                                  | 演出                                 | 作画監督                                          |
-| ---- | -------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ---------------------------------- | --------------------------------------------- |
-| 第1話  | 白銀の序曲〜overture〜            | [志茂文彦](../Page/志茂文彦.md "wikilink")                    | [石原立也](../Page/石原立也.md "wikilink")                    | 坂本一也                               | [池田晶子](../Page/池田晶子_\(アニメーター\).md "wikilink") |
-| 第2話  | 雪の中の入祭唱〜introit〜           | [石立太一](https://ja.wikipedia.org/wiki/石立太一 "wikilink") | [西屋太志](https://ja.wikipedia.org/wiki/西屋太志 "wikilink") |                                    |                                               |
-| 第3話  | 記憶のない組曲〜partita〜           | 北之原孝将                                                 | 門脇聡                                                   |                                    |                                               |
-| 第4話  | 休日の奇想曲〜caprice〜            | 吉岡忍                                                   | 米田光良                                                  |                                    |                                               |
-| 第5話  | 魔物たちの小夜曲〜serenade〜         | [山本寛](../Page/山本寛_\(アニメ演出家\).md "wikilink")           | 高橋博行                                                  |                                    |                                               |
-| 第6話  | 謎だらけの嬉遊曲〜divertimento〜     | [武本康弘](../Page/武本康弘.md "wikilink")                    | [堀口悠紀子](../Page/堀口悠紀子.md "wikilink")                  |                                    |                                               |
-| 第7話  | 家出と仔猫の遁走曲〜fuga〜            | 坂本一也                                                  | 池田晶子                                                  |                                    |                                               |
-| 第8話  | 追憶の幻想曲〜fantasia〜           | 石立太一                                                  | 西屋太志                                                  |                                    |                                               |
-| 第9話  | 子狐の子守歌〜berceuse〜           | 北之原孝将                                                 | 門脇聡                                                   |                                    |                                               |
-| 第10話 | 丘の上の鎮魂歌〜requiem〜           | [三好一郎](../Page/木上益治.md "wikilink")                    | 吉岡忍                                                   | 米田光良                               |                                               |
-| 第11話 | 光と影の間奏曲〜intermezzo〜        | 山本寛                                                   | 高橋博行                                                  |                                    |                                               |
-| 第12話 | 異形の円舞曲〜waltz〜              | 武本康弘                                                  | 堀口悠紀子                                                 |                                    |                                               |
-| 第13話 | あぶなげな三重奏〜trio〜             | 坂本一也                                                  | 池田晶子                                                  |                                    |                                               |
-| 第14話 | ひびわれた協奏曲〜concerto〜         | 石立太一                                                  | 西屋太志                                                  |                                    |                                               |
-| 第15話 | かくれんぼの小奏鳴曲〜sonatine〜       | 北之原孝将                                                 | 門脇聡                                                   |                                    |                                               |
-| 第16話 | 真夜中の聖譚曲〜oratorio〜          | 吉岡忍                                                   | 米田光良                                                  |                                    |                                               |
-| 第17話 | 姉と妹の無言歌〜lieder ohne worte〜 | 三好一郎                                                  | [高雄統子](https://ja.wikipedia.org/wiki/高雄統子 "wikilink") | 高橋博行                               |                                               |
-| 第18話 | 消え去りゆく緩徐楽章〜adagio〜         | 武本康弘                                                  | 植野千世子                                                 |                                    |                                               |
-| 第19話 | ふれあいの練習曲〜étude〜            | 坂本一也                                                  | 池田晶子                                                  |                                    |                                               |
-| 第20話 | 別れの夜想曲〜nocturn〜            | 石立太一                                                  | 西屋太志                                                  |                                    |                                               |
-| 第21話 | 君のいない輪舞曲〜ronde〜            | 北之原孝将                                                 | 門脇聡                                                   |                                    |                                               |
-| 第22話 | 追想の交響楽〜symphony〜           | 吉岡忍                                                   | 米田光良                                                  |                                    |                                               |
-| 第23話 | 茜色の終曲〜finale〜              | 坂本一也                                                  | 高橋博行                                                  |                                    |                                               |
-| 第24話 | 夢の果ての追復曲〜kanon〜            | 石原立也                                                  | 武本康弘                                                  | [池田和美](../Page/池田和美.md "wikilink") |                                               |
+| 話数   | サブタイトル\[37\]               | 絵コンテ                                                  | 演出                                                    | 作画監督                                          |
+| ---- | -------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------- |
+| 第1話  | 白銀の序曲〜overture〜            | [石原立也](../Page/石原立也.md "wikilink")                    | 坂本一也                                                  | [池田晶子](../Page/池田晶子_\(アニメーター\).md "wikilink") |
+| 第2話  | 雪の中の入祭唱〜introit〜           | [石立太一](https://ja.wikipedia.org/wiki/石立太一 "wikilink") | [西屋太志](https://ja.wikipedia.org/wiki/西屋太志 "wikilink") |                                               |
+| 第3話  | 記憶のない組曲〜partita〜           | 北之原孝将                                                 | 門脇聡                                                   |                                               |
+| 第4話  | 休日の奇想曲〜caprice〜            | 吉岡忍                                                   | 米田光良                                                  |                                               |
+| 第5話  | 魔物たちの小夜曲〜serenade〜         | [山本寛](../Page/山本寛_\(アニメ演出家\).md "wikilink")           | 高橋博行                                                  |                                               |
+| 第6話  | 謎だらけの嬉遊曲〜divertimento〜     | [武本康弘](../Page/武本康弘.md "wikilink")                    | [堀口悠紀子](../Page/堀口悠紀子.md "wikilink")                  |                                               |
+| 第7話  | 家出と仔猫の遁走曲〜fuga〜            | 坂本一也                                                  | 池田晶子                                                  |                                               |
+| 第8話  | 追憶の幻想曲〜fantasia〜           | 石立太一                                                  | 西屋太志                                                  |                                               |
+| 第9話  | 子狐の子守歌〜berceuse〜           | 北之原孝将                                                 | 門脇聡                                                   |                                               |
+| 第10話 | 丘の上の鎮魂歌〜requiem〜           | [三好一郎](../Page/木上益治.md "wikilink")                    | 吉岡忍                                                   | 米田光良                                          |
+| 第11話 | 光と影の間奏曲〜intermezzo〜        | 山本寛                                                   | 高橋博行                                                  |                                               |
+| 第12話 | 異形の円舞曲〜waltz〜              | 武本康弘                                                  | 堀口悠紀子                                                 |                                               |
+| 第13話 | あぶなげな三重奏〜trio〜             | 坂本一也                                                  | 池田晶子                                                  |                                               |
+| 第14話 | ひびわれた協奏曲〜concerto〜         | 石立太一                                                  | 西屋太志                                                  |                                               |
+| 第15話 | かくれんぼの小奏鳴曲〜sonatine〜       | 北之原孝将                                                 | 門脇聡                                                   |                                               |
+| 第16話 | 真夜中の聖譚曲〜oratorio〜          | 吉岡忍                                                   | 米田光良                                                  |                                               |
+| 第17話 | 姉と妹の無言歌〜lieder ohne worte〜 | 三好一郎                                                  | [高雄統子](https://ja.wikipedia.org/wiki/高雄統子 "wikilink") | 高橋博行                                          |
+| 第18話 | 消え去りゆく緩徐楽章〜adagio〜         | 武本康弘                                                  | 植野千世子                                                 |                                               |
+| 第19話 | ふれあいの練習曲〜étude〜            | 坂本一也                                                  | 池田晶子                                                  |                                               |
+| 第20話 | 別れの夜想曲〜nocturn〜            | 石立太一                                                  | 西屋太志                                                  |                                               |
+| 第21話 | 君のいない輪舞曲〜ronde〜            | 北之原孝将                                                 | 門脇聡                                                   |                                               |
+| 第22話 | 追想の交響楽〜symphony〜           | 吉岡忍                                                   | 米田光良                                                  |                                               |
+| 第23話 | 茜色の終曲〜finale〜              | 坂本一也                                                  | 高橋博行                                                  |                                               |
+| 第24話 | 夢の果ての追復曲〜kanon〜            | 石原立也                                                  | 武本康弘                                                  | [池田和美](../Page/池田和美.md "wikilink")            |
 
 ### 放送局（第2作）
 
@@ -514,12 +514,12 @@ STAFF WHY</p></td>
 
 ## 外部リンク
 
-  - [Key公式サイト](http://key.visualarts.gr.jp/) <span style="color:red">18歳未満閲覧禁止ページへのリンクあり</span>
+  - [Key公式サイト](https://key.visualarts.gr.jp/) <span style="color:red">18歳未満閲覧禁止ページへのリンクあり</span>
   - [Android版サイト](http://vamarket.jp/main/game/23/) <span style="color:red">18歳未満閲覧禁止ページへのリンクあり</span>
-  - [PSP版公式サイト（プロトタイプ）](http://www.prot.co.jp/psp/kanon/index.html)
+  - [PSP版公式サイト（プロトタイプ）](https://www.prot.co.jp/psp/kanon/index.html)
   - [テレビアニメ版公式サイト（東映アニメーション）](http://www.toei-anim.co.jp/tv/kanon/index.html)
-  - [テレビアニメ版公式サイト（フジテレビ）](http://www.fujitv.co.jp/b_hp/kanon/)
-  - [テレビアニメ版公式サイト (TBS)](http://www.tbs.co.jp/anime/kanon/index-j.html)
+  - [テレビアニメ版公式サイト（フジテレビ）](https://www.fujitv.co.jp/b_hp/kanon/)
+  - [テレビアニメ版公式サイト (TBS)](https://www.tbs.co.jp/anime/kanon/index-j.html)
 
 [Category:Keyのゲームソフト](https://ja.wikipedia.org/wiki/Category:Keyのゲームソフト "wikilink") [Category:ソフ倫審査一般向け作品](https://ja.wikipedia.org/wiki/Category:ソフ倫審査一般向け作品 "wikilink") [Category:インターチャネルのゲームソフト](https://ja.wikipedia.org/wiki/Category:インターチャネルのゲームソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:PlayStation_Portable用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフト "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:ファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタジーコンピュータゲーム "wikilink") [Category:1999年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアダルトゲーム "wikilink") [Category:アニメ作品_か](https://ja.wikipedia.org/wiki/Category:アニメ作品_か "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:恋愛アニメ](https://ja.wikipedia.org/wiki/Category:恋愛アニメ "wikilink") [Category:フジテレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜アニメ "wikilink") [Category:BS-TBSの深夜アニメ](https://ja.wikipedia.org/wiki/Category:BS-TBSの深夜アニメ "wikilink") [Category:BS独占本放送の深夜アニメ](https://ja.wikipedia.org/wiki/Category:BS独占本放送の深夜アニメ "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:京都アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:京都アニメーションのアニメ作品 "wikilink") [Category:2002年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2002年のテレビアニメ "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:テレビアニメ化されたアダルトゲーム](https://ja.wikipedia.org/wiki/Category:テレビアニメ化されたアダルトゲーム "wikilink") [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:月刊コミック電撃大王の漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王の漫画作品 "wikilink") [Category:ドラゴンエイジピュア](https://ja.wikipedia.org/wiki/Category:ドラゴンエイジピュア "wikilink") [Category:ポニーキャニオンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:Keyのアニメ作品](https://ja.wikipedia.org/wiki/Category:Keyのアニメ作品 "wikilink")
 

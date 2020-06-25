@@ -234,6 +234,8 @@ BSS-702MP</p></td>
       - [8月22日](../Page/8月22日.md "wikilink") - JCSAT-12の打ち上げ成功。同年スカパーJSATへ引き渡され、JCSAT-R後継の予備衛星JCSAT-RAとなった。
   - [2011年](../Page/2011年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") - BSAT-3c/JCSAT-110R打ち上げ。BSデジタル新チャンネル用放送衛星現用機（BSAT-3c）と、東経110度通信衛星予備機（JCSAT-110R）を兼ねる。
 
+## 脚注
+
 ## 関連項目
 
   - [人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")

@@ -149,13 +149,13 @@
 
 ## 広告活動
 
-  - 提供番組
+  - 提供番組　
 
-<!-- end list -->
+すべて現在は提供終了。
 
   - [ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系、2013年10月～）
   - [真相報道バンキシャ\!](https://ja.wikipedia.org/wiki/真相報道バンキシャ! "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系、2010年4月～）
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")（[山口朝日放送](../Page/山口朝日放送.md "wikilink")）
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")（[山口朝日放送](../Page/山口朝日放送.md "wikilink")）
   - [スーパーニュース WEEKEND](https://ja.wikipedia.org/wiki/スーパーニュース "wikilink")（[沖縄テレビ](https://ja.wikipedia.org/wiki/沖縄テレビ "wikilink")）
   - わが町の建築物語（[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")、2010年10月12日～2014年3月25日）※一社独占提供
   - [ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")（日本テレビ系、提供終了）

@@ -139,7 +139,7 @@
 <td><p>庵野秀明</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん_嵐を呼ぶ_モーレツ!オトナ帝国の逆襲" title="wikilink">映画クレヨンしんちゃん オトナ帝国の逆襲</a></p></td>
+<td><p><a href="../Page/クレヨンしんちゃん_嵐を呼ぶ_モーレツ!オトナ帝国の逆襲.md" title="wikilink">映画クレヨンしんちゃん オトナ帝国の逆襲</a></p></td>
 <td><p><a href="../Page/原恵一.md" title="wikilink">原恵一</a></p></td>
 <td></td>
 <td></td>

@@ -41,6 +41,7 @@
       - 『**戦国BASARA4 スペシャルパッケージ**』 PS3 - [2014年](../Page/2014年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売。『4』に「プレイヤー武将全解放&特別衣装9種セット」のDLコードを付属。更にパッケージ版のみ特典映像のDVDが同梱。
   - 『**戦国BASARA4 皇**』 [PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")（PS4）、PS3 - 以下『皇』。[2015年](../Page/2015年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売。
   - 『**戦国BASARA 烈伝シリーズ 真田幸村伝**』 PS4、PS3 - 以下『烈伝幸村』。[2016年](../Page/2016年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")発売。
+  - 『**戦国BASARA4 皇 ANNIVERSARY EDITION**』 PS4 - [2020年](../Page/2020年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売予定。
 
 ## 登場人物
 
@@ -571,7 +572,7 @@ WE aRE (PS3)</p></td>
 
 ### 戦国BASARA
 
-[2009年](../Page/2009年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")より[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC)・[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) との共同製作で、この2局および[TBSテレビ](../Page/TBSテレビ.md "wikilink")ほか一部[TBS系列局にて放送された](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。全13話。
+[2009年](../Page/2009年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")より[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink") (CBC)・[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) との共同製作で、この2局および[TBSテレビ](../Page/TBSテレビ.md "wikilink")ほか一部[TBS系列局にて放送された](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。全13話。
 
 アニメ化の企画はMBSのアニメ担当[プロデューサー](../Page/プロデューサー.md "wikilink")である[丸山博雄](../Page/丸山博雄.md "wikilink")が各アニメ制作会社に話を持ちかけたところ、[Production I.Gが多大な関心を示して早速版権元のカプコンに打診を取ったとのことである](../Page/プロダクション・アイジー.md "wikilink")\[13\]。初のCBCとMBSの共同製作深夜アニメ\[14\]。MBSアニメの特徴である[提供バックの廃止により](../Page/提供クレジット.md "wikilink")、[提供クレジット](../Page/提供クレジット.md "wikilink")はAパート冒頭にて画面右下部に表示（送出は各局別）。
 
@@ -809,7 +810,7 @@ WE aRE (PS3)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">中部日本放送</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月1日.md" title="wikilink">4月1日</a> - <a href="../Page/6月17日.md" title="wikilink">6月17日</a></p></td>
 <td><p>水曜 25:29 - 25:59</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td><p><strong>製作委員会参加</strong></p></td>
 </tr>
 <tr class="even">
@@ -921,7 +922,7 @@ WE aRE (PS3)</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a>・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></p></td>
 <td><p>上ノ巻 2010年<a href="../Page/6月20日.md" title="wikilink">6月20日</a><br />
 下ノ巻 2010年<a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
 <td><p>日曜 26:50 - 27:50<br />

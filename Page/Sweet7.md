@@ -43,5 +43,6 @@
   - メインテーマは[anonymass](https://ja.wikipedia.org/wiki/anonymass "wikilink")のTwenty-Five。アルバム『harusame』収録。この楽曲は珍しい7拍子でありSweet7ともかかっている。
   - 久ヶ沢が演じる新井の名はプロレスラー[新井健一郎](../Page/新井健一郎.md "wikilink")による。
   - WOWOWで放送された際の小林のインタビューによると、本作での設定・セットは本物のパティシエが見ても違和感が出ないように取材して作ってあるとのこと。終盤にある毛利のナッペのシーンも、本物のパティシエの指導による本格的なものだったが、収録の日のみ大失敗した。
+  - 「カタクリ工務店」の名前は「 good day house」 にも登場する。
 
 [Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2003年の舞台作品](https://ja.wikipedia.org/wiki/Category:2003年の舞台作品 "wikilink")

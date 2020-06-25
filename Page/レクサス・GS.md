@@ -35,6 +35,10 @@
 
 {{-}}
 
+[File:JZS16_Toyota_Aristo_1.jpg|2代目](File:JZS16_Toyota_Aristo_1.jpg%7C2代目)[トヨタ・アリスト](https://ja.wikipedia.org/wiki/トヨタ・アリスト#2代目_JZS16#型（1997年_-_2005年） "wikilink")
+
+{{-}}
+
 ## 3代目 S19\#型（2005年 - 2012年）
 
   - 発表・発売（2005年）

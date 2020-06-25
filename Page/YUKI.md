@@ -22,7 +22,7 @@
 ### ユウキ
 
   - [YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink") または YŪKI（旧表記） - [TRF](../Page/TRF.md "wikilink")のヴォーカル。
-  - [ユウキ](https://ja.wikipedia.org/wiki/ユウキ_\(EE_JUMP\) "wikilink") または YUKI - 元[EE JUMPのメンバー](https://ja.wikipedia.org/wiki/EE_JUMP "wikilink")。元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")のメンバー[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")の弟。
+  - [ユウキ](https://ja.wikipedia.org/wiki/ユウキ_\(EE_JUMP\) "wikilink") または YUKI - 元[EE JUMPのメンバー](https://ja.wikipedia.org/wiki/EE_JUMP "wikilink")。元[モーニング娘。](../Page/モーニング娘。.md "wikilink")のメンバー[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")の弟。
   - [YU+KI](https://ja.wikipedia.org/wiki/YU+KI "wikilink") - 長崎県出身のミュージシャン。元JURASSIC、現EVER+LASTのボーカル。
   - YUKI - 本名 桜井有紀（さくらい ゆうき）。元[Raphaelヴォーカル](../Page/Raphael_\(バンド\).md "wikilink")。現在は元RaphaelのドラマーHIROと共に[riceを立ち上げ活動中](https://ja.wikipedia.org/wiki/rice_\(バンド\) "wikilink")。
   - YUKI - 永田雄樹 - [JABBERLOOP](../Page/JABBERLOOP.md "wikilink")のベーシスト。

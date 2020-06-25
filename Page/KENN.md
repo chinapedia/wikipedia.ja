@@ -490,6 +490,7 @@
       - 夢と感動の宇宙展「宇宙兄弟」ムッタとヒビトが挑んだ空へ！（[名古屋市科学館](../Page/名古屋市科学館.md "wikilink")、2015年3月14日 - 5月24日）\[128\]
   - [ツキウタ。 ANIMATION](https://ja.wikipedia.org/wiki/ツキウタ。 "wikilink")THE 音声入り[目覚まし時計](https://ja.wikipedia.org/wiki/目覚まし時計 "wikilink") B:新&葵&陽&夜（**皐月葵**）
   - プリントシール機『声プリ Special プリステラ』（**あんどー**）
+  - 創作応援アプリ \*exe2045（2020年、**lue/n リューン**\[129\]）
 
 ## ディスコグラフィ
 
@@ -613,7 +614,7 @@
 
 ### その他
 
-  - 手作りCD「超新人LIVEMEN」※べしゃりライヴ会場限定発売（KENN、[豊永利行](../Page/豊永利行.md "wikilink")、[堀田勝](../Page/堀田勝.md "wikilink")、[髙木俊](../Page/高木俊.md "wikilink")）\[129\]
+  - 手作りCD「超新人LIVEMEN」※べしゃりライヴ会場限定発売（KENN、[豊永利行](../Page/豊永利行.md "wikilink")、[堀田勝](../Page/堀田勝.md "wikilink")、[髙木俊](../Page/高木俊.md "wikilink")）\[130\]
       - TACOS NAOMI 1st Album『WORKS』収録曲「風に抱かれて」
 
 ### The NaB's名義
@@ -696,7 +697,7 @@
 | 東亰浪漫譚              | ゲーム『[明治東亰恋伽](https://ja.wikipedia.org/wiki/明治東亰恋伽 "wikilink")』主題歌                                                    | 2011年 |
 | Pieces of My Wish  | [テレビ朝日](../Page/テレビ朝日.md "wikilink")『[Break Out](../Page/Break_Out_\(テレビ番組\).md "wikilink")』11月度エンディングテーマ            | 2012年 |
 | Sanctuary          | [PSPゲーム](../Page/PlayStation_Portable.md "wikilink")『[しらつゆの怪](https://ja.wikipedia.org/wiki/しらつゆの怪 "wikilink")』挿入歌   | 2013年 |
-| 紅ノ夜ノ唄              | PSPゲーム『明治東亰恋伽』主題歌\[130\]                                                                                             |       |
+| 紅ノ夜ノ唄              | PSPゲーム『明治東亰恋伽』主題歌\[131\]                                                                                             |       |
 | 星降ル夜、僕ノワルツ         | PSPゲーム『明治東亰恋伽』エンディングテーマ                                                                                              |       |
 | Eidolon            | PSPゲーム『[Jewelic Nightmare](https://ja.wikipedia.org/wiki/Jewelic_Nightmare "wikilink")』オープニングテーマ                     |       |
 | Dance in the Light | 劇場アニメ『[劇場版 明治東亰恋伽 〜弦月の小夜曲〜](https://ja.wikipedia.org/wiki/劇場版_明治東亰恋伽_〜弦月の小夜曲〜 "wikilink")』主題歌                        | 2015年 |
@@ -1162,7 +1163,7 @@
 </tr>
 <tr class="odd">
 <td><p>『剣が君』 主題歌 「軌跡」</p></td>
-<td><p>九十九丸（<a href="../Page/小野友樹.md" title="wikilink">小野友樹</a>）、螢（<strong>KENN</strong>）[131]</p></td>
+<td><p>九十九丸（<a href="../Page/小野友樹.md" title="wikilink">小野友樹</a>）、螢（<strong>KENN</strong>）[132]</p></td>
 <td><p>「軌跡」</p></td>
 <td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/剣が君" title="wikilink">剣が君</a>』オープニングテーマ</p></td>
 <td></td>
@@ -2903,6 +2904,7 @@
 126.
 127.
 128.
-129. 本人たちが企画し、作詞・作曲・歌唱・ディレクションなどを行っている。CD-Rに焼かれた手作りCDで、戦隊物のパロディ曲「超新人LIVEMEN」、ライヴのテーマソング「みんなの場所」、CD限定版ラジオ「[ばかいわ出張スペシャル](https://ja.wikipedia.org/wiki/トッシー・ほったまの「ばかだなぁ〜♪って言われたい」 "wikilink")」の他、映像特典として「超新人LIVEMEN」のオープニングPVが収録されている。
-130. 「東亰浪漫譚」とのダブルオープニング仕様。
-131.
+129.
+130. 本人たちが企画し、作詞・作曲・歌唱・ディレクションなどを行っている。CD-Rに焼かれた手作りCDで、戦隊物のパロディ曲「超新人LIVEMEN」、ライヴのテーマソング「みんなの場所」、CD限定版ラジオ「[ばかいわ出張スペシャル](https://ja.wikipedia.org/wiki/トッシー・ほったまの「ばかだなぁ〜♪って言われたい」 "wikilink")」の他、映像特典として「超新人LIVEMEN」のオープニングPVが収録されている。
+131. 「東亰浪漫譚」とのダブルオープニング仕様。
+132.

@@ -294,7 +294,7 @@
 <tr class="even">
 <td><p>若い母親</p></td>
 <td></td>
-<td><p>越村エリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/越村江莉" title="wikilink">越村江莉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>女性社員</p></td>

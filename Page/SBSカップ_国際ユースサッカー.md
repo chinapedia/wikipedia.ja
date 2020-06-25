@@ -361,6 +361,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/U-20サッカー日本代表" title="wikilink">U-18日本代表</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>43</p></td>
+<td><p>2019</p></td>
+<td><p><a href="../Page/サッカーコロンビア代表.md" title="wikilink">U-18コロンビア代表</a></p></td>
+<td><p>-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/U-20サッカー日本代表" title="wikilink">U-18日本代表</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

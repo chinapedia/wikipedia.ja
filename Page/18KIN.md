@@ -16,7 +16,7 @@
     [ボケ担当](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")。
     血液型A型。
     利き酒を得意とする。
-    活動休止後は[ハロープロジェクト](https://ja.wikipedia.org/wiki/ハロープロジェクト "wikilink")の舞台構成作家として活動。また[安井順平](../Page/安井順平.md "wikilink")と共にコントライブの開催等も行い、「タキヤス」という漫才コンビを安井と組み、2008年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")に出場している。
+    活動休止後は[ハロープロジェクトの舞台構成作家として活動](../Page/ハロー!プロジェクト.md "wikilink")。また[安井順平](../Page/安井順平.md "wikilink")と共にコントライブの開催等も行い、「タキヤス」という漫才コンビを安井と組み、2008年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")に出場している。
 
 **今泉 稔**（いまいずみ みのる、 - ）
 
@@ -38,7 +38,7 @@
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）戦績17勝10敗 最高513KB
       - 第6回チャンピオン大会 セミファイナル10位敗退
       - 第7回チャンピオン大会 セミファイナル6位敗退
-      - 出場芸人としては珍しく地方大会を苦手としており、1度も勝利した事がなかった（0勝3敗）。初挑戦の[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")収録（2000年1月15日放送回）では169KB（10位）を記録して敗退している。\[2\]また、初めて出場したチャンピオン大会（第6回セミファイナルBブロック・[大阪](../Page/大阪.md "wikilink")収録）においても354KB\[3\]で10位と良い成績を残せていなかった。2000年11月5日放送回では441kbを記録し、初のトップを獲得。また同時に初の連勝と初の400kb台を記録した。因みにワタナベエンターテインメント所属の芸人の中でトップ合格を果たすのは彼らが初となる。\[4\]
+      - 出場芸人としては珍しく地方大会を苦手としており、1度も勝利した事がなかった（0勝3敗）。初挑戦の[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")収録（2000年1月15日放送回）では169KB（10位）を記録して敗退している。\[2\] また、初めて出場したチャンピオン大会（第6回セミファイナルBブロック・[大阪](../Page/大阪.md "wikilink")収録）においても354KB\[3\] で10位と良い成績を残せていなかった。2000年11月5日放送回では441kbを記録し、初のトップを獲得。また同時に初の連勝と初の400kb台を記録した。因みにワタナベエンターテインメント所属の芸人の中でトップ合格を果たすのは彼らが初となる。\[4\]
   - [第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink") - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")・[テツandトモ](../Page/テツandトモ.md "wikilink")の応援。
   - [初詣\!爆笑ヒットパレード](../Page/初詣!爆笑ヒットパレード.md "wikilink")（フジテレビ、[2004年](../Page/2004年.md "wikilink")はコンビで。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")は今泉のみ）
   - [イエヤス](../Page/イエヤス.md "wikilink")（[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
@@ -66,7 +66,7 @@
 
 ## 外部リンク
 
-  - [18KIN今泉の酔狂日記](http://blog.watanabepro.co.jp/18kin/)2009年12月まで
+  - [18KIN今泉の酔狂日記](http://blog.watanabepro.co.jp/18kin/) 2009年12月まで
 
   -
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:渡辺プロ系列所属者](https://ja.wikipedia.org/wiki/Category:渡辺プロ系列所属者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

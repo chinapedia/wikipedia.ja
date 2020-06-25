@@ -1,7 +1,7 @@
 > この記事は[MiG-9 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-9_\(航空機\))から翻訳されています。
 
 
-**MiG-9**（*Mikoyan-Gurevich MiG-9* ミグ9 / [露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink") : **** ）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミコヤン・グレヴィッチ設計局が開発し](../Page/MiG.md "wikilink")、[ソ連空軍](../Page/ソ連空軍.md "wikilink")や[中国空軍で運用された](../Page/中国人民解放軍空軍.md "wikilink")[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。
+**MiG-9**（ミグ9；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):**** ）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミグ設計局が開発し](../Page/MiG.md "wikilink")、[ソ連空軍](../Page/ソ連空軍.md "wikilink")や[中国空軍で運用された](../Page/中国人民解放軍空軍.md "wikilink")[ジェット](../Page/ジェット機.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。
 
 [ソ連初の実用ジェット機](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。[DoDが割り当てたコードネームは](../Page/アメリカ国防総省.md "wikilink")**Type 1**。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")(NATO)の使用する[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")は**ファーゴ** (Fargo)。
 
@@ -13,9 +13,13 @@
 
 MiG-9各型は[中華人民共和国](../Page/中華人民共和国.md "wikilink")・[朝鮮民主主義人民共和国](../Page/朝鮮民主主義人民共和国.md "wikilink")軍機として[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")へも投入されたが、目立った働きは聞かれない。[1940年代](../Page/1940年代.md "wikilink")末に、[後退翼](https://ja.wikipedia.org/wiki/後退翼 "wikilink")という最新技術を盛り込んだ高性能のMiG-15が完成し実戦にも投入されるようになると、MiG-9は後方任務へ回されたようである。
 
-## スペック
+## 諸元
 
-[300px](https://ja.wikipedia.org/wiki/ファイル:Mig-9.png "wikilink")
+[Mig-9.png](https://ja.wikipedia.org/wiki/File:Mig-9.png "fig:Mig-9.png")
+
+  - MiG-9 / FS (生産型)
+
+<!-- end list -->
 
   - 初飛行：1946年
   - 翼幅：10.00 m
@@ -31,11 +35,30 @@ MiG-9各型は[中華人民共和国](../Page/中華人民共和国.md "wikilink
   - 最高速度：910 km/h
   - 実用航続距離：800 km
   - 上昇力：806 m/s
-  - 実用飛行上限高度：13,000 m
+  - 実用上昇限度：13,000 m
   - 乗員：1 名
   - 武装：37 mm [N-37機関砲](https://ja.wikipedia.org/wiki/N-37_\(機関砲\) "wikilink")（弾数40発） × 1、23 mm [NS-23機関砲](https://ja.wikipedia.org/wiki/NS-23_\(機関砲\) "wikilink")（弾数160発） × 2
 
-## 外部リンク(画像)
+## 現存する機体
+
+| 型名         | 番号     | 機体写真                                                                                                                                                                                                     | 所在地       | 所有者                                                                                                                              | 公開状況 | 状態   | 備考                                                                                                                                                                              |
+| ---------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MiG-9 / FS | 6201   | [写真](https://live.staticflickr.com/8839/17909892161_5028a41eaf_5k.jpg)                                                                                                                                   | 中国 北京     | [北京航空宇宙博物館](https://ja.wikipedia.org/wiki/:en:Beijing_Air_and_Space_Museum "wikilink")[1](http://airandspacemuseum.buaa.edu.cn/) | 公開   | 静態展示 | [旧塗装](https://live.staticflickr.com/1942/45767419221_98df8ecdbb_b.jpg)                                                                                                          |
+| MiG-9 / FS | 108005 | [MiG-9_(37072653055).jpg](https://ja.wikipedia.org/wiki/File:MiG-9_\(37072653055\).jpg "fig:MiG-9_(37072653055).jpg")                                                                                   | 中国 北京     | [中国空軍航空博物館](../Page/中国空軍航空博物館.md "wikilink")                                                                                     | 公開   | 静態展示 |                                                                                                                                                                                 |
+| MiG-9 / FS | 114010 | [MiG-9_at_Central_Air_Force_Museum_Monino_pic1.JPG](https://ja.wikipedia.org/wiki/File:MiG-9_at_Central_Air_Force_Museum_Monino_pic1.JPG "fig:MiG-9_at_Central_Air_Force_Museum_Monino_pic1.JPG") | ロシア モスクワ州 | [連邦文化芸術研究所空軍博物館](https://ja.wikipedia.org/wiki/モニノ空軍博物館 "wikilink")[2](https://cmvvs.ru/)[3](http://www.monino.ru/)              | 公開   | 静態展示 | [4](http://www.monino.ru/index.sema?a=aviation&sa=item&id=46&doshow=1&doid=19&sh19=1&sh28=1&sh32=1&sh14=1&sh15=1&sh16=1&sh17=1&sh18=1&sh20=1&sh21=1&sh30=1&sh23=1&sh1=1&sh24=1) |
+| MiG-9 / FS | 不明     | [写真](https://www.airliners.net/photo/China-Air-Force/Mikoyan-Gurevich-MiG-9/1767769/L)                                                                                                                   | 中国 北京     | 北京航空宇宙博物館                                                                                                                        | 公開   | 静態展示 |                                                                                                                                                                                 |
+|            |        |                                                                                                                                                                                                          |           |                                                                                                                                  |      |      |                                                                                                                                                                                 |
+
+## 脚注
+
+## 参考文献
+
+  - [](http://www.airwar.ru/enc/fighter/mig9.html)
+  - [](http://www.airwar.ru/enc/xplane/mig9l.html)
+  - [](http://www.airwar.ru/enc/fighter/mig9m.html)
+  - [](http://www.airwar.ru/enc/other/mig9uti.html)
+
+## 外部リンク
 
   - I-300試作機初号機
 
@@ -71,17 +94,8 @@ MiG-9各型は[中華人民共和国](../Page/中華人民共和国.md "wikilink
   -
     [](http://www.airwar.ru/image/idop/fighter/mig9m/mig9m-3.jpg)
 
-## 参考文献
-
-  - [](http://www.airwar.ru/enc/fighter/mig9.html)
-  - [](http://www.airwar.ru/enc/xplane/mig9l.html)
-  - [](http://www.airwar.ru/enc/fighter/mig9m.html)
-  - [](http://www.airwar.ru/enc/other/mig9uti.html)
-
 ## 関連項目
 
 [Yak-15](../Page/Yak-15_\(航空機\).md "wikilink") - 同時期に開発されたジェット戦闘機。
-
-## 脚注
 
 [Category:ソ連・ロシアの戦闘機](https://ja.wikipedia.org/wiki/Category:ソ連・ロシアの戦闘機 "wikilink") [Category:ミコヤン・グレヴィッチ設計局の航空機](https://ja.wikipedia.org/wiki/Category:ミコヤン・グレヴィッチ設計局の航空機 "wikilink")

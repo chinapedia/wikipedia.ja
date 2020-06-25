@@ -116,7 +116,7 @@
       - [6月30日](../Page/6月30日.md "wikilink") 17th single「[マタ逢ウ日マデ2010〜冨田流〜](https://ja.wikipedia.org/wiki/マタ逢ウ日マデ2010〜冨田流〜 "wikilink")」発売。同時にケータイ用きせかえ第一弾として「マタ逢ウ日マデ2010〜冨田流〜」バージョンを配信。
       - [7月5日](../Page/7月5日.md "wikilink") ラジオ [J-WAVE](../Page/J-WAVE.md "wikilink")81.3FM番組｢[M+](https://ja.wikipedia.org/wiki/M+ "wikilink")｣で新コーナー「“[RIP SERVICE](https://ja.wikipedia.org/wiki/RIP_SERVICE "wikilink")”(リップサービス)」がスタート。
       - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") ケータイ用きせかえ第二弾「[楽園ベイベー](../Page/楽園ベイベー.md "wikilink")」バージョンを配信。バンダイナムコゲームス「[太鼓の達人](../Page/太鼓の達人.md "wikilink")+」とのコラボレーションで、SUの『ディープ・クレンジング』と追加楽曲パック「RSパック」を配信開始。
-      - [7月21日](../Page/7月21日.md "wikilink") この日発売の[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のアルバム『[We are SMAP\!](https://ja.wikipedia.org/wiki/We_are_SMAP! "wikilink")』に「Going Over」という曲を提供。
+      - [7月21日](../Page/7月21日.md "wikilink") この日発売の[SMAP](../Page/SMAP.md "wikilink")のアルバム『[We are SMAP\!](https://ja.wikipedia.org/wiki/We_are_SMAP! "wikilink")』に「Going Over」という曲を提供。
       - [7月30日](../Page/7月30日.md "wikilink") 2週連続、[テレビ朝日](../Page/テレビ朝日.md "wikilink")全国ネット「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に出演。曲名は「SCAR」。
       - [8月1日](../Page/8月1日.md "wikilink") 「[Music Lovers](../Page/Music_Lovers.md "wikilink")」出演。
       - [8月4日](../Page/8月4日.md "wikilink") ベストアルバム『[GOOD TIMES](https://ja.wikipedia.org/wiki/GOOD_TIMES_\(RIP_SLYMEのアルバム\) "wikilink")』発売。
@@ -753,7 +753,7 @@ WPV7-90010</p></td>
   - [TOKYO-FM](../Page/エフエム東京.md "wikilink") ストレイト・アウト・トーキョーIII（SUN）
       - [日曜日](../Page/日曜日.md "wikilink") 23:00〜23:55 2003年10月5日〜2005年9月25日
       - メインパーソナリティRYO-Z。毎回その他メンバーの中から一人、もしくは二人がゲスト登場。
-  - [TOKYO-FM](../Page/エフエム東京.md "wikilink") [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") "[RIP LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")"
+  - [TOKYO-FM](../Page/エフエム東京.md "wikilink") [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") "[RIP LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")"
       - 月曜日 23:05〜23:30 2005年10月3日〜2009年6月8日
   - [J-WAVE](../Page/J-WAVE.md "wikilink") [M+ (music plus)](../Page/MUSIC_PLUS.md "wikilink") "RIP SERVICE"
       - 毎週[月曜日](../Page/月曜日.md "wikilink")〜[木曜日](../Page/木曜日.md "wikilink") 12:20〜13:30 2010年7月5日〜2010年12月30日

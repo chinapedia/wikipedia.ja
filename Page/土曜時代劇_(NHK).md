@@ -214,7 +214,8 @@
   - [小吉の女房](https://ja.wikipedia.org/wiki/小吉の女房 "wikilink")（2019年7月27日 - 9月21日、主演：[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
   - [大富豪同心](https://ja.wikipedia.org/wiki/大富豪同心#テレビドラマ "wikilink")（2019年10月5日 - 2020年1月11日、主演：[中村隼人](https://ja.wikipedia.org/wiki/中村隼人_\(歌舞伎役者\) "wikilink")、原作：[幡大介](https://ja.wikipedia.org/wiki/幡大介 "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
   - [螢草 菜々の剣](https://ja.wikipedia.org/wiki/螢草_\(葉室麟\)#テレビドラマ "wikilink")（2020年1月25日 - 3月21日、主演：[清原果耶](https://ja.wikipedia.org/wiki/清原果耶 "wikilink")、原作：[葉室麟](../Page/葉室麟.md "wikilink")） - 「BS時代劇」で放送されたものを38分に再編集して放送。
-  - [雲霧仁左衛門3](https://ja.wikipedia.org/wiki/雲霧仁左衛門_\(2013年のテレビドラマ\) "wikilink")（2020年4月11日 - 、主演：中井貴一、原案：池波正太郎） - 「BS時代劇」で放送されたものを再編集して放送。
+  - [雲霧仁左衛門3](https://ja.wikipedia.org/wiki/雲霧仁左衛門_\(2013年のテレビドラマ\) "wikilink")（2020年4月11日 - 5月30日〈予定〉、主演：中井貴一、原案：池波正太郎） - 「BS時代劇」で放送されたものを再編集して放送。
+  - [雲霧仁左衛門4](https://ja.wikipedia.org/wiki/雲霧仁左衛門_\(2013年のテレビドラマ\) "wikilink")（2020年6月6日 - 、主演：中井貴一、原案：池波正太郎） - 「BS時代劇」で放送されたものを再編集して放送。
 
 ## 脚注
 

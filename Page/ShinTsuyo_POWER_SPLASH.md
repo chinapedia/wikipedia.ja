@@ -17,7 +17,7 @@
 
 [2015年](../Page/2015年.md "wikilink")4月で当番組は放送20周年となった。
 
-[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")全活動期後の2017年1月1日をもって番組タイトルは『ShinTsuyo POWER SPLASH』にリニューアル\[4\]。『ShinTsuyo』とは香取と草彅の2人の事を指しており、番組改題以前から番組メールアドレスで使用されていた。
+[SMAP](../Page/SMAP.md "wikilink")全活動期後の2017年1月1日をもって番組タイトルは『ShinTsuyo POWER SPLASH』にリニューアル\[4\]。『ShinTsuyo』とは香取と草彅の2人の事を指しており、番組改題以前から番組メールアドレスで使用されていた。
 
 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の当時の方針により[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")による関東以外からのエリアフリー聴取やタイムフリー聴取、[LISMO WAVEでの聴取には対応していなかったが](https://ja.wikipedia.org/wiki/LISMO#LISMO_WAVE "wikilink")、香取と草彅が同事務所を退所したため[2017年](../Page/2017年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送分よりradikoのエリアフリー聴取とタイムフリー聴取に対応することになった\[5\]\[6\]。なお、LISMO WAVEでは2019年9月のサービス終了まで配信停止状態が続いていた。
 

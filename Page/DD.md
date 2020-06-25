@@ -12,6 +12,7 @@
   - [男子大学生](https://ja.wikipedia.org/wiki/男子大学生 "wikilink") (dansi daigakusei)の略称。
   - [駆逐艦](../Page/駆逐艦.md "wikilink") (destroyer) の艦種記号。
   - [護衛艦](../Page/護衛艦.md "wikilink") (destroyer) の艦種記号。
+  - [ディズニーデラックス](https://ja.wikipedia.org/wiki/ディズニーデラックス "wikilink")(Disney DELUXE) - [ウォルト・ディズニー・ジャパン](../Page/ウォルト・ディズニー・ジャパン.md "wikilink")の動画配信サービスの略称。
   - [221](../Page/221.md "wikilink")の16進数表記。
   - 日本で[動軸](https://ja.wikipedia.org/wiki/動軸 "wikilink")4軸の[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")を表す符号。
   - [詳細設計](https://ja.wikipedia.org/wiki/詳細設計 "wikilink") (detail design) - [ソフトウェア開発工程](../Page/ソフトウェア開発工程.md "wikilink")の段階。

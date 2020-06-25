@@ -13,7 +13,7 @@
 
 ## ネット放送
 
-23時台の前半はゲストコーナーで、以下の[JRN加盟局でも放送された](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")。
+23時台の前半はゲストコーナーで、以下の[JRN加盟局でも放送された](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")。
 
 :\*[北海道放送](../Page/HBCラジオ.md "wikilink")
 

@@ -76,6 +76,6 @@
 
 ## 外部リンク
 
-  - [もしも体感バラエティ if](http://www.fujitv.co.jp/b_hp/if/) - フジテレビ
+  - [もしも体感バラエティ if](https://www.fujitv.co.jp/b_hp/if/) - フジテレビ
 
 [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:関西テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:関西テレビの一社提供番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:帝人一社提供番組](https://ja.wikipedia.org/wiki/Category:帝人一社提供番組 "wikilink") [Category:伊東四朗](https://ja.wikipedia.org/wiki/Category:伊東四朗 "wikilink")

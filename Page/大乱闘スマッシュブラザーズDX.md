@@ -523,7 +523,7 @@
 <td><p>旧ステージ プププランド</p></td>
 <td><p><a href="../Page/ニンテンドウオールスター!大乱闘スマッシュブラザーズ.md" title="wikilink">初代スマブラ</a><br />
 星のカービィ</p></td>
-<td><p>3DS、Wii U、SPECIAL<ref>有料追加コンテンツとして登場（[<a href="http://www.smashbros.com/jp/dlc/">http://www.smashbros.com/jp/dlc/</a> 大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U：有料追加コンテンツ配信</p></td>
+<td><p>3DS、Wii U、SPECIAL<ref>有料追加コンテンツとして登場（[<a href="https://www.smashbros.com/wiiu-3ds/jp/dlc/">https://www.smashbros.com/wiiu-3ds/jp/dlc/</a> 大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U：有料追加コンテンツ配信</p></td>
 </tr>
 <tr class="even">
 <td><p>旧ステージ ヨッシーアイランド</p></td>
@@ -659,36 +659,36 @@
 
 ## 外部リンク
 
-  - [大乱闘スマッシュブラザーズDX](http://www.nintendo.co.jp/ngc/galj/)
-  - [速報スマブラ拳\!\!](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/)
+  - [大乱闘スマッシュブラザーズDX](https://www.nintendo.co.jp/ngc/galj/)
+  - [速報スマブラ拳\!\!](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/)
 
 [Category:大乱闘スマッシュブラザーズ](https://ja.wikipedia.org/wiki/Category:大乱闘スマッシュブラザーズ "wikilink") [Category:2001年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2001年のコンピュータゲーム "wikilink") [Category:ゲームキューブ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームキューブ用ソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:2001年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:2001年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink")
 
 1.  週刊ファミ通 通巻1002号 2008年2月29日発行 (株)エンターブレイン
-2.  [allabout.co.jp 2008年1月21日付記事](http://allabout.co.jp/game/gamenews/closeup/CU20070118A/index2.htm)
+2.  [allabout.co.jp 2008年1月21日付記事](https://allabout.co.jp/gm/gc/215369/2)
 3.  『桜井政博のゲームを作って思うこと2』P20。
 4.  『ファミ通』連載の桜井のコラム「桜井政博のゲームについて思うこと」のVOL.360「いまさら『スマブラDX』のこと」より（雑誌NO.1149掲載）。
 5.  [速報スマブラ拳\!\! コインバトル（2001年8月10日更新）](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0810/index.html)などでそのようなコンセプトで製作中であると述べられていた。
 6.
 7.  [Game Developers Conference](../Page/Game_Developers_Conference.md "wikilink") 2008で桜井が行った『大乱闘スマッシュブラザーズ』製作手法に関する公演より。
 8.  発売直後の『[ニンテンドードリーム](../Page/ニンテンドードリーム.md "wikilink")』2002年1月号に掲載されたインタビューによると「[点滴](https://ja.wikipedia.org/wiki/点滴 "wikilink")なども使いながらの2日徹夜の作業」で、後の『ファミ通』連載コラムVOL.360によると「40時間徹夜で、4時間寝るために帰宅していた」という状況だったとのこと。
-9.  [任天堂・岩田氏をゲストに送る「ゲーマーはもっと経営者を目指すべき！」最終回――経営とは「コトとヒト」の両方について考える「最適化ゲーム」 - 4Gamer.net（2014年12月27日付記事）](http://www.4gamer.net/games/999/G999905/20141226033/index_2.html)
+9.  [任天堂・岩田氏をゲストに送る「ゲーマーはもっと経営者を目指すべき！」最終回――経営とは「コトとヒト」の両方について考える「最適化ゲーム」 - 4Gamer.net（2014年12月27日付記事）](https://www.4gamer.net/games/999/G999905/20141226033/index_2.html)
 10. [速報スマブラ拳\!\! : マルス](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1204/index.html)
-11. [ピチュー （『速報スマブラ拳\!\!』2001年12月11日）](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1211/)
-12. [ガノンドロフ（『速報スマブラ拳\!\!』2001年12月18日）](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1218/)
+11. [ピチュー （『速報スマブラ拳\!\!』2001年12月11日）](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1211/)
+12. [ガノンドロフ（『速報スマブラ拳\!\!』2001年12月18日）](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1218/)
 13. 『桜井政博のゲームを作って思うこと2』P21。
 14. [速報スマブラ拳\!\!アンケート集計拳](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/syukeiken/return509.html)
 15. [速報スマブラ拳\!\!アンケート集計拳](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/syukeiken/return511.html)
 16. [速報スマブラ拳\!\!アンケート集計拳](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/syukeiken/return518.html)
 17. 以下の外部リンク先を参照。[速報スマブラ拳\!\!アンケート集計拳](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/syukeiken/return586.html)
 18. 電撃PlayStation 2008年3月28日号、Vol.414、緑川光のコラム「ターゲット・ロックオン\!\! オレ、知らない間に参戦していました（笑）」より。
-19. [速報スマブラ拳\!\!ピチュー](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1211/)
+19. [速報スマブラ拳\!\!ピチュー](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1211/)
 20. <https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/syukeiken/return554.html>
 21. 『SPECIAL』では「いかだと滝」に名称を変更。
 22. 『SPECIAL』では「いにしえの王国 USA」に名称を変更。
 23. 『SPECIAL』では「スーパーしあわせのツリー」に名称を変更。
-24. ルイージのフィギュポン説明と2001年のポケモン映画の広告映像に関しては[フィギュア名鑑（『速報スマブラ拳\!\!』2001年7月7日](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0707/topic0707.html)を参照、ガノンドロフは店頭用映像で登場していた。隠しキャラクターとした理由の詳細は[ルイージ（『速報スマブラ拳\!\!』2001年11月27日](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1127/index.html)を参照
-25. ゲーム雑誌『[ニンテンドードリーム](../Page/ニンテンドードリーム.md "wikilink")』の2002年1月号における誌上インタビューより。なお、ホームページでは「現在『スマブラ2』の企画予定は無い[1](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/PostResult2.html)」と表向きの発表していたため、そのことを記者から指摘されていた
-26. [ネス（『速報スマブラ拳\!\!』2001年7月17日](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0717/index.html)と[プリン（『速報スマブラ拳\!\!』2001年12月25日](http://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1127/index.html)
+24. ルイージのフィギュポン説明と2001年のポケモン映画の広告映像に関しては[フィギュア名鑑（『速報スマブラ拳\!\!』2001年7月7日](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0707/topic0707.html)を参照、ガノンドロフは店頭用映像で登場していた。隠しキャラクターとした理由の詳細は[ルイージ（『速報スマブラ拳\!\!』2001年11月27日](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1127/index.html)を参照
+25. ゲーム雑誌『[ニンテンドードリーム](../Page/ニンテンドードリーム.md "wikilink")』の2002年1月号における誌上インタビューより。なお、ホームページでは「現在『スマブラ2』の企画予定は無い[1](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/PostResult2.html)」と表向きの発表していたため、そのことを記者から指摘されていた
+26. [ネス（『速報スマブラ拳\!\!』2001年7月17日](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/0717/index.html)と[プリン（『速報スマブラ拳\!\!』2001年12月25日](https://www.nintendo.co.jp/n01/n64/software/nus_p_nalj/smash/flash/1127/index.html)
 27.
 28. 『ニンテンドードリーム』2002年1月号におけるインタビュー記事より。

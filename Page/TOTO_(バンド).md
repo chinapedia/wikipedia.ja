@@ -204,7 +204,7 @@
 
 <!-- end list -->
 
-  - [トム・ケリー](https://ja.wikipedia.org/wiki/トム・ケリー_\(ミュージシャン\) "wikilink")（Tom Kelly） - ギター、ボーカル
+  - [トム・ケリー](../Page/トム・ケリー_\(ミュージシャン\).md "wikilink")（Tom Kelly） - ギター、ボーカル
 
 <!-- end list -->
 

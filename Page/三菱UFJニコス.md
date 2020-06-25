@@ -317,7 +317,7 @@ JCBカード（UFJ JCBカード）や一部提携カード\[25\] は[QUICPay](..
   - [ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink") 毎週月曜19:00 - 19:54（フジテレビ、東京ローカルのみ）
   - [めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") 毎週火曜5:55 - 8:00（フジテレビ、東京ローカルのみ）
   - [どちら様も\!\!笑ってヨロシク](../Page/どちら様も!!笑ってヨロシク.md "wikilink")（日本テレビ系）
-  - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（[読売テレビ放送](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系毎週木曜](../Page/日本テレビネットワーク協議会.md "wikilink")21:00 - 21:54）※提供クレジットは「DC CARD」名義。
+  - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（[読売テレビ放送](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系毎週木曜](../Page/日本テレビネットワーク協議会.md "wikilink")21:00 - 21:54）※提供クレジットは「DC CARD→三菱UFJニコス」名義。
 
 ### UFJカード
 

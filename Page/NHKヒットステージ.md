@@ -7,7 +7,7 @@
 
 放送時間は毎週火曜20:00 - 20:43で、[NHKホール](../Page/NHKホール.md "wikilink")からの[公開](../Page/公開放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")だった。
 
-基本は[演歌](../Page/演歌.md "wikilink")や[懐メロ](../Page/懐メロ.md "wikilink")を扱う。[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")や[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")らが出演したことがあった。
+基本は[演歌](../Page/演歌.md "wikilink")や[懐メロ](../Page/懐メロ.md "wikilink")を扱う。[SMAP](../Page/SMAP.md "wikilink")や[嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")らが出演したことがあった。
 
 本番組の終了を以て、1980年4月の「[歌のビッグステージ](../Page/歌のビッグステージ_\(NHK総合\).md "wikilink")」以降続いた、総合テレビの**火曜20時台の音楽番組**が途絶えた。後継番組「[NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")」は「**土曜**20時台」に移った\[1\]。
 

@@ -115,7 +115,7 @@
   - 好きなアーティストは[The Beatles](../Page/ビートルズ.md "wikilink")、[Oasis](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[The Smashing Pumpkins](../Page/スマッシング・パンプキンズ.md "wikilink")、[Pet Shop Boysなど](../Page/ペット・ショップ・ボーイズ.md "wikilink")。
   - 『[ループ＆ループ](../Page/ループ&ループ.md "wikilink")』のPVに、架空の歌手「渋山貴光」として一瞬だけ出演している。この事がきっかけで後藤の[ブログ](../Page/ブログ.md "wikilink")ではしばらく「渋山貴光」と呼ばれ続けていた。
   - [書道](https://ja.wikipedia.org/wiki/書道 "wikilink")6段の腕前であり、グッズの袋にも、彼の書いた文字が使用されたこともある。
-  - 『[SCHOOL OF LOCK！](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』内の企画で、[片平里菜](https://ja.wikipedia.org/wiki/片平里菜 "wikilink")の初の[シングル](../Page/シングル.md "wikilink")（[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")盤）である『始まりに』に[プロデューサー](../Page/プロデューサー.md "wikilink")として参加している。
+  - 『[SCHOOL OF LOCK！](../Page/SCHOOL_OF_LOCK!.md "wikilink")』内の企画で、[片平里菜](https://ja.wikipedia.org/wiki/片平里菜 "wikilink")の初の[シングル](../Page/シングル.md "wikilink")（[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")盤）である『始まりに』に[プロデューサー](../Page/プロデューサー.md "wikilink")として参加している。
   - 2015年夏、[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[中田有紀と結婚](https://ja.wikipedia.org/wiki/中田有紀_\(アナウンサー\) "wikilink")。翌年4月28日には女児が誕生している。
   - [インディーズ](../Page/インディーズ.md "wikilink")時代、バンドの資金管理や[自主制作](https://ja.wikipedia.org/wiki/自主制作 "wikilink")盤の[CD焼きなどは殆ど彼が行っていた](../Page/コンパクトディスク.md "wikilink")。
   - 滅多に怒ることはないが、1回だけ後藤と「ガチ喧嘩」をしたことがある。暫くの間は口も利かない状態だったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の発生をきっかけに和解したという。
@@ -233,11 +233,11 @@
       - [3月28日](../Page/3月28日.md "wikilink")、「[SPACE SHOWER TV](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink") [SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink") 05」で「[君の街まで](../Page/君の街まで.md "wikilink")」がBEST CONCEPT VIDEOを受賞。
       - [7月9日](../Page/7月9日.md "wikilink")、「NANO-MUGEN FES 2005」を[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で開催。
       - 「[SUMMER SONIC '05](../Page/サマーソニック.md "wikilink")」に出演。その前日に名古屋で開かれたSUMMER SONIC EVEで出演できなかったルースターに代わって参加。オアシス、[カサビアン](../Page/カサビアン.md "wikilink")らと共演。
-      - 2004年から続いてきた『[MOTHER MUSIC RECORDS 〜Over Drive](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")』が終了。その後は後継番組の『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』（TOKYO FM、水曜日23:05 - ）に出演。
+      - 2004年から続いてきた『[MOTHER MUSIC RECORDS 〜Over Drive](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")』が終了。その後は後継番組の『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』（TOKYO FM、水曜日23:05 - ）に出演。
   - **[2006年](../Page/2006年.md "wikilink")**
       - 結成10周年を迎えた。
       - [2月15日](../Page/2月15日.md "wikilink")、8thシングル「[ワールドアパート](../Page/ワールドアパート.md "wikilink")」リリース。アジカンにとって初となるオリコンシングルチャート初登場1位を記録。
-      - [3月7日](../Page/3月7日.md "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")の[日光市立東中学校](https://ja.wikipedia.org/wiki/日光市立東中学校 "wikilink")で生徒限定でライブを開催した（『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』での企画）。
+      - [3月7日](../Page/3月7日.md "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")の[日光市立東中学校](https://ja.wikipedia.org/wiki/日光市立東中学校 "wikilink")で生徒限定でライブを開催した（『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』での企画）。
       - [3月15日](../Page/3月15日.md "wikilink")、3rdアルバム『[ファンクラブ](../Page/ファンクラブ_\(アルバム\).md "wikilink")』リリース。
       - [7月16日](../Page/7月16日.md "wikilink") - [7月17日](../Page/7月17日.md "wikilink")、「NANO-MUGEN FES 2006」を横浜アリーナで開催。
       - [7月28日](../Page/7月28日.md "wikilink")、この年の[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")（7月28日 - 30日）に出演。念願のグリーンステージでの演奏を果たす。また、トリを務めた[フランツ・フェルディナンドの](../Page/フランツ・フェルディナンド_\(バンド\).md "wikilink")「アウトサイダーズ」に参加。
@@ -1848,7 +1848,7 @@ TYCT-60109</p></td>
 | [大喜多正毅](../Page/大喜多正毅.md "wikilink")                                                                                                                                    | 「[スタンダード](https://www.youtube.com/watch?v=3fTx79kdNoA)」「[Easter / 復活祭](https://www.youtube.com/watch?v=Ma0ICoYwKaY)」「[Opera Glasses / オペラグラス](https://www.youtube.com/watch?v=C-0eAuI3VTg)」               |
 | [大宮エリー](../Page/大宮エリー.md "wikilink")                                                                                                                                    | 「[新世紀のラブソング](https://www.youtube.com/watch?v=OH5hK-8jn8k)」                                                                                                                                                |
 | [沖田修一](https://ja.wikipedia.org/wiki/沖田修一 "wikilink")                                                                                                                   | 「[今を生きて](https://www.youtube.com/watch?v=g1asB6talrc)」                                                                                                                                                    |
-| [奥和義](../Page/奥和義.md "wikilink")                                                                                                                                        | 「アンダースタンド (LIVE at 横浜アリーナ 2006)」「[ブルートレイン](https://www.youtube.com/watch?v=11kcuAhn8JE)」「[リライト](https://www.youtube.com/watch?v=cr8magEp0Ho)」「[転がる岩、君に朝が降る](https://www.youtube.com/watch?v=sXrkgyxATwg)」 |
+| 奥和義                                                                                                                                                                     | 「アンダースタンド (LIVE at 横浜アリーナ 2006)」「[ブルートレイン](https://www.youtube.com/watch?v=11kcuAhn8JE)」「[リライト](https://www.youtube.com/watch?v=cr8magEp0Ho)」「[転がる岩、君に朝が降る](https://www.youtube.com/watch?v=sXrkgyxATwg)」 |
 | [鎌谷聡次郎](https://ja.wikipedia.org/wiki/鎌谷聡次郎 "wikilink")                                                                                                                 | 「[マーチングバンド](https://www.youtube.com/watch?v=u9-kd82t-Z4)」                                                                                                                                                 |
 | 後藤正文 / 奥和義                                                                                                                                                              | 「[ループ & ループ](https://www.youtube.com/watch?v=Aq6gMHBobcA)」                                                                                                                                                |
 | [柴田大輔](https://ja.wikipedia.org/wiki/柴田大輔 "wikilink") /planner [松村祐治](https://ja.wikipedia.org/wiki/松村祐治 "wikilink")                                                    | 「[ブラックアウト](https://www.youtube.com/watch?v=M1BLL-Zp6rE)」「[君の街まで](https://www.youtube.com/watch?v=-kFo84rwS1o)」                                                                                            |
@@ -1881,7 +1881,7 @@ TYCT-60109</p></td>
 
   - [BPR5000](../Page/BPR5000.md "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")）
   - [MOTHER MUSIC RECORDS](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")（TOKYO FM）
-  - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")、『[アジカン LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#アジカン_LOCKS! "wikilink")』（[JFN](../Page/全国FM放送協議会.md "wikilink")・TOKYO FM、番組開始 - 2009年3,2010年4月 - 2010年9月,2014年4月[火曜日](../Page/火曜日.md "wikilink")、以後はネットにて不定期放送されている。）
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")、『[アジカン LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#アジカン_LOCKS! "wikilink")』（[JFN](../Page/全国FM放送協議会.md "wikilink")・TOKYO FM、番組開始 - 2009年3,2010年4月 - 2010年9月,2014年4月[火曜日](../Page/火曜日.md "wikilink")、以後はネットにて不定期放送されている。）
   - [僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")（フジテレビ）2012年1月20日\[21\]
 
 ## 脚注

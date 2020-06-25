@@ -17,10 +17,6 @@
 
 ## 関連項目
 
-  - [EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")
-  - [LISMO Video](../Page/LISMO_Video.md "wikilink")
-  - [TELASA](https://ja.wikipedia.org/wiki/TELASA "wikilink")
-
 ## 脚注
 
 ## 外部リンク

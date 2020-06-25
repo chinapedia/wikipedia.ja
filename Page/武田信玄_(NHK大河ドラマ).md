@@ -64,7 +64,7 @@
     演：[若松武](../Page/若松武史.md "wikilink")
     信虎の二男。兄を敬い彼をよく補佐する一方で、国の為なら父や子との対立も厭わない信玄の厳格な性格に対する懸念も持っている。信虎や義信の思いを代弁して信玄に直言するなど、家中の人間関係の調整役。川中島の戦いで、味方の劣勢を食い止める貢献を果たすが戦死。彼の死後、義信事件を皮切りに武田家中の結束に、徐々に乱れが生じていく。
   - [武田信廉](../Page/武田信廉.md "wikilink")（たけだ のぶかど）
-    演：[篠塚勝](../Page/篠塚勝.md "wikilink")（少年期：長尾豪二郎）
+    演：[篠塚勝](../Page/篠塚勝.md "wikilink")（少年期：[長尾豪二郎](https://ja.wikipedia.org/wiki/長尾豪二郎 "wikilink")）
     信虎の三男。三兄弟の中では最もおっとりした性格で、絵が得意。当初は頼りない面も見られたが、信繁死後は信玄と義信の衝突を体を張って食い止め、信玄にも強い口調で叱責するなど重臣としての存在感を強めていった。西上戦から引き上げる際には信玄の[影武者](../Page/影武者.md "wikilink")を務めた。
   - [武田義信](../Page/武田義信.md "wikilink")（たけだ よしのぶ）
     （太郎→太郎義信→武田義信）
@@ -593,7 +593,7 @@
 
 ## 放送
 
-特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](http://www.nhk.or.jp/archives/chronicle/)で確認。
+特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/)で確認。
 
 ### 通常放送時間
 
@@ -702,7 +702,7 @@
 
   - [番組エピソード　大河ドラマ『武田信玄』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=taiga021)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:新田次郎](https://ja.wikipedia.org/wiki/Category:新田次郎 "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:山梨県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:山梨県を舞台としたテレビドラマ "wikilink") [Category:NHKの特撮番組](https://ja.wikipedia.org/wiki/Category:NHKの特撮番組 "wikilink") [Category:1988年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1988年のテレビドラマ "wikilink") [Category:1980年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1980年代の特撮作品 "wikilink") [Category:NHK甲府](https://ja.wikipedia.org/wiki/Category:NHK甲府 "wikilink") [Category:武田信玄を題材とした作品](https://ja.wikipedia.org/wiki/Category:武田信玄を題材とした作品 "wikilink") [Category:中井貴一](https://ja.wikipedia.org/wiki/Category:中井貴一 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:新田次郎](https://ja.wikipedia.org/wiki/Category:新田次郎 "wikilink") [Category:戦国時代_(日本)を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:戦国時代_\(日本\)を舞台としたテレビドラマ "wikilink") [Category:小説を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説を原作とするテレビドラマ "wikilink") [Category:山梨県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:山梨県を舞台としたテレビドラマ "wikilink") [Category:NHKの特撮番組](https://ja.wikipedia.org/wiki/Category:NHKの特撮番組 "wikilink") [Category:1988年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1988年のテレビドラマ "wikilink") [Category:1980年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1980年代の特撮作品 "wikilink") [Category:NHK甲府](https://ja.wikipedia.org/wiki/Category:NHK甲府 "wikilink") [Category:武田信玄を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:武田信玄を題材としたテレビドラマ "wikilink") [Category:中井貴一](https://ja.wikipedia.org/wiki/Category:中井貴一 "wikilink")
 
 1.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
 2.  松平は[2017年](../Page/2017年.md "wikilink")放送の『[おんな城主 直虎](https://ja.wikipedia.org/wiki/おんな城主_直虎 "wikilink")』にて、武田信玄役で出演している。

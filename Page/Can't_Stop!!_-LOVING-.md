@@ -1,7 +1,7 @@
 > この記事は[Can\'t Stop!! -LOVING-](https://ja.wikipedia.org/wiki/Can\'t_Stop!!_-LOVING-)から翻訳されています。
 
 
-「**Can't Stop\!\! -LOVING-**」（キャント ストップ\!\! ラビング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")シングルである。[1991年](../Page/1991年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**Can't Stop\!\! -LOVING-**」（キャント ストップ\!\! ラビング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](../Page/SMAP.md "wikilink")の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")シングルである。[1991年](../Page/1991年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")にビクター音楽産業（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 

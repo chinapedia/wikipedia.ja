@@ -29,7 +29,7 @@
 
 [2005年](../Page/2005年.md "wikilink")には「笑い男事件」を描いたエピソードを160分にまとめた『**攻殻機動隊STAND ALONE COMPLEX The Laughing Man**』が制作され、DVDでリリースされた。
 
-なお、OPを歌っていた[Origa](../Page/Origa.md "wikilink")が[2015年](../Page/2015年.md "wikilink")初頭に病死した事に伴い、同年の[テレ玉での再放送ではOPないしは本編Aパート冒頭に彼女の死を悼む弔文が](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[テロップ](https://ja.wikipedia.org/wiki/テロップ "wikilink")としてオーバーラップされている回がある。
+なお、OPを歌っていた[Origa](../Page/Origa.md "wikilink")が[2015年](../Page/2015年.md "wikilink")初頭に病死した事に伴い、同年の[テレ玉での再放送ではOPないしは本編Aパート冒頭に彼女の死を悼む弔文が](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[テロップ](../Page/テロップ.md "wikilink")としてオーバーラップされている回がある。
 
 ### S.A.C.シリーズ（続編）
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-この時間帯に放送されていた自社制作の[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")『[小野沢裕子のいきいきワイド](https://ja.wikipedia.org/wiki/小野沢裕子のいきいきワイド "wikilink")』の後を受け、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送開始。16:53 - 18:17には[テレビ朝日](../Page/テレビ朝日.md "wikilink")制作の『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』をネットし、18:17以降を自社製作枠としていた。かつては17:35から独自コーナーを放送していたが、放送終了時点では17:35以降も東京発のネットを行っていた。
+この時間帯に放送されていた自社制作の[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")『[小野沢裕子のいきいきワイド](https://ja.wikipedia.org/wiki/小野沢裕子のいきいきワイド "wikilink")』の後を受け、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送開始。16:53 - 18:17には[テレビ朝日](../Page/テレビ朝日.md "wikilink")制作の『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』をネットし、18:17以降を自社製作枠としていた。かつては17:35から独自コーナーを放送していたが、放送終了時点では17:35以降も東京発のネットを行っていた。
 
 [2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")をもって平日の放送を終了し、翌週の[4月4日](../Page/4月4日.md "wikilink")から本番組と平日昼の情報番組であった『[レクスタ発昼どきキンコンカン](https://ja.wikipedia.org/wiki/レクスタ発昼どきキンコンカン "wikilink")』を統合した[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")『[全力LIVE](https://ja.wikipedia.org/wiki/全力LIVE "wikilink")』内で平日夕方のローカルニュースが扱われている。
 
@@ -97,7 +97,7 @@
 ## 関連項目
 
   - [スーパーJにいがた](https://ja.wikipedia.org/wiki/スーパーJにいがた "wikilink")
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 外部リンク

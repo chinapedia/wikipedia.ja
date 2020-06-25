@@ -3,7 +3,7 @@
 
 『**P・O・P**』（ピー・オー・ピー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[THE MAD CAPSULE MARKET'Sの](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")2枚目のアルバム、及びメジャーでのファースト・アルバム。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
+[1991年](../Page/1991年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の[Invitationレーベルよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。
 
 ## 背景
 

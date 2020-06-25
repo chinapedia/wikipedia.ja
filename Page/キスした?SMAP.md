@@ -1,7 +1,7 @@
 > この記事は[キスした\?SMAP](https://ja.wikipedia.org/wiki/キスした\?SMAP)から翻訳されています。
 
 
-『**キスした?SMAP**』（きすした?スマップ、英語表記：**KISS shita? SMAP**）は、[テレビ朝日系列ほかで放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。制作局の[朝日放送では](../Page/朝日放送テレビ.md "wikilink")[1993年](../Page/1993年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで放送。SMAPの人気が急上昇してきた時期と重なったこともあり、番組は約3年半にわたって放送された。
+『**キスした?SMAP**』（きすした?スマップ、英語表記：**KISS shita? SMAP**）は、[テレビ朝日系列ほかで放送された](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[SMAP](../Page/SMAP.md "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。制作局の[朝日放送では](../Page/朝日放送テレビ.md "wikilink")[1993年](../Page/1993年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで放送。SMAPの人気が急上昇してきた時期と重なったこともあり、番組は約3年半にわたって放送された。
 
 また、本項では2004年復活版『**中居正広がいまさら…キスした?SMAP**』についても記述する。
 
@@ -11,7 +11,7 @@
 
 ### 司会
 
-[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）
 
 ### レギュラー
 

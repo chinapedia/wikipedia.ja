@@ -9,7 +9,7 @@
 
 [JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[JR Ski Ski](https://ja.wikipedia.org/wiki/JR_SKISKI "wikilink")」（1991-1992）の[CMソングに](../Page/コマーシャルソング.md "wikilink")、1991年10月より起用された。以降、'94-'95シーズンまでの4年間、ZOOの楽曲が採用された。
 
-タイトルにある「Choo Choo」（チュー チュー）とは、[英語](../Page/英語.md "wikilink")で[蒸気機関車](../Page/蒸気機関車.md "wikilink")の音を表現する[擬音](https://ja.wikipedia.org/wiki/擬音 "wikilink")、または蒸気機関車そのものを指す幼児語である。つまり「Choo Choo Train」は、日本語で直訳すると「**汽車ぽっぽ**」に近い。JR東日本側よりこの言葉を歌詞に使った楽曲製作の依頼を中西圭三が請け負い、イントロには[小西貴雄](../Page/小西貴雄.md "wikilink")の提案により[D.Trainの楽曲](https://ja.wikipedia.org/wiki/D・トレイン "wikilink")「Keep On」をサンプリングされている\[1\]\[2\]。
+タイトルにある「Choo Choo」（チュー チュー）とは、[英語](../Page/英語.md "wikilink")で[蒸気機関車](../Page/蒸気機関車.md "wikilink")の音を表現する[擬音](https://ja.wikipedia.org/wiki/擬音 "wikilink")、または蒸気機関車そのものを指す幼児語である。つまり「Choo Choo Train」は、日本語で直訳すると「**汽車ぽっぽ**」に近い。JR東日本側よりこの言葉を歌詞に使った楽曲製作の依頼を中西圭三が請け負い、イントロには[小西貴雄](../Page/小西貴雄.md "wikilink")の提案により[D.Trainの楽曲](https://ja.wikipedia.org/wiki/D・トレイン "wikilink")「」をサンプリングされている\[1\]。
 
 ## 収録曲
 
@@ -24,7 +24,7 @@
 
 ## Choo Choo TRAIN Dance
 
-[Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(front\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif") [Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(up\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif") イントロにサンプリングされている楽曲「Keep On」のフレーズが流れている間における、数名が一直線上に並び、身体をグルグル回すダンスはよくパロディされることが多い。主な例として、「[羞恥心](https://ja.wikipedia.org/wiki/羞恥心_\(曲\) "wikilink")」（[羞恥心](../Page/羞恥心_\(ユニット\).md "wikilink")）の振り付け、「マハラジャスーパースター」（[大田クルー](../Page/大田クルー.md "wikilink")と[温水洋一](../Page/温水洋一.md "wikilink")）のPVや[ドコモダケ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[金鳥](../Page/大日本除虫菊.md "wikilink")『コンバット』のCM、ゲーム『[ドラゴンクエストIX 星空の守り人](https://ja.wikipedia.org/wiki/ドラゴンクエストIX_星空の守り人 "wikilink")』の技「バックダンサー呼び」、特撮テレビドラマ『[烈車戦隊トッキュウジャー](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャー "wikilink")』の決めポーズ\[3\]など。
+[Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(front\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(front)_2014-12-04.gif") [Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif](https://ja.wikipedia.org/wiki/File:Choo_Choo_TRAIN_Dance_\(up\)_2014-12-04.gif "fig:Choo_Choo_TRAIN_Dance_(up)_2014-12-04.gif") イントロにサンプリングされている楽曲「Keep On」のフレーズが流れている間における、数名が一直線上に並び、身体をグルグル回すダンスはよくパロディされることが多い。主な例として、「[羞恥心](https://ja.wikipedia.org/wiki/羞恥心_\(曲\) "wikilink")」（[羞恥心](../Page/羞恥心_\(ユニット\).md "wikilink")）の振り付け、「マハラジャスーパースター」（[大田クルー](../Page/大田クルー.md "wikilink")と[温水洋一](../Page/温水洋一.md "wikilink")）のPVや[ドコモダケ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[金鳥](../Page/大日本除虫菊.md "wikilink")『コンバット』のCM、ゲーム『[ドラゴンクエストIX 星空の守り人](https://ja.wikipedia.org/wiki/ドラゴンクエストIX_星空の守り人 "wikilink")』の技「バックダンサー呼び」、特撮テレビドラマ『[烈車戦隊トッキュウジャー](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャー "wikilink")』の決めポーズ\[2\]など。
 
 当ダンスは**ZOO版は正面から見て時計回り**で、のちにカバーしたEXILE版は**反時計回り**である。これは[橘ケンチ](https://ja.wikipedia.org/wiki/橘ケンチ "wikilink")によると、EXILEメンバーがZOO版の録画したものを見てマネたからという。
 
@@ -66,5 +66,4 @@
 [Category:ZOOの楽曲](https://ja.wikipedia.org/wiki/Category:ZOOの楽曲 "wikilink") [Category:JRのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:JRのコマーシャルソング "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:フォーライフミュージックエンタテイメントのシングル](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのシングル "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:鉄道の音楽](https://ja.wikipedia.org/wiki/Category:鉄道の音楽 "wikilink") [Category:佐藤ありすが制作した楽曲](https://ja.wikipedia.org/wiki/Category:佐藤ありすが制作した楽曲 "wikilink") [Category:中西圭三が制作した楽曲](https://ja.wikipedia.org/wiki/Category:中西圭三が制作した楽曲 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")
 
 1.  [Choo Choo TRAIN／ZOO](http://hfm.jp/blog/shokutaku/2012/02/198619891990zoo1st_zoo_19896da.html)（広島FM 食卓のON楽）
-2.  [Choo Choo Trainのイントロの歌詞](http://exsaito5.exblog.jp/4256750)（something happened）
-3.
+2.

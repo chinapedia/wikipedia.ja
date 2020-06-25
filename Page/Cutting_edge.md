@@ -270,7 +270,7 @@ cutting edge内に[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")や
 ## コンピレーションアルバム
 
   - [BASS PATROL\!](https://ja.wikipedia.org/wiki/BASS_PATROL! "wikilink")（コンピレーション） (1994年〜1999年)
-  - [EUROBEAT FLASH](https://ja.wikipedia.org/wiki/EUROBEAT_FLASH "wikilink")（コンピレーション） (1996年〜1999年)
+  - [EUROBEAT FLASH](../Page/EUROBEAT_FLASH.md "wikilink")（コンピレーション） (1996年〜1999年)
   - [EUROMACH](https://ja.wikipedia.org/wiki/EUROMACH "wikilink")（コンピレーション、Vol.10以降は[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")） (1999年〜2001年)
 
 <div class="NavFrame" style="clear:both;border:0;">

@@ -79,7 +79,7 @@ Lost Withnessの「Red Sun Rising」をモチーフとした曲であり\[1\]『
 
   - 折戸伸治プロデュースのバンド「WORK-S」のアルバム『Humanity...』（[Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")、2001年8月10日発売）に「鳥の詩 〜[Bossanova](../Page/ボサノヴァ.md "wikilink") Version〜」がボーナストラックとして収録された。
   - Liaの歌声をデータベースとしたVOCALOID3、[IA -ARIA ON THE PLANETES-には](https://ja.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")、鳥の詩の歌唱データファイルと伴奏用のインストゥルメンタル版の音楽データファイルが添付されている。
-  - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")のアイドル育成ゲーム『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』のオフィシャルグッズショップ「765プロダクション商品企画部」において、所属アイドル（登場キャラクター）の歌う[カバー](../Page/カバー.md "wikilink")曲のリクエストをユーザーから行ったところ、「如月千早（声：[今井麻美](../Page/今井麻美.md "wikilink")）」のカバー曲として選考されている\[5\]。
+  - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")のアイドル育成ゲーム『[THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")』のオフィシャルグッズショップ「765プロダクション商品企画部」において、所属アイドル（登場キャラクター）の歌う[カバー](../Page/カバー.md "wikilink")曲のリクエストをユーザーから行ったところ、「如月千早（声：[今井麻美](../Page/今井麻美.md "wikilink")）」のカバー曲として選考されている\[5\]。また、同シリーズの音楽ゲーム『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』ではKeyコラボの一環として、「高垣楓（声：[早見沙織](../Page/早見沙織.md "wikilink")）」によるカバー版がプレイアブル楽曲として実装された。
   - テレビ番組『[モテケン](../Page/モテケン.md "wikilink")』の2007年10月15日放送分のエンディングテーマ
   - ラジオ番組『[新らっきー☆ちゃんねる](https://ja.wikipedia.org/wiki/新らっきー☆ちゃんねる "wikilink")』のコーナー「拝啓・日下部みさお様」タイトルコールのジングル（本曲イントロ部分のアレンジ）としても使われた。
   - 2008年に[遠藤正明](../Page/遠藤正明.md "wikilink")が自身のアニソンカバーアルバム『ENSON2』でこの曲のカバーを行っている。
@@ -98,6 +98,7 @@ Lost Withnessの「Red Sun Rising」をモチーフとした曲であり\[1\]『
   - [高垣彩陽](../Page/高垣彩陽.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に行われた、声優ユニット[スフィアのイベント](https://ja.wikipedia.org/wiki/スフィア_\(声優ユニット\) "wikilink")「ミュージックレインgirls 春のチョコまつり」内にて）
   - [米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")（『泣けるアニソン』収録）
   - [富士葵](https://ja.wikipedia.org/wiki/富士葵 "wikilink")（[2018年](../Page/2018年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に投稿した動画『【歌ってみた】鳥の詩／Lia『AIR』』にて）
+  - 高垣楓（声 - [早見沙織](../Page/早見沙織.md "wikilink")）（『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』にて）
 
 ## 永邦による盗作事件
 

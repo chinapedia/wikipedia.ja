@@ -84,7 +84,7 @@
   - [久保田久美](https://ja.wikipedia.org/wiki/久保田久美 "wikilink")
   - [高谷やす子](https://ja.wikipedia.org/wiki/高谷やす子 "wikilink")
   - [山城定子](https://ja.wikipedia.org/wiki/山城定子 "wikilink")
-  - [村松麻理子](https://ja.wikipedia.org/wiki/村松麻理子 "wikilink")
+  - [村松麻理子](../Page/村松麻理子.md "wikilink")
   - [一乗アキ](../Page/一乗アキ.md "wikilink")
   - [村上睦子](../Page/村上睦子.md "wikilink")
   - [柿崎宏江](https://ja.wikipedia.org/wiki/柿崎宏江 "wikilink")

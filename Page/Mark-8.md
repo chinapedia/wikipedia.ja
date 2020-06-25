@@ -28,7 +28,7 @@
   - [Mark-8](http://www.oldcomputermuseum.com/mark_8.html) oldcomputermuseum.com
   - [Roy Justus Builds a Replica of the Jon Titus Mark 8 Computer](http://www.floydcountyvirginia.org/directory/user_media/documents/226.pdf)
 
-[Category:パーソナルコンピュータ_(製品)](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ_\(製品\) "wikilink") [Category:パソコンの歴史](https://ja.wikipedia.org/wiki/Category:パソコンの歴史 "wikilink")
+[Category:第一世代のマイクロコンピュータ](https://ja.wikipedia.org/wiki/Category:第一世代のマイクロコンピュータ "wikilink") [Category:パソコンの歴史](https://ja.wikipedia.org/wiki/Category:パソコンの歴史 "wikilink")
 
 1.
 2.  [Mark-8 Minicomputer](http://www.bytecollector.com/mark_8.htm), Bryan's Old Computers, retrieved Feb 11 2009

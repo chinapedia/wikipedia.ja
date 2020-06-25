@@ -1270,7 +1270,7 @@ MECR-3034</p></td>
   - 2008年08月24日 - Sky Jamboree 2008 〜笑顔〜
   - 2008年08月30日 - SPACE SHOWER SWEET LOVE SHOWER 2008
   - 2008年08月31日 - TREASURE05X 2008 〜the greatest riot returns〜
-  - 2008年09月25日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 08
+  - 2008年09月25日 - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR YOUNG FLAG 08
   - 2008年12月29日 - COUNTDOWN JAPAN 08/09
   - 2008年12月31日 - COUNTDOWN JAPAN 08/09 -WEST-
 

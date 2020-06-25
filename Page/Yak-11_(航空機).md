@@ -34,7 +34,7 @@
 
 ## 概要
 
-Yak-3の[液冷式の](../Page/水冷エンジン.md "wikilink")[VK-105PF-2エンジンに換えて](https://ja.wikipedia.org/wiki/VK-105_\(エンジン\) "wikilink")[空冷式の](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[ASh-21星型エンジンを搭載した](https://ja.wikipedia.org/wiki/シュベツォフ_ASh-21 "wikilink")。生産は主に[チェコスロヴァキアのレト](../Page/チェコスロバキア.md "wikilink") ([LETクノヴィツェ](../Page/LETクノヴィツェ.md "wikilink")) 社でされ、同社製の機体は**C-11**（[チェコ語](../Page/チェコ語.md "wikilink"):ツェー11）と呼ばれた。輸出は各国になされた。また、近年では大戦機風の塗装を施した機体や[Yak-9風に機体を改修した機体が航空ショーなどで活躍している](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")。
+Yak-3の[液冷式の](../Page/水冷エンジン.md "wikilink")[VK-105PF-2エンジンに換えて](https://ja.wikipedia.org/wiki/VK-105_\(エンジン\) "wikilink")[空冷式の](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[ASh-21星型エンジンを搭載した](https://ja.wikipedia.org/wiki/シュベツォフ_ASh-21 "wikilink")。生産は主に[チェコスロヴァキアのレト](../Page/チェコスロバキア.md "wikilink") ([LETクノヴィツェ](../Page/LETクノヴィツェ.md "wikilink")) 社でされ、同社製の機体は**C-11**（[チェコ語](../Page/チェコ語.md "wikilink"):ツェー・イデナーツト）と呼ばれた。輸出は各国になされた。また、近年では大戦機風の塗装を施した機体や[Yak-9風に機体を改修した機体が航空ショーなどで活躍している](https://ja.wikipedia.org/wiki/Yak-9_\(航空機\) "wikilink")。
 
 [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")には発展型の**Yak-11U**と**Yak-11T**が開発された。
 

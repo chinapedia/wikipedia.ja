@@ -1432,7 +1432,7 @@ TYXT-19008/9 (BD版)</p></td>
   - 2008年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008
   - 2008年08月23日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2008
   - 2008年08月31日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink") 2008
-  - 2008年09月27日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 08
+  - 2008年09月27日 - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR YOUNG FLAG 08
   - 2008年10月31日 - ACIDMAN LIVE 2008 in [Chuo Univ.](../Page/中央大学.md "wikilink")
   - 2008年12月29日,30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 08/09
 

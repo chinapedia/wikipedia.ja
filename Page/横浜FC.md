@@ -772,7 +772,7 @@ CREATION</a></p></td>
 
 ## 関連項目
 
-  - [横浜FCの選手一覧](https://ja.wikipedia.org/wiki/横浜FCの選手一覧 "wikilink")
+  - [横浜FCの選手一覧](../Page/横浜FCの選手一覧.md "wikilink")
   - [横浜ダービー](../Page/横浜ダービー.md "wikilink")／[神奈川ダービー](../Page/神奈川ダービー.md "wikilink")
   - [横浜熱闘倶楽部](../Page/横浜熱闘倶楽部.md "wikilink")
   - [横須賀シーガルズ](https://ja.wikipedia.org/wiki/横須賀シーガルズ "wikilink")

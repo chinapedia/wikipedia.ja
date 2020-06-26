@@ -26,6 +26,10 @@
 
 ## 外部リンク
 
-  - [公益社団法人全国野球振興会（日本プロ野球OBクラブ）](http://www.obclub.or.jp/)
+  - [公益社団法人全国野球振興会（日本プロ野球OBクラブ）](https://www.obclub.or.jp/)
 
+  -
+  -
+  -
+  -
 [Category:日本のプロ野球](https://ja.wikipedia.org/wiki/Category:日本のプロ野球 "wikilink") [Category:日本の野球組織](https://ja.wikipedia.org/wiki/Category:日本の野球組織 "wikilink") [Category:公益社団法人_(内閣総理大臣認定)](https://ja.wikipedia.org/wiki/Category:公益社団法人_\(内閣総理大臣認定\) "wikilink") [Category:公益社団法人_(スポーツ関係)](https://ja.wikipedia.org/wiki/Category:公益社団法人_\(スポーツ関係\) "wikilink") [Category:東京都の公益法人](https://ja.wikipedia.org/wiki/Category:東京都の公益法人 "wikilink")

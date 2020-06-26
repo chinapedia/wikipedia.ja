@@ -160,8 +160,8 @@
   - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink")
   - [奈良テレビ放送](https://ja.wikipedia.org/wiki/奈良テレビ放送 "wikilink")
   - [びわ湖放送](../Page/びわ湖放送.md "wikilink")（以上、[独立UHF局](../Page/全国独立放送協議会.md "wikilink")）
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本ニュースネットワーク.md "wikilink")。平日版のみ、朝6:25 - 6:45に前日分を時差放送。）
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（日本テレビ系列。平日版のみ、朝6:25 - 6:39に前日分を放送。\[2\]。）
+  - [秋田放送](../Page/秋田放送.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本ニュースネットワーク.md "wikilink")。平日版のみ、朝6:25 - 6:45に前日分を時差放送。）
+  - [北日本放送](../Page/北日本放送.md "wikilink")（日本テレビ系列。平日版のみ、朝6:25 - 6:39に前日分を放送。\[2\]。）
 
 ## 末期のキャスター
 

@@ -14,9 +14,9 @@
   - ガールズラブ (girls love) → [百合 (ジャンル)](../Page/百合_\(ジャンル\).md "wikilink")
   - [グループリーグ](../Page/グループリーグ.md "wikilink")（）
   - [グリーンランド航空](https://ja.wikipedia.org/wiki/グリーンランド航空 "wikilink")
-  - [ISO/IEC 2022で](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")、0x20 - 0x7Fの領域。（)
+  - [ISO/IEC 2022で](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")、0x20 - 0x7Fの領域。の略。
   - [グッドラック](https://ja.wikipedia.org/wiki/グッドラック "wikilink")（）
-  - glhf - ネット対戦ゲームの開始時に使われるあいさつ "good luck have fun" の略。日本語の「よろしく」に相当する。
+      - glhf - ネット対戦ゲームの開始時に使われるあいさつ "good luck have fun" の略。日本語の「よろしく」に相当する。
   - 地名
       - [グリーンランド](https://ja.wikipedia.org/wiki/グリーンランド "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")
       - [グラールス州](../Page/グラールス州.md "wikilink")（）の[スイス州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")
@@ -30,14 +30,14 @@
   - 創作物
       - [ゲームラボ](../Page/ゲームラボ.md "wikilink")（）[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")の発行している[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")。
       - [GROOVE LINE](../Page/GROOVE_LINE.md "wikilink") - [J-WAVE](../Page/J-WAVE.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
-      - [GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink") - [SCHOOL OF LOCK\!のコーナー](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")。
+      - [GIRLS LOCKS\!](../Page/GIRLS_LOCKS!.md "wikilink") - [SCHOOL OF LOCK\!のコーナー](../Page/SCHOOL_OF_LOCK!.md "wikilink")。
       - [ガイディング・ライト](../Page/ガイディング・ライト.md "wikilink")（） - テレビドラマ。
   - 鉄道
       - [横浜市営地下鉄](https://ja.wikipedia.org/wiki/横浜市営地下鉄 "wikilink")の[グリーンラインの略称](https://ja.wikipedia.org/wiki/横浜市営地下鉄グリーンライン "wikilink")。
 
 ## Gl
 
-  - [ベリリウム](../Page/ベリリウム.md "wikilink")(Be)の旧元素記号 Gl、グルシニウム
+  - [ベリリウム](../Page/ベリリウム.md "wikilink") (Be) の旧元素記号 Gl、グルシニウム
 
 ## gl
 

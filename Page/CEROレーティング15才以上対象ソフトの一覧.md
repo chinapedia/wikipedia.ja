@@ -31,7 +31,7 @@
   - WWE 2K18（コンテンツアイコン：「暴力」）
   - セクシー・ブルテイル（コンテンツアイコン：「暴力、犯罪」）
   - カイジ〜絶望の鉄骨渡り〜 for Nintendo Switch（コンテンツアイコン：「ギャンブル、犯罪」）
-  - [Fortnite](https://ja.wikipedia.org/wiki/Fortnite "wikilink")(日本語訳　フォートナイト)(コンテンツアイコン　: 「暴力」)
+  - [Fortnite](https://ja.wikipedia.org/wiki/Fortnite "wikilink")（日本語訳 フォートナイト）（コンテンツアイコン：「暴力」）
 
 
 
@@ -489,7 +489,7 @@ PlayStation Vita
       - [ロスト プラネット エクストリーム コンディション](../Page/ロスト_プラネット_エクストリーム_コンディション.md "wikilink")
       - [ロスト プラネット 2](https://ja.wikipedia.org/wiki/ロスト_プラネット_2 "wikilink")
 
-#### PlayStation Store 配信ソフト (PS3)
+#### PlayStation Store 配信ソフト（PS3）
 
   - [Eat Them\! 〜博士の怒れるモンスター〜](https://ja.wikipedia.org/wiki/Eat_Them!_〜博士の怒れるモンスター〜 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [Vandal Hearts: Flames of Judgment](https://ja.wikipedia.org/wiki/Vandal_Hearts:_Flames_of_Judgment "wikilink")（コンテンツアイコン：「暴力」）
@@ -657,7 +657,7 @@ PlayStation Vita
   - [ロウきゅーぶ\!](https://ja.wikipedia.org/wiki/ロウきゅーぶ! "wikilink")　ひみつのおとしもの（コンテンツアイコン：「セクシャル」）
   - [ロード オブ アルカナ](https://ja.wikipedia.org/wiki/ロード_オブ_アルカナ "wikilink")（コンテンツアイコン：「暴力」）
 
-#### PlayStation Store 配信ソフト (PSP)
+#### PlayStation Store 配信ソフト（PSP）
 
   - [ヒーローオブスパルタ](https://ja.wikipedia.org/wiki/ヒーローオブスパルタ "wikilink")（コンテンツアイコン：「???」）
   - [ぽっちゃり☆プリンセス ポータブル](https://ja.wikipedia.org/wiki/ぽっちゃり☆プリンセス "wikilink")（コンテンツアイコン：「暴力」）

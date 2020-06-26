@@ -60,6 +60,7 @@
   - [中西 崇文](https://ja.wikipedia.org/wiki/中西_崇文 "wikilink")
   - [小林奈穂](https://ja.wikipedia.org/wiki/小林奈穂 "wikilink")
   - [山口真一](https://ja.wikipedia.org/wiki/山口真一 "wikilink")
+  - [渡邊智暁](../Page/渡邊智暁.md "wikilink") 在籍：2008年～
 
 ## 主な（元）フェロー・客員
 

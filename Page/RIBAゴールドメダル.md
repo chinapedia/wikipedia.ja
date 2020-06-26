@@ -37,7 +37,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1852年.md" title="wikilink">1852年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レオ・フォン・クレンツェ" title="wikilink">レオ・フォン・クレンツェ</a></p></td>
-<td></td>
+<td><p>（）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1853年.md" title="wikilink">1853年</a></p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p><a href="../Page/1858年.md" title="wikilink">1858年</a></p></td>
 <td></td>
-<td></td>
+<td><p>（）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1859年.md" title="wikilink">1859年</a></p></td>

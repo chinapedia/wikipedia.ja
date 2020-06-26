@@ -36,9 +36,9 @@ X/OpenとISOが進めていたSQL/CLIは、ODBCの有用性から業界標準と
 
 [.NET FrameworkではADOと同じような考え方であるが](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")、マネージド環境となるため、これらのプロバイダは一新されている。ただし、従来の[OLE DBも使えるため](https://ja.wikipedia.org/wiki/OLE_DB "wikilink")、OLE DBを経由したODBCへのアクセスは今日でも利用可能ではある。SQL Serverは当然として[オラクルなどの大手RDBMSベンダは](../Page/オラクル_\(企業\).md "wikilink").NET Framework用のプロバイダ、もしくはOLE DBプロバイダを提供しており、あえてODBCを経由しなければならないケースは少ないと考えられる。
 
-[Java](https://ja.wikipedia.org/wiki/Java "wikilink")では、かつては[JDBC](../Page/JDBC.md "wikilink")が扱うデータベース・ドライバとしてType1[ドライバ](../Page/デバイスドライバ.md "wikilink")（JDBC-ODBCブリッジ）としてJDBCの下層の物理ドライバに使われており、まだJavaに対応していないデータベースに接続する場合などの手段として使われる場合もあったが、今日では多くのデータベースがJDBCドライバを出しており、ODBCを経由させる必要性はほとんどなくなった。（SQL Serverでさえ、JDBCドライバを出している）
+[Java](https://ja.wikipedia.org/wiki/Java "wikilink")では、かつては[JDBC](../Page/JDBC.md "wikilink")が扱うデータベース・ドライバとしてType1[ドライバ](../Page/デバイスドライバ.md "wikilink")（JDBC-ODBCブリッジ）としてJDBCの下層の物理ドライバに使われており、まだJavaに対応していないデータベースに接続する場合などの手段として使われる場合もあったが、今日では多くのデータベースがJDBCドライバを出しており、ODBCを経由させる必要性はほとんどなくなった\[7\]。
 
-このため、JDBC-ODBCブリッジはJava7では非推奨となり、Java8では標準から削除された。\[7\]
+このため、JDBC-ODBCブリッジはJava7では非推奨となり、Java8では標準から削除された。\[8\]
 
 ## 外部リンク
 
@@ -46,6 +46,10 @@ X/OpenとISOが進めていたSQL/CLIは、ODBCの有用性から業界標準と
   - [Online definition of CLI](https://publications.opengroup.org/c451) at the Open Groups webpage
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 <references/>
 
@@ -57,4 +61,5 @@ X/OpenとISOが進めていたSQL/CLIは、ODBCの有用性から業界標準と
 4.
 5.  <http://msdn.microsoft.com/ja-jp/library/cc280510.aspx>
 6.  <http://blogs.technet.com/b/dataplatforminsider/archive/2011/08/29/microsoft-aligning-with-odbc.aspx>
-7.  <http://docs.oracle.com/javase/7/docs/technotes/guides/jdbc/bridge.html>
+7.  SQL Serverでさえ、JDBCドライバを出している
+8.  <http://docs.oracle.com/javase/7/docs/technotes/guides/jdbc/bridge.html>

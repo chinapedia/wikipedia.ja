@@ -119,7 +119,7 @@
   - [ZONEの](../Page/ZONE_\(バンド\).md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")『[N](../Page/N_\(ZONEのアルバム\).md "wikilink")』。
   - [田村直美](../Page/田村直美.md "wikilink")の2枚目の[アルバム](../Page/アルバム.md "wikilink")『[N'](https://ja.wikipedia.org/wiki/N' "wikilink")』。
   - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ゲームソフト『[ポケットモンスター ブラック・ホワイト](https://ja.wikipedia.org/wiki/ポケットモンスター_ブラック・ホワイト "wikilink")』および続作『ポケットモンスター ブラック2・ホワイト2』の登場人物。
-  - 漫画[DEATH NOTEの登場人物](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")[ニアの別名](https://ja.wikipedia.org/wiki/ニア_\(DEATH_NOTE\) "wikilink")。
+  - 漫画[DEATH NOTEの登場人物](../Page/DEATH_NOTE.md "wikilink")[ニアの別名](https://ja.wikipedia.org/wiki/ニア_\(DEATH_NOTE\) "wikilink")。
 
 ### 原則小文字
 

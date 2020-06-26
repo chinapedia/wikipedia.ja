@@ -308,7 +308,7 @@
   - 監督 - [豊島圭介](../Page/豊島圭介.md "wikilink")、[安里麻里](https://ja.wikipedia.org/wiki/安里麻里 "wikilink")
   - 音楽 - [渡邊崇](https://ja.wikipedia.org/wiki/渡邊崇 "wikilink")
   - 主題歌 - [竹澤汀](https://ja.wikipedia.org/wiki/竹澤汀 "wikilink") 「[yesterdays](https://ja.wikipedia.org/wiki/yesterdays_\(チャーミースマイル&グリーンヘッドの曲\)#竹澤汀によるカバー "wikilink")」（ストロボレコード）
-  - エンディングテーマ - [Mrs.GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs.GREEN_APPLE "wikilink") 「[Coffee](https://ja.wikipedia.org/wiki/ENSEMBLE "wikilink")」（[EMI Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
+  - エンディングテーマ - [Mrs.GREEN APPLE](https://ja.wikipedia.org/wiki/Mrs.GREEN_APPLE "wikilink") 「[Coffee](https://ja.wikipedia.org/wiki/ENSEMBLE_\(Mrs._GREEN_APPLEのアルバム\) "wikilink")」（[EMI Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - 制作プロダクション - [ダブ](https://ja.wikipedia.org/wiki/ダブ_\(企業\) "wikilink")
   - 制作 - [スカパー\!](../Page/スカパーJSAT.md "wikilink")
 

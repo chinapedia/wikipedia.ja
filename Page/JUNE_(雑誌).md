@@ -72,7 +72,7 @@
   - [柿沼瑛子](https://ja.wikipedia.org/wiki/柿沼瑛子 "wikilink")
   - [やまねあやの](../Page/やまねあやの.md "wikilink")
   - [SOFT BALLET](../Page/SOFT_BALLET.md "wikilink")
-  - [Peke](https://ja.wikipedia.org/wiki/Peke "wikilink") - [漫画批評](../Page/漫画評論.md "wikilink")[集団](../Page/同人サークル.md "wikilink")「[迷宮](../Page/迷宮_\(同人サークル\).md "wikilink")」周辺のスタッフにより創刊された『JUNE』とならぶ[ニューウェーブ漫画誌のひとつ](../Page/ニューウェーブ_\(漫画\).md "wikilink")
+  - [Peke](../Page/Peke.md "wikilink") - [漫画批評](../Page/漫画評論.md "wikilink")[集団](../Page/同人サークル.md "wikilink")「[迷宮](../Page/迷宮_\(同人サークル\).md "wikilink")」周辺のスタッフにより創刊された『JUNE』とならぶ[ニューウェーブ漫画誌のひとつ](../Page/ニューウェーブ_\(漫画\).md "wikilink")
 
 ## 外部リンク
 

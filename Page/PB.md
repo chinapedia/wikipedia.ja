@@ -17,7 +17,7 @@
   - [交番](../Page/交番.md "wikilink")（）
   - [プラスターボード](https://ja.wikipedia.org/wiki/プラスターボード "wikilink")（）
   - [プライベートブランド](../Page/プライベートブランド.md "wikilink")（）
-  - [青紫](https://ja.wikipedia.org/wiki/青紫 "wikilink")（）
+  - [青紫](../Page/青紫.md "wikilink")（）
   - [ペーパーバック](../Page/ペーパーバック.md "wikilink")（）
   - [基礎的財政収支](../Page/基礎的財政収支.md "wikilink")（）
   - [スポーツ](../Page/スポーツ.md "wikilink")競技などで[自己ベスト](https://ja.wikipedia.org/wiki/自己ベスト "wikilink")・自己最高記録（）

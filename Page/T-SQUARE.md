@@ -299,7 +299,7 @@ GROOVE GLOBE</p></td>
   - 夏の蜃気楼（[鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")『[KYTニュースプラス1](../Page/KYTニュースプラス1.md "wikilink")』テーマ曲）
   - TRIUMPH（フジテレビ系列『[スーパー競馬](../Page/スーパー競馬.md "wikilink")』スタジオテーマ曲、北海道文化放送『ドラマチック競馬』1998年スタジオテーマ曲、TBSラジオ『[荒川強啓 デイ・キャッチ\!](../Page/荒川強啓_デイ・キャッチ!.md "wikilink")』内・[JRN](https://ja.wikipedia.org/wiki/JRN "wikilink")系列『[ネットワークTODAY](https://ja.wikipedia.org/wiki/ネットワークTODAY "wikilink")』の中にあるスポーツコーナー、「[ジョージア](../Page/ジョージア_\(缶コーヒー\).md "wikilink") “ほっと”インフォメーション」テーマ曲、日本テレビ系列『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』プロ野球いれコミ情報のBGM、FBS[福岡放送](../Page/福岡放送.md "wikilink")『[めんたいワイド](../Page/めんたいワイド.md "wikilink")』オープニング曲）
   - SUNNYSIDE CRUISE（[ラジオ大阪](../Page/大阪放送.md "wikilink")『OBC イブニング6』テーマ曲）
-  - SPLASH\!（[テレビ高知](../Page/テレビ高知.md "wikilink")『[KUTVニュース](../Page/KUTVニュース.md "wikilink")』テーマ曲、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[TBCラジオ](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[RCCラジオ](../Page/中国放送.md "wikilink")、[KBCラジオ](../Page/KBCラジオ.md "wikilink")『[キリン一番搾りプレゼンツICHIBANプレーヤー\!](https://ja.wikipedia.org/wiki/ショウアップナイタープレイボール#麒麟麦酒コーナー "wikilink")』BGM）
+  - SPLASH\!（[テレビ高知](../Page/テレビ高知.md "wikilink")『[KUTVニュース](../Page/KUTVニュース.md "wikilink")』テーマ曲、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、[STVラジオ](../Page/STVラジオ.md "wikilink")、[TBCラジオ](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、[RCCラジオ](../Page/中国放送.md "wikilink")、[KBCラジオ](../Page/KBCラジオ.md "wikilink")『[キリン一番搾りプレゼンツICHIBANプレーヤー\!](https://ja.wikipedia.org/wiki/ショウアップナイタープレイボール#麒麟麦酒コーナー "wikilink")』BGM）
   - PRIME TIME（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[Jリーグ中継](../Page/Jリーグ中継_\(NHK\).md "wikilink")』テーマ曲）
   - VICTORY（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列『[ワイド\!スクランブル](../Page/ワイド!スクランブル.md "wikilink")』テーマ曲、ラジオ『[元気はつらつ歌謡曲](https://ja.wikipedia.org/wiki/元気はつらつ歌謡曲 "wikilink")』テーマ曲、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")『いっちゃおう甲子園』BGM）
   - PIOGGIA DI CAPRI（[RFラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")『[長野祐也の政界キーパーソンに聞く](../Page/長野祐也の政界キーパーソンに聞く.md "wikilink")』オープニングテーマ曲）
@@ -307,7 +307,7 @@ GROOVE GLOBE</p></td>
   - SAMURAI METROPOLIS（[テレビ信州](../Page/テレビ信州.md "wikilink")『お天気最終版』BGM）
   - Japanese Soul Brothers（TOKYO MXを除いた関東地方の独立UHF局『[中央競馬ワイド中継](https://ja.wikipedia.org/wiki/中央競馬ワイド中継#中央競馬ワイド中継 "wikilink")』スタジオオープニング）※GI開催日のみ
   - Away From Home（『中央競馬ハイライト』スタジオオープニング）※2009年6月14日まで
-  - SCRAMBRING（テレビ朝日系列『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』テーマ曲、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")『ウィークリートピックス』オープニング曲）
+  - SCRAMBRING（テレビ朝日系列『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』テーマ曲、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")『ウィークリートピックス』オープニング曲）
   - FRIENDSHIP（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』エンディングテーマ曲、フジテレビ系列『[ごきげんよう](../Page/ライオンのごきげんよう.md "wikilink")』エンディングテーマ曲）
   - DOWN TO MEMPHIS（[快適生活ラジオショッピング](https://ja.wikipedia.org/wiki/快適生活ラジオショッピング "wikilink")BGM（[FM滋賀自社制作分のみ](../Page/エフエム滋賀.md "wikilink")））
   - EUROSTAR 〜run into a light〜（日本テレビ系列『NNNきょうの出来事』エンディングテーマ曲）

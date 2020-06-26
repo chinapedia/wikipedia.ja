@@ -15,4 +15,4 @@
 
 ## 出典
 
-[Category:アメリカ中央情報局](https://ja.wikipedia.org/wiki/Category:アメリカ中央情報局 "wikilink") [Category:ウォーターゲート事件の人物](https://ja.wikipedia.org/wiki/Category:ウォーターゲート事件の人物 "wikilink") [Category:ジョージ・ワシントン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ジョージ・ワシントン大学出身の人物 "wikilink") [Category:1924年生](https://ja.wikipedia.org/wiki/Category:1924年生 "wikilink")
+[Category:アメリカ中央情報局の人物](https://ja.wikipedia.org/wiki/Category:アメリカ中央情報局の人物 "wikilink") [Category:ウォーターゲート事件の人物](https://ja.wikipedia.org/wiki/Category:ウォーターゲート事件の人物 "wikilink") [Category:ジョージ・ワシントン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ジョージ・ワシントン大学出身の人物 "wikilink") [Category:1924年生](https://ja.wikipedia.org/wiki/Category:1924年生 "wikilink")

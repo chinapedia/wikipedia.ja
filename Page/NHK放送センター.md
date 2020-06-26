@@ -1352,10 +1352,11 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
   - [青井実](../Page/青井実.md "wikilink")（あおい・みのる）
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink")（あさの・たつろう）
+  - [阿部渉](../Page/阿部渉.md "wikilink")（あべ･わたる）
   - [新井秀和](https://ja.wikipedia.org/wiki/新井秀和 "wikilink")（あらい・ひでかず）
   - [新井隆太](https://ja.wikipedia.org/wiki/新井隆太 "wikilink")（あらい・りゅうた）
   - [飯島徹郎](https://ja.wikipedia.org/wiki/飯島徹郎 "wikilink")（いいじま・てつろう）
-  - [飯塚洋介](../Page/飯塚洋介.md "wikilink") (いいづか・ようすけ)
+  - [飯塚洋介](../Page/飯塚洋介.md "wikilink")（いいづか・ようすけ）
   - [飯田紀久夫](../Page/飯田紀久夫.md "wikilink")（いいだ・きくお） 副部長
   - [池田耕一郎](../Page/池田耕一郎.md "wikilink")（いけだ・こういちろう）
   - [石井隆広](https://ja.wikipedia.org/wiki/石井隆広_\(アナウンサー\) "wikilink")（いしい・たかひろ）
@@ -1363,18 +1364,21 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [一橋忠之](../Page/一橋忠之.md "wikilink")（いちはし・ただゆき）
   - [糸井羊司](../Page/糸井羊司.md "wikilink")（いとい・ようじ）
   - [伊藤海彦](https://ja.wikipedia.org/wiki/伊藤海彦 "wikilink")（いとう・うみひこ）
-  - [伊藤慶太](../Page/伊藤慶太.md "wikilink")（いとう・けいた）(CA)
+  - [伊藤慶太](../Page/伊藤慶太.md "wikilink")（いとう・けいた）（CA）
   - [井上二郎](../Page/井上二郎.md "wikilink")（いのうえ・じろう）
   - [井上裕貴](https://ja.wikipedia.org/wiki/井上裕貴 "wikilink")（いのうえ・ゆうき）
   - [今井翔馬](https://ja.wikipedia.org/wiki/今井翔馬 "wikilink")（いまい・しょうま）
   - [岩野吉樹](https://ja.wikipedia.org/wiki/岩野吉樹 "wikilink")（いわの・よしき）
   - [太田雅英](../Page/太田雅英.md "wikilink")（おおた・まさひで）
   - [大槻隆行](https://ja.wikipedia.org/wiki/大槻隆行 "wikilink")（おおつき・たかゆき）
-  - [大橋拓](https://ja.wikipedia.org/wiki/大橋拓 "wikilink")（おおはし・たく)
-  - [小澤康喬](../Page/小澤康喬.md "wikilink")(おざわ・やすたか)
-  - [小田切千](../Page/小田切千.md "wikilink")（おだぎり・せん）(CA)
+  - [大橋拓](https://ja.wikipedia.org/wiki/大橋拓 "wikilink")（おおはし・たく）
+  - [小澤康喬](../Page/小澤康喬.md "wikilink")(おざわ・やすたか）
+  - [小田切千](../Page/小田切千.md "wikilink")（おだぎり・せん）（CA）
+
+・[小野卓司](../Page/小野卓司.md "wikilink")(おの・たくし)
+
   - [鏡和臣](https://ja.wikipedia.org/wiki/鏡和臣 "wikilink")（かがみ・かずおみ）
-  - [笠井大輔](https://ja.wikipedia.org/wiki/笠井大輔 "wikilink") (かさい・だいすけ)
+  - [笠井大輔](https://ja.wikipedia.org/wiki/笠井大輔 "wikilink")（かさい・だいすけ）
   - [金子哲也](../Page/金子哲也.md "wikilink")（かねこ・てつや）副部長
   - [栗原望](https://ja.wikipedia.org/wiki/栗原望 "wikilink")（くりはら・のぞむ）
   - [黒田信哉](../Page/黒田信哉.md "wikilink")（くろだ・しんや）
@@ -1384,14 +1388,14 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [小松宏司](../Page/小松宏司.md "wikilink")（こまつ・こうじ）
   - [小山径](https://ja.wikipedia.org/wiki/小山径 "wikilink")（こやま・けい）
   - [西東大](../Page/西東大.md "wikilink")（さいとう・だい）（SA）
-  - [坂梨哲士](../Page/坂梨哲士.md "wikilink")（さかなし・てつし）(CA)
-  - [佐々生佳典](https://ja.wikipedia.org/wiki/佐々生佳典 "wikilink") (ささお・よしのり)
+  - [坂梨哲士](../Page/坂梨哲士.md "wikilink")（さかなし・てつし）（CA）
+  - [佐々生佳典](https://ja.wikipedia.org/wiki/佐々生佳典 "wikilink")（ささお・よしのり）
   - [里匠](../Page/里匠.md "wikilink")（さと・たくみ）副部長
   - [佐藤克樹](https://ja.wikipedia.org/wiki/佐藤克樹 "wikilink")（さとう・かつき）
   - [佐藤誠太](https://ja.wikipedia.org/wiki/佐藤誠太 "wikilink")（さとう・せいた）
-  - [沢田石和樹](https://ja.wikipedia.org/wiki/沢田石和樹 "wikilink") (さわだいし・かずき)
+  - [沢田石和樹](https://ja.wikipedia.org/wiki/沢田石和樹 "wikilink")（さわだいし・かずき）
   - [三條雅幸](../Page/三條雅幸.md "wikilink")（さんじょう・まさゆき）
-  - [三瓶宏志](../Page/三瓶宏志.md "wikilink")（さんべ・こうし）(CA)
+  - [三瓶宏志](../Page/三瓶宏志.md "wikilink")（さんべ・こうし）（CA）
   - [塩屋紀克](../Page/塩屋紀克.md "wikilink")（しおや・ただよし）（SA）
   - [塩田慎二](https://ja.wikipedia.org/wiki/塩田慎二 "wikilink")（しおだ・しんじ）
   - [白鳥哲也](https://ja.wikipedia.org/wiki/白鳥哲也_\(アナウンサー\) "wikilink")（しらとり・てつや）
@@ -1400,8 +1404,8 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [杉澤僚](../Page/杉澤僚.md "wikilink")（すぎさわ・りょう）
   - [杉嶋亮作](../Page/杉嶋亮作.md "wikilink")（すぎしま・りょうさく）
   - [高井正智](https://ja.wikipedia.org/wiki/高井正智 "wikilink")（たかい・まさとも）
-  - [高鍬亮](https://ja.wikipedia.org/wiki/高鍬亮 "wikilink")（たかくわ・りょう） (SA)
-  - [高瀬耕造](../Page/高瀬耕造.md "wikilink")（たかせ・こうぞう)
+  - [高鍬亮](https://ja.wikipedia.org/wiki/高鍬亮 "wikilink")（たかくわ・りょう）（SA）
+  - [高瀬耕造](../Page/高瀬耕造.md "wikilink")（たかせ・こうぞう）
   - [瀧川剛史](https://ja.wikipedia.org/wiki/瀧川剛史 "wikilink")（たきがわ・たけし）
   - [武田真一](../Page/武田真一.md "wikilink")（たけた・しんいち）（EA）
   - [武本大樹](https://ja.wikipedia.org/wiki/武本大樹 "wikilink")（たけもと・だいき）

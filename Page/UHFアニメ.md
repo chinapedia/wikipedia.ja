@@ -68,7 +68,7 @@
 
 しかし、一部の作品の中には「アニメの舞台の地域」という、地元のよしみから地元局で放送されることもある。一例として『[たまゆら](https://ja.wikipedia.org/wiki/たまゆら_\(アニメ\) "wikilink")』シリーズの場合、[広島県](../Page/広島県.md "wikilink")が舞台であることから第1期は[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")、第2期は[NHK広島](../Page/NHK広島放送局.md "wikilink")[総合](../Page/NHK総合テレビジョン.md "wikilink")（第1期の再放送と連続して日曜昼間帯にて）で放送された\[23\]。近年では[静岡県](../Page/静岡県.md "wikilink")を舞台にした作品を地元局である[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")が積極的にネットする、といった事例も出ている。
 
-また、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[南砺市](../Page/南砺市.md "wikilink")に本社を置く[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")元請制作作品の一部が地元民放局3局（[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")・[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")・[富山テレビ](../Page/富山テレビ放送.md "wikilink")）のいずれかで放送されているほか、[Cygames](https://ja.wikipedia.org/wiki/Cygames "wikilink")作品の放送については主要都市の放送局に加えて[佐賀県](../Page/佐賀県.md "wikilink")の民放局である[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")でも放送されている。
+また、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[南砺市](../Page/南砺市.md "wikilink")に本社を置く[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")元請制作作品の一部が地元民放局3局（[北日本放送](../Page/北日本放送.md "wikilink")・[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")・[富山テレビ](../Page/富山テレビ放送.md "wikilink")）のいずれかで放送されているほか、[Cygames](https://ja.wikipedia.org/wiki/Cygames "wikilink")作品の放送については主要都市の放送局に加えて[佐賀県](../Page/佐賀県.md "wikilink")の民放局である[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")でも放送されている。
 
 各地で放送される場合、[放送系列形態については](../Page/ネットワーク_\(放送\).md "wikilink")、作品によっては地域ごとに異なる例も少なくなく、中には[関東ローカル](../Page/関東ローカル.md "wikilink")であったり、関東圏と近畿圏・中京圏のいずれかでしか放送されないこともある。また、シリーズものによっては作品ごとにネット局構成が異なったり\[24\]、諸事情でシリーズの順番通りの放送ではなかったり\[25\]、さらにキー局系列で放送された作品の続編・スピンオフ作がUHFアニメとして制作・放送\[26\]されたり、逆にUHFアニメとして製作・放送された作品の続編がキー局系列で製作・放送\[27\]される事例もあるなど、キー局系テレビアニメと比べてネット形態は非常に複雑なものとなっている。
 
@@ -249,18 +249,18 @@
 
   - ウイルスによるトラブルについて
 
-2020年の作品は、2020年4月10日現在で[新型コロナウイルスの影響による放送延期や開始時期の変更も相次いでいる](../Page/2019新型コロナウイルス.md "wikilink")。なお、これに関してはUHFアニメに限らず、在京キー局が製作・放送している作品にも当てはまる。
+2020年の作品は、2020年5月28日現在で[新型コロナウイルスの影響による放送延期や開始時期の変更も相次いでいる](../Page/2019新型コロナウイルス.md "wikilink")。なお、これに関してはUHFアニメに限らず、在京キー局が製作・放送している作品にも当てはまる。
 
   - **[A3\! SEASON SPRING & SUMMER](https://ja.wikipedia.org/wiki/A3! "wikilink")**（2020年1月期）
 
 <!-- end list -->
 
   -
-    [P.A.WORKSと](../Page/ピーエーワークス.md "wikilink")[Studio 3Hzの共同制作](https://ja.wikipedia.org/wiki/3Hz "wikilink")。当初は1月から3月までの放送予定だったが、工程上発生したスケジュール管理に起因するトラブルの解消に時間がかかっていることや新型コロナウイルスの影響も重なり、制作・放送スケジュールに関して再検討することを決定。第4話以降が4月以降に放送延期される予定\[80\]\[81\]。
+    [P.A.WORKSと](../Page/ピーエーワークス.md "wikilink")[Studio 3Hzの共同制作](https://ja.wikipedia.org/wiki/3Hz "wikilink")。当初は1月から3月までの放送予定だったが、工程上発生したスケジュール管理に起因するトラブルの解消に時間がかかっていることや新型コロナウイルスの影響も重なり、制作・放送スケジュールに関して再検討することを決定。第4話以降が4月以降に放送延期された\[80\]\[81\]。
 
 <!-- end list -->
 
-  - **[とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")T**（2020年1月期～4月期予定）
+  - **[とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")T**（2020年1月期～7月期予定）
 
 <!-- end list -->
 
@@ -269,14 +269,14 @@
     第7話の放送終了後、第8話以降についても、2週間放送が延期されることが発表された。ただしこちらは理由を明らかにしていない \[84\]。放送予定だった日は、OVAのほかに[佐藤利奈](../Page/佐藤利奈.md "wikilink")と[新井里美](../Page/新井里美.md "wikilink")による簡単なトークコーナーが放送された<ref>
 
 </ref>。
-: その後は順調に進んでいたが、第13話もコロナウイルスによる延期が発表され、通算で3回延期になる異常事態となった。ここでは第12話の再放送で対応される\[85\]。
+: その後は順調に進んでいたが、第13話と第14話もコロナウイルスによる延期が発表され、ここでは前者は第12話、後者は第13話の再放送で対応した\[85\]\[86\]。しかし、第15話の放送終了後、第16話以降の放送がコロナウイルスによる影響で7月以降に延期されることが発表され、通算で5回延期になる異常事態となった。放送が再開するまでは、キャストが選んだ傑作選などで対応される。これに伴い、当初は6月までの放送予定だったが、9月までに延長される\[87\]\[88\]。
 
   - **[インフィニット・デンドログラム](https://ja.wikipedia.org/wiki/＜Infinite_Dendrogram＞-インフィニット・デンドログラム- "wikilink")**（2020年1月期）
 
 <!-- end list -->
 
   -
-    [NAZ制作](https://ja.wikipedia.org/wiki/アニマ&カンパニー "wikilink")。新型コロナウイルスの影響による制作上の事情で第7話が放送延期。放送予定だった日は、第1話が再放送された\[86\]。
+    [NAZ制作](https://ja.wikipedia.org/wiki/アニマ&カンパニー "wikilink")。新型コロナウイルスの影響による制作上の事情で第7話が放送延期。放送予定だった日は、第1話が再放送された\[89\]。
     また、3月13日時点で一部の局では4月からの番組が決まっているため、3月までに通常枠で放送出来ない12話と13話については、4月に各局で空いていた枠にて放送される。
 
 <!-- end list -->
@@ -286,9 +286,9 @@
 <!-- end list -->
 
   -
-    [A-1 Pictures制作](../Page/A-1_Pictures.md "wikilink")。4月10日、TOKYO MXほかで25日から放送予定であったテレビアニメ『[ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン_アリシゼーション_War_of_Underworld "wikilink")』最終章となる第2期の放送および配信が7月に延期することに決定した\[87\]。
+    [A-1 Pictures制作](../Page/A-1_Pictures.md "wikilink")。4月10日、TOKYO MXほかで25日から放送予定であったテレビアニメ『[ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン_アリシゼーション_War_of_Underworld "wikilink")』最終章となる第2期の放送および配信が7月に延期することに決定した\[90\]。
 
-その他、『[天晴爛漫\!](../Page/天晴爛漫!.md "wikilink")』\[88\]と『[放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌 "wikilink")』\[89\]も5月以降の放送を取りやめる。『[number24](https://ja.wikipedia.org/wiki/number24 "wikilink")』\[90\] 、『[ツキウタ。 THE ANIMATION 2](https://ja.wikipedia.org/wiki/ツキウタ。 "wikilink")』 なども影響が及んだ。
+その他、『[天晴爛漫\!](../Page/天晴爛漫!.md "wikilink")』\[91\]と『[放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌 "wikilink")』\[92\]も5月以降の放送を取りやめる。『[number24](https://ja.wikipedia.org/wiki/number24 "wikilink")』\[93\] 、『[ツキウタ。 THE ANIMATION 2](https://ja.wikipedia.org/wiki/ツキウタ。 "wikilink")』 など数多くの作品に加え、既に2021年に放送される予定の作品にも影響が及んでいる。
 
 ## 脚注
 
@@ -418,3 +418,6 @@
 88.
 89.
 90.
+91.
+92.
+93.

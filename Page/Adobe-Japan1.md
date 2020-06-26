@@ -11,7 +11,7 @@
 
 ## 公的規格との違い
 
-出版・印刷業界には、[JIS X 0208や](../Page/JIS_X_0208.md "wikilink")[ISO/IEC 10646](https://ja.wikipedia.org/wiki/ISO/IEC_10646 "wikilink")≒[Unicode](../Page/Unicode.md "wikilink")といった公的規格の文字セットが区別せず[包摂している](../Page/包摂_\(文字コード\).md "wikilink")[異体字](https://ja.wikipedia.org/wiki/異体字 "wikilink")を区別して使う需要が根強くある。JIS X 0208や[JIS X 0213では](../Page/JIS_X_0213.md "wikilink")、国の漢字施策の影響などで規格の改正の際に例示字形を変更したことがたびたびあった。このほか[IBM拡張文字](https://ja.wikipedia.org/wiki/IBM拡張文字 "wikilink")などのベンダ拡張文字セットや、印刷業界で使われてきた文字セットでは、例示字形にない異体字やそもそもJIS漢字にない文字を取り込んでいる。Adobe-Japan1ではこれらの字形を収集し、公的規格の[コードポイントとは別にCIDを割り振って区別できるようにしている](https://ja.wikipedia.org/wiki/符号点 "wikilink")。
+出版・印刷業界には、[JIS X 0208や](../Page/JIS_X_0208.md "wikilink")[ISO/IEC 10646](https://ja.wikipedia.org/wiki/ISO/IEC_10646 "wikilink")≒[Unicode](../Page/Unicode.md "wikilink")といった公的規格の文字セットが[包摂している](../Page/包摂_\(文字コード\).md "wikilink")[異体字](https://ja.wikipedia.org/wiki/異体字 "wikilink")を区別して使う需要が根強くある。JIS X 0208や[JIS X 0213では](../Page/JIS_X_0213.md "wikilink")、国の漢字施策の影響などで規格の改正の際に例示字形を変更したことがたびたびあった。このほか[IBM拡張文字](https://ja.wikipedia.org/wiki/IBM拡張文字 "wikilink")などのベンダ拡張文字セットや、印刷業界で使われてきた文字セットでは、例示字形にない異体字やそもそもJIS漢字にない文字を取り込んでいる。Adobe-Japan1ではこれらの字形を収集し、公的規格の[コードポイントとは別にCIDを割り振って区別できるようにしている](https://ja.wikipedia.org/wiki/符号点 "wikilink")。
 
 ## CIDの参照法
 
@@ -23,14 +23,14 @@ Adobe-Japan1の追補ごとの詳細は以下の通り。
 
   - Adobe-Japan1-0 : 1993年6月11日発表。8284[グリフ](https://ja.wikipedia.org/wiki/グリフ "wikilink")。JIS X 0208-1983まで、[OCFフォント](../Page/OCFフォント.md "wikilink")で利用\[7\]。Adobe-Japan1-4でJIS X 0208-1983の規格票字形が追加されたことに伴いAdobe-Japan1-0の範囲にはJIS X 0208-1990の規格票字形を実装することになったが、当初は厳密な規格票字形の実装を求められていなかった。このためAdobe-Japan1-4以前から存在するフォントで互換性の問題が生じる場合がある\[8\]。
     Adobe-Japan1-1 : 1994年10月4日発表。8359グリフ。富士通やNECのJIS X 0208実装に使われていた字体（おおむねJIS C 6226-1978に基づく）の拡張およびJIS X 0208-1990で追加された漢字の追加。
-    Adobe-Japan1-2 : 1994年10月4日発表。8,720グリフ（CIDフォント）。IBM外字などの拡張により[マイクロソフト標準キャラクタセット](../Page/マイクロソフト標準キャラクタセット.md "wikilink")をサポートした。
+    Adobe-Japan1-2 : 1994年10月4日発表。8720グリフ（CIDフォント）。IBM外字などの拡張により[マイクロソフト標準キャラクタセット](../Page/マイクロソフト標準キャラクタセット.md "wikilink")をサポートした。
     Adobe-Japan1-3 : 2000年3月31日発表。9354グリフ ([OpenType](../Page/OpenType.md "wikilink") Std / StdN)。縦書き字形の拡張。漢字の追加はない。
     Adobe-Japan1-4 : 2000年3月31日発表。1万5444グリフ (OpenType Pro / ProN\[9\])。[Mac OS X v10.0で利用可](../Page/Mac_OS_X_v10.0.md "wikilink")。過去のJIS X 0208の規格票字形すべてや、[JIS X 0221附属書](../Page/JIS_X_0221.md "wikilink")1の[追加漢字集合に対応](https://ja.wikipedia.org/wiki/JIS_X_0221#日本文字部分レパートリ "wikilink")。
     Adobe-Japan1-5 : 2002年9月20日発表。2万0317グリフ (OpenType Pr5 / Pr5N\[10\])。[アップル拡張](../Page/アップル_\(企業\).md "wikilink")（APGS）の取り込み、[JIS X 0213](../Page/JIS_X_0213.md "wikilink"):2000、国語審議会「[表外漢字字体表](https://ja.wikipedia.org/wiki/表外漢字字体表 "wikilink")」などに対応。[Mac OS X v10.2](../Page/Mac_OS_X_v10.2.md "wikilink"), [10.3](../Page/Mac_OS_X_v10.3.md "wikilink"), [10.4で利用可](../Page/Mac_OS_X_v10.4.md "wikilink")。
     Adobe-Japan1-6 : 2004年6月11日発表。2万3058グリフ (OpenType Pr6 / Pr6N)。[JIS X 0213](../Page/JIS_X_0213.md "wikilink"):2004および[JIS X 0212への対応](../Page/JIS_X_0212.md "wikilink")。[U-PRESS](../Page/U-PRESS.md "wikilink")の文字を追加\[11\]。[Mac OS X v10.5で利用可](../Page/Mac_OS_X_v10.5.md "wikilink")。
     Adobe-Japan1-7 : 2019年4月1日発表。2万3060グリフ (OpenType Pr**6** / Pr**6**N\[12\])。[元号](../Page/元号.md "wikilink")「[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")」を表す漢字2文字からなる合字（「㋿」 U+32FF）の横組み用・縦組み用2グリフが追加された。
 
-Adobe-Japan1-4とAdobe-Japan1-5の間に[アップルが](../Page/アップル_\(企業\).md "wikilink") Mac OS X (10.1)でJIS X 0213文字を拡張した**Apple Publishing Glyph Set** (APGS)もあるが、Adobe-Japan1-5と同じものということになっている（実際にはAdobe-Japan1-5との間には僅かに違いがある\[13\]）。
+Adobe-Japan1-4とAdobe-Japan1-5との間に[アップルが](../Page/アップル_\(企業\).md "wikilink") Mac OS X (10.1)でJIS X 0213文字を拡張した**Apple Publishing Glyph Set** (APGS)もあるが、Adobe-Japan1-5と同じものということになっている（実際にはAdobe-Japan1-5との間には僅かに違いがある\[13\]）。
 
 ## Adobe-Japan1以外のCJK文字コレクション
 

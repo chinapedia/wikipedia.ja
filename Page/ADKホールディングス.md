@@ -371,7 +371,7 @@
   - [海老沢幸男](../Page/海老沢幸男.md "wikilink")（アニメーター、演出家、[エイケン](https://ja.wikipedia.org/wiki/エイケン "wikilink")出身）
   - [大塚雄三](../Page/大塚雄三.md "wikilink")（ミュージシャン・元[CHARCOAL FILTERの](../Page/CHARCOAL_FILTER.md "wikilink")[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")）
   - [大林宏](../Page/大林宏_\(検察官\).md "wikilink")（[検察官](../Page/検察官.md "wikilink")、第25代[検事総長](../Page/検事総長.md "wikilink")）（ADK取締役）
-  - [大垣友紀惠](https://ja.wikipedia.org/wiki/大垣友紀惠 "wikilink")（[アートディレクター](../Page/アートディレクター.md "wikilink")）
+  - [大垣友紀惠](../Page/大垣友紀惠.md "wikilink")（[アートディレクター](../Page/アートディレクター.md "wikilink")）
   - [片岡義朗](../Page/片岡義朗.md "wikilink")（アニメプロデューサー・舞台プロデューサー）
   - [川上徹也](https://ja.wikipedia.org/wiki/川上徹也 "wikilink")（コピーライター・コミュニケーションディレクター・作家）
   - [砧大蔵](../Page/砧大蔵.md "wikilink")（小説家、漫画原作者、ADKインターナショナル出身）

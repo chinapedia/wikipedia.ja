@@ -1183,7 +1183,7 @@
   - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")：ATV [青森テレビ](../Page/青森テレビ.md "wikilink")
   - [岩手県](../Page/岩手県.md "wikilink")：IBC 岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")）（[仙台放送](../Page/仙台放送.md "wikilink")制作[新・サンデートーク](../Page/新・サンデートーク.md "wikilink")放送の為、30分遅れネット、[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
   - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")：TBC [東北放送](../Page/東北放送.md "wikilink")
-  - [秋田県](../Page/秋田県.md "wikilink")：ABS [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）
+  - [秋田県](../Page/秋田県.md "wikilink")：ABS [秋田放送](../Page/秋田放送.md "wikilink")（[日本テレビ系](../Page/日本テレビネットワーク協議会.md "wikilink")）
   - [山形県](../Page/山形県.md "wikilink")：YBC [山形放送](../Page/山形放送.md "wikilink")
   - [福島県](../Page/福島県.md "wikilink")：TUF [テレビユー福島](../Page/テレビユー福島.md "wikilink")
   - [山梨県](../Page/山梨県.md "wikilink")：UTY [テレビ山梨](../Page/テレビ山梨.md "wikilink")
@@ -1191,7 +1191,7 @@
   - [新潟県](../Page/新潟県.md "wikilink")：BSN [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（[日曜日](../Page/日曜日.md "wikilink")10:30-11:00放送）
   - [静岡県](../Page/静岡県.md "wikilink")：SBS [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（遅れネット、日曜日10:30-11:00放送）
   - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[中京広域圏](../Page/東海3県.md "wikilink")：CBC 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、日曜日10:30-11:00放送）
-  - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")：KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（日本テレビ系・遅れネット、[水曜日](../Page/水曜日.md "wikilink")17:00-17:30放送）
+  - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")：KNB [北日本放送](../Page/北日本放送.md "wikilink")（日本テレビ系・遅れネット、[水曜日](../Page/水曜日.md "wikilink")17:00-17:30放送）
   - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")：MRO [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [福井県](../Page/福井県.md "wikilink")：FTB [福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（[フジテレビ系](../Page/フジネットワーク.md "wikilink")・遅れネット）
   - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")：RSK [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")
@@ -1202,7 +1202,7 @@
   - [愛媛県](../Page/愛媛県.md "wikilink")：RNB [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（日本テレビ系）
   - [高知県](../Page/高知県.md "wikilink")：KUTV [テレビ高知](../Page/テレビ高知.md "wikilink")（遅れネット、[水曜日](../Page/水曜日.md "wikilink")16:30-17:00放送。TBS系列局でありながら番販扱い）
   - [福岡県](../Page/福岡県.md "wikilink")：RKB [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
-  - [長崎県](../Page/長崎県.md "wikilink")：NBC [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎県](../Page/長崎県.md "wikilink")：NBC [長崎放送](../Page/長崎放送.md "wikilink")
   - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")：RKK [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [大分県](../Page/大分県.md "wikilink")：OBS [大分放送](../Page/大分放送.md "wikilink")（遅れネット、日曜日11:00-11:30放送）
   - [宮崎県](../Page/宮崎県.md "wikilink")：MRT [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

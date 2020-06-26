@@ -731,7 +731,7 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <!-- end list -->
 
   - [2月27日](../Page/2月27日.md "wikilink")：ライブBD\&DVD「LUNA SEA The Anniversary 2018 The LUV –World left behind- FINAL 5.29 日本武道館」が、SLAVE限定で発売。
-  - [5月29日](../Page/5月29日.md "wikilink")：SLAVE限定ライブ「LUNA SEA The 30th Anniversary FREE LIVE -DEAR SLAVES-」が、Zepp Tokyoにて開催。同日、メジャーデビューアルバム「IMAGE」から「LUV」までの8枚のオリジナル・アルバムをアナログレコード化しリリース、更に20thシングル「[宇宙の詩 ～Higher and Higher～/悲壮美](https://ja.wikipedia.org/wiki/宇宙の詩_～Higher_and_Higher～/悲壮美 "wikilink")」も発売。(オリコンチャート17位)
+  - [5月29日](../Page/5月29日.md "wikilink")：SLAVE限定ライブ「LUNA SEA The 30th Anniversary FREE LIVE -DEAR SLAVES-」が、Zepp Tokyoにて開催。同日、メジャーデビューアルバム「IMAGE」から「LUV」までの8枚のオリジナル・アルバムをアナログレコード化しリリース、更に20thシングル「[宇宙の詩 ～Higher and Higher～/悲壮美](https://ja.wikipedia.org/wiki/宇宙の詩_～Higher_and_Higher～/悲壮美 "wikilink")」も発売。
   - [5月31日](../Page/5月31日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")：ライブ「LUNA SEA The 30th Anniversary Special Live 日本武道館 2days」を開催。
   - [6月7日](../Page/6月7日.md "wikilink")：ライブ「LUNA SEA The 30th Anniversary Special Live in Hongkong」を香港にて開催。
   - [6月20日](../Page/6月20日.md "wikilink")：ライブ「LUNA SEA The 30th Anniversary Special Live in Bangkok」を[タイにて開催予定だったが](../Page/タイ王国.md "wikilink")、現地主催者側の諸事情により中止。
@@ -756,52 +756,53 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
   - [4月23日](../Page/4月23日.md "wikilink")：LUNASEA official Instagramがオープン。
   - [4月28日](../Page/4月28日.md "wikilink")：新曲「Make a vow」が、サブスクリプション配信スタート。同夜21時からMusic Videoが公式Youtubeで配信スタート。
   - [4月29日](../Page/4月29日.md "wikilink")：10thアルバム『CROSS』からのシングルカットとして、21stシングル「THE BEYOND GUNPLA 40th EDITION THE BEYOND x MS-06LS ZAKU II Ver.LUNA SEA」を発売。オリコン週間シングルチャート(5月11日付)では、初週で6,082枚を売り上げ、1位を獲得\[54\]。LUNA SEAとしては「gravity」以来、約20年と1ヶ月ぶりとなる首位獲得を果たした。また、シングル1位インターバル記録では歴代2位となった\[55\]。
+  - [5月28日](../Page/5月28日.md "wikilink")、結成30周年を記念し、「ECLIPS 303030 (スリーサーティー)」と題した、30日間で30曲のミュージックビデオ(フルサイズ)を公開する企画を開始。選曲はランダムであり、毎週金曜日にはレアなライヴ映像を紹介するプレミア公開を実施。また、企画の最終日には、最新曲「Make a vow」MV第2弾として、5人のリモート映像にSLAVE達の参加映像がフィーチャーされる特別編集版の公開が予定されている\[56\]。
   - [5月29日](../Page/5月29日.md "wikilink")、[6月1日](../Page/6月1日.md "wikilink")、[6月2日](../Page/6月2日.md "wikilink")：「LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL」が、東京ガーデンシアターにて開催予定だったが延期となった。
 
 ## ディスコグラフィ
 
 ### シングル
 
-|                                                              | 発売日         | タイトル                                                                                                                                                                                      | 規格                                                                | 規格品番           | オリコン最高位 | 初収録アルバム                                                                                                                                         |
-| ------------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st                                                          | 1993年2月24日  | [BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                                   | 8cm[CD](../Page/コンパクトディスク.md "wikilink")                          | MVDD-4         | 11位     | [EDEN](../Page/EDEN_\(アルバム\).md "wikilink")                                                                                                     |
-| 2nd                                                          | 1993年7月21日  | [IN MY DREAM (WITH SHIVER)](../Page/IN_MY_DREAM_\(WITH_SHIVER\).md "wikilink")                                                                                                            | 8cmCD                                                             | MVDD-6         | 9位      |                                                                                                                                                 |
-| 3rd                                                          | 1994年7月21日  | [ROSIER](../Page/ROSIER.md "wikilink")                                                                                                                                                    | 8cmCD                                                             | MVDD-17        | 3位      | [MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")                                                                                        |
-| 4th                                                          | 1994年9月21日  | [TRUE BLUE](../Page/TRUE_BLUE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                               | 8cmCD                                                             | MVDD-18        | 1位      |                                                                                                                                                 |
-| 5th                                                          | 1995年2月22日  | [MOTHER (Single Version)](../Page/MOTHER_\(Single_Version\).md "wikilink")                                                                                                                | 8cmCD                                                             | MVDD-22        | 5位      |                                                                                                                                                 |
-| 6th                                                          | 1995年11月13日 | [DESIRE](../Page/DESIRE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                                     | 8cmCD                                                             | MVDD-31        | 1位      | [STYLE](../Page/STYLE_\(LUNA_SEAのアルバム\).md "wikilink")                                                                                          |
-| 7th                                                          | 1996年3月25日  | [END OF SORROW](../Page/END_OF_SORROW.md "wikilink")                                                                                                                                      | 8cmCD                                                             | MVDD-36        | 1位      |                                                                                                                                                 |
-| 8th                                                          | 1996年7月15日  | [IN SILENCE](../Page/IN_SILENCE.md "wikilink")                                                                                                                                            | 8cmCD                                                             | MVDD-45        | 2位      |                                                                                                                                                 |
-| 9th                                                          | 1998年4月15日  | [STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                                       | 8cmCD                                                             | MVDH-13        | 1位      | [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")                                                                                                   |
-| 10th                                                         | 1998年6月3日   | [SHINE](../Page/SHINE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                                       | 8cmCD                                                             | MVDH-15        | 1位      |                                                                                                                                                 |
-| 11th                                                         | 1998年7月1日   | [I for You](../Page/I_for_You.md "wikilink")                                                                                                                                              | 8cmCD                                                             | MVDH-17        | 2位      |                                                                                                                                                 |
-| 12th                                                         | 2000年3月29日  | [gravity](../Page/Gravity_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                                   | [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")        | MVCH-1201      | 1位      | [LUNACY](../Page/LUNACY.md "wikilink")                                                                                                          |
-| 13th                                                         | 2000年5月17日  | [TONIGHT](../Page/TONIGHT_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                                   | 12cmCD                                                            | MVCH-1206      | 4位      |                                                                                                                                                 |
-| 14th                                                         | 2000年11月8日  | [LOVE SONG](../Page/LOVE_SONG_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                               | 12cmCD                                                            | UUCH-5008      | 4位      | [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")                                                                |
-| 15th                                                         | 2012年3月21日  | [THE ONE -crash to create-](https://ja.wikipedia.org/wiki/THE_ONE_-crash_to_create- "wikilink")                                                                                           | 12cmCD＋HQCD＋SACD-Hybrid+DVD                                       | YIZQ-10224〜6/B | 5位      | [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink") |
-| [SACD](https://ja.wikipedia.org/wiki/SACD "wikilink")-Hybrid | YICQ-10227  |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| [HQCD](https://ja.wikipedia.org/wiki/HQCD "wikilink")        | YICQ-10228  |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD                                                       | YICQ-10229  |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 16th                                                         | 2012年12月12日 | [The End of the Dream/Rouge](https://ja.wikipedia.org/wiki/The_End_of_the_Dream/Rouge "wikilink")                                                                                         | 2CD(SHM-CD)+Blu-ray                                               | UPCH-9820      | 6位      | [A WILL](https://ja.wikipedia.org/wiki/A_WILL "wikilink")                                                                                       |
-| CD+DVD                                                       | UPCH-9821   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| CD+DVD                                                       | UPCH-9822   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD                                                       | UPCH-5780   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 17th                                                         | 2013年8月28日  | [Thoughts](https://ja.wikipedia.org/wiki/Thoughts "wikilink")                                                                                                                             | [SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")+Blu-ray | UPCH-9883      | 7位      |                                                                                                                                                 |
-| CD+DVD                                                       | UPCH-9884   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD                                                       | UPCH-5807   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 18th                                                         | 2013年11月13日 | [乱](https://ja.wikipedia.org/wiki/乱_\(LUNA_SEAの曲\) "wikilink")                                                                                                                            | SHM-CD+Blu-ray                                                    | UPCH-9902      | 17位     |                                                                                                                                                 |
-| CD+DVD                                                       | UPCH-9903   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD                                                       | UPCH-5810   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 19th                                                         | 2016年6月22日  | [Limit](https://ja.wikipedia.org/wiki/Limit_\(LUNA_SEAの曲\) "wikilink")                                                                                                                    | SHM-CD+Blu-ray                                                    | UPCH-7146      | 14位     | [LUV](https://ja.wikipedia.org/wiki/LUV_\(アルバム\) "wikilink")                                                                                    |
-| CD+DVD                                                       | UPCH-7147   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD                                                       | UPCH-5877   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD                                                       | UPCH-7148   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 20th                                                         | 2019年5月29日  | [宇宙の詩 ～Higher and Higher～/悲壮美](https://ja.wikipedia.org/wiki/宇宙の詩_～Higher_and_Higher～/悲壮美 "wikilink")                                                                                     | 12cmCD                                                            | UPCH-7493      | 7位      | [CROSS](../Page/CROSS_\(アルバム\).md "wikilink")                                                                                                   |
-| 12cmCD                                                       | UPCH-7494   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD                                                       | UPCH-5961   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD+DVD+Tシャツ                                              | D2CJ-6282   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 12cmCD+Tシャツ                                                  | D2CJ-6283   |                                                                                                                                                                                           |                                                                   |                |         |                                                                                                                                                 |
-| 21st                                                         | 2020年4月29日  | [THE BEYOND GUNPLA 40th EDITION THE BEYOND X MS-06 ZAKU II Ver.LUNA SEA](https://ja.wikipedia.org/wiki/THE_BEYOND_GUNPLA_40th_EDITION_THE_BEYOND_X_MS-06_ZAKU_II_Ver.LUNA_SEA "wikilink") | 12cmCD+「LUNA SEA専用ザクII」オリジナル・ガンプラ                                 | UPCH-7560      | 1位      |                                                                                                                                                 |
+|                                                              | 発売日         | タイトル                                                                                                                                                                   | 規格                                                                | 規格品番           | オリコン最高位 | 初収録アルバム                                                                                                                                         |
+| ------------------------------------------------------------ | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st                                                          | 1993年2月24日  | [BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                | 8cm[CD](../Page/コンパクトディスク.md "wikilink")                          | MVDD-4         | 11位     | [EDEN](../Page/EDEN_\(アルバム\).md "wikilink")                                                                                                     |
+| 2nd                                                          | 1993年7月21日  | [IN MY DREAM (WITH SHIVER)](../Page/IN_MY_DREAM_\(WITH_SHIVER\).md "wikilink")                                                                                         | 8cmCD                                                             | MVDD-6         | 9位      |                                                                                                                                                 |
+| 3rd                                                          | 1994年7月21日  | [ROSIER](../Page/ROSIER.md "wikilink")                                                                                                                                 | 8cmCD                                                             | MVDD-17        | 3位      | [MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")                                                                                        |
+| 4th                                                          | 1994年9月21日  | [TRUE BLUE](../Page/TRUE_BLUE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                            | 8cmCD                                                             | MVDD-18        | 1位      |                                                                                                                                                 |
+| 5th                                                          | 1995年2月22日  | [MOTHER (Single Version)](../Page/MOTHER_\(Single_Version\).md "wikilink")                                                                                             | 8cmCD                                                             | MVDD-22        | 5位      |                                                                                                                                                 |
+| 6th                                                          | 1995年11月13日 | [DESIRE](../Page/DESIRE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                  | 8cmCD                                                             | MVDD-31        | 1位      | [STYLE](../Page/STYLE_\(LUNA_SEAのアルバム\).md "wikilink")                                                                                          |
+| 7th                                                          | 1996年3月25日  | [END OF SORROW](../Page/END_OF_SORROW.md "wikilink")                                                                                                                   | 8cmCD                                                             | MVDD-36        | 1位      |                                                                                                                                                 |
+| 8th                                                          | 1996年7月15日  | [IN SILENCE](../Page/IN_SILENCE.md "wikilink")                                                                                                                         | 8cmCD                                                             | MVDD-45        | 2位      |                                                                                                                                                 |
+| 9th                                                          | 1998年4月15日  | [STORM](../Page/STORM_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                    | 8cmCD                                                             | MVDH-13        | 1位      | [SHINE](../Page/SHINE_\(アルバム\).md "wikilink")                                                                                                   |
+| 10th                                                         | 1998年6月3日   | [SHINE](../Page/SHINE_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                    | 8cmCD                                                             | MVDH-15        | 1位      |                                                                                                                                                 |
+| 11th                                                         | 1998年7月1日   | [I for You](../Page/I_for_You.md "wikilink")                                                                                                                           | 8cmCD                                                             | MVDH-17        | 2位      |                                                                                                                                                 |
+| 12th                                                         | 2000年3月29日  | [gravity](../Page/Gravity_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                | [12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")        | MVCH-1201      | 1位      | [LUNACY](../Page/LUNACY.md "wikilink")                                                                                                          |
+| 13th                                                         | 2000年5月17日  | [TONIGHT](../Page/TONIGHT_\(LUNA_SEAの曲\).md "wikilink")                                                                                                                | 12cmCD                                                            | MVCH-1206      | 4位      |                                                                                                                                                 |
+| 14th                                                         | 2000年11月8日  | [LOVE SONG](../Page/LOVE_SONG_\(LUNA_SEAの曲\).md "wikilink")                                                                                                            | 12cmCD                                                            | UUCH-5008      | 4位      | [PERIOD 〜THE BEST SELECTION〜](../Page/PERIOD_〜THE_BEST_SELECTION〜.md "wikilink")                                                                |
+| 15th                                                         | 2012年3月21日  | [THE ONE -crash to create-](https://ja.wikipedia.org/wiki/THE_ONE_-crash_to_create- "wikilink")                                                                        | 12cmCD＋HQCD＋SACD-Hybrid+DVD                                       | YIZQ-10224〜6/B | 5位      | [LUNA SEA 25th Anniversary Ultimate Best -THE ONE-](https://ja.wikipedia.org/wiki/LUNA_SEA_25th_Anniversary_Ultimate_Best_-THE_ONE- "wikilink") |
+| [SACD](https://ja.wikipedia.org/wiki/SACD "wikilink")-Hybrid | YICQ-10227  |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| [HQCD](https://ja.wikipedia.org/wiki/HQCD "wikilink")        | YICQ-10228  |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD                                                       | YICQ-10229  |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 16th                                                         | 2012年12月12日 | [The End of the Dream/Rouge](https://ja.wikipedia.org/wiki/The_End_of_the_Dream/Rouge "wikilink")                                                                      | 2CD(SHM-CD)+Blu-ray                                               | UPCH-9820      | 6位      | [A WILL](https://ja.wikipedia.org/wiki/A_WILL "wikilink")                                                                                       |
+| CD+DVD                                                       | UPCH-9821   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| CD+DVD                                                       | UPCH-9822   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD                                                       | UPCH-5780   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 17th                                                         | 2013年8月28日  | [Thoughts](https://ja.wikipedia.org/wiki/Thoughts "wikilink")                                                                                                          | [SHM-CD](https://ja.wikipedia.org/wiki/SHM-CD "wikilink")+Blu-ray | UPCH-9883      | 7位      |                                                                                                                                                 |
+| CD+DVD                                                       | UPCH-9884   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD                                                       | UPCH-5807   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 18th                                                         | 2013年11月13日 | [乱](https://ja.wikipedia.org/wiki/乱_\(LUNA_SEAの曲\) "wikilink")                                                                                                         | SHM-CD+Blu-ray                                                    | UPCH-9902      | 17位     |                                                                                                                                                 |
+| CD+DVD                                                       | UPCH-9903   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD                                                       | UPCH-5810   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 19th                                                         | 2016年6月22日  | [Limit](https://ja.wikipedia.org/wiki/Limit_\(LUNA_SEAの曲\) "wikilink")                                                                                                 | SHM-CD+Blu-ray                                                    | UPCH-7146      | 14位     | [LUV](https://ja.wikipedia.org/wiki/LUV_\(アルバム\) "wikilink")                                                                                    |
+| CD+DVD                                                       | UPCH-7147   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD                                                       | UPCH-5877   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD                                                       | UPCH-7148   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 20th                                                         | 2019年5月29日  | [宇宙の詩 〜Higher and Higher〜/悲壮美](https://ja.wikipedia.org/wiki/宇宙の詩_〜Higher_and_Higher〜/悲壮美 "wikilink")                                                                  | 12cmCD                                                            | UPCH-7493      | 7位      | [CROSS](../Page/CROSS_\(アルバム\).md "wikilink")                                                                                                   |
+| 12cmCD                                                       | UPCH-7494   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD                                                       | UPCH-5961   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD+DVD+Tシャツ                                              | D2CJ-6282   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 12cmCD+Tシャツ                                                  | D2CJ-6283   |                                                                                                                                                                        |                                                                   |                |         |                                                                                                                                                 |
+| 21st                                                         | 2020年4月29日  | [THE BEYOND GUNPLA 40th EDITION THE BEYOND X MS-06 ZAKU II Ver.LUNA SEA](../Page/THE_BEYOND_GUNPLA_40th_EDITION_THE_BEYOND_X_MS-06_ZAKU_II_Ver.LUNA_SEA.md "wikilink") | 12cmCD+「LUNA SEA専用ザクII」オリジナル・ガンプラ                                 | UPCH-7560      | 1位      |                                                                                                                                                 |
 
 #### 配信限定シングル
 
@@ -820,12 +821,17 @@ LUNA SEAには、明確な[リーダー](https://ja.wikipedia.org/wiki/リーダ
 <td><p>LUNA SEA 25th Anniversary Ultimate Best -THE ONE-</p></td>
 </tr>
 <tr class="even">
+<td><p>2017年12月6日</p></td>
+<td><p>Hold You Down</p></td>
+<td><p>LUV</p></td>
+</tr>
+<tr class="odd">
 <td><p>2019年9月6日</p></td>
 <td><p><a href="../Page/BEYOND_THE_TIME_(メビウスの宇宙を越えて).md" title="wikilink">BEYOND THE TIME ～メビウスの宇宙を越えて～</a></p></td>
 <td><p>CROSS</p></td>
 </tr>
-<tr class="odd">
-<td><p>2020年4月15日[56]<br />
+<tr class="even">
+<td><p>2020年4月15日[57]<br />
 2020年4月28日</p></td>
 <td><p>Make a vow</p></td>
 <td></td>
@@ -1668,7 +1674,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 
   - DREAM IS OVER
   - PERIOD
-  - もう死んだ振りさせない（のちに曲名が「JUNK」に変更される。ただし「もう死んだ振りさせない」という曲はないとSUGIZOが明言した\[57\]。）
+  - もう死んだ振りさせない（のちに曲名が「JUNK」に変更される。ただし「もう死んだ振りさせない」という曲はないとSUGIZOが明言した\[58\]。）
   - 第三の言葉（「PRECIOUS...」の原曲）
   - Feeling（「VAMPIRE'S TALK」の原曲）
   - CONCLUSION（「A.I.」の原曲）
@@ -1738,30 +1744,30 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <p>10会場全28公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>1月8日 町田PLAY HOUSE[58]<br />
-1月11日 目黒鹿鳴館[59]<br />
+<p>1月8日 町田PLAY HOUSE[59]<br />
+1月11日 目黒鹿鳴館[60]<br />
 1月18日 目黒LIVE STATION<br />
-2月18日 厚木cafe AMI[60]<br />
+2月18日 厚木cafe AMI[61]<br />
 2月18日 四谷FOUR VALLEY<br />
-2月24日 町田PLAY HOUSE[61]<br />
-3月26日 目黒鹿鳴館[62]<br />
-4月14日 目黒LIVE STATION[63]<br />
-4月17日 町田PLAY HOUSE[64]<br />
-4月28日 平塚中央公民館[65]<br />
-5月3日 渋谷YAMAHA EPICURUS[66]<br />
-5月14日 目黒LIVE STATION[67]<br />
+2月24日 町田PLAY HOUSE[62]<br />
+3月26日 目黒鹿鳴館[63]<br />
+4月14日 目黒LIVE STATION[64]<br />
+4月17日 町田PLAY HOUSE[65]<br />
+4月28日 平塚中央公民館[66]<br />
+5月3日 渋谷YAMAHA EPICURUS[67]<br />
+5月14日 目黒LIVE STATION[68]<br />
 5月24日 目黒鹿鳴館<br />
-6月23日 目黒LIVE STATION[68]<br />
+6月23日 目黒LIVE STATION[69]<br />
 6月30日 目黒鹿鳴館<br />
-7月23日 目黒LIVE STATION[69]<br />
-7月25日 目黒鹿鳴館[70]<br />
-8月10日 <a href="https://ja.wikipedia.org/wiki/横浜_7th_AVENUE" title="wikilink">横浜7th AVENUE</a>[71]<br />
-8月16日 目黒鹿鳴館 [72]<br />
-8月30日 目黒LIVE STATION[73]<br />
-9月4日 町田PLAY HOUSE[74]<br />
+7月23日 目黒LIVE STATION[70]<br />
+7月25日 目黒鹿鳴館[71]<br />
+8月10日 <a href="https://ja.wikipedia.org/wiki/横浜_7th_AVENUE" title="wikilink">横浜7th AVENUE</a>[72]<br />
+8月16日 目黒鹿鳴館 [73]<br />
+8月30日 目黒LIVE STATION[74]<br />
+9月4日 町田PLAY HOUSE[75]<br />
 9月16日 目黒LIVE STATION<br />
 10月1日 目黒鹿鳴館<br />
-10月13日 大宮FREAKS[75]<br />
+10月13日 大宮FREAKS[76]<br />
 10月14日 目黒LIVE STATION<br />
 11月1日 目黒鹿鳴館<br />
 11月8日 横浜7th AVENUE<br />
@@ -1773,43 +1779,43 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><small>関西初LIVE</small> 爆獣 BAY AREA SHOCK</p></td>
-<td><p>4月3日 大阪MODA HALL[76]</p></td>
+<td><p>4月3日 大阪MODA HALL[77]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p><small>LUNA SEA 1周年記念ワンマン</small> 黒服限定GIG</p></td>
-<td><p>6月10日 町田PLAY HOUSE[77]</p></td>
+<td><p>6月10日 町田PLAY HOUSE[78]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>BAND EXPROSION</p></td>
-<td><p>6月24日 厚木cafe AMI[78]</p></td>
+<td><p>6月24日 厚木cafe AMI[79]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p><small>Gilles de Rais ワンマン</small> キリギリス症候群</p></td>
-<td><p>7月14日 <a href="https://ja.wikipedia.org/wiki/ヤンタ鹿鳴館" title="wikilink">大阪YANTA鹿鳴館</a>[79]</p></td>
+<td><p>7月14日 <a href="https://ja.wikipedia.org/wiki/ヤンタ鹿鳴館" title="wikilink">大阪YANTA鹿鳴館</a>[80]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>HARD ROLLING NIGHT</p></td>
-<td><p>7月15日 大阪MODA HALL[80]</p></td>
+<td><p>7月15日 大阪MODA HALL[81]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>ALL YOUNG ROCKERS</p></td>
-<td><p>8月14日 <a href="https://ja.wikipedia.org/wiki/日仏会館" title="wikilink">御茶の水 日仏会館ホール</a>[81]</p></td>
+<td><p>8月14日 <a href="https://ja.wikipedia.org/wiki/日仏会館" title="wikilink">御茶の水 日仏会館ホール</a>[82]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>黒服限定GIG</p></td>
-<td><p>11月24日 目黒LIVE STATION[82]</p></td>
+<td><p>11月24日 目黒LIVE STATION[83]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1833,7 +1839,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>年越しALL NIGHT LIVE</p></td>
-<td><p>12月31日 横浜7th AVENUE[83]</p></td>
+<td><p>12月31日 横浜7th AVENUE[84]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1867,19 +1873,19 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>オールナイトイベント</p></td>
 <td><p>MOON LIGHT ROCK REVOLUTION</p></td>
-<td><p>1月19日 <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'川崎</a>[84]</p></td>
+<td><p>1月19日 <a href="../Page/CLUB_CITTA&#39;.md" title="wikilink">CLUB CITTA'川崎</a>[85]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>ONEMAN GIG</p></td>
-<td><p>2月11日 目黒鹿鳴館[85]</p></td>
+<td><p>2月11日 目黒鹿鳴館[86]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p><small>Rockin' f presents</small> Tokyo Guerrilla Warfare</p></td>
-<td><p>2月24日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>[86]</p></td>
+<td><p>2月24日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>[87]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1894,7 +1900,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 3月14日 <a href="../Page/難波ロケッツ.md" title="wikilink">難波ROCKETS</a><br />
 3月17日 京都BIG BANG<br />
 3月18日 <a href="../Page/HeartLand_STUDIO.md" title="wikilink">名古屋HeartLand STUDIO</a><br />
-3月22日 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a>[87]</p>
+3月22日 <a href="../Page/ロフト_(ライブハウス).md" title="wikilink">新宿LOFT</a>[88]</p>
 </div>
 </div></td>
 <td></td>
@@ -1902,7 +1908,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>SOUND FILE OF LIVE STATION</p></td>
-<td><p>3月27日 CLUB CITTA'川崎[88]</p></td>
+<td><p>3月27日 CLUB CITTA'川崎[89]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1922,13 +1928,13 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p>SHOXX 師弟突撃LIVE</p></td>
-<td><p>5月5日 目黒鹿鳴館[89]</p></td>
+<td><p>5月5日 目黒鹿鳴館[90]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>LUNA SEA 結成2周年記念 セッション大会</p></td>
-<td><p>5月18日 町田PLAY HOUSE[90]</p></td>
+<td><p>5月18日 町田PLAY HOUSE[91]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1953,7 +1959,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>MOON LIGHT ROCK REVOLUTION VOL.2</p></td>
-<td><p>6月30日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[91]</p></td>
+<td><p>6月30日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>[92]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2032,7 +2038,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>MONSTER CLUB II</p></td>
-<td><p>11月3日 <a href="../Page/明治大学.md" title="wikilink">明治大学</a>[92]</p></td>
+<td><p>11月3日 <a href="../Page/明治大学.md" title="wikilink">明治大学</a>[93]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2089,7 +2095,7 @@ DOCUMENTARY of LUNA SEA 25th ANNIVERSARY LIVE TOUR THE LUNATIC -A Liberated Will
 <tr class="odd">
 <td><p>ライブイベント</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/5時SATマガジン#番組イベント" title="wikilink">5時SAT LOVE ROCKS '92</a></p></td>
-<td><p>5月5日 <a href="../Page/庄内緑地.md" title="wikilink">名古屋庄内緑地公園グランド</a>[93]</p></td>
+<td><p>5月5日 <a href="../Page/庄内緑地.md" title="wikilink">名古屋庄内緑地公園グランド</a>[94]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2149,7 +2155,7 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><a href="../Page/東日本旅客鉄道.md" title="wikilink">JR東日本</a> POP ROCKETS '92</p></td>
-<td><p>7月29日 <a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/湯沢町.md" title="wikilink">湯沢町</a>湯沢中央公園野球場[94]</p></td>
+<td><p>7月29日 <a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/湯沢町.md" title="wikilink">湯沢町</a>湯沢中央公園野球場[95]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2161,13 +2167,13 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p><small><a href="../Page/麒麟麦酒.md" title="wikilink">KIRIN</a> SOUND TOGETHER</small> <a href="https://ja.wikipedia.org/wiki/POP_HILL" title="wikilink">POP HILL</a> 92</p></td>
-<td><p>8月9日 <a href="https://ja.wikipedia.org/wiki/石川県森林公園" title="wikilink">石川県森林公園</a>緑化の広場[95]</p></td>
+<td><p>8月9日 <a href="https://ja.wikipedia.org/wiki/石川県森林公園" title="wikilink">石川県森林公園</a>緑化の広場[96]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p>BSヤングバトル '92 東北ブロック大会</p></td>
-<td><p>8月20日 仙台イズミティ21大ホール[96]</p></td>
+<td><p>8月20日 仙台イズミティ21大ホール[97]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2210,7 +2216,7 @@ IMAGE or REAL ENCORE TOUR 東・名・阪スペシャル</p></td>
 <p>2会場全2公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>10月29日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a>[97]<br />
+<p>10月29日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a>[98]<br />
 10月31日 日本武道館</p>
 </div>
 </div></td>
@@ -3008,7 +3014,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <tr class="odd">
 <td><p><del>単発コンサート</del></p></td>
 <td><p><del>LUNA SEA The 30th Anniversary Special Live in Bangkok</del></p></td>
-<td><p><del>6月20日 タイ BITEC Event Hall 106</del> [98]</p></td>
+<td><p><del>6月20日 タイ BITEC Event Hall 106</del> [99]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3065,7 +3071,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 5月9日 札幌文化芸術劇場 hitaru<br />
 5月10日 札幌文化芸術劇場 hitaru<br />
 5月14日 名古屋国際会議場 センチュリーホール<br />
-5月15日 名古屋国際会議場 センチュリーホール</del> [99]</p>
+5月15日 名古屋国際会議場 センチュリーホール</del> [100]</p>
 </div>
 </div></td>
 </tr>
@@ -3081,7 +3087,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <td><p><del><small>LUNA SEA 30th Anniversary -CROSS THE UNIVERSE- GRAND FINAL</del></p></td>
 <td><p><del>5月29日 <a href="https://ja.wikipedia.org/wiki/東京ガーデンシアター" title="wikilink">東京ガーデンシアター</a><br />
 5月30日 東京ガーデンシアター<br />
-5月31日 東京ガーデンシアター</del> [100]</p></td>
+5月31日 東京ガーデンシアター</del> [101]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3354,48 +3360,49 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 53.
 54.
 55.
-56. SLAVE限定公開日。
-57. 2020年２月19日20時～22時ニコニコ動画SugizoTube生放送
-58. with DOLLS/WOOD PECKER etc
-59. vs BILLY & THE SLUTS etc
-60. vs JOLLY PICKLES etc
-61. vs WOOD PECKER/CRACKER JACK
-62. vs DELIGHTS/東京ヤンキース
-63. vs SALAMANDER/VILE/マダムロシャス
-64. JOLLY PICKLES/SCHOOL DAZE etc
-65.
-66. 夜叉/DK POLICE etc
-67. vs DANTE
-68. vs BURN TRASH/オルフェス
-69. vs Girltipue
-70. vs SALAMANDER etc
-71. vs VOICE BLUE
-72. vs CRACKER JACK etc
-73. Gilles de Rais/DANTE etc
-74. vs VILE/SIGHS OF LOVE POTION
-75. vs SHADOW/The HAREM Q
-76. vs [AION](../Page/AION.md "wikilink")/QUEEN DOLL etc
-77. ゲスト [Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink") / DT「Lastly」180本無料配布
-78. ゲスト出演
-79.
-80. vs CUTY-CUTE/RATE GREEK etc
-81. vs JOLLY PICKLES/東京ヤンキース/BELLZLLEB
-82. この日表記をLUNACYから**LUNA SEA**に改名。250名限定/DT『SHADE』会場限定最終販売有り
-83. シークレット
-84. with EX-ANS/SIGHTS OF LOVE POTION/[東京ヤンキース](https://ja.wikipedia.org/wiki/東京ヤンキース "wikilink")/TRACY/VELVET ENDROIT/MAJESTIC ISABELL
-85. サポート [MEDIA YOUTH](https://ja.wikipedia.org/wiki/media_youth "wikilink")
-86. with AION/EX-ANS/[Gargoyle](../Page/Gargoyle.md "wikilink")/DECAMERON/東京ヤンキース
-87. vs Gilles de Rais/SIGHS OF LOVE POTION
-88. with [Luis-Mary](../Page/Luis-Mary.md "wikilink")/Girltipue etc
-89. vs AION
-90. ゲスト:RAY(DEEP)/SEIJI(EX-ANS)/HISAYOSHI(ROSENFELD)
-91. with [MORRIE](../Page/MORRIE.md "wikilink")/STRAWBERRY FIELDS etc
-92. vs AION/DECAMERON
-93. with [INGRY'S](https://ja.wikipedia.org/wiki/INGRY'S "wikilink")/[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")/[すかんち](../Page/すかんち.md "wikilink")/[STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")/[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/[DED CHAPLIN](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")/[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")/[LADIES ROOM](https://ja.wikipedia.org/wiki/LADIES_ROOM "wikilink")
-94. with [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/長澤義塾/BY-SEXUAL/[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")/[LINDBERG](../Page/LINDBERG.md "wikilink")/[UNICORN](../Page/UNICORN.md "wikilink")/[LA-PPISCH](../Page/レピッシュ.md "wikilink")
-95. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
-96.
-97. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
-98.
-99. 新型コロナウイルスの影響で延期
+56.
+57. SLAVE限定公開日。
+58. 2020年２月19日20時～22時ニコニコ動画SugizoTube生放送
+59. with DOLLS/WOOD PECKER etc
+60. vs BILLY & THE SLUTS etc
+61. vs JOLLY PICKLES etc
+62. vs WOOD PECKER/CRACKER JACK
+63. vs DELIGHTS/東京ヤンキース
+64. vs SALAMANDER/VILE/マダムロシャス
+65. JOLLY PICKLES/SCHOOL DAZE etc
+66.
+67. 夜叉/DK POLICE etc
+68. vs DANTE
+69. vs BURN TRASH/オルフェス
+70. vs Girltipue
+71. vs SALAMANDER etc
+72. vs VOICE BLUE
+73. vs CRACKER JACK etc
+74. Gilles de Rais/DANTE etc
+75. vs VILE/SIGHS OF LOVE POTION
+76. vs SHADOW/The HAREM Q
+77. vs [AION](../Page/AION.md "wikilink")/QUEEN DOLL etc
+78. ゲスト [Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink") / DT「Lastly」180本無料配布
+79. ゲスト出演
+80.
+81. vs CUTY-CUTE/RATE GREEK etc
+82. vs JOLLY PICKLES/東京ヤンキース/BELLZLLEB
+83. この日表記をLUNACYから**LUNA SEA**に改名。250名限定/DT『SHADE』会場限定最終販売有り
+84. シークレット
+85. with EX-ANS/SIGHTS OF LOVE POTION/[東京ヤンキース](https://ja.wikipedia.org/wiki/東京ヤンキース "wikilink")/TRACY/VELVET ENDROIT/MAJESTIC ISABELL
+86. サポート [MEDIA YOUTH](https://ja.wikipedia.org/wiki/media_youth "wikilink")
+87. with AION/EX-ANS/[Gargoyle](../Page/Gargoyle.md "wikilink")/DECAMERON/東京ヤンキース
+88. vs Gilles de Rais/SIGHS OF LOVE POTION
+89. with [Luis-Mary](../Page/Luis-Mary.md "wikilink")/Girltipue etc
+90. vs AION
+91. ゲスト:RAY(DEEP)/SEIJI(EX-ANS)/HISAYOSHI(ROSENFELD)
+92. with [MORRIE](../Page/MORRIE.md "wikilink")/STRAWBERRY FIELDS etc
+93. vs AION/DECAMERON
+94. with [INGRY'S](https://ja.wikipedia.org/wiki/INGRY'S "wikilink")/[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")/[すかんち](../Page/すかんち.md "wikilink")/[STRAWBERRY FIELDS](../Page/STRAWBERRY_FIELDS.md "wikilink")/[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/[DED CHAPLIN](https://ja.wikipedia.org/wiki/デッド・チャップリン "wikilink")/[BY-SEXUAL](../Page/BY-SEXUAL.md "wikilink")/[LADIES ROOM](https://ja.wikipedia.org/wiki/LADIES_ROOM "wikilink")
+95. with [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")/長澤義塾/BY-SEXUAL/[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")/[LINDBERG](../Page/LINDBERG.md "wikilink")/[UNICORN](../Page/UNICORN.md "wikilink")/[LA-PPISCH](../Page/レピッシュ.md "wikilink")
+96. with [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")/[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")/[JUSTY-NASTY](../Page/JUSTY-NASTY.md "wikilink")/[DOG FIGHT](https://ja.wikipedia.org/wiki/DOG_FIGHT "wikilink")/BY-SEXUAL/THE BLUE HEARTS/LINDBERG
+97.
+98. X/ZI:KILL/Gilles de Rais/東京YANKEES etc
+99.
 100. 新型コロナウイルスの影響で延期
+101. 新型コロナウイルスの影響で延期

@@ -156,7 +156,7 @@
 | 第22回 | 2017年5月7日  | 東京  | 1600m | [アエロリット](https://ja.wikipedia.org/wiki/アエロリット "wikilink")       | 牝3 | 1:32.3 | 横山典弘                                                  | [菊沢隆徳](../Page/菊沢隆徳.md "wikilink")                    | [（有）サンデーレーシング](../Page/サンデーレーシング.md "wikilink")                  |
 | 第23回 | 2018年5月6日  | 東京  | 1600m | [ケイアイノーテック](https://ja.wikipedia.org/wiki/ケイアイノーテック "wikilink") | 牡3 | 1:32.8 | [藤岡佑介](../Page/藤岡佑介.md "wikilink")                    | [平田修](../Page/平田修.md "wikilink")                      | [亀田和弘](https://ja.wikipedia.org/wiki/亀田和弘 "wikilink")            |
 | 第24回 | 2019年5月5日  | 東京  | 1600m | [アドマイヤマーズ](https://ja.wikipedia.org/wiki/アドマイヤマーズ "wikilink")   | 牡3 | 1:32.4 | [M.デムーロ](../Page/ミルコ・デムーロ.md "wikilink")              | [友道康夫](../Page/友道康夫.md "wikilink")                    | [近藤利一](../Page/近藤利一.md "wikilink")                               |
-| 第25回 | 2020年5月10日 | 東京  | 1600m | [ラウダシオン](https://ja.wikipedia.org/wiki/ラウダシオン "wikilink")       | 牡3 | 1:32.5 | M.デムーロ                                                | [斉藤崇史](https://ja.wikipedia.org/wiki/斉藤崇史 "wikilink") | [（有）シルクレーシング](https://ja.wikipedia.org/wiki/シルクレーシング "wikilink") |
+| 第25回 | 2020年5月10日 | 東京  | 1600m | [ラウダシオン](../Page/ラウダシオン.md "wikilink")                          | 牡3 | 1:32.5 | M.デムーロ                                                | [斉藤崇史](https://ja.wikipedia.org/wiki/斉藤崇史 "wikilink") | [（有）シルクレーシング](https://ja.wikipedia.org/wiki/シルクレーシング "wikilink") |
 
 ### NHKマイルカップの記録
 

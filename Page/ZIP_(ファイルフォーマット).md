@@ -223,7 +223,7 @@ Windowsでは、Windows 98のためにリリースされたPlus\!パック以降
 
 ## ソフトにおける固有の拡張子
 
-[アプリケーション固有のファイル形式のなかには](../Page/アプリケーションソフトウェア.md "wikilink")、あるファイルを一定の[ディレクトリ](../Page/ディレクトリ.md "wikilink")の[階層構造](../Page/階層構造.md "wikilink")\[28\]に格納しZIP形式で圧縮したものが存在する。そのようなファイルの大半はそのアプリケーション固有の物であることを示すために専用の拡張子を定義しており、以下に示す例はその一部である。ただし、圧縮アルゴリズムにzlibを使っているものでも、ZIP互換の格納方式を使っていないものは掲載しない。
+[アプリケーション固有のファイル形式のなかには](../Page/アプリケーションソフトウェア.md "wikilink")、あるファイルを一定の[ディレクトリ](../Page/ディレクトリ.md "wikilink")の[階層構造](../Page/階層構造.md "wikilink")に格納しZIP形式で圧縮したものが存在する。そのようなファイルの大半はそのアプリケーション固有の物であることを示すために専用の拡張子を定義しており、以下に示す例はその一部である。ただし、圧縮アルゴリズムにzlibを使っているものでも、ZIP互換の格納方式を使っていないものは掲載しない。
 
   - [apk](https://ja.wikipedia.org/wiki/APK_\(ファイル形式\) "wikilink")
     [Android](../Page/Android.md "wikilink") のアプリケーションアーカイブ
@@ -256,28 +256,13 @@ Windowsでは、Windows 98のためにリリースされたPlus\!パック以降
   - xpi
     [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")（及びそれをベースとする[Netscapeシリーズ](../Page/Netscapeシリーズ.md "wikilink")のウェブブラウザなど）や[Mozilla Thunderbirdなどの](../Page/Mozilla_Thunderbird.md "wikilink")[拡張機能](../Page/拡張機能_\(Mozilla\).md "wikilink")（アドオン）のインストーラファイル ([XPInstall](../Page/XPInstall.md "wikilink"))
 
+## 脚注
+
+### 注釈
+
+### 出典
+
 ## 関連項目
-
-  - [PKZIP](https://ja.wikipedia.org/wiki/:en:PKZIP "wikilink")
-  - [アーカイブフォーマットのリスト](https://ja.wikipedia.org/wiki/:en:List_of_archive_formats "wikilink")
-  - [Lempel–Ziv–Welch](../Page/Lempel–Ziv–Welch.md "wikilink") (LZW)
-  - [ファイルアーカイバの比較](https://ja.wikipedia.org/wiki/:en:Comparison_of_file_archivers "wikilink")
-  - [WinZip](../Page/WinZip.md "wikilink")
-  - [DEFLATE](../Page/Deflate.md "wikilink")
-  - [Implode](https://ja.wikipedia.org/wiki/Implode "wikilink")
-  - [Bzip2](../Page/Bzip2.md "wikilink")
-  - [7-Zip](../Page/7-Zip.md "wikilink")
-  - [PeaZip](https://ja.wikipedia.org/wiki/PeaZip "wikilink")
-  - [Info-ZIP](https://ja.wikipedia.org/wiki/Info-ZIP "wikilink")
-  - [LHA](../Page/LHA.md "wikilink")
-  - [CAB](../Page/CAB.md "wikilink")
-  - [DGCA](https://ja.wikipedia.org/wiki/DGCA "wikilink")
-  - [GCA](../Page/GCA.md "wikilink")
-  - [RAR](../Page/RAR.md "wikilink")
-  - [ZIPボム](https://ja.wikipedia.org/wiki/ZIPボム "wikilink")
-  - [tar](https://ja.wikipedia.org/wiki/tar "wikilink")
-
-## 参考文献
 
 ## 外部リンク
 
@@ -289,12 +274,10 @@ Windowsでは、Windows 98のためにリリースされたPlus\!パック以降
   - [Judgment in favor of SEA in *SEA v. PKWARE and Phil Katz*](http://www.bbsdocumentary.com/library/CONTROVERSY/LAWSUITS/SEA/judgment.txt)
   - [Current file format specification from PKWARE (including many recent features that are not widely supported)](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
   - [Comparison of the performances of various methods of data compression (french)](http://rlwpx.free.fr/WPFF/comploc.htm)
-  - [.NET Zip library](https://archive.codeplex.com/?p=DotNetZip) - reads and writes ZIP archives.
   - [ZIP2 file format specification](http://www.dlugosz.com/ZIP2/index.html)
   - [Zip Files All The Way Down](https://research.swtch.com/zip)
   - [ZIP File Quine](https://alf.nu/ZipQuine)
   - [Limitations of `java.util.zip`](https://www.mindprod.com/jgloss/zip.html#GOTCHAS)
-  - [ZipStorer](https://archive.codeplex.com/?p=zipstorer): A pure [C\#](https://ja.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink") class to compress and store files in ZIP archives
 
 [Category:データ圧縮規格](https://ja.wikipedia.org/wiki/Category:データ圧縮規格 "wikilink") [Category:ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ファイルフォーマット "wikilink")
 
@@ -325,4 +308,3 @@ Windowsでは、Windows 98のためにリリースされたPlus\!パック以降
 25. [PKWare seeks patent for .zip file format | InfoWorld | News | 2003-07-25 | By Robert McMillan, IDG News Service](http://www.infoworld.com/article/03/07/25/HNpkware_1.html)
 26. [Software makers patch Zip tiff - CNET News.com](http://www.news.com/2100-1012_3-5145491.html?tag=fd_nbs_ent)
 27. <http://www.theregister.co.uk/2004/01/21/zip_file_encryption_compromise_thrashed/>
-28. ルートのみの場合もある

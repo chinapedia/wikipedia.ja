@@ -1,7 +1,7 @@
 > この記事は[太平記 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/太平記_\(NHK大河ドラマ\))から翻訳されています。
 
 
-『**太平記**』（たいへいき）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1991年](../Page/1991年.md "wikilink")に放送された第29作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")である。放送期間は[1991年](../Page/1991年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - [12月8日](../Page/12月8日.md "wikilink")で、全49回。
+『**太平記**』（たいへいき）は[NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1991年](../Page/1991年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink")から[12月8日](../Page/12月8日.md "wikilink")まで放送した第29作[大河ドラマ](../Page/大河ドラマ.md "wikilink")。全49回。
 
 ## 作品内容と反響
 
@@ -11,13 +11,13 @@
 
 [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")には[武家屋敷](../Page/武家屋敷.md "wikilink")のオープンセットが作られ、足利、新田、楠木館のシーンが撮影された。また、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[足利市](../Page/足利市.md "wikilink")には鎌倉や京都の町並みを再現したオープンセットが作られ、中盤の山場となる第22話「鎌倉炎上」の撮影にも使用された。本作品のために撮影された「火を噴く大道芸人」や「炎上する門」などのシーンは、その後の大河ドラマにも流用されている。足利市伊勢町には観光案内所を兼ねた「太平記館」が放送終了後も残り、撮影で使用された鎧などが展示されている。
 
-本作品の特徴の一つとして、病死する登場人物（足利貞氏、後醍醐天皇、清子、尊氏ら）の最期を直接描くシーンが皆無という点がある。病死の場合、息絶える瞬間を映す事が無く全てナレーションによる説明に留まっている。一方、討死、殺害、自害するシーンは数多くあったが、中には、[千種忠顕](../Page/千種忠顕.md "wikilink")のようにいつの間にか退場し、セリフで戦死したことに触れられるという人物もあった\[2\]。『[三木一草](../Page/三木一草.md "wikilink")』が悉く滅んだという描写はあるが、その中の一人、[結城親光](../Page/結城親光.md "wikilink")は登場しない（父親の[結城宗広](../Page/結城宗広.md "wikilink")は登場している）。
+本作品の特徴の一つとして、病死する登場人物（足利貞氏、後醍醐天皇、清子、尊氏ら）の最期を直接描くシーンが皆無という点がある。病死の場合、息絶える瞬間を映す事が無く全てナレーションによる説明に留まっている。一方、討死、殺害、自害するシーンは数多くあったが、中には、[千種忠顕](../Page/千種忠顕.md "wikilink")のようにいつの間にか退場し、セリフで戦死したことに触れられるという人物もあった。『[三木一草](../Page/三木一草.md "wikilink")』が悉く滅んだという描写はあるが、その中の一人、[結城親光](../Page/結城親光.md "wikilink")は登場しない（父親の[結城宗広](../Page/結城宗広.md "wikilink")は登場している）。
 
 また、大河ドラマに登場する[皇族](../Page/皇族.md "wikilink")や[公家](../Page/公家.md "wikilink")の言葉遣いは、[1988年](../Page/1988年.md "wikilink")の『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』（[信玄の正室](../Page/武田信玄.md "wikilink")[三条の方](../Page/三条の方.md "wikilink")とその侍女八重）以降、部分的・断片的に御所言葉が採用されることがあったが、歴代の大河ドラマの中でも皇族や公家が多く登場する本作品では御所言葉ではなく[標準語](../Page/標準語.md "wikilink")に近い言葉を話し、物腰や語尾等で[武士](../Page/武士.md "wikilink")や庶民との違いを描いていた。御所言葉は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の『[徳川慶喜](../Page/徳川慶喜_\(NHK大河ドラマ\).md "wikilink")』以降大河ドラマに定着した。
 
-プロデューサーのインタビュー記事によると、局内でも時期尚早であるとの意見があったものの、機が熟して取り上げられる時期が来るものでもないだろうとの判断から、本格時代劇として制作されるに至ったとのことである。その後も、この時期に関する大河ドラマは本作品以外に存在しない\[3\]。
+プロデューサーのインタビュー記事によると、局内でも時期尚早であるとの意見があったものの、機が熟して取り上げられる時期が来るものでもないだろうとの判断から、本格時代劇として制作されるに至ったとのことである。その後も、この時期に関する大河ドラマは本作品以外に存在しない\[2\]。
 
-平均視聴率は26.0%、最高視聴率は34.6%（関東地区・ビデオリサーチ調べ）\[4\]。
+平均視聴率は26.0%、最高視聴率は34.6%（関東地区・ビデオリサーチ調べ）\[3\]。
 
 2008年に完全版DVDが発売された。
 
@@ -30,7 +30,7 @@
   - [足利尊氏](https://ja.wikipedia.org/wiki/足利尊氏 "wikilink")
     （足利又太郎→足利高氏→足利尊氏）
     演：[真田広之](../Page/真田広之.md "wikilink")（少年期：[雨笠利幸](https://ja.wikipedia.org/wiki/雨笠利幸 "wikilink")）
-    主人公。青年時代にはアクのない「誰からも好かれる」人物として描かれた。建武の新政が始まった中盤以降は、朝敵となったことを恥じて戦いから離れたりするなど、やや屈折も見せた。「英雄というより小さな正義感を頼りに迷いながら生きた人物」として描かれていると評されていた\[5\]。
+    主人公。青年時代にはアクのない「誰からも好かれる」人物として描かれた。建武の新政が始まった中盤以降は、朝敵となったことを恥じて戦いから離れたりするなど、やや屈折も見せた。「英雄というより小さな正義感を頼りに迷いながら生きた人物」として描かれていると評されていた\[4\]。
     終盤、弟・直義と道を違えて争い、やむなく毒殺に処したことを深く悲しみ、直義の遺体を抱きながら号泣する。
   - [赤橋登子](../Page/赤橋登子.md "wikilink")
     演：[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")
@@ -38,7 +38,7 @@
   - [足利貞氏](../Page/足利貞氏.md "wikilink")
     演：[緒形拳](../Page/緒形拳.md "wikilink")（少年期：[高野八誠](../Page/高野八誠.md "wikilink")）
     尊氏の父。当代きっての御家人・足利家の当主として、北条家・幕府側から常に監視される立場にあった。幕府との協調と、源氏の棟梁としてのプライドの板ばさみの中、血気盛んな高氏をなだめながら、密かに天下取りを託していた。倒幕を夢見ながら実現する前に病死した。
-  - [上杉清子](../Page/上杉清子.md "wikilink")\[6\]
+  - [上杉清子](../Page/上杉清子.md "wikilink")\[5\]
     演：[藤村志保](../Page/藤村志保.md "wikilink")
     貞氏の[側室](../Page/側室.md "wikilink")であり尊氏・直義の母。正室である金沢貞顕の妹に代わり、貞氏の傍にある。京の上杉家出身で和歌や文学に精通している。忍従する貞氏を支え、天下争乱の渦に巻き込まれてゆく尊氏・直義兄弟を優しく見守る。死の間際まで兄弟の行く末を案じていた。
   - 貞氏の正室
@@ -263,7 +263,7 @@
     （新田小太郎→新田義貞）
     演：[萩原健一](https://ja.wikipedia.org/wiki/萩原健一 "wikilink")→[根津甚八](../Page/根津甚八_\(俳優\).md "wikilink")（少年期：[近藤大基](https://ja.wikipedia.org/wiki/近藤大基 "wikilink")）
     尊氏の盟友で宿敵。鎌倉幕府の御家人であったが、少年の頃より北条氏に反感を抱いていた。倒幕戦争では高氏と行動を共にしたものの、尊氏が後醍醐天皇に背くと、朝廷側の総大将として尊氏と敵対することになるが、尊氏個人には友・好敵手としての感情も最期まで持っていた。
-    当初は萩原健一が演じたが[真珠腫性中耳炎](../Page/真珠腫性中耳炎.md "wikilink")\[7\]を患って途中降板し、根津甚八に交代した。
+    当初は萩原健一が演じたが[真珠腫性中耳炎](../Page/真珠腫性中耳炎.md "wikilink")\[6\]を患って途中降板し、根津甚八に交代した。
   - [勾当内侍](../Page/勾当内侍.md "wikilink")
     演：[宮崎萬純](../Page/宮崎萬純.md "wikilink")
     新田義貞の恋人。宮中で名高い美女。元は後醍醐天皇を想っていたが、義貞に強く想われ恋人となる。
@@ -523,13 +523,13 @@
 
 ## 放送
 
-特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](http://www.nhk.or.jp/archives/chronicle/)で確認。
+特記が無い限り[NHKクロニクルのNHK番組表ヒストリー](https://www.nhk.or.jp/archives/chronicle/)で確認。
 
 ### 通常放送時間
 
   - [NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")：毎週日曜 20:00 - 20:45
-  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")：毎週日曜 21:15 - 22:00\[8\]
-  - （再放送）NHK総合テレビジョン：毎週土曜 13:05 - 13:50\[9\]
+  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")：毎週日曜 21:15 - 22:00\[7\]
+  - （再放送）NHK総合テレビジョン：毎週土曜 13:05 - 13:50\[8\]
 
 ### 放送日程
 
@@ -546,7 +546,7 @@
 <th><p>脚本</p></th>
 <th><p>演出</p></th>
 <th><p>太平記のふるさと</p></th>
-<th><p>視聴率[10]</p></th>
+<th><p>視聴率[9]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -620,7 +620,7 @@
 <td><p>2月24日</p></td>
 <td><p>妖霊星</p></td>
 <td><p>佐藤幹夫</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a>・<a href="https://ja.wikipedia.org/wiki/名張市" title="wikilink">名張市</a></p></td>
 <td><p>32.5%</p></td>
 <td></td>
 </tr>
@@ -629,7 +629,7 @@
 <td><p>3月3日</p></td>
 <td><p>宿命の子</p></td>
 <td><p>田中賢二</p></td>
-<td></td>
+<td><p><a href="../Page/比叡山.md" title="wikilink">比叡山</a></p></td>
 <td><p>32.1%</p></td>
 <td></td>
 </tr>
@@ -994,7 +994,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 26.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）[11]</p></td>
+<td><p>平均視聴率 26.0%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）[10]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1016,7 +1016,7 @@
 
 ### 再放送
 
-[2020年](../Page/2020年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より、NHK-BSプレミアムで「大河ドラマアンコール」として、毎週日曜6:00 - 6:45に再放送を実施\[12\]。
+[2020年](../Page/2020年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")より、NHK-BSプレミアムで「大河ドラマアンコール」として、毎週日曜6:00 - 6:45に再放送を実施\[11\]。
 
 ## ソフトウェア
 
@@ -1075,17 +1075,16 @@
 
   - [大河ドラマ　太平記 - NHK名作選(動画・静止画) NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010380_00000)
 
-[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1991年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1991年のテレビドラマ "wikilink") [Category:吉川英治原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉川英治原作のテレビドラマ "wikilink") [Category:鎌倉時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:鎌倉時代を舞台とした作品 "wikilink") [Category:日本の南北朝時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:日本の南北朝時代を舞台とした作品 "wikilink") [Category:NHK宇都宮](https://ja.wikipedia.org/wiki/Category:NHK宇都宮 "wikilink") [Category:NHK横浜](https://ja.wikipedia.org/wiki/Category:NHK横浜 "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:足利尊氏](https://ja.wikipedia.org/wiki/Category:足利尊氏 "wikilink")
+[Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1991年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1991年のテレビドラマ "wikilink") [Category:吉川英治原作のテレビドラマ](https://ja.wikipedia.org/wiki/Category:吉川英治原作のテレビドラマ "wikilink") [Category:鎌倉時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:鎌倉時代を舞台としたテレビドラマ "wikilink") [Category:日本の南北朝時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:日本の南北朝時代を舞台とした作品 "wikilink") [Category:NHK宇都宮](https://ja.wikipedia.org/wiki/Category:NHK宇都宮 "wikilink") [Category:NHK横浜](https://ja.wikipedia.org/wiki/Category:NHK横浜 "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:足利尊氏](https://ja.wikipedia.org/wiki/Category:足利尊氏 "wikilink")
 
 1.  「紀行」コーナーが設けられる以前にも『[独眼竜政宗](../Page/独眼竜政宗_\(NHK大河ドラマ\).md "wikilink")』や『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』の一部の回のアバンタイトルで「紀行」コーナーに準じた名所旧跡を紹介している。
-2.  このような**登場人物の最後を描くシーンを映す事が無く全てナレーションによる説明で済ませる**手法は後年の作品においても使用され、特に[2016年](../Page/2016年.md "wikilink")の『[真田丸](https://ja.wikipedia.org/wiki/真田丸_\(NHK大河ドラマ\) "wikilink")』では「**[ナレ死](https://ja.wikipedia.org/wiki/真田丸_\(NHK大河ドラマ\)#制作 "wikilink")**」として話題を呼んだ。
-3.  [皇室](../Page/皇室.md "wikilink")が積極的に関与する時代であるがため、南北朝・[室町時代](../Page/室町時代.md "wikilink")のドラマ化は戦後長年タブー視されてきただけでなく、歴史的にも極めて難解な権力闘争が繰り返される時期であるため、視聴者に十分な理解を得るための歴史的背景のドラマ化が困難であることから、そもそもこの時代を映像化した作品自体、戦後は数えるほどしかない（1958年の映画『[楠公二代誠忠録](https://ja.wikipedia.org/wiki/楠公二代誠忠録 "wikilink")』、1959年の連続テレビドラマ『[大楠公](https://ja.wikipedia.org/wiki/大楠公_\(テレビドラマ\) "wikilink")』、1965年の映画『[悪党](https://ja.wikipedia.org/wiki/悪党_\(映画\) "wikilink")』など）。
-4.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
-5.
-6.  第1回と第2回のオープニングでは役名は「*足利*清子」となっていた。ただし鎌倉時代後期には結婚で女性が改姓する習慣はまだ無く、4回以降では単に「清子」と紹介されるようになった。
-7.
+2.  [皇室](../Page/皇室.md "wikilink")が積極的に関与する時代であるがため、南北朝・[室町時代](../Page/室町時代.md "wikilink")のドラマ化は戦後長年タブー視されてきただけでなく、歴史的にも極めて難解な権力闘争が繰り返される時期であるため、視聴者に十分な理解を得るための歴史的背景のドラマ化が困難であることから、そもそもこの時代を映像化した作品自体、戦後は数えるほどしかない（1958年の映画『[楠公二代誠忠録](https://ja.wikipedia.org/wiki/楠公二代誠忠録 "wikilink")』、1959年の連続テレビドラマ『[大楠公](https://ja.wikipedia.org/wiki/大楠公_\(テレビドラマ\) "wikilink")』、1965年の映画『[悪党](https://ja.wikipedia.org/wiki/悪党_\(映画\) "wikilink")』など）。
+3.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
+4.
+5.  第1回と第2回のオープニングでは役名は「*足利*清子」となっていた。ただし鎌倉時代後期には結婚で女性が改姓する習慣はまだ無く、4回以降では単に「清子」と紹介されるようになった。
+6.
+7.  一部放送日時の変更あり
 8.  一部放送日時の変更あり
-9.  一部放送日時の変更あり
-10. 「テレビ視聴率季報（関東地区）」ビデオリサーチ。
-11.
-12. <https://www4.nhk.or.jp/P6300/>
+9.  「テレビ視聴率季報（関東地区）」ビデオリサーチ。
+10.
+11. <https://www4.nhk.or.jp/P6300/>

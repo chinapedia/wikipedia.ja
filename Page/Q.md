@@ -145,7 +145,8 @@
   - [第45回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第45回衆議院議員総選挙 "wikilink")において、[民主党に投票した層を揶揄する](../Page/民主党_\(日本_1998-2016\).md "wikilink")[インターネットスラング](../Page/インターネットスラング.md "wikilink")に「おQ」という言葉がある。「（[自民党に](../Page/自由民主党_\(日本\).md "wikilink")）お灸を据える層」の意。
   - [台東区](../Page/台東区.md "wikilink")根岸に存在する「[下町](../Page/下町.md "wikilink")の味」で人気を博す[老舗](../Page/老舗.md "wikilink")[洋食](../Page/洋食.md "wikilink")店の名称は『レストランQ』。
   - 芸能事務所[ロマネプロモーション](https://ja.wikipedia.org/wiki/ロマネプロモーション "wikilink")が[2013年](../Page/2013年.md "wikilink")に製作・発表した女性ヤンキーアクション映画の名称は『ローリングQ』。
-  - [ジャパネットタカタ](https://ja.wikipedia.org/wiki/ジャパネットタカタ "wikilink")が販売するハンディスチーム[クリーナー](https://ja.wikipedia.org/wiki/クリーナー "wikilink")の名称は『スチームQ』。
+  - [ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")が販売するハンディスチーム[クリーナー](https://ja.wikipedia.org/wiki/クリーナー "wikilink")の名称は『スチームQ』。
+  - 電子掲示板に現れた匿名利用者名及び彼が唱えた[米国](https://ja.wikipedia.org/wiki/米国 "wikilink")発の[陰謀論](../Page/陰謀論.md "wikilink")。[Qアノン](https://ja.wikipedia.org/wiki/Qアノン "wikilink")を参照。
 
 ### 主に小文字
 

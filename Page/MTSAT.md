@@ -1,7 +1,7 @@
 > この記事は[MTSAT](https://ja.wikipedia.org/wiki/MTSAT)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:MTSAT-1.jpg "wikilink") **MTSAT**（**エムティーサット**）は、**運輸多目的衛星**（**M**ulti-functional **T**ransport **Sat**ellite）の英語略称で、[国土交通省](../Page/国土交通省.md "wikilink")[航空局](../Page/航空局.md "wikilink")(CAB/MLIT)及び[気象庁](../Page/気象庁.md "wikilink")(JMA)が共同開発し、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")(NASDA)及び[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")(JAXA)が打ち上げた大型の[静止衛星](../Page/静止衛星.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MTSAT-1.jpg "wikilink") **MTSAT**（**エムティーサット**）は、**運輸多目的衛星**（**M**ulti-functional **T**ransport **Sat**ellite）の英語略称で、[国土交通省](../Page/国土交通省.md "wikilink")[航空局](../Page/航空局.md "wikilink")(CAB/MLIT)及び[気象庁](../Page/気象庁.md "wikilink")(JMA)が共同開発し、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")(NASDA)及び[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")(JAXA)が打ち上げた大型の[静止衛星](../Page/静止衛星.md "wikilink")である。
 
 ## 運輸多目的衛星1号
 

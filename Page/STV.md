@@ -4,7 +4,7 @@
 **STV**
 
   - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")株式会社（略称:STV）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")に本社を置く、北海道を[放送対象地域](../Page/放送対象地域.md "wikilink")とした[テレビ](../Page/テレビ.md "wikilink")放送単営の[民間放送](../Page/民間放送.md "wikilink")局。[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")。通称・STVテレビ。
-  - 株式会社[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")は、北海道札幌市に本社を置く、北海道を放送対象地域とした[AMラジオ放送単営の民間放送局](https://ja.wikipedia.org/wiki/ラジオ#AM放送（中波放送） "wikilink")。札幌テレビ放送（STV）のAMラジオ放送部門を分社化して発足した。[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に札幌テレビ放送から中波放送の免許を引き継いだ。[NRN系列](../Page/全国ラジオネットワーク.md "wikilink")。
+  - 株式会社[STVラジオ](../Page/STVラジオ.md "wikilink")は、北海道札幌市に本社を置く、北海道を放送対象地域とした[AMラジオ放送単営の民間放送局](https://ja.wikipedia.org/wiki/ラジオ#AM放送（中波放送） "wikilink")。札幌テレビ放送（STV）のAMラジオ放送部門を分社化して発足した。[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に札幌テレビ放送から中波放送の免許を引き継いだ。[NRN系列](../Page/全国ラジオネットワーク.md "wikilink")。
   - [スコティッシュ・テレビジョン](https://ja.wikipedia.org/wiki/スコティッシュ・テレビジョン "wikilink") - [スコットランド](../Page/スコットランド.md "wikilink")の[ITV (イギリス)系列局](../Page/ITV_\(イギリス\).md "wikilink")。
   - [須高ケーブルテレビ](https://ja.wikipedia.org/wiki/須高ケーブルテレビ "wikilink") - 長野県須坂市に本社のあるケーブルテレビ局
   - [サミー](../Page/サミー.md "wikilink")の[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台 - [北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")STV

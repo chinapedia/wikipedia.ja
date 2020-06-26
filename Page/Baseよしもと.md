@@ -172,7 +172,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - [丼](../Page/ハニートラップ_\(お笑い\).md "wikilink")
   - [ザ・ツタンカーメンズ](https://ja.wikipedia.org/wiki/ザ・ツタンカーメンズ "wikilink")（解散）
   - [プルートボブ](https://ja.wikipedia.org/wiki/プルートボブ "wikilink")（解散）
-  - [ビコーン\!](../Page/ビコーン!.md "wikilink")（旧・まいなすしこう）
+  - [ビコーン\!](../Page/ビコーン!.md "wikilink")（旧: まいなすしこう）
   - [ザ・ワールド](https://ja.wikipedia.org/wiki/ザ・ワールド_\(お笑いコンビ\) "wikilink")（旧: 無駄無駄ラッシュ）（解散）
   - [ステーキハウス](https://ja.wikipedia.org/wiki/ステーキハウス_\(お笑い\) "wikilink")（旧: ジンベイザメ）（解散）
   - [にほんしゅ](https://ja.wikipedia.org/wiki/にほんしゅ_\(お笑いコンビ\) "wikilink")
@@ -214,7 +214,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - スタンドウラン
   - ラフスタディー
   - ガ→デん（しばらくの間活動休止）
-  - ガンセキオープン
+  - ガンセキオープン（1人脱退し、三島と南條でみなみのしま（現: [すゑひろがりず](https://ja.wikipedia.org/wiki/すゑひろがりず "wikilink")）結成）
   - 夕凪オーバードーズ
   - ピートラス
   - マッキンチョム

@@ -7,7 +7,7 @@
 
 ## 概要
 
-多ページ数の書籍や、[数式](../Page/数式.md "wikilink")を含む[学習参考書](https://ja.wikipedia.org/wiki/学習参考書 "wikilink")などの複雑な[組版](../Page/組版.md "wikilink")にまで幅広く対応している。
+多ページ数の書籍や、[数式](../Page/数式.md "wikilink")を含む[学習参考書](../Page/学習参考書.md "wikilink")などの複雑な[組版](../Page/組版.md "wikilink")にまで幅広く対応している。
 
 商品カタログなどに対しては、[データベース](../Page/データベース.md "wikilink")と連動した[バッチ処理](../Page/バッチ処理.md "wikilink")により高速に自動組版を行うことができる。
 

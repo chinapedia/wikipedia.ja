@@ -5,7 +5,7 @@
 
 ## 概要
 
-番組タイトルは、司会の[森脇健児](../Page/森脇健児.md "wikilink")と[森口博子](../Page/森口博子.md "wikilink")、そして当時[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のメンバーだった[森且行](../Page/森且行.md "wikilink")の3人の名前頭文字に由来する。
+番組タイトルは、司会の[森脇健児](../Page/森脇健児.md "wikilink")と[森口博子](../Page/森口博子.md "wikilink")、そして当時[SMAP](../Page/SMAP.md "wikilink")のメンバーだった[森且行](../Page/森且行.md "wikilink")の3人の名前頭文字に由来する。
 
 [山形県](../Page/山形県.md "wikilink")では、かつてフジテレビ系列に属していた[山形テレビ](../Page/山形テレビ.md "wikilink")で放送されていたが、1993年4月に同局がフジテレビ系列から[テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")（フルネット局）へ[ネットチェンジしたため](https://ja.wikipedia.org/wiki/ネットチェンジ#山形県の事例 "wikilink")、以後は[TBS系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[テレビユー山形](../Page/テレビユー山形.md "wikilink")が番組をネットしていた。
 
@@ -59,7 +59,7 @@
 
   - [森脇健児](../Page/森脇健児.md "wikilink")
   - [森口博子](../Page/森口博子.md "wikilink")
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
       - [中居正広](../Page/中居正広.md "wikilink")
       - [木村拓哉](../Page/木村拓哉.md "wikilink")
       - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")
@@ -139,11 +139,11 @@
   - 「あなたといた時間」
     作詞：西脇唯 / 作曲：西脇唯 / 歌：森口博子
   - 「[$10](../Page/$10_\(曲\).md "wikilink")」
-    作詞：林田健司、森浩美 / 作曲：林田健司 / 編曲：CHOKKAKU / 歌：[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+    作詞：林田健司、森浩美 / 作曲：林田健司 / 編曲：CHOKKAKU / 歌：[SMAP](../Page/SMAP.md "wikilink")
     「[がんばりましょう](../Page/がんばりましょう.md "wikilink")」
-    作詞：小倉めぐみ / 作曲・編曲：庄野賢一/ 歌：[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+    作詞：小倉めぐみ / 作曲・編曲：庄野賢一/ 歌：[SMAP](../Page/SMAP.md "wikilink")
     「[たぶんオーライ](https://ja.wikipedia.org/wiki/たぶんオーライ "wikilink")」
-    作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲：[庄野賢一](https://ja.wikipedia.org/wiki/庄野賢一 "wikilink") / 編曲：庄野賢一 / 歌：[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+    作詞：[小倉めぐみ](https://ja.wikipedia.org/wiki/小倉めぐみ "wikilink") / 作曲：[庄野賢一](https://ja.wikipedia.org/wiki/庄野賢一 "wikilink") / 編曲：庄野賢一 / 歌：[SMAP](../Page/SMAP.md "wikilink")
 
 ## ライブビデオ
 
@@ -164,6 +164,7 @@
 
 ## 関連項目
 
+  - [SMAPxSMAP](https://ja.wikipedia.org/wiki/SMAPxSMAP "wikilink") ・・事実上の後継番組。
   - [音松くん](../Page/音松くん.md "wikilink")
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:パナソニックグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:パナソニックグループ単独提供番組 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:SMAP](https://ja.wikipedia.org/wiki/Category:SMAP "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:松本俊明が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本俊明が制作した楽曲 "wikilink") [Category:1992年のシングル](https://ja.wikipedia.org/wiki/Category:1992年のシングル "wikilink") [Category:キングレコードの楽曲](https://ja.wikipedia.org/wiki/Category:キングレコードの楽曲 "wikilink") [Category:楽曲_ゆ](https://ja.wikipedia.org/wiki/Category:楽曲_ゆ "wikilink")

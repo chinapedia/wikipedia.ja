@@ -56,7 +56,7 @@
   - [心拍数](../Page/心拍数.md "wikilink") ()
   - [ヘルツシュプルング・ラッセル図](../Page/ヘルツシュプルング・ラッセル図.md "wikilink") ()
   - [ヒドロキシエチルルトシド](https://ja.wikipedia.org/wiki/ヒドロキシエチルルトシド "wikilink") () - 医薬に使われる化合物。[ルチン](../Page/ルチン.md "wikilink")の誘導体で、[アグリコン](https://ja.wikipedia.org/wiki/アグリコン "wikilink")である[クェルセチン](../Page/クェルセチン.md "wikilink")の1つ以上の水酸基が *O*-β-hydroxyethyl基に置き換わった化合物の総称。
-  - [相同組換え](https://ja.wikipedia.org/wiki/相同組換え "wikilink") () - [遺伝的組換え](../Page/遺伝的組換え.md "wikilink")技術
+  - [相同組換え](../Page/相同組換え.md "wikilink") () - [遺伝的組換え](../Page/遺伝的組換え.md "wikilink")技術
   - [本塁打](../Page/本塁打.md "wikilink") ()
   - [ホームルーム活動](../Page/学級活動・ホームルーム活動.md "wikilink") ()　雑誌「HR」の誌名の元と思われるが未詳。
   - [孕ませ](https://ja.wikipedia.org/wiki/孕ませ "wikilink") () - [妊娠](../Page/妊娠.md "wikilink")状態に対する[フェティシズム](../Page/フェティシズム.md "wikilink")。

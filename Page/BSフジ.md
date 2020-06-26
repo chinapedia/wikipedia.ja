@@ -288,7 +288,7 @@
 
   - ラジオ放送
 
-[NRNの](../Page/全国ラジオネットワーク.md "wikilink")2つの[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")が制作を担当。[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって終了した。
+[NRNの](../Page/全国ラジオネットワーク.md "wikilink")2つの[キー局](../Page/キー局.md "wikilink")が制作を担当。[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって終了した。
 
   - BS488ch - [LFX488](../Page/LFX488.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
   - BS489ch - [BSQR489](../Page/BSQR489.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")制作）
@@ -389,13 +389,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>〈フジテレビドラマ再放送〉お義父さんと呼ばせて</p></td>
+<td><p>〈フジテレビドラマ再放送〉好きな人がいること</p></td>
 <td><p>月曜 - 金曜 10:00 - 10:57</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>時空探偵おゆう　大江戸科学捜査</p></td>
+<td><p>名もなき復讐者 ZEGEN</p></td>
 <td><p>土曜 24:30 - 25:00</p></td>
 <td></td>
 <td></td>
@@ -474,7 +474,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/MLBダイジェスト" title="wikilink">MLBダイジェスト</a></p></td>
 <td><p>不定期</p></td>
-<td><p>出演 - <a href="https://ja.wikipedia.org/wiki/福島良一" title="wikilink">福島良一</a>（MLB評論家）、<a href="https://ja.wikipedia.org/wiki/遠藤玲子" title="wikilink">遠藤玲子</a>ほか</p></td>
+<td><p>出演 - <a href="../Page/福島良一.md" title="wikilink">福島良一</a>（MLB評論家）、<a href="https://ja.wikipedia.org/wiki/遠藤玲子" title="wikilink">遠藤玲子</a>ほか</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -504,117 +504,123 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>ゴルフチャレンジアスリート</p></td>
+<td><p>土曜 9:30 - 10:01</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/フジサンケイクラシック.md" title="wikilink">フジサンケイクラシック</a></p></td>
 <td><p>毎年<a href="../Page/9月.md" title="wikilink">9月</a></p></td>
 <td><p>フジテレビ系列で中継される大会の模様を全て録画放送。<br />
 また地上波と同時放送、さらに地上波・CS放送とのリレー形式で放送を行う場合もある。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/フジサンケイレディスクラシック.md" title="wikilink">フジサンケイレディスクラシック</a></p></td>
 <td><p>毎年<a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宮里藍_サントリーレディスオープンゴルフトーナメント.md" title="wikilink">宮里藍 サントリーレディスオープンゴルフトーナメント</a></p></td>
 <td><p>毎年<a href="../Page/6月.md" title="wikilink">6月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NEC軽井沢72ゴルフトーナメント.md" title="wikilink">NEC軽井沢72ゴルフトーナメント</a></p></td>
 <td><p>毎年<a href="../Page/8月.md" title="wikilink">8月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/アクサレディスゴルフトーナメント.md" title="wikilink">アクサレディスゴルフトーナメント in MIYAZAKI</a></p></td>
 <td><p>毎年<a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a>（2013年より）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/北海道Meijiカップ.md" title="wikilink">北海道Meijiカップ</a></p></td>
 <td><p>毎年8月（2018年より）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東京マラソン" title="wikilink">東京マラソン</a></p></td>
 <td><p>3月第1日曜（当日録画）</p></td>
 <td><p>地上波フジテレビ系列で放送される年度に当日午前中の部（男子選考会の部）を録画放送。<br />
 <a href="https://ja.wikipedia.org/wiki/東京マラソン2018" title="wikilink">2018年は</a><a href="../Page/2月25日.md" title="wikilink">2月25日</a> 19:00 - 21:50に放送（地上波より10時間遅れ）[14]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/香川丸亀国際ハーフマラソン.md" title="wikilink">香川丸亀国際ハーフマラソン</a></p></td>
 <td><p>2月第1日曜 10:30 - 11:50</p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>制作。2012年から放送開始。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/延岡西日本マラソン.md" title="wikilink">延岡西日本マラソン</a></p></td>
 <td><p>2月第2日曜</p></td>
 <td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>制作。2012年から放送開始。2012年・2013年は地上波と同時放送だったが、 2014年以降は23:00 - 翌0:30のダイジェスト放送となった。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/春の高校伊那駅伝" title="wikilink">春の高校伊那駅伝</a></p></td>
 <td><p>3月第3日曜 12:00 - 14:30</p></td>
 <td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a>制作。同局 (<a href="../Page/長野県.md" title="wikilink">長野県</a>ローカル)と同時生放送。2017年から放送開始[15]。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/北海道マラソン.md" title="wikilink">北海道マラソン</a></p></td>
 <td><p>8月最終日曜 8:58 - 11:50</p></td>
 <td><p>北海道文化放送制作。2013年から放送開始。2011年までは地上波全国ネット放送だった。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モータースポーツ" title="wikilink">モーター<br />
 スポーツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スーパーフォーミュラ" title="wikilink">スーパーフォーミュラ</a></p></td>
 <td><p>各レース決勝 14:00 - 15:55（基本）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>スーパーフォーミュラGOON！</p></td>
 <td><p>不定期</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>F1グランプリ</p></td>
 <td><p>毎年10月</p></td>
 <td><p>日本グランプリのみ放送</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>その他</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フィギュアスケートTV!" title="wikilink">フィギュアスケートTV!</a></p></td>
 <td><p>第1金曜 23:00 - 23:55</p></td>
 <td><p>出演：<a href="../Page/八木沼純子.md" title="wikilink">八木沼純子</a>、<a href="https://ja.wikipedia.org/wiki/松村未央" title="wikilink">松村未央</a>（フジテレビアナウンサー）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/JUDO" title="wikilink">JUDO</a></p></td>
 <td><p>土曜 17:30 - 17:55</p></td>
 <td><p>※隔週新作 2020年3月28日までは土曜 18:30 - 18:55で放送していた。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/お台場バドミントン学園" title="wikilink">お台場バドミントン学園</a></p></td>
 <td><p>最終日曜 13:00 - 14:00</p></td>
 <td><p>2019年5月26日スタート 出演：<a href="https://ja.wikipedia.org/wiki/潮田玲子" title="wikilink">潮田玲子</a>、<a href="https://ja.wikipedia.org/wiki/内田嶺衣奈" title="wikilink">内田嶺衣奈</a>（フジテレビアナウンサー）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/極真会館松井派" title="wikilink">極真空手全日本選手権</a></p></td>
 <td><p>毎年<a href="../Page/11月.md" title="wikilink">11月</a>（録画）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>アキレアの橋 ～2020遥かなる東京へ～</p></td>
 <td><p>不定期<br />
 日曜 18:00 - 19:55</p></td>
@@ -725,96 +731,101 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td><p>2019年4月2日スタート</p></td>
 </tr>
 <tr class="odd">
+<td><p>東京03 in UNDERDOGS -今日は負けたけど、明日は絶対勝つ-</p></td>
+<td><p>水曜 23:00 - 23:30</p></td>
+<td><p>2020年6月3日スタート予定 当初は2020年5月6日スタート予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染拡大防止の為延期となった</a>。</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビニールハウス_〜恋愛促成栽培〜" title="wikilink">ビニールハウス 〜恋愛促成栽培〜</a></p></td>
 <td><p>水曜 23:30 - 23:55</p></td>
 <td><p>2019年4月3日スタート</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/テリー伊藤の今夜も傾奇流" title="wikilink">テリー伊藤の今夜も傾奇流</a>!</p></td>
 <td><p>月1回水曜 24:30 - 25:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>橋本マナミの東京はいすぺ女子図鑑</p></td>
 <td><p>木曜 23:00 - 23:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/STU発⇒東京" title="wikilink">STU発⇒東京</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/STU発⇒東京.md" title="wikilink">STU発⇒東京</a></p></td>
 <td><p>木曜 23:30 - 23:55</p></td>
 <td><p>2020年4月12日を最後に放送中断中。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>DJ OSSHY DISCO TV</p></td>
 <td><p>第3木曜 23:30 - 23:55</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タイプライターズ〜物書きの世界〜" title="wikilink">タイプライターズ～物書きの世界～</a></p></td>
 <td><p>最終金曜 23:00 - 23:55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><ジャパコンProject>二次元領域拡大通信</p></td>
 <td><p>第1金曜 24:00 - 24:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><ジャパコンProject>ギルドフレンズ～世界へ？本気です！～</p></td>
 <td><p>第3金曜 24:00 - 24:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/人生は三百六十五歩のマーチ" title="wikilink">人生は三百六十五歩のマーチ</a></p></td>
 <td><p>土曜 16:00 - 17:25</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><BSフジ歌の時間></p></td>
 <td><p>土曜 19:00 - 20:55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>&lt;土曜+1&gt;旅する侍キュイジニエ</p></td>
 <td><p>土曜 18:00 - 18:55</p></td>
 <td><p>土曜+1枠は月毎に番組が変わり、一部番組除き基本全2～3回の番組構成となる。（残りの週は再放送） 2020年3月28日までは土曜 22:00 - 22:55で放送していた。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/小山薫堂.md" title="wikilink">小山薫堂 東京会議</a></p></td>
 <td><p>土曜 23:00 - 23:30</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/所さんの世田谷ベース.md" title="wikilink">所さんの世田谷ベース</a></p></td>
 <td><p>土曜 23:30 - 24:25</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>＜MUSIC:S＞FUJI-YAMA MID-NIGHT-FISHING</p></td>
 <td><p>土曜 25:00 - 25:55</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>荒野女子部Season2 ～ただいま交戦中～</p></td>
 <td><p>土曜 26:00 - 26:55</p></td>
 <td><p>※隔週新作</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/伊藤政則のロックTV!" title="wikilink">伊藤政則のロックTV!</a></p></td>
 <td><p>第3土曜 26:00 - 27:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/冗談騎士" title="wikilink">冗談騎士</a></p></td>
 <td><p>不定期</p></td>
 <td><p>2020年3月25日までは水曜 23:00 - 23:30で放送していたが、スペシャル番組化に伴い不定期放送に変更。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>もしもで考える…なるほど!なっとく塾</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/四神将棋" title="wikilink">四神将棋</a></p></td>
 <td><p>不定期</p></td>
 <td><p>2016年12月27日から不定期に放送</p></td>

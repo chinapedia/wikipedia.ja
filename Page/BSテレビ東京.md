@@ -5,7 +5,7 @@
 
 ## 概要
 
-他の[民放](../Page/民間放送.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")系の[BSデジタル放送局と同様に](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")、[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")から放送を開始した。当初の社名及びサービス名は「**BSジャパン**」（ビーエスジャパン、BS JAPAN、略称：**BSJ**）で、そのサービス名を巡って争った当時のBS-i（2009年4月1日からの[BS-TBS](../Page/BS-TBS.md "wikilink")）と同様にキー局の名称が表に出ないサービスでもあった。
+他の[民放](../Page/民間放送.md "wikilink")[キー局](../Page/キー局.md "wikilink")系の[BSデジタル放送局と同様に](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")、[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")から放送を開始した。当初の社名及びサービス名は「**BSジャパン**」（ビーエスジャパン、BS JAPAN、略称：**BSJ**）で、そのサービス名を巡って争った当時のBS-i（2009年4月1日からの[BS-TBS](../Page/BS-TBS.md "wikilink")）と同様にキー局の名称が表に出ないサービスでもあった。
 
 [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（テレ東）は民放キー局の中でも[系列局が少ないという事情から](../Page/TXNネットワーク.md "wikilink")、[系列局でカバーできない地域を補完する役割も併せ持つ](../Page/放送対象地域.md "wikilink")。それゆえに、他の民放キー局系BS放送局よりも地上波で放送されている（もしくは放送されていた）番組が比較的多く編成されている。
 
@@ -375,21 +375,21 @@
 
 特記なき番組は字幕放送を実施（途中回から実施の場合は注釈にて記載）。
 
-| 番組名                                                                                                                 | 放送日時                    | 備考                    |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------- | --------------------- |
-| **火曜**                                                                                                              |                         |                       |
-| [BORUTO-ボルト- NARUTO NEXT GENERATIONS](https://ja.wikipedia.org/wiki/BORUTO-ボルト-_NARUTO_NEXT_GENERATIONS "wikilink") | 24:30 - 24:59           |                       |
-| **水曜**                                                                                                              |                         |                       |
-| [あひるの空](../Page/あひるの空.md "wikilink")                                                                                | 24:30 - 24:59           |                       |
-| **金曜**                                                                                                              |                         |                       |
-| [遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")                                                     | 17:00 - 17:28           | \[43\]                |
-| [遊☆戯☆王SEVENS](../Page/遊☆戯☆王SEVENS.md "wikilink")                                                                    | 17:28 - 17:58           |                       |
-| [ブラッククローバー](https://ja.wikipedia.org/wiki/ブラッククローバー "wikilink")                                                     | 24:30 - 24:59           | \[44\]                |
-| **土曜**                                                                                                              |                         |                       |
-| [妖怪学園Y 〜Nとの遭遇〜](https://ja.wikipedia.org/wiki/妖怪学園Y_〜Nとの遭遇〜 "wikilink")                                             | 7:00 - 7:30             | 連動データ放送なし             |
-| \[\[カードファイト                                                                                                         | _ヴァンガード_(アニメ)|カードファイト | ヴァンガード2019\]\]        |
-| **日曜**                                                                                                              |                         |                       |
-| [ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(2019年のアニメ\) "wikilink")                                       | 7:00 - 7:30             | 連動データ放送なし\[45\]\[46\] |
+| 番組名                                                                                                                 | 放送日時                     | 備考                                              |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------ | ----------------------------------------------- |
+| **火曜**                                                                                                              |                          |                                                 |
+| [BORUTO-ボルト- NARUTO NEXT GENERATIONS](https://ja.wikipedia.org/wiki/BORUTO-ボルト-_NARUTO_NEXT_GENERATIONS "wikilink") | 24:30 - 24:59            |                                                 |
+| **水曜**                                                                                                              |                          |                                                 |
+| [あひるの空](../Page/あひるの空.md "wikilink")                                                                                | 24:30 - 24:59            |                                                 |
+| **金曜**                                                                                                              |                          |                                                 |
+| [遊☆戯☆王5D's](https://ja.wikipedia.org/wiki/遊☆戯☆王5D's "wikilink")                                                     | 17:00 - 17:28            | \[43\]                                          |
+| [遊☆戯☆王SEVENS](../Page/遊☆戯☆王SEVENS.md "wikilink")                                                                    | 17:28 - 17:58            |                                                 |
+| [ブラッククローバー](https://ja.wikipedia.org/wiki/ブラッククローバー "wikilink")                                                     | 24:30 - 24:59            | \[44\]                                          |
+| **土曜**                                                                                                              |                          |                                                 |
+| [妖怪学園Y 〜Nとの遭遇〜](https://ja.wikipedia.org/wiki/妖怪学園Y_〜Nとの遭遇〜 "wikilink")                                             | 7:00 - 7:30              | 連動データ放送なし                                       |
+| \[\[カードファイト                                                                                                         | _ヴァンガード_(アニメ)\#カードファイト | _ヴァンガード外伝_イフ-if-|カードファイト！！ヴァンガード外伝 イフ-if-\]\] |
+| **日曜**                                                                                                              |                          |                                                 |
+| [ポケットモンスター](https://ja.wikipedia.org/wiki/ポケットモンスター_\(2019年のアニメ\) "wikilink")                                       | 7:00 - 7:30              | 連動データ放送なし\[45\]\[46\]                           |
 
 
 
@@ -413,7 +413,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ローカル路線バス乗り継ぎの旅" title="wikilink">ローカル路線バス乗り継ぎの旅</a>Classic</p></td>
 <td><p>月曜 17:58 - 20:00</p></td>
-<td></td>
+<td><p>2020年6月からは<a href="https://ja.wikipedia.org/wiki/ローカル路線バス乗り継ぎの旅#シリーズ2（2017年3月_-_）" title="wikilink">ローカル路線バス乗り継ぎの旅Zも順に放送している</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ワタシが日本に住む理由" title="wikilink">ワタシが日本に住む理由</a></p></td>
@@ -698,9 +698,9 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/土曜ドラマ9" title="wikilink">土曜ドラマ9</a>「<a href="https://ja.wikipedia.org/wiki/行動心理捜査官・楯岡絵麻#テレビドラマ" title="wikilink">サイレント・ヴォイス 行動心理捜査官・楯岡絵麻</a> Season2」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/土曜ドラマ9" title="wikilink">土曜ドラマ9</a>「<a href="https://ja.wikipedia.org/wiki/執事_西園寺の名推理" title="wikilink">執事 西園寺の名推理</a>」</p></td>
 <td><p>土曜 21:00 - 21:54</p></td>
-<td><p>★2020年4月11日スタート</p></td>
+<td><p>★2020年6月13日スタート予定</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -719,12 +719,12 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 <tr class="odd">
 <td><p>アジア<br />
 ドラマ</p></td>
-<td><p>韓ドラ☆ <a href="https://ja.wikipedia.org/wiki/私はチャン・ボリ!" title="wikilink">私はチャン・ボリ!</a></p></td>
+<td><p>韓ドラ☆ <a href="https://ja.wikipedia.org/wiki/私はチャン・ボリ!" title="wikilink">私はチャン・ボリ!</a> （日本語字幕版）</p></td>
 <td><p>月 - 金曜 8:56 - 9:51</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>韓ドラ☆ <a href="https://ja.wikipedia.org/wiki/帝王の娘_スベクヒャン" title="wikilink">帝王の娘 スベクヒャン</a><br />
+<td><p>韓ドラ☆<a href="https://ja.wikipedia.org/wiki/師任堂、色の日記" title="wikilink">師任堂、色の日記</a><br />
 （日本語字幕版）</p></td>
 <td><p>月 - 金曜 10:55 - 12:00</p></td>
 <td></td>
@@ -866,7 +866,7 @@ BSテレ東4Kのみ、同枠作品を4K制作版で放送</p></td>
 | ------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [ゴルフ ギア魂](https://ja.wikipedia.org/wiki/ゴルフ_ギア魂 "wikilink")   | 火曜・木曜・金曜 5:20 - 5:45 | [関雅史](https://ja.wikipedia.org/wiki/関雅史 "wikilink")ほか                                                               |
 | [ものスタ BS](https://ja.wikipedia.org/wiki/ものスタ "wikilink")      | 日曜 5:30 - 6:30       | [マックン](../Page/マックン.md "wikilink")（[パックンマックン](../Page/パックンマックン.md "wikilink")）、[乾貴美子](../Page/乾貴美子.md "wikilink")ほか |
-| [BSてれとShop](https://ja.wikipedia.org/wiki/てれとShop "wikilink") | 不定期                  | [山内乃理子](https://ja.wikipedia.org/wiki/山内乃理子 "wikilink")ほか                                                           |
+| [BSテレ東Shop](https://ja.wikipedia.org/wiki/てれとShop "wikilink") | 不定期                  | [山内乃理子](https://ja.wikipedia.org/wiki/山内乃理子 "wikilink")ほか                                                           |
 | [快適\!ショッピングスタジオDX](../Page/ジャパネットたかた.md "wikilink")           | 不定期                  | [塚本慎太郎](https://ja.wikipedia.org/wiki/塚本慎太郎 "wikilink")、[中島一成](https://ja.wikipedia.org/wiki/中島一成 "wikilink")ほか     |
 
 ### ミニ番組

@@ -1084,7 +1084,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/自称Fランクのお兄さまがゲームで評価される学園の頂点に君臨するそうですよ?" title="wikilink">自称Fランクのお兄さまがゲームで評価される学園の頂点に君臨するそうですよ?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三河ごーすと" title="wikilink">三河ごーすと</a></p></td>
 <td><p>ねこめたる</p></td>
-<td><p>既刊9巻（内、6.5巻含む）</p></td>
+<td><p>既刊10巻（内、6.5巻含む）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/七人の魔女と灰被りの空の御剣者" title="wikilink">七人の魔女と灰被りの空の{{読み仮名</a></p></td>
@@ -1265,7 +1265,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/聖剣学院の魔剣使い" title="wikilink">聖剣学院の魔剣使い</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/志瑞祐" title="wikilink">志瑞祐</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遠坂あさぎ" title="wikilink">遠坂あさぎ</a></p></td>
-<td><p>既刊3巻</p></td>
+<td><p>既刊4巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖剣の刀鍛冶" title="wikilink">聖剣の{{読み仮名</a></p></td>
@@ -2782,7 +2782,7 @@ SS3巻</p></td>
 
   -
   -
-[Category:MF文庫J](https://ja.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:メディアファクトリーの出版物](https://ja.wikipedia.org/wiki/Category:メディアファクトリーの出版物 "wikilink") [Category:KADOKAWAの文庫本](https://ja.wikipedia.org/wiki/Category:KADOKAWAの文庫本 "wikilink") [Category:2002年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2002年刊行開始の刊行物 "wikilink")
+[Category:MF文庫J](https://ja.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:メディアファクトリーの出版物](https://ja.wikipedia.org/wiki/Category:メディアファクトリーの出版物 "wikilink") [Category:KADOKAWAの文庫本](https://ja.wikipedia.org/wiki/Category:KADOKAWAの文庫本 "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:2002年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2002年刊行開始の刊行物 "wikilink")
 
 1.  なお、メディアファクトリーは創刊当時は[リクルートの子会社](../Page/リクルートホールディングス.md "wikilink")「株式会社メディアファクトリー」であった。現在に至る経緯は[\#概要](https://ja.wikipedia.org/wiki/#概要 "wikilink")の節を参照の事。
 2.  株式会社メディアファクトリー時代は「**キミを撃ち抜くおもしろさ\!**」。

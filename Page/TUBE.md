@@ -9,7 +9,7 @@
 
 バンド名はサーフィン用語の「[チューブライディング](https://ja.wikipedia.org/wiki/:en:Tube_riding "wikilink")」に由来する。アマチュア時代は「パイプライン」というバンド名で活動し、デビューした1985年はバンド名を「The TUBE」としていたが、[北海道文化放送](../Page/北海道文化放送.md "wikilink")の「Sound club 1700」（当時土曜17時台に放送されていた音楽番組）に出演した際、姓名判断師（木村天山）に「画数が悪い、名前の"The"を取ればバンドは良い方向へ向かう」と言われ、翌1986年、3rdシングル「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」発売前に、正式に「**TUBE**」と改名。
 
-シングル1枚、アルバム8枚がミリオンセラーとなり、また[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[2004年](../Page/2004年.md "wikilink")までシングル連続TOP10入り（15年、歴代2位）の記録を持つ。アルバム計2100万枚、シングルを含めると計4000万枚を超えるセールスを記録\[1\]。アルバムの総セールスは、歴代アーティストの中でも20番目に多い。 なお、[アルバム](../Page/アルバム.md "wikilink")は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の「[THE SEASON IN THE SUN](https://ja.wikipedia.org/wiki/THE_SEASON_IN_THE_SUN "wikilink")」で週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")3位を記録して以来、2012年まで[アルバム](../Page/アルバム.md "wikilink")連続TOP10入り（27年、歴代2位）をコンスタントに記録している。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[2004年](../Page/2004年.md "wikilink")までシングル連続TOP10入り（15年、歴代2位）の記録を持つ。[アルバム](../Page/アルバム.md "wikilink")は[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の「[THE SEASON IN THE SUN](https://ja.wikipedia.org/wiki/THE_SEASON_IN_THE_SUN "wikilink")」で週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")3位を記録して以来、2012年まで[アルバム](../Page/アルバム.md "wikilink")連続TOP10入り（27年、歴代2位）をコンスタントに記録している。
 
 結成地は[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[座間市](../Page/座間市.md "wikilink")であり、メンバーの出身地は神奈川[県央](https://ja.wikipedia.org/wiki/県央 "wikilink")地区と[東京都](../Page/東京都.md "wikilink")下である。
 
@@ -41,7 +41,7 @@
   - 永村かおる（ながむら かおる）：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [Eliana](../Page/Eliana.md "wikilink")（エリアーナ）：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [勝田一樹](../Page/勝田一樹.md "wikilink")（かつた かずき）（[DIMENSION](../Page/DIMENSION.md "wikilink")）：[サックス](../Page/サクソフォーン.md "wikilink")（1990年-）
-      - ステージメンバーでは在籍メンバー中最長期間を誇る。愛称は「カツオ」。ホールツアー中は、時折松本の食べ歩きにも同伴することも\[2\]。
+      - ステージメンバーでは在籍メンバー中最長期間を誇る。愛称は「カツオ」。ホールツアー中は、時折松本の食べ歩きにも同伴することも\[1\]。
   - 須賀裕之（すか ひろゆき）：[トロンボーン](../Page/トロンボーン.md "wikilink")
   - 澤野博敬（さわの ひろのり）：[トランペット](../Page/トランペット.md "wikilink")
   - 遠山拓志（とおやま たくし）：トランペット
@@ -50,7 +50,7 @@
       - [1967年](../Page/1967年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生、出身地は[東京都](../Page/東京都.md "wikilink")。妻は[歌手](../Page/歌手.md "wikilink")の[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")。
   - 梅村仁（うめむら ひとし）：[ギター](../Page/ギター.md "wikilink")
   - 濱田“Peco”美和子（はまだ“ぺこ”みわこ）：ダンス、振り付け、コーラス（1986年-）
-      - メンバーの振り付け師として長きにわたって参加。しかし1992年の野外ツアーでのダンサーズ導入時にその1人としてステージに登壇。以来、ダンサーとしても携わりつつ、2014年の野外ツアーではコーラスも務めた\[3\]。
+      - メンバーの振り付け師として長きにわたって参加。しかし1992年の野外ツアーでのダンサーズ導入時にその1人としてステージに登壇。以来、ダンサーとしても携わりつつ、2014年の野外ツアーではコーラスも務めた\[2\]。
 
 ### 過去のサポートメンバー
 
@@ -83,22 +83,22 @@
 
 ### 1985年以前
 
-ボーカルの前田は高校時代より[ビーイング](../Page/ビーイング.md "wikilink")の事務所に通い\[4\]、また神奈川県内のライブハウスで活動していた。同時期、前田の学生時代からの友人であるベースの角野も神奈川県内のライブハウスを中心に活動していたが、角野が高校時代にキャバレーでライブ演奏をした際に、友人を通じて前田と出会っている\[5\]。また松本は、角野が高校で属していた部活の後輩である。そして、ビーイング主催の音楽祭を通して知り合った前田、角野、松本、春畑の4人で、プロデビューを前提として\[6\]アマチュアバンド「パイプライン」を結成。
+ボーカルの前田は高校時代より[ビーイング](../Page/ビーイング.md "wikilink")の事務所に通い\[3\]、また神奈川県内のライブハウスで活動していた。同時期、前田の学生時代からの友人であるベースの角野も神奈川県内のライブハウスを中心に活動していたが、角野が高校時代にキャバレーでライブ演奏をした際に、友人を通じて前田と出会っている\[4\]。また松本は、角野が高校で属していた部活の後輩である。そして、ビーイング主催の音楽祭を通して知り合った前田、角野、松本、春畑の4人で、プロデビューを前提として\[5\]アマチュアバンド「パイプライン」を結成。
 
 ### 1985年 - 1989年
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")にデビュー曲『[ベストセラー・サマー](../Page/ベストセラー・サマー.md "wikilink")』で「[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE」（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）へ初出演。当初予定していたバンドが出演するがなくなったため、急遽代役として「夜のヒットスタジオ」に出演する格好となり、湘南の[ビーチで](../Page/海水浴場.md "wikilink")[サーフィン](../Page/サーフィン.md "wikilink")をしていたTUBEのメンバーが、ビーチのアナウンスで通じて呼び出され、本番10分前に当時[河田町](../Page/河田町.md "wikilink")にあったフジテレビに駆けつけた\[7\]。急遽出演が決まったためか、司会の[井上順](../Page/井上順.md "wikilink")から『それではご紹介いたしましょう、**ウェーブ**の皆さんです\!\[8\]』とバンド名を勘違いして紹介したが、同じ司会の[芳村真理](../Page/芳村真理.md "wikilink")がとっさに「**TUBEです\!**」と訂正した\[9\]\[10\]。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[7月17日](../Page/7月17日.md "wikilink")にデビュー曲『[ベストセラー・サマー](../Page/ベストセラー・サマー.md "wikilink")』で「[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE」（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）へ初出演。当初予定していたバンドが出演するがなくなったため、急遽代役として「夜のヒットスタジオ」に出演する格好となり、湘南の[ビーチで](../Page/海水浴場.md "wikilink")[サーフィン](../Page/サーフィン.md "wikilink")をしていたTUBEのメンバーが、ビーチのアナウンスで通じて呼び出され、本番10分前に当時[河田町](../Page/河田町.md "wikilink")にあったフジテレビに駆けつけた\[6\]。急遽出演が決まったためか、司会の[井上順](../Page/井上順.md "wikilink")から『それではご紹介いたしましょう、**ウェーブ**の皆さんです\!\[7\]』とバンド名を勘違いして紹介したが、同じ司会の[芳村真理](../Page/芳村真理.md "wikilink")がとっさに「**TUBEです\!**」と訂正した\[8\]\[9\]。
 
-前田曰く、「1989年がTUBEにとって本当のデビューであった」とデビュー10年目の1994年に当時を回想している\[11\]。また春畑は、「[織田哲郎](../Page/織田哲郎.md "wikilink")さんは4人がアマチュアの頃からコピーしてたくらいだから曲を書いてもらえるのが嬉しかったが、作曲家の提供曲よりカッコ悪くてもいいから自分たちの音楽をやりたかった」\[12\]と当時を回想している。プロデューサーである[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")はTUBEのメンバーが理想とする「自作」を許可し\[13\]、1989年以降は全曲の作詞・作曲をメンバーで手掛けるようになる。
+前田曰く、「1989年がTUBEにとって本当のデビューであった」とデビュー10年目の1994年に当時を回想している\[10\]。また春畑は、「[織田哲郎](../Page/織田哲郎.md "wikilink")さんは4人がアマチュアの頃からコピーしてたくらいだから曲を書いてもらえるのが嬉しかったが、作曲家の提供曲よりカッコ悪くてもいいから自分たちの音楽をやりたかった」\[11\]と当時を回想している。プロデューサーである[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")はTUBEのメンバーが理想とする「自作」を許可し\[12\]、1989年以降は全曲の作詞・作曲をメンバーで手掛けるようになる。
 
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
 
 <!-- end list -->
 
-  - [5月30日](../Page/5月30日.md "wikilink") - 東京プリンスホテルにて「デビュー・コンベンションライブ」を行なう\[14\]。
+  - [5月30日](../Page/5月30日.md "wikilink") - 東京プリンスホテルにて「デビュー・コンベンションライブ」を行なう\[13\]。
   - [6月1日](../Page/6月1日.md "wikilink") - バンド名「The TUBE」として[ベストセラー・サマー](../Page/ベストセラー・サマー.md "wikilink")でプロデビュー。この曲で[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")、[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")、[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE等の主要な歌番組への初出演を果たす。なお、デビュー当初はTUBEはシングル曲を外部作家に委ねていたが、翌[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")より楽曲はビーイング内の作家にシフトすることになる。
   - [7月1日](../Page/7月1日.md "wikilink") - 1stアルバム「[HEART OF SUMMER](https://ja.wikipedia.org/wiki/HEART_OF_SUMMER "wikilink")」をリリース、CDチャートTOP30入りを果たす。
-  - [11月24日](../Page/11月24日.md "wikilink") - 初の単体コンサートを逗子マリーナの会場で行なう\[15\]。
+  - [11月24日](../Page/11月24日.md "wikilink") - 初の単体コンサートを逗子マリーナの会場で行なう\[14\]。
   - [12月1日](../Page/12月1日.md "wikilink") - 「[OFF SHORE DREAMIN'](https://ja.wikipedia.org/wiki/OFF_SHORE_DREAMIN' "wikilink")」をリリース。
 
 <!-- end list -->
@@ -128,7 +128,7 @@
 <!-- end list -->
 
   - [4月30日](../Page/4月30日.md "wikilink") - 7thシングル「[Beach Time](https://ja.wikipedia.org/wiki/Beach_Time "wikilink")」リリース。
-  - [5月23日](../Page/5月23日.md "wikilink") - 角野が交通事故を起こしたため、暫くの間バンド活動を自粛。この事故で車に同乗していた交際相手の女性が死亡するという大事故だった\[16\]。解散も含め真剣に話し合った結果、女性の家族の意向もあって活動継続を決めた\[17\]。角野が復帰するまでベースは[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")が代役を務めることになった\[18\]。
+  - [5月23日](../Page/5月23日.md "wikilink") - 角野が交通事故を起こしたため、暫くの間バンド活動を自粛。この事故で車に同乗していた交際相手の女性が死亡するという大事故だった\[15\]。解散も含め真剣に話し合った結果、女性の家族の意向もあって活動継続を決めた\[16\]。角野が復帰するまでベースは[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")が代役を務めることになった\[17\]。
   - 8thシングル「[Remember Me](../Page/Remember_Me_\(TUBEの曲\).md "wikilink")」をリリース、今作品も夏とは関係ない楽曲でありバラード調でもヒットを記録した。
   - 現在も毎年恒例となっている[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのライブがこの年から開催された。
 
@@ -147,7 +147,7 @@
 
 <!-- end list -->
 
-  - [5月21日](../Page/5月21日.md "wikilink") - 11thシングル「[あー夏休み](../Page/あー夏休み.md "wikilink")」リリース。この作品から完全に作詞・作曲・編曲がTUBEのメンバーによるものとなる。制作過程ではプロデューサーの[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")提案の曲調に戸惑う\[19\]が、それは従来のシングル曲路線と全く異なる曲調だったからである。その戸惑いとは裏腹に本作品は20万を超えるヒットを記録する。
+  - [5月21日](../Page/5月21日.md "wikilink") - 11thシングル「[あー夏休み](../Page/あー夏休み.md "wikilink")」リリース。この作品から完全に作詞・作曲・編曲がTUBEのメンバーによるものとなる。制作過程ではプロデューサーの[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")提案の曲調に戸惑う\[18\]が、それは従来のシングル曲路線と全く異なる曲調だったからである。その戸惑いとは裏腹に本作品は20万を超えるヒットを記録する。
   - 日本有線大賞にて「あー夏休み」で有線音楽優秀賞を受賞。
 
 <!-- end list -->
@@ -166,7 +166,7 @@
 
 <!-- end list -->
 
-  - [6月13日](../Page/6月13日.md "wikilink") - 12thアルバム「[納涼](https://ja.wikipedia.org/wiki/納涼_\(アルバム\) "wikilink")」をリリース、自身初のミリオンヒットを記録した。
+  - [6月13日](../Page/6月13日.md "wikilink") - 12thアルバム「[納涼](https://ja.wikipedia.org/wiki/納涼_\(アルバム\) "wikilink")」をリリース。
   - 日本有線大賞にて「[夏だね](https://ja.wikipedia.org/wiki/夏だね "wikilink")」、「[ガラスのメモリーズ](https://ja.wikipedia.org/wiki/ガラスのメモリーズ "wikilink")」で有線音楽優秀賞を受賞。
   - 前作に並び、CDの売上枚数が50万枚以上（推計60\~80万枚）を記録した。
   - この年から[ナゴヤ球場](../Page/ナゴヤ球場.md "wikilink")での野外ライブが恒例になる。（建て替えのため[2002年](../Page/2002年.md "wikilink")を最後に終了）
@@ -179,7 +179,7 @@
 
   - [5月12日](../Page/5月12日.md "wikilink") - 16thシングル「[夏を待ちきれなくて](../Page/夏を待ちきれなくて.md "wikilink")」リリース。初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。出荷枚数は90万枚を突破した。（初動売り上げは12.9万枚）
   - [5月15日](../Page/5月15日.md "wikilink") - [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")[開幕戦の](../Page/1993年Jリーグ開幕節.md "wikilink")[横浜マリノスvs](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[ヴェルディ川崎戦](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")（国立競技場）にて前田が国歌独唱、春畑がJリーグのオフィシャルテーマソング「J'S THEME」をピッチで披露した。
-  - [6月18日](../Page/6月18日.md "wikilink") - 13thアルバム「[浪漫の夏](https://ja.wikipedia.org/wiki/浪漫の夏 "wikilink")」をリリース、前作同様ミリオンヒットを記録し、この頃からはTUBEのアルバムが恒例のようにミリオンヒットを記録する。
+  - [6月18日](../Page/6月18日.md "wikilink") - 13thアルバム「[浪漫の夏](https://ja.wikipedia.org/wiki/浪漫の夏 "wikilink")」をリリース。
   - [7月1日](../Page/7月1日.md "wikilink") - 17thシングル「[だって夏じゃない](../Page/だって夏じゃない.md "wikilink")」リリース。2作連続となるオリコンチャート1位を獲得。
   - [12月31日](../Page/12月31日.md "wikilink") - 『[第44回NHK紅白歌合戦](../Page/第44回NHK紅白歌合戦.md "wikilink")』に出場し、「夏を待ちきれなくて」を歌唱。初の紅白歌合戦出場となった。
 
@@ -192,7 +192,7 @@
   - [5月11日](../Page/5月11日.md "wikilink") - 18thシングル「[夏を抱きしめて](../Page/夏を抱きしめて.md "wikilink")」リリース。3作連続となるオリコンチャート1位とシングルでは自身最大の初動売り上げ（15.9万枚）を獲得。本作品は100万枚以上を売り上げ、TUBEのシングル曲で最大のセールスを記録した。
   - TUBEデビュー10年目の年であり、夏の野外ライブも例年に比べ多数開催され、全国10ヶ所公演となった。
   - 5年ぶりに夏季以降の活動を行ない、ライブ活動として1989年以来となる冬のライブツアー『冬でごめんねツアー』が開催された。
-  - [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - 初のバラードベストアルバム「[Melodies & Memories](https://ja.wikipedia.org/wiki/Melodies_&_Memories_\(アルバム\) "wikilink")」を発売。オリコンチャート初登場1位を記録しミリオンヒットとなった。
+  - [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - 初のバラードベストアルバム「[Melodies & Memories](https://ja.wikipedia.org/wiki/Melodies_&_Memories_\(アルバム\) "wikilink")」を発売。
 
 <!-- end list -->
 
@@ -242,7 +242,7 @@
 
 <!-- end list -->
 
-  - [4月17日](../Page/4月17日.md "wikilink") - [ハワイのみで](../Page/ハワイ州.md "wikilink")「TUBE with Friends」名義でのシングル「[SHA LA LA / Remember Me](https://ja.wikipedia.org/wiki/SHA_LA_LA_/_Remember_Me "wikilink")」を発売。現地のチャートで4位を記録\[20\]。
+  - [4月17日](../Page/4月17日.md "wikilink") - [ハワイのみで](../Page/ハワイ州.md "wikilink")「TUBE with Friends」名義でのシングル「[SHA LA LA / Remember Me](https://ja.wikipedia.org/wiki/SHA_LA_LA_/_Remember_Me "wikilink")」を発売。現地のチャートで4位を記録\[19\]。
   - [5月13日](../Page/5月13日.md "wikilink") - [TUBEst IIIを発売](https://ja.wikipedia.org/wiki/TUBEst_III "wikilink")。今作も100万枚以上を売上げ、[2000年](../Page/2000年.md "wikilink")のロック部門でアルバム・オブ・ザ・イヤ―（ゴールドディスク大賞）を受賞する。
   - [6月1日](../Page/6月1日.md "wikilink") - デビュー15周年記念としてハワイの[アロハ・スタジアム](../Page/アロハ・スタジアム.md "wikilink")にて日本人アーティストとして初めてコンサートを開催し21000人を動員する。
   - [6月28日](../Page/6月28日.md "wikilink") - 33rdシングル「[虹になりたい](../Page/虹になりたい.md "wikilink")」を発売。今作は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")シングル「[きっとどこかで](https://ja.wikipedia.org/wiki/きっとどこかで "wikilink")」に並び40万-60万枚以上のヒットを記録した。
@@ -346,7 +346,7 @@
 <!-- end list -->
 
   - [4月5日](../Page/4月5日.md "wikilink") - 「[ふじさわ観光親善大使](../Page/藤沢市.md "wikilink")」に任命された。
-  - [5月15日](../Page/5月15日.md "wikilink") - [鵠沼海岸](../Page/鵠沼海岸.md "wikilink")で野外ライブツアー「TUBE LIVE AROUND 2010 SEASIDE VIBRATION」をスタートさせた。TUBE史上初めて[湘南海岸](../Page/湘南海岸.md "wikilink")でライブイベントを行った。予定より1万人を上回る3万人を動員。今後同所でのライブが恒例化される可能性がある。さらに[藤沢駅](https://ja.wikipedia.org/wiki/藤沢駅 "wikilink")の発車音や市内の午後5時の時報にTUBEの楽曲が起用される。\[21\]
+  - [5月15日](../Page/5月15日.md "wikilink") - [鵠沼海岸](../Page/鵠沼海岸.md "wikilink")で野外ライブツアー「TUBE LIVE AROUND 2010 SEASIDE VIBRATION」をスタートさせた。TUBE史上初めて[湘南海岸](../Page/湘南海岸.md "wikilink")でライブイベントを行った。予定より1万人を上回る3万人を動員。今後同所でのライブが恒例化される可能性がある。さらに[藤沢駅](https://ja.wikipedia.org/wiki/藤沢駅 "wikilink")の発車音や市内の午後5時の時報にTUBEの楽曲が起用される。\[20\]
   - [6月2日](../Page/6月2日.md "wikilink") - 「[灼熱らぶ](https://ja.wikipedia.org/wiki/灼熱らぶ "wikilink")」リリース。
   - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - 「[Surprise\!](https://ja.wikipedia.org/wiki/Surprise!_\(アルバム\) "wikilink")」リリース。
   - [8月21日](../Page/8月21日.md "wikilink") - 「横浜スタジアム」ライブを開催。
@@ -418,10 +418,10 @@
   - [6月2日](../Page/6月2日.md "wikilink") - 57thシングル「[SUMMER TIME](https://ja.wikipedia.org/wiki/SUMMER_TIME "wikilink")」をリリース。
   - 6月5日 - TUBE LIVE AROUND 2015を[市川市文化会館](../Page/市川市文化会館.md "wikilink")より公演。
   - [6月17日](../Page/6月17日.md "wikilink") - 33rdアルバム「[Your TUBE+My TUBE](https://ja.wikipedia.org/wiki/Your_TUBE+My_TUBE "wikilink")」をリリース。
-  - [7月5日](../Page/7月5日.md "wikilink") - 全国ツアー「TUBE LIVE AROUND 2015 Your TUBE＋My TUBE」[東京エレクトロンホール宮城公演にて](../Page/宮城県民会館.md "wikilink")、通算1000本目のライブを達成した\[22\]。
+  - [7月5日](../Page/7月5日.md "wikilink") - 全国ツアー「TUBE LIVE AROUND 2015 Your TUBE＋My TUBE」[東京エレクトロンホール宮城公演にて](../Page/宮城県民会館.md "wikilink")、通算1000本目のライブを達成した\[21\]。
   - [7月15日](../Page/7月15日.md "wikilink") - 初のオールタイムベストアルバム「[Best of TUBEst 〜All Time Best〜](https://ja.wikipedia.org/wiki/Best_of_TUBEst_〜All_Time_Best〜 "wikilink")」をリリース。
   - [8月22日](../Page/8月22日.md "wikilink") - 「横浜スタジアム」ライブを開催。
-  - [9月23日](../Page/9月23日.md "wikilink") - 「阪神甲子園球場」ライブを開催。甲子園球場でのライブは、25回目となる本公演をもって終了することが発表された\[23\]。
+  - [9月23日](../Page/9月23日.md "wikilink") - 「阪神甲子園球場」ライブを開催。甲子園球場でのライブは、25回目となる本公演をもって終了することが発表された\[22\]。
   - [10月7日](../Page/10月7日.md "wikilink") - 58thシングル「[TONIGHT](https://ja.wikipedia.org/wiki/TONIGHT_\(TUBEの曲\) "wikilink")」をリリース。
   - [11月20日](../Page/11月20日.md "wikilink") - 33rdアルバム「[Your TUBE+My TUBE](https://ja.wikipedia.org/wiki/Your_TUBE+My_TUBE "wikilink")」が[第57回日本レコード大賞](https://ja.wikipedia.org/wiki/第57回日本レコード大賞 "wikilink")「優秀アルバム賞」を受賞する。
   - [12月16日](../Page/12月16日.md "wikilink") - 59thシングル「[灯台](https://ja.wikipedia.org/wiki/灯台_\(TUBEの曲\) "wikilink")」をリリース。
@@ -851,7 +851,7 @@
 </tr>
 <tr class="even">
 <td><p>28th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/8月5日.md" title="wikilink">8月5日</a>[24]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/8月5日.md" title="wikilink">8月5日</a>[23]</p></td>
 <td><p><strong><a href="../Page/きっと_どこかで.md" title="wikilink">きっと どこかで</a></strong></p></td>
 <td><p>作詞：前田亘輝<br />
 作曲：春畑道哉<br />
@@ -1364,7 +1364,7 @@
 | ----- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 1st   | [1988年](../Page/1988年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")   | **[My Favorite Songs](https://ja.wikipedia.org/wiki/My_Favorite_Songs_\(TUBEのアルバム\) "wikilink")**      | [CBS・ソニーレコードの](../Page/ソニー・ミュージックレコーズ.md "wikilink")20周年記念作品。1986年\~1988年のTUBEのシングルのA面から全5曲で構成。                                                                                                                                                                                             | 28位 |
 | 2nd   | [1991年](../Page/1991年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink") | **[オリジナル・カラオケ](https://ja.wikipedia.org/wiki/オリジナル・カラオケ "wikilink")**                                  | TUBEのアルバム12作目「[湘南](https://ja.wikipedia.org/wiki/湘南_\(アルバム\) "wikilink")」から2曲と、TUBEのシングル12作目「[湘南My Love](../Page/湘南My_Love.md "wikilink")」及び13作目「[さよならイエスタデイ](../Page/さよならイエスタデイ.md "wikilink")」の両A面と全4曲で構成されたシングル。また、全曲が[オフヴォーカル](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")となっている。 |     |
-| 3rd   | [2000年](../Page/2000年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") | **[SHA LA LA / Remember Me](https://ja.wikipedia.org/wiki/SHA_LA_LA_/_Remember_Me "wikilink")** \[25\] | 「TUBE with Friends」名義で自身達が企画したハワイ盤限定シングル。                                                                                                                                                                                                                                                   |     |
+| 3rd   | [2000年](../Page/2000年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") | **[SHA LA LA / Remember Me](https://ja.wikipedia.org/wiki/SHA_LA_LA_/_Remember_Me "wikilink")** \[24\] | 「TUBE with Friends」名義で自身達が企画したハワイ盤限定シングル。                                                                                                                                                                                                                                                   |     |
 | 4th   | [2011年](../Page/2011年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")   | **[RESTART](https://ja.wikipedia.org/wiki/RESTART_\(RESTART_JAPAN_with_TUBEの曲\) "wikilink")**          | 「RESTART JAPAN with TUBE」名義で、自身達が企画したシングル。                                                                                                                                                                                                                                                  | 8位  |
 
 ##### 参加作品
@@ -2524,25 +2524,6 @@ RIDE ON SUMMER</strong></p></td>
 | FULL SWING                                                                                                                | [RIZAP](https://ja.wikipedia.org/wiki/RIZAP "wikilink") KBCオーガスタゴルフトーナメント2016大会テーマソング                                                  |
 | Shiny morning                                                                                                             | [味の素](../Page/味の素.md "wikilink")「クノール®冷たい牛乳でつくるカップスープ」タイアップソング                                                                         |
 
-## ミリオンセラー一覧
-
-2016年までにシングル1枚、アルバム8枚がミリオンセラーを記録している。
-
-### シングル
-
-  - [夏を抱きしめて](../Page/夏を抱きしめて.md "wikilink")
-
-### アルバム
-
-  - [納涼](https://ja.wikipedia.org/wiki/納涼_\(アルバム\) "wikilink")
-  - [浪漫の夏](https://ja.wikipedia.org/wiki/浪漫の夏 "wikilink")
-  - [終わらない夏に](https://ja.wikipedia.org/wiki/終わらない夏に "wikilink")
-  - [Melodies & Memories](https://ja.wikipedia.org/wiki/Melodies_&_Memories_\(アルバム\) "wikilink")
-  - [ゆずれない夏](https://ja.wikipedia.org/wiki/ゆずれない夏_\(アルバム\) "wikilink")
-  - [TUBEst II](https://ja.wikipedia.org/wiki/TUBEst_II "wikilink")
-  - [Bravo\!](https://ja.wikipedia.org/wiki/Bravo! "wikilink")
-  - [TUBEst III](https://ja.wikipedia.org/wiki/TUBEst_III "wikilink")
-
 ## 関連人物・グループ
 
 以下50音順である。
@@ -2616,28 +2597,27 @@ RIDE ON SUMMER</strong></p></td>
   -
 [Category:TUBE](https://ja.wikipedia.org/wiki/Category:TUBE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1985年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に結成した音楽グループ "wikilink")
 
-1.  [夏の代名詞同士がコラボレーション\!](http://www.akagi.com/company/release/m100621.html)、[赤城乳業](../Page/赤城乳業.md "wikilink")、2010年6月21日。
-2.  2015年7月24日放送[TUBEのオールナイトニッポンGOLDより](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
-3.  BEST of TUBEstブックレット、及び「LIVE AROUND SPECIAL 2014 TIME TRAVEL 29」パンフレットより。
-4.  [学習研究社](../Page/学研ホールディングス.md "wikilink")「BLUE MEMORIES TUBE」ISBN 4054003540 （1994年）
+1.  2015年7月24日放送[TUBEのオールナイトニッポンGOLDより](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
+2.  BEST of TUBEstブックレット、及び「LIVE AROUND SPECIAL 2014 TIME TRAVEL 29」パンフレットより。
+3.  [学習研究社](../Page/学研ホールディングス.md "wikilink")「BLUE MEMORIES TUBE」ISBN 4054003540 （1994年）
+4.
 5.
 6.
-7.
-8.  歌披露前に再び井上が、バンド名を『**ウェーブ**』と言い間違えた。
-9.  [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（1985年7月17日放送）
-10. [<https://tvtopic.goo.ne.jp/program/cx/64513/989686>](https://tvtopic.goo.ne.jp/program/cx/64513/989686/) 『[かたらふ～ぼくたちのスタア～](https://ja.wikipedia.org/wiki/かたらふ〜ぼくたちのスタア〜 "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）2016年8月27日放送分（gooテレビ番組）。
-11. [Sony Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")『LIVE AROUND SPECIAL'94 F・S・F The Documentary （1994年）
-12. 学習研究社 『Music Magazine「CATCHY\!」』 春畑道哉 談（1994年）
+7.  歌披露前に再び井上が、バンド名を『**ウェーブ**』と言い間違えた。
+8.  [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』（1985年7月17日放送）
+9.  [<https://tvtopic.goo.ne.jp/program/cx/64513/989686>](https://tvtopic.goo.ne.jp/program/cx/64513/989686/) 『[かたらふ～ぼくたちのスタア～](https://ja.wikipedia.org/wiki/かたらふ〜ぼくたちのスタア〜 "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）2016年8月27日放送分（gooテレビ番組）。
+10. [Sony Records](../Page/ソニー・ミュージックレコーズ.md "wikilink")『LIVE AROUND SPECIAL'94 F・S・F The Documentary （1994年）
+11. 学習研究社 『Music Magazine「CATCHY\!」』 春畑道哉 談（1994年）
+12.
 13.
 14.
 15.
 16.
 17.
 18.
-19.
-20. [15周年TUBEが感激のハワイ公演](http://web.archive.org/web/20010315021726/http://www.sanspo.com/enter/music/m0006/top2000060303.html)、SANSPO.COM、2000年6月2日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
-21. [TUBEが来た\! 湘南初ライブ3万人集結\!](http://www.sanspo.com/geino/news/100516/gnj1005160507013-n1.htm)、サンケイスポーツ、2010年5月16日。
+19. [15周年TUBEが感激のハワイ公演](http://web.archive.org/web/20010315021726/http://www.sanspo.com/enter/music/m0006/top2000060303.html)、SANSPO.COM、2000年6月2日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+20. [TUBEが来た\! 湘南初ライブ3万人集結\!](http://www.sanspo.com/geino/news/100516/gnj1005160507013-n1.htm)、サンケイスポーツ、2010年5月16日。
+21.
 22.
-23.
-24. [どこかで」 TUBE│オリコン芸能人事典-ORICON STYLE](http://www.oricon.co.jp/prof/artist/24585/products/music/237601/1/「きっと) 2014年4月16日閲覧
-25. ハワイ限定発売。
+23. [どこかで」 TUBE│オリコン芸能人事典-ORICON STYLE](http://www.oricon.co.jp/prof/artist/24585/products/music/237601/1/「きっと) 2014年4月16日閲覧
+24. ハワイ限定発売。

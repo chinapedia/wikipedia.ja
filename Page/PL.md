@@ -19,7 +19,7 @@
   - [プレスル式接眼鏡](https://ja.wikipedia.org/wiki/プレスル式接眼鏡 "wikilink") () - [接眼鏡の種類](../Page/接眼レンズ.md "wikilink")。
   - [神戸新交通ポートアイランド線](../Page/神戸新交通ポートアイランド線.md "wikilink") () 環状運転部の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
   - [ピンク・レディー](../Page/ピンク・レディー.md "wikilink") ()
-  - [海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")大型[巡視船](../Page/巡視船.md "wikilink") () の[艦種記号](https://ja.wikipedia.org/wiki/艦種記号 "wikilink")。
+  - [海上保安庁](../Page/海上保安庁.md "wikilink")大型[巡視船](../Page/巡視船.md "wikilink") () の[艦種記号](https://ja.wikipedia.org/wiki/艦種記号 "wikilink")。
   - [包装明細書](https://ja.wikipedia.org/wiki/包装明細書 "wikilink") ()
   - [パイロン](../Page/パイロン_\(風邪薬\).md "wikilink") () - [塩野義製薬](../Page/塩野義製薬.md "wikilink")の[総合感冒薬](../Page/総合感冒薬.md "wikilink")。
   - [プロジェクトリーダー](https://ja.wikipedia.org/wiki/プロジェクトリーダー "wikilink") ()

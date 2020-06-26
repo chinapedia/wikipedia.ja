@@ -9,7 +9,7 @@
 
 MeCabはGoogleが公開した大規模日本語n-gramデータの作成にも使用された\[3\]。
 
-[Mac OS X v10.5及び](../Page/Mac_OS_X_v10.5.md "wikilink")[v10.6の](../Page/Mac_OS_X_v10.6.md "wikilink")[Spotlight](../Page/Spotlight.md "wikilink")や[iPhone OS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 2.1以降の日本語入力にも利用されている\[4\]\[5\]。
+[Mac OS X v10.5及び](../Page/Mac_OS_X_v10.5.md "wikilink")[v10.6の](../Page/Mac_OS_X_v10.6.md "wikilink")[Spotlight](../Page/Spotlight.md "wikilink")や[iPhone OS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 2.1以降と[OS X Yosemite以降の日本語入力にも利用されている](https://ja.wikipedia.org/wiki/OS_X_Yosemite "wikilink")\[4\]\[5\]\[6\]。
 
 ## 脚注
 
@@ -23,3 +23,4 @@ MeCabはGoogleが公開した大規模日本語n-gramデータの作成にも使
 3.
 4.
 5.
+6.

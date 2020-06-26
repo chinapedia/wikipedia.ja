@@ -248,7 +248,7 @@
 <tr class="even">
 <td><p><a href="../Page/関島岳郎.md" title="wikilink">関島岳郎</a></p></td>
 <td><p><a href="../Page/チューバ.md" title="wikilink">チューバ</a></p></td>
-<td><p>コンポステラ／ストラーダ／シカラムータ／<a href="https://ja.wikipedia.org/wiki/ザ・スリル" title="wikilink">THE THRILL</a><br />
+<td><p>コンポステラ／ストラーダ／<a href="../Page/シカラムータ.md" title="wikilink">シカラムータ</a>／<a href="https://ja.wikipedia.org/wiki/ザ・スリル" title="wikilink">THE THRILL</a><br />
 栗コーダーカルテット／こまっちゃクレズマ</p></td>
 <td><p>第二期より</p></td>
 </tr>

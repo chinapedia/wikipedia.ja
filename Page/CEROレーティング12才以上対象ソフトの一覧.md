@@ -652,7 +652,7 @@
       - [ワンピース 海賊無双3](https://ja.wikipedia.org/wiki/ワンピース_海賊無双3 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
       - [ワンピース 海賊無双4](../Page/ONE_PIECE_海賊無双4.md "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
 
-#### PlayStation Store 配信ソフト (PS4)
+#### PlayStation Store 配信ソフト（PS4）
 
   - [幻想の輪舞](https://ja.wikipedia.org/wiki/幻想の輪舞 "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ファントムブレイカー オーバードライブ](https://ja.wikipedia.org/wiki/ファントムブレイカー "wikilink")：バトルグラウンド（コンテンツアイコン：「暴力」）
@@ -867,7 +867,7 @@
       - [ワンピース 海賊無双2](https://ja.wikipedia.org/wiki/ワンピース_海賊無双2 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
       - [ワンピース 海賊無双3](https://ja.wikipedia.org/wiki/ワンピース_海賊無双3 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
 
-#### PlayStation Store 配信ソフト (PS3)
+#### PlayStation Store 配信ソフト（PS3）
 
   - [ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ウィザードリィ 囚われし亡霊の街](https://ja.wikipedia.org/wiki/ウィザードリィ_囚われし亡霊の街 "wikilink")（コンテンツアイコン：「セクシャル」）
@@ -880,7 +880,7 @@
   - [スペースチャンネル5 パート2](../Page/スペースチャンネル5.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [セガビンテージコレクション](https://ja.wikipedia.org/wiki/セガビンテージコレクション "wikilink")
       - [獣王記](../Page/獣王記.md "wikilink")（コンテンツアイコン：「暴力」）
-      - [ベア・ナックルII　死闘への鎮魂歌](https://ja.wikipedia.org/wiki/ベア・ナックルII_死闘への鎮魂歌 "wikilink")（コンテンツアイコン：「暴力」）
+      - [ベア・ナックルII　死闘への鎮魂歌](../Page/ベア・ナックルII_死闘への鎮魂歌.md "wikilink")（コンテンツアイコン：「暴力」）
   - [DARK AWAKE](../Page/カオスブレイカー.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [鉄拳5 DARK RESURRECTION](../Page/鉄拳5.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [トライン ザ ロストレリック](https://ja.wikipedia.org/wiki/トライン_ザ_ロストレリック "wikilink")（コンテンツアイコン：「暴力」）
@@ -1193,7 +1193,7 @@
       - Vol.12 THE 歩兵2 〜戦友よ、先に逝け〜（コンテンツアイコン：「暴力、言葉・その他」）
       - Vol.13 THE 悪魔ハンターズ 〜ヱクソシスター〜（コンテンツアイコン：「セクシャル、暴力」）
 
-#### PlayStation Store 配信ソフト (PSP)
+#### PlayStation Store 配信ソフト（PSP）
 
   - [GTI Club ワールド シティ レース](https://ja.wikipedia.org/wiki/GTI_Club_supermini_Festa! "wikilink")（コンテンツアイコン：「犯罪」）
   - [スーパーロボット大戦Operation Extend](https://ja.wikipedia.org/wiki/スーパーロボット大戦Operation_Extend "wikilink")（第1章～第8章）（コンテンツアイコン：「セクシャル」）
@@ -1846,7 +1846,7 @@
 
 ## マイクロソフト ハード
 
-### Xbox ONE
+### Xbox One
 
   - [ドラゴンボール ゼノバース](https://ja.wikipedia.org/wiki/ドラゴンボール_ゼノバース "wikilink")（コンテンツアイコン：「セクシャル」）
 
@@ -2091,7 +2091,7 @@
   - [ストリートファイターII](../Page/ストリートファイターII.md "wikilink")ダッシュプラス（コンテンツアイコン：「暴力」）
   - [ベア・ナックル](../Page/ベア・ナックル.md "wikilink")シリーズ（コンテンツアイコン：「暴力」）
       - ベア・ナックル 怒りの鉄拳
-      - ベア・ナックル II 死闘への鎮魂歌
+      - [ベア・ナックル II 死闘への鎮魂歌](https://ja.wikipedia.org/wiki/ベア・ナックル_II_死闘への鎮魂歌 "wikilink")
       - ベア・ナックル III
   - [バーチャファイター2](../Page/バーチャファイター2.md "wikilink")＜ジェネシス版＞（コンテンツアイコン：「暴力」）
   - ザ・スーパー忍（コンテンツアイコン：「暴力」）

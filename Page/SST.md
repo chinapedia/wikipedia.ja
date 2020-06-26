@@ -4,7 +4,7 @@
 **SST**
 
   - 海面水温（Sea Surface Temperature）の略称。[海水温\#海面水温](https://ja.wikipedia.org/wiki/海水温#海面水温 "wikilink")を参照
-  - [海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")\[1\]\[2\]、[特殊警備隊](../Page/特殊警備隊.md "wikilink") (Special Security Team) の略称。
+  - [海上保安庁](../Page/海上保安庁.md "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")\[1\]\[2\]、[特殊警備隊](../Page/特殊警備隊.md "wikilink") (Special Security Team) の略称。
   - [超音速輸送機](../Page/超音速輸送機.md "wikilink") (Super Sonic Transport) - 実用化されていたのは[コンコルド](../Page/コンコルド.md "wikilink")や[Tu-144](https://ja.wikipedia.org/wiki/Tu-144 "wikilink")など。2015年現在、就航中のものはない。
   - [ソーシャルスキルトレーニング](../Page/ソーシャルスキルトレーニング.md "wikilink") (Social Skills Training) - 社会生活技能訓練
   - [自動車](../Page/自動車.md "wikilink")・[オートバイ](../Page/オートバイ.md "wikilink")などの整備に用いる特殊工具 (Special Service Tool)の略称。

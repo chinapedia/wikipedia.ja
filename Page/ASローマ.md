@@ -85,7 +85,7 @@
 
 ### ライバル関係
 
-イタリアサッカーにおいて、ローマには多くのライバルがいる。最初のライバルは、共にスタディオ・オリンピコを本拠地とする[ラツィオである](../Page/SSラツィオ.md "wikilink")。この2チームの[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")は「[デルビー・デッラ・カピターレ](https://ja.wikipedia.org/wiki/デルビー・デッラ・カピターレ "wikilink")」（首都ダービー）呼ばれる。過去には、1979-80シーズンの試合のおいてクルヴァ・スッドから発射された[緊急照明弾が原因で起こったラツィオファンVincenzo](https://ja.wikipedia.org/wiki/信号拳銃 "wikilink") Paparelliの死亡事故\[15\]や、死亡者が出たという根拠のないうわさに端を発したスタジアム外での暴力を受けて試合放棄となった2004年3月の事例\[16\]など、時折暴力沙汰が起こっている。
+イタリアサッカーにおいて、ローマには多くのライバルがいる。最初のライバルは、共にスタディオ・オリンピコを本拠地とする[ラツィオである](../Page/SSラツィオ.md "wikilink")。この2チームの[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")は「[デルビー・デッラ・カピターレ](https://ja.wikipedia.org/wiki/デルビー・デッラ・カピターレ "wikilink")」（首都ダービー）呼ばれる。過去には、1979-80シーズンの試合においてクルヴァ・スッドから発射された[緊急照明弾が原因で起こったラツィオファンVincenzo](https://ja.wikipedia.org/wiki/信号拳銃 "wikilink") Paparelliの死亡事故\[15\]や、死亡者が出たという根拠のないうわさに端を発したスタジアム外での暴力を受けて試合放棄となった2004年3月の事例\[16\]など、時折暴力沙汰が起こっている。
 
 近年では、ローマファンは[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")（1980年代にライバル関係が生まれた）や[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（近年上昇している）といったセリエAの強豪も（リーグタイトルを争うことから）ライバルと考えている\[17\]。
 
@@ -2043,23 +2043,23 @@
 
 ## ユニフォーム
 
-| 年度        | メーカー                                                             | 胸 スポンサー                                                 |
-| --------- | ---------------------------------------------------------------- | ------------------------------------------------------- |
-| 1981–1983 | Playground                                                       | [Barilla](https://ja.wikipedia.org/wiki/バリラ "wikilink") |
-| 1984-1986 | [Kappa](../Page/Kappa.md "wikilink")                             |                                                         |
-| 1987–1991 | NR（ennerre）                                                      |                                                         |
-| 1992–1994 | [adidas](https://ja.wikipedia.org/wiki/adidas "wikilink")        |                                                         |
-| 1995      | [asics](../Page/アシックス.md "wikilink")                             | Nuova Tirrena                                           |
-| 1996–1997 | INA Assitalia                                                    |                                                         |
-| 1998-2000 | [DIADORA](https://ja.wikipedia.org/wiki/ディアドラ "wikilink")        |                                                         |
-| 2001–2002 | [Kappa](../Page/Kappa.md "wikilink")                             |                                                         |
-| 2003      | [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")            |                                                         |
-| 2004-2005 | DIADORA                                                          |                                                         |
-| 2006–2007 | <small>*none*</small>                                            |                                                         |
-| 2008–2013 | [Kappa](../Page/Kappa.md "wikilink")                             | WIND                                                    |
-| 2014      | <small>*none*</small>                                            | Roma Cares                                              |
-| 2015-2017 | [Nike](../Page/ナイキ.md "wikilink")                                | <small>*none*</small>                                   |
-| 2018-     | [QATAR AIRWAYS](https://ja.wikipedia.org/wiki/カタール航空 "wikilink") |                                                         |
+| 年度        | メーカー                                                                                                           | スポンサー                                                   |
+| --------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1981–1983 | Playground                                                                                                     | [Barilla](https://ja.wikipedia.org/wiki/バリラ "wikilink") |
+| 1984-1986 | [Kappa](../Page/Kappa.md "wikilink")                                                                           |                                                         |
+| 1987–1991 | NR（ennerre）                                                                                                    |                                                         |
+| 1992–1994 | [adidas](https://ja.wikipedia.org/wiki/adidas "wikilink")                                                      |                                                         |
+| 1995      | [asics](../Page/アシックス.md "wikilink")                                                                           | Nuova Tirrena                                           |
+| 1996–1997 | INA Assitalia                                                                                                  |                                                         |
+| 1998-2000 | [DIADORA](https://ja.wikipedia.org/wiki/ディアドラ "wikilink")                                                      |                                                         |
+| 2001–2002 | [Kappa](../Page/Kappa.md "wikilink")                                                                           |                                                         |
+| 2003      | [MAZDA](https://ja.wikipedia.org/wiki/マツダ "wikilink")                                                          |                                                         |
+| 2004-2005 | DIADORA                                                                                                        |                                                         |
+| 2006–2007 | <small>*none*</small>                                                                                          |                                                         |
+| 2008–2013 | [Kappa](../Page/Kappa.md "wikilink")                                                                           | WIND                                                    |
+| 2014      | <small>*none*</small>                                                                                          | Roma Cares                                              |
+| 2015-2017 | [Nike](../Page/ナイキ.md "wikilink")                                                                              | <small>*none*</small>                                   |
+| 2018-     | [QATAR AIRWAYS](https://ja.wikipedia.org/wiki/カタール航空 "wikilink")（胸）/　[Hyundai](../Page/現代自動車.md "wikilink")（腰） |                                                         |
 
 ## 脚注
 

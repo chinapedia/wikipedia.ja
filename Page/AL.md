@@ -27,7 +27,7 @@
   - [オルターナティヴ・リバタリアン](https://ja.wikipedia.org/wiki/オルターナティヴ・リバタリアン "wikilink")：フランスの無政府共産主義の組合
   - [アクティブ・ラーニング](https://ja.wikipedia.org/wiki/アクティブ・ラーニング "wikilink") - 学修者主体の学習手法のひとつ
   - [アルバム](../Page/アルバム.md "wikilink")
-  - [アシスティッド・リビング](https://ja.wikipedia.org/wiki/アシスティッド・リビング "wikilink")（Assisted Living）
+  - [アシスティッド・リビング](../Page/アシスティッド・リビング.md "wikilink")（Assisted Living）
 
 ## コード・形式名
 

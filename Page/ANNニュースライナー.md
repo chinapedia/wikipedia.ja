@@ -60,7 +60,7 @@
 <tr class="odd">
 <td><p>1992.3.30</p></td>
 <td><p>1992.10.4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山上万恵美" title="wikilink">山上万恵美</a></p></td>
+<td><p><a href="../Page/山上万恵美.md" title="wikilink">山上万恵美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1992.10.5</p></td>

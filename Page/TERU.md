@@ -111,11 +111,15 @@
 
   - [3月1日](../Page/3月1日.md "wikilink")に配信開始された[サマンサタバサ](../Page/サマンサタバサ.md "wikilink")25周年アニバーサリーソング「ONE -we are one-」（Samantha Thavasa Family名義）の作詞・作曲を手掛け、ボーカルとしても参加した\[30\]。
 
+**[2020年](../Page/2020年.md "wikilink")**
+
+  - [5月29日](../Page/5月29日.md "wikilink") - [城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")が作詞作曲を手掛けた楽曲「それでも」のボーカルを担当(ギターは[HISASHI](../Page/HISASHI.md "wikilink")。)キッカケは城田の[Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")での生配信を観ていたTERUが、何か一緒にやろうよ」と呼びかけたことから\[31\]。
+
 ## 人物
 
   - 血液型はO型。
   - 高校卒業後は、TAKUROと同じ会社に就職。なお、TAKUROはTERUよりも先に会社を辞めている。
-  - インディーズ時代の1993年、ファンの女性と結婚（のちに離婚）、長男と長女をもうけている。長女がYouTuberとして活動中とされているが、本人は明らかにしていない\[31\]\[32\]。
+  - インディーズ時代の1993年、ファンの女性と結婚（のちに離婚）、長男と長女をもうけている。長女がYouTuberとして活動中とされているが、本人は明らかにしていない\[32\]\[33\]。
   - 家族構成は両親、姉、妹。
   - 両肩と胸、右手人差し指にタトゥーを入れている。
   - 抜群の運動神経の持ち主であり、ライブなどでもしばしばマイクスタンドを使ったハイジャンプを披露する。中学校時代は野球部、高校時代はサッカー部に所属。2013年から[JIRO](../Page/JIRO.md "wikilink")と共に[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")を開始。2014年現在は「TFA」というチームを作り、活動している。
@@ -124,14 +128,14 @@
   - 好きな食べ物は鶏の唐揚げ。本人曰く、「肉料理の王様」。しかし、幼い頃に鳥（雀）に襲われた経験から、鳥（特に小鳥）自体は嫌いである。「[BEAUTIFUL DREAMER](https://ja.wikipedia.org/wiki/BEAUTIFUL_DREAMER/STREET_LIFE "wikilink")」のPVで鷹を手懐けるシーンでは後に「とても怖かった」と語っている。
   - 好きな街のひとつに[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")をあげていて、[Twitter](../Page/Twitter.md "wikilink")や京都でのライブやイベントの度に公言したり、プライベートでも比較的頻繁に京都を訪ねては散策するほどお気に入りである。
   - ファンの間では「天然」キャラとして知られ、その不可思議な言動等が親しまれている。
-  - 早寝・早起きの朝型人間である\[33\]。メンバーではJIROも同様であるが、HISASHIは本人曰く「TERUが起きる頃に寝る」。
+  - 早寝・早起きの朝型人間である\[34\]。メンバーではJIROも同様であるが、HISASHIは本人曰く「TERUが起きる頃に寝る」。
   - GLAYとしてはボーカルの他に[ギター](../Page/ギター.md "wikilink")、[ブルースハープ](https://ja.wikipedia.org/wiki/ブルースハープ "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")などを演奏することもある。また、前述のようにGLAY結成当初はドラムを担当していた。自身作詞作曲の「Little Lovebirds」ではドラムを演奏している他、「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」の[PVでドラムを叩いているシーンが見られる](../Page/ミュージック・ビデオ.md "wikilink")。
   - ライブ等で腕を大きく広げるクセはお笑いなどでネタにされるほか、アルバム『[GLAY](https://ja.wikipedia.org/wiki/GLAY_\(アルバム\) "wikilink")』でも「GLAYを象徴するもの」として腕を広げるTERUの写真がジャケットになっている。
   - [石原さとみ](../Page/石原さとみ.md "wikilink")や[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")、[TAKAHIROなどがTERUのファンを公言している](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")。
   - 北海道出身であることから、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")や[北海道コンサドーレ札幌](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")のファンである。
   - 元メンバーであったAKIRA（上島明）、NOBUMASA（大庭伸公）の脱退時には、脱退に反対の立場を取っていたという。（他にHISASHIも反対の立場を取っていた）
   - [TVゲーム好きで](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")[モンスターハンターシリーズ](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")や[ファイナルファンタジーXIV](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV "wikilink")をプレイし、一般プレイヤーとの交流も多く行っている。
-      - 本人のツイッターアカウントでもTVゲームについてのツイートを行っていたが、ファンからの要望を受け、2017年7月10日からTVゲームの話題については別のツイッターアカウントを使用している\[34\]。ファイナルファンタジーXIVでTERUが使用しているキャラクター名**Mukky Queen**をゲーム専用ツイッターアカウントのユーザー名としている\[35\]。
+      - 本人のツイッターアカウントでもTVゲームについてのツイートを行っていたが、ファンからの要望を受け、2017年7月10日からTVゲームの話題については別のツイッターアカウントを使用している\[35\]。ファイナルファンタジーXIVでTERUが使用しているキャラクター名**Mukky Queen**をゲーム専用ツイッターアカウントのユーザー名としている\[36\]。
 
 ## 参加作品
 
@@ -180,10 +184,10 @@
         「光-hikari-」にボーカルで参加。
 15. **Mayday×五月天 the Best of 1999-2013 / Mayday**（2013年11月13日）
       -
-        「Dancin' Dancin' feat. TERU (GLAY)」にフィーチャリングボーカルとして参加\[36\]。
+        「Dancin' Dancin' feat. TERU (GLAY)」にフィーチャリングボーカルとして参加\[37\]。
 16. **ONE -we are one- / Samantha Thavasa Family**（2019年3月1日）
       -
-        「ONE -we are one-」に作詞・作曲・ボーカルとして参加\[37\]。
+        「ONE -we are one-」に作詞・作曲・ボーカルとして参加\[38\]。
 
 ## 出演
 
@@ -194,7 +198,7 @@
 
 ### ウェブテレビ
 
-  - \#タメノミ～同学年ドリーム飲み会～（2020年5月1日、ABEMA）\[38\]
+  - \#タメノミ～同学年ドリーム飲み会～（2020年5月1日、ABEMA）\[39\]
 
 ### CM
 
@@ -257,10 +261,11 @@
 29.
 30. [橋本環奈・鈴木愛理・倉木麻衣ら、TERU書き下ろし楽曲歌唱 サマンサタバサ25周年ソング](https://www.oricon.co.jp/news/2130523/full/) ORICON NEWS 2019年2月28日
 31.
-32. 「こばしり。」の名義。
-33.
+32.
+33. 「こばしり。」の名義。
 34.
 35.
 36.
 37.
 38.
+39.

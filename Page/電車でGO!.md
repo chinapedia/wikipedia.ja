@@ -204,8 +204,8 @@ AC：[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月](../Page/9
 
 ##### 収録路線・車両
 
-  - [山陰本線](https://ja.wikipedia.org/wiki/山陰本線 "wikilink")
-    [亀岡](../Page/亀岡駅.md "wikilink")→[京都](https://ja.wikipedia.org/wiki/京都駅 "wikilink")（PS版では[嵯峨](../Page/嵯峨嵐山駅.md "wikilink") - [丹波口間省略](../Page/丹波口駅.md "wikilink")）
+  - [山陰本線](https://ja.wikipedia.org/wiki/山陰本線 "wikilink")（[嵯峨野線](https://ja.wikipedia.org/wiki/嵯峨野線 "wikilink")）
+    [亀岡](../Page/亀岡駅.md "wikilink")→[京都](https://ja.wikipedia.org/wiki/京都駅 "wikilink")
       -
         [キハ58系](../Page/国鉄キハ58系気動車.md "wikilink")
     <!-- end list -->

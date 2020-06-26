@@ -276,7 +276,7 @@
   - [SETI@home](../Page/SETI@home.md "wikilink")
   - [浅倉久志](../Page/浅倉久志.md "wikilink")（SF作品の翻訳家。ペンネームの由来となる）
   - [GRB 080319B](https://ja.wikipedia.org/wiki/GRB_080319B "wikilink") （クラークイベントの命名由来）
-  - [Kaypro](https://ja.wikipedia.org/wiki/Kaypro "wikilink") (同社のコンピュータを使用して作品を執筆していた)
+  - [ケイプロ](https://ja.wikipedia.org/wiki/ケイプロ "wikilink") (同社のコンピュータを使用して作品を執筆していた)
 
 ## 外部リンク
 

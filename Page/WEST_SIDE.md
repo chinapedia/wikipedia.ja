@@ -11,7 +11,7 @@
 
 [2001年](../Page/2001年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に、シングル「[WEST LOVE SHINE](../Page/WEST_LOVE_SHINE.md "wikilink")」（[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")）でデビュー。[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")の監督は、[井筒和幸](https://ja.wikipedia.org/wiki/井筒和幸 "wikilink")が務めた。このシングルが、関西[オリコンで初登場](../Page/オリコンチャート.md "wikilink")2位を記録する。その人気は、関西圏では[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")のタレント達を上回る勢いであった。その後2ndシングル「Right Here, Right Now」、アルバム『WS』（ともに[R\&C Japan](https://ja.wikipedia.org/wiki/R&C_Japan "wikilink")）、写真集（[角川書店](../Page/角川書店.md "wikilink")）、DVDなどを発売し、[Zepp Osakaでのライブも行った](https://ja.wikipedia.org/wiki/Zepp_Osaka "wikilink")。2001年[11月23日](../Page/11月23日.md "wikilink")には、[ルミネtheよしもと](../Page/ルミネtheよしもと.md "wikilink")でもライブを行った
 
-『**関西版[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**』とも言わしめるほどの人気ぶりに成長した。
+『**関西版[SMAP](../Page/SMAP.md "wikilink")**』とも言わしめるほどの人気ぶりに成長した。
 
 テレビでは「- 人間マンダラ」のほか、「[大阪発元気ダッシュ\!DOYAH](../Page/大阪発元気ダッシュ!DOYAH.md "wikilink")」（[NHK衛星第二](../Page/NHK衛星第2テレビジョン.md "wikilink")）や「[ゲンキ王国 〜GENKING〜](../Page/ゲンキ王国.md "wikilink")」（関西テレビ）などにレギュラー出演。[2002年](../Page/2002年.md "wikilink")[8月](../Page/8月.md "wikilink")には主演ドラマが放映された。
 

@@ -68,7 +68,7 @@
 C言語の[Hello worldプログラムは](../Page/Hello_world.md "wikilink")、ホスト環境を前提とするか、フリースタンディング環境を前提とするかで、方向性が異なる。ホスト環境を前提とする場合には、[標準入出力](https://ja.wikipedia.org/wiki/標準入出力 "wikilink")の利用により、動作をすぐに確かめることができる。以下では、[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")の[ヘッダーファイル](https://ja.wikipedia.org/wiki/ヘッダーファイル "wikilink")`stdio.h`にて宣言されている、[`puts`](https://ja.wikipedia.org/wiki/puts "wikilink")関数あるいは[`printf`](https://ja.wikipedia.org/wiki/printf "wikilink")関数を利用したものを例示する。
 
 ``` c
-// int puts(const char* s) を使う場合。
+/* int puts(const char* s) を使う場合。  */
 #include <stdio.h>
 
 int main(void)
@@ -79,7 +79,7 @@ int main(void)
 ```
 
 ``` c
-// int printf(const char* format, ...) を使う場合。
+/* int printf(const char* format, ...) を使う場合。  */
 #include <stdio.h>
 
 int main(int argc, char* argv[])

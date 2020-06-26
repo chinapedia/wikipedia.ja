@@ -170,8 +170,9 @@
 ## ゲーム
 
   - [ダウンロード2](https://ja.wikipedia.org/wiki/ダウンロード_\(ゲーム\) "wikilink")
-  - ランニング・ハイ
+  - [ランニング・ハイ](https://ja.wikipedia.org/wiki/ランニング・ハイ "wikilink")
   - [キャロル・ザ・ダークエンジェル](https://ja.wikipedia.org/wiki/プレイステーションコミック "wikilink")
+  - [サイバーオーグ](https://ja.wikipedia.org/wiki/サイバーオーグ "wikilink")
 
 ## 脚注
 

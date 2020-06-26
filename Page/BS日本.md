@@ -7,7 +7,7 @@
 
 ## 概要
 
-他の[民放](../Page/民間放送.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")系の[BSデジタル放送局と共に](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")、[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に放送を開始。サービス名は当初から「BS日テレ」を名乗るものの、地上波の日本テレビに「日テレ」の略称がついたのはBS日テレ放送開始から2年7ヶ月後の出来事である。
+他の[民放](../Page/民間放送.md "wikilink")[キー局](../Page/キー局.md "wikilink")系の[BSデジタル放送局と共に](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")、[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に放送を開始。サービス名は当初から「BS日テレ」を名乗るものの、地上波の日本テレビに「日テレ」の略称がついたのはBS日テレ放送開始から2年7ヶ月後の出来事である。
 
 民放系のBSデジタル放送局では初となる、24時間放送を実施している（不定期に[メンテナンス](../Page/メンテナンス.md "wikilink")による[放送休止](../Page/放送休止.md "wikilink")の場合あり）。
 
@@ -236,7 +236,7 @@
 日によって4:05から開始であったり、<br />
 4:00までで終了の場合あり）<br />
 土曜・日曜 5:00 - 5:30<br />
-月曜 - 金曜 18:00 - 19:00（142ch）</p></td>
+月曜 - 金曜 19:00 - 20:00（142ch）</p></td>
 <td><p>2019年3月29日からはインターネット配信版にて放送<br />
 （インターネット配信版切り替え直後となる、4月1日までの3日間は臨時に開始時刻を3:00に、<br />
 4月1日は終了時刻も5:00に変更）。<br />
@@ -248,7 +248,8 @@
 本来放送するはずだった番組の他日振替先となる木曜 5:00 - 5:30の放送が臨時で休止となる。<br />
 2019年10月から5時台の放送は平日に音楽番組が編成されたため、<br />
 土・日曜日のみとなった（週により休止となる日もある）。<br />
-2020年3月30日から、142chで月曜 - 金曜18:00 - 19:00の放送を開始</p></td>
+2020年3月30日から、142chで月曜 - 金曜18:00 - 19:00の放送を開始。<br />
+2020年5月18日から、放送時刻変更。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/深層NEWS" title="wikilink">深層NEWS</a></p></td>
@@ -473,27 +474,27 @@
 </tr>
 <tr class="odd">
 <td><p>国内ドラマ</p></td>
-<td><p>桃太郎侍</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/桃太郎侍#高橋英樹主演（日本テレビ）版" title="wikilink">桃太郎侍</a></p></td>
 <td><p>月曜 - 金曜 10:00 - 11:00</p></td>
 <td><p>時代劇の帯放送枠</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>長七郎江戸日記２</p></td>
+<td><p><a href="../Page/長七郎江戸日記.md" title="wikilink">長七郎江戸日記</a>２</p></td>
 <td><p>月曜 - 金曜 18:00 - 18:55</p></td>
 <td><p>メインチャンネル（141ch・HD）で放送</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>黄金の豚～会計検査庁　特別調査課～</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/黄金の豚-会計検査庁_特別調査課-" title="wikilink">黄金の豚～会計検査庁　特別調査課～</a></p></td>
 <td><p>木曜 20:00 - 20:54</p></td>
 <td><p>国内ドラマの帯放送枠</p></td>
 <td><p>2020年4月16日スタート</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>KING OF DANCE</p></td>
+<td><p><a href="../Page/KING_OF_DANCE.md" title="wikilink">KING OF DANCE</a></p></td>
 <td><p>木曜 23:00 - 23:30</p></td>
 <td><p>2020年5月7日スタート 地上波では読売テレビと中京テレビで放送</p></td>
 <td></td>
@@ -516,14 +517,14 @@
 データ（一部のみ）</p></td>
 </tr>
 <tr class="odd">
-<td><p>大王世宗</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大王世宗" title="wikilink">大王世宗</a></p></td>
 <td><p>月曜 - 金曜 13:00 - 14:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>愛してる、泣かないで</p></td>
+<td><p>マザー〜無償の愛〜</p></td>
 <td><p>月曜 - 金曜 16:00 - 17:00</p></td>
 <td></td>
 <td></td>
@@ -633,7 +634,7 @@
 <tr class="odd">
 <td><p>全国一斉生クイズバトル　Q-フェス！</p></td>
 <td><p>第3金曜 23:00 - 24:00</p></td>
-<td><p>2020年5月29日スタート予定 当初は2020年4月17日スタート予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染拡大防止の為延期となった</a>。</p></td>
+<td><p>2020年5月29日スタート 当初は2020年4月17日スタート予定だったが、<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの感染拡大防止の為延期となった</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>てぇてぇTV</p></td>
@@ -892,7 +893,7 @@
           - その他のUHFアニメについては「[アニメにむちゅ〜](https://ja.wikipedia.org/wiki/アニメにむちゅ〜 "wikilink")」を参照。
   - 日本テレビ系列製作アニメ（特記事項のないものは日本テレビ製作）
       - [金田一少年の事件簿 (アニメ)](../Page/金田一少年の事件簿_\(アニメ\).md "wikilink")（第1期）（[読売テレビ製作](../Page/讀賣テレビ放送.md "wikilink"))
-      - [キャプテン](https://ja.wikipedia.org/wiki/キャプテン_\(漫画\) "wikilink")（アニメ版）
+      - [キャプテン](../Page/キャプテン_\(漫画\).md "wikilink")（アニメ版）
       - [プレイボールシリーズ](../Page/プレイボール_\(漫画\).md "wikilink")（全2作）
       - [ごくせん](../Page/ごくせん.md "wikilink")（アニメ版）
       - [GJ部](https://ja.wikipedia.org/wiki/GJ部 "wikilink")
@@ -919,7 +920,7 @@
 
 <!-- end list -->
 
-  - [恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")
+  - [恋のから騒ぎ](../Page/恋のから騒ぎ.md "wikilink")
   - [冒険\!CHEERS\!\!](../Page/冒険!CHEERS!!.md "wikilink")
   - [たべごろマンマ\!](../Page/たべごろマンマ!.md "wikilink")
   - [ぶっコギ\!](../Page/ぶっコギ!.md "wikilink")

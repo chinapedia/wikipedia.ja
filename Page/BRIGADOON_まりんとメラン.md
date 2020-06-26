@@ -92,7 +92,7 @@
     まりんのクラスメイト。大きな体で、常識人であるらしくクラスでは珍しくまりんを嫌っていない。
   - 彩無A子（あやな えーこ）
     声 - [西村ちなみ](../Page/西村ちなみ.md "wikilink")
-    まりんのクラスメイト。いじめっ子グループのリーダーで、かなり前からまりんのことを孤児をネタにいじめていた。そのいじめも物語が進むに連れエスカレートし、まりんを精神的に追い詰めていくことになる。祖母がいる以外は家族構成は不明。
+    まりんのクラスメイト。いじめっ子グループのリーダーで、かなり前からまりんのことを孤児をネタに徹底して蔑み、いじめの対象としていた。そのいじめも物語が進むに連れエスカレートし、まりんを精神的に追い詰めていくことになる。祖母がいる以外は家族構成は不明。
   - 海老茶たまみ（えびちゃ たまみ）
     声 - [滝沢ロコ](../Page/滝沢ロコ.md "wikilink")
     まりんのクラスメイト。A子らと共にまりんに意地悪な態度をとる。色黒で細身の長身。
@@ -516,4 +516,4 @@
   - [BRIGADOON まりんとメラン](http://www.sunrise-inc.co.jp/works/list/detail.php?cid=131) - サンライズ公式サイト内 作品情報ページ
   - [アニメ「BRIGADOON まりんとメラン」公式サイト](http://marin-to-meran.net/)
 
-[Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:2000年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:WOWOWアニメ](https://ja.wikipedia.org/wiki/Category:WOWOWアニメ "wikilink") [Category:サンライズ作品](https://ja.wikipedia.org/wiki/Category:サンライズ作品 "wikilink") [Category:サンライズのロボットアニメ](https://ja.wikipedia.org/wiki/Category:サンライズのロボットアニメ "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:高度経済成長期の日本を舞台とした作品](https://ja.wikipedia.org/wiki/Category:高度経済成長期の日本を舞台とした作品 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:月刊エースネクスト](https://ja.wikipedia.org/wiki/Category:月刊エースネクスト "wikilink")
+[Category:アニメ作品_ふ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ふ "wikilink") [Category:2000年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:WOWOWアニメ](https://ja.wikipedia.org/wiki/Category:WOWOWアニメ "wikilink") [Category:サンライズ作品](https://ja.wikipedia.org/wiki/Category:サンライズ作品 "wikilink") [Category:サンライズのロボットアニメ](https://ja.wikipedia.org/wiki/Category:サンライズのロボットアニメ "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:高度経済成長期の日本を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:高度経済成長期の日本を舞台としたアニメ作品 "wikilink") [Category:漫画作品_ふ](https://ja.wikipedia.org/wiki/Category:漫画作品_ふ "wikilink") [Category:月刊エースネクスト](https://ja.wikipedia.org/wiki/Category:月刊エースネクスト "wikilink")

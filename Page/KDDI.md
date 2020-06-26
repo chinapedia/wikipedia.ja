@@ -190,23 +190,24 @@
   - [2019年](../Page/2019年.md "wikilink")（平成31年・[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）
       - [4月1日](../Page/4月1日.md "wikilink") - 決済・金融事業の強化を目的に、中間金融持株会社「[auフィナンシャルホールディングス](https://ja.wikipedia.org/wiki/auフィナンシャルホールディングス "wikilink")株式会社」を設立。同日にKDDI傘下の6社（じぶん銀行・KDDIフィナンシャルサービス・ウェブマネー・KDDIアセットマネジメント・KDDI Reinsurance Corporation・カブドットコム証券）を同社の傘下にし、同年度中にauが頭に付いた新社名（auじぶん銀行・auフィナンシャルサービス・au PAY・auアセットマネジメント・au Reinsurance Corporation・auカブコム証券）に変更\[24\]。
       - 4月1日 - ルクサが存続会社となり、KDDIコマースフォワードを吸収合併、「auコマース＆ライフ株式会社」が発足し、KDDI完全子会社化。
-  - [2022年](../Page/2022年.md "wikilink")（令和4年）3月31日 - CDMA 1X WIN（au 3G）サービス終了（予定）\[25\]。
+      - 12月16日 - [ロイヤリティ マーケティングとの資本業務提携を発表](https://ja.wikipedia.org/wiki/Ponta "wikilink")\[25\]。
+  - [2022年](../Page/2022年.md "wikilink")（令和4年）3月31日 - CDMA 1X WIN（au 3G）サービス終了（予定）\[26\]。
 
 ## 識別番号
 
 [事業者識別番号は国内向け電話](../Page/電話番号.md "wikilink")（市内、長距離、携帯電話）が**0077**、国際電話は**001**である。
 
-旧日本高速通信株式会社（TWJ、テレウェイ→KDDへ合併）由来の識別番号**0070**は、2002年6月末をもって終了\[26\]し、[フリーフォン](../Page/フリーダイヤル.md "wikilink")（事業者対象\[27\]の通話料着信者払いサービス）とDOD（データオンデマンド）サービス（いずれも0070番号の新規申込は受け付けていない）のみに使用されていたが、0070番号の使用期限切れに伴い2010年3月末にサービスを終了した\[28\]。
+旧日本高速通信株式会社（TWJ、テレウェイ→KDDへ合併）由来の識別番号**0070**は、2002年6月末をもって終了\[27\]し、[フリーフォン](../Page/フリーダイヤル.md "wikilink")（事業者対象\[28\]の通話料着信者払いサービス）とDOD（データオンデマンド）サービス（いずれも0070番号の新規申込は受け付けていない）のみに使用されていたが、0070番号の使用期限切れに伴い2010年3月末にサービスを終了した\[29\]。
 
-旧第二電電株式会社 (DDI) 由来の国際電話の識別番号**0078**は、2004年2月29日をもって終了した\[29\]。
+旧第二電電株式会社 (DDI) 由来の国際電話の識別番号**0078**は、2004年2月29日をもって終了した\[30\]。
 
-旧KDD株式会社 (KDD) 由来の**国内電話**（市内、長距離）の識別番号**001**（1円電話）は、2005年8月31日をもって終了した\[30\]。
+旧KDD株式会社 (KDD) 由来の**国内電話**（市内、長距離）の識別番号**001**（1円電話）は、2005年8月31日をもって終了した\[31\]。
 
-なお、旧国際電電時代から継承していた[国際オペレータ通話](../Page/国際電話.md "wikilink")**0051**は、利用者の激減に伴い2010年3月末でサービス終了予定であった\[31\]が、サービスを改定した上で現在も継続されている\[32\]。
+なお、旧国際電電時代から継承していた[国際オペレータ通話](../Page/国際電話.md "wikilink")**0051**は、利用者の激減に伴い2010年3月末でサービス終了予定であった\[32\]が、サービスを改定した上で現在も継続されている\[33\]。
 
 また、現在[西日本電信電話](../Page/西日本電信電話.md "wikilink")（NTT西日本）が使用している**0039**は、旧KDDがホームカントリーダイレクト（相手国の電話会社のオペレータに接続する国際電話。海外から日本ならジャパンダイレクトがこれにあたる）で使用していたものである。
 
-## 日本国外におけるKDDI
+## 日本国外における電気通信事業
 
 1970年代後半から1980年代後半に、旧KDDの日本国外での現地法人として、主に日本人、日本法人向けに開業したのが始まりである。主に国際通信サービス、国際電報、データセンター (TELEHOUSE) などのシステムインテグレーション、ANDROMEGAやGlobridgeなどの国際通信網を活用したICTインフラのコンサルティングおよび構築、運用、保守、現地通信サービス導入時のサポート、各種通信機器の提供、インターネットサービス、携帯電話の貸し出し、帰国時のサービス移行手続き、国際オペレーション通話、KDDIの海外におけるカスタマーセンター（ヘルプデスク）業務（日本語対応）などを行っている。（詳細：[KDDI海外拠点紹介サイト](http://www.kddi.com/business/service/global/tenkai.html)／[KDDIグローバルソリューションサービス紹介サイト](http://www.kddi.com/business/service/global/index.html)）
 
@@ -262,11 +263,15 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 
 ### KDDI・サミット・グローバル・ミャンマー
 
-2014年、[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")とミャンマー国営郵便・電気通信事業体と共同で[KDDI・サミット・グローバル・ミャンマー](https://ja.wikipedia.org/wiki/KDDI・サミット・グローバル・ミャンマー "wikilink") を設立した\[33\]。
+2014年、[住友商事](https://ja.wikipedia.org/wiki/住友商事 "wikilink")とミャンマー国営郵便・電気通信事業体と共同で[KDDI・サミット・グローバル・ミャンマー](https://ja.wikipedia.org/wiki/KDDI・サミット・グローバル・ミャンマー "wikilink") を設立した\[34\]。
 
 ### KDDIタイランド
 
-1999年3月に設立。[タイ国内のネットワーク](../Page/タイ王国.md "wikilink")[再販](https://ja.wikipedia.org/wiki/再販 "wikilink")免許を所有した、KDDI株式会社のタイ[現地法人](https://ja.wikipedia.org/wiki/現地法人 "wikilink")事務所\[34\]。事業内容は[システムインテグレーション](../Page/システムインテグレーション.md "wikilink")、通信ネットワークサービス、データセンター、モバイルソリューションから成り立つ。
+1999年3月に設立。[タイ国内のネットワーク](../Page/タイ王国.md "wikilink")[再販](https://ja.wikipedia.org/wiki/再販 "wikilink")免許を所有した、KDDI株式会社のタイ[現地法人](https://ja.wikipedia.org/wiki/現地法人 "wikilink")事務所\[35\]。事業内容は[システムインテグレーション](../Page/システムインテグレーション.md "wikilink")、通信ネットワークサービス、データセンター、モバイルソリューションから成り立つ。
+
+### Mobicom Corporation
+
+、[住友グループ](../Page/住友グループ.md "wikilink")との合弁により設立。モンゴル最大手の携帯電話事業者であり、2016年に連結子会社化した。
 
 ## 運営する事業
 
@@ -292,7 +297,7 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
   - [電報サービス「でんぽっぽ」](http://www.denpoppo.com/) （提供会社は[KDDIエボルバ](https://ja.wikipedia.org/wiki/KDDIエボルバ "wikilink")）
   - [au損害保険](https://ja.wikipedia.org/wiki/au損害保険 "wikilink")（[あいおいニッセイ同和損害保険](https://ja.wikipedia.org/wiki/あいおいニッセイ同和損害保険 "wikilink")とKDDIによる保険会社。旧社名「モバイル損害保険設立準備」。）
   - [WebMoney](../Page/ウェブマネー.md "wikilink")（2011年7月に運営会社を買収し子会社化）
-  - [SATCH](https://ja.wikipedia.org/wiki/SATCH "wikilink")（同社が2011年12月15日に発足した[AR事業のブランド](https://ja.wikipedia.org/wiki/拡張現実感 "wikilink")\[35\]）
+  - [SATCH](https://ja.wikipedia.org/wiki/SATCH "wikilink")（同社が2011年12月15日に発足した[AR事業のブランド](https://ja.wikipedia.org/wiki/拡張現実感 "wikilink")\[36\]）
   - [KKBOX](https://ja.wikipedia.org/wiki/KKBOX "wikilink")（台湾の音楽配信大手企業にしてKDDIの連結子会社）
   - [auでんき](https://ja.wikipedia.org/wiki/auでんき "wikilink")（[電力自由化](../Page/電力自由化.md "wikilink")により[新電力](https://ja.wikipedia.org/wiki/新電力 "wikilink")として参入した一般家庭向け電力事業）
   - [TELASA](https://ja.wikipedia.org/wiki/TELASA "wikilink")（旧：ビデオパス。KDDIと[テレビ朝日](../Page/テレビ朝日.md "wikilink")の合弁会社であるTELASAが提供する動画配信サービス）
@@ -311,35 +316,35 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 
 ### 顧客情報流出問題
 
-2006年6月、KDDIの運営するインターネットプロバイダ「DION」（現[au one net](https://ja.wikipedia.org/wiki/au_one_net "wikilink")）の保有する個人情報約40万人分が流出していることが判明した\[36\]。流出した個人情報が2人の男により5月末、KDDIに持ち込まれたことで流出が発覚。その後の調査や裁判の過程で、開発委託先の社員の手により2003年12月に流出したこと、KDDIの提供するネット決済代行サービスを利用する法人997社など他にも流出があったことなどが明らかにされた。2006年9月には総務省より個人情報の適正管理を徹底し、再発防止策を早急に実施するよう指導するよう行政指導が行われた。なおこの事件に対し、顧客への補償は原則行わないものとしている。詳細は[KDDI顧客情報流出事件](https://ja.wikipedia.org/wiki/KDDI顧客情報流出事件 "wikilink")を参照。
+2006年6月、KDDIの運営するインターネットプロバイダ「DION」（現[au one net](https://ja.wikipedia.org/wiki/au_one_net "wikilink")）の保有する個人情報約40万人分が流出していることが判明した\[37\]。流出した個人情報が2人の男により5月末、KDDIに持ち込まれたことで流出が発覚。その後の調査や裁判の過程で、開発委託先の社員の手により2003年12月に流出したこと、KDDIの提供するネット決済代行サービスを利用する法人997社など他にも流出があったことなどが明らかにされた。2006年9月には総務省より個人情報の適正管理を徹底し、再発防止策を早急に実施するよう指導するよう行政指導が行われた。なおこの事件に対し、顧客への補償は原則行わないものとしている。詳細は[KDDI顧客情報流出事件](https://ja.wikipedia.org/wiki/KDDI顧客情報流出事件 "wikilink")を参照。
 
 ### 携帯基地局の電磁波と体調不良の因果関係が争われた裁判
 
-2012年10月17日に、宮崎県[延岡市](../Page/延岡市.md "wikilink")大貫町の住民がKDDIの携帯基地局の差止めを求めた裁判。論点は、[電磁波過敏症](../Page/電磁波過敏症.md "wikilink")と[マイクロ波聴覚にまで至り高裁まで争われた](https://ja.wikipedia.org/wiki/マイクロ波聴覚効果 "wikilink")。[宮崎地方裁判所](../Page/宮崎地方裁判所.md "wikilink")の一審判決で太田敬司裁判長は「電磁波被曝よる健康被害と症状の存在」については認めるものの、ノセボ効果の可能性を指摘し、KDDI携帯基地局の周辺住民200人以上の健康被害を訴える30名の原告団の請求を棄却。裁判長は僅か10秒で法廷を去ったとも報道されている\[37\]。判決を不服とした原告住民と弁護団は[福岡高等裁判所宮崎支部](../Page/福岡高等裁判所宮崎支部.md "wikilink")に控訴するも、2013年9月5日に結審した。\[38\]\[39\]\[40\]
+2012年10月17日に、宮崎県[延岡市](../Page/延岡市.md "wikilink")大貫町の住民がKDDIの携帯基地局の差止めを求めた裁判。論点は、[電磁波過敏症](../Page/電磁波過敏症.md "wikilink")と[マイクロ波聴覚にまで至り高裁まで争われた](https://ja.wikipedia.org/wiki/マイクロ波聴覚効果 "wikilink")。[宮崎地方裁判所](../Page/宮崎地方裁判所.md "wikilink")の一審判決で太田敬司裁判長は「電磁波被曝よる健康被害と症状の存在」については認めるものの、ノセボ効果の可能性を指摘し、KDDI携帯基地局の周辺住民200人以上の健康被害を訴える30名の原告団の請求を棄却。裁判長は僅か10秒で法廷を去ったとも報道されている\[38\]。判決を不服とした原告住民と弁護団は[福岡高等裁判所宮崎支部](../Page/福岡高等裁判所宮崎支部.md "wikilink")に控訴するも、2013年9月5日に結審した。\[39\]\[40\]\[41\]
 
 ### 大規模通信障害
 
-2012年末から2013年5月にかけて重大な大規模な通信障害が続いた。 これ以前にも2012年2月のKDDIに対する行政指導、さらに同3月の総点検の実施が行われていた。しかしその後も改善されず、さらにデータ通信のみならず音声通話にも支障が出たことや、ユーザーのアドレス帳が消える事態も生じていたことを問題視。総務省より文章での指導とあわせ点検の結果と再発防止策の取り組み報告、および報告後1年間は半年毎に進捗状況を報告するよう指導が行われた\[41\]。
+2012年末から2013年5月にかけて重大な大規模な通信障害が続いた。 これ以前にも2012年2月のKDDIに対する行政指導、さらに同3月の総点検の実施が行われていた。しかしその後も改善されず、さらにデータ通信のみならず音声通話にも支障が出たことや、ユーザーのアドレス帳が消える事態も生じていたことを問題視。総務省より文章での指導とあわせ点検の結果と再発防止策の取り組み報告、および報告後1年間は半年毎に進捗状況を報告するよう指導が行われた\[42\]。
 
 ### 人口カバー率についての景品表示法違反
 
 高速通信「4G LTE」サービス（最大75Mbpsサービス）について、2012年後半より「4G LTE（[iPhone 5含む](https://ja.wikipedia.org/wiki/iPhone_5 "wikilink")）対応機種なら4G LTE」「受信最大75Mbpsの超高速ネットワークを実人口カバー率96%に急速拡大。（2013年3月末予定）」と表示していた。
 
-しかし、iPhone 5で75Mbpsサービスにて通信できる人口カバー率は、2013年3月末時点で96%どころか14%程度に過ぎなかった。 2013年5月21日、[消費者庁](https://ja.wikipedia.org/wiki/消費者庁 "wikilink")はこの事態を重く見て、[景品表示法](https://ja.wikipedia.org/wiki/景品表示法 "wikilink")違反と認定。再発防止と誤りの周知徹底の指導が行われている\[42\]。
+しかし、iPhone 5で75Mbpsサービスにて通信できる人口カバー率は、2013年3月末時点で96%どころか14%程度に過ぎなかった。 2013年5月21日、[消費者庁](https://ja.wikipedia.org/wiki/消費者庁 "wikilink")はこの事態を重く見て、[景品表示法](https://ja.wikipedia.org/wiki/景品表示法 "wikilink")違反と認定。再発防止と誤りの周知徹底の指導が行われている\[43\]。
 
 ### オプション強制加入問題
 
-2013年10月頃より、契約時に本来任意であるはずの有料オプションへの加入を強制される実態が数多く報告された。また一部有料オプションについても解約方法が不明瞭との声も寄せられた。KDDIは、こうした販売方法は販売店側の判断によるものでKDDIの指示ではないと表明しており、同年10月28日の決算説明会ではこの指摘を把握しており今後は店頭に改善を指導していくとしている\[43\]。
+2013年10月頃より、契約時に本来任意であるはずの有料オプションへの加入を強制される実態が数多く報告された。また一部有料オプションについても解約方法が不明瞭との声も寄せられた。KDDIは、こうした販売方法は販売店側の判断によるものでKDDIの指示ではないと表明しており、同年10月28日の決算説明会ではこの指摘を把握しており今後は店頭に改善を指導していくとしている\[44\]。
 
 ### 「nanapi」で一部の記事を非公開化
 
-2016年秋に、[DeNA](https://ja.wikipedia.org/wiki/DeNA "wikilink")のヘルスケア情報キュレーションサイト「WELQ」が、不適切な内容や不適切な引用で問題になり、他社のキュレーションサイトにも厳しい目が向けられるようになった。KDDIの子会社Supershipは12月8日、同社が運営するノウハウ共有サイト「nanapi」で、「内容の正確性をいま一度社内で精査し直す」ために、11月30日から一部の記事を順次非公開にしていることを明らかにした。対象となったのは「健康・医療」「美容」「育児・教育」などのカテゴリーの記事約1万4000件で、サイト全体の約10%に当たる\[44\]。
+2016年秋に、[DeNA](https://ja.wikipedia.org/wiki/DeNA "wikilink")のヘルスケア情報キュレーションサイト「WELQ」が、不適切な内容や不適切な引用で問題になり、他社のキュレーションサイトにも厳しい目が向けられるようになった。KDDIの子会社Supershipは12月8日、同社が運営するノウハウ共有サイト「nanapi」で、「内容の正確性をいま一度社内で精査し直す」ために、11月30日から一部の記事を順次非公開にしていることを明らかにした。対象となったのは「健康・医療」「美容」「育児・教育」などのカテゴリーの記事約1万4000件で、サイト全体の約10%に当たる\[45\]。
 
-また、ユーザーのツイートにより、ユーザーが制作したにもかかわらず、著者が「nanapi編集部」になっており、タイトルも勝手に変更されている記事があることが指摘され、12月15日ごろからネット上で話題になった。Supershipは「サービス運用上のミス」だったとして謝罪した。nanapiの記事を転載した美容情報サイト・LiRuとの間の記事の移行作業での不手際であったとしているが、記事のタイトルが変更されたこと、元のユーザーの記事が非公開になっていたことについては説明されていない\[45\]。
+また、ユーザーのツイートにより、ユーザーが制作したにもかかわらず、著者が「nanapi編集部」になっており、タイトルも勝手に変更されている記事があることが指摘され、12月15日ごろからネット上で話題になった。Supershipは「サービス運用上のミス」だったとして謝罪した。nanapiの記事を転載した美容情報サイト・LiRuとの間の記事の移行作業での不手際であったとしているが、記事のタイトルが変更されたこと、元のユーザーの記事が非公開になっていたことについては説明されていない\[46\]。
 
 ### 社員自殺と残業代未払い問題
 
-2019年3月に、社員4613人に対して未払いの残業代が計約6億7千万円あったと発表した。入社2年目の20代社員の自殺により判明した\[46\]。この問題に関連して、「日本を代表する企業が自らの不祥事を長年にわたり隠蔽してきた」として2019年の第8回[ブラック企業大賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")にノミネートされた\[47\]。
+2019年3月に、社員4613人に対して未払いの残業代が計約6億7千万円あったと発表した。入社2年目の20代社員の自殺により判明した\[47\]。この問題に関連して、「日本を代表する企業が自らの不祥事を長年にわたり隠蔽してきた」として2019年の第8回[ブラック企業大賞](https://ja.wikipedia.org/wiki/ブラック企業大賞 "wikilink")にノミネートされた\[48\]。
 
 ## イメージキャラクター
 
@@ -382,8 +387,8 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 | 日本テレビ系 | [しゃべくり007](../Page/しゃべくり007.md "wikilink")                                                                | 30秒         | 2009年10月 - | ●        |            |
 | 日本テレビ系 | \[\[踊る\!さんま御殿                                                                                             | |踊る\!さんま御殿  | \]\]       | 30秒      | 2013年10月 - |
 | 日本テレビ系 | [金曜ロードSHOW\!](../Page/金曜ロードSHOW!.md "wikilink")                                                           | 30秒         | 2012年4月 -  | ●        |            |
-| 日本テレビ系 | [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")                                         | 30秒         | 2018年10月 - | \[48\]   |            |
-| TBS系   | [CDTVライブ\!ライブ\!](../Page/COUNT_DOWN_TV.md "wikilink")                                                     | 30秒         | 2020年4月 -  | \[49\]   |            |
+| 日本テレビ系 | [名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")                                         | 30秒         | 2018年10月 - | \[49\]   |            |
+| TBS系   | [CDTVライブ\!ライブ\!](../Page/COUNT_DOWN_TV.md "wikilink")                                                     | 30秒         | 2020年4月 -  | \[50\]   |            |
 | TBS系   | [マツコの知らない世界](https://ja.wikipedia.org/wiki/マツコの知らない世界 "wikilink")                                         | 30秒         | 2015年4月 -  | ●        | ●          |
 | TBS系   | [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")                                         | 30秒         | 2016年10月 - | ●        |            |
 | フジテレビ系 | [土曜プレミアム](../Page/土曜プレミアム.md "wikilink")                                                                  | 30秒         | 2017年4月 -  | ●        | ●          |
@@ -433,15 +438,15 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
   - [かぐや姫の物語](https://ja.wikipedia.org/wiki/かぐや姫の物語 "wikilink")（2013年[11月23日](../Page/11月23日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している）
   - [永遠の0](https://ja.wikipedia.org/wiki/永遠の0 "wikilink")（2013年[12月21日](../Page/12月21日.md "wikilink")に公開された劇場用映画で同社はこの作品に制作協力している）
   - [劇場版 HUNTER×HUNTER -The LAST MISSION-](https://ja.wikipedia.org/wiki/劇場版_HUNTER×HUNTER_-The_LAST_MISSION- "wikilink")（2013年[12月27日](../Page/12月27日.md "wikilink")に公開された劇場用アニメーション映画）
-  - [Hello\! Project ひなフェス2014 〜Fullコース〜 supported by au](../Page/ハロー!プロジェクト.md "wikilink")（[2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink")に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")展示ホールにて開催された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")\[50\]のコンサートで同社はこのコンサートに特別協賛している）
-  - [思い出のマーニー](https://ja.wikipedia.org/wiki/思い出のマーニー "wikilink")（2014年[7月19日](../Page/7月19日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している\[51\]）
+  - [Hello\! Project ひなフェス2014 〜Fullコース〜 supported by au](../Page/ハロー!プロジェクト.md "wikilink")（[2014年](../Page/2014年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [3月30日](../Page/3月30日.md "wikilink")に[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")展示ホールにて開催された[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")\[51\]のコンサートで同社はこのコンサートに特別協賛している）
+  - [思い出のマーニー](https://ja.wikipedia.org/wiki/思い出のマーニー "wikilink")（2014年[7月19日](../Page/7月19日.md "wikilink")に公開されたスタジオジブリ制作の劇場用アニメーション映画で同社はこの作品に提携している\[52\]）
   - [ルパン三世 (2014年の映画)](https://ja.wikipedia.org/wiki/ルパン三世_\(2014年の映画\) "wikilink")（2014年8月30日に公開された劇場用映画で同社はこの作品に制作協力している）
   - [アオハライド](https://ja.wikipedia.org/wiki/アオハライド#映画 "wikilink")（2014年12月13日に公開された劇場用映画）
   - [映画 妖怪ウォッチ 誕生の秘密だニャン\!](https://ja.wikipedia.org/wiki/妖怪ウォッチ_\(アニメ\)#劇場版 "wikilink")（2014年12月20日に公開された劇場用アニメーション映画で同社はこの作品に制作協力している）
   - [ストロボ・エッジ](https://ja.wikipedia.org/wiki/ストロボ・エッジ#映画 "wikilink")（2015年3月14日に公開された劇場用映画）
   - [orange](https://ja.wikipedia.org/wiki/orange_\(漫画\)#映画 "wikilink")（2015年12月12日に公開された劇場用映画）
   - [カゲロウデイズ -in a day's-](https://ja.wikipedia.org/wiki/カゲロウプロジェクト#映画 "wikilink") (2016年11月4日から公開された劇場用アニメーション映画で製作委員会として参加している)
-  - [au](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink") × [HELLO\! PROJECT 20th](../Page/ハロー!プロジェクト.md "wikilink")（2018年3月31日 - 4月1日にパシフィコ横浜にて開催された[「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう2018」内に出展された](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")「**au × HELLO\! PROJECT 20th 音のVR**」で同社は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18（2018年当時の名義）、および[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")を筆頭とする[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")が所属する大手芸能プロダクションの[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")と共同制作している\[52\]\[53\]\[54\]\[55\]）
+  - [au](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink") × [HELLO\! PROJECT 20th](../Page/ハロー!プロジェクト.md "wikilink")（2018年3月31日 - 4月1日にパシフィコ横浜にて開催された[「遊ぶ。暮らす。育てる。SATOYAMA & SATOUMIへ行こう2018」内に出展された](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")「**au × HELLO\! PROJECT 20th 音のVR**」で同社は[モーニング娘。](../Page/モーニング娘。.md "wikilink")'18（2018年当時の名義）、および[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")を筆頭とする[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")が所属する大手芸能プロダクションの[アップフロントプロモーション](../Page/アップフロントプロモーション.md "wikilink")と共同制作している\[53\]\[54\]\[55\]\[56\]）
 
 ## ギャラリー
 
@@ -490,34 +495,35 @@ KDDIフランスは、パリに本社を置く現地法人[5](http://www.fr.kddi
 22.
 23.
 24.
-25. [「CDMA 1X WIN」サービスの終了について](https://news.kddi.com/kddi/corporate/newsrelease/2018/11/16/3428.html) - KDDI 2018年11月16日
-26. [「0070市外電話サービス」等の終了について](http://www.kddi.com/corporate/news_release/kako/2001/1221/)2001年12月21日ニュースリリース
-27. 旧日本高速通信の出資関係から、[トヨタグループ](../Page/トヨタグループ.md "wikilink")での利用が多かった。
-28. [「0070フリーフォンサービス」の終了について](http://www.kddi.com/corporate/news_release/2008/0514/)2008年5月14日ニュースリリース
-29. [「0078国際電話サービス」の終了について](http://www.kddi.com/corporate/news_release/2003/0729/)2003年7月29日ニュースリリース
-30. [「001国内電話サービス」の終了について](http://www.kddi.com/corporate/news_release/2005/0119/)2005年1月19日ニュースリリース
-31. [「国際オペレータ通話」「ジャパンダイレクト」など、オペレータを介した国際通話サービスの提供終了について](http://www.kddi.com/corporate/news_release/2008/0728/index.html)2008年7月28日ニュースリリース
-32. [オペレータを介した国際通話サービスの提供条件改定について](http://www.kddi.com/corporate/news_release/2010/0730a/index.html)2010年7月30日ニュースリリース
-33.
-34. [KDDIタイランド](https://th.kddi.com/ja/company/corporate/)
-35. [ARの日常化を目指す新ブランド「SATCH」の立ち上げについて～モバイル版ARアプリケーションの開発環境をオープン化～](https://www.kddi.com/corporate/news_release/2011/1215/index.html) - KDDI 2011年12月15日
-36.
-37.  企業戦略|url=[https://toyokeizai.net/articles/-/11511|website=東洋経済オンライン|date=2012-10-18|accessdate=2020-01-03|language=ja](https://toyokeizai.net/articles/-/11511%7Cwebsite=東洋経済オンライン%7Cdate=2012-10-18%7Caccessdate=2020-01-03%7Clanguage=ja)}}
-38.  ビジネスの本音に迫る|accessdate=2020-01-02|last=松井克明}}
-39.  企業戦略|url=[https://toyokeizai.net/articles/-/11511|website=東洋経済オンライン|date=2012-10-18|accessdate=2020-01-03|language=ja](https://toyokeizai.net/articles/-/11511%7Cwebsite=東洋経済オンライン%7Cdate=2012-10-18%7Caccessdate=2020-01-03%7Clanguage=ja)}}
-40.
-41. [KDDI株式会社に対する事故防止に係る指導　報道資料](http://warp.da.ndl.go.jp/info:ndljp/pid/8315893/www.soumu.go.jp/menu_news/s-news/01kiban05_02000053.html)（WARP [国立国会図書館インターネット情報選択的蓄積事業](https://ja.wikipedia.org/wiki/国立国会図書館#電子図書館事業 "wikilink")）
-42.
+25.
+26. [「CDMA 1X WIN」サービスの終了について](https://news.kddi.com/kddi/corporate/newsrelease/2018/11/16/3428.html) - KDDI 2018年11月16日
+27. [「0070市外電話サービス」等の終了について](http://www.kddi.com/corporate/news_release/kako/2001/1221/)2001年12月21日ニュースリリース
+28. 旧日本高速通信の出資関係から、[トヨタグループ](../Page/トヨタグループ.md "wikilink")での利用が多かった。
+29. [「0070フリーフォンサービス」の終了について](http://www.kddi.com/corporate/news_release/2008/0514/)2008年5月14日ニュースリリース
+30. [「0078国際電話サービス」の終了について](http://www.kddi.com/corporate/news_release/2003/0729/)2003年7月29日ニュースリリース
+31. [「001国内電話サービス」の終了について](http://www.kddi.com/corporate/news_release/2005/0119/)2005年1月19日ニュースリリース
+32. [「国際オペレータ通話」「ジャパンダイレクト」など、オペレータを介した国際通話サービスの提供終了について](http://www.kddi.com/corporate/news_release/2008/0728/index.html)2008年7月28日ニュースリリース
+33. [オペレータを介した国際通話サービスの提供条件改定について](http://www.kddi.com/corporate/news_release/2010/0730a/index.html)2010年7月30日ニュースリリース
+34.
+35. [KDDIタイランド](https://th.kddi.com/ja/company/corporate/)
+36. [ARの日常化を目指す新ブランド「SATCH」の立ち上げについて～モバイル版ARアプリケーションの開発環境をオープン化～](https://www.kddi.com/corporate/news_release/2011/1215/index.html) - KDDI 2011年12月15日
+37.
+38.  企業戦略|url=[https://toyokeizai.net/articles/-/11511|website=東洋経済オンライン|date=2012-10-18|accessdate=2020-01-03|language=ja](https://toyokeizai.net/articles/-/11511%7Cwebsite=東洋経済オンライン%7Cdate=2012-10-18%7Caccessdate=2020-01-03%7Clanguage=ja)}}
+39.  ビジネスの本音に迫る|accessdate=2020-01-02|last=松井克明}}
+40.  企業戦略|url=[https://toyokeizai.net/articles/-/11511|website=東洋経済オンライン|date=2012-10-18|accessdate=2020-01-03|language=ja](https://toyokeizai.net/articles/-/11511%7Cwebsite=東洋経済オンライン%7Cdate=2012-10-18%7Caccessdate=2020-01-03%7Clanguage=ja)}}
+41.
+42. [KDDI株式会社に対する事故防止に係る指導　報道資料](http://warp.da.ndl.go.jp/info:ndljp/pid/8315893/www.soumu.go.jp/menu_news/s-news/01kiban05_02000053.html)（WARP [国立国会図書館インターネット情報選択的蓄積事業](https://ja.wikipedia.org/wiki/国立国会図書館#電子図書館事業 "wikilink")）
 43.
 44.
 45.
 46.
 47.
-48. 2019年3月までは●。
-49. 初回のみスポンサー更新前の放送だったため、当社ではなく、前番組までのスポンサーだったソフトバンクが提供。
-50. [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'14（2014年当時の名義）、[Berryz工房](../Page/Berryz工房.md "wikilink")（2015年3月活動停止）、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")、[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（現・[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）、[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")等
-51. [映画「思い出のマーニー」公式ホームページ](http://marnie.jp/index.html)
-52. [au×ハロー\! プロジェクト 推しメンの声が際立つ\!「音のVR」による新音楽視聴体験コンテンツを制作](http://news.kddi.com/kddi/corporate/newsrelease/2018/03/14/3010.html) - KDDI 2018年3月14日（2018年3月23日閲覧）
-53. [au×ハロー！プロジェクト推しメンの声が際立つ！モーニング娘。‘18、アンジュルムとコラボした「音のVR」の新音楽視聴体験コンテンツがイベントで体験可能に ～KDDI直営店、HMVでも体験できる！～](https://www.au.com/information/topic/mobile/2018-032/) - KDDI 2018年3月30日(2018年3月31日閲覧)
-54. [推しメンの歌声もズームできる「音のVR」、モーニング娘。'18とKDDIがコラボVR動画（ケータイWatch）](https://k-tai.watch.impress.co.jp/docs/news/1111546.html) - [インプレス](../Page/インプレス.md "wikilink") 2018年3月14日（2018年3月23日閲覧）
-55. [TIME & SPACE by KDDI 通信のチカラ『モーニング娘。’18 「音のVR」撮影現場を独占レポ 音にズームできる新視聴体験とは』](https://time-space.kddi.com/kddi-now/tsushin-chikara/20180330/2287) - KDDI 2018年3月30日(2018年3月31日閲覧)
+48.
+49. 2019年3月までは●。
+50. 初回のみスポンサー更新前の放送だったため、当社ではなく、前番組までのスポンサーだったソフトバンクが提供。
+51. [モーニング娘。](../Page/モーニング娘。.md "wikilink")'14（2014年当時の名義）、[Berryz工房](../Page/Berryz工房.md "wikilink")（2015年3月活動停止）、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")、[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")（現・[アンジュルム](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）、[Juice=Juice](https://ja.wikipedia.org/wiki/Juice=Juice "wikilink")等
+52. [映画「思い出のマーニー」公式ホームページ](http://marnie.jp/index.html)
+53. [au×ハロー\! プロジェクト 推しメンの声が際立つ\!「音のVR」による新音楽視聴体験コンテンツを制作](http://news.kddi.com/kddi/corporate/newsrelease/2018/03/14/3010.html) - KDDI 2018年3月14日（2018年3月23日閲覧）
+54. [au×ハロー！プロジェクト推しメンの声が際立つ！モーニング娘。‘18、アンジュルムとコラボした「音のVR」の新音楽視聴体験コンテンツがイベントで体験可能に ～KDDI直営店、HMVでも体験できる！～](https://www.au.com/information/topic/mobile/2018-032/) - KDDI 2018年3月30日(2018年3月31日閲覧)
+55. [推しメンの歌声もズームできる「音のVR」、モーニング娘。'18とKDDIがコラボVR動画（ケータイWatch）](https://k-tai.watch.impress.co.jp/docs/news/1111546.html) - [インプレス](../Page/インプレス.md "wikilink") 2018年3月14日（2018年3月23日閲覧）
+56. [TIME & SPACE by KDDI 通信のチカラ『モーニング娘。’18 「音のVR」撮影現場を独占レポ 音にズームできる新視聴体験とは』](https://time-space.kddi.com/kddi-now/tsushin-chikara/20180330/2287) - KDDI 2018年3月30日(2018年3月31日閲覧)

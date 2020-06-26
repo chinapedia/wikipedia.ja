@@ -269,7 +269,7 @@ MBSテレビでは、当番組の後番組として『[よゐこのワケアリ]
 <td style="text-align: center;"><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送</a><br />
 <strong>たかじんONEMAN製作局</strong></p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td style="text-align: center;"><p>毎週火曜23:55 - 翌0:55</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="../Page/ハイビジョン.md" title="wikilink">ハイビジョン</a></p></td>
@@ -284,7 +284,7 @@ MBSテレビでは、当番組の後番組として『[よゐこのワケアリ]
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a>・<a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/山陽放送テレビ" title="wikilink">山陽放送</a></p></td>
+<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/RSKテレビ" title="wikilink">山陽放送</a></p></td>
 <td style="text-align: center;"><p>毎週木曜0:55 - 1:55（毎週水曜深夜）</p></td>
 <td style="text-align: center;"><p>1日遅れ[7]</p></td>
 <td style="text-align: center;"><p>頭角4:3SD</p></td>
@@ -402,7 +402,7 @@ MBSテレビでは、当番組の後番組として『[よゐこのワケアリ]
 
 1.  [2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")放送分でたかじんが明言
 2.  [たかじんさん　ヒゲ気に入らず「ちちんぷいぷい」生放送乱入も](http://www.sponichi.co.jp/entertainment/news/2014/01/08/kiji/K20140108007345400.html)（「[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")」[2014年](../Page/2014年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")付記事）
-3.  ネット局の[山陽放送ではアナログ放送でも](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")2006年11月以降送出システムの関係上でステレオ放送に変更されたがテレビ欄上ではモノラル放送の扱いとなっていた（モノステレオ放送）。
+3.  ネット局の[山陽放送ではアナログ放送でも](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")2006年11月以降送出システムの関係上でステレオ放送に変更されたがテレビ欄上ではモノラル放送の扱いとなっていた（モノステレオ放送）。
 4.
 5.
 6.  1998年10月21日ネット開始。[クラウンズスペシャル](../Page/中日クラウンズ.md "wikilink")（4月下旬）が放送される週のみ、5日遅れの日曜午前に放送される。そのため普段ネットしている「[サンデージャポン](https://ja.wikipedia.org/wiki/サンデージャポン "wikilink")」は休止になっていた。

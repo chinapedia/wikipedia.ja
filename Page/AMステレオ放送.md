@@ -11,7 +11,7 @@
 
 しかし当初の盛り上がりの後、継続的な普及に入ることは無く、結果的に導入したのは大都市中波局と実施当時民放FM局がなかった[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")（[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")）や和歌山県（[和歌山放送](../Page/和歌山放送.md "wikilink")）など計16局に留まり、[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STVラジオ）が1996年10月7日に開始したのが最後の新規採用事例となった。その後、音楽番組の聴取率不振やNHKが導入を見送った影響で多くの民放局で実施に至らずすでにAMステレオを実施している民放局でも一部の局を除いて親局のみでしか行われていない\[2\]。
 
-2000年代後半以降、モトローラ社がAMステレオ放送維持に必要な送信機（ラジオマスター）等を2000年代半ばまでに打ち切った事や、放送事業者の経営合理化、放送局の送信機更新の際にAMステレオ放送維持のための装置が2000年代半ばまでに生産終了になったこと、AMステレオ受信機は割高であったため普及しなかった\[3\]などの理由にてモノラル放送に戻す事例も続いており[九州朝日放送が](../Page/KBCラジオ.md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に終了\[4\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に終了、[毎日放送と](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")[北海道放送が](../Page/HBCラジオ.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に終了\[5\]、[朝日放送が](../Page/朝日放送ラジオ.md "wikilink")2010年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に終了、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")が2010年[3月28日](../Page/3月28日.md "wikilink")に終了、[RKB毎日放送が](../Page/RKBラジオ.md "wikilink")2010年[5月30日](../Page/5月30日.md "wikilink")に終了、TBSラジオが[2011年](../Page/2011年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に終了\[6\]、[中国放送](../Page/中国放送.md "wikilink")が2011年[3月13日](../Page/3月13日.md "wikilink")に終了、[山陽放送が](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")2011年[3月27日](../Page/3月27日.md "wikilink")に終了、文化放送が[2012年](../Page/2012年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に終了\[7\]、[東海ラジオが](../Page/東海ラジオ放送.md "wikilink")2012年[5月13日](../Page/5月13日.md "wikilink")にラジオマスター更新に際してAMステレオ放送を終了\[8\]しモノラル放送に戻した。2014年10月末時点におけるAMステレオ放送実施局は[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[CBCラジオ](../Page/CBCラジオ.md "wikilink")・和歌山放送・[ラジオ大阪など漸減傾向にある](../Page/大阪放送.md "wikilink")。
+2000年代後半以降、モトローラ社がAMステレオ放送維持に必要な送信機（ラジオマスター）等を2000年代半ばまでに打ち切った事や、放送事業者の経営合理化、放送局の送信機更新の際にAMステレオ放送維持のための装置が2000年代半ばまでに生産終了になったこと、AMステレオ受信機は割高であったため普及しなかった\[3\]などの理由にてモノラル放送に戻す事例も続いており[九州朝日放送が](../Page/KBCラジオ.md "wikilink")[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に終了\[4\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")に終了、[毎日放送と](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")[北海道放送が](../Page/HBCラジオ.md "wikilink")[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に終了\[5\]、[朝日放送が](../Page/朝日放送ラジオ.md "wikilink")2010年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に終了、[STVラジオ](../Page/STVラジオ.md "wikilink")が2010年[3月28日](../Page/3月28日.md "wikilink")に終了、[RKB毎日放送が](../Page/RKBラジオ.md "wikilink")2010年[5月30日](../Page/5月30日.md "wikilink")に終了、TBSラジオが[2011年](../Page/2011年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に終了\[6\]、[中国放送](../Page/中国放送.md "wikilink")が2011年[3月13日](../Page/3月13日.md "wikilink")に終了、[山陽放送が](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")2011年[3月27日](../Page/3月27日.md "wikilink")に終了、文化放送が[2012年](../Page/2012年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に終了\[7\]、[東海ラジオが](../Page/東海ラジオ放送.md "wikilink")2012年[5月13日](../Page/5月13日.md "wikilink")にラジオマスター更新に際してAMステレオ放送を終了\[8\]しモノラル放送に戻した。2014年10月末時点におけるAMステレオ放送実施局は[ニッポン放送](../Page/ニッポン放送.md "wikilink")・[CBCラジオ](../Page/CBCラジオ.md "wikilink")・和歌山放送・[ラジオ大阪など漸減傾向にある](../Page/大阪放送.md "wikilink")。
 
 日本では放送開始より前の1991年10月に[アイワ](https://ja.wikipedia.org/wiki/アイワ "wikilink")が初の対応機を出し[ソニー](../Page/ソニー.md "wikilink")がそれに続いた。その他のメーカーからも対応機は出たが、数年後にはアイワ以外からの新製品はほとんど無くなった。アイワはその後も継続していたが、2002年1月にソニーに吸収合併された後は対応した新機種は無くなった。2013年を以て既存対応機種も全て生産を終了し、同年末までに販売終了になった。
 
@@ -73,7 +73,7 @@
       - 米FCC、自由競争の結果、モトローラ方式をAMステレオの標準方式とする決定を下す。
   - [1996年](../Page/1996年.md "wikilink")
       - [7月14日](../Page/7月14日.md "wikilink") - [和歌山放送](../Page/和歌山放送.md "wikilink")が、AMステレオ放送を開始。
-      - [10月7日](../Page/10月7日.md "wikilink") - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（当時はテレビ・ラジオ兼営局だった[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")）が、AMステレオ放送開始（札幌局のみ。年時点で、日本国内最後のAMステレオ化実施）。
+      - [10月7日](../Page/10月7日.md "wikilink") - [STVラジオ](../Page/STVラジオ.md "wikilink")（当時はテレビ・ラジオ兼営局だった[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")）が、AMステレオ放送開始（札幌局のみ。年時点で、日本国内最後のAMステレオ化実施）。
   - 2007年4月1日 - 九州朝日放送が日本国内で初めてAMステレオ放送の実施を終了し、翌[4月2日](../Page/4月2日.md "wikilink")より従前のモノラルに戻した。
   - 2008年[9月28日](../Page/9月28日.md "wikilink") - 熊本放送が、AMステレオ放送を終了。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
@@ -196,7 +196,7 @@ NHKの中波放送がステレオ放送を実施しなかった事やAMステレ
 <td><p><a href="../Page/江別ラジオ放送所.md" title="wikilink">親局のみ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a></p></td>
+<td><p><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a></p></td>
 <td><p>1996年10月7日〜2010年3月28日</p></td>
 <td></td>
 <td></td>

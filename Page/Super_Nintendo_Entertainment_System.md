@@ -1,19 +1,19 @@
 > この記事は[Super Nintendo Entertainment System](https://ja.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)から翻訳されています。
 
 
-**Super Nintendo Entertainment System**（スーパー・ニンテンドー・エンターテインメント・システム、通称:**SNES**）は、[任天堂](../Page/任天堂.md "wikilink")より日本国外（[北米の](../Page/北アメリカ.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[メキシコ](../Page/メキシコ.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の[EU](https://ja.wikipedia.org/wiki/EU "wikilink")諸国、[オセアニア](../Page/オセアニア.md "wikilink")の[オーストラリア](../Page/オーストラリア.md "wikilink")・[ニュージーランド](../Page/ニュージーランド.md "wikilink")、[アジア](../Page/アジア.md "wikilink")の[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")、[南米の](../Page/南アメリカ.md "wikilink")[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")）において発売された家庭用ゲーム機。
+**Super Nintendo Entertainment System**（スーパー・ニンテンドー・エンターテインメント・システム、通称:**SNES**）は、[任天堂](../Page/任天堂.md "wikilink")より日本国外（[北米の](../Page/北アメリカ.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[メキシコ](../Page/メキシコ.md "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の[EU](https://ja.wikipedia.org/wiki/EU "wikilink")諸国、[オセアニア](../Page/オセアニア.md "wikilink")の[オーストラリア](../Page/オーストラリア.md "wikilink")・[ニュージーランド](../Page/ニュージーランド.md "wikilink")、[アジア](../Page/アジア.md "wikilink")の[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[南米の](../Page/南アメリカ.md "wikilink")[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")）において発売された家庭用ゲーム機。
 
 1990年11月21日に日本で先行して発売された**[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")**（SUPER Famicom）をベースに各国への対応を施している。[北米版とブラジル版は](../Page/北アメリカ.md "wikilink")[エリアプロテクトの関係でさらに筐体の変更を施している](https://ja.wikipedia.org/wiki/リージョンコード#テレビゲーム "wikilink")。
 
-本項目では日本向けと同じ商品名のスーパーファミコン（漢字表記は**超級任天堂**（/Super Famicom））としてアジアの[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華民国](../Page/中華民国.md "wikilink")）及び[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")（[イギリス領](../Page/イギリス帝国.md "wikilink")→[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")より[中華人民共和国](../Page/中華人民共和国.md "wikilink")香港特別行政区\[1\]）で発売された台湾・香港向け仕様品についても述べる。
+韓国向けは任天堂ではなく現代電子産業（現・[SKハイニックス](../Page/SKハイニックス.md "wikilink")）が任天堂からOEM供給を受け、任天堂が定めた"Super Nintendo Entertainment System KOREAN VERSION"の名称と現代電子産業が定めた**スーパーコンボイ**（/Super COMBOY）という名称を併記して販売した。“Super Nintendo Entertainment System”ロゴの上に[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink")で“**슈퍼 컴보이**”（**スーパーコンボイ**）とロゴが記されている。
+
+本項目では日本向けと同じ商品名のスーパーファミコン（漢字表記は**超級任天堂**（/Super Famicom））としてアジアの[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華民国](../Page/中華民国.md "wikilink")）及び[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")（[イギリス領](../Page/イギリス帝国.md "wikilink")→[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")より[中華人民共和国](../Page/中華人民共和国.md "wikilink")香港特別行政区\[1\]）で発売された台湾・香港向け仕様スーパーファミコンについても述べる。ロゴ表記や本体仕様は日本向けのスーパーファミコンと同一である。なお、香港ではヨーロッパ版SNES([PAL](../Page/PAL.md "wikilink")出力)と超級任天堂([NTSC](../Page/NTSC.md "wikilink")出力)の双方が販売された。
 
 ## 概要
 
 “[Nintendo Entertainment System](../Page/Nintendo_Entertainment_System.md "wikilink")”（略称：NES。[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")の北米・ヨーロッパ・[オーストラリア](../Page/オーストラリア.md "wikilink")・[アジア](../Page/アジア.md "wikilink")版）の後継機にあたる。コンソールに“**Super Nintendo**”の部分が大きく表記されていたため、現地では「**スーパーニンテンドー**」の愛称で親しまれた。“**SNES**”もしくは“**Super NES**”と略されることが多い。
 
-韓国向けは任天堂ではなく現代電子産業（現・[SKハイニックス](../Page/SKハイニックス.md "wikilink")）が任天堂からOEM供給を受け、任天堂が定めた"Super Nintendo Entertainment System KOREAN VERSION"の名称と現代電子産業が定めた**スーパーコンボイ**（/Super COMBOY）という名称を併記して販売した。“Super Nintendo Entertainment System”ロゴの上に[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink")で“**슈퍼 컴보이**”（**スーパーコンボイ**）とロゴが記されている。台湾・香港向けは****の名称で販売されたが、ロゴ表記や本体仕様は日本向けのスーパーファミコンと同一である。
-
-メーカー型番は北米向けがSNS、EU・オセアニア向けがSNSP、ブラジル向けがSNSM、韓国向けがSNSN（任天堂）／HGM（現代電子産業・コンボイ（NES）の続番）、台湾向けがSHVC-ROC、香港向けがSHVC-HKG。
+メーカー型番は北米向けがSNS、EU・オセアニア・香港(PAL)向けがSNSP、ブラジル向けがSNSM、韓国向けがSNSN（任天堂）／HGM（現代電子産業・コンボイ（NES）の続番）、台湾向けがSHVC-ROC、香港(NTSC)向けがSHVC-HKG。
 
 競合機種は本機と同じくいわゆる[第4世代機に属する](https://ja.wikipedia.org/wiki/ゲーム機#第4世代 "wikilink")[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")の[メガドライブ](../Page/メガドライブ.md "wikilink")(SEGA MEGA DRIVE）／北米名は[ジェネシス](https://ja.wikipedia.org/wiki/:en:Sega_Genesis "wikilink")（SEGA GENESIS）、[NECホームエレクトロニクス](https://ja.wikipedia.org/wiki/NECホームエレクトロニクス "wikilink")の[PCエンジン](../Page/PCエンジン.md "wikilink")（PC Engine）／北米名はTurboGrafx-16が挙げられる。日本市場ではファミリーコンピュータ（ファミコン）からの引き継ぎに成功し圧倒的に優位であったが、海外市場においては日本同様NESが圧倒的なシェアを誇っていた、いわゆる[第3世代機時代と一転し](https://ja.wikipedia.org/wiki/ゲーム機#第3世代 "wikilink")、特に16ビット機で先行していたメガドライブ（ジェネシス）とは1990年代前半のコンシュマーゲーム機市場において人気を二分する猛烈な競争を繰り広げた。北米市場や欧州市場ではSNESとメガドライブ（ジェネシス）が互角の戦いを繰り広げたものの、総出荷台数ではやや劣る結果であった。南米市場では特にブラジルにおいて電気製品の輸入は高額な輸入税を課せられることもあって、現地生産化で価格低減に成功していたメガドライブ\[2\]に倣って、基本的に海外向けであっても日本や中華人民共和国（中国）から輸出していたSNESシリーズでも、ブラジル向けのみ[マナウス](../Page/マナウス.md "wikilink")にある[Playtronic社の工場で現地生産を行った](https://ja.wikipedia.org/wiki/:en:Playtronic "wikilink")\[3\]。*[メガドライブ\#市場動向](https://ja.wikipedia.org/wiki/メガドライブ#市場動向 "wikilink")も参照。*
 
@@ -66,7 +66,7 @@
 
 <!-- end list -->
 
-  - EUとオセアニア（オーストラリア、ニュージーランド）向けのヨーロッパ版（SNSP-001）は1992年に発売された。北米版とは違い、**本体・カセットはスーパーファミコン等と同じデザイン・配色である。**ロゴマークもスーパーファミコン等と同一である。
+  - EUとオセアニア（オーストラリア、ニュージーランド）と香港(PAL対応テレビ)向けのヨーロッパ版（SNSP-001）は1992年に発売された。北米版とは違い、**本体・カセットはスーパーファミコン等と同じデザイン・配色である。**ロゴマークもスーパーファミコン等と同一である。
   - 映像出力は[PAL](../Page/PAL.md "wikilink")または[SECAM](../Page/SECAM.md "wikilink")出力であり、フランス向けを除いてカセット入口の蓋には「PAL VERSION」と記されている。映像出力の他にロゴ類、電源周り、RF出力周りが異なる。ヨーロッパ圏は国によって電源の安全基準やテレビの放送方式が大きく異なることから、同じヨーロッパ版でも出荷地によって本体側DCジャックが日本版と同一のものもあれば、北米版SNES・韓国版と同一のものもある。もちろんRF出力の出力チャンネルも出荷地によって異なる。
   - カセットの形状は日本版と同じではあるが、CICが異なるためスーパーファミコン等や、カセットの物理形状そのものが異なる北米版・ブラジル版SNESとの互換性はない。
 
@@ -83,11 +83,11 @@
 
 <!-- end list -->
 
-  - 台湾・香港版（超級任天堂）
+  - 台湾・香港(NTSC)版（超級任天堂）
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Nintendo-Super-Famicom-Set-FL.jpg "wikilink")
 
-  - 中華民国（台湾）・香港向けの**超級任天堂**は1993年に発売された。台湾では[溥天股份有限公司](https://ja.wikipedia.org/wiki/:zh:任天堂溥天 "wikilink")、香港では萬信有限公司から販売された。任天堂の型番は本体がSHVC、ソフトがSNSN。
+  - 中華民国（台湾）・香港(NTSC対応テレビ)向けの**超級任天堂**は1993年に発売された。台湾では[溥天股份有限公司](https://ja.wikipedia.org/wiki/:zh:任天堂溥天 "wikilink")、香港では萬信有限公司から販売された。任天堂の型番は本体がSHVC、ソフトがSNSN。
   - 外見や基本仕様は日本向けのスーパーファミコンと同一である。よって日本版スーパーファミコン、韓国版スーパーコンボイのソフトが使用できる。CICが異なるヨーロッパ版SNESや、カセットの物理形状が異なる北米版・ブラジル版SNESとの互換性はない。
   - 映像出力はNTSC出力である。ACアダプター及びRFスイッチはファミリーコンピュータ用を流用できる\[9\]が、ACアダプターやRFスイッチそのものは電圧や放送方式の相違から日本版と異なる。
   - 一部のソフトでは日本向けのスーパーファミコン用ソフトを中国語に訳した中文版が発売された。また香港向けスーパーファミコンソフトには英語版も存在する。
@@ -171,7 +171,7 @@ ACアダプタ</strong></p></td>
 <td><p>HVC-002(HKG)</p></td>
 <td><p><strong>香港版<br />
 ACアダプタ</strong></p></td>
-<td><p>香港版の超級任天堂（スーパーファミコン）のACアダプタ。AC220V 50Hz入力。香港版ファミリーコンピュータ用。日本版と同じく、香港版ファミリーコンピュータとACアダプターを共用する。</p></td>
+<td><p>香港版の超級任天堂（スーパーファミコン）・SNESのACアダプタ。AC220V 50Hz入力。香港版ファミリーコンピュータ用。日本版と同じく、香港版ファミリーコンピュータとACアダプターを共用する。</p></td>
 </tr>
 <tr class="odd">
 <td><p>NES-003</p></td>
@@ -315,7 +315,7 @@ SNS-016E</p></td>
   - [PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")
   - [スーパーファミコン互換機](https://ja.wikipedia.org/wiki/スーパーファミコン互換機 "wikilink")
 
-[Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:スーパーファミコン](https://ja.wikipedia.org/wiki/Category:スーパーファミコン "wikilink")
+[Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:スーパーファミコン](https://ja.wikipedia.org/wiki/Category:スーパーファミコン "wikilink") [Category:任天堂のハードウェア](https://ja.wikipedia.org/wiki/Category:任天堂のハードウェア "wikilink")
 
 1.  中華人民共和国のうち、香港特別行政区以外ではスーパーファミコン、SNES共に正式に発売されなかった。（中国で最初に正式発売された任天堂製のゲーム機はNINTENDO64を同国の市場向けにカスタマイズした[iQue Playerが最初となる](https://ja.wikipedia.org/wiki/iQue_Player "wikilink")。）ただし、後期製造分の本体及びコントローラには中国製造のものが存在する。
 2.

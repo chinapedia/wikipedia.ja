@@ -85,9 +85,9 @@ n 2000;
 
 ## 外部リンク
 
-  - *[The Development of the C Language](http://cm.bell-labs.com/cm/cs/who/dmr/chist.html)*, [Dennis M. Ritchie](../Page/デニス・リッチー.md "wikilink"). [BCPL](../Page/BCPL.md "wikilink")と[Cとの関係の中でBを語っている](../Page/C言語.md "wikilink")。
-  - *[Users' Reference to B](http://cm.bell-labs.com/cm/cs/who/dmr/kbman.html)*, Ken Thompson. Describes the [PDP-11](../Page/PDP-11.md "wikilink") version.
-  - *[The Programming Language B](http://cm.bell-labs.com/cm/cs/who/dmr/bintro.html)*, S. C. Johnson & B. W. Kernighan, Technical Report CS TR 8, [Bell Labs](../Page/ベル研究所.md "wikilink") (January 1973). [ハネウェル](../Page/ハネウェル.md "wikilink")の製品用の[GCOS](../Page/GCOS.md "wikilink")バージョン。
+  - *[The Development of the C Language](http://www.bell-labs.com/usr/dmr/www/chist.html)*, [Dennis M. Ritchie](../Page/デニス・リッチー.md "wikilink"). [BCPL](../Page/BCPL.md "wikilink")と[Cとの関係の中でBを語っている](../Page/C言語.md "wikilink")。
+  - *[Users' Reference to B](http://www.bell-labs.com/usr/dmr/www/kbman.html)*, Ken Thompson. Describes the [PDP-11](../Page/PDP-11.md "wikilink") version.
+  - *[The Programming Language B](http://www.bell-labs.com/usr/dmr/www/bintro.html)*, S. C. Johnson & B. W. Kernighan, Technical Report CS TR 8, [Bell Labs](../Page/ベル研究所.md "wikilink") (January 1973). [ハネウェル](../Page/ハネウェル.md "wikilink")の製品用の[GCOS](../Page/GCOS.md "wikilink")バージョン。
   - *[C言語の起源をめぐって](http://nanyanen.jp/comp/corigin.html)* 戸田孝 2006年11月
 
 [Category:プログラミング言語](https://ja.wikipedia.org/wiki/Category:プログラミング言語 "wikilink")

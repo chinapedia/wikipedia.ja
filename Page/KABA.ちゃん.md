@@ -5,13 +5,13 @@
 
 [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")出身\[3\]。[プラチナムプロダクション](../Page/プラチナムプロダクション.md "wikilink")所属。以前は[ジールアソシエイツ](https://ja.wikipedia.org/wiki/ジールアソシエイツ "wikilink")、[アンセムに所属していた](../Page/アンセム_\(芸能プロダクション\).md "wikilink")。
 
-[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースの元[dosのメンバー](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")や[華原朋美](../Page/華原朋美.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の代表曲「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」の振付師\[4\]としても有名である。
+[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースの元[dosのメンバー](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")や[華原朋美](../Page/華原朋美.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")の代表曲「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」の振付師\[4\]としても有名である。
 
 ## 略歴
 
 元々[ピンクレディー](https://ja.wikipedia.org/wiki/ピンクレディー "wikilink")や[松田聖子](../Page/松田聖子.md "wikilink")といったアイドルが好きで、アイドルになるために近くのスポーツクラブでバレエを含めた様々なダンスを習っていたが\[5\]、テレビで[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")のダンスを目にし、その姿に憧れる\[6\]。資金を貯めるために入学半年で高校を中退\[7\]。ダンススクールの先生の勧めもあり、18歳で上京\[8\]。アルバイトを掛け持ちしながら週5日渋谷のダンススクールで学び\[9\]、この時に[TRF](../Page/TRF.md "wikilink")の[SAM](../Page/SAM_\(ダンサー\).md "wikilink")、ETSU、CHIHARUとも出会う\[10\]。21歳で[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ単身渡米し、ダンスの技術を磨く\[11\]。
 
-[1996年](../Page/1996年.md "wikilink")（平成8年）、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がプロデュースする3人組のダンスユニット・[dosのメンバーとして](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）からデビュー\[12\]。dos結成以前から現在まで振付師としても活躍している。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の小室プロデュース初期のヒット曲のほとんどや、『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』の歌コーナー・コンサートツアーの振り付けなどを担当、シングルでは[2003年](../Page/2003年.md "wikilink")（平成15年）に発売された[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の代表曲『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』の振付も担当した。
+[1996年](../Page/1996年.md "wikilink")（平成8年）、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がプロデュースする3人組のダンスユニット・[dosのメンバーとして](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）からデビュー\[12\]。dos結成以前から現在まで振付師としても活躍している。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の小室プロデュース初期のヒット曲のほとんどや、『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』の歌コーナー・コンサートツアーの振り付けなどを担当、シングルでは[2003年](../Page/2003年.md "wikilink")（平成15年）に発売された[SMAP](../Page/SMAP.md "wikilink")の代表曲『[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")』の振付も担当した。
 
 dos時代、話すとオネエ口調で[同性愛者](https://ja.wikipedia.org/wiki/同性愛者 "wikilink")であることがわかってしまうため事務所サイドからテレビ出演の際は喋らないよう厳命されていたという\[13\]。しかし後に『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』にdosとしてではなく「SMAPの振付師」という肩書きでそのまま出演するようになった際、オネエであることをカミングアウトした\[14\]。番組には[2005年](../Page/2005年.md "wikilink")（平成17年）[3月23日](../Page/3月23日.md "wikilink")まで隔週水曜レギュラーとして出演した。
 
@@ -58,7 +58,7 @@ dos時代、話すとオネエ口調で[同性愛者](https://ja.wikipedia.org/w
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a></p></td>
+<td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p><a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a>・<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ</a>『<a href="https://ja.wikipedia.org/wiki/SMAP×SMAP" title="wikilink">SMAP×SMAP</a>』<br />
 2003年/『<a href="../Page/世界に一つだけの花.md" title="wikilink">世界に一つだけの花</a>』[24]<br />
 CONCERT TOUR 2000・2001・2002・2003 等</p></td>

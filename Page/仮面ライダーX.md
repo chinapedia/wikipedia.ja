@@ -1263,12 +1263,12 @@ RS装置を巡って仮面ライダーXと戦いを繰り広げた。
   - [NETテレビ](../Page/テレビ朝日.md "wikilink")：土曜 19:30 - 20:00
   - [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")：土曜 19:30 - 20:00
   - [岩手放送](../Page/IBC岩手放送.md "wikilink")：水曜 18:00 - 18:30\[182\]
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")：日曜 18:00 - 18:30\[183\]
+  - [秋田放送](../Page/秋田放送.md "wikilink")：日曜 18:00 - 18:30\[183\]
   - [山形放送](../Page/山形放送.md "wikilink")：月曜 17:30 - 18:00\[184\]
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 9:00 - 9:30\[185\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：木曜 19:00 - 19:30\[186\]
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 10:00 - 10:30\[187\]
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")：火曜 17:20 - 17:50\[188\]
+  - [北日本放送](../Page/北日本放送.md "wikilink")：火曜 17:20 - 17:50\[188\]
   - [石川テレビ](../Page/石川テレビ放送.md "wikilink")：火曜 18:00 - 18:30\[189\]
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")：土曜 18:00 - 18:30\[190\]
   - [テレビ静岡](../Page/テレビ静岡.md "wikilink")：金曜 19:00 - 19:30\[191\]

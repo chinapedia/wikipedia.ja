@@ -45,7 +45,7 @@
 
 ## ディスコグラフィ
 
-175RのリリースCDは（[175R](../Page/175R.md "wikilink")）を参照のこと。
+175RのリリースCDは ([175R](../Page/175R.md "wikilink")) を参照のこと。
 
 ### シングル
 
@@ -54,13 +54,13 @@
 
 ### アルバム
 
-  - 大きな愛の木の下で（2014年6月4日）
+  - [大きな愛の木の下で](../Page/大きな愛の木の下で.md "wikilink")（2014年6月4日）
 
 ### その他の参加作品
 
-  - [森雪之丞](../Page/森雪之丞.md "wikilink")トリビュートアルバム『[Words of 雪之丞](../Page/Words_of_雪之丞.md "wikilink")』に「[愛をちょうだい](https://ja.wikipedia.org/wiki/愛をちょうだい "wikilink")」で参加。
+  - [森雪之丞](../Page/森雪之丞.md "wikilink")トリビュートアルバム『[Words of 雪之丞](../Page/Words_of_雪之丞.md "wikilink")』に「愛をちょうだい」で参加。
   - [mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[mihimagic](https://ja.wikipedia.org/wiki/mihimagic "wikilink")』にfeatで参加。
-  - [LITTLE](../Page/LITTLE.md "wikilink")のアルバム『[“YES” rhyme-dentity](https://ja.wikipedia.org/wiki/“YES”_rhyme-dentity "wikilink")』に「Gradation feat.MICRO,SMALLEST,SHOGO」で参加
+  - [LITTLE](../Page/LITTLE.md "wikilink")のアルバム『[“YES” rhyme-dentity](https://ja.wikipedia.org/wiki/“YES”_rhyme-dentity "wikilink")』に「Gradation feat. MICRO, SMALLEST, SHOGO」で参加
 
 ### 楽曲提供
 
@@ -68,12 +68,11 @@
       - [ジェット機](../Page/ジェット機.md "wikilink") - 青すぎる空の下で（FIRST JET収録）
       - [MCU](https://ja.wikipedia.org/wiki/MCU "wikilink") - B.A.M.O.R.A.（A Peacetime MCU収録）
       - [高橋瞳](../Page/高橋瞳.md "wikilink") - PRIDE（[JET BOY JET GIRL収録](../Page/JET_BOY_JET_GIRL.md "wikilink")）
-      - [MADHAND](https://ja.wikipedia.org/wiki/MADHAND "wikilink") - Carnival（BIRTHDAY収録）
+      - MADHAND - Carnival（BIRTHDAY収録）
   - 作曲
       - [高橋瞳](../Page/高橋瞳.md "wikilink") - \*\*\* DRIVE（[コ・モ・レ・ビ](../Page/コ・モ・レ・ビ.md "wikilink")収録）
       - [misono](https://ja.wikipedia.org/wiki/misono "wikilink") - 砂と城のマーメイド 〜陸と海の世界〜（[never+land](https://ja.wikipedia.org/wiki/never+land "wikilink")収録）
-
-元妻である[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")のアルバム「うたごえ」へ数曲を提供。
+  - 元妻である[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")のアルバム「うたごえ」へ数曲を提供。
 
 ## 出演番組
 

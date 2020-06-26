@@ -514,7 +514,8 @@
 
   - [聖飢魔II : 公式ブログ Powered by LINE](https://lineblog.me/seikima_ii/)
 
-  -
+  - [聖飢魔II : 秘密結社 魔人倶楽部](https://magineclub35th.com/)
+
   - \[<http://www.powerplay.co.jp/>　POWER PLAY MUSIC\]
 
 [Category:聖飢魔II](https://ja.wikipedia.org/wiki/Category:聖飢魔II "wikilink") [Category:デーモン閣下](https://ja.wikipedia.org/wiki/Category:デーモン閣下 "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:冗談宗教](https://ja.wikipedia.org/wiki/Category:冗談宗教 "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:1999年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に解散した音楽グループ "wikilink") [Category:2005年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に再結成した音楽グループ "wikilink") [Category:2010年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に再結成した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink") [Category:2015年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に再結成した音楽グループ "wikilink")

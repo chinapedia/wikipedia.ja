@@ -1,11 +1,11 @@
 > この記事は[Q.E.D.](https://ja.wikipedia.org/wiki/Q.E.D.)から翻訳されています。
 
 
-[数学](../Page/数学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")などにおける **Q.E.D.** は[ラテン語](../Page/ラテン語.md "wikilink")の Quod Erat Demonstrandum（かく示された/これが示されるべき事であった）が略されてできた[頭字語](../Page/頭字語.md "wikilink")。[証明](../Page/証明.md "wikilink")や[論証](../Page/論証.md "wikilink")の末尾におかれ、議論が終わったことを示す。 ただし現代の数学において Q.E.D. はほとんど使用されていない\[1\]。（[\#電子的な記号](https://ja.wikipedia.org/wiki/#電子的な記号 "wikilink")を参照。）
+[数学](../Page/数学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")などにおける **Q.E.D.** は[ラテン語](../Page/ラテン語.md "wikilink")の Quod Erat Demonstrandum（かく示された/これが示されるべき事であった）が略されてできた[頭字語](../Page/頭字語.md "wikilink")。[証明](../Page/証明.md "wikilink")や[論証](../Page/論証.md "wikilink")の末尾におかれ、議論が終わったことを示す。 現代の数学においても Q.E.D. は一般的に使用されている\[1\]。（[\#電子的な記号](https://ja.wikipedia.org/wiki/#電子的な記号 "wikilink")を参照。）
 
 ## 使用法
 
-現在ではほとんど使われないために使い方を間違えている記述が多く見られる。例えば等式 *P* = *Q* を示す際に、*P* = …… = *R* と *Q* = …… = *R* を示して結論する場合、この2式の後に Q.E.D. と書くのは誤った使い方である。実際には2式の後に「よって *P* = *Q* である」などと書き、その後に Q.E.D. と書かなければならない。
+使い方を間違えている記述が多く見られる。例えば等式 *P* = *Q* を示す際に、*P* = …… = *R* と *Q* = …… = *R* を示して結論する場合、この2式の後に Q.E.D. と書くのは誤った使い方である。実際には2式の後に「よって *P* = *Q* である」などと書き、その後に Q.E.D. と書かなければならない。
 
 この誤りは Q.E.D. の意味を「証明終了」と誤解しているために生じる。Q.E.D の意味は「これが示したいことであった」、「これが求めるものであった」の意味であり、直前にその証明で示すことが目標となっていた数式などが書かれていないとおかしな表現になってしまう。
 
@@ -23,11 +23,9 @@
 
 使用頻度の落ちる少し異なった意味を持つラテン語の言い回しとして、「これがなすべきことだった」という意味の  がある。これは普通 Q.E.F. と略される。Q.E.F. はギリシャの数学者によって用いられた  () から来ている。ユークリッドはこの言葉を例示的な構成などの結語として用いていた。Q.E.D. と Q.E.F. の違いは完全な証明と証明の概略の違いに相当する。 Q.E.D. は様々な言語に訳されている。特に、西欧の数学における主要言語であったフランス語やドイツ語ではそれぞれ C.Q.F.D. ("ce qu'il fallait démontrer") および w. z. b. w. ("was zu beweisen war") となっている。英語や日本語における定訳は存在しないが、多くの場合証明の最後は "this completes the proof" 、「これで証明が完成する」などの簡潔な文が添えられることが多い。
 
-WWWWW 又は W<sup>5</sup> ("Which Was What Was Wanted") や [AWD](https://ja.wikipedia.org/wiki/AWD "wikilink") (and we're done)と略される場合も有る\[4\]。
-
 ## 電子的な記号
 
-[LaTeX](../Page/LaTeX.md "wikilink") などのソフトウェアを用いてコンピュータによる組版で数学の証明が書かれるようになってから何種類かの記号が Q.E.D. の代わりに用いられるようになった。代表的なものは[墓石](https://ja.wikipedia.org/wiki/墓石記号 "wikilink")（[tombstone](https://ja.wikipedia.org/wiki/:en:Tombstone_\(typography\) "wikilink")）あるいはハルモス記号（この用法を提案した[ポール・ハルモス](https://ja.wikipedia.org/wiki/ポール・ハルモス "wikilink")にちなむ\[5\]）とも呼ばれる黒い四角 \(\blacksquare\) であるが、白い四角 \(\square\) が推奨されることもある\[6\] 。[Unicode](../Page/Unicode.md "wikilink") は「証明終わり」の記号を明示的に U+220E (end of proof ) に割り当てているが、 U+25AE (black vertical rectangle ) や U+2023 (triangular bullet ) も代替として割り当てている。著者によっては、二重スラッシュ//など他の記号を用いたり、単に垂直方向の空白スペースを取ることによって証明の終わりを表すこともある。
+[LaTeX](../Page/LaTeX.md "wikilink") などのソフトウェアを用いてコンピュータによる組版で数学の証明が書かれるようになってから何種類かの記号が Q.E.D. の代わりに用いられるようになった。代表的なものは[墓石](https://ja.wikipedia.org/wiki/墓石記号 "wikilink")（[tombstone](https://ja.wikipedia.org/wiki/:en:Tombstone_\(typography\) "wikilink")）あるいはハルモス記号（この用法を提案した[ポール・ハルモス](https://ja.wikipedia.org/wiki/ポール・ハルモス "wikilink")にちなむ\[4\]）とも呼ばれる黒い四角 \(\blacksquare\) であるが、白い四角 \(\square\) が推奨されることもある\[5\] 。[Unicode](../Page/Unicode.md "wikilink") は「証明終わり」の記号を明示的に U+220E (end of proof ) に割り当てているが、 U+25AE (black vertical rectangle ) や U+2023 (triangular bullet ) も代替として割り当てている。※しかし、これらの表記は普及し始めてから80年にも満たない。Ｑ.Ｅ.Ｄ.を使用することが歴史的にも世界的にも適切である。
 
 ## 脚注
 
@@ -39,6 +37,5 @@ WWWWW 又は W<sup>5</sup> ("Which Was What Was Wanted") や [AWD](https://ja.wi
 1.
 2.
 3.  The Chief Works of Benedict De Spinoza, translated by R. H. M. Elwes, 1951. ISBN 0-486-20250-X.
-4.  エレガントな問題解決 P47 Paul Zeitz著 オライリージャパン出版
+4.
 5.
-6.

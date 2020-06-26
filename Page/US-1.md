@@ -45,7 +45,7 @@
 
 1994年2月の[小笠原](../Page/小笠原諸島.md "wikilink")[行幸](../Page/行幸.md "wikilink")啓では、目的地に飛行場が無く船舶では時間がかかるため[海上自衛隊](../Page/海上自衛隊.md "wikilink")のUS-1Aが使用された\[9\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）8月12日、[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")から[災害派遣](../Page/災害派遣.md "wikilink")要請を受けたUS-1Aが、急病（胃に穴が開き出血）となった[韓国海軍](https://ja.wikipedia.org/wiki/韓国海軍 "wikilink")の[イージス艦](../Page/イージス艦.md "wikilink")・[世宗大王級駆逐艦](../Page/世宗大王級駆逐艦.md "wikilink")の乗組員1名を[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[金華山](../Page/金華山_\(宮城県\).md "wikilink") 沖880kmの海上で収容し、[厚木基地](https://ja.wikipedia.org/wiki/厚木基地 "wikilink")に搬送した。これは自衛隊が災害派遣要請を受けてアメリカ軍以外の外国兵を搬送した初の事例であった\[10\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）8月12日、[海上保安庁](../Page/海上保安庁.md "wikilink")から[災害派遣](../Page/災害派遣.md "wikilink")要請を受けたUS-1Aが、急病（胃に穴が開き出血）となった[韓国海軍](https://ja.wikipedia.org/wiki/韓国海軍 "wikilink")の[イージス艦](../Page/イージス艦.md "wikilink")・[世宗大王級駆逐艦](../Page/世宗大王級駆逐艦.md "wikilink")の乗組員1名を[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[金華山](../Page/金華山_\(宮城県\).md "wikilink") 沖880kmの海上で収容し、[厚木基地](https://ja.wikipedia.org/wiki/厚木基地 "wikilink")に搬送した。これは自衛隊が災害派遣要請を受けてアメリカ軍以外の外国兵を搬送した初の事例であった\[10\]。
 
 2017年12月13日、最後の1機が、最終飛行を行い、山口県の岩国航空基地で任務を完了、全機が退役した\[11\]。
 

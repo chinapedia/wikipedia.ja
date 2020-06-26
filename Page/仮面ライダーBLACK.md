@@ -1096,7 +1096,7 @@ BGMはのちに『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink
   - 青森県：[青森テレビ](../Page/青森テレビ.md "wikilink")
   - 岩手県：岩手放送（現・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")）
   - 宮城県：[東北放送](../Page/東北放送.md "wikilink")
-  - 秋田県：[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - 秋田県：[秋田放送](../Page/秋田放送.md "wikilink")
   - 山形県：[山形放送](../Page/山形放送.md "wikilink")
   - 福島県：[テレビユー福島](../Page/テレビユー福島.md "wikilink")
   - 山梨県：[テレビ山梨](../Page/テレビ山梨.md "wikilink")
@@ -1104,7 +1104,7 @@ BGMはのちに『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink
   - 新潟県：[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")
   - 静岡県：[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
   - 中京広域圏：中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
-  - 富山県：[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - 富山県：[北日本放送](../Page/北日本放送.md "wikilink")
   - 石川県：[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - 福井県：[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")
   - 鳥取県・島根県：[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
@@ -1114,7 +1114,7 @@ BGMはのちに『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink
   - 愛媛県：[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - 高知県：[テレビ高知](../Page/テレビ高知.md "wikilink")
   - 福岡県：[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
-  - 長崎県：[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - 長崎県：[長崎放送](../Page/長崎放送.md "wikilink")
   - 熊本県：[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - 大分県：[大分放送](../Page/大分放送.md "wikilink")
   - 宮崎県：[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

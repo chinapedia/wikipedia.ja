@@ -27,7 +27,6 @@ USAトゥデイは、色彩豊かで[活字](../Page/活字.md "wikilink")も大
 
 ## 関連項目
 
-  - [産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")
   - [インフォグラフィック](https://ja.wikipedia.org/wiki/インフォグラフィック "wikilink")
 
 ## 外部リンク

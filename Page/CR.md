@@ -53,6 +53,8 @@
   -
   - [コーシー・リーマン方程式](https://ja.wikipedia.org/wiki/コーシー・リーマン方程式 "wikilink")
 
+  - [Crazy Raccoon](https://ja.wikipedia.org/wiki/Crazy_Raccoon "wikilink")
+
 ## Cr
 
   - [クロム](../Page/クロム.md "wikilink")の[元素記号](../Page/元素記号.md "wikilink")

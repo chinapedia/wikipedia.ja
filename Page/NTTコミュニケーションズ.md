@@ -39,6 +39,8 @@ HPドメインは、発足当初は**ntt-c.co.jp**を利用していたが、NTT
   - [2019年](../Page/2019年.md "wikilink")（平成31年、[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）
       - 1月4日 - 本社を東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町二丁目の大手町プレイスに移転](../Page/大手町_\(千代田区\).md "wikilink")\[4\]。
       - 7月1日 - と、NTTコミュニケーションズの海外部門などを統合し、発足。NTTリミテッドはディメンションデータの顧客基盤のあるロンドンに本社を置き、CEOにはディメンションデータのCEOが就任\[5\]。ディメンションデータがスポンサーをしていたサイクリングチームであるチーム・ディメンションデータも2020年からは[NTTプロ・サイクリング](https://ja.wikipedia.org/wiki/NTTプロ・サイクリング "wikilink")として活動する。
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）
+      - 5月28日 - 不正アクセスに伴う、情報流出を公表\[6\]。
 
 ## 事業・サービス
 
@@ -165,11 +167,11 @@ HPドメインは、発足当初は**ntt-c.co.jp**を利用していたが、NTT
 
 ## グローバル拠点
 
-全世界43カ国/地域124都市に拠点を設置している。\[6\]
+全世界43カ国/地域124都市に拠点を設置している。\[7\]
 
 ## サービス提供エリア
 
-世界196カ国/地域でサービスを提供している。\[7\]
+世界196カ国/地域でサービスを提供している。\[8\]
 
 ## グループ会社
 
@@ -272,7 +274,7 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
 ### テーマパーク
 
   - [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink") [ピーターパン空の旅](../Page/ピーターパン空の旅.md "wikilink")（2011年4月1日より）
-  - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink") [ジャスミンのフライングカーペット](https://ja.wikipedia.org/wiki/ジャスミンのフライングカーペット "wikilink")（2011年[7月18日](../Page/7月18日.md "wikilink")オープン当初より\[8\]）
+  - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink") [ジャスミンのフライングカーペット](https://ja.wikipedia.org/wiki/ジャスミンのフライングカーペット "wikilink")（2011年[7月18日](../Page/7月18日.md "wikilink")オープン当初より\[9\]）
 
 ## 脚注
 
@@ -300,6 +302,7 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
 3.  [ニュースリリース 平成11年6月29日 （別紙4）](http://www.ntt.com/release/1999news/news/news99/9906/0629d.html)
 4.  [企業情報に関するお知らせ - 本社移転のお知らせ 2019年1月4日](https://www.ntt.com/about-us/information/info_20190104.html)
 5.  [【記者のひとこと】海外で「NTTコミュニケーションズ」の社名がなくなります](https://www.bcnretail.com/market/detail/20190516_118405.html) - BCN
-6.  [グローバル拠点](http://www.ntt.com/aboutus/world/)
-7.  [Arcstar Universal One グローバル（海外VPN提供地域）](http://www.ntt.com/vpn/global/data/area.html)
-8.   - オリエンタルランド ニュースリリース 2011年1月17日
+6.
+7.  [グローバル拠点](http://www.ntt.com/aboutus/world/)
+8.  [Arcstar Universal One グローバル（海外VPN提供地域）](http://www.ntt.com/vpn/global/data/area.html)
+9.   - オリエンタルランド ニュースリリース 2011年1月17日

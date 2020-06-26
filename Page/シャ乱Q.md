@@ -61,7 +61,7 @@
 <!-- end list -->
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
-    プロデュース活動として、はたけは[平家みちよ](https://ja.wikipedia.org/wiki/平家みちよ "wikilink")、つんくは[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")を担当した。12月、しゅうが未成年女性への暴行事件を起こし脱退。
+    プロデュース活動として、はたけは[平家みちよ](https://ja.wikipedia.org/wiki/平家みちよ "wikilink")、つんくは[モーニング娘。](../Page/モーニング娘。.md "wikilink")を担当した。12月、しゅうが未成年女性への暴行事件を起こし脱退。
 
 <!-- end list -->
 

@@ -12,7 +12,7 @@
 
 ## 本社
 
-  - [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")
+  - 東京都港区虎ノ門三丁目4番7号　虎ノ門36森ビル
 
 ## その他
 

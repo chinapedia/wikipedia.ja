@@ -3,27 +3,47 @@
 
 **MiG-29**（ミグ29、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：<span style="font-size:90%">ミーグ・ドヴァーッツァヂ・ヂェーヴャチ</span>）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ミグ設計局で開発された](../Page/MiG.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）の使用する[NATOコードネームは](../Page/NATOコードネームの一覧_\(航空機\).md "wikilink")「**フルクラム/ファルクラム**（Fulcrum）」。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では「[ラーストチカ](https://ja.wikipedia.org/wiki/ラーストチカ "wikilink")（Ласточка)」の愛称でも呼ばれるが、この呼称はロシアでは使われていない。
 
-## 概要
-
-### 開発
+## 開発
 
 当時[東側諸国](../Page/東側諸国.md "wikilink")の主力[戦闘機](../Page/戦闘機.md "wikilink")であった[MiG-21や](../Page/MiG-21_\(航空機\).md "wikilink")[MiG-23の後継機として](../Page/MiG-23_\(航空機\).md "wikilink")、また、[1970年代](../Page/1970年代.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")が開発した[F-14や](../Page/F-14_\(戦闘機\).md "wikilink")[F-15などの新鋭戦闘機に対抗する新機種として設計された](https://ja.wikipedia.org/wiki/F-15_\(戦闘機\) "wikilink")。特にMiG-23が[格闘性能で](../Page/ドッグファイト.md "wikilink")[第2世代ジェット戦闘機](https://ja.wikipedia.org/wiki/第2世代ジェット戦闘機 "wikilink")であるMiG-21におよばず、MiG-21を長期に渡って改良しながら運用し続けている状態であったことから、これに代わる格闘性能の高い戦闘機の開発は当時の[ソ連にとって急務であった](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。開発は[1972年](../Page/1972年.md "wikilink")に開始され、[1977年](../Page/1977年.md "wikilink")10月には「プロダクト9」という試作機がラメンスコイエ航空試験センターで初飛行した、この年の11月にはアメリカの[偵察衛星](../Page/偵察衛星.md "wikilink")がラメンスコイエ航空試験センターを撮影した際にこの試験機を確認しており、**Ram-L**の[コードネーム](../Page/コードネーム.md "wikilink")を与えられている。一方、当時のソ連は新型戦闘機を開発していることを明らかにしており、その後に幾つかの小改修が行われた後に、[1982年](../Page/1982年.md "wikilink")から量産が開始された。実際に部隊への配備が始まったのは[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")からである。
 
-当初、[ミグ設計局では大量採用を見越して](../Page/MiG.md "wikilink")[スホーイ](../Page/スホーイ.md "wikilink")の[Su-27同様に](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")[海軍型である](https://ja.wikipedia.org/wiki/ロシア海軍#ソ連海軍 "wikilink")[MiG-29Kの開発も終了していた](https://ja.wikipedia.org/wiki/MiG-29K_\(航空機\) "wikilink")。しかし、[冷戦](../Page/冷戦.md "wikilink")終結に伴う軍縮と財政難の兼ね合いから、一機あたりの価格は高くとも能力が高い機体のほうが[コストパフォーマンス](https://ja.wikipedia.org/wiki/コストパフォーマンス "wikilink")が高いと判断したソ連は、MiG-29Kより[Su-33](../Page/Su-33_\(航空機\).md "wikilink")（Su-27K）を選択し、ミグ設計局が当初期待した需要を確保することは叶わなかった。また、[空軍でもSu](../Page/ソ連空軍.md "wikilink")-27が主力として多く採用された。
+当初、[ミグ設計局では大量採用を見越して](../Page/MiG.md "wikilink")[スホーイ](../Page/スホーイ.md "wikilink")の[Su-27同様に](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")[海軍向けの](https://ja.wikipedia.org/wiki/ロシア海軍#ソ連海軍 "wikilink")[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")型である[MiG-29Kの開発も終了していた](https://ja.wikipedia.org/wiki/MiG-29K_\(航空機\) "wikilink")。しかし、[冷戦](../Page/冷戦.md "wikilink")終結に伴う軍縮と財政難の兼ね合いから、一機あたりの価格は高くとも能力が高い機体のほうが[コストパフォーマンス](https://ja.wikipedia.org/wiki/コストパフォーマンス "wikilink")が高いと判断したソ連は、MiG-29Kより[Su-33](../Page/Su-33_\(航空機\).md "wikilink")（Su-27K）を選択し、ミグ設計局が当初期待した需要を確保することは叶わなかった。また、[空軍でもSu](../Page/ソ連空軍.md "wikilink")-27が主力として多く採用された。
 
-### 性能と特徴
+## 性能と特徴
 
-[thumbのMiG](https://ja.wikipedia.org/wiki/ファイル:MiG-29-2008-Vasylkiv.jpg "wikilink")-29\]\] 操縦装置は[フライ・バイ・ワイヤ](../Page/フライ・バイ・ワイヤ.md "wikilink")方式ではなく、[リンク機構](../Page/リンク機構.md "wikilink")による機械式を採用している。主翼は、前縁には[コンピュータ](../Page/コンピュータ.md "wikilink")制御の前縁[フラップ](../Page/高揚力装置.md "wikilink")、後縁には外側に補助翼と内側にフラップを装備している。主翼付け根部分から前方にかけて長く伸びた[LERX](https://ja.wikipedia.org/wiki/ストレーキ "wikilink")（前縁付け根延長）が形成されており、中央胴体とともに[揚力](../Page/揚力.md "wikilink")を発生させる。主翼前縁の上部には[失速](../Page/失速.md "wikilink")防止のため[ヴォルテックス・ジェネレーターが装備されており](https://ja.wikipedia.org/wiki/ヴォルテックスジェネレータ "wikilink")、主翼上部からの気流を乱流化することで剝離を防いでいる。[垂直尾翼](../Page/垂直尾翼.md "wikilink")は外側に6度の角度をつけて取り付けられており、[水平尾翼](../Page/水平尾翼.md "wikilink")は全遊動式である。[補助翼](../Page/補助翼.md "wikilink")と水平尾翼と垂直尾翼の[方向舵](../Page/方向舵.md "wikilink")を連動させて[ロール軸（ローリング）の操縦性を強化している他](https://ja.wikipedia.org/wiki/ローリング "wikilink")、機械式の[ヨー軸（ヨーイング）操縦安定増強装置が付加されている](https://ja.wikipedia.org/wiki/ヨーイング "wikilink")。主翼の付け根部分の下部に取付けられている[エンジン](../Page/エンジン.md "wikilink")の[空気取り入れ口には](../Page/エアインテーク.md "wikilink")、開閉式のドアが設けられており、[タキシング](../Page/タキシング.md "wikilink")時にはこのドアを閉めて異物の侵入を防いでいる、ドアには小さい穴を設けて閉じた状態でも空気を取り入れられるようになっているが、それだけでは[吸気](https://ja.wikipedia.org/wiki/吸気 "wikilink")流量が不足するため、機体上部のLERX部分に装備された[ルーバー](../Page/ルーバー.md "wikilink")型の補助空気取り入れ口を開いて、そこから必要な空気を取り入れるようになっている。これは国土が極端に広いソ連の国情を反映したもので、不整地や[凍土](../Page/凍土.md "wikilink")など滑走路以外から離着陸する際に[異物を吸い込んでのエンジン損傷を防ぎ](https://ja.wikipedia.org/wiki/FOD_\(航空用語\) "wikilink")、より安全に運用するための工夫である。
+同時期に[スホーイ](../Page/スホーイ.md "wikilink")設計局で開発された[Su-27と形状が似ているのは](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")、ともに[TsAGI](../Page/TsAGI.md "wikilink")（中央流体力学研究所）の研究結果を取り入れたためである。外見的に大きく異なるのはその大きさで、[前線空軍での局地的使用を想定したMiG](../Page/ソ連空軍.md "wikilink")-29は簡素・小型であり、[防空軍での長距離使用を想定したSu](../Page/ソ連防空軍.md "wikilink")-27は複雑・大型である。[武装](../Page/武装.md "wikilink")や燃料搭載量は当然大型のSu-27の方が優れており、特に燃料搭載量の少なさはMiG-29の欠点となっている。
+
+### 主翼・胴体
+
+[thumbのMiG](https://ja.wikipedia.org/wiki/ファイル:MiG-29-2008-Vasylkiv.jpg "wikilink")-29\]\] 操縦装置は[フライ・バイ・ワイヤ](../Page/フライ・バイ・ワイヤ.md "wikilink")方式ではなく、[リンク機構](../Page/リンク機構.md "wikilink")による機械式を採用している。主翼は、前縁には[コンピュータ](../Page/コンピュータ.md "wikilink")制御の前縁[フラップ](../Page/高揚力装置.md "wikilink")、後縁には外側に補助翼と内側にフラップを装備している。主翼付け根部分から前方にかけて長く伸びた[LERX](https://ja.wikipedia.org/wiki/ストレーキ "wikilink")（前縁付け根延長）が形成されており、中央胴体とともに[揚力](../Page/揚力.md "wikilink")を発生させる。主翼前縁の上部には[失速](../Page/失速.md "wikilink")防止のため[ヴォルテックス・ジェネレーターが装備されており](https://ja.wikipedia.org/wiki/ヴォルテックスジェネレータ "wikilink")、主翼上部からの気流を乱流化することで剝離を防いでいる。[垂直尾翼](../Page/垂直尾翼.md "wikilink")は外側に6度の角度をつけて取り付けられており、[水平尾翼](../Page/水平尾翼.md "wikilink")は全遊動式である。[補助翼](../Page/補助翼.md "wikilink")と水平尾翼と垂直尾翼の[方向舵](../Page/方向舵.md "wikilink")を連動させて[ロール軸（ローリング）の操縦性を強化している他](https://ja.wikipedia.org/wiki/ローリング "wikilink")、機械式の[ヨー軸（ヨーイング）操縦安定増強装置が付加されている](https://ja.wikipedia.org/wiki/ヨーイング "wikilink")。
+
+### エンジン
+
+エンジンは、[アフターバーナー](../Page/アフターバーナー.md "wikilink")付き[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink")である[クリーモフ RD-33を](https://ja.wikipedia.org/wiki/クリーモフ_RD-33 "wikilink")2基、胴体下面のエンジンナセルに収容している。
+
+主翼の付け根部分の下部に取付けられている[エンジン](../Page/エンジン.md "wikilink")の[空気取り入れ口には](../Page/エアインテーク.md "wikilink")、開閉式のドアが設けられており、[タキシング](../Page/タキシング.md "wikilink")時にはこのドアを閉めて異物の侵入を防いでいる、ドアには小さい穴を設けて閉じた状態でも空気を取り入れられるようになっているが、それだけでは[吸気](https://ja.wikipedia.org/wiki/吸気 "wikilink")流量が不足するため、機体上部のLERX部分に装備された[ルーバー](../Page/ルーバー.md "wikilink")型の補助空気取り入れ口を開いて、そこから必要な空気を取り入れるようになっている。これは国土が極端に広いソ連の国情を反映したもので、不整地や[凍土](../Page/凍土.md "wikilink")など滑走路以外から離着陸する際に[異物を吸い込んでのエンジン損傷を防ぎ](https://ja.wikipedia.org/wiki/FOD_\(航空用語\) "wikilink")、より安全に運用するための工夫である。
+
+後に開発された[MiG-29M以降の派生型](https://ja.wikipedia.org/wiki/MiG-29M_\(航空機\) "wikilink")（[MiG-29K](https://ja.wikipedia.org/wiki/MiG-29K "wikilink")や[MiG-35](https://ja.wikipedia.org/wiki/MiG-35 "wikilink")）では、LERX内部を燃料タンクとする目的で、Su-27と同様にエンジン吸気口内部に格子を立てる方式へ変更されている。
+
+### コクピット
 
 [MiG-29_cockpit_3.jpg](https://ja.wikipedia.org/wiki/File:MiG-29_cockpit_3.jpg "fig:MiG-29_cockpit_3.jpg") [コックピットには](../Page/軍用機のコックピット.md "wikilink")、前面にアナログ型の計器が並んでおり、前方中央上部に[ヘッドアップディスプレイ](../Page/ヘッドアップディスプレイ.md "wikilink")（HUD）がある。[操縦桿](../Page/操縦桿.md "wikilink")とエンジンの出力を制御するスロットル・レバーには計10個のスイッチが装備されており、HUDに飛行に必要な情報を映し出すことで、[パイロットが飛行中でも視線を逸らしたり手を離すことなく](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")、スイッチを操作することができる[HOTASを導入している](https://ja.wikipedia.org/wiki/操縦桿#操縦桿上の装置 "wikilink")。
 
-機首には、ファザトロンN019ルービンコヒーレント型パルス・[ドップラー・レーダー](../Page/ドップラー・レーダー.md "wikilink")を搭載しており、最大探知距離は100km、目標の最大追跡距離は70kmで、[ルックダウン・シュートダウン能力を持ち](https://ja.wikipedia.org/wiki/ルックダウン能力 "wikilink")、最大で10目標追尾が可能で、中距離[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")により視程外射程（BVR)攻撃が可能である。複座型は前方のスペースを潰す形で座席を追加したため、一部を除いて簡単な測距レーダーしか搭載していない。
+### アビオニクス
 
-中距離空対空ミサイルは、[R-27（AA-10アラモ）または](../Page/R-27_\(ミサイル\).md "wikilink")[R-77（AA-12アッダー）を](../Page/R-77_\(ミサイル\).md "wikilink")、短距離空対空ミサイルは[R-60（AA-8エイフィド）または](https://ja.wikipedia.org/wiki/R-60_\(ミサイル\) "wikilink")[R-73（AA-11アーチャー）を搭載できる](../Page/R-73_\(ミサイル\).md "wikilink")。主翼と胴体下に[パイロン](https://ja.wikipedia.org/wiki/パイロン "wikilink")を取り付けているが、胴体下のパイロンは燃料タンク専用で、兵装は左右の主翼下にある3箇所にのみ搭載可能であり、合計6発の[ミサイル](../Page/ミサイル.md "wikilink")を搭載できる\[1\]。また、[爆弾](../Page/爆弾.md "wikilink")、[ロケット弾](../Page/ロケット弾.md "wikilink")ポッドなどの対地攻撃兵装も搭載が可能である。コックピットの[風防前には](https://ja.wikipedia.org/wiki/キャノピー "wikilink")[IRSTと](https://ja.wikipedia.org/wiki/赤外線捜索追尾システム "wikilink")[レーザー測距装置の入った](../Page/光波測距儀.md "wikilink")[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")収容部が装備されており、機軸中心線から右にオフセットで取付けられている。また、IRSTの最大探知距離は約15kmとなっており、このセンサーは[ヘルメット](../Page/ヘルメット.md "wikilink")に装着されているShchel（[露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：Щель）またはSura（露：Сура）といった[ヘッドマウントディスプレイ](../Page/ヘッドマウントディスプレイ.md "wikilink")（HMD）とも連動するようになっており、R-73ミサイルとの併用で機軸から左右60度の範囲に対するオフボアサイト能力を有する。また、自己防御装置としてはSO-69とSRO-15の2種類の[レーダー警報受信機](https://ja.wikipedia.org/wiki/レーダー警報受信機 "wikilink")と、BVP30-26M[チャフ](../Page/チャフ.md "wikilink")・[フレア放出器が装備されている](../Page/フレア_\(兵器\).md "wikilink")。
+機首には、ファザトロンN019ルービン コヒーレント型パルス・[ドップラー・レーダー](../Page/ドップラー・レーダー.md "wikilink")を搭載しており、最大探知距離は100km、目標の最大追跡距離は70kmで、[ルックダウン・シュートダウン能力を持ち](https://ja.wikipedia.org/wiki/ルックダウン能力 "wikilink")、最大で10目標追尾が可能で、中距離[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")により視程外射程（BVR)攻撃が可能である。複座型は前方のスペースを潰す形で座席を追加したため、一部を除いて簡単な測距レーダーしか搭載していない。
 
-なお、同時期に[スホーイ](../Page/スホーイ.md "wikilink")設計局で開発された[Su-27と形状が似ているのは](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")、ともに[TsAGI](../Page/TsAGI.md "wikilink")（中央流体力学研究所）の研究結果を取り入れたためである。外見的に大きく異なるのはその大きさで、[前線空軍での局地的使用を想定したMiG](../Page/ソ連空軍.md "wikilink")-29は簡素・小型であり、[防空軍での長距離使用を想定したSu](../Page/ソ連防空軍.md "wikilink")-27は複雑・大型である。[武装](../Page/武装.md "wikilink")や燃料搭載量は当然大型のSu-27の方が優れており、特に燃料搭載量の少なさはMiG-29の欠点となっている。
+コックピットの[風防前には](https://ja.wikipedia.org/wiki/キャノピー "wikilink")[IRSTと](https://ja.wikipedia.org/wiki/赤外線捜索追尾システム "wikilink")[レーザー測距装置の入った](../Page/光波測距儀.md "wikilink")[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")収容部が装備されており、機軸中心線から右にオフセットで取付けられている。また、IRSTの最大探知距離は約15kmとなっており、このセンサーは[ヘルメット](../Page/ヘルメット.md "wikilink")に装着されているShchel（[露](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：Щель）またはSura（露：Сура）といった[ヘッドマウントディスプレイ](../Page/ヘッドマウントディスプレイ.md "wikilink")（HMD）とも連動するようになっており、R-73ミサイルとの併用で機軸から左右60度の範囲に対するオフボアサイト能力を有する。また、自己防御装置としてはSO-69との2種類の[レーダー警報受信機](https://ja.wikipedia.org/wiki/レーダー警報受信機 "wikilink")と、BVP30-26M[チャフ](../Page/チャフ.md "wikilink")・[フレア放出器が装備されている](../Page/フレア_\(兵器\).md "wikilink")。
 
-### 配備
+### 兵装
+
+機関砲は、口径30mmの[GSh-30-1を](https://ja.wikipedia.org/wiki/GSh-30-1_\(機関砲\) "wikilink")、左舷側LERXの付け根部分に1門装備している。
+
+[ハードポイント](https://ja.wikipedia.org/wiki/ハードポイント "wikilink")は、左右主翼下に3か所ずつ、胴体中心線下に1か所の計7か所であるが、胴体下ハードポイントは増槽専用となっており、兵装は全て主翼下に搭載される。
+
+中距離空対空ミサイルは、[R-27（AA-10アラモ）または](../Page/R-27_\(ミサイル\).md "wikilink")[R-77（AA-12アッダー）を](../Page/R-77_\(ミサイル\).md "wikilink")、短距離空対空ミサイルは[R-60（AA-8エイフィド）または](https://ja.wikipedia.org/wiki/R-60_\(ミサイル\) "wikilink")[R-73（AA-11アーチャー）を搭載できる](../Page/R-73_\(ミサイル\).md "wikilink")。空対空ミサイルは合計6発までの[ミサイル](../Page/ミサイル.md "wikilink")を搭載できる\[1\]。また、[爆弾](../Page/爆弾.md "wikilink")、[ロケット弾](../Page/ロケット弾.md "wikilink")ポッドなどの対地攻撃兵装も搭載が可能である。
+
+## 配備
 
 [thumbのMiG](https://ja.wikipedia.org/wiki/ファイル:MiG-29SEFAP.jpg "wikilink")-29SE\]\] 初期生産型のMiG-29 «9.12»が、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")末に[ソ連空軍](../Page/ソ連空軍.md "wikilink")の前線部隊に配備が開始された\[2\]\[3\]。前述の通りソ連空軍においては旧式機である[MiG-21が未だ主力として多数配備されていたが](../Page/MiG-21_\(航空機\).md "wikilink")、それを急速に更新していった。生産開始当初は輸出も[Su-27より遙かに順調で](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")、[ワルシャワ条約機構](../Page/ワルシャワ条約機構.md "wikilink")各国の他、[アジア](../Page/アジア.md "wikilink")や[アフリカ](../Page/アフリカ.md "wikilink")を中心に多くの国で採用されたが、[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")以降、輸出面でも[スホーイ](../Page/スホーイ.md "wikilink")機の後塵を拝している。
 
@@ -345,7 +365,7 @@ MiG-29を使用する[展示飛行チームとして](../Page/曲技飛行隊.md
 
 [Category:ソ連・ロシアの戦闘機](https://ja.wikipedia.org/wiki/Category:ソ連・ロシアの戦闘機 "wikilink") [Category:ミコヤン・グレヴィッチ設計局の航空機](https://ja.wikipedia.org/wiki/Category:ミコヤン・グレヴィッチ設計局の航空機 "wikilink")
 
-1.  外側にR-73を各2発、内側にR-77を各1発搭載するのが通常装備となっている
+1.  外側にR-73を各2発、内側にR-27を各1発搭載するのが通常装備となっている
 2.  [軍事研究](https://ja.wikipedia.org/wiki/軍事研究 "wikilink")2007年8月「ロシア空軍戦闘機&攻撃機の戦力動向」
 3.  [](http://www.airwar.ru/enc/fighter/mig29.html)
 4.  [Russia opens criminal case over MiG fighters returned by Algeria](http://en.rian.ru/military_news/20090918/156171853.html)

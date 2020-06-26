@@ -77,7 +77,7 @@
 
 ## 外部リンク
 
-  - [ホンダ・VTEC解説ページ](http://www.honda.co.jp/tech/auto/engine/vtec/)
+  - [ホンダ・VTEC解説ページ](https://www.honda.co.jp/tech/auto/vtec/)
 
 [Category:往復動機関](https://ja.wikipedia.org/wiki/Category:往復動機関 "wikilink") [Category:自動車エンジン技術](https://ja.wikipedia.org/wiki/Category:自動車エンジン技術 "wikilink") [Category:本田技研工業](https://ja.wikipedia.org/wiki/Category:本田技研工業 "wikilink") [Category:本田技研工業の自動車技術](https://ja.wikipedia.org/wiki/Category:本田技研工業の自動車技術 "wikilink")
 

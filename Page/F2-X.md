@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - 今週の[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - 今週の[SMAP](../Page/SMAP.md "wikilink")
   - 1万人のジョーシキ\!（レポーター：[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")）
 
 <!-- end list -->

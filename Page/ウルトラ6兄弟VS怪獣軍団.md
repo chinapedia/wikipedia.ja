@@ -187,7 +187,7 @@
 [Category:ウルトラシリーズ映画作品](https://ja.wikipedia.org/wiki/Category:ウルトラシリーズ映画作品 "wikilink") [Category:1979年の映画](https://ja.wikipedia.org/wiki/Category:1979年の映画 "wikilink") [Category:伝説の生物を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:伝説の生物を題材とした映画作品 "wikilink") [Category:サルを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:サルを題材とした映画作品 "wikilink") [Category:タイを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:タイを舞台とした映画作品 "wikilink") [Category:日本とタイの合作映画](https://ja.wikipedia.org/wiki/Category:日本とタイの合作映画 "wikilink") [Category:松竹特撮映画](https://ja.wikipedia.org/wiki/Category:松竹特撮映画 "wikilink")
 
 1.
-2.  [安藤健二](../Page/安藤健二.md "wikilink")『封印作品の憂鬱』洋泉社より。
+2.  [安藤健二](../Page/安藤健二.md "wikilink")『封印作品の憂鬱』洋泉社 p.218。
 3.
 4.  [各国で泥仕合？　長期戦に…円谷プロ敗訴の真相とは](http://www.zakzak.co.jp/entertainment/ent-news/news/20101001/enn1010011631017-n1.htm) - ZAKZAK
 5.

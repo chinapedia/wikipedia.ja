@@ -28,13 +28,15 @@
   - 1994年12月12日：オウム真理教による[会社員VX殺害事件](../Page/会社員VX殺害事件.md "wikilink")発生。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月4日：オウム真理教による[オウム真理教被害者の会会長VX襲撃事件](../Page/オウム真理教被害者の会会長VX襲撃事件.md "wikilink")発生。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月29日：[化学兵器禁止条約](../Page/化学兵器禁止条約.md "wikilink")（Chemical Weapons Convention、**CWC**）が発効し、使用のみならず、製造・保有も禁じられた。2015年10月現在、同条約署名済み未批准国は[イスラエル](../Page/イスラエル.md "wikilink")、未署名国は[エジプト](../Page/エジプト.md "wikilink")、[南スーダン](../Page/南スーダン.md "wikilink")、[北朝鮮](../Page/朝鮮民主主義人民共和国.md "wikilink")\[2\]。
-  - 2017年2月13日：[金正男暗殺事件](https://ja.wikipedia.org/wiki/金正男暗殺事件 "wikilink")が[クアラルンプール国際空港](../Page/クアラルンプール国際空港.md "wikilink")で発生。[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")警察の解剖結果により、殺害にVXガスが使用されたことが判明\[3\]。オウム真理教の元幹部であり、死刑確定者（2018年執行)の[中川智正](../Page/中川智正.md "wikilink")氏がマレーシア警察から[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")を通じて、中毒症状について照会を受ける\[4\]。
+  - 2017年2月13日：[金正男暗殺事件](https://ja.wikipedia.org/wiki/金正男暗殺事件 "wikilink")が[クアラルンプール国際空港](../Page/クアラルンプール国際空港.md "wikilink")で発生。[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")警察の解剖結果により、殺害にVXガスが使用されたことが判明\[3\]。オウム真理教の元幹部であり、死刑確定者（2018年執行)の[中川智正](../Page/中川智正.md "wikilink")がマレーシア警察から[日本国政府](https://ja.wikipedia.org/wiki/日本国政府 "wikilink")を通じて、中毒症状について照会を受ける\[4\]。
 
 ## 製造法
 
 VXガスは[エステル交換反応](https://ja.wikipedia.org/wiki/エステル交換反応 "wikilink")を通して得られる。
 
-[三塩化リン](../Page/三塩化リン.md "wikilink")をメチル化することでメチル亜ホスホン酸二塩化物とし、これに[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")を作用させメチル亜ホスホン酸ジエチルとする。*N*,*N*-ジイソプロピルアミノエタノールを作用させることで[エステル交換反応](https://ja.wikipedia.org/wiki/エステル交換反応 "wikilink")により[イソプロピルアミノエチルメチル亜ホスホン酸エステル](https://ja.wikipedia.org/wiki/イソプロピルアミノエチルメチル亜ホスホン酸エステル "wikilink")（[QL](https://ja.wikipedia.org/wiki/QL "wikilink")）とする。最後に、この[前駆体](https://ja.wikipedia.org/wiki/前駆体 "wikilink")を[硫黄](../Page/硫黄.md "wikilink")と反応させて70 ℃以上で加熱すると、チオホスホン酸から[異性化](../Page/異性化.md "wikilink")が起きVXガスが得られる。 [400px](https://ja.wikipedia.org/wiki/ファイル:VX_TransesterProcess.svg "wikilink")
+[三塩化リン](../Page/三塩化リン.md "wikilink")をメチル化することでメチル亜ホスホン酸二塩化物とし、これに[エタノール](https://ja.wikipedia.org/wiki/エタノール "wikilink")を作用させメチル亜ホスホン酸ジエチルとする。*N*,*N*-ジイソプロピルアミノエタノールを作用させることで[エステル交換反応](https://ja.wikipedia.org/wiki/エステル交換反応 "wikilink")により[イソプロピルアミノエチルメチル亜ホスホン酸エステル](https://ja.wikipedia.org/wiki/イソプロピルアミノエチルメチル亜ホスホン酸エステル "wikilink")（[QL](https://ja.wikipedia.org/wiki/QL "wikilink")）とする。最後に、この[前駆体](https://ja.wikipedia.org/wiki/前駆体 "wikilink")を[硫黄](../Page/硫黄.md "wikilink")と反応させて70 ℃以上で加熱すると、チオホスホン酸から[異性化](../Page/異性化.md "wikilink")が起きVXガスが得られる。
+
+[600px](https://ja.wikipedia.org/wiki/file:VX_TransesterProcess.svg "wikilink")
 
 ## 加溶媒分解
 
@@ -44,19 +46,28 @@ VXガスで汚染された物を洗浄するには、加溶媒分解を利用し
 
 1つは[水酸化ナトリウム](../Page/水酸化ナトリウム.md "wikilink")の濃厚水溶液を使用する方法で、VXガスと反応するとP-O結合とP-S結合が切れて毒性の低い化合物に分解される。
 
-もう1つは[過酸化水素](../Page/過酸化水素.md "wikilink")を使用する方法で、VXガスと反応するとP-O結合が切れて2つの化合物に分解されるが、分解物は強い毒性を保持している。しかし、不安定な物質であるため、直射日光に晒すなどして自然[分解を待つことで無毒化できる](https://ja.wikipedia.org/wiki/化学分解 "wikilink")。
+もう1つは[過酸化水素](../Page/過酸化水素.md "wikilink")を使用する方法で、VXガスと反応するとP-O結合が切れて2つの化合物に分解されるが、分解物は[EA-2192](https://ja.wikipedia.org/wiki/EA-2192 "wikilink")と呼ばれる物質であり、強い毒性を保持している。しかし、不安定な物質であるため、直射日光に晒すなどして自然[分解を待つことで無毒化できる](https://ja.wikipedia.org/wiki/化学分解 "wikilink")。
 
 <table>
+<thead>
+<tr class="header">
+<th><p>P-S切断</p></th>
+<th><p>P-O切断</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:VX-solvolysis-P-S-2D-skeletal.png" title="fig:VX-solvolysis-P-S-2D-skeletal.png">VX-solvolysis-P-S-2D-skeletal.png</a></p></td>
-<td><p><strong>P-S切断</strong><br />
-<a href="../Page/水酸化ナトリウム.md" title="wikilink">水酸化ナトリウム</a>は、2つの方向でVXと反応する。それはVXのP-S結合を切り離すことができる。そして、2つの毒性の低い物質となる。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/file:VX-solvolysis-P-S-2D-skeletal.png" title="wikilink">400px</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/file:VX-solvolysis-P-O-2D-skeletal.png" title="wikilink">400px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:VX-solvolysis-P-O-2D-skeletal.png" title="fig:VX-solvolysis-P-O-2D-skeletal.png">VX-solvolysis-P-O-2D-skeletal.png</a></p></td>
-<td><p><strong>P-O切断</strong><br />
-<a href="../Page/過酸化水素.md" title="wikilink">過酸化水素</a>と反応するとP-O結合が切れて2つの化合物に分解されるが、赤字で示されている側は強い毒性を保持している。</p></td>
+<td><p><a href="../Page/水酸化ナトリウム.md" title="wikilink">水酸化ナトリウム</a>は、2つの方向でVXと反応する。<br />
+それはVXのP-S結合を切り離すことができる。<br />
+そして、2つの毒性の低い物質となる。</p></td>
+<td><p><a href="../Page/過酸化水素.md" title="wikilink">過酸化水素</a>と反応すると、<br />
+P-O結合が切れて2つの化合物に分解されるが、<br />
+赤字で示されている側は<a href="https://ja.wikipedia.org/wiki/EA-2192" title="wikilink">EA-2192</a>と呼ばれる物質であり、<br />
+強い毒性を保持している。</p></td>
 </tr>
 </tbody>
 </table>

@@ -11,7 +11,7 @@
 
 ## メンバー
 
-  - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）リーダー
+  - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（元[モーニング娘。](../Page/モーニング娘。.md "wikilink")）リーダー
   - [梅田えりか](../Page/梅田えりか.md "wikilink")（ハロー\!プロジェクト・キッズ）後の[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")
   - [清水佐紀](../Page/清水佐紀.md "wikilink")（ハロー\!プロジェクト・キッズ）後の[Berryz工房](../Page/Berryz工房.md "wikilink")
   - [矢島舞美](../Page/矢島舞美.md "wikilink")（ハロー\!プロジェクト・キッズ）後の℃-ute
@@ -74,7 +74,7 @@
   - [須藤茉麻](../Page/須藤茉麻.md "wikilink") （Berrryz工房）
   - [和田彩花](https://ja.wikipedia.org/wiki/和田彩花 "wikilink") （[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）
   - [小川紗季](../Page/小川紗季.md "wikilink") （スマイレージ）
-  - [新垣里沙](../Page/新垣里沙.md "wikilink") （[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+  - [新垣里沙](../Page/新垣里沙.md "wikilink") （[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
   - [久住小春](../Page/久住小春.md "wikilink") （モーニング娘。）
 
 ### 略歴

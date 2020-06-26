@@ -15,7 +15,7 @@
 
 ### 一般向け漫画
 
-  - [CLOTH ROAD](../Page/CLOTH_ROAD.md "wikilink")（脚本：[倉田英之](../Page/倉田英之.md "wikilink")、『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』連載、全11巻）
+  - [CLOTH ROAD](../Page/CLOTH_ROAD.md "wikilink")（脚本：[倉田英之](../Page/倉田英之.md "wikilink")、『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』連載、全11巻）
   - [CAT'S WORLD](https://ja.wikipedia.org/wiki/CAT'S_WORLD "wikilink")（『[月刊コミックドラゴン](../Page/月刊コミックドラゴン.md "wikilink")』連載、[角川書店](../Page/角川書店.md "wikilink")刊、全2巻）
   - Food Girls（『[マジカルキュート](https://ja.wikipedia.org/wiki/マジカルキュート "wikilink")』連載、全1巻）
   - [TAIL STAR](https://ja.wikipedia.org/wiki/TAIL_STAR "wikilink")（『ウルトラジャンプ』連載、2012-2014年、全4巻）

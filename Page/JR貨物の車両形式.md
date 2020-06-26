@@ -56,6 +56,7 @@ JR貨物に所属する車両の新製・廃車・改造などのについては
 <!-- end list -->
 
   - [DF200形](../Page/JR貨物DF200形ディーゼル機関車.md "wikilink")（0・50・100・200・900番台）
+  - [DD200形](https://ja.wikipedia.org/wiki/JR貨物DD200形ディーゼル機関車 "wikilink")（0・900番台）
 
 ### ハイブリッド機関車
 

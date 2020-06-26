@@ -574,7 +574,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
 #### 過去
 
-  - [桜っ子クラブ](../Page/桜っ子クラブ.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")ほか、[内海光司](../Page/内海光司.md "wikilink")・[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")と共演）
+  - [桜っ子クラブ](../Page/桜っ子クラブ.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")ほか、[内海光司](../Page/内海光司.md "wikilink")・[SMAP](../Page/SMAP.md "wikilink")と共演）
   - [クイズ\!年の差なんて](../Page/クイズ!年の差なんて.md "wikilink")（1992年5月 - 1994年9月、フジテレビ系）
   - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（1993年10月 - 1994年12月、[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
   - [マジカル頭脳パワー\!\!](../Page/マジカル頭脳パワー!!.md "wikilink")（1995年2月 - 1998年3月、日本テレビ系）
@@ -647,7 +647,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 
   - ハローマックミュージカル「ぼくのシンデレラ」（1990年、[青山劇場](../Page/青山劇場.md "wikilink")） - 城島茂・国分太一・松岡昌宏・小島啓の4名で出演。
   - [PLAYZONE'91 SHOCK](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'91_SHOCK "wikilink")（1991年7月4日 - 8月14日、青山劇場 / 大阪フェスティバルホール） - 城島茂・山口達也・国分太一・松岡昌宏・小島啓の5名で出演。なお、長瀬智也も[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")として出演しており、大阪公演では足の怪我で欠席していた小島啓の代役も務めた。
-  - [聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")ミュージカル（1991年8月15日 - 9月1日、青山劇場） - 同じく城島茂・山口達也・国分太一・松岡昌宏・小島啓の5名で出演。 [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")主演のミュージカルで、5人は黄金聖闘士役を演じた。長瀬智也も[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")として出演している。
+  - [聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")ミュージカル（1991年8月15日 - 9月1日、青山劇場） - 同じく城島茂・山口達也・国分太一・松岡昌宏・小島啓の5名で出演。 [SMAP](../Page/SMAP.md "wikilink")主演のミュージカルで、5人は黄金聖闘士役を演じた。長瀬智也も[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")として出演している。
   - [PLAYZONE'92 さらばDiary](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'92_さらばDiary "wikilink")（1992年7月 - 8月、青山劇場 / 大阪フェスティバルホール） - 同じく城島茂・山口達也・国分太一・松岡昌宏・小島啓の5名で出演。長瀬智也もミュージカルのみでのサポートメンバーとして参加。
   - [PLAYZONE'93 WINDOW](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'93_WINDOW "wikilink")（1993年7月 - 8月、青山劇場 / 大阪フェスティバルホール） - 同じく城島茂・山口達也・国分太一・松岡昌宏・小島啓の5名で出演。長瀬智也もミュージカルのみでのサポートメンバーとして参加。
 
@@ -714,7 +714,7 @@ CDデビューから2か月後の[1994年](../Page/1994年.md "wikilink")[11月2
 <td><p>5</p></td>
 <td><p>Love &amp; Peace</p></td>
 <td><p>02/25</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a></p></td>
+<td><p><a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

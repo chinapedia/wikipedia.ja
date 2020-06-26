@@ -1,7 +1,7 @@
 > この記事は[Microsoft Windows XP](https://ja.wikipedia.org/wiki/Microsoft_Windows_XP)から翻訳されています。
 
 
-**Windows XP**（ウィンドウズ エックスピー\[1\]）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[2001年](../Page/2001年.md "wikilink")に発表した[Windowsシリーズに属する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Dell_Inspiron_1300.jpg "wikilink")（2005年）\]\] **Windows XP**（ウィンドウズ エックスピー\[1\]）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[2001年](../Page/2001年.md "wikilink")に発表した[Windowsシリーズに属する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) である。
 
 XPは「経験、体験」を意味するe**xp**erienceに由来する\[2\]。開発時の[コードネーム](../Page/コードネーム.md "wikilink")は**Whistler**（ウィスラー）と呼ばれていた\[3\]。
 
@@ -62,7 +62,7 @@ Windows XPの発売以前、Windowsは一般家庭向けで[Windows 3.1由来の
 ### 市場限定版
 
   - Starter Edition
-    [開発途上国](../Page/開発途上国.md "wikilink")向けのエディションで、2004年10月ごろから各国語版が段階的に試験発売された。日本語版は提供されていない。対象国は低国民所得がゆえに[海賊版](https://ja.wikipedia.org/wiki/海賊版 "wikilink")が横行しており、その対抗策として廉価で提供されている。主要エディションに比して廉価で提供している理由として、同時に開けるウィンドウ数が3つまでであることや、[画面解像度](../Page/画面解像度.md "wikilink")が[SVGA](../Page/Super_Video_Graphics_Array.md "wikilink")（800×600）までであること、ネットワーク共有機能の制限やマルチアカウントが使用できないなどの大幅な制限が加えられている。Home Editionなどへのアップグレードは提供されていない。[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")（[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")）、[タイ語](../Page/タイ語.md "wikilink")などの言語版をはじめ複数のローカライズ版がリリースされており、それぞれ異なった壁紙やスクリーン セーバーなどが収録されている。
+    [開発途上国](../Page/開発途上国.md "wikilink")向けのエディションで、2004年10月ごろから各国語版が段階的に試験発売された。日本語版は提供されていない。対象国は低国民所得がゆえに[海賊版](../Page/海賊版.md "wikilink")が横行しており、その対抗策として廉価で提供されている。主要エディションに比して廉価で提供している理由として、同時に開けるウィンドウ数が3つまでであることや、[画面解像度](../Page/画面解像度.md "wikilink")が[SVGA](../Page/Super_Video_Graphics_Array.md "wikilink")（800×600）までであること、ネットワーク共有機能の制限やマルチアカウントが使用できないなどの大幅な制限が加えられている。Home Editionなどへのアップグレードは提供されていない。[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")（[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")）、[タイ語](../Page/タイ語.md "wikilink")などの言語版をはじめ複数のローカライズ版がリリースされており、それぞれ異なった壁紙やスクリーン セーバーなどが収録されている。
 
   - Edition N
 

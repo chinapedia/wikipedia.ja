@@ -46,6 +46,6 @@
 
 ## 外国語の原語表記
 
-  - [マック (ゲール語)は](../Page/マック_\(ゲール語\).md "wikilink")、アイルランド系の[姓](../Page/姓.md "wikilink")の一部に使われる[語または](https://ja.wikipedia.org/wiki/単語 "wikilink")[接頭辞](../Page/接頭辞.md "wikilink")([父称](https://ja.wikipedia.org/wiki/父称 "wikilink"))で、[ゲール語](../Page/ゲール語.md "wikilink")で「[息子](https://ja.wikipedia.org/wiki/息子 "wikilink")」という意味。MacDonald（ドナルドの息子の意）など。McDonaldの様にMcと略されることもある（意味は同じ）。
+  - [マック (ゲール語)は](../Page/マック_\(ゲール語\).md "wikilink")、アイルランド系の[姓](../Page/姓.md "wikilink")の一部に使われる[語または](https://ja.wikipedia.org/wiki/単語 "wikilink")[接頭辞](../Page/接頭辞.md "wikilink")([父称](https://ja.wikipedia.org/wiki/父称 "wikilink"))で、[ゲール語](../Page/ゲール語.md "wikilink")で「[息子](../Page/息子.md "wikilink")」という意味。MacDonald（ドナルドの息子の意）など。McDonaldの様にMcと略されることもある（意味は同じ）。
 
 [es:MAC](https://ja.wikipedia.org/wiki/es:MAC "wikilink") [en:MAC](https://ja.wikipedia.org/wiki/en:MAC "wikilink") [fr:MAC](https://ja.wikipedia.org/wiki/fr:MAC "wikilink") [it:MAC](https://ja.wikipedia.org/wiki/it:MAC "wikilink")

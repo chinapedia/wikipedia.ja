@@ -1,8 +1,6 @@
 > この記事は[LP](https://ja.wikipedia.org/wiki/LP)から翻訳されています。
 
 
-**LP**
-
   - LPガス（[液化石油ガス](../Page/液化石油ガス.md "wikilink")、**L**iquefied **p**etroleum gas)の略称。
   - [LP盤](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")（**L**ong **P**laying）の略称。
   - [線形計画法](https://ja.wikipedia.org/wiki/線形計画法 "wikilink")（**l**inear **p**rogramming ）の略称。
@@ -21,6 +19,7 @@
   - [{{math](https://ja.wikipedia.org/wiki/Lp空間 "wikilink") - 関数空間の一つ。
   - \(\ell^p\) - [数列空間](https://ja.wikipedia.org/wiki/数列空間 "wikilink")。
   - lp - [ハンガリアン記法](../Page/ハンガリアン記法.md "wikilink")において、ポインタであることを表す。
+  - [LP](https://ja.wikipedia.org/wiki/LP_\(歌手\) "wikilink") - ローラ・ペルゴリッジ(アメリカのシンガーソングライター)のステージ名、略称。
   - LP - [リンキン・パーク](https://ja.wikipedia.org/wiki/リンキン・パーク "wikilink")(アメリカのロックバンド)の略称
   - [ランボルギーニ](../Page/ランボルギーニ.md "wikilink")の副車名で、エンジンの後方搭載を意味する「Longitudinale Posteriore (後方縦置き)」の略。
   - [東京空港交通](../Page/東京空港交通.md "wikilink")の[子会社](../Page/子会社.md "wikilink")「[リムジン・パッセンジャーサービス](https://ja.wikipedia.org/wiki/リムジン・パッセンジャーサービス "wikilink")」(**L**imousine **P**assenger Service)の略称。

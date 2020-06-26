@@ -155,17 +155,17 @@
 
   - 鉄道
 
-:\* [下関総合車両所](https://ja.wikipedia.org/wiki/下関総合車両所 "wikilink") (Shimonoseki) - [JR西日本の車両工場](../Page/西日本旅客鉄道.md "wikilink")
+:\*[下関総合車両所](https://ja.wikipedia.org/wiki/下関総合車両所 "wikilink") (Shimonoseki) - [JR西日本の車両工場](../Page/西日本旅客鉄道.md "wikilink")
 
 :\* [仙台市地下鉄](https://ja.wikipedia.org/wiki/仙台市地下鉄 "wikilink") (Sendai Subway)
 
-:\* [住友金属工業](../Page/住友金属工業.md "wikilink")製のボルスタレス台車の形式に冠される記号
+:\*[住友金属工業](../Page/住友金属工業.md "wikilink")製のボルスタレス台車の形式に冠される記号
 
-:\* [車両整備協会](https://ja.wikipedia.org/wiki/車両整備協会 "wikilink")
+:\*[車両整備協会](https://ja.wikipedia.org/wiki/車両整備協会 "wikilink")
 
-:\* [西武新宿線](../Page/西武新宿線.md "wikilink")・[拝島線の](https://ja.wikipedia.org/wiki/西武拝島線 "wikilink")[路線記号](../Page/駅ナンバリング.md "wikilink")。
+:\*[西武新宿線](../Page/西武新宿線.md "wikilink")・[拝島線の](https://ja.wikipedia.org/wiki/西武拝島線 "wikilink")[路線記号](../Page/駅ナンバリング.md "wikilink")。
 
-:\* [するがシャトル](https://ja.wikipedia.org/wiki/するがシャトル "wikilink") (Suruga Shuttle) の略称及びそれに運用される編成を識別する記号
+:\*[するがシャトル](https://ja.wikipedia.org/wiki/するがシャトル "wikilink") (Suruga Shuttle) の略称及びそれに運用される編成を識別する記号
 
 :\* ATS-SS - [JR四国で使用されている](../Page/四国旅客鉄道.md "wikilink")[ATSの型名](https://ja.wikipedia.org/wiki/自動列車停止装置#ATS-S改良形（ATS-Sx形） "wikilink")
 

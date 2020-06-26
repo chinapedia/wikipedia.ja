@@ -197,7 +197,7 @@
   - [21エモン](../Page/21エモン.md "wikilink")（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
   - [ウメ星デンカ](../Page/ウメ星デンカ.md "wikilink")（1968年）
   - ベラボー (1968年 - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"))
-  - [ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1991年](../Page/1991年.md "wikilink")）
+  - [ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん "wikilink")（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - [1996年](../Page/1996年.md "wikilink")）
   - [ポコニャン](../Page/ポコニャン.md "wikilink")（1970年 - 1974年、[1975年](../Page/1975年.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")）
   - [ドビンソン漂流記](https://ja.wikipedia.org/wiki/ドビンソン漂流記 "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - [1972年](../Page/1972年.md "wikilink")）
   - [仙べえ](https://ja.wikipedia.org/wiki/仙べえ "wikilink") (1971年 - 1972年)

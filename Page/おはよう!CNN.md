@@ -40,7 +40,7 @@
 <td><p>1984年4月2日</p></td>
 <td><p>1985年3月29日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鮫島慎司" title="wikilink">鮫島慎司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山上万恵美" title="wikilink">山上万恵美</a></p></td>
+<td><p><a href="../Page/山上万恵美.md" title="wikilink">山上万恵美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1985年4月1日</p></td>

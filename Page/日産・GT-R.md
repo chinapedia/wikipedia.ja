@@ -69,7 +69,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Gtr-door-opener.jpg "wikilink") 空力性能を考慮したアウタードアハンドルは収納式で、外側からドアを開くにはハンドルの車両後方側を押し込んで起き上がる前方部を引く。[フューエルリッドは電磁的プッシュリフター方式でリッドを押して開く](../Page/燃料タンク_\(自動車\).md "wikilink")。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:GT-Rinterior.jpg "wikilink") 日産車は車名の書体を全車型とも[NE-01](https://ja.wikipedia.org/wiki/NE-01 "wikilink")に統一しているが、GT-Rは日産車として特別な存在であることから[フェアレディZなどと同様に専用書体を採っている](../Page/日産・フェアレディZ.md "wikilink")。旧来の[スカイラインGT-R](https://ja.wikipedia.org/wiki/スカイラインGT-R "wikilink")に同じく赤色の「R」が「GT」の下に位置する[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")が、車両後部、[フロントグリル](https://ja.wikipedia.org/wiki/フロントグリル "wikilink")、[ステアリング](../Page/ステアリング.md "wikilink")、[インテリジェントキー](https://ja.wikipedia.org/wiki/インテリジェントキー "wikilink")などに配置されている\[25\]。{{-}}
+[thumb](https://ja.wikipedia.org/wiki/ファイル:GT-Rinterior.jpg "wikilink") 日産車は車名の書体を全車型とも[NE-01](https://ja.wikipedia.org/wiki/NE-01 "wikilink")に統一しているが、GT-Rは日産車として特別な存在であることから[フェアレディZなどと同様に専用書体を採っている](../Page/日産・フェアレディZ.md "wikilink")。旧来の[スカイラインGT-R](https://ja.wikipedia.org/wiki/スカイラインGT-R "wikilink")に同じく赤色の「R」が「GT」の下に位置する[ロゴタイプ](../Page/ロゴタイプ.md "wikilink")が、車両後部、[フロントグリル](../Page/フロントグリル.md "wikilink")、[ステアリング](../Page/ステアリング.md "wikilink")、[インテリジェントキー](https://ja.wikipedia.org/wiki/インテリジェントキー "wikilink")などに配置されている\[25\]。{{-}}
 
 ## 2019年現在のグレード
 

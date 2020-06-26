@@ -138,7 +138,7 @@
 <tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島中央テレビ.md" title="wikilink">福島中央テレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Nippon_News_Network" title="wikilink">NNN</a>/ANN</p></td>
+<td><p><a href="../Page/日本ニュースネットワーク.md" title="wikilink">NNN</a>/ANN</p></td>
 <td><p>日曜のみ、1981年9月27日まで[7]</p></td>
 </tr>
 <tr class="odd">
@@ -163,7 +163,7 @@
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/テレビ信州.md" title="wikilink">テレビ信州</a></p></td>
-<td><p>ANN/NNN</p></td>
+<td><p>NNN/ANN</p></td>
 <td><p>1980年10月開局から</p></td>
 </tr>
 <tr class="odd">
@@ -277,6 +277,6 @@
 6.  土日は9月27日に終了。
 7.  クロスネット時代、月曜日-土曜日は『[NNN JUST NEWS](../Page/NNN_JUST_NEWS.md "wikilink")』をネット。
 8.  クロスネット時代、月曜日-金曜日は『[FNNニュースレポート6:00](../Page/FNNニュースレポート6:00.md "wikilink")』を、土曜日は『[FNNニュースレポート5:30](../Page/FNNニュースレポート5:30.md "wikilink")』をネット。
-9.  当時は[NNN単独加盟だったのと](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、[朝日新聞社](../Page/朝日新聞社.md "wikilink")が出資していた関係上、[番販扱いで放送していた](../Page/番組販売.md "wikilink")。また、全国的に日曜のANN夕刊ニュースの題が『朝日新聞テレビ夕刊』だった時代から放送していた。
+9.  当時は[NNN単独加盟だったのと](../Page/日本ニュースネットワーク.md "wikilink")、[朝日新聞社](../Page/朝日新聞社.md "wikilink")が出資していた関係上、[番販扱いで放送していた](../Page/番組販売.md "wikilink")。また、全国的に日曜のANN夕刊ニュースの題が『朝日新聞テレビ夕刊』だった時代から放送していた。
 10. なお、日曜版の前身でクロスネット時代に放送していた『[朝日新聞テレビ夕刊](../Page/朝日新聞テレビ夕刊.md "wikilink")』は、『[FNN日曜夕刊](../Page/FNNテレビ土曜・日曜夕刊.md "wikilink")』の生放送後に、ローカルニュース「OHK岡山県民ニュース」を挟み[撮って出し](../Page/撮って出し.md "wikilink")（[ニアライブ](../Page/ニアライブ.md "wikilink")）で放送が行われていた。
 11. RABがクロスネットだった時代、ANNニュースは昼と日曜朝のみの放送だった。

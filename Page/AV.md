@@ -13,7 +13,6 @@
 <!-- end list -->
 
   - **[オーディオ・ビジュアル](https://ja.wikipedia.org/wiki/オーディオ・ビジュアル "wikilink")** () - [音響](https://ja.wikipedia.org/wiki/音響 "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")に関する技術や装置。
-  - **[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")**(） - [性的欲求](https://ja.wikipedia.org/wiki/性的欲求 "wikilink")を満たすための映像作品。[和製英語](../Page/和製英語.md "wikilink")。(英：[Pornographic film](https://ja.wikipedia.org/wiki/:en:Pornographic_film "wikilink"))
   - **アニマルビデオ** - 動物を題材にした動画やイラスト作品を表す[インターネットスラング](../Page/インターネットスラング.md "wikilink")。
   - **[オーグメンテッドバーチャル](https://ja.wikipedia.org/wiki/オーグメンテッドバーチャル "wikilink")** () - 拡張仮想感。
   - **[打率](../Page/打率.md "wikilink")** () - [野球](../Page/野球.md "wikilink")・[ソフトボール](../Page/ソフトボール.md "wikilink")の打者の指標。「AVG」とも略される。

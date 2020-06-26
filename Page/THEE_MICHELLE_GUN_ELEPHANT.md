@@ -90,7 +90,7 @@
 
 細身の[モッズ](../Page/モッズ.md "wikilink")[スーツ](https://ja.wikipedia.org/wiki/スーツ "wikilink")を衣装とし、[ライブにおいてはほぼ欠かさず着用している](../Page/演奏会.md "wikilink")。スーツは都内にある「洋服の並木」という[洋品店](https://ja.wikipedia.org/wiki/洋品店 "wikilink")でオーダーメイドされたものを着用していた\[4\]。テレビ等のインタビューでは、革ジャンや黒を基調とした服装も多かった。ライブの終盤等では暑さもあり、背広を脱いだワイシャツ姿やTシャツ姿で演奏することも多い。
 
-『[カサノバ・スネイク](https://ja.wikipedia.org/wiki/カサノバ・スネイク "wikilink")』から『[ロデオ・タンデム・ビート・スペクター](../Page/ロデオ・タンデム・ビート・スペクター.md "wikilink")』をリリースするまで、チバが髪型をオールバックにしてメディアに登場することがあり、その姿はアルバムのジャケット等で確認することが出来る。DVD『GOD JAZZ TIME』に収録されたWORLD RODEO TANDEM BEAT SPECTER TOURでは、ギア・ブルーズ期までの髪型へ戻っている。
+『[カサノバ・スネイク](https://ja.wikipedia.org/wiki/カサノバ・スネイク "wikilink")』から『[ロデオ・タンデム・ビート・スペクター](../Page/ロデオ・タンデム・ビート・スペクター.md "wikilink")』をリリースするまで、チバが髪型をオールバックにしてメディアに登場することがあり、その姿はアルバムのジャケット等で確認することが出来る。DVD『GOD JAZZ TIME』に収録されたWORLD RODEO TANDEM BEAT SPECTER TOURでは、ギヤ・ブルーズ期までの髪型へ戻っている。
 
 ## 来歴
 

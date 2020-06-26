@@ -1,7 +1,7 @@
 > この記事は[イブニングネットワーク \(NHK総合\)](https://ja.wikipedia.org/wiki/イブニングネットワーク_\(NHK総合\))から翻訳されています。
 
 
-『**イブニングネットワーク**』は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送されたローカル](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+『**イブニングネットワーク**』は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送されたローカル](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。裏番組であったＣＸ系「ＦＮＮスーパータイム」のＮＨＫ総合テレビ版とも考えられている。
 
 ## 概要
 

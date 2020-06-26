@@ -1,7 +1,7 @@
 > この記事は[YKK APサッカー部](https://ja.wikipedia.org/wiki/YKK_APサッカー部)から翻訳されています。
 
 
-**YKK APサッカー部**（ワイケイケイ・エイピー・サッカーぶ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")を本拠地としていた。[北陸電力サッカー部アローズ北陸](https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸 "wikilink")と共に、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[カターレ富山](../Page/カターレ富山.md "wikilink")の前身となったクラブである。
+**YKK APサッカー部**（ワイケイケイ・エイピー・サッカーぶ）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")を本拠地としていた。[北陸電力サッカー部アローズ北陸](../Page/北陸電力サッカー部アローズ北陸.md "wikilink")と共に、[日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）に加盟する[カターレ富山](../Page/カターレ富山.md "wikilink")の前身となったクラブである。
 
 ## 概要・歴史
 
@@ -11,7 +11,7 @@
 
 [2004年](../Page/2004年.md "wikilink")からYKKから同社子会社の[YKK APのサッカー部に移行し](../Page/YKK_AP.md "wikilink")、監督に元[セレッソ大阪](../Page/セレッソ大阪.md "wikilink")の[楚輪博](../Page/楚輪博.md "wikilink")を迎えた。[2005年](../Page/2005年.md "wikilink")は20勝4分6敗で過去最高の2位となった。[2006年](../Page/2006年.md "wikilink")、[第86回天皇杯全日本サッカー選手権大会](../Page/第86回天皇杯全日本サッカー選手権大会.md "wikilink")3回戦で[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")に勝利を収めた。
 
-[2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")、[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")を本拠地とする[北陸電力サッカー部アローズ北陸](https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸 "wikilink")と2008年度より統合し、富山県サッカー協会が提唱する「富山県民サッカークラブチーム」構想に参画すると発表した\[2\]。11月にチーム名が[カターレ富山](../Page/カターレ富山.md "wikilink")に決定した。
+[2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")、[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")を本拠地とする[北陸電力サッカー部アローズ北陸](../Page/北陸電力サッカー部アローズ北陸.md "wikilink")と2008年度より統合し、富山県サッカー協会が提唱する「富山県民サッカークラブチーム」構想に参画すると発表した\[2\]。11月にチーム名が[カターレ富山](../Page/カターレ富山.md "wikilink")に決定した。
 
 ## チーム成績・歴代監督
 
@@ -630,7 +630,7 @@
 <td><p>8,093</p></td>
 <td></td>
 <td><p>2,477</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸" title="wikilink">アローズ</a></p></td>
+<td><p><a href="../Page/北陸電力サッカー部アローズ北陸.md" title="wikilink">アローズ</a></p></td>
 <td><p><a href="../Page/富山県五福公園陸上競技場.md" title="wikilink">五福</a></p></td>
 <td></td>
 <td><p>198</p></td>
@@ -698,7 +698,7 @@
 <td><p><a href="../Page/ホンダロックSC.md" title="wikilink">ロック</a></p></td>
 <td><p>桃山</p></td>
 <td><p>247</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱自動車水島FC" title="wikilink">三菱水島</a></p></td>
+<td><p><a href="../Page/三菱自動車水島FC.md" title="wikilink">三菱水島</a></p></td>
 <td><p>魚津</p></td>
 <td><p>731</p></td>
 <td><p>17</p></td>
@@ -737,7 +737,7 @@
 
 ## 関連項目
 
-  - [北陸電力サッカー部アローズ北陸](https://ja.wikipedia.org/wiki/北陸電力サッカー部アローズ北陸 "wikilink")
+  - [北陸電力サッカー部アローズ北陸](../Page/北陸電力サッカー部アローズ北陸.md "wikilink")
   - [:Category:YKK APサッカー部の選手](https://ja.wikipedia.org/wiki/Category:YKK_APサッカー部の選手 "wikilink")
 
 ## 参考文献

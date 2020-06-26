@@ -11,7 +11,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:TBS_headquarters_2013.JPG "wikilink")
 
-他の[民放](../Page/民間放送.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")系のBSデジタル放送局と共に、[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に放送を開始。
+他の[民放](../Page/民間放送.md "wikilink")[キー局](../Page/キー局.md "wikilink")系のBSデジタル放送局と共に、[2000年](../Page/2000年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に放送を開始。
 
 [2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までの社名は『ビーエス・アイ』で、チャンネル名（サービス名）も『**BS-i**』と名乗っており、当初のBSジャパン（2018年10月1日からの[BSテレ東](../Page/BSテレビ東京.md "wikilink")）同様にキー局の名称が表に出ないサービスであった。翌[4月1日](../Page/4月1日.md "wikilink")に[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")の東京放送（TBS）が[認定放送持株会社](../Page/放送持株会社.md "wikilink")「[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")」（TBSHD）に移行・[商号](../Page/商号.md "wikilink")を変更したことを機に、商号とチャンネル名を変更した\[1\]。
 
@@ -283,9 +283,45 @@
 
 ## 主な番組
 
-### BS-TBS制作番組
+**ドラマ**
 
-#### 映画
+<table>
+<thead>
+<tr class="header">
+<th><p><small>番組名</small></p></th>
+<th><p><small>放送日時</small></p></th>
+<th><p><small>備考</small></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>ミステリー・セレクション</p></td>
+<td><p>月曜 - 金曜 9:59 - 11:55、 14:00 - 15:55<br />
+土曜 15:00 - 16:55<br />
+日曜 15:00 - 16:55、19:00 - 20:54</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/月曜名作劇場" title="wikilink">月曜名作劇場</a>』・『<a href="../Page/月曜ゴールデン.md" title="wikilink">月曜ゴールデン</a>』・『<a href="../Page/月曜ミステリー劇場.md" title="wikilink">月曜ミステリー劇場</a>』・『<a href="../Page/月曜ドラマスペシャル.md" title="wikilink">月曜ドラマスペシャル</a>』などで放送されたサスペンス作品の傑作選。<br />
+ほとんどの作品で<a href="https://ja.wikipedia.org/wiki/文字多重放送" title="wikilink">字幕放送を実施</a>。 土曜、日曜は開始<small>終了時間変動の場合あり。</small></p></td>
+</tr>
+<tr class="even">
+<td><p>韓国ドラマ・<a href="https://ja.wikipedia.org/wiki/恋するダルスン" title="wikilink">恋するダルスン</a></p></td>
+<td><p>月曜 - 金曜 13:00 - 13:55</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ドラマ・<a href="../Page/恋文_〜私たちが愛した男〜.md" title="wikilink">恋文 〜私たちが愛した男〜</a></p></td>
+<td><p>月曜 - 金曜 17:00 - 17:54</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>名作時代劇・<a href="https://ja.wikipedia.org/wiki/水戸黄門_(第22-28部)" title="wikilink">水戸黄門 第25部</a></p></td>
+<td><p>月曜 - 金曜 18:30 - 19:30</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+\====映画====
 
 | <small>番組名</small>     | <small>放送日時</small>             | <small>備考</small>                                                               |
 | ---------------------- | ------------------------------- | ------------------------------------------------------------------------------- |
@@ -306,6 +342,7 @@
 | 大人の週末旅行〜にっぽん探訪〜                                                              | 木曜 20:54 - 21:00     |                                            |
 | [世界の窓](https://ja.wikipedia.org/wiki/世界の窓 "wikilink")                        | 金曜 22:54 - 23:00     |                                            |
 | 日本列島！ハテナの旅                                                                   | 年数回 18:30 - 19:30    |                                            |
+| [勇壮\!博多山笠](https://ja.wikipedia.org/wiki/博多祇園山笠#テレビ放送 "wikilink")            | 7月15日 4:20 - 5:55    | RKB毎日放送制作                                  |
 | JNNふるさと紀行                                                                    | 不定期 土曜 10:00 - 11:00 | 稀に日曜放送の場合有り。                               |
 | 至福の京都ふらり散歩                                                                   | 不定期                  | 2020年3月30日までは月曜 18:00 - 18:24でレギュラー放送していた。 |
 | [湯のまち放浪記](https://ja.wikipedia.org/wiki/湯のまち放浪記 "wikilink")〜ちょいと、ひとっ風呂       | 不定期                  |                                            |
@@ -315,11 +352,50 @@
 
 #### 報道
 
-| 番組名                                                                           | 放送日時                  | 備考               |
-| ----------------------------------------------------------------------------- | --------------------- | ---------------- |
-| [サンデーニュース Bizスクエア](https://ja.wikipedia.org/wiki/サンデーニュース_Bizスクエア "wikilink") | 日曜 21:00 - 21:54      |                  |
-| [報道1930](https://ja.wikipedia.org/wiki/報道1930 "wikilink")                     | 月曜 - 金曜 19:30 - 20:54 | 不定期でダイジェスト版の放送有り |
-| [ドキュメントJ](https://ja.wikipedia.org/wiki/ドキュメントJ "wikilink")                   | 土曜 10:00 - 11:00      |                  |
+開局以来、TBSが運営する『[TBS NEWS](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")』の[同時放送を行っている](../Page/サイマル放送.md "wikilink")。かつては0時台・14時台・19時台にも放送していたが、現在は朝（2Kは月曜 - 土曜4時台、4Kは土曜・日曜5時台）のみに縮小されている。なお、BS-TBS4K開局後もそれとBS-TBS（2K）とのサイマル放送は原則実施していない。
+
+[2009年](../Page/2009年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")までは[画角情報が付加され](../Page/画角情報_\(テレビ放送\).md "wikilink")、旧来の[画面比](../Page/画面アスペクト比.md "wikilink")4:3のテレビでは自動的に[アップコンバートされていた](https://ja.wikipedia.org/wiki/映像のコンバート#アップコンバート "wikilink")（その他の番組は2007年[3月31日](../Page/3月31日.md "wikilink")まで）。翌週[9月21日](../Page/9月21日.md "wikilink")からは、[ハイビジョン](../Page/ハイビジョン.md "wikilink")[放送となっている](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")（一部を除く）。
+
+また、[報道特別番組](../Page/報道特別番組.md "wikilink")を同時放送することもある（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の発生時など）。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>番組名</p></th>
+<th><p>放送日時</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/サンデーニュース_Bizスクエア" title="wikilink">サンデーニュース Bizスクエア</a></p></td>
+<td><p>日曜 21:00 - 21:54</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/BS-TBSニュース" title="wikilink">朝一番BS-TBSニュース</a></p></td>
+<td><p>月曜 - 土曜 4:00 - 4:45[22][23]<br />
+（BS-TBS4Kでは放送休止時間帯にあたるため、従前通り2Kでのみ放送）</p></td>
+<td><p><a href="../Page/祝日.md" title="wikilink">正月三ヶ日は休止</a>。<br />
+2016年までは通常時の月曜に限り、3:00 - 5:00に<a href="../Page/J-LEAGUE_WIDE.md" title="wikilink">Jリーグ中継放送時は休止</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/報道1930" title="wikilink">報道1930</a></p></td>
+<td><p>月曜 - 金曜 19:30 - 20:54</p></td>
+<td><p>不定期でダイジェスト版の放送有り</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ドキュメントJ" title="wikilink">ドキュメントJ</a></p></td>
+<td><p>土曜 10:00 - 11:00</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TBSニュース</p></td>
+<td><p>土曜・日曜 5:00 - 5:30（4Kのみ）</p></td>
+<td><p>第3週または第4週は2Kでも放送する場合がある。</p></td>
+</tr>
+</tbody>
+</table>
 
 #### 教養
 
@@ -387,25 +463,26 @@
 
 #### エンタメ
 
-| 番組名                                                                                     | 放送日時               | 備考                                                                                                         |
-| --------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------- |
-| 千客万来！中尾家deごはん                                                                           | 日曜 12:00 - 12:30   | 2020年4月5日スタート                                                                                              |
-| [ねこ自慢](https://ja.wikipedia.org/wiki/ねこ自慢 "wikilink")                                   | 日曜 13:30 - 14:00   | 2019年4月7日スタート 2020年3月29日までは日曜 11:00 - 11:30で放送していた。                                                        |
-| [魔法のワンプレート](https://ja.wikipedia.org/wiki/魔法のワンプレート "wikilink")                         | 月曜 15:55 - 16:00   | [エスビー食品](../Page/エスビー食品.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink") |
-| [神泡探訪記～最高の一杯を求めて～](https://ja.wikipedia.org/wiki/神泡探訪記～最高の一杯を求めて～ "wikilink")           | 月曜 20:54 - 21:00   | 2019年4月1日スタート                                                                                              |
-| [吉田類の酒場放浪記](https://ja.wikipedia.org/wiki/吉田類の酒場放浪記 "wikilink")                         | 月曜 21:00 - 22:00   |                                                                                                            |
-| [町中華で飲ろうぜ](../Page/町中華で飲ろうぜ.md "wikilink")                                              | 月曜 23:00 - 24:00   | 2019年4月1日スタート                                                                                              |
-| [TIME is LIFE〜トキメキの時〜](https://ja.wikipedia.org/wiki/TIME_is_LIFE〜トキメキの時〜 "wikilink")   | 火曜 21:54 - 22:00   |                                                                                                            |
-| スイモクチャンネル                                                                               | 水・木曜 23:00 - 23:54 | 2020年4月1日スタート。 2020年4月8日から2020年5月7日までは新型コロナウイルスの感染拡大防止の為放送中止していた。                                          |
-| [釣り百景](https://ja.wikipedia.org/wiki/釣り百景 "wikilink")                                   | 木曜 22:00 - 22:54   |                                                                                                            |
-| [素晴らしい明日](https://ja.wikipedia.org/wiki/素晴らしい明日 "wikilink")                             | 金曜 20:54 - 21:00   | 2018年10月5日スタート                                                                                             |
-| [おんな酒場放浪記](https://ja.wikipedia.org/wiki/おんな酒場放浪記 "wikilink")                           | 金曜 23:00 - 24:00   | 『吉田類の酒場放浪記』の姉妹番組にあたる                                                                                       |
-| [BS-TBSエンタメ情報市場\!](https://ja.wikipedia.org/wiki/BS-TBSエンタメ情報市場! "wikilink")            | 金曜 27:00 - 27:30   | 2019年4月5日スタート                                                                                              |
-| [最旬トレンドサーチ](https://ja.wikipedia.org/wiki/最旬トレンドサーチ "wikilink")                         | 土曜 11:30 - 11:54   | 2019年4月6日スタート                                                                                              |
-| [かわいいアニマル大集合\!どうぶつのじかん](https://ja.wikipedia.org/wiki/かわいいアニマル大集合!どうぶつのじかん "wikilink")  | 月1回土曜 午後（時間不定）     | 2020年3月27日までは木・金曜 18:00 - 18:24で放送していた。                                                                    |
-| \[\[バナナマンのせっかくグルメ                                                                       | |バナナマンのせっかくグルメ     | 傑作選\]\]                                                                                                    |
-| [〜癒・笑・涙・夢〜夕焼け酒場](https://ja.wikipedia.org/wiki/夕焼け酒場 "wikilink")                        | 土曜 18:00 - 18:30   |                                                                                                            |
-| [ドリップスタイル 〜コーヒーがくれた時間〜](https://ja.wikipedia.org/wiki/ドリップスタイル_〜コーヒーがくれた時間〜 "wikilink") | 土曜 20:54 - 21:00   | 2018年10月13日スタート                                                                                            |
+| 番組名                                                                                     | 放送日時                | 備考                                                                                                         |
+| --------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 千客万来！中尾家deごはん                                                                           | 日曜 12:00 - 12:30    | 2020年4月5日スタート                                                                                              |
+| [ねこ自慢](https://ja.wikipedia.org/wiki/ねこ自慢 "wikilink")                                   | 日曜 13:30 - 14:00    | 2019年4月7日スタート 2020年3月29日までは日曜 11:00 - 11:30で放送していた。                                                        |
+| [魔法のワンプレート](https://ja.wikipedia.org/wiki/魔法のワンプレート "wikilink")                         | 月曜 15:55 - 16:00    | [エスビー食品](../Page/エスビー食品.md "wikilink")[一社提供](../Page/一社提供.md "wikilink")[ミニ番組](../Page/ミニ番組.md "wikilink") |
+| [神泡探訪記～最高の一杯を求めて～](https://ja.wikipedia.org/wiki/神泡探訪記～最高の一杯を求めて～ "wikilink")           | 月曜 20:54 - 21:00    | 2019年4月1日スタート                                                                                              |
+| [吉田類の酒場放浪記](https://ja.wikipedia.org/wiki/吉田類の酒場放浪記 "wikilink")                         | 月曜 21:00 - 22:00    |                                                                                                            |
+| [町中華で飲ろうぜ](../Page/町中華で飲ろうぜ.md "wikilink")                                              | 月曜 23:00 - 24:00    | 2019年4月1日スタート                                                                                              |
+| [TIME is LIFE〜トキメキの時〜](https://ja.wikipedia.org/wiki/TIME_is_LIFE〜トキメキの時〜 "wikilink")   | 火曜 21:54 - 22:00    |                                                                                                            |
+| スイモクチャンネル                                                                               | 水・木曜 23:00 - 23:54  | 2020年4月1日スタート。 2020年4月8日から2020年5月7日までは新型コロナウイルスの感染拡大防止の為放送中止していた。                                          |
+| [釣り百景](https://ja.wikipedia.org/wiki/釣り百景 "wikilink")                                   | 木曜 22:00 - 22:54    |                                                                                                            |
+| [素晴らしい明日](https://ja.wikipedia.org/wiki/素晴らしい明日 "wikilink")                             | 金曜 20:54 - 21:00    | 2018年10月5日スタート                                                                                             |
+| [おんな酒場放浪記](https://ja.wikipedia.org/wiki/おんな酒場放浪記 "wikilink")                           | 金曜 23:00 - 24:00    | 『吉田類の酒場放浪記』の姉妹番組にあたる                                                                                       |
+| [BS-TBSエンタメ情報市場\!](https://ja.wikipedia.org/wiki/BS-TBSエンタメ情報市場! "wikilink")            | 金曜 27:00 - 27:30    | 2019年4月5日スタート                                                                                              |
+| [最旬トレンドサーチ](https://ja.wikipedia.org/wiki/最旬トレンドサーチ "wikilink")                         | 土曜 11:30 - 11:54    | 2019年4月6日スタート                                                                                              |
+| [かわいいアニマル大集合\!どうぶつのじかん](https://ja.wikipedia.org/wiki/かわいいアニマル大集合!どうぶつのじかん "wikilink")  | 月1回土曜 午後（時間不定）      | 2020年3月27日までは木・金曜 18:00 - 18:24で放送していた。                                                                    |
+| \[\[バナナマンのせっかくグルメ                                                                       | |バナナマンのせっかくグルメ      | 傑作選\]\]                                                                                                    |
+| [〜癒・笑・涙・夢〜夕焼け酒場](https://ja.wikipedia.org/wiki/夕焼け酒場 "wikilink")                        | 土曜 18:00 - 18:30    |                                                                                                            |
+| [ドリップスタイル 〜コーヒーがくれた時間〜](https://ja.wikipedia.org/wiki/ドリップスタイル_〜コーヒーがくれた時間〜 "wikilink") | 土曜 20:54 - 21:00    | 2018年10月13日スタート                                                                                            |
+| [落語研究会](../Page/落語研究会_\(落語会\).md "wikilink")                                            | 月1回土曜 27:00 - 29:00 | TBSチャンネルでも放送                                                                                               |
 
 #### その他
 
@@ -417,39 +494,7 @@
 | 新しいテレビの時間                                                   | 随時放送                                                                                        | [番組宣伝](../Page/番組宣伝.md "wikilink")                                                               |
 | [諏訪湖祭湖上花火大会](../Page/諏訪湖祭湖上花火大会.md "wikilink")              | 毎年[8月15日](../Page/8月15日.md "wikilink")                                                      | [2012年](../Page/2012年.md "wikilink")の第64回から生放送を実施。[信越放送](../Page/信越放送.md "wikilink")（SBC）との共同制作。 |
 
-### TBS系列の制作番組
 
-  - 報道関連
-
-開局以来、TBSが運営する『[TBS NEWS](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")』の[同時放送を行っている](../Page/サイマル放送.md "wikilink")。かつては0時台・14時台・19時台にも放送していたが、現在は朝（2Kは月曜 - 土曜4時台、4Kは土曜・日曜5時台）のみに縮小されている。なお、BS-TBS4K開局後もそれとBS-TBS（2K）とのサイマル放送は原則実施していない。
-
-[2009年](../Page/2009年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")までは[画角情報が付加され](../Page/画角情報_\(テレビ放送\).md "wikilink")、旧来の[画面比](../Page/画面アスペクト比.md "wikilink")4:3のテレビでは自動的に[アップコンバートされていた](https://ja.wikipedia.org/wiki/映像のコンバート#アップコンバート "wikilink")（その他の番組は2007年[3月31日](../Page/3月31日.md "wikilink")まで）。翌週[9月21日](../Page/9月21日.md "wikilink")からは、[ハイビジョン](../Page/ハイビジョン.md "wikilink")[放送となっている](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")（一部を除く）。
-
-また、[報道特別番組](../Page/報道特別番組.md "wikilink")を同時放送することもある（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の発生時など）。
-
-<table>
-<thead>
-<tr class="header">
-<th><p>番組名</p></th>
-<th><p>放送日時</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/BS-TBSニュース" title="wikilink">朝一番BS-TBSニュース</a></p></td>
-<td><p>月曜 - 土曜 4:00 - 4:45[22][23]<br />
-（BS-TBS4Kでは放送休止時間帯にあたるため、従前通り2Kでのみ放送）</p></td>
-<td><p><a href="../Page/祝日.md" title="wikilink">正月三ヶ日は休止</a>。<br />
-2016年までは通常時の月曜に限り、3:00 - 5:00に<a href="../Page/J-LEAGUE_WIDE.md" title="wikilink">Jリーグ中継放送時は休止</a>。</p></td>
-</tr>
-<tr class="even">
-<td><p>TBSニュース</p></td>
-<td><p>土曜・日曜 5:00 - 5:30（4Kのみ）</p></td>
-<td><p>第3週または第4週は2Kでも放送する場合がある。</p></td>
-</tr>
-</tbody>
-</table>
 
   - スポーツ
 
@@ -489,81 +534,6 @@
 </tbody>
 </table>
 
-  - バラエティ・情報
-
-| 番組名                                          | 放送日時                            | 備考           |
-| -------------------------------------------- | ------------------------------- | ------------ |
-| [落語研究会](../Page/落語研究会_\(落語会\).md "wikilink") | 毎月最終日曜の午前 3:00 - 5:00（毎月最終土曜深夜） | TBSチャンネルでも放送 |
-
-  - ドラマ
-
-<table>
-<thead>
-<tr class="header">
-<th><p>番組名</p></th>
-<th><p>放送日時</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>ミステリー・セレクション</p></td>
-<td><p>月曜 - 金曜 9:59 - 11:55<br />
-月曜 - 金曜 14:00 - 15:55<br />
-土曜 15:00 - 16:55<br />
-日曜 19:00 - 20:54<br />
-ほか</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/月曜名作劇場" title="wikilink">月曜名作劇場</a>』・『<a href="../Page/月曜ゴールデン.md" title="wikilink">月曜ゴールデン</a>』・『<a href="../Page/月曜ミステリー劇場.md" title="wikilink">月曜ミステリー劇場</a>』・『<a href="../Page/月曜ドラマスペシャル.md" title="wikilink">月曜ドラマスペシャル</a>』などで放送されたサスペンス作品の傑作選。<br />
-ほとんどの作品で<a href="https://ja.wikipedia.org/wiki/文字多重放送" title="wikilink">字幕放送を実施</a>。</p></td>
-</tr>
-<tr class="even">
-<td><p>ドラマ・<a href="../Page/夫婦道.md" title="wikilink">夫婦道</a>（第2シリーズ）</p></td>
-<td><p>月曜 - 金曜 17:00 - 17:54</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>名作時代劇・<a href="https://ja.wikipedia.org/wiki/水戸黄門_(第22-28部)" title="wikilink">水戸黄門 第25部</a></p></td>
-<td><p>月曜 - 金曜 18:30 - 19:30</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-  - その他
-
-<!-- end list -->
-
-  - [勇壮\!博多山笠](https://ja.wikipedia.org/wiki/博多祇園山笠#テレビ放送 "wikilink")（RKB毎日放送制作）※2010年から毎年、RKB毎日放送とサイマル放送
-  - [よしもと\!Shall Weショッピング](https://ja.wikipedia.org/wiki/よしもと!Shall_Weショッピング "wikilink")（よしもと\!Shall Weショッピング製作委員会制作）
-
-### TBS・BS-TBS以外の制作番組
-
-  - ドラマ
-
-<table>
-<thead>
-<tr class="header">
-<th><p>番組名</p></th>
-<th><p>放送日時</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>韓国ドラマ・<a href="https://ja.wikipedia.org/wiki/恋するダルスン" title="wikilink">恋するダルスン</a><br />
-(字幕)</p></td>
-<td><p>月曜 - 金曜 13:00 - 13:55</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-  - スポーツ
-
-<!-- end list -->
-
-  - [SG競艇LIVE](https://ja.wikipedia.org/wiki/競艇#競艇の放送媒体での中継 "wikilink")（[平和島競艇場](https://ja.wikipedia.org/wiki/平和島競艇場 "wikilink")開催時、[TOKYO MX制作](../Page/東京メトロポリタンテレビジョン.md "wikilink")。TBS系列外地上波局でも放送）
-
 ### アニメ番組に関して
 
 かつてBS-i時代は現在の[BS11](../Page/日本BS放送.md "wikilink")『[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")』枠\[28\]のように、CM明けのロゴアニメーションの表示が一部作品を除いて実施されていた。また、当局独占放送のアニメ作品も幾つか存在した。2007年以降は特別番組を断続的に放送している。
@@ -587,7 +557,7 @@
 
 #### 放送予定
 
-  - [やはり俺の青春ラブコメはまちがっている。](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。 "wikilink")完（放送時期未定）
+  - [やはり俺の青春ラブコメはまちがっている。](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。 "wikilink")完（2020年7月 - ）
 
 ### 終了した番組
 
@@ -595,9 +565,114 @@
 
 #### BS-TBS制作番組
 
-  - エンタテインメント（バラエティ）
+**報道・情報**
 
------
+  - [まるわかり\!日曜 ニュース深掘り](https://ja.wikipedia.org/wiki/まるわかり!日曜_ニュース深掘り "wikilink")
+  - [NEWS サンデー・スコープJNN](https://ja.wikipedia.org/wiki/サンデースコープ "wikilink")
+  - [NEWSアカデミー](https://ja.wikipedia.org/wiki/NEWSアカデミー "wikilink")
+  - [i-NEWS](https://ja.wikipedia.org/wiki/i-NEWS "wikilink")（i-NEWS Morning、i-NEWS Evening）
+  - [i-style](https://ja.wikipedia.org/wiki/i-style "wikilink")
+  - [お父さんのためのショウビズ講座](https://ja.wikipedia.org/wiki/お父さんのためのショウビズ講座 "wikilink")
+  - [グローバルナビフロント](https://ja.wikipedia.org/wiki/グローバルナビフロント "wikilink")
+  - [愛しの仕事さま。](https://ja.wikipedia.org/wiki/愛しの仕事さま。 "wikilink")
+  - [かんたん\!アイデアレシピ〜食卓を彩るフィラデルフィア〜](https://ja.wikipedia.org/wiki/かんたん!アイデアレシピ〜食卓を彩るフィラデルフィア〜 "wikilink")
+  - [健康DNA\!\!](https://ja.wikipedia.org/wiki/健康DNA!! "wikilink")
+  - [健康トリプルアンサー](https://ja.wikipedia.org/wiki/健康トリプルアンサー "wikilink")
+  - [医者がすすめる専門医](../Page/医者がすすめる専門医.md "wikilink")
+  - [Good Life](https://ja.wikipedia.org/wiki/Good_Life "wikilink")
+  - [教えて・からだのミカタ](https://ja.wikipedia.org/wiki/教えて・からだのミカタ "wikilink")
+  - [本と出会う](https://ja.wikipedia.org/wiki/本と出会う "wikilink")（TBSニュースバードでも放送）
+  - [Turning Point〜賢者の選択〜](https://ja.wikipedia.org/wiki/賢者の選択 "wikilink")\[31\]
+  - [政策討論 われらの時代](https://ja.wikipedia.org/wiki/政策討論_われらの時代 "wikilink")
+  - [世界人](https://ja.wikipedia.org/wiki/世界人 "wikilink")
+  - [non-no TV](https://ja.wikipedia.org/wiki/non-no_TV "wikilink")
+  - [デジタル☆一番星](https://ja.wikipedia.org/wiki/デジタル☆一番星 "wikilink")
+  - [サンデー@ステーション アサBAN\!](https://ja.wikipedia.org/wiki/サンデー@ステーション_アサBAN! "wikilink")
+  - [ぶらり日本 健美の旅](https://ja.wikipedia.org/wiki/ぶらり日本_健美の旅 "wikilink")
+  - [NEWS21 サタデースコープ](https://ja.wikipedia.org/wiki/NEWS21_サタデースコープ "wikilink")
+  - [NEWS21 サンデースコープ経済版](https://ja.wikipedia.org/wiki/NEWS21_サンデースコープ経済版 "wikilink")
+  - [サキドリ\!](https://ja.wikipedia.org/wiki/サキドリ! "wikilink")
+  - [女子才彩](https://ja.wikipedia.org/wiki/女子才彩 "wikilink")
+  - きづなの交通安全ナビ
+  - 未来へのおくりもの
+  - ぶらり温泉 健美の旅
+  - [ヒットリサーチ](https://ja.wikipedia.org/wiki/ヒットリサーチ "wikilink")
+  - [LEE Style](https://ja.wikipedia.org/wiki/LEE_Style "wikilink")
+  - [ニュース少年探偵団](https://ja.wikipedia.org/wiki/ニュース少年探偵団 "wikilink")
+  - [週刊BS-TBS報道部](https://ja.wikipedia.org/wiki/週刊BS-TBS報道部 "wikilink")
+  - [謎解き\!江戸のススメ](https://ja.wikipedia.org/wiki/謎解き!江戸のススメ "wikilink")
+  - [THE 歴史列伝〜そして傑作が生まれた〜](https://ja.wikipedia.org/wiki/THE_歴史列伝〜そして傑作が生まれた〜 "wikilink")
+  - [マンデードキュメント](https://ja.wikipedia.org/wiki/マンデードキュメント "wikilink")
+  - [林修・世界の名著](https://ja.wikipedia.org/wiki/林修・世界の名著 "wikilink")
+  - [麗しの宝石物語☆](https://ja.wikipedia.org/wiki/麗しの宝石物語☆ "wikilink")
+  - [健康\!ALAかると](https://ja.wikipedia.org/wiki/健康!ALAかると "wikilink")
+  - [サタデードキュメント](https://ja.wikipedia.org/wiki/サタデードキュメント "wikilink")
+  - [外国人記者は見た\!日本inザ・ワールド](https://ja.wikipedia.org/wiki/外国人記者は見た!日本inザ・ワールド "wikilink")
+  - [週刊報道](https://ja.wikipedia.org/wiki/週刊報道 "wikilink")
+      - 週刊報道 LIFE
+      - 週刊報道 Bizストリート
+  - [夢の鍵](https://ja.wikipedia.org/wiki/夢の鍵 "wikilink")
+  - [おはよう健康体操](https://ja.wikipedia.org/wiki/おはよう健康体操 "wikilink")
+  - [美木良介ロングブレス講座](https://ja.wikipedia.org/wiki/美木良介ロングブレス講座 "wikilink")
+
+**エンタメ**
+
+  - [ダブルミリオン](https://ja.wikipedia.org/wiki/ダブルミリオン_\(テレビ番組\) "wikilink")
+  - [R198〜My Sweet Melodies〜](https://ja.wikipedia.org/wiki/R198〜My_Sweet_Melodies〜 "wikilink")
+  - [Felice 心理テストで最新情報](https://ja.wikipedia.org/wiki/Felice_心理テストで最新情報 "wikilink")
+  - [LIVE\!LOVE\!EVE\!](https://ja.wikipedia.org/wiki/LIVE!LOVE!EVE! "wikilink")
+  - LIVE\!LOVE\!EVE\!SATURDAY
+  - [おすと\!?ワールド](https://ja.wikipedia.org/wiki/おすと!?ワールド "wikilink")
+  - [未来☆遊園](https://ja.wikipedia.org/wiki/未来☆遊園 "wikilink")
+  - [危ないダンディー](../Page/危ないダンディー.md "wikilink")
+  - [心にサンサン物語](https://ja.wikipedia.org/wiki/心にサンサン物語 "wikilink")
+  - [夢のカタチ](https://ja.wikipedia.org/wiki/夢のカタチ "wikilink")
+  - [TIME OVER](../Page/TIME_OVER.md "wikilink")
+  - [月うさぎ恋わずらい](https://ja.wikipedia.org/wiki/月うさぎ恋わずらい "wikilink")（2001年5月 - 2002年3月）
+  - [温泉美人](https://ja.wikipedia.org/wiki/温泉美人 "wikilink")
+  - [68](https://ja.wikipedia.org/wiki/ム・ーハ "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")との共同制作番組）
+  - [クボジュンのえいごっこ](https://ja.wikipedia.org/wiki/クボジュンのえいごっこ "wikilink")
+  - [激☆店](../Page/激☆店.md "wikilink")（一時期、TBSでも放送）
+  - [アニクリ](../Page/アニクリ.md "wikilink")シリーズ
+  - [ぼいすた\!](https://ja.wikipedia.org/wiki/ぼいすた! "wikilink")
+  - [スピードワゴンと裸の××アイドル](../Page/スピードワゴンと裸の××アイドル.md "wikilink")
+  - [激モテ\!セブンティーン学園](https://ja.wikipedia.org/wiki/激モテ!セブンティーン学園 "wikilink")
+  - [BSブランチ](../Page/BSブランチ.md "wikilink")
+  - [BSブランチ Teen Up](../Page/BSブランチ_Teen_Up.md "wikilink")
+  - [コラボTV](https://ja.wikipedia.org/wiki/コラボTV "wikilink")
+  - コラボTV・大切な人へ贈るキズナ料理
+  - コラボTV・[モー娘](../Page/モーニング娘。.md "wikilink")[うたすきっ\!\!](../Page/うたスキ.md "wikilink")（[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")・[新垣里沙](../Page/新垣里沙.md "wikilink")・[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")・[光井愛佳](../Page/光井愛佳.md "wikilink")）
+  - コラボTV・韓流スターデザイナーチャレンジ
+  - コラボTV・うたすきっ\!\!アイドル [スマイレージ](https://ja.wikipedia.org/wiki/スマイレージ "wikilink")のうたすきっ\!\!
+  - コラボTV・[高橋](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")×高橋
+  - コラボTV・[モーニング娘。](../Page/モーニング娘。.md "wikilink") みんなの3D（新垣里沙・[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")）
+  - コラボTV・クチコミ@捜査官
+  - コラボTV・うたすきっ\!\!アニソン [水木一郎](../Page/水木一郎.md "wikilink")のうたすきっ\!\!
+  - コラボTV・with JOL
+  - [東京★上海流行通信〜楽活好正点](https://ja.wikipedia.org/wiki/東京★上海流行通信〜楽活好正点 "wikilink")
+  - [Berryz仮面TV](https://ja.wikipedia.org/wiki/Berryz仮面#帰ってきたBerryz仮面TV（仮）_→_Berryz仮面TV〜新・帰ってきたベリーズ仮面 "wikilink")
+  - [金曜ナミダメ劇場〜涙の数だけキレイになる〜](https://ja.wikipedia.org/wiki/金曜ナミダメ劇場〜涙の数だけキレイになる〜 "wikilink")
+  - [CatChat えいごKIDS\!](https://ja.wikipedia.org/wiki/CatChat_えいごKIDS! "wikilink")
+  - [日本史探求スペシャル ライバルたちの光芒](https://ja.wikipedia.org/wiki/日本史探究スペシャル_ライバルたちの光芒_〜宿命の対決が歴史を動かした!〜 "wikilink")
+  - [〜宿命の対決が歴史を動かした\!〜](https://ja.wikipedia.org/wiki/日本史探究スペシャル_ライバルたちの光芒_〜宿命の対決が歴史を動かした!〜 "wikilink")
+  - [それがしりたい〜ニッポンおもしろいネ〜](https://ja.wikipedia.org/wiki/それがしりたい〜ニッポンおもしろいネ〜 "wikilink")
+  - [巨匠たちの輝き〜歴史を創った芸術家たち〜](https://ja.wikipedia.org/wiki/巨匠たちの輝き〜歴史を創った芸術家たち〜 "wikilink")
+  - [法円坂ホラー研究会 谷町第二高等学校](https://ja.wikipedia.org/wiki/法円坂ホラー研究会_谷町第二高等学校 "wikilink")
+  - [℃-uteのチャレンジTV](https://ja.wikipedia.org/wiki/℃-uteのチャレンジTV "wikilink")
+  - [マリンの海物語\!〜ドリームプロジェクトM〜](https://ja.wikipedia.org/wiki/マリンの海物語!〜ドリームプロジェクトM〜 "wikilink")
+  - [ニッポン未来会議](https://ja.wikipedia.org/wiki/ニッポン未来会議 "wikilink")
+  - [みんな子どもだった](https://ja.wikipedia.org/wiki/みんな子どもだった "wikilink")
+  - [MOREはっぴーTV](https://ja.wikipedia.org/wiki/MOREはっぴーTV "wikilink")
+  - [美フレッシュ\!](https://ja.wikipedia.org/wiki/美フレッシュ! "wikilink")
+  - [ウエディングステージ](https://ja.wikipedia.org/wiki/ウエディングステージ "wikilink")
+  - [男子視聴禁止](https://ja.wikipedia.org/wiki/男子視聴禁止 "wikilink")
+  - [〜気になる“数字”を徹底リサーチ〜 ホンネDEジャパン](https://ja.wikipedia.org/wiki/〜気になる“数字”を徹底リサーチ〜_ホンネDEジャパン "wikilink")
+  - [ハイボール万歳](https://ja.wikipedia.org/wiki/ハイボール万歳 "wikilink")
+  - [美活女子会](https://ja.wikipedia.org/wiki/美活女子会 "wikilink")
+  - [幸せ\!いなり日和](https://ja.wikipedia.org/wiki/幸せ!いなり日和 "wikilink")
+  - [Quality of life 〜健康IQアップを目指して\!〜](https://ja.wikipedia.org/wiki/Quality_of_life_〜健康IQアップを目指して!〜 "wikilink")
+  -
+<!-- end list -->
 
   - ドラマ（ドコモ提供ドラマ枠）
 
@@ -695,7 +770,7 @@
 
   - ; 地上波と連動放送の特別番組
 
-:\*『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』特別編（CBC製作・MBS製作委員会参加\[31\]）：2013年10月5日
+:\*『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』特別編（CBC製作・MBS製作委員会参加\[32\]）：2013年10月5日
 
 :\*『[Aチャンネル](https://ja.wikipedia.org/wiki/Aチャンネル "wikilink")』[OVA](../Page/OVA.md "wikilink")第1話（MBS製作）：2014年9月20日
 
@@ -706,7 +781,7 @@
 
   - ; 地上波でも放送された作品（朝昼帯）
 
-:\* [ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")\[32\]
+:\* [ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")\[33\]
 
 :\* [アキハバラ電脳組](../Page/アキハバラ電脳組.md "wikilink")
 
@@ -714,21 +789,21 @@
 
 :\* [ラブ★コン](../Page/ラブ★コン.md "wikilink")（[TUYでも放送](../Page/テレビユー山形.md "wikilink")）
 
-:\* [コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")（MBS製作\[33\]）
+:\* [コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")（MBS製作\[34\]）
 
 :\* [新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")制作）
 
-:\* [機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink") ファーストシーズン（MBS製作\[34\]）
+:\* [機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink") ファーストシーズン（MBS製作\[35\]）
 
-:\* [SDガンダムフォース サイコー\!\!\! セレクション](../Page/SDガンダムフォース.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作\[35\]）
+:\* [SDガンダムフォース サイコー\!\!\! セレクション](../Page/SDガンダムフォース.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作\[36\]）
 
-:\* コードギアス 反逆のルルーシュR2（MBS製作\[36\]）
+:\* コードギアス 反逆のルルーシュR2（MBS製作\[37\]）
 
-:\* 機動戦士ガンダム00 セカンドシーズン（MBS製作\[37\]）
+:\* 機動戦士ガンダム00 セカンドシーズン（MBS製作\[38\]）
 
-:\* [機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")（MBS製作\[38\]）
+:\* [機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")（MBS製作\[39\]）
 
-:\* [機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")（MBS製作\[39\]）
+:\* [機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")（MBS製作\[40\]）
 
 :\* [まんが世界昔ばなし](../Page/まんが世界昔ばなし.md "wikilink")（再放送）
 
@@ -761,22 +836,23 @@
 
 ## 放送事故
 
-  - 2014年5月20日、「侍プロ野球2014・[東北楽天](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")×[横浜DeNA](../Page/横浜DeNAベイスターズ.md "wikilink")」を[楽天Koboスタジアム宮城から生中継中の](../Page/宮城球場.md "wikilink")20時過ぎ〜20:30頃まで一部地域で映像が流れず、実況音声のみが放送される事態や中継映像は放送されているものの映像が不鮮明になるなどの事態が発生した。後に、中継内やBS-TBSのホームページ上で不体裁について謝罪し、原因は調査中であるとしていたが、後日送出設備機器の一部に不具合が発生したことに因るものとして再度ホームページ上で謝罪した\[40\]\[41\]。
+  - 2014年5月20日、「侍プロ野球2014・[東北楽天](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")×[横浜DeNA](../Page/横浜DeNAベイスターズ.md "wikilink")」を[楽天Koboスタジアム宮城から生中継中の](../Page/宮城球場.md "wikilink")20時過ぎ〜20:30頃まで一部地域で映像が流れず、実況音声のみが放送される事態や中継映像は放送されているものの映像が不鮮明になるなどの事態が発生した。後に、中継内やBS-TBSのホームページ上で不体裁について謝罪し、原因は調査中であるとしていたが、後日送出設備機器の一部に不具合が発生したことに因るものとして再度ホームページ上で謝罪した\[41\]\[42\]。
 
 ## その他の特記事項
 
-  - 公式[サイトには](../Page/ウェブサイト.md "wikilink")、2006年度までBSデジタル局では唯一（当時）[掲示板を設けていた](../Page/電子掲示板.md "wikilink")。番組に関する意見やリクエストなどを書き込むことができた\[42\]。
+  - 公式[サイトには](../Page/ウェブサイト.md "wikilink")、2006年度までBSデジタル局では唯一（当時）[掲示板を設けていた](../Page/電子掲示板.md "wikilink")。番組に関する意見やリクエストなどを書き込むことができた\[43\]。
   - [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")朝刊の第2テレビ・ラジオ欄では、当チャンネルで放映される番組が毎日1本紹介されている。また、夕刊（東京版など）では最終面のテレビ欄に[NHK BS1](../Page/NHK_BS1.md "wikilink")・[BSプレミアムと並んで番組表を掲載している](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")。
   - 「BS-i」時代は、「アイ」と「チュータ」という[マスコット](../Page/マスコット.md "wikilink")キャラクターが存在していたほか、『i-SPORTS』などのいくつかの番組でも独自の[キャラクター](../Page/キャラクター.md "wikilink")が登場していた（「アイ」と「チュータ」は、正式には英語の[発音記号](../Page/発音記号.md "wikilink")で表記される）。
   - [テレビマスターのシステムは](../Page/主調整室.md "wikilink")、基幹部が[NEC製で](../Page/日本電気.md "wikilink")、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")・[東芝](../Page/東芝.md "wikilink")の機器を組み合わせたものとなっている（雑誌『放送技術』より。巻号未詳）。
       - マスター更新により、画質が著しく改善された。
-  - 2014年4月1日から同年9月30日までの半年間、同局のイメージキャンペーンアイドルとして[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループとして存在していた[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（2017年6月30日解散）が起用された\[43\]\[44\]。
+  - 2014年4月1日から同年9月30日までの半年間、同局のイメージキャンペーンアイドルとして[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループとして存在していた[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（2017年6月30日解散）が起用された\[44\]\[45\]。
 
 ## 脚注
 
 ## 外部リンク
 
-  -
+  - [BS-TBS公式サイト](https://www.bs-tbs.co.jp/)
+
   -
   -
   -
@@ -812,17 +888,18 @@
 28. 2018年10月現在では、本局での毎日放送（MBS）製作『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』枠（以前はTBS製作『アニメリコ』枠でも）で競合が発生している。『アニメイズム』枠の移動により、2020年春改編で競合は解消される。
 29. 2018年10月現在ではTBSから2日遅れ（かつては9日遅れの時期もあった）。
 30. 2018年10月現在では地上波レギュラーネット各局より1日遅れ（2015年3月までは毎日放送より2日遅れ）。2020年4月より地上波レギュラーネット各局と同日放送に移行。
-31. 本放送は[BS11で放送](../Page/日本BS放送.md "wikilink")。
-32. 1話のみ、各地の系列局でも放送された。
-33. 地上波では[深夜帯系列10局ネット](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")。本放送終了後[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NBC以外の残りTBS系列局](../Page/長崎放送.md "wikilink")16局で放送。
-34. 『[土6](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")』枠の最終作品。のちにリピート放送を実施。
-35. レギュラー放送版は[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送済み。
-36. 『[日5](../Page/毎日放送制作日曜夕方5時枠のアニメ.md "wikilink")』枠の第1回作品。
-37. 『日5』枠の第2回作品。のちにリピート放送を実施。
-38. 『土6』枠の第1回作品。
-39. 『土6』枠の第3回作品。
-40. \[<https://www.bs-tbs.co.jp/news/5202014.html>　5/20「侍プロ野球2014」映像・音声の不具合について\] BS-TBS 2014年5月20日配信
-41. [2](https://www.bs-tbs.co.jp/news/5202014_1.html「侍プロ野球2014」映像・音声の不具合について②) BS-TBS 2014年5月22日配信
-42. 2007年12月開局の[日本BS放送](../Page/日本BS放送.md "wikilink")（BS11）でも、番組ホームページでメッセージを受け付け、公開している。
-43. [お知らせ 2014.03.04](https://www.bs-tbs.co.jp/news/2014bs-tbs.html) - BS-TBS 2014年3月4日。
-44. [℃-ute、BS-TBSキャンペーンアイドル就任で新番組開始](https://natalie.mu/music/news/111301) - 最新音楽ニュース ナタリー　2014年3月5日。
+31. [サンテレビ](../Page/サンテレビジョン.md "wikilink")・[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")でも放送。
+32. 本放送は[BS11で放送](../Page/日本BS放送.md "wikilink")。
+33. 1話のみ、各地の系列局でも放送された。
+34. 地上波では[深夜帯系列10局ネット](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")。本放送終了後[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NBC以外の残りTBS系列局](../Page/長崎放送.md "wikilink")16局で放送。
+35. 『[土6](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")』枠の最終作品。のちにリピート放送を実施。
+36. レギュラー放送版は[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送済み。
+37. 『[日5](../Page/毎日放送制作日曜夕方5時枠のアニメ.md "wikilink")』枠の第1回作品。
+38. 『日5』枠の第2回作品。のちにリピート放送を実施。
+39. 『土6』枠の第1回作品。
+40. 『土6』枠の第3回作品。
+41. \[<https://www.bs-tbs.co.jp/news/5202014.html>　5/20「侍プロ野球2014」映像・音声の不具合について\] BS-TBS 2014年5月20日配信
+42. [2](https://www.bs-tbs.co.jp/news/5202014_1.html「侍プロ野球2014」映像・音声の不具合について②) BS-TBS 2014年5月22日配信
+43. 2007年12月開局の[日本BS放送](../Page/日本BS放送.md "wikilink")（BS11）でも、番組ホームページでメッセージを受け付け、公開している。
+44. [お知らせ 2014.03.04](https://www.bs-tbs.co.jp/news/2014bs-tbs.html) - BS-TBS 2014年3月4日。
+45. [℃-ute、BS-TBSキャンペーンアイドル就任で新番組開始](https://natalie.mu/music/news/111301) - 最新音楽ニュース ナタリー　2014年3月5日。

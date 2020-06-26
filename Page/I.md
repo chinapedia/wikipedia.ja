@@ -5,7 +5,7 @@
 
 ## 字形
 
-[大文字](../Page/大文字.md "wikilink")は、一本の縦棒である。しかし、それでは[L](../Page/L.md "wikilink")の小文字「 l 」や数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") など混同し易い（[ホモグリフ](https://ja.wikipedia.org/wiki/ホモグリフ "wikilink")）せいもあって、手書き文字（[ブロック体](https://ja.wikipedia.org/wiki/ブロック体 "wikilink")）であっても通常は[セリフを上下に付けて区別する](../Page/セリフ_\(文字\).md "wikilink")。
+[大文字](../Page/大文字.md "wikilink")は、一本の縦棒である。しかし、それでは[L](../Page/L.md "wikilink")の小文字「 l 」や数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") など混同し易い（[ホモグリフ](../Page/ホモグリフ.md "wikilink")）せいもあって、手書き文字（[ブロック体](https://ja.wikipedia.org/wiki/ブロック体 "wikilink")）であっても通常は[セリフを上下に付けて区別する](../Page/セリフ_\(文字\).md "wikilink")。
 
 この場合、数字の 1 は飾りを上だけにする、数字の [7](../Page/7.md "wikilink") は鉤を付ける、小文字の L は筆記体で ℓ と書く、というように区別する。
 

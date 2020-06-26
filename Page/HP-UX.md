@@ -1,7 +1,7 @@
 > この記事は[HP-UX](https://ja.wikipedia.org/wiki/HP-UX)から翻訳されています。
 
 
-**HP-UX** (**H**ewlett-**P**ackard **U**NI**X**) は、旧[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")（HP）社、現[ヒューレット・パッカード・エンタープライズ](https://ja.wikipedia.org/wiki/ヒューレット・パッカード・エンタープライズ "wikilink")（HPE）社製の [UNIX](../Page/UNIX.md "wikilink") [オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。ワークステーションおよび中・大規模システム用サーバに採用されている。[System V](../Page/UNIX_System_V.md "wikilink")（初期は[System III](../Page/UNIX_System_III.md "wikilink")）ベースの[プロプライエタリUNIXである](../Page/プロプライエタリ・ソフトウェア.md "wikilink")。
+**HP-UX** (**H**ewlett-**P**ackard **U**NI**X**) は、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")（HP）社(1939年創業)、現[ヒューレット・パッカード・エンタープライズ](https://ja.wikipedia.org/wiki/ヒューレット・パッカード・エンタープライズ "wikilink")（HPE）社製の [UNIX](../Page/UNIX.md "wikilink") [オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である。ワークステーションおよび中・大規模システム用サーバに採用されている。[System V](../Page/UNIX_System_V.md "wikilink")（初期は[System III](../Page/UNIX_System_III.md "wikilink")）ベースの[プロプライエタリUNIXである](../Page/プロプライエタリ・ソフトウェア.md "wikilink")。
 
 ## 特徴
 

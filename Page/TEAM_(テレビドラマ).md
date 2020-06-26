@@ -27,7 +27,7 @@
 
 ### 主要キャスト
 
-  - 風見勇助 - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（当時:[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+  - 風見勇助 - [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（当時:[SMAP](../Page/SMAP.md "wikilink")）
   - 丹波肇 - [西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")
   - 丹波綴 - [水野美紀](https://ja.wikipedia.org/wiki/水野美紀 "wikilink")
   - 神代一課長 - [大杉漣](../Page/大杉漣.md "wikilink")

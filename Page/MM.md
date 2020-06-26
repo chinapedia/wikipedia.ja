@@ -81,7 +81,7 @@
   - [マイケル・ムーア](../Page/マイケル・ムーア.md "wikilink") ()
   - [マリリン・モンロー](https://ja.wikipedia.org/wiki/マリリン・モンロー "wikilink") ()
   - [マリリン・マンソン](../Page/マリリン・マンソン.md "wikilink") ()
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink") ()
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink") ()
 
 ### ゲーム
 

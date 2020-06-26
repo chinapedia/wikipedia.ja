@@ -82,6 +82,8 @@
 
   - [暗号利用モード](../Page/暗号利用モード.md "wikilink")の一つ。Accumulated Block Chaining。
 
+  - [AtCoder](https://ja.wikipedia.org/wiki/AtCoder "wikilink") Beginners Contest - [競技プログラミング](https://ja.wikipedia.org/wiki/競技プログラミング "wikilink")コンテストを主催するAtCoder社による初心者向けコンテスト。
+
 ## 理論・手法
 
   - [会計学](../Page/会計学.md "wikilink")における[活動基準原価計算](../Page/活動基準原価計算.md "wikilink")（Activity-Based Costing）の略称。
@@ -115,6 +117,7 @@
   - [ABCプレース](https://ja.wikipedia.org/wiki/ABCプレース "wikilink") - [ペンシルパズル](../Page/ペンシルパズル.md "wikilink")。
   - [劇団ビタミン大使ABC](../Page/劇団ビタミン大使ABC.md "wikilink") - 日本の劇団。
   - [abc (クイズ大会)](https://ja.wikipedia.org/wiki/abc_\(クイズ大会\) "wikilink") - 日本の学生クイズ大会。
+  - Anywhere But China - 脱[中国](../Page/中国.md "wikilink")の標語
 
 ## 関連項目
 

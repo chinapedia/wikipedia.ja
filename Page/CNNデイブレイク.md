@@ -13,7 +13,7 @@
 
 1994年9月の終了後も、経済情報コーナー「MONEYLINE」のみスポンサーである[シティバンク](https://ja.wikipedia.org/wiki/シティバンク "wikilink")の都合上『[やじうま6](https://ja.wikipedia.org/wiki/やじうま6 "wikilink")』に継承された。
 
-なお、[山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）が、[1993年](../Page/1993年.md "wikilink")（平成5年）[4月1日](../Page/4月1日.md "wikilink")に、[フジテレビ系列](../Page/フジネットワーク.md "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")・[FNS](../Page/フジネットワーク.md "wikilink")）からテレビ朝日系列（[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）にネットチェンジした際、放送開始後に最初に放映された番組でもある（ただし、朝6時台から）。
+なお、[山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）が、[1993年](../Page/1993年.md "wikilink")（平成5年）[4月1日](../Page/4月1日.md "wikilink")に、[フジテレビ系列](../Page/フジネットワーク.md "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")・[FNS](../Page/フジネットワーク.md "wikilink")）からテレビ朝日系列（[ANN](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）にネットチェンジした際、この番組が放送開始後に最初に放映されたテレビ朝日系の番組となった（ただし、朝6時台から）。
 
 ## 放送時間
 

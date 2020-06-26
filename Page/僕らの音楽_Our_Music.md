@@ -33,7 +33,7 @@
 
 当番組終了から約2ヶ月後には、[CS放送の](../Page/衛星放送.md "wikilink")[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")にて当番組のDNAを引き継いだ『**[あたしの音楽](https://ja.wikipedia.org/wiki/あたしの音楽 "wikilink")**』が放送開始された。当番組との異なる点としては、女性の視聴者にターゲットを絞った内容、月1回放送、放送時間が60分などがあるが、基本は2組の出演アーティストが対談するトークコーナーや、コラボレーションで曲を披露するコーナーは当番組と一緒である。但し、CMなしの60分放送なので、CS放送ならではのゆったりとした曲サイズやたっぷりと生演奏、アーティスト同士のトーク、音楽を愛する著名人との対談などが楽しめる構成となっている。特に固定した放送日時は決まっていないが、初放送は20時〜21時の1時間が固定されている。
 
-2015年4月10日（金曜日）23:00 - 23:58（JST）には、『**僕らの音楽〜羽ばたく君へ〜**』と題して、約7ヶ月ぶりに復活特別番組が放送された。ゲストとして[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")、[さだまさし](../Page/さだまさし.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[谷村新司](../Page/谷村新司.md "wikilink")、[ゆずが出演し](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")\[5\]、同年4月1日に行われたフジテレビ入社式後の懇親会でのライブの模様と、別途収録した新入社員からの質問にゲストが回答する形式でのトークコーナーを放送した。
+2015年4月10日（金曜日）23:00 - 23:58（JST）には、『**僕らの音楽〜羽ばたく君へ〜**』と題して、約7ヶ月ぶりに復活特別番組が放送された。ゲストとして[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")、[さだまさし](../Page/さだまさし.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")、[谷村新司](../Page/谷村新司.md "wikilink")、[ゆずが出演し](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")\[5\]、同年4月1日に行われたフジテレビ入社式後の懇親会でのライブの模様と、別途収録した新入社員からの質問にゲストが回答する形式でのトークコーナーを放送した。
 
 2015年10月9日（金曜日）23:00 - 23:58（JST）には、『**僕らの音楽〜ぼくらのビートルズ**』と題して、約半年ぶりに2回目の復活特別番組を放送し\[6\]、著名人によるビートルズに対するコメントを挿入しながら、2015年11月7日に発売される「[ザ・ビートルズ1](../Page/ザ・ビートルズ1.md "wikilink")」に付属する特典映像のリマスター版を世界初放送した\[7\]。
 
@@ -57,7 +57,7 @@
 
 第1シリーズでは、[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")の[鳥越俊太郎](../Page/鳥越俊太郎.md "wikilink")がインタビュアーを務めていたが、第2シリーズからはメインゲストとパートナーの対談形式になった。パートナーが同じくミュージシャンである場合、1・2曲で伴奏やバックコーラスを務めたりすることが多い。[2014年](../Page/2014年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")放送分からは、第3シリーズとして「僕らの○○」と、「僕らの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")」・「僕らの[秋元康](../Page/秋元康.md "wikilink")」・「僕らの[郷ひろみ](../Page/郷ひろみ.md "wikilink")」など1組の[アーティスト](../Page/歌手.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")などの[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")や「僕らのGIRL'S ROCK」・「僕らの[アニソン](https://ja.wikipedia.org/wiki/アニメソング "wikilink")」・「僕らのGiRL POP」などの1つのジャンル・テーマに視点を置き、その音楽家やジャンル・テーマに縁のあるアーティストも出演して、司会の草彅と加藤アナを中心にクロストークが展開される。
 
-パートナーがタレントや文化人の場合は基本的に対談のみだが、2006年4月28日放送分ではパートナーの[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")がメインゲスト、[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")と「[あの素晴しい愛をもう一度](../Page/あの素晴しい愛をもう一度.md "wikilink")」をデュエットしている。内容によっては、「もう一度観たい○○シリーズ」として、過去に放送された『[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』や『[FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")』などの大型音楽番組で披露されたパフォーマンスの中で厳選されたパフォーマンスを振り返る[総集編](../Page/総集編.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")出演作品を取り上げる回も数回行っていたが、第1期は[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")シリーズの主題歌を特集したことがあった。
+パートナーがタレントや文化人の場合は基本的に対談のみだが、2006年4月28日放送分ではパートナーの[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")がメインゲスト、[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")と「[あの素晴しい愛をもう一度](../Page/あの素晴しい愛をもう一度.md "wikilink")」をデュエットしている。内容によっては、「もう一度観たい○○シリーズ」として、過去に放送された『[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』や『[FNSうたの夏まつり](https://ja.wikipedia.org/wiki/FNSうたの夏まつり "wikilink")』などの大型音楽番組で披露されたパフォーマンスの中で厳選されたパフォーマンスを振り返る[総集編](../Page/総集編.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")出演作品を取り上げる回も数回行っていたが、第1期は[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")シリーズの主題歌を特集したことがあった。
 
 当初は、最近のヒットチャートにとらわれないミュージシャンを中心に採り上げてきたが、『僕らの音楽2』からはヒットチャートを賑わす人間が採り上げられることも多い。なお、番組はソニー提供時代からSME系の[レコードレーベル](../Page/レコードレーベル.md "wikilink")に所属するミュージシャンだけでなく、他社のミュージシャンもよく登場している。
 
@@ -79,7 +79,7 @@
 
 <div class="NavContent" style="text-align:left">
 
-  - ナレーション：[窪田等](../Page/窪田等.md "wikilink")（第1期）、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、第2期以降）
+  - ナレーション：[窪田等](../Page/窪田等.md "wikilink")（第1期）、[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（[SMAP](../Page/SMAP.md "wikilink")、第2期以降）
       - 『僕らの音楽2』はBSフジのみフジテレビアナウンサーの[川端健嗣](../Page/川端健嗣.md "wikilink")がナレーションを務めていた。
   - 司会（生放送や特別番組、クロストーク放送時に際して）：草彅剛
   - 進行（同上）：[高島彩](../Page/高島彩.md "wikilink")、高島ののちに[加藤綾子](https://ja.wikipedia.org/wiki/加藤綾子 "wikilink")

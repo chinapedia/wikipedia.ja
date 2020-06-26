@@ -19,7 +19,7 @@
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）[7月1日](../Page/7月1日.md "wikilink") - 大阪中央放送局神戸支局姫路分局に改称。呼出符号をJOBTに変更。
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）7月1日 - 姫路分局を姫路放送局に改称。
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）[5月30日](../Page/5月30日.md "wikilink") - 姫路中継放送所廃止。
-  - [1964年](../Page/1964年.md "wikilink")（昭和39年）[10月1日](../Page/10月1日.md "wikilink") - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")、仁寿山に総合・教育テレビの姫路テレビ中継放送所を開設。
+  - [1964年](../Page/1964年.md "wikilink")（昭和39年）[10月1日](../Page/10月1日.md "wikilink") - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")、仁寿山に総合・教育テレビの[姫路テレビ中継放送所を開設](https://ja.wikipedia.org/wiki/姫路テレビ・FM中継局 "wikilink")。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）12月 - NHK大阪放送局、仁寿山にFMラジオ放送の姫路中継局を開設。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）3月 - 姫路放送会館完成。
   - [1970年](../Page/1970年.md "wikilink")（昭和45年）[3月27日](../Page/3月27日.md "wikilink") - NHK神戸放送局、兵庫県域FMラジオ放送開始。

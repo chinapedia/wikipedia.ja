@@ -5,11 +5,11 @@
 
 ## 概要
 
-報道・情報番組の強化を目指していた当時の[鹿内宏明](../Page/鹿内宏明.md "wikilink")会長の肝いりで、専用衛星回線「F-STAR」稼働に合わせて1991年4月に放送開始。タイトルの通り、[SNGを用いて](../Page/SNG_\(放送\).md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")と[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の衛星同時中継を展開。各地に[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を常駐させ最新情報を伝えた。アメリカ[ABCの夕方ニュースが始まる](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")7:30（現地時間の18:30）にはそのニュースを同時通訳付きで放送、パリからもフランスの民放局[TF1](../Page/TF1.md "wikilink")の前日20:00のニュースを時差付きで放送していた。
+報道・情報番組の強化を目指していた当時の[鹿内宏明](../Page/鹿内宏明.md "wikilink")会長の肝いりで、専用衛星回線「F-STAR」稼働に合わせて1991年4月に放送開始。タイトルの通り、[SNGを用いて](../Page/SNG_\(放送\).md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")と[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の衛星同時中継を展開。各地に[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を常駐させ最新情報を伝えた。放送に際しては、パリからの映像を[大西洋](../Page/大西洋.md "wikilink")上空の衛星を経由し、ニューヨークで受信、そしてニューヨークからの映像と共にアメリカの国内衛星、[ワシントン](../Page/ワシントン州.md "wikilink")・[ブリュースター](https://ja.wikipedia.org/wiki/ブリュースター "wikilink")にあるパラボラアンテナをそれぞれ経由し、太平洋上空の「F-STAR」に送られ、河田町・フジテレビのパラボラアンテナに受信される方式をとっていた。時差はパリ-東京間が0.78秒、ニューヨーク-東京間は0.5秒。アメリカ[ABCの夕方ニュースが始まる](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")7:30（現地時間の18:30）にはそのニュースを同時通訳付きで放送、パリからもフランスの民放局[TF1](../Page/TF1.md "wikilink")の前日20:00のニュースを時差付きで放送していた。
 
-初代総合司会は『[FNNニュースレポート11:30](../Page/FNNニュースレポート11:30.md "wikilink")』、『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』とお昼のニュースを9年間担当した同局の[露木茂](../Page/露木茂.md "wikilink")が担当。アシスタントには『[FNNニュースレポート11:30](../Page/FNNニュースレポート11:30.md "wikilink")』で露木と組んだ『[おはよう\!ナイスデイ](https://ja.wikipedia.org/wiki/おはよう!ナイスデイ "wikilink")』の元アシスタント・[吉崎典子](../Page/吉崎典子.md "wikilink")\[1\]が務めた。大型モニタがスタジオセットの壁面に設置され、海外支局を呼びかける演出に用いられた。
+初代総合司会は『[FNNニュースレポート11:30](../Page/FNNニュースレポート11:30.md "wikilink")』→『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』とお昼のニュースを9年間担当した同局の[露木茂](../Page/露木茂.md "wikilink")が担当。アシスタントには『FNNニュースレポート11:30』で露木と組んだ『[おはよう\!ナイスデイ](https://ja.wikipedia.org/wiki/おはよう!ナイスデイ "wikilink")』の元アシスタント・[吉崎典子](../Page/吉崎典子.md "wikilink")\[1\]が務めた。フジテレビ第7スタジオ（報道スタジオ）には大型モニターがスタジオセットの壁面に設置され、海外支局を呼びかける演出に用いられた。
 
-この時間帯はかねてより[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』が強かった上、[TBSの](../Page/TBSテレビ.md "wikilink")『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』も好調だったため視聴率がふるわず、1年後にはテコ入れをはかり露木・吉崎コンビを『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』\[2\]\[3\]に回し、総合司会に『[おはよう\!ナイスデイ](https://ja.wikipedia.org/wiki/おはよう!ナイスデイ "wikilink")』の総合司会を務めた[向坂樹興](../Page/向坂樹興.md "wikilink")、アシスタントには直前までパリ支局にいた[河野景子](../Page/河野景子.md "wikilink")を起用。『[モーニングLIVE](../Page/モーニングLIVE.md "wikilink")』のキャスター陣がスポーツ、お天気コーナーを担当し、フジテレビ報道スタジオからの放送等とコスト削減を用いた演出となった。
+この時間帯はかねてより[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")』が強かった上、[TBSの](../Page/TBSテレビ.md "wikilink")『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』も好調だったため視聴率がふるわず、1年後にはテコ入れをはかり露木・吉崎コンビを『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』\[2\]\[3\]に回し、総合司会に『[おはよう\!ナイスデイ](https://ja.wikipedia.org/wiki/おはよう!ナイスデイ "wikilink")』の総合司会を務めた[向坂樹興](../Page/向坂樹興.md "wikilink")、アシスタントには直前までパリ支局にいた[河野景子](../Page/河野景子.md "wikilink")を起用。『[モーニングLIVE](../Page/モーニングLIVE.md "wikilink")』のキャスター陣がスポーツ、お天気コーナーを担当し、第7スタジオのセットも『FNNスピーク』と共用のデザインに変更等とコスト削減を用いた演出となった。
 
 しかしこれでも視聴率は取れず、さらに[1992年](../Page/1992年.md "wikilink")7月に企画立案者でもある鹿内会長が[フジサンケイグループ](../Page/フジサンケイグループ.md "wikilink")内のクーデターによりグループ各社の会長職を解任・辞任に追い込まれて失脚。同年10月には放送時間変更を機にテーマ曲を改めるなど、短期間で頻繁にテコ入れが行われたが好転せず、[1993年](../Page/1993年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって番組は終了した。後番組は『[FNN おはよう\!サンライズ](../Page/FNN_おはよう!サンライズ.md "wikilink")』。
 
@@ -101,7 +101,7 @@
 <tr class="even">
 <td><p>1992.4.1</p></td>
 <td><p>1992.9.30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田代尚子" title="wikilink">田代尚子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田代尚子" title="wikilink">田代尚子</a><sup>5</sup></p></td>
 <td><p><a href="../Page/境鶴丸.md" title="wikilink">境鶴丸</a><sup>2・4</sup></p></td>
 <td><p><a href="../Page/長坂哲夫.md" title="wikilink">長坂哲夫</a><sup>2</sup></p></td>
 </tr>
@@ -120,6 +120,7 @@
 <li><sup>2</sup> 『<a href="../Page/モーニングLIVE.md" title="wikilink">モーニングLIVE</a>』を兼務。</li>
 <li><sup>3</sup> 1992年<a href="../Page/8月27日.md" title="wikilink">8月27日</a>以降、『<a href="../Page/FNNスピーク.md" title="wikilink">FNNスピーク</a>』を兼務。</li>
 <li><sup>4</sup> 『<a href="../Page/FNN_おはよう!サンライズ.md" title="wikilink">FNN おはよう!サンライズ</a>』も続投。　</li>
+<li><sup>5</sup>田代は1993.3.23まで担当後、一足早く帰国し最終回の1993.3.31は東京から出演。</li>
 </ul>
 <p></small></p></td>
 <td></td>
@@ -147,7 +148,7 @@
 
 ## ハプニング
 
-中継回線の不具合によるハプニングがあった。
+前述の方法で映像を受信していたが、経由地で大雨や霧雨が降った際は雨粒の密度が高いため電波を散乱させてしまい、中継回線が不具合を起こすことがあり、それの影響でハプニングもしばしばあった。
 
   - [1992年](../Page/1992年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")の放送で、[ニューヨーク](../Page/ニューヨーク.md "wikilink")支局の[永麻理](../Page/永麻理.md "wikilink")を呼び出した際、永の声が通常よりも甲高く放送された。気を取り直して[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")支局の[筒井櫻子](../Page/筒井櫻子.md "wikilink")を呼び出すも、こちらも同じように甲高かったが、不具合が直ったのか程なくして通常の声に戻った。
   - [1993年](../Page/1993年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")の放送で、パリ支局の筒井櫻子を呼び出した際、音声は通常通り流れたものの、映像がフリーズしたまま放送された。

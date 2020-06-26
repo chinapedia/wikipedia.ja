@@ -303,6 +303,9 @@
 
 :\*川井淳郎
 
+  -
+    [声](../Page/声優.md "wikilink") - [佐々木誠二](../Page/佐々木誠二.md "wikilink")
+
   - 追加車種
 
 :\*[SKYLINE 25GT TURBO(ER34)](../Page/日産・スカイライン.md "wikilink")

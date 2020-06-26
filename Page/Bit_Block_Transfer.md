@@ -29,4 +29,4 @@
   - [:en:Bit blit](https://ja.wikipedia.org/wiki/:en:Bit_blit "wikilink")
   - [:en:Multiple buffering](https://ja.wikipedia.org/wiki/:en:Multiple_buffering "wikilink")
 
-[Category:プログラミング](https://ja.wikipedia.org/wiki/Category:プログラミング "wikilink") [Category:コンピュータグラフィックス](https://ja.wikipedia.org/wiki/Category:コンピュータグラフィックス "wikilink")
+[Category:コンピュータグラフィックス・アルゴリズム](https://ja.wikipedia.org/wiki/Category:コンピュータグラフィックス・アルゴリズム "wikilink")

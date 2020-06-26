@@ -3,7 +3,7 @@
 
 『**情報デスクToday**』（じょうほうデスクトゥディ）は、[TBSほかで放送された](../Page/TBSテレビ.md "wikilink")[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。製作局のTBSでは[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送。
 
-放送時間は変動はあるが、月曜から木曜の深夜、その日の最終ニュース、スポーツニュースの後に放送されていた関係で、当初は23時35分開始、だんだん遅くなり最後は23時50分の開始で45分間放送されていた。ただし[番販扱い](../Page/番組販売.md "wikilink")（[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")対象外）だったため、[JNN加盟局でも放送しない局が少なくなかった](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。
+放送時間は変動はあるが、月曜から木曜の深夜、その日の最終ニュース、スポーツニュースの後に放送されていた関係で、当初は23時35分開始、だんだん遅くなり最後は23時50分の開始で45分間放送されていた。ただし[番販扱い](../Page/番組販売.md "wikilink")（[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")対象外）だったため、[JNN加盟局でも放送しない局が少なくなかった](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")。
 
 ## 概要
 
@@ -37,7 +37,7 @@
 
   - [東京放送](../Page/TBSテレビ.md "wikilink")（TBS）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")（RSK）
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）
   - [テレビユー福島](../Page/テレビユー福島.md "wikilink")（TUF）- 1983年11月28日のサービス放送期間中より（正式には開局後の1983年12月5日から）
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN)
   - [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS） ※1987年2月に突然ネットを開始した。また89年4月改編頃までは本編終了後すぐ自局出しのエンドカード(上記点ふりなし)を5秒間出し、すぐクロージングに入っていた(同改編以降はTBSのエンドカードを同時ネット)。

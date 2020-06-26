@@ -5,7 +5,7 @@
 
 ## 概要
 
-**C**は荷電共役変換（charge conjugation transformation: [粒子](../Page/粒子.md "wikilink")を[反粒子](../Page/反粒子.md "wikilink")へ反転する）、**P**は[パリティ変換](https://ja.wikipedia.org/wiki/パリティ_\(物理学\) "wikilink")（parity inversion transformation: 物理系の[鏡像](../Page/鏡像.md "wikilink")を作る）を意味し、**CP**はこれら二つの[演算子](../Page/演算子.md "wikilink")の積である。[強い相互作用](https://ja.wikipedia.org/wiki/強い相互作用 "wikilink")と[電磁相互作用](../Page/電磁相互作用.md "wikilink")はCP変換の元で不変であると考えられているが、[弱い相互作用](https://ja.wikipedia.org/wiki/弱い相互作用 "wikilink")による崩壊では、この対称性がわずかに破れている。
+**C**は荷電共役変換（charge conjugation transformation: [粒子](../Page/粒子.md "wikilink")を[反粒子](../Page/反粒子.md "wikilink")へ反転する）、**P**は[パリティ変換](https://ja.wikipedia.org/wiki/パリティ_\(物理学\) "wikilink")（parity inversion transformation: 物理系の[鏡像](../Page/鏡像.md "wikilink")を作る）を意味し、**CP**はこれら二つの[演算子](../Page/演算子.md "wikilink")の積である。[強い相互作用](../Page/強い相互作用.md "wikilink")と[電磁相互作用](../Page/電磁相互作用.md "wikilink")はCP変換の元で不変であると考えられているが、[弱い相互作用](https://ja.wikipedia.org/wiki/弱い相互作用 "wikilink")による崩壊では、この対称性がわずかに破れている。
 
 歴史的にみるとCP対称性は、1950年代に発見された[パリティ対称性の破れ](../Page/パリティ対称性の破れ.md "wikilink")を回復するために提案された。パリティ対称性とは、素粒子物理学の法則が鏡像反転のもとで不変である、という考えを背景としている。これは、化学反応や放射性崩壊のような反応が、鏡像反転しても同じ頻度で起きることを示唆している。
 

@@ -42,6 +42,7 @@
   - [表面波マグニチュード](https://ja.wikipedia.org/wiki/表面波マグニチュード "wikilink")（[地震](../Page/地震.md "wikilink")の規模を表すマグニチュードの一種）
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink") (MUSIC STATION)
   - [ミニストップ](https://ja.wikipedia.org/wiki/ミニストップ "wikilink")
+  - [モレキュラーシーブ](../Page/モレキュラーシーブ.md "wikilink")
 
 ## 型番
 

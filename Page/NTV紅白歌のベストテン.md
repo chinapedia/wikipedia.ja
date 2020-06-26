@@ -244,13 +244,13 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
-<td></td>
+<td><p>[11]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
-<td></td>
+<td><p>[12]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -374,3 +374,5 @@
 8.
 9.
 10. 『[福島民報](../Page/福島民報.md "wikilink")』1975年10月6日付朝刊テレビ欄。
+11. 『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1977年2月7日付朝刊、テレビ欄。
+12.

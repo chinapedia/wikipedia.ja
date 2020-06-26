@@ -1,7 +1,7 @@
 > この記事は[SOMETHING DREAMS マルチメディアカウントダウン](https://ja.wikipedia.org/wiki/SOMETHING_DREAMS_マルチメディアカウントダウン)から翻訳されています。
 
 
-『**SOMETHING DREAMS マルチメディアカウントダウン**』（サムシング・ドリームズ マルチメディアカウントダウン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")まで[文化放送](../Page/文化放送.md "wikilink")をキーステーションに[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[RKBラジオ](../Page/RKBラジオ.md "wikilink")で放送されていた[アニラジ](../Page/アニラジ.md "wikilink")。[HBCラジオ](../Page/HBCラジオ.md "wikilink")にもネットされていた時期がある。放送時間は文化放送で土曜23:00 - 24:00。文化放送、RKBラジオ以外は30分の短縮版で放送された。通称**ドリカン**。
+『**SOMETHING DREAMS マルチメディアカウントダウン**』（サムシング・ドリームズ マルチメディアカウントダウン）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")まで[文化放送](../Page/文化放送.md "wikilink")をキーステーションに[北日本放送](../Page/北日本放送.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[RKBラジオ](../Page/RKBラジオ.md "wikilink")で放送されていた[アニラジ](../Page/アニラジ.md "wikilink")。[HBCラジオ](../Page/HBCラジオ.md "wikilink")にもネットされていた時期がある。放送時間は文化放送で土曜23:00 - 24:00。文化放送、RKBラジオ以外は30分の短縮版で放送された。通称**ドリカン**。
 
 ## パーソナリティ
 

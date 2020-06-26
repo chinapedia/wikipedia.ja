@@ -7,9 +7,9 @@
 
 大文字は、縦棒の下端から右に横棒が出た形である。[フラクトゥール](../Page/フラクトゥール.md "wikilink")は\(\mathfrak{L}\)である。
 
-小文字では、横棒を欠く。従って大文字の [I](../Page/I.md "wikilink") や数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") と紛らわしい（[ホモグリフ](https://ja.wikipedia.org/wiki/ホモグリフ "wikilink")）。僅に[セリフ（飾り）によって区別することが可能で](../Page/セリフ_\(文字\).md "wikilink")、大文字の I は上端と下端で左右両方に飾りが出て「工」にに対して、数字の 1 とLの小文字 l は、上端は右に飾りが出ない。数字の 1 の上の飾りは鋭角に下に曲がっているのに対し、Lの小文字 l は左に真っ直ぐである。
+小文字では、横棒を欠く。従って大文字の [I](../Page/I.md "wikilink") や数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") と紛らわしい（[ホモグリフ](../Page/ホモグリフ.md "wikilink")）。僅に[セリフ（飾り）によって区別することが可能で](../Page/セリフ_\(文字\).md "wikilink")、大文字の I は上端と下端で左右両方に飾りが出て「工」に対して、数字の 1 とLの小文字 l は、上端は右に飾りが出ない。数字の 1 の上の飾りは鋭角に下に曲がっているのに対し、Lの小文字 l は左に真っ直ぐである。
 
-一方で、筆記体では  のようであり、それらと区別することが可能である。後述する単位の[リットル](../Page/リットル.md "wikilink")は、日本国内において印刷書体でも筆記体で「 ℓ 」の書体を使う例がある。ただし、これは [e](https://ja.wikipedia.org/wiki/e "wikilink") の筆記体と似ており、縦の長短でしか区別ができない。縦長が「L」の筆記体であり、縦短が「[E](https://ja.wikipedia.org/wiki/E "wikilink")」の筆記体である。[フラクトゥール](../Page/フラクトゥール.md "wikilink")では \(\mathfrak{l}\) となる。
+一方で、筆記体では  のようであり、それらと区別することが可能である。後述する単位の[リットル](../Page/リットル.md "wikilink")は、日本国内において印刷書体でも筆記体で「 ℓ 」の書体を使う例がある。\[1\]ただし、これは [e](https://ja.wikipedia.org/wiki/e "wikilink") の筆記体と似ており、縦の長短でしか区別ができない。縦長が「L」の筆記体であり、縦短が「[E](https://ja.wikipedia.org/wiki/E "wikilink")」の筆記体である。[フラクトゥール](../Page/フラクトゥール.md "wikilink")では \(\mathfrak{l}\) となる。
 
 ## 呼称
 
@@ -71,7 +71,7 @@
   - [NTTグループの行っている固定電話を使ったインターネット接続サービス](../Page/日本電信電話.md "wikilink")・[Lモード](../Page/Lモード.md "wikilink")。
   - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[LGエレクトロニクス](../Page/LGエレクトロニクス.md "wikilink")製端末用符号。
   - 旧[ロッキード](../Page/ロッキード.md "wikilink")社製航空機の形式で旅客機を表す記号。
-  - [富士通](../Page/富士通.md "wikilink")製[ソフトウェア](../Page/ソフトウェア.md "wikilink")に使用される、[バージョンより小さな製品改良を表す数値](../Page/バージョン管理システム.md "wikilink")、レベル(**L**evel)。例えば、ScanSnap Managerの2014年12月18日アップデート版は、「V6.3L24」である\[1\]。
+  - [富士通](../Page/富士通.md "wikilink")製[ソフトウェア](../Page/ソフトウェア.md "wikilink")に使用される、[バージョンより小さな製品改良を表す数値](../Page/バージョン管理システム.md "wikilink")、レベル(**L**evel)。例えば、ScanSnap Managerの2014年12月18日アップデート版は、「V6.3L24」である\[2\]。
 
 ### スポーツ・ゲーム関連
 
@@ -94,7 +94,7 @@
   - 英文[タイプライター](../Page/タイプライター.md "wikilink")で、数字の "1" の代わりに、小文字の "l" を打つことがある。
   - 古代ローマ人の個人名[ルキウス](../Page/ルキウス.md "wikilink") (**L**ucius) の略。
   - [セム系の神](https://ja.wikipedia.org/wiki/セム族_\(民族集団\) "wikilink")「[エール、エル](../Page/エール_\(神\).md "wikilink")」、あるいは、光明神「[ルシファー](../Page/ルシファー.md "wikilink")」を意味する隠語。
-  - [漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』に登場する探偵。→「[L (DEATH NOTE)](../Page/L_\(DEATH_NOTE\).md "wikilink")」を参照
+  - [漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")』に登場する探偵。→「[L (DEATH NOTE)](../Page/L_\(DEATH_NOTE\).md "wikilink")」を参照
   - 確認表示灯内蔵スイッチ。構内電気設備配線用図記号 ([JIS](https://ja.wikipedia.org/wiki/JIS "wikilink") C 0303:2000) で用いられる。スイッチの図記号に傍記。
   - [L-エル-](https://ja.wikipedia.org/wiki/L-エル- "wikilink") - [Acid Black Cherryのアルバム](../Page/Acid_Black_Cherry.md "wikilink")、およびそれを原作とした映画作品。
 
@@ -105,7 +105,13 @@
 
 ## 他の表現法
 
-## 脚注
+## 注釈·出典
+
+### 注釈
+
+<references group="注釈" />
+
+### 出典
 
 ## 関連項目
 
@@ -134,4 +140,5 @@
 
 [Category:ラテン文字](https://ja.wikipedia.org/wiki/Category:ラテン文字 "wikilink")
 
-1.  [【アップデート情報】パッケージ・ドライバー関連 12月19日](http://www.forest.impress.co.jp/docs/update/driver/20141219_681105.html)、[窓の杜](../Page/窓の杜.md "wikilink")、2014年12月19日 12:15。
+1.  中学理科教科書では[リットル](../Page/リットル.md "wikilink")の記号として「 ℓ 」を使わないという記載がある(「新版理科の世界1年」大日本図書、2020年2月5日発行\<276ページ\>)
+2.  [【アップデート情報】パッケージ・ドライバー関連 12月19日](http://www.forest.impress.co.jp/docs/update/driver/20141219_681105.html)、[窓の杜](../Page/窓の杜.md "wikilink")、2014年12月19日 12:15。

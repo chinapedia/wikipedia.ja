@@ -364,7 +364,7 @@ ESCL-2986:通常盤</p></td>
 <li>Twinkle Star</li>
 <li>endless lover’s rain 【作詞:BIKKE,高野寛/作曲:斉藤哲也/編曲:Nathalie Wise】</li>
 <li>LOOK〜Special Edition〜</li>
-<li>サイボーグ俺達 【作詞作曲:<a href="https://ja.wikipedia.org/wiki/ハヤシヒロユキ" title="wikilink">ハヤシヒロユキ</a>/編曲:<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>】</li>
+<li>サイボーグ俺達 【作詞作曲:<a href="../Page/ハヤシヒロユキ.md" title="wikilink">ハヤシヒロユキ</a>/編曲:<a href="../Page/POLYSICS.md" title="wikilink">POLYSICS</a>】</li>
 <li>ドライバーズ・ライセンス feat.<a href="../Page/宇多丸.md" title="wikilink">宇多丸</a>(<a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>) 【作詞:HALCALI,宇多丸/作曲編曲:ALI-KICK】</li>
 <li>フェスでウィッス! 【作詞:サイトウ"JxJx"ジュン/作曲:MASATOMO YOSHIZAWA/編曲:YOUR SONG IS GOOD】</li>
 <li>桃源郷</li>

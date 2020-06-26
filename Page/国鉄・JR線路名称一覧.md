@@ -9,7 +9,7 @@
 
   - [東海道](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")・[山陽新幹線](https://ja.wikipedia.org/wiki/山陽新幹線 "wikilink") : 対応する[在来線](../Page/在来線.md "wikilink")（[東海道本線](https://ja.wikipedia.org/wiki/東海道本線 "wikilink")・[山陽本線](https://ja.wikipedia.org/wiki/山陽本線 "wikilink")・[鹿児島本線](https://ja.wikipedia.org/wiki/鹿児島本線 "wikilink")）のそれぞれ無名枝線として記載、[営業キロ](../Page/営業キロ.md "wikilink")は区間が対応する在来線と同じ営業キロを採用（この記載方式は東北新幹線が部分開業した[1982年](../Page/1982年.md "wikilink")から用いられたもので、それまではあくまで在来線の「線増」であるとして記載自体がなかった）。
   - [東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink") : 全区間が在来線（[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")）の無名枝線である。ただし、営業キロの扱いが同じ路線の中で異なり、[盛岡駅](https://ja.wikipedia.org/wiki/盛岡駅 "wikilink")以南は対応する東北本線の営業キロを採用しているのに対し、いわゆる「[整備新幹線](https://ja.wikipedia.org/wiki/整備新幹線 "wikilink")」で並行在来線が分離された盛岡以北は[実キロ](https://ja.wikipedia.org/wiki/実キロ "wikilink")を採用している。営業中の他の整備新幹線が独立した線路名称を持っているのとは異なる扱いである。
-  - [上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink") : 対応する在来線（[高崎線](https://ja.wikipedia.org/wiki/高崎線 "wikilink")・[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")・[信越本線](https://ja.wikipedia.org/wiki/信越本線 "wikilink")）のそれぞれ無名枝線として記載。営業キロは区間が対応する在来線のものを採用。
+  - [上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink") : 対応する在来線（[高崎線](https://ja.wikipedia.org/wiki/高崎線 "wikilink")・[上越線](../Page/上越線.md "wikilink")・[信越本線](https://ja.wikipedia.org/wiki/信越本線 "wikilink")）のそれぞれ無名枝線として記載。営業キロは区間が対応する在来線のものを採用。
   - [北陸新幹線](https://ja.wikipedia.org/wiki/北陸新幹線 "wikilink"): 「信越線の部」に「北陸新幹線」という独立した線路として記載。営業キロも全区間を実キロとしている。2015年3月に開業したJR西日本運営区間については線路名称公告未公表だが、JR東日本の例に従えば「北陸新幹線」という独立した線路となる。
   - [九州新幹線](https://ja.wikipedia.org/wiki/九州新幹線_\(鹿児島ルート\) "wikilink") : 並行在来線のある[博多駅](https://ja.wikipedia.org/wiki/博多駅 "wikilink") - [新八代駅](../Page/新八代駅.md "wikilink")間および[川内駅](https://ja.wikipedia.org/wiki/川内駅_\(鹿児島県\) "wikilink") - [鹿児島中央駅](https://ja.wikipedia.org/wiki/鹿児島中央駅 "wikilink")間は鹿児島本線の無名枝線で、営業キロは対応する在来線の営業キロを採用。並行在来線の分離された新八代駅 - 川内駅間は、「鹿児島線の部」に「九州新幹線」という独立した線路として記載し、営業キロも実キロを採用している。
 
@@ -242,7 +242,7 @@
   - \*[高崎線](https://ja.wikipedia.org/wiki/高崎線 "wikilink")（幹）
       - [上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")（幹）　※大宮 - 高崎間
   - 八高北線　…　1931年7月1日　新規開業により制定。1934年10月6日　八高線（中央線の部）に編入
-  - [上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")（幹）　…　1931年9月1日　上越北線（[信越線の部](https://ja.wikipedia.org/wiki/#信越線の部 "wikilink")）を編入し上越南線を改称
+  - [上越線](../Page/上越線.md "wikilink")（幹）　…　1931年9月1日　上越北線（[信越線の部](https://ja.wikipedia.org/wiki/#信越線の部 "wikilink")）を編入し上越南線を改称
       - 上越南線　…　1921年7月1日　新規開業により制定。1931年9月1日　上越線に改称
       - [上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")（幹）　※高崎 - 長岡間
   - [吾妻線](https://ja.wikipedia.org/wiki/吾妻線 "wikilink")（地）　…　1971年3月7日　長野原線を改称

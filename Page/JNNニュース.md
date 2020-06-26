@@ -55,10 +55,10 @@
 
 平日の地デジEPGでの番組の名称は、以下のように系列局によって異なる。
 
-  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")\[4\]、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[5\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
+  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")\[4\]、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[5\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - 「ひるおび\!JNN NEWS」 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - 「ひるおび\!（JNN NEWS）」 - [テレビユー福島](../Page/テレビユー福島.md "wikilink")
-  - 「JNNニュース」 - [北海道放送](../Page/北海道放送.md "wikilink")\[6\]、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")
+  - 「JNNニュース」 - [北海道放送](../Page/北海道放送.md "wikilink")\[6\]、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")
       - なお、「JNN NEWS」として放送している局では、ニュース枠のエンディングは、北海道放送の様にエンドタイトルを流さない局や琉球放送のようにエンドタイトルを流す局に分かれる。
 
 日曜版は1985年4月以来、35年（『THE NEWS』時代を含む）の長期に渡って11:30 - 11:40枠だったが、2020年4月より5分拡大して11:45までの放送となった。ただし拡大分の11:40 - 11:45枠は実質的には[ガイド枠であるため](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、番組自体は拡大しない。
@@ -71,7 +71,7 @@
 
   - 平日 9:40頃（2015年3月30日 - ）
 
-『[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink")』内で「最新ニュースラック\!」として放送。かつては報道フロアから放送していたが、『[ビビット](https://ja.wikipedia.org/wiki/ビビット_\(テレビ番組\) "wikilink")』以降はスタジオの進行アナウンサーがキャスターを兼ねるようになったため生放送のスタジオから報じている。2010年10月1日までは本編に内包されていたが、同年10月4日より2014年3月28日の「はなまる」終了まで、本編のエンディングを早め、ニュースは独立して放送する形に改められた（コーナーオープニングでは画面右上に「はなまるニュース」アイコンを、エンディングでは画面右下に「製作著作 TBS+JNNシンボルマーク"ジーン"」を各々表示。放送終了後の9:52から始まり、9:55ちょうどに終了していた。なお、「ビビット」内の『JNN NEWS』の項目フォーマットは、独自のもの\[7\] を使用していたが、2017年10月2日から『JNN NEWS』の項目フォーマットのものに統一された。
+『[グッとラック\!](https://ja.wikipedia.org/wiki/グッとラック! "wikilink")』内で**「最新ニュースラック\!」**として放送。かつては報道フロアから放送していたが、『[ビビット](https://ja.wikipedia.org/wiki/ビビット_\(テレビ番組\) "wikilink")』以降はスタジオの進行アナウンサーがキャスターを兼ねるようになったため生放送のスタジオから報じている。2010年10月1日までは本編に内包されていたが、同年10月4日より2014年3月28日の「はなまる」終了まで、本編のエンディングを早め、ニュースは独立して放送する形に改められた（コーナーオープニングでは画面右上に「はなまるニュース」アイコンを、エンディングでは画面右下に「製作著作 TBS+JNNシンボルマーク"ジーン"」を各々表示。放送終了後の9:52から始まり、9:55ちょうどに終了していた。なお、「ビビット」内の『JNN NEWS』の項目フォーマットは、独自のもの\[7\] を使用していたが、2017年10月2日から『JNN NEWS』の項目フォーマットのものに統一された。
 
 『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』放送時代の[2009年](../Page/2009年.md "wikilink")3月27日までは番組の非ネット局がある関係で[JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")の規則上、「JNN NEWS」として扱われておらず\[8\]、「はなまるニュース」として放送されていた。『THE NEWS』がスタートした2009年3月30日からは最後まで非ネットだった[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")と[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")でのネットを開始したことにより、JNN協定が適用され、JNN NEWSとして放送されるようになった。
 
@@ -93,7 +93,7 @@
 
   - 土曜日 23:12頃
 
-『[新・情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/新・情報7DAYS_ニュースキャスター "wikilink")\[11\]』内で放送。同番組メインキャスターの[安住紳一郎](../Page/安住紳一郎.md "wikilink")（[TBSアナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")）が2〜3項目を報じる。この時間帯のニュースは前身番組の『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』時代から放送されている。項目フォーマットは独自のものを使用している。
+『[新・情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/新・情報7DAYS_ニュースキャスター "wikilink")\[11\]』内で放送。同番組総合司会の[安住紳一郎](../Page/安住紳一郎.md "wikilink")（[TBSアナウンサー](https://ja.wikipedia.org/wiki/TBSテレビのアナウンサー一覧 "wikilink")）が2〜3項目を報じる。この時間帯のニュースは前身番組の『[ブロードキャスター](../Page/ブロードキャスター.md "wikilink")』時代から放送されている。項目フォーマットは独自のものを使用している。
 
   - 深夜
 
@@ -660,7 +660,7 @@
 <tr class="even">
 <td><p>2016.10.24</p></td>
 <td><p>2017.4.1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/片山美紀" title="wikilink">片山美紀</a></p></td>
+<td><p><a href="../Page/片山美紀.md" title="wikilink">片山美紀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017.4.2</p></td>

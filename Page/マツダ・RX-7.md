@@ -5,7 +5,7 @@
 
 ## 概要
 
-[サバンナクーペの後継として](../Page/マツダ・サバンナ.md "wikilink")、**[サバンナRX-7](https://ja.wikipedia.org/wiki/マツダ・サバンナRX-7 "wikilink")**（**SAVANNA RX-7**）の名で[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月に発表。[1991年](../Page/1991年.md "wikilink")に行われた2度目の[フルモデルチェンジを機に](../Page/モデルチェンジ.md "wikilink")、マツダが当時展開していた[アンフィニ](https://ja.wikipedia.org/wiki/アンフィニ "wikilink")ブランドからの発売となり、名称が**アンフィニ・RX-7**(**εfini・RX-7**)へ変更されたが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月のアンフィニブランドの廃止で再びマツダブランドに戻している。2002年8月、[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の強化を受けて生産を終了。累計生産台数は81万台\[1\]。
+[サバンナクーペの後継として](../Page/マツダ・サバンナ.md "wikilink")、**サバンナRX-7**（**SAVANNA RX-7**）の名で[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")3月に発表。[1991年](../Page/1991年.md "wikilink")に行われた2度目の[フルモデルチェンジを機に](../Page/モデルチェンジ.md "wikilink")、マツダが当時展開していた[アンフィニ](https://ja.wikipedia.org/wiki/アンフィニ "wikilink")ブランドからの発売となり、名称が**アンフィニ・RX-7**(**εfini・RX-7**)へ変更されたが、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")10月のアンフィニブランドの廃止で再びマツダブランドに戻している。2002年8月、[自動車排出ガス規制](../Page/自動車排出ガス規制.md "wikilink")の強化を受けて生産を終了。累計生産台数は81万台\[1\]。
 
 3代に渡り一貫してスポーツカーには珍しく、サッシュドアを採用している点も他社の類似車種には見られない特徴であった。また、3代ともフロントマスクに[リトラクタブル・ヘッドライト](../Page/リトラクタブル・ヘッドライト.md "wikilink")を採用しており、FD型は日本車で最後にリトラクタブル・ヘッドライトを装備した車種となった。
 
@@ -211,7 +211,7 @@
 
 ## 車名の由来
 
-「R」が「[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")」、「X」が「未来を象徴する記号」を表し、「ロータリー・スペシャリティ」とも表現される。「7」は「マツダ内での車格番号」で、ほかには[2](../Page/マツダ・カペラ.md "wikilink")、[3](../Page/マツダ・サバンナ.md "wikilink")、[4](https://ja.wikipedia.org/wiki/マツダ・RX-4 "wikilink")、[5](../Page/マツダ・コスモ.md "wikilink")（コスモAPの輸出仕様）、[8を車名に含んだ車種がある](../Page/マツダ・RX-8.md "wikilink")。
+「R」が「[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")」、「X」が「未来を象徴する記号」を表し、「ロータリー・スペシャリティ」とも表現される。「7」は「マツダ内での車格番号」を意味する。 RXの車名を採用した車種は[2](../Page/マツダ・カペラ.md "wikilink")、[3](../Page/マツダ・サバンナ.md "wikilink")、[4](https://ja.wikipedia.org/wiki/マツダ・RX-4 "wikilink")、[5](../Page/マツダ・コスモ.md "wikilink")（コスモAPの輸出仕様）が存在したが、日本国内向け車種でRXを使用したのは当車が初めてであり、後継の[8も同様となった](../Page/マツダ・RX-8.md "wikilink")。
 
 ## 脚注
 

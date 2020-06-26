@@ -7,7 +7,7 @@
 
 [群馬県立太田女子高等学校](../Page/群馬県立太田女子高等学校.md "wikilink")卒業。
 
-声優デビューは[1981年](../Page/1981年.md "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[うる星やつら](https://ja.wikipedia.org/wiki/うる星やつら_\(アニメ\) "wikilink")』で演じた幼稚園児役。同アニメのヒロイン・ラム役の[オーディション](../Page/オーディション.md "wikilink")を受けるも落選。ただその際に、その特徴ある声がスタッフに気に入られ、ほぼ毎回脇役として出演していた。
+声優デビューは[1981年](../Page/1981年.md "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[うる星やつら](https://ja.wikipedia.org/wiki/うる星やつら_\(アニメ\) "wikilink")』で演じた幼稚園児役。同アニメのヒロイン・ラム役の[オーディション](../Page/オーディション.md "wikilink")を受けるも落選。ただその際に、その特徴ある声がスタッフに気に入られ、脇役としてほぼ毎回出演していた。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")からは、『[ちびまる子ちゃん](https://ja.wikipedia.org/wiki/ちびまる子ちゃん#アニメ "wikilink")』で主人公・まる子役を担当。同作品が人気作になったこともあり、知名度を上げ[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")の[司会](../Page/司会.md "wikilink")としても活動。ナレーションの仕事も数多くこなしている。
 

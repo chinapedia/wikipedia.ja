@@ -223,6 +223,8 @@ RFタグは、バーコードと対比して語られることが多い。一見
 
   - [RFID/IoT Mobile Solution Lab.](http://www.tss21.co.jp/lab/) RFIDとIoT、モバイル機器の体験型ラボラトリー
 
+  - [ICタグのトータルサポーター　RFID NFC RealTouchShop](https://www.rfid-nfc-realtouchshop.com/)
+
 [Category:RFID](https://ja.wikipedia.org/wiki/Category:RFID "wikilink") [Category:モバイルネットワーク](https://ja.wikipedia.org/wiki/Category:モバイルネットワーク "wikilink") [Category:自動認識およびデータ取得](https://ja.wikipedia.org/wiki/Category:自動認識およびデータ取得 "wikilink") [Category:通信機器](https://ja.wikipedia.org/wiki/Category:通信機器 "wikilink")
 
 1.  平成10年[郵政省](../Page/郵政省.md "wikilink")令第111号による[電波法施行規則](../Page/電波法施行規則.md "wikilink")改正

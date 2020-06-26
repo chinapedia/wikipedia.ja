@@ -9,10 +9,9 @@
 
 ## 再編から終焉に至るまで
 
-  - バブル経済崩壊不況による売り上げ低迷や加入数自体の低迷があったことから、1年後の1993年6月にPCMジャパン及びPCMセントラルが廃局したのを機に、他事業者が相次いで合併し1996年10月にはミュージックバードのみとなってしまう。
-  - そのミュージックバードも2011年7月31日をもって、PCM音声放送の終了が発表されて、その後予定通り放送は終了された。理由は暗号用チップの生産終了にともなうチューナー追加生産不能と委託先（財団法人放送セキュリティーセンター）の暗号化業務終了のためである<ref>[PCM放送サービス終了のお知らせ](http://www.musicbird.jp/20100802.html)
+バブル経済崩壊不況による売り上げ低迷や加入数自体の低迷があったことから、1年後の1993年6月にPCMジャパン及びPCMセントラルが廃局したのを機に、他事業者が相次いで合併し1996年10月にはミュージックバードのみとなってしまう。
 
-「株式会社ミュージックバード」2010年8月</ref>。これにより全てのCS-PCM音声放送が消滅した。奇しくも日本での[アナログBS放送終了と同時期である](https://ja.wikipedia.org/wiki/日本における衛星放送#BS放送 "wikilink")。（ミュージックバードは現在、SPACE DiVAにて放送を継続中。）
+そのミュージックバードも2011年7月31日をもって、PCM音声放送の終了が発表されて、その後予定通り放送は終了された。理由は暗号用チップの生産終了にともなうチューナー追加生産不能と委託先（財団法人放送セキュリティーセンター）の暗号化業務終了のためである\[1\]。これにより全てのCS-PCM音声放送が消滅した。奇しくも日本での[アナログBS放送終了と同時期である](https://ja.wikipedia.org/wiki/日本における衛星放送#BS放送 "wikilink")。（ミュージックバードは現在、SPACE DiVAにて放送を継続中。）
 
 ## 沿革
 
@@ -39,3 +38,5 @@
 ## 脚注
 
 [Category:日本の衛星ラジオ放送](https://ja.wikipedia.org/wiki/Category:日本の衛星ラジオ放送 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:日本テレビの歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの歴史 "wikilink") [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink") [Category:TOKYO_FMの歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの歴史 "wikilink") [Category:KADOKAWAの歴史](https://ja.wikipedia.org/wiki/Category:KADOKAWAの歴史 "wikilink") [Category:中部日本放送の歴史](https://ja.wikipedia.org/wiki/Category:中部日本放送の歴史 "wikilink")
+
+1.  [PCM放送サービス終了のお知らせ](http://www.musicbird.jp/20100802.html)「株式会社ミュージックバード」2010年8月

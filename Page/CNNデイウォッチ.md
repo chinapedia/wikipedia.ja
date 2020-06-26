@@ -63,8 +63,9 @@
 <li><a href="https://ja.wikipedia.org/wiki/清水國明" title="wikilink">清水國明</a> - 1988年4月時点では土曜日担当</li>
 <li><a href="https://ja.wikipedia.org/wiki/坂本明美" title="wikilink">坂本明美</a> - 男性、1991年時点では日曜日担当</li>
 <li><a href="../Page/東海林良.md" title="wikilink">東海林良</a>[3]</li>
-<li><a href="https://ja.wikipedia.org/wiki/山上万恵美" title="wikilink">山上万恵美</a></li>
+<li><a href="../Page/山上万恵美.md" title="wikilink">山上万恵美</a></li>
 <li><a href="../Page/秋尾沙戸子.md" title="wikilink">秋尾沙戸子</a></li>
+<li>中里雅子</li>
 </ul></td>
 </tr>
 </tbody>

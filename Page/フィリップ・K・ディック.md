@@ -282,7 +282,7 @@ Philip K. Dick Society はディックの作品を管理する団体で、友人
 
 ### 一般小説
 
-  - 市に虎声あらん "Voices from the Street" （1950年）- 処女作であるが、出版は2007年。[平凡社](../Page/平凡社.md "wikilink")による日本語版は2013年
+  - 市に虎声あらん "Voices from the Street" （1950年）- 処女作だが、出版は2007年。日本語版は、[平凡社](../Page/平凡社.md "wikilink")、2013年。[ハヤカワ文庫](../Page/ハヤカワ文庫.md "wikilink")、2020年
   - ジャック・イジドアの告白（戦争が終わり、世界の終わりが始まった） *Confessions of a Crap Artist* （1975年）
   - ティモシー・アーチャーの転生 *The Transmigration of Timothy Archer* （1982年）
   - 小さな場所で大騒ぎ *Puttering about in a Small Land* （1985年）
@@ -290,9 +290,9 @@ Philip K. Dick Society はディックの作品を管理する団体で、友人
 
 ### ノンフィクション
 
-  - ラスト・テスタメント P・K・ディックの最後の聖訓（[グレッグ・リックマン](https://ja.wikipedia.org/wiki/グレッグ・リックマン "wikilink")編） *Philip K. Dick the Last Testament Philip K. Dick* （1985年） -インタビュー
-  - フィリップ・K・ディック 我が生涯の弁明（[ロランス・スーティン](https://ja.wikipedia.org/wiki/ロランス・スーティン "wikilink")編）*In pursuit of Valis: selections from the exegesis* （1991年） -『釈義』
-  - フィリップ・K・ディックのすべて -ノンフィクション集成（[ローレンス・スーチン](https://ja.wikipedia.org/wiki/ローレンス・スーチン "wikilink")編） *The Shifting Realities of Philip K. Dick* （1995年）
+  - ラスト・テスタメント - P・K・ディックの最後の聖訓（グレッグ・リックマン編、[ペヨトル工房](../Page/ペヨトル工房.md "wikilink")、1990年） *Philip K. Dick the Last Testament Philip K. Dick* （原著1985年）。インタビュー
+  - フィリップ・K・ディック - 我が生涯の弁明（ロランス・スーティン編、[アスペクト](../Page/アスペクト_\(企業\).md "wikilink")、2001年）*In pursuit of Valis: selections from the exegesis* （原著「釈義」1991年）
+  - フィリップ・K・ディックのすべて - ノンフィクション集成（ローレンス・スーチン編、[ジャストシステム](../Page/ジャストシステム.md "wikilink")、1996年） *The Shifting Realities of Philip K. Dick* （原著1995年）
 
 ## 関連書籍
 

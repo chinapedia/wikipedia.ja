@@ -57,12 +57,12 @@
 
   - FENCE OF DEFENSE LIVE Restructive Future:2235 Part1（2010年12月15日）（配信専用）
   - FENCE OF DEFENSE LIVE Restructive Future:2235 Part2（2010年12月15日）（配信専用）
-  - [GOLDIVIN](https://ja.wikipedia.org/wiki/GOLDIVIN "wikilink")（CD＋DVD）（2012年6月29日一般発売）☆
+  - [GOLDIVIN](../Page/GOLDIVIN.md "wikilink")（CD＋DVD）（2012年6月29日一般発売）☆
 
 #### キングレコード
 
   - [digiTaglam 2 RING WORLD](https://ja.wikipedia.org/wiki/digiTaglam_2_RING_WORLD "wikilink")（2014年1月8日）☆
-  - [Primitive New Essence](https://ja.wikipedia.org/wiki/Primitive_New_Essence "wikilink")（2020年2月19日）☆
+  - [Primitive New Essence](../Page/Primitive_New_Essence.md "wikilink")（2020年2月19日）☆
 
 #### DUSTRAX RECORDS（インディーズレーベル）
 
@@ -84,7 +84,7 @@
 #### EPIC・ソニー
 
   - [フェイシア](https://ja.wikipedia.org/wiki/フェイシア_\(曲\) "wikilink") (c/w EMOTIONAL WAY)（1987年6月21日）
-  - ナイトレス・ガール (c/w PLASTIC AGE)（1987年9月26日）（後に[近藤真彦](../Page/近藤真彦.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")がカバー)
+  - ナイトレス・ガール (c/w PLASTIC AGE)（1987年9月26日）（後に[近藤真彦](../Page/近藤真彦.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")がカバー)
   - FREAKS (c/w STRANGER OVER SPLENDOR)（1987年12月2日）
   - MIDNIGHT FLOWER (c/w HARD LIPS)（1988年2月26日）
   - [SARA](https://ja.wikipedia.org/wiki/SARA_\(FENCE_OF_DEFENSEの曲\) "wikilink") (c/w BACK TO THE EDGE)（1988年9月21日)（[読売テレビ系アニメ](../Page/讀賣テレビ放送.md "wikilink")『[シティーハンター2](../Page/シティーハンター_\(アニメ\).md "wikilink")』OP曲2）

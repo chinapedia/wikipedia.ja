@@ -29,7 +29,7 @@
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：木曜 19:00 - 19:30（1968年10月 - 1969年3月） → 月曜 19:00 - 19:30（1969年4月から）\[8\]
   - [テレビ山梨](../Page/テレビ山梨.md "wikilink")
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（1968年の時点で火曜 17:30 - 18:00にて遅れネット\[9\]。その後1973年10月1日同時ネット開始。それまでの同時ネット時間帯は日本テレビ系列の『[流星人間ゾーン](../Page/流星人間ゾーン.md "wikilink")』を同時ネットしていた\[10\]）
+  - [北日本放送](../Page/北日本放送.md "wikilink")（1968年の時点で火曜 17:30 - 18:00にて遅れネット\[9\]。その後1973年10月1日同時ネット開始。それまでの同時ネット時間帯は日本テレビ系列の『[流星人間ゾーン](../Page/流星人間ゾーン.md "wikilink")』を同時ネットしていた\[10\]）
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")
   - [福井放送](../Page/福井放送.md "wikilink")：金曜 18:00 - 18:30\[11\]
   - [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")

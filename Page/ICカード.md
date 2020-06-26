@@ -1,7 +1,7 @@
 > この記事は[ICカード](https://ja.wikipedia.org/wiki/ICカード)から翻訳されています。
 
 
-**ICカード**（アイシーカード、; ）とは、[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")（[データ](../Page/データ.md "wikilink")）の記録や演算をするために[集積回路](../Page/集積回路.md "wikilink") () を組み込んだ[カード](../Page/カード.md "wikilink")のことである。国際的には**スマートカード** () や**チップカード** () とも呼ばれ、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、特に演算処理機能を持つものをスマートカードと呼ぶ。
+[IC_Card_Reader_Writer_RW-5100W.jpg](https://ja.wikipedia.org/wiki/File:IC_Card_Reader_Writer_RW-5100W.jpg "fig:IC_Card_Reader_Writer_RW-5100W.jpg")」\]\] [Contactless_Ic_Card_Reader_Writer_RC-S370.jpg](https://ja.wikipedia.org/wiki/File:Contactless_Ic_Card_Reader_Writer_RC-S370.jpg "fig:Contactless_Ic_Card_Reader_Writer_RC-S370.jpg") **ICカード**（アイシーカード、; ）とは、[情報](https://ja.wikipedia.org/wiki/情報 "wikilink")（[データ](../Page/データ.md "wikilink")）の記録や演算をするために[集積回路](../Page/集積回路.md "wikilink") () を組み込んだ[カード](../Page/カード.md "wikilink")のことである。国際的には**スマートカード** () や**チップカード** () とも呼ばれ、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、特に演算処理機能を持つものをスマートカードと呼ぶ。
 
 カード内に[RAMや](../Page/Random_Access_Memory.md "wikilink")[ROM](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")、[EEPROM](../Page/EEPROM.md "wikilink")といった[半導体メモリ](../Page/半導体メモリ.md "wikilink")を組み込むことにより、情報量が従来の[磁気ストライプカード](https://ja.wikipedia.org/wiki/磁気ストライプカード "wikilink")と比べて数十倍から数千倍になる。さらに、[CPU](../Page/CPU.md "wikilink")や[コプロセッサ](../Page/コプロセッサ.md "wikilink")などを内蔵することで、カード内部で情報処理が可能になるという特徴がある。
 
@@ -497,6 +497,7 @@ ICカードは、磁気カードに比べて記録できる情報量が多いの
   - [西日本鉄道](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")（2008年5月18日）・[日田バス](../Page/日田バス.md "wikilink")（2009年7月24日）・[昭和自動車](../Page/昭和自動車.md "wikilink")（2010年2月27日）・[JR九州バス（直方線）](https://ja.wikipedia.org/wiki/直方線 "wikilink")（2013年4月1日）・宮崎交通（2015年11月14日）・[佐賀市交通局](../Page/佐賀市交通局.md "wikilink")（2017年2月16日）・[祐徳バス](https://ja.wikipedia.org/wiki/祐徳バス "wikilink")（2019年3月1日）の「[nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")」（ニモカ）
   - [大分交通](../Page/大分交通.md "wikilink")・[大分バス](../Page/大分バス.md "wikilink")・[亀の井バス](../Page/亀の井バス.md "wikilink")の「[めじろんnimoca](https://ja.wikipedia.org/wiki/めじろんnimoca "wikilink")」（大分ICカード開発）（2010年12月26日）
   - [函館バス](../Page/函館バス.md "wikilink")の「[ICAS nimoca](https://ja.wikipedia.org/wiki/nimoca "wikilink")」（イカすニモカ）（2017年3月25日）
+  - [九州急行バス](../Page/九州急行バス.md "wikilink")の「[nagasaki nimoca](../Page/Nimoca.md "wikilink")」（長崎ニモカ）（2020年3月27日）
   - [福島交通](../Page/福島交通.md "wikilink")の「[NORUCA](https://ja.wikipedia.org/wiki/NORUCA "wikilink")」（ノルカ）（2010年10月30日）
   - [九州産交バス](../Page/九州産交バス.md "wikilink")・産交バス・熊本電気鉄道・[熊本バス](../Page/熊本バス.md "wikilink")・[熊本都市バス](https://ja.wikipedia.org/wiki/熊本都市バス "wikilink")の「[熊本地域振興ICカード](https://ja.wikipedia.org/wiki/熊本地域振興ICカード "wikilink")（くまモンのIC CARD）」（肥銀カード）（2015年4月1日）
   - [茨城交通](../Page/茨城交通.md "wikilink")の「[いばっピ](https://ja.wikipedia.org/wiki/いばっピ "wikilink")」（2015年12月1日）
@@ -864,6 +865,8 @@ EAL4+ ライン
   - [EMVCo](https://www.emvco.com/)
 
   - [一般社団法人FCF推進フォーラム](https://www.fcf.jp/)
+
+  - [ICタグのトータルサポーター　RFID NFC RealTouchShop](https://www.rfid-nfc-realtouchshop.com/)
 
 [Category:ICカード](https://ja.wikipedia.org/wiki/Category:ICカード "wikilink") [Category:半導体メモリ](https://ja.wikipedia.org/wiki/Category:半導体メモリ "wikilink") [Category:セキュリティ技術](https://ja.wikipedia.org/wiki/Category:セキュリティ技術 "wikilink")
 

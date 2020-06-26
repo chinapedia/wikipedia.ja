@@ -93,7 +93,7 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
   - [トイレ](../Page/便所.md "wikilink")
       - [ウォシュレット](../Page/ウォシュレット.md "wikilink")一体型便器
   - [洗面所](https://ja.wikipedia.org/wiki/洗面所 "wikilink")・手洗器
-  - [浴室](https://ja.wikipedia.org/wiki/浴室 "wikilink")
+  - [浴室](../Page/浴室.md "wikilink")
   - [キッチン](../Page/台所.md "wikilink")
   - 水栓金具
   - アクセサリー

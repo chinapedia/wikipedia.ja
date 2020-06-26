@@ -20,7 +20,7 @@
 ### メインキャラクター
 
   - クロード・C・ケニー
-    [声](../Page/声優.md "wikilink") - [結城比呂](../Page/優希比呂.md "wikilink") / 幼少期 - [若林直美](../Page/若林直美.md "wikilink")
+    [声](../Page/声優.md "wikilink") - [結城比呂](../Page/優希比呂.md "wikilink")（幼少期 - [若林直美](../Page/若林直美.md "wikilink")）
     本作の主人公。銀河連邦の[少尉](../Page/少尉.md "wikilink")である少年。フェイズガンを除いてゲーム版での技を使わない漫画版と異なり、ゲーム版の技の一つである空破斬を決め技として多用するほかにディアスの技を習得しており、ゲーム本編では使用不可の技である鳳吼破を使用する。
   - レナ・ランフォード
     声 - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
@@ -45,7 +45,7 @@
     エクスペルのラクールに住む天才[科学者](../Page/科学者.md "wikilink")の少年。隕石ソーサリーグローブの研究をしている。
   - オペラ・ヴェクトル\[1\]
     声 - [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
-    テトラジェネスの貴族ヴェクトル家の令嫁。恋人のエルネストを追いかけて宇宙を旅している。
+    テトラジェネスの貴族・ヴェクトル家の令嫁。恋人のエルネストを追いかけて宇宙を旅している。
   - エルネスト・レヴィード
     声 - [家中宏](../Page/家中宏.md "wikilink")
     テトラジェネスの[考古学者](https://ja.wikipedia.org/wiki/考古学者 "wikilink")。まだ見ぬ遺跡を求めて旅しており、オペラとは師弟関係で恋人同士でもある。
@@ -434,4 +434,4 @@
 
 [Category:スターオーシャン](https://ja.wikipedia.org/wiki/Category:スターオーシャン "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:スクウェア・エニックス原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックス原作のアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:地球外生命体を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ作品 "wikilink")
 
-1.  原作での苗字は「ベクトラ」である。
+1.  ゲーム版では「オペラ・ベクトラ」と表記されている。

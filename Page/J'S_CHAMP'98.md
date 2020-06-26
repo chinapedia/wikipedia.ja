@@ -120,7 +120,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
       - [COLORFUL PLEASURE](https://ja.wikipedia.org/wiki/COLORFUL_PLEASURE "wikilink")（[メロン記念日](../Page/メロン記念日.md "wikilink")）
       - [Hello\! Project Night](https://ja.wikipedia.org/wiki/Hello!_Project_Night "wikilink")（ハロー\!プロジェクトメンバーが出演）
           - [CUTIE PARTY](../Page/CUTIE_PARTY.md "wikilink")（[梅田えりか](../Page/梅田えりか.md "wikilink")・[矢島舞美](../Page/矢島舞美.md "wikilink")：[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")）
-          - [GAKI・KAME](../Page/GAKI・KAME.md "wikilink")（[新垣里沙](../Page/新垣里沙.md "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")：[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+          - [GAKI・KAME](../Page/GAKI・KAME.md "wikilink")（[新垣里沙](../Page/新垣里沙.md "wikilink")・[亀井絵里](../Page/亀井絵里.md "wikilink")：[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
   - [ジャニーズ関連](../Page/ジャニーズ事務所.md "wikilink")
       - [SHO BEAT](https://ja.wikipedia.org/wiki/SHO_BEAT "wikilink")（[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")：[嵐](../Page/嵐_\(グループ\).md "wikilink")）
       - [SHIGET TOGETHER](https://ja.wikipedia.org/wiki/SHIGET_TOGETHER "wikilink")（[加藤成亮](https://ja.wikipedia.org/wiki/加藤成亮 "wikilink")：[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")）

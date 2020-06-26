@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PIAT_white_background.jpg "wikilink") **PIAT**（ピアット、もしくはパイアット）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時、[イギリス軍](../Page/イギリス軍.md "wikilink")が開発、使用した[対戦車擲弾発射器であり](https://ja.wikipedia.org/wiki/グレネードランチャー#対戦車擲弾発射器 "wikilink")、厳密な定義では[spigot mortar（スピガットモーター、軸発射式迫撃砲）に分類される携行](https://ja.wikipedia.org/wiki/迫撃砲#スピガット・モーター "wikilink")[兵器](../Page/兵器.md "wikilink")である。
 
-PIATの名は正式名称「**P**rojector, **I**nfantry, **A**nti **T**ank（歩兵用対戦車投射器の意）」の頭文字を取ったものである。
+**PIAT**の名は正式名称「**P**rojector, **I**nfantry, **A**nti **T**ank（歩兵用対戦車投射器の意）」の頭文字を取ったものである。
 
 ## 概要
 

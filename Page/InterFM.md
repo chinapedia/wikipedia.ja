@@ -3,7 +3,7 @@
 
 **株式会社InterFM897**（インター・エフエム・はちきゅうなな、）は、[関東広域圏内の外国語放送実施地域](../Page/広域放送.md "wikilink")（[東京都区部](../Page/東京都区部.md "wikilink")、[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")、[千葉市](../Page/千葉市.md "wikilink")、[横浜市](../Page/横浜市.md "wikilink")、[川崎市](../Page/川崎市.md "wikilink")、[成田国際空港](../Page/成田国際空港.md "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[超短波放送](../Page/超短波放送.md "wikilink")（FM放送）の[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。
 
-[外国語放送](../Page/外国語放送.md "wikilink")の全国ネットワークである「メガロポリス・レディオ・ネットワーク（愛称：[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")（メガネット）」の[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")。旧商号は**エフエムインターウェーブ株式会社**（FM Inter-Wave Inc.）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**The Real Music Station**」。[コールサインはJODW](https://ja.wikipedia.org/wiki/識別信号#識別信号 "wikilink")-FM。
+[外国語放送](../Page/外国語放送.md "wikilink")の全国ネットワークである「メガロポリス・レディオ・ネットワーク（愛称：[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")（メガネット）」の[キー局](../Page/キー局.md "wikilink")。旧商号は**エフエムインターウェーブ株式会社**（FM Inter-Wave Inc.）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**The Real Music Station**」。[コールサインはJODW](https://ja.wikipedia.org/wiki/識別信号#識別信号 "wikilink")-FM。
 
 本記事では、主に法人としての株式会社InterFM897、および関東広域圏の[放送局](../Page/放送局.md "wikilink")としての「**InterFM897**」（インター・エフエム・はちきゅうなな）について記述する。[2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年）[4月1日](../Page/4月1日.md "wikilink")開局し、[2016年](../Page/2016年.md "wikilink")（平成28年）11月まで同社で運営していた[中京広域圏の放送局としての](../Page/広域放送.md "wikilink")[「InterFM NAGOYA」→「**Radio NEO**」については当該記事を参照](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")。
 

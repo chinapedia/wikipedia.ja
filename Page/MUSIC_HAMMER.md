@@ -37,7 +37,7 @@
   - [the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")
   - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")
   - [ポケットビスケッツ](../Page/ポケットビスケッツ.md "wikilink")
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
   - [ブラックビスケッツ](../Page/ブラックビスケッツ.md "wikilink")
   - [Something ELse](../Page/Something_ELse.md "wikilink")

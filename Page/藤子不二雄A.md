@@ -1,7 +1,7 @@
 > この記事は[藤子不二雄A](https://ja.wikipedia.org/wiki/藤子不二雄A)から翻訳されています。
 
 
-**藤子 不二雄Ⓐ**（ふじこ・ふじお・エー、[1934年](../Page/1934年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。本名は**安孫子 素雄**（あびこ もとお）。[大垣女子短期大学](../Page/大垣女子短期大学.md "wikilink")客員教授。[座右の銘は](https://ja.wikipedia.org/wiki/標語#座右の銘 "wikilink")「**明日にのばせることを今日するな**」。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**藤子 不二雄Ⓐ**（ふじこ・ふじお・エー、[1934年](../Page/1934年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](../Page/漫画家.md "wikilink")。本名は**安孫子 素雄**（あびこ もとお）。[大垣女子短期大学](../Page/大垣女子短期大学.md "wikilink")客員教授。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 藤本弘（[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")）とともに[藤子不二雄](../Page/藤子不二雄.md "wikilink")として[コンビを組み](../Page/二人組.md "wikilink")、作品を発表した。コンビ解消後は本名で紹介されることも多い。筆名の「Ⓐ」は「安孫子」の頭文字である。
 
@@ -60,6 +60,8 @@
 
 『まんが道』等の自伝的作品ではほとんど登場しないが、トキワ荘時代の1955年12月頃に安孫子の姉である喜多枝が上京して同居し、食事の世話やベタ塗りやホワイトといった簡単な手伝いをするようになった\[13\]。[藤子スタジオ](../Page/藤子スタジオ.md "wikilink")設立後は正式にマネージャーとなり、藤子不二雄（コンビ解消前）と藤子不二雄<span class="Unicode">Ⓐ</span>のサポートを行っていた。
 
+[座右の銘は](https://ja.wikipedia.org/wiki/標語#座右の銘 "wikilink")「明日にのばせることを今日するな」。
+
 ## 作品
 
 当初は児童漫画に取り組んでいたが、興味のおもむくままに、怪奇趣味的な漫画や、マージャンやギャンブルを題材とした漫画、エッセイ漫画､そしてゴルフ漫画などを手がけ、その結果、ジャンルは幅広い物になった。また、ジャズの即興音楽のようにネームを切らずにそのまま話を描き上げたりもする。
@@ -77,7 +79,7 @@
 
     第1期は漫画雑誌『[少年](../Page/少年_\(雑誌\).md "wikilink")』にて連載し、第2期は『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』にて連載。忍術の達人である少年忍者**ハットリくん**が、修行の為に[伊賀](../Page/伊賀.md "wikilink")の隠れ里から[東京](../Page/東京.md "wikilink")に出てきて三葉家に居候することになり、いろいろな騒動を起こす話。居候先の子供**三葉ケン一**との友情も描く一方で、いろいろな[忍術](../Page/忍術.md "wikilink")を紹介している作品でもある。
 
-    藤子・F・不二雄が描いた『[パーマン](../Page/パーマン.md "wikilink")』との共演作品もあり、二度劇場化もされたほか、[2004年](../Page/2004年.md "wikilink")には[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")(当時)の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")主演で実写映画『[NIN×NIN 忍者ハットリくん THE MOVIE](../Page/NIN×NIN_忍者ハットリくん_THE_MOVIE.md "wikilink")』が公開されている。
+    藤子・F・不二雄が描いた『[パーマン](../Page/パーマン.md "wikilink")』との共演作品もあり、二度劇場化もされたほか、[2004年](../Page/2004年.md "wikilink")には[SMAP](../Page/SMAP.md "wikilink")(当時)の[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")主演で実写映画『[NIN×NIN 忍者ハットリくん THE MOVIE](../Page/NIN×NIN_忍者ハットリくん_THE_MOVIE.md "wikilink")』が公開されている。
 
   - [怪物くん](../Page/怪物くん.md "wikilink")
     様々な怪物が棲む怪物ランドの王子様である**怪物くん**が[ドラキュラ](../Page/ドラキュラ.md "wikilink")、[狼男](../Page/狼男.md "wikilink")、[フランケンシュタイン](../Page/フランケンシュタイン.md "wikilink")らを家来に引き連れ、友達となったヒロシ少年と共に不思議な力を使って人間界で活躍する。初期アニメ版では、映画評論家の[淀川長治](../Page/淀川長治.md "wikilink")がナレーションを行っていた。1991年からはスピンオフ作品としてデモキンが主人公の『プリンス・デモキン』も執筆されている。

@@ -346,7 +346,7 @@
 
 <!-- end list -->
 
-  - [関西ホットライン](../Page/関西ホットライン.md "wikilink")（月曜日 - 土曜日 7:40 - 8:00）
+  - [マイあさ\!関西](https://ja.wikipedia.org/wiki/マイあさ!関西 "wikilink")（月曜日 - 土曜日 7:40 - 8:00）
   - [関西ラジオワイド](../Page/関西ラジオワイド.md "wikilink")（月曜日 - 金曜日 16:05 - 18:00）
   - ローカルニュース・気象情報・交通情報（原則として5時-21時台のそれぞれ毎時55分から次の00分まで。11時台と18時台は50分、19時台は45分より。他に7:20-25\<土・日・祝日7:15-20\>、12:15-20<同12:15-20>、土・日・祝日19:15-20、23:10-20\<土・日・祝日23:05-10\>に放送）
 
@@ -668,7 +668,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/畠山衣美" title="wikilink">畠山衣美</a></p></td>
+<td><p><a href="../Page/畠山衣美.md" title="wikilink">畠山衣美</a></p></td>
 <td><p><strong><a href="../Page/NHK熊本放送局.md" title="wikilink">熊本</a></strong></p></td>
 <td></td>
 <td></td>

@@ -64,7 +64,7 @@
 
   - [Homepage of GIMPS](https://www.mersenne.org/)
 
-[Category:計算数論](https://ja.wikipedia.org/wiki/Category:計算数論 "wikilink") [Category:分散コンピューティングプロジェクト](https://ja.wikipedia.org/wiki/Category:分散コンピューティングプロジェクト "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
+[Category:計算数論](https://ja.wikipedia.org/wiki/Category:計算数論 "wikilink") [Category:分散コンピューティングプロジェクト](https://ja.wikipedia.org/wiki/Category:分散コンピューティングプロジェクト "wikilink") [Category:素数](https://ja.wikipedia.org/wiki/Category:素数 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
 
 1.
 2.

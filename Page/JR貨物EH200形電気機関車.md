@@ -62,7 +62,7 @@
 
 本形式は全機が[高崎機関区](../Page/高崎機関区.md "wikilink")に配置され、[塩尻機関区篠ノ井派出](https://ja.wikipedia.org/wiki/塩尻機関区篠ノ井派出 "wikilink")のEF64形重連運用を順次置き換え、2008年3月ダイヤ改正で全列車の置換えが完了した。さらに2012年3月改正では中央東線での運用が本形式に統一された。中央東線・篠ノ井線および[しなの鉄道線](https://ja.wikipedia.org/wiki/しなの鉄道線 "wikilink")内で石油専用[貨物列車](https://ja.wikipedia.org/wiki/貨物列車 "wikilink")を中心に運用されるほか、高崎機関区への入出区に際して[倉賀野駅](https://ja.wikipedia.org/wiki/倉賀野駅 "wikilink")→[川崎貨物駅](../Page/川崎貨物駅.md "wikilink")・[根岸駅](https://ja.wikipedia.org/wiki/根岸駅_\(神奈川県\) "wikilink")→[岡部駅](https://ja.wikipedia.org/wiki/岡部駅 "wikilink")などの運用もある。[2000年代](../Page/2000年代.md "wikilink")に入ってから設定が増加している[タキ1000形](../Page/JR貨物タキ1000形貨車.md "wikilink")[タンク車](../Page/タンク車.md "wikilink")で組成された最高速度 95 [km/h](../Page/キロメートル毎時.md "wikilink") の高速石油列車への充当も多い。
 
-2009年3月14日のダイヤ改正より[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")へ運用を拡大し、高崎機関区のEF64形1000番台に代わって一部貨物列車の仕業を受け持つようになった\[7\]。また2010年3月のダイヤ改正より上越線の運用は本形式のみの運用となった。上越線運用では、[高崎操車場](../Page/高崎操車場.md "wikilink")での機関車交換を行わず、本形式が[隅田川駅](../Page/隅田川駅.md "wikilink") ・[東京貨物ターミナル駅](../Page/東京貨物ターミナル駅.md "wikilink") - [南長岡駅](../Page/南長岡駅.md "wikilink")・ [新潟貨物ターミナル駅](../Page/新潟貨物ターミナル駅.md "wikilink")間を直通する運用がある。
+2009年3月14日のダイヤ改正より[上越線](../Page/上越線.md "wikilink")へ運用を拡大し、高崎機関区のEF64形1000番台に代わって一部貨物列車の仕業を受け持つようになった\[7\]。また2010年3月のダイヤ改正より上越線の運用は本形式のみの運用となった。上越線運用では、[高崎操車場](../Page/高崎操車場.md "wikilink")での機関車交換を行わず、本形式が[隅田川駅](../Page/隅田川駅.md "wikilink") ・[東京貨物ターミナル駅](../Page/東京貨物ターミナル駅.md "wikilink") - [南長岡駅](../Page/南長岡駅.md "wikilink")・ [新潟貨物ターミナル駅](../Page/新潟貨物ターミナル駅.md "wikilink")間を直通する運用がある。
 
 製作実績は[2006年](../Page/2006年.md "wikilink")度から[2009年](../Page/2009年.md "wikilink")度まで毎年度3両\[8\]\[9\]\[10\]、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度は2両\[11\]が製作された。2013年4月現在、試作機のほか量産機が24号機まで製造されている。
 

@@ -212,6 +212,8 @@
   - ナレーション [さかなクン](../Page/さかなクン.md "wikilink")
   - ナレーション [川上まり](https://ja.wikipedia.org/wiki/川上まり "wikilink")
 
+※オールロケ形式かつ、出演者は日替わり（その回のテーマを扱う研究者が登場）。
+
 ### 地学基礎
 
 2019年度制作
@@ -331,7 +333,7 @@
 
   - [中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")（[ロッチ](../Page/ロッチ.md "wikilink")）
   - [敦士](https://ja.wikipedia.org/wiki/敦士_\(ファッションモデル\) "wikilink")
-  - [生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'15）※当時\[6\]
+  - [生田衣梨奈](https://ja.wikipedia.org/wiki/生田衣梨奈 "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")'15）※当時\[6\]
   - ナレーション [勝沼紀義](../Page/勝沼紀義.md "wikilink")
   - ナレーション [小林美奈](https://ja.wikipedia.org/wiki/小林美奈 "wikilink")
 
@@ -592,6 +594,8 @@
 2007年度 - 2010年度
 
   - ナレーション [前田沙耶香](../Page/前田沙耶香.md "wikilink")
+
+※進行役のタレントは起用されず、その回の講師が番組進行も兼務した。
 
 2011年度 - 2013年度
 

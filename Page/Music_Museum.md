@@ -29,7 +29,7 @@
   - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")
   - [TUBE](../Page/TUBE.md "wikilink")
   - [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [工藤静香](../Page/工藤静香.md "wikilink")
   - [野猿](../Page/野猿.md "wikilink")
   - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")

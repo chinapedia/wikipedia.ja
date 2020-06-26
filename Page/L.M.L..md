@@ -16,8 +16,8 @@
 ## ボーカル
 
   - [オルガ・ロマノフスキー](../Page/オルガ・ロマノフスキー.md "wikilink")
-  - [ナディヤ・メイヤー](https://ja.wikipedia.org/wiki/ナディヤ・メイヤー "wikilink")
+  - [ナディヤ・メイヤー](../Page/ナディヤ・メイヤー.md "wikilink")
   - [アルビナ・ディザナバエワ](https://ja.wikipedia.org/wiki/アルビナ・ディザナバエワ "wikilink")
-  - [ヴェラ・ブレジネーヴァ](https://ja.wikipedia.org/wiki/ヴェラ・ブレジネーヴァ "wikilink")
+  - [ヴェラ・ブレジネーヴァ](../Page/ヴェラ・ブレジネーヴァ.md "wikilink")
 
 [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:ヌ・ヴィルゴスのアルバム](https://ja.wikipedia.org/wiki/Category:ヌ・ヴィルゴスのアルバム "wikilink")

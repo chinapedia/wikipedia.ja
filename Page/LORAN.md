@@ -23,7 +23,7 @@
 
 #### 日本におけるロランC
 
-本システム利用船舶が多い日本では、アメリカ合衆国の廃局に合わせて、[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")が[1991年](../Page/1991年.md "wikilink")の整備着手以降、[1993年](../Page/1993年.md "wikilink")に千葉ロランセンターを、また、[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[硫黄島ロランC主局](https://ja.wikipedia.org/wiki/硫黄島ロランC主局 "wikilink")を廃局して代替に[新島ロランC局](https://ja.wikipedia.org/wiki/新島ロランC局 "wikilink")をそれぞれ設置して、アメリカ海軍から業務を引き継ぎ、ロランCの運用を開始した\[12\]。
+本システム利用船舶が多い日本では、アメリカ合衆国の廃局に合わせて、[海上保安庁](../Page/海上保安庁.md "wikilink")が[1991年](../Page/1991年.md "wikilink")の整備着手以降、[1993年](../Page/1993年.md "wikilink")に千葉ロランセンターを、また、[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に[硫黄島ロランC主局](https://ja.wikipedia.org/wiki/硫黄島ロランC主局 "wikilink")を廃局して代替に[新島ロランC局](https://ja.wikipedia.org/wiki/新島ロランC局 "wikilink")をそれぞれ設置して、アメリカ海軍から業務を引き継ぎ、ロランCの運用を開始した\[12\]。
 
 その後、[2009年](../Page/2009年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")に[南鳥島ロランC局](https://ja.wikipedia.org/wiki/南鳥島ロランC局 "wikilink")\[13\]、[2013年](../Page/2013年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[十勝太ロランC局](https://ja.wikipedia.org/wiki/十勝太ロラン航路標識事務所 "wikilink")\[14\]をそれぞれ廃止。新島ロランC局は、[2012年](../Page/2012年.md "wikilink")6月19日20時16分、海上安全情報では19時41分\[15\]以降[台風4号によるアンテナ障害](https://ja.wikipedia.org/wiki/平成24年台風第4号 "wikilink")\[16\]で長期欠射中\[17\]であったが、[2014年](../Page/2014年.md "wikilink")2月1日午前9時に廃止された\[18\]。そして、[慶佐次ロランC局を](../Page/慶佐次通信所.md "wikilink")[2015年](../Page/2015年.md "wikilink")2月1日午前9時に廃止\[19\]して、本システムの運用を止めている。
 

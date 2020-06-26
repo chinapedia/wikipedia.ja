@@ -55,7 +55,7 @@
 
 人気モデルは頻繁にカバーガール（表紙）を務めたり、連載ページを担当するほか、ソロで[フォトエッセイが発売されることもある](../Page/写真集.md "wikilink")。本誌に限らないが、『[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")』、『[MEN'S NON-NO](../Page/MEN'S_NON-NO.md "wikilink")』など集英社の男性向け雑誌に出演して、女性に限らず男性からも支持を集めるという手法も採られている。卒業後は、他のファッション誌に移籍し引き続きモデルとして活躍する者がほとんどだが、[女優や](../Page/俳優.md "wikilink")[歌手](../Page/歌手.md "wikilink")に転向し人気を得る者もいる。
 
-本誌は10代の女性向け雑誌で、専属モデルは20歳前後で卒業するが近年は人気が高いモデルは成人後も留まる\[2\]場合がある。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月号から専属モデルがすべて[平成](../Page/平成.md "wikilink")生まれになった。
+本誌は10代の女性向け雑誌で、専属モデルは20歳前後で卒業するが近年は人気が高いモデルは成人後も留まる\[2\] 場合がある。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月号から専属モデルがすべて[平成](../Page/平成.md "wikilink")生まれになった。
 
 ### 現行の専属モデル
 
@@ -295,7 +295,7 @@
 <td><p><small> 『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』 （専属） より移籍</small></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/雑賀サクラ" title="wikilink">雑賀サクラ</a></p></td>
+<td><p><a href="../Page/雑賀サクラ.md" title="wikilink">雑賀サクラ</a></p></td>
 <td><p>さいが さくら</p></td>
 <td><p>2005年3月31日(歳)</p></td>
 <td><p>2019年10月号</p></td>
@@ -370,12 +370,12 @@
   - [LISSA](https://ja.wikipedia.org/wiki/LISSA "wikilink")（当時は柿木理紗）
   - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")（卒業後は[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")→[withなどで活躍](https://ja.wikipedia.org/wiki/with_\(雑誌\) "wikilink")。結婚・出産を経て、現在は[Mart](https://ja.wikipedia.org/wiki/Mart "wikilink")専属）
   - [小泉絵美子](../Page/小泉絵美子.md "wikilink")
-  - [トーマス玲奈](https://ja.wikipedia.org/wiki/トーマス玲奈 "wikilink")（当時はトーマスサリー。ミスセブンティーン1999、大学卒業後は[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")→[tvkアナウンサー](../Page/テレビ神奈川.md "wikilink")）
+  - [トーマス玲奈](https://ja.wikipedia.org/wiki/トーマスサリー "wikilink")（当時はトーマスサリー。ミスセブンティーン1999、大学卒業後は[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")→[tvkアナウンサー](../Page/テレビ神奈川.md "wikilink")）
   - [鈴木えみ](https://ja.wikipedia.org/wiki/鈴木えみ "wikilink")（ミスセブンティーン1999、表紙30回。[PINKY](../Page/PINKY.md "wikilink")創刊と同時に移籍し専属に。その後は[MOREなどで活躍](../Page/MORE_\(雑誌\).md "wikilink")）
   - [田中美保](../Page/田中美保_\(モデル\).md "wikilink")（表紙10回。卒業後は[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")専属。現在は[MOREなどで活躍](../Page/MORE_\(雑誌\).md "wikilink")）
   - [月本えり](../Page/月本えり.md "wikilink")（ミスセブンティーン2000）
   - [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")
-  - [徳澤直子](../Page/徳澤直子.md "wikilink")（ミスセブンティーン2001、表紙8回。卒業後は[CanCam](../Page/CanCam.md "wikilink")専属へ。結婚・渡米・出産などを経て、帰国後は[美人百花](https://ja.wikipedia.org/wiki/美人百花 "wikilink")などで活躍）
+  - [徳澤直子](../Page/徳澤直子.md "wikilink")（ミスセブンティーン2001、表紙8回。卒業後は[CanCam](../Page/CanCam.md "wikilink")専属へ。結婚・渡米・出産などを経て、帰国後は[美人百花](../Page/美人百花.md "wikilink")などで活躍）
   - [中根成美](https://ja.wikipedia.org/wiki/中根成美 "wikilink")（ミスセブンティーン2003）
   - [仲程仁美](../Page/仲程仁美.md "wikilink")（ミスセブンティーン2002、卒業後は[PINKY](../Page/PINKY.md "wikilink")などで活躍）
   - [中村榮美子](../Page/中村榮美子.md "wikilink")
@@ -841,7 +841,7 @@
 
 4月号にモデルの応募方法が記載され、8月号で最終選考で残った候補者による読者投票で決定する。
 
-毎年夏に専属モデルが総出演する[ファッションショー](../Page/ファッションショー.md "wikilink")「夏の学園祭」を開催して受賞者を披露\[6\]する。
+毎年夏に専属モデルが総出演する[ファッションショー](../Page/ファッションショー.md "wikilink")「夏の学園祭」を開催して受賞者を披露\[6\] する。
 
 10月号の紙面で全国の読者に披露する。
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のローカルパートとしての『[YABスーパーJチャンネル](https://ja.wikipedia.org/wiki/YABスーパーJチャンネル "wikilink")』を、単独番組として発展させる形でスタート。[報道](../Page/報道.md "wikilink")を意識しており、日替わりでコメンテーターが出演していたのが特徴。放送開始当初は金融・政治関連の特集なども行っていた。。
+『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』のローカルパートとしての『[YABスーパーJチャンネル](https://ja.wikipedia.org/wiki/YABスーパーJチャンネル "wikilink")』を、単独番組として発展させる形でスタート。[報道](../Page/報道.md "wikilink")を意識しており、日替わりでコメンテーターが出演していたのが特徴。放送開始当初は金融・政治関連の特集なども行っていた。。
 
 金曜日には[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")・[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")・[愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")、ならびにyabのブロックネット番組である『[ぐるりん瀬戸内](../Page/ぐるりん瀬戸内.md "wikilink")』を放送していた。また、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")との共同企画のコーナーも放送していた。
 
@@ -58,7 +58,7 @@
 
 ## 関連項目
 
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 

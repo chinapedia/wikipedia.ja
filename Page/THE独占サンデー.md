@@ -5,7 +5,7 @@
 
 ## 概要
 
-それまでの『**[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")・サンデー**』と『**[独占SPORTS情報](../Page/独占!!スポーツ情報.md "wikilink")**』を統合し、[ワイドショー](../Page/ワイドショー.md "wikilink")ネタを取り入れ、ニュース・スポーツ・生活・芸能など様々なジャンルの話題を取り上げた。メインキャスター（MC）は[長嶋一茂](../Page/長嶋一茂.md "wikilink")で、企画でよく一茂と[中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）がキャスター交代の座をかけて対決をしていた。最終的な対決は、[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")の[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")が一茂、中居との野球対決を行った。
+それまでの『**[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")・サンデー**』と『**[独占SPORTS情報](../Page/独占!!スポーツ情報.md "wikilink")**』を統合し、[ワイドショー](../Page/ワイドショー.md "wikilink")ネタを取り入れ、ニュース・スポーツ・生活・芸能など様々なジャンルの話題を取り上げた。メインキャスター（MC）は[長嶋一茂](../Page/長嶋一茂.md "wikilink")で、企画でよく一茂と[中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）がキャスター交代の座をかけて対決をしていた。最終的な対決は、[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")の[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")が一茂、中居との野球対決を行った。
 
 また、前番組の流れから放送当日に日本テレビでプロ野球ナイター中継（[東京ドーム](../Page/東京ドーム.md "wikilink")での試合に限る）がある時には、一茂と[徳光和夫](../Page/徳光和夫.md "wikilink")（と[山本真純](../Page/山本真純.md "wikilink")アナウンサー）が球場に乗り込み、ニュースと週末エンターテイメント情報コーナー（名称：週末いちもくリョー然\!）を除く全編で球場からの[巨人の応援実況を繰り広げた](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")。しかし、徳光が相手球団の選手に対して問題発言を起こしてしまい、視聴者からの批判を受け同コーナーは打ち切りとなった。
 
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [中居正広](../Page/中居正広.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+  - [中居正広](../Page/中居正広.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）
   - [宮本和知](../Page/宮本和知.md "wikilink")
 
 <!-- end list -->
@@ -179,7 +179,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td></td>
 <td></td>
 </tr>

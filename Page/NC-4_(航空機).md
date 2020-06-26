@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NC4nasagov.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NC_flight_path.jpg "wikilink")
 
-**NC-4**は、カーチス（*Curtiss Aeroplane and Motor Company*）が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のため開発および生産した計10機の[飛行艇](../Page/飛行艇.md "wikilink")、[カーチスNC](https://ja.wikipedia.org/wiki/:en:Curtiss_NC "wikilink") 中の1機\[1\]である。 [1919年](../Page/1919年.md "wikilink")5月に、途中何度か着水しながら19日をかけて[大西洋](../Page/大西洋.md "wikilink")を横断し、最初の[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")に成功した。
+**NC-4**は、[カーチス](../Page/カーチス・ライト.md "wikilink")（*Curtiss Aeroplane and Motor Company*）が[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")のため開発および生産した計10機の[飛行艇](../Page/飛行艇.md "wikilink")、[カーチスNC](https://ja.wikipedia.org/wiki/:en:Curtiss_NC "wikilink") 中の1機\[1\]である。 [1919年](../Page/1919年.md "wikilink")5月に、途中何度か着水しながら19日をかけて[大西洋](../Page/大西洋.md "wikilink")を横断し、最初の[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")に成功した。
 
 [第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中に連合軍の船舶がドイツの[潜水艦](../Page/潜水艦.md "wikilink")に脅かされたことから計画は始まった。 自力でアメリカからヨーロッパに飛行できる機体が求められ、それがこのカーチスNCである。 当時としては超大型機で、就寝区画や無線設備もあった。 戦争終了までに完成しなかったが、アメリカ海軍は大西洋横断飛行を行うことを決定した。
 

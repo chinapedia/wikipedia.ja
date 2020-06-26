@@ -112,7 +112,7 @@
 
 ### 基板
 
-シリーズで一貫して[SYSTEM-GX](https://ja.wikipedia.org/wiki/SYSTEM-GX "wikilink")のカスタム基板[DJ MAINを使用している](https://ja.wikipedia.org/wiki/DJ_MAIN "wikilink")。性能面では1997年当時においてもやや旧式のものであり、後発バージョンでは公式サイト等でスペックの限界に悩むコメントもしばしば見受けられた（特にCORE REMIX以降）。6thMix以降は筐体内ランキングのデフォルトネームに高性能な基盤が欲しいというメッセージが入れられ続けたが、後述の通り最後まで基盤が変更されることはなく、THE FINALでは「WE NEED MORE HI.G.H.S..P.EC..」と嗚咽混じりで最後まで言えていないかのような表現がされた\[1\]。
+シリーズで一貫して[SYSTEM-GX](https://ja.wikipedia.org/wiki/SYSTEM-GX "wikilink")のカスタム基板[DJ MAINを使用している](https://ja.wikipedia.org/wiki/DJ_MAIN "wikilink")。性能面では1997年当時においてもやや旧式のものであり、後発バージョンでは公式サイト等でスペックの限界に悩むコメントもしばしば見受けられた（特にCORE REMIX以降）。6thMix以降は筐体内ランキングのデフォルトネームに高性能な基板が欲しいというメッセージが入れられ続けたが、後述の通り最後まで基板が変更されることはなく、THE FINALでは「WE NEED MORE HI.G.H.S..P.EC..」と嗚咽混じりで最後まで言えていないかのような表現がされた\[1\]。
 
 他のBEMANIシリーズでは基板の変更によりハードウェア性能の向上を行われることがあったが、beatmaniaシリーズでは高性能機『beatmaniaIII』として筐体ごと置き換えることが意図されていたようである（[beatmania IIIの頁も参照](https://ja.wikipedia.org/wiki/beatmania_III "wikilink")）。しかしbeatmaniaIIIの出周りが今ひとつ伸びず結局後のバージョンでは1機種分の予算・期間・スタッフでbeatmaniaとbeatmaniaIIIの2バージョンを同時にリリースすることとなり\[2\]、また既にアッパーバージョンが存在する故にbeatmania自体のスペック向上も行われることはなかった。
 
@@ -432,14 +432,14 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
 
 コナミのゲーム開発部門の統合に伴うサイト整理により、また事実上のシリーズ凍結状態のためAC、CS版共にすべて消滅している。
 
-  - [beatmania_terminal](https://web.archive.org/web/20170702004538/http://www.konami.jp/am/bm/index.html)（アーカイブ）
+  - [beatmania_terminal](https://web.archive.org/web/20170702004538/http://www.konami.jp/am/bm/index.html)（2017年7月2日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [KCEジャパン公式サイト](https://web.archive.org/web/2005*/www.kcej.co.jp)（アーカイブ）
 
 [Category:BEMANIシリーズ](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズ "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:ワンダースワン用ソフト](https://ja.wikipedia.org/wiki/Category:ワンダースワン用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Macintosh用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Macintosh用ゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:1997年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1997年のアーケードゲーム "wikilink") [Category:1998年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:1998年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink")
 
 1.  [FINALのデモ動画](http://www.youtube.com/watch?v=IZZErbraJPg)の1分59秒参照
 2.  [FROM STAFF](http://www.konami.jp/am/bm3/ap_7th/staff.html)（beatmania 7th MIX公式サイト）
-3.  [GEIMIN.NET/国内歴代ミリオン出荷タイトル一覧](http://geimin.net/da/db/m_domestic/index.php)、GEIMIN.NET、2013年2月28日閲覧。
+3.  [GEIMIN.NET／国内歴代ミリオン出荷タイトル一覧](https://web.archive.org/web/20161101133440/http://geimin.net/da/db/m_domestic/index.php)、GEIMIN.NET、（2016年11月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 4.  M.B.MOOK『懐かしゲームボーイパーフェクトガイド』 (ISBN 9784866400259)、90ページ
 5.
 6.  ザ・ワンダースワン vol.1のインタビュー記事より

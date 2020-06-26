@@ -3,7 +3,7 @@
 
 **globe**（グローブ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")8月にデビューした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。所属レコード会社は[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。所属レーベルはプライベート・レーベルの[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。
 
-デビューアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")」は400万枚を売り上げた。ダブルミリオンを記録した「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」を始め「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」「[FACE](../Page/FACE_\(globeの曲\).md "wikilink")」など多数のメガヒットシングルがある。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")や[華原朋美](../Page/華原朋美.md "wikilink")、[TRF](../Page/TRF.md "wikilink")らとともに[小室ファミリー](../Page/小室ファミリー.md "wikilink")の一時代を築きあげた。
+デビューアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")」は400万枚を売り上げた。ダブルミリオンを記録した「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」をはじめ「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」「[FACE](../Page/FACE_\(globeの曲\).md "wikilink")」など多数のメガヒットシングルがある。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")や[華原朋美](../Page/華原朋美.md "wikilink")、[TRF](../Page/TRF.md "wikilink")らとともに[小室ファミリー](../Page/小室ファミリー.md "wikilink")の一時代を築き上げた。
 
 現在、globeとしてはマーク・パンサーのみが活動\[1\]を続けている。
 
@@ -20,7 +20,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 ## 来歴
 
-### Feel Like dance - Love again（1995-1998）
+### Feel Like dance - Love again (1995-1998)
 
 [1994年](../Page/1994年.md "wikilink")[6月](../Page/6月.md "wikilink")、エイベックス・グループ主催のイベント「avex rave '94」にて[2 アンリミテッドが出演した際](../Page/2_アンリミテッド.md "wikilink")、既に付き合いのあった[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")に[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が「よく見て、勉強しておいて」と忠告した。同年[8月](../Page/8月.md "wikilink")小室が主宰するイベント「EUROGROOVE NIGHT」内で開催されたオーディションに山田桂子が出場し、舞台から滑り落ちるというアクシデントに遭いつつも、動揺せずに最後まで歌い終えたことがきっかけとなり結成の動きが始まった\[2\]。「EUROGROOVE NIGHT」にはハーフのMCとして[ANISS](https://ja.wikipedia.org/wiki/ANISS "wikilink")とマークが参加しており、まずはマークと山田によりユニット「Orange」が作られ、小室がそれに参加し山田はKEIKOに改名、ユニット名は英和辞書の通り「地球」を意味するglobeとなった。もう1つの由来は、「global」という形容詞の名詞形の様に世界展開も視野に入れて、カタカナ発音でも外国人に通じる共通言語として命名した\[3\]。
 
@@ -28,7 +28,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")1stシングル「Feel Like dance」（[オリコン](../Page/オリコン.md "wikilink")初登場3位）でデビュー、いきなり95万枚の大ヒットに。続く2枚目の「[Joy to the love (globe)](../Page/Joy_to_the_love_\(globe\).md "wikilink")」で早くも[オリコン](../Page/オリコン.md "wikilink")初登場1位を記録し、3枚目の「SWEET PAIN」（[オリコン](../Page/オリコン.md "wikilink")初登場2位）も90万枚を突破し、デビュー間もなくして[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")寸前となるヒット作を連発。知名度が爆発的に上昇するに至って、globeはテレビや音楽番組への出演を解禁。同時に、「Feel Like dance」のPVをglobeの歌唱映像に変更するなど、次第に露出度を増やしていくことになった。
 
-[1996年](../Page/1996年.md "wikilink")JR東海のCMソングに起用された[1月1日](../Page/1月1日.md "wikilink")発売の4thシングル「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」は売上230万枚の大ヒットとなる。同曲は[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")2位、[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")と[CDTVの年間シングルチャート](../Page/COUNT_DOWN_TV.md "wikilink")1位を記録した。 さらにデビューから僅か7ヶ月にして[3月31日](../Page/3月31日.md "wikilink")発売の1stアルバム『[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")』は売上400万枚以上のヒットとなった（翌年4月、出荷枚数455万枚の当時の日本記録を達成）。このアルバムは、同年の[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム賞に選ばれた。その後、[GLAY](../Page/GLAY.md "wikilink")と[B'z](../Page/B'z.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")がこの記録を後を追うように更新するが、当時のavex依田会長は「オリジナルで超えてみろ」と発言したとされる。[8月28日](../Page/8月28日.md "wikilink")発売シングル「[Is this love](../Page/Is_this_love.md "wikilink")」のPVはアメリカ・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")で撮影され、当時としては総額1億円という破格の撮影費が投じられた。 9月『Private Tour house of globe』。ロードムービー撮影という名目のglobe初のツアーを敢行。「Is this love」のCD購入者から抽選で招待してコンサートが行われた。10月には「DEPARTURES」に続くJR東海のCMソングとして「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」をリリースし130万枚のミリオンセラーを記録。同曲で年末の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
+[1996年](../Page/1996年.md "wikilink")JR東海のCMソングに起用された[1月1日](../Page/1月1日.md "wikilink")発売の4thシングル「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」は売上230万枚の大ヒットとなる。同曲は[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")2位、[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")と[CDTVの年間シングルチャート](../Page/COUNT_DOWN_TV.md "wikilink")1位を記録した。さらにデビューから僅か7ヶ月にして[3月31日](../Page/3月31日.md "wikilink")発売の1stアルバム『[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")』は売上400万枚以上のヒットとなった（翌年4月、出荷枚数455万枚の当時の日本記録を達成）。このアルバムは、同年の[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム賞に選ばれた。その後、[GLAY](../Page/GLAY.md "wikilink")と[B'z](../Page/B'z.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")がこの記録を後を追うように更新するが、当時のavex依田会長は「オリジナルで超えてみろ」と発言したとされる。[8月28日](../Page/8月28日.md "wikilink")発売シングル「[Is this love](../Page/Is_this_love.md "wikilink")」のPVはアメリカ・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")で撮影され、当時としては総額1億円という破格の撮影費が投じられた。 9月『Private Tour house of globe』。ロードムービー撮影という名目のglobe初のツアーを敢行。「Is this love」のCD購入者から抽選で招待してコンサートが行われた。10月には「DEPARTURES」に続くJR東海のCMソングとして「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」をリリースし130万枚のミリオンセラーを記録。同曲で年末の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")発売の「[FACE](../Page/FACE_\(globeの曲\).md "wikilink")」も130枚を突破する自身3枚目のミリオンセラーとなり、[3月12日](../Page/3月12日.md "wikilink")には2ndアルバム『[FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")』を発売。その後、前代未聞の[大阪](../Page/大阪ドーム.md "wikilink")、[福岡](../Page/福岡ドーム.md "wikilink")、[名古屋](../Page/ナゴヤドーム.md "wikilink")、[東京](../Page/東京ドーム.md "wikilink")4大ドームツアー「globe＠4_domes」を敢行。5月には、初の日本国外でのツアー「TK PAN-PACIFIC TOUR '97 IN TAIPEI」開催。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[TRF](../Page/TRF.md "wikilink")とともに台湾・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")を訪れ、テレビ出演やライブを行った。
 
@@ -36,21 +36,21 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")発売の3rdアルバム『[Love again](../Page/Love_again_\(アルバム\).md "wikilink")』発売初日に200万枚出荷し、デビューアルバムから『Love again』までの3枚のアルバムの総出荷枚数が2年で1000万枚を超える。これはデビューアルバムからの最速となる出荷枚数1000万枚超えの記録を大幅に更新することになった。7〜8月には、4都市7公演の全国ツアー「globe tour 1998 “Love again”」を敢行した。
 
-### globe 4 SINGLES - CRUISE RECORD（1998-2000）
+### globe 4 SINGLES - CRUISE RECORD (1998-2000)
 
 同年秋、「BRAND NEW globe 4 SINGLES」と題し、[9月2日](../Page/9月2日.md "wikilink")に「[wanna Be A Dreammaker](https://ja.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")」、[9月23日](../Page/9月23日.md "wikilink")に「[Sa Yo Na Ra](../Page/Sa_Yo_Na_Ra.md "wikilink")」、[9月30日](../Page/9月30日.md "wikilink")に「[sweet heart](https://ja.wikipedia.org/wiki/sweet_heart_\(globeの曲\) "wikilink")」、[10月7日](../Page/10月7日.md "wikilink")に「[Perfume of love](../Page/Perfume_of_love.md "wikilink")」と4連続シングルリリースを行い、話題となる。10月26日付の[オリコン週間シングルチャートにて](../Page/オリコンチャート.md "wikilink")4曲が同時に上位10位以内にチャートインした。これはオリコンシングルチャート史上初の記録であり、「発売日が異なる再発でない同一アーティストによるシングルの複数チャートイン」として現在も記録が保持されている。それらの活動が認められ、「wanna Be A Dreammaker」で1998年[第40回日本レコード大賞](https://ja.wikipedia.org/wiki/第40回日本レコード大賞 "wikilink")を受賞した。また、この4枚のシングルを購入し、それぞれに封入されている応募券を送ると非売品シングルCD「[winter comes around again](https://ja.wikipedia.org/wiki/winter_comes_around_again "wikilink")」が応募者全員にプレゼントされるという企画を実施（当時はライブなどで一切この楽曲は演奏されることはないと言っていたが、2002年11月発売のベスト・アルバム『[8 Years 〜Many Classic Moments〜](../Page/8_Years_〜Many_Classic_Moments〜.md "wikilink")』でTK mixで収録）。
 
-[1999年](../Page/1999年.md "wikilink")2月、初の[リミックス](../Page/リミックス.md "wikilink")アルバムの公開[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が行われた（当日はタイトル未定であり、後に『[FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")』として発売）。このレコーディングに参加できたのは、アルバム『[Relation](../Page/Relation_\(globeのアルバム\).md "wikilink")』を購入し、応募してきた10万通の中から選ばれた200組400人、抽選倍率は約500倍であった。 [9月22日](../Page/9月22日.md "wikilink")、アルバム『[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")』の発売日に大阪 Virgin Megastore 心斎橋店にて発売記念インストアイベントが行われた。この日はイベントだけではなく、「1day globe ジャック\!\!」と銘打ち店内全てをglobeのCDで埋め尽くすという、大胆な企画も決行された。
+[1999年](../Page/1999年.md "wikilink")2月、初の[リミックス](../Page/リミックス.md "wikilink")アルバムの公開[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")が行われた（当日はタイトル未定であり、後に『[FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")』として発売）。このレコーディングに参加できたのは、アルバム『[Relation](../Page/Relation_\(globeのアルバム\).md "wikilink")』を購入し、応募してきた10万通の中から選ばれた200組400人、抽選倍率は約500倍であった。[9月22日](../Page/9月22日.md "wikilink")、アルバム『[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")』の発売日に大阪 Virgin Megastore 心斎橋店にて発売記念インストアイベントが行われた。この日はイベントだけではなく、「1day globe ジャック\!\!」と銘打ち店内全てをglobeのCDで埋め尽くすという、大胆な企画も決行された。
 
 [2000年](../Page/2000年.md "wikilink")1月、globe初の[ライブハウス](../Page/ライブハウス.md "wikilink")コンサート敢行。今回のライヴに参加できたのは、「[Coca Cola](../Page/コカ・コーラ.md "wikilink") TOUCH THE globe LIVE 2000\! キャンペーン」の応募総数115万枚から選ばれた2,700人でチケットの入手倍率は約100倍であった。
 
-### トランス期、ソロプロジェクト、コラボ、小室とKEIKOの結婚（2000-2002）
+### トランス期、ソロプロジェクト、コラボ、小室とKEIKOの結婚 (2000-2002)
 
 [2000年](../Page/2000年.md "wikilink")3月以降、メンバーそれぞれのソロプロジェクトが始まる。[3月29日](../Page/3月29日.md "wikilink")にそれぞれがglobe featuring KEIKO、globe featuring MARC、globe featuring TKとしてシングルを同時リリース。KEIKOはその年にソロコンサートツアーを2度行った。
 
 [2000年](../Page/2000年.md "wikilink")から[2002年](../Page/2002年.md "wikilink")にかけて、トランスという切り口から新たなglobeサウンドを展開。
 
-[2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")のアメリカの[同時多発テロ](https://ja.wikipedia.org/wiki/同時多発テロ "wikilink")を受け、被害地の一刻も早い復興の願いをこめ、『songnation(一部、song+nationと表記)』というプロジェクトを小室哲哉および[MAX松浦を中心として発足し](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")、チャリティーCDを発売。その第一弾にKEIKOが、[ayumi hamasaki](../Page/浜崎あゆみ.md "wikilink") & keiko 名義で「[a song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")」を発売した。 songnationとして、翌年1月にアルバム『songnation』を、3月にそのリミックス盤『songnation 2 trance』を発売。リミックスアルバムにはglobeとして参加した。
+[2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")のアメリカの[同時多発テロ](https://ja.wikipedia.org/wiki/同時多発テロ "wikilink")を受け、被害地の一刻も早い復興の願いをこめ、『songnation（一部、song+nationと表記）』というプロジェクトを小室哲哉および[MAX松浦を中心として発足し](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")、チャリティーCDを発売。その第一弾にKEIKOが、[ayumi hamasaki](../Page/浜崎あゆみ.md "wikilink") & keiko 名義で「[a song is born](https://ja.wikipedia.org/wiki/a_song_is_born "wikilink")」を発売した。songnationとして、翌年1月にアルバム『songnation』を、3月にそのリミックス盤『songnation 2 trance』を発売。リミックスアルバムにはglobeとして参加した。
 
 [2002年](../Page/2002年.md "wikilink")春からは全国ツアー"category trance" "category all genre"を開催。追加公演を含め、3種類もの演出でアーティスト性の高いステージを披露した。
 
@@ -60,9 +60,9 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、小室哲哉とKEIKOが結婚。
 
-### globe decade（デビュー10周年）、活動休止状態（2003-2008）
+### globe decade（デビュー10周年）、活動休止状態 (2003-2008)
 
-[2003年](../Page/2003年.md "wikilink")6月、[トランスと](../Page/トランス_\(音楽\).md "wikilink")[J-POP](../Page/J-POP.md "wikilink")の融合をにらんで発足されたプロジェクト『Cyber X』にKEIKOがCyber X feat. KEIKOとして「[be true](https://ja.wikipedia.org/wiki/be_true "wikilink")」を発売。[7月9日](../Page/7月9日.md "wikilink")に開催予定だった東京ドーム公演は、[アジア](../Page/アジア.md "wikilink")を拠点として活動することを目標としていたこともあり、[新型インフルエンザや](https://ja.wikipedia.org/wiki/SARS "wikilink")[イラク戦争](../Page/イラク戦争.md "wikilink")など国際情勢悪化の影響で中止された。 12月、KEIKOのソロシングル『[KCO](../Page/KCO.md "wikilink")』が発売。
+[2003年](../Page/2003年.md "wikilink")6月、[トランスと](../Page/トランス_\(音楽\).md "wikilink")[J-POP](../Page/J-POP.md "wikilink")の融合をにらんで発足されたプロジェクト『Cyber X』にKEIKOがCyber X feat. KEIKOとして「[be true](https://ja.wikipedia.org/wiki/be_true "wikilink")」を発売。[7月9日](../Page/7月9日.md "wikilink")に開催予定だった東京ドーム公演は、[アジア](../Page/アジア.md "wikilink")を拠点として活動することを目標としていたこともあり、[新型インフルエンザや](https://ja.wikipedia.org/wiki/SARS "wikilink")[イラク戦争](../Page/イラク戦争.md "wikilink")など国際情勢悪化の影響で中止された。12月、KEIKOのソロシングル『[KCO](../Page/KCO.md "wikilink")』が発売。
 
 [2004年](../Page/2004年.md "wikilink")8月のデビュー10年目を迎えた際に、翌年8月9日の10周年までの1年間を「globe decade」と題してさまざまな活動を行うと小室哲哉が公式ウェブサイトで発表。globe decadeの活動として、2004年10月より2005年1月までglobe decade tourを敢行。また12月には未発表曲であった「Judgement」をツアーにて初披露した。翌年3月、exciteの有料音楽配信にてglobeとして初の配信となる「Judgement (studio live version)」をCD音源化前に発表。
 
@@ -72,29 +72,29 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [2007年](../Page/2007年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")にファンクラブ「house of globe」によるイベントが行われ、1年4か月ぶりにメンバー3名が揃い、ファンの前で数曲を披露した。このイベントにおいて、今後のglobeとしての活動展望が明かされたが、翌年にファンクラブであるhouse of globeが休止を発表。
 
-### KEIKOソロ活動、復帰（2008-2009）
+### KEIKOソロ活動、復帰 (2008-2009)
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月12日に、ユニバーサルミュージックに移籍したKEIKOが「KCO」名義で「[春の雪](../Page/春の雪_\(KCOの曲\).md "wikilink")」を発売し、[4月30日](../Page/4月30日.md "wikilink")にソロとしてはファーストアルバムとなる『[O-CRAZY LUV](https://ja.wikipedia.org/wiki/O-CRAZY_LUV "wikilink")』を発売した。
 
 6月16日、小室のブログの記事において、globeが活動再開を宣言。8月31日、a-nationにシークレットアーティストとして出演し、停滞していた活動を約2年ぶりに再開させた形となった。
 
-11月4日、小室哲哉が5億円詐欺事件により逮捕。エイベックスは2008年11月～2009年1月までに発売が予定されていたシングル3枚(1枚は未定)\[7\]\[8\]の発売中止ならびにglobeの全曲の配信を停止することを発表。これによりglobeは活動不能の状態となった。
+11月4日、小室哲哉が5億円詐欺事件により逮捕。エイベックスは2008年11月～2009年1月までに発売が予定されていたシングル3枚（1枚は未定）\[7\]\[8\]の発売中止ならびにglobeの全曲の配信を停止することを発表。これによりglobeは活動不能の状態となった。
 
 [2009年](../Page/2009年.md "wikilink")8月22日、a-nationにシークレットアーティストとして登場し、音楽活動に復帰した。その中で、小室哲哉は観客に向かって頭を下げ続け謝罪の挨拶をした\[9\]。その模様は期間限定でエイベックスの携帯電話向け動画サイト[Bee TVで配信された](https://ja.wikipedia.org/wiki/Bee_TV "wikilink")。また、この日よりglobeの楽曲配信を再開した\[10\]。
 
-### 15YEARS（デビュー15周年）、KEIKOの療養による活動休止（2010 - 2014）
+### 15YEARS（デビュー15周年）、KEIKOの療養による活動休止 (2010 - 2014)
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")、15周年記念盤『15YEARS』3種が発売。2008年11月に発売が中止されたシングル「Get Wild」と同シングルのカップリングであった「Spicy Girls」を収録。3種類のうち『15YEARS -BEST HIT SELECTION-』のアルバムジャケットはシングル「Get Wild」で使用される予定だった[北条司](../Page/北条司.md "wikilink")の描き下ろしイラストが採用されている。
 
 [2011年](../Page/2011年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")、KEIKOが自宅にいる際に首の後部に激痛を訴え倒れた。夫である小室が救急車を呼び都内病院に緊急搬送される。診断の結果「[クモ膜下出血](../Page/クモ膜下出血.md "wikilink")」と判明し、25日未明から約5時間にわたる手術を受けた\[11\]。そのため活動不能の状態となったが、[2012年](../Page/2012年.md "wikilink")[9月](../Page/9月.md "wikilink")に小室が自らの[Twitter](../Page/Twitter.md "wikilink")にて病気療養中のKEIKOが回復するまで、マーク・パンサーと2人で活動再開する旨を発表した。
 
-[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")、globeの楽曲を小室哲哉とMARCが[EDM](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink") (Electronic Dance Music)スタイルにリミックスしたアルバム『[globe EDM Sessions](https://ja.wikipedia.org/wiki/globe_EDM_Sessions "wikilink")』が発売された。
+[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")、globeの楽曲を小室哲哉とMARCが[EDM](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink") (Electronic Dance Music) スタイルにリミックスしたアルバム『[globe EDM Sessions](https://ja.wikipedia.org/wiki/globe_EDM_Sessions "wikilink")』が発売された。
 
-### globe 2 decade（デビュー20周年）（2015 - ）
+### globe 2 decade（デビュー20周年）(2015 - )
 
-[2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、デビュー20周年を記念して女性ボーカル＆男性ラッパーによるユニット「baby globe（仮）」のオーディションを開始した。 [8月5日](../Page/8月5日.md "wikilink")、これまで発表した曲から20曲を小室哲哉自身により、リプロダクトしたアルバム『[Remode 1](https://ja.wikipedia.org/wiki/Remode_1 "wikilink")』発売。 [8月9日](../Page/8月9日.md "wikilink")、『globe 20th anniversary special event』をシンセサイザーを小室哲哉、DJをMARCで[新宿ステーションスクウェア](https://ja.wikipedia.org/wiki/新宿ステーションスクウェア "wikilink")においてフリーイベントとして実施。イベント冒頭にKEIKOの手書きメッセージを本人が読み上げる形でKEIKOの肉声が流れた。 [12月16日](../Page/12月16日.md "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")､[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")などが参加した『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』を発売。
+[2015年](../Page/2015年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、デビュー20周年を記念して女性ボーカル＆男性ラッパーによるユニット「baby globe（仮）」のオーディションを開始した。[8月5日](../Page/8月5日.md "wikilink")、これまで発表した曲から20曲を小室哲哉自身により、リプロダクトしたアルバム『[Remode 1](https://ja.wikipedia.org/wiki/Remode_1 "wikilink")』発売。[8月9日](../Page/8月9日.md "wikilink")、『globe 20th anniversary special event』をシンセサイザーを小室哲哉、DJをMARCで[新宿ステーションスクウェア](https://ja.wikipedia.org/wiki/新宿ステーションスクウェア "wikilink")においてフリーイベントとして実施。イベント冒頭にKEIKOの手書きメッセージを本人が読み上げる形でKEIKOの肉声が流れた。[12月16日](../Page/12月16日.md "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink")､[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")などが参加した『[\#globe20th -SPECIAL COVER BEST-](https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST- "wikilink")』を発売。
 
-[2016年](../Page/2016年.md "wikilink")3月、globe MUSIC VIDEO ドラマ PROJECT をたちあげ、「[FACE](https://ja.wikipedia.org/wiki/FACE "wikilink")」が[池田エライザ](https://ja.wikipedia.org/wiki/池田エライザ "wikilink")主演、[薮内省吾](https://ja.wikipedia.org/wiki/薮内省吾 "wikilink")監督で映像化された\[12\]。 また、デビュー20周年の締めくくりとして、リプロダクト・アルバム『[Remode 2](https://ja.wikipedia.org/wiki/Remode_2 "wikilink")』(8月3日発売)、[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink")ボックス『globe 2 decade -live blu-ray box-』(9月7日発売)をリリース\[13\]、「globe 20th FINAL ニコ生スペシャルナイト」(8月8日、六本木[ニコファーレ](https://ja.wikipedia.org/wiki/ニコファーレ "wikilink"))を開催\[14\]。
+[2016年](../Page/2016年.md "wikilink")3月、globe MUSIC VIDEO ドラマ PROJECT を立ち上げ、「[FACE](https://ja.wikipedia.org/wiki/FACE "wikilink")」が[池田エライザ](https://ja.wikipedia.org/wiki/池田エライザ "wikilink")主演、[薮内省吾](https://ja.wikipedia.org/wiki/薮内省吾 "wikilink")監督で映像化された\[12\]。また、デビュー20周年の締めくくりとして、リプロダクト・アルバム『[Remode 2](https://ja.wikipedia.org/wiki/Remode_2 "wikilink")』（8月3日発売）、[Blu-ray](https://ja.wikipedia.org/wiki/Blu-ray "wikilink")ボックス『globe 2 decade -live blu-ray box-』（9月7日発売）をリリース\[13\]、「globe 20th FINAL ニコ生スペシャルナイト」（8月8日、六本木[ニコファーレ](https://ja.wikipedia.org/wiki/ニコファーレ "wikilink")）を開催\[14\]。
 
 [2017年](../Page/2017年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")、小室自身の公式Instagramにて、療養中であるKEIKOの歌声を公開した\[15\]。動画には「2016〜2017 KEIKO」と文字が浮かんでおり、小室は「病気後に創って唄ってみたkeikoの声です。きっと今はもっと上手になってると思う」とコメントしている。なお、KEIKOが病気発症以降、本人の歌声が公開されたのは初めてとなる。
 
@@ -102,11 +102,11 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 ## globe extreme
 
-globe extremeは、globeのメンバー3人に[X JAPANのYOSHIKIを加えた](../Page/X_JAPAN.md "wikilink")4人で活動するときのユニット名である。YOSHIKIは2002年9月にglobeの4人目のメンバーとして加入、同年11月に唯一globeとして参加、作詞・作曲・編曲とギター演奏をした楽曲「[seize the light](https://ja.wikipedia.org/wiki/seize_the_light "wikilink")」があるが、2005年8月に行われた『[globe2 pop/rock](https://ja.wikipedia.org/wiki/globe2_pop/rock "wikilink")』リリースパーティーにおいて、今後はオリジナルメンバーとしてでなくサイドメンバーとして一緒に活動し、活動の際はglobe extremeと称すると発表した \[16\]。しかしながら現在までglobe extremeとしての活動はない。
+globe extremeは、globeのメンバー3人に[X JAPANのYOSHIKIを加えた](../Page/X_JAPAN.md "wikilink")4人で活動するときのユニット名である。YOSHIKIは2002年9月にglobeの4人目のメンバーとして加入、同年11月に唯一globeとして参加、作詞・作曲・編曲とギター演奏をした楽曲「[seize the light](https://ja.wikipedia.org/wiki/seize_the_light "wikilink")」があるが、2005年8月に行われた『[globe2 pop/rock](https://ja.wikipedia.org/wiki/globe2_pop/rock "wikilink")』リリースパーティーにおいて、今後はオリジナルメンバーとしてでなくサイドメンバーとして一緒に活動し、活動の際はglobe extremeと称すると発表した\[16\]。しかしながら現在までglobe extremeとしての活動はない。
 
 ## ディスコグラフィ
 
-専用のレーベル「avex globe」のため基本的には特有の品番（AV\*G）を割り振られている。
+専用のレーベル「avex globe」のため基本的には特有の品番 (AV\*G) を割り振られている。
 
 ### シングル
 
@@ -426,7 +426,7 @@ AVCG-70070</p></td>
 <td><p>AVCG-70071<br />
 AVCG-70072</p></td>
 <td><p>『Get Wild』と同様にTM NETWORKの同曲のカバーを表題曲とする予定だった。<br />
-収録予定曲は表題曲と新曲(タイトルなどは不明)のほかに、規格品番によって違う曲の"mega-mix"というトラックが収録される予定だった。</p></td>
+収録予定曲は表題曲と新曲（タイトルなどは不明）のほかに、規格品番によって違う曲の"mega-mix"というトラックが収録される予定だった。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -467,7 +467,7 @@ AVCG-70072</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
 <td><p>AVYG-72002</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MiniDisc" title="wikilink">MD</a></p></td>
-<td><p>－</p></td>
+<td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -546,7 +546,7 @@ AVCG-70072</p></td>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/maniac" title="wikilink">maniac</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/maniac_(アルバム)" title="wikilink">maniac</a></p></td>
 <td><p>AVCG-70066~7<br />
 AVCX-70066~7</p></td>
 <td><p>12位</p></td>
@@ -697,30 +697,28 @@ CCCD[21]</p></td>
 
   - リミックスアルバム
 
-| 発売日                                                                      | タイトル                                                                                                                 | 規格No.            | 販売形態                                                    | 最高位 |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | --- |
-| [1999年](../Page/1999年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") | [FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")                                                           | AVCG-70005       | CD                                                      | 4位  |
-| [2000年](../Page/2000年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") | [SUPER EUROBEAT presents EURO global](../Page/SUPER_EUROBEAT_presents_EURO_global.md "wikilink")                     | AVCD-11845\[24\] | 3位                                                      |     |
-| [2001年](../Page/2001年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink") | [global trance](https://ja.wikipedia.org/wiki/global_trance "wikilink")                                              | AVCG-70009       | 4位                                                      |     |
-| 2001年[11月10日](../Page/11月10日.md "wikilink")                              | [global trance ep](https://ja.wikipedia.org/wiki/global_trance_ep "wikilink")                                        | RR12-88323       | [アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink") | \-  |
-| [2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink") | [global trance 2](https://ja.wikipedia.org/wiki/global_trance_2 "wikilink")                                          | AVCG-70012       | CCCD                                                    | 22位 |
-| [2003年](../Page/2003年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") | [PIANO globe 〜globe piano collection〜](https://ja.wikipedia.org/wiki/PIANO_globe〜globe_piano_collection〜 "wikilink") | AVCG-70016       | 92位                                                     |     |
-| 2003年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")               | [global trance best](https://ja.wikipedia.org/wiki/global_trance_best "wikilink")                                    | AVCG-70017/B     | CCCD+DVD                                                | 15位 |
-| [2011年](../Page/2011年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") | [house of globe](https://ja.wikipedia.org/wiki/house_of_globe "wikilink")                                            | AVCG-70106       | CD                                                      | 81位 |
-| 2011年[8月10日](../Page/8月10日.md "wikilink")                                | [Ragga globe ～Beautiful Journey～](https://ja.wikipedia.org/wiki/Ragga_globe_～Beautiful_Journey～ "wikilink")          | AVCD-38317       | 225位                                                    |     |
-| [2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") | [globe EDM Sessions](https://ja.wikipedia.org/wiki/globe_EDM_Sessions "wikilink")                                    | AVCG-70107A      | 69位                                                     |     |
-| [2014年](../Page/2014年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")   | [GDM](https://ja.wikipedia.org/wiki/GDM_\(globeのアルバム\) "wikilink")                                                   | AVCG-70108       | 59位                                                     |     |
-| [2015年](../Page/2015年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")   | [Remode 1](https://ja.wikipedia.org/wiki/Remode_1 "wikilink")                                                        | AVCG-70109\~10   | 2CD                                                     | 12位 |
-| [2016年](../Page/2016年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") | [deep JAZZ globe](https://ja.wikipedia.org/wiki/deep_JAZZ_globe "wikilink")                                          | \-               | デジタル・ダウンロード                                             | \-  |
-| [2016年](../Page/2016年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")   | [Remode 2](https://ja.wikipedia.org/wiki/Remode_2 "wikilink")                                                        | AVCG-70114/B     | CD+DVD                                                  | 12位 |
-|                                                                          |                                                                                                                      |                  |                                                         |     |
+| 発売日                                                                      | タイトル                                                                                                                | 規格No.            | 販売形態                                                    | 最高位 |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------- | --- |
+| [1999年](../Page/1999年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") | [FIRST REPRODUCTS](../Page/FIRST_REPRODUCTS.md "wikilink")                                                          | AVCG-70005       | CD                                                      | 4位  |
+| [2000年](../Page/2000年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") | [SUPER EUROBEAT presents EURO global](../Page/SUPER_EUROBEAT_presents_EURO_global.md "wikilink")                    | AVCD-11845\[24\] | 3位                                                      |     |
+| [2001年](../Page/2001年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink") | [global trance](https://ja.wikipedia.org/wiki/global_trance "wikilink")                                             | AVCG-70009       | 4位                                                      |     |
+| 2001年[11月10日](../Page/11月10日.md "wikilink")                              | [global trance ep](https://ja.wikipedia.org/wiki/global_trance_ep "wikilink")                                       | RR12-88323       | [アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink") | \-  |
+| [2002年](../Page/2002年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink") | [global trance 2](https://ja.wikipedia.org/wiki/global_trance_2 "wikilink")                                         | AVCG-70012       | CCCD                                                    | 22位 |
+| [2003年](../Page/2003年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") | [PIANO globe〜globe piano collection〜](https://ja.wikipedia.org/wiki/PIANO_globe〜globe_piano_collection〜 "wikilink") | AVCG-70016       | 92位                                                     |     |
+| 2003年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")               | [global trance best](https://ja.wikipedia.org/wiki/global_trance_best "wikilink")                                   | AVCG-70017/B     | CCCD+DVD                                                | 15位 |
+| [2011年](../Page/2011年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") | [house of globe](https://ja.wikipedia.org/wiki/house_of_globe "wikilink")                                           | AVCG-70106       | CD                                                      | 81位 |
+| 2011年[8月10日](../Page/8月10日.md "wikilink")                                | [Ragga globe ～Beautiful Journey～](https://ja.wikipedia.org/wiki/Ragga_globe_～Beautiful_Journey～ "wikilink")         | AVCD-38317       | 225位                                                    |     |
+| [2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") | [globe EDM Sessions](https://ja.wikipedia.org/wiki/globe_EDM_Sessions "wikilink")                                   | AVCG-70107A      | 69位                                                     |     |
+| [2014年](../Page/2014年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")   | [GDM](https://ja.wikipedia.org/wiki/GDM_\(globeのアルバム\) "wikilink")                                                  | AVCG-70108       | 59位                                                     |     |
+| [2015年](../Page/2015年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")   | [Remode 1](https://ja.wikipedia.org/wiki/Remode_1 "wikilink")                                                       | AVCG-70109\~10   | 2CD                                                     | 12位 |
+| [2016年](../Page/2016年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") | [deep JAZZ globe](https://ja.wikipedia.org/wiki/deep_JAZZ_globe "wikilink")                                         | \-               | デジタル・ダウンロード                                             | \-  |
+| [2016年](../Page/2016年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")   | [Remode 2](https://ja.wikipedia.org/wiki/Remode_2 "wikilink")                                                       | AVCG-70114/B     | CD+DVD                                                  | 12位 |
 
   - 企画参加アルバム
 
-| 発売日                                                                                       | タイトル                                                                                  | 規格No.      | 販売形態 | 最高位 | 収録曲                                                  |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- | ---- | --- | ---------------------------------------------------- |
-| [2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") | [song+nation 2 trance](https://ja.wikipedia.org/wiki/song+nation_2_trance "wikilink") | AVCD-17096 | CD   | 40位 | Many Classic Moments / a song is born(globe version) |
-|                                                                                           |                                                                                       |            |      |     |                                                      |
+| 発売日                                                                                       | タイトル                                                                                  | 規格No.      | 販売形態 | 最高位 | 収録曲                                                   |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- | ---- | --- | ----------------------------------------------------- |
+| [2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") | [song+nation 2 trance](https://ja.wikipedia.org/wiki/song+nation_2_trance "wikilink") | AVCD-17096 | CD   | 40位 | Many Classic Moments / a song is born (globe version) |
 
   - トリビュートアルバム
 
@@ -738,8 +736,8 @@ CCCD[21]</p></td>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a>12月16日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/globe20th_-SPECIAL_COVER_BEST-" title="wikilink">#globe20th -SPECIAL COVER BEST-</a></p></td>
-<td><p>AVCG-70111~2(COVER+BEST)<br />
-AVCG-70113(COVER)</p></td>
+<td><p>AVCG-70111~2 (COVER+BEST)<br />
+AVCG-70113 (COVER)</p></td>
 <td><p>2CD<br />
 CD</p></td>
 <td><p>8位</p></td>
@@ -778,25 +776,25 @@ CD</p></td>
 | Document                                                                   | GVD globe decade globe real document 2                            | [2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")                                                                                 | DVD                                                                     | GVD-0002   | ライブ会場限定盤 |
 | Document                                                                   | GVD globe decade globe real document 3                            | [2005年](../Page/2005年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")                                                                                   | DVD                                                                     | GVD-0003   | ライブ会場限定盤 |
 | Live                                                                       | globe decade -access best seasons 1995-2004-                      | [2005年](../Page/2005年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")                                                                                   | DVD                                                                     | AVBG-72040 |          |
-| LIVE BEST                                                                  | 「globe 20th ANNIVERSARY SPECIAL                                   | LIVE DVD BOOK」<ref>{{Cite web |author= |date=2015-12-30|url=<http://avex.jp/globe/news/detail.php?id=1030638> |title= 宝島社より「globe 20th ANNIVERSARY SPECIAL | LIVE DVD BOOK」が2016年1月21日に発売 |publisher= |accessdate=2015-12-31}}</ref> | 2016年1月21日 | DVD      |
+| LIVE BEST                                                                  | 「globe 20th ANNIVERSARY SPECIAL                                   | LIVE DVD BOOK」<ref>{{Cite web |author= |date=2015-12-30 |url=<http://avex.jp/globe/news/detail.php?id=1030638> |title=宝島社より「globe 20th ANNIVERSARY SPECIAL | LIVE DVD BOOK」が2016年1月21日に発売 |publisher= |accessdate=2015-12-31}}</ref> | 2016年1月21日 | DVD      |
 
 ### BOX
 
-  - **[globe decade -complete box 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-complete_box_1995-2004- "wikilink")** (2005年2月16日 AVCG-70023\~61) CD39枚+DVD9枚、完全予約限定生産
-      - シングル全29枚(8cmシングル12cm化)、オリジナルアルバム9枚、ライブDVD6枚、クリップ集DVD1枚、予約特典DVD2枚
-  - **GVD globe decade globe real document SPECIAL BOX** (2005年3月30日 AVBG-72031〜3) DVD3枚
+  - **[globe decade -complete box 1995-2004-](https://ja.wikipedia.org/wiki/globe_decade_-complete_box_1995-2004- "wikilink")**（2005年2月16日 AVCG-70023\~61）CD39枚+DVD9枚、完全予約限定生産
+      - シングル全29枚（8cmシングル12cm化）、オリジナルアルバム9枚、ライブDVD6枚、クリップ集DVD1枚、予約特典DVD2枚
+  - **GVD globe decade globe real document SPECIAL BOX**（2005年3月30日 AVBG-72031〜3）DVD3枚
       - ライヴツアーの会場・通販限定で販売された完全密着ドキュメントDVDの再発、BOX仕様
-  - **15YEARS CHRONICLE 〜ON-AIR & OFF-AIR〜 + UNRELEASED TRACKS** (2011年3月30日 AVBG-72045〜50/B) DVD6枚+CD
-      - ON-AIR(DVD3枚)：インタビュー&ドキュメンタリーメイキング、スペシャルライブ等のテレビ番組映像を収録
-      - OFF-AIR(DVD3枚)：オフショット映像集として「GVD globe decade globe real document」を収録
-      - その他、当時未発表曲だった「They Fight Now」「Single Walking」「Self Control (方舟に曳かれて)」の3曲を収録したCDをセット
-  - **globe 2 decade -live blu-ray box-**(2016年9月7日 AVXG-72053\~9 / B〜C)
+  - **15YEARS CHRONICLE 〜ON-AIR & OFF-AIR〜 + UNRELEASED TRACKS**（2011年3月30日 AVBG-72045〜50/B）DVD6枚+CD
+      - ON-AIR（DVD3枚）：インタビュー&ドキュメンタリーメイキング、スペシャルライブ等のテレビ番組映像を収録
+      - OFF-AIR（DVD3枚）：オフショット映像集として「GVD globe decade globe real document」を収録
+      - その他、当時未発表曲だった「They Fight Now」「Single Walking」「Self Control（方舟に曳かれて）」の3曲を収録したCDをセット
+  - **globe 2 decade -live blu-ray box-**（2016年9月7日 AVXG-72053\~9 / B〜C）
       - Blu-ray全7枚（これまでのライブ映像）、CD「KEIKO sings globe @ KEIKO solo tour 2000」
-      - DVD「globe20th special DVD –past and now-」、ブックレット、ランダム特典(秘蔵写真＆フィルム)
+      - DVD「globe20th special DVD –past and now-」、ブックレット、ランダム特典（秘蔵写真＆フィルム）
 
 ### MIX-J
 
-  - **J-POPハリケーン～globeだけ60分本気(ガチ)MIX** (2011年4月20日 AVCD-38288)
+  - **J-POPハリケーン～globeだけ60分本気（ガチ）MIX**（2011年4月20日 AVCD-38288）
 
 <!-- end list -->
 
@@ -805,7 +803,7 @@ CD</p></td>
 
 <!-- end list -->
 
-  - **J-POPハリケーン(熱帯低気圧MIX)\~globeだけ20分本気(マジ)MIX\~(Continuous Mix)** (2011年4月27日 iTunes Store配信限定)
+  - **J-POPハリケーン（熱帯低気圧MIX）\~globeだけ20分本気（マジ）MIX\~ (Continuous Mix)**（2011年4月27日 iTunes Store配信限定）
 
 ## レコード大賞
 
@@ -855,7 +853,7 @@ CD</p></td>
 
 1.  正確には「GLOBE-GENERATION」としての活動
 2.  [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1996年2月5日号29Pより。
-3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1996年7月号18P-27Pより。
+3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』1996年7月号 pp.18-27 より。
 4.  「[ぴあ](../Page/ぴあ.md "wikilink")」1995年7月18日号268P-270Pより。
 5.  [読売新聞社](../Page/読売新聞社.md "wikilink")刊「月刊KiTAN」1995年10月号14P-16Pより。
 6.

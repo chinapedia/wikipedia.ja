@@ -76,19 +76,21 @@ Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 
 
 ### 改良
 
-[対戦車ヘリコプター_(8465505054).jpg](https://ja.wikipedia.org/wiki/File:対戦車ヘリコプター_\(8465505054\).jpg "fig:対戦車ヘリコプター_(8465505054).jpg") [AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg](https://ja.wikipedia.org/wiki/File:AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg "fig:AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg") [ベトナム戦争](../Page/ベトナム戦争.md "wikilink")終結後には、**AH-1G**に[BGM-71 TOW](https://ja.wikipedia.org/wiki/BGM-71_TOW "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")運用能力付与がなされた。TOW運用能力を付与された機体は**AH-1Q**と呼ばれ、機首部に光学望遠鏡方式の[照準装置を装備しているのが特徴である](../Page/照準器.md "wikilink")。
+[対戦車ヘリコプター_(8465505054).jpg](https://ja.wikipedia.org/wiki/File:対戦車ヘリコプター_\(8465505054\).jpg "fig:対戦車ヘリコプター_(8465505054).jpg") [ベトナム戦争](../Page/ベトナム戦争.md "wikilink")終結後には、**AH-1G**に[BGM-71 TOW](https://ja.wikipedia.org/wiki/BGM-71_TOW "wikilink")[対戦車ミサイル](../Page/対戦車ミサイル.md "wikilink")運用能力付与がなされた。TOW運用能力を付与された機体は**AH-1Q**と呼ばれ、機首部に光学望遠鏡方式の[照準装置を装備しているのが特徴である](../Page/照準器.md "wikilink")。
 
 [米陸軍では](../Page/アメリカ陸軍.md "wikilink")、重量増加による[エンジン](../Page/エンジン.md "wikilink")の出力不足が問題視されたため、ICAM（発展型コブラ俊敏性及び機動性）計画が立案され、エンジンを熱出力1,800shp（軸出力1,485shp）のT53-L-703に換装、トランスミッション、機体各部の強化が施された**AH-1S**が登場する。
 
 なお、**AH-1S**はその後も段階的に改修が加えられており、いくつかのバリエーションがある。 **AH-1Q**から改修した機体と初めから**AH-1S**として生産された初期生産型、初期生産型をより能力向上させた型、さらに、これに近代化改修を施した型で、**AH-1S改修型（MOD）=AH-1S**、**AH-1S量産型（PROD）=AH-1P**、**AH-1Sアップガン型（ECAS）=AH-1E**、**AH-1S近代改修型（MC）=AH-1F**と分類される。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月から実戦配備されている[米海兵隊向けの](../Page/アメリカ海兵隊.md "wikilink")**[AH-1W スーパーコブラ](https://ja.wikipedia.org/wiki/AH-1W_スーパーコブラ "wikilink")**などの派生型もある。最新型は**[AH-1Z ヴァイパー](https://ja.wikipedia.org/wiki/AH-1Z_ヴァイパー "wikilink")**で、米海兵隊は[2004年](../Page/2004年.md "wikilink")-[2013年](../Page/2013年.md "wikilink")までに180機をAH-1W スーパーコブラからAH-1Z ヴァイパーに[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")時に改造更新することを計画している。
-
 なお、陸軍向け仕様のAH-1S系統だけは、太陽光の反射で発見されるのを防ぐため[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")が角ばった平面型となっている。
 
-## 各国の運用状況
+### 双発型
 
-※双発型のAH-1J/Wを含む。
+[AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg](https://ja.wikipedia.org/wiki/File:AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg "fig:AH-1Z_lands_on_USS_Makin_Island_LHD-8.jpg") アメリカ海兵隊は、洋上運用が多いことからエンジンをツインパックの[T400としたAH](https://ja.wikipedia.org/wiki/プラット・アンド・ホイットニー・カナダ_PT6T "wikilink")-1J シーコブラを採用した。
+
+その後も改良が続けられ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月から実戦配備されている[米海兵隊向けの](../Page/アメリカ海兵隊.md "wikilink")**[AH-1W スーパーコブラ](https://ja.wikipedia.org/wiki/AH-1W_スーパーコブラ "wikilink")**などの派生型もある。最新型は**[AH-1Z ヴァイパー](https://ja.wikipedia.org/wiki/AH-1Z_ヴァイパー "wikilink")**で、米海兵隊は[2004年](../Page/2004年.md "wikilink")-[2013年](../Page/2013年.md "wikilink")までに180機をAH-1W スーパーコブラからAH-1Z ヴァイパーに[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")時に改造更新することを計画している。 {{-}}
+
+## 各国の運用状況
 
 ### アメリカ合衆国
 
@@ -134,16 +136,6 @@ Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 
 
 [パキスタン陸軍が](https://ja.wikipedia.org/wiki/パキスタン軍 "wikilink")[1984年](../Page/1984年.md "wikilink")に20機のAH-1Sを発注し、内10機を導入した。これらの機体は後にAH-1Fに改良されている。[2007年](../Page/2007年.md "wikilink")には12機のAH-1Fを発注し、2010年に14機が導入された。2013年には[ヨルダン空軍から退役したAH](https://ja.wikipedia.org/wiki/ヨルダン軍 "wikilink")-1S 8機を購入し運用機数を増やしている。
 
-### 台湾
-
-[台湾陸軍が](../Page/中華民国陸軍.md "wikilink")63機のAH-1Wを導入。
-
-### イラン
-
-[بالگرد_توفان_2.jpg](https://ja.wikipedia.org/wiki/File:بالگرد_توفان_2.jpg "fig:بالگرد_توفان_2.jpg") [イラン陸軍](https://ja.wikipedia.org/wiki/イラン陸軍 "wikilink")は[パーレビ王朝](https://ja.wikipedia.org/wiki/パーレビ王朝 "wikilink")時代にAH-1Jを導入したが、[イラン革命](../Page/イラン革命.md "wikilink")後、アメリカとの関係悪化に伴い、補修部品及びTOWミサイルの入手困難になり、稼働率が急速に低下して活動が不活発になった。しかし、いわゆる[イラン・コントラ事件](../Page/イラン・コントラ事件.md "wikilink")に代表される闇ルートからの補給により実戦投入ができる程度に回復した。実戦としては、[カルバラ第5号作戦](https://ja.wikipedia.org/wiki/カルバラ第5号作戦 "wikilink")などに投入された。戦後は部品の国産化が進められ、現在でも運用されている。
-
-また、AH-1Jを元に、イランのIAIO(Iran Aviation Industries Organization)によって国産化されたものが、“”（アルファベット転化：Toophan/Toufan.「[台風](../Page/台風.md "wikilink")」の意）の名称で開発されており、原型のAH-1Jほぼそのままの設計のI型と、火器管制装置その他に改良を加えられたII型が存在している。Toufan Iは2010年5月に、Toufan IIは2013年1月に公表された。  {{-}}
-
 ### 日本
 
 [Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg](https://ja.wikipedia.org/wiki/File:Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg "fig:Washington_National_Guard_escorts_Japan_Self-Defense_Forces_140826-Z-OY821-173.jpg") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Japan_Defense_Force_members_maintain_cannon_140904-A-BX700-230.jpg "wikilink") [陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が昭和52年度予算と昭和53年度予算で研究用として1機ずつ購入し、昭和54年度と昭和55年度にそれぞれ配備された。昭和57年度予算からは本格的な調達が開始され、7機目から[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（[エンジン](../Page/エンジン.md "wikilink")は[川崎重工業](../Page/川崎重工業.md "wikilink")）によって[ライセンス生産](../Page/ライセンス生産.md "wikilink")も始まり、[2000年](../Page/2000年.md "wikilink")（平成12年）[12月14日](../Page/12月14日.md "wikilink")までに90機が生産された。陸上自衛隊は[2019年](../Page/2019年.md "wikilink")3月末時点でAH-1Sを55機保有している\[18\]。
@@ -152,7 +144,7 @@ Image:XM28 Schmatic.jpg|7.62mmミニガンと40mmグレネードの給弾装置 
 
 数々の改修により燃料を最大に積載した状態では、9,300lbs（4,213Kg）となり、最大離陸重量10,000lbs（4､530kg）に近く最大武装状態では飛行ができない。また、[弾薬](../Page/弾薬.md "wikilink")を多く搭載すると燃料積載量を減らさねばならず、飛行時間が減少する[二律背反](../Page/二律背反.md "wikilink")現象がおきている。
 
-エンジン不良によって数件の墜落事故が発生している。[2000年](../Page/2000年.md "wikilink")（平成12年）に[東富士演習場](../Page/東富士演習場.md "wikilink")で発生した落着事故に関し、川崎は防衛庁（当時）によって[PL法](https://ja.wikipedia.org/wiki/PL法 "wikilink")に基づき訴訟を提起され、[2012年](../Page/2012年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に東京地裁から2億3千万円を賠償を命ずる判決を受けた。単発機の特性上、エンジンの故障は即座にエンジンリスタートの試行やオートローテーションを用いた着陸を選択せざるを得ない状況を生む。
+エンジン不良によって数件の墜落事故が発生している。[2000年](../Page/2000年.md "wikilink")（平成12年）に[東富士演習場](../Page/東富士演習場.md "wikilink")で発生した落着事故に関し、川崎重工は防衛庁（当時）によって[PL法](https://ja.wikipedia.org/wiki/PL法 "wikilink")に基づき訴訟を提起され、[2012年](../Page/2012年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に東京地裁から2億3千万円を賠償を命ずる判決を受けた。単発機の特性上、エンジンの故障は即座にエンジンリスタートの試行やオートローテーションを用いた着陸を選択せざるを得ない状況を生む。
 
 [2001年](../Page/2001年.md "wikilink")（平成13年）[8月27日](../Page/8月27日.md "wikilink")に、[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")は陸上自衛隊の次期戦闘ヘリとして、[三菱重工業](../Page/三菱重工業.md "wikilink")が提案した最新型双発・4ローターで性能・信頼性共に大幅に上昇、**AH-1W**のダイナミックコンポーネントからの改造製作が基本である「**AH-1Z**」を下し、富士重工が提案した[ボーイング](../Page/ボーイング.md "wikilink")の[AH-64D アパッチ・ロングボウを選定した](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ "wikilink")。これは陸自と[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")の密接な関係により採用されたもので、現行AH-1Wと共通性はあってもAH-1Sとは機体構造が違い、元来が[アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")向けのAH-1Zは分が悪かった。
 
@@ -266,43 +258,6 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
   - QAH-1S
     AH-1の無人機型。[アメリカと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の共同開発。
 
-### 発展型
-
-  - AH-1J
-
-[AH-1J-1.jpg](https://ja.wikipedia.org/wiki/File:AH-1J-1.jpg "fig:AH-1J-1.jpg")）\]\]
-
-  -
-    [アメリカ海兵隊](../Page/アメリカ海兵隊.md "wikilink")向けAH-1G。エンジンを双発とし、エンジン出力の増加を図った。「シーコブラ（Sea Cobra）」の愛称で呼ばれる。
-      - AH-1J インターナショナル
-        TOWミサイルを搭載可能にした、AH-1Jの輸出型。
-  - AH-1T
-    AH-1Jの改良型で、搭載燃料の増加と胴体の延長が行われた。
-  - AH-1W
-    AH-1Tの発展型。
-
-<!-- end list -->
-
-  - AH-1Z
-    AH-1Wの改修機でメインローターを4枚とし、電子機類の性能向上に伴う戦闘力の向上が図られる。
-
-<!-- end list -->
-
-  - ベル 249
-    AH-1Sの改良型でメインローターを4枚にし、エンジンを[ゼネラル・エレクトリック T700に換装したもの](../Page/ゼネラル・エレクトリック_T700.md "wikilink")。
-
-  - ベル 309 キングコブラ
-
-<!-- end list -->
-
-  -
-    AH-1の実験機。エンジンは「T-55-L-7C」を搭載。
-
-<!-- end list -->
-
-  - IAIO トゥーファン()
-    [イラン](../Page/イラン.md "wikilink")がAH-1Jを元に国産化したもの。I型とII型が存在する。
-
 ## 採用国
 
   -
@@ -310,11 +265,7 @@ Bell_209_Cobra_FDOF_LSideFront_SNF_Setup_FLAirMuse_27March2010_(14443636750).jpg
   -
   -
   -
-  - (AH-1J)
-
   -
-  - (AH-1W)
-
   -
   -
   -

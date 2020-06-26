@@ -31,6 +31,9 @@
 
 ## 番組
 
+  -
+    タイムテーブルに記載は無いが、平日18:00の時報前には在京ラジオキー局4社（ニッポン放送・TBSラジオ・文化放送・TOKYO FM）共同企画「エールを届けるラジオ便」を放送している。
+
 ### 平日
 
 <table>
@@ -246,7 +249,7 @@
 <td><p>50 <a href="https://ja.wikipedia.org/wiki/ミヤリサン製薬プレゼンツ_腸から始まる健康ライフ" title="wikilink">ミヤリサン製薬プレゼンツ<br />
 腸から始まる健康ライフ</a><br />
 <a href="../Page/中澤有美子.md" title="wikilink">中澤有美子</a></p></td>
-<td><p>50 <a href="https://ja.wikipedia.org/wiki/何かが始まる音がする" title="wikilink">何かが始まる音がする</a></p></td>
+<td><p>50 <a href="../Page/何かが始まる音がする.md" title="wikilink">何かが始まる音がする</a></p></td>
 <td><p>50 <a href="https://ja.wikipedia.org/wiki/Times_2020" title="wikilink">Times 2020</a>[4]<br />
 <a href="https://ja.wikipedia.org/wiki/山本恵里伽" title="wikilink">山本恵里伽</a></p></td>
 <td><p>50 <a href="../Page/講談社.md" title="wikilink">講談社</a> presents<br />
@@ -1205,7 +1208,7 @@
 
 1.  2015年3月にネットを終了した『[AKB48木崎ゆりあ 2014年のシンデレラ](https://ja.wikipedia.org/wiki/AKB48木崎ゆりあ_2014年のシンデレラ "wikilink")』が直近。
 2.  ラジオ大阪はNRNキー局である文化放送との関係が深いが、2012年10月の番組開始時点でスポンサーの[川口技研](../Page/川口技研.md "wikilink")が文化放送で単独提供番組を2本持っており、これ以上単独提供枠を増やせなかった。そして放送枠である土曜18時台前半は、当時の文化放送では年度上半期に『[文化放送ホームランナイター](../Page/文化放送ホームランナイター.md "wikilink")』を編成しており、通年の同時ネットが不可能だった。
-3.  この「ラジオ局のアナウンサーが関連会社のテレビ局からの出向」という形式は、同様にラテ兼営から分社化した[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（親会社の[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")から）と[CBCラジオ](../Page/CBCラジオ.md "wikilink")（親会社の[中部日本放送](../Page/中部日本放送.md "wikilink")→兄弟会社の[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")から）と[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（兄弟会社の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")から）でも踏襲されている。
+3.  この「ラジオ局のアナウンサーが関連会社のテレビ局からの出向」という形式は、同様にラテ兼営から分社化した[STVラジオ](../Page/STVラジオ.md "wikilink")（親会社の[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")から）と[CBCラジオ](../Page/CBCラジオ.md "wikilink")（親会社の[中部日本放送](../Page/中部日本放送.md "wikilink")→兄弟会社の[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")から）と[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（兄弟会社の[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")から）でも踏襲されている。
 4.  当時のニュースの伝え方を2020年の伝え方と比較する。
 5.
 6.

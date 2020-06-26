@@ -73,7 +73,7 @@
 <!-- end list -->
 
   - [キニナル金曜日](https://ja.wikipedia.org/wiki/キニナル金曜日 "wikilink")（2017年4月7日 -[TBSテレビ](../Page/TBSテレビ.md "wikilink")系列） **藤本 - MC、原西 - キニナルコメンテーター**
-  - [特盛\!よしもと 今田・八光のおしゃべりジャングル](https://ja.wikipedia.org/wiki/特盛!よしもと_今田・八光のおしゃべりジャングル "wikilink")（読売テレビ） - **準レギュラー**
+  - [特盛\!よしもと 今田・八光のおしゃべりジャングル](https://ja.wikipedia.org/wiki/特盛!よしもと_今田・八光のおしゃべりジャングル "wikilink")（読売テレビ） - **不定期出演**
   - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")） - **不定期出演**
   - [さんまのお笑い向上委員会](https://ja.wikipedia.org/wiki/さんまのお笑い向上委員会 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列） - **不定期出演**
   - [雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列） - **不定期出演**

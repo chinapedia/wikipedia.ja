@@ -1,13 +1,19 @@
 > この記事は[Association for Computing Machinery](https://ja.wikipedia.org/wiki/Association_for_Computing_Machinery)から翻訳されています。
 
 
-**Association for Computing Machinery** (**ACM**) は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")に本部のある[コンピュータ科学](https://ja.wikipedia.org/wiki/コンピュータ科学 "wikilink")分野の国際[学会](../Page/学会.md "wikilink")。[1947年](../Page/1947年.md "wikilink")設立。[IEEE](../Page/IEEE.md "wikilink")とともに、この分野で最も影響力の強い学会であり、IEEEがその名と由来や歴史からエレクトロニクスや通信分野の工学に強いのに対し、[数学](../Page/数学.md "wikilink")的な[理論計算機科学](../Page/理論計算機科学.md "wikilink")のような分野もカバーする。日本語に訳して「計算機械学会」とされることもあるが、こんにちこの訳語が用いられることはほとんどなく、通常は単に"ACM"という略称で呼ばれるのがもっぱらである。ACMの「A」は Association (学会、団体) の頭文字であるが、[アメリカ数学会 (AMS)](../Page/アメリカ数学会.md "wikilink") と混同して「米国計算機学会」と誤訳されることがある。
+**Association for Computing Machinery** (**ACM**) は、[計算機科学](../Page/計算機科学.md "wikilink")分野の[学会](../Page/学会.md "wikilink")である。アメリカ合衆国ニューヨークに本部があり、国際的に活動している。[1947年](../Page/1947年.md "wikilink")発足。
 
-数多くの国際会議を開催しており、人目を惹くデモ映像の[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")や[SIGMODなどはよく知られている](https://ja.wikipedia.org/wiki/Special_Interest_Group_on_Management_of_Data "wikilink")。他の多くの学会と同様にすぐれた業績などへの表彰もおこなっているが、[チューリング賞](../Page/チューリング賞.md "wikilink")は、特にこの分野の最高の賞とみなされており、物理や化学といった分野における[ノーベル賞](../Page/ノーベル賞.md "wikilink")に匹敵するものと扱われることもある（他の賞についても時折「～のノーベル賞」といったような表現が使われることがあるが、この分野の全てを対象とした世界トップクラスの賞という位置づけにあるのはチューリング賞をおいて他にない）。
+[IEEE Computer Societyとともにこの分野で最も影響力の強い学会であり](../Page/IEEE_Computer_Society.md "wikilink")、IEEEがその沿革からエレクトロニクスや情報通信分野の工学に強いのに対し、ACMは[数学](../Page/数学.md "wikilink")的な[理論計算機科学](../Page/理論計算機科学.md "wikilink")のような領域もカバーするのが特徴である。
+
+名称に関して、和訳して「計算機械学会」「米国計算機学会」とされることがあるが、今日これらの訳語が用いられることはほとんどなく、"ACM"という略称が用いられるのが専らである。
+
+数多くの国際会議を開催している。本学会の活動として34の分科会が存在するが、人目を惹くデモ映像の[SIGGRAPH](../Page/SIGGRAPH.md "wikilink")や[SIGMODが対外的にアピールしている例である](https://ja.wikipedia.org/wiki/Special_Interest_Group_on_Management_of_Data "wikilink")。
+
+他の多くの学会と同様に優れた業績への表彰活動を実施しているが、特に[チューリング賞](../Page/チューリング賞.md "wikilink")はこの分野における最高の栄誉とされており、物理や化学の分野における[ノーベル賞](../Page/ノーベル賞.md "wikilink")に相当するものと扱われる。
 
 ## チューリング賞
 
-  - チューリング賞 : コンピュータ科学分野に対する特に優れた業績・貢献に対し25万ドルの賞金と共に与えられる。
+  - チューリング賞 : 計算機科学分野に対する特に優れた業績・貢献に対し100万ドルの賞金と共に与えられる。
 
 ## その他の表彰
 

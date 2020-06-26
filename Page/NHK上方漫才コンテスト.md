@@ -120,7 +120,7 @@
 <tr class="odd">
 <td><p>12[11]</p></td>
 <td><p><a href="../Page/1982年.md" title="wikilink">1982年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミヤ蝶美・蝶子" title="wikilink">ミヤ蝶美・蝶子</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/パピヨンズ" title="wikilink">ミヤ蝶美・蝶子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大阪笑ルーム" title="wikilink">大阪笑ルーム</a></p></td>
 <td><p><a href="../Page/テント_(漫談家).md" title="wikilink">大空テント</a>・<a href="https://ja.wikipedia.org/wiki/幸つくる" title="wikilink">幸つくる</a></p></td>
 </tr>

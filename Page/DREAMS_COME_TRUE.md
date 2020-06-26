@@ -62,7 +62,7 @@
 
 ### セールス
 
-[1990年代](../Page/1990年代.md "wikilink")にその人気はアルバムセールスにおいて圧倒的な存在感を見せた\[3\]。1989年の2ndアルバム『[LOVE GOES ON…](../Page/LOVE_GOES_ON….md "wikilink")』、3rdアルバム『[WONDER 3](../Page/WONDER_3.md "wikilink")』は売上枚数100万枚以上、4thアルバム『[MILLION KISSES](../Page/MILLION_KISSES.md "wikilink")』から8thアルバム『[LOVE UNLIMITED∞](../Page/LOVE_UNLIMITED∞.md "wikilink")』、ベスト盤2作(うち1作は非公認のもの)も売上枚数200万枚以上を記録し、中でも1992年の5thアルバム『[The Swinging Star](../Page/The_Swinging_Star.md "wikilink")』は[オリコン史上初の累計売上枚数](../Page/オリコンチャート.md "wikilink")300万枚を突破した作品となった。その後1999年の10thアルバム『[the Monster](https://ja.wikipedia.org/wiki/the_Monster "wikilink")』でも[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成している。2015年にリリースしたオールタイム・ベストアルバム『[DREAMS COME TRUE THE BEST！私のドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_BEST!_私のドリカム "wikilink")』では、累計出荷100万枚を記録。
+[1990年代](../Page/1990年代.md "wikilink")にその人気はアルバムセールスにおいて圧倒的な存在感を見せた\[3\]。1989年の2ndアルバム『[LOVE GOES ON…](../Page/LOVE_GOES_ON….md "wikilink")』、3rdアルバム『[WONDER 3](../Page/WONDER_3.md "wikilink")』は売上枚数100万枚以上、4thアルバム『[MILLION KISSES](../Page/MILLION_KISSES.md "wikilink")』から8thアルバム『[LOVE UNLIMITED∞](../Page/LOVE_UNLIMITED∞.md "wikilink")』、ベスト盤2作(うち1作は非公認のもの)は売上枚数200万枚以上を記録した。**売上枚数200万枚を突破したアルバムは計7作品あり、これは全アーティストの中で最多**である。中でも1992年の5thアルバム『[The Swinging Star](../Page/The_Swinging_Star.md "wikilink")』は**[オリコン史上初の累計売上枚数](../Page/オリコンチャート.md "wikilink")300万枚を突破した作品**となった。その後1999年の10thアルバム『[the Monster](https://ja.wikipedia.org/wiki/the_Monster "wikilink")』でも[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成している。2015年にリリースしたオールタイム・ベストアルバム『[DREAMS COME TRUE THE BEST！私のドリカム](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_THE_BEST!_私のドリカム "wikilink")』では、累計出荷100万枚を記録。
 
 シングルでは1990年発売の「[笑顔の行方](../Page/笑顔の行方.md "wikilink")」で初のオリコンTOP10入りを果たすと、その後「[決戦は金曜日/太陽が見てる](https://ja.wikipedia.org/wiki/決戦は金曜日/太陽が見てる "wikilink")」、「[go for it\!/雨の終わる場所](https://ja.wikipedia.org/wiki/go_for_it!/雨の終わる場所 "wikilink")」、「[WINTER SONG](../Page/WINTER_SONG.md "wikilink")」（再発盤との合算）、「[サンキュ.](../Page/サンキュ..md "wikilink")」、「[LOVE LOVE LOVE/嵐が来る](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE/嵐が来る "wikilink")」の5作品がミリオンセラーとなり、中でも「LOVE LOVE LOVE/嵐が来る」は売上枚数240万枚以上になっている。
 
@@ -764,7 +764,7 @@
 </tr>
 <tr class="even">
 <td><p>54</p></td>
-<td><p>2020年5月27日（予定）</p></td>
+<td><p>2020年7月1日（予定）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/YES_AND_NO／G" title="wikilink">YES AND NO／G</a></strong></p></td>
 <td><p>UMCK-5690</p></td>
 <td><p>TBA</p></td>

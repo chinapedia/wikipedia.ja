@@ -7,7 +7,7 @@
 
 1960年代にSF雑誌に作品が掲載されるようになった。SF長編『人類皆殺し』、『キャンプ・コンセントレーション』、『334』、『歌の翼に』といった作品の評価が高く、[ニュー・ウェーブ運動の中心となったSF作家の一人であり](../Page/ニュー・ウェーブ_\(SF\).md "wikilink")、数々の実験的作品を世に問うた。[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink")、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink")に幾度もノミネートされたが受賞せず「無冠の帝王」と綽名された\[4\]が、1998年に発表した文化へのSFの影響を考察した評論 *[The Dreams Our Stuff Is Made Of](https://ja.wikipedia.org/wiki/:en:The_Dreams_Our_Stuff_Is_Made_Of "wikilink")* で、初のヒューゴー賞関連書籍部門を受賞。SF界きっての知性派と言われた。他には[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")や *[The Nation](https://ja.wikipedia.org/wiki/:en:The_Nation_\(U.S._periodical\) "wikilink")* といった定期刊行物に[演劇](../Page/演劇.md "wikilink")や[オペラ](../Page/オペラ.md "wikilink")の評論を書いていた。また、**トム・ディッシュ**の名で詩集も何冊か出版している。
 
-1966年の短編『リスの檻』（THE SQUIRREL CAGE）は[ニュー・ウェーブを象徴する作品として有名であり](../Page/ニュー・ウェーブ_\(SF\).md "wikilink")、日本でも第1回（1970年）[星雲賞](../Page/星雲賞.md "wikilink")海外短編賞受賞。長編『歌の翼に』で[キャンベル記念賞](https://ja.wikipedia.org/wiki/キャンベル記念賞 "wikilink")を受賞（1980年）。「児童向け」作品『[いさましいちびのトースター](https://ja.wikipedia.org/wiki/いさましいちびのトースター "wikilink")』も好評で、（例えば日本では）第13回（1982年）星雲賞海外短編賞を受賞したほか、本国では[アニメーション](../Page/アニメーション.md "wikilink")映画化された。
+1966年の短編『リスの檻』（THE SQUIRREL CAGE）は[ニュー・ウェーブを象徴する作品として有名であり](../Page/ニュー・ウェーブ_\(SF\).md "wikilink")、日本でも第1回（1970年）[星雲賞](../Page/星雲賞.md "wikilink")海外短編賞受賞。長編『歌の翼に』で[キャンベル記念賞](https://ja.wikipedia.org/wiki/キャンベル記念賞 "wikilink")を受賞（1980年）。「児童向け」作品『[いさましいちびのトースター](https://ja.wikipedia.org/wiki/いさましいちびのトースター "wikilink")』も好評で、第13回（1982年）星雲賞海外短編賞を受賞したほか、本国では[アニメーション](../Page/アニメーション.md "wikilink")映画化された。
 
 長期に渡るうつ病の末、2008年7月4日\[5\]\[6\]\[7\]または5日\[8\]\[9\]に[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")で[拳銃](../Page/拳銃.md "wikilink")[自殺](../Page/自殺.md "wikilink")した。
 

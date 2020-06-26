@@ -3,7 +3,7 @@
 
 **Perl**（パール）とは、[ラリー・ウォール](../Page/ラリー・ウォール.md "wikilink")によって開発された[プログラミング言語](../Page/プログラミング言語.md "wikilink")である。実用性と多様性を重視しており、[C言語](../Page/C言語.md "wikilink")や[sed](https://ja.wikipedia.org/wiki/sed_\(コンピュータ\) "wikilink")、[awk](../Page/AWK.md "wikilink")、[シェルスクリプトなど他のプログラミング言語の優れた機能を取り入れている](https://ja.wikipedia.org/wiki/シェル#シェルスクリプト "wikilink")。[ウェブ・アプリケーション](https://ja.wikipedia.org/wiki/ウェブ・アプリケーション "wikilink")、システム管理、テキスト処理などのプログラムを書くのに広く用いられている。
 
-言語処理系としてのperlは[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。[Artistic Licenseおよび](../Page/Artistic_License.md "wikilink")[GPLのもとで配布されており](../Page/GNU_General_Public_License.md "wikilink")、誰でもどちらかのライセンスを選択して利用することができる。[UNIX](../Page/UNIX.md "wikilink")や[Windowsなど多くのプラットフォーム上で動作する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+言語処理系としてのperlは[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。[Artistic Licenseおよび](../Page/Artistic_License.md "wikilink")[GPLのもとで配布されており](../Page/GNU_General_Public_License.md "wikilink")、誰でもどちらかのライセンスを選択して利用することができる。[Linux](../Page/Linux.md "wikilink")/[UNIX](../Page/UNIX.md "wikilink")や[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")など多くのプラットフォーム上で動作する。
 
 ## 特徴
 

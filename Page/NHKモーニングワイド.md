@@ -184,7 +184,7 @@
   - [土屋良江](https://ja.wikipedia.org/wiki/土屋良江 "wikilink")
   - [済藤亮子](https://ja.wikipedia.org/wiki/済藤亮子 "wikilink")（旧姓：吉沢）
   - [谷崎朋子](https://ja.wikipedia.org/wiki/谷崎朋子 "wikilink")
-  - 吉澤ひとみ（旧姓：岡部、退社、元[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")所属のタレント・歌手の[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")とは同姓同名の別人）
+  - 吉澤ひとみ（旧姓：岡部、退社、元[モーニング娘。](../Page/モーニング娘。.md "wikilink")所属のタレント・歌手の[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")とは同姓同名の別人）
   - 鈴木裕子（退社）
   - [西山久美子](https://ja.wikipedia.org/wiki/西山久美子 "wikilink")（退社）
   - [干場裕子](https://ja.wikipedia.org/wiki/干場裕子 "wikilink")（退社）

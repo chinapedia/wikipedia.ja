@@ -19,7 +19,7 @@
   - [ローマ数字](../Page/ローマ数字.md "wikilink")で[150](https://ja.wikipedia.org/wiki/150 "wikilink")。
   - [チーフリーダー](https://ja.wikipedia.org/wiki/チーフリーダー "wikilink")（Chief Leader）。主に登山隊の隊長に用いられる。
   - [クーパース&ライブランド](../Page/プライスウォーターハウスクーパース.md "wikilink") (Coopers & Lybrand) - [プライスウォーターハウスクーパース](../Page/プライスウォーターハウスクーパース.md "wikilink")の前身
-  - [小型巡視艇](../Page/巡視艇.md "wikilink") (Craft Large) [海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")に所属する船艇の分類のひとつ。
+  - [小型巡視艇](../Page/巡視艇.md "wikilink") (Craft Large) [海上保安庁](../Page/海上保安庁.md "wikilink")に所属する船艇の分類のひとつ。
   - [Common Lisp](../Page/Common_Lisp.md "wikilink") プログラミング言語　[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")の標準の一つ
   - 地名
       - [チリ](../Page/チリ.md "wikilink")の[国名コード](../Page/国名コード.md "wikilink")。

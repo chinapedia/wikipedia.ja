@@ -1518,7 +1518,7 @@
 
 <!-- end list -->
 
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [東日本放送](../Page/東日本放送.md "wikilink")：土曜 18:00 - 18:30\[15\]
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")：火曜 17:00 - 17:30\[16\]
@@ -1541,7 +1541,7 @@
   - [愛媛放送](../Page/テレビ愛媛.md "wikilink")（現テレビ愛媛）
   - [テレビ高知](../Page/テレビ高知.md "wikilink")
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")
-  - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
+  - [長崎放送](../Page/長崎放送.md "wikilink")
   - [テレビ熊本](../Page/テレビ熊本.md "wikilink")
   - [大分放送](../Page/大分放送.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

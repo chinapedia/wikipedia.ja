@@ -99,7 +99,7 @@
 
 :\* [キハ200・キハ220系](../Page/JR九州キハ200系気動車.md "wikilink")
 
-:\*[YC1系](https://ja.wikipedia.org/wiki/JR九州YC1系気動車#沿革 "wikilink")
+:\*[YC1系](https://ja.wikipedia.org/wiki/JR九州YC1系気動車 "wikilink")
 
 ### 客車
 

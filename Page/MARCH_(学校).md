@@ -56,6 +56,7 @@
   - [東京六大学](../Page/東京六大学.md "wikilink")
   - [早慶](../Page/早慶.md "wikilink")
   - [日東駒専](../Page/日東駒専.md "wikilink")
+  - [四工大](../Page/東京理工系4大学.md "wikilink")
   - [大東亜帝国](../Page/大東亜帝国_\(学校\).md "wikilink")
   - [関東上流江戸桜](../Page/関東上流江戸桜.md "wikilink")
   - [関関同立](../Page/関関同立.md "wikilink")

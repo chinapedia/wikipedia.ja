@@ -1423,7 +1423,7 @@
   - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[40\]
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：金曜 19:00 - 19:30（1966年3月まで）→ 日曜 19:30 - 20:00（1966年4月から）\[41\]
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 19:30 - 20:00\[42\]
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")：金曜 17:35 - 18:05（1965年10月時点）\[43\]→日曜 19:30 - 20:00（1967年1月時点）\[44\]
+  - [北日本放送](../Page/北日本放送.md "wikilink")：金曜 17:35 - 18:05（1965年10月時点）\[43\]→日曜 19:30 - 20:00（1967年1月時点）\[44\]
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")：日曜 19:30 - 20:00\[45\]
   - [福井放送](../Page/福井放送.md "wikilink")：日曜 19:30 - 20:00（1967年1月時点）\[46\]
   - 中部日本放送（現・[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）：日曜 19:30 - 20:00\[47\]
@@ -2328,7 +2328,7 @@
   - [宮城テレビ](../Page/宮城テレビ放送.md "wikilink")：水曜 19:30 - 20:00\[54\]
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")：水曜 19:30 - 20:00（1971年10月より）\[55\]
   - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")：土曜 19:00 - 19:30\[56\]
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")：水曜 19:30 - 20:00\[57\]
+  - [北日本放送](../Page/北日本放送.md "wikilink")：水曜 19:30 - 20:00\[57\]
   - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")：金曜 18:00 - 18:30\[58\]
   - [福井放送](../Page/福井放送.md "wikilink")：水曜 19:30 - 20:00\[59\]
   - [名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")
@@ -2574,7 +2574,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td><p>日本テレビ系列</p></td>
 <td><p>月曜 - 金曜 17:30 - 17:45</p></td>
 <td></td>

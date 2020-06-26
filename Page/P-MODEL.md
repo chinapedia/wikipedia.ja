@@ -328,7 +328,7 @@ CROW</p></td>
 
 ### 時系列
 
-<timeline> ImageSize = width:900 height:400 PlotArea = left:150 bottom:80 top:15 right:0 Alignbars = justify DateFormat = dd/mm/yyyy Period = from:01/01/1979 till:25/12/2000 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom ScaleMajor = increment:5 start:1979 ScaleMinor = increment:1 start:1979
+<timeline> ImageSize = width:950 height:400 PlotArea = left:150 bottom:80 top:15 right:0 Alignbars = justify DateFormat = dd/mm/yyyy Period = from:01/01/1979 till:25/12/2000 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom ScaleMajor = increment:5 start:1979 ScaleMinor = increment:1 start:1979
 
 Colors =
 
@@ -389,7 +389,7 @@ PlotData=
 `bar:hirasawa  from:01/01/1979 till:28/12/1988 color:gt  width:7`
 `bar:hirasawa  from:01/01/1979 till:05/08/1984 color:key width:3`
 `bar:hirasawa  from:23/09/1991 till:11/10/1993 color:vo`
-`bar:hirasawa  from:23/09/1991 till:11/10/1993 color:gt  width:7`
+`bar:hirasawa  from:23/09/1991 till:11/10/1993 color:gt  width:5`
 `bar:hirasawa  from:30/11/1994 till:20/12/2000 color:vo`
 `bar:hirasawa  from:30/11/1994 till:20/12/2000 color:gt  width:7`
 `bar:hirasawa  from:30/11/1994 till:20/12/2000 color:key width:3`
@@ -1087,7 +1087,7 @@ TAKA</p></td>
 
   -
 
-    5月10日 - P-MODELのほぼ全音源を収録したボックスセット『**[太陽系亞種音](https://ja.wikipedia.org/wiki/太陽系亞種音 "wikilink")**』リリース。
+    5月10日 - P-MODELのほぼ全音源を収録したボックスセット『**[太陽系亞種音](../Page/太陽系亞種音.md "wikilink")**』リリース。
 
 </div>
 
@@ -1529,7 +1529,7 @@ TAKA</p></td>
   - **[P-PLANT CD Vol.1](https://ja.wikipedia.org/wiki/P-PLANT_CD_Vol.1 "wikilink")**（2000年6月1日）
       -
         1999年に配信されたサンプル集などがすべて収録。
-  - **[太陽系亞種音](https://ja.wikipedia.org/wiki/太陽系亞種音 "wikilink")**（オリジナル版:2002年5月10日　再発売版:2014年7月4日）
+  - **[太陽系亞種音](../Page/太陽系亞種音.md "wikilink")**（オリジナル版:2002年5月10日　再発売版:2014年7月4日）
       -
         クロニクル・アルバム集ボックス（バインダー）セット。オリジナル・アルバム12枚をはじめ、過去発表されたP-MODELの音源のほぼ全てを収録した「P-MODEL全集」とも言えるボックスセット。2010年にバインダー版の販売を終了し、装丁を変更して2014年7月に再発売された。
 
@@ -1705,7 +1705,7 @@ http (1996年)</p></td>
 2.  [平沢進のツイート](https://twitter.com/hirasawa/status/686527748869771265)（2016年1月11日）2019年11月5日閲覧。
 3.  [平沢進のツイート](https://twitter.com/hirasawa/status/686532596428177408)（2016年1月11日）2019年11月5日閲覧。
 4.  テープエコーマシーンとキーボードを用いて[サンプラー](../Page/サンプラー.md "wikilink")に似たシステムを構築したもの。当時のサンプラーは「1戸建ての家が買える」と言われた程高価であり、その後の音楽業界に「平沢進が[宝くじ](https://ja.wikipedia.org/wiki/宝くじ "wikilink")を当てた（＝当選金でサンプラーを導入した）らしい」との噂がしばらく立つ事になった。
-5.  ボックスセット『[太陽系亞種音](https://ja.wikipedia.org/wiki/太陽系亞種音 "wikilink")』ファンクラブ会員限定特典「田井中貞利伝説」より。
+5.  ボックスセット『[太陽系亞種音](../Page/太陽系亞種音.md "wikilink")』ファンクラブ会員限定特典「田井中貞利伝説」より。
 6.  実際は一身上の都合で止む無く脱退となったもの。この後荒木は一時音楽活動を休止し、コンピュータプログラマーとして活動することになる。
 7.  このイベントの模様は後にテレビ放映されたが、TALBOを叩き付けるシーンはカットされている。
 8.  [P-MODELディスコグラフィー・Corrective Errors](https://susumuhirasawa.com/discography/p-model/others/06_corrective-errors.html)平沢進公式サイト 2019年11月9日閲覧。

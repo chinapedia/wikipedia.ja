@@ -55,7 +55,7 @@
 
 1978-79シーズンは[アラン・ケネディ](../Page/アラン・ケネディ.md "wikilink")を獲得し、再びリーグを優勝した。続く1979-80シーズンも再びリーグ連覇を達成。オフシーズンに[イアン・ラッシュ](../Page/イアン・ラッシュ.md "wikilink")を獲得し、迎えた1980-81シーズンには決勝でレアル・マドリードを[アラン・ケネディ](../Page/アラン・ケネディ.md "wikilink")のゴールで1－0と破り\[16\]、3度目となる[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")制覇を達成したほか、[リーグカップも優勝し](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink")、カップ戦の2冠を達成した。また、シーズン中に[ブルース・グロベラー](https://ja.wikipedia.org/wiki/ブルース・グロベラー "wikilink")を獲得している。
 
-1981-82シーズン、リヴァプールは[マーク・ローレンソン](https://ja.wikipedia.org/wiki/マーク・ローレンソン "wikilink")、[スティーブ・ニコル](../Page/スティーブ・ニコル.md "wikilink")を獲得し、リーグ戦優勝、リーグカップ連覇を達成。なお、1978年から1981年までの3年間、本拠地[アンフィールド](../Page/アンフィールド.md "wikilink")におけるすべてのリーグ戦・カップ戦は85試合連続で無敗だった。85試合中63試合はリーグ戦であり、63試合連続リーグ戦ホーム無敗記録も樹立している（このリーグ戦ホーム無敗記録は2007年に[チェルシーに破られた](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")）。しかしインターコンチネンタルカップでは[フラメンゴに](../Page/CRフラメンゴ.md "wikilink")0－3と敗れた。
+1981-82シーズン、リヴァプールは[マーク・ローレンソン](../Page/マーク・ローレンソン.md "wikilink")、[スティーブ・ニコル](../Page/スティーブ・ニコル.md "wikilink")を獲得し、リーグ戦優勝、リーグカップ連覇を達成。なお、1978年から1981年までの3年間、本拠地[アンフィールド](../Page/アンフィールド.md "wikilink")におけるすべてのリーグ戦・カップ戦は85試合連続で無敗だった。85試合中63試合はリーグ戦であり、63試合連続リーグ戦ホーム無敗記録も樹立している（このリーグ戦ホーム無敗記録は2007年に[チェルシーに破られた](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")）。しかしインターコンチネンタルカップでは[フラメンゴに](../Page/CRフラメンゴ.md "wikilink")0－3と敗れた。
 
 1982-83シーズンにもリーグとリーグカップを連覇したが、これを置き土産に[ペイズリーは監督を辞任することを発表した](https://ja.wikipedia.org/wiki/ボブ・ペイズリー "wikilink")。後任にはアシスタントコーチを務めていた[ジョー・フェイガン](https://ja.wikipedia.org/wiki/ジョー・フェイガン "wikilink")が就任。リーグ連覇中のチームを引き継いだフェイガンだったが、フェイガン体制でもリヴァプールの強さが揺らぐことはなく、1983-84シーズンもリーグ戦とリーグカップの連覇を達成。リーグ戦はクラブ史上初となる3連覇、リーグカップは4連覇となった。また決勝でPK戦の末、[ASローマ](../Page/ASローマ.md "wikilink")を破り4度目となる[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")制覇した\[17\]。
 
@@ -207,11 +207,11 @@
 
 ## サポーター
 
-リヴァプールは多くのサポーターを持つ。サポーターは[アンフィールド](../Page/アンフィールド.md "wikilink")の "Kop" と呼ばれるスタンドで応援することから、自身を**コップ**（Kopites）と呼ぶ。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Amicizia.jpg "wikilink") サポーターは、試合開始前や試合終了直前に「[You'll Never Walk Alone](../Page/ユール・ネヴァー・ウォーク・アローン.md "wikilink")」（君は決して一人ではない。チームに関わる者、サポーターの我々は決して一人ではない。共に歩もう）という曲を歌う。この曲は元々[リチャード・ロジャースと](../Page/リチャード・ロジャース_\(作曲家\).md "wikilink")[オスカー・ハマースタイン2世](https://ja.wikipedia.org/wiki/オスカー・ハマースタイン2世 "wikilink")がミュージカル『[回転木馬](../Page/回転木馬_\(ミュージカル\).md "wikilink")』のために書いた曲であるが、1960年代初頭に「[マージービート](https://ja.wikipedia.org/wiki/マージービート "wikilink")」と呼ばれた一連のポップ音楽の系譜に連なるバンドである[ジェリー&ザ・ペースメーカーズ](https://ja.wikipedia.org/wiki/ジェリー&ザ・ペースメーカーズ "wikilink")が録音したものが、イギリスのヒットチャート1位を獲得した。この直後から「You'll Never Walk Alone」はリヴァプールサポーターの愛唱曲となり、現在に至っている。
+リヴァプールは多くのサポーターを持つ。サポーターは[アンフィールド](../Page/アンフィールド.md "wikilink")の "Kop" と呼ばれるスタンドで応援することから、自身を**コップ**（Kopites）と呼ぶ。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Amicizia.jpg "wikilink") サポーターは、試合開始前や試合終了直前に「[You'll Never Walk Alone](../Page/ユール・ネヴァー・ウォーク・アローン.md "wikilink")」（君は決して一人ではない。チームに関わる者、サポーターの我々は決して一人ではない。共に歩もう）という曲を歌う。この曲は元々[リチャード・ロジャースと](../Page/リチャード・ロジャース_\(作曲家\).md "wikilink")[オスカー・ハマースタイン2世](https://ja.wikipedia.org/wiki/オスカー・ハマースタイン2世 "wikilink")がミュージカル『[回転木馬](../Page/回転木馬_\(ミュージカル\).md "wikilink")』のために書いた曲であるが、1960年代初頭に「[マージービート](https://ja.wikipedia.org/wiki/マージービート "wikilink")」と呼ばれた一連のポップ音楽の系譜に連なるバンドである[ジェリー&ザ・ペースメーカーズ](https://ja.wikipedia.org/wiki/ジェリー&ザ・ペースメーカーズ "wikilink")が録音したものが、イギリスのヒットチャート1位を獲得した。その頃リヴァプールFCのスタジアムアンフィールドでは毎週DJがその週のヒットチャートソングを流していた。そのひとつとして「You’ll Never Walk Alone」が流れサポーターが歌っていたのだが、同曲はヒットチャートから姿を消してからもその名残でスタジアムで歌われ続けた。その後もサポーターからは毎試合流して欲しいと強いリクエストありアンセムとして定着するに至っている。\[129\]
 
 その後、この曲は、[セルティック](../Page/セルティックFC.md "wikilink")、[アイルランド代表](../Page/サッカーアイルランド共和国代表.md "wikilink")、[イプスウィッチ・タウン](https://ja.wikipedia.org/wiki/イプスウィッチ・タウン "wikilink")、[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")、[フェイエノールト](../Page/フェイエノールト.md "wikilink")、[アヤックス](../Page/アヤックス・アムステルダム.md "wikilink")、[ベンフィカ](https://ja.wikipedia.org/wiki/ベンフィカ "wikilink")、[ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")などのサポーターにも歌われるようになった。また、2011年に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の直後に行われたリヴァプールの試合では、被災地である日本に向けて、「You'll Never Walk Alone」とスローガンを掲げて歌いメッセージが送られた。
 
-著名人のサポーターには、[ビートルズ](../Page/ビートルズ.md "wikilink")のメンバーのうち、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")、[ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink")、[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")の3人(なお、[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")はエヴァートンファンである)、[ダニエル・クレイグ](../Page/ダニエル・クレイグ.md "wikilink")(映画俳優、6代目[ジェームス・ボンド](https://ja.wikipedia.org/wiki/ジェームス・ボンド "wikilink")役)、[キャロライン・ウォズニアッキ](../Page/キャロライン・ウォズニアッキ.md "wikilink")(テニス選手)、[ダレン・ティル](https://ja.wikipedia.org/wiki/ダレン・ティル "wikilink")(格闘家)、[ミリー・ボビー・ブラウン](https://ja.wikipedia.org/wiki/ミリー・ボビー・ブラウン "wikilink")(女優)、アダム・ウッドイヤット(俳優)、[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")(女優)、[ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")(俳優)、[クライヴ・オーウェン](../Page/クライヴ・オーウェン.md "wikilink")(俳優)、[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")(ラッパー／音楽プロデューサー)、[ゲイリー・バーロウ](../Page/ゲイリー・バーロウ.md "wikilink")(歌手)、ジョン・ビショップ(コメディアン)、[キム・キャトラル](../Page/キム・キャトラル.md "wikilink")(女優)、[ラナ・デル・レイ](https://ja.wikipedia.org/wiki/ラナ・デル・レイ "wikilink")(歌手)、[レブロン・ジェームズ](../Page/レブロン・ジェームズ.md "wikilink")(バスケットボール選手)、[リーアム・ニーソン](../Page/リーアム・ニーソン.md "wikilink")(俳優)、[メラニー・チズム](https://ja.wikipedia.org/wiki/メラニー・チズム "wikilink")(歌手)、[マイク・マイヤーズ](../Page/マイク・マイヤーズ.md "wikilink")(俳優)、レベッカ・ファーガソン(歌手)、[スティーヴン・グレアム](https://ja.wikipedia.org/wiki/スティーヴン・グレアム "wikilink")(俳優)\[129\]、[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")ボーカルの河西洋介([YONCE](https://ja.wikipedia.org/wiki/YONCE "wikilink"))などがいる\[130\]。
+著名人のサポーターには、[ビートルズ](../Page/ビートルズ.md "wikilink")のメンバーのうち、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")、[ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink")、[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")の3人(なお、[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")はエヴァートンファンである)、[ダニエル・クレイグ](../Page/ダニエル・クレイグ.md "wikilink")(映画俳優、6代目[ジェームス・ボンド](https://ja.wikipedia.org/wiki/ジェームス・ボンド "wikilink")役)、[キャロライン・ウォズニアッキ](../Page/キャロライン・ウォズニアッキ.md "wikilink")(テニス選手)、[ダレン・ティル](https://ja.wikipedia.org/wiki/ダレン・ティル "wikilink")(格闘家)、[ミリー・ボビー・ブラウン](https://ja.wikipedia.org/wiki/ミリー・ボビー・ブラウン "wikilink")(女優)、アダム・ウッドイヤット(俳優)、[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")(女優)、[ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")(俳優)、[クライヴ・オーウェン](../Page/クライヴ・オーウェン.md "wikilink")(俳優)、[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")(ラッパー／音楽プロデューサー)、[ゲイリー・バーロウ](../Page/ゲイリー・バーロウ.md "wikilink")(歌手)、ジョン・ビショップ(コメディアン)、[キム・キャトラル](../Page/キム・キャトラル.md "wikilink")(女優)、[ラナ・デル・レイ](https://ja.wikipedia.org/wiki/ラナ・デル・レイ "wikilink")(歌手)、[レブロン・ジェームズ](../Page/レブロン・ジェームズ.md "wikilink")(バスケットボール選手)、[リーアム・ニーソン](../Page/リーアム・ニーソン.md "wikilink")(俳優)、[メラニー・チズム](https://ja.wikipedia.org/wiki/メラニー・チズム "wikilink")(歌手)、[マイク・マイヤーズ](../Page/マイク・マイヤーズ.md "wikilink")(俳優)、レベッカ・ファーガソン(歌手)、[スティーヴン・グレアム](https://ja.wikipedia.org/wiki/スティーヴン・グレアム "wikilink")(俳優)\[130\]、[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")ボーカルの河西洋介([YONCE](https://ja.wikipedia.org/wiki/YONCE "wikilink"))などがいる\[131\]。
 
 ## スポンサー
 
@@ -276,7 +276,7 @@
 
 </div>
 
-  - 2020年5月4日現在\[131\]
+  - 2020年5月4日現在\[132\]
 
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([副主将](../Page/主将.md "wikilink")) ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★
 
@@ -300,7 +300,7 @@
 
 ### 出場試合数
 
-*公式戦に限る\[132\]* *\[133\]*
+*公式戦に限る\[133\]* *\[134\]*
 
 <table>
 <thead>
@@ -308,10 +308,10 @@
 <th><p>#</p></th>
 <th><p>名前</p></th>
 <th><p>期間</p></th>
-<th><p><a href="../Page/プレミアリーグ.md" title="wikilink">リーグ</a>[134]</p></th>
+<th><p><a href="../Page/プレミアリーグ.md" title="wikilink">リーグ</a>[135]</p></th>
 <th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグカップ</a></p></th>
-<th><p>その他[135]</p></th>
+<th><p>その他[136]</p></th>
 <th><p>合計</p></th>
 </tr>
 </thead>
@@ -432,7 +432,7 @@
 
 ### 得点
 
-*公式戦に限る*\[136\]\[137\]
+*公式戦に限る*\[137\]\[138\]
 
 <table>
 <thead>
@@ -440,10 +440,10 @@
 <th><p>#</p></th>
 <th><p>名前</p></th>
 <th><p>期間</p></th>
-<th><p>リーグ[138]</p></th>
+<th><p>リーグ[139]</p></th>
 <th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグカップ</a></p></th>
-<th><p>その他[139]</p></th>
+<th><p>その他[140]</p></th>
 <th><p>合計</p></th>
 </tr>
 </thead>
@@ -755,16 +755,17 @@
 126. [【豊福 晋の欧州蹴球日記】ヘイゼルの悲劇と20年後の対戦](http://www.ocn.ne.jp/sports/soccer/tpx/sc_0303.html)(2005年3月22日),2008年9月9日閲覧
 127. Inglis (2005)
 128. <http://www.liverweb.org.uk/melwood.htm> Liverweb,2008年10月7日閲覧
-129. [あのセレブはどこのサポーター？ 英紙選定各プレミアクラブの著名人ファン一覧](http://www.soccer-king.jp/news/world/eng/20150406/299463.html)soccerking 2015年4月6日
-130. ある時イングランド代表の試合を観ていて、スティーブン・ジェラードって選手がかっこいいなと思って。調べたら、ビートルズが生まれた街のクラブ・リバプールに所属していることが判明してそれからファンになりました。『SWITCH』VOL.35NO.2FEB.2017p.20より引用
-131.
-132. [LFC Records](http://www.liverpoolfc.tv/lfc_story/records/)  Liverpoolfc.tv,2008年9月13日閲覧
+129.
+130. [あのセレブはどこのサポーター？ 英紙選定各プレミアクラブの著名人ファン一覧](http://www.soccer-king.jp/news/world/eng/20150406/299463.html)soccerking 2015年4月6日
+131. ある時イングランド代表の試合を観ていて、スティーブン・ジェラードって選手がかっこいいなと思って。調べたら、ビートルズが生まれた街のクラブ・リバプールに所属していることが判明してそれからファンになりました。『SWITCH』VOL.35NO.2FEB.2017p.20より引用
+132.
+133. [LFC Records](http://www.liverpoolfc.tv/lfc_story/records/)  Liverpoolfc.tv,2008年9月13日閲覧
      <http://www.lfchistory.net/stats.asp> LFChistory.net,2008年9月13日閲覧
-133. \[[http://www.lfchistory.net/\]LFChistory.net,2014年4月25日閲覧](http://www.lfchistory.net/%5DLFChistory.net,2014年4月25日閲覧)
-134. [Football Alliance](https://ja.wikipedia.org/wiki/:en:Football_Alliance "wikilink")、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")、[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")を含む
-135. [UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")、[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")、[コミュニティーシールド](https://ja.wikipedia.org/wiki/コミュニティーシールド "wikilink")、[インターコンチネンタルカップを含む](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")
-136.
+134. \[[http://www.lfchistory.net/\]LFChistory.net,2014年4月25日閲覧](http://www.lfchistory.net/%5DLFChistory.net,2014年4月25日閲覧)
+135. [Football Alliance](https://ja.wikipedia.org/wiki/:en:Football_Alliance "wikilink")、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")、[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")を含む
+136. [UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")、[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")、[コミュニティーシールド](https://ja.wikipedia.org/wiki/コミュニティーシールド "wikilink")、[インターコンチネンタルカップを含む](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")
 137.
-     LFChistory.net,2008年9月12日閲覧
 138.
+     LFChistory.net,2008年9月12日閲覧
 139.
+140.

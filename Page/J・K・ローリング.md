@@ -77,7 +77,7 @@
 
 ### ロバート・ガルブレイス名義
 
-2013年、ロバート・ガルブレイス（）という男性のペンネームで『[カッコウの呼び声](https://ja.wikipedia.org/wiki/カッコウの呼び声 "wikilink")』という探偵小説を出版していたことが、[サンデー・タイムズ](https://ja.wikipedia.org/wiki/サンデー・タイムズ "wikilink")の調査により発覚した\[21\]。本人は「もう少し長く秘密にしておきたかった」と語った\[22\]。
+2013年、ロバート・ガルブレイス（）という男性のペンネームで『[カッコウの呼び声](../Page/カッコウの呼び声.md "wikilink")』という探偵小説を出版していたことが、[サンデー・タイムズ](https://ja.wikipedia.org/wiki/サンデー・タイムズ "wikilink")の調査により発覚した\[21\]。本人は「もう少し長く秘密にしておきたかった」と語った\[22\]。
 
 ロバート・ガルブレイスは2003年から民間の警備保障会社に勤務している英軍警察の元隊員だと説明していたが、初めて書いたにしては出来が良すぎるのではないかと疑問を抱いたサンデー・タイムズ紙が、正体について調査した\[23\]。
 
@@ -171,9 +171,9 @@
 
 ※イギリス郊外の町を舞台とした、作者初の大人向け長編小説。原書は2012年9月27日に刊行。独占翻訳権は[講談社](../Page/講談社.md "wikilink")が取得した\[37\]\[38\]。　
 
-#### 『[私立探偵コーモラン・ストライク](https://ja.wikipedia.org/wiki/私立探偵コーモラン・ストライク "wikilink")』シリーズ
+#### 『[私立探偵コーモラン・ストライク](../Page/私立探偵コーモラン・ストライク.md "wikilink")』シリーズ
 
-  - 『[カッコウの呼び声](https://ja.wikipedia.org/wiki/カッコウの呼び声 "wikilink") 私立探偵コーモラン・ストライク』(*[The Cuckoo's Calling](https://ja.wikipedia.org/wiki/:en:The_Cuckoo's_Calling "wikilink")*) 2013.4.18
+  - 『[カッコウの呼び声](../Page/カッコウの呼び声.md "wikilink") 私立探偵コーモラン・ストライク』(*[The Cuckoo's Calling](https://ja.wikipedia.org/wiki/:en:The_Cuckoo's_Calling "wikilink")*) 2013.4.18
   - 『カイコの紡ぐ嘘 私立探偵コーモラン・ストライク』(*[:en:The Silkworm](https://ja.wikipedia.org/wiki/:en:The_Silkworm "wikilink")*) 2014.6.19
   - 『（邦題未定）』(*[:en:Career of Evil](https://ja.wikipedia.org/wiki/:en:Career_of_Evil "wikilink")*) 2015.10.20（未出版）
   - 『（邦題未定）』(*[:en:Lethal White](https://ja.wikipedia.org/wiki/:en:Lethal_White "wikilink")*) 2018.9.18（未出版）

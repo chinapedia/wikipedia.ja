@@ -19,7 +19,7 @@ HTTPSを利用するメリット・デメリットは、以下のとおりであ
 
 メリット
 
-  - 通信が暗号化されるため、[改竄](../Page/改竄.md "wikilink")、[盗聴](../Page/盗聴.md "wikilink")などの攻撃を防ぐことができる。
+  - 通信が暗号化されるため、[改竄](../Page/改竄.md "wikilink")、[盗聴](../Page/盗聴.md "wikilink")などの攻撃を防ぐことができる。[通信の最適化](https://ja.wikipedia.org/wiki/通信の最適化 "wikilink")も改竄の一種であるので、同様に防げる。
   - [HTTP/2](https://ja.wikipedia.org/wiki/HTTP/2 "wikilink")対応でブラウザ表示が高速化される。
   - [SEOに有利になる](../Page/検索エンジン最適化.md "wikilink")。検索エンジン最大手のGoogleがHTTPSの導入を推進するため、自社検索サービスにおいてHTTPSの使用するウェブサイトを優遇することを発表していることによる\[6\]\[7\]。
 
@@ -35,7 +35,7 @@ HTTPSを利用するメリット・デメリットは、以下のとおりであ
 
 [ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")（[ユーザーエージェント](../Page/ユーザーエージェント.md "wikilink")）では、対象のURLがhttpsであるなど、セキュアな通信経路であることが明らかであるか否かで動作を変える場合がある。これに関わる規定として、W3CのSecure Contexts（安全なコンテキスト）\[8\]やMixed Content（混在コンテンツ・混合コンテンツ）\[9\]\[10\]がある。
 
-Secure Contextsでは、いくつかの条件を満たす場合に「secure contextである」とする規定がなされている。他の機能で、これを参照して挙動の変更に用いることを意図している。
+Secure Contextsでは、いくつかの条件を満たす場合に「安全なコンテキスト(secure context)である」とする規定がなされている。これを参照して、ウェブブラウザの提供する一部の機能では、安全なコンテキストであるか否かにより挙動が変化する。そのような機能の一覧が[安全なコンテキストに制限されている機能](https://developer.mozilla.org/ja/docs/Web/Security/Secure_Contexts/features_restricted_to_secure_contexts) ([MDN Web Docs](../Page/MDN_Web_Docs.md "wikilink"))にある。
 
 Mixed contentは、セキュアな経路で取得したコンテンツ内で、非セキュアなデータの取り扱いに関する規定である。たとえば、https URLのHTMLドキュメント内でhttp URLのJavaScriptの実行は阻止される。
 

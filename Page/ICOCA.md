@@ -571,14 +571,13 @@ JR四国では、2012年3月17日に本四備讃線と[高松駅](https://ja.wik
 
 一方、以下のカードは、ICOCAを当該ICカードのエリアで利用することはできるが、当該ICカードをICOCAエリアで利用することはできない。
 
-  - ICOCAとの個別利用協定に基づいて利用可能な以下のICカードエリア（ICOCA・PiTaPa以外の全国相互利用サービス対象ICカードでは利用できない）
-      - [itappy](https://ja.wikipedia.org/wiki/itappy "wikilink")（伊丹市交通局）
   - 全国相互利用サービス対象ICカードとの利用協定に基づく以下のICカードエリア（ICOCA以外の全国相互利用サービス対象ICカードでも利用可能）
       - [りゅーと](https://ja.wikipedia.org/wiki/りゅーと "wikilink")（新潟交通）
       - [SAPICA](https://ja.wikipedia.org/wiki/SAPICA "wikilink")（札幌市交通局ほか）
       - [odeca](https://ja.wikipedia.org/wiki/odeca "wikilink")（JR東日本[BRT路線](https://ja.wikipedia.org/wiki/バス・ラピッド・トランジット "wikilink")）
       - [熊本地域振興ICカード](https://ja.wikipedia.org/wiki/熊本地域振興ICカード "wikilink")（熊本県内私鉄・バス各社）
       - [icsca](https://ja.wikipedia.org/wiki/icsca "wikilink")（仙台市交通局・宮城交通）
+      - [itappy](https://ja.wikipedia.org/wiki/itappy "wikilink")（伊丹市交通局、2020年3月より）
       - [PASPY](../Page/PASPY.md "wikilink")（広島電鉄ほか） - エリア内の各駅および路面電車・バス車内でICOCAチャージが可能。
       - [IruCa](../Page/IruCa.md "wikilink")（[高松琴平電気鉄道](../Page/高松琴平電気鉄道.md "wikilink")）
       - [エヌタスTカード](../Page/Tポイント.md "wikilink")（[長崎自動車](../Page/長崎自動車.md "wikilink")）

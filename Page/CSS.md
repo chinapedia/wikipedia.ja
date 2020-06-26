@@ -13,7 +13,7 @@
   - コアシステムソフトウェア（） - 次世代[BIOS](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")。
   - [クロスサイトスクリプティング](../Page/クロスサイトスクリプティング.md "wikilink")（ - [World Wide Webにおける脆弱性のひとつ](../Page/World_Wide_Web.md "wikilink")、CSSではなく[XSS](https://ja.wikipedia.org/wiki/XSS "wikilink")との表記が推奨される。
   - [Cascading Style Sheets](../Page/Cascading_Style_Sheets.md "wikilink")（） - [HTML](../Page/HyperText_Markup_Language.md "wikilink")、[XMLの表示レイアウトなどの修飾を指定するのための仕様](../Page/Extensible_Markup_Language.md "wikilink")。
-  - [コンテンツ・スルランブル・システム](../Page/Content_Scramble_System.md "wikilink")（） - [DVD-Video](../Page/DVD-Video.md "wikilink")の[アクセスコントロール](https://ja.wikipedia.org/wiki/アクセスコントロール "wikilink")技術。
+  - [コンテンツ・スクランブル・システム](../Page/Content_Scramble_System.md "wikilink")（） - [DVD-Video](../Page/DVD-Video.md "wikilink")の[アクセスコントロール](https://ja.wikipedia.org/wiki/アクセスコントロール "wikilink")技術。
   - コンタクトスタートストップ\<\!--
 
 <http://yougo.ascii.jp/caltar/%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%83%E3%83%97> --\>（） - [ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")の形式の一。プラッタ停止中、ヘッドが「シッピングゾーン」ないし「CSSゾーン」と呼ばれるプラッタの一部(最内周が用いられる)に接触するもの。この接触を利用してヘッドクリーニングを行う機種もある。(対義語：ロード/アンロード方式)

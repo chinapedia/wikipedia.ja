@@ -202,7 +202,7 @@ NBCサンデー・ミステリー・ムービー終了から10年以上経過し
 <td><p>2</p></td>
 <td><p><a href="../Page/テリー・サバラス.md" title="wikilink">テリー・サバラス</a><br />
 <a href="../Page/アンドレ・ブラウアー.md" title="wikilink">アンドレ・ブラウアー</a></p></td>
-<td><p>新シリーズは日本未放映。キャストはサバラス以外は総入れ替え</p></td>
+<td><p>「<a href="../Page/刑事コジャック.md" title="wikilink">刑事コジャック</a>」新シリーズ。日本未放映。キャストはサバラス以外は総入れ替え</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Christine Cromwell</strong><br />

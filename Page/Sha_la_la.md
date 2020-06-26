@@ -18,11 +18,8 @@
       -
         [ニベア花王](../Page/ニベア花王.md "wikilink")「ニベアボディ」CMソング。
         [2017年](../Page/2017年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")にデビュー20周年を記念して親交のある15組20名のアーティスト\[1\]とコラボレーションしたスペシャル映像「sha la la 20years Anniversary Ver.」が公開された\[2\]。
-        企画盤『[Nice'n Slow Jam](../Page/Nice'n_Slow_Jam.md "wikilink")』でアルバム初収録となったが、シングル・バージョンはアルバム未収録となっている。
 2.  **束縛**
     （作詞:[小原明子](https://ja.wikipedia.org/wiki/小原明子 "wikilink")、S.O.S. / 作曲・編曲:[松原憲](https://ja.wikipedia.org/wiki/松原憲 "wikilink")）
-      -
-        表題曲と同じく、企画盤『Nice'n Slow Jam』でアルバム初収録となった。オリジナル・アルバムには未収録。
 3.  **sha la la (instrumental)**
 4.  **束縛 (instrumental)**
 

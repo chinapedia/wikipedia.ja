@@ -1,7 +1,7 @@
 > この記事は[BIRDMAN〜SMAP 013](https://ja.wikipedia.org/wiki/BIRDMAN〜SMAP_013)から翻訳されています。
 
 
-『**BIRDMAN〜SMAP 013**』（バードマン スマップ ゼロワンスリー）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の12枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**BIRDMAN〜SMAP 013**』（バードマン スマップ ゼロワンスリー）は、[SMAP](../Page/SMAP.md "wikilink")の12枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1999年](../Page/1999年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 収録曲
 

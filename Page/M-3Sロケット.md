@@ -1,7 +1,7 @@
 > この記事は[M-3Sロケット](https://ja.wikipedia.org/wiki/M-3Sロケット)から翻訳されています。
 
 
-**M-3Sロケット**（ミュー3エス）は、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")宇宙航空研究所と後継機関の[文部省](../Page/文部省.md "wikilink")[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")（現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")宇宙科学研究所、以下、東大、ISAS）が[日産自動車](../Page/日産自動車.md "wikilink")宇宙航空事業部（以下、日産）と共同で開発し、日産が製造、東大とISASが運用した[科学衛星](../Page/科学衛星.md "wikilink")打ち上げ用の3段式の[固体燃料](https://ja.wikipedia.org/wiki/固体燃料 "wikilink")[ロケット](../Page/ロケット.md "wikilink")である。
+**M-3Sロケット**（ミュー3エス）は、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")宇宙航空研究所と後継機関の[文部省](../Page/文部省.md "wikilink")[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")（現[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")宇宙科学研究所、以下、東大、ISAS）が[日産自動車](../Page/日産自動車.md "wikilink")宇宙航空事業部（以下、日産）と共同で開発し、日産が製造、東大とISASが運用した[科学衛星](../Page/科学衛星.md "wikilink")打ち上げ用の3段式の[固体燃料](https://ja.wikipedia.org/wiki/固体燃料 "wikilink")[ロケット](../Page/ロケット.md "wikilink")である。
 
 ## 技術的特徴
 

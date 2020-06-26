@@ -30,6 +30,9 @@
   - Stephan Wissnet – [Bass Guitar](../Page/エレクトリックベース.md "wikilink")
   - [Jo Burt](https://ja.wikipedia.org/wiki/:en:Jo_Burt "wikilink") – Bass Guitar on "Man Made Paradise"
   - [Mack](https://ja.wikipedia.org/wiki/:en:Reinhold_Mack "wikilink") and Stephan Wissnet – [Programming](../Page/ミュージックシーケンサー.md "wikilink")
+  - Mack, assisted by Stephan Wissnet – [engineering](../Page/レコーディング・エンジニア.md "wikilink")
+  - The Artful Dodger – [cover art](https://ja.wikipedia.org/wiki/カバーアート "wikilink")
+  - [Andrzej Sawa](https://ja.wikipedia.org/wiki/:en:Andrzej_Sawa "wikilink") – [photograph](../Page/写真.md "wikilink")
 
 ## 脚注
 

@@ -5,7 +5,7 @@
 
 ## 解説
 
-globeは2002年に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")のトランス[DJ](../Page/ディスクジョッキー.md "wikilink")・プッシュとコラボレーションした。「[Lights2](../Page/Lights_\(globeのアルバム\).md "wikilink")」の「TRANSCONTINENTAL WAY」をリミックスした楽曲「TRANCEFORMATION」と新曲「dreams from above」を作り、「dreams from above」を本シングルとして発売し、「TRANCEFORMATION」をプッシュのアルバム「STRANGE WORLD」に収録した\[1\]。
+globeは2002年に[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")のトランス[DJ](../Page/ディスクジョッキー.md "wikilink")・プッシュとコラボレーションした。発売に先駆けてライブで披露された、全編英語詞でアレンジも多少異なるバージョンもある。「[Lights2](../Page/Lights_\(globeのアルバム\).md "wikilink")」の「TRANSCONTINENTAL WAY」をリミックスした楽曲「TRANCEFORMATION」と新曲「dreams from above」を作り、「dreams from above」を本シングルとして発売し、「TRANCEFORMATION」をプッシュのアルバム「STRANGE WORLD」に収録した\[1\]。
 
 ## 収録曲
 

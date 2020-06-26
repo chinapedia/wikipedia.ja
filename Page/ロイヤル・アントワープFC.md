@@ -43,7 +43,8 @@
   - 2016-17 ベルギー・セカンドディビジョン 1位 **昇格**
   - 2017-18 ジュピラー・リーグ 8位
   - 2018-19 ジュピラー・リーグ 4位
-  - 2019-20 ジュピラー・リーグ 位
+  - 2019-20 ジュピラー・リーグ 4位
+  - 2020-21 ジュピラー・リーグ 位
 
 ## 欧州の成績
 
@@ -80,6 +81,16 @@
 <td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>rowspan="" | 2020-21</p></td>
+<td><p>rowspan="" align=left | <a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>予選3回戦</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>'''</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -141,7 +152,17 @@
 
   - [ウォーレン・ジョイス](https://ja.wikipedia.org/wiki/ウォーレン・ジョイス "wikilink") 2006-2008
 
-  - [ラトコ・スビラル](https://ja.wikipedia.org/wiki/ラトコ・スビラル "wikilink") 2009-
+  - [ラトコ・スビラル](https://ja.wikipedia.org/wiki/ラトコ・スビラル "wikilink") 2009
+
+  - [ジミー・フロイド・ハッセルバインク](../Page/ジミー・フロイド・ハッセルバインク.md "wikilink") 2013-2014
+
+  - [フレデリク・ヴァンデルビースト](https://ja.wikipedia.org/wiki/フレデリク・ヴァンデルビースト "wikilink") 2016
+
+  - [ウィム・デ・デケル](https://ja.wikipedia.org/wiki/ウィム・デ・デケル "wikilink") 2016-2017
+
+  - [ラースロー・ベレニ](https://ja.wikipedia.org/wiki/ラースロー・ベレニ "wikilink") 2017-2020
+
+  - [イヴァン・レコ](../Page/イヴァン・レコ.md "wikilink") 2020-
 
 ## 歴代所属選手
 

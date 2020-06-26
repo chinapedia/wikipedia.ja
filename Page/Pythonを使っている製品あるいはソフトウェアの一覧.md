@@ -182,7 +182,7 @@
   - [PYthon Remote Objects](https://ja.wikipedia.org/wiki/PYthon_Remote_Objects "wikilink") - 分散オブジェクト技術
   - [PyObjC](https://ja.wikipedia.org/wiki/PyObjC "wikilink") - Mac OS XのアプリケーションをPythonで書くための、PythonとObjective-Cを結ぶブリッジ
   - [reStructuredText](https://ja.wikipedia.org/wiki/reStructuredText "wikilink") - 文章を書くための[軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")。[Docutils](https://ja.wikipedia.org/wiki/Docutils "wikilink")のコンポーネント
-  - [Sphinx](https://ja.wikipedia.org/wiki/Sphinx "wikilink") - reStructuredTextでドキュメントを記述する環境。Webページや[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")として出力できる。
+  - [Sphinx](../Page/Sphinx_\(ドキュメンテーションジェネレータ\).md "wikilink") - reStructuredTextでドキュメントを記述する環境。Webページや[PDF](https://ja.wikipedia.org/wiki/PDF "wikilink")として出力できる。
   - [Twisted](https://ja.wikipedia.org/wiki/Twisted "wikilink") - ネットワークプログラミングフレームワーク
   - [VPython](https://ja.wikipedia.org/wiki/VPython "wikilink") - 3次元視覚化用ライブラリ
 

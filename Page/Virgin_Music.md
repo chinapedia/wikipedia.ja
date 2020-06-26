@@ -37,7 +37,7 @@
   - [横浜流星](https://ja.wikipedia.org/wiki/横浜流星 "wikilink")
   - [TOMORROW X TOGETHER](https://ja.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")
   - [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")
-  - [CYBERJAPAN DANCERS](https://ja.wikipedia.org/wiki/CYBER_JAPAN_DANCERS "wikilink")
+  - [CYBERJAPAN DANCERS](https://ja.wikipedia.org/wiki/CYBERJAPAN_DANCERS "wikilink")
   - [そらる](https://ja.wikipedia.org/wiki/そらる "wikilink")
   - [Sou](https://ja.wikipedia.org/wiki/Sou "wikilink")
   - [じん](https://ja.wikipedia.org/wiki/じん "wikilink")

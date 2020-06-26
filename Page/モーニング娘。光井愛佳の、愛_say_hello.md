@@ -5,7 +5,7 @@
 
 ## パーソナリティ
 
-  - [光井愛佳](../Page/光井愛佳.md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")8期メンバー）。
+  - [光井愛佳](../Page/光井愛佳.md "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")8期メンバー）。
 
 <!-- end list -->
 

@@ -270,7 +270,7 @@
   - [THE 冠](https://ja.wikipedia.org/wiki/冠徹弥 "wikilink")
   - [STEEL PANTHER](https://ja.wikipedia.org/wiki/STEEL_PANTHER "wikilink")
   - プラスマイナス
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [Lead](../Page/Lead.md "wikilink")
   - 笑い飯
 

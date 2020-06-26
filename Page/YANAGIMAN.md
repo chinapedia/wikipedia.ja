@@ -155,7 +155,7 @@
   - [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")（[Hi-Timez](https://ja.wikipedia.org/wiki/Hi-Timez "wikilink")）
   - [鈴木桃子](../Page/鈴木桃子.md "wikilink")\[55\]
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
   - [スリジエ](https://ja.wikipedia.org/wiki/スリジエ "wikilink")\[56\]
   - [three tight b](https://ja.wikipedia.org/wiki/three_tight_b "wikilink")
   - [Spontania](../Page/Spontania.md "wikilink")

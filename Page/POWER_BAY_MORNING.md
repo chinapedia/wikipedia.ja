@@ -138,7 +138,7 @@
 基本的にニュース、天気、交通情報を担当する。
 
   - 柴田幸子（2020年4月20日、4月21日、4月27日、4月28日）
-  - 土井結貴\[2\]（2020年5月4日、5月5日、5月11日、5月12日、5月18日、5月19日）
+  - 土井結貴\[2\]（2020年5月4日以降の月曜・火曜に出演、※現在も継続中）
 
 ## 外部リンク
 
@@ -157,4 +157,4 @@
 [Category:Bayfmの帯番組](https://ja.wikipedia.org/wiki/Category:Bayfmの帯番組 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")
 
 1.  毎週月曜夕方にレギュラー出演している[The BAY☆LINEにも通常通り出演](https://ja.wikipedia.org/wiki/The_BAY☆LINE "wikilink")
-2.  bayfm金曜日情報アナウンサー
+2.  金曜日担当の情報アナウンサーで、西田と同じく[オフィスキイワード](../Page/オフィスキイワード.md "wikilink")所属でもある。

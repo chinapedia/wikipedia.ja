@@ -35,7 +35,7 @@
 
 2014年3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[サックスの誠果としてUVERworld正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
 
-### 2015年 -
+### 2015年 -現在
 
 2015年8月2日、rockin'on主催の音楽イベント「[ROCK IN JAPAN FESTIVAL 2015](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2015 "wikilink")」に初出演。GRASS STAGEに出演し、本フェス初登場ながら4万人を動員した。\[8\]
 
@@ -62,7 +62,7 @@
 （たくや）</p></td>
 <td><p><small></p>
 <ul>
-<li>担当：<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="https://ja.wikipedia.org/wiki/打ち込み" title="wikilink">プログラミング</a></li>
+<li>担当：<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="../Page/ラップ.md" title="wikilink">ラップ</a>、<a href="https://ja.wikipedia.org/wiki/打ち込み" title="wikilink">プログラミング</a></li>
 <li>生年月日：</li>
 <li>血液型：B型</li>
 <li>ほぼ全ての楽曲の<a href="../Page/作詞.md" title="wikilink">作詞</a>、<a href="../Page/作曲.md" title="wikilink">作曲</a>を手掛ける。</li>
@@ -84,7 +84,7 @@
 <p></small></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>信人</strong><br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/信人" title="wikilink">信人</a></strong><br />
 （のぶと）</p></td>
 <td><p><small></p>
 <ul>
@@ -111,7 +111,7 @@
 （あきら）</p></td>
 <td><p><small></p>
 <ul>
-<li>担当：ギター、<a href="https://ja.wikipedia.org/wiki/打ち込み" title="wikilink">プログラミング</a></li>
+<li>担当：ギター、プログラミング</li>
 <li>生年月日：</li>
 <li>血液型：A型</li>
 <li>2018年11月に<a href="https://ja.wikipedia.org/wiki/Dizzy_Sunfist" title="wikilink">Dizzy Sunfistのあやぺたと結婚し</a>、2019年5月24日に入籍とあやぺたの妊娠を発表[16]。</li>

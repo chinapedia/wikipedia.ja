@@ -1,7 +1,7 @@
 > この記事は[SEXY 8 BEAT](https://ja.wikipedia.org/wiki/SEXY_8_BEAT)から翻訳されています。
 
 
-『**SEXY 8 BEAT**』（セクシーエイトビート）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の8枚目のアルバムである。
+『**SEXY 8 BEAT**』（セクシーエイトビート）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の8枚目のアルバムである。
 
 ## 内容
 

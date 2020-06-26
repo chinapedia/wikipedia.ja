@@ -46,6 +46,4 @@
 
 ## 脚注
 
-
-
 [Category:THE_ALFEEの楽曲](https://ja.wikipedia.org/wiki/Category:THE_ALFEEの楽曲 "wikilink") [Category:1986年のシングル](https://ja.wikipedia.org/wiki/Category:1986年のシングル "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:高見沢俊彦が制作した楽曲](https://ja.wikipedia.org/wiki/Category:高見沢俊彦が制作した楽曲 "wikilink") [Category:楽曲_ろ](https://ja.wikipedia.org/wiki/Category:楽曲_ろ "wikilink")

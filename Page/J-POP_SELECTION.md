@@ -96,7 +96,7 @@
 10. [山下達郎](../Page/山下達郎.md "wikilink")　（6月8日）
 11. [CHAGE and ASKA](../Page/CHAGE_and_ASKA.md "wikilink")　　（6月15日）
 12. [嵐](../Page/嵐_\(グループ\).md "wikilink")　（6月22日）
-13. [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")　（6月29日）
+13. [SMAP](../Page/SMAP.md "wikilink")　（6月29日）
 14. [Madonna](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")　（7月6日）
 15. [PAUL McCARTNEY](https://ja.wikipedia.org/wiki/PAUL_McCARTNEY "wikilink") ／ [Wings](../Page/ウイングス.md "wikilink")　（7月13日）
 16. [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")　（7月20日）
@@ -224,6 +224,6 @@
 [21st Century Mix ON AIR LIST](http://www.fmyokohama.co.jp/onair/program/21stCentury)
 [MORNING FLOW ON AIR LIST](http://www.fmyokohama.co.jp/onair/program/MorningFlow)
 
-[Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:FMヨコハマの番組](https://ja.wikipedia.org/wiki/Category:FMヨコハマの番組 "wikilink")
+[Category:独立系FMラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組 "wikilink") [Category:FMヨコハマの番組](https://ja.wikipedia.org/wiki/Category:FMヨコハマの番組 "wikilink")
 
 1.  2017年4月いっぱいは2:30 - 6:00、5月から2:30 - 5:30、7月からこの時刻。

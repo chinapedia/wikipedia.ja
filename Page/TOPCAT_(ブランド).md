@@ -93,9 +93,12 @@
 ## 外部リンク
 
   - [TOPCAT Homepage](http://www.topcat.jp/)
-      - [TOPCAT Homepage (www.topcat.tc)](https://web.archive.org/web/20121101213055/http://www.topcat.tc/top.html)（2012年11月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [Mercurius Home Page](http://web.archive.org/web/20090430180346/http://www.paleveil.jp/~mercurius/) - 閉鎖。（2009年4月30日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
+      - [TOPCAT Homepage (www.topcat.tc)](https://web.archive.org/web/20121101213055/http://www.topcat.tc/top.html)（2012年11月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+
+  - [Mercurius Home Page](https://web.archive.org/web/20090430180346/http://www.paleveil.jp/~mercurius/) - 閉鎖。（2009年4月30日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+
+  -
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
 1.  『TECH GIAN』2008年11月号インタビュー記事より

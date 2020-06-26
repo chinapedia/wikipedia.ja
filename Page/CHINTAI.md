@@ -45,7 +45,7 @@
 
 2012年1月～2013年12月
 
-  - [中居正広](../Page/中居正広.md "wikilink")（当時[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）※エイブルCHINTAIホールディングス子会社化
+  - [中居正広](../Page/中居正広.md "wikilink")（当時[SMAP](../Page/SMAP.md "wikilink")）※エイブルCHINTAIホールディングス子会社化
 
 2014年1月～2015年7月
 

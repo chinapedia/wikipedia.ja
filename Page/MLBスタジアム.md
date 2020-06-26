@@ -21,7 +21,7 @@ TBS及び[JNN系列局のプロ野球解説者](../Page/ジャパン・ニュー
 本数契約の解説者
 
   - [牛込惟浩](../Page/牛込惟浩.md "wikilink")
-  - [福島良一](https://ja.wikipedia.org/wiki/福島良一 "wikilink")
+  - [福島良一](../Page/福島良一.md "wikilink")
   - [鹿取義隆](../Page/鹿取義隆.md "wikilink")（2008年から[RFラジオ日本解説者兼](../Page/アール・エフ・ラジオ日本.md "wikilink")。2015年はBS-TBS・TBSチャンネルのNPB中継も担当）
   - [黒木知宏](../Page/黒木知宏.md "wikilink")（2008年オープン戦 - 2012年。当時は[ニッポン放送](../Page/ニッポン放送.md "wikilink")解説者兼）
   - [友利結](../Page/友利結.md "wikilink")（デニー友利）（2008年 - 2012年。当時は[ニッポン放送](../Page/ニッポン放送.md "wikilink")解説者兼。TBSニュースバード→TBSチャンネルのNPB中継も担当）

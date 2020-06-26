@@ -21,7 +21,7 @@
 
 ### 為枝DAUGHTERS。～為枝学園チアリーディング部
 
-  - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")
+  - [石川梨華](../Page/石川梨華.md "wikilink")
   - [加護亜依](../Page/加護亜依.md "wikilink")
   - [高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")
   - [小川麻琴](../Page/小川麻琴.md "wikilink")
@@ -60,7 +60,7 @@
 
 ## 音楽
 
-  - ED：[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")「[Go Girl～恋のヴィクトリー～](https://ja.wikipedia.org/wiki/Go_Girl～恋のヴィクトリー～ "wikilink")」
+  - ED：[モーニング娘。](../Page/モーニング娘。.md "wikilink")「[Go Girl～恋のヴィクトリー～](https://ja.wikipedia.org/wiki/Go_Girl～恋のヴィクトリー～ "wikilink")」
 
 <!-- end list -->
 

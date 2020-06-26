@@ -36,7 +36,7 @@
 
   - [吉幾三](../Page/吉幾三.md "wikilink")（『エンカのチカラ-SONG IS LOVE 80’S&90’S』に収録）
 
-  - [リンリン](../Page/リンリン_\(ハロー!プロジェクト\).md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）（『[チャンプル(1)〜ハッピーマリッジソングカバー集〜](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜 "wikilink")』に収録）
+  - [リンリン](../Page/リンリン_\(ハロー!プロジェクト\).md "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）（『[チャンプル(1)〜ハッピーマリッジソングカバー集〜](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜 "wikilink")』に収録）
 
   - [アラン・タム](../Page/アラン・タム.md "wikilink")（広東語バージョン、タイトルは「霧之戀」、同名のアルバム『[霧之戀](https://ja.wikipedia.org/wiki/:zh:霧之戀 "wikilink")』に収録）
 

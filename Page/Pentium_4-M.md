@@ -9,7 +9,7 @@
 
 Pentium 4と基本的に同じである。しかし発熱や[電力消費に問題点があるNetBurstマイクロアーキテクチャで低消費電力を実現するため](https://ja.wikipedia.org/wiki/消費電力 "wikilink")、Mobile Pentium III-Mで採用された[拡張版SpeedStepの他に](https://ja.wikipedia.org/wiki/Intel_SpeedStep_テクノロジ#拡張版_Intel_SpeedStep_テクノロジ_\(EIST\) "wikilink") CPUの作業が無くなったとき（[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")時になったとき）瞬時に最低動作電圧以下の電圧になり、CPUの作業が始まった時、また通常の電圧に戻すDeeperSleepモードなどを備えており、これらの機能により平均消費電力を2ワット以下に抑えている。
 
-そのプロセッサ毎に必要廃熱性能指標とも言える[TDPが設定されているが](https://ja.wikipedia.org/wiki/熱設計電力 "wikilink")、発熱は動作[クロック](../Page/クロック.md "wikilink")[周波数](../Page/周波数.md "wikilink")に比例すると言われているので、ごく初期の製品を除いて本来の処理を行うとTDP枠に収まり切れないことは明らかである。そのため、TDP以上の廃熱（[冷却](../Page/冷却.md "wikilink")）能力を持つ[筐体](../Page/筐体.md "wikilink")でなければ本来の性能にはならず、本来の処理能力より劣る。新製品への期待と、際限なく増大する消費電力とTDP枠との間にジレンマを抱えている。
+そのプロセッサ毎に必要廃熱性能指標とも言える[TDPが設定されているが](../Page/熱設計電力.md "wikilink")、発熱は動作[クロック](../Page/クロック.md "wikilink")[周波数](../Page/周波数.md "wikilink")に比例すると言われているので、ごく初期の製品を除いて本来の処理を行うとTDP枠に収まり切れないことは明らかである。そのため、TDP以上の廃熱（[冷却](../Page/冷却.md "wikilink")）能力を持つ[筐体](../Page/筐体.md "wikilink")でなければ本来の性能にはならず、本来の処理能力より劣る。新製品への期待と、際限なく増大する消費電力とTDP枠との間にジレンマを抱えている。
 
 [Pentium Mの発表により](../Page/Pentium_M.md "wikilink")、モバイル向けプロセッサの地位を明け渡した。[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")代替ノートパソコン用プロセッサとしての役目を果たすこととなる。
 

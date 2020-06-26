@@ -62,7 +62,7 @@
   - [STARDUST PARADE](http://fm-kyoto.jp/timetable/program/stardust_parade/)
   - [放送番組審議会（2005年6月）](http://fm-kyoto.jp/publicrelation/hoso_shingikai/0506.shtml)
 
-[Category:エフエム京都の帯番組](https://ja.wikipedia.org/wiki/Category:エフエム京都の帯番組 "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink")
+[Category:エフエム京都の帯番組](https://ja.wikipedia.org/wiki/Category:エフエム京都の帯番組 "wikilink") [Category:独立系FMラジオの音楽番組‎](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組‎ "wikilink") [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink")
 
 1.  土曜日は24時台のみ、日曜日は放送なし
 2.  実質的なフィラー。これにより、翌朝6時までフィラーが続くことになった。

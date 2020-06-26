@@ -19,7 +19,7 @@
     ハゲているが、茶髪で上手く隠していた。本人曰く、茶髪にしているのは「サーファーだから。別名フェイクヘアー。しかし、2009年8月11日、上手くハゲを隠せず、ついに自らバリカンを購入しスキンヘッドになった。
     [マキシマムパーパーサム](../Page/マキシマムパーパーサム.md "wikilink")の長澤と[トレンディエンジェル](https://ja.wikipedia.org/wiki/トレンディエンジェル "wikilink")の[斎藤の](https://ja.wikipedia.org/wiki/斎藤司_\(お笑い芸人\) "wikilink")3人で御三家ならぬ御三毛として交流している。
     [鬼ヶ島おおかわら率いるアイドルユニット](../Page/鬼ヶ島_\(お笑い\).md "wikilink")「スイカ★ドロボー」のメンバー。ハゲダンサーズとして、鬼ヶ島の野田・マキシマムパーパーサムの長澤らとともに参加している。
-    [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の大ファン。また、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")が大好き。
+    [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の大ファン。また、[SMAP](../Page/SMAP.md "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")が大好き。
     芸人を始める時期が遅かったため、年下や同い年の先輩芸人が多い。([次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")、[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")、[タカアンドトシ](../Page/タカアンドトシ.md "wikilink")など)
 
 <!-- end list -->

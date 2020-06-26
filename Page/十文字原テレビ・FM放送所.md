@@ -274,7 +274,7 @@
 
 ## 外部リンク
 
-  - [NHK大分放送局](http://www.nhk.or.jp/oita/)
+  - [NHK大分放送局](https://www.nhk.or.jp/oita/)
   - [OBS大分放送](http://www.e-obs.com/)
   - [TOSテレビ大分](http://www.tostv.jp/)
   - [OAB大分朝日放送](http://www.oab.co.jp/)

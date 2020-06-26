@@ -16,8 +16,7 @@
 
 ## タイアップ
 
-  - [カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")「[ポテトチップス](../Page/ポテトチップス.md "wikilink")」 [CMイメージソング](../Page/コマーシャルソング.md "wikilink")(\#1)
-      - CMは[マドンナの](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")[MVを手掛けた](../Page/ミュージック・ビデオ.md "wikilink")[ハーブ・リッツ](../Page/ハーブ・リッツ.md "wikilink")によるもので、映像を見た松本が気に入り、音楽もやりがいがあると思い、作曲を担当したという逸話がある\[1\]
+  - [カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink")「[ポテトチップス](../Page/ポテトチップス.md "wikilink")」 [CMイメージソング](../Page/コマーシャルソング.md "wikilink")\[1\](\#1)
 
 ## 参加ミュージシャン
 

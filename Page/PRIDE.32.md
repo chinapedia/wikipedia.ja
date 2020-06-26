@@ -1,7 +1,7 @@
 > この記事は[PRIDE.32](https://ja.wikipedia.org/wiki/PRIDE.32)から翻訳されています。
 
 
-**PRIDE.32 "THE REAL DEAL"**（プライド・サーティーツー "ザ・リアルディール"）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[トーマス&マック・センター](https://ja.wikipedia.org/wiki/トーマス&マック・センター "wikilink")で開催された。
+**PRIDE.32 "THE REAL DEAL"**（プライド・サーティーツー "ザ・リアルディール"）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント「[PRIDE](../Page/PRIDE_\(格闘技イベント\).md "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[トーマス&マック・センター](../Page/トーマス&マック・センター.md "wikilink")で開催された。
 
 ## 大会概要
 
@@ -15,7 +15,7 @@ PRIDE初の海外開催となった本大会では[ロビー・ローラー](../
 
 ## ルールの変更
 
-本大会は日本での開催とは異なり[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")の管理下で行われたため、従来のPRIDEルールではなく、同コミッションの認可した統一総合格闘技ルールが適用された\[2\]。そのため、試合時間は5分3ラウンドとなり、また選手の体重差にかかわらず、グラウンド状態の相手の頭部への蹴りによる攻撃（[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")、踏みつけ、がぶりからの膝等）は全て禁止となった。なお、頭部への肘打ちは従来のPRIDEルール通り禁止とされた。当該ルールは[PRIDE.33](../Page/PRIDE.33.md "wikilink")においても同様に適用された。
+本大会は日本での開催とは異なり[ネバダ州アスレチック・コミッション](../Page/ネバダ州アスレチック・コミッション.md "wikilink")の管理下で行われたため、従来のPRIDEルールではなく、同コミッションの認可した統一総合格闘技ルールが適用された\[2\]。そのため、試合時間は5分3ラウンドとなり、また選手の体重差にかかわらず、グラウンド状態の相手の頭部への蹴りによる攻撃（[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")、踏みつけ、がぶりからの膝等）は全て禁止となった。なお、頭部への肘打ちは従来のPRIDEルール通り禁止とされた。当該ルールは[PRIDE.33](../Page/PRIDE.33.md "wikilink")においても同様に適用された。
 
 ## 試合結果
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-2007年（平成19年）開局。佐世保市に本社を置く放送局としては 1954年（昭和29年）の[ラジオ佐世保](../Page/ラジオ佐世保.md "wikilink")（ラジオ長崎と合併、現在の[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")）以来53年ぶりの開局となった。
+2007年（平成19年）開局。佐世保市に本社を置く放送局としては 1954年（昭和29年）の[ラジオ佐世保](../Page/ラジオ佐世保.md "wikilink")（ラジオ長崎と合併、現在の[長崎放送](../Page/長崎放送.md "wikilink")）以来53年ぶりの開局となった。
 
 本社・スタジオは[四ヶ町商店街](../Page/四ヶ町商店街.md "wikilink")に面している。 [送信所](../Page/送信所.md "wikilink")は、[県域放送](../Page/県域放送.md "wikilink")局も佐世保中継局を設けるなど立地条件の良い[烏帽子岳にあり](../Page/烏帽子岳_\(佐世保市\).md "wikilink")、[コールサインJOZZ](https://ja.wikipedia.org/wiki/識別信号#呼出符号 "wikilink")0BE-FM、[周波数](../Page/周波数.md "wikilink")87.3MHz、[空中線電力](../Page/空中線電力.md "wikilink")20W（[ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink")55W）で送信している。
 

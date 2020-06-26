@@ -62,7 +62,7 @@
   - 特殊メイク・造型：[原口智生](../Page/原口智生.md "wikilink")
   - カースタント：アクティブ21（海藤幸広、[大谷奈津江](https://ja.wikipedia.org/wiki/大谷奈津江 "wikilink")）
   - 現像：[東映ラボ・テック](../Page/東映ラボ・テック.md "wikilink")
-  - プロデューサー：[小池賢太郎](https://ja.wikipedia.org/wiki/小池賢太郎 "wikilink")、[松橋真三](https://ja.wikipedia.org/wiki/松橋真三 "wikilink")、近藤正岳
+  - プロデューサー：[小池賢太郎](https://ja.wikipedia.org/wiki/小池賢太郎 "wikilink")、[松橋真三](../Page/松橋真三.md "wikilink")、近藤正岳
   - 製作プロダクション：STUDIO SWAN
   - 製作：[エイベックス・エンタテインメント](../Page/エイベックス・エンタテインメント.md "wikilink")、[STUDIO SWAN](https://ja.wikipedia.org/wiki/STUDIO_SWAN "wikilink")、[東映](../Page/東映.md "wikilink")、[東映ビデオ](../Page/東映ビデオ.md "wikilink")、[メモリーテック](../Page/メモリーテック.md "wikilink")、[アース・スター エンターテイメント](https://ja.wikipedia.org/wiki/アース・スター_エンターテイメント "wikilink")、[クオラス](../Page/クオラス.md "wikilink")、[東映衛星放送](https://ja.wikipedia.org/wiki/東映衛星放送 "wikilink")、宝島ワンダーネット、[NECビッグローブ](https://ja.wikipedia.org/wiki/NECビッグローブ "wikilink")
   - 上映時間：90分

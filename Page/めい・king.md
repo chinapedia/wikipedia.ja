@@ -101,6 +101,7 @@
 
 ## 外部リンク
 
+  - [作品公式サイト](http://web.archive.org/web/20031002014306/http://www.sanynet.ne.jp:80/~nikukyuu/soft/making.htm)
   - [バニラオフィシャルウェブサイト](http://www.vanilla-jp.com/)
 
 [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:ウォー・シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:ウォー・シミュレーションゲーム "wikilink") [Category:経営シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:経営シミュレーションゲーム "wikilink") [Category:恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:恋愛シミュレーションゲーム "wikilink") [Category:ファンタジーコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタジーコンピュータゲーム "wikilink") [Category:1998年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1998年のアダルトゲーム "wikilink") [Category:アニメ作品_め](https://ja.wikipedia.org/wiki/Category:アニメ作品_め "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:1999年の成人向けOVA](https://ja.wikipedia.org/wiki/Category:1999年の成人向けOVA "wikilink")

@@ -36,4 +36,4 @@
   - 松任谷由実オフィシャルサイトによる紹介ページ
       - [Yuming Visual Volume2](http://yuming.co.jp/discography/visual/visual02/)
 
-[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:1982年のコンサート](https://ja.wikipedia.org/wiki/Category:1982年のコンサート "wikilink") [Category:1982年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1982年のライブ・ビデオ "wikilink")
+[Category:Yumingの映像作品](https://ja.wikipedia.org/wiki/Category:Yumingの映像作品 "wikilink") [Category:1982年のコンサート](https://ja.wikipedia.org/wiki/Category:1982年のコンサート "wikilink") [Category:1982年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1982年のライブ・ビデオ "wikilink") [Category:1985年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:1985年のライブ・ビデオ "wikilink")

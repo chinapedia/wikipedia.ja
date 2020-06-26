@@ -293,4 +293,4 @@
   - [tre-sen](http://www2.fmyokohama.co.jp/tre-sen/) - 二代目の番組公式ブログ（2007年4月 - 2008年3月まで）
   - [tre-sen SiteMap (WorksBLOG)](http://www09.fmyokohama.co.jp/blog/archive/tre-sen/blogs/index.html) - 初代の番組公式ブログ（2006年4月 - 2007年3月まで）
 
-[Category:FMヨコハマの帯番組](https://ja.wikipedia.org/wiki/Category:FMヨコハマの帯番組 "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:FMヨコハマの帯番組](https://ja.wikipedia.org/wiki/Category:FMヨコハマの帯番組 "wikilink") [Category:独立系FMラジオの音楽番組‎の歴史](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組‎の歴史 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

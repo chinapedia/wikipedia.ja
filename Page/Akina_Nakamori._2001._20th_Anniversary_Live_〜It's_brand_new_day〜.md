@@ -11,7 +11,7 @@
 
 {{Tracklist | total_length = 93:00 | lyrics_credits= yes | music_credits = yes
 
-| title1 = [Fin](../Page/Fin_\(中森明菜の曲\).md "wikilink") | lyrics1 = [松本一起](../Page/松本一起.md "wikilink") | music1 = [佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink") | length1 =
+| title1 = [Fin](../Page/Fin_\(中森明菜の曲\).md "wikilink") | lyrics1 = [松本一起](../Page/松本一起.md "wikilink") | music1 = [佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink") | length1 =
 
 | title2 = [I MISSED "THE SHOCK"](https://ja.wikipedia.org/wiki/I_MISSED_"THE_SHOCK" "wikilink") | lyrics2 = Qumico Fucci | music2 = Qumico Fucci | length2 =
 

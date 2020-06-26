@@ -39,7 +39,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/春の歌/テクテク" title="wikilink">春の歌</a>（<a href="../Page/スピッツ_(バンド).md" title="wikilink">スピッツ</a>）</li>
 <li><a href="../Page/笑顔の行方.md" title="wikilink">未来予想図II</a> （<a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a>）</li>
 <li><a href="../Page/One_more_time,_One_more_chance.md" title="wikilink">One more time, One more chance</a>（<a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>）</li>
-<li><a href="../Page/世界に一つだけの花.md" title="wikilink">世界に一つだけの花</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</li>
+<li><a href="../Page/世界に一つだけの花.md" title="wikilink">世界に一つだけの花</a>（<a href="../Page/SMAP.md" title="wikilink">SMAP</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/ガラス越しに消えた夏" title="wikilink">ガラス越しに消えた夏</a>（<a href="../Page/鈴木雅之_(歌手).md" title="wikilink">鈴木雅之</a>）</li>
 </ol></td>
 <td><p>売上約25万枚[3]</p>
@@ -62,7 +62,7 @@
 <li>遠く遠く（<a href="../Page/槇原敬之.md" title="wikilink">槇原敬之</a>）</li>
 <li><a href="../Page/言葉にできない.md" title="wikilink">言葉にできない</a>（<a href="https://ja.wikipedia.org/wiki/オフコース" title="wikilink">オフコース</a>）</li>
 <li><a href="../Page/やさしさに包まれたなら.md" title="wikilink">やさしさに包まれたなら</a>（<a href="../Page/松任谷由実.md" title="wikilink">荒井由実</a>）</li>
-<li><a href="../Page/夜空ノムコウ.md" title="wikilink">夜空ノムコウ</a>（<a href="https://ja.wikipedia.org/wiki/SMAP" title="wikilink">SMAP</a>）</li>
+<li><a href="../Page/夜空ノムコウ.md" title="wikilink">夜空ノムコウ</a>（<a href="../Page/SMAP.md" title="wikilink">SMAP</a>）</li>
 <li><a href="../Page/メランコリニスタ.md" title="wikilink">メランコリニスタ</a>（<a href="https://ja.wikipedia.org/wiki/YUKI_(歌手)" title="wikilink">YUKI</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/イージュー★ライダー" title="wikilink">イージュー★ライダー</a>（<a href="../Page/奥田民生.md" title="wikilink">奥田民生</a>）</li>
 <li>hello（オリジナル曲）</li>

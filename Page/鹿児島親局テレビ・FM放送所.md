@@ -37,7 +37,7 @@
   - [2014年](../Page/2014年.md "wikilink")（平成26年）
       - [7月16日](../Page/7月16日.md "wikilink") - MBCラジオのFM補完中継局に予備免許交付。災害対策を目的としたFM補完中継局としては日本初。
       - [12月22日](../Page/12月22日.md "wikilink") - MBCラジオのFM補完中継局に本免許交付。同日5時からAM1107kHzとの同時試験放送を開始\[3\]。
-  - [2015年](../Page/2015年.md "wikilink")（平成27年）[1月1日](../Page/1月1日.md "wikilink") - MBCラジオのFM補完中継局が本放送開始。災害対策を目的としたFM補完中継局としては[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")・[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（ともに2014年12月1日開始）に次いで3番目。
+  - [2015年](../Page/2015年.md "wikilink")（平成27年）[1月1日](../Page/1月1日.md "wikilink") - MBCラジオのFM補完中継局が本放送開始。災害対策を目的としたFM補完中継局としては[北日本放送](../Page/北日本放送.md "wikilink")・[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（ともに2014年12月1日開始）に次いで3番目。
   - [2016年](../Page/2016年.md "wikilink")（平成28年）[6月30日](../Page/6月30日.md "wikilink") - ジャパン・モバイルキャスティングのサービス停止\[4\]に伴い、中継局の運用を停止。
 
 ### 地上デジタル放送への対応

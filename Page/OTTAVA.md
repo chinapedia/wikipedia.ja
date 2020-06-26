@@ -143,7 +143,7 @@
   - 2018年[4月16日](../Page/4月16日.md "wikilink") - 初の常設[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「OTTAVA TENNOZ TMMT Studio」を品川区東品川の[天王洲に開設](../Page/天王洲アイル.md "wikilink")。生番組『OTTAVA Aria from TENNOZ TMMT Studio』を開始。「第3の開局」と呼ばれる一連の動きのスタート。
   - 2018年[5月1日](../Page/5月1日.md "wikilink") - 番組のオンデマンドシステムの開発費用をクラウドファンディングで募集開始。6月18日に目標金額の200万円に到達。最終的には346人から3,558,555円が寄せられた。
   - 2018年[6月30日](../Page/6月30日.md "wikilink") - 千代田区一番町から天王洲への完全移転を発表。
-  - 2018年[8月29日](../Page/8月29日.md "wikilink") - 佐々木隆一、大江貴志の両名がOTTAVA株式会社の取締役を退任。斎藤茂が代表取締役社長に、[中野善壽](https://ja.wikipedia.org/wiki/中野善壽 "wikilink")([寺田倉庫](../Page/寺田倉庫.md "wikilink")代表取締役(当時))、[斎藤隆幸](https://ja.wikipedia.org/wiki/斎藤隆幸 "wikilink")、[林隆嗣](https://ja.wikipedia.org/wiki/林隆嗣 "wikilink")が取締役に就任。岸博幸が監査役を退任、[堀川洋佑](https://ja.wikipedia.org/wiki/堀川洋佑 "wikilink")が就任。同日付で天王洲に本社機能を移転(法人の登記上の[本店](../Page/本店.md "wikilink")所在地は2018年12月11日に移転\[47\])。
+  - 2018年[8月29日](../Page/8月29日.md "wikilink") - 佐々木隆一、大江貴志の両名がOTTAVA株式会社の取締役を退任。斎藤茂が代表取締役社長に、[中野善壽](../Page/中野善壽.md "wikilink")([寺田倉庫](../Page/寺田倉庫.md "wikilink")代表取締役(当時))、[斎藤隆幸](https://ja.wikipedia.org/wiki/斎藤隆幸 "wikilink")、[林隆嗣](https://ja.wikipedia.org/wiki/林隆嗣 "wikilink")が取締役に就任。岸博幸が監査役を退任、[堀川洋佑](https://ja.wikipedia.org/wiki/堀川洋佑 "wikilink")が就任。同日付で天王洲に本社機能を移転(法人の登記上の[本店](../Page/本店.md "wikilink")所在地は2018年12月11日に移転\[47\])。
   - 2018年[11月5日](../Page/11月5日.md "wikilink") - オンデマンド・サービス「OTTAVA Premio」\[48\]がオープン。生番組『OTTAVA Fresca』を開始。
   - 2019年[2月1日](../Page/2月1日.md "wikilink") - 中野善壽がOTTAVA株式会社の代表取締役に就任(斎藤茂は留任)。[白柳龍一](https://ja.wikipedia.org/wiki/白柳龍一 "wikilink")、[寺田保信](https://ja.wikipedia.org/wiki/寺田保信 "wikilink")が取締役に就任。斎藤隆幸は監査役に就任。
   - 2019年[5月3日](../Page/5月3日.md "wikilink") - 公式サイトを大幅リニューアル。動画配信サイト「OTTAVA.TV」\[49\]がオープン。
@@ -214,7 +214,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 227(木)<br />
 <a href="https://ja.wikipedia.org/wiki/君塚仁子" title="wikilink">君塚仁子</a>(木)<br />
 <a href="https://ja.wikipedia.org/wiki/角口圭都" title="wikilink">角口圭都</a>(木)<br />
-<a href="https://ja.wikipedia.org/wiki/林はるか" title="wikilink">林はるか</a>(木)<br />
+<a href="../Page/林はるか.md" title="wikilink">林はるか</a>(木)<br />
 <a href="https://ja.wikipedia.org/wiki/yumi" title="wikilink">yumi</a>(木)<br />
 <small>※木曜日は週替わり</small><br />
 <a href="https://ja.wikipedia.org/wiki/林田直樹_(音楽ジャーナリスト)" title="wikilink">林田直樹</a>(金)</p></td>
@@ -332,7 +332,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
     Classic＆Modernなクラシック音楽の楽曲を独自にミックスした30分弱の番組。TBS時代に制作された。番組数は40本以上とみられる。2018年12月2日現在は、一部の番組を、OTTAVA Premioで有料会員が24時間聴取できる。
   - OTTAVA Presents...<small>(オッターヴァ　プレゼンツ)</small>
     OTTAVAが注目する人物、コンサート、CD/配信楽曲、アート情報など、さまざな情報をピックアップしてお届けする30分の録音番組。OTTAVAで配信されるほか、下記3タイトルはOTTAVA Premioで有料会員が24時間聴取できる。
-      - 二之湯氏と中野氏のカフェトーク([二之湯武史](https://ja.wikipedia.org/wiki/二之湯武史 "wikilink")・[中野善壽](https://ja.wikipedia.org/wiki/中野善壽 "wikilink"))
+      - 二之湯氏と中野氏のカフェトーク([二之湯武史](https://ja.wikipedia.org/wiki/二之湯武史 "wikilink")・[中野善壽](../Page/中野善壽.md "wikilink"))
       - 堤桂子 ビューティ・サミット2020([堤桂子](https://ja.wikipedia.org/wiki/堤桂子 "wikilink")・白柳龍一)
       - 今夜もウェルネス！([松田亜有子](https://ja.wikipedia.org/wiki/松田亜有子 "wikilink")）
 
@@ -387,7 +387,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
 <a href="https://ja.wikipedia.org/wiki/Saxophone倶楽部・桜" title="wikilink">Saxophone倶楽部・桜</a>[80]<br />
 227<br />
 <a href="https://ja.wikipedia.org/wiki/君塚仁子" title="wikilink">君塚仁子</a><br />
-<a href="https://ja.wikipedia.org/wiki/林はるか" title="wikilink">林はるか</a></p></td>
+<a href="../Page/林はるか.md" title="wikilink">林はるか</a></p></td>
 </tr>
 <tr class="even">
 <td><p>(日)11:00-17:00</p></td>
@@ -1621,7 +1621,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
   -
 
       -
-        2016年4月2日に開催。本田聖嗣が企画・出演。[岡本誠司](https://ja.wikipedia.org/wiki/岡本誠司 "wikilink")([ヴァイオリン](../Page/ヴァイオリン.md "wikilink"))がゲスト出演した<ref>
+        2016年4月2日に開催。本田聖嗣が企画・出演。[岡本誠司](../Page/岡本誠司.md "wikilink")([ヴァイオリン](../Page/ヴァイオリン.md "wikilink"))がゲスト出演した<ref>
 
 </ref>。
 
@@ -1685,7 +1685,7 @@ Mercoledi(<a href="https://ja.wikipedia.org/wiki/中村愛_(ハープ奏者)" ti
       - 2016年3月3日　出演：[二人旅](https://ja.wikipedia.org/wiki/二人旅 "wikilink")([柏木広樹](../Page/柏木広樹.md "wikilink")/[光田健一](../Page/光田健一.md "wikilink"))
       - 2016年4月27日　出演：[ルイス＝フェルナンド・ペレス](https://ja.wikipedia.org/wiki/ルイス＝フェルナンド・ペレス "wikilink")、ゲスト・プレゼンター：[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")
       - 2016年6月20日　出演：[崎元譲](https://ja.wikipedia.org/wiki/崎元譲 "wikilink")、[美野春樹](https://ja.wikipedia.org/wiki/美野春樹 "wikilink")
-      - 2016年7月26日　出演：[いちむじん](https://ja.wikipedia.org/wiki/いちむじん "wikilink")([宇高靖人](https://ja.wikipedia.org/wiki/宇高靖人 "wikilink")/[山下俊輔](https://ja.wikipedia.org/wiki/山下俊輔 "wikilink"))
+      - 2016年7月26日　出演：[いちむじん](https://ja.wikipedia.org/wiki/いちむじん "wikilink")([宇高靖人](https://ja.wikipedia.org/wiki/宇高靖人 "wikilink")/[山下俊輔](../Page/山下俊輔.md "wikilink"))
       - 2016年8月2日　出演：[おんがくしつトリオ](https://ja.wikipedia.org/wiki/おんがくしつトリオ "wikilink")([内藤晃](https://ja.wikipedia.org/wiki/内藤晃 "wikilink")/[中村栄宏](https://ja.wikipedia.org/wiki/中村栄宏 "wikilink")/[菅谷詩織](https://ja.wikipedia.org/wiki/菅谷詩織 "wikilink"))、ゲスト・プレゼンター：[飯田有抄](https://ja.wikipedia.org/wiki/飯田有抄 "wikilink")
       - 2016年8月13日　出演：[ペーター・シュミードル](https://ja.wikipedia.org/wiki/ペーター・シュミードル "wikilink")、岡田知子(ピアノ)、[マルモ・ササキ](https://ja.wikipedia.org/wiki/マルモ・ササキ "wikilink")
       - 2016年12月22日　出演：[マルモ・ササキ](https://ja.wikipedia.org/wiki/マルモ・ササキ "wikilink")、[ウララ・ササキ](https://ja.wikipedia.org/wiki/ウララ・ササキ "wikilink")
@@ -1728,7 +1728,7 @@ MINFA SHOP |accessdate=2015-10-10 }}</ref>\[221\]。
 
 :\*[SINSKE](https://ja.wikipedia.org/wiki/SINSKE "wikilink")([マリンバ](../Page/マリンバ.md "wikilink"))
 
-:\*いちむじん([ギター](../Page/ギター.md "wikilink")デュオ:[宇高靖人](https://ja.wikipedia.org/wiki/宇高靖人 "wikilink")/[山下俊輔](https://ja.wikipedia.org/wiki/山下俊輔 "wikilink"))
+:\*いちむじん([ギター](../Page/ギター.md "wikilink")デュオ:[宇高靖人](https://ja.wikipedia.org/wiki/宇高靖人 "wikilink")/[山下俊輔](../Page/山下俊輔.md "wikilink"))
 
 :\*[辛島小恵](https://ja.wikipedia.org/wiki/辛島小恵 "wikilink")([ソプラノ](../Page/ソプラノ.md "wikilink"))&[本田聖嗣](../Page/本田聖嗣.md "wikilink") - 本田は独奏も行った
 

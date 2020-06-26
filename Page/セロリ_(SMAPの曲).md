@@ -1,7 +1,7 @@
 > この記事は[セロリ \(SMAPの曲\)](https://ja.wikipedia.org/wiki/セロリ_\(SMAPの曲\))から翻訳されています。
 
 
-「**セロリ**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")である。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月14日](../Page/5月14日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+「**セロリ**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](../Page/SMAP.md "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")である。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月14日](../Page/5月14日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 

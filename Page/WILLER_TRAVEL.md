@@ -1,9 +1,9 @@
 > この記事は[WILLER TRAVEL](https://ja.wikipedia.org/wiki/WILLER_TRAVEL)から翻訳されています。
 
 
-**WILLER TRAVEL 株式会社**(ウィラートラベル, )は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[旅行会社](https://ja.wikipedia.org/wiki/旅行会社 "wikilink")（旅行業登録：観光庁長官登録旅行業第1899号）。日本旅行業協会正会員。
+**WILLER TRAVEL**（ウィラートラベル）は、[WILLER](../Page/WILLER.md "wikilink")株式会社が展開する[旅行代理店](../Page/旅行代理店.md "wikilink")事業及びウェブサイトである。
 
-2017年6月に親会社である[WILLER](../Page/WILLER.md "wikilink")株式会社に吸収合併され、法人格としては消滅している（旅行業自体はWILLERが承継の上継続して営んでいる）。
+2017年5月まではWILLER TRAVEL株式会社によって運営されていたが、WILLERに吸収され法人格としては消滅している。
 
 ## 概要
 
@@ -100,7 +100,7 @@
 
   - [ウィラートラベル](https://travel.willer.co.jp/)
 
-[Category:日本の旅行会社](https://ja.wikipedia.org/wiki/Category:日本の旅行会社 "wikilink") [Category:大阪市北区の企業](https://ja.wikipedia.org/wiki/Category:大阪市北区の企業 "wikilink") [Category:1994年設立の企業](https://ja.wikipedia.org/wiki/Category:1994年設立の企業 "wikilink") [Category:中之島](https://ja.wikipedia.org/wiki/Category:中之島 "wikilink")
+[Category:WILLER](https://ja.wikipedia.org/wiki/Category:WILLER "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:かつて存在した日本の旅行会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の旅行会社 "wikilink") [Category:大阪市北区の企業](https://ja.wikipedia.org/wiki/Category:大阪市北区の企業 "wikilink") [Category:1994年設立の企業](https://ja.wikipedia.org/wiki/Category:1994年設立の企業 "wikilink") [Category:中之島](https://ja.wikipedia.org/wiki/Category:中之島 "wikilink")
 
 1.
 2.  2000年代以降では高速（路線）バスでも旅行会社やシステム会社との提携などにより同様の手法によるチケットレスサービスを提供する事業者が存在する。

@@ -1,7 +1,7 @@
 > この記事は[ジャスティス \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/ジャスティス_\(GUILTY_GEAR\))から翻訳されています。
 
 
-**ジャスティス** (JUSTICE) は、2D対戦格闘ゲーム『[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")』に登場する架空の人物。担当声優は[森藤卓弥](https://ja.wikipedia.org/wiki/射尾卓弥 "wikilink")(GG)、[緒川ゆみこ](https://ja.wikipedia.org/wiki/桜庭わかな "wikilink")(XX\~XXAR)、[藤田佳寿恵](../Page/藤田佳寿恵.md "wikilink")(GGXrd)。『GGX+』ではボイスは存在しない。
+**ジャスティス** (JUSTICE) は、2D対戦格闘ゲーム『[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")』に登場する架空の人物。担当声優は[森藤卓弥](https://ja.wikipedia.org/wiki/射尾卓弥 "wikilink")(GG)、[緒川ゆみこ](https://ja.wikipedia.org/wiki/桜庭わかな "wikilink")(XX\~XXAR)、藤田佳寿恵(GGXrd)。『GGX+』ではボイスは存在しない。
 
 ## 概要
 

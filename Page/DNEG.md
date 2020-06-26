@@ -190,13 +190,14 @@
 
   - 2020年『[007 ノー・タイム・トゥ・ダイ](https://ja.wikipedia.org/wiki/007_ノー・タイム・トゥ・ダイ "wikilink")』 *No Time to Die*
   - 2020年『[ブラック・ウィドウ](../Page/ブラック・ウィドウ_\(映画\).md "wikilink")』 *Black Widow*
-  - 2020年『[ワイルド・スピード/ジェットブレイク](https://ja.wikipedia.org/wiki/ワイルド・スピード/ジェットブレイク "wikilink")』 *F9*
   - 2020年『[ワンダーウーマン 1984](../Page/ワンダーウーマン_1984.md "wikilink")』 *Wonder Woman 1984*
-  - 2020年『[ジャングル・クルーズ](../Page/ジャングル・クルーズ.md "wikilink")』 *Jungle Cruise*
   - 2020年『[TENET テネット](https://ja.wikipedia.org/wiki/TENET_テネット "wikilink")』 *Tenet*
-  - 2020年『[ゴーストバスターズ/アフターライフ](https://ja.wikipedia.org/wiki/ゴーストバスターズ/アフターライフ "wikilink")』 *Ghostbusters: Afterlife*
   - 2020年『[ニュー・ミュータンツ](https://ja.wikipedia.org/wiki/ニュー・ミュータンツ "wikilink")』 *The New Mutants*
   - 2020年『[デューン](../Page/デューン_\(2020年の映画\).md "wikilink")』 *Dune*
+  - 2021年『[ジャングル・クルーズ](../Page/ジャングル・クルーズ.md "wikilink")』 *Jungle Cruise*
+  - 2021年『[ワイルド・スピード/ジェットブレイク](https://ja.wikipedia.org/wiki/ワイルド・スピード/ジェットブレイク "wikilink")』 *F9*
+  - 2021年『[ゴーストバスターズ/アフターライフ](https://ja.wikipedia.org/wiki/ゴーストバスターズ/アフターライフ "wikilink")』 *Ghostbusters: Afterlife*
+  - 2021年『[カオス・ウォーキング](https://ja.wikipedia.org/wiki/カオス・ウォーキング "wikilink")』 *Chaos Walking*
 
 ### テレビドラマ
 

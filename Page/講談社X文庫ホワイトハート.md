@@ -300,4 +300,4 @@
 
   - [公式サイト](http://wh.kodansha.co.jp/)
 
-[Category:講談社X文庫](https://ja.wikipedia.org/wiki/Category:講談社X文庫 "wikilink") [Category:講談社の文庫本](https://ja.wikipedia.org/wiki/Category:講談社の文庫本 "wikilink")
+[Category:講談社X文庫](https://ja.wikipedia.org/wiki/Category:講談社X文庫 "wikilink") [Category:講談社の文庫本](https://ja.wikipedia.org/wiki/Category:講談社の文庫本 "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:1991年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1991年刊行開始の刊行物 "wikilink")

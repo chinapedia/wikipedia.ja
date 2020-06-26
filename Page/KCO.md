@@ -15,7 +15,7 @@
 
   - 作詞・作曲・編曲：小室哲哉
   - 映画「[ミシェル・ヴァイヨン](../Page/ミシェル・ヴァイヨン.md "wikilink")」日本イメージソング
-  - 後に「海との友情」とともに、globeのアルバム『[maniac](https://ja.wikipedia.org/wiki/maniac "wikilink")』へ収録された。
+  - 後に「海との友情」とともに、globeのアルバム『[maniac](https://ja.wikipedia.org/wiki/maniac_\(アルバム\) "wikilink")』へ収録された。
 
 <!-- end list -->
 

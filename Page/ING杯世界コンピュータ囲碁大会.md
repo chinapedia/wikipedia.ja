@@ -293,4 +293,4 @@
 
   - [Intelligent of GO.org Foundation "Past Computer Go Events"](http://www.intelligentgo.org/en/computer-go/events/past.html)
 
-[Category:国際囲碁棋戦](https://ja.wikipedia.org/wiki/Category:国際囲碁棋戦 "wikilink") [Category:コンピュータ囲碁](https://ja.wikipedia.org/wiki/Category:コンピュータ囲碁 "wikilink")
+[Category:国際囲碁棋戦](https://ja.wikipedia.org/wiki/Category:国際囲碁棋戦 "wikilink") [Category:コンピュータ囲碁棋戦](https://ja.wikipedia.org/wiki/Category:コンピュータ囲碁棋戦 "wikilink") [Category:人間対コンピュータの試合](https://ja.wikipedia.org/wiki/Category:人間対コンピュータの試合 "wikilink")

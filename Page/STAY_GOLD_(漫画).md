@@ -58,6 +58,6 @@
 
 ## 外部リンク
 
-  - [オオシマスタジオへようこそ\!](http://blog.goo.ne.jp/okiraku-gokuraku_2006/)
+  - [オオシマスタジオへようこそ\!](https://blog.goo.ne.jp/okiraku-gokuraku_2006)
 
 [Category:漫画作品_す](https://ja.wikipedia.org/wiki/Category:漫画作品_す "wikilink") [Category:2004年の漫画](https://ja.wikipedia.org/wiki/Category:2004年の漫画 "wikilink") [Category:学園漫画](https://ja.wikipedia.org/wiki/Category:学園漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:テニス漫画](https://ja.wikipedia.org/wiki/Category:テニス漫画 "wikilink")

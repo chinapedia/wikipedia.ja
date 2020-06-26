@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - 土曜日 17:48頃 - 17:55（『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』に内包）
+  - 土曜日 17:48頃 - 17:55（『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』に内包）
   - 日曜日 17:51 - 17:55（『[サンデーステーション](https://ja.wikipedia.org/wiki/サンデーステーション "wikilink")』に内包）
 
 <!-- end list -->

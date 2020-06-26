@@ -30,7 +30,7 @@
   - [北海道神宮](../Page/北海道神宮.md "wikilink") STVラジオでは、平日6時に北海道神宮の神門大太鼓の音色を放送。その後、女性アナウンサーのナレーションで農業・漁業の従事者に対する感謝の旨のナレーションが流される（ただし、冬季を除く）。
   - [ヤマエ食品工業](https://ja.wikipedia.org/wiki/ヤマエ食品工業 "wikilink") mrtラジオで、平日11時放送。商品のCM後、女性アナウンサーが「味噌と醤油のヤマエ食品が、11時をお知らせします」と言うナレーションが流れる。
   - [ピックルスコーポレーション](../Page/ピックルスコーポレーション.md "wikilink") （東海ラジオで漬物「ご飯がススム」を土曜日1時に放送）
-  - [龍角散](../Page/龍角散.md "wikilink") TBSラジオで、毎週午前11時に放送される。商品のCM後、男性アナウンサーが「ゴホンと言えば龍角散から11時です」と言うナレーションが流れる。
+  - [龍角散](../Page/龍角散.md "wikilink") TBSラジオ・文化放送で、平日午前11時に放送される。商品のCM後、男性アナウンサーが「龍角散が11時をお知らせします」と言うナレーションが流れる。
 
 また、変わった所では、
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [ミサワホーム](../Page/ミサワホーム.md "wikilink") 土曜日に流す場合は5時〜翌4時まで、日曜日に流す場合は4時〜放送休止まで。なお2020年5月10日の放送分のみ新型コロナウイルスの流行に伴いステイホームを呼びかけるJFNのCMに差し替え、16日から再開したものの一部の時間を除き当面の間は『STAY SAFE,STAY HOME』と呼びかけるものが流れる。\[5\]
+  - [ミサワホーム](../Page/ミサワホーム.md "wikilink") 土曜日に流す場合は5時〜翌4時まで、日曜日に流す場合は5時〜放送休止まで。なお2020年5月10日の放送分のみ新型コロナウイルスの流行に伴いステイホームを呼びかけるJFNのCMに差し替え、16日から再開したものの一部の時間を除き当面の間は『STAY SAFE,STAY HOME』と呼びかけるものが流れる。\[5\]
   - [日本生命保険](https://ja.wikipedia.org/wiki/日本生命保険 "wikilink") 土曜日もしくは日曜日の5時〜13時に放送される。
   - [セカンドストリート](../Page/セカンドストリート.md "wikilink") 土曜日もしくは日曜日の14時～翌午前4時（日曜日の場合は14時～放送休止まで）に放送される。
       - なお、土曜、日曜は、ミサワホーム、ニッセイとセカンドストリートが週ごとに入れ替わりで担当している。
@@ -102,8 +102,8 @@
 
 [Category:放送](https://ja.wikipedia.org/wiki/Category:放送 "wikilink") [Category:ラジオ用語](https://ja.wikipedia.org/wiki/Category:ラジオ用語 "wikilink") [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink")
 
-1.  [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")や[KBS京都も流していた](../Page/京都放送.md "wikilink")。[ニッポン放送](../Page/ニッポン放送.md "wikilink")（ナレーション：[増田みのり](../Page/増田みのり.md "wikilink")、[BGM入り](../Page/バックグラウンドミュージック.md "wikilink")）、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（ナレーション：[菅谷由美子](https://ja.wikipedia.org/wiki/菅谷由美子 "wikilink")）のローカル版も併存する。
+1.  [STVラジオ](../Page/STVラジオ.md "wikilink")や[KBS京都も流していた](../Page/京都放送.md "wikilink")。[ニッポン放送](../Page/ニッポン放送.md "wikilink")（ナレーション：[増田みのり](../Page/増田みのり.md "wikilink")、[BGM入り](../Page/バックグラウンドミュージック.md "wikilink")）、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")（ナレーション：[菅谷由美子](https://ja.wikipedia.org/wiki/菅谷由美子 "wikilink")）のローカル版も併存する。
 2.  現行ダイヤでは「[スーパーはこね](https://ja.wikipedia.org/wiki/はこね_\(列車\) "wikilink")7号」の[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")発車時刻を指す。
-3.  [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")では、土曜日の正午に流れる。
+3.  [STVラジオ](../Page/STVラジオ.md "wikilink")では、土曜日の正午に流れる。
 4.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink")（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")）1988年1月号 メイン特集「1987ラジオ重大ニュース」（41頁）
 5.  CMソングの「いついつまでも」から『さがしにでかけましょう ミサワホーム』のフレーズが使われている為。

@@ -433,7 +433,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ワカタイショウ" title="wikilink">ワカタイショウ</a></p></td>
+<td><p><a href="../Page/ワカタイショウ.md" title="wikilink">ワカタイショウ</a></p></td>
 <td><p>牡6</p></td>
 <td><p>10戦4勝<br />
 中山大障害（秋）</p></td>
@@ -530,7 +530,7 @@
 <td><p>9戦6勝<br />
 中山大障害（春）、東京障害特別（秋）</p></td>
 <td><p>社台ファーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木康弘_(競馬)" title="wikilink">鈴木康弘</a></p></td>
+<td><p><a href="../Page/鈴木康弘_(競馬).md" title="wikilink">鈴木康弘</a></p></td>
 <td><p>吉田照哉</p></td>
 <td></td>
 </tr>
@@ -640,7 +640,7 @@
 <td><p>3戦2勝<br />
 中山大障害</p></td>
 <td><p><a href="../Page/川上悦夫.md" title="wikilink">川上牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/増本豊" title="wikilink">増本豊</a></p></td>
+<td><p><a href="../Page/増本豊.md" title="wikilink">増本豊</a></p></td>
 <td><p><a href="../Page/松岡隆雄.md" title="wikilink">松岡隆雄</a></p></td>
 <td><p>218/300</p></td>
 </tr>

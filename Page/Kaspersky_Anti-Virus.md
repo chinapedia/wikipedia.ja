@@ -15,7 +15,7 @@ __TOC__{{-}}
 
 また、[F-Secure](../Page/F-Secure.md "wikilink")社製アンチウイルス製品にスキャンエンジンおよび定義ファイルを[OEM](../Page/OEM.md "wikilink")提供したのを皮切りに、世界中でリブランディング、OEM、アプライアンスのエンジンに採用されている。日本国内で販売されているセキュリティ製品では、Ahkun社の*SG Anti-Spy*、[G DATA Software社の](../Page/G_DATA_Software.md "wikilink")[G DATA アンチウイルスキット](../Page/G_DATA_アンチウイルスキット.md "wikilink")\[5\]、F-Secure社の*[Internet Security 2007](../Page/F-Secure_インターネットセキュリティ.md "wikilink")*、E-Post社の*E-Post Mail Server*、[ターボリナックス](https://ja.wikipedia.org/wiki/ターボリナックス "wikilink")の*Turbo Anti-Virus*、Gideon社の*ギデオンアンチウイルス*、[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")の*常時安全セキュリティ24*等にエンジンが提供されている。
 
-[Winny](../Page/Winny.md "wikilink")関連ウイルスなどの日本固有のウイルスへの対応も速い。アンチウイルス単体製品で[スパイウェア](https://ja.wikipedia.org/wiki/スパイウェア "wikilink")にも対応し、SC Magazine 2006のスパイウェア部門で他の専門ソフトを抜いて最優秀賞を受賞している。また、同社ではWinnyそのものを「リスクウェア」としており、[マルウェア](../Page/マルウェア.md "wikilink")等を検出するための、拡張定義ファイルを使用することで検出できるようになる\[6\]。
+[Winny](../Page/Winny.md "wikilink")関連ウイルスなどの日本固有のウイルスへの対応も速い。アンチウイルス単体製品で[スパイウェア](../Page/スパイウェア.md "wikilink")にも対応し、SC Magazine 2006のスパイウェア部門で他の専門ソフトを抜いて最優秀賞を受賞している。また、同社ではWinnyそのものを「リスクウェア」としており、[マルウェア](../Page/マルウェア.md "wikilink")等を検出するための、拡張定義ファイルを使用することで検出できるようになる\[6\]。
 2005年5月に発生した[価格.comの](https://ja.wikipedia.org/wiki/カカクコム "wikilink")[ハッキング](../Page/ハッキング.md "wikilink")事件では、事件の発生前から対応するウイルス定義ファイルを提供していた数少ないソフトである\[7\]\[8\]。
 
 ちなみに、ウイルスが見つかると、Ver.7.0までは怪獣か人間の悲鳴の様な「ギャー」という音が鳴るようになっていたが、Ver.2009からは別の警告音に変更されている。Ver2009の場合でもC:\\Program Files\\Kaspersky Lab\\Kaspersky Anti-Virus 8.0\\Skin\\sounds"にある"infected_p.wavを"Infected.wav"に置換することで、従来の警告音にする事が可能である。

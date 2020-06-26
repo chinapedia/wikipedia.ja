@@ -5,7 +5,7 @@
 
 ## 概要
 
-THXは主に、[映画館](../Page/映画館.md "wikilink")や家庭用AV再生機器のクオリティチェックを行う。また、[DVDやビデオグラムなど](../Page/DVD-Video.md "wikilink")、ソフトのマスタリングの品質チェックも行う。THX社が規定する品質をクリアした劇場やAV機器、[DVD](../Page/DVD.md "wikilink")などには、THXマークをクレジットすることが許される。 名前の由来は、ルーカスフィルムにて開発を行ったトム・ホールマンの実験("Tom Holman eXperiment")、または同氏のクロスオーバー("Tom Holman's Crossover") のクロス（X）に由来し\[1\]、その後 [ジョージ・ルーカス](../Page/ジョージ・ルーカス.md "wikilink")監督のデビュー作「[THX 1138](../Page/THX_1138.md "wikilink")」にある。 本社は、[ロサンゼルス郡](https://ja.wikipedia.org/wiki/ロサンゼルス郡 "wikilink")の[バーバンクにあり](../Page/バーバンク_\(カリフォルニア州\).md "wikilink")、ソフトチェック用の全てTHX仕様のスタジオを5つ持っている。
+THXは主に、[映画館](../Page/映画館.md "wikilink")や家庭用AV再生機器のクオリティチェックを行う。また、[DVDやビデオグラムなど](../Page/DVD-Video.md "wikilink")、ソフトのマスタリングの品質チェックも行う。THX社が規定する品質をクリアした劇場やAV機器、[DVD](../Page/DVD.md "wikilink")などには、THXマークをクレジットすることが許される。名前の由来は、ルーカスフィルムにて開発を行ったトム・ホールマンの実験（"Tom Holman eXperiment"）、または同氏のクロスオーバー（"Tom Holman's Crossover"）のクロス（X）に由来し\[1\]、その後 [ジョージ・ルーカス](../Page/ジョージ・ルーカス.md "wikilink")監督のデビュー作「[THX 1138](../Page/THX_1138.md "wikilink")」にある。本社は、[ロサンゼルス郡](https://ja.wikipedia.org/wiki/ロサンゼルス郡 "wikilink")の[バーバンクにあり](../Page/バーバンク_\(カリフォルニア州\).md "wikilink")、ソフトチェック用の全てTHX仕様のスタジオを5つ持っている。
 
 1983年、ジョージ・ルーカスによって創業され、ルーカスフィルムの一部門として始まり、2002年に[スピンオフ](../Page/スピンオフ.md "wikilink")した際に独立した。2012年に[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")のデジタル機器メーカーの[クリエイティブ・テクノロジーが買収](../Page/クリエイティブテクノロジー.md "wikilink")、その後[2016年](../Page/2016年.md "wikilink")、シンガポールの[Razer](https://ja.wikipedia.org/wiki/Razer "wikilink")社によって買収された。
 

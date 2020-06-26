@@ -18,4 +18,4 @@
 3.  Jewel of Kiss(instrumental)
 4.  朝露のメロディー(instrumental)
 
-[Category:島谷ひとみの楽曲](https://ja.wikipedia.org/wiki/Category:島谷ひとみの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:BOUNCEBACKが制作した楽曲](https://ja.wikipedia.org/wiki/Category:BOUNCEBACKが制作した楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
+[Category:島谷ひとみの楽曲](https://ja.wikipedia.org/wiki/Category:島谷ひとみの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:BOUNCEBACKが制作した楽曲](https://ja.wikipedia.org/wiki/Category:BOUNCEBACKが制作した楽曲 "wikilink") [Category:宝石を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:宝石を題材とした楽曲 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

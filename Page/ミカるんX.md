@@ -1,11 +1,11 @@
 > この記事は[ミカるんX](https://ja.wikipedia.org/wiki/ミカるんX)から翻訳されています。
 
 
-『**ミカるんX**』（ミカるんくろす）は、[高遠るい](../Page/高遠るい.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[大型バトルヒロイン空想特撮伝綺漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[秋田書店](../Page/秋田書店.md "wikilink")の月刊[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』に、2007年10月号にプレ連載が掲載され、翌11月号より正式連載が始まり、2011年9月号まで連載された。単行本は全8巻。
+『**ミカるんX**』（ミカるんくろす）は、[高遠るい](../Page/高遠るい.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[大型バトルヒロイン空想特撮伝綺漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[秋田書店](../Page/秋田書店.md "wikilink")の月刊[漫画雑誌](../Page/漫画雑誌.md "wikilink")『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』に、2007年10月号にプレ連載が掲載され、翌11月号より正式連載が始まり、2011年9月号まで連載された。単行本は全8巻。
 
 ## あらすじ・概要
 
-[バトル漫画や](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")[百合を取り入れた](../Page/百合_\(ジャンル\).md "wikilink")[サイエンス・ファンタジー](https://ja.wikipedia.org/wiki/サイエンス・ファンタジー "wikilink")作品。 黎明10年4月、日本国旧都東京市渋谷特区にある全寮制の中高一貫校・聖アグリッパ学園に入学した南るんなは中等部首席鯨岡ミカと出会う。それは宇宙人や怪獣との戦いの始まりだった。当初はコメディ路線な話が多かったが、雷帝軍との戦いからは主要人物の死などシリアスな展開になった。最終的に地球は滅亡。人類は「航海士」として宇宙へ新天地を求めて旅立つことになる。
+[バトル漫画や](../Page/格闘漫画.md "wikilink")[百合を取り入れた](../Page/百合_\(ジャンル\).md "wikilink")[サイエンス・ファンタジー](https://ja.wikipedia.org/wiki/サイエンス・ファンタジー "wikilink")作品。 黎明10年4月、日本国旧都東京市渋谷特区にある全寮制の中高一貫校・聖アグリッパ学園に入学した南るんなは中等部首席鯨岡ミカと出会う。それは宇宙人や怪獣との戦いの始まりだった。当初はコメディ路線な話が多かったが、雷帝軍との戦いからは主要人物の死などシリアスな展開になった。最終的に地球は滅亡。人類は「航海士」として宇宙へ新天地を求めて旅立つことになる。
 
 連載終了後、同誌の2011年11月号で、『[CYNTHIA THE MISSION](../Page/CYNTHIA_THE_MISSION.md "wikilink")』の登場人物と本作のキャラクター達が共演する『V2 〜Voyagers' Visit〜（ブイツー ヴォイジャーズ・ビジット）』が掲載された。
 

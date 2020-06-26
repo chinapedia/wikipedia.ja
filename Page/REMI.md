@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - [Sound Horizon Concert Tour 2006-2007 『Roman 〜僕達が繋がる物語〜』](https://ja.wikipedia.org/wiki/Roman_〜僕達が繋がる物語〜 "wikilink")（2007年4月25日）
+  - [Sound Horizon Concert Tour 2006-2007 『Roman 〜僕達が繋がる物語〜』](../Page/Roman_〜僕達が繋がる物語〜.md "wikilink")（2007年4月25日）
   - 7th Story Concert Märchen 〜キミが今笑っている、眩いその時代に…〜（2011年7月27日）
 
 ### テレビアニメ

@@ -13,6 +13,8 @@
   - 「JUMP」はこの近年で起こっていた[湾岸戦争](../Page/湾岸戦争.md "wikilink")に対する渡辺の想いが入っている。
   - 「タイムトンネル天国」は[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")がコーラスで参加している。
 
+{{-}}
+
 ## 収録曲
 
   - （全曲）作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")

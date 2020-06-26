@@ -297,10 +297,10 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </p></td>
 <td><p><a href="../Page/1990年ベルギーグランプリ.md" title="wikilink">BEL</a></p></td>
 <td><p><a href="../Page/1990年イタリアグランプリ.md" title="wikilink">ITA</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年ポルトガルグランプリ" title="wikilink">POR</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年スペイングランプリ" title="wikilink">ESP</a></p></td>
+<td><p><a href="../Page/1990年ポルトガルグランプリ.md" title="wikilink">POR</a></p></td>
+<td><p><a href="../Page/1990年スペイングランプリ.md" title="wikilink">ESP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1990年日本グランプリ_(4輪)" title="wikilink">JPN</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1990年オーストラリアグランプリ" title="wikilink">AUS</a></p></td>
+<td><p><a href="../Page/1990年オーストラリアグランプリ.md" title="wikilink">AUS</a></p></td>
 <td></td>
 <td></td>
 <td></td>

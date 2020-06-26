@@ -9,7 +9,7 @@
 
 [2009年](../Page/2009年.md "wikilink")、学研グループの組織再編に伴い発行元が学研パブリッシングに、[2015年](../Page/2015年.md "wikilink")には学研パブリッシングが学研マーケティング他と合併したことに伴い学研プラスとなる。
 
-年末年始号の表紙は、[1994年](../Page/1994年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで16年連続[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が飾った後、2010年からは[嵐が](../Page/嵐_\(グループ\).md "wikilink")7年連続表紙を飾っている。
+年末年始号の表紙は、[1994年](../Page/1994年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで16年連続[SMAP](../Page/SMAP.md "wikilink")が飾った後、2010年からは[嵐が](../Page/嵐_\(グループ\).md "wikilink")7年連続表紙を飾っている。
 
 2010年3月17日発売号より誌面を大判化（AB判⇒A4判）した。
 

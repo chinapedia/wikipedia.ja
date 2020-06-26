@@ -30,6 +30,7 @@
   - 2013年、[クリス・ハート](https://ja.wikipedia.org/wiki/クリス・ハート "wikilink")がカバーアルバム『Heart Song』でカバーした。
   - 2015年、[柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")がカバーアルバム『[こううたう](https://ja.wikipedia.org/wiki/こううたう "wikilink")』でカバーした。
   - 2017年、[Via Vallenがアルバム](https://ja.wikipedia.org/wiki/:en:Via_Vallen "wikilink")『Sayang』でカバーした。曲名「Sayang」。\[3\]
+  - 東山奈央『月がきれい11話の挿入歌』
 
 ## 脚注
 

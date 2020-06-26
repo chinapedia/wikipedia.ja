@@ -36,7 +36,7 @@
 | *Chi mi frena in tal momento* - オペラ「[ランメルモールのルチア](../Page/ランメルモールのルチア.md "wikilink")」より            | [ガエターノ・ドニゼッティ](../Page/ガエターノ・ドニゼッティ.md "wikilink")                 |
 | *Libiamo ne'lieti calici*（乾杯の歌） - オペラ「[椿姫](../Page/椿姫_\(オペラ\).md "wikilink")」より                    | [ジュゼッペ・ヴェルディ](../Page/ジュゼッペ・ヴェルディ.md "wikilink")                   |
 | *Finch'han dal vino* - オペラ「[ドン・ジョヴァンニ](../Page/ドン・ジョヴァンニ.md "wikilink")」より                         | [ヴォルフガング・アマデウス・モーツァルト](../Page/ヴォルフガング・アマデウス・モーツァルト.md "wikilink") |
-| *O mio babbino caro* - オペラ「[ジャンニ・スキッキ](../Page/ジャンニ・スキッキ.md "wikilink")」より                         | [ジャコモ・プッチーニ](../Page/ジャコモ・プッチーニ.md "wikilink")                     |
+| *O mio babbino caro* - オペラ「[ジャンニ・スキッキ](../Page/ジャンニ・スキッキ.md "wikilink")」より（PS2版のみ）                 | [ジャコモ・プッチーニ](../Page/ジャコモ・プッチーニ.md "wikilink")                     |
 | *La Donna è mobile* - オペラ「[リゴレット](../Page/リゴレット.md "wikilink")」より                                  | ジュゼッペ・ヴェルディ                                                        |
 |                                                                                                    |                                                                    |
 

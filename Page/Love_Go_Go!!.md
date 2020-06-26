@@ -14,32 +14,122 @@
 
 ## 収録曲
 
-1.  **ラブ♥ゴーゴー\!\!**
-      - 作詞：渡辺美里、作曲：[石井妥師](../Page/石井妥師.md "wikilink")、編曲：有賀啓雄
-2.  **Lovers universe**
-      - 作詞・作曲：渡辺美里、編曲：有賀啓雄
-3.  **あなたのすきな歌**
-      - 作詞：渡辺美里、作曲：石井妥師、編曲：有賀啓雄
-4.  **[もっと 遠くへ…](https://ja.wikipedia.org/wiki/もっと_遠くへ…/深呼吸 "wikilink")**
-      - 作詞・作曲：渡辺美里、編曲：有賀啓雄
-5.  **こぶし**
-      - 作詞：渡辺美里、作曲：木根尚登、編曲：有賀啓雄
-          - シングル「荒ぶる胸のシンバル鳴らせ」カップリング曲
-6.  **たった一度の人生だもの**
-      - 作詞：渡辺美里、作曲：石井妥師、編曲：有賀啓雄
-7.  **Lazy sunny afternoon**
-      - 作詞・作曲：渡辺美里、編曲：有賀啓雄
-8.  **[荒ぶる胸のシンバル鳴らせ](https://ja.wikipedia.org/wiki/荒ぶる胸のシンバル鳴らせ "wikilink")**
-      - 作詞：渡辺美里、作曲：石井妥師、編曲：有賀啓雄
-9.  **十六夜の月 〜izayoino tsuki〜**
-      - 作詞：渡辺美里、作曲：石井妥師、編曲：有賀啓雄
-10. **ホームラン・ラン・ラン**
-      - 作詞・作曲：渡辺美里、編曲：有賀啓雄
-11. **サンキュ**
-      - 作詞・作曲：渡辺美里、編曲：有賀啓雄
-12. **[深呼吸](https://ja.wikipedia.org/wiki/もっと_遠くへ…/深呼吸 "wikilink")**
-      - 作詞：渡辺美里、作曲・編曲：石井妥師
-          - シングル「もっと 遠くへ…」カップリング曲
+  - （全曲）作詞：渡辺美里
+  - （特記以外）編曲：有賀啓雄
+
+## 参加ミュージシャン
+
+**ラブ♥ゴーゴー\!\!**
+
+  - Drums：[山木秀夫](../Page/山木秀夫.md "wikilink")
+  - E.Bass：有賀啓雄
+  - E.Guitar：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
+  - Keyboards：[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")
+  - A.Sax：竹野昌邦
+  - T.Sax＆Flute：山本拓夫
+  - Trombone：[村田陽一](../Page/村田陽一.md "wikilink")
+  - Synthesizer Programming：橋本茂昭
+  - "Love♥Go Go\!\!" GIRLS : アロマセラパーミナコ・羽田美智子・伊藤京子・misato
+
+**Lovers universe**
+
+  - Drums Solo：山木秀夫
+  - E.Bass：有賀啓雄
+  - E.Guitar：有賀啓雄・[藤井謙二](../Page/藤井謙二.md "wikilink")
+  - Synthesizer Programming：橋本茂昭
+
+**あなたの好きな歌**
+
+  - Drums：[松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink")
+  - E.Bass：有賀啓雄
+  - E.Guitar＆Bouzouki：佐橋佳幸
+  - Keyboards：斎藤有太
+  - Strings：金原千恵子Strings
+  - Synthesizer Programming：橋本茂昭
+  - Background Vocal：有賀啓雄・山本拓夫・Misato
+
+**もっと 遠くへ…**
+
+  - Drums：[江口信夫](https://ja.wikipedia.org/wiki/江口信夫 "wikilink")
+  - E.Bass：有賀啓雄
+  - A.Guitar,E.Guitar＆Mandorin：佐橋佳幸
+  - A.Piano：柴田俊文
+  - Strings：金原千恵子Strings
+  - Synthesizer Programming：橋本茂昭
+
+**こぶし**
+
+  - Drums：松永俊弥
+  - E.Bass＆Keyboards：有賀啓雄
+  - E.Guitar：佐橋佳幸
+  - A.Piano Solo：柴田俊文
+  - Strings：金原千恵子Strings
+  - Synthesizer Programming：橋本茂昭
+
+**たった一度の人生だもの**
+
+  - Drums：[小田原豊](../Page/小田原豊.md "wikilink")
+  - E.Bass：有賀啓雄
+  - A.Guitar＆E.Guitar：[小倉博和](../Page/小倉博和.md "wikilink")
+  - A.Piano：柴田俊文
+  - T.Sax,B.Sax＆Blues harp：山本拓夫
+  - Synthesizer Programming：石川鉄男
+
+**Lazy sunny afternoon**
+
+  - Drums：鎌田清
+  - G.Guitar：小倉博和
+  - Percussion：[三沢またろう](../Page/三沢またろう.md "wikilink")
+  - E.Piano：柴田俊文
+  - Flute：山本拓夫
+  - Banana Shaker：有賀啓雄
+
+**荒ぶる胸のシンバル鳴らせ**
+
+  - Drums：江口信夫
+  - E.Bass：有賀啓雄
+  - A.Guitar＆E.Guitar：佐橋佳幸
+  - Organ：柴田俊文
+  - Percussion：三沢またろう
+  - A.Sax：竹野昌邦
+  - T.Sax：山本拓夫
+  - Trumpet：[荒木敏夫](https://ja.wikipedia.org/wiki/荒木敏夫 "wikilink")
+  - Trombone：村田陽一
+  - Synthesizer Programming：橋本茂昭
+  - Background Vocal：[葛城哲哉](../Page/葛城哲哉.md "wikilink")・斎藤有太・山本拓夫・[佐々木久美](https://ja.wikipedia.org/wiki/佐々木久美 "wikilink")・田中利江・有賀啓雄・Misato
+
+**十六夜の月〜izayoino tsuki〜**
+
+  - G.Guitar：小倉博和
+  - E.Bass＆Shaker：有賀啓雄
+  - E.Piano：柴田俊文
+  - Synthesizer Programming：橋本茂昭
+
+**ホームラン・ラン・ラン**
+
+  - Drums：山木秀夫
+  - E.Bass：有賀啓雄
+  - E.Guitar：小倉博和・藤井謙二
+  - A.Sax：竹野昌邦
+  - T.Sax：山本拓夫
+  - Trombone：村田陽一
+  - Synthesizer Programming：橋本茂昭
+  - Zekkyo：斎藤一美（[文化放送](../Page/文化放送.md "wikilink")アナウンサー）
+
+**サンキュ**
+
+  - Wurlitzer：斎藤有太
+  - V.Cello：[溝口肇](../Page/溝口肇.md "wikilink")
+
+**深呼吸**
+
+  - Synthesizer Programming,E.Guitar,E.Bass,Percussion＆Background Vocal：石井妥師
+  - A.Piano＆Organ：柴田俊文
+  - A.Sax：竹野昌邦
+  - T.Sax：山本拓夫
+  - Trombone：村田陽一
+
+## 脚注
 
 ## 外部リンク
 

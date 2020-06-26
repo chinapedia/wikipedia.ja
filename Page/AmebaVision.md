@@ -34,7 +34,7 @@ AmebaVisionも[アメーバブログ](../Page/アメーバブログ.md "wikilink
   - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
   - [FRESH\! by CyberAgent](https://ja.wikipedia.org/wiki/FRESH! "wikilink")、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink") - 事実上の後継にあたる、生放送中心の動画配信サービス。
 
-[Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:サイバーエージェント](https://ja.wikipedia.org/wiki/Category:サイバーエージェント "wikilink")
+[Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:Ameba](https://ja.wikipedia.org/wiki/Category:Ameba "wikilink")
 
 1.  <http://internet.watch.impress.co.jp/cda/news/2006/07/13/12662.html>
 2.  <http://blog.nicovideo.jp/archives/52197623.html>

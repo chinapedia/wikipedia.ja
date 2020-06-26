@@ -27,7 +27,7 @@
 
 2019年12月11日には、[日本郵便](../Page/日本郵便.md "wikilink")・[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")・[大阪ターミナルビル](https://ja.wikipedia.org/wiki/大阪ターミナルビル "wikilink")・[JTB](../Page/JTB.md "wikilink")の4社が、大阪市北区の[大阪駅](https://ja.wikipedia.org/wiki/大阪駅 "wikilink")西地区（かつて[大阪中央郵便局](https://ja.wikipedia.org/wiki/大阪中央郵便局 "wikilink")などが建っていた地区）の再開発計画（仮称「梅田3丁目計画」）を発表。この計画に沿って新たに建設される地上39階・地下3階の高層ビル（2024年3月竣工予定）のうち、5階から8階までのフロアに組み込まれる劇場（座席数約1,200席）の運営を、毎日放送グループの認定[放送持株会社](../Page/放送持株会社.md "wikilink")である[MBSメディアホールディングス](https://ja.wikipedia.org/wiki/MBSメディアホールディングス "wikilink")に委託する予定であることも明らかにされた。ただし、劇場の名称などは未定\[7\]。
 
-なお、毎日放送が1975年3月31日から加盟している[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")（TBS）系列局の直営劇場は、当劇場のほかに、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")（[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")）に所有している[TBS赤坂ACTシアター](../Page/TBS赤坂ACTシアター.md "wikilink")・[マイナビBLITZ赤坂がある](../Page/赤坂BLITZ.md "wikilink")。
+なお、毎日放送が1975年3月31日から加盟している[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")（TBS）系列局の直営劇場は、当劇場のほかに、[TBSテレビ](../Page/TBSテレビ.md "wikilink")が[赤坂サカス](../Page/赤坂サカス.md "wikilink")（[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")）に所有している[TBS赤坂ACTシアター](../Page/TBS赤坂ACTシアター.md "wikilink")・[マイナビBLITZ赤坂がある](../Page/赤坂BLITZ.md "wikilink")。
 
 ## ギャラリー
 

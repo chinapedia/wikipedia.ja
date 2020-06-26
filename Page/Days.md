@@ -7,22 +7,22 @@
 
 ### 楽曲
 
-  - [デイズ](https://ja.wikipedia.org/wiki/デイズ "wikilink") - [キンクス](https://ja.wikipedia.org/wiki/キンクス "wikilink")の楽曲。
-  - [Days (観月ありさの曲)](https://ja.wikipedia.org/wiki/Days_\(観月ありさの曲\) "wikilink") - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")の楽曲。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")ドラマ『[ナースのお仕事2](https://ja.wikipedia.org/wiki/ナースのお仕事2 "wikilink")』主題歌。
-  - Days - [ポケットビスケッツ](../Page/ポケットビスケッツ.md "wikilink")の楽曲。シングル「[Days/My Diamond](https://ja.wikipedia.org/wiki/Days/My_Diamond "wikilink")」に収録。
-  - [Days (中森明菜の曲)](../Page/Days_\(中森明菜の曲\).md "wikilink") - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。
-  - [DAYS (FLOWの曲)](../Page/DAYS_\(FLOWの曲\).md "wikilink") - [FLOW](../Page/FLOW.md "wikilink")の楽曲。アニメ『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』初代オープニングテーマ。
-  - [DAYS (藤井フミヤの曲)](https://ja.wikipedia.org/wiki/DAYS_\(藤井フミヤの曲\) "wikilink") - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")の楽曲。
-  - [Days (HIGH and MIGHTY COLORの曲)](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink") - [HIGH and MIGHTY COLORの楽曲](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")。
-  - [Days (堀江由衣の曲)](../Page/Days_\(堀江由衣の曲\).md "wikilink") - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の楽曲。アニメ『[ながされて藍蘭島](../Page/ながされて藍蘭島.md "wikilink")』オープニングテーマ。
-  - [Days (Hawaiian6の曲)](https://ja.wikipedia.org/wiki/Days_\(Hawaiian6の曲\) "wikilink") - [Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")の楽曲。
-  - Days - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の楽曲。シングル「[Days/GREEN](https://ja.wikipedia.org/wiki/Days/GREEN "wikilink")」に収録。
-  - days －tears of the world－ - [20th Centuryの楽曲](../Page/V6_\(グループ\).md "wikilink")。アルバム「[seVen](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\) "wikilink")」に収録。
-  - Days - [嵐の楽曲](../Page/嵐_\(グループ\).md "wikilink")。アルバム「[One](../Page/One_\(嵐のアルバム\).md "wikilink")」に収録。
+  - [デイズ](https://ja.wikipedia.org/wiki/デイズ "wikilink") - [キンクス](https://ja.wikipedia.org/wiki/キンクス "wikilink")の曲。
+  - [Days (観月ありさの曲)](https://ja.wikipedia.org/wiki/Days_\(観月ありさの曲\) "wikilink") - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")の曲。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")ドラマ『[ナースのお仕事2](https://ja.wikipedia.org/wiki/ナースのお仕事2 "wikilink")』主題歌。
+  - Days - [ポケットビスケッツ](../Page/ポケットビスケッツ.md "wikilink")の曲。シングル「[Days/My Diamond](https://ja.wikipedia.org/wiki/Days/My_Diamond "wikilink")」に収録。
+  - [Days (中森明菜の曲)](../Page/Days_\(中森明菜の曲\).md "wikilink") - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の曲。
+  - [DAYS (FLOWの曲)](../Page/DAYS_\(FLOWの曲\).md "wikilink") - [FLOW](../Page/FLOW.md "wikilink")の曲。アニメ『[交響詩篇エウレカセブン](https://ja.wikipedia.org/wiki/交響詩篇エウレカセブン "wikilink")』初代オープニングテーマ。
+  - [DAYS (藤井フミヤの曲)](https://ja.wikipedia.org/wiki/DAYS_\(藤井フミヤの曲\) "wikilink") - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")の曲。
+  - [Days (HIGH and MIGHTY COLORの曲)](../Page/Days_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink") - [HIGH and MIGHTY COLORの曲](../Page/HIGH_and_MIGHTY_COLOR.md "wikilink")。
+  - [Days (堀江由衣の曲)](../Page/Days_\(堀江由衣の曲\).md "wikilink") - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の曲。アニメ『[ながされて藍蘭島](../Page/ながされて藍蘭島.md "wikilink")』オープニングテーマ。
+  - [Days (Hawaiian6の曲)](https://ja.wikipedia.org/wiki/Days_\(Hawaiian6の曲\) "wikilink") - [Hawaiian6](https://ja.wikipedia.org/wiki/Hawaiian6 "wikilink")の曲。
+  - Days - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の曲。シングル「[Days/GREEN](https://ja.wikipedia.org/wiki/Days/GREEN "wikilink")」に収録。
+  - days －tears of the world－ - [20th Centuryの曲](../Page/V6_\(グループ\).md "wikilink")。アルバム「[seVen](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\) "wikilink")」に収録。
+  - Days - [嵐の曲](../Page/嵐_\(グループ\).md "wikilink")。アルバム「[One](../Page/One_\(嵐のアルバム\).md "wikilink")」に収録。
   - Days - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のCD未収録のオリジナル曲。⇒[ジャニーズJr.\#オリジナル曲](https://ja.wikipedia.org/wiki/ジャニーズJr.#オリジナル曲 "wikilink")
-  - Days - [shela](https://ja.wikipedia.org/wiki/shela "wikilink")の楽曲。シングル「[Himawari](https://ja.wikipedia.org/wiki/Himawari_\(shelaのシングル\) "wikilink")」に収録。アニメ『[ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁_\(アニメ\) "wikilink")』4代目エンディングテーマ。
-  - Days - [MY LITTLE LOVERの楽曲](https://ja.wikipedia.org/wiki/MY_LITTLE_LOVER "wikilink")。シングル「[CRAZY LOVE/Days](https://ja.wikipedia.org/wiki/CRAZY_LOVE/Days "wikilink")」に収録。
-  - [Days -愛情と日常-](https://ja.wikipedia.org/wiki/Days_-愛情と日常- "wikilink") - [AiMの楽曲](../Page/前田愛_\(声優\).md "wikilink")。アニメ『[デジモンテイマーズ](../Page/デジモンテイマーズ.md "wikilink")』2代目エンディングテーマ。
+  - Days - [shela](https://ja.wikipedia.org/wiki/shela "wikilink")の曲。シングル「[Himawari](https://ja.wikipedia.org/wiki/Himawari_\(shelaのシングル\) "wikilink")」に収録。アニメ『[ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁_\(アニメ\) "wikilink")』4代目エンディングテーマ。
+  - Days - [MY LITTLE LOVERの曲](https://ja.wikipedia.org/wiki/MY_LITTLE_LOVER "wikilink")。シングル「[CRAZY LOVE/Days](https://ja.wikipedia.org/wiki/CRAZY_LOVE/Days "wikilink")」に収録。
+  - [Days -愛情と日常-](https://ja.wikipedia.org/wiki/Days_-愛情と日常- "wikilink") - [AiMの曲](../Page/前田愛_\(声優\).md "wikilink")。アニメ『[デジモンテイマーズ](../Page/デジモンテイマーズ.md "wikilink")』2代目エンディングテーマ。
 
 ### アルバム
 

@@ -24,7 +24,7 @@
 ## 収録アルバム
 
   - **CHEERS FOR YOU**
-      - [COLLECTION IV](https://ja.wikipedia.org/wiki/COLLECTION_IV "wikilink")
+      - [COLLECTION IV](../Page/COLLECTION_IV.md "wikilink")
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [中山美穂 パーフェクト・ベスト](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト "wikilink")
       - [30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")

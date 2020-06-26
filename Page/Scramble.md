@@ -41,7 +41,7 @@
 ## 補足
 
   - 晩年では後続番組の[ROCK the RADIO 851のオープニングで](../Page/ROCK_the_RADIO_851.md "wikilink")、番組のDJがこの日の決め打ちの回答をしていた。
-  - 過去には[SCHOOL OF LOCK\!の](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")「[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")で日本一周企画」で[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")がゲスト出演した事があった。
+  - 過去には[SCHOOL OF LOCK\!の](../Page/SCHOOL_OF_LOCK!.md "wikilink")「[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")で日本一周企画」で[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")がゲスト出演した事があった。
 
 ## 外部リンク
 

@@ -7,7 +7,7 @@
 
 初めてDVD付の初回盤と、CDのみの通常盤の2形態で発売された。さらに、収録曲、ジャケットが初回盤と通常盤とでは異なる。
 
-「分身」を除いて全てクリスマスをコンセプトにして制作されたシングル。そのためか、「分身」以外アルバム『[嬉々](https://ja.wikipedia.org/wiki/嬉々 "wikilink"){{unicode』には収録されていない。
+「分身」を除いて全てクリスマスをコンセプトにして制作されたシングル。そのためか、「分身」以外アルバム『[嬉々](../Page/嬉々.md "wikilink"){{unicode』には収録されていない。
 
 ## 収録曲（初回盤）
 
@@ -20,7 +20,7 @@
         [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[美吉田月](https://ja.wikipedia.org/wiki/美吉田月 "wikilink")がカバーした（アルバム『LOVE GIFT〜pure flavor extra〜』）
 2.  **一緒に暮らそう**
       -
-        （作詞：柴咲コウ、作曲：[Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink")、編曲：華原大輔、ストリングス・アレンジ:前嶋康明）
+        （作詞：柴咲コウ、作曲：[Jin Nakamura](../Page/Jin_Nakamura.md "wikilink")、編曲：華原大輔、ストリングス・アレンジ:前嶋康明）
 3.  **綿の雪**
       -
         （作詞：柴咲コウ、作曲：[松藤量平](https://ja.wikipedia.org/wiki/three_tight_b "wikilink")、編曲：[REO](https://ja.wikipedia.org/wiki/REO "wikilink")）
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - 『[嬉々](https://ja.wikipedia.org/wiki/嬉々 "wikilink")♥️』
+  - 『[嬉々](../Page/嬉々.md "wikilink")♥️』
   - 『[The Back Best](https://ja.wikipedia.org/wiki/The_Back_Best "wikilink")』
 
 ## 試聴（公式）

@@ -114,7 +114,7 @@
 
 ### 2週勝ち抜き
 
-[お笑い番長](../Page/たいぞう.md "wikilink")、永里敦、南米パラグアイ、[SNOB](https://ja.wikipedia.org/wiki/SNOB "wikilink")、[ブラザース](../Page/ブラザース.md "wikilink")、[友池・中林](https://ja.wikipedia.org/wiki/友池中林 "wikilink")、T/D、ガブリエル、[テンショック](../Page/石野敦士.md "wikilink")
+[お笑い番長](../Page/たいぞう.md "wikilink")、永里敦、南米パラグアイ、[SNOB](https://ja.wikipedia.org/wiki/SNOB "wikilink")、[ブラザース](../Page/ブラザース.md "wikilink")、[友池・中林](../Page/友池中林.md "wikilink")、T/D、ガブリエル、[テンショック](../Page/石野敦士.md "wikilink")
 
 ### 1週勝ち抜き
 

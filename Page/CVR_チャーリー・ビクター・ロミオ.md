@@ -1,7 +1,7 @@
 > この記事は[CVR チャーリー・ビクター・ロミオ](https://ja.wikipedia.org/wiki/CVR_チャーリー・ビクター・ロミオ)から翻訳されています。
 
 
-『**CVR チャーリー・ビクター・ロミオ**』（**CVR: Charlie Victor Romeo**）は、[1999年](../Page/1999年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で初演された舞台演劇作品。日本では[燐光群](https://ja.wikipedia.org/wiki/燐光群 "wikilink")によって[2002年](../Page/2002年.md "wikilink")に初演された。
+『**CVR チャーリー・ビクター・ロミオ**』（**CVR: Charlie Victor Romeo**）は、[1999年](../Page/1999年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で初演された[舞台演劇](https://ja.wikipedia.org/wiki/舞台演劇 "wikilink")作品。日本では[燐光群](https://ja.wikipedia.org/wiki/燐光群 "wikilink")によって[2002年](../Page/2002年.md "wikilink")に初演された。
 
 ## 作品概要
 
@@ -76,4 +76,4 @@
   - [航空事故](../Page/航空事故.md "wikilink")
   - [内田幹樹](../Page/内田幹樹.md "wikilink") - 小説「査察機長」の中でこの演劇についての会話がある。
 
-[Category:アメリカ合衆国の戯曲](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戯曲 "wikilink") [Category:1990年代の戯曲](https://ja.wikipedia.org/wiki/Category:1990年代の戯曲 "wikilink") [Category:1999年の舞台作品](https://ja.wikipedia.org/wiki/Category:1999年の舞台作品 "wikilink") [Category:航空事故](https://ja.wikipedia.org/wiki/Category:航空事故 "wikilink") [Category:航空に関するメディア](https://ja.wikipedia.org/wiki/Category:航空に関するメディア "wikilink") [Category:日本航空123便墜落事故](https://ja.wikipedia.org/wiki/Category:日本航空123便墜落事故 "wikilink")
+[Category:アメリカ合衆国の戯曲](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の戯曲 "wikilink") [Category:1990年代の戯曲](https://ja.wikipedia.org/wiki/Category:1990年代の戯曲 "wikilink") [Category:1999年の舞台作品](https://ja.wikipedia.org/wiki/Category:1999年の舞台作品 "wikilink") [Category:航空事故](https://ja.wikipedia.org/wiki/Category:航空事故 "wikilink") [Category:航空を題材とした作品](https://ja.wikipedia.org/wiki/Category:航空を題材とした作品 "wikilink") [Category:日本航空123便墜落事故](https://ja.wikipedia.org/wiki/Category:日本航空123便墜落事故 "wikilink")

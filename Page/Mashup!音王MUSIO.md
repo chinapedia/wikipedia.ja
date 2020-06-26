@@ -155,7 +155,7 @@ PVコメント：<a href="../Page/Every_Little_Thing.md" title="wikilink">ELT</a
 <td><p><a href="https://ja.wikipedia.org/wiki/後藤真希" title="wikilink">後藤真希</a></p></td>
 <td><p>齊藤夢愛がアシスタントとなる<br />
 <a href="../Page/モーニング娘。誕生10年記念隊.md" title="wikilink">モーニング娘。誕生10年記念隊</a>を代表して後藤真希が出演<br />
-エンディング以外のPVが<a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a>と後藤真希のみ</p></td>
+エンディング以外のPVが<a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a>と後藤真希のみ</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -406,7 +406,7 @@ PVコメント：<a href="https://ja.wikipedia.org/wiki/綾瀬はるか" title="
 <tr class="even">
 <td><p>46</p></td>
 <td><p><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーニング娘。" title="wikilink">モーニング娘。</a><br />
+<td><p><a href="../Page/モーニング娘。.md" title="wikilink">モーニング娘。</a><br />
 <a href="../Page/ONE☆DRAFT.md" title="wikilink">ONE☆DRAFT</a></p></td>
 <td><p>アシスタントが<a href="https://ja.wikipedia.org/wiki/加藤夏希" title="wikilink">加藤夏希</a>に。<br />
 放送曜日が変更。</p></td>

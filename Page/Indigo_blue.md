@@ -104,7 +104,7 @@
 
   - [indigo blue Rina's blog](http://indigobluerina.blogspot.com/)
 
-  - [indigo blue \~Kou's blog\~](http://blog.goo.ne.jp/indigo_blue_music/)
+  - [indigo blue \~Kou's blog\~](https://blog.goo.ne.jp/indigo_blue_music)
 
   -
 [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

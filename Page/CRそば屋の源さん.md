@@ -1,7 +1,7 @@
 > この記事は[CRそば屋の源さん](https://ja.wikipedia.org/wiki/CRそば屋の源さん)から翻訳されています。
 
 
-**CRそば屋の源さん**（-そばやのげんさん）は、[2007年](../Page/2007年.md "wikilink")9月3日に[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[CR大工の源さん](../Page/CR大工の源さん.md "wikilink")のシリーズ機。
+**CRそば屋の源さん**（-そばやのげんさん）は、[2007年](../Page/2007年.md "wikilink")9月3日に[三洋物産](../Page/三洋物産.md "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[CR大工の源さん](../Page/CR大工の源さん.md "wikilink")のシリーズ機。
 
 ## 特徴
 

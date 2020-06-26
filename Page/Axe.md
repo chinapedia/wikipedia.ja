@@ -151,7 +151,7 @@
 ## タイアップ・コラボレーション
 
   - [レインボーシックス ベガス](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス "wikilink") - [ラスベガス](../Page/ラスベガス.md "wikilink")市内に広告看板がある。また、[天蓋](https://ja.wikipedia.org/wiki/天蓋 "wikilink")アトラクションで有名な[フレモント・ストリート・エクスペリエンス](../Page/フレモント・ストリート・エクスペリエンス.md "wikilink")ステージ内に置かれているAxeのボトルを撃つと、アーケードスクリーン全面が音楽・特殊ムービーと共に広告に変わる。2006年時点での[ゲーム内広告](https://ja.wikipedia.org/wiki/ゲーム内広告 "wikilink")としては最大規模の物\[5\]。
-  - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") - 2007年、番組内にて「カリスマセールスマン林さん」がオリジナル体操企画"THE AXERCISE II"を行った。
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") - 2007年、番組内にて「カリスマセールスマン林さん」がオリジナル体操企画"THE AXERCISE II"を行った。
   - [オビラジR](../Page/オビラジR.md "wikilink") - タイアップで発売イベントを実施。[オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")の[藤森慎吾](../Page/藤森慎吾.md "wikilink")がTVCMにならった[ドッキリ](../Page/ドッキリ.md "wikilink")を仕掛けられた。
   - [リンカーン](../Page/リンカーン_\(テレビ番組\).md "wikilink") - 上記に記載されたコラボCMをTBS系列限定で2009年12月から2010年1月半ばまで放送。ユニリーバが同番組のスポンサーを務めている縁で実現した。また、CM撮影の様子も同番組内で放送された。さらにコラボCM第2弾も決定された。
   - [メタルギアソリッド ピースウォーカー](https://ja.wikipedia.org/wiki/メタルギアソリッド_ピースウォーカー "wikilink") - フレグランス ボディスプレーがゲーム内アイテムとして登場する。(2010)

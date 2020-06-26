@@ -16,6 +16,7 @@
 ## Director/MUSIC VIDEO
 
   - [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink") - 「E.O.」「I Wanna Know」「feel for you」「BRAND NEW DAY」「[FAKE feat. 安室奈美恵](https://ja.wikipedia.org/wiki/FAKE_feat._安室奈美恵 "wikilink")」「眠れない街」
+  - [AKIHIRO NAMBA](../Page/難波章浩.md "wikilink") - 「MY WAY」「WILD AT HEART」「LEVEL 7」「YOU ARE THE ONE」
   - [Aqua Timez](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink") - 「on the run」「Velonica」
   - [ASPARAGUS](../Page/ASPARAGUS.md "wikilink") - 「KNOCK ME OUT」「LIKE A DEAD」
   - [UPPER](https://ja.wikipedia.org/wiki/UPPER "wikilink") - 「CLOSE MY EYES」
@@ -62,6 +63,7 @@
   - [KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink") - 「Along The Longest Way」「Broken wine glass,lonely night」「Jojou no uta」「PART TO PLAY」「PMA」「five o'clock at night」「kirisame」「our PMA」「白いばら」「葉月の海」「Standing in the rain」「Mr.SMILING」「I am proud」「PMA” (Positive Mental Attitude)SKA BRAVO Version」「サラバ アタエラレン」「THUMBS UP\!」「Ko-Ou-Doku-Mai」
   - [The Cheserasera](https://ja.wikipedia.org/wiki/The_Cheserasera "wikilink") - 「No.8」
   - [the原爆オナニーズ](https://ja.wikipedia.org/wiki/the原爆オナニーズ "wikilink") - 「another country's(dead soldiers)」
+  - [Ken Yokoyama](../Page/横山健.md "wikilink") - 「Running On The Winding Road」「Believer」「Longing(A Quiet Time)」「How Many More Times」「Last Train Home」「Ten Years From Now」「Why」「Not Fooling Anyone」「I Love」「Punk Rock Dream」「 You And I, Against The World 」
   - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink") - 「あなたへの月」「やわらかな傷跡」「樹海の糸」「ポロメリア」「けもの道」「玻璃の花」「あたらしいうた」「ドロリーナ・ジルゼ」「パンダにバナナ」
   - [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink") - 「Grasshopper」
   - [COATZ](https://ja.wikipedia.org/wiki/COATZ "wikilink") - 「冷たい太陽」
@@ -109,7 +111,6 @@
   - [9nine](../Page/9nine.md "wikilink") - 「Cross Over」「SHINING☆STAR」
   - [ナガハタゼンジ](../Page/ナガハタゼンジ.md "wikilink") - 「モンキーフェイス」
   - [中村俊介](https://ja.wikipedia.org/wiki/中村俊介 "wikilink") - 「旅の者 ～Love\&Peaceって一体何ですか？～」
-  - [AKIHIRO NAMBA](../Page/難波章浩.md "wikilink") - 「MY WAY」「WILD AT HEART」「LEVEL 7」「YOU ARE THE ONE」
   - [NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink") - 「TAKE ME TO THE STREETS」「21st CENTURY DREAMS」「WALK」
   - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink") - 「GROWING UP」「MAXIMUM OVERDRIVE」「NEW LIFE」「THE KIDS ARE ALRIGHT」「the sound of secret minds」「close to me」「STAY GOLD」「brand new sunset」「teenagers are all assholes」「All Generations」
   - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") - 「SUN MYSELF」「新利の風」「欠けボタンの浜」「摩訶不思議テーゼ」「ならば、、ここに」「Feedback Loop」「1Minute」「Once So Close」「Across The Sensation」「Spitfire」「Suffer」「Re-By Chance feat. MOROHA」「夜と霧のなかで」
@@ -121,7 +122,7 @@
   - [pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink") - 「temple at the back」「no Tuesday」
   - [奮酉](https://ja.wikipedia.org/wiki/奮酉 "wikilink") - 「なつかしき青春」
   - [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink") - 「August / 8月」
-  - [FOR A REASON](https://ja.wikipedia.org/wiki/FOR_A_REASON "wikilink") - 「Live Your Heart and Always Follow」「Carry On」「SINCE YOU'VE BEEN GONE」
+  - [FOR A REASON](https://ja.wikipedia.org/wiki/FOR_A_REASON "wikilink") - 「Live Your Heart and Always Follow」「Carry On」「SINCE YOU'VE BEEN GONE」「I Don't Care」
   - [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink") - 「HEART BREAKER」
   - [Foxxi misQ](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink") - 「X.B.F」「Say you luv me \~魔法のコトバ\~」「Last Christmas」
   - [predia](https://ja.wikipedia.org/wiki/predia "wikilink") - 「カーテンコール」
@@ -139,7 +140,6 @@
   - [YA-KYIM](../Page/YA-KYIM.md "wikilink") - 「Super☆Looper」「さぁ行こう！respects SEAMO」
   - [山下久美子](../Page/山下久美子.md "wikilink") - 「赤道小町ドキッ」
   - [山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink") - 「free」
-  - [Ken Yokoyama](../Page/横山健.md "wikilink") - 「Running On The Winding Road」「Believer」「Longing(A Quiet Time)」「How Many More Times」「Last Train Home」「Ten Years From Now」「Why」「Not Fooling Anyone」「I Love」「Punk Rock Dream」「 You And I, Against The World 」
   - [RIZE](../Page/RIZE.md "wikilink") - 「LAUGH IT OUT」「LOCAL DEFENSE ORGANIZATION」
   - [Lita](../Page/Lita.md "wikilink") - 「蕾」「黒い雨」「火の神〜ヒヌカン〜」「今日も地球に朝が来る」
   - LITTLE「聖者が街にやってくる」

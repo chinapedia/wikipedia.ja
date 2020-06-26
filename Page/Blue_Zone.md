@@ -11,7 +11,7 @@
   - 発売告知当初は『i.n.g』とされていた。その後曲自体が変更されたのか、曲名のみ変更されたのかは不明。
   - これら2曲が収録された[アルバム](../Page/アルバム.md "wikilink")『[Full of Love](../Page/Full_of_Love.md "wikilink")』（1999年[6月2日](../Page/6月2日.md "wikilink")発売）[リリース後に](https://ja.wikipedia.org/wiki/発売 "wikilink")[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")を開催して以降、しばらくコンサートは開かれていなかったが、2007年8月31日（ソロデビュー記念日）に8年ぶりのライブが開催された。なお、1999年[6月30日](../Page/6月30日.md "wikilink")、[NHKホール](../Page/NHKホール.md "wikilink")での[ライヴを収録した](../Page/演奏会.md "wikilink")[DVD](../Page/DVD.md "wikilink")『Full of Love〜Concert Tour 1999』が1999年[9月17日](../Page/9月17日.md "wikilink")にリリースされており、2007年9月19日発売の『Shizuka Kudo THE LIVE DVD COMPLETE BOX』でも見ることが出来る。
   - [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からのシングルリリースはこの作品で一旦終了。2005年リリースの「[Lotus〜生まれし花〜](../Page/Lotus_-生まれし花-.md "wikilink")」より再びポニーキャニオンに復帰した。
-  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")が、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")第2次追加メンバーオーディション（1999年8月）の際に歌唱した。この模様は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系のオーディション番組「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」でも放送された。
+  - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")が、[モーニング娘。](../Page/モーニング娘。.md "wikilink")第2次追加メンバーオーディション（1999年8月）の際に歌唱した。この模様は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系のオーディション番組「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」でも放送された。
 
 ## 収録曲
 

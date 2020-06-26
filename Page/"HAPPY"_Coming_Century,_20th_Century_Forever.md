@@ -69,18 +69,20 @@
         作詞・作曲：[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")、編曲：[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")
 15. **HYPER EURO MEGAMIX**
     1.  **[MUSIC FOR THE PEOPLE](../Page/MUSIC_FOR_THE_PEOPLE.md "wikilink")**
+          - 1stシングル
     2.  **[MADE IN JAPAN](https://ja.wikipedia.org/wiki/MADE_IN_JAPAN "wikilink")**
+          - 2ndシングル
     3.  **[Believe Your Smile](../Page/Believe_Your_Smile.md "wikilink")**
+          - 12thシングル
     4.  **[BEAT YOUR HEART](../Page/BEAT_YOUR_HEART.md "wikilink")**
+          - 3rdシングル
     5.  **[TAKE ME HIGHER](../Page/TAKE_ME_HIGHER.md "wikilink")**
+          - 4thシングル
     6.  **IN THE WIND**
+          - 16thシングル
     <!-- end list -->
       -
         Mixed：[SHOJI UEDA](https://ja.wikipedia.org/wiki/SHOJI_UEDA "wikilink")
-    <!-- end list -->
-      - 1st・2nd・12th・3rd・4th・16thシングルのメドレー
-    <!-- end list -->
-      -
         初回限定盤のみ収録。
 
 ## タイアップ

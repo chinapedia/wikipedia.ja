@@ -46,7 +46,7 @@
   - 王笑2008（[メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")、2008年12月26日）
   - [新春ピンクカーペット](../Page/爆笑ピンクカーペット.md "wikilink")（フジテレビ）キャッチコピーは「笑いのスーパーヒーロー参上\!」
   - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）『おもしろ荘へいらっしゃい』コーナー（テレビ初出演）
-  - [エンタの天使](https://ja.wikipedia.org/wiki/エンタの天使 "wikilink")（日本テレビ）キャッチコピーは「お悩み解決\!前向き戦士」
+  - [エンタの天使](../Page/エンタの天使.md "wikilink")（日本テレビ）キャッチコピーは「お悩み解決\!前向き戦士」
   - [もりすぎ★パンチ](https://ja.wikipedia.org/wiki/もりすぎ★パンチ "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
   - [爆笑一番](https://ja.wikipedia.org/wiki/爆笑一番 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）
   - [お笑いDynamite\!](https://ja.wikipedia.org/wiki/お笑いDynamite! "wikilink")こどもの日直前SP（[TBSテレビ](../Page/TBSテレビ.md "wikilink")、2009年5月3日・2009年12月29日）キャッチコピーは「謎のスーパーヒーロー」
@@ -95,8 +95,7 @@
 
   - [プロフィール](https://www.ohtapro.co.jp/talent/cyclonez.html) - 太田プロダクション
 
-  - [携帯ホームページ](http://ip.tosp.co.jp/i.asp?i=cyclone)
-
+  -
   -
   - [サイクロンZ 公式ブログ](http://gree.jp/cyclone_z/) - GREE
 

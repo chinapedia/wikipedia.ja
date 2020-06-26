@@ -3,7 +3,7 @@
 
 **CBSコーポレーション**（CBS Corporation）は、かつて存在した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")である。アメリカ[3大ネットワーク](https://ja.wikipedia.org/wiki/3大ネットワーク "wikilink")のひとつ[CBS](../Page/CBS.md "wikilink")などを所有していた。本社はニューヨーク・マンハッタン区のCBSビルヂングに置いていた。
 
-[2005年](../Page/2005年.md "wikilink")12月31日、旧・[バイアコム](../Page/バイアコム.md "wikilink")から[パラマウント映画](../Page/パラマウント映画.md "wikilink")、[MTVネットワークス](https://ja.wikipedia.org/wiki/MTVネットワークス "wikilink")などを[会社分割](../Page/会社分割.md "wikilink")により設立した現在のバイアコムに分離、しかし2019年12月にバイアコムに再統合され、会社消滅。
+[2005年](../Page/2005年.md "wikilink")12月31日、旧[バイアコム](../Page/バイアコム.md "wikilink")から[パラマウント映画](../Page/パラマウント映画.md "wikilink")、[MTVネットワークス](https://ja.wikipedia.org/wiki/MTVネットワークス "wikilink")などを[会社分割](../Page/会社分割.md "wikilink")により設立した現在のバイアコムに分離、しかし2019年12月にバイアコムに再統合され、会社消滅。
 
 ## 歴史
 
@@ -16,7 +16,7 @@
   - [2005年](../Page/2005年.md "wikilink")3月 - [会社分割](../Page/会社分割.md "wikilink")を発表。同年6月の株主総会で正式に承認された。
   - 2005年11月 - College Sports TV（CSTV）を買収。
   - 2005年12月 - 新生バイアコム発足により、CBSコーポレーションに社名変更。
-  - [2006年](../Page/2006年.md "wikilink")1月 - [タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")との間で、[CWテレビジョンネットワーク](../Page/CWテレビジョンネットワーク.md "wikilink")発足で合意（同年9月放送開始）。
+  - [2006年](../Page/2006年.md "wikilink")1月 - [タイム・ワーナーとの間で](../Page/ワーナーメディア.md "wikilink")、[CWテレビジョンネットワーク](../Page/CWテレビジョンネットワーク.md "wikilink")発足で合意（同年9月放送開始）。
   - [2007年](../Page/2007年.md "wikilink")5月 - [Last.fm](../Page/Last.fm.md "wikilink")を買収。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月 - [CNET](../Page/CNET.md "wikilink")の買収に合意。
   - [2019年](../Page/2019年.md "wikilink")8月 - バイアコムとの再統合で合意。バイアコムを存続会社とし、社名を**バイアコムCBS**とし、レッドストーンは新会社の会長に就任予定\[1\]\[2\]。
@@ -29,10 +29,6 @@
   - インターネット - [CNET](../Page/CNET.md "wikilink")、[Last.fm](../Page/Last.fm.md "wikilink")
 
 ## 脚注
-
-## 外部リンク
-
-  - [CBS Corporation](https://www.cbscorporation.com/)
 
 [Category:アメリカ合衆国のメディア](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のメディア "wikilink") [Category:ニューヨーク市の企業](https://ja.wikipedia.org/wiki/Category:ニューヨーク市の企業 "wikilink") [Category:NYSE上場企業](https://ja.wikipedia.org/wiki/Category:NYSE上場企業 "wikilink") [Category:CBS](https://ja.wikipedia.org/wiki/Category:CBS "wikilink") [Category:2019年廃止の企業](https://ja.wikipedia.org/wiki/Category:2019年廃止の企業 "wikilink")
 

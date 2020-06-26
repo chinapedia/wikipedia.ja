@@ -39,25 +39,6 @@
 
 {{-}}
 
-## アメリカでの販売台数
-
-| 年         | [シボレー・タホ](../Page/シボレー・タホ.md "wikilink") | GMC・ユーコン | 合計      |
-| --------- | ---------------------------------------- | -------- | ------- |
-| 1998\[1\] | 133,235                                  | 49,355   | 182,590 |
-| 1999      | 122,213                                  | 53,280   | 175,493 |
-| 2000\[2\] | 149,834                                  | 56,297   | 206,131 |
-| 2001      | 202,319                                  | 77,254   | 279,573 |
-| 2002\[3\] | 209,767                                  | 76,488   | 286,255 |
-| 2003      | 199,065                                  | 86,238   | 285,303 |
-| 2004\[4\] | 186,161                                  | 86,571   | 272,732 |
-| 2005      | 152,307                                  | 73,458   | 225,765 |
-| 2006\[5\] | 161,491                                  | 71,476   | 232,967 |
-| 2007      | 146,259                                  | 63,428   | 209,687 |
-| 2008\[6\] | 91,578                                   | 39,064   | 130,642 |
-| 2009\[7\] | 73,254                                   | 29,411   | 102,665 |
-| 2010\[8\] | 75,675                                   | 28,781   | 104,456 |
-| 2011\[9\] | 80,527                                   | 34,250   | 114,777 |
-
 ## 車名の由来
 
   - カナダとアメリカを流れている河川である[ユーコン川](../Page/ユーコン川.md "wikilink")から。ちなみにユーコンとは「偉大なる川」という意味。
@@ -79,13 +60,3 @@
   - [GMC・ユーコン公式サイト](http://www.gmc.com/yukon/yukon/index.jsp)
 
 [Category:GMCの車種](https://ja.wikipedia.org/wiki/Category:GMCの車種 "wikilink") [Category:ハイブリッドカー](https://ja.wikipedia.org/wiki/Category:ハイブリッドカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
-
-1.
-2.
-3.
-4.
-5.
-6.
-7.  <http://media.gm.com/content/Pages/news/us/en/2010/Jan/0105_Dec_Sales/_jcr_content/iconrow/textfile/file.res/Deliveries%20December%2009.xls>
-8.
-9.  <http://media.gm.com/content/Pages/news/us/en/2012/Jan/gmsales/_jcr_content/rightpar/sectioncontainer/par/download/file.res/Deliveries%20December%202011.pdf>

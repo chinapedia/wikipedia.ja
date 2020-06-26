@@ -387,7 +387,7 @@
 <li>That's Enough / <a href="../Page/COKEHEAD_HIPSTERS.md" title="wikilink">COKEHEAD HIPSTERS</a></li>
 <li>Too Late / <a href="https://ja.wikipedia.org/wiki/STOMPIN&#39;_BIRD" title="wikilink">STOMPIN' BIRD</a></li>
 <li>What Kind Of Love / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
-<li>Come And Gone / <a href="https://ja.wikipedia.org/wiki/PONI-CAMP" title="wikilink">PONI-CAMP</a></li>
+<li>Come And Gone / <a href="../Page/PONI-CAMP.md" title="wikilink">PONI-CAMP</a></li>
 <li>Now You Don't Remember / <a href="https://ja.wikipedia.org/wiki/FUCK_YOU_HEROES" title="wikilink">FUCK YOU HEROES</a></li>
 <li>Sweet Dreams / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>All You Need / <a href="https://ja.wikipedia.org/wiki/THE_ONE_THOUGHT_MOMENT" title="wikilink">THE ONE THOUGHT MOMENT</a></li>

@@ -20,7 +20,7 @@
 雑誌「GiRLPOP」の第1号には、以下のアーティストが掲載されている。ベテランのアーティストや、アイドル色の強かった歌手、後に歌手以外の分野で実力をあげたアーティストを除くと、そのほとんどが初期の代表的存在と言える。
 
   - [森高千里](../Page/森高千里.md "wikilink")
-  - [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")（[リンドバーグ](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")）
+  - [渡瀬マキ](../Page/渡瀬マキ.md "wikilink")（[リンドバーグ](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")）
   - [谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink")
   - [田村直美](../Page/田村直美.md "wikilink")
   - [橘いずみ](../Page/榊いずみ.md "wikilink")
@@ -273,7 +273,7 @@
 
 <div class="NavContent" style="text-align:left;">
 
-  - **[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")**\[6\]
+  - **[モーニング娘。](../Page/モーニング娘。.md "wikilink")**\[6\]
   - [渡り廊下走り隊7](https://ja.wikipedia.org/wiki/渡り廊下走り隊7 "wikilink")
   - [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")
   - [SUPER☆GiRLS](https://ja.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")
@@ -313,7 +313,7 @@
 <div class="NavContent" style="text-align:left;">
 
   - **[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")**
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")
   - [9nine](../Page/9nine.md "wikilink")
   - [鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理_\(ハロー!プロジェクト\) "wikilink")
@@ -351,7 +351,7 @@
 
   - **[渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")**\[8\]
   - [乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [ぱすぽ☆](https://ja.wikipedia.org/wiki/PASSPO☆ "wikilink")
   - [NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")
   - [SUPER☆GiRLS](https://ja.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")

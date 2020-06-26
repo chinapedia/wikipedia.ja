@@ -68,4 +68,4 @@ for i in range(1, 101):
   - [Why Can't Programmers.. Program?](http://www.codinghorror.com/blog/archives/000781.html)
   - [HQ9F+](http://cfs.maxn.jp/neta/HQ9F+.html) (ジョーク向け[プログラミング言語](../Page/プログラミング言語.md "wikilink")である[HQ9+](../Page/HQ9+.md "wikilink")に、FizzBuzzを追加し拡張したもの)
 
-[Category:言葉遊び](https://ja.wikipedia.org/wiki/Category:言葉遊び "wikilink") [Category:プログラミング](https://ja.wikipedia.org/wiki/Category:プログラミング "wikilink")
+[Category:言葉遊び](https://ja.wikipedia.org/wiki/Category:言葉遊び "wikilink") [Category:除法](https://ja.wikipedia.org/wiki/Category:除法 "wikilink") [Category:数学ゲーム](https://ja.wikipedia.org/wiki/Category:数学ゲーム "wikilink")

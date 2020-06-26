@@ -21,7 +21,7 @@
 
   - [大久保宙](../Page/大久保宙.md "wikilink")
   - [坂本龍一](../Page/坂本龍一.md "wikilink")
-  - [平沢進](https://ja.wikipedia.org/wiki/平沢進 "wikilink")
+  - [平沢進](../Page/平沢進.md "wikilink")
   - [P-MODEL](../Page/P-MODEL.md "wikilink")
   - [菅沼孝三](../Page/菅沼孝三.md "wikilink")
 

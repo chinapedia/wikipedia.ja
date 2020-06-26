@@ -70,7 +70,7 @@
 </tr>
 <tr class="even">
 <td><p>6月7日</p></td>
-<td><p><strong>ギリギリモザイク 学校でセックスしよっ♥</strong></p></td>
+<td><p><strong>ギリギリモザイク 学校でセックスしよっ♡</strong></p></td>
 <td><p>ONED-457</p></td>
 <td></td>
 <td></td>
@@ -6868,6 +6868,22 @@ Blu-ray版のみ発売</p></td>
 <td><p><strong>禁欲32年の聖女は強姦魔に犯されて性の目覚めを知った…</strong></p></td>
 <td><p>MIDE-776</p></td>
 <td><p>MOODYZ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月1日</p></td>
+<td><p>'''大人になった姪っ子に妊娠OK淫語と大胆パンチラで誘惑され続けたボク… '''</p></td>
+<td><p>WANZ-964</p></td>
+<td><p>WANZ FACTORY</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>永遠の処女優おしゃぶりエンジェルつぼみ 射精直前の激じゅぽフェラチオ111連発BEST</strong></p></td>
+<td><p>BMW-205</p></td>
+<td><p>※単体ベスト</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

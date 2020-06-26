@@ -13,7 +13,7 @@
 
 主な例としては、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の[モーラー](../Page/モーラー.md "wikilink")[博士](../Page/博士.md "wikilink")が開発中の[空](../Page/空.md "wikilink")飛ぶ[自動車](../Page/自動車.md "wikilink")や近[未来](../Page/未来.md "wikilink")の[スポーツ](../Page/スポーツ.md "wikilink")、[恋愛](../Page/恋愛.md "wikilink")、[医療](../Page/医療.md "wikilink")、[宇宙](../Page/宇宙.md "wikilink")[開発](../Page/開発.md "wikilink")などを再現をする。
 
-[世界](../Page/世界.md "wikilink")中から集めてきた[未来](../Page/未来.md "wikilink")予測を紹介し、会長の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")を始めとする未来予測士の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）らと未来について討論する番組である。
+[世界](../Page/世界.md "wikilink")中から集めてきた[未来](../Page/未来.md "wikilink")予測を紹介し、会長の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")を始めとする未来予測士の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）らと未来について討論する番組である。
 
 他には、[SFでお馴染みの](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[空](../Page/空.md "wikilink")飛ぶ[自動車](../Page/自動車.md "wikilink")。地上1000メートルの超高層[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")。高さ1000メートル、20万人が住めるというマンションの未来予測。翼を使わず、垂直に浮遊する自動車の未来予測。そして、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")と[山田五郎](../Page/山田五郎.md "wikilink")が大いに興味がある、多くの[男性](../Page/男性.md "wikilink")の悩みを解決で[ハゲ](../Page/ハゲ.md "wikilink")の未来予測する。
 
@@ -33,7 +33,7 @@
 
 ### 未来予測士
 
-  - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）
+  - [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）
 
 ### ゲスト（スペシャルにて）
 
@@ -98,12 +98,12 @@
 | [2015年](../Page/2015年.md "wikilink")                    | 空飛ぶ[自動車](../Page/自動車.md "wikilink")が飛び回るというのが[スタジオ](../Page/スタジオ.md "wikilink")に、60分の1サイズの模型も登場\!                         |
 | [2023年](../Page/2023年.md "wikilink")                    | [東京](../Page/東京.md "wikilink")に1000mマンション誕生\!                                                                             |
 | [2029年](../Page/2029年.md "wikilink")                    | 1泊2日の[宇宙旅行](../Page/宇宙旅行.md "wikilink")が100万円を切る\!                                                                        |
-| [2038年](../Page/2038年.md "wikilink")                    | [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")結成50周年\!                                                             |
+| [2038年](../Page/2038年.md "wikilink")                    | [SMAP](../Page/SMAP.md "wikilink")結成50周年\!                                                                                |
 | [2043年](../Page/2043年.md "wikilink")                    | [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")が世界一の金持ち大国に\!                                                            |
 | [2045年](../Page/2045年.md "wikilink")                    | [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")生誕100周年\!                                                              |
 | [2050年](../Page/2050年.md "wikilink")                    | 小型人類登場\!                                                                                                                  |
 | [2060年](https://ja.wikipedia.org/wiki/2060年 "wikilink") | 『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』生放送2万回放送突破\!                                      |
-| [2073年](https://ja.wikipedia.org/wiki/2073年 "wikilink") | [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")）生誕100周年\!                        |
+| [2073年](https://ja.wikipedia.org/wiki/2073年 "wikilink") | [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）生誕100周年\!                                           |
 | [2088年](https://ja.wikipedia.org/wiki/2088年 "wikilink") | SMAP100周年\!                                                                                                               |
 | [2095年](../Page/2095年.md "wikilink")                    | タモリ生誕150周年\!                                                                                                              |
 | [2100年](../Page/2100年.md "wikilink")                    | [札幌](../Page/札幌.md "wikilink")が[首都](../Page/首都.md "wikilink")に\!                                                          |

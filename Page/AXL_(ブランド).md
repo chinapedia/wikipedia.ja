@@ -11,7 +11,7 @@
 
 ### 特徴
 
-これまでの全作品で[瀬之本久史](../Page/瀬之本久史.md "wikilink")が原画を担当し、シナリオは[ディーオー](../Page/ディーオー.md "wikilink")や[シーディーブロス](../Page/シーディーブロス.md "wikilink")などの[雄図グループ](https://ja.wikipedia.org/wiki/雄図グループ "wikilink")のブランドで活躍したシナリオ制作チームさるさるに所属する[北側寒囲](../Page/北側寒囲.md "wikilink")と[長谷川藍](https://ja.wikipedia.org/wiki/長谷川藍 "wikilink")が交互に担当している。
+これまでの全作品で[瀬之本久史](../Page/瀬之本久史.md "wikilink")が原画を担当し、シナリオは[ディーオー](../Page/ディーオー.md "wikilink")や[シーディーブロス](../Page/シーディーブロス.md "wikilink")などの[雄図グループ](../Page/雄図グループ.md "wikilink")のブランドで活躍したシナリオ制作チームさるさるに所属する[北側寒囲](../Page/北側寒囲.md "wikilink")と[長谷川藍](https://ja.wikipedia.org/wiki/長谷川藍 "wikilink")が交互に担当している。
 
 声優の[青山ゆかり](../Page/青山ゆかり.md "wikilink")が全作品、[松田理沙](../Page/松田理沙.md "wikilink")が『[キミの声がきこえる](https://ja.wikipedia.org/wiki/キミの声がきこえる "wikilink")』～『[Dolphin Divers](https://ja.wikipedia.org/wiki/Dolphin_Divers "wikilink")』にて出演しており、青山ゆかりが演じたキャラクターのみが出演するボイスCD『わたしの言葉を聴きなさい\!』や松田理沙が演じたキャラクターのみが出演するボイスCD『わたしの言葉を聴いてくださいっ』が制作され、それぞれ[コミックマーケット](../Page/コミックマーケット.md "wikilink")にて発売されたセットに同梱された。また、AXLの5周年記念企画の一環として2010年8月に開催されたコミックマーケット78にて『[かしましコミュニケーション](https://ja.wikipedia.org/wiki/かしましコミュニケーション "wikilink")』までの各作品におけるユーザー登録はがきのアンケート欄で1位となったヒロインのデフォルメイラストが描かれたストラップとそのヒロインが出演するボイスCDが発売されたが、1位となったヒロインは全て2人が演じたキャラクターで占められていた。
 

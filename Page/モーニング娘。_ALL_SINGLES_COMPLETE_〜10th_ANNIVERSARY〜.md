@@ -1,7 +1,7 @@
 > この記事は[モーニング娘。 ALL SINGLES COMPLETE 〜10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/モーニング娘。_ALL_SINGLES_COMPLETE_〜10th_ANNIVERSARY〜)から翻訳されています。
 
 
-『**モーニング娘。 ALL SINGLES COMPLETE 〜10th ANNIVERSARY〜**』（モーニングむすめ。 オール シングルス コンプリート〜テンス アニバーサリー〜）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")リリース。
+『**モーニング娘。 ALL SINGLES COMPLETE 〜10th ANNIVERSARY〜**』（モーニングむすめ。 オール シングルス コンプリート〜テンス アニバーサリー〜）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")リリース。
 
 ## 概要
 
@@ -44,7 +44,7 @@
       - 8thシングル。
 9.  **[ハッピーサマーウェディング](../Page/ハッピーサマーウェディング.md "wikilink")**
     （作詞・作曲：つんく　編曲：ダンス☆マン）
-      - 9thシングルで、4期（[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")）の最初のシングルで、市井紗耶香の最後のシングル。
+      - 9thシングルで、4期（[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")）の最初のシングルで、市井紗耶香の最後のシングル。
 10. **[I WISH](../Page/I_WISH_\(モーニング娘。の曲\).md "wikilink")**
     （作詞・作曲：つんく　編曲：河野伸）
       - 10thシングル。
@@ -169,7 +169,7 @@
   - 1期：[中澤裕子](../Page/中澤裕子.md "wikilink")、[石黒彩](https://ja.wikipedia.org/wiki/石黒彩 "wikilink")、[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")、[安倍なつみ](../Page/安倍なつみ.md "wikilink")、[福田明日香](../Page/福田明日香.md "wikilink")
   - 2期：[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")、[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")、[市井紗耶香](../Page/市井紗耶香.md "wikilink")
   - 3期：[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
-  - 4期：[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
+  - 4期：[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")、[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
   - 5期：[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[紺野あさ美](../Page/紺野あさ美.md "wikilink")、[小川麻琴](../Page/小川麻琴.md "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")
   - 6期：[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")、[亀井絵里](../Page/亀井絵里.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")、[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")
   - 7期：[久住小春](../Page/久住小春.md "wikilink")

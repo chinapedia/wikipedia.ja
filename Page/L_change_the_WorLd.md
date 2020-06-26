@@ -72,7 +72,7 @@
 
 ## スタッフ
 
-  - 「[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")」原作 - [大場つぐみ](../Page/大場つぐみ.md "wikilink")、[小畑健](../Page/小畑健.md "wikilink")（[集英社](../Page/集英社.md "wikilink")[ジャンプコミックス刊](../Page/ジャンプ・コミックス.md "wikilink")）
+  - 「[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")」原作 - [大場つぐみ](../Page/大場つぐみ.md "wikilink")、[小畑健](../Page/小畑健.md "wikilink")（[集英社](../Page/集英社.md "wikilink")[ジャンプコミックス刊](../Page/ジャンプ・コミックス.md "wikilink")）
   - 監督 - [中田秀夫](../Page/中田秀夫.md "wikilink")
   - 脚本 - [小林弘利](../Page/小林弘利.md "wikilink")
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
@@ -131,7 +131,7 @@
   - [第31回報知映画賞最優秀新人賞](../Page/報知映画賞.md "wikilink")：松山ケンイチ
   - [ヨコハマ映画祭](../Page/ヨコハマ映画祭.md "wikilink")最優秀新人賞：松山ケンイチ
   - [第30回日本アカデミー賞](../Page/第30回日本アカデミー賞.md "wikilink")優秀助演男優賞：松山ケンイチ
-  - スポーツ報知第5回[蛇いちご賞](https://ja.wikipedia.org/wiki/蛇いちご賞 "wikilink")作品賞「L change the WorLd」
+  - スポーツ報知第5回[蛇いちご賞](../Page/蛇いちご賞.md "wikilink")作品賞「L change the WorLd」
   - スポーツ報知第5回蛇いちご賞男優賞 南原清隆「L change the WorLd」
   - スポーツ報知第5回蛇いちご賞監督賞 中田秀夫「L change the WorLd」
   - 『[映画秘宝](../Page/映画秘宝.md "wikilink")』第2回[はくさい映画賞](../Page/HIHOはくさい映画賞.md "wikilink") 最低助演男優賞 南原清隆

@@ -16,7 +16,7 @@
 ## ネット局・放送時間
 
   - ニッポン放送（制作局）　土曜　7:00～7:30（「[栗村智 あなたと朝イチバン](../Page/栗村智_あなたと朝イチバン.md "wikilink")」に内包）
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")　日曜　8:00～8:30
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")　日曜　8:00～8:30
   - [東北放送](../Page/東北放送.md "wikilink")　日曜　7:30～8:00
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")　土曜　6:30～7:00
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")　日曜　10:30～11:00

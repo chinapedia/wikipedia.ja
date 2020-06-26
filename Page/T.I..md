@@ -18,7 +18,7 @@
 
 [2006年](../Page/2006年.md "wikilink")には『キング』が[ビルボード](../Page/ビルボード.md "wikilink")のチャートで\#1となり、また一週目で522,000枚という記録的なセール枚数を出した（『キング』は2006年で最も売れたヒップホップアルバムとなる）。\[8\] その後の、[映画](../Page/映画.md "wikilink")「[ATL](https://ja.wikipedia.org/wiki/ATL_\(映画\) "wikilink")」での主演や、『[マイ・ラブ](https://ja.wikipedia.org/wiki/マイ・ラブ "wikilink")（[ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink")）』や『[ラヴィン・ユー・ロング・タイム リミックス](https://ja.wikipedia.org/wiki/E=mc2〜MIMI第2章 "wikilink")（[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")）』などのヒット曲での客演により、T.I.はヒップ･ホップ界の最重要人物の一人となった。
 
-[2007年](../Page/2007年.md "wikilink")に5枚目のアルバム『[T.I. vs T.I.P.](https://ja.wikipedia.org/wiki/T.I._vs_T.I.P. "wikilink")』をリリース。\[9\] インターネットの普及などによりヒップ･ホップアルバムの売り上げが低下している中、プラチナ・セールスを獲得した。しかし、同じ年に[銃](../Page/銃.md "wikilink")やサイレンサーなどの違法取引容疑で逮捕される。\[10\] 2007年10月26日、300万ドル（約3億3,000万円）の保釈金を支払い釈放された。\[11\] [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、T.I.は逮捕による自宅監禁の後、1500時間に及ぶ社会奉仕活動と共に6枚目のアルバム『ペーパー・トレイル：真実の行方』にとりかかった。\[12\] ファーストシングル『[ホワットエヴァー・ユー・ライク](https://ja.wikipedia.org/wiki/ホワットエヴァー・ユー・ライク "wikilink")』は全米チャートで1位にはい上がり、その後わずか6週で、5枚目のシングル『[マイアヒ・ライフ](https://ja.wikipedia.org/wiki/マイアヒ・ライフ "wikilink")』が全米1位となりT.I.の名を歴史に残した。また、『ペーパー・トレイル：真実の行方』は、『トラップ・ミュージック』や『キング』と並んで完成度の高いヒップ・ホップアルバムとして評価を受けた。\[13\]
+[2007年](../Page/2007年.md "wikilink")に5枚目のアルバム『[T.I. vs T.I.P.](../Page/T.I._vs_T.I.P..md "wikilink")』をリリース。\[9\] インターネットの普及などによりヒップ･ホップアルバムの売り上げが低下している中、プラチナ・セールスを獲得した。しかし、同じ年に[銃](../Page/銃.md "wikilink")やサイレンサーなどの違法取引容疑で逮捕される。\[10\] 2007年10月26日、300万ドル（約3億3,000万円）の保釈金を支払い釈放された。\[11\] [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、T.I.は逮捕による自宅監禁の後、1500時間に及ぶ社会奉仕活動と共に6枚目のアルバム『ペーパー・トレイル：真実の行方』にとりかかった。\[12\] ファーストシングル『[ホワットエヴァー・ユー・ライク](https://ja.wikipedia.org/wiki/ホワットエヴァー・ユー・ライク "wikilink")』は全米チャートで1位にはい上がり、その後わずか6週で、5枚目のシングル『[マイアヒ・ライフ](https://ja.wikipedia.org/wiki/マイアヒ・ライフ "wikilink")』が全米1位となりT.I.の名を歴史に残した。また、『ペーパー・トレイル：真実の行方』は、『トラップ・ミュージック』や『キング』と並んで完成度の高いヒップ・ホップアルバムとして評価を受けた。\[13\]
 
 [2009年](../Page/2009年.md "wikilink")の3月、T.I.は武器の違法取引の刑罰として、懲役366日の刑を言い渡され、同時に約10万ドルの罰金を支払った。\[14\]彼は服役し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月に釈放された。\[15\]
 
@@ -122,7 +122,7 @@ AllHipHopによると\[18\]、T.I.は、リル・フリップの郷里である[
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/T.I._vs_T.I.P." title="wikilink">T.I. vs. T.I.P.</a></em></strong></p></td>
+<td><p><strong><em><a href="../Page/T.I._vs_T.I.P..md" title="wikilink">T.I. vs. T.I.P.</a></em></strong></p></td>
 <td><ul>
 <li>発売日: 2007年7月3日</li>
 <li>レーベル: Grand Hustle, Atlantic</li>

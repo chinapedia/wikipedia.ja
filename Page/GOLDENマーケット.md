@@ -17,6 +17,7 @@
 
   - 通例、一年に春と秋の2回行われ、一度の開催につき2日及び3日間行われる。行われる場所は札幌市[東区に位置するドーム型施設](../Page/東区_\(札幌市\).md "wikilink")、[札幌コミュニティドーム](../Page/札幌コミュニティドーム.md "wikilink")「つどーむ」である。
   - また、不定期に[札幌ドーム](../Page/札幌ドーム.md "wikilink")にて**GOLDENマーケット特別編**として開催する場合がある。過去に2001年10月27 - 28日、2009年には7月25日 - 26日、2014年7月27日、2016年12月18日に札幌ドームで開催された。
+  - 2020年度はつどーむが改修工事を行う関係で開催休止となり\[2\]、代替会場での開催も現時点で実施されていない。
 
 ## ステージイベント
 
@@ -29,6 +30,7 @@
 
   - [GOLDENマーケットウェブサイト](http://www.tv-hokkaido.co.jp/golma/)
 
-[Category:テレビ北海道](https://ja.wikipedia.org/wiki/Category:テレビ北海道 "wikilink") [Category:札幌市の文化](https://ja.wikipedia.org/wiki/Category:札幌市の文化 "wikilink") [Category:北海道の行事・イベント](https://ja.wikipedia.org/wiki/Category:北海道の行事・イベント "wikilink") [Category:1988年開始のイベント](https://ja.wikipedia.org/wiki/Category:1988年開始のイベント "wikilink")
+[Category:テレビ北海道](https://ja.wikipedia.org/wiki/Category:テレビ北海道 "wikilink") [Category:札幌市の文化](https://ja.wikipedia.org/wiki/Category:札幌市の文化 "wikilink") [Category:北海道の行事・イベント](https://ja.wikipedia.org/wiki/Category:北海道の行事・イベント "wikilink") [Category:1998年開始のイベント](https://ja.wikipedia.org/wiki/Category:1998年開始のイベント "wikilink")
 
 1.  テレビ北海道25年史（2014年 テレビ北海道）
+2.

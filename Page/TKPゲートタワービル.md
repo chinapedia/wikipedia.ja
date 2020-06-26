@@ -58,7 +58,7 @@
   - [オオサカガーデンシティ](../Page/オオサカガーデンシティ.md "wikilink")
   - [姫路市営モノレール大将軍駅](https://ja.wikipedia.org/wiki/姫路市企業局交通事業部#駅一覧とその現状 "wikilink") - モノレールがビルを貫く
   - [重慶軌道交通2号線](https://ja.wikipedia.org/wiki/重慶軌道交通2号線 "wikilink")[李子壩駅](https://ja.wikipedia.org/wiki/李子ハ駅 "wikilink") - 鉄道がマンションを貫く
-  - [塚原古墳群 (熊本市)](https://ja.wikipedia.org/wiki/塚原古墳群_\(熊本市\) "wikilink") - 高速道路が古墳をくぐる
+  - [私市円山古墳](https://ja.wikipedia.org/wiki/私市円山古墳 "wikilink")・[大代古墳](https://ja.wikipedia.org/wiki/大代古墳 "wikilink")・[塚原古墳群 (熊本市)](https://ja.wikipedia.org/wiki/塚原古墳群_\(熊本市\) "wikilink") - 高速道路が古墳をくぐる
 
 ## 外部リンク
 
@@ -74,5 +74,5 @@
 1.  [佐藤工業のトンネル技術も活かされた⁉ 高速道路が貫通する「ゲートタワービル」建築施工秘話](https://kensetsutenshokunavi.jp/kensetsu-takumi/technology/gatetower/) - 建設の匠
 2.  [阪神高速道路梅田出口供用開始 立体道路制度適用第1号](http://www.hido.or.jp/14gyousei_backnumber/1992_data/seminar9209.pdf)（[『道路行政セミナー』](https://www.hido.or.jp/administration/backnumber/index.php) 1992年9月号 p.57）- [道路新産業開発機構](../Page/道路新産業開発機構.md "wikilink")
 3.
-4.  [【阪神高速の構造】突き抜けた発想　ビル貫通](http://www.asahi.com/kansai/travel/kansaiisan/OSK201107210063.html) - 朝日新聞 2011年7月21日
+4.
 5.

@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")「Doesn't Really Matter」の[カバーで](https://ja.wikipedia.org/wiki/カヴァー "wikilink")、日本語詞は原曲と異なり[アジア](../Page/アジア.md "wikilink")を主題にしている。2001年6月に発売された1stアルバム『[PAPILLON](../Page/PAPILLON.md "wikilink")』の表題曲ともなっている。
+  - [ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")「」の[カバーで](https://ja.wikipedia.org/wiki/カヴァー "wikilink")、日本語詞は原曲と異なり[アジア](../Page/アジア.md "wikilink")を主題にしている。2001年6月に発売された1stアルバム『[PAPILLON](../Page/PAPILLON.md "wikilink")』の表題曲ともなっている。
   - 楽曲完成後、ジャネット側より「歌詞が原曲のイメージと違うのでCDの発売を中止して欲しい」との申し出があった。しかしながら、ジャネット本人が実際にこの曲を聴いたところ、「全体を通してアジアの雰囲気にアレンジされていて、私の曲に新たな一面が見えた。シンガーの表現も素晴らしい」とこのカバー曲におおむね良好な姿勢を見せ、CDの発売を容認し、事無きを得た\[1\]。
   - 1stアルバム『PAPILLON』の初回限定盤に「eastern butterfly」、10thシングル「[赤い砂漠の伝説](../Page/赤い砂漠の伝説.md "wikilink")」に「ヴォイス・ハーモニー・ヴァージョン」が収録されている。
   - 次作「[市場に行こう](../Page/市場に行こう.md "wikilink")」とともに後にアナログカットされた（[\#パピヨン 〜papillon〜／市場に行こうの項を参照](https://ja.wikipedia.org/wiki/#パピヨン_〜papillon〜／市場に行こう "wikilink")）。

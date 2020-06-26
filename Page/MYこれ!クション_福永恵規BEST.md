@@ -56,7 +56,7 @@
 
 ## 関連作品
 
-  - [MYこれ\!クション おニャン子クラブBEST](../Page/MYこれ!クション_おニャン子クラブBEST.md "wikilink") - [1980年代](../Page/1980年代.md "wikilink")の全[シングルA面曲](https://ja.wikipedia.org/wiki/シングル#シングルレコード "wikilink")、「[会員番号の唄](https://ja.wikipedia.org/wiki/会員番号の唄 "wikilink")」等収録
+  - [MYこれ\!クション おニャン子クラブBEST](../Page/MYこれ!クション_おニャン子クラブBEST.md "wikilink") - [1980年代](../Page/1980年代.md "wikilink")の全[シングルA面曲](https://ja.wikipedia.org/wiki/シングル#シングルレコード "wikilink")、「[会員番号の唄](../Page/会員番号の唄.md "wikilink")」等収録
   - [MYこれ\!クション うしろゆびさされ組BEST](../Page/MYこれ!クション_うしろゆびさされ組BEST.md "wikilink") - 全6枚のシングルA・B面曲、アルバム曲等収録
   - [MYこれ\!クション うしろ髪ひかれ隊BEST](../Page/MYこれ!クション_うしろ髪ひかれ隊BEST.md "wikilink") - 全5枚のシングルA・B面曲、ソロ楽曲等収録
   - [MYこれ\!クション 工藤静香BEST](../Page/MYこれ!クション_工藤静香BEST.md "wikilink") - 1987年から1997年に発売したシングルからのベスト

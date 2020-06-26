@@ -5,7 +5,7 @@
 
 ## 概要
 
-Suono Dolceがリブランドされる前のインターネットラジオステーション名であった、[LFX mudigi時代に配信していた](../Page/LFX_mudigi.md "wikilink")『ブロードバンド\!ニッポンフライデースペシャル 丸の内OL探偵団』の実質後継番組で、丸の内のトワイライトタイムをイメージし、5人のナビゲーターがラブソングを送る生放送番組とコンセプトを示し、局として推している[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")地区の積極的な情報発信とアーティストを招いて、生で楽曲を披露して貰う番組構成である。また、『丸の内OL探偵団』同様、芸能人では無いの一般の[OL](../Page/OL.md "wikilink")がリポーターとして出演していた。
+Suono Dolceがリブランドされる前のインターネットラジオステーション名であった、[LFX mudigi時代に配信していた](../Page/LFX_mudigi.md "wikilink")『ブロードバンド\!ニッポンフライデースペシャル 丸の内OL探偵団』の実質後継番組で、丸の内のトワイライトタイムをイメージし、5人のナビゲーターがラブソングを送る生放送番組とコンセプトを示し\[1\]、局として推している[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")地区の積極的な情報発信とアーティストを招いて、生で楽曲を披露して貰う番組構成である。また、『丸の内OL探偵団』同様、芸能人では無いの一般の[OL](../Page/OL.md "wikilink")がリポーターとして出演していた。
 
 ## 出演者
 
@@ -14,10 +14,10 @@ Suono Dolceがリブランドされる前のインターネットラジオステ
 #### 放送終了時点
 
   - 月曜：[荘口彰久](../Page/荘口彰久.md "wikilink")（フリーアナウンサー、元ニッポン放送アナウンサー） - 2007年4月2日 - 2012年3月26日
-  - 火曜：[キャサリン小林](https://ja.wikipedia.org/wiki/キャサリン小林 "wikilink")\[1\]（タレント） - 2007年4月5日 - 2012年3月27日
+  - 火曜：[キャサリン小林](https://ja.wikipedia.org/wiki/キャサリン小林 "wikilink")\[2\]（タレント） - 2007年4月5日 - 2012年3月27日
   - 水曜：[増田みのり](../Page/増田みのり.md "wikilink")（当時：ニッポン放送アナウンサー） - 2010年6月30日 - 2012年3月28日
-  - 木曜：[中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")\[2\]（歌手、サウンドクリエーター） - 2007年10月5日 - 2012年3月29日
-  - 金曜：[光永泰一朗](../Page/光永泰一朗.md "wikilink")（[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")）※第1週\[3\] - 2009年4月3日 - 2012年3月30日
+  - 木曜：[中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")\[3\]（歌手、サウンドクリエーター） - 2007年10月5日 - 2012年3月29日
+  - 金曜：[光永泰一朗](../Page/光永泰一朗.md "wikilink")（[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")）※第1週\[4\] - 2009年4月3日 - 2012年3月30日
     [河口恭吾](../Page/河口恭吾.md "wikilink")（シンガーソングライター）※第2週 - 2010年10月8日 - 2012年3月9日
     ナカムラヒロシ（音楽プロデューサー）※第3週 - 2010年10月15日 - 2012年3月2日
     [Paris match](../Page/Paris_match.md "wikilink")（ミズノマリ 、杉山洋介）※第4週 - 2010年10月22日 - 2012年3月23日
@@ -34,14 +34,14 @@ Suono Dolceがリブランドされる前のインターネットラジオステ
 
   - [瀬戸早妃](https://ja.wikipedia.org/wiki/咲嬉 "wikilink")（グラビアアイドル）※火曜 - 2007年4月3日 - 2007年7月31日
   - [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")（歌手）※金曜 - 2007年4月6日 - 2007年9月21日
-  - [Mariko](https://ja.wikipedia.org/wiki/Mariko "wikilink")（[Vanilla Moodリーダー](../Page/Vanilla_Mood.md "wikilink")、チェロ担当）2007年度は水曜日、2008年度上期は木曜日担当 - 2007年4月4日 - 2008年9月25日
-  - [敦士](https://ja.wikipedia.org/wiki/敦士_\(ファッションモデル\) "wikilink")\[4\]（モデル）※金曜 - 2007年8月1日 - 2009年3月27日
+  - [Mariko](https://ja.wikipedia.org/wiki/Mariko "wikilink")（[Vanilla Moodリーダー](../Page/Vanilla_Mood.md "wikilink")、チェロ担当）\[5\] - 2007年4月4日 - 2008年9月25日
+  - [敦士](https://ja.wikipedia.org/wiki/敦士_\(ファッションモデル\) "wikilink")\[6\]（モデル）※金曜 - 2007年8月1日 - 2009年3月27日
   - Yui（Vanilla Mood、ヴァイオリン担当）※木曜 - 2008年10月2日 - 2009年3月26日
   - [新保友映](../Page/新保友映.md "wikilink")（当時：ニッポン放送アナウンサー）※木曜 - 2009年4月2日 - 2010年6月24日
   - [前川泰之](../Page/前川泰之.md "wikilink")（俳優、モデル）※最終金曜のみ - 2009年4月24日 - 2010年9月24日
   - [牧野紗弥](../Page/牧野紗弥.md "wikilink")（モデル）※月曜
   - [富永沙織](../Page/富永沙織.md "wikilink")（タレント）※月曜
-  - [ミッツ・マングローブ](https://ja.wikipedia.org/wiki/ミッツ・マングローブ "wikilink")\[5\]（[ドラァグクイーン](https://ja.wikipedia.org/wiki/ドラァグクイーン "wikilink")）※水曜 - 2009年8月19日 - 2012年1月18日
+  - [ミッツ・マングローブ](https://ja.wikipedia.org/wiki/ミッツ・マングローブ "wikilink")\[7\]（[ドラァグクイーン](https://ja.wikipedia.org/wiki/ドラァグクイーン "wikilink")）※水曜 - 2009年8月19日 - 2012年1月18日
 
 #### リポーター
 
@@ -64,7 +64,7 @@ Suono Dolceがリブランドされる前のインターネットラジオステ
 <!-- end list -->
 
   -
-    18時台に放送。同局運営企業である、ニッポン放送報道部所属のニュースデスク若しくニッポン放送アナウンサーが、[産経デジタル](https://ja.wikipedia.org/wiki/産経デジタル "wikilink")のWebサービスである[ブログ](../Page/ブログ.md "wikilink")「iza」から引用したその日のニュースを紹介する\[6\]。
+    18時台に放送。同局運営企業である、ニッポン放送報道部所属のニュースデスク若しくニッポン放送アナウンサーが、[産経デジタル](https://ja.wikipedia.org/wiki/産経デジタル "wikilink")のWebサービスである[ブログ](../Page/ブログ.md "wikilink")「iza」から引用したその日のニュースを紹介する\[8\]。
 
 <!-- end list -->
 
@@ -177,7 +177,9 @@ Suono Dolceがリブランドされる前のインターネットラジオステ
 
 ## 脚注
 
-<references />
+### 注釈
+
+### 出典
 
 ## 関連項目
 
@@ -186,11 +188,14 @@ Suono Dolceがリブランドされる前のインターネットラジオステ
 
 ## 外部リンク
 
+  -
 [Category:日本のインターネットラジオ番組](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ番組 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:ニッポン放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のラジオ番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
 
-1.  2008年3月迄は木曜に出演
-2.  2008年3月迄は金曜、2010年6月迄は水曜に出演
-3.  2010年9月迄、金曜最終週以外に出演
-4.  2008年3月迄は火曜に出演
-5.  2010年10月から2011年3月迄、運営企業である[ニッポン放送](../Page/ニッポン放送.md "wikilink")のAM地上波にてナイターオフの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")であった『[飯田浩司の「声だしていこー。」](https://ja.wikipedia.org/wiki/飯田浩司の「声だしていこー。」 "wikilink")』に生出演し、放送中に中座扱いで当該番組に出演していた
-6.  但し、ニッポン放送報道部が地上波ラジオ番組で記事引用するのは加盟している[共同通信](https://ja.wikipedia.org/wiki/共同通信 "wikilink")の配信原稿である
+1.
+2.  2008年3月迄は木曜に出演
+3.  2008年3月迄は金曜、2010年6月迄は水曜に出演
+4.  2010年9月迄、金曜最終週以外に出演
+5.  2007年度は水曜日、2008年度上期は木曜日担当
+6.  2008年3月迄は火曜に出演
+7.  2010年10月から2011年3月迄、運営企業である[ニッポン放送](../Page/ニッポン放送.md "wikilink")のAM地上波にてナイターオフの[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")であった『[飯田浩司の「声だしていこー。」](https://ja.wikipedia.org/wiki/飯田浩司の「声だしていこー。」 "wikilink")』に生出演し、放送中に中座扱いで当該番組に出演していた
+8.  但し、ニッポン放送報道部が地上波ラジオ番組で記事引用するのは加盟している[共同通信](https://ja.wikipedia.org/wiki/共同通信 "wikilink")の配信原稿である

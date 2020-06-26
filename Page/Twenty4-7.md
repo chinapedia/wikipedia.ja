@@ -283,7 +283,7 @@
   - [twenty4-7 MIKA オフィシャルブログ Powered by Ameba](https://ameblo.jp/twenty4-7mika/) - MIKA旧オフィシャルブログ（2010年2月 - 2012年7月）
   - [twenty4-7 Official Blog Powered by アメブロ](https://ameblo.jp/twenty4-7/) - 旧オフィシャルブログ（2007年8月 - 2010年3月）
 
-[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink")
+[Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2012年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2012年に解散した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink")
 
 1.
 2.

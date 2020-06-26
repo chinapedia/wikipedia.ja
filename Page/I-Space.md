@@ -1,7 +1,7 @@
 > この記事は[I-Space](https://ja.wikipedia.org/wiki/I-Space)から翻訳されています。
 
 
-**i-Space**（アイ・スペース）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA)（現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink") (JAXA)）が提唱していた、[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")を利用した宇宙[インフラ構想である](../Page/インフラストラクチャー.md "wikilink")。
+**i-Space**（アイ・スペース）は、[宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink") (NASDA)（現[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink") (JAXA)）が提唱していた、[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")を利用した宇宙[インフラ構想である](../Page/インフラストラクチャー.md "wikilink")。
 
 ## 概要
 
@@ -41,7 +41,7 @@ i-Spaceでは、以下の3種類の衛星を用いて、実用化に向けての
 
   - [e-Japan](https://ja.wikipedia.org/wiki/e-Japan "wikilink")
   - [宇宙開発事業団](../Page/宇宙開発事業団.md "wikilink")(NASDA)
-  - [宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")(JAXA)
+  - [宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")(JAXA)
       - [きく8号](../Page/きく8号.md "wikilink")(ETS-VIII)
       - [きずな](../Page/きずな_\(人工衛星\).md "wikilink")(WINDS)
       - [準天頂衛星システム](https://ja.wikipedia.org/wiki/準天頂衛星システム "wikilink")(QZSS)

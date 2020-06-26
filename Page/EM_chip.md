@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")より開始された下り7.2Mbpsサービス対応端末の[D02HW](https://ja.wikipedia.org/wiki/D02HW "wikilink")登場に合わせて、買い増し手続きが整備され、EM chipの差し替えによる利用端末切り替えが可能となった。
+[2007年](../Page/2007年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")より開始された下り7.2Mbpsサービス対応端末の[D02HW](../Page/D02HW.md "wikilink")登場に合わせて、買い増し手続きが整備され、EM chipの差し替えによる利用端末切り替えが可能となった。
 
 なお、従来からのソフトバンクモバイル回線(現在の[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")株式会社における[SoftBankブランドの契約に用いる回線網](../Page/SoftBank_\(携帯電話\).md "wikilink"))を利用する[EMOBILE 4G-S契約に利用する](https://ja.wikipedia.org/wiki/EMOBILE_4G-S "wikilink")[UIMカード](../Page/UIMカード.md "wikilink")は、EMOBILE 4G-S USIMカードとして、区別される。後継となる[ワイモバイル](../Page/ワイモバイル.md "wikilink")(現在は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")株式会社の[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ブランド)では、[2014年](../Page/2014年.md "wikilink")8月時点で特段の名称は明らかになっていない(タイプ1契約のUIMカードはEMOBILE 4G-S USIMカードと同等品(m101)で、タイプ2契約はEM chipと類似した[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")ロゴの入ったUIMカード(m06)となる)。
 

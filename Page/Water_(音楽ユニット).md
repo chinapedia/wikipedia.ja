@@ -602,7 +602,7 @@
 <td><p>8</p></td>
 <td><p><strong>夏の日の1993</strong></p></td>
 <td><p><a href="../Page/松本一起.md" title="wikilink">松本一起</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤健_(作曲家)" title="wikilink">佐藤健</a></p></td>
+<td><p><a href="../Page/佐藤健_(作曲家).md" title="wikilink">佐藤健</a></p></td>
 <td><p>石井徳一</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/class_(音楽グループ)" title="wikilink">class</a>「<a href="../Page/夏の日の1993.md" title="wikilink">夏の日の1993</a>」のカバー。</p></td>
 </tr>

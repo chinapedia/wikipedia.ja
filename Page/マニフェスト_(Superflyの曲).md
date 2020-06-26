@@ -42,9 +42,7 @@
   - 『[Superfly BEST](https://ja.wikipedia.org/wiki/Superfly_BEST "wikilink")』（\#1、Disc1）
   - 『[黒い雫 & Coupling Songs: 'Side B'](https://ja.wikipedia.org/wiki/黒い雫_&_Coupling_Songs:_'Side_B' "wikilink")』（\#2、Disc2）
   - 『[Wildflower & Cover Songs:Complete Best 'TRACK 3'](https://ja.wikipedia.org/wiki/Wildflower_&_Cover_Songs:Complete_Best_'TRACK_3' "wikilink")』（\#3、Disc2）
-  - 『[Superfly 10th Anniversary Greatest Hits “LOVE, PEACE & FIRE”](https://ja.wikipedia.org/wiki/Superfly_10th_Anniversary_Greatest_Hits_“LOVE,_PEACE_&_FIRE” "wikilink")』 （\#1、Disc3
-
-2、Disc1）
+  - 『[Superfly 10th Anniversary Greatest Hits “LOVE, PEACE & FIRE”](https://ja.wikipedia.org/wiki/Superfly_10th_Anniversary_Greatest_Hits_“LOVE,_PEACE_&_FIRE” "wikilink")』 （\#1、Disc3 \#2、Disc1）
 
 ## 外部リンク
 

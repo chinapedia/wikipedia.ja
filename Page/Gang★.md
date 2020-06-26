@@ -7,7 +7,7 @@
 
 15thシングル「[桜坂](https://ja.wikipedia.org/wiki/桜坂 "wikilink")」以来の水曜日の発売となった。
 
-前作「[HEY\!](https://ja.wikipedia.org/wiki/HEY!_\(福山雅治の曲\) "wikilink")」からおよそ5ヶ月半で発売された。8thアルバム『[f](https://ja.wikipedia.org/wiki/f_\(福山雅治のアルバム\) "wikilink")』からの先行シングル。
+前作「[HEY\!](../Page/HEY!_\(福山雅治の曲\).md "wikilink")」からおよそ5ヶ月半で発売された。8thアルバム『[f](https://ja.wikipedia.org/wiki/f_\(福山雅治のアルバム\) "wikilink")』からの先行シングル。
 
 [WOWOW](../Page/WOWOW.md "wikilink") スプリングキャンペーンソングに起用された。福山も[CMに出演し](https://ja.wikipedia.org/wiki/コマーシャル "wikilink")、香港の人気女優[ケリー・チャンと共演した](../Page/陳慧琳.md "wikilink")。
 

@@ -125,7 +125,7 @@
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")・編曲
-  - [徳永暁人](../Page/徳永暁人.md "wikilink")（from [doa](https://ja.wikipedia.org/wiki/doa "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#7）、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#12.14）、編曲（\#10.16）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（from [doa](https://ja.wikipedia.org/wiki/doa_\(バンド\) "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（\#7）、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#12.14）、編曲（\#10.16）
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")：編曲（\#3.4.7.15.17）
   - [寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")：編曲（\#1-6.8-15.17）
   - ジェレミー・コルソン：[ドラム](../Page/ドラムセット.md "wikilink")（\#1.3-6.8.10-12.15）

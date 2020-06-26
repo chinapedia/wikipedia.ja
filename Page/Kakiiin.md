@@ -23,7 +23,7 @@
 
 レイティング時（偶数月）などには特別企画を放送することがあり、過去には放送禁止とされてきた楽曲を含めた「エロソング」特集を3時間放送したり、CMなどを可能な限り無くし、有名DJによりノンストップDJプレイを放送するといった、過激な企画を実施することがある。2009年ナイターオフ（シーズン3）のクリスマス企画では、飛行船ツェッペリンNT号より全編生放送を実施。リクエストを募集し、送り手のリスナー宅の上空まで飛行船で移動し、楽曲をオンエアーするなどの企画を放送したことがある。
 
-かつての各年度後半、つまりナイターオフシーズンには20時台が[JRN系列局へ全国ネットされていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。その上で、日によってTBSとネット局で放送内容が異なる場合もあった。
+かつての各年度後半、つまりナイターオフシーズンには20時台が[JRN系列局へ全国ネットされていた](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")。その上で、日によってTBSとネット局で放送内容が異なる場合もあった。
 
 ### 番組名の由来
 
@@ -42,7 +42,7 @@
   - 2011年6月27日をもって、放送時間短縮の影響によりスポーツ情報のコーナー「エキサイトスポーツ」を廃止。
   - 2011年10月以降も月曜のみ、かつ関東ローカルでの放送となり（シーズン5）、番組タイトルの放送開始時の由来からは逸脱してしまう。リスナー向けには同年8月のレイティング対象日に発表。
   - 2012年9月24日をもって、さらなる放送時間短縮により「Music Creators」コーナー終了（シーズン6以降）。
-  - 2013年8月18日、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内サカスステージで番組イベント「KOMADA SONIC」を開催（2014年3月15日に第2回）。
+  - 2013年8月18日、[赤坂サカス](../Page/赤坂サカス.md "wikilink")内サカスステージで番組イベント「KOMADA SONIC」を開催（2014年3月15日に第2回）。
   - 2014年12月24日、東京青山・[草月ホール](https://ja.wikipedia.org/wiki/草月ホール "wikilink")にて、番組主催の有料音楽ライブ「LIVE Kakiiin vol.1\~acoustic eve\~」開催。
   - 2015年2月27日、東京渋谷・[TSUTAYA O-Crestにて](../Page/Shibuya_O-EAST.md "wikilink")、「LIVE Kakiiin vol.2」開催。
   - 2015年3月20日、TSUTAYA O-Crestにて、「LIVE Kakiiin vol.3～秘密の選曲会議～」開催。番組最後のイベントとなる。
@@ -53,7 +53,7 @@
 
 ### 2011年3月中・下旬（シーズン4）の特別態勢
 
-[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）が発生した2011年3月11日放送分は、当日出演予定だった[初田啓介](../Page/初田啓介.md "wikilink")に代わり番組OBの[安東弘樹](../Page/安東弘樹.md "wikilink")が担当した。当日の初田は[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのプロ野球オープン戦「[横浜vs](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink").[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の取材中の大地震に遭い、番組の開始時間までに東京・赤坂のTBSに戻ることができなかったという（18日の放送で初田本人が発言）。TBSラジオ向けに安東が震災に伴う非常放送を実施していたのに対し、20時台のネット局（少なくとも[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")を除く）は初田が出演した通常内容の録音放送だった。
+[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")（[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）が発生した2011年3月11日放送分は、当日出演予定だった[初田啓介](../Page/初田啓介.md "wikilink")に代わり番組OBの[安東弘樹](../Page/安東弘樹.md "wikilink")が担当した。当日の初田は[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")でのプロ野球オープン戦「[横浜vs](../Page/横浜DeNAベイスターズ.md "wikilink").[ヤクルト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")」の取材中の大地震に遭い、番組の開始時間までに東京・赤坂のTBSに戻ることができなかったという（18日の放送で初田本人が発言）。TBSラジオ向けに安東が震災に伴う非常放送を実施していたのに対し、20時台のネット局（少なくとも[東北放送](../Page/東北放送.md "wikilink")・[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")を除く）は初田が出演した通常内容の録音放送だった。
 
 緊急事態を受けて20時台の「カキーンレジェンド」は当初アナウンサーのみの進行の予定だったが、「声だけでも被災地の方々に届けたい」という[槇原敬之](../Page/槇原敬之.md "wikilink")の意向で16日以降は通常態勢となる（ただし各コーナーは18日まで全て自粛）。また、しばらくの間はニュースの時間を増やして各種情報を提供したほか、TBSラジオの送信所がある[埼玉県](../Page/埼玉県.md "wikilink")[戸田市](../Page/戸田市.md "wikilink")がいわゆる「計画停電」の対象地域だったため、送信所の電源切り替えの告知が放送されることもあった。
 
@@ -493,7 +493,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>(ABS)</p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>(ABS)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -525,7 +525,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>(KNB)</p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>(KNB)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -590,7 +590,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山陽放送ラジオ" title="wikilink">山陽放送</a>(RSK)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RSKラジオ" title="wikilink">山陽放送</a>(RSK)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
@@ -639,7 +639,7 @@
 <tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a><br />
 <a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>(NBC)</p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>(NBC)</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>

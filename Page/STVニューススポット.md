@@ -18,7 +18,7 @@ STVアナウンサーが日替わりで担当。『[news zero](https://ja.wikipe
 ## 関連項目
 
   - [NNNニューススポット](../Page/NNNニューススポット.md "wikilink")
-  - [STVニュース](../Page/STVニュース.md "wikilink") - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")のニュース番組。
+  - [STVニュース](../Page/STVニュース.md "wikilink") - [STVラジオ](../Page/STVラジオ.md "wikilink")のニュース番組。
 
 ## 外部リンク
 

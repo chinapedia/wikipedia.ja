@@ -8,7 +8,7 @@
 ## 来歴
 
   - 名前の由来は、本名の「一人」を縦書きで書いたものを[カタカナ](https://ja.wikipedia.org/wiki/カタカナ "wikilink")の「ス」と読み違えられたことから。
-  - 姉が[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")・[中居正広](../Page/中居正広.md "wikilink")と小・中学校時代の同級生。SMAP×SMAPにRIP SLYMEが出演した際、SU本人とも学生時代から知り合いだったと中居が語った。中居司会の「[中居正広の7番勝負\!超一流アスリートVS芸能人どっちが勝つの?SP](https://ja.wikipedia.org/wiki/中居正広の7番勝負!超一流アスリートVS芸能人どっちが勝つの?SP "wikilink")」や「[ナカイの窓](https://ja.wikipedia.org/wiki/ナカイの窓 "wikilink")」にも何度も出演。
+  - 姉が[SMAP](../Page/SMAP.md "wikilink")・[中居正広](../Page/中居正広.md "wikilink")と小・中学校時代の同級生。SMAP×SMAPにRIP SLYMEが出演した際、SU本人とも学生時代から知り合いだったと中居が語った。中居司会の「[中居正広の7番勝負\!超一流アスリートVS芸能人どっちが勝つの?SP](https://ja.wikipedia.org/wiki/中居正広の7番勝負!超一流アスリートVS芸能人どっちが勝つの?SP "wikilink")」や「[ナカイの窓](https://ja.wikipedia.org/wiki/ナカイの窓 "wikilink")」にも何度も出演。
   - RIP SLYME加入前には[DJ FUMIYAの実兄TAKEなどと共に](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")**MELLOW DOWN**というダンスグループを結成しており、[EAST ENDのバックダンサーを務めていた](../Page/EAST_END.md "wikilink")。[EAST END×YURIが](../Page/EAST_END×YURI.md "wikilink")[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に出場した際、バックでダンスを披露していた。またEAST END×YURIのPVにも何度も出演した。
   - MELLOW DOWNはEAST END活動休止後にSUやDJ FUMIYAが中心となりラップグループとしても活動を始めたが、DJ FUMIYAのRIP SLYME加入や他メンバーの脱退もあり解散し、SU自身も1998年にRIP SLYMEにMCとして加入した。
   - 「スーマン」という名前の[チワワ](../Page/チワワ.md "wikilink")を飼っている。「STEPPER'S DELIGHT」のPVと「ONE」のCD盤に登場している。

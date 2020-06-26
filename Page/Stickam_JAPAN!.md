@@ -140,22 +140,11 @@ __TOC__{{-}}
 
 ## 外部リンク
 
-  - [Stickam JAPAN\! 公式ホームページ](http://www.stickam.jp/)
+  - [Stickam JAPAN\!（スティッカム）](https://www.stickam.jp/)
 
-  - [株式会社 E-Times Technologies](http://www.etimestech.jp/)
-
-  - [Stickam USA](http://www.stickam.com/)
-
-  - [Stickam China](http://www.stickam.cn/)
-
-  - [Advanced Video Communications, Inc.](http://www.advancedvideocommunications.com/)
-
-  - [各種APIの提供](http://labs.stickam.jp/)
+  - [株式会社E-Times Technologies](https://www.etimestech.jp/)
 
   -
-
-  -
-
 [Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink")
 
 1.  [【Stickam】音楽WEEKについて](http://webmaster.stickam.jp/archives/2007/03/stickamweek.html) Stickam JAPAN\! スタッフブログ 2007年3月14日

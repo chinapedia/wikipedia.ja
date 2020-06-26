@@ -31,7 +31,7 @@
     3R終了 判定2-1
   - 第7試合 PRIDEルール 1R10分、2・3R5分
     ○  [ミルコ・クロコップ](../Page/ミルコ・クロコップ.md "wikilink") vs.  [ロン・ウォーターマン](../Page/ロン・ウォーターマン.md "wikilink") ×
-    1R 4:37 KO（[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")）
+    1R 4:37 KO（[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")）
 
 ## 関連項目
 

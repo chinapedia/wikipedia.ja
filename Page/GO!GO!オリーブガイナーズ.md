@@ -35,7 +35,7 @@
   - 4月26日 対徳島戦
   - 4月28日 対[長崎戦](../Page/長崎セインツ.md "wikilink")
   - 5月31日 対徳島戦
-  - 6月21日 対[福岡戦](https://ja.wikipedia.org/wiki/福岡レッドワーブラーズ "wikilink")
+  - 6月21日 対[福岡戦](../Page/福岡レッドワーブラーズ.md "wikilink")
   - 8月8日 対愛媛戦
 
 ## 実況
@@ -48,6 +48,6 @@
 ## 関連項目
 
   - [RNCビッグナイター](../Page/RNCビッグナイター.md "wikilink")
-  - [GO\!GO\!ガイナーズ](https://ja.wikipedia.org/wiki/GO!GO!ガイナーズ "wikilink") - [岡山放送](../Page/岡山放送.md "wikilink")（OHK）テレビの応援番組（すでに終了）。
+  - [GO\!GO\!ガイナーズ](../Page/GO!GO!ガイナーズ.md "wikilink") - [岡山放送](../Page/岡山放送.md "wikilink")（OHK）テレビの応援番組（すでに終了）。
 
 [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:西日本放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:西日本放送のラジオ番組 "wikilink") [Category:香川オリーブガイナーズ](https://ja.wikipedia.org/wiki/Category:香川オリーブガイナーズ "wikilink")

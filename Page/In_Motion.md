@@ -26,4 +26,6 @@
   - [KING OF PSYBORG ROCK STAR](../Page/KING_OF_PSYBORG_ROCK_STAR.md "wikilink") (\#2)
   - [We Love hide 〜The Best in The World〜](https://ja.wikipedia.org/wiki/We_Love_hide_〜The_Best_in_The_World〜 "wikilink") (\#1)
 
+## 脚注
+
 [Category:Hideの楽曲](https://ja.wikipedia.org/wiki/Category:Hideの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:hideが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hideが制作した楽曲 "wikilink") [Category:日立_世界・ふしぎ発見\!](https://ja.wikipedia.org/wiki/Category:日立_世界・ふしぎ発見! "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

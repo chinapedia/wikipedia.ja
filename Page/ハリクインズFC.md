@@ -52,9 +52,9 @@
 </ul>
 <p><strong>ロック</strong></p>
 <ul>
-<li><p><strong><a href="https://ja.wikipedia.org/wiki/テヴィタ・ザヴンバティ" title="wikilink">テヴィタ・ザヴンバティ</a></strong></p></li>
+<li><p><strong><a href="../Page/テヴィタ・ザヴンバティ.md" title="wikilink">テヴィタ・ザヴンバティ</a></strong></p></li>
 <li><p>Toby Freeman</p></li>
-<li><p><strong><a href="https://ja.wikipedia.org/wiki/ステファン・ルイス" title="wikilink">ステファン・ルイス</a></strong></p></li>
+<li><p><strong><a href="../Page/ステファン・ルイス.md" title="wikilink">ステファン・ルイス</a></strong></p></li>
 <li><p>Matt Symons</p></li>
 <li><p>Glen Young</p></li>
 </ul></td>
@@ -70,7 +70,7 @@
 
 ## 過去の所属選手
 
-  - [ティト・テバルディ](https://ja.wikipedia.org/wiki/ティト・テバルディ "wikilink")(Tito Tebaldi)…イタリア代表36キャップ、現在は[ベネットン・ラグビー](../Page/ベネットン・ラグビー.md "wikilink")に所属。
+  - [ティト・テバルディ](../Page/ティト・テバルディ.md "wikilink")(Tito Tebaldi)…イタリア代表36キャップ、現在は[ベネットン・ラグビー](../Page/ベネットン・ラグビー.md "wikilink")に所属。
 
   - [ニック・メイヒュー](../Page/ニック・メイヒュー.md "wikilink")(Nic Mayhew)…現在は[サンウルブズ](https://ja.wikipedia.org/wiki/サンウルブズ "wikilink")に所属。
 

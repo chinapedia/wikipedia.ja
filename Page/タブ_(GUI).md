@@ -16,4 +16,4 @@
   - [タブブラウザ](../Page/タブブラウザ.md "wikilink")
   - [タブ](../Page/タブ.md "wikilink")
 
-[Category:ウィジェット](https://ja.wikipedia.org/wiki/Category:ウィジェット "wikilink")
+[Category:ウィジェット](https://ja.wikipedia.org/wiki/Category:ウィジェット "wikilink") [Category:ドキュメント・インタフェース](https://ja.wikipedia.org/wiki/Category:ドキュメント・インタフェース "wikilink")

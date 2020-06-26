@@ -3,7 +3,7 @@
 
 『**Odds**』（オッズ）は、[石渡治](../Page/石渡治.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[競輪](../Page/競輪.md "wikilink")をテーマとした漫画のシリーズである。
 
-2006年から『**Odds -オッズ-**』のタイトルで『[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されたが、同誌が2008年7月末で休刊となったため、主人公が競輪学校を終えた時点で本編は「競輪学校編完結」（第1部・完）という形になった（その最終話は『[スピリッツ増刊 YSスペシャル](../Page/週刊ヤングサンデー.md "wikilink")』VOL.1に掲載された）。その後、『YSスペシャル』VOL.2からVOL.5までは読み切りシリーズ『**Odds plus 1**』（**Odds +1**、オッズ プラスワン）が連載された\[1\]。
+2006年から『**Odds -オッズ-**』のタイトルで『[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に連載されたが、同誌が2008年7月末で休刊となったため、主人公が競輪学校を終えた時点で本編は「競輪学校編完結」（第1部・完）という形になった。その最終話は『[スピリッツ増刊 YSスペシャル](../Page/週刊ヤングサンデー.md "wikilink")』VOL.1に掲載され、『YSスペシャル』VOL.2からVOL.5までは読み切りシリーズ『**Odds plus 1**』（**Odds +1**、オッズ プラスワン）が連載された\[1\]。
 
 その後、[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")の『[漫画アクション](https://ja.wikipedia.org/wiki/漫画アクション "wikilink")』へ移籍して再開し、『**Odds GP\!**』（オッズ ジーピー）へ改題して2009年4号（2月3日発売）から2013年24号（12月3日発売）まで連載、さらに『**Odds VERSUS\!**』（**Odds VS\!**、オッズ バーサス）へ改題して2014年2号（1月7日発売）から引き続いて連載されている。
 
@@ -116,7 +116,7 @@
   - [Odds -オッズ- 登場人物紹介](http://keirin.jp/pc/dfw/portal/guest/Odds/character.html)
   - [Odds -オッズ- 毎号のあらすじ](http://keirin.jp/pc/dfw/portal/guest/Odds/odds.html)
 
-[Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:自転車を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:自転車を題材にした漫画作品 "wikilink") [Category:競輪を題材とした作品](https://ja.wikipedia.org/wiki/Category:競輪を題材とした作品 "wikilink") [Category:石渡治](https://ja.wikipedia.org/wiki/Category:石渡治 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:漫画作品_お](https://ja.wikipedia.org/wiki/Category:漫画作品_お "wikilink") [Category:週刊ヤングサンデー](https://ja.wikipedia.org/wiki/Category:週刊ヤングサンデー "wikilink") [Category:自転車を題材にした漫画作品](https://ja.wikipedia.org/wiki/Category:自転車を題材にした漫画作品 "wikilink") [Category:競輪を題材とした作品](https://ja.wikipedia.org/wiki/Category:競輪を題材とした作品 "wikilink") [Category:石渡治](https://ja.wikipedia.org/wiki/Category:石渡治 "wikilink") [Category:漫画のシリーズ](https://ja.wikipedia.org/wiki/Category:漫画のシリーズ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  [ヤングサンデー連載作品の今後についてのお知らせ](http://www.youngsunday.com/sakuhin.html)
 2.  石渡治『Odds GP\! 3』（双葉社、2010年）収録「その男、危険につき」

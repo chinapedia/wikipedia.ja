@@ -80,13 +80,13 @@
 
   - 9月14日(土)、「amiinA presents "Odyssey -mia-"」に出演。(青山 月見ル君想フ)
   - 9月15日(日)、昼「ハミシスの、トークくらいはテキトーに。」に内山結愛がソロでゲスト出演。（ROCK CAFE LOFT）、夜『染脳ミーム1周年記念公演「新型感染初期」』に出演。（渋谷 O-nest）
-  - 9月21日(土)、昼「すみれ せぷてんばー生誕祭 〜女は十歳で天使 十五歳で聖者 四十歳で悪魔 八十歳で魔女〜」(渋谷 DESEO mini)、夜「[吉田豪×南波一海の"このアイドルが見たい"](https://ja.wikipedia.org/wiki/吉田豪×南波一海の"このアイドルが見たい" "wikilink") 2019秋鰹」(渋谷 LOFT 9)に出演。
+  - 9月21日(土)、昼「すみれ せぷてんばー生誕祭 〜女は十歳で天使 十五歳で聖者 四十歳で悪魔 八十歳で魔女〜」(渋谷 DESEO mini)、夜「[吉田豪×南波一海の"このアイドルが見たい"](../Page/吉田豪×南波一海の"このアイドルが見たい".md "wikilink") 2019秋鰹」(渋谷 LOFT 9)に出演。
   - 9月22日(日)、主催イベント「PREDAWN vol.5」を開催。Ringo Deathstarr 楽曲提供となるオリジナル楽曲「Meteor」初披露。(渋谷 Milkyway)
   - 9月23日(月)、「大塚Hearts+ 7th anniversary「Bravo\!\! Bravo\!\! vol.1」に出演。(大塚Hearts+、大塚Hearts Next)
   - 9月28日(土)、主催イベント「白川さやか生誕祭+RAY長めライブ」を開催。(原宿 STROBE CAFE) 白川さやか生誕パートではcollectionsのクラウドファンディングにて支援達成した「キラキラなアイドルソングを歌いたい（タイトル未定）」を初披露。ライヴ後のMCにて白川さやかが高校受験に専念する為、2019年11月6日〜2020年3月頃までの期間、活動休止することが発表された。
   - 9月28日(土)、甲斐莉乃の個展『403 Forbidden』が開催。詳細はcollections該当欄を参照。 (Ohshima Fine Art)
   - 9月29日(日)、内山結愛が「Total Feedback」にてDJ出演。(KOENJI HIGH メインフロア)
-  - 10月3日(木)、雨宮未來([NaNoMoRaL](https://ja.wikipedia.org/wiki/NaNoMoRaL "wikilink"))主催「にこにこどーなつ vol.01」に出演。(下北沢 ERA)
+  - 10月3日(木)、雨宮未來([NaNoMoRaL](../Page/NaNoMoRaL.md "wikilink"))主催「にこにこどーなつ vol.01」に出演。(下北沢 ERA)
   - 10月5日(土)、「ギュウ農フェス秋のSP 爆音大収穫祭 road to 2020」に出演。(新木場 STUDIO COAST 野外ステージ)
   - 10月6日(日)、「きみとぼくの革命 presents 革命の続きVol.2」に出演。(新宿 SAMURAI)　 また、10/30(水)に1stシングル『Blue』リリース決定のプレスリリースを発表\[9\]\[10\]。米シューゲイザーバンド[Ringo Deathstarr楽曲提供の](https://ja.wikipedia.org/wiki/リンゴ・デススター "wikilink")「Meteor」をはじめ、管梓(ForTracyHyde)、ハタユウスケ(cruyff in the bedroom)と実力派シューゲイザー・クリエイーターによる「バタフライエフェクト」「世界の終わりは君とふたりで」を含むアイドルソングの新境地を開く３曲を収録。 1st シングルリリースにあたって、自主レーベル「DISTORTED RECORDS」設立と新ビジュアル解禁も合わせて発表された。(レーベルロゴデザイン：甲斐莉乃)
   - 10月11日(金)、甲斐莉乃の初となる個展 『403 Forbidden』が閉幕。 (水道橋 Ohshima Fine Art)
@@ -1742,7 +1742,7 @@
 <tr class="odd">
 <td><p>53</p></td>
 <td><p>2019年9月21日(土)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田豪×南波一海の&quot;このアイドルが見たい&quot;" title="wikilink">吉田豪×南波一海の"このアイドルが見たい"</a> 2019秋鰹</p></td>
+<td><p><a href="../Page/吉田豪×南波一海の&quot;このアイドルが見たい&quot;.md" title="wikilink">吉田豪×南波一海の"このアイドルが見たい"</a> 2019秋鰹</p></td>
 <td><p>LOFT9 Shibuya</p></td>
 <td><p>1. ネモフィラ 2. 世界の終わりは君とふたりで</p>
 <p>3. バタフライエフェクト</p></td>

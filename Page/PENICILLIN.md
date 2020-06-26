@@ -116,7 +116,7 @@ east west japan（現[ワーナーミュージック・ジャパン](../Page/ワ
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、音楽番組などメディアへの露出が増え始める。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月、テレビアニメ『[セクシーコマンドー外伝 すごいよ\!\!マサルさん](https://ja.wikipedia.org/wiki/セクシーコマンドー外伝_すごいよ!!マサルさん "wikilink")』のオープニングテーマ「[ロマンス](../Page/ロマンス_\(PENICILLINの曲\).md "wikilink")」を発売し、90万枚の売上を記録\[7\]。5月29日〜6月14日「ロックオペラ[ハムレット](../Page/ハムレット.md "wikilink")」に出演。（[ハムレット役](https://ja.wikipedia.org/wiki/ハムレット_\(キャラクター\) "wikilink")：HAKUEI、ホレーシオ役：千聖、レアティーズ役：GISHO、うさぎ役：O-JIRO）
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月、テレビアニメ『[セクシーコマンドー外伝 すごいよ\!\!マサルさん](../Page/セクシーコマンドー外伝_すごいよ!!マサルさん.md "wikilink")』のオープニングテーマ「[ロマンス](../Page/ロマンス_\(PENICILLINの曲\).md "wikilink")」を発売し、90万枚の売上を記録\[7\]。5月29日〜6月14日「ロックオペラ[ハムレット](../Page/ハムレット.md "wikilink")」に出演。（[ハムレット役](https://ja.wikipedia.org/wiki/ハムレット_\(キャラクター\) "wikilink")：HAKUEI、ホレーシオ役：千聖、レアティーズ役：GISHO、うさぎ役：O-JIRO）
 
 [2000年](../Page/2000年.md "wikilink")、韓国にてライブを行なった。
 

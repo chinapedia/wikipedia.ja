@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - 『[嬉々](https://ja.wikipedia.org/wiki/嬉々 "wikilink"){{unicode』
+  - 『[嬉々](../Page/嬉々.md "wikilink"){{unicode』
   - 『[Single Best](https://ja.wikipedia.org/wiki/Single_Best_\(柴咲コウのアルバム\) "wikilink")』
   - 『[KO SHIBASAKI ALL TIME BEST 詩](https://ja.wikipedia.org/wiki/KO_SHIBASAKI_ALL_TIME_BEST#KO_SHIBASAKI_ALL_TIME_BEST_詩 "wikilink")』
 
@@ -34,4 +34,4 @@
   - [柴咲コウ](https://www.universal-music.co.jp/shibasaki-kou/) - ユニバーサルミュージック
   - [KO SHIBASAKI](https://koshibasaki.com) - 柴咲コウ Official Site
 
-[Category:柴咲コウの楽曲](https://ja.wikipedia.org/wiki/Category:柴咲コウの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:恋するハニカミ\!](https://ja.wikipedia.org/wiki/Category:恋するハニカミ! "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:柴咲コウの楽曲](https://ja.wikipedia.org/wiki/Category:柴咲コウの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:恋するハニカミ\!](https://ja.wikipedia.org/wiki/Category:恋するハニカミ! "wikilink") [Category:家を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:家を題材とした楽曲 "wikilink") [Category:テレビ朝日の主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日の主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

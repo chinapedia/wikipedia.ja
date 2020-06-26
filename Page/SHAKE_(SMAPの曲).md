@@ -1,7 +1,7 @@
 > この記事は[SHAKE \(SMAPの曲\)](https://ja.wikipedia.org/wiki/SHAKE_\(SMAPの曲\))から翻訳されています。
 
 
-『**SHAKE**』(シェイク) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
+『**SHAKE**』(シェイク) は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](../Page/SMAP.md "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
 
 ## 概要
 

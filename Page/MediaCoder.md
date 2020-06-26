@@ -8,7 +8,7 @@
   - 対応形式が主流なものからマイナーなものまで非常に多くの形式に対応している。詳細は以下に記載。
   - [エンコード](../Page/エンコード.md "wikilink")機能以外にも[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")の[抽出](../Page/抽出.md "wikilink")、[結合](https://ja.wikipedia.org/wiki/結合 "wikilink")や、[時間](../Page/時間.md "wikilink")、[サイズ](https://ja.wikipedia.org/wiki/サイズ "wikilink")、[フレーム指定の分割などのごく簡単な](../Page/コマ_\(映画・漫画\).md "wikilink")[編集](../Page/編集.md "wikilink")ができる。
   - 詳細な設定、またその保存もできる。ただしアップデート時にこれらの設定は初期状態に戻され保存設定も消えてしまう。
-  - [解像度](../Page/解像度.md "wikilink")の変更、[アスペクト比](../Page/アスペクト比.md "wikilink")変更、[フレームレート](../Page/フレームレート.md "wikilink")変更、[字幕](../Page/字幕.md "wikilink")合成、[色調](https://ja.wikipedia.org/wiki/色調 "wikilink")補正、画質補正、音ズレ補正などエンコード以外でも機能が充実している。
+  - [解像度](../Page/解像度.md "wikilink")の変更、[アスペクト比](../Page/アスペクト比.md "wikilink")変更、[フレームレート](../Page/フレームレート.md "wikilink")変更、[字幕](../Page/字幕.md "wikilink")合成、[色調](../Page/色調.md "wikilink")補正、画質補正、音ズレ補正などエンコード以外でも機能が充実している。
 
 ## 対応形式
 

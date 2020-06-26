@@ -52,7 +52,7 @@
   - 愛すべき女・女たち *Le Plus vieux métier du monde* オムニバス映画 [1967年](../Page/1967年.md "wikilink") (ノンクレジット)　参加監督[フランコ・インドヴィナ](https://ja.wikipedia.org/wiki/フランコ・インドヴィナ "wikilink")、[マウロ・ボロニーニ](https://ja.wikipedia.org/wiki/マウロ・ボロニーニ "wikilink")、フィリップ・ド・ブロカ、[マイケル・プフグハー](https://ja.wikipedia.org/wiki/マイケル・プフグハー "wikilink")、[クロード・オータン＝ララ](../Page/クロード・オータン＝ララ.md "wikilink")、ジャン＝リュック・ゴダール
   - [中国女](https://ja.wikipedia.org/wiki/中国女_\(映画\) "wikilink") *La Chinoise* [1967年](../Page/1967年.md "wikilink") 　監督ジャン＝リュック・ゴダール
   - ベトナムから遠く離れて *Loin du Vietnam* オムニバス映画 [1967年](../Page/1967年.md "wikilink") (ノンクレジット)　参加監督 アラン・レネ、[ウィリアム・クライン](../Page/ウィリアム・クライン.md "wikilink")、[ヨリス・イヴェンス](../Page/ヨリス・イヴェンス.md "wikilink")、[アニエス・ヴァルダ](../Page/アニエス・ヴァルダ.md "wikilink")、[クロード・ルルーシュ](../Page/クロード・ルルーシュ.md "wikilink")、ジャン＝リュック・ゴダール
-  - 愛と怒り *Amore e rabbia* オムニバス映画 [1967年](../Page/1967年.md "wikilink") (ノンクレジット)　参加監督監督[マルコ・ベロッキオ](../Page/マルコ・ベロッキオ.md "wikilink")、[ベルナルド・ベルトルッチ](../Page/ベルナルド・ベルトルッチ.md "wikilink")、ジャン＝リュック・ゴダール、[カルロ・リッツァーニ](https://ja.wikipedia.org/wiki/カルロ・リッツァーニ "wikilink")、ピエル・パオロ・パゾリーニ
+  - 愛と怒り *Amore e rabbia* オムニバス映画 [1967年](../Page/1967年.md "wikilink") (ノンクレジット)　参加監督監督[マルコ・ベロッキオ](../Page/マルコ・ベロッキオ.md "wikilink")、[ベルナルド・ベルトルッチ](../Page/ベルナルド・ベルトルッチ.md "wikilink")、ジャン＝リュック・ゴダール、[カルロ・リッツァーニ](../Page/カルロ・リッツァーニ.md "wikilink")、ピエル・パオロ・パゾリーニ
   - *Juliette et Juliette* [1974年](../Page/1974年.md "wikilink") 　監督[レモ・フォルラーニ](https://ja.wikipedia.org/wiki/レモ・フォルラーニ "wikilink")
 
 ## 外部リンク

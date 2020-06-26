@@ -12,6 +12,8 @@
   - 「10 years」は[大江千里が](../Page/大江千里_\(アーティスト\).md "wikilink")[2003年](../Page/2003年.md "wikilink")にリリースしたアルバム『[home at last〜Senri Sings Senri〜](https://ja.wikipedia.org/wiki/home_at_last〜Senri_Sings_Senri〜 "wikilink")』にて[セルフカバー](../Page/セルフカバー.md "wikilink")している。
   - 発売から30周年を記念して、[2018年](../Page/2018年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に『**ribbon -30th Anniversary Edition-**』と題してリリースされた。
 
+{{-}}
+
 ## 収録曲
 
   - （特記以外）作詞：渡辺美里
@@ -149,7 +151,7 @@
 
   - Electronics : 清水信之
 
-**[悲しいね](https://ja.wikipedia.org/wiki/悲しいね "wikilink") (Remix Version)**
+**[悲しいね](../Page/悲しいね.md "wikilink") (Remix Version)**
 
   - Synthesizer : [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
   - Manipulator : 迫田到

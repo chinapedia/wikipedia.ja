@@ -1,7 +1,7 @@
 > この記事は[SUZUKI Inside Story](https://ja.wikipedia.org/wiki/SUZUKI_Inside_Story)から翻訳されています。
 
 
-**SUZUKI INSIDE STORY**（スズキ・インサイドストーリー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")2007年10月1日から2009年3月31日まで[JFN](../Page/全国FM放送協議会.md "wikilink")35局で放送されていたラジオ番組。[SUZUKI一社提供](../Page/スズキ_\(企業\).md "wikilink")。
+**SUZUKI INSIDE STORY**（スズキ・インサイドストーリー）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに](../Page/キー局.md "wikilink")2007年10月1日から2009年3月31日まで[JFN](../Page/全国FM放送協議会.md "wikilink")35局で放送されていたラジオ番組。[SUZUKI一社提供](../Page/スズキ_\(企業\).md "wikilink")。
 
 ## 放送時間
 

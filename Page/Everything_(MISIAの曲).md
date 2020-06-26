@@ -1,7 +1,7 @@
 > この記事は[Everything \(MISIAの曲\)](https://ja.wikipedia.org/wiki/Everything_\(MISIAの曲\))から翻訳されています。
 
 
-「**Everything**」（エヴリシング）は、[2000年](../Page/2000年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")にレンタル開始。
+「**Everything**」（エヴリシング）は、[2000年](../Page/2000年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。2000年代の女性アーティストのシングルとしては最大の売上を記録。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 シングルでは自身初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。その後3週連続1位を獲得した後、返り咲きで通算4週1位を獲得した。公称出荷ベースでは200万枚を超えた\[1\]。シングルでは自身唯一の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となっている。また、オリコンの年間シングルチャートでは集計期間の関係上、2000年には年間14位、2001年に年間12位を記録している（当時の同チャートは前年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")～当該年[11月](../Page/11月.md "wikilink")までの集計であったため）。
 
-現在までのところ、2000年代の女性アーティストのシングルとしては最大の売上を記録しており、男性アーティストを含めても「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")）、「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink"))、「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")）に次ぎ、4位である。また、[20世紀](../Page/20世紀.md "wikilink")中に達成された最後のミリオンセラー曲である\[2\]。
+現在までのところ、2000年代の女性アーティストのシングルとしては最大の売上を記録しており、男性アーティストを含めても「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")）、「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」（[SMAP](../Page/SMAP.md "wikilink"))、「[桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")」（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")）に次ぎ、4位である。また、[20世紀](../Page/20世紀.md "wikilink")中に達成された最後のミリオンセラー曲である\[2\]。
 
 翌[2001年](../Page/2001年.md "wikilink")には[DREAMS COME TRUEとのコラボレーションシングルを発売するも](../Page/DREAMS_COME_TRUE.md "wikilink")、単独名義では本作のリミックスシングルとなる『Everything [JUNIOR](https://ja.wikipedia.org/wiki/ジュニア・ヴァスケス "wikilink")＋[GOMI](https://ja.wikipedia.org/wiki/DJ_GOMI "wikilink") REMIX』のみの発売となった。オリジナルシングルは[2002年](../Page/2002年.md "wikilink")の「[果てなく続くストーリー](https://ja.wikipedia.org/wiki/果てなく続くストーリー "wikilink")」まで約1年3ヶ月空くこととなる（この間レコード会社を移籍している）。この年、シングルは発売されなかったものの、タイトル曲が収録された[アルバム](../Page/アルバム.md "wikilink")『MARVELOUS』もオリコン集計で約170万枚を売り上げるヒットとなった。
 

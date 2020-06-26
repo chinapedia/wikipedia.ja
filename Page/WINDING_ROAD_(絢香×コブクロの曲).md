@@ -36,7 +36,7 @@
   - 「[Sing to the Sky](../Page/Sing_to_the_Sky.md "wikilink")」（\#1）
   - 「[ayaka's History 2006-2009](https://ja.wikipedia.org/wiki/ayaka's_History_2006-2009 "wikilink")」（\#1・Disc1）
   - 「[ALL SINGLES BEST 2](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_2 "wikilink")」（\#1・DISC1）
-  - 「[ALL TIME BEST 1998-2018](https://ja.wikipedia.org/wiki/ALL_TIME_BEST_1998-2018 "wikilink")」（\#4）
+  - 「[ALL TIME BEST 1998-2018](https://ja.wikipedia.org/wiki/ALL_TIME_BEST_1998-2018 "wikilink")」（\#13・DISC4）
 
 ## カバー
 

@@ -1,7 +1,7 @@
 > この記事は[Buono!](https://ja.wikipedia.org/wiki/Buono!)から翻訳されています。
 
 
-（ボーノ）は、かつて[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")に所属していた[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。
+（ボーノ）は、かつて[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")に所属していた[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である(但し、メンバーの口から、解散、活動停止といった言葉は出ていない)。
 
 ## 概要
 
@@ -139,13 +139,21 @@
   - 2月2日、「Buono\! ライブ 2017 〜Pienezza\!〜」 FC先行受付のお知らせを発表した\[34\]。
   - 5月15日、国内30箇所と、香港、台湾の計32箇所での、「Buono\! ライブ 2017 〜Pienezza\!〜」ライブ・ビューングの決定が発表された\[35\]。
   - 5月19日、ニコニコ生放送で「Buono\! ライブ 2017 〜Pienezza\!〜」独占生中継が決定した\[36\]。
-  - 5月22日、横浜アリーナにおいて「Buono\! ライブ 2017 〜Pienezza\!〜」\[37\]を単独で開催し、1万5000人を動員、新聞等のマスコミはラストライブとして報じた\[38\]。
+  - 5月22日、横浜アリーナにおいて「Buono\! ライブ 2017 〜Pienezza\!〜」を単独で開催し、1万5000人を動員、新聞等のマスコミはラストライブとして報じた\[37\]。
 
 **2020年**
 
-  - 5月15日、YouTubeのBuono\!チャンネルにおいて、3年前、横浜アリーナで開演した同日同時刻である5月22日18:00から「【期間限定】「Buono\!ライブ2017 ～Pienezza！～」を公開する。
+  - 5月15日、YouTubeのBuono\!チャンネルにおいて、3年前、横浜アリーナで開演した同日同時刻である5月22日18:00から【期間限定】「Buono\!ライブ2017 ～Pienezza！～」を公開する。
 
-それに先立ち、[夏焼雅](../Page/夏焼雅.md "wikilink")は、[PINK CRES.チャンネルで](https://ja.wikipedia.org/wiki/PINK_CRES. "wikilink")「おうちでBuono\! リモートセッション 夏焼雅×eji "消失点-Vanishing Point-”」、[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")は、[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")チャンネルで、「おうちでBuono\! リモートセッション鈴木愛理×eji "OVER THE RAINBOW"」を公開した。 また、当日1時間前17:00から、インスタライブで夏焼雅、鈴木愛理のコラボ配信、ライブ映像プレミア公開中に、「＃おうちでBuono」をつけてリアルタイムでSNS実況、配信後21:30頃から鈴木愛理チャンネルにて“打ち合げ生配信”を行う予定である事もSNS等で伝えられた\[39\]。
+それに先立ち、[夏焼雅](../Page/夏焼雅.md "wikilink")は、[PINK CRES.チャンネルで](https://ja.wikipedia.org/wiki/PINK_CRES. "wikilink")「おうちでBuono\! リモートセッション 夏焼雅×eji "消失点-Vanishing Point-”」、[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")は、[鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")チャンネルで、「おうちでBuono\! リモートセッション鈴木愛理×eji "OVER THE RAINBOW"」を公開した。この中で2人は、「元Buono\!の〇〇」ではなく、「Buono\!の〇〇」と発言している。
+
+　当日1時間前17:00から、インスタライブで夏焼雅、鈴木愛理のコラボ配信、ライブ映像プレミア公開中に、「＃おうちでBuono」をつけてリアルタイムでSNS実況、配信後21:30から鈴木愛理チャンネルにて“打ち合げ生配信”を行う予定である事もSNS等で伝えられた\[38\]。
+
+  - 5月22日、ライブ映像プレミア公開中に、3万人以上の視聴、「＃おうちでBuono」がトレンドワード1位となった\[39\]。
+
+また、関連として、[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")、[初恋サイダー](https://ja.wikipedia.org/wiki/初恋サイダー "wikilink")等もトレンド入りした。 告知通りインスタライブや、“打ち上げ生配信”が行われ、これに電話出演した夏焼雅より、この後、インスタライブを行う事が発表され、およそ1時間行われた。
+
+  - 5月23日、【期間限定】「Buono\!ライブ2017 ～Pienezza！～」が、YouTubeの急上昇ランク3位となった。
 
 ## 作品
 

@@ -686,7 +686,7 @@ MONSTER BOXでは長谷川誠と大塚光二が当時のプロスポーツマン
 </tr>
 <tr class="even">
 <td><p>第15位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/石井琢朗" title="wikilink">石井琢朗</a></p></td>
+<td><p><a href="../Page/石井琢朗.md" title="wikilink">石井琢朗</a></p></td>
 <td><p>15</p></td>
 <td><p>プロ野球</p></td>
 <td><p><a href="../Page/横浜DeNAベイスターズ.md" title="wikilink">横浜ベイスターズ</a></p></td>

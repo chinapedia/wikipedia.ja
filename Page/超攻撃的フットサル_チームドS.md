@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    このチームの創始者。監督自身もドSで自然と口調が荒くなる。また、たまに変な[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")を使うので[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")出身の夏目とはいつも衝突している。髪型に特徴があり「漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』の[死神](../Page/死神.md "wikilink")みたいな頭」と言われた事がある。
+    このチームの創始者。監督自身もドSで自然と口調が荒くなる。また、たまに変な[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")を使うので[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")出身の夏目とはいつも衝突している。髪型に特徴があり「漫画『[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")』の[死神](../Page/死神.md "wikilink")みたいな頭」と言われた事がある。
 
   - [コーチ](../Page/コーチ.md "wikilink")
 

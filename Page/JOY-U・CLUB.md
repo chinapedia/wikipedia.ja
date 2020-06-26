@@ -10,13 +10,15 @@
   - 1996年10月 - 現在：16:00 - 18:55
       - 18:55 - 19:00 はJFMニュース
 
-## パーソナリティー（2019年6月現在）
+## パーソナリティー（2020年6月現在）
 
 2019年6月から、月・火は下舞春希、水・木は岡加依子、金は加藤直が担当。 \[1\]
 
-  - [下舞春希](https://ja.wikipedia.org/wiki/下舞春希 "wikilink")（月：2019年6月3日 - 、火：2019年6月4日 - ）
-  - [岡加依子](https://ja.wikipedia.org/wiki/岡加依子 "wikilink")（水：2006年10月 - 、木：2016年3月 - ） \[2\]
-  - [加藤直](../Page/加藤直.md "wikilink")（金：） \[3\]
+  - [下舞春希](https://ja.wikipedia.org/wiki/下舞春希 "wikilink")（月：2019年6月3日～ )
+  - [鍛治匠](https://ja.wikipedia.org/wiki/鍛治匠 "wikilink")(火:2020年6月2日～)
+  - [岡加依子](https://ja.wikipedia.org/wiki/岡加依子 "wikilink")（水：2006年10月 - ） \[2\]
+  - [楠本加奈](https://ja.wikipedia.org/wiki/楠本加奈 "wikilink")　(木:2020年6月4日～)
+  - [加藤直](../Page/加藤直.md "wikilink")（金：2016年4月） \[3\]
 
 <!-- end list -->
 
@@ -301,7 +303,7 @@
 [Category:エフエム香川の帯番組](https://ja.wikipedia.org/wiki/Category:エフエム香川の帯番組 "wikilink") [Category:1989年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1989年のラジオ番組_\(日本\) "wikilink")
 
 1.  月・火担当の[大熊祐香](https://ja.wikipedia.org/wiki/大熊祐香 "wikilink")が2019年3月で担当から外れたため、4月からそれぞれ担当日が追加になったが、6月から下舞春希が月・火担当になったので3月以前の担当曜日に戻った。
-2.  （担当終了・火：2019年4月2日 - 2019年5月28日）
+2.  （担当終了・火：2019年4月2日 - 2019年5月28日　木:2016年４月～2020年５月）
 3.  （担当終了・月：2019年4月1日 - 2019年5月27日）
 4.  「只今の時報をもちまして、クイズステップステップの受付を終了しました。たくさんのチャレンジ・たくさんのアクセスありがとうございました」などと、その日のDJがコメントするのが恒例となっている。
 5.  [フジグラン十川](http://www.the-fuji.com/store/shop/kagawa/grand_sogawa.html)

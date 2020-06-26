@@ -1276,21 +1276,22 @@ BS日本映画専門チャンネル開局記念と題し、[BSスカパー\!](ht
 
   - フジテレビ
 
-      - [ライアーゲーム シーズン2](http://www.fujitv.co.jp/b_hp/LG2/index.html)
+      - [ライアーゲーム シーズン2](https://www.fujitv.co.jp/b_hp/LG2/index.html)
 
   - フジテレビオンデマンド
 
       - [ライアーゲーム](https://fod.fujitv.co.jp/s/genre/drama/ser4113/)
       - [ライアーゲーム シーズン2](https://fod.fujitv.co.jp/s/genre/drama/ser4138/)
 
-  - [ライアーゲーム -再生-](http://liargame.jp/)
+  -
+  -
+  -
+  -
+  -
 
-  -
-  -
-  -
-  -
+<references />
 
-[Category:フジテレビ系土曜ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ系土曜ドラマ "wikilink") [Category:フジテレビ火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマ "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:サスペンスドラマ](https://ja.wikipedia.org/wiki/Category:サスペンスドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:2009年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2009年のテレビドラマ "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink") [Category:賭博を題材とした作品](https://ja.wikipedia.org/wiki/Category:賭博を題材とした作品 "wikilink") [Category:詐欺を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:詐欺を題材としたテレビドラマ "wikilink")
+[Category:フジテレビ系土曜ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ系土曜ドラマ "wikilink") [Category:フジテレビ火曜9時枠の連続ドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビ火曜9時枠の連続ドラマ "wikilink") [Category:土曜プレミアム](https://ja.wikipedia.org/wiki/Category:土曜プレミアム "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:サスペンスドラマ](https://ja.wikipedia.org/wiki/Category:サスペンスドラマ "wikilink") [Category:2007年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2007年のテレビドラマ "wikilink") [Category:2009年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2009年のテレビドラマ "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink") [Category:賭博を題材とした作品](https://ja.wikipedia.org/wiki/Category:賭博を題材とした作品 "wikilink") [Category:詐欺を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:詐欺を題材としたテレビドラマ "wikilink") [Category:嘘を題材とした作品](https://ja.wikipedia.org/wiki/Category:嘘を題材とした作品 "wikilink")
 
 1.  2009年の放送は14時50分の「ドラマストリートII」で「再放送」扱いでの放送。
 2.  [戸田恵梨香「ライアーゲーム−」W製作発表](http://www.sanspo.com/geino/news/090423/gnj0904230502008-n1.htm)

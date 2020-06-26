@@ -15,7 +15,7 @@
 
 ### パーソナリティ
 
-  - [新垣里沙](../Page/新垣里沙.md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）
+  - [新垣里沙](../Page/新垣里沙.md "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）
   - [亀井絵里](../Page/亀井絵里.md "wikilink")（モーニング娘。）
 
 ### ゲスト

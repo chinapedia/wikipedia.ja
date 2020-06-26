@@ -124,7 +124,7 @@
 <td><p>山崎将義</p></td>
 </tr>
 <tr class="even">
-<td><p>20thシングルの別ヴァージョン。<a href="https://ja.wikipedia.org/wiki/ショウゲート" title="wikilink">東芝エンタテインメント配給映画</a>『<a href="https://ja.wikipedia.org/wiki/8月のクリスマス" title="wikilink">8月のクリスマス</a>』主題歌別バージョン。</p></td>
+<td><p>20thシングルの別ヴァージョン。<a href="https://ja.wikipedia.org/wiki/ショウゲート" title="wikilink">東芝エンタテインメント配給映画</a>『<a href="../Page/8月のクリスマス.md" title="wikilink">8月のクリスマス</a>』主題歌別バージョン。</p></td>
 <td></td>
 <td></td>
 <td></td>

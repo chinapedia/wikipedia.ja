@@ -50,7 +50,7 @@
 | --------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------- |
 | **[1970年](../Page/1970年.md "wikilink")**                        |                                                        |                                                           |                                        |                                                                       |
 | [ばくはつ五郎](../Page/ばくはつ大将.md "wikilink")                          | [TBS](../Page/TBSテレビ.md "wikilink")                    | ◇                                                         | [4月3日](../Page/4月3日.md "wikilink")     |                                                                       |
-| [キックの鬼](https://ja.wikipedia.org/wiki/キックの鬼 "wikilink")         |                                                        | [10月2日](../Page/10月2日.md "wikilink")                      |                                        |                                                                       |
+| [キックの鬼](../Page/キックの鬼.md "wikilink")                            |                                                        | [10月2日](../Page/10月2日.md "wikilink")                      |                                        |                                                                       |
 | **[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")**     |                                                        |                                                           |                                        |                                                                       |
 | [珍豪ムチャ兵衛](../Page/珍豪ムチャ兵衛.md "wikilink")                        | TBS                                                    |                                                           | [2月15日](../Page/2月15日.md "wikilink")   |                                                                       |
 | [ゴルゴ13](../Page/ゴルゴ13.md "wikilink")                            | ▼                                                      | [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")         | スチールアニメ。帯番組                            |                                                                       |
@@ -83,7 +83,7 @@
 | [まんがはじめて物語](../Page/まんがはじめて物語.md "wikilink")                    | TBS                                                    | ◇                                                         | [5月6日](../Page/5月6日.md "wikilink")     |                                                                       |
 | [まんがこども文庫](https://ja.wikipedia.org/wiki/まんがこども文庫 "wikilink")   | MBS                                                    |                                                           | [10月6日](../Page/10月6日.md "wikilink")   |                                                                       |
 | **[1979年](../Page/1979年.md "wikilink")**                        |                                                        |                                                           |                                        |                                                                       |
-| [ザ☆ウルトラマン](https://ja.wikipedia.org/wiki/ザ☆ウルトラマン "wikilink")   | TBS                                                    | ◇                                                         | [4月4日](../Page/4月4日.md "wikilink")     | [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")唯一のアニメ作品 |
+| [ザ☆ウルトラマン](../Page/ザ☆ウルトラマン.md "wikilink")                      | TBS                                                    | ◇                                                         | [4月4日](../Page/4月4日.md "wikilink")     | [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")唯一のアニメ作品 |
 
 ## 1980年代
 
@@ -242,7 +242,7 @@
 | **[2007年](../Page/2007年.md "wikilink")**                                                          |                                                                                            |                                            |                                                                                |                                                                                                       |
 | [ひだまりスケッチ](https://ja.wikipedia.org/wiki/ひだまりスケッチ_\(アニメ\) "wikilink")                             | TBS                                                                                        | ▼◆◇                                        | [1月11日](../Page/1月11日.md "wikilink")                                           | 07年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に[BS-iにて特別編を独占放送](../Page/BS-TBS.md "wikilink") |
 | [Venus Versus Virus](../Page/Venus_Versus_Virus.md "wikilink")                                    | ▼◆                                                                                         |                                            |                                                                                |                                                                                                       |
-| [神曲奏界ポリフォニカ](../Page/神曲奏界ポリフォニカ.md "wikilink")                                                    | ▼◆                                                                                         | [4月3日](../Page/4月3日.md "wikilink")         | [キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")としては異例の28時台放送               |                                                                                                       |
+| [神曲奏界ポリフォニカ](../Page/神曲奏界ポリフォニカ.md "wikilink")                                                    | ▼◆                                                                                         | [4月3日](../Page/4月3日.md "wikilink")         | [キー局](../Page/キー局.md "wikilink")としては異例の28時台放送                                  |                                                                                                       |
 | [ロミオ×ジュリエット](../Page/ロミオ×ジュリエット.md "wikilink")                                                    | CBC                                                                                        | ▼◇                                         | [4月4日](../Page/4月4日.md "wikilink")                                             | CBC初のハイビジョン制作、TBS系深夜アニメ初の[データ放送](../Page/データ放送.md "wikilink")実施                                       |
 | [DARKER THAN BLACK -黒の契約者-](../Page/DARKER_THAN_BLACK_-黒の契約者-.md "wikilink")                      | MBS                                                                                        | ▼                                          | [4月5日](../Page/4月5日.md "wikilink")                                             | MBS初のハイビジョン制作                                                                                         |
 | [ラブ★コン](../Page/ラブ★コン.md "wikilink")                                                              | TBS                                                                                        | ◆◇                                         | [4月7日](../Page/4月7日.md "wikilink")                                             |                                                                                                       |
@@ -1557,16 +1557,16 @@
 
 ## 2020年代
 
-| 作品名                                                                                             | 制作局                                 | 記号                                   | 開始日                                                    | 備考                                            |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------ | ------------------------------------------------------ | --------------------------------------------- |
-| **[2020年](../Page/2020年.md "wikilink")**                                                        |                                     |                                      |                                                        |                                               |
-| [推しが武道館いってくれたら死ぬ](https://ja.wikipedia.org/wiki/推しが武道館いってくれたら死ぬ "wikilink")                     | [TBS](../Page/TBSテレビ.md "wikilink") | ▼◆                                   | [1月10日](../Page/1月10日.md "wikilink")                   | [アニメリコ枠](../Page/TBSテレビの深夜アニメ枠.md "wikilink") |
-| [地縛少年花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")                                   | ▼◆                                  |                                      |                                                        |                                               |
-| \[\[ハイキュー                                                                                       | |ハイキュー                              | TO THE TOP\]\]                       | [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") | ▼                                             |
-| [ランウェイで笑って](https://ja.wikipedia.org/wiki/ランウェイで笑って "wikilink")                                 | ▼◆                                  | アニメイズム枠                              |                                                        |                                               |
-| [LISTENERS リスナーズ](../Page/LISTENERS_リスナーズ.md "wikilink")                                        | ▼◆                                  | [4月3日](../Page/4月3日.md "wikilink")   |                                                        |                                               |
-| [波よ聞いてくれ](https://ja.wikipedia.org/wiki/波よ聞いてくれ "wikilink")                                     | ▼◆                                  |                                      |                                                        |                                               |
-| [アルゴナビス from BanG Dream\!](https://ja.wikipedia.org/wiki/ARGONAVIS_from_BanG_Dream! "wikilink") | ▼                                   | [4月10日](../Page/4月10日.md "wikilink") | スーパーアニメイズム枠                                            |                                               |
+| 作品名                                                                                             | 制作局                                 | 記号                                 | 開始日                                                    | 備考                                            |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
+| **[2020年](../Page/2020年.md "wikilink")**                                                        |                                     |                                    |                                                        |                                               |
+| [推しが武道館いってくれたら死ぬ](https://ja.wikipedia.org/wiki/推しが武道館いってくれたら死ぬ "wikilink")                     | [TBS](../Page/TBSテレビ.md "wikilink") | ▼◆                                 | [1月10日](../Page/1月10日.md "wikilink")                   | [アニメリコ枠](../Page/TBSテレビの深夜アニメ枠.md "wikilink") |
+| [地縛少年花子くん](https://ja.wikipedia.org/wiki/地縛少年花子くん "wikilink")                                   | ▼◆                                  |                                    |                                                        |                                               |
+| \[\[ハイキュー                                                                                       | |ハイキュー                              | TO THE TOP\]\]                     | [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") | ▼                                             |
+| [ランウェイで笑って](https://ja.wikipedia.org/wiki/ランウェイで笑って "wikilink")                                 | ▼◆                                  | アニメイズム枠                            |                                                        |                                               |
+| [LISTENERS リスナーズ](../Page/LISTENERS_リスナーズ.md "wikilink")                                        | ▼◆                                  | [4月3日](../Page/4月3日.md "wikilink") |                                                        |                                               |
+| [波よ聞いてくれ](https://ja.wikipedia.org/wiki/波よ聞いてくれ "wikilink")                                     | ▼◆                                  |                                    |                                                        |                                               |
+| [アルゴナビス from BanG Dream\!](https://ja.wikipedia.org/wiki/ARGONAVIS_from_BanG_Dream! "wikilink") | \[1\]                               | ▼                                  | [4月10日](../Page/4月10日.md "wikilink")                   | スーパーアニメイズム枠                                   |
 
 ## 地方ローカル作品
 
@@ -2168,7 +2168,7 @@
 <td><p>MBS・AT-X</p></td>
 <td><p>▼</p></td>
 <td><p><a href="../Page/1月6日.md" title="wikilink">1月6日</a></p></td>
-<td><p><a href="../Page/Fooooo.md" title="wikilink">Fooooo</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -2229,3 +2229,5 @@
   - [アニメ｜【MBS】毎日放送](https://www.mbs.jp/anime/)
 
 [Category:TBS系アニメ](https://ja.wikipedia.org/wiki/Category:TBS系アニメ "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
+
+1.  [ブシロード](../Page/ブシロード.md "wikilink")単独製作。[MBSの亀井博司がプロデューサー](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、同局の丸山博雄が放送協力として関与

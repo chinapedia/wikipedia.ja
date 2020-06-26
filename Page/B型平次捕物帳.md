@@ -1,7 +1,7 @@
 > この記事は[B型平次捕物帳](https://ja.wikipedia.org/wiki/B型平次捕物帳)から翻訳されています。
 
 
-『**B型平次捕物帳**』（ビーがたへいじとりものちょう）は、時代劇『[銭形平次](https://ja.wikipedia.org/wiki/銭形平次捕物控 "wikilink")』を元にした[いしいひさいち](../Page/いしいひさいち.md "wikilink")作の[4コマ](../Page/4コマ漫画.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[1991年](../Page/1991年.md "wikilink")に[竹書房](../Page/竹書房.md "wikilink")から『B型平次捕物帖』として単行本が出版された。また、[2002年](../Page/2002年.md "wikilink")には『B型平次捕物控』が[東京創元社](../Page/東京創元社.md "wikilink")から出版された。
+『**B型平次捕物帳**』（ビーがたへいじとりものちょう）は、時代劇『[銭形平次](../Page/銭形平次捕物控.md "wikilink")』を元にした[いしいひさいち](../Page/いしいひさいち.md "wikilink")作の[4コマ](../Page/4コマ漫画.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[1991年](../Page/1991年.md "wikilink")に[竹書房](../Page/竹書房.md "wikilink")から『B型平次捕物帖』として単行本が出版された。また、[2002年](../Page/2002年.md "wikilink")には『B型平次捕物控』が[東京創元社](../Page/東京創元社.md "wikilink")から出版された。
 
 [江戸時代](../Page/江戸時代.md "wikilink")の[江戸](../Page/江戸.md "wikilink")がモデルであるが近代の風俗が含まれている。
 
@@ -22,7 +22,7 @@
     『B型平次捕物帖』の最後では独立して目明しを開くが、旅立ちのシーンはアメリカ映画風であった。
     [高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")香西生まれで、母親は小名浜の生まれ。
   - 山形 平次'
-    平次のライバル。[山形県](../Page/山形県.md "wikilink")出身。それゆえ、山形県の名産品である[花笠](https://ja.wikipedia.org/wiki/花笠 "wikilink")や[さくらんぼの種](../Page/サクランボ.md "wikilink")、蔵王の[樹氷](https://ja.wikipedia.org/wiki/樹氷 "wikilink")、挙句の果てには[湯殿山](https://ja.wikipedia.org/wiki/湯殿山 "wikilink")の[即身仏](https://ja.wikipedia.org/wiki/即身仏 "wikilink")までも平次に投げてつけている。
+    平次のライバル。[山形県](../Page/山形県.md "wikilink")出身。それゆえ、山形県の名産品である[花笠](https://ja.wikipedia.org/wiki/花笠 "wikilink")や[さくらんぼの種](../Page/サクランボ.md "wikilink")、蔵王の[樹氷](https://ja.wikipedia.org/wiki/樹氷 "wikilink")、挙句の果てには[湯殿山](https://ja.wikipedia.org/wiki/湯殿山 "wikilink")の[即身仏](../Page/即身仏.md "wikilink")までも平次に投げてつけている。
   - [同心](../Page/同心.md "wikilink")の旦那
     「おう平次　ひでえもんだぜ。」が決り文句。
   - 夜烏の源蔵

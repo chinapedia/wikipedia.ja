@@ -5,7 +5,7 @@
 
 ## 概要
 
-テレビ信州はそれまで[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』をフルネットしていたが、1998年[冬季の](../Page/冬季オリンピック.md "wikilink")[長野オリンピック開幕に合わせ](../Page/1998年長野オリンピック.md "wikilink")、[長野県](../Page/長野県.md "wikilink")内の情報を伝える[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")を平日朝の時間帯に設けた。また、キャスターはテレビ信州[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[伊東陽司](https://ja.wikipedia.org/wiki/伊東陽司 "wikilink")と[中西美恵子](https://ja.wikipedia.org/wiki/中西美恵子 "wikilink")が務めた。
+テレビ信州はそれまで[日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[ジパングあさ6](../Page/ジパングあさ6.md "wikilink")』をフルネットしていたが、1998年[冬季の](../Page/冬季オリンピック.md "wikilink")[長野オリンピック開幕に合わせ](../Page/1998年長野オリンピック.md "wikilink")、[長野県](../Page/長野県.md "wikilink")内の情報を伝える[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")を平日朝の時間帯に設けた。また、キャスターはテレビ信州[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[伊東陽司](../Page/伊東陽司.md "wikilink")と[中西美恵子](https://ja.wikipedia.org/wiki/中西美恵子 "wikilink")が務めた。
 
 放送時間は『ジパングあさ6』内『[NNNニュースジパング](../Page/NNNニュースジパング.md "wikilink")』終了後の6:25からであったが、オープニングはキャスターによる簡単な挨拶と[提供クレジット](../Page/提供クレジット.md "wikilink")のみであり、その直後に『ジパングあさ6』の「ここがポイント」「スポーツジパング」はそのままネットされていた。その後、6:37前後からオープニングタイトルで再び始まっていたため、実質的には20分程度の番組で、『ジパングあさ6』のローカル枠のような番組構成であった。
 
@@ -19,7 +19,7 @@
 
 ## キャスター
 
-  - [伊東陽司](https://ja.wikipedia.org/wiki/伊東陽司 "wikilink")（テレビ信州アナウンサー）
+  - [伊東陽司](../Page/伊東陽司.md "wikilink")（テレビ信州アナウンサー）
   - [中西美恵子](https://ja.wikipedia.org/wiki/中西美恵子 "wikilink")（当時テレビ信州アナウンサー）
 
 ## コーナー

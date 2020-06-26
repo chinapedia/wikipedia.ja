@@ -1,7 +1,7 @@
 > この記事は[SMAP 009](https://ja.wikipedia.org/wiki/SMAP_009)から翻訳されています。
 
 
-『**SMAP 009**』は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の9枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1996年](../Page/1996年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
+『**SMAP 009**』は、[SMAP](../Page/SMAP.md "wikilink")の9枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1996年](../Page/1996年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 

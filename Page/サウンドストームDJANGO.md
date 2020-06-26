@@ -1,7 +1,7 @@
 > この記事は[サウンドストームDJANGO](https://ja.wikipedia.org/wiki/サウンドストームDJANGO)から翻訳されています。
 
 
-『**サウンドストームDJANGO**』（サウンドストームジャンゴ）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JRN系の深夜の時間帯で放送されていた](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[8月](../Page/8月.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた。
+『**サウンドストームDJANGO**』（サウンドストームジャンゴ）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションに](../Page/キー局.md "wikilink")[JRN系の深夜の時間帯で放送されていた](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[8月](../Page/8月.md "wikilink")から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた。
 
 ## 概要
 

@@ -120,7 +120,7 @@
   - うちの弟子がいつのまにか人類最強になっていて、なんの才能もない師匠の俺が、それを超える宇宙最強に誤認定されている件について（サーガフォレスト / [アキライズン](https://ja.wikipedia.org/wiki/アキライズン "wikilink")）
   - そして、遺骸が嘶く ―死者たちの手紙―（メディアワークス文庫 / [酒場御行](https://ja.wikipedia.org/wiki/酒場御行 "wikilink")）
   - [リオンクール戦記](../Page/リオンクール戦記.md "wikilink")（[ツギクルブックス](https://ja.wikipedia.org/wiki/ツギクルブックス "wikilink") / [小倉ひろあき](https://ja.wikipedia.org/wiki/小倉ひろあき "wikilink")）
-  - [亡びの国の征服者〜魔王は世界を征服するようです〜](https://ja.wikipedia.org/wiki/亡びの国の征服者〜魔王は世界を征服するようです〜 "wikilink")（[オーバーラップノベルス](https://ja.wikipedia.org/wiki/オーバーラップ_\(企業\)#オーバーラップノベルス "wikilink") / [不手折家](https://ja.wikipedia.org/wiki/不手折家 "wikilink")）
+  - [亡びの国の征服者〜魔王は世界を征服するようです〜](../Page/亡びの国の征服者〜魔王は世界を征服するようです〜.md "wikilink")（[オーバーラップノベルス](https://ja.wikipedia.org/wiki/オーバーラップ_\(企業\)#オーバーラップノベルス "wikilink") / [不手折家](https://ja.wikipedia.org/wiki/不手折家 "wikilink")）
 
 ### その他イラスト
 

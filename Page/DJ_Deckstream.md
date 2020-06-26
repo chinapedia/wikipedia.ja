@@ -59,7 +59,7 @@
   - Sugar Daddy Remix / Cuban Link feat. Mya
   - Slam More Harder / The Product G\&B Feat. Onyx
   - Don't Even Try It (Monorisick Remix) / Funky DL
-  - Lose My Religion (Monorisick Remix) / [L Universe](https://ja.wikipedia.org/wiki/VERBAL "wikilink")
+  - Lose My Religion (Monorisick Remix) / [L Universe](../Page/VERBAL.md "wikilink")
   - Lyrical Terrorists (Monorisick Remix) / Substantial & L Universe
   - Bozack -DJ Deckstream remix- / CL - 『Welcome To Life』に収録
   - EXPO EXPO (Deckstream Remix) / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
@@ -68,7 +68,7 @@
   - Hey DJ\! (Deckstream Remix) / Heartsdales
   - brand new love \> Deckstream Remix / [日之内絵美](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")
   - Life is Beautiful -Deckstream Remix- / m-flo loves [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink") & TOKU
-  - Let's Go (It's A Movement) Deckstream Remix / LiL'AI feat. [WARREN G](../Page/ウォーレン・G.md "wikilink"), [KRS ONE](https://ja.wikipedia.org/wiki/KRS-One "wikilink"), [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")
+  - Let's Go (It's A Movement) Deckstream Remix / LiL'AI feat. [WARREN G](../Page/ウォーレン・G.md "wikilink"), [KRS ONE](https://ja.wikipedia.org/wiki/KRS-One "wikilink"), [VERBAL](../Page/VERBAL.md "wikilink")
   - Catwalk 〜Deckstream Remix〜 / [SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink") - 『[Catwalk](../Page/Catwalk.md "wikilink")』に収録
   - let go -Deckstream Remix- / [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - Lovin' U 〜Deckstream Remix〜 / [melody.](https://ja.wikipedia.org/wiki/melody. "wikilink")

@@ -37,49 +37,49 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ_1969–70" title="wikilink">1969–70</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
+<td><p>1969–70</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ_1969–70" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/NKザグレブ.md" title="wikilink">ザグレブ</a></p></td>
-<td><p>2–1</p></td>
-<td><p>3–1</p></td>
-<td><p>'''5–2</p></td>
+<td><p>2-1</p></td>
+<td><p>3-1</p></td>
+<td><p>'''5-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/FCルーアン.md" title="wikilink">ルーアン</a></p></td>
-<td><p>3–1</p></td>
-<td><p>0–2</p></td>
-<td><p>'''3–3(a)</p></td>
+<td><p>3-1</p></td>
+<td><p>0-2</p></td>
+<td><p>'''3-3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1994-95" title="wikilink">1994-95</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ" title="wikilink">UEFAカップ</a></p></td>
+<td><p>1994-95</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1994-95" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCラピド・ブカレスト" title="wikilink">ラピド・ブカレスト</a></p></td>
-<td><p>2–1</p></td>
-<td><p>0–2</p></td>
-<td><p>'''2–3</p></td>
+<td><p>2-1</p></td>
+<td><p>0-2</p></td>
+<td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1995" title="wikilink">1995</a></p></td>
-<td><p><a href="../Page/UEFAインタートトカップ.md" title="wikilink">UEFAインタートトカップ</a></p></td>
+<td><p>1995</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1995" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループ10</p></td>
 <td><p><a href="../Page/ベイタル・エルサレムFC.md" title="wikilink">ベイタル・エルサレム</a></p></td>
-<td><p>-</p></td>
-<td><p>1–0</p></td>
-<td><p>'''3位敗退</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p>1-0</p></td>
+<td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルサスポル" title="wikilink">ブルサスポル</a></p></td>
-<td><p>0–2</p></td>
-<td><p>-</p></td>
+<td><p>0-2</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -88,7 +88,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FC_VSSコシツェ" title="wikilink">VSSコシツェ</a></p></td>
-<td><p>-</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-3</p></td>
 <td></td>
 <td></td>
@@ -99,7 +99,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィンブルドンFC" title="wikilink">ウィンブルドン</a></p></td>
 <td><p>3-0</p></td>
-<td><p>-</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -107,18 +107,18 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1996" title="wikilink">1996</a></p></td>
-<td><p>UEFAインタートトカップ</p></td>
+<td><p>1996</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1996" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループ4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シルケボーIF" title="wikilink">シルケボー</a></p></td>
 <td><p>2-4</p></td>
-<td><p>-</p></td>
-<td><p>'''3位敗退</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/コンウィ・ユナイテッドFC" title="wikilink">コンウィ・ユナイテッド</a></p></td>
-<td><p>-</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>0-0</p></td>
 <td></td>
 <td></td>
@@ -129,7 +129,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ザグウェンビェ・ルビン" title="wikilink">ザグウェンビェ・ルビン</a></p></td>
 <td><p>0-0</p></td>
-<td><p>-</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SVリート.md" title="wikilink">リート</a></p></td>
-<td><p>-</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>3-1</p></td>
 <td></td>
 <td></td>
@@ -147,13 +147,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2005" title="wikilink">2005</a></p></td>
-<td><p>UEFAインタートトカップ</p></td>
+<td><p>2005</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_2005" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タンペレ・ユナイテッド" title="wikilink">タンペレ・ユナイテッド</a></p></td>
-<td><p>0–0</p></td>
-<td><p>0–1</p></td>
-<td><p>'''0–1</p></td>
+<td><p>0-0</p></td>
+<td><p>0-1</p></td>
+<td><p>'''0-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -161,18 +161,48 @@
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
 <td><p><a href="../Page/ベイタル・エルサレムFC.md" title="wikilink">ベイタル・エルサレム</a></p></td>
-<td><p>5–1</p></td>
-<td><p>4–1</p></td>
-<td><p>'''9–2</p></td>
+<td><p>5-1</p></td>
+<td><p>4-1</p></td>
+<td><p>'''9-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCゾリャ・ルハーンシク" title="wikilink">ゾリャ・ルハーンシク</a></p></td>
-<td><p>0–2</p></td>
-<td><p>0–3</p></td>
-<td><p>'''0–5</p></td>
+<td><p>0-2</p></td>
+<td><p>0-3</p></td>
+<td><p>'''0-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループ</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

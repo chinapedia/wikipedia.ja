@@ -23,7 +23,7 @@ Monoプロジェクトの公式発表ではないが、その主導者である[
 
 Monoランタイムは多くの[プロセッサ](../Page/プロセッサ.md "wikilink")で動作する[JITコンパイラを搭載している](https://ja.wikipedia.org/wiki/ジャストインタイムコンパイル方式 "wikilink")。JITコンパイラは[アプリケーションの実行中に](../Page/アプリケーションソフトウェア.md "wikilink")[共通中間言語](../Page/共通中間言語.md "wikilink") (CLI) コードを[ネイティブコードに変換し](../Page/機械語.md "wikilink")、それらを[キャッシュする](../Page/キャッシュ_\(コンピュータシステム\).md "wikilink")。実行前にネイティブコードに変換し、キャッシュしておくことも可能である。JITコンパイラが対応するプロセッサは[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://ja.wikipedia.org/wiki/x64 "wikilink")、[IA-64](../Page/IA-64.md "wikilink")、[SPARC](../Page/SPARC.md "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[ARM](../Page/ARMアーキテクチャ.md "wikilink")、[S/390](https://ja.wikipedia.org/wiki/System/390 "wikilink")（[32ビット](../Page/32ビット.md "wikilink")および[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")）、[MIPS](https://ja.wikipedia.org/wiki/MIPS "wikilink")である\[4\]。それ以外のシステムでは、ネイティブコードに変換するのではなく[インタプリタ](../Page/インタプリタ.md "wikilink")によって逐次[バイトコード](../Page/バイトコード.md "wikilink")が実行される。ほとんどの状況で、JITコンパイラによる方法は[インタプリタ](../Page/インタプリタ.md "wikilink")よりもパフォーマンスの点で勝っている。
 
-また、マイクロソフト純正の.NET Frameworkではサポートされていない[SIMD](../Page/SIMD.md "wikilink")への対応など、Mono独自の革新的な機能の取り込みも積極的に行われている。
+また、[SIMD](../Page/SIMD.md "wikilink")への独自対応 (`Mono.Simd`) など、Mono独自の革新的な機能の取り込みも積極的に行われている。マイクロソフト純正の.NET Frameworkでは、Monoを後追いする形で、バージョン4.6にてSIMDサポートが追加された\[5\]。
 
 ## 歴史
 
@@ -37,15 +37,15 @@ Monoランタイムは多くの[プロセッサ](../Page/プロセッサ.md "wik
   - Mono 2.8ではC\# 4.0がサポートされた。
   - Mono 2.8.1ではSystem.Text.Encodingにおいて[日本語](../Page/日本語.md "wikilink") ([Shift_JIS](../Page/Shift_JIS.md "wikilink")) がサポートされた。
   - Mono 3.0.0ではC\# 5.0がサポートされ、async/awaitなどが利用可能となった。
-  - Mono 4.0.0ではC\# 6.0がサポートされ、またマイクロソフトが[MIT License下で公開した](../Page/MIT_License.md "wikilink").NET Coreにより一部のコンポーネントが置き換えられた。.NET2.0/3.5/4.0のサポートが終了し、[浮動小数点演算処理が最適化された](../Page/浮動小数点数.md "wikilink")\[5\]。
-  - Mono 5.0.0ではC\# 7.0がサポートされた。[Visual Studioで利用されているものと同じRoslyn](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") C\#コンパイラ`csc`が追加された\[6\]。
-  - Mono 5.2.0では.NET Standard 2.0のサポートが行われた。`mono`がデフォルトで[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")で動作するように変更が行われた\[7\]。
-  - Mono 5.10.0では.NET 4.7.1・C\# 7.2・F\# 4.1への対応が行われた\[8\]。
-  - Mono 5.12.0では[IBM AIXと](../Page/AIX.md "wikilink")[IBM iに対応した](../Page/IBM_i.md "wikilink")。Roslynベースの[VB.NETコンパイラ](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic_.NET "wikilink")`vbc`が追加された\[9\]。
+  - Mono 4.0.0ではC\# 6.0がサポートされ、またマイクロソフトが[MIT License下で公開した](../Page/MIT_License.md "wikilink").NET Coreにより一部のコンポーネントが置き換えられた。.NET2.0/3.5/4.0のサポートが終了し、[浮動小数点演算処理が最適化された](../Page/浮動小数点数.md "wikilink")\[6\]。
+  - Mono 5.0.0ではC\# 7.0がサポートされた。[Visual Studioで利用されているものと同じRoslyn](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") C\#コンパイラ`csc`が追加された\[7\]。
+  - Mono 5.2.0では.NET Standard 2.0のサポートが行われた。`mono`がデフォルトで[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")で動作するように変更が行われた\[8\]。
+  - Mono 5.10.0では.NET 4.7.1・C\# 7.2・F\# 4.1への対応が行われた\[9\]。
+  - Mono 5.12.0では[IBM AIXと](../Page/AIX.md "wikilink")[IBM iに対応した](../Page/IBM_i.md "wikilink")。Roslynベースの[VB.NETコンパイラ](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic_.NET "wikilink")`vbc`が追加された\[10\]。
 
 ## プロジェクト名の由来
 
-は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で猿を意味するため、Monoのロゴには猿が描かれている。猿に関する名称は[Ximian](../Page/Ximian.md "wikilink")の他のプロジェクトにも見られる。Mono FAQでは、名称の由来に関する質問に対して「我々は猿が好きなのです。」() と回答している\[10\]。
+は[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で猿を意味するため、Monoのロゴには猿が描かれている。猿に関する名称は[Ximian](../Page/Ximian.md "wikilink")の他のプロジェクトにも見られる。Mono FAQでは、名称の由来に関する質問に対して「我々は猿が好きなのです。」() と回答している\[11\]。
 
 ## Monoコンポーネント
 
@@ -57,7 +57,7 @@ Monoは大きく分けて3種類の[コンポーネント](https://ja.wikipedia.
 
 ### 中核コンポーネント
 
-中核コンポーネントにはC\#コンパイラ、[仮想機械](../Page/仮想機械.md "wikilink")、[基本クラスライブラリ](https://ja.wikipedia.org/wiki/基本クラスライブラリ "wikilink")が含まれる。これらはEcma-334\[11\]およびEcma-335\[12\]の標準に基づいており、これによってMonoを標準準拠のオープンソースなCLI仮想機械たらしめている。
+中核コンポーネントにはC\#コンパイラ、[仮想機械](../Page/仮想機械.md "wikilink")、[基本クラスライブラリ](https://ja.wikipedia.org/wiki/基本クラスライブラリ "wikilink")が含まれる。これらはEcma-334\[12\]およびEcma-335\[13\]の標準に基づいており、これによってMonoを標準準拠のオープンソースなCLI仮想機械たらしめている。
 
 ### Mono/Linux/GNOME開発スタック
 
@@ -69,9 +69,9 @@ Mono/Linux/GNOME開発スタックは、従来の[GNOME](../Page/GNOME.md "wikil
       - [Gnome\#](https://ja.wikipedia.org/wiki/Gnome_Sharp "wikilink")
   - WebBrowser - 各種レンダリングエンジンをラッピングしたコンポーネント。
       - [Gecko\#](https://ja.wikipedia.org/wiki/Gecko_Sharp "wikilink") - [Gecko](../Page/Gecko.md "wikilink")をレンダリングエンジンとして利用する[Mozilla](../Page/Mozilla.md "wikilink")ライブラリ。
-      - [WebKit\#](https://ja.wikipedia.org/wiki/WebKit_Shart "wikilink") - [WebKit](../Page/WebKit.md "wikilink")をレンダリングエンジンとして利用する[WebKit](../Page/WebKit.md "wikilink")ライブラリ。
+      - [WebKit\#](https://ja.wikipedia.org/wiki/WebKit_Sharp "wikilink") - [WebKit](../Page/WebKit.md "wikilink")をレンダリングエンジンとして利用する[WebKit](../Page/WebKit.md "wikilink")ライブラリ。
 
-特に、Gtk\#及びGnome\#ではMonoアプリケーションを[GNOME](../Page/GNOME.md "wikilink")デスクトップにネイティブアプリケーションとして統合することができ、また最新の[MonoDevelop](https://ja.wikipedia.org/wiki/MonoDevelop "wikilink")を用いる事でVisual StudioとWindows Formsの様な[RAD開発](https://ja.wikipedia.org/wiki/RAD開発 "wikilink")も可能となった。
+特に、Gtk\#およびGnome\#ではMonoアプリケーションを[GNOME](../Page/GNOME.md "wikilink")デスクトップにネイティブアプリケーションとして統合することができ、また最新の[MonoDevelop](https://ja.wikipedia.org/wiki/MonoDevelop "wikilink")を用いることでVisual StudioとWindows Formsのような[RAD開発](https://ja.wikipedia.org/wiki/RAD開発 "wikilink")も可能となった。
 
 データベースライブラリは[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")、[Firebird](../Page/Firebird.md "wikilink")、[Open Database Connectivity](../Page/Open_Database_Connectivity.md "wikilink") (ODBC)、[Microsoft SQL Server](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink") (MSSQL)、[Oracle](../Page/Oracle_Database.md "wikilink")、オブジェクトリレーショナルデータベース[db4o](https://ja.wikipedia.org/wiki/db4o "wikilink")など、多くのデータベースに接続することができる。
 
@@ -85,7 +85,7 @@ ASP.NETへの対応については、[XSPというC](https://ja.wikipedia.org/wi
 
 Windows Formsへの対応については、[Wine](../Page/Wine.md "wikilink")との協力により開発が行われている。
 
-2017年12月時点では、[Windows Presentation Foundation](../Page/Windows_Presentation_Foundation.md "wikilink") (WPF) を実装する予定は無いとしている\[13\]。Xamarin.Formsによって提供される[XAML開発環境は](../Page/Extensible_Application_Markup_Language.md "wikilink")、WPF/[Silverlight](https://ja.wikipedia.org/wiki/Silverlight "wikilink")/[WinRTとは互換性がない](https://ja.wikipedia.org/wiki/Windowsランタイム "wikilink")。
+2017年12月時点では、[Windows Presentation Foundation](../Page/Windows_Presentation_Foundation.md "wikilink") (WPF) を実装する予定は無いとしている\[14\]。Xamarin.Formsによって提供される[XAML開発環境は](../Page/Extensible_Application_Markup_Language.md "wikilink")、WPF/[Silverlight](https://ja.wikipedia.org/wiki/Silverlight "wikilink")/[WinRTとは互換性がない](https://ja.wikipedia.org/wiki/Windowsランタイム "wikilink")。
 
 ## 主な対応ソフト
 
@@ -115,12 +115,13 @@ Windows Formsへの対応については、[Wine](../Page/Wine.md "wikilink")と
 2.  [.NET Core とオープン ソース](https://msdn.microsoft.com/ja-jp/library/dn878908.aspx)
 3.  [「Mono 4.0」リリース、オープンソース化された.NET関連コードを初めて採用 | OSDN Magazine](https://mag.osdn.jp/15/05/08/095100)
 4.
-5.  [Mono 4.0.0 Release Notes](http://www.mono-project.com/docs/about-mono/releases/4.0.0/)
-6.
+5.  [.NET における数値 | Microsoft Docs](https://docs.microsoft.com/ja-jp/dotnet/standard/numerics)
+6.  [Mono 4.0.0 Release Notes](http://www.mono-project.com/docs/about-mono/releases/4.0.0/)
 7.
 8.
 9.
-10. ["What does the name "Mono" mean?"](http://www.mono-project.com/FAQ:_General)
-11. [ECMA-334 ドキュメント （C\# 言語仕様）](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
-12. [ECMA-335 ドキュメント (CLI)](http://www.ecma-international.org/publications/standards/Ecma-335.htm)
-13. [Compatibility - Mono](http://www.mono-project.com/Compatibility)
+10.
+11. ["What does the name "Mono" mean?"](http://www.mono-project.com/FAQ:_General)
+12. [ECMA-334 ドキュメント （C\# 言語仕様）](http://www.ecma-international.org/publications/standards/Ecma-334.htm)
+13. [ECMA-335 ドキュメント (CLI)](http://www.ecma-international.org/publications/standards/Ecma-335.htm)
+14. [Compatibility - Mono](http://www.mono-project.com/Compatibility)

@@ -5,7 +5,7 @@
 
 ## 概要
 
-漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』を原作とした映画『デスノート』の後編、『デスノート the Last name』の公開に合わせて製作された。前作と同じように様々な分野から全14組が参加。初回盤のみ、特典DVD付き。
+漫画『[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")』を原作とした映画『デスノート』の後編、『デスノート the Last name』の公開に合わせて製作された。前作と同じように様々な分野から全14組が参加。初回盤のみ、特典DVD付き。
 
 ## 収録曲
 

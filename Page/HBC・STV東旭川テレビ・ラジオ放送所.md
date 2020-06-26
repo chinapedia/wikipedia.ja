@@ -101,7 +101,7 @@
 </tr>
 <tr class="even">
 <td><p>1197</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a><br />
+<td><p><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a><br />
 旭川局</p></td>
 <td><p>JOWL</p></td>
 <td><p>3kW</p></td>

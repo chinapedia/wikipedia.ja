@@ -254,7 +254,8 @@ ATX電源は、市販のデスクトップPCに組み込まれている他にも
 <tr class="even">
 <td><ul>
 <li>水色背景のピンは電源ではなく状態信号</li>
-<li>緑背景のピンは20ピンコネクタでは存在しない</li>
+<li>緑背景のピンは20ピンコネクタでは存在しない<br />
+過去に<a href="https://ja.wikipedia.org/wiki/ISAバス" title="wikilink">ISAバス</a>に-5Vを供給するために使用していた</li>
 <li>13番ピンの茶色は<a href="https://ja.wikipedia.org/wiki/四端子測定法" title="wikilink">四端子測定のための弱電流測定線</a></li>
 </ul></td>
 <td></td>

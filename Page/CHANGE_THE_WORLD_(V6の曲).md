@@ -15,6 +15,7 @@ c/wに「V6」名義の楽曲が収録されるのは今回が初めて。
       -
         作詞：[松本理恵](../Page/松本理恵.md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
         V6が初めて担当した[アニメ](../Page/アニメ.md "wikilink")の[主題歌](../Page/主題歌.md "wikilink")。メンバーの[三宅健](../Page/三宅健.md "wikilink")は、原作者である[高橋留美子](../Page/高橋留美子.md "wikilink")のファンであり、原作の『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』を愛読している。
+        [坂本と](../Page/坂本昌行.md "wikilink")[井ノ原にソロパートが与えられている](../Page/井ノ原快彦.md "wikilink")。
 2.  **上弦の月**
       -
         作詞：[夏野芹子](https://ja.wikipedia.org/wiki/夏野芹子 "wikilink")・[TSUKASA](https://ja.wikipedia.org/wiki/TSUKASA_\(作曲家\) "wikilink")、作曲：TSUKASA、編曲：[椎名KAT太](https://ja.wikipedia.org/wiki/椎名KAT太 "wikilink")

@@ -1340,7 +1340,7 @@
 </ul></td>
 <td><ul>
 <li><a href="../Page/あっこゴリラ.md" title="wikilink">あっこゴリラ</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SIRUP" title="wikilink">SIRUP</a></li>
+<li><a href="../Page/SIRUP.md" title="wikilink">SIRUP</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/iri" title="wikilink">iri</a></li>
 </ul></td>
 <td><ul>

@@ -1,7 +1,7 @@
 > この記事は[E-Tax](https://ja.wikipedia.org/wiki/E-Tax)から翻訳されています。
 
 
-**e-Tax**（イータックス）とは、[国税庁](../Page/国税庁.md "wikilink")が運営する、[国税](../Page/国税.md "wikilink")に係る申告・申請・[納税](https://ja.wikipedia.org/wiki/納税 "wikilink")に係る[オンライン](../Page/オンライン.md "wikilink")サービスの愛称である。正式名称を**国税電子申告・納税システム**という。オンライン通信には[インターネット](../Page/インターネット.md "wikilink")を利用している。システムの開発・[運用・保守は](../Page/メンテナンス.md "wikilink")、国税庁が[NTTデータ](../Page/NTTデータ.md "wikilink")に業務委託している（[随意契約](../Page/随意契約.md "wikilink")）。e-Taxから連動した[電子納税](https://ja.wikipedia.org/wiki/電子納税 "wikilink")には、[Pay-easy](../Page/Pay-easy.md "wikilink")が活用されている。
+[IC_Card_Reader_Writer_RW-5100W.jpg](https://ja.wikipedia.org/wiki/File:IC_Card_Reader_Writer_RW-5100W.jpg "fig:IC_Card_Reader_Writer_RW-5100W.jpg") **e-Tax**（イータックス）とは、[国税庁](../Page/国税庁.md "wikilink")が運営する、[国税](../Page/国税.md "wikilink")に係る申告・申請・[納税](https://ja.wikipedia.org/wiki/納税 "wikilink")に係る[オンライン](../Page/オンライン.md "wikilink")サービスの愛称である。正式名称を**国税電子申告・納税システム**という。オンライン通信には[インターネット](../Page/インターネット.md "wikilink")を利用している。システムの開発・[運用・保守は](../Page/メンテナンス.md "wikilink")、国税庁が[NTTデータ](../Page/NTTデータ.md "wikilink")に業務委託している（[随意契約](../Page/随意契約.md "wikilink")）。e-Taxから連動した[電子納税](https://ja.wikipedia.org/wiki/電子納税 "wikilink")には、[Pay-easy](../Page/Pay-easy.md "wikilink")が活用されている。
 
 e-Taxには、いくつもの[セキュリティ](https://ja.wikipedia.org/wiki/セキュリティ "wikilink")が施されており、中でも利用者の[公的個人認証サービス](../Page/公的個人認証サービス.md "wikilink")による[電子署名](../Page/電子署名.md "wikilink")が大きな特徴である。
 
@@ -69,6 +69,8 @@ e-Taxの利用時間は、月曜日-金曜日の午前8時30分から24時（祝
   - [MacOS](../Page/MacOS.md "wikilink")・[Linux](../Page/Linux.md "wikilink")・[FreeBSD](../Page/FreeBSD.md "wikilink")・[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")([Solaris](../Page/Solaris.md "wikilink")・[OpenIndiana](https://ja.wikipedia.org/wiki/OpenIndiana "wikilink"))・[Android](../Page/Android.md "wikilink")・[iPhoneは未対応](https://ja.wikipedia.org/wiki/Iphone "wikilink")。
 
 ### 周辺機器など
+
+[Contactless_Ic_Card_Reader_Writer_RC-S370.jpg](https://ja.wikipedia.org/wiki/File:Contactless_Ic_Card_Reader_Writer_RC-S370.jpg "fig:Contactless_Ic_Card_Reader_Writer_RC-S370.jpg")
 
   - 電子申告開始届出書の提出（オンラインで提出が可能であり、利用者識別番号等がオンラインで発行される）。
   - [住民基本台帳カード](../Page/住民基本台帳カード.md "wikilink")・[個人番号カード](https://ja.wikipedia.org/wiki/個人番号カード "wikilink")の[公的個人認証システムなどを利用した](../Page/公的個人認証サービス.md "wikilink")[電子証明書](https://ja.wikipedia.org/wiki/電子証明書 "wikilink")の取得。

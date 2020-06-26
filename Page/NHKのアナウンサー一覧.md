@@ -344,7 +344,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [渡邉佐和子](https://ja.wikipedia.org/wiki/渡邉佐和子 "wikilink")（わたなべ・さわこ）
   - [牛田茉友](https://ja.wikipedia.org/wiki/牛田茉友 "wikilink")（うしだ・まゆ）
   - [井田香菜子](https://ja.wikipedia.org/wiki/井田香菜子 "wikilink")（いだ・かなこ）
-  - [畠山衣美](https://ja.wikipedia.org/wiki/畠山衣美 "wikilink")（はたけやま・えみ）
+  - [畠山衣美](../Page/畠山衣美.md "wikilink")（はたけやま・えみ）
   - [川崎理加](https://ja.wikipedia.org/wiki/川崎理加 "wikilink")（かわさき・りか）
 
 ### 京都放送局放送部
@@ -558,7 +558,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [岡野暁](../Page/岡野暁.md "wikilink")（おかの・あかつき）CA
   - [滑川和男](../Page/滑川和男.md "wikilink")（なめかわ・かずお）CA
   - [中沢圭吾](https://ja.wikipedia.org/wiki/中沢圭吾 "wikilink")（なかざわ・けいご）
-  - [松井大](https://ja.wikipedia.org/wiki/松井大_\(アナウンサー\) "wikilink") (まつい・だい）
+  - [松井大](https://ja.wikipedia.org/wiki/松井大_\(アナウンサー\) "wikilink")（まつい・だい）
   - [神谷一鷹](https://ja.wikipedia.org/wiki/神谷一鷹 "wikilink")（かみや・かずたか）
 
 ### 大分放送局放送部
@@ -606,16 +606,16 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [浦田典明](../Page/浦田典明.md "wikilink")（うらた・のりあき） - 『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』チーフプロデューサー
   - [江崎史恵](../Page/江崎史恵.md "wikilink")（えざき・しえ） - 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
   - [大木浩司](../Page/大木浩司.md "wikilink")（おおき・こうじ）
-  - [大野克郎](../Page/大野克郎.md "wikilink")（おおの・かつろう） - 『[すっぴん\!](https://ja.wikipedia.org/wiki/すっぴん! "wikilink")』 プロデューサー『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
+  - [大野克郎](../Page/大野克郎.md "wikilink")（おおの・かつろう） - 『[らじるラボ](../Page/らじるラボ.md "wikilink")』 プロデューサー『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
   - [金澤利夫](https://ja.wikipedia.org/wiki/金澤利夫 "wikilink")（かなざわ・としお）
   - [黒崎めぐみ](../Page/黒崎めぐみ.md "wikilink")（くろさき・めぐみ）
   - [近藤冨士雄](../Page/近藤冨士雄.md "wikilink")（こんどう・ふじお）
-  - [佐久間知樹](https://ja.wikipedia.org/wiki/佐久間知樹 "wikilink")（さくま・ともき） - 『[すっぴん\!](https://ja.wikipedia.org/wiki/すっぴん! "wikilink")』ディレクター 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
+  - [佐久間知樹](https://ja.wikipedia.org/wiki/佐久間知樹 "wikilink")（さくま・ともき） - 『[らじるラボ](../Page/らじるラボ.md "wikilink")』ディレクター 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
   - [柴田拓](https://ja.wikipedia.org/wiki/柴田拓 "wikilink")（しばた・ひらく） - 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』リポーター兼ディレクター
   - [曽田孝](https://ja.wikipedia.org/wiki/曽田孝 "wikilink")（そだ・たかし） - 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
   - [伊達正隆](../Page/伊達正隆.md "wikilink")（だて・まさたか）
   - [田中洋行](https://ja.wikipedia.org/wiki/田中洋行 "wikilink")（たなか・ひろゆき）-『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』リポーター
-  - [千野秀和](../Page/千野秀和.md "wikilink")（ちの・ひでかず） -『[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")』リポーター、『[すっぴん\!](https://ja.wikipedia.org/wiki/すっぴん! "wikilink")』ディレクター
+  - [千野秀和](../Page/千野秀和.md "wikilink")（ちの・ひでかず） -『[マイあさ\!](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")』リポーター、『[らじるラボ](../Page/らじるラボ.md "wikilink")』ディレクター
   - [辻智太郎](https://ja.wikipedia.org/wiki/辻智太郎 "wikilink")（つじ・ともたろう） - 『[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")』ディレクター
   - [福井茂](../Page/福井茂.md "wikilink") 嘱託（ふくい・しげる）
   - [藤井まどか](../Page/藤井まどか.md "wikilink")（ふじい・まどか） -『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』リポーター 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』リポーター兼ディレクター
@@ -625,7 +625,7 @@ NHKアナウンサーの転勤（異動）は管理職は6月、一般職は7月
   - [宮本克美](https://ja.wikipedia.org/wiki/宮本克美 "wikilink")（みやもと・かつみ）- 『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』リポーター
   - [山口達也](../Page/山口達也_\(アナウンサー\).md "wikilink")（やまぐち・たつや）
   - [山田亜樹](https://ja.wikipedia.org/wiki/山田亜樹 "wikilink")（やまだ・あき） - 『[ごごラジ\!](https://ja.wikipedia.org/wiki/ごごラジ! "wikilink")』ディレクター
-  - [結城さとみ](../Page/結城さとみ.md "wikilink")（ゆうき・さとみ） - 『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』朗読担当、ディレクター
+  - [結城さとみ](../Page/結城さとみ.md "wikilink")（ゆうき・さとみ） - 『[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")』朗読担当、ディレクター 『[らじるラボ](../Page/らじるラボ.md "wikilink")』ディレクター
   - [吉岡大輔](https://ja.wikipedia.org/wiki/吉岡大輔_\(アナウンサー\) "wikilink")（よしおか・だいすけ） - 『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』リポーター
   - [和田哲](../Page/和田哲_\(アナウンサー\).md "wikilink")（わだ・さとる）
 

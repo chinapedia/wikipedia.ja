@@ -18,7 +18,7 @@
 <!-- end list -->
 
   - 水曜：[前田憂佳](../Page/前田憂佳.md "wikilink")・[福田花音](../Page/福田花音.md "wikilink")（[スマイレージ](https://ja.wikipedia.org/wiki/アンジュルム "wikilink")）（2010年3月 - 終了）
-  - 木曜：[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")（2011年1月 - 終了）
+  - 木曜：[モーニング娘。](../Page/モーニング娘。.md "wikilink")（2011年1月 - 終了）
 
 <!-- end list -->
 

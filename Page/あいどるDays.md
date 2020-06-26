@@ -91,6 +91,6 @@
 8.  [もっとHurry up\!](https://ja.wikipedia.org/wiki/もっとHurry_up! "wikilink")
 9.  [リトル☆デイト](https://ja.wikipedia.org/wiki/リトル☆デイト "wikilink")
 10. [サヨナラ志願](https://ja.wikipedia.org/wiki/サヨナラ志願 "wikilink")
-11. [再会のラビリンス](https://ja.wikipedia.org/wiki/再会のラビリンス "wikilink")
+11. [再会のラビリンス](../Page/再会のラビリンス.md "wikilink")
 
 [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊ヤングジャンプ](https://ja.wikipedia.org/wiki/Category:月刊ヤングジャンプ "wikilink") [Category:アイドルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:アイドルを題材とした漫画作品 "wikilink") [Category:女装漫画](https://ja.wikipedia.org/wiki/Category:女装漫画 "wikilink")

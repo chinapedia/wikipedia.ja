@@ -7,7 +7,7 @@
 
 同一ジャンルの雑誌では最も古い、とされている。第一線の光学・エレクトロニクス・デバイスなどの技術者・研究者の論文を掲載し、充実した最先端の論文で専門家の間で支持されている。
 
-[2001年](../Page/2001年.md "wikilink")、[日本光学会](https://ja.wikipedia.org/wiki/日本光学会 "wikilink")の50周年記念[会員アンケート](http://annex.jsap.or.jp/OSJ/50th_cd/main/mirai/anketo/main2-07.htm)において、同会の会報『光学』とならび、同会会員が「解説記事がもっとも充実している光学関連雑誌」と評価する雑誌No.1となった。
+[2001年](../Page/2001年.md "wikilink")、[日本光学会](../Page/日本光学会.md "wikilink")の50周年記念[会員アンケート](http://annex.jsap.or.jp/OSJ/50th_cd/main/mirai/anketo/main2-07.htm)において、同会の会報『光学』とならび、同会会員が「解説記事がもっとも充実している光学関連雑誌」と評価する雑誌No.1となった。
 
 ## 関連項目
 

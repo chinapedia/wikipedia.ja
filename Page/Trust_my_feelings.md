@@ -14,7 +14,7 @@
 ## 収録曲
 
 1.  **Trust my feelings**
-    （作詞:[原口睦](https://ja.wikipedia.org/wiki/原口睦 "wikilink")　補作詞:[山本成美](https://ja.wikipedia.org/wiki/山本成美 "wikilink")　作曲:[久保田光太郎](https://ja.wikipedia.org/wiki/久保田光太郎 "wikilink")　編曲:[家原正樹](https://ja.wikipedia.org/wiki/家原正樹 "wikilink")）
+    （作詞:[原口睦](https://ja.wikipedia.org/wiki/原口睦 "wikilink")　補作詞:[山本成美](https://ja.wikipedia.org/wiki/山本成美 "wikilink")　作曲:[久保田光太郎](../Page/久保田光太郎.md "wikilink")　編曲:[家原正樹](https://ja.wikipedia.org/wiki/家原正樹 "wikilink")）
       -
         LF系「[LF+R](../Page/LF+R.md "wikilink")ウラナイ\! プロジェクト第一弾\!」テーマソング
 2.  **no fear**

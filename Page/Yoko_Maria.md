@@ -97,7 +97,7 @@
 
   - [Yoko Maria Official Homepage](http://www.yoko-maria.com/index.html)
 
-[Category:日本のソプラノ歌手](https://ja.wikipedia.org/wiki/Category:日本のソプラノ歌手 "wikilink") [Category:クラシカル・クロスオーバーの歌手](https://ja.wikipedia.org/wiki/Category:クラシカル・クロスオーバーの歌手 "wikilink") [Category:カールスルーエ音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:カールスルーエ音楽大学出身の人物 "wikilink") [Category:東京音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:東京音楽大学出身の人物 "wikilink") [Category:モスクワ音楽院出身の人物](https://ja.wikipedia.org/wiki/Category:モスクワ音楽院出身の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のソプラノ歌手](https://ja.wikipedia.org/wiki/Category:日本のソプラノ歌手 "wikilink") [Category:クラシカル・クロスオーバーの歌手](https://ja.wikipedia.org/wiki/Category:クラシカル・クロスオーバーの歌手 "wikilink") [Category:カールスルーエ音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:カールスルーエ音楽大学出身の人物 "wikilink") [Category:東京音楽大学出身の人物](https://ja.wikipedia.org/wiki/Category:東京音楽大学出身の人物 "wikilink") [Category:モスクワ音楽院出身の人物](https://ja.wikipedia.org/wiki/Category:モスクワ音楽院出身の人物 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

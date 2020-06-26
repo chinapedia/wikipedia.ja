@@ -201,7 +201,7 @@ CD盤とアナログ盤とでは、ジャケットに載っているロゴの位
 **いちょう並木のセレナーデ**
 
   - [1996年](../Page/1996年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") [テレビ朝日](../Page/テレビ朝日.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』
-  - [2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[スッキリ](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")』\[5\]
+  - [2019年](../Page/2019年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[スッキリ](../Page/スッキリ_\(テレビ番組\).md "wikilink")』\[5\]
 
 ## カバー
 

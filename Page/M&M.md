@@ -50,6 +50,8 @@
   - [絶対女帝都市 ～叛逆の男・カムイ～](https://ja.wikipedia.org/wiki/絶対女帝都市_～叛逆の男・カムイ～ "wikilink")（アストロノーツ・シリウス）
   - 極限痴漢特異点（アストロノーツ・シリウス）\[1\]
 
+## 脚注
+
 [Category:ゲームのグラフィッカー・原画家](https://ja.wikipedia.org/wiki/Category:ゲームのグラフィッカー・原画家 "wikilink") [Category:日本のイラストレーター](https://ja.wikipedia.org/wiki/Category:日本のイラストレーター "wikilink") [Category:アトリエかぐや](https://ja.wikipedia.org/wiki/Category:アトリエかぐや "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:共有筆名](https://ja.wikipedia.org/wiki/Category:共有筆名 "wikilink")
 
 1.

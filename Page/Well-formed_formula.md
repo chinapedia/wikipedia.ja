@@ -7,7 +7,7 @@
 
 ## 語誌
 
-[thumbを構成する統語論的実体の概念図](https://ja.wikipedia.org/wiki/ファイル:Formal_languages.svg "wikilink")。記号 (symbol) と記号列 (strings of symbols) は、その形式言語に含まれないものと含まれるもの（整式）に大別される。形式言語はその整論理式の集合と等価と考えることができる（大袈裟な言いかたをしているだけで、コンピュータの[プログラミング言語](../Page/プログラミング言語.md "wikilink")で言えば要するに、構文規則に沿ってないソースコードは構文エラー（シンタックスエラー）である、というのと同じ話）。整論理式の集合は[定理](../Page/定理.md "wikilink") (theorem) とそうでないものに大別される。\]\] 初期の[数理論理学](../Page/数理論理学.md "wikilink")者の幾人かは、"formula" を「単なる記号列」、wff を「formulaのうち、正しい構成規則に従って作られた記号列」として区別し\[1\]、幾人かは単に "formula" と総称した\[2\]\[3\]\[4\]\[5\]。
+[thumbを構成する統語論的実体の概念図](https://ja.wikipedia.org/wiki/ファイル:Formal_languages.svg "wikilink")。記号 (symbol) と記号列 (strings of symbols) は、その形式言語に含まれないものと含まれるもの（整式）に大別される。形式言語はその論理式の集合と等価と考えることができる（大袈裟な言いかたをしているだけで、コンピュータの[プログラミング言語](../Page/プログラミング言語.md "wikilink")で言えば要するに、構文規則に沿ってないソースコードは構文エラー（シンタックスエラー）である、というのと同じ話）。論理式の集合は[定理](../Page/定理.md "wikilink") (theorem) とそうでないものに大別される。\]\] 初期の[数理論理学](../Page/数理論理学.md "wikilink")者の幾人かは、"formula" を「単なる記号列」、wff を「formulaのうち、正しい構成規則に従って作られた記号列」として区別し\[1\]、幾人かは単に "formula" と総称した\[2\]\[3\]\[4\]\[5\]。
 
 いずれにせよ[形式言語](../Page/形式言語.md "wikilink")という考え方が定着した現代では、わざわざ断ることなどなく、wffのみが議論の対象である。すなわち、定められている構文規則に従った記号の並び（たとえば数式であれば`1 * (2 + 3)`といったような）のみが議論の対象となる式であり、同様の記号を使っていても、単なるデタラメに並べたものにしか見えないようなもの（たとえば数式であれば`* + ) 3 5 /`といったような）は、何か変な議論を仕掛けようとしている哲学者などでもない限り、単に、議論の対象から外すだけである（[オッカムの剃刀](../Page/オッカムの剃刀.md "wikilink")）。
 
@@ -141,6 +141,7 @@
 
   - [WFF N PROOF game site](http://wffnproof.com/)
 
+  -
 [Category:論理式](https://ja.wikipedia.org/wiki/Category:論理式 "wikilink") [Category:形式言語](https://ja.wikipedia.org/wiki/Category:形式言語 "wikilink") [Category:数理論理学](https://ja.wikipedia.org/wiki/Category:数理論理学 "wikilink") [Category:述語論理](https://ja.wikipedia.org/wiki/Category:述語論理 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")
 
 1.  Alonzo Church, \[1996\] (1944), Introduction to mathematical logic, page 49

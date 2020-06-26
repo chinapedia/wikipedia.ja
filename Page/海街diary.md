@@ -404,7 +404,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/松尾彩加" title="wikilink">松尾彩加</a></li>
 <li><a href="../Page/内田健太.md" title="wikilink">内田健太</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/大崎捺希" title="wikilink">大崎捺希</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/加藤央睦" title="wikilink">加藤央睦</a></li>
+<li><a href="../Page/加藤央睦.md" title="wikilink">加藤央睦</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/亀田彩香" title="wikilink">亀田彩香</a></li>

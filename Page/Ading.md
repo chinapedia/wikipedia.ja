@@ -57,5 +57,5 @@
 [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink")
 
 1.  所属事務所のホワイトミュージックが企画制作
-2.  1998年までは当時のマネージメントオフィス[B.U.M](https://ja.wikipedia.org/wiki/B.U.M "wikilink")が企画をし、制作はユースリープロジェクトに委託。1999年より自社で制作するようになる。2001年に[VERMILLION](https://ja.wikipedia.org/wiki/VERMILLION "wikilink")に業務移管後は、2006年までビーインググループのBMF(かつて同グループ内に同名の原盤制作会社が存在していたが、別会社)が企画制作。2003年と2005年のLIVE-GYMは、イベンターの[H.I.P.との共同企画制作](https://ja.wikipedia.org/wiki/ハヤシインターナショナルプロモーション "wikilink")。
+2.  1998年までは当時のマネージメントオフィス[B.U.M](https://ja.wikipedia.org/wiki/B.U.M "wikilink")が企画をし、制作はユースリープロジェクトに委託。1999年より自社で制作するようになる。2001年に[VERMILLION](../Page/VERMILLION.md "wikilink")に業務移管後は、2006年までビーインググループのBMF(かつて同グループ内に同名の原盤制作会社が存在していたが、別会社)が企画制作。2003年と2005年のLIVE-GYMは、イベンターの[H.I.P.との共同企画制作](https://ja.wikipedia.org/wiki/ハヤシインターナショナルプロモーション "wikilink")。
 3.  企画は所属事務所のDreamix・制作はキョードープロモーションへ委託

@@ -41,4 +41,6 @@
 
   - [PVに子役時代の](../Page/ミュージック・ビデオ.md "wikilink")[ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")が出演している。役どころは少年の頃の[RYUICHIという設定](../Page/河村隆一.md "wikilink")。手に持っていた[鴉の死体は本物で](../Page/カラス.md "wikilink")、「泣きそうなほど怖かった」と後にテレビ番組で語っていた。
 
+## 脚注
+
 [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:LUNA_SEAの楽曲](https://ja.wikipedia.org/wiki/Category:LUNA_SEAの楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

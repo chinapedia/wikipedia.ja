@@ -1,7 +1,7 @@
 > この記事は[マリオ\&ソニック AT 北京オリンピック](https://ja.wikipedia.org/wiki/マリオ\&ソニック_AT_北京オリンピック)から翻訳されています。
 
 
-『**マリオ&ソニック AT 北京オリンピック**』（マリオアンドソニック アット ペキンオリンピック、*Mario & Sonic at the Olympic Games*）は、[任天堂](../Page/任天堂.md "wikilink")と[セガの共同開発による](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")・[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。発売は、日本では任天堂が、日本以外ではセガが担当している。
+『**マリオ&ソニック AT 北京オリンピック**』（マリオアンドソニック アット ペキンオリンピック、*Mario & Sonic at the Olympic Games*）は、[任天堂](../Page/任天堂.md "wikilink")と[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")の共同開発による[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")・[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[スポーツゲーム](../Page/スポーツゲーム.md "wikilink")。発売は、日本では任天堂が、日本以外ではセガが担当している。
 
 ## 概要
 
@@ -80,46 +80,46 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
 ### マリオシリーズ
 
   - [キノピオ](../Page/キノピオ.md "wikilink")
-    ハンマー投げ(Wii)、三段跳(Wii)、走幅跳(Wii)、高飛込み(DS)、ドリームフェンシング(DS)
+    ハンマー投げ（Wii）、三段跳（Wii）、走幅跳（Wii）、高飛込み（DS）、ドリームフェンシング（DS）
   - [ノコノコ](../Page/ノコノコ.md "wikilink")
-    ハンマー投げ(Wii)、高飛込み(DS)
+    ハンマー投げ（Wii）、高飛込み（DS）
   - [クリボー](../Page/クリボー.md "wikilink")
-    ギャラリー(Wii、DS)
+    ギャラリー（Wii、DS）
   - [ジュゲム](../Page/ジュゲム.md "wikilink")
-    走幅跳(Wii)、ハンマー投げ(DS)、高飛込み(DS)
+    走幅跳（Wii）、ハンマー投げ（DS）、高飛込み（DS）
   - [ヘイホー](../Page/ヘイホー_\(ゲームキャラクター\).md "wikilink")
-    ギャラリー(DS)、高飛込み(DS)
+    ギャラリー（DS）、高飛込み（DS）
   - [ボム兵](../Page/ボム兵.md "wikilink")
-    ギャラリー(Wii、DS)、観客(DS)
+    ギャラリー（Wii、DS）、観客（DS）
   - [テレサ](../Page/テレサ_\(ゲームキャラクター\).md "wikilink")
-    ギャラリー(DS)
+    ギャラリー（DS）
   - [キラー](../Page/キラー_\(ゲームキャラクター\).md "wikilink")
-    ギャラリー(Wii、DS)
+    ギャラリー（Wii、DS）
 
 ### ソニックシリーズ
 
   - [クリーム](https://ja.wikipedia.org/wiki/クリーム・ザ・ラビット "wikilink")
-    やり投げ(Wii、DS)、高飛込み(DS)、エペ(DS)、三段跳(DS)、走幅跳(DS)、ドリームフェンシング(DS)
+    やり投げ（Wii、DS）、高飛込み（DS）、エペ（DS）、三段跳（DS）、走幅跳（DS）、ドリームフェンシング（DS）
   - エスピオ
-    やり投げ(Wii)、ハンマー投げ(Wii)、高飛込み(DS)
+    やり投げ（Wii）、ハンマー投げ（Wii）、高飛込み（DS）
   - チャーミー
-    やり投げ(Wii、DS)、ハンマー投げ(Wii、DS)、三段跳(Wii)、高飛込み(DS)
+    やり投げ（Wii、DS）、ハンマー投げ（Wii、DS）、三段跳（Wii）、高飛込み（DS）
   - ビッグ
-    シングルスカル(Wii)
+    シングルスカル（Wii）
   - [チャオ](../Page/チャオ_\(ゲームキャラクター\).md "wikilink")
-    観客(Wii、DS)
+    観客（Wii、DS）
   - [オモチャオ](https://ja.wikipedia.org/wiki/オモチャオ "wikilink")
-    観客(Wii、DS)
+    観客（Wii、DS）
   - フリッキー
-    観客(Wii、DS)
+    観客（Wii、DS）
   - キキ
-    ギャラリー(Wii、DS)、ドリームシューティング(DS)
+    ギャラリー（Wii、DS）、ドリームシューティング（DS）
   - エッグポーン
-    ギャラリー(DS)、ドリームシューティング(DS)
+    ギャラリー（DS）、ドリームシューティング（DS）
   - フラッパー
-    ギャラリー(Wii、DS)、ドリームシューティング(DS)
+    ギャラリー（Wii、DS）、ドリームシューティング（DS）
 
-## 収録モード(Wii版・DS版)
+## 収録モード（Wii版・DS版）
 
 ### サーキット
 
@@ -167,9 +167,9 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
 
   - 陸上・フィールド - ハンマー投げ
 
-  - 陸上・トラック　-200m走
+  - 陸上・トラック - 200m走
 
-  - 陸上・トラック　-1500m走
+  - 陸上・トラック - 1500m走
 
   - 陸上・トラック - 110m/400mハードル
 
@@ -184,13 +184,13 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
 
   - 競泳 - 100m自由形
 
-  - 競泳-50m自由形
+  - 競泳 - 50m自由形
 
   - 競泳 - 4×100mリレー
 
-  - 競泳-200m平泳ぎ
+  - 競泳 - 200m平泳ぎ
 
-  - 競泳-10m高飛び
+  - 競泳 - 10m高飛び
 
 ### ドリーム競技
 
@@ -230,7 +230,7 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
 
   - リプレイ
   - シュート
-  - カルタ(LV1)→しんけいすいじゃく(LV1)→シャッフル→カルタ(LV2)→しんけいすいじゃく(LV2)
+  - カルタ（LV1）→しんけいすいじゃく（LV1）→シャッフル→カルタ（LV2）→しんけいすいじゃく（LV2）
   - ひこうせん
   - ベルトコンベア
 
@@ -248,10 +248,10 @@ Wii版とDS版の違いは、Wii版はWiiリモコンとヌンチャクを使っ
 
 ## 外部リンク
 
-  - [マリオ&ソニック AT 北京オリンピック（Wii）](http://www.nintendo.co.jp/wii/rwsj/index.html)
-  - [マリオ&ソニック AT 北京オリンピック（DS）](http://www.nintendo.co.jp/ds/ay9j/index.html)
+  - [マリオ&ソニック AT 北京オリンピック（Wii）](https://www.nintendo.co.jp/wii/rwsj/index.html)
+  - [マリオ&ソニック AT 北京オリンピック（DS）](https://www.nintendo.co.jp/ds/ay9j/index.html)
 
 [Category:マリオ&ソニック](https://ja.wikipedia.org/wiki/Category:マリオ&ソニック "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:2008年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2008年のコンピュータゲーム "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:2008年北京オリンピック](https://ja.wikipedia.org/wiki/Category:2008年北京オリンピック "wikilink") [Category:中国を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:中国を舞台としたコンピュータゲーム "wikilink")
 
-1.  [N.O.M 2009年11月号 No.136 : 『マリオ＆ソニック AT バンクーバーオリンピック』開発スタッフインタビュー](http://www.nintendo.co.jp/nom/0911/index1.html)
+1.  [N.O.M 2009年11月号 No.136 : 『マリオ＆ソニック AT バンクーバーオリンピック』開発スタッフインタビュー](https://www.nintendo.co.jp/nom/0911/index1.html)
 2.

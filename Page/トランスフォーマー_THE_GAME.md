@@ -1,7 +1,7 @@
 > この記事は[トランスフォーマー THE GAME](https://ja.wikipedia.org/wiki/トランスフォーマー_THE_GAME)から翻訳されています。
 
 
-『**トランスフォーマー THE GAME**』(*Transformers THE GAME*)は、[アクティビジョン](../Page/アクティビジョン.md "wikilink")から発売されたアクションゲーム。日本では[2007年](../Page/2007年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に公開された映画[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")（[スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")制作総指揮、[パラマウント](https://ja.wikipedia.org/wiki/パラマウント "wikilink")映画配給）をゲーム化したものである。
+『**トランスフォーマー THE GAME**』（*Transformers THE GAME*）は、[アクティビジョン](../Page/アクティビジョン.md "wikilink")から発売されたアクションゲーム。日本では[2007年](../Page/2007年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に公開された映画[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")（[スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")制作総指揮、[パラマウント映画](../Page/パラマウント映画.md "wikilink")配給）をゲーム化したものである。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版には、オートボット版とディセプティコン版が発売。
 
-[ハイビジョン対応の](https://ja.wikipedia.org/wiki/ハイビジョン#.E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E3.83.8F.E3.82.A4.E3.83.93.E3.82.B8.E3.83.A7.E3.83.B3 "wikilink")[プレイステーション3版は](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、映画さながらの映像美でプレイ可能。 Xbox360の日本版は未発売だが、アジア版は日本のXbox360でプレイでき,PS3版同様にハイビジョンでプレイできる（海外版なので日本語は未収録）。なお海外ではPSP版も発売。
+[ハイビジョン対応の](https://ja.wikipedia.org/wiki/ハイビジョン#デジタルハイビジョン "wikilink")[プレイステーション3版は](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、映画さながらの映像美でプレイ可能。Xbox360の日本版は未発売だが、アジア版は日本のXbox360でプレイでき、PS3版同様にハイビジョンでプレイできる（海外版なので日本語は未収録）。なお海外ではPSP版も発売。
 
 日本国外では実写映画版の続編公開と合わせ、ゲーム版の続編でもある「Transformers Revenge of the Fallen:The Game」が2009年に発売され、2011年には「Transformers: Dark of the Moon: The Game」が発売されたが、日本では発売されなかった。
 

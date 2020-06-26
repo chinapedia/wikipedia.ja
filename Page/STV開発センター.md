@@ -7,7 +7,7 @@
 
   - [1982年](../Page/1982年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")、創立（北海道札幌市）（資本金500万円）
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、増資（1000万円）
-  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")プロジェクトとの提携により[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組を開始。（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、北海道エリア）
+  - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")プロジェクトとの提携により[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組を開始。（[STVラジオ](../Page/STVラジオ.md "wikilink")、北海道エリア）
   - [1993年](../Page/1993年.md "wikilink")、「[どさんこワイド](../Page/どさんこワイド.md "wikilink")」の「丸得情報ベストショッピング」に参入。\[1\]
   - [1994年](../Page/1994年.md "wikilink")、[テレビショッピング](../Page/テレビショッピング.md "wikilink")番組「[喜瀬ひろしと幸代のこれは五つ星](../Page/喜瀬浩.md "wikilink")\!」スタート（[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")）\[2\]
   - [1996年](../Page/1996年.md "wikilink")、年末特別テレビショッピング番組「[冬の釧路&根室は魚がうまい\!〜海の幸ショッピング〜](../Page/冬の釧路&根室は魚がうまい!〜海の幸ショッピング〜.md "wikilink")」スタート）
@@ -16,7 +16,7 @@
   - [2009年](../Page/2009年.md "wikilink")、年末特別テレビ番組「[あき竹城の北海道 味の物産市\!](https://ja.wikipedia.org/wiki/あき竹城の北海道_味の物産市! "wikilink")」スタート\[4\]
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、テレビショッピング番組「ぞっこん\!ほっかいどう情熱市場」スタート（札幌テレビ放送）\[5\]
   - [2013年](../Page/2013年.md "wikilink")、テレビショッピング番組「Sチョイス\!」スタート（札幌テレビ放送）
-  - [2014年](../Page/2014年.md "wikilink")、[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組「喜瀬の日曜ショッピング」スタート（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）
+  - [2014年](../Page/2014年.md "wikilink")、[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")番組「喜瀬の日曜ショッピング」スタート（[STVラジオ](../Page/STVラジオ.md "wikilink")）
 
 ## 通信販売事業
 
@@ -36,7 +36,7 @@
 
 ### ラジオ
 
-  - ラジオホームショップ（平日）[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（北海道エリア）
+  - ラジオホームショップ（平日）[STVラジオ](../Page/STVラジオ.md "wikilink")（北海道エリア）
   - ザ・太鼓判（9月、12月、3月に一週間の特別番組）STVラジオ（北海道エリア）
   - 喜瀬の日曜ショッピング（日曜8:15 - ）（STVラジオ）（北海道エリア）
 
@@ -65,7 +65,7 @@
 
 ## 広告事業
 
-[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の代理店業務を中心に、新聞、雑誌ほか、自治体イベント、講習会なども手がける。
+[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")、[STVラジオ](../Page/STVラジオ.md "wikilink")の代理店業務を中心に、新聞、雑誌ほか、自治体イベント、講習会なども手がける。
 
 ## 脚注
 

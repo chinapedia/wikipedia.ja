@@ -33,6 +33,6 @@
 
 <references />
 
-[Category:JUDY_AND_MARYの楽曲](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:めちゃイケ](https://ja.wikipedia.org/wiki/Category:めちゃイケ "wikilink") [Category:YUKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUKIが制作した楽曲 "wikilink") [Category:恩田快人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:恩田快人が制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:JUDY_AND_MARYの楽曲](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYの楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:めちゃイケ](https://ja.wikipedia.org/wiki/Category:めちゃイケ "wikilink") [Category:YUKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUKIが制作した楽曲 "wikilink") [Category:恩田快人が制作した楽曲](https://ja.wikipedia.org/wiki/Category:恩田快人が制作した楽曲 "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:涙を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:涙を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.

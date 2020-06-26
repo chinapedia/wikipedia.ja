@@ -61,7 +61,7 @@ Bstar</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上原亜衣" title="wikilink">上原亜衣</a>、<a href="https://ja.wikipedia.org/wiki/澁谷果歩" title="wikilink">澁谷果歩</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/グランツプロ" title="wikilink">グランツプロ</a>（旧 サンプロ）</p></td>
+<td><p><a href="../Page/グランツプロ.md" title="wikilink">グランツプロ</a>（旧 サンプロ）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/星野ナミ" title="wikilink">星野ナミ</a>、<a href="https://ja.wikipedia.org/wiki/麻倉憂" title="wikilink">麻倉憂</a>など</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/村上涼子" title="wikilink">村上涼子</a>など</p></td>
 <td></td>

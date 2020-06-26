@@ -20,6 +20,7 @@
 2.  **Top Checker** - Coming Century feat.[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")
       -
         作詞：[浦塚勝人](https://ja.wikipedia.org/wiki/浦塚勝人 "wikilink")、作曲・編曲：[笹本安詞](https://ja.wikipedia.org/wiki/笹本安詞 "wikilink")
+        2009年-2010年開催「[V6 ASIA TOUR 2009-2010](https://ja.wikipedia.org/wiki/V6_ASIA_TOUR_2010_in_JAPAN_READY? "wikilink")」では、6人で披露された。
 3.  **Ride on Love**
       -
         作詞：[森浩美](../Page/森浩美.md "wikilink")、作曲・編曲：[横山輝一](../Page/横山輝一.md "wikilink")
@@ -40,6 +41,7 @@
 8.  **X, T, C beat** - 20th Century feat.[三宅健](../Page/三宅健.md "wikilink")
       -
         作詞：[比留間徹](https://ja.wikipedia.org/wiki/比留間徹 "wikilink")、作曲編曲：[大坪直樹](https://ja.wikipedia.org/wiki/大坪直樹 "wikilink")
+        2009年-2010年開催「V6 ASIA TOUR 2009-2010」では、6人で披露された。
 9.  **[CHANGE THE WORLD](../Page/CHANGE_THE_WORLD_\(V6の曲\).md "wikilink")**
       -
         作詞：[松本理恵](../Page/松本理恵.md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[上野圭市](../Page/上野圭市.md "wikilink")
@@ -48,6 +50,7 @@
 10. **Over Drive** - [長野博](../Page/長野博.md "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
       -
         作詞・作曲・編曲：[GENEPOOL](https://ja.wikipedia.org/wiki/GENEPOOL "wikilink")
+        2007年開催「[V6 LIVE TOUR 2007 Voyager -僕と僕らのあしたへ-](https://ja.wikipedia.org/wiki/V6_LIVE_TOUR_2007_Voyager_-僕と僕らのあしたへ- "wikilink")」では、6人で披露された。
 11. **[愛のMelody](../Page/愛のMelody.md "wikilink")**（long long a GO\! GO\! MIX）
       -
         作詞・作曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")、編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")

@@ -138,7 +138,7 @@
 ### ラジオ
 
   - Violent is SavannaのOH LOVE YOU（[AIR-G'（FM北海道）](../Page/エフエム北海道.md "wikilink")、2010年4月 - 2011年9月（毎週木曜日）） - レギュラー（星花のみ）
-  - Beアンビシャス（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、毎週[日曜日](../Page/日曜日.md "wikilink")） - 2007年9月度月間パーソナリティー
+  - Beアンビシャス（[STVラジオ](../Page/STVラジオ.md "wikilink")、毎週[日曜日](../Page/日曜日.md "wikilink")） - 2007年9月度月間パーソナリティー
   - [スーパーヒットチャートなまらん](../Page/スーパーヒットチャートなまらん.md "wikilink") （STVラジオ、毎週月曜日 - 金曜日） - ゲスト
 
 ## 出典

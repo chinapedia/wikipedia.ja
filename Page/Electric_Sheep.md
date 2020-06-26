@@ -22,4 +22,4 @@
   - [electricsheep](http://electricsheep.wikispaces.com/) at Wikispace
   - [electricsheep スクリーンセーバ](http://www.bridge1.com/electricsheep.html) Mac OS Xの日本語版
 
-[Category:分散コンピューティングプロジェクト](https://ja.wikipedia.org/wiki/Category:分散コンピューティングプロジェクト "wikilink") [Category:コンピュータグラフィックス](https://ja.wikipedia.org/wiki/Category:コンピュータグラフィックス "wikilink") [Category:ブレードランナー](https://ja.wikipedia.org/wiki/Category:ブレードランナー "wikilink")
+[Category:分散コンピューティングプロジェクト](https://ja.wikipedia.org/wiki/Category:分散コンピューティングプロジェクト "wikilink") [Category:コンピュータアート](https://ja.wikipedia.org/wiki/Category:コンピュータアート "wikilink") [Category:フラクタル・ソフトウェア](https://ja.wikipedia.org/wiki/Category:フラクタル・ソフトウェア "wikilink") [Category:ブレードランナー](https://ja.wikipedia.org/wiki/Category:ブレードランナー "wikilink")

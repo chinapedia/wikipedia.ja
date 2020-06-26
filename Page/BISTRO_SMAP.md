@@ -5,7 +5,7 @@
 
 ## 概要
 
-[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のメンバー（[中居正広](../Page/中居正広.md "wikilink")・[木村拓哉](../Page/木村拓哉.md "wikilink")・[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")）がレストラン「BISTRO SMAP」の[オーナー](../Page/オーナー.md "wikilink")と[シェフ](../Page/シェフ.md "wikilink")に扮して、来店したゲストのオーダーに合った料理を振る舞い、一番ゲストの気に入った料理を作った勝者を決めるコーナーである。1996年の番組放送開始から2016年12月まで放送されており、作られた料理のレシピをまとめた番組本がベストセラーになるなど、番組の顔とも言えるコーナー。
+[SMAP](../Page/SMAP.md "wikilink")のメンバー（[中居正広](../Page/中居正広.md "wikilink")・[木村拓哉](../Page/木村拓哉.md "wikilink")・[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")・[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")）がレストラン「BISTRO SMAP」の[オーナー](../Page/オーナー.md "wikilink")と[シェフ](../Page/シェフ.md "wikilink")に扮して、来店したゲストのオーダーに合った料理を振る舞い、一番ゲストの気に入った料理を作った勝者を決めるコーナーである。1996年の番組放送開始から2016年12月まで放送されており、作られた料理のレシピをまとめた番組本がベストセラーになるなど、番組の顔とも言えるコーナー。
 
 当初は、メンバーの中で料理が得意だった[森且行](../Page/森且行.md "wikilink")（当時SMAPメンバー）と木村が料理で対戦するというコンセプトで始まり、「**あなたの想い出つくります**」というサブタイトルもあった。しかし、番組開始直後に森が[オートレース](../Page/オートレース.md "wikilink")の選手になるためSMAPを脱退。残った5人のうち、中居（オーナー）を除く4人が二手に分かれて料理を作って対戦する形態に変更になった。
 

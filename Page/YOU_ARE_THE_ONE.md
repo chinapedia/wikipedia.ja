@@ -65,6 +65,7 @@
 
   - 『[ARIGATO 30 MILLION COPIES -BEST OF TK WORKS](https://ja.wikipedia.org/wiki/ARIGATO_30_MILLION_COPIES_-BEST_OF_TK_WORKS "wikilink")』 (\#1)
   - 『[THE GREATEST HITS - 小室哲哉作品集 - a](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_-_小室哲哉作品集_-_a "wikilink")』 (\#1)
+  - [『TETSUYA KOMURO ARCHIVES](https://ja.wikipedia.org/wiki/TETSUYA_KOMURO_ARCHIVES "wikilink")』
 
 ## セルフカバー
 

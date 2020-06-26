@@ -25,7 +25,7 @@
 4.  [あの日にかえりたい](../Page/あの日にかえりたい.md "wikilink")（[荒井由実](https://ja.wikipedia.org/wiki/松任谷由実#荒井由実時代 "wikilink")）/市井紗耶香
 5.  [待つわ](../Page/待つわ.md "wikilink")（[あみん](../Page/あみん.md "wikilink")）/市井紗耶香・中澤裕子
 6.  [花と小父さん](https://ja.wikipedia.org/wiki/花と小父さん "wikilink") （[伊東きよ子](https://ja.wikipedia.org/wiki/伊東きよ子 "wikilink")）/市井紗耶香・杉田二郎
-7.  [ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")（[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")）/市井紗耶香・中澤裕子
+7.  [ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")（[モーニング娘。](../Page/モーニング娘。.md "wikilink")）/市井紗耶香・中澤裕子
 8.  [かもめはかもめ](https://ja.wikipedia.org/wiki/かもめはかもめ "wikilink")（[研ナオコ](../Page/研ナオコ.md "wikilink")）/中澤裕子
 9.  [在る日突然](https://ja.wikipedia.org/wiki/在る日突然 "wikilink") （[トワ・エ・モワ](../Page/トワ・エ・モワ.md "wikilink")）/市井紗耶香・ばんばひろふみ
 10. [秋止符](https://ja.wikipedia.org/wiki/秋止符 "wikilink")（[アリス](../Page/アリス_\(フォークグループ\).md "wikilink")） /市井紗耶香・中澤裕子・堀内孝雄

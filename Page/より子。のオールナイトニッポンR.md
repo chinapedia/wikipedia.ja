@@ -43,7 +43,7 @@
 
 1.  [桜坂](../Page/桜坂_\(福山雅治の曲\).md "wikilink")（[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")、[4月2日](../Page/4月2日.md "wikilink")）
 2.  STARS（[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")、[4月9日](../Page/4月9日.md "wikilink")）
-3.  [世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")（[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[4月16日](../Page/4月16日.md "wikilink")）
+3.  [世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")、[4月16日](../Page/4月16日.md "wikilink")）
 4.  [Tears In Heaven](../Page/ティアーズ・イン・ヘヴン.md "wikilink")（[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")、[4月23日](../Page/4月23日.md "wikilink")）
 5.  [月のしずく](../Page/月のしずく_\(柴咲コウの曲\).md "wikilink")（[RUI（柴咲コウ）](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")、[4月30日](../Page/4月30日.md "wikilink")）
 6.  空がきれい（[RAG FAIR](../Page/RAG_FAIR.md "wikilink")、[5月7日](../Page/5月7日.md "wikilink")）

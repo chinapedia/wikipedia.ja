@@ -18,7 +18,7 @@ ITガバナンスの言葉自体は非常に広義にとられ、その定義も
 ## 関連項目
 
   - [システム監査技術者試験](../Page/システム監査技術者試験.md "wikilink")
-  - [ISACA](https://ja.wikipedia.org/wiki/ISACA "wikilink")
+  - [ISACA](../Page/ISACA.md "wikilink")
   - [企業情報システム](https://ja.wikipedia.org/wiki/企業情報システム "wikilink")
   - [情報子会社問題](https://ja.wikipedia.org/wiki/情報子会社問題 "wikilink")
   - [コーポレート・ガバナンス](../Page/コーポレート・ガバナンス.md "wikilink")

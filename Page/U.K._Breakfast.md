@@ -17,50 +17,29 @@
 
 ※トラック番号はCDに準ずる
 
-1.
-
-    <li value="2">
-
-    **Girl**
-
+1.  **Far Away**
+2.  **Girl**
       -
         [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[桃色学園都市宣言\!\!](https://ja.wikipedia.org/wiki/桃色学園都市宣言!! "wikilink")』主題歌。後にアルフィー2枚目の[リカット](../Page/リカット.md "wikilink")シングルのカップリング曲として収録された。また、[2009年](../Page/2009年.md "wikilink")のシングル「[夜明けを求めて](https://ja.wikipedia.org/wiki/夜明けを求めて "wikilink")」にはライブバージョンが収録されている。
-
-2.
-
-    <li value="3">
-
-    **Stand Up, Baby -愛こそすべて-**
-
+3.  **Stand Up, Baby -愛こそすべて-**
       -
         この年の春のツアーで曲名未定の状態で初披露され「高見沢がハンドマイクで踊りながら歌う」姿にファンが騒然となった。ギターパートが一切収録されていない。高見沢のソロアルバム『Belrin Calling』に高見沢のソロバージョンが収録されている。
-
-3.
-
-    <li value="5">
-
-    **聖夜 -二人のSilent Night-**
-
-<!-- end list -->
-
-  -
-    ALFEE初のクリスマスソングで、この年以降、毎年クリスマスイブの武道館コンサートで演奏される。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のシングル「[Lifetime Love](../Page/Lifetime_Love.md "wikilink")」にはライブバージョンが収録。リードヴォーカルは坂崎だが、2005年の武道館公演では一部を桜井、高見沢も歌っている。
-
-<!-- end list -->
-
-1.  **[1月の雨を忘れない](../Page/1月の雨を忘れない.md "wikilink")**
+4.  **聖夜 -二人のSilent Night-**
+      -
+        ALFEE初のクリスマスソングで、この年以降、毎年クリスマスイブの武道館コンサートで演奏される。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のシングル「[Lifetime Love](../Page/Lifetime_Love.md "wikilink")」にはライブバージョンが収録。リードヴォーカルは坂崎だが、2005年の武道館公演では一部を桜井、高見沢も歌っている。
+5.  **[1月の雨を忘れない](../Page/1月の雨を忘れない.md "wikilink")**
       -
         「Girl」と共にシングルカットされ、そのタイトル曲となった。なお、[オリコンチャート](../Page/オリコンチャート.md "wikilink")に入ったアルフィーのリカットシングルは [2012年](../Page/2012年.md "wikilink")現在本作のみである。
-2.  **It's Alright**
+6.  **It's Alright**
       -
         シングル「[My Truth](../Page/My_Truth.md "wikilink")」のカップリング曲をアレンジしたもの。[LPには未収録](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。
-3.  **クリスティーナ**
+7.  **クリスティーナ**
       -
         [とんねるず](../Page/とんねるず.md "wikilink")のアルバム『河口湖』に提供した楽曲のセルフカヴァー。1990年の武道館公演（ビデオ『LONG WAY TO FREEDOM REVOLUTION II & Smile photo collection』収録）では[石橋貴明](../Page/石橋貴明.md "wikilink")がゲスト出演し、この曲を披露した。
-4.  **[My Truth](../Page/My_Truth.md "wikilink")**
+8.  **[My Truth](../Page/My_Truth.md "wikilink")**
       -
         シングルのオリジナルバージョンよりも打楽器とアコースティックギターの音が目立っている。
-5.  **終わりなきメッセージ**
+9.  **終わりなきメッセージ**
       -
         この曲のコーラスパートには、坂崎の母校である東京都立墨田川高校フォークソングクラブの一同が参加している(坂崎はその創設メンバーでもある)。ライブでは[シーケンサーによってこのコーラスパートが演奏に重ねられている](https://ja.wikipedia.org/wiki/シーケンサー_\(音楽\) "wikilink")。近年ライヴでは大幅にアレンジが変更されたバージョンで演奏される事があり、その音源は「[桜の実の熟する時/風の詩](https://ja.wikipedia.org/wiki/桜の実の熟する時/風の詩 "wikilink")」のカップリングの一つに収録されている。
 

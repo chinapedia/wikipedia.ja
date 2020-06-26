@@ -1,7 +1,7 @@
 > この記事は[New deal](https://ja.wikipedia.org/wiki/New_deal)から翻訳されています。
 
 
-『**new deal**』（ニュー・ディール）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の1枚目の[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")。ベスト盤やリミックス、及び企画盤などではないアルバムとしては今作が2020年現在最新作、かつ最後の作品となっている。
+『**new deal**』（ニュー・ディール）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の1枚目の[ミニ・アルバム](https://ja.wikipedia.org/wiki/ミニ・アルバム "wikilink")。ベスト盤やリミックス、および企画盤などではないアルバムとしては本作が2020年現在最新作、かつ最後の作品となっている。
 
 ## 解説
 
@@ -25,8 +25,8 @@
 4.  **ALL HOPE**
       -
         作詞：MARC
-5.  **[Soldier](https://ja.wikipedia.org/wiki/maniac "wikilink") - LA Session Version -**
+5.  **[Soldier](https://ja.wikipedia.org/wiki/maniac_\(アルバム\) "wikilink") - LA Session Version -**
       -
         作詞：小室哲哉　Rap詞：MARC
 
-[Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:Globeのアルバム](https://ja.wikipedia.org/wiki/Category:Globeのアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink")
+[Category:2006年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のミニ・アルバム "wikilink") [Category:Globeのアルバム](https://ja.wikipedia.org/wiki/Category:Globeのアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink")

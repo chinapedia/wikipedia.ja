@@ -1,7 +1,7 @@
 > この記事は[X-Plane](https://ja.wikipedia.org/wiki/X-Plane)から翻訳されています。
 
 
-**X-Plane**(エックス･プレーン)は、[コンピュータ](../Page/コンピュータ.md "wikilink")用の[64bitの](https://ja.wikipedia.org/wiki/64ビット "wikilink")[フライトシミュレータである](../Page/フライトシミュレーション.md "wikilink")。航空写真や[JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")、[NASAのデータを活用した緻密で詳細な景色や地形と](../Page/アメリカ航空宇宙局.md "wikilink")、リアルなフライトモデルを楽しめる最新鋭の[フライトシミュレーター](../Page/フライトシミュレーション.md "wikilink")。日本語化されている。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Classic Mac OS](../Page/Classic_Mac_OS.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")で使用できる。
+**X-Plane**(エックス･プレーン)は、[コンピュータ](../Page/コンピュータ.md "wikilink")用の[64bitの](https://ja.wikipedia.org/wiki/64ビット "wikilink")[フライトシミュレータである](../Page/フライトシミュレーション.md "wikilink")。航空写真や[JAXA](../Page/宇宙航空研究開発機構.md "wikilink")、[NASAのデータを活用した緻密で詳細な景色や地形と](../Page/アメリカ航空宇宙局.md "wikilink")、リアルなフライトモデルを楽しめる最新鋭の[フライトシミュレーター](../Page/フライトシミュレーション.md "wikilink")。日本語化されている。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Classic Mac OS](../Page/Classic_Mac_OS.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")で使用できる。
 
 ## 概要
 

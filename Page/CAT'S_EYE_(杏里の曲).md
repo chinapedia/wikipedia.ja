@@ -15,11 +15,9 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")からは[森三中](../Page/森三中.md "wikilink")がキャッツ♥アイの3姉妹に扮して話題になった「toto BIG」（[スポーツ振興くじ](../Page/スポーツ振興くじ.md "wikilink")）のCMソングに採用され、10月23日から放送の最終シリーズには杏里本人が登場した。
 
-映画『[居酒屋兆治](../Page/居酒屋兆治.md "wikilink")』では、ヒロインの[大原麗子](https://ja.wikipedia.org/wiki/大原麗子 "wikilink")が病死する場面のバックに、街の喧騒として本曲が流れる。
-
 ## 記録
 
-最終的には130万枚\[2\]（オリコンでは82万枚。当時のオリコンチャートでのアニメ主題歌の歴代最高売り上げ枚数を記録した）のセールスを記録する大ヒットとなった。オリコンでの1位をはじめ、テレビのランキング番組では「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」で番組300回記念の1位、「[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")」では5週連続の1位に輝き、ラジオでも「[コーセー歌謡ベストテン](https://ja.wikipedia.org/wiki/コーセー歌謡ベストテン "wikilink")」で1983年の週間・年間1位を獲得した。
+最終的には130万枚\[2\]（オリコンでは82万枚。当時のオリコン集計でのアニメ主題歌の歴代最高売り上げ枚数を記録した）のセールスを記録する大ヒットとなった。オリコンでの1位をはじめ、テレビのランキング番組では「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」で番組300回記念の1位、「[ザ・トップテン](../Page/ザ・トップテン.md "wikilink")」では5週連続の1位に輝くなど、この年を代表するヒット曲のひとつとなった。
 
 ## 収録曲
 
@@ -57,6 +55,7 @@
   - [Jeanette Christensen](https://ja.wikipedia.org/wiki/E-Rotic "wikilink") 等
   - [SHAKE](https://ja.wikipedia.org/wiki/SHAKE_\(女性歌手グループ\) "wikilink") - カバーシングル『残酷な天使のテーゼ〜ANISON COVER COLLECTION〜」収録（2012年）
   - [ROZE](https://ja.wikipedia.org/wiki/ROZE "wikilink") - シングル「Flower/CAT'S EYE/Let's Play With Fire」収録（2018年）
+  - AMAZONS - 映画『[劇場版シティーハンター 〈新宿プライベート・アイズ〉](https://ja.wikipedia.org/wiki/シティーハンター_\(アニメ\)#劇場版シティーハンター_〈新宿プライベート・アイズ〉 "wikilink")』挿入歌（2019年）
 
 ## 脚注
 

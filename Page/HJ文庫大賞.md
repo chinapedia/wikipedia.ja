@@ -597,7 +597,7 @@
 <tr class="even">
 <td><p>奨励賞</p></td>
 <td><p><em>スクールサミット! -A Bullet Reflects his Destiny-</em></p></td>
-<td><p><em>界達かたる</em></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/界達かたる" title="wikilink">界達かたる</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">

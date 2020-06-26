@@ -1,7 +1,7 @@
 > この記事は[If You Give Your Heart](https://ja.wikipedia.org/wiki/If_You_Give_Your_Heart)から翻訳されています。
 
 
-「**If You Give Your Heart**」（イフ ユー ギヴ ユア ハート）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")のソロデビュー[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")発売。発売元は[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
+「**If You Give Your Heart**」（イフ ユー ギヴ ユア ハート）は、[SMAP](../Page/SMAP.md "wikilink")の[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")のソロデビュー[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")発売。発売元は[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 

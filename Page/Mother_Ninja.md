@@ -100,4 +100,4 @@
   - [Mother NinjaオフィシャルMySpace](http://www.myspace.com/motherninjaspace)
   - [マザニンAboo a.k.a. Akicoの妊婦奮闘ブログ 1+1=3 〜one plus one is three〜](https://ameblo.jp/akico-ninblo/)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:2005年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

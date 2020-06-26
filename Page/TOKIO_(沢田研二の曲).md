@@ -41,7 +41,7 @@
   - [FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")としても使われている。
   - 替え歌が[オープンハウス](https://ja.wikipedia.org/wiki/オープンハウス "wikilink")のCMソングとして使われた。
   - 替え歌が[ロッテアイス](../Page/ロッテアイス.md "wikilink")「[モナ王](../Page/モナ王.md "wikilink")」のCMソングとして使われた。
-  - 2016年、替え歌が[全日空](https://ja.wikipedia.org/wiki/全日空 "wikilink")のCM「HELLO BLUE, HELLO FUTURE 〜2020を、みんなの滑走路にしよう〜」シリーズ（CM出演：[ウサイン・ボルト](../Page/ウサイン・ボルト.md "wikilink")、ギター演奏：[野村義男](../Page/野村義男.md "wikilink")）に使用された。
+  - 2016年、替え歌が[全日空のCM](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")「HELLO BLUE, HELLO FUTURE 〜2020を、みんなの滑走路にしよう〜」シリーズ（CM出演：[ウサイン・ボルト](../Page/ウサイン・ボルト.md "wikilink")、ギター演奏：[野村義男](../Page/野村義男.md "wikilink")）に使用された。
   - [BOYS AND MEN](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink") - [2017年](../Page/2017年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、47のバージョンでカバーした音源「TOKIO 47」を配信リリース\[2\]。
 
 ## 脚注

@@ -22,17 +22,17 @@
 
 ※2007年10月現在
 
-| 放送対象地域                                                  | 放送局名                                                      | 放送時間            | 備考                                                                                                      |
-| ------------------------------------------------------- | --------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                     | ニッポン放送                                                    | 土曜日 16:15～16:25 | <small>「[清水ミチコのミッチャン・インポッシブル](../Page/清水ミチコのミッチャン・インポッシブル.md "wikilink")」内</small>                      |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")     | [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") | 日曜日 12:40～12:50 | <small>「[サンデーミュージックファイター](https://ja.wikipedia.org/wiki/サンデーミュージックファイター "wikilink")」内</small>           |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")     | [東北放送](../Page/東北放送.md "wikilink")                        | 土曜日 10:15～10:25 | <small>2007年10月放送時間変更</small>                                                                           |
-| [中京広域圏](../Page/広域放送.md "wikilink")                     | [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")                    | 日曜日 10:20～10:30 |                                                                                                         |
-| [関西広域圏](https://ja.wikipedia.org/wiki/関西広域圏 "wikilink") | [朝日放送](../Page/朝日放送ラジオ.md "wikilink")                     | 日曜日 12:50～13:00 |                                                                                                         |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")     | [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")   | 日曜日 12:10～12:20 |                                                                                                         |
-| [広島県](../Page/広島県.md "wikilink")                        | [中国放送](../Page/中国放送.md "wikilink")                        | 土曜日 11:20～11:30 |                                                                                                         |
-| [福岡県](../Page/福岡県.md "wikilink")                        | [九州朝日放送](../Page/KBCラジオ.md "wikilink")                    | 日曜日 12:20～12:30 | <small>「[KBCサンデーミュージックカウントダウン](https://ja.wikipedia.org/wiki/KBCサンデーミュージックカウントダウン "wikilink")」内</small> |
-|                                                         |                                                           |                 |                                                                                                         |
+| 放送対象地域                                                  | 放送局名                                                    | 放送時間            | 備考                                                                                                      |
+| ------------------------------------------------------- | ------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------- |
+| [関東広域圏](../Page/広域放送.md "wikilink")                     | ニッポン放送                                                  | 土曜日 16:15～16:25 | <small>「[清水ミチコのミッチャン・インポッシブル](../Page/清水ミチコのミッチャン・インポッシブル.md "wikilink")」内</small>                      |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")     | [STVラジオ](../Page/STVラジオ.md "wikilink")                  | 日曜日 12:40～12:50 | <small>「[サンデーミュージックファイター](https://ja.wikipedia.org/wiki/サンデーミュージックファイター "wikilink")」内</small>           |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")     | [東北放送](../Page/東北放送.md "wikilink")                      | 土曜日 10:15～10:25 | <small>2007年10月放送時間変更</small>                                                                           |
+| [中京広域圏](../Page/広域放送.md "wikilink")                     | [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")                  | 日曜日 10:20～10:30 |                                                                                                         |
+| [関西広域圏](https://ja.wikipedia.org/wiki/関西広域圏 "wikilink") | [朝日放送](../Page/朝日放送ラジオ.md "wikilink")                   | 日曜日 12:50～13:00 |                                                                                                         |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")     | [山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink") | 日曜日 12:10～12:20 |                                                                                                         |
+| [広島県](../Page/広島県.md "wikilink")                        | [中国放送](../Page/中国放送.md "wikilink")                      | 土曜日 11:20～11:30 |                                                                                                         |
+| [福岡県](../Page/福岡県.md "wikilink")                        | [九州朝日放送](../Page/KBCラジオ.md "wikilink")                  | 日曜日 12:20～12:30 | <small>「[KBCサンデーミュージックカウントダウン](https://ja.wikipedia.org/wiki/KBCサンデーミュージックカウントダウン "wikilink")」内</small> |
+|                                                         |                                                         |                 |                                                                                                         |
 
 ※『[ラジオ番組表](../Page/ラジオ番組表.md "wikilink") 2007年秋号』（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")刊行）による
 

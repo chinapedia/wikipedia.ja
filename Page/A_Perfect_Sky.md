@@ -17,11 +17,11 @@
 
   - シングル・ヒットが少なかったBONNIE PINKだが、この曲で『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』や『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』にも数年ぶりの出演を果たし、この年の『[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")』にも初出場となった。
 
-  - 「A Perfect Sky」の[PVは](../Page/ミュージック・ビデオ.md "wikilink")、[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")にて撮影。[監督](../Page/監督.md "wikilink")は、[松本剛](https://ja.wikipedia.org/wiki/松本剛_\(映像作家\) "wikilink")。
+  - 「A Perfect Sky」の[PVは](../Page/ミュージック・ビデオ.md "wikilink")、[サイパン](https://ja.wikipedia.org/wiki/サイパン "wikilink")にて撮影。[監督](../Page/監督.md "wikilink")は、[松本剛](../Page/松本剛_\(映像作家\).md "wikilink")。
 
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に行なわれた蛯原友里の[結婚披露宴](../Page/結婚披露宴.md "wikilink")においてBONNIE PINKが[サプライズ](../Page/サプライズ.md "wikilink")ゲストとして招待され、同曲を披露した。
 
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")「[ゼロいち](https://ja.wikipedia.org/wiki/ゼロいち "wikilink")」の[エンディングテーマとして起用されていた](../Page/主題歌.md "wikilink")。
+  - [北日本放送](../Page/北日本放送.md "wikilink")「[ゼロいち](https://ja.wikipedia.org/wiki/ゼロいち "wikilink")」の[エンディングテーマとして起用されていた](../Page/主題歌.md "wikilink")。
 
 ## 収録曲
 

@@ -139,6 +139,6 @@
 
 ## 外部リンク
 
-  - [Silver Bullet official homepage](http://www.silverbullet.jp/)
+  - [シルバーバレットポータルサイト](https://web.archive.org/web/20130222084315/http://www.silverbullet.jp/)（2013年2月22日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
 [Category:2006年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:2006年のアダルトゲーム "wikilink")

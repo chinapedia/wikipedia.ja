@@ -87,6 +87,6 @@
 
   - [C.G.E.inc.による公式サイト](http://chicken-george.com/gulliverget/)
   - [GIZA studioによる公式サイト](http://gulliverget.net/)
-  - [Gulliver Ger/アヒル日和（オフィシャルブログ）](http://blog.goo.ne.jp/ducklover/)
+  - [Gulliver Ger/アヒル日和（オフィシャルブログ）](https://blog.goo.ne.jp/ducklover)
 
 [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

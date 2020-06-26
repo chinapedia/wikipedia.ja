@@ -402,7 +402,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/オリックス・バファローズ.md" title="wikilink">オリックス・バファローズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神戸佑輔" title="wikilink">神戸佑輔</a></p></td>
+<td><p><a href="../Page/神戸佑輔.md" title="wikilink">神戸佑輔</a></p></td>
 <td><p>2018年</p></td>
 <td><p>1991年から2000年までは<a href="https://ja.wikipedia.org/wiki/DJ_KIMURA" title="wikilink">DJ KIMURA</a>、2001年から2004年までは<a href="../Page/谷口廣明.md" title="wikilink">谷口廣明</a>、合併後の2005年から2013年までは<a href="../Page/堀江良信.md" title="wikilink">堀江良信</a>、2014年から2017年までは<a href="https://ja.wikipedia.org/wiki/平野智一" title="wikilink">平野智一</a>が務めていた。</p></td>
 </tr>

@@ -7,7 +7,7 @@
 
 ## 沿革
 
-[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")、当時の規定として会社設立の際に必要となる最低資本金制度の300万円を、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の初期メンバー6人が50万円ずつ出資し「エグザイルエンタテイメント有限会社」を設立\[1\]。リーダーの[HIROが代表取締役社長を務めていた](../Page/五十嵐広行.md "wikilink")。
+[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")、[会社法](../Page/会社法.md "wikilink")の規定として、法人設立の際に必要となる最低資本金制度の300万円を、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の初期メンバー6人が50万円ずつ出資し「エグザイルエンタテイメント[有限会社](../Page/有限会社.md "wikilink")」を設立\[1\]。リーダーの[HIROが代表取締役社長を務めていた](../Page/五十嵐広行.md "wikilink")。
 
 [2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")、上記の事務所と、HIROの友人である森雅貴らが経営していたモデル事務所「株式会社スリーポイント」が合併し「**株式会社LDH**」を設立\[2\]。HIROが代表取締役社長、森が代表取締役副社長に就任\[3\]。以降、芸能事務所以外の事業も展開した。
 

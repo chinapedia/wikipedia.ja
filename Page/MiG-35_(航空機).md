@@ -15,7 +15,7 @@
 
 [IRSTについてはMiG](https://ja.wikipedia.org/wiki/赤外線捜索追尾システム "wikilink")-29M2と同様にOLS-UEMを搭載するが、2016年からはOLS-35M（Su-35に搭載するものの発展型）と呼ばれる改良型を開発して、2017年より実装させる予定とされていた\[3\]。
 
-初期の仕様では対地/対艦攻撃用に右エンジン機首のOLS-UEMと同じ技術に基づいており、探知距離は[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")に対し20km、[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")に対し40kmで、20kmの距離で目標との距離評定及び[レーザー誘導](https://ja.wikipedia.org/wiki/レーザー誘導 "wikilink")兵器の照準を行えるOLS-Kを搭載していた\[4\]。交換式でT220/Eの装備もできる\[5\]。
+初期の仕様では対地/対艦攻撃用に右エンジンナセル下面にOLS-Kを搭載していた。これは機首のOLS-UEMと同じ技術に基づいており、探知距離は[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")に対し20km、[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")に対し40kmで、20kmの距離で目標との距離評定及び[レーザー誘導](https://ja.wikipedia.org/wiki/レーザー誘導 "wikilink")兵器の照準を行える\[4\]。交換式でT220/Eの装備もできる\[5\]。
 
 自己防衛装置はMiG-29Mのものを踏襲しつつ改良が加えられている。コックピットの後方と左エンジン下に"SOAR"と呼ばれる[ミサイル警報装置](../Page/ミサイル警報装置.md "wikilink")が装備されている。この装置は[スティンガーや](../Page/スティンガーミサイル.md "wikilink")[イグラといった](https://ja.wikipedia.org/wiki/9K38_イグラ "wikilink")[携帯式防空ミサイルシステム](https://ja.wikipedia.org/wiki/携帯式防空ミサイルシステム "wikilink")を10km、[空対空ミサイル](../Page/空対空ミサイル.md "wikilink")を30km、[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")を50kmから探知、飛来方向などをコックピットの[多機能ディスプレイに表示](https://ja.wikipedia.org/wiki/マルチファンクションディスプレイ "wikilink")、音声で警告を発するシステムである\[6\]。このSOARはもOLS-Kと同様に交換式でポッド（詳細不明）の装備が可能である\[7\]。また、[電子妨害装置](https://ja.wikipedia.org/wiki/電子妨害装置 "wikilink")として[イタリア](../Page/イタリア.md "wikilink")のELTが開発したG-Jバンド、E-Hバンドで妨害を行えるELT/568も搭載できる\[8\]。
 

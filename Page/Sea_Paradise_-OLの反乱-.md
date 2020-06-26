@@ -24,7 +24,7 @@
   - **Sea Paradise -OLの反乱-**
       - [Pure White](../Page/Pure_White.md "wikilink")
       - [Pure White Live '94](https://ja.wikipedia.org/wiki/Pure_White_Live_'94 "wikilink") - ライブ音源
-      - [COLLECTION III](https://ja.wikipedia.org/wiki/COLLECTION_III "wikilink")
+      - [COLLECTION III](../Page/COLLECTION_III.md "wikilink")
       - [TREASURY](../Page/TREASURY.md "wikilink")
       - [THE REMIXES MIHO NAKAYAMA MEETS Los Angeles GROOVE](https://ja.wikipedia.org/wiki/THE_REMIXES_MIHO_NAKAYAMA_MEETS_Los_Angeles_GROOVE "wikilink") - Remix Version
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")

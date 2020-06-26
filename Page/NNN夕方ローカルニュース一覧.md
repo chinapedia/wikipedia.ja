@@ -32,7 +32,7 @@
       - [OH\!バンデス](../Page/OH!バンデス.md "wikilink")（月-金曜 15:50 - 19:00、ローカルニュース『[ミヤギnews every.](https://ja.wikipedia.org/wiki/ミヤギnews_every. "wikilink")』は18:15 - 19:00）
           -
             ニュースキャスター：[柳瀬洋平](../Page/柳瀬洋平.md "wikilink")、[浮ヶ谷美穂](../Page/浮ヶ谷美穂.md "wikilink")
-  - ABS [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - ABS [秋田放送](../Page/秋田放送.md "wikilink")
       - [ABS news every.](https://ja.wikipedia.org/wiki/ABS_news_every. "wikilink")（月-金曜 18:15 - 19:00）
           -
             キャスター：[田村修](../Page/田村修.md "wikilink")（月 - 金）、[鴨下望美](https://ja.wikipedia.org/wiki/鴨下望美 "wikilink")（月 - 水）、[佐藤有希](https://ja.wikipedia.org/wiki/佐藤有希 "wikilink")（木・金）
@@ -65,7 +65,7 @@
       - [news every.しずおか](https://ja.wikipedia.org/wiki/news_every.しずおか "wikilink")■（月 - 金曜 18:15 - 19:00）
           -
             キャスター：[徳増ないる](../Page/徳増ないる.md "wikilink")、[垣内麻理亜](https://ja.wikipedia.org/wiki/垣内麻理亜 "wikilink")
-  - KNB [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - KNB [北日本放送](../Page/北日本放送.md "wikilink")
       - [いっちゃん★KNB](../Page/いっちゃん★KNB.md "wikilink")■（月 - 金曜 16:23 - 18:55、ローカルニュース『[KNB news every.](https://ja.wikipedia.org/wiki/KNB_news_every. "wikilink")』は、18:15 - 18:55）
           -
             キャスター：[数家直樹](../Page/数家直樹.md "wikilink")、[武道優美子](../Page/武道優美子.md "wikilink")

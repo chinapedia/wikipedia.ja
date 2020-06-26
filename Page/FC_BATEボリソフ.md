@@ -16,8 +16,8 @@
 
 <!-- end list -->
 
-  - **[ベラルーシ・カップ](https://ja.wikipedia.org/wiki/ベラルーシ・カップ "wikilink") : 3回**
-      - 2005-06, 2009-10, 2014-15
+  - **[ベラルーシ・カップ](https://ja.wikipedia.org/wiki/ベラルーシ・カップ "wikilink") : 4回**
+      - 2005-06, 2009-10, 2014-15, 2019-2020
 
 <!-- end list -->
 

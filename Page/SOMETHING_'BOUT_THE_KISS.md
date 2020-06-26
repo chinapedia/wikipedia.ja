@@ -89,4 +89,4 @@ YOU ARE THE ONE FEATURING IMAJIN
 
 ## 脚注
 
-[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:コーセーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーセーのコマーシャルソング "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")
+[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:コーセーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コーセーのコマーシャルソング "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink")

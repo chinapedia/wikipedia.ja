@@ -2408,6 +2408,8 @@
 | [松本雄真](https://ja.wikipedia.org/wiki/松本雄真 "wikilink")\[477\]            | [新潟医療福祉大学](../Page/新潟医療福祉大学.md "wikilink")                        | [カターレ富山](../Page/カターレ富山.md "wikilink")                              |       | カターレ富山(2022)\[478\]      |
 | [森岡陸](https://ja.wikipedia.org/wiki/森岡陸 "wikilink")\[479\]              | 法政大学                                                              | [ジュビロ磐田](../Page/ジュビロ磐田.md "wikilink")                              |       | ジュビロ磐田(2021)\[480\]      |
 | [佐藤瑶大](https://ja.wikipedia.org/wiki/佐藤瑶大 "wikilink")\[481\]            | [明治大学](https://ja.wikipedia.org/wiki/明治大学サッカー部 "wikilink")        | [ガンバ大阪](../Page/ガンバ大阪.md "wikilink")                                |       | ガンバ大阪(2021)\[482\]       |
+| [梅木翼](https://ja.wikipedia.org/wiki/梅木翼 "wikilink")\[483\]              | 福岡大学                                                              | [レノファ山口FC](../Page/レノファ山口FC.md "wikilink")                          |       | レノファ山口FC(2021)\[484\]    |
+| [橋本健人](https://ja.wikipedia.org/wiki/橋本健人 "wikilink")\[485\]            | [慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学ソッカー部 "wikilink")    | [レノファ山口FC](../Page/レノファ山口FC.md "wikilink")                          |       | レノファ山口FC(2021)\[486\]    |
 |                                                                         |                                                                   |                                                                     |       |                          |
 
 ## 脚注
@@ -2896,3 +2898,7 @@
 480.
 481.
 482.
+483.
+484.
+485.
+486.

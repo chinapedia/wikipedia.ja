@@ -55,13 +55,13 @@
         作詞：井上秋緒　作曲：浅倉大介　編曲：西川貴教、鈴木覚
         出版社：[読売テレビエンタープライズ](https://ja.wikipedia.org/wiki/読売テレビエンタープライズ "wikilink")
     <!-- end list -->
-      - 15thシングル。投票数第14位。
+      - 15thシングル。投票数第14位。原曲よりもゆったりとしたテンポで演奏され、またこのアルバムの曲の中で唯一、原曲キーから半音下げられている。
 8.  **[HOT LIMIT](../Page/HOT_LIMIT.md "wikilink")**
       -
         作詞：井上秋緒　作曲：浅倉大介　編曲：鈴木覚
         出版社：ダーウィン
     <!-- end list -->
-      - 8thシングル。[Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")がラップで参加している。また、歌詞の一節「[ダイスケ的にもオールオッケー](../Page/浅倉大介.md "wikilink")」が「ヤスヒロ的にも〜」と変更されている。投票数第15位。
+      - 8thシングル。[Heartsdales](https://ja.wikipedia.org/wiki/Heartsdales "wikilink")がラップで参加している。また、歌詞の一節「[ダイスケ的にもオールオッケー](../Page/浅倉大介.md "wikilink")」が「ヤスヒロ（西川の父の名前）的にも〜」と変更されている。投票数第15位。
 9.  **[Joker](https://ja.wikipedia.org/wiki/triple_joker "wikilink")**
       -
         作詞：井上秋緒・西川貴教（追加歌詞）　作曲：浅倉大介　編曲：西川貴教、[I.N.A](../Page/I.N.A.md "wikilink")

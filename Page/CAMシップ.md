@@ -1,11 +1,11 @@
 > この記事は[CAMシップ](https://ja.wikipedia.org/wiki/CAMシップ)から翻訳されています。
 
 
-*'CAMシップ **（Catapult Aircraft Merchant Ship）または**[カタパルト](../Page/カタパルト.md "wikilink")装備商船*'とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前半に[イギリス海軍](../Page/イギリス海軍.md "wikilink")が運用したカタパルトを装備し[航空機](../Page/航空機.md "wikilink")1機を搭載可能にした商船の事である。
+*'CAMシップ **（Catapult Aircraft Merchant Ship）または**[カタパルト](../Page/カタパルト.md "wikilink")装備商船*'とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前半に[イギリス海軍](../Page/イギリス海軍.md "wikilink")が運用した[カタパルト](../Page/カタパルト.md "wikilink")を装備し[航空機](../Page/航空機.md "wikilink")1機を搭載可能にした[商船](https://ja.wikipedia.org/wiki/商船 "wikilink")の事である。
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Hawker_Hurricane_W9182_On_CAM_Ship.jpg "wikilink") 第二次世界大戦開戦以来、[1940年](../Page/1940年.md "wikilink")半ばまでに[北欧から](../Page/北ヨーロッパ.md "wikilink")[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")に至る[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")沿岸がドイツ軍の勢力下に入り、沿岸の基地から発進した長距離航空機がイギリス輸送船団に対する重大な脅威となっていた。自軍の航空支援も得られず、[護衛空母](../Page/護衛空母.md "wikilink")も未就役という状況下で、船団はドイツ軍の航空機や航空機に誘導された[Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")によって次々と沈められていった。特に、ドイツの長距離偵察爆撃機による被害は、多いときには月当り約10万トンにのぼっていた。この状況に対して、イギリス軍は十分な数の護衛空母が就役するまでのつなぎとして、一部の商船に[カタパルト](../Page/カタパルト.md "wikilink")と1機の戦闘機（[ハリケーンまたは](../Page/ホーカー_ハリケーン.md "wikilink")[フルマー](../Page/フェアリー_フルマー.md "wikilink")）を装備し、船団上空に飛来するドイツ軍機を撃墜しようとした。これがCAMシップである。初めに商船3隻と[水上機母艦](../Page/水上機母艦.md "wikilink")「[ペガサス](../Page/アーク・ロイヤル_\(水上機母艦\).md "wikilink")」に対してこの改造が行われ、このアイデアの正しさが証明されると、商船50隻を改造する計画がスタートした。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Hawker_Hurricane_W9182_On_CAM_Ship.jpg "wikilink") 第二次世界大戦開戦以来、[1940年](../Page/1940年.md "wikilink")半ばまでに[北欧から](../Page/北ヨーロッパ.md "wikilink")[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")に至る[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")沿岸がドイツ軍の勢力下に入り、[沿岸](https://ja.wikipedia.org/wiki/沿岸 "wikilink")の基地から発進した長距離航空機がイギリス輸送船団に対する重大な脅威となっていた。自軍の航空支援も得られず、[護衛空母](../Page/護衛空母.md "wikilink")も未就役という状況下で、船団はドイツ軍の航空機や航空機に誘導された[Uボート](https://ja.wikipedia.org/wiki/Uボート "wikilink")によって次々と沈められていった。特に、ドイツの長距離偵察爆撃機による被害は、多いときには月当り約10万トンにのぼっていた。この状況に対して、イギリス軍は十分な数の護衛空母が就役するまでのつなぎとして、一部の商船に[カタパルト](../Page/カタパルト.md "wikilink")と1機の戦闘機（[ハリケーンまたは](../Page/ホーカー_ハリケーン.md "wikilink")[フルマー](../Page/フェアリー_フルマー.md "wikilink")）を装備し、船団上空に飛来するドイツ軍機を撃墜しようとした。これがCAMシップである。初めに商船3隻と[水上機母艦](../Page/水上機母艦.md "wikilink")「[ペガサス](../Page/アーク・ロイヤル_\(水上機母艦\).md "wikilink")」に対してこの改造が行われ、このアイデアの正しさが証明されると、商船50隻を改造する計画がスタートした。
 
 CAMシップへの改造は、船首から第1ハッチにかけてのカタパルトの設置などで、搭載された航空機にはイギリス空軍商船戦闘機隊のパイロットが乗り込んでいた。しかし、航空要員以外の乗員は全て民間人で、船倉にも通常の貨物が積載され、[国際信号旗](../Page/国際信号旗.md "wikilink")で危険物運搬中を示すB旗を掲げただけで、あくまで民間船として運航された。
 

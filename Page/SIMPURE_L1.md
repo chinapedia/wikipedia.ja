@@ -18,7 +18,7 @@
 
 ## 歴史
 
-  - [2006年](../Page/2006年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink"): [D903i](../Page/D903i.md "wikilink")・[D903iTV](../Page/D903iTV.md "wikilink")・[F903i](../Page/F903i.md "wikilink")・[F903iX HIGH-SPEED](../Page/F903iX_HIGH-SPEED.md "wikilink")・[N903i](../Page/N903i.md "wikilink")・[N902iL](../Page/N902iL.md "wikilink")・[P903i](../Page/P903i.md "wikilink")・[P903iTV](../Page/P903iTV.md "wikilink")・[P903iX HIGH-SPEED](../Page/P903iX_HIGH-SPEED.md "wikilink")・[SH903i](../Page/SH903i.md "wikilink")・[SH903iTV](../Page/SH903iTV.md "wikilink")・[SO903i](../Page/SO903i.md "wikilink")・**SIMPURE L1**・[SIMPURE N1の開発が発表](https://ja.wikipedia.org/wiki/SIMPURE_N1 "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink"): [D903i](../Page/D903i.md "wikilink")・[D903iTV](../Page/D903iTV.md "wikilink")・[F903i](../Page/F903i.md "wikilink")・[F903iX HIGH-SPEED](../Page/F903iX_HIGH-SPEED.md "wikilink")・[N903i](../Page/N903i.md "wikilink")・[N902iL](../Page/N902iL.md "wikilink")・[P903i](../Page/P903i.md "wikilink")・[P903iTV](../Page/P903iTV.md "wikilink")・[P903iX HIGH-SPEED](../Page/P903iX_HIGH-SPEED.md "wikilink")・[SH903i](../Page/SH903i.md "wikilink")・[SH903iTV](../Page/SH903iTV.md "wikilink")・[SO903i](../Page/SO903i.md "wikilink")・**SIMPURE L1**・[SIMPURE N1の開発が発表](../Page/SIMPURE_N1.md "wikilink")。
   - 2006年[11月17日](../Page/11月17日.md "wikilink"):発売
 
 ## 関連項目
@@ -26,7 +26,7 @@
   - [SIMPURE](../Page/SIMPURE.md "wikilink")
   - [SIMPURE L](../Page/SIMPURE_L.md "wikilink")
   - [SIMPURE L2](../Page/SIMPURE_L2.md "wikilink")
-  - [SIMPURE N1](https://ja.wikipedia.org/wiki/SIMPURE_N1 "wikilink")
+  - [SIMPURE N1](../Page/SIMPURE_N1.md "wikilink")
 
 ## 外部リンク
 

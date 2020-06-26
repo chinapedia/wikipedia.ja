@@ -9,7 +9,7 @@
   - ☆印はCS放送・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で現在放送中あるいは過去（1回だけの放送を含む）に放送されていた番組である。
   - ★印の番組は[TBSニュースバード](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")、**BS**表記のある番組は[BS-TBS](../Page/BS-TBS.md "wikilink")でも放送している番組。
   - ×はMBS（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）にネットしなかった番組。●はCBC（[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、2014年3月までは[中部日本放送](../Page/中部日本放送.md "wikilink")）にネットしなかった番組。
-  - 略称はTBS\[2\]系列のない[秋田県](../Page/秋田県.md "wikilink")（ABS（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")）・AKT（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")））・[福井県](../Page/福井県.md "wikilink")（FBC（[福井放送](../Page/福井放送.md "wikilink")））・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")（JRT（[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")））でも放送されていたもの。
+  - 略称はTBS\[2\]系列のない[秋田県](../Page/秋田県.md "wikilink")（ABS（[秋田放送](../Page/秋田放送.md "wikilink")）・AKT（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")））・[福井県](../Page/福井県.md "wikilink")（FBC（[福井放送](../Page/福井放送.md "wikilink")））・[徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")（JRT（[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")））でも放送されていたもの。
 
 ## 報道・情報系番組
 
@@ -594,7 +594,7 @@
   - [Asian Ace](https://ja.wikipedia.org/wiki/Asian_Ace "wikilink")
   - [原宿ネストカフェ](https://ja.wikipedia.org/wiki/原宿ネストカフェ "wikilink")
   - [大久保じゃあナイト](https://ja.wikipedia.org/wiki/大久保じゃあナイト "wikilink")×● - 情報制作局制作
-  - [やすしの度胸一発](https://ja.wikipedia.org/wiki/やすしの度胸一発 "wikilink")
+  - [やすしの度胸一発](../Page/やすしの度胸一発.md "wikilink")
   - [SUPER WEEKEND LIVE 土曜深夜族](../Page/SUPER_WEEKEND_LIVE_土曜深夜族.md "wikilink")
   - [平成名物TV](../Page/平成名物TV.md "wikilink")×
       - [三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")

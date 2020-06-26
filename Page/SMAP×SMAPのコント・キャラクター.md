@@ -3,7 +3,7 @@
 
 **SMAP×SMAPのコント・キャラクター**は、[フジテレビ系列で放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』内で行われたコント・キャラクターの解説の一覧である。
 
-タイトルの後のカッコ内はそのコーナーに出演している[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")メンバーと準レギュラー芸能人。オリジナルの設定で行うコントよりは、パロディコントが多い。またパロディコントではしばしば、演じているメンバーには内緒でパロディにした相手が突然現れるサプライズが行われる（[香取が主演のコントでのケースが最も多い](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")）。香取が扮するキャラクターには市川カニ蔵やニワさんなど「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」のおいしいリアクションから生まれたキャラクターもある。
+タイトルの後のカッコ内はそのコーナーに出演している[SMAP](../Page/SMAP.md "wikilink")メンバーと準レギュラー芸能人。オリジナルの設定で行うコントよりは、パロディコントが多い。またパロディコントではしばしば、演じているメンバーには内緒でパロディにした相手が突然現れるサプライズが行われる（[香取が主演のコントでのケースが最も多い](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")）。香取が扮するキャラクターには市川カニ蔵やニワさんなど「[BISTRO SMAP](../Page/BISTRO_SMAP.md "wikilink")」のおいしいリアクションから生まれたキャラクターもある。
 
 ※ [中居と](../Page/中居正広.md "wikilink")[木村がコントにそろって出演する作品は少ない](../Page/木村拓哉.md "wikilink")（古畑拓三郎・探偵物語ZEROなど）。 __NOTOC__
 
@@ -936,7 +936,7 @@
 
   - DEBU NOTE（稲垣・草彅・脇知弘／[香里奈](https://ja.wikipedia.org/wiki/香里奈 "wikilink")／[梨花](../Page/梨花.md "wikilink")）
       -
-        漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』のパロディ。稲垣扮する「夜神脂（やがみオイル、体重135キロ）」は「デブーク」（脇）の落とした「デブノート」を拾う。デブノートに名前を書かれた人は突然太りだす。
+        漫画『[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")』のパロディ。稲垣扮する「夜神脂（やがみオイル、体重135キロ）」は「デブーク」（脇）の落とした「デブノート」を拾う。デブノートに名前を書かれた人は突然太りだす。
 
 <!-- end list -->
 

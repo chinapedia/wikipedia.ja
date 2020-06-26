@@ -69,7 +69,9 @@
   - 金曜日（[木曜日](../Page/木曜日.md "wikilink")深夜） 1:30 - 1:59（2010年度）
   - 水曜日（火曜日深夜） 1:30 - 1:58（2011年度）
   - 金曜日（木曜日深夜） 1:40 - 2:08（2012年度4-8月）→1:15 - 1:43（2012年度9-3月）
-  - 土曜日（金曜日深夜） 1:10 - 1:40（2019年度）
+  - 土曜日（金曜日深夜） 1:10 - 1:40（2019年度前期）
+  - 土曜日（金曜日深夜） 1:40 - 2:10（2019年度後期）
+  - 土曜日（金曜日深夜） 1:35 - 2:05（2020年度前期）
 
 ## これまでの出演者
 
@@ -4260,7 +4262,7 @@ KISS<br />
 <td><p><a href="https://ja.wikipedia.org/wiki/戦士の休息" title="wikilink">戦士の休息</a><br />
 <a href="../Page/ムーン・リバー.md" title="wikilink">ムーン・リバー</a><br />
 <a href="../Page/ベンのテーマ.md" title="wikilink">ベンのテーマ</a><br />
-<a href="https://ja.wikipedia.org/wiki/愛のバラード" title="wikilink">愛のバラード</a><br />
+<a href="../Page/愛のバラード.md" title="wikilink">愛のバラード</a><br />
 <a href="https://ja.wikipedia.org/wiki/探偵物語/すこしだけやさしく" title="wikilink">探偵物語</a><br />
 <a href="https://ja.wikipedia.org/wiki/メイン・テーマ_(薬師丸ひろ子の曲)" title="wikilink">メイン・テーマ</a><br />
 <a href="https://ja.wikipedia.org/wiki/Woman_&quot;Wの悲劇より&quot;" title="wikilink">Woman "Wの悲劇より"</a><br />
@@ -5178,7 +5180,7 @@ Amazing Grace<br />
 </tr>
 <tr class="even">
 <td><p>第452回（2018.<a href="../Page/3月18日.md" title="wikilink">3.18</a>）<br />
-<strong>今、この歌を聴け　話題の女性ソロシンガー2人</strong>[20]</p></td>
+<strong>今、この歌を聴け　話題の女性ソロシンガー2人</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あいみょん" title="wikilink">あいみょん</a><br />
 <a href="https://ja.wikipedia.org/wiki/吉澤嘉代子" title="wikilink">吉澤嘉代子</a></p></td>
 <td></td>
@@ -5218,7 +5220,7 @@ Olha pro cēu</p>
 <p><a href="https://ja.wikipedia.org/wiki/銀河と迷路" title="wikilink">銀河と迷路</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第457回 （2018.<a href="../Page/4月28日.md" title="wikilink">4.28</a>）（再放送：2018.<a href="../Page/5月10日.md" title="wikilink">5.10</a>[21]）<br />
+<td><p>第457回 （2018.<a href="../Page/4月28日.md" title="wikilink">4.28</a>）（再放送：2018.<a href="../Page/5月10日.md" title="wikilink">5.10</a>[20]）<br />
 <strong>世界を動かす7人の「絆」</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/防弾少年団" title="wikilink">防弾少年団 (BTS)</a></p></td>
 <td></td>
@@ -5227,7 +5229,7 @@ Not Today -Japanese ver.-<br />
 MIC DROP</p></td>
 </tr>
 <tr class="odd">
-<td><p>SONGSスペシャル（2018.<a href="../Page/5月5日.md" title="wikilink">5.5</a>）（再放送 : 2018.<a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11.26</a>[22]) （4K版：2018.<a href="../Page/12月2日.md" title="wikilink">12.2</a>[23]、<a href="../Page/12月10日.md" title="wikilink">12.10</a>[24] ）<br />
+<td><p>SONGSスペシャル（2018.<a href="../Page/5月5日.md" title="wikilink">5.5</a>）（再放送 : 2018.<a href="https://ja.wikipedia.org/wiki/11月26日" title="wikilink">11.26</a>) （4K版：2018.<a href="../Page/12月2日.md" title="wikilink">12.2</a>、<a href="../Page/12月10日.md" title="wikilink">12.10</a>）<br />
 <strong>DREAMS COME TRUE × 太陽の塔</strong></p></td>
 <td><p><a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a></p></td>
 <td></td>
@@ -5293,7 +5295,7 @@ MIC DROP</p></td>
 <a href="https://ja.wikipedia.org/wiki/雲母の波" title="wikilink">雲母の波</a></p></td>
 </tr>
 <tr class="even">
-<td><p>SONGSスペシャル(2018.<a href="../Page/6月30日.md" title="wikilink">6.30</a> [25]) （再放送 : 2018.<a href="https://ja.wikipedia.org/wiki/7月8日" title="wikilink">7.8</a>[26]) （4K版：2018.<a href="../Page/12月31日.md" title="wikilink">12.31</a>[27]）<br />
+<td><p>SONGSスペシャル(2018.<a href="../Page/6月30日.md" title="wikilink">6.30</a> ) （再放送 : 2018.<a href="https://ja.wikipedia.org/wiki/7月8日" title="wikilink">7.8</a>) （4K版：2018.<a href="../Page/12月31日.md" title="wikilink">12.31</a>）<br />
 <strong>宇多田ヒカル</strong></p></td>
 <td><p><a href="../Page/宇多田ヒカル.md" title="wikilink">宇多田ヒカル</a></p></td>
 <td><p>(対談)<br />
@@ -5318,7 +5320,7 @@ MIC DROP</p></td>
 <a href="https://ja.wikipedia.org/wiki/ラブソング_(サンボマスターの曲)" title="wikilink">ラブソング</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第465回 (2018.<a href="../Page/7月28日.md" title="wikilink">7.28</a>) （再放送 : 2019.<a href="../Page/1月12日.md" title="wikilink">1.12</a>[28])</p></td>
+<td><p>第465回 (2018.<a href="../Page/7月28日.md" title="wikilink">7.28</a>) （再放送 : 2019.<a href="../Page/1月12日.md" title="wikilink">1.12</a>[21])</p></td>
 <td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />
@@ -5346,7 +5348,7 @@ MIC DROP</p></td>
 <a href="https://ja.wikipedia.org/wiki/Whistle" title="wikilink">時をこえ</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第467回 (2018.<a href="../Page/9月1日.md" title="wikilink">9.1</a>) （再放送 : 2019.<a href="../Page/1月19日.md" title="wikilink">1.19</a>[29])</p></td>
+<td><p>第467回 (2018.<a href="../Page/9月1日.md" title="wikilink">9.1</a>) （再放送 : 2019.<a href="../Page/1月19日.md" title="wikilink">1.19</a>[22])</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>(番組責任者/対談)<br />
 大泉洋<br />
@@ -5386,7 +5388,7 @@ MIC DROP</p></td>
 <a href="../Page/愛が呼ぶほうへ.md" title="wikilink">愛が呼ぶほうへ</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>第470回（2018.<a href="../Page/9月29日.md" title="wikilink">9.29</a>[30]） （再放送 : 2018.<a href="../Page/12月26日.md" title="wikilink">12.26</a>[31])<br />
+<td><p>第470回（2018.<a href="../Page/9月29日.md" title="wikilink">9.29</a>） （再放送 : 2018.<a href="../Page/12月26日.md" title="wikilink">12.26</a>)<br />
 <strong>奈良の魂が奏でる音</strong></p></td>
 <td><p><a href="../Page/堂本剛.md" title="wikilink">堂本剛</a></p></td>
 <td><p>(番組責任者)<br />
@@ -5470,7 +5472,7 @@ THANX<br />
 For you</p></td>
 </tr>
 <tr class="even">
-<td><p>第475回 (2018.<a href="https://ja.wikipedia.org/wiki/11月3日" title="wikilink">11.3</a> ) （再放送 : 2018.<a href="../Page/11月15日.md" title="wikilink">11.15</a> [32])<br />
+<td><p>第475回 (2018.<a href="https://ja.wikipedia.org/wiki/11月3日" title="wikilink">11.3</a> ) （再放送 : 2018.<a href="../Page/11月15日.md" title="wikilink">11.15</a> [23])<br />
 <strong>ミュージカルに乾杯！</strong></p></td>
 <td><p><a href="../Page/堂本光一.md" title="wikilink">堂本光一</a>×<a href="../Page/井上芳雄.md" title="wikilink">井上芳雄</a></p></td>
 <td><p>(番組責任者)<br />
@@ -5499,7 +5501,7 @@ GOEMON feat. ビッグ門左衛門<br />
 <a href="https://ja.wikipedia.org/wiki/きらきら武士_feat.Deyonna" title="wikilink">きらきら武士</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第477回（2018.<a href="../Page/11月17日.md" title="wikilink">11.17</a>） （再放送 : 2018.<a href="../Page/12月17日.md" title="wikilink">12.17</a>[33])</p></td>
+<td><p>第477回（2018.<a href="../Page/11月17日.md" title="wikilink">11.17</a>） （再放送 : 2018.<a href="../Page/12月17日.md" title="wikilink">12.17</a>)</p></td>
 <td><p><a href="../Page/クイーン_(バンド).md" title="wikilink">クイーン</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />
@@ -5558,7 +5560,7 @@ Beautiful ～「ビューティフル」より～<br />
 <a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a><br />
 <a href="https://ja.wikipedia.org/wiki/生駒里奈" title="wikilink">生駒里奈</a><br />
 <a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a></p></td>
-<td><p><a href="../Page/ピンク_スパイダー.md" title="wikilink">ピンク スパイダー</a> [34]</p></td>
+<td><p><a href="../Page/ピンク_スパイダー.md" title="wikilink">ピンク スパイダー</a> </p></td>
 </tr>
 <tr class="even">
 <td><p>第481回（2018.<a href="../Page/12月15日.md" title="wikilink">12.15</a>）</p></td>
@@ -5672,7 +5674,7 @@ Beautiful ～「ビューティフル」より～<br />
 「乾杯」〜「ナイツ・テイル－騎士物語－」メドレーより〜</p></td>
 </tr>
 <tr class="even">
-<td><p>第487回（2019.<a href="../Page/2月16日.md" title="wikilink">2.16</a>）(再放送：2019.<a href="../Page/5月11日.md" title="wikilink">5.11</a>[35])</p></td>
+<td><p>第487回（2019.<a href="../Page/2月16日.md" title="wikilink">2.16</a>）(再放送：2019.<a href="../Page/5月11日.md" title="wikilink">5.11</a>[24])</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あいみょん" title="wikilink">あいみょん</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />
@@ -5938,7 +5940,7 @@ The Others</p></td>
 君の隣にいたいから</p></td>
 </tr>
 <tr class="odd">
-<td><p>第508回（2019.<a href="../Page/9月14日.md" title="wikilink">9.14</a>）（再放送 : 2020.<a href="../Page/1月11日.md" title="wikilink">1.11</a>[36])</p></td>
+<td><p>第508回（2019.<a href="../Page/9月14日.md" title="wikilink">9.14</a>）（再放送 : 2020.<a href="../Page/1月11日.md" title="wikilink">1.11</a>[25])</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Little_Glee_Monster" title="wikilink">Little Glee Monster</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />
@@ -5950,7 +5952,7 @@ The Others</p></td>
 <a href="https://ja.wikipedia.org/wiki/ECHO_(Little_Glee_Monsterの曲)" title="wikilink">ECHO</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第509回（2019.<a href="../Page/9月21日.md" title="wikilink">9.21</a>）[37]</p></td>
+<td><p>第509回（2019.<a href="../Page/9月21日.md" title="wikilink">9.21</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />
@@ -5962,13 +5964,14 @@ The Others</p></td>
 (対談ゲスト)<br />
 <a href="https://ja.wikipedia.org/wiki/森山未来" title="wikilink">森山未来</a></p></td>
 <td><p>(スタジオライブ)<br />
-<a href="../Page/リニアモーターガール.md" title="wikilink">リニアモーターガール</a>[38]<br />
+<a href="../Page/リニアモーターガール.md" title="wikilink">リニアモーターガール</a>[26]<br />
 <a href="https://ja.wikipedia.org/wiki/レーザービーム/微かなカオリ" title="wikilink">レーザービーム</a><br />
 <a href="https://ja.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">ナナナナナイロ</a><br />
-<a href="../Page/ポリリズム_(Perfumeの曲).md" title="wikilink">ポリリズム</a>[39]</p></td>
+<a href="../Page/ポリリズム_(Perfumeの曲).md" title="wikilink">ポリリズム</a>[27]</p></td>
 </tr>
 <tr class="odd">
-<td><p>第510回（2019.<a href="../Page/10月5日.md" title="wikilink">10.5</a>）</p></td>
+<td><p>第510回（2019.<a href="../Page/10月5日.md" title="wikilink">10.5</a>）（再放送 : 2020.<a href="../Page/5月16日.md" title="wikilink">5.16</a>[28])<br />
+’’’GLAY × 大泉洋が4人の絆に迫る’’’</p></td>
 <td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
 <td><p>(番組責任者/対談)<br />
 大泉洋<br />
@@ -6179,8 +6182,8 @@ The Others</p></td>
 <a href="https://ja.wikipedia.org/wiki/ECHO_(Little_Glee_Monsterの曲)" title="wikilink">ECHO</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第521回 （2020.<a href="../Page/1月18日.md" title="wikilink">1.18</a>)（再放送 : 2020.<a href="../Page/3月16日.md" title="wikilink">3.16</a>（水）[40])<br />
-<strong>Superfly ✕ いま迎える変化の時</strong></p></td>
+<td><p>第521回 （2020.<a href="../Page/1月18日.md" title="wikilink">1.18</a>)（再放送 : 2020.<a href="../Page/3月16日.md" title="wikilink">3.16</a>（水）)<br />
+<strong>Superfly × いま迎える変化の時</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Superfly" title="wikilink">Superfly</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />
@@ -6208,8 +6211,8 @@ The Others</p></td>
 <a href="https://ja.wikipedia.org/wiki/エトワール_(薬師丸ひろ子のアルバム)" title="wikilink">アナタノコトバ</a></p></td>
 </tr>
 <tr class="even">
-<td><p>第523回 （2020.<a href="../Page/2月1日.md" title="wikilink">2.1</a>)（再放送 : 2020.<a href="../Page/4月25日.md" title="wikilink">4.25</a>)<br />
-<strong>鬼束ちひろ ✕ 刻まれた20年分の思いを、いま</strong></p></td>
+<td><p>第523回 （2020.<a href="../Page/2月1日.md" title="wikilink">2.1</a>)（再放送 : 2020.<a href="../Page/4月25日.md" title="wikilink">4.25</a>[29])<br />
+<strong>鬼束ちひろ × 刻まれた20年分の思いを、いま</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鬼束ちひろ" title="wikilink">鬼束ちひろ</a></p></td>
 <td><p>(番組責任者)<br />
 大泉洋<br />
@@ -6339,9 +6342,9 @@ LIFE</p></td>
 <td><p>(スタジオライブ)</p>
 <p>(<em>メドレー</em>)<br />
 <a href="https://ja.wikipedia.org/wiki/Stompin&#39;_On_DOWN_BEAT_ALLEY" title="wikilink">DOWN BEAT STOMP</a><br />
-<a href="https://ja.wikipedia.org/wiki/美しく燃える森" title="wikilink">美しく燃える森</a>[41]</p>
-<p><a href="https://ja.wikipedia.org/wiki/流星とバラード" title="wikilink">流星とバラード</a>[42]<br />
-Are You Ready To Ska?[43]</p></td>
+<a href="https://ja.wikipedia.org/wiki/美しく燃える森" title="wikilink">美しく燃える森</a>[30]</p>
+<p><a href="https://ja.wikipedia.org/wiki/流星とバラード" title="wikilink">流星とバラード</a>[31]<br />
+Are You Ready To Ska?[32]</p></td>
 </tr>
 <tr class="even">
 <td><p>第531回 （2020.<a href="../Page/4月18日.md" title="wikilink">4.18</a>)<br />
@@ -6358,10 +6361,10 @@ Are You Ready To Ska?[43]</p></td>
 <a href="https://ja.wikipedia.org/wiki/ランナウェイ_(シャネルズの曲)" title="wikilink">ランナウェイ</a><br />
 <a href="../Page/ALL_TIME_ROCK_&#39;N&#39;_ROLL.md" title="wikilink">Tears On My Pillow</a><br />
 <a href="../Page/ALL_TIME_ROCK_&#39;N&#39;_ROLL.md" title="wikilink">Good Times, Rock and Roll</a><br />
-<a href="https://ja.wikipedia.org/wiki/ハリケーン_(シャネルズの曲)" title="wikilink">ハリケーン</a>[44]<br />
-<a href="https://ja.wikipedia.org/wiki/街角トワイライト" title="wikilink">街角トワイライト</a>[45]<br />
-<a href="https://ja.wikipedia.org/wiki/憧れのスレンダー・ガール" title="wikilink">憧れのスレンダー・ガール</a>[46]<br />
-<a href="https://ja.wikipedia.org/wiki/週末ダイナマイト" title="wikilink">週末ダイナマイト</a>[47]<br />
+<a href="https://ja.wikipedia.org/wiki/ハリケーン_(シャネルズの曲)" title="wikilink">ハリケーン</a>[33]<br />
+<a href="https://ja.wikipedia.org/wiki/街角トワイライト" title="wikilink">街角トワイライト</a>[34]<br />
+<a href="https://ja.wikipedia.org/wiki/憧れのスレンダー・ガール" title="wikilink">憧れのスレンダー・ガール</a>[35]<br />
+<a href="https://ja.wikipedia.org/wiki/週末ダイナマイト" title="wikilink">週末ダイナマイト</a>[36]<br />
 <a href="https://ja.wikipedia.org/wiki/Tシャツに口紅" title="wikilink">Tシャツに口紅</a><br />
 <a href="https://ja.wikipedia.org/wiki/め組のひと" title="wikilink">め組のひと</a><br />
 <a href="https://ja.wikipedia.org/wiki/ガラス越しに消えた夏" title="wikilink">ガラス越しに消えた夏</a><br />
@@ -6372,7 +6375,7 @@ Are You Ready To Ska?[43]</p></td>
 <a href="https://ja.wikipedia.org/wiki/夢で逢えたら_(ラッツ&amp;スターの曲)" title="wikilink">夢で逢えたら</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>第532回 （2020.<a href="../Page/4月25日.md" title="wikilink">4.25</a>[48]) <br />
+<td><p>第532回 （2020.<a href="../Page/4月25日.md" title="wikilink">4.25</a>[37]) <br />
 <strong>鬼束ちひろ ✕ 刻まれた20年分の思いを、いま</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鬼束ちひろ" title="wikilink">鬼束ちひろ</a></p></td>
 <td><p>(番組責任者)<br />
@@ -6402,6 +6405,72 @@ Are You Ready To Ska?[43]</p></td>
 <a href="https://ja.wikipedia.org/wiki/明日がくるなら" title="wikilink">明日がくるなら</a><br />
 <a href="https://ja.wikipedia.org/wiki/ありがとう_(JUJUの曲)" title="wikilink">ありがとう</a><br />
 <a href="../Page/STAYIN&#39;_ALIVE.md" title="wikilink">STAYIN' ALIVE</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>第534回（2020.<a href="../Page/5月16日.md" title="wikilink">5.16</a>）<br />
+<strong>GLAY × 大泉洋が4人の絆に迫る</strong></p></td>
+<td><p><a href="../Page/GLAY.md" title="wikilink">GLAY</a></p></td>
+<td><p>(番組責任者/対談)<br />
+大泉洋<br />
+(ナレーション)<br />
+戸次重幸</p></td>
+<td><p>(スタジオライブ)<br />
+<a href="../Page/口唇_(GLAYの曲).md" title="wikilink">口唇</a><br />
+<a href="../Page/Winter,again.md" title="wikilink">Winter,again</a><br />
+<a href="https://ja.wikipedia.org/wiki/G4・V-Democracy_2019-" title="wikilink">COLORS</a></p></td>
+</tr>
+<tr class="even">
+<td><p>第535回 （2020.<a href="../Page/5月23日.md" title="wikilink">5.23</a>)<br />
+<strong>AI 〜Special Edition〜</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a></p></td>
+<td><p>(番組責任者)<br />
+大泉洋<br />
+(ナレーション)<br />
+戸次重幸</p></td>
+<td><p>(<a href="../Page/築地本願寺.md" title="wikilink">築地本願寺</a>でのライブ)<br />
+Jesus Is My Help<br />
+<a href="https://ja.wikipedia.org/wiki/ディス・イズ・ミー_(キアラ・セトルの曲)" title="wikilink">This Is Me</a><br />
+<a href="https://ja.wikipedia.org/wiki/Story_(AIの曲)" title="wikilink">Story</a><br />
+ライブダイジェスト（LIFT 'EM UP、<a href="https://ja.wikipedia.org/wiki/みんながみんな英雄" title="wikilink">みんながみんな英雄</a>、No Weapon）<br />
+<a href="../Page/ハピネス_(AIの曲).md" title="wikilink">ハピネス</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>第536回 （2020.<a href="../Page/5月30日.md" title="wikilink">5.30</a>)<br />
+<strong>いま、あなたが『贈りたい歌』</strong>[38]</p></td>
+<td><p><a href="../Page/松任谷由実.md" title="wikilink">松任谷由実</a><br />
+<a href="../Page/森山直太朗.md" title="wikilink">森山直太朗</a><br />
+<a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a><br />
+<a href="https://ja.wikipedia.org/wiki/あいみょん" title="wikilink">あいみょん</a><br />
+<a href="https://ja.wikipedia.org/wiki/財津和夫" title="wikilink">財津和夫</a><br />
+<a href="https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN" title="wikilink">BUMP OF CHICKEN</a><br />
+<a href="https://ja.wikipedia.org/wiki/エレファントカシマシ" title="wikilink">エレファントカシマシ</a><br />
+<a href="../Page/嵐_(グループ).md" title="wikilink">嵐</a><br />
+<a href="../Page/宇多田ヒカル.md" title="wikilink">宇多田ヒカル</a><br />
+<a href="https://ja.wikipedia.org/wiki/平井堅" title="wikilink">平井堅</a><br />
+<a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a><br />
+<a href="https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS" title="wikilink">FUNKY MONKEY BABYS</a><br />
+<a href="../Page/松田聖子.md" title="wikilink">松田聖子</a><br />
+<a href="../Page/長谷川きよし.md" title="wikilink">長谷川きよし</a><br />
+<a href="../Page/井上陽水.md" title="wikilink">井上陽水</a></p></td>
+<td><p>(番組責任者)<br />
+大泉洋<br />
+(ナレーション)<br />
+戸次重幸</p></td>
+<td><p><a href="../Page/春よ、来い_(松任谷由実の曲).md" title="wikilink">春よ、来い</a>（第86回放送より）<br />
+<a href="../Page/さくら_(森山直太朗の曲).md" title="wikilink">さくら(独唱)</a>（第219回放送より）<br />
+<a href="https://ja.wikipedia.org/wiki/U.S.A._(曲)#DA_PUMPによるカバー" title="wikilink">U.S.A.</a>（第465回放送より）<br />
+<a href="https://ja.wikipedia.org/wiki/マリーゴールド_(あいみょんの曲)" title="wikilink">マリーゴールド</a>（<a href="https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦" title="wikilink">第69回NHK紅白歌合戦</a>より）<br />
+<a href="../Page/サボテンの花〜ひとつ屋根の下より〜.md" title="wikilink">サボテンの花</a>（第110回放送より）<br />
+<a href="https://ja.wikipedia.org/wiki/supernova/カルマ" title="wikilink">supernova</a>（第370回放送より）<br />
+<a href="../Page/俺たちの明日.md" title="wikilink">俺たちの明日</a>（第287回放送より）<br />
+<a href="../Page/Love_so_sweet.md" title="wikilink">Love so sweet</a>（第502回放送より）<br />
+<a href="https://ja.wikipedia.org/wiki/花束を君に" title="wikilink">花束を君に</a>（SONGSスペシャル(2016.9.22放送)より）<br />
+<a href="https://ja.wikipedia.org/wiki/大きな古時計#2002年（平井堅）" title="wikilink">大きな古時計</a>（第180回放送より）<br />
+<a href="https://ja.wikipedia.org/wiki/やさしくなりたい_(斉藤和義の曲)" title="wikilink">やさしくなりたい</a>（第226回放送より）<br />
+<a href="https://ja.wikipedia.org/wiki/あとひとつ" title="wikilink">あとひとつ</a>（第208回放送より）<br />
+<a href="../Page/瑠璃色の地球.md" title="wikilink">瑠璃色の地球</a>（第200回放送より）<br />
+<a href="../Page/愛の讃歌.md" title="wikilink">愛の讃歌</a>（歌:長谷川きよし/第218回放送より）<br />
+<a href="../Page/少年時代_(井上陽水の曲).md" title="wikilink">少年時代</a>（第115回放送より）</p></td>
 </tr>
 </tbody>
 </table>
@@ -6435,7 +6504,7 @@ Are You Ready To Ska?[43]</p></td>
 
 | 放送日                                       | 出演者                                    | ゲスト | 曲目                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------------------------------- | -------------------------------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2014\.[4.13](../Page/4月13日.md "wikilink") | [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink") | 一   | [セーラー服と機関銃](https://ja.wikipedia.org/wiki/セーラー服と機関銃_\(曲\)#薬師丸ひろ子の曲 "wikilink")\[49\]、[メイン・テーマ](https://ja.wikipedia.org/wiki/メイン・テーマ_\(薬師丸ひろ子の曲\) "wikilink")\[50\]、[潮騒のメモリー](https://ja.wikipedia.org/wiki/潮騒のメモリー "wikilink")\[51\]、[故郷](../Page/故郷_\(唱歌\).md "wikilink")\[52\]、[黄昏のビギン](https://ja.wikipedia.org/wiki/黄昏のビギン "wikilink")、秋の子、[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")、[Woman "Wの悲劇"より](https://ja.wikipedia.org/wiki/Woman_"Wの悲劇"より "wikilink")\[53\] |
+| 2014\.[4.13](../Page/4月13日.md "wikilink") | [薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink") | 一   | [セーラー服と機関銃](https://ja.wikipedia.org/wiki/セーラー服と機関銃_\(曲\)#薬師丸ひろ子の曲 "wikilink")\[39\]、[メイン・テーマ](https://ja.wikipedia.org/wiki/メイン・テーマ_\(薬師丸ひろ子の曲\) "wikilink")\[40\]、[潮騒のメモリー](https://ja.wikipedia.org/wiki/潮騒のメモリー "wikilink")\[41\]、[故郷](../Page/故郷_\(唱歌\).md "wikilink")\[42\]、[黄昏のビギン](https://ja.wikipedia.org/wiki/黄昏のビギン "wikilink")、秋の子、[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら_\(大瀧詠一の曲\) "wikilink")、[Woman "Wの悲劇"より](https://ja.wikipedia.org/wiki/Woman_"Wの悲劇"より "wikilink")\[43\] |
 |                                           |                                        |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 </div>
@@ -6476,7 +6545,7 @@ Are You Ready To Ska?[43]</p></td>
 
 ## 番組の顔
 
-  - [大泉洋](../Page/大泉洋.md "wikilink")（TEAM NACS）（2018年5月12日 - ）\[54\]
+  - [大泉洋](../Page/大泉洋.md "wikilink")（TEAM NACS）（2018年5月12日 - ）\[44\]
 
 ## スタッフ
 
@@ -6530,38 +6599,28 @@ Are You Ready To Ska?[43]</p></td>
 17.
 18.
 19.
-20. 2018年3月1日に放送する予定だったが、地震のニュースが入ったため、3月18日に放送延期となった。（（2018.3.1更新分より））
-21. 午後11時55分 ～ 翌日午前0時35分に[NET BUZZ枠で放送](https://ja.wikipedia.org/wiki/NET_BUZZ "wikilink")。
-22. 午後11時58分 ～ 翌日午前0時47分の放送。
-23. 午後6時00分 ～午後6時54分の[NHK BS4Kで放送](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。
-24. 午後4時30分 ～午後5時24分の[NHK BS4Kで放送](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。
-25. 大雨関連のニュースのため開始が1分遅れて午後10時11分〜午後11時の放送となった。（（2018.6.30更新分より））
-26. 午前1時55分 ～ 午前2時45分の放送。
-27. 午後4時00分 ～午後4時49分の[NHK BS4Kで放送](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")。
-28. 午後11時00分 ～ 午後11時30分の放送。
+20. 午後11時55分 ～ 翌日午前0時35分に[NET BUZZ枠で放送](https://ja.wikipedia.org/wiki/NET_BUZZ "wikilink")。
+21. 午後11時00分 ～ 午後11時30分の放送。
+22.
+23.
+24.
+25.
+26. スタジオでの生パフォーマンス
+27.
+28.
 29.
-30. 台風24号関連のニュース放送のため開始が10分遅れて午後11時10分〜午後11時40分の放送となった。
-31. 午前1時30分 ～ 午前2時00分の放送。
+30. [奥田民生](../Page/奥田民生.md "wikilink")とのコラボ演奏。
+31.
 32.
-33. 午前0時40分 ～ 午前1時10分の放送。
-34. hideとMIYAVIでの演奏
+33. 「[ALL TIME ROCK 'N' ROLL](../Page/ALL_TIME_ROCK_'N'_ROLL.md "wikilink")」に収録されている「Ultra Chu Chu Medley」を基にした演奏。
+34.
 35.
 36.
-37. 23:00 - 翌0:00の生放送。
-38. スタジオでの生パフォーマンス
-39.
-40. 午後10時50分 ～ 午後11時20分の放送。
-41. [奥田民生](../Page/奥田民生.md "wikilink")とのコラボ演奏。
+37.
+38.
+39. 『薬師丸ひろ子35周年記念コンサート』の映像。
+40.
+41. 『[第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")』の映像。
 42.
 43.
-44. 「[ALL TIME ROCK 'N' ROLL](../Page/ALL_TIME_ROCK_'N'_ROLL.md "wikilink")」に収録されている「Ultra Chu Chu Medley」を基にした演奏。
-45.
-46.
-47.
-48.
-49. 『薬師丸ひろ子35周年記念コンサート』の映像。
-50.
-51. 『[第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")』の映像。
-52.
-53.
-54.
+44.

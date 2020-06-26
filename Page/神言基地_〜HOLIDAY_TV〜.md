@@ -84,6 +84,6 @@
 
   - [UNDER CODE PRODUCTION](http://www.under-code.jp/main.html)
   - [HOLIDAY公式サイト](http://www.clubholiday.jp/) - 番組放送当時、テレビ大阪とテレビ和歌山での放送時間が記されていた。
-  - [BAR Paradox『毎日書くのんしんどいしんどい…笑』カッチンブログ](http://ameblo.jp/katchin/) - KATCHIN本人のブログで、この番組に関する記述がいくつかある。
+  - [BAR Paradox『毎日書くのんしんどいしんどい…笑』カッチンブログ](https://ameblo.jp/katchin/) - KATCHIN本人のブログで、この番組に関する記述がいくつかある。
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink") [Category:近畿地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:近畿地方の深夜テレビ番組 "wikilink") [Category:テレビ大阪の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ大阪の深夜番組 "wikilink") [Category:テレビ大阪の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ大阪の番組の歴史 "wikilink")

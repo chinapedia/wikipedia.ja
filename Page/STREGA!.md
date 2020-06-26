@@ -1,7 +1,7 @@
 > この記事は[STREGA!](https://ja.wikipedia.org/wiki/STREGA!)から翻訳されています。
 
 
-『**STREGA\!**』 (ストレガ\!) は、[米村孝一郎](../Page/米村孝一郎.md "wikilink")による[SF漫画作品](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。[集英社](../Page/集英社.md "wikilink")の『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』[2001年](../Page/2001年.md "wikilink")10月号から[2003年](../Page/2003年.md "wikilink")11月号まで連載。全24話、単行本は全3巻。
+『**STREGA\!**』 (ストレガ\!) は、[米村孝一郎](../Page/米村孝一郎.md "wikilink")による[SF漫画作品](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。[集英社](../Page/集英社.md "wikilink")の『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』[2001年](../Page/2001年.md "wikilink")10月号から[2003年](../Page/2003年.md "wikilink")11月号まで連載。全24話、単行本は全3巻。
 
 ## 概要
 

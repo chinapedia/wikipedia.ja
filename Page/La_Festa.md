@@ -1,7 +1,7 @@
 > この記事は[La Festa](https://ja.wikipedia.org/wiki/La_Festa)から翻訳されています。
 
 
-『**La Festa**』（ラ フェスタ）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の1枚目の、そして活動期間中において唯一となる[ミニアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**La Festa**』（ラ フェスタ）は、[SMAP](../Page/SMAP.md "wikilink")の1枚目の、そして活動期間中において唯一となる[ミニアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月26日](../Page/8月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 

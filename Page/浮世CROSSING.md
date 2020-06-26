@@ -11,7 +11,7 @@
 
 初動売上は、当時の自身のシングル最高初動売上を記録した。また、発売から5年以上たった[2013年](../Page/2013年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[日本レコード協会](../Page/日本レコード協会.md "wikilink")よりゴールド認定された。
 
-なお、TAKUYA∞が起こした2006年末の事件が関係して、7thシングル「[endscape](https://ja.wikipedia.org/wiki/endscape "wikilink")」から8thシングル「[シャカビーチ〜Laka Laka La〜](../Page/シャカビーチ〜Laka_Laka_La〜.md "wikilink")」で続いていたテレビ出演の封印を解禁して、『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』、『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』に出演した（『ミュージックステーション』、『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』の場合は3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』の収録曲として披露）。『音楽戦士 MUSIC FIGHTER』、『ミュージックステーション』での出演は「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」、『CDTV』での出演は「SHAMROCK」以来となる。
+なお、TAKUYA∞が起こした2006年末の事件が関係して、7thシングル「[endscape](https://ja.wikipedia.org/wiki/endscape "wikilink")」から8thシングル「[シャカビーチ〜Laka Laka La〜](../Page/シャカビーチ〜Laka_Laka_La〜.md "wikilink")」で続いていたテレビ出演の封印を解禁して、『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』、『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』、『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』に出演した（『ミュージックステーション』、『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』の場合は3rdアルバム『[PROGLUTION](../Page/PROGLUTION.md "wikilink")』の収録曲として披露）。『音楽戦士 MUSIC FIGHTER』、『ミュージックステーション』での出演は「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」、『CDTV』での出演は「SHAMROCK」以来となる。
 
 キャッチコピーは、『*ありのままの自分で平成を渡れ*』
 
@@ -46,7 +46,7 @@
 
 ## 収録アルバム
 
-  - 『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』（\#1、\#3）
+  - 『[PROGLUTION](../Page/PROGLUTION.md "wikilink")』（\#1、\#3）
       - \#3はアルバムバージョン。
   - 『[-Neo SOUND BEST-](https://ja.wikipedia.org/wiki/-Neo_SOUND_BEST- "wikilink")』（\#1）
   - 『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』（\#2の原曲）

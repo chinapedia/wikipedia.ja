@@ -1,17 +1,17 @@
 > この記事は[日清焼そばU.F.O.](https://ja.wikipedia.org/wiki/日清焼そばU.F.O.)から翻訳されています。
 
 
-**日清焼そばU.F.O.**（にっしんやきそばユーホー）とは、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")が製造・販売する[カップ焼きそば](../Page/カップ焼きそば.md "wikilink")、およびカップ汁なし中華麺（[油そば](../Page/油そば.md "wikilink")、[まぜそば](https://ja.wikipedia.org/wiki/まぜそば "wikilink")）の商品名。
+**日清焼そばU.F.O.**（にっしんやきそばユーフォー）とは、[日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")が製造・販売する[カップ焼きそば](../Page/カップ焼きそば.md "wikilink")、およびカップ汁なし中華麺（[油そば](../Page/油そば.md "wikilink")、[まぜそば](https://ja.wikipedia.org/wiki/まぜそば "wikilink")）の商品名。
 
-## 商品概要
+## 概要
 
-[1976年](../Page/1976年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に発売され、味付けやパッケージ、サイズなどで多様化し、海外でも販売されているシリーズ商品となっている。代表的な[円盤](https://ja.wikipedia.org/wiki/円盤 "wikilink")状パッケージのサイズは、直径が18.0cm、高さが約4.8cm。1991年から販売されている大盛りは角型容器である\[1\]。
+[1976年](../Page/1976年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に発売され、味付けやパッケージ、サイズなどで多様化し、海外でも販売されているシリーズ商品となっている。代表的な[円盤](https://ja.wikipedia.org/wiki/円盤 "wikilink")状パッケージのサイズは、直径が18.0cm、高さが約4.8cm。日本初の皿型カップ麺である\[1\]。1991年から販売されている大盛りは角型容器\[2\]。
 
-商品名の由来は「**うまい（うまく）、太い（太く）、大きい（大きく）**」の略\[2\]。
+商品名の由来は「**うまい（うまく）、太い（太く）、大きい（大きく）**」の略\[3\]。
 
-上記の理由以外に、[空飛ぶ円盤](../Page/空飛ぶ円盤.md "wikilink")を思わせる形状もあって\[3\]、命名や広告・宣伝では[未確認飛行物体](../Page/未確認飛行物体.md "wikilink")の略称であるUFOが意識されている。パッケージには小さく「UNIDENTIFIED FLYING OBJECT」と書かれてあり、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏向けには「飛碟（「空飛ぶ円盤」の意）炒麺」という文言を添えて生産・販売されている\[4\]。また[宇宙人](../Page/宇宙人.md "wikilink")の乗り物としてUFOを描いたキャンペーンも展開されている\[5\]。
+上記の理由以外に、[空飛ぶ円盤](../Page/空飛ぶ円盤.md "wikilink")を思わせる形状もあって、当時の社長が試作品の蓋を開けるときに飛ばしてしまったことや、命名や広告・宣伝では[未確認飛行物体](../Page/未確認飛行物体.md "wikilink")の略称であるUFOが意識されている。パッケージには小さく「UNIDENTIFIED FLYING OBJECT」と書かれてあり、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")圏向けには「飛碟（「空飛ぶ円盤」の意）炒麺」という文言を添えて生産・販売されている\[4\]。また[宇宙人](../Page/宇宙人.md "wikilink")の乗り物としてUFOを描いたキャンペーンも展開されている\[5\]。
 
-## 商品の特徴
+## 特徴
 
   - 発売開始からしばらくの間は、[静岡県](../Page/静岡県.md "wikilink")以東の東日本版と[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")以西の西日本版の2種類のパッケージがあったが、後に西日本版に統一されている。\[6\]。
 
@@ -55,7 +55,7 @@
 
 後にオタフクソースは同業他社である[サンヨー食品](../Page/サンヨー食品.md "wikilink")とのコラボレーションによる商品「**サッポロ一番 オタフクお好みソース焼そば**」を発売している。
 
-## 近年の動向
+## 特記事項
 
 [2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")のリニューアルで麺が大幅に改良された。同社の「[どん兵衛](../Page/どん兵衛.md "wikilink")」[そばシリーズ](../Page/蕎麦.md "wikilink")（例：天ぷらそば、きつねそば、鴨だしそば、カレー南蛮そば等）と同様の特殊製法が用いられたストレート油揚げ麺が採用された（ただし「プチU.F.O」は除く）。
 
@@ -141,7 +141,6 @@
 
 ## 関連項目
 
-  - [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")
   - [やきそばできました。](../Page/やきそばできました。.md "wikilink") - 同社による[北海道限定販売のカップ焼きそば](../Page/北海道限定品.md "wikilink")。2009年3月をもって一時的に販売終了し、同年4月20日に『「北海道の新定番\!」をお手ごろな価格で\!』という新コンセプトにて[オープンプライスなどの変更を行いリニューアル発売された](../Page/オープン価格.md "wikilink")\[22\]。
   - [日清北の焼そば](https://ja.wikipedia.org/wiki/日清北の焼そば "wikilink") - 「やきそばできました。」と同じく、同社による北海道限定販売のカップ焼きそば。
   - [ゴリパラ見聞録](https://ja.wikipedia.org/wiki/ゴリパラ見聞録 "wikilink") - 同番組の名物として[納豆](../Page/納豆.md "wikilink")をのせた「納豆U.F.O.」を食べるシーンが登場する。
@@ -156,9 +155,9 @@
 
 [Category:日清食品](https://ja.wikipedia.org/wiki/Category:日清食品 "wikilink") [Category:カップ焼きそば](https://ja.wikipedia.org/wiki/Category:カップ焼きそば "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
-1.  [日清焼そばU.F.O.の歴史](http://www.nissin-ufo.jp/history/)（2018年8月5日閲覧）。
-2.
-3.  当時の社長が試作品の蓋を開けるときに飛ばしてしまった事に由来する、と言うエピソードを[浜村淳](../Page/浜村淳.md "wikilink")が語っている。(2011年10月25日)
+1.
+2.  [日清焼そばU.F.O.の歴史](http://www.nissin-ufo.jp/history/)（2018年8月5日閲覧）。
+3.
 4.  [UFO飞碟炒面](http://www.nissinfoods.com.cn/product/gdprolist/4)日清食品（2018年8月5日閲覧）。
 5.  [6月24日はUFOの日 全国統一UFO対策模試](http://www.nissin-ufo.jp/taisaku/)日清食品（2018年8月5日閲覧）。
 6.  [昔、日清焼きそばUFOには、東日本版と西日本版があったのだ](https://twitter.com/zepet_kem/status/774458948019638272/)（2019年2月15日閲覧）。

@@ -7,7 +7,7 @@
 
   - 毎週[土曜日](../Page/土曜日.md "wikilink") 21:45 - 21:55
   - 野球延長などで変わることもあった。
-  - 2007年10月より[茨城放送](../Page/茨城放送.md "wikilink")、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")、そして橋本の地元[福島県](../Page/福島県.md "wikilink")の放送局[ラジオ福島](../Page/ラジオ福島.md "wikilink")でもネットされていた。
+  - 2007年10月より[茨城放送](../Page/茨城放送.md "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、そして橋本の地元[福島県](../Page/福島県.md "wikilink")の放送局[ラジオ福島](../Page/ラジオ福島.md "wikilink")でもネットされていた。
 
 ## パーソナリティ
 

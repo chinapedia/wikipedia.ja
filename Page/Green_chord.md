@@ -78,7 +78,7 @@
 
   - [ACIDMAN 『green chord』 インタビュー - billboard-japan](http://www.billboard-japan.com/special/detail/197)
       -
-        ※記事中に漫画作品「[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")」のネタバレが含まれていることに注意。
+        ※記事中に漫画作品「[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")」のネタバレが含まれていることに注意。
   - [DUKE](http://www.duke.co.jp/DOMO/2007/3/0703_acidman.htm)
 
 ## 外部リンク

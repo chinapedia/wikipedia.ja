@@ -105,44 +105,36 @@
 <thead>
 <tr class="header">
 <th><p>作品名</p></th>
-<th><p>発売日</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/Mr.Children_Concert_Tour_Q_2000-2001.md" title="wikilink">Mr.Children Concert Tour Q 2000-2001</a></p></td>
-<td><p>2001年8月22日</p></td>
 <td><p>半音下げて演奏された</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21" title="wikilink">wonederful world on DEC 21</a></p></td>
-<td><p>2003年3月26日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference" title="wikilink">Mr.Children / Split The Difference</a></p></td>
-<td><p>2010年11月10日</p></td>
 <td><p><a href="../Page/ドキュメンタリー.md" title="wikilink">ドキュメンタリー</a><a href="../Page/映画.md" title="wikilink">映画</a>作品<br />
 半音下げて演奏された</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_&quot;SENSE&quot;" title="wikilink">Mr.Children Tour 2011 SENSE</a></p></td>
-<td><p>2011年11月23日</p></td>
 <td><p>半音下げて演奏された</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children［(an_imitation)_blood_orange］Tour" title="wikilink">Mr.Children［(an imitation) blood orange］Tour</a></p></td>
-<td><p>2013年12月18日</p></td>
 <td><p>半音下げて演奏された</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_Tour_2018-19_重力と呼吸" title="wikilink">Mr.Children Tour 2018-19 重力と呼吸</a></p></td>
-<td><p>2019年6月26日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -151,12 +143,12 @@
 
 ### 1999年、夏、沖縄
 
-| 作品名                                                                                                                                                   | 発売日         | 備考   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---- |
-| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                                    | 2004年12月21日 | 特典映像 |
-| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                           | 2012年12月19日 |      |
-| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink") | 2018年3月21日  |      |
-|                                                                                                                                                       |             |      |
+| 作品名                                                                                                                                                   | 備考   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                                                    | 特典映像 |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                           |      |
+| [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink") |      |
+|                                                                                                                                                       |      |
 
 ## 収録アルバム
 

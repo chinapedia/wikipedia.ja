@@ -3,7 +3,7 @@
 
 『**モーニング刑事。抱いてHOLD ON ME\!**』（モーニングコップ だいてホールド オン ミー）は、日本の[映画](../Page/映画.md "wikilink")作品。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月18日](../Page/8月18日.md "wikilink")公開。
 
-[平家みちよ](../Page/みちよ.md "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の映画初出演作品。主演は平家で、各自が芸名そのままの役名で出演。[カントリー娘。](../Page/カントリー娘。.md "wikilink")加入前の[柳原尋美](https://ja.wikipedia.org/wiki/柳原尋美 "wikilink")も共演している。
+[平家みちよ](../Page/みちよ.md "wikilink")、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の映画初出演作品。主演は平家で、各自が芸名そのままの役名で出演。[カントリー娘。](../Page/カントリー娘。.md "wikilink")加入前の[柳原尋美](https://ja.wikipedia.org/wiki/柳原尋美 "wikilink")も共演している。
 
 平家みちよとモーニング娘。によるミニライブとセットになった形で、全国縦断イベント形式で上映された。
 
@@ -14,7 +14,7 @@
 ## キャスト
 
   - [平家みちよ](https://ja.wikipedia.org/wiki/平家みちよ "wikilink")（現・[みちよ](../Page/みちよ.md "wikilink")）
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
       - [中澤裕子](../Page/中澤裕子.md "wikilink")
       - [石黒彩](https://ja.wikipedia.org/wiki/石黒彩 "wikilink")
       - [安倍なつみ](../Page/安倍なつみ.md "wikilink")

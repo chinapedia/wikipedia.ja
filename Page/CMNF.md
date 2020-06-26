@@ -25,7 +25,7 @@
 
 [スポーツ](../Page/スポーツ.md "wikilink")や[舞踊](https://ja.wikipedia.org/wiki/舞踊 "wikilink")・[舞台](../Page/舞台.md "wikilink")、一般表現物などにおいても、ソフトないし露骨な形でのCMNFが見られる。
 
-例として、[フィギアスケート](https://ja.wikipedia.org/wiki/フィギアスケート "wikilink")において、男子選手より女子選手のコスチュームのほうが、明らかに露出度が高い。[器械体操](https://ja.wikipedia.org/wiki/器械体操 "wikilink")や[バレエ](../Page/バレエ.md "wikilink")、ペアの[競技ダンス](../Page/競技ダンス.md "wikilink")、[アイスダンス](../Page/アイスダンス.md "wikilink")でも同様である。
+例として、[フィギアスケート](https://ja.wikipedia.org/wiki/フィギアスケート "wikilink")において、男子選手より女子選手のコスチュームのほうが、明らかに露出度が高い。[器械体操や](../Page/体操競技.md "wikilink")[バレエ](../Page/バレエ.md "wikilink")、ペアの[競技ダンス](../Page/競技ダンス.md "wikilink")、[アイスダンス](../Page/アイスダンス.md "wikilink")でも同様である。
 
 過去の日本においては、多くの地域の学校で、体育の授業の際に女子児童・生徒に対しては[ブルマー](../Page/ブルマー.md "wikilink")を、男子児童・生徒に対しては[短パン](../Page/短パン.md "wikilink")を着用するよう求めていた時期があり、女子の方が露出度が高い状況に置かれていた。
 

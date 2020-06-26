@@ -130,7 +130,7 @@
 
 <!-- end list -->
 
-  - **[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")**
+  - **[SMAP](../Page/SMAP.md "wikilink")**
       - 「[弾丸ファイター](../Page/弾丸ファイター.md "wikilink")」（作曲）
       - 「[buzzer beater](../Page/Dear_WOMAN.md "wikilink")」（作曲・編曲・コーラス）
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[KHBステーションEYE](../Page/KHBステーションEYE.md "wikilink")』の終了および『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の開始を受けて1997年3月31日にスタートした。『スーパーJチャンネル』全国パートの終了後に、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")内のニュース・スポーツ・特集・天気予報などを放送していた。
+『[KHBステーションEYE](../Page/KHBステーションEYE.md "wikilink")』の終了および『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』の開始を受けて1997年3月31日にスタートした。『スーパーJチャンネル』全国パートの終了後に、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")内のニュース・スポーツ・特集・天気予報などを放送していた。
 
 2001年4月2日に『[夕方ワイドあなたにCue\!](../Page/夕方ワイドあなたにCue!.md "wikilink")』がスタートするのを受け、『[週末の女神](../Page/週末の女神.md "wikilink")』や『[クイズは生だ\!〜持ってけ諭吉〜](https://ja.wikipedia.org/wiki/クイズは生だ!〜持ってけ諭吉〜 "wikilink")』と共に同年3月末に終了した。
 

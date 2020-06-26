@@ -1,7 +1,7 @@
 > この記事は[AABステーションEYE](https://ja.wikipedia.org/wiki/AABステーションEYE)から翻訳されています。
 
 
-『**AABステーションEYE**』（エーエービー ステーションアイ）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送していた夕方の[ローカルワイドニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[秋田県](../Page/秋田県.md "wikilink")ローカルパートに相当する。
+『**AABステーションEYE**』（エーエービー ステーションアイ）は、[秋田朝日放送](../Page/秋田朝日放送.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")の開局以来[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで放送していた夕方の[ローカルワイドニュース番組で](../Page/報道番組.md "wikilink")、『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』の[秋田県](../Page/秋田県.md "wikilink")ローカルパートに相当する。
 
 平日の全国ニュースのタイトルが『ANNスーパーJチャンネル』に変更されたあとも半年間『ステーションEYE ANN』のタイトルを使用し続けていた。
 
@@ -13,7 +13,7 @@
 
 ウェザーリポートと題してお送りしていた。 5分間の天気予報「AABウェザーリポート」と同じテーマ曲（初代）に乗せて情報カメラの映像に雪だるまや傘マークなどのCGが流れて始まっていた。
 
-開局当時は、秋田の民放2局（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")、[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）では、沿岸、内陸と2つに分けていたのに対し秋田朝日放送では、秋田県北部、南部9市+鷹巣町（現:[北秋田市](../Page/北秋田市.md "wikilink")）、象潟町（現:[にかほ市](../Page/にかほ市.md "wikilink")）などを加えた市町のきめ細かな天気予報を伝えていた。
+開局当時は、秋田の民放2局（[秋田放送](../Page/秋田放送.md "wikilink")、[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）では、沿岸、内陸と2つに分けていたのに対し秋田朝日放送では、秋田県北部、南部9市+鷹巣町（現:[北秋田市](../Page/北秋田市.md "wikilink")）、象潟町（現:[にかほ市](../Page/にかほ市.md "wikilink")）などを加えた市町のきめ細かな天気予報を伝えていた。
 
 秋田県北部、南部どちらにも秋田市の天気を入れていた。
 
@@ -65,6 +65,6 @@
   - [AABニュース](../Page/AABニュース&ウェザー.md "wikilink")
   - [チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")（月曜 - 木曜のみ、後番組）
   - [チャンネルeiei金曜版](https://ja.wikipedia.org/wiki/チャンネルeiei金曜版 "wikilink")（金曜のみ、後番組）
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:秋田朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:秋田朝日放送のテレビ番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:ステーションEYE](https://ja.wikipedia.org/wiki/Category:ステーションEYE "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

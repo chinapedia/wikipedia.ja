@@ -20,6 +20,7 @@ V6にとってアルバム1位は2006年8月発売の[ベストアルバム](htt
         作詞・作曲・編曲：[HIKARI](../Page/HIKARI.md "wikilink")、[コーラスアレンジ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")：[鈴木弘明](https://ja.wikipedia.org/wiki/鈴木弘明 "wikilink")
     <!-- end list -->
       - 本アルバムのリード曲
+      - 坂本、井ノ原、森田、三宅にソロパートがある。
 2.  '''Live Show '''
       -
         作詞：[日比野裕史](https://ja.wikipedia.org/wiki/日比野裕史 "wikilink")・[Leonn](https://ja.wikipedia.org/wiki/Leonn "wikilink")、作曲：日比野裕史、編曲：[中村"Nam-Nam"康就](https://ja.wikipedia.org/wiki/中村康就 "wikilink")、コーラスアレンジ：鈴木弘明

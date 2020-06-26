@@ -29,7 +29,7 @@
 ## 関連項目
 
   - [ロビーとケロビー](../Page/ロビーとケロビー.md "wikilink")
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
       - [新垣里沙](../Page/新垣里沙.md "wikilink")
       - [光井愛佳](../Page/光井愛佳.md "wikilink")
   - [℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")

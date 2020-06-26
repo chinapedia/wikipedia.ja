@@ -41,7 +41,7 @@ K9が飛ばされたのは、一説によると犬を意味する「Kaneen」に
 
 #### 時期についての確認
 
-[2006年](../Page/2006年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")、AMD 社長(COO) のダーク・メイヤー と上級副社長 のMarty Seyer は、新たなアーキテクチャに基づいた*Revision H*の新しい[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の出荷日が2007年の半ばに予定されていることを認めた。そしてそのプロセッサはサーバ、ワークステーションとハイエンドの[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")用の[クアッドコアバージョンと](../Page/マルチコア.md "wikilink")、コンシューマーデスクトップ向けのデュアルコアバージョンが存在するとされた。2007年に出荷される*Revision H*のOpteronは[熱設計電力](https://ja.wikipedia.org/wiki/熱設計電力 "wikilink")（TDP）が68[Wであるとされた](../Page/ワット.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")、AMD 社長(COO) のダーク・メイヤー と上級副社長 のMarty Seyer は、新たなアーキテクチャに基づいた*Revision H*の新しい[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の出荷日が2007年の半ばに予定されていることを認めた。そしてそのプロセッサはサーバ、ワークステーションとハイエンドの[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")用の[クアッドコアバージョンと](../Page/マルチコア.md "wikilink")、コンシューマーデスクトップ向けのデュアルコアバージョンが存在するとされた。2007年に出荷される*Revision H*のOpteronは[熱設計電力](../Page/熱設計電力.md "wikilink")（TDP）が68[Wであるとされた](../Page/ワット.md "wikilink")。
 
 [2006年](../Page/2006年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")、最初の[Socket F](https://ja.wikipedia.org/wiki/Socket_F "wikilink")(別名Socket 1207)のデュアルコア[Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")の出荷の際、AMDはクアッドコア[Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")の設計が最終段階([テープアウト](../Page/テープアウト.md "wikilink"))に達したことを発表した。次の段階は今後数ヶ月間のサンプリングと試験・検証である\[7\]。
 
@@ -65,7 +65,7 @@ K9が飛ばされたのは、一説によると犬を意味する「Kaneen」に
 <th style="text-align: right;"><p>動作周波数<br />
 (<a href="../Page/周波数.md" title="wikilink">GHz</a>)</p></th>
 <th style="text-align: left;"><p>コードネーム</p></th>
-<th style="text-align: right;"><p><a href="https://ja.wikipedia.org/wiki/熱設計電力" title="wikilink">TDP</a><br />
+<th style="text-align: right;"><p><a href="../Page/熱設計電力.md" title="wikilink">TDP</a><br />
 (<a href="../Page/ワット.md" title="wikilink">W</a>)</p></th>
 <th style="text-align: center;"><p><a href="../Page/CPUソケット.md" title="wikilink">ソケット</a></p></th>
 <th style="text-align: left;"><p>プロセス (<a href="https://ja.wikipedia.org/wiki/nm" title="wikilink">nm</a>)</p></th>

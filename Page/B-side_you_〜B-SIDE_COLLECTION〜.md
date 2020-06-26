@@ -5,7 +5,7 @@
 
 ## 解説
 
-シングル「[せつない笑顔](https://ja.wikipedia.org/wiki/せつない笑顔 "wikilink")」から「[-赤い華- You're gonna change to the flower](https://ja.wikipedia.org/wiki/-赤い華-_You're_gonna_change_to_the_flower "wikilink")」までのカップリング曲をリリース順に収録したベストアルバム（「漂流者」のカップリング曲は除く）。
+シングル「[せつない笑顔](https://ja.wikipedia.org/wiki/せつない笑顔 "wikilink")」から「[-赤い華- You're gonna change to the flower](../Page/-赤い華-_You're_gonna_change_to_the_flower.md "wikilink")」までのカップリング曲をリリース順に収録したベストアルバム（「漂流者」のカップリング曲は除く）。
 
 アルバムのタイトルは、シングル曲『BESIDE YOU』および同時発売のオリジナルアルバム『[RIGHT BESIDE YOU](../Page/RIGHT_BESIDE_YOU.md "wikilink")』と、本作がいわゆるB面曲(B-side)のみを収録していることとをかけたもの。
 

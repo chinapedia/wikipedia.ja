@@ -303,7 +303,7 @@
 <td><p>約-世帯</p></td>
 <td><p>階上岳</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/12月20日.md" title="wikilink">12月20日</a>[46]</p></td>
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a>[47]</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a>[47][48]</p></td>
 </tr>
 </tbody>
 </table>
@@ -365,3 +365,4 @@
 45.
 46. [山形県及び青森県でV-Highマルチメディア放送を開始 - 移動受信用地上基幹放送局を免許 -](http://www.soumu.go.jp/soutsu/tohoku/hodo/h251218a1001.html) - 総務省東北総合通信局・2013年12月18日リリース（閲覧は2014年1月16日）
 47. [「テレビと呼ぶには、面白すぎる」NOTTV、4年超でサービス終了](https://www.itmedia.co.jp/business/articles/1606/30/news153.html) IT Media 2016年6月30日 2019年9月14日閲覧
+48.

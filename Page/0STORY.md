@@ -81,6 +81,6 @@
 
   - [SQUARE ENIX内の紹介ページ](https://www.jp.square-enix.com/game/detail/0story/)
 
-[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:スクウェア・エニックスのゲームソフト](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスのゲームソフト "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:アイドルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アイドルを題材としたコンピュータゲーム "wikilink")
+[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:スクウェア・エニックスのゲームソフト](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスのゲームソフト "wikilink") [Category:2000年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2000年のコンピュータゲーム "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:アイドルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アイドルを題材としたコンピュータゲーム "wikilink") [Category:実写取り込みを用いたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:実写取り込みを用いたコンピュータゲーム "wikilink")
 
 1.  タイトルの「ø」という表記が特殊記号であるため、「**ΦSTORY**」「**φSTORY**」と表記されることもある（[TSUTAYAオンライン](http://www.tsutaya.co.jp/works/30003229.html)、[紀伊国屋書店BookWeb](http://bookweb.kinokuniya.co.jp/htm/4840216460.html)など）

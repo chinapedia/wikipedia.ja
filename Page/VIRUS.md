@@ -75,10 +75,12 @@
   - ジョウイチロウ・カブラギ - [檜山修之](../Page/檜山修之.md "wikilink")
   - マーカス・A・ボガード - [難波圭一](../Page/難波圭一.md "wikilink")
   - レイヴェン - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
-  - ブレインリザード - [矢尾一樹](../Page/矢尾一樹.md "wikilink")
+  - キム - [桑島法子](../Page/桑島法子.md "wikilink")
+  - リュウ/ブレインリザード - [矢尾一樹](../Page/矢尾一樹.md "wikilink")
   - リリー・ペトリ - [根谷美智子](../Page/根谷美智子.md "wikilink")
   - リー・ユイリン・メイナス - [平松晶子](../Page/平松晶子.md "wikilink")
   - ミラン・トゥレイン - [中尾隆聖](../Page/中尾隆聖.md "wikilink")
+  - ドナ - [折笠愛](../Page/折笠愛.md "wikilink")
 
 #### スタッフ
 

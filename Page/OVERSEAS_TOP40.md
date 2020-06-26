@@ -70,7 +70,7 @@
   -
   - [ランキングチャート | FM京都 89.4 FM](http://fm-kyoto.jp/rankingchart/) - J-AC TOP40のランキングと共に掲載されている
 
-[Category:エフエム京都の番組](https://ja.wikipedia.org/wiki/Category:エフエム京都の番組 "wikilink") [Category:日本のラジオ音楽番組](https://ja.wikipedia.org/wiki/Category:日本のラジオ音楽番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink")
+[Category:エフエム京都の番組](https://ja.wikipedia.org/wiki/Category:エフエム京都の番組 "wikilink") [Category:独立系FMラジオの音楽番組‎](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組‎ "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink")
 
 1.  [OVERSEAS TOP40(@fmkyoto_OVERSEA) 2019年3月31日16:56のツイート](https://twitter.com/fmkyoto_OVERSEA/status/1112262342132195328)
 2.

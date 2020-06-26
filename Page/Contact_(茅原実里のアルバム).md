@@ -19,7 +19,7 @@
 
 その後、[2006年](../Page/2006年.md "wikilink")に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[涼宮ハルヒの憂鬱](../Page/涼宮ハルヒの憂鬱_\(アニメ\).md "wikilink")』で[サブヒロインの](../Page/ヒロイン.md "wikilink")[長門有希役を演じ](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団 "wikilink")、「涼宮ハルヒの憂鬱 キャラクターソング Vol.2 長門有希」が茅原の[CD作品としては最高となる約](../Page/コンパクトディスク.md "wikilink")4万枚を売り上げるなど、一躍ブレイクを果たした。茅原は、今作の発売に至ったのはこの長門役を演じたことが大きく\[2\]、また、[涼宮ハルヒ](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団 "wikilink")（同アニメの[メインヒロイン](../Page/ヒロイン.md "wikilink")）や[朝比奈みくる](https://ja.wikipedia.org/wiki/涼宮ハルヒシリーズの登場人物#SOS団 "wikilink")（同サブヒロイン）でなく、長門だったからこそ今の自分がいると語っている\[3\]。さらに、「涼宮ハルヒの憂鬱 キャラクターソング Vol.2 長門有希」を制作した際、今作の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である斎藤滋から、「茅原実里はこういう方向性で音楽活動をしていったほうがいいのではないか」とアドバイスを受けたことが、今作まで続くきっかけになったという\[4\]。
 
-2007年に入ると、「純白サンクチュアリィ」で歌手活動を3年ぶりに再開させ、[6月6日](../Page/6月6日.md "wikilink")には歌手活動再開後2枚目のシングルとなる「[君がくれたあの日](../Page/君がくれたあの日.md "wikilink")」を発売したが、茅原自身、その後にアルバム発売が待っていると思っていなかったため\[5\]、制作が決定した際には驚きでいっぱいだったと語っている\[6\]。そして、[8月11日](../Page/8月11日.md "wikilink")[正午](../Page/正午.md "wikilink")から全国の[アニメショップ](../Page/アニメショップ.md "wikilink")115店舗の店頭[モニターで](https://ja.wikipedia.org/wiki/ビデオモニター "wikilink")「重大発表」と称したプロモーション映像が放映され、同年[11月18日](../Page/11月18日.md "wikilink")にバースデーライブ『i melody 〜Minori Chihara Birthday Live 2007〜』の開催、[12月26日](../Page/12月26日.md "wikilink")に[PV集](../Page/ミュージック・ビデオ.md "wikilink")『[Message 01](https://ja.wikipedia.org/wiki/Message_01 "wikilink")』の発売（当時は発売日・作品名は未定）と共に、今作の発売が発表された。
+2007年に入ると、「純白サンクチュアリィ」で歌手活動を3年ぶりに再開させ、[6月6日](../Page/6月6日.md "wikilink")には歌手活動再開後2枚目のシングルとなる「[君がくれたあの日](../Page/君がくれたあの日.md "wikilink")」を発売したが、茅原自身、その後にアルバム発売が待っていると思っていなかったため\[5\]、制作が決定した際には驚きでいっぱいだったと語っている\[6\]。そして、[8月11日](../Page/8月11日.md "wikilink")[正午](../Page/正午.md "wikilink")から全国の[アニメショップ](../Page/アニメショップ.md "wikilink")115店舗の店頭[モニターで](https://ja.wikipedia.org/wiki/ビデオモニター "wikilink")「重大発表」と称したプロモーション映像が放映され、同年[11月18日](../Page/11月18日.md "wikilink")にバースデーライブ『i melody 〜Minori Chihara Birthday Live 2007〜』の開催、[12月26日](../Page/12月26日.md "wikilink")に[PV集](../Page/ミュージック・ビデオ.md "wikilink")『[Message 01](../Page/Message_01.md "wikilink")』の発売（当時は発売日・作品名は未定）と共に、今作の発売が発表された。
 
 アルバム制作中、茅原は「1枚のアルバムをガッツリ集中して音楽を作れる環境がすごく幸せ」と語っており\[7\]、斎藤は「制作途中なのに仕上がりの良さに思わずニヤニヤしてしまったり、作っている過程で『すごい』と思える作品はなかなか無い」と評している\[8\]。
 
@@ -169,7 +169,7 @@ CDジャーナルは、「クールなスピード感溢れるデジポップナ
 
 ## 外部リンク
 
-  - [ランティスによる紹介ページ](http://lantis.jp/new-release/data.php?id=55d1b313aeffc8e176bdae1fa5c1607b)
+  - [ランティスによる紹介ページ](https://www.lantis.jp/release-item/LACA-5705.html)
 
 [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:茅原実里のアルバム](https://ja.wikipedia.org/wiki/Category:茅原実里のアルバム "wikilink")
 

@@ -1,7 +1,11 @@
 > この記事は[ピカ☆☆ンチ LIFE IS HARDだからHAPPY](https://ja.wikipedia.org/wiki/ピカ☆☆ンチ_LIFE_IS_HARDだからHAPPY)から翻訳されています。
 
 
-『**ピカ★★ンチ LIFE IS HARDだからHAPPY**』（ピカンチダブル ライフイズハードだからハッピー）は[2004年](../Page/2004年.md "wikilink")に制作、3月1日に公開された[嵐主演の](../Page/嵐_\(グループ\).md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。前作『[ピカ☆ンチ LIFE IS HARDだけどHAPPY](https://ja.wikipedia.org/wiki/ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY "wikilink")』から3年の時を経た仲間たちを描いた。
+『**ピカ★★ンチ LIFE IS HARDだからHAPPY**』（ピカンチダブル ライフイズハードだからハッピー）は[2004年](../Page/2004年.md "wikilink")に制作、3月1日に公開された[嵐主演の](../Page/嵐_\(グループ\).md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。
+
+## 概要
+
+前作『[ピカ☆ンチ LIFE IS HARDだけどHAPPY](https://ja.wikipedia.org/wiki/ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY "wikilink")』から3年の時を経た仲間たちを描いた。
 
 2014年、嵐デビュー15周年のメモリアルイヤーに、ピカンチシリーズのスピンオフ映画『[ピカ☆★☆ンチ LIFE IS HARD たぶんHAPPY](https://ja.wikipedia.org/wiki/ピカ☆★☆ンチ_LIFE_IS_HARD_たぶんHAPPY "wikilink")』が公開された。
 
@@ -66,4 +70,7 @@
   - 脚本：[河原雅彦](../Page/河原雅彦.md "wikilink")
   - 音楽：[辻陽](../Page/辻陽.md "wikilink")
 
+## 外部リンク
+
+  -
 [Category:ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY](https://ja.wikipedia.org/wiki/Category:ピカ☆ンチ_LIFE_IS_HARDだけどHAPPY "wikilink") [Category:井ノ原快彦](https://ja.wikipedia.org/wiki/Category:井ノ原快彦 "wikilink") [Category:嵐_(ジャニーズ)](https://ja.wikipedia.org/wiki/Category:嵐_\(ジャニーズ\) "wikilink") [Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:堤幸彦の監督映画](https://ja.wikipedia.org/wiki/Category:堤幸彦の監督映画 "wikilink") [Category:ジェイ・ストーム製作の映画](https://ja.wikipedia.org/wiki/Category:ジェイ・ストーム製作の映画 "wikilink") [Category:品川区を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:品川区を舞台とした映画作品 "wikilink")

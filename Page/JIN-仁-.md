@@ -31,17 +31,17 @@
     本作の主人公。東都大学附属病院[脳外科医局長](../Page/脳神経外科学.md "wikilink")。原作（漫画）では34歳（[2000年](../Page/2000年.md "wikilink")当時）テレビドラマでは38歳（[2009年](../Page/2009年.md "wikilink")当時）。頭蓋骨内に[奇形腫](https://ja.wikipedia.org/wiki/奇形腫 "wikilink")瘍を持っていた**謎の男性患者**との接触により[文久](../Page/文久.md "wikilink")2年（[1862年](../Page/1862年.md "wikilink")）の江戸にタイムスリップ。歴史を変えることになると自覚しつつも、医者としての使命感から江戸の人々を近代医療で救う。西洋医学所と[コレラ](../Page/コレラ.md "wikilink")の対策を行ったり、原始的な方法による[ペニシリン](../Page/ペニシリン.md "wikilink")の[抽出](../Page/抽出.md "wikilink")・[精製](https://ja.wikipedia.org/wiki/精製 "wikilink")を行ったりと、幕末の医療技術を飛躍的に進歩させたことで、[蘭方医](https://ja.wikipedia.org/wiki/蘭方医 "wikilink")だけでなく[漢方医](../Page/漢方医.md "wikilink")や外国人医師達、幕閣や[雄藩](https://ja.wikipedia.org/wiki/雄藩 "wikilink")の武士層からも一目置かれる存在となっている。[緒方洪庵](../Page/緒方洪庵.md "wikilink")死後、医学所と距離を置き仁友堂を開業した。数多くの難病の治療を成功させ続けたが、その一方で彼の存在と功績を妬み、恐れる者もおり、何度も妨害に遭ったり命を狙われている。やがて、歴史を変えてしまうことに躊躇しつつも、親友である[坂本龍馬](../Page/坂本龍馬.md "wikilink")の命を救う為に奔走する。
     原作では[タイムパラドックス](https://ja.wikipedia.org/wiki/タイムパラドックス "wikilink")も絡んだ結果、最終的に[幕末](../Page/幕末.md "wikilink")〜[明治時代](https://ja.wikipedia.org/wiki/明治時代 "wikilink")に残る南方仁と[現代の](../Page/現代_\(時代区分\).md "wikilink")[平成時代](https://ja.wikipedia.org/wiki/平成時代 "wikilink")に戻る南方仁の2人に分かれた。前者は咲との結婚により「橘仁」と姓を改め、仁友堂（[順天堂がモデル](https://ja.wikipedia.org/wiki/学校法人順天堂 "wikilink")）を医療機関兼教育機関として発展させ、後に[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[医学部の設立の際に出仕する](https://ja.wikipedia.org/wiki/東京大学大学院医学系研究科・医学部 "wikilink")。後者は「仁友堂病院」となった所属元に復帰するも、後に[江戸時代](../Page/江戸時代.md "wikilink")での経験を元に[総合診療の分野に転身し](https://ja.wikipedia.org/wiki/総合診療科 "wikilink")、10年後には同病院総合救急医療部部長・准教授となっている。
   - （のかぜ）
-    [吉原の鈴屋彦三郎抱えの呼び出し](../Page/吉原_\(東京都\).md "wikilink")[花魁](../Page/花魁.md "wikilink")。鈴屋の命を救った仁に心酔する。さる大名の隠居に落籍される予定だったが、[乳癌](../Page/乳癌.md "wikilink")の手術により破談となる。術後は吉原を出て仁友堂の雑用をこなしていたが、仁が投獄された際にツル（牢屋で慣例化されていた[賄賂](../Page/賄賂.md "wikilink")）を工面するため、フランス人貿易商ジャン・ルロンに身受けされ、仁友堂を去る。その後は横浜で元遊女達の為の[ホスピス](../Page/ホスピス.md "wikilink")を開くなどの慈善活動を展開。ルロンとの新婚旅行のため日本を発つが、転移した癌で余命が長くないことを自覚している。後に男児（ドラマでは女児）を出産。
+    [吉原の鈴屋彦三郎抱えの呼び出し](../Page/吉原_\(東京都\).md "wikilink")[花魁](../Page/花魁.md "wikilink")。（友永未来と似ていることから、彼女の先祖だと仁は推察した）鈴屋の命を救った仁に心酔する。さる大名の隠居に落籍される予定だったが、[乳癌](../Page/乳癌.md "wikilink")の手術により破談となる。術後は吉原を出て仁友堂の雑用をこなしていたが、仁が投獄された際にツル（牢屋で慣例化されていた[賄賂](../Page/賄賂.md "wikilink")）を工面するため、フランス人貿易商ジャン・ルロンに身受けされ、仁友堂を去る。その後は横浜で元遊女達の為の[ホスピス](../Page/ホスピス.md "wikilink")を開くなどの慈善活動を展開。ルロンとの新婚旅行のため日本を発つが、転移した癌で余命が長くないことを自覚している。後に男児（ドラマでは女児（安寿））を出産。
   - （たちばな さき）
-    [旗本](../Page/旗本.md "wikilink")橘家の娘。兄・恭太郎の命を救った仁に興味を持つ。やがて[麻疹](../Page/麻疹.md "wikilink")にかかり仁に命を救われたのを機に[看護婦](https://ja.wikipedia.org/wiki/看護師 "wikilink")\[3\]となり、虎狼痢（コロリ）にかかった仁を救う。仁が未来から来たことは本人から直接告げられている。縁談（格上の旗本の後妻）が進んでいたが、結納の当日土壇場でこれを破棄し野風の手術に駆けつけたため栄から勘当され、仁友堂に身を寄せる。その後、[楠本いね](../Page/楠本イネ.md "wikilink")（楠本伊篤）との出会いから[女医を志すようになる](../Page/医師.md "wikilink")。
+    [旗本](../Page/旗本.md "wikilink")橘家の娘。兄・恭太郎の命を救った仁に興味を持つ。やがて[麻疹](../Page/麻疹.md "wikilink")にかかり仁に命を救われたのを機に[看護婦](https://ja.wikipedia.org/wiki/看護師 "wikilink")\[3\]となり、虎狼痢（コロリ）にかかった仁を救う。仁が未来から来たことは本人から直接告げられている。縁談（格上の旗本の後妻）が進んでいたが、結納の当日土壇場でこれを破棄し野風の手術に駆けつけたため栄から勘当され、仁友堂に身を寄せる。その後、[楠本いね](../Page/楠本イネ.md "wikilink")（楠本伊篤）との出会いから[女医を志すようになる](../Page/医師.md "wikilink")。のちに『橘医院』を設立した。
   - （たちばな きょうたろう）
     咲の兄。徳川旗本の剣客の武士。美青年だが堅物。幕府[講武所](../Page/講武所.md "wikilink")では[伊庭八郎](../Page/伊庭八郎.md "wikilink")と双璧をなし、[勝海舟](../Page/勝海舟.md "wikilink")から[洋学](https://ja.wikipedia.org/wiki/洋学 "wikilink")を学ぶなど向上心が高い。そのため[攘夷派浪人達に襲われ前頭部に重傷を負うが](../Page/攘夷論.md "wikilink")、タイムスリップしてきた仁の近代医療により命を救われる。
-    その剣の腕前で、幾度も仁の危機を救い、戦乱の幕末に仁らの用心棒役を務める。大政奉還を経て徳川幕府、そして武士という存在そのものが消えていく未来に悩むが、[福沢諭吉](https://ja.wikipedia.org/wiki/福沢諭吉 "wikilink")との出会いから剣を捨て政治・経済を学ばんと欧州留学を決意する。しかし、仁の命を狙う三隅俊斉が手引きした刺客と戦おうとした際に同様に手配された短銃が暴発。右手が使えない状況で奮戦し刺客を撃退するが、深手を負いすぎて亡くなった。享年26。仁が幕末に来たばかりの頃、勝から仁が未来から来たと知らされた際には「きっと未来は素晴らしい世だ」と希望を抱いていた。
+    その剣の腕前で、幾度も仁の危機を救い、戦乱の幕末に仁らの用心棒役を務める。大政奉還を経て徳川幕府、そして武士という存在そのものが消えていく未来に悩むが、[福沢諭吉](https://ja.wikipedia.org/wiki/福沢諭吉 "wikilink")との出会いから剣を捨て政治・経済を学ばんと欧州留学を決意する。しかし、仁の命を狙う三隅俊斉が手引きした刺客と戦おうとした際に同様に手配された短銃が暴発。右手が使えない状況で奮戦し刺客を撃退するが、深手を負いすぎて亡くなった。享年26。仁が幕末に来たばかりの頃、勝から仁が未来から来たと知らされた際には「きっと未来は素晴らしい世だ」と希望を抱いていた。（テレビドラマでは[彰義隊](../Page/彰義隊.md "wikilink")に加わり参戦するも、咲が兄をを連れ帰ろうとするその最中に左腕を打たれ、仁が設置していた救護所へ連れ帰り、隊には戻らなかった）
   - （たちばな えい）
     恭太郎と咲の母。恭太郎の命を救った仁を屋敷に住まわせる。咲の結納の破談後、体調を崩し「[脚気](../Page/脚気.md "wikilink")」の為、生命の危機に瀕する。典型的な武家の妻女であり親不孝をした咲や、その原因を作った仁に怒りつつも、内心では幸せになってほしいと願っている。
   - （さかもと りょうま）
     実在の人物。史実通りに、倒幕・海外貿易に仁を巻き込みつつ活躍する。
-    勝を通じて仁と知り合う。当初は仁の正体を訝るが、すぐに打ち解け親友となる。仁と吉原の遊郭に行った際に、野風に一目惚れする。物語の後半は、龍馬の暗殺阻止をメインに展開する。
+    勝を通じて仁と知り合う。当初は仁の正体を訝るが、すぐに打ち解け親友となる。仁と吉原の遊郭に行った際に、野風に一目惚れする。物語の後半は、龍馬の暗殺阻止をメインに展開する。兄をかつて坂本に切られた長州藩士の東修介に額を切られ、仁に治療を受けるも絶命した。
 
 ### 市井の人々
 
@@ -382,7 +382,7 @@
 
   - 第九話「残酷な神の裁定」、第十話「坂本龍馬、暗殺…」
 
-:\* **[久坂玄瑞](../Page/久坂玄瑞.md "wikilink") - [林泰文](../Page/林泰文.md "wikilink")**（第二期完結編・第一話）
+:\* **[久坂玄瑞](../Page/久坂玄瑞.md "wikilink") - [林泰文](../Page/林泰文.md "wikilink")**（第二期完結編・第一話、第六話）
 
 :\* [千吉](https://ja.wikipedia.org/wiki/#千吉 "wikilink") - [川村陽介](../Page/川村陽介.md "wikilink")
 
@@ -513,7 +513,7 @@
   - 歴史監修 - 大庭邦彦（[聖徳大学](../Page/聖徳大学.md "wikilink")人文学部 日本文化学科教授）
   - 医療指導・監修 - 冨田泰彦（[杏林大学](../Page/杏林大学.md "wikilink")医学教育学教室講師）、前田達浩（前田病院副院長 脳神経外科部長 杏林大学脳神経外科講師）、池添祐大（宇都宮健康クリニック　副院長）
   - ペニシリン・輸血・監修 - 花木秀明 （[北里大学](../Page/北里大学.md "wikilink")抗感染症薬研究センター センター長）
-  - 時代考証 - [山田順子](https://ja.wikipedia.org/wiki/山田順子_\(時代考証家\) "wikilink")
+  - 時代考証 - [山田順子](../Page/山田順子_\(時代考証家\).md "wikilink")
   - 土佐弁監修 - [橋尾直和](https://ja.wikipedia.org/wiki/橋尾直和 "wikilink")（[高知女子大学](https://ja.wikipedia.org/wiki/高知女子大学 "wikilink")文化学部教授）
   - 方言指導 - 澤田誠志、今橋かつよ
   - 所作指導 - 藤間蘭黄（藤間流日本舞踊家）
@@ -554,7 +554,7 @@
 ### 備考
 
   - 当初、新門辰五郎役は[藤田まこと](../Page/藤田まこと.md "wikilink")が予定されていたが、病気療養（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")に死去）のため降板し\[39\]、[中村敦夫](../Page/中村敦夫.md "wikilink")に交代した。
-  - 現代の医療器具に近い物がこの時代の技術で製作できるかどうかスタッフが時代考証の[山田順子に相談した結果](https://ja.wikipedia.org/wiki/山田順子_\(時代考証家\) "wikilink")、「注射針は腕のいい職人であれば製作可能、チューブなどは太いものであれば作れないことはない」とのアドバイスを受け劇中に登場させた。
+  - 現代の医療器具に近い物がこの時代の技術で製作できるかどうかスタッフが時代考証の[山田順子に相談した結果](../Page/山田順子_\(時代考証家\).md "wikilink")、「注射針は腕のいい職人であれば製作可能、チューブなどは太いものであれば作れないことはない」とのアドバイスを受け劇中に登場させた。
   - 第一期で、[東芝](../Page/東芝.md "wikilink")が7年ぶりに（「日曜劇場」に改名後初めて）スポンサーに復帰した。なお、完結編には東芝創業者の田中久重が登場しているが、これは前記の通り原作にも登場する描写である。
   - 完結編とのコラボレーションフェアとして[セブン-イレブン](../Page/セブン-イレブン.md "wikilink")で劇中に登場した食べ物をモチーフとした食品が発売され、700円購入者へのプレゼント企画などのキャンペーンが展開された\[40\]。中でもその商品の一つである[安道名津は](https://ja.wikipedia.org/wiki/あんドーナツ "wikilink")2011年[5月24日](../Page/5月24日.md "wikilink")の発売から3日間で60万個を売り上げた\[41\]。
   - 2014年3月15日から6月15日まで[国立科学博物館](../Page/国立科学博物館.md "wikilink")で特別展「医は仁術」（国立科学博物館・TBS・朝日新聞主催）が開催され、南方仁役の大沢たかおがスペシャルナビゲーターと音声ガイドを務めることとなった\[42\]。
@@ -788,7 +788,7 @@
       - [テレビ東京の番組紹介ページ](https://www.tv-tokyo.co.jp/dr_jin/)
       - [Dlife公式サイトの番組紹介ページ](https://dlife.disney.co.jp/program/drama/drjin.html)
 
-[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:村上もとか](https://ja.wikipedia.org/wiki/Category:村上もとか "wikilink") [Category:スーパージャンプ](https://ja.wikipedia.org/wiki/Category:スーパージャンプ "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink") [Category:医療漫画](https://ja.wikipedia.org/wiki/Category:医療漫画 "wikilink") [Category:タイムトラベルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした漫画作品 "wikilink") [Category:幕末を舞台とした作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした作品 "wikilink") [Category:江戸を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:江戸を舞台とした漫画作品 "wikilink") [Category:医師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:医師を主人公とした漫画作品 "wikilink") [Category:坂本龍馬を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:坂本龍馬を題材としたフィクション作品 "wikilink") [Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:2009年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2009年のテレビドラマ "wikilink") [Category:日曜劇場](https://ja.wikipedia.org/wiki/Category:日曜劇場 "wikilink") [Category:TBSの時代劇](https://ja.wikipedia.org/wiki/Category:TBSの時代劇 "wikilink") [Category:森下佳子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:森下佳子脚本のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:タイムトラベルを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたテレビドラマ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink") [Category:2011年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2011年のテレビドラマ "wikilink") [Category:日本民間放送連盟賞最優秀賞](https://ja.wikipedia.org/wiki/Category:日本民間放送連盟賞最優秀賞 "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:綾瀬はるか](https://ja.wikipedia.org/wiki/Category:綾瀬はるか "wikilink")
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:村上もとか](https://ja.wikipedia.org/wiki/Category:村上もとか "wikilink") [Category:スーパージャンプ](https://ja.wikipedia.org/wiki/Category:スーパージャンプ "wikilink") [Category:ジャンプ_ジェイ_ブックス](https://ja.wikipedia.org/wiki/Category:ジャンプ_ジェイ_ブックス "wikilink") [Category:医療漫画](https://ja.wikipedia.org/wiki/Category:医療漫画 "wikilink") [Category:タイムトラベルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした漫画作品 "wikilink") [Category:幕末を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:幕末を舞台とした漫画作品 "wikilink") [Category:江戸を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:江戸を舞台とした漫画作品 "wikilink") [Category:医師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:医師を主人公とした漫画作品 "wikilink") [Category:坂本龍馬を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:坂本龍馬を題材としたフィクション作品 "wikilink") [Category:テレビドラマのシリーズ](https://ja.wikipedia.org/wiki/Category:テレビドラマのシリーズ "wikilink") [Category:2009年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2009年のテレビドラマ "wikilink") [Category:日曜劇場](https://ja.wikipedia.org/wiki/Category:日曜劇場 "wikilink") [Category:TBSの時代劇](https://ja.wikipedia.org/wiki/Category:TBSの時代劇 "wikilink") [Category:森下佳子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:森下佳子脚本のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:タイムトラベルを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたテレビドラマ "wikilink") [Category:幕末を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:幕末を舞台としたテレビドラマ "wikilink") [Category:医療ドラマ](https://ja.wikipedia.org/wiki/Category:医療ドラマ "wikilink") [Category:テレビドラマ連動データ放送](https://ja.wikipedia.org/wiki/Category:テレビドラマ連動データ放送 "wikilink") [Category:2011年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2011年のテレビドラマ "wikilink") [Category:日本民間放送連盟賞最優秀賞](https://ja.wikipedia.org/wiki/Category:日本民間放送連盟賞最優秀賞 "wikilink") [Category:江戸を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:江戸を舞台としたテレビドラマ "wikilink") [Category:綾瀬はるか](https://ja.wikipedia.org/wiki/Category:綾瀬はるか "wikilink")
 
 1.
 2.

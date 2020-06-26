@@ -56,7 +56,7 @@
   - [今夜は楽しまナイト](https://ja.wikipedia.org/wiki/今夜は楽しまナイト "wikilink")（MUSIC BIRD）
   - [NTT](../Page/日本電信電話.md "wikilink") MUSIC MULTIMEDIA（bayfm、[NACK5](../Page/エフエムナックファイブ.md "wikilink")、[FM yokohama](../Page/横浜エフエム放送.md "wikilink")、[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink") 1997年）
   - [NACK5 SATURDAY\&SUNDAY LIONSスタジオ担当](https://ja.wikipedia.org/wiki/NACK5_SATURDAY&SUNDAY_LIONS "wikilink")（1996年 NACK5）
-  - AK江戸っ子チャンPON（[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")）
+  - AK江戸っ子チャンPON（[長崎放送](../Page/長崎放送.md "wikilink")）
   - CLUB KINGDOM（[K-MIX](../Page/静岡エフエム放送.md "wikilink")）
   - Dream Factory AK GENERATION（[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")）
   - AKジャンボパーティー（[FM徳島など](../Page/エフエム徳島.md "wikilink")）

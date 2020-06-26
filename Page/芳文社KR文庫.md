@@ -29,4 +29,4 @@
 
   - [文庫レーベル一覧](../Page/文庫レーベル一覧.md "wikilink")
 
-[Category:芳文社KR文庫](https://ja.wikipedia.org/wiki/Category:芳文社KR文庫 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink")
+[Category:芳文社KR文庫](https://ja.wikipedia.org/wiki/Category:芳文社KR文庫 "wikilink") [Category:芳文社](https://ja.wikipedia.org/wiki/Category:芳文社 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:2007年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2007年刊行開始の刊行物 "wikilink")

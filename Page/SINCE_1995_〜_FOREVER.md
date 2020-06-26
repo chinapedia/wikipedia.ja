@@ -59,16 +59,18 @@
         作詞：只野菜摘、作曲・編曲：星野靖彦
 12. **Coming Century Singles non-stop mix** - Coming Century
     1.  **大丈夫**
+          - 2ndシングルカップリング
     2.  **[Theme of Coming Century](https://ja.wikipedia.org/wiki/MUSIC_FOR_THE_PEOPLE#収録曲 "wikilink")**
+          - 1stシングルカップリング
     3.  **[STAY GOLD](https://ja.wikipedia.org/wiki/BEAT_YOUR_HEART#収録曲 "wikilink")**
-    <!-- end list -->
-      - 2nd・1st・3rdシングルカップリングのメドレー
+          - 3rdシングルカップリング
 13. **V6 Singles non-stop mix**
     1.  **BEAT YOUR HEART**
+          - 3rdシングル
     2.  **MUSIC FOR THE PEOPLE**
+          - 1stシングル
     3.  **MADE IN JAPAN**
-    <!-- end list -->
-      - 3rd・1st・2ndシングルのメドレー
+          - 2ndシングル
 
 ## タイアップ
 

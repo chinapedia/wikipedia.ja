@@ -34,4 +34,4 @@
 
 [Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1985年のシングル](https://ja.wikipedia.org/wiki/Category:1985年のシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
-1.  音楽雑誌『[BANDやろうぜ](https://ja.wikipedia.org/wiki/BANDやろうぜ "wikilink")』内の記事にて。
+1.  音楽雑誌『[BANDやろうぜ](../Page/BANDやろうぜ.md "wikilink")』内の記事にて。

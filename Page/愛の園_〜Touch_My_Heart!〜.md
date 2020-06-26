@@ -6,7 +6,7 @@
 ## 内容
 
   - 2003年9月に、モーニング娘。の15人のメンバーを「[モーニング娘。さくら組](../Page/モーニング娘。さくら組.md "wikilink")」と「モーニング娘。おとめ組」の2つに分けて活動を開始した。
-  - メンバーは[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")・[辻希美](../Page/辻希美.md "wikilink")・[小川麻琴](../Page/小川麻琴.md "wikilink")・[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")・[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")・[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")の7名である。
+  - メンバーは[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")・[石川梨華](../Page/石川梨華.md "wikilink")・[辻希美](../Page/辻希美.md "wikilink")・[小川麻琴](../Page/小川麻琴.md "wikilink")・[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")・[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")・[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")の7名である。
   - ステージ衣装は青（飯田）・黄（石川）・藍（辻）・緑（小川）・赤（藤本）・紫（道重）・橙（田中）と[虹](../Page/虹.md "wikilink")のスペクトル7色だった。
 
 ## 収録曲

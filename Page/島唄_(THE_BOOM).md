@@ -5,7 +5,7 @@
 
 ## 経緯
 
-THE BOOMは[1992年](../Page/1992年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")発売のアルバム「[思春期](../Page/思春期_\(アルバム\).md "wikilink")」で[三線](../Page/三線.md "wikilink")や[琉球音階など](https://ja.wikipedia.org/wiki/沖縄音楽#音階 "wikilink")[沖縄音楽](../Page/沖縄音楽.md "wikilink")の要素を取り入れた「島唄」を発表\[1\]。 またその年の[12月12日](../Page/12月12日.md "wikilink")には[沖縄の](../Page/沖縄県.md "wikilink")[方言](../Page/方言.md "wikilink")（[ウチナーグチ](https://ja.wikipedia.org/wiki/ウチナーグチ "wikilink")）で歌われた「島唄（ウチナーグチ・ヴァージョン）」を沖縄県限定でリリース、[瑞穂酒造](https://ja.wikipedia.org/wiki/瑞穂酒造 "wikilink")の[泡盛](https://ja.wikipedia.org/wiki/泡盛 "wikilink")「[琉球泡盛 Xi(クロッシー)](http://www.mizuhoshuzo.co.jp/shopping/awamori/30/xi/)」の[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")ソングに起用され（このCMも沖縄県限定）、沖縄だけで1万枚を超える売り上げを記録した（後に全国発売され、50万枚近くを売り上げている）。
+THE BOOMは[1992年](../Page/1992年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")発売のアルバム「[思春期](../Page/思春期_\(アルバム\).md "wikilink")」で[三線](../Page/三線.md "wikilink")や[琉球音階など](https://ja.wikipedia.org/wiki/沖縄音楽#音階 "wikilink")[沖縄音楽](../Page/沖縄音楽.md "wikilink")の要素を取り入れた「島唄」を発表\[1\]。 またその年の[12月12日](../Page/12月12日.md "wikilink")には[沖縄の](../Page/沖縄県.md "wikilink")[方言](../Page/方言.md "wikilink")（[ウチナーグチ](https://ja.wikipedia.org/wiki/ウチナーグチ "wikilink")）で歌われた「島唄（ウチナーグチ・ヴァージョン）」を沖縄県限定でリリース、[瑞穂酒造](https://ja.wikipedia.org/wiki/瑞穂酒造 "wikilink")の[泡盛](../Page/泡盛.md "wikilink")「[琉球泡盛 Xi(クロッシー)](http://www.mizuhoshuzo.co.jp/shopping/awamori/30/xi/)」の[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")ソングに起用され（このCMも沖縄県限定）、沖縄だけで1万枚を超える売り上げを記録した（後に全国発売され、50万枚近くを売り上げている）。
 
 一方、[東京弁](https://ja.wikipedia.org/wiki/東京弁 "wikilink")で歌われた「オリジナル・ヴァージョン」のシングル全国発売の要望も高かったが、もともとその予定はなかったようである。THE BOOMのボーカルで「島唄」の作詞・作曲を担当した[宮沢和史](../Page/宮沢和史.md "wikilink")も当時の沖縄ブームに便乗したシングルリリースには否定的であったが、いろいろな人に意見を聞いた結果、「オリジナル・ヴァージョン」をシングル発売することにした。特に[喜納昌吉](https://ja.wikipedia.org/wiki/喜納昌吉 "wikilink")から贈られた「（『島唄』を単なる沖縄音楽の真似事、と批判する者もあるが）音楽において、『魂』までコピーすれば、それはもうコピーなんかじゃないんだ」という言葉に背中を押された、と宮沢はTV番組でコメントしている\[2\]。
 
@@ -83,6 +83,8 @@ THE BOOMは[1992年](../Page/1992年.md "wikilink")[1月22日](../Page/1月22日
 
   - [我如古より子](https://ja.wikipedia.org/wiki/我如古より子 "wikilink")（1998年、アルバム『あの海に帰りたい』に収録）
 
+  - [森恵](https://ja.wikipedia.org/wiki/森恵_\(歌手\) "wikilink")（2020年、アルバム『COVERS 2 Grace of The Guitar+』に収録）
+
 ## 脚注
 
 <references />
@@ -91,7 +93,7 @@ THE BOOMは[1992年](../Page/1992年.md "wikilink")[1月22日](../Page/1月22日
 
   - [THE BOOM MUSIC GALLERY](http://www.theboom.jp/) - THE BOOM公式サイト
 
-[Category:THE_BOOMの楽曲](https://ja.wikipedia.org/wiki/Category:THE_BOOMの楽曲 "wikilink") [Category:宮沢和史が制作した楽曲](https://ja.wikipedia.org/wiki/Category:宮沢和史が制作した楽曲 "wikilink") [Category:沖縄戦を題材とした作品](https://ja.wikipedia.org/wiki/Category:沖縄戦を題材とした作品 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink")
+[Category:THE_BOOMの楽曲](https://ja.wikipedia.org/wiki/Category:THE_BOOMの楽曲 "wikilink") [Category:宮沢和史が制作した楽曲](https://ja.wikipedia.org/wiki/Category:宮沢和史が制作した楽曲 "wikilink") [Category:沖縄戦を題材とした作品](https://ja.wikipedia.org/wiki/Category:沖縄戦を題材とした作品 "wikilink") [Category:島を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:島を題材とした楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink")
 
 1.
 2.  「[いいはなシーサー](../Page/いいはなシーサー.md "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）[2009年](../Page/2009年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")放送

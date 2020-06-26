@@ -11,26 +11,94 @@
 
 ## 収録曲
 
-1.  **ミッドナイト パフェ**
-      - 作詞・作曲：[染谷俊](../Page/染谷俊.md "wikilink")、編曲：有賀啓雄
-2.  **Blue Butterfly**
-      - 作詞：渡辺美里、作曲：[森山公一](../Page/オセロケッツ.md "wikilink")、編曲：有賀啓雄
-3.  **茉莉花〜ジャスミン〜**
-      - 作詞：渡辺美里、作曲・編曲：有賀啓雄
-4.  **amagumo**
-      - 作詞・作曲：森山公一、編曲：有賀啓雄
-5.  **蝶のように 花のように〜You are the only one\!〜**
-      - 作詞：渡辺美里、作曲・編曲：有賀啓雄
-6.  **Smile**
-      - 作詞：渡辺美里、作曲・編曲：有賀啓雄
-7.  **Do Da Dance\!〜オンタイムではじまるよ〜**
-      - 作詞：渡辺美里、作曲・編曲：有賀啓雄
-8.  **[十の秘密](https://ja.wikipedia.org/wiki/十の秘密 "wikilink")**
-      - 作詞：渡辺美里、作曲・編曲：有賀啓雄
-9.  **Heart of Gold**
-      - 作詞：[川村真澄](../Page/川村真澄.md "wikilink")、作曲：染谷俊、編曲：有賀啓雄
-10. **悲しいくちづけ**
-      - 作詞：渡辺美里、作曲・編曲：有賀啓雄
+  - （全曲）編曲：有賀啓雄
+
+## 参加ミュージシャン
+
+**ミッドナイト パフェ**
+
+  - Drums：嶋田吉隆
+  - E.Bass：有賀啓雄
+  - Guitars：[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
+  - Fender Rhodes：[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")
+  - Percussion：[三沢またろう](../Page/三沢またろう.md "wikilink")
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：Misato
+
+**Blue Butterfly**
+
+  - Drums：嶋田吉隆
+  - E.Bass：有賀啓雄
+  - Guitars：佐橋佳幸
+  - Fender Rhodes：斎藤有太
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：Misato
+
+**茉莉花〜ジャスミン〜**
+
+  - Guitars：佐橋佳幸
+  - A.Piano：斎藤有太
+  - 二胡：[チェン・ミン](../Page/チェン・ミン.md "wikilink")
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：Misato
+
+**amagumo**
+
+  - Guitars：佐橋佳幸
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：有賀啓雄・Misato
+
+**蝶のように 花のように〜You are the only one\!〜**
+
+  - Drums：[松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink")
+  - E.Bass：有賀啓雄
+  - Guitars：佐橋佳幸
+  - Fender Rhodes：柴田俊文
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：Misato
+
+**Smile**
+
+  - Guitars＆Ukulele：佐橋佳幸
+  - Fender Rhodes：柴田俊文
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：有賀啓雄・Misato
+
+**Do Da Dance\!〜オンタイムではじまるよ〜**
+
+  - Drums：嶋田吉隆
+  - Synthsizer Solo＆E.Bass：有賀啓雄
+  - Guitars＆Ukulele：佐橋佳幸
+  - Fender Rhodes：柴田俊文
+  - Trumpet：西村浩二・荒木敏男
+  - Trombone：[村田陽一](../Page/村田陽一.md "wikilink")
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：有賀啓雄・Misato
+
+**十の秘密**
+
+  - E.Bass：有賀啓雄
+  - Guitars：佐橋佳幸
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：Misato
+
+**Heart of Gold**
+
+  - Drums：嶋田吉隆
+  - E.Bass：有賀啓雄
+  - Guitars：佐橋佳幸
+  - A.Piano：柴田俊文
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：有賀啓雄・Misato
+
+**悲しいくちづけ**
+
+  - Drums：松永俊弥
+  - E.Bass：有賀啓雄
+  - Guitar：[稲葉政裕](https://ja.wikipedia.org/wiki/稲葉政裕 "wikilink")
+  - A.Piano＆E.Piano：柴田俊文
+  - Synthesizer Operator：鈴木賢一郎
+  - Background Vocal：Misato
 
 ## 外部リンク
 

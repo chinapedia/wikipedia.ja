@@ -10,7 +10,7 @@ OXの開局40周年を記念して[2002年](../Page/2002年.md "wikilink")から
 ## プロフィール
 
   - [宇宙](../Page/宇宙.md "wikilink")のはるか彼方にある星の出身で、年齢は人間に換算して9歳。性格は好奇心旺盛でとても明るいが、のんびり屋で慎重派。大人に憧れている一面もあり、自分も大人の男になってきていると少し勘違いしている。ファッションに関しては人一倍敏感である。[F1にも興味を持っているようだ](../Page/フォーミュラ1.md "wikilink")。
-  - 「JUNI」の名前は、OXの親局の[アナログ](../Page/NTSC.md "wikilink")[チャンネル番号](https://ja.wikipedia.org/wiki/ガイドチャンネル "wikilink")（JOOX-TV）「[12](../Page/12.md "wikilink")」から由来する。なお、[地上デジタル放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[リモコンキーID](../Page/リモコンキーID.md "wikilink")はOXの[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")である[フジテレビと同じく](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[8](https://ja.wikipedia.org/wiki/8 "wikilink")」（JOOX-DTV\[1\]）を使用しているため、[2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にアナログテレビ放送が終了\[2\]するまでの間、JUNIの去就が注目されたが、地デジ完全移行後も続投。なお、地上デジタル放送開始後はJUNIに追加装甲を付けた「デジタルJUNI」が登場した。
+  - 「JUNI」の名前は、OXの親局の[アナログ](../Page/NTSC.md "wikilink")[チャンネル番号](https://ja.wikipedia.org/wiki/ガイドチャンネル "wikilink")（JOOX-TV）「[12](../Page/12.md "wikilink")」から由来する。なお、[地上デジタル放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[リモコンキーID](../Page/リモコンキーID.md "wikilink")はOXの[キー局](../Page/キー局.md "wikilink")である[フジテレビと同じく](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[8](https://ja.wikipedia.org/wiki/8 "wikilink")」（JOOX-DTV\[1\]）を使用しているため、[2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にアナログテレビ放送が終了\[2\]するまでの間、JUNIの去就が注目されたが、地デジ完全移行後も続投。なお、地上デジタル放送開始後はJUNIに追加装甲を付けた「デジタルJUNI」が登場した。
 
 ## JUNI絵本
 

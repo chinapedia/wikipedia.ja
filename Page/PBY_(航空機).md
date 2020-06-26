@@ -631,7 +631,7 @@ RAF CV264</p></td>
 <td><p>RCAF 11024</p></td>
 <td></td>
 <td><p>カナダ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Buffalo_Airways" title="wikilink">バッファロー・エアウェイズ</a></p></td>
+<td><p><a href="../Page/バッファロー航空.md" title="wikilink">バッファロー航空</a></p></td>
 <td><p>非公開</p></td>
 <td><p>保管中</p></td>
 <td><p>製造番号 CV-301。</p></td>

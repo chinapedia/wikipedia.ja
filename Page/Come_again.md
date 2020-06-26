@@ -5,22 +5,22 @@
 
 ## 解説
 
-  - 2020年3月現在、オリコンが掲載するm-floのシングル売上ランキングにおいてトップの作品である\[1\]。本楽曲は、当時[UKのクラブミュージックとして流行](https://ja.wikipedia.org/wiki/イギリス "wikilink")していた**[2ステップ](../Page/2ステップ.md "wikilink")**を基調としている。[テイ・トウワ](../Page/テイ・トウワ.md "wikilink")との会話をきっかけに2ステップを知り\[2\]\[3\] 、自らもその制作を試みたものであるとトラックメイキング担当メンバー[☆Takuは発言している](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")\[4\] 。ここについてはさらに[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")が、[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の「[TABOO (a tip of M-FLO remix)](https://ja.wikipedia.org/wiki/LOVE_OR_LUST#収録曲 "wikilink")」の発展形が本楽曲であるとの内容を2019年に伝聞の形をとってツイートしている\[5\]。リリース時に☆Takuは、m-floの公式ウェブサイト上で「日本の[歌謡曲](../Page/歌謡曲.md "wikilink")の方程式を無視してつくった曲です」とコメントしている\[6\] 。この曲のヒットにより、m-floは一般のリスナーにも広く認知された。[松任谷正隆](../Page/松任谷正隆.md "wikilink")は、自らが司会を務める音楽バラエティ番組『[FUN](../Page/FUN.md "wikilink")』への時、この曲を聴いてコード進行に驚いたと語っている。
+  - 2020年5月30日現在、オリコンが掲載するm-floのシングル売上ランキングにおいてトップの作品である\[1\]。本楽曲は、当時[UKのクラブミュージックとして流行](https://ja.wikipedia.org/wiki/イギリス "wikilink")していた**[2ステップ](../Page/2ステップ.md "wikilink")**を基調としている。[テイ・トウワ](../Page/テイ・トウワ.md "wikilink")との会話をきっかけに2ステップを知り\[2\]\[3\] 、自らもその制作を試みたものであるとトラック制作担当メンバー[☆Takuは発言している](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")\[4\] 。ここについてはさらに[松尾潔](https://ja.wikipedia.org/wiki/松尾潔 "wikilink")が、[平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")の「[TABOO (a tip of M-FLO remix)](https://ja.wikipedia.org/wiki/LOVE_OR_LUST#収録曲 "wikilink")」の発展形が本楽曲であるとの内容を2019年に伝聞の形をとってツイートしている\[5\]。リリース時に☆Takuは、m-floの公式ウェブサイト上で「日本の[歌謡曲](../Page/歌謡曲.md "wikilink")の方程式を無視してつくった曲です」とコメントしている\[6\] 。この曲のヒットにより、m-floは一般のリスナーにも広く認知された。[松任谷正隆](../Page/松任谷正隆.md "wikilink")は、自らが司会を務める音楽バラエティ番組『[FUN](../Page/FUN.md "wikilink")』への時、この曲を聴いてコード進行に驚いたと語っている。
   - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「[テスティモ](https://ja.wikipedia.org/wiki/テスティモ "wikilink")」CMソング\[7\]。
   - [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")に[内藤陽子](../Page/内藤陽子.md "wikilink")が出演している\[8\]。
-  - ボーカルパートの歌詞は、自分をなおざりにする恋人のことにこれ以上とらわれるのはやめようとディスコに繰り出し、フロアでの新しい出会いへの期待も抱きつつダンスにのめり込もうとする金曜日の夜、といった内容である。サビに出現する「スカラ」という言葉は、かつて渋谷に実在したディスコ「ラスカラ」を指すものであると2018年のインタビューの中でボーカル担当メンバーの[LISAが述べている](../Page/LISA_\(歌手\).md "wikilink")\[9\]。また翌2019年1月にはLISAのFacebookアカウントに「そこで出会った男の子とLISAの切ない初恋について歌っ」たものとの解説を含む投稿がなされた\[10\]。
-  - ラップパートのリリックは、ドラムのみ\[11\]、かつテーマ不明の状態\[12\]で作成を求められたと2016年・2017年にラップ担当メンバーの[VERBAL](../Page/VERBAL.md "wikilink")が述べている。
-  - 2017年末に⭐︎Takuが上智大学で行なった講義を取材した[BuzzFeedの記事においては](https://ja.wikipedia.org/wiki/BuzzFeed_Japan "wikilink")、ベースパートに用いられている[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")の生演奏は、予定していた[ローランド・TR-909](../Page/ローランド・TR-909.md "wikilink")の音色に代わるものとしての「苦肉の策」であったと述べられている\[13\]。
+  - [レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")が掲載するCDジャーナルの楽曲解説によると、本楽曲は「つれない彼に愛想を尽かし、クラブで踊り明かして忘れようとする女性の気持ちを歌う」\[9\]。サビに出現する「スカラ」という言葉は、かつて渋谷に実在したディスコ「ラスカラ」を指すものであると2018年のインタビューの中でボーカル担当メンバーの[LISAが述べている](../Page/LISA_\(歌手\).md "wikilink")\[10\]。また翌2019年1月にはLISAのFacebookアカウントに「そこで出会った男の子とLISAの切ない初恋について歌っ」たものとの解説を含む投稿がなされた\[11\]。
+  - ラップパートのリリックは、ドラムのみ\[12\]、かつテーマ不明の状態\[13\]で作成を求められたと2016年・2017年にラップ担当メンバーの[VERBAL](../Page/VERBAL.md "wikilink")が述べている。
+  - 2017年末に⭐︎Takuが上智大学で行なった講義を取材した[BuzzFeedの記事においては](https://ja.wikipedia.org/wiki/BuzzFeed_Japan "wikilink")、ベースパートに用いられている[ウッドベース](https://ja.wikipedia.org/wiki/ウッドベース "wikilink")の生演奏は、予定していた[ローランド・TR-909](../Page/ローランド・TR-909.md "wikilink")の音色に代わるものとしての「苦肉の策」であったと述べられている\[14\]。
   - [2001年](../Page/2001年.md "wikilink")の[FMフェスティバル](../Page/FMフェスティバル.md "wikilink")においては、同年リリースの『Ex-Boyfriend』にVERBALが客演していた[Crystal Kayと](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")パフォーマンスされた。Crystal Kayは翌2002年から2003年初頭にかけ『[hard to say](https://ja.wikipedia.org/wiki/hard_to_say "wikilink")』および『[Boyfriend -part II-](https://ja.wikipedia.org/wiki/Boyfriend_-part_II- "wikilink")』で☆Takuをプロデューサーに迎えたのち、LISA脱退中のm-floが ["loves"](https://ja.wikipedia.org/wiki/M-flo#LOVES_ERA（2003年–2008年） "wikilink") プロジェクトで再始動する2003年6月、その最初のコラボレーターとなる。
-  - [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の現役選手であった[寺内崇幸](../Page/寺内崇幸.md "wikilink")の打席登場時に流れる楽曲の1つであった\[14\]。
+  - [読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の現役選手であった[寺内崇幸](../Page/寺内崇幸.md "wikilink")の打席登場時に流れる楽曲の1つであった\[15\]。
 
 ## 構成
 
-imdkmが[リアルサウンドに寄せた記事によると](https://ja.wikipedia.org/wiki/リアルサウンド_\(ニュースサイト\) "wikilink")、本楽曲のテンポは130 [BPMである](../Page/テンポ.md "wikilink")。 中心的な[ドラムパターンは](../Page/ドラム・ビート.md "wikilink")[UKガラージ](https://ja.wikipedia.org/wiki/UKガラージ "wikilink")の一種「[2ステップ・ガラージ](https://ja.wikipedia.org/wiki/2ステップ・ガラージ "wikilink")（略称2ステップ）」の特徴を備えるものであるが、1番のサビに入るまでは半分のテンポ・65 BPMとも解釈可能な「一小節の3拍目に[スネアが配置された](../Page/スネアドラム.md "wikilink")、いわゆる[ハーフタイムのリズム](https://ja.wikipedia.org/wiki/:en:Half-time_\(music\) "wikilink")」を用いている。さらにVERBALのラップパートに差し掛かると「[ジャズドラマーのソロのようなダイナミックなリズム](https://ja.wikipedia.org/wiki/ジャズドラム "wikilink")」や「[エレクトロ](../Page/エレクトロ.md "wikilink")ヒップホップのシンプルなリズム」が顔を出す仕掛けがある。\[15\]
+imdkmが[リアルサウンドに寄せた記事によると](https://ja.wikipedia.org/wiki/リアルサウンド_\(ニュースサイト\) "wikilink")、本楽曲のテンポは130 [BPMである](../Page/テンポ.md "wikilink")。 中心的な[ドラムパターンは](../Page/ドラム・ビート.md "wikilink")[UKガラージ](https://ja.wikipedia.org/wiki/UKガラージ "wikilink")の一種「[2ステップ・ガラージ](https://ja.wikipedia.org/wiki/2ステップ・ガラージ "wikilink")（略称2ステップ）」の特徴を備えるものであるが、1番のサビに入るまでは半分のテンポ・65 BPMとも解釈可能な「一小節の3拍目に[スネアが配置された](../Page/スネアドラム.md "wikilink")、いわゆる[ハーフタイムのリズム](https://ja.wikipedia.org/wiki/:en:Half-time_\(music\) "wikilink")」を用いている。さらにVERBALのラップパートに差し掛かると「[ジャズドラマーのソロのようなダイナミックなリズム](https://ja.wikipedia.org/wiki/ジャズドラム "wikilink")」や「[エレクトロ](../Page/エレクトロ.md "wikilink")ヒップホップのシンプルなリズム」が顔を出す仕掛けがある。\[16\]
 
 ## リミックスコンテスト
 
-2001年5月 - 7月末を応募期間として、☆Taku発案による本楽曲のリミックスコンテストが開催された\[16\]。
+2001年5月 - 7月末を応募期間として、☆Taku発案による本楽曲のリミックスコンテストが開催された\[17\]。
 
 ## 収録曲
 
@@ -92,7 +92,7 @@ imdkmが[リアルサウンドに寄せた記事によると](https://ja.wikiped
 
 ## 関連楽曲
 
-**☆Takuが手がけたその他の2ステップ導入楽曲・作風が近い楽曲の一例**
+**☆Takuが制作に関わったその他の2ステップ導入楽曲の一例**
 
   - クレオパトラ ([Cleopatra](https://ja.wikipedia.org/wiki/:en:Cleopatra_\(girl_group\) "wikilink"))「[Yes This Party's Going Right (TAKU'S REINTERPRETATION)](https://ja.wikipedia.org/wiki/ソトシゴト_〜m-flo_turns_it_out!〜#収録曲 "wikilink")」（2000年10月）
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")「[TABOO (a tip of M-FLO remix)](https://ja.wikipedia.org/wiki/LOVE_OR_LUST#収録曲 "wikilink")」（2000年10月）
@@ -122,8 +122,9 @@ imdkmが[リアルサウンドに寄せた記事によると](https://ja.wikiped
 9.
 10.
 11.
-12.  block.fm|url=[https://block.fm/news/mflo_VERBAL|website=block.fm|accessdate=2020-03-13](https://block.fm/news/mflo_VERBAL%7Cwebsite=block.fm%7Caccessdate=2020-03-13)}}
-13.
+12.
+13.  block.fm|url=[https://block.fm/news/mflo_VERBAL|website=block.fm|accessdate=2020-03-13](https://block.fm/news/mflo_VERBAL%7Cwebsite=block.fm%7Caccessdate=2020-03-13)}}
 14.
 15.
 16.
+17.

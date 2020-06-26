@@ -153,7 +153,7 @@
   - 2月号：奥菜恵
   - 3月号：松本恵
   - 4月号：ともさかりえ
-  - 5月号：[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - 5月号：[モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - 6月号：榎本加奈子
   - 7月号：広末涼子
   - 8月号：[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")
@@ -217,7 +217,7 @@
   - 4月号：[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")
   - 5月号：[飯田圭織](https://ja.wikipedia.org/wiki/飯田圭織 "wikilink")
   - 6月号：[辻希美](../Page/辻希美.md "wikilink")、[加護亜依](../Page/加護亜依.md "wikilink")
-  - 7月号：[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")
+  - 7月号：[石川梨華](../Page/石川梨華.md "wikilink")
   - 8月号：モーニング娘。5期メンバー
   - 9月号：[市川由衣](https://ja.wikipedia.org/wiki/市川由衣 "wikilink")
   - 10月号：AKINA
@@ -578,7 +578,7 @@
   - 魔界式テキトー12星座占い（2014年Vol.22 - 2015Vol.27）[椎名ぴかりん](https://ja.wikipedia.org/wiki/椎名ひかり "wikilink")
   - ゆぅ〜なぁ〜・ザ・ワールド（UTB+ 2014年Vol.22 - 2016年Vol.29）[平祐奈](https://ja.wikipedia.org/wiki/平祐奈 "wikilink")
   - 乃木坂PORTRAIT（2014年Vol.22 - 2016年Vol.30）[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")（交代制）
-  - モーニング娘。12期連載第2章『キズナ物語』\[32\] （2015年Vol.25 - 35）[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")12期メンバー（交代制）
+  - モーニング娘。12期連載第2章『キズナ物語』\[32\] （2015年Vol.25 - 35）[モーニング娘。](../Page/モーニング娘。.md "wikilink")12期メンバー（交代制）
   - 葵の森（2014年Vol.22 - 2017年Vol.35）[森川葵](https://ja.wikipedia.org/wiki/森川葵 "wikilink")
   - カントリー・ガールズの えっ、本当に富士山に登るんですか?（2015年Vol.28 - 2017年Vol.35）[カントリー・ガールズ](https://ja.wikipedia.org/wiki/カントリー・ガールズ "wikilink")
   - Hommage（2014年Vol.22 - 2018年Vol.41）[山崎紘菜](https://ja.wikipedia.org/wiki/山崎紘菜 "wikilink")
@@ -588,7 +588,7 @@
 
 ## ミス・アップ
 
-同誌発のアイドル発掘企画として1986年からスタート。決勝大会は[成城学園で行われていた](https://ja.wikipedia.org/wiki/学校法人成城学園 "wikilink")。多くの人気タレントを輩出してきたが、2004年に再び隔月刊化してからは行われていなかった。2014年10月、UTB+Vol.22にて（募集要項の他、専用の履歴書と応募用紙が掲載されている）、ミス・アップ2015の募集が告知され約10年ぶりに同企画が復活することとなった\[33\]。
+同誌発のアイドル発掘企画として1986年からスタート。決勝大会は[成城学園で行われていた](../Page/学校法人成城学園.md "wikilink")。多くの人気タレントを輩出してきたが、2004年に再び隔月刊化してからは行われていなかった。2014年10月、UTB+Vol.22にて（募集要項の他、専用の履歴書と応募用紙が掲載されている）、ミス・アップ2015の募集が告知され約10年ぶりに同企画が復活することとなった\[33\]。
 
 ### ミス・アップ・グランプリの歴代の受賞者
 
@@ -687,7 +687,7 @@
 9.  大島優子、板野友美、指原莉乃、[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")、宮澤佐江、渡辺麻友。
 10. 大島優子、[篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")、柏木由紀、小嶋陽菜、高橋みなみ、横山由依。
 11. 横山由依、指原莉乃、峯岸みなみ、小嶋陽菜。
-12. 山本彩、[城恵理子](https://ja.wikipedia.org/wiki/城恵理子 "wikilink")、[谷川愛梨](https://ja.wikipedia.org/wiki/谷川愛梨 "wikilink")、小笠原茉由、渡辺美優紀、山田菜々。
+12. 山本彩、[城恵理子](https://ja.wikipedia.org/wiki/城恵理子 "wikilink")、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、小笠原茉由、渡辺美優紀、山田菜々。
 13. 生駒里奈、生田絵梨花、[松村沙友理](https://ja.wikipedia.org/wiki/松村沙友理 "wikilink")、[若月佑美](https://ja.wikipedia.org/wiki/若月佑美 "wikilink")、[秋元真夏](https://ja.wikipedia.org/wiki/秋元真夏 "wikilink")。
 14. 当該号pp001の目次欄の掲載順に、[小嶋真子](https://ja.wikipedia.org/wiki/小嶋真子 "wikilink")、[大和田南那](https://ja.wikipedia.org/wiki/大和田南那 "wikilink")、向井地美音、[川本紗矢](https://ja.wikipedia.org/wiki/川本紗矢 "wikilink")。
 15. [今泉佑唯](https://ja.wikipedia.org/wiki/今泉佑唯 "wikilink")、[鈴本美愉](https://ja.wikipedia.org/wiki/鈴本美愉 "wikilink")、[平手友梨奈](https://ja.wikipedia.org/wiki/平手友梨奈 "wikilink")、[渡辺梨加](https://ja.wikipedia.org/wiki/渡辺梨加 "wikilink")。

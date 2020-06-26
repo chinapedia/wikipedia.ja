@@ -253,7 +253,7 @@ F1世界選手権第10戦イギリスGP予選
   - 総合司会 : みのもんた
   - 進行 : 西山喜久恵・高島彩
   - 番組パーソナリティ : モーニング娘。
-      - この年は[1996年](../Page/1996年.md "wikilink")の『[第10回記念大会](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島#第10回（1996年）FNSの日十周年記念1億2500万人の超夢リンピック "wikilink")』以来7年ぶりに番組パーソナリティ制を導入し[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")が就任。
+      - この年は[1996年](../Page/1996年.md "wikilink")の『[第10回記念大会](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島#第10回（1996年）FNSの日十周年記念1億2500万人の超夢リンピック "wikilink")』以来7年ぶりに番組パーソナリティ制を導入し[モーニング娘。](../Page/モーニング娘。.md "wikilink")が就任。
 
 <!-- end list -->
 
@@ -298,7 +298,9 @@ F1世界選手権第10戦イギリスGP予選
   - [2017年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2017年\) "wikilink")
   - [2018年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2018年\) "wikilink")
   - [2019年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2019年\) "wikilink")
-  - [2020年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2020年\) "wikilink")
+  - [2021年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2021年\) "wikilink")
+
+[2020年は新型コロナウイルスの影響により例年のような形での番組製作が難しいものと判断され](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2020年\) "wikilink")、放送中止となった\[8\]。
 
 ## 複数回行われた企画
 
@@ -330,7 +332,7 @@ F1世界選手権第10戦イギリスGP予選
   - 真夏の爆笑ヒットパレード（2001年 - 2003年、2005年）
     若手芸人が登場しネタを披露するコーナー。
   - 真夜中の大かま騒ぎ（2004年、2005年、2009年、2011年）
-    [めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")の人気コーナー、[恋のかま騒ぎ](../Page/恋のかま騒ぎ.md "wikilink")（さんまが司会の日本テレビ『[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")』のパロディ）の生放送版。レギュラーメンバーのほかに普段他番組に出演している芸人も出演するため、出演者の人数が多い。2011年は「真夜中の恋の若騒ぎ」と題して若手芸人をメインに据えて放送（以下「かま騒ぎ」の項目参照）。
+    [めちゃ×2イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")の人気コーナー、[恋のかま騒ぎ](../Page/恋のかま騒ぎ.md "wikilink")（さんまが司会の日本テレビ『[恋のから騒ぎ](../Page/恋のから騒ぎ.md "wikilink")』のパロディ）の生放送版。レギュラーメンバーのほかに普段他番組に出演している芸人も出演するため、出演者の人数が多い。2011年は「真夜中の恋の若騒ぎ」と題して若手芸人をメインに据えて放送（以下「かま騒ぎ」の項目参照）。
 
 ## スペシャルドラマ
 
@@ -339,8 +341,8 @@ F1世界選手権第10戦イギリスGP予選
   - 2002年「[東京物語](../Page/東京物語.md "wikilink")」主演：[宇津井健](../Page/宇津井健.md "wikilink")、[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")
   - 2003年「[海のオルゴール](https://ja.wikipedia.org/wiki/海のオルゴール "wikilink")」主演：[松雪泰子](https://ja.wikipedia.org/wiki/松雪泰子 "wikilink")
   - 2005年「[THE WAVE\!](../Page/THE_WAVE!.md "wikilink")」主演：[明石家さんま](../Page/明石家さんま.md "wikilink")
-  - 2013年「約1回目のプロポーズ」\[8\]主演：[女芸人イレブン](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2013年\) "wikilink")\[9\]
-  - 2014年「俺たちに明日はある」主演：[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - 2013年「約1回目のプロポーズ」\[9\]主演：[女芸人イレブン](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2013年\) "wikilink")\[10\]
+  - 2014年「俺たちに明日はある」主演：[SMAP](../Page/SMAP.md "wikilink")
   - 2017年「[源氏さん！物語](https://ja.wikipedia.org/wiki/源氏物語 "wikilink")」主演：[城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")
   - 2017年「僕の[金ヶ崎](../Page/金ヶ崎の戦い.md "wikilink")」主演：[大杉漣](../Page/大杉漣.md "wikilink")
   - 2017年「私たちの[薩長同盟](../Page/薩長同盟.md "wikilink")」主演：[剛力彩芽](https://ja.wikipedia.org/wiki/剛力彩芽 "wikilink")
@@ -381,5 +383,6 @@ F1世界選手権第10戦イギリスGP予選
 5.
 6.  [横山やすし](../Page/横山やすし.md "wikilink")に扮した[明石家さんま](../Page/明石家さんま.md "wikilink")・[今田耕司](../Page/今田耕司.md "wikilink")・[村上ショージ](../Page/村上ショージ.md "wikilink")で、「[明石家マンション物語](../Page/明石家マンション物語.md "wikilink")」のキャラクター。
 7.  [2003年度 放送局への回答のお願い 『27時間テレビみんなのうた』（フジテレビ/2003年8月）](http://www.bpo.gr.jp/youth/answer/036_cx.html)より
-8.  このドラマのみがオムニバス形式である。
-9.  女芸人イレブンとは、2013年の総合司会を務めた女芸人たちの事。
+8.
+9.  このドラマのみがオムニバス形式である。
+10. 女芸人イレブンとは、2013年の総合司会を務めた女芸人たちの事。

@@ -66,6 +66,6 @@
 
 [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:東日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:東日本放送のテレビ番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")
 
-1.  『[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』放送時は[ステレオ放送](../Page/ステレオ放送.md "wikilink")。
+1.  『[ANNスーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』放送時は[ステレオ放送](../Page/ステレオ放送.md "wikilink")。
 2.  前番組『[KHBニュースチャンネル](../Page/KHBニュースチャンネル.md "wikilink")』より続投。後番組『[スーパーJチャンネルみやぎ](../Page/スーパーJチャンネルみやぎ.md "wikilink")』も担当。
 3.  情報番組枠の後番組『[突撃\!ナマイキTV](../Page/突撃!ナマイキTV.md "wikilink")』も続投。

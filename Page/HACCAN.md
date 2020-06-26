@@ -21,20 +21,23 @@
   - [大帝の剣](../Page/大帝の剣.md "wikilink")（[夢枕獏](../Page/夢枕獏.md "wikilink") / [ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")連載 / 2005.11-2011.11）
   - 帝国の双美姫（全3巻）（[ひかわ玲子](../Page/ひかわ玲子.md "wikilink") / [幻冬舎](../Page/幻冬舎.md "wikilink") 幻狼ファンタジアノベルス / 2008.8-2010.3）
   - [赤毛のアン](../Page/赤毛のアン.md "wikilink")シリーズ（新装版、既刊7巻）（[L・M・モンゴメリ](../Page/L・M・モンゴメリ.md "wikilink")作 / [村岡花子](../Page/村岡花子.md "wikilink")訳 / 講談社青い鳥文庫 / 2008.7-）
-  - [サーティーナイン・クルーズ](https://ja.wikipedia.org/wiki/サーティーナイン・クルーズ "wikilink")シリーズ（既刊25巻）（[小浜杳](https://ja.wikipedia.org/wiki/小浜杳 "wikilink")訳 / [メディアファクトリー](../Page/メディアファクトリー.md "wikilink") / 2009.6-）
-  - [お嬢様探偵ありす](https://ja.wikipedia.org/wiki/お嬢様探偵ありす "wikilink")シリーズ（既刊8巻）（藤野恵美 / 講談社青い鳥文庫 / 2010.5-）
+  - [サーティーナイン・クルーズ](https://ja.wikipedia.org/wiki/サーティーナイン・クルーズ "wikilink")シリーズ（全25巻）（[小浜杳](https://ja.wikipedia.org/wiki/小浜杳 "wikilink")訳 / [メディアファクトリー](../Page/メディアファクトリー.md "wikilink") / 2009.6-2017.8）
+  - [お嬢様探偵ありす](https://ja.wikipedia.org/wiki/お嬢様探偵ありす "wikilink")シリーズ（全8巻）（藤野恵美 / 講談社青い鳥文庫 / 2010.5-2016.10）
   - [スペランカー](../Page/スペランカー.md "wikilink") 不死身の勇者と王国の謎（[宮村優](https://ja.wikipedia.org/wiki/宮村優 "wikilink")著 / 一二三書房 [桜ノ杜ぶんこ](https://ja.wikipedia.org/wiki/桜ノ杜ぶんこ "wikilink") / 2013.10）
   - [クリスマス・キャロル](../Page/クリスマス・キャロル_\(小説\).md "wikilink")（[ディケンズ著](../Page/チャールズ・ディケンズ.md "wikilink") / [杉田七重](https://ja.wikipedia.org/wiki/杉田七重 "wikilink")訳 / [角川つばさ文庫](https://ja.wikipedia.org/wiki/角川つばさ文庫 "wikilink") / 2013.11）
   - [名探偵神津恭介](../Page/神津恭介.md "wikilink")（少年向け、全2巻）（[高木彬光](../Page/高木彬光.md "wikilink")著 / [ポプラポケット文庫](https://ja.wikipedia.org/wiki/ポプラポケット文庫 "wikilink") / 2015.1）
-  - ボイジャーズ8（既刊2巻）（D.J.マクヘイル著 / 小浜杳訳 / KADOKAWA / 2017.7）
-  - [鹿の王](https://ja.wikipedia.org/wiki/鹿の王 "wikilink")（既刊2巻）（[上橋菜穂子](../Page/上橋菜穂子.md "wikilink")著 / 角川つばさ文庫 / 2018.12-）
+  - ボイジャーズ8（既刊2巻）（著 / 小浜杳訳 / KADOKAWA / 2017.7）
+  - [鹿の王](https://ja.wikipedia.org/wiki/鹿の王 "wikilink")（既刊3巻）（[上橋菜穂子](../Page/上橋菜穂子.md "wikilink")著 / 角川つばさ文庫 / 2018.12-）
 
 ### ゲーム
 
   - [虫姫さま ふたり](https://ja.wikipedia.org/wiki/虫姫さま_ふたり "wikilink")（[ケイブ](../Page/ケイブ.md "wikilink")開発 / [エイエムアイ](../Page/エイエムアイ.md "wikilink")発売）
   - 聖剣伝説シリーズ（リメイク版）（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）
-      - [聖剣伝説2 SECRET of MANA](https://ja.wikipedia.org/wiki/聖剣伝説2_SECRET_of_MANA "wikilink")
+      - [聖剣伝説 〜ファイナルファンタジー外伝〜](https://ja.wikipedia.org/wiki/聖剣伝説_〜ファイナルファンタジー外伝〜 "wikilink")（[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")版、[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")/[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")/[Android](../Page/Android.md "wikilink")版）
+      - [聖剣伝説2](../Page/聖剣伝説2.md "wikilink")（携帯アプリ版、[iOS](https://ja.wikipedia.org/wiki/iOS "wikilink")/[Android](../Page/Android.md "wikilink")版）
+          - [聖剣伝説2 SECRET of MANA](https://ja.wikipedia.org/wiki/聖剣伝説2_SECRET_of_MANA "wikilink")
       - [聖剣伝説3 TRIALS of MANA](https://ja.wikipedia.org/wiki/聖剣伝説3_TRIALS_of_MANA "wikilink")
+      - [聖剣伝説コレクション](https://ja.wikipedia.org/wiki/聖剣伝説コレクション "wikilink")
   - [英雄伝説 空の軌跡 the 3rd](../Page/英雄伝説VI_空の軌跡.md "wikilink")（[日本ファルコム](../Page/日本ファルコム.md "wikilink")）
   - [アヴァロンコード](https://ja.wikipedia.org/wiki/アヴァロンコード "wikilink")（[マトリックス開発](../Page/マトリックス_\(ゲーム会社\).md "wikilink") / [マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスエンターテイメント "wikilink")発売）
   - [斬撃のREGINLEIV](https://ja.wikipedia.org/wiki/斬撃のREGINLEIV "wikilink")（[サンドロット](../Page/サンドロット.md "wikilink")開発 / [任天堂](../Page/任天堂.md "wikilink")発売）

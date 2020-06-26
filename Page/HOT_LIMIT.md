@@ -47,7 +47,7 @@
 
 | 番組                                                                           | 放送日                                       | コラボレーション                                                                                                |
 | ---------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")              | 1998年6月29日                                | T.M.Revolution×[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")                                    |
+| [SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")              | 1998年6月29日                                | T.M.Revolution×[SMAP](../Page/SMAP.md "wikilink")                                                       |
 | [2011 FNS歌謡祭](https://ja.wikipedia.org/wiki/2011_FNS歌謡祭 "wikilink")          | [2011年](../Page/2011年.md "wikilink")12月7日 | T.M.Revolution×[浅倉大介](../Page/浅倉大介.md "wikilink")×[劇団朱雀](https://ja.wikipedia.org/wiki/劇団朱雀 "wikilink") |
 | [2012 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2012_FNSうたの夏まつり "wikilink")  | [2012年](../Page/2012年.md "wikilink")8月8日  | T.M.Revolution×浅倉大介×[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")                               |
 | [2013 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2013_FNSうたの夏まつり "wikilink")  | [2013年](../Page/2013年.md "wikilink")7月31日 | T.M.Revolution×[氷川きよし](../Page/氷川きよし.md "wikilink")×浅倉大介                                                |

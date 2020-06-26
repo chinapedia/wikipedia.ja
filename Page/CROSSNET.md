@@ -73,6 +73,10 @@
 
 :\* [クラ☆クラ 〜CLASSY☆CRANBERRY'S〜](https://ja.wikipedia.org/wiki/クラ☆クラ_〜CLASSY☆CRANBERRY'S〜 "wikilink")（廉価版のみ）
 
+  - 美少女万華鏡 -理と迷宮の少女-（ωstar）\[2\]
+
+<!-- end list -->
+
   - EVE
 
 :\* 夢現の境界 〜奇跡の海〜
@@ -136,11 +140,16 @@
 
 すべて18歳未満閲覧禁止。
 
-  - ~~[CROSSNET](http://web.archive.org/web//www.cross-net.co.jp/)~~（[2009年](../Page/2009年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")をもって閉鎖）
+  - ~~[CROSSNET](https://web.archive.org/web//www.cross-net.co.jp/)~~（[2009年](../Page/2009年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")をもって閉鎖）
   - [ApRicoT Web Site](http://www.t-apricot.jp/)
   - [Favorite Official HomePage](http://www.favo-soft.jp/)
   - [ωstar Official HomePage](http://www.omega-star.jp/)
 
+<!-- end list -->
+
+  -
+  -
 [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
 
 1.
+2.

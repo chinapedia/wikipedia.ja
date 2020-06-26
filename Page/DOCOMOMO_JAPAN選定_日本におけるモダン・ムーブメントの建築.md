@@ -1428,9 +1428,9 @@ U研究室</p></td>
 </tr>
 <tr class="odd">
 <td><p>133</p></td>
-<td><p>花泉農協会館<br />
-（現・<a href="https://ja.wikipedia.org/wiki/岩手南農業協同組合" title="wikilink">JAいわて南花泉支店</a>）</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/いわて平泉農業協同組合花泉支店" title="wikilink">花泉農協会館</a><br />
+（現・<a href="https://ja.wikipedia.org/wiki/いわて平泉農業協同組合" title="wikilink">JAいわて平泉花泉支店</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Hanaizumi_JA,_Ichinoseki.jpg" title="fig:Hanaizumi_JA,_Ichinoseki.jpg">Hanaizumi_JA,_Ichinoseki.jpg</a></p></td>
 <td><p>大高正人</p></td>
 <td><p>1965年</p></td>
 <td><p>岩手県一関市</p></td>

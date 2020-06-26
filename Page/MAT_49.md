@@ -5,7 +5,9 @@
 
 ## 開発
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")は[MAS 38に代わる新型](https://ja.wikipedia.org/wiki/:en:MAS-38 "wikilink")[短機関銃](../Page/短機関銃.md "wikilink")の採用を計画し、チュール造兵廠で開発されたMAT 49が採用され、生産を開始した。 MAT 49は安価に[大量生産](../Page/大量生産.md "wikilink")を行うために[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")を多用し、[MAS 49半自動小銃や](../Page/MAS_49半自動小銃.md "wikilink")[AA-52](../Page/AA-52.md "wikilink")汎用機関銃と共に[陸軍](../Page/フランス陸軍.md "wikilink")・[外人部隊](https://ja.wikipedia.org/wiki/フランス外人部隊 "wikilink")・空挺部隊・植民地軍・[警察に大量配備された](../Page/フランスの警察.md "wikilink")。 チュール造兵廠における生産は[1960年代](../Page/1960年代.md "wikilink")半ばまで続き、その後の生産はMAS（Manufacture d'Armes de St-Etienne：サン＝テティエンヌ造兵廠）が引継ぎ、[FA-MAS](../Page/FA-MAS.md "wikilink")が制式採用される[1979年](../Page/1979年.md "wikilink")まで製造を続けた。
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")は[MAS 38に代わる新型](https://ja.wikipedia.org/wiki/:en:MAS-38 "wikilink")[短機関銃](../Page/短機関銃.md "wikilink")の採用を計画し、チュール造兵廠で開発されたMAT 49が採用され、生産を開始した。 MAT 49は安価に[大量生産](../Page/大量生産.md "wikilink")を行うために[プレス加工](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")を多用し、[MAS 49半自動小銃や](../Page/MAS_49半自動小銃.md "wikilink")[AA-52](../Page/AA-52.md "wikilink")汎用機関銃と共に[陸軍](../Page/フランス陸軍.md "wikilink")・[外人部隊](https://ja.wikipedia.org/wiki/フランス外人部隊 "wikilink")・空挺部隊・植民地軍・[警察に大量配備された](../Page/フランスの警察.md "wikilink")。
+
+チュール造兵廠における生産は[1960年代](../Page/1960年代.md "wikilink")半ばまで続き、その後の生産はMAS（Manufacture d'Armes de St-Etienne：サン＝テティエンヌ造兵廠）が引継ぎ、[FA-MAS](../Page/FA-MAS.md "wikilink")が制式採用される[1979年](../Page/1979年.md "wikilink")まで製造を続けた。
 
 ## 概要
 
@@ -17,13 +19,13 @@ MAT 49は、信頼性や[メンテナンス](../Page/メンテナンス.md "wiki
 
 ## 使用国
 
-[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[アルジェリア](../Page/アルジェリア.md "wikilink")、[ベナン](https://ja.wikipedia.org/wiki/ベナン "wikilink")、[ブルンジ](../Page/ブルンジ.md "wikilink")、[カメルーン](../Page/カメルーン.md "wikilink")、[中央アフリカ](https://ja.wikipedia.org/wiki/中央アフリカ "wikilink")、[コモロ諸島](../Page/コモロ諸島.md "wikilink")、[コンゴ民主共和国](../Page/コンゴ民主共和国.md "wikilink")、[コートジボワール](../Page/コートジボワール.md "wikilink")、[ジブチ](../Page/ジブチ.md "wikilink")、[ガボン](../Page/ガボン.md "wikilink")、[ギニア](../Page/ギニア.md "wikilink")、[ギニアビサウ](../Page/ギニアビサウ.md "wikilink")、[マダガスカル](../Page/マダガスカル.md "wikilink")、[モロッコ](../Page/モロッコ.md "wikilink")、[モーリタニア](../Page/モーリタニア.md "wikilink")、[ニジェール](../Page/ニジェール.md "wikilink")、[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")、[セーシェル](../Page/セーシェル.md "wikilink")、[チャド](../Page/チャド.md "wikilink")、[ラオス](../Page/ラオス.md "wikilink")、[レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")、[ボリビア](../Page/ボリビア.md "wikilink")、[北ベトナムなど](../Page/ベトナム民主共和国.md "wikilink")。
-
 MAT 49の導入国は[アフリカ](../Page/アフリカ.md "wikilink")、それも旧フランス[植民地](../Page/植民地.md "wikilink")だった国が圧倒的に多い。
 
 ## 実戦投入
 
-[thumbや](https://ja.wikipedia.org/wiki/ファイル:FLMM_-_The_Vietcong.jpg "wikilink")[TT-33と共に南ベトナム解放民族戦線の装備として展示されている](../Page/トカレフTT-33.md "wikilink")\]\] [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後に開発されたため、[インドシナ戦争や](https://ja.wikipedia.org/wiki/第一次インドシナ戦争 "wikilink")[アルジェリア独立戦争など](../Page/アルジェリア戦争.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[植民地](../Page/植民地.md "wikilink")の独立運動を押さえ込む類の[戦闘](../Page/戦闘.md "wikilink")がほとんどであった。また、[スエズ運河](../Page/スエズ運河.md "wikilink")の権益を[エジプト](../Page/エジプト.md "wikilink")から保護・奪還するために[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や[イスラエル](../Page/イスラエル.md "wikilink")とともにエジプトに出兵した[スエズ危機でも使用された](../Page/第二次中東戦争.md "wikilink")。また、[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")にも[ベトナム人民軍](https://ja.wikipedia.org/wiki/ベトナム人民軍 "wikilink")および[南ベトナム解放民族戦線](../Page/南ベトナム解放民族戦線.md "wikilink")が、インドシナ戦争の際に[フランス軍](../Page/フランス軍.md "wikilink")から[鹵獲](../Page/鹵獲.md "wikilink")したMAT 49を[トカレフ用の](../Page/トカレフTT-33.md "wikilink")[7.62x25mmトカレフ弾](https://ja.wikipedia.org/wiki/7.62x25mmトカレフ弾 "wikilink")を使用できるように改修したうえで使用していた。
+[thumbや](https://ja.wikipedia.org/wiki/ファイル:FLMM_-_The_Vietcong.jpg "wikilink")[TT-33と共に南ベトナム解放民族戦線の装備として展示されている](../Page/トカレフTT-33.md "wikilink")\]\] [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後に開発されたため、[インドシナ戦争や](https://ja.wikipedia.org/wiki/第一次インドシナ戦争 "wikilink")[アルジェリア独立戦争など](../Page/アルジェリア戦争.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[植民地](../Page/植民地.md "wikilink")の独立運動を押さえ込む類の[戦闘](../Page/戦闘.md "wikilink")がほとんどであった。また、[スエズ運河](../Page/スエズ運河.md "wikilink")の権益を[エジプト](../Page/エジプト.md "wikilink")から保護・奪還するために[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")や[イスラエル](../Page/イスラエル.md "wikilink")とともにエジプトに出兵した[スエズ危機でも使用された](../Page/第二次中東戦争.md "wikilink")。
+
+[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")にも[ベトナム人民軍](https://ja.wikipedia.org/wiki/ベトナム人民軍 "wikilink")および[南ベトナム解放民族戦線](../Page/南ベトナム解放民族戦線.md "wikilink")が、インドシナ戦争の際に[フランス軍](../Page/フランス軍.md "wikilink")から[鹵獲](../Page/鹵獲.md "wikilink")したMAT 49を[トカレフ用の](../Page/トカレフTT-33.md "wikilink")[7.62x25mmトカレフ弾](https://ja.wikipedia.org/wiki/7.62x25mmトカレフ弾 "wikilink")を使用できるように改修したうえで使用していた。
 
 ## 登場作品
 

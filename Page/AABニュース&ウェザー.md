@@ -28,7 +28,7 @@
   - [ANNニュースライナー](../Page/ANNニュースライナー.md "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [ANN 530ステーション](../Page/600ステーション.md "wikilink")
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [AABステーションEYE](../Page/AABステーションEYE.md "wikilink")
   - [チャンネルeiei](https://ja.wikipedia.org/wiki/チャンネルeiei "wikilink")
   - [チャンネルeiei金曜版](https://ja.wikipedia.org/wiki/チャンネルeiei金曜版 "wikilink")

@@ -21,4 +21,4 @@
 
   - [1996年の音楽](../Page/1996年の音楽.md "wikilink")
 
-[Category:岩崎宏美の楽曲](https://ja.wikipedia.org/wiki/Category:岩崎宏美の楽曲 "wikilink") [Category:吉田美奈子が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美奈子が作詞作曲した楽曲 "wikilink") [Category:テレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビドラマ主題歌 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")
+[Category:岩崎宏美の楽曲](https://ja.wikipedia.org/wiki/Category:岩崎宏美の楽曲 "wikilink") [Category:吉田美奈子が作詞作曲した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美奈子が作詞作曲した楽曲 "wikilink") [Category:朝日放送テレビのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:朝日放送テレビのテレビドラマ主題歌 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

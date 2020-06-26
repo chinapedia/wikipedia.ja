@@ -1,7 +1,7 @@
 > この記事は[World 4u](https://ja.wikipedia.org/wiki/World_4u)から翻訳されています。
 
 
-「**World 4u_**」（ワールド・フォーユー）は、[江尻立真](../Page/江尻立真.md "wikilink")による日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。「[都市伝説](../Page/都市伝説.md "wikilink")」を扱った[オムニバス](../Page/オムニバス.md "wikilink")形式の短編連作として、『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』・『[ジャンプ the REVOLUTION\!](../Page/週刊少年ジャンプの増刊号.md "wikilink")』・『[ジャンプスクエア](../Page/ジャンプスクエア.md "wikilink")』および『[最強ジャンプ](https://ja.wikipedia.org/wiki/最強ジャンプ "wikilink")』にて不定期掲載された。2014年11月21日から2015年3月8日まで、[少年ジャンプ＋](https://ja.wikipedia.org/wiki/少年ジャンプ＋ "wikilink")で連載された。
+「**World 4u_**」（ワールド・フォーユー）は、[江尻立真](../Page/江尻立真.md "wikilink")による日本の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。「[都市伝説](../Page/都市伝説.md "wikilink")」を扱った[オムニバス](../Page/オムニバス.md "wikilink")形式の短編連作として、『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』・『[ジャンプ the REVOLUTION\!](../Page/週刊少年ジャンプの増刊号.md "wikilink")』・『[ジャンプスクエア](../Page/ジャンプスクエア.md "wikilink")』および『[最強ジャンプ](https://ja.wikipedia.org/wiki/最強ジャンプ "wikilink")』にて不定期掲載された。2014年11月21日から2015年3月8日まで、[少年ジャンプ+](https://ja.wikipedia.org/wiki/少年ジャンプ+ "wikilink")で連載された。
 
 ## 概要
 
@@ -139,7 +139,7 @@
   - [週刊少年ジャンプ公式サイト](http://www.shonenjump.com/j/rensai/ishojo.html)
   - [少年ジャンプ＋公式サイト](http://plus.shonenjump.com/rensai_detail.html?item_cd=SHSA_JP01PLUS00001380_57)
 
-[Category:漫画作品_わ](https://ja.wikipedia.org/wiki/Category:漫画作品_わ "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ジャンプスクエアの漫画作品](https://ja.wikipedia.org/wiki/Category:ジャンプスクエアの漫画作品 "wikilink") [Category:少年ジャンプ＋](https://ja.wikipedia.org/wiki/Category:少年ジャンプ＋ "wikilink") [Category:ホラー漫画](https://ja.wikipedia.org/wiki/Category:ホラー漫画 "wikilink") [Category:都市伝説を題材とした作品](https://ja.wikipedia.org/wiki/Category:都市伝説を題材とした作品 "wikilink")
+[Category:漫画作品_わ](https://ja.wikipedia.org/wiki/Category:漫画作品_わ "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ジャンプスクエアの漫画作品](https://ja.wikipedia.org/wiki/Category:ジャンプスクエアの漫画作品 "wikilink") [Category:少年ジャンプ+](https://ja.wikipedia.org/wiki/Category:少年ジャンプ+ "wikilink") [Category:ホラー漫画](https://ja.wikipedia.org/wiki/Category:ホラー漫画 "wikilink") [Category:都市伝説を題材とした作品](https://ja.wikipedia.org/wiki/Category:都市伝説を題材とした作品 "wikilink")
 
 1.
 2.

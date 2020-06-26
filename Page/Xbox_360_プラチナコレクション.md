@@ -103,8 +103,8 @@
 
 『バーチャファイター5 Live Arena』は2009年1月15日、他は2009年1月8日発売\[10\]。
 
-  - [アーマード・コア フォーアンサー](https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー "wikilink")
-  - [キングダム アンダー ファイア : サークルオブドゥーム](https://ja.wikipedia.org/wiki/Kingdom_Under_Fire_:_Circle_Of_Doom "wikilink")
+  - [アーマード・コア フォーアンサー](../Page/アーマード・コア_フォーアンサー.md "wikilink")
+  - [キングダム アンダー ファイア : サークルオブドゥーム](../Page/Kingdom_Under_Fire_:_Circle_Of_Doom.md "wikilink")
   - [バーチャファイター5 Live Arena](https://ja.wikipedia.org/wiki/バーチャファイター#バーチャファイター5 "wikilink")
   - [トラスティベル ショパンの夢](https://ja.wikipedia.org/wiki/トラスティベル_ショパンの夢 "wikilink")12月3日発表\[11\])
 
@@ -115,7 +115,7 @@
   - [バトルフィールド バッド カンパニー](../Page/バトルフィールド_バッド_カンパニー.md "wikilink")
   - [Halo 3](../Page/Halo_3.md "wikilink")
   - [レインボーシックス ベガス 2](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス_2 "wikilink")
-  - [アイドルマスター ライブフォーユー\!](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU! "wikilink")(『THE IDOLM@STER』とのセット『アイドルマスターツインズ』もある。)
+  - [アイドルマスター ライブフォーユー\!](../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md "wikilink")(『THE IDOLM@STER』とのセット『アイドルマスターツインズ』もある。)
 
 ### 第11弾
 
@@ -336,14 +336,14 @@
 <li><a href="../Page/アサシン_クリード.md" title="wikilink">アサシン クリード</a></li>
 </ul></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/アーマード・コア_フォーアンサー" title="wikilink">アーマード・コア フォーアンサー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/Kingdom_Under_Fire_:_Circle_Of_Doom" title="wikilink">キングダム アンダー ファイア : サークルオブドゥーム</a></li>
+<li><a href="../Page/アーマード・コア_フォーアンサー.md" title="wikilink">アーマード・コア フォーアンサー</a></li>
+<li><a href="../Page/Kingdom_Under_Fire_:_Circle_Of_Doom.md" title="wikilink">キングダム アンダー ファイア : サークルオブドゥーム</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/バーチャファイター#バーチャファイター5" title="wikilink">バーチャファイター5 Live Arena</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/トラスティベル_ショパンの夢" title="wikilink">トラスティベル ショパンの夢</a></li>
 <li><a href="../Page/バトルフィールド_バッド_カンパニー.md" title="wikilink">バトルフィールド バッド カンパニー</a></li>
 <li><a href="../Page/Halo_3.md" title="wikilink">Halo 3</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/レインボーシックス_ベガス_2" title="wikilink">レインボーシックス ベガス 2</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_FOR_YOU!" title="wikilink">アイドルマスター ライブフォーユー!</a></li>
+<li><a href="../Page/THE_IDOLM@STER_LIVE_FOR_YOU!.md" title="wikilink">アイドルマスター ライブフォーユー!</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/真・三國無双5" title="wikilink">真・三國無双5</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/BIOSHOCK" title="wikilink">BIOSHOCK</a></li>
 <li><a href="../Page/インフィニット_アンディスカバリー.md" title="wikilink">インフィニット アンディスカバリー</a></li>

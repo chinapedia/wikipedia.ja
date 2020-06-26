@@ -40,7 +40,7 @@
 <tr class="odd">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="../Page/マーティン・ブランドル.md" title="wikilink">マーティン・ブランドル</a><br />
- ジョン・ニールセン</p></td>
+ <a href="https://ja.wikipedia.org/wiki/ジョン・ニールセン" title="wikilink">ジョン・ニールセン</a></p></td>
 <td><p>10</p></td>
 <td><p>DNF</p></td>
 <td><p>165</p></td>
@@ -49,7 +49,7 @@
 </tbody>
 </table>
 
-5月17日に行われたル・マンのテストデイには3台が用意された。ドライバーは本戦に出場した7名の内、テストデイと同日開催の[F1第](../Page/フォーミュラ1.md "wikilink")3戦・[スパに出場したチーバー](../Page/スパ・フランコルシャン.md "wikilink")、ブランドルを除く5名とアルミン・ハーネが参加した\[2\]。参加車中、4号車が1位、5号車が3位、6号車が5位のタイムを記録しル・マン24時間への準備を終えた。
+5月17日に行われたル・マンのテストデイには3台が用意された。ドライバーは本戦に出場した7名の内、テストデイと同日開催の[F1第](../Page/フォーミュラ1.md "wikilink")3戦・[スパに出場したチーバー](../Page/スパ・フランコルシャン.md "wikilink")、ブランドルを除く5名と[アルミン・ハーネ](../Page/アルミン・ハーネ.md "wikilink")が参加した\[2\]。参加車中、4号車が1位、5号車が3位、6号車が5位のタイムを記録しル・マン24時間への準備を終えた。
 
 <table>
 <thead>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>6</strong></p></td>
-<td><p>ジョン・ニールセン</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ニールセン" title="wikilink">ジョン・ニールセン</a></p></td>
 <td><p>3'29.01</p></td>
 <td><p>5</p></td>
 </tr>
@@ -110,7 +110,7 @@
 <td><p><strong>5</strong></p></td>
 <td><p><a href="../Page/ヤン・ラマース.md" title="wikilink">ヤン・ラマース</a><br />
  <a href="../Page/ジョン・ワトソン_(レーサー).md" title="wikilink">ジョン・ワトソン</a><br />
- ウィン・パーシー</p></td>
+ <a href="https://ja.wikipedia.org/wiki/ウィン・パーシー" title="wikilink">ウィン・パーシー</a></p></td>
 <td><p>5</p></td>
 <td><p>DNF</p></td>
 <td><p>158</p></td>
@@ -119,7 +119,7 @@
 <tr class="odd">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="../Page/マーティン・ブランドル.md" title="wikilink">マーティン・ブランドル</a><br />
- ジョン・ニールセン</p></td>
+ <a href="https://ja.wikipedia.org/wiki/ジョン・ニールセン" title="wikilink">ジョン・ニールセン</a></p></td>
 <td><p>4</p></td>
 <td><p>DNF</p></td>
 <td><p>231</p></td>

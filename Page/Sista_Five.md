@@ -146,11 +146,11 @@
 ## 外部リンク
 
   - [Sista five公式サイト](http://www.sistafive.net/)
-  - [Aicoo公式ブログ](http://blog.goo.ne.jp/sistafive/)
-  - [Ryowoo公式ブログ](http://blog.goo.ne.jp/sistafive2/)
-  - [Myuu公式ブログ](http://blog.goo.ne.jp/sistafive3/)
-  - [Suchii公式ブログ](http://blog.goo.ne.jp/sistafive4/)
-  - [Akyee公式ブログ](http://blog.goo.ne.jp/sistafive5/)
+  - [Aicoo公式ブログ](https://blog.goo.ne.jp/sistafive)
+  - [Ryowoo公式ブログ](https://blog.goo.ne.jp/sistafive2)
+  - [Myuu公式ブログ](https://blog.goo.ne.jp/sistafive3)
+  - [Suchii公式ブログ](https://blog.goo.ne.jp/sistafive4)
+  - [Akyee公式ブログ](https://blog.goo.ne.jp/sistafive5)
   - [藤家（ふじや）](http://r.gnavi.co.jp/ka0x600/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:守口市](https://ja.wikipedia.org/wiki/Category:守口市 "wikilink") [Category:エイベックス・グループ](https://ja.wikipedia.org/wiki/Category:エイベックス・グループ "wikilink")

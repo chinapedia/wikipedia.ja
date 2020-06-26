@@ -38,7 +38,7 @@
 
 ## 脚注
 
-[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:石橋貴明の楽曲](https://ja.wikipedia.org/wiki/Category:石橋貴明の楽曲 "wikilink") [Category:1997年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:1997年のコラボレーション・シングル "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+[Category:工藤静香の楽曲](https://ja.wikipedia.org/wiki/Category:工藤静香の楽曲 "wikilink") [Category:石橋貴明の楽曲](https://ja.wikipedia.org/wiki/Category:石橋貴明の楽曲 "wikilink") [Category:1997年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:1997年のコラボレーション・シングル "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:秋元康が制作した楽曲](https://ja.wikipedia.org/wiki/Category:秋元康が制作した楽曲 "wikilink") [Category:後藤次利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:後藤次利が制作した楽曲 "wikilink") [Category:接吻を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:接吻を題材とした楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
 
 1.  2008年9月19日には、限定生産[DVD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX "wikilink")『[Shizuka Kudo THE LIVE DVD COMPLETE BOX](../Page/Shizuka_Kudo_THE_LIVE_DVD_COMPLETE_BOX.md "wikilink")』の1枚として[DVD](../Page/DVD.md "wikilink")化されている。
 2.  工藤と木村が結婚する前の話である。

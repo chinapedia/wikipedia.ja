@@ -9,6 +9,7 @@
   - グループ8作目の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得。
   - また、この曲が主題歌のドラマ『[あぶない放課後](https://ja.wikipedia.org/wiki/あぶない放課後 "wikilink")』に主演している、[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")、当時[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")）がカバーしていて、ドラマのオープニング曲になっている。
   - V6として[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")出演した[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[第50回NHK紅白歌合戦](../Page/第50回NHK紅白歌合戦.md "wikilink")」で[サビ](../Page/サビ.md "wikilink")のみ歌唱した。
+  - 全員のソロパートは存在しないが歌番組やコンサートでは[坂本](../Page/坂本昌行.md "wikilink")、[井ノ原](../Page/井ノ原快彦.md "wikilink")、[森田がソロパートを歌っている](https://ja.wikipedia.org/wiki/森田剛 "wikilink")
   - カップリングの「**OPEN THE GATE**」はMIKI HOUSEのタイアップとして使用されたが、CMでは20th Centuryは出演しておらずComing Centuryと少年3人がサビに合わせてダンスするというものだった。
 
 ## 収録曲

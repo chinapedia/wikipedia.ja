@@ -28,7 +28,7 @@
 ## 外部リンク
 
   -
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:手紙を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:手紙を題材とした楽曲 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.  [キリト、PIERROT時代のあの小説が今度は曲に\!? | キリト](http://www.barks.jp/news/?id=1000030765) - [BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")音楽ニュース
 2.  [キリト×平野悠 対談 ROOF TOP 2006 JULY](http://www.loft-prj.co.jp/interview/0607/01.html) - [LOFT PROJECT](../Page/ロフト_\(ライブハウス\).md "wikilink")

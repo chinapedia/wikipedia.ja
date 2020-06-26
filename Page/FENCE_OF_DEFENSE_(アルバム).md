@@ -30,7 +30,7 @@
       - 作詞:柳川英己　作曲:西村麻聡　編曲:FENCE OF DEFENSE
     <!-- end list -->
       -
-        同年9月26日に2ndシングルとしてシングル・カットされ（シングル版の表記は『ナイトレス・ガール』）、後に歌詞を一部変更して[近藤真彦](../Page/近藤真彦.md "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")によってカバーされている。
+        同年9月26日に2ndシングルとしてシングル・カットされ（シングル版の表記は『ナイトレス・ガール』）、後に歌詞を一部変更して[近藤真彦](../Page/近藤真彦.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")によってカバーされている。
 7.  **MISTY**
       - 作詞:柳川英己　作曲:西村麻聡 編曲:FENCE OF DEFENSE
 8.  **EMOTIONAL WAY**

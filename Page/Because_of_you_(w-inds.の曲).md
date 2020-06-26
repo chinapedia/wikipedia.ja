@@ -9,7 +9,7 @@
   - 発売当時、[バックストリート・ボーイズ](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink")の「Don't Want You Back」に似ていると盗作疑惑が起きた事がある\[1\]。
   - デビュー曲「[Forever Memories](../Page/Forever_Memories.md "wikilink")」から前作「Another Days」まで、w-inds.作品・全シングルの全楽曲における作詞・作曲・編曲を手がけて来た[葉山拓亮](../Page/葉山拓亮.md "wikilink")から離れ、新たな作家陣によって制作された。
   - 作曲・編曲には、1stアルバム『[w-inds.〜1st message〜](https://ja.wikipedia.org/wiki/w-inds.〜1st_message〜 "wikilink")』収録曲「Love you anymore」に引き続き、・[原一博](../Page/原一博.md "wikilink")を再起用。また作詞には、後のw-inds.作品の[クレジットに最も多く名を連ねることになる](../Page/クレジットタイトル.md "wikilink")[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")を初起用、収録曲すべての作詞を手掛けている。
-  - シングル曲として、Rapパート初導入され、[緒方龍一](../Page/緒方龍一.md "wikilink")が担当している。([千葉涼平](../Page/千葉涼平.md "wikilink")のみソロパートがない）。[橘慶太](../Page/橘慶太.md "wikilink")以外のメンバーにソロパートが与えられているのはこれが初である。サビでは橘と千葉の2人が歌唱しており、サビを全員で歌唱しない曲はこれが初である。
+  - シングル曲として、Rapパート初導入され、[龍一が担当している](../Page/緒方龍一.md "wikilink")。([涼平のみソロパートがない](../Page/千葉涼平.md "wikilink")）。[慶太以外のメンバーにソロパートが与えられているのはこれが初である](../Page/橘慶太.md "wikilink")。また、サビでは慶太と涼平の2人が歌唱しているため、表題曲では初めてサビを全員で歌唱していない。
   - カップリング曲「close to you」は、外国人作家による初提供作品。
   - [第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")金賞受賞曲。
   - 2002年9月2日[HEY\!HEY\!HEY\! MUSIC CHAMPに出演](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")。

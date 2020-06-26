@@ -21,7 +21,7 @@
     1R 5:41 [スリーパーホールド](../Page/裸絞.md "wikilink")
   - 第3試合 ミドル級ワンマッチ 1R10分、2・3R5分
     ○  [マウリシオ・ショーグン](../Page/マウリシオ・ショーグン.md "wikilink") vs.  [金原弘光](../Page/金原弘光.md "wikilink") ×
-    1R 1:40 TKO（レフェリーストップ：[サッカーボールキック](https://ja.wikipedia.org/wiki/サッカーボールキック "wikilink")）
+    1R 1:40 TKO（レフェリーストップ：[サッカーボールキック](../Page/サッカーボールキック.md "wikilink")）
   - 第4試合 ミドル級ワンマッチ 1R10分、2・3R5分
     ○  [イゴール・ボブチャンチン](../Page/イゴール・ボブチャンチン.md "wikilink") vs.  [高橋義生](../Page/高橋義生.md "wikilink") ×
     1R 1:10 KO（右フック）

@@ -29,7 +29,7 @@
 
 （途中からネット開始、終了局を含む、水曜未明分のみ）
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")
   - [栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")
   - [KBS京都](../Page/京都放送.md "wikilink")（[KBS滋賀](../Page/KBS滋賀.md "wikilink")）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")

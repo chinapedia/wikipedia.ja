@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - mami -「[山下まみ](https://ja.wikipedia.org/wiki/山下まみ "wikilink")」元「[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")」13期生。現在は[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属の声優として活躍中\[1\]。
+  - mami -「[山下まみ](https://ja.wikipedia.org/wiki/山下まみ "wikilink")」元「[恋のから騒ぎ](../Page/恋のから騒ぎ.md "wikilink")」13期生。現在は[青二プロダクション](../Page/青二プロダクション.md "wikilink")所属の声優として活躍中\[1\]。
 
 <!-- end list -->
 

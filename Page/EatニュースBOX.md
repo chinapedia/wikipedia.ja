@@ -51,7 +51,7 @@
 ## コーナー
 
   - オープニング
-    全国パートの『[ANNスーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』から[ステーションブレイク無しでトップニュースを伝えた後](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")、映像をバックにロゴを表示。かつては3項目のヘッドラインが流れていた。
+    全国パートの『[ANNスーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』から[ステーションブレイク無しでトップニュースを伝えた後](https://ja.wikipedia.org/wiki/コマーシャルメッセージ#CMの種類 "wikilink")、映像をバックにロゴを表示。かつては3項目のヘッドラインが流れていた。
   - きょうのニュース
     項目ごとにアタック音を流していた。愛媛の夕方ローカルニュースでは、『[キャッチあい](../Page/キャッチあい.md "wikilink")』『EBCスーパーニュース（ローカルパート）』も項目ごとにアタック音を流していた。
   - 特集
@@ -74,7 +74,7 @@
 
   - [eatニュース](https://ja.wikipedia.org/wiki/eatニュース "wikilink")
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")（週末のみ）
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")（週末のみ）
   - [ANN夕方ローカルニュース一覧](../Page/ANN夕方ローカルニュース一覧.md "wikilink")
 
 ## 外部リンク

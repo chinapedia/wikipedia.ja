@@ -7,7 +7,7 @@
 
   - [アダム&ジ・アンツ](../Page/アダム&ジ・アンツ.md "wikilink")を意識した[ジャングルビート](https://ja.wikipedia.org/wiki/ジャングルビート "wikilink")（[近田春夫](../Page/近田春夫.md "wikilink")が連載「気分は歌謡曲」で大村雅朗のアレンジを絶賛した）を大胆に導入しており、演奏の際のセットも[ジャングルを舞台としていた](../Page/熱帯雨林.md "wikilink")。[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")の「エレファント・トーク」同様、イントロのギターで獣の咆哮を模している。
   - ジャケットには「JULIE & [EXOTICS](../Page/エキゾティクス.md "wikilink")」と書かれており、写真も「[ス・ト・リ・ッ・パ・ー](../Page/ス・ト・リ・ッ・パ・ー.md "wikilink")」以来の[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")のメンバーが沢田と共に全員写ったものになっている。
-  - 前作とは打って変わって衣装が派手なものとなり、ジュリーとメンバーのファッションはアーミールックを基調とし、「ジャングル+軍隊」で[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")のアメリカ兵をモチーフとしている（沢田が[スヌーピー](../Page/スヌーピー.md "wikilink")をぶら下げているのがそのメタファー）。衣装の[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")曰く「変態二等兵」。
+  - 前作とは打って変わって衣装が派手なものとなり、ジュリーとメンバーのファッションはアーミールックを基調とし、「ジャングル+軍隊」で[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")のアメリカ兵をモチーフとしている（沢田が[スヌーピー](../Page/スヌーピー.md "wikilink")をぶら下げているのがその[メタファー](../Page/メタファー.md "wikilink")）。衣装の[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")曰く「変態二等兵」。
   - 1983年（昭和58年）[第34回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink")で第一回金杯を受賞。この紅白で着用したライトを埋め込んだ[軍人](../Page/軍人.md "wikilink")風の衣装と、奇抜なパフォーマンスから、同回の総合司会を務めた[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")は「歌う[日露戦争](../Page/日露戦争.md "wikilink")」とこの時の沢田のステージングを形容した。
   - 作曲者の大沢自身ものちに[1994年](../Page/1994年.md "wikilink")（平成6年）にセルフカバーし、アルバム『[Collage](https://ja.wikipedia.org/wiki/Collage_\(大沢誉志幸のアルバム\) "wikilink")』に収録した。ほか、[岡村靖幸](../Page/岡村靖幸.md "wikilink")や[SPARKS GO GOが](../Page/SPARKS_GO_GO.md "wikilink")、同曲のカバーを発表している。
 

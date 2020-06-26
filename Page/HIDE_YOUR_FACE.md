@@ -70,6 +70,18 @@
       - CDの最後まで延々と音飛びしている。アナログ盤に敬意を込めつつ、遊んだ\[26\]。
       - 「アナログ盤の最後の音の溝を使ってエンドレスで流れる」という現象をCDで行えるかどうか色々なスタッフに聞いて回っても無理と言われたため、hideが「それなら自分でやる」と決意し、その構成になった。エンドレスに流すことはできなかったが、CDの容量の限界まで尺を割いた\[27\]。
 
+## 参加ミュージシャン
+
+  - [I.N.A](../Page/I.N.A.md "wikilink") - [コンピュータ・プログラミング](../Page/マニピュレーター.md "wikilink")
+  - [テリー・ボジオ](../Page/テリー・ボジオ.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")(\#2,4,10,11,14)
+  - [池畑潤二](https://ja.wikipedia.org/wiki/池畑潤二 "wikilink") - ドラムス(\#15)
+  - [T.M.スティーヴンス](https://ja.wikipedia.org/wiki/T.M.スティーヴンス "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")(\#2,4,10,11,14)
+  - [鈴木享明](https://ja.wikipedia.org/wiki/鈴木享明 "wikilink") - ベース(\#12)
+  - [奈良敏博](../Page/シーナ&ザ・ロケッツ.md "wikilink") - ベース(\#15)
+  - [リッチ・ブリーン](https://ja.wikipedia.org/wiki/リッチ・ブリーン "wikilink") - [ローズ・ピアノ](../Page/ローズ・ピアノ.md "wikilink")(\#6)、[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")、[ミキシング](../Page/ミキシング.md "wikilink")
+  - [ジェリー・ヘイ](../Page/ジェリー・ヘイ.md "wikilink") - [フリューゲルホルン](../Page/フリューゲルホルン.md "wikilink")(\#11)
+  - [Byron Berline](https://ja.wikipedia.org/wiki/:en:Byron_Berline "wikilink") - [フィドル](../Page/フィドル.md "wikilink")(\#15)
+
 ## 出典
 
 [Category:Hideのアルバム](https://ja.wikipedia.org/wiki/Category:Hideのアルバム "wikilink") [Category:1994年のアルバム](https://ja.wikipedia.org/wiki/Category:1994年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink") [Category:1994年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1994年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:H・R・ギーガー](https://ja.wikipedia.org/wiki/Category:H・R・ギーガー "wikilink")

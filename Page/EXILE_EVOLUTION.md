@@ -117,7 +117,7 @@
 3.  Lovers Again (Making)
 4.  道 (Making)
 
-#### DISC2「EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜 9.22 最終決戦 at 日本武道館」
+#### DISC3「EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜 9.22 最終決戦 at 日本武道館」
 
 ※CD+2DVDのみ
 

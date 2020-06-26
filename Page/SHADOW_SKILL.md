@@ -330,7 +330,7 @@
   - 色彩設計 - 田中真紀
   - 撮影監督 - [白井久男](https://ja.wikipedia.org/wiki/白井久男 "wikilink")
   - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
-  - 音楽 - [手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")、[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
+  - 音楽 - [手塚理](../Page/手塚理.md "wikilink")、[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
   - アニメーション制作 - ZERO G-ROOM
 
 ### サブタイトル
@@ -355,7 +355,7 @@
   - 撮影監督 - 青木孝司
   - 編集 - 坂本雅紀
   - 音響監督 - [亀山俊樹](../Page/亀山俊樹.md "wikilink")
-  - 音楽 - [手塚理](https://ja.wikipedia.org/wiki/手塚理 "wikilink")
+  - 音楽 - [手塚理](../Page/手塚理.md "wikilink")
   - プロデューサー - 横山真二郎、豊住政弘
   - アニメーション制作 - [スタジオディーン](../Page/スタジオディーン.md "wikilink")
   - 製作 - [創通映像](https://ja.wikipedia.org/wiki/創通映像 "wikilink")、スタジオディーン

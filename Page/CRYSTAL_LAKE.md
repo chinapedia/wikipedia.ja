@@ -16,10 +16,8 @@
       - 元[NOCTURNAL BLOODLUST](https://ja.wikipedia.org/wiki/NOCTURNAL_BLOODLUST "wikilink")。
   - ミツル - [ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")
       - [キバオブアキバ](https://ja.wikipedia.org/wiki/キバオブアキバ "wikilink")のメンバー。
-  - [bitoku](https://ja.wikipedia.org/wiki/坂本美徳 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")
-      - Sailing Before The Windとしても活動。
-
-※2019年現在ベース担当はミツルがサポート活動を担っている。
+  - [bitoku](https://ja.wikipedia.org/wiki/坂本美徳 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")(サポート終了)
+      - 2019年にてサポート活動終了。現在は[Sailing Before The Windのバンドリーダーを務め活動中](https://ja.wikipedia.org/wiki/Sailing_Before_The_Wind "wikilink")。
 
 ### 旧メンバー
 

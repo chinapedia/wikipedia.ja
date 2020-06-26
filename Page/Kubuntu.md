@@ -21,7 +21,7 @@ Kubuntuという名称は、派生元の[Linuxディストリビューション]
 | ツールキット                                       | [GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink"), Clutter & Qt | [Qt](../Page/Qt.md "wikilink")                                            |
 | ウェブブラウザ                                      | [Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")         |                                                                           |
 | オフィススイート                                     | [LibreOffice](https://ja.wikipedia.org/wiki/LibreOffice "wikilink") |                                                                           |
-| 電子メール & PIM                                  | [Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")            | [Kontact](../Page/Kontact.md "wikilink")                                  |
+| 電子メール & PIM                                  | [Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")            |                                                                           |
 
 ## 必要環境
 

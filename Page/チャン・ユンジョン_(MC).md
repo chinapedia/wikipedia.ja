@@ -9,7 +9,7 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に「 （[ミス・コリア](../Page/ミス・コリア.md "wikilink")正賞）」受賞、翌[1988年](../Page/1988年.md "wikilink")には[台北市](../Page/台北市.md "wikilink")で開かれた「[ミス・ユニバース世界大会](https://ja.wikipedia.org/wiki/ミス・ユニバース1988 "wikilink")」に出場し、準ミス・ユニバースを受賞。この大会で[日本の](../Page/ミス・ユニバース・ジャパン.md "wikilink")[坂口美津穂](https://ja.wikipedia.org/wiki/坂口美津穂 "wikilink")は第4位に入った。
 
-これを受け、韓国3大[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")[KBS（韓国放送公社）](../Page/韓国放送公社.md "wikilink")、[MBC（韓国文化放送）](https://ja.wikipedia.org/wiki/韓国文化放送 "wikilink")、[SBS（ソウル放送）を中心に多数の番組に出演して](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")[MC](../Page/MC.md "wikilink")（司会・進行）を務める。結婚後は、現在に至るまで出演数を減らしている。
+これを受け、韓国3大[キー局](../Page/キー局.md "wikilink")[KBS（韓国放送公社）](../Page/韓国放送公社.md "wikilink")、[MBC（韓国文化放送）](https://ja.wikipedia.org/wiki/韓国文化放送 "wikilink")、[SBS（ソウル放送）を中心に多数の番組に出演して](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")[MC](../Page/MC.md "wikilink")（司会・進行）を務める。結婚後は、現在に至るまで出演数を減らしている。
 
 ## おもな出演歴
 

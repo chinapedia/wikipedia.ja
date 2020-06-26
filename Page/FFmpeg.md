@@ -436,6 +436,7 @@ portsツリーに含まれており、該当ディレクトリに移動してmak
       - [GStreamer](../Page/GStreamer.md "wikilink") FFmpeg plug-in
       - [Perian](https://ja.wikipedia.org/wiki/Perian "wikilink")
       - [Bellagio OpenMAX IL](https://ja.wikipedia.org/wiki/Bellagio_OpenMAX_IL "wikilink") - [STマイクロエレクトロニクス](../Page/STマイクロエレクトロニクス.md "wikilink")と[ノキア](../Page/ノキア.md "wikilink")によって開発されている[オープンソース](../Page/オープンソース.md "wikilink")の実装
+      - FFmpegInterop - Microsoftによって開発されているMediaStreamSource実装
   - [3D](../Page/3D.md "wikilink")描画
       - [Blender](../Page/Blender.md "wikilink")
   - [マルチメディアプレーヤ](https://ja.wikipedia.org/wiki/マルチメディアプレーヤ "wikilink")

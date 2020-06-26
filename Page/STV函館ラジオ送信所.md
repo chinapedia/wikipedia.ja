@@ -1,7 +1,7 @@
 > この記事は[STV函館ラジオ送信所](https://ja.wikipedia.org/wiki/STV函館ラジオ送信所)から翻訳されています。
 
 
-}}  **STV函館ラジオ送信所**（えすてぃーぶいはこだてらじおそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")美原の[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）函館放送局内にある[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の[送信所](../Page/送信所.md "wikilink")である。施設管理は親会社のSTVが受け持っている。
+}}  **STV函館ラジオ送信所**（えすてぃーぶいはこだてらじおそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")美原の[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）函館放送局内にある[STVラジオ](../Page/STVラジオ.md "wikilink")の[送信所](../Page/送信所.md "wikilink")である。施設管理は親会社のSTVが受け持っている。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a></p></td>
+<td><p><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a></p></td>
 <td><p>639<a href="https://ja.wikipedia.org/wiki/キロヘルツ" title="wikilink">kHz</a></p></td>
 <td><p>JOWN</p></td>
 <td><p>5<a href="../Page/キロ.md" title="wikilink">k</a><a href="../Page/ワット.md" title="wikilink">W</a></p></td>
@@ -43,7 +43,7 @@
 ## 関連項目
 
   - [函館市](../Page/函館市.md "wikilink")
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")
   - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")
   - [NHK亀田ラジオ放送所](../Page/NHK亀田ラジオ放送所.md "wikilink") - NHK函館ラジオ放送送信所についての記事。
   - [HBC函館ラジオ送信所](../Page/HBC函館ラジオ送信所.md "wikilink") - [HBCラジオ](../Page/HBCラジオ.md "wikilink")送信所についての記事。

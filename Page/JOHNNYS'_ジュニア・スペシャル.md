@@ -107,7 +107,7 @@
       -
         ※A面の「**愛の飛行船に乗って**」は『100万人飛行船の会』のテーマソングとして使用された。
 6.  **サタデー・ナイト**（1976年4月21日／SOLB-411）
-      - サタデー・ナイト - 作詞：[北公次](../Page/北公次.md "wikilink")、作曲：P.Coulter / B.Martin、編曲：[宮本光雄](https://ja.wikipedia.org/wiki/宮本光雄 "wikilink")
+      - [サタデー・ナイト](https://ja.wikipedia.org/wiki/サタデー・ナイト "wikilink") - 作詞：[北公次](../Page/北公次.md "wikilink")、作曲：P.Coulter / B.Martin、編曲：[宮本光雄](https://ja.wikipedia.org/wiki/宮本光雄 "wikilink")
       - J.J.Sのテーマ - 作詞：[石原信一](https://ja.wikipedia.org/wiki/石原信一 "wikilink")、作曲・編曲：あかのたちお
 7.  **元気ですか**（1976年5月21日／06SH-9）
       - 元気ですか - 作詞：[寺山修司](../Page/寺山修司.md "wikilink")、作曲：井上忠夫、編曲：[森岡賢一郎](../Page/森岡賢一郎.md "wikilink")

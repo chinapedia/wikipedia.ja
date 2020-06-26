@@ -28,6 +28,8 @@
 
 Ethan Galstad の公式サイトにある [FAQ](http://www.nagios.org/faqs/viewfaq.php?faq_id=2&expand=false&showdesc=true) によれば、N.A.G.I.O.S. は[再帰的頭字語](../Page/再帰的頭字語.md "wikilink")であり「」（Nagios は聖人の地位に固執しない）の略であるという。これは当初の名称「」にちなんだものである。「」 は[ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")「」のラテン翻字であり、聖人（）を意味する。
 
+## 脚注
+
 ## 参考文献
 
   - Barth, Wolfgang; (2006年)「[](http://www.nostarch.com/frameset.php?startat=nagios)」 - No Starch Press ISBN 1-59327-070-4

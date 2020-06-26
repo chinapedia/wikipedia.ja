@@ -73,7 +73,7 @@
 
   - [文庫レーベル一覧](../Page/文庫レーベル一覧.md "wikilink")
 
-[Category:ホビージャパンの出版物](https://ja.wikipedia.org/wiki/Category:ホビージャパンの出版物 "wikilink") [Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:テーブルトークRPG関連の文庫・叢書](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG関連の文庫・叢書 "wikilink") [Category:ゲームブック](https://ja.wikipedia.org/wiki/Category:ゲームブック "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:2007年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2007年刊行開始の刊行物 "wikilink")
+[Category:ホビージャパンの出版物](https://ja.wikipedia.org/wiki/Category:ホビージャパンの出版物 "wikilink") [Category:HJ文庫](https://ja.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:テーブルトークRPG関連の文庫・叢書](https://ja.wikipedia.org/wiki/Category:テーブルトークRPG関連の文庫・叢書 "wikilink") [Category:ゲームブック](https://ja.wikipedia.org/wiki/Category:ゲームブック "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:2007年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2007年刊行開始の刊行物 "wikilink")
 
 1.  [社会思想社](../Page/社会思想社.md "wikilink")の[ファイティング・ファンタジー](../Page/ファイティング・ファンタジー.md "wikilink")シリーズ。詳しくは該当項目を参照のこと。
 2.  社会思想社版『サムライの剣』では、著者はジミー・トムソンとマーク・スミス。ジャクソンとリビングストンは監修でクレジットされていた。

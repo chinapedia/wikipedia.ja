@@ -45,11 +45,14 @@
 
 ### 過去
 
+  -
+    2011年3月11日に発災した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴い、ニッポン放送の地上波で放送した報道特別番組をサイマル放送。そのため、同年3月11日から14日の午後迄通常編成を休止した\[8\]
+
   - 地上波デジタルラジオ
 
 <!-- end list -->
 
-  - 月 - 土曜：6:00 - 3:00※2011年3月31日は放送免許の有効期限満了のため、23:59で終了。、日曜：6:00 - 1:00 - 2010年[4月26日](../Page/4月26日.md "wikilink") - [2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")
+  - 月 - 土曜：6:00 - 3:00\[9\]日曜：6:00 - 1:00 - 2010年4月26日 - 2011年3月31日
   - 月 - 土曜：8:00 - 翌3:00、日曜：8:00 - 1:00 - 2008年3月31日 - 2010年4月25日
   - 月 - 土曜：9:00 - 2:00、日曜：9:00 - 1:00 - 2007年10月1日 - 2008年3月30日
   - 全日：9:00 - 0:00 - 2007年4月2日 - 9月30日
@@ -63,20 +66,10 @@
 <!-- end list -->
 
   -
-    平日：6:00 - 13:00（金曜のみ12:00まで）、14:00 - 18:00（金曜のみ15:00から）、1:00 - 3:00
+    平日：6:00 - 13:00\[10\]、\[11\]14:00 - 18:00、1:00 - 3:00
     土曜：6:00 - 13:00、14:00 - 21:00、1:00 - 3:00
     日曜：6:00 - 13:00、14:00 - 21:00
     パーソナリティー： [Catherine Kobayashi](https://ja.wikipedia.org/wiki/キャサリン小林 "wikilink")（タレント）、David Shaw
-
-<!-- end list -->
-
-  - MUSIC GO ROUND - 2012年6月5日 - 2016年3月31日
-
-<!-- end list -->
-
-  -
-    平日： 20:00 - 22:00※月初週のみ生放送、以下放送週はリピート扱い
-    パーソナリティー：[中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")（音楽プロデューサー）
 
 <!-- end list -->
 
@@ -90,13 +83,13 @@
 
 ### 過去
 
-  - Marunouchi Soundscape - 2012年4月 - 2016年3月31日
+  - Marunouchi Soundscape - 2012年4月 - 2017年12月31日
 
 <!-- end list -->
 
   -
     全日：13:00 - 14:00、21:00 - 22:00※再放送
-    パーソナリティ:堀内尚子（タレント、ラジオパーソナリティ）
+    パーソナリティ:東海林舞（キャスター、ラジオパーソナリティ） - 2017年3月 - 2017年12月、堀内尚子（タレント、ラジオパーソナリティ）
 
 <!-- end list -->
 
@@ -119,6 +112,22 @@
 
 <!-- end list -->
 
+  - MUSIC GO ROUND - 2012年6月5日 - 2016年3月31日
+
+<!-- end list -->
+
+  -
+    平日： 20:00 - 22:00※月初週のみ生放送、以下放送週はリピート扱い
+    また、パーソナリティは日替わりで各レコード店関連の人間が担当し、金曜のみアーティストが担当していた
+    [キュレーター](../Page/キュレーター.md "wikilink")：月曜：オンラインストア店長、東京都所在店舗の店長（[ヴィレッジヴァンガード](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")）
+    火曜：[九龍ジョー](https://ja.wikipedia.org/wiki/九龍ジョー "wikilink") - 2015年5月 - 、[フリーペーパー](../Page/フリーペーパー.md "wikilink")「intoxicate」編集部、長澤香奈※[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")、K-POP情報関連SNS担当スタッフ（[タワーレコード](../Page/タワーレコード.md "wikilink")）
+    水曜：行達也（[CDショップ大賞](https://ja.wikipedia.org/wiki/CDショップ大賞 "wikilink")実行委員、モナレコード店長）
+    木曜：金子厚武（音楽ライター） - 2015年1月 - 2016年3月、原田竜太 - 2014年5月 - 2015年4月、塩澤彩 - 2014年5月 - 2015年4月、[BounDEE宣伝担当](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink") - 2012年6月 - 2016年3月
+    金曜：月替わりアーティストSP
+    （[中塚武](https://ja.wikipedia.org/wiki/中塚武 "wikilink")（音楽プロデューサー） - 2012年6月、9月、2013年1月、11月、2014年2月、5月、9月、12月、2015年3月、7月、[Paris match](../Page/Paris_match.md "wikilink") - 2012年7月、11月、2013年1月、8月、2014年3月、6月、10月、2015年2月、6月、ナカムラヒロシ（音楽プロデューサー） - 2012年8月、12月、2014年11月、2016年2月、[ミッツ・マングローブ](https://ja.wikipedia.org/wiki/ミッツ・マングローブ "wikilink")、[増田みのり](../Page/増田みのり.md "wikilink")（当時：ニッポン放送アナウンサー） - 2012年10月、2013年5月\[12\]、Cana（[SOTTE BOSSE](../Page/SOTTE_BOSSE.md "wikilink")） - 2013年4月、6月、9月、2014年7月、[バニラビーンズ](../Page/バニラビーンズ.md "wikilink") - 2013年7月、[藤澤ノリマサ](https://ja.wikipedia.org/wiki/藤澤ノリマサ "wikilink") - 2013年10月、[山崎あおい](https://ja.wikipedia.org/wiki/山崎あおい "wikilink") - 2014年1月、池川兄弟（[フラメンコ](../Page/フラメンコ.md "wikilink")ギターデュオ） - 2014年8月、[黒木渚](https://ja.wikipedia.org/wiki/黒木渚 "wikilink") - 2015年1月、[Fried Pride](../Page/Fried_Pride.md "wikilink") - 2015年4月、名渡山遼、Tomoki Sato（[ウクレレ](../Page/ウクレレ.md "wikilink")演奏者） - 2015年8月）
+
+<!-- end list -->
+
   - SUNDAY SPARKLING NIGHT - 2012年4月8日 -
 
 <!-- end list -->
@@ -127,14 +136,26 @@
     日曜：23:00 - 27:00
     パーソナリティー：[新保友映](../Page/新保友映.md "wikilink")（当時：ニッポン放送アナウンサー）
 
+<!-- end list -->
+
+  - BonjourHappiness
+
+<!-- end list -->
+
+  -
+    平日：8:00 - 9:00 - 2015年4月1日 - 9月30日
+    パーソナリティー：月 - 水曜：中川倫子、木、金曜：髙島英里奈
+
 ## 脚注
 
-<references />
+### 注釈
+
+### 出典
 
 ## 関連項目
 
   - [LFX mudigi](../Page/LFX_mudigi.md "wikilink")
-  - [ニッポン放送 PODCAST STATION](https://ja.wikipedia.org/wiki/ニッポン放送_PODCAST_STATION "wikilink")
+  - [ニッポン放送 PODCAST STATION](../Page/ニッポン放送_PODCAST_STATION.md "wikilink")
   - [D-JOLF](../Page/D-JOLF.md "wikilink")
 
 ## 外部リンク
@@ -142,6 +163,8 @@
   - [公式サイト](https://web.archive.org/web/20180118152052/http://www.suono.jp/)2018年1月26日時点の[オリジナル](http://www.suono.jp/)よりアーカイブ
 
   -
+  - ※「Cafe_Dejeuner」番組公式アカウント
+
   -
   -
 [Category:ニッポン放送の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の歴史 "wikilink") [Category:かつて存在した日本のラジオ局](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のラジオ局 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink")
@@ -153,3 +176,8 @@
 5.
 6.
 7.
+8.
+9.  2011年3月31日は放送免許の有効期限満了のため、23:59で終了
+10. 金曜のみ12:00迄
+11. 金曜のみ15:00から
+12. ミッツ単独では無く、[星屑スキャット](https://ja.wikipedia.org/wiki/星屑スキャット "wikilink")メンバーで出演

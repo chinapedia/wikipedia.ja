@@ -19,7 +19,7 @@
   - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")）
   - [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")（[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")）
   - [岩手県](../Page/岩手県.md "wikilink")（[テレビ岩手](../Page/テレビ岩手.md "wikilink")）
-  - [秋田県](../Page/秋田県.md "wikilink")（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")）
+  - [秋田県](../Page/秋田県.md "wikilink")（[秋田放送](../Page/秋田放送.md "wikilink")）
   - [山形県](../Page/山形県.md "wikilink")（[山形放送](../Page/山形放送.md "wikilink")）
   - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")（[ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink")）
   - [福島県](../Page/福島県.md "wikilink")（[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")）
@@ -37,7 +37,7 @@
   - [山梨県](../Page/山梨県.md "wikilink")（[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")）
   - [静岡県](../Page/静岡県.md "wikilink")（[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")）
   - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")（[テレビ金沢](../Page/テレビ金沢.md "wikilink")）
-  - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")（[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")）
+  - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")（[北日本放送](../Page/北日本放送.md "wikilink")）
   - [福井県](../Page/福井県.md "wikilink")（[福井放送](../Page/福井放送.md "wikilink")）
   - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[岐阜県](../Page/岐阜県.md "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")
 

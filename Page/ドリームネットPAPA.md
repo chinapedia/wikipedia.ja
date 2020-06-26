@@ -111,7 +111,7 @@
 **[モンスター](https://ja.wikipedia.org/wiki/モンスター "wikilink")エッグ**
 
   -
-    [モニター](https://ja.wikipedia.org/wiki/モニター "wikilink")の中で[モンスター](https://ja.wikipedia.org/wiki/モンスター "wikilink")にエサを与えたり身の回りの世話をして好みのモンスターに育てていく[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+    [モニター](../Page/モニター.md "wikilink")の中で[モンスター](https://ja.wikipedia.org/wiki/モンスター "wikilink")にエサを与えたり身の回りの世話をして好みのモンスターに育てていく[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
     開発・製作代表者/五味ヒデハル
     第1話
 

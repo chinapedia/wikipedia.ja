@@ -53,8 +53,6 @@ SAPIX中学部を経営しているサピエンス研究所が経営している
 
 ## 脚注
 
-<references />
-
 ## 関連項目
 
   - [SAPIX小学部](https://ja.wikipedia.org/wiki/SAPIX小学部 "wikilink")

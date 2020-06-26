@@ -983,12 +983,12 @@ KSBL-5868（通常盤）</p></td>
 
 #### トリビュート参加作品
 
-| 発売日               | タイトル                                      | 規格品番         | 収録曲                   |
-| ----------------- | ----------------------------------------- | ------------ | --------------------- |
-| 2017年11月22日       | **TRIBUTE OF MUCC -縁 \[en\]-**            | MSHN-044〜045 | CLASSIC               |
-| 2018年6月6日         | **hide TRIBUTE IMPULSE**                  | UPCH-2162    | D.O.D. (DRINK OR DIE) |
-| 2020年5月13日 (配信限定) | **GRANRODEO Tribute Album "RODEO FREAK"** | LACA-15824   | modern strange cowboy |
-|                   |                                           |              |                       |
+| 発売日                                 | タイトル                                      | 規格品番         | 収録曲                   |
+| ----------------------------------- | ----------------------------------------- | ------------ | --------------------- |
+| 2017年11月22日                         | **TRIBUTE OF MUCC -縁 \[en\]-**            | MSHN-044〜045 | CLASSIC               |
+| 2018年6月6日                           | **hide TRIBUTE IMPULSE**                  | UPCH-2162    | D.O.D. (DRINK OR DIE) |
+| 2020年5月13日 (配信限定) 2020年8月19日 (CD発売) | **GRANRODEO Tribute Album "RODEO FREAK"** | LACA-15824   | modern strange cowboy |
+|                                     |                                           |              |                       |
 
 #### ゲスト参加作品
 

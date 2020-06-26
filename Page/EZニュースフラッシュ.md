@@ -1,7 +1,7 @@
 > この記事は[EZニュースフラッシュ](https://ja.wikipedia.org/wiki/EZニュースフラッシュ)から翻訳されています。
 
 
-**EZニュースフラッシュ**（イージーニュースフラッシュ）とは[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")及び[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink") が[BCMCS技術を利用してau携帯電話に最新ニュース](https://ja.wikipedia.org/wiki/CDMA2000_1x#BCMCS "wikilink")・天気などを配信するサービス。
+**EZニュースフラッシュ**（イージーニュースフラッシュ）とは[auブランドを展開の](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")及び[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink") が[BCMCS技術を利用してau携帯電話に最新ニュース](https://ja.wikipedia.org/wiki/CDMA2000_1x#BCMCS "wikilink")・天気などを配信していたサービス。2019年12月16日にサービス終了した\[1\]。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 自動更新される頻度は6:40、7:40、9:40、11:10、13:40、15:10、17:40、20:10、23:40である。ちなみに[2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")までは、朝6時から翌午前0時までの毎時10分と、午前0時40分に一日の最終版が配信されていた。
 
-[2009年](../Page/2009年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")からは、[KDDI](../Page/KDDI.md "wikilink")、[朝日新聞社](../Page/朝日新聞社.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の3社提携により、同サービスを発展させた、利用料有料の[EZニュースEX](https://ja.wikipedia.org/wiki/EZニュースEX "wikilink")が開始されている。
+[2009年](../Page/2009年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")からは、[KDDI](../Page/KDDI.md "wikilink")、[朝日新聞社](../Page/朝日新聞社.md "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の3社提携により、同サービスを発展させた、利用料有料の[EZニュースEX](https://ja.wikipedia.org/wiki/EZニュースEX "wikilink")が開始されたが、EZニュースフラッシュと同日に配信サービスを終了している。
 
 ## コンテンツ
 
@@ -49,6 +49,7 @@
   - [2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - サービス開始。
   - [2007年](../Page/2007年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink") - サービス開始から約5ヶ月半。利用者が100万人を突破。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月18日](../Page/3月18日.md "wikilink") - 利用者数1000万人を突破。
+  - [2019年](../Page/2019年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") - サービス終了\[2\]
 
 ## 同業他社の類似サービス
 
@@ -56,8 +57,15 @@
   - [S\!速報ニュース](../Page/S!速報ニュース.md "wikilink")（[SoftBank](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink") [3G端末](../Page/SoftBank_3G.md "wikilink")） - ニュース配信は[読売新聞](../Page/読売新聞.md "wikilink")
   - [ステーション](../Page/ステーション_\(ソフトバンクモバイル\).md "wikilink")（SoftBank 2G・2.5端末） - 類似サービスでは唯一、端末位置情報を利用する。ニュース配信は[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")。2010年3月末でサービスを終了した。
 
+## 脚注
+
+<references />
+
 ## 外部リンク
 
   - [EZニュースフラッシュ](https://www.au.com/mobile/service/news-flash/)
 
 [Category:携帯電話](https://ja.wikipedia.org/wiki/Category:携帯電話 "wikilink") [Category:携帯電話関連のスタブ項目](https://ja.wikipedia.org/wiki/Category:携帯電話関連のスタブ項目 "wikilink") [Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink") [Category:携帯電話アプリ](https://ja.wikipedia.org/wiki/Category:携帯電話アプリ "wikilink")
+
+1.
+2.

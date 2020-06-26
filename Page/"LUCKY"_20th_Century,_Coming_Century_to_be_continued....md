@@ -58,22 +58,24 @@
         作詞：[谷亜ヒロコ](https://ja.wikipedia.org/wiki/谷亜ヒロコ "wikilink")、作曲：川上明彦、編曲：[石塚知生](../Page/石塚知生.md "wikilink")
 12. **Coming Century Non-stop Remix** - Coming Century
     1.  **[夏のかけら](../Page/夏のかけら_\(Coming_Centuryの曲\).md "wikilink")**
+          - Coming Century 1stシングル
     2.  **[Yo\! You\!\!](../Page/自由であるために.md "wikilink")**
+          - 13thシングルカップリング
     3.  **[Happy together\!](https://ja.wikipedia.org/wiki/?_-question- "wikilink")**
+          - VHS/DVD「? -question-」収録曲
     <!-- end list -->
       -
         編曲：[横田商会](../Page/横田商会_\(DJユニット\).md "wikilink")
-    <!-- end list -->
-      - Coming Century 1stシングル・13thシングルカップリング・Coming Century VHS/DVD「? -question-」収録曲のメドレー
 13. **20th Century Non-stop Remix** - 20th Century
     1.  **[FLY TO THE WORLD\!](../Page/翼になれ.md "wikilink")**
+          - 10thシングル「翼になれ」カップリング
     2.  **[always](../Page/Be_Yourself!.md "wikilink")**
+          - 9thシングル「Be Yourself\!」カップリング
     3.  **[OPEN THE GATE](../Page/Believe_Your_Smile.md "wikilink")**
+          - 12thシングルカップリング
     <!-- end list -->
       -
         編曲：[M.I.D.](https://ja.wikipedia.org/wiki/Mixs_International_DJ "wikilink")
-    <!-- end list -->
-      - 10thシングル「翼になれ」・9thシングル「Be Yourself\!」・12thシングルカップリングのメドレー
 
 ## 脚注
 

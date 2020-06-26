@@ -22,7 +22,7 @@
   - [2012年](../Page/2012年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - 「[ゲーマーズワン](https://ja.wikipedia.org/wiki/ゲーマーズワン "wikilink")」「[ミックスマスター](../Page/ミックスマスター.md "wikilink")」の運営権は再びSeedCに。
   - 2013年[1月31日](../Page/1月31日.md "wikilink") - 「[WarRock](../Page/WarRock.md "wikilink")」の運営権は再びSeedCに。
   - 2014年[4月17日](../Page/4月17日.md "wikilink") - 「[WarRock](../Page/WarRock.md "wikilink")」の運営権をUtoPlanetへ。
-  - 2014年[8月27日](../Page/8月27日.md "wikilink") - 「[ミックスマスター](../Page/ミックスマスター.md "wikilink")」の運営権をマイルズポートへ移管と発表。のちに運営権はローズオンラインジャパンへ。
+  - 2014年[8月27日](../Page/8月27日.md "wikilink") - 「[ミックスマスター](../Page/ミックスマスター.md "wikilink")」の運営権をマイルズポートへ移管と発表。のちに運営権は[ローズオンラインジャパン](../Page/ローズオンラインジャパン.md "wikilink")へ。
   - 2015年[7月1日](../Page/7月1日.md "wikilink") - 「[ゲーマーズワン](https://ja.wikipedia.org/wiki/ゲーマーズワン "wikilink")」事業および運営権をアルファスターインベストメントおよびグローバルシステムズへ譲渡。
 
 ## 事業内容
@@ -43,4 +43,4 @@
   - [SeedC株式会社](http://www.seedc.co.jp/)
   - [Webゲー](http://www.webga.jp/)
 
-[Category:かつて存在したオンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:かつて存在したオンラインゲーム運営元 "wikilink") [Category:ソリューションサービス業](https://ja.wikipedia.org/wiki/Category:ソリューションサービス業 "wikilink") [Category:インターネット付随サービス業](https://ja.wikipedia.org/wiki/Category:インターネット付随サービス業 "wikilink") [Category:大阪市中央区の企業](https://ja.wikipedia.org/wiki/Category:大阪市中央区の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:SeedC](https://ja.wikipedia.org/wiki/Category:SeedC "wikilink")
+[Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:かつて存在したオンラインゲーム運営元](https://ja.wikipedia.org/wiki/Category:かつて存在したオンラインゲーム運営元 "wikilink") [Category:ソリューションサービス業](https://ja.wikipedia.org/wiki/Category:ソリューションサービス業 "wikilink") [Category:インターネット付随サービス業](https://ja.wikipedia.org/wiki/Category:インターネット付随サービス業 "wikilink") [Category:大阪市中央区の企業](https://ja.wikipedia.org/wiki/Category:大阪市中央区の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink") [Category:SeedC](https://ja.wikipedia.org/wiki/Category:SeedC "wikilink")

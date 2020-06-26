@@ -68,7 +68,7 @@
   - 笹井一磨 - [福本清三](../Page/福本清三.md "wikilink")
   - 戦車の郎党 - [田中要次](../Page/田中要次.md "wikilink")
   - 医者 - 矢沢幸治
-  - 東郷源八郎 - 高岡蒼佑（現：[高岡奏輔](https://ja.wikipedia.org/wiki/高岡奏輔 "wikilink")）　
+  - 東郷源八郎 - [高岡蒼佑](https://ja.wikipedia.org/wiki/高岡蒼佑 "wikilink")　
   - 剣を持つ男 - [照英](../Page/照英.md "wikilink")
   - 倉庫の見張り - [森雪之丞](../Page/森雪之丞.md "wikilink")
   - 戦車を操縦する男 - 高橋祐爾

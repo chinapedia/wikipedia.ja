@@ -1,7 +1,7 @@
 > この記事は[SMAP 012 VIVA AMIGOS!](https://ja.wikipedia.org/wiki/SMAP_012_VIVA_AMIGOS!)から翻訳されています。
 
 
-『**SMAP 012 VIVA AMIGOS\!**』（スマップ ゼロワンツー ビバ アミーゴス\!）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の11作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月18日](../Page/6月18日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
+『**SMAP 012 VIVA AMIGOS\!**』（スマップ ゼロワンツー ビバ アミーゴス\!）は、[SMAP](../Page/SMAP.md "wikilink")の11作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月18日](../Page/6月18日.md "wikilink")に[ビクターエンタテインメントから発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。
 
 ## 解説
 

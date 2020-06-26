@@ -70,7 +70,7 @@ Blendtec社の創設者 [トーマス・ディクソン](https://ja.wikipedia.or
       - [野球ボール](https://ja.wikipedia.org/wiki/野球ボール "wikilink")
       - [フットボール](../Page/フットボール.md "wikilink")
       - フットボールの[ティー](https://ja.wikipedia.org/wiki/ティー "wikilink")
-      - [ホッケー](../Page/ホッケー.md "wikilink")の[パック](https://ja.wikipedia.org/wiki/パック "wikilink")
+      - [ホッケー](../Page/ホッケー.md "wikilink")の[パック](../Page/パック.md "wikilink")
       - [たいまつ](../Page/たいまつ.md "wikilink") - 着火したまま
       - [ケミカルライト](../Page/ケミカルライト.md "wikilink")
       - [スキー板](https://ja.wikipedia.org/wiki/スキー板 "wikilink")

@@ -11,7 +11,7 @@
 
 [R\&Bやダンスチューンを配したこのアルバムは](../Page/リズム・アンド・ブルース.md "wikilink")、映画『[シュリ](../Page/シュリ.md "wikilink")』の[カン・ジェギュ](../Page/カン・ジェギュ.md "wikilink")監督に撮影された[PVによってプロモーション展開され](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")、各種[チャート](https://ja.wikipedia.org/wiki/チャート "wikilink")でのトップ10入りを果たした。
 
-  - 2000年9月13日-[2001年](../Page/2001年.md "wikilink")12月31日にかけての韓国3大[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")の一角[SBS（ソウル放送）の歌番組](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")「<span lang="ko">생방송 인기가요 20</span>（生放送 人気歌謡20）」におけるレギュラー[VJへの起用](../Page/ビデオジョッキー.md "wikilink")
+  - 2000年9月13日-[2001年](../Page/2001年.md "wikilink")12月31日にかけての韓国3大[キー局](../Page/キー局.md "wikilink")の一角[SBS（ソウル放送）の歌番組](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")「<span lang="ko">생방송 인기가요 20</span>（生放送 人気歌謡20）」におけるレギュラー[VJへの起用](../Page/ビデオジョッキー.md "wikilink")
   - 2000年11月24日に音楽情報専門チャンネル「[m-net](https://ja.wikipedia.org/wiki/m-net "wikilink")」の「2000 M.net Music Video Festival」 における「女性新人賞」受賞
   - 2000年12月13日は[KMTV](https://ja.wikipedia.org/wiki/KMTV "wikilink")の 「2000 KMTV 歌謡大典」における「今年の女性新人賞」受賞
   - 2000年10月-2001年3月においては、多数の[CMモデル契約を行った](../Page/コマーシャルメッセージ.md "wikilink")。

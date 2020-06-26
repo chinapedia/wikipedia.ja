@@ -495,8 +495,9 @@ STEREO DIVE FOUNDATION\[2\]
   - 2015年7月～12月 [TOKYO MX他UHF局](../Page/東京メトロポリタンテレビジョン.md "wikilink")「[アクエリオンロゴス](https://ja.wikipedia.org/wiki/アクエリオンロゴス "wikilink")」
   - 2018年1月～3月 TOKYO MX他「[働くお兄さん\!](https://ja.wikipedia.org/wiki/働くお兄さん! "wikilink")」
   - 2018年7月～ TOKYO MX他「働くお兄さん\!の２\!」(11話「カラオケ屋のお兄さん！」では声優としても出演)
-  - 2019年1月〜3月 「[魔法少女特殊戦あすか](https://ja.wikipedia.org/wiki/魔法少女特殊戦あすか "wikilink")」
-  - 2019年7月〜 「[トライナイツ](https://ja.wikipedia.org/wiki/トライナイツ "wikilink")」
+  - 2019年1月〜3月 「[魔法少女特殊戦あすか](https://ja.wikipedia.org/wiki/魔法少女特殊戦あすか "wikilink")」\[4\]
+  - 2019年7月〜10月 「[トライナイツ](https://ja.wikipedia.org/wiki/トライナイツ "wikilink")」
+  - 2021年4月〜 「[転スラ日記 転生したらスライムだった件](https://ja.wikipedia.org/wiki/転スラ日記_転生したらスライムだった件 "wikilink")」
 
 ### 映画
 
@@ -550,3 +551,4 @@ STEREO DIVE FOUNDATION\[2\]
 1.  [OLDCODEX Official Website|BIO](http://www.oldcodex.com/bio.php)
 2.  R・O・N名義の[サウンドトラック](../Page/サウンドトラック.md "wikilink")は含まない。
 3.  楽曲が起用された年ではなく、音源化された年で明記。
+4.

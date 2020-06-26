@@ -42,4 +42,4 @@
   - [HEIWAの鐘 【合唱】 歌詞付き](https://www.youtube.com/watch?v=0QjQC7-0s1M)（混成三部合唱） - YouTube
   - [HEIWAの鐘（byユキヒロ）](https://www.youtube.com/watch?v=Uq0Xmo-HSfg)（原曲・本人歌唱） - YouTube
 
-[Category:学校唱歌](https://ja.wikipedia.org/wiki/Category:学校唱歌 "wikilink") [Category:日本の合唱曲](https://ja.wikipedia.org/wiki/Category:日本の合唱曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:鐘を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:鐘を題材とした楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink")
+[Category:学校唱歌](https://ja.wikipedia.org/wiki/Category:学校唱歌 "wikilink") [Category:日本の合唱曲](https://ja.wikipedia.org/wiki/Category:日本の合唱曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:平和を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:平和を題材とした楽曲 "wikilink") [Category:鐘を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:鐘を題材とした楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink")

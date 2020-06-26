@@ -193,7 +193,7 @@
 
   - [公式サイト](http://www.toei-anim.co.jp/movie/2006_precureSS/)
 
-[Category:プリキュアシリーズの映画作品](https://ja.wikipedia.org/wiki/Category:プリキュアシリーズの映画作品 "wikilink") [Category:2006年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2006年のアニメ映画 "wikilink") [Category:志水淳児の監督映画](https://ja.wikipedia.org/wiki/Category:志水淳児の監督映画 "wikilink") [Category:佐藤直紀の作曲映画](https://ja.wikipedia.org/wiki/Category:佐藤直紀の作曲映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:プリキュアシリーズの映画作品](https://ja.wikipedia.org/wiki/Category:プリキュアシリーズの映画作品 "wikilink") [Category:2006年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2006年のアニメ映画 "wikilink") [Category:志水淳児の監督映画](https://ja.wikipedia.org/wiki/Category:志水淳児の監督映画 "wikilink") [Category:佐藤直紀の作曲映画](https://ja.wikipedia.org/wiki/Category:佐藤直紀の作曲映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink") [Category:時計を題材とした作品](https://ja.wikipedia.org/wiki/Category:時計を題材とした作品 "wikilink")
 
 1.  「パンプキン王国のたからもの」は『[映画 Go\!プリンセスプリキュア Go\!Go\!\!豪華3本立て\!\!\!](https://ja.wikipedia.org/wiki/映画_Go!プリンセスプリキュア_Go!Go!!豪華3本立て!!! "wikilink")』の1本として上映されており、3本合わせると約75分と歴代最長となっている。
 2.  オールスターズDX3ではブルームから砂漠の迷路と呼称。

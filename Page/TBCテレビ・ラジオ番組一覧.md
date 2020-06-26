@@ -14,7 +14,7 @@
 <!-- end list -->
 
   -
-    現在はTBC・[ATV](../Page/青森テレビ.md "wikilink")\[1\]・[IBC](../Page/IBC岩手放送.md "wikilink")・[TUY](../Page/テレビユー山形.md "wikilink")・[TUF](../Page/テレビユー福島.md "wikilink")・[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[TUT](../Page/チューリップテレビ.md "wikilink")、[CBCの](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")8局ネット。過去には[HBC](https://ja.wikipedia.org/wiki/HBC北海道放送 "wikilink")・[ABSでも放送されていた](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（HBCは2016年3月まで放送、ABSは2009年2月〜3月に放送。なお、終了したHBCを含め、いくつかのTBS系列局で不定期あるいは単発で放送することがある）。
+    現在はTBC・[ATV](../Page/青森テレビ.md "wikilink")\[1\]・[IBC](../Page/IBC岩手放送.md "wikilink")・[TUY](../Page/テレビユー山形.md "wikilink")・[TUF](../Page/テレビユー福島.md "wikilink")・[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[TUT](../Page/チューリップテレビ.md "wikilink")、[CBCの](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")8局ネット。過去には[HBC](https://ja.wikipedia.org/wiki/HBC北海道放送 "wikilink")・[ABSでも放送されていた](../Page/秋田放送.md "wikilink")（HBCは2016年3月まで放送、ABSは2009年2月〜3月に放送。なお、終了したHBCを含め、いくつかのTBS系列局で不定期あるいは単発で放送することがある）。
 
 <!-- end list -->
 
@@ -71,13 +71,11 @@
 JNN28局同時ネット番組については省略。
 
   - [ゴゴスマ -GO GO\!Smile\!-](https://ja.wikipedia.org/wiki/ゴゴスマ_-GO_GO!Smile!- "wikilink")（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、月曜 - 金曜 13:55 - 15:40 同時ネット）
-  - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（MBS制作、月曜 25:00 - 26:00）
-  - [本能Z](https://ja.wikipedia.org/wiki/本能Z "wikilink")（CBC制作、火曜 25:00 - 26:00）
   - [JNNドキュメンタリー ザ・フォーカス](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（JNN各局制作のドキュメント番組、隔週火曜 26:10 - 26:40）
-  - [戦え\!スポーツ内閣](https://ja.wikipedia.org/wiki/戦え!スポーツ内閣 "wikilink")（MBS制作、水曜 23:56 - 24:55）
-  - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")（MBS制作、水曜 25:00 - 26:00）
+  - [戦え\!スポーツ内閣](https://ja.wikipedia.org/wiki/戦え!スポーツ内閣 "wikilink")（MBS制作、水曜 23:56 - 24:55 同時ネット）
   - [皇室アルバム](../Page/皇室アルバム.md "wikilink")（MBS制作、日曜 6:30 - 6:45）
   - [キユーピー3分クッキング](../Page/キユーピー3分クッキング.md "wikilink")（CBC制作、月曜 - 金曜 11:20 - 11:30・土曜 12:00 - 12:10）※HV
+  - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")（MBS制作、土曜 25:28 - 26:28）
 
 ### TBS系列深夜番組
 
@@ -92,11 +90,10 @@ JNN28局同時ネット番組については省略。
 
 ### テレビ東京系列の番組
 
+  - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（水曜 25:00 - 25:30）
   - [流派-R SINCE2001](../Page/流派-R.md "wikilink")（木曜 26:10 - 26:40）
-  - [ポチっと発明 ピカちんキット](https://ja.wikipedia.org/wiki/ポチっと発明_ピカちんキット "wikilink")（土曜 5:00 - 5:30）
   - [YOUは何しに日本へ?](https://ja.wikipedia.org/wiki/YOUは何しに日本へ? "wikilink")（土曜 15:00 - 15:54 - 休止の場合あり）
   - [ありえへん∞世界](../Page/ありえへん∞世界.md "wikilink")（土曜 16:00 - 17:00 - 休止の場合あり）
-  - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（土曜 26:08 - 26:38）
   - [世界\!ニッポン行きたい人応援団](https://ja.wikipedia.org/wiki/世界!ニッポン行きたい人応援団 "wikilink")（日曜 14:00 - 15:00 - 休止の場合あり）
   - [たけしのニッポンのミカタ\!](https://ja.wikipedia.org/wiki/たけしのニッポンのミカタ! "wikilink")（日曜 16:00 - 16:54 - 休止の場合あり）
 
@@ -227,7 +224,7 @@ JNN28局同時ネット番組については省略。
   - [サンデー競馬実況中継](../Page/中央競馬実況中継_\(日経ラジオ社\).md "wikilink")([ラジオNIKKEI第1](../Page/日経ラジオ社.md "wikilink"))（日曜15時00分〜16時00分）　※永らく日曜午後のワイド番組に内包されていたが、2014年10月5日より独立番組化。2015年4月5日よりワイド番組に再び含まれる。2018年10月7日より再び独立番組化。2020年3月29日まではレース実況部分のみラジオNIKKEIからのネット\[3\]だったが、2020年4月5日より全編ラジオNIKKEIからのネット受けとなった。
   - [サンドウィッチマンの東北魂](https://ja.wikipedia.org/wiki/サンドウィッチマンの東北魂 "wikilink")(LF)（月曜16時40分〜16時50分頃）
   - [柴田阿弥](https://ja.wikipedia.org/wiki/柴田阿弥 "wikilink")とオテンキのりのジャパン5.0(QR)（2020年4月6日開始、日曜10時15分〜10時30分）○
-  - [志の輔&雷鳥のなんでか?ニッポン](https://ja.wikipedia.org/wiki/志の輔&雷鳥のなんでか?ニッポン "wikilink")([KNB](https://ja.wikipedia.org/wiki/北日本放送 "wikilink"))（2018年4月8日開始、日曜18時00分〜18時30分）
+  - [志の輔&雷鳥のなんでか?ニッポン](https://ja.wikipedia.org/wiki/志の輔&雷鳥のなんでか?ニッポン "wikilink")([KNB](../Page/北日本放送.md "wikilink"))（2018年4月8日開始、日曜18時00分〜18時30分）
   - [ジャガーズの](https://ja.wikipedia.org/wiki/ジャガーズ_\(お笑い\) "wikilink")“ジャニー通”（2020年4月4日開始、土曜21時45分〜22時00分）○
   - [週刊 なるほど\!ニッポン](https://ja.wikipedia.org/wiki/週刊_なるほど!ニッポン "wikilink")(LF)（2018年4月8日開始、日曜5時00分〜5時10分）
   - 旬\!SHUN\!ピックアップ（2018年4月1日開始、日曜6時45分〜7時00分）
@@ -456,7 +453,7 @@ JNN28局同時ネット番組については省略。
   - イチコロ（[Ai](../Page/Ai+BAND.md "wikilink")、[相越久枝](../Page/相越久枝.md "wikilink")）
   - イブニングスペース
   - NOW（いま）も現役　大人のラジオ（2007年10月7日〜2010年4月4日、日曜13:00〜17:00 東北楽天ゴールデンイーグルスデーゲーム中継がある場合は15:00〜）
-  - [岩崎宏美](../Page/岩崎宏美.md "wikilink")の清月記歴史紀行（月～金9:35〜40頃）　※[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")以後TBCラジオでは放送を休止しそのまま終了したが、2011年4月より2012年3月まで「岩崎宏美の『歴史紀行』」として[RSKで放送された](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")。
+  - [岩崎宏美](../Page/岩崎宏美.md "wikilink")の清月記歴史紀行（月～金9:35〜40頃）　※[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")以後TBCラジオでは放送を休止しそのまま終了したが、2011年4月より2012年3月まで「岩崎宏美の『歴史紀行』」として[RSKで放送された](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")。
   - インディーズINDEX
   - 歌倶楽部
   - ウィークエンドワイドNow\!Now\!Now\!
@@ -508,7 +505,7 @@ JNN28局同時ネット番組については省略。
 
   -
     2010年11月から2011年3月まで[Date fmで](../Page/エフエム仙台.md "wikilink")「清塚信也 サタデー・ピアノラウンジ」として放送されていた。
-    2012年10月より2014年3月まで[CBCに](../Page/CBCラジオ.md "wikilink")、2013年4月より[YBS](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[RNC](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")（2014年9月まで）、[RCC](../Page/中国放送.md "wikilink")（2015年9月まで）に、2013年10月より[RSKに](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")、2015年4月より9月まで[SBSに](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、2015年8月より2017年12月まで[ABSに](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")、2016年4月よりRNC、[RNB](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（2017年9月まで）、[RKKに](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、2017年4月より[RKCに](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、2018年1月より[SBCに](../Page/信越放送.md "wikilink")、2018年4月よりABS、[KBS京都にネットしていた](../Page/京都放送.md "wikilink")。
+    2012年10月より2014年3月まで[CBCに](../Page/CBCラジオ.md "wikilink")、2013年4月より[YBS](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[RNC](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")（2014年9月まで）、[RCC](../Page/中国放送.md "wikilink")（2015年9月まで）に、2013年10月より[RSKに](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、2015年4月より9月まで[SBSに](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、2015年8月より2017年12月まで[ABSに](../Page/秋田放送.md "wikilink")、2016年4月よりRNC、[RNB](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（2017年9月まで）、[RKKに](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、2017年4月より[RKCに](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、2018年1月より[SBCに](../Page/信越放送.md "wikilink")、2018年4月よりABS、[KBS京都にネットしていた](../Page/京都放送.md "wikilink")。
 
 <!-- end list -->
 
@@ -572,7 +569,7 @@ JNN28局同時ネット番組については省略。
   - ずん[飯尾和樹](../Page/飯尾和樹.md "wikilink")バウンド・トゥ・トーク（2014年4月19日-2015年3月7日）
       - [ずん](../Page/ずん.md "wikilink")のぞんざいラジオ「二畳半の小部屋から・・・」（2015年4月18日-2019年3月24日、月曜23時00分〜23時20分）
   - 清月記「明日への言葉」（2013年9月30日-2019年12月31日、11時26分〜11時28分頃）
-  - 清月記ことばの時間（TBCラジオでは2010年3月で終了したが、2009年10月より「岩崎宏美の『ことばの時間』」として[HBCラジオ](../Page/HBCラジオ.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")で放送を開始し、2010年4月現在放送されている）
+  - 清月記ことばの時間（TBCラジオでは2010年3月で終了したが、2009年10月より「岩崎宏美の『ことばの時間』」として[HBCラジオ](../Page/HBCラジオ.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[山陽放送](https://ja.wikipedia.org/wiki/RSKラジオ "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")で放送を開始し、2010年4月現在放送されている）
   - 清月記 The Songs（2011年12月4日-2013年9月29日、日曜10:20〜10:35　担当:[岩崎宏美](../Page/岩崎宏美.md "wikilink")）
   - 清月記マナーアップレッスン（「ことばの時間」の前身番組）
   - [sendai☆syrup](https://ja.wikipedia.org/wiki/sendai☆syrup "wikilink")のホップシロップジャンプ\!（2015年9月7日-2016年12月26日、月曜20:30〜21:00）
@@ -929,6 +926,7 @@ JNN28局同時ネット番組については省略。
   - [BLEACH－ブリーチ](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")(途中でネット打ち切り)
   - [ジュエルペット](https://ja.wikipedia.org/wiki/ジュエルペット_\(アニメ\) "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")製作、第1シリーズのみ放映）
   - [スナックワールド](https://ja.wikipedia.org/wiki/スナックワールド "wikilink")
+  - [ポチっと発明 ピカちんキット](https://ja.wikipedia.org/wiki/ポチっと発明_ピカちんキット "wikilink")
 
 </div>
 

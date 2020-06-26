@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[TSB Newsリアルタイム](../Page/TSB_Newsリアルタイム.md "wikilink")』をリニューアルする形で[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に放送を開始。番組タイトルから『[リアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")』が外れ、独自タイトルが採用されている。[2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")までは『**TSB NEWS 報道ゲンバ**』（ティーエスビー ニュース ほうどうゲンバ）の題名だった。
+『[TSB Newsリアルタイム](../Page/TSB_Newsリアルタイム.md "wikilink")』をリニューアルする形で[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に放送を開始。番組タイトルから『[リアルタイム](../Page/NNN_Newsリアルタイム.md "wikilink")』が外れ、独自タイトルが採用されている。[2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")までは『**TSB NEWS 報道ゲンバ**』（ティーエスビー ニュース ほうどうゲンバ）の題名だった。
 
 メインキャスターは『TSB Newsリアルタイム』から[伊東秀一](../Page/伊東秀一.md "wikilink")と[加納美也子](../Page/加納美也子.md "wikilink")の両[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が続投。また、スタジオセットも前番組とほぼそのままの状態で使用されているが、番組のオープニングやテロップ・BGMなどが一新されている。
 

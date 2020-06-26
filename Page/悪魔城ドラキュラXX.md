@@ -1,7 +1,7 @@
 > この記事は[悪魔城ドラキュラXX](https://ja.wikipedia.org/wiki/悪魔城ドラキュラXX)から翻訳されています。
 
 
-『**悪魔城ドラキュラXX**』（あくまじょうドラキュラ ダブルエックス、北米: *[Castlevania: Dracula X](https://ja.wikipedia.org/wiki/:en:Castlevania:_Dracula_X "wikilink")*、欧州: *Castlevania: Vampire's Kiss*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から1995年7月21日に発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフトのアクションゲーム。[PCエンジン](../Page/PCエンジン.md "wikilink")版の『[悪魔城ドラキュラX 血の輪廻](../Page/悪魔城ドラキュラX_血の輪廻.md "wikilink")』を、ステージ構成やデモシーンなどを大きく変更してリメイク移植したもの。
+『**悪魔城ドラキュラXX**』（あくまじょうドラキュラ ダブルエックス、北米: *[Castlevania: Dracula X](https://ja.wikipedia.org/wiki/:en:Castlevania:_Dracula_X "wikilink")*、欧州: *Castlevania: Vampire's Kiss*）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月21日](../Page/7月21日.md "wikilink")に発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフトの[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[PCエンジン](../Page/PCエンジン.md "wikilink")版の『[悪魔城ドラキュラX 血の輪廻](../Page/悪魔城ドラキュラX_血の輪廻.md "wikilink")』を、ステージ構成やデモシーンなどを大きく変更してリメイク移植したもの。
 
 [任天堂](../Page/任天堂.md "wikilink")と[ローソン](../Page/ローソン.md "wikilink")によるスーパーファミコン用ゲームソフト書き換えサービス「[ニンテンドウパワー](../Page/ニンテンドウパワー.md "wikilink")」では、1997年9月30日のサービス開始時から書き換えソフトのラインナップに入っていた。
 

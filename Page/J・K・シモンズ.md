@@ -877,6 +877,10 @@ German Agent、Bystander</p></td>
 </tbody>
 </table>
 
+## 日本語吹き替え
+
+[立川三貴](../Page/立川三貴.md "wikilink")が最も多く担当している。
+
 ## 参照
 
 ## 外部リンク

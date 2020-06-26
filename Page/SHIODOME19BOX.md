@@ -17,7 +17,7 @@ SHIODOME 19BOXは、主に日本テレビの[生放送](../Page/生放送.md "wi
 （丸新ビル新館での編集を含む）
 
   - [NEWS ZERO → news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")　スポーツニュース・コーナー
-  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")
+  - [スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")
   - [ズームイン\!\!SUPER](https://ja.wikipedia.org/wiki/ズームイン!!SUPER "wikilink")
   - [ズームイン\!\!サタデー](../Page/ズームイン!!サタデー.md "wikilink")
   - [THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")

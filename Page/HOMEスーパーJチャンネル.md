@@ -38,12 +38,12 @@
 
 ### スーパーJチャンネル（週末の広島ローカルパート）
 
-  - シフト勤務
+  - 中谷美佐子 ほか
 
 ## 関連項目
 
   - [HOMEステーションEYE](https://ja.wikipedia.org/wiki/HOMEステーションEYE "wikilink")（前番組）
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [ひろしまVOICE](https://ja.wikipedia.org/wiki/ひろしまVOICE "wikilink")（後番組）
 
 [Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:広島ホームテレビの番組](https://ja.wikipedia.org/wiki/Category:広島ホームテレビの番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

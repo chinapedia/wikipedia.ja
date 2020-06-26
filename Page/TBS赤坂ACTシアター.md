@@ -1,11 +1,11 @@
 > この記事は[TBS赤坂ACTシアター](https://ja.wikipedia.org/wiki/TBS赤坂ACTシアター)から翻訳されています。
 
 
-**TBS赤坂ACTシアター**（ティービーエスあかさかあくとシアター、）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")・[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")内にある劇場である。座席数1,324席。赤坂ミュージカル劇場、赤坂ACTシアターを経て、現在の劇場名となった。
+**TBS赤坂ACTシアター**（ティービーエスあかさかあくとシアター、）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂](../Page/赤坂_\(東京都港区\).md "wikilink")・[赤坂サカス](../Page/赤坂サカス.md "wikilink")内にある劇場である。座席数1,324席。赤坂ミュージカル劇場、赤坂ACTシアターを経て、現在の劇場名となった。
 
 ## 概要
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に、東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）旧社屋跡地で行われていた再開発計画、[赤坂サカス](https://ja.wikipedia.org/wiki/赤坂サカス "wikilink")の中核となる文化施設の一つとして、同じく一時閉鎖されていたライブハウス[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")に隣接して（新）赤坂ACTシアターが開業した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に、東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）旧社屋跡地で行われていた再開発計画、[赤坂サカス](../Page/赤坂サカス.md "wikilink")の中核となる文化施設の一つとして、同じく一時閉鎖されていたライブハウス[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")に隣接して（新）赤坂ACTシアターが開業した。
 
 初公演は、[熊川哲也](../Page/熊川哲也.md "wikilink")率いる[Kバレエカンパニー](https://ja.wikipedia.org/wiki/Kバレエカンパニー "wikilink")による新作バレエ 『[ベートーヴェン第九](../Page/交響曲第9番_\(ベートーヴェン\).md "wikilink")』である（2008年（平成20年）[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - [20日](../Page/3月20日.md "wikilink")）\[1\]。
 

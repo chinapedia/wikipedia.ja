@@ -89,7 +89,7 @@ KPMGという名は略称ではなく、KPMGへと合併した会計事務所を
   - 吉原寛章 - 元KPMGインターナショナル 副会長、Permira シニア・アドバイザー
   - [木村剛](../Page/木村剛_\(コンサルタント\).md "wikilink") - 元[日本振興銀行](../Page/日本振興銀行.md "wikilink")社長
   - [白石洋一](https://ja.wikipedia.org/wiki/白石洋一 "wikilink") - 衆議院議員
-  - [渡辺章博](https://ja.wikipedia.org/wiki/渡辺章博 "wikilink") - [GCA創設者](../Page/GCA_\(企業\).md "wikilink")、代表取締役社長
+  - [渡辺章博](../Page/渡辺章博.md "wikilink") - [GCA創設者](../Page/GCA_\(企業\).md "wikilink")、代表取締役社長
 
 ## 脚注
 

@@ -173,7 +173,7 @@
   - 2012年[12月21日](../Page/12月21日.md "wikilink") - [キミへ贈る、ソラの花](https://ja.wikipedia.org/wiki/キミへ贈る、ソラの花 "wikilink")
   - 2014年[10月31日](../Page/10月31日.md "wikilink") - [箱庭ロジック](https://ja.wikipedia.org/wiki/箱庭ロジック "wikilink")
   - 2016年[6月24日](../Page/6月24日.md "wikilink") - [箱庭ロジック](https://ja.wikipedia.org/wiki/箱庭ロジック "wikilink")〜瑚子といちゃらぶSM生活〜
-  - 2020年6月26日 - [鍵を隠したカゴのトリ -Bird in cage hiding the key-](https://ja.wikipedia.org/wiki/鍵を隠したカゴのトリ_-Bird_in_cage_hiding_the_key- "wikilink")
+  - 2020年8月28日 - [鍵を隠したカゴのトリ -Bird in cage hiding the key-](https://ja.wikipedia.org/wiki/鍵を隠したカゴのトリ_-Bird_in_cage_hiding_the_key- "wikilink")
 
 ### Carol Works
 

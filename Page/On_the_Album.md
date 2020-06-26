@@ -173,6 +173,6 @@
 ## 番組休止日
 
   - 2007年[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") - 「Netz Super Live JFN Human Conscious Choice～Unity Special」放送のため
-  - 2008年[1月5日](../Page/1月5日.md "wikilink") - 「第3回日本放送文化大賞ラジオ番組部門のグランプリ受賞作品 [SCHOOL OF LOCK\!課外授業](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")『親子問題』3日目」放送のため
+  - 2008年[1月5日](../Page/1月5日.md "wikilink") - 「第3回日本放送文化大賞ラジオ番組部門のグランプリ受賞作品 [SCHOOL OF LOCK\!課外授業](../Page/SCHOOL_OF_LOCK!.md "wikilink")『親子問題』3日目」放送のため
 
 [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組の歴史 "wikilink") [Category:ラジオのトーク番組](https://ja.wikipedia.org/wiki/Category:ラジオのトーク番組 "wikilink") [Category:ゴスペラーズ](https://ja.wikipedia.org/wiki/Category:ゴスペラーズ "wikilink")

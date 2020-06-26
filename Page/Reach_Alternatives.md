@@ -89,12 +89,12 @@ NGO能力強化・ネットワーク整備 [1](http://www.jccp.gr.jp/biz/oversea
 
   - [柴田秀孝](https://ja.wikipedia.org/wiki/柴田秀孝 "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [特定非営利活動法人　Reach Alternatives](http://www.jccp.gr.jp/)
   - [紛争地のアンテナ](http://ameblo.jp/seyarumi/)（[瀬谷ルミ子](https://ja.wikipedia.org/wiki/瀬谷ルミ子 "wikilink")ブログ）
-
-## 脚注
 
 [Category:認定特定非営利活動法人](https://ja.wikipedia.org/wiki/Category:認定特定非営利活動法人 "wikilink") [Category:人道援助関連の組織](https://ja.wikipedia.org/wiki/Category:人道援助関連の組織 "wikilink")
 

@@ -15,7 +15,7 @@
 
   - チェリー・ダーリン - [ローズ・マッゴーワン](../Page/ローズ・マッゴーワン.md "wikilink")（[岡本麻弥](../Page/岡本麻弥.md "wikilink")）
   - エル・レイ - [フレディ・ロドリゲス](../Page/フレディ・ロドリゲス.md "wikilink")（[中井和哉](../Page/中井和哉.md "wikilink")）
-  - ウィリアム・ブロック（医師） - [ジョシュ・ブローリン](https://ja.wikipedia.org/wiki/ジョシュ・ブローリン "wikilink")（[手塚秀彰](../Page/手塚秀彰.md "wikilink")）
+  - ウィリアム・ブロック（医師） - [ジョシュ・ブローリン](../Page/ジョシュ・ブローリン.md "wikilink")（[手塚秀彰](../Page/手塚秀彰.md "wikilink")）
   - ダコタ・マクグロウ・ブロック（医師） - [マーリー・シェルトン](../Page/マーリー・シェルトン.md "wikilink")（[玉川砂記子](../Page/玉川砂記子.md "wikilink")）
   - トニー・ブロック（ウィリアムとダコタの息子） - レベル・ロドリゲス
   - アール・マクグロウ（[テキサス・レンジャー](../Page/テキサス・レンジャー.md "wikilink")、ダコタの父） - [マイケル・パークス](https://ja.wikipedia.org/wiki/マイケル・パークス "wikilink")（[大塚周夫](../Page/大塚周夫.md "wikilink")）

@@ -28,8 +28,6 @@
 
 ## 外部リンク
 
-  - [＜e-ネットキャラバン＞公式WEBサイト](http://www.fmmc.or.jp/e-netcaravan/)
-  - [e-ネットキャラバンの本格実施の開始 総務省(報道資料)](http://www.soumu.go.jp/s-news/2006/060329_1.html)
-  - [e-ネットキャラバンへの協力について](http://www.mext.go.jp/b_menu/houdou/17/11/05120801.htm)
+  - [＜e-ネットキャラバン＞公式WEBサイト](https://www.fmmc.or.jp/e-netcaravan/)
 
 [Category:情報教育](https://ja.wikipedia.org/wiki/Category:情報教育 "wikilink") [Category:コンピュータ・ネットワーク・セキュリティ](https://ja.wikipedia.org/wiki/Category:コンピュータ・ネットワーク・セキュリティ "wikilink") [Category:コンピュータセキュリティ団体](https://ja.wikipedia.org/wiki/Category:コンピュータセキュリティ団体 "wikilink")

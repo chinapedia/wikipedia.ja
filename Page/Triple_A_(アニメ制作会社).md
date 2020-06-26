@@ -9,7 +9,7 @@
 
 なお、[2005年](../Page/2005年.md "wikilink")5月期にXEBECはTriple Aの株式を売却したため、[XEBEC](../Page/ジーベック_\(アニメ制作会社\).md "wikilink")（I.Gポートグループ）との資本関係は無くなった\[1\]。また、同年には仕上げ部門を分社化し有限会社**iseriA**を設立したが2010年に破産手続を開始した。
 
-[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[子会社](../Page/子会社.md "wikilink")として株式会社**[C2C](../Page/C2C_\(日本の企業\).md "wikilink")**（シートゥーシー）を設立した。社名は「Challenge To Challenge」の略\[2\]。以降「**C2C**」名義で制作を請け負う。
+[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、[子会社](../Page/子会社.md "wikilink")としてTriple A本社内に株式会社**[C2C](../Page/C2C_\(日本の企業\).md "wikilink")**（シートゥーシー）を設立した。社名は「Challenge To Challenge」の略\[2\]。元請け作品を生み出すことを目標に設立された経緯があり、設立以降、元請制作に関しては「**C2C**」名義で制作を請け負う。その際、作品内の第二原画、動画、仕上げはTriple Aが担当している。
 
 ## 主な作品
 

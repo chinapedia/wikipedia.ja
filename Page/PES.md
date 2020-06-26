@@ -241,7 +241,7 @@ RIP SLYMEのPV出演は除く
 |                                                                 |                                                                                                                      |
 | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **監督**                                                          | **曲名**                                                                                                               |
-| [田辺秀伸](https://ja.wikipedia.org/wiki/田辺秀伸 "wikilink")           | 「[女神のKISS](https://www.youtube.com/watch?v=vbIl_uUcwuA)」                                                             |
+| [田辺秀伸](../Page/田辺秀伸.md "wikilink")                              | 「[女神のKISS](https://www.youtube.com/watch?v=vbIl_uUcwuA)」                                                             |
 | [サンプラスデザインとモリ○カツ](https://ja.wikipedia.org/wiki/森克彦 "wikilink") | 「[シーサイドラバーズ](https://www.youtube.com/watch?v=U1HJCRb2TY0)」「[真夜中のレインボー](https://www.youtube.com/watch?v=ssSRK-PXEXo)」 |
 |                                                                 |                                                                                                                      |
 

@@ -103,6 +103,7 @@
   - ハート
     声 - [赤江珠緒](https://ja.wikipedia.org/wiki/赤江珠緒 "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")アナウンサー＝当時）
     オレンジ色のカエルの姿をしている。顔が横長なのが特徴。
+    これらの名前は全て[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")のカットの種類に由来する。
 
 ### 本作の敵
 

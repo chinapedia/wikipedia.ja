@@ -30,6 +30,7 @@
   - [RISE](../Page/RISE_\(SPEEDのアルバム\).md "wikilink") (\#1,2、\#1はRISE Mix)
   - [MOMENT](../Page/MOMENT_\(SPEEDのアルバム\).md "wikilink") (\#1,2、\#1はgrowin' up\! mix)
   - [SPEED THE MEMORIAL BEST 1335days Dear Friends 1](https://ja.wikipedia.org/wiki/SPEED_THE_MEMORIAL_BEST_1335days_Dear_Friends "wikilink") (\#1、RISE Mix)
+  - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")(\#1,2両曲とも Re Tracks)
 
 ## カバー
 

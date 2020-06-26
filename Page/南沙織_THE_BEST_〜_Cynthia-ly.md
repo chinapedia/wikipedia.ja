@@ -61,7 +61,7 @@
 21. **[ゆれる午後](../Page/ゆれる午後.md "wikilink")**（3:33）
       - 作詞: 有馬三恵子、作曲: 筒美京平、編曲: 萩田光雄
 22. **[シングル・ルーム](https://ja.wikipedia.org/wiki/Hello!Cynthia#収録曲 "wikilink")**（4:00）
-      - 作詞: [岡田冨美子](../Page/岡田冨美子.md "wikilink")、作曲: [梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")、編曲: 萩田光雄
+      - 作詞: [岡田冨美子](../Page/岡田冨美子.md "wikilink")、作曲: [梅垣達志](../Page/梅垣達志.md "wikilink")、編曲: 萩田光雄
       - 17枚目のスタジオ・アルバム『Hello\!Cynthia』（25AH-273）収録　
 23. **[グッバイガール](../Page/グッバイガール_\(デヴィッド・ゲイツの曲\).md "wikilink")**（3:32）
       - 作詞・作曲: [David Gates](../Page/デヴィッド・ゲイツ.md "wikilink")、訳詞: 中里綴、編曲: 川村栄二

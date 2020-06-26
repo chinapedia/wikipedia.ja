@@ -705,6 +705,8 @@
 
   - [マリアノ・トリポジ](https://ja.wikipedia.org/wiki/マリアノ・トリポジ "wikilink") 2011.6-2013
 
+  - [朴光龍](https://ja.wikipedia.org/wiki/朴光龍 "wikilink") 2013-2015
+
 ## 外部リンク
 
   - [公式サイト](http://www.fcvaduz.li/)

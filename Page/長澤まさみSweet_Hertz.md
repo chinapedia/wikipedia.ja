@@ -46,7 +46,7 @@
 <!-- end list -->
 
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") - 毎週土曜日　16時00分 - 16時30分
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink") - 毎週土曜日　23時00分 - 23時30分
+  - [北日本放送](../Page/北日本放送.md "wikilink") - 毎週土曜日　23時00分 - 23時30分
   - [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink") - 毎週[月曜日](../Page/月曜日.md "wikilink") (1週遅れ)　26時30分 - 27時00分　※2011年9月26日放送分でネット終了。
   - [九州朝日放送](../Page/KBCラジオ.md "wikilink") - 毎週木曜日　24時00分 - 24時30分
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") - 毎週[水曜日](../Page/水曜日.md "wikilink")　23時30分 - 24時00分

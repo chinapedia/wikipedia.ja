@@ -1,7 +1,7 @@
 > この記事は[NBCニュース \(長崎放送\)](https://ja.wikipedia.org/wiki/NBCニュース_\(長崎放送\))から翻訳されています。
 
 
-『**NBCニュース**』（エヌビーシーニュース）は、[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")で放送されているローカル[ニュース番組である](../Page/報道番組.md "wikilink")。
+『**NBCニュース**』（エヌビーシーニュース）は、[長崎放送](../Page/長崎放送.md "wikilink")で放送されているローカル[ニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 放送時間
 

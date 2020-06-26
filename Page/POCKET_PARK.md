@@ -13,7 +13,7 @@
         ※[デビューシングルと異なる](https://ja.wikipedia.org/wiki/松原みき#シングル "wikilink")[バージョン](https://ja.wikipedia.org/wiki/バージョン "wikilink")が収録されている（イントロがバックコーラスのみ）。\[1\]
 2.  **It's So Creamy** (3'41")
       -
-        作詞：[中里綴](https://ja.wikipedia.org/wiki/中里綴 "wikilink")／作曲：[佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink")／編曲：佐藤健
+        作詞：[中里綴](https://ja.wikipedia.org/wiki/中里綴 "wikilink")／作曲：[佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink")／編曲：佐藤健
 3.  **Cryin**' (3'55")
       -
         作詞：[森田由美](https://ja.wikipedia.org/wiki/森田由美 "wikilink")／作曲：佐藤健／編曲：佐藤健
@@ -38,7 +38,7 @@
         作詞：三浦徳子／作曲：林哲司／編曲：林哲司
 4.  **Trouble Maker** (4'32")
       -
-        作詞：[竜真知子](../Page/竜真知子.md "wikilink")／作曲：[梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")／編曲：梅垣達志
+        作詞：[竜真知子](../Page/竜真知子.md "wikilink")／作曲：[梅垣達志](../Page/梅垣達志.md "wikilink")／編曲：梅垣達志
 5.  **Mind Game** (3'57")
       -
         作詞：竜真知子／作曲：梅垣達志／編曲：梅垣達志

@@ -366,7 +366,7 @@
   - コウイチ - [堂本光一](../Page/堂本光一.md "wikilink")
   - マエダ ビバリ - [前田美波里](../Page/前田美波里.md "wikilink")：オーナー
   - ヤラ - [屋良朝幸](../Page/屋良朝幸.md "wikilink")：ライバル
-  - リカ - [小南満佑子](https://ja.wikipedia.org/wiki/小南満佑子 "wikilink")
+  - リカ - [小南満佑子](../Page/小南満佑子.md "wikilink")
   - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（ふぉ〜ゆ〜）（2月公演）
   - [越岡裕貴](https://ja.wikipedia.org/wiki/越岡裕貴 "wikilink")（ふぉ〜ゆ〜）（2月公演）
   - [福田悠太](../Page/福田悠太.md "wikilink")（ふぉ〜ゆ〜）（3月公演）

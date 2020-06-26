@@ -68,8 +68,11 @@
 
 ## 外部リンク
 
-  - [Meteorオフィシャルサイト](http://web.archive.org/web/20130313111058/http://www.meteor-game.jp/) - 閉鎖。（2013年3月13日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [シルバーバレットポータルサイト](http://web.archive.org/web/20130214121458/http://www.silverbullet.jp/) - 閉鎖。（2013年2月14日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [Meteorサポートフォーム](http://www.clubhobi.net/meteor_support/)（ホビボックスの不祥事により停止中）
+  - [Meteorオフィシャルサイト](https://web.archive.org/web/20130313111058/http://www.meteor-game.jp/) - 閉鎖。（2013年3月13日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
+  - [シルバーバレットポータルサイト](https://web.archive.org/web/20130214121458/http://www.silverbullet.jp/) - 閉鎖。（2013年2月14日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+
+  - [Meteorサポートフォーム](https://web.archive.org/web/20090331223403/http://www.clubhobi.net/meteor_support/)（2009年3月31日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+
+  -
 [Category:アダルトゲームブランドの歴史](https://ja.wikipedia.org/wiki/Category:アダルトゲームブランドの歴史 "wikilink") [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")

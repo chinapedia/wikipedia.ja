@@ -99,7 +99,7 @@ CLR ジェームズはクリケット記者としても特に[1963年](../Page/1
   - [CLR James Archive at libcom.org](http://libcom.org/tags/clr-james)
   - [*On Karl Marx and the 75th Anniversary of the Paris Commune*](http://www.revolutionary-history.co.uk/James/james1.htm)
   - [*A Controversial Caribbean: C.L.R. James*](http://www.runmuki.com/paul/CLR_James.html)
-  - [*CLR James and the virtues of spontaneity*](http://www.marxists.de/trotism/callinicos/4-2_heresies.htm) by [Alex Callinicos](https://ja.wikipedia.org/wiki/アレックス・カリニコス "wikilink")
+  - [*CLR James and the virtues of spontaneity*](http://www.marxists.de/trotism/callinicos/4-2_heresies.htm) by [Alex Callinicos](../Page/アレックス・カリニコス.md "wikilink")
   - [*CLR James: the revolutionary as artist*](http://www.isj.org.uk/index.php4?id=253&issue=112) International Socialism 112 (2006)
   - [*Revolution as a New Beginning': an Interview with Grace Lee Boggs*](http://auto_sol.tao.ca/node/view/1280). **Autonomy & Solidarity**. Aidan. April 1, 2005 - 7:08pm. Retrieved April 15, 2005. *Longtime associate of C.L.R. James discusses their work and her later career.*
   - [Hip-Hop on C.L.R. James](http://democracyandhiphop.blogspot.com/2006/06/hip-hop-on-clr-james.html) by Krisna Best of the Democracy and Hip-Hop Project

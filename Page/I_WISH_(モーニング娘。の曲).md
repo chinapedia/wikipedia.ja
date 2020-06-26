@@ -1,7 +1,7 @@
 > この記事は[I WISH \(モーニング娘。の曲\)](https://ja.wikipedia.org/wiki/I_WISH_\(モーニング娘。の曲\))から翻訳されています。
 
 
-「**I WISH**」（アイ ウィッシュ）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[ゼティマ](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")（現・[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")）から発売された。
+「**I WISH**」（アイ ウィッシュ）は、[モーニング娘。](../Page/モーニング娘。.md "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[ゼティマ](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")（現・[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")）から発売された。
 
 ## 概要
 
@@ -25,7 +25,7 @@
       - [PVは年齢や仕事](../Page/ミュージック・ビデオ.md "wikilink")・性別も異なる様々な人々（メンバーが演じる）がそれぞれ夢を持ってある場所に集うという[ミュージカル](../Page/ミュージカル.md "wikilink")仕立て。『映像ザ・モーニング娘。2〜シングルVクリップス〜』には冒頭約3分の物語付きで収録。なお、この物語では[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")が主役となっている。
       - [辻希美](../Page/辻希美.md "wikilink")と[加護亜依](../Page/加護亜依.md "wikilink")、[石川梨華](../Page/石川梨華.md "wikilink")、[吉澤ひとみ](../Page/吉澤ひとみ.md "wikilink")がそれぞれモーニング娘。を卒業する際にほぼソロで歌われた。
       - 『[The Best\!〜Updated モーニング娘。〜](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")』では9期、10期、11期メンバーによりカバーされているが、こちらは[EDM調であり](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")、テンポアップせずに終始冒頭のテンポで曲が進行する。
-      - このほか、[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")には[KDDI](../Page/KDDI.md "wikilink")と[KDDI総合研究所](https://ja.wikipedia.org/wiki/KDDI総合研究所 "wikilink")との共同制作で[当楽曲のUpdated版](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")、および[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")'18\[1\]を起用した「[音のVR](https://ja.wikipedia.org/wiki/バーチャルリアリティー "wikilink")」に対応したコンテンツを制作した\[2\]\[3\]\[4\]\[5\]。なお、当楽曲のUpdated版とモーニング娘。'18を起用したこのコンテンツは一般向けには2018年3月31日から4月1日まで[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で開催された[ハロー\!プロジェクトのイベント会場で出展](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")、および同年4月以降よりKDDI直営店の一部や、[HMV](../Page/HMV.md "wikilink")の一部の店頭でも体験コーナーが展開されたほか、更に同年5月31日から9月30日までの期間限定でスマートフォン・タブレット用の音のVR体験アプリ（[iOS専用](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")）も一般向けアプリとして配信された。
+      - このほか、[2018年](../Page/2018年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")には[KDDI](../Page/KDDI.md "wikilink")と[KDDI総合研究所](https://ja.wikipedia.org/wiki/KDDI総合研究所 "wikilink")との共同制作で[当楽曲のUpdated版](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")、および[モーニング娘。](../Page/モーニング娘。.md "wikilink")'18\[1\]を起用した「[音のVR](https://ja.wikipedia.org/wiki/バーチャルリアリティー "wikilink")」に対応したコンテンツを制作した\[2\]\[3\]\[4\]\[5\]。なお、当楽曲のUpdated版とモーニング娘。'18を起用したこのコンテンツは一般向けには2018年3月31日から4月1日まで[パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")で開催された[ハロー\!プロジェクトのイベント会場で出展](https://ja.wikipedia.org/wiki/SATOYAMA_movement "wikilink")、および同年4月以降よりKDDI直営店の一部や、[HMV](../Page/HMV.md "wikilink")の一部の店頭でも体験コーナーが展開されたほか、更に同年5月31日から9月30日までの期間限定でスマートフォン・タブレット用の音のVR体験アプリ（[iOS専用](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")）も一般向けアプリとして配信された。
 
 <!-- end list -->
 

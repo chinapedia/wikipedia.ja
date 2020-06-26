@@ -29,6 +29,13 @@ DTXには生産コストを下げるためのいくつかの長所がある\[5\]
 
 ## 脚注・出典
 
+## 関連項目
+
+  - [フォームファクタ](https://ja.wikipedia.org/wiki/フォームファクタ "wikilink")
+      - [ATX](../Page/ATX.md "wikilink")
+      - [BTX](../Page/BTX.md "wikilink")
+      - [Mini-ITX](../Page/Mini-ITX.md "wikilink")
+
 ## 外部リンク
 
   - [Product Preview and Showcase](http://www.hothardware.com/Articles/AMD_DTX_Sneak_Peek/) - HotHardware

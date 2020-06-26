@@ -186,7 +186,7 @@
 
   - [イリュージョン](http://www.illusion.jp/)（：年齢確認あり）
 
-  - [mixwill soft](http://www.mixwill.jp/)（：年齢確認あり）（リンク切れ）
+  - [mixwill soft](https://web.archive.org/web/20120119084111/http://www.mixwill.jp/)（：年齢確認あり）（2012年1月19日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
   -
   -

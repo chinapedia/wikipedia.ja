@@ -11,7 +11,7 @@
   - 追跡管制運用：北海道キューブサット開発アマチュア無線クラブ（[北海道工業大学](https://ja.wikipedia.org/wiki/北海道工業大学 "wikilink")内アマチュア無線社団局、JR8YJS）
   - 形状：一辺12cmの[立方体](https://ja.wikipedia.org/wiki/立方体 "wikilink")(Cubesat type)。衛星構体：ロール 6.0 ｘ10<sup>-3</sup> kg・m<sup>2</sup>、ピッチ 6.6 ｘ10<sup>-3</sup> kg・m<sup>2</sup>、ヨー 6.1 ｘ10<sup>-3</sup> kg・m<sup>2</sup>）
   - 質量：2.7kg
-  - 打ち上げ機関：[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")(JAXA)
+  - 打ち上げ機関：[宇宙航空研究開発機構](../Page/宇宙航空研究開発機構.md "wikilink")(JAXA)
   - ロケット：[M-Vロケット](https://ja.wikipedia.org/wiki/M-Vロケット "wikilink")7号機（M-Vシリーズの最終機）
   - 打ち上げ履歴：同日15時36分(JST)に同衛星からの電波（[モールス符号](../Page/モールス符号.md "wikilink")）が同大学の地上局にて受信され、衛星軌道に乗ったことが確認された。
   - 呼び出し符号：アマチュア衛星局JR8YJTとして[総務省](../Page/総務省.md "wikilink")[総合通信局](../Page/総合通信局.md "wikilink")から[無線局免許状](../Page/無線局免許状.md "wikilink")交付（2006年8月11日）。運用開始。

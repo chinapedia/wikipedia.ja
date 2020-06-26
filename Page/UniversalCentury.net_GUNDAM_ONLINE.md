@@ -5,7 +5,7 @@
 
 ## 概要
 
-アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』を題材にした初めてのフル[3DCG](../Page/3次元コンピュータグラフィックス.md "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")。ユーザーは[宇宙世紀](../Page/宇宙世紀.md "wikilink")の世界において、[地球連邦軍](../Page/地球連邦軍.md "wikilink")と[ジオン公国](../Page/ジオン公国.md "wikilink")軍のどちらかに所属し、[モビルスーツ](https://ja.wikipedia.org/wiki/宇宙世紀の登場機動兵器一覧 "wikilink")（以下MS）や[戦車などで戦闘を行う](../Page/ガンダムシリーズの登場艦船及びその他の兵器一覧.md "wikilink")。戦闘以外にもMSや戦車の生産、3DCGで表現された動くMSのいるリアルな風景なども楽しめる要素だった。
+アニメ『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』を題材にした初めてのフル[3DCG](../Page/3次元コンピュータグラフィックス.md "wikilink")[MMORPG](../Page/MMORPG.md "wikilink")。ユーザーは[宇宙世紀](../Page/宇宙世紀.md "wikilink")の世界において、[地球連邦軍](../Page/地球連邦軍.md "wikilink")と[ジオン公国](../Page/ジオン公国.md "wikilink")軍のどちらかに所属し、[モビルスーツ](../Page/宇宙世紀の登場機動兵器一覧.md "wikilink")（以下MS）や[戦車などで戦闘を行う](../Page/ガンダムシリーズの登場艦船及びその他の兵器一覧.md "wikilink")。戦闘以外にもMSや戦車の生産、3DCGで表現された動くMSのいるリアルな風景なども楽しめる要素だった。
 
 [2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から、舞台を[オーストラリア](../Page/オーストラリア.md "wikilink")に限定し、「UniversalCentury.net GUNDAM ONLINE 〜Dawn of Australia〜」としての正式サービス開始となった。クライアント[ソフトは同名のパッケージ版の販売のみで](../Page/ソフトウェア.md "wikilink")、直販価格は9,240円（税込・以下同様）、初回限定版は13,440円であった。サーバー利用料金（プレイ料金）は月額1,575円に設定され、クレジットカードでの支払いに限定されていた。
 

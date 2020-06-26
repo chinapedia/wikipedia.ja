@@ -1,7 +1,7 @@
 > この記事は[Ultra Red](https://ja.wikipedia.org/wiki/Ultra_Red)から翻訳されています。
 
 
-**『Ultra Red』**（ウルトラレッド）は、[鈴木央](../Page/鈴木央.md "wikilink")の[格闘](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で 2002年45号から2003年29号に連載された。
+**『Ultra Red』**（ウルトラレッド）は、[鈴木央](../Page/鈴木央.md "wikilink")の[格闘](../Page/格闘漫画.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")で 2002年45号から2003年29号に連載された。
 
 ## 概要
 

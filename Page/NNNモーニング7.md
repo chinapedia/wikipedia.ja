@@ -13,16 +13,16 @@
 
 ## 放送局
 
-  - 日本テレビ（[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")）
+  - 日本テレビ（[キー局](../Page/キー局.md "wikilink")）
   - [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") - 1973年9月までは『[RABニュースレーダー](../Page/RABニュースレーダー.md "wikilink")』に内包。
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")
+  - [秋田放送](../Page/秋田放送.md "wikilink")
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")
   - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
   - [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")
+  - [北日本放送](../Page/北日本放送.md "wikilink")
   - [福井放送](../Page/福井放送.md "wikilink")
   - [名古屋放送](../Page/名古屋テレビ放送.md "wikilink")（1973年3月まで） → [中京テレビ](../Page/中京テレビ放送.md "wikilink")（1973年4月以降） - 中京広域圏においてNNN加盟局の変更に伴う。
   - [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")

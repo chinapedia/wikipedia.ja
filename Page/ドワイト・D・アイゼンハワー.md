@@ -5,7 +5,7 @@
 
 ## 生い立ちと家族
 
-アイゼンハワーは、デイヴィッド・ジェイコブ（David Jacob Eisenhower）とイーダ・エリザベス・ストーバー・アイゼンハワー（Ida Elizabeth Stover）の7人の息子の3番目として、[テキサス州](../Page/テキサス州.md "wikilink")[デニソンで生まれた](../Page/デニソン_\(テキサス州\).md "wikilink")。
+アイゼンハワーはデイヴィッド・ジェイコブ（David Jacob Eisenhower）とイーダ・エリザベス・ストーバー・アイゼンハワー（Ida Elizabeth Stover）の7人の息子の3番目として、[テキサス州](../Page/テキサス州.md "wikilink")[デニソンで生まれた](../Page/デニソン_\(テキサス州\).md "wikilink")。
 
 [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")西南部、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")との国境に近い[ザールブリュッケン郡](https://ja.wikipedia.org/wiki/ザールブリュッケン都市連合 "wikilink")[カールスブルン](https://ja.wikipedia.org/wiki/カールスブルン "wikilink")（[Karlsbrunn](https://ja.wikipedia.org/wiki/:de:Karlsbrunn "wikilink")）より[宗教](../Page/宗教.md "wikilink")的迫害を逃れて17世紀に[スイス](../Page/スイス.md "wikilink")に移住し、さらに[1730年](../Page/1730年.md "wikilink")アメリカの[ヨーク地区](../Page/ヨーク_\(ペンシルベニア州\).md "wikilink")、のちに[ランカスターに移住した](../Page/ランカスター_\(ペンシルベニア州\).md "wikilink")[ペンシルベニア・ドイツ人](https://ja.wikipedia.org/wiki/ペンシルベニア・ドイツ人 "wikilink")に近い家系の出身である。
 
@@ -17,7 +17,7 @@
 
 ## バター工場からウエストポイントへ
 
-アイゼンハワーはアビリーン高校に入学、[1909年](../Page/1909年.md "wikilink")に卒業した。在学中膝の怪我による[感染症](../Page/感染症.md "wikilink")が脚の付け根まで拡がり、命の危険があると診断された。医師は足の切断を勧めたが、彼は拒否し、後に奇跡的に回復している。しかし1年留年するはめとなった。
+アイゼンハワーはアビリーン高校に入学し、[1909年](../Page/1909年.md "wikilink")に卒業した。在学中膝の怪我による[感染症](../Page/感染症.md "wikilink")が脚の付け根まで拡がり、命の危険があると診断された。医師は足の切断を勧めたが、彼は拒否し、後に奇跡的に回復している。しかし1年留年するはめとなった。
 
 高校卒業後、ドワイトと兄エドガーは大学進学を希望していたが、経済的に困難な状況であった。そこで彼らは、一方が大学に通い、もう一方がその年の授業料を稼ぐという取り決めをした。始めの年はエドガーが大学に通い、ドワイトはベルスプリングの[バター](../Page/バター.md "wikilink")[工場](../Page/工場.md "wikilink")で夜勤シフトの従業員として働き始めた。1年後、エドガーは連続で通学したいと申し出た。ドワイトは承諾して、引き続きバター工場で働くこととなった。
 
@@ -25,7 +25,7 @@
 
 ## 結婚
 
-アイゼンハワーは、[コロラド州](../Page/コロラド州.md "wikilink")[デンバーの](https://ja.wikipedia.org/wiki/デンバー_\(コロラド州\) "wikilink")[マミー・ジュネーブ・ダウド](../Page/マミー・アイゼンハワー.md "wikilink")（[1896年](../Page/1896年.md "wikilink") - [1979年](../Page/1979年.md "wikilink")）と[1916年](../Page/1916年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に結婚した。彼らはダウド・ドワイト・アイゼンハワー（[1917年](../Page/1917年.md "wikilink") - [1921年](../Page/1921年.md "wikilink")）およびジョン・シェルドン・ダウド・アイゼンハワー（1922年ー2013年）をもうけた。ジョン・アイゼンハワーは陸軍で勤務し、次に作家になり、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")大使を務めた。ジョン・アイゼンハワーの息子デーヴィッド・アイゼンハワーは、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")の娘ジュリーと[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に結婚した\[2\]。
+アイゼンハワーは[コロラド州](../Page/コロラド州.md "wikilink")[デンバーの](https://ja.wikipedia.org/wiki/デンバー_\(コロラド州\) "wikilink")[マミー・ジュネーブ・ダウド](../Page/マミー・アイゼンハワー.md "wikilink")（[1896年](../Page/1896年.md "wikilink") - [1979年](../Page/1979年.md "wikilink")）と[1916年](../Page/1916年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に結婚した。彼らはダウド・ドワイト・アイゼンハワー（[1917年](../Page/1917年.md "wikilink") - [1921年](../Page/1921年.md "wikilink")）およびジョン・シェルドン・ダウド・アイゼンハワー（1922年ー2013年）をもうけた。ジョン・アイゼンハワーは陸軍で勤務し、次に作家になり、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")大使を務めた。ジョン・アイゼンハワーの息子デーヴィッド・アイゼンハワーは、[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")の娘ジュリーと[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に結婚した\[2\]。
 
 ## 軍歴
 
@@ -55,7 +55,7 @@
 
 ## 連合国遠征軍最高司令官
 
-イギリスの[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")[首相は](../Page/イギリスの首相.md "wikilink")、ヨーロッパ反攻作戦における[連合国遠征軍最高司令官にアイゼンハワーではなく陸軍参謀総長マーシャル大将を希望し](https://ja.wikipedia.org/wiki/連合国遠征軍最高司令部 "wikilink")、ルーズベルト大統領もそれに傾いていたが、[統合参謀本部](https://ja.wikipedia.org/wiki/統合参謀本部 "wikilink")のメンバーである大統領付参謀長[ウィリアム・リーヒ](../Page/ウィリアム・リーヒ.md "wikilink")大将、合衆国艦隊司令長官兼[海軍作戦部長](../Page/アメリカ海軍作戦部長.md "wikilink")[アーネスト・キング](../Page/アーネスト・キング.md "wikilink")大将、[陸軍航空軍総司令官](../Page/アメリカ陸軍航空軍.md "wikilink")[ヘンリー・アーノルド](../Page/ヘンリー・アーノルド.md "wikilink")大将は、統合参謀本部にマーシャルは不可欠であるとして反対し、ルーズベルト大統領は[カイロ会談](../Page/カイロ会談.md "wikilink")、[テヘラン会談](../Page/テヘラン会談.md "wikilink")を終えて帰国する直前に、アイゼンハワーを連合国遠征軍最高司令官とすることに決定した\[3\]\[4\]。
+イギリスの[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")[首相は](../Page/イギリスの首相.md "wikilink")、ヨーロッパ反攻作戦における[連合国遠征軍最高司令官にアイゼンハワーではなく陸軍参謀総長のマーシャル大将を希望し](https://ja.wikipedia.org/wiki/連合国遠征軍最高司令部 "wikilink")、ルーズベルト大統領もそれに傾いていたが、[統合参謀本部](https://ja.wikipedia.org/wiki/統合参謀本部 "wikilink")のメンバーである大統領付参謀長[ウィリアム・リーヒ](../Page/ウィリアム・リーヒ.md "wikilink")大将、アメリカ合衆国艦隊司令長官兼[海軍作戦部長](../Page/アメリカ海軍作戦部長.md "wikilink")[アーネスト・キング](../Page/アーネスト・キング.md "wikilink")大将、[陸軍航空軍総司令官](../Page/アメリカ陸軍航空軍.md "wikilink")[ヘンリー・アーノルド](../Page/ヘンリー・アーノルド.md "wikilink")大将は、統合参謀本部にマーシャルは不可欠であるとして反対し、ルーズベルト大統領は[カイロ会談](../Page/カイロ会談.md "wikilink")、[テヘラン会談](../Page/テヘラン会談.md "wikilink")を終えて帰国する直前に、アイゼンハワーを連合国遠征軍最高司令官とすることに決定した\[3\]\[4\]。
 
 連合国遠征軍最高司令部はヨーロッパ反攻作戦として「[オーバーロード作戦](../Page/ノルマンディー上陸作戦.md "wikilink")（ノルマンディー上陸作戦）」の計画を行い、アイゼンハワーはその計画の実行を[1944年](../Page/1944年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")（[D-デイ](../Page/D-デイ.md "wikilink")）とする決断を行った。上陸作戦は成功し、その後も順調に戦線を拡大した。
 
@@ -71,7 +71,7 @@
 
 アイゼンハワーは[1948年](../Page/1948年.md "wikilink")7月に[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")の学長に選ばれ、ニューヨークに居を構えた。1945年以来、大統領候補となる可能性を指摘されてきたが、1936年以来積極的に共和党大統領候補としての指名を求めていた[マッカーサーと異なり](../Page/ダグラス・マッカーサー.md "wikilink")、当人は政治にほとんど関心がなく選挙で投票したこともなかったので、支持政党が[共和党か](../Page/共和党_\(アメリカ\).md "wikilink")[民主党かも知られていなかった](../Page/民主党_\(アメリカ\).md "wikilink")。
 
-[トルーマンは否定しているが](../Page/ハリー・S・トルーマン.md "wikilink")、歴史家の何人かは、[1948年の大統領選挙でトルーマンがアイゼンハワーを支持して引退することを申し出たとする](https://ja.wikipedia.org/wiki/1948年アメリカ合衆国大統領選挙 "wikilink")。[1952年の大統領選挙では](https://ja.wikipedia.org/wiki/1952年アメリカ合衆国大統領選挙 "wikilink")、民主党・共和党の両党から立候補を要請された。アイゼンハワーは出馬を最初拒絶したが、結局説得を受け、共和党の大統領候補として立候補することとなった。その理由としてアイゼンハワーは「民主党が20年間大統領を輩出し、その変更を国が必要としたので共和党を選んだ」と語った。[オハイオ州](../Page/オハイオ州.md "wikilink")選出の[上院議員](../Page/アメリカ合衆国上院.md "wikilink")[ロバート・タフト](../Page/ロバート・タフト.md "wikilink")を破り、共和党の大統領候補としての指名を得た。
+[トルーマンは否定しているが](../Page/ハリー・S・トルーマン.md "wikilink")、歴史家の何人かは[1948年アメリカ合衆国大統領選挙](https://ja.wikipedia.org/wiki/1948年アメリカ合衆国大統領選挙 "wikilink")でトルーマンがアイゼンハワーを支持して引退することを申し出たとする。[1952年アメリカ合衆国大統領選挙](https://ja.wikipedia.org/wiki/1952年アメリカ合衆国大統領選挙 "wikilink")では、民主党・共和党の両党から立候補を要請された。アイゼンハワーは出馬を最初拒絶したが、結局説得を受け、共和党の大統領候補として立候補することとなった。その理由としてアイゼンハワーは「民主党が20年間大統領を輩出し、その変更を国が必要としたので共和党を選んだ」と語った。[オハイオ州](../Page/オハイオ州.md "wikilink")選出の[上院議員](../Page/アメリカ合衆国上院.md "wikilink")[ロバート・タフト](../Page/ロバート・タフト.md "wikilink")を破り、共和党の大統領候補としての指名を得た。
 
 大統領選の序盤には、アイゼンハワーは「非政治家」としてキャンペーンを行い、対立候補である[イリノイ州知事](../Page/イリノイ州知事.md "wikilink")で民主党の[アドレー・スティーブンソン](../Page/アドレー・スティーブンソン.md "wikilink")\[5\]について言及しなかった。その代わりに他の共和党員が、彼の温厚な公のイメージを守りつつも、民主党員を「[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")に寛大」として非難する[冷戦](../Page/冷戦.md "wikilink")キャンペーンをすることを黙認した。このため、アイゼンハワーはカリフォルニアから選出された若手の上院議員で、[反共姿勢で知られた](../Page/反共主義.md "wikilink")[リチャード・ニクソン](../Page/リチャード・ニクソン.md "wikilink")を副大統領候補に選んだ。アイゼンハワーとニクソンは442人の選挙人の投票を得て、11月の選挙に勝利した。対するスティーブンソンの得票は89だった。
 
@@ -81,7 +81,7 @@
 
 ### 外交問題
 
-[Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg](https://ja.wikipedia.org/wiki/File:Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg "fig:Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg")を訪れた[南ベトナム](../Page/南ベトナム.md "wikilink")の[ゴ・ディン・ジエム](../Page/ゴ・ディン・ジエム.md "wikilink")大統領を迎えるアイゼンハワー\]\][Eisenhower_and_Nixon_at_Dinner_with_King_Saud.jpg](https://ja.wikipedia.org/wiki/File:Eisenhower_and_Nixon_at_Dinner_with_King_Saud.jpg "fig:Eisenhower_and_Nixon_at_Dinner_with_King_Saud.jpg")の[サウード・ビン・アブドゥルアズィーズ](../Page/サウード・ビン・アブドゥルアズィーズ.md "wikilink")[国王およびニクソン副大統領とともに](../Page/サウジアラビアの国王一覧.md "wikilink")\]\] [Dwight_Eisenhower_Nikita_Khrushchev_and_their_wives_at_state_dinner_1959.png](https://ja.wikipedia.org/wiki/File:Dwight_Eisenhower_Nikita_Khrushchev_and_their_wives_at_state_dinner_1959.png "fig:Dwight_Eisenhower_Nikita_Khrushchev_and_their_wives_at_state_dinner_1959.png")夫妻とともに\]\] [Franco_eisenhower_1959_madrid.jpg](https://ja.wikipedia.org/wiki/File:Franco_eisenhower_1959_madrid.jpg "fig:Franco_eisenhower_1959_madrid.jpg")の[フランシスコ・フランコ](../Page/フランシスコ・フランコ.md "wikilink")とアイゼンハワー\]\] [Einseninaug.jpg](https://ja.wikipedia.org/wiki/File:Einseninaug.jpg "fig:Einseninaug.jpg") 大統領時代は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")を筆頭とする[東側諸国](../Page/東側諸国.md "wikilink")とアメリカ合衆国を代表とする[西側諸国](../Page/西側諸国.md "wikilink")との[冷戦](../Page/冷戦.md "wikilink")の最盛期ともいえる時代であった。アイゼンハワー政権を支えたニクソン副大統領と[ジョン・フォスター・ダレス](../Page/ジョン・フォスター・ダレス.md "wikilink")国務長官は、[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")との戦いを指揮、拡大した。また、当時の[ジョセフ・マッカーシー](../Page/ジョセフ・マッカーシー.md "wikilink")を代表とする共和党右派の過激な[反共主義](../Page/反共主義.md "wikilink")者の煽動も存在した。だが、[ジョージ・ケナン](../Page/ジョージ・ケナン.md "wikilink")によって提唱された[封じ込め政策](https://ja.wikipedia.org/wiki/封じ込め政策 "wikilink")を受け、[平和](../Page/平和.md "wikilink")共存と穏健な保守路線を追求した。
+[Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg](https://ja.wikipedia.org/wiki/File:Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg "fig:Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg")を訪れた[南ベトナム](../Page/南ベトナム.md "wikilink")の[ゴ・ディン・ジエム](../Page/ゴ・ディン・ジエム.md "wikilink")大統領を迎えるアイゼンハワー\]\][Eisenhower_and_Nixon_at_Dinner_with_King_Saud.jpg](https://ja.wikipedia.org/wiki/File:Eisenhower_and_Nixon_at_Dinner_with_King_Saud.jpg "fig:Eisenhower_and_Nixon_at_Dinner_with_King_Saud.jpg")の[サウード・ビン・アブドゥルアズィーズ](../Page/サウード・ビン・アブドゥルアズィーズ.md "wikilink")[国王およびニクソン副大統領とともに](../Page/サウジアラビアの国王一覧.md "wikilink")\]\] [Dwight_Eisenhower_Nikita_Khrushchev_and_their_wives_at_state_dinner_1959.png](https://ja.wikipedia.org/wiki/File:Dwight_Eisenhower_Nikita_Khrushchev_and_their_wives_at_state_dinner_1959.png "fig:Dwight_Eisenhower_Nikita_Khrushchev_and_their_wives_at_state_dinner_1959.png")夫妻とともに\]\] [Franco_eisenhower_1959_madrid.jpg](https://ja.wikipedia.org/wiki/File:Franco_eisenhower_1959_madrid.jpg "fig:Franco_eisenhower_1959_madrid.jpg")の[フランシスコ・フランコ](../Page/フランシスコ・フランコ.md "wikilink")とアイゼンハワー\]\] [Einseninaug.jpg](https://ja.wikipedia.org/wiki/File:Einseninaug.jpg "fig:Einseninaug.jpg") 大統領時代は[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")を筆頭とする[東側諸国](../Page/東側諸国.md "wikilink")とアメリカ合衆国を代表とする[西側諸国](../Page/西側諸国.md "wikilink")との[冷戦](../Page/冷戦.md "wikilink")の最盛期ともいえる時代であった。アイゼンハワー政権を支えたニクソン副大統領と[ジョン・フォスター・ダレス](../Page/ジョン・フォスター・ダレス.md "wikilink")国務長官は、[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")との戦いを指揮、拡大した。また、当時の[ジョセフ・マッカーシー](../Page/ジョセフ・マッカーシー.md "wikilink")を代表とする共和党右派の過激な[反共主義](../Page/反共主義.md "wikilink")者の煽動も存在した。だが、[ジョージ・ケナン](../Page/ジョージ・ケナン.md "wikilink")によって提唱された[封じ込め政策](https://ja.wikipedia.org/wiki/封じ込め政策 "wikilink")を受け、[平和](../Page/平和.md "wikilink")共存と穏健な保守路線を追求した。
 
 #### アジア
 
@@ -93,7 +93,7 @@
 
 #### インドシナ
 
-トルーマンが拡大を続けた[インドシナ戦争](https://ja.wikipedia.org/wiki/インドシナ戦争 "wikilink")を戦う[フランス軍](../Page/フランス軍.md "wikilink")へのアメリカからの援助は、[1952年](../Page/1952年.md "wikilink")度までに年額約3億[ドル](../Page/ドル.md "wikilink")に及び、アイゼンハワーが大統領に就任した[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には約4億ドルに上った。4年間の援助総量は航空機約130機、戦車約850輌、舟艇約280隻、車両16,000台、弾薬1億7千万発以上、医薬品、無線機などが送られている。また、1950年10月にサイゴンで組織されていたインドシナ米軍事援助顧問団（MAAG）はフランス軍の兵力不足を補うべく活動した。
+トルーマンが拡大を続けた[インドシナ戦争](https://ja.wikipedia.org/wiki/インドシナ戦争 "wikilink")を戦う[フランス軍](../Page/フランス軍.md "wikilink")へのアメリカからの援助は、[1952年](../Page/1952年.md "wikilink")度までに年額約3億[ドル](../Page/ドル.md "wikilink")に及び、アイゼンハワーが大統領に就任した[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には約4億ドルに上った。4年間の援助総量は航空機約130機、戦車約850輌、舟艇約280隻、車両16,000台、弾薬1億7,000万発以上、医薬品、無線機などが送られている。また、1950年10月にサイゴンで組織されていたインドシナ米軍事援助顧問団（MAAG）はフランス軍の兵力不足を補うべく活動した。
 
 1953年[11月](../Page/11月.md "wikilink")に行われた[ディエンビエンフーの戦い](../Page/ディエンビエンフーの戦い.md "wikilink")において、フランス軍降伏の報せを聞いたニクソン副大統領は、周辺山岳地帯に集結したベトミン軍に対する小型[原子爆弾](../Page/原子爆弾.md "wikilink")の使用をアイゼンハワーに進言したが却下された\[7\]。またアメリカの統合参謀本部は[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")に展開している[ボーイング](../Page/ボーイング.md "wikilink")[B-29](https://ja.wikipedia.org/wiki/B-29 "wikilink")爆撃機による支援爆撃を主張したが、アイゼンハワー大統領はこれも却下した。
 
@@ -107,13 +107,13 @@
 
 #### 中東
 
-[1956年](../Page/1956年.md "wikilink")に[スエズ運河](../Page/スエズ運河.md "wikilink")の管理に関する論争で、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[エジプト](../Page/エジプト.md "wikilink")への軍事介入を強く非難した（[スエズ危機](https://ja.wikipedia.org/wiki/スエズ危機 "wikilink")）。この際にアイゼンハワーは冷戦で対立していた[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ニコライ・ブルガーニン](../Page/ニコライ・ブルガーニン.md "wikilink")[首相と協力し](../Page/ソビエト連邦の首相.md "wikilink")、[国際連合](../Page/国際連合.md "wikilink")で[拒否権](../Page/拒否権.md "wikilink")行使する英仏を押し退けて米ソ協調で可決\[9\]されたによって[平和のための結集決議](https://ja.wikipedia.org/wiki/平和のための結集決議 "wikilink")での国連緊急総会が招集され、同年11月2日には英・仏・[イスラエル](../Page/イスラエル.md "wikilink")に対し即時停戦を求める決議を求める総会決議997の採択に成功する。米国・国連・ソ連により圧力を受け、同年11月6日に英仏は停戦受諾、同年11月8日にはイスラエルも受諾、スエズ危機は解決した。
+[1956年](../Page/1956年.md "wikilink")に[スエズ運河](../Page/スエズ運河.md "wikilink")の管理に関する論争で、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[エジプト](../Page/エジプト.md "wikilink")への軍事介入を強く非難した（[スエズ危機](https://ja.wikipedia.org/wiki/スエズ危機 "wikilink")）。この際にアイゼンハワーは冷戦で対立していた[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ニコライ・ブルガーニン](../Page/ニコライ・ブルガーニン.md "wikilink")[首相と協力し](../Page/ソビエト連邦の首相.md "wikilink")、[国際連合](../Page/国際連合.md "wikilink")で[拒否権](../Page/拒否権.md "wikilink")行使する英仏を押し退けて米ソ協調で可決\[9\]されたによって[平和のための結集決議](https://ja.wikipedia.org/wiki/平和のための結集決議 "wikilink")での国連緊急総会が招集され、同年11月2日には英・仏・[イスラエル](../Page/イスラエル.md "wikilink")に対し即時停戦を求める決議を求める総会決議997の採択に成功する。アメリカ・国際連合・ソ連により圧力を受け、同年11月6日に英仏は停戦受諾、同年11月8日にはイスラエルも受諾、スエズ危機は解決した。
 
-大統領職2期目中、[1957年](../Page/1957年.md "wikilink")に[レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")へ軍隊を送り、また[シャー・マホメット・レザ・パーレヴィが権力を回復するための](../Page/モハンマド・レザー・パフラヴィー.md "wikilink")[イラン](../Page/イラン.md "wikilink")でのクーデターを支援して、中東問題にますます没頭するようになった。
+大統領職2期目中の[1957年](../Page/1957年.md "wikilink")に[レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")へ軍隊を送り、また[シャー・マホメット・レザ・パーレヴィが権力を回復するための](../Page/モハンマド・レザー・パフラヴィー.md "wikilink")[イラン](../Page/イラン.md "wikilink")でのクーデターを支援して、中東問題にますます没頭するようになった。
 
 #### ソ連
 
-アイゼンハワーの下、アメリカは初の世界的核戦力を保持したが、世界は[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")を含む[第三次世界大戦](../Page/第三次世界大戦.md "wikilink")を恐れていた。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")のスターリンの死後、後継者の[ニキータ・フルシチョフ](../Page/ニキータ・フルシチョフ.md "wikilink")と核兵器競争の停止の合意に達する可能性を望んだ。同年末に[国連総会で行った](../Page/国際連合総会.md "wikilink")「[平和のための原子力](https://ja.wikipedia.org/wiki/平和のための原子力 "wikilink")」演説は有名である。
+アイゼンハワーの下でアメリカは初の世界的核戦力を保持したが、世界は[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")を含む[第三次世界大戦](../Page/第三次世界大戦.md "wikilink")を恐れていた。[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")のスターリンの死後、後継者の[ニキータ・フルシチョフ](../Page/ニキータ・フルシチョフ.md "wikilink")と核兵器競争の停止の合意に達する可能性を望んだ。同年末に[国連総会で行った](../Page/国際連合総会.md "wikilink")「[平和のための原子力](https://ja.wikipedia.org/wiki/平和のための原子力 "wikilink")」演説は有名である。
 
 ソ連のリーダーと首脳会議を開催するいくつかの試みはなされたが、最後のそのような試みは、[1960年](../Page/1960年.md "wikilink")にソ連上空で[U-2偵察機が撃墜されたこと](../Page/U-2_\(航空機\).md "wikilink")（[U-2撃墜事件](../Page/U-2撃墜事件.md "wikilink")）で失敗した。フルシチョフは、自身の回想録音テープの中で「アイゼンハワーは事あるごとにダレスの助言がないと返答出来ない」と見透かし、自国と自身の優位を感じたという。なお、アイゼンハワーは[モスクワ](../Page/モスクワ.md "wikilink")の[レーニン廟](../Page/レーニン廟.md "wikilink")から初めて[赤軍](../Page/赤軍.md "wikilink")のパレードを閲兵した[外国人](../Page/外国人.md "wikilink")である。
 
@@ -127,7 +127,7 @@
 
 [David_Dubinsky_shakes_hands_with_President_Dwight_Eisenhower_at_the_AFL_convention,_September_15,_1952..jpg](https://ja.wikipedia.org/wiki/File:David_Dubinsky_shakes_hands_with_President_Dwight_Eisenhower_at_the_AFL_convention,_September_15,_1952..jpg "fig:David_Dubinsky_shakes_hands_with_President_Dwight_Eisenhower_at_the_AFL_convention,_September_15,_1952..jpg")大会に出席したアイゼンハワー\]\]
 
-[Eisenhower_visits_Taiwan_(June_1960).jpg](https://ja.wikipedia.org/wiki/File:Eisenhower_visits_Taiwan_\(June_1960\).jpg "fig:Eisenhower_visits_Taiwan_(June_1960).jpg") 多くの共和党大統領と同じく、自由企業経済が自らを発展させるべきだと考え、国内政策にほとんど興味を持たなかった。1952年の選挙の圧勝は、[共和党に上下両院の主導権を与えたが](../Page/共和党_\(アメリカ\).md "wikilink")、[民主党は国内政策に対する批判で](../Page/民主党_\(アメリカ\).md "wikilink")、[1954年](../Page/1954年.md "wikilink")の[中間選挙](../Page/中間選挙.md "wikilink")で主導権を回復した。議会リーダー、特に[下院議長](https://ja.wikipedia.org/wiki/アメリカ合衆国下院議長 "wikilink")との良好な関係を作り上げることで対応した。 またアイゼンハワーは、多くの実業家を[閣僚に任命し国を統治させた](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領顧問団 "wikilink")。それによって外交問題に専念することができた。
+[Eisenhower_visits_Taiwan_(June_1960).jpg](https://ja.wikipedia.org/wiki/File:Eisenhower_visits_Taiwan_\(June_1960\).jpg "fig:Eisenhower_visits_Taiwan_(June_1960).jpg") 多くの共和党大統領と同じく、自由企業経済が自らを発展させるべきだと考え、国内政策にほとんど興味を持たなかった。1952年アメリカ合衆国大統領選挙の圧勝は、[共和党に上下両院の主導権を与えたが](../Page/共和党_\(アメリカ\).md "wikilink")、[民主党は国内政策に対する批判で](../Page/民主党_\(アメリカ\).md "wikilink")、[1954年](../Page/1954年.md "wikilink")の[中間選挙](../Page/中間選挙.md "wikilink")で主導権を回復した。議会リーダー、特に[下院議長](https://ja.wikipedia.org/wiki/アメリカ合衆国下院議長 "wikilink")との良好な関係を作り上げることで対応した。 またアイゼンハワーは、多くの実業家を[閣僚に任命し国を統治させた](https://ja.wikipedia.org/wiki/アメリカ合衆国大統領顧問団 "wikilink")。それによって外交問題に専念することができた。
 
 #### 経済政策
 
@@ -147,7 +147,7 @@
 
 ### ニクソンとの関係
 
-[Eisenhower_meets_the_Nixons.gif](https://ja.wikipedia.org/wiki/File:Eisenhower_meets_the_Nixons.gif "fig:Eisenhower_meets_the_Nixons.gif") [副大統領の](../Page/アメリカ合衆国副大統領.md "wikilink")[ニクソンに対しては](../Page/リチャード・ニクソン.md "wikilink")、複雑な感情を抱いていたと言われる。ニクソンは副大統領としてアイゼンハワーを支え続けた8年間の間、多くの汚れ役を背負い、その仕事を忠実にこなした。これを誇りに感じていたニクソンは、[1960年の大統領選挙において](https://ja.wikipedia.org/wiki/1960年アメリカ合衆国大統領選挙 "wikilink")、経験に欠けた[ケネディに対して](../Page/ジョン・F・ケネディ.md "wikilink")8年間の副大統領として積んだ実績をキャンペーンした。
+[Eisenhower_meets_the_Nixons.gif](https://ja.wikipedia.org/wiki/File:Eisenhower_meets_the_Nixons.gif "fig:Eisenhower_meets_the_Nixons.gif") [副大統領の](../Page/アメリカ合衆国副大統領.md "wikilink")[ニクソンに対しては](../Page/リチャード・ニクソン.md "wikilink")、複雑な感情を抱いていたと言われる。ニクソンは副大統領としてアイゼンハワーを支え続けた8年間の間、多くの汚れ役を背負い、その仕事を忠実にこなした。これを誇りに感じていたニクソンは、[1960年アメリカ合衆国大統領選挙](https://ja.wikipedia.org/wiki/1960年アメリカ合衆国大統領選挙 "wikilink")において、経験に欠けた[ケネディに対して](../Page/ジョン・F・ケネディ.md "wikilink")8年間の副大統領として積んだ実績をキャンペーンした。
 
 しかしアイゼンハワーは、ニクソンが共和党の候補として出馬した際にニクソンを指名するように依頼された時、冗談を意図して「1週間くれ。そうすれば、考えてもよい」と返答し、単なる一共和党候補として不承不承にニクソンを支持した。これはニクソンに対する厳しい打撃だった。ニクソンはケネディに対して歴史上に残る僅差で敗北すると、アイゼンハワーを非難した。　
 
@@ -203,12 +203,12 @@
 
 1960年代および1970年代のリベラルな風潮の中で前任のトルーマンから引き継いだ[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")への支援や[マッカーシズム](../Page/マッカーシズム.md "wikilink")への抵抗により、近年評価は回復した。歴史家の最近の投票では、アイゼンハワーはすべての大統領の間で11番目と評価された。しかし何人かの歴史家は、「アイゼンハワーの最も大きな業績は大戦中の軍司令官時代のものだった」としている。
 
-職業軍人出身らしく、戦争の残虐さを身をもって体験しており、外交は情報収集を基本に行い、また冷戦真っただ中の任期にあっても、[スプートニクショック](https://ja.wikipedia.org/wiki/スプートニクショック "wikilink")の際も国防費の増額はせず、[軍産複合体](../Page/軍産複合体.md "wikilink")制を批判した。
+職業軍人出身らしく戦争の残虐さを身をもって体験しており、外交は情報収集を基本に行い、また冷戦真っただ中の任期にあっても、[スプートニクショック](https://ja.wikipedia.org/wiki/スプートニクショック "wikilink")の際も国防費の増額はせず、[軍産複合体](../Page/軍産複合体.md "wikilink")制を批判した。
 
 ## その他
 
-  - 第二次世界大戦で日本の敗戦が決定的になり、原子爆弾の使用は不要であることを1945年7月20日に[トルーマン大統領に進言しており](../Page/ハリー・S・トルーマン.md "wikilink")、原爆の使用を強硬に反対した。1945年10月、フランクフルト郊外の自宅でハリマン駐ソ連大使を迎えた夕食の際に、ハリマンは「アイゼンハワー氏は、原爆を使わずに戦争が終わっていたらどんなによかったことか、と話した」と記していた。被爆地広島に原子力発電所を造る案が1953年時点で、米政権内で浮上していたが、大統領に就任したアイゼンハワーは「（原爆投下への）罪悪感を示すことになる」という理由で反対した。ストローズ米原子力委員長は広島への原発建設案をアイゼンハワーに提案したが、アイゼンハワーは「その考えは捨てた方がよい。（原爆を使ったことへの米国の）罪悪感を示すことになるからだ」と発言した。
-  - 大統領時代の[1958年](../Page/1958年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")に、米[NBC](../Page/NBC.md "wikilink")の系列局WRC-TVのワシントンD.C.スタジオの開所式典に招かれ、来賓として祝辞を述べている。この模様は生放送されたばかりか、当時出始めの[放送用の2インチのカラーVTRでも収録された](../Page/2インチVTR.md "wikilink")。その時収録されたビデオテープが、現時点において現存が確認されている最古のカラービデオテープであり、またカラー放送史において非常に貴重な資料の一つとされている。このビデオテープはのちにデジタルリマスタリングされて、米NBCのビデオ・アーカイブスはもちろんのこと、[カンザス州](../Page/カンザス州.md "wikilink")のアイゼンハワー・ライブラリーにも保管されている\[13\]\[14\]。
+  - 第二次世界大戦で日本の敗戦が決定的になり、原子爆弾の使用は不要であることを1945年7月20日に[トルーマン大統領に進言しており](../Page/ハリー・S・トルーマン.md "wikilink")、原爆の使用を強硬に反対した。1945年10月、フランクフルト郊外の自宅でハリマン駐ソ連大使を迎えた夕食の際に、ハリマンは「アイゼンハワー氏は、原爆を使わずに戦争が終わっていたらどんなによかったことか、と話した」と記していた。被爆地広島に原子力発電所を造る案が1953年時点で、アメリカ政権内で浮上していたが、大統領に就任したアイゼンハワーは「（原爆投下への）罪悪感を示すことになる」という理由で反対した。ストローズ米原子力委員長は広島への原発建設案をアイゼンハワーに提案したが、アイゼンハワーは「その考えは捨てた方がよい。（原爆を使ったことへのアメリカの）罪悪感を示すことになるからだ」と発言した。
+  - 大統領時代の[1958年](../Page/1958年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")にアメリカ[NBC](../Page/NBC.md "wikilink")の系列局WRC-TVのワシントンD.C.スタジオの開所式典に招かれ、来賓として祝辞を述べている。この模様は生放送されたばかりか、当時出始めの[放送用の2インチのカラーVTRでも収録された](../Page/2インチVTR.md "wikilink")。その時収録されたビデオテープが、現時点において現存が確認されている最古のカラービデオテープであり、またカラー放送史において非常に貴重な資料の一つとされている。このビデオテープはのちにデジタルリマスタリングされて、アメリカNBCのビデオ・アーカイブスはもちろんのこと、[カンザス州](../Page/カンザス州.md "wikilink")のアイゼンハワー・ライブラリーにも保管されている\[13\]\[14\]。
   - 第二次世界大戦中に着ていた「ウール・フィールドジャケット」が愛称を取って「[アイクジャケット](https://ja.wikipedia.org/wiki/アイゼンハワージャケット "wikilink")」（IKE Jacket）と呼ばれ、[アメリカ合衆国の警察](../Page/アメリカ合衆国の警察.md "wikilink")官や[保安官](../Page/保安官.md "wikilink")の着ている防寒[ジャンパーにその形式](../Page/ジャンパー_\(衣服\).md "wikilink")（丈は腰まで、両肩に[肩章](../Page/肩章.md "wikilink")、両腹部にはボタン止めの蓋を持つパッチポケット）を残す。『[ピーナッツ](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink")』でも、[スヌーピー](../Page/スヌーピー.md "wikilink")が[復員軍人の日](../Page/復員軍人の日.md "wikilink")にアイクジャケットを着るエピソードがある（鶴書房ツルコミック第26巻『ビーグル長官スヌーピー』p.27）。
   - 核攻撃を受けた際の連邦議会開催のための核シェルターを、[ウエストバージニア州](https://ja.wikipedia.org/wiki/ウエストバージニア州 "wikilink")グリーンブライア郡の高級ホテル地下に構築した。
   - [クローン病](../Page/クローン病.md "wikilink")という難病を抱え、大統領在任中に2回手術を受けたと伝えられている。

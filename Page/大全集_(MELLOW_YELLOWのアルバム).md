@@ -6,7 +6,7 @@
 ## 概要
 
   - [MELLOW YELLOW結成](../Page/MELLOW_YELLOW.md "wikilink")16年、ファーストアルバムから12年目にして初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。同じく[FUNKY GRAMMAR UNITに所属する](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")[RHYMESTER](../Page/RHYMESTER.md "wikilink")も2007年にベストアルバムをリリースしている。
-  - [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[UJT](../Page/UJT.md "wikilink")によるイラストや漫画をコラボレーションした[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")付きである。また初回受注生産のみ特殊紙を使用した[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")となっている。
+  - [漫画家](../Page/漫画家.md "wikilink")の[UJT](../Page/UJT.md "wikilink")によるイラストや漫画をコラボレーションした[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")付きである。また初回受注生産のみ特殊紙を使用した[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")となっている。
   - [2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")に[渋谷BOXX](https://ja.wikipedia.org/wiki/渋谷BOXX "wikilink")でリリース記念ワンマンライブが行われる予定である。
 
 ## 収録曲

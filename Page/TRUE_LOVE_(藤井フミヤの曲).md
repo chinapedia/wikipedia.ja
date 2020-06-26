@@ -32,7 +32,7 @@
       -
         シングルA面曲では数少ない、自身単独での作曲。1番はほぼ[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")のみで構成されている。
 2.  **永遠に死ぬまで**
-    作曲：[NAO](https://ja.wikipedia.org/wiki/NAO_\(ミュージシャン\) "wikilink")
+    作曲：[NAO](../Page/藤井尚之.md "wikilink")
       -
         タイトルは『とわにしぬまで』と読む。歌詞は「永遠に死ぬまで」のみであり、それが間奏を挟み計12回繰り返されるという楽曲。
 
@@ -50,6 +50,6 @@
   - 2012年 [BENI](https://ja.wikipedia.org/wiki/BENI "wikilink")（英語詞、アルバム「[COVERS](https://ja.wikipedia.org/wiki/COVERS_\(BENIのアルバム\) "wikilink")」に収録）
   - 2012年 [ジャネット・ケイ](https://ja.wikipedia.org/wiki/ジャネット・ケイ "wikilink")（英語詞）
   - 2012年 [沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink")・[浅倉杏美](../Page/浅倉杏美.md "wikilink")（アルバム「[THE IDOLM@STER STATION\!\!\! Nouvelle Vague](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!!#CD "wikilink")」に収録）
-  - 2017年 テレビアニメ『[ひとりじめマイヒーロー](https://ja.wikipedia.org/wiki/ひとりじめマイヒーロー "wikilink")』エンディングテーマ曲
+  - 2017年 大柴康介（[前野智昭](../Page/前野智昭.md "wikilink")）、勢多川正広（[増田俊樹](https://ja.wikipedia.org/wiki/増田俊樹 "wikilink")）、支倉麻也（[立花慎之介](../Page/立花慎之介.md "wikilink")）、大柴健介（[松岡禎丞](https://ja.wikipedia.org/wiki/松岡禎丞 "wikilink")）（テレビアニメ『[ひとりじめマイヒーロー](https://ja.wikipedia.org/wiki/ひとりじめマイヒーロー "wikilink")』エンディングテーマ曲）
 
 [Category:藤井フミヤの楽曲](https://ja.wikipedia.org/wiki/Category:藤井フミヤの楽曲 "wikilink") [Category:藤井フミヤが制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤井フミヤが制作した楽曲 "wikilink") [Category:ポニーキャニオンの楽曲](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:1993年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1993年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

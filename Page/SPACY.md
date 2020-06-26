@@ -424,7 +424,7 @@
 <td><p>2</p></td>
 <td></td>
 <td></td>
-<td><p>{{Nowrap|</p></td>
+<td></td>
 <td><p>カセット同時発売。アナログLPと同内容。</p></td>
 <td></td>
 </tr>
@@ -521,7 +521,7 @@
 
 [Category:山下達郎のアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎のアルバム "wikilink") [Category:1977年のアルバム](https://ja.wikipedia.org/wiki/Category:1977年のアルバム "wikilink") [Category:RCAのアルバム](https://ja.wikipedia.org/wiki/Category:RCAのアルバム "wikilink") [Category:山下達郎がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:山下達郎がプロデュースしたアルバム "wikilink")
 
-1.  『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』 発売 RCA ⁄ RVC LP:RVL-8004
+1.  『[CIRCUS TOWN](../Page/CIRCUS_TOWN.md "wikilink")』 発売 RCA ⁄ [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC "wikilink") LP:RVL-8004
 2.
 3.
 4.

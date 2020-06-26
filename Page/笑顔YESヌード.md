@@ -1,7 +1,7 @@
 > この記事は[笑顔YESヌード](https://ja.wikipedia.org/wiki/笑顔YESヌード)から翻訳されています。
 
 
-「**笑顔YESヌード**」（えがお イエス ヌード）は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の32枚目の[シングル](../Page/シングル.md "wikilink")。
+「**笑顔YESヌード**」（えがお イエス ヌード）は[モーニング娘。](../Page/モーニング娘。.md "wikilink")の32枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 

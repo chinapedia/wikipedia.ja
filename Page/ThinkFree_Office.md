@@ -19,10 +19,10 @@
 
 ## 外部リンク
 
-  - [ThinkFree オフィシャルサイト](http://www.thinkfree.com/)
-  - [ThinkFree 日本語版オフィシャルサイト](http://www.thinkfree.com/ja/)
-  - [ThinkFree Office Online](http://www.thinkfree.com/ja/product/online/)
-  - [ソースネクストのThinkFree Office Neo紹介ページ](http://www.sourcenext.com/product/pc/ofc/pc_ofc_001604/)
+  - [Hancom Office](https://office.hancom.com/)
+  - [Hancom Office](https://office.hancom.com/ja/)
+  - [Hancom Office Online](https://office.hancom.com/ja/product/online/)
+  - [Thinkfree Office NEO](https://www.sourcenext.com/product/pc/ofc/pc_ofc_002338/) - [ソースネクスト](../Page/ソースネクスト.md "wikilink")
 
 [Category:オフィスソフト](https://ja.wikipedia.org/wiki/Category:オフィスソフト "wikilink") [Category:ウェブアプリケーション](https://ja.wikipedia.org/wiki/Category:ウェブアプリケーション "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:オンラインオフィススイート](https://ja.wikipedia.org/wiki/Category:オンラインオフィススイート "wikilink")
 

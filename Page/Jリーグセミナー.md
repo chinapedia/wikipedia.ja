@@ -32,7 +32,7 @@
   - [FCコリア](https://ja.wikipedia.org/wiki/FCコリア "wikilink")
   - ×[松本山雅FC](../Page/松本山雅FC.md "wikilink")（2012年からJ2）
   - ×[AC長野パルセイロ](../Page/AC長野パルセイロ.md "wikilink")（2014年からJ3）
-  - 富山県サッカー協会（2009年からJ2の×[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")発足で中心的役割を果たす）
+  - 富山県サッカー協会（2009年からJ2の×[カターレ富山](../Page/カターレ富山.md "wikilink")発足で中心的役割を果たす）
   - [ヴァリエンテ富山](../Page/ヴァリエンテ富山.md "wikilink")
   - ×[ツエーゲン金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")（2014年からJ3）
   - [サウルコス福井](../Page/サウルコス福井.md "wikilink")

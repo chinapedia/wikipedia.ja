@@ -7,6 +7,8 @@
 
 アルバム「[CRUISE RECORD 1995-2000](../Page/CRUISE_RECORD_1995-2000.md "wikilink")」の先行シングルであり、[8cmCD仕様で発売された最後のシングルである](../Page/コンパクトディスク.md "wikilink")。アルバムに収録されているバージョンは歌詞が追加されており、50秒程長い。また、アルバムにはカップリングに収録されている「MISS YOUR BODY」のリミックスも収録されている。
 
+ジャケットは「CRUISE RECORD 1995-2000」のジャケットをモチーフにしてる
+
 ## 収録曲
 
 1.  **still growin' up - Single Edit**

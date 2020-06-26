@@ -21,7 +21,7 @@
 6.  **Magic in the Air** (5:19) / [宮本文昭](../Page/宮本文昭.md "wikilink") with [エリック・ムーケ](../Page/エリック・ムーケ.md "wikilink") from [ディープ・フォレスト](../Page/ディープ・フォレスト.md "wikilink")
 7.  **Starneon** (3:27) / [小松亮太](../Page/小松亮太.md "wikilink") with [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
       -
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")」 テーマ曲
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")」 テーマ曲
 8.  **風のワルツ** (4:10) / [加古隆](../Page/加古隆.md "wikilink")
       -
         [映画](../Page/映画.md "wikilink")「[阿弥陀堂だより](../Page/阿弥陀堂だより.md "wikilink")」 テーマ曲ロングバージョン

@@ -1,17 +1,17 @@
 > この記事は[GOLDFINGER \'99](https://ja.wikipedia.org/wiki/GOLDFINGER_\'99)から翻訳されています。
 
 
-「**GOLDFINGER '99**」（ゴールドフィンガー ナインティナイン）は、[郷ひろみ](../Page/郷ひろみ.md "wikilink")の76枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（[Sony Recordsレーベル](../Page/ソニー・ミュージックレコーズ.md "wikilink")、現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売された。
+『**GOLDFINGER '99**』（ゴールドフィンガー ナインティナイン）は、[郷ひろみ](../Page/郷ひろみ.md "wikilink")の76枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")に[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（[Sony Recordsレーベル](../Page/ソニー・ミュージックレコーズ.md "wikilink")、現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")）から発売された。
 
 ## 解説
 
-[リッキー・マーティン](../Page/リッキー・マーティン.md "wikilink")の「[リヴィン・ラ・ヴィダ・ロカ](https://ja.wikipedia.org/wiki/リヴィン・ラ・ヴィダ・ロカ "wikilink")」（*[Livin' la Vida Loca](https://ja.wikipedia.org/wiki/:en:Livin'_la_Vida_Loca "wikilink")*）のメロディに日本語の歌詞をのせた楽曲。8cmCDと12cmCDの2種類で発売されており、8cmCD盤はジャケットが2種類ある。
+[リッキー・マーティン](../Page/リッキー・マーティン.md "wikilink")の『[リヴィン・ラ・ヴィダ・ロカ](https://ja.wikipedia.org/wiki/リヴィン・ラ・ヴィダ・ロカ "wikilink")』（*[Livin' la Vida Loca](https://ja.wikipedia.org/wiki/:en:Livin'_la_Vida_Loca "wikilink")*）のメロディに日本語の歌詞をのせた楽曲。8cmCDと12cmCDの2種類で発売されており、8cmCD盤はジャケットが2種類ある。
 
-1990年代にリリースしたシングルでは「[言えないよ](../Page/言えないよ.md "wikilink")」「[逢いたくてしかたない](../Page/逢いたくてしかたない.md "wikilink")」を上回り、累計40万枚以上のセールスを記録。自身のシングルでは「[よろしく哀愁](../Page/よろしく哀愁.md "wikilink")」「[哀愁のカサブランカ](../Page/哀愁のカサブランカ.md "wikilink")」に次ぐ3番目のヒット作となった。
+1990年代にリリースしたシングルでは『[言えないよ](../Page/言えないよ.md "wikilink")』『[逢いたくてしかたない](../Page/逢いたくてしかたない.md "wikilink")』を上回り、累計40万枚以上のセールスを記録。自身のシングルでは『[よろしく哀愁](../Page/よろしく哀愁.md "wikilink")』『[哀愁のカサブランカ](../Page/哀愁のカサブランカ.md "wikilink")』に次ぐ3番目のヒット作となった。
 
 サビの「ACHICHI ACHI」を連呼する歌詞は、郷自身の発案によるものである。本楽曲について郷は「（\<123バ 223バ\>という歌詞がある）『[お嫁サンバ](../Page/お嫁サンバ.md "wikilink")』の経験があったので、この曲も歌えた」と振り返っている\[1\]。サビの手の動きが特徴的な振り付けは[黒須洋壬](https://ja.wikipedia.org/wiki/黒須洋壬 "wikilink")が担当した。黒須によれば、サビの振り付けは「お煎餅を焼く時に表、裏返して、触ったらアッチッチみたいな」というイメージから生まれたという\[2\]。
 
-のちに「GOLDFINGER 2001」というリミックスバージョンが制作され、アルバム『[MOST LOVED HITS OF HIROMI GO VOL.1～Heat～](https://ja.wikipedia.org/wiki/MOST_LOVED_HITS_OF_HIROMI_GO_VOL.1～Heat～ "wikilink")』に収録されている。
+のちに『GOLDFINGER 2001』というリミックスバージョンが制作され、アルバム『[MOST LOVED HITS OF HIROMI GO VOL.1～Heat～](https://ja.wikipedia.org/wiki/MOST_LOVED_HITS_OF_HIROMI_GO_VOL.1～Heat～ "wikilink")』に収録されている。
 
 2009年9月2日、発売10周年、93枚目のシングル『[Get Real Love 〜GOLDFINGER'009](https://ja.wikipedia.org/wiki/Get_Real_Love_〜GOLDFINGER'009 "wikilink")』を発売した。カップリングは10周年リミックス版。
 
@@ -42,17 +42,17 @@
 
 ## エピソード
 
-  - 1999年8月、プロモーションとして[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")にトラックを止め、警察に無届けで白昼ゲリラライブを敢行した。マスコミと野次馬が交差点に押し寄せたため、[交通渋滞](https://ja.wikipedia.org/wiki/交通渋滞 "wikilink")を引き起こしてしまい、[所属レコード会社の現場関係者ら](../Page/ソニー・ミュージックレコーズ.md "wikilink")6人が[道路交通法](../Page/道路交通法.md "wikilink")違反容疑で書類送検された。関係者も、郷の人気ぶりがまさかそこまでとは予想しておらず、思わぬ事態に発展。レコード会社のプロデューサーは懲役3月、執行猶予2年の判決を受けた。当事者の郷も警察の取り調べを受ける事態に発展した。郷はその後出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で「関係者並びに市民の皆様には多大なご迷惑をお掛けしました。」と謝罪した。
+  - 1999年8月、プロモーションとして[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")にトラックを止め、警察に無届けで白昼ゲリラライブを敢行した。マスコミと野次馬が交差点に押し寄せたため、[交通渋滞](https://ja.wikipedia.org/wiki/交通渋滞 "wikilink")を引き起こしてしまい、[所属レコード会社の現場関係者ら](../Page/ソニー・ミュージックレコーズ.md "wikilink")6人が[道路交通法](../Page/道路交通法.md "wikilink")違反容疑で書類送検された。関係者も、郷の人気ぶりがまさかそこまでとは予想しておらず、思わぬ事態に発展。レコード会社のプロデューサーは懲役3月、執行猶予2年の判決を受けた。当事者の郷も警察の取り調べを受ける事態に発展した。郷はその後出演した『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』で「関係者並びに市民の皆様には多大なご迷惑をお掛けしました」と謝罪した。
 
 ## 倖田來未のカバー版
 
-「**GOLDFINGER 2019**」（ゴールドフィンガー 2019）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の5作目の配信限定シングル。[2019年](../Page/2019年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")に配信された。
+『**GOLDFINGER 2019**』（ゴールドフィンガー 2019）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")の5作目の配信限定シングル。[2019年](../Page/2019年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")に配信された。
 
 ### 解説
 
-前作「[DO ME](https://ja.wikipedia.org/wiki/DO_ME "wikilink")」から約1か月ぶりのリリースである。[郷ひろみ](../Page/郷ひろみ.md "wikilink")の「[GOLDFINGER '99](../Page/GOLDFINGER_'99.md "wikilink")」のカバー（原曲は[リッキー・マーティン](../Page/リッキー・マーティン.md "wikilink")の「[リヴィン・ラ・ヴィダ・ロカ](https://ja.wikipedia.org/wiki/リヴィン・ラ・ヴィダ・ロカ "wikilink")」）。
+前作『[DO ME](https://ja.wikipedia.org/wiki/DO_ME "wikilink")』から約1か月ぶりのリリースである。郷ひろみの『GOLDFINGER '99』のカバー。
 
-“倖田來未”なりのリメイクな解釈で、「楽曲をどう変化させるかっていう挑戦」「『GOLDFINGER '99』という楽曲も20周年で、“倖田來未”の原点というかターニングポイントってある種カバー曲。キーとなる曲」として、語っている\[3\]。
+“倖田來未”なりのリメイクな解釈で、「楽曲をどう変化させるかっていう挑戦」「『GOLDFINGER '99』という楽曲も20周年で、“倖田來未”の原点というかターニングポイントってある種カバー曲。キーとなる曲」として語っている\[3\]。
 
 ### 楽曲
 
@@ -69,6 +69,6 @@
 
 [Category:郷ひろみの楽曲](https://ja.wikipedia.org/wiki/Category:郷ひろみの楽曲 "wikilink") [Category:康珍化が制作した楽曲](https://ja.wikipedia.org/wiki/Category:康珍化が制作した楽曲 "wikilink") [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:TBS日曜劇場の主題歌](https://ja.wikipedia.org/wiki/Category:TBS日曜劇場の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:リメイク楽曲](https://ja.wikipedia.org/wiki/Category:リメイク楽曲 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink") [Category:ワンダフル_(テレビ番組)](https://ja.wikipedia.org/wiki/Category:ワンダフル_\(テレビ番組\) "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink")
 
-1.  [女性自身「『よろしく哀愁』『お嫁サンバ』郷ひろみのターニングポイント６曲」](http://jisin.jp/serial/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/21318)
+1.
 2.  [価格.com「『スーパーチャンプル』 2009年2月6日（金）放送内容」](http://kakaku.com/tv/channel=4/programID=6579/episodeID=224162/)
 3.

@@ -17,6 +17,7 @@
       -
         作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：[Giancarlo Pasquini](../Page/デイブ・ロジャース.md "wikilink")・[Sandro Oliva](https://ja.wikipedia.org/wiki/サンドロ・オリーヴァ "wikilink")・[Alberto Contini](https://ja.wikipedia.org/wiki/アルベルト・コンティーニ "wikilink")・[Jennifer Batten](../Page/ジェニファー・バトゥン.md "wikilink")、編曲：[木村貴志](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
         この曲は後に作曲者のデイブ・ロジャースがセルフカバーしている。[SEBシリーズへの初収録はVOL](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink").65。来日コンサートでは、この曲のアコースティックバージョンも披露している。
+        ソロパートは存在せず、全体を通して[ユニゾン](https://ja.wikipedia.org/wiki/ユニゾン "wikilink")で歌い繋いでいる。
         [プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")で使用されている音源と、CDに収録された音源はやや異なる。
 2.  **Theme of Coming Century** - Coming Century
       -

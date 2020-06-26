@@ -1,7 +1,7 @@
 > この記事は[Apache Harmony](https://ja.wikipedia.org/wiki/Apache_Harmony)から翻訳されています。
 
 
-**Apache Harmony**（アパッチ・ハーモニー）は、[オープンソース](../Page/オープンソース.md "wikilink")かつフリーな[Java](https://ja.wikipedia.org/wiki/Java "wikilink")実装である。[Java SE](https://ja.wikipedia.org/wiki/Java_SE "wikilink") 5, 6を元にしており、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink") Version 2 にて提供されていた。開発は[2005年](../Page/2005年.md "wikilink")5月に開始され、[2006年](../Page/2006年.md "wikilink")10月にはApache財団のトップレベルプロジェクトとなった。しかし別のオープンソース実装である[OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")に集約される形となり、[2011年](../Page/2011年.md "wikilink")11月3日に開発終了した\[1\]\[2\]。
+**Apache Harmony**（アパッチ・ハーモニー）は、[オープンソース](../Page/オープンソース.md "wikilink")かつフリーな[Java](https://ja.wikipedia.org/wiki/Java "wikilink")実装である。[Java SE](https://ja.wikipedia.org/wiki/Java_SE "wikilink") 5, 6を元にしており、[Apache License](../Page/Apache_License.md "wikilink") Version 2 にて提供されていた。開発は[2005年](../Page/2005年.md "wikilink")5月に開始され、[2006年](../Page/2006年.md "wikilink")10月にはApache財団のトップレベルプロジェクトとなった。しかし別のオープンソース実装である[OpenJDK](https://ja.wikipedia.org/wiki/OpenJDK "wikilink")に集約される形となり、[2011年](../Page/2011年.md "wikilink")11月3日に開発終了した\[1\]\[2\]。
 
 SDKやJREも配布されており、仮想機械にはDRLVMを、コンパイラにはEclipse Java Compilerを使用していた。
 
@@ -59,7 +59,7 @@ Harmony は、いずれも外部からの寄付による4種類の [Java VM](../
 
   - JC Harmony Edition VM, "JCHEVM," [JCVM's](https://ja.wikipedia.org/wiki/:en:JC_virtual_machine "wikilink") [インタプリタ](../Page/インタプリタ.md "wikilink") に基づいており、[Archie Cobbs](https://ja.wikipedia.org/wiki/Archie_Cobbs "wikilink") によって寄贈された。
   - BootJVM, シンプルな[ブートストラップ可能な仮想マシンで](https://ja.wikipedia.org/wiki/:en:Bootstrapping_\(computing\) "wikilink")、[Daniel Lydick](https://ja.wikipedia.org/wiki/Daniel_Lydick "wikilink") によって寄贈された。
-  - [SableVM](https://ja.wikipedia.org/wiki/SableVM "wikilink") は先進的でポータブルなインタプリタで、[Sable Research Group](https://ja.wikipedia.org/wiki/:en:Sable_Research_Group "wikilink") および Dynamic Runtime Layer Virtual Machine の作者達によって寄贈された。
+  - [SableVM](../Page/SableVM.md "wikilink") は先進的でポータブルなインタプリタで、[Sable Research Group](https://ja.wikipedia.org/wiki/:en:Sable_Research_Group "wikilink") および Dynamic Runtime Layer Virtual Machine の作者達によって寄贈された。
   - BEA は Apache Harmony クラスライブラリが動作する JRockit VM の評価版が利用できることを発表していた\[10\]。
 
 2006 年 11 月の時点でこれらの仮想マシンによる言語のサポートは完全ではなかったため、クラスライブラリのテスト\[[http://incubator.apache.org/harmony/quickhelp_contributors.html\]を実行するためのビルドの手順として](http://incubator.apache.org/harmony/quickhelp_contributors.html%5Dを実行するためのビルドの手順として) [IBM](../Page/IBM.md "wikilink") の [プロプライエタリ](../Page/プロプライエタリ・ソフトウェア.md "wikilink") の VM である J9 を使うよう推奨されていたが、2007年7月時点では J9 は不要となっていた。

@@ -1,7 +1,7 @@
 > この記事は[L \(DEATH NOTE\)](https://ja.wikipedia.org/wiki/L_\(DEATH_NOTE\))から翻訳されています。
 
 
-**L**（エル）は、漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』の[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")。
+**L**（エル）は、漫画『[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")』の[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")。
 
 ## キャスト
 

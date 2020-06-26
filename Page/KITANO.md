@@ -21,8 +21,7 @@
 
 ## 外部リンク
 
-  - [株式会社KITANO公式サイト](http://www.kicja.co.jp/)
-
+  -
 [Category:かつて存在した日本の電気機器メーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の電気機器メーカー "wikilink") [Category:かつて存在した徳島県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した徳島県の企業 "wikilink") [Category:経営破綻した企業(徳島県)](https://ja.wikipedia.org/wiki/Category:経営破綻した企業\(徳島県\) "wikilink")
 
 1.  エーエムシーは[1999年](../Page/1999年.md "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")社のグループ会社と提携し、タイム・ワーナーレーベルのDVD-ROMの日本における独占製造契約を締結していた。

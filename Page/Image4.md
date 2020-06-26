@@ -50,7 +50,7 @@
         アニメ「[京極夏彦 巷説百物語](https://ja.wikipedia.org/wiki/京極夏彦_巷説百物語 "wikilink")」（[TMS](../Page/トムス・エンタテインメント.md "wikilink")・[東宝](../Page/東宝.md "wikilink")・[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[RCC](../Page/中国放送.md "wikilink")） オープニングテーマ曲
 16. **Stargazer** (4:36) / [松谷卓](../Page/松谷卓.md "wikilink")
       -
-        テレビ朝日「[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")」 テーマ曲
+        テレビ朝日「[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")」 テーマ曲
 17. **ブラジレイリーニョ** (3:28) / [ヨーヨー・マ](../Page/ヨーヨー・マ.md "wikilink")
       -
         JAL提供 フジテレビ「リ・フ・レ」 テーマ曲

@@ -137,7 +137,7 @@
 </tbody>
 </table>
 
-『**咲-Saki-**』（さき）は、[小林立](../Page/小林立.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[麻雀漫画](../Page/麻雀漫画.md "wikilink")。主人公を含めた多くの主要登場人物は[女子高生](../Page/女子高生.md "wikilink")。麻雀がより社会に浸透した架空の世界で、主人公たちは競技会に参加するなどして腕を競い合う。2006年より雑誌連載が開始され、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")現在も連載中。
+『咲-Saki-』(さき)は、小林立による日本の麻雀漫画。主人公を含めた多くの主要登場人物は女子高生。麻雀がより社会に浸透した架空の世界で、主人公たちは競技会に参加するなどして腕を競い合う。2006年より雑誌連載が開始され、[2020年](../Page/2020年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")現在も連載中。
 
 ## 概要
 
@@ -280,7 +280,7 @@
     阿知賀編ではインターハイ2回戦・準決勝と阿知賀女子学院と戦うことになる。
   - 清水谷 竜華（しみずだに りゅうか）
     声 - [石原夏織](https://ja.wikipedia.org/wiki/石原夏織 "wikilink")（阿知賀編） / 演 - [小倉優香](https://ja.wikipedia.org/wiki/小倉優香 "wikilink")（阿知賀編）
-    千里山女子高校3年生で麻雀部部長兼チーム主将。怜とは中学時代からの友人で、病弱な怜を常に気にかけている。
+    千里山女子高校3年生で麻雀部部長兼チーム主将。怜とは小学校時代からの友人で、病弱な怜を常に気にかけている。
 
 ### 咲reの主な登場人物
 
@@ -2027,7 +2027,7 @@ LACM-4920（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a>（NBC）</p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>（NBC）</p></td>
 <td><p>2016年<a href="../Page/12月16日.md" title="wikilink">12月16日</a> - <a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/1月13日.md" title="wikilink">1月13日</a></p></td>
 <td><p>金曜 1:25 - 1:55（木曜深夜）</p></td>
 <td></td>

@@ -10,6 +10,7 @@
 <!-- end list -->
 
   - V6最後の[コピーコントロールCD](../Page/コピーコントロールCD.md "wikilink")での発売である。
+  - Cメロの[ラップ](../Page/ラップ.md "wikilink")パートはComing Centuryメンバー([森田](https://ja.wikipedia.org/wiki/森田剛 "wikilink")、[三宅](../Page/三宅健.md "wikilink")、[岡田](../Page/岡田准一.md "wikilink"))が歌っている。[長野](../Page/長野博.md "wikilink")、[井ノ原のソロパートは存在しない](../Page/井ノ原快彦.md "wikilink")。
 
 <!-- end list -->
 

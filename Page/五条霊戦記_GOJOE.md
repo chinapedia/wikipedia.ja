@@ -32,7 +32,7 @@
   - 藻平 : [森下能幸](../Page/森下能幸.md "wikilink")
   - [鉢叩](https://ja.wikipedia.org/wiki/鉢叩 "wikilink")き : [石原尚大](https://ja.wikipedia.org/wiki/石原尚大 "wikilink")
   - 放下 : [森正明](https://ja.wikipedia.org/wiki/森正明_\(俳優\) "wikilink")
-  - [傀儡師](../Page/傀儡子.md "wikilink") : [井上浩](../Page/井上浩.md "wikilink")
+  - [傀儡師](../Page/傀儡子.md "wikilink") : [井上浩](../Page/井上浩_\(俳優\).md "wikilink")
   - 泥棒 : [伊藤信隆](https://ja.wikipedia.org/wiki/伊藤信隆 "wikilink")
   - ささらすり : [小西直人](https://ja.wikipedia.org/wiki/小西直人 "wikilink")
   - 奕打打ち : [白岩正嗣](https://ja.wikipedia.org/wiki/白岩正嗣 "wikilink")

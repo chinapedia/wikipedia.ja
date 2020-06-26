@@ -30,8 +30,8 @@
   - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")『[ダンス・ショーケース](https://ja.wikipedia.org/wiki/ダンス・ショーケース "wikilink")』に出演
   - 『[週刊実話](../Page/週刊実話.md "wikilink")』にKAZUMIの記事が掲載
   - [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[THEワイド](../Page/ザ・ワイド.md "wikilink")』に出演
-  - 日本テレビ『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")』に2回出演（2回目は生出演）
-  - [中央酪農会議](https://ja.wikipedia.org/wiki/中央酪農会議 "wikilink")『[牛乳に相談だ。](../Page/牛乳に相談だ。.md "wikilink")』の[CMに出演](../Page/コマーシャルメッセージ.md "wikilink")
+  - 日本テレビ『[スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")』に2回出演（2回目は生出演）
+  - [中央酪農会議](../Page/中央酪農会議.md "wikilink")『[牛乳に相談だ。](../Page/牛乳に相談だ。.md "wikilink")』の[CMに出演](../Page/コマーシャルメッセージ.md "wikilink")
   - [オートバックスの店頭CMに出演](../Page/オートバックスセブン.md "wikilink")
   - [NECダイレクトのCMに出演](../Page/日本電気.md "wikilink")
 
@@ -57,7 +57,7 @@
 
 ### テレビ番組
 
-  - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ_\(テレビ番組\) "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [スッキリ\!\!](../Page/スッキリ_\(テレビ番組\).md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")（[中京テレビ](../Page/中京テレビ放送.md "wikilink")）
   - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")（日本テレビ）
   - [世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")（日本テレビ）
@@ -67,7 +67,7 @@
 
 ### CM
 
-  - [牛乳に相談だ。](../Page/牛乳に相談だ。.md "wikilink")（2007年、[中央酪農会議](https://ja.wikipedia.org/wiki/中央酪農会議 "wikilink")）\[4\]
+  - [牛乳に相談だ。](../Page/牛乳に相談だ。.md "wikilink")（2007年、[中央酪農会議](../Page/中央酪農会議.md "wikilink")）\[4\]
 
 ## 脚注
 

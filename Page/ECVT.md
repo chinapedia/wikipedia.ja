@@ -1,13 +1,13 @@
 > この記事は[ECVT](https://ja.wikipedia.org/wiki/ECVT)から翻訳されています。
 
 
-**ECVT** (**E**lectro **C**ontinuously **V**ariable **T**ransmission) とは、[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（現・[SUBARU](../Page/SUBARU.md "wikilink")）と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ヴァンドーネ](https://ja.wikipedia.org/wiki/ヴァンドーネ "wikilink")（Van Doorne's Transmissie BV、VDT、現[DAF](../Page/DAF_\(自動車メーカー\).md "wikilink")）との共同開発によって世界で初めて実用化に成功したイージードライブシステム式[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")である。富士重工業はこれを「電子制御[電磁クラッチ](https://ja.wikipedia.org/wiki/電磁クラッチ "wikilink")式無段変速機」と称した。
+**ECVT** (**E**lectro **C**ontinuously **V**ariable **T**ransmission) とは、富士重工業（現・[SUBARU](../Page/SUBARU.md "wikilink")）と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[ヴァンドーネ](https://ja.wikipedia.org/wiki/ヴァンドーネ "wikilink")（Van Doorne's Transmissie BV、VDT、現[DAF](../Page/DAF_\(自動車メーカー\).md "wikilink")）との共同開発によって世界で初めて実用化に成功したイージードライブシステム式[オートマチックトランスミッション](../Page/オートマチックトランスミッション.md "wikilink")である。富士重工業はこれを「電子制御[電磁クラッチ](https://ja.wikipedia.org/wiki/電磁クラッチ "wikilink")式無段変速機」と称した。
 
 ## 概要
 
-通常のATは摩擦[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")の代わりに[流体継手](../Page/流体継手.md "wikilink")の一種である[トルクコンバータ](../Page/トルクコンバータ.md "wikilink")を使っているが、富士重工業は「電子制御電磁パウダークラッチ」を使った。[レックス](../Page/スバル・レックス.md "wikilink")・[サンバーにおける](../Page/スバル・サンバー.md "wikilink")[クラッチペダル](../Page/クラッチペダル.md "wikilink")レスの「オートクラッチ」システムで採用された技術で、「[クリープ現象が無く安全](../Page/クリープ_\(自動車\).md "wikilink")」と宣伝されていた。なお無段変速部は、[DAFを買収した](../Page/DAF_\(自動車メーカー\).md "wikilink")[ボルボの乗用車で使用実績のあった](../Page/ボルボ・カーズ.md "wikilink")[スチールベルト式CVTを使用していた](https://ja.wikipedia.org/wiki/無段変速機#スチールベルト式CVT "wikilink")。
+通常のATは摩擦[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")の代わりに[流体継手](../Page/流体継手.md "wikilink")の一種である[トルクコンバータ](../Page/トルクコンバータ.md "wikilink")を使っているが、富士重工業は「電子制御電磁パウダークラッチ」を使った。[レックス](../Page/スバル・レックス.md "wikilink")・[サンバーに採用された](../Page/スバル・サンバー.md "wikilink")[クラッチペダル](../Page/クラッチペダル.md "wikilink")レスの「[オートクラッチ](https://ja.wikipedia.org/wiki/オートクラッチ "wikilink")」システムの技術で、「[クリープ現象が無く安全](../Page/クリープ_\(自動車\).md "wikilink")」とされていた。無段変速部は、[DAFを買収した](../Page/DAF_\(自動車メーカー\).md "wikilink")[ボルボの乗用車で使用実績のあった](../Page/ボルボ・カーズ.md "wikilink")[スチールベルト式CVTを使用していた](https://ja.wikipedia.org/wiki/無段変速機#スチールベルト式CVT "wikilink")。
 
-変速ショックのない小[排気量](../Page/排気量.md "wikilink")車にとっては理想のATとして宣伝され、[ジャスティを皮切りにレックス](../Page/スバル・ジャスティ.md "wikilink")、サンバー、[ヴィヴィオ](../Page/スバル・ヴィヴィオ.md "wikilink")、[ドミンゴと拡大採用されていった](../Page/スバル・ドミンゴ.md "wikilink")。
+変速ショックのない小[排気量](../Page/排気量.md "wikilink")車にとっては理想のATとして、[ジャスティを皮切りにレックス](../Page/スバル・ジャスティ.md "wikilink")、サンバー、[ヴィヴィオ](../Page/スバル・ヴィヴィオ.md "wikilink")、[ドミンゴと拡大採用されていった](../Page/スバル・ドミンゴ.md "wikilink")。
 
 ## 問題点
 
@@ -29,7 +29,7 @@ ECVT車の[スロットル](https://ja.wikipedia.org/wiki/スロットル "wikil
   - [1992年](../Page/1992年.md "wikilink")（平成4年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - ヴィヴィオに搭載
   - 1992年（平成4年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [日産・マーチ](../Page/日産・マーチ.md "wikilink")1300に搭載
   - [1994年](../Page/1994年.md "wikilink")（平成6年）- ドミンゴに搭載
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）- ヴィヴィオに「6速マニュアルモード付スポーツシフト」を採用
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）- ヴィヴィオに「[6速マニュアルモード付スポーツシフト](https://ja.wikipedia.org/wiki/スバル・ヴィヴィオ#トランスミッション "wikilink")」を採用
 
 このほか[フィアット](../Page/フィアット.md "wikilink")へも供給され、[パンダと](https://ja.wikipedia.org/wiki/フィアット・パンダ "wikilink")[ウーノに採用された](https://ja.wikipedia.org/wiki/フィアット・ウーノ "wikilink")。
 

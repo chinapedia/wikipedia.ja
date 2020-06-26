@@ -278,7 +278,7 @@
     [シュテルン (雑誌)](https://ja.wikipedia.org/wiki/シュテルン_\(雑誌\) "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Stern_\(magazine\) "wikilink")）
     [ジャーマン・ディアスポラ](https://ja.wikipedia.org/wiki/ジャーマン・ディアスポラ "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:German_diaspora "wikilink")）
     [タラールの下には千年来のカビ](https://ja.wikipedia.org/wiki/タラールの下には千年来のカビ "wikilink")（[de](https://ja.wikipedia.org/wiki/:de:Unter_den_Talaren_–_Muff_von_1000_Jahren "wikilink")）
-    [ドイツ系ロシア人](https://ja.wikipedia.org/wiki/ドイツ系ロシア人 "wikilink")([en](https://ja.wikipedia.org/wiki/:en:History_of_Germans_in_Russia,_Ukraine_and_the_Soviet_Union "wikilink"))
+    [ドイツ系ロシア人](../Page/ドイツ系ロシア人.md "wikilink")([en](https://ja.wikipedia.org/wiki/:en:History_of_Germans_in_Russia,_Ukraine_and_the_Soviet_Union "wikilink"))
     [ドイツの国際関係](https://ja.wikipedia.org/wiki/ドイツの国際関係 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Foreign_relations_of_Germany "wikilink")）
     [ドブロジャ・ドイツ人](https://ja.wikipedia.org/wiki/ドブロジャ・ドイツ人 "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Dobrujan_Germans "wikilink")）
     [ナチス犯罪追及センター](https://ja.wikipedia.org/wiki/ナチス犯罪追及センター "wikilink")（[en](https://ja.wikipedia.org/wiki/:en:Zentrale_Stelle_der_Landesjustizverwaltungen_zur_Aufklärung_nationalsozialistischer_Verbrechen "wikilink")）

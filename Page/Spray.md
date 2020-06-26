@@ -7,7 +7,7 @@
 
   - 『[Drug TReatment](../Page/Drug_TReatment.md "wikilink")』の先行シングル。
   - 黒夢の後期ファンクラブ会報と同名である。
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")」 OP (Spray)
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")」 OP (Spray)
   - [モード学園](https://ja.wikipedia.org/wiki/モード学園 "wikilink")[CMソング](../Page/コマーシャルソング.md "wikilink") (カマキリ -1997 BURST VERSION-)
   - 本作でカラオケバージョンの収録は最後になっている。
 

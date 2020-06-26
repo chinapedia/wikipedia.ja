@@ -15,7 +15,7 @@
         東宝配給映画『この胸いっぱいの愛を』主題歌
 2.  **memory pocket -メモポケ-**
       -
-        （作詞:柴咲コウ 作曲:[Jin Nakamura](https://ja.wikipedia.org/wiki/Jin_Nakamura "wikilink") 編曲:[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")&[REO](https://ja.wikipedia.org/wiki/REO "wikilink")）
+        （作詞:柴咲コウ 作曲:[Jin Nakamura](../Page/Jin_Nakamura.md "wikilink") 編曲:[華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")&[REO](https://ja.wikipedia.org/wiki/REO "wikilink")）
         スクウェア・エニックスRPGゲーム「CODE AGE COMMANDERS」イメージ・ソング
 3.  **あどけない温もり**
       -

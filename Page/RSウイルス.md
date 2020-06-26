@@ -1,7 +1,7 @@
 > この記事は[RSウイルス](https://ja.wikipedia.org/wiki/RSウイルス)から翻訳されています。
 
 
-**RSウイルス**（）は、[ニューモウイルス科](https://ja.wikipedia.org/wiki/ニューモウイルス科 "wikilink")[オルトニューモウイルス属](https://ja.wikipedia.org/wiki/オルトニューモウイルス属 "wikilink")に属する[RNAウイルス](../Page/RNAウイルス.md "wikilink")の一種。学名は**ヒトオルトニューモウイルス**（）\[1\]。
+**RSウイルス**（）は、[ニューモウイルス科](../Page/ニューモウイルス科.md "wikilink")[オルトニューモウイルス属](https://ja.wikipedia.org/wiki/オルトニューモウイルス属 "wikilink")に属する[RNAウイルス](../Page/RNAウイルス.md "wikilink")の一種。学名は**ヒトオルトニューモウイルス**（）\[1\]。
 
 遺伝子配列は決定されていて、A型とB型の2つの型に分類できる。ウイルス株間での差違は大きい。
 

@@ -1,9 +1,9 @@
 > この記事は[Mr.アパッチ](https://ja.wikipedia.org/wiki/Mr.アパッチ)から翻訳されています。
 
 
-**Mr.アパッチ**（みすたー あぱっち）は日本のプロジャグリングパフォーマー。[BMX](../Page/BMX.md "wikilink")アクロバットからパフォーマンスをはじめ、以降[ジャグリング](../Page/ジャグリング.md "wikilink")パフォーマンスを行う。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。
+**Mr.アパッチ**（みすたー・あぱっち）は日本のプロジャグリングパフォーマー。[BMX](../Page/BMX.md "wikilink")アクロバットからパフォーマンスをはじめ、以降[ジャグリング](../Page/ジャグリング.md "wikilink")パフォーマンスを行う。[大阪府](../Page/大阪府.md "wikilink")・[大阪市](../Page/大阪市.md "wikilink")出身。
 
-[１９９９年](../Page/1999年.md "wikilink")～日本ではピエロが行う簡単な技術のジャグリングを5本トーチ・7個ボールと高度な技術でショー披露し、日本にジャグリングブームを巻き起こした第一人者である。
+[1999年](../Page/1999年.md "wikilink")～日本ではピエロが行う簡単な技術のジャグリングを5本トーチ・7個ボールと高度な技術でショー披露し、日本にジャグリングブームを巻き起こした第一人者である。
 
 ## 略歴
 
@@ -35,6 +35,6 @@
 
   - [Mr.アパッチ オフィシャルWebサイト](http://www.mr-apatch.com/)
 
-[Category:ジャグラー](https://ja.wikipedia.org/wiki/Category:ジャグラー "wikilink") [Category:大道芸人](https://ja.wikipedia.org/wiki/Category:大道芸人 "wikilink") [Category:日本の男子自転車選手](https://ja.wikipedia.org/wiki/Category:日本の男子自転車選手 "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ジャグラー](https://ja.wikipedia.org/wiki/Category:ジャグラー "wikilink") [Category:大道芸人](https://ja.wikipedia.org/wiki/Category:大道芸人 "wikilink") [Category:日本の男子自転車選手](https://ja.wikipedia.org/wiki/Category:日本の男子自転車選手 "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [日本ジャグリング協会：日本記録集](http://www.juggling.jp/records/records.html)

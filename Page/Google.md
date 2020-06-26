@@ -1,7 +1,7 @@
 > この記事は[Google](https://ja.wikipedia.org/wiki/Google)から翻訳されています。
 
 
-**Google LLC**（グーグル）は、[インターネット](../Page/インターネット.md "wikilink")関連のサービスと製品に特化した世界規模の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の多国籍テクノロジー企業である。[検索エンジン](../Page/検索エンジン.md "wikilink")、オンライン広告、[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、[ソフトウェア](../Page/ソフトウェア.md "wikilink")、[ハードウェア](../Page/ハードウェア.md "wikilink")関連の事業がある。アメリカ合衆国の主要な[IT企業で](../Page/情報技術.md "wikilink")、**[GAFA](https://ja.wikipedia.org/wiki/GAFA "wikilink")**\[1\]\[2\]\[3\]、**[FAANG](https://ja.wikipedia.org/wiki/FAANG "wikilink")**\[4\]\[5\]の一つ。
+**Google LLC**（グーグル）は、[インターネット](../Page/インターネット.md "wikilink")関連のサービスと製品に特化した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の企業（[LLC](../Page/LLC.md "wikilink")）。世界規模の[検索エンジン](../Page/検索エンジン.md "wikilink")、オンライン広告、[クラウドコンピューティング](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、[ソフトウェア](../Page/ソフトウェア.md "wikilink")、[ハードウェア](../Page/ハードウェア.md "wikilink")関連の事業がある。アメリカ合衆国の主要な[IT企業で](../Page/情報技術.md "wikilink")、**[GAFA](https://ja.wikipedia.org/wiki/GAFA "wikilink")**\[1\]\[2\]\[3\]、**[FAANG](https://ja.wikipedia.org/wiki/FAANG "wikilink")**\[4\]\[5\]の一つ。　
 
 ## 概要
 

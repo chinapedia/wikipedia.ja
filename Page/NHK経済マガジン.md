@@ -7,7 +7,7 @@
 
 それまで日曜の夕方に[NHK教育テレビで放送された](../Page/NHK教育テレビジョン.md "wikilink")『[サラリーマンライフ](https://ja.wikipedia.org/wiki/サラリーマンライフ "wikilink")』という情報番組を発展解消させ、報道局・番組制作局の一体化によって[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の経済・企業の最新情報を、同じ日曜夕方18時から18時45分の生放送で展開した。
 
-なお、総合テレビはこの枠で『[ステージ101](../Page/ステージ101.md "wikilink")』→『[レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")』→『[ヤングスタジオ101](https://ja.wikipedia.org/wiki/ヤングスタジオ101 "wikilink")』と代々[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")タレントを起用した[音楽番組](../Page/音楽番組.md "wikilink")を放送したが、この番組以後は一般向けの番組の放送枠となった。
+なお、総合テレビはこの枠で『[ステージ101](../Page/ステージ101.md "wikilink")』→『[レッツゴーヤング](../Page/レッツゴーヤング.md "wikilink")』→『[ヤングスタジオ101](../Page/ヤングスタジオ101.md "wikilink")』と代々[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")タレントを起用した[音楽番組](../Page/音楽番組.md "wikilink")を放送したが、この番組以後は一般向けの番組の放送枠となった。
 
 ## 出演者
 

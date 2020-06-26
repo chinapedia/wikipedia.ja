@@ -74,7 +74,7 @@ G.56はG.55により高出力の[DB603液冷エンジンを搭載した試作機
   -
 ## 現存する機体
 
-G.55の現存する機体は無いが、[ヴィーニャ・ディ・ヴァッレ空軍歴史博物館](../Page/ヴィーニャ・ディ・ヴァッレ空軍歴史博物館.md "wikilink")（イタリア空軍博物館）には、G.55と基本設計は同様である練習機、[G.59-2A セリエIVのMM](https://ja.wikipedia.org/wiki/:en:Fiat_G.59 "wikilink")53265号機を改造したG.55が展示されている。
+G.55の現存する機体は無いが、[ヴィーニャ・ディ・ヴァッレ空軍歴史博物館](../Page/ヴィーニャ・ディ・ヴァッレ空軍歴史博物館.md "wikilink")（イタリア空軍博物館）には、G.55と基本設計は同様である[G.59-2A練習機 セリエIVのMM](https://ja.wikipedia.org/wiki/:en:Fiat_G.55#Variants "wikilink")53265号機を改造したG.55が展示されている。
 
 [博物館公式サイト　説明ページ](http://www.aeronautica.difesa.it/storia/museostorico/Pagine/FIATG55.aspx)
 

@@ -1,17 +1,17 @@
 > この記事は[Let It Be \(SMAPの曲\)](https://ja.wikipedia.org/wiki/Let_It_Be_\(SMAPの曲\))から翻訳されています。
 
 
-「**Let It Be**」（レット・イット・ビー）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+「**Let It Be**」（レット・イット・ビー）は、[SMAP](../Page/SMAP.md "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 概要
 
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")初[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。
+  - [SMAP](../Page/SMAP.md "wikilink")初[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")。
   - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』の[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")である。
-  - [作詞](../Page/作詞.md "wikilink")の相田毅は多くの[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の楽曲に携わっている。[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")の[Face 2 fAKEも過去に](../Page/Face_2_fAKE.md "wikilink")「[Peace\!](https://ja.wikipedia.org/wiki/Peace! "wikilink")」を手がけている。
+  - [作詞](../Page/作詞.md "wikilink")の相田毅は多くの[SMAP](../Page/SMAP.md "wikilink")の楽曲に携わっている。[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")の[Face 2 fAKEも過去に](../Page/Face_2_fAKE.md "wikilink")「[Peace\!](https://ja.wikipedia.org/wiki/Peace! "wikilink")」を手がけている。
   - ジャケットにメンバー5人は写っていない。
   - 「Let It Be」は[2000年](../Page/2000年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")発売のアルバム『[S map〜SMAP 014](../Page/S_map〜SMAP_014.md "wikilink")』、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売のベストアルバム『[Smap Vest](https://ja.wikipedia.org/wiki/Smap_Vest "wikilink")』に収録されている。
   - [カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")の「世紀末」はアルバム未収録である。
-  - 木村、香取、稲垣、草彅にソロパートが与えられており(サビ以外はこの4人のソロパートである。)、木村、香取のソロパートが多い。
+  - [中居以外のメンバーにソロパートが与えられており](../Page/中居正広.md "wikilink")、[木村と](../Page/木村拓哉.md "wikilink")[香取のソロパートが多い](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")。
   - 尚「Let It Be」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")(『SMAP×SMAP』で制作)に使われている音源はCDに収録されている音源と異なる。
 
 ## 収録曲

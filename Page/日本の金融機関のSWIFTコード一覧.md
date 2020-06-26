@@ -59,7 +59,8 @@
   - **0036**　[楽天銀行](../Page/楽天銀行.md "wikilink")　**RAKTJPJT**
   - 0037　(旧)[日本振興銀行](../Page/日本振興銀行.md "wikilink")　**なし**
   - **0038**　[住信SBIネット銀行](../Page/住信SBIネット銀行.md "wikilink")　**NTSSJPJT**
-  - **0039**　[じぶん銀行](https://ja.wikipedia.org/wiki/じぶん銀行 "wikilink")　**JICRJPJ1**
+  - **0039**　[auじぶん銀行](https://ja.wikipedia.org/wiki/auじぶん銀行 "wikilink")　**JICRJPJT**
+      - 0039　(旧)じぶん銀行　JICRJPJ1
   - **0040**　[イオン銀行](../Page/イオン銀行.md "wikilink")　**AEONJPJT**
   - **0041**　[大和ネクスト銀行](https://ja.wikipedia.org/wiki/大和ネクスト銀行 "wikilink")　**DNEXJPJT**
   - **0042**　[ローソン銀行](../Page/ローソン銀行.md "wikilink")　**LWSNJPJT**
@@ -112,6 +113,7 @@
       - 0159　(旧)[大阪銀行](https://ja.wikipedia.org/wiki/大阪銀行 "wikilink")　OSABJPJS
   - 0160　(旧)[泉州銀行](../Page/泉州銀行.md "wikilink")　SSBOJPJS
   - **0161**　[池田泉州銀行](https://ja.wikipedia.org/wiki/池田泉州銀行 "wikilink")　**BIKEJPJS**
+      - 0161　(旧)[池田銀行](../Page/池田銀行.md "wikilink")　BIKEJPJS
   - **0162**　[南都銀行](../Page/南都銀行.md "wikilink")　**NANTJPJT**
   - **0163**　[紀陽銀行](../Page/紀陽銀行.md "wikilink")　**KIYOJPJT**
   - **0164**　[但馬銀行](../Page/但馬銀行.md "wikilink")　**TJMAJPJZ**

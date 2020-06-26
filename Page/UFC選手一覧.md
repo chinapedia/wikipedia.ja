@@ -179,7 +179,7 @@
   - [フィル・バローニ](../Page/フィル・バローニ.md "wikilink")（）
   - [福田力](https://ja.wikipedia.org/wiki/福田力 "wikilink")（）
   - [ヘクター・ロンバード](../Page/ヘクター・ロンバード.md "wikilink")（）
-  - [ホジマール・パリャーレス](https://ja.wikipedia.org/wiki/ホジマール・パリャーレス "wikilink")（）
+  - [ホジマール・パリャーレス](../Page/ホジマール・パリャーレス.md "wikilink")（）
   - [ホナウド・ジャカレイ](../Page/ホナウド・ジャカレイ.md "wikilink")（）
   - [ホルヘ・リベラ](https://ja.wikipedia.org/wiki/ホルヘ・リベラ_\(格闘家\) "wikilink")（）
   - [マット・リンドランド](../Page/マット・リンドランド.md "wikilink")（）
@@ -237,7 +237,7 @@
   - [トニー・デスーザ](https://ja.wikipedia.org/wiki/トニー・デスーザ "wikilink")（）
   - [ドリュー・フィケット](https://ja.wikipedia.org/wiki/ドリュー・フィケット "wikilink")（）
   - [トロイ・マンダロニス](https://ja.wikipedia.org/wiki/トロイ・マンダロニス "wikilink")（）
-  - [中尾受太郎](https://ja.wikipedia.org/wiki/中尾受太郎 "wikilink")（）
+  - [中尾受太郎](../Page/中尾受太郎.md "wikilink")（）
   - [中村K太郎](../Page/中村K太郎.md "wikilink")（）
   - [ニック・ディアス](../Page/ニック・ディアス.md "wikilink")（）
   - [ニール・マグニー](https://ja.wikipedia.org/wiki/ニール・マグニー "wikilink")（）

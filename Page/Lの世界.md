@@ -13,7 +13,7 @@
 
 アメリカのテレビドラマ史上初めて本格的にレズビアンをメインにした作品であり\[5\]、[カミングアウト](../Page/カミングアウト.md "wikilink")、[同性婚](https://ja.wikipedia.org/wiki/同性婚 "wikilink")、[養子縁組](https://ja.wikipedia.org/wiki/養子縁組 "wikilink")、[性転換](../Page/性転換.md "wikilink")、[乳癌](../Page/乳癌.md "wikilink")など実社会でも起こり得るリアルなテーマを扱っている\[6\]。本作の放送以前は[Showtime](../Page/Showtime.md "wikilink")のオリジナルドラマは最長でもシーズン5までしか製作されたことがなかったが、同局で初めてシーズン6まで製作された作品でもある\[7\]。
 
-[2006年](../Page/2006年.md "wikilink")には[GLAADメディア賞](https://ja.wikipedia.org/wiki/GLAADメディア賞 "wikilink")[最優秀ドラマシリーズ賞](https://ja.wikipedia.org/wiki/GLAADメディア賞ドラマシリーズ賞 "wikilink")、[2009年](../Page/2009年.md "wikilink")には同賞の審査員特別賞を受賞。[エミー賞](../Page/エミー賞.md "wikilink")や[サテライト賞](https://ja.wikipedia.org/wiki/サテライト賞 "wikilink")にもノミネートされるなど高い評価を得た\[8\]。アメリカや[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")、[イスラエル](../Page/イスラエル.md "wikilink")など約50か国で放送され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[FOXライフ](../Page/FOXライフ.md "wikilink")や[LaLa TVで放送された](../Page/LaLa_TV.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")には[GLAADメディア賞](https://ja.wikipedia.org/wiki/GLAADメディア賞 "wikilink")[最優秀ドラマシリーズ賞](../Page/GLAADメディア賞ドラマシリーズ賞.md "wikilink")、[2009年](../Page/2009年.md "wikilink")には同賞の審査員特別賞を受賞。[エミー賞](../Page/エミー賞.md "wikilink")や[サテライト賞](https://ja.wikipedia.org/wiki/サテライト賞 "wikilink")にもノミネートされるなど高い評価を得た\[8\]。アメリカや[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")、[イスラエル](../Page/イスラエル.md "wikilink")など約50か国で放送され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")の[FOXライフ](../Page/FOXライフ.md "wikilink")や[LaLa TVで放送された](../Page/LaLa_TV.md "wikilink")。
 
 本作の原案は、自身もレズビアンである 、そしてミシェル・アボット、キャシー・グリーンバーグによるものである。チェイケンが初めて制作会社に企画を持ち込んだのは[1999年](../Page/1999年.md "wikilink")であった。1年後、『[クィア・アズ・フォーク](../Page/クィア・アズ・フォーク.md "wikilink")』といったShowtimeの[ゲイ](../Page/ゲイ.md "wikilink")ドラマが高視聴率を取り始めていたため、本作の製作が開始。ロサンゼルスの[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")がベースであり、内容の大半は実話を基にしている。なお、主要脚本家の10人中9人がレズビアンであり\[9\]、[ベルリン国際映画祭](../Page/第44回ベルリン国際映画祭.md "wikilink")[テディ賞](https://ja.wikipedia.org/wiki/テディ賞 "wikilink")受賞映画『[GO fish](../Page/GO_fish.md "wikilink")』監督・脚本・制作の[ローズ・トローシュ](../Page/ローズ・トローシュ.md "wikilink")や、『GO fish』で共同脚本・制作・主演を務めた[グィネヴィア・ターナー](../Page/グィネヴィア・ターナー.md "wikilink")、テディ賞[Siegessäule読者賞受賞作](https://ja.wikipedia.org/wiki/テディ賞_#カテゴリー "wikilink")『[恋のミニスカウエポン](../Page/恋のミニスカウエポン.md "wikilink")』監督・脚本の[アンジェラ・ロビンソン](../Page/アンジェラ・ロビンソン.md "wikilink")など、[クィア](../Page/クィア.md "wikilink")映像作品界で著名なクリエイターが監督・脚本・プロデューサーとして多数参加している。
 
@@ -372,7 +372,7 @@
 </tr>
 <tr class="even">
 <td><p>第16回<a href="https://ja.wikipedia.org/wiki/GLAADメディア賞" title="wikilink">GLAADメディア賞</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GLAADメディア賞ドラマシリーズ賞" title="wikilink">ドラマシリーズ賞</a></p></td>
+<td><p><a href="../Page/GLAADメディア賞ドラマシリーズ賞.md" title="wikilink">ドラマシリーズ賞</a></p></td>
 <td><p>『Lの世界』</p></td>
 <td></td>
 <td></td>

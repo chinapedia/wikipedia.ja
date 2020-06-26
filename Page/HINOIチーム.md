@@ -1,38 +1,48 @@
 > この記事は[HINOIチーム](https://ja.wikipedia.org/wiki/HINOIチーム)から翻訳されています。
 
 
-**HINOIチーム**（ひのいチーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")4人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")所属。レーベルは[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")。2007年に活動を休止した。
+**HINOIチーム**（ひのいチーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")所属。レーベルは[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")。2007年に活動を休止した。
 
 ## 略歴
 
-  - [2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")、シングル「IKE IKE」をリリース。
-  - 2005年12月14日、[SUPER EUROBEATの代表曲](https://ja.wikipedia.org/wiki/SUPER_EUROBEAT "wikilink")「NIGHT OF FIRE/PLAY WITH THE NUMBERS」をリリース。
-  - [2006年](../Page/2006年.md "wikilink")3月15日、アルバム『SUPER EURO PARTY（Supported by コリッキー）』をリリース。
+  - [2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")、シングル「IKE IKE」を発売。
+  - 2005年12月14日、「NIGHT OF FIRE / PLAY WITH THE NUMBERS」を発売。
+  - [2006年](../Page/2006年.md "wikilink")3月15日、アルバム『SUPER EURO PARTY』を発売。
   - [2007年](../Page/2007年.md "wikilink")、竹中がヴィジョンファクトリー携帯サイトで携帯小説を連載開始。
-  - 2007年2月7日、シングル「Dancin'\&Dreamin'」をリリース。
-  - 2007年2月10日、ワンマンライブ『HINOIteam FIRST LIVE -Dancin' & Dreamin'2007-』をライブハウス[渋谷eggman](https://ja.wikipedia.org/wiki/渋谷eggman "wikilink")で昼夜2公演開催。
+  - 2007年2月7日、シングル「Dancin'\&Dreamin'」を発売。
+  - 2007年2月10日、ワンマンライブ『HINOIteam FIRST LIVE -Dancin' & Dreamin'2007-』を[渋谷eggman](https://ja.wikipedia.org/wiki/渋谷eggman "wikilink")で開催。
   - 2007年2月11日、ディスクピア日本橋店 音楽館6階イベントフロア。
-  - 2007年5月2日、樋井がシングル「明日への光」をリリース。
+  - 2007年5月2日、樋井がシングル「明日への光」を発売。
   - 2007年、[ラブベリー](../Page/ラブベリー.md "wikilink")4月号が松岡脱退記事を掲載。ヴィジョンファクトリー携帯サイト上のプロフィールと日記「松岡桂花ですが何か問題でも??」抹消。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")、ヴィジョンファクトリー携帯サイト上のHINOIチームページと小山の日記「ひかるは永遠 鶴は千年亀は万年」抹消。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")、ヴィジョンファクトリー携帯サイト上のHINOIチームのページと小山の日記「ひかるは永遠 鶴は千年亀は万年」抹消。
 
 ## メンバー
 
-  - **[樋井明日香](../Page/樋井明日香.md "wikilink")**（ひのい あすか、、[大阪府](../Page/大阪府.md "wikilink")[河内長野市](../Page/河内長野市.md "wikilink")出身、160cm）
-      -
-        リーダー。結成前ソロ活動歴あり。特技：ケースバイケースで寝る。座右の銘：自分らしく→意外性
-  - **[小山ひかる](https://ja.wikipedia.org/wiki/小山ひかる "wikilink")**（こやま ひかる、、[京都府](../Page/京都府.md "wikilink")出身、163cm）
-      -
-        特技：[メール](https://ja.wikipedia.org/wiki/メール "wikilink")早打ち。座右の銘：一生懸命
-  - **[竹中里奈](https://ja.wikipedia.org/wiki/Rinana "wikilink")**（たけなか りな、、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身、162cm）
-      -
-        特技：[ピアノ](../Page/ピアノ.md "wikilink")を弾くこと。[小説](../Page/小説.md "wikilink")を書くこと。座右の銘：一騎当千
+  - [樋井明日香](../Page/樋井明日香.md "wikilink")（ひのい あすか）
+
+    、[大阪府](../Page/大阪府.md "wikilink")[河内長野市](../Page/河内長野市.md "wikilink")出身、160cm
+
+    特技：ケースバイケースで寝る。座右の銘：自分らしく→意外性
+
+  - [小山ひかる](https://ja.wikipedia.org/wiki/小山ひかる "wikilink")（こやま ひかる）
+
+    、[京都府](../Page/京都府.md "wikilink")出身、163cm
+
+    特技：[メール](https://ja.wikipedia.org/wiki/メール "wikilink")早打ち。座右の銘：一生懸命
+
+  - [竹中里奈](https://ja.wikipedia.org/wiki/Rinana "wikilink")（たけなか りな）
+
+    、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身、162cm
+
+    特技：[ピアノ](../Page/ピアノ.md "wikilink")を弾くこと。[小説](../Page/小説.md "wikilink")を書くこと。座右の銘：一騎当千
 
 ### 旧メンバー
 
-  - **[松岡桂花](../Page/松岡桂花.md "wikilink")**（まつおか けいか、、兵庫県神戸市出身、158cm）
-      -
-        特技：[作詞](../Page/作詞.md "wikilink")をする。可愛くなる方法を探る、オシャレをすること。座右の銘：根性
+  - [松岡桂花](../Page/松岡桂花.md "wikilink")'''（まつおか けいか）
+
+    、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身、158cm
+
+    特技：[作詞](../Page/作詞.md "wikilink")をする。可愛くなる方法を探る。オシャレをすること。座右の銘：根性
 
 ## 作品
 
@@ -186,7 +196,7 @@ AVCD-16093</p></td>
 
 ## 結成前
 
-  - 2002年7月3日、[樋井明日香](../Page/樋井明日香.md "wikilink")、[小山ひかる](https://ja.wikipedia.org/wiki/小山ひかる "wikilink")、[広重美穂](https://ja.wikipedia.org/wiki/広重美穂 "wikilink")の3人で音楽ユニットLOVE\&PEACEを結成しマキシシングル「DRIFTER」（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、PCCA-1699）をリリース
+  - 2002年7月3日、[樋井明日香](../Page/樋井明日香.md "wikilink")、[小山ひかる](https://ja.wikipedia.org/wiki/小山ひかる "wikilink")、[広重美穂](https://ja.wikipedia.org/wiki/広重美穂 "wikilink")の3人で音楽ユニットLOVE\&PEACEを結成し、シングル「DRIFTER」（PCCA-1699）を発売。
 
 ## 全曲リスト
 

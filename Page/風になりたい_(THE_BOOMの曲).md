@@ -17,7 +17,7 @@ CMソングとしても度々使用されており、これまでに「[DCカー
 
 [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")以降は、ライブなどで歌詞を一部変更して歌っていた。
 
-[2013年](../Page/2013年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")放送の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[2013 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2013_FNSうたの夏まつり "wikilink")』では、ボーカル・宮沢和史が[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")、[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")で披露された。
+[2013年](../Page/2013年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")放送の[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[2013 FNSうたの夏まつり](https://ja.wikipedia.org/wiki/2013_FNSうたの夏まつり "wikilink")』では、ボーカル・宮沢和史が[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")、[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")、[モーニング娘。](../Page/モーニング娘。.md "wikilink")、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")で披露された。
 
 [2017年](../Page/2017年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")、J-POPコンピ「エース」7inchiプロジェクト第3弾としてアナログ・シングル化されて発売される（完全生産限定盤）。ジャケットはオリジナル8cmCDシングルのアートワークを基に今回のEP用にリニューアル。B面には「TOKYO LOVE」をカップリング。巨匠バーニー・グランドマンによるカッティング。
 

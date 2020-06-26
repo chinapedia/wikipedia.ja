@@ -15,14 +15,14 @@ leJOSは元々1999年にJosé SolórzanoによってTini VMとして考案され
 
 新しいレゴマインドストームNXTへのポートは2007年1月現在a limited feature alpha releaseとして利用できる。これはRCXのバージョンより遥かに（x15かそれぐらい）早く、より多くのメモリ、NXTの特徴の多くが利用できる。全てのNXTの特徴を可能にするにはかなりの努力が必要である。
 
-## 関連項目
-
-  - [Java仮想マシン](../Page/Java仮想マシン.md "wikilink")
-
 ## 参考文献
 
   - Brian Bagnall (2002). *Core LEGO Mindstorms Programming*. Prentice Hall PTR. ISBN 0-13-009364-5
   - Giulio Ferrari et al. (2002). *Programming LEGO Mindstorms with Java*. Syngress. ISBN 1-928994-55-5
+
+## 関連項目
+
+  - [Java仮想マシン](../Page/Java仮想マシン.md "wikilink")
 
 ## 外部リンク
 

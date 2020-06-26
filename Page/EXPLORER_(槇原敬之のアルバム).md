@@ -7,7 +7,7 @@
 
 アルバムとしては2002年11月発売の『[本日ハ晴天ナリ](https://ja.wikipedia.org/wiki/本日ハ晴天ナリ_\(槇原敬之のアルバム\) "wikilink")』以来、1年9ヶ月ぶりのリリースとなる。[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")移籍後第1弾となるアルバムで、初回限定盤には通常盤と異なる[ブックレット](https://ja.wikipedia.org/wiki/ブックレット "wikilink")仕様、特典としてエンブレム[ステッカーを封入している](../Page/シール.md "wikilink")。ジャケットや収録曲の相違はない。双方とも特典映像を収録した[CD-EXTRA](https://ja.wikipedia.org/wiki/CD-EXTRA "wikilink")仕様となっている。オリジナルシングルでは「[Good Morning\!](https://ja.wikipedia.org/wiki/Good_Morning!_\(槇原敬之の曲\) "wikilink")」が未収録となった。
 
-[1999年](../Page/1999年.md "wikilink")の活動休止以降人気と売上が下降状態にあった槇原だが、[2002年](../Page/2002年.md "wikilink")に[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")へ提供した「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」が話題となり、[前年](../Page/2003年.md "wikilink")[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")され200万枚を超える大ヒットを記録した。これにより作者として槇原も大きく取り上げられたことで[音楽番組](../Page/音楽番組.md "wikilink")への出演や[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")に関するメディア露出が急激に増加、人気復活へ拍車をかけた。本作は上記の「世界に一つだけの花」をはじめとする提供曲のセルフカバーが収録されたことにより、発売前から注目作として挙げられていた。
+[1999年](../Page/1999年.md "wikilink")の活動休止以降人気と売上が下降状態にあった槇原だが、[2002年](../Page/2002年.md "wikilink")に[SMAP](../Page/SMAP.md "wikilink")へ提供した「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」が話題となり、[前年](../Page/2003年.md "wikilink")[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")され200万枚を超える大ヒットを記録した。これにより作者として槇原も大きく取り上げられたことで[音楽番組](../Page/音楽番組.md "wikilink")への出演や[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")に関するメディア露出が急激に増加、人気復活へ拍車をかけた。本作は上記の「世界に一つだけの花」をはじめとする提供曲のセルフカバーが収録されたことにより、発売前から注目作として挙げられていた。
 
 発売週の[オリコンアルバムチャートで初登場](../Page/オリコンチャート.md "wikilink")1位を記録、槇原のアルバムチャート1位は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[SMILING 〜THE BEST OF NORIYUKI MAKIHARA〜](https://ja.wikipedia.org/wiki/SMILING_〜THE_BEST_OF_NORIYUKI_MAKIHARA〜 "wikilink")』以来7年ぶり、オリジナルアルバムとしては[1994年](../Page/1994年.md "wikilink")の『[PHARMACY](https://ja.wikipedia.org/wiki/PHARMACY "wikilink")』以来約10年ぶりとなった。累計売上は[1999年](../Page/1999年.md "wikilink")のアルバム『[Cicada](https://ja.wikipedia.org/wiki/Cicada_\(アルバム\) "wikilink")』以来の50万枚突破となった。
 
@@ -46,7 +46,7 @@
 9.  **The Fog**
 10. **[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")**
       -
-        [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")への提供曲。
+        [SMAP](../Page/SMAP.md "wikilink")への提供曲。
         『[SMAP 015/Drink\! Smap\!](https://ja.wikipedia.org/wiki/SMAP_015/Drink!_Smap! "wikilink")』収録のアルバム曲であったが、翌年シングルカットされ大ヒットした。
 11. **[Boy, I'm Gonna Try So Hard](https://ja.wikipedia.org/wiki/Boy,_I'm_Gonna_Try_So_Hard "wikilink")**
       -

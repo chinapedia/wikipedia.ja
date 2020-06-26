@@ -21,7 +21,7 @@
 | 1995年 | [CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink")                        | [TRF](../Page/TRF.md "wikilink")                                            |      |
 | 1996年 | [DEPARTURES](../Page/DEPARTURES.md "wikilink")                                      | [globe](https://ja.wikipedia.org/wiki/globe "wikilink")                     |      |
 | 1997年 | [YOU ARE THE ONE](../Page/YOU_ARE_THE_ONE.md "wikilink")                            | [TK PRESENTS こねっと](../Page/小室ファミリー.md "wikilink")                           |      |
-| 1998年 | [夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")                                              | [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")                       |      |
+| 1998年 | [夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")                                              | [SMAP](../Page/SMAP.md "wikilink")                                          |      |
 | 1999年 | [ラストチャンス](../Page/ラストチャンス.md "wikilink")                                            | [Something ELse](../Page/Something_ELse.md "wikilink")                      |      |
 | 2000年 | [NEO UNIVERSE/finale](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink") | [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")                        |      |
 | 2001年 | [fragile/JIRENMA](https://ja.wikipedia.org/wiki/fragile/JIRENMA "wikilink")         | [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")              |      |
@@ -495,7 +495,7 @@
 | 1998年 | [全部だきしめて/青の時代](https://ja.wikipedia.org/wiki/全部だきしめて/青の時代 "wikilink")                      | KinKi Kids                                                                                        |      |
 | 1999年 | [A](../Page/A_\(シングル\).md "wikilink")                                                      | 浜崎あゆみ                                                                                             |      |
 | 2000年 | [NOT FOUND](../Page/NOT_FOUND_\(Mr.Childrenの曲\).md "wikilink")                             | Mr.Children                                                                                       |      |
-| 2001年 | [ザ☆ピ〜ス\!](../Page/ザ☆ピ〜ス!.md "wikilink")                                                    | [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")                                       |      |
+| 2001年 | [ザ☆ピ〜ス\!](../Page/ザ☆ピ〜ス!.md "wikilink")                                                    | [モーニング娘。](../Page/モーニング娘。.md "wikilink")                                                          |      |
 | 2002年 | [H](../Page/H_\(シングル\).md "wikilink")                                                      | 浜崎あゆみ                                                                                             |      |
 | 2003年 | [涙の海で抱かれたい 〜SEA OF LOVE〜](../Page/涙の海で抱かれたい_〜SEA_OF_LOVE〜.md "wikilink")                   | サザンオールスターズ                                                                                        |      |
 | 2004年 | [INSPIRE](../Page/INSPIRE_\(浜崎あゆみの曲\).md "wikilink")                                       | 浜崎あゆみ                                                                                             |      |

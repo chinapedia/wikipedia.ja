@@ -49,7 +49,7 @@
 | 8                                                                                                                                                                                                           |
 | <small>[日本テレコム](../Page/ソフトバンクテレコム.md "wikilink") 「超える」 キャンペーン曲</small>                                                                                                                                     |
 | 9                                                                                                                                                                                                           |
-| <small>主演映画 『[8月のクリスマス](https://ja.wikipedia.org/wiki/8月のクリスマス "wikilink")』 主題歌</small>                                                                                                                     |
+| <small>主演映画 『[8月のクリスマス](../Page/8月のクリスマス.md "wikilink")』 主題歌</small>                                                                                                                                        |
 |                                                                                                                                                                                                             |
 
 ## 2008年盤

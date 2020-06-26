@@ -73,11 +73,11 @@
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")                                  | [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")（HTB）                   | 土曜 1時15分 - 1時45分（金曜深夜）                                                      | 39日遅れ                  |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本朝日放送](../Page/熊本朝日放送.md "wikilink")（KAB）                     | 日曜 16時30分 - 17時00分                                                          | 41日遅れ                  |         |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                                     | [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")（eat）                   | 日曜 1時30分 - 2時00分（土曜深夜）                                                      | 54日遅れ                  |         |
-| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")（KNB）    | [日本テレビ系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")     | 日曜 13時00分 - 13時30分     |         |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [北日本放送](../Page/北日本放送.md "wikilink")（KNB）                       | [日本テレビ系列](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")     | 日曜 13時00分 - 13時30分     |         |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")                    | [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")（NKT）                | 火曜 2時01分 - 2時31分（月曜深夜）                                                      | 23週遅れ                  |         |
 
   - [朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")・[鹿児島放送](../Page/鹿児島放送.md "wikilink")を除くANNフルネット22局で放送された。
-  - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")では2008年3月をもって[大胆MAP](../Page/大胆MAP.md "wikilink")開始によるリニューアル前にネット打ち切りとなり、4月20日から同じく日曜日に『[お試しかっ\!](https://ja.wikipedia.org/wiki/お試しかっ! "wikilink")』が開始している。
+  - [北日本放送](../Page/北日本放送.md "wikilink")では2008年3月をもって[大胆MAP](../Page/大胆MAP.md "wikilink")開始によるリニューアル前にネット打ち切りとなり、4月20日から同じく日曜日に『[お試しかっ\!](https://ja.wikipedia.org/wiki/お試しかっ! "wikilink")』が開始している。
   - [愛媛朝日テレビ](../Page/愛媛朝日テレビ.md "wikilink")では2008年4月20日 を以って打ち切られた。後番組は[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")の『[アグレッシブですけど、何か?](../Page/アグレッシブですけど、何か?.md "wikilink")』。
 
 ## スタッフ

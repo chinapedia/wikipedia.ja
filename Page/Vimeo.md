@@ -127,6 +127,7 @@ Vimeoは[中華人民共和国](../Page/中華人民共和国.md "wikilink")、[
 
 ## 外部リンク
 
+  - [Vimeo](https://vimeo.com/jp/)
   - [Vimeoの鑑賞ページ](https://vimeo.com/watch)
   - [Vimeoプレスリリースページ](https://press.vimeo.com/)
 

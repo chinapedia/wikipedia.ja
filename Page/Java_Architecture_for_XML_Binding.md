@@ -59,7 +59,7 @@ Java のデータ型の種類は XML Schema のものより豊富である。以
 
 ## 外部リンク
 
-  - [JAXB home page](https://jaxb.dev.java.net/) on Project [GlassFish](https://ja.wikipedia.org/wiki/GlassFish "wikilink")
+  - [JAXB home page](https://jaxb.dev.java.net/) on Project [GlassFish](../Page/GlassFish.md "wikilink")
   - [従来の JAXB home page](http://java.sun.com/xml/jaxb/index.jsp)
   - [JaxMe](http://ws.apache.org/jaxme/) – [Apacheソフトウェア財団](../Page/Apacheソフトウェア財団.md "wikilink")による JAXB の[オープンソース](../Page/オープンソース.md "wikilink")実装
   - [EclipseLink MOXy](http://www.eclipse.org/eclipselink/) – [Eclipse Foundationによる](../Page/Eclipse_Foundation.md "wikilink") JAXB の[オープンソース](../Page/オープンソース.md "wikilink")実装

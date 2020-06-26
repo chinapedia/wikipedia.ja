@@ -470,7 +470,7 @@ RCX内蔵の H8/3292 マイコン：
 
 [ar:ليجو ميندستورمز إن إكس تي](https://ja.wikipedia.org/wiki/ar:ليجو_ميندستورمز_إن_إكس_تي "wikilink")
 
-[Category:科学教材](https://ja.wikipedia.org/wiki/Category:科学教材 "wikilink") [Category:組み込みシステム](https://ja.wikipedia.org/wiki/Category:組み込みシステム "wikilink") [Category:教育用ロボット](https://ja.wikipedia.org/wiki/Category:教育用ロボット "wikilink") [Category:レゴ](https://ja.wikipedia.org/wiki/Category:レゴ "wikilink") [Category:Lego_Mindstorms](https://ja.wikipedia.org/wiki/Category:Lego_Mindstorms "wikilink") [Category:1990年代の玩具](https://ja.wikipedia.org/wiki/Category:1990年代の玩具 "wikilink") [Category:ロボット殿堂](https://ja.wikipedia.org/wiki/Category:ロボット殿堂 "wikilink")
+[Category:科学教材](https://ja.wikipedia.org/wiki/Category:科学教材 "wikilink") [Category:組み込みシステム](https://ja.wikipedia.org/wiki/Category:組み込みシステム "wikilink") [Category:教育用ロボット](https://ja.wikipedia.org/wiki/Category:教育用ロボット "wikilink") [Category:電子玩具](https://ja.wikipedia.org/wiki/Category:電子玩具 "wikilink") [Category:レゴ](https://ja.wikipedia.org/wiki/Category:レゴ "wikilink") [Category:Lego_Mindstorms](https://ja.wikipedia.org/wiki/Category:Lego_Mindstorms "wikilink") [Category:1990年代の玩具](https://ja.wikipedia.org/wiki/Category:1990年代の玩具 "wikilink") [Category:ロボット殿堂](https://ja.wikipedia.org/wiki/Category:ロボット殿堂 "wikilink")
 
 1.
 2.  [短期間でシステム開発の流れを学ぶ - 教育版レゴ マインドストームを新入社員研修に](http://news.mynavi.jp/kikaku/2016/01/20/004/)

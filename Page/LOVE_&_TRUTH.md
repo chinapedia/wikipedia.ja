@@ -8,7 +8,7 @@
 
 ## 概要
 
-前作「[My Generation/Understand](https://ja.wikipedia.org/wiki/My_Generation/Understand "wikilink")」から約3ヶ月半ぶりとなったシングル。この曲がリリースされる2ヶ月以上前の[7月19日](../Page/7月19日.md "wikilink")には、[JFN](../Page/全国FM放送協議会.md "wikilink")・[TOKYO FM](../Page/エフエム東京.md "wikilink")「[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")」内の自身が[DJを務める](../Page/ディスクジョッキー.md "wikilink")「[YUI LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#YUI_LOCKS!（木曜日） "wikilink")」にて先行オンエアされた。 初回限定盤には映画バージョンのミュージック・ビデオが収録されているが、YUI本人は登場していない。
+前作「[My Generation/Understand](https://ja.wikipedia.org/wiki/My_Generation/Understand "wikilink")」から約3ヶ月半ぶりとなったシングル。この曲がリリースされる2ヶ月以上前の[7月19日](../Page/7月19日.md "wikilink")には、[JFN](../Page/全国FM放送協議会.md "wikilink")・[TOKYO FM](../Page/エフエム東京.md "wikilink")「[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")」内の自身が[DJを務める](../Page/ディスクジョッキー.md "wikilink")「[YUI LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#YUI_LOCKS!（木曜日） "wikilink")」にて先行オンエアされた。 初回限定盤には映画バージョンのミュージック・ビデオが収録されているが、YUI本人は登場していない。
 
 前作に続き初登場1位を獲得し、自身最高の初動売上を記録した。
 

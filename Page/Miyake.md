@@ -9,7 +9,7 @@
 
 [倉敷市立福田中学校](https://ja.wikipedia.org/wiki/倉敷市立福田中学校 "wikilink")出身。 [1999年](../Page/1999年.md "wikilink")に[岡山県立倉敷古城池高等学校](../Page/岡山県立倉敷古城池高等学校.md "wikilink")を卒業後、[東京スクールオブミュージック専門学校](https://ja.wikipedia.org/wiki/東京スクールオブミュージック専門学校 "wikilink")で[和声法](https://ja.wikipedia.org/wiki/和声法 "wikilink")、音楽制作を学ぶ。 同校の一つ上の先輩には[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")が、一つ下の後輩には作曲家[渡辺拓也](https://ja.wikipedia.org/wiki/渡辺拓也 "wikilink")がいる。またアルバム「[mihimalife](https://ja.wikipedia.org/wiki/mihimalife "wikilink")」収録の「voice」は同校二つ上の先輩、[大谷靖夫](../Page/大谷靖夫.md "wikilink")の作曲である。
 
-同校での作家オーディションがきっかけで[avexと契約に至る](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。デビューの半年前までは[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")や[BoA](../Page/BoA.md "wikilink")等のアルバムに楽曲を提供していた。
+同校での作家オーディションがきっかけで[avexと契約に至る](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。デビューの半年前までは[SMAP](../Page/SMAP.md "wikilink")や[BoA](../Page/BoA.md "wikilink")等のアルバムに楽曲を提供していた。
 
 [2003年](../Page/2003年.md "wikilink")1月に、当時ボーカリストを目指していた[hiroko](https://ja.wikipedia.org/wiki/hiroko "wikilink")と出会いユニットを結成する。同年7月にメジャーデビューを果たす。
 
@@ -58,7 +58,7 @@
 
   - [BoA](../Page/BoA.md "wikilink")
       - Winding Road（オリジナル[VALENTI](../Page/VALENTI_\(アルバム\).md "wikilink"); リミックス[Next World](../Page/Next_World.md "wikilink") に収録）
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
       - Over Flow（[SMAP 015/Drink\! Smap\!](https://ja.wikipedia.org/wiki/SMAP_015/Drink!_Smap! "wikilink") 収録）
   - [ウルトラキャッツ](../Page/ウルトラキャッツ.md "wikilink")
       - ハナタバ（ウルトラC 収録）

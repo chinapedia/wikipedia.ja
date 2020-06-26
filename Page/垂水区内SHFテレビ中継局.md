@@ -167,6 +167,7 @@
   - [受信障害対策中継放送](https://ja.wikipedia.org/wiki/受信障害対策中継放送 "wikilink")
   - [神戸市](../Page/神戸市.md "wikilink")
   - [垂水区](../Page/垂水区.md "wikilink")
+  - [北淡垂水中継局](https://ja.wikipedia.org/wiki/北淡垂水中継局 "wikilink")
   - [NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")（[総合テレビの中継局置局](../Page/NHK総合テレビジョン.md "wikilink")）
   - [サンテレビジョン](../Page/サンテレビジョン.md "wikilink")
   - [NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")（[教育テレビの中継局置局](../Page/NHK教育テレビジョン.md "wikilink")）

@@ -7,14 +7,14 @@
 
   - 3rdアルバム『[triple joker](https://ja.wikipedia.org/wiki/triple_joker "wikilink")』からのリカットシングル。『[ヤマハ・ジョグ](../Page/ヤマハ・ジョグ.md "wikilink")』CMソングに起用され、タイアップに伴いシングルカットされた。累計売上は29.2万枚を記録した\[1\]。
   - PVは監督[坂西伊作](https://ja.wikipedia.org/wiki/坂西伊作 "wikilink")の思い入れにより昔の[ミック・ジャガー](../Page/ミック・ジャガー.md "wikilink")の衣装をモチーフに、「中国の歌番組に出演」というシチュエーションで制作された。
-  - カップリング曲として1stシングル「[独裁 -monopolize-](https://ja.wikipedia.org/wiki/独裁_-monopolize- "wikilink")」の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")11月23日に[川口総合文化センター](../Page/川口総合文化センター.md "wikilink")にて行われたライブの音源が収録されている。
+  - カップリング曲として1stシングル「[独裁 -monopolize-](../Page/独裁_-monopolize-.md "wikilink")」の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")11月23日に[川口総合文化センター](../Page/川口総合文化センター.md "wikilink")にて行われたライブの音源が収録されている。
 
 ## 収録曲
 
 1.  **蒼い霹靂〜JOG edit〜**
       - 作詞：[井上秋緒](../Page/井上秋緒.md "wikilink")　作曲・編曲：[浅倉大介](../Page/浅倉大介.md "wikilink")
       - 出版社：[ダーウィン](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")
-2.  **[独裁 -monopolize-](https://ja.wikipedia.org/wiki/独裁_-monopolize- "wikilink") LIVE at KAWAGUCHI LILIA 1997.11.23**
+2.  **[独裁 -monopolize-](../Page/独裁_-monopolize-.md "wikilink") LIVE at KAWAGUCHI LILIA 1997.11.23**
       - 作詞：井上秋緒　作曲・編曲：浅倉大介
       - 出版社：[フジパシフィック音楽出版](https://ja.wikipedia.org/wiki/フジパシフィック音楽出版 "wikilink")
 3.  **蒼い霹靂〜JOG edit〜 -Original Backing Track-**

@@ -11,7 +11,7 @@
 
 ### レギュラー出演者
 
-  - リーダー：[中居正広](../Page/中居正広.md "wikilink")（2016年までは、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")メンバー）
+  - リーダー：[中居正広](../Page/中居正広.md "wikilink")（2016年までは、[SMAP](../Page/SMAP.md "wikilink")メンバー）
   - アシスタント：[福岡みなみ](https://ja.wikipedia.org/wiki/福岡みなみ "wikilink")（2020年3月17日 - ）8代目アシスタント
   - [アンタッチャブル](../Page/アンタッチャブル_\(お笑いコンビ\).md "wikilink")
       - [山崎弘也](../Page/山崎弘也.md "wikilink")
@@ -520,7 +520,7 @@
 
 ## 外部リンク
 
-  - [たまッチ！ - フジテレビ](http://www.fujitv.co.jp/sports/baseball/tama/)
+  - [たまッチ！ - フジテレビ](https://www.fujitv.co.jp/sports/baseball/tama/)
 
 [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビの深夜番組](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組 "wikilink") [Category:フジテレビの特別番組](https://ja.wikipedia.org/wiki/Category:フジテレビの特別番組 "wikilink") [Category:野球番組_(テレビ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(テレビ\) "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:中居正広](https://ja.wikipedia.org/wiki/Category:中居正広 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 

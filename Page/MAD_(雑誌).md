@@ -17,6 +17,6 @@
 
 ## 関連項目
 
-  - [スーパーデューパーマン](https://ja.wikipedia.org/wiki/スーパーデューパーマン "wikilink")
+  - [スーパーデューパーマン](../Page/スーパーデューパーマン.md "wikilink")
 
 [Category:アメリカ合衆国の雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑誌 "wikilink") [Category:1952年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1952年創刊の雑誌 "wikilink") [Category:ワーナーメディア](https://ja.wikipedia.org/wiki/Category:ワーナーメディア "wikilink") [Category:風刺雑誌](https://ja.wikipedia.org/wiki/Category:風刺雑誌 "wikilink") [Category:シュール・コメディ](https://ja.wikipedia.org/wiki/Category:シュール・コメディ "wikilink") [Category:自己言及作品](https://ja.wikipedia.org/wiki/Category:自己言及作品 "wikilink") [Category:ブラック・コメディ](https://ja.wikipedia.org/wiki/Category:ブラック・コメディ "wikilink")

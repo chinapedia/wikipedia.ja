@@ -11,7 +11,7 @@
 
 [CMには過去にバレーボールワールドカップのイメージキャラクターを務めた](../Page/コマーシャルメッセージ.md "wikilink")、V6の[井ノ原快彦](../Page/井ノ原快彦.md "wikilink")・[森田剛](https://ja.wikipedia.org/wiki/森田剛 "wikilink")、嵐の[櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")・[二宮和也](../Page/二宮和也.md "wikilink")、NEWSの[小山慶一郎](../Page/小山慶一郎.md "wikilink")・[錦戸亮](../Page/錦戸亮.md "wikilink")を起用し、自身のデビュー当時を振り返りつつ後輩のデビューを応援する内容とした。先輩タレントが後輩タレントのCMに出演するのは、ジャニーズ事務所としては初の試みである\[1\]。
 
-本作はオリコンシングルチャート1位を獲得し、デビューシングルの初登場1位としては[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")「[Real Face](../Page/Real_Face.md "wikilink")」以来1年8か月ぶりの記録となった\[2\]。また、元[男闘呼組](../Page/男闘呼組.md "wikilink")の[岡本健一](../Page/岡本健一.md "wikilink")を父に持つ[岡本圭人](https://ja.wikipedia.org/wiki/岡本圭人 "wikilink")がメンバーにいる事から日本の音楽史上では初となる、親子ともどもデビュー作で1位を獲得した\[3\]。
+本作はオリコンシングルチャート1位を獲得し、デビューシングルの初登場1位としては[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")「[Real Face](../Page/Real_Face.md "wikilink")」以来1年8か月ぶりの記録となった\[2\]。また、元[男闘呼組](../Page/男闘呼組.md "wikilink")の[岡本健一](../Page/岡本健一.md "wikilink")を父に持つ[岡本圭人](../Page/岡本圭人.md "wikilink")がメンバーにいる事から日本の音楽史上では初となる、親子ともどもデビュー作で1位を獲得した\[3\]。
 
 ## 収録曲
 
@@ -29,7 +29,7 @@
         作詞: [久保田洋司](../Page/久保田洋司.md "wikilink")、作曲: STEVEN LEE\&JOEYCARBONE、編曲: CHOKKAKU
 3.  **Too Shy**※
       -
-        作詞: ma-saya、作曲: Mike Rose、編曲: 長岡成貢
+        作詞: [ma-saya](https://ja.wikipedia.org/wiki/ma-saya "wikilink")、作曲: Mike Rose、編曲: 長岡成貢
 4.  Ultra Music Power（オリジナル・カラオケ）※※
 5.  Star Time（オリジナル・カラオケ）※※
 6.  Too Shy（オリジナル・カラオケ）※

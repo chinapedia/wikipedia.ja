@@ -1,7 +1,7 @@
 > この記事は[Chara \(雑誌\)](https://ja.wikipedia.org/wiki/Chara_\(雑誌\))から翻訳されています。
 
 
-『**Chara**』（キャラ）は、[徳間書店](../Page/徳間書店.md "wikilink")から発行の[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。偶数月22日発売。
+『**Chara**』（キャラ）は、[徳間書店](../Page/徳間書店.md "wikilink")から発行の[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。偶数月22日発売。
 
 『[アニメージュ](../Page/アニメージュ.md "wikilink")』増刊であった[少女漫画](../Page/少女漫画.md "wikilink")雑誌『**Noel**』（ノエル）が[1994年](../Page/1994年.md "wikilink")に独立創刊してできた漫画誌。主に、[BL作品が掲載されている](../Page/ボーイズラブ.md "wikilink")。
 
@@ -38,7 +38,7 @@
 
 ## 外部リンク
 
-  - [徳間書店：Chara(キャラ)｜BL comic＆novel](http://chara-info.net/index.html)
+  - [Chara(キャラ)｜BL comic＆novel](https://www.chara-info.net/) - 徳間書店
 
   -
 [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:徳間書店の漫画雑誌](https://ja.wikipedia.org/wiki/Category:徳間書店の漫画雑誌 "wikilink") [Category:隔月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:隔月刊漫画雑誌 "wikilink") [Category:アニメージュ](https://ja.wikipedia.org/wiki/Category:アニメージュ "wikilink") [Category:やおい漫画](https://ja.wikipedia.org/wiki/Category:やおい漫画 "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink")

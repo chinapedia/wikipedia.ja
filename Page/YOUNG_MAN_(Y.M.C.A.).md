@@ -1,7 +1,7 @@
 > この記事は[YOUNG MAN \(Y.M.C.A.\)](https://ja.wikipedia.org/wiki/YOUNG_MAN_\(Y.M.C.A.\))から翻訳されています。
 
 
-「**YOUNG MAN (Y.M.C.A.)**」（ヤングマン ワイ・エム・シー・エー）は、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の楽曲で、[1979年](../Page/1979年.md "wikilink")（昭和54年）[2月21日](../Page/2月21日.md "wikilink")にリリースされた28枚目のシングルである。
+「**YOUNG MAN (Y.M.C.A.)**」（ヤングマン ワイ・エム・シー・エー）は、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")の楽曲で、[1979年](../Page/1979年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")にリリースされた28枚目のシングルである。
 
 ## 解説
 
@@ -49,13 +49,11 @@
   - [渋谷哲平](../Page/渋谷哲平.md "wikilink")（[1979年](../Page/1979年.md "wikilink")。アルバム『ヤング・セーラーマン』収録）
   - 笑む&笑むs（[松岡充](../Page/松岡充.md "wikilink")、[都啓一](../Page/都啓一.md "wikilink")、[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")）（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")。アルバム『[西城秀樹ROCKトリビュート](https://ja.wikipedia.org/wiki/西城秀樹ROCKトリビュート "wikilink") KIDS WANNA ROCK\!』収録）
   - [はいだしょうこ](https://ja.wikipedia.org/wiki/はいだしょうこ "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")。アルバム『しょうこのMy Favorite Songs』収録）
-  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[2012年](../Page/2012年.md "wikilink")。ライブ・ビデオ『[桑田佳祐 LIVE TOUR & DOCUMENT FILM 「I LOVE YOU -now & forever-」完全盤](https://ja.wikipedia.org/wiki/桑田佳祐_LIVE_TOUR_&_DOCUMENT_FILM_「I_LOVE_YOU_-now_&_forever-」完全盤 "wikilink")』収録）
+  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")（[2012年](../Page/2012年.md "wikilink")。ライブ・ビデオ『[桑田佳祐 LIVE TOUR & DOCUMENT FILM 「I LOVE YOU -now & forever-」完全盤](https://ja.wikipedia.org/wiki/桑田佳祐_LIVE_TOUR_&_DOCUMENT_FILM_「I_LOVE_YOU_-now_&_forever-」完全盤 "wikilink")』、[2019年](../Page/2019年.md "wikilink")。ライブ・ビデオ『[平成三十年度\! 第三回ひとり紅白歌合戦](https://ja.wikipedia.org/wiki/平成三十年度!_第三回ひとり紅白歌合戦 "wikilink")』収録）
   - [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")（[2017年](../Page/2017年.md "wikilink")。アルバム『[涙を流せないピエロは太陽も月もない空を見上げた](https://ja.wikipedia.org/wiki/涙を流せないピエロは太陽も月もない空を見上げた "wikilink")』収録）
   - [BOYS AND MEN](https://ja.wikipedia.org/wiki/BOYS_AND_MEN "wikilink")（[2017年](../Page/2017年.md "wikilink")。アルバム『威風堂々～B.M.C.A.～』収録。ボイメンver.にアレンジ）
   - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")（[2018年](../Page/2018年.md "wikilink")。アルバム『E.G. 11』収録）
   - [ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")（[2019年](../Page/2019年.md "wikilink")。ライブ・アルバム及びライブ・ビデオ『[ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ- in 日本武道館](https://ja.wikipedia.org/wiki/ASKA_CONCERT_TOUR_2019_Made_in_ASKA_-40年のありったけ-_in_日本武道館 "wikilink")』収録。）
-
-KEISKEKUWATATOUR2018「平成三十年度\!第三回ひとり紅白歌合戦リサイタルinYokohamaArina」桑田佳祐
 
 ### YMCA好知己
 

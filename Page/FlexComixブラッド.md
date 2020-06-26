@@ -118,7 +118,7 @@
 <!-- end list -->
 
   - [神様のパズル](../Page/神様のパズル.md "wikilink")（[内田征宏](https://ja.wikipedia.org/wiki/内田征宏 "wikilink") 原作：[機本伸司](https://ja.wikipedia.org/wiki/機本伸司 "wikilink")）
-  - [まじょま witch×maniac](../Page/まじょま_witch×maniac.md "wikilink")（[神吉](https://ja.wikipedia.org/wiki/神吉李花 "wikilink")）
+  - [まじょま witch×maniac](../Page/まじょま_witch×maniac.md "wikilink")（[神吉](../Page/神吉李花.md "wikilink")）
   - [武蔵野線の姉妹](../Page/武蔵野線の姉妹.md "wikilink")（[ユキヲ](../Page/ユキヲ.md "wikilink")）
   - [メイド刑事](../Page/メイド刑事.md "wikilink")（[宇佐美道子](https://ja.wikipedia.org/wiki/宇佐美道子 "wikilink") 原作：[早見裕司](https://ja.wikipedia.org/wiki/早見裕司 "wikilink") キャラクター原案：[はいむらきよたか](https://ja.wikipedia.org/wiki/灰村キヨタカ "wikilink")）
   - [ランペイジ](../Page/ランペイジ_\(漫画\).md "wikilink")（吉永裕ノ介） - 『[ヤングマガジンアッパーズ](../Page/ヤングマガジンアッパーズ.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）初出。

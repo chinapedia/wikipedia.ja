@@ -26,7 +26,7 @@ APNGのフォーマットは、[2004年](../Page/2004年.md "wikilink")に[Mozil
   - [Safari](../Page/Safari.md "wikilink")では、2014年10月16日リリースのバージョン8以降でサポートされている\[2\]。
   - [Google Chromeでは](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink")、2017年6月5日リリースのバージョン59以降でサポートされている。
   - [Chromium](https://ja.wikipedia.org/wiki/Chromium "wikilink")は2017年3月15日にAPNGの表示に対応した\[3\]。
-  - [Microsoft Edgeは主要ブラウザで唯一対応していない](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")。
+  - [Microsoft Edgeでは](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")、2020年1月15日リリースのバージョン79以降でサポートされている。
 
 ## 脚注
 

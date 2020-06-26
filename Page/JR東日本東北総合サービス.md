@@ -143,7 +143,7 @@ JR東日本の東北エリアで、エキナカを中心とした店舗運営の
 
   - [JR東日本東北総合サービス株式会社](http://www.livit.jregroup.ne.jp/)
 
-[Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:日本の鉄道関連業務受託会社](https://ja.wikipedia.org/wiki/Category:日本の鉄道関連業務受託会社 "wikilink") [Category:駐車場運営事業者](https://ja.wikipedia.org/wiki/Category:駐車場運営事業者 "wikilink") [Category:仙台市青葉区の企業](https://ja.wikipedia.org/wiki/Category:仙台市青葉区の企業 "wikilink") [Category:ホテル運営会社](https://ja.wikipedia.org/wiki/Category:ホテル運営会社 "wikilink") [Category:1988年設立の企業](https://ja.wikipedia.org/wiki/Category:1988年設立の企業 "wikilink")
+[Category:JR東日本グループ](https://ja.wikipedia.org/wiki/Category:JR東日本グループ "wikilink") [Category:日本の鉄道関連業務受託会社](https://ja.wikipedia.org/wiki/Category:日本の鉄道関連業務受託会社 "wikilink") [Category:駐車場運営事業者](https://ja.wikipedia.org/wiki/Category:駐車場運営事業者 "wikilink") [Category:仙台市青葉区の企業](https://ja.wikipedia.org/wiki/Category:仙台市青葉区の企業 "wikilink") [Category:日本のホテル運営会社](https://ja.wikipedia.org/wiki/Category:日本のホテル運営会社 "wikilink") [Category:1988年設立の企業](https://ja.wikipedia.org/wiki/Category:1988年設立の企業 "wikilink")
 
 1.  [ブランドの約束](http://www.livit.jregroup.ne.jp/brand-promise/)（JR東日本東北総合サービス公式サイトより）
 2.  [JR東日本グループ事業の再編について](http://www.jreast.co.jp/press/2015/20150418.pdf)（東日本旅客鉄道 2015年4月30日）

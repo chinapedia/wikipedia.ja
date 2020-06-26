@@ -211,7 +211,7 @@ YFU日本では主に以下のプログラムを運営している。
   - [湯崎英彦](https://ja.wikipedia.org/wiki/湯崎英彦 "wikilink")（第7代広島県知事）
   - 瀬戸健一郎（元埼玉県草加市議会議長）
   - [庄田圭佑](https://ja.wikipedia.org/wiki/庄田圭佑 "wikilink")（宮城県議会議員）
-  - [土岐大介](https://ja.wikipedia.org/wiki/土岐大介 "wikilink")（BNPパリバ・アセットマネジメントCEO）
+  - [土岐大介](../Page/土岐大介.md "wikilink")（BNPパリバ・アセットマネジメントCEO）
 
 ## 関連項目
 

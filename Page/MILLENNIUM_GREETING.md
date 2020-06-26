@@ -7,6 +7,7 @@
 
   - V6初[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")、初トリプルA面シングルである。
   - 「Life goes on」は[片岡大志](../Page/片岡大志.md "wikilink")が自身のアルバムで「Life goes on 2002」としてセルフカバーしている（歌詞が一部異なる）。
+  - 『野生の花』は[坂本](../Page/坂本昌行.md "wikilink")、[井ノ原](../Page/井ノ原快彦.md "wikilink")、[森田に](https://ja.wikipedia.org/wiki/森田剛 "wikilink")、『Life goes on』は坂本と井ノ原にソロパートが与えられている。
 
 ## 収録曲
 

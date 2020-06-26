@@ -8,6 +8,7 @@
   - このアルバムから[2000年](../Page/2000年.md "wikilink")に発売される『[Love♥Go Go\!\!](../Page/Love_Go_Go!!.md "wikilink")』まで一部の曲を除き、渡辺が全曲作詞を担当しうち数曲作詞・作曲両方を手掛けることとなる。
   - ジャケットが本人の顔をアップにしたものとなっている。
   - 今作で作曲家デビューした[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")や、高校時代の先輩だった[清水信之](../Page/清水信之.md "wikilink")、[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")が作曲や編曲で参加。そして後に[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のサウンドプロデュースを手掛ける[西平彰](../Page/西平彰.md "wikilink")も参加している。
+  - 本アルバム発売前にリリースされた『[BELIEVE](../Page/BELIEVE_\(渡辺美里の曲\).md "wikilink")』は、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")がプロデュースとして参加している為か、このアルバムにはコンセプトの都合上収録せず、次作アルバム『[ribbon](https://ja.wikipedia.org/wiki/ribbon_\(渡辺美里のアルバム\) "wikilink")』へ見送った。
 
 ## 収録曲
 

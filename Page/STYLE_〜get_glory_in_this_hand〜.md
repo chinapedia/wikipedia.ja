@@ -32,6 +32,6 @@
 ## 関連項目
 
   - [忍道 戒](../Page/忍道_戒.md "wikilink")
-  - [DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")
+  - [DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")
 
 [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:エスエムイーレコーズのシングル](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのシングル "wikilink") [Category:HIGH_and_MIGHTY_COLORの楽曲](https://ja.wikipedia.org/wiki/Category:HIGH_and_MIGHTY_COLORの楽曲 "wikilink") [Category:楽曲_す](https://ja.wikipedia.org/wiki/Category:楽曲_す "wikilink")

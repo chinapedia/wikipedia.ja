@@ -18,7 +18,7 @@
 
 ## 内容
 
-全国70万人を動員した『B'z LIVE-GYM 2002 "GREEN 〜GO★FIGHT★WIN〜"』から、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")の模様を中心に収録。[ワールドカップ直後だったこともあり](../Page/2002_FIFAワールドカップ.md "wikilink")、同大会で使用されたスタジアムでの公演が多い。また、[Mr. Bigのベーシスト](https://ja.wikipedia.org/wiki/ミスター・ビッグ_\(アメリカのバンド\) "wikilink")、[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が参加したことも話題となった。前半から中盤にかけては、曲間でバックステージやリハなどのドキュメンタリー映像が挿入されている。（未収録曲は「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」、ホール公演では「[ながい愛](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」と「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」、「[銀の翼で翔べ](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」も演奏されていた（ドキュメントシーンで一部収録）。）
+全国70万人を動員した『B'z LIVE-GYM 2002 "GREEN 〜GO★FIGHT★WIN〜"』から、[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")の模様を中心に収録。[ワールドカップ直後だったこともあり](../Page/2002_FIFAワールドカップ.md "wikilink")、同大会で使用されたスタジアムでの公演が多い。また、[Mr. Bigのベーシスト](../Page/ミスター・ビッグ_\(アメリカのバンド\).md "wikilink")、[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が参加したことも話題となった。前半から中盤にかけては、曲間でバックステージやリハなどのドキュメンタリー映像が挿入されている。（未収録曲は「[太陽のKomachi Angel](../Page/太陽のKomachi_Angel.md "wikilink")」、ホール公演では「[ながい愛](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」と「[Calling](../Page/Calling_\(B'zの曲\).md "wikilink")」、「[銀の翼で翔べ](../Page/Brotherhood_\(B'zのアルバム\).md "wikilink")」も演奏されていた（ドキュメントシーンで一部収録）。）
 
 DVD版のみ、特典映像を収めた2枚組となっている。GREENツアー後に行われたB'z初のアメリカ公演『B'z LIVE-GYM 2002 "Rock n' California Roll"』のダイジェスト映像に加えて、「leftovers」（残り物）と題してステージセット設営の映像やライブ中のメンバー写真、そして「マジカDEオンステージ」（後述）の様子が収録されている。
 

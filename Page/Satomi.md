@@ -69,7 +69,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
 
 <!-- end list -->
 

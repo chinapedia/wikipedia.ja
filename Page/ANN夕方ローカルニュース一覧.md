@@ -3,7 +3,7 @@
 
 **ANN夕方ローカルニュース一覧**（エイエヌエヌゆうがたローカルニュースいちらん）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）各局で現在放送中夕方の[ニュース番組の一覧である](../Page/報道番組.md "wikilink")。
 
-基本的には各局とも、平日17:53 - 18:15は『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の全国パート。その後各局ごとにローカルニュースを放送。ただし、各局ごとに[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")に内包する形、あるいは独立型とそれぞれ放送形態が異なる。
+基本的には各局とも、平日17:53 - 18:15は『[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")』の全国パート。その後各局ごとにローカルニュースを放送。ただし、各局ごとに[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")に内包する形、あるいは独立型とそれぞれ放送形態が異なる。
 
 なお、現在放送中の各番組の詳細や、過去に各局で放送されていた番組に関してはそれぞれの項を参照されたい。
 
@@ -12,9 +12,9 @@
 ## 北海道・東北
 
   - HTB [北海道テレビ](../Page/北海道テレビ放送.md "wikilink")
-      - 『[イチオシ\!](https://ja.wikipedia.org/wiki/イチオシ! "wikilink")』■
-      - キャスター：[依田英将](https://ja.wikipedia.org/wiki/依田英将 "wikilink")、[国井美佐](https://ja.wikipedia.org/wiki/国井美佐 "wikilink")
-      - 放送時間：平日16:00 - 19:00（ローカルニュース枠は16:00 - 16:50、17:36 - 17:53、18:15 - 19:00）
+      - 『[イチオシ\!\!](../Page/イチオシ!!.md "wikilink")』■
+      - キャスター：[高橋春花](https://ja.wikipedia.org/wiki/高橋春花 "wikilink")、[菊地友弘](https://ja.wikipedia.org/wiki/菊地友弘 "wikilink")、[依田英将](https://ja.wikipedia.org/wiki/依田英将 "wikilink")
+      - 放送時間：平日15:45 - 19:00（ローカルニュース枠は16:00 - 16:50、17:36 - 17:53、18:15 - 19:00）
   - ABA [青森朝日放送](../Page/青森朝日放送.md "wikilink")
       - 『[スーパーJチャンネルABA](../Page/スーパーJチャンネルABA.md "wikilink")』■
       - キャスター：[対馬孝之](../Page/対馬孝之.md "wikilink") / [藤岡勇貴](../Page/藤岡勇貴.md "wikilink")・[坂本佳子](https://ja.wikipedia.org/wiki/坂本佳子 "wikilink")（隔週でコンビを交替する）
@@ -46,7 +46,7 @@
 
   - UX [新潟テレビ21](https://ja.wikipedia.org/wiki/新潟テレビ21 "wikilink")
       - 『[スーパーJにいがた](https://ja.wikipedia.org/wiki/スーパーJにいがた "wikilink")』■〔一部ニュースは配信無し〕
-      - キャスター：[小山裕久](https://ja.wikipedia.org/wiki/小山裕久 "wikilink")、[五十嵐利恵](https://ja.wikipedia.org/wiki/五十嵐利恵 "wikilink")
+      - キャスター：[小山裕久](../Page/小山裕久.md "wikilink")、[五十嵐利恵](https://ja.wikipedia.org/wiki/五十嵐利恵 "wikilink")
       - 放送時間：平日16:50 - 19:00（ローカルニュース枠は18:15 - 19:00）
   - abn [長野朝日放送](../Page/長野朝日放送.md "wikilink")
       - 『[abnステーション](https://ja.wikipedia.org/wiki/abnステーション "wikilink")』■
@@ -209,7 +209,7 @@
       - [ANNニュース&スポーツ (1980年代)](../Page/ANNニュース&スポーツ_\(1980年代\).md "wikilink")（番組終了）
       - [600ステーション](../Page/600ステーション.md "wikilink")（番組終了）
       - [ステーションEYE](../Page/ステーションEYE.md "wikilink")（番組終了）
-      - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+      - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
       - [サンデーステーション](https://ja.wikipedia.org/wiki/サンデーステーション "wikilink")
   - [ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")
   - [朝日ニュースター](../Page/朝日ニュースター.md "wikilink")（現 [テレ朝チャンネル2](https://ja.wikipedia.org/wiki/テレ朝チャンネル#テレ朝チャンネル2_ニュース・情報・スポーツ "wikilink")）

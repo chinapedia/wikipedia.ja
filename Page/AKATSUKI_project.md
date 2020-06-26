@@ -42,7 +42,7 @@
   - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")
   - [藤井剛](../Page/藤井剛.md "wikilink")
   - [渕井達也](https://ja.wikipedia.org/wiki/渕井達也 "wikilink")
-  - [牧田雄一](https://ja.wikipedia.org/wiki/牧田雄一 "wikilink")
+  - [牧田雄一](../Page/牧田雄一.md "wikilink")
   - [山中保之介](https://ja.wikipedia.org/wiki/山中保之介 "wikilink")
   - [西山久美](https://ja.wikipedia.org/wiki/西山久美 "wikilink")
   - [畠山雄輔](https://ja.wikipedia.org/wiki/畠山雄輔 "wikilink")

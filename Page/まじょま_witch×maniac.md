@@ -1,7 +1,7 @@
 > この記事は[まじょま witch×maniac](https://ja.wikipedia.org/wiki/まじょま_witch×maniac)から翻訳されています。
 
 
-『**まじょま witch×maniac**』（まじょま ウィッチ・マニアック）は、[神吉の](https://ja.wikipedia.org/wiki/神吉李花 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ブラッド](../Page/月刊少年ブラッド.md "wikilink")』（[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）[2006年](../Page/2006年.md "wikilink")5月号から11月号まで連載の後、同誌の休刊に伴い[ウェブコミック](../Page/ウェブコミック.md "wikilink")誌『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』に移行して連載されていたが、長期休載の後に同誌より派生した『[FlexComixネクスト](https://ja.wikipedia.org/wiki/FlexComixネクスト "wikilink")』で[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")より連載を再開し、2008年[11月11日](../Page/11月11日.md "wikilink")更新分で完結した。単行本は全2巻。
+『**まじょま witch×maniac**』（まじょま ウィッチ・マニアック）は、[神吉の](../Page/神吉李花.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ブラッド](../Page/月刊少年ブラッド.md "wikilink")』（[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）[2006年](../Page/2006年.md "wikilink")5月号から11月号まで連載の後、同誌の休刊に伴い[ウェブコミック](../Page/ウェブコミック.md "wikilink")誌『[FlexComixブラッド](../Page/FlexComixブラッド.md "wikilink")』に移行して連載されていたが、長期休載の後に同誌より派生した『[FlexComixネクスト](https://ja.wikipedia.org/wiki/FlexComixネクスト "wikilink")』で[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")より連載を再開し、2008年[11月11日](../Page/11月11日.md "wikilink")更新分で完結した。単行本は全2巻。
 
 ## ストーリー
 

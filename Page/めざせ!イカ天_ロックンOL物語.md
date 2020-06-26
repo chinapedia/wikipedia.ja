@@ -145,4 +145,4 @@
 
 本作は、後にTBSビデオ、クラリオンソフトからビデオ化されている。現状では入手困難な面もあるが、一部レンタルビデオ店では現在も置いている所がある。
 
-[Category:TBSのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:TBSのスペシャルドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:ロックを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロックを題材としたテレビドラマ "wikilink") [Category:テレビ放送を題材とした作品](https://ja.wikipedia.org/wiki/Category:テレビ放送を題材とした作品 "wikilink")
+[Category:TBSのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:TBSのスペシャルドラマ "wikilink") [Category:1990年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1990年のテレビドラマ "wikilink") [Category:ロックを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロックを題材としたテレビドラマ "wikilink") [Category:テレビ放送を題材とした作品](https://ja.wikipedia.org/wiki/Category:テレビ放送を題材とした作品 "wikilink") [Category:カノックス](https://ja.wikipedia.org/wiki/Category:カノックス "wikilink")

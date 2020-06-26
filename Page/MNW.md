@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")
   - [お願い\!ランキング](https://ja.wikipedia.org/wiki/お願い!ランキング "wikilink")
   - [クイズプレゼンバラエティー Qさま\!\!](../Page/クイズプレゼンバラエティー_Qさま!!.md "wikilink")
   - [たけしの健康エンターテインメント\!みんなの家庭の医学](https://ja.wikipedia.org/wiki/たけしの健康エンターテインメント!みんなの家庭の医学 "wikilink")（[ABC制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）

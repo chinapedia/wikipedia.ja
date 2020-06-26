@@ -3,7 +3,7 @@
 
 『**女帝 SUPER QUEEN**』（じょてい スーパークイーン）は、[倉科遼](../Page/倉科遼.md "wikilink")原作、[和気一作](https://ja.wikipedia.org/wiki/和気一作 "wikilink")作画による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")である。[芳文社](../Page/芳文社.md "wikilink")発行の[漫画雑誌](../Page/漫画雑誌.md "wikilink")「[週刊漫画TIMES](../Page/週刊漫画TIMES.md "wikilink")」に連載された。単行本は全24巻。後に刊行された愛蔵版や廉価版では、副題をつけずにタイトルを『**女帝**』としている。
 
-本稿では、これを原作とした[2000年](../Page/2000年.md "wikilink")公開の映画、ならびに[2007年](../Page/2007年.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")についても併せてここで扱う。
+本稿では、これを原作とした[2001年](../Page/2001年.md "wikilink")公開の映画、ならびに[2007年](../Page/2007年.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で放送された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")についても併せてここで扱う。
 
 ## 概要
 

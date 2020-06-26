@@ -129,7 +129,7 @@
 
   - [イーファイト 選手データ](http://efight.jp/playermeikan-20121030_5693)
 
-[Category:日本のキックボクサー](https://ja.wikipedia.org/wiki/Category:日本のキックボクサー "wikilink") [Category:K-1に参戦した選手](https://ja.wikipedia.org/wiki/Category:K-1に参戦した選手 "wikilink") [Category:日本のYouTuber](https://ja.wikipedia.org/wiki/Category:日本のYouTuber "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のキックボクサー](https://ja.wikipedia.org/wiki/Category:日本のキックボクサー "wikilink") [Category:K-1に参戦した選手](https://ja.wikipedia.org/wiki/Category:K-1に参戦した選手 "wikilink") [Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  \[<https://www.tokyoheadline.com/%E6%A0%BC%E9%97%98%E5%AE%B6%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%82%A4%E3%83%ABvol3-%E5%8F%8D%E9%80%86%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9hiroya%EF%BC%88_151076/>　格闘家イケメンファイル　Vol.3　反逆のプリンス　HIROYA（ひろや）\]TOKYO HEADLINE 2017年2月1日
 2.  [【K-1ユース】“ケジメの丸坊主”HIROYA「世界を知ってもっと成長したい」](http://gbring.com/sokuho/news/2008_01/0111_k-1_youth_02.htm) 格闘技ウェブマガジンGBR 2008年1月11日

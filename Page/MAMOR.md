@@ -138,7 +138,7 @@
       - [森下千里](https://ja.wikipedia.org/wiki/森下千里 "wikilink")（7月号）
       - [本山華子](https://ja.wikipedia.org/wiki/本山華子 "wikilink")（8月号）
       - [永池南津子](https://ja.wikipedia.org/wiki/永池南津子 "wikilink")（9月号）
-      - [多岐川華子](https://ja.wikipedia.org/wiki/多岐川華子 "wikilink")（10月号）
+      - [多岐川華子](../Page/多岐川華子.md "wikilink")（10月号）
       - [大島麻衣](../Page/大島麻衣.md "wikilink")（11月号）
       - [木口亜矢](../Page/木口亜矢.md "wikilink")（12月号）
 

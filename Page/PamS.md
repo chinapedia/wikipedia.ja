@@ -1,7 +1,7 @@
 > この記事は[PamS](https://ja.wikipedia.org/wiki/PamS)から翻訳されています。
 
 
-『**pamS**』（ウラスマ）は、[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[ビクターエンタテインメントよりリリースされた](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
+『**pamS**』（ウラスマ）は、[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[ビクターエンタテインメントよりリリースされた](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[SMAP](../Page/SMAP.md "wikilink")の4枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 解説
 

@@ -29,6 +29,26 @@
         福岡県の[那珂川の土手で散歩中に美しい景色を前にして](../Page/那珂川_\(九州\).md "wikilink")「うまく絵が描けたらなあ」と思ったことからこの曲が作られたと語っている。
         『Mr.Children 2001-2005 <micro>』にも収録されており、初出がカップリング曲となっている楽曲で唯一『[B-SIDE](../Page/B-SIDE.md "wikilink")』以外のベストアルバムに収録された。
 
+## ライブ映像作品
+
+### youthful days
+
+| 作品名                                                                                                                       | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                         |    |
+| [Mr.Children Tour 2004 シフクノオト](../Page/Mr.Children_Tour_2004_シフクノオト.md "wikilink")                                        |    |
+| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                        |    |
+| [Mr.Children Tour 2009 〜終末のコンフィデンスソングス〜](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2009_〜終末のコンフィデンスソングス〜 "wikilink") |    |
+| [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink")                 |    |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")               |    |
+
+### Drawing
+
+| 作品名                                                                                                                                                                       | 備考 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [wonederful world on DEC 21](https://ja.wikipedia.org/wiki/wonederful_world_on_DEC_21 "wikilink")                                                                         |    |
+| [Mr.Children DOME TOUR 2009 〜SUPERMARKET FANTASY〜 IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") |    |
+
 ## 収録アルバム
 
   - 『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』 (\#1,\#2)

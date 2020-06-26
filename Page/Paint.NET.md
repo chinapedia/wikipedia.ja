@@ -23,9 +23,6 @@
   - バージョン 1.1 （公開日：2004年[10月1日](../Page/10月1日.md "wikilink")）：
       - Microsoft 指導者、開発者：Rick Brewster
       - WSU テスタ、文献作成：Tom Jackson、Michael Kelsey、Craig Taylor
-
-<!-- end list -->
-
   - バージョン 2.0 （公開日：2004年[12月17日](../Page/12月17日.md "wikilink")）：
       - WSU 開発者：Tom Jackson、Michael Kelsey、Craig Taylor
       - WSU 指揮者：Jack Hagemeister

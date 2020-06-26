@@ -190,7 +190,7 @@
   - [田島穂奈美](../Page/田島穂奈美.md "wikilink")
   - [レベッカ・レイボーン](../Page/ベッキー.md "wikilink")
   - [前泊理花](../Page/前泊理花.md "wikilink")
-  - [篠原美紀](https://ja.wikipedia.org/wiki/篠原美紀 "wikilink")
+  - [篠原美紀](../Page/篠原美紀.md "wikilink")
   - [榊安奈](https://ja.wikipedia.org/wiki/榊安奈 "wikilink")
   - [大塚露那](https://ja.wikipedia.org/wiki/大塚露那 "wikilink")
 
@@ -475,7 +475,7 @@
   - 澤田真里愛
   - [木村真那月](https://ja.wikipedia.org/wiki/木村真那月 "wikilink")
   - [出野泉花](https://ja.wikipedia.org/wiki/出野泉花 "wikilink")
-  - 勝沼美紅
+  - [勝沼美紅](../Page/橘美紅.md "wikilink")
 
 ## 関連項目
 

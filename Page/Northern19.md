@@ -632,7 +632,7 @@
 <li><strong>HATE YOU / Northern19</strong></li>
 <li>Shake on the Floor / <a href="https://ja.wikipedia.org/wiki/But_by_Fall" title="wikilink">But by Fall</a></li>
 <li>what am i 2 u / <a href="https://ja.wikipedia.org/wiki/ONE_BUCK_TUNER" title="wikilink">ONE BUCK TUNER</a></li>
-<li>DRXX CLUB / <a href="https://ja.wikipedia.org/wiki/SHIT_HAPPENING" title="wikilink">SHIT HAPPENING</a></li>
+<li>DRXX CLUB / <a href="../Page/SHIT_HAPPENING.md" title="wikilink">SHIT HAPPENING</a></li>
 <li>TRUST / <a href="https://ja.wikipedia.org/wiki/SUPER_COLA" title="wikilink">SUPER COLA</a></li>
 <li>TO MY GUITAR / <a href="https://ja.wikipedia.org/wiki/TOO_CLOSE_TO_SEE" title="wikilink">TOO CLOSE TO SEE</a></li>
 <li>In the end of summer / <a href="https://ja.wikipedia.org/wiki/RUNNERS-Hi" title="wikilink">RUNNERS-Hi</a></li>
@@ -702,7 +702,7 @@
   - 2012年04月30日 - Northern19『HAVE A NICE DAY\!\!\!4』
   - 2012年06月07日〜11月10日（30公演） - EMOTIONS tour
       -
-        w/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[ONE BUCK TUNER](https://ja.wikipedia.org/wiki/ONE_BUCK_TUNER "wikilink")/[But by Fall](https://ja.wikipedia.org/wiki/But_by_Fall "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink")/[MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")/[SHIT HAPPENING](https://ja.wikipedia.org/wiki/SHIT_HAPPENING "wikilink")/[TNX](../Page/TNX.md "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[CLEAVE](https://ja.wikipedia.org/wiki/CLEAVE "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[HEAVY CLAFT](https://ja.wikipedia.org/wiki/HEAVY_CLAFT "wikilink")/[JACK POT BELL](https://ja.wikipedia.org/wiki/JACK_POT_BELL "wikilink")/[LOVESTRUCK](https://ja.wikipedia.org/wiki/LOVESTRUCK "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[MINOR LEAGUE](https://ja.wikipedia.org/wiki/MINOR_LEAGUE "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")
+        w/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/[ONE BUCK TUNER](https://ja.wikipedia.org/wiki/ONE_BUCK_TUNER "wikilink")/[But by Fall](https://ja.wikipedia.org/wiki/But_by_Fall "wikilink")/[COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink")/[MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")/[SHIT HAPPENING](../Page/SHIT_HAPPENING.md "wikilink")/[TNX](../Page/TNX.md "wikilink")/[at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink")/[CLEAVE](https://ja.wikipedia.org/wiki/CLEAVE "wikilink")/[EDDY](https://ja.wikipedia.org/wiki/EDDY "wikilink")/[HEAVY CLAFT](https://ja.wikipedia.org/wiki/HEAVY_CLAFT "wikilink")/[JACK POT BELL](https://ja.wikipedia.org/wiki/JACK_POT_BELL "wikilink")/[LOVESTRUCK](https://ja.wikipedia.org/wiki/LOVESTRUCK "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[MINOR LEAGUE](https://ja.wikipedia.org/wiki/MINOR_LEAGUE "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")
   - 2012年12月23日 - 「WINTER,WINTER」購入者アウトストアライブ
   - 2013年01月11日〜02月02日（7公演） - Northern19「LAST WINTER,FIRST STEP tour」
       -

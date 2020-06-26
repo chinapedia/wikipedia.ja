@@ -1,7 +1,7 @@
 > この記事は[死神 \(DEATH NOTE\)](https://ja.wikipedia.org/wiki/死神_\(DEATH_NOTE\))から翻訳されています。
 
 
-**死神**（しにがみ）は、『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』に登場する架空の存在。
+**死神**（しにがみ）は、『[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")』に登場する架空の存在。
 
 ## 死神の設定
 

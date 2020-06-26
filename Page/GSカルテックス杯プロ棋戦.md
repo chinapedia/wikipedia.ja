@@ -44,6 +44,7 @@
 21. 2016年 [李東勲](https://ja.wikipedia.org/wiki/李東勲 "wikilink") 3-0 尹贊喜
 22. 2017年 [安国鉉](https://ja.wikipedia.org/wiki/安国鉉 "wikilink") 3-2 金志錫
 23. 2018年 [申眞諝](https://ja.wikipedia.org/wiki/申眞諝 "wikilink") 3-2 李世乭
+24. 2019年 申真諝 3-0 金志錫
 
 ## 脚注
 

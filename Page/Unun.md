@@ -11,7 +11,7 @@
 
 大阪のネット局[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")は23:30 - 24:00を基本枠に放送していた。ただし、[毎日放送ダイナミックナイターの試合延長による時間繰り下げも度々あった](../Page/MBSベースボールパーク.md "wikilink")。
 
-それ以外の放送局は[KBCラジオ](../Page/KBCラジオ.md "wikilink")が23:30、[RCCラジオは](../Page/中国放送.md "wikilink")23:00、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")は23:30、[TBCラジオは](../Page/東北放送.md "wikilink")23:00からそれぞれ30分放送していた。
+それ以外の放送局は[KBCラジオ](../Page/KBCラジオ.md "wikilink")が23:30、[RCCラジオは](../Page/中国放送.md "wikilink")23:00、[STVラジオ](../Page/STVラジオ.md "wikilink")は23:30、[TBCラジオは](../Page/東北放送.md "wikilink")23:00からそれぞれ30分放送していた。
 
 ## 出演者
 

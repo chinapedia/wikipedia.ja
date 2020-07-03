@@ -228,7 +228,7 @@
   - **[中央本線](https://ja.wikipedia.org/wiki/中央本線 "wikilink")（[岡谷](../Page/岡谷駅.md "wikilink")-[辰野](../Page/辰野駅.md "wikilink")）・[飯田線](https://ja.wikipedia.org/wiki/飯田線 "wikilink")（全線）**
   - **[室蘭本線](https://ja.wikipedia.org/wiki/室蘭本線 "wikilink"),[千歳線](../Page/千歳線.md "wikilink")（寝台特急[北斗星](../Page/北斗星_\(列車\).md "wikilink")）、函館本線,[石北本線](https://ja.wikipedia.org/wiki/石北本線 "wikilink")（特急[オホーツク](https://ja.wikipedia.org/wiki/オホーツク_\(列車\) "wikilink")）,[ふるさと銀河線](https://ja.wikipedia.org/wiki/北海道ちほく高原鉄道ふるさと銀河線 "wikilink")**
   - **[阿武隈急行線](../Page/阿武隈急行線.md "wikilink")（[あぶくま](../Page/あぶくま駅.md "wikilink")-[槻木](../Page/槻木駅.md "wikilink")）・[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")（槻木-[仙台](../Page/仙台駅.md "wikilink")）**
-  - **[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")（[土合](../Page/土合駅.md "wikilink")-[湯檜曽](../Page/湯檜曽駅.md "wikilink")）**
+  - **[上越線](../Page/上越線.md "wikilink")（[土合](../Page/土合駅.md "wikilink")-[湯檜曽](../Page/湯檜曽駅.md "wikilink")）**
   - **[信越本線](https://ja.wikipedia.org/wiki/信越本線 "wikilink")（[青海川](../Page/青海川駅.md "wikilink")-[鯨波](../Page/鯨波駅.md "wikilink")）**
   - **[北陸本線](../Page/北陸本線.md "wikilink")（[筒石駅](https://ja.wikipedia.org/wiki/筒石駅 "wikilink")）**
   - **[大都市近郊区間](https://ja.wikipedia.org/wiki/大都市近郊区間_\(JR\) "wikilink")（東京近郊区間・大阪近郊区間）内の各路線（大回り乗車）**

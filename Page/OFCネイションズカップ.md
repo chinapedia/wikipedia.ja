@@ -121,7 +121,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/OFCネイションズカップ2020" title="wikilink">―</a></p></td>
+<td><p><a href="../Page/OFCネイションズカップ2020.md" title="wikilink">―</a></p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
 <td></td>
 <td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウイルス感染症の流行により中止</a>[1]</p></td>

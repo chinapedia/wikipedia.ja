@@ -1,7 +1,7 @@
 > この記事は[SLぐんま みなかみ](https://ja.wikipedia.org/wiki/SLぐんま_みなかみ)から翻訳されています。
 
 
-**SLぐんま みなかみ**（SLぐんま みなかみ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が[上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")の[高崎駅](https://ja.wikipedia.org/wiki/高崎駅 "wikilink") - [水上駅](../Page/水上駅.md "wikilink")間にて運行している[蒸気機関車](../Page/蒸気機関車.md "wikilink") (SL) 牽引による[臨時](../Page/臨時列車.md "wikilink")[快速列車](../Page/快速列車.md "wikilink")である。[2018年](../Page/2018年.md "wikilink")（平成30年）[10月6日](../Page/10月6日.md "wikilink")に**SLみなかみ**から改称された。
+**SLぐんま みなかみ**（SLぐんま みなかみ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が[上越線](../Page/上越線.md "wikilink")の[高崎駅](https://ja.wikipedia.org/wiki/高崎駅 "wikilink") - [水上駅](../Page/水上駅.md "wikilink")間にて運行している[蒸気機関車](../Page/蒸気機関車.md "wikilink") (SL) 牽引による[臨時](../Page/臨時列車.md "wikilink")[快速列車](../Page/快速列車.md "wikilink")である。[2018年](../Page/2018年.md "wikilink")（平成30年）[10月6日](../Page/10月6日.md "wikilink")に**SLみなかみ**から改称された。
 
 本項では、上越線の同一区間を走行する機関車牽引の臨時列車についても記述する。
 

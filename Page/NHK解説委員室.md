@@ -841,7 +841,7 @@
 <td><p>国際局</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/村田幸子" title="wikilink">村田幸子</a></p></td>
+<td><p><a href="../Page/村田幸子.md" title="wikilink">村田幸子</a></p></td>
 <td><p>社会福祉</p></td>
 <td><p>アナウンサー</p></td>
 <td></td>

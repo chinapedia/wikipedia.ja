@@ -15,7 +15,7 @@
 
 ## 優勝者一覧
 
-  - [中村寛](https://ja.wikipedia.org/wiki/中村寛_\(作曲家\) "wikilink")
+  - [中村寛](../Page/中村寛_\(作曲家\).md "wikilink")
   - [ルカ・ベルカストロ](../Page/ルカ・ベルカストロ.md "wikilink")（唯一の二度優勝）
   - [ディエゴ・ダロスト](https://ja.wikipedia.org/wiki/ディエゴ・ダロスト "wikilink")
   - [コスチン・カザヴァン](https://ja.wikipedia.org/wiki/コスチン・カザヴァン "wikilink")

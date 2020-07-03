@@ -131,18 +131,18 @@
 | \#35357D                                                                               | [紺藍](https://ja.wikipedia.org/wiki/紺藍 "wikilink")             | 9PB 2.5/9.5                                  |
 | \#A09BD8                                                                               | [藤色](../Page/藤色.md "wikilink")                                | 10PB 6.5/6.5                                 |
 | \#948BDB                                                                               | [藤紫](https://ja.wikipedia.org/wiki/藤紫 "wikilink")             | 0.5P 6/9                                     |
-| \#704CBC                                                                               | [青紫](https://ja.wikipedia.org/wiki/青紫 "wikilink")             | 2.5P 4/14                                    |
+| \#704CBC                                                                               | [青紫](../Page/青紫.md "wikilink")                                | 2.5P 4/14                                    |
 | \#6D52AB                                                                               | [菫（すみれ）色](https://ja.wikipedia.org/wiki/菫色 "wikilink")        | 2.5P 4/11                                    |
 | \#675D7E                                                                               | [鳩羽（はとば）色](https://ja.wikipedia.org/wiki/鳩羽色 "wikilink")      | 2.5P 4/3.5                                   |
 | \#7051AA                                                                               | [しょうぶ色](https://ja.wikipedia.org/wiki/菖蒲色 "wikilink")         | 2.5P 4/3.5                                   |
-| \#5F4C86                                                                               | [江戸紫](https://ja.wikipedia.org/wiki/江戸紫 "wikilink")           | 3P 3.5/7                                     |
+| \#5F4C86                                                                               | [江戸紫](../Page/江戸紫.md "wikilink")                              | 3P 3.5/7                                     |
 | \#A260BF                                                                               | [紫](../Page/紫.md "wikilink")                                  | 7.5P 5/12                                    |
 | \#775686                                                                               | [古代紫](https://ja.wikipedia.org/wiki/古代紫 "wikilink")           | 7.5P 4/6                                     |
 | \#47384F                                                                               | [なす紺](https://ja.wikipedia.org/wiki/茄子紺 "wikilink")           | 7.5P 2.5/2.5                                 |
 | \#402949                                                                               | [紫紺](https://ja.wikipedia.org/wiki/紫紺 "wikilink")             | 8P 2/4                                       |
 | \#C27BC8                                                                               | [あやめ色](https://ja.wikipedia.org/wiki/菖蒲色 "wikilink")          | 10P 6/10                                     |
 | \#C24DAE                                                                               | [牡丹（ぼたん）色](../Page/牡丹色.md "wikilink")                         | 3RP 5/14                                     |
-| \#C54EA0                                                                               | [赤紫](https://ja.wikipedia.org/wiki/赤紫 "wikilink")             | 5RP 5.5/13                                   |
+| \#C54EA0                                                                               | [赤紫](../Page/赤紫.md "wikilink")                                | 5RP 5.5/13                                   |
 | \#F1F1F1                                                                               | [白](../Page/白.md "wikilink")                                  | N9.5                                         |
 | \#F2E8EC                                                                               | [胡粉（ごふん）色](https://ja.wikipedia.org/wiki/胡粉色 "wikilink")      | 2.5Y 9.2/0.5                                 |
 | \#F0E2E0                                                                               | [生成り（きなり）色](https://ja.wikipedia.org/wiki/生成色 "wikilink")     | 10YR 9/1                                     |

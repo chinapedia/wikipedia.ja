@@ -53,7 +53,7 @@
 
 すべて2007年9月28日をもって終了したネット局
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") 17:40 - 17:45([牧泰昌の夕やけジャーナル](https://ja.wikipedia.org/wiki/牧泰昌の夕やけジャーナル "wikilink")内)
+  - [STVラジオ](../Page/STVラジオ.md "wikilink") 17:40 - 17:45([牧泰昌の夕やけジャーナル](https://ja.wikipedia.org/wiki/牧泰昌の夕やけジャーナル "wikilink")内)
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink") 18:16 - 18:20
   - [IBC岩手放送](../Page/IBC岩手放送.md "wikilink") 15:55 - 16:00（[ワイドステーション](../Page/ワイドステーション.md "wikilink")内）
   - [東北放送](../Page/東北放送.md "wikilink") 16:25 - 16:30

@@ -1072,7 +1072,7 @@ YS-11・運命の初飛行</p></td>
 <td><p>4月1日</p></td>
 <td><p><a href="../Page/海賊.md" title="wikilink">海賊</a>襲撃 <a href="../Page/マラッカ海峡.md" title="wikilink">マラッカ海峡</a>の闘い</p></td>
 <td><p>アロンドラ・レインボー号事件</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/海上保安庁" title="wikilink">海上保安庁</a></p></td>
+<td><p><a href="../Page/海上保安庁.md" title="wikilink">海上保安庁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>110</p></td>

@@ -94,7 +94,7 @@
 
   - [ロブソン](../Page/ロブソン・ルイス・ペレイラ・ダ・シルバ.md "wikilink") 1996-1997
 
-  - [デル・レイ](https://ja.wikipedia.org/wiki/デル・レイ "wikilink") 1999-2002
+  - [デル・レイ](../Page/デル・レイ.md "wikilink") 1999-2002
 
   - [ヌーノ・ヴァレンテ](../Page/ヌーノ・ヴァレンテ.md "wikilink") 1999-2002
 

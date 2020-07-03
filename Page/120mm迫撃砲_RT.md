@@ -33,7 +33,7 @@
 
 [thumb中のフランス陸軍で運用される](https://ja.wikipedia.org/wiki/ファイル:French_MO-120-RT-61_and_Véhicule_de_Tracte_Mortier_120_during_Operation_Desert_Shield.JPEG "wikilink")120mm迫撃砲 RT。後方にVTM-120牽引車が駐車している。\]\]
 
-本砲は、[1980年代](../Page/1980年代.md "wikilink")後半より[フランス陸軍](../Page/フランス陸軍.md "wikilink")において採用されている。フランス陸軍においては、[VAB装甲車](../Page/VAB装甲車.md "wikilink")から派生したVTM-120（）牽引車によって牽引されており、1個射撃[班](https://ja.wikipedia.org/wiki/班 "wikilink")は、車両の乗員2名と砲員4名の合計6名より構成される。
+本砲は、[1980年代](../Page/1980年代.md "wikilink")後半より[フランス陸軍](../Page/フランス陸軍.md "wikilink")において採用されている。フランス陸軍においては、[VAB装甲車](../Page/VAB装甲車.md "wikilink")から派生したVTM-120（）牽引車によって牽引されており、1個射撃[班](../Page/班.md "wikilink")は、車両の乗員2名と砲員4名の合計6名より構成される。
 
 平時は[砲兵](../Page/砲兵.md "wikilink")連隊に8門ずつ配置されて、[榴弾砲](../Page/榴弾砲.md "wikilink")や[MLRS](../Page/MLRS.md "wikilink")を補完しているが、戦時の際は本来の所属である[歩兵](../Page/歩兵.md "wikilink")[連隊](../Page/連隊.md "wikilink")に配備されて運用される。
 

@@ -108,7 +108,7 @@
 ### その他アルバム
 
   - We Are Audio Active（1994年、2003年12月6日に再編集されBEAT RECORDSより再発）ON.U sound ※1stアルバム海外盤
-  - The Way Out Is the Way In（1995年11月14日）All Saints／BEAT RECORDS ※[ララージ](https://ja.wikipedia.org/wiki/ララージ "wikilink")とのコラボ盤
+  - The Way Out Is the Way In（1995年11月14日）All Saints／BEAT RECORDS ※[ララージ](../Page/ララージ.md "wikilink")とのコラボ盤
   - Apollo Choco Remixed　ON.U sound ※リミックスアルバム
   - IT’S A STONY（1998年5月25日）BEAT RECORDS ※外部アーティストのオーディオ・アクティブによるRemixなど
   - ALTERED I（1999年7月14日）WARNER MUSIC／DREAM MACHINE ※リミックスアルバム

@@ -11,7 +11,7 @@
 
 [1954年](../Page/1954年.md "wikilink")（昭和29年）、[保安庁](../Page/保安庁.md "wikilink")が再編されて[防衛庁](https://ja.wikipedia.org/wiki/防衛庁 "wikilink")が発足するにあたり、富士重工業は[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")向け多座席連絡機の要求を受けていたことから、急遽試作を開始。試作機**LM**は[1955年](../Page/1955年.md "wikilink")（昭和30年）[6月7日](../Page/6月7日.md "wikilink")に初飛行した。航空局の耐空試験に合格した機体JA3098は、主翼はクリーム色、胴体は赤に白いラインの富士重マークをイメージさせる塗装を施し、工場近くの景勝地から「[日光](../Page/日光.md "wikilink")」と名づけられた。
 
-この「日光」は1957年に[松竹](../Page/松竹.md "wikilink")が制作・公開した、[木下恵介](https://ja.wikipedia.org/wiki/木下恵介 "wikilink")監督の映画作品『[喜びも悲しみも幾歳月](../Page/喜びも悲しみも幾歳月.md "wikilink")』の撮影に使われ、映画のオープニングに後援として[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")と共に富士重工株式会社 LM1型 日光機使用とクレジットが入っている。
+この「日光」は1957年に[松竹](../Page/松竹.md "wikilink")が制作・公開した、[木下恵介](https://ja.wikipedia.org/wiki/木下恵介 "wikilink")監督の映画作品『[喜びも悲しみも幾歳月](../Page/喜びも悲しみも幾歳月.md "wikilink")』の撮影に使われ、映画のオープニングに後援として[海上保安庁](../Page/海上保安庁.md "wikilink")と共に富士重工株式会社 LM1型 日光機使用とクレジットが入っている。
 
 さらに、LMを元に自衛隊仕様とした機体**LM-1**を製作、[1956年](../Page/1956年.md "wikilink")（昭和31年）[9月8日](../Page/9月8日.md "wikilink")に初飛行した。比較試験では、[川崎重工業](../Page/川崎重工業.md "wikilink")の[KAL-2](../Page/KAL-2.md "wikilink")や[デ・ハビランド・カナダ](../Page/デ・ハビランド・カナダ.md "wikilink")の[DHC-2に比べて](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-2 "wikilink")、T-34Aと90%以上の部品が共通であることが利点となり、他2種を退けて制式採用され、[10月2日](../Page/10月2日.md "wikilink")に1号機を受領した。以後、[1957年](../Page/1957年.md "wikilink")（昭和32年）までに24機が[アメリカ政府の](https://ja.wikipedia.org/wiki/アメリカ合衆国連邦政府 "wikilink")[対外有償供与として生産され](https://ja.wikipedia.org/wiki/対外有償軍事援助 "wikilink")、米軍から供与された。また、民間向けには[1959年](../Page/1959年.md "wikilink")（昭和34年）3月までに2機が生産されたが、うち1機は[XKMへ改造された](../Page/KM-2.md "wikilink")。総生産数はLMを含めて27機である。
 

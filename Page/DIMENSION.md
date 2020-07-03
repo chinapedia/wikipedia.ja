@@ -31,7 +31,7 @@
 
   -
     [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[プロ野球中継](../Page/プロ野球中継.md "wikilink")テーマ音楽（1992〜1997年）
-    [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")「室田智美のミュージックサタデー」オープニングテーマ（2004年〜）
+    [STVラジオ](../Page/STVラジオ.md "wikilink")「室田智美のミュージックサタデー」オープニングテーマ（2004年〜）
 
 ### アルバム
 

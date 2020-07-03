@@ -66,7 +66,7 @@
 
   - [ラジオ関西](../Page/ラジオ関西.md "wikilink")、月～金曜が「日産地球大好き」（「[ま～るい地球と……谷五郎モーニング](https://ja.wikipedia.org/wiki/ま～るい地球と……谷五郎モーニング "wikilink")」時代）土曜が「日産サタデースポーツ」（「[土曜バンバン\!やってもいいかな?\!](../Page/土曜バンバン!やってもいいかな?!.md "wikilink")」時代）に放送。2000年代に入る前にスポンサーを降板。
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink")（平日7:45～7:57）
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（8:35～8:45　[オハヨー\!ほっかいどう](https://ja.wikipedia.org/wiki/オハヨー!ほっかいどう "wikilink")に内包）
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")（8:35～8:45　[オハヨー\!ほっかいどう](https://ja.wikipedia.org/wiki/オハヨー!ほっかいどう "wikilink")に内包）
   - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")（7:33～7:47　[小島一宏 モーニングあいランド](../Page/小島一宏_モーニングあいランド.md "wikilink")）
 
 ## 関連項目

@@ -98,7 +98,7 @@
 | 19 | [2015年](../Page/2015年.md "wikilink")                    | [Liberty\&Gravity](https://ja.wikipedia.org/wiki/THE_PIER "wikilink")                  | [くるり](../Page/くるり.md "wikilink")                                                | 田向潤                                                             |
 | 20 | [2016年](../Page/2016年.md "wikilink")                    | [終わらない歌](https://ja.wikipedia.org/wiki/終わらない歌 "wikilink")                              | [ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")                    | [鎌谷聡次郎](https://ja.wikipedia.org/wiki/鎌谷聡次郎 "wikilink")         |
 | 21 | [2017年](../Page/2017年.md "wikilink")                    | [恋](https://ja.wikipedia.org/wiki/恋_\(星野源の曲\) "wikilink")                              | [星野源](../Page/星野源.md "wikilink")                                                | [関和亮](https://ja.wikipedia.org/wiki/関和亮 "wikilink")             |
-| 22 | [2018年](../Page/2018年.md "wikilink")                    | [ノンフィクション](https://ja.wikipedia.org/wiki/ノンフィクション_\(平井堅の曲\) "wikilink")                | [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")                             | [田辺秀伸](https://ja.wikipedia.org/wiki/田辺秀伸 "wikilink")           |
+| 22 | [2018年](../Page/2018年.md "wikilink")                    | [ノンフィクション](https://ja.wikipedia.org/wiki/ノンフィクション_\(平井堅の曲\) "wikilink")                | [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")                             | [田辺秀伸](../Page/田辺秀伸.md "wikilink")                              |
 | 23 | [2019年](../Page/2019年.md "wikilink")                    | [カタルシスト](https://ja.wikipedia.org/wiki/カタルシスト "wikilink")                              | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")                   | [柿本ケンサク](https://ja.wikipedia.org/wiki/柿本ケンサク "wikilink")       |
 | 24 | [2020年](../Page/2020年.md "wikilink")                    | [Aurora](https://ja.wikipedia.org/wiki/Aurora_\(BUMP_OF_CHICKENの曲\) "wikilink")        | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")     | [林響太朗](https://ja.wikipedia.org/wiki/林響太朗 "wikilink")           |
 
@@ -213,7 +213,7 @@
 <td><p>-</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/最&amp;高" title="wikilink">最&amp;高</a>』<br />
 <a href="https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ" title="wikilink">きゃりーぱみゅぱみゅ</a>／監督：<a href="../Page/田中秀幸_(アートディレクター).md" title="wikilink">田中秀幸</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田辺秀伸" title="wikilink">田辺秀伸</a></p></td>
+<td><p><a href="../Page/田辺秀伸.md" title="wikilink">田辺秀伸</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ" title="wikilink">きゃりーぱみゅぱみゅ</a></p></td>
 <td><p>-</p></td>

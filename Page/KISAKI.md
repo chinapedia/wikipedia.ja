@@ -321,7 +321,7 @@ KISAKIが代表を務めるインディーズレーベル。2003年3月設立。
   - [音鬼](https://ja.wikipedia.org/wiki/音鬼 "wikilink") (2005年)
   - [Pashya](https://ja.wikipedia.org/wiki/Pashya "wikilink") (2006年〜2007年解散)
   - [Dali](https://ja.wikipedia.org/wiki/Dali_\(バンド\) "wikilink") (2006年〜2012年解散)
-  - [SIVA](https://ja.wikipedia.org/wiki/SIVA "wikilink") (2006年〜2009年解散)
+  - [SIVA](../Page/SIVA.md "wikilink") (2006年〜2009年解散)
   - [Arc](https://ja.wikipedia.org/wiki/Arc_\(バンド\) "wikilink") (2006年〜2011年解散)
   - [hurts](https://ja.wikipedia.org/wiki/hurts_\(バンド\) "wikilink") (2007年〜2008年解散)
   - [ネガ](https://ja.wikipedia.org/wiki/ネガ_\(バンド\) "wikilink") (2007年〜2013年解散)

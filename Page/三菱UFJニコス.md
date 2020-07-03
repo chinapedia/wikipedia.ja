@@ -128,7 +128,7 @@ MUFGが2005年11月に[農林中金](https://ja.wikipedia.org/wiki/農林中金 
 | [第四ディーシーカード](https://ja.wikipedia.org/wiki/第四ディーシーカード "wikilink")       | ○       | ○\[14\]  |
 | [たいこうカード](https://ja.wikipedia.org/wiki/たいこうカード "wikilink")             |         | ○        |
 | [富山ファースト・ディーシー](https://ja.wikipedia.org/wiki/富山ファースト・ディーシー "wikilink") | ○       |          |
-| [福井カード](https://ja.wikipedia.org/wiki/福井カード "wikilink")                 | ○       | ○\[15\]  |
+| [福井カード](../Page/福井カード.md "wikilink")                                    | ○       | ○\[15\]  |
 | [山梨中銀ディーシーカード](../Page/山梨中銀ディーシーカード.md "wikilink")                      | ○       |          |
 | [八十二カード](../Page/八十二カード.md "wikilink")                                  | ○       |          |
 | [十六ディーシーカード](https://ja.wikipedia.org/wiki/十六ディーシーカード "wikilink")       | ○       |          |

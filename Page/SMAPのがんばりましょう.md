@@ -39,7 +39,7 @@
       - [濱口優](../Page/濱口優.md "wikilink")（[よゐこ](../Page/よゐこ.md "wikilink")）
       - [持田真樹](https://ja.wikipedia.org/wiki/持田真樹 "wikilink")
       - [坂木優子](../Page/坂木優子.md "wikilink")
-      - [明石亮太朗](https://ja.wikipedia.org/wiki/明石亮太朗 "wikilink")
+      - [明石亮太朗](../Page/明石亮太朗.md "wikilink")
       - [井上晴美](https://ja.wikipedia.org/wiki/井上晴美 "wikilink")
       - [沢村亜津佐](../Page/沢村亜津佐.md "wikilink")
 

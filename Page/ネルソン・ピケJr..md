@@ -898,7 +898,7 @@ SPR</a><br />
 <td><p><a href="https://ja.wikipedia.org/wiki/2006年のル・マン24時間レース" title="wikilink">2006年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロシアン・エイジ・レーシング" title="wikilink">ロシアン・エイジ・レーシング</a><br />
  <a href="https://ja.wikipedia.org/wiki/チーム・モデナ" title="wikilink">チーム・モデナ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アントニオ・ガルシア" title="wikilink">アントニオ・ガルシア</a><br />
+<td><p><a href="../Page/アントニオ・ガルシア.md" title="wikilink">アントニオ・ガルシア</a><br />
  <a href="../Page/デビッド・ブラバム.md" title="wikilink">デビッド・ブラバム</a></p></td>
 <td><p><a href="../Page/アストンマーティン・DB9.md" title="wikilink">アストンマーティン・DBR9</a></p></td>
 <td><p>GT1</p></td>

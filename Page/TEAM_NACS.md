@@ -289,7 +289,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
   - 「下荒井兄弟のスプリング、ハズ、カム。」
     作・演出：[大泉洋](../Page/大泉洋.md "wikilink")
-    [本間昭光](../Page/本間昭光.md "wikilink")が音楽を担当。2012年に『[親父がくれた秘密〜下荒井5兄弟の帰郷〜](https://ja.wikipedia.org/wiki/親父がくれた秘密〜下荒井5兄弟の帰郷〜 "wikilink")』のタイトルで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")にてテレビドラマとしてリメイクされた（監督：[深川栄洋](https://ja.wikipedia.org/wiki/深川栄洋 "wikilink")、主演：[大森南朋](../Page/大森南朋.md "wikilink")）。
+    [本間昭光](../Page/本間昭光.md "wikilink")が音楽を担当。2012年に『[親父がくれた秘密〜下荒井5兄弟の帰郷〜](../Page/親父がくれた秘密〜下荒井5兄弟の帰郷〜.md "wikilink")』のタイトルで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")にてテレビドラマとしてリメイクされた（監督：[深川栄洋](https://ja.wikipedia.org/wiki/深川栄洋 "wikilink")、主演：[大森南朋](../Page/大森南朋.md "wikilink")）。
 
 <!-- end list -->
 

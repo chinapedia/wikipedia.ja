@@ -241,7 +241,7 @@
   - [それだけが、僕の世界](https://ja.wikipedia.org/wiki/それだけが、僕の世界 "wikilink")（2019年、**ジンテ**〈[パク・ジョンミン](../Page/パク・ジョンミン_\(俳優\).md "wikilink")〉）
   - [女王陛下のお気に入り](https://ja.wikipedia.org/wiki/女王陛下のお気に入り "wikilink")（2019年、マシャム大佐〈ジョー・アルウィン〉）
   - [ジュマンジ/ネクスト・レベル](https://ja.wikipedia.org/wiki/ジュマンジ/ネクスト・レベル "wikilink")（2019年、シープレーン〈[ニック・ジョナス](https://ja.wikipedia.org/wiki/ニック・ジョナス "wikilink")〉\[87\]）
-  - [ナイト・オブ・シャドー 魔法拳](https://ja.wikipedia.org/wiki/ナイト・オブ・シャドー_魔法拳 "wikilink")（2020年、ヤンフェイ〈リン・ボーホン〉\[88\]）
+  - [ナイト・オブ・シャドー 魔法拳](../Page/ナイト・オブ・シャドー_魔法拳.md "wikilink")（2020年、ヤンフェイ〈リン・ボーホン〉\[88\]）
 
 #### テレビドラマ
 

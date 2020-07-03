@@ -133,7 +133,7 @@
 <td><p><small><sup>Notes 4</sup>2019年6月18日東証マザーズ重複上場</small></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/WASHハウス" title="wikilink">WASHハウス</a></p></td>
+<td><p><a href="../Page/WASHハウス.md" title="wikilink">WASHハウス</a></p></td>
 <td><p><a href="https://stocks.finance.yahoo.co.jp/stocks/detail/?code=6537.T">6537</a></p></td>
 <td><p>宮崎県</p></td>
 <td><p>サービス業</p></td>

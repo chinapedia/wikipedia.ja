@@ -27,7 +27,7 @@ PTSDを始めとして、[パニック障害](../Page/パニック障害.md "wik
 
 ## 関連項目
 
-  - [市井雅哉](https://ja.wikipedia.org/wiki/市井雅哉 "wikilink")
+  - [市井雅哉](../Page/市井雅哉.md "wikilink")
   - [神霊狩/GHOST HOUND](https://ja.wikipedia.org/wiki/神霊狩/GHOST_HOUND "wikilink") - [WOWOW](../Page/WOWOW.md "wikilink")で放送されたテレビアニメ。第2話にEMDRが施行される場面がある。
 
 ## 出典

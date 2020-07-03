@@ -44,7 +44,7 @@
 
 ### ネット局
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（『[船守さちこのスーパーランキング](../Page/船守さちこのスーパーランキング.md "wikilink")』に内包されていた時期あり）
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")（『[船守さちこのスーパーランキング](../Page/船守さちこのスーパーランキング.md "wikilink")』に内包されていた時期あり）
   - [秋田放送](../Page/秋田放送.md "wikilink")
   - [山形放送](../Page/山形放送.md "wikilink")
   - [東北放送](../Page/東北放送.md "wikilink")

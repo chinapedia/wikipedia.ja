@@ -52,7 +52,7 @@
   - [コレナンデ商会](https://ja.wikipedia.org/wiki/コレナンデ商会 "wikilink")（コレナンデサンデー）
   - [えいごであそぼ with Orton](https://ja.wikipedia.org/wiki/えいごであそぼ_with_Orton "wikilink")
   - [オトッペ](https://ja.wikipedia.org/wiki/オトッペ "wikilink")
-  - [あそビーバー](https://ja.wikipedia.org/wiki/あそビーバー "wikilink")
+  - [あそビーバー](../Page/あそビーバー.md "wikilink")
 
 </div>
 

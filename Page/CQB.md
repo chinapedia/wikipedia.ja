@@ -49,7 +49,7 @@
 
 [2001年](../Page/2001年.md "wikilink")12月に発生した[北朝鮮の工作船事件などから](../Page/九州南西海域工作船事件.md "wikilink")、このような船で[特殊部隊](../Page/特殊部隊.md "wikilink")や[工作員が上陸する可能性への警戒が強まった](../Page/スパイ.md "wikilink")。事実上の空白地帯だった九州南西部の防衛を担う[西部方面普通科連隊](https://ja.wikipedia.org/wiki/西部方面普通科連隊 "wikilink")が創設されたのをきっかけに、他の全国の陸上自衛隊の部隊でも対ゲリラ・特殊部隊（[ゲリラコマンド](../Page/ゲリラコマンド.md "wikilink")）や対テロ対策のための試みが行われている\[4\]。近年は各地の[駐屯地](../Page/駐屯地.md "wikilink")祭などでも[市街地での戦闘などが訓練展示として行われており](../Page/市街戦.md "wikilink")、[89式小銃型の](../Page/89式5.56mm小銃.md "wikilink")[電動ガン](../Page/電動ガン.md "wikilink")を使用した近接戦闘訓練も一部の部隊で実施されている。
 
-陸上自衛隊だけではなく、[航空自衛隊](../Page/航空自衛隊.md "wikilink")の基地防衛を任務とする[基地警備隊](https://ja.wikipedia.org/wiki/基地警備隊 "wikilink")も市街地戦闘を重視した訓練を行っている。[基地警備教導隊](../Page/基地警備教導隊.md "wikilink")がその中心である。[海上自衛隊](../Page/海上自衛隊.md "wikilink")や[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")でも[船](https://ja.wikipedia.org/wiki/船 "wikilink")舶の[臨検](https://ja.wikipedia.org/wiki/臨検 "wikilink")などにおいて、こうした近接戦闘訓練を行っているとされる。
+陸上自衛隊だけではなく、[航空自衛隊](../Page/航空自衛隊.md "wikilink")の基地防衛を任務とする[基地警備隊](https://ja.wikipedia.org/wiki/基地警備隊 "wikilink")も市街地戦闘を重視した訓練を行っている。[基地警備教導隊](../Page/基地警備教導隊.md "wikilink")がその中心である。[海上自衛隊](../Page/海上自衛隊.md "wikilink")や[海上保安庁](../Page/海上保安庁.md "wikilink")でも[船](https://ja.wikipedia.org/wiki/船 "wikilink")舶の[臨検](https://ja.wikipedia.org/wiki/臨検 "wikilink")などにおいて、こうした近接戦闘訓練を行っているとされる。
 
 ### 市街地訓練場
 

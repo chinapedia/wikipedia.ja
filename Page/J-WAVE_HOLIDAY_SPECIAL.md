@@ -2862,7 +2862,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    山中タイキ、[横山エリカ](https://ja.wikipedia.org/wiki/横山エリカ "wikilink")
+    山中タイキ、[横山エリカ](../Page/横山エリカ.md "wikilink")
 
 <!-- end list -->
 

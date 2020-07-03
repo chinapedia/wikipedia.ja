@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")　(月 - 金)9:40 - 9:45（「[9時ですリクエストプラザ](https://ja.wikipedia.org/wiki/9時ですリクエストプラザ "wikilink")」内）※2007年度の放送時間。「リクプラ」のパーソナリティが情報を伝える。
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")　(月 - 金)9:40 - 9:45（「[9時ですリクエストプラザ](https://ja.wikipedia.org/wiki/9時ですリクエストプラザ "wikilink")」内）※2007年度の放送時間。「リクプラ」のパーソナリティが情報を伝える。
   - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink") (月 - 金)10:00前（「[かにタク言ったもん勝ち](../Page/かにタク言ったもん勝ち.md "wikilink")」内）
   - [MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink") (月 - 金)11:00台（「[さてはトコトン菊水丸](../Page/さてはトコトン菊水丸.md "wikilink")」内）、17:48（[MBSタイガースナイター内](https://ja.wikipedia.org/wiki/MBSタイガースライブ "wikilink")、提供：吉野家）
 

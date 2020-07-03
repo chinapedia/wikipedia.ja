@@ -91,7 +91,7 @@
 <!-- end list -->
 
   - [コンサドーレライブスタジアム](../Page/コンサドーレライブスタジアム.md "wikilink")（[HBCラジオ](../Page/HBCラジオ.md "wikilink")）
-  - [GO\!GO\!コンサドーレLIVE](https://ja.wikipedia.org/wiki/GO!GO!サタデー_\(STVラジオ\) "wikilink")（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）
+  - [GO\!GO\!コンサドーレLIVE](https://ja.wikipedia.org/wiki/GO!GO!サタデー_\(STVラジオ\) "wikilink")（[STVラジオ](../Page/STVラジオ.md "wikilink")）
 
 <!-- end list -->
 

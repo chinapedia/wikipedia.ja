@@ -95,7 +95,7 @@
 
   -
 
-  - [海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")
+  - [海上保安庁](../Page/海上保安庁.md "wikilink")
 
 <!-- end list -->
 

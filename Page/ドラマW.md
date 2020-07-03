@@ -1427,7 +1427,7 @@
 <td><p>8月16日 - 9月13日</p></td>
 <td><p>全5回</p></td>
 <td><p><a href="../Page/内片輝.md" title="wikilink">内片輝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺謙作" title="wikilink">渡辺謙作</a></p></td>
+<td><p><a href="../Page/渡辺謙作.md" title="wikilink">渡辺謙作</a></p></td>
 <td><p><a href="../Page/木村文乃.md" title="wikilink">木村文乃</a>、<a href="../Page/青木崇高.md" title="wikilink">青木崇高</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/麻見和史" title="wikilink">麻見和史</a></p></td>
 <td></td>

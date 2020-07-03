@@ -13,7 +13,7 @@
   - 三矢徹：[高橋克典](../Page/高橋克典.md "wikilink")
   - 碓井幸子：[森口博子](../Page/森口博子.md "wikilink")
   - 沢木宙：[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）
-  - 吉倉徹：[明石亮太朗](https://ja.wikipedia.org/wiki/明石亮太朗 "wikilink")
+  - 吉倉徹：[明石亮太朗](../Page/明石亮太朗.md "wikilink")
   - 豊原孝：[神保悟志](../Page/神保悟志.md "wikilink")
   - 高邑義一：[平泉成](../Page/平泉成.md "wikilink")
   - 高邑静子：[長内美那子](../Page/長内美那子.md "wikilink")

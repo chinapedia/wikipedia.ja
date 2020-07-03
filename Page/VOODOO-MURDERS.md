@@ -353,7 +353,7 @@
 
 <!-- end list -->
 
-  - [クリス・ヴァイス](https://ja.wikipedia.org/wiki/クリス・ヴァイス "wikilink")- （2018年　- ）
+  - [クリス・ヴァイス](../Page/クリス・ヴァイス.md "wikilink")- （2018年　- ）
 
 <!-- end list -->
 

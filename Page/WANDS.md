@@ -119,7 +119,7 @@
 
 [2019年](../Page/2019年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、新ボーカリスト[上原大史](https://ja.wikipedia.org/wiki/上原大史 "wikilink")を3代目ボーカルに迎え第5期として活動を再開することを発表した。プロデューサーの長戸は2018年からWANDSの再始動に向けて動いており、大島康祐、柴崎浩、上原大史の3人体制を第4期とし、楽曲の制作を行なっていた。その後大島は制作に専念し、木村がメンバーに加わることが決定。上原、柴崎、木村の3人で第5期の活動となった\[10\]。[11月17日](../Page/11月17日.md "wikilink")に行われるフリーライブ『DFT presents [音都](https://ja.wikipedia.org/wiki/音都 "wikilink") ONTO vol.6 @[堂島リバーフォーラム](../Page/堂島リバーフォーラム.md "wikilink")』の模様を[YouTube Liveで生配信](https://ja.wikipedia.org/wiki/YouTube#YouTube_Live "wikilink")、[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にシングル『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』を発売することが併せて発表された。
 
-[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にWANDS第5期としては初めての楽曲となる、『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』をリリース。この曲はテレビアニメ[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")のOP曲に起用された。同年[5月20日](../Page/5月20日.md "wikilink")には『[抱き寄せ 高まる 君の体温と共に](https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に "wikilink")』をリリースし、オリコンのデイリーチャートで初登場首位を獲得した。なおこの曲は[BSテレ東](../Page/BSテレビ東京.md "wikilink")[土曜ドラマ9](https://ja.wikipedia.org/wiki/土曜ドラマ9 "wikilink")『[サイレント・ヴォイス season2](https://ja.wikipedia.org/wiki/行動心理捜査官・楯岡絵麻#テレビドラマ "wikilink")』の主題歌に起用されている。
+[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にWANDS第5期としては初めての楽曲となる、『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』をリリース。この曲はテレビアニメ[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")のOP曲に起用された。同年[5月20日](../Page/5月20日.md "wikilink")には『[抱き寄せ 高まる 君の体温と共に](../Page/抱き寄せ_高まる_君の体温と共に.md "wikilink")』をリリースし、オリコンのデイリーチャートで初登場首位を獲得した。なおこの曲は[BSテレ東](../Page/BSテレビ東京.md "wikilink")[土曜ドラマ9](https://ja.wikipedia.org/wiki/土曜ドラマ9 "wikilink")『[サイレント・ヴォイス season2](https://ja.wikipedia.org/wiki/行動心理捜査官・楯岡絵麻#テレビドラマ "wikilink")』の主題歌に起用されている。
 
 ## バンド名の由来
 
@@ -461,7 +461,7 @@
 <tr class="even">
 <td><p>17th</p></td>
 <td><p>2020年<a href="../Page/5月20日.md" title="wikilink">5月20日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に" title="wikilink">抱き寄せ 高まる 君の体温と共に</a></strong></p></td>
+<td><p><strong><a href="../Page/抱き寄せ_高まる_君の体温と共に.md" title="wikilink">抱き寄せ 高まる 君の体温と共に</a></strong></p></td>
 <td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
 <td><p>GZCD-7007<br />
 </p></td>
@@ -732,7 +732,7 @@ Jumpin' Jack Boy</p></td>
 | FREEZE                                                                                                                | [プレイステーション用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")「Cybernetic EMPIRE」イメージソング                                                                                                        |                                                                                                                                    |
 | AWAKE                                                                                                                 | ミズノ「インターナショナル」CMソング                                                                                                                                                                             | アルバム『[AWAKE](../Page/AWAKE_\(WANDSのアルバム\).md "wikilink")』                                                                          |
 | 真っ赤なLip                                                                                                               | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系テレビアニメ](../Page/日本テレビ系列.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ\[16\]                          | シングル『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』                                                                                     |
-| 抱き寄せ 高まる 君の体温と共に                                                                                                      | [BSテレ東](../Page/BSテレビ東京.md "wikilink")[土曜ドラマ9](https://ja.wikipedia.org/wiki/土曜ドラマ9 "wikilink")『[サイレント・ヴォイス season2](https://ja.wikipedia.org/wiki/行動心理捜査官・楯岡絵麻#テレビドラマ "wikilink")』主題歌\[17\]    | シングル『[抱き寄せ 高まる 君の体温と共に](https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に "wikilink")』                                                |
+| 抱き寄せ 高まる 君の体温と共に                                                                                                      | [BSテレ東](../Page/BSテレビ東京.md "wikilink")[土曜ドラマ9](https://ja.wikipedia.org/wiki/土曜ドラマ9 "wikilink")『[サイレント・ヴォイス season2](https://ja.wikipedia.org/wiki/行動心理捜査官・楯岡絵麻#テレビドラマ "wikilink")』主題歌\[17\]    | シングル『[抱き寄せ 高まる 君の体温と共に](../Page/抱き寄せ_高まる_君の体温と共に.md "wikilink")』                                                                   |
 
 ## ライブ
 

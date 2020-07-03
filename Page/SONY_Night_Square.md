@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（土）23:30 - 24:00
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")（土）23:30 - 24:00
   - [東北放送](../Page/東北放送.md "wikilink")（土）24:00 - 24:30
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink")（日）22:00 - 22:30
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")（日）22:30 - 23:00

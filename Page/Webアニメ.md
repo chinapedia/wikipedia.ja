@@ -5219,7 +5219,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/峰岸さんは大津くんに食べさせたい" title="wikilink">峰岸さんは大津くんに食べさせたい</a></p></td>
+<td><p><a href="../Page/峰岸さんは大津くんに食べさせたい.md" title="wikilink">峰岸さんは大津くんに食べさせたい</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月22日</p></td>

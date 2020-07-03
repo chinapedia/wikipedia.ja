@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2004年のFIA_GT選手権" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファブリツィオ・ゴリン" title="wikilink">ファブリツィオ・ゴーリン</a><br />
+<td><p><a href="../Page/ファブリツィオ・ゴリン.md" title="wikilink">ファブリツィオ・ゴーリン</a><br />
  <a href="https://ja.wikipedia.org/wiki/ルカ・カッペラーリ" title="wikilink">ルカ・カッペラーリ</a></p></td>
 </tr>
 <tr class="even">

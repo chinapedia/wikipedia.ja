@@ -173,7 +173,7 @@ P220と同様にマニュアル[セーフティーを持たない代わりに](.
 
 P226を小型軽量化したモデルとして[1989年](../Page/1989年.md "wikilink")にリリースされたのが**P228**である。
 
-このP228は小型軽量化に伴いP226よりも安価になった。それに加え装弾数が13+1発と多めな事から、[アメリカ軍](../Page/アメリカ軍.md "wikilink")で「**M11**」の名称で制式採用されているほか、[DHS](../Page/アメリカ合衆国国土安全保障省.md "wikilink")、[FBI](../Page/連邦捜査局.md "wikilink")、[DEA](../Page/麻薬取締局.md "wikilink")、NCIS、アメリカ空軍特別捜査室（OSI）と言った捜査機関でも使用されている。また、[フランス国家憲兵隊の](../Page/国家憲兵隊_\(フランス\).md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")である[GIGN](../Page/国家憲兵隊治安介入部隊.md "wikilink")、[ドイツ警察の特殊部隊である](../Page/ドイツの警察.md "wikilink")[SEK](https://ja.wikipedia.org/wiki/ドイツ地方警察特別出動コマンド "wikilink")、[イスラエル陸軍](https://ja.wikipedia.org/wiki/イスラエル陸軍 "wikilink")、[日本警察の](../Page/日本の警察.md "wikilink")[SAT](../Page/特殊急襲部隊.md "wikilink")、[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")の[SSTで採用されているのが確認されている](../Page/特殊警備隊.md "wikilink")。
+このP228は小型軽量化に伴いP226よりも安価になった。それに加え装弾数が13+1発と多めな事から、[アメリカ軍](../Page/アメリカ軍.md "wikilink")で「**M11**」の名称で制式採用されているほか、[DHS](../Page/アメリカ合衆国国土安全保障省.md "wikilink")、[FBI](../Page/連邦捜査局.md "wikilink")、[DEA](../Page/麻薬取締局.md "wikilink")、NCIS、アメリカ空軍特別捜査室（OSI）と言った捜査機関でも使用されている。また、[フランス国家憲兵隊の](../Page/国家憲兵隊_\(フランス\).md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")である[GIGN](../Page/国家憲兵隊治安介入部隊.md "wikilink")、[ドイツ警察の特殊部隊である](../Page/ドイツの警察.md "wikilink")[SEK](https://ja.wikipedia.org/wiki/ドイツ地方警察特別出動コマンド "wikilink")、[イスラエル陸軍](https://ja.wikipedia.org/wiki/イスラエル陸軍 "wikilink")、[日本警察の](../Page/日本の警察.md "wikilink")[SAT](../Page/特殊急襲部隊.md "wikilink")、[海上保安庁](../Page/海上保安庁.md "wikilink")の[SSTで採用されているのが確認されている](../Page/特殊警備隊.md "wikilink")。
 
 一般的にP228は、P226のスライドを短くしただけのものと誤解されがちだが、装弾数を減少させることによってフレームがスリム化され、手の小さい人でも使用できるようになっている。また、P226のグリップとも若干異なり、親指が当たる部分がややへこんでいて、P226に比べても握りやすくなっている。P226とP228では、実際に握った感覚に大きな違いがある。
 

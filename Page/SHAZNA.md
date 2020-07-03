@@ -104,7 +104,7 @@
 
 <!-- end list -->
 
-  - **[夏芽](https://ja.wikipedia.org/wiki/夏芽 "wikilink")**（ナツメ - [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日 - ）
+  - **[夏芽](../Page/夏芽.md "wikilink")**（ナツメ - [ドラム担当](../Page/ドラムセット.md "wikilink")。7月20日 - ）
 
 <!-- end list -->
 

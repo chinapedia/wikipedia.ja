@@ -1,7 +1,7 @@
 > この記事は[RFS](https://ja.wikipedia.org/wiki/RFS)から翻訳されています。
 
 
-**RFS**とは、[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")が使用する[射撃指揮システム](https://ja.wikipedia.org/wiki/射撃管制装置#射撃指揮システム_\(海洋戦における射撃管制装置\) "wikilink")（FCS）の一種である。日本語では目標追尾型遠隔操縦機能、目標自動追尾機能などと表記される。
+**RFS**とは、[海上保安庁](../Page/海上保安庁.md "wikilink")が使用する[射撃指揮システム](https://ja.wikipedia.org/wiki/射撃管制装置#射撃指揮システム_\(海洋戦における射撃管制装置\) "wikilink")（FCS）の一種である。日本語では目標追尾型遠隔操縦機能、目標自動追尾機能などと表記される。
 
 **R**emote **F**iring **S**ystemの頭文字を取った[頭字語](../Page/頭字語.md "wikilink")であり、英訳もその通りであるが、英語表記とは異なり単なる遠隔射撃装置ではなく、目標追尾・外部環境による修正等を行うFCSの一種である。主に[JM61-RFS 20mm多銃身機銃と連動して使用されているが](../Page/M61_バルカン.md "wikilink")、[かがゆき型巡視艇](https://ja.wikipedia.org/wiki/かがゆき型巡視艇 "wikilink")の4番艇以降では、[GAU-19 12.7mm多銃身機銃と連動させて搭載された](https://ja.wikipedia.org/wiki/GAU-19 "wikilink")。海上保安庁の20mm機関砲は、曳光弾をフルオートと数発ごとのバーストで発射することができる。弾はベルト給弾で装填され、発射後の薬莢は容器に回収する。
 

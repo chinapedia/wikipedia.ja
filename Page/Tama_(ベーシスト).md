@@ -41,7 +41,7 @@
       - [12月24日](../Page/12月24日.md "wikilink")、1stソロ・ライブ『Tama/Great Pleasure Night』を新宿コマ劇場にて開催。
   - [2006年](../Page/2006年.md "wikilink")
       - [11月1日](../Page/11月1日.md "wikilink")、1stシングル「[Metal Cool](../Page/Metal_Cool.md "wikilink")」発売。
-      - [12月20日](../Page/12月20日.md "wikilink")、『The songs for [DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink") the movie 〜the Last name TRIBUTE〜』に参加。
+      - [12月20日](../Page/12月20日.md "wikilink")、『The songs for [DEATH NOTE](../Page/DEATH_NOTE.md "wikilink") the movie 〜the Last name TRIBUTE〜』に参加。
   - [2007年](../Page/2007年.md "wikilink")
       - [3月1日](../Page/3月1日.md "wikilink")、[メールマガジン](../Page/メールマガジン.md "wikilink")サービス『Tama Hot News』の配信がスタート。
       - [4月8日](../Page/4月8日.md "wikilink")、[FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink")にてラジオ番組『BACK TO WILD』開始。

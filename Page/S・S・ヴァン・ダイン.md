@@ -27,7 +27,7 @@
       - 『ベンスン殺人事件』 [井内雄四郎](https://ja.wikipedia.org/wiki/井内雄四郎 "wikilink")訳　[旺文社文庫](https://ja.wikipedia.org/wiki/旺文社文庫 "wikilink") 1976年
       - 『ベンスン殺人事件』 [日暮雅通](https://ja.wikipedia.org/wiki/日暮雅通 "wikilink")訳 創元推理文庫 2013年
   - The Canary Murder Case'', 1927
-      - 『[カナリヤ殺人事件](https://ja.wikipedia.org/wiki/カナリヤ殺人事件 "wikilink")』 平林初之輔訳 [平凡社](../Page/平凡社.md "wikilink") （世界探偵小説全集19） 1930年
+      - 『[カナリヤ殺人事件](../Page/カナリヤ殺人事件.md "wikilink")』 平林初之輔訳 [平凡社](../Page/平凡社.md "wikilink") （世界探偵小説全集19） 1930年
       - 『カナリヤ殺人事件』 [瀬沼茂樹](../Page/瀬沼茂樹.md "wikilink")訳 新樹社 1950年 のち[角川文庫](../Page/角川文庫.md "wikilink")
       - 『カナリヤ殺人事件』 井上勇訳 [東京創元社](../Page/東京創元社.md "wikilink") 1957年 のち文庫
       - 『カナリア殺人事件』 日暮雅通訳 創元推理文庫 2018年

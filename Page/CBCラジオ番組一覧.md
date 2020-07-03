@@ -390,7 +390,7 @@ P:<a href="../Page/荒木とよひさ.md" title="wikilink">荒木とよひさ</a
 </tr>
 <tr class="odd">
 <td><p>5:30 <a href="https://ja.wikipedia.org/wiki/国会ふるさと便" title="wikilink">国会ふるさと便</a></p></td>
-<td><p>5:15 <a href="https://ja.wikipedia.org/wiki/小泉ニロの「みんなの北海道」#『ちょっと暮らし北海道』シリーズ" title="wikilink">大山慎介のちょっと暮らし北海道</a>(<a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STV</a>)<br />
+<td><p>5:15 <a href="https://ja.wikipedia.org/wiki/小泉ニロの「みんなの北海道」#『ちょっと暮らし北海道』シリーズ" title="wikilink">大山慎介のちょっと暮らし北海道</a>(<a href="../Page/STVラジオ.md" title="wikilink">STV</a>)<br />
 P:大山慎介、中村笑野</p></td>
 <td></td>
 </tr>
@@ -1009,7 +1009,7 @@ P:<a href="../Page/荒木とよひさ.md" title="wikilink">荒木とよひさ</a
 </tr>
 <tr class="odd">
 <td><p>5:30 国会ふるさと便</p></td>
-<td><p>5:15 <a href="https://ja.wikipedia.org/wiki/小泉ニロの「みんなの北海道」#『ちょっと暮らし北海道』シリーズ" title="wikilink">大山慎介のちょっと暮らし北海道</a>(<a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STV</a>)<br />
+<td><p>5:15 <a href="https://ja.wikipedia.org/wiki/小泉ニロの「みんなの北海道」#『ちょっと暮らし北海道』シリーズ" title="wikilink">大山慎介のちょっと暮らし北海道</a>(<a href="../Page/STVラジオ.md" title="wikilink">STV</a>)<br />
 P:大山慎介、中村笑野</p></td>
 <td></td>
 </tr>

@@ -25,7 +25,7 @@ BTR-Dは、[BMD-1](../Page/BMD-1.md "wikilink")の車体を元に設計されて
 <!-- end list -->
 
   - BTR-ZD「スクレージェト」 -
-    高射[ミサイル](../Page/ミサイル.md "wikilink")[班](https://ja.wikipedia.org/wiki/班 "wikilink")の輸送車両。ZU-23-2の車体としても使用。“スクレージェト”とは[歯ぎしり](https://ja.wikipedia.org/wiki/歯ぎしり "wikilink")の意。
+    高射[ミサイル](../Page/ミサイル.md "wikilink")[班](../Page/班.md "wikilink")の輸送車両。ZU-23-2の車体としても使用。“スクレージェト”とは[歯ぎしり](https://ja.wikipedia.org/wiki/歯ぎしり "wikilink")の意。
   - BTR-KShM「ソローカ」 -
     [連隊](../Page/連隊.md "wikilink")・[旅団](../Page/旅団.md "wikilink")級の指揮・幕僚車。R-123無線機×2台、R-111無線機×2台、R-130レーダー、[秘匿通信](https://ja.wikipedia.org/wiki/秘匿通信 "wikilink")機を搭載。[無人偵察機](../Page/無人航空機.md "wikilink")「シュメーリ」の発射・操縦車としても使用。“ソローカ”とは[カササギ](../Page/カササギ.md "wikilink")の意。
   - BREM-D -

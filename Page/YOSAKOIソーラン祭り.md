@@ -671,7 +671,7 @@ YOSAKOI連</small></p></td>
 
 祭り期間中、道内のテレビ局は[特別番組](../Page/特別番組.md "wikilink")を編成してYOSAKOIを取り上げる。一番放送回数、時間共に長く、毎年北海道内の民放で力を入れているのが[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）であり、ゲストを招いての生放送や、過去には同局の生放送が[日本テレビ系列で全国生放送された](../Page/日本テレビネットワーク協議会.md "wikilink")。第16回（[2007年](../Page/2007年.md "wikilink")）では瞬間視聴率が20%を超えた特番もある（ビデオリサーチ調べ、[札幌地区](https://ja.wikipedia.org/wiki/北海道 "wikilink")・世帯・リアルタイム）\[18\]。現在も生放送ではないものの、日本テレビ系列の道外局で特別番組をネットする事がある。
 
-しかし、平均視聴率自体は第16回（2007年）の13.2%以降、第17回（2008年）の10.8%、第18回（2009年）の8.4%と毎年減少し続けている（ビデオリサーチ調べ、札幌地区・世帯・リアルタイム。以下略）。このため、共催団体だった新聞社や放送局の参加が減少していき、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[FMノースウェーブ](https://ja.wikipedia.org/wiki/FMノースウェーブ "wikilink")（2007年のみ）が撤退、[2009年](../Page/2009年.md "wikilink")には[読売新聞](../Page/読売新聞.md "wikilink")北海道支社、[エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[北海道放送](../Page/北海道放送.md "wikilink")（HBC）と[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）\[19\]、[2011年](../Page/2011年.md "wikilink")には[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB：2014年復帰）が共催団体から撤退しており\[20\]、2013年現在は北海道新聞社、札幌テレビ放送（STV）、テレビ北海道（TVh）の3社のみとなっている。
+しかし、平均視聴率自体は第16回（2007年）の13.2%以降、第17回（2008年）の10.8%、第18回（2009年）の8.4%と毎年減少し続けている（ビデオリサーチ調べ、札幌地区・世帯・リアルタイム。以下略）。このため、共催団体だった新聞社や放送局の参加が減少していき、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[FMノースウェーブ](https://ja.wikipedia.org/wiki/FMノースウェーブ "wikilink")（2007年のみ）が撤退、[2009年](../Page/2009年.md "wikilink")には[読売新聞](../Page/読売新聞.md "wikilink")北海道支社、[エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）、[STVラジオ](../Page/STVラジオ.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[北海道放送](../Page/北海道放送.md "wikilink")（HBC）と[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）\[19\]、[2011年](../Page/2011年.md "wikilink")には[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB：2014年復帰）が共催団体から撤退しており\[20\]、2013年現在は北海道新聞社、札幌テレビ放送（STV）、テレビ北海道（TVh）の3社のみとなっている。
 
 さらに、最終日のファイナルコンテストは2009年まで、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）制作により、北海道テレビ放送での道内放送に加えて[BS朝日を通じ全国に生中継されていたが](../Page/ビーエス朝日.md "wikilink") 、2010年はテレビ朝日系列が[2010 FIFAワールドカップ中継を設定して放送枠がなくなったため](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")、[テレビ北海道](../Page/テレビ北海道.md "wikilink")（TVh）の制作により、テレビ北海道での道内放送に加えて[BSジャパン（現：BSテレ東）を通じ全国放送された](../Page/BSテレビ東京.md "wikilink")。その後、全国放送も20周年を迎える2011年からは行われなくなった。
 
@@ -755,7 +755,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink") （-2009年）
   - [北海道放送](../Page/北海道放送.md "wikilink") （-2009年）
   - [エフエム北海道](../Page/エフエム北海道.md "wikilink") （-2008年）
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink") （-2008年）
+  - [STVラジオ](../Page/STVラジオ.md "wikilink") （-2008年）
   - [読売新聞](../Page/読売新聞.md "wikilink")北海道支社 （-2007年）
   - [FMノースウェーブ](https://ja.wikipedia.org/wiki/FMノースウェーブ "wikilink") （2007年）
 

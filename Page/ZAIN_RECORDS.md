@@ -136,4 +136,4 @@
 
 1.
 2.  Spoonfulは、ZAIN RECORDSの内部レーベル扱いから、Amemura O-town Recordの内部レーベル扱いとなった。
-3.  現在の海外A\&R業務は、B'zのマネジメント会社[VERMILLION](https://ja.wikipedia.org/wiki/VERMILLION "wikilink")が担当。
+3.  現在の海外A\&R業務は、B'zのマネジメント会社[VERMILLION](../Page/VERMILLION.md "wikilink")が担当。

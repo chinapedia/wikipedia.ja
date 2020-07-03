@@ -41,7 +41,7 @@
 ### pure:infinity
 
   - [pure:infinity](https://ja.wikipedia.org/wiki/pure:infinity "wikilink")を参照。2013年12月に活動終了。
-  - 本レーベルから発表されてる作品の規格品番が*JBCP-○○○○*が用いられていたが、[B'z](../Page/B'z.md "wikilink")の所属事務所[VERMILLION](https://ja.wikipedia.org/wiki/VERMILLION "wikilink")の代表取締役兼チーフマネージャーの菊池二郎がプロデュースしたレーベルであり、B-Gram RECORDS内に設立された内部レーベルではない。\[6\]
+  - 本レーベルから発表されてる作品の規格品番が*JBCP-○○○○*が用いられていたが、[B'z](../Page/B'z.md "wikilink")の所属事務所[VERMILLION](../Page/VERMILLION.md "wikilink")の代表取締役兼チーフマネージャーの菊池二郎がプロデュースしたレーベルであり、B-Gram RECORDS内に設立された内部レーベルではない。\[6\]
 
 ### Being Group
 

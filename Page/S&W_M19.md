@@ -25,7 +25,7 @@ M19は[1999年](../Page/1999年.md "wikilink")に、M66は[2004年](../Page/2004
 
 また[1972年](../Page/1972年.md "wikilink")の[ミュンヘンオリンピック事件](../Page/ミュンヘンオリンピック事件.md "wikilink")を受けて、[大陸ヨーロッパ](../Page/大陸ヨーロッパ.md "wikilink")の法執行機関では[対テロ作戦](../Page/対テロ作戦.md "wikilink")を担当する[特殊部隊](../Page/特殊部隊.md "wikilink")の編成が相次いだが、創設直後のこれらの部隊は、動作の確実性を評価して、本銃を含む回転式拳銃を多用していた。[1977年](../Page/1977年.md "wikilink")の[ルフトハンザ航空181便ハイジャック事件](../Page/ルフトハンザ航空181便ハイジャック事件.md "wikilink")では、突入した[GSG-9](../Page/GSG-9.md "wikilink")隊員が装備していた[H\&K P9S自動拳銃および](../Page/H&K_P9S.md "wikilink")[H\&K MP5](../Page/H&K_MP5.md "wikilink")[短機関銃](../Page/短機関銃.md "wikilink")が有名になったが、隊長のウェグナー大佐はM19を、また突入隊員の数人もM66を携行していた。
 
-日本でも、[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")の[特殊警備隊](../Page/特殊警備隊.md "wikilink")（SST）の前身となった[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")海上警備隊（海警隊）は、4インチ銃身モデルのM19を使用していた。
+日本でも、[海上保安庁](../Page/海上保安庁.md "wikilink")の[特殊警備隊](../Page/特殊警備隊.md "wikilink")（SST）の前身となった[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")海上警備隊（海警隊）は、4インチ銃身モデルのM19を使用していた。
 
 ## 登場作品
 

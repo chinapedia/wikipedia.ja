@@ -913,7 +913,7 @@
   - 満開電飾III（PC-9801-5インチソフト アダルトゲーム）
   - 大遊言（PC-9801-3.5インチソフト/5インチソフト）
   - やじうまペナントレース 1989データ（PC-9801-5インチソフト）
-  - カンプグルッペ（PC-9801-5インチソフト/オリジナルは、[SSI](https://ja.wikipedia.org/wiki/SSI "wikilink")([IBM-PC](https://ja.wikipedia.org/wiki/IBM-PC "wikilink")版)）
+  - カンプグルッペ（PC-9801-5インチソフト/オリジナルは、[SSI](../Page/SSI.md "wikilink")([IBM-PC](https://ja.wikipedia.org/wiki/IBM-PC "wikilink")版)）
   - やじうまペナントレース2 1991（PC-9801-3.5インチソフト）
 
 ### スマートフォン用アプリゲーム

@@ -17,7 +17,7 @@
 
 19:00～21:00
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（当時は[札幌テレビが運営](../Page/札幌テレビ放送.md "wikilink")）、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[西日本放送](../Page/西日本放送.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")（当時は[札幌テレビが運営](../Page/札幌テレビ放送.md "wikilink")）、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[西日本放送](../Page/西日本放送.md "wikilink")、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")、[ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink")
 
 19:00～20:00
 

@@ -580,7 +580,7 @@ J SPORTS</p></td>
 
 以下の解説者は出演頻度が比較的高い。
 
-  - [平野謙](../Page/平野謙_\(野球\).md "wikilink")（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")解説者） ※広島戦中継も兼務。西武OBとして2019年8月24日放送の『[テレ玉](https://ja.wikipedia.org/wiki/テレ玉 "wikilink")40周年記念ウィーク』としてスペシャルゲストとして出演。
+  - [平野謙](../Page/平野謙_\(野球\).md "wikilink")（[STVラジオ](../Page/STVラジオ.md "wikilink")解説者） ※広島戦中継も兼務。西武OBとして2019年8月24日放送の『[テレ玉](https://ja.wikipedia.org/wiki/テレ玉 "wikilink")40周年記念ウィーク』としてスペシャルゲストとして出演。
   - [川崎憲次郎](../Page/川崎憲次郎.md "wikilink")（[東北放送](../Page/東北放送.md "wikilink")解説者）　※広島・東北楽天戦中継も兼務。
   - 金村義明（関西テレビ･[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")・MBSラジオ解説者） ※オリックス戦中継も兼務。
   - [笘篠賢治](../Page/笘篠賢治.md "wikilink")（フジテレビONE･[文化放送](../Page/文化放送.md "wikilink")解説者）\[73\]

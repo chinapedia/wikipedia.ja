@@ -1057,7 +1057,7 @@ AVCD-23295:通常盤</p></td>
 ### ラジオ
 
   - [BEAT DELUXE](../Page/BEAT_DELUXE.md "wikilink") （[NORTH WAVE](../Page/エフエム・ノースウェーブ.md "wikilink")、[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")）※「富樫明生」として。CROSS FMでは2008年9月27日で番組終了。2010年3月27日で最終回。
-  - [m.c.A・T「Precious Touch」](https://ja.wikipedia.org/wiki/m.c.A・T「Precious_Touch」 "wikilink")（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、毎週月曜20:00 - 21:00）
+  - [m.c.A・T「Precious Touch」](https://ja.wikipedia.org/wiki/m.c.A・T「Precious_Touch」 "wikilink")（[STVラジオ](../Page/STVラジオ.md "wikilink")、毎週月曜20:00 - 21:00）
 
 ### バラエティ
 

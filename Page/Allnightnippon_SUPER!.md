@@ -159,7 +159,7 @@
 
 カッコの中はネット放送開始時期。※は[番組販売](../Page/番組販売.md "wikilink")によるネット（NRN非加盟局）
 
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（当時は[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")が運営していた）（1999年10月）
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")（当時は[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")が運営していた）（1999年10月）
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（2000年10月）
 
 <!-- end list -->

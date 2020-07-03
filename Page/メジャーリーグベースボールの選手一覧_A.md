@@ -4008,7 +4008,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pedro_Astacio" title="wikilink">Pedro Astacio</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・アスタシオ" title="wikilink">ペドロ・アスタシオ</a></p></td>
+<td><p><a href="../Page/ペドロ・アスタシオ.md" title="wikilink">ペドロ・アスタシオ</a></p></td>
 <td><p>1992</p></td>
 <td><p>2006</p></td>
 <td></td>

@@ -277,7 +277,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a></p></td>
+<td><p><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a></p></td>
 <td><p>レース実況のみ</p></td>
 <td><p>メインレースのみ<br />
 『<a href="https://ja.wikipedia.org/wiki/GO!GO!サタデー_(STVラジオ)" title="wikilink">GO!GO!サタデー</a>』内<br />

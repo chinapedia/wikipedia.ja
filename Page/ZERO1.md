@@ -140,7 +140,7 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_世界ヘビー級王座" title="wikilink">世界ヘビー級王座</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ヴァイス" title="wikilink">クリス・ヴァイス</a></p></td>
+<td><p><a href="../Page/クリス・ヴァイス.md" title="wikilink">クリス・ヴァイス</a></p></td>
 <td><p>第27代</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハートリー・ジャクソン" title="wikilink">ハートリー・ジャクソン</a></p></td>
@@ -229,7 +229,7 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 ### VOODOO-MURDERS
 
   - [TARU](../Page/TARU.md "wikilink")（[MAKAI](https://ja.wikipedia.org/wiki/魔界_\(イベント\) "wikilink")）
-  - [クリス・ヴァイス](https://ja.wikipedia.org/wiki/クリス・ヴァイス "wikilink")
+  - [クリス・ヴァイス](../Page/クリス・ヴァイス.md "wikilink")
   - [将軍岡本](../Page/岡本将之.md "wikilink")（フリー）
   - [横山佳和](https://ja.wikipedia.org/wiki/横山佳和 "wikilink")
   - [RAICHO](https://ja.wikipedia.org/wiki/RAICHO "wikilink")（フリー）

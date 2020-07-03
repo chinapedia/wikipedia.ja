@@ -13,7 +13,7 @@
 
 しかし、高校を卒業して上京した直後の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月10日](../Page/4月10日.md "wikilink")、大津が4曲の作詞楽曲を制作したところで直腸ガンにより47歳で急逝する。その後も彼女は精力的に楽曲制作やボイス・トレーニングを続けた。同年[9月](../Page/9月.md "wikilink")には[ハウステンボス](https://ja.wikipedia.org/wiki/ハウステンボス "wikilink")で開催された第21回[長崎歌謡祭](../Page/長崎歌謡祭.md "wikilink")に[TBSの推薦で出場し](../Page/TBSテレビ.md "wikilink")、大津の遺作「Dear Friends」で決勝進出を果たした。同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは[Le Coupleのバック](../Page/Le_Couple.md "wikilink")・コーラスとして全国各地を飛び回り、翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月22日](../Page/4月22日.md "wikilink")、シングルCD「Dear Friends」を[テイチクのgo](../Page/テイチクエンタテインメント.md "wikilink")-to recordsレーベルから発売し、念願のメジャーデビューを果たした。
 
-デビュー当初から毎年40本前後の「ピアノ弾き語りライブ」をこなし、[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の深夜番組『[アタヤンPUSH\!](../Page/アタヤンPUSH!.md "wikilink")』の[パーソナリティとして活躍](../Page/ラジオパーソナリティ.md "wikilink")、着実にファンを増やしていった。同年[6月23日](../Page/6月23日.md "wikilink")に発売された3枚目のシングルCD「夢を忘れないで」はスマッシュ・ヒットを飛ばし、[エフエム仙台](../Page/エフエム仙台.md "wikilink")、[エフエム大阪](../Page/エフエム大阪.md "wikilink")、[NACK5などのラジオ局でもレギュラー番組を持つようになった](../Page/エフエムナックファイブ.md "wikilink")。
+デビュー当初から毎年40本前後の「ピアノ弾き語りライブ」をこなし、[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは[STVラジオ](../Page/STVラジオ.md "wikilink")の深夜番組『[アタヤンPUSH\!](../Page/アタヤンPUSH!.md "wikilink")』の[パーソナリティとして活躍](../Page/ラジオパーソナリティ.md "wikilink")、着実にファンを増やしていった。同年[6月23日](../Page/6月23日.md "wikilink")に発売された3枚目のシングルCD「夢を忘れないで」はスマッシュ・ヒットを飛ばし、[エフエム仙台](../Page/エフエム仙台.md "wikilink")、[エフエム大阪](../Page/エフエム大阪.md "wikilink")、[NACK5などのラジオ局でもレギュラー番組を持つようになった](../Page/エフエムナックファイブ.md "wikilink")。
 
 [1999年](../Page/1999年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に発売された4枚目のシングルCD「星の線路」はNHKの[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[すずらん](../Page/すずらん_\(テレビドラマ\).md "wikilink")』のイメージソングとして採用され（本編中の[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")としては起用されなかった）、彼女の透明感のある歌声を全国に大きくアピールした。続く[2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された5枚目のシングルCD「握手」では、同じ北海道出身のシンガーソングライターである[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")が詞を提供している。同年[8月4日](../Page/8月4日.md "wikilink")には室蘭音楽文化協会から第1回室蘭音楽賞を受賞した。
 
@@ -123,7 +123,7 @@ Dear Friends (Anniversary Version)</p></td>
 
 ### ラジオ
 
-  - NonのアタヤンPUSH\!（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")） 1999年 - 2001年9月
+  - NonのアタヤンPUSH\!（[STVラジオ](../Page/STVラジオ.md "wikilink")） 1999年 - 2001年9月
   - Dearキャンバス もも色･Nonカラー（[文化放送](../Page/文化放送.md "wikilink")） 2004年4月 - 2004年9月
 
 ## 外部リンク

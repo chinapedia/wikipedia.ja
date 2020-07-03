@@ -529,7 +529,7 @@
 </tr>
 <tr class="odd">
 <td><p>第61代</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランス・アーチャー" title="wikilink">ランス・アーチャー</a>&amp;<a href="https://ja.wikipedia.org/wiki/ハリー・スミス_(プロレスラー)" title="wikilink">デイビーボーイ・スミスJr.</a></p></td>
+<td><p><a href="../Page/ランス・アーチャー.md" title="wikilink">ランス・アーチャー</a>&amp;<a href="https://ja.wikipedia.org/wiki/ハリー・スミス_(プロレスラー)" title="wikilink">デイビーボーイ・スミスJr.</a></p></td>
 <td><p>1</p></td>
 <td><p>5</p></td>
 <td><p>2012年10月8日</p></td>

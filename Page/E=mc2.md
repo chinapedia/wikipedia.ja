@@ -52,7 +52,7 @@
 
   - [特殊相対性理論](../Page/特殊相対性理論.md "wikilink")
   - [アルベルト・アインシュタイン](../Page/アルベルト・アインシュタイン.md "wikilink")
-  - [フリードリヒ・ハーゼノール](https://ja.wikipedia.org/wiki/フリードリヒ・ハーゼノール "wikilink")
+  - [フリードリヒ・ハーゼノール](../Page/フリードリヒ・ハーゼノール.md "wikilink")
   - [広島市立舟入高等学校](../Page/広島市立舟入高等学校.md "wikilink") - [占領下に建立された慰霊碑](http://www.hiroshimapeacemedia.jp/mediacenter/map/article.php?story=20111116173119891_ja)には「原爆」に代えて  *mc*}} が刻まれている
 
 ## 外部リンク

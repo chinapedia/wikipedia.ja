@@ -300,7 +300,7 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/神様になった日" title="wikilink">神様になった日</a></p></td>
+<td><p><a href="../Page/神様になった日.md" title="wikilink">神様になった日</a></p></td>
 <td></td>
 <td><p>2020年10月</p></td>
 <td><p>P.A.WORKS</p></td>

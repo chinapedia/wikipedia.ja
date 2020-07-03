@@ -7157,7 +7157,7 @@ Move対応</p></td>
 | 2011年07月06日 | [ソニック・ザ・ヘッジホッグ](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ "wikilink")                    | MD | 0,016MB |   |              |
 | 2011年07月28日 | [ソニック・ザ・ヘッジホッグ2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")                                     | MD | 0,016MB | ● |              |
 | 2011年07月28日 | [ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink")                                               | AC | 0,016MB | ● |              |
-| 2011年07月28日 | [ベア・ナックルII 死闘への鎮魂歌](https://ja.wikipedia.org/wiki/ベア・ナックルII_死闘への鎮魂歌 "wikilink")            | MD | 0,018MB | ● |              |
+| 2011年07月28日 | [ベア・ナックルII 死闘への鎮魂歌](../Page/ベア・ナックルII_死闘への鎮魂歌.md "wikilink")                               | MD | 0,018MB | ● |              |
 | 2011年08月31日 | [コミックスゾーン](../Page/コミックスゾーン.md "wikilink")                                                 | MD | 0,021MB |   |              |
 | 2011年08月31日 | [獣王記](../Page/獣王記.md "wikilink")                                                           | AC | 0,017MB | ● |              |
 | 2011年10月05日 | [ゲットバス](https://ja.wikipedia.org/wiki/ゲットバス "wikilink")                                    | DC | 0,398MB |   | Move対応       |

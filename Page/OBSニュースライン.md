@@ -75,7 +75,7 @@
 
   - [小野裕子](../Page/小野裕子.md "wikilink")（月曜 - 水曜担当、OBSアナウンサー）
   - [後藤なぎさ](../Page/後藤なぎさ.md "wikilink")（木曜・金曜担当、OBSアナウンサー）
-  - [米浜由圭](https://ja.wikipedia.org/wiki/米浜由圭 "wikilink")（2006年から1年間担当）
+  - [米浜由圭](../Page/米浜由圭.md "wikilink")（2006年から1年間担当）
 
 ## 脚注
 

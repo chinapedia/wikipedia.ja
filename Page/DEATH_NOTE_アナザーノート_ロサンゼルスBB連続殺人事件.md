@@ -3,7 +3,7 @@
 
 『**DEATH NOTE アナザーノート ロサンゼルスBB連続殺人事件**』（デスノート アナザーノート ロサンゼルスビービーれんぞくさつじんじけん）は、[2006年](../Page/2006年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[集英社](../Page/集英社.md "wikilink")から発売された[西尾維新](../Page/西尾維新.md "wikilink")の[小説](../Page/小説.md "wikilink")（[ノベライズ作品](../Page/小説化.md "wikilink")）。同じく西尾維新によるノベライズ作品『xxxHOLiC アナザーホリック ランドルト環エアロゾル』（原作は[CLAMP](../Page/CLAMP.md "wikilink")の漫画『[xxxHOLiC](../Page/XXXHOLiC.md "wikilink")』〈[講談社](../Page/講談社.md "wikilink")〉）と同時に刊行された。
 
-本作は、漫画『[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")』（以下・原作）の[スピンオフ小説である](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")。物語は原作に登場した名探偵**[L](../Page/L_\(DEATH_NOTE\).md "wikilink")**、及びFBI捜査官の**南空ナオミ**を主人公として構成されており、主に南空ナオミの一人称で進んでいく。[語り手](../Page/語り手.md "wikilink")は、Lの後継者候補である**メロ**（太字の人物については[DEATH NOTEの登場人物を参照](../Page/DEATH_NOTEの登場人物.md "wikilink")）。舞台はキラ事件発生以前の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")であり、原作で名前の挙がった事件「ロサンゼルスBB連続殺人事件\[1\]」について語られる。
+本作は、漫画『[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")』（以下・原作）の[スピンオフ小説である](https://ja.wikipedia.org/wiki/スピンオフ作品 "wikilink")。物語は原作に登場した名探偵**[L](../Page/L_\(DEATH_NOTE\).md "wikilink")**、及びFBI捜査官の**南空ナオミ**を主人公として構成されており、主に南空ナオミの一人称で進んでいく。[語り手](../Page/語り手.md "wikilink")は、Lの後継者候補である**メロ**（太字の人物については[DEATH NOTEの登場人物を参照](../Page/DEATH_NOTEの登場人物.md "wikilink")）。舞台はキラ事件発生以前の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")であり、原作で名前の挙がった事件「ロサンゼルスBB連続殺人事件\[1\]」について語られる。
 
 ## ストーリー
 

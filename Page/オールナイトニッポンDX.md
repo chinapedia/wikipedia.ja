@@ -86,7 +86,7 @@
 ## ネット局
 
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink")（[NRN系列](../Page/全国ラジオネットワーク.md "wikilink")[キーステーション](https://ja.wikipedia.org/wiki/キーステーション "wikilink")）
-  - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")
+  - [STVラジオ](../Page/STVラジオ.md "wikilink")
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（19:00-20:00までの放送）
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（月曜のみ未ネット、19:00-20:00までの放送）
 

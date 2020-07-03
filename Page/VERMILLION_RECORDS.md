@@ -1,7 +1,7 @@
 > この記事は[VERMILLION RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS)から翻訳されています。
 
 
-**VERMILLION RECORDS**（バーミリオン・レコード）とは、[ビーイング](../Page/ビーイング.md "wikilink")及び同子会社の音楽マネージメント事務所[VERMILLION](https://ja.wikipedia.org/wiki/VERMILLION "wikilink")（元：[B.U.M](https://ja.wikipedia.org/wiki/B+U+M "wikilink")\[1\]）のレコードレーベルである。また、**株式会社バーミリオンレコード**は、かつて同事業を行っていた企業である。現在は[Beingのレーベルのひとつ](../Page/ビーイング.md "wikilink")。
+**VERMILLION RECORDS**（バーミリオン・レコード）とは、[ビーイング](../Page/ビーイング.md "wikilink")及び同子会社の音楽マネージメント事務所[VERMILLION](../Page/VERMILLION.md "wikilink")（元：[B.U.M](https://ja.wikipedia.org/wiki/B+U+M "wikilink")\[1\]）のレコードレーベルである。また、**株式会社バーミリオンレコード**は、かつて同事業を行っていた企業である。現在は[Beingのレーベルのひとつ](../Page/ビーイング.md "wikilink")。
 
 所属[アーティストは](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[B'z](../Page/B'z.md "wikilink")と、メンバーの[松本孝弘](../Page/松本孝弘.md "wikilink")と[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")のソロだけのプライベート[レーベルである](../Page/レコードレーベル.md "wikilink")。「VERMILLION」は、日本独自の風格のある[朱色](../Page/朱色.md "wikilink")を意味する「**VERMILION**」（松本案）と、100万を意味する「**MILLION**」（稲葉案）を合わせた造語である。
 

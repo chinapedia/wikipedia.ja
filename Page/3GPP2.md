@@ -5,7 +5,7 @@
 
 ## 概要
 
-アメリカの[TIA](https://ja.wikipedia.org/wiki/TIA "wikilink")、日本の[電波産業会](../Page/電波産業会.md "wikilink")（ARIB）、[情報通信技術委員会](../Page/情報通信技術委員会.md "wikilink")（TTC）、韓国のTTAといった各国・各地域の標準化団体により[1999年](../Page/1999年.md "wikilink")1月に設立された。後に中国CWTS（現、CCSA）も加わった。3GPP2はあくまでも標準化団体間の「プロジェクト」であり、法人格は持たない。
+アメリカの[TIA](../Page/TIA.md "wikilink")、日本の[電波産業会](../Page/電波産業会.md "wikilink")（ARIB）、[情報通信技術委員会](../Page/情報通信技術委員会.md "wikilink")（TTC）、韓国のTTAといった各国・各地域の標準化団体により[1999年](../Page/1999年.md "wikilink")1月に設立された。後に中国CWTS（現、CCSA）も加わった。3GPP2はあくまでも標準化団体間の「プロジェクト」であり、法人格は持たない。
 
 [第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")に関する標準化団体としては[3GPP](../Page/3GPP.md "wikilink")([第3.9世代移動通信システム](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink")以降の標準化も手がける)があるが、3GPPと3GPP2とでは、通信方式以外にも、ファイルフォーマットなど多くの点で異なる仕様を含んでおり、[互換性](../Page/互換性.md "wikilink")が確保されていないという問題がある。
 

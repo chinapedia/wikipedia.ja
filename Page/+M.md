@@ -32,6 +32,6 @@
 
 ## 補足
 
-  - ナイターオフシーズン中、平日の19時台はニッポン放送発のCMネットをしていた。（19:00\~19:30が全国36局ネット。19:30～20:00が[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・ニッポン放送・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・MBSラジオ・[KBCラジオ](../Page/KBCラジオ.md "wikilink")の5局ネットゾーン。主なスポンサーとして[ソニー損保](../Page/ソニー損害保険.md "wikilink")・[三和シヤッター](../Page/三和シヤッター工業.md "wikilink")・[文化シヤッター](../Page/文化シヤッター.md "wikilink")・酒王[千福など](../Page/三宅本店.md "wikilink")。）
+  - ナイターオフシーズン中、平日の19時台はニッポン放送発のCMネットをしていた。（19:00\~19:30が全国36局ネット。19:30～20:00が[STVラジオ](../Page/STVラジオ.md "wikilink")・ニッポン放送・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・MBSラジオ・[KBCラジオ](../Page/KBCラジオ.md "wikilink")の5局ネットゾーン。主なスポンサーとして[ソニー損保](../Page/ソニー損害保険.md "wikilink")・[三和シヤッター](../Page/三和シヤッター工業.md "wikilink")・[文化シヤッター](../Page/文化シヤッター.md "wikilink")・酒王[千福など](../Page/三宅本店.md "wikilink")。）
 
 [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:毎日放送ラジオ帯番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送ラジオ帯番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink")

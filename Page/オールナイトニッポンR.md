@@ -43,7 +43,7 @@
 
   - <span id="fritime">※</span>局別放送時間
     実際に放送される時間は局によって異なる。詳細は以下のとおり。
-      - 27:00 - 29:00\[10\] ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[九州朝日放送](../Page/KBCラジオ.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")（2010年4月2日までと2011年4月8日から、ただし、2011年4月22日より9月16日まで隔週で28:30まで）
+      - 27:00 - 29:00\[10\] ： [STVラジオ](../Page/STVラジオ.md "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[KBS京都](../Page/京都放送.md "wikilink")、[九州朝日放送](../Page/KBCラジオ.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")（2010年4月2日までと2011年4月8日から、ただし、2011年4月22日より9月16日まで隔週で28:30まで）
       - 27:00 - 28:30 ： ニッポン放送（2010年4月9日から2011年4月1日まで\[11\]）
       - 27:00 - 28:00 ： [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2010年4月から）、[中部日本放送](../Page/中部日本放送.md "wikilink")（現・[CBCラジオ](../Page/CBCラジオ.md "wikilink")、2010年3月まで）
       - 過去のネット局 ： 中部日本放送（現・CBCラジオ）（2010年3月まで　27:00 - 28:00）
@@ -61,7 +61,7 @@
 
   - <span id="sattime">※</span>局別放送時間
     実際に放送される時間は局によって異なる。詳細は以下のとおり。
-      - 27:00 - 29:00 ： [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](../Page/KBCラジオ.md "wikilink")\[16\]、[長崎放送](../Page/長崎放送.md "wikilink")\[17\]、[大分放送](../Page/大分放送.md "wikilink")（2013年4月から）
+      - 27:00 - 29:00 ： [STVラジオ](../Page/STVラジオ.md "wikilink")、[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")、[京都放送](../Page/京都放送.md "wikilink")、[山口放送](../Page/山口放送.md "wikilink")\[12\]、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")\[13\]、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")\[14\]、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[15\]、[KBCラジオ](../Page/KBCラジオ.md "wikilink")\[16\]、[長崎放送](../Page/長崎放送.md "wikilink")\[17\]、[大分放送](../Page/大分放送.md "wikilink")（2013年4月から）
       - 27:00 - 28:30 ： [ニッポン放送](../Page/ニッポン放送.md "wikilink")\[18\]\[19\]
       - 27:00 - 28:00 ： [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[山形放送](../Page/山形放送.md "wikilink")、[福井放送](../Page/福井放送.md "wikilink")、[和歌山放送](../Page/和歌山放送.md "wikilink")、[西日本放送ラジオ](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（2010年1月から）、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
       - 過去のネット局 ： [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（2005年9月で終了 27:00 - 28:30）、[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、[信越放送](../Page/信越放送.md "wikilink")\[20\]、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2015年3月で終了\[21\] 27:00 - 28:00）、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（2017年4月で終了 27:00 - 28:00）
@@ -174,7 +174,7 @@
 
 #### 土曜日
 
-  - [ニッポン放送](../Page/ニッポン放送.md "wikilink")と一部のネット局（一時期）は28:30まで、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")・[茨城放送](../Page/茨城放送.md "wikilink")・[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[京都放送](../Page/京都放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（2005年3月まではニッポン放送を除いた20局）は29:00まで放送。
+  - [ニッポン放送](../Page/ニッポン放送.md "wikilink")と一部のネット局（一時期）は28:30まで、[STVラジオ](../Page/STVラジオ.md "wikilink")・[茨城放送](../Page/茨城放送.md "wikilink")・[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")・[京都放送](../Page/京都放送.md "wikilink")・[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（2005年3月まではニッポン放送を除いた20局）は29:00まで放送。
       - [平野友康](../Page/平野友康.md "wikilink")/1998年4月 - 1999年3月
           - 1997年4月 - 1997年9月は金曜1部（25:00 - 27:00）を担当。
       - [GIRL POP STREET](https://ja.wikipedia.org/wiki/GIRL_POP_STREET "wikilink")（ナビゲーター・[LFクールK（垣花正）](../Page/垣花正.md "wikilink")）/1999年3月 - 1999年9月

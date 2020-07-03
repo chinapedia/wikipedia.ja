@@ -164,7 +164,7 @@
   - [東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）
   - [名古屋駅](../Page/名古屋駅.md "wikilink")
       - [名鉄名古屋駅](../Page/名鉄名古屋駅.md "wikilink")
-      - [近鉄名古屋駅](https://ja.wikipedia.org/wiki/近鉄名古屋駅 "wikilink")
+      - [近鉄名古屋駅](../Page/近鉄名古屋駅.md "wikilink")
   - [名鉄百貨店](../Page/名鉄百貨店.md "wikilink")
   - [松坂屋](../Page/松坂屋.md "wikilink")
   - 映画『[モスラ3 キングギドラ来襲](../Page/モスラ3_キングギドラ来襲.md "wikilink")』：劇中で[キングギドラ](../Page/キングギドラ.md "wikilink")に破壊される描写がある。

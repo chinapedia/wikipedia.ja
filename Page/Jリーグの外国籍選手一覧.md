@@ -1324,7 +1324,7 @@
   - GK [ジョニー・レオーニ](https://ja.wikipedia.org/wiki/ジョニー・レオーニ "wikilink") (2016年、)
   - FW [コンハード](https://ja.wikipedia.org/wiki/パウロ・コンハード・ド・カルモ・サルジン "wikilink") (2016年、)
   - GK [リュウ・ヌグラハ](https://ja.wikipedia.org/wiki/リュウ・ヌグラハ "wikilink") (2019年、)
-  - GK [王暁峰](https://ja.wikipedia.org/wiki/王暁峰 "wikilink") (ワン・シャオフェン) (2020年-、)
+  - GK [王暁峰](../Page/王暁峰.md "wikilink") (ワン・シャオフェン) (2020年-、)
 
 ### [アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")
 
@@ -2268,7 +2268,7 @@
 
 ### [FC今治](https://ja.wikipedia.org/wiki/FC今治 "wikilink")
 
-  - GK [李到炯](https://ja.wikipedia.org/wiki/李到炯_\(サッカー選手\) "wikilink") (イ・ドヒョン) (2020年-、)
+  - GK [李到炯](../Page/李到炯_\(サッカー選手\).md "wikilink") (イ・ドヒョン) (2020年-、)
   - DF [丁翰澈](https://ja.wikipedia.org/wiki/丁翰チョル "wikilink") (チョン・ハンチョル) (2020年-、)
 
 ## 九州

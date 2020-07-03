@@ -386,7 +386,7 @@
 ### 1994年（全19タイトル）
 
   - 1月不日 [ドナルドダックの４つの秘宝](https://ja.wikipedia.org/wiki/ドナルドダックの４つの秘宝 "wikilink")（セガ、512Kカセット）
-  - 2月不日 [ベア・ナックルII 死闘への鎮魂歌](https://ja.wikipedia.org/wiki/ベア・ナックルII_死闘への鎮魂歌 "wikilink")（セガ、512Kカセット）
+  - 2月不日 [ベア・ナックルII 死闘への鎮魂歌](../Page/ベア・ナックルII_死闘への鎮魂歌.md "wikilink")（セガ、512Kカセット）
   - 2月不日 [ズールのゆめぼうけん](https://ja.wikipedia.org/wiki/ズールのゆめぼうけん "wikilink")（Gremlin Graphics Software、256Kカセット）
   - 3月不日 [Micro Machines](https://ja.wikipedia.org/wiki/Micro_Machines "wikilink")（Codemasters、512Kカセット）
   - 3月不日 [ロードラッシュ](https://ja.wikipedia.org/wiki/ロードラッシュ "wikilink")（U.S.Gold、512Kカセット）

@@ -1,11 +1,11 @@
 > この記事は[DEATH NOTE TRIBUTE](https://ja.wikipedia.org/wiki/DEATH_NOTE_TRIBUTE)から翻訳されています。
 
 
-『**DEATH NOTE TRIBUTE**』（デス・ノート・トリビュート）は、[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売された[DEATH NOTEの](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。
+『**DEATH NOTE TRIBUTE**』（デス・ノート・トリビュート）は、[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に発売された[DEATH NOTEの](../Page/DEATH_NOTE.md "wikilink")[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。
 
 ## 概要
 
-漫画「[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")」を原作とした映画「[デスノート](../Page/デスノート_\(映画\).md "wikilink")」の公開と[テレビアニメ化の決定に合わせて製作された](https://ja.wikipedia.org/wiki/DEATH_NOTE_\(アニメ\) "wikilink")。様々な分野から全15組が参加。ジャケットは原作の作画・[小畑健](../Page/小畑健.md "wikilink")による描きおろし。
+漫画「[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")」を原作とした映画「[デスノート](../Page/デスノート_\(映画\).md "wikilink")」の公開と[テレビアニメ化の決定に合わせて製作された](https://ja.wikipedia.org/wiki/DEATH_NOTE_\(アニメ\) "wikilink")。様々な分野から全15組が参加。ジャケットは原作の作画・[小畑健](../Page/小畑健.md "wikilink")による描きおろし。
 
 ## 収録曲
 

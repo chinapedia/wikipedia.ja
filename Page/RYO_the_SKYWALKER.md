@@ -225,7 +225,7 @@ volume2：<WQJB-1048></p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/7月18日.md" title="wikilink">7月18日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ONE-DER_LAND" title="wikilink">ONE-DER LAND</a></strong></p></td>
+<td><p><strong><a href="../Page/ONE-DER_LAND.md" title="wikilink">ONE-DER LAND</a></strong></p></td>
 <td><p>7位</p></td>
 <td><p>CD+DVD：<RZCD-45598><br />
 CD：<RZCD-45599></p></td>

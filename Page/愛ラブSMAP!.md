@@ -45,7 +45,7 @@
   - ナレーター：水島裕（初代）、[堀内賢雄](../Page/堀内賢雄.md "wikilink")（2代目）
   - 構成：[青島利幸](https://ja.wikipedia.org/wiki/青島利幸 "wikilink")、内田英一、[海老原靖芳](../Page/海老原靖芳.md "wikilink")
   - プロデューサー：渡辺つとむ、川幡浩
-  - ディレクター：只野研治、[松澤潤](https://ja.wikipedia.org/wiki/松澤潤 "wikilink")、越山進 ほか
+  - ディレクター：只野研治、[松澤潤](../Page/松澤潤.md "wikilink")、越山進 ほか
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 製作著作：テレビ東京
 

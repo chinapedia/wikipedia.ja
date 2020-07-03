@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a>（STV）</p></td>
+<td><p><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a>（STV）</p></td>
 <td><p>7:25 - 7:30</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/オハヨー!ほっかいどう" title="wikilink">オハヨー!ほっかいどう</a>』内</p></td>
 </tr>

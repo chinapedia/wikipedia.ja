@@ -25,7 +25,7 @@
 
       - [ロチェスター大学](../Page/ロチェスター大学.md "wikilink") () - アメリカ[ロチェスターの私立大学](../Page/ロチェスター_\(ニューヨーク州\).md "wikilink")
       - [レジャイナ大学](https://ja.wikipedia.org/wiki/レジャイナ大学 "wikilink") () - カナダ[レジャイナ](../Page/レジャイナ.md "wikilink")の公立大学
-      - [リッチモンド大学](https://ja.wikipedia.org/wiki/リッチモンド大学 "wikilink") () - アメリカ[リッチモンドの私立大学](../Page/リッチモンド_\(バージニア州\).md "wikilink")
+      - [リッチモンド大学](../Page/リッチモンド大学.md "wikilink") () - アメリカ[リッチモンドの私立大学](../Page/リッチモンド_\(バージニア州\).md "wikilink")
 
   - \- [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のテレビ・ラジオ局
 

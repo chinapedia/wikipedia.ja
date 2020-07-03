@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケン・ハブス" title="wikilink">ケン・ハブス</a></p></td>
+<td><p><a href="../Page/ケン・ハブス.md" title="wikilink">ケン・ハブス</a></p></td>
 <td><p>2B</p></td>
 </tr>
 <tr class="even">

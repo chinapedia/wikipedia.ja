@@ -9,7 +9,7 @@
   - [ポーランド共和国](https://ja.wikipedia.org/wiki/ポーランド共和国 "wikilink") ()
   - [ラヂオプレス](../Page/ラヂオプレス.md "wikilink") () - 日本の通信社
   - [容認発音](../Page/容認発音.md "wikilink") () - [イギリス英語](../Page/イギリス英語.md "wikilink")の標準語
-  - [赤紫](https://ja.wikipedia.org/wiki/赤紫 "wikilink") ()
+  - [赤紫](../Page/赤紫.md "wikilink") ()
   - [ラピッドプロトタイピング](../Page/ラピッドプロトタイピング.md "wikilink") ()
   - [RP (計算複雑性理論)](../Page/RP_\(計算複雑性理論\).md "wikilink")
   - [日産ディーゼル・スペースランナーRP](../Page/日産ディーゼル・スペースランナーRP.md "wikilink") - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）のバス車両

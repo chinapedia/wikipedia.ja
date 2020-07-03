@@ -19,7 +19,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
 
 ## 採用状況
 
-現在、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[GSG-9](../Page/GSG-9.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[SAS](../Page/特殊空挺部隊.md "wikilink")、[韓国のKNP](../Page/大韓民国.md "wikilink")-SWATなどの、各国の[特殊部隊](../Page/特殊部隊.md "wikilink")・[特殊警察部隊に配備されている](../Page/SWAT.md "wikilink")。また、[日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊](../Page/特殊急襲部隊.md "wikilink")（SAT）および[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")[特殊警備隊](../Page/特殊警備隊.md "wikilink")（SST）などに配備されているとも言われている。
+現在、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[GSG-9](../Page/GSG-9.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[SAS](../Page/特殊空挺部隊.md "wikilink")、[韓国のKNP](../Page/大韓民国.md "wikilink")-SWATなどの、各国の[特殊部隊](../Page/特殊部隊.md "wikilink")・[特殊警察部隊に配備されている](../Page/SWAT.md "wikilink")。また、[日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊](../Page/特殊急襲部隊.md "wikilink")（SAT）および[海上保安庁](../Page/海上保安庁.md "wikilink")[特殊警備隊](../Page/特殊警備隊.md "wikilink")（SST）などに配備されているとも言われている。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では少数ながら狩猟用途で所持許可されている個体もある。
 
@@ -190,7 +190,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/海上保安庁" title="wikilink">海上保安庁</a>特殊部隊「<a href="../Page/特殊警備隊.md" title="wikilink">SST</a>」</p></td>
+<td><p><a href="../Page/海上保安庁.md" title="wikilink">海上保安庁</a>特殊部隊「<a href="../Page/特殊警備隊.md" title="wikilink">SST</a>」</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -248,7 +248,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
   - 『[SP 野望篇](https://ja.wikipedia.org/wiki/SP_THE_MOTION_PICTURE "wikilink")』
     井上を[狙撃](../Page/狙撃.md "wikilink")しようとする木内が使用。
   - 『[確証〜警視庁捜査3課](https://ja.wikipedia.org/wiki/確証〜警視庁捜査3課 "wikilink")』
-    第6話にて、立て籠もり事件の対応に出動した[SAT狙撃](../Page/特殊急襲部隊.md "wikilink")[班](https://ja.wikipedia.org/wiki/班 "wikilink")が、SAT突入班の進路上にいる犬を追い払うために使用する。
+    第6話にて、立て籠もり事件の対応に出動した[SAT狙撃](../Page/特殊急襲部隊.md "wikilink")[班](../Page/班.md "wikilink")が、SAT突入班の進路上にいる犬を追い払うために使用する。
   - 『[シュリ](../Page/シュリ.md "wikilink")』
     [キム・ユンジン](../Page/キム・ユンジン.md "wikilink")が演じる[北朝鮮第](../Page/朝鮮民主主義人民共和国.md "wikilink")8特殊部隊の凄腕狙撃手、李芳姫が[核物理学](https://ja.wikipedia.org/wiki/核物理学 "wikilink")者・[国防科学研究所所長](../Page/国防科学研究所_\(大韓民国\).md "wikilink")・[KCIA](../Page/大韓民国中央情報部.md "wikilink")（本編では"国家安全企画部"と表記）構成員・[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")開発責任者・[警察官](../Page/警察官.md "wikilink")を狙撃する際に使用（本当は[H\&K MSG90を使う予定だったが](../Page/H&K_MSG90.md "wikilink")、変更された）。
   - 『[バッドボーイズ 2バッド](https://ja.wikipedia.org/wiki/バッドボーイズ_2バッド "wikilink")』
@@ -298,7 +298,7 @@ PSG1は[G3の中から特に命中精度の高いものを選び](../Page/H&K_G3
     [ヴァンツァー](../Page/ヴァンツァー.md "wikilink")の[武器](../Page/武器.md "wikilink")として「PSG5」という架空モデルが登場する。
 
   - 『L.A.P.D of FIRE』
-    [警察](../Page/警察.md "wikilink")の[狙撃](../Page/狙撃.md "wikilink")[班](https://ja.wikipedia.org/wiki/班 "wikilink")がビル[屋上](../Page/屋上.md "wikilink")から使用する。主人公は使用不可。
+    [警察](../Page/警察.md "wikilink")の[狙撃](../Page/狙撃.md "wikilink")[班](../Page/班.md "wikilink")がビル[屋上](../Page/屋上.md "wikilink")から使用する。主人公は使用不可。
 
   - 『[Paperman](https://ja.wikipedia.org/wiki/Paperman "wikilink")』
     実銃が高額という設定を反映しており、現在ゲーム内で2番目に高額な銃となっている。

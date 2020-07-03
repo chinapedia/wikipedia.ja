@@ -62,7 +62,7 @@
   - 1994年頃、LUNA SEAのRYUICHI（河村隆一）がDJを務めていた『[MIDNIGHT ROCK CITY](../Page/MIDNIGHT_ROCK_CITY.md "wikilink")』（FM [NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")でオンエアされていたラジオ番組。月-金曜日25時-27時でLUNA SEAは木曜日担当。後にSIAM SHADEも火曜日担当になるが、半年で降板している）の『インディーズ・ナイト』というコーナーにゲスト出演。デモテープの曲をかけてもらって以降、口コミでライブでの動員数が増えた。
   - メンバー全員が格闘技好き、さらには全員何らかのスポーツを好んでいたことからライブでのMCやライブのノリは[スポコン](https://ja.wikipedia.org/wiki/スポコン "wikilink")調であった。
   - 栄喜の[高校時代の先輩に](../Page/世田谷学園中学校・高等学校.md "wikilink")[吉田秀彦](../Page/吉田秀彦.md "wikilink")がおり、その縁もあって、面倒見の良い吉田にバンドごと何かと世話になっていたという。殆どのアルバムの「Special thanks」芳名欄に彼の名前が載っている。ちなみに解散後、彼の紹介で[J-ROCKの社長を紹介してもらい](https://ja.wikipedia.org/wiki/ジェイロック "wikilink")[ACIDやソロ活動をしている](../Page/ACID_\(バンド\).md "wikilink")。
-  - [広島の](../Page/広島県.md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")でライブをしたときに観客の重みで床が抜けたことがあり、後に弦楽隊3人が雑誌「[BANDやろうぜ](https://ja.wikipedia.org/wiki/BANDやろうぜ "wikilink")」で「バンドでのエピソードは?」と聞かれたときに3人そろってその事件を答えていた。
+  - [広島の](../Page/広島県.md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")でライブをしたときに観客の重みで床が抜けたことがあり、後に弦楽隊3人が雑誌「[BANDやろうぜ](../Page/BANDやろうぜ.md "wikilink")」で「バンドでのエピソードは?」と聞かれたときに3人そろってその事件を答えていた。
 
 <!-- end list -->
 

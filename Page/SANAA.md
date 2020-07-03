@@ -319,7 +319,7 @@
 
 :\*nextmaruni project chair No.2946-23
 
-:\*:広島のマルニ木工の新プロジェクト「nextmaruni」の中の一脚。背もたれが二股に分かれており、ウサギの耳をイメージさせる椅子。[ミラノサローネ](https://ja.wikipedia.org/wiki/ミラノサローネ "wikilink")2005で他のデザイナーによる椅子と共に発表された。
+:\*:広島のマルニ木工の新プロジェクト「nextmaruni」の中の一脚。背もたれが二股に分かれており、ウサギの耳をイメージさせる椅子。[ミラノサローネ](../Page/ミラノサローネ.md "wikilink")2005で他のデザイナーによる椅子と共に発表された。
 
 ファイル:Nakahechi artsalon exterior.jpg|熊野古道なかへち美術館 ファイル:Koga Park Café.jpg|古河総合公園飲食施設 ファイル:Ogasawara klan museum.jpg|飯田市小笠原資料館 ファイル:Christian Dior Omotesando Tokyo.JPG|ディオール表参道 ファイル:21st Century Museum of Contemporary Art, Kanazawa011.jpg|金沢21世紀美術館 ファイル:Zollverein School of Management and Design 3116754.jpg|ツォルフェアアイン・スクール ファイル:Interior del Glass Pavilion.jpg|トレド美術館ガラスパビリオン ファイル:New Museum photographed from Prince Street in October 2009.JPG|ニュー・ミュージアム・オブ・コンテンポラリー・アート ファイル:Rolex Learning Center 07-2009.jpg|ローザンヌ連邦工科大学ラーニングセンター（ロレックス・ラーニング・センター） ファイル:Louvre-Lens-night.jpg|ルーヴル・ランス
 

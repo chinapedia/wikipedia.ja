@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - **北海道**：[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")
+  - **北海道**：[STVラジオ](../Page/STVラジオ.md "wikilink")
   - **仙台**：[東北放送](../Page/東北放送.md "wikilink")（TBCラジオ）
   - **東京**：[ニッポン放送](../Page/ニッポン放送.md "wikilink")
   - **名古屋**：[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")

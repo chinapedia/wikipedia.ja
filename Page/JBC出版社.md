@@ -127,7 +127,7 @@
   - 3月 [レベルE](../Page/レベルE.md "wikilink")
   - 4月 [ラブひな](../Page/ラブひな.md "wikilink")
   - 5月 [The Innocent](https://ja.wikipedia.org/wiki/The_Innocent "wikilink")
-  - 6月 [DEATH NOTE - BLACK EDITION](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink") (豪華版)
+  - 6月 [DEATH NOTE - BLACK EDITION](../Page/DEATH_NOTE.md "wikilink") (豪華版)
   - 6月 [げんしけん](https://ja.wikipedia.org/wiki/げんしけん "wikilink")
   - 6月 [いばらの王](../Page/いばらの王.md "wikilink") (題名"*O senhor dos espinhos*")
   - 7月 [青の祓魔師](https://ja.wikipedia.org/wiki/青の祓魔師 "wikilink") (題名"*Blue exorcist*")

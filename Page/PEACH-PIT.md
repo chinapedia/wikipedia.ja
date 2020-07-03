@@ -93,7 +93,7 @@
 <td><p>えばら渋子</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/コミックバーズ" title="wikilink">コミックバーズ</a>（<a href="../Page/幻冬舎コミックス.md" title="wikilink">幻冬舎コミックス</a>）<br />
 →<a href="https://ja.wikipedia.org/wiki/週刊ヤングジャンプ" title="wikilink">週刊ヤングジャンプ</a>（集英社）に移籍<br />
-→<a href="https://ja.wikipedia.org/wiki/ウルトラジャンプ" title="wikilink">ウルトラジャンプ</a>（ゼロ）（<a href="../Page/集英社.md" title="wikilink">集英社</a>）</p></td>
+→<a href="../Page/ウルトラジャンプ.md" title="wikilink">ウルトラジャンプ</a>（ゼロ）（<a href="../Page/集英社.md" title="wikilink">集英社</a>）</p></td>
 <td><p>全8巻 / 新装版全7巻<br />
 全10巻<br />
 全4巻</p></td>

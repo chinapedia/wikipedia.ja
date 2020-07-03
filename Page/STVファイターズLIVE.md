@@ -1,7 +1,7 @@
 > この記事は[STVファイターズLIVE](https://ja.wikipedia.org/wiki/STVファイターズLIVE)から翻訳されています。
 
 
-『**STVファイターズLIVE**』（エスティーブイファイターズライブ）は、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")が放送している[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組である。[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦中心に行っている。 キャッチフレーズは「**ファイターズ戦全試合中継**」。
+『**STVファイターズLIVE**』（エスティーブイファイターズライブ）は、[STVラジオ](../Page/STVラジオ.md "wikilink")が放送している[プロ野球中継](../Page/プロ野球中継.md "wikilink")番組である。[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦中心に行っている。 キャッチフレーズは「**ファイターズ戦全試合中継**」。
 
 ## 概要
 

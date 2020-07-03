@@ -542,7 +542,7 @@ A面がJAGATARA、B面が吉川洋一郎、Hamza El Din<br />
   - [近田春夫](../Page/近田春夫.md "wikilink")（[ビブラストーン](../Page/ビブラストーン.md "wikilink")）
   - 高田エージ（[SUPER BAD](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")）
   - 不破大輔（[渋さ知らズ](../Page/渋さ知らズ.md "wikilink")）
-  - 大熊ワタル（[シカラムータ](https://ja.wikipedia.org/wiki/シカラムータ "wikilink")）
+  - 大熊ワタル（[シカラムータ](../Page/シカラムータ.md "wikilink")）
   - [田口トモロヲ](../Page/田口トモロヲ.md "wikilink")（[ばちかぶり](../Page/ばちかぶり.md "wikilink")）
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")（[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")）
   - [もりばやしみほ](https://ja.wikipedia.org/wiki/もりばやしみほ "wikilink")（[ハイポジ](https://ja.wikipedia.org/wiki/ハイポジ "wikilink")）

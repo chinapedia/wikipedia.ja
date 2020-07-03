@@ -63,7 +63,7 @@
 
 ### ラジオ
 
-  - [サンデーパラダイス](../Page/サンデーパラダイス.md "wikilink")（[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")）
+  - [サンデーパラダイス](../Page/サンデーパラダイス.md "wikilink")（[STVラジオ](../Page/STVラジオ.md "wikilink")）
   - [寺内優のおはようラジオ](../Page/寺内優のおはようラジオ.md "wikilink")（[RCCラジオ](../Page/中国放送.md "wikilink")）
   - [Dr.コパの黄金の扉](../Page/Dr.コパの黄金の扉.md "wikilink")（[KBCラジオ](../Page/KBCラジオ.md "wikilink")）
   - [ふぁん☆タメ](../Page/ふぁん☆タメ.md "wikilink")（[YBSラジオ](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")、月曜コメンテーター）

@@ -42,7 +42,7 @@
   - [period](https://ja.wikipedia.org/wiki/period_\(吉野朔実\) "wikilink")（[吉野朔実](../Page/吉野朔実.md "wikilink")）
   - [ふたがしら](https://ja.wikipedia.org/wiki/ふたがしら "wikilink")（[オノ・ナツメ](../Page/オノ・ナツメ.md "wikilink")） → 『ヒバナ』へ移籍
   - [放課後のカリスマ](https://ja.wikipedia.org/wiki/放課後のカリスマ "wikilink")（[スエカネクミコ](../Page/スエカネクミコ.md "wikilink")）
-  - [Levius -レビウス-](https://ja.wikipedia.org/wiki/Levius_-レビウス- "wikilink")（[中田春彌](https://ja.wikipedia.org/wiki/中田春彌 "wikilink")） → 『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）へ移籍
+  - [Levius -レビウス-](https://ja.wikipedia.org/wiki/Levius_-レビウス- "wikilink")（[中田春彌](https://ja.wikipedia.org/wiki/中田春彌 "wikilink")） → 『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）へ移籍
   - [ロッタレイン](https://ja.wikipedia.org/wiki/ロッタレイン "wikilink")（[松本剛](../Page/松本剛_\(漫画家\).md "wikilink")） → 『ヒバナ』へ移籍
 
 ### 「WEBイキパラCOMIC」にて連載

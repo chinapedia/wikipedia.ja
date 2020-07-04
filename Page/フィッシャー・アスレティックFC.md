@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[フィッシャー・アスレティックFC](https://ja.wikipedia.org/wiki/フィッシャー・アスレティックFC)から翻訳されています。
 
 
 **フィッシャー・アスレティック・フットボール・クラブ**（**Fisher Athletic Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[サウスワークを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/サウスワーク・ロンドン特別区 "wikilink")。2007-2008シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。

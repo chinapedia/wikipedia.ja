@@ -1,7 +1,7 @@
-> この記事は[BJ](https://ja.wikipedia.org/wiki/BJ)から翻訳されています。
+> この記事は[ヨコハマBJブルース](https://ja.wikipedia.org/wiki/ヨコハマBJブルース)から翻訳されています。
 
 
-『**ヨコハマBJブルース**』（よこはまビージェイブルース）は、1981年に公開された日本映画。[松田優作](https://ja.wikipedia.org/wiki/松田優作 "wikilink")自ら原案を手がけ、主演のみならず主題歌と挿入歌まで歌い、さらに松田たっての希望から『[十三人の刺客](../Page/十三人の刺客.md "wikilink")』の[工藤栄一](https://ja.wikipedia.org/wiki/工藤栄一 "wikilink")監督がメガホンを取った、ハードボイルドアクション。
+『**ヨコハマBJブルース**』（よこはまビージェイブルース）は、1981年に公開された日本映画。[松田優作](../Page/松田優作.md "wikilink")自ら原案を手がけ、主演のみならず主題歌と挿入歌まで歌い、さらに松田たっての希望から『[十三人の刺客](../Page/十三人の刺客.md "wikilink")』の[工藤栄一](../Page/工藤栄一.md "wikilink")監督がメガホンを取った、ハードボイルドアクション。
 
 [東映セントラルフィルム](https://ja.wikipedia.org/wiki/東映セントラルフィルム "wikilink")製作で、松田優作主演の作品としては、『[最も危険な遊戯](https://ja.wikipedia.org/wiki/最も危険な遊戯 "wikilink")』から数えて5作目である。
 
@@ -16,11 +16,11 @@
 
 ## スタッフ
 
-  - 監督：[工藤栄一](https://ja.wikipedia.org/wiki/工藤栄一 "wikilink")
+  - 監督：[工藤栄一](../Page/工藤栄一.md "wikilink")
   - 企画：黒澤満、岡田裕
   - プロデューサー補：青木勝彦
-  - 原案：[松田優作](https://ja.wikipedia.org/wiki/松田優作 "wikilink")
-  - 脚本：[丸山昇一](https://ja.wikipedia.org/wiki/丸山昇一 "wikilink")
+  - 原案：[松田優作](../Page/松田優作.md "wikilink")
+  - 脚本：[丸山昇一](../Page/丸山昇一.md "wikilink")
   - 撮影：[仙元誠三](../Page/仙元誠三.md "wikilink")
   - 音楽：[クリエイション](https://ja.wikipedia.org/wiki/クリエイション_\(バンド\) "wikilink")
   - 主題歌：「ブラザーズ・ソング」
@@ -34,7 +34,7 @@
   - 記録：今村治子
   - 助監督：小池要之助
   - 擬斗：[林邦史朗](https://ja.wikipedia.org/wiki/林邦史朗 "wikilink")
-  - カースタント：[三石千尋](https://ja.wikipedia.org/wiki/三石千尋 "wikilink")＆スタントマンチーム
+  - カースタント：[三石千尋](../Page/三石千尋.md "wikilink")＆スタントマンチーム
   - テクニカルアドバイザー：[トビー門口](https://ja.wikipedia.org/wiki/トビー門口 "wikilink")
   - 衣装：[第一衣装](https://ja.wikipedia.org/wiki/第一衣装 "wikilink")
   - 現像：[東映化学](https://ja.wikipedia.org/wiki/東映化学 "wikilink")
@@ -43,38 +43,38 @@
 
 ## キャスト
 
-  - BJ：[松田優作](https://ja.wikipedia.org/wiki/松田優作 "wikilink")
-  - 椋民子：[辺見マリ](https://ja.wikipedia.org/wiki/辺見マリ "wikilink")
-  - 蟻鉄雄：[蟹江敬三](https://ja.wikipedia.org/wiki/蟹江敬三 "wikilink")
+  - BJ：[松田優作](../Page/松田優作.md "wikilink")
+  - 椋民子：[辺見マリ](../Page/辺見マリ.md "wikilink")
+  - 蟻鉄雄：[蟹江敬三](../Page/蟹江敬三.md "wikilink")
   - 近藤明：[田中浩二](https://ja.wikipedia.org/wiki/田中浩二_\(俳優\) "wikilink")
-  - ヨシヲ：[山田辰夫](https://ja.wikipedia.org/wiki/山田辰夫 "wikilink")
-  - 紅谷悟志：[山西道広](https://ja.wikipedia.org/wiki/山西道広 "wikilink")
+  - ヨシヲ：[山田辰夫](../Page/山田辰夫.md "wikilink")
+  - 紅谷悟志：[山西道広](../Page/山西道広.md "wikilink")
   - 林ミドリ：[鹿沼えり](../Page/鹿沼絵里.md "wikilink")
   - 腰川 - [清水宏](../Page/清水宏_\(俳優\).md "wikilink")
-  - 日向和美：[岡本麗](https://ja.wikipedia.org/wiki/岡本麗 "wikilink")
+  - 日向和美：[岡本麗](../Page/岡本麗.md "wikilink")
   - 牛宅麻：[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")
-  - 安永：[安岡力也](https://ja.wikipedia.org/wiki/安岡力也 "wikilink")
-  - 堀功：[殿山泰司](https://ja.wikipedia.org/wiki/殿山泰司 "wikilink")
+  - 安永：[安岡力也](../Page/安岡力也.md "wikilink")
+  - 堀功：[殿山泰司](../Page/殿山泰司.md "wikilink")
   - 木下 - [友金敏雄](https://ja.wikipedia.org/wiki/友金敏雄 "wikilink")
-  - 近藤こずえ：[馬渕晴子](https://ja.wikipedia.org/wiki/馬渕晴子 "wikilink")
-  - 除除：[宇崎竜童](https://ja.wikipedia.org/wiki/宇崎竜童 "wikilink")（友情出演）
-  - 椋圭介：[内田裕也](https://ja.wikipedia.org/wiki/内田裕也 "wikilink")
-  - その他；[堀礼文](https://ja.wikipedia.org/wiki/堀礼文 "wikilink")、[戸井十月](https://ja.wikipedia.org/wiki/戸井十月 "wikilink")、[立川光貴](https://ja.wikipedia.org/wiki/立川光貴 "wikilink")、[貞永敏](https://ja.wikipedia.org/wiki/貞永敏 "wikilink")、[笠野賢二](https://ja.wikipedia.org/wiki/笠野賢二 "wikilink")、[重松収](../Page/重松収.md "wikilink")、[山下宏](https://ja.wikipedia.org/wiki/山下宏 "wikilink")、[速水隆](https://ja.wikipedia.org/wiki/速水隆 "wikilink")、[奥村公延](../Page/奥村公延.md "wikilink")、[榎木兵衛](https://ja.wikipedia.org/wiki/榎木兵衛 "wikilink")、[橘雪子](https://ja.wikipedia.org/wiki/橘雪子 "wikilink")、[西村裕子](https://ja.wikipedia.org/wiki/西村裕子 "wikilink")、[関口ますみ](https://ja.wikipedia.org/wiki/関口ますみ "wikilink")、[工藤啓子](https://ja.wikipedia.org/wiki/工藤啓子 "wikilink")、[劇団GAYA](https://ja.wikipedia.org/wiki/劇団GAYA "wikilink")
+  - 近藤こずえ：[馬渕晴子](../Page/馬渕晴子.md "wikilink")
+  - 除除：[宇崎竜童](../Page/宇崎竜童.md "wikilink")（友情出演）
+  - 椋圭介：[内田裕也](../Page/内田裕也.md "wikilink")
+  - その他；[堀礼文](https://ja.wikipedia.org/wiki/堀礼文 "wikilink")、[戸井十月](../Page/戸井十月.md "wikilink")、[立川光貴](https://ja.wikipedia.org/wiki/立川光貴 "wikilink")、[貞永敏](https://ja.wikipedia.org/wiki/貞永敏 "wikilink")、[笠野賢二](https://ja.wikipedia.org/wiki/笠野賢二 "wikilink")、[重松収](../Page/重松収.md "wikilink")、[山下宏](https://ja.wikipedia.org/wiki/山下宏 "wikilink")、[速水隆](https://ja.wikipedia.org/wiki/速水隆 "wikilink")、[奥村公延](../Page/奥村公延.md "wikilink")、[榎木兵衛](../Page/榎木兵衛.md "wikilink")、[橘雪子](https://ja.wikipedia.org/wiki/橘雪子 "wikilink")、[西村裕子](https://ja.wikipedia.org/wiki/西村裕子 "wikilink")、[関口ますみ](https://ja.wikipedia.org/wiki/関口ますみ "wikilink")、[工藤啓子](https://ja.wikipedia.org/wiki/工藤啓子 "wikilink")、[劇団GAYA](https://ja.wikipedia.org/wiki/劇団GAYA "wikilink")
 
 ## 劇中に流れた松田優作全歌唱曲
 
   -
     「灰色の街」（作詞：松田優作、作曲：[李世福](https://ja.wikipedia.org/wiki/李世福 "wikilink")、編曲：クリエイション）
-    「ブラザーズ・ソング」（作詞：[大津あきら](https://ja.wikipedia.org/wiki/大津あきら "wikilink")、作曲：[鈴木キサブロー](https://ja.wikipedia.org/wiki/鈴木キサブロー "wikilink")、編曲：今剛、ChoArr：[川村栄二](https://ja.wikipedia.org/wiki/川村栄二 "wikilink")）
+    「ブラザーズ・ソング」（作詞：[大津あきら](../Page/大津あきら.md "wikilink")、作曲：[鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")、編曲：今剛、ChoArr：[川村栄二](../Page/川村栄二.md "wikilink")）
     「YOKOHAMA HONKY TONK BLUES」（作詞：[藤竜也](../Page/藤竜也.md "wikilink")、作曲：[エディ藩](https://ja.wikipedia.org/wiki/エディ藩 "wikilink")、編曲：竹田和夫）
     「マリーズ・ララバイ」（作詞：大津あきら、作曲：鈴木キサブロー、編曲：今剛、ChoArr：川村栄二）
 
 ## エピソード
 
-  - 発端からラストのオチにいたるまでほとんどパクリではないかと思われるほど、[ロバート・アルトマン](../Page/ロバート・アルトマン.md "wikilink")監督『[ロング・グッドバイ](https://ja.wikipedia.org/wiki/長いお別れ#映画化 "wikilink")』に酷似している。松田優作自身も公開当時の『[週刊朝日](https://ja.wikipedia.org/wiki/週刊朝日 "wikilink")』誌上のインタビューにて、「話のヒントにした」といささかあっけらかんとした調子で公言している。とはいえ、工藤栄一監督独特の光と影のコントラストが利いた映像もさることながら、何よりも松田のブルースシンガーとしての一面がスクリーン上で披露される等、最もパーソナルな作品となっている。
-  - 松田と工藤は、その後『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』の一篇として作られた『[死の断崖](https://ja.wikipedia.org/wiki/死の断崖_\(テレビドラマ\) "wikilink")』（1982年）で再びコンビを組み、松田唯一の監督作品『[ア・ホーマンス](https://ja.wikipedia.org/wiki/ア・ホーマンス "wikilink")』では鉄砲玉に射殺されるヤクザ組長役で工藤監督が出演している。そして松田の三回忌にあたる1991年に制作された『泣きぼくろ』にて、工藤監督は「灰色の街」「マリーズ・ララバイ」を挿入歌として使用することでオマージュを捧げた。
+  - 発端からラストのオチにいたるまでほとんどパクリではないかと思われるほど、[ロバート・アルトマン](../Page/ロバート・アルトマン.md "wikilink")監督『[ロング・グッドバイ](https://ja.wikipedia.org/wiki/長いお別れ#映画化 "wikilink")』に酷似している。松田優作自身も公開当時の『[週刊朝日](../Page/週刊朝日.md "wikilink")』誌上のインタビューにて、「話のヒントにした」といささかあっけらかんとした調子で公言している。とはいえ、工藤栄一監督独特の光と影のコントラストが利いた映像もさることながら、何よりも松田のブルースシンガーとしての一面がスクリーン上で披露される等、最もパーソナルな作品となっている。
+  - 松田と工藤は、その後『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』の一篇として作られた『[死の断崖](https://ja.wikipedia.org/wiki/死の断崖_\(テレビドラマ\) "wikilink")』（1982年）で再びコンビを組み、松田唯一の監督作品『[ア・ホーマンス](../Page/ア・ホーマンス.md "wikilink")』では鉄砲玉に射殺されるヤクザ組長役で工藤監督が出演している。そして松田の三回忌にあたる1991年に制作された『泣きぼくろ』にて、工藤監督は「灰色の街」「マリーズ・ララバイ」を挿入歌として使用することでオマージュを捧げた。
   - “ブルースシンガー”松田優作としての3枚目のアルバム『HADEST DAY』のジャケット写真は、“BJ”役としての松田の姿だった。アルバムは映画公開4日前の1981年4月21日にリリースされ、映画にも挿入歌としてアルバム名がクレジットされているので、連動企画の色合いが強い。
-  - [大森南朋](../Page/大森南朋.md "wikilink")は『[スタジオパークからこんにちは](https://ja.wikipedia.org/wiki/スタジオパークからこんにちは "wikilink")』にゲスト出演した際、[NHK制作の主演ドラマ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ハゲタカ](../Page/ハゲタカ_\(2007年のテレビドラマ\).md "wikilink")』で共演した[松田龍平](../Page/松田龍平.md "wikilink")の無精髭姿を見て、「『ヨコハマBJブルース』の時の父親にソックリだなと思った」と語っていた。
+  - [大森南朋](../Page/大森南朋.md "wikilink")は『[スタジオパークからこんにちは](../Page/スタジオパークからこんにちは.md "wikilink")』にゲスト出演した際、[NHK制作の主演ドラマ](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[ハゲタカ](../Page/ハゲタカ_\(2007年のテレビドラマ\).md "wikilink")』で共演した[松田龍平](../Page/松田龍平.md "wikilink")の無精髭姿を見て、「『ヨコハマBJブルース』の時の父親にソックリだなと思った」と語っていた。
 
 ## 外部リンク
 

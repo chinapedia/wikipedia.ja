@@ -1,7 +1,7 @@
 > この記事は[SEIKO SUITE](https://ja.wikipedia.org/wiki/SEIKO_SUITE)から翻訳されています。
 
 
-『**SEIKO SUITE**』（セイコ・スイート）は、[松田聖子](../Page/松田聖子.md "wikilink")のデビュー20周年を記念し、企画・発売された[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")型[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。[CD](../Page/コンパクトディスク.md "wikilink")7枚＋[DVD](../Page/DVD.md "wikilink")1枚の、計8枚組。2000年7月5日発売、完全生産限定盤。発売元は[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+『**SEIKO SUITE**』（セイコ・スイート）は、[松田聖子](../Page/松田聖子.md "wikilink")のデビュー20周年を記念し、企画・発売された[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")型[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")。[CD](../Page/コンパクトディスク.md "wikilink")7枚＋[DVD](../Page/DVD.md "wikilink")1枚の、計8枚組。2000年7月5日発売、完全生産限定盤。発売元は[ソニーミュージック](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 解説
 
@@ -10,9 +10,9 @@
 全7枚のCD・DVDの収録概要は、下記のとおり。
 
   - Disc 1からDisc 5は、[1980年代](../Page/1980年代.md "wikilink")に発表された楽曲を作曲家別に振り分けて収録されるという、新しい試みがなされた。
-  - Disc 6は、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")\[1\]からリリースされていた[シングル](../Page/シングル.md "wikilink")A面曲も含めた、1988年9月以降のシングル・コレクション。なお、ユニバーサル所有の楽曲が収録されているのはDisc 6のみである。
-  - Disc 7には、出演映画のサウンド・トラックに収録されたナンバーやヒット・シングルの別バージョン、[生産中止になった過去の](https://ja.wikipedia.org/wiki/廃盤 "wikilink")[ベスト盤にのみ収録されていた楽曲など](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")、レアな楽曲ばかりが収録されている。
-  - DVD（Disc 8）には、初めて商品化となる「[瑠璃色の地球](../Page/瑠璃色の地球.md "wikilink")」のフルサイズ[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が収録されたほか、過去に[VHS](../Page/VHS.md "wikilink")で発売されたライヴビデオからの映像が数曲分、初DVD化された。
+  - Disc 6は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[1\]からリリースされていた[シングル](../Page/シングル.md "wikilink")A面曲も含めた、1988年9月以降のシングル・コレクション。なお、ユニバーサル所有の楽曲が収録されているのはDisc 6のみである。
+  - Disc 7には、出演映画のサウンド・トラックに収録されたナンバーやヒット・シングルの別バージョン、[生産中止になった過去の](../Page/廃盤.md "wikilink")[ベスト盤にのみ収録されていた楽曲など](../Page/ベスト・アルバム.md "wikilink")、レアな楽曲ばかりが収録されている。
+  - DVD（Disc 8）には、初めて商品化となる「[瑠璃色の地球](../Page/瑠璃色の地球.md "wikilink")」のフルサイズ[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が収録されたほか、過去に[VHS](../Page/VHS.md "wikilink")で発売されたライヴビデオからの映像が数曲分、初DVD化された。
   - CD音源はすべて、[デジタル・リマスタリング](https://ja.wikipedia.org/wiki/デジタル・リマスタリング "wikilink")（2000年）。
 
 本ボックス発売に際し、円形コースター付の広告ポスターが東京都内主要駅（[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")など）に張り出された。コースターは、[1981年](../Page/1981年.md "wikilink")の業界イベント・パーティで使用された絵柄の復刻物であり\[2\]、コースターを剥がすと、ポスターの丸型跡にヒット・シングルの曲名が現れる仕組み。
@@ -23,21 +23,21 @@
 
 ### Disc 1
 
-  - [小田裕一郎](https://ja.wikipedia.org/wiki/小田裕一郎 "wikilink") 編
+  - [小田裕一郎](../Page/小田裕一郎.md "wikilink") 編
 
 <!-- end list -->
 
 1.  **[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")**　（3:40）
-      - 作詞: [三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")、作曲: 小田裕一郎、編曲: [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作詞: [三浦徳子](../Page/三浦徳子.md "wikilink")、作曲: 小田裕一郎、編曲: [大村雅朗](../Page/大村雅朗.md "wikilink")
     <!-- end list -->
       -
-        [第31回と](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink")[第46回の](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")『[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")』歌唱曲
+        [第31回と](https://ja.wikipedia.org/wiki/第31回NHK紅白歌合戦 "wikilink")[第46回の](../Page/第46回NHK紅白歌合戦.md "wikilink")『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』歌唱曲
         [TBS系音楽番組](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』に初めてランクインした際、[羽田空港で飛行機のタラップを降りながら歌った](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。
 2.  **SQUALL**　（3:43）
       - 作詞: 三浦徳子、作曲: 小田裕一郎、編曲: 大村雅朗
     <!-- end list -->
       -
-        アルバム『[SQUALL](https://ja.wikipedia.org/wiki/SQUALL_\(松田聖子のアルバム\) "wikilink")』（1980年8月1日）収録
+        アルバム『[SQUALL](../Page/SQUALL_\(松田聖子のアルバム\).md "wikilink")』（1980年8月1日）収録
 3.  **〜南太平洋〜 サンバの香り （edited version）**　（3:49）
       - 作詞: 三浦徳子、作曲: 小田裕一郎、編曲: 信田かずお
     <!-- end list -->
@@ -64,7 +64,7 @@
     <!-- end list -->
       -
         アルバム『SQUALL』収録
-        [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink") [コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。歌のみで出演は山田由紀子。
+        [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink") [コマーシャルソング](../Page/コマーシャルソング.md "wikilink")。歌のみで出演は山田由紀子。
 8.  **TRUE LOVE 〜そっとくちづけて〜**　（3:03）
       - 作詞: 三浦徳子、作曲: 小田裕一郎、編曲: 大村雅朗
     <!-- end list -->
@@ -130,7 +130,7 @@
 <!-- end list -->
 
 1.  **[赤いスイートピー](../Page/赤いスイートピー.md "wikilink")**　（3:40）　
-      - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: [呉田軽穂](../Page/松任谷由実.md "wikilink")、編曲: [松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+      - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: [呉田軽穂](../Page/松任谷由実.md "wikilink")、編曲: [松任谷正隆](../Page/松任谷正隆.md "wikilink")
     <!-- end list -->
       -
         [NHKが](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")2005年に実施した「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で21位にランクイン。
@@ -169,13 +169,13 @@
       - 作詞: 松本隆、作曲: 呉田軽穂、編曲: 松任谷正隆
     <!-- end list -->
       -
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[青が散る](https://ja.wikipedia.org/wiki/青が散る "wikilink")』主題歌
+        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[青が散る](../Page/青が散る.md "wikilink")』主題歌
 11. **[Rock'n Rouge](../Page/Rock'n_Rouge.md "wikilink")**　（4:14）
       - 作詞: 松本隆、作曲: 呉田軽穂、編曲: 松任谷正隆
     <!-- end list -->
       -
         『[第35回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第35回NHK紅白歌合戦 "wikilink")』歌唱曲
-        [カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink") '84春 キャンペーンソング
+        [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink") '84春 キャンペーンソング
 12. **[時間の国のアリス](https://ja.wikipedia.org/wiki/時間の国のアリス "wikilink")**　（4:43）
       - 作詞: 松本隆、作曲: 呉田軽穂、編曲: 大村雅朗
 13. **恋人がサンタクロース**　（4:31）
@@ -196,7 +196,7 @@
       - 作詞: 松本隆、作曲: 大滝詠一、編曲: 多羅尾伴内
     <!-- end list -->
       -
-        アルバム『[風立ちぬ](https://ja.wikipedia.org/wiki/風立ちぬ_\(松田聖子のアルバム\) "wikilink")』（1981年10月21日）収録
+        アルバム『[風立ちぬ](../Page/風立ちぬ_\(松田聖子のアルバム\).md "wikilink")』（1981年10月21日）収録
 3.  **ガラスの入江**　（3:39）
       - 作詞: 松本隆、作曲: 大滝詠一、編曲: 多羅尾伴内
     <!-- end list -->
@@ -262,7 +262,7 @@
 
 ### Disc 4
 
-  - [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")・[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")・[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")・[佐野元春](../Page/佐野元春.md "wikilink")・[土橋安騎夫](https://ja.wikipedia.org/wiki/土橋安騎夫 "wikilink")・Steve Kipner・Paul Bliss 編
+  - [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")・[尾崎亜美](https://ja.wikipedia.org/wiki/尾崎亜美 "wikilink")・[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")・[佐野元春](../Page/佐野元春.md "wikilink")・[土橋安騎夫](../Page/土橋安騎夫.md "wikilink")・Steve Kipner・Paul Bliss 編
 
 <!-- end list -->
 
@@ -281,7 +281,7 @@
 4.  **[白いパラソル](../Page/白いパラソル.md "wikilink")**　（3:31）
       - 作詞: 松本隆、作曲: 財津和夫、編曲: 大村雅朗
 5.  **LOVE SONG**　（4:29）
-      - 作詞: 松本隆、作曲: 財津和夫、編曲: [瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+      - 作詞: 松本隆、作曲: 財津和夫、編曲: [瀬尾一三](../Page/瀬尾一三.md "wikilink")
     <!-- end list -->
       -
         アルバム『[Pineapple](../Page/Pineapple_\(アルバム\).md "wikilink")』（1982年5月21日）収録
@@ -294,7 +294,7 @@
       - 作詞: 松本隆、作曲: 財津和夫、編曲: 大村雅朗
     <!-- end list -->
       -
-        『[第33回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第33回NHK紅白歌合戦](../Page/第33回NHK紅白歌合戦.md "wikilink")』歌唱曲
 8.  **星空のドライブ**　（3:30）
       - 作詞: 松本隆、作曲: 財津和夫、編曲: 大村雅朗
     <!-- end list -->
@@ -314,48 +314,48 @@
       - 作詞: 松本隆、作曲: 尾崎亜美、編曲: 大村雅朗
     <!-- end list -->
       -
-        アルバム『[Tinker Bell](https://ja.wikipedia.org/wiki/Tinker_Bell "wikilink")』（1984年6月10日）収録
+        アルバム『[Tinker Bell](../Page/Tinker_Bell.md "wikilink")』（1984年6月10日）収録
 12. **[ハートのイアリング](../Page/ハートのイアリング.md "wikilink")**　（4:06）
       - 作詞: 松本隆、作曲: [Holland Rose](../Page/佐野元春.md "wikilink")、編曲: 大村雅朗
 13. **今夜はソフィスケート**　（4:17)
       - 作詞: 松本隆、作曲: Holland Rose、編曲: 大村雅朗
     <!-- end list -->
       -
-        アルバム『[Windy Shadow](https://ja.wikipedia.org/wiki/Windy_Shadow "wikilink")』（1984年12月8日）収録
+        アルバム『[Windy Shadow](../Page/Windy_Shadow.md "wikilink")』（1984年12月8日）収録
 14. **[天使のウィンク](../Page/天使のウィンク.md "wikilink")**　（4:01）
       - 作詞・作曲: 尾崎亜美、編曲: 大村雅朗
     <!-- end list -->
       -
-        『[第36回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第36回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第36回NHK紅白歌合戦](../Page/第36回NHK紅白歌合戦.md "wikilink")』歌唱曲
 15. **[ボーイの季節](../Page/ボーイの季節.md "wikilink")**　（4:35）
       - 作詞・作曲: 尾崎亜美、編曲: 大村雅朗
 16. **[Strawberry Time](../Page/Strawberry_Time.md "wikilink")**　（3:59）
       - 作詞: 松本隆、作曲: 土橋安騎夫、編曲: 大村雅朗
     <!-- end list -->
       -
-        『[第38回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第38回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第38回NHK紅白歌合戦](../Page/第38回NHK紅白歌合戦.md "wikilink")』歌唱曲
 17. **[Pearl-White Eve](../Page/Pearl-White_Eve.md "wikilink")**　（4:48）
-      - 作詞: 松本隆、作曲: 大江千里、編曲: [井上鑑](https://ja.wikipedia.org/wiki/井上鑑 "wikilink")
+      - 作詞: 松本隆、作曲: 大江千里、編曲: [井上鑑](../Page/井上鑑.md "wikilink")
 18. **凍った息**　（4:13）
       - 作詞: 松本隆、作曲: 大江千里、編曲: 井上鑑
     <!-- end list -->
       -
         シングル「Pearl-White Eve」（1987年11月6日）B面
 19. **[Marrakech〜マラケッシュ〜](../Page/Marrakech〜マラケッシュ〜.md "wikilink")**　（3:52）
-      - 作詞: 松本隆、作曲: Steve Kipner・Paul Bliss、編曲: Steve Kipner・Paul Bliss・[David Foster](https://ja.wikipedia.org/wiki/デイヴィッド・フォスター "wikilink")
+      - 作詞: 松本隆、作曲: Steve Kipner・Paul Bliss、編曲: Steve Kipner・Paul Bliss・[David Foster](../Page/デイヴィッド・フォスター.md "wikilink")
     <!-- end list -->
       -
-        『[第39回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第39回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第39回NHK紅白歌合戦](../Page/第39回NHK紅白歌合戦.md "wikilink")』歌唱曲
         発売当時、フジテレビ系音楽番組『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")』に出演していた[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が絶賛していた楽曲。
 
 ### Disc 5
 
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")・[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")・[SEIKO](../Page/セイコーホールディングス.md "wikilink")・[David Foster](https://ja.wikipedia.org/wiki/デイヴィッド・フォスター "wikilink")・[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")・[原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")・[南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink") 編
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")・[来生たかお](https://ja.wikipedia.org/wiki/来生たかお "wikilink")・[SEIKO](../Page/セイコーホールディングス.md "wikilink")・[David Foster](../Page/デイヴィッド・フォスター.md "wikilink")・[林哲司](../Page/林哲司.md "wikilink")・[原田真二](../Page/原田真二.md "wikilink")・[南佳孝](../Page/南佳孝.md "wikilink") 編
 
 <!-- end list -->
 
 1.  **ひまわりの丘**　（5:28）
-      - 作詞: 松本隆、作曲: 来生たかお、編曲: [船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+      - 作詞: 松本隆、作曲: 来生たかお、編曲: [船山基紀](../Page/船山基紀.md "wikilink")
     <!-- end list -->
       -
         アルバム『[Pineapple](../Page/Pineapple_\(アルバム\).md "wikilink")』（1982年5月21日）収録
@@ -384,7 +384,7 @@
       - 作詞: 松本隆、作曲・編曲: 大村雅朗
     <!-- end list -->
       -
-        アルバム『[ユートピア](https://ja.wikipedia.org/wiki/ユートピア_\(アルバム\) "wikilink")』（1983年6月1日）収録
+        アルバム『[ユートピア](../Page/ユートピア_\(アルバム\).md "wikilink")』（1983年6月1日）収録
         アルバム・ナンバーの中ではベスト盤にされる機会が比較的多く、季節を問わずライヴで披露されるため、松田本人がお気に入りの曲である様子が窺い知れる（「マイアミ午前5時」も同様）。
 7.  **マイアミ午前5時**　（4:58）
       - 作詞: 松本隆、作曲: 来生たかお、編曲: 大村雅朗
@@ -395,7 +395,7 @@
       - 作詞: 松本隆、作曲: 林哲司、編曲: 大村雅朗
     <!-- end list -->
       -
-        アルバム『[Canary](https://ja.wikipedia.org/wiki/Canary "wikilink")』（1983年12月10日）収録
+        アルバム『[Canary](../Page/Canary.md "wikilink")』（1983年12月10日）収録
 9.  **Canary**　（4:33）
       - 作詞: 松本隆、作曲: SEIKO、編曲: 大村雅朗
     <!-- end list -->
@@ -411,7 +411,7 @@
       - 作詞: 松本隆、作曲・編曲: 大村雅朗
     <!-- end list -->
       -
-        アルバム『[Tinker Bell](https://ja.wikipedia.org/wiki/Tinker_Bell "wikilink")』（1984年6月10日）収録
+        アルバム『[Tinker Bell](../Page/Tinker_Bell.md "wikilink")』（1984年6月10日）収録
 12. **密林少女**　（4:21）
       - 作詞: 松本隆、作曲: 林哲司、編曲: 大村雅朗
     <!-- end list -->
@@ -432,7 +432,7 @@
       - 作詞: 松本隆、作曲: 、編曲: David Foster
     <!-- end list -->
       -
-        アルバム『[Citron](https://ja.wikipedia.org/wiki/Citron "wikilink")』（1988年5月11日）収録
+        アルバム『[Citron](../Page/Citron.md "wikilink")』（1988年5月11日）収録
 16. **抱いて…**　（4:36）
       - 作詞: 松本隆、作曲・編曲: David Foster
     <!-- end list -->
@@ -440,7 +440,7 @@
         アルバム『Citron』収録
         檜不動産 "ワコーレマンション" コマーシャルソング
 17. **Please don't go （edited version）**　（4:33）
-      - 作詞: 松本隆、作曲・編曲: [南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")
+      - 作詞: 松本隆、作曲・編曲: [南佳孝](../Page/南佳孝.md "wikilink")
     <!-- end list -->
       -
         アルバム「[Snow Garden](../Page/Snow_Garden_\(松田聖子のアルバム\).md "wikilink")」（1987年11月21日）には、前奏の長いロング・ヴァージョンが収録されている。edited versionはCD初収録で、本CDのみ収録（2012年現在）
@@ -452,16 +452,16 @@
     <!-- end list -->
       -
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")』エンディング・テーマ
-        [オリエント・エクスプレス](https://ja.wikipedia.org/wiki/オリエント急行 "wikilink") イメージソング
+        [オリエント・エクスプレス](../Page/オリエント急行.md "wikilink") イメージソング
 2.  **[Precious Heart](../Page/Precious_Heart.md "wikilink")**　（4:27）
-      - 作詞: Seiko Matsuda、作曲: [奥居香](https://ja.wikipedia.org/wiki/岸谷香 "wikilink")、編曲: 笹路正徳
+      - 作詞: Seiko Matsuda、作曲: [奥居香](../Page/岸谷香.md "wikilink")、編曲: 笹路正徳
 3.  **[We Are Love](../Page/We_Are_Love.md "wikilink")**　（4:35）
-      - 作詞: Seiko Matsuda、作曲: [鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")、編曲: 笹路正徳
+      - 作詞: Seiko Matsuda、作曲: [鈴木祥子](../Page/鈴木祥子.md "wikilink")、編曲: 笹路正徳
 4.  **[きっと、また逢える…](../Page/きっと、また逢える….md "wikilink")**　（4:46）
       - 作詞: Seiko Matsuda、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        TBS系金曜ドラマ『[おとなの選択](https://ja.wikipedia.org/wiki/おとなの選択 "wikilink")』主題歌
+        TBS系金曜ドラマ『[おとなの選択](../Page/おとなの選択.md "wikilink")』主題歌
         [輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/第34回日本レコード大賞 "wikilink") 最優秀ボーカル賞を受賞し、ステージで涙を見せた。
 5.  **[あなたのすべてになりたい](https://ja.wikipedia.org/wiki/あなたのすべてになりたい/Shinin'_Shinin' "wikilink")**　（4:16）
       - 作詞: Seiko Matsuda、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
@@ -469,7 +469,7 @@
       - 作詞: Seiko Matsuda、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        TBS系金曜ドラマ『[わたしってブスだったの?](https://ja.wikipedia.org/wiki/わたしってブスだったの? "wikilink")』主題歌
+        TBS系金曜ドラマ『[わたしってブスだったの?](../Page/わたしってブスだったの?.md "wikilink")』主題歌
 7.  **[A Touch of Destiny](../Page/A_Touch_of_Destiny.md "wikilink")**　（3:55）
       - 作詞: Seiko Matsuda、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
 8.  **[もう一度、初めから](../Page/もう一度、初めから.md "wikilink")**　（4:53）
@@ -478,18 +478,18 @@
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        『[第45回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第45回NHK紅白歌合戦 "wikilink")』歌唱曲
-        [たかの友梨](https://ja.wikipedia.org/wiki/たかの友梨 "wikilink")ビューティクリニック コマーシャルソング
+        『[第45回NHK紅白歌合戦](../Page/第45回NHK紅白歌合戦.md "wikilink")』歌唱曲
+        [たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック コマーシャルソング
 10. **[素敵にOnce Again](../Page/素敵にOnce_Again.md "wikilink")**　（4:51）
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        『[第46回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第46回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第46回NHK紅白歌合戦](../Page/第46回NHK紅白歌合戦.md "wikilink")』歌唱曲
 11. **[あなたに逢いたくて〜Missing You〜](https://ja.wikipedia.org/wiki/あなたに逢いたくて〜Missing_You〜/明日へと駆け出してゆこう "wikilink")**　（5:33）
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        [第47回と](https://ja.wikipedia.org/wiki/第47回NHK紅白歌合戦 "wikilink")[第51回の](https://ja.wikipedia.org/wiki/第51回NHK紅白歌合戦 "wikilink")『[NHK紅白歌合戦](https://ja.wikipedia.org/wiki/NHK紅白歌合戦 "wikilink")』歌唱曲
+        [第47回と](../Page/第47回NHK紅白歌合戦.md "wikilink")[第51回の](../Page/第51回NHK紅白歌合戦.md "wikilink")『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』歌唱曲
         [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink") コマーシャルソング
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディング・テーマ
 12. **[さよならの瞬間](../Page/さよならの瞬間.md "wikilink")**　（4:22）
@@ -505,7 +505,7 @@
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](https://ja.wikipedia.org/wiki/スーパーテレビ情報最前線 "wikilink")』エンディング・テーマ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](../Page/スーパーテレビ情報最前線.md "wikilink")』エンディング・テーマ
 16. **[Touch the LOVE](../Page/Touch_the_LOVE.md "wikilink")**　（4:51）
       - 作詞: Meg.C、作曲: Seiko Matsuda・Ryo Ogura、編曲: Yuji Toriyama
     <!-- end list -->
@@ -586,5 +586,5 @@
 
 [Category:松田聖子のCD-BOX](https://ja.wikipedia.org/wiki/Category:松田聖子のCD-BOX "wikilink") [Category:2000年のCD-BOX](https://ja.wikipedia.org/wiki/Category:2000年のCD-BOX "wikilink")
 
-1.  1996年から2001まで所属した[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")。よって本BOX発売時はユニバーサルに所属していた。
+1.  1996年から2001まで所属した[レコード会社](../Page/レコード会社.md "wikilink")。よって本BOX発売時はユニバーサルに所属していた。
 2.  コースターにその旨が記載されている。

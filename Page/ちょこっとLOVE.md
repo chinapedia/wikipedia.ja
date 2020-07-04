@@ -6,7 +6,7 @@
 ## 解説
 
   - ミリオンヒットを記録し、自己最高売上のシングルとなる。
-  - オリコン調べの初動売上は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の「[LOVEマシーン](../Page/LOVEマシーン.md "wikilink")」を上回った\[2\]。
+  - オリコン調べの初動売上は[モーニング娘。](../Page/モーニング娘。.md "wikilink")の「[LOVEマシーン](../Page/LOVEマシーン.md "wikilink")」を上回った\[2\]。
   - 市井紗耶香がこの曲のリリース後に卒業したため第一期メンバーでは最初で最後のシングル曲である。
   - [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のグループ・[スマイルdkが](../Page/Smile.dk.md "wikilink")、2000年に「*Petit Love*」の曲名でカヴァーしている。
   - オリコン調べでは2000年代1作目のミリオン達成シングル。（1990年代からの合算。2000年代にリリースされた作品に限定すると[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」になる）

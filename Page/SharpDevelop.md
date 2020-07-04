@@ -5,7 +5,7 @@
 
 ## 概要
 
-対応するプログラミング言語は、C\#、[Visual Basic .NET](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic_.NET "wikilink")、[Boo](https://ja.wikipedia.org/wiki/Boo_\(プログラミング言語\) "wikilink")、[IronPython](https://ja.wikipedia.org/wiki/IronPython "wikilink")、[IronRuby](../Page/IronRuby.md "wikilink")があり、[パーサにより](../Page/構文解析器.md "wikilink")、C\#、Microsoft Visual Basic .NET、Boo、IronPython、IronRubyの各言語を相互に変換できるコンバータが含まれている。バージョン5.0からはC\#のみの対応となった。
+対応するプログラミング言語は、C\#、[Visual Basic .NET](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic_.NET "wikilink")、[Boo](https://ja.wikipedia.org/wiki/Boo_\(プログラミング言語\) "wikilink")、[IronPython](../Page/IronPython.md "wikilink")、[IronRuby](../Page/IronRuby.md "wikilink")があり、[パーサにより](../Page/構文解析器.md "wikilink")、C\#、Microsoft Visual Basic .NET、Boo、IronPython、IronRubyの各言語を相互に変換できるコンバータが含まれている。バージョン5.0からはC\#のみの対応となった。
 
 コンパイラとしては、.NET Framework 1.0、1.1、2.0、3.5、4.0、4.5、4.5.1、4.5.2、[Monoコンパイラを使用できる](../Page/Mono_\(ソフトウェア\).md "wikilink")。また、SharpDevelop 2からは[Visual Studioと同じ](https://ja.wikipedia.org/wiki/Visual_Studio "wikilink")[MSBuild](https://ja.wikipedia.org/wiki/MSBuild "wikilink")プロジェクトファイルを使用し、Visual Studioと互換性のあるソリューション・プロジェクトファイルを扱うようになっている。
 

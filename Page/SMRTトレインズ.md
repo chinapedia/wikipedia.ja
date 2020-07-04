@@ -1,18 +1,18 @@
-> この記事は[SMRT](https://ja.wikipedia.org/wiki/SMRT)から翻訳されています。
+> この記事は[SMRTトレインズ](https://ja.wikipedia.org/wiki/SMRTトレインズ)から翻訳されています。
 
 
 **SMRTトレインズ**（SMRT Trains, 中国語：）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[SMRTコーポレーション](../Page/SMRTコーポレーション.md "wikilink")の100%出資の鉄道会社。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月6日](../Page/8月6日.md "wikilink")に設立された。設立当初はシンガポール・マス・ラピッド・コーポレーションとして知られていたが、2004年にSMRTトレインズに社名を変更した。
 
 ## 概要
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")にシンガポールで初めて[ヨー・チュー・カン駅](https://ja.wikipedia.org/wiki/ヨー・チュー・カン駅 "wikilink")から[トア・パヨ駅](https://ja.wikipedia.org/wiki/トア・パヨ駅 "wikilink")までの5駅間にて[MRTの営業を開始し](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[MRT北東線](https://ja.wikipedia.org/wiki/MRT北東線 "wikilink")が開通するまで全ての[MRTを運行してきた](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")。2013年現在は[南北線](https://ja.wikipedia.org/wiki/MRT南北線 "wikilink")、[東西線](../Page/MRT東西線.md "wikilink")、[東西環状線を運行する](https://ja.wikipedia.org/wiki/MRT環状線 "wikilink")。 LRTを運行するSMRTライトレールはSMRTトレインズの100%出資子会社。 シンガポール地下鉄向けには[川崎重工業](../Page/川崎重工業.md "wikilink")の[川崎重工業車両カンパニー](https://ja.wikipedia.org/wiki/川崎重工業車両カンパニー "wikilink")等が、[LTA](https://ja.wikipedia.org/wiki/LTA "wikilink")開業当初の1986年から2016年までに[シンガポール地下鉄C151形電車](https://ja.wikipedia.org/wiki/シンガポール地下鉄C151形電車 "wikilink")などの車輌を累計約700両を受注・納入してきた\[1\]。[中国の電車メーカー](../Page/中華人民共和国.md "wikilink")、[青島四方機車車輛](https://ja.wikipedia.org/wiki/中国中車青島四方機車車輛 "wikilink")（CSR四方）が納入したC151A型が、組み立て時が原因と思われる構造上の問題で大規模[リコール](https://ja.wikipedia.org/wiki/リコール "wikilink")の対象となった\[2\]。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")にシンガポールで初めて[ヨー・チュー・カン駅](https://ja.wikipedia.org/wiki/ヨー・チュー・カン駅 "wikilink")から[トア・パヨ駅](https://ja.wikipedia.org/wiki/トア・パヨ駅 "wikilink")までの5駅間にて[MRTの営業を開始し](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink")に[MRT北東線](https://ja.wikipedia.org/wiki/MRT北東線 "wikilink")が開通するまで全ての[MRTを運行してきた](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")。2013年現在は[南北線](https://ja.wikipedia.org/wiki/MRT南北線 "wikilink")、[東西線](../Page/MRT東西線.md "wikilink")、[東西環状線を運行する](https://ja.wikipedia.org/wiki/MRT環状線 "wikilink")。 LRTを運行するSMRTライトレールはSMRTトレインズの100%出資子会社。 シンガポール地下鉄向けには[川崎重工業](../Page/川崎重工業.md "wikilink")の[川崎重工業車両カンパニー](../Page/川崎重工業車両カンパニー.md "wikilink")等が、[LTA](https://ja.wikipedia.org/wiki/LTA "wikilink")開業当初の1986年から2016年までに[シンガポール地下鉄C151形電車](https://ja.wikipedia.org/wiki/シンガポール地下鉄C151形電車 "wikilink")などの車輌を累計約700両を受注・納入してきた\[1\]。[中国の電車メーカー](../Page/中華人民共和国.md "wikilink")、[青島四方機車車輛](https://ja.wikipedia.org/wiki/中国中車青島四方機車車輛 "wikilink")（CSR四方）が納入したC151A型が、組み立て時が原因と思われる構造上の問題で大規模[リコール](https://ja.wikipedia.org/wiki/リコール "wikilink")の対象となった\[2\]。
 
 ## 歴史
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") SMRT設立。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月7日](../Page/11月7日.md "wikilink") [ヨー・チュー・カン駅](https://ja.wikipedia.org/wiki/ヨー・チュー・カン駅 "wikilink")、[トア・パヨ駅](https://ja.wikipedia.org/wiki/トア・パヨ駅 "wikilink")間でシンガポールで初の[MRTを運行](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") シンガポールLRTを子会社として設立。
-  - [1999年](../Page/1999年.md "wikilink") [LRTブキ・パンジャン線](https://ja.wikipedia.org/wiki/LRTブキ・パンジャン線 "wikilink")開業。
+  - [1999年](../Page/1999年.md "wikilink") [LRTブキ・パンジャン線](../Page/LRTブキ・パンジャン線.md "wikilink")開業。
   - [2000年](../Page/2000年.md "wikilink") [SMRTコーポレーション](../Page/SMRTコーポレーション.md "wikilink")設立
   - [2001年](../Page/2001年.md "wikilink") SMRTコーポレーションとTIBSホールディングスが合併。
   - [2004年](../Page/2004年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink") グループ会社6社がSMRTブランドの元に持ち株会社のSMRTコーポレーションの子会社になる。それに伴いSMRTトレインズに社名変更。

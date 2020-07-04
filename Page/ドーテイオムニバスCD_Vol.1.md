@@ -1,11 +1,11 @@
-> この記事は[CD Vol.1](https://ja.wikipedia.org/wiki/CD_Vol.1)から翻訳されています。
+> この記事は[ドーテイオムニバスCD Vol.1](https://ja.wikipedia.org/wiki/ドーテイオムニバスCD_Vol.1)から翻訳されています。
 
 
 『**ドーテイオムニバスCD Vol.1**』は、共同[自主制作による](../Page/インディーズ.md "wikilink")[オムニバス](../Page/オムニバス.md "wikilink")・アルバム。1996年に発売された。
 
 ## 解説
 
-  - このアルバムは、複数アーティストの共同自主制作による1000枚限定として定価2000円で販売されたCDアルバムである。[大阪音楽大学短期大学部](https://ja.wikipedia.org/wiki/大阪音楽大学短期大学部 "wikilink")ポピュラー・ヴォーカル学科在学中の[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")が参加し、aikoのブレイク以降に有名になったアルバム。
+  - このアルバムは、複数アーティストの共同自主制作による1000枚限定として定価2000円で販売されたCDアルバムである。[大阪音楽大学短期大学部](../Page/大阪音楽大学短期大学部.md "wikilink")ポピュラー・ヴォーカル学科在学中の[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")が参加し、aikoのブレイク以降に有名になったアルバム。
   - 収録曲のほとんどがバンド形式の楽曲に対して、aikoの曲は、ボーカル（コーラス含む）とピアノの伴奏のみで、とてもシンプルな作りとなっている。ピアノはジャズ学科の友人である[本田英絵](https://ja.wikipedia.org/wiki/本田英絵 "wikilink")が担当した。このアルバムにおいて、aikoはアーティスト名が「AIKO」の表記となっている。aikoの曲は3曲目「MORE\&MORE」、12曲目「AB型の二人」、18曲目「あの子へ」の3曲である。
   - 参加メンバーのTECHNOBOYSはあとに[TECHNOBOYS PULCRAFT GREEN-FUNDとして](https://ja.wikipedia.org/wiki/TECHNOBOYS_PULCRAFT_GREEN-FUND "wikilink")、楽曲提供や[おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")などのTVアニメの音楽を手がけている。
   - 本CD参加メンバーであるフリフリが参加したドーテイオムニバスCD Vol.2があとに発売された。
@@ -35,7 +35,7 @@
         Vo.,G.TAKAHIRO、G.TOSHIKI、B.SHIN、Dr.MICHIAKI
   - TECHNOBOYS（現：[TECHNOBOYS PULCRAFT GREEN-FUND](https://ja.wikipedia.org/wiki/TECHNOBOYS_PULCRAFT_GREEN-FUND "wikilink")）
       -
-        Bass,Synthsizer & Vocal フジムラトヲル、Percussion,Synthsizer & Vocal [松井洋平](https://ja.wikipedia.org/wiki/松井洋平 "wikilink")、Synthsizer Computer & Vocal [石川智久](https://ja.wikipedia.org/wiki/石川智久 "wikilink")
+        Bass,Synthsizer & Vocal フジムラトヲル、Percussion,Synthsizer & Vocal [松井洋平](https://ja.wikipedia.org/wiki/松井洋平 "wikilink")、Synthsizer Computer & Vocal [石川智久](../Page/石川智久.md "wikilink")
 
 ## 収録曲
 
@@ -67,7 +67,7 @@
 <td><p><strong>MORE&amp;MORE</strong><br />
 <small>作詞・作曲：AIKO</p></td>
 <td><p><strong>AIKO</strong></p></td>
-<td><p><small>※メジャー5thシングル『<a href="https://ja.wikipedia.org/wiki/桜の時" title="wikilink">桜の時</a>』に<a href="https://ja.wikipedia.org/wiki/カップリング曲" title="wikilink">カップリング曲</a>として「more&amp;more」（小文字）の曲名で、バンドによるリアレンジ・再録音したものが収録されている。</p></td>
+<td><p><small>※メジャー5thシングル『<a href="../Page/桜の時.md" title="wikilink">桜の時</a>』に<a href="https://ja.wikipedia.org/wiki/カップリング曲" title="wikilink">カップリング曲</a>として「more&amp;more」（小文字）の曲名で、バンドによるリアレンジ・再録音したものが収録されている。</p></td>
 </tr>
 <tr class="even">
 <td><p>04</p></td>
@@ -164,7 +164,7 @@
 <td><p><strong>あの子へ</strong><br />
 <small>作詞・作曲：AIKO</p></td>
 <td><p><strong>AIKO</strong></p></td>
-<td><p><small>※メジャー8thシングル『<a href="https://ja.wikipedia.org/wiki/ロージー_(aikoの曲)" title="wikilink">ロージー</a>』にカップリング曲としてリアレンジ・再録音したものが収録されている。</p></td>
+<td><p><small>※メジャー8thシングル『<a href="../Page/ロージー_(aikoの曲).md" title="wikilink">ロージー</a>』にカップリング曲としてリアレンジ・再録音したものが収録されている。</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>

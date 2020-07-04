@@ -1,20 +1,20 @@
-> この記事は[SQUALL \(\)](https://ja.wikipedia.org/wiki/SQUALL_\(\))から翻訳されています。
+> この記事は[SQUALL \(松田聖子のアルバム\)](https://ja.wikipedia.org/wiki/SQUALL_\(松田聖子のアルバム\))から翻訳されています。
 
 
-『**SQUALL**』（スコール）は、[松田聖子](../Page/松田聖子.md "wikilink")初の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1980年8月1日発売。発売元は[CBS・ソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")/[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")レーベル）。
+『**SQUALL**』（スコール）は、[松田聖子](../Page/松田聖子.md "wikilink")初の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1980年8月1日発売。発売元は[CBS・ソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（現：[ソニー・ミュージックレーベルズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink")/[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")レーベル）。
 
 ## 解説
 
   - 帯コピー：**珊瑚の香り、青い風 いま、聖子の季節**
-  - デビュー曲で[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")にも起用された「[裸足の季節](../Page/裸足の季節.md "wikilink")」、2枚目にして大ヒット・ナンバーの「[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")」を含む、松田のファーストアルバム。
+  - デビュー曲で[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")にも起用された「[裸足の季節](../Page/裸足の季節.md "wikilink")」、2枚目にして大ヒット・ナンバーの「[青い珊瑚礁](https://ja.wikipedia.org/wiki/青い珊瑚礁_\(曲\) "wikilink")」を含む、松田のファーストアルバム。
   - コンセプトに基づいた作品であり、夏の海辺や南国をイメージさせる曲でまとめられている。
   - 大ヒットを記録した先行シングル2曲の影響を受けて、1枚目のアルバムにしてオリコンのLPチャートで2位を獲得した。
-  - アルバム収録曲の全てが単独の作曲家によって製作された作品は、セルフ・プロデュース開始（1992年）前のアルバムでは当作品が唯一である。1992年以降では、[原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")が全作曲をした、『[LOVE & EMOTION VOL.1](../Page/LOVE_&_EMOTION_VOL.1.md "wikilink")』（2001年6月20日）・『[LOVE & EMOTION VOL.2](../Page/LOVE_&_EMOTION_VOL.2.md "wikilink")』（2001年11月28日）や、松田単独（[小倉良](https://ja.wikipedia.org/wiki/小倉良 "wikilink")との共作でない）の作曲による『[Baby's breath](../Page/Baby's_breath_\(松田聖子のアルバム\).md "wikilink")』（2007年6月6日）などがある。
+  - アルバム収録曲の全てが単独の作曲家によって製作された作品は、セルフ・プロデュース開始（1992年）前のアルバムでは当作品が唯一である。1992年以降では、[原田真二](../Page/原田真二.md "wikilink")が全作曲をした、『[LOVE & EMOTION VOL.1](../Page/LOVE_&_EMOTION_VOL.1.md "wikilink")』（2001年6月20日）・『[LOVE & EMOTION VOL.2](../Page/LOVE_&_EMOTION_VOL.2.md "wikilink")』（2001年11月28日）や、松田単独（[小倉良](../Page/小倉良.md "wikilink")との共作でない）の作曲による『[Baby's breath](../Page/Baby's_breath_\(松田聖子のアルバム\).md "wikilink")』（2007年6月6日）などがある。
   - 2014年9月25日、待望のSACD化（ハイブリッド盤）。企画、販売は株式会社ステレオサウンド。「松田聖子SACD化プロジェクト」第1弾としてアルバム「風立ちぬ」と同時発売された。オリジナル2トラックミックスダウンマスターに遡ってDSDマスタリングされている。この企画のスーパーバイザーである嶋護（しま・もり）氏は解説書の中で、「デビュー時からすでに確立されていた数々の声楽テクニッが惜しみなく披露されているのにも感嘆するばかり。他の歌手とは一線を画したドラマティックな歌唱を成立させていた」と称賛している。
 
 ## 収録曲
 
-※全作詞：[三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")／全作曲：[小田裕一郎](https://ja.wikipedia.org/wiki/小田裕一郎 "wikilink")
+※全作詞：[三浦徳子](../Page/三浦徳子.md "wikilink")／全作曲：[小田裕一郎](../Page/小田裕一郎.md "wikilink")
 
 ### Side A
 
@@ -24,9 +24,9 @@
       - 編曲：信田かずお
     <!-- end list -->
       -
-        [本田美奈子が中学](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")3年生のとき、[オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")番組『[スター誕生\!](https://ja.wikipedia.org/wiki/スター誕生! "wikilink")』（[NTV系](../Page/日本テレビ放送網.md "wikilink")）の決戦大会で歌唱。しかし決戦大会では1社からも[スカウトされなかった](../Page/スカウト_\(勧誘\).md "wikilink")（このときの合格者は[松本明子](../Page/松本明子.md "wikilink")。松本も松田の「[Summer Beach〜オレンジの香り〜](../Page/Silhouette_\(松田聖子のアルバム\).md "wikilink")」を歌唱している。また、他の決戦大会進出者に[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")もいた）。
+        [本田美奈子が中学](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")3年生のとき、[オーディション](../Page/オーディション.md "wikilink")番組『[スター誕生\!](../Page/スター誕生!.md "wikilink")』（[NTV系](../Page/日本テレビ放送網.md "wikilink")）の決戦大会で歌唱。しかし決戦大会では1社からも[スカウトされなかった](../Page/スカウト_\(勧誘\).md "wikilink")（このときの合格者は[松本明子](../Page/松本明子.md "wikilink")。松本も松田の「[Summer Beach〜オレンジの香り〜](../Page/Silhouette_\(松田聖子のアルバム\).md "wikilink")」を歌唱している。また、他の決戦大会進出者に[徳永英明](../Page/徳永英明.md "wikilink")もいた）。
 3.  **SQUALL**　（3:44）
-      - 編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 4.  **トロピカル・ヒーロー**　（4:40）
       - 編曲：[松井忠重](https://ja.wikipedia.org/wiki/松井忠重 "wikilink")
 5.  **[裸足の季節](../Page/裸足の季節.md "wikilink")**　（3:43）
@@ -159,7 +159,7 @@
       - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
   - **SQUALL**　
       - [聖子・fragrance](../Page/聖子・fragrance.md "wikilink")
-      - [Seiko・index](https://ja.wikipedia.org/wiki/Seiko・index "wikilink")
+      - [Seiko・index](../Page/Seiko・index.md "wikilink")
       - [Seiko Box](../Page/Seiko_Box.md "wikilink")
       - [Bible III](https://ja.wikipedia.org/wiki/Bible_III "wikilink")
       - [SEIKO SUITE](../Page/SEIKO_SUITE.md "wikilink")
@@ -181,13 +181,13 @@
 
 ## 関連項目
 
-  - [1980年の音楽](https://ja.wikipedia.org/wiki/1980年の音楽 "wikilink")
+  - [1980年の音楽](../Page/1980年の音楽.md "wikilink")
 
 ## 関連人物
 
-  - [大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
-  - [小田裕一郎](https://ja.wikipedia.org/wiki/小田裕一郎 "wikilink")
-  - [三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")
+  - [大村雅朗](../Page/大村雅朗.md "wikilink")
+  - [小田裕一郎](../Page/小田裕一郎.md "wikilink")
+  - [三浦徳子](../Page/三浦徳子.md "wikilink")
 
 [Category:松田聖子のアルバム](https://ja.wikipedia.org/wiki/Category:松田聖子のアルバム "wikilink") [Category:三浦徳子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:三浦徳子が制作した楽曲 "wikilink") [Category:小田裕一郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小田裕一郎が制作した楽曲 "wikilink") [Category:1980年のアルバム](https://ja.wikipedia.org/wiki/Category:1980年のアルバム "wikilink") [Category:デビュー・アルバム](https://ja.wikipedia.org/wiki/Category:デビュー・アルバム "wikilink") [Category:CBSソニーのアルバム](https://ja.wikipedia.org/wiki/Category:CBSソニーのアルバム "wikilink")
 

@@ -129,7 +129,7 @@
 <td><p>8戦5勝<br />
 菊花賞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バンブー牧場" title="wikilink">バンブー牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/布施正" title="wikilink">布施正</a></p></td>
+<td><p><a href="../Page/布施正.md" title="wikilink">布施正</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹田辰一" title="wikilink">竹田辰一</a></p></td>
 <td></td>
 </tr>
@@ -189,7 +189,7 @@
 <td><p>7戦6勝<br />
 天皇賞（秋）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大道牧場" title="wikilink">大道牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/布施正" title="wikilink">布施正</a></p></td>
+<td><p><a href="../Page/布施正.md" title="wikilink">布施正</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大丸企業" title="wikilink">大丸企業</a></p></td>
 <td></td>
 </tr>

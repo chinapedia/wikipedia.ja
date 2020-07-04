@@ -11,13 +11,13 @@ Answers.comには**WikiAnswers**や**ReferenceAnswers**、Video Answersなど合
 
 ## 歴史
 
-answers.comを始めたのは、1999年に[イスラエル](../Page/イスラエル.md "wikilink")の[エルサレム](../Page/エルサレム.md "wikilink")で設立されたGuruNet社である。創業者のボブ・ローゼンシェーンはイスラエル系のアメリカ人で\[3\]、[ペンシルバニア州](https://ja.wikipedia.org/wiki/ペンシルバニア州 "wikilink")の[ハリスバーグで育ち](https://ja.wikipedia.org/wiki/ハリスバーグ_\(ペンシルベニア州\) "wikilink")、1976年に[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")を卒業した。いくつかの企業で働いた後、1983年にイスラエルに戻ってソフトウェア会社を創業し、ヘブライ語のワープロソフトの開発やWindows3.1の[ヘブライ語](../Page/ヘブライ語.md "wikilink")・[アラビア語](../Page/アラビア語.md "wikilink")化などを行った。1999年に[ICQ](https://ja.wikipedia.org/wiki/ICQ "wikilink")社の[ヨシ・バーディの勧めで](https://ja.wikipedia.org/wiki/:en:Yossi_Vardi "wikilink")\[4\]、百科事典アプリケーションのGuruNetを発表した。これはマウスポインタを単語に合わせてAltキーを押しながらマウスでクリックすると、意味や解説を表示するWindows98のアプリケーションである\[5\]。当初はGuruNetを無料で消費者に配って、ポータルサイトやインターネットサービスプロバイダから収益をあげるビジネスモデルだったが\[6\]、その後は有料の1-Click Answersを作って、[CRMや](https://ja.wikipedia.org/wiki/顧客関係管理 "wikilink")[ERPの組み込み用ソフトとして企業に販売した](https://ja.wikipedia.org/wiki/企業資源計画 "wikilink")\[7\]。GuruNetは創業当時から期待が高く、ヨシ・バーディ\[8\]や[AOL](https://ja.wikipedia.org/wiki/AOL "wikilink")、[ゴールドマン・サックス](https://ja.wikipedia.org/wiki/ゴールドマン・サックス "wikilink")など\[9\]から巨額の資金援助を得ていたと言われる。
+answers.comを始めたのは、1999年に[イスラエル](../Page/イスラエル.md "wikilink")の[エルサレム](../Page/エルサレム.md "wikilink")で設立されたGuruNet社である。創業者のボブ・ローゼンシェーンはイスラエル系のアメリカ人で\[3\]、[ペンシルバニア州](https://ja.wikipedia.org/wiki/ペンシルバニア州 "wikilink")の[ハリスバーグで育ち](../Page/ハリスバーグ_\(ペンシルベニア州\).md "wikilink")、1976年に[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")を卒業した。いくつかの企業で働いた後、1983年にイスラエルに戻ってソフトウェア会社を創業し、ヘブライ語のワープロソフトの開発やWindows3.1の[ヘブライ語](../Page/ヘブライ語.md "wikilink")・[アラビア語](../Page/アラビア語.md "wikilink")化などを行った。1999年に[ICQ](../Page/ICQ.md "wikilink")社の[ヨシ・バーディの勧めで](https://ja.wikipedia.org/wiki/:en:Yossi_Vardi "wikilink")\[4\]、百科事典アプリケーションのGuruNetを発表した。これはマウスポインタを単語に合わせてAltキーを押しながらマウスでクリックすると、意味や解説を表示するWindows98のアプリケーションである\[5\]。当初はGuruNetを無料で消費者に配って、ポータルサイトやインターネットサービスプロバイダから収益をあげるビジネスモデルだったが\[6\]、その後は有料の1-Click Answersを作って、[CRMや](../Page/顧客関係管理.md "wikilink")[ERPの組み込み用ソフトとして企業に販売した](../Page/企業資源計画.md "wikilink")\[7\]。GuruNetは創業当時から期待が高く、ヨシ・バーディ\[8\]や[AOL](../Page/AOL.md "wikilink")、[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")など\[9\]から巨額の資金援助を得ていたと言われる。
 
-GuruNet社は2005年に百科事典をウェブアプリケーション化し、answers.comを始めた\[10\]。また同じ頃に[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")で上場し、本社を[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")バーリンゲームから移して\[11\]\[12\]、社名をAnswers Corporationに変更した。 アクセス数はウェブブラウザの[ツールバー](https://ja.wikipedia.org/wiki/ツールバー "wikilink")との連携や\[13\]\[14\]、ウィキペディアやGoogleとの提携により伸びていった\[15\]\[16\]。売上高は3万ドル（2003年）\[17\]、19万ドル（2004年）\[18\]、205万ドル（2005年）\[19\]、703万ドル（2006年）\[20\]、1140万ドル（2007年）\[21\]、1423万ドル（2008年）\[22\]、2076万ドル（2009年）\[23\]、2147万ドル（2010年）\[24\]と７年で700倍以上になった。
+GuruNet社は2005年に百科事典をウェブアプリケーション化し、answers.comを始めた\[10\]。また同じ頃に[ニューヨーク](../Page/ニューヨーク.md "wikilink")で上場し、本社を[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")バーリンゲームから移して\[11\]\[12\]、社名をAnswers Corporationに変更した。 アクセス数はウェブブラウザの[ツールバー](https://ja.wikipedia.org/wiki/ツールバー "wikilink")との連携や\[13\]\[14\]、ウィキペディアやGoogleとの提携により伸びていった\[15\]\[16\]。売上高は3万ドル（2003年）\[17\]、19万ドル（2004年）\[18\]、205万ドル（2005年）\[19\]、703万ドル（2006年）\[20\]、1140万ドル（2007年）\[21\]、1423万ドル（2008年）\[22\]、2076万ドル（2009年）\[23\]、2147万ドル（2010年）\[24\]と７年で700倍以上になった。
 
-2011年にAnswers社は投資会社の[Summit PartnersのAFCVホールディングス](https://ja.wikipedia.org/wiki/:en:Summit_Partners "wikilink")（[ミズーリ州](../Page/ミズーリ州.md "wikilink")[セントルイス](https://ja.wikipedia.org/wiki/セントルイス "wikilink")）に買収されて\[25\]\[26\]、上場を廃止した。その後、創業者が経営から離れ、イスラエルの開発拠点や1-Click Answersなどの伝統的な製品群がリストラされた\[27\]。現在は[プライベート・エクイティ・ファンド](https://ja.wikipedia.org/wiki/プライベート・エクイティ・ファンド "wikilink")と提携して、経営資源をanswers.comに集中し、買収による規模拡大を試みている\[28\]。
+2011年にAnswers社は投資会社の[Summit PartnersのAFCVホールディングス](https://ja.wikipedia.org/wiki/:en:Summit_Partners "wikilink")（[ミズーリ州](../Page/ミズーリ州.md "wikilink")[セントルイス](../Page/セントルイス.md "wikilink")）に買収されて\[25\]\[26\]、上場を廃止した。その後、創業者が経営から離れ、イスラエルの開発拠点や1-Click Answersなどの伝統的な製品群がリストラされた\[27\]。現在は[プライベート・エクイティ・ファンド](https://ja.wikipedia.org/wiki/プライベート・エクイティ・ファンド "wikilink")と提携して、経営資源をanswers.comに集中し、買収による規模拡大を試みている\[28\]。
 
-2012年頃はAnswers.comはアメリカ合衆国で20位のウェブサイトであり、利用者数は5073万人/月（2012年11月国内）に達した\[29\]。[英語](../Page/英語.md "wikilink")の他に[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[タガログ語](https://ja.wikipedia.org/wiki/タガログ語 "wikilink")に対応していた\[30\]。
+2012年頃はAnswers.comはアメリカ合衆国で20位のウェブサイトであり、利用者数は5073万人/月（2012年11月国内）に達した\[29\]。[英語](../Page/英語.md "wikilink")の他に[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[イタリア語](../Page/イタリア語.md "wikilink")、[ドイツ語](../Page/ドイツ語.md "wikilink")、[タガログ語](../Page/タガログ語.md "wikilink")に対応していた\[30\]。
 
 ## 沿革
 
@@ -28,11 +28,11 @@ GuruNet社は2005年に百科事典をウェブアプリケーション化し、
   - 2005年1月 - Answers.comを開始\[34\]。ビジネスモデルをB2Cに戻した
   - 2005年2月 - Googleが用語検索をDictionary.comからAnswers.comに変更\[35\]
   - 2005年8月 - AMEXからNASDAQに上場先を変更。同月、[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")と提携\[36\]
-  - 2005年10月 - [ウィキペディア](https://ja.wikipedia.org/wiki/ウィキペディア "wikilink")と提携\[37\]。同月、社名をAnswers Corporationに変更\[38\]
+  - 2005年10月 - [ウィキペディア](../Page/ウィキペディア.md "wikilink")と提携\[37\]。同月、社名をAnswers Corporationに変更\[38\]
   - 2005年11月 - [Mozilla Firefoxと提携](../Page/Mozilla_Firefox.md "wikilink")\[39\]
   - 2005年12月 - 自然言語検索のBrainboost Technology社を400万ドルで買収\[40\]
   - 2006年11月 - FAQ Farm社（現 WikiAnswers）を200万ドルで買収\[41\]\[42\]
-  - 2007年7月 - Dictionary.comなどを所有するLexico Publishing社の買収に名乗りを上げたが\[43\]\[44\]、[Ask.com](https://ja.wikipedia.org/wiki/Ask.com "wikilink")社に敗北\[45\]
+  - 2007年7月 - Dictionary.comなどを所有するLexico Publishing社の買収に名乗りを上げたが\[43\]\[44\]、[Ask.com](../Page/Ask.com.md "wikilink")社に敗北\[45\]
   - 2007年8月 - Googleの仕様変更により、サイト訪問者が激減した\[46\]。ただし、その後（2008年から2009年頃）に急成長したという調査もある\[47\]
   - 2008年6月 - [ベンチャーキャピタル](../Page/ベンチャーキャピタル.md "wikilink")の[Redpoint Venturesに優先株を発行して](https://ja.wikipedia.org/wiki/:en:Redpoint_Ventures "wikilink")、1300万ドルの資金調達をした\[48\]
   - 2008年12月 - AOLの子会社の5minから動画配信を受け入れた\[49\]。なお5minもイスラエル由来の企業である\[50\]

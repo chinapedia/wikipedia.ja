@@ -1,0 +1,608 @@
+> この記事は[Xbox Live Arcadeのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Xbox_Live_Arcadeのゲームタイトル一覧)から翻訳されています。
+
+
+**Xbox Live Arcadeのゲームタイトル一覧**（エックスボックスライブアーケードのゲームタイトルいちらん）では、[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")・[Xbox 360](../Page/Xbox_360.md "wikilink")・[Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")・[Xbox Series Xのサービス](../Page/Xbox_Series_X.md "wikilink")「[Xbox Live](../Page/Xbox_Live.md "wikilink")」においてダウンロード可能な（予定含む）ゲームソフトのタイトルを列記する。
+
+2013年8月後半からはXbox 360のシステムアップデートに伴い現地通貨へ移行することが発表された。
+
+## 2005年（全14タイトル）
+
+  - 12月10日 [Hexic HD](https://ja.wikipedia.org/wiki/Hexic_HD "wikilink")（[マイクロソフト](../Page/マイクロソフト.md "wikilink")） - ハードディスクユニットに同梱。
+  - 12月10日 [ガントレット](../Page/ガントレット_\(ゲーム\).md "wikilink") (Midway Games, Inc.)
+  - 12月10日 [ジャウスト](../Page/ジャウスト.md "wikilink") (Joust)
+  - 12月10日 [Geometry Wars: Retro Evolved](../Page/Geometry_Wars.md "wikilink")
+  - 12月10日 [Mutant Storm Reloaded](https://ja.wikipedia.org/wiki/Mutant_Storm_Reloaded "wikilink")
+  - 12月10日 [Hardwood Backgammon](../Page/バックギャモン.md "wikilink")
+  - 12月10日 [Hardwood Hearts](../Page/ハーツ_\(トランプゲーム\).md "wikilink")
+  - 12月10日 [Hardwood Spades](https://ja.wikipedia.org/wiki/Hardwood_Spades "wikilink")
+  - 12月10日 [Outpost Kaloki X](https://ja.wikipedia.org/wiki/Outpost_Kaloki_X "wikilink")
+  - 12月10日 [Bankshot Billiards 2](https://ja.wikipedia.org/wiki/Bankshot_Billiards_2 "wikilink")
+  - 12月10日 [Bejeweled 2](https://ja.wikipedia.org/wiki/Bejeweled "wikilink")
+  - 12月10日 [Zuma](../Page/Zuma.md "wikilink")
+  - 12月10日 [スマッシュTV](https://ja.wikipedia.org/wiki/スマッシュTV "wikilink") (Smash TV)
+  - 12月14日 [Wik: Fable of Souls](https://ja.wikipedia.org/wiki/Wik:_Fable_of_Souls "wikilink")
+  - 12月17日 [Robotron: 2084](../Page/ロボトロン2084.md "wikilink")
+
+## 2006年（全21タイトル）
+
+  - 1月25日 [Marble Blast Ultra](https://ja.wikipedia.org/wiki/Marble_Blast_Ultra "wikilink")
+  - 2月07日 [Crystal Quest](https://ja.wikipedia.org/wiki/Crystal_Quest "wikilink")
+  - 3月09日 [Jewel Quest](https://ja.wikipedia.org/wiki/Jewel_Quest "wikilink")
+  - 3月16日 [フィーディング フレンジー](https://ja.wikipedia.org/wiki/フィーディング_フレンジー "wikilink")
+  - 3月23日 [Astropop](https://ja.wikipedia.org/wiki/Astropop "wikilink")
+  - 5月10日 [UNO](../Page/UNO_\(ゲーム\).md "wikilink")（マイクロソフト） - Xbox LIVE ビジョンに無料ダウンロードコードが付属。2014年12月末、配信終了。
+  - 7月12日 [フロッガー](../Page/フロッガー_\(ゲーム\).md "wikilink")
+  - 7月19日 [クローニング クライド](https://ja.wikipedia.org/wiki/クローニング_クライド "wikilink")
+  - 7月26日 [ギャラガ](../Page/ギャラガ.md "wikilink")
+  - 8月09日 [パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")
+  - 8月30日 [タイムパイロット](../Page/タイムパイロット.md "wikilink")
+  - 9月13日 [スクランブル](../Page/スクランブル_\(ゲーム\).md "wikilink")
+  - 9月28日 [ドゥーム](../Page/DOOM.md "wikilink")
+  - 10月11日 [ディグダグ](../Page/ディグダグ.md "wikilink")
+  - 11月02日 [TotemBall](https://ja.wikipedia.org/wiki/TotemBall "wikilink")（マイクロソフト） - 無料。ライブカメラ必須。
+  - 11月08日 [魂斗羅](https://ja.wikipedia.org/wiki/魂斗羅 "wikilink")
+  - 11月22日 [Small Arms](https://ja.wikipedia.org/wiki/Small_Arms "wikilink")
+  - 12月06日 [RoboBlitz](https://ja.wikipedia.org/wiki/RoboBlitz "wikilink")
+  - 12月13日 [Assault Heroes](https://ja.wikipedia.org/wiki/Assault_Heroes "wikilink")
+  - 12月20日 [Novadrome](https://ja.wikipedia.org/wiki/Novadrome "wikilink")
+  - 12月27日 [ニューラリーX](https://ja.wikipedia.org/wiki/ニューラリーX "wikilink")
+
+## 2007年（全51タイトル）
+
+  - 1月10日 [ミズ・パックマン](../Page/ミズ・パックマン.md "wikilink")
+  - 1月17日 [Heavy Weapon: Atomic Tank](https://ja.wikipedia.org/wiki/Heavy_Weapon:_Atomic_Tank "wikilink")
+  - 2月14日 [Paperboy](../Page/ペーパーボーイ.md "wikilink")
+  - 2月28日 [Alien Hominid](https://ja.wikipedia.org/wiki/Alien_Hominid "wikilink") HD
+  - 3月07日 [Worms](https://ja.wikipedia.org/wiki/Worms "wikilink")
+  - 3月07日 [LUMINES LIVE\!](../Page/ルミネス.md "wikilink")（マイクロソフト）
+  - 3月28日 [Jetpac Refuelled](../Page/Jetpac.md "wikilink")
+  - 4月04日 [Luxor 2](https://ja.wikipedia.org/wiki/Luxor_2 "wikilink")
+  - 4月18日 [ジャイラス](https://ja.wikipedia.org/wiki/ジャイラス "wikilink") (Gyruss)
+  - 4月18日 [3Dウルトラミニゴルフアドベンチャー](https://ja.wikipedia.org/wiki/3Dウルトラミニゴルフアドベンチャー "wikilink") (3D Ultra Minigolf Adventures)
+  - 4月25日 [Pinball FX](https://ja.wikipedia.org/wiki/Pinball_FX "wikilink")
+  - 4月25日 [Eets:Chowdown](https://ja.wikipedia.org/wiki/Eets:Chowdown "wikilink")
+  - 5月02日 [Catan](../Page/カタンの開拓者たち.md "wikilink")（マイクロソフト） - 2014年6月、配信終了。
+  - 5月09日 [ダブルドラゴン](../Page/ダブルドラゴンシリーズ.md "wikilink") (Double Dragon)
+  - 5月16日 [Soltrio Solitaire 5/16](https://ja.wikipedia.org/wiki/Soltrio_Solitaire_5/16 "wikilink")
+  - 5月23日 [グリーンベレー](../Page/グリーンベレー_\(コナミ\).md "wikilink") (Rush'n Attack)
+  - 5月23日 [ゼビウス](../Page/ゼビウス.md "wikilink") (XEVIOUS)
+  - 5月30日 [Mad Tracks](https://ja.wikipedia.org/wiki/Mad_Tracks "wikilink")
+  - 6月06日 [パックマン チャンピオンシップ エディション](https://ja.wikipedia.org/wiki/パックマン_チャンピオンシップ_エディション "wikilink") (PAC-MAN Championship Edition)
+  - 6月13日 [プリンスオブペルシャ](../Page/プリンス・オブ・ペルシャ.md "wikilink") (Prince of Persia Classic)
+  - 6月20日 [Band of Bugs](https://ja.wikipedia.org/wiki/Band_of_Bugs "wikilink")
+  - 6月27日 [Carcassonne](../Page/カルカソンヌ_\(ゲーム\).md "wikilink")
+  - 7月11日 [Texas Hold'em](../Page/テキサス・ホールデム.md "wikilink")
+  - 7月11日 [ソニック・ザ・ヘッジホッグ](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")
+  - 7月11日 [ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink")
+  - 7月11日 [イーアル カンフー](../Page/イー・アル・カンフー.md "wikilink") (Yie Ar Kung-Fu)
+  - 7月18日 [ボンバーマン ライブ](https://ja.wikipedia.org/wiki/ボンバーマン_ライブ "wikilink") (BOMBERMAN LIVE)
+  - 7月25日 [悪魔城ドラキュラX 月下の夜想曲](../Page/悪魔城ドラキュラX_月下の夜想曲.md "wikilink") - 日本語音声追加版。
+  - 7月25日 [スーパー魂斗羅](https://ja.wikipedia.org/wiki/魂斗羅 "wikilink")
+  - 8月01日 [Marathon Durandal](../Page/Marathon.md "wikilink"):
+  - 8月01日 [Spyglass Board Games](https://ja.wikipedia.org/wiki/Spyglass_Board_Games "wikilink")
+  - 8月08日 [Track & Field](../Page/ハイパーオリンピック.md "wikilink")
+  - 8月15日 [Hexic 2](https://ja.wikipedia.org/wiki/Hexic_2 "wikilink")（マイクロソフト）
+  - 8月15日 [エコー・ザ・ドルフィン](https://ja.wikipedia.org/wiki/エコー・ザ・ドルフィン "wikilink") (Ecco the Dolphin)
+  - 8月22日 [Space Giraffe](https://ja.wikipedia.org/wiki/Space_Giraffe "wikilink")
+  - 8月22日 [Street Trace: NYC](https://ja.wikipedia.org/wiki/Street_Trace:_NYC "wikilink")
+  - 8月29日 [ベア・ナックルII 死闘への鎮魂歌](../Page/ベア・ナックルII_死闘への鎮魂歌.md "wikilink")
+  - 9月05日 [餓狼伝説スペシャル](../Page/餓狼伝説スペシャル.md "wikilink")
+  - 9月12日 [ソニック・ザ・ヘッジホッグ2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")
+  - 9月17日 [Speedball 2: Brutal Deluxe](https://ja.wikipedia.org/wiki/Speedball_2:_Brutal_Deluxe "wikilink")
+  - 9月19日 [Puzzle Quest: Challenge of the Warlords](https://ja.wikipedia.org/wiki/パズルクエスト〜アガリアの騎士〜 "wikilink")
+  - 10月17日 [Every Extend Extra Extreme](../Page/Every_Extend_Extra_Extreme.md "wikilink")
+  - 10月24日 [EXIT](../Page/EXIT_\(ゲーム\).md "wikilink")
+  - 10月24日 [Battlestar Galactica](https://ja.wikipedia.org/wiki/Battlestar_Galactica "wikilink")
+  - 10月31日 [Mutant Storm Empire](https://ja.wikipedia.org/wiki/Mutant_Storm_Empire "wikilink")
+  - 11月07日 [Switchball](https://ja.wikipedia.org/wiki/Switchball "wikilink")
+  - 11月07日 [Word Puzzle](https://ja.wikipedia.org/wiki/Word_Puzzle "wikilink")
+  - 11月21日 [Undertow](https://ja.wikipedia.org/wiki/Undertow "wikilink")
+  - 12月12日 [GripShift](https://ja.wikipedia.org/wiki/GripShift "wikilink")
+  - 12月20日 [Boom Boom Rocket](https://ja.wikipedia.org/wiki/Boom_Boom_Rocket "wikilink")
+
+## 2008年（全49タイトル）
+
+  - 1月02日 [メタルスラッグ3](https://ja.wikipedia.org/wiki/メタルスラッグ3 "wikilink")
+  - 1月09日 [オメガファイブ](https://ja.wikipedia.org/wiki/オメガファイブ "wikilink")
+  - 1月30日 [Rez HD](https://ja.wikipedia.org/wiki/Rez_HD "wikilink")（[キューエンタテインメント](../Page/キューエンタテインメント.md "wikilink")）
+  - 2月06日 [Poker Smash](https://ja.wikipedia.org/wiki/Poker_Smash "wikilink")
+  - 2月20日 [N＋](https://ja.wikipedia.org/wiki/N＋ "wikilink")
+  - 2月27日 [トリガーハート エグゼリカ](../Page/トリガーハート_エグゼリカ.md "wikilink")
+  - 3月12日 [Brain Challenge](https://ja.wikipedia.org/wiki/Brain_Challenge "wikilink")
+  - 3月26日 [TiQal](https://ja.wikipedia.org/wiki/TiQal "wikilink")
+  - 4月02日 [ミスタードリラー オンライン](../Page/ミスタードリラー.md "wikilink")
+  - 4月09日 [斑鳩](../Page/斑鳩_\(シューティングゲーム\).md "wikilink")（マイクロソフト）
+  - 4月16日 [Rocky & Bullwinkle](https://ja.wikipedia.org/wiki/Rocky_&_Bullwinkle "wikilink")
+  - 5月14日 [Assault Heroes 2](https://ja.wikipedia.org/wiki/Assault_Heroes_2 "wikilink")
+  - 5月21日 [Penny Arcade Adventures](https://ja.wikipedia.org/wiki/Penny_Arcade_Adventures "wikilink")
+  - 5月28日 [Buku 数字パズル](https://ja.wikipedia.org/wiki/Buku_数字パズル "wikilink")
+  - 6月04日 [Aces of the Galaxy](https://ja.wikipedia.org/wiki/Aces_of_the_Galaxy "wikilink")
+  - 6月11日 [Frogger2](../Page/フロッガー_\(ゲーム\).md "wikilink")
+  - 6月18日 [Sealife Safari](https://ja.wikipedia.org/wiki/Sealife_Safari "wikilink")
+  - 6月25日 [Ticket to Ride](../Page/チケット・トゥ・ライド.md "wikilink")
+  - 7月02日 [SOULCALIBUR](../Page/ソウルキャリバー.md "wikilink")
+  - 7月09日 [Golf: Tee It Up\!](https://ja.wikipedia.org/wiki/Golf:_Tee_It_Up! "wikilink")
+  - 7月09日 [Schizoid](https://ja.wikipedia.org/wiki/Schizoid "wikilink")
+  - 7月16日 [Coffeetime Crosswords](https://ja.wikipedia.org/wiki/Coffeetime_Crosswords "wikilink")
+  - 7月16日 [Double D Dodgeball](https://ja.wikipedia.org/wiki/Double_D_Dodgeball "wikilink")
+  - 7月23日 [Go\! Go\! Break Steady](https://ja.wikipedia.org/wiki/Go!_Go!_Break_Steady "wikilink")
+  - 7月23日 [Shotest Shogi](https://ja.wikipedia.org/wiki/Shotest "wikilink")
+  - 7月30日 [Geometry Wars: Retro Evolved 2](https://ja.wikipedia.org/wiki/Geometry_Wars:_Retro_Evolved_2 "wikilink")
+  - 8月06日 [Braid](https://ja.wikipedia.org/wiki/Braid_\(ビデオゲーム\) "wikilink")
+  - 8月13日 [バイオニックコマンドーマスター D 復活計画](../Page/トップシークレット_\(ゲーム\).md "wikilink")
+  - 8月13日 [Fable II パブ ゲーム](https://ja.wikipedia.org/wiki/Fable_II "wikilink")
+  - 8月20日 [Galaga Legions](https://ja.wikipedia.org/wiki/ギャラガレギオンズ "wikilink")
+  - 8月27日 [Castle Crashers](https://ja.wikipedia.org/wiki/Castle_Crashers "wikilink")
+  - 9月03日 [Shred Nebula](https://ja.wikipedia.org/wiki/Shred_Nebula "wikilink")
+  - 9月03日 [Gin Rummy](https://ja.wikipedia.org/wiki/Gin_Rummy "wikilink")
+  - 9月10日 [真SAMURAI SPIRITS 覇王丸地獄変](https://ja.wikipedia.org/wiki/真SAMURAI_SPIRITS_覇王丸地獄変 "wikilink")
+  - 9月10日 [RocketBowl](https://ja.wikipedia.org/wiki/RocketBowl "wikilink")
+  - 9月17日 [Feeding Frenzy 2](https://ja.wikipedia.org/wiki/Feeding_Frenzy_2 "wikilink")
+  - 9月17日 [Domino Master](https://ja.wikipedia.org/wiki/Domino_Master "wikilink")
+  - 10月08日 [Beat'n Groovy](https://ja.wikipedia.org/wiki/Beat'n_Groovy "wikilink")
+  - 10月08日 [Shadow Assault 〜TENCHU〜](https://ja.wikipedia.org/wiki/天誅_\(ゲーム\) "wikilink")
+  - 10月15日 [Crazy Mouse](https://ja.wikipedia.org/wiki/Crazy_Mouse "wikilink")
+  - 10月22日 [Portal: Still Alive](https://ja.wikipedia.org/wiki/Portal:_Still_Alive "wikilink")
+  - 10月29日 [Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness, Episode Two](https://ja.wikipedia.org/wiki/Penny_Arcade_Adventures:_On_the_Rain-Slick_Precipice_of_Darkness,_Episode_Two "wikilink")
+  - 11月05日 [Vigilante 8 Arcade](https://ja.wikipedia.org/wiki/Vigilante_8_Arcade "wikilink")
+  - 11月19日 [A Kingdom for Keflings](https://ja.wikipedia.org/wiki/A_Kingdom_for_Keflings "wikilink")
+  - 12月03日 [バンジョーとカズーイの大冒険](https://ja.wikipedia.org/wiki/バンジョーとカズーイの大冒険 "wikilink")（マイクロソフト）
+  - 12月10日 [PowerUp Forever](https://ja.wikipedia.org/wiki/PowerUp_Forever "wikilink")
+  - 12月10日 [メテオスウォーズ](https://ja.wikipedia.org/wiki/メテオスウォーズ "wikilink")（キューエンタテインメント）
+  - 12月17日 [Dash of Destruction](https://ja.wikipedia.org/wiki/Dash_of_Destruction "wikilink")
+
+## 2009年（全60タイトル）
+
+  - 1月07日 [Interpol](https://ja.wikipedia.org/wiki/Interpol "wikilink")
+  - 1月21日 [The Maw](https://ja.wikipedia.org/wiki/The_Maw "wikilink")
+  - 1月28日 [FunTown Mahjong](https://ja.wikipedia.org/wiki/FunTown_Mahjong "wikilink")
+  - 2月04日 [R-Type Dimensions](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")
+  - 2月11日 [3 on 3 NHL Arcade](https://ja.wikipedia.org/wiki/3_on_3_NHL_Arcade "wikilink")
+  - 2月11日 [Minesweeper Flags](../Page/マインスイーパ.md "wikilink")
+  - 2月18日 [Death Tank](https://ja.wikipedia.org/wiki/Death_Tank "wikilink")
+  - 2月25日 [EXIT 2](../Page/EXIT_\(ゲーム\).md "wikilink")
+  - 3月11日 [Peggle](https://ja.wikipedia.org/wiki/Peggle "wikilink")
+  - 3月11日 [クリスタル・ディフェンダーズ](../Page/クリスタル_ガーディアンズ.md "wikilink")
+  - 3月25日 [UNO RUSH](https://ja.wikipedia.org/wiki/UNO_RUSH "wikilink")
+  - 4月01日 [The Dishwasher: Dead Samurai](https://ja.wikipedia.org/wiki/The_Dishwasher:_Dead_Samurai "wikilink")
+  - 4月08日 [Puzzle Quest: Galactrix](https://ja.wikipedia.org/wiki/Puzzle_Quest:_Galactrix "wikilink")
+  - 4月22日 [ロードランナー](../Page/ロードランナー.md "wikilink")
+  - 4月29日 [バンジョーとカズーイの大冒険2](../Page/バンジョーとカズーイの大冒険2.md "wikilink")
+  - 4月29日 [電脳戦機バーチャロン オラトリオ・タングラムVer5.66](../Page/電脳戦機バーチャロン.md "wikilink")
+  - 5月06日 [Space Invaders Extreme](../Page/スペースインベーダー.md "wikilink")
+  - 5月06日 [ARKANOID Live\!](../Page/アルカノイド.md "wikilink")
+  - 5月06日 [Zombie Wranglers](https://ja.wikipedia.org/wiki/Zombie_Wranglers "wikilink")
+  - 5月13日 [Texas Cheat 'Em](https://ja.wikipedia.org/wiki/Texas_Cheat_'Em "wikilink")
+  - 5月20日 [Blazing Birds](https://ja.wikipedia.org/wiki/Blazing_Birds "wikilink")
+  - 5月20日 [Gel: Set & Match](https://ja.wikipedia.org/wiki/Gel:_Set_&_Match "wikilink")
+  - 6月10日 [ガンスターヒーローズ](../Page/ガンスターヒーローズ.md "wikilink")
+  - 6月10日 [ソニック・ザ・ヘッジホッグ3](../Page/ソニック・ザ・ヘッジホッグ3.md "wikilink")
+  - 6月10日 [獣王記](../Page/獣王記.md "wikilink")
+  - 6月10日 [SHINOBI 忍](https://ja.wikipedia.org/wiki/SHINOBI_忍 "wikilink")
+  - 6月10日 [コミックスゾーン](../Page/コミックスゾーン.md "wikilink")
+  - 6月10日 [ファンタシースターII 還らざる時の終わりに](../Page/ファンタシースターII_還らざる時の終わりに.md "wikilink")
+  - 6月17日 [Magic: The Gathering - Duels of the Planeswalkers](https://ja.wikipedia.org/wiki/Magic:_The_Gathering_-_Duels_of_the_Planeswalkers "wikilink")
+  - 6月24日 [ロックマン9 野望の復活\!\!](https://ja.wikipedia.org/wiki/ロックマン9_野望の復活!! "wikilink")
+  - 6月24日 [餓狼 MARK OF THE WOLVES](../Page/餓狼_MARK_OF_THE_WOLVES.md "wikilink")
+  - 7月01日 [THE KING OF FIGHTERS’98 ULTIMATE MATCH](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")
+  - 7月01日 [Worms 2: Armageddon](https://ja.wikipedia.org/wiki/Worms_2:_Armageddon "wikilink")
+  - 7月08日 [Battlefield 1943](https://ja.wikipedia.org/wiki/バトルフィールド1943 "wikilink")
+  - 7月15日 [Madballs Babo:Invasion](https://ja.wikipedia.org/wiki/Madballs_Babo:Invasion "wikilink")
+  - 7月22日 [Splosion Man](https://ja.wikipedia.org/wiki/Splosion_Man "wikilink")
+  - 7月29日 [MARVEL VS. CAPCOM 2: New Age of Heroes](../Page/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES.md "wikilink")
+  - 8月5日 [BUBBLE BOBBLE Neo\!](../Page/バブルボブル.md "wikilink")
+  - 8月12日 [Trials HD](https://ja.wikipedia.org/wiki/Trials_HD "wikilink")
+  - 8月19日 [Shadow Complex](https://ja.wikipedia.org/wiki/Shadow_Complex "wikilink")
+  - 8月26日 [Invincible Tiger: The Legend of Han Tao](https://ja.wikipedia.org/wiki/Invincible_Tiger:_The_Legend_of_Han_Tao "wikilink")
+  - 9月2日 [Yo-Ho Kablammo](https://ja.wikipedia.org/wiki/Yo-Ho_Kablammo "wikilink")
+  - 9月2日 [Defense Grid: The Awakening](https://ja.wikipedia.org/wiki/Defense_Grid:_The_Awakening "wikilink")
+  - 9月9日 [ソニック&ナックルズ](../Page/ソニック&ナックルズ.md "wikilink")
+  - 9月23日 [イオン アソルト](https://ja.wikipedia.org/wiki/イオン_アソルト "wikilink")
+  - 9月30日 [PUZZLE BOBBLE Live\!](../Page/パズルボブル.md "wikilink")
+  - 10月07日 [SOUTH PARK LET'S GO TOWER DEFENSE PLAY\!](../Page/サウスパーク.md "wikilink")
+  - 10月16日 [Magic: The Gathering](../Page/マジック:ザ・ギャザリング.md "wikilink")
+  - 10月21日 [Tower Bloxx Deluxe](https://ja.wikipedia.org/wiki/Tower_Bloxx_Deluxe "wikilink")
+  - 10月28日 [RAINBOW ISLANDS: TOWERING ADVENTURE\!](../Page/レインボーアイランド.md "wikilink")
+  - 11月11日 [0D Beat Drop](https://ja.wikipedia.org/wiki/0D_Beat_Drop "wikilink")
+  - 11月11日 [NBA UNRIVALED](https://ja.wikipedia.org/wiki/NBA_UNRIVALED "wikilink")
+  - 11月11日 [EnclevermentExperiment](https://ja.wikipedia.org/wiki/EnclevermentExperiment "wikilink")
+  - 11月18日 [Gyromancer](https://ja.wikipedia.org/wiki/Gyromancer "wikilink")
+  - 11月18日 [Diner Dash](https://ja.wikipedia.org/wiki/Diner_Dash "wikilink")
+  - 11月18日 [Hasbro Family Game Night](https://ja.wikipedia.org/wiki/Hasbro_Family_Game_Night "wikilink")
+  - 11月25日 [Madden NFL Arcade](https://ja.wikipedia.org/wiki/Madden_NFL_Arcade "wikilink")
+  - 12月9日 [QIX](../Page/QIX.md "wikilink")++
+  - 12月16日 [Alien Breedエピソード](https://ja.wikipedia.org/wiki/Alien_Breed "wikilink")1
+  - 12月23日 [0 Day Attack on Earth™](https://ja.wikipedia.org/wiki/0_Day_Attack_on_Earth™ "wikilink")
+
+## 2010年（全58タイトル）
+
+  - 1月20日 [DEATH BY CUBE](https://ja.wikipedia.org/wiki/DEATH_BY_CUBE "wikilink")
+  - 1月20日 [ヴァンダルハーツ](https://ja.wikipedia.org/wiki/ヴァンダルハーツ "wikilink")
+  - 2月10日 [Darwinia+](https://ja.wikipedia.org/wiki/Darwinia+ "wikilink")
+  - 2月17日 [Matt Hazard: Blood Bath and Beyond™](https://ja.wikipedia.org/wiki/Matt_Hazard:_Blood_Bath_and_Beyond™ "wikilink")
+  - 2月24日 [Lazy Raiders](https://ja.wikipedia.org/wiki/Lazy_Raiders "wikilink")
+  - 3月3日 [TOY SOLDIERS](https://ja.wikipedia.org/wiki/TOY_SOLDIERS "wikilink")
+  - 3月10日 [Scrap Metal™](https://ja.wikipedia.org/wiki/Scrap_Metal™ "wikilink")
+  - 3月24日 [Game Room](https://ja.wikipedia.org/wiki/Game_Room "wikilink")（マイクロソフト）
+  - 3月31日 [ロックマン10 宇宙からの脅威\!\!](https://ja.wikipedia.org/wiki/ロックマン10_宇宙からの脅威!! "wikilink")
+  - 4月21日 [アフターバーナー クライマックス](../Page/アフターバーナー_クライマックス.md "wikilink")
+  - 5月5日 [レイストーム HD](../Page/レイストーム.md "wikilink")
+  - 5月12日 [Rocket Knight](https://ja.wikipedia.org/wiki/Rocket_Knight "wikilink")
+  - 5月12日 [Things on Wheels - ToW -](https://ja.wikipedia.org/wiki/Things_on_Wheels_-_ToW_- "wikilink")
+  - 5月19日 [メタルスラッグXX](https://ja.wikipedia.org/wiki/メタルスラッグ#メタルスラッグXX "wikilink")
+  - 5月19日 [AQUA](../Page/AQUA.md "wikilink")
+  - 5月26日 [DOOM II](https://ja.wikipedia.org/wiki/DOOM_II "wikilink")
+  - 6月2日 [Snoopy Flying Ace](https://ja.wikipedia.org/wiki/Snoopy_Flying_Ace "wikilink")
+  - 6月9日 [ネオジオバトルコロシアム](../Page/ネオジオバトルコロシアム.md "wikilink") NEOGEO BATTLE COLISEUM
+  - 6月9日 [Earthworm Jim HD](https://ja.wikipedia.org/wiki/Earthworm_Jim_HD "wikilink")
+  - 6月16日 [Space Ark](https://ja.wikipedia.org/wiki/Space_Ark "wikilink")
+  - 6月23日 [RISK: FACTIONS](https://ja.wikipedia.org/wiki/RISK:_FACTIONS "wikilink")
+  - 6月30日 [Ancients of Ooga](https://ja.wikipedia.org/wiki/Ancients_of_Ooga "wikilink")
+  - 7月7日 [Monkey Island 2 Special Edition: LeChuck's Revenge](https://ja.wikipedia.org/wiki/Monkey_Island_2_Special_Edition:_LeChuck's_Revenge "wikilink")
+  - 7月21日 [LIMBO](https://ja.wikipedia.org/wiki/LIMBO_\(コンピュータゲーム\) "wikilink")
+  - 7月28日 [Hydro Thunder Hurricane](https://ja.wikipedia.org/wiki/Hydro_Thunder_Hurricane "wikilink")
+  - 8月4日 [悪魔城ドラキュラ Harmony of Despair](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_ハーモニー_オブ_ディスペアー "wikilink")
+  - 8月11日 [Monday Night Combat](https://ja.wikipedia.org/wiki/Monday_Night_Combat "wikilink")
+  - 8月18日 [ララ・クロフト アンド ガーディアン オブ ライト](../Page/トゥームレイダー.md "wikilink")
+  - 9月8日 [デッドライジング2](https://ja.wikipedia.org/wiki/デッドライジング2 "wikilink")：CASE 0
+  - 9月8日 [プラントVSゾンビ](https://ja.wikipedia.org/wiki/Plants_vs._Zombies "wikilink")
+  - 9月15日 [SPACE INVADERS INFINITY GENE](../Page/スペースインベーダー.md "wikilink")
+  - 9月15日 [KOF SKY STAGE](https://ja.wikipedia.org/wiki/KOF_SKY_STAGE "wikilink")
+  - 9月22日 [Alien Breed 2: Assault](https://ja.wikipedia.org/wiki/Alien_Breed_2:_Assault "wikilink")
+  - 9月22日 [BLACKLIGHT: TANGO DOWN](https://ja.wikipedia.org/wiki/BLACKLIGHT:_TANGO_DOWN "wikilink")
+  - 9月29日 [ソニックアドベンチャー](../Page/ソニックアドベンチャー.md "wikilink")
+  - 9月29日 [Hydrophobia](https://ja.wikipedia.org/wiki/Hydrophobia "wikilink")
+  - 10月6日 [Comic Jumper](https://ja.wikipedia.org/wiki/Comic_Jumper "wikilink")
+  - 10月13日 [ソニック・ザ・ヘッジホッグ4](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ4 "wikilink") エピソードI
+  - 10月20日 [スコット・ピルグリムVS.ザ・ワールド:_ザ・ゲーム](https://ja.wikipedia.org/wiki/スコット・ピルグリムVS.ザ・ワールド:_ザ・ゲーム "wikilink")
+  - 10月20日 [Super Meat Boy](https://ja.wikipedia.org/wiki/Super_Meat_Boy "wikilink")
+  - 10月27日 [Pinball FX 2](https://ja.wikipedia.org/wiki/:en:Pinball_FX_2 "wikilink")
+  - 11月3日 [THE KING OF FIGHTERS 2002 UNLIMITED MATCH](https://ja.wikipedia.org/wiki/THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH "wikilink")
+  - 11月3日 [遊戯王 5D’s ディケイド デュエルズ](https://ja.wikipedia.org/wiki/遊戯王_5D’s_ディケイド_デュエルズ "wikilink")
+  - 11月10日 [ぐわんげ](../Page/ぐわんげ.md "wikilink")
+  - 11月17日 [パックマン チャンピオンシップ エディション](https://ja.wikipedia.org/wiki/パックマン_チャンピオンシップ_エディション "wikilink") DX
+  - 11月17日 [Alien Breed 3: Descent](https://ja.wikipedia.org/wiki/Alien_Breed_3:_Descent "wikilink")
+  - 11月24日 [クレイジータクシー](../Page/クレイジータクシー.md "wikilink")
+  - 11月24日 [Voodoo Dice](https://ja.wikipedia.org/wiki/Voodoo_Dice "wikilink")
+  - 12月1日 [Unbound Saga](https://ja.wikipedia.org/wiki/Unbound_Saga "wikilink")
+  - 12月8日 [Bomberman Live: Battlefest](https://ja.wikipedia.org/wiki/Bomberman_Live:_Battlefest "wikilink")
+  - 12月8日 [Doritos Crash Course](https://ja.wikipedia.org/wiki/Doritos_Crash_Course "wikilink")（マイクロソフト） - 無料。
+  - 12月8日 [Harms Way](https://ja.wikipedia.org/wiki/Harms_Way "wikilink")（マイクロソフト） - 無料。
+  - 12月15日 [クエークアリーナアーケード](https://ja.wikipedia.org/wiki/クエークアリーナアーケード "wikilink")
+  - 12月15日 [The Path of Go](https://ja.wikipedia.org/wiki/The_Path_of_Go "wikilink")
+  - 12月22日 [A World of Keflings](https://ja.wikipedia.org/wiki/A_World_of_Keflings "wikilink")
+  - 12月27日 [デッドライジング2:CASE WEST](https://ja.wikipedia.org/wiki/デッドライジング2:CASE_WEST "wikilink") - クレジットカードでのみ購入可。
+  - 12月29日 [Raskulls](https://ja.wikipedia.org/wiki/Raskulls "wikilink")
+  - 12月29日 [Microbot](https://ja.wikipedia.org/wiki/Microbot "wikilink")
+
+## 2011年（全45タイトル）
+
+  - 1月5日 [ilomilo](https://ja.wikipedia.org/wiki/ilomilo "wikilink")
+  - 1月19日 [Spare Parts](https://ja.wikipedia.org/wiki/Spare_Parts "wikilink")
+  - 2月16日 [Hard Corps: Uprising](https://ja.wikipedia.org/wiki/Hard_Corps:_Uprising "wikilink")
+  - 2月23日 [ビジュエルド･ブリッツ LIVE](https://ja.wikipedia.org/wiki/ビジュエルド･ブリッツ_LIVE "wikilink")
+  - 3月23日 [Swarm](https://ja.wikipedia.org/wiki/Swarm "wikilink")
+  - 3月30日 [Islands of Wakfu](https://ja.wikipedia.org/wiki/Islands_of_Wakfu "wikilink")
+  - 3月30日 [星霜鋼機ストラニア](https://ja.wikipedia.org/wiki/星霜鋼機ストラニア "wikilink")
+  - 4月6日 [The Dishwasher: Vampire Smile](https://ja.wikipedia.org/wiki/The_Dishwasher:_Vampire_Smile "wikilink")
+  - 4月6日 [Red Faction: Battlegrounds](https://ja.wikipedia.org/wiki/Red_Faction:_Battlegrounds "wikilink")
+  - 4月20日 [The Fancy Pants Adventures](https://ja.wikipedia.org/wiki/The_Fancy_Pants_Adventures "wikilink")
+  - 4月20日 [Section 8: Prejudice](https://ja.wikipedia.org/wiki/Section_8:_Prejudice "wikilink")
+  - 4月27日 [NIN2-JUMP](https://ja.wikipedia.org/wiki/NIN2-JUMP "wikilink")
+  - 4月27日 [トラブル☆ウィッチーズ](https://ja.wikipedia.org/wiki/トラブル☆ウィッチーズ "wikilink")ねぉ！
+  - 5月4日 [BANGAI-O HD Missile Fury](https://ja.wikipedia.org/wiki/BANGAI-O_HD_Missile_Fury "wikilink")
+  - 5月4日 [MOON DIVER](https://ja.wikipedia.org/wiki/MOON_DIVER "wikilink")
+  - 6月15日 [Magic: The Gathering – Duels of the Planeswalkers 2012](../Page/マジック:ザ・ギャザリング.md "wikilink")
+  - 6月22日 [Iron Brigade](https://ja.wikipedia.org/wiki/Iron_Brigade "wikilink")（マイクロソフト）
+  - 6月22日 [Trenched](https://ja.wikipedia.org/wiki/Trenched "wikilink")
+  - 6月29日 [BackBreaker Vengeance](https://ja.wikipedia.org/wiki/BackBreaker_Vengeance "wikilink")
+  - 6月29日 [Galaga Legions DX](https://ja.wikipedia.org/wiki/ギャラガレギオンズ "wikilink")
+  - 6月29日 [HALF-MINUTE HERO -Super Mega Neo Climax- （勇者 30 ）](https://ja.wikipedia.org/wiki/勇者30 "wikilink")
+  - 7月6日 [MLB® Bobblehead Pros](https://ja.wikipedia.org/wiki/MLB®_Bobblehead_Pros "wikilink")
+  - 7月13日 [Ms. Splosion Man™](https://ja.wikipedia.org/wiki/Ms._Splosion_Man™ "wikilink")
+  - 7月20日 [Bastion](https://ja.wikipedia.org/wiki/Bastion "wikilink")
+  - 7月27日 [From Dust](https://ja.wikipedia.org/wiki/From_Dust "wikilink")™
+  - 8月3日 [Insanely Twisted Shadow Planet](https://ja.wikipedia.org/wiki/Insanely_Twisted_Shadow_Planet "wikilink")
+  - 8月10日 [Fruit Ninja](https://ja.wikipedia.org/wiki/Fruit_Ninja "wikilink") Kinect
+  - 8月17日 [Toy Soldiers: Cold War](https://ja.wikipedia.org/wiki/Toy_Soldiers:_Cold_War "wikilink")
+  - 8月24日 [Hole In The Wall™](https://ja.wikipedia.org/wiki/Hole_In_The_Wall™ "wikilink")
+  - 8月24日 [ストリートファイターIII 3rd STRIKE ONLINE EDITION](../Page/ストリートファイターIII.md "wikilink")
+  - 9月7日 [Crimson Alliance](https://ja.wikipedia.org/wiki/Crimson_Alliance "wikilink")（マイクロソフト） - 無料。
+  - 9月7日 [Leedmees](https://ja.wikipedia.org/wiki/Leedmees "wikilink")
+  - 9月14日 [レイディアントシルバーガン](../Page/レイディアントシルバーガン.md "wikilink")
+  - 9月21日 [Burnout™ Crash\!](https://ja.wikipedia.org/wiki/Burnout_CRASH! "wikilink")
+  - 9月21日 [Rotastic](https://ja.wikipedia.org/wiki/Rotastic "wikilink")
+  - 9月28日 [MLB® Bobblehead Battle](https://ja.wikipedia.org/wiki/MLB®_Bobblehead_Battle "wikilink")
+  - 9月28日 [Worms™: Ultimate Mayhem](https://ja.wikipedia.org/wiki/Worms™:_Ultimate_Mayhem "wikilink")
+  - 10月5日 [Space Channel 5 Part 2](../Page/スペースチャンネル5.md "wikilink")
+  - 10月5日 [ゲットバス](https://ja.wikipedia.org/wiki/ゲットバス "wikilink")
+  - 10月5日 [Orcs Must Die\!](https://ja.wikipedia.org/wiki/Orcs_Must_Die! "wikilink")
+  - 10月12日 [ガーディアンヒーローズ](../Page/ガーディアンヒーローズ.md "wikilink")HD
+  - 10月12日 [REAL STEEL](https://ja.wikipedia.org/wiki/REAL_STEEL "wikilink")
+  - 10月19日 [ビジュエルド3](https://ja.wikipedia.org/wiki/ビジュエルド3 "wikilink")
+  - 10月26日 [DAYTONA USA](../Page/デイトナUSA.md "wikilink")
+  - 11月2日 [BurgerTime World Tour](https://ja.wikipedia.org/wiki/BurgerTime_World_Tour "wikilink")
+  - 12月4日 [ソニック・ザ・ヘッジホッグCD](../Page/ソニック・ザ・ヘッジホッグCD.md "wikilink")
+  - 12月14日 [Joe Danger Special Edition](https://ja.wikipedia.org/wiki/Joe_Danger_Special_Edition "wikilink")
+
+## 2012年
+
+  - 1月4日 [NFL Blitz](https://ja.wikipedia.org/wiki/NFL_Blitz "wikilink")
+  - 1月11日 [Choplifter HD](https://ja.wikipedia.org/wiki/Choplifter_HD "wikilink")
+  - 1月11日 [AMY](https://ja.wikipedia.org/wiki/AMY "wikilink") - 日本未配信。
+  - 1月18日 [Scarygirl](https://ja.wikipedia.org/wiki/Scarygirl "wikilink")
+  - 1月18日
+  - 1月25日 [Puddle](https://ja.wikipedia.org/wiki/Puddle "wikilink")
+  - 1月25日 [Quarrel](https://ja.wikipedia.org/wiki/Quarrel "wikilink")
+  - 2月1日 [BOOM BOOM DANCE](https://ja.wikipedia.org/wiki/BOOM_BOOM_DANCE "wikilink")
+  - 2月1日 [Double Fine Happy Action Theater](https://ja.wikipedia.org/wiki/Double_Fine_Happy_Action_Theater "wikilink")
+  - 2月3日 [The Simpsons Arcade Game](https://ja.wikipedia.org/wiki/The_Simpsons_Arcade_Game "wikilink") - 日本未配信。
+  - 2月8日 [Gotham City Impostors](https://ja.wikipedia.org/wiki/Gotham_City_Impostors "wikilink") - 日本未配信。
+  - 2月8日 [Shank 2](https://ja.wikipedia.org/wiki/Shank_2 "wikilink")
+  - 2月15日 [Warp](https://ja.wikipedia.org/wiki/Warp "wikilink") - 日本未配信。
+  - 2月22日 [Alan Wake's American Nightmare](https://ja.wikipedia.org/wiki/Alan_Wake's_American_Nightmare "wikilink")
+  - 2月29日 [Nexuiz](https://ja.wikipedia.org/wiki/Nexuiz "wikilink")
+  - 3月7日 [I Am Alive](https://ja.wikipedia.org/wiki/I_Am_Alive "wikilink") - 日本未配信。
+  - 3月14日 [Defenders of Ardania](https://ja.wikipedia.org/wiki/Defenders_of_Ardania "wikilink")
+  - 3月14日 [Shoot Many Robots](https://ja.wikipedia.org/wiki/Shoot_Many_Robots "wikilink")
+  - 3月21日 [Sine Mora](https://ja.wikipedia.org/wiki/Sine_Mora "wikilink")
+  - 3月21日 [Rayman 3 HD](https://ja.wikipedia.org/wiki/Rayman_3_HD "wikilink") - 日本未配信。
+  - 3月28日 [Wrecked: Revenge Revisite](https://ja.wikipedia.org/wiki/Wrecked:_Revenge_Revisite "wikilink")
+  - 3月30日 [South Park: Tenorman's Revenge](https://ja.wikipedia.org/wiki/South_Park:_Tenorman's_Revenge "wikilink")
+  - 4月4日 [Diabolical Pitch](https://ja.wikipedia.org/wiki/Diabolical_Pitch "wikilink")
+  - 4月4日 [The Pinball Arcade](https://ja.wikipedia.org/wiki/The_Pinball_Arcade "wikilink")
+  - 4月6日 [Anomaly: Warzone Earth](https://ja.wikipedia.org/wiki/Anomaly:_Warzone_Earth "wikilink")
+  - 4月11日 [The Splatters](https://ja.wikipedia.org/wiki/The_Splatters "wikilink")
+  - 4月11日 [スカルガールズ](https://ja.wikipedia.org/wiki/スカルガールズ "wikilink") - 日本未配信。
+  - 4月11日 [World Gone Sour](https://ja.wikipedia.org/wiki/World_Gone_Sour "wikilink")
+  - 4月13日 [Fez](https://ja.wikipedia.org/wiki/Fez "wikilink")
+  - 4月18日 [Trials Evolution](https://ja.wikipedia.org/wiki/Trials_Evolution "wikilink")
+  - 4月25日 [Bloodforge](https://ja.wikipedia.org/wiki/Bloodforge "wikilink") - 日本未配信。
+  - 4月25日 [Deep Black: Episode 1](https://ja.wikipedia.org/wiki/Deep_Black:_Episode_1 "wikilink")
+  - 4月27日 [The Walking Dead - Episode 1: A New Day](https://ja.wikipedia.org/wiki/The_Walking_Dead_-_Episode_1:_A_New_Day "wikilink") - 日本未配信。
+  - 5月2日 [Fable Heroes](https://ja.wikipedia.org/wiki/Fable_Heroes "wikilink")
+  - 5月2日 [Awesomenauts](https://ja.wikipedia.org/wiki/Awesomenauts "wikilink")
+  - 5月9日 [Minecraft Xbox 360](https://ja.wikipedia.org/wiki/Minecraft "wikilink"):
+  - 5月16日 [ソニック・ザ・ヘッジホッグ4 エピソード2](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグ4 "wikilink")
+  - 5月16日 [JAM Live Music Arcade](https://ja.wikipedia.org/wiki/JAM_Live_Music_Arcade "wikilink")
+  - 5月18日 [ドラゴンズレア](../Page/ドラゴンズレア.md "wikilink")
+  - 5月23日 [モンスターワールドコレクション](https://ja.wikipedia.org/wiki/モンスターワールドコレクション "wikilink") - [ワンダーボーイ モンスターランド](https://ja.wikipedia.org/wiki/ワンダーボーイ_モンスターランド "wikilink")、[ワンダーボーイV モンスターワールドIII](https://ja.wikipedia.org/wiki/ワンダーボーイV_モンスターワールドIII "wikilink")、[モンスターワールドIV](https://ja.wikipedia.org/wiki/モンスターワールドIV "wikilink")を収録。
+  - 5月23日 [セガクラシックコレクション](https://ja.wikipedia.org/wiki/セガクラシックコレクション "wikilink") - [アレックスキッドのミラクルワールド](https://ja.wikipedia.org/wiki/アレックスキッドのミラクルワールド "wikilink")、[ザ・スーパー忍](https://ja.wikipedia.org/wiki/ザ・スーパー忍 "wikilink")、[スーパーハングオン](https://ja.wikipedia.org/wiki/スーパーハングオン "wikilink")を収録。
+  - 5月23日 [Joy Ride Turbo](https://ja.wikipedia.org/wiki/Joy_Ride_Turbo "wikilink")
+  - 5月30日 [Mad Riders](https://ja.wikipedia.org/wiki/Mad_Riders "wikilink")
+  - 5月30日 [ベア・ナックルコレクション](https://ja.wikipedia.org/wiki/ベア・ナックルコレクション "wikilink") - [ベア・ナックル 怒りの鉄拳](https://ja.wikipedia.org/wiki/ベア・ナックル_怒りの鉄拳 "wikilink")、[ベア・ナックルII 死闘への鎮魂歌](../Page/ベア・ナックルII_死闘への鎮魂歌.md "wikilink")、[ベア・ナックルIII](https://ja.wikipedia.org/wiki/ベア・ナックルIII "wikilink")を収録。
+  - 5月30日 [ゴールデンアックスコレクション](https://ja.wikipedia.org/wiki/ゴールデンアックスコレクション "wikilink") - [ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink")、[ゴールデンアックスII](https://ja.wikipedia.org/wiki/ゴールデンアックスII "wikilink")、[ゴールデンアックスIII](https://ja.wikipedia.org/wiki/ゴールデンアックスIII "wikilink")を収録。
+  - 6月6日 [バーチャファイター5](../Page/バーチャファイター5.md "wikilink")
+  - 6月6日 [Bang Bang Racing](https://ja.wikipedia.org/wiki/Bang_Bang_Racing "wikilink")
+  - 6月13日 [Babel Rising](https://ja.wikipedia.org/wiki/Babel_Rising "wikilink")
+  - 6月20日 [Magic: The Gathering – Duels of the Planeswalkers 2013](https://ja.wikipedia.org/wiki/Magic:_The_Gathering_–_Duels_of_the_Planeswalkers_2013 "wikilink")
+  - 6月27日 [Jeremy McGrath's Offroad](https://ja.wikipedia.org/wiki/Jeremy_McGrath's_Offroad "wikilink")
+  - 6月29日 [Mini Ninjas Adventures](https://ja.wikipedia.org/wiki/Mini_Ninjas_Adventures "wikilink")
+  - 7月4日 [Spelunky](https://ja.wikipedia.org/wiki/Spelunky "wikilink")
+  - 7月4日 [Bellator: MMA Onslaught](https://ja.wikipedia.org/wiki/Bellator:_MMA_Onslaught "wikilink")
+  - 7月6日 [Frogger: Hyper Arcade Edition](../Page/フロッガー_\(ゲーム\).md "wikilink")
+  - 7月11日 [Zuma Revenge\!](../Page/Zuma.md "wikilink")'s
+  - 7月11日 [Quantum Conundrum](https://ja.wikipedia.org/wiki/Quantum_Conundrum "wikilink")
+  - 7月13日 [Dungeon Fighter Live: Fall of Hendon Myre](https://ja.wikipedia.org/wiki/アラド戦記 "wikilink")
+  - 7月18日 [Tony Hawk's Pro Skater HD](https://ja.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_HD "wikilink")
+  - 7月25日 [Wreckateer](https://ja.wikipedia.org/wiki/Wreckateer "wikilink")
+  - 8月1日 [Deadlight](https://ja.wikipedia.org/wiki/Deadlight "wikilink")
+  - 8月8日 [Hybrid 5th Cell](https://ja.wikipedia.org/wiki/Hybrid_5th_Cell "wikilink")
+  - 8月15日 [Dust: An Elysian Tail](https://ja.wikipedia.org/wiki/Dust:_An_Elysian_Tail "wikilink")
+  - 8月17日 [The Expendables 2 Video Game](https://ja.wikipedia.org/wiki/The_Expendables_2_Video_Game "wikilink")
+  - 8月22日 [Counter-Strike: Global Offensive](https://ja.wikipedia.org/wiki/Counter-Strike:_Global_Offensive "wikilink")
+  - 8月22日 [ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険_\(対戦型格闘ゲーム\).md "wikilink")
+  - 8月29日 [Rock Band Blitz](https://ja.wikipedia.org/wiki/Rock_Band_Blitz "wikilink") - 日本未配信。
+  - 9月5日 [Kung Fu Strike: The Warrior's Rise](https://ja.wikipedia.org/wiki/Kung_Fu_Strike:_The_Warrior's_Rise "wikilink") - 日本未配信。
+  - 9月5日 [Dogfight 1942 City Interactive](https://ja.wikipedia.org/wiki/Dogfight_1942_City_Interactive "wikilink")
+  - 9月7日 [Mark of the Ninja](https://ja.wikipedia.org/wiki/Mark_of_the_Ninja "wikilink")
+  - 9月12日 [Double Dragon Neon](https://ja.wikipedia.org/wiki/Double_Dragon_Neon "wikilink")
+  - 9月12日 [Red Johnson's Chronicles - One Against All](https://ja.wikipedia.org/wiki/Red_Johnson's_Chronicles_-_One_Against_All "wikilink")
+  - 9月14日 [Joe Danger 2: The Movie](https://ja.wikipedia.org/wiki/Joe_Danger_2:_The_Movie "wikilink")
+  - 9月19日 [Realms of Ancient War](https://ja.wikipedia.org/wiki/Realms_of_Ancient_War "wikilink")
+  - 9月21日 [ファイヤープロレスリング](../Page/ファイヤープロレスリング.md "wikilink")
+  - 9月26日 [Hell Yeah\! Wrath of the Dead Rabbit](https://ja.wikipedia.org/wiki/Hell_Yeah!_Wrath_of_the_Dead_Rabbit "wikilink")
+  - 10月5日 [ナイツ](../Page/ナイツ_\(ゲーム\).md "wikilink")
+  - 10月5日 [ソニックアドベンチャー2](../Page/ソニックアドベンチャー2.md "wikilink")
+  - 10月10日 [Naughty Bear: Panic in Paradise](https://ja.wikipedia.org/wiki/Naughty_Bear:_Panic_in_Paradise "wikilink")
+  - 10月10日 [Worms: Revolution](https://ja.wikipedia.org/wiki/Worms:_Revolution "wikilink")
+  - 10月12日 [Happy Wars](https://ja.wikipedia.org/wiki/Happy_Wars "wikilink")（マイクロソフト） - 無料。2018年6月中旬、配信終了。
+  - 10月15日 [Intel Discovered](https://ja.wikipedia.org/wiki/Intel_Discovered "wikilink") - 無料。2014年7月、配信終了。
+  - 10月17日 [Zombie Driver HD](https://ja.wikipedia.org/wiki/Zombie_Driver_HD "wikilink")
+  - 10月17日 [Serious Sam 3: BFE](https://ja.wikipedia.org/wiki/Serious_Sam_3:_BFE "wikilink") - 日本未配信。
+  - 10月24日 [Guilty Gear XX Λ Core Plus](../Page/GUILTY_GEAR_XX.md "wikilink")
+  - 10月26日 [Home Run Stars](https://ja.wikipedia.org/wiki/Home_Run_Stars "wikilink")
+  - 10月31日 [Pid](https://ja.wikipedia.org/wiki/Pid "wikilink")
+  - 10月31日 [Pool Nation](https://ja.wikipedia.org/wiki/Pool_Nation "wikilink")
+  - 11月7日 [カラテカ](../Page/カラテカ_\(ゲーム\).md "wikilink") - 日本未配信。
+  - 11月7日 [トージャム&アールコレクション](https://ja.wikipedia.org/wiki/トージャム&アールコレクション "wikilink") - 、収録。
+  - 11月14日 [Warlords](https://ja.wikipedia.org/wiki/Warlords "wikilink")
+  - 11月14日 [Planets Under Attack](https://ja.wikipedia.org/wiki/Planets_Under_Attack "wikilink")
+  - 11月20日 [Kinect Sports Gems: 3 Point Contest](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 11月20日 [Kinect Sports Gems: Darts vs. Zombies](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 11月20日 [Kinect Sports Gems: Ski Race](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 11月21日 [遊☆戯☆王ファイブディーズ DECADE DUELS](https://ja.wikipedia.org/wiki/遊☆戯☆王デュエルモンスターズ_\(コンピューターゲーム\)#Xbox360 "wikilink")
+  - 11月28日 [ファイティングバイパーズ](../Page/ファイティングバイパーズ.md "wikilink")
+  - 11月28日 [ソニック・ザ・ファイターズ](../Page/ソニック・ザ・ファイターズ.md "wikilink")
+  - 11月28日 [バーチャファイター2](../Page/バーチャファイター2.md "wikilink")
+  - 11月30日 [Red Bull Crashed](https://ja.wikipedia.org/wiki/Red_Bull_Crashed "wikilink")
+  - 12月5日 [Guardians of Middle-earth](https://ja.wikipedia.org/wiki/Guardians_of_Middle-earth "wikilink") - 日本未配信。
+  - 12月12日 [American Mensa Academy](https://ja.wikipedia.org/wiki/American_Mensa_Academy "wikilink") - 日本未配信。
+  - 12月17日 [Kinect Party](https://ja.wikipedia.org/wiki/Kinect_Party "wikilink") - 期間限定無料。日本未配信。
+  - 12月25日 [Kinect Sports Gems: Field Goal Contest](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 12月25日 [Kinect Sports Gems: Prize Driver](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 12月25日 [Kinect Sports Gems: Reaction Rally](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+
+## 2013年
+
+  - 1月20日 [Black Knight Sword](https://ja.wikipedia.org/wiki/Black_Knight_Sword "wikilink")
+  - 1月23日 [The Cave](https://ja.wikipedia.org/wiki/The_Cave "wikilink") - 日本未配信。
+  - 1月30日 [Skulls of the Shogun](https://ja.wikipedia.org/wiki/Skulls_of_the_Shogun "wikilink")
+  - 2月6日 [Special Forces: Team X](https://ja.wikipedia.org/wiki/Special_Forces:_Team_X "wikilink") - 日本未配信。
+  - 2月13日 [電脳戦機バーチャロン](../Page/電脳戦機バーチャロン.md "wikilink") - 日本のみ配信。
+  - 2月13日 [バーチャストライカー](../Page/バーチャストライカー.md "wikilink") - 日本のみ配信。
+  - 2月20日 [Capcom Arcade Cabinet](https://ja.wikipedia.org/wiki/Capcom_Arcade_Cabinet "wikilink") - 『[1943 ミッドウェイ海戦](../Page/1943_ミッドウェイ海戦.md "wikilink")』、『[ブラックドラゴン](https://ja.wikipedia.org/wiki/ブラックドラゴン "wikilink")』、『[必殺 無頼拳](https://ja.wikipedia.org/wiki/必殺_無頼拳 "wikilink")』収録。
+  - 2月20日 [ジェットセットラジオ](../Page/ジェットセットラジオ.md "wikilink")
+  - 2月20日 [Serious Sam Double D: XXL](https://ja.wikipedia.org/wiki/Serious_Sam_Double_D:_XXL "wikilink") - 日本未配信。
+  - 2月27日 [ファントムブレイカー バトルグラウンド](https://ja.wikipedia.org/wiki/ファントムブレイカー#ファントムブレイカー_バトルグラウンド "wikilink")
+  - 3月6日 [Dollar Dash](https://ja.wikipedia.org/wiki/Dollar_Dash "wikilink") - 日本未配信。
+  - 3月8日 [WRC Powerslide](https://ja.wikipedia.org/wiki/WRC_Powerslide "wikilink") - 日本未配信。
+  - 3月12日 [Kinect Sports Gems: 10 Frame Bowling](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 3月12日 [Kinect Sports Gems: Penalty Saver](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 3月12日 [Kinect Sports Gems: Ping Pong](https://ja.wikipedia.org/wiki/Kinect_スポーツ "wikilink") - 日本未配信。
+  - 3月20日 [Alien Spidy](https://ja.wikipedia.org/wiki/Alien_Spidy "wikilink") - 日本未配信。
+  - 3月20日 [Giana Sisters: Twisted Dreams](https://ja.wikipedia.org/wiki/Giana_Sisters:_Twisted_Dreams "wikilink") - 日本未配信。
+  - 3月27日 [Terraria - Xbox 360 Edition](https://ja.wikipedia.org/wiki/Terraria "wikilink") - 日本未配信。
+  - 4月3日 [BattleBlock Theater](https://ja.wikipedia.org/wiki/BattleBlock_Theater "wikilink")
+  - 4月5日 [ダブルドラゴンII ザ・リベンジ](https://ja.wikipedia.org/wiki/ダブルドラゴンシリーズ#ダブルドラゴンII_ザ・リベンジ "wikilink")
+  - 4月10日 [Motocross Madness](https://ja.wikipedia.org/wiki/Motocross_Madness "wikilink")
+  - 4月12日 [Twisted Pixel Games Bundle](https://ja.wikipedia.org/wiki/Twisted_Pixel_Games_Bundle "wikilink") - Comic Jumper, 'Splosion Man, Ms. Splosion Man, The Maw収録。日本未配信。
+  - 4月17日 [Sacred Citadel](https://ja.wikipedia.org/wiki/Sacred_Citadel "wikilink")
+  - 4月19日 [God Mode](https://ja.wikipedia.org/wiki/God_Mode "wikilink") - 日本未配信。
+  - 4月24日 [Poker Night 2](https://ja.wikipedia.org/wiki/Poker_Night_2 "wikilink") - 日本未配信。
+  - 5月1日 [Far Cry 3 Blood Dragon](https://ja.wikipedia.org/wiki/Far_Cry_3_Blood_Dragon "wikilink") - 日本未配信。
+  - 5月3日 [Way of the Dogg](https://ja.wikipedia.org/wiki/Way_of_the_Dogg "wikilink")
+  - 5月8日 [BIT.TRIP Presents… Runner2: Future Legend of Rhyth](https://ja.wikipedia.org/wiki/BIT.TRIP_Presents…_Runner2:_Future_Legend_of_Rhyth "wikilink")
+  - 5月8日 [Crash Course 2](https://ja.wikipedia.org/wiki/Crash_Course_2 "wikilink") - 無料、ゴールド会員専用。
+  - 5月10日 [Monaco: What's Yours is Mine](https://ja.wikipedia.org/wiki/Monaco:_What's_Yours_is_Mine "wikilink") - 日本未配信。
+  - 5月15日 [Sanctum 2](https://ja.wikipedia.org/wiki/Sanctum_2 "wikilink") - 日本未配信。
+  - 5月17日 [Hunter's Trophy 2 - America](https://ja.wikipedia.org/wiki/Hunter's_Trophy_2_-_America "wikilink") - 日本未配信。
+  - 5月22日 [Call of Juarez Gunslinger](https://ja.wikipedia.org/wiki/Call_of_Juarez_Gunslinger "wikilink")
+  - 5月29日 [CastleStorm](https://ja.wikipedia.org/wiki/CastleStorm "wikilink")
+  - 5月29日 [Hunter's Trophy 2 - Australia](https://ja.wikipedia.org/wiki/Hunter's_Trophy_2_-_Australia "wikilink") - 日本未配信。
+  - 5月31日 [Wolfenstein 3D](https://ja.wikipedia.org/wiki/Wolfenstein_3D "wikilink") - 日本未配信。再配信。
+  - 6月5日 [State of Decay](https://ja.wikipedia.org/wiki/State_of_Decay "wikilink") - 日本未配信。
+  - 6月12日 [Thunder Wolves](https://ja.wikipedia.org/wiki/Thunder_Wolves "wikilink") - 日本未配信。
+  - 6月14日 [STORM](https://ja.wikipedia.org/wiki/STORM "wikilink") - 日本未配信。
+  - 6月14日 [Fireburst](https://ja.wikipedia.org/wiki/Fireburst "wikilink") - 日本未配信。
+  - 6月19日 [Dungeons & Dragons: Chronicles of Mystara](https://ja.wikipedia.org/wiki/Dungeons_&_Dragons:_Chronicles_of_Mystara "wikilink") - 日本未配信。
+  - 6月25日 [Boxing Fight](https://ja.wikipedia.org/wiki/Boxing_Fight "wikilink") - 日本未配信。
+  - 6月26日 [Magic 2014 — Duels of the Planeswalkers](https://ja.wikipedia.org/wiki/Magic_2014_—_Duels_of_the_Planeswalkers "wikilink")
+  - 6月26日 [Spartacus Legends](https://ja.wikipedia.org/wiki/Spartacus_Legends "wikilink") - 無料、ゴールド会員。
+  - 6月28日 [Doodle Jump for Kinects](https://ja.wikipedia.org/wiki/Doodle_Jump_for_Kinects "wikilink")
+  - 7月3日 [Scourge: Outbreak](https://ja.wikipedia.org/wiki/Scourge:_Outbreak "wikilink")
+  - 7月5日 [CAPSIZED](https://ja.wikipedia.org/wiki/CAPSIZED "wikilink") - 日本未配信。
+  - 7月12日 [Pacific Rim](https://ja.wikipedia.org/wiki/Pacific_Rim "wikilink")
+  - 7月17日 [R.I.P.D.: The Game](https://ja.wikipedia.org/wiki/R.I.P.D.:_The_Game "wikilink") - 日本未配信。
+  - 7月26日 [Mars: War Logs](https://ja.wikipedia.org/wiki/Mars:_War_Logs "wikilink") - 日本未配信。
+  - 7月26日 [Zeno Clash 2](https://ja.wikipedia.org/wiki/Zeno_Clash_2 "wikilink") - 日本未配信。
+  - 7月31日 [Narco Terror](https://ja.wikipedia.org/wiki/Narco_Terror "wikilink") - 日本未配信。
+  - 7月31日 [Cloudberry Kingdom](https://ja.wikipedia.org/wiki/Cloudberry_Kingdom "wikilink") - 日本未配信。
+  - 8月6日 [WRC Powerslide](https://ja.wikipedia.org/wiki/WRC_Powerslide "wikilink") - 日本未配信。
+  - 8月7日 [Brothers](https://ja.wikipedia.org/wiki/Brothers "wikilink")
+  - 8月14日 [Charlie Murder](https://ja.wikipedia.org/wiki/Charlie_Murder "wikilink")
+  - 8月21日 [Flashback](https://ja.wikipedia.org/wiki/Flashback "wikilink")
+  - 8月28日 [TMNT: OOTS](https://ja.wikipedia.org/wiki/TMNT:_OOTS "wikilink")
+  - 8月20日 [A.R.E.S. Extinction Agenda EX](https://ja.wikipedia.org/wiki/A.R.E.S._Extinction_Agenda_EX "wikilink")
+  - 9月4日 [ミッキーマウス キャッスル・オブ・イリュージョン](https://ja.wikipedia.org/wiki/ミッキーマウス_キャッスル・オブ・イリュージョン "wikilink")
+  - 9月4日 [WSOP: Full House Pro](https://ja.wikipedia.org/wiki/WSOP:_Full_House_Pro "wikilink") - 無料、ゴールド会員。
+  - 9月6日 [Freefall Racers](https://ja.wikipedia.org/wiki/Freefall_Racers "wikilink") - 日本未配信。
+  - 9月11日 [DuckTales: Remastered](https://ja.wikipedia.org/wiki/DuckTales:_Remastered "wikilink") - 日本未配信。
+  - 9月18日 [Foul Play](https://ja.wikipedia.org/wiki/Foul_Play "wikilink")
+  - 9月20日 [マーローブリッグス](https://ja.wikipedia.org/wiki/マーローブリッグス "wikilink")(Marlow Briggs)
+  - 9月25日 [Ascend: Hand of Kul](https://ja.wikipedia.org/wiki/Ascend:_Hand_of_Kul "wikilink")
+  - 9月25日 [Girl Fight](https://ja.wikipedia.org/wiki/Girl_Fight "wikilink") - 日本未配信。
+  - 9月25日 [PAC-MAN Championship Edition DX+](https://ja.wikipedia.org/wiki/PAC-MAN_Championship_Edition_DX+ "wikilink")
+  - 10月4日 [Duke Nukem 3D](https://ja.wikipedia.org/wiki/Duke_Nukem_3D "wikilink")
+  - 10月9日 [Rock of Ages](https://ja.wikipedia.org/wiki/Rock_of_Ages "wikilink")
+  - 10月9日 [Orc Attack](https://ja.wikipedia.org/wiki/Orc_Attack "wikilink") - 日本未配信。
+  - 10月10日 [うたっておどろう](https://ja.wikipedia.org/wiki/うたっておどろう "wikilink")
+  - 10月11日 [The Wolf Among Us](https://ja.wikipedia.org/wiki/The_Wolf_Among_Us "wikilink") - 日本未配信。
+  - 10月11日 [パーフェクトダーク](../Page/パーフェクトダーク.md "wikilink")
+  - 10月16日 [HEXODIUS](https://ja.wikipedia.org/wiki/HEXODIUS "wikilink") - 日本未配信。
+  - 10月16日 [Who Wants To Be A Millionaire?](https://ja.wikipedia.org/wiki/Who_Wants_To_Be_A_Millionaire? "wikilink") - 日本未配信。
+  - 10月18日 [Alien Rage](https://ja.wikipedia.org/wiki/Alien_Rage "wikilink") - 日本未配信。
+  - 10月23日 [How to Survive](https://ja.wikipedia.org/wiki/How_to_Survive "wikilink")
+  - 10月25日 [Magrunner: Dark Pulse](https://ja.wikipedia.org/wiki/Magrunner:_Dark_Pulse "wikilink") - 日本未配信。
+  - 10月30日 [Retro City Rampage](https://ja.wikipedia.org/wiki/Retro_City_Rampage "wikilink")
+  - 11月1日 [ヴァンパイアリザレクション](../Page/ヴァンパイア_\(ゲーム\).md "wikilink") - [ヴァンパイアハンター](../Page/ヴァンパイアハンター.md "wikilink")、[ヴァンパイアセイヴァー](https://ja.wikipedia.org/wiki/ヴァンパイアセイヴァー "wikilink")のHDリマスター版。
+  - 11月1日 [Blood Knights](https://ja.wikipedia.org/wiki/Blood_Knights "wikilink") - 日本未配信。
+  - 11月8日 [Final Exam](https://ja.wikipedia.org/wiki/Final_Exam "wikilink") - 日本未配信。
+  - 11月13日 [The Bridge](https://ja.wikipedia.org/wiki/The_Bridge_\(ゲーム\) "wikilink") - 日本未配信。
+  - 11月15日 [Contrast](https://ja.wikipedia.org/wiki/Contrast "wikilink") - 日本未配信。
+  - 11月20日 [ソウルキャリバー2](https://ja.wikipedia.org/wiki/ソウルキャリバー2 "wikilink") HD - 日本未配信。
+  - 12月4日 [Castlevania: Lords of Shadow - 宿命の魔鏡 HD](https://ja.wikipedia.org/wiki/Castlevania:_Lords_of_Shadow_-_宿命の魔鏡_HD "wikilink")
+  - 12月4日 [The Raven Episode 1](https://ja.wikipedia.org/wiki/The_Raven_Episode_1 "wikilink") - 日本未配信。
+  - 12月18日 [The Walking Dead: Season Two](https://ja.wikipedia.org/wiki/The_Walking_Dead:_Season_Two "wikilink") - 日本未配信。
+
+## 2014年
+
+  - 1月15日 [Assassin’s Creed® Liberation HD](https://ja.wikipedia.org/wiki/Assassin’s_Creed®_Liberation_HD "wikilink") - 日本未配信。
+  - 1月17日 [Warlords](https://ja.wikipedia.org/wiki/Warlords "wikilink") - 日本未配信。
+  - 1月29日 [リコイル](https://ja.wikipedia.org/wiki/リコイル "wikilink")
+  - 1月31日 [Halo: Spartan Assault](https://ja.wikipedia.org/wiki/Halo:_Spartan_Assault "wikilink")
+  - 2月11日 [Far Cry Classic](https://ja.wikipedia.org/wiki/Far_Cry_Classic "wikilink") - 日本未配信。
+  - 2月14日 [LocoCycle](https://ja.wikipedia.org/wiki/LocoCycle "wikilink")
+  - 2月21日 [Takedown: Red Sabre](https://ja.wikipedia.org/wiki/Takedown:_Red_Sabre "wikilink")
+  - 2月26日 [ストライダー飛竜](../Page/ストライダー飛竜.md "wikilink")
+  - 3月12日 [Constant C](https://ja.wikipedia.org/wiki/Constant_C "wikilink")
+  - 3月14日 [Skydive](https://ja.wikipedia.org/wiki/Skydive "wikilink") - 日本未配信。
+  - 3月25日 [Yu-Gi-Oh\! Millennium Duels](https://ja.wikipedia.org/wiki/Yu-Gi-Oh!_Millennium_Duels "wikilink") - 日本未配信。
+  - 4月1日 [Blackgate Deluxe Ed](https://ja.wikipedia.org/wiki/Blackgate_Deluxe_Ed "wikilink") - 日本未配信。
+  - 4月9日 [R.B.I. Baseball 14](https://ja.wikipedia.org/wiki/R.B.I._Baseball_14 "wikilink") - 日本未配信。
+  - 4月23日 [Defense Technica](https://ja.wikipedia.org/wiki/Defense_Technica "wikilink")
+  - 4月25日 [Dustforce](https://ja.wikipedia.org/wiki/Dustforce "wikilink") - 日本未配信。
+  - 4月30日 [チャイルド オブ ライト](https://ja.wikipedia.org/wiki/チャイルド_オブ_ライト "wikilink")
+  - 5月7日 [Peggle 2](https://ja.wikipedia.org/wiki/Peggle_2 "wikilink") - 日本未配信。
+  - 5月14日 [Super TIME Force](https://ja.wikipedia.org/wiki/Super_TIME_Force "wikilink")
+  - 5月21日 [Max: The Curse of Brotherhood](https://ja.wikipedia.org/wiki/Max:_The_Curse_of_Brotherhood "wikilink") - Wiiウェア用ソフト『[らくがきヒーロー](https://ja.wikipedia.org/wiki/らくがきヒーロー "wikilink")』の続篇
+  - 5月29日 [Trials Fusion](https://ja.wikipedia.org/wiki/Trials_Fusion "wikilink")
+  - 6月11日 [Blood of the Werewolf](https://ja.wikipedia.org/wiki/Blood_of_the_Werewolf "wikilink") - 日本未配信。
+  - 6月18日 [Mutant Blobs Attackf](https://ja.wikipedia.org/wiki/Mutant_Blobs_Attackf "wikilink") - 日本未配信。
+  - 6月23日 [Skullgirls](https://ja.wikipedia.org/wiki/スカルガールズ "wikilink")
+  - 6月25日 [パックマン ミュージアム](https://ja.wikipedia.org/wiki/パックマン_ミュージアム "wikilink")
+  - 6月25日 [Putty Squadf](https://ja.wikipedia.org/wiki/Putty_Squadf "wikilink") - 日本未配信。
+  - 6月25日 [Valiant Heartsf](https://ja.wikipedia.org/wiki/Valiant_Heartsf "wikilink") - 日本未配信。
+  - 7月2日 [Guacamelee\! STCE](https://ja.wikipedia.org/wiki/Guacamelee!_STCE "wikilink") - 日本未配信。
+  - 7月16日 [マジック2015](https://ja.wikipedia.org/wiki/マジック2015 "wikilink")
+  - 7月16日 [Abyss Odyssey](https://ja.wikipedia.org/wiki/Abyss_Odyssey "wikilink") - 日本未配信。
+  - 7月22日 [TMNT Training Lair](https://ja.wikipedia.org/wiki/TMNT_Training_Lair "wikilink") - 日本未配信。
+  - 7月23日 [Forgotten Wars](https://ja.wikipedia.org/wiki/Forgotten_Wars "wikilink") - 日本未配信。
+  - 7月30日 [ガトリング ギア](https://ja.wikipedia.org/wiki/ガトリング_ギア "wikilink") - 再配信。
+  - 7月30日[AirMech Arena](https://ja.wikipedia.org/wiki/AirMech_Arena "wikilink")
+  - 9月24日 [Slender: The Arrival](https://ja.wikipedia.org/wiki/Slender:_The_Arrival "wikilink") - 日本未配信。
+  - 9月26日 [Anna - Extended Edition](https://ja.wikipedia.org/wiki/Anna_-_Extended_Edition "wikilink") - 日本未配信。
+  - 10月1日 [Jet Car Stunts](https://ja.wikipedia.org/wiki/Jet_Car_Stunts "wikilink") - 日本未配信。
+  - 10月22日 [The Legend of Korra](https://ja.wikipedia.org/wiki/The_Legend_of_Korra "wikilink") - 日本未配信。
+  - 10月29日 [Costume Quest 2](https://ja.wikipedia.org/wiki/Costume_Quest_2 "wikilink") - 日本未配信。
+  - 11月26日 [Geometry Wars™ 3](https://ja.wikipedia.org/wiki/Geometry_Wars™_3 "wikilink") - 日本未配信。
+  - 12月5日 [Toybox Turbos](https://ja.wikipedia.org/wiki/Toybox_Turbos "wikilink")
+
+## 2015年
+
+  - 1月14日 [Monopoly Plus](https://ja.wikipedia.org/wiki/Monopoly_Plus "wikilink") - 日本未配信。
+  - 1月14日 [Monopoly Deal](https://ja.wikipedia.org/wiki/Monopoly_Deal "wikilink") - 日本未配信。
+  - 1月30日 [Life Is Strange](https://ja.wikipedia.org/wiki/ライフ_イズ_ストレンジ "wikilink") -Episode 1 - 日本語版の配信は2016年3月3日を予定している。
+  - 2月17日 [Trivial Pursuit Live\!](https://ja.wikipedia.org/wiki/Trivial_Pursuit "wikilink") - 日本未配信。
+  - 2月25日 [バイオハザード リベレーションズ2](https://ja.wikipedia.org/wiki/バイオハザード_リベレーションズ2 "wikilink") エピソード1
+
+## 2016年
+
+  - 6月21日 [Mighty No. 9](https://ja.wikipedia.org/wiki/Mighty_No._9 "wikilink")
+
+## アーケード ヒット（Xbox Live Arcadeの廉価版）
+
+  - [Puzzle Quest: Challenge of the Warlords](https://ja.wikipedia.org/wiki/Puzzle_Quest:_Challenge_of_the_Warlords "wikilink")
+  - [DOOM](../Page/DOOM.md "wikilink")
+  - [Assault Heroes](https://ja.wikipedia.org/wiki/Assault_Heroes "wikilink")
+  - [Bankshot Billiards 2](https://ja.wikipedia.org/wiki/Bankshot_Billiards_2 "wikilink")
+  - [ルミネス](../Page/ルミネス.md "wikilink")ライブ！
+  - [Marble Blast Ultra](https://ja.wikipedia.org/wiki/Marble_Blast_Ultra "wikilink")
+  - [Small Arms](https://ja.wikipedia.org/wiki/Small_Arms "wikilink")
+  - [Zuma](../Page/Zuma.md "wikilink")
+  - [フィーディング フレンジー](https://ja.wikipedia.org/wiki/フィーディング_フレンジー "wikilink")
+  - [Worms](https://ja.wikipedia.org/wiki/Worms "wikilink")
+  - [Braid](https://ja.wikipedia.org/wiki/Braid "wikilink")
+
+## 関連項目
+
+  - [Xboxのゲームタイトル一覧](../Page/Xboxのゲームタイトル一覧.md "wikilink")
+  - [Xbox 360のゲームタイトル一覧](../Page/Xbox_360のゲームタイトル一覧.md "wikilink")
+  - [Xbox Oneのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Xbox_Oneのゲームタイトル一覧 "wikilink")
+  - [Xbox Series Xのゲームタイトル一覧](https://ja.wikipedia.org/wiki/Xbox_Series_Xのゲームタイトル一覧 "wikilink")
+
+## 外部リンク
+
+  - [アーケード](https://marketplace.xbox.com/ja-JP/Games/XboxArcadeGames)
+
+[Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:ゲーム機別ゲームタイトル一覧](https://ja.wikipedia.org/wiki/Category:ゲーム機別ゲームタイトル一覧 "wikilink")

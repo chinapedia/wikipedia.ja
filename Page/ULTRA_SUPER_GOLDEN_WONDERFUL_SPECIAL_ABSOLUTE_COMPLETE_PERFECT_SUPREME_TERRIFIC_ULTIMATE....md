@@ -1,7 +1,7 @@
 > この記事は[ULTRA SUPER GOLDEN WONDERFUL SPECIAL ABSOLUTE COMPLETE PERFECT SUPREME TERRIFIC ULTIMATE...](https://ja.wikipedia.org/wiki/ULTRA_SUPER_GOLDEN_WONDERFUL_SPECIAL_ABSOLUTE_COMPLETE_PERFECT_SUPREME_TERRIFIC_ULTIMATE...)から翻訳されています。
 
 
-『**ULTRA SUPER GOLDEN WONDERFUL SPECIAL ABSOLUTE COMPLETE PERFECT SUPREME TERRIFIC ULTIMATE...**』（ウルトラ スーパー ゴールデン ワンダフル スペシャル アブソリュート コンプリート パーフェクト スプリーム テリフィック アルティメット…）は、[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に発売された[UNICORN](https://ja.wikipedia.org/wiki/UNICORN "wikilink")のCD BOX。
+『**ULTRA SUPER GOLDEN WONDERFUL SPECIAL ABSOLUTE COMPLETE PERFECT SUPREME TERRIFIC ULTIMATE...**』（ウルトラ スーパー ゴールデン ワンダフル スペシャル アブソリュート コンプリート パーフェクト スプリーム テリフィック アルティメット…）は、[2002年](../Page/2002年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に発売された[UNICORN](../Page/UNICORN.md "wikilink")のCD BOX。
 
 ## 解説
 
@@ -24,7 +24,7 @@
 3.  **Pink Prisoner** (4:34)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
-        ここまで『[BOOM](https://ja.wikipedia.org/wiki/BOOM "wikilink")』収録。
+        ここまで『[BOOM](../Page/BOOM.md "wikilink")』収録。
 4.  **I'M A LOSER** (4:34)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
 5.  **HEY MAN\!** (4:58)
@@ -34,27 +34,27 @@
 6.  **SUGAR BOY** (4:04)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
 7.  **ペケペケ** (3:23)
-    （作詞:[川西幸一](https://ja.wikipedia.org/wiki/川西幸一 "wikilink") 作曲:奥田民生　Vocal：[堀内一史](https://ja.wikipedia.org/wiki/堀内一史 "wikilink")・奥田民生）
+    （作詞:[川西幸一](../Page/川西幸一.md "wikilink") 作曲:奥田民生　Vocal：[堀内一史](../Page/堀内一史.md "wikilink")・奥田民生）
       -
-        ここまで『[PANIC ATTACK](https://ja.wikipedia.org/wiki/PANIC_ATTACK "wikilink")』収録。
+        ここまで『[PANIC ATTACK](../Page/PANIC_ATTACK.md "wikilink")』収録。
 8.  **服部** (4:28)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
 9.  **おかしな2人** (3:36)
     （作詞:川西幸一 作曲:奥田民生　Vocal：奥田民生）
 10. **珍しく寝覚めの良い木曜日** (4:20)
-    （作詞・作曲:[手島いさむ](https://ja.wikipedia.org/wiki/手島いさむ "wikilink")　Vocal：奥田民生）
+    （作詞・作曲:[手島いさむ](../Page/手島いさむ.md "wikilink")　Vocal：奥田民生）
 11. **[デーゲーム “服部仕様”](https://ja.wikipedia.org/wiki/デーゲーム "wikilink")** (4:27)
     （作詞・作曲:手島いさむ　Vocal：奥田民生）
 12. **人生は上々だ** (4:16)
-    （作詞:川西幸一・[阿部義晴](https://ja.wikipedia.org/wiki/阿部義晴 "wikilink") 作曲:奥田民生　Vocal：阿部義晴・奥田民生）
+    （作詞:川西幸一・[阿部義晴](../Page/阿部義晴.md "wikilink") 作曲:奥田民生　Vocal：阿部義晴・奥田民生）
 13. **[大迷惑](https://ja.wikipedia.org/wiki/大迷惑 "wikilink")** (3:38)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
-        ここまで『[服部](https://ja.wikipedia.org/wiki/服部_\(アルバム\) "wikilink")』収録。
+        ここまで『[服部](../Page/服部_\(アルバム\).md "wikilink")』収録。
 
 ### 2nd CD…HISTORY
 
-1.  **[ロック幸せ](https://ja.wikipedia.org/wiki/働く男 "wikilink")** (1:57)
+1.  **[ロック幸せ](../Page/働く男.md "wikilink")** (1:57)
     （作詞・作曲:川西幸一　Vocal：川西幸一・手島いさむ）
 2.  **[命果てるまで](https://ja.wikipedia.org/wiki/命果てるまで "wikilink")** (3:47)
     （作詞・作曲:奥田民生 / **挿入曲:第三の男**作曲:アントン・カラス、マイケル・カー、ゴールデン・ジャック　Vocal：奥田民生）
@@ -62,12 +62,12 @@
     （作詞:川西幸一 作曲:奥田民生　Vocal：奥田民生）
 4.  **自転車泥棒** (3:29)
     （作詞・作曲:手島いさむ　Vocal：奥田民生）
-5.  **[CSA](https://ja.wikipedia.org/wiki/働く男 "wikilink")** (0:55)
+5.  **[CSA](../Page/働く男.md "wikilink")** (0:55)
     （作詞・作曲:阿部義晴　Vocal：阿部義晴）
-6.  **[働く男](https://ja.wikipedia.org/wiki/働く男 "wikilink")** (3:47)
+6.  **[働く男](../Page/働く男.md "wikilink")** (3:47)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
-        ここまで『[ケダモノの嵐](https://ja.wikipedia.org/wiki/ケダモノの嵐 "wikilink")』収録。
+        ここまで『[ケダモノの嵐](../Page/ケダモノの嵐.md "wikilink")』収録。
 7.  **[スターな男 “異ミックスド”](https://ja.wikipedia.org/wiki/スターな男 "wikilink")** (2:55)
     （作詞:阿部義晴　作曲:奥田民生　Vocal：奥田民生）
       -
@@ -75,7 +75,7 @@
 8.  **ボサノバ父さん** (3:28)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
-        ここまで『[おどる亀ヤプシ](https://ja.wikipedia.org/wiki/おどる亀ヤプシ "wikilink")』収録。
+        ここまで『[おどる亀ヤプシ](../Page/おどる亀ヤプシ.md "wikilink")』収録。
 9.  **PTA〜光のネットワーク〜 "single mix"** (5:40)
     （作詞:奥田民生・阿部義晴　作曲:奥田民生・阿部義晴・[小西康陽](../Page/小西康陽.md "wikilink")　Vocal：奥田民生・阿部義晴）
       -
@@ -83,7 +83,7 @@
 10. **ハヴァナイスデー** (2:38)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
-        『[ハヴァナイスデー](https://ja.wikipedia.org/wiki/ハヴァナイスデー_\(UNICORNのアルバム\) "wikilink")』収録。
+        『[ハヴァナイスデー](../Page/ハヴァナイスデー_\(UNICORNのアルバム\).md "wikilink")』収録。
 11. **[ブルース](https://ja.wikipedia.org/wiki/ブルース_\(ユニコーンの曲\) "wikilink")** (3:18)
     （作詞・作曲:川西幸一　Vocal：奥田民生）
       -
@@ -101,7 +101,7 @@
 17. **ヒゲとボイン** (4:41)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
-        ここまで『[ヒゲとボイン](https://ja.wikipedia.org/wiki/ヒゲとボイン_\(アルバム\) "wikilink")』収録。
+        ここまで『[ヒゲとボイン](../Page/ヒゲとボイン_\(アルバム\).md "wikilink")』収録。
 18. **[雪が降る町 "more bell mix"](https://ja.wikipedia.org/wiki/雪が降る町 "wikilink")** (6:09)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
@@ -112,17 +112,17 @@
         オリジナルアルバム未収録曲。アルバム初収録。
 20. **与える男** (4:02)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
-21. **[すばらしい日々](https://ja.wikipedia.org/wiki/すばらしい日々 "wikilink")** (4:34)
+21. **[すばらしい日々](../Page/すばらしい日々.md "wikilink")** (4:34)
     （作詞・作曲:奥田民生　Vocal：奥田民生）
       -
-        ここまで『[SPRINGMAN](https://ja.wikipedia.org/wiki/SPRINGMAN "wikilink")』収録。
+        ここまで『[SPRINGMAN](../Page/SPRINGMAN.md "wikilink")』収録。
 
 ### 3rd CD…SOLO WORKS
 
-1.  **アフリカの蝶** / **[EBI](https://ja.wikipedia.org/wiki/堀内一史 "wikilink")** (6:55)（作詞:[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") 作曲:堀内一史）
+1.  **アフリカの蝶** / **[EBI](../Page/堀内一史.md "wikilink")** (6:55)（作詞:[森雪之丞](../Page/森雪之丞.md "wikilink") 作曲:堀内一史）
 2.  **[休日](https://ja.wikipedia.org/wiki/休日/健康 "wikilink")** / **奥田民生** (4:01)（作詞・作曲:奥田民生）
 3.  **＋OR－** / **阿部義晴** (5:42)（作詞・作曲：阿部義晴）
-4.  **リキッドマン** / **西川幸一** (4:39)（作詞:西川幸一、[桐生千弘](https://ja.wikipedia.org/wiki/桐生千弘 "wikilink") 作曲:[西脇辰弥](https://ja.wikipedia.org/wiki/西脇辰弥 "wikilink")）
+4.  **リキッドマン** / **西川幸一** (4:39)（作詞:西川幸一、[桐生千弘](https://ja.wikipedia.org/wiki/桐生千弘 "wikilink") 作曲:[西脇辰弥](../Page/西脇辰弥.md "wikilink")）
 5.  **眠れぬ夜** / **手島いさむ** (4:55)（作詞・作曲:手島いさむ）
       -
         ここまで（ソロ名義の）オリジナルアルバム未収録。アルバム初収録。
@@ -132,7 +132,7 @@
 9.  **竜巻野郎** / **西川幸一** (3:16)（作詞・作曲:西川幸一）
 10. **白い部屋** / **手島いさむ** (4:55)（作詞・作曲:手島いさむ）
       -
-        ここまで『[UNICORN](https://ja.wikipedia.org/wiki/UNICORN_\(アルバム\) "wikilink")』収録。
+        ここまで『[UNICORN](../Page/UNICORN_\(アルバム\).md "wikilink")』収録。
 11. **デカダンスの虹** / **EBI** (4:40)（作詞:森雪之丞 作曲:堀内一史）
       -
         EBI『MUSÉE』収録。
@@ -150,7 +150,7 @@
 5.  **I'M A LOSER**
 6.  **ペケペケ**
 7.  **大迷惑**
-8.  **デーゲーム** / **[坂上二郎](https://ja.wikipedia.org/wiki/坂上二郎 "wikilink")とユニコーン**
+8.  **デーゲーム** / **[坂上二郎](../Page/坂上二郎.md "wikilink")とユニコーン**
 9.  **パパは金持ち**（作詞・作曲:奥田民生　Vocal：奥田民生）
 10. **君達は天使**（作詞・作曲:堀内一史　Vocal：堀内一史・奥田民生）
 11. **働く男**
@@ -175,7 +175,7 @@
       - **十九回目の普通** / **EBI**
   - （「特典」）
       - **御珍好**
-          - [1994年](../Page/1994年.md "wikilink")に『[THE VERY RUST OF UNICORN CD](https://ja.wikipedia.org/wiki/THE_VERY_RUST_OF_UNICORN "wikilink")』・『[THE VERY RUST OF UNICORN VIDEO](https://ja.wikipedia.org/wiki/THE_VERY_RUST_OF_UNICORN_VIDEO "wikilink") Vol.1』,『同 Vol.2』同時購入者を対象にプレゼントされた非売品特典。タイトルが示すように、過去のライブ映像の中から「珍プレー」・「好プレー」を選りすぐり、解説している。
+          - [1994年](../Page/1994年.md "wikilink")に『[THE VERY RUST OF UNICORN CD](../Page/THE_VERY_RUST_OF_UNICORN.md "wikilink")』・『[THE VERY RUST OF UNICORN VIDEO](https://ja.wikipedia.org/wiki/THE_VERY_RUST_OF_UNICORN_VIDEO "wikilink") Vol.1』,『同 Vol.2』同時購入者を対象にプレゼントされた非売品特典。タイトルが示すように、過去のライブ映像の中から「珍プレー」・「好プレー」を選りすぐり、解説している。
       - **御珍好2**
           - 本作のために再発掘、新編集された上記の第2弾。
       - **DAYS**

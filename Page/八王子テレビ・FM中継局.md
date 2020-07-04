@@ -1,7 +1,7 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[八王子テレビ・FM中継局](https://ja.wikipedia.org/wiki/八王子テレビ・FM中継局)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:hatioji_tilyukeikilyoku.jpg "wikilink") **八王子テレビ・FM中継局**（はちおうじテレビ・エフエムちゅうけいきょく）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")にある[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")と[FMラジオ](https://ja.wikipedia.org/wiki/FMラジオ "wikilink")放送の中継局である。
+[thumb](https://ja.wikipedia.org/wiki/画像:hatioji_tilyukeikilyoku.jpg "wikilink") **八王子テレビ・FM中継局**（はちおうじテレビ・エフエムちゅうけいきょく）は、[東京都](../Page/東京都.md "wikilink")[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")にある[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")と[FMラジオ](https://ja.wikipedia.org/wiki/FMラジオ "wikilink")放送の中継局である。
 
 ## 概要
 
@@ -10,7 +10,7 @@
   - しかし、両局のデジタル波が八王子局エリア内の約5万世帯で受信不可能であることや、東京タワーからの空中線電力がアナログ換算で100kWと強力なため、八王子局エリアの約3000世帯で東京タワー局と多摩中継局のデジタル波が混信する恐れがあることから、多摩デジタル中継局の設置中止が決定し、その代替措置として八王子デジタル中継局が[2009年](../Page/2009年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に開局することとなった\[1\]\[2\]。
   - なお、これに合わせ[Dpaがそごう八王子店で](../Page/デジタル放送推進協会.md "wikilink")「日本全国地デジで元気\!」キャンペーンを実施\[3\]。
   - 多摩中継局に関しては、その後アナログ放送終了とともに全廃する方向で検討が進められ、2011年7月24日に廃止された。
-  - 当中継局の物理チャンネルはTOKYO MXを除き[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")と同一である。しかし、東京スカイツリーの送信出力が強く、八王子市・[立川市](../Page/立川市.md "wikilink")・[昭島市](../Page/昭島市.md "wikilink")・[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")・[武蔵村山市](../Page/武蔵村山市.md "wikilink")の約1万世帯でデジタル混信が発生している\[4\]。
+  - 当中継局の物理チャンネルはTOKYO MXを除き[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")と同一である。しかし、東京スカイツリーの送信出力が強く、八王子市・[立川市](../Page/立川市.md "wikilink")・[昭島市](../Page/昭島市.md "wikilink")・[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")・[武蔵村山市](../Page/武蔵村山市.md "wikilink")の約1万世帯でデジタル混信が発生している\[4\]。
   - FMラジオ中継局については、それまで難視聴エリアだった約10万5000世帯の改善策として、2010年に置局された\[5\]。
 
 ## 送信施設
@@ -22,8 +22,8 @@
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコンキーID</a></p></th>
 <th><p>放送局名</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">物理チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">物理チャンネル</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域内世帯数</a></p></th>
@@ -34,7 +34,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">NHK東京</a><a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">NHK東京</a><a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>27ch</p></td>
 <td><p>3W</p></td>
 <td><p>10.5W</p></td>
@@ -46,7 +46,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>NHK東京<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<td><p>NHK東京<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>26ch</p></td>
 <td><p>9.5W</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
@@ -114,7 +114,7 @@
 <td><p>9</p></td>
 <td><p><a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MX</a></p></td>
 <td><p>20ch</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td></td>
 <td></td>
 <td></td>

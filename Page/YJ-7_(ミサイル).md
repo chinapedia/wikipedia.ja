@@ -1,16 +1,16 @@
-> この記事は[YJ-7 \(\)](https://ja.wikipedia.org/wiki/YJ-7_\(\))から翻訳されています。
+> この記事は[YJ-7 \(ミサイル\)](https://ja.wikipedia.org/wiki/YJ-7_\(ミサイル\))から翻訳されています。
 
 
-**YJ-7**（, 、輸出名：**C-701**）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")で開発された[対艦ミサイル](https://ja.wikipedia.org/wiki/対艦ミサイル "wikilink")。[地対艦](https://ja.wikipedia.org/wiki/地対艦ミサイル "wikilink")・[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")としても使用出来る。
+**YJ-7**（, 、輸出名：**C-701**）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")で開発された[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")。[地対艦](../Page/地対艦ミサイル.md "wikilink")・[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")としても使用出来る。
 
 ## 概要
 
-開発は、[YJ-8](https://ja.wikipedia.org/wiki/YJ-8 "wikilink")などと同じく[中国航天科工集団公司](https://ja.wikipedia.org/wiki/中国航天科工集団公司 "wikilink")（CASIC）傘下の中国海鷹電気技術学院（CHETA; 第三航空宇宙学院）によって行われ、1998年の珠海エア・ショーで初めて公開された。輸出型においては、[光学画像（TV）誘導型のC](https://ja.wikipedia.org/wiki/光波ホーミング誘導#画像誘導 "wikilink")-701Tと、[アクティブ・レーダー・ホーミング（ARH）誘導型のC](https://ja.wikipedia.org/wiki/電波ホーミング誘導#アクティブ方式 "wikilink")-701ARの2種類があった\[1\]。大きさは、同学院が開発したYJ-8[対艦ミサイル](https://ja.wikipedia.org/wiki/対艦ミサイル "wikilink")の半分程度で、翼を折り畳んで発射機に収納する事も出来る。陸上の発射器や[ヘリコプター](../Page/ヘリコプター.md "wikilink")、[航空機](../Page/航空機.md "wikilink")などから発射される。
+開発は、[YJ-8](https://ja.wikipedia.org/wiki/YJ-8 "wikilink")などと同じく[中国航天科工集団公司](https://ja.wikipedia.org/wiki/中国航天科工集団公司 "wikilink")（CASIC）傘下の中国海鷹電気技術学院（CHETA; 第三航空宇宙学院）によって行われ、1998年の珠海エア・ショーで初めて公開された。輸出型においては、[光学画像（TV）誘導型のC](https://ja.wikipedia.org/wiki/光波ホーミング誘導#画像誘導 "wikilink")-701Tと、[アクティブ・レーダー・ホーミング（ARH）誘導型のC](https://ja.wikipedia.org/wiki/電波ホーミング誘導#アクティブ方式 "wikilink")-701ARの2種類があった\[1\]。大きさは、同学院が開発したYJ-8[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")の半分程度で、翼を折り畳んで発射機に収納する事も出来る。陸上の発射器や[ヘリコプター](../Page/ヘリコプター.md "wikilink")、[航空機](../Page/航空機.md "wikilink")などから発射される。
 
 ## 戦歴
 
-艦対艦型と陸上発射型が[イラン](../Page/イラン.md "wikilink")に採用され、「Kowsar」(資料によってはKosar)と呼ばれている。イランは「C-701」と「[C-802](https://ja.wikipedia.org/wiki/YJ-82_\(ミサイル\) "wikilink")」(イラン名はNoor)[対艦ミサイル](https://ja.wikipedia.org/wiki/対艦ミサイル "wikilink")を、[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")している。
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月14日](../Page/7月14日.md "wikilink") [レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")の[シーア派](../Page/シーア派.md "wikilink")武装組織[ヒズボラ](https://ja.wikipedia.org/wiki/ヒズボラ "wikilink")に供給された陸上発射型「Kowsar」または「Noor」対艦ミサイルが、[イスラエル](../Page/イスラエル.md "wikilink")海軍の[サール5型コルベット](https://ja.wikipedia.org/wiki/サール5型コルベット "wikilink")「Hanit」に1発命中し乗組員4名が死亡している。
+艦対艦型と陸上発射型が[イラン](../Page/イラン.md "wikilink")に採用され、「Kowsar」(資料によってはKosar)と呼ばれている。イランは「C-701」と「[C-802](https://ja.wikipedia.org/wiki/YJ-82_\(ミサイル\) "wikilink")」(イラン名はNoor)[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")を、[ライセンス生産](../Page/ライセンス生産.md "wikilink")している。
+[2006年](../Page/2006年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") [レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")の[シーア派](../Page/シーア派.md "wikilink")武装組織[ヒズボラ](../Page/ヒズボラ.md "wikilink")に供給された陸上発射型「Kowsar」または「Noor」対艦ミサイルが、[イスラエル](../Page/イスラエル.md "wikilink")海軍の[サール5型コルベット](../Page/サール5型コルベット.md "wikilink")「Hanit」に1発命中し乗組員4名が死亡している。
 
 ## YJ-9
 

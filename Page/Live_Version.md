@@ -1,14 +1,14 @@
 > この記事は[Live Version](https://ja.wikipedia.org/wiki/Live_Version)から翻訳されています。
 
 
-「**Live Version**」（ライブ・バージョン）は、[CoCoの](https://ja.wikipedia.org/wiki/CoCo_\(アイドルグループ\) "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")より発売された。
+「**Live Version**」（ライブ・バージョン）は、[CoCoの](../Page/CoCo_\(アイドルグループ\).md "wikilink")5枚目の[シングル](../Page/シングル.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")より発売された。
 
 ## 収録曲
 
 1.  「**Live Version**」
-      - 作詞: [田口俊](https://ja.wikipedia.org/wiki/田口俊 "wikilink")、作曲: [都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")、編曲: [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
+      - 作詞: [田口俊](https://ja.wikipedia.org/wiki/田口俊 "wikilink")、作曲: [都志見隆](../Page/都志見隆.md "wikilink")、編曲: [中村哲](../Page/中村哲_\(作曲家\).md "wikilink")
 2.  「**神様はいじわるじゃない**」
-      - 作詞: 田口俊、作曲: [羽田一郎](https://ja.wikipedia.org/wiki/羽田一郎 "wikilink")、編曲: 中村哲
+      - 作詞: 田口俊、作曲: [羽田一郎](../Page/羽田一郎.md "wikilink")、編曲: 中村哲
 
 ## カタログ
 

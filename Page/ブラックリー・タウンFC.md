@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ブラックリー・タウンFC](https://ja.wikipedia.org/wiki/ブラックリー・タウンFC)から翻訳されています。
 
 
-**ブラックリー・タウン・フットボールクラブ**（**Brackley Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ノーサンプトンシャー州](https://ja.wikipedia.org/wiki/ノーサンプトンシャー州 "wikilink")、[サウス・ノーサンプトンシャー](https://ja.wikipedia.org/wiki/サウス・ノーサンプトンシャー "wikilink")、[ブラックリー](https://ja.wikipedia.org/wiki/ブラックリー "wikilink")を本拠地とするサッカークラブチームである。2012-2013シーズンは[カンファレンス・ノース](https://ja.wikipedia.org/wiki/カンファレンス・ノース "wikilink")（6部相当）に所属。
+**ブラックリー・タウン・フットボールクラブ**（**Brackley Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ノーサンプトンシャー州](https://ja.wikipedia.org/wiki/ノーサンプトンシャー州 "wikilink")、[サウス・ノーサンプトンシャー](https://ja.wikipedia.org/wiki/サウス・ノーサンプトンシャー "wikilink")、[ブラックリー](https://ja.wikipedia.org/wiki/ブラックリー "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[カンファレンス・ノース](https://ja.wikipedia.org/wiki/カンファレンス・ノース "wikilink")（6部相当）に所属。
 
 ## タイトル
 

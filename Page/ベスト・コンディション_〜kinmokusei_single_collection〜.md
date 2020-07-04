@@ -1,7 +1,7 @@
-> この記事は[ kinmokusei single collection](https://ja.wikipedia.org/wiki/_kinmokusei_single_collection)から翻訳されています。
+> この記事は[ベスト・コンディション 〜kinmokusei single collection〜](https://ja.wikipedia.org/wiki/ベスト・コンディション_〜kinmokusei_single_collection〜)から翻訳されています。
 
 
-『**ベスト・コンディション 〜kinmokusei single collection〜**』（ベスト・コンディション キンモクセイ・シングル・コレクション）は、[キンモクセイが](../Page/キンモクセイ_\(バンド\).md "wikilink")[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発表した、初の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")で、活動休止前の最後のアルバムともなる。
+『**ベスト・コンディション 〜kinmokusei single collection〜**』（ベスト・コンディション キンモクセイ・シングル・コレクション）は、[キンモクセイが](../Page/キンモクセイ_\(バンド\).md "wikilink")[2007年](../Page/2007年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発表した、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")で、活動休止前の最後のアルバムともなる。
 
 ## 解説
 
@@ -25,7 +25,7 @@
       - 2ndシングル。
 3.  **[七色の風](../Page/七色の風.md "wikilink")**
       -
-        編曲：キンモクセイ&[佐橋佳幸](https://ja.wikipedia.org/wiki/佐橋佳幸 "wikilink")
+        編曲：キンモクセイ&[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
     <!-- end list -->
       - 3rdシングル。
 4.  **[さらば](https://ja.wikipedia.org/wiki/さらば "wikilink")**
@@ -83,10 +83,10 @@
         編曲：キンモクセイ&澤近泰輔
     <!-- end list -->
       - 14thシングル。アルバム初収録。
-      - [毎日放送](../Page/毎日放送.md "wikilink")『[世界ウルルン滞在記](https://ja.wikipedia.org/wiki/世界ウルルン滞在記 "wikilink")』エンディングテーマ。
+      - [毎日放送](../Page/毎日放送.md "wikilink")『[世界ウルルン滞在記](../Page/世界ウルルン滞在記.md "wikilink")』エンディングテーマ。
 15. **[金木犀の花](../Page/金木犀e.p..md "wikilink")**
       -
-        編曲：キンモクセイ&[桜井秀俊](https://ja.wikipedia.org/wiki/桜井秀俊 "wikilink")
+        編曲：キンモクセイ&[桜井秀俊](../Page/桜井秀俊.md "wikilink")
     <!-- end list -->
       - 15thシングル。アルバム初収録。
 
@@ -100,11 +100,11 @@
 2.  **[二人のムラサキ東京](../Page/二人のムラサキ東京.md "wikilink")**
       -
         編曲：キンモクセイ&佐橋佳幸
-3.  **[オヤスミナサイ](https://ja.wikipedia.org/wiki/DEATH_NOTE_TRIBUTE "wikilink")**
+3.  **[オヤスミナサイ](../Page/DEATH_NOTE_TRIBUTE.md "wikilink")**
       -
         編曲：キンモクセイ
     <!-- end list -->
-      - トリビュートアルバム『[DEATH NOTE TRIBUTE](https://ja.wikipedia.org/wiki/DEATH_NOTE_TRIBUTE "wikilink")』収録。
+      - トリビュートアルバム『[DEATH NOTE TRIBUTE](../Page/DEATH_NOTE_TRIBUTE.md "wikilink")』収録。
 4.  **[さくら](https://ja.wikipedia.org/wiki/さくら_\(キンモクセイのアルバム\) "wikilink")**
       -
         作曲：後藤秀人、編曲：キンモクセイ
@@ -203,7 +203,7 @@
 ## 外部リンク
 
   - [Sony Musicによる紹介ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
-      - [初回生産限定盤](http://www.sonymusic.co.jp/artist/Kinmokusei/discography/BVCR-18108)
-      - [完全生産限定盤](http://www.sonymusic.co.jp/artist/Kinmokusei/discography/BVCL-20005)
+      - [初回生産限定盤](https://www.sonymusic.co.jp/artist/Kinmokusei/discography/BVCR-18108)
+      - [完全生産限定盤](https://www.sonymusic.co.jp/artist/Kinmokusei/discography/BVCL-20005)
 
 [Category:2007年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2007年のベスト・アルバム "wikilink") [Category:キンモクセイのアルバム](https://ja.wikipedia.org/wiki/Category:キンモクセイのアルバム "wikilink") [Category:BMG_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:BMG_JAPANのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

@@ -11,7 +11,7 @@
 
 1.  **Reset me**
       -
-        作詞・作曲：たくや 編曲：[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")\&Hysteric Blue
+        作詞・作曲：たくや 編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")\&Hysteric Blue
 2.  **マーイーヤ**
       -
         作詞・作曲：たくや 編曲：佐久間正英\&Hysteric Blue

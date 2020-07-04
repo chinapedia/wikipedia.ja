@@ -1,11 +1,11 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[マヌエル・O・ロドリゲス](https://ja.wikipedia.org/wiki/マヌエル・O・ロドリゲス)から翻訳されています。
 
 
 **マヌエル・Ｏ・ロドリゲス**（**Manuel O. Rodríguez**、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月6日](../Page/1月6日.md "wikilink")）は[パナマ共和国](https://ja.wikipedia.org/wiki/パナマ共和国 "wikilink")[チトレ](https://ja.wikipedia.org/wiki/チトレ "wikilink")出身の元[プロ野球選手](../Page/プロ野球選手.md "wikilink")([外野手](../Page/外野手.md "wikilink"))。右投右打。
 
 ## 経歴
 
-開幕前の3月に[第1回WBCの](https://ja.wikipedia.org/wiki/2006_ワールド・ベースボール・クラシック "wikilink")[パナマ代表に選出された](../Page/野球パナマ代表.md "wikilink")\[1\]。
+開幕前の3月に[第1回WBCの](../Page/2006_ワールド・ベースボール・クラシック.md "wikilink")[パナマ代表に選出された](../Page/野球パナマ代表.md "wikilink")\[1\]。
 
 の「[2008アメリカカップ](https://ja.wikipedia.org/wiki/2008アメリカカップ_\(野球\) "wikilink")」のパナマ代表に選出された。
 

@@ -7,13 +7,13 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、京阪神を中心に活動していた秋本が、大阪で音楽活動をしていた井上、清水、塚田と出会い、音楽理念が共感を呼び、結成。
 
-[1999年](../Page/1999年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")、[シングル](../Page/シングル.md "wikilink")「[I JUST FEEL SO LOVE AGAIN 〜そばにいるだけで〜](https://ja.wikipedia.org/wiki/I_JUST_FEEL_SO_LOVE_AGAIN_〜そばにいるだけで〜 "wikilink")」で[GIZA studioから](../Page/GIZA_studio.md "wikilink")[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。オリコン初登場25位を記録。[6月23日](../Page/6月23日.md "wikilink")には2枚目のシングル「[flame of love](https://ja.wikipedia.org/wiki/flame_of_love "wikilink")」を発売。発売日に[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『日刊ヒット』に、発売週には[TBS系](../Page/TBSテレビ.md "wikilink")『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』にそれぞれ出演し、初めてテレビメディアに登場する。2ヵ月後の[8月25日](../Page/8月25日.md "wikilink")には3枚目のシングル「[Lazy Drive](https://ja.wikipedia.org/wiki/Lazy_Drive "wikilink")」を発売。
+[1999年](../Page/1999年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")、[シングル](../Page/シングル.md "wikilink")「[I JUST FEEL SO LOVE AGAIN 〜そばにいるだけで〜](https://ja.wikipedia.org/wiki/I_JUST_FEEL_SO_LOVE_AGAIN_〜そばにいるだけで〜 "wikilink")」で[GIZA studioから](../Page/GIZA_studio.md "wikilink")[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。オリコン初登場25位を記録。[6月23日](../Page/6月23日.md "wikilink")には2枚目のシングル「[flame of love](https://ja.wikipedia.org/wiki/flame_of_love "wikilink")」を発売。発売日に[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『日刊ヒット』に、発売週には[TBS系](../Page/TBSテレビ.md "wikilink")『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』にそれぞれ出演し、初めてテレビメディアに登場する。2ヵ月後の[8月25日](../Page/8月25日.md "wikilink")には3枚目のシングル「[Lazy Drive](https://ja.wikipedia.org/wiki/Lazy_Drive "wikilink")」を発売。
 
 [2000年](../Page/2000年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")にはアルバム『[I JUST FEEL SO "sweet"](https://ja.wikipedia.org/wiki/I_JUST_FEEL_SO_"sweet" "wikilink")』を発売し、制作期間に入るが、[2001年](../Page/2001年.md "wikilink")初めに活動中止した模様（GIZA studio発刊のアーティスト情報小雑誌『GIZA studio PREVIEW』で情報が掲載されなくなったため）。なお、アーティスト本人たちや[ビーイング](../Page/ビーイング.md "wikilink")側から正式に活動中止のアナウンスは出されていない。
 
 ## 音楽性
 
-[GIZA studioから同レーベルの第](../Page/GIZA_studio.md "wikilink")1号アーティストとしてメジャーデビューした。他に第1号アーティストとして、同日発売でメジャーデビューとなった[New Cinema 蜥蜴と](https://ja.wikipedia.org/wiki/New_Cinema_蜥蜴 "wikilink")[GRASS ARCADEがいる](https://ja.wikipedia.org/wiki/GRASS_ARC. "wikilink")。これら3アーティストのデビューシングルはすべて8cmCDと12cmCDの2パターンが同時発売されている。
+[GIZA studioから同レーベルの第](../Page/GIZA_studio.md "wikilink")1号アーティストとしてメジャーデビューした。他に第1号アーティストとして、同日発売でメジャーデビューとなった[New Cinema 蜥蜴と](../Page/New_Cinema_蜥蜴.md "wikilink")[GRASS ARCADEがいる](../Page/GRASS_ARC..md "wikilink")。これら3アーティストのデビューシングルはすべて8cmCDと12cmCDの2パターンが同時発売されている。
 
 バンド名は、オフィシャルサイトの解説によると、velvety voice（直訳でビロードのような、滑らかで柔らかい声）を持つ秋本のボーカルを井上がsweet velvetを言い換えていたことから由来するという。
 
@@ -137,7 +137,7 @@
 </table>
 
   - 全作詞：[秋本瑞月](https://ja.wikipedia.org/wiki/秋本瑞月 "wikilink")
-  - 全作曲：[大野愛果](https://ja.wikipedia.org/wiki/大野愛果 "wikilink")（STAYのみ[金子奈未](https://ja.wikipedia.org/wiki/金子奈未 "wikilink")）
+  - 全作曲：[大野愛果](../Page/大野愛果.md "wikilink")（STAYのみ[金子奈未](https://ja.wikipedia.org/wiki/金子奈未 "wikilink")）
   - 編曲
       - [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
           - I JUST FEEL SO LOVE AGAIN 〜そばにいるだけで〜
@@ -193,7 +193,7 @@
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
-  - [大野愛果](https://ja.wikipedia.org/wiki/大野愛果 "wikilink")
+  - [大野愛果](../Page/大野愛果.md "wikilink")
 
 ## 外部リンク
 

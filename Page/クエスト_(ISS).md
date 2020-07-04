@@ -32,7 +32,7 @@
 
 ## 外部リンク
 
-  - [クエスト（エアロック）](https://iss.jaxa.jp/glossary/jp/ku/quest.html) - [JAXA](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")　
+  - [クエスト（エアロック）](https://iss.jaxa.jp/glossary/jp/ku/quest.html) - [JAXA](../Page/宇宙航空研究開発機構.md "wikilink")　
   - [Quest Joint Airlock](http://www.nasa.gov/mission_pages/station/structure/elements/quest.html) -- [NASA](https://ja.wikipedia.org/wiki/NASA "wikilink")
 
 [Category:国際宇宙ステーション](https://ja.wikipedia.org/wiki/Category:国際宇宙ステーション "wikilink") [Category:2001年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:2001年の宇宙飛行 "wikilink")

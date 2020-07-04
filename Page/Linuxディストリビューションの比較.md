@@ -3,7 +3,7 @@
 
 **Linuxディストリビューションの比較**（リナックスディストリビューションのひかく）では、[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")の比較を行う。
 
-Linuxディストリビューションの技術的な多様性として、異なっているハードウェアデバイス、システム、ソフトウェアパッケージ形態に対するサポートが挙げられる。組織の違いは歴史的な理由によりそうなっているのかもしれない。他の基準として、セキュリティアップデートが入手可能になる早さ、パッケージ管理のし易さ、利用可能なパッケージの数が挙げられる。
+Linuxディストリビューションの技術的な多様性として、異なっているハードウェアデバイス、システム、ソフトウェアパッケージ形態に対するサポートが挙げられる。組織の違いは歴史的な理由によりそうなっているのかもしれない。他の基準として、ユーザーインタフェース、セキュリティアップデートが入手可能になる早さ、パッケージ管理の安易さ、利用可能なパッケージの数が挙げられる。
 
 これらの表は幅広い客観的な基準で注目すべきディストリビューションの最新安定版について比較するものである。これらの表はOSの主観的なメリットや不安定版・ベータ版のブランチ、他のOSとの比較などには言及しない。
 
@@ -32,10 +32,10 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>Alpine Linux Develpoment Team</p></td>
 <td><p>不明</p></td>
 <td><p>musl libc, BusyBox</p></td>
-<td><p>3.10.0</p></td>
-<td><p>2019-06-13</p></td>
+<td><p>3.11.6</p></td>
+<td><p>2020-04-23</p></td>
 <td><p>汎用</p></td>
-<td></td>
+<td><p>開発中</p></td>
 </tr>
 <tr class="even">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/aptosid" title="wikilink">aptosid</a></p></td>
@@ -46,7 +46,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>2013-01 (<em>Ἑσπερίδες</em>)</p></td>
 <td><p>2013-05-05</p></td>
 <td><p>汎用</p></td>
-<td></td>
+<td><p>休止</p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Arch_Linux" title="wikilink">Arch Linux</a></p></td>
@@ -54,8 +54,8 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><em>devチーム</em></p></td>
 <td><p>2002-03-11</p></td>
 <td><p>none</p></td>
-<td><p>2018.03.01</p></td>
-<td><p>2018-03-01, <a href="https://ja.wikipedia.org/wiki/ローリング・リリース" title="wikilink">ローリング・リリース</a></p></td>
+<td><p>2020.05.01(毎月１日にインストールイメージを更新)</p></td>
+<td><p>2020-05-01, <a href="https://ja.wikipedia.org/wiki/ローリング・リリース" title="wikilink">ローリング・リリース</a></p></td>
 <td><p>汎用</p></td>
 <td><p>活動中</p></td>
 </tr>
@@ -88,7 +88,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>2003-12</p></td>
 <td><p><a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">RHEL</a></p></td>
 <td><p>8.1-1911</p></td>
-<td><p>2020-1-15</p></td>
+<td><p>2020-01-15</p></td>
 <td><p>サーバー, ワークステーション, デスクトップ, ラップトップ</p></td>
 <td><p>開発中</p></td>
 </tr>
@@ -110,7 +110,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>1993-08-16</p></td>
 <td><p>none</p></td>
 <td><p>10.3(<em>buster</em>)</p></td>
-<td><p>2020-2-8</p></td>
+<td><p>2020-02-08</p></td>
 <td><p>汎用</p></td>
 <td><p>開発中</p></td>
 </tr>
@@ -329,8 +329,8 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><em>devチーム</em></p></td>
 <td><p>1998-06-20</p></td>
 <td><p><a href="../Page/Slackware.md" title="wikilink">Slackware</a></p></td>
-<td><p>6.1</p></td>
-<td><p>2016-02-26</p></td>
+<td><p>7.1</p></td>
+<td><p>2019-05-15</p></td>
 <td><p>デスクトップ</p></td>
 <td><p>開発中</p></td>
 </tr>
@@ -339,9 +339,9 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>Barry Kauler</p></td>
 <td><p>Puppy Foundation</p></td>
 <td><p>2002-07-12 (0.4)</p></td>
-<td><p><a href="../Page/Slackware.md" title="wikilink">Slackware</a>, <a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a></p></td>
-<td><p>6.3</p></td>
-<td><p>2015-11-17</p></td>
+<td><p><a href="../Page/Slackware.md" title="wikilink">Slackware</a>, <a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a>, <a href="../Page/Debian.md" title="wikilink">Debian</a>[5]</p></td>
+<td><p>8.2.0</p></td>
+<td><p>2020-01-01</p></td>
 <td><p>デスクトップ</p></td>
 <td><p>開発中</p></td>
 </tr>
@@ -351,8 +351,8 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>The Qubes OS Project</p></td>
 <td><p>2012-09-03</p></td>
 <td><p>Xen, Fedora</p></td>
-<td><p>3.2</p></td>
-<td><p>2016-09-29</p></td>
+<td><p>4.0.1</p></td>
+<td><p>2019-01-09</p></td>
 <td><p>デスクトップ</p></td>
 <td></td>
 </tr>
@@ -401,7 +401,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/sidux" title="wikilink">aptosid(旧 sidux</a>)</p></td>
+<td><p>|<a href="https://ja.wikipedia.org/wiki/Sidux" title="wikilink">Sidux</a> (現<a href="https://ja.wikipedia.org/wiki/aptosid" title="wikilink">aptosid</a>)</p></td>
 <td><p>Stefan Lippers-Hollmann (slh)</p></td>
 <td><p><em>siduxチーム</em></p></td>
 <td><p>2007-02-21</p></td>
@@ -450,10 +450,10 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>Robert Shingledecker</p></td>
 <td><p>2009-01-05</p></td>
 <td><p><a href="../Page/Damn_Small_Linux.md" title="wikilink">Damn Small Linux</a></p></td>
-<td><p>5.0.1</p></td>
-<td><p>2013-10-01</p></td>
+<td><p>10.1</p></td>
+<td><p>2019-1-20</p></td>
 <td><p>デスクトップ, サーバー</p></td>
-<td></td>
+<td><p>開発中</p></td>
 </tr>
 <tr class="even">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Trisquel_GNU/Linux" title="wikilink">Trisquel GNU/Linux</a></p></td>
@@ -461,8 +461,8 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>The Trisquel Project</p></td>
 <td><p>2007-01-30</p></td>
 <td><p><a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a></p></td>
-<td><p>7.0 (<em>Belenos</em>)</p></td>
-<td><p>2014-11-03</p></td>
+<td><p>8.0 (<em>Flidas</em>)</p></td>
+<td><p>2018-04-18</p></td>
 <td><p>デスクトップ, サーバー, 教育用</p></td>
 <td><p>開発中</p></td>
 </tr>
@@ -555,17 +555,6 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>開発終了</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/RedHawk_Linux" title="wikilink">RedHawk Linux</a></p></td>
 <td><p>Concurrent Computer</p></td>
 <td><p>Concurrent Computer</p></td>
@@ -588,7 +577,7 @@ Linuxディストリビューションの技術的な多様性として、異な
   - 有料であるもの
     [Linspire](../Page/Linspire.md "wikilink"), [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")[1](https://www.redhat.com/apps/store/server/rhel.html),[2](https://www.redhat.com/apps/store/desktop/), [Asianux](../Page/Asianux.md "wikilink"), [RedHawk Linux](https://ja.wikipedia.org/wiki/RedHawk_Linux "wikilink")[3](http://www.ccur.co.jp/products_rt_redhawklinux_server.aspx)
 
-「[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")」と言う場合、ソフトウェアの自由について言及しているが、英語の「フリー」は無料という意味がありコストについて言及している場合もある。
+「[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")」と言う場合、ソフトウェアの自由について言及しているが、英語の「フリー」は無料という意味がありコストについて言及している場合もある。無料のソフトは「[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")」と分けて「[フリーウェア](../Page/フリーウェア.md "wikilink")」と呼ばれることも多い。
 
 ## 仕様
 
@@ -599,7 +588,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <tr class="header">
 <th><p>ディストリビューション</p></th>
 <th><p><a href="../Page/Linuxカーネル.md" title="wikilink">Linuxカーネル</a></p></th>
-<th><p><a href="../Page/コンパイラ.md" title="wikilink">コンパイラ</a>[5]</p></th>
+<th><p><a href="../Page/コンパイラ.md" title="wikilink">コンパイラ</a>[6]</p></th>
 <th><p>標準<a href="../Page/ファイルシステム.md" title="wikilink">ファイルシステム</a></p></th>
 <th><p>標準<a href="../Page/パッケージ管理システム.md" title="wikilink">パッケージ管理システム</a></p></th>
 <th><p>パッケージ形式</p></th>
@@ -615,15 +604,15 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Arch_Linux" title="wikilink">Arch Linux</a>[6]</p></td>
-<td><p>4.15.13[7]</p></td>
-<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 7.3.1[8], <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 6.0.0[9]</p></td>
-<td><p>none[10]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/Arch_Linux" title="wikilink">Arch Linux</a>[7]</p></td>
+<td><p>4.15.13[8]</p></td>
+<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 7.3.1[9], <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 6.0.0[10]</p></td>
+<td><p>none[11]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Pacman" title="wikilink">Pacman</a></p></td>
 <td><p>pkg.tar.xz</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Asianux.md" title="wikilink">Asianux</a>[11]</p></td>
+<td><p>| <a href="../Page/Asianux.md" title="wikilink">Asianux</a>[12]</p></td>
 <td><p>2.6.32</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.4.4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
@@ -631,7 +620,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Bash_on_Ubuntu_on_Windows" title="wikilink">Bash on Ubuntu on Windows</a> (<a href="https://ja.wikipedia.org/wiki/:en:Windows_Subsystem_for_Linux" title="wikilink">:en:Windows Subsystem for Linux</a> (Beta))[12]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/Bash_on_Ubuntu_on_Windows" title="wikilink">Bash on Ubuntu on Windows</a> (<a href="https://ja.wikipedia.org/wiki/:en:Windows_Subsystem_for_Linux" title="wikilink">:en:Windows Subsystem for Linux</a> (Beta))[13]</p></td>
 <td><p>3.4.0+</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.4 (Ubuntu 14.04.3), <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.8.0</p></td>
 <td><p>none</p></td>
@@ -639,7 +628,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/CentOS.md" title="wikilink">CentOS</a>[13]</p></td>
+<td><p>| <a href="../Page/CentOS.md" title="wikilink">CentOS</a>[14]</p></td>
 <td><p>3.10.0</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.5, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.4.2</p></td>
 <td><p><a href="../Page/XFS.md" title="wikilink">XFS</a></p></td>
@@ -647,7 +636,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/Damn_Small_Linux.md" title="wikilink">Damn Small Linux</a>[14]</p></td>
+<td><p>| <a href="../Page/Damn_Small_Linux.md" title="wikilink">Damn Small Linux</a>[15]</p></td>
 <td><p>2.4.31</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 3.3.1 ,<a href="https://ja.wikipedia.org/wiki/Tiny_C_コンパイラ" title="wikilink">TCC</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
@@ -655,7 +644,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>.dsl, .tar.gz, .uci, .unc, <a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Debian.md" title="wikilink">Debian</a>[15]</p></td>
+<td><p>| <a href="../Page/Debian.md" title="wikilink">Debian</a>[16]</p></td>
 <td><p>4.9.0</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 6.3.0, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.8.1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -663,7 +652,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/Fedora.md" title="wikilink">Fedora</a>[16]</p></td>
+<td><p>| <a href="../Page/Fedora.md" title="wikilink">Fedora</a>[17]</p></td>
 <td><p>5.6.6</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 10.0.1, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 10.0.0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a>/<a href="../Page/XFS.md" title="wikilink">XFS</a></p></td>
@@ -671,7 +660,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Foresight_Linux.md" title="wikilink">Foresight Linux</a>[17]</p></td>
+<td><p>| <a href="../Page/Foresight_Linux.md" title="wikilink">Foresight Linux</a>[18]</p></td>
 <td><p>3.4.38</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> --</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
@@ -679,7 +668,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a>[18]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a>[19]</p></td>
 <td><p>4.1.15 (3.15.6 (20140826のディストリビューション))</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.9.3 (4.8.3 (20140826のディストリビューション)), <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.4.2-r100 (3.7.1-r100 (2016年3月3日現在。))</p></td>
 <td><p>none</p></td>
@@ -687,7 +676,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/ebuild" title="wikilink">ebuild</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Kanotix" title="wikilink">Kanotix</a>[19]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/Kanotix" title="wikilink">Kanotix</a>[20]</p></td>
 <td><p>3.14</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.7.2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
@@ -695,7 +684,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/KNOPPIX.md" title="wikilink">KNOPPIX</a>[20]</p></td>
+<td><p>| <a href="../Page/KNOPPIX.md" title="wikilink">KNOPPIX</a>[21]</p></td>
 <td><p>4.2.6</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 5.3.1, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.8.0</p></td>
 <td><p><a href="../Page/XFS.md" title="wikilink">XFS</a></p></td>
@@ -703,7 +692,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Linspire.md" title="wikilink">Linspire</a>[21]</p></td>
+<td><p>| <a href="../Page/Linspire.md" title="wikilink">Linspire</a>[22]</p></td>
 <td><p>2.6.20</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.1.2</p></td>
 <td><p><a href="../Page/ReiserFS.md" title="wikilink">ReiserFS</a></p></td>
@@ -711,7 +700,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/Linux_Mint.md" title="wikilink">Linux Mint</a>[22]</p></td>
+<td><p>| <a href="../Page/Linux_Mint.md" title="wikilink">Linux Mint</a>[23]</p></td>
 <td><p>4.8.0</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 5.4.0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -719,7 +708,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Linux_from_Scratch.md" title="wikilink">Linux from Scratch</a>[23]</p></td>
+<td><p>| <a href="../Page/Linux_from_Scratch.md" title="wikilink">Linux from Scratch</a>[24]</p></td>
 <td><p>4.2</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 5.2.0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -727,15 +716,15 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>.tar .tar.bz2 .tar.gz .tar.xz</p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/Mandriva_Linux.md" title="wikilink">Mandriva Linux</a>[24]</p></td>
+<td><p>| <a href="../Page/Mandriva_Linux.md" title="wikilink">Mandriva Linux</a>[25]</p></td>
 <td><p>2.6.38.7</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.6.1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/urpmi" title="wikilink">urpmi</a>, <a href="https://ja.wikipedia.org/wiki/rpmdrake" title="wikilink">rpmdrake</a>[25]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/urpmi" title="wikilink">urpmi</a>, <a href="https://ja.wikipedia.org/wiki/rpmdrake" title="wikilink">rpmdrake</a>[26]</p></td>
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Manjaro" title="wikilink">Manjaro</a>[26]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/Manjaro" title="wikilink">Manjaro</a>[27]</p></td>
 <td><p>4.1.15</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> --</p></td>
 <td><p>none</p></td>
@@ -751,7 +740,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/MEPIS.md" title="wikilink">MEPIS</a>[27]</p></td>
+<td><p>| <a href="../Page/MEPIS.md" title="wikilink">MEPIS</a>[28]</p></td>
 <td><p>3.9.8</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.7.2</p></td>
 <td><p><a href="../Page/ReiserFS.md" title="wikilink">ReiserFS</a>, <a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
@@ -759,7 +748,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/openSUSE" title="wikilink">openSUSE</a>[28]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/openSUSE" title="wikilink">openSUSE</a>[29]</p></td>
 <td><p>4.1.12</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.5, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.7.0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/btrfs" title="wikilink">btrfs</a>/<a href="../Page/XFS.md" title="wikilink">XFS</a></p></td>
@@ -767,7 +756,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Parsix" title="wikilink">Parsix</a>[29]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/Parsix" title="wikilink">Parsix</a>[30]</p></td>
 <td><p>4.1.17</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.9.2</p></td>
 <td><p>ext3</p></td>
@@ -775,7 +764,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/PCLinuxOS.md" title="wikilink">PCLinuxOS</a>[30]</p></td>
+<td><p>| <a href="../Page/PCLinuxOS.md" title="wikilink">PCLinuxOS</a>[31]</p></td>
 <td><p>3.18.1</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.7.2</p></td>
 <td><p>none</p></td>
@@ -783,7 +772,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Plamo_Linux.md" title="wikilink">Plamo Linux</a>[31]</p></td>
+<td><p>| <a href="../Page/Plamo_Linux.md" title="wikilink">Plamo Linux</a>[32]</p></td>
 <td><p>4.3.5</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.5, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.7.0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -791,7 +780,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/tar.gz" title="wikilink">tgz</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/Puppy_Linux.md" title="wikilink">Puppy Linux</a>[32]</p></td>
+<td><p>| <a href="../Page/Puppy_Linux.md" title="wikilink">Puppy Linux</a>[33]</p></td>
 <td><p>4.1.11</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
@@ -799,7 +788,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>.pup, .pet,<a href="https://ja.wikipedia.org/wiki/deb" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">Red Hat Enterprise Linux</a>[33]</p></td>
+<td><p>| <a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">Red Hat Enterprise Linux</a>[34]</p></td>
 <td><p>3.10.0 <a href="http://kbase.redhat.com/faq/FAQ_41_5859.shtm">4</a></p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.5</p></td>
 <td><p><a href="../Page/XFS.md" title="wikilink">XFS</a></p></td>
@@ -807,7 +796,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/Sabayon_Linux" title="wikilink">Sabayon Linux</a>[34]</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/Sabayon_Linux" title="wikilink">Sabayon Linux</a>[35]</p></td>
 <td><p>4.4</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> --</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a>/<a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -815,7 +804,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p>ebuild</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Scientific_Linux.md" title="wikilink">Scientific Linux</a>[35]</p></td>
+<td><p>| <a href="../Page/Scientific_Linux.md" title="wikilink">Scientific Linux</a>[36]</p></td>
 <td><p>3.10.0</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -823,7 +812,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://ja.wikipedia.org/wiki/sidux" title="wikilink">sidux</a> (<a href="https://ja.wikipedia.org/wiki/aptosid" title="wikilink">aptosid</a>[36])</p></td>
+<td><p>| <a href="https://ja.wikipedia.org/wiki/sidux" title="wikilink">sidux</a> (<a href="https://ja.wikipedia.org/wiki/aptosid" title="wikilink">aptosid</a>[37])</p></td>
 <td><p>2.6.26.5 (3.9)</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.1.2 (4.7.2)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext3" title="wikilink">ext3</a></p></td>
@@ -831,7 +820,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Slackware.md" title="wikilink">Slackware</a>[37]</p></td>
+<td><p>| <a href="../Page/Slackware.md" title="wikilink">Slackware</a>[38]</p></td>
 <td><p>3.10.17</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.8.2, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -839,23 +828,23 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="https://ja.wikipedia.org/wiki/tar.gz" title="wikilink">tgz</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/SLAX.md" title="wikilink">SLAX</a>[38]</p></td>
-<td><p>3.8.2[39]</p></td>
-<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.7.2[40]</p></td>
+<td><p>| <a href="../Page/SLAX.md" title="wikilink">SLAX</a>[39]</p></td>
+<td><p>3.8.2[40]</p></td>
+<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.7.2[41]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SquashFS" title="wikilink">SquashFS</a></p></td>
 <td><p>none</p></td>
 <td><p>slax modules</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a>[41] <a href="../Page/Edubuntu.md" title="wikilink">Edubuntu</a> <a href="https://ja.wikipedia.org/wiki/Xubuntu" title="wikilink">Xubuntu</a>[42]</p></td>
+<td><p>| <a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a>[42] <a href="../Page/Edubuntu.md" title="wikilink">Edubuntu</a> <a href="https://ja.wikipedia.org/wiki/Xubuntu" title="wikilink">Xubuntu</a>[43]</p></td>
 <td><p>4.2</p></td>
-<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 5.2.1(, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.8.0[43])</p></td>
+<td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 5.2.1(, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 3.8.0[44])</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
 <td><p><a href="../Page/APT.md" title="wikilink">APT</a> <a href="https://ja.wikipedia.org/wiki/Snappy" title="wikilink">snaped</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Deb_(ファイルフォーマット)" title="wikilink">deb</a> <a href="https://ja.wikipedia.org/wiki/Snappy" title="wikilink">snap</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="../Page/Vine_Linux.md" title="wikilink">Vine Linux</a>[44]</p></td>
+<td><p>| <a href="../Page/Vine_Linux.md" title="wikilink">Vine Linux</a>[45]</p></td>
 <td><p>3.4.106</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.4.5, <a href="https://ja.wikipedia.org/wiki/Clang" title="wikilink">Clang</a> 2.7</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ext4" title="wikilink">ext4</a></p></td>
@@ -863,7 +852,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td><p><a href="../Page/RPM_Package_Manager.md" title="wikilink">RPM</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="../Page/Xandros.md" title="wikilink">Xandros</a> [45]</p></td>
+<td><p>| <a href="../Page/Xandros.md" title="wikilink">Xandros</a> [46]</p></td>
 <td><p>2.6.18 (4.1のディストリビューション) / 2.6.21.4 (Eee PC)</p></td>
 <td><p><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 3.4.3 (4.1のディストリビューション) / -- (Eee PC)</p></td>
 <td><p><a href="../Page/ReiserFS.md" title="wikilink">ReiserFS</a></p></td>
@@ -921,7 +910,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 <td></td>
 <td></td>
-<td><p>[46]</p></td>
+<td><p>[47]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -981,7 +970,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Debian.md" title="wikilink">Debian</a>[47]</p></td>
+<td><p><a href="../Page/Debian.md" title="wikilink">Debian</a>[48]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -998,7 +987,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Ecolinux.md" title="wikilink">Ecolinux</a>[48]</p></td>
+<td><p><a href="../Page/Ecolinux.md" title="wikilink">Ecolinux</a>[49]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1015,15 +1004,15 @@ Linuxディストリビューションの技術的な多様性として、異な
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Fedora.md" title="wikilink">Fedora</a>[49]</p></td>
-<td><p>[50]</p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/Fedora.md" title="wikilink">Fedora</a>[50]</p></td>
 <td><p>[51]</p></td>
+<td></td>
+<td></td>
 <td><p>[52]</p></td>
-<td></td>
-<td></td>
 <td><p>[53]</p></td>
+<td></td>
+<td></td>
+<td><p>[54]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1526,7 +1515,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 <tbody>
 <tr class="odd">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Arch_Linux" title="wikilink">Arch Linux</a></p></td>
-<td><p>10,327 (packages)[54] + 45,556 (AUR)[55]</p></td>
+<td><p>10,327 (packages)[55] + 45,556 (AUR)[56]</p></td>
 <td></td>
 <td><p>none</p></td>
 </tr>
@@ -1550,7 +1539,7 @@ Linuxディストリビューションの技術的な多様性として、異な
 </tr>
 <tr class="odd">
 <td><p>| <a href="../Page/Debian.md" title="wikilink">Debian</a></p></td>
-<td><p>57,703 以上[56]</p></td>
+<td><p>57,703 以上[57]</p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1586,8 +1575,8 @@ Linuxディストリビューションの技術的な多様性として、異な
 </tr>
 <tr class="odd">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a></p></td>
-<td><p>約 17,000[57]</p></td>
-<td><p>[58]</p></td>
+<td><p>約 17,000[58]</p></td>
+<td><p>[59]</p></td>
 <td><p>none</p></td>
 </tr>
 <tr class="even">
@@ -1637,7 +1626,7 @@ DVD: 2,600</p></td>
 <td><p>| <a href="https://ja.wikipedia.org/wiki/Manjaro" title="wikilink">Manjaro</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="https://ja.wikipedia.org/wiki/Plasma_(KDE)" title="wikilink">KDE Plasma</a>[59]</p></td>
+<td><p><a href="../Page/Xfce.md" title="wikilink">Xfce</a>, <a href="../Page/GNOME.md" title="wikilink">GNOME</a>, <a href="https://ja.wikipedia.org/wiki/Plasma_(KDE)" title="wikilink">KDE Plasma</a>[60]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1743,7 +1732,7 @@ DVD: 2,600</p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="../Page/Vine_Linux.md" title="wikilink">Vine Linux</a></p></td>
-<td><p>およそ 5,600[60]</p></td>
+<td><p>およそ 5,600[61]</p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1755,7 +1744,7 @@ DVD: 2,600</p></td>
 </tr>
 <tr class="odd">
 <td><p>| <a href="https://ja.wikipedia.org/wiki/RedHawk_Linux" title="wikilink">RedHawk Linux</a></p></td>
-<td><p>およそ 1,857[61]</p></td>
+<td><p>およそ 1,857[62]</p></td>
 <td></td>
 <td><p><a href="../Page/GNOME.md" title="wikilink">GNOME</a></p></td>
 </tr>
@@ -1798,13 +1787,13 @@ DVD: 2,600</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Fedora.md" title="wikilink">Fedora</a></p></td>
-<td><p>(<a href="../Page/Security-Enhanced_Linux.md" title="wikilink">SELinux</a>[62])</p></td>
-<td><p>(<a href="../Page/Exec_Shield.md" title="wikilink">Exec Shield</a>[63]および<a href="../Page/PaX.md" title="wikilink">PaX</a>)</p></td>
+<td><p>(<a href="../Page/Security-Enhanced_Linux.md" title="wikilink">SELinux</a>[63])</p></td>
+<td><p>(<a href="../Page/Exec_Shield.md" title="wikilink">Exec Shield</a>[64]および<a href="../Page/PaX.md" title="wikilink">PaX</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a>[64]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Gentoo" title="wikilink">Gentoo</a>[65]</p></td>
 <td><p>(<a href="../Page/Security-Enhanced_Linux.md" title="wikilink">SELinux</a>)</p></td>
 <td><p>(<a href="../Page/PaX.md" title="wikilink">PaX</a>)</p></td>
 <td></td>
@@ -1882,63 +1871,64 @@ DVD: 2,600</p></td>
 2.
 3.
 4.  <http://www.mathlibre.org/about-ja.html>
-5.  GCCのC++11対応状況は、https://gcc.gnu.org/projects/cxx0x.html C++14は、https://gcc.gnu.org/projects/cxx1y.html で、ClangのC++11/14/1zは <http://clang.llvm.org/cxx_status.html> に記載されている。
-6.  <http://distrowatch.com/table.php?distribution=Arch>
-7.  [Arch Linux - Package Search Result](http://www.archlinux.org/packages/?sort=&repo=Core&q=linux+kernel+and+modules)
-8.  [Arch Linux - Package Search Result](http://www.archlinux.org/packages/?q=gcc)
-9.  [Arch Linux - Package Search Result](http://www.archlinux.org/packages/?q=clang)
-10. [Official Arch Linux Install Guide: Set Filesystem Mountpoints](http://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide#Set_Filesystem_Mountpoints)
-11. <http://distrowatch.com/table.php?distribution=Asianux>
-12. <https://msdn.microsoft.com/ja-jp/commandline/wsl/about>
-13. <http://distrowatch.com/table.php?distribution=CentOS>
-14. <http://distrowatch.com/table.php?distribution=damnsmall>
-15. <http://distrowatch.com/table.php?distribution=Debian>
-16. <http://distrowatch.com/table.php?distribution=Fedora>
-17. <http://distrowatch.com/table.php?distribution=Foresight>
-18. <http://distrowatch.com/table.php?distribution=Gentoo>
-19. <http://distrowatch.com/table.php?distribution=Kanotix>
-20. <http://distrowatch.com/table.php?distribution=Knoppix>
-21. <http://distrowatch.com/table.php?distribution=Linspire>
-22. <http://distrowatch.com/table.php?distribution=Mint>
-23. <http://distrowatch.com/table.php?distribution=lfs>
-24. <http://distrowatch.com/table.php?distribution=Mandriva>
-25. [Mandriva 2008 release notes](http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes#Package_management)
-26. <http://distrowatch.com/table.php?distribution=manjaro>
-27. <http://distrowatch.com/table.php?distribution=MEPIS>
-28. <http://distrowatch.com/table.php?distribution=openSUSE>
-29. <http://distrowatch.com/table.php?distribution=Parsix>
-30. <http://distrowatch.com/table.php?distribution=PCLinuxOS>
-31. <http://distrowatch.com/table.php?distribution=plamo>
-32. <http://distrowatch.com/table.php?distribution=Puppy>
-33. <http://distrowatch.com/table.php?distribution=RedHat>
-34. <http://distrowatch.com/table.php?distribution=Sabayon>
-35. <http://distrowatch.com/table.php?distribution=scientific>
-36. <http://distrowatch.com/table.php?distribution=aptosid>
-37. <http://distrowatch.com/table.php?distribution=Slackware>
-38. <http://distrowatch.com/table.php?distribution=SLAX>
-39. [Dependencies for Slax Devel 7.0.8](http://www.slax.org/modules.php?action=dependencies&id=7)
+5.  [Ubuntu](../Page/Ubuntu.md "wikilink"), [Slackware](../Page/Slackware.md "wikilink"), [Debian](../Page/Debian.md "wikilink")派生のバージョンがそれぞれ作られている
+6.  GCCのC++11対応状況は、https://gcc.gnu.org/projects/cxx0x.html C++14は、https://gcc.gnu.org/projects/cxx1y.html で、ClangのC++11/14/1zは <http://clang.llvm.org/cxx_status.html> に記載されている。
+7.  <http://distrowatch.com/table.php?distribution=Arch>
+8.  [Arch Linux - Package Search Result](http://www.archlinux.org/packages/?sort=&repo=Core&q=linux+kernel+and+modules)
+9.  [Arch Linux - Package Search Result](http://www.archlinux.org/packages/?q=gcc)
+10. [Arch Linux - Package Search Result](http://www.archlinux.org/packages/?q=clang)
+11. [Official Arch Linux Install Guide: Set Filesystem Mountpoints](http://wiki.archlinux.org/index.php/Official_Arch_Linux_Install_Guide#Set_Filesystem_Mountpoints)
+12. <http://distrowatch.com/table.php?distribution=Asianux>
+13. <https://msdn.microsoft.com/ja-jp/commandline/wsl/about>
+14. <http://distrowatch.com/table.php?distribution=CentOS>
+15. <http://distrowatch.com/table.php?distribution=damnsmall>
+16. <http://distrowatch.com/table.php?distribution=Debian>
+17. <http://distrowatch.com/table.php?distribution=Fedora>
+18. <http://distrowatch.com/table.php?distribution=Foresight>
+19. <http://distrowatch.com/table.php?distribution=Gentoo>
+20. <http://distrowatch.com/table.php?distribution=Kanotix>
+21. <http://distrowatch.com/table.php?distribution=Knoppix>
+22. <http://distrowatch.com/table.php?distribution=Linspire>
+23. <http://distrowatch.com/table.php?distribution=Mint>
+24. <http://distrowatch.com/table.php?distribution=lfs>
+25. <http://distrowatch.com/table.php?distribution=Mandriva>
+26. [Mandriva 2008 release notes](http://wiki.mandriva.com/en/Releases/Mandriva/2008.0/Notes#Package_management)
+27. <http://distrowatch.com/table.php?distribution=manjaro>
+28. <http://distrowatch.com/table.php?distribution=MEPIS>
+29. <http://distrowatch.com/table.php?distribution=openSUSE>
+30. <http://distrowatch.com/table.php?distribution=Parsix>
+31. <http://distrowatch.com/table.php?distribution=PCLinuxOS>
+32. <http://distrowatch.com/table.php?distribution=plamo>
+33. <http://distrowatch.com/table.php?distribution=Puppy>
+34. <http://distrowatch.com/table.php?distribution=RedHat>
+35. <http://distrowatch.com/table.php?distribution=Sabayon>
+36. <http://distrowatch.com/table.php?distribution=scientific>
+37. <http://distrowatch.com/table.php?distribution=aptosid>
+38. <http://distrowatch.com/table.php?distribution=Slackware>
+39. <http://distrowatch.com/table.php?distribution=SLAX>
 40. [Dependencies for Slax Devel 7.0.8](http://www.slax.org/modules.php?action=dependencies&id=7)
-41. <http://distrowatch.com/table.php?distribution=Ubuntu>
-42. <http://distrowatch.com/table.php?distribution=Xubuntu>
-43. Stable <http://llvm.org/apt/>
-44. <http://distrowatch.com/table.php?distribution=Vine>
-45. <http://distrowatch.com/table.php?distribution=Xandros>
-46. [Arch Linux ARM](http://archlinuxarm.org/)
-47. <http://www.debian.org/ports/>
-48. <http://ja.ecolinuxos.com/>
-49. <https://admin.fedoraproject.org/mirrormanager/>
-50. <https://fedoraproject.org/wiki/Architectures>
+41. [Dependencies for Slax Devel 7.0.8](http://www.slax.org/modules.php?action=dependencies&id=7)
+42. <http://distrowatch.com/table.php?distribution=Ubuntu>
+43. <http://distrowatch.com/table.php?distribution=Xubuntu>
+44. Stable <http://llvm.org/apt/>
+45. <http://distrowatch.com/table.php?distribution=Vine>
+46. <http://distrowatch.com/table.php?distribution=Xandros>
+47. [Arch Linux ARM](http://archlinuxarm.org/)
+48. <http://www.debian.org/ports/>
+49. <http://ja.ecolinuxos.com/>
+50. <https://admin.fedoraproject.org/mirrormanager/>
 51. <https://fedoraproject.org/wiki/Architectures>
 52. <https://fedoraproject.org/wiki/Architectures>
-53. <https://fedoraproject.org/wiki/Architectures/ARM>
-54. [Arch Linux - Package Database](https://www.archlinux.org/packages/)
-55. [Arch Linux AUR Home](https://www.archlinux.org/packages/)
-56.
-57. [Gentoo Packages Categories](http://packages.gentoo.org/categories/)
-58. Can be installed graphically (GTK+ and ncurses), but traditionally done by command line (install cd, livecd, netboot, and from ディストリビューションs).
-59.
-60. カテゴリ main, plus, updates, nonfree, extras の合計
-61. [RedHawk6.0の変更点](http://www.ccur.co.jp/external/TechSup/redhawk6-3.htm)
-62.
-63. {{ cite web | url=<http://docs.fedoraproject.org/release-notes/fc1/x86/#kernel-notes> | title=Fedora Core 1 Release Notes - Kernel Notes | accessdate=2007-12-24 }}
-64. {{ cite web | url=<http://www.gentoo.org/proj/en/hardened/#doc_chap4> | title=Hardened Gentoo - 4. Subprojects | accessdate=2007-12-24 }}
+53. <https://fedoraproject.org/wiki/Architectures>
+54. <https://fedoraproject.org/wiki/Architectures/ARM>
+55. [Arch Linux - Package Database](https://www.archlinux.org/packages/)
+56. [Arch Linux AUR Home](https://www.archlinux.org/packages/)
+57.
+58. [Gentoo Packages Categories](http://packages.gentoo.org/categories/)
+59. Can be installed graphically (GTK+ and ncurses), but traditionally done by command line (install cd, livecd, netboot, and from ディストリビューションs).
+60.
+61. カテゴリ main, plus, updates, nonfree, extras の合計
+62. [RedHawk6.0の変更点](http://www.ccur.co.jp/external/TechSup/redhawk6-3.htm)
+63.
+64. {{ cite web | url=<http://docs.fedoraproject.org/release-notes/fc1/x86/#kernel-notes> | title=Fedora Core 1 Release Notes - Kernel Notes | accessdate=2007-12-24 }}
+65. {{ cite web | url=<http://www.gentoo.org/proj/en/hardened/#doc_chap4> | title=Hardened Gentoo - 4. Subprojects | accessdate=2007-12-24 }}

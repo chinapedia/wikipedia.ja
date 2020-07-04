@@ -1,7 +1,7 @@
 > この記事は[The Book](https://ja.wikipedia.org/wiki/The_Book)から翻訳されています。
 
 
-『**The Book**』（ザ・ブック、*jojo's bizarre adventure 4th another day*）は、[2007年](../Page/2007年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[集英社](../Page/集英社.md "wikilink")から発売された[乙一](../Page/乙一.md "wikilink")による[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")の漫画作品『[ジョジョの奇妙な冒険 Part4 ダイヤモンドは砕けない](../Page/ダイヤモンドは砕けない.md "wikilink")』の後日談を扱った[ノベライズ](https://ja.wikipedia.org/wiki/ノベライズ "wikilink")作品。
+『**The Book**』（ザ・ブック、*Jojo's Bizarre Adventure 4th Another Day*）は、[2007年](../Page/2007年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[集英社](../Page/集英社.md "wikilink")から発売された[乙一](../Page/乙一.md "wikilink")による[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")の漫画作品『[ジョジョの奇妙な冒険 Part4 ダイヤモンドは砕けない](../Page/ダイヤモンドは砕けない.md "wikilink")』の後日談を扱った[ノベライズ](https://ja.wikipedia.org/wiki/ノベライズ "wikilink")作品。
 
 ## 概要・制作背景
 

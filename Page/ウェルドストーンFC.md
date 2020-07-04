@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウェルドストーンFC](https://ja.wikipedia.org/wiki/ウェルドストーンFC)から翻訳されています。
 
 
-**ウェルドストーン・フットボール・クラブ**（**Wealdstone Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[ハーロウ特別区内](https://ja.wikipedia.org/wiki/ハーロウ・ロンドン特別区 "wikilink")、[ウェルドストーン](https://ja.wikipedia.org/wiki/ウェルドストーン "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。[2009年](../Page/2009年.md "wikilink")[FAカップ](../Page/FAカップ.md "wikilink")本大会出場するも1回戦で[ロザラム・ユナイテッドFC](../Page/ロザラム・ユナイテッドFC.md "wikilink")（[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")）に3-2と惜敗。日本人フィジカルコーチが在籍していた。
+**ウェルドストーン・フットボール・クラブ**（**Wealdstone Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[ハーロウ特別区内](https://ja.wikipedia.org/wiki/ハーロウ・ロンドン特別区 "wikilink")、[ウェルドストーン](https://ja.wikipedia.org/wiki/ウェルドストーン "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[ナショナルリーグ・サウス](../Page/ナショナルリーグ・サウス.md "wikilink")（6部相当）に所属。[2009年](../Page/2009年.md "wikilink")[FAカップ](../Page/FAカップ.md "wikilink")本大会出場するも1回戦で[ロザラム・ユナイテッドFC](../Page/ロザラム・ユナイテッドFC.md "wikilink")（[フットボールリーグ2](https://ja.wikipedia.org/wiki/フットボールリーグ2 "wikilink")）に3-2と惜敗。日本人フィジカルコーチが在籍していた。
 
 ## タイトル
 
@@ -56,7 +56,7 @@
 
 ## 歴代所属選手
 
-  - [ジョニー・ヘインズ](https://ja.wikipedia.org/wiki/ジョニー・ヘインズ "wikilink") 1972-1973
+  - [ジョニー・ヘインズ](../Page/ジョニー・ヘインズ.md "wikilink") 1972-1973
 
   - [スチュアート・ピアース](https://ja.wikipedia.org/wiki/スチュアート・ピアース "wikilink") 1978-1983
 

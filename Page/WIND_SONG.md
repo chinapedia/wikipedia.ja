@@ -5,15 +5,15 @@
 
 ## 解説
 
-  - [松竹](../Page/松竹.md "wikilink")配給[アニメーション映画](../Page/アニメーション映画.md "wikilink")『[ジャングル大帝](../Page/ジャングル大帝.md "wikilink")』との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")。イメージ・ソングと表記されているが、映画のエンドロールに流れるため、実質的には主題歌である。
-  - [アルバム](../Page/アルバム.md "wikilink")『[空の鏡](https://ja.wikipedia.org/wiki/空の鏡 "wikilink")』に収録されたものは、イントロが短縮されている。シングル用のオリジナルバージョンは、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Five years 〜singles](https://ja.wikipedia.org/wiki/Five_years_〜singles "wikilink")』にてアルバム初収録。
+  - [松竹](../Page/松竹.md "wikilink")配給[アニメーション映画](../Page/アニメーション映画.md "wikilink")『[ジャングル大帝](../Page/ジャングル大帝.md "wikilink")』との[タイアップ](../Page/タイアップ.md "wikilink")。イメージ・ソングと表記されているが、映画のエンドロールに流れるため、実質的には主題歌である。
+  - [アルバム](../Page/アルバム.md "wikilink")『[空の鏡](https://ja.wikipedia.org/wiki/空の鏡 "wikilink")』に収録されたものは、イントロが短縮されている。シングル用のオリジナルバージョンは、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Five years 〜singles](https://ja.wikipedia.org/wiki/Five_years_〜singles "wikilink")』にてアルバム初収録。
 
 ## トラック
 
 1.  **WIND SONG**
       -
-        作詞：[坂元裕二](https://ja.wikipedia.org/wiki/坂元裕二 "wikilink")、作曲・編曲：[日向大介](https://ja.wikipedia.org/wiki/日向大介 "wikilink")
-2.  **WIND SONG -CAGNET MIX-** ([Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink"))
+        作詞：[坂元裕二](../Page/坂元裕二.md "wikilink")、作曲・編曲：[日向大介](https://ja.wikipedia.org/wiki/日向大介 "wikilink")
+2.  **WIND SONG -CAGNET MIX-** ([Instrumental](../Page/器楽曲.md "wikilink"))
       -
         作曲・編曲：日向大介
         アルバムバージョンのカラオケにメロディとパーカッションの音を被せたもの。

@@ -79,11 +79,11 @@
   - 中沢健二グループ ： Trumpet
   - Tomato Strings ： Strings
   - 加藤ジョー・ストリングス ： Strings
-  - [Buzz](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink") ： Chorus
+  - [Buzz](../Page/バズ_\(バンド\).md "wikilink") ： Chorus
   - [EPO](../Page/EPO.md "wikilink") ： Chorus
   - [松下誠](../Page/松下誠.md "wikilink") ： Chorus
   - 山田秀俊 ： Chorus
-  - [梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink") ： Chorus
+  - [梅垣達志](../Page/梅垣達志.md "wikilink") ： Chorus
   - 緒方ミチコ ： Chorus
 
 [Category:角松敏生のアルバム](https://ja.wikipedia.org/wiki/Category:角松敏生のアルバム "wikilink") [Category:1982年のアルバム](https://ja.wikipedia.org/wiki/Category:1982年のアルバム "wikilink") [Category:RCAのアルバム](https://ja.wikipedia.org/wiki/Category:RCAのアルバム "wikilink")

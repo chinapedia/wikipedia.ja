@@ -1,7 +1,7 @@
 > この記事は[SACONのアタックヤング](https://ja.wikipedia.org/wiki/SACONのアタックヤング)から翻訳されています。
 
 
-**SACONのアタックヤング**（サコンのアタックヤング）は[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")[アタックヤング](../Page/アタックヤング.md "wikilink")の[木曜日](../Page/木曜日.md "wikilink")で、パーソナリティは[SACON](http://saconmusic.jimdo.com/)が担当のラジオ番組。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送開始[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に放送終了。
+**SACONのアタックヤング**（サコンのアタックヤング）は[STVラジオ](../Page/STVラジオ.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")[アタックヤング](../Page/アタックヤング.md "wikilink")の[木曜日](../Page/木曜日.md "wikilink")で、パーソナリティは[SACON](http://saconmusic.jimdo.com/)が担当のラジオ番組。[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送開始[2011年](../Page/2011年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")に放送終了。
 
 ## 放送時間
 

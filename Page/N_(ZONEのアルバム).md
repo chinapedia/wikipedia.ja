@@ -1,7 +1,7 @@
-> この記事は[N \(ZONE\)](https://ja.wikipedia.org/wiki/N_\(ZONE\))から翻訳されています。
+> この記事は[N \(ZONEのアルバム\)](https://ja.wikipedia.org/wiki/N_\(ZONEのアルバム\))から翻訳されています。
 
 
-『**N**』（エヌ）は、2004年にリリースされた[ZONEの](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。
+『**N**』（エヌ）は、2004年にリリースされた[ZONEの](../Page/ZONE_\(バンド\).md "wikilink")3枚目の[アルバム](../Page/アルバム.md "wikilink")。
 
 ## 解説
 
@@ -13,7 +13,7 @@
 
 1.  **[卒業](../Page/卒業_\(ZONEの曲\).md "wikilink")**
       -
-        12枚目のシングル。メインボーカルは[MIYUと](../Page/長瀬実夕.md "wikilink")[TOMOKA](https://ja.wikipedia.org/wiki/西村朝香 "wikilink")。
+        12枚目のシングル。メインボーカルは[MIYUと](../Page/長瀬実夕.md "wikilink")[TOMOKA](../Page/西村朝香.md "wikilink")。
 2.  **Come to myself**
       -
         ボーカルはTOMOKAと[MAIKO](https://ja.wikipedia.org/wiki/舞衣子 "wikilink")。
@@ -22,7 +22,7 @@
         TOMOKAのソロボーカル曲。
 4.  **Bible**
       -
-        [MIZUHO](https://ja.wikipedia.org/wiki/MIZUHO "wikilink")のソロボーカル曲。コーラスとしてTOMOKAが参加。
+        [MIZUHO](../Page/MIZUHO.md "wikilink")のソロボーカル曲。コーラスとしてTOMOKAが参加。
 5.  **BeaM**
       -
         [北海道文化放送](../Page/北海道文化放送.md "wikilink")（2003年）CMソング。アレンジされて収録となった。
@@ -43,7 +43,7 @@
         11枚目のシングル。
 11. **[恋々・・・](https://ja.wikipedia.org/wiki/true_blue/恋々・・・ "wikilink")**
       -
-        9枚目のシングルの両A面の2曲目。メインボーカルはMIYUと[TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")。
+        9枚目のシングルの両A面の2曲目。メインボーカルはMIYUと[TAKAYO](../Page/TAKAYO.md "wikilink")。
 12. **[H・A・N・A・B・I 〜君がいた夏〜](https://ja.wikipedia.org/wiki/H・A・N・A・B・I_〜君がいた夏〜 "wikilink")**
       -
         10枚目のシングル。
@@ -51,11 +51,11 @@
 
 ### 参加メンバー
 
-  - [TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")（9.10.11.12.13）
+  - [TAKAYO](../Page/TAKAYO.md "wikilink")（9.10.11.12.13）
   - [MIYU](../Page/長瀬実夕.md "wikilink")（1.5.6.7.8.9.10.11.12.13）
-  - [MIZUHO](https://ja.wikipedia.org/wiki/MIZUHO "wikilink")（1.4.5.8.9.10.11.12.13）
+  - [MIZUHO](../Page/MIZUHO.md "wikilink")（1.4.5.8.9.10.11.12.13）
   - [MAIKO](https://ja.wikipedia.org/wiki/舞衣子 "wikilink")（1.2.5.6.9.10.11.12.13）
-  - [TOMOKA](https://ja.wikipedia.org/wiki/西村朝香 "wikilink")（1.2.3.4.5）
+  - [TOMOKA](../Page/西村朝香.md "wikilink")（1.2.3.4.5）
 
 ## 脚注
 
@@ -63,8 +63,8 @@
 
 ## 外部リンク
 
-  - [Sony Music Online Japan : ZONE : N（初回限定盤）](http://www.sonymusic.co.jp/Music/Arch/SR/Zone/SRCL-5703/)
-  - [Sony Music Online Japan : ZONE : N（通常盤）](http://www.sonymusic.co.jp/Music/Arch/SR/Zone/SRCL-5971/)
+  - [Sony Music Online Japan : ZONE : N（初回限定盤）](https://www.sonymusic.co.jp/artist/Zone/discography/SRCL-5703)
+  - [Sony Music Online Japan : ZONE : N（通常盤）](https://www.sonymusic.co.jp/artist/Zone/discography/SRCL-5971)
 
 [Category:ZONEのアルバム](https://ja.wikipedia.org/wiki/Category:ZONEのアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink")
 

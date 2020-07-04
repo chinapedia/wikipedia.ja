@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マーゲートFC](https://ja.wikipedia.org/wiki/マーゲートFC)から翻訳されています。
 
 
 **マーゲート・フットボール・クラブ**（**Margate Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ケント州](https://ja.wikipedia.org/wiki/ケント州 "wikilink")、[サネット](../Page/サネット.md "wikilink")島、[マーゲート](https://ja.wikipedia.org/wiki/マーゲート "wikilink")を本拠地とするサッカークラブチームである。2014-2015シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

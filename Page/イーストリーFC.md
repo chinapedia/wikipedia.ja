@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[イーストリーFC](https://ja.wikipedia.org/wiki/イーストリーFC)から翻訳されています。
 
 
-**イーストリー・フットボール・クラブ**（**Eastleigh Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ハンプシャー](https://ja.wikipedia.org/wiki/ハンプシャー "wikilink")州[イーストリーを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Eastleigh "wikilink")。2012-2013シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
+**イーストリー・フットボール・クラブ**（**Eastleigh Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ハンプシャー](../Page/ハンプシャー.md "wikilink")州[イーストリーを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Eastleigh "wikilink")。2012-2013シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
 
 ## タイトル
 
@@ -39,7 +39,7 @@
 
   - [ギャヴィン・ホイト](https://ja.wikipedia.org/wiki/ギャヴィン・ホイト "wikilink") 2016-2018
 
-  - [グラハム・スタック](https://ja.wikipedia.org/wiki/グラハム・スタック "wikilink") 2017-2018
+  - [グラハム・スタック](../Page/グラハム・スタック.md "wikilink") 2017-2018
 
   - [マーク・イェイツ](https://ja.wikipedia.org/wiki/マーク・イェイツ "wikilink") 2017-2019
 

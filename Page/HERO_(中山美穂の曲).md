@@ -11,7 +11,6 @@
   - 年末発売だが翌年1月スタートのドラマ主題歌になっており、発売当時のジャケットには“新春スタートドラマ主題歌”というステッカーが貼られていた。
   - 主題歌ドラマ放送時期に[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")が起き、同年公開の主演映画『[Love Letter](../Page/Love_Letter_\(1995年の映画\).md "wikilink")』の撮影地でも大きな被害が出た事もあり、本人の意向で売上が募金として寄付された。
   - ライブビデオでは唯一『Miho Nakayama Concert Tour '95 "f"』（[VHS](../Page/VHS.md "wikilink")及び[LD](../Page/レーザーディスク.md "wikilink")）に収録されているが、同ライブビデオが収納されているDVD-BOX『Miho Nakayama Complete DVD-BOX』が発売された際は、版権の問題でこの曲のみカットされた。
-  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 
@@ -25,7 +24,7 @@
 ## 収録アルバム
 
   - **HERO**
-      - [COLLECTION III](https://ja.wikipedia.org/wiki/COLLECTION_III "wikilink")
+      - [COLLECTION III](../Page/COLLECTION_III.md "wikilink")
       - [TREASURY](../Page/TREASURY.md "wikilink")
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - [中山美穂 パーフェクト・ベスト](https://ja.wikipedia.org/wiki/中山美穂_パーフェクト・ベスト "wikilink")

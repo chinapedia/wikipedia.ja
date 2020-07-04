@@ -1,7 +1,7 @@
-> この記事は[YESTERDAY \& TODAY \(TOKIO\)](https://ja.wikipedia.org/wiki/YESTERDAY_\&_TODAY_\(TOKIO\))から翻訳されています。
+> この記事は[YESTERDAY \& TODAY \(TOKIOのアルバム\)](https://ja.wikipedia.org/wiki/YESTERDAY_\&_TODAY_\(TOKIOのアルバム\))から翻訳されています。
 
 
-『**YESTERDAY & TODAY**』（イエスタデイ・アンド・トゥデイ）は、[TOKIO](../Page/TOKIO.md "wikilink")の6作目のオリジナル・アルバムで、[2000年](../Page/2000年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")よりリリース、販売元は[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")（SRCL-4755）。
+『**YESTERDAY & TODAY**』（イエスタデイ・アンド・トゥデイ）は、[TOKIO](../Page/TOKIO.md "wikilink")の6作目のオリジナル・アルバムで、[2000年](../Page/2000年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")よりリリース、販売元は[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")（SRCL-4755）。
 
 ## 概要
 
@@ -16,10 +16,10 @@
         [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：Project T
 2.  **Yesterday's**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・作曲：[清水昭男](https://ja.wikipedia.org/wiki/清水昭男 "wikilink")、編曲：Project T
+        [作詞](../Page/作詞.md "wikilink")・作曲：[清水昭男](../Page/清水昭男.md "wikilink")、編曲：Project T
     <!-- end list -->
       - 今作のリードトラック
-      - [TBS系](../Page/TBSテレビ.md "wikilink")『[ガチンコ\!](https://ja.wikipedia.org/wiki/ガチンコ! "wikilink")』テーマソング
+      - [TBS系](../Page/TBSテレビ.md "wikilink")『[ガチンコ\!](../Page/ガチンコ!.md "wikilink")』テーマソング
     <!-- end list -->
       -
         3rdベストアルバム「[HEART](https://ja.wikipedia.org/wiki/HEART_\(TOKIOのアルバム\) "wikilink")」にも収録された。
@@ -28,15 +28,15 @@
         作詞・作曲：[白石紗澄李](https://ja.wikipedia.org/wiki/白石紗澄李 "wikilink")、編曲：Project T
 4.  **[何度も夢の中でくり返すラブ・ソング](https://ja.wikipedia.org/wiki/何度も夢の中でくり返すラブ・ソング/溢れる想い "wikilink")**（TOKIO Edit）
       -
-        作詞・作曲：[忌野清志郎](https://ja.wikipedia.org/wiki/忌野清志郎 "wikilink")、編曲：Project T
+        作詞・作曲：[忌野清志郎](../Page/忌野清志郎.md "wikilink")、編曲：Project T
     <!-- end list -->
       - 16thシングルの1曲目のTOKIOエディット
 5.  **Heart**
       -
-        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[清水昭男](https://ja.wikipedia.org/wiki/清水昭男 "wikilink")、編曲：Project T
-6.  **[忘れえぬ君へ…](https://ja.wikipedia.org/wiki/忘れえぬ君へ… "wikilink")**（Remix）
+        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[清水昭男](../Page/清水昭男.md "wikilink")、編曲：Project T
+6.  **[忘れえぬ君へ…](../Page/忘れえぬ君へ….md "wikilink")**（Remix）
       -
-        作詞：[岡部真理子](https://ja.wikipedia.org/wiki/岡部真理子 "wikilink")・[清水昭男](https://ja.wikipedia.org/wiki/清水昭男 "wikilink")、作曲：[清水昭男](https://ja.wikipedia.org/wiki/清水昭男 "wikilink")、編曲：[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
+        作詞：[岡部真理子](https://ja.wikipedia.org/wiki/岡部真理子 "wikilink")・[清水昭男](../Page/清水昭男.md "wikilink")、作曲：[清水昭男](../Page/清水昭男.md "wikilink")、編曲：[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
     <!-- end list -->
       - 17thシングルのリミックス・バージョン
 7.  '''Cool so Rock '''
@@ -49,16 +49,16 @@
       - [J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink")のミニアルバム「People Of The World」収録曲のリミックスバージョン
 9.  **ジャンクフードの逆襲**
       -
-        作詞：[夏野芹子](https://ja.wikipedia.org/wiki/夏野芹子 "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、編曲：森俊之
+        作詞：[夏野芹子](https://ja.wikipedia.org/wiki/夏野芹子 "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：森俊之
 10. **[君を想うとき](https://ja.wikipedia.org/wiki/君を想うとき/Oh!_Heaven "wikilink")**（Romanesque Version）
       -
-        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、編曲：そうる透・吉村龍太・[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")
+        作詞：[渡辺なつみ](../Page/渡辺なつみ_\(作詞家\).md "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：そうる透・吉村龍太・[鶴田海生](https://ja.wikipedia.org/wiki/鶴田海生 "wikilink")
     <!-- end list -->
       - 15thシングルの1曲目のロマネスクバージョン
 11. **Break Down**
       -
         作詞・作曲:[長瀬智也](../Page/長瀬智也.md "wikilink")、編曲：Project T
-12. **[Love & Peace](https://ja.wikipedia.org/wiki/Love_&_Peace "wikilink")**（Play-out Version）
+12. **[Love & Peace](../Page/Love_&_Peace.md "wikilink")**（Play-out Version）
       -
         作詞：[岡部真理子](https://ja.wikipedia.org/wiki/岡部真理子 "wikilink")、作曲：[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")、編曲：Project T
     <!-- end list -->
@@ -69,7 +69,7 @@
         3rdベストアルバムにも収録されている。
 14. **Yesterday's** 〜Reprise〜\[1\]
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・作曲：[清水昭男](https://ja.wikipedia.org/wiki/清水昭男 "wikilink")、編曲：Project T
+        [作詞](../Page/作詞.md "wikilink")・作曲：[清水昭男](../Page/清水昭男.md "wikilink")、編曲：Project T
     <!-- end list -->
       - 今作のリードトラックのアレンジバージョン
 

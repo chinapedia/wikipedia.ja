@@ -1,7 +1,7 @@
-> この記事は[Mebius \(\)](https://ja.wikipedia.org/wiki/Mebius_\(\))から翻訳されています。
+> この記事は[Mebius \(デュオ\)](https://ja.wikipedia.org/wiki/Mebius_\(デュオ\))から翻訳されています。
 
 
-**Mebius**（メビウス）は、岡田真実([ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink"))と岡田賀江([ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink"))姉妹による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット。[広島県](../Page/広島県.md "wikilink")[安芸郡](../Page/安芸郡_\(広島県\).md "wikilink")[熊野町](https://ja.wikipedia.org/wiki/熊野町 "wikilink")出身\[1\]。[アクターズスクール広島出身](https://ja.wikipedia.org/wiki/TSSプロダクション#アクターズスクール広島 "wikilink")\[2\]。2007年第1回[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")ミュージック オーディション「WHO'S NEXT?」グランプリ受賞アーティスト\[3\]。
+**Mebius**（メビウス）は、岡田真実([ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink"))と岡田賀江([ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink"))姉妹による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット。[広島県](../Page/広島県.md "wikilink")[安芸郡](../Page/安芸郡_\(広島県\).md "wikilink")[熊野町](../Page/熊野町.md "wikilink")出身\[1\]。[アクターズスクール広島出身](https://ja.wikipedia.org/wiki/TSSプロダクション#アクターズスクール広島 "wikilink")\[2\]。2007年第1回[Yahoo\!](../Page/Yahoo!.md "wikilink")ミュージック オーディション「WHO'S NEXT?」グランプリ受賞アーティスト\[3\]。
 
 ## メンバー
 
@@ -10,21 +10,21 @@
 
 ## 来歴
 
-[広島県](../Page/広島県.md "wikilink")[安芸郡](../Page/安芸郡_\(広島県\).md "wikilink")[熊野町](https://ja.wikipedia.org/wiki/熊野町 "wikilink")出身、[広島県立熊野高等学校](https://ja.wikipedia.org/wiki/広島県立熊野高等学校 "wikilink")出身\[4\]\[5\]の岡田真実（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink")）、賀江（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink")）姉妹はそれぞれ[アクターズスクール広島](https://ja.wikipedia.org/wiki/アクターズスクール広島 "wikilink")の1期生（姉）と3期生（妹）で、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の3人（1期生）とは年齢はMebiusの方が上だがスクールでは真実は同期、賀江は後輩にあたる\[6\]。
+[広島県](../Page/広島県.md "wikilink")[安芸郡](../Page/安芸郡_\(広島県\).md "wikilink")[熊野町](../Page/熊野町.md "wikilink")出身、[広島県立熊野高等学校](../Page/広島県立熊野高等学校.md "wikilink")出身\[4\]\[5\]の岡田真実（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink")）、賀江（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")＆[ピアノ](../Page/ピアノ.md "wikilink")）姉妹はそれぞれ[アクターズスクール広島](https://ja.wikipedia.org/wiki/アクターズスクール広島 "wikilink")の1期生（姉）と3期生（妹）で、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")の3人（1期生）とは年齢はMebiusの方が上だがスクールでは真実は同期、賀江は後輩にあたる\[6\]。
 
 結成は2003年。それまではお互いをライバル視していたが、アクターズスクール広島のイベントのためにふたりで組んだ“岡田'S”というユニットが好評だったため、賀江のニューヨーク留学からの帰国を期にデュオ結成を決意。真実は[エリザベト音楽大学](../Page/エリザベト音楽大学.md "wikilink")在学中に、賀江は高校を二年休学して留学した為、二十歳まで高校に通いながら[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")内のバーで歌い始めた。それをきっかけにライブハウスやクラブイベント、お祭りなどにも出演するようになり、メジャーデビューのチャンスをうかがいながらライブを重ね、オリジナル曲の制作に勤しむ。
 
-2007年、第1回[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")ミュージック [オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")「WHO'S NEXT?」で約3000曲のエントリーのなかからグランプリを獲得。
+2007年、第1回[Yahoo\!](../Page/Yahoo!.md "wikilink")ミュージック [オーディション](../Page/オーディション.md "wikilink")「WHO'S NEXT?」で約3000曲のエントリーのなかからグランプリを獲得。
 
-2008年3月12日、シングル『夢のカケラ』で[ユニバーサルミュージックよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+2008年3月12日、シングル『夢のカケラ』で[ユニバーサルミュージックよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
-2008年7月9日、熊野町民体育館で[尾方剛](https://ja.wikipedia.org/wiki/尾方剛 "wikilink")選手の激励会が開催、同郷出身のMebiusが尾方選手へのオリジナル応援歌『Power of DREAM（パワー・オ ブ・ドリーム）』を披露\[7\]
+2008年7月9日、熊野町民体育館で[尾方剛](../Page/尾方剛.md "wikilink")選手の激励会が開催、同郷出身のMebiusが尾方選手へのオリジナル応援歌『Power of DREAM（パワー・オ ブ・ドリーム）』を披露\[7\]
 
-2008年8月23日、[広島港](https://ja.wikipedia.org/wiki/広島港 "wikilink")出島野外特設会場での音楽フェス「サウンドマリーナ」に出演し、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")、[SEAMO](https://ja.wikipedia.org/wiki/SEAMO "wikilink")、[BARBEE BOYS](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")、[大橋卓弥](https://ja.wikipedia.org/wiki/大橋卓弥 "wikilink")、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")らと共演\[8\]\[9\]。
+2008年8月23日、[広島港](../Page/広島港.md "wikilink")出島野外特設会場での音楽フェス「サウンドマリーナ」に出演し、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[アンジェラ・アキ](https://ja.wikipedia.org/wiki/アンジェラ・アキ "wikilink")、[SEAMO](../Page/SEAMO.md "wikilink")、[BARBEE BOYS](../Page/BARBEE_BOYS.md "wikilink")、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")、[大橋卓弥](../Page/大橋卓弥.md "wikilink")、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")らと共演\[8\]\[9\]。
 
 2010年4月から「青空」が[JA共済](https://ja.wikipedia.org/wiki/JA共済 "wikilink")（広島）のコマーシャルソングとして起用される。
 
-2011年8月からは、トータテハウジング「未来家」のCMソング「しあわせの場所」、[福山平成大学](https://ja.wikipedia.org/wiki/福山平成大学 "wikilink")のオープンキャンパスのCMソング「1･2･3」をMebiusが手掛け歌っている。
+2011年8月からは、トータテハウジング「未来家」のCMソング「しあわせの場所」、[福山平成大学](../Page/福山平成大学.md "wikilink")のオープンキャンパスのCMソング「1･2･3」をMebiusが手掛け歌っている。
 
 2010年6月14日、ビルボードライブ東京で行われた[GyaO\!プレゼンツ](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")「[キャンドルナイト・プレミアムライブ](http://gyao.yahoo.co.jp/search?p=Mebius)」に出演。
 
@@ -40,7 +40,7 @@
 
 2013年4月、「青空」を[JA宮城のCMソングに起用](../Page/農業協同組合.md "wikilink")。ANAクラウンプラザホテル広島のCMソング、ティアラ福山のCMソング「Tempo.60」がスタート。
 
-2013年4月2日、[MAZDA Zoom-Zoom スタジアム広島での](https://ja.wikipedia.org/wiki/MAZDA_Zoom-Zoom_スタジアム広島 "wikilink")[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")開幕戦で国歌斉唱を務める。
+2013年4月2日、[MAZDA Zoom-Zoom スタジアム広島での](../Page/MAZDA_Zoom-Zoom_スタジアム広島.md "wikilink")[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")開幕戦で国歌斉唱を務める。
 
 2013年4月21日、妹の賀江の誕生日を記念して「Mebius Norie Birthday Live」を開催。
 
@@ -216,7 +216,7 @@
 <tr class="odd">
 <td><p>Power of DREAM<br />
 （パワー・オ ブ・ドリーム）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尾方剛" title="wikilink">尾方剛</a>選手へのオリジナル応援歌</p></td>
+<td><p><a href="../Page/尾方剛.md" title="wikilink">尾方剛</a>選手へのオリジナル応援歌</p></td>
 <td><center>
 <p>-</p>
 </center></td>
@@ -241,7 +241,7 @@ JA宮城 CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>1･2･3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福山平成大学" title="wikilink">福山平成大学</a>オープンキャンパス CMソング</p></td>
+<td><p><a href="../Page/福山平成大学.md" title="wikilink">福山平成大学</a>オープンキャンパス CMソング</p></td>
 <td><center>
 <p>-</p>
 </center></td>

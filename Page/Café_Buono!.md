@@ -1,11 +1,11 @@
-> この記事は[Caf Buono!](https://ja.wikipedia.org/wiki/Caf_Buono!)から翻訳されています。
+> この記事は[Café Buono!](https://ja.wikipedia.org/wiki/Café_Buono!)から翻訳されています。
 
 
 『**Café Buono\!**』（カフェ・ボーノ）は、[Buono\!](../Page/Buono!.md "wikilink")の1st[アルバム](../Page/アルバム.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
 ## 概要
 
-テレビアニメ「[しゅごキャラ\!](https://ja.wikipedia.org/wiki/しゅごキャラ! "wikilink")」の主題歌となった「[こころのたまご](../Page/ホントのじぶん.md "wikilink")」「[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")」「[恋愛♥ライダー](../Page/恋愛ライダー.md "wikilink")」を含む全12曲を収録。[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のプロデューサーである[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")は本アルバムの制作に関わっておらず、全曲外部の制作陣による楽曲である。
+テレビアニメ「[しゅごキャラ\!](../Page/しゅごキャラ!.md "wikilink")」の主題歌となった「[こころのたまご](../Page/ホントのじぶん.md "wikilink")」「[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")」「[恋愛♥ライダー](../Page/恋愛ライダー.md "wikilink")」を含む全12曲を収録。[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のプロデューサーである[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")は本アルバムの制作に関わっておらず、全曲外部の制作陣による楽曲である。
 
 初回限定盤、通常盤（初回生産分）にはオリジナルトレーディングカードが封入されている。
 
@@ -16,9 +16,9 @@
 1.  **Café Buono\!**
     （作詞：川上夏季、作曲・編曲：[木之下慶行](https://ja.wikipedia.org/wiki/木之下慶行 "wikilink")）
 2.  **泣き虫少年**
-    （作詞：[岩里祐穂](https://ja.wikipedia.org/wiki/岩里祐穂 "wikilink")、作曲・編曲：AKIRASTAR）
+    （作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲・編曲：AKIRASTAR）
 3.  **[恋愛♥ライダー](../Page/恋愛ライダー.md "wikilink")**
-    （作詞：岩里祐穂、作曲：AKIRASTAR、編曲：[西川進](https://ja.wikipedia.org/wiki/西川進 "wikilink")）
+    （作詞：岩里祐穂、作曲：AKIRASTAR、編曲：[西川進](../Page/西川進.md "wikilink")）
       -
         2ndシングル
 4.  **[ホントのじぶん](../Page/ホントのじぶん.md "wikilink")**
@@ -34,11 +34,11 @@
 8.  **Last Forever**
     （作詞：川上夏季、作曲・編曲：西川進）
 9.  **[こころのたまご](../Page/ホントのじぶん.md "wikilink")**
-    （作詞：川上夏季、作曲：ムラマツテツヤ、編曲：[安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")）
+    （作詞：川上夏季、作曲：ムラマツテツヤ、編曲：[安部潤](../Page/安部潤.md "wikilink")）
       -
         1stシングルカップリング
 10. **星の羊たち**
-    （作詞：[橋本淳](https://ja.wikipedia.org/wiki/橋本淳_\(作詞家\) "wikilink")、作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲：[SHUNTARO](https://ja.wikipedia.org/wiki/沖野俊太郎 "wikilink")）
+    （作詞：[橋本淳](../Page/橋本淳_\(作詞家\).md "wikilink")、作曲：[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲：[SHUNTARO](../Page/沖野俊太郎.md "wikilink")）
 11. **ロックの神様**
     （作詞：岩里祐穂、作曲・編曲：AKIRASTAR）
 12. **君がいれば**
@@ -63,17 +63,17 @@
   - [仁科かおり](https://ja.wikipedia.org/wiki/仁科かおり "wikilink") - コーラス(1,3,5,6)
   - AKIRASTAR - プログラミング・ギター・ベース(2,11)
   - Marron - コーラス(2,4,11,12)
-  - [西川進](https://ja.wikipedia.org/wiki/西川進 "wikilink") - ギター(3,8)、ギター・ベース(4)
-  - [野崎森男](https://ja.wikipedia.org/wiki/野崎森男 "wikilink") - ベース(3)
-  - [村石雅行](https://ja.wikipedia.org/wiki/村石雅行 "wikilink") - ドラム(3)
+  - [西川進](../Page/西川進.md "wikilink") - ギター(3,8)、ギター・ベース(4)
+  - [野崎森男](../Page/野崎森男.md "wikilink") - ベース(3)
+  - [村石雅行](../Page/村石雅行.md "wikilink") - ドラム(3)
   - Eji - キーボード(3,4,8)
   - 中山信彦 - プログラミング(4,8)
   - 佐久間誠 - プログラミング(5)、キーボード・プログラミング(12)
   - A-bee - プログラミング(6)
   - 中野定博 - プログラミング(7)
-  - [安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink") - プログラミング・キーボード(9)
+  - [安部潤](../Page/安部潤.md "wikilink") - プログラミング・キーボード(9)
   - 鈴木健治 - ギター(9)
-  - [SHUNTARO](https://ja.wikipedia.org/wiki/沖野俊太郎 "wikilink") - プログラミング(10)
+  - [SHUNTARO](../Page/沖野俊太郎.md "wikilink") - プログラミング(10)
   - 池田森 - ギター(10)
   - 石井いずみグループ - ストリングス(10)
   - [鈴木英俊](../Page/鈴木英俊.md "wikilink") - ギター(12)

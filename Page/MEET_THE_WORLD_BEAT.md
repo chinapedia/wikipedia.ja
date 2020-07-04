@@ -203,7 +203,7 @@
 <tr class="even">
 <td><p>MEET THE WORLD BEAT 2019</p></td>
 <td><p>2019年7月21日</p></td>
-<td><p>あいみょん・<a href="https://ja.wikipedia.org/wiki/Anly" title="wikilink">Anly</a>・くるり・<a href="https://ja.wikipedia.org/wiki/SIRUP" title="wikilink">SIRUP</a>・Superfly・ナオト・インティライミ・<a href="https://ja.wikipedia.org/wiki/ビッケブランカ" title="wikilink">ビッケブランカ</a>・<a href="https://ja.wikipedia.org/wiki/平井大" title="wikilink">平井大</a>・<a href="https://ja.wikipedia.org/wiki/ベリーグッドマン" title="wikilink">ベリーグッドマン</a>・<a href="https://ja.wikipedia.org/wiki/Little_Glee_Monster" title="wikilink">Little Glee Monster</a></p></td>
+<td><p>あいみょん・<a href="https://ja.wikipedia.org/wiki/Anly" title="wikilink">Anly</a>・くるり・<a href="../Page/SIRUP.md" title="wikilink">SIRUP</a>・Superfly・ナオト・インティライミ・<a href="https://ja.wikipedia.org/wiki/ビッケブランカ" title="wikilink">ビッケブランカ</a>・<a href="https://ja.wikipedia.org/wiki/平井大" title="wikilink">平井大</a>・<a href="https://ja.wikipedia.org/wiki/ベリーグッドマン" title="wikilink">ベリーグッドマン</a>・<a href="https://ja.wikipedia.org/wiki/Little_Glee_Monster" title="wikilink">Little Glee Monster</a></p></td>
 <td><p>入場者数：14000人 応募者数：350,000通</p></td>
 </tr>
 </tbody>

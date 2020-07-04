@@ -1,9 +1,9 @@
 > この記事は[Can\'t Hide](https://ja.wikipedia.org/wiki/Can\'t_Hide)から翻訳されています。
 
 
-「**Can't Hide**」（キャント・ハイド）は日本の[女優](../Page/俳優.md "wikilink")、[タレント](../Page/タレント.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")である[佐藤寛子](https://ja.wikipedia.org/wiki/佐藤寛子_\(タレント\) "wikilink")（さとう ひろこ）の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")・[シングル](../Page/シングル.md "wikilink")。
+「**Can't Hide**」（キャント・ハイド）は日本の[女優](../Page/俳優.md "wikilink")、[タレント](../Page/タレント.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")である[佐藤寛子](../Page/佐藤寛子_\(タレント\).md "wikilink")（さとう ひろこ）の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")・[シングル](../Page/シングル.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売。発売元は[GIRLS' RECORD](../Page/ガールズレコード.md "wikilink")。販売元はエイベックス・マーケティング・コミュニケーションズ株式会社（現・エイベックス・マーケティング）。
+[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に発売。発売元は[GIRLS' RECORD](../Page/ガールズレコード.md "wikilink")。販売元はエイベックス・マーケティング・コミュニケーションズ株式会社（現・エイベックス・マーケティング）。
 Barcode (JAN): 4562127820313
 
 ## 解説

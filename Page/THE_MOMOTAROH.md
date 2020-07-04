@@ -3,7 +3,7 @@
 
 『**THE MOMOTAROH**』（ザ・モモタロウ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")42号から[1989年](../Page/1989年.md "wikilink")50号まで[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")にて連載された[にわのまこと](../Page/にわのまこと.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。単行本は全10巻。後にワイド版の全2巻として復刊している。
 
-日本古来の[おとぎ話をモチーフにしたキャラクターがプロレスのリングで戦いを繰り広げ同時にドタバタのギャグの数々をも繰り出すコメディ色の強い](../Page/説話.md "wikilink")[格闘漫画](https://ja.wikipedia.org/wiki/格闘漫画 "wikilink")。作者の連載デビュー作でもある。
+日本古来の[おとぎ話をモチーフにしたキャラクターがプロレスのリングで戦いを繰り広げ同時にドタバタのギャグの数々をも繰り出すコメディ色の強い](../Page/説話.md "wikilink")[格闘漫画](../Page/格闘漫画.md "wikilink")。作者の連載デビュー作でもある。
 
 その後、2003年から2004年にかけて『[ビジネスジャンプ](../Page/ビジネスジャンプ.md "wikilink") BJ魂』に続編『THE MOMOTAROH PART2』が掲載された。
 

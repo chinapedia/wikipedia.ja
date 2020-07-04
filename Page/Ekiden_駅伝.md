@@ -1,4 +1,4 @@
-> この記事は[Ekiden ](https://ja.wikipedia.org/wiki/Ekiden_)から翻訳されています。
+> この記事は[Ekiden 駅伝](https://ja.wikipedia.org/wiki/Ekiden_駅伝)から翻訳されています。
 
 
 『**ekiden 駅伝**』（えきでん）は、[2000年](../Page/2000年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。
@@ -9,18 +9,18 @@
 
 ## キャスト
 
-  - 岬壮介：[伊藤高史](https://ja.wikipedia.org/wiki/伊藤高史 "wikilink")
+  - 岬壮介：[伊藤高史](../Page/伊藤高史.md "wikilink")
   - 早川義彦：[中村俊介](https://ja.wikipedia.org/wiki/中村俊介 "wikilink")
   - 矢木沢さおり：[田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")
-  - 繁村：[根津甚八](https://ja.wikipedia.org/wiki/根津甚八_\(俳優\) "wikilink")
+  - 繁村：[根津甚八](../Page/根津甚八_\(俳優\).md "wikilink")
   - 和田行：[別所哲也](../Page/別所哲也.md "wikilink")
-  - 大森：[小倉久寛](https://ja.wikipedia.org/wiki/小倉久寛 "wikilink")
-  - 芦田：[近藤芳正](https://ja.wikipedia.org/wiki/近藤芳正 "wikilink")
-  - 八木：[羽場裕一](https://ja.wikipedia.org/wiki/羽場裕一 "wikilink")
+  - 大森：[小倉久寛](../Page/小倉久寛.md "wikilink")
+  - 芦田：[近藤芳正](../Page/近藤芳正.md "wikilink")
+  - 八木：[羽場裕一](../Page/羽場裕一.md "wikilink")
   - 村橋渉：[堀真樹](https://ja.wikipedia.org/wiki/堀真樹 "wikilink")
   - 川田宏美：[野波麻帆](https://ja.wikipedia.org/wiki/野波麻帆 "wikilink")
-  - 横井：[永堀剛敏](https://ja.wikipedia.org/wiki/永堀剛敏 "wikilink")
-  - 医学部教授：[寺脇康文](https://ja.wikipedia.org/wiki/寺脇康文 "wikilink")
+  - 横井：[永堀剛敏](../Page/永堀剛敏.md "wikilink")
+  - 医学部教授：[寺脇康文](../Page/寺脇康文.md "wikilink")
   - 重役：[林昭夫](https://ja.wikipedia.org/wiki/林昭夫 "wikilink")
 
 ## スタッフ

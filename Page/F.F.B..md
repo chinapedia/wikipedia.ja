@@ -1,7 +1,7 @@
 > この記事は[F.F.B.](https://ja.wikipedia.org/wiki/F.F.B.)から翻訳されています。
 
 
-「**F.F.B.**」（エフ.エフ.ビー.）は、[キングギドラの](https://ja.wikipedia.org/wiki/KGDR "wikilink")[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")から発売。
+「**F.F.B.**」（エフ.エフ.ビー.）は、[キングギドラの](../Page/KGDR.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")から発売。
 
 ## 解説
 
@@ -13,12 +13,16 @@
 
 ## CDの収録曲
 
+## 楽曲解説
+
 1.  **F.F.B.**
-    （作詞:[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink"),[K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink") 作曲:[INOVADER](https://ja.wikipedia.org/wiki/INOVADER "wikilink")）
-2.  **平成維新 feat. 童子-T & UZI**
-    （作詞:ZEEBRA,K DUB SHINE,[UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"),[童子-T](https://ja.wikipedia.org/wiki/童子-T "wikilink")）
+2.  **平成維新 feat. [童子-T](../Page/童子-T.md "wikilink") & [UZI](../Page/UZI_\(ラッパー\).md "wikilink")**
+      -
+        [侍](../Page/侍.md "wikilink")や[忍者](../Page/忍者.md "wikilink")と言ったスタイルで、[平成](../Page/平成.md "wikilink")という時代で世の中を変えていくというメッセージを込めて制作された\[1\]。
+        Contains Samplesとして[DABO](../Page/DABO.md "wikilink")の「拍手喝采」、[RHYMESTER](../Page/RHYMESTER.md "wikilink")の「ブラザーズ」、K DUB SHINEの「機能停止」がクレジットされている。
 3.  **夜明け**
-    （作曲:[DJ OASIS](https://ja.wikipedia.org/wiki/DJ_OASIS "wikilink") ※インスト楽曲）
+      -
+        インスト楽曲。
 4.  **F.F.B. (Instrumental)**
 5.  **平成維新 (Instrumental)**
 
@@ -33,4 +37,10 @@
     2.  **平成維新 (Instrumental)**
     3.  **平成維新 (Acappella)**
 
-[Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本のヒップホップのシングル](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのシングル "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+## 脚注
+
+<references />
+
+[Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本のヒップホップのシングル](https://ja.wikipedia.org/wiki/Category:日本のヒップホップのシングル "wikilink") [Category:Zeebraが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Zeebraが制作した楽曲 "wikilink") [Category:楽曲_え](https://ja.wikipedia.org/wiki/Category:楽曲_え "wikilink")
+
+1.

@@ -1,7 +1,7 @@
-> この記事は[My](https://ja.wikipedia.org/wiki/My)から翻訳されています。
+> この記事は[Myアセット](https://ja.wikipedia.org/wiki/Myアセット)から翻訳されています。
 
 
-**株式会社Ｍｙアセット**（まいあせっと、*My Asset Corporation*）は、千葉県松戸市小根本に[本社](https://ja.wikipedia.org/wiki/本社 "wikilink")を置く[不動産会社](../Page/不動産会社.md "wikilink")である。2008年より「住まい創りから資産創りへ」をキャッチコピーに株式会社大成住販から社名変更。
+**株式会社Ｍｙアセット**（まいあせっと、*My Asset Corporation*）は、千葉県松戸市小根本に[本社](../Page/本社.md "wikilink")を置く[不動産会社](../Page/不動産会社.md "wikilink")である。2008年より「住まい創りから資産創りへ」をキャッチコピーに株式会社大成住販から社名変更。
 
 ## 概要
 
@@ -13,12 +13,12 @@
       - 7月 - 株式会社大成住販設立 資本金1,850万円。
       - 8月 - 宅建免許取得。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")6月 - 建設業許可取得。
-  - [1993年](../Page/1993年.md "wikilink")2月 - 株式会社ハウスポート西洋(現：[みずほ不動産販売](https://ja.wikipedia.org/wiki/みずほ不動産販売 "wikilink")株式会社に営業譲渡)と業務提携。
+  - [1993年](../Page/1993年.md "wikilink")2月 - 株式会社ハウスポート西洋(現：[みずほ不動産販売](../Page/みずほ不動産販売.md "wikilink")株式会社に営業譲渡)と業務提携。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")7月 - 資本金を3,000万円へ増資。
   - [2000年](../Page/2000年.md "wikilink")11月 - 資本金を5,000万円へ増資。
   - [2002年](../Page/2002年.md "wikilink")2月 - [二級建築士](https://ja.wikipedia.org/wiki/二級建築士 "wikilink")事務所登録。
   - [2004年](../Page/2004年.md "wikilink")12月 - 葛飾区に営業所を開設して宅建業国土交通大臣免許を取得。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 4月 - [不動産投資顧問業者](https://ja.wikipedia.org/wiki/不動産投資顧問業者 "wikilink")登録。
       - 8月 - 現本社所在地に新社屋が完成。
       - 10月 - 中央区日本橋に日本橋サテライトを開設して営業開始。

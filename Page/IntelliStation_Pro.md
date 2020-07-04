@@ -1,21 +1,21 @@
 > この記事は[IntelliStation Pro](https://ja.wikipedia.org/wiki/IntelliStation_Pro)から翻訳されています。
 
 
-**IntelliStation Pro**（インテリステーション・プロ）は、1997年から2008年まで展開していた[IBM](../Page/IBM.md "wikilink")の[ワークステーション](../Page/ワークステーション.md "wikilink")の製品名である。[IBM PC 360・365の後継として](https://ja.wikipedia.org/wiki/IBM_PC_Series "wikilink")1997年3月に発売された。Blade Workstation HC10 の登場により、製造販売を中止した。IBMによるPC事業売却の対象とならず、[ThinkCentre](https://ja.wikipedia.org/wiki/ThinkCentre "wikilink")・[ThinkPad](../Page/ThinkPad.md "wikilink")シリーズ売却の2005年以降もIBMで開発・販売されたため、[Lenovo](https://ja.wikipedia.org/wiki/Lenovo "wikilink")が販売する「**ThinkStation**（シンクステーション）」とは開発上の関連性はない。\[1\]この項では姉妹製品である「IntelliStation POWER」についても記す。
+**IntelliStation Pro**（インテリステーション・プロ）は、1997年から2008年まで展開していた[IBM](../Page/IBM.md "wikilink")の[ワークステーション](../Page/ワークステーション.md "wikilink")の製品名である。[IBM PC 360・365の後継として](https://ja.wikipedia.org/wiki/IBM_PC_Series "wikilink")1997年3月に発売された。Blade Workstation HC10 の登場により、製造販売を中止した。IBMによるPC事業売却の対象とならず、[ThinkCentre](../Page/ThinkCentre.md "wikilink")・[ThinkPad](../Page/ThinkPad.md "wikilink")シリーズ売却の2005年以降もIBMで開発・販売されたため、[Lenovo](https://ja.wikipedia.org/wiki/Lenovo "wikilink")が販売する「**ThinkStation**（シンクステーション）」とは開発上の関連性はない。\[1\]この項では姉妹製品である「IntelliStation POWER」についても記す。
 
 一部のM Proはローエンドモデルの[NetFinity](https://ja.wikipedia.org/wiki/NetFinity "wikilink")1000シリーズとハードウエア構造的に類似していた。
 
-[2002年](../Page/2002年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には、[POWERプロセッサをベースとする](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")[eServer pSeriesのワークステーションもIntelliStationの傘下に収めた](https://ja.wikipedia.org/wiki/System_p "wikilink")。
+[2002年](../Page/2002年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")には、[POWERプロセッサをベースとする](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")[eServer pSeriesのワークステーションもIntelliStationの傘下に収めた](../Page/System_p.md "wikilink")。
 
 ## 概要
 
-[企業](../Page/企業.md "wikilink")向け[クランアントコンピュータとして提供され](../Page/クライアント_\(コンピュータ\).md "wikilink")、主に機械設計用の[CATIA](https://ja.wikipedia.org/wiki/CATIA "wikilink")などの3次元[CAD](../Page/CAD.md "wikilink")や、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")性能を要求する業務用の[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を利用する。
+[企業](../Page/企業.md "wikilink")向け[クランアントコンピュータとして提供され](../Page/クライアント_\(コンピュータ\).md "wikilink")、主に機械設計用の[CATIA](../Page/CATIA.md "wikilink")などの3次元[CAD](../Page/CAD.md "wikilink")や、[コンピュータグラフィックス](../Page/コンピュータグラフィックス.md "wikilink")性能を要求する業務用の[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を利用する。
 
-[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium 4や](../Page/Pentium_4.md "wikilink")、[Core 2 Duoを搭載した](https://ja.wikipedia.org/wiki/Intel_Core_2 "wikilink")**M Pro**（エム・プロ）、[Xeon](../Page/Xeon.md "wikilink")搭載の**Z Pro**（ゼット・プロ）、[AMD製](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[CPU](../Page/CPU.md "wikilink")搭載の**A Pro**（エー・プロ）のシリーズがある。エントリー向けワークステーションとして**EPro**（イー・プロ）。日本もマーケット向けに、小型化したMProとして MPro SFFがラインナップに存在した。 IBMのサーバー管理ソフトウェアDirectorやRDMと連携できる仕掛けや、不具合が起きた際、故障個所をLEDの点灯で明示するLight Path を備え保守を容易にしている。オンラインでハードウェアのリビジョンやファームウェアバージョン、インストールされているアプリケーションのバージョン一覧を取得するツールを利用できるなど、PCと差別化のできなくなっている今日のワークステーションと比べ、前述の通りNetFinityやSystem p、System xと近しい関係にありサーバー譲りの独自機能が付加されていた。
+[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium 4や](../Page/Pentium_4.md "wikilink")、[Core 2 Duoを搭載した](../Page/Intel_Core_2.md "wikilink")**M Pro**（エム・プロ）、[Xeon](../Page/Xeon.md "wikilink")搭載の**Z Pro**（ゼット・プロ）、[AMD製](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[CPU](../Page/CPU.md "wikilink")搭載の**A Pro**（エー・プロ）のシリーズがある。エントリー向けワークステーションとして**EPro**（イー・プロ）。日本もマーケット向けに、小型化したMProとして MPro SFFがラインナップに存在した。 IBMのサーバー管理ソフトウェアDirectorやRDMと連携できる仕掛けや、不具合が起きた際、故障個所をLEDの点灯で明示するLight Path を備え保守を容易にしている。オンラインでハードウェアのリビジョンやファームウェアバージョン、インストールされているアプリケーションのバージョン一覧を取得するツールを利用できるなど、PCと差別化のできなくなっている今日のワークステーションと比べ、前述の通りNetFinityやSystem p、System xと近しい関係にありサーバー譲りの独自機能が付加されていた。
 
-高度な描画性能へのニーズに応え、[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")の[Quadro](https://ja.wikipedia.org/wiki/Quadro "wikilink")シリーズや[ATI FireProシリーズなど基板サイズの大きな](https://ja.wikipedia.org/wiki/ATI_FirePro "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")（選択式）を内蔵する。また、[サーバ](../Page/サーバ.md "wikilink")と同様に[ディスクアレイ](https://ja.wikipedia.org/wiki/ディスクアレイ "wikilink")コントローラを搭載し、[RAID](../Page/RAID.md "wikilink")構成で稼働率の高い構成が採れる。
+高度な描画性能へのニーズに応え、[NVIDIA](../Page/NVIDIA.md "wikilink")の[Quadro](https://ja.wikipedia.org/wiki/Quadro "wikilink")シリーズや[ATI FireProシリーズなど基板サイズの大きな](https://ja.wikipedia.org/wiki/ATI_FirePro "wikilink")[ビデオカード](../Page/ビデオカード.md "wikilink")（選択式）を内蔵する。また、[サーバ](../Page/サーバ.md "wikilink")と同様に[ディスクアレイ](../Page/ディスクアレイ.md "wikilink")コントローラを搭載し、[RAID](../Page/RAID.md "wikilink")構成で稼働率の高い構成が採れる。
 
-このように、CPUやビデオカード等の構成が多岐に渡るため、IBMおなじみの[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")い筐体ながらIntellistation専用のものから[NetVista](https://ja.wikipedia.org/wiki/NetVista "wikilink")や[ThinkCentre](https://ja.wikipedia.org/wiki/ThinkCentre "wikilink")と共通のものまでラインナップされており、シリーズによって大きさが異なる。またIntellistationの多くに共通する特徴として、NetVistaやThinkCentreなどに用いられていたIBMカラーであるブルーのアクセントが用いられていないあるいは使われている比率が少ない場合が多い。
+このように、CPUやビデオカード等の構成が多岐に渡るため、IBMおなじみの[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")い筐体ながらIntellistation専用のものから[NetVista](https://ja.wikipedia.org/wiki/NetVista "wikilink")や[ThinkCentre](../Page/ThinkCentre.md "wikilink")と共通のものまでラインナップされており、シリーズによって大きさが異なる。またIntellistationの多くに共通する特徴として、NetVistaやThinkCentreなどに用いられていたIBMカラーであるブルーのアクセントが用いられていないあるいは使われている比率が少ない場合が多い。
 
 [2007年](../Page/2007年.md "wikilink")に後継のIBM [BladeCenter](https://ja.wikipedia.org/wiki/BladeCenter "wikilink") HC10の登場により販売を終了した。
 
@@ -25,7 +25,7 @@
   - E pro - エントリーモデル(1998年-2003年)
   - M pro - Intel Pentium II・Pentium 4・Core 2 Duo・Xeon搭載モデル(1997年-2007年)
   - R pro - 1Uラックマウント型(2001年)
-  - Z pro - Intel Xeon・[Itanium](https://ja.wikipedia.org/wiki/Itanium "wikilink")搭載モデル(1997年-2006年)
+  - Z pro - Intel Xeon・[Itanium](../Page/Itanium.md "wikilink")搭載モデル(1997年-2006年)
 
 いずれのシリーズも[2013年](../Page/2013年.md "wikilink")現在は生産終了している。
 
@@ -622,7 +622,7 @@
 <tr class="odd">
 <td><p>初期導入オペレーティング・システム</p></td>
 <td><center>
-<p><a href="https://ja.wikipedia.org/wiki/AIX" title="wikilink">AIX</a> 5L Versions 5.1/5.2もしくはAIX Version 4.3.3</p>
+<p><a href="../Page/AIX.md" title="wikilink">AIX</a> 5L Versions 5.1/5.2もしくはAIX Version 4.3.3</p>
 </center></td>
 </tr>
 <tr class="even">
@@ -919,7 +919,7 @@
 
   - [IBM PC](https://ja.wikipedia.org/wiki/IBM_PC_Series "wikilink") - IBM PC 360・365の後継モデル。
   - [BladeCenter](https://ja.wikipedia.org/wiki/BladeCenter "wikilink") - HC10が後継モデル。
-  - [System p](https://ja.wikipedia.org/wiki/System_p "wikilink")
+  - [System p](../Page/System_p.md "wikilink")
   - [NetFinity](https://ja.wikipedia.org/wiki/NetFinity "wikilink")
   - [ThinkPad](../Page/ThinkPad.md "wikilink") - シリーズ名の末尾に「p」の付くモデルは"モバイルワークステーション"と呼ばれ、通常のThinkPadよりも高性能なグラフィックチップが搭載されていた。
 

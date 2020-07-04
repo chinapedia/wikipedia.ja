@@ -1,11 +1,11 @@
-> この記事は[Oops!](https://ja.wikipedia.org/wiki/Oops!)から翻訳されています。
+> この記事は[Oops!フェアリーペアレンツ](https://ja.wikipedia.org/wiki/Oops!フェアリーペアレンツ)から翻訳されています。
 
 
-**Oops\!フェアリー・ペアレンツ**（原題:**The Fairly OddParents**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")との[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。現在[ニコロデオンで放送されている](https://ja.wikipedia.org/wiki/ニコロデオン_\(TVチャンネル\) "wikilink")。[ブッチ・ハートマン](https://ja.wikipedia.org/wiki/ブッチ・ハートマン "wikilink")原作・監督。1998年9月4日、の一環として"The Fairly OddParents\!"というタイトルで放送がされた。のちにオーイェイ・カートゥーンズ\!から独立する形で2001年3月30日にアメリカ合衆国で放送された。
+**Oops\!フェアリー・ペアレンツ**（原題:**The Fairly OddParents**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")との[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。現在[ニコロデオンで放送されている](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink")。[ブッチ・ハートマン](https://ja.wikipedia.org/wiki/ブッチ・ハートマン "wikilink")原作・監督。1998年9月4日、の一環として"The Fairly OddParents\!"というタイトルで放送がされた。のちにオーイェイ・カートゥーンズ\!から独立する形で2001年3月30日にアメリカ合衆国で放送された。
 
 2010年、このアニメを基にした実写テレビ映画が[A Fairly Odd Movie: Grow Up, Timmy Turner\!というタイトルで放送されるということが報じられ](https://ja.wikipedia.org/wiki/:en:A_Fairly_Odd_Movie:_Grow_Up,_Timmy_Turner! "wikilink")\[1\]、2011年7月9日にアメリカ合衆国でそのテレビ映画が放送された。
 
-日本は2006年7月7日から閉局までニコロデオンで放送され、ニコロデオン閉局から数年後の2014年3月24日から2016年9月2日まで、日本の[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")で放送された。なお、2015年9月2日にサービスが開始した[ネットフリックス](https://ja.wikipedia.org/wiki/ネットフリックス "wikilink")で配信される。
+日本は2006年7月7日から閉局までニコロデオンで放送され、ニコロデオン閉局から数年後の2014年3月24日から2016年9月2日まで、日本の[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")で放送された。なお、2015年9月2日にサービスが開始した[ネットフリックス](https://ja.wikipedia.org/wiki/ネットフリックス "wikilink")で配信される。
 
 ## あらすじ
 
@@ -14,28 +14,28 @@
 ## 登場人物
 
   - ティミー・ターナー (Timmy Turner)
-    声 - [小林希唯](https://ja.wikipedia.org/wiki/小林希唯 "wikilink")/英 - [タラ・ストロング](../Page/タラ・ストロング.md "wikilink"),[メアリー・ケイ・バーグマン](https://ja.wikipedia.org/wiki/メアリー・ケイ・バーグマン "wikilink")（オーイェイ・カートゥーンズ\!時代）
+    声 - [小林希唯](../Page/小林希唯.md "wikilink")/英 - [タラ・ストロング](../Page/タラ・ストロング.md "wikilink"),[メアリー・ケイ・バーグマン](https://ja.wikipedia.org/wiki/メアリー・ケイ・バーグマン "wikilink")（オーイェイ・カートゥーンズ\!時代）
     この物語の主人公。10歳。典型的ないじめられっ子。また両親から愛されてはいるものの、関心を持ってもらえず、家では[ベビーシッター](../Page/ベビーシッター.md "wikilink")のヴィッキーにいじめられている。
   - コズモ (Cosmo)
-    声 - [真殿光昭](https://ja.wikipedia.org/wiki/真殿光昭 "wikilink")/英 - [ダラン・ノリス](https://ja.wikipedia.org/wiki/ダラン・ノリス "wikilink")
-    ターナー家に来た妖精夫婦の夫。頭に[ティアラ](https://ja.wikipedia.org/wiki/ティアラ "wikilink")がのっている。普段はワンダと共に金魚の姿をして、ティミーの部屋の[金魚鉢](../Page/金魚鉢.md "wikilink")の中にいる。ティミーの言う事を何でも後先考えず、変な解釈をしてティミーの願いをかなえてしまう為いつもワンダに迷惑をかけている。ワンダと結婚して9895年経っている。
+    声 - [真殿光昭](../Page/真殿光昭.md "wikilink")/英 - [ダラン・ノリス](https://ja.wikipedia.org/wiki/ダラン・ノリス "wikilink")
+    ターナー家に来た妖精夫婦の夫。頭に[ティアラ](../Page/ティアラ.md "wikilink")がのっている。普段はワンダと共に金魚の姿をして、ティミーの部屋の[金魚鉢](../Page/金魚鉢.md "wikilink")の中にいる。ティミーの言う事を何でも後先考えず、変な解釈をしてティミーの願いをかなえてしまう為いつもワンダに迷惑をかけている。ワンダと結婚して9895年経っている。
   - ワンダ (Wanda)
-    声 - [夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")/英 - [スーザン・ブレークスリー](https://ja.wikipedia.org/wiki/スーザン・ブレークスリー "wikilink")
+    声 - [夏樹リオ](../Page/夏樹リオ.md "wikilink")/英 - [スーザン・ブレークスリー](https://ja.wikipedia.org/wiki/スーザン・ブレークスリー "wikilink")
     ターナー家に来た妖精夫婦の妻。普段はコズモと共に金魚の姿をして、ティミーの部屋の金魚鉢の中にいる。夫のコズモと違いしっかり者であるが故に、いつもティミーとコズモのしでかした失敗の尻拭いをさせられている。何故かコズモの母親ママコズモに嫌われ結婚を反対されており、登場の際はママコズモに嫌がらせをされる。
   - ターナー夫妻 (Mom & Dad)
-    声 - [滝知史](https://ja.wikipedia.org/wiki/滝知史 "wikilink")、[加藤優子](https://ja.wikipedia.org/wiki/加藤優子 "wikilink")/英 - [ダラン・ノリス](https://ja.wikipedia.org/wiki/ダラン・ノリス "wikilink")、[スーザン・ブレークスリー](https://ja.wikipedia.org/wiki/スーザン・ブレークスリー "wikilink")
+    声 - [滝知史](../Page/滝知史.md "wikilink")、[加藤優子](https://ja.wikipedia.org/wiki/加藤優子 "wikilink")/英 - [ダラン・ノリス](https://ja.wikipedia.org/wiki/ダラン・ノリス "wikilink")、[スーザン・ブレークスリー](https://ja.wikipedia.org/wiki/スーザン・ブレークスリー "wikilink")
     ティミーの両親。息子を愛してはいるが、今ひとつ関心を持っていないためか鈍い。父親は鉛筆のセールスマンで、母親は不動産屋。二人の本名は不明で、過去にタイムスリップし二人の幼少時代が登場した際も何故か「パパ」「ママ」と呼ばれていた。第24話Aパート（後述の表参照（ディズニーチャンネル版では第26話Aパート））で、パパの年齢が42歳であることが判明する。
   - ヴィッキー (Vicky)
-    声 - [木川絵理子](https://ja.wikipedia.org/wiki/木川絵理子 "wikilink")/英 - [グレイ・デリスル](../Page/グレイ・デリスル.md "wikilink")
+    声 - [木川絵理子](../Page/木川絵理子.md "wikilink")/英 - [グレイ・デリスル](../Page/グレイ・デリスル.md "wikilink")
     ターナー家に来ているベビーシッターの少女。周囲には明るくて気が利く風に振舞っているが、本性はかなり腹黒く意地悪で、ティミーとのトラブルが絶えない。おまけにティミーへのいじめの証拠を残さないなど、かなりの知能犯。毎回のOP曲の最後で、一瞬だけだが必ず顔が変形する。
   - トゥーティー (Tootie)
-    声 - [根本圭子](https://ja.wikipedia.org/wiki/根本圭子 "wikilink")/英 - グレイ・デリスル
+    声 - [根本圭子](../Page/根本圭子.md "wikilink")/英 - グレイ・デリスル
     ヴィッキーの妹で、歯の矯正器具をつけた眼鏡の女の子。姉とは反対の性格でティミーが大好き。彼にしつこいくらい付きまとっているが、ティミーは相手にするどころかいじめている。また、姉のヴィッキーからもいじめられている。
 
 ### ティミーの恩師・同級生
 
   - クロッカー先生 (Denzel Crocker)
-    声 -[岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink")/英 - [カルロス・アラズラキ](https://ja.wikipedia.org/wiki/カルロス・アラズラキ "wikilink")
+    声 -[岩崎ひろし](../Page/岩崎ひろし.md "wikilink")/英 - [カルロス・アラズラキ](https://ja.wikipedia.org/wiki/カルロス・アラズラキ "wikilink")
     ティミーの担任教師。小学校の先生ではあるが、子供嫌いなのか生徒に嫌がらせをしたり、テストなどの採点の際はABC評価の「F」をやたら出す。陰湿な教師の為生徒からも他の先生からも嫌われている。そして異常なまでもフェアリーペアレンツに関心があり、フェアリーペアレンツの存在を証明し功績を得たがっている。学校で起きる不思議な出来事がある度フェアリーペアレンツの仕業だと判断し過剰反応をする。そのため、いつも周囲に不思議な事が起こるティミーに目をつけている。
   - チェスター・マクバット (Chester Mcbadbat)
     声 - /英 - [フランキー・ムニッズ](https://ja.wikipedia.org/wiki/フランキー・ムニッズ "wikilink")→ジェイソン・マースデン
@@ -80,9 +80,9 @@
     声 -/ 英 -[メアリー・ケイ・バーグマン](https://ja.wikipedia.org/wiki/メアリー・ケイ・バーグマン "wikilink")
 
   - クリムゾン・アーゴ (Crimson Chin)
-    声 - [滝知史](https://ja.wikipedia.org/wiki/滝知史 "wikilink")/ 英 - [ジェイ・レノ](https://ja.wikipedia.org/wiki/ジェイ・レノ "wikilink")
+    声 - [滝知史](../Page/滝知史.md "wikilink")/ 英 - [ジェイ・レノ](../Page/ジェイ・レノ.md "wikilink")
 
-    ティミーの大好きなアニメの主人公。取材中に放射能に汚染された男性俳優にあごをかまれ、スーパーパワーを手に入れ、世界の平和を守っている。基本的に『[スーパーマン](../Page/スーパーマン.md "wikilink")』の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")のような設定となっている。
+    ティミーの大好きなアニメの主人公。取材中に放射能に汚染された男性俳優にあごをかまれ、スーパーパワーを手に入れ、世界の平和を守っている。基本的に『[スーパーマン](../Page/スーパーマン.md "wikilink")』の[パロディ](../Page/パロディ.md "wikilink")のような設定となっている。
 
   - (Poof)
     声 -/ 英 - [タラ・ストロング](../Page/タラ・ストロング.md "wikilink")
@@ -271,93 +271,93 @@
 
 ### 第9シーズン（2013年 - 2015年）
 
-| 話数  | サブタイトル                         | 原題                         | 備考                                                                       | 放送日（アメリカ）                                                                                   |
-| --- | ------------------------------ | -------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| 127 |                                | "Fairly OddPet"            |                                                                          | [2013年](../Page/2013年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                    |
-| 128 |                                | "Dinklescouts"             |                                                                          | [2013年](../Page/2013年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")                    |
-|     | "I Dream of Cosmo"             |                            |                                                                          |                                                                                             |
-| 129 |                                | "Turner & Pooch"           |                                                                          | [2013年](../Page/2013年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")   |
-|     | "Dumbbell Curve"               |                            | [2013年](../Page/2013年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") |                                                                                             |
-| 130 |                                | "The Terrible Twosome"     |                                                                          | [2013年](../Page/2013年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                      |
-|     | "App Trap"                     |                            | [2013年](../Page/2013年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")   |                                                                                             |
-| 131 |                                | "Force of Nature"          |                                                                          | [2013年](../Page/2013年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")                    |
-|     | "Viral Vidiots"                |                            | [2013年](../Page/2013年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") |                                                                                             |
-| 132 |                                | "Scary GodCouple"          |                                                                          | [2013年](../Page/2013年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")                  |
-| 133 |                                | "Two and a Half Babies"    |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                    |
-|     | "Anchor's Away"                |                            |                                                                          |                                                                                             |
-| 134 |                                | "Finding Emo"              |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")                      |
-|     | "Dust Busters"                 |                            |                                                                          |                                                                                             |
-| 135 |                                | "The Bored Identity"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") |
-|     | "Country Clubbed"              |                            |                                                                          |                                                                                             |
-| 136 |                                | "Dog Gone"                 |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")                    |
-|     | "Turner Back Time"             |                            |                                                                          |                                                                                             |
-| 137 |                                | "Cosmonopoly"              |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")   |
-|     | "Hero Hound"                   |                            |                                                                          |                                                                                             |
-| 138 |                                | "A Boy and His Dog-Boy"    |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")   |
-|     | "Crock Blocked"                |                            |                                                                          |                                                                                             |
-| 139 |                                | "Weirdos on a Train"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")                    |
-|     | "Tons of Timmys"               |                            |                                                                          |                                                                                             |
-| 140 |                                | "Let Sleeper Dogs Lie"     |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")                    |
-|     | "Cat-Astrophe"                 |                            |                                                                          |                                                                                             |
-| 141 |                                | "Lame Ducks"               |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")                    |
-|     | "A Perfect Nightmare"          |                            |                                                                          |                                                                                             |
-| 142 |                                | "Love at First Bark"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                    |
-|     | "Desperate without Housewives" |                            |                                                                          |                                                                                             |
-| 143 |                                | "Jerk of All Trades"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")                    |
-|     | "Snack Attack"                 |                            |                                                                          |                                                                                             |
-| 144 |                                | "Turning into Turner"      |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")                    |
-|     | "The Wand That Got Away"       |                            |                                                                          |                                                                                             |
-| 145 |                                | "Stage Fright"             |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")                    |
-|     | "Gone Flushin"                 |                            |                                                                          |                                                                                             |
-| 146 |                                | "Fairly Old Parent"        |                                                                          | [2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")                    |
-| 147 |                                | "School of Crock"          |                                                                          | [2014年](../Page/2014年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")                    |
-| 148 |                                | "Dimmsdale Tales"          |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")                    |
-| 149 |                                | "The Past and the Furious" |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")                    |
-| 150 |                                | "The Fairy Beginning"      |                                                                          | [2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")                    |
-| 151 |                                | "Fairly Odd Fairy Tales"   |                                                                          | [2014年](../Page/2014年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")                      |
-| 152 |                                | "Man's Worst Friend"       |                                                                          | [2015年](../Page/2015年.md "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")   |
+| 話数  | サブタイトル                         | 原題                         | 備考                                                                       | 放送日（アメリカ）                                                                                 |
+| --- | ------------------------------ | -------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| 127 |                                | "Fairly OddPet"            |                                                                          | [2013年](../Page/2013年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                  |
+| 128 |                                | "Dinklescouts"             |                                                                          | [2013年](../Page/2013年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")                  |
+|     | "I Dream of Cosmo"             |                            |                                                                          |                                                                                           |
+| 129 |                                | "Turner & Pooch"           |                                                                          | [2013年](../Page/2013年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") |
+|     | "Dumbbell Curve"               |                            | [2013年](../Page/2013年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink") |                                                                                           |
+| 130 |                                | "The Terrible Twosome"     |                                                                          | [2013年](../Page/2013年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                    |
+|     | "App Trap"                     |                            | [2013年](../Page/2013年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")   |                                                                                           |
+| 131 |                                | "Force of Nature"          |                                                                          | [2013年](../Page/2013年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")                  |
+|     | "Viral Vidiots"                |                            | [2013年](../Page/2013年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink") |                                                                                           |
+| 132 |                                | "Scary GodCouple"          |                                                                          | [2013年](../Page/2013年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")                |
+| 133 |                                | "Two and a Half Babies"    |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                  |
+|     | "Anchor's Away"                |                            |                                                                          |                                                                                           |
+| 134 |                                | "Finding Emo"              |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")                    |
+|     | "Dust Busters"                 |                            |                                                                          |                                                                                           |
+| 135 |                                | "The Bored Identity"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")                  |
+|     | "Country Clubbed"              |                            |                                                                          |                                                                                           |
+| 136 |                                | "Dog Gone"                 |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")                  |
+|     | "Turner Back Time"             |                            |                                                                          |                                                                                           |
+| 137 |                                | "Cosmonopoly"              |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") |
+|     | "Hero Hound"                   |                            |                                                                          |                                                                                           |
+| 138 |                                | "A Boy and His Dog-Boy"    |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") |
+|     | "Crock Blocked"                |                            |                                                                          |                                                                                           |
+| 139 |                                | "Weirdos on a Train"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")                  |
+|     | "Tons of Timmys"               |                            |                                                                          |                                                                                           |
+| 140 |                                | "Let Sleeper Dogs Lie"     |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")                  |
+|     | "Cat-Astrophe"                 |                            |                                                                          |                                                                                           |
+| 141 |                                | "Lame Ducks"               |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")                  |
+|     | "A Perfect Nightmare"          |                            |                                                                          |                                                                                           |
+| 142 |                                | "Love at First Bark"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                  |
+|     | "Desperate without Housewives" |                            |                                                                          |                                                                                           |
+| 143 |                                | "Jerk of All Trades"       |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")                  |
+|     | "Snack Attack"                 |                            |                                                                          |                                                                                           |
+| 144 |                                | "Turning into Turner"      |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")                  |
+|     | "The Wand That Got Away"       |                            |                                                                          |                                                                                           |
+| 145 |                                | "Stage Fright"             |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")                  |
+|     | "Gone Flushin"                 |                            |                                                                          |                                                                                           |
+| 146 |                                | "Fairly Old Parent"        |                                                                          | [2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")                  |
+| 147 |                                | "School of Crock"          |                                                                          | [2014年](../Page/2014年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")                  |
+| 148 |                                | "Dimmsdale Tales"          |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")                  |
+| 149 |                                | "The Past and the Furious" |                                                                          | [2014年](../Page/2014年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")                  |
+| 150 |                                | "The Fairy Beginning"      |                                                                          | [2015年](../Page/2015年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")                  |
+| 151 |                                | "Fairly Odd Fairy Tales"   |                                                                          | [2014年](../Page/2014年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")                    |
+| 152 |                                | "Man's Worst Friend"       |                                                                          | [2015年](../Page/2015年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")                    |
 
 ### 第10シーズン（2016年 - 2017年）
 
-| 話数  | サブタイトル                                           | 原題                                      | 備考                                                                       | 放送日（アメリカ）                                                                                 |
-| --- | ------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| 153 |                                                  | "The Big Fairy Share Scare\!"           |                                                                          | [2016年](../Page/2016年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")                  |
-| 154 |                                                  | "Whittle Me This"                       |                                                                          | [2016年](../Page/2016年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")                  |
-|     | "Mayor May Not"                                  |                                         | [2016年](../Page/2016年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") |                                                                                           |
-| 155 |                                                  | "Girly Squirrely"                       |                                                                          | [2016年](../Page/2016年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")                    |
-|     | "Birthday Battle: Transmorphers Versus Unicorns" |                                         | [2016年](../Page/2016年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink") |                                                                                           |
-| 156 |                                                  | "The Fair Bears"                        |                                                                          | [2016年](../Page/2016年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")                  |
-|     | "Return of the L.O.S.E.R.S."                     |                                         | [2017年](../Page/2017年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink") |                                                                                           |
-| 157 |                                                  | "A Sash and a Rash"                     |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")                  |
-|     | "Fish Out of Water"                              |                                         |                                                                          |                                                                                           |
-| 158 |                                                  | "Animal Crockers"                       |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")                  |
-|     | "One Flu Over the Crocker's Nest"                |                                         |                                                                          |                                                                                           |
-| 159 |                                                  | "Booby Trapped"                         |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")                  |
-| 160 |                                                  | "Blue Angel"                            |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")                  |
-|     | "Marked Man"                                     |                                         |                                                                          |                                                                                           |
-| 161 |                                                  | "Clark Laser"                           |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")                  |
-|     | "Married to the Mom"                             |                                         |                                                                          |                                                                                           |
-| 162 |                                                  | "Which is Wish"                         |                                                                          | [2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")                  |
-|     | "Nuts & Dangerous"                               |                                         | [2017年](../Page/2017年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") |                                                                                           |
-| 163 |                                                  | "Fairy Con"                             |                                                                          | [2017年](../Page/2017年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")                  |
-|     | "The Hungry Games"                               |                                         | [2017年](../Page/2017年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink") |                                                                                           |
-| 164 |                                                  | "Spring Break-Up"                       |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")                    |
-|     | "Dimmsdale Daze"                                 |                                         | [2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") |                                                                                           |
-| 165 |                                                  | "Cat 'n Mouse"                          |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")                  |
-|     | "Chip Off the Old Crock\!"                       |                                         | [2017年](../Page/2017年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") |                                                                                           |
-| 166 |                                                  | "Space Ca-Dad"                          |                                                                          | [2017年](../Page/2017年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")                  |
-|     | "Summer Bummer"                                  |                                         | [2017年](../Page/2017年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink") |                                                                                           |
-| 167 |                                                  | "Hare-Raiser"                           |                                                                          | [2017年](../Page/2017年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")                  |
-|     | "The Kale Patch Caper"                           |                                         |                                                                          |                                                                                           |
-| 168 |                                                  | "Dadlantis"                             |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink") |
-|     | "Chloe Rules\!"                                  |                                         | [2017年](../Page/2017年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") |                                                                                           |
-| 169 |                                                  | "Crockin' The House"                    |                                                                          | [2017年](../Page/2017年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")                  |
-|     | "Tardy Sauce"                                    |                                         | [2017年](../Page/2017年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") |                                                                                           |
-| 170 |                                                  | "Knitwits"                              |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink") |
-|     | "Dimmsdale's Got Talent?"                        |                                         | [2017年](../Page/2017年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink") |                                                                                           |
-| 171 |                                                  | "Certifiable Super Sitter"              |                                                                          | [2017年](../Page/2017年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")                  |
-| 172 |                                                  | "Goldi-Crocks and the Three Fair Bears" |                                                                          | [2017年](../Page/2017年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")                  |
-|     | "Fancy Schmancy"                                 |                                         | [2017年](../Page/2017年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")   |                                                                                           |
+| 話数  | サブタイトル                                           | 原題                                      | 備考                                                                       | 放送日（アメリカ）                                                                |
+| --- | ------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| 153 |                                                  | "The Big Fairy Share Scare\!"           |                                                                          | [2016年](../Page/2016年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink") |
+| 154 |                                                  | "Whittle Me This"                       |                                                                          | [2016年](../Page/2016年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink") |
+|     | "Mayor May Not"                                  |                                         | [2016年](../Page/2016年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink") |                                                                          |
+| 155 |                                                  | "Girly Squirrely"                       |                                                                          | [2016年](../Page/2016年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")   |
+|     | "Birthday Battle: Transmorphers Versus Unicorns" |                                         | [2016年](../Page/2016年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink") |                                                                          |
+| 156 |                                                  | "The Fair Bears"                        |                                                                          | [2016年](../Page/2016年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") |
+|     | "Return of the L.O.S.E.R.S."                     |                                         | [2017年](../Page/2017年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink") |                                                                          |
+| 157 |                                                  | "A Sash and a Rash"                     |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink") |
+|     | "Fish Out of Water"                              |                                         |                                                                          |                                                                          |
+| 158 |                                                  | "Animal Crockers"                       |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink") |
+|     | "One Flu Over the Crocker's Nest"                |                                         |                                                                          |                                                                          |
+| 159 |                                                  | "Booby Trapped"                         |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink") |
+| 160 |                                                  | "Blue Angel"                            |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") |
+|     | "Marked Man"                                     |                                         |                                                                          |                                                                          |
+| 161 |                                                  | "Clark Laser"                           |                                                                          | [2016年](../Page/2016年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink") |
+|     | "Married to the Mom"                             |                                         |                                                                          |                                                                          |
+| 162 |                                                  | "Which is Wish"                         |                                                                          | [2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") |
+|     | "Nuts & Dangerous"                               |                                         | [2017年](../Page/2017年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") |                                                                          |
+| 163 |                                                  | "Fairy Con"                             |                                                                          | [2017年](../Page/2017年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") |
+|     | "The Hungry Games"                               |                                         | [2017年](../Page/2017年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink") |                                                                          |
+| 164 |                                                  | "Spring Break-Up"                       |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")   |
+|     | "Dimmsdale Daze"                                 |                                         | [2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") |                                                                          |
+| 165 |                                                  | "Cat 'n Mouse"                          |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") |
+|     | "Chip Off the Old Crock\!"                       |                                         | [2017年](../Page/2017年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") |                                                                          |
+| 166 |                                                  | "Space Ca-Dad"                          |                                                                          | [2017年](../Page/2017年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") |
+|     | "Summer Bummer"                                  |                                         | [2017年](../Page/2017年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink") |                                                                          |
+| 167 |                                                  | "Hare-Raiser"                           |                                                                          | [2017年](../Page/2017年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink") |
+|     | "The Kale Patch Caper"                           |                                         |                                                                          |                                                                          |
+| 168 |                                                  | "Dadlantis"                             |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")   |
+|     | "Chloe Rules\!"                                  |                                         | [2017年](../Page/2017年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") |                                                                          |
+| 169 |                                                  | "Crockin' The House"                    |                                                                          | [2017年](../Page/2017年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink") |
+|     | "Tardy Sauce"                                    |                                         | [2017年](../Page/2017年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") |                                                                          |
+| 170 |                                                  | "Knitwits"                              |                                                                          | [2017年](../Page/2017年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")   |
+|     | "Dimmsdale's Got Talent?"                        |                                         | [2017年](../Page/2017年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink") |                                                                          |
+| 171 |                                                  | "Certifiable Super Sitter"              |                                                                          | [2017年](../Page/2017年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink") |
+| 172 |                                                  | "Goldi-Crocks and the Three Fair Bears" |                                                                          | [2017年](../Page/2017年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink") |
+|     | "Fancy Schmancy"                                 |                                         | [2017年](../Page/2017年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")   |                                                                          |
 
 ## スタッフ
 

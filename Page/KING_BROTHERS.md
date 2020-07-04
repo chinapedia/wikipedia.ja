@@ -1,11 +1,11 @@
 > この記事は[KING BROTHERS](https://ja.wikipedia.org/wiki/KING_BROTHERS)から翻訳されています。
 
 
-**KING BROTHERS**（キング・ブラザーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンド。[兵庫県](../Page/兵庫県.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")出身。
+**KING BROTHERS**（キング・ブラザーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンド。[兵庫県](../Page/兵庫県.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")出身。略称は"キンブラ"
 
 ## 略歴
 
-1997年結成。2001年[東芝EMIからメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。2003年、アルバムリリース後にメジャー契約を解除。その直後ドラマー藤本順が脱退、サポートドラマーとして和田シンジ（巨人ゆえにデカイ）が参加。2005年、和田シンジがサポートを離脱。その後、新ドラマーとして林田リンダが正式加入する。
+1998年結成。2001年[東芝EMIからメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。2003年、アルバムリリース後にメジャー契約を解除。その直後ドラマー藤本順が脱退、サポートドラマーとして和田シンジ（巨人ゆえにデカイ）が参加。2005年、和田シンジがサポートを離脱。その後、新ドラマーとして林田リンダが正式加入する。
 
 2006年、マーヤの骨折、林田の脱退といったトラブルが相次ぎ、ライブ活動休止を発表。2007年、バンド史上初となるベーシストも含めた新メンバーを加え活動再開。2011年、[ビクターエンタテイメント](https://ja.wikipedia.org/wiki/ビクターエンタテイメント "wikilink")から再メジャーデビュー。2013年、シンノスケ、タイチが脱退を発表し、一時活動休止。2014年、新ドラマーとしてゾニーが加入し活動再開。
 
@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - マーヤ（小山雅史）([1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")[11月5日](../Page/11月5日.md "wikilink") - ) - ギター・スクリーム
+  - マーヤ（小山雅史）([1976年](../Page/1976年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - ) - ギター・スクリーム
 
 <!-- end list -->
 
@@ -33,14 +33,14 @@
 
 <!-- end list -->
 
-  - ゾニー - ドラム
+  - ゾニー - ドラム - [13日の金曜日の殺人鬼](../Page/13日の金曜日_\(映画\).md "wikilink")、ジェイソンのマスクを被っている。
 
 ### 元メンバー
 
   - 北浦大輔 - ギター（脱退後、PVのアニメーション作画を担当）
   - 川崎 - ドラム
   - 藤本順 - ドラム（一時期は「ヘアー」も担当）
-  - 和田シンジ - ドラム （現[DMBQ](https://ja.wikipedia.org/wiki/DMBQ "wikilink")）
+  - 和田シンジ - ドラム （現[DMBQ](../Page/DMBQ.md "wikilink")）
   - 林田リンダ - ドラム
   - シンノスケ（須方真之介） ([1979年](../Page/1979年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ) - ベース
   - タイチ（高野太一） ([1981年](../Page/1981年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") - ) - ドラム
@@ -824,7 +824,7 @@ XQFL-91002</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年7月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リロ・アンド・スティッチ" title="wikilink">リロ・アンド・スティッチ</a>のロックカヴァーアルバム「ロック・スティッチ」</p></td>
+<td><p><a href="../Page/リロ・アンド・スティッチ.md" title="wikilink">リロ・アンド・スティッチ</a>のロックカヴァーアルバム「ロック・スティッチ」</p></td>
 <td><p>AVCW-12789</p></td>
 <td><p>10.Rubberneckin' / KING BROTHERS</p></td>
 </tr>
@@ -850,7 +850,7 @@ XQFL-91002</p></td>
 | **監督**                                                                  | **曲名**                                                                                                               |
 | [アベトシアキ](https://ja.wikipedia.org/wiki/アベトシアキ "wikilink")(toshiaki abe) | 「[JUDGEMENT MAN](https://www.youtube.com/watch?v=FjWlp4XMkPM)」「[XXXXX](https://www.youtube.com/watch?v=_z_GbuwSqt0)」 |
 | [遠藤雄二](https://ja.wikipedia.org/wiki/遠藤雄二 "wikilink")                   | 「はじまりの朝」「消えうせろ」                                                                                                      |
-| [小川直也](https://ja.wikipedia.org/wiki/小川直也 "wikilink")                   | 「☆☆☆☆ (＠渋谷チェルシーホテル Ver.)」                                                                                            |
+| [小川直也](../Page/小川直也.md "wikilink")                                      | 「☆☆☆☆ (＠渋谷チェルシーホテル Ver.)」                                                                                            |
 | [さいごうみちのり](https://ja.wikipedia.org/wiki/さいごうみちのり "wikilink")           | 「ドカドカ」                                                                                                               |
 | [丹羽貴幸](https://ja.wikipedia.org/wiki/丹羽貴幸 "wikilink")                   | 「[マッハクラブ](https://www.youtube.com/watch?v=oiLqW-r1suo)」                                                              |
 | [Pandalira](https://ja.wikipedia.org/wiki/Pandalira "wikilink")         | 「Big Beat」「MONSTER」「Zeppelin (RED Ver.)」「ビックボス / マッハ倶楽部」                                                             |
@@ -891,8 +891,10 @@ XQFL-91002</p></td>
   - KING BROTHERS vs KILL YOUR KING BROTHERS 神戸編 ～王様のあなたを血祭りにあげる1000の方法～（2015年）
   - パーフェクト皆殺し集会 2015 岡山編（2015年）
   - KING BROTHERS presents 「喧嘩記念日5days×渋谷トウセンビル炎上2015」（2015年）
-  - [ギターウルフ](https://ja.wikipedia.org/wiki/ギターウルフ "wikilink")&キングブラザーズ presents 『HANS CONDOR JAPAN TOUR 2015 - "日米野獣戦線 骨までしゃぶれ\!ツアー"』（2015年）
+  - [ギターウルフ](../Page/ギターウルフ.md "wikilink")&キングブラザーズ presents 『HANS CONDOR JAPAN TOUR 2015 - "日米野獣戦線 骨までしゃぶれ\!ツアー"』（2015年）
   - 大阪Mチャンネル KING BROTHERS × THE SESELAGEES ～キンキラキンにセセらいで～（2015年）
+  - Rock'n'Roll INVASION (KING BROTHERS,[KiNGONS](https://ja.wikipedia.org/wiki/KiNGONS "wikilink"),[忘れてモーテルズ](https://ja.wikipedia.org/wiki/忘れてモーテルズ "wikilink")との3マンツアー)(2019年)
+  - Rock'n'Roll INVASION Valentine Special(前回の3組に加え、沖縄からHELL型,HARAHELLSがゲスト参加)(2020)
 
 ### 出演イベント
 
@@ -909,11 +911,11 @@ XQFL-91002</p></td>
   - 2008年08月24日 - SET YOU FREE SUMMER FESTA 2008
   - 2008年09月21日 - [AOMORI ROCK FESTIVAL](../Page/AOMORI_ROCK_FESTIVAL.md "wikilink") '08 ～夏の魔物～
   - 2009年07月18日 - AOMORI ROCK FESTIVAL '09 ～夏の魔物～
-  - 2009年10月17日 - [ミドリ](https://ja.wikipedia.org/wiki/ミドリ_\(バンド\) "wikilink") 全国2マンツアー「初体験 VS ツアー」
+  - 2009年10月17日 - [ミドリ](../Page/ミドリ_\(バンド\).md "wikilink") 全国2マンツアー「初体験 VS ツアー」
   - 2009年10月18日 - [THE RODEO CARBURETTOR](../Page/THE_RODEO_CARBURETTOR.md "wikilink") VANDALIZE TOUR
   - 2010年08月06日 - ROCK IN JAPAN FESTIVAL 2010
   - 2010年08月21日 - AOMORI ROCK FESTIVAL '10 ～夏の魔物～
-  - 2010年09月25日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 野外フェスティバル 長田大行進曲
+  - 2010年09月25日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 野外フェスティバル 長田大行進曲
   - 2010年10月05日 - SUZUDAMA'10
   - 2010年11月14日 - MINAMI WHEEL 2010
   - 2010年12月31日 - 平成22年度 KINDAMA～年越し音泉\!謹賀魂～

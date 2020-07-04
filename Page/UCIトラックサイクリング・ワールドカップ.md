@@ -1,11 +1,11 @@
 > この記事は[UCIトラックサイクリング・ワールドカップ](https://ja.wikipedia.org/wiki/UCIトラックサイクリング・ワールドカップ)から翻訳されています。
 
 
-**UCIトラックサイクリングワールドカップ**（UCI Track Cycling World Cup、旧称**UCIトラックワールドカップクラシックス**）とは、[自転車競技](../Page/自転車競技.md "wikilink")・[トラックレース](../Page/トラックレース.md "wikilink")におけるシリーズ戦。[1993年](../Page/1993年.md "wikilink")より実施されている。通常は**トラックワールドカップ**と略して言われる。タイトルスポンサーはオフィシャルタイムキーパーの[ティソ](../Page/ティソ.md "wikilink")。
+**UCIトラックサイクリングワールドカップ**（UCI Track Cycling World Cup、旧称**UCIトラックワールドカップクラシックス**）とは、[自転車競技](../Page/自転車競技.md "wikilink")の[トラックレース](../Page/トラックレース.md "wikilink")におけるシリーズ戦。[1993年](../Page/1993年.md "wikilink")より実施されている。通常は**トラックワールドカップ**と略して言われる。タイトルスポンサーはオフィシャルタイムキーパーの[ティソ](../Page/ティソ.md "wikilink")。
 
 ## 概要
 
-[ロードレースにおいて当時行われていた](../Page/ロードレース_\(自転車競技\).md "wikilink")、[UCI・ロードワールドカップ](../Page/UCI・ロードワールドカップ.md "wikilink")に倣ってトラックレースにおいても同様のシリーズ戦の実施が検討され、丁度プロ・アマオープン化元年となった1993年5月、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")で初開催され、以後[2003年](../Page/2003年.md "wikilink")〜[2004年](../Page/2004年.md "wikilink")シーズンまでは概ね春〜夏の期間にかけて年間4〜6戦行われたが、[アテネオリンピック終了後の](../Page/2004年アテネオリンピック.md "wikilink")[2004年](../Page/2004年.md "wikilink")〜[2005年](../Page/2005年.md "wikilink")シーズンより、[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink")（UCI）のトラックレース振興策に基づき、開催時期をロードレースが丁度オフシーズンとなる秋〜初春に移行。概ね当年11月〜翌年2月まで4戦のシリーズ戦となった。また当シリーズ戦終了後、2005年より概ね3月下旬に[世界自転車選手権](https://ja.wikipedia.org/wiki/世界自転車選手権 "wikilink")のトラックレースが開催されるようになった。
+[ロードレースにおいて当時行われていた](../Page/ロードレース_\(自転車競技\).md "wikilink")[UCIロードワールドカップ](../Page/UCIロードワールドカップ.md "wikilink")に倣ってトラックレースにおいても同様のシリーズ戦の実施が検討され、丁度プロ・アマオープン化元年となった1993年5月、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[コペンハーゲン](../Page/コペンハーゲン.md "wikilink")で初開催され、以後[2003年](../Page/2003年.md "wikilink")〜[2004年](../Page/2004年.md "wikilink")シーズンまでは概ね春〜夏の期間にかけて年間4〜6戦行われたが、[アテネオリンピック終了後の](../Page/2004年アテネオリンピック.md "wikilink")[2004年](../Page/2004年.md "wikilink")〜[2005年](../Page/2005年.md "wikilink")シーズンより、[国際自転車競技連合](../Page/国際自転車競技連合.md "wikilink")（UCI）のトラックレース振興策に基づき、開催時期をロードレースが丁度オフシーズンとなる秋〜初春に移行。概ね当年11月〜翌年2月まで4戦のシリーズ戦となった。また当シリーズ戦終了後、2005年より概ね3月下旬に[世界自転車選手権](https://ja.wikipedia.org/wiki/世界自転車選手権 "wikilink")のトラックレースが開催されるようになった。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")7月に[東京ドーム](../Page/東京ドーム.md "wikilink")で開催が行われたことがあるが、その後は一度も行われていない。また概ね冬季に開催が移行されてからは全て室内での開催となった。それ以前は屋外での開催も行われていた。
 
@@ -51,7 +51,7 @@
 
   - [山田裕仁](../Page/山田裕仁.md "wikilink") - ボルデノーネ・ケイリン 2位
   - [飯島規之](https://ja.wikipedia.org/wiki/飯島規之 "wikilink") - イボー・個人追抜 2位
-  - [濱田浩司](https://ja.wikipedia.org/wiki/濱田浩司 "wikilink")、[大森慶一](https://ja.wikipedia.org/wiki/大森慶一 "wikilink")、[荒井崇博](https://ja.wikipedia.org/wiki/荒井崇博 "wikilink") - メキシコシティ・オリンピックスプリント 2位
+  - [濱田浩司](https://ja.wikipedia.org/wiki/濱田浩司 "wikilink")、[大森慶一](https://ja.wikipedia.org/wiki/大森慶一 "wikilink")、[荒井崇博](../Page/荒井崇博.md "wikilink") - メキシコシティ・オリンピックスプリント 2位
   - [金子貴志](https://ja.wikipedia.org/wiki/金子貴志 "wikilink")、[永井清史](../Page/永井清史.md "wikilink")、[佐野梅一](https://ja.wikipedia.org/wiki/佐野梅一 "wikilink") - イボー・オリンピックスプリント 3位
 
 [2002年](../Page/2002年.md "wikilink")
@@ -133,7 +133,9 @@
 
 ## 関連項目
 
-  - [UCI World Cups](https://ja.wikipedia.org/wiki/w:UCI_World_Cups "wikilink")
+  - [UCI女子ロードワールドカップ](https://ja.wikipedia.org/wiki/UCI女子ロードワールドカップ "wikilink")
+  - [UCIシクロクロスワールドカップ](https://ja.wikipedia.org/wiki/UCIシクロクロスワールドカップ "wikilink")
+  - [UCIマウンテンバイクワールドカップ](https://ja.wikipedia.org/wiki/UCIマウンテンバイクワールドカップ "wikilink")
 
 ## 外部リンク
 

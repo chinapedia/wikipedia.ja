@@ -1,7 +1,7 @@
 > この記事は[Man and Woman](https://ja.wikipedia.org/wiki/Man_and_Woman)から翻訳されています。
 
 
-「**Man and Woman**」（マン・アンド・ウーマン）は、[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")47枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に発売された。発売元は[ユニバーサル シグマ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
+「**Man and Woman**」（マン・アンド・ウーマン）は、[CHAGE and ASKAの楽曲](../Page/CHAGE_and_ASKA.md "wikilink")。自身の47作目の[シングル](../Page/シングル.md "wikilink")として、[ユニバーサル シグマから](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に発売された。
 
 ## 解説
 

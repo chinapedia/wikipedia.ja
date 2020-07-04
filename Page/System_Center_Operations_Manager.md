@@ -26,6 +26,7 @@ Operations Manager 2007 では、新たにコマンドシェルと呼ばれる[�
   - System Center 2012 Operations Manager
   - System Center 2012 R2 Operations Manager
   - System Center 2016 Operations Manager
+  - System Center Operations Manager 2019
 
 ## 関連項目
 

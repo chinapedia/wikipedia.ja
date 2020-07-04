@@ -1,11 +1,11 @@
 > この記事は[GnuCash](https://ja.wikipedia.org/wiki/GnuCash)から翻訳されています。
 
 
-[C++](../Page/C++.md "wikilink"){{・}}[Guile](https://ja.wikipedia.org/wiki/GNU_Guile "wikilink") |対応言語=[英語](../Page/英語.md "wikilink"){{・}}[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink"){{・}}[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"){{・}}[ドイツ語](../Page/ドイツ語.md "wikilink")など21ヶ国語 |対応プラットフォーム=[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink") | operating_system = [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink"){{・}}[BSD](../Page/BSD.md "wikilink")などの[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink"){{・}}[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"){{・}}[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") | genre = [財務](../Page/財務.md "wikilink")管理{{・}}[会計ソフトウェア](https://ja.wikipedia.org/wiki/会計ソフトウェア "wikilink") | license = [GPL](../Page/GNU_General_Public_License.md "wikilink") | website =  }}
+[C++](../Page/C++.md "wikilink"){{・}}[Guile](https://ja.wikipedia.org/wiki/GNU_Guile "wikilink") |対応言語=[英語](../Page/英語.md "wikilink"){{・}}[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink"){{・}}[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"){{・}}[ドイツ語](../Page/ドイツ語.md "wikilink")など21ヶ国語 |対応プラットフォーム=[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink") | operating_system = [Linux](../Page/Linux.md "wikilink"){{・}}[BSD](../Page/BSD.md "wikilink")などの[Unix系](../Page/Unix系.md "wikilink"){{・}}[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"){{・}}[Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") | genre = [財務](../Page/財務.md "wikilink")管理{{・}}[会計ソフトウェア](https://ja.wikipedia.org/wiki/会計ソフトウェア "wikilink") | license = [GPL](../Page/GNU_General_Public_License.md "wikilink") | website =  }}
 
 **GnuCash**（グニュー・キャッシュ）とは、[財務](../Page/財務.md "wikilink")管理（金銭管理）を行うための[会計ソフトウェア](https://ja.wikipedia.org/wiki/会計ソフトウェア "wikilink")の1つ。
 
-[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")や[Unix系](https://ja.wikipedia.org/wiki/Unix系 "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上の [GNOME](../Page/GNOME.md "wikilink")環境で動作し、[GPLライセンスのもとで配布されている](../Page/GNU_General_Public_License.md "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")でも動作する。バージョン2.2.0 以降では [Microsoft Windowsもサポートされるようになった](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。
+[Linux](../Page/Linux.md "wikilink")や[Unix系](../Page/Unix系.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")上の [GNOME](../Page/GNOME.md "wikilink")環境で動作し、[GPLライセンスのもとで配布されている](../Page/GNU_General_Public_License.md "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")でも動作する。バージョン2.2.0 以降では [Microsoft Windowsもサポートされるようになった](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。
 
 ## 特徴
 
@@ -19,7 +19,7 @@ GnuCash は、[GPLのもとで配布される](../Page/GNU_General_Public_Licens
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Gnucash-currency-transfer.png "wikilink") 多数の編集機能が備わっているが、その一部を以下列挙する。
 
-  - [勘定科目](https://ja.wikipedia.org/wiki/勘定科目 "wikilink")は、[階層構造](../Page/階層構造.md "wikilink")に編集し管理することができる。
+  - [勘定科目](../Page/勘定科目.md "wikilink")は、[階層構造](../Page/階層構造.md "wikilink")に編集し管理することができる。
 
   - 資金の流れは、[円グラフ](https://ja.wikipedia.org/wiki/円グラフ "wikilink")や[棒グラフ](https://ja.wikipedia.org/wiki/棒グラフ "wikilink")で把握できる。
 
@@ -27,9 +27,9 @@ GnuCash は、[GPLのもとで配布される](../Page/GNU_General_Public_Licens
 
   - および、、[OFX形式のファイルをインポートすることが可能である](https://ja.wikipedia.org/wiki/Open_Financial_Exchange "wikilink")。
 
-  - データの保存には[XML形式が使われるが](../Page/Extensible_Markup_Language.md "wikilink")、バージョン 2.4.0 から[SQLite](https://ja.wikipedia.org/wiki/SQLite "wikilink")3や[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")といった[RDBMSも利用可能になった](../Page/関係データベース管理システム.md "wikilink")。
+  - データの保存には[XML形式が使われるが](../Page/Extensible_Markup_Language.md "wikilink")、バージョン 2.4.0 から[SQLite](../Page/SQLite.md "wikilink")3や[MySQL](https://ja.wikipedia.org/wiki/MySQL "wikilink")、[PostgreSQL](https://ja.wikipedia.org/wiki/PostgreSQL "wikilink")といった[RDBMSも利用可能になった](../Page/関係データベース管理システム.md "wikilink")。
 
-  - [貸借対照表](../Page/貸借対照表.md "wikilink")や[損益計算書](../Page/損益計算書.md "wikilink")などの帳票を生成可能。これらの帳票は[HTMLとして生成され](../Page/HyperText_Markup_Language.md "wikilink")、あるいは[WebKit](https://ja.wikipedia.org/wiki/WebKit "wikilink")により表示される。
+  - [貸借対照表](../Page/貸借対照表.md "wikilink")や[損益計算書](../Page/損益計算書.md "wikilink")などの帳票を生成可能。これらの帳票は[HTMLとして生成され](../Page/HyperText_Markup_Language.md "wikilink")、あるいは[WebKit](../Page/WebKit.md "wikilink")により表示される。
 
   - [為替レート](../Page/為替レート.md "wikilink")や[株価](../Page/株価.md "wikilink")などは[Perl](../Page/Perl.md "wikilink")の[Finance::Quote](http://finance-quote.sourceforge.net/)モジュールで対応している情報サービスであれば自動的に最新の情報を取得し、反映することができる。
 

@@ -1,7 +1,7 @@
-> この記事は[ZD](https://ja.wikipedia.org/wiki/ZD)から翻訳されています。
+> この記事は[日産・ZDエンジン](https://ja.wikipedia.org/wiki/日産・ZDエンジン)から翻訳されています。
 
 
-**ZDエンジン**とは、1990年代末から[QD型エンジンの後継として日産ディーゼル工業](https://ja.wikipedia.org/wiki/日産・QDエンジン "wikilink")（現・[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")）が生産している自動車の4気筒[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")であり、すべて[DOHC](../Page/DOHC.md "wikilink")である。排気量は2,953cc。当初は日産ディーゼル工業が権利を所有していたが2000年末に開発、製造、販売に関する権利を[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")に譲渡し、その後は日産自動車からの委託により日産ディーゼル工業が開発、製造を行い日産自動車及びルノーに供給する形となっている。
+**ZDエンジン**とは、1990年代末から[QD型エンジンの後継として日産ディーゼル工業](../Page/日産・QDエンジン.md "wikilink")（現・[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")）が生産している自動車の4気筒[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")であり、すべて[DOHC](../Page/DOHC.md "wikilink")である。排気量は2,953cc。当初は日産ディーゼル工業が権利を所有していたが2000年末に開発、製造、販売に関する権利を[日産自動車](../Page/日産自動車.md "wikilink")に譲渡し、その後は日産自動車からの委託により日産ディーゼル工業が開発、製造を行い日産自動車及びルノーに供給する形となっている。
 
 ## バリエーション
 
@@ -30,18 +30,18 @@
 ## 搭載された車種
 
   - ZD30DD（1-1）
-      - [キャラバン](https://ja.wikipedia.org/wiki/日産・キャラバン "wikilink")（E25）2001年4月 - 2004年8月　AT車
+      - [キャラバン](../Page/日産・キャラバン.md "wikilink")（E25）2001年4月 - 2004年8月　AT車
   - ZD30DD（1-2）
       - キャラバン（E25）2001年4月 - 2004年8月　MT車
 
 <!-- end list -->
 
   - ZD30DDTi（1-1）
-      - [テラノ](https://ja.wikipedia.org/wiki/日産・テラノ "wikilink")（R50）1999年2月 - 2002年8月
-      - [テラノ II / 欧州テラノ](https://ja.wikipedia.org/wiki/日産・ミストラル "wikilink")（R20）1999年 -
+      - [テラノ](../Page/日産・テラノ.md "wikilink")（R50）1999年2月 - 2002年8月
+      - [テラノ II / 欧州テラノ](../Page/日産・ミストラル.md "wikilink")（R20）1999年 -
       - [エルグランド](../Page/日産・エルグランド.md "wikilink")（E50）1999年8月 - 2002年5月
   - ZD30DDTi（1-2）
-      - [サファリ](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")（Y61）1999年9月 - 2002年8月　AT車
+      - [サファリ](../Page/日産・サファリ.md "wikilink")（Y61）1999年9月 - 2002年8月　AT車
   - ZD30DDTi（1-3）
       - サファリ（Y61）1999年9月 - 2002年8月　MT車
   - ZD30DDTi（2-1）
@@ -50,10 +50,13 @@
       - キャラバン（E25）2004年8月 -
   - ZD30DDTi（3）
       - [アトラス](../Page/日産・アトラス.md "wikilink")（F24・1.15t - 1.5t車）
+      - [UD・コンドル CARGO 1.15t - 1.5t](../Page/UD・コンドル.md "wikilink")（F24）
+      - [いすゞ・エルフ](../Page/いすゞ・エルフ.md "wikilink")100（F24）
+      - [三菱ふそう・キャンター](../Page/三菱ふそう・キャンター.md "wikilink")ガッツ（F24）
   - ZD30DDTi（4）
       - アトラス（F24・1.75t～2t車）
-      - [シビリアン](https://ja.wikipedia.org/wiki/日産・シビリアン "wikilink")（W41）2008年6月 - 2010年7月
-      - [いすゞ・ジャーニー](https://ja.wikipedia.org/wiki/いすゞ・ジャーニー "wikilink") 2008年6月 - 2010年7月
+      - [シビリアン](../Page/日産・シビリアン.md "wikilink")（W41）2008年6月 - 2010年7月
+      - [いすゞ・ジャーニー](../Page/いすゞ・ジャーニー.md "wikilink") 2008年6月 - 2010年7月
 
 <!-- end list -->
 

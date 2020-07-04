@@ -1,7 +1,7 @@
 > この記事は[GHOST PICTURES](https://ja.wikipedia.org/wiki/GHOST_PICTURES)から翻訳されています。
 
 
-『**GHOST PICTURES**』（ゴースト・ピクチャーズ）は[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発売された[syrup16g](https://ja.wikipedia.org/wiki/syrup16g "wikilink")のライブ映像集。発売元は(UKDZ-0061-DV) [DAIZAWA RECORDS](https://ja.wikipedia.org/wiki/DAIZAWA_RECORDS "wikilink")。
+『**GHOST PICTURES**』（ゴースト・ピクチャーズ）は[2007年](../Page/2007年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に発売された[syrup16g](https://ja.wikipedia.org/wiki/syrup16g "wikilink")のライブ映像集。発売元は(UKDZ-0061-DV) [DAIZAWA RECORDS](../Page/DAIZAWA_RECORDS.md "wikilink")。
 
 ## 概要
 
@@ -34,4 +34,4 @@
 3.  シーツ
 4.  正常
 
-[Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:Syrup_16gの映像作品](https://ja.wikipedia.org/wiki/Category:Syrup_16gの映像作品 "wikilink")
+[Category:Syrup_16gの映像作品](https://ja.wikipedia.org/wiki/Category:Syrup_16gの映像作品 "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink")

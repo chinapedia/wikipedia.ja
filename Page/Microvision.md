@@ -1,7 +1,7 @@
 > この記事は[Microvision](https://ja.wikipedia.org/wiki/Microvision)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Milton-Bradley-Microvision-Handheld-FL.jpg "wikilink") **Microvision**（マイクロビジョン）は、[1979年](../Page/1979年.md "wikilink")8月に[Milton Bradley Company社から発売された](https://ja.wikipedia.org/wiki/Milton_Bradley_Company "wikilink")[携帯型ゲーム機](https://ja.wikipedia.org/wiki/携帯型ゲーム機 "wikilink")である。価格は51ドル25セント\[1\]。
+**Microvision**（マイクロビジョン）は、[1979年](../Page/1979年.md "wikilink")11月に[Milton Bradley Company社から発売された](https://ja.wikipedia.org/wiki/Milton_Bradley_Company "wikilink")[携帯型ゲーム機](https://ja.wikipedia.org/wiki/携帯型ゲーム機 "wikilink")である。価格は51ドル25セント\[1\]。
 
 Microvisionは据置型ゲーム機の『Vectrex』（日本では『[光速船](../Page/光速船.md "wikilink")』として発売）を後に設計した[ジェイ・スミス](https://ja.wikipedia.org/wiki/ジェイ・スミス "wikilink") (Jay Smith) によって設計された。本体は縦幅24㎝\[2\]。
 

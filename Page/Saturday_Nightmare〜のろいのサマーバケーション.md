@@ -66,4 +66,4 @@
   - [日本映画データベース](http://www.jmdb.ne.jp/2000/ov123050.htm)
 
   -
-[Category:2000年の映画](https://ja.wikipedia.org/wiki/Category:2000年の映画 "wikilink") [Category:日本のホラー映画](https://ja.wikipedia.org/wiki/Category:日本のホラー映画 "wikilink") [Category:日本のオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルビデオ "wikilink") [Category:島を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:島を舞台とした映画作品 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:2000年の映画](https://ja.wikipedia.org/wiki/Category:2000年の映画 "wikilink") [Category:日本のホラー映画](https://ja.wikipedia.org/wiki/Category:日本のホラー映画 "wikilink") [Category:日本のオリジナルビデオ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルビデオ "wikilink") [Category:島を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:島を舞台とした映画作品 "wikilink") [Category:曜日を題材とした作品](https://ja.wikipedia.org/wiki/Category:曜日を題材とした作品 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

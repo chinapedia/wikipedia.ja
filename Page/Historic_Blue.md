@@ -20,7 +20,7 @@
       - 作詞：Tama／作曲：ナオキ
 4.  **[なぜ…](https://ja.wikipedia.org/wiki/なぜ… "wikilink")**
       - 作詞：たくや／作曲：たくや
-5.  **[ふたりぼっち](https://ja.wikipedia.org/wiki/ふたりぼっち_\(Hysteric_Blueの曲\) "wikilink")**
+5.  **[ふたりぼっち](../Page/ふたりぼっち_\(Hysteric_Blueの曲\).md "wikilink")**
       - 作詞：Tama, たくや／作曲：たくや
 6.  **今見える明日、戒める今日**
       - 作詞：たくや／作曲：たくや
@@ -28,19 +28,19 @@
       - 作詞: Tama／作曲：ナオキ
 8.  **[Dear](https://ja.wikipedia.org/wiki/Dear_\(Hysteric_Blueの曲\) "wikilink")**
       - 作詞：たくや／作曲：たくや
-9.  **[グロウアップ](https://ja.wikipedia.org/wiki/グロウアップ "wikilink")**
+9.  **[グロウアップ](../Page/グロウアップ.md "wikilink")**
       - 作詞：たくや／作曲：たくや
-10. **[だいすき](https://ja.wikipedia.org/wiki/だいすき_\(Hysteric_Blueの曲\) "wikilink")**
+10. **[だいすき](../Page/だいすき_\(Hysteric_Blueの曲\).md "wikilink")**
       - 作詞：たくや／作曲：ナオキ
 11. **[好奇心](https://ja.wikipedia.org/wiki/bleu-bleu-bleu "wikilink")**
       - 作詞：たくや／作曲：たくや
-12. **[Reset me](https://ja.wikipedia.org/wiki/Reset_me "wikilink")**
+12. **[Reset me](../Page/Reset_me.md "wikilink")**
       - 作詞：たくや／作曲：たくや
 13. **[フラストレーション ミュージック](https://ja.wikipedia.org/wiki/フラストレーション_ミュージック "wikilink")**
       - 作詞：たくや／作曲：たくや
 14. **[ベイサイドベイビー](https://ja.wikipedia.org/wiki/ベイサイドベイビー "wikilink")**
       - 作詞: Tama／作曲：たくや
-15. **[Home Town](https://ja.wikipedia.org/wiki/Home_Town_\(Hysteric_Blueの曲\) "wikilink")**
+15. **[Home Town](../Page/Home_Town_\(Hysteric_Blueの曲\).md "wikilink")**
       - 作詞：Tama／作曲：佐久間正英
 16. **浮気なスポーツカー**
       - 作詞：Tama／作曲：ナオキ

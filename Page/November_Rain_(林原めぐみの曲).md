@@ -1,13 +1,13 @@
-> この記事は[November Rain \(\)](https://ja.wikipedia.org/wiki/November_Rain_\(\))から翻訳されています。
+> この記事は[November Rain \(林原めぐみの曲\)](https://ja.wikipedia.org/wiki/November_Rain_\(林原めぐみの曲\))から翻訳されています。
 
 
-『**November Rain**』（ノーヴェンバー レイン）は、[1991年](../Page/1991年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")にリリースされた**[早乙女らんま](https://ja.wikipedia.org/wiki/早乙女乱馬 "wikilink")**こと[声優](../Page/声優.md "wikilink")・[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")のシングル。発売元・販売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（PCDG-00026）。
+『**November Rain**』（ノーヴェンバー レイン）は、[1991年](../Page/1991年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")にリリースされた**[早乙女らんま](../Page/早乙女乱馬.md "wikilink")**こと[声優](../Page/声優.md "wikilink")・[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")のシングル。発売元・販売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（PCDG-00026）。
 
 歌手名義は"**らんま（早乙女らんま）**"または"**[乱馬的歌劇団](https://ja.wikipedia.org/wiki/乱馬的歌劇団御一行様 "wikilink")**"、あるいは"**早乙女らんま★林原めぐみ**"となっている。
 
 ## 概要
 
-アルバム『乱馬的企画音盤II らんま1/2 歌暦』を全12枚のシングルに[カットして同時発売した中の](https://ja.wikipedia.org/wiki/シングルカット "wikilink")1作。全12作中、本作が[オリコン最高位を記録した](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。
+アルバム『乱馬的企画音盤II らんま1/2 歌暦』を全12枚のシングルに[カットして同時発売した中の](https://ja.wikipedia.org/wiki/シングルカット "wikilink")1作。全12作中、本作が[オリコン最高位を記録した](../Page/オリコンチャート.md "wikilink")。
 
 主題曲の「November Rain」は、[バラード](../Page/バラード.md "wikilink")曲となっている。なお、この作品では林原が歌っているが、この他に[乱馬的歌劇団が歌ったバージョンがある](https://ja.wikipedia.org/wiki/乱馬的歌劇団御一行様 "wikilink")。
 
@@ -27,11 +27,11 @@
 4.  夢のBalloon （オリジナルカラオケ）
 5.  **呪泉郷端会議録その11**
       -
-        キャスト声優の[山口勝平](../Page/山口勝平.md "wikilink")、[日高のり子](https://ja.wikipedia.org/wiki/日高のり子 "wikilink")、[高山みなみ](../Page/高山みなみ.md "wikilink")、[井上喜久子](https://ja.wikipedia.org/wiki/井上喜久子 "wikilink")による曲解説
+        キャスト声優の[山口勝平](../Page/山口勝平.md "wikilink")、[日高のり子](../Page/日高のり子.md "wikilink")、[高山みなみ](../Page/高山みなみ.md "wikilink")、[井上喜久子](../Page/井上喜久子.md "wikilink")による曲解説
 
 ## 関連項目
 
-  - [早乙女乱馬](https://ja.wikipedia.org/wiki/早乙女乱馬 "wikilink")
+  - [早乙女乱馬](../Page/早乙女乱馬.md "wikilink")
   - [乱馬的歌劇団御一行様](https://ja.wikipedia.org/wiki/乱馬的歌劇団御一行様 "wikilink")
   - [らんま1/2](https://ja.wikipedia.org/wiki/らんま1/2 "wikilink")
   - [高橋留美子](../Page/高橋留美子.md "wikilink")

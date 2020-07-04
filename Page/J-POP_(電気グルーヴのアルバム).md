@@ -1,17 +1,17 @@
-> この記事は[J-POP \(\)](https://ja.wikipedia.org/wiki/J-POP_\(\))から翻訳されています。
+> この記事は[J-POP \(電気グルーヴのアルバム\)](https://ja.wikipedia.org/wiki/J-POP_\(電気グルーヴのアルバム\))から翻訳されています。
 
 
-『**J-POP**』（ジェー・ポップ）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ユニットである](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の9作目の[アルバム](../Page/アルバム.md "wikilink")。
+『**J-POP**』（ジェー・ポップ）は、日本の[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の9作目の[アルバム](../Page/アルバム.md "wikilink")。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に[キューンレコードよりリリースされた](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に[キューンレコードよりリリースされた](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
-前作『[VOXXX](https://ja.wikipedia.org/wiki/VOXXX "wikilink")』から数えて8年2ヶ月ぶりのオリジナルアルバムであり、[21世紀](../Page/21世紀.md "wikilink")に入ってからは初のアルバムである。活動休止や各々のソロ活動、電気グルーヴ×[スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink")での活動などを挟んでのアルバムリリースとなる。
+前作『[VOXXX](../Page/VOXXX.md "wikilink")』から数えて8年2ヶ月ぶりのオリジナルアルバムであり、[21世紀](../Page/21世紀.md "wikilink")に入ってからは初のアルバムである。活動休止や各々のソロ活動、電気グルーヴ×[スチャダラパー](../Page/スチャダラパー.md "wikilink")での活動などを挟んでのアルバムリリースとなる。
 
-初回限定版には先行リリースされたシングル、「[少年ヤング](../Page/少年ヤング.md "wikilink")」と「[モノノケダンス](https://ja.wikipedia.org/wiki/モノノケダンス "wikilink")」の[PVを収録した特典DVDが付属する](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")。
+初回限定版には先行リリースされたシングル、「[少年ヤング](../Page/少年ヤング.md "wikilink")」と「[モノノケダンス](../Page/モノノケダンス.md "wikilink")」の[PVを収録した特典DVDが付属する](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から、オフィシャルサイト内に「ワークショップ」というページが開設され、アルバム収録予定曲のデモ音源をリリース前に公開、随時更新し、曲が出来上がる過程を時間軸を追って疑似体験できる試みがなされていた。しかし、最終更新時にアップされた石野からのメッセージで企画自体**[やらせ](https://ja.wikipedia.org/wiki/やらせ "wikilink")**であったことが発覚した\[1\]\[2\]\[3\]\[4\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から、オフィシャルサイト内に「ワークショップ」というページが開設され、アルバム収録予定曲のデモ音源をリリース前に公開、随時更新し、曲が出来上がる過程を時間軸を追って疑似体験できる試みがなされていた。しかし、最終更新時にアップされた石野からのメッセージで企画自体**[やらせ](../Page/やらせ.md "wikilink")**であったことが発覚した\[1\]\[2\]\[3\]\[4\]。
 
 ## 収録曲
 
@@ -41,11 +41,11 @@
 
 ## 参加ミュージシャン
 
-  - **笹沼位吉 (SLY MONGOOSE)** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（8,10曲目）
-  - **[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink") ([BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink"))** - [ギター](../Page/ギター.md "wikilink")（8曲目）
+  - **笹沼位吉 (SLY MONGOOSE)** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")（8,10曲目）
+  - **[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink") ([BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink"))** - [ギター](../Page/ギター.md "wikilink")（8曲目）
   - **[篠原ともえ](../Page/篠原ともえ.md "wikilink")** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（8曲目）
-  - **[七尾旅人](https://ja.wikipedia.org/wiki/七尾旅人 "wikilink")** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（9曲目）
-  - **大塚豊子（[別府溝部学園短期大学](https://ja.wikipedia.org/wiki/別府溝部学園短期大学 "wikilink")ハンドベルリンガーズ）** - [ハンドベル](../Page/ハンドベル.md "wikilink")（12曲目）
+  - **[七尾旅人](../Page/七尾旅人.md "wikilink")** - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（9曲目）
+  - **大塚豊子（[別府溝部学園短期大学](../Page/別府溝部学園短期大学.md "wikilink")ハンドベルリンガーズ）** - [ハンドベル](../Page/ハンドベル.md "wikilink")（12曲目）
 
 ## 外部リンク
 

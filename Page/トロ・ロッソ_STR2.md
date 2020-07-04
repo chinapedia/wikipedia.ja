@@ -1,29 +1,29 @@
-> この記事は[ STR2](https://ja.wikipedia.org/wiki/_STR2)から翻訳されています。
+> この記事は[トロ・ロッソ STR2](https://ja.wikipedia.org/wiki/トロ・ロッソ_STR2)から翻訳されています。
 
 
-**トロ・ロッソ STR2**（*Toro Rosso STR2*）は、[スクーデリア・トロ・ロッソ](https://ja.wikipedia.org/wiki/スクーデリア・トロ・ロッソ "wikilink")が[2007年のF1世界選手権](https://ja.wikipedia.org/wiki/2007年のF1世界選手権 "wikilink")に投入した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")である。
+**トロ・ロッソ STR2**（*Toro Rosso STR2*）は、[スクーデリア・トロ・ロッソ](../Page/スクーデリア・トロ・ロッソ.md "wikilink")が[2007年のF1世界選手権](../Page/2007年のF1世界選手権.md "wikilink")に投入した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")である。
 
-[2008年のF1世界選手権](../Page/2008年のF1世界選手権.md "wikilink")では同シーズンの[レギュレーションに対応させた](https://ja.wikipedia.org/wiki/F1レギュレーション "wikilink")**STR2B**が、[第5戦トルコGPまで投入された](https://ja.wikipedia.org/wiki/2008年トルコグランプリ "wikilink")。
+[2008年のF1世界選手権](../Page/2008年のF1世界選手権.md "wikilink")では同シーズンの[レギュレーションに対応させた](https://ja.wikipedia.org/wiki/F1レギュレーション "wikilink")**STR2B**が、[第5戦トルコGPまで投入された](../Page/2008年トルコグランプリ.md "wikilink")。
 
 ## 2007年シーズン
 
 ### STR2
 
-姉妹チーム[レッドブル・レーシング](https://ja.wikipedia.org/wiki/レッドブル・レーシング "wikilink")の[RB3と共通デザインを利用しているが](../Page/レッドブル・RB3.md "wikilink")、デザイン供給元はレッドブル・レーシングとは別会社の[レッドブルテクノロジーであることと](https://ja.wikipedia.org/wiki/レッドブル・レーシング#レッドブル・テクノロジー "wikilink")、[エンジン](../Page/エンジン.md "wikilink")・[ギアボックス](https://ja.wikipedia.org/wiki/ギアボックス "wikilink")が異なるため、[コンコルド協定](https://ja.wikipedia.org/wiki/コンコルド協定 "wikilink")違反とは認められなかった。デザイナーは[エイドリアン・ニューウェイ](https://ja.wikipedia.org/wiki/エイドリアン・ニューウェイ "wikilink")。
+姉妹チーム[レッドブル・レーシング](../Page/レッドブル・レーシング.md "wikilink")の[RB3と共通デザインを利用しているが](../Page/レッドブル・RB3.md "wikilink")、デザイン供給元はレッドブル・レーシングとは別会社の[レッドブルテクノロジーであることと](https://ja.wikipedia.org/wiki/レッドブル・レーシング#レッドブル・テクノロジー "wikilink")、[エンジン](../Page/エンジン.md "wikilink")・[ギアボックス](https://ja.wikipedia.org/wiki/ギアボックス "wikilink")が異なるため、[コンコルド協定](../Page/コンコルド協定.md "wikilink")違反とは認められなかった。デザイナーは[エイドリアン・ニューウェイ](../Page/エイドリアン・ニューウェイ.md "wikilink")。
 
 シーズン序盤からリタイアが続いたが、終盤の[中国GPではダブル入賞を果たした](../Page/2007年中国グランプリ.md "wikilink")。
 
 ### スペック
 
-  - エンジン [フェラーリTipo](https://ja.wikipedia.org/wiki/スクーデリア・フェラーリ "wikilink")056
+  - エンジン [フェラーリTipo](../Page/スクーデリア・フェラーリ.md "wikilink")056
   - 気筒数・角度 [V型8気筒](../Page/V型8気筒.md "wikilink")・90度
-  - [排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink") 2,398cc
+  - [排気量](../Page/排気量.md "wikilink") 2,398cc
   - エンジン重量 95kg
-  - 燃料 [シェル](https://ja.wikipedia.org/wiki/ロイヤル・ダッチ・シェル "wikilink")
+  - 燃料 [シェル](../Page/ロイヤル・ダッチ・シェル.md "wikilink")
 
 ### 成績
 
-**太字**は[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")、*斜字*は[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
+**太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 <table>
 <thead>
@@ -62,7 +62,7 @@
 </p></td>
 <td><p><a href="../Page/2007年スペイングランプリ.md" title="wikilink">ESP</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年モナコグランプリ" title="wikilink">MON</a><br />
+<td><p><a href="../Page/2007年モナコグランプリ.md" title="wikilink">MON</a><br />
 </p></td>
 <td><p><a href="../Page/2007年カナダグランプリ.md" title="wikilink">CAN</a><br />
 </p></td>
@@ -82,7 +82,7 @@
 </p></td>
 <td><p><a href="../Page/2007年ベルギーグランプリ.md" title="wikilink">BEL</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
+<td><p><a href="../Page/2007年日本グランプリ_(4輪).md" title="wikilink">JPN</a><br />
 </p></td>
 <td><p><a href="../Page/2007年中国グランプリ.md" title="wikilink">CHN</a><br />
 </p></td>
@@ -95,7 +95,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2007年のF1世界選手権" title="wikilink">2007</a></p></td>
+<td><p><a href="../Page/2007年のF1世界選手権.md" title="wikilink">2007</a></p></td>
 <td><p>18</p></td>
 <td><p>リウッツィ</p></td>
 <td><p><small>14</small></p></td>
@@ -171,8 +171,8 @@
 
 ドライバーズランキング
 
-  - [ヴィタントニオ・リウッツィ](https://ja.wikipedia.org/wiki/ヴィタントニオ・リウッツィ "wikilink") 3ポイント 18位
-  - [スコット・スピード](https://ja.wikipedia.org/wiki/スコット・スピード "wikilink") 0ポイント 21位
+  - [ヴィタントニオ・リウッツィ](../Page/ヴィタントニオ・リウッツィ.md "wikilink") 3ポイント 18位
+  - [スコット・スピード](../Page/スコット・スピード.md "wikilink") 0ポイント 21位
   - [セバスチャン・ベッテル](https://ja.wikipedia.org/wiki/セバスチャン・ベッテル "wikilink") 6ポイント 14位
 
 ## 2008年シーズン
@@ -181,11 +181,11 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Tororosso-bourdais-spain-2008-lrg.jpg "wikilink") 標準[ECUの装着](https://ja.wikipedia.org/wiki/エレクトロニックコントロールユニット "wikilink")、ドライバーシートのサイドプロテクターの大型化などのレギュレーションに合わせた改良が加えられ、**STR2B**として投入され、引き続きフェラーリエンジンが使用されている。
 
-ポイントは[開幕戦オーストラリアGPでの](../Page/2008年オーストラリアグランプリ.md "wikilink")7位入賞のみで、[第6戦モナコグランプリに](https://ja.wikipedia.org/wiki/2008年モナコグランプリ "wikilink")[STR3が投入されるまで苦闘していた](https://ja.wikipedia.org/wiki/スクーデリア・トロ・ロッソ_STR3 "wikilink")。
+ポイントは[開幕戦オーストラリアGPでの](../Page/2008年オーストラリアグランプリ.md "wikilink")7位入賞のみで、[第6戦モナコグランプリに](../Page/2008年モナコグランプリ.md "wikilink")[STR3が投入されるまで苦闘していた](https://ja.wikipedia.org/wiki/スクーデリア・トロ・ロッソ_STR3 "wikilink")。
 
 ### 成績
 
-**太字**は[ポールポジション](https://ja.wikipedia.org/wiki/ポールポジション "wikilink")、*斜字*は[ファステストラップ](https://ja.wikipedia.org/wiki/ファステストラップ "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
+**太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")。([key](https://ja.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink"))
 
 <table>
 <thead>
@@ -221,35 +221,35 @@
 </p></td>
 <td><p><a href="../Page/2008年マレーシアグランプリ.md" title="wikilink">MAL</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年バーレーングランプリ" title="wikilink">BHR</a><br />
+<td><p><a href="../Page/2008年バーレーングランプリ.md" title="wikilink">BHR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年スペイングランプリ" title="wikilink">ESP</a><br />
+<td><p><a href="../Page/2008年スペイングランプリ.md" title="wikilink">ESP</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年トルコグランプリ" title="wikilink">TUR</a><br />
+<td><p><a href="../Page/2008年トルコグランプリ.md" title="wikilink">TUR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年モナコグランプリ" title="wikilink">MON</a><br />
+<td><p><a href="../Page/2008年モナコグランプリ.md" title="wikilink">MON</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年カナダグランプリ" title="wikilink">CAN</a><br />
+<td><p><a href="../Page/2008年カナダグランプリ.md" title="wikilink">CAN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年フランスグランプリ" title="wikilink">FRA</a><br />
+<td><p><a href="../Page/2008年フランスグランプリ.md" title="wikilink">FRA</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年イギリスグランプリ" title="wikilink">GBR</a><br />
+<td><p><a href="../Page/2008年イギリスグランプリ.md" title="wikilink">GBR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ドイツグランプリ" title="wikilink">GER</a><br />
+<td><p><a href="../Page/2008年ドイツグランプリ.md" title="wikilink">GER</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ハンガリーグランプリ" title="wikilink">HUN</a><br />
+<td><p><a href="../Page/2008年ハンガリーグランプリ.md" title="wikilink">HUN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ヨーロッパグランプリ" title="wikilink">EUR</a><br />
+<td><p><a href="../Page/2008年ヨーロッパグランプリ.md" title="wikilink">EUR</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年ベルギーグランプリ" title="wikilink">BEL</a><br />
+<td><p><a href="../Page/2008年ベルギーグランプリ.md" title="wikilink">BEL</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年イタリアグランプリ" title="wikilink">ITA</a><br />
+<td><p><a href="../Page/2008年イタリアグランプリ.md" title="wikilink">ITA</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年シンガポールグランプリ" title="wikilink">SIN</a><br />
 </p></td>
 <td><p><a href="../Page/2008年日本グランプリ_(4輪).md" title="wikilink">JPN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年中国グランプリ" title="wikilink">CHN</a><br />
+<td><p><a href="../Page/2008年中国グランプリ.md" title="wikilink">CHN</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年ブラジルグランプリ" title="wikilink">BRA</a><br />
 </p></td>

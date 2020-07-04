@@ -5,7 +5,7 @@
 
 ## 概要
 
-名称は(Hitachi NEXT BAnking Solution for Excellent regional banks)より。主に第二地銀向けの共同アウトソーシングサービスとして提供するバンキングソリューションである。勘定系パッケージには、[NTTデータ](../Page/NTTデータ.md "wikilink")の勘定系パッケージである[BeSTA](../Page/BeSTA.md "wikilink")を採用し、日立製メインフレーム(VOS3)で稼働する。
+名称は(Hitachi NEXT BAnking Solution for Excellent regional banks)より。主に第二地銀向け（但し、現在第二地銀協に加盟する[第三銀行](../Page/第三銀行.md "wikilink")が、[三重銀行](../Page/三重銀行.md "wikilink")を吸収して発足予定の[三十三銀行](https://ja.wikipedia.org/wiki/三十三銀行 "wikilink")は、地銀協加盟行とされる予定）の共同アウトソーシングサービスとして提供するバンキングソリューションである。勘定系パッケージには、[NTTデータ](../Page/NTTデータ.md "wikilink")の勘定系パッケージである[BeSTA](../Page/BeSTA.md "wikilink")を採用し、日立製メインフレーム(VOS3)で稼働する。
 
 また、勘定系以外にも外接系などの基幹系システム、別見積もりで営業店システム、更にオプションでインターネットバンキングシステム等も用意されている。
 
@@ -20,7 +20,7 @@
       - [栃木銀行](../Page/栃木銀行.md "wikilink")（2008年1月採用\[6\]。2010年1月4日稼働開始）
       - [中京銀行](../Page/中京銀行.md "wikilink")（2009年4月採用\[7\]。2011年10月11日稼働開始）
       - [大光銀行](../Page/大光銀行.md "wikilink")（2011年5月26日採用発表\[8\]\[9\]。2014年1月4日稼働開始\[10\]）
-      - [第三銀行](../Page/第三銀行.md "wikilink")（[2012年](../Page/2012年.md "wikilink")3月発表\[11\]。2014年1月6日稼働開始\[12\]）
+      - [第三銀行](../Page/第三銀行.md "wikilink")（[2012年](../Page/2012年.md "wikilink")3月発表\[11\]。2014年1月6日稼働開始\[12\]、2021年5月、[三重銀行](../Page/三重銀行.md "wikilink")を吸収合併し、[全国地方銀行協会](../Page/全国地方銀行協会.md "wikilink")加盟行に転換して発足する[三十三銀行](https://ja.wikipedia.org/wiki/三十三銀行 "wikilink")となった後も継続利用を予定）
       - [静岡中央銀行](../Page/静岡中央銀行.md "wikilink")（2012年7月発表\[13\]。[2015年](../Page/2015年.md "wikilink")1月5日に稼働開始\[14\]）
       - [大東銀行](../Page/大東銀行.md "wikilink")（2013年10月発表。[2016年](../Page/2016年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")にリプレース\[15\]）
 

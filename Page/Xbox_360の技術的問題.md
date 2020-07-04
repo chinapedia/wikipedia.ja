@@ -1,4 +1,4 @@
-> この記事は[Xbox 360](https://ja.wikipedia.org/wiki/Xbox_360)から翻訳されています。
+> この記事は[Xbox 360の技術的問題](https://ja.wikipedia.org/wiki/Xbox_360の技術的問題)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Xbox360-ringofdeath.jpg "wikilink")
@@ -15,7 +15,7 @@ Xbox 360は発売当初からプレイ中の異常停止・ディスク損傷等
 
 発売開始から数か月間、[マイクロソフト](../Page/マイクロソフト.md "wikilink")は[Xbox 360の故障率が消費家電製品の平均である](../Page/Xbox_360.md "wikilink")3-5％程度であるとしていた\[13\]\[14\]\[15\]\[16\]。[マイクロソフト](../Page/マイクロソフト.md "wikilink")は公式に故障率に関する統計を発表したことはない。同社の方針は、そうしたデータを公表するのではなく、発生している技術的問題を迅速に解決するという方向性である\[17\]。しかしながら、家電製品としての平均をはるかに上回る故障率33%という噂は根強く存在してきた\[18\]（下記「ドイツの雑誌CTの検証などを参照」）。
 
-[2007年](../Page/2007年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")、Microsoft's Interactive Entertainment Businessの副社長[ピーター・ムーア](https://ja.wikipedia.org/wiki/ピーター・ムーア "wikilink")（当時。2007年に[EAに転職](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")）は、[Xbox 360に問題が発生していることを](../Page/Xbox_360.md "wikilink")[公開書簡](https://ja.wikipedia.org/wiki/公開書簡 "wikilink")の形で認め、赤ランプが3個点灯する「死の赤リング」の場合に限り、保証を3年間に延長するとした\[19\]。赤ランプ1個のみの場合はこの保証の対象外である。
+[2007年](../Page/2007年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")、Microsoft's Interactive Entertainment Businessの副社長[ピーター・ムーア](../Page/ピーター・ムーア.md "wikilink")（当時。2007年に[EAに転職](../Page/エレクトロニック・アーツ.md "wikilink")）は、[Xbox 360に問題が発生していることを](../Page/Xbox_360.md "wikilink")[公開書簡](https://ja.wikipedia.org/wiki/公開書簡 "wikilink")の形で認め、赤ランプが3個点灯する「死の赤リング」の場合に限り、保証を3年間に延長するとした\[19\]。赤ランプ1個のみの場合はこの保証の対象外である。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月13日](../Page/2月13日.md "wikilink")、電化製品の保証サービスを取り扱う独立最大手SquareTradeは、Xbox 360本体の故障率は16.4％だとし\[20\]、死の赤リングはその内60％で確認された。この調査はサンプル数は1,000以上だが、実際はもっと多いと見られる。2月15日、マイクロソフトのJoe DiMieroはこの報道について「憶測にはコメントしない。その報告をまだ見ていないし、データを発表した会社についてもよく知らない。測定の手法にも問題があるだろう」とした\[21\]。
 
@@ -37,7 +37,7 @@ Xbox 360は発売当初からプレイ中の異常停止・ディスク損傷等
 
 ## 過熱
 
-[Xbox 360は](../Page/Xbox_360.md "wikilink")、不十分な冷却を原因として、使用中に非常な高温となる。この高熱によって、CPU・GPUと[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")を接合する[ボール・グリッド・アレー式](https://ja.wikipedia.org/wiki/パッケージ_\(電子部品\)#BGA_\(Ball_grid_array\) "wikilink") [ハンダ](https://ja.wikipedia.org/wiki/ハンダ "wikilink")接合部が弛緩・融解するために故障すると言われている。（ハンダが融解する熱量が発生する以前に熱による基板の変形が起こりパターンが剝離して接触不良となると思われる） 環境問題への配慮から近年使われるようになった無鉛ハンダが使用されている場合、その種類によっては鉛入りハンダより剛性が劣ることがあり、問題の悪化を招く\[29\]。
+[Xbox 360は](../Page/Xbox_360.md "wikilink")、不十分な冷却を原因として、使用中に非常な高温となる。この高熱によって、CPU・GPUと[マザーボード](../Page/マザーボード.md "wikilink")を接合する[ボール・グリッド・アレー式](https://ja.wikipedia.org/wiki/パッケージ_\(電子部品\)#BGA_\(Ball_grid_array\) "wikilink") [ハンダ](https://ja.wikipedia.org/wiki/ハンダ "wikilink")接合部が弛緩・融解するために故障すると言われている。（ハンダが融解する熱量が発生する以前に熱による基板の変形が起こりパターンが剝離して接触不良となると思われる） 環境問題への配慮から近年使われるようになった無鉛ハンダが使用されている場合、その種類によっては鉛入りハンダより剛性が劣ることがあり、問題の悪化を招く\[29\]。
 
 ドイツのゲーム雑誌*[c't](https://ja.wikipedia.org/wiki/c't "wikilink")*の記事「3台に1台は故障する(Jede dritte stirbt den Hitzetod)」によると、[Xbox 360に使用されている無鉛ハンダの種類に問題があり](../Page/Xbox_360.md "wikilink")、長時間高熱にさらされると脆くなり、金属疲労や亀裂が生じる性質があるとされている\[30\]\[31\]。また当該記事では、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が10億ドルの修理費を内部的に引当計上し、修理・交換に対応しているとした。また、2007年5月7日Bloomberg紙の報導によると\[32\]、[Xbox 360の世界最大の小売店である](../Page/Xbox_360.md "wikilink")3社 ([EB Games](https://ja.wikipedia.org/wiki/EB_Games "wikilink")、[Gamestop](https://ja.wikipedia.org/wiki/Gamestop "wikilink")、[Best Buy](https://ja.wikipedia.org/wiki/Best_Buy "wikilink")）に取材したところ、顧客から返品される率は30% - 33%だった\[33\]。
 
@@ -55,7 +55,7 @@ Xbox 360は発売当初からプレイ中の異常停止・ディスク損傷等
 
 [Xbox 360の発売日は](../Page/Xbox_360.md "wikilink")、アメリカとカナダが2005年11月22日、欧州と日本では12月上旬だったが、同月中には様々なサイト・雑誌で不可解な騒音が報告された\[44\]\[45\]
 
-ディスク損傷は、ドライブの欠陥が原因であることが判明したが、本体を水平に設置しディスク読み取り中に動かしたり衝撃を与えなければ避けられるとされた\[46\]。2005年12月、[マイクロソフト](../Page/マイクロソフト.md "wikilink")はこの問題への対応として、[Perfect Dark Zeroだけはディスク傷がなくとも交換を実施するとした](https://ja.wikipedia.org/wiki/パーフェクトダーク_ゼロ "wikilink")。
+ディスク損傷は、ドライブの欠陥が原因であることが判明したが、本体を水平に設置しディスク読み取り中に動かしたり衝撃を与えなければ避けられるとされた\[46\]。2005年12月、[マイクロソフト](../Page/マイクロソフト.md "wikilink")はこの問題への対応として、[Perfect Dark Zeroだけはディスク傷がなくとも交換を実施するとした](../Page/パーフェクトダーク_ゼロ.md "wikilink")。
 
 ### Kassaによる2007年2月の検証番組
 
@@ -79,7 +79,7 @@ Kassaのウェブサイト\[55\]では、検証条件や詳しい情報が英語
 
 ### 2007年6月欧州委員会によるディスク損傷の調査
 
-[2007年](../Page/2007年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、[欧州委員会](https://ja.wikipedia.org/wiki/欧州委員会 "wikilink")の消費者問題担当官である[Meglena Kunevaは](https://ja.wikipedia.org/wiki/Meglena_Kuneva "wikilink")、Kassaの番組製作者やオランダの消費者問題団体から聞き取り調査を行い\[66\]、[欧州委員会](https://ja.wikipedia.org/wiki/欧州委員会 "wikilink")が[Xbox 360のディスク損傷問題を調査し](../Page/Xbox_360.md "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")に欧州全域でのディスク交換を求めていくと発言した。[マイクロソフト](../Page/マイクロソフト.md "wikilink")からの回答は1週間以内とみられたが\[67\]、[マイクロソフト](../Page/マイクロソフト.md "wikilink")はディスク損傷の問題の存在自体を否定、"ユーザの責任"と反論した\[68\]。2008年1月現在、[Meglena Kunevaのウェブサイト](https://ja.wikipedia.org/wiki/Meglena_Kuneva "wikilink")\[69\]には、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の対応や調査結果について何も書かれていない。
+[2007年](../Page/2007年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、[欧州委員会](../Page/欧州委員会.md "wikilink")の消費者問題担当官である[Meglena Kunevaは](https://ja.wikipedia.org/wiki/Meglena_Kuneva "wikilink")、Kassaの番組製作者やオランダの消費者問題団体から聞き取り調査を行い\[66\]、[欧州委員会](../Page/欧州委員会.md "wikilink")が[Xbox 360のディスク損傷問題を調査し](../Page/Xbox_360.md "wikilink")、[マイクロソフト](../Page/マイクロソフト.md "wikilink")に欧州全域でのディスク交換を求めていくと発言した。[マイクロソフト](../Page/マイクロソフト.md "wikilink")からの回答は1週間以内とみられたが\[67\]、[マイクロソフト](../Page/マイクロソフト.md "wikilink")はディスク損傷の問題の存在自体を否定、"ユーザの責任"と反論した\[68\]。2008年1月現在、[Meglena Kunevaのウェブサイト](https://ja.wikipedia.org/wiki/Meglena_Kuneva "wikilink")\[69\]には、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の対応や調査結果について何も書かれていない。
 
 ## 訴訟
 
@@ -107,11 +107,11 @@ Kassaのウェブサイト\[55\]では、検証条件や詳しい情報が英語
 
   - [Xbox 360](../Page/Xbox_360.md "wikilink")
   - [:Category:Xbox 360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink")
-      - [Xbox 360のゲームタイトル一覧](https://ja.wikipedia.org/wiki/Xbox_360のゲームタイトル一覧 "wikilink")
+      - [Xbox 360のゲームタイトル一覧](../Page/Xbox_360のゲームタイトル一覧.md "wikilink")
   - [:Category:Xbox Live Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink")
   - [マイクロソフト](../Page/マイクロソフト.md "wikilink")
-  - [Xbox Live](https://ja.wikipedia.org/wiki/Xbox_Live "wikilink")
-  - [Microsoft XNA](https://ja.wikipedia.org/wiki/Microsoft_XNA "wikilink")
+  - [Xbox Live](../Page/Xbox_Live.md "wikilink")
+  - [Microsoft XNA](../Page/Microsoft_XNA.md "wikilink")
   - [Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")
   - [ハイデフ](https://ja.wikipedia.org/wiki/ハイデフ "wikilink")
 

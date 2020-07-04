@@ -42,6 +42,7 @@ BD-J は、Globally Executable [MHP](../Page/Multimedia_Home_Platform.md "wikili
   - [パイレーツ・オブ・カリビアン/デッドマンズ・チェスト](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/デッドマンズ・チェスト "wikilink")
   - [GHOST IN THE SHELL / 攻殻機動隊](https://ja.wikipedia.org/wiki/GHOST_IN_THE_SHELL_/_攻殻機動隊 "wikilink")
   - [サマーウォーズ](https://ja.wikipedia.org/wiki/サマーウォーズ "wikilink")
+  - [ボヘミアン・ラプソディー](https://ja.wikipedia.org/wiki/ボヘミアン・ラプソディ_\(映画\) "wikilink")
 
 ## 脚注
 

@@ -1,16 +1,16 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[リチャード・S・ハミルトン](https://ja.wikipedia.org/wiki/リチャード・S・ハミルトン)から翻訳されています。
 
 
 [Richard_Hamilton.jpg](https://ja.wikipedia.org/wiki/File:Richard_Hamilton.jpg "fig:Richard_Hamilton.jpg") **リチャード・ストライト・ハミルトン**（Richard Streit Hamilton, [1943年](../Page/1943年.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[数学者](../Page/数学者.md "wikilink")。
 
-1966年に[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")で[Ph.D.](https://ja.wikipedia.org/wiki/Ph.D. "wikilink")を取得。指導教官はだった。[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")、[カリフォルニア大学サンディエゴ校](https://ja.wikipedia.org/wiki/カリフォルニア大学サンディエゴ校 "wikilink")、[コーネル大学](https://ja.wikipedia.org/wiki/コーネル大学 "wikilink")を経て、現在[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")数学科教授。ハミルトンは、[グリゴリー・ペレルマン](https://ja.wikipedia.org/wiki/グリゴリー・ペレルマン "wikilink")（2006年に[フィールズ賞](../Page/フィールズ賞.md "wikilink")を歴史上初めて辞退して話題となった）が[アンリ・ポアンカレ](../Page/アンリ・ポアンカレ.md "wikilink")と[ウィリアム・サーストン](https://ja.wikipedia.org/wiki/ウィリアム・サーストン "wikilink")の[幾何化予想](../Page/幾何化予想.md "wikilink")を証明する過程で使った[リッチフロー](https://ja.wikipedia.org/wiki/リッチフロー "wikilink")の発明で知られる（ハミルトン・ペレルマンのリッチ・フロー理論）。
+1966年に[プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")で[Ph.D.](https://ja.wikipedia.org/wiki/Ph.D. "wikilink")を取得。指導教官はだった。[カリフォルニア大学バークレー校](../Page/カリフォルニア大学バークレー校.md "wikilink")、[カリフォルニア大学サンディエゴ校](../Page/カリフォルニア大学サンディエゴ校.md "wikilink")、[コーネル大学](../Page/コーネル大学.md "wikilink")を経て、現在[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")数学科教授。ハミルトンは、[グリゴリー・ペレルマン](../Page/グリゴリー・ペレルマン.md "wikilink")（2006年に[フィールズ賞](../Page/フィールズ賞.md "wikilink")を歴史上初めて辞退して話題となった）が[アンリ・ポアンカレ](../Page/アンリ・ポアンカレ.md "wikilink")と[ウィリアム・サーストン](../Page/ウィリアム・サーストン.md "wikilink")の[幾何化予想](../Page/幾何化予想.md "wikilink")を証明する過程で使った[リッチフロー](https://ja.wikipedia.org/wiki/リッチフロー "wikilink")の発明で知られる（ハミルトン・ペレルマンのリッチ・フロー理論）。
 
 ## 受賞歴
 
-  - [ヴェブレン賞](https://ja.wikipedia.org/wiki/ヴェブレン賞 "wikilink")（1996年）
-  - [米国科学アカデミー](https://ja.wikipedia.org/wiki/米国科学アカデミー "wikilink")会員（1999年）
-  - [クレイ研究賞](https://ja.wikipedia.org/wiki/クレイ研究賞 "wikilink")（2003年）
-  - [アメリカ芸術科学アカデミー](https://ja.wikipedia.org/wiki/アメリカ芸術科学アカデミー "wikilink")会員（2003年）
+  - [ヴェブレン賞](../Page/ヴェブレン賞.md "wikilink")（1996年）
+  - [米国科学アカデミー](../Page/米国科学アカデミー.md "wikilink")会員（1999年）
+  - [クレイ研究賞](../Page/クレイ研究賞.md "wikilink")（2003年）
+  - [アメリカ芸術科学アカデミー](../Page/アメリカ芸術科学アカデミー.md "wikilink")会員（2003年）
   - [スティール賞](https://ja.wikipedia.org/wiki/スティール賞 "wikilink")（2009年）
   - [ショウ賞](https://ja.wikipedia.org/wiki/ショウ賞 "wikilink")（2011年）
 

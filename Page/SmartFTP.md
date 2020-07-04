@@ -1,7 +1,7 @@
 > この記事は[SmartFTP](https://ja.wikipedia.org/wiki/SmartFTP)から翻訳されています。
 
 
-**SmartFTP**は[FTPクライアント](../Page/FTPクライアント.md "wikilink")。[Windowsに内蔵された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[エクスプローラのコンポーネントを内部的に呼び出すことで](https://ja.wikipedia.org/wiki/Windows_Explorer "wikilink")、高い操作性を持つのが特徴。SmartFTPの最初のバージョンは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に公開されて、多言語対応をしているため世界中で利用されている。
+**SmartFTP**は[FTPクライアント](../Page/FTPクライアント.md "wikilink")。[Windowsに内蔵された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[エクスプローラのコンポーネントを内部的に呼び出すことで](../Page/Windows_Explorer.md "wikilink")、高い操作性を持つのが特徴。SmartFTPの最初のバージョンは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に公開されて、多言語対応をしているため世界中で利用されている。
 
 他の特徴として、以下のようなものがある\[1\]。
 
@@ -9,7 +9,7 @@
   - 「転送キュー」「一時キュー」機能を搭載。時間を指定した複数ファイルの一括アップロードができる。
   - [FXPに対応したFTPサーバなら](https://ja.wikipedia.org/wiki/File_eXchange_Protocol "wikilink")、サーバ間のファイル・コピーもドラッグ・アンド・ドロップが可能。
   - Wingate、Winproxy、CSM、Checkpoint FW-1、Raptorなどの[ファイアウォール](../Page/ファイアウォール.md "wikilink")へのログイン。
-  - 暗号化FTP通信「[FTPS](https://ja.wikipedia.org/wiki/FTPS "wikilink")」（File Transfer Protocol over SSL/TLS）に対応\[2\]。
+  - 暗号化FTP通信「[FTPS](../Page/FTPS.md "wikilink")」（File Transfer Protocol over SSL/TLS）に対応\[2\]。
 
 ## 脚注
 

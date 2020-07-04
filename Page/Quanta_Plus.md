@@ -1,7 +1,7 @@
 > この記事は[Quanta Plus](https://ja.wikipedia.org/wiki/Quanta_Plus)から翻訳されています。
 
 
-**Quanta Plus** は[フリーな](../Page/フリーソフトウェア.md "wikilink")[ウェブ](../Page/World_Wide_Web.md "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink")である。この[ソフトウェア](../Page/ソフトウェア.md "wikilink")は[Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")である[KDE](../Page/KDE.md "wikilink")の一部であり、[Kdewebdev](https://ja.wikipedia.org/wiki/Kdewebdev "wikilink")パッケージ内でリリースされている。
+**Quanta Plus** は[フリーな](../Page/フリーソフトウェア.md "wikilink")[ウェブ](../Page/World_Wide_Web.md "wikilink")[統合開発環境](../Page/統合開発環境.md "wikilink")である。この[ソフトウェア](../Page/ソフトウェア.md "wikilink")は[Linux](../Page/Linux.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")である[KDE](../Page/KDE.md "wikilink")の一部であり、[Kdewebdev](https://ja.wikipedia.org/wiki/Kdewebdev "wikilink")パッケージ内でリリースされている。
 
 ## 機能
 

@@ -1,14 +1,14 @@
 > この記事は[Miho\'s Select](https://ja.wikipedia.org/wiki/Miho\'s_Select)から翻訳されています。
 
 
-『**Miho's Select**』（ミホズ・セレクト）は、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。1991年12月24日に[キングレコード](../Page/キングレコード.md "wikilink")より発売された（KICS-150）。
+『**Miho's Select**』（ミホズ・セレクト）は、[中山美穂](../Page/中山美穂.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。1991年12月24日に[キングレコード](../Page/キングレコード.md "wikilink")より発売された（KICS-150）。
 
 ## 解説
 
   - 帯コピー：**中山美穂のセレクトによるベスト・アルバム New Versionも入った必聴盤。**
   - この年に発売された2枚のヒットシングル「[Rosa](../Page/Rosa.md "wikilink")」（アルバムバージョン）と「[遠い街のどこかで…](../Page/遠い街のどこかで….md "wikilink")」を含む、本人選曲による10曲。過去に発売されたアルバムからの[バラード](../Page/バラード.md "wikilink")曲が中心。
   - 「[遠い街のどこかで…](../Page/遠い街のどこかで….md "wikilink")」はシングルと同じアレンジだが、アルバムでは出だしの音量だけ意図的に下げられており、徐々に音量が上がるという手工が凝らされている。
-  - [オリコンアルバムチャートでは初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得し、以後も好調なセールスを続け最終的に30万枚を超えた。翌年に発表された『第6回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』女性アイドル部門賞を受賞した。
+  - [オリコンアルバムチャートでは初登場](../Page/オリコンチャート.md "wikilink")1位を獲得し、以後も好調なセールスを続け最終的に30万枚を超えた。翌年に発表された『第6回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』女性アイドル部門賞を受賞した。
   - タイトルにある "select" は動詞であり名詞にはならないため（名詞形は "selection"）、"Miho's Select" という表現は文法的に正しくない。日本語における“セレクト”という語感から付けられた、日本語的表現である。
 
 ## 収録曲
@@ -22,22 +22,22 @@
       - 新録
 3.  **[SWITCH ON](https://ja.wikipedia.org/wiki/WAKU_WAKUさせて#収録曲 "wikilink")**
       - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")、編曲: [根岸貴幸](../Page/根岸貴幸.md "wikilink")
-      - シングル「[WAKU WAKUさせて](../Page/WAKU_WAKUさせて.md "wikilink")」カップリング曲「ハートのスイッチを押して」と同曲別アレンジ。（[シングル及びアルバム](../Page/WAKU_WAKUさせて.md "wikilink")『[EXOTIQUE](https://ja.wikipedia.org/wiki/EXOTIQUE "wikilink")』収録ヴァージョンの編曲者は[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")）。
+      - シングル「[WAKU WAKUさせて](../Page/WAKU_WAKUさせて.md "wikilink")」カップリング曲「ハートのスイッチを押して」と同曲別アレンジ。（[シングル及びアルバム](../Page/WAKU_WAKUさせて.md "wikilink")『[EXOTIQUE](https://ja.wikipedia.org/wiki/EXOTIQUE "wikilink")』収録ヴァージョンの編曲者は[船山基紀](../Page/船山基紀.md "wikilink")）。
       - 新録
 4.  **[I Know](https://ja.wikipedia.org/wiki/Mind_Game "wikilink")**
       - 作詞: [芹沢類](https://ja.wikipedia.org/wiki/芹沢類 "wikilink")、作曲: [Cindy](../Page/CINDY.md "wikilink")、編曲: [杉山卓夫](https://ja.wikipedia.org/wiki/杉山卓夫 "wikilink")
       - アルバム『[Mind Game](https://ja.wikipedia.org/wiki/Mind_Game "wikilink")』収録曲
       - 新録
 5.  **[遠い街のどこかで…](../Page/遠い街のどこかで….md "wikilink")**
-      - 作詞: [渡辺美佳](https://ja.wikipedia.org/wiki/渡辺美佳 "wikilink")、作曲・編曲: [中崎英也](https://ja.wikipedia.org/wiki/中崎英也 "wikilink")
-      - [ドラマ](../Page/ドラマ.md "wikilink")『[逢いたい時にあなたはいない…](https://ja.wikipedia.org/wiki/逢いたい時にあなたはいない… "wikilink")』主題歌
+      - 作詞: [渡辺美佳](../Page/渡辺美佳.md "wikilink")、作曲・編曲: [中崎英也](../Page/中崎英也.md "wikilink")
+      - [ドラマ](../Page/ドラマ.md "wikilink")『[逢いたい時にあなたはいない…](../Page/逢いたい時にあなたはいない….md "wikilink")』主題歌
 6.  **[花瓶](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")**
       - 作詞・作曲・編曲: 角松敏生
       - アルバム『[CATCH THE NITE](https://ja.wikipedia.org/wiki/CATCH_THE_NITE "wikilink")』収録曲
       - 新録
-7.  **[COCKATOO](https://ja.wikipedia.org/wiki/De_eaya "wikilink")**
+7.  **[COCKATOO](../Page/De_eaya.md "wikilink")**
       - 作詞: 中山美穂、作曲: [尾関昌也](https://ja.wikipedia.org/wiki/尾関昌也 "wikilink")、編曲: ATOM
-      - アルバム『[Dé eaya](https://ja.wikipedia.org/wiki/De_eaya "wikilink")』収録曲
+      - アルバム『[Dé eaya](../Page/De_eaya.md "wikilink")』収録曲
 8.  **[誰かが愛に…](https://ja.wikipedia.org/wiki/これからのI_Love_You#収録曲 "wikilink")**
       - 作詞: 中山美穂、作曲: 尾関昌也、編曲: ATOM
       - シングル「[これからのI Love You](../Page/これからのI_Love_You.md "wikilink")」カップリング

@@ -1,18 +1,18 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[日野・DSエンジン](https://ja.wikipedia.org/wiki/日野・DSエンジン)から翻訳されています。
 
 
 [DS11.jpg](https://ja.wikipedia.org/wiki/File:DS11.jpg "fig:DS11.jpg") **DSエンジン**は[日野自動車](../Page/日野自動車.md "wikilink")がかつて製造していた[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")である。
 
 ## 概要
 
-[1950年](../Page/1950年.md "wikilink")に登場した水冷、予熱燃焼式エンジン。[1967年](../Page/1967年.md "wikilink")に後継として直接噴射式の[EA100が登場したが](https://ja.wikipedia.org/wiki/日野・E型エンジン "wikilink")、[1976年](https://ja.wikipedia.org/wiki/1976年 "wikilink")まで製造された。
+[1950年](../Page/1950年.md "wikilink")に登場した水冷、予熱燃焼式エンジン。[1967年](../Page/1967年.md "wikilink")に後継として直接噴射式の[EA100が登場したが](https://ja.wikipedia.org/wiki/日野・E型エンジン "wikilink")、[1976年](../Page/1976年.md "wikilink")まで製造された。
 
 ## バリエーション
 
 ### DS10
 
   - 1950年登場。
-  - [直列6気筒](https://ja.wikipedia.org/wiki/直列6気筒 "wikilink") 7014cc 110ps
+  - [直列6気筒](../Page/直列6気筒.md "wikilink") 7014cc 110ps
   - ボア×ストローク:105.0×135.0
   - 搭載車種
       - [TH10](https://ja.wikipedia.org/wiki/日野・TH "wikilink")
@@ -44,7 +44,7 @@
 
 ### DS60
 
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")登場。
+  - [1970年](../Page/1970年.md "wikilink")登場。
   - 直列6気筒 155ps
   - 搭載車種
       - [BT100](../Page/日野・ブルーリボン.md "wikilink")
@@ -63,7 +63,7 @@
   - [1963年](../Page/1963年.md "wikilink")登場。
   - 水平対向12気筒 15965cc 320ps/2400rpm
   - 搭載車種
-      - [RA100-P](https://ja.wikipedia.org/wiki/日野・セレガ "wikilink")
+      - [RA100-P](../Page/日野・セレガ.md "wikilink")
 
 ### DS140
 

@@ -1,12 +1,12 @@
-> この記事は[UDP---1-](https://ja.wikipedia.org/wiki/UDP---1-)から翻訳されています。
+> この記事は[UDP-グルコース-ヘキソース-1-リン酸ウリジリルトランスフェラーゼ](https://ja.wikipedia.org/wiki/UDP-グルコース-ヘキソース-1-リン酸ウリジリルトランスフェラーゼ)から翻訳されています。
 
 
-**UDP-グルコース-ヘキソース-1-リン酸ウリジリルトランスフェラーゼ**（UDP-glucose—hexose-1-phosphate uridylyltransferase）は、摂取した[ガラクトース](https://ja.wikipedia.org/wiki/ガラクトース "wikilink")を[グルコース](../Page/グルコース.md "wikilink")へ転換する[酵素](../Page/酵素.md "wikilink")である。**ガラクトース-1-リン酸ウリジリルトランスフェラーゼ**(galactose—1-phosphate uridylyltransferase, **GALT**)とも呼ばれる。
+**UDP-グルコース-ヘキソース-1-リン酸ウリジリルトランスフェラーゼ**（UDP-glucose—hexose-1-phosphate uridylyltransferase）は、摂取した[ガラクトース](../Page/ガラクトース.md "wikilink")を[グルコース](../Page/グルコース.md "wikilink")へ転換する[酵素](../Page/酵素.md "wikilink")である。**ガラクトース-1-リン酸ウリジリルトランスフェラーゼ**(galactose—1-phosphate uridylyltransferase, **GALT**)とも呼ばれる。
 
-`Image:D-galactose Fischer.png|`[`ガラクトース`](https://ja.wikipedia.org/wiki/ガラクトース "wikilink")
+`Image:D-galactose Fischer.png|`[`ガラクトース`](../Page/ガラクトース.md "wikilink")
 `Image:D-glucose-chain-2D-Fischer.png|`[`グルコース`](../Page/グルコース.md "wikilink")
 
-これは、[ルロワール経路](https://ja.wikipedia.org/wiki/ルロワール経路 "wikilink")において重要な酵素で、[UDP-グルコース](https://ja.wikipedia.org/wiki/UDP-グルコース "wikilink")と[ガラクトース-1-リン酸](https://ja.wikipedia.org/wiki/ガラクトース-1-リン酸 "wikilink")から[UDP-ガラクトース](https://ja.wikipedia.org/wiki/UDP-ガラクトース "wikilink")と[グルコース-1-リン酸](https://ja.wikipedia.org/wiki/グルコース-1-リン酸 "wikilink")を作り出す。また、この酵素の変異によって[ガラクトース血症](../Page/ガラクトース血症.md "wikilink")が引き起こされる。
+これは、[ルロワール経路](https://ja.wikipedia.org/wiki/ルロワール経路 "wikilink")において重要な酵素で、[UDP-グルコース](https://ja.wikipedia.org/wiki/UDP-グルコース "wikilink")と[ガラクトース-1-リン酸](https://ja.wikipedia.org/wiki/ガラクトース-1-リン酸 "wikilink")から[UDP-ガラクトース](https://ja.wikipedia.org/wiki/UDP-ガラクトース "wikilink")と[グルコース-1-リン酸](../Page/グルコース-1-リン酸.md "wikilink")を作り出す。また、この酵素の変異によって[ガラクトース血症](../Page/ガラクトース血症.md "wikilink")が引き起こされる。
 
 ## 外部リンク
 

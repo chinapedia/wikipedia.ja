@@ -13,7 +13,7 @@
 
 [2018年](../Page/2018年.md "wikilink")に行われたイベント『TANO\*C W』において新メンバー、Getty・Srav3R・Laurの加入が発表された\[1\]。また、HARDCORE TANO\*Cのサブレーベルである『HARDCORE TANO\*C HARD』\[2\]も発表され、Myosukeを基軸とした、ガバ、スピードコア、ハードスタイル等激しめの音楽ジャンルを取り扱う予定。
 
-[2020年](../Page/2020年.md "wikilink")には[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")「\[<https://twitter.com/arcaea_jp?s=09>　Arcaea\]」とコラボが決定。既存曲1曲\[3\]、新曲4曲\[4\]の計5曲を提供した。
+[2020年](../Page/2020年.md "wikilink")には[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")「[Arcaea](../Page/Arcaea.md "wikilink")」とコラボが決定。既存曲1曲\[3\]、新曲4曲\[4\]の計5曲を提供した。
 
 ## 主なメンバー
 
@@ -29,7 +29,7 @@
   - [t+pazolite](https://ja.wikipedia.org/wiki/t+pazolite "wikilink")/tpa:pbr/最速 (C.H.S/ALiCE'S EMOTiON)
   - [源屋](https://ja.wikipedia.org/wiki/源屋 "wikilink") (MINAMOTRANCE)
   - [USAO](https://ja.wikipedia.org/wiki/USAO "wikilink")/Shandy Kubota/DJ 名無し/Caladborg (UOM Records)
-  - [RoughSketch](https://ja.wikipedia.org/wiki/宇野将平 "wikilink")/uno/DJ Laugh (Sapporo Hardcore Channel/Notebook Records/[IOSYS](../Page/イオシス.md "wikilink")/[beatnation RHYZE](https://ja.wikipedia.org/wiki/beatnationレーベル "wikilink"))
+  - [RoughSketch](https://ja.wikipedia.org/wiki/宇野将平 "wikilink")/uno/DJ Laugh/CANVAS (Sapporo Hardcore Channel/Notebook Records/[IOSYS](../Page/イオシス.md "wikilink")/[beatnation RHYZE](https://ja.wikipedia.org/wiki/beatnationレーベル "wikilink"))
   - [DJ Noriken](https://ja.wikipedia.org/wiki/DJ_Noriken "wikilink")/Luna Express (SKETCH UP\! Recordings)
   - [P\*Light](https://ja.wikipedia.org/wiki/P*Light "wikilink")/[八王子P](https://ja.wikipedia.org/wiki/八王子P "wikilink") (pichnopop/electro planet/SKETCH UP\! Recordings/beatnation RHYZE)
   - [DJ Genki](https://ja.wikipedia.org/wiki/DJ_Genki "wikilink")/Gram (djgenki.net/SKETCH UP\! Recordings)
@@ -181,6 +181,7 @@
   - Bright Colors 2
   - Bright Colors 3
   - Bright Colors 4 (2017年12月29日発売 [C93にて先行発売](../Page/コミックマーケット.md "wikilink"))
+  - Bright Colors 5
 
 ### IRREGULAR NATIONシリーズ
 

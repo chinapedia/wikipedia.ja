@@ -1,7 +1,7 @@
 > この記事は[Myst V: End of Ages](https://ja.wikipedia.org/wiki/Myst_V:_End_of_Ages)から翻訳されています。
 
 
-『**Myst V: End of Ages**』（ミストファイブ エンドオブエイジス）は、[MYST](https://ja.wikipedia.org/wiki/MYST "wikilink")シリーズの第5作目にして完結編。[米国にて](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2005年9月20日に発売され、日本語ローカライズ版も同月22日に発売された。開発は[Cyan Worlds](https://ja.wikipedia.org/wiki/Cyan_Worlds "wikilink")、発売元は[ユービーアイソフト](https://ja.wikipedia.org/wiki/ユービーアイソフト "wikilink")。日本語版は当初[ライブドア](https://ja.wikipedia.org/wiki/ライブドア "wikilink")より販売されたが、同社がゲームブランドを廃止することに伴い、後にフロンティアグルーヴより他のミストシリーズと共に再発売された。
+『**Myst V: End of Ages**』（ミストファイブ エンドオブエイジス）は、[MYST](../Page/MYST.md "wikilink")シリーズの第5作目にして完結編。[米国にて](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2005年9月20日に発売され、日本語ローカライズ版も同月22日に発売された。開発は[Cyan Worlds](../Page/Cyan_Worlds.md "wikilink")、発売元は[ユービーアイソフト](../Page/ユービーアイソフト.md "wikilink")。日本語版は当初[ライブドア](../Page/ライブドア.md "wikilink")より販売されたが、同社がゲームブランドを廃止することに伴い、後にフロンティアグルーヴより他のミストシリーズと共に再発売された。
 
 ## 概要
 

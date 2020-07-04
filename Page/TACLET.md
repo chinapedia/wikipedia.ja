@@ -1,7 +1,7 @@
 > この記事は[TACLET](https://ja.wikipedia.org/wiki/TACLET)から翻訳されています。
 
 
-[USCG_PACTACLET_Vertical_Insertion.jpg](https://ja.wikipedia.org/wiki/File:USCG_PACTACLET_Vertical_Insertion.jpg "fig:USCG_PACTACLET_Vertical_Insertion.jpg")より降下するPACTACLET隊員。\]\] **TACLET**（**Tac**tical **L**aw **E**nforcement **T**eams: 戦術法執行チーム）は、[アメリカ沿岸警備隊](../Page/アメリカ沿岸警備隊.md "wikilink")の戦術部隊。[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")の[特別警備隊](../Page/特別警備隊_\(海上保安庁\).md "wikilink")、[日本警察の](../Page/日本の警察.md "wikilink")[銃器対策部隊](../Page/銃器対策部隊.md "wikilink")に相当する。
+[USCG_PACTACLET_Vertical_Insertion.jpg](https://ja.wikipedia.org/wiki/File:USCG_PACTACLET_Vertical_Insertion.jpg "fig:USCG_PACTACLET_Vertical_Insertion.jpg")より降下するPACTACLET隊員。\]\] **TACLET**（**Tac**tical **L**aw **E**nforcement **T**eams: 戦術法執行チーム）は、[アメリカ沿岸警備隊](../Page/アメリカ沿岸警備隊.md "wikilink")の戦術部隊。[海上保安庁](../Page/海上保安庁.md "wikilink")の[特別警備隊](../Page/特別警備隊_\(海上保安庁\).md "wikilink")、[日本警察の](../Page/日本の警察.md "wikilink")[銃器対策部隊](../Page/銃器対策部隊.md "wikilink")に相当する。
 
 ## 概要
 

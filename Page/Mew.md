@@ -5,7 +5,7 @@
 
 ## 概要
 
-Mewは、テキスト・メールやマルチメディア・メール([MIME](https://ja.wikipedia.org/wiki/Multipurpose_Internet_Mail_Extensions "wikilink"))、ニュース、セキュリティ機能([PGP](../Page/Pretty_Good_Privacy.md "wikilink")、[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink")、[SSH](../Page/Secure_Shell.md "wikilink")、[TLS](../Page/Transport_Layer_Security.md "wikilink"))を便利にするためのユーザーインターフェイスが備わっている。また、[Hyper Estraier](../Page/Hyper_Estraier.md "wikilink")、[Spotlight](https://ja.wikipedia.org/wiki/Spotlight "wikilink")、[Windows Desktop Search](https://ja.wikipedia.org/wiki/Windows_Desktop_Search "wikilink")、[Namazu](https://ja.wikipedia.org/wiki/Namazu "wikilink")など、最新の検索機能と連動することも可能である。
+Mewは、テキスト・メールやマルチメディア・メール([MIME](../Page/Multipurpose_Internet_Mail_Extensions.md "wikilink"))、ニュース、セキュリティ機能([PGP](../Page/Pretty_Good_Privacy.md "wikilink")、[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink")、[SSH](../Page/Secure_Shell.md "wikilink")、[TLS](../Page/Transport_Layer_Security.md "wikilink"))を便利にするためのユーザーインターフェイスが備わっている。また、[Hyper Estraier](../Page/Hyper_Estraier.md "wikilink")、[Spotlight](../Page/Spotlight.md "wikilink")、[Windows Desktop Search](https://ja.wikipedia.org/wiki/Windows_Desktop_Search "wikilink")、[Namazu](../Page/Namazu.md "wikilink")など、最新の検索機能と連動することも可能である。
 
 Mewは「Messaging in the Emacs World」の略であり、「M」から始まるかわいらしい単語を選んだ結果、決定した。
 

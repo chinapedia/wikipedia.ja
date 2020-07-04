@@ -1,33 +1,33 @@
-> この記事は[Mobile](https://ja.wikipedia.org/wiki/Mobile)から翻訳されています。
+> この記事は[Mobileゴルフパンヤ](https://ja.wikipedia.org/wiki/Mobileゴルフパンヤ)から翻訳されています。
 
 
-『**Mobileゴルフ パンヤ**』（モバイル-）とは、[韓国の](https://ja.wikipedia.org/wiki/大韓民国 "wikilink")[Ntreev Soft](https://ja.wikipedia.org/wiki/Ntreev_Soft "wikilink")（エントリーブソフト） が開発した[スカッとゴルフパンヤ](https://ja.wikipedia.org/wiki/スカッとゴルフパンヤ "wikilink")をベースとする[携帯電話](../Page/携帯電話.md "wikilink")用の3Dオンラインゴルフゲームである。
+『**Mobileゴルフ パンヤ**』（モバイル-）とは、[韓国の](../Page/大韓民国.md "wikilink")[Ntreev Soft](https://ja.wikipedia.org/wiki/Ntreev_Soft "wikilink")（エントリーブソフト） が開発した[スカッとゴルフパンヤ](https://ja.wikipedia.org/wiki/スカッとゴルフパンヤ "wikilink")をベースとする[携帯電話](../Page/携帯電話.md "wikilink")用の3Dオンラインゴルフゲームである。
 
 ## 概要
 
-全世界で1100万人が[PC等で遊んでいるゴルフゲーム](../Page/パーソナルコンピュータ.md "wikilink")[スカッとゴルフ パンヤをベースとする](https://ja.wikipedia.org/wiki/スカッとゴルフ_パンヤ "wikilink")『**Mobile ゴルフ パンヤ**』（略称「モバパン」）は、[インタラクティブブレインズ](../Page/インタラクティブブレインズ.md "wikilink")が開発し携帯電話用の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")としてサービスされている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[KDDI](../Page/KDDI.md "wikilink")よりサービス開始され、[6月9日](../Page/6月9日.md "wikilink")には[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")でも開始された。なお、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（[S\!アプリ](../Page/S!アプリ.md "wikilink")）には対応していない。
+全世界で1100万人が[PC等で遊んでいるゴルフゲーム](../Page/パーソナルコンピュータ.md "wikilink")[スカッとゴルフ パンヤをベースとする](../Page/スカッとゴルフ_パンヤ.md "wikilink")『**Mobile ゴルフ パンヤ**』（略称「モバパン」）は、[インタラクティブブレインズ](../Page/インタラクティブブレインズ.md "wikilink")が開発し携帯電話用の[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")としてサービスされている。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[KDDI](../Page/KDDI.md "wikilink")よりサービス開始され、[6月9日](../Page/6月9日.md "wikilink")には[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")でも開始された。なお、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（[S\!アプリ](../Page/S!アプリ.md "wikilink")）には対応していない。
 
-特徴の一つは、業界初の試みである[KDDI](../Page/KDDI.md "wikilink")と[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")が提供する携帯電話向け[SNS](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")「au one GREE」と連動していることである。同[SNS内に本作の公式コミュニティが設置されており](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")、日記やスコア、対戦記録などを書き込める。また、毎月更新されるファッションアイテム（[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")）でキャラクターの着せ替えを楽しむ事ができる。アイテムや[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")は、ゲーム内で獲得するパンヤポイント（PP）や個別課金で購入するクッキーポイント（CP）を利用し購入する。
+特徴の一つは、業界初の試みである[KDDI](../Page/KDDI.md "wikilink")と[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")が提供する携帯電話向け[SNS](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")「au one GREE」と連動していることである。同[SNS内に本作の公式コミュニティが設置されており](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")、日記やスコア、対戦記録などを書き込める。また、毎月更新されるファッションアイテム（[アバター](../Page/アバター.md "wikilink")）でキャラクターの着せ替えを楽しむ事ができる。アイテムや[アバター](../Page/アバター.md "wikilink")は、ゲーム内で獲得するパンヤポイント（PP）や個別課金で購入するクッキーポイント（CP）を利用し購入する。
 
 ### 歴史
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
     [2月21日](../Page/2月21日.md "wikilink") - [EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")（[KDDI](../Page/KDDI.md "wikilink")）にてサービス開始
-    [2月21日](../Page/2月21日.md "wikilink") - [SNS](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")「au one GREE」と連動開始
+    [2月21日](../Page/2月21日.md "wikilink") - [SNS](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")「au one GREE」と連動開始
     [6月9日](../Page/6月9日.md "wikilink") - [iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")（[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）にてサービス開始
 
 ### 「Mobileゴルフパンヤ」の特徴
 
-  - 毎月更新されるたくさんのファッションアイテム（[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")）でキャラクターの衣装を着せ替えたりしながら、ゴルフゲームが楽しめる。
+  - 毎月更新されるたくさんのファッションアイテム（[アバター](../Page/アバター.md "wikilink")）でキャラクターの衣装を着せ替えたりしながら、ゴルフゲームが楽しめる。
   - 対戦モードでは、ゴルフとファッションセンスをリアルタイムの通信対戦で友達と競うことができる。
   - 携帯電話の利用シーンに合わせた数種類のホール設定で気軽にオンライン対戦を満喫できる。
-  - ユーザーは、[SNS](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")「au one GREE」内に設置された公式コミュニティや日記にスコア記録や対戦情報を書きこめ、ユーザー間でコミュニケーションを取ることができる。
+  - ユーザーは、[SNS](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")「au one GREE」内に設置された公式コミュニティや日記にスコア記録や対戦情報を書きこめ、ユーザー間でコミュニケーションを取ることができる。
 
 ## ゲームシステム
 
 ### 戦い方
 
-基本[ルール](https://ja.wikipedia.org/wiki/ルール "wikilink")は、スカッとゴルフ パンヤと同様。誰でも簡単に楽しめるゴルフゲームになっている。数種類のキャラクター・クラブセット・[キャディなどを購入し](../Page/ゴルフ.md "wikilink")、自らの能力を上げることで他のプレイヤーと共に対戦を楽しめる。対戦方法は「一人モード」「対戦モード」「大会モード」の3つがある（※大会モードは現在未実装）。
+基本[ルール](../Page/ルール.md "wikilink")は、スカッとゴルフ パンヤと同様。誰でも簡単に楽しめるゴルフゲームになっている。数種類のキャラクター・クラブセット・[キャディなどを購入し](../Page/ゴルフ.md "wikilink")、自らの能力を上げることで他のプレイヤーと共に対戦を楽しめる。対戦方法は「一人モード」「対戦モード」「大会モード」の3つがある（※大会モードは現在未実装）。
 
 ### ゲームモード
 
@@ -73,7 +73,7 @@
 
   - Blue Moon（ブルームーン）
     略称「BM」。
-    [夜](https://ja.wikipedia.org/wiki/夜 "wikilink")のコースで、Blue Lagoonと同じくリベラに在るとされる。Lagoon・Waterのティーグラウンドの位置にグリーン、グリーンの位置にティーグラウンドがあるため、打ち上げとなるホールが多い。
+    [夜](../Page/夜.md "wikilink")のコースで、Blue Lagoonと同じくリベラに在るとされる。Lagoon・Waterのティーグラウンドの位置にグリーン、グリーンの位置にティーグラウンドがあるため、打ち上げとなるホールが多い。
     クッキーポイント（CP）にて購入。
 
 <!-- end list -->
@@ -135,24 +135,24 @@
       - コブラショット (cobra)
         パワーショット状態でショット時パワーゲージ設定後、方向キー「→」「↑」。
         最初は弾道が低く最後に高くなるショット。障害物をくぐらせたい時に非常に有効であるが、他の特殊ショットより飛距離がやや劣るのが欠点。ウッドでのみ使用可能。
-      - [スパイク](https://ja.wikipedia.org/wiki/スパイク "wikilink")ショット (spike)
+      - [スパイク](../Page/スパイク.md "wikilink")ショット (spike)
         パワーショット状態でショット時パワーゲージ設定後、方向キー「→」「↓」。
         最初は弾道が低く、それから高く上がる。最高到達地点で一旦止まり、そこから一直線に落ちて着弾する（コブラショットをかなり高くしたような弾道と、トマホークショットのように着弾後に爆発する）。高低差で飛距離が大きく変わるため、予想以上に着弾地点の予測が難しい。そのためプレイヤーの判断力が問われる特殊ショット。ウッドでのみ使用可能。
 
 ## キャラクター
 
-プレイヤーが操作できるプレイヤーキャラクター、アドバイスなどをしてくれる[キャディ](https://ja.wikipedia.org/wiki/キャディ "wikilink")、補助などをしてくれる[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")の三種類がある。
+プレイヤーが操作できるプレイヤーキャラクター、アドバイスなどをしてくれる[キャディ](https://ja.wikipedia.org/wiki/キャディ "wikilink")、補助などをしてくれる[マスコット](../Page/マスコット.md "wikilink")の三種類がある。
 
 ### プレイヤーキャラクター
 
-プレイヤーの分身となるキャラクター達。それぞれキャラクターによって初期能力が異なり、専用の装備品が用意されている。装備品は装備箇所によって上着（[パーカーや](https://ja.wikipedia.org/wiki/パーカー_\(衣類\) "wikilink")[シャツ](https://ja.wikipedia.org/wiki/シャツ "wikilink")）・下着（[ズボン](https://ja.wikipedia.org/wiki/ズボン "wikilink")や[スカート](../Page/スカート.md "wikilink")）・[靴](../Page/靴.md "wikilink")・[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")（[帽子](../Page/帽子.md "wikilink")や[グローブ](../Page/グローブ.md "wikilink")）・[ヘアカラー](https://ja.wikipedia.org/wiki/ヘアカラー "wikilink")に分かれている。[アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")感覚で着せ替えを楽しむ事も出来るが、装備品の中にはキャラクターの能力を強化してくれるものもあり、ビジュアルを優先するかキャラクターの能力アップを取るかにもプレイヤーの悩み所と楽しみがある。
+プレイヤーの分身となるキャラクター達。それぞれキャラクターによって初期能力が異なり、専用の装備品が用意されている。装備品は装備箇所によって上着（[パーカーや](../Page/パーカー_\(衣類\).md "wikilink")[シャツ](../Page/シャツ.md "wikilink")）・下着（[ズボン](../Page/ズボン.md "wikilink")や[スカート](../Page/スカート.md "wikilink")）・[靴](../Page/靴.md "wikilink")・[アクセサリー](https://ja.wikipedia.org/wiki/アクセサリー "wikilink")（[帽子](../Page/帽子.md "wikilink")や[グローブ](../Page/グローブ.md "wikilink")）・[ヘアカラー](https://ja.wikipedia.org/wiki/ヘアカラー "wikilink")に分かれている。[アバター](../Page/アバター.md "wikilink")感覚で着せ替えを楽しむ事も出来るが、装備品の中にはキャラクターの能力を強化してくれるものもあり、ビジュアルを優先するかキャラクターの能力アップを取るかにもプレイヤーの悩み所と楽しみがある。
 
 開始時に使用できるキャラクターは男性ならケン、女性ならエリカである。その他のキャラクターはCP（特定の衣装とセット）またはPPで購入する。
 
   - ケン
     ピピンと言う妖精に誘われパンヤ大会に出場する事となる。平均的な能力を持つ15歳。その昔、魔王からパンヤ世界を救った勇者の末裔。パンヤ歴・2ヶ月。得意クラブはアイアン。瞳の色：[緑](../Page/緑.md "wikilink")。
   - エリカ
-    [ポニーテール](https://ja.wikipedia.org/wiki/ポニーテール "wikilink")の少女。パンヤ島のガイド、キューマ少年の招待を受けパンヤ大会に参加。ケンと同じ能力の14歳。パンヤ歴・2ヶ月。得意クラブはアイアン。瞳の色：緑。
+    [ポニーテール](../Page/ポニーテール.md "wikilink")の少女。パンヤ島のガイド、キューマ少年の招待を受けパンヤ大会に参加。ケンと同じ能力の14歳。パンヤ歴・2ヶ月。得意クラブはアイアン。瞳の色：緑。
   - ダイスケ
     中年男性。パンヤ島・リベラ村の[村](../Page/村.md "wikilink")長の娘、ロロの招待を受けて大会に参加した元[警察官](../Page/警察官.md "wikilink")。スピンテクニックに長ける41歳。パンヤ歴・3ヶ月。得意クラブはウッド。
   - セシリア※現在未実装
@@ -160,9 +160,9 @@
   - マックス※現在未実装
     長髪の青年。[戦闘機](../Page/戦闘機.md "wikilink")の[パイロットになりたいという夢を持つ](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。元はイギリスのトップ[テニス](../Page/テニス.md "wikilink")プレーヤーだったが、不慮の[飛行機](../Page/飛行機.md "wikilink")事故に見舞われ、その際パンヤ島のコロスクロノス族に救われる。それをきっかけにパンヤ島を訪れる事となる。強いパワーを誇るが、スピン・カーブは不得手な23歳。パンヤ歴・1ヶ月。得意クラブはウッド。瞳の色：[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")。
   - クー
-    パンヤ島バルトス地域における最強の[海賊](../Page/海賊.md "wikilink")の一人娘にして、海賊船「ルナーテューム」の少女[船長](https://ja.wikipedia.org/wiki/船長 "wikilink")。大砲を片手で引きずる怪力の持ち主らしくパワーとコントロールが高め。11歳。海賊船長とは言え少女らしく一番好きなものはパパ。二番目が大砲。パンヤ歴・7ヶ月。得意クラブはアイアン。瞳の色：[赤](../Page/赤.md "wikilink")。
+    パンヤ島バルトス地域における最強の[海賊](../Page/海賊.md "wikilink")の一人娘にして、海賊船「ルナーテューム」の少女[船長](../Page/船長.md "wikilink")。大砲を片手で引きずる怪力の持ち主らしくパワーとコントロールが高め。11歳。海賊船長とは言え少女らしく一番好きなものはパパ。二番目が大砲。パンヤ歴・7ヶ月。得意クラブはアイアン。瞳の色：[赤](../Page/赤.md "wikilink")。
   - アリン※現在未実装
-    お嬢様然とした少女。[魔術師](https://ja.wikipedia.org/wiki/魔術師 "wikilink")の家系に生まれ、マガ谷に在るウィズ[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")を首席で[卒業](../Page/卒業.md "wikilink")した優秀な魔術師。魔術師としては10年の経歴を持つ。パンヤをプレイするマックスに憧れ、パンヤ大会に参戦。不得手がなく安定した能力を持つ20歳。良いスコアが出るとペットの[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")（名前：ハト）を使って優雅な魔法を見せる。パンヤ歴・9ヶ月。得意クラブはアイアン。瞳の色：[紫](https://ja.wikipedia.org/wiki/紫 "wikilink")。
+    お嬢様然とした少女。[魔術師](https://ja.wikipedia.org/wiki/魔術師 "wikilink")の家系に生まれ、マガ谷に在るウィズ[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")[学校](https://ja.wikipedia.org/wiki/学校 "wikilink")を首席で[卒業](../Page/卒業.md "wikilink")した優秀な魔術師。魔術師としては10年の経歴を持つ。パンヤをプレイするマックスに憧れ、パンヤ大会に参戦。不得手がなく安定した能力を持つ20歳。良いスコアが出るとペットの[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")（名前：ハト）を使って優雅な魔法を見せる。パンヤ歴・9ヶ月。得意クラブはアイアン。瞳の色：[紫](../Page/紫.md "wikilink")。
   - カズ※現在未実装
     遠い昔、勇者（ケンの祖先）によって封印された魔王の生まれ変わり。1年前、魔王として再び覚醒する直前に[恋人](https://ja.wikipedia.org/wiki/恋人 "wikilink")のカレンが命がけで阻止し、そのショックで彼は[記憶喪失](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")になってしまった。以来カレンの霊が見えるようになる。失った記憶を求めパンヤ島にやってきた。古来より[剣](../Page/剣.md "wikilink")と[黒魔術](../Page/黒魔術.md "wikilink")を操るルー族のひとり。剣術歴12年、パンヤ歴・3ヶ月。苦手なクラブは無し。能力のバランスが良く、安定している18歳。瞳の色：[橙](https://ja.wikipedia.org/wiki/橙 "wikilink")。
 
@@ -182,7 +182,7 @@
   - ポンタ（Ponta）
     チュートリアルモードを途中でスキップすることなくクリアすると雇える。見た目は紙袋。それはベンテュースにあるお店のショッピングバック。喋ることはできない。
   - ピピン（Pipin）
-    コロスクロノス族の妖精。時空間を自由に移動（[テレポート](https://ja.wikipedia.org/wiki/瞬間移動 "wikilink")）してボールを追う。毒舌なことで有名。嫌いなものはニンニクとネギ。（ピピン占いより）
+    コロスクロノス族の妖精。時空間を自由に移動（[テレポート](../Page/瞬間移動.md "wikilink")）してボールを追う。毒舌なことで有名。嫌いなものはニンニクとネギ。（ピピン占いより）
   - タンプー（Tangpoo）※現在未実装
     見た目は[白熊](https://ja.wikipedia.org/wiki/白熊 "wikilink")。パンヤ島・ベンテュースでクラブセットを製造するティタン族の出自故か、難解な言葉を話す。ゲームをそれなりにやり込まないと雇えない。ティタンチャムという師匠を持つ。
   - ドルフ（Dolph）※現在未実装

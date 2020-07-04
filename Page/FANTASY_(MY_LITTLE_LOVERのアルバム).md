@@ -1,4 +1,4 @@
-> この記事は[FANTASY \(MY LITTLE LOVER\)](https://ja.wikipedia.org/wiki/FANTASY_\(MY_LITTLE_LOVER\))から翻訳されています。
+> この記事は[FANTASY \(MY LITTLE LOVERのアルバム\)](https://ja.wikipedia.org/wiki/FANTASY_\(MY_LITTLE_LOVERのアルバム\))から翻訳されています。
 
 
 『**FANTASY**』（ファンタジー）は[2004年](../Page/2004年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")5枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

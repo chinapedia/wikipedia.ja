@@ -1,15 +1,15 @@
-> この記事は[Sugar \(\)](https://ja.wikipedia.org/wiki/Sugar_\(\))から翻訳されています。
+> この記事は[Sugar \(アルバム\)](https://ja.wikipedia.org/wiki/Sugar_\(アルバム\))から翻訳されています。
 
 
-『**sugar**』（シュガー）は、[TOKIO](../Page/TOKIO.md "wikilink")の11作目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[ユニバーサル・ミュージックより発売](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")（初回盤A：UPCH-9415／初回盤B：UPCH-9416／通常盤初回プレス：UPCH-9417/9418）。
+『**sugar**』（シュガー）は、[TOKIO](../Page/TOKIO.md "wikilink")の11作目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[ユニバーサル・ミュージックより発売](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（初回盤A：UPCH-9415／初回盤B：UPCH-9416／通常盤初回プレス：UPCH-9417/9418）。
 
 ## 概要
 
 前作『[Harvest](https://ja.wikipedia.org/wiki/Harvest_\(TOKIOのアルバム\) "wikilink")』からおよそ1年4ヶ月ぶりのオリジナルアルバムであり、ユニバーサルミュージックでの最後のオリジナルアルバムであるが曲数としてはアルバム曲が2曲のみのミニアルバムであり、長瀬もラジオでミニアルバムと発言している。
 
-シングルの他、作詞・作曲を長瀬智也、編曲をTOKIOが手がけたオリジナル曲「sugar」、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が手掛けた[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")の曲「[恋人も濡れる街角](https://ja.wikipedia.org/wiki/恋人も濡れる街角 "wikilink")」（[1982年](../Page/1982年.md "wikilink")）のカヴァー含め全7曲を収録。
+シングルの他、作詞・作曲を長瀬智也、編曲をTOKIOが手がけたオリジナル曲「sugar」、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が手掛けた[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")の曲「[恋人も濡れる街角](../Page/恋人も濡れる街角.md "wikilink")」（[1982年](../Page/1982年.md "wikilink")）のカヴァー含め全7曲を収録。
 
-3パターンのリリースで、「初回盤A」は[金色](https://ja.wikipedia.org/wiki/金色 "wikilink")、「初回盤B」は[銀色](https://ja.wikipedia.org/wiki/銀色 "wikilink")、「通常盤（初回プレス）」は[黒色](https://ja.wikipedia.org/wiki/黒色 "wikilink")にそれぞれ塗装されたジャケットとなっている。
+3パターンのリリースで、「初回盤A」は[金色](../Page/金色.md "wikilink")、「初回盤B」は[銀色](../Page/銀色.md "wikilink")、「通常盤（初回プレス）」は[黒色](https://ja.wikipedia.org/wiki/黒色 "wikilink")にそれぞれ塗装されたジャケットとなっている。
 
 [2009年](../Page/2009年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[J Stormより通常盤仕様として再発売された](https://ja.wikipedia.org/wiki/J_Storm "wikilink")。これに合わせてユニバーサルより発売されたオリジナル盤は初回・通常盤とも廃盤となった。
 
@@ -21,7 +21,7 @@
       -
         作詞・作曲：[長瀬智也](../Page/長瀬智也.md "wikilink")、編曲：[TOKIO](../Page/TOKIO.md "wikilink")
     <!-- end list -->
-      - 新曲
+      - 本作の表題曲
     <!-- end list -->
       -
         3rdベストアルバム「[HEART](https://ja.wikipedia.org/wiki/HEART_\(TOKIOのアルバム\) "wikilink")」にも収録された。
@@ -30,10 +30,10 @@
         作詞・作曲：[オオヤギヒロオ](../Page/オオヤギヒロオ.md "wikilink")、編曲：[山原一浩](https://ja.wikipedia.org/wiki/山原一浩 "wikilink")
     <!-- end list -->
       - 37thシングルの2曲目
-      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系「[メントレG](https://ja.wikipedia.org/wiki/メントレG "wikilink")」エンディングテーマ
+      - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系「[メントレG](../Page/メントレG.md "wikilink")」エンディングテーマ
 3.  **[青春 SEI SYuN](../Page/青春_SEISYuN.md "wikilink")**
       -
-        作詞・作曲：[長渕剛](../Page/長渕剛.md "wikilink")、編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+        作詞・作曲：[長渕剛](../Page/長渕剛.md "wikilink")、編曲：[船山基紀](../Page/船山基紀.md "wikilink")
     <!-- end list -->
       - 38thシングル
       - [長瀬智也](../Page/長瀬智也.md "wikilink")主演 [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系金曜ドラマ「[歌姫](https://ja.wikipedia.org/wiki/歌姫_\(劇作品\)#テレビドラマ "wikilink")」主題歌
@@ -42,8 +42,8 @@
         作詞・作曲：[甲斐よしひろ](../Page/甲斐よしひろ.md "wikilink")、編曲：[西村智彦](https://ja.wikipedia.org/wiki/西村智彦 "wikilink")
     <!-- end list -->
       - 36thシングルの1曲目
-      - フジテレビ系アニメ「[スカルマン](https://ja.wikipedia.org/wiki/スカルマン "wikilink")」オープニングテーマ
-5.  **[恋人も濡れる街角](https://ja.wikipedia.org/wiki/恋人も濡れる街角 "wikilink")**
+      - フジテレビ系アニメ「[スカルマン](../Page/スカルマン.md "wikilink")」オープニングテーマ
+5.  **[恋人も濡れる街角](../Page/恋人も濡れる街角.md "wikilink")**
       -
         作詞・作曲：[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")、編曲：TOKIO
     <!-- end list -->
@@ -56,7 +56,7 @@
       - [山口達也](https://ja.wikipedia.org/wiki/山口達也 "wikilink")主演 [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系ドラマ「[受験の神様](../Page/受験の神様.md "wikilink")」主題歌
 7.  **[ラン･フリー（スワン･ダンスを君と）](https://ja.wikipedia.org/wiki/ひかりのまち/ラン・フリー\(スワン・ダンスを君と\) "wikilink")**
       -
-        作詞・作曲：甲斐よしひろ、編曲：西村智彦、Chorus Arrange：[坂井紀雄](https://ja.wikipedia.org/wiki/坂井紀雄 "wikilink")
+        作詞・作曲：甲斐よしひろ、編曲：西村智彦、Chorus Arrange：[坂井紀雄](../Page/坂井紀雄.md "wikilink")
     <!-- end list -->
       - 36thシングルの2曲目
       - フジテレビ系「[世界フィギュア2007](../Page/2007年世界フィギュアスケート選手権.md "wikilink")」イメージソング
@@ -67,7 +67,7 @@
 
 1.  **青春 SEI SYuN** 〜感動〜
       -
-        編曲：[沢田完](https://ja.wikipedia.org/wiki/沢田完 "wikilink")
+        編曲：[沢田完](../Page/沢田完.md "wikilink")
     <!-- end list -->
       - 38thシングルのインストバージョン
     <!-- end list -->
@@ -88,7 +88,7 @@
       - 38thシングルのインストバージョン
     <!-- end list -->
       -
-        同じくドラマ「歌姫」の劇中で使用され、[クラシックギターをメインとした伴奏である](https://ja.wikipedia.org/wiki/クラシック・ギター "wikilink")。
+        同じくドラマ「歌姫」の劇中で使用され、[クラシックギターをメインとした伴奏である](../Page/クラシック・ギター.md "wikilink")。
 4.  **[宙船](https://ja.wikipedia.org/wiki/宙船/do!_do!_do! "wikilink")**（そらふね）〜jumble version〜
       -
         編曲：船山基紀・[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")
@@ -112,8 +112,8 @@
 
 1.  **[Johnnys' Countdown 2007-2008](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ "wikilink")**
     1.  **宙船** (そらふね)
-    2.  **[明日を目指して\!](https://ja.wikipedia.org/wiki/明日を目指して! "wikilink")**
-    3.  **[カンパイ\!\!](https://ja.wikipedia.org/wiki/カンパイ!! "wikilink")**
+    2.  **[明日を目指して\!](../Page/明日を目指して!.md "wikilink")**
+    3.  **[カンパイ\!\!](../Page/カンパイ!!.md "wikilink")**
 2.  「**sugar**」Jacket Shooting
 
 #### 初回盤B

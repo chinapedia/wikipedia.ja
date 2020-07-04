@@ -3,7 +3,7 @@
 
 『**GODIEGO GREAT BEST**』（ゴダイゴ・グレイト・ベスト）は
 
-1.  [1994年](../Page/1994年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")の12枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")(『GODIEGO GREAT BEST VOL.1 Japanese Version（ゴダイゴ・グレイト・ベスト1 日本語版）』)。
+1.  [1994年](../Page/1994年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")の12枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")(『GODIEGO GREAT BEST VOL.1 Japanese Version（ゴダイゴ・グレイト・ベスト1 日本語版）』)。
 2.  1.と同時発売されたゴダイゴの13枚目のベスト・アルバム(『GODIEGO GREAT BEST VOL.2 English Version（ゴダイゴ・グレイト・ベスト2 英語版』)。
 
 <!-- end list -->
@@ -50,7 +50,7 @@
 <td><p><small>01</small></p></td>
 <td><p><small>A-1</small></p></td>
 <td><p><small><a href="../Page/ビューティフル・ネーム.md" title="wikilink">ビューティフル・ネーム</a><br />
-<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a>:<a href="https://ja.wikipedia.org/wiki/奈良橋陽子" title="wikilink">奈良橋陽子</a>、<a href="https://ja.wikipedia.org/wiki/伊藤アキラ" title="wikilink">伊藤アキラ</a>　<a href="../Page/作曲.md" title="wikilink">作曲</a>:<a href="../Page/タケカワユキヒデ.md" title="wikilink">タケカワユキヒデ</a>　<a href="../Page/編曲.md" title="wikilink">編曲</a>:<a href="https://ja.wikipedia.org/wiki/ミッキー吉野" title="wikilink">ミッキー吉野</a><br />
+<a href="../Page/作詞.md" title="wikilink">作詞</a>:<a href="../Page/奈良橋陽子.md" title="wikilink">奈良橋陽子</a>、<a href="../Page/伊藤アキラ.md" title="wikilink">伊藤アキラ</a>　<a href="../Page/作曲.md" title="wikilink">作曲</a>:<a href="../Page/タケカワユキヒデ.md" title="wikilink">タケカワユキヒデ</a>　<a href="../Page/編曲.md" title="wikilink">編曲</a>:<a href="../Page/ミッキー吉野.md" title="wikilink">ミッキー吉野</a><br />
 （アルバム・ヴァージョン）</small></p></td>
 <td><p><small><a href="../Page/ビューティフル・ネーム.md" title="wikilink">EVERY CHILD HAS A BEAUTIFUL NAME</a><br />
 作詞:奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
@@ -70,7 +70,7 @@
 <td><p><small>03</small></p></td>
 <td><p><small>A-3</small></p></td>
 <td><p><small><a href="../Page/ガンダーラ_(曲).md" title="wikilink">ガンダーラ</a><br />
-作詞:<a href="https://ja.wikipedia.org/wiki/山上路夫" title="wikilink">山上路夫</a>、奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
+作詞:<a href="../Page/山上路夫.md" title="wikilink">山上路夫</a>、奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
 （シングル・ヴァージョン）</small></p></td>
 <td><p><small><a href="../Page/西遊記_(サウンドトラック).md" title="wikilink">GANDHARA</a><br />
 作詞:奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
@@ -87,9 +87,9 @@
 <tr class="odd">
 <td><p><small>05</small></p></td>
 <td><p><small>A-5</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/ホーリー&amp;ブライト" title="wikilink">ホーリー&amp;ブライト</a><br />
+<td><p><small><a href="../Page/ホーリー&amp;ブライト.md" title="wikilink">ホーリー&amp;ブライト</a><br />
 作詞:山上路夫、奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/ホーリー&amp;ブライト" title="wikilink">HOLY AND BRIGHT</a><br />
+<td><p><small><a href="../Page/ホーリー&amp;ブライト.md" title="wikilink">HOLY AND BRIGHT</a><br />
 作詞:奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野</small></p></td>
 </tr>
 <tr class="even">
@@ -140,8 +140,8 @@
 <td><p><small>11</small></p></td>
 <td><p><small>B-3</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ドキ・ドキ・サマー・ガール" title="wikilink">ドキ・ドキ・サマー・ガール</a><br />
-作詞:<a href="https://ja.wikipedia.org/wiki/岡田冨美子" title="wikilink">岡田冨美子</a>、<a href="https://ja.wikipedia.org/wiki/ジョニー野村" title="wikilink">WILL WILLIAMS</a>　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
-（タケカワのソロ名義。演奏はミッキー吉野・<a href="https://ja.wikipedia.org/wiki/浅野孝已" title="wikilink">浅野孝已</a>・<a href="https://ja.wikipedia.org/wiki/TALIZMAN" title="wikilink">TALIZMAN</a>）</small></p></td>
+作詞:<a href="../Page/岡田冨美子.md" title="wikilink">岡田冨美子</a>、<a href="https://ja.wikipedia.org/wiki/ジョニー野村" title="wikilink">WILL WILLIAMS</a>　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
+（タケカワのソロ名義。演奏はミッキー吉野・<a href="../Page/浅野孝已.md" title="wikilink">浅野孝已</a>・<a href="../Page/TALIZMAN.md" title="wikilink">TALIZMAN</a>）</small></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/ドキ・ドキ・サマー・ガール" title="wikilink">DOKI DOKI SUMMER GIRL</a><br />
 作詞:WILL WILLIAMS　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
 （タケカワのソロ名義。演奏はミッキー・浅野・TALIZMAN）</small></p></td>
@@ -182,10 +182,10 @@
 <tr class="even">
 <td><p><small>15</small></p></td>
 <td><p><small>B-7</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/僕のサラダガール" title="wikilink">僕のサラダ・ガール</a><br />
+<td><p><small><a href="../Page/僕のサラダガール.md" title="wikilink">僕のサラダ・ガール</a><br />
 作詞:奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
 （全詞英語、シングル・ヴァージョン）</small></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/僕のサラダガール" title="wikilink">SALAD GIRL</a><br />
+<td><p><small><a href="../Page/僕のサラダガール.md" title="wikilink">SALAD GIRL</a><br />
 作詞:奈良橋陽子　作曲:タケカワユキヒデ　編曲:ミッキー吉野<br />
 （シングル・ヴァージョン）</small></p></td>
 </tr>
@@ -210,7 +210,7 @@
 
 ## 着うた・着うたフル
 
-2010年1月現在、ゴダイゴの楽曲の[着うた](../Page/着うた.md "wikilink")及び[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")の半数以上が、当ベストアルバムの収録曲である。ここではダウンロード可能な当ベストアルバムの収録曲を記載する。
+2010年1月現在、ゴダイゴの楽曲の[着うた](../Page/着うた.md "wikilink")及び[着うたフル](../Page/着うたフル.md "wikilink")の半数以上が、当ベストアルバムの収録曲である。ここではダウンロード可能な当ベストアルバムの収録曲を記載する。
 
   - 着うた(数字は収録曲の番号に対応)
       - 日本語版→01,02,04,05,06,07,08,09,10,11,12,13,14

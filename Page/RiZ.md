@@ -158,7 +158,7 @@ RiZ＆ GA-GO Collaboration「[Virtual](http://www.ichigo-ongakudou.com/riz/hp/in
   - [救急救命士](../Page/救急救命士.md "wikilink")
   - [公務員](https://ja.wikipedia.org/wiki/公務員 "wikilink")
   - [はぴねすくらぶ](https://ja.wikipedia.org/wiki/はぴねすくらぶ "wikilink")
-  - [WASHハウス](https://ja.wikipedia.org/wiki/WASHハウス "wikilink")
+  - [WASHハウス](../Page/WASHハウス.md "wikilink")
   - [はまかつ](https://ja.wikipedia.org/wiki/はまかつ "wikilink")
   - [誠伸住宅](https://ja.wikipedia.org/wiki/誠伸住宅 "wikilink")
   - [朝日ソーラー](../Page/朝日ソーラー.md "wikilink")

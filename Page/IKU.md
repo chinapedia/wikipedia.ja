@@ -3,21 +3,21 @@
 
 **IKU**（いく、[1月22日](../Page/1月22日.md "wikilink") – ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。音楽制作集団「[I've](../Page/I've.md "wikilink")」のボーカリストの1人で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[2011年](../Page/2011年.md "wikilink")までは[ジェネオン・ユニバーサル・エンターテイメントジャパン](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")に所属していた。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[1996年](../Page/1996年.md "wikilink")に『[ラングリッサーIII](https://ja.wikipedia.org/wiki/ラングリッサーIII "wikilink")』の主題歌・挿入歌を歌った[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")所属のIKUとは別人。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。音楽制作集団「[I've](../Page/I've.md "wikilink")」のボーカリストの1人で、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[2011年](../Page/2011年.md "wikilink")までは[ジェネオン・ユニバーサル・エンターテイメントジャパン](https://ja.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")に所属していた。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[1996年](../Page/1996年.md "wikilink")に『[ラングリッサーIII](../Page/ラングリッサーIII.md "wikilink")』の主題歌・挿入歌を歌った[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")所属のIKUとは別人。
 
 ## 略歴
 
-  - 5歳の頃より[電子オルガン](https://ja.wikipedia.org/wiki/電子オルガン "wikilink")を始める。
+  - 5歳の頃より[電子オルガン](../Page/電子オルガン.md "wikilink")を始める。
   - 小学校から高校生までの6年間、[吹奏楽部](https://ja.wikipedia.org/wiki/吹奏楽部 "wikilink")に入部し、様々な楽器を担当。
   - 高校時代にはバンドを結成し、そこでボーカルの楽しさを知り、大学時代にはプロの歌手になることを決意した。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より札幌市を中心に、自身のオリジナル曲やカバー曲のピアノ弾き語りライブといった音楽活動を開始。
-  - [2007年](../Page/2007年.md "wikilink")、[I've](../Page/I've.md "wikilink")の[島みやえい子](https://ja.wikipedia.org/wiki/島みやえい子 "wikilink")が偶然彼女のライブに立ち会い、どんなジャンルでも歌えること、声質だけで勝負しない歌の上手さに感動し、[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")にIKUを紹介した。
+  - [2006年](../Page/2006年.md "wikilink")より札幌市を中心に、自身のオリジナル曲やカバー曲のピアノ弾き語りライブといった音楽活動を開始。
+  - [2007年](../Page/2007年.md "wikilink")、[I've](../Page/I've.md "wikilink")の[島みやえい子](../Page/島みやえい子.md "wikilink")が偶然彼女のライブに立ち会い、どんなジャンルでも歌えること、声質だけで勝負しない歌の上手さに感動し、[高瀬一矢](../Page/高瀬一矢.md "wikilink")にIKUを紹介した。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、デモテープを元にして作られた楽曲「木の芽風」がテレビアニメ『[ハヤテのごとく\!](../Page/ハヤテのごとく!_\(アニメ\).md "wikilink")』の第4期エンディングテーマに起用される。その後、高瀬一矢をプロデューサーに迎え、同年[3月19日](../Page/3月19日.md "wikilink")にシングル『[音のない夜空に／木の芽風](https://ja.wikipedia.org/wiki/音のない夜空に/木の芽風 "wikilink")』でメジャーデビューを果たした。
   - [2009年](../Page/2009年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")にて行われたI've設立10周年記念ライブイベント『I'VE in BUDOKAN 2009 〜Departed to the future〜』にゲスト出演。「[Rimless〜フチナシノセカイ〜](https://ja.wikipedia.org/wiki/Rimless〜フチナシノセカイ〜 "wikilink")」と「[木の芽風](https://ja.wikipedia.org/wiki/音のない夜空に/木の芽風 "wikilink")」を披露した。
   - [2009年](../Page/2009年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、自身初のオリジナル・アルバム『[ユアウエア](https://ja.wikipedia.org/wiki/ユアウエア "wikilink")』をリリース。楽曲制作にはIKUと高瀬一矢の他に、[Barbarian On The Grooveの](https://ja.wikipedia.org/wiki/Barbarian_On_The_Groove "wikilink")[bassy](https://ja.wikipedia.org/wiki/Barbarian_On_The_Groove "wikilink")、[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")の[八木沼悟志](https://ja.wikipedia.org/wiki/八木沼悟志 "wikilink")、[大嶋啓之](../Page/大嶋啓之.md "wikilink")といったクリエイターが参加している。
   - [2011年](../Page/2011年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、Barbarian On The Grooveをプロデューサーに迎え、テレビアニメ『[とある魔術の禁書目録II](https://ja.wikipedia.org/wiki/とある魔術の禁書目録_\(アニメ\) "wikilink")』挿入歌などが収録された2ndオリジナル・アルバム『[ROBE](https://ja.wikipedia.org/wiki/ROBE "wikilink")』を発売。
   - [2011年](../Page/2011年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")に発売されたBarbarian On The Grooveのアルバム『Barbarossa』にゲストボーカルとして参加。以降、同ユニットのアルバムに積極的に参加している。
-  - 2011年冬より放映されている[石屋製菓](https://ja.wikipedia.org/wiki/石屋製菓 "wikilink")の「[白い恋人](https://ja.wikipedia.org/wiki/白い恋人 "wikilink")」のCMソング「HEART LAKE篇」にて、「[庭の千草（アイルランド民謡）](https://ja.wikipedia.org/wiki/庭の千草_\(民謡\) "wikilink")」を担当。
+  - 2011年冬より放映されている[石屋製菓](../Page/石屋製菓.md "wikilink")の「[白い恋人](../Page/白い恋人.md "wikilink")」のCMソング「HEART LAKE篇」にて、「[庭の千草（アイルランド民謡）](https://ja.wikipedia.org/wiki/庭の千草_\(民謡\) "wikilink")」を担当。
   - [2014年](../Page/2014年.md "wikilink")よりI'veのボーカリストとして正式参加。
   - [2015年](../Page/2015年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")、[東京ドームシティホール](https://ja.wikipedia.org/wiki/東京ドームシティホール "wikilink")にて行われたI've設立15周年記念ライブイベント『IVE RADICAL ENSEMBLE OF 15th ANNIVERSARY』に出演し、「[Rimless〜フチナシノセカイ〜](https://ja.wikipedia.org/wiki/Rimless〜フチナシノセカイ〜 "wikilink")」と[MELL](https://ja.wikipedia.org/wiki/MELL "wikilink")の楽曲のカバー「[KILL](https://ja.wikipedia.org/wiki/KILL_\(MELLの曲\) "wikilink")」「[Red fraction](../Page/Red_fraction.md "wikilink")」を披露した。
   - 2015年[8月14日](../Page/8月14日.md "wikilink")に発表された楽曲「Share the world」でI'veソロボーカルデビュー。
@@ -127,7 +127,7 @@ CL-1199（通常版）</p></td>
 #### I've関連
 
   - **IVE RADICAL ENSEMBLE of 15th ANNIVERSARY ライブパンフレット**（2015年[3月15日](../Page/3月15日.md "wikilink")）
-      - See You ～小さな永遠～ 2015 Extended mix（作詞：[都築真紀](https://ja.wikipedia.org/wiki/都築真紀 "wikilink")、[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")、[NAMI](https://ja.wikipedia.org/wiki/NAMI "wikilink")／作曲・編曲：高瀬一矢／歌：2015 I've Special Unit）
+      - See You ～小さな永遠～ 2015 Extended mix（作詞：[都築真紀](../Page/都築真紀.md "wikilink")、[高瀬一矢](../Page/高瀬一矢.md "wikilink")、[NAMI](https://ja.wikipedia.org/wiki/NAMI "wikilink")／作曲・編曲：高瀬一矢／歌：2015 I've Special Unit）
 
 <!-- end list -->
 
@@ -136,13 +136,13 @@ CL-1199（通常版）</p></td>
 
 <!-- end list -->
 
-  - **[15th ANNIVERSARY I've GIRL'S COMPILATION 「The Time ～12 Colors～」](https://ja.wikipedia.org/wiki/The_Time_〜12_Colors〜 "wikilink")**（[2016年](../Page/2016年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")）
+  - **[15th ANNIVERSARY I've GIRL'S COMPILATION 「The Time ～12 Colors～」](https://ja.wikipedia.org/wiki/The_Time_〜12_Colors〜 "wikilink")**（[2016年](../Page/2016年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")）
       - grizzle（作詞：IKU／作曲：[中沢伴行](../Page/中沢伴行.md "wikilink")／編曲：中沢伴行、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")）
 
 <!-- end list -->
 
   - **I've×Key Collaboration Album**（2016年[12月29日](../Page/12月29日.md "wikilink")）
-      - Farewell song（作詞：[麻枝准](../Page/麻枝准.md "wikilink")／作曲：[戸越まごめ](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink")／編曲：高瀬一矢）
+      - Farewell song（作詞：[麻枝准](../Page/麻枝准.md "wikilink")／作曲：[戸越まごめ](../Page/戸越まごめ.md "wikilink")／編曲：高瀬一矢）
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@ CL-1199（通常版）</p></td>
 
 <!-- end list -->
 
-  - **I've C-VOX 2000-2014**（[2018年](../Page/2018年.md "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")）
+  - **I've C-VOX 2000-2014**（[2018年](../Page/2018年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")）
       - 光の欠片（作詞：IKU／作曲・編曲：[C.G mix](../Page/C.G_mix.md "wikilink")）
 
 <!-- end list -->
@@ -194,7 +194,7 @@ CL-1199（通常版）</p></td>
   - [2018年](../Page/2018年.md "wikilink")
       - NBCUniversal ANIME×MUSIC FESTIVAL 〜25th ANNIVERSARY〜([2月3日](../Page/2月3日.md "wikilink") さいたまスーパーアリーナ)
   - その他
-      - サッポロファクトリーウィークデーライブ(不定期 [サッポロファクトリー](https://ja.wikipedia.org/wiki/サッポロファクトリー "wikilink"))
+      - サッポロファクトリーウィークデーライブ(不定期 [サッポロファクトリー](../Page/サッポロファクトリー.md "wikilink"))
 
 ## 外部リンク
 

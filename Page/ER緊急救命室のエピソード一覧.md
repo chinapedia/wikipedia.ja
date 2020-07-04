@@ -1,9 +1,9 @@
-> この記事は[ER](https://ja.wikipedia.org/wiki/ER)から翻訳されています。
+> この記事は[ER緊急救命室のエピソード一覧](https://ja.wikipedia.org/wiki/ER緊急救命室のエピソード一覧)から翻訳されています。
 
 
-**ER緊急救命室のエピソード一覧**は、[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である[ER緊急救命室](../Page/ER緊急救命室.md "wikilink")のエピソードを一覧にしたものである。
+**ER緊急救命室のエピソード一覧**は、[NBC](../Page/NBC.md "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である[ER緊急救命室](../Page/ER緊急救命室.md "wikilink")のエピソードを一覧にしたものである。
 
-シーズン1は全**25**話、シーズン2からシーズン12およびシーズン15は全**22**話、シーズン13は全**23**話、シーズン14は全**19**話で構成されている。 ここでは[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")本国（[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")）、[NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")（以下、BS2）、[NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")（以下、NHK総合）で放映された日を初回放送日とした。
+シーズン1は全**25**話、シーズン2からシーズン12およびシーズン15は全**22**話、シーズン13は全**23**話、シーズン14は全**19**話で構成されている。 ここでは[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")本国（[NBC](../Page/NBC.md "wikilink")）、[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（以下、BS2）、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")（以下、NHK総合）で放映された日を初回放送日とした。
 
 ## シーズン1
 
@@ -48,7 +48,7 @@ Pilot: 24 Hours</p></td>
 <td><p>誤診<br />
 Day One</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1994年9月22日</p></td>
 <td><p>1996年4月8日</p></td>
 <td><p>1997年4月19日</p></td>
@@ -72,7 +72,7 @@ Going Home</p></td>
 <td><p>ヒットエンドラン<br />
 Hit and Run</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1994年10月6日</p></td>
 <td><p>1996年4月22日</p></td>
 <td><p>1997年5月3日</p></td>
@@ -144,7 +144,7 @@ ER Confidential</p></td>
 <td><p>つかの間の休息<br />
 Blizzard</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1994年12月8日</p></td>
 <td><p>1996年6月3日</p></td>
 <td><p>1997年6月14日</p></td>
@@ -216,7 +216,7 @@ Feb. 5 '95</p></td>
 <td><p>バレンタインの奇妙な一日<br />
 Make of Two Hearts</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1995年2月9日</p></td>
 <td><p>1996年7月15日</p></td>
 <td><p>1997年8月23日</p></td>
@@ -252,7 +252,7 @@ Sleepless In Chicago</p></td>
 <td><p>生と死と<br />
 Love's Labor Lost</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1995年3月9日</p></td>
 <td><p>1996年8月5日</p></td>
 <td><p>1997年9月13日</p></td>
@@ -324,7 +324,7 @@ Motherhood</p></td>
 <td><p>新しき出発に向けて<br />
 Everything Old Is New Again</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1995年5月18日</p></td>
 <td><p>1996年9月26日</p></td>
 <td><p>1997年10月9日</p></td>
@@ -364,7 +364,7 @@ Everything Old Is New Again</p></td>
 <td><p>おかえりカーター君！<br />
 Welcome Back, Carter!</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1995年9月21日</p></td>
 <td><p>1997年4月7日</p></td>
 <td><p>1998年4月2日</p></td>
@@ -424,7 +424,7 @@ And Baby Makes Two</p></td>
 <td><p>こんな日々<br />
 Days Like This</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1995年11月2日</p></td>
 <td><p>1997年5月12日</p></td>
 <td><p>1998年5月7日</p></td>
@@ -472,7 +472,7 @@ Home</p></td>
 <td><p>奇跡はここで起きる<br />
 A Miracle Happens Here</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1995年12月14日</p></td>
 <td><p>1997年6月16日</p></td>
 <td><p>1998年6月4日</p></td>
@@ -544,7 +544,7 @@ Baby Shower</p></td>
 <td><p>同僚<br />
 The Healers</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>1996年2月22日</p></td>
 <td><p>1997年8月4日</p></td>
 <td><p>1998年8月27日</p></td>
@@ -604,7 +604,7 @@ Fevers Of Unknown Origin</p></td>
 <td><p>折れた翼をいやす者<br />
 Take These Broken Wings</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Anthony_Edwards" title="wikilink">Anthony Edwards</a><br />
-<a href="https://ja.wikipedia.org/wiki/アンソニー・エドワーズ" title="wikilink">アンソニー・エドワーズ</a></p></td>
+<a href="../Page/アンソニー・エドワーズ.md" title="wikilink">アンソニー・エドワーズ</a></p></td>
 <td><p>1996年5月9日</p></td>
 <td><p>1997年9月8日</p></td>
 <td><p>1998年10月15日</p></td>
@@ -752,7 +752,7 @@ Ask Me No Questions, I'll Tell You No Lies</p></td>
 <td><p>やるせない休日<br />
 Homeless for the Holidays</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Davis_Guggenheim" title="wikilink">Davis Guggenheim</a><br />
-<a href="https://ja.wikipedia.org/wiki/デイビス・グッゲンハイム" title="wikilink">デイビス・グッゲンハイム</a></p></td>
+<a href="../Page/デイビス・グッゲンハイム.md" title="wikilink">デイビス・グッゲンハイム</a></p></td>
 <td><p>1996年12月19日</p></td>
 <td><p>1998年6月8日</p></td>
 <td><p>1999年6月20日</p></td>
@@ -1129,7 +1129,7 @@ Shades of Gray</p></td>
 <td><p>過去の後悔と将来の不安<br />
 Of Past Regret and Future Fear</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Anthony_Edwards" title="wikilink">Anthony Edwards</a><br />
-<a href="https://ja.wikipedia.org/wiki/アンソニー・エドワーズ" title="wikilink">アンソニー・エドワーズ</a></p></td>
+<a href="../Page/アンソニー・エドワーズ.md" title="wikilink">アンソニー・エドワーズ</a></p></td>
 <td><p>1998年4月30日</p></td>
 <td><p>1999年9月6日</p></td>
 <td><p>2000年9月8日</p></td>
@@ -1396,7 +1396,7 @@ Rites of Spring</p></td>
 <td><p>停電<br />
 Power</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>1999年5月6日</p></td>
 <td><p>2000年9月4日</p></td>
 <td><p>2001年9月28日</p></td>
@@ -1553,7 +1553,7 @@ How the Finch Stole Christmas</p></td>
 <td><p>家族の問題<br />
 Family Matters</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Anthony_Edwards" title="wikilink">Anthony Edwards</a><br />
-<a href="https://ja.wikipedia.org/wiki/アンソニー・エドワーズ" title="wikilink">アンソニー・エドワーズ</a></p></td>
+<a href="../Page/アンソニー・エドワーズ.md" title="wikilink">アンソニー・エドワーズ</a></p></td>
 <td><p>2000年1月6日</p></td>
 <td><p>2001年6月4日</p></td>
 <td><p>2002年6月28日</p></td>
@@ -1586,7 +1586,7 @@ Abby Road</p></td>
 <td><p>だれよりも君を愛す<br />
 Be Still My Heart</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2000年2月10日</p></td>
 <td><p>2001年7月9日</p></td>
 <td><p>＊放送自粛</p></td>
@@ -1921,7 +1921,7 @@ April Showers</p></td>
 <td><p>出帆<br />
 Sailing Away</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2001年4月26日</p></td>
 <td><p>2002年8月5日</p></td>
 <td><p>2003年8月23日</p></td>
@@ -1932,7 +1932,7 @@ Sailing Away</p></td>
 <td><p>強制収容を逃れて<br />
 Fear of Commitment</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Anthony_Edwards" title="wikilink">Anthony Edwards</a><br />
-<a href="https://ja.wikipedia.org/wiki/アンソニー・エドワーズ" title="wikilink">アンソニー・エドワーズ</a></p></td>
+<a href="../Page/アンソニー・エドワーズ.md" title="wikilink">アンソニー・エドワーズ</a></p></td>
 <td><p>2001年5月3日</p></td>
 <td><p>2002年8月19日</p></td>
 <td><p>2003年8月30日</p></td>
@@ -2056,7 +2056,7 @@ Supplies and Demands</p></td>
 <td><p>もし神の慈悲に背いたら<br />
 If I Should Fall From Grace</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2001年11月8日</p></td>
 <td><p>2003年5月12日</p></td>
 <td><p>2004年11月27日</p></td>
@@ -2301,7 +2301,7 @@ Walk Like A Man</p></td>
 <td><p>悲しい運命<br />
 A Hopeless Wound</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2002年10月31日</p></td>
 <td><p>2004年4月26日</p></td>
 <td><p>2005年11月5日</p></td>
@@ -2345,7 +2345,7 @@ First Snowfall</p></td>
 <td><p>独りぼっち<br />
 Next of Kin</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2002年12月5日</p></td>
 <td><p>2004年5月24日</p></td>
 <td><p>2005年12月3日</p></td>
@@ -2645,7 +2645,7 @@ Touch and Go</p></td>
 <td><p>新生児ICU<br />
 NICU</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2004年1月15日</p></td>
 <td><p>2005年6月13日</p></td>
 <td><p>2007年1月13日</p></td>
@@ -2700,7 +2700,7 @@ Forgive and Forget</p></td>
 <td><p>評価<br />
 The Student</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2004年4月1日</p></td>
 <td><p>2005年7月18日</p></td>
 <td><p>2007年2月17日</p></td>
@@ -2802,7 +2802,7 @@ One for the Road</p></td>
 <td><p>傷ついた者<br />
 Damaged</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2004年10月7日</p></td>
 <td><p>2006年4月10日</p></td>
 <td><p>2007年10月13日</p></td>
@@ -2989,7 +2989,7 @@ Refusal of Care</p></td>
 <td><p>10年前の悪夢<br />
 Ruby Redux</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2005年4月28日</p></td>
 <td><p>2006年8月7日</p></td>
 <td><p>2008年3月1日</p></td>
@@ -3069,7 +3069,7 @@ Cañon City</p></td>
 <td><p>拒まれた新生児<br />
 Nobody's Baby</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2005年9月29日</p></td>
 <td><p>2007年4月9日</p></td>
 <td><p>2009年4月11日</p></td>
@@ -3091,7 +3091,7 @@ Man With No Name</p></td>
 <td><p>悪いのは雨<br />
 Blame It On The Rain</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2005年10月13日</p></td>
 <td><p>2007年4月23日</p></td>
 <td><p>2009年4月25日</p></td>
@@ -3124,7 +3124,7 @@ Dream House</p></td>
 <td><p>誘拐犯<br />
 The Human Shield</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2005年11月10日</p></td>
 <td><p>2007年5月14日</p></td>
 <td><p>2009年5月16日</p></td>
@@ -3190,7 +3190,7 @@ Split Decisions</p></td>
 <td><p>身体と心<br />
 Body and Soul</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2006年2月2日</p></td>
 <td><p>2007年6月25日</p></td>
 <td><p>2009年7月4日</p></td>
@@ -3245,7 +3245,7 @@ Lost In America</p></td>
 <td><p>そぐわない相手<br />
 Strange Bedfellows</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2006年3月30日</p></td>
 <td><p>2007年7月30日</p></td>
 <td><p>2009年8月8日</p></td>
@@ -3424,7 +3424,7 @@ Scoop and Run</p></td>
 <td><p>すべてを話そう<br />
 Tell Me No Secrets...</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2006年11月30日</p></td>
 <td><p>2008年12月1日</p></td>
 <td><p>2010年6月2日</p></td>
@@ -3556,7 +3556,7 @@ I Don't</p></td>
 <td><p>変化の大波<br />
 Sea Change</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2007年5月10日</p></td>
 <td><p>2009年3月16日</p></td>
 <td><p>2010年9月22日</p></td>
@@ -3679,7 +3679,7 @@ Blackout</p></td>
 <td><p>もう戻れない<br />
 Coming Home</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Laura_Innes" title="wikilink">Laura Innes</a><br />
-<a href="https://ja.wikipedia.org/wiki/ローラ・イネス" title="wikilink">ローラ・イネス</a></p></td>
+<a href="../Page/ローラ・イネス.md" title="wikilink">ローラ・イネス</a></p></td>
 <td><p>2007年11月15日</p></td>
 <td><p>2009年11月26日</p></td>
 <td></td>
@@ -3690,7 +3690,7 @@ Coming Home</p></td>
 <td><p>不法滞在<br />
 Skye's the Limit</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2007年11月29日</p></td>
 <td><p>2009年12月3日</p></td>
 <td></td>
@@ -3846,7 +3846,7 @@ Life After Death</p></td>
 <td><p>木曜は厄日<br />
 Another Thursday at County</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2008年10月9日</p></td>
 <td><p>2010年10月14日</p></td>
 <td></td>
@@ -3912,7 +3912,7 @@ Heal Thyself</p></td>
 <td><p>心に潜む闇<br />
 Age of Innocence</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Paul_McCrane" title="wikilink">Paul McCrane</a><br />
-<a href="https://ja.wikipedia.org/wiki/ポール・マクレーン" title="wikilink">ポール・マクレーン</a></p></td>
+<a href="../Page/ポール・マクレーン.md" title="wikilink">ポール・マクレーン</a></p></td>
 <td><p>2008年11月20日</p></td>
 <td><p>2010年11月25日</p></td>
 <td></td>
@@ -3978,7 +3978,7 @@ Love Is A Battlefield</p></td>
 <td><p>長く不思議な旅<br />
 A Long, Strange Trip</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mimi_Leder" title="wikilink">Mimi Leder</a><br />
-<a href="https://ja.wikipedia.org/wiki/ミミ・レダー" title="wikilink">ミミ・レダー</a></p></td>
+<a href="../Page/ミミ・レダー.md" title="wikilink">ミミ・レダー</a></p></td>
 <td><p>2009年2月5日</p></td>
 <td><p>2011年1月13日</p></td>
 <td></td>
@@ -3989,7 +3989,7 @@ A Long, Strange Trip</p></td>
 <td><p>愛と憎しみと<br />
 The Family Man</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Eriq_La_Salle" title="wikilink">Eriq La Salle</a><br />
-<a href="https://ja.wikipedia.org/wiki/エリク・ラ・サル" title="wikilink">エリク・ラ・サル</a></p></td>
+<a href="../Page/エリク・ラ・サル.md" title="wikilink">エリク・ラ・サル</a></p></td>
 <td><p>2009年2月12日</p></td>
 <td><p>2011年1月20日</p></td>
 <td></td>

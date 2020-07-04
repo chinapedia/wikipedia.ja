@@ -1,7 +1,7 @@
 > この記事は[ススメ! GOLD盤](https://ja.wikipedia.org/wiki/ススメ!_GOLD盤)から翻訳されています。
 
 
-「**ススメ\! GOLD盤**」（ススメ\! ゴールドばん）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の36枚目となるはずだった[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売される予定だった。
+「**ススメ\! GOLD盤**」（ススメ\! ゴールドばん）は、[SMAP](../Page/SMAP.md "wikilink")の36枚目となるはずだった[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売される予定だった。
 
 ## 解説
 

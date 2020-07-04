@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レイトンFC](https://ja.wikipedia.org/wiki/レイトンFC)から翻訳されています。
 
 
 **レイトン・フットボール・クラブ**（Leyton Football Club）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[ウォルサム・フォレスト特別区内](https://ja.wikipedia.org/wiki/ウォルサム・フォレスト・ロンドン特別区 "wikilink")、[レイトン](https://ja.wikipedia.org/wiki/レイトン "wikilink")を本拠地とするサッカークラブチームである。2008-2009シーズンは[イスミアンリーグ・ディヴィジョン1・ノース](https://ja.wikipedia.org/wiki/イスミアンリーグ・ディヴィジョン1・ノース "wikilink")（8部相当）に所属。

@@ -313,7 +313,7 @@ SEALsに入隊するには米軍の中でもっとも過酷とされる基礎水
   - [レバノン陸軍海兵コマンド旅団](https://ja.wikipedia.org/wiki/:en:Lebanese_Navy_SEALs_Regiment "wikilink") - [レバノン](https://ja.wikipedia.org/wiki/レバノン "wikilink")の[海兵隊](../Page/海兵隊.md "wikilink")（便宜的に陸軍に所属）であるが、SEALsから一定の訓練を受けており、編成など部隊自体がSEALsの影響を受けている。
   - [特殊舟艇部隊](../Page/特殊舟艇部隊.md "wikilink")(SBS) - [イギリス海兵隊](../Page/イギリス海兵隊.md "wikilink")の特殊部隊。
   - [特別警備隊](../Page/特別警備隊_\(海上自衛隊\).md "wikilink")(SBU) - [海上自衛隊](../Page/海上自衛隊.md "wikilink")特殊部隊。定期的にSEALsと共同訓練を行っている。
-  - [特殊警備隊](../Page/特殊警備隊.md "wikilink")(SST) - [海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")特殊部隊。[1992年](../Page/1992年.md "wikilink")に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")から[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")へ[プルトニウム](https://ja.wikipedia.org/wiki/プルトニウム "wikilink")を輸送した運搬船あかつき丸にSSTの前身部隊が乗り組み、警戒警備に従事した。その際に、SEALsから[対テロ作戦](../Page/対テロ作戦.md "wikilink")等の教育を受けている。
+  - [特殊警備隊](../Page/特殊警備隊.md "wikilink")(SST) - [海上保安庁](../Page/海上保安庁.md "wikilink")特殊部隊。[1992年](../Page/1992年.md "wikilink")に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")から[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")へ[プルトニウム](https://ja.wikipedia.org/wiki/プルトニウム "wikilink")を輸送した運搬船あかつき丸にSSTの前身部隊が乗り組み、警戒警備に従事した。その際に、SEALsから[対テロ作戦](../Page/対テロ作戦.md "wikilink")等の教育を受けている。
   - [海軍コマンド](https://ja.wikipedia.org/wiki/海軍コマンド "wikilink") - [フランス海軍](../Page/フランス海軍.md "wikilink")特殊部隊。
   - [海軍スペツナズ](https://ja.wikipedia.org/wiki/海軍スペツナズ "wikilink") - [ロシア海軍](../Page/ロシア海軍.md "wikilink")に所属するスペツナズはSEALs同様に水中・水上での作戦能力を持つものと考えられる。
 

@@ -1,7 +1,7 @@
-> この記事は[MUSIC CUBE](https://ja.wikipedia.org/wiki/MUSIC_CUBE)から翻訳されています。
+> この記事は[蕭秀華のMUSIC CUBE](https://ja.wikipedia.org/wiki/蕭秀華のMUSIC_CUBE)から翻訳されています。
 
 
-**蕭秀華のMUSIC CUBE**（しょう しゅうかの ミュージックキューブ）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")まで、[ABCラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")（朝日放送）で[土曜日](../Page/土曜日.md "wikilink")の夕方(JST)に生放送されていた音楽番組。
+**蕭秀華のMUSIC CUBE**（しょう しゅうかの ミュージックキューブ）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")まで、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（朝日放送）で[土曜日](../Page/土曜日.md "wikilink")の夕方(JST)に生放送されていた音楽番組。
 
 [パーソナリティの](../Page/ラジオパーソナリティ.md "wikilink")[蕭秀華](../Page/蕭秀華.md "wikilink")が、リスナーからのリクエスト音楽を中心に、週末情報などを交えて届けていく。リクエスト音楽は、[1970年代](../Page/1970年代.md "wikilink")の流行歌から最新のヒット曲まで、また洋楽から邦楽まで、ジャンルを問わないとしている。
 
@@ -31,7 +31,7 @@
 
 ## 番組の歴史
 
-ABCラジオでは、年度下半期（ナイターオフ）は、土曜日の夕方に『[大西ユカリのハッスル歌謡曲](https://ja.wikipedia.org/wiki/大西ユカリのハッスル歌謡曲 "wikilink")』を放送している。しかし2007年度シーズンオフは[大西ユカリ](https://ja.wikipedia.org/wiki/大西ユカリ "wikilink")が[ミュージカル](../Page/ミュージカル.md "wikilink")に出演することになり、その関係で番組に出演できなくなった。そのため2007年度の放送は同年12月で一旦打ち切りとなった。
+ABCラジオでは、年度下半期（ナイターオフ）は、土曜日の夕方に『[大西ユカリのハッスル歌謡曲](../Page/大西ユカリのハッスル歌謡曲.md "wikilink")』を放送している。しかし2007年度シーズンオフは[大西ユカリ](../Page/大西ユカリ.md "wikilink")が[ミュージカル](../Page/ミュージカル.md "wikilink")に出演することになり、その関係で番組に出演できなくなった。そのため2007年度の放送は同年12月で一旦打ち切りとなった。
 
 そこで同番組打ち切りに伴う残り3ヶ月（1-3月）のつなぎとして[蕭秀華](../Page/蕭秀華.md "wikilink")が担当することになり、当番組が始まった。当初は3ヶ月の予定だったが、放送は2008年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以後も継続されることになった。
 

@@ -19,15 +19,19 @@
 
 全曲 作曲：[吉井和哉](../Page/吉井和哉.md "wikilink") / 編曲：THE YELLOW MONKEY
 
-1.  **BURN**
+1.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **BURN**
       -
-        （作詞：吉井和哉）
-        [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[職員室](../Page/職員室.md "wikilink")」主題歌。[2009年](../Page/2009年.md "wikilink")7月から[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")『CR忍術決戦 月影』に使用された。[2013年](../Page/2013年.md "wikilink")に行われたファン投票で10位を獲得し、『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』に収録された。
-2.  **LOVE LOVE SHOW (English Version)**
+
+          -
+            （作詞：吉井和哉）
+            [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[職員室](../Page/職員室.md "wikilink")」主題歌。[2009年](../Page/2009年.md "wikilink")7月から[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")『CR忍術決戦 月影』に使用された。[2013年](../Page/2013年.md "wikilink")に行われたファン投票で10位を獲得し、『[イエモン-FAN'S BEST SELECTION-](https://ja.wikipedia.org/wiki/イエモン-FAN'S_BEST_SELECTION- "wikilink")』に収録された。
+2.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **LOVE LOVE SHOW (English Version)**
       -
-        （作詞：吉井和哉 & [鮎貝健](../Page/鮎貝健.md "wikilink")）
-        12thシングル『[LOVE LOVE SHOW](../Page/LOVE_LOVE_SHOW.md "wikilink")』の英語バージョン。元の歌詞を英語にしたものではなく、一部日本語で歌っている箇所もある。歌詞に「[U2](../Page/U2.md "wikilink")」が登場する。また、このシングルにのみ日本語訳が載っている。
-3.  **BURN ([Instrumental](../Page/器楽曲.md "wikilink"))**
+
+          -
+            （作詞：吉井和哉 & [鮎貝健](../Page/鮎貝健.md "wikilink")）
+            12thシングル『[LOVE LOVE SHOW](../Page/LOVE_LOVE_SHOW.md "wikilink")』の英語バージョン。元の歌詞を英語にしたものではなく、一部日本語で歌っている箇所もある。歌詞に「[U2](../Page/U2.md "wikilink")」が登場する。また、このシングルにのみ日本語訳が載っている。
+3.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **BURN ([Instrumental](../Page/器楽曲.md "wikilink"))**
 
 ## ミュージック・ビデオ
 
@@ -48,6 +52,7 @@
 
 ＃2. **LOVE LOVE SHOW (English Version)**
 
+  - 『[SICKS](../Page/SICKS.md "wikilink")』（1997年8月8日）※英国盤ボーナストラック
   - 『MOTHER OF ALL THE BEST』（2004年12月8日）※初回版DISC3
 
 ## カバー
@@ -62,7 +67,7 @@
 
 ## 外部リンク
 
-  - [BURN - THE YELLOW MONKEY | ザ・イエロー・モンキー オフィシャルサイト](http://theyellowmonkeysuper.jp/discography/detail/18/)
+  - [BURN | THE YELLOW MONKEY | ザ・イエロー・モンキー オフィシャルサイト](http://theyellowmonkeysuper.jp/discography/detail/18/)
 
 [Category:THE_YELLOW_MONKEYの楽曲](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEYの楽曲 "wikilink") [Category:吉井和哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉井和哉が制作した楽曲 "wikilink") [Category:ポピュラーソング](https://ja.wikipedia.org/wiki/Category:ポピュラーソング "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:TBS金曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ主題歌 "wikilink") [Category:高橋栄樹の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:高橋栄樹の監督したミュージック・ビデオ "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 

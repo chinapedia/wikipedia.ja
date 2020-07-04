@@ -21,7 +21,7 @@
   - ファイト・マネー *The Great White Hype* (1996)
   - ローズウッド *Rosewood* (1997)
   - バップス *B\*A\*P\*S* (1997)
-  - [アミスタッド](https://ja.wikipedia.org/wiki/アミスタッド "wikilink") *Amistad* (1997)
+  - [アミスタッド](../Page/アミスタッド.md "wikilink") *Amistad* (1997)
   - [サマー・オブ・サム](../Page/サマー・オブ・サム.md "wikilink") *Summer of Sam* (1999)
   - [シャフト](https://ja.wikipedia.org/wiki/シャフト_\(2000年の映画\) "wikilink") *Shaft* (2000)
   - [ドクター・ドリトル2](../Page/ドクター・ドリトル2.md "wikilink") *Dr. Dolittle 2* (2001)

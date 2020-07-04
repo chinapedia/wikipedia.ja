@@ -238,6 +238,23 @@
 <a href="https://ja.wikipedia.org/wiki/Alba_Berlin" title="wikilink">Alba Berlin</a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019–20<br />
+<em><a href="https://ja.wikipedia.org/wiki/2019–20_EuroCup_Basketball" title="wikilink">Details</a></em></p></td>
+<td><center>
+<p><em>新型コロナ大流行で打ち切り</em></p>
+</center></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

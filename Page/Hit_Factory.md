@@ -127,7 +127,7 @@
 19.
 20.
 21.
-22. 立東社刊『KB special』1992年12月号4P-7Pより。
+22. 立東社刊『KB special』1992年12月号「THIS IS THE HIT FACTORY」4P-7Pより。
 23.
 24.
 25.

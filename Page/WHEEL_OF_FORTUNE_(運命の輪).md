@@ -1,20 +1,20 @@
-> この記事は[WHEEL OF FORTUNE \(\)](https://ja.wikipedia.org/wiki/WHEEL_OF_FORTUNE_\(\))から翻訳されています。
+> この記事は[WHEEL OF FORTUNE \(運命の輪\)](https://ja.wikipedia.org/wiki/WHEEL_OF_FORTUNE_\(運命の輪\))から翻訳されています。
 
 
-『**WHEEL OF FORTUNE（運命の輪）**』（ウェール オフ フォーチュン うんめいのわ）は[島みやえい子](https://ja.wikipedia.org/wiki/島みやえい子 "wikilink")メジャー3作目のシングル。
+『**WHEEL OF FORTUNE（運命の輪）**』（ウェール オフ フォーチュン うんめいのわ）は[島みやえい子](../Page/島みやえい子.md "wikilink")メジャー3作目のシングル。
 
-前作の「[奈落の花](../Page/奈落の花.md "wikilink")」より8ヶ月ぶりのシングル。今作は[島みやえい子](https://ja.wikipedia.org/wiki/島みやえい子 "wikilink")のシングルとしては初めて通常盤と初回限定盤の2種類をリリース。[島みやえい子](https://ja.wikipedia.org/wiki/島みやえい子 "wikilink")初の映画タイアップ曲。品番は通常盤がFCCJ-0001、初回限定盤がFCCJ-0002。初回限定盤にはプロモーションビデオを収録したDVD付き。プロモーションビデオはタイアップである「[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に#ひぐらしのなく頃に "wikilink")」の「綿流しの儀式」を意識した内容となっている。
+前作の「[奈落の花](../Page/奈落の花.md "wikilink")」より8ヶ月ぶりのシングル。今作は[島みやえい子](../Page/島みやえい子.md "wikilink")のシングルとしては初めて通常盤と初回限定盤の2種類をリリース。[島みやえい子](../Page/島みやえい子.md "wikilink")初の映画タイアップ曲。品番は通常盤がFCCJ-0001、初回限定盤がFCCJ-0002。初回限定盤にはプロモーションビデオを収録したDVD付き。プロモーションビデオはタイアップである「[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に#ひぐらしのなく頃に "wikilink")」の「綿流しの儀式」を意識した内容となっている。
 
 ## 収録曲
 
 1.  **WHEEL OF FORTUNE（運命の輪）**
       -
-        作詞：島みやえい子／作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
-          - 映画『[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に#ひぐらしのなく頃に "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        作詞：島みやえい子／作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
+          - 映画『[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に#ひぐらしのなく頃に "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **ディオラマ**
       -
         作詞：島みやえい子／作曲・編曲：[中沢伴行](../Page/中沢伴行.md "wikilink")
-          - 映画『[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に#ひぐらしのなく頃に "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+          - 映画『[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に#ひぐらしのなく頃に "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")
 3.  WHEEL OF FORTUNE（運命の輪）（Instrumental）
 4.  ディオラマ（Instrumental）
 

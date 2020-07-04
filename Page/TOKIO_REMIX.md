@@ -3,7 +3,7 @@
 
 『**TOKIO REMIX**』（トキオ リミックス）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売された[TOKIO](../Page/TOKIO.md "wikilink")の[リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")。
 
-[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")制作・発売、[ソニー・ミュージックエンタテインメントより販売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（SRCL-3186）。
+[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")制作・発売、[ソニー・ミュージックエンタテインメントより販売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")（SRCL-3186）。
 
 ## 概要
 
@@ -13,19 +13,19 @@
 
 ## 収録曲
 
-1.  **[時代を（TOKIO）よろしく\!](https://ja.wikipedia.org/wiki/LOVE_YOU_ONLY "wikilink")** \[JUNGLE MIX\] (5:19)
+1.  **[時代を（TOKIO）よろしく\!](../Page/LOVE_YOU_ONLY.md "wikilink")** \[JUNGLE MIX\] (5:19)
       -
-        作詞：[山田ヒロシ](https://ja.wikipedia.org/wiki/山田ひろし "wikilink")、[城島茂](../Page/城島茂.md "wikilink")、作曲・編曲：[西脇辰弥](https://ja.wikipedia.org/wiki/西脇辰弥 "wikilink")、REMIX：[DUB MASTER X](https://ja.wikipedia.org/wiki/DUB_MASTER_X "wikilink")
+        作詞：[山田ヒロシ](../Page/山田ひろし.md "wikilink")、[城島茂](../Page/城島茂.md "wikilink")、作曲・編曲：[西脇辰弥](../Page/西脇辰弥.md "wikilink")、REMIX：[DUB MASTER X](https://ja.wikipedia.org/wiki/DUB_MASTER_X "wikilink")
     <!-- end list -->
       - 1stシングル「LOVE YOU ONLY」カップリング
-2.  **[LOVE YOU ONLY](https://ja.wikipedia.org/wiki/LOVE_YOU_ONLY "wikilink")** \[HAPPY TECHNO MIX\] (6:01)
+2.  **[LOVE YOU ONLY](../Page/LOVE_YOU_ONLY.md "wikilink")** \[HAPPY TECHNO MIX\] (6:01)
       -
-        作詞：[工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink")、作曲：[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")、編曲：西脇辰弥、REMIX：DUB MASTER X
+        作詞：[工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink")、作曲：[都志見隆](../Page/都志見隆.md "wikilink")、編曲：西脇辰弥、REMIX：DUB MASTER X
     <!-- end list -->
       - 1stシングル
 3.  **[明日の君を守りたい 〜YAMATO2520〜](../Page/明日の君を守りたい_〜YAMATO2520〜.md "wikilink")** \[STRAIGHT MIX\] (4:28)
       -
-        作詞：工藤哲雄、作曲：都志見隆、編曲：[白井良明](https://ja.wikipedia.org/wiki/白井良明_\(音楽家\) "wikilink")、REMIX：[SLY & ROBBIE](https://ja.wikipedia.org/wiki/SLY_&_ROBBIE "wikilink")
+        作詞：工藤哲雄、作曲：都志見隆、編曲：[白井良明](../Page/白井良明_\(音楽家\).md "wikilink")、REMIX：[SLY & ROBBIE](https://ja.wikipedia.org/wiki/SLY_&_ROBBIE "wikilink")
     <!-- end list -->
       - 2ndシングル
       - 1stアルバム「TOKIO」収録曲
@@ -34,7 +34,7 @@
         REMIX：SLY & ROBBIE
 5.  **[恋のカリキュラマシーン](../Page/TOKIO_\(TOKIOのアルバム\).md "wikilink")** \[AL MACK CLUB MIX\] (5:39)
       -
-        作詞・作曲：[ローリー寺西](https://ja.wikipedia.org/wiki/ROLLY "wikilink")、編曲：白井良明、REMIX：[AL MACK](https://ja.wikipedia.org/wiki/AL_MACK "wikilink")
+        作詞・作曲：[ローリー寺西](../Page/ROLLY.md "wikilink")、編曲：白井良明、REMIX：[AL MACK](https://ja.wikipedia.org/wiki/AL_MACK "wikilink")
     <!-- end list -->
       - 1stアルバム収録曲
 6.  **[シェリー・アムール](../Page/TOKIO_\(TOKIOのアルバム\).md "wikilink")** \[BLAZE RADIO MIX\] (4:03)

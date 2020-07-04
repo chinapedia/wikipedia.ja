@@ -1,7 +1,7 @@
 > この記事は[ITV1](https://ja.wikipedia.org/wiki/ITV1)から翻訳されています。
 
 
-**ITV1**は[ITVの主要チャンネル](https://ja.wikipedia.org/wiki/ITV_\(イギリス\) "wikilink")。
+**ITV1**は[ITVの主要チャンネル](../Page/ITV_\(イギリス\).md "wikilink")。
 
 ## 概要
 

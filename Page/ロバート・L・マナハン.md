@@ -1,13 +1,13 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ロバート・L・マナハン](https://ja.wikipedia.org/wiki/ロバート・L・マナハン)から翻訳されています。
 
 
-**ロバート・L・マナハン**（Robert L. Manahan、[1956年](../Page/1956年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")\[1\] - [2000年](../Page/2000年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")\[2\]）は、アメリカ合衆国の男性[声優](../Page/声優.md "wikilink")、[音響技師](https://ja.wikipedia.org/wiki/音響技師 "wikilink")。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[パロアルト出身](https://ja.wikipedia.org/wiki/パロアルト_\(カリフォルニア州\) "wikilink")。別名は**ボブ・マナハン**（Bob Manahan）。
+**ロバート・L・マナハン**（Robert L. Manahan、[1956年](../Page/1956年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")\[1\] - [2000年](../Page/2000年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")\[2\]）は、アメリカ合衆国の男性[声優](../Page/声優.md "wikilink")、[音響技師](https://ja.wikipedia.org/wiki/音響技師 "wikilink")。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[パロアルト出身](../Page/パロアルト_\(カリフォルニア州\).md "wikilink")。別名は**ボブ・マナハン**（Bob Manahan）。
 
 ## 　概要
 
 代表作は『[パワーレンジャー](../Page/パワーレンジャー.md "wikilink")シリーズ』（ゾードンの声）。これは本来のゾードン役、デビッド・フィールディングが個人的な事情で降板したため、リレコミキサーであったマナナンが急遽代役として務めたもの。
 
-父親はソニーの役員で、自身も[ソニー・ピクチャーズ・エンタテインメントに勤めていた](https://ja.wikipedia.org/wiki/ソニー・ピクチャーズ・エンタテインメント_\(米国\) "wikilink")。趣味はサッカーで、小学生チームのコーチなどを務めていたこともあった。
+父親はソニーの役員で、自身も[ソニー・ピクチャーズ・エンタテインメントに勤めていた](../Page/ソニー・ピクチャーズ・エンタテインメント_\(米国\).md "wikilink")。趣味はサッカーで、小学生チームのコーチなどを務めていたこともあった。
 
 2000年6月30日にカリフォルニア州で心臓の動脈瘤のため死去した\[3\]。
 
@@ -28,7 +28,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マイティ・モーフィン・パワーレンジャー" title="wikilink">パワーレンジャー</a><br />
+<td><p><a href="../Page/マイティ・モーフィン・パワーレンジャー.md" title="wikilink">パワーレンジャー</a><br />
 <em>Mighty Morphin Power Rangers</em></p></td>
 <td><p>1994 - 1996</p></td>
 <td><p>ゾードンの声</p></td>
@@ -36,14 +36,14 @@
 ボブ・マナハン名義</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/マイティ・モーフィン・パワーレンジャー" title="wikilink">マイティ・モーフィン・エイリアンレンジャー</a><br />
+<td><p><a href="../Page/マイティ・モーフィン・パワーレンジャー.md" title="wikilink">マイティ・モーフィン・エイリアンレンジャー</a><br />
 '' Mighty Morphin' Alien Rangers''</p></td>
 <td><p>1996</p></td>
 <td><p>ボブ・マナハン名義</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/パワーレンジャー・ジオ" title="wikilink">パワーレンジャー・ジオ</a><br />
+<td><p><a href="../Page/パワーレンジャー・ジオ.md" title="wikilink">パワーレンジャー・ジオ</a><br />
 <em>Power Rangers Zeo</em></p></td>
 <td></td>
 <td></td>
@@ -64,7 +64,7 @@
 第1 - 3・19・44話ゲスト</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/パワーレンジャー・イン・スペース" title="wikilink">パワーレンジャー・イン・スペース</a><br />
+<td><p><a href="../Page/パワーレンジャー・イン・スペース.md" title="wikilink">パワーレンジャー・イン・スペース</a><br />
 <em>Power Rangers: in Space</em></p></td>
 <td><p>1998</p></td>
 <td><p>偽ゾードンの声</p></td>
@@ -77,7 +77,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/パワーレンジャー・ダイノサンダー" title="wikilink">パワーレンジャー・ダイノサンダー</a><br />
+<td><p><a href="../Page/パワーレンジャー・ダイノサンダー.md" title="wikilink">パワーレンジャー・ダイノサンダー</a><br />
 <em>Power Rangers: Dino Thunder</em></p></td>
 <td><p>2004</p></td>
 <td><p>ゾードンの声</p></td>
@@ -114,7 +114,7 @@
 <td><p>ボブ・マナハン名義</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/パワーレンジャー・ターボ・映画版・誕生!ターボパワー" title="wikilink">パワーレンジャー・ターボ・映画版・誕生!ターボパワー</a><br />
+<td><p><a href="../Page/パワーレンジャー・ターボ・映画版・誕生!ターボパワー.md" title="wikilink">パワーレンジャー・ターボ・映画版・誕生!ターボパワー</a><br />
 <em>Turbo: A Power Rangers Movie</em></p></td>
 <td><p>1997</p></td>
 <td><p>ゾードンの声<br />
@@ -186,7 +186,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マイティ・モーフィン・パワーレンジャー" title="wikilink">パワーレンジャー</a><br />
+<td><p><a href="../Page/マイティ・モーフィン・パワーレンジャー.md" title="wikilink">パワーレンジャー</a><br />
 <em>Mighty Morphin Power Rangers</em></p></td>
 <td><p>1993 - 1995</p></td>
 <td><p>サウンドリレコミキサー</p></td>
@@ -324,7 +324,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ディルバート" title="wikilink">ディルバート</a><br />
+<td><p><a href="../Page/ディルバート.md" title="wikilink">ディルバート</a><br />
 <em>Dilbert</em></p></td>
 <td><p>2000</p></td>
 <td></td>

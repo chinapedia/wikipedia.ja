@@ -1,14 +1,14 @@
-> この記事は[VANILLA \(\)](https://ja.wikipedia.org/wiki/VANILLA_\(\))から翻訳されています。
+> この記事は[VANILLA \(アルバム\)](https://ja.wikipedia.org/wiki/VANILLA_\(アルバム\))から翻訳されています。
 
 
-『**VANILLA**』（バニラ）は、[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に発売された[河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink")の3作目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である（ミニアルバム・コンセプトアルバム・ベストアルバムなどを入れると7作目である）。
+『**VANILLA**』（バニラ）は、[2004年](../Page/2004年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に発売された[河村隆一](../Page/河村隆一.md "wikilink")の3作目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である（ミニアルバム・コンセプトアルバム・ベストアルバムなどを入れると7作目である）。
 
 ## 概要
 
   - 河村隆一のコロムビアへの移籍第1弾アルバム。
   - 初回限定版にはボーナストラックとして「おやすみ」が収録されている。
-  - 後に[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")と結成した[Tourbillonのメンバーである](https://ja.wikipedia.org/wiki/Tourbillon_\(バンド\) "wikilink")[葉山拓亮](https://ja.wikipedia.org/wiki/葉山拓亮 "wikilink")が収録楽曲の多くにかかわっている。
-  - アルバム名の由来は「まだ食い足りない...もうちょっと食いたい」という創作意欲の不満足感を表したものになっている。また雑誌インタビューで「この意欲を他のところで表現するかもしれない」と語っているように、翌年から[Tourbillonとして活動を始めている](https://ja.wikipedia.org/wiki/Tourbillon_\(バンド\) "wikilink")。
+  - 後に[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[INORAN](../Page/INORAN.md "wikilink")と結成した[Tourbillonのメンバーである](../Page/Tourbillon_\(バンド\).md "wikilink")[葉山拓亮](../Page/葉山拓亮.md "wikilink")が収録楽曲の多くにかかわっている。
+  - アルバム名の由来は「まだ食い足りない...もうちょっと食いたい」という創作意欲の不満足感を表したものになっている。また雑誌インタビューで「この意欲を他のところで表現するかもしれない」と語っているように、翌年から[Tourbillonとして活動を始めている](../Page/Tourbillon_\(バンド\).md "wikilink")。
   - 当時の雑誌インタビューなどで本人が「もう34歳なんだし、そろそろ社会的なことも歌えないと、『なに？河村隆一ってまだ愛だの恋だの歌ってんの？』と言われそう。」と語っている。
   - 関連して、「覚醒」をはじめとして社会的メッセージ性のあるものが多い。特に「覚醒」は当時の首相「[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")政権」へのアンチテーゼのようなもの（「CAST」のインタビューで「小泉さんへのカリスマ性をみんな期待してて、でもその化けの皮が剥がれてきてて、日本は敗戦国でアメリカ憲法があって、アメリカが国王でそのお膝下で食わせてもらっているってことをはっきりしてくれってこと」と語っている）をテーマに据えている。
   - 先行シングル「[SPOON/Missing you](https://ja.wikipedia.org/wiki/SPOON/Missing_you "wikilink")」と同様、バンドサウンドを前面に押し出している。

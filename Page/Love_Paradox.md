@@ -1,7 +1,7 @@
 > この記事は[Love Paradox](https://ja.wikipedia.org/wiki/Love_Paradox)から翻訳されています。
 
 
-「**Love Paradox**」（ラヴ・パラドックス）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")にリリースされた[リア・ディゾン](https://ja.wikipedia.org/wiki/リア・ディゾン "wikilink")の4枚目のシングル。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
+「**Love Paradox**」（ラヴ・パラドックス）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")にリリースされた[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")の4枚目のシングル。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
 
 ## 解説
 

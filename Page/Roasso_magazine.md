@@ -1,7 +1,7 @@
 > この記事は[Roasso magazine](https://ja.wikipedia.org/wiki/Roasso_magazine)から翻訳されています。
 
 
-**roasso magazine**（ロアッソ・マガジン）は、[JNN系列局のRKK](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")で、毎週[金曜](../Page/金曜日.md "wikilink")[深夜](https://ja.wikipedia.org/wiki/深夜 "wikilink")に放送されている、[ロアッソ熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")（[Jリーグ所属](../Page/日本プロサッカーリーグ.md "wikilink")）の[応援番組](https://ja.wikipedia.org/wiki/応援番組 "wikilink")である。[2014年](../Page/2014年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")までは単独番組であったが、[4月18日](../Page/4月18日.md "wikilink")以降は[ガルキン](https://ja.wikipedia.org/wiki/ガルキン "wikilink")に内包され、一コーナーとして存続している\[1\]。
+**roasso magazine**（ロアッソ・マガジン）は、[JNN系列局のRKK](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")で、毎週[金曜](../Page/金曜日.md "wikilink")[深夜](../Page/深夜.md "wikilink")に放送されている、[ロアッソ熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")（[Jリーグ所属](../Page/日本プロサッカーリーグ.md "wikilink")）の[応援番組](https://ja.wikipedia.org/wiki/応援番組 "wikilink")である。[2014年](../Page/2014年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")までは単独番組であったが、[4月18日](../Page/4月18日.md "wikilink")以降は[ガルキン](https://ja.wikipedia.org/wiki/ガルキン "wikilink")に内包され、一コーナーとして存続している\[1\]。
 
 ## 番組概要
 
@@ -9,7 +9,7 @@
 
 ## 出演者
 
-  - Masayan（[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")、ロアッソ熊本[持株](https://ja.wikipedia.org/wiki/持株 "wikilink")会理事）
+  - Masayan（[ローカルタレント](../Page/ローカルタレント.md "wikilink")、ロアッソ熊本[持株](https://ja.wikipedia.org/wiki/持株 "wikilink")会理事）
   - [加納麻衣](https://ja.wikipedia.org/wiki/加納麻衣 "wikilink")（ローカルタレント、元RKKラジオミミーキャスター）
 
 <!-- end list -->

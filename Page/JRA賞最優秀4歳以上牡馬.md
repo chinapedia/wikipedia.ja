@@ -650,7 +650,7 @@
 宝塚記念、ジャパンカップ</p></td>
 <td><p>ノーザンファーム</p></td>
 <td><p><a href="../Page/松田博資.md" title="wikilink">松田博資</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダーレー・ジャパン" title="wikilink">ダーレー・ジャパン</a></p></td>
+<td><p><a href="../Page/ダーレー・ジャパン.md" title="wikilink">ダーレー・ジャパン</a></p></td>
 <td><p>249/289</p></td>
 </tr>
 <tr class="even">

@@ -62,4 +62,4 @@
 
   - 全1巻 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月20日](../Page/5月20日.md "wikilink")発売 ISBN 978-4-09-451066-9
 
-[Category:GS美神_極楽大作戦\!\!](https://ja.wikipedia.org/wiki/Category:GS美神_極楽大作戦!! "wikilink") [Category:スーパークエスト文庫](https://ja.wikipedia.org/wiki/Category:スーパークエスト文庫 "wikilink") [Category:ガガガ文庫](https://ja.wikipedia.org/wiki/Category:ガガガ文庫 "wikilink") [Category:日本のライトノベル](https://ja.wikipedia.org/wiki/Category:日本のライトノベル "wikilink") [Category:漫画のノベライズ](https://ja.wikipedia.org/wiki/Category:漫画のノベライズ "wikilink") [Category:1993年の小説](https://ja.wikipedia.org/wiki/Category:1993年の小説 "wikilink")
+[Category:GS美神_極楽大作戦\!\!](https://ja.wikipedia.org/wiki/Category:GS美神_極楽大作戦!! "wikilink") [Category:スーパークエスト文庫](https://ja.wikipedia.org/wiki/Category:スーパークエスト文庫 "wikilink") [Category:ガガガ文庫](https://ja.wikipedia.org/wiki/Category:ガガガ文庫 "wikilink") [Category:漫画のノベライズ](https://ja.wikipedia.org/wiki/Category:漫画のノベライズ "wikilink") [Category:1993年の小説](https://ja.wikipedia.org/wiki/Category:1993年の小説 "wikilink") [Category:日本のファンタジー小説](https://ja.wikipedia.org/wiki/Category:日本のファンタジー小説 "wikilink")

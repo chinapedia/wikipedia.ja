@@ -5,15 +5,15 @@
 
 ## 概要
 
-タイトル曲は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")から[5月2日](../Page/5月2日.md "wikilink")まで[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系で放送されていたドラマ](../Page/TBSテレビ.md "wikilink")『[みこん六姉妹](https://ja.wikipedia.org/wiki/みこん六姉妹 "wikilink")2』の主題歌として使われた。
+タイトル曲は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")から[5月2日](../Page/5月2日.md "wikilink")まで[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[TBS系で放送されていたドラマ](../Page/TBSテレビ.md "wikilink")『[みこん六姉妹](../Page/みこん六姉妹.md "wikilink")2』の主題歌として使われた。
 
-カップリング曲は2曲収録。全シングルに共通して収録されるのは[大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")のイメージソング。
+カップリング曲は2曲収録。全シングルに共通して収録されるのは[大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")のイメージソング。
 
 シングル自体が3つのバージョンが発売され、4曲目はそのバージョンによって違う。
 
-なお、「Lifetime Love」の[PVは全編アニメーションで制作されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。 (2010年3月10日発売の『[新世界 -Neo Universe-](https://ja.wikipedia.org/wiki/新世界_-Neo_Universe- "wikilink")』初回限定版DVD付の付属DVDに収録された)
+なお、「Lifetime Love」の[PVは全編アニメーションで制作されている](../Page/ミュージック・ビデオ.md "wikilink")。 (2010年3月10日発売の『[新世界 -Neo Universe-](https://ja.wikipedia.org/wiki/新世界_-Neo_Universe- "wikilink")』初回限定版DVD付の付属DVDに収録された)
 
-編曲には[岸利至](https://ja.wikipedia.org/wiki/岸利至 "wikilink")が参加。
+編曲には[岸利至](../Page/岸利至.md "wikilink")が参加。
 
 ## 収録曲
 
@@ -27,7 +27,7 @@
 
 ### 通常盤1
 
-  - **[Going My Way (Live Version)](https://ja.wikipedia.org/wiki/Going_My_Way "wikilink")**
+  - **[Going My Way (Live Version)](../Page/Going_My_Way.md "wikilink")**
 
 ### 通常盤2
 

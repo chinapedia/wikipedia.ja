@@ -1,7 +1,7 @@
-> この記事は[LGT](https://ja.wikipedia.org/wiki/LGT)から翻訳されています。
+> この記事は[LGTリヒテンシュタイン銀行](https://ja.wikipedia.org/wiki/LGTリヒテンシュタイン銀行)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Bank_in_Liechtenstein,_Vaduz.jpg "wikilink") **LGTリヒテンシュタイン銀行** (Liechtenstein Global Trust) は、[リヒテンシュタイン](../Page/リヒテンシュタイン.md "wikilink")に本拠を置く[プライベートバンクグループ](https://ja.wikipedia.org/wiki/プライベート・バンキング "wikilink")。経営母体は[リヒテンシュタイン侯爵家](https://ja.wikipedia.org/wiki/リヒテンシュタイン家 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Bank_in_Liechtenstein,_Vaduz.jpg "wikilink") **LGTリヒテンシュタイン銀行** (Liechtenstein Global Trust) は、[リヒテンシュタイン](../Page/リヒテンシュタイン.md "wikilink")に本拠を置く[プライベートバンクグループ](../Page/プライベート・バンキング.md "wikilink")。経営母体は[リヒテンシュタイン侯爵家](../Page/リヒテンシュタイン家.md "wikilink")。
 
 ## 歴史
 
@@ -23,19 +23,19 @@
 
 ## 格付け
 
-[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink"): [スタンダード&プアーズ](https://ja.wikipedia.org/wiki/スタンダード&プアーズ "wikilink") / [ムーディーズ](https://ja.wikipedia.org/wiki/ムーディーズ "wikilink")
+[レーティング](https://ja.wikipedia.org/wiki/レーティング "wikilink"): [スタンダード&プアーズ](https://ja.wikipedia.org/wiki/スタンダード&プアーズ "wikilink") / [ムーディーズ](../Page/ムーディーズ.md "wikilink")
 
   - AA- / Aa3
 
 ## 拠点
 
-  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink"): [ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[ケルン](../Page/ケルン.md "wikilink")、[フランクフルト・アム・マイン](../Page/フランクフルト・アム・マイン.md "wikilink")、[ハンブルク](../Page/ハンブルク.md "wikilink")、[マンハイム](https://ja.wikipedia.org/wiki/マンハイム "wikilink")、[ミュンヘン](../Page/ミュンヘン.md "wikilink")
+  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink"): [ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[ケルン](../Page/ケルン.md "wikilink")、[フランクフルト・アム・マイン](../Page/フランクフルト・アム・マイン.md "wikilink")、[ハンブルク](../Page/ハンブルク.md "wikilink")、[マンハイム](../Page/マンハイム.md "wikilink")、[ミュンヘン](../Page/ミュンヘン.md "wikilink")
   - [リヒテンシュタイン](../Page/リヒテンシュタイン.md "wikilink")
-  - [ルクセンブルク](../Page/ルクセンブルク.md "wikilink"): [ルクセンブルク市](https://ja.wikipedia.org/wiki/ルクセンブルク市 "wikilink")
+  - [ルクセンブルク](../Page/ルクセンブルク.md "wikilink"): [ルクセンブルク市](../Page/ルクセンブルク市.md "wikilink")
   - [オーストリア](../Page/オーストリア.md "wikilink"): [ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")
-  - [スイス](../Page/スイス.md "wikilink"): [バーゼル](../Page/バーゼル.md "wikilink")、[ベルン](../Page/ベルン.md "wikilink")、[チューリッヒ](../Page/チューリッヒ.md "wikilink")、[ローザンヌ](https://ja.wikipedia.org/wiki/ローザンヌ "wikilink")、[ルガーノ](../Page/ルガーノ.md "wikilink")、[ジェノバ](https://ja.wikipedia.org/wiki/ジェノバ "wikilink")、[Pfäffikon](https://ja.wikipedia.org/wiki/:en:Pfäffikon,_Schwyz "wikilink")
+  - [スイス](../Page/スイス.md "wikilink"): [バーゼル](../Page/バーゼル.md "wikilink")、[ベルン](../Page/ベルン.md "wikilink")、[チューリッヒ](../Page/チューリッヒ.md "wikilink")、[ローザンヌ](../Page/ローザンヌ.md "wikilink")、[ルガーノ](../Page/ルガーノ.md "wikilink")、[ジェノバ](https://ja.wikipedia.org/wiki/ジェノバ "wikilink")、[Pfäffikon](https://ja.wikipedia.org/wiki/:en:Pfäffikon,_Schwyz "wikilink")
   - [アイルランド](../Page/アイルランド.md "wikilink")
-  - [バーレーン](../Page/バーレーン.md "wikilink")、[ドバイ](../Page/ドバイ.md "wikilink")、[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[東京](../Page/東京.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[モンテビデオ](../Page/モンテビデオ.md "wikilink")、[ニューヨーク](https://ja.wikipedia.org/wiki/ニューヨーク "wikilink")
+  - [バーレーン](../Page/バーレーン.md "wikilink")、[ドバイ](../Page/ドバイ.md "wikilink")、[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[シドニー](../Page/シドニー.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[東京](../Page/東京.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[モンテビデオ](../Page/モンテビデオ.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")
 
 ## 脚注
 

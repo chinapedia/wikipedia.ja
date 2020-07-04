@@ -1,30 +1,30 @@
 > この記事は[SoftBank 821T](https://ja.wikipedia.org/wiki/SoftBank_821T)から翻訳されています。
 
 
-**SoftBank 821T**（ソフトバンク821T）は、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売している[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。また、後継モデルである**SoftBank 832T**（ソフトバンク832T）についても解説する。
+**SoftBank 821T**（ソフトバンク821T）は、[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売している[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。また、後継モデルである**SoftBank 832T**（ソフトバンク832T）についても解説する。
 
 ## 主な機能・サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")~~                                            |
-| ~~[S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")~~                             |
-| ~~[PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")~~                      |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| ~~[S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")~~                       |
-| ~~[コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")~~                |
-| ~~[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")~~                                |
+| 主な対応サービス                                                                  |
+| ------------------------------------------------------------------------- |
+| ~~[S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")~~                             |
+| ~~[S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")~~              |
+| ~~[PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")~~       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink")     |
+| ~~[S\!FeliCa](../Page/S!FeliCa.md "wikilink")~~                           |
+| ~~[コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")~~ |
+| ~~[ワンセグ](../Page/ワンセグ.md "wikilink")~~                                    |
 
 S\!アプリを利用したルートナビゲーションなどのサービスは利用不可。デコレメールは821Tは受信のみ（作成は不可）、832Tは受信も非対応。
 
 ## 特徴
 
-  - ソフトバンクモバイル初のシニア向け端末であり、外観やUIがドコモの「らくらくホンIII」に酷似しており、後述の通り後にそれが原因で販売差し止めを要求されることになる。なお、3キャリア（ドコモ、au、ソフトバンク）中、本格的なシニア向け携帯電話としては唯一、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")に対応する。
+  - ソフトバンクモバイル初のシニア向け端末であり、外観やUIがドコモの「らくらくホンIII」に酷似しており、後述の通り後にそれが原因で販売差し止めを要求されることになる。なお、3キャリア（ドコモ、au、ソフトバンク）中、本格的なシニア向け携帯電話としては唯一、[着うたフル](../Page/着うたフル.md "wikilink")に対応する。
   - 821Tと832Tは、デコレメールの受信が832Tが行えないこと以外、機能面での違いはない。外見の違いは、サブディスプレイ周辺のデザインが異なるほか、メインディスプレイの下にあるワンタッチボタンが832Tには4つ用意されている（自宅専用ボタンが追加された）。
 
 ## 販売差し止め申し立て
 
-本端末が[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[らくらくホン](https://ja.wikipedia.org/wiki/らくらくホン "wikilink")シリーズの「[FOMAらくらくホンIII](../Page/FOMAらくらくホンIII.md "wikilink")」と酷似しているとして、ドコモおよび（「らくらくホンIII」の製造元である）[富士通](../Page/富士通.md "wikilink")は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")、ソフトバンクモバイルと（821Tの製造元である）東芝に対して、模倣商品の販売などによる不正な競争を防止する[不正競争防止法](https://ja.wikipedia.org/wiki/不正競争防止法 "wikilink")に基づき、本機種の製造、販売などの差止めを求めて、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")に仮処分命令の申立を行った。具体的には、ディスプレイ側に付いた3つのショートカットキーや十字型のカーソルキー、及びその組み合わせがらくらくホンと酷似していることを挙げている。\[1\]
+本端末が[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[らくらくホン](../Page/らくらくホン.md "wikilink")シリーズの「[FOMAらくらくホンIII](../Page/FOMAらくらくホンIII.md "wikilink")」と酷似しているとして、ドコモおよび（「らくらくホンIII」の製造元である）[富士通](../Page/富士通.md "wikilink")は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")、ソフトバンクモバイルと（821Tの製造元である）東芝に対して、模倣商品の販売などによる不正な競争を防止する[不正競争防止法](../Page/不正競争防止法.md "wikilink")に基づき、本機種の製造、販売などの差止めを求めて、[東京地方裁判所](../Page/東京地方裁判所.md "wikilink")に仮処分命令の申立を行った。具体的には、ディスプレイ側に付いた3つのショートカットキーや十字型のカーソルキー、及びその組み合わせがらくらくホンと酷似していることを挙げている。\[1\]
 
 しかし、ドコモの申し立てに対しては以下に挙げる問題点も指摘されている。
 

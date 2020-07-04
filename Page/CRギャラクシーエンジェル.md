@@ -1,11 +1,11 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRギャラクシーエンジェル](https://ja.wikipedia.org/wiki/CRギャラクシーエンジェル)から翻訳されています。
 
 
-『**CRギャラクシーエンジェル**』（シーアールギャラクシーエンジェル）は、[タイヨーエレック](https://ja.wikipedia.org/wiki/タイヨーエレック "wikilink")が販売している[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
+『**CRギャラクシーエンジェル**』（シーアールギャラクシーエンジェル）は、[タイヨーエレック](../Page/タイヨーエレック.md "wikilink")が販売している[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。
 
 ## 機種概要
 
-[ブロッコリーによるキャラクター](../Page/ブロッコリー_\(企業\).md "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")企画「**Project G.A.**」による一連の作品群であるギャラクシーエンジェルのタイアップ機。ブロッコリーのパチンコ業界初参入となる。ストーリーはゲームベースだが、アニメ版の映像も使われる。多くの演出で、[CR新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン "wikilink")（[ビスティ](https://ja.wikipedia.org/wiki/ビスティ "wikilink")）の影響を受けている。
+[ブロッコリーによるキャラクター](../Page/ブロッコリー_\(企業\).md "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")企画「**Project G.A.**」による一連の作品群であるギャラクシーエンジェルのタイアップ機。ブロッコリーのパチンコ業界初参入となる。ストーリーはゲームベースだが、アニメ版の映像も使われる。多くの演出で、[CR新世紀エヴァンゲリオン](../Page/CR新世紀エヴァンゲリオン.md "wikilink")（[ビスティ](../Page/ビスティ.md "wikilink")）の影響を受けている。
 
 スペックは「MTZ」、「LTX」、「ATX」の3タイプ。
 
@@ -18,7 +18,7 @@
   -
 
       -
-        （歌: [佐藤裕美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")　作詞: 森ユキ　作曲・編曲： [坂本裕介](https://ja.wikipedia.org/wiki/坂本裕介 "wikilink")）
+        （歌: [佐藤裕美](../Page/佐藤ひろ美.md "wikilink")　作詞: 森ユキ　作曲・編曲： [坂本裕介](https://ja.wikipedia.org/wiki/坂本裕介 "wikilink")）
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
   -
 
       -
-        （歌: 佐藤裕美　作詞・作曲: [上松範康](https://ja.wikipedia.org/wiki/上松範康 "wikilink")　編曲： [藤間仁](../Page/藤間仁.md "wikilink")）
+        （歌: 佐藤裕美　作詞・作曲: [上松範康](../Page/上松範康.md "wikilink")　編曲： [藤間仁](../Page/藤間仁.md "wikilink")）
 
 いずれもゲームソフト「[GALAXY ANGEL Eternal Lovers](https://ja.wikipedia.org/wiki/GALAXY_ANGEL_Eternal_Lovers "wikilink")」主題歌。
 

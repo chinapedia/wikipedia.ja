@@ -1,20 +1,20 @@
 > この記事は[EXPERIENCE MOVIE](https://ja.wikipedia.org/wiki/EXPERIENCE_MOVIE)から翻訳されています。
 
 
-『**EXPERIENCE MOVIE (未公開のエクスペリエンス・ムービー)**』（エクスペリエンス・ムービー みこうかいのエクスペリエンス・ムービー）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE YELLOW MONKEYの](https://ja.wikipedia.org/wiki/THE_YELLOW_MONKEY "wikilink")2枚目のオリジナルアルバム。
+『**EXPERIENCE MOVIE (未公開のエクスペリエンス・ムービー)**』（エクスペリエンス・ムービー みこうかいのエクスペリエンス・ムービー）は日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE YELLOW MONKEYの](../Page/THE_YELLOW_MONKEY.md "wikilink")2枚目のオリジナルアルバム。
 
 [1993年](../Page/1993年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")・トライアドレーベルよりリリースされた。 また、[2000年](../Page/2000年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")に廉価盤が再発。さらに、[2013年](../Page/2013年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に、リマスター盤Blu-spec CD2にて再発売された。
 
 ## 解説
 
-  - 前作から約8か月と短いスパンで制作された2ndアルバム。2ndシングル『[アバンギャルドで行こうよ](https://ja.wikipedia.org/wiki/アバンギャルドで行こうよ "wikilink")』と同時発売された。前作同様売り上げは伸びなかったが、この時期に[日本青年館](https://ja.wikipedia.org/wiki/日本青年館 "wikilink")で初のホールライブを実施するなど、動員数は着実に増やしていった。
+  - 前作から約8か月と短いスパンで制作された2ndアルバム。2ndシングル『[アバンギャルドで行こうよ](https://ja.wikipedia.org/wiki/アバンギャルドで行こうよ "wikilink")』と同時発売された。前作同様売り上げは伸びなかったが、この時期に[日本青年館](../Page/日本青年館.md "wikilink")で初のホールライブを実施するなど、動員数は着実に増やしていった。
   - 「90年代における純愛」「後ろめたさ」「過去の自分との訣別」をテーマとしている\[1\]。また、吉井は「[1stアルバムがホワイトサイドであり](../Page/THE_NIGHT_SNAILS_AND_PLASTIC_BOOGIE.md "wikilink")、2ndはブラックサイドである」としており、「本当は2枚組で出したかった」と語っている\[2\]。
   - 6分半を越える長尺のバラードが3作（「4000粒の恋の唄」「フリージアの少年」「シルクスカーフに帽子のマダム」）収録されており、これには周囲の反対もあったが、吉井は「自分の中の『僕』『俺』『私』という3つをどうしても歌いたかった」と語っている\[3\]。
-  - [ジャケット写真](https://ja.wikipedia.org/wiki/ジャケット写真 "wikilink")では、[ベゼルの中の吉井が](https://ja.wikipedia.org/wiki/額縁 "wikilink")3rdアルバム『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』に登場するジャガーの恋人マリーに[女装](../Page/女装.md "wikilink")している。吉井は「フランスの恋愛映画『[ベティ・ブルー](https://ja.wikipedia.org/wiki/ベティ・ブルー "wikilink")』をイメージして、モノクロでもっとドロドロした女装をしたかったんだけど、レコード会社がビビッて小綺麗にしてしまった」と語っている\[4\]。
+  - [ジャケット写真](https://ja.wikipedia.org/wiki/ジャケット写真 "wikilink")では、[ベゼルの中の吉井が](../Page/額縁.md "wikilink")3rdアルバム『[jaguar hard pain](https://ja.wikipedia.org/wiki/jaguar_hard_pain "wikilink")』に登場するジャガーの恋人マリーに[女装](../Page/女装.md "wikilink")している。吉井は「フランスの恋愛映画『[ベティ・ブルー](../Page/ベティ・ブルー.md "wikilink")』をイメージして、モノクロでもっとドロドロした女装をしたかったんだけど、レコード会社がビビッて小綺麗にしてしまった」と語っている\[4\]。
 
 ## 収録曲
 
-  - 全作詞：[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")、全編曲：THE YELLOW MONKEY。
+  - 全作詞：[吉井和哉](../Page/吉井和哉.md "wikilink")、全編曲：THE YELLOW MONKEY。
 
 <!-- end list -->
 
@@ -39,13 +39,13 @@
         [ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")・セクションを交えたアップテンポナンバー。当時ヒットを期待していた1stアルバムが思うように売れず、あまり良い評価をされなかったことを皮肉っている。歌詞内の「長さは50.56cm」とは1stアルバムのトータルタイムである\[9\]。
 8.  **4000粒の恋の唄**
       -
-        吉井曰く「恋に敗れた[オカマの曲](../Page/おかま.md "wikilink")」\[10\]。吉井が青春時代を過ごした「女性たちへの懺悔の歌」であり、「だらしない男がそれを歌うとこが凄く重要だと思う」と語っている\[11\]。また、某女性歌手からカバーの要望があったが、吉井は「この曲は女性には歌えない。こんな情けない僕にしか歌えない」という理由で断っている\[12\]。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』で[あがた森魚](https://ja.wikipedia.org/wiki/あがた森魚 "wikilink")が[カバー](../Page/カバー.md "wikilink")した。この楽曲は吉井があがたに影響を受けていた時期の曲でもある。
+        吉井曰く「恋に敗れた[オカマの曲](../Page/おかま.md "wikilink")」\[10\]。吉井が青春時代を過ごした「女性たちへの懺悔の歌」であり、「だらしない男がそれを歌うとこが凄く重要だと思う」と語っている\[11\]。また、某女性歌手からカバーの要望があったが、吉井は「この曲は女性には歌えない。こんな情けない僕にしか歌えない」という理由で断っている\[12\]。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』で[あがた森魚](../Page/あがた森魚.md "wikilink")が[カバー](../Page/カバー.md "wikilink")した。この楽曲は吉井があがたに影響を受けていた時期の曲でもある。
 9.  **アバンギャルドで行こうよ**
       -
         2ndシングル。
 10. **フリージアの少年**
       -
-        [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")調のリズム・パターンを導入したナンバー。吉井はタイトルの[フリージア](https://ja.wikipedia.org/wiki/フリージア "wikilink")について、「どんな花なのかを知らなかったため、特に意味はない」としたうえで、「水仙が[ナルシスだったら](https://ja.wikipedia.org/wiki/ナルシスト "wikilink")、普通とは違ったこんな屈折した男はフリージアと呼んでいいんじゃないかと」と語っている\[13\]。歌詞は吉井の生い立ちを綴った自叙伝となっており、「過去の自分との訣別の歌」と語っている\[14\]。
+        [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")調のリズム・パターンを導入したナンバー。吉井はタイトルの[フリージア](../Page/フリージア.md "wikilink")について、「どんな花なのかを知らなかったため、特に意味はない」としたうえで、「水仙が[ナルシスだったら](https://ja.wikipedia.org/wiki/ナルシスト "wikilink")、普通とは違ったこんな屈折した男はフリージアと呼んでいいんじゃないかと」と語っている\[13\]。歌詞は吉井の生い立ちを綴った自叙伝となっており、「過去の自分との訣別の歌」と語っている\[14\]。
 11. **SUCK OF LIFE**
       -
         2ndシングル「アバンギャルドで行こうよ」カップリング。表記はないが、冒頭にパートが追加され、続けてフェードインに編集されたイントロに繋がる形のアルバムバージョンであり、ライブではこの形態で披露される。のちのベストアルバム収録に際してはこちらを(Album Version)、2ndシングルのカップリングを(Original Version)と表記している。

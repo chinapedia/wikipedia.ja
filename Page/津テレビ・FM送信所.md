@@ -68,7 +68,7 @@
 
 #### 歴史
 
-  - [2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[4月1日](../Page/4月1日.md "wikilink") 開局
+  - [2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[4月1日](../Page/4月1日.md "wikilink") 開局（NHK教育はデジタルテレビ開始に伴い新設）
 
 ### FMラジオ
 

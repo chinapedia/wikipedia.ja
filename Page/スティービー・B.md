@@ -1,11 +1,11 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[スティービー・B](https://ja.wikipedia.org/wiki/スティービー・B)から翻訳されています。
 
 
 **Stevie B**（**スティービー・ビー**、[1958年](../Page/1958年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") - 本名：**Steven Bernard Hill**）は、[キューバ](../Page/キューバ.md "wikilink")の血統をもつ、[歌手](../Page/歌手.md "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、そして[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。
 
 ## 説明
 
-[1980年代](../Page/1980年代.md "wikilink")後期のラテン・フリースタイル ([en](https://ja.wikipedia.org/wiki/:en:Latin_freestyle "wikilink")) と[マイアミ](../Page/マイアミ.md "wikilink")・ダンスミュージック・シーンに80年代後期に大きな影響力を与えた。 その多作ぶりによって、「The King of Freestyle」（[フリースタイルの帝王](https://ja.wikipedia.org/wiki/フリースタイル_\(R&B\) "wikilink")）と呼ばれた。日本でのヒット曲としては、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の曲『[Because I Love You (The Postman Song)](https://ja.wikipedia.org/wiki/Because_I_Love_You_\(The_Postman_Song\) "wikilink")』が、[川崎製鉄](https://ja.wikipedia.org/wiki/川崎製鉄 "wikilink")（現・[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")）のCMでの　企業テーマ｢まっすぐ｡｣シリーズの曲として日本国内でのTVCMで放送されていた。
+[1980年代](../Page/1980年代.md "wikilink")後期のラテン・フリースタイル ([en](https://ja.wikipedia.org/wiki/:en:Latin_freestyle "wikilink")) と[マイアミ](../Page/マイアミ.md "wikilink")・ダンスミュージック・シーンに80年代後期に大きな影響力を与えた。 その多作ぶりによって、「The King of Freestyle」（[フリースタイルの帝王](https://ja.wikipedia.org/wiki/フリースタイル_\(R&B\) "wikilink")）と呼ばれた。日本でのヒット曲としては、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の曲『[Because I Love You (The Postman Song)](https://ja.wikipedia.org/wiki/Because_I_Love_You_\(The_Postman_Song\) "wikilink")』が、[川崎製鉄](../Page/川崎製鉄.md "wikilink")（現・[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")）のCMでの　企業テーマ｢まっすぐ｡｣シリーズの曲として日本国内でのTVCMで放送されていた。
 
 ## ディスコグラフィー
 
@@ -50,4 +50,4 @@
 
   - <http://www.hottunez.com>（英語）
 
-[Category:アメリカ合衆国の男性歌手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男性歌手 "wikilink") [Category:1958年生](https://ja.wikipedia.org/wiki/Category:1958年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:マイアミ出身の人物](https://ja.wikipedia.org/wiki/Category:マイアミ出身の人物 "wikilink")
+[Category:アメリカ合衆国の男性歌手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男性歌手 "wikilink") [Category:キューバ系アメリカ人](https://ja.wikipedia.org/wiki/Category:キューバ系アメリカ人 "wikilink") [Category:マイアミ出身の人物](https://ja.wikipedia.org/wiki/Category:マイアミ出身の人物 "wikilink") [Category:1958年生](https://ja.wikipedia.org/wiki/Category:1958年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

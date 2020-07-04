@@ -1,7 +1,7 @@
-> この記事は[MJ \(\)](https://ja.wikipedia.org/wiki/MJ_\(\))から翻訳されています。
+> この記事は[MJ \(バンド\)](https://ja.wikipedia.org/wiki/MJ_\(バンド\))から翻訳されています。
 
 
-**MJ**（エムジェー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。 前身のミクスチャー・ロックバンド[JINDOU](https://ja.wikipedia.org/wiki/JINDOU "wikilink")（ジンドウ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成され、[2004年](../Page/2004年.md "wikilink")にメジャーデビュー、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月4日](../Page/12月4日.md "wikilink")に解散。 解散後、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月10日、宮下昌也、[永田雅規](https://ja.wikipedia.org/wiki/永田雅規 "wikilink")、宮下浩司を中心に、[ベース川上武巳](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ドラムス森本昌希を加えバンドスタイルを確立し](../Page/ドラムセット.md "wikilink")、MJを結成。
+**MJ**（エムジェー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。 前身のミクスチャー・ロックバンド[JINDOU](../Page/JINDOU.md "wikilink")（ジンドウ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に結成され、[2004年](../Page/2004年.md "wikilink")にメジャーデビュー、[2005年](../Page/2005年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に解散。 解散後、[2006年](../Page/2006年.md "wikilink")2月10日、宮下昌也、[永田雅規](https://ja.wikipedia.org/wiki/永田雅規 "wikilink")、宮下浩司を中心に、[ベース川上武巳](../Page/ベース_\(弦楽器\).md "wikilink")、[ドラムス森本昌希を加えバンドスタイルを確立し](../Page/ドラムセット.md "wikilink")、MJを結成。
 
 ライブ活動の他、プロデュース、楽曲提供なども行う。
 
@@ -26,7 +26,7 @@
 ### 楽曲提供
 
   - 2007年
-      - 7月18日 - 「海」を[Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")に提供（作詞・宮下昌也、永田雅規 作曲・宮下浩司）
+      - 7月18日 - 「海」を[Lead](../Page/Lead.md "wikilink")に提供（作詞・宮下昌也、永田雅規 作曲・宮下浩司）
       - 11月14日 - 「パ☆リ☆ラ」をclub princeに提供（作詞・宮下昌也 作曲・宮下浩司、昌也 編曲・宮下浩司）
 
 <!-- end list -->

@@ -1,7 +1,7 @@
-> この記事は[MAGIC BEST COLLECTION](https://ja.wikipedia.org/wiki/MAGIC_BEST_COLLECTION)から翻訳されています。
+> この記事は[パステルカラーに染めてくれ〜MAGIC BEST COLLECTION](https://ja.wikipedia.org/wiki/パステルカラーに染めてくれ〜MAGIC_BEST_COLLECTION)から翻訳されています。
 
 
-『**パステルカラーに染めてくれ〜MAGIC BEST COLLECTION**』（パステルカラーにそめてくれ マジックベストコレクション）は、[MAGICによる](https://ja.wikipedia.org/wiki/マジック_\(バンド\) "wikilink")2枚目のベストアルバム。
+『**パステルカラーに染めてくれ〜MAGIC BEST COLLECTION**』（パステルカラーにそめてくれ マジックベストコレクション）は、[MAGICによる](../Page/マジック_\(バンド\).md "wikilink")2枚目のベストアルバム。
 
 ## 内容
 
@@ -11,13 +11,13 @@
 
 1.  [パステルカラーに染めてくれ](https://ja.wikipedia.org/wiki/パステルカラーに染めてくれ "wikilink")
       -
-        作詞:[上澤津孝](https://ja.wikipedia.org/wiki/上澤津孝 "wikilink")・[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲・編曲:[織田哲郎](../Page/織田哲郎.md "wikilink")
+        作詞:[上澤津孝](../Page/上澤津孝.md "wikilink")・[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲・編曲:[織田哲郎](../Page/織田哲郎.md "wikilink")
 2.  [天使のジェラシー](https://ja.wikipedia.org/wiki/天使のジェラシー "wikilink")
       -
         作詞:[船橋孝樹](https://ja.wikipedia.org/wiki/船橋孝樹 "wikilink")、作曲:[久米浩司](https://ja.wikipedia.org/wiki/久米浩司 "wikilink")・[魚海洋司](https://ja.wikipedia.org/wiki/魚海洋司 "wikilink")、編曲:魚海洋司・MAGIC
-3.  [あの夏が聴こえてくる](https://ja.wikipedia.org/wiki/あの夏が聴こえてくる "wikilink")
+3.  [あの夏が聴こえてくる](../Page/あの夏が聴こえてくる.md "wikilink")
       -
-        作詞:[小田佳奈子](https://ja.wikipedia.org/wiki/小田佳奈子 "wikilink")、作曲・編曲:織田哲郎
+        作詞:[小田佳奈子](../Page/小田佳奈子.md "wikilink")、作曲・編曲:織田哲郎
 4.  17歳, BREAK DOWN
       -
         作詞:上澤津孝、作曲:山口憲一・久米浩司、編曲:[土屋昌巳](../Page/土屋昌巳.md "wikilink")・MAGIC

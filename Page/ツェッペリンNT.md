@@ -1,7 +1,7 @@
 > この記事は[ツェッペリンNT](https://ja.wikipedia.org/wiki/ツェッペリンNT)から翻訳されています。
 
 
-[Zeppellin_NT_amk.JPG](https://ja.wikipedia.org/wiki/File:Zeppellin_NT_amk.JPG "fig:Zeppellin_NT_amk.JPG") [thumb](https://ja.wikipedia.org/wiki/画像:Zeppelin_NT_in_Kansai_airport_Osaka,JAPAN.jpg "wikilink") **ツェッペリン NT** (*Neue Technologie / new technology*)は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")*Zeppelin Luftschifftechnik GmbH (ZLT) in Friedrichshafen* で製造された半硬式[飛行船](../Page/飛行船.md "wikilink")である。
+[Zeppellin_NT_amk.JPG](https://ja.wikipedia.org/wiki/File:Zeppellin_NT_amk.JPG "fig:Zeppellin_NT_amk.JPG") [thumb](https://ja.wikipedia.org/wiki/画像:Zeppelin_NT_in_Kansai_airport_Osaka,JAPAN.jpg "wikilink") **ツェッペリン NT** (*Neue Technologie / new technology*)は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[フリードリヒスハーフェン](../Page/フリードリヒスハーフェン.md "wikilink")（Friedrichshafen）の*Zeppelin Luftschifftechnik GmbH (ZLT)* で製造された半硬式[飛行船](../Page/飛行船.md "wikilink")である。
 
 運航会社の一つに、[フェルディナント・フォン・ツェッペリン](../Page/フェルディナント・フォン・ツェッペリン.md "wikilink")伯爵の手で設立された飛行船運航会社の後継企業がある。
 

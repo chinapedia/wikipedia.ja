@@ -24,7 +24,6 @@
       - [WP:CSD\#全般8](https://ja.wikipedia.org/wiki/WP:CSD#全般8 "wikilink") 初版投稿者による依頼または白紙化
       - [WP:CSD\#全般9](https://ja.wikipedia.org/wiki/WP:CSD#全般9 "wikilink") 明白な著作権侵害
       - [WP:CSD\#記事1](https://ja.wikipedia.org/wiki/WP:CSD#記事1 "wikilink") 定義なし
-      - [WP:CSD\#記事2](https://ja.wikipedia.org/wiki/WP:CSD#記事2 "wikilink") 言語間リンク・カテゴリ・外部リンクのみ
       - [WP:CSD\#リダイレクト1-1](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト1-1 "wikilink") 直接関係のないページへのリダイレクト
       - [WP:CSD\#リダイレクト1-2](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト1-2 "wikilink") 単純な書き誤り
       - [WP:CSD\#リダイレクト1-3](https://ja.wikipedia.org/wiki/WP:CSD#リダイレクト1-3 "wikilink") 転送先がないリダイレクト

@@ -1,17 +1,17 @@
-> この記事は[GE](https://ja.wikipedia.org/wiki/GE)から翻訳されています。
+> この記事は[GE・ホンダ・エアロ・エンジン](https://ja.wikipedia.org/wiki/GE・ホンダ・エアロ・エンジン)から翻訳されています。
 
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:GE_Honda_HF120_200811.jpg "wikilink") [280px](https://ja.wikipedia.org/wiki/ファイル:HondaJet_002.jpg "wikilink") **GE・ホンダ・エアロ・エンジン LLC**（*GE Honda Aero Engines LLC*）は[オハイオ州](../Page/オハイオ州.md "wikilink")[シンシナティ](../Page/シンシナティ.md "wikilink")に本拠をおく[航空機](../Page/航空機.md "wikilink")用ジェットエンジンを開発製造する企業である。
 
-[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に世界最大の複合企業である[ゼネラル・エレクトリック](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink")社の航空エンジン製造部門である[GE・アビエーション](../Page/GE・アビエーション.md "wikilink")社と[本田技研工業](../Page/本田技研工業.md "wikilink")の連結子会社である[ホンダ エアロ社が](https://ja.wikipedia.org/wiki/ホンダ_エアロ "wikilink")、50対50の出資比率で設立した合弁企業である\[1\]\[2\]。
+[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に世界最大の複合企業である[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")社の航空エンジン製造部門である[GE・アビエーション](../Page/GE・アビエーション.md "wikilink")社と[本田技研工業](../Page/本田技研工業.md "wikilink")の連結子会社である[ホンダ エアロ社が](https://ja.wikipedia.org/wiki/ホンダ_エアロ "wikilink")、50対50の出資比率で設立した合弁企業である\[1\]\[2\]。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[HF120ターボファンエンジンを](https://ja.wikipedia.org/wiki/HF120_\(エンジン\) "wikilink")[HondaJet](https://ja.wikipedia.org/wiki/HondaJet "wikilink")と[スペクトラム S-40 フリーダムに供給すると発表](https://ja.wikipedia.org/wiki/スペクトラム_S-40_フリーダム "wikilink")\[3\]。
+[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[HF120ターボファンエンジンを](../Page/HF120_\(エンジン\).md "wikilink")[HondaJet](../Page/HondaJet.md "wikilink")と[スペクトラム S-40 フリーダムに供給すると発表](https://ja.wikipedia.org/wiki/スペクトラム_S-40_フリーダム "wikilink")\[3\]。
 
-[2013年](../Page/2013年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、GE・ホンダは、HF120が[米国連邦航空局による連邦航空規則のPart](https://ja.wikipedia.org/wiki/連邦航空局 "wikilink")33が定める型式認定を取得し、量産に向けたステージに入ったと発表\[4\]\[5\]\[6\]。
+[2013年](../Page/2013年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、GE・ホンダは、HF120が[米国連邦航空局による連邦航空規則のPart](../Page/連邦航空局.md "wikilink")33が定める型式認定を取得し、量産に向けたステージに入ったと発表\[4\]\[5\]\[6\]。
 
 ## 生産品目
 
-  - [HF120](https://ja.wikipedia.org/wiki/HF120_\(エンジン\) "wikilink") - 軽量[ビジネスジェット機](https://ja.wikipedia.org/wiki/ビジネスジェット機 "wikilink")用[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink")
+  - [HF120](../Page/HF120_\(エンジン\).md "wikilink") - 軽量[ビジネスジェット機](https://ja.wikipedia.org/wiki/ビジネスジェット機 "wikilink")用[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink")
 
 ### HF120を搭載する航空機
 

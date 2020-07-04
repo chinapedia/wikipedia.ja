@@ -1,21 +1,21 @@
-> この記事は[DAI!](https://ja.wikipedia.org/wiki/DAI!)から翻訳されています。
+> この記事は[カンニングのDAI安吉日!](https://ja.wikipedia.org/wiki/カンニングのDAI安吉日!)から翻訳されています。
 
 
-『**カンニングのDAI安☆吉日\!**』（カンニングのダイあん☆きちじつ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月3日](https://ja.wikipedia.org/wiki/4月3日 "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[BSフジ](../Page/BSフジ.md "wikilink")で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**カンニングのDAI安☆吉日\!**』（カンニングのダイあん☆きちじつ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[BSフジ](../Page/BSフジ.md "wikilink")で放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
 ## 概要
 
   - 基本的にはBSフジの番組情報や、イベント情報などを伝える番組であるが、各コーナーごとにゲストが登場する。
   - 前身番組は『[DAI☆安BSフジNAVI\!](https://ja.wikipedia.org/wiki/DAI★安BSフジNAVI "wikilink")』。カンニング、DAIGO、安めぐみの出演でスタート。
-  - リニューアル後は[松井絵里奈](https://ja.wikipedia.org/wiki/松井絵里奈 "wikilink")、ぼれろ、三拍子が加わった。
+  - リニューアル後は[松井絵里奈](../Page/松井絵里奈.md "wikilink")、ぼれろ、三拍子が加わった。
   - [2009年](../Page/2009年.md "wikilink")4月（第79回）からは「卒業」した松井絵里奈に代わり安藤成子、梅田彩佳（当時は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")→[NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")）が加わり、現体制となった。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に、BSフジ開局10周年記念番組として『週刊BSデジタルマガジン』と[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")した『[BSフジの10年間すべて見せます\!デジマガでDAI安☆吉日\!](https://ja.wikipedia.org/wiki/BSフジの10年間すべて見せます!デジマガでDAI安☆吉日! "wikilink")』が放送された。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月1日](../Page/12月1日.md "wikilink")に、BSフジ開局10周年記念番組として『週刊BSデジタルマガジン』と[コラボレーション](../Page/コラボレーション.md "wikilink")した『[BSフジの10年間すべて見せます\!デジマガでDAI安☆吉日\!](https://ja.wikipedia.org/wiki/BSフジの10年間すべて見せます!デジマガでDAI安☆吉日! "wikilink")』が放送された。
 
 ## 放送時間
 
   - 日曜 23:30 - 翌0:00
 
-初回放送週の翌週は前週分のリピート放送となる。なお、[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")など編成上の都合により休止、または時間変更になる場合もあった。
+初回放送週の翌週は前週分のリピート放送となる。なお、[特別番組](../Page/特別番組.md "wikilink")など編成上の都合により休止、または時間変更になる場合もあった。
 
 ## 出演者
 
@@ -23,8 +23,8 @@
 
 <!-- end list -->
 
-  - [カンニング竹山](https://ja.wikipedia.org/wiki/カンニング竹山 "wikilink")
-  - [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")（[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
+  - [カンニング竹山](../Page/カンニング竹山.md "wikilink")
+  - [DAIGO](../Page/DAIGO.md "wikilink")（[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")）
   - [安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")
 
 <!-- end list -->
@@ -43,15 +43,15 @@
 
 <!-- end list -->
 
-  - [梅田彩佳](https://ja.wikipedia.org/wiki/梅田彩佳 "wikilink")（元[NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")）（2009年4月 - ） - 以前はレギュラー。2015年8月19日放送分（第245回）で1年ぶりの出演。
+  - [梅田彩佳](../Page/梅田彩佳.md "wikilink")（元[NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")）（2009年4月 - ） - 以前はレギュラー。2015年8月19日放送分（第245回）で1年ぶりの出演。
   - [大嶋和也](../Page/大嶋和也.md "wikilink") (レーシングドライバー)
 
 ## 過去の出演者
 
   - [安藤成子](../Page/安藤成子.md "wikilink") - 現在は芸能界引退
-  - [松井絵里奈](https://ja.wikipedia.org/wiki/松井絵里奈 "wikilink")（2006年8月 - 2009年3月）
-  - [ぼれろ](https://ja.wikipedia.org/wiki/ぼれろ "wikilink") （竹山軍団リポーター）
-  - [三拍子](https://ja.wikipedia.org/wiki/三拍子_\(お笑いコンビ\) "wikilink") （竹山軍団リポーター）
+  - [松井絵里奈](../Page/松井絵里奈.md "wikilink")（2006年8月 - 2009年3月）
+  - [ぼれろ](../Page/ぼれろ.md "wikilink") （竹山軍団リポーター）
+  - [三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink") （竹山軍団リポーター）
   - [BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")
       - [AKIHIDE](https://ja.wikipedia.org/wiki/AKIHIDE "wikilink")
       - [SHINPEI](https://ja.wikipedia.org/wiki/SHINPEI "wikilink")
@@ -109,11 +109,11 @@
   - DAI☆GOGOGOGO
     DAIGOゲストへのインタビューをするコーナー。
   - カンニング竹山隆範の「竹山軍団〜野望編〜」
-    竹山軍団レポーターが「竹山軍団」団員候補生や「竹山」を名乗る店に勝手に直撃し団員を増やしていく[勝手連](https://ja.wikipedia.org/wiki/勝手連 "wikilink")コーナー。
+    竹山軍団レポーターが「竹山軍団」団員候補生や「竹山」を名乗る店に勝手に直撃し団員を増やしていく[勝手連](../Page/勝手連.md "wikilink")コーナー。
 
 ## スタッフ
 
-  - ナレーター：E.はぎわら（[萩原えみこ](https://ja.wikipedia.org/wiki/萩原えみこ "wikilink")） / R.なつき（[夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")、萩原の産休時等の代役）
+  - ナレーター：E.はぎわら（[萩原えみこ](../Page/萩原えみこ.md "wikilink")） / R.なつき（[夏樹リオ](../Page/夏樹リオ.md "wikilink")、萩原の産休時等の代役）
   - 構成：M.いいじま
   - CAM：K.おおつか（大塚孝輔）、S.ゆきひろ
   - VE：Y.ふじい、R.なかみち

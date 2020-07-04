@@ -10,12 +10,12 @@
   - [あの街の恋の詩](https://ja.wikipedia.org/wiki/あの街の恋の詩 "wikilink")（[P-Factory](https://ja.wikipedia.org/wiki/P-Factory "wikilink")）
   - [アメイジング・グレイス -What color is your attribute?-](https://ja.wikipedia.org/wiki/アメイジング・グレイス_-What_color_is_your_attribute?- "wikilink") ([きゃべつそふと](https://ja.wikipedia.org/wiki/きゃべつそふと "wikilink"))
   - [甘い刻 - Sweet Time -](https://ja.wikipedia.org/wiki/甘い刻_-_Sweet_Time_- "wikilink")（P-factory）
-  - [いつか、届く、あの空に。](https://ja.wikipedia.org/wiki/いつか、届く、あの空に。 "wikilink")（[Lump of Sugar](https://ja.wikipedia.org/wiki/Lump_of_Sugar "wikilink")）
+  - [いつか、届く、あの空に。](../Page/いつか、届く、あの空に。.md "wikilink")（[Lump of Sugar](../Page/Lump_of_Sugar.md "wikilink")）
   - [いますぐお兄ちゃんに妹だっていいたい\!](https://ja.wikipedia.org/wiki/いますぐお兄ちゃんに妹だっていいたい! "wikilink")（[fairys](https://ja.wikipedia.org/wiki/fairys "wikilink")）
-  - [H2O -FOOTPRINTS IN THE SAND-](https://ja.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND- "wikilink")（[枕](https://ja.wikipedia.org/wiki/枕_\(ゲームブランド\) "wikilink")）
+  - [H2O -FOOTPRINTS IN THE SAND-](../Page/H2O_-FOOTPRINTS_IN_THE_SAND-.md "wikilink")（[枕](../Page/枕_\(ゲームブランド\).md "wikilink")）
   - [H2O √after and another Complete Story Edition](https://ja.wikipedia.org/wiki/H2O_√after_and_another_Complete_Story_Edition "wikilink")（枕）
   - [映研企画](https://ja.wikipedia.org/wiki/映研企画 "wikilink")（[るんるんそふと](https://ja.wikipedia.org/wiki/るんるんそふと "wikilink")）
-  - [エーデルワイス 詠伝ファンタジア](https://ja.wikipedia.org/wiki/エーデルワイス_詠伝ファンタジア "wikilink")（[OVERDRIVE](https://ja.wikipedia.org/wiki/OVERDRIVE_\(ブランド\) "wikilink")）
+  - [エーデルワイス 詠伝ファンタジア](https://ja.wikipedia.org/wiki/エーデルワイス_詠伝ファンタジア "wikilink")（[OVERDRIVE](../Page/OVERDRIVE_\(ブランド\).md "wikilink")）
   - [学☆王 -THE ROYAL SEVEN STARS-](https://ja.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS- "wikilink")（Lump of Sugar）
   - [学☆王 -It's Heartful Days-](https://ja.wikipedia.org/wiki/学☆王_-It's_Heartful_Days- "wikilink")（Lump of Sugar）
   - [キラ☆キラ](../Page/キラ☆キラ.md "wikilink")（OVERDRIVE）
@@ -29,10 +29,10 @@
   - [コトバの消えた日 〜心まで裸にする純愛調教〜](https://ja.wikipedia.org/wiki/コトバの消えた日_〜心まで裸にする純愛調教〜 "wikilink")（ぷちけろ）
   - [ゴニン\!?](https://ja.wikipedia.org/wiki/ゴニン!? "wikilink")（Studio邪恋）
   - [さよらなエトランジュ](../Page/さよらなエトランジュ.md "wikilink")（[CLOVER](../Page/オービット.md "wikilink")）
-  - [サクラノ詩 -櫻の森の上を舞う-](https://ja.wikipedia.org/wiki/サクラノ詩 "wikilink")（枕）
+  - [サクラノ詩 -櫻の森の上を舞う-](../Page/サクラノ詩.md "wikilink")（枕）
   - [しゅぷれ〜むキャンディ 〜王道には王道たる理由があるんです\!〜](https://ja.wikipedia.org/wiki/しゅぷれ〜むキャンディ_〜王道には王道たる理由があるんです!〜 "wikilink")（枕）
   - [素晴らしき日々 〜不連続存在〜](https://ja.wikipedia.org/wiki/素晴らしき日々_〜不連続存在〜 "wikilink")（[ケロQ](../Page/ケロQ.md "wikilink")）
-  - [世界征服彼女](https://ja.wikipedia.org/wiki/世界征服彼女 "wikilink")（[Navel](https://ja.wikipedia.org/wiki/Navel "wikilink")）
+  - [世界征服彼女](https://ja.wikipedia.org/wiki/世界征服彼女 "wikilink")（[Navel](../Page/Navel.md "wikilink")）
   - [世界と世界の真ん中で](https://ja.wikipedia.org/wiki/世界と世界の真ん中で "wikilink")（Lump of Sugar）
   - [接触洗脳倶楽部](https://ja.wikipedia.org/wiki/接触洗脳倶楽部 "wikilink")（すたじおちゃれん）
   - [千の刃濤、桃花染の皇姫](https://ja.wikipedia.org/wiki/千の刃濤、桃花染の皇姫 "wikilink")（[オーガスト](../Page/オーガスト_\(ブランド\).md "wikilink")）
@@ -47,10 +47,10 @@
   - [超電激ストライカー](https://ja.wikipedia.org/wiki/超電激ストライカー "wikilink")（OVERDRIVE）
   - [DEARDROPS](https://ja.wikipedia.org/wiki/DEARDROPS "wikilink")（OVERDRIVE）
   - [d2b vs DEARDROPS - Cross the Future -](https://ja.wikipedia.org/wiki/d2b_vs_DEARDROPS_-_Cross_the_Future_- "wikilink")（OVERDRIVE）
-  - [ている・ている](https://ja.wikipedia.org/wiki/ている・ている "wikilink")（CLOVER）
+  - [ている・ている](../Page/ている・ている.md "wikilink")（CLOVER）
   - [電激ストライカー](https://ja.wikipedia.org/wiki/電激ストライカー "wikilink")（OVERDRIVE）
   - [トロピカルVACATION](https://ja.wikipedia.org/wiki/トロピカルVACATION "wikilink")（Twinkle）
-  - [Nursery Rhyme -ナーサリィ☆ライム-](https://ja.wikipedia.org/wiki/Nursery_Rhyme_-ナーサリィ☆ライム- "wikilink")（Lump of Sugar）
+  - [Nursery Rhyme -ナーサリィ☆ライム-](../Page/Nursery_Rhyme_-ナーサリィ☆ライム-.md "wikilink")（Lump of Sugar）
   - [ネブ\*プラス](https://ja.wikipedia.org/wiki/ネブ*プラス "wikilink")（Navel）
   - [Butlers](https://ja.wikipedia.org/wiki/Butlers "wikilink")（Tiaramode）
   - [花色ヘプタグラム](https://ja.wikipedia.org/wiki/花色ヘプタグラム "wikilink")（Lump of Sugar）
@@ -65,7 +65,7 @@
   - [PrismRhythm -プリズムリズム-](https://ja.wikipedia.org/wiki/PrismRhythm_-プリズムリズム- "wikilink")（Lump of Sugar）
   - [Purism×Egoist](https://ja.wikipedia.org/wiki/Purism×Egoist "wikilink")（ZIP）
   - [ぶるぶる](https://ja.wikipedia.org/wiki/ぶるぶる "wikilink")（Grand Cru bourgeois）
-  - [フレラバ 〜Friend to Lover〜](https://ja.wikipedia.org/wiki/フレラバ_〜Friend_to_Lover〜 "wikilink")（[SMEE](https://ja.wikipedia.org/wiki/HOOKSOFT "wikilink")）
+  - [フレラバ 〜Friend to Lover〜](https://ja.wikipedia.org/wiki/フレラバ_〜Friend_to_Lover〜 "wikilink")（[SMEE](../Page/HOOKSOFT.md "wikilink")）
   - [フローライトメモリーズ〜いつかきっと、約束の場所で〜](https://ja.wikipedia.org/wiki/フローライトメモリーズ〜いつかきっと、約束の場所で〜 "wikilink")（Rabbit）
   - [Heaven's Cage](https://ja.wikipedia.org/wiki/Heaven's_Cage "wikilink")（Art）
   - [ベロレロレーロレ 〜飴になった幼馴染の汁ってこんなに甘いのか\!\!〜](https://ja.wikipedia.org/wiki/ベロレロレーロレ_〜飴になった幼馴染の汁ってこんなに甘いのか!!〜 "wikilink")（Grand Cru bourgeois）

@@ -1,13 +1,15 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[日商PC検定試験](https://ja.wikipedia.org/wiki/日商PC検定試験)から翻訳されています。
 
 
-**日商PC検定試験**（にっしょうピーシーけんていしけん、日商PC検定）とは、[日本商工会議所](https://ja.wikipedia.org/wiki/日本商工会議所 "wikilink")及び各地商工会議所が実施する、企業実務に携わる人材を対象とした[IT利活用技能の検定試験](../Page/情報技術.md "wikilink")（商工会議所検定試験）である。 [経済産業省](../Page/経済産業省.md "wikilink")後援。
+**日商PC検定試験**（にっしょうピーシーけんていしけん、日商PC検定）とは、[日本商工会議所](../Page/日本商工会議所.md "wikilink")及び各地商工会議所が実施する、企業実務に携わる人材を対象とした[IT利活用技能の検定試験](../Page/情報技術.md "wikilink")（商工会議所検定試験）である。 [経済産業省](../Page/経済産業省.md "wikilink")後援。
 
 平成18(2006)年4月から、前身となる「日本語文書処理技能検定（ワープロ検定）試験」と「ビジネスコンピューティング（ビジコン）検定試験」を進化・統合したものとして実施されている。
 
 ビジネス文書の作成、取り扱いが問われる「日商PC検定試験（文書作成）」と、業務データの活用、取り扱いが問われる「日商PC検定試験（データ活用）」、「日商PC検定試験（プレゼン資料）」の3分野がある。アプリケーションソフトでいうと、文書作成が[Word](https://ja.wikipedia.org/wiki/Word "wikilink")相当、データ活用が[Excel](https://ja.wikipedia.org/wiki/Excel "wikilink")相当、プレゼン資料が[PowerPoint](https://ja.wikipedia.org/wiki/PowerPoint "wikilink")相当である。3分野はそれぞれ別々の試験であり、3分野全部の資格がほしい場合は、それぞれ別々に試験を受ける必要がある。
 
 データ活用分野が[厚生労働省](../Page/厚生労働省.md "wikilink")が[若年者就職基礎能力修得支援事業](https://ja.wikipedia.org/wiki/若年者就職基礎能力修得支援事業 "wikilink")（YES-プログラム）の資格取得において選定される（**若年者就職基礎能力修得支援事業の認定は2010年に終了した、取得した資格は有効**）。
+
+上位資格に[日商マスター](../Page/日商マスター.md "wikilink")がある。
 
 ## 試験内容
 
@@ -24,6 +26,7 @@
 
   - 1級
     企業実務に必要とされる実践的なIT・ネットワークの知識、スキルを有し、ネット社会のビジネススタイルを踏まえ、企業責任者または企業責任者を補佐する者として、経営判断や意思決定を行うか助言する過程で利活用することができる。
+    合格難易度は[国家試験](../Page/国家試験.md "wikilink")の[ITパスポート試験](https://ja.wikipedia.org/wiki/ITパスポート試験 "wikilink")と同じくらいと言われている。
   - 2級
     企業実務に必要とされる実践的なIT・ネットワークの知識、スキルを有し、部門責任者または部門責任者を補佐する者として、業務の効率・円滑化、業績向上を図るうえで利活用することができる。
   - 3級
@@ -58,13 +61,13 @@
 
 ## 試験の実施
 
-[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を利用したCBT方式で実施され、受験したその場で採点、合否が分かる。（2級、3級、Basic）
+[インターネット](../Page/インターネット.md "wikilink")を利用したCBT方式で実施され、受験したその場で採点、合否が分かる。（2級、3級、Basic）
 
 試験日は1級のみ統一試験日で年2回実施。2級以下は試験会場が随時設定するが、2013年11月より随時試験とは別に統一日（毎月第3金曜日）も設定されている。
 
 ## 科目免除
 
-[日本商工会議所](https://ja.wikipedia.org/wiki/日本商工会議所 "wikilink")が指定した一部の[検定試験](https://ja.wikipedia.org/wiki/検定試験 "wikilink")の合格者には、日商PC検定の2級または3級の知識科目が免除され、実技科目のみで合否が判定される特典が付く\[1\]。
+[日本商工会議所](../Page/日本商工会議所.md "wikilink")が指定した一部の[検定試験](https://ja.wikipedia.org/wiki/検定試験 "wikilink")の合格者には、日商PC検定の2級または3級の知識科目が免除され、実技科目のみで合否が判定される特典が付く\[1\]。
 
   - [EC実践能力検定](https://ja.wikipedia.org/wiki/EC実践能力検定 "wikilink")3級の合格者は日商PC検定3級の知識科目が免除される。EC実践能力検定2級以上の合格者は日商PC検定の3級または2級の知識科目が免除される。
   - [電子メール活用能力検定](https://ja.wikipedia.org/wiki/電子メール活用能力検定 "wikilink")の合格者は日商PC検定3級の知識科目が免除される。
@@ -79,13 +82,13 @@
 
 ## 関連項目
 
-  - [日本商工会議所](https://ja.wikipedia.org/wiki/日本商工会議所 "wikilink")
-  - [パソコン検定](https://ja.wikipedia.org/wiki/パソコン検定 "wikilink")
+  - [日本商工会議所](../Page/日本商工会議所.md "wikilink")
+  - [パソコン検定](../Page/パソコン検定.md "wikilink")
   - [日本のビジネススキルに関する資格一覧](https://ja.wikipedia.org/wiki/日本のビジネススキルに関する資格一覧 "wikilink")
   - [ITパスポート試験](https://ja.wikipedia.org/wiki/ITパスポート試験 "wikilink")
   - [情報検定](../Page/情報検定.md "wikilink")（J検）
-  - [ICTプロフィシエンシー検定試験](https://ja.wikipedia.org/wiki/ICTプロフィシエンシー検定試験 "wikilink")（P検）
-  - [Microsoft Office Specialist](https://ja.wikipedia.org/wiki/Microsoft_Office_Specialist "wikilink")（MOS）
+  - [ICTプロフィシエンシー検定試験](../Page/ICTプロフィシエンシー検定試験.md "wikilink")（P検）
+  - [Microsoft Office Specialist](../Page/Microsoft_Office_Specialist.md "wikilink")（MOS）
 
 ## 脚注
 

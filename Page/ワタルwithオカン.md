@@ -42,7 +42,7 @@
   - [ザ・ワイド](../Page/ザ・ワイド.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[読売テレビ](../Page/讀賣テレビ放送.md "wikilink"))
   - [ごきげん\!ブランニュ](../Page/ごきげん!ブランニュ.md "wikilink")([朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink"))　※オカンのみ
   - [FNNスーパーニュースアンカー](../Page/FNNスーパーニュースアンカー.md "wikilink")([関西テレビ](../Page/関西テレビ放送.md "wikilink"))
-  - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
+  - [スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
   - [スーパーニュース](../Page/FNNスーパーニュース.md "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
   - [VOICE](../Page/VOICE_\(ニュース番組\).md "wikilink")([毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink"))
   - [爆感\!グラビア帝国](../Page/爆感!グラビア帝国.md "wikilink")([テレビ大阪](../Page/テレビ大阪.md "wikilink"))

@@ -1,20 +1,20 @@
-> この記事は[FreeBSD](https://ja.wikipedia.org/wiki/FreeBSD)から翻訳されています。
+> この記事は[FreeBSDディストリビューション](https://ja.wikipedia.org/wiki/FreeBSDディストリビューション)から翻訳されています。
 
 
 **FreeBSDディストリビューション**（フリービーエスディーディストリビューション）は、[FreeBSD](../Page/FreeBSD.md "wikilink")をベースとして、カスタマイズされたシステムを配布しているもの。[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")と似たようなものだが、Linuxはカーネルのみであるため、普通はLinuxを使う際にはディストリビューションを利用する。これに対し、FreeBSDはいわゆるベースシステムと呼ばれている環境を最初から含んでおり、portsというアプリケーションを取り込むシステムも標準で存在するため、FreeBSDディストリビューションは、それらでは足りない何らかの目的をもって作られている。
 
 ## デスクトップ環境
 
-  - [DesktopBSD](https://ja.wikipedia.org/wiki/DesktopBSD "wikilink") - [ウェブサイト](http://www.desktopbsd.net/)
-  - [TrueOS](https://ja.wikipedia.org/wiki/TrueOS "wikilink")（旧PC-BSD）- \[[https://www.trueos.org/\]/](https://www.trueos.org/%5D/) [旧PC-BSD ウェブサイト](http://www.pcbsd.org/)
-  - [GhostBSD](https://ja.wikipedia.org/wiki/GhostBSD "wikilink") - [ウェブサイト](http://www.ghostbsd.org/)
+  - [DesktopBSD](../Page/DesktopBSD.md "wikilink") - [ウェブサイト](http://www.desktopbsd.net/)
+  - [TrueOS](../Page/TrueOS.md "wikilink")（旧PC-BSD）- \[[https://www.trueos.org/\]/](https://www.trueos.org/%5D/) [旧PC-BSD ウェブサイト](http://www.pcbsd.org/)
+  - [GhostBSD](../Page/GhostBSD.md "wikilink") - [ウェブサイト](http://www.ghostbsd.org/)
   - [NextBSD](https://ja.wikipedia.org/wiki/NextBSD "wikilink")
   - [HardendBSD](https://ja.wikipedia.org/wiki/HardendBSD "wikilink")
 
 ## Live CD
 
   - [evoke](https://ja.wikipedia.org/wiki/evoke "wikilink")（旧名:Damn Small BSD） - [ウェブサイト](http://code.google.com/p/evoke/)
-  - [FreeSBIE](https://ja.wikipedia.org/wiki/FreeSBIE "wikilink") - [ウェブサイト](http://www.freesbie.org/)
+  - [FreeSBIE](../Page/FreeSBIE.md "wikilink") - [ウェブサイト](http://www.freesbie.org/)
   - Frenzy - [ウェブサイト](http://frenzy.org.ua/en/)
   - [HamFreeSBIE](https://ja.wikipedia.org/wiki/HamFreeSBIE "wikilink") - [ウェブサイト](http://www.db.net/hamfreesbie/HamFreeSBIE.html)
   - [RoFreeSBIE](https://ja.wikipedia.org/wiki/RoFreeSBIE "wikilink") - [ウェブサイト](http://www.rofreesbie.org/)

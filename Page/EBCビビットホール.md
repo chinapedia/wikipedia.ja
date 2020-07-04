@@ -31,7 +31,7 @@
 
 ## 交通
 
-  - [伊予鉄道](../Page/伊予鉄道.md "wikilink")[松山市駅](https://ja.wikipedia.org/wiki/松山市駅 "wikilink")南口、または[土橋駅より](https://ja.wikipedia.org/wiki/土橋駅_\(愛媛県\) "wikilink")、徒歩約8～9分。
+  - [伊予鉄道](../Page/伊予鉄道.md "wikilink")[松山市駅](https://ja.wikipedia.org/wiki/松山市駅 "wikilink")南口、または[土橋駅より](../Page/土橋駅_\(愛媛県\).md "wikilink")、徒歩約8～9分。
   - 伊予鉄バス、雄郡小学校東門前より徒歩1分。
 
 ## 備考

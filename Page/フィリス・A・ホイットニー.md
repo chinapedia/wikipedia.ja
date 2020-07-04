@@ -1,15 +1,15 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[フィリス・A・ホイットニー](https://ja.wikipedia.org/wiki/フィリス・A・ホイットニー)から翻訳されています。
 
 
-**フィリス・アヤメ・ホイットニー**（、[1903年](../Page/1903年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[推理作家](../Page/推理作家.md "wikilink")。その分野としては珍しく、子供向けと大人向け双方の[推理小説](../Page/推理小説.md "wikilink")作品を執筆しており、その多くが異国の地を舞台としている。かつて[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/ニューヨーク・タイムズ "wikilink")紙の評論で「アメリカン・ゴシックの女王」という異名を与えられたことがある。
+**フィリス・アヤメ・ホイットニー**（、[1903年](../Page/1903年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月8日](../Page/2月8日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[推理作家](../Page/推理作家.md "wikilink")。その分野としては珍しく、子供向けと大人向け双方の[推理小説](../Page/推理小説.md "wikilink")作品を執筆しており、その多くが異国の地を舞台としている。かつて[ニューヨーク・タイムズ](../Page/ニューヨーク・タイムズ.md "wikilink")紙の評論で「アメリカン・ゴシックの女王」という異名を与えられたことがある。
 
 ## 生涯
 
-[1903年](../Page/1903年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[横浜でアメリカ人の両親の間に生まれた](../Page/横浜市.md "wikilink")。ミドルネームの「アヤメ」は日本語に由来する。幼少期を[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")で過ごした。
+[1903年](../Page/1903年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[横浜でアメリカ人の両親の間に生まれた](../Page/横浜市.md "wikilink")。ミドルネームの「アヤメ」は日本語に由来する。幼少期を[アジア](../Page/アジア.md "wikilink")で過ごした。
 
 彼女は生涯に70冊以上の小説を執筆した。1961年、『のろわれた沼の秘密』（*The Mystery of the Haunted Pool*）が[エドガー賞 ジュブナイル賞を受賞し](https://ja.wikipedia.org/wiki/アメリカ探偵作家クラブ#エドガー賞 "wikilink")、さらに1964年には『*The Mystery of the Hidden Hand*』が再び同賞を受賞した。1988年、エドガー賞の選考を行うアメリカ探偵作家クラブは彼女の生涯にわたる功績を称え、[巨匠賞を贈呈している](https://ja.wikipedia.org/wiki/アメリカ探偵作家クラブ#名誉賞・功労賞等 "wikilink")。また、1990年には[アガサ賞](https://ja.wikipedia.org/wiki/アガサ賞 "wikilink")生涯功労賞も受賞している。
 
-2008年2月8日、[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")のためアメリカ合衆国[バージニア州](../Page/バージニア州.md "wikilink")[ネルソン郡で逝去した](https://ja.wikipedia.org/wiki/ネルソン郡_\(バージニア州\) "wikilink")。104歳の[長寿](https://ja.wikipedia.org/wiki/長寿 "wikilink")であった。
+2008年2月8日、[肺炎](https://ja.wikipedia.org/wiki/肺炎 "wikilink")のためアメリカ合衆国[バージニア州](../Page/バージニア州.md "wikilink")[ネルソン郡で逝去した](https://ja.wikipedia.org/wiki/ネルソン郡_\(バージニア州\) "wikilink")。104歳の[長寿](../Page/長寿.md "wikilink")であった。
 
 ## 主な作品
 

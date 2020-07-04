@@ -1,7 +1,7 @@
 > この記事は[THE ALFEE THE BEST](https://ja.wikipedia.org/wiki/THE_ALFEE_THE_BEST)から翻訳されています。
 
 
-『**THE ALFEE THE BEST**』（ジ・アルフィー ザ・ベスト）は、[1991年](../Page/1991年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に発売された[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")2枚組[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+『**THE ALFEE THE BEST**』（ジ・アルフィー ザ・ベスト）は、[1991年](../Page/1991年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に発売された[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")2枚組[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 収録曲
 
@@ -9,8 +9,8 @@
 
 1.  **[メリーアン](../Page/メリーアン_\(曲\).md "wikilink")**
       -
-        作詞：[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")・[高橋研](https://ja.wikipedia.org/wiki/高橋研 "wikilink")/作曲：高見沢俊彦/編曲：ALFEE
-        『[ALFEE'S LAW](https://ja.wikipedia.org/wiki/ALFEE'S_LAW "wikilink")』に収録されたバージョン。
+        作詞：[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")・[高橋研](../Page/高橋研.md "wikilink")/作曲：高見沢俊彦/編曲：ALFEE
+        『[ALFEE'S LAW](../Page/ALFEE'S_LAW.md "wikilink")』に収録されたバージョン。
 2.  **[星空のディスタンス (new take)](../Page/星空のディスタンス.md "wikilink")**
       -
         作詞：高見沢俊彦・高橋研/作曲：高見沢俊彦/編曲：ALFEE
@@ -20,7 +20,7 @@
         作詞：高見沢俊彦・高橋研/作曲：高見沢俊彦/編曲：ALFEE
 4.  **[FLOWER REVOLUTION](../Page/FLOWER_REVOLUTION.md "wikilink")**
       -
-        作詞・作曲：高見沢俊彦/編曲：THE ALFEE with [武部聡志](https://ja.wikipedia.org/wiki/武部聡志 "wikilink")
+        作詞・作曲：高見沢俊彦/編曲：THE ALFEE with [武部聡志](../Page/武部聡志.md "wikilink")
 5.  **[サファイアの瞳](../Page/サファイアの瞳.md "wikilink")**
       -
         作詞・作曲：高見沢俊彦/編曲：THE ALFEE

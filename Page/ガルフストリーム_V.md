@@ -9,7 +9,7 @@
 
 航続性能は非常に優秀であり、最大航続距離は10,000km以上に達する。そのため、交代乗員用の設備も備えている。
 
-優秀な航続性能のため、民間向けVIP輸送機としてのみならず、政府機関においても重用され、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では**C-37A**として陸海空海兵4軍のみならず[アメリカ沿岸警備隊](../Page/アメリカ沿岸警備隊.md "wikilink")や[FEMA](https://ja.wikipedia.org/wiki/FEMA "wikilink")などでもVIP輸送機として運用されている。日本の[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")では2機を採用し、捜索機「うみわし」\[1\]として用いられている。 {{-}}
+優秀な航続性能のため、民間向けVIP輸送機としてのみならず、政府機関においても重用され、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")では**C-37A**として陸海空海兵4軍のみならず[アメリカ沿岸警備隊](../Page/アメリカ沿岸警備隊.md "wikilink")や[FEMA](https://ja.wikipedia.org/wiki/FEMA "wikilink")などでもVIP輸送機として運用されている。日本の[海上保安庁](../Page/海上保安庁.md "wikilink")では2機を採用し、捜索機「うみわし」\[1\]として用いられている。 {{-}}
 
 ## 採用国(軍/政府機関)
 
@@ -36,7 +36,7 @@
 ## 登場作品
 
   - 『[BRAVE HEARTS 海猿](https://ja.wikipedia.org/wiki/海猿#映画4作目 "wikilink")』
-    [海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")所属機「LAJ501 うみわし2号」が登場。[大阪湾](../Page/大阪湾.md "wikilink")で[タンカー](../Page/タンカー.md "wikilink")と[コンテナ船](../Page/コンテナ船.md "wikilink")が衝突する[海難事故](../Page/海難事故.md "wikilink")が発生したことを受け、現場近くの航空基地まで[特殊救難隊を](../Page/第三管区海上保安本部羽田特殊救難基地.md "wikilink")[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")する。
+    [海上保安庁](../Page/海上保安庁.md "wikilink")所属機「LAJ501 うみわし2号」が登場。[大阪湾](../Page/大阪湾.md "wikilink")で[タンカー](../Page/タンカー.md "wikilink")と[コンテナ船](../Page/コンテナ船.md "wikilink")が衝突する[海難事故](../Page/海難事故.md "wikilink")が発生したことを受け、現場近くの航空基地まで[特殊救難隊を](../Page/第三管区海上保安本部羽田特殊救難基地.md "wikilink")[輸送](https://ja.wikipedia.org/wiki/輸送 "wikilink")する。
 
 ## 関連項目
 

@@ -1,15 +1,15 @@
-> この記事は[WALK \(CHAGE and ASKA\)](https://ja.wikipedia.org/wiki/WALK_\(CHAGE_and_ASKA\))から翻訳されています。
+> この記事は[WALK \(CHAGE and ASKAの曲\)](https://ja.wikipedia.org/wiki/WALK_\(CHAGE_and_ASKAの曲\))から翻訳されています。
 
 
-「**WALK**」（ウォーク）は、[CHAGE\&ASUKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の23枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+「**WALK**」（ウォーク）は、[CHAGE\&ASUKA](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の楽曲。自身の23作目の[シングル](../Page/シングル.md "wikilink")として、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から[1989年](../Page/1989年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売された。
 
-本作と次作「[LOVE SONG](https://ja.wikipedia.org/wiki/LOVE_SONG_\(CHAGE_and_ASKAの曲\) "wikilink")」は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")にCHAGE\&ASKA名義で再発売された。
+本作と次作「[LOVE SONG](../Page/LOVE_SONG_\(CHAGE_and_ASKAの曲\).md "wikilink")」は、[1992年](../Page/1992年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")にCHAGE\&ASKA名義で再発売されている。
 
 ## 解説
 
 1989年に発売されたシングルは、アルバム『[PRIDE](https://ja.wikipedia.org/wiki/PRIDE_\(CHAGE_and_ASKAのアルバム\) "wikilink")』に収録されている。
 
-1992年には[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink")』発売日に「**[LOVE SONG](https://ja.wikipedia.org/wiki/LOVE_SONG_\(CHAGE_and_ASKAの曲\)#1992年盤 "wikilink")**」とともに再発売された。
+1992年には[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[SUPER BEST II](../Page/SUPER_BEST_II.md "wikilink")』発売日に「**[LOVE SONG](https://ja.wikipedia.org/wiki/LOVE_SONG_\(CHAGE_and_ASKAの曲\)#1992年盤 "wikilink")**」とともに再発売された。
 
 オリジナル盤と再発売盤では収録曲は変わっていないが、ジャケットのアーティスト表記が「**CHAGE\&ASUKA C and A**」から「**CHAGE AND ASKA**」に変わっている。
 
@@ -18,13 +18,13 @@
 1.  **WALK**
     （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：飛鳥涼・BLACK EYES）
       -
-        [SUBARU](../Page/SUBARU_\(自動車\).md "wikilink") 「[VIVIO](../Page/スバル・ヴィヴィオ.md "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")\[1\]。
+        [SUBARU](../Page/SUBARU_\(自動車\).md "wikilink") 「[VIVIO](../Page/スバル・ヴィヴィオ.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")\[1\]。
         ASKAは、この頃から流行りものを狙うことから離れ、ヒットを目指すのではなく自分の音楽を追求する楽曲制作に変わっていく。「自分たちにとって『WALK』はとても必要な曲だった」としている。元々はアップテンポな楽曲にするつもりだったという。
-        CHAGEは、1999年に出演した[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")』のトークで、ASKAが書いた曲の中でこの曲が一番好きだと話している。
-        [PVでは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、2人の背景に開通前の[横浜ベイブリッジ](https://ja.wikipedia.org/wiki/横浜ベイブリッジ "wikilink")が映っている場面がある。
-        2002年に発売された[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")・アルバム『[STAMP](https://ja.wikipedia.org/wiki/STAMP_\(CHAGE_and_ASKAのアルバム\) "wikilink")』にも収録されている。
+        CHAGEは、1999年に出演した[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[FUN](../Page/FUN.md "wikilink")』のトークで、ASKAが書いた曲の中でこの曲が一番好きだと話している。
+        [PVでは](../Page/ミュージック・ビデオ.md "wikilink")、2人の背景に開通前の[横浜ベイブリッジ](https://ja.wikipedia.org/wiki/横浜ベイブリッジ "wikilink")が映っている場面がある。
+        2002年に発売された[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバム『[STAMP](https://ja.wikipedia.org/wiki/STAMP_\(CHAGE_and_ASKAのアルバム\) "wikilink")』にも収録されている。
 2.  **抱いたメモリー -as time goes by-**
-    （作詞：[澤地隆](https://ja.wikipedia.org/wiki/澤地隆 "wikilink")　作曲：[CHAGE](https://ja.wikipedia.org/wiki/Chage "wikilink")　編曲：[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")）
+    （作詞：[澤地隆](https://ja.wikipedia.org/wiki/澤地隆 "wikilink")　作曲：[CHAGE](../Page/Chage.md "wikilink")　編曲：[村上啓介](../Page/村上啓介.md "wikilink")）
       -
         アルバム未収録作品。
 3.  **WALK （オリジナル・カラオケ）**
@@ -36,11 +36,11 @@
   - CHAGE：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - ASKA：ボーカル、コーラス
   - [菅沼孝三](../Page/菅沼孝三.md "wikilink")：[ドラムス](../Page/ドラムセット.md "wikilink")
-  - [恵美直也](https://ja.wikipedia.org/wiki/恵美直也 "wikilink")：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
-  - 澤近泰輔：[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")
+  - [恵美直也](https://ja.wikipedia.org/wiki/恵美直也 "wikilink")：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - 澤近泰輔：[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [十川知司](../Page/十川ともじ.md "wikilink")：キーボード
   - 近藤敬三：[ギター](../Page/ギター.md "wikilink")
-  - [村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")：ギター
+  - [村上啓介](../Page/村上啓介.md "wikilink")：ギター
 
 ## 収録アルバム
 
@@ -69,7 +69,7 @@
 
 <!-- end list -->
 
-  - [ウェンディ・マシューズ](https://ja.wikipedia.org/wiki/ウェンディ・マシューズ "wikilink")（[Wendy Matthews](https://ja.wikipedia.org/wiki/:en:Wendy_Matthews "wikilink")） （1996年、[トリビュート・アルバム](https://ja.wikipedia.org/wiki/トリビュート・アルバム "wikilink")『[one voice THE SONGS OF CHAGE\&ASKA](https://ja.wikipedia.org/wiki/one_voice_THE_SONGS_OF_CHAGE&ASKA "wikilink")』）
+  - [ウェンディ・マシューズ](https://ja.wikipedia.org/wiki/ウェンディ・マシューズ "wikilink")（[Wendy Matthews](https://ja.wikipedia.org/wiki/:en:Wendy_Matthews "wikilink")） （1996年、[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[one voice THE SONGS OF CHAGE\&ASKA](https://ja.wikipedia.org/wiki/one_voice_THE_SONGS_OF_CHAGE&ASKA "wikilink")』）
 
 ## 脚注
 

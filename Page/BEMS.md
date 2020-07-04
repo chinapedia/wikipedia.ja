@@ -9,9 +9,9 @@
 
 類義語に**BEEMS**（Building Environment and Energy Management System）や**[HEMS](https://ja.wikipedia.org/wiki/HEMS "wikilink")**（Home Energy Management system）がある。
 
-BEMSを構成する古典的な技術としては、[Modbus](https://ja.wikipedia.org/wiki/Modbus "wikilink")、[Lonworks](https://ja.wikipedia.org/wiki/Lonworks "wikilink")、[BACnet](https://ja.wikipedia.org/wiki/BACnet "wikilink")などがある。また、次世代型の（クラウド的な）BEMSを構成する標準技術として[IEEE1888](https://ja.wikipedia.org/wiki/IEEE1888 "wikilink")がある。
+BEMSを構成する古典的な技術としては、[Modbus](https://ja.wikipedia.org/wiki/Modbus "wikilink")、[Lonworks](https://ja.wikipedia.org/wiki/Lonworks "wikilink")、[BACnet](../Page/BACnet.md "wikilink")などがある。また、次世代型の（クラウド的な）BEMSを構成する標準技術として[IEEE1888](https://ja.wikipedia.org/wiki/IEEE1888 "wikilink")がある。
 
-建物の設計段階での環境配慮が[CASBEE](../Page/CASBEE.md "wikilink")ならば、BEMSは運用面での配慮を目指すものである。室内環境を人感センサーや自動調光などで自動管理する場合や、機器設備・配管等の温度・[流量](https://ja.wikipedia.org/wiki/流量 "wikilink")・圧力などのデータを収集して、運転管理者に対して評価を表示させるなど様々なシステムが存在する。
+建物の設計段階での環境配慮が[CASBEE](../Page/CASBEE.md "wikilink")ならば、BEMSは運用面での配慮を目指すものである。室内環境を人感センサーや自動調光などで自動管理する場合や、機器設備・配管等の温度・[流量](../Page/流量.md "wikilink")・圧力などのデータを収集して、運転管理者に対して評価を表示させるなど様々なシステムが存在する。
 
 ## 現状
 
@@ -19,7 +19,7 @@ BEMSを構成する古典的な技術としては、[Modbus](https://ja.wikipedi
 
 ## BEMSアグリゲータ
 
-**[BEMSアグリゲータ](https://ja.wikipedia.org/wiki/BEMSアグリゲータ "wikilink")**とは、[経済産業省](../Page/経済産業省.md "wikilink")の[補助事業](https://ja.wikipedia.org/wiki/補助金 "wikilink")「エネルギー管理システム導入促進事業」において、中小ビル等にBEMSを導入するとともに、[クラウド等によって自ら集中管理システムを設置し](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、中小ビル等の省エネを管理・支援する事業者のことをいう。
+**[BEMSアグリゲータ](https://ja.wikipedia.org/wiki/BEMSアグリゲータ "wikilink")**とは、[経済産業省](../Page/経済産業省.md "wikilink")の[補助事業](../Page/補助金.md "wikilink")「エネルギー管理システム導入促進事業」において、中小ビル等にBEMSを導入するとともに、[クラウド等によって自ら集中管理システムを設置し](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")、中小ビル等の省エネを管理・支援する事業者のことをいう。
 
 2013年9月に、本補助事業の予算が[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の復興予算を流用したものであることが報道され、事業が打ち切られることとなった。詳しくは、記事「[BEMSアグリゲータ](https://ja.wikipedia.org/wiki/BEMSアグリゲータ "wikilink")」を参照のこと。
 
@@ -29,8 +29,8 @@ BEMSを構成する古典的な技術としては、[Modbus](https://ja.wikipedi
 
 ## 関連
 
-  - [省エネルギー](https://ja.wikipedia.org/wiki/省エネルギー "wikilink")
-  - [見える化](https://ja.wikipedia.org/wiki/見える化 "wikilink")
+  - [省エネルギー](../Page/省エネルギー.md "wikilink")
+  - [見える化](../Page/見える化.md "wikilink")
   - [BEMSアグリゲータ](https://ja.wikipedia.org/wiki/BEMSアグリゲータ "wikilink")
   - [HEMS](https://ja.wikipedia.org/wiki/スマートグリッド#HEMS "wikilink")（家庭内エネルギー管理システム）
 

@@ -1,7 +1,7 @@
 > この記事は[Radio Magic NEXT](https://ja.wikipedia.org/wiki/Radio_Magic_NEXT)から翻訳されています。
 
 
-**Radio Magic NEXT**（レディオマジックネクスト）は、[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")で、[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていたラジオ番組。放送時間は、毎週土曜日の24:00-29:00（JST）。あまりにも個性的なパーソナリティによって展開されるその内容は、クラシック音楽や、プロレス、オカルト、詩など様々なジャンルに関わるもので、いずれもパーソナリティの個性を生かしたものである。全国に存在するリスナーはメールやＦＡＸで番組に参加することが可能で、番組を通して日本全国で時間を共有できるのも特徴の一つである。
+**Radio Magic NEXT**（レディオマジックネクスト）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で、[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていたラジオ番組。放送時間は、毎週土曜日の24:00-29:00（JST）。あまりにも個性的なパーソナリティによって展開されるその内容は、クラシック音楽や、プロレス、オカルト、詩など様々なジャンルに関わるもので、いずれもパーソナリティの個性を生かしたものである。全国に存在するリスナーはメールやＦＡＸで番組に参加することが可能で、番組を通して日本全国で時間を共有できるのも特徴の一つである。
 
 ## 概要
 
@@ -122,6 +122,6 @@
 ## 外部リンク
 
   - [Radio Magic NEXT](http://www.musicbird.jp/channels/communitychannel/regular.html#radio_magic_next)
-  - [公式ブログ](http://ameblo.jp/rmnext)
+  - [公式ブログ](https://ameblo.jp/rmnext)
 
 [Category:ミュージックバードのラジオ番組](https://ja.wikipedia.org/wiki/Category:ミュージックバードのラジオ番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")

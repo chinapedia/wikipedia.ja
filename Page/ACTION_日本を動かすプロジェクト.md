@@ -54,7 +54,7 @@
 
   - [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（第1部・第2部のみネット、18:05からはミニ番組・18:16からは「[RABニュースレーダー](../Page/RABニュースレーダー.md "wikilink")」）
   - [テレビ岩手](../Page/テレビ岩手.md "wikilink")（第1部・第3部のみネット、第2部の時間帯は「[5きげんテレビ](../Page/5きげんテレビ.md "wikilink")」）
-  - [秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")（第2部・第3部のみネット）
+  - [秋田放送](../Page/秋田放送.md "wikilink")（第2部・第3部のみネット）
   - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（第2部のみネット、18:05からは「[フォーカス徳島](../Page/フォーカス徳島.md "wikilink")」）
   - [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")（第2部・第3部のみネット）
 

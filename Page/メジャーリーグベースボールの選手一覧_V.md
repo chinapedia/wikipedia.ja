@@ -1807,7 +1807,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jose_Vizcaino" title="wikilink">Jose Vizcaino</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・ビスカイーノ" title="wikilink">ホセ・ビスカイーノ</a></p></td>
+<td><p><a href="../Page/ホセ・ビスカイーノ.md" title="wikilink">ホセ・ビスカイーノ</a></p></td>
 <td><p>1989</p></td>
 <td><p>2006</p></td>
 <td></td>

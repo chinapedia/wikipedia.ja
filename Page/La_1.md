@@ -1,7 +1,7 @@
 > この記事は[La 1](https://ja.wikipedia.org/wiki/La_1)から翻訳されています。
 
 
-**La 1**（La una、ラ・ウナ）は[テレビシオン・エスパニョーラ](https://ja.wikipedia.org/wiki/テレビシオン・エスパニョーラ "wikilink")の主要チャンネル。
+**La 1**（La una、ラ・ウナ）は[テレビシオン・エスパニョーラ](../Page/テレビシオン・エスパニョーラ.md "wikilink")の主要チャンネル。
 
 ## 概要
 

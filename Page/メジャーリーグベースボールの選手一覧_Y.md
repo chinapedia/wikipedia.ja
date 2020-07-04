@@ -1,4 +1,4 @@
-> この記事は[ Y](https://ja.wikipedia.org/wiki/_Y)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 Y](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_Y)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**Y**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -32,7 +32,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Yasuhiko_Yabuta" title="wikilink">Yasuhiko Yabuta</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/薮田安彦" title="wikilink">薮田安彦</a></p></td>
+<td><p><a href="../Page/薮田安彦.md" title="wikilink">薮田安彦</a></p></td>
 <td><p>2008</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ed_Yarnall" title="wikilink">Ed Yarnall</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エド・ヤーナル" title="wikilink">エド・ヤーナル</a></p></td>
+<td><p><a href="../Page/エド・ヤーナル.md" title="wikilink">エド・ヤーナル</a></p></td>
 <td><p>1999</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -137,7 +137,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carl_Yastrzemski" title="wikilink">Carl Yastrzemski</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カール・ヤストレムスキー" title="wikilink">カール・ヤストレムスキー</a></p></td>
+<td><p><a href="../Page/カール・ヤストレムスキー.md" title="wikilink">カール・ヤストレムスキー</a></p></td>
 <td><p>1961</p></td>
 <td><p>1983</p></td>
 <td><p>殿堂入り</p></td>
@@ -479,7 +479,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Masato_Yoshii" title="wikilink">Masato Yoshii</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉井理人" title="wikilink">吉井理人</a></p></td>
+<td><p><a href="../Page/吉井理人.md" title="wikilink">吉井理人</a></p></td>
 <td><p>1998</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -514,7 +514,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Youkilis" title="wikilink">Kevin Youkilis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・ユーキリス" title="wikilink">ケビン・ユーキリス</a></p></td>
+<td><p><a href="../Page/ケビン・ユーキリス.md" title="wikilink">ケビン・ユーキリス</a></p></td>
 <td><p>2004</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -535,7 +535,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Alex_Young_(baseball)" title="wikilink">Alex Young</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アレックス・ヤング_(野球)" title="wikilink">アレックス・ヤング</a></p></td>
+<td><p><a href="../Page/アレックス・ヤング_(野球).md" title="wikilink">アレックス・ヤング</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -626,7 +626,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Delmon_Young" title="wikilink">Delmon Young</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デルモン・ヤング" title="wikilink">デルモン・ヤング</a></p></td>
+<td><p><a href="../Page/デルモン・ヤング.md" title="wikilink">デルモン・ヤング</a></p></td>
 <td><p>2006</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -647,7 +647,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dmitri_Young" title="wikilink">Dmitri Young</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドミトリー・ヤング" title="wikilink">ドミトリー・ヤング</a></p></td>
+<td><p><a href="../Page/ドミトリー・ヤング.md" title="wikilink">ドミトリー・ヤング</a></p></td>
 <td><p>1996</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -738,7 +738,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Young_(baseball)" title="wikilink">Kevin Young</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・ヤング_(野球)" title="wikilink">ケビン・ヤング</a></p></td>
+<td><p><a href="../Page/ケビン・ヤング_(野球).md" title="wikilink">ケビン・ヤング</a></p></td>
 <td><p>1992</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -766,14 +766,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Michael_Young_(baseball)" title="wikilink">Michael Young</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル・ヤング_(内野手)" title="wikilink">マイケル・ヤング</a></p></td>
+<td><p><a href="../Page/マイケル・ヤング_(内野手).md" title="wikilink">マイケル・ヤング</a></p></td>
 <td><p>2000</p></td>
 <td><p>2013</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Young_(baseball)" title="wikilink">Mike Young</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・ヤング_(外野手)" title="wikilink">マイク・ヤング</a></p></td>
+<td><p><a href="../Page/マイク・ヤング_(外野手).md" title="wikilink">マイク・ヤング</a></p></td>
 <td><p>1982</p></td>
 <td><p>1989</p></td>
 <td></td>

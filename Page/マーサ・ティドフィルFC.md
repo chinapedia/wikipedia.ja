@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[マーサ・ティドフィルFC](https://ja.wikipedia.org/wiki/マーサ・ティドフィルFC)から翻訳されています。
 
 
 **マーサ・ティドフィル・フットボールクラブ**（）は、[ウェールズ](../Page/ウェールズ.md "wikilink")の都市[マーサー・ティドビル](https://ja.wikipedia.org/wiki/マーサー・ティドビル "wikilink")を本拠地として活動していたサッカークラブである。2010年に解散。
@@ -7,7 +7,7 @@
 
 **一試合最多観客動員数**
 
-  - 21,000人 vs [レディング](https://ja.wikipedia.org/wiki/レディングFC "wikilink") [FAカップ](../Page/FAカップ.md "wikilink")2回戦 1946
+  - 21,000人 vs [レディング](../Page/レディングFC.md "wikilink") [FAカップ](../Page/FAカップ.md "wikilink")2回戦 1946
 
 ## タイトル
 
@@ -22,11 +22,11 @@
 
 ## 歴代監督
 
-  - [ジョン・チャールズ](https://ja.wikipedia.org/wiki/ジョン・チャールズ "wikilink") 1972-1974
+  - [ジョン・チャールズ](../Page/ジョン・チャールズ.md "wikilink") 1972-1974
 
 ## 歴代所属選手
 
-  - [ジョン・チャールズ](https://ja.wikipedia.org/wiki/ジョン・チャールズ "wikilink")
+  - [ジョン・チャールズ](../Page/ジョン・チャールズ.md "wikilink")
 
 ## 外部リンク
 

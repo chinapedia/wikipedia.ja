@@ -25,7 +25,7 @@
       - 作詞: [富田京子](../Page/富田京子.md "wikilink")、作曲: [奥居香](https://ja.wikipedia.org/wiki/奥居香 "wikilink")、原曲歌唱: [プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")
       - [ブルースハープから始まるミディアム](../Page/ハーモニカ.md "wikilink")・テンポのブルース風。
 2.  **ケンとメリー 愛と風のように** 〜料理長のお任せ仕込み（4:14）
-      - 作詞: [高橋信之](../Page/高橋信之_\(音楽プロデューサー\).md "wikilink")・山中弘光、作曲: 高橋信之、原曲歌唱: [BUZZ](https://ja.wikipedia.org/wiki/バズ_\(バンド\) "wikilink")
+      - 作詞: [高橋信之](../Page/高橋信之_\(音楽プロデューサー\).md "wikilink")・山中弘光、作曲: 高橋信之、原曲歌唱: [BUZZ](../Page/バズ_\(バンド\).md "wikilink")
 3.  **SWEET MEMORIES** 〜声の[ミルフィーユ](../Page/ミルフィーユ.md "wikilink")仕立て（3:09）
       - 作詞: [松本隆](../Page/松本隆.md "wikilink")、作曲: [大村雅朗](../Page/大村雅朗.md "wikilink")、原曲歌唱: [松田聖子](../Page/松田聖子.md "wikilink")
       - [ア・カペラ](../Page/ア・カペラ.md "wikilink")による[コーラスをバックに伴奏楽器無しで仕上げた作品](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。

@@ -65,6 +65,6 @@
 
 ## 外部リンク
 
-  - [CREATORS](http://www.fujitv.co.jp/b_hp/creators/) - フジテレビ
+  - [CREATORS](https://www.fujitv.co.jp/b_hp/creators/) - フジテレビ
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのミニ番組 "wikilink") [Category:フジテレビのローカル番組](https://ja.wikipedia.org/wiki/Category:フジテレビのローカル番組 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:ソニー・エリクソン](https://ja.wikipedia.org/wiki/Category:ソニー・エリクソン "wikilink")

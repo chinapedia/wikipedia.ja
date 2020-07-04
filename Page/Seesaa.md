@@ -46,7 +46,7 @@
   - [BoomApp (ブームアップ） － ホームページ](https://game.boom-app.com/)
   - [VR Games：VRゲーム総合情報サイト － ホームページ](http://vr.boom-app.com/)
 
-[Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:ブログサービス](https://ja.wikipedia.org/wiki/Category:ブログサービス "wikilink") [Category:アプリケーションソフト](https://ja.wikipedia.org/wiki/Category:アプリケーションソフト "wikilink") [Category:2003年設立の企業](https://ja.wikipedia.org/wiki/Category:2003年設立の企業 "wikilink")
+[Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:ブログサービス](https://ja.wikipedia.org/wiki/Category:ブログサービス "wikilink") [Category:日本のソフトウェア会社](https://ja.wikipedia.org/wiki/Category:日本のソフトウェア会社 "wikilink") [Category:アプリ開発会社](https://ja.wikipedia.org/wiki/Category:アプリ開発会社 "wikilink") [Category:2003年設立の企業](https://ja.wikipedia.org/wiki/Category:2003年設立の企業 "wikilink")
 
 1.  <http://www.itmedia.co.jp/enterprise/articles/0801/29/news001_2.html>
 2.

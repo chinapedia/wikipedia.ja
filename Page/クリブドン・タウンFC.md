@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[クリブドン・タウンFC](https://ja.wikipedia.org/wiki/クリブドン・タウンFC)から翻訳されています。
 
 
 **クリブドン・タウン・フットボールクラブ**（**Clevedon Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[サマセット州](https://ja.wikipedia.org/wiki/サマセット州 "wikilink")、[ノース・サマセット](https://ja.wikipedia.org/wiki/ノース・サマセット "wikilink")、[クリブドン](https://ja.wikipedia.org/wiki/クリブドン "wikilink")を本拠地とするサッカークラブチームである。2010-2011シーズンは[サウザンプレミアフットボールリーグ・ディヴィジョン1・サウス&ウェスト](https://ja.wikipedia.org/wiki/サウザンプレミアフットボールリーグ・ディヴィジョン1・サウス&ウェスト "wikilink")（8部相当）に所属。

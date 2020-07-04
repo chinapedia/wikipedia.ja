@@ -3,7 +3,7 @@
 
 **WWE 2008 SmackDown vs Raw**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")を題材としたプロレスゲームである。対応機種は[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[Xbox 360で](../Page/Xbox_360.md "wikilink")、日本では2008年2月14日に発売された。
 
-WWEの監修のもと、WWEのテレビ放送である[SMACKDOWN\!](https://ja.wikipedia.org/wiki/スマックダウン "wikilink")、[RAW](https://ja.wikipedia.org/wiki/WWE・ロウ "wikilink")、[ECW](https://ja.wikipedia.org/wiki/ECW "wikilink")に所属する[スーパースター](https://ja.wikipedia.org/wiki/スーパースター "wikilink")が実名で登場する。
+WWEの監修のもと、WWEのテレビ放送である[SMACKDOWN\!](../Page/スマックダウン.md "wikilink")、[RAW](../Page/WWE・ロウ.md "wikilink")、[ECW](../Page/ECW.md "wikilink")に所属する[スーパースター](../Page/スーパースター.md "wikilink")が実名で登場する。
 
 ## システム
 
@@ -20,7 +20,7 @@ WWEの監修のもと、WWEのテレビ放送である[SMACKDOWN\!](https://ja.w
         大まかな設定ですぐに試合が開始できるモード。
   - EXHIBITION
       -
-        試合の形式、[ルール](https://ja.wikipedia.org/wiki/ルール "wikilink")、試合会場など細かく設定した上で試合を開始するモード。
+        試合の形式、[ルール](../Page/ルール.md "wikilink")、試合会場など細かく設定した上で試合を開始するモード。
   - GAME MODES
       - 24/7MODE
           -
@@ -59,24 +59,24 @@ WWEの監修のもと、WWEのテレビ放送である[SMACKDOWN\!](https://ja.w
 
 ## 試合形式
 
-通常のシングルマッチや[タッグマッチ](https://ja.wikipedia.org/wiki/タッグマッチ "wikilink")に加え、WWEで実際に行われているさまざまな試合形式を選択することが可能となっている。また、今作から新たに「ECWエクストリームマッチ」が選択可能となった。
+通常のシングルマッチや[タッグマッチ](../Page/タッグマッチ.md "wikilink")に加え、WWEで実際に行われているさまざまな試合形式を選択することが可能となっている。また、今作から新たに「ECWエクストリームマッチ」が選択可能となった。
 
 以下に選択可能な試合形式を示す。
 
   - [スチールケージマッチ](https://ja.wikipedia.org/wiki/デスマッチ#金網デスマッチ "wikilink")
   - [ハードコアマッチ](https://ja.wikipedia.org/wiki/ハードコアマッチ "wikilink")
-  - [ヘル・イン・ア・セル](https://ja.wikipedia.org/wiki/ヘル・イン・ア・セル "wikilink")
+  - [ヘル・イン・ア・セル](../Page/ヘル・イン・ア・セル.md "wikilink")
   - [ファースト・ブラッド・マッチ](https://ja.wikipedia.org/wiki/ファースト・ブラッド・マッチ "wikilink")
   - [テーブルマッチ](https://ja.wikipedia.org/wiki/テーブルマッチ "wikilink")
   - [ラダー・マッチ](https://ja.wikipedia.org/wiki/ラダー・マッチ "wikilink")
-  - [TLCマッチ](https://ja.wikipedia.org/wiki/TLC戦 "wikilink")
+  - [TLCマッチ](../Page/TLC戦.md "wikilink")
   - [バリード・アライブ・マッチ](https://ja.wikipedia.org/wiki/生き埋め戦 "wikilink")
-  - [マネー・イン・ザ・バンク・ラダー・マッチ](https://ja.wikipedia.org/wiki/マネー・イン・ザ・バンク・ラダー・マッチ "wikilink")
-  - [アイアンマン・マッチ](https://ja.wikipedia.org/wiki/アイアンマン・マッチ "wikilink")
-  - [ラストマン・スタンディング・マッチ](https://ja.wikipedia.org/wiki/ラストマン・スタンディング・マッチ "wikilink")
+  - [マネー・イン・ザ・バンク・ラダー・マッチ](../Page/マネー・イン・ザ・バンク・ラダー・マッチ.md "wikilink")
+  - [アイアンマン・マッチ](../Page/アイアンマン・マッチ.md "wikilink")
+  - [ラストマン・スタンディング・マッチ](../Page/ラストマン・スタンディング・マッチ.md "wikilink")
   - [バトルロイヤル](../Page/バトルロイヤル.md "wikilink")
-  - [ロイヤルランブル](https://ja.wikipedia.org/wiki/ロイヤルランブル "wikilink")
-  - [エリミネーション・チェンバー・マッチ](https://ja.wikipedia.org/wiki/エリミネーション・チェンバー・マッチ "wikilink")
+  - [ロイヤルランブル](../Page/ロイヤルランブル.md "wikilink")
+  - [エリミネーション・チェンバー・マッチ](../Page/エリミネーション・チェンバー・マッチ.md "wikilink")
   - ECWエクストリームマッチ
 
 ## 登場スーパースター
@@ -84,20 +84,20 @@ WWEの監修のもと、WWEのテレビ放送である[SMACKDOWN\!](https://ja.w
 ### RAW
 
   - [ボビー・ラシュリー](../Page/ボビー・ラシュリー.md "wikilink")
-  - [カリート](https://ja.wikipedia.org/wiki/カーリー・コロン "wikilink")
-  - [ジェフ・ハーディー](https://ja.wikipedia.org/wiki/ジェフ・ハーディー "wikilink")
-  - [ジョン・シナ](https://ja.wikipedia.org/wiki/ジョン・シナ "wikilink")
+  - [カリート](../Page/カーリー・コロン.md "wikilink")
+  - [ジェフ・ハーディー](../Page/ジェフ・ハーディー.md "wikilink")
+  - [ジョン・シナ](../Page/ジョン・シナ.md "wikilink")
   - [JTG](https://ja.wikipedia.org/wiki/ジェイソン・ポール "wikilink")
   - [キング・ブッカー](https://ja.wikipedia.org/wiki/ブッカー・ハフマン "wikilink")
-  - [Mr.ケネディ](https://ja.wikipedia.org/wiki/ケン・アンダーソン "wikilink")
-  - [ランディ・オートン](https://ja.wikipedia.org/wiki/ランディ・オートン "wikilink")
+  - [Mr.ケネディ](../Page/ケン・アンダーソン.md "wikilink")
+  - [ランディ・オートン](../Page/ランディ・オートン.md "wikilink")
   - [サンドマン](https://ja.wikipedia.org/wiki/ジェームズ・フォリントン "wikilink")
   - [シャド](https://ja.wikipedia.org/wiki/シャド・ガスパード "wikilink")
   - [ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")
-  - [スニツキー](https://ja.wikipedia.org/wiki/ジーン・スニツキー "wikilink")
-  - [トリプルH](https://ja.wikipedia.org/wiki/トリプルH "wikilink")
-  - [ウマガ](https://ja.wikipedia.org/wiki/エディ・ファトゥ "wikilink")
-  - [ウイリアム・リーガル](https://ja.wikipedia.org/wiki/ダレン・マシューズ "wikilink")
+  - [スニツキー](../Page/ジーン・スニツキー.md "wikilink")
+  - [トリプルH](../Page/トリプルH.md "wikilink")
+  - [ウマガ](../Page/エディ・ファトゥ.md "wikilink")
+  - [ウイリアム・リーガル](../Page/ダレン・マシューズ.md "wikilink")
   - [キャンディス・ミシェル](https://ja.wikipedia.org/wiki/キャンディス・ミシェル "wikilink") （ディーヴァ）
   - [メリーナ](https://ja.wikipedia.org/wiki/メリーナ・ペレス "wikilink") （ディーヴァ）
   - [ミッキー・ジェームス](https://ja.wikipedia.org/wiki/ミッキー・ジェームス "wikilink") （ディーヴァ）
@@ -105,49 +105,49 @@ WWEの監修のもと、WWEのテレビ放送である[SMACKDOWN\!](https://ja.w
 ### SMACKDOWN\!
 
   - [バティスタ](https://ja.wikipedia.org/wiki/デビッド・バウティスタ "wikilink")
-  - [チャボ・ゲレロ](https://ja.wikipedia.org/wiki/チャボ・ゲレロ・ジュニア "wikilink")
+  - [チャボ・ゲレロ](../Page/チャボ・ゲレロ・ジュニア.md "wikilink")
   - [クリス・マスターズ](https://ja.wikipedia.org/wiki/クリス・マスターズ "wikilink")
-  - [エッジ](https://ja.wikipedia.org/wiki/アダム・コープランド "wikilink")
+  - [エッジ](../Page/アダム・コープランド.md "wikilink")
   - [フィンレー](../Page/デイブ・フィンレー.md "wikilink")
-  - [グレゴリー・ヘルムズ](https://ja.wikipedia.org/wiki/グレゴリー・ヘルムズ "wikilink")
+  - [グレゴリー・ヘルムズ](../Page/グレゴリー・ヘルムズ.md "wikilink")
   - [ケイン](https://ja.wikipedia.org/wiki/グレン・ジェイコブズ "wikilink")
   - [ケニー・ダイクストラ](../Page/ケン・ドーン_\(プロレスラー\).md "wikilink")
-  - [マーク・ヘンリー](https://ja.wikipedia.org/wiki/マーク・ヘンリー "wikilink")
-  - [マット・ハーディー](https://ja.wikipedia.org/wiki/マット・ハーディー "wikilink")
+  - [マーク・ヘンリー](../Page/マーク・ヘンリー.md "wikilink")
+  - [マット・ハーディー](../Page/マット・ハーディー.md "wikilink")
   - [MVP](../Page/アルヴィン・バーク・ジュニア.md "wikilink")
-  - [レイ・ミステリオ](https://ja.wikipedia.org/wiki/レイ・ミステリオ・ジュニア "wikilink")
-  - [リック・フレアー](https://ja.wikipedia.org/wiki/リック・フレアー "wikilink")
+  - [レイ・ミステリオ](../Page/レイ・ミステリオ・ジュニア.md "wikilink")
+  - [リック・フレアー](../Page/リック・フレアー.md "wikilink")
   - [ザ・グレート・カリ](../Page/ダリップ・シン.md "wikilink")
-  - [ジ・アンダーテイカー](https://ja.wikipedia.org/wiki/ジ・アンダーテイカー "wikilink")
+  - [ジ・アンダーテイカー](../Page/ジ・アンダーテイカー.md "wikilink")
   - [アシュリー](https://ja.wikipedia.org/wiki/アシュリー・マッサーロ "wikilink")（ディーヴァ）
-  - [ミシェル・マクール](https://ja.wikipedia.org/wiki/ミシェル・マクール "wikilink")（ディーヴァ）
-  - [トリー・ウィルソン](https://ja.wikipedia.org/wiki/トリー・ウィルソン "wikilink")（ディーヴァ）
+  - [ミシェル・マクール](../Page/ミシェル・マクール.md "wikilink")（ディーヴァ）
+  - [トリー・ウィルソン](../Page/トリー・ウィルソン.md "wikilink")（ディーヴァ）
 
 ### ECW
 
-  - [CMパンク](https://ja.wikipedia.org/wiki/CMパンク "wikilink")
+  - [CMパンク](../Page/CMパンク.md "wikilink")
   - [イライジャ・バーク](../Page/イライジャ・バーク.md "wikilink")
-  - [ジョニー・ナイトロ](https://ja.wikipedia.org/wiki/ジョン・ヘニガン "wikilink")
-  - [マーキス・コー・ヴァン](https://ja.wikipedia.org/wiki/モンティ・ブラウン "wikilink")
+  - [ジョニー・ナイトロ](../Page/ジョン・ヘニガン.md "wikilink")
+  - [マーキス・コー・ヴァン](../Page/モンティ・ブラウン.md "wikilink")
   - [サブゥー](https://ja.wikipedia.org/wiki/テリー・ブルンク "wikilink")
-  - [テリー・ファンク](https://ja.wikipedia.org/wiki/テリー・ファンク "wikilink")
+  - [テリー・ファンク](../Page/テリー・ファンク.md "wikilink")
   - [トミー・ドリーマー](../Page/トミー・ドリーマー.md "wikilink")
   - [ケリー・ケリー](https://ja.wikipedia.org/wiki/バービー・ブランク "wikilink") （ディーヴァ）
 
 ### LEGEND＆AFTER
 
-  - [ブレット・ハート](https://ja.wikipedia.org/wiki/ブレット・ハート "wikilink")
-  - [エディ・ゲレロ](https://ja.wikipedia.org/wiki/エディ・ゲレロ "wikilink")（海外ＰＳＰ版限定）
+  - [ブレット・ハート](../Page/ブレット・ハート.md "wikilink")
+  - [エディ・ゲレロ](../Page/エディ・ゲレロ.md "wikilink")（海外ＰＳＰ版限定）
   - [JBL](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")
   - [ジム・ナイドハート](https://ja.wikipedia.org/wiki/ジム・ナイドハート "wikilink")（海外ＰＳＰ版限定）
-  - [ミック・フォーリー](https://ja.wikipedia.org/wiki/ミック・フォーリー "wikilink")
-  - [リック・ルード](https://ja.wikipedia.org/wiki/リック・ルード "wikilink")
-  - [ロディ・パイパー](https://ja.wikipedia.org/wiki/ロディ・パイパー "wikilink")
+  - [ミック・フォーリー](../Page/ミック・フォーリー.md "wikilink")
+  - [リック・ルード](../Page/リック・ルード.md "wikilink")
+  - [ロディ・パイパー](../Page/ロディ・パイパー.md "wikilink")
   - [ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック_\(プロレスラー\) "wikilink")
   - [サージェント・スローター](../Page/サージェント・スローター.md "wikilink")（海外ＰＳＰ版限定）
-  - [シェイン・マクマホン](https://ja.wikipedia.org/wiki/シェイン・マクマホン "wikilink")
-  - [ストーン・コールド・スティーブ・オースチン](https://ja.wikipedia.org/wiki/ストーン・コールド・スティーブ・オースチン "wikilink")
-  - [ビンス・マクマホン](https://ja.wikipedia.org/wiki/ビンス・マクマホン "wikilink")
+  - [シェイン・マクマホン](../Page/シェイン・マクマホン.md "wikilink")
+  - [ストーン・コールド・スティーブ・オースチン](../Page/ストーン・コールド・スティーブ・オースチン.md "wikilink")
+  - [ビンス・マクマホン](../Page/ビンス・マクマホン.md "wikilink")
 
 ## 外部リンク
 

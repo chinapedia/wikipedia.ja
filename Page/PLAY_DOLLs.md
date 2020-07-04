@@ -1,9 +1,9 @@
 > この記事は[PLAY DOLLs](https://ja.wikipedia.org/wiki/PLAY_DOLLs)から翻訳されています。
 
 
-『**PLAY DOLLs**』（プレイ・ドールズ）は、[12012](https://ja.wikipedia.org/wiki/12012 "wikilink")のインディーズ1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
+『**PLAY DOLLs**』（プレイ・ドールズ）は、[12012](../Page/12012.md "wikilink")のインディーズ1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")にリリースされた。
+[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")にリリースされた。
 
 ## 解説
 
@@ -16,7 +16,7 @@
 
 ### CD
 
-1.  **hermit** （[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：W.Miyawaki [作曲](../Page/作曲.md "wikilink")：H.Sakai）
+1.  **hermit** （[作詞](../Page/作詞.md "wikilink")：W.Miyawaki [作曲](../Page/作曲.md "wikilink")：H.Sakai）
       -
         すでにライブでは先行して披露されていたナンバー。
 2.  **my room agony** （作詞：W.Miyawaki 作曲：12012）

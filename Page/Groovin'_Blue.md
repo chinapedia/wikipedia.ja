@@ -1,7 +1,7 @@
 > この記事は[Groovin\' Blue](https://ja.wikipedia.org/wiki/Groovin\'_Blue)から翻訳されています。
 
 
-『**Groovin' Blue**』（グルービン・ブルー）は[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")の19枚目の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。1997年6月21日に[キングレコード](../Page/キングレコード.md "wikilink")より発売された。(KICS-620)
+『**Groovin' Blue**』（グルービン・ブルー）は[中山美穂](../Page/中山美穂.md "wikilink")の19枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。1997年6月21日に[キングレコード](../Page/キングレコード.md "wikilink")より発売された。(KICS-620)
 
 ## 解説
 
@@ -10,20 +10,21 @@
   - 「The Eternities」はコンサートでの定番曲になった。
   - 同年12月には本作収録曲をリミックスしたアルバム『[THE REMIXES MIHO NAKAYAMA MEETS New York GROOVE](https://ja.wikipedia.org/wiki/THE_REMIXES_MIHO_NAKAYAMA_MEETS_New_York_GROOVE "wikilink")』が、また翌年1月には『[THE REMIXES MIHO NAKAYAMA MEETS Los Angeles GROOVE](https://ja.wikipedia.org/wiki/THE_REMIXES_MIHO_NAKAYAMA_MEETS_Los_Angeles_GROOVE "wikilink")』が発売になった。
   - 本作を引っ提げてのコンサートツアー『**Miho Nakayama Concert Tour '97 "Groovin' Blue"**』（全国38公演）が行われた。尚、当ツアーは映像化されなかった。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## 収録曲
 
 1.  **SYMPATHY**
-      - 作詞: 中山美穂、作曲: [上田知華](https://ja.wikipedia.org/wiki/上田知華 "wikilink")、編曲: [武部聡志](https://ja.wikipedia.org/wiki/武部聡志 "wikilink")
+      - 作詞: 中山美穂、作曲: [上田知華](../Page/上田知華.md "wikilink")、編曲: [武部聡志](../Page/武部聡志.md "wikilink")
 2.  **ANGEL SOUL**
-      - 作詞: 中山美穂、作曲: [内藤慎也](https://ja.wikipedia.org/wiki/内藤慎也 "wikilink")、編曲: 内藤慎也
+      - 作詞: 中山美穂、作曲: [内藤慎也](../Page/内藤慎也.md "wikilink")、編曲: 内藤慎也
 3.  **小さな太陽 -CARROT RED**
       - 作詞: 中山美穂、作曲: 内藤慎也、編曲: 内藤慎也
 4.  **YEAH\!**
       - 作詞: 中山美穂、作曲: 内藤慎也、編曲: 内藤慎也
 5.  **PRECIOUS LOVE**
       - 作詞: 中山美穂・[小竹正人](https://ja.wikipedia.org/wiki/小竹正人 "wikilink")、作曲: 山口智・[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")、編曲: [宮田繁男](https://ja.wikipedia.org/wiki/宮田繁男 "wikilink")
-      - [楠瀬誠志郎](https://ja.wikipedia.org/wiki/楠瀬誠志郎 "wikilink")がコーラスで参加している。
+      - [楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")がコーラスで参加している。
 6.  **[SHINING FOR YOU](https://ja.wikipedia.org/wiki/マーチカラー#収録曲 "wikilink")**
       - 作詞: 中山美穂、作曲: 上田知華、編曲: 内藤慎也
       - 「マーチカラー」のカップリング曲。
@@ -33,11 +34,11 @@
       - 作詞: 中山美穂・小竹正人、作曲: [大滝裕子](https://ja.wikipedia.org/wiki/大滝裕子 "wikilink")、編曲: 竹下欣伸
 9.  **付和雷同 -WHAT↑I↓DO-**
       - 作詞: 中山美穂、作曲: 宮田繁男、編曲: 宮田繁男
-      - [米倉利紀](https://ja.wikipedia.org/wiki/米倉利紀 "wikilink")がコーラスで参加している。
+      - [米倉利紀](../Page/米倉利紀.md "wikilink")がコーラスで参加している。
 10. **月のリング**
       - 作詞: 中山美穂、作曲: M Rie、編曲: 内藤慎也
 11. *' 優しい人*'
-      - 作詞: 中山美穂、作曲: [谷脇仁美](https://ja.wikipedia.org/wiki/谷脇仁美 "wikilink")、編曲: [塩谷哲](https://ja.wikipedia.org/wiki/塩谷哲 "wikilink")
+      - 作詞: 中山美穂、作曲: [谷脇仁美](https://ja.wikipedia.org/wiki/谷脇仁美 "wikilink")、編曲: [塩谷哲](../Page/塩谷哲.md "wikilink")
 12. **RUBY IN GLASS**
       - 作詞: 中山美穂、作曲: 大滝裕子、編曲: 武部聡志
 13. **The Eternities**

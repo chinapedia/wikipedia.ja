@@ -1,7 +1,7 @@
-> この記事は[GE](https://ja.wikipedia.org/wiki/GE)から翻訳されています。
+> この記事は[GEの機関車一覧](https://ja.wikipedia.org/wiki/GEの機関車一覧)から翻訳されています。
 
 
-[GEトランスポーテーション・システム](https://ja.wikipedia.org/wiki/GEトランスポーテーション・システム "wikilink")が生産した機関車の一覧を以下に示す。カザフスタン向けES44ACi(TE33A)を除き、全てペンシルベニア州のエリーで生産された。
+[GEトランスポーテーション・システム](../Page/GEトランスポーテーション・システム.md "wikilink")が生産した機関車の一覧を以下に示す。カザフスタン向けES44ACi(TE33A)を除き、全てペンシルベニア州のエリーで生産された。
 
 [英語版もあわせて参照](https://ja.wikipedia.org/wiki/:en:List_of_GE_locomotives "wikilink")
 
@@ -341,7 +341,7 @@ V-8</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_U25B形ディーゼル機関車" title="wikilink">U25B</a></p></td>
+<td><p><a href="../Page/GE_U25B形ディーゼル機関車.md" title="wikilink">U25B</a></p></td>
 <td><p>1959-1966</p></td>
 <td><p>478</p></td>
 <td><p>B-B</p></td>
@@ -351,7 +351,7 @@ V-8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:GE_U25B_front2.jpg" title="wikilink">100px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_U28B形ディーゼル機関車" title="wikilink">U28B</a></p></td>
+<td><p><a href="../Page/GE_U28B形ディーゼル機関車.md" title="wikilink">U28B</a></p></td>
 <td><p>1966</p></td>
 <td><p>148</p></td>
 <td><p>B-B</p></td>
@@ -418,7 +418,7 @@ V-8</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_U25C形ディーゼル機関車" title="wikilink">U25C</a></p></td>
+<td><p><a href="../Page/GE_U25C形ディーゼル機関車.md" title="wikilink">U25C</a></p></td>
 <td><p>1963-1965</p></td>
 <td><p>113</p></td>
 <td><p>C-C</p></td>
@@ -438,7 +438,7 @@ V-8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:NZR_DX_class_coal.JPG" title="wikilink">100px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_U28C形ディーゼル機関車" title="wikilink">U28C</a></p></td>
+<td><p><a href="../Page/GE_U28C形ディーゼル機関車.md" title="wikilink">U28C</a></p></td>
 <td><p>1965-1966</p></td>
 <td><p>71</p></td>
 <td><p>C-C</p></td>
@@ -477,7 +477,7 @@ V-8</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_U50C形ディーゼル機関車" title="wikilink">U50C</a></p></td>
+<td><p><a href="../Page/GE_U50C形ディーゼル機関車.md" title="wikilink">U50C</a></p></td>
 <td><p>1969-1971</p></td>
 <td><p>40</p></td>
 <td><p>C-C</p></td>
@@ -506,7 +506,7 @@ GE FDL-12</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_U50形ディーゼル機関車" title="wikilink">U50</a></p></td>
+<td><p><a href="../Page/GE_U50形ディーゼル機関車.md" title="wikilink">U50</a></p></td>
 <td><p>1963-1965</p></td>
 <td><p>26</p></td>
 <td><p>B-B+B-B</p></td>
@@ -830,7 +830,7 @@ GE FDL-16</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_Dash_9" title="wikilink">Dash 9-40C</a></p></td>
+<td><p><a href="../Page/GE_Dash_9.md" title="wikilink">Dash 9-40C</a></p></td>
 <td></td>
 <td></td>
 <td><p>C-C</p></td>
@@ -840,7 +840,7 @@ GE FDL-16</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_Dash_9" title="wikilink">Dash 9-40CW</a></p></td>
+<td><p><a href="../Page/GE_Dash_9.md" title="wikilink">Dash 9-40CW</a></p></td>
 <td></td>
 <td></td>
 <td><p>C-C</p></td>
@@ -850,7 +850,7 @@ GE FDL-16</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_Dash_9" title="wikilink">Dash 9-44CW</a></p></td>
+<td><p><a href="../Page/GE_Dash_9.md" title="wikilink">Dash 9-44CW</a></p></td>
 <td></td>
 <td></td>
 <td><p>C-C</p></td>
@@ -878,7 +878,7 @@ GE FDL-16</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_Dash_9" title="wikilink">Dash-9 BB40-9W</a></p></td>
+<td><p><a href="../Page/GE_Dash_9.md" title="wikilink">Dash-9 BB40-9W</a></p></td>
 <td></td>
 <td><p>141</p></td>
 <td><p>B-B+B-B</p></td>
@@ -955,7 +955,7 @@ GE FDL-16</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_エボリューション・シリーズ" title="wikilink">ES40DC</a></p></td>
+<td><p><a href="../Page/GE_エボリューション・シリーズ.md" title="wikilink">ES40DC</a></p></td>
 <td><p>2005-</p></td>
 <td></td>
 <td><p>C-C</p></td>
@@ -965,7 +965,7 @@ GE FDL-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:BNSF_7663.jpg" title="wikilink">100px</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_エボリューション・シリーズ" title="wikilink">ES44DC</a></p></td>
+<td><p><a href="../Page/GE_エボリューション・シリーズ.md" title="wikilink">ES44DC</a></p></td>
 <td><p>2005-</p></td>
 <td></td>
 <td><p>C-C</p></td>
@@ -975,7 +975,7 @@ GE FDL-16</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/GE_エボリューション・シリーズ" title="wikilink">ES44AC</a></p></td>
+<td><p><a href="../Page/GE_エボリューション・シリーズ.md" title="wikilink">ES44AC</a></p></td>
 <td><p>2005-</p></td>
 <td></td>
 <td><p>C-C</p></td>
@@ -989,7 +989,7 @@ GE FDL-16</p></td>
 
 ## 旅客用機関車
 
-初期の貨物用機関車の製造会社と対照的にGEは旅客用機関社を特注で生産した。最新式の旅客用機関車は[アムトラック](../Page/アムトラック.md "wikilink")向けの[EMD F40PHを置き換える目的のP](https://ja.wikipedia.org/wiki/EMD_F40PH形ディーゼル機関車 "wikilink")42DCである。[VIA鉄道](https://ja.wikipedia.org/wiki/VIA鉄道 "wikilink")へ追加生産された。
+初期の貨物用機関車の製造会社と対照的にGEは旅客用機関社を特注で生産した。最新式の旅客用機関車は[アムトラック](../Page/アムトラック.md "wikilink")向けの[EMD F40PHを置き換える目的のP](https://ja.wikipedia.org/wiki/EMD_F40PH形ディーゼル機関車 "wikilink")42DCである。[VIA鉄道](../Page/VIA鉄道.md "wikilink")へ追加生産された。
 
 <table>
 <thead>
@@ -1099,7 +1099,7 @@ GE FDL-16</p></td>
 <tr class="odd">
 <td><p>GN ボックスキャブ</p></td>
 <td><p>1909</p></td>
-<td><p>4 <a href="https://ja.wikipedia.org/wiki/グレート・ノーザン鉄道" title="wikilink">グレート・ノーザン鉄道</a></p></td>
+<td><p>4 <a href="../Page/グレート・ノーザン鉄道.md" title="wikilink">グレート・ノーザン鉄道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:AAR_wheel_arrangement#B-B" title="wikilink">B+B</a></p></td>
 <td><p>11,000 <a href="../Page/ボルト_(単位).md" title="wikilink">V</a> <a href="../Page/交流.md" title="wikilink">AC</a>,<br />
 25 <a href="../Page/ヘルツ.md" title="wikilink">Hz</a></p></td>
@@ -1134,7 +1134,7 @@ GE FDL-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:MILW_ES-2.jpg" title="wikilink">100px</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルウォーキー鉄道EP-2型電気機関車" title="wikilink">MILW EP-2</a><br />
+<td><p><a href="../Page/ミルウォーキー鉄道EP-2型電気機関車.md" title="wikilink">MILW EP-2</a><br />
 (“Bi-polar”)</p></td>
 <td><p>1919</p></td>
 <td><p>5 <a href="../Page/ミルウォーキー鉄道.md" title="wikilink">ミルウォーキー鉄道</a></p></td>
@@ -1146,7 +1146,7 @@ GE FDL-16</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/グレート・ノーザン鉄道_Y-1型電気機関車" title="wikilink">GN Y-1 (PRR FF2)</a></p></td>
 <td><p>1927–1930</p></td>
-<td><p>8 <a href="https://ja.wikipedia.org/wiki/グレート・ノーザン鉄道" title="wikilink">グレート・ノーザン鉄道</a><br />
+<td><p>8 <a href="../Page/グレート・ノーザン鉄道.md" title="wikilink">グレート・ノーザン鉄道</a><br />
 (ペンシルバニア鉄道に売却)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:AAR_wheel_arrangement#C-C" title="wikilink">1-C+C-1</a></p></td>
 <td><p>11,000 V AC,<br />
@@ -1155,10 +1155,10 @@ GE FDL-16</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ペンシルバニア鉄道GG1形電気機関車" title="wikilink">PRR GG1</a></p></td>
+<td><p><a href="../Page/ペンシルバニア鉄道GG1形電気機関車.md" title="wikilink">PRR GG1</a></p></td>
 <td><p>1934–1935<br />
 (PRR: 1935–1943)</p></td>
-<td><p>15 <a href="https://ja.wikipedia.org/wiki/ペンシルバニア鉄道" title="wikilink">ペンシルバニア鉄道</a><br />
+<td><p>15 <a href="../Page/ペンシルバニア鉄道.md" title="wikilink">ペンシルバニア鉄道</a><br />
 (+124 ペンシルベニア鉄道)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:AAR_wheel_arrangement#2-C+C-2" title="wikilink">2-C+C-2</a></p></td>
 <td><p>11,000 V AC,<br />
@@ -1169,7 +1169,7 @@ GE FDL-16</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:PRR_P5" title="wikilink">PRR P5a</a></p></td>
 <td></td>
-<td><p>25 <a href="https://ja.wikipedia.org/wiki/ペンシルバニア鉄道" title="wikilink">ペンシルバニア鉄道</a><br />
+<td><p>25 <a href="../Page/ペンシルバニア鉄道.md" title="wikilink">ペンシルバニア鉄道</a><br />
 (+13 by PRR, +54 by Westinghouse)</p></td>
 <td><p>2-C-2</p></td>
 <td><p>11,000 V AC,<br />
@@ -1200,7 +1200,7 @@ GE FDL-16</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:GN_W-1" title="wikilink">:en:GN W-1</a></p></td>
 <td><p>1947</p></td>
-<td><p>2 <a href="https://ja.wikipedia.org/wiki/グレート・ノーザン鉄道" title="wikilink">グレート・ノーザン鉄道</a></p></td>
+<td><p>2 <a href="../Page/グレート・ノーザン鉄道.md" title="wikilink">グレート・ノーザン鉄道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:AAR_wheel_arrangement#D-D" title="wikilink">B-D+D-B</a></p></td>
 <td><p>11,000 V AC,<br />
 25 Hz</p></td>
@@ -1219,7 +1219,7 @@ GE FDL-16</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:PRR_E2b" title="wikilink">:en:PRR E2b</a></p></td>
 <td><p>1951</p></td>
-<td><p>6 <a href="https://ja.wikipedia.org/wiki/ペンシルバニア鉄道" title="wikilink">ペンシルバニア鉄道</a></p></td>
+<td><p>6 <a href="../Page/ペンシルバニア鉄道.md" title="wikilink">ペンシルバニア鉄道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:AAR_wheel_arrangement#B-B" title="wikilink">B-B</a></p></td>
 <td><p>11,000 V AC,<br />
 25 Hz</p></td>
@@ -1248,7 +1248,7 @@ GE FDL-16</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:PRR_E44" title="wikilink">:en:PRR E44</a></p></td>
 <td><p>1960–1963</p></td>
-<td><p>66 <a href="https://ja.wikipedia.org/wiki/ペンシルバニア鉄道" title="wikilink">ペンシルバニア鉄道</a></p></td>
+<td><p>66 <a href="../Page/ペンシルバニア鉄道.md" title="wikilink">ペンシルバニア鉄道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:AAR_wheel_arrangement#C-C" title="wikilink">C-C</a></p></td>
 <td><p>11,000 V AC,<br />
 25 Hz</p></td>
@@ -1307,7 +1307,7 @@ GE FDL-16</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:GE_E60#E60C-2" title="wikilink">E60C-2</a></p></td>
 <td><p>1982–1983</p></td>
-<td><p>39 <a href="https://ja.wikipedia.org/wiki/メキシコ国鉄" title="wikilink">メキシコ国鉄</a><br />
+<td><p>39 <a href="../Page/メキシコ国鉄.md" title="wikilink">メキシコ国鉄</a><br />
 2 <a href="https://ja.wikipedia.org/wiki/:en:Deseret_Western_Railway" title="wikilink">:en:Deseret Western Railway</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:AAR_wheel_arrangement#C-C" title="wikilink">C-C</a></p></td>
 <td><p>25 kV AC, 60 Hz (NdM)<br />
@@ -1329,7 +1329,7 @@ GE FDL-16</p></td>
 </table>
 
   -
-    <span style="font-size:120%;"></span>**注記:**[ゼネラル・エレクトリック](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink")は[ペンシルバニア鉄道](https://ja.wikipedia.org/wiki/ペンシルバニア鉄道 "wikilink")の設計・製造者ではないが、駆動用モーターや電装品にGE製のものが使用されている。
+    <span style="font-size:120%;"></span>**注記:**[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")は[ペンシルバニア鉄道](../Page/ペンシルバニア鉄道.md "wikilink")の設計・製造者ではないが、駆動用モーターや電装品にGE製のものが使用されている。
 
 ## ガスタービン機関車
 
@@ -1376,9 +1376,9 @@ GE FDL-16</p></td>
   -
 ## 関連項目
 
-  - [アルコのディーゼル機関車一覧](https://ja.wikipedia.org/wiki/アルコのディーゼル機関車一覧 "wikilink")
+  - [アルコのディーゼル機関車一覧](../Page/アルコのディーゼル機関車一覧.md "wikilink")
   - [EMDの機関車一覧](../Page/EMDの機関車一覧.md "wikilink")
-  - [フェアバンクス・モースの機関車一覧](https://ja.wikipedia.org/wiki/フェアバンクス・モースの機関車一覧 "wikilink")
+  - [フェアバンクス・モースの機関車一覧](../Page/フェアバンクス・モースの機関車一覧.md "wikilink")
   - [ボールドウィンのディーゼル機関車一覧](../Page/ボールドウィンのディーゼル機関車一覧.md "wikilink")
   - [ライマ・ハミルトンのディーゼル機関車一覧](../Page/ライマ・ハミルトンのディーゼル機関車一覧.md "wikilink")
 

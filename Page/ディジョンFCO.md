@@ -1,7 +1,7 @@
-> この記事は[FCO](https://ja.wikipedia.org/wiki/FCO)から翻訳されています。
+> この記事は[ディジョンFCO](https://ja.wikipedia.org/wiki/ディジョンFCO)から翻訳されています。
 
 
-**ディジョン・フットボール・コート・ドール**（**Dijon Football Côte d'Or**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ディジョン](https://ja.wikipedia.org/wiki/ディジョン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**ディジョン・フットボール・コート・ドール**（**Dijon Football Côte d'Or**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ディジョン](../Page/ディジョン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 前身となる**Cercle Laïque Dijonnais**(1936-1991)および**Cercle Football Dijonnais**(1991-1998)を受けて、1998年に創設。2000年にフランス4部リーグである[フランスアマチュア選手権](https://ja.wikipedia.org/wiki/フランスアマチュア選手権 "wikilink")で優勝。2004年に[フランス全国選手権](../Page/フランス全国選手権.md "wikilink")（3部）で3位となり、[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")に昇格、プロチームとなる。
 
@@ -24,7 +24,7 @@
 <tr class="header">
 <th><p>シーズン</p></th>
 <th><p>ディビジョン</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/クープ・ドゥ・フランス" title="wikilink">クープ・ドゥ・フランス</a></p></th>
+<th><p><a href="../Page/クープ・ドゥ・フランス.md" title="wikilink">クープ・ドゥ・フランス</a></p></th>
 <th><p><a href="../Page/クープ・ドゥ・ラ・リーグ.md" title="wikilink">クープ・ドゥ・ラ・リーグ</a></p></th>
 </tr>
 </thead>
@@ -215,7 +215,7 @@
 
 ### GK
 
-  - [ランドリー・ボンヌフォワ](https://ja.wikipedia.org/wiki/ランドリー・ボンヌフォワ "wikilink") 2007-2009
+  - [ランドリー・ボンヌフォワ](../Page/ランドリー・ボンヌフォワ.md "wikilink") 2007-2009
 
   - [バティスト・レネ](https://ja.wikipedia.org/wiki/バティスト・レネ "wikilink") 2011-2013, 2015-
 
@@ -227,7 +227,7 @@
 
 ### MF
 
-  - [エリック・カリエール](https://ja.wikipedia.org/wiki/エリック・カリエール "wikilink") 2008-2010
+  - [エリック・カリエール](../Page/エリック・カリエール.md "wikilink") 2008-2010
 
   - [松井大輔](../Page/松井大輔.md "wikilink") 2011-2012
 

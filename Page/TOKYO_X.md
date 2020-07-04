@@ -11,11 +11,11 @@
 
 ### 肉の特徴
 
-[ロース](https://ja.wikipedia.org/wiki/ロース "wikilink")に微細な脂肪組織（[サシ](https://ja.wikipedia.org/wiki/サシ "wikilink")）が入っている。脂肪の[うま味](../Page/うま味.md "wikilink")が特徴として挙げられ、焼き料理、炒め料理、[しゃぶしゃぶ](../Page/しゃぶしゃぶ.md "wikilink")などに適している。反面、背脂肪が厚く精肉の歩留まりが悪い、脂肪の[融点](../Page/融点.md "wikilink")が低く加工し難いといった欠点があり、加工業者からは敬遠されている。
+[ロース](../Page/ロース.md "wikilink")に微細な脂肪組織（[サシ](https://ja.wikipedia.org/wiki/サシ "wikilink")）が入っている。脂肪の[うま味](../Page/うま味.md "wikilink")が特徴として挙げられ、焼き料理、炒め料理、[しゃぶしゃぶ](../Page/しゃぶしゃぶ.md "wikilink")などに適している。反面、背脂肪が厚く精肉の歩留まりが悪い、脂肪の[融点](../Page/融点.md "wikilink")が低く加工し難いといった欠点があり、加工業者からは敬遠されている。
 
-[日本調理科学会](https://ja.wikipedia.org/wiki/日本調理科学会 "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発表された研究報告に依れば、トウキョウX、LWD種\[1\]、[バークシャー種](https://ja.wikipedia.org/wiki/バークシャー種 "wikilink")の3品による[官能検査](https://ja.wikipedia.org/wiki/官能検査 "wikilink")では、8項目の官能特性の内、「かたさ」、「ジューシー感」に有意差が見られ、トウキョウXはLWD種よりも[1%有意で軟らかく](https://ja.wikipedia.org/wiki/有意水準 "wikilink")、5%有意で「豚の臭み、獣臭」が弱いと評価されている。
+[日本調理科学会](https://ja.wikipedia.org/wiki/日本調理科学会 "wikilink")で[2005年](../Page/2005年.md "wikilink")に発表された研究報告に依れば、トウキョウX、LWD種\[1\]、[バークシャー種](https://ja.wikipedia.org/wiki/バークシャー種 "wikilink")の3品による[官能検査](../Page/官能検査.md "wikilink")では、8項目の官能特性の内、「かたさ」、「ジューシー感」に有意差が見られ、トウキョウXはLWD種よりも[1%有意で軟らかく](https://ja.wikipedia.org/wiki/有意水準 "wikilink")、5%有意で「豚の臭み、獣臭」が弱いと評価されている。
 
-[東京都農林総合研究センター](../Page/東京都農林総合研究センター.md "wikilink")で[2014年](../Page/2014年.md "wikilink")に発表された研究報告でも、トウキョウXとバークシャー種の[ロース](https://ja.wikipedia.org/wiki/ロース "wikilink")で官能評価試験を行っており、「やわらかさ」「旨味・コク」「噛みごごち」「香り・風味」の4項目と総合評価で有意に上回る結果が出ている。
+[東京都農林総合研究センター](../Page/東京都農林総合研究センター.md "wikilink")で[2014年](../Page/2014年.md "wikilink")に発表された研究報告でも、トウキョウXとバークシャー種の[ロース](../Page/ロース.md "wikilink")で官能評価試験を行っており、「やわらかさ」「旨味・コク」「噛みごごち」「香り・風味」の4項目と総合評価で有意に上回る結果が出ている。
 
 ## 生産形態
 
@@ -24,9 +24,9 @@
   - 安全性 ()
     指定飼料期間は抗生物質の添加や予防的な投薬を行わず、防疫に関しては子豚の頃にワクチンを使用する。
   - 生命力学 ()
-    指定飼料には[ポストハーベスト農薬](https://ja.wikipedia.org/wiki/ポストハーベスト農薬 "wikilink")を用いず、[遺伝子組み換え](https://ja.wikipedia.org/wiki/遺伝子組み換え "wikilink")を行っていない植物性飼料（[トウモロコシ](../Page/トウモロコシ.md "wikilink")や大豆粕など）を用いる。また、動物性飼料は与えない。
+    指定飼料には[ポストハーベスト農薬](../Page/ポストハーベスト農薬.md "wikilink")を用いず、[遺伝子組み換え](https://ja.wikipedia.org/wiki/遺伝子組み換え "wikilink")を行っていない植物性飼料（[トウモロコシ](../Page/トウモロコシ.md "wikilink")や大豆粕など）を用いる。また、動物性飼料は与えない。
   - 動物福祉 ()
-    TOKYO Xの販促サイトでは「豚に[ストレスを与えないように十分なスペースと開放的な施設で飼育する](https://ja.wikipedia.org/wiki/ストレス_\(生体\) "wikilink")」と
+    TOKYO Xの販促サイトでは「豚に[ストレスを与えないように十分なスペースと開放的な施設で飼育する](../Page/ストレス_\(生体\).md "wikilink")」と
   - 品質 ()
     生産現場へ渡される「TOKYO X 生産マニュアル」が策定され、理想としての出荷日齢や体重などが明確に示されている。
 

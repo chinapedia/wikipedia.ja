@@ -53,7 +53,7 @@
 
 ## 感染者
 
-本作に出てくる感染者のイメージは、世間一般で言われている[ゾンビ](../Page/ゾンビ.md "wikilink")のイメージに近い。正確には死者が蘇る[ゾンビ](../Page/ゾンビ.md "wikilink")ではなく、『[28日後...](https://ja.wikipedia.org/wiki/28日後... "wikilink")』のような生きたままウイルスに感染し凶暴化した人間であるため、このゲームでは「感染者（Infected）」と呼ばれるが、生存者たちは「ゾンビ」とも呼んでいる。
+本作に出てくる感染者のイメージは、世間一般で言われている[ゾンビ](../Page/ゾンビ.md "wikilink")のイメージに近い。正確には死者が蘇る[ゾンビ](../Page/ゾンビ.md "wikilink")ではなく、『[28日後...](../Page/28日後....md "wikilink")』のような生きたままウイルスに感染し凶暴化した人間であるため、このゲームでは「感染者（Infected）」と呼ばれるが、生存者たちは「ゾンビ」とも呼んでいる。
 
 また昔のゾンビのイメージである「鈍重な動き」は見られず、昨今のゾンビ映画に多く見られる「走るゾンビ」であり、生存者を見つけると全力疾走で追いかけてくる。反面、耐久力はハンドガン数発でも倒せる程度であり、攻撃も殴る蹴るなどで一発一発はダメージが少なく、噛みつきや人外に近い力などはない。他にも本作独自の特徴として高周波の音に敏感で、後述のパイプ爆弾や車の盗難防止装置の音に反応して群がってくる。しかし通常ではかなり近寄らないと認識されなかったりなど、それ以外の感覚は鈍い。この通常感染者（下記の特殊感染者に対してこう呼ばれる）は単体ではさしたる脅威ではないが、何らかの切っ掛けで大挙して迫ってくる。また通常感染者の攻撃には一瞬だけだが移動速度が著しく落ちる効果があるため、未然に処理できないと周囲を囲まれ袋叩き状態になりかねない。これもこのゲームの特徴である。
 
@@ -91,7 +91,7 @@
 
 スタート・リスタート地点で選ぶことのできる武器。
 
-  - ショットガン（[イサカM37](https://ja.wikipedia.org/wiki/イサカM37 "wikilink")）
+  - ショットガン（[イサカM37](../Page/イサカM37.md "wikilink")）
     近距離での威力に重きを置いた武器。コッキングを要するポンプアクション式のため連射力は低い。
     ショットガン共通の特徴として、1発ずつ装填するためリロード速度は遅いが、リロード中でも途中でキャンセルして撃つことが出来るほか、リロード時に一旦装弾0に戻ることがなく、キャンセルした場合はその時点の装弾数で止まる。
   - サブマシンガン（[ウージー](https://ja.wikipedia.org/wiki/ウージー "wikilink")）
@@ -103,7 +103,7 @@
 
   - オートショットガン（[ベネリM4](https://ja.wikipedia.org/wiki/ベネリM4 "wikilink")）
     コッキングを必要とせず連射力が高いショットガン。装弾数もアップしているが、リロードを一発ずつ行う点はそのまま。
-  - アサルトライフル（[M16](https://ja.wikipedia.org/wiki/M16自動小銃 "wikilink")）
+  - アサルトライフル（[M16](../Page/M16自動小銃.md "wikilink")）
     サブマシンガンよりも威力と精度の高い弾丸を連射する。扱いやすい銃器だが、所持弾数がサブマシンガンより少なめで弾切れしやすい。
   - ハンティングライフル（[ミニ14](https://ja.wikipedia.org/wiki/ミニ14 "wikilink")）
     スナイパースコープを装備し、遠距離からの狙撃が可能。弾丸の威力も高く、普通の感染者ならどこに当てても一発で仕留められる。弾丸は敵や障害物を貫通し、一直線に並んだ感染者を一度に全員撃ち抜く事も可能。
@@ -134,15 +134,17 @@
 ## 関連項目
 
   - [Source Engine](../Page/Source_Engine.md "wikilink")
-  - [カウンターストライク](https://ja.wikipedia.org/wiki/カウンターストライク "wikilink")
+  - [カウンターストライク](../Page/カウンターストライク.md "wikilink")
   - [Left 4 Dead 2](https://ja.wikipedia.org/wiki/Left_4_Dead_2 "wikilink")
   - [LEFT 4 DEAD -生存者たち-](https://ja.wikipedia.org/wiki/LEFT_4_DEAD_-生存者たち- "wikilink")
 
 ## 外部リンク
 
   - [公式サイト](http://www.L4D.com/) （英語）
+
   - [公式サイト](http://l4d.zoo.co.jp/)（日本語）
-  - [Xbox 360版公式サイト](http://www.japan.ea.com/l4d/)
+
+  -
   - [アーケード版『-生存者たち-』公式サイト](http://l4dac.com/)
 
-[Category:2008年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2008年のコンピュータゲーム "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink")
+[Category:2008年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2008年のコンピュータゲーム "wikilink") [Category:Valveのゲームソフト](https://ja.wikipedia.org/wiki/Category:Valveのゲームソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink")

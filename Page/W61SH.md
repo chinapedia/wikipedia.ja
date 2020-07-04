@@ -7,7 +7,7 @@
 
 W61SHはauで2機種目の[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")である。既に他社から発表されている[SH905iTV](../Page/SH905iTV.md "wikilink")及び[SoftBank 920SHとの大きな違いは](../Page/SoftBank_920SH.md "wikilink")[フルワイドVGA解像度の液晶を搭載していないことと](https://ja.wikipedia.org/wiki/VGA "wikilink")、ディスプレイのサイズが3.2[インチ](../Page/インチ.md "wikilink")ではなく2.8インチと大幅に小さくなっているところである。これは[Vodafone 905SHを除く](../Page/Vodafone_905SH.md "wikilink")[AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")中最小である。サブディスプレイには[neon（W42T）と同様のLEDを採用しており](https://ja.wikipedia.org/wiki/neon_\(携帯電話\) "wikilink")、これまでのAQUOSケータイと一線を画している。またアシンメトリー(左右非対称)デザインを採用したW51SHとは異なり、他社向けのAQUOSケータイ同様直線的なデザインとなっている。W51SHの鑑定的な後継機種という見方があるが、コンセプトイメージやメインディスプレイのサイズ、更に初期の本体のカラーバリエーションなどはauの2007年夏モデルである「[W52SH](../Page/W52SH.md "wikilink")」に近いものである。
 
-標準でプリセットされているアプリはケータイコミック「[DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")」などである。
+標準でプリセットされているアプリはケータイコミック「[DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")」などである。
 
 日本語入力システムも本機種では[W51SH](../Page/W51SH.md "wikilink")、W52SHの[ケータイShoin](https://ja.wikipedia.org/wiki/FSKAREN "wikilink")5からケータイShoin6にバージョンアップされている。[SH905i](../Page/SH905i.md "wikilink")同様に名刺リーダーも新たに搭載された。
 

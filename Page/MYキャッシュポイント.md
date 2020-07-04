@@ -1,4 +1,4 @@
-> この記事は[MY](https://ja.wikipedia.org/wiki/MY)から翻訳されています。
+> この記事は[MYキャッシュポイント](https://ja.wikipedia.org/wiki/MYキャッシュポイント)から翻訳されています。
 
 
 **MYキャッシュポイント**（マイキャッシュポイント）は、[七十七銀行](../Page/七十七銀行.md "wikilink")・[山形銀行](../Page/山形銀行.md "wikilink")・[東邦銀行](../Page/東邦銀行.md "wikilink")の3行との間の[ATM･CD利用手数料無料提携サービスの名称である](../Page/現金自動預け払い機.md "wikilink")。
@@ -42,11 +42,11 @@
 以下のATMは、本サービスの対象外となり、下記該当金融機関以外は通常の他行（[MICS](../Page/MICS.md "wikilink")）利用手数料がかかるので注意が必要である。
 
   - 山形銀行との共同ATMのうち、上記対象金融機関以外が幹事行となるATM。以下に例示する。
-      - [荘内銀行](../Page/荘内銀行.md "wikilink")幹事で山形銀行との共同ATM（[マックスバリュ酒田北店](https://ja.wikipedia.org/wiki/マックスバリュ東北 "wikilink")、マックスバリュ青田店、[ヤマザワ](https://ja.wikipedia.org/wiki/ヤマザワ "wikilink")白山店、[おーばん](../Page/おーばん.md "wikilink")山辺店、[庄内空港](../Page/庄内空港.md "wikilink")ビル、マックスバリュ天童店、鶴岡協同の家こぴあ、主婦の店パル店）
+      - [荘内銀行](../Page/荘内銀行.md "wikilink")幹事で山形銀行との共同ATM（[マックスバリュ酒田北店](../Page/マックスバリュ東北.md "wikilink")、マックスバリュ青田店、[ヤマザワ](../Page/ヤマザワ.md "wikilink")白山店、[おーばん](../Page/おーばん.md "wikilink")山辺店、[庄内空港](../Page/庄内空港.md "wikilink")ビル、マックスバリュ天童店、鶴岡協同の家こぴあ、主婦の店パル店）
   - 東邦銀行以外が幹事行となる共同ATM1カ所（[リオン・ドール滝沢店共同出張所](../Page/リオン・ドールコーポレーション.md "wikilink")）
   - [コンビニATM](../Page/コンビニATM.md "wikilink")
       - 「[イーネット](../Page/イーネット.md "wikilink")」
-      - 「[ローソンATM](https://ja.wikipedia.org/wiki/ローソン銀行 "wikilink")」
+      - 「[ローソンATM](../Page/ローソン銀行.md "wikilink")」
 
 ## 沿革
 

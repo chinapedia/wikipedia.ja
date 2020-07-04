@@ -1,7 +1,7 @@
-> この記事は[STARTING OVER BEST HIT OF THE ALFEE](https://ja.wikipedia.org/wiki/STARTING_OVER_BEST_HIT_OF_THE_ALFEE)から翻訳されています。
+> この記事は[STARTING OVER 〜BEST HIT OF THE ALFEE〜](https://ja.wikipedia.org/wiki/STARTING_OVER_〜BEST_HIT_OF_THE_ALFEE〜)から翻訳されています。
 
 
-『**STARTING OVER 〜BEST HIT OF THE ALFEE〜**』（スターティング オーヴァー ベスト ヒット オブ ジ・アルフィー）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売された[THE ALFEEの企画アルバム](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")。
+『**STARTING OVER 〜BEST HIT OF THE ALFEE〜**』（スターティング オーヴァー ベスト ヒット オブ ジ・アルフィー）は、[2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売された[THE ALFEEの企画アルバム](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")。
 
 ## 収録曲
 

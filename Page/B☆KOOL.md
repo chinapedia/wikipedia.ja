@@ -7,7 +7,7 @@
 
 [1994年](../Page/1994年.md "wikilink")10月21日シングル「BABY BODY BEAT」でデビュー。[エリアコードドラマ](../Page/エリアコードドラマ.md "wikilink")のエンディングテーマに起用され、約3万枚を売り上げた。
 
-サウンドプロデュースは[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")や[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")などを手がけている松原 憲が担当\[1\]。当時、ストリートダンスをするグループは珍しく、ラップの入った楽曲も特徴であった。この系統のグループは、後の[DA PUMPなどに繋がる](../Page/DA_PUMP.md "wikilink")。TV、新聞、ラジオ、フロムAのCM、[COUNT DOWN TV等に出演](../Page/COUNT_DOWN_TV.md "wikilink")。日本国内よりもアジア圏での人気が高かった。
+サウンドプロデュースは[MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")や[モーニング娘。](../Page/モーニング娘。.md "wikilink")などを手がけている松原 憲が担当\[1\]。当時、ストリートダンスをするグループは珍しく、ラップの入った楽曲も特徴であった。この系統のグループは、後の[DA PUMPなどに繋がる](../Page/DA_PUMP.md "wikilink")。TV、新聞、ラジオ、フロムAのCM、[COUNT DOWN TV等に出演](../Page/COUNT_DOWN_TV.md "wikilink")。日本国内よりもアジア圏での人気が高かった。
 
 1枚目のアルバム「KOOL STUFF」に収録されている「**BABY BODY BEAT(RED MONSTER MIX)**」は、日本人による「[ユーロビート](../Page/ユーロビート.md "wikilink")・ミックス」で大きな成功を収めた。この楽曲は、国内ダンス・チャートで1位を記録。当時、猛威をふるっていたMETAL MINDED MANIACSや[ジョン・ロビンソン](../Page/ジョン・ロビンソン.md "wikilink")などのテクノ勢を抑えての快挙であった。
 
@@ -15,7 +15,7 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月、3rdシングル「JUMPIN' FLASH」を発売。ドラマ「[留萌交番日記](https://ja.wikipedia.org/wiki/留萌交番日記 "wikilink")」の主題歌に起用された。
 
-[1996年](../Page/1996年.md "wikilink")、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースの[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")のゲームソフト「ガボールスクリーン」に「**DO I,DO IT**」で参加。同年、台湾の蒋介石広場で行われた[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")のフィルムコンサートにも参加して約2万人の動員を集めた。
+[1996年](../Page/1996年.md "wikilink")、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースの[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")のゲームソフト「ガボールスクリーン」に「**DO I,DO IT**」で参加。同年、台北中山足球場で行われた[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")のフィルムコンサートにも参加して約2万人の動員を集めた。
 
 3枚目のアルバム「FIRST MISSION」からは**G.M.KAZ**をプロデューサーに迎え入れ、路線変更。
 

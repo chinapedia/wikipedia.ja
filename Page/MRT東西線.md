@@ -1,13 +1,13 @@
-> この記事は[MRT](https://ja.wikipedia.org/wiki/MRT)から翻訳されています。
+> この記事は[MRT東西線](https://ja.wikipedia.org/wiki/MRT東西線)から翻訳されています。
 
 
-}} **MRT東西線**（MRTとうざいせん <small>[英語](../Page/英語.md "wikilink")</small>：East West Line ）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の東部にある[パシール・リス駅](https://ja.wikipedia.org/wiki/パシール・リス駅 "wikilink")から西部に位置する[トゥアス・リンク駅](https://ja.wikipedia.org/wiki/トゥアス・リンク駅 "wikilink")までを結ぶ[路線と](../Page/鉄道路線.md "wikilink")、[タナ・メラ駅から分岐して](https://ja.wikipedia.org/wiki/タナ・メラ駅_\(MRT\) "wikilink")[チャンギ・エアポート駅](https://ja.wikipedia.org/wiki/チャンギ・エアポート駅 "wikilink")までを結ぶチャンギ空港支線を有する、[SMRTトレインズ](https://ja.wikipedia.org/wiki/SMRTトレインズ "wikilink")が運営する[地下鉄](https://ja.wikipedia.org/wiki/地下鉄 "wikilink")である。
+}} **MRT東西線**（MRTとうざいせん <small>[英語](../Page/英語.md "wikilink")</small>：East West Line ）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の東部にある[パシール・リス駅](https://ja.wikipedia.org/wiki/パシール・リス駅 "wikilink")から西部に位置する[トゥアス・リンク駅](https://ja.wikipedia.org/wiki/トゥアス・リンク駅 "wikilink")までを結ぶ[路線と](../Page/鉄道路線.md "wikilink")、[タナ・メラ駅から分岐して](https://ja.wikipedia.org/wiki/タナ・メラ駅_\(MRT\) "wikilink")[チャンギ・エアポート駅](https://ja.wikipedia.org/wiki/チャンギ・エアポート駅 "wikilink")までを結ぶチャンギ空港支線を有する、[SMRTトレインズ](../Page/SMRTトレインズ.md "wikilink")が運営する[地下鉄](../Page/地下鉄.md "wikilink")である。
 
 ## 概要
 
 [ラベンダー駅](https://ja.wikipedia.org/wiki/ラベンダー駅 "wikilink") - [ティオン・バル駅](https://ja.wikipedia.org/wiki/ティオン・バル駅 "wikilink")とチャンギ・エアポート駅が地下であり、他は高架である。地下の駅すべてにフルスクリーンタイプの[ホームドア](../Page/ホームドア.md "wikilink")を設置している。
 
-[2009年](../Page/2009年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[ブーン・レイ駅](https://ja.wikipedia.org/wiki/ブーン・レイ駅 "wikilink") - [ジュー・クーン駅](https://ja.wikipedia.org/wiki/ジュー・クーン駅 "wikilink")間 (3.8[km](../Page/キロメートル.md "wikilink")) の開業により、西の終着駅はこれまでのブーン・レイ駅に変わりジュー・クーン駅となった。この延伸はジュロン・ウェストの住宅と工業地帯周辺へのアクセス性の向上を目的とされ、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の中ごろから工事が開始された。この延伸によってブーン・レイ駅の混雑も緩和された。
+[2009年](../Page/2009年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[ブーン・レイ駅](https://ja.wikipedia.org/wiki/ブーン・レイ駅 "wikilink") - [ジュー・クーン駅](https://ja.wikipedia.org/wiki/ジュー・クーン駅 "wikilink")間 (3.8[km](../Page/キロメートル.md "wikilink")) の開業により、西の終着駅はこれまでのブーン・レイ駅に変わりジュー・クーン駅となった。この延伸はジュロン・ウェストの住宅と工業地帯周辺へのアクセス性の向上を目的とされ、[2005年](../Page/2005年.md "wikilink")の中ごろから工事が開始された。この延伸によってブーン・レイ駅の混雑も緩和された。
 
 [パシール・リス駅](https://ja.wikipedia.org/wiki/パシール・リス駅 "wikilink") - [ブーン・レイ駅](https://ja.wikipedia.org/wiki/ブーン・レイ駅 "wikilink")間の所要時間は57分である。
 
@@ -28,8 +28,8 @@
   - [1996年](../Page/1996年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink") [南北線がチョア](https://ja.wikipedia.org/wiki/MRT南北線 "wikilink")・チュー・カン駅まで延伸し[東西線支線が南北線に編入される](https://ja.wikipedia.org/wiki/MRT支線 "wikilink")。
   - [2001年](../Page/2001年.md "wikilink")
       - [1月10日](../Page/1月10日.md "wikilink") [エキスポ駅](https://ja.wikipedia.org/wiki/エキスポ駅 "wikilink") - タナ・メラ駅間開業\[1\]。
-      - [10月18日](https://ja.wikipedia.org/wiki/10月18日 "wikilink") [ドーヴァー駅](https://ja.wikipedia.org/wiki/ドーヴァー駅 "wikilink")開業（ブオナ・ヴィスタ駅 - クレメンティ駅間）。
-  - [2002年](../Page/2002年.md "wikilink")[2月8日](https://ja.wikipedia.org/wiki/2月8日 "wikilink") チャンギ・エアポート駅 - エキスポ駅 - 間開業。
+      - [10月18日](../Page/10月18日.md "wikilink") [ドーヴァー駅](https://ja.wikipedia.org/wiki/ドーヴァー駅 "wikilink")開業（ブオナ・ヴィスタ駅 - クレメンティ駅間）。
+  - [2002年](../Page/2002年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink") チャンギ・エアポート駅 - エキスポ駅 - 間開業。
   - [2009年](../Page/2009年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") ブーン・レイ駅 - ジュー・クーン駅間開業。
   - [2017年](../Page/2017年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") ジュー・クーン駅 - トゥアス・リンク駅間開業。
 
@@ -274,8 +274,8 @@
 
   - [マス・ラピッド・トランジット (シンガポール)](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")
   - [SMRT Trains](https://ja.wikipedia.org/wiki/SMRT_Trains "wikilink")
-  - [シンガポールの鉄道](https://ja.wikipedia.org/wiki/シンガポールの鉄道 "wikilink")
-  - [空港連絡鉄道](https://ja.wikipedia.org/wiki/空港連絡鉄道 "wikilink")
+  - [シンガポールの鉄道](../Page/シンガポールの鉄道.md "wikilink")
+  - [空港連絡鉄道](../Page/空港連絡鉄道.md "wikilink")
 
 [Category:シンガポールの鉄道路線](https://ja.wikipedia.org/wiki/Category:シンガポールの鉄道路線 "wikilink") [Category:シンガポールの地下鉄](https://ja.wikipedia.org/wiki/Category:シンガポールの地下鉄 "wikilink") [Category:空港連絡鉄道](https://ja.wikipedia.org/wiki/Category:空港連絡鉄道 "wikilink")
 

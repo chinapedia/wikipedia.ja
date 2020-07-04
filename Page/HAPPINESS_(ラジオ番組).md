@@ -81,4 +81,4 @@
 
   - [HAPPINESS](http://www.j-wave.co.jp/original/happiness/) - 番組公式サイト
 
-[Category:J-WAVEの番組](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組 "wikilink") [Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink")
+[Category:2007年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のラジオ番組_\(日本\) "wikilink") [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink")

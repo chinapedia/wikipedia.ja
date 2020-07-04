@@ -70,7 +70,7 @@
 ## 装備
 
   - [日本刀](../Page/日本刀.md "wikilink")
-  - [小太刀](https://ja.wikipedia.org/wiki/小太刀 "wikilink")(双剣)
+  - [小太刀](../Page/小太刀.md "wikilink")(双剣)
   - [ナイフ](../Page/ナイフ.md "wikilink")
   - [オートマチックピストル](https://ja.wikipedia.org/wiki/オートマチックピストル "wikilink")（AT）
   - [リボルバー](https://ja.wikipedia.org/wiki/リボルバー "wikilink")（RV）

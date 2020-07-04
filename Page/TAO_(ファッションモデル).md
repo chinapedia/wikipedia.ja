@@ -1,15 +1,15 @@
-> この記事は[TAO \(\)](https://ja.wikipedia.org/wiki/TAO_\(\))から翻訳されています。
+> この記事は[TAO \(ファッションモデル\)](https://ja.wikipedia.org/wiki/TAO_\(ファッションモデル\))から翻訳されています。
 
 
-**TAO**（たお、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")、元[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。本名は**岡本多緒**、日本国外では“Tao Okamoto”として知られる。世界的に高い評価を獲得し、数多の[ファッションショー](../Page/ファッションショー.md "wikilink")への出場経験や、アジア人初となる[ラルフ・ローレン](https://ja.wikipedia.org/wiki/ラルフ・ローレン "wikilink")などの広告にも登場している\[2\]。[2013年の映画](https://ja.wikipedia.org/wiki/2013年の映画 "wikilink")『[ウルヴァリン: SAMURAI](https://ja.wikipedia.org/wiki/ウルヴァリン:_SAMURAI "wikilink")』のヒロイン役で女優としてハリウッドデビューを果たす。
+**TAO**（たお、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](https://ja.wikipedia.org/wiki/女優 "wikilink")、元[ファッションモデル](../Page/ファッションモデル.md "wikilink")。本名は**岡本多緒**、日本国外では“Tao Okamoto”として知られる。世界的に高い評価を獲得し、数多の[ファッションショー](../Page/ファッションショー.md "wikilink")への出場経験や、アジア人初となる[ラルフ・ローレン](../Page/ラルフ・ローレン.md "wikilink")などの広告にも登場している\[2\]。[2013年の映画](https://ja.wikipedia.org/wiki/2013年の映画 "wikilink")『[ウルヴァリン: SAMURAI](https://ja.wikipedia.org/wiki/ウルヴァリン:_SAMURAI "wikilink")』のヒロイン役で女優としてハリウッドデビューを果たす。
 
 ## 来歴
 
-[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[市川市](../Page/市川市.md "wikilink")に生まれた。家族構成は父、母、姉、妹、祖母\[3\]。名前は[タオイズム（道教）からとったもので](https://ja.wikipedia.org/wiki/道教 "wikilink")、母は妊娠時には男子が生まれてくると思っていた為、「丹生」とつけるはずだったが、女子が生まれた為、女子らしい漢字として「多緒」に変えた\[4\]。元々高い身長がコンプレックスで中学生のときは朝礼で膝を曲げて並んでいたほどだった\[5\]。
+[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")に生まれた。家族構成は父、母、姉、妹、祖母\[3\]。名前は[タオイズム（道教）からとったもので](../Page/道教.md "wikilink")、母は妊娠時には男子が生まれてくると思っていた為、「丹生」とつけるはずだったが、女子が生まれた為、女子らしい漢字として「多緒」に変えた\[4\]。元々高い身長がコンプレックスで中学生のときは朝礼で膝を曲げて並んでいたほどだった\[5\]。
 
 ### モデル
 
-長身を生かそうと14歳でモデルデビュー。2004年9月に日本のモデルエージェンシー、エナジーに所属\[6\]。それまで日本でモデル活動をしていたが、高校時代のイギリス留学で養った語学力を生かし、2006年に単身でパリに行き、[エリート・モデル・マネジメント](https://ja.wikipedia.org/wiki/エリート・モデル・マネジメント "wikilink")に所属\[7\]。
+長身を生かそうと14歳でモデルデビュー。2004年9月に日本のモデルエージェンシー、エナジーに所属\[6\]。それまで日本でモデル活動をしていたが、高校時代のイギリス留学で養った語学力を生かし、2006年に単身でパリに行き、[エリート・モデル・マネジメント](../Page/エリート・モデル・マネジメント.md "wikilink")に所属\[7\]。
 
 長らく黒髪の長髪であったが、2009年2月のニューヨーク・コレクションの時期に、のちに「TAOヘアー」（[後述](https://ja.wikipedia.org/wiki/#人物 "wikilink")）といわれるようになるマッシュルームカットにした。[フィリップ・リム](https://ja.wikipedia.org/wiki/フィリップ・リム "wikilink")に見出され、ショーのトップバッターに抜擢され、フィナーレでは一緒に舞台挨拶をした。リムはTAOヘアーを大変気に入り、出演モデル全員をTAOヘアーにするという演出を行った。
 
@@ -17,7 +17,7 @@
 
 2009年4月、スタイルドットコムが選ぶ09/10年秋冬コレクションで活躍した新人モデル10人の内の1人に選ばれる\[11\]。同年[6月](../Page/6月.md "wikilink")、第52回FEC賞 FECモデル・オブ・ザ・イヤーを受賞\[12\]。 モデルズドットコムが決めるトップモデルランキング過去最高位２１位（日本人最高位）、現在はそれを超越したインダストリーアイコンというカテゴリに選ばれている。
 
-同年9月、『[ティーン・ヴォーグ](https://ja.wikipedia.org/wiki/ティーン・ヴォーグ "wikilink")』が彼女を「新星」と呼び、2009年12月・2010年1月号で「ガール・オブ・ザ・モーメント」とフィーチャーした\[13\]。『[Vogue Nippon](https://ja.wikipedia.org/wiki/ヴォーグ_\(雑誌\) "wikilink")』は2009年11月号で表紙、誌面のファッションストーリー全てにTAOを起用し、新星の[スーパーモデル](https://ja.wikipedia.org/wiki/スーパーモデル "wikilink")として大々的に取り上げた。1人のモデルをこういった形で取り上げるのは同誌史上初のことである\[14\]。 2010年1月にModels.comが発表した「2009年最も印象に残ったモデル」の10人の中の1人に選ばれる\[15\]。2010年には[毎日放送](../Page/毎日放送.md "wikilink")のドキュメンタリー番組『[情熱大陸](https://ja.wikipedia.org/wiki/情熱大陸 "wikilink")』に出演\[16\]。同年7月、情報番組『[知っとこ\!](https://ja.wikipedia.org/wiki/知っとこ! "wikilink")』の企画「2010年下半期トレンド・ザ・ベストテン」の10位に入った\[17\]。
+同年9月、『[ティーン・ヴォーグ](https://ja.wikipedia.org/wiki/ティーン・ヴォーグ "wikilink")』が彼女を「新星」と呼び、2009年12月・2010年1月号で「ガール・オブ・ザ・モーメント」とフィーチャーした\[13\]。『[Vogue Nippon](../Page/ヴォーグ_\(雑誌\).md "wikilink")』は2009年11月号で表紙、誌面のファッションストーリー全てにTAOを起用し、新星の[スーパーモデル](../Page/スーパーモデル.md "wikilink")として大々的に取り上げた。1人のモデルをこういった形で取り上げるのは同誌史上初のことである\[14\]。 2010年1月にModels.comが発表した「2009年最も印象に残ったモデル」の10人の中の1人に選ばれる\[15\]。2010年には[毎日放送](../Page/毎日放送.md "wikilink")のドキュメンタリー番組『[情熱大陸](../Page/情熱大陸.md "wikilink")』に出演\[16\]。同年7月、情報番組『[知っとこ\!](../Page/知っとこ!.md "wikilink")』の企画「2010年下半期トレンド・ザ・ベストテン」の10位に入った\[17\]。
 
 彼女はこれまでにラルフ・ローレン、[エンポリオ・アルマーニ](https://ja.wikipedia.org/wiki/エンポリオ・アルマーニ "wikilink")、ドルチェ&ガッバーナ、KENZO、ケネス・コールなどのキャンペーンに出演している。また、『アリュール』『[ハーパース・バザー](https://ja.wikipedia.org/wiki/ハーパース・バザー "wikilink")』、『intervew』『V』『i-D』『アナザー』『W』や中国・日本・ロシア・フランス・アメリカ版『ヴォーグ』など多数の国際的な雑誌に登場している\[18\]。2012年度の[シュウ・ウエムラの](https://ja.wikipedia.org/wiki/植村秀 "wikilink")2代目ビューティーアンバサダーに抜擢された（前任者は[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")）\[19\]。2016年にロンドンで行われたラグビーW杯表彰式で優勝トロフィーを運ぶ大役も務めた。
 
@@ -44,35 +44,35 @@
   - [Chanel](../Page/シャネル.md "wikilink")
   - [Hermès](../Page/エルメス.md "wikilink")
   - [Givenchy](https://ja.wikipedia.org/wiki/ジバンシィ "wikilink")
-  - [Louis Vuitton](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink")
+  - [Louis Vuitton](../Page/ルイ・ヴィトン.md "wikilink")
   - [Yves Saint Laurent](https://ja.wikipedia.org/wiki/イヴ・サン・ローラン "wikilink")
   - [miu miu](https://ja.wikipedia.org/wiki/ミュウミュウ "wikilink")
-  - [Jean-Paul Gaultier](https://ja.wikipedia.org/wiki/ジャン＝ポール・ゴルチエ "wikilink")
+  - [Jean-Paul Gaultier](../Page/ジャン＝ポール・ゴルチエ.md "wikilink")
   - [Alexander McQueen](../Page/アレキサンダー・マックイーン.md "wikilink")
-  - [Emanuel Ungaro](https://ja.wikipedia.org/wiki/エマニュエル・ウンガロ "wikilink")
+  - [Emanuel Ungaro](../Page/エマニュエル・ウンガロ.md "wikilink")
   - [DOLCE & GABBANA](../Page/ドルチェ&ガッバーナ.md "wikilink")
   - [Max Mara](https://ja.wikipedia.org/wiki/マックスマーラ "wikilink")
   - [Salvatore Ferragamo](../Page/サルヴァトーレ・フェラガモ.md "wikilink")
   - [Martin Margiela](../Page/マルタン・マルジェラ.md "wikilink")
-  - [Vivienne Westwood](https://ja.wikipedia.org/wiki/ヴィヴィアン・ウエストウッド "wikilink")
-  - [KENZO](https://ja.wikipedia.org/wiki/ケンゾー "wikilink")
+  - [Vivienne Westwood](../Page/ヴィヴィアン・ウエストウッド.md "wikilink")
+  - [KENZO](../Page/ケンゾー.md "wikilink")
   - [Marc Jacobs](../Page/マーク・ジェイコブス.md "wikilink")
   - [Paul Smith](../Page/ポール・スミス.md "wikilink")
-  - [Ralph Lauren](https://ja.wikipedia.org/wiki/ラルフ・ローレン "wikilink")
+  - [Ralph Lauren](../Page/ラルフ・ローレン.md "wikilink")
 
 #### 東京
 
   - [CHANEL](../Page/シャネル.md "wikilink")
   - [Salvatore Ferragamo](../Page/サルヴァトーレ・フェラガモ.md "wikilink")
-  - [PRADA](https://ja.wikipedia.org/wiki/プラダ "wikilink")
+  - [PRADA](../Page/プラダ.md "wikilink")
   - [ARMANI](https://ja.wikipedia.org/wiki/ARMANI "wikilink")
-  - [Vivienne Westwood](https://ja.wikipedia.org/wiki/ヴィヴィアン・ウエストウッド "wikilink")
+  - [Vivienne Westwood](../Page/ヴィヴィアン・ウエストウッド.md "wikilink")
 
 ### ワールドキャンペーン
 
-  - [Ralph Lauren](https://ja.wikipedia.org/wiki/ラルフ・ローレン "wikilink")
-  - [Tommy Hilfiger](https://ja.wikipedia.org/wiki/トミー・ヒルフィガー "wikilink")
-  - [KENZO](https://ja.wikipedia.org/wiki/ケンゾー "wikilink")
+  - [Ralph Lauren](../Page/ラルフ・ローレン.md "wikilink")
+  - [Tommy Hilfiger](../Page/トミー・ヒルフィガー.md "wikilink")
+  - [KENZO](../Page/ケンゾー.md "wikilink")
   - [ドルチェ&ガッバーナ](../Page/ドルチェ&ガッバーナ.md "wikilink")
   - [MOSCHINO](https://ja.wikipedia.org/wiki/モスキーノ "wikilink")
   - [Emporio Armani](../Page/アルマーニ.md "wikilink")
@@ -84,7 +84,7 @@
 ### CM
 
   - [ユニクロ](../Page/ユニクロ.md "wikilink")
-  - [ATSUGI･アスティーグ](https://ja.wikipedia.org/wiki/アツギ "wikilink")
+  - [ATSUGI･アスティーグ](../Page/アツギ.md "wikilink")
   - [マツダ・デミオ](../Page/マツダ・デミオ.md "wikilink")
 
 ### テレビドラマ
@@ -92,7 +92,7 @@
   - [血の轍](https://ja.wikipedia.org/wiki/血の轍_\(相場英雄\)#テレビドラマ "wikilink")（2014年1月19日 - 2月9日、[WOWOW](../Page/WOWOW.md "wikilink")） - 坂上陶子 役
   - [ハンニバル](https://ja.wikipedia.org/wiki/ハンニバル_\(ドラマ\) "wikilink") *Hannibal* （2015年） - Chiyoh役
   - [高い城の男](https://ja.wikipedia.org/wiki/高い城の男_\(テレビドラマ\) "wikilink") *The Man in the High Castle* （2015年） - ベティ・梶浦 役\[26\]
-  - [ウエストワールド](https://ja.wikipedia.org/wiki/ウエストワールド_\(テレビドラマ\) "wikilink") *Westworld* (2018年) - Hanaryo
+  - [ウエストワールド](https://ja.wikipedia.org/wiki/ウエストワールド_\(テレビドラマ\) "wikilink") *Westworld* (2018年、2020年) - Hanaryo
 
 ### 映画
 

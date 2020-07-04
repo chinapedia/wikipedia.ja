@@ -11,13 +11,13 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に「ザ・コンボイ・オフィシャル・ファンクラブ・パーティ」を設立。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に結成20周年を迎え、この年、20周年記念作品を2本、上演している。
+[2006年](../Page/2006年.md "wikilink")に結成20周年を迎え、この年、20周年記念作品を2本、上演している。
 
-その他のショーに、[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")時期に行うディナー・ショー「THE CONVOY Night」や、 ライブのみを構成した「THE CONVOY祭」がある。
+その他のショーに、[クリスマス](../Page/クリスマス.md "wikilink")時期に行うディナー・ショー「THE CONVOY Night」や、 ライブのみを構成した「THE CONVOY祭」がある。
 
-北野武に、「死ぬまでに一度は観るべき」と絶賛された縁もあり、 [北野武](https://ja.wikipedia.org/wiki/北野武 "wikilink")監督作品の映画『[座頭市](https://ja.wikipedia.org/wiki/座頭市_\(2003年の映画\) "wikilink")』、『[菊次郎の夏](https://ja.wikipedia.org/wiki/菊次郎の夏 "wikilink")』にも出演している。
+北野武に、「死ぬまでに一度は観るべき」と絶賛された縁もあり、 [北野武](https://ja.wikipedia.org/wiki/北野武 "wikilink")監督作品の映画『[座頭市](../Page/座頭市_\(2003年の映画\).md "wikilink")』、『[菊次郎の夏](../Page/菊次郎の夏.md "wikilink")』にも出演している。
 
-[2007年](../Page/2007年.md "wikilink")にはミュージカル『RATS　～今村さんの早期退職～』で[DA PUMPと共演](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")（今村以外が出演）。
+[2007年](../Page/2007年.md "wikilink")にはミュージカル『RATS　～今村さんの早期退職～』で[DA PUMPと共演](../Page/DA_PUMP.md "wikilink")（今村以外が出演）。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月より、6年振りの新作である『うみわたれ』が、全国11箇所31公演のツアーを行う。
 

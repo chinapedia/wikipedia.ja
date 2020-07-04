@@ -5,16 +5,16 @@
 
 ## 解説
 
-プロデュースはLa'cryma Christiと明石昌夫。編曲にも明石昌夫が参加している（「LIFE」「カメレオン」を除く）。2010年1月1日にSWEET-HEART-RECORDより再発。
+プロデュースはLa'cryma Christiと[明石昌夫](../Page/明石昌夫.md "wikilink")。編曲にも明石昌夫が参加している（「LIFE」「カメレオン」を除く）。2010年1月1日に[SWEET-HEART-RECORD](https://ja.wikipedia.org/wiki/SWEET-HEART-RECORD "wikilink")より再発。
 
 ## 収録曲
 
-1.  **Your song** (作詞:HIRO,TAKA 作曲:LEVIN,HIRO)
-2.  **Sister mon amour** (作詞:SHUSE,TAKA 作曲:SHUSE)
+1.  **Your song** (作詞:[HIRO](../Page/HIRO_\(ギターリスト\).md "wikilink"),[TAKA](https://ja.wikipedia.org/wiki/TAKA_\(La'cryma_Christi\) "wikilink") 作曲:[LEVIN](https://ja.wikipedia.org/wiki/LEVIN "wikilink"),HIRO)
+2.  **Sister mon amour** (作詞:[SHUSE](https://ja.wikipedia.org/wiki/SHUSE "wikilink"),TAKA 作曲:SHUSE)
 3.  **[情熱の風](https://ja.wikipedia.org/wiki/情熱の風 "wikilink")** (作詞:TAKA 作曲:HIRO)
       -
         12枚目のシングル曲。『京都迷宮案内』第4シリーズ主題歌。
-4.  **PRIDE** (作詞:TAKA 作曲:KOJI)
+4.  **PRIDE** (作詞:TAKA 作曲:[KOJI](https://ja.wikipedia.org/wiki/KOJI_\(ミュージシャン\) "wikilink"))
 5.  **[JUMP\!\!](https://ja.wikipedia.org/wiki/JUMP!! "wikilink")(&・U STYLE)** (作詞:SHUSE,TAKA 作曲:SHUSE)
       -
         11枚目のシングル曲。アルバムバージョン。

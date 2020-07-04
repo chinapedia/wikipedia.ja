@@ -7,7 +7,7 @@
 
 当時はまだ一般的ではなかったラップやスクラッチ、そしてエディットがいち早く取り入れられたほか、前作『[AFTER 5 CLASH](https://ja.wikipedia.org/wiki/AFTER_5_CLASH "wikilink")』\[1\]で展開された“夜と都会”をキーワードに、よりセクシャルなイメージを喚起させる直接的な表現が加えられた耽美的な世界を展開。結果としてオリコンアルバムチャート10位以内に初めてランクインしたほか、雑誌『ADLIB』の'85年度ベスト・レコード賞受賞作となった。
 
-「MERMAID PRINCESS」と「NO END SUMMER」は後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1981-1987](https://ja.wikipedia.org/wiki/1981-1987 "wikilink")』\[2\]に、「TOKYO TOWER」と「NO END SUMMER」はリメイク・ベスト・アルバム『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』\[3\]にそれぞれリテイク・ヴァージョンが収録された。
+「MERMAID PRINCESS」と「NO END SUMMER」は後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1981-1987](https://ja.wikipedia.org/wiki/1981-1987 "wikilink")』\[2\]に、「TOKYO TOWER」と「NO END SUMMER」はリメイク・ベスト・アルバム『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』\[3\]に、「I CAN'T STOP THE NIGHT」はリメイク・ベスト・アルバム『[EARPLAY 〜REBIRTH 2〜](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』\[4\]に、それぞれリテイク・ヴァージョンが収録された。
 
 ## 収録曲
 
@@ -31,7 +31,7 @@
 
 ### SIDE B
 
-1.  **[TOKYO TOWER](https://ja.wikipedia.org/wiki/TOKYO_TOWER "wikilink")**
+1.  **[TOKYO TOWER](../Page/TOKYO_TOWER.md "wikilink")**
       -
         角松敏生 作詞・作曲・編曲 ⁄ 数原晋 ブラス編曲
 2.  **PRAJÑÀ**
@@ -43,7 +43,7 @@
 4.  **IT'S TOO LATE**
       -
         角松敏生 作詞・作曲・編曲 ⁄ 佐藤準 ストリングス編曲
-5.  **[NO END SUMMER](https://ja.wikipedia.org/wiki/NO_END_SUMMER "wikilink")**
+5.  **[NO END SUMMER](../Page/NO_END_SUMMER.md "wikilink")**
       -
         角松敏生 作詞・作曲・編曲
 
@@ -285,3 +285,4 @@
 1.  『[AFTER 5 CLASH](https://ja.wikipedia.org/wiki/AFTER_5_CLASH "wikilink")』 発売 AIR ⁄ [RVC](https://ja.wikipedia.org/wiki/BMG_JAPAN#RVC "wikilink") LP:RAL-8812
 2.  『[1981-1987](https://ja.wikipedia.org/wiki/1981-1987 "wikilink")』 発売 OM ⁄ [BMG VICTOR](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink") 2CD:BVCR-1903/4
 3.  『[REBIRTH 1 〜re-make best〜](https://ja.wikipedia.org/wiki/REBIRTH_1_〜re-make_best〜 "wikilink")』 発売 IDEAK ⁄ [Ariola Japan Inc.](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") CD:BVCL-317
+4.  『[EARPLAY 〜REBIRTH 2〜](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』 [2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") BVCL-1063/4【初回限定生産盤】 / BVCL-1065【通常盤】

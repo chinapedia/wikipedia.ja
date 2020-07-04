@@ -1,9 +1,9 @@
-> この記事は[16IBAF](https://ja.wikipedia.org/wiki/16IBAF)から翻訳されています。
+> この記事は[第16回IBAFインターコンチネンタルカップ](https://ja.wikipedia.org/wiki/第16回IBAFインターコンチネンタルカップ)から翻訳されています。
 
 
-**第16回IBAFインターコンチネンタルカップ**（**2006 Intercontinental Cup**）は、[IBAFインターコンチネンタルカップ](https://ja.wikipedia.org/wiki/IBAFインターコンチネンタルカップ "wikilink")の第16回大会で、[11月9日](../Page/11月9日.md "wikilink")から[11月19日](../Page/11月19日.md "wikilink")にかけて[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[台中](https://ja.wikipedia.org/wiki/台中 "wikilink")で行われた。
+**第16回IBAFインターコンチネンタルカップ**（**2006 Intercontinental Cup**）は、[IBAFインターコンチネンタルカップ](../Page/IBAFインターコンチネンタルカップ.md "wikilink")の第16回大会で、[11月9日](../Page/11月9日.md "wikilink")から[11月19日](../Page/11月19日.md "wikilink")にかけて[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[台中](https://ja.wikipedia.org/wiki/台中 "wikilink")で行われた。
 
-日本代表チームについては[第16回IBAFインターコンチネンタルカップ日本代表](https://ja.wikipedia.org/wiki/第16回IBAFインターコンチネンタルカップ日本代表 "wikilink")を参照。
+日本代表チームについては[第16回IBAFインターコンチネンタルカップ日本代表](../Page/第16回IBAFインターコンチネンタルカップ日本代表.md "wikilink")を参照。
 
 [Fans_at_Taiwan-Cuba_game.jpg](https://ja.wikipedia.org/wiki/File:Fans_at_Taiwan-Cuba_game.jpg "fig:Fans_at_Taiwan-Cuba_game.jpg")
 
@@ -16,19 +16,19 @@
 
 ### 出場国
 
-  - [イタリア](https://ja.wikipedia.org/wiki/野球イタリア代表 "wikilink")
+  - [イタリア](../Page/野球イタリア代表.md "wikilink")
 
-  - [オランダ](https://ja.wikipedia.org/wiki/野球オランダ代表 "wikilink")
+  - [オランダ](../Page/野球オランダ代表.md "wikilink")
 
   - [オーストラリア](../Page/野球オーストラリア代表.md "wikilink")
 
   - [韓国](../Page/野球大韓民国代表.md "wikilink")
 
-  - [キューバ](https://ja.wikipedia.org/wiki/野球キューバ代表 "wikilink")
+  - [キューバ](../Page/野球キューバ代表.md "wikilink")
 
-  - [チャイニーズタイペイ](https://ja.wikipedia.org/wiki/野球中華民国代表 "wikilink")（開催国）
+  - [チャイニーズタイペイ](../Page/野球中華民国代表.md "wikilink")（開催国）
 
-  - [日本](https://ja.wikipedia.org/wiki/第16回IBAFインターコンチネンタルカップ日本代表 "wikilink")
+  - [日本](../Page/第16回IBAFインターコンチネンタルカップ日本代表.md "wikilink")
 
   - [フィリピン](../Page/野球フィリピン代表.md "wikilink")
 
@@ -146,7 +146,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球キューバ代表" title="wikilink">キューバ</a></p></td>
+<td><p><a href="../Page/野球キューバ代表.md" title="wikilink">キューバ</a></p></td>
 <td><p>6</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
@@ -156,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第16回IBAFインターコンチネンタルカップ日本代表" title="wikilink">日本</a></p></td>
+<td><p><a href="../Page/第16回IBAFインターコンチネンタルカップ日本代表.md" title="wikilink">日本</a></p></td>
 <td><p>6</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球オランダ代表" title="wikilink">オランダ</a></p></td>
+<td><p><a href="../Page/野球オランダ代表.md" title="wikilink">オランダ</a></p></td>
 <td><p>5</p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
@@ -176,7 +176,7 @@
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球中華民国代表" title="wikilink">チャイニーズタイペイ</a></p></td>
+<td><p><a href="../Page/野球中華民国代表.md" title="wikilink">チャイニーズタイペイ</a></p></td>
 <td><p>4</p></td>
 <td><p>3</p></td>
 <td><p>0</p></td>
@@ -206,7 +206,7 @@
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球イタリア代表" title="wikilink">イタリア</a></p></td>
+<td><p><a href="../Page/野球イタリア代表.md" title="wikilink">イタリア</a></p></td>
 <td><p>2</p></td>
 <td><p>5</p></td>
 <td><p>0</p></td>
@@ -260,7 +260,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球キューバ代表" title="wikilink">キューバ</a></p></td>
+<td><p><a href="../Page/野球キューバ代表.md" title="wikilink">キューバ</a></p></td>
 <td><p>8</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
@@ -269,7 +269,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球オランダ代表" title="wikilink">オランダ</a></p></td>
+<td><p><a href="../Page/野球オランダ代表.md" title="wikilink">オランダ</a></p></td>
 <td><p>6</p></td>
 <td><p>3</p></td>
 <td><p>0</p></td>
@@ -278,7 +278,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球中華民国代表" title="wikilink">チャイニーズタイペイ</a></p></td>
+<td><p><a href="../Page/野球中華民国代表.md" title="wikilink">チャイニーズタイペイ</a></p></td>
 <td><p>5</p></td>
 <td><p>4</p></td>
 <td><p>0</p></td>
@@ -287,7 +287,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/第16回IBAFインターコンチネンタルカップ日本代表" title="wikilink">日本</a></p></td>
+<td><p><a href="../Page/第16回IBAFインターコンチネンタルカップ日本代表.md" title="wikilink">日本</a></p></td>
 <td><p>5</p></td>
 <td><p>3</p></td>
 <td><p>0</p></td>
@@ -305,7 +305,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野球イタリア代表" title="wikilink">イタリア</a></p></td>
+<td><p><a href="../Page/野球イタリア代表.md" title="wikilink">イタリア</a></p></td>
 <td><p>3</p></td>
 <td><p>6</p></td>
 <td><p>0</p></td>
@@ -344,6 +344,6 @@
 
 ## 関連項目
 
-  - [第16回IBAFインターコンチネンタルカップ日本代表](https://ja.wikipedia.org/wiki/第16回IBAFインターコンチネンタルカップ日本代表 "wikilink")
+  - [第16回IBAFインターコンチネンタルカップ日本代表](../Page/第16回IBAFインターコンチネンタルカップ日本代表.md "wikilink")
 
 [Category:IBAFインターコンチネンタルカップ](https://ja.wikipedia.org/wiki/Category:IBAFインターコンチネンタルカップ "wikilink") [Category:台湾開催の国際野球大会](https://ja.wikipedia.org/wiki/Category:台湾開催の国際野球大会 "wikilink") [Category:台中市のスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:台中市のスポーツ競技大会 "wikilink") [Category:2006年の野球](https://ja.wikipedia.org/wiki/Category:2006年の野球 "wikilink") [Category:2006年の台湾](https://ja.wikipedia.org/wiki/Category:2006年の台湾 "wikilink") [Category:2006年11月](https://ja.wikipedia.org/wiki/Category:2006年11月 "wikilink")

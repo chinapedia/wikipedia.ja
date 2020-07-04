@@ -1,7 +1,7 @@
 > この記事は[Bless the Child](https://ja.wikipedia.org/wiki/Bless_the_Child)から翻訳されています。
 
 
-『**Bless the Child**』（ブレス・ザ・チャイルド）は、[Nightwish](https://ja.wikipedia.org/wiki/Nightwish "wikilink") がリリースしたアルバム『[センチュリー・チャイルド](https://ja.wikipedia.org/wiki/センチュリー・チャイルド "wikilink")』からのセカンド・シングル。同曲をタイトル・トラックとしたミニ・アルバムとしてもリリースされた。
+『**Bless the Child**』（ブレス・ザ・チャイルド）は、[Nightwish](https://ja.wikipedia.org/wiki/Nightwish "wikilink") がリリースしたアルバム『[センチュリー・チャイルド](../Page/センチュリー・チャイルド.md "wikilink")』からのセカンド・シングル。同曲をタイトル・トラックとしたミニ・アルバムとしてもリリースされた。
 
 Pasi Takula が監督を務め、ビデオも制作されている。
 
@@ -32,10 +32,10 @@ Pasi Takula が監督を務め、ビデオも制作されている。
 
 ## 演奏者
 
-  - [ターヤ・トゥルネン](https://ja.wikipedia.org/wiki/ターヤ・トゥルネン "wikilink") - [歌](../Page/歌.md "wikilink")
-  - [ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
-  - [エンプ・ヴオリネン](https://ja.wikipedia.org/wiki/エンプ・ヴオリネン "wikilink") - [ギター](../Page/ギター.md "wikilink")
-  - [ユッカ・ネヴァライネン](https://ja.wikipedia.org/wiki/ユッカ・ネヴァライネン "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-  - [マルコ・ヒエタラ](https://ja.wikipedia.org/wiki/マルコ・ヒエタラ "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース・ギター "wikilink")、歌
+  - [ターヤ・トゥルネン](../Page/ターヤ・トゥルネン.md "wikilink") - [歌](../Page/歌.md "wikilink")
+  - [ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
+  - [エンプ・ヴオリネン](../Page/エンプ・ヴオリネン.md "wikilink") - [ギター](../Page/ギター.md "wikilink")
+  - [ユッカ・ネヴァライネン](../Page/ユッカ・ネヴァライネン.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [マルコ・ヒエタラ](../Page/マルコ・ヒエタラ.md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース・ギター "wikilink")、歌
 
 [Category:ナイトウィッシュの楽曲](https://ja.wikipedia.org/wiki/Category:ナイトウィッシュの楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[メイデンヘッド・ユナイテッドFC](https://ja.wikipedia.org/wiki/メイデンヘッド・ユナイテッドFC)から翻訳されています。
 
 
-**メイデンヘッド・ユナイテッド・フットボール・クラブ**（**Maidenhead United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[バークシャー](https://ja.wikipedia.org/wiki/バークシャー "wikilink")州、[メイデンヘッド](https://ja.wikipedia.org/wiki/メイデンヘッド "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
+**メイデンヘッド・ユナイテッド・フットボール・クラブ**（**Maidenhead United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[バークシャー](../Page/バークシャー.md "wikilink")州、[メイデンヘッド](https://ja.wikipedia.org/wiki/メイデンヘッド "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
 
 ## タイトル
 
@@ -19,7 +19,7 @@
 
   - [アルフィー・モーソン](https://ja.wikipedia.org/wiki/アルフィー・モーソン "wikilink") 2012-2013
 
-  - [ケリー・ギルバート](https://ja.wikipedia.org/wiki/ケリー・ギルバート "wikilink") 2013
+  - [ケリー・ギルバート](../Page/ケリー・ギルバート.md "wikilink") 2013
 
   - [DJ・キャンベル](https://ja.wikipedia.org/wiki/DJ・キャンベル "wikilink") 2014-2015
 

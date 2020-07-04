@@ -1,4 +1,4 @@
-> この記事は[ Z](https://ja.wikipedia.org/wiki/_Z)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 Z](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_Z)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**Z**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carlos_Zambrano" title="wikilink">Carlos Zambrano</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・ザンブラーノ" title="wikilink">カルロス・ザンブラーノ</a></p></td>
+<td><p><a href="../Page/カルロス・ザンブラーノ.md" title="wikilink">カルロス・ザンブラーノ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -144,7 +144,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Victor_Zambrano" title="wikilink">Victor Zambrano</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビクター・ザンブラーノ" title="wikilink">ビクター・ザンブラーノ</a></p></td>
+<td><p><a href="../Page/ビクター・ザンブラーノ.md" title="wikilink">ビクター・ザンブラーノ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -469,7 +469,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Don_Zimmer" title="wikilink">Don Zimmer</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドン・ジマー" title="wikilink">ドン・ジマー</a></p></td>
+<td><p><a href="../Page/ドン・ジマー.md" title="wikilink">ドン・ジマー</a></p></td>
 <td><p>1954</p></td>
 <td><p>1965</p></td>
 <td></td>
@@ -532,7 +532,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Ryan_Zimmerman" title="wikilink">Ryan Zimmerman</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライアン・ジマーマン" title="wikilink">ライアン・ジマーマン</a></p></td>
+<td><p><a href="../Page/ライアン・ジマーマン.md" title="wikilink">ライアン・ジマーマン</a></p></td>
 <td><p>2005</p></td>
 <td></td>
 <td></td>
@@ -588,7 +588,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alan_Zinter" title="wikilink">Alan Zinter</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・ジンター" title="wikilink">アラン・ジンター</a></p></td>
+<td><p><a href="../Page/アラン・ジンター.md" title="wikilink">アラン・ジンター</a></p></td>
 <td><p>2002</p></td>
 <td><p>2004</p></td>
 <td></td>
@@ -609,7 +609,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Barry_Zito" title="wikilink">Barry Zito</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バリー・ジト" title="wikilink">バリー・ジト</a></p></td>
+<td><p><a href="../Page/バリー・ジト.md" title="wikilink">バリー・ジト</a></p></td>
 <td><p>2000</p></td>
 <td><p>2015</p></td>
 <td></td>
@@ -667,7 +667,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Peter_Zoccolillo" title="wikilink">Peter Zoccolillo</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピーター・ゾッコリーロ" title="wikilink">ピーター・ゾッコリーロ</a></p></td>
+<td><p><a href="../Page/ピーター・ゾッコリーロ.md" title="wikilink">ピーター・ゾッコリーロ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -720,14 +720,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Julio_Zuleta" title="wikilink">Julio Zuleta</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フリオ・ズレータ" title="wikilink">フリオ・ズレータ</a></p></td>
+<td><p><a href="../Page/フリオ・ズレータ.md" title="wikilink">フリオ・ズレータ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2001</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joel_Zumaya" title="wikilink">Joel Zumaya</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョエル・ズマヤ" title="wikilink">ジョエル・ズマヤ</a></p></td>
+<td><p><a href="../Page/ジョエル・ズマヤ.md" title="wikilink">ジョエル・ズマヤ</a></p></td>
 <td><p>2006</p></td>
 <td><p>2010</p></td>
 <td></td>

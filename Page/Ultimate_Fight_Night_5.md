@@ -3,7 +3,7 @@
 
 **Ultimate Fight Night 5**（アルティメット・ファイトナイト・ファイブ、別名**UFC Fight Night 5**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2006年](../Page/2006年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")の[ザ・ジョイント](https://ja.wikipedia.org/wiki/ザ・ジョイント "wikilink")で開催された。
 
-メインイベントでは、[アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink")と[クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink")のミドル級戦が行われ、大会はSpike TVにより全米及び[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")へ無料放送された。
+メインイベントでは、[アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink")と[クリス・リーベン](../Page/クリス・リーベン.md "wikilink")のミドル級戦が行われ、大会はSpike TVにより全米及び[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")へ無料放送された。
 
 ## 大会概要
 
@@ -38,7 +38,7 @@
     ○  [ラシャド・エヴァンス](../Page/ラシャド・エヴァンス.md "wikilink") vs.  [ステファン・ボナー](../Page/ステファン・ボナー.md "wikilink") ×
     3R終了 判定2-0（30-27、29-28、29-29）
   - 第8試合 ミドル級 5分3R
-    ○  [アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink") vs.  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") ×
+    ○  [アンデウソン・シウバ](../Page/アンデウソン・シウバ.md "wikilink") vs.  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") ×
     1R 0:49 KO（膝蹴り）
   - 第9試合 ウェルター級 5分3R
     ○  [ジョナサン・グレ](../Page/ジョナサン・グレ.md "wikilink") vs.  ルーク・クモ ×

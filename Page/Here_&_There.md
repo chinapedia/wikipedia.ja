@@ -1,7 +1,7 @@
 > この記事は[Here \& There](https://ja.wikipedia.org/wiki/Here_\&_There)から翻訳されています。
 
 
-「**Here & There**」（ヒア・アンド・ゼア）は、[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")48枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に発売された。発売元は[ユニバーサル シグマ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**Here & There**」（ヒア・アンド・ゼア）は、[CHAGE and ASKAの楽曲](../Page/CHAGE_and_ASKA.md "wikilink")。自身の48作目の[シングル](../Page/シングル.md "wikilink")として、[ユニバーサル シグマから](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")に発売された。
 
 ## 解説
 
@@ -17,9 +17,9 @@
     （作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")　作曲：[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")・村田努　編曲：[十川知司](../Page/十川ともじ.md "wikilink")）
       -
         [日清製粉グループ](https://ja.wikipedia.org/wiki/日清製粉グループ "wikilink") CMソング。また、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ウチくる\!?](../Page/ウチくる!?.md "wikilink")』エンディングテーマ。
-        CHAGEとASKAの掛け合いが印象的となっている。シングル「Man and Woman」のカップリングには[リミックス](https://ja.wikipedia.org/wiki/リミックス "wikilink")された「improvisation mix」が収録されている。また、[日清製粉グループの](https://ja.wikipedia.org/wiki/日清製粉グループ本社 "wikilink")[CMソングとして放送された際には](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、[CM限定のアコースティック](../Page/コマーシャルメッセージ.md "wikilink")・バージョンが使用された。このバージョンは[Music.jp](https://ja.wikipedia.org/wiki/Music.jp "wikilink") で[着うた](../Page/着うた.md "wikilink")配信されたが、[CD化はされていない](../Page/コンパクトディスク.md "wikilink")。
+        CHAGEとASKAの掛け合いが印象的となっている。シングル「Man and Woman」のカップリングには[リミックス](../Page/リミックス.md "wikilink")された「improvisation mix」が収録されている。また、[日清製粉グループの](../Page/日清製粉グループ本社.md "wikilink")[CMソングとして放送された際には](../Page/コマーシャルソング.md "wikilink")、[CM限定のアコースティック](../Page/コマーシャルメッセージ.md "wikilink")・バージョンが使用された。このバージョンは[Music.jp](https://ja.wikipedia.org/wiki/Music.jp "wikilink") で[着うた](../Page/着うた.md "wikilink")配信されたが、[CD化はされていない](../Page/コンパクトディスク.md "wikilink")。
 2.  **Man and Woman - orchestra ver.**
-    （作詞・作曲：[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[松本晃彦](https://ja.wikipedia.org/wiki/松本晃彦 "wikilink")）
+    （作詞・作曲：[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[松本晃彦](../Page/松本晃彦.md "wikilink")）
       -
         「Man and Woman」のオーケストラ・バージョン。[オーケストレーションを担当するKae](https://ja.wikipedia.org/wiki/管弦楽法 "wikilink").M.Blackは松本晃彦の実姉である。
 
@@ -28,9 +28,9 @@
 **Here & There**
 
   - [drums](../Page/ドラムセット.md "wikilink")：[山木秀夫](../Page/山木秀夫.md "wikilink")
-  - [bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
+  - [bass](../Page/ベース_\(弦楽器\).md "wikilink")：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
   - [guitars](../Page/ギター.md "wikilink")：[名越由貴夫](https://ja.wikipedia.org/wiki/名越由貴夫 "wikilink")、浜口高知
-  - [keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")/[programming](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")：[十川知司](../Page/十川ともじ.md "wikilink")
+  - [keyboards](../Page/キーボード_\(楽器\).md "wikilink")/[programming](../Page/マニピュレーター.md "wikilink")：[十川知司](../Page/十川ともじ.md "wikilink")
   - [strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink")：後藤勇一郎ストリングス
   - [percussions](../Page/パーカッション.md "wikilink")：マーク・ディローズ
 
@@ -43,7 +43,7 @@
   - [flute](../Page/フルート.md "wikilink")：旭孝
   - [harp](../Page/ハープ.md "wikilink")：早川りさこ
   - [horn](../Page/ホルン.md "wikilink")：藤田乙比古、勝俣泰
-  - [trumpet](../Page/トランペット.md "wikilink")：[エリック・ミヤシロ](https://ja.wikipedia.org/wiki/エリック・ミヤシロ "wikilink")、横山均、木幡光邦
+  - [trumpet](../Page/トランペット.md "wikilink")：[エリック・ミヤシロ](../Page/エリック・ミヤシロ.md "wikilink")、横山均、木幡光邦
 
 ## 収録アルバム
 

@@ -1,12 +1,12 @@
 > この記事は[Hi Hi](https://ja.wikipedia.org/wiki/Hi_Hi)から翻訳されています。
 
 
-「**Hi Hi**」（ハイハイ）は、[PUFFY](../Page/PUFFY.md "wikilink")の19枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売。発売元は[キューンレコード](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+「**Hi Hi**」（ハイハイ）は、[PUFFY](../Page/PUFFY.md "wikilink")の19枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")発売。発売元は[キューンレコード](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
-  - [J-オイルミルズ](https://ja.wikipedia.org/wiki/J-オイルミルズ "wikilink")「AJINOMOTO さらさらキャノーラ油」CMソング。
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[おはスタ](https://ja.wikipedia.org/wiki/おはスタ "wikilink")』内アニメ『[ハイ\!ハイ\!パフィー・アミユミ](https://ja.wikipedia.org/wiki/Hi_Hi_Puffy_AmiYumi "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+  - [J-オイルミルズ](../Page/J-オイルミルズ.md "wikilink")「AJINOMOTO さらさらキャノーラ油」CMソング。
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[おはスタ](../Page/おはスタ.md "wikilink")』内アニメ『[ハイ\!ハイ\!パフィー・アミユミ](https://ja.wikipedia.org/wiki/Hi_Hi_Puffy_AmiYumi "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。
   - 「Puffy AmiYumi」名義での発売になっている。
   - PUFFYの歴代シングルの中で、売上ワースト1の曲。
 

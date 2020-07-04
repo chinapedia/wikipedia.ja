@@ -1,7 +1,7 @@
 > この記事は[Neuroevolution](https://ja.wikipedia.org/wiki/Neuroevolution)から翻訳されています。
 
 
-**Neuroevolution** または **Neuro-evolution** は人工[ニューラルネットワーク](../Page/ニューラルネットワーク.md "wikilink")の学習に[遺伝的アルゴリズム](../Page/遺伝的アルゴリズム.md "wikilink")を用いる[機械学習](https://ja.wikipedia.org/wiki/機械学習 "wikilink")の手法である。ネットワークの性能を測るのが容易であるが、[教師あり学習](https://ja.wikipedia.org/wiki/教師あり学習 "wikilink")を用いて正しい入力と出力の対の概要を作るのが困難または不可能である[ゲームや](../Page/パソコンゲーム.md "wikilink")[ロボット](../Page/ロボット.md "wikilink")のモーター制御するようなアプリケーションに有効である。ニューラルネットワークの学習の分類体系では[強化学習](https://ja.wikipedia.org/wiki/強化学習 "wikilink")に属する。
+**Neuroevolution** または **Neuro-evolution** は人工[ニューラルネットワーク](../Page/ニューラルネットワーク.md "wikilink")の学習に[遺伝的アルゴリズム](../Page/遺伝的アルゴリズム.md "wikilink")を用いる[機械学習](../Page/機械学習.md "wikilink")の手法である。ネットワークの性能を測るのが容易であるが、[教師あり学習](https://ja.wikipedia.org/wiki/教師あり学習 "wikilink")を用いて正しい入力と出力の対の概要を作るのが困難または不可能である[ゲームや](../Page/パソコンゲーム.md "wikilink")[ロボット](../Page/ロボット.md "wikilink")のモーター制御するようなアプリケーションに有効である。ニューラルネットワークの学習の分類体系では[強化学習](../Page/強化学習.md "wikilink")に属する。
 
 ## 特徴
 

@@ -1,7 +1,7 @@
-> この記事は[ \(PUFFY\)](https://ja.wikipedia.org/wiki/_\(PUFFY\))から翻訳されています。
+> この記事は[あたらしい日々 \(PUFFYの曲\)](https://ja.wikipedia.org/wiki/あたらしい日々_\(PUFFYの曲\))から翻訳されています。
 
 
-「**あたらしい日々**」（あたらしいひび）は、[PUFFY](../Page/PUFFY.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")発売。発売元は[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+「**あたらしい日々**」（あたらしいひび）は、[PUFFY](../Page/PUFFY.md "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")発売。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 解説
 

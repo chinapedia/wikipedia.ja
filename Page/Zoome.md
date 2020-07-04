@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[1月30日](../Page/1月30日.md "wikilink")、[ADSL](../Page/ADSL.md "wikilink")回線卸売業者である[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")によってサービスが開始された動画コミュニティサービス\[1\]\[2\]。「[Web.2.0](https://ja.wikipedia.org/wiki/Web.2.0 "wikilink")時代の参加型ムービーコミュニティ」を謳っており、マイアカウントによるマイページや後に追加される[SNSサークル機能など](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")[CGM要素が強いほか](https://ja.wikipedia.org/wiki/Consumer_Generated_Media "wikilink")、開設当初からオフィシャル系ページ「ナビチャンネル」に[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")を採用した。
+[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[1月30日](../Page/1月30日.md "wikilink")、[ADSL](../Page/ADSL.md "wikilink")回線卸売業者である[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")によってサービスが開始された動画コミュニティサービス\[1\]\[2\]。「[Web.2.0](https://ja.wikipedia.org/wiki/Web.2.0 "wikilink")時代の参加型ムービーコミュニティ」を謳っており、マイアカウントによるマイページや後に追加される[SNSサークル機能など](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")[CGM要素が強いほか](../Page/Consumer_Generated_Media.md "wikilink")、開設当初からオフィシャル系ページ「ナビチャンネル」に[H.264](../Page/H.264.md "wikilink")を採用した。
 
 キャッチコピーは「みんなのムービーコミュニティ」。
 
@@ -13,7 +13,7 @@
 
 ### zoome株式会社
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に企画開発力および事業スピードの効率化を目的に子会社として**zoome株式会社**が設立され、zoomeの運営会社となった\[3\]。同日に、[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")がzoomeの運営をzoome株式会社へ移管。初代[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")[社長](https://ja.wikipedia.org/wiki/社長 "wikilink")は[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")代表取締役社長の[須山勇](https://ja.wikipedia.org/wiki/須山勇 "wikilink")。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[6月2日](../Page/6月2日.md "wikilink")に企画開発力および事業スピードの効率化を目的に子会社として**zoome株式会社**が設立され、zoomeの運営会社となった\[3\]。同日に、[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")がzoomeの運営をzoome株式会社へ移管。初代[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")は[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")代表取締役社長の[須山勇](https://ja.wikipedia.org/wiki/須山勇 "wikilink")。
 
 その後同年[10月31日](../Page/10月31日.md "wikilink")に[コンピュータ](../Page/コンピュータ.md "wikilink")系[ニュースサイト](../Page/ニュースサイト.md "wikilink")を運営する[アイティメディア](https://ja.wikipedia.org/wiki/アイティメディア "wikilink")の子会社となった\[4\]。
 
@@ -24,21 +24,21 @@
       - [3月1日](../Page/3月1日.md "wikilink") - 「メッセージ交換機能」開始。
       - [4月4日](../Page/4月4日.md "wikilink") - 「携帯電話からの投稿機能」開始。
       - [9月18日](../Page/9月18日.md "wikilink") - 「サークル機能」開始。
-      - [10月19日](../Page/10月19日.md "wikilink") - [三洋電機](../Page/三洋電機.md "wikilink")「[Xacti](https://ja.wikipedia.org/wiki/Xacti "wikilink")」シリーズと共同プロモーション開始。
+      - [10月19日](../Page/10月19日.md "wikilink") - [三洋電機](../Page/三洋電機.md "wikilink")「[Xacti](../Page/Xacti.md "wikilink")」シリーズと共同プロモーション開始。
       - [11月13日](../Page/11月13日.md "wikilink") - [APIを公開](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。
       - [11月21日](../Page/11月21日.md "wikilink") - 「フキダシ道場」開始。
-      - [12月4日](../Page/12月4日.md "wikilink") - [初音ミク](../Page/初音ミク.md "wikilink")の販売元である[クリプトン・フューチャー・メディア](../Page/クリプトン・フューチャー・メディア.md "wikilink")と連携した初音ミク、鏡音リンレンのオリジナル動画投稿サイト「**[藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")と[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")の投稿動画向上委員会（TDKI）**\[5\]」開設。
+      - [12月4日](../Page/12月4日.md "wikilink") - [初音ミク](../Page/初音ミク.md "wikilink")の販売元である[クリプトン・フューチャー・メディア](../Page/クリプトン・フューチャー・メディア.md "wikilink")と連携した初音ミク、鏡音リンレンのオリジナル動画投稿サイト「**[藤田咲](../Page/藤田咲.md "wikilink")と[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")の投稿動画向上委員会（TDKI）**\[5\]」開設。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）
-      - [4月15日](../Page/4月15日.md "wikilink") - [IVSテレビ制作](https://ja.wikipedia.org/wiki/IVSテレビ制作 "wikilink")とのコラボ、コスプレ動画サークル「こす☆チュー\[6\]」開始。
-      - [4月24日](../Page/4月24日.md "wikilink") - [おちまさと](https://ja.wikipedia.org/wiki/おちまさと "wikilink")審査の「オリキャラ」開始。
+      - [4月15日](../Page/4月15日.md "wikilink") - [IVSテレビ制作](../Page/IVSテレビ制作.md "wikilink")とのコラボ、コスプレ動画サークル「こす☆チュー\[6\]」開始。
+      - [4月24日](../Page/4月24日.md "wikilink") - [おちまさと](../Page/おちまさと.md "wikilink")審査の「オリキャラ」開始。
       - [4月28日](../Page/4月28日.md "wikilink") - オンライン付箋「lino」対応開始。
-      - [6月4日](../Page/6月4日.md "wikilink") - [IVSテレビ制作](https://ja.wikipedia.org/wiki/IVSテレビ制作 "wikilink")とのコラボ、ランチ投稿サークル「eat mo(いーとも)\!\!\[7\]」開始。
+      - [6月4日](../Page/6月4日.md "wikilink") - [IVSテレビ制作](../Page/IVSテレビ制作.md "wikilink")とのコラボ、ランチ投稿サークル「eat mo(いーとも)\!\!\[7\]」開始。
       - [7月1日](../Page/7月1日.md "wikilink") - リニューアルオープン。
       - [7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - [GyaOとのコラボ](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")「動物ふぇち動画\[8\]」開始。
-      - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - 「須佐男命いか」漁師っ娘キャラクターコンテスト\[9\]開設。
-          - 動画投稿サイト初の観光協会とのコラボ。[山口県](../Page/山口県.md "wikilink")[萩市](../Page/萩市.md "wikilink")須佐観光協会との[須佐男命いか](https://ja.wikipedia.org/wiki/須佐男命いか "wikilink")キャラクター公募サークル。[きただにひろし](https://ja.wikipedia.org/wiki/きただにひろし "wikilink")、[野村興児](https://ja.wikipedia.org/wiki/野村興児 "wikilink")萩市長が審査に参加。
+      - [7月23日](../Page/7月23日.md "wikilink") - 「須佐男命いか」漁師っ娘キャラクターコンテスト\[9\]開設。
+          - 動画投稿サイト初の観光協会とのコラボ。[山口県](../Page/山口県.md "wikilink")[萩市](../Page/萩市.md "wikilink")須佐観光協会との[須佐男命いか](https://ja.wikipedia.org/wiki/須佐男命いか "wikilink")キャラクター公募サークル。[きただにひろし](../Page/きただにひろし.md "wikilink")、[野村興児](../Page/野村興児.md "wikilink")萩市長が審査に参加。
       - [12月12日](../Page/12月12日.md "wikilink") - [アイティメディア](https://ja.wikipedia.org/wiki/アイティメディア "wikilink")とコラボ。[iPhone 3G用アプリケーション動画キャンペーン](https://ja.wikipedia.org/wiki/iPhone_3G "wikilink")「[iPhoneアプリ動画アワード](http://plusd.itmedia.co.jp/mobile/apptown/award.html)」開始。
-      - [12月18日](../Page/12月18日.md "wikilink") - [東京工芸大学](https://ja.wikipedia.org/wiki/東京工芸大学 "wikilink")とコラボ。[東京工芸大学×zoome「クリエイターズギャラリー」](http://www.zoome.jp/cg_kougei)開始。「ホーム機能」開始。
+      - [12月18日](../Page/12月18日.md "wikilink") - [東京工芸大学](../Page/東京工芸大学.md "wikilink")とコラボ。[東京工芸大学×zoome「クリエイターズギャラリー」](http://www.zoome.jp/cg_kougei)開始。「ホーム機能」開始。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
       - [1月30日](../Page/1月30日.md "wikilink") - zoome開設2周年、「TDKI」開始一周年と[巡音ルカ](https://ja.wikipedia.org/wiki/巡音ルカ "wikilink")リリースを記念したVOCALOID企画「TDKIリターンズ」、音楽ファイル投稿機能など開始\[10\]。
           - 「クリプトン公認\!初音ミク、鏡音リンレン作品投稿サイト『TDKI』」が「**ボカロ系投稿動画コミュニティ「TDKI」 〜クリプトン公認〜 （初音ミク、鏡音リン・レン、巡音ルカ）**」にリニューアル。
@@ -46,8 +46,8 @@
           - 「音楽ファイル投稿機能」開始。[MP3](../Page/MP3.md "wikilink")・[AAC](../Page/AAC.md "wikilink")などの音楽ファイルだけでzoome側がH.264動画を変換して動画として公開する。\[11\]。
       - [3月9日](../Page/3月9日.md "wikilink") - 「TDKIリターンズ」作品を高画質で[iPhone 3G端末で視聴できるiPhoneアプリケーション](https://ja.wikipedia.org/wiki/iPhone_3G "wikilink")「zoome TDKI」を提供開始。
       - [3月18日](../Page/3月18日.md "wikilink") - 芸能活動を休止していた[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")、「田代まさしのお久しブリーフ！」がスタート\[12\]。
-      - [3月23日](../Page/3月23日.md "wikilink") - [FLV](https://ja.wikipedia.org/wiki/FLV "wikilink")形式の標準画質選再生が廃止され、[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")形式の高画質再生に一本化。再生開始時は「zoome H.264」と表示される。
-      - [5月11日](../Page/5月11日.md "wikilink") - HD動画(横ピクセル1280以上の動画)に対応。HD動画の視聴には[BitTorrent DNAが必要となる](https://ja.wikipedia.org/wiki/BitTorrent_DNA "wikilink")。また、直近1ヶ月の間に投稿できる動画の容量がエンコード後のサイズで1Gバイトまでに制限。
+      - [3月23日](../Page/3月23日.md "wikilink") - [FLV](https://ja.wikipedia.org/wiki/FLV "wikilink")形式の標準画質選再生が廃止され、[H.264](../Page/H.264.md "wikilink")形式の高画質再生に一本化。再生開始時は「zoome H.264」と表示される。
+      - [5月11日](../Page/5月11日.md "wikilink") - HD動画(横ピクセル1280以上の動画)に対応。HD動画の視聴には[BitTorrent DNAが必要となる](../Page/BitTorrent_DNA.md "wikilink")。また、直近1ヶ月の間に投稿できる動画の容量がエンコード後のサイズで1Gバイトまでに制限。
       - [6月1日](../Page/6月1日.md "wikilink") - ゲームチャンネルを分離、「ITmedia ＋D Games」と統合し「ITmedia Gamez」としてリニューアル。
       - [9月2日](../Page/9月2日.md "wikilink") - 有料オプションサービス「zoome+」を開始。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）
@@ -111,7 +111,7 @@ zoomeではマイページ、サークルページ、公式ページなどそれ
 
 2008年（平成20年）[12月4日](../Page/12月4日.md "wikilink")、[クリプトン・フューチャー・メディア](../Page/クリプトン・フューチャー・メディア.md "wikilink")が[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")（当時）と提携して開設\[13\]した**唯一のクリプトン公認初音ミク系作品投稿サイト**。「TDKI」とは「Toko Doga Kojo Iinkai」の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")頭文字を取った造語。[CGM](https://ja.wikipedia.org/wiki/CGM "wikilink")サイト「[ピアプロ](../Page/ピアプロ.md "wikilink")」が行う最初のコラボレート企画であり「公認動画の投稿にはzoomeを使う[3](http://www.itmedia.co.jp/news/articles/0801/28/news010.html)」という合意の下、ピアプロと連動。トップイメージにはコラボレートを示す「**zoome×ピアプロ**」を冠する。
 
-同年[12月6日](../Page/12月6日.md "wikilink")から投稿が始まり、開設から2008年（平成20年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")までは[藤田咲](https://ja.wikipedia.org/wiki/藤田咲 "wikilink")と[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")が司会の番組「**zoomeあわ〜**」が放送された。
+同年[12月6日](../Page/12月6日.md "wikilink")から投稿が始まり、開設から2008年（平成20年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")までは[藤田咲](../Page/藤田咲.md "wikilink")と[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")が司会の番組「**zoomeあわ〜**」が放送された。
 
 それから間もなく他サイトで発生した[初音ミク](../Page/初音ミク.md "wikilink")楽曲に纏わる問題の影響で注目されVOCALOIDファンが雪崩込む現象が起きた。それまで知名度が低かったzoomeがユーザー、メディアから注目されることになったため、初音ミク系動画だけにとどまらずzoome全体の知名度向上に大きな影響を与えたサークルページになった\[14\]。
 
@@ -121,13 +121,13 @@ zoomeではマイページ、サークルページ、公式ページなどそれ
 
 2009年（平成21年）[1月30日](../Page/1月30日.md "wikilink")、TDKIの名前がリニューアルされ、zoome開設2周年、「TDKI」開始一周年と[巡音ルカ](https://ja.wikipedia.org/wiki/巡音ルカ "wikilink")リリースを記念したzoomeあわ〜後継企画「**TDKIリターンズ**」が始まった。配信するネット内番組は[浅川悠](../Page/浅川悠.md "wikilink")を招き優秀な作品を紹介する。
 
-[3月9日](../Page/3月9日.md "wikilink")には「TDKIリターンズ」作品を[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")画質で[iPhone 3G端末で視聴できるiPhoneアプリケーション](https://ja.wikipedia.org/wiki/iPhone_3G "wikilink")「zoome TDKI」の提供が始まった。
+[3月9日](../Page/3月9日.md "wikilink")には「TDKIリターンズ」作品を[H.264](../Page/H.264.md "wikilink")画質で[iPhone 3G端末で視聴できるiPhoneアプリケーション](https://ja.wikipedia.org/wiki/iPhone_3G "wikilink")「zoome TDKI」の提供が始まった。
 
 ### 公式マイページ
 
 #### はっちゃん
 
-2007年（平成19年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から始まった、写真家[八二一](https://ja.wikipedia.org/wiki/八二一 "wikilink")による、飼い猫はっちゃんの「はっちゃん日記」の動画版。zoome初期から続くコンテンツの一つで、zoomeのアイドル的存在。
+2007年（平成19年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から始まった、写真家[八二一](../Page/八二一.md "wikilink")による、飼い猫はっちゃんの「はっちゃん日記」の動画版。zoome初期から続くコンテンツの一つで、zoomeのアイドル的存在。
 
 #### 動画の女王
 
@@ -139,11 +139,11 @@ zoome開設からおこなわれている企画。ボーカロイド動画の「
 
 #### zoome App Town
 
-[アイティメディアとコラボレートの](https://ja.wikipedia.org/wiki/ITmedia "wikilink")[iPhone 3G用アプリケーション動画キャンペーン](https://ja.wikipedia.org/wiki/iPhone_3G "wikilink")「[iPhoneアプリ動画アワード](http://www.zoome.jp/apptown)」。zoomeユーザーが投稿したアプリレビュー動画をiPhoneから直接見られる無料アプリ配布も行っている。
+[アイティメディアとコラボレートの](../Page/ITmedia.md "wikilink")[iPhone 3G用アプリケーション動画キャンペーン](https://ja.wikipedia.org/wiki/iPhone_3G "wikilink")「[iPhoneアプリ動画アワード](http://www.zoome.jp/apptown)」。zoomeユーザーが投稿したアプリレビュー動画をiPhoneから直接見られる無料アプリ配布も行っている。
 
 ### 教育機関
 
-zoomeの知名度を上げたユーザー動画のうち、ボーカロイド動画以外では[NHKでも報じられた](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「**さかなのうた**」が有名である。この動画の制作者が所属していた[東京工芸大学](https://ja.wikipedia.org/wiki/東京工芸大学 "wikilink")とコラボレートも始まり、芸術面・教育面で特化した動画が増えてきている。
+zoomeの知名度を上げたユーザー動画のうち、ボーカロイド動画以外では[NHKでも報じられた](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「**さかなのうた**」が有名である。この動画の制作者が所属していた[東京工芸大学](../Page/東京工芸大学.md "wikilink")とコラボレートも始まり、芸術面・教育面で特化した動画が増えてきている。
 
 ### ゲーム
 

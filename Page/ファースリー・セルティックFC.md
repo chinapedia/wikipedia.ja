@@ -1,7 +1,7 @@
 > この記事は[ファースリー・セルティックFC](https://ja.wikipedia.org/wiki/ファースリー・セルティックFC)から翻訳されています。
 
 
-**ファースリー・セルティック・フットボール・クラブ**（**Farsley Celtic Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ウェスト・ヨークシャー州](https://ja.wikipedia.org/wiki/ウェスト・ヨークシャー州 "wikilink")、[シティ・オブ・リーズ](https://ja.wikipedia.org/wiki/シティ・オブ・リーズ "wikilink")、[ファースリー](https://ja.wikipedia.org/wiki/ファースリー "wikilink")を本拠地としているサッカークラブチームである。2009-2010シーズンを最後に活動停止。その後新しく[ファースリーAFC](https://ja.wikipedia.org/wiki/ファースリーAFC "wikilink")が設立され、2015年にファースリー・セルティックFCへ改名した。2017-2018シーズンは[ノーザンプレミアリーグ・プレミアディヴィジョン](../Page/ノーザンプレミアリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に参加している。
+**ファースリー・セルティック・フットボール・クラブ**（**Farsley Celtic Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ウェスト・ヨークシャー州](https://ja.wikipedia.org/wiki/ウェスト・ヨークシャー州 "wikilink")、[シティ・オブ・リーズ](https://ja.wikipedia.org/wiki/シティ・オブ・リーズ "wikilink")、[ファースリー](https://ja.wikipedia.org/wiki/ファースリー "wikilink")を本拠地としているサッカークラブチームである。2009-2010シーズンを最後に活動停止。その後新しく[ファースリーAFC](https://ja.wikipedia.org/wiki/ファースリーAFC "wikilink")が設立され、2015年にファースリー・セルティックFCへ改名した。2019-2020シーズンは[ナショナルリーグ・ノース](../Page/ナショナルリーグ・ノース.md "wikilink")（6部相当）に参加している。
 
 ## タイトル
 

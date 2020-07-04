@@ -1,14 +1,14 @@
 > この記事は[SKELT 8 BAMBINO](https://ja.wikipedia.org/wiki/SKELT_8_BAMBINO)から翻訳されています。
 
 
-**SKELT 8 BAMBINO**（スケルト・エイト・バンビーノ）は、男女5人によって構成される日本の[J-POP](../Page/J-POP.md "wikilink")・ユニット。もともとメンバーそれぞれが別々のユニットやバンドを組んでいたが、意気投合したため[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")春に結成された。[2007年](../Page/2007年.md "wikilink")、[NAYUTAWAVE RECORDSより](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+**SKELT 8 BAMBINO**（スケルト・エイト・バンビーノ）は、男女5人によって構成される日本の[J-POP](../Page/J-POP.md "wikilink")・ユニット。もともとメンバーそれぞれが別々のユニットやバンドを組んでいたが、意気投合したため[2006年](../Page/2006年.md "wikilink")春に結成された。[2007年](../Page/2007年.md "wikilink")、[NAYUTAWAVE RECORDSより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
 ## メンバー
 
   - **NOWHIRO**（ナオヒロ、[6月22日](../Page/6月22日.md "wikilink") - ）
       - [MC担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
   - **竹 (TAK-E)**（タケ、[8月5日](../Page/8月5日.md "wikilink") - ）
-      - オペレーター、DJ、[ギター](../Page/ギター.md "wikilink")、[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+      - オペレーター、DJ、[ギター](../Page/ギター.md "wikilink")、[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - **BJ**（ビジェイ、[5月27日](../Page/5月27日.md "wikilink") - ）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
   - **MASA**（マサ、[10月31日](../Page/10月31日.md "wikilink") - ）
@@ -21,7 +21,7 @@
 
 ## 来歴
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - 春、SKELT 8 BAMBINO結成
   - [2007年](../Page/2007年.md "wikilink")
       - ユニバーサルミュージック NAYUTAWAVE RECORDSと契約
@@ -69,7 +69,7 @@
 <td><ol>
 <li>あらうんどTHEワールド!
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TV</a>」2007年10月度オープニングテーマ</li>
+<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>」2007年10月度オープニングテーマ</li>
 </ul></li>
 <li>帰り道のミュージック</li>
 </ol></td>
@@ -83,12 +83,12 @@
 <td><ol>
 <li>マイフレンド
 <ul>
-<li>TBS系「<a href="https://ja.wikipedia.org/wiki/日立_世界・ふしぎ発見!" title="wikilink">日立 世界・ふしぎ発見!</a>」エンディングテーマ</li>
+<li>TBS系「<a href="../Page/日立_世界・ふしぎ発見!.md" title="wikilink">日立 世界・ふしぎ発見!</a>」エンディングテーマ</li>
 </ul></li>
 <li>手をつなごう</li>
 </ol>
 <ul>
-<li>ジャケットは<a href="https://ja.wikipedia.org/wiki/松島花" title="wikilink">松島花</a>が担当している。</li>
+<li>ジャケットは<a href="../Page/松島花.md" title="wikilink">松島花</a>が担当している。</li>
 </ul></td>
 <td><p>オリコン最高200位</p></td>
 </tr>
@@ -100,7 +100,7 @@
 <td><ol>
 <li>夏恋
 <ul>
-<li><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a>「<a href="../Page/音燃え!.md" title="wikilink">音燃え!</a>」7月テーマ、<a href="https://ja.wikipedia.org/wiki/ホーユー" title="wikilink">ホーユー</a>「<a href="https://ja.wikipedia.org/wiki/Beauteen" title="wikilink">Beauteen</a>」CMソング</li>
+<li><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a>「<a href="../Page/音燃え!.md" title="wikilink">音燃え!</a>」7月テーマ、<a href="../Page/ホーユー.md" title="wikilink">ホーユー</a>「<a href="https://ja.wikipedia.org/wiki/Beauteen" title="wikilink">Beauteen</a>」CMソング</li>
 </ul></li>
 <li>神様がくれたもの
 <ul>
@@ -117,7 +117,7 @@
 <td><ol>
 <li>冬唄
 <ul>
-<li>日本テレビ「<a href="https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」10月パワープレイ</li>
+<li>日本テレビ「<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」10月パワープレイ</li>
 </ul></li>
 <li>友情ブラザー
 <ul>
@@ -337,21 +337,21 @@ UPCH-20192:通常盤</p></td>
 
 ## ミュージックビデオ
 
-|                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                    | **曲名**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [直](https://ja.wikipedia.org/wiki/直 "wikilink")           | 「[What's Love? feat.SoulJa](https://www.youtube.com/watch?v=Z_GuTV7tL0Q)」(出演:[みひろ](https://ja.wikipedia.org/wiki/みひろ "wikilink")・[吉沢明歩](../Page/吉沢明歩.md "wikilink")・[Rio](https://ja.wikipedia.org/wiki/Rio_\(AV女優\) "wikilink"))「[あなたがくれた奇蹟 starring BJ](https://www.youtube.com/watch?v=nHkzdovxqD0)」(出演:[坂本礼美](https://ja.wikipedia.org/wiki/坂本礼美 "wikilink"))「[夏恋](https://www.youtube.com/watch?v=siSkCvoE5n0)」(出演:[草刈麻有](../Page/草刈麻有.md "wikilink"))「[僕はB型〜A型の君に恋してる〜](https://www.youtube.com/watch?v=X9M2TgFq2nc)」 |
-| 直 / [岡川太郎](https://ja.wikipedia.org/wiki/岡川太郎 "wikilink") | 「[サクラ咲ク](https://www.youtube.com/watch?v=elfuAklZYZw)」                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [福居英晃](https://ja.wikipedia.org/wiki/福居英晃 "wikilink")     | 「[あらうんどTHEワールド\!](https://www.youtube.com/watch?v=eoLpN6qpwUE)」                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 不明                                                        | 「[冬唄](https://www.youtube.com/watch?v=Xi3boJAb90g)」(出演:[ベッキー](../Page/ベッキー.md "wikilink"))「[誕生日ソング](https://www.youtube.com/watch?v=I-3x4sG394A)」「[マイフレンド](https://www.youtube.com/watch?v=FVA9MQHYgu4)」「[もうなにも...](https://www.youtube.com/watch?v=O0o_EEbbBbg)」                                                                                                                                                                                                                                                           |
-|                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                    | **曲名**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [直](https://ja.wikipedia.org/wiki/直 "wikilink")           | 「[What's Love? feat.SoulJa](https://www.youtube.com/watch?v=Z_GuTV7tL0Q)」(出演:[みひろ](../Page/みひろ.md "wikilink")・[吉沢明歩](../Page/吉沢明歩.md "wikilink")・[Rio](https://ja.wikipedia.org/wiki/Rio_\(AV女優\) "wikilink"))「[あなたがくれた奇蹟 starring BJ](https://www.youtube.com/watch?v=nHkzdovxqD0)」(出演:[坂本礼美](https://ja.wikipedia.org/wiki/坂本礼美 "wikilink"))「[夏恋](https://www.youtube.com/watch?v=siSkCvoE5n0)」(出演:[草刈麻有](../Page/草刈麻有.md "wikilink"))「[僕はB型〜A型の君に恋してる〜](https://www.youtube.com/watch?v=X9M2TgFq2nc)」 |
+| 直 / [岡川太郎](https://ja.wikipedia.org/wiki/岡川太郎 "wikilink") | 「[サクラ咲ク](https://www.youtube.com/watch?v=elfuAklZYZw)」                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [福居英晃](https://ja.wikipedia.org/wiki/福居英晃 "wikilink")     | 「[あらうんどTHEワールド\!](https://www.youtube.com/watch?v=eoLpN6qpwUE)」                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 不明                                                        | 「[冬唄](https://www.youtube.com/watch?v=Xi3boJAb90g)」(出演:[ベッキー](../Page/ベッキー.md "wikilink"))「[誕生日ソング](https://www.youtube.com/watch?v=I-3x4sG394A)」「[マイフレンド](https://www.youtube.com/watch?v=FVA9MQHYgu4)」「[もうなにも...](https://www.youtube.com/watch?v=O0o_EEbbBbg)」                                                                                                                                                                                                                                        |
+|                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## 外部リンク
 
-  - [SKELT 8 BAMBINO - Nayutawave Records](http://www.universal-music.co.jp/skelt_8_bambino/) - [ユニバーサルミュージックによる公式ページ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+  - [SKELT 8 BAMBINO - Nayutawave Records](http://www.universal-music.co.jp/skelt_8_bambino/) - [ユニバーサルミュージックによる公式ページ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
   - [SKELT 8 BAMBINO 公式ブログ](http://gree.jp/skelt_8_bambino/)
-  - [SKELT 8 BAMBINO オフィシャルブログ「腹８分目」](http://ameblo.jp/skelt8bambino/)
-  - [SKELT 8 BAMBINO オフィシャルブログ「BJ official blog」](http://ameblo.jp/bj-official/)
+  - [SKELT 8 BAMBINO オフィシャルブログ「腹８分目」](https://ameblo.jp/skelt8bambino/)
+  - [SKELT 8 BAMBINO オフィシャルブログ「BJ official blog」](https://ameblo.jp/bj-official/)
   - [スケルト・エイト・バンビーノ - S8B Family Web](http://s8b.jp/) S8B情報発信サイト
   - [pixarts](http://www.pixarts.jp/) - LIVE PHOTO 掲載
 

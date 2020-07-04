@@ -59,7 +59,7 @@
 ## 関連項目
 
   - [SH905iTV](../Page/SH905iTV.md "wikilink")
-  - [W61SH](https://ja.wikipedia.org/wiki/W61SH "wikilink") - 以上2機は同シーズンに発売される他キャリア向けのAQUOSケータイ
+  - [W61SH](../Page/W61SH.md "wikilink") - 以上2機は同シーズンに発売される他キャリア向けのAQUOSケータイ
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
   - [AQUOSケータイ](../Page/AQUOSケータイ.md "wikilink")
   - [Vodafone 905SH/SoftBank 905SH](../Page/Vodafone_905SH.md "wikilink")

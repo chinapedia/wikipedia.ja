@@ -1,21 +1,21 @@
 > この記事は[GNU IceCat](https://ja.wikipedia.org/wiki/GNU_IceCat)から翻訳されています。
 
 
-**GNU IceCat**（グヌー アイスキャット）は、[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")により配布されている[Mozilla Firefox派生の](../Page/Mozilla_Firefox.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。旧称は、GNU IceWeasel\[1\]。 [GNU/Linuxシステム](https://ja.wikipedia.org/wiki/GNU/Linuxシステム "wikilink") で動作する。IceCatは、[Firefoxの開発と同期しており](../Page/Mozilla_Firefox.md "wikilink")、機能はほぼ同じであるが、[Firefoxから](../Page/Mozilla_Firefox.md "wikilink")[Mozilla Foundationが権利を持つ](../Page/Mozilla_Foundation.md "wikilink")[商標](../Page/商標.md "wikilink")やロゴ、[プロプライエタリ・ソフトウェア](../Page/プロプライエタリ・ソフトウェア.md "wikilink")が取り除かれた [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。多くのフリーな[プラグイン](../Page/プラグイン.md "wikilink")および[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")を利用できる\[2\]とともに、[Firefox](../Page/Mozilla_Firefox.md "wikilink") には見られないいくつかのプライバシー保護機能が追加されている\[3\]。
+**GNU IceCat**（グヌー アイスキャット）は、[GNUプロジェクト](../Page/GNUプロジェクト.md "wikilink")により配布されている[Mozilla Firefox派生の](../Page/Mozilla_Firefox.md "wikilink")[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。旧称は、GNU IceWeasel\[1\]。 [GNU/Linuxシステム](https://ja.wikipedia.org/wiki/GNU/Linuxシステム "wikilink") で動作する。IceCatは、[Firefoxの開発と同期しており](../Page/Mozilla_Firefox.md "wikilink")、機能はほぼ同じであるが、[Firefoxから](../Page/Mozilla_Firefox.md "wikilink")[Mozilla Foundationが権利を持つ](../Page/Mozilla_Foundation.md "wikilink")[商標](../Page/商標.md "wikilink")やロゴ、[プロプライエタリ・ソフトウェア](../Page/プロプライエタリ・ソフトウェア.md "wikilink")が取り除かれた [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")である。多くのフリーな[プラグイン](../Page/プラグイン.md "wikilink")および[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")を利用できる\[2\]とともに、[Firefox](../Page/Mozilla_Firefox.md "wikilink") には見られないいくつかの[プロプライエタリな](https://ja.wikipedia.org/wiki/プロプライエタリソフトウェア "wikilink")[JSを実行しないようにするLibreJSや](https://ja.wikipedia.org/wiki/Javascript "wikilink")、プライバシー保護機能が追加されている\[3\]。
 
 ## 歴史
 
 ### 名称の変更
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月](../Page/8月.md "wikilink")、GNUzillaプロジェクトは、GNU/Linux版Firefoxの名称に "IceWeasel" を採用することを決定した\[4\]。
+  - [2005年](../Page/2005年.md "wikilink")[8月](../Page/8月.md "wikilink")、GNUzillaプロジェクトは、GNU/Linux版Firefoxの名称に "IceWeasel" を採用することを決定した\[4\]。
 
 <!-- end list -->
 
-  - [2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")、[GNU](../Page/GNU.md "wikilink")プロジェクトは、[Debian](../Page/Debian.md "wikilink")プロジェクトによりリリースされている[Iceweasel](../Page/Iceweasel.md "wikilink")との混同を避けるために、"IceWeasel" の名称を現在の名称である "IceCat" へ変更することを発表した\[5\]。
+  - [2007年](../Page/2007年.md "wikilink")[9月](../Page/9月.md "wikilink")、[GNU](../Page/GNU.md "wikilink")プロジェクトは、[Debian](../Page/Debian.md "wikilink")プロジェクトによりFirefoxの代替としてリリースされている[Iceweasel](../Page/Iceweasel.md "wikilink")との混同を避けるために、"IceWeasel" の名称を現在の名称である "IceCat" へ変更することを発表した\[5\]。
 
 ### リリース
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月](../Page/9月.md "wikilink")、最初のリリースとなるGNU IceWeasel バージョン 1.5.0.4-g1を公開した\[6\]。
+  - [2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")、最初のリリースとなるGNU IceWeasel バージョン 1.5.0.4-g1を公開した\[6\]。
 
 <!-- end list -->
 

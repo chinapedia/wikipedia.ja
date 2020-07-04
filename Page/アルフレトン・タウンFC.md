@@ -1,7 +1,7 @@
 > この記事は[アルフレトン・タウンFC](https://ja.wikipedia.org/wiki/アルフレトン・タウンFC)から翻訳されています。
 
 
-**アルフレトン・タウン・フットボールクラブ**（**Alfreton Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ダービーシャー](../Page/ダービーシャー.md "wikilink")州、[アルフレトンを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/:en:Alfreton "wikilink")。2012-2013シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
+**アルフレトン・タウン・フットボールクラブ**（**Alfreton Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ダービーシャー](../Page/ダービーシャー.md "wikilink")州、[アルフレトンを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/:en:Alfreton "wikilink")。2019-2020シーズンは[ナショナルリーグ・ノース](../Page/ナショナルリーグ・ノース.md "wikilink")（6部相当）に所属。
 
 ## 歴史
 

@@ -1,11 +1,11 @@
 > この記事は[J-STAGE](https://ja.wikipedia.org/wiki/J-STAGE)から翻訳されています。
 
 
-**J-STAGE**（ジェイ・ステージ）は、[文部科学省](../Page/文部科学省.md "wikilink")所管の独立行政法人[科学技術振興機構](https://ja.wikipedia.org/wiki/科学技術振興機構 "wikilink")（JST）が運営する電子ジャーナルの無料公開システム。1998年にプロジェクトがスタートした。正式名称は科学技術情報発信・流通総合システム。J-STAGEは、[電子ジャーナル](https://ja.wikipedia.org/wiki/電子ジャーナル "wikilink")の公開ノウハウを持たない[学協会](https://ja.wikipedia.org/wiki/学協会 "wikilink")に対し、インターネット上で[学術雑誌](https://ja.wikipedia.org/wiki/学術雑誌 "wikilink")を公開するシステムとノウハウを、無料で提供している。日本の学術研究成果の広い範囲での流通の促進と、プレセンスの増加を目的としている。
+**J-STAGE**（ジェイ・ステージ）は、[文部科学省](../Page/文部科学省.md "wikilink")所管の独立行政法人[科学技術振興機構](../Page/科学技術振興機構.md "wikilink")（JST）が運営する電子ジャーナルの無料公開システム。1998年にプロジェクトがスタートした。正式名称は科学技術情報発信・流通総合システム。J-STAGEは、[電子ジャーナル](../Page/電子ジャーナル.md "wikilink")の公開ノウハウを持たない[学協会](https://ja.wikipedia.org/wiki/学協会 "wikilink")に対し、インターネット上で[学術雑誌](../Page/学術雑誌.md "wikilink")を公開するシステムとノウハウを、無料で提供している。日本の学術研究成果の広い範囲での流通の促進と、プレセンスの増加を目的としている。
 
 ## 概要
 
-J-STAGEは電子ジャーナルの公開をサポートする目的で1998年にスタートした。1990年代中ごろから普及し始めた[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")を通じての[学術雑誌](https://ja.wikipedia.org/wiki/学術雑誌 "wikilink")の公開、つまり[電子ジャーナル](https://ja.wikipedia.org/wiki/電子ジャーナル "wikilink")の利用が、日本語圏で遅れている、という危機感から、文部科学省所管の独立行政法人、科学技術振興機構によって始められた。
+J-STAGEは電子ジャーナルの公開をサポートする目的で1998年にスタートした。1990年代中ごろから普及し始めた[インターネット](../Page/インターネット.md "wikilink")を通じての[学術雑誌](../Page/学術雑誌.md "wikilink")の公開、つまり[電子ジャーナル](../Page/電子ジャーナル.md "wikilink")の利用が、日本語圏で遅れている、という危機感から、文部科学省所管の独立行政法人、科学技術振興機構によって始められた。
 
 J-STAGEの役割は、学会や協会に対し、電子ジャーナルを公開するためのノウハウとシステムを無償で提供していくことである。つまりインターネット上での[著作権](../Page/著作権.md "wikilink")の取り扱いや、[ウェブ・プログラミング](https://ja.wikipedia.org/wiki/ウェブ・プログラミング "wikilink")などの知識を持ち合わせていない学会や協会の運営者らに対し、そうしたノウハウとシステムを提供することで、簡易にインターネットで電子ジャーナルを発行していけるようにしている。
 
@@ -17,17 +17,17 @@ J-STAGEは、[医学](../Page/医学.md "wikilink")、[薬学](../Page/薬学.md
 
 ## アクセス
 
-月間約600万から700万ほどのアクセス、月間100万回ほどの論文本文のダウンロードが行われている。アクセス元地域は、その約4割が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")(39.6%)からとなっている。そのあと、多いほうから、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")(14.4%)、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")(10.3%)、[EU](https://ja.wikipedia.org/wiki/EU "wikilink")(4.5%)、[インド](../Page/インド.md "wikilink")(3.1%)、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")(2.7%)、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")(1.9%)、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")(1.6%)と続く。年間を通してみると世界193ヵ国からのアクセス記録がある。
+月間約600万から700万ほどのアクセス、月間100万回ほどの論文本文のダウンロードが行われている。アクセス元地域は、その約4割が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")(39.6%)からとなっている。そのあと、多いほうから、[中国](../Page/中国.md "wikilink")(14.4%)、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")(10.3%)、[EU](https://ja.wikipedia.org/wiki/EU "wikilink")(4.5%)、[インド](../Page/インド.md "wikilink")(3.1%)、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")(2.7%)、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")(1.9%)、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")(1.6%)と続く。年間を通してみると世界193ヵ国からのアクセス記録がある。
 
 ## 他プロジェクトとの関係
 
-文部科学省が推進している学術情報の電子化プロジェクトは、科学技術振興機構の推進しているJ-STAGE、同科学技術振興機構の推進している[Journal@rchive](https://ja.wikipedia.org/wiki/Journal@rchive "wikilink")、そして[国立情報学研究所](https://ja.wikipedia.org/wiki/国立情報学研究所 "wikilink")が運営している[CiNii](../Page/CiNii.md "wikilink")、の三つが大きな柱となっていた。このうちJournal@rchiveのサービスは2012年5月1日にJ-STAGEに統合され\[1\]、2012年9月現在、J-STAGEとCiNIIの二つが、日本語圏における学術文献の電子化プロジェクトの中心となっている。
+文部科学省が推進している学術情報の電子化プロジェクトは、科学技術振興機構の推進しているJ-STAGE、同科学技術振興機構の推進している[Journal@rchive](https://ja.wikipedia.org/wiki/Journal@rchive "wikilink")、そして[国立情報学研究所](../Page/国立情報学研究所.md "wikilink")が運営している[CiNii](../Page/CiNii.md "wikilink")、の三つが大きな柱となっていた。このうちJournal@rchiveのサービスは2012年5月1日にJ-STAGEに統合され\[1\]、2012年9月現在、J-STAGEとCiNIIの二つが、日本語圏における学術文献の電子化プロジェクトの中心となっている。
 
 それぞれのプロジェクトの住み分けはそれほどはっきりしたものではないが、おおよそ以下のような形となっていた。
 
-  - J-STAGE - 電子ジャーナルの出版支援。主な対象は医理工系の[査読](https://ja.wikipedia.org/wiki/査読 "wikilink")つき学術雑誌。
+  - J-STAGE - 電子ジャーナルの出版支援。主な対象は医理工系の[査読](../Page/査読.md "wikilink")つき学術雑誌。
   - [Journal@rchive](https://ja.wikipedia.org/wiki/Journal@rchive "wikilink") - 過去出版された紙製学術雑誌の電子化と公開支援。主な対象は医理工系の査読つき学術雑誌。2012年5月1日にJ-STAGEにサービスが統合されて消滅\[2\]。
-  - [CiNii](../Page/CiNii.md "wikilink") - 医理工系および人文・社会科学系の学術雑誌と大学[紀要](https://ja.wikipedia.org/wiki/紀要 "wikilink")の電子化と公開支援。
+  - [CiNii](../Page/CiNii.md "wikilink") - 医理工系および人文・社会科学系の学術雑誌と大学[紀要](../Page/紀要.md "wikilink")の電子化と公開支援。
 
 たまにCiNiiとJ-STAGEの両方で同じ文献が重複してPDF化されていることがある。こうした場合に、CiNiiのファイルは画像データで文字検索ができないが、J-STAGEのファイルはテキスト化されていて文字検索できる、といった違いがあることがある。
 
@@ -63,7 +63,7 @@ J-STAGEは、[医学](../Page/医学.md "wikilink")、[薬学](../Page/薬学.md
 
   - [CiNii](../Page/CiNii.md "wikilink")
   - [JAIRO](https://ja.wikipedia.org/wiki/JAIRO "wikilink")
-  - [オープンアクセス](https://ja.wikipedia.org/wiki/オープンアクセス "wikilink")
+  - [オープンアクセス](../Page/オープンアクセス.md "wikilink")
 
 ## 外部リンク
 

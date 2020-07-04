@@ -1,11 +1,11 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRルパン三世ルピナスタワーのダイヤを狙え](https://ja.wikipedia.org/wiki/CRルパン三世ルピナスタワーのダイヤを狙え)から翻訳されています。
 
 
-『**CRルパン三世ルピナスタワーのダイヤを狙え\!**』（CRルパンさんせい ルピナスタワーのダイヤをねらえ）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[平和から発売された](https://ja.wikipedia.org/wiki/平和_\(パチンコ\) "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』との[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")機である。
+『**CRルパン三世ルピナスタワーのダイヤを狙え\!**』（CRルパンさんせい ルピナスタワーのダイヤをねらえ）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[平和から発売された](../Page/平和_\(パチンコ\).md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品『[ルパン三世](../Page/ルパン三世.md "wikilink")』との[タイアップ](../Page/タイアップ.md "wikilink")機である。
 
 ## 機種概要
 
-アニメ『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』をテーマにしたタイアップ機の5作目。2R確変の「不二子モード」が搭載されている。なお本作より台枠が新調(ルピナス枠)されている。
+アニメ『[ルパン三世](../Page/ルパン三世.md "wikilink")』をテーマにしたタイアップ機の5作目。2R確変の「不二子モード」が搭載されている。なお本作より台枠が新調(ルピナス枠)されている。
 
 本機は「保留玉8個タイプ」になっており、抽選結果がヘソ入賞(最大4個)と、電チュー入賞(最大4個)で別々に保留され、電チューの保留から優先して消化される。総合的な確変割合は共通であるものの、電チュー入賞時は2R確変に当選することがなくなり、出玉ありの確変に当選する割合が増え、爆発力もそれなりにアップする。ただし、いわゆる[ハネデジ](https://ja.wikipedia.org/wiki/ハネデジ "wikilink")タイプの「CRAルパン三世ルピナスタワーのダイヤを狙え9AU」では、電チュー入賞時の優遇はない。
 
@@ -18,11 +18,11 @@
 縦スクロール5ライン型のリール配列用図柄。
 
   - **確変図柄**
-      - 1\. [次元大介](https://ja.wikipedia.org/wiki/次元大介 "wikilink")
-      - 3\. [峰不二子](https://ja.wikipedia.org/wiki/峰不二子 "wikilink")
-      - 5\. [銭形幸一](https://ja.wikipedia.org/wiki/銭形幸一 "wikilink")
-      - 7\. [ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世_\(架空の人物\) "wikilink")
-      - 9\. [石川五ェ門](https://ja.wikipedia.org/wiki/石川五ェ門_\(ルパン三世\) "wikilink")
+      - 1\. [次元大介](../Page/次元大介.md "wikilink")
+      - 3\. [峰不二子](../Page/峰不二子.md "wikilink")
+      - 5\. [銭形幸一](../Page/銭形幸一.md "wikilink")
+      - 7\. [ルパン三世](../Page/ルパン三世_\(架空の人物\).md "wikilink")
+      - 9\. [石川五ェ門](../Page/石川五ェ門_\(ルパン三世\).md "wikilink")
   - **通常図柄**
       - 2\. マグナム銃
       - 4\. 口紅

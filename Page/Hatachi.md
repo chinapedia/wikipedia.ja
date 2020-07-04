@@ -33,7 +33,7 @@ CCCDでの発売である。
       - 作曲・編曲:[馬飼野康二](../Page/馬飼野康二.md "wikilink")
 7.  空のスクリーン-rainbow in my soul-　
       - 作詞:小幡英之　
-      - 作曲:[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink")　
+      - 作曲:[羽岡佳](../Page/羽岡佳.md "wikilink")　
       - 編曲:[本間昭光](../Page/本間昭光.md "wikilink")
 8.  epilogue　
       - 作詞:西野健次　

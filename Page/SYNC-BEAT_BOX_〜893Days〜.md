@@ -1,11 +1,11 @@
-> この記事は[SYNC-BEAT BOX 893Days](https://ja.wikipedia.org/wiki/SYNC-BEAT_BOX_893Days)から翻訳されています。
+> この記事は[SYNC-BEAT BOX 〜893Days〜](https://ja.wikipedia.org/wiki/SYNC-BEAT_BOX_〜893Days〜)から翻訳されています。
 
 
-『**SYNC-BEAT BOX 〜893Days〜**』（シンク・ビート・ボックス 〜893デイズ〜）は[1999年](../Page/1999年.md "wikilink")6月23日にリリースされた[accessの限定BOX](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")。
+『**SYNC-BEAT BOX 〜893Days〜**』（シンク・ビート・ボックス 〜893デイズ〜）は[1999年](../Page/1999年.md "wikilink")6月23日にリリースされた[accessの限定BOX](../Page/Access_\(音楽ユニット\).md "wikilink")。発売元は[BMGファンハウス](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")。
 
 ## 概要
 
-1stから3rdまでのオリジナルアルバム3枚とライブアルバム2枚の計5枚を発売当時の初回限定版仕様で復刻したBOXセット。[藤井徹貫](https://ja.wikipedia.org/wiki/藤井徹貫 "wikilink")によるライナーノーツが同梱されている。累計売上は0.5万枚を記録した\[1\]。BMGファンハウスが独自に企画した作品のため、[accessおよび浅倉](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")、貴水の公式ディスコグラフィ等には本作は記載されていない。収録作の詳細は各アルバム記事を参照。
+1stから3rdまでのオリジナルアルバム3枚とライブアルバム2枚の計5枚を発売当時の初回限定版仕様で復刻したBOXセット。[藤井徹貫](https://ja.wikipedia.org/wiki/藤井徹貫 "wikilink")によるライナーノーツが同梱されている。累計売上は0.5万枚を記録した\[1\]。BMGファンハウスが独自に企画した作品のため、[accessおよび浅倉](../Page/Access_\(音楽ユニット\).md "wikilink")、貴水の公式ディスコグラフィ等には本作は記載されていない。収録作の詳細は各アルバム記事を参照。
 
 ## 収録作
 

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウェリング・ユナイテッドFC](https://ja.wikipedia.org/wiki/ウェリング・ユナイテッドFC)から翻訳されています。
 
 
 **ウェリング・ユナイテッド・フットボール・クラブ**（**Welling United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[ウェリングを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Welling "wikilink")。2012-2013シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
@@ -67,7 +67,7 @@
 
   - [ニック・ポープ](https://ja.wikipedia.org/wiki/ニック・ポープ "wikilink") 2011-2012
 
-  - [マレク・ロダーク](https://ja.wikipedia.org/wiki/マレク・ロダーク "wikilink") 2015-2016
+  - [マレク・ロダーク](../Page/マレク・ロダーク.md "wikilink") 2015-2016
 
   - [ジェイミー・スラッバー](https://ja.wikipedia.org/wiki/ジェイミー・スラッバー "wikilink") 2016-2017
 

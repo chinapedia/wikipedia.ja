@@ -32,7 +32,7 @@
 10. **夢寝見**　作詞・作曲:井上陽水／編曲:BAnΛNA/[藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink")
       - 『ハンサムボーイ』より
 11. **Speedy Night**　作詞・作曲:井上陽水／編曲:星勝
-      - 『[いっそ セレナーデ](https://ja.wikipedia.org/wiki/いっそ_セレナーデ "wikilink")』（シングル）より
+      - 『[いっそ セレナーデ](../Page/いっそ_セレナーデ.md "wikilink")』（シングル）より
 12. **全部GO**　作詞・作曲:井上陽水／編曲:[矢萩渉](../Page/矢萩渉.md "wikilink")
       - 『[Negative](https://ja.wikipedia.org/wiki/Negative_\(井上陽水のアルバム\) "wikilink")』より
 13. **Yellow Night**　作詞・作曲:井上陽水／編曲:川島裕二

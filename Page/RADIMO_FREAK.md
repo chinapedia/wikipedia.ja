@@ -47,7 +47,7 @@
 <!-- end list -->
 
   -
-    YOSUKEが作成のラジオ小説の一部を毎週リスナーから募集する。テーマ曲は[ガガガDXの](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")「人間っていいな」。詳しくはブログで。
+    YOSUKEが作成のラジオ小説の一部を毎週リスナーから募集する。テーマ曲は[ガガガDXの](../Page/ガガガSP.md "wikilink")「人間っていいな」。詳しくはブログで。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 <!-- end list -->
 
   -
-    タイトルからして明らかに[空耳アワー](https://ja.wikipedia.org/wiki/空耳アワー "wikilink")を意識したコーナー。言葉の響きがどことなく卑猥に聞こえる単語や用語（例:[オーガニズム](https://ja.wikipedia.org/wiki/有機農業 "wikilink")・[徹マン](../Page/麻雀.md "wikilink")・校内[シャセイ大会など](https://ja.wikipedia.org/wiki/写生 "wikilink")）を募集するコーナー。優秀作品はRADIMO FREAK携帯サイトに着ボイスとして配信される。
+    タイトルからして明らかに[空耳アワー](../Page/空耳アワー.md "wikilink")を意識したコーナー。言葉の響きがどことなく卑猥に聞こえる単語や用語（例:[オーガニズム](../Page/有機農業.md "wikilink")・[徹マン](../Page/麻雀.md "wikilink")・校内[シャセイ大会など](../Page/写生.md "wikilink")）を募集するコーナー。優秀作品はRADIMO FREAK携帯サイトに着ボイスとして配信される。
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@
 <!-- end list -->
 
   -
-    月曜日 - [JiLL-Decoy association](https://ja.wikipedia.org/wiki/JiLL-Decoy_association "wikilink")
+    月曜日 - [JiLL-Decoy association](../Page/JiLL-Decoy_association.md "wikilink")
     火曜日 - [カルテット](../Page/カルテット_\(ユニット\).md "wikilink")
     水曜日 - [the ARROWS](https://ja.wikipedia.org/wiki/the_ARROWS "wikilink")
     木曜日 - [Superfly](https://ja.wikipedia.org/wiki/Superfly "wikilink")
@@ -101,7 +101,7 @@
   -
     リスナーから寄せられたチョい悪エピソードを紹介していった。
 
-[小林拓一郎](https://ja.wikipedia.org/wiki/小林拓一郎 "wikilink")（水、木担当）
+[小林拓一郎](../Page/小林拓一郎.md "wikilink")（水、木担当）
 
   - エロ耳アワー（継続していたが2007年をもって終了）
 
@@ -111,13 +111,13 @@
 
 ### 概要
 
-水、木曜日担当のミュージックナビゲーター[小林拓一郎](https://ja.wikipedia.org/wiki/小林拓一郎 "wikilink")が担当していた際にバックスで「あいうえお作文」を行ったところ、バタコさんが面倒くさがって出来たもの上がったのが「栗パンマン」である、というもの。
+水、木曜日担当のミュージックナビゲーター[小林拓一郎](../Page/小林拓一郎.md "wikilink")が担当していた際にバックスで「あいうえお作文」を行ったところ、バタコさんが面倒くさがって出来たもの上がったのが「栗パンマン」である、というもの。
 
 コーナータイトルは「**すぐイク\!栗パンマン**」である。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月13日の放送では「栗パンマンのこれから」を募集した。2月20日の放送では諸事情によりやらなかった（その日のメッセージテーマは「[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のミドルネームを考えよう\!\!\!」だった）。
 
-2月27日の放送から、タイトルコールは[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")のTAKUMAが担当している。
+2月27日の放送から、タイトルコールは[10-FEET](../Page/10-FEET.md "wikilink")のTAKUMAが担当している。
 
 3月26日の放送をもって最終回を迎えた。
 

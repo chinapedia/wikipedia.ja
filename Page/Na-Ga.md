@@ -35,7 +35,7 @@
   - Angel Beats\!（キャラクター原案）\[1\]
   - [俺の妹がこんなに可愛いわけがない](https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない_\(アニメ\) "wikilink")（第3話 EDイラスト）
   - [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")（キャラクター原案）\[2\]
-  - [神様になった日](https://ja.wikipedia.org/wiki/神様になった日 "wikilink")（キャラクター原案）\[3\]
+  - [神様になった日](../Page/神様になった日.md "wikilink")（キャラクター原案）\[3\]
 
 ## 脚注
 

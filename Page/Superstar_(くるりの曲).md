@@ -5,7 +5,7 @@
 
 ## 概要
 
-3か月連続シングルリリースの第一弾となったシングル。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")にあるスタジオで録音された。かなりの[オーバーダビング](https://ja.wikipedia.org/wiki/オーバーダビング "wikilink")を重ねた曲であり、ライブで演奏されるものはライブ用にアレンジされたもである。
+3か月連続シングルリリースの第一弾となったシングル。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")にあるスタジオで録音された。かなりの[オーバーダビング](https://ja.wikipedia.org/wiki/オーバーダビング "wikilink")を重ねた曲であり、ライブで演奏されるものはライブ用にアレンジされたものである。
 
 [ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")は[堀江博久](../Page/堀江博久.md "wikilink")、[ドラムは](../Page/ドラムセット.md "wikilink")[クリフ・アーモンド](https://ja.wikipedia.org/wiki/クリフ・アーモンド "wikilink")が担当している。
 

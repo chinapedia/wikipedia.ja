@@ -271,7 +271,7 @@
   - 2009年06月14日 - RUSH BALL★R
   - 2009年07月26日 - FUJI ROCK FESTIVAL '09
   - 2009年08月15日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2009 in EZO
-  - 2009年09月05日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 09
+  - 2009年09月05日 - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink") LIVE TOUR YOUNG FLAG 09
   - 2009年12月28日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 09/10
   - 2010年03月21日 - MUSIC CUBE 10
   - 2010年08月08日 - ROCK IN JAPAN FESTIVAL 2010
@@ -299,7 +299,7 @@
 2.  [New Audiogram:EDITOR'S CHOICE:DISC REVIEW](http://www.newaudiogram.com/editors/discreview/016081331.php)参考。
 3.  [bounce.comニューフェイズ](http://www.bounce.com/interview/article.php/3968)参考。
 4.
-5.  [ラジオ番組](../Page/ラジオ番組.md "wikilink")「[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")」（2010年3月16日放送分）参考。
+5.  [ラジオ番組](../Page/ラジオ番組.md "wikilink")「[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")」（2010年3月16日放送分）参考。
 6.  [GREAT HUNTING EMI Music Japan オーディションサイト Road to Tarbox Audition](http://www.great-hunting.com/tarbox/)参考。
 7.  [MASS OF THE FERMENTING DRGS 新譜情報-プレイリストから新たな音楽を発見するMUSICSHELF](http://musicshelf.jp/?mode=static&html=series115/index)参考。
 8.  [MASS OF THE FERMENTING DREGS Diary](http://yaplog.jp/motfd/)参考。

@@ -1,7 +1,7 @@
-> この記事は[ episode2 - Turn of the golden witch](https://ja.wikipedia.org/wiki/_episode2_-_Turn_of_the_golden_witch)から翻訳されています。
+> この記事は[うみねこのなく頃に episode2 - Turn of the golden witch](https://ja.wikipedia.org/wiki/うみねこのなく頃に_episode2_-_Turn_of_the_golden_witch)から翻訳されています。
 
 
-『**うみねこのなく頃に episode2 - Turn of the golden witch**』（*黄金の魔女の手番*）は、[同人サークル](../Page/同人サークル.md "wikilink")である[07th Expansionが製作している](https://ja.wikipedia.org/wiki/07th_Expansion "wikilink")[同人ゲーム](../Page/同人ゲーム.md "wikilink")『[うみねこのなく頃に](https://ja.wikipedia.org/wiki/うみねこのなく頃に "wikilink")』の、シリーズ第二作である。
+『**うみねこのなく頃に episode2 - Turn of the golden witch**』（*黄金の魔女の手番*）は、[同人サークル](../Page/同人サークル.md "wikilink")である[07th Expansionが製作している](../Page/07th_Expansion.md "wikilink")[同人ゲーム](../Page/同人ゲーム.md "wikilink")『[うみねこのなく頃に](https://ja.wikipedia.org/wiki/うみねこのなく頃に "wikilink")』の、シリーズ第二作である。
 
 [2007年](../Page/2007年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")の[コミックマーケット](../Page/コミックマーケット.md "wikilink")73において発表され、販売開始された。タイトルは『**うみねこの<span style="color:red">な</span>く頃に**』と、「な」を赤文字で表記する。
 
@@ -9,7 +9,7 @@
 
 序盤は[紗音](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#紗音 "wikilink")・嘉音・[楼座らの視点で](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#右代宮楼座 "wikilink")、ストーリーが進行する。中盤からはシリーズ主人公である戦人の視点で、エピソード1とは異なるストーリーが進行していく。魔女により恋心を刺激された「紗音・嘉音の変化」が本作品のテーマとなっており、[譲治と紗音の沖縄旅行や](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#右代宮譲治 "wikilink")[朱志香の文化祭に行く嘉音など](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#右代宮朱志香 "wikilink")、見所も多い。その他、楼座にもスポットが当てられており、兄姉たちとの過去が明かされている。
 
-エピソード2からは、[メタフィクション](https://ja.wikipedia.org/wiki/メタフィクション "wikilink")としての構造が作品に組み込まれている。六軒島での連続殺人事件を描いたストーリーと平行として、主人公の[右代宮戦人と魔女](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#右代宮戦人 "wikilink")[ベアトリーチェが](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#ベアトリーチェ "wikilink")『**うみねこのなく頃に episode2 - Turn of the golden witch**』を観劇し、事件の真相について互いに推理しあうストーリーが断片的に挿入されるようになる。
+エピソード2からは、[メタフィクション](../Page/メタフィクション.md "wikilink")としての構造が作品に組み込まれている。六軒島での連続殺人事件を描いたストーリーと平行として、主人公の[右代宮戦人と魔女](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#右代宮戦人 "wikilink")[ベアトリーチェが](https://ja.wikipedia.org/wiki/うみねこのなく頃にの登場人物#ベアトリーチェ "wikilink")『**うみねこのなく頃に episode2 - Turn of the golden witch**』を観劇し、事件の真相について互いに推理しあうストーリーが断片的に挿入されるようになる。
 
 また、六軒島での連続殺人事件を描いたストーリーにおいても、魔女が現実世界に現れ、登場人物たちと会話をしたりするなど、ファンタジー要素が強まった新たな展開が見られる。
 
@@ -62,7 +62,7 @@
 [Kobe_Mosaic17s3072.jpg](https://ja.wikipedia.org/wiki/File:Kobe_Mosaic17s3072.jpg "fig:Kobe_Mosaic17s3072.jpg")の[ジャックランタン](https://ja.wikipedia.org/wiki/ジャックランタン "wikilink")\]\]
 
   - ハッピーハロウィン
-    EP2において、真里亞が興味を示している物として、「[ハロウィン](https://ja.wikipedia.org/wiki/ハロウィン "wikilink")」が挙げられる。魔女により、第一の事件の際のデコレーションの材料にされた。
+    EP2において、真里亞が興味を示している物として、「[ハロウィン](../Page/ハロウィン.md "wikilink")」が挙げられる。魔女により、第一の事件の際のデコレーションの材料にされた。
   - 愛がなければ視えない
     EP2で繰り返し言及されるキーワード。この言葉は本作のOPテーマの歌詞にもなっており、謎を解く上で重要な意味があると思われる。
   - 復唱要求
@@ -70,9 +70,9 @@
 
 ## 漫画
 
-[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")刊『[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー "wikilink")』[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月号より連載開始、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月号まで連載。作画は[鈴木次郎](https://ja.wikipedia.org/wiki/鈴木次郎 "wikilink")。なお、同社刊『[ガンガンパワード](https://ja.wikipedia.org/wiki/ガンガンパワード "wikilink")』及び『[月刊ガンガンJOKER](https://ja.wikipedia.org/wiki/月刊ガンガンJOKER "wikilink")』における「[episode1](https://ja.wikipedia.org/wiki/うみねこのなく頃に_episode1_-_Legend_of_the_golden_witch "wikilink")」、「[episode3](https://ja.wikipedia.org/wiki/うみねこのなく頃に_episode3_-_Banquet_of_the_golden_witch "wikilink")」（作画・[夏海ケイ](https://ja.wikipedia.org/wiki/夏海ケイ "wikilink")）と並行して連載されていた。
+[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")刊『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月号より連載開始、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")10月号まで連載。作画は[鈴木次郎](../Page/鈴木次郎.md "wikilink")。なお、同社刊『[ガンガンパワード](../Page/ガンガンパワード.md "wikilink")』及び『[月刊ガンガンJOKER](https://ja.wikipedia.org/wiki/月刊ガンガンJOKER "wikilink")』における「[episode1](../Page/うみねこのなく頃に_episode1_-_Legend_of_the_golden_witch.md "wikilink")」、「[episode3](https://ja.wikipedia.org/wiki/うみねこのなく頃に_episode3_-_Banquet_of_the_golden_witch "wikilink")」（作画・[夏海ケイ](../Page/夏海ケイ.md "wikilink")）と並行して連載されていた。
 
-作画：[鈴木次郎](https://ja.wikipedia.org/wiki/鈴木次郎 "wikilink")
+作画：[鈴木次郎](../Page/鈴木次郎.md "wikilink")
 
 1.  ISBN 978-4-7575-2590-0 2009年6月22日 初版発行
 2.  ISBN 978-4-7575-2763-8 2009年12月22日 初版発行
@@ -93,7 +93,7 @@
 
 ## 小説
 
-著：[竜騎士07](https://ja.wikipedia.org/wiki/竜騎士07 "wikilink") イラスト：[ともひ](../Page/ともひ.md "wikilink") [講談社BOX](https://ja.wikipedia.org/wiki/講談社BOX "wikilink")
+著：[竜騎士07](../Page/竜騎士07.md "wikilink") イラスト：[ともひ](../Page/ともひ.md "wikilink") [講談社BOX](../Page/講談社BOX.md "wikilink")
 
   - うみねこのなく頃に Episode2 上 ISBN 978-4-06-283730-9 2009年11月5日 初版発行
   - うみねこのなく頃に Episode2 下 ISBN 978-4-06-283735-4 2009年12月1日 初版発行

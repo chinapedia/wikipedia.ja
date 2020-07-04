@@ -1,26 +1,11 @@
-> この記事は[Sister Communication](https://ja.wikipedia.org/wiki/Sister_Communication)から翻訳されています。
+> この記事は[釘宮理恵のSister Communication](https://ja.wikipedia.org/wiki/釘宮理恵のSister_Communication)から翻訳されています。
 
 
-|                                                  |
-| :----------------------------------------------: |
-|        ''' 釘宮理恵のSister Communication '''         |
-|                                                  |
-|                                                  |
-|   \!bgcolor="\#efefef"| <small>**愛称**</small>    |
-|   \!bgcolor="\#efefef"| <small>**放送局**</small>   |
-|  \!bgcolor="\#efefef"| <small>**スタジオ**</small>   |
-|  \!bgcolor="\#efefef"| <small>**放送期間**</small>   |
-|  \!bgcolor="\#efefef"| <small>**放送形式**</small>   |
-|  \!bgcolor="\#efefef"| <small>**放送時間**</small>   |
-|  \!bgcolor="\#efefef"| <small>**放送回数**</small>   |
-| \!bgcolor="\#efefef"| <small>**パーソナリティ**</small> |
-|   \!bgcolor="\#efefef"|<small>**その他**</small>    |
-
-『**釘宮理恵のSister Communication** <small>（くぎみやりえ の シスター コミュニケーション）</small>』は、[2001年](../Page/2001年.md "wikilink")[7月3日](https://ja.wikipedia.org/wiki/7月3日 "wikilink")から[12月25日](../Page/12月25日.md "wikilink")に放送されたインターネットテレビ番組。パーソナリティは[声優](../Page/声優.md "wikilink")の[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")であり、彼女の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。愛称・略称は「**シスコミ**」。
+『**釘宮理恵のSister Communication**』（くぎみやりえのシスター・コミュニケーション）は、[2001年](../Page/2001年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から[12月25日](../Page/12月25日.md "wikilink")に放送されたインターネットテレビ番組。パーソナリティは[声優](../Page/声優.md "wikilink")の[釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")であり、彼女の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。愛称・略称は「**シスコミ**」。
 
 ## 概要
 
-『[インターネット博覧会](../Page/インターネット博覧会.md "wikilink")（イン博 *inpaku*）』の企画コンテンツとして放送を開始。なお、同様の番組は本番組以外にも『[川澄綾子のBest Communication](https://ja.wikipedia.org/wiki/川澄綾子のBest_Communication "wikilink")』や『山本麻里安のPure Communication』などが放送された。毎月、インパク企画番組についての投票が行われランキングが発表された。
+『[インターネット博覧会](../Page/インターネット博覧会.md "wikilink")（イン博 *inpaku*）』の企画コンテンツとして放送を開始。なお、同様の番組は本番組以外にも『[川澄綾子のBest Communication](../Page/川澄綾子のBest_Communication.md "wikilink")』や『山本麻里安のPure Communication』などが放送された。毎月、インパク企画番組についての投票が行われランキングが発表された。
 
 番組タイトルにあるように、メインテーマは「妹」で、「国民的妹声優」を目指す釘宮理恵のことを応援してくれる「お兄ちゃん」を増やしていこうという番組である。そうしたことから、パーソナリティの釘宮が「妹」、視聴者が「（たくさんの）お兄ちゃん」という体を根本にして放送された。そのため、女性の視聴者は無視に近い（「お姉ちゃん」という概念がないため）。また、基本的に釘宮を「妹（年下）」として扱うため、年齢設定は視聴者の「妄想」任せであった。
 
@@ -62,20 +47,20 @@
 
 ## エピソード
 
-  - 番組開始当初は[ツインテール](https://ja.wikipedia.org/wiki/ツインテール "wikilink")の（回によってツーテールとも言っていた）髪型だったが、視聴者の要望もあって[ポニーテール](https://ja.wikipedia.org/wiki/ポニーテール "wikilink")、[三つ編み](../Page/三つ編み.md "wikilink")など髪型を変えたりした。
+  - 番組開始当初は[ツインテール](../Page/ツインテール.md "wikilink")の（回によってツーテールとも言っていた）髪型だったが、視聴者の要望もあって[ポニーテール](../Page/ポニーテール.md "wikilink")、[三つ編み](../Page/三つ編み.md "wikilink")など髪型を変えたりした。
   - 8月14日放送分（第7回）では、視聴者から釘宮に駄洒落の練習本がプレゼントされた。なお、釘宮自身は駄洒落、親父ギャグ好きである。
   - 9月4日放送分（第10回）の冒頭で、インパク企画番組のランキングで8月の月間1位になったことを視聴者に報告した。なお、視聴者の中には「1人で50票近く投票した。」というコメントが寄せられた。また、この回の終盤では音声をオフにし忘れたのか、CMが放送されているにも関わらず、釘宮がスタッフと打ち合わせをしている声が流れり、放送終了後もスタッフに話しかける釘宮の声が聴こえたりするというハプニングがあった。
   - 9月11日放送分（第11回）に、番組初（かつ唯一）のゲスト「斉藤K」が登場した。トークに入ると、名前を「K」としていることについて釘宮が突っ込もうとしたが、「あなた（釘宮）も"K"ですよね」と返り討ちにあった。その後、「斉藤K」によって釘宮はホメ殺しに近い状態になった。
   - 10月16日放送分（第16回）で、視聴者からプレゼントされた眼鏡を付けて登場した。当初はオープニング限定であったが、スタッフからの要望により、ほとんど眼鏡を付けて番組を進行した。
-  - 12月25日放送分（最終回）は[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")ということで、イルミネーションの装飾やケーキが用意された他、視聴者から[シャンペン](https://ja.wikipedia.org/wiki/シャンペン "wikilink")の贈り物が届いた。またこの回をもって、放送を終了することから、初めて1人で番組を仕切り通した釘宮へのご褒美を兼ねたものである。その後もいつも通りに進行していたが、番組の最後では放送が終了してしまう寂しさのあまり、「泣かない」と言いながらも堪えきれずに号泣してしまった。それでも、最後は半年間応援してくれた視聴者への感謝を述べた。
+  - 12月25日放送分（最終回）は[クリスマス](../Page/クリスマス.md "wikilink")ということで、イルミネーションの装飾やケーキが用意された他、視聴者から[シャンペン](https://ja.wikipedia.org/wiki/シャンペン "wikilink")の贈り物が届いた。またこの回をもって、放送を終了することから、初めて1人で番組を仕切り通した釘宮へのご褒美を兼ねたものである。その後もいつも通りに進行していたが、番組の最後では放送が終了してしまう寂しさのあまり、「泣かない」と言いながらも堪えきれずに号泣してしまった。それでも、最後は半年間応援してくれた視聴者への感謝を述べた。
 
 ## 関連項目
 
-  - [NTTコムウェア](https://ja.wikipedia.org/wiki/NTTコムウェア "wikilink")
+  - [NTTコムウェア](../Page/NTTコムウェア.md "wikilink")
   - [山本麻里安](../Page/山本麻里安.md "wikilink") - [山本麻里安のPure Communication](https://ja.wikipedia.org/wiki/山本麻里安のPure_Communication "wikilink")
-  - [川澄綾子](../Page/川澄綾子.md "wikilink")・[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink") - [川澄綾子のBest Communication](https://ja.wikipedia.org/wiki/川澄綾子のBest_Communication "wikilink")
-  - [妹](https://ja.wikipedia.org/wiki/妹 "wikilink") - [シスターコンプレックス](https://ja.wikipedia.org/wiki/シスターコンプレックス "wikilink")
-  - [ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")
-  - [2次元](https://ja.wikipedia.org/wiki/2次元 "wikilink")
+  - [川澄綾子](../Page/川澄綾子.md "wikilink")・[能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink") - [川澄綾子のBest Communication](../Page/川澄綾子のBest_Communication.md "wikilink")
+  - [妹](https://ja.wikipedia.org/wiki/妹 "wikilink") - [シスターコンプレックス](../Page/シスターコンプレックス.md "wikilink")
+  - [ツンデレ](../Page/ツンデレ.md "wikilink")
+  - [2次元](../Page/2次元.md "wikilink")
 
-[Category:日本のWebバラエティ番組](https://ja.wikipedia.org/wiki/Category:日本のWebバラエティ番組 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:声優バラエティ番組](https://ja.wikipedia.org/wiki/Category:声優バラエティ番組 "wikilink")
+[Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:声優バラエティ番組](https://ja.wikipedia.org/wiki/Category:声優バラエティ番組 "wikilink") [Category:日本のWebバラエティ番組](https://ja.wikipedia.org/wiki/Category:日本のWebバラエティ番組 "wikilink")

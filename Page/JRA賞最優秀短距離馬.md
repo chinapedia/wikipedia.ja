@@ -423,7 +423,7 @@
 <td><p>牡6</p></td>
 <td><p>6戦3勝<br />
 <a href="../Page/スプリンターズステークス.md" title="wikilink">スプリンターズステークス</a></p></td>
-<td><p><a href="../Page/ノーザンファーム.md" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/ノーザンファーム.md" title="wikilink">社台ファーム早来</a></p></td>
 <td><p>境勝太郎</p></td>
 <td><p>（株）さくらコマース</p></td>
 <td></td>

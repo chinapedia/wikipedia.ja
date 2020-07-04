@@ -1,0 +1,761 @@
+> この記事は[ESRBレイティング別対象ソフト一覧・T \(13歳以上\)](https://ja.wikipedia.org/wiki/ESRBレイティング別対象ソフト一覧・T_\(13歳以上\))から翻訳されています。
+
+
+[ESRB_2013_Teen.svg](https://ja.wikipedia.org/wiki/File:ESRB_2013_Teen.svg "fig:ESRB_2013_Teen.svg") 本項は**[エンターテインメントソフトウェアレイティング委員会](../Page/エンターテインメントソフトウェアレイティング委員会.md "wikilink")（ESRB）**による[レイティング](../Page/レイティング.md "wikilink")で、**「T（13歳以上対象）」**とされた[ゲームソフト](../Page/ゲームソフト.md "wikilink")の一覧。
+
+[CEROのレーティングではおおむね](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")**[B（12歳以上対象）](../Page/CEROレーティング12才以上対象ソフトの一覧.md "wikilink")** - **[C（15歳以上対象）](../Page/CEROレーティング15才以上対象ソフトの一覧.md "wikilink")**に相当する。
+
+[大神](../Page/大神_\(ゲーム\).md "wikilink")、[大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")、[ガンダム無双](https://ja.wikipedia.org/wiki/ガンダム無双 "wikilink")、[リンクのボウガントレーニング](../Page/リンクのボウガントレーニング.md "wikilink")など*CEROの審査で「A（全年齢対象）」に区分されるソフトも「T」区分となるケースが多い*一方、[メダル・オブ・オナーや](../Page/メダル・オブ・オナー_\(ゲームソフト\).md "wikilink")[コール オブ デューティーなどの](https://ja.wikipedia.org/wiki/コール_オブ_デューティー "wikilink")[軍事](../Page/軍事.md "wikilink")・[戦争](../Page/戦争.md "wikilink")を題材とした[FPSの一部](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")、[グランド・セフト・オートや](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")[ヒットマンといった](https://ja.wikipedia.org/wiki/ヒットマン_\(ゲーム\) "wikilink")[残酷ゲーム](../Page/残酷ゲーム.md "wikilink")・[犯罪ゲームの](https://ja.wikipedia.org/wiki/クライムアクション "wikilink")[携帯ゲーム](https://ja.wikipedia.org/wiki/携帯ゲーム "wikilink")版などの他、学校での[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")をテーマにした[BULLY](https://ja.wikipedia.org/wiki/BULLY "wikilink")も対象となっている。
+
+中には[エキサイティングプロレス5](https://ja.wikipedia.org/wiki/エキサイティングプロレス5 "wikilink")、[The Matrix：Path of Neo](../Page/マトリックス_\(映画\).md "wikilink")、[フロントライン フュエル・オブ・ウォー](../Page/フロントライン_フュエル・オブ・ウォー.md "wikilink")、[フラクチャー](../Page/フラクチャー.md "wikilink")などといったCEROの審査で**[D（17歳以上対象）](../Page/CEROレーティング17才以上対象ソフトの一覧.md "wikilink")**とされたソフトの一部や、**[Z（18歳以上のみ対象）](../Page/CEROレーティング18才以上のみ対象ソフトの一覧.md "wikilink")**とされた[INFAMOUS〜悪名高き男〜](https://ja.wikipedia.org/wiki/INFAMOUS〜悪名高き男〜 "wikilink")、[inFAMOUS 2も含まれている](https://ja.wikipedia.org/wiki/inFAMOUS_2 "wikilink")。
+
+日本と違い、[米国内の大半の販売店において](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、**13歳未満には保護者の同意が得られない限り販売しないこと**になっている。
+
+## 一覧
+
+  - T区分のゲームは非常に膨大な数に及ぶため、極力**日本国内で販売されている**（または国内メーカー製）**タイトルを優先**して記載する。日本では未発売のタイトル・日本では発売中止となったタイトルについては、その旨を併せて表記する。
+  - CEROの審査を受けたゲームには、タイトル名の前に該当のアルファベットを表記する。
+  - 「[プリンス・オブ・ペルシャ ケンシノココロ](https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ_ケンシノココロ "wikilink")」のような機種別に表現の差異がある等の理由で複数のレイティングが設定されているゲームに関しては<span style="color:#0000FF;">*'C **</span><span style="color:#FF8000;">**D :*'</span>のように並べて表記する。
+
+| 英文字 | 対象年齢      | 背表紙帯色 |
+| --- | --------- | ----- |
+| A   | 全年齢対象     | 黒     |
+| B   | 12才以上対象   | 緑     |
+| C   | 15才以上対象   | 青     |
+| D   | 17才以上対象   | 橙     |
+| Z   | 18才以上のみ対象 | 赤     |
+
+## あ行
+
+  - <span style="color:#000000;">**A :**</span>[THE EYE OF JUDGMENT](../Page/THE_EYE_OF_JUDGMENT.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[赤ちゃんはどこからくるの?](../Page/赤ちゃんはどこからくるの?.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[アガレスト戦記](../Page/アガレスト戦記.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[アガレスト戦記ZERO](https://ja.wikipedia.org/wiki/アガレスト戦記ZERO "wikilink")
+  - <span style="color:#008000;">*'B **</span><span style="color:#0000FF;">**C :*'</span>[悪魔城ドラキュラX 月下の夜想曲](../Page/悪魔城ドラキュラX_月下の夜想曲.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[悪魔城ドラキュラ Circle of the Moon](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_Circle_of_the_Moon "wikilink")
+  - <span style="color:#008000;">**B :**</span>[悪魔城ドラキュラ 蒼月の十字架](../Page/悪魔城ドラキュラ_蒼月の十字架.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[悪魔城ドラキュラ ギャラリー オブ ラビリンス](../Page/悪魔城ドラキュラ_ギャラリー_オブ_ラビリンス.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[悪魔城ドラキュラ 奪われた刻印](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_奪われた刻印 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[悪魔城ドラキュラ Xクロニクル](../Page/悪魔城ドラキュラ_Xクロニクル.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[悪魔城ドラキュラ ジャッジメント](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_ジャッジメント "wikilink")
+  - <span style="color:#008000;">**B :**</span>[悪魔城ドラキュラ Harmony of Despair](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_ハーモニー_オブ_ディスペアー "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アークライズファンタジア](https://ja.wikipedia.org/wiki/アークライズファンタジア "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[EARTH DEFENSE FORCE: INSECT ARMAGEDDON](https://ja.wikipedia.org/wiki/EARTH_DEFENSE_FORCE:_INSECT_ARMAGEDDON "wikilink")
+  - <span style="color:#000000;">*'A **</span><span style="color:#0000FF;">**C :*'</span>[アバター THE GAME](https://ja.wikipedia.org/wiki/アバター_THE_GAME "wikilink")（PS3・Xbox 360版。DS版はE10+。）
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア](../Page/アーマード・コア.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア プロジェクトファンタズマ](../Page/アーマード・コア_プロジェクトファンタズマ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア マスターオブアリーナ](../Page/アーマード・コア_マスターオブアリーナ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア2](../Page/アーマード・コア2.md "wikilink")
+  - [アーマード・コア2 アナザーエイジ](../Page/アーマード・コア2_アナザーエイジ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア3](../Page/アーマード・コア3.md "wikilink")
+  - [アーマード・コア3 サイレントライン](../Page/アーマード・コア3_サイレントライン.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[アーマード・コア ネクサス](../Page/アーマード・コア_ネクサス.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア ナインブレイカー](../Page/アーマード・コア_ナインブレイカー.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア フォーミュラフロント](../Page/アーマード・コア_フォーミュラフロント.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア ラストレイヴン](../Page/アーマード・コア_ラストレイヴン.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア4](../Page/アーマード・コア4.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アーマード・コア フォーアンサー](../Page/アーマード・コア_フォーアンサー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ALAN WAKE](https://ja.wikipedia.org/wiki/ALAN_WAKE "wikilink")
+  - <span style="color:#008000;">**B :**</span>[アルカナハート](https://ja.wikipedia.org/wiki/アルカナハート "wikilink")（すっごい\!アルカナハート2は北米未発売）
+  - <span style="color:#0000FF;">**C :**</span>[アルカナハート3](https://ja.wikipedia.org/wiki/アルカナハート3 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[アルケミックダンジョンズDX](https://ja.wikipedia.org/wiki/アルケミックダンジョンズDX "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ULTIMATE MARVEL VS. CAPCOM 3](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")
+  - <span style="color:#008000;">**B :**</span>[アルトネリコ 世界の終わりで詩い続ける少女](../Page/アルトネリコ_世界の終わりで詩い続ける少女.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[アルトネリコ2 世界に響く少女たちの創造詩](../Page/アルトネリコ2_世界に響く少女たちの創造詩.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[アンチャーテッド エル・ドラドの秘宝](../Page/アンチャーテッド_エル・ドラドの秘宝.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[アンチャーテッド 黄金刀と消えた船団](https://ja.wikipedia.org/wiki/アンチャーテッド_黄金刀と消えた船団 "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[アンチャーテッド 砂漠に眠るアトランティス](https://ja.wikipedia.org/wiki/アンチャーテッド_砂漠に眠るアトランティス "wikilink")
+  - <span style="color:#008000;">**B :**</span>[EA SPORTS 総合格闘技](https://ja.wikipedia.org/wiki/EA_SPORTS_総合格闘技 "wikilink")（[オーストラリア](../Page/オーストラリア.md "wikilink")では**12歳以上対象**。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")圏では**16歳以上対象**。[韓国と](../Page/大韓民国.md "wikilink")[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")では**18歳未満提供禁止**。）
+  - <span style="color:#008000;">**B :**</span>[ICO](../Page/ICO_\(ゲーム\).md "wikilink")（韓国とオーストラリアでは**全年齢対象**。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では**3歳以上対象**。ヨーロッパ圏では**6歳、もしくは7歳以上対象**。）
+  - <span style="color:#000000;">*'A **</span><span style="color:#008000;">**B :*'</span>[イース -ナピシュテムの匣-](https://ja.wikipedia.org/wiki/イースVI#イース_-ナピシュテムの匣- "wikilink")（PS2版。PSP版はE10+。）
+  - <span style="color:#0000FF;">**C :**</span>[イースVII](https://ja.wikipedia.org/wiki/イースVII "wikilink")
+  - <span style="color:#008000;">**B :**</span>[イース -フェルガナの誓い-](../Page/イース_-フェルガナの誓い-.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[イースI\&II クロニクルズ](../Page/イースI・II.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[EAT LEAD マット・ハザードの逆襲](https://ja.wikipedia.org/wiki/EAT_LEAD_マット・ハザードの逆襲 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[イリスのアトリエ エターナルマナ](../Page/イリスのアトリエ_エターナルマナ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[イリスのアトリエ グランファンタズム](../Page/イリスのアトリエ_グランファンタズム.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[インフィニット アンディスカバリー](../Page/インフィニット_アンディスカバリー.md "wikilink")
+  - <span style="color:#FF0000;">**Z :**</span>[INFAMOUS〜悪名高き男〜](https://ja.wikipedia.org/wiki/INFAMOUS〜悪名高き男〜 "wikilink")（オーストラリアでは**12歳以上対象**。ヨーロッパ圏では**16歳以上対象**。韓国とドイツでは**18歳未満提供禁止**。）
+  - <span style="color:#FF0000;">**Z :**</span>[inFAMOUS 2](https://ja.wikipedia.org/wiki/inFAMOUS_2 "wikilink")（オーストラリアでは**12歳以上対象**。ヨーロッパ圏では**16歳以上対象**。ドイツでは**16歳未満提供禁止**。韓国では**18歳未満提供禁止**。）
+  - <span style="color:#0000FF;">**C :**</span>[IMPLOSION](https://ja.wikipedia.org/wiki/IMPLOSION "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ヴァルハラナイツ エルダールサーガ](https://ja.wikipedia.org/wiki/ヴァルハラナイツ_エルダールサーガ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ヴァルキリープロファイル](../Page/ヴァルキリープロファイル.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>ヴァルキリープロファイル -レナス-
+  - <span style="color:#000000;">**A :**</span>[ヴァルキリープロファイル2 シルメリア](https://ja.wikipedia.org/wiki/ヴァルキリープロファイル2_シルメリア "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ヴァルキリープロファイル 咎を背負う者](https://ja.wikipedia.org/wiki/ヴァルキリープロファイル_咎を背負う者 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[Vandal Hearts: Flames of Judgment](https://ja.wikipedia.org/wiki/Vandal_Hearts:_Flames_of_Judgment "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ヴァンパイア クロニクル ザ カオスタワー](../Page/ヴァンパイア_\(ゲーム\).md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ウィザードリィ 囚われし魂の迷宮](https://ja.wikipedia.org/wiki/ウィザードリィ_囚われし魂の迷宮 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ウィッシュルーム 天使の記憶](../Page/ウィッシュルーム_天使の記憶.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WARHAWK](../Page/WARHAWK.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[Ape Out](https://ja.wikipedia.org/wiki/Ape_Out "wikilink")
+  - <span style="color:#000000;">**A :**</span>[英雄伝説 空の軌跡FC](../Page/英雄伝説VI_空の軌跡.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Alien Hominid HD](https://ja.wikipedia.org/wiki/Alien_Hominid "wikilink")
+  - [エキサイティングプロレス](../Page/エキサイティングプロレス.md "wikilink")
+  - [エキサイティングプロレス2](https://ja.wikipedia.org/wiki/エキサイティングプロレス2 "wikilink")
+  - [エキサイティングプロレス3](https://ja.wikipedia.org/wiki/エキサイティングプロレス3 "wikilink")
+  - [エキサイティングプロレス4](https://ja.wikipedia.org/wiki/エキサイティングプロレス4 "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[エキサイティングプロレス5](https://ja.wikipedia.org/wiki/エキサイティングプロレス5 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[エキサイティングプロレス6 SMACKDOWN\! VS RAW](../Page/エキサイティングプロレス6_SMACKDOWN!_VS_RAW.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[エキサイティングプロレス7 SMACKDOWN\! VS. RAW 2006](../Page/エキサイティングプロレス7_SMACKDOWN!_VS._RAW_2006.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[エクシズ・フォルス](https://ja.wikipedia.org/wiki/エクシズ・フォルス "wikilink")
+  - [Ecks vs. Sever](https://ja.wikipedia.org/wiki/Ecks_vs._Sever "wikilink")　※日本未発売
+  - <span style="color:#008000;">**B :**</span>[エコーナイト](../Page/エコーナイト.md "wikilink")（2は北米未発売）
+  - <span style="color:#008000;">**B :**</span>[SNK VS. CAPCOM SVC CHAOS](../Page/SNK_VS._CAPCOM_SVC_CHAOS.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[SNK VS. CAPCOM カードファイターズDS](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_カードファイターズDS "wikilink")
+  - [エースコンバット2](../Page/エースコンバット2.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[エースコンバット5 ジ・アンサング・ウォー](../Page/エースコンバット5_ジ・アンサング・ウォー.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[エースコンバット・ゼロ ザ・ベルカン・ウォー](../Page/エースコンバット・ゼロ_ザ・ベルカン・ウォー.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[エースコンバットX スカイズ・オブ・デセプション](../Page/エースコンバットX_スカイズ・オブ・デセプション.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[エースコンバット6 解放への戦火](../Page/エースコンバット6_解放への戦火.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[エースコンバットX<sup>2</sup> ジョイントアサルト](https://ja.wikipedia.org/wiki/エースコンバットX2_ジョイントアサルト "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[エースコンバット アサルト・ホライゾン](https://ja.wikipedia.org/wiki/エースコンバット_アサルト・ホライゾン "wikilink")
+  - <span style="color:#000000;">**A :**</span>[エースコンバット3D クロスランブル](https://ja.wikipedia.org/wiki/エースコンバット3D_クロスランブル "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[Enemy Territory: Quake Wars](../Page/Enemy_Territory:_Quake_Wars.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[Ever17 -the out of infinity-](../Page/Ever17_-the_out_of_infinity-.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[F-ZERO GX](../Page/F-ZERO_GX.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[エルシャダイ](https://ja.wikipedia.org/wiki/エルシャダイ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[エレベーターアクション デラックス](../Page/エレベーターアクション.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ENSLAVED ODYSSEY TO THE WEST](https://ja.wikipedia.org/wiki/ENSLAVED_ODYSSEY_TO_THE_WEST "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ENTER THE MATRIX](https://ja.wikipedia.org/wiki/ENTER_THE_MATRIX "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ENCHANT ARM](../Page/ENCHANT_ARM.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[エンド ウォー](../Page/エンド_ウォー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[エンド オブ エタニティ](https://ja.wikipedia.org/wiki/エンド_オブ_エタニティ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[オウガバトル64](../Page/オウガバトル64.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[王様物語](https://ja.wikipedia.org/wiki/王様物語 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[大神](../Page/大神_\(ゲーム\).md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鬼武者 無頼伝](../Page/鬼武者.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[朧村正](../Page/朧村正.md "wikilink")
+
+## か行
+
+  - <span style="color:#000000;">**A :**</span>[カオスウォーズ](../Page/カオスウォーズ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[超執刀 カドゥケウス](../Page/超執刀_カドゥケウス.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[カドゥケウスZ 2つの超執刀](../Page/カドゥケウスZ_2つの超執刀.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[カドゥケウス ニューブラッド](../Page/カドゥケウス_ニューブラッド.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[救急救命 カドゥケウス2](https://ja.wikipedia.org/wiki/救急救命_カドゥケウス2 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[カスタムロボ バトルレボリューション](../Page/カスタムロボ_バトルレボリューション.md "wikilink")
+  - [CAPCOM VS. SNK MILLENNIUM FIGHT 2000 PRO](../Page/カプコン_バーサス_エス・エヌ・ケイ_ミレニアムファイト_2000.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[CAPCOM VS. SNK 2 MILLIONAIRE FIGHTING 2001](../Page/CAPCOM_VS._SNK_2_MILLIONAIRE_FIGHTING_2001.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[餓狼伝説](../Page/餓狼伝説.md "wikilink")バトルアーカイブズ1
+  - <span style="color:#008000;">**B :**</span>餓狼伝説バトルアーカイブズ2
+  - <span style="color:#008000;">**B :**</span>[餓狼 MARK OF THE WOLVES](../Page/餓狼_MARK_OF_THE_WOLVES.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[Guns, Gore & Cannoli](https://ja.wikipedia.org/wiki/Guns,_Gore_&_Cannoli "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[Guns, Gore & Cannoli 2](https://ja.wikipedia.org/wiki/Guns,_Gore_&_Cannoli_2 "wikilink")
+  - [ガンダム・ザ・バトルマスター](../Page/ガンダム・ザ・バトルマスター.md "wikilink")2（1は北米未発売）
+  - <span style="color:#0000FF;">**C :**</span>[ガンダム オペレーショントロイ](../Page/ガンダム_オペレーショントロイ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ガンダム無双](https://ja.wikipedia.org/wiki/ガンダム無双 "wikilink")
+  - <span style="color:#000000;">**A :**</span>ガンダム無双2
+  - <span style="color:#000000;">**A :**</span>ガンダム無双3
+  - <span style="color:#008000;">**B :**</span>[ガンマンストーリー2](https://ja.wikipedia.org/wiki/ガンマンストーリー2 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ガンマンストーリーHDコレクション](https://ja.wikipedia.org/wiki/ガンマンストーリーHDコレクション "wikilink")（Wii U版。Switch版はE10+。）
+  - <span style="color:#000000;">**A :**</span>[ギターヒーロー3 レジェンド オブ ロック](../Page/ギターヒーロー3_レジェンド_オブ_ロック.md "wikilink")
+  - [機動戦士ガンダム外伝 コロニーの落ちた地で…](../Page/機動戦士ガンダム外伝_コロニーの落ちた地で….md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[機動戦士ガンダム](../Page/機動戦士ガンダム_\(プレイステーション2\).md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[機動戦士ガンダム 連邦vs.ジオンDX](../Page/機動戦士ガンダム_連邦vs.ジオン.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[機動戦士ガンダム めぐりあい宇宙](../Page/機動戦士ガンダム_めぐりあい宇宙.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[機動戦士ガンダム ガンダムvs.Ζガンダム](../Page/機動戦士ガンダム_ガンダムvs.Ζガンダム.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[機動戦士ガンダムSEED 終わらない明日へ](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_終わらない明日へ "wikilink")
+  - <span style="color:#000000;">**A :**</span>[機動戦士ガンダム Target in Sight](../Page/機動戦士ガンダム_Target_in_Sight.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[きみのためなら死ねる](../Page/きみのためなら死ねる.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[逆転裁判](../Page/逆転裁判.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>逆転裁判 蘇る逆転
+  - <span style="color:#000000;">**A :**</span>逆転裁判2
+  - <span style="color:#008000;">**B :**</span>逆転裁判3
+  - <span style="color:#000000;">*'A **</span><span style="color:#008000;">**B :*'</span>逆転裁判4
+  - <span style="color:#008000;">**B :**</span>逆転検事
+  - <span style="color:#008000;">**B :**</span>[キャッスルヴァニア 白夜の協奏曲](../Page/キャッスルヴァニア_白夜の協奏曲.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[キャッスルヴァニア 〜暁月の円舞曲〜](../Page/キャッスルヴァニア_〜暁月の円舞曲〜.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Castle Crashers](https://ja.wikipedia.org/wiki/Castle_Crashers "wikilink")
+  - <span style="color:#008000;">**B :**</span>[GUILTY GEAR](../Page/GUILTY_GEAR.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[GUILTY GEAR 2 OVERTURE](../Page/GUILTY_GEAR_2_OVERTURE.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[GUILTY GEAR X](../Page/GUILTY_GEAR_X.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[GUILTY GEAR ISUKA](../Page/GUILTY_GEAR_ISUKA.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[GUILTY GEAR XX](../Page/GUILTY_GEAR_XX.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>GUILTY GEAR XX \#RELOAD（GUILTY GEAR XX SLASHは北米未発売）
+  - <span style="color:#008000;">**B :**</span>GUILTY GEAR XX ∧ CORE
+  - <span style="color:#008000;">**B :**</span>GUILTY GEAR XX ∧ CORE PLUS
+  - <span style="color:#0000FF;">**C :**</span>[GUILTY GEAR JUDGMENT](https://ja.wikipedia.org/wiki/GUILTY_GEAR_JUDGMENT "wikilink")
+  - <span style="color:#008000;">**B :**</span>[GUILTY GEAR DUST STRIKERS](https://ja.wikipedia.org/wiki/GUILTY_GEAR_DUST_STRIKERS "wikilink")
+  - <span style="color:#000000;">**A :**</span>[キングスフィールド](../Page/キングスフィールド.md "wikilink")II
+  - <span style="color:#000000;">**A :**</span>キングスフィールドIII
+  - <span style="color:#0000FF;">**C :**</span>キングスフィールドIV
+  - <span style="color:#000000;">**A :**</span>[くにおくんの超熱血\!大運動会](https://ja.wikipedia.org/wiki/くにおくんの超熱血!大運動会 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[くにおくんの超熱血\!サッカーリーグぷらす ワールド・ハイパー・カップ編](https://ja.wikipedia.org/wiki/くにおくんの超熱血!サッカーリーグぷらす_ワールド・ハイパー・カップ編 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[クライシス コア ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/クライシス_コア_ファイナルファンタジーVII "wikilink")
+  - [クライシスゾーン](../Page/クライシスゾーン.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[クラシックダンジョンX2](https://ja.wikipedia.org/wiki/クラシックダンジョン_〜扶翼の魔装陣〜 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[グラディウスV](../Page/グラディウスV.md "wikilink")
+  - [グランド・セフト・オート](../Page/グランド・セフト・オート.md "wikilink")（[GBC版のみ](../Page/ゲームボーイカラー.md "wikilink")）
+  - [グランド・セフト・オート2](../Page/グランド・セフト・オート2.md "wikilink")（[GBC](../Page/ゲームボーイカラー.md "wikilink")・[PS版のみ](../Page/PlayStation_\(ゲーム機\).md "wikilink")）
+  - <span style="color:#008000;">**B :**</span>[クレイジータクシー](../Page/クレイジータクシー.md "wikilink")（DC・PS2・GC版。PS3・Xbox 360版はE10+。）
+  - クレイジータクシー2
+  - <span style="color:#008000;">**B :**</span>クレイジータクシー3 ハイローラー
+  - <span style="color:#008000;">**B :**</span>[クレイマン・クレイマン2 〜スカルモンキーのぎゃくしゅう〜](https://ja.wikipedia.org/wiki/クレイマン・クレイマン2_〜スカルモンキーのぎゃくしゅう〜 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[クロスエッジ](../Page/クロスエッジ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[クロノ・トリガー](../Page/クロノ・トリガー.md "wikilink")（PS版。NDS版はE10+。）
+  - <span style="color:#008000;">**B :**</span>[クロノ・クロス](../Page/クロノ・クロス.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[クロムハウンズ](../Page/クロムハウンズ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[グローランサーV](../Page/グローランサーV.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ぐわんげ](../Page/ぐわんげ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>KOF MAXIMUM IMPACT 2
+  - <span style="color:#0000FF;">**C :**</span>[喧嘩番長3 全国制覇](https://ja.wikipedia.org/wiki/喧嘩番長3_全国制覇 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[GENJI -神威奏乱-](../Page/GENJI_-神威奏乱-.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[幻想水滸伝II](../Page/幻想水滸伝II.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[幻想水滸伝III](../Page/幻想水滸伝III.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[幻想水滸伝IV](../Page/幻想水滸伝IV.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[幻想水滸伝V](../Page/幻想水滸伝V.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[剣と魔法と学園モノ。](../Page/剣と魔法と学園モノ。.md "wikilink")（2以降は北米未発売）
+  - <span style="color:#008000;">**B :**</span>[攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_\(ゲーム\).md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゴーストスカッド](https://ja.wikipedia.org/wiki/ゴーストスカッド "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゴーストトリック](https://ja.wikipedia.org/wiki/ゴーストトリック "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゴーストリコン ジャングルストーム](../Page/ゴーストリコン_ジャングルストーム.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[ゴーストリコン2](../Page/ゴーストリコン2.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゴーストリコン アドバンスウォーファイター](../Page/ゴーストリコン_アドバンスウォーファイター.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゴーストリコン アドバンスウォーファイター2](../Page/ゴーストリコン_アドバンスウォーファイター2.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゴーストリコン シャドーウォー](https://ja.wikipedia.org/wiki/ゴーストリコン_シャドーウォー "wikilink")
+  - <span style="color:#008000;">**B :**</span>[コーヒートーク](../Page/コーヒートーク.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[GOD EATER BURST](https://ja.wikipedia.org/wiki/ゴッドイーター "wikilink")
+  - <span style="color:#000000;">**A :**</span>[CODED ARMS](../Page/CODED_ARMS.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[CODED ARMS CONTAGION](../Page/CODED_ARMS_CONTAGION.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[Colin McRae: DiRT 2](https://ja.wikipedia.org/wiki/Colin_McRae:_DiRT_2 "wikilink")（PS3・Xbox 360版）
+  - <span style="color:#008000;">**B :**</span>[CALLING 〜黒き着信〜](https://ja.wikipedia.org/wiki/CALLING_〜黒き着信〜 "wikilink")
+  - [コール オブ デューティ](../Page/コール_オブ_デューティ.md "wikilink")
+  - [コール オブ デューティー:ユナイテッド オフェンシブ](https://ja.wikipedia.org/wiki/コール_オブ_デューティー:ユナイテッド_オフェンシブ "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[コール オブ デューティー ファイネストアワー](https://ja.wikipedia.org/wiki/コール_オブ_デューティー_ファイネストアワー "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[コール オブ デューティ2](../Page/コール_オブ_デューティ2.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[コール オブ デューティ2 ビッグ レッド ワン](../Page/コール_オブ_デューティ2_ビッグ_レッド_ワン.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[コール オブ デューティ3](../Page/コール_オブ_デューティ3.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[コール オブ デューティ4 モダン・ウォーフェア](../Page/コール_オブ_デューティ4_モダン・ウォーフェア.md "wikilink")（[DS版のみ](../Page/ニンテンドーDS.md "wikilink")。PS3・Xbox 360・PC版は[Mature](https://ja.wikipedia.org/wiki/ESRBレイティング別対象ソフト一覧・M_\(17歳以上\) "wikilink")。）
+  - <span style="color:#0000FF;">**C :**</span>[ゴールデンアイ 007](../Page/ゴールデンアイ_007.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゴールデンアックス](../Page/ゴールデンアックス.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[魂斗羅デュアルスピリッツ](../Page/魂斗羅デュアルスピリッツ.md "wikilink")
+
+## さ行
+
+  - <span style="color:#000000;">**A :**</span>[Cytus α](https://ja.wikipedia.org/wiki/Cytus_α "wikilink")
+  - [Syphon Filter](https://ja.wikipedia.org/wiki/サイフォンフィルター "wikilink")
+  - [Syphon Filter: Dark Mirror](https://ja.wikipedia.org/wiki/Syphon_Filter:_Dark_Mirror "wikilink")（PS2版のみ。PSP版はMature。）　※日本未発売
+  - [Syphon Filter: Logan's Shadow](https://ja.wikipedia.org/wiki/Syphon_Filter:_Logan's_Shadow "wikilink")　※日本未発売
+  - [Syphon Filter: Combat Ops](https://ja.wikipedia.org/wiki/Syphon_Filter:_Combat_Ops "wikilink")　※日本未発売
+  - <span style="color:#008000;">**B :**</span>[THE KING OF FIGHTERS](../Page/ザ・キング・オブ・ファイターズ.md "wikilink") '94 RE-BOUT
+  - <span style="color:#008000;">**B :**</span>THE KING OF FIGHTERS NEOWAVE
+  - <span style="color:#008000;">**B :**</span>THE KING OF FIGHTERS XI
+  - <span style="color:#008000;">**B :**</span>THE KING OF FIGHTERS XII
+  - <span style="color:#008000;">**B :**</span>THE KING OF FIGHTERS XIII
+  - <span style="color:#008000;">**B :**</span>THE KING OF FIGHTERS '98 ULTIMATE MATCH
+  - <span style="color:#008000;">**B :**</span>THE KING OF FIGHTERS 2002 UNLIMITED MATCH
+  - <span style="color:#008000;">**B :**</span>THE KING OF FIGHTERS PORTABLE '94〜'98 Chapter of Orochi
+  - <span style="color:#008000;">**B :**</span>[サクラ大戦V 〜さらば愛しき人よ〜](../Page/サクラ大戦V_〜さらば愛しき人よ〜.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ザ・シムズ](../Page/シムピープル.md "wikilink")
+  - <span style="color:#000000;">*'A **</span><span style="color:#008000;">**B :*'</span>[ザ・シムズ2](../Page/ザ・シムズ2.md "wikilink")（一部バージョンはEまたはE10+。）
+  - <span style="color:#0000FF;">**C :**</span>[ザ・シムズ3](https://ja.wikipedia.org/wiki/ザ・シムズ3 "wikilink")
+  - <span style="color:#008000;">**B :**</span>ザ・シンプソンズ ヒット&ラン
+  - <span style="color:#008000;">**B :**</span>[The Flame in the Flood](https://ja.wikipedia.org/wiki/The_Flame_in_the_Flood "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[The Matrix：Path of Neo](../Page/マトリックス_\(映画\).md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[サムライスピリッツ 六番勝負](../Page/サムライスピリッツ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[サモンナイト クラフトソード物語2](../Page/サモンナイト_クラフトソード物語2.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[The Wonderful 101](https://ja.wikipedia.org/wiki/The_Wonderful_101 "wikilink")
+  - [三國無双](../Page/三國無双.md "wikilink")
+  - [ジェットセットラジオ](../Page/ジェットセットラジオ.md "wikilink")
+  - ジェットセットラジオフューチャー
+  - [シェンムー 一章 横須賀](../Page/シェンムー.md "wikilink")
+  - [シェンムーII](https://ja.wikipedia.org/wiki/シェンムーII "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ジオニックフロント 機動戦士ガンダム0079](../Page/ジオニックフロント_機動戦士ガンダム0079.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[式神の城](../Page/式神の城.md "wikilink")III
+  - <span style="color:#000000;">**A :**</span>[シャイニング・ティアーズ](../Page/シャイニング・ティアーズ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[シャイニング・フォース ネオ](../Page/シャイニング・フォース_ネオ.md "wikilink")
+  - [Jak X: Combat Racing](../Page/Jak_X:_Combat_Racing.md "wikilink")　※日本未発売
+  - <span style="color:#008000;">**B :**</span>[ジャック×ダクスター3](../Page/Jak_3.md "wikilink")　※日本未発売
+  - <span style="color:#000000;">**A :**</span>[ジャック×ダクスター2](../Page/ジャック×ダクスター2.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[シャドウ オブ メモリーズ](../Page/シャドウ_オブ_メモリーズ.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[Shadow Complex](https://ja.wikipedia.org/wiki/Shadow_Complex "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[シャドウハーツII](../Page/シャドウハーツII.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[シャドウハーツ・フロム・ザ・ニューワールド](../Page/シャドウハーツ・フロム・ザ・ニューワールド.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[シューティングスタジオ](https://ja.wikipedia.org/wiki/シューティングスタジオ "wikilink")
+  - [ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険_\(対戦型格闘ゲーム\).md "wikilink")
+  - [私立ジャスティス学園](https://ja.wikipedia.org/wiki/私立ジャスティス学園 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[白騎士物語](../Page/白騎士物語.md "wikilink") -古の鼓動-
+  - <span style="color:#008000;">**B :**</span>白騎士物語 -光と闇の覚醒-
+  - <span style="color:#0000FF;">**C :**</span>[真魂斗羅](https://ja.wikipedia.org/wiki/真魂斗羅 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双](https://ja.wikipedia.org/wiki/真・三國無双 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双2](https://ja.wikipedia.org/wiki/真・三國無双2 "wikilink")
+  - <span style="color:#000000;">*'A **</span><span style="color:#008000;">**B :*'</span>[真・三國無双3](https://ja.wikipedia.org/wiki/真・三國無双3 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双4](https://ja.wikipedia.org/wiki/真・三國無双4 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双5](https://ja.wikipedia.org/wiki/真・三國無双5 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双6](https://ja.wikipedia.org/wiki/真・三國無双6 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双 (PSP)](https://ja.wikipedia.org/wiki/真・三國無双_\(PSP\) "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双 2nd Evolution](https://ja.wikipedia.org/wiki/真・三國無双_2nd_Evolution "wikilink")
+  - <span style="color:#008000;">**B :**</span>[真・三國無双 MULTI RAID](https://ja.wikipedia.org/wiki/真・三國無双_MULTI_RAID "wikilink")
+  - <span style="color:#000000;">**A :**</span>[スターオーシャン First Departure](../Page/スターオーシャン.md "wikilink")1
+  - <span style="color:#000000;">**A :**</span>[スターオーシャン2 Second Evolution](../Page/スターオーシャン_セカンドストーリー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[スターオーシャン3 Till the End of Time](../Page/スターオーシャン_Till_the_End_of_Time.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[スターオーシャン4 -THE LAST HOPE-](../Page/スターオーシャン4_-THE_LAST_HOPE-.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>スターオーシャン4 -THE LAST HOPE- INTERNATIONAL
+  - [スターフォックスアドベンチャー](../Page/スターフォックスアドベンチャー.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[スターフォックス アサルト](../Page/スターフォックス_アサルト.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>ストリートファイターIIターボ
+  - <span style="color:#008000;">**B :**</span>スーパーストリートファイターII
+  - <span style="color:#008000;">**B :**</span>[ストリートファイターZERO](../Page/ストリートファイターZERO.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>ストリートファイターZERO2
+  - <span style="color:#000000;">**A :**</span>ストリートファイターZERO3
+  - <span style="color:#008000;">**B :**</span>[ストリートファイターZERO ファイターズ ジェネレーション](../Page/ストリートファイターZERO_ファイターズ_ジェネレーション.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ストリートファイターIII](../Page/ストリートファイターIII.md "wikilink") W IMPACT
+  - <span style="color:#000000;">**A :**</span>ストリートファイターIII 3rd STRIKE
+  - <span style="color:#008000;">**B :**</span>ストリートファイターIII 3rd STRIKE ONLINE EDITION
+  - <span style="color:#008000;">**B :**</span>ストリートファイターアニバーサリーコレクション
+  - [ストリートファイターEX](../Page/ストリートファイターEX.md "wikilink") plus α
+  - ストリートファイターEX2 PLUS
+  - ストリートファイターEX3
+  - <span style="color:#008000;">**B :**</span>[ストリートファイターIV](../Page/ストリートファイターIV.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>スーパーストリートファイターIV
+  - <span style="color:#008000;">**B :**</span>スーパーストリートファイターIV 3D EDITION
+  - <span style="color:#008000;">**B :**</span>スーパーストリートファイターIV ARCADE EDITION
+  - <span style="color:#000000;">**A :**</span>[すばらしきこのせかい](../Page/すばらしきこのせかい.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[スプラッターハウス](../Page/スプラッターハウス.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[スプリンターセル](https://ja.wikipedia.org/wiki/スプリンターセル "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[スプリンターセル パンドラトゥモロー](https://ja.wikipedia.org/wiki/スプリンターセル_パンドラトゥモロー "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[スプリンターセル3D](https://ja.wikipedia.org/wiki/スプリンターセル3D "wikilink")
+  - <span style="color:#000000;">**A :**</span>[スペクトラルフォース3 イノセントレイジ](../Page/スペクトラルフォース3_イノセントレイジ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[スペクトラルフォース ジェネシス](https://ja.wikipedia.org/wiki/スペクトラルフォース_ジェネシス "wikilink")
+  - [スペースチャンネル5](../Page/スペースチャンネル5.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>スペースチャンネル5 パート2
+  - <span style="color:#000000;">**A :**</span>[スライムタクティクス](https://ja.wikipedia.org/wiki/スライムタクティクス "wikilink")
+  - <span style="color:#000000;">**A :**</span>[Slay the Spire](https://ja.wikipedia.org/wiki/Slay_the_Spire "wikilink")
+  - <span style="color:#000000;">**A :**</span>[聖剣伝説 LEGEND OF MANA](../Page/聖剣伝説_LEGEND_OF_MANA.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[世界樹の迷宮](../Page/世界樹の迷宮.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[絶体絶命都市](../Page/絶体絶命都市.md "wikilink")（舞台やキャラクターの設定が大幅に変更されている）
+  - <span style="color:#0000FF;">**C :**</span>[絶体絶命都市2 -凍てついた記憶たち-](../Page/絶体絶命都市2_-凍てついた記憶たち-.md "wikilink")（舞台やキャラクターの設定が大幅に変更されている）
+  - <span style="color:#000000;">**A :**</span>[絶対ヒーロー改造計画](https://ja.wikipedia.org/wiki/絶対ヒーロー改造計画 "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[ゼノギアス](../Page/ゼノギアス.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゼノサーガ エピソードI［力への意志］](../Page/ゼノサーガ_エピソードI［力への意志］.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゼノサーガ エピソードII［善悪の彼岸］](../Page/ゼノサーガ_エピソードII［善悪の彼岸］.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゼノサーガ エピソードIII［ツァラトゥストラはかく語りき］](../Page/ゼノサーガ_エピソードIII［ツァラトゥストラはかく語りき］.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゼノブレイド](https://ja.wikipedia.org/wiki/ゼノブレイド "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゼノブレイド2](https://ja.wikipedia.org/wiki/ゼノブレイド2 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゼノブレイドクロス](https://ja.wikipedia.org/wiki/ゼノブレイドクロス "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[Severed](https://ja.wikipedia.org/wiki/Severed "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[SEVEN SAMURAI 20XX](https://ja.wikipedia.org/wiki/SEVEN_SAMURAI_20XX "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゼルダの伝説 トワイライトプリンセス](../Page/ゼルダの伝説_トワイライトプリンセス.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゼルダの伝説 トワイライトプリンセス HD](https://ja.wikipedia.org/wiki/ゼルダの伝説_トワイライトプリンセス_HD "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゼルダ無双](https://ja.wikipedia.org/wiki/ゼルダ無双 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[零 ～zero～](https://ja.wikipedia.org/wiki/零_\(ゲーム\) "wikilink")
+  - <span style="color:#008000;">**B :**</span>[零・超兄貴](../Page/超兄貴.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[旋光の輪舞 Rev.X](../Page/旋光の輪舞.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦国無双](https://ja.wikipedia.org/wiki/戦国無双 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦国無双2](https://ja.wikipedia.org/wiki/戦国無双2 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[激・戦国無双](https://ja.wikipedia.org/wiki/激・戦国無双 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦国無双KATANA](https://ja.wikipedia.org/wiki/戦国無双KATANA "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦国無双3](https://ja.wikipedia.org/wiki/戦国無双3 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦国無双 Chronicle](https://ja.wikipedia.org/wiki/戦国無双_Chronicle "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦国BASARA](../Page/戦国BASARA.md "wikilink")（キャラクターの名称や舞台設定が日本版から大幅に変更されている。2、X、バトルヒーローズは北米未発売）
+  - <span style="color:#008000;">**B :**</span>戦国BASARA3
+  - <span style="color:#008000;">**B :**</span>[戦場のヴァルキュリア](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦場のヴァルキュリア2](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア2 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[戦場のヴァルキュリア3](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア3 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[戦場のヴァルキュリア4](https://ja.wikipedia.org/wiki/戦場のヴァルキュリア4 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ソウルキャリバー](../Page/ソウルキャリバー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ソウルキャリバーII](../Page/ソウルキャリバーII.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ソウルキャリバーIII](../Page/ソウルキャリバーIII.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ソウルキャリバーレジェンズ](https://ja.wikipedia.org/wiki/ソウルキャリバーレジェンズ "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ソウルキャリバーIV](../Page/ソウルキャリバーIV.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ソウルキャリバー ブロークンデスティニー](https://ja.wikipedia.org/wiki/ソウルキャリバー_ブロークンデスティニー "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[ソウルキャリバーV](https://ja.wikipedia.org/wiki/ソウルキャリバーV "wikilink")
+  - <span style="color:#000000;">**A :**</span>[続・ボクらの太陽 太陽少年ジャンゴ](../Page/ボクらの太陽.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[SOCOM: U.S. Navy SEALs Portable](https://ja.wikipedia.org/wiki/SOCOM:_U.S._Navy_SEALs_Portable "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ゾンビ イン ワンダーランド](https://ja.wikipedia.org/wiki/ゾンビ_イン_ワンダーランド "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ゾンビ パニック イン ワンダーランド DX](https://ja.wikipedia.org/wiki/ゾンビ_パニック_イン_ワンダーランド_DX "wikilink")
+
+## た行
+
+  - <span style="color:#0000FF;">**C :**</span>[ダイナマイト刑事](../Page/ダイナマイト刑事.md "wikilink")
+  - [タイムクライシス](../Page/タイムクライシス.md "wikilink")
+  - [タイムクライシス2](../Page/タイムクライシス2.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[タイムクライシス3](../Page/タイムクライシス3.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[タイムクライシス4](../Page/タイムクライシス4.md "wikilink")
+  - [タイムクライシス プロジェクトタイタン](../Page/タイムクライシス_プロジェクトタイタン.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[タイムホロウ 奪われた過去を求めて](../Page/タイムホロウ_奪われた過去を求めて.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[大乱闘スマッシュブラザーズDX](../Page/大乱闘スマッシュブラザーズDX.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[大乱闘スマッシュブラザーズX](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズX "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ダウンタウン熱血物語ex](https://ja.wikipedia.org/wiki/ダウンタウン熱血物語ex "wikilink")
+  - <span style="color:#008000;">**B :**</span>[タクティクスオウガ 運命の輪](../Page/タクティクスオウガ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ダージュ オブ ケルベロス ファイナルファンタジーVII](../Page/ダージュ_オブ_ケルベロス_ファイナルファンタジーVII.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[タツノコ VS. CAPCOM アルティメット オールスターズ](https://ja.wikipedia.org/wiki/タツノコ_VS._CAPCOM_CROSS_GENERATION_OF_HEROES "wikilink")
+  - <span style="color:#000000;">**A :**</span>[DiRT 3](https://ja.wikipedia.org/wiki/DiRT_3 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WWE 2007 SmackDown vs Raw](https://ja.wikipedia.org/wiki/WWE_2007_SmackDown_vs_Raw "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WWE 2008 SmackDown vs Raw](../Page/WWE_2008_SmackDown_vs_Raw.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WWE 2009 SmackDown vs Raw](https://ja.wikipedia.org/wiki/WWE_2009_SmackDown_vs_Raw "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WWE 2010 SmackDown vs Raw](https://ja.wikipedia.org/wiki/WWE_2010_SmackDown_vs_Raw "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WWE SmackDown vs Raw 2011](https://ja.wikipedia.org/wiki/WWE_SmackDown_vs_Raw_2011 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WWE Legends of Wrestlemania](https://ja.wikipedia.org/wiki/WWE_Legends_of_Wrestlemania "wikilink")
+  - <span style="color:#008000;">**B :**</span>[WWE All Stars](https://ja.wikipedia.org/wiki/WWE_All_Stars "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[WWE '12](https://ja.wikipedia.org/wiki/WWE_'12 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ダブルドラゴン アドバンス](https://ja.wikipedia.org/wiki/ダブルドラゴン_アドバンス "wikilink")
+  - <span style="color:#008000;">**B :**</span>[TERMINATOR SALVATION](https://ja.wikipedia.org/wiki/ターミネーター4_\(ビデオゲーム\) "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ダンスセントラル](https://ja.wikipedia.org/wiki/ダンスセントラル "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ダンスセントラル2](https://ja.wikipedia.org/wiki/ダンスセントラル2 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[地球防衛軍3](../Page/地球防衛軍3.md "wikilink")（北米版は血の色が緑に変更されている）
+  - [超鋼戦紀キカイオー](../Page/超鋼戦紀キカイオー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[超次元ゲイム ネプテューヌ](https://ja.wikipedia.org/wiki/超次元ゲイム_ネプテューヌ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[罪と罰 〜地球の継承者〜](../Page/罪と罰_〜地球の継承者〜.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[罪と罰 宇宙の後継者](https://ja.wikipedia.org/wiki/罪と罰_宇宙の後継者 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ディシディア ファイナルファンタジー](https://ja.wikipedia.org/wiki/ディシディア_ファイナルファンタジー "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ディシディア デュオデシム ファイナルファンタジー](https://ja.wikipedia.org/wiki/ディシディア_デュオデシム_ファイナルファンタジー "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ディスガイア インフィニット](https://ja.wikipedia.org/wiki/ディスガイア_インフィニット "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ エクシリア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エクシリア "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[テイルズ オブ エクシリア2](https://ja.wikipedia.org/wiki/テイルズ_オブ_エクシリア2 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ グレイセス エフ](https://ja.wikipedia.org/wiki/テイルズ_オブ_グレイセス "wikilink")
+  - <span style="color:#000000;">**A :**</span>[テイルズ オブ ザ ワールド レディアント マイソロジー](../Page/テイルズ_オブ_ザ_ワールド_レディアント_マイソロジー.md "wikilink")（2以降は北米未発売）
+  - <span style="color:#000000;">**A :**</span>[テイルズ オブ ジ アビス](../Page/テイルズ_オブ_ジ_アビス.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[テイルズ オブ シンフォニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ シンフォニア ユニゾナントパック](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア_ユニゾナントパック "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ シンフォニア -ラタトスクの騎士-](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア_-ラタトスクの騎士- "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ ゼスティリア](https://ja.wikipedia.org/wiki/テイルズ_オブ_ゼスティリア "wikilink")
+  - <span style="color:#000000;">**A :**</span>[テイルズ オブ デスティニー](https://ja.wikipedia.org/wiki/テイルズ_オブ_デスティニー "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ ハーツ R](https://ja.wikipedia.org/wiki/テイルズ_オブ_ハーツ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ ヴェスペリア](https://ja.wikipedia.org/wiki/テイルズ_オブ_ヴェスペリア "wikilink")
+  - <span style="color:#008000;">**B :**</span>[テイルズ オブ ベルセリア](https://ja.wikipedia.org/wiki/テイルズ_オブ_ベルセリア "wikilink")
+  - <span style="color:#000000;">**A :**</span>[テイルズ オブ レジェンディア](https://ja.wikipedia.org/wiki/テイルズ_オブ_レジェンディア "wikilink")
+  - <span style="color:#008000;">**B :**</span>[デススマイルズ](../Page/デススマイルズ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[デススマイルズIIX 魔界のメリークリスマス](https://ja.wikipedia.org/wiki/デススマイルズII_魔界のメリークリスマス "wikilink")（北米版はダウンロード販売専用タイトル。ローカライズは行われていない）
+  - <span style="color:#008000;">**B :**</span>[テストドライブ アンリミテッド2](https://ja.wikipedia.org/wiki/テストドライブ_アンリミテッド2 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[DEATH BY CUBE](https://ja.wikipedia.org/wiki/DEATH_BY_CUBE "wikilink")
+  - [鉄騎](../Page/鉄騎.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>鉄騎大戦
+  - <span style="color:#008000;">**B :**</span>[鉄拳](../Page/鉄拳_\(ゲーム\).md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鉄拳2](../Page/鉄拳2.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鉄拳3](../Page/鉄拳3.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鉄拳タッグトーナメント](../Page/鉄拳タッグトーナメント.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鉄拳4](../Page/鉄拳4.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鉄拳5](../Page/鉄拳5.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>鉄拳5 DARK RESURRECTION
+  - <span style="color:#008000;">**B :**</span>[鉄拳 DARK RESURRECTION](../Page/鉄拳_DARK_RESURRECTION.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鉄拳6](../Page/鉄拳6.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[鉄拳ハイブリッド](https://ja.wikipedia.org/wiki/鉄拳ハイブリッド "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[デッド オア アライブ](https://ja.wikipedia.org/wiki/デッド_オア_アライブ "wikilink")
+  - [デッド オア アライブ2](https://ja.wikipedia.org/wiki/デッド_オア_アライブ2 "wikilink")
+  - [デッド オア アライブ3](https://ja.wikipedia.org/wiki/デッド_オア_アライブ3 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[デッド オア アアライブ ディメンションズ](https://ja.wikipedia.org/wiki/デッド_オア_アアライブ_ディメンションズ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[デビルサバイバー オーバークロック](https://ja.wikipedia.org/wiki/女神異聞録デビルサバイバー "wikilink")
+  - [DOOM](../Page/DOOM.md "wikilink")（[GBA版のみ](../Page/ゲームボーイアドバンス.md "wikilink")）
+  - [DOOM 2](../Page/DOOM.md "wikilink")（GBA版のみ）
+  - [トゥームレイダー](../Page/トゥームレイダー.md "wikilink")
+  - [トゥームレイダー2](https://ja.wikipedia.org/wiki/トゥームレイダー2 "wikilink")
+  - トゥームレイダー3
+  - トゥームレイダー4 ラストレベレーション
+  - トゥームレイダー5 クロニクル
+  - <span style="color:#0000FF;">**C :**</span>トゥームレイダー 美しき逃亡者
+  - <span style="color:#008000;">**B :**</span>トゥームレイダー レジェンド
+  - <span style="color:#008000;">**B :**</span>トゥームレイダー アニバーサリー
+  - <span style="color:#0000FF;">**C :**</span>トゥームレイダー アンダーワールド
+  - <span style="color:#008000;">**B :**</span>[突撃\!\!ファミコンウォーズ](../Page/突撃!!ファミコンウォーズ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[突撃\!\!ファミコンウォーズVS](../Page/突撃!!ファミコンウォーズVS.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[.hack//感染拡大 Vol.1](../Page/.hack_\(ゲーム\).md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[.hack//悪性変異 Vol.2](../Page/.hack_\(ゲーム\).md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[.hack//侵食汚染 Vol.3](../Page/.hack_\(ゲーム\).md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[.hack//絶対包囲 Vol.4](../Page/.hack_\(ゲーム\).md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[.hack//G.U. Vol.1 再誕](https://ja.wikipedia.org/wiki/.hack/G.U._\(ゲーム\) "wikilink")
+  - <span style="color:#000000;">**A :**</span>[.hack//G.U. Vol.2 君想フ声](https://ja.wikipedia.org/wiki/.hack/G.U._\(ゲーム\) "wikilink")
+  - <span style="color:#000000;">**A :**</span>[.hack//G.U. Vol.3 歩くような速さで](https://ja.wikipedia.org/wiki/.hack/G.U._\(ゲーム\) "wikilink")
+  - <span style="color:#000000;">**A :**</span>[トトリのアトリエ 〜アーランドの錬金術士2〜](https://ja.wikipedia.org/wiki/トトリのアトリエ_〜アーランドの錬金術士2〜 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[トムクランシーズ H.A.W.X.](https://ja.wikipedia.org/wiki/トムクランシーズ_H.A.W.X. "wikilink")
+  - <span style="color:#000000;">**A :**</span>[トムクランシーズ H.A.W.X. 2](https://ja.wikipedia.org/wiki/トムクランシーズ_H.A.W.X._2 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ドライバー:サンフランシスコ](https://ja.wikipedia.org/wiki/ドライバー:サンフランシスコ "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ドラゴンクエストIII そして伝説へ…](../Page/ドラゴンクエストIII_そして伝説へ….md "wikilink")（GBC版）
+  - <span style="color:#000000;">**A :**</span>[ドラゴンクエストVI 幻の大地](../Page/ドラゴンクエストVI_幻の大地.md "wikilink")（DS版）
+  - <span style="color:#000000;">**A :**</span>[ドラゴンクエストVII エデンの戦士たち](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ドラゴンクエストVIII 空と海と大地と呪われし姫君](https://ja.wikipedia.org/wiki/ドラゴンクエストVIII_空と海と大地と呪われし姫君 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ドラゴンクエストヒーローズ 闇竜と世界樹の城](https://ja.wikipedia.org/wiki/ドラゴンクエストヒーローズ_闇竜と世界樹の城 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ドラゴンクエストヒーローズII 双子の王と予言の終わり](https://ja.wikipedia.org/wiki/ドラゴンクエストヒーローズII_双子の王と予言の終わり "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")シリーズ（GC・PS2・PSP・PS3・Xbox 360版は全てのタイトル。GBA・DS・Wii版は一部タイトルのみEまたはE10+。）
+  - <span style="color:#000000;">**A :**</span>[トラスティベル 〜ショパンの夢〜](https://ja.wikipedia.org/wiki/トラスティベル_〜ショパンの夢〜 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[トラブル☆ウィッチーズ ねぉ\!](https://ja.wikipedia.org/wiki/トラブル☆ウィッチーズ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[トランスフォーマー THE GAME](../Page/トランスフォーマー_THE_GAME.md "wikilink")（DS・PSP版はE10+。）
+  - <span style="color:#008000;">**B :**</span>[トリニティ ジルオール ゼロ](https://ja.wikipedia.org/wiki/トリニティ_ジルオール_ゼロ "wikilink")
+  - <span style="color:#000000;">**A :**</span>[トリニティ・ユニバース](https://ja.wikipedia.org/wiki/トリニティ・ユニバース "wikilink")
+
+## な行
+
+  - <span style="color:#000000;">**A :**</span>[ナイツ・イン・ザ・ナイトメア](https://ja.wikipedia.org/wiki/ナイツ・イン・ザ・ナイトメア "wikilink")
+  - <span style="color:#000000;">**A :**</span>[NARUTO -ナルト- ナルティメットヒーロー](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>NARUTO -ナルト- ナルティメットヒーロー2
+  - <span style="color:#000000;">**A :**</span>NARUTO -ナルト- ナルティメットヒーロー3
+  - <span style="color:#008000;">**B :**</span>[肉弾](https://ja.wikipedia.org/wiki/肉弾_\(ゲーム\) "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ニード・フォー・スピード モスト・ウォンテッド](../Page/ニード・フォー・スピード_モスト・ウォンテッド.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ニード・フォー・スピード アンダーカバー](../Page/ニード・フォー・スピード_アンダーカバー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ニード・フォー・スピード ザ・ラン](https://ja.wikipedia.org/wiki/ニード・フォー・スピード_ザ・ラン "wikilink")（PS3・Xbox 360・PC版。Wii・3DS版はE10+。）
+  - <span style="color:#008000;">**B :**</span>[NINJA GAIDEN Dragon Sword](../Page/NINJA_GAIDEN_Dragon_Sword.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ネオジオバトルコロシアム](../Page/ネオジオバトルコロシアム.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ネオジオヒーローズ 〜アルティメット シューティング〜](https://ja.wikipedia.org/wiki/ネオジオヒーローズ_〜アルティメット_シューティング〜 "wikilink")
+  - [ネビュラ -エコーナイト-](../Page/エコーナイト.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[信長の野望・天下創世](../Page/信長の野望・天下創世.md "wikilink")
+
+## は行
+
+  - [BIOHAZARD GAIDEN](../Page/BIOHAZARD_GAIDEN.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[パイレーツ・オブ・カリビアン/デッドマンズ・チェスト](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/デッドマンズ・チェスト "wikilink")（PSP・DS版のみ。GBA版はE10+。）
+  - <span style="color:#008000;">**B :**</span>[パイレーツ・オブ・カリビアン/ワールド・エンド](https://ja.wikipedia.org/wiki/パイレーツ・オブ・カリビアン/ワールド・エンド "wikilink")
+  - [鋼の錬金術師 翔べない天使](../Page/鋼の錬金術師_翔べない天使.md "wikilink")
+  - [鋼の錬金術師2 赤きエリクシルの悪魔](https://ja.wikipedia.org/wiki/鋼の錬金術師2_赤きエリクシルの悪魔 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[鋼の錬金術師 デュアルシンパシー 二人の絆](https://ja.wikipedia.org/wiki/鋼の錬金術師_デュアルシンパシー_二人の絆 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[爆烈軍団レネゲード](https://ja.wikipedia.org/wiki/爆烈軍団レネゲード "wikilink")
+  - <span style="color:#000000;">**A :**</span>[パスパルトゥー:アーティストの描いた夢](https://ja.wikipedia.org/wiki/パスパルトゥー:アーティストの描いた夢 "wikilink")
+  - <span style="color:#000000;">**B :**</span>[パズル探偵スカウト 失われたデータの陰謀](../Page/パズル探偵スカウト_失われたデータの陰謀.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[バーチャコップ](../Page/バーチャコップ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>バーチャコップ2
+  - <span style="color:#008000;">**B :**</span>[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")
+  - <span style="color:#008000;">**B :**</span>[バーチャファイター2](../Page/バーチャファイター2.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[バーチャファイター3](../Page/バーチャファイター3.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[バーチャファイター4](../Page/バーチャファイター4.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[バーチャファイター5](../Page/バーチャファイター5.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[バットマン アーカム・アサイラム](https://ja.wikipedia.org/wiki/バットマン_アーカム・アサイラム "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[バットマン アーカム・シティ](https://ja.wikipedia.org/wiki/バットマン_アーカム・シティ "wikilink")
+  - <span style="color:#000000;">**A :**</span>[バテン・カイトス 終わらない翼と失われた海](../Page/バテン・カイトス_終わらない翼と失われた海.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[バテン・カイトスII 始まりの翼と神々の嗣子](../Page/バテン・カイトスII_始まりの翼と神々の嗣子.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Hard Corps: Uprising](https://ja.wikipedia.org/wiki/Hard_Corps:_Uprising "wikilink")
+  - <span style="color:#008000;">**B :**</span>[バトルファンタジア](../Page/バトルファンタジア.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[バトルフィールド2 モダンコンバット](../Page/バトルフィールド2_モダンコンバット.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[バトルフィールド バッド カンパニー](../Page/バトルフィールド_バッド_カンパニー.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[バトルフィールド1943](https://ja.wikipedia.org/wiki/バトルフィールド1943 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[バリアント ハート ザ グレイト ウォー](https://ja.wikipedia.org/wiki/バリアント_ハート_ザ_グレイト_ウォー "wikilink")
+  - [Ballistic: Ecks vs. Sever](https://ja.wikipedia.org/wiki/Ballistic:_Ecks_vs._Sever "wikilink")　※日本未発売
+  - <span style="color:#008000;">**B :**</span>[バロック](../Page/バロック_\(ゲーム\).md "wikilink")（PS2版）
+  - <span style="color:#008000;">**B :**</span>バロック for Wii
+  - [パワーストーン](../Page/パワーストーン_\(ゲーム\).md "wikilink")
+  - パワーストーン2
+  - <span style="color:#008000;">**B :**</span>[バーンアウト3 テイクダウン](../Page/バーンアウト_\(ゲーム\).md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[P.N.03](../Page/P.N.03.md "wikilink")
+  - <span style="color:#000000;">*'A **</span><span style="color:#0000FF;">**C :*'</span>[Peter Jackson's キングコング オフィシャルゲーム オブ ザ ムービー](https://ja.wikipedia.org/wiki/Peter_Jackson's_キングコング_オフィシャルゲーム_オブ_ザ_ムービー "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[BIG 3 GUN SHOOTING](https://ja.wikipedia.org/wiki/ビッグスリー_ガンシューティング "wikilink")
+  - [ヒットマン ブラッドマネー：LA](../Page/Hitman:_Blood_Money.md "wikilink")（[モバイル版のみ](../Page/携帯電話ゲーム.md "wikilink")）
+  - [ヒットマン ブラッドマネー：ベガス](../Page/Hitman:_Blood_Money.md "wikilink")（モバイル版のみ）
+  - <span style="color:#008000;">**B :**</span>[ひらり 桜侍](https://ja.wikipedia.org/wiki/ひらり_桜侍 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ファイアーエムブレム 蒼炎の軌跡](../Page/ファイアーエムブレム_蒼炎の軌跡.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイアーエムブレム 覚醒](https://ja.wikipedia.org/wiki/ファイアーエムブレム_覚醒 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ファイアーエムブレムif](https://ja.wikipedia.org/wiki/ファイアーエムブレムif "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイアーエムブレム Echoes もうひとりの英雄王](https://ja.wikipedia.org/wiki/ファイアーエムブレム_Echoes_もうひとりの英雄王 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ファイアーエムブレム無双](https://ja.wikipedia.org/wiki/ファイアーエムブレム無双 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ファイナルファンタジーII](../Page/ファイナルファンタジーII.md "wikilink")（PSP版）
+  - <span style="color:#000000;">**A :**</span>[ファイナルファンタジーV](../Page/ファイナルファンタジーV.md "wikilink")（PS版。GBA版はEveryone。）
+  - <span style="color:#000000;">*'A **</span><span style="color:#008000;">**B :*'</span>[ファイナルファンタジーVI](../Page/ファイナルファンタジーVI.md "wikilink")（PS版。GBA版はE10+。）
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーVIII](../Page/ファイナルファンタジーVIII.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ファイナルファンタジーIX](../Page/ファイナルファンタジーIX.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーX-2](https://ja.wikipedia.org/wiki/ファイナルファンタジーX-2 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")
+  - <span style="color:#000000;">*'A **</span><span style="color:#008000;">**B :*'</span>[ファイナルファンタジーXII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXII "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーXIII](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーXIII-2](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIII-2 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジーXIV](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジータクティクス](https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス "wikilink")
+  - <span style="color:#008000;">**B :**</span>ファイナルファンタジータクティクス 獅子戦争
+  - <span style="color:#008000;">**B :**</span>[ファイナルファンタジー・クリスタルクロニクル クリスタルベアラー](../Page/ファイナルファンタジー・クリスタルクロニクル_クリスタルベアラー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファンタシースターユニバース](../Page/ファンタシースターユニバース.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファンタシースターユニバース イルミナスの野望](../Page/ファンタシースターユニバース_イルミナスの野望.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファンタシースターポータブル](../Page/ファンタシースターポータブル.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ファンタシースターポータブル2](https://ja.wikipedia.org/wiki/ファンタシースターポータブル2 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ファイティングバイパーズ](../Page/ファイティングバイパーズ.md "wikilink")(セガサターン版。PS3、XBOX360版はE10+。)
+  - <span style="color:#000000;">**A :**</span>[ファントム・ブレイブ](../Page/ファントム・ブレイブ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>ファントム・ブレイブ Wii
+  - <span style="color:#000000;">**A :**</span>ファントム・ブレイブ PORTABLE
+  - <span style="color:#000000;">**A :**</span>[Figment](../Page/Figment.md "wikilink")（PS4版。Switch版はE10+。）
+  - <span style="color:#008000;">**B :**</span>[Fate/unlimited codes](https://ja.wikipedia.org/wiki/Fate/unlimited_codes "wikilink")（北米ではPSP版のみの発売、ダウンロード販売専用タイトル）
+  - <span style="color:#008000;">**B :**</span>[Fate/EXTRA](https://ja.wikipedia.org/wiki/Fate/EXTRA "wikilink")
+  - <span style="color:#000000;">**A :**</span>[FolksSoul -失われた伝承-](../Page/FolksSoul_-失われた伝承-.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Forza Horizon](https://ja.wikipedia.org/wiki/Forza_Horizon "wikilink")
+  - <span style="color:#008000;">**B :**</span>[不思議のダンジョン 風来のシレン3 からくり屋敷の眠り姫](../Page/不思議のダンジョン_風来のシレン3_からくり屋敷の眠り姫.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[フラクチャー](../Page/フラクチャー.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[FRAGILE 〜さよなら月の廃墟〜](../Page/FRAGILE_〜さよなら月の廃墟〜.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Black The Fall](https://ja.wikipedia.org/wiki/Black_The_Fall "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ブラッディロア](../Page/ブラッディロア.md "wikilink")
+  - ブラッディロア2
+  - ブラッディロア3
+  - <span style="color:#008000;">**B :**</span>ブラッディロア エクストリーム
+  - <span style="color:#0000FF;">**C :**</span>[PLANET ALPHA](https://ja.wikipedia.org/wiki/PLANET_ALPHA "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[BULLY](https://ja.wikipedia.org/wiki/BULLY "wikilink")（[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")を題材にした学園版[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")ともいえるゲーム）
+  - <span style="color:#000000;">**A :**</span>[プリニー 〜オレが主人公でイイんスか?〜](https://ja.wikipedia.org/wiki/プリニー_〜オレが主人公でイイんスか?〜 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[プリニー2 〜特攻遊戯\! 暁のパンツ大作戦ッス\!\!〜](https://ja.wikipedia.org/wiki/プリニー2_〜特攻遊戯!_暁のパンツ大作戦ッス!!〜 "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[Brink](https://ja.wikipedia.org/wiki/Brink "wikilink")
+  - <span style="color:#008000;">**B :**</span>[プリンス・オブ・ペルシャ 時間の砂](https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ_時間の砂 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[プリンス・オブ・ペルシャ](https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ_\(2008年のゲーム\) "wikilink")
+  - <span style="color:#008000;">**B :**</span>[プリンス・オブ・ペルシャ 忘却の砂](https://ja.wikipedia.org/wiki/プリンス・オブ・ペルシャ_忘却の砂 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ブルードラゴン](../Page/ブルードラゴン.md "wikilink")
+  - [ブルックタウン・ハイ](https://ja.wikipedia.org/wiki/ブルックタウン・ハイ "wikilink") ※日本未発売
+  - <span style="color:#008000;">**B :**</span>[BLAZBLUE](../Page/BLAZBLUE.md "wikilink") -CALAMITY TRIGGER-
+  - <span style="color:#008000;">**B :**</span>BLAZBLUE -CALAMITY TRIGGER- Portable
+  - <span style="color:#0000FF;">**C :**</span>BLAZBLUE -CONTINUUM SHIFT-
+  - <span style="color:#0000FF;">**C :**</span>BLAZBLUE -CONTINUUM SHIFT II-
+  - <span style="color:#008000;">**B :**</span>[BLADESTORM 百年戦争](https://ja.wikipedia.org/wiki/BLADESTORM_百年戦争 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ブレイブダンジョン](https://ja.wikipedia.org/wiki/ブレイブダンジョン "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Florence](../Page/Florence.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[PROJECT X ZONE](https://ja.wikipedia.org/wiki/PROJECT_X_ZONE "wikilink")
+  - <span style="color:#008000;">**B :**</span>[PROJECT X ZONE 2:BRAVE NEW WORLD](https://ja.wikipedia.org/wiki/PROJECT_X_ZONE_2:BRAVE_NEW_WORLD "wikilink")
+  - <span style="color:#008000;">**B :**</span>[FRONT MISSION3](../Page/FRONT_MISSION3.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[FRONT MISSION4](../Page/FRONT_MISSION4.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[FRONT MISSION EVOLVED](https://ja.wikipedia.org/wiki/FRONT_MISSION_EVOLVED "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[フロントライン フュエル・オブ・ウォー](../Page/フロントライン_フュエル・オブ・ウォー.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Halo Wars](../Page/Halo_Wars.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[Halo Wars 2](https://ja.wikipedia.org/wiki/Halo_Wars_2 "wikilink")
+  - [HEXEN II](https://ja.wikipedia.org/wiki/HEXEN_II "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[Heavenly Sword 〜ヘブンリーソード〜](../Page/Heavenly_Sword_〜ヘブンリーソード〜.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ペルソナ](../Page/女神異聞録ペルソナ.md "wikilink")（PSP版）
+  - <span style="color:#008000;">**B :**</span>[ペルソナ2](../Page/ペルソナ2.md "wikilink") 罪（PSP版でのレーティング。PS版は北米では未発売）
+  - <span style="color:#008000;">**B :**</span>ペルソナ2 罰
+  - <span style="color:#008000;">**B :**</span>[ポケットファイター](../Page/ポケットファイター.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[HOSPITAL. 6人の医師](https://ja.wikipedia.org/wiki/HOSPITAL._6人の医師 "wikilink")
+  - <span style="color:#008000;">**B :**</span></span>[Portal](../Page/Portal_\(ゲーム\).md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ぽっちゃり☆プリンセス](https://ja.wikipedia.org/wiki/ぽっちゃり☆プリンセス "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ホーンテッドマンション](https://ja.wikipedia.org/wiki/ホーンテッドマンション_\(ゲーム\) "wikilink")（GBA版はE区分。）
+  - <span style="color:#000000;">**A :**</span>[BOMBERMAN Act:Zero](../Page/BOMBERMAN_Act:Zero.md "wikilink")
+
+## ま行
+
+  - [マーヴル・スーパーヒーローズ VS. ストリートファイター](../Page/マーヴル・スーパーヒーローズ_VS._ストリートファイター.md "wikilink")
+  - [MARVEL VS. CAPCOM CLASH OF SUPER HEROES](../Page/MARVEL_VS._CAPCOM_CLASH_OF_SUPER_HEROES.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[MARVEL VS. CAPCOM 2 NEW AGE OF HEROES](../Page/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[MARVEL VS. CAPCOM 3 Fate of Two Worlds](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")
+  - <span style="color:#000000;">**A :**</span>[MOTHER](../Page/MOTHER_\(ゲーム\).md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[MOTHER2 ギーグの逆襲](../Page/MOTHER2_ギーグの逆襲.md "wikilink")(Wii UのVC版。SFC版はEveryone。)
+  - <span style="color:#000000;">**A :**</span>[魔界戦記ディスガイア](../Page/魔界戦記ディスガイア.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[魔界戦記ディスガイア2](../Page/魔界戦記ディスガイア2.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[魔界戦記ディスガイア3](../Page/魔界戦記ディスガイア3.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[魔界戦記ディスガイア4](https://ja.wikipedia.org/wiki/魔界戦記ディスガイア4 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[魔界戦記ディスガイア5](https://ja.wikipedia.org/wiki/魔界戦記ディスガイア5 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[マグナカルタ](../Page/マグナカルタ_\(ゲーム\).md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[マグナカルタ2](https://ja.wikipedia.org/wiki/マグナカルタ2 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[魔人と失われた王国](https://ja.wikipedia.org/wiki/魔人と失われた王国 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[マーセナリーズ](https://ja.wikipedia.org/wiki/マーセナリーズ "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[マーセナリーズ2 ワールド イン フレームス](../Page/マーセナリーズ2_ワールド_イン_フレームス.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[MASSIVE ACTION GAME](https://ja.wikipedia.org/wiki/MASSIVE_ACTION_GAME "wikilink")
+  - <span style="color:#000000;">**A :**</span>[マナケミア2 〜おちた学園と錬金術士たち〜](../Page/マナケミア2_〜おちた学園と錬金術士たち〜.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[マニュアル・サミュエル 〜死神との約束〜](https://ja.wikipedia.org/wiki/マニュアル・サミュエル_〜死神との約束〜 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ミマナ イアルクロニクル](https://ja.wikipedia.org/wiki/ミマナ_イアルクロニクル "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ミラーズエッジ](https://ja.wikipedia.org/wiki/ミラーズエッジ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[無限航路](https://ja.wikipedia.org/wiki/無限航路 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[無限のフロンティア スーパーロボット大戦OGサーガ](../Page/無限のフロンティア_スーパーロボット大戦OGサーガ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[無双OROCHI](../Page/無双OROCHI.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[無双OROCHI 魔王再臨](https://ja.wikipedia.org/wiki/無双OROCHI_魔王再臨 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[女神異聞録デビルサバイバー](https://ja.wikipedia.org/wiki/女神異聞録デビルサバイバー "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メダル・オブ・オナー 史上最大の作戦](../Page/メダル・オブ・オナー_史上最大の作戦.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メダル・オブ・オナー ライジングサン](../Page/メダル・オブ・オナー_ライジングサン.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メダル・オブ・オナー ヨーロッパ強襲](../Page/メダル・オブ・オナー_ヨーロッパ強襲.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メダル・オブ・オナー ヴァンガード](../Page/メダル・オブ・オナー_ヴァンガード.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メダル・オブ・オナー エアボーン](../Page/メダル・オブ・オナー_エアボーン.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メダル・オブ・オナー ヒーローズ](../Page/メダル・オブ・オナー_ヒーローズ.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メダル・オブ・オナー ヒーローズ2](../Page/メダル・オブ・オナー_ヒーローズ2.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[メダル・オブ・オナー アドバンス](https://ja.wikipedia.org/wiki/メダル・オブ・オナー_アドバンス "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メタルギアソリッド ポータブル・オプス+](https://ja.wikipedia.org/wiki/メタルギアソリッド_ポータブル・オプス+ "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[メタルギアソリッド ピースウォーカー](https://ja.wikipedia.org/wiki/メタルギアソリッド_ピースウォーカー "wikilink")
+  - <span style="color:#008000;">**B :**</span>[メタルスラッグ](../Page/メタルスラッグ.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>メタルスラッグ2
+  - <span style="color:#008000;">**B :**</span>メタルスラッグX
+  - <span style="color:#008000;">**B :**</span>メタルスラッグ3
+  - <span style="color:#008000;">*'B **</span><span style="color:#0000FF;">**C :*'</span>メタルスラッグ4
+  - <span style="color:#008000;">**B :**</span>メタルスラッグ5
+  - <span style="color:#008000;">**B :**</span>メタルスラッグ6
+  - <span style="color:#008000;">**B :**</span>メタルスラッグ コンプリート
+  - <span style="color:#008000;">**B :**</span>メタルスラッグ7
+  - <span style="color:#008000;">**B :**</span>メタルスラッグXX
+  - <span style="color:#000000;">**A :**</span>メタルスラッグアドバンス
+  - <span style="color:#000000;">**A :**</span>[メトロイドプライム](https://ja.wikipedia.org/wiki/メトロイドプライム "wikilink")
+  - <span style="color:#000000;">**A :**</span>[メトロイドプライム ハンターズ](https://ja.wikipedia.org/wiki/メトロイドプライム_ハンターズ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[メトロイドプライム2 ダークエコーズ](https://ja.wikipedia.org/wiki/メトロイドプライム2_ダークエコーズ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[メトロイドプライム3 コラプション](https://ja.wikipedia.org/wiki/メトロイドプライム3_コラプション "wikilink")
+  - <span style="color:#008000;">**B :**</span>[メトロイドプライム4](https://ja.wikipedia.org/wiki/メトロイドプライム4 "wikilink")
+  - [メトロイドプライム トリロジー](https://ja.wikipedia.org/wiki/メトロイドプライム_トリロジー "wikilink")　※日本未発売
+  - <span style="color:#008000;">**B :**</span>[METROID Other M](https://ja.wikipedia.org/wiki/メトロイド_アザーエム "wikilink")
+  - [燃えろ\!ジャスティス学園](https://ja.wikipedia.org/wiki/燃えろ!ジャスティス学園 "wikilink")
+  - <span style="color:#008000;">**B :**</span>[MotorStorm 〜モーターストーム〜](../Page/MotorStorm_〜モーターストーム〜.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[MotorStorm2 〜モーターストーム2〜](https://ja.wikipedia.org/wiki/MotorStorm2_〜モーターストーム2〜 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[MotorStorm Apocalypse](https://ja.wikipedia.org/wiki/MotorStorm3_〜モーターストーム3〜 "wikilink")　※日本では発売中止
+  - <span style="color:#008000;">**B :**</span>[MotorStorm Raging Ice 〜モーターストーム レイジングアイス〜](https://ja.wikipedia.org/wiki/MotorStorm_Raging_Ice_〜モーターストーム_レイジングアイス〜 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[モンスターハンター](../Page/モンスターハンター.md "wikilink")（モンスターハンターG、モンスターハンター2は北米未発売）
+  - <span style="color:#0000FF;">**C :**</span>モンスターハンター3
+  - <span style="color:#0000FF;">**C :**</span>[モンスターハンター ポータブル](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>モンスターハンター ポータブル 2nd
+  - <span style="color:#0000FF;">**C :**</span>モンスターハンター ポータブル 2nd G
+
+## や行
+
+  - <span style="color:#000000;">**A :**</span>[勇者のくせになまいきだ。](../Page/勇者のくせになまいきだ。.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>勇者のくせになまいきだor2
+  - <span style="color:#008000;">**B :**</span>[UFC 2009 Undisputed](https://ja.wikipedia.org/wiki/UFC_2009_Undisputed "wikilink")（ヨーロッパ圏では**16歳以上対象**。オーストラリアでは**15歳未満提供禁止**。韓国とドイツでは**18歳未満提供禁止**。）
+  - <span style="color:#008000;">**B :**</span>[UFC Undisputed 2010](https://ja.wikipedia.org/wiki/UFC_Undisputed_2010 "wikilink")（日本ではPSP版は未発売。ヨーロッパ圏では**16歳以上対象**。オーストラリアでは**15歳未満提供禁止**。韓国ではPS3・Xbox 360版は**18歳未満提供禁止**、PSP版は**15歳未満提供禁止**。ドイツでは**18歳未満提供禁止**。）
+  - <span style="color:#000000;">**A :**</span>[ユグドラ・ユニオン](../Page/ユグドラ・ユニオン.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[夜廻](https://ja.wikipedia.org/wiki/夜廻 "wikilink")
+
+## ら行
+
+  - <span style="color:#0000FF;">**C :**</span>[RISE FROM LAIR](../Page/RISE_FROM_LAIR.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ラストリベリオン](https://ja.wikipedia.org/wiki/ラストリベリオン "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ラチェット&クランク](https://ja.wikipedia.org/wiki/ラチェット&クランク_\(ゲーム\) "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ラチェット&クランク2 ガガガ\!銀河のコマンドーっす](https://ja.wikipedia.org/wiki/ラチェット&クランク2_ガガガ!銀河のコマンドーっす "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ラチェット&クランク3 突撃\!ガラクチック★レンジャーズ](../Page/ラチェット&クランク3_突撃!ガラクチック★レンジャーズ.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ラチェット&クランク4th ギリギリ銀河のギガバトル](../Page/ラチェット&クランク4th_ギリギリ銀河のギガバトル.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ララ・クロフト アンド ガーディアン オブ ライト](https://ja.wikipedia.org/wiki/ララ・クロフト_アンド_ガーディアン_オブ_ライト "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Little Inferno](https://ja.wikipedia.org/wiki/Little_Inferno "wikilink")
+  - <span style="color:#000000;">*'A **</span><span style="color:#008000;">**B :*'</span>[Riviera 〜約束の地リヴィエラ〜](../Page/Riviera_〜約束の地リヴィエラ〜.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[龍虎の拳 〜天・地・人〜](../Page/龍虎の拳.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[リンクのボウガントレーニング](../Page/リンクのボウガントレーニング.md "wikilink")
+  - <span style="color:#FF8000;">**D :**</span>[LIMBO](https://ja.wikipedia.org/wiki/LIMBO_\(コンピュータゲーム\) "wikilink")
+  - <span style="color:#008000;">**B :**</span>[R.U.S.E.](https://ja.wikipedia.org/wiki/R.U.S.E. "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ルミナスアーク](../Page/ルミナスアーク.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ルミナスアーク2 ウィル](../Page/ルミナスアーク2_ウィル.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[LUNAR -HARMONY of SILVER STAR-](../Page/LUNAR.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ルパン三世 魔術王の遺産](../Page/ルパン三世_魔術王の遺産.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[Reigns: Kings & Queens](https://ja.wikipedia.org/wiki/Reigns:_Kings_&_Queens "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[Reigns: Game of Thrones](https://ja.wikipedia.org/wiki/Reigns:_Game_of_Thrones "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[レッドスティール](../Page/レッドスティール.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[レッドスティール2](https://ja.wikipedia.org/wiki/レッドスティール2 "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ロストオデッセイ](../Page/ロストオデッセイ.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ロスト プラネット エクストリーム コンディション](../Page/ロスト_プラネット_エクストリーム_コンディション.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[ロスト プラネット 2](https://ja.wikipedia.org/wiki/ロスト_プラネット_2 "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ロロナのアトリエ 〜アーランドの錬金術士〜](https://ja.wikipedia.org/wiki/ロロナのアトリエ_〜アーランドの錬金術士〜 "wikilink")
+
+## わ行
+
+  - <span style="color:#008000;">**B :**</span>[ワールドヒーローズ](../Page/ワールドヒーローズ.md "wikilink")ゴージャス
+  - <span style="color:#000000;">**A :**</span>[ワイルドアームズ アドヴァンスドサード](../Page/ワイルドアームズ_アドヴァンスドサード.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ワイルドアームズ ザ フォースデトネイター](../Page/ワイルドアームズ_ザ_フォースデトネイター.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ワイルドアームズ ザ フィフスヴァンガード](../Page/ワイルドアームズ_ザ_フィフスヴァンガード.md "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ワイルドウエストガンズ](https://ja.wikipedia.org/wiki/ワイルドウエストガンズ "wikilink")
+  - <span style="color:#008000;">**B :**</span>[ワンダと巨像](../Page/ワンダと巨像.md "wikilink")
+  - <span style="color:#000000;">**A :**</span>[ONE PIECE アンリミテッドアドベンチャー](https://ja.wikipedia.org/wiki/ONE_PIECE_アンリミテッドアドベンチャー "wikilink")
+
+## 0～9
+
+  - <span style="color:#008000;">*'B **</span><span style="color:#0000FF;">**C :*'</span>[007 ナイトファイア](../Page/007_ナイトファイア.md "wikilink")
+  - <span style="color:#000000;">*'A **</span><span style="color:#0000FF;">**C :*'</span>[007 エブリシング オア ナッシング](../Page/007_エブリシング_オア_ナッシング.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[007 ロシアより愛をこめて](../Page/007_ロシアより愛をこめて.md "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[007 慰めの報酬](https://ja.wikipedia.org/wiki/007_慰めの報酬_\(ゲーム\) "wikilink")
+  - <span style="color:#0000FF;">**C :**</span>[007 ブラッドストーン](https://ja.wikipedia.org/wiki/007_ブラッドストーン "wikilink")
+
+## 関連項目
+
+  - [CEROレーティング全年齢対象ソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング全年齢対象ソフトの一覧 "wikilink")
+  - [CEROレーティング12才以上対象ソフトの一覧](../Page/CEROレーティング12才以上対象ソフトの一覧.md "wikilink")
+  - [CEROレーティング15才以上対象ソフトの一覧](../Page/CEROレーティング15才以上対象ソフトの一覧.md "wikilink")
+  - [CEROレーティング17才以上対象ソフトの一覧](../Page/CEROレーティング17才以上対象ソフトの一覧.md "wikilink")
+  - [CEROレーティング18才以上対象ソフトの一覧](../Page/CEROレーティング18才以上対象ソフトの一覧.md "wikilink")
+  - [CEROレーティング18才以上のみ対象ソフトの一覧](../Page/CEROレーティング18才以上のみ対象ソフトの一覧.md "wikilink")
+  - [CEROレーティング教育・データベースソフトの一覧](../Page/CEROレーティング教育・データベースソフトの一覧.md "wikilink")
+  - [コンピュータゲームのレイティングシステム](../Page/コンピュータゲームのレイティングシステム.md "wikilink")
+  - [Entertainment Software Rating Board](https://ja.wikipedia.org/wiki/Entertainment_Software_Rating_Board "wikilink")
+  - [CERO（コンピュータエンターテインメントレーティング機構）](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")
+  - [British Board of Film Classification](https://ja.wikipedia.org/wiki/British_Board_of_Film_Classification "wikilink")
+  - [Pan European Game Information](https://ja.wikipedia.org/wiki/Pan_European_Game_Information "wikilink")
+  - [Office of Film and Literature Classification](https://ja.wikipedia.org/wiki/Office_of_Film_and_Literature_Classification "wikilink")
+  - [Unterhaltungssoftware Selbstkontrolle](https://ja.wikipedia.org/wiki/Unterhaltungssoftware_Selbstkontrolle "wikilink")
+  - [ゲーム物等級委員会](https://ja.wikipedia.org/wiki/ゲーム物等級委員会 "wikilink")
+  - [Valtion elokuvatarkastamo](https://ja.wikipedia.org/wiki/Valtion_elokuvatarkastamo "wikilink")
+
+## 外部リンク
+
+  - [ESRB公式サイト（英語）](https://www.esrb.org/)（トップページからタイトルとレイティングの検索が可能）
+  - [CERO公式サイト：タイトル検索](http://www.cero.biz/search/)（タイトルとレイティングの検索が可能）
+
+[Category:コンピュータゲームのタイトル一覧](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのタイトル一覧 "wikilink") [Category:ESRB](https://ja.wikipedia.org/wiki/Category:ESRB "wikilink")

@@ -1,9 +1,9 @@
-> この記事は[L\'amant ](https://ja.wikipedia.org/wiki/L\'amant_)から翻訳されています。
+> この記事は[L\'amant ラマン](https://ja.wikipedia.org/wiki/L\'amant_ラマン)から翻訳されています。
 
 
-『**L'amant ラマン**』（**ラマン**）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月5日](../Page/2月5日.md "wikilink")に公開された[映画](../Page/映画.md "wikilink")。
+『**L'amant ラマン**』（**ラマン**）は、[2005年](../Page/2005年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に公開された[映画](../Page/映画.md "wikilink")。
 
-[監督は](../Page/映画監督.md "wikilink")[廣木隆一](https://ja.wikipedia.org/wiki/廣木隆一 "wikilink")、配給は[スローラーナー](https://ja.wikipedia.org/wiki/スローラーナー "wikilink")。
+[監督は](../Page/映画監督.md "wikilink")[廣木隆一](../Page/廣木隆一.md "wikilink")、配給は[スローラーナー](https://ja.wikipedia.org/wiki/スローラーナー "wikilink")。
 
 [原作](../Page/原作.md "wikilink")は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1996年](../Page/1996年.md "wikilink")まで[WEEKLY漫画アクション](https://ja.wikipedia.org/wiki/漫画アクション "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）にて連載された[やまだないと](../Page/やまだないと.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。
 
@@ -13,22 +13,22 @@
 
 ## キャスト
 
-  - チカコ／華子：[安藤希](https://ja.wikipedia.org/wiki/安藤希 "wikilink")
+  - チカコ／華子：[安藤希](../Page/安藤希.md "wikilink")
   - A：[田口トモロヲ](../Page/田口トモロヲ.md "wikilink")
-  - B：[村上淳](https://ja.wikipedia.org/wiki/村上淳 "wikilink")
+  - B：[村上淳](../Page/村上淳.md "wikilink")
   - C：[大杉漣](../Page/大杉漣.md "wikilink")
-  - 柄谷涼子：[前田綾花](https://ja.wikipedia.org/wiki/前田綾花 "wikilink")
-  - 柄谷行人：[遠藤雄弥](https://ja.wikipedia.org/wiki/遠藤雄弥 "wikilink")
-  - 映画館の男：[水橋研二](https://ja.wikipedia.org/wiki/水橋研二 "wikilink")
+  - 柄谷涼子：[前田綾花](../Page/前田綾花.md "wikilink")
+  - 柄谷行人：[遠藤雄弥](../Page/遠藤雄弥.md "wikilink")
+  - 映画館の男：[水橋研二](../Page/水橋研二.md "wikilink")
   - チカコの母親：[星遙子](https://ja.wikipedia.org/wiki/星遙子 "wikilink")
-  - 4番目の男：[大口広司](https://ja.wikipedia.org/wiki/大口広司 "wikilink")
-  - 刺青師：[中村達也](https://ja.wikipedia.org/wiki/中村達也_\(ドラマー\) "wikilink")
+  - 4番目の男：[大口広司](../Page/大口広司.md "wikilink")
+  - 刺青師：[中村達也](../Page/中村達也_\(ドラマー\).md "wikilink")
   - なじみの店員：[秋桜子](../Page/秋桜子.md "wikilink")
-  - ウェイトレス：[ひふみかおり](https://ja.wikipedia.org/wiki/ひふみかおり "wikilink")
+  - ウェイトレス：[ひふみかおり](../Page/ひふみかおり.md "wikilink")
 
 ## スタッフ
 
-  - 監督：[廣木隆一](https://ja.wikipedia.org/wiki/廣木隆一 "wikilink")
+  - 監督：[廣木隆一](../Page/廣木隆一.md "wikilink")
   - 助監督：[宮城仙雅](https://ja.wikipedia.org/wiki/宮城仙雅 "wikilink")
   - 原作：やまだないと「ラマン」（双葉社）
   - 脚本：[七里圭](https://ja.wikipedia.org/wiki/七里圭 "wikilink")
@@ -44,13 +44,13 @@
 
 ## 劇中歌
 
-  - エンディングテーマ：[辻香織](https://ja.wikipedia.org/wiki/辻香織_\(歌手\) "wikilink")「少女」
-  - 挿入曲：[Polaris](https://ja.wikipedia.org/wiki/Polaris_\(バンド\) "wikilink")「光と影」
+  - エンディングテーマ：[辻香織](../Page/辻香織_\(歌手\).md "wikilink")「少女」
+  - 挿入曲：[Polaris](../Page/Polaris_\(バンド\).md "wikilink")「光と影」
 
 ## 関連項目
 
-  - [日本の映画作品一覧](https://ja.wikipedia.org/wiki/日本の映画作品一覧 "wikilink")
-  - [2005年の映画](https://ja.wikipedia.org/wiki/2005年の映画 "wikilink")
+  - [日本の映画作品一覧](../Page/日本の映画作品一覧.md "wikilink")
+  - [2005年の映画](../Page/2005年の映画.md "wikilink")
 
 ## 外部リンク
 

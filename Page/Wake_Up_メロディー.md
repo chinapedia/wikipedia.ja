@@ -213,6 +213,6 @@
 
 ## 関連項目
 
-  - [ABSミュージックカフェ](https://ja.wikipedia.org/wiki/ABSミュージックカフェ "wikilink")〜ちょっと一息〜（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")）
+  - [ABSミュージックカフェ](https://ja.wikipedia.org/wiki/ABSミュージックカフェ "wikilink")〜ちょっと一息〜（[秋田放送](../Page/秋田放送.md "wikilink")）
 
 [Category:綜合放送](https://ja.wikipedia.org/wiki/Category:綜合放送 "wikilink") [Category:ラジオの帯番組](https://ja.wikipedia.org/wiki/Category:ラジオの帯番組 "wikilink") [Category:ラジオの番販番組](https://ja.wikipedia.org/wiki/Category:ラジオの番販番組 "wikilink")

@@ -16,7 +16,7 @@
         作詞：[meg rock](../Page/日向めぐみ.md "wikilink")、作曲：[黒須克彦](../Page/黒須克彦.md "wikilink")、編曲：[nishi-ken](https://ja.wikipedia.org/wiki/nishi-ken "wikilink")
     <!-- end list -->
       - [テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")『[アニたま](../Page/アニたま.md "wikilink")』2007年12月度[エンディングテーマ](../Page/主題歌.md "wikilink")
-      - [BSフジ](../Page/BSフジ.md "wikilink")『[もえがく★5](https://ja.wikipedia.org/wiki/もえがく★5 "wikilink")』エンディングテーマ
+      - [BSフジ](../Page/BSフジ.md "wikilink")『[もえがく★5](../Page/もえがく★5.md "wikilink")』エンディングテーマ
       - GyaO MIDTOWN TV 『[キネマルネッサンス あ〜や城](../Page/キネマルネッサンス_あ〜や城.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
 2.  **ラブソング** \[4:11\]
       -

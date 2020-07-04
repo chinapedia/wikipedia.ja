@@ -3,7 +3,7 @@
 
 **THE SLUT BANKS**（ザ・スラット・バンクス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-[戸城憲夫](https://ja.wikipedia.org/wiki/戸城憲夫 "wikilink")を中心として活動していたバンド[LANCE OF THRILLのボーカル土橋](https://ja.wikipedia.org/wiki/LANCE_OF_THRILL "wikilink") 宗一郎の脱退にともない、新たなボーカルとして[板谷祐](https://ja.wikipedia.org/wiki/板谷祐 "wikilink")を迎え入れ[1996年](../Page/1996年.md "wikilink")に結成された。 [2000年](../Page/2000年.md "wikilink")に板谷祐脱退にともない解散するも[2007年](../Page/2007年.md "wikilink")大晦日のライブで復活した。
+[戸城憲夫](../Page/戸城憲夫.md "wikilink")を中心として活動していたバンド[LANCE OF THRILLのボーカル土橋](https://ja.wikipedia.org/wiki/LANCE_OF_THRILL "wikilink") 宗一郎の脱退にともない、新たなボーカルとして[板谷祐](https://ja.wikipedia.org/wiki/板谷祐 "wikilink")を迎え入れ[1996年](../Page/1996年.md "wikilink")に結成された。 [2000年](../Page/2000年.md "wikilink")に板谷祐脱退にともない解散するも[2007年](../Page/2007年.md "wikilink")大晦日のライブで復活した。
 
 ## メンバー
 
@@ -16,21 +16,21 @@
 <td><p>タスク<br />
 <a href="https://ja.wikipedia.org/wiki/板谷祐" title="wikilink">板谷祐</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
-<td><p>結成から参加。2000年脱退。再始動で復帰。 (新宿心音会板谷祐, ex <a href="https://ja.wikipedia.org/wiki/ZI:KILL" title="wikilink">Zi:Kill</a>, <a href="../Page/CRAZE.md" title="wikilink">Craze</a>)</p></td>
+<td><p>結成から参加。2000年脱退。再始動で復帰。 (新宿心音会板谷祐, ex <a href="../Page/ZI:KILL.md" title="wikilink">Zi:Kill</a>, <a href="../Page/CRAZE.md" title="wikilink">Craze</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>DUCK-LEE</strong>(DUCK-T)</p></td>
 <td><p>ダックリー、ダックティー<br />
-<a href="https://ja.wikipedia.org/wiki/戸城憲夫" title="wikilink">戸城憲夫</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
-<td><p>結成から参加。 (ex <a href="https://ja.wikipedia.org/wiki/ZIGGY" title="wikilink">Ziggy</a>, <a href="https://ja.wikipedia.org/wiki/LANCE_OF_THRILL" title="wikilink">Lance Of Thrill</a>, <a href="https://ja.wikipedia.org/wiki/BAD_SiX_BABiES" title="wikilink">Bad Six Babies</a>, <a href="https://ja.wikipedia.org/wiki/The_DUST&#39;N&#39;BONEZ" title="wikilink">The Dust 'N' Bonez</a>)</p></td>
+<a href="../Page/戸城憲夫.md" title="wikilink">戸城憲夫</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
+<td><p>結成から参加。 (ex <a href="https://ja.wikipedia.org/wiki/ZIGGY" title="wikilink">Ziggy</a>, <a href="https://ja.wikipedia.org/wiki/LANCE_OF_THRILL" title="wikilink">Lance Of Thrill</a>, <a href="https://ja.wikipedia.org/wiki/BAD_SiX_BABiES" title="wikilink">Bad Six Babies</a>, <a href="../Page/The_DUST&#39;N&#39;BONEZ.md" title="wikilink">The Dust 'N' Bonez</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>参代目ACE DRIVER</strong></p></td>
 <td><p>サンダイメエースドライバー<br />
-<a href="https://ja.wikipedia.org/wiki/坂下たけとも" title="wikilink">坂下たけとも</a></p></td>
+<a href="../Page/坂下たけとも.md" title="wikilink">坂下たけとも</a></p></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">ギター</a></p></td>
-<td><p>2015年8月22日名古屋UPSETから参加。 (ex <a href="https://ja.wikipedia.org/wiki/SADS" title="wikilink">SADS</a>, The Dust 'N' Bonez, Bad Six Babies)</p></td>
+<td><p>2015年8月22日名古屋UPSETから参加。 (ex <a href="../Page/SADS.md" title="wikilink">SADS</a>, The Dust 'N' Bonez, Bad Six Babies)</p></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +97,7 @@
 <td><p>サンダイメキッドヒロシ<br />
 <a href="https://ja.wikipedia.org/wiki/城戸紘志" title="wikilink">城戸紘志</a></p></td>
 <td><p>サポートドラム</p></td>
-<td><p>| 2013年3月～2014年4月19日 (ex <a href="https://ja.wikipedia.org/wiki/JUDE" title="wikilink">Jude</a>)</p></td>
+<td><p>| 2013年3月～2014年4月19日 (ex <a href="../Page/JUDE.md" title="wikilink">Jude</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>四代目Big Mountain</p></td>
@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<timeline> ImageSize = width:1000 height:auto barincrement:16 PlotArea = left:110 bottom:90 top:5 right:10 Alignbars = justify DateFormat = dd/mm/yyyy Period = from:01/01/1996 till:31/12/2019 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom columns:4 ScaleMajor = increment:2 start:1996 ScaleMinor = increment:1 start:1996
+<timeline> ImageSize = width:1000 height:auto barincrement:16 PlotArea = left:110 bottom:90 top:5 right:10 Alignbars = justify DateFormat = dd/mm/yyyy Period = from:01/01/1996 till:31/12/2020 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom columns:4 ScaleMajor = increment:2 start:1996 ScaleMinor = increment:1 start:1996
 
 Colors =
 
@@ -157,6 +157,7 @@ LineData =
 ` at:21/12/2016`
 ` at:06/12/2017`
 ` at:10/04/2019`
+` at:13/05/2020`
 
 LineData =
 
@@ -197,10 +198,10 @@ PlotData=
 `bar:Kid from:01/02/2013 till:31/05/2014 color:Drum width:5`
 `bar:Kanetaku from:01/06/2014 till:31/08/2018 color:Drum`
 `bar:Mitsutaka from:01/09/2018 till:30/06/2019 color:Drum width:5`
-`bar:Hayato from:01/09/2018 till:End color:Drum width:5`
+`bar:Hayato from:01/09/2018 till:30/12/2019 color:Drum width:5`
 `bar:GOD from:01/09/2019 till:End color:Drum width:5`
-`bar:Kanetaku from:01/09/2019 till:End color:Drum width:5`
-`bar:Eiji from:01/09/2019 till:End color:Drum width:5`
+`bar:Kanetaku from:01/09/2019 till:30/12/2019 color:Drum width:5`
+`bar:Eiji from:01/09/2019 till:30/12/2019 color:Drum width:5`
 
 </timeline>
 
@@ -359,7 +360,7 @@ PlotData=
 <tr class="odd">
 <td><p>mini 7th</p></td>
 <td><p>2016/12/21</p></td>
-<td><p>1996 FIND MY WAY</p></td>
+<td><p><em>1996 FIND MY WAY</em></p></td>
 <td><p>59位</p></td>
 <td><p>KIZC-367/9</p></td>
 <td><p>3枚組の内のDISC2、新作ミニアルバム</p></td>
@@ -368,8 +369,8 @@ PlotData=
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2017/12/6</p></td>
-<td><p>ダイレクトテイスト</p></td>
-<td></td>
+<td><p><em>ダイレクトテイスト</em></p></td>
+<td><p>50位</p></td>
 <td><p>KICS-3654</p></td>
 <td></td>
 <td></td>
@@ -377,13 +378,23 @@ PlotData=
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>2019/4/10</p></td>
-<td><p>NOIZ THE RIPPER</p></td>
-<td></td>
+<td><p><em>NOIZ THE RIPPER</em></p></td>
+<td><p>27位</p></td>
 <td><p>KICS-3783</p></td>
-<td><p>TAKAURA TOMMY HAYATO</p></td>
+<td><p>TAKAURA TOMMY<br />
+HAYATO</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>10th</p></td>
+<td><p>2020/5/13</p></td>
+<td><p><em>Rock’n’Roll to the MAX</em></p></td>
+<td><p>20位</p></td>
+<td><p>KICS-3916</p></td>
+<td><p>GOD</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -533,19 +544,20 @@ PlotData=
 
 ### 非売品CD
 
-| 発売日                                    | タイトル                       | 規格品番                        | 収録アルバム                      |
-| -------------------------------------- | -------------------------- | --------------------------- | --------------------------- |
-| 2010/1/1                               | *お年玉CD \#0022(2010 Ver.)*  | SSCD-006                    | 極 METAL MIND                |
-| 2013                                   | *［赤*\]*【勝負師】*              | SSCD-009                    | ロマンス                        |
-| *［青*\]*【狂気色】*                          | SSCD-010                   |                             |                             |
-| *［黄*\]*【少年たちよ】*                        | SSCD-011                   |                             |                             |
-| *［黒*\]*【消えちまえ】*                        | SSCD-012                   |                             |                             |
-| 2015                                   | METALLIC JUNK Limited Ver. | SSCD-014                    | METALLIC JUNK               |
-| 2016                                   | Song Of Freedom            | BDC1                        | ROXY BABY (ボーナスディスク)        |
-| どら猫とダンス                                | SSSP101                    | ダイレクトテイスト                   |                             |
-| SWEET SONG/RUN GIRL LOVE (another mix) | BDC17                      | 1996 FIND MY WAY (ボーナスディスク) |                             |
-| 2017                                   | BLOODY SOUP                | BDC45                       | ダイレクトテイスト (ボーナスディスク)        |
-| 2019                                   | 死に顔にサクラ花びら                 | BDC67                       | NOIZ THE RIPPETR (ボーナスディスク) |
+| 発売日                                    | タイトル                       | 規格品番                        | 収録アルバム                            |
+| -------------------------------------- | -------------------------- | --------------------------- | --------------------------------- |
+| 2010/1/1                               | *お年玉CD \#0022(2010 Ver.)*  | SSCD-006                    | 極 METAL MIND                      |
+| 2013                                   | *［赤*\]*【勝負師】*              | SSCD-009                    | ロマンス                              |
+| *［青*\]*【狂気色】*                          | SSCD-010                   |                             |                                   |
+| *［黄*\]*【少年たちよ】*                        | SSCD-011                   |                             |                                   |
+| *［黒*\]*【消えちまえ】*                        | SSCD-012                   |                             |                                   |
+| 2015                                   | METALLIC JUNK Limited Ver. | SSCD-014                    | METALLIC JUNK                     |
+| 2016                                   | Song Of Freedom            | BDC1                        | ROXY BABY (ボーナスディスク)              |
+| どら猫とダンス                                | SSSP101                    | ダイレクトテイスト                   |                                   |
+| SWEET SONG/RUN GIRL LOVE (another mix) | BDC17                      | 1996 FIND MY WAY (ボーナスディスク) |                                   |
+| 2017                                   | BLOODY SOUP                | BDC45                       | ダイレクトテイスト (ボーナスディスク)              |
+| 2019                                   | 死に顔にサクラ花びら                 | BDC67                       | NOIZ THE RIPPETR (ボーナスディスク)       |
+| 2020                                   | Burning Thunder            | BDC85                       | Rock’n’Roll to the MAX (ボーナスディスク) |
 
 ### VHS/DVD
 
@@ -753,12 +765,12 @@ SSDVD-012</p></td>
 ## 関連項目
 
   - [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")
-  - [The DUST'N'BONEZ](https://ja.wikipedia.org/wiki/The_DUST'N'BONEZ "wikilink")
+  - [The DUST'N'BONEZ](../Page/The_DUST'N'BONEZ.md "wikilink")
   - [CRAZE](../Page/CRAZE.md "wikilink")
-  - [ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink")
+  - [ZI:KILL](../Page/ZI:KILL.md "wikilink")
   - [Lance Of Thrill](https://ja.wikipedia.org/wiki/LANCE_OF_THRILL "wikilink")
   - [BAD SiX BABiES](https://ja.wikipedia.org/wiki/BAD_SiX_BABiES "wikilink")
-  - [SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")
+  - [SADS](../Page/SADS.md "wikilink")
   - [BOW WOW](../Page/BOWWOW.md "wikilink") (VOW WOW)
   - [菊地哲](../Page/菊地哲.md "wikilink") SMOKIN STAR負傷時にIRON SMOKIN'名義でサポートドラマーとしてLIVEに参加
   - [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink") BIG MOONと名乗りLIVEにゲスト参加

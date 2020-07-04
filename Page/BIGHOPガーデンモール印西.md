@@ -11,7 +11,7 @@
 
 バリューモール（地上2階建て）は2015年11月現在、アウトレット系店舗を中心に約70店舗が営業している\[1\]\[2\]。中心部には高さ50mの**[観覧車](../Page/観覧車.md "wikilink")**があり、当施設のランドマーク的存在となっている\[3\]。また中央の広場にはステージ（公園劇場）があり、週末には各種イベントが開催される。[印西牧の原駅](../Page/印西牧の原駅.md "wikilink")前に隣接する牧の原ふれ愛モール（旧：駅前ビレッジ）は[イタリア](../Page/イタリア.md "wikilink")の村をイメージした造りになっている\[4\]。
 
-[北総線および](https://ja.wikipedia.org/wiki/北総鉄道北総線 "wikilink")[国道464号](../Page/国道464号.md "wikilink")線に面しており、隣接して『[牧の原モア](https://ja.wikipedia.org/wiki/牧の原モア "wikilink")』『[フォレストモール印西牧の原](https://inzaimakinohara.forest-mall.com/)』および、『[ジョイフル本田](../Page/ジョイフル本田.md "wikilink")千葉ニュータウン店』（[ホームセンター](../Page/ホームセンター.md "wikilink")）『[USシネマ千葉ニュータウン](../Page/シネマックス千葉ニュータウン.md "wikilink")』などがあり、周辺一帯は北総地区における広大なショッピングエリアを形成している。
+[北総線および](https://ja.wikipedia.org/wiki/北総鉄道北総線 "wikilink")[国道464号](../Page/国道464号.md "wikilink")線に面しており、隣接して[牧の原モア](https://ja.wikipedia.org/wiki/牧の原モア "wikilink")、[フォレストモール](../Page/フォレストモール.md "wikilink")印西牧の原、[ジョイフル本田](../Page/ジョイフル本田.md "wikilink")千葉ニュータウン店（[ホームセンター](../Page/ホームセンター.md "wikilink")）、[USシネマ千葉ニュータウンなどがあり](../Page/シネマックス千葉ニュータウン.md "wikilink")、周辺一帯は北総地区における広大なショッピングエリアを形成している。
 
   - 設計：株式会社[梓設計](https://ja.wikipedia.org/wiki/梓設計 "wikilink")
   - 環境デザイン：株式会社B-WAY'S

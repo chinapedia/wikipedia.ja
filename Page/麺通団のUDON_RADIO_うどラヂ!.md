@@ -1,13 +1,13 @@
-> この記事は[UDON RADIO !](https://ja.wikipedia.org/wiki/UDON_RADIO_!)から翻訳されています。
+> この記事は[麺通団のUDON RADIO うどラヂ!](https://ja.wikipedia.org/wiki/麺通団のUDON_RADIO_うどラヂ!)から翻訳されています。
 
 
-『**麺通団のUDON RADIO うどラヂ\!**』は、映画『[UDON](https://ja.wikipedia.org/wiki/UDON "wikilink")』の関連番組として、[エフエム香川](../Page/エフエム香川.md "wikilink")にて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
+『**麺通団のUDON RADIO うどラヂ\!**』は、映画『[UDON](../Page/UDON.md "wikilink")』の関連番組として、[エフエム香川](../Page/エフエム香川.md "wikilink")にて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 ## 概要
 
 映画の公開に先駆けてスタートした。
 
-番組は映画の公開と同時に一旦最終回を迎えたが、[JFNCの番組を挟んで後番組として](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")『**[続・麺通団のUDON RADIO うどラヂ\!](https://ja.wikipedia.org/wiki/続・麺通団のUDON_RADIO_うどラヂ! "wikilink")**』が同年[10月6日](../Page/10月6日.md "wikilink")より放送開始された。
+番組は映画の公開と同時に一旦最終回を迎えたが、[JFNCの番組を挟んで後番組として](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")『**[続・麺通団のUDON RADIO うどラヂ\!](../Page/続・麺通団のUDON_RADIO_うどラヂ!.md "wikilink")**』が同年[10月6日](../Page/10月6日.md "wikilink")より放送開始された。
 
 田尾は「[そこまで言うなら、5分だけ](https://ja.wikipedia.org/wiki/そこまで言うなら、5分だけ "wikilink")」以来のエフエム香川でのレギュラー番組である。
 
@@ -17,7 +17,7 @@
 
 ## 放送リスト
 
-放送日はエフエム香川での放送日を示す。[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")公開版タイトルはポッドキャストでの公開時に付けられたもの。
+放送日はエフエム香川での放送日を示す。[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")公開版タイトルはポッドキャストでの公開時に付けられたもの。
 
 | 放送回  | 放送日        | ポッドキャスト公開版タイトル                |
 | ---- | ---------- | ----------------------------- |

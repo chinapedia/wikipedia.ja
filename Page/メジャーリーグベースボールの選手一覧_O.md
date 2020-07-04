@@ -1,4 +1,4 @@
-> この記事は[ O](https://ja.wikipedia.org/wiki/_O)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 O](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_O)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**O**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -368,7 +368,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Lefty_O&#39;Doul" title="wikilink">Lefty O'Doul</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レフティ・オドール" title="wikilink">レフティ・オドール</a></p></td>
+<td><p><a href="../Page/レフティ・オドール.md" title="wikilink">レフティ・オドール</a></p></td>
 <td><p>1919</p></td>
 <td><p>1934</p></td>
 <td></td>
@@ -487,7 +487,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tom_O&#39;Malley" title="wikilink">Tom O'Malley</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トーマス・オマリー" title="wikilink">トム・オマリー</a></p></td>
+<td><p><a href="../Page/トーマス・オマリー.md" title="wikilink">トム・オマリー</a></p></td>
 <td><p>1982</p></td>
 <td><p>1990</p></td>
 <td></td>
@@ -830,7 +830,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Sherman_Obando" title="wikilink">Sherman Obando</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャーマン・オバンドー" title="wikilink">シャーマン・オバンドー</a></p></td>
+<td><p><a href="../Page/シャーマン・オバンドー.md" title="wikilink">シャーマン・オバンドー</a></p></td>
 <td><p>1993</p></td>
 <td><p>1997</p></td>
 <td></td>
@@ -879,7 +879,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Wes_Obermueller" title="wikilink">Wes Obermueller</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェス・オーバーミューラー" title="wikilink">ウェス・オーバーミューラー</a></p></td>
+<td><p><a href="../Page/ウェス・オーバーミューラー.md" title="wikilink">ウェス・オーバーミューラー</a></p></td>
 <td><p>2002</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -900,7 +900,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alex_Ochoa" title="wikilink">Alex Ochoa</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アレックス・オチョア" title="wikilink">アレックス・オチョア</a></p></td>
+<td><p><a href="../Page/アレックス・オチョア.md" title="wikilink">アレックス・オチョア</a></p></td>
 <td><p>1995</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -1124,7 +1124,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Seung-hwan_Oh" title="wikilink">Seung-hwan Oh</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/呉昇桓" title="wikilink">呉昇桓</a></p></td>
+<td><p><a href="../Page/呉昇桓.md" title="wikilink">呉昇桓</a></p></td>
 <td><p>2016</p></td>
 <td></td>
 <td></td>
@@ -1166,7 +1166,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Ohme" title="wikilink">Kevin Ohme</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・オーミー" title="wikilink">ケビン・オーミー</a></p></td>
+<td><p><a href="../Page/ケビン・オーミー.md" title="wikilink">ケビン・オーミー</a></p></td>
 <td><p>2003</p></td>
 <td><p>2003</p></td>
 <td></td>
@@ -1229,7 +1229,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hideki_Okajima" title="wikilink">Hideki Okajima</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡島秀樹" title="wikilink">岡島秀樹</a></p></td>
+<td><p><a href="../Page/岡島秀樹.md" title="wikilink">岡島秀樹</a></p></td>
 <td><p>2007</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -1306,7 +1306,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:John_Olerud" title="wikilink">John Olerud</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・オルルド" title="wikilink">ジョン・オルルド</a></p></td>
+<td><p><a href="../Page/ジョン・オルルド.md" title="wikilink">ジョン・オルルド</a></p></td>
 <td><p>1989</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -1677,7 +1677,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Steve_Ontiveros_(infielder)" title="wikilink">Steve Ontiveros</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーブ・オンティベロス_(内野手)" title="wikilink">スティーブ・オンティベロス</a></p></td>
+<td><p><a href="../Page/スティーブ・オンティベロス_(内野手).md" title="wikilink">スティーブ・オンティベロス</a></p></td>
 <td><p>1973</p></td>
 <td><p>1980</p></td>
 <td><p>三塁手、Steven Robert Ontiveros</p></td>
@@ -1755,7 +1755,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Magglio_Ordonez" title="wikilink">Magglio Ordonez</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マグリオ・オルドニェス" title="wikilink">マグリオ・オルドニェス</a></p></td>
+<td><p><a href="../Page/マグリオ・オルドニェス.md" title="wikilink">マグリオ・オルドニェス</a></p></td>
 <td><p>1997</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -1916,7 +1916,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Frank_Ortenzio" title="wikilink">Frank Ortenzio</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・オーテンジオ" title="wikilink">フランク・オーテンジオ</a></p></td>
+<td><p><a href="../Page/フランク・オーテンジオ.md" title="wikilink">フランク・オーテンジオ</a></p></td>
 <td><p>1973</p></td>
 <td><p>1973</p></td>
 <td></td>
@@ -1944,7 +1944,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_Ortiz" title="wikilink">David Ortiz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・オルティーズ" title="wikilink">デビッド・オルティーズ</a></p></td>
+<td><p><a href="../Page/デビッド・オルティーズ.md" title="wikilink">デビッド・オルティーズ</a></p></td>
 <td><p>1997</p></td>
 <td><p>2016</p></td>
 <td></td>
@@ -1979,7 +1979,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:José_Ortiz_(second_baseman)" title="wikilink">Jose Ortiz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・オーティズ" title="wikilink">ホセ・オルティーズ</a></p></td>
+<td><p><a href="../Page/ホセ・オーティズ.md" title="wikilink">ホセ・オルティーズ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2002</p></td>
 <td><p>二塁手、Jose Daniel (Santos) Ortiz</p></td>
@@ -1993,7 +1993,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Luis_Ortiz_(third_baseman)" title="wikilink">Luis Ortiz</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・オルティス" title="wikilink">ルイス・オルティーズ</a></p></td>
+<td><p><a href="../Page/ルイス・オルティス.md" title="wikilink">ルイス・オルティーズ</a></p></td>
 <td><p>1993</p></td>
 <td><p>1996</p></td>
 <td><p>内野手、Luis Francisco Ortiz</p></td>
@@ -2287,7 +2287,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roy_Oswalt" title="wikilink">Roy Oswalt</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロイ・オズワルト" title="wikilink">ロイ・オズワルト</a></p></td>
+<td><p><a href="../Page/ロイ・オズワルト.md" title="wikilink">ロイ・オズワルト</a></p></td>
 <td><p>2001</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -2476,7 +2476,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Lyle_Overbay" title="wikilink">Lyle Overbay</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ライル・オーバーベイ" title="wikilink">ライル・オーバーベイ</a></p></td>
+<td><p><a href="../Page/ライル・オーバーベイ.md" title="wikilink">ライル・オーバーベイ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -2679,7 +2679,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Oxspring" title="wikilink">Chris Oxspring</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・オクスプリング" title="wikilink">クリス・オクスプリング</a></p></td>
+<td><p><a href="../Page/クリス・オクスプリング.md" title="wikilink">クリス・オクスプリング</a></p></td>
 <td><p>2005</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -2728,7 +2728,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pablo_Ozuna" title="wikilink">Pablo Ozuna</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パブロ・オズーナ" title="wikilink">パブロ・オズーナ</a></p></td>
+<td><p><a href="../Page/パブロ・オズーナ.md" title="wikilink">パブロ・オズーナ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2008</p></td>
 <td></td>

@@ -5,27 +5,27 @@
 
 ## 主な機能・サービス
 
-  - ミュージックプレイヤー（[AAC](../Page/AAC.md "wikilink")、[Windows Media Audio](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")）
-  - [Windows Media Video対応](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - ミュージックプレイヤー（[AAC](../Page/AAC.md "wikilink")、[Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink")）
+  - [Windows Media Video対応](../Page/Windows_Media_Video.md "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [赤外線](../Page/赤外線.md "wikilink")通信（[IrDA](../Page/IrDA.md "wikilink")）(高速赤外線([IrSS](https://ja.wikipedia.org/wiki/IrSS "wikilink")/[IrSimple](https://ja.wikipedia.org/wiki/IrSimple "wikilink"))対応)
   - [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")（アニメビュー）
   - [フィーリングメール](https://ja.wikipedia.org/wiki/フィーリングメール "wikilink")
   - [カスタムスクリーン](https://ja.wikipedia.org/wiki/カスタムスクリーン "wikilink")
   - [バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")
   - [QRコード](../Page/QRコード.md "wikilink")読み取り・作成
-  - ドキュメントビューア（[Microsoft Word](../Page/Microsoft_Word.md "wikilink")（.doc）・[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（.xls）・[Microsoft PowerPoint](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink")（.ppt）・[PDFデータ](../Page/Portable_Document_Format.md "wikilink")（.pdf）。）
+  - ドキュメントビューア（[Microsoft Word](../Page/Microsoft_Word.md "wikilink")（.doc）・[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（.xls）・[Microsoft PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")（.ppt）・[PDFデータ](../Page/Portable_Document_Format.md "wikilink")（.pdf）。）
   - [PCメール](https://ja.wikipedia.org/wiki/PCメール "wikilink")
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                                                |
-| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")                                 |
-| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")                           |
-| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")                    |
-| [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")                                    |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                             |
+| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")              |
+| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [S\!FeliCa](../Page/S!FeliCa.md "wikilink")                           |
+| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink") |
+| [ワンセグ](../Page/ワンセグ.md "wikilink")                                    |
 
 ## 特徴
 
@@ -33,7 +33,7 @@
   - 前機種[913SH](https://ja.wikipedia.org/wiki/913SH "wikilink")ではタッチセンサーで出来ることは主にAV機能関連のみであったが、タッチ部分がパネル状になったため本機種では文字入力を伴わない動作なら大抵のことはできるようになった。
   - 外装以外の基本的な仕様は[920SH](https://ja.wikipedia.org/wiki/920SH "wikilink")と同様であるが、こちらは国際ローミング“非対応”であったり、インカメラを搭載している点等、いくつかの相違点がある。
   - メインメニューに3DのGUIを搭載しており、心地よい操作が可能である。動作的には[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") 3Gに似ている。
-  - [923SHからは終話キーと発話キーが](https://ja.wikipedia.org/wiki/SoftBank_923SH "wikilink")[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")な配置になったため、事実上9シリーズ最後の独自キー配置(終話と発話キーがソフトキーの下にある)の機種となった（[922SHはQWERTYキーのため例外](../Page/SoftBank_922SH.md "wikilink")）
+  - [923SHからは終話キーと発話キーが](../Page/SoftBank_923SH.md "wikilink")[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")な配置になったため、事実上9シリーズ最後の独自キー配置(終話と発話キーがソフトキーの下にある)の機種となった（[922SHはQWERTYキーのため例外](../Page/SoftBank_922SH.md "wikilink")）
 
 ## 不具合
 
@@ -50,8 +50,8 @@
 ※以下の端末は他キャリアで発売されているフルスライド型の機種
 
   - [FOMA P905iTV](../Page/P905iTV.md "wikilink")
-  - [au WIN W61SA](https://ja.wikipedia.org/wiki/W61SA "wikilink")
-  - [FOMA SH706i/SH706iw](https://ja.wikipedia.org/wiki/SH706i "wikilink")
+  - [au WIN W61SA](../Page/W61SA.md "wikilink")
+  - [FOMA SH706i/SH706iw](../Page/SH706i.md "wikilink")
   - [au WIN W64SH（AQUOSケータイ）](https://ja.wikipedia.org/wiki/W64SH "wikilink")
 
 [Category:携帯電話端末_(ソフトバンク_第三世代)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(ソフトバンク_第三世代\) "wikilink") [Category:携帯電話端末_(シャープ)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(シャープ\) "wikilink")

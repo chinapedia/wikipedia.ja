@@ -1,26 +1,26 @@
 > この記事は[Dip in the pool](https://ja.wikipedia.org/wiki/Dip_in_the_pool)から翻訳されています。
 
 
-**dip in the pool**（ディップ・イン・ザ・プール）は、日本の[音楽ユニット](https://ja.wikipedia.org/wiki/音楽ユニット "wikilink")である。ファッションモデルのボーカルの[甲田益也子](https://ja.wikipedia.org/wiki/甲田益也子 "wikilink")とキーボードの[木村達司](https://ja.wikipedia.org/wiki/木村達司 "wikilink")によって[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に結成された。
+**dip in the pool**（ディップ・イン・ザ・プール）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。ファッションモデルのボーカルの[甲田益也子](../Page/甲田益也子.md "wikilink")とキーボードの[木村達司](https://ja.wikipedia.org/wiki/木村達司 "wikilink")によって[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に結成された。
 
 ## メンバー
 
-  - [甲田益也子](https://ja.wikipedia.org/wiki/甲田益也子 "wikilink") - 作詞・ボーカル
+  - [甲田益也子](../Page/甲田益也子.md "wikilink") - 作詞・ボーカル
   - 木村達司 - 作曲・編曲・トラック
 
 ## 略歴
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、イギリスは[ラフ・トレード・レコード](https://ja.wikipedia.org/wiki/ラフ・トレード・レコード "wikilink")、ヨーロッパほかでは[ヴァージン・レコード](https://ja.wikipedia.org/wiki/ヴァージン・レコード "wikilink")、日本では[アルファ・ムーン](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink")・レコードよりデビュー。以来、木村達司の作るトラックと甲田益也子のボーカルのマッチングによるスタイルを貫き続けている。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、イギリスは[ラフ・トレード・レコード](../Page/ラフ・トレード・レコード.md "wikilink")、ヨーロッパほかでは[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")、日本では[アルファ・ムーン](../Page/MOON_RECORDS.md "wikilink")・レコードよりデビュー。以来、木村達司の作るトラックと甲田益也子のボーカルのマッチングによるスタイルを貫き続けている。
 
 「Miracle Play 天使が降る夜」は[丸井](../Page/丸井.md "wikilink")の1987年のクリスマスCMソングに起用され代表曲の一つとなる。
 
-1991年には[WEA香港の招きによりアジア](https://ja.wikipedia.org/wiki/ワーナー・ミュージック・グループ "wikilink")・プロモーションも展開した。
+1991年には[WEA香港の招きによりアジア](../Page/ワーナー・ミュージック・グループ.md "wikilink")・プロモーションも展開した。
 
 その後もマイペースに活動を続けながら、甲田益也子は1989年に映画『[ファンシィダンス](https://ja.wikipedia.org/wiki/ファンシィダンス "wikilink")』で役者としてもデビュー。
 
-1997年に木村達司が主宰するレーベルgrandiscより『WONDER 8』発表した後に一時活動休止するまで、そのレコーディング参加したミュージシャンは、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")、[清水靖晃](https://ja.wikipedia.org/wiki/清水靖晃 "wikilink")、[窪田晴男](https://ja.wikipedia.org/wiki/窪田晴男 "wikilink")、[富家哲](https://ja.wikipedia.org/wiki/富家哲 "wikilink")、[トニー・レヴィン](https://ja.wikipedia.org/wiki/トニー・レヴィン "wikilink")、ミノ・シネル、[モーガン・フィッシャー](https://ja.wikipedia.org/wiki/モーガン・フィッシャー "wikilink")、ピーター・シェラー（アンビシャス・ラバーズ）など。
+1997年に木村達司が主宰するレーベルgrandiscより『WONDER 8』発表した後に一時活動休止するまで、そのレコーディング参加したミュージシャンは、[佐久間正英](../Page/佐久間正英.md "wikilink")、[清水靖晃](../Page/清水靖晃.md "wikilink")、[窪田晴男](https://ja.wikipedia.org/wiki/窪田晴男 "wikilink")、[富家哲](https://ja.wikipedia.org/wiki/富家哲 "wikilink")、[トニー・レヴィン](../Page/トニー・レヴィン.md "wikilink")、ミノ・シネル、[モーガン・フィッシャー](https://ja.wikipedia.org/wiki/モーガン・フィッシャー "wikilink")、ピーター・シェラー（アンビシャス・ラバーズ）など。
 
-その後、甲田は女優業に専念するため音楽活動休止。彼女は[手塚眞](https://ja.wikipedia.org/wiki/手塚眞 "wikilink")監督作品『[白痴](https://ja.wikipedia.org/wiki/白痴_\(1999年の映画\) "wikilink")』で映画初主演している。木村達司は他アーティストのプロデュースやアレンジ、CMや映画音楽を多数手がけるなど、個々の活動も多彩に展開している。
+その後、甲田は女優業に専念するため音楽活動休止。彼女は[手塚眞](../Page/手塚眞.md "wikilink")監督作品『[白痴](../Page/白痴_\(1999年の映画\).md "wikilink")』で映画初主演している。木村達司は他アーティストのプロデュースやアレンジ、CMや映画音楽を多数手がけるなど、個々の活動も多彩に展開している。
 
 1998年にはgrandiscより、木村達司総合プロデュースの下、作曲及びプロデューサーに、[細野晴臣](../Page/細野晴臣.md "wikilink")、清水靖晃、[テイ・トウワ](../Page/テイ・トウワ.md "wikilink")、[ゴンザレス三上](../Page/ゴンチチ.md "wikilink")、ピーター・シェラー、etc.という豪華な顔ぶれを迎えた甲田益也子のソロアルバム『jupiter』をリリース。
 
@@ -30,19 +30,19 @@
 
 ## アルバム
 
-  - dip in the pool（1986年、[MOON RECORDS](https://ja.wikipedia.org/wiki/MOON_RECORDS "wikilink"))
+  - dip in the pool（1986年、[MOON RECORDS](../Page/MOON_RECORDS.md "wikilink"))
       -
         既発12inchシングル2枚の収録曲（8曲）に未発表曲2曲を追加してフルアルバム化したもの。イギリスの[ラフ・トレード](https://ja.wikipedia.org/wiki/ラフ・トレード "wikilink")からリリースされる際にアルバムタイトルを『Silence』に改題。
   - [10 PALETTES](https://ja.wikipedia.org/wiki/10_PALETTES "wikilink")（[1988年](../Page/1988年.md "wikilink")、MOON RECORDS）
   - Retinae（[1989年](../Page/1989年.md "wikilink")、MOON RECORDS）
   - Aurorae（[1991年](../Page/1991年.md "wikilink")、MOON RECORDS）
-  - 静かの海（[1993年](../Page/1993年.md "wikilink")、[EPIC/SONY](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")）
+  - 静かの海（[1993年](../Page/1993年.md "wikilink")、[EPIC/SONY](../Page/エピックレコードジャパン.md "wikilink")）
   - KM93.11（[1993年](../Page/1993年.md "wikilink")、EPIC/SONY）
   - 7（[1994年](../Page/1994年.md "wikilink")、EPIC/SONY）
   - WONDER 8（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、grandisc/[EAST WORKS ENTERTAINMENT](http://www.ewe.co.jp/))
-  - brown eyes（[2011年](../Page/2011年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、[ベルウッド](https://ja.wikipedia.org/wiki/ベルウッド・レコード "wikilink")）
+  - brown eyes（[2011年](../Page/2011年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、[ベルウッド](../Page/ベルウッド・レコード.md "wikilink")）
   - HIGHWIRE WALKER（[2015年](../Page/2015年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、ベルウッド）
-  - dipper 1985-91 + dipping（2015年[10月7日](../Page/10月7日.md "wikilink")、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）
+  - dipper 1985-91 + dipping（2015年[10月7日](../Page/10月7日.md "wikilink")、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）
 
 ## シングル
 
@@ -68,8 +68,8 @@
 
 ## 関連項目
 
-  - [Dip in the Pool](https://ja.wikipedia.org/wiki/:en:Dip_in_the_Pool "wikilink") - [ロアルド・ダール](https://ja.wikipedia.org/wiki/ロアルド・ダール "wikilink")の[短編小説](https://ja.wikipedia.org/wiki/短編小説 "wikilink")
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+  - [Dip in the Pool](https://ja.wikipedia.org/wiki/:en:Dip_in_the_Pool "wikilink") - [ロアルド・ダール](../Page/ロアルド・ダール.md "wikilink")の[短編小説](../Page/短編小説.md "wikilink")
+  - [佐久間正英](../Page/佐久間正英.md "wikilink")
   - [Morgan Fisher](https://ja.wikipedia.org/wiki/:en:Morgan_Fisher "wikilink")
 
 ## 外部リンク

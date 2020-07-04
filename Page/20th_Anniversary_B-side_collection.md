@@ -1,17 +1,17 @@
 > この記事は[20th Anniversary B-side collection](https://ja.wikipedia.org/wiki/20th_Anniversary_B-side_collection)から翻訳されています。
 
 
-『**20th Anniversary B-side collection**』（トゥエンティース・アニヴァーサリー ビー・サイド コレクション）は、[工藤静香](../Page/工藤静香.md "wikilink")の2枚組[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")（初回限定生産盤は[DVD](../Page/DVD.md "wikilink")を含む3枚組）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+『**20th Anniversary B-side collection**』（トゥエンティース・アニヴァーサリー ビー・サイド コレクション）は、[工藤静香](../Page/工藤静香.md "wikilink")の2枚組[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")（初回限定生産盤は[DVD](../Page/DVD.md "wikilink")を含む3枚組）。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
 ## 解説
 
-  - 20周年記念ベスト『[Shizuka Kudo 20th Anniversary the Best](../Page/Shizuka_Kudo_20th_Anniversary_the_Best.md "wikilink")』（2007年8月29日）、DVD BOX『[Shizuka Kudo THE LIVE DVD COMPLETE BOX](https://ja.wikipedia.org/wiki/Shizuka_Kudo_THE_LIVE_DVD_COMPLETE_BOX "wikilink")』（2007年9月19日）に続く、1987年8月31日のソロデビューから20周年を迎えた記念商品アイテムのひとつ。
+  - 20周年記念ベスト『[Shizuka Kudo 20th Anniversary the Best](../Page/Shizuka_Kudo_20th_Anniversary_the_Best.md "wikilink")』（2007年8月29日）、DVD BOX『[Shizuka Kudo THE LIVE DVD COMPLETE BOX](../Page/Shizuka_Kudo_THE_LIVE_DVD_COMPLETE_BOX.md "wikilink")』（2007年9月19日）に続く、1987年8月31日のソロデビューから20周年を迎えた記念商品アイテムのひとつ。
   - 1987年から[2007年](../Page/2007年.md "wikilink")までにリリースされたシングルの**B面コレクション**。工藤自らがインタビューで「カップリングにもいい曲が多いと思う」と発言することがあった。
   - 1987年から[1989年](../Page/1989年.md "wikilink")までに発売されたシングルのB面曲は、過去にベストアルバムへ収録されたことがあった。しかし、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")以降のシングル[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")はアルバムに収録されることがまれだったため、アルバム初収録の作品を多く含んでいる（特にDisc-2）。
   - [1994年](../Page/1994年.md "wikilink")7月発売のシングル「[Jaguar Line](../Page/Jaguar_Line.md "wikilink")」以降のB面曲で、既に[オリジナルアルバムやベストアルバムに収録されたことのある楽曲は](../Page/アルバム.md "wikilink")、収録が見送られている。詳細は下記[\#未収録B面曲の関連作品](https://ja.wikipedia.org/wiki/#未収録B面曲の関連作品 "wikilink")を参照されたい。
   - ほぼすべての曲が、発売に当たって初めて[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")が施された。また、直径8センチサイズのシングルは既に廃盤となっているため、CDでは本作でしか聴けなくなっている楽曲も多い。
-  - カップリング曲ながら、[有線放送リクエストで上位にランクインした](https://ja.wikipedia.org/wiki/USEN "wikilink")「[in the sky](https://ja.wikipedia.org/wiki/in_the_sky "wikilink")」のオリジナル・ヴァージョンが初収録された。ただし、ポニーキャニオンの通信販売専用CD BOXに収録されたことがあるほか、『[Best of Ballade カレント](../Page/Best_of_Ballade_カレント.md "wikilink")』（1998年11月18日）には英語バージョンが収録されている。
-  - 初回限定生産盤には、2007年8月31日のソロデビュー20周年の日に東京・[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")で行われたライブ「Shizuka Kudo 20th Anniversary the Best」（20周年記念ベストと同じライブ名）の模様をダイジェスト収録したDVDが付属している。
+  - カップリング曲ながら、[有線放送リクエストで上位にランクインした](../Page/USEN.md "wikilink")「[in the sky](https://ja.wikipedia.org/wiki/in_the_sky "wikilink")」のオリジナル・ヴァージョンが初収録された。ただし、ポニーキャニオンの通信販売専用CD BOXに収録されたことがあるほか、『[Best of Ballade カレント](../Page/Best_of_Ballade_カレント.md "wikilink")』（1998年11月18日）には英語バージョンが収録されている。
+  - 初回限定生産盤には、2007年8月31日のソロデビュー20周年の日に東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で行われたライブ「Shizuka Kudo 20th Anniversary the Best」（20周年記念ベストと同じライブ名）の模様をダイジェスト収録したDVDが付属している。
   - 初回限定生産盤の他にCD2枚のみの通常盤があり、CDジャケット写真は各々異なる。
 
 ## 収録曲
@@ -19,9 +19,9 @@
 ### Disc-1
 
 1.  **[愛が痛い夜](https://ja.wikipedia.org/wiki/禁断のテレパシー#収録曲 "wikilink")** （4:05）
-      - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲: [後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+      - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
 2.  **[if](https://ja.wikipedia.org/wiki/Again_\(工藤静香の曲\)#収録曲 "wikilink")** （3:48）
-      - 作詞: [三浦徳子](https://ja.wikipedia.org/wiki/三浦徳子 "wikilink")、作曲・編曲: 後藤次利
+      - 作詞: [三浦徳子](../Page/三浦徳子.md "wikilink")、作曲・編曲: 後藤次利
 3.  **[夜明けに見送られて](https://ja.wikipedia.org/wiki/抱いてくれたらいいのに#収録曲 "wikilink")** （4:31）
       - 作詞: 秋元康、作曲・編曲: 後藤次利
 4.  **[夏がくれたミラクル](https://ja.wikipedia.org/wiki/FU-JI-TSU#収録曲 "wikilink")** （3:56）
@@ -31,7 +31,7 @@
 6.  **[Non-stop](https://ja.wikipedia.org/wiki/恋一夜#収録曲 "wikilink")** （3:52）
       - 作詞: 松井五郎、作曲・編曲: 後藤次利
 7.  **[永遠の防波堤](https://ja.wikipedia.org/wiki/嵐の素顔#収録曲 "wikilink")** （4:28）
-      - 作詞: [麻生圭子](https://ja.wikipedia.org/wiki/麻生圭子 "wikilink")、作曲・編曲: 後藤次利
+      - 作詞: [麻生圭子](../Page/麻生圭子.md "wikilink")、作曲・編曲: 後藤次利
 8.  **[秋子](https://ja.wikipedia.org/wiki/黄砂に吹かれて#収録曲 "wikilink")** （3:56）
       - 作詞: 中島みゆき、作曲・編曲: 後藤次利
 9.  **[セレナーデ](https://ja.wikipedia.org/wiki/くちびるから媚薬#収録曲 "wikilink")** （5:01）
@@ -58,14 +58,14 @@
 ### Disc-2
 
 1.  **[終幕](https://ja.wikipedia.org/wiki/わたしはナイフ#収録曲 "wikilink")** （5:10）
-      - 作詞: [岡田冨美子](https://ja.wikipedia.org/wiki/岡田冨美子 "wikilink")、作曲: [後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")、編曲: 後藤次利・高尾直樹
+      - 作詞: [岡田冨美子](../Page/岡田冨美子.md "wikilink")、作曲: [後藤次利](../Page/後藤次利.md "wikilink")、編曲: 後藤次利・高尾直樹
 2.  **[ちょっとしたGUILTY](https://ja.wikipedia.org/wiki/あなたしかいないでしょ#収録曲 "wikilink")** （5:14）
       - 作詞: [松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲・編曲: 後藤次利
 3.  **[Door](https://ja.wikipedia.org/wiki/Blue_Rose#収録曲 "wikilink")** （4:43）
-      - 作詞: 愛絵里、作曲: [都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")、編曲: 澤近泰輔
+      - 作詞: 愛絵里、作曲: [都志見隆](../Page/都志見隆.md "wikilink")、編曲: 澤近泰輔
     <!-- end list -->
       -
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ『[積木くずし](https://ja.wikipedia.org/wiki/積木くずし "wikilink") 崩壊、そして…』[エンディング・テーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系ドラマ『[積木くずし](../Page/積木くずし.md "wikilink") 崩壊、そして…』[エンディング・テーマ](../Page/主題歌.md "wikilink")
 4.  **[Party](https://ja.wikipedia.org/wiki/Ice_Rain#収録曲 "wikilink")** （4:09）
       - 作詞: 愛絵理、作曲: 都志見隆、編曲: 澤近泰輔
 5.  **[Still Water](https://ja.wikipedia.org/wiki/Moon_Water#収録曲 "wikilink")** （4:57）
@@ -80,7 +80,7 @@
 8.  **[Break](https://ja.wikipedia.org/wiki/Blue_Velvet#収録曲 "wikilink")** （4:57）
       - 作詞: 愛絵理、作曲: 谷本新、編曲: 松浦晃久
 9.  **[虹](https://ja.wikipedia.org/wiki/カーマスートラの伝説#収録曲 "wikilink")** （4:52）
-      - 作詞: 愛絵里、作曲・編曲: [はたけ](https://ja.wikipedia.org/wiki/はたけ "wikilink")
+      - 作詞: 愛絵里、作曲・編曲: [はたけ](../Page/はたけ.md "wikilink")
 10. **[Wish](https://ja.wikipedia.org/wiki/雪・月・花#収録曲 "wikilink")** （4:26）
       - 作詞: 愛絵里、作曲・編曲: 澤近泰輔
 11. **[in the sky](https://ja.wikipedia.org/wiki/きらら_\(工藤静香の曲\)#収録曲 "wikilink")** （4:34）
@@ -91,12 +91,12 @@
 12. **[piece of a star](https://ja.wikipedia.org/wiki/一瞬#収録曲 "wikilink")** （3:50）
       - 作詞・作曲: ЯK、編曲: 澤近泰輔
 13. **[Simple](https://ja.wikipedia.org/wiki/Lotus_-生まれし花-#収録曲 "wikilink")** （5:14）
-      - 作詞・作曲・編曲: [小幡英之](https://ja.wikipedia.org/wiki/小幡英之 "wikilink")
+      - 作詞・作曲・編曲: [小幡英之](../Page/小幡英之.md "wikilink")
 14. **[潤んだハート](../Page/心のチカラ.md "wikilink")** （4:58）
       - 作詞: 愛絵里、作曲: 家原正樹、編曲: 中野定博
     <!-- end list -->
       -
-        フジテレビ系『[F2](https://ja.wikipedia.org/wiki/F-2_\(テレビ番組\) "wikilink")』エンディング・テーマ
+        フジテレビ系『[F2](../Page/F-2_\(テレビ番組\).md "wikilink")』エンディング・テーマ
 15. **[Powder snow](https://ja.wikipedia.org/wiki/Clavis_-鍵-#収録曲 "wikilink")** （5:00）
       - 作詞: 愛絵里、作曲・編曲: Jin Nakamura
 16. **[存在](https://ja.wikipedia.org/wiki/雨夜の月に#収録曲 "wikilink")** （4:39）

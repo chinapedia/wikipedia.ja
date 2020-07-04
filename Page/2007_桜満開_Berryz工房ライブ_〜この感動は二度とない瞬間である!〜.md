@@ -1,4 +1,4 @@
-> この記事は[2007  Berryz !](https://ja.wikipedia.org/wiki/2007__Berryz_!)から翻訳されています。
+> この記事は[2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である!〜](https://ja.wikipedia.org/wiki/2007_桜満開_Berryz工房ライブ_〜この感動は二度とない瞬間である!〜)から翻訳されています。
 
 
 『**2007 桜満開 Berryz工房ライブ 〜この感動は二度とない瞬間である\!〜**』（にせんなな さくらまんかい ベリーズこうぼうライブ 〜このかんどうはにどとないしゅんかんである\!〜）は、[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて開催された[Berryz工房](../Page/Berryz工房.md "wikilink")としては初となるアリーナでのライヴである。
@@ -6,7 +6,7 @@
 ## 概要
 
   - 昼夜2公演が開催され初披露される未発表曲（昼公演は｢[サクラハラクサ](https://ja.wikipedia.org/wiki/サクラハラクサ "wikilink")｣、夜公演は｢[桜→入学式](https://ja.wikipedia.org/wiki/桜→入学式 "wikilink")｣）のCDが入場者に配布された。
-  - さいたまスーパーアリーナで単独公演を行うアーティストとしては最年少記録を達成（平均年齢13.8歳、これまでの記録は[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の先輩である[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")で平均16.3歳）。尚、同公演の一般チケットは発売日に即日完売した。
+  - さいたまスーパーアリーナで単独公演を行うアーティストとしては最年少記録を達成（平均年齢13.8歳、これまでの記録は[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の先輩である[モーニング娘。](../Page/モーニング娘。.md "wikilink")で平均16.3歳）。尚、同公演の一般チケットは発売日に即日完売した。
   - このライヴ映像は2007年6月3日にTBSチャンネルにて各メンバーのインタビューを交え放送された。
   - この公演をベースにしたコンサートがゴールデンウィークに愛知・大阪で『**Berryz工房コンサート2007春 〜続・桜満開 ゴールデンウィーク編〜**』と題し行われた。
 
@@ -20,8 +20,8 @@
 
 **Berryz工房コンサート2007春 〜続・桜満開 ゴールデンウィーク編〜**
 
-  - 5月4日：愛知・[愛知厚生年金会館](https://ja.wikipedia.org/wiki/愛知厚生年金会館 "wikilink")
-  - 5月6日：大阪・[大阪厚生年金会館大ホール](https://ja.wikipedia.org/wiki/オリックス劇場 "wikilink")
+  - 5月4日：愛知・[愛知厚生年金会館](../Page/愛知厚生年金会館.md "wikilink")
+  - 5月6日：大阪・[大阪厚生年金会館大ホール](../Page/オリックス劇場.md "wikilink")
 
 ## DVD
 
@@ -59,4 +59,4 @@
 
   - [ハロー！プロジェクト オフィシャルサイト リリース詳細](http://helloproject.com/release/detail/PKBP-5075/)
 
-[Category:ハロー\!プロジェクトのコンサート](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのコンサート "wikilink") [Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink") [Category:Berryz工房の映像作品](https://ja.wikipedia.org/wiki/Category:Berryz工房の映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:ハロー\!プロジェクトのコンサート](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのコンサート "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink") [Category:Berryz工房の映像作品](https://ja.wikipedia.org/wiki/Category:Berryz工房の映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

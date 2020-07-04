@@ -1,11 +1,11 @@
-> この記事は[NAR2](https://ja.wikipedia.org/wiki/NAR2)から翻訳されています。
+> この記事は[NARグランプリサラブレッド2歳最優秀馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド2歳最優秀馬)から翻訳されています。
 
 
 **NARグランプリサラブレッド2歳最優秀馬**は、[NARグランプリ](../Page/NARグランプリ.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した2歳馬が対象となる。創設は[1994年](../Page/1994年.md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に廃止された。なお、本項では本賞が廃止された直後の2011年より創設された**NARグランプリサラブレッド2歳最優秀牡馬**、**NARグランプリサラブレッド2歳最優秀牝馬**についても取り扱う。
 
 ## 歴代受賞馬
 
-[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")は2000年までは旧表記。
+[馬齢](../Page/馬齢.md "wikilink")は2000年までは旧表記。
 
 ### NARグランプリサラブレッド2歳最優秀馬
 
@@ -83,7 +83,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/レジェンドハンター" title="wikilink">レジェンドハンター</a></p></td>
 <td><p>牡3</p></td>
 <td><p>6戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/デイリー杯2歳ステークス" title="wikilink">デイリー杯3歳ステークス</a></p></td>
+<a href="../Page/デイリー杯2歳ステークス.md" title="wikilink">デイリー杯3歳ステークス</a></p></td>
 <td><p>カタオカ牧場</p></td>
 <td><p>笠松</p></td>
 <td><p>高田勝良</p></td>
@@ -91,7 +91,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トーシンブリザード" title="wikilink">トーシンブリザード</a></p></td>
+<td><p><a href="../Page/トーシンブリザード.md" title="wikilink">トーシンブリザード</a></p></td>
 <td><p>牡3</p></td>
 <td><p>3戦3勝<br />
 全日本3歳優駿</p></td>
@@ -106,17 +106,17 @@
 <td><p>牡2</p></td>
 <td><p>11戦4勝<br />
 <a href="../Page/全日本2歳優駿.md" title="wikilink">全日本2歳優駿</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
 <td><p>北海道</p></td>
 <td><p><a href="../Page/成田春男.md" title="wikilink">成田春男</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田照哉" title="wikilink">吉田照哉</a></p></td>
+<td><p><a href="../Page/吉田照哉.md" title="wikilink">吉田照哉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラックミラージュ" title="wikilink">ブラックミラージュ</a></p></td>
 <td><p>牡2</p></td>
 <td><p>7戦5勝<br />
-<a href="https://ja.wikipedia.org/wiki/北海道2歳優駿" title="wikilink">北海道2歳優駿</a></p></td>
+<a href="../Page/北海道2歳優駿.md" title="wikilink">北海道2歳優駿</a></p></td>
 <td><p>ビラトリファーム</p></td>
 <td><p>北海道</p></td>
 <td><p>林正夫</p></td>
@@ -124,10 +124,10 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コスモバルク" title="wikilink">コスモバルク</a></p></td>
+<td><p><a href="../Page/コスモバルク.md" title="wikilink">コスモバルク</a></p></td>
 <td><p>牡2</p></td>
 <td><p>6戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/ホープフルステークス_(中央競馬)" title="wikilink">ラジオたんぱ杯2歳ステークス</a></p></td>
+<a href="../Page/ホープフルステークス_(中央競馬).md" title="wikilink">ラジオたんぱ杯2歳ステークス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/加野牧場" title="wikilink">加野牧場</a></p></td>
 <td><p>北海道</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田部和則" title="wikilink">田部和則</a></p></td>
@@ -135,35 +135,35 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シーチャリオット" title="wikilink">シーチャリオット</a></p></td>
+<td><p><a href="../Page/シーチャリオット.md" title="wikilink">シーチャリオット</a></p></td>
 <td><p>牡2</p></td>
 <td><p>3戦2勝<br />
 <a href="https://ja.wikipedia.org/wiki/平和賞_(船橋競馬)" title="wikilink">平和賞</a></p></td>
 <td><p>Darley</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>ダーレー・ジャパン・レーシング（有）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/モエレソーブラッズ" title="wikilink">モエレソーブラッズ</a></p></td>
 <td><p>牡2</p></td>
 <td><p>6戦2勝<br />
-<a href="https://ja.wikipedia.org/wiki/兵庫ジュニアグランプリ" title="wikilink">兵庫ジュニアグランプリ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/白老ファーム" title="wikilink">白老ファーム</a></p></td>
+<a href="../Page/兵庫ジュニアグランプリ.md" title="wikilink">兵庫ジュニアグランプリ</a></p></td>
+<td><p><a href="../Page/白老ファーム.md" title="wikilink">白老ファーム</a></p></td>
 <td><p>北海道</p></td>
 <td><p><a href="../Page/堂山芳則.md" title="wikilink">堂山芳則</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村和夫" title="wikilink">中村和夫</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><a href="../Page/フリオーソ_(2004年生).md" title="wikilink">フリオーソ</a></p></td>
 <td><p>牡2</p></td>
 <td><p>4戦3勝<br />
 <a href="../Page/全日本2歳優駿.md" title="wikilink">全日本2歳優駿</a></p></td>
 <td><p>ハシモトファーム</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>ダーレー・ジャパン・レーシング（有）</p></td>
 </tr>
 <tr class="even">
@@ -171,7 +171,7 @@
 <td><p><a href="../Page/ディラクエ.md" title="wikilink">ディラクエ</a></p></td>
 <td><p>牡2</p></td>
 <td><p>7戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/北海道2歳優駿" title="wikilink">北海道2歳優駿</a></p></td>
+<a href="../Page/北海道2歳優駿.md" title="wikilink">北海道2歳優駿</a></p></td>
 <td><p>社台ファーム</p></td>
 <td><p>北海道</p></td>
 <td><p><a href="../Page/成田春男.md" title="wikilink">成田春男</a></p></td>
@@ -182,7 +182,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アンペア_(競走馬)" title="wikilink">アンペア</a></p></td>
 <td><p>牝2</p></td>
 <td><p>8戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/エーデルワイス賞" title="wikilink">エーデルワイス賞</a></p></td>
+<a href="../Page/エーデルワイス賞.md" title="wikilink">エーデルワイス賞</a></p></td>
 <td><p><a href="../Page/パカパカファーム.md" title="wikilink">パカパカファーム</a></p></td>
 <td><p>北海道</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/角川秀樹" title="wikilink">角川秀樹</a></p></td>
@@ -204,7 +204,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/カネマサコンコルド" title="wikilink">カネマサコンコルド</a></p></td>
 <td><p>牡2</p></td>
 <td><p>8戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/北海道2歳優駿" title="wikilink">北海道2歳優駿</a></p></td>
+<a href="../Page/北海道2歳優駿.md" title="wikilink">北海道2歳優駿</a></p></td>
 <td><p>小屋畑和久</p></td>
 <td><p>北海道</p></td>
 <td><p><a href="../Page/堂山芳則.md" title="wikilink">堂山芳則</a></p></td>
@@ -235,7 +235,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールドメダル" title="wikilink">ゴールドメダル</a></p></td>
 <td><p>牡2</p></td>
 <td><p>6戦2勝<br />
-<a href="https://ja.wikipedia.org/wiki/イノセントカップ" title="wikilink">イノセントカップ</a></p></td>
+<a href="../Page/イノセントカップ.md" title="wikilink">イノセントカップ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村和夫" title="wikilink">中村和夫</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホッカイドウ競馬" title="wikilink">北海道</a></p></td>
 <td><p>田中淳司</p></td>
@@ -246,19 +246,19 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジェネラルグラント" title="wikilink">ジェネラルグラント</a></p></td>
 <td><p>牡2</p></td>
 <td><p>7戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/サンライズカップ" title="wikilink">サンライズカップ</a>、<a href="../Page/全日本2歳優駿.md" title="wikilink">全日本2歳優駿</a>2着</p></td>
+<a href="../Page/サンライズカップ.md" title="wikilink">サンライズカップ</a>、<a href="../Page/全日本2歳優駿.md" title="wikilink">全日本2歳優駿</a>2着</p></td>
 <td><p><a href="../Page/ノーザンファーム.md" title="wikilink">ノーザンファーム</a></p></td>
 <td><p><a href="../Page/船橋競馬場.md" title="wikilink">船橋</a></p></td>
 <td><p><a href="../Page/出川克己.md" title="wikilink">出川克己</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンデーレーシング" title="wikilink">（有）サンデーレーシング</a></p></td>
+<td><p><a href="../Page/サンデーレーシング.md" title="wikilink">（有）サンデーレーシング</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハッピースプリント" title="wikilink">ハッピースプリント</a></p></td>
 <td><p>牡2</p></td>
 <td><p>7戦5勝<br />
-全日本2歳優駿、<a href="https://ja.wikipedia.org/wiki/北海道2歳優駿" title="wikilink">北海道2歳優駿</a>、<a href="https://ja.wikipedia.org/wiki/サンライズカップ" title="wikilink">サンライズカップ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/辻牧場" title="wikilink">辻牧場</a></p></td>
+全日本2歳優駿、<a href="../Page/北海道2歳優駿.md" title="wikilink">北海道2歳優駿</a>、<a href="../Page/サンライズカップ.md" title="wikilink">サンライズカップ</a></p></td>
+<td><p><a href="../Page/辻牧場.md" title="wikilink">辻牧場</a></p></td>
 <td><p>北海道</p></td>
 <td><p>田中淳司</p></td>
 <td><p>（有）辻牧場</p></td>
@@ -268,10 +268,10 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャジャウマナラシ" title="wikilink">ジャジャウマナラシ</a></p></td>
 <td><p>牡2</p></td>
 <td><p>10戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/兵庫ジュニアグランプリ" title="wikilink">兵庫ジュニアグランプリ</a></p></td>
+<a href="../Page/兵庫ジュニアグランプリ.md" title="wikilink">兵庫ジュニアグランプリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/堤牧場" title="wikilink">堤牧場</a></p></td>
 <td><p><a href="../Page/浦和競馬場.md" title="wikilink">浦和</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小久保智" title="wikilink">小久保智</a></p></td>
+<td><p><a href="../Page/小久保智.md" title="wikilink">小久保智</a></p></td>
 <td><p>上田江吏子</p></td>
 </tr>
 <tr class="odd">
@@ -289,7 +289,7 @@
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ローズジュレップ" title="wikilink">ローズジュレップ</a></p></td>
 <td><p>牡2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/兵庫ジュニアグランプリ" title="wikilink">兵庫ジュニアグランプリ</a>、全日本2歳優駿3着</p></td>
+<td><p><a href="../Page/兵庫ジュニアグランプリ.md" title="wikilink">兵庫ジュニアグランプリ</a>、全日本2歳優駿3着</p></td>
 <td></td>
 <td><p>北海道</p></td>
 <td><p>田中淳司</p></td>
@@ -309,7 +309,7 @@
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イグナシオドーロ" title="wikilink">イグナシオドーロ</a></p></td>
 <td><p>牡2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北海道2歳優駿" title="wikilink">北海道2歳優駿</a>、<a href="../Page/ブリーダーズゴールドジュニアカップ.md" title="wikilink">ブリーダーズゴールドジュニアカップ</a></p></td>
+<td><p><a href="../Page/北海道2歳優駿.md" title="wikilink">北海道2歳優駿</a>、<a href="../Page/ブリーダーズゴールドジュニアカップ.md" title="wikilink">ブリーダーズゴールドジュニアカップ</a></p></td>
 <td></td>
 <td><p>北海道</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/角川秀樹" title="wikilink">角川秀樹</a></p></td>
@@ -317,7 +317,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァケーション_(競走馬)" title="wikilink">ヴァケーション</a></p></td>
+<td><p><a href="../Page/ヴァケーション_(競走馬).md" title="wikilink">ヴァケーション</a></p></td>
 <td><p>牡2</p></td>
 <td><p>全日本2歳優駿</p></td>
 <td></td>
@@ -361,7 +361,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ハニーパイ" title="wikilink">ハニーパイ</a></p></td>
 <td><p>牝2</p></td>
 <td><p>9戦3勝<br />
-<a href="https://ja.wikipedia.org/wiki/エーデルワイス賞" title="wikilink">エーデルワイス賞</a>、<a href="https://ja.wikipedia.org/wiki/リリーカップ" title="wikilink">リリーカップ</a></p></td>
+<a href="../Page/エーデルワイス賞.md" title="wikilink">エーデルワイス賞</a>、<a href="../Page/リリーカップ.md" title="wikilink">リリーカップ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/グランド牧場" title="wikilink">グランド牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホッカイドウ競馬" title="wikilink">北海道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/角川秀樹" title="wikilink">角川秀樹</a></p></td>
@@ -384,17 +384,17 @@
 <td><p>牝2</p></td>
 <td><p>4戦3勝<br />
 東京2歳優駿牝馬、<a href="../Page/ローレル賞_(競馬のレース).md" title="wikilink">ローレル賞</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/社台ファーム" title="wikilink">社台ファーム</a></p></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
 <td><p>大井</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/荒山勝徳" title="wikilink">荒山勝徳</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉田照哉" title="wikilink">吉田照哉</a></p></td>
+<td><p><a href="../Page/吉田照哉.md" title="wikilink">吉田照哉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タイニーダンサー" title="wikilink">タイニーダンサー</a></p></td>
 <td><p>牝2</p></td>
 <td><p>8戦5勝<br />
-エーデルワイス賞、<a href="https://ja.wikipedia.org/wiki/北海道2歳優駿" title="wikilink">北海道2歳優駿</a>、<a href="https://ja.wikipedia.org/wiki/栄冠賞" title="wikilink">栄冠賞</a>、<a href="https://ja.wikipedia.org/wiki/フローラルカップ" title="wikilink">フローラルカップ</a></p></td>
+エーデルワイス賞、<a href="../Page/北海道2歳優駿.md" title="wikilink">北海道2歳優駿</a>、<a href="../Page/栄冠賞.md" title="wikilink">栄冠賞</a>、<a href="../Page/フローラルカップ.md" title="wikilink">フローラルカップ</a></p></td>
 <td><p>グランド牧場</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホッカイドウ競馬" title="wikilink">北海道</a></p></td>
 <td><p>角川秀樹</p></td>
@@ -414,7 +414,7 @@
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ストロングハート" title="wikilink">ストロングハート</a></p></td>
 <td><p>牝2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エーデルワイス賞" title="wikilink">エーデルワイス賞</a></p></td>
+<td><p><a href="../Page/エーデルワイス賞.md" title="wikilink">エーデルワイス賞</a></p></td>
 <td></td>
 <td><p>北海道</p></td>
 <td><p>角川秀樹</p></td>
@@ -445,7 +445,7 @@
 
 ## 受賞についての出典
 
-  - [NARグランプリ](http://www.keiba.go.jp/about/grandprix.html)
-      - [ＮＡＲグランプリ歴代受賞者一覧](http://www.keiba.go.jp/about/grandprix_award.html)
+  - [NARグランプリ](https://www.keiba.go.jp/about/grandprix.html)
+      - [ＮＡＲグランプリ歴代受賞者一覧](https://www.keiba.go.jp/about/grandprix_award.html)
 
 [Category:NARグランプリ](https://ja.wikipedia.org/wiki/Category:NARグランプリ "wikilink")

@@ -1,7 +1,7 @@
-> この記事は[SYMRV](https://ja.wikipedia.org/wiki/SYMRV)から翻訳されています。
+> この記事は[SYM・RV](https://ja.wikipedia.org/wiki/SYM・RV)から翻訳されています。
 
 
-**SYM・RV**とは[SYM](https://ja.wikipedia.org/wiki/SYM "wikilink")が販売する[スクーター](https://ja.wikipedia.org/wiki/スクーター "wikilink")タイプの[オートバイ](../Page/オートバイ.md "wikilink")である。
+**SYM・RV**とは[SYM](../Page/SYM.md "wikilink")が販売する[スクーター](../Page/スクーター.md "wikilink")タイプの[オートバイ](../Page/オートバイ.md "wikilink")である。
 
 ## モデル一覧
 
@@ -9,16 +9,16 @@
 
 [原付](https://ja.wikipedia.org/wiki/原付 "wikilink")2種クラスにしてビッグスクータータイプのデザインを採用したモデルであり、国産では手に入らないデザインで人気のスクーターである。原付2種の特徴である維持費の安さと250ccクラスの特徴である車格をうまく取り入れ、幅広い世代から支持を受けている。台湾は2002年以前、排気量規制により150ccまでのオートバイしか生産できなかった。そのため台湾のオートバイメーカーは150cc以下のバイクを得意としており、上級車種である[RV250](https://ja.wikipedia.org/wiki/RV250 "wikilink")に比べ初期不良が少ない。
 
-競合車種は台湾山葉の[マジェスティ125](https://ja.wikipedia.org/wiki/ヤマハ・マジェスティ "wikilink")、[キムコ](https://ja.wikipedia.org/wiki/キムコ "wikilink")の[グランドディンク125](https://ja.wikipedia.org/wiki/キムコ・グランドディンク "wikilink")・[ディンク125](https://ja.wikipedia.org/wiki/ディンク125 "wikilink")。125ccビッグスクーターというカテゴリの中ではマジェスティに次いで日本のシェア第2位の車種である（グランドディンク・ディンクには大きく水を開けてのシェア第2位。（Web版バイクブロス車種別ランキング））。
+競合車種は台湾山葉の[マジェスティ125](../Page/ヤマハ・マジェスティ.md "wikilink")、[キムコ](../Page/キムコ.md "wikilink")の[グランドディンク125](https://ja.wikipedia.org/wiki/キムコ・グランドディンク "wikilink")・[ディンク125](https://ja.wikipedia.org/wiki/ディンク125 "wikilink")。125ccビッグスクーターというカテゴリの中ではマジェスティに次いで日本のシェア第2位の車種である（グランドディンク・ディンクには大きく水を開けてのシェア第2位。（Web版バイクブロス車種別ランキング））。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")よりインジェクションタイプのRV125EFIが発売される。
+  - [2005年](../Page/2005年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")よりインジェクションタイプのRV125EFIが発売される。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")にキャブレタータイプのRV125JPの製造を中止すると発表。今後のRV125のメインはインジェクションタイプとなる。（2008年に強化された日本の[自動車排ガス規制](https://ja.wikipedia.org/wiki/自動車排ガス規制 "wikilink")対応のため。）
 
 ### RV180
 
 [普通自動二輪](https://ja.wikipedia.org/wiki/普通自動二輪 "wikilink")クラスに分類されるオートバイである。
 
-車両はRV125と同じものを使用しており、RV125の上級車種という位置づけである。エンジンもRV125のボアアップ仕様である。競合車種は[キムコ](https://ja.wikipedia.org/wiki/キムコ "wikilink")の[グランドディンク150](https://ja.wikipedia.org/wiki/キムコ・グランドディンク "wikilink")。180ccという排気量の為普通自動二輪扱いとなり、維持費がかかるためRV125に比べやや人気は劣る。しかし、[高速道路](../Page/高速道路.md "wikilink")も走れる排気量ながら取り回しのよい車格であり、大都市圏、特に[東京](../Page/東京.md "wikilink")では[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")があるため、利便性が大いに評価されている。
+車両はRV125と同じものを使用しており、RV125の上級車種という位置づけである。エンジンもRV125のボアアップ仕様である。競合車種は[キムコ](../Page/キムコ.md "wikilink")の[グランドディンク150](https://ja.wikipedia.org/wiki/キムコ・グランドディンク "wikilink")。180ccという排気量の為普通自動二輪扱いとなり、維持費がかかるためRV125に比べやや人気は劣る。しかし、[高速道路](../Page/高速道路.md "wikilink")も走れる排気量ながら取り回しのよい車格であり、大都市圏、特に[東京](../Page/東京.md "wikilink")では[首都高速道路](https://ja.wikipedia.org/wiki/首都高速道路 "wikilink")があるため、利便性が大いに評価されている。
 
 ### RV250
 

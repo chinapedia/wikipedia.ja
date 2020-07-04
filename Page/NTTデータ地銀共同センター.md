@@ -9,7 +9,7 @@
 
 ## 採用行
 
-2014年5月現在 14行。
+2020年1月現在 14行。
 
   - 　[京都銀行](../Page/京都銀行.md "wikilink")（2004年1月 稼働開始）
   - 　[千葉興業銀行](../Page/千葉興業銀行.md "wikilink")（2004年10月 稼働開始\[3\]）
@@ -21,11 +21,22 @@
   - 　[北越銀行](../Page/北越銀行.md "wikilink")(2009年5月6日 稼働開始\[9\])→[第四北越フィナンシャルグループ](https://ja.wikipedia.org/wiki/第四北越フィナンシャルグループ "wikilink")として、[第四銀行](../Page/第四銀行.md "wikilink")と合併時に第四銀行が採用済みのTSUBASA（翼）プロジェクトへ移行する予定。
   - 　[秋田銀行](../Page/秋田銀行.md "wikilink")(2010年5月6日 稼働開始\[10\])
   - 　[四国銀行](../Page/四国銀行.md "wikilink")(2011年1月4日 稼働開始\[11\])
-  - 　[足利銀行](../Page/足利銀行.md "wikilink")(2011年7月19日　稼働開始\[12\])→[めぶきフィナンシャルグループ](https://ja.wikipedia.org/wiki/めぶきフィナンシャルグループ "wikilink")として、[常陽銀行](../Page/常陽銀行.md "wikilink")が採用済みの「Chanceプロジェクト」へ2020年1月6日に移行し、NTTデータ地銀共同センターを離脱する。
-  - 　[鳥取銀行](../Page/鳥取銀行.md "wikilink")(2012年5月7日 稼働開始\[13\])
-  - 　[西日本シティ銀行](../Page/西日本シティ銀行.md "wikilink")(2013年1月4日 稼働開始\[14\])
-  - 　[大分銀行](../Page/大分銀行.md "wikilink")(2013年5月7日 稼働開始\[15\]\[16\])
+
+<!-- end list -->
+
+  - 　[鳥取銀行](../Page/鳥取銀行.md "wikilink")(2012年5月7日 稼働開始\[12\])
+  - 　[西日本シティ銀行](../Page/西日本シティ銀行.md "wikilink")(2013年1月4日 稼働開始\[13\])
+  - 　[大分銀行](../Page/大分銀行.md "wikilink")(2013年5月7日 稼働開始\[14\]\[15\])
   - 　[山陰合同銀行](../Page/山陰合同銀行.md "wikilink")(2020年1月5日 稼働開始)
+
+<!-- end list -->
+
+  - 離脱
+
+<!-- end list -->
+
+  - [荘内銀行](../Page/荘内銀行.md "wikilink")（2006年5月6日 稼働開始。詳細は後述）
+  - [足利銀行](../Page/足利銀行.md "wikilink")（2011年7月19日 稼働開始\[16\]）→[めぶきフィナンシャルグループ](https://ja.wikipedia.org/wiki/めぶきフィナンシャルグループ "wikilink")として、[常陽銀行](../Page/常陽銀行.md "wikilink")が採用済みの「Chanceプロジェクト」へ2020年1月6日に移行し、NTTデータ地銀共同センターを離脱した。
 
 ### 補遺
 
@@ -69,11 +80,11 @@
 9.  [北越銀行が、NTTデータ地銀共同センターへの参加を決定](http://www.nttdata.com/jp/ja/news/release/2006/090600.html) 株式会社NTTデータ 2006年9月6日
 10. [NTTデータ地銀共同センター　 秋田銀行向けサービス開始](http://www.nttdata.com/jp/ja/news/release/2010/050600.html) 株式会社NTTデータ 2010年5月6日
 11. [NTTデータ地銀共同センター　四国銀行向けサービス開始](http://www.nttdata.com/jp/ja/news/release/2011/010401.html) 株式会社NTTデータ 2011年1月4日
-12. [足利銀行がNTTデータ地銀共同センターに参加を決定](http://www.nttdata.com/jp/ja/news/release/2008/040400.html) 株式会社NTTデータ 2008年4月4日
-13. [鳥取銀行がNTTデータ地銀共同センターに参加を決定](http://www.nttdata.com/jp/ja/news/release/2009/070300.html) 株式会社NTTデータ 2009年7月3日
-14. 　株式会社西日本シティ銀行　平成21年5月28日
-15. [大分銀行がNTTデータ地銀共同センターに参加を決定](http://www.nttdata.com/jp/ja/news/release/2010/060100.html) 株式会社NTTデータ 2010年6月1日
-16. [NTTデータ地銀共同センター 大分銀行向けサービス開始～地銀・第二地銀向け共同利用型センターとして国内最大の15銀行に拡大～](http://www.nttdata.com/jp/ja/news/release/2013/050701.html)NTTデータ 2013年5月7日
+12. [鳥取銀行がNTTデータ地銀共同センターに参加を決定](http://www.nttdata.com/jp/ja/news/release/2009/070300.html) 株式会社NTTデータ 2009年7月3日
+13. 　株式会社西日本シティ銀行　平成21年5月28日
+14. [大分銀行がNTTデータ地銀共同センターに参加を決定](http://www.nttdata.com/jp/ja/news/release/2010/060100.html) 株式会社NTTデータ 2010年6月1日
+15. [NTTデータ地銀共同センター 大分銀行向けサービス開始～地銀・第二地銀向け共同利用型センターとして国内最大の15銀行に拡大～](http://www.nttdata.com/jp/ja/news/release/2013/050701.html)NTTデータ 2013年5月7日
+16. [足利銀行がNTTデータ地銀共同センターに参加を決定](http://www.nttdata.com/jp/ja/news/release/2008/040400.html) 株式会社NTTデータ 2008年4月4日
 17. 参加表明当初は、合併前の[西日本銀行](../Page/西日本銀行.md "wikilink")。[2003年](../Page/2003年.md "wikilink")から3年以内の移行を目標としていた。実際の移行は大きく遅れ、[2013年](../Page/2013年.md "wikilink")1月4日稼働。
 18. 明確な移行予定は暫く呈示されていなかったが、[2011年](../Page/2011年.md "wikilink")1月4日稼働。
 19. [新システム運用開始のお知らせ](http://www.shikokubank.co.jp/newsrelease/article.php?id=121) 株式会社四国銀行　2011年1月4日

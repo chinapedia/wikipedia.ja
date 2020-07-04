@@ -31,7 +31,7 @@
 
 **Dash 9-44CW**（C44-9W）は、1993年から2004年まで製造された4400馬力の機関車であり、Dash 9の代名詞的存在である。
 
-[シカゴ・アンド・ノースウェスタン鉄道](https://ja.wikipedia.org/wiki/シカゴ・アンド・ノースウェスタン鉄道 "wikilink")、[アッチソン・トピカ・アンド・サンタフェ鉄道](https://ja.wikipedia.org/wiki/アッチソン・トピカ・アンド・サンタフェ鉄道 "wikilink")、その後身である[BNSF鉄道](https://ja.wikipedia.org/wiki/BNSF鉄道 "wikilink")、[CSXトランスポーテーション](https://ja.wikipedia.org/wiki/CSXトランスポーテーション "wikilink")、[サザン・パシフィック鉄道](https://ja.wikipedia.org/wiki/サザン・パシフィック鉄道 "wikilink")、[カナディアン・パシフィック鉄道](https://ja.wikipedia.org/wiki/カナディアン・パシフィック鉄道 "wikilink")、[BCレール](https://ja.wikipedia.org/wiki/BCレール "wikilink")、[ユニオン・パシフィック鉄道](https://ja.wikipedia.org/wiki/ユニオン・パシフィック鉄道 "wikilink")といった多くの北アメリカの鉄道事業者が導入した。
+[シカゴ・アンド・ノースウェスタン鉄道](https://ja.wikipedia.org/wiki/シカゴ・アンド・ノースウェスタン鉄道 "wikilink")、[アッチソン・トピカ・アンド・サンタフェ鉄道](../Page/アッチソン・トピカ・アンド・サンタフェ鉄道.md "wikilink")、その後身である[BNSF鉄道](../Page/BNSF鉄道.md "wikilink")、[CSXトランスポーテーション](../Page/CSXトランスポーテーション.md "wikilink")、[サザン・パシフィック鉄道](../Page/サザン・パシフィック鉄道.md "wikilink")、[カナディアン・パシフィック鉄道](https://ja.wikipedia.org/wiki/カナディアン・パシフィック鉄道 "wikilink")、[BCレール](https://ja.wikipedia.org/wiki/BCレール "wikilink")、[ユニオン・パシフィック鉄道](../Page/ユニオン・パシフィック鉄道.md "wikilink")といった多くの北アメリカの鉄道事業者が導入した。
 
 現在は鉄道車両の排出規制により、後継機種として[ES44DCがラインナップされている](../Page/GE_エボリューション・シリーズ.md "wikilink")。
 

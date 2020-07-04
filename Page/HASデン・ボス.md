@@ -1,11 +1,11 @@
-> この記事は[HAS](https://ja.wikipedia.org/wiki/HAS)から翻訳されています。
+> この記事は[HASデン・ボス](https://ja.wikipedia.org/wiki/HASデン・ボス)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HAS_Den_Bosch.jpg "wikilink") **HASデン・ボス**（**HAS Den Bosch University of Applied Sciences**）は[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[北ブラバント州](https://ja.wikipedia.org/wiki/北ブラバント州 "wikilink")、[スヘルトーヘンボス](../Page/スヘルトーヘンボス.md "wikilink")にある高等[職業教育](https://ja.wikipedia.org/wiki/職業教育 "wikilink")機関（[職業大学](https://ja.wikipedia.org/wiki/職業大学 "wikilink")）。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HAS_Den_Bosch.jpg "wikilink") **HASデン・ボス**（**HAS Den Bosch University of Applied Sciences**）は[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[北ブラバント州](../Page/北ブラバント州.md "wikilink")、[スヘルトーヘンボス](../Page/スヘルトーヘンボス.md "wikilink")にある高等[職業教育](../Page/職業教育.md "wikilink")機関（[職業大学](https://ja.wikipedia.org/wiki/職業大学 "wikilink")）。
 
 2005年度時点の学生数は1,416人（内、交換留学生を含む外国人は50人）。スタッフ数186人。
 
-高等教育の場としてだけではなく、食品業、農業、園芸業の専門情報機関、およびそのトレーニング機関としての役割を果たしており、民間企業（[ユニリーバ](https://ja.wikipedia.org/wiki/ユニリーバ "wikilink")、[ハイネケン](https://ja.wikipedia.org/wiki/ハイネケン "wikilink")等）や政府機関へのコンサルタント業務や調査業務も提供している。
+高等教育の場としてだけではなく、食品業、農業、園芸業の専門情報機関、およびそのトレーニング機関としての役割を果たしており、民間企業（[ユニリーバ](../Page/ユニリーバ.md "wikilink")、[ハイネケン](../Page/ハイネケン.md "wikilink")等）や政府機関へのコンサルタント業務や調査業務も提供している。
 
 ## 学群・学系
 

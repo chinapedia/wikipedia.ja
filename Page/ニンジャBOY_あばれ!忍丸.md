@@ -1,13 +1,13 @@
-> この記事は[BOY !](https://ja.wikipedia.org/wiki/BOY_!)から翻訳されています。
+> この記事は[ニンジャBOY あばれ!忍丸](https://ja.wikipedia.org/wiki/ニンジャBOY_あばれ!忍丸)から翻訳されています。
 
 
-『**ニンジャBOY あばれ\!忍丸**』（にんじゃぼーい あばれにんまる）は、『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』[1991年](../Page/1991年.md "wikilink")6月号から[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")3月号まで連載された[菊池モモタロー](https://ja.wikipedia.org/wiki/菊池モモタロー "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。単行本全2巻。
+『**ニンジャBOY あばれ\!忍丸**』（にんじゃぼーい あばれにんまる）は、『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』[1991年](../Page/1991年.md "wikilink")6月号から[1992年](../Page/1992年.md "wikilink")3月号まで連載された[菊池モモタロー](https://ja.wikipedia.org/wiki/菊池モモタロー "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。単行本全2巻。
 
 ## 概要
 
-近未来を舞台としたハイテクノロジー社会と、忍者の世界観を融合させた[忍者](https://ja.wikipedia.org/wiki/忍者 "wikilink")アクション作品。
+近未来を舞台としたハイテクノロジー社会と、忍者の世界観を融合させた[忍者](../Page/忍者.md "wikilink")アクション作品。
 
-作画に新人漫画家の菊池モモタロー、原作にアニメ脚本家である[富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")、企画構成にマルチクリエイター[広井王子](https://ja.wikipedia.org/wiki/広井王子 "wikilink")率いるレッドカンパニー（現[レッド・エンタテインメント](https://ja.wikipedia.org/wiki/レッド・エンタテインメント "wikilink")）という、当時の連載作品の中でも一風変わったグループでの製作隊形を取っている。
+作画に新人漫画家の菊池モモタロー、原作にアニメ脚本家である[富田祐弘](../Page/富田祐弘.md "wikilink")、企画構成にマルチクリエイター[広井王子](../Page/広井王子.md "wikilink")率いるレッドカンパニー（現[レッド・エンタテインメント](../Page/レッド・エンタテインメント.md "wikilink")）という、当時の連載作品の中でも一風変わったグループでの製作隊形を取っている。
 
 なお、単行本第2巻には打ち切りによる連載終了で発表されなかった、ルーン島を舞台とした物語の結末部分が23ページに渡って補完されている。
 

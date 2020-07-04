@@ -1,7 +1,7 @@
-> この記事は[ \(KCO\)](https://ja.wikipedia.org/wiki/_\(KCO\))から翻訳されています。
+> この記事は[春の雪 \(KCOの曲\)](https://ja.wikipedia.org/wiki/春の雪_\(KCOの曲\))から翻訳されています。
 
 
-**春の雪**（はるのゆき）は、[KCOの](https://ja.wikipedia.org/wiki/KEIKO "wikilink")[シングル](../Page/シングル.md "wikilink")である。
+**春の雪**（はるのゆき）は、[KCOの](../Page/KEIKO.md "wikilink")[シングル](../Page/シングル.md "wikilink")である。
 
 ## 解説
 

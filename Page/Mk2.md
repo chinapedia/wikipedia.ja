@@ -3,14 +3,14 @@
 
 **mk2**（エムケーツー）は家庭用・携帯用のゲームソフトを中心として[レビュー](https://ja.wikipedia.org/wiki/レビュー "wikilink")をするサイト。
 
-[2000年](../Page/2000年.md "wikilink")に[PS2用ソフトをレビューするmk](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2が開設。[2017年](../Page/2017年.md "wikilink")現在、以下の[プラットフォーム](https://ja.wikipedia.org/wiki/プラットフォーム "wikilink")向けのサイトが開設されている。
+[2000年](../Page/2000年.md "wikilink")に[PS2用ソフトをレビューするmk](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2が開設。[2017年](../Page/2017年.md "wikilink")現在、以下の[プラットフォーム](../Page/プラットフォーム.md "wikilink")向けのサイトが開設されている。
 
   - 任天堂
 
 <!-- end list -->
 
   - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")\[1\]、[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")\[2\]、[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")
-  - [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")\[3\]
+  - [ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")、[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")\[3\]
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")
-  - [PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")
+  - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 
 一般ゲーム雑誌やゲーム紹介サイトのように、（自称）ゲーム専門家やスタッフなどごく少人数で[主観](https://ja.wikipedia.org/wiki/主観 "wikilink")の混じった[レビュー](https://ja.wikipedia.org/wiki/レビュー "wikilink")をするのではなく、ソフトをプレイした、全国の一般プレイヤーが自ら参加・執筆しレビューを行う。
 
-[大本営発表](https://ja.wikipedia.org/wiki/大本営発表 "wikilink")やメーカーによる介入などが発生しやすい、企業によるレビューよりも多数のユーザーが実際にプレイし、レビューを行うシステムや恣意的・悪意が見られるレビューを排除するなど極力中立的かつ多角度から見ることができるシステムが評価され、一部ソフトのパッケージやポスターなどの販促物の他、雑誌広告にこのサイトの評価が印字されていたケースがある。
+[大本営発表](../Page/大本営発表.md "wikilink")やメーカーによる介入などが発生しやすい、企業によるレビューよりも多数のユーザーが実際にプレイし、レビューを行うシステムや恣意的・悪意が見られるレビューを排除するなど極力中立的かつ多角度から見ることができるシステムが評価され、一部ソフトのパッケージやポスターなどの販促物の他、雑誌広告にこのサイトの評価が印字されていたケースがある。
 
 ## レビューシステム
 
@@ -46,11 +46,11 @@
 <!-- end list -->
 
   -
-    投稿時には[リモートホスト](https://ja.wikipedia.org/wiki/リモートホスト "wikilink")や[IPアドレス](../Page/IPアドレス.md "wikilink")が取得されるため、ゲームメーカーまたは関連会社などから投稿されたものと判明すれば工作行為とみなされ、掲載されない。
+    投稿時には[リモートホスト](../Page/リモートホスト.md "wikilink")や[IPアドレス](../Page/IPアドレス.md "wikilink")が取得されるため、ゲームメーカーまたは関連会社などから投稿されたものと判明すれば工作行為とみなされ、掲載されない。
 
 <!-- end list -->
 
-  - （タイトル自体は多くないが）18歳未満のユーザーが[CEROのレーティングで](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")[「Z」（18才以上のみ対象）に区分されているソフトをレビューすること](https://ja.wikipedia.org/wiki/CEROレーティング18才以上のみ対象ソフトの一覧 "wikilink")
+  - （タイトル自体は多くないが）18歳未満のユーザーが[CEROのレーティングで](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[「Z」（18才以上のみ対象）に区分されているソフトをレビューすること](../Page/CEROレーティング18才以上のみ対象ソフトの一覧.md "wikilink")
 
 などは禁止されている。
 
@@ -88,9 +88,9 @@ Xbox360 mk2やPlayStation mk2の運営者はレビューについて参考にす
 
   - レビュアーの傾向
 
-1人あたり平均3件以下の投稿が大部分のために、[ライトユーザー](https://ja.wikipedia.org/wiki/ライトユーザー "wikilink")が多いと思われる。そのためRPGや大作、シリーズ物にレビュー数が隔たっている。
+1人あたり平均3件以下の投稿が大部分のために、[ライトユーザー](../Page/ライトユーザー.md "wikilink")が多いと思われる。そのためRPGや大作、シリーズ物にレビュー数が隔たっている。
 
-[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")や[バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")などで配信されている過去のタイトルと最近のタイトルでは、レビューや点数の傾向が異なる場合がある。
+[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")や[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")などで配信されている過去のタイトルと最近のタイトルでは、レビューや点数の傾向が異なる場合がある。
 
   - レビュー工作について
 
@@ -163,7 +163,7 @@ Xbox360 mk2やPlayStation mk2の運営者はレビューについて参考にす
 
 [Category:コンピュータゲームのウェブサイト](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのウェブサイト "wikilink")
 
-1.  [バーチャルコンソール](https://ja.wikipedia.org/wiki/バーチャルコンソール "wikilink")で配信されるソフトもレビューしている。
+1.  [バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")で配信されるソフトもレビューしている。
 2.
 3.
 4.  [Playstation mk2 規約 点数の付け方の注意点](http://psmk2.sub.jp/start/index3.html#6)

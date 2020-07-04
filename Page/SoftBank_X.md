@@ -5,15 +5,15 @@
 
 ## 他のSoftBank 3G端末との違い
 
-  - パケット通信は[PCサイトダイレクト](https://ja.wikipedia.org/wiki/PCサイトダイレクト "wikilink")扱いとなるため、パケット定額サービスは[パケットし放題 for スマートフォンまたは](https://ja.wikipedia.org/wiki/パケットし放題 "wikilink")[パケットし放題](https://ja.wikipedia.org/wiki/パケットし放題 "wikilink")フラットの利用が推奨される（通常の[パケットし放題](https://ja.wikipedia.org/wiki/パケットし放題 "wikilink")または[パケットし放題](https://ja.wikipedia.org/wiki/パケットし放題 "wikilink")Sも利用できるが上限額が高い）。
+  - パケット通信は[PCサイトダイレクト](https://ja.wikipedia.org/wiki/PCサイトダイレクト "wikilink")扱いとなるため、パケット定額サービスは[パケットし放題 for スマートフォンまたは](../Page/パケットし放題.md "wikilink")[パケットし放題](../Page/パケットし放題.md "wikilink")フラットの利用が推奨される（通常の[パケットし放題](../Page/パケットし放題.md "wikilink")または[パケットし放題](../Page/パケットし放題.md "wikilink")Sも利用できるが上限額が高い）。
   - SoftBank 3G 携帯電話向けサービスのほとんどが使えない（例：[着うた](../Page/着うた.md "wikilink")の購入等）。
       - [Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")の、ウェブやS\!アプリなどほとんどのサービスが利用不可能（S\!メール送受信はできる）。
       - [TVコール](https://ja.wikipedia.org/wiki/TVコール "wikilink")（一部機種）（X01NK、X04HT、X05HT、X02T、X01SC以外）のみ対応。X03HT以降のHTC製端末およびX02Tは[デコレメール](https://ja.wikipedia.org/wiki/デコレメール "wikilink")対応(受信のみ)。
-      - [S\!GPSナビ](https://ja.wikipedia.org/wiki/S!GPSナビ "wikilink")は、GPS搭載機種（X02NK、X02T、X04HT、X05HT、X06HT(X06HTII)）であっても非対応。
+      - [S\!GPSナビ](../Page/S!GPSナビ.md "wikilink")は、GPS搭載機種（X02NK、X02T、X04HT、X05HT、X06HT(X06HTII)）であっても非対応。
   - 日本の一般的な携帯電話よりも、海外の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")に近い。
-  - 海外では、[2.1GHz帯](https://ja.wikipedia.org/wiki/2.1GHz帯 "wikilink")以外のUMTS周波数帯が使える機種もある（一般の[SoftBank 3G機種は](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")、2009年3月時点では存在しない）。
+  - 海外では、[2.1GHz帯](https://ja.wikipedia.org/wiki/2.1GHz帯 "wikilink")以外のUMTS周波数帯が使える機種もある（一般の[SoftBank 3G機種は](../Page/SoftBank_3G.md "wikilink")、2009年3月時点では存在しない）。
   - [GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")850MHz帯を含めたクワッドバンドの機種もある。
-  - [緊急地震速報](https://ja.wikipedia.org/wiki/緊急地震速報 "wikilink")・[緊急速報メールに対応した機種はない](https://ja.wikipedia.org/wiki/緊急速報メール_\(SoftBank\) "wikilink")（当初は、X06HT、X06HTIIについては、アップデート対応で検討されていたが、[2012年](../Page/2012年.md "wikilink")[6月](../Page/6月.md "wikilink")に非対応とすることを明らかにした）。
+  - [緊急地震速報](../Page/緊急地震速報.md "wikilink")・[緊急速報メールに対応した機種はない](https://ja.wikipedia.org/wiki/緊急速報メール_\(SoftBank\) "wikilink")（当初は、X06HT、X06HTIIについては、アップデート対応で検討されていたが、[2012年](../Page/2012年.md "wikilink")[6月](../Page/6月.md "wikilink")に非対応とすることを明らかにした）。
 
 ## SoftBank スマートフォン端末との違い
 
@@ -21,7 +21,7 @@
 
 ## 端末一覧
 
-使用OSは[Windows Mobile](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")・[Symbian OS](https://ja.wikipedia.org/wiki/Symbian_OS "wikilink") [S60](https://ja.wikipedia.org/wiki/Series_60 "wikilink")・[Android](../Page/Android.md "wikilink")に分かれる。厳密には、上述したように新型番の機種は、「[SoftBank スマートフォン](https://ja.wikipedia.org/wiki/SoftBank_スマートフォン "wikilink")」の扱いとなる。
+使用OSは[Windows Mobile](https://ja.wikipedia.org/wiki/Microsoft_Windows_CE "wikilink")・[Symbian OS](../Page/Symbian_OS.md "wikilink") [S60](https://ja.wikipedia.org/wiki/Series_60 "wikilink")・[Android](../Page/Android.md "wikilink")に分かれる。厳密には、上述したように新型番の機種は、「[SoftBank スマートフォン](https://ja.wikipedia.org/wiki/SoftBank_スマートフォン "wikilink")」の扱いとなる。
 
 <table>
 <thead>
@@ -46,9 +46,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/SoftBank_X01HT" title="wikilink">SoftBank X01HT</a><br />
+<td><p><a href="../Page/SoftBank_X01HT.md" title="wikilink">SoftBank X01HT</a><br />
 (HTC TyTn)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HTC_(企業)" title="wikilink">HTC</a></p></td>
+<td><p><a href="../Page/HTC_(企業).md" title="wikilink">HTC</a></p></td>
 <td><p>2006年10月14日</p></td>
 <td><p>スライド<br />
 <a href="https://ja.wikipedia.org/wiki/QWERTY" title="wikilink">QWERTY</a>キー</p></td>
@@ -57,7 +57,7 @@
 <a href="../Page/W-CDMA.md" title="wikilink">W-CDMA</a>(1900/2100)<br />
 <a href="https://ja.wikipedia.org/wiki/GSM" title="wikilink">GSM</a>(900/1800/1900)<br />
 <a href="../Page/無線LAN.md" title="wikilink">無線LAN</a>(IEEE 802.11b/g)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Bluetooth" title="wikilink">Bluetooth</a><br />
+<td><p><a href="../Page/Bluetooth.md" title="wikilink">Bluetooth</a><br />
 <a href="../Page/IrDA.md" title="wikilink">赤外線通信</a></p></td>
 </tr>
 <tr class="odd">
@@ -72,7 +72,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SoftBank_X01NK" title="wikilink">SoftBank X01NK</a><br />
 (Nokia E61)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノキア" title="wikilink">ノキア</a></p></td>
+<td><p><a href="../Page/ノキア.md" title="wikilink">ノキア</a></p></td>
 <td><p>2007年3月26日</p></td>
 <td><p>ストレート<br />
 QWERTYキー</p></td>
@@ -110,7 +110,7 @@ GSM(850/900/1800/1900)<br />
 <tr class="odd">
 <td><p><a href="../Page/SoftBank_X01T.md" title="wikilink">SoftBank X01T</a><br />
 (G900)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東芝" title="wikilink">東芝</a></p></td>
+<td><p><a href="../Page/東芝.md" title="wikilink">東芝</a></p></td>
 <td><p>2007年12月8日</p></td>
 <td><p>横スライド<br />
 QWERTYキー</p></td>
@@ -133,7 +133,7 @@ GSM(900/1800/1900)<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/SoftBank_X02NK" title="wikilink">SoftBank X02NK</a><br />
+<td><p><a href="../Page/SoftBank_X02NK.md" title="wikilink">SoftBank X02NK</a><br />
 (<a href="https://ja.wikipedia.org/wiki/Nokia_N95" title="wikilink">Nokia N95</a>)</p></td>
 <td><p>ノキア</p></td>
 <td><p>2008年4月25日</p></td>
@@ -260,7 +260,7 @@ GSM(850/900/1800/1900)<br />
 <td><p>GPS<br />
 Bluetooth<br />
 FMラジオ<br />
-<a href="https://ja.wikipedia.org/wiki/緊急地震速報" title="wikilink">緊急地震速報</a></p></td>
+<a href="../Page/緊急地震速報.md" title="wikilink">緊急地震速報</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年冬-2011年春モデル</p></td>
@@ -302,7 +302,7 @@ GSM(850/900/1800/1900)<br />
 Bluetooth<br />
 赤外線通信<br />
 <a href="../Page/FeliCa.md" title="wikilink">FeliCa</a><br />
-<a href="https://ja.wikipedia.org/wiki/ワンセグ" title="wikilink">ワンセグ</a><br />
+<a href="../Page/ワンセグ.md" title="wikilink">ワンセグ</a><br />
 緊急地震速報</p></td>
 </tr>
 <tr class="odd">
@@ -407,7 +407,7 @@ FeliCa<br />
 <tr class="odd">
 <td><p>Sweety<br />
 <a href="https://ja.wikipedia.org/wiki/SoftBank_003P" title="wikilink">SoftBank 003P</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ" title="wikilink">パナソニック</a></p></td>
+<td><p><a href="../Page/パナソニック_モバイルコミュニケーションズ.md" title="wikilink">パナソニック</a></p></td>
 <td><p>2011年8月12日</p></td>
 <td><p>ストレート</p></td>
 <td><p>Android 2.3</p></td>
@@ -547,7 +547,7 @@ FeliCa<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/LUMIX" title="wikilink">LUMIX Phone</a><br />
+<td><p><a href="../Page/LUMIX.md" title="wikilink">LUMIX Phone</a><br />
 <a href="https://ja.wikipedia.org/wiki/SoftBank_101P" title="wikilink">SoftBank 101P</a></p></td>
 <td><p>パナソニック</p></td>
 <td><p>2011年1月14日</p></td>
@@ -760,7 +760,7 @@ Bluetooth<br />
 緊急速報メール</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Motorola_RAZR" title="wikilink">RAZR</a> M<br />
+<td><p><a href="../Page/Motorola_RAZR.md" title="wikilink">RAZR</a> M<br />
 <a href="https://ja.wikipedia.org/wiki/SoftBank_201M" title="wikilink">SoftBank 201M</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/モトローラ・モビリティ" title="wikilink">モトローラ</a></p></td>
 <td><p>2012年10月26日</p></td>
@@ -962,7 +962,7 @@ FeliCa<br />
 ## 発売中止になった端末
 
   - 華為技術日本(ファーウェイ・ジャパン)製
-      - SoftBank 004HW - 次期モデルに資源を集中させるため\[1\]。後に[イー・モバイル](https://ja.wikipedia.org/wiki/イー・モバイル "wikilink")が[S41HW](https://ja.wikipedia.org/wiki/S41HW "wikilink")として発表され、発売される。
+      - SoftBank 004HW - 次期モデルに資源を集中させるため\[1\]。後に[イー・モバイル](../Page/イー・モバイル.md "wikilink")が[S41HW](https://ja.wikipedia.org/wiki/S41HW "wikilink")として発表され、発売される。
 
 ## 脚注
 
@@ -970,13 +970,13 @@ FeliCa<br />
 
 ## 関連項目
 
-  - [ディズニー・モバイル](https://ja.wikipedia.org/wiki/ディズニー・モバイル "wikilink")・オン・ソフトバンク
+  - [ディズニー・モバイル](../Page/ディズニー・モバイル.md "wikilink")・オン・ソフトバンク
   - [ドコモ スマートフォン](https://ja.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")
       - [docomo with series](https://ja.wikipedia.org/wiki/docomo_with_series "wikilink")
       - [docomo NEXT series](https://ja.wikipedia.org/wiki/docomo_NEXT_series "wikilink")
   - [ISシリーズ](https://ja.wikipedia.org/wiki/ISシリーズ "wikilink")
       - [au 4G LTE](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")
-  - [Pocket PC](https://ja.wikipedia.org/wiki/Pocket_PC "wikilink")
+  - [Pocket PC](../Page/Pocket_PC.md "wikilink")
   - [Microsoft Windows Embedded CE](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")
 
 ## 外部リンク

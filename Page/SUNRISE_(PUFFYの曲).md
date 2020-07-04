@@ -1,7 +1,7 @@
-> この記事は[SUNRISE \(PUFFY\)](https://ja.wikipedia.org/wiki/SUNRISE_\(PUFFY\))から翻訳されています。
+> この記事は[SUNRISE \(PUFFYの曲\)](https://ja.wikipedia.org/wiki/SUNRISE_\(PUFFYの曲\))から翻訳されています。
 
 
-「**SUNRISE**」（サンライズ）は、[PUFFY](../Page/PUFFY.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")発売。発売元は[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+「**SUNRISE**」（サンライズ）は、[PUFFY](../Page/PUFFY.md "wikilink")の17枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")発売。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。
 
 ## 解説
 

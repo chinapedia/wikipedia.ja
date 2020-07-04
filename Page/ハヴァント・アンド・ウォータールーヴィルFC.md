@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハヴァント・アンド・ウォータールーヴィルFC](https://ja.wikipedia.org/wiki/ハヴァント・アンド・ウォータールーヴィルFC)から翻訳されています。
 
 
-**ハヴァント・アンド・ウォータールーヴィル・フットボール・クラブ**（**Havant & Waterlooville Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ハンプシャー](https://ja.wikipedia.org/wiki/ハンプシャー "wikilink")州[ハヴァントを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Havant "wikilink")。2012-2013シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。2007-2008シーズンの[FAカップ](../Page/FAカップ.md "wikilink")では4回戦まで進出、[アンフィールド](../Page/アンフィールド.md "wikilink")で[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")を相手に2度のリードを奪いながらも5－2で敗れるという善戦を見せた。
+**ハヴァント・アンド・ウォータールーヴィル・フットボール・クラブ**（**Havant & Waterlooville Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ハンプシャー](../Page/ハンプシャー.md "wikilink")州[ハヴァントを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Havant "wikilink")。2019-2020シーズンは[ナショナルリーグ・サウス](../Page/ナショナルリーグ・サウス.md "wikilink")（6部相当）に所属。2007-2008シーズンの[FAカップ](../Page/FAカップ.md "wikilink")では4回戦まで進出、[アンフィールド](../Page/アンフィールド.md "wikilink")で[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")を相手に2度のリードを奪いながらも5－2で敗れるという善戦を見せた。
 
 ## 歴史
 

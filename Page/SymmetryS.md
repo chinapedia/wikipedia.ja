@@ -1,7 +1,7 @@
 > この記事は[SymmetryS](https://ja.wikipedia.org/wiki/SymmetryS)から翻訳されています。
 
 
-**SymmetryS**(シンメトリーズ)とは、日本のお笑いコンビ[ラーメンズ](../Page/ラーメンズ.md "wikilink")の**[小林賢太郎](../Page/小林賢太郎.md "wikilink")**と[DJ](../Page/ディスクジョッキー.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")**[Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")**（田中知之）によるユニット。
+**SymmetryS**(シンメトリーズ)とは、日本のお笑いコンビ[ラーメンズ](../Page/ラーメンズ.md "wikilink")の**[小林賢太郎](../Page/小林賢太郎.md "wikilink")**と[DJ](../Page/ディスクジョッキー.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")**[Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")**（田中知之）によるユニット。
 
 ## 概要
 
@@ -10,7 +10,7 @@
 ## メンバー
 
   - [小林賢太郎](../Page/小林賢太郎.md "wikilink")
-  - [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")（田中知之）
+  - [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")（田中知之）
 
 ## ディスコグラフィー
 
@@ -35,14 +35,14 @@
 9.  盛り上がる人たち
 10. Pringles and Bass
       -
-        [プリングルズ](https://ja.wikipedia.org/wiki/プリングルズ "wikilink")・イメージ曲(ハニカム限定O.A.)
+        [プリングルズ](../Page/プリングルズ.md "wikilink")・イメージ曲(ハニカム限定O.A.)
 11. サンプラー作文
 12. One Minute of Sleep　※
 13. 卒業生イン・ザ・ハウス
       -
         [FONK](https://ja.wikipedia.org/wiki/FONK "wikilink")参加
 14. Piano and Clock　※
-15. Samurai Breakin' (Short Version) / Fantastic Plastic Machine feat. [Dai Tamesue](../Page/為末大.md "wikilink") & ATSUSHI ([Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink"))
+15. Samurai Breakin' (Short Version) / Fantastic Plastic Machine feat. [Dai Tamesue](../Page/為末大.md "wikilink") & ATSUSHI ([Dragon Ash](../Page/Dragon_Ash.md "wikilink"))
       -
         [iTunes Storeと](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[NIKE](https://ja.wikipedia.org/wiki/NIKE "wikilink")によるコラボレーション企画の一環として8月に配信された楽曲のショートバージョン。陸上選手の為末大が走る足音とDragon AshのATSUSHIがタップダンスしている音を田中がエディットするという、実験的な試みにより制作された。
     <!-- end list -->

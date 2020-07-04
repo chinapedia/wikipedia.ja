@@ -1,16 +1,16 @@
-> この記事は[KDA](https://ja.wikipedia.org/wiki/KDA)から翻訳されています。
+> この記事は[KDA監査法人](https://ja.wikipedia.org/wiki/KDA監査法人)から翻訳されています。
 
 
-**KDA監査法人** （**けーでぃーえーかんさほうじん** 英文名称：**KDA Audit Corporation**）は、日本における[監査法人](https://ja.wikipedia.org/wiki/監査法人 "wikilink")である。
+**KDA監査法人** （**けーでぃーえーかんさほうじん** 英文名称：**KDA Audit Corporation**）は、日本における[監査法人](../Page/監査法人.md "wikilink")である。
 
 2007年8月までBaker Tilly Internationalと提携していた。
 
 ## 概要
 
-  - 本部 - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区日本橋箱崎町](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")20-7　ITOビル4階
-  - 大阪事務所 - [大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[中央区久太郎町](../Page/中央区_\(大阪市\).md "wikilink")3-2-10日宝南本町ビル
+  - 本部 - [東京都](../Page/東京都.md "wikilink")[中央区日本橋箱崎町](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")20-7　ITOビル4階
+  - 大阪事務所 - [大阪市](../Page/大阪市.md "wikilink")[中央区久太郎町](../Page/中央区_\(大阪市\).md "wikilink")3-2-10日宝南本町ビル
   - 人員 - [2007年](../Page/2007年.md "wikilink")時点 約40名
-  - 主なクライアント - [大盛工業](../Page/大盛工業.md "wikilink")、[エルアイイーエイチ](https://ja.wikipedia.org/wiki/エルアイイーエイチ "wikilink")、[伊豆シャボテンリゾート](https://ja.wikipedia.org/wiki/伊豆シャボテンリゾート "wikilink")など
+  - 主なクライアント - [日本ハウスホールディングス](../Page/日本ハウスホールディングス.md "wikilink")、[エルアイイーエイチ](https://ja.wikipedia.org/wiki/エルアイイーエイチ "wikilink")、[伊豆シャボテンリゾート](https://ja.wikipedia.org/wiki/伊豆シャボテンリゾート "wikilink")、[エス・サイエンス](https://ja.wikipedia.org/wiki/エス・サイエンス "wikilink")、[バルクホールディングス](https://ja.wikipedia.org/wiki/バルクホールディングス "wikilink")など
 
 ## 沿革
 

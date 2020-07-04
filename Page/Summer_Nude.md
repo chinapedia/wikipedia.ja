@@ -7,7 +7,7 @@
 
 ## あらすじ
 
-8月31日、とある南の島。帰省していた女子大生・夏樹はプーという青年と出会った。2人はとめてあった軽トラを拝借して海へと向かう。その頃、葬儀屋の五郎は、結婚20周年記念日用に妻への贈り物として用意した花火玉が軽トラごと盗まれてしまい、途方にくれていた。
+[8月31日](../Page/8月31日.md "wikilink")、とある南の島。帰省していた女子大生・夏樹はプーという青年と出会った。2人はとめてあった[軽トラを拝借して海へと向かう](../Page/軽トラック.md "wikilink")。その頃、[葬儀屋](https://ja.wikipedia.org/wiki/葬儀屋 "wikilink")の五郎は、結婚20周年記念日用に妻への贈り物として用意した[花火](../Page/花火.md "wikilink")玉が軽トラごと盗まれてしまい、途方にくれていた。
 
 ## キャスト
 
@@ -73,4 +73,4 @@
   -
   -
   -
-[Category:2003年の映画](https://ja.wikipedia.org/wiki/Category:2003年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:飯塚健の監督映画](https://ja.wikipedia.org/wiki/Category:飯塚健の監督映画 "wikilink")
+[Category:2003年の映画](https://ja.wikipedia.org/wiki/Category:2003年の映画 "wikilink") [Category:日本の青春映画](https://ja.wikipedia.org/wiki/Category:日本の青春映画 "wikilink") [Category:飯塚健の監督映画](https://ja.wikipedia.org/wiki/Category:飯塚健の監督映画 "wikilink") [Category:島を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:島を舞台とした映画作品 "wikilink") [Category:夏を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:夏を題材とした映画作品 "wikilink")

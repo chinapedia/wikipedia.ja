@@ -1,7 +1,7 @@
 > この記事は[SoftBank 820T](https://ja.wikipedia.org/wiki/SoftBank_820T)から翻訳されています。
 
 
-**SoftBank 820T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")820T）は、[東芝](https://ja.wikipedia.org/wiki/東芝 "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")に発売された。
+**SoftBank 820T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")820T）は、[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")に発売された。
 
 ## 主な機能・サービス
 
@@ -10,8 +10,8 @@
   - [フィーリングメール](https://ja.wikipedia.org/wiki/フィーリングメール "wikilink")
   - [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")
   - [S\!アプリ](../Page/S!アプリ.md "wikilink")
-  - [S\!GPSナビ](https://ja.wikipedia.org/wiki/S!GPSナビ "wikilink")
-  - [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink")
+  - [S\!GPSナビ](../Page/S!GPSナビ.md "wikilink")
+  - [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink")
   - [位置ナビ](https://ja.wikipedia.org/wiki/位置ナビ "wikilink")
   - [Yahoo\!きっず](https://ja.wikipedia.org/wiki/Yahoo!きっず "wikilink")
 

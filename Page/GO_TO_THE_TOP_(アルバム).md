@@ -1,4 +1,4 @@
-> この記事は[GO TO THE TOP \(\)](https://ja.wikipedia.org/wiki/GO_TO_THE_TOP_\(\))から翻訳されています。
+> この記事は[GO TO THE TOP \(アルバム\)](https://ja.wikipedia.org/wiki/GO_TO_THE_TOP_\(アルバム\))から翻訳されています。
 
 
 『**GO TO THE TOP**』（ゴー・トゥー・ザ・トップ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性歌手[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")である。
@@ -6,20 +6,19 @@
 ## 概要
 
   - [音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")は小室哲哉。hitomiもアルバムの[エグゼクティブプロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブプロデューサー "wikilink")（小室と共作）、全楽曲の作詞家。
-  - [オリコン初のTOP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")5入り、最高3位を記録。
+  - [オリコン初のTOP](../Page/オリコンチャート.md "wikilink")5入り、最高3位を記録。
   - 特に記載はないが、シングルに収録された曲は全曲リミックスバージョンである。
 
 ## 仕様
 
   - 初回盤
-
-ハードカバーデジパック、カラーレーベル（青色の盤面）
-
+      -
+        ハードカバーデジパック、カラーレーベル（青色の盤面）
   - 通常盤
+      -
+        スリーブケース、オレンジ色の盤面
 
-スリーブケース、オレンジ色の盤面
-
-  - どちらもカラーブックレット付き（初回盤はデジパックに貼り付け）
+どちらもカラーブックレット付き（初回盤はデジパックに貼り付け）
 
 ## 収録曲
 
@@ -46,7 +45,7 @@
 6.  **Never Forget The Days**
       -
         編曲：久保こーじ
-7.  **[CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL "wikilink")**
+7.  **[CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL_\(hitomiの曲\) "wikilink")**
       -
         編曲：小室哲哉・久保こーじ
         3rdシングル。[コダック](../Page/コダック.md "wikilink")「[スナップキッズ](../Page/スナップキッズ.md "wikilink")」CFソング。

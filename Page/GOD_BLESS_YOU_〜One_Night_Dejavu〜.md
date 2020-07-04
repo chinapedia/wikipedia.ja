@@ -1,7 +1,7 @@
-> この記事は[GOD BLESS YOU One Night Dejavu](https://ja.wikipedia.org/wiki/GOD_BLESS_YOU_One_Night_Dejavu)から翻訳されています。
+> この記事は[GOD BLESS YOU 〜One Night Dejavu〜](https://ja.wikipedia.org/wiki/GOD_BLESS_YOU_〜One_Night_Dejavu〜)から翻訳されています。
 
 
-「**GOD BLESS YOU 〜One Night Déjàvu〜**」（ゴッド・ブレス・ユー・ワンナイト・デジャヴ）は、[2000年](../Page/2000年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")に終幕した日本のロックバンド[LUNA SEAが](../Page/LUNA_SEA.md "wikilink")、"一夜限りの復活"と称して[2007年](../Page/2007年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[東京ドーム](../Page/東京ドーム.md "wikilink")で開催した[ライブ公演である](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+「**GOD BLESS YOU 〜One Night Déjàvu〜**」（ゴッド・ブレス・ユー・ワンナイト・デジャヴ）は、[2000年](../Page/2000年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")に終幕した日本のロックバンド[LUNA SEAが](../Page/LUNA_SEA.md "wikilink")、"一夜限りの復活"と称して[2007年](../Page/2007年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")に[東京ドーム](../Page/東京ドーム.md "wikilink")で開催した[ライブ公演である](../Page/演奏会.md "wikilink")。
 
 ## 沿革
 
@@ -13,7 +13,7 @@
 
 ライブ終了後、ボーカルの[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")は「いつかどこかの空の下でまた会おう」と発言した\[2\]。偶然か、もうすでに調整済みだったのか、この次にLUNA SEAがライブを行ったのは、翌年の5月に行われた『[hide memorial summit](https://ja.wikipedia.org/wiki/hide_memorial_summit "wikilink")』で、屋外のステージであった。
 
-復活ライブの模様は2時間に編集（「JESUS」、「SLAVE」、「FATE」、「STORM」、「MOTHER」、「DrumSolo」、「BassSolo」、メンバー紹介を含むMCの一部がカット）され当日の23時5分から[NHKBSハイビジョンで放送された](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")・[BS2でも](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink")に再放送）。また、2008年[1月13日](../Page/1月13日.md "wikilink")25時15分よりNHK総合で『一夜限りの復活ライヴLUNA SEA沈黙の7年を超えて』というドキュメンタリーが放送された。
+復活ライブの模様は2時間に編集（「JESUS」、「SLAVE」、「FATE」、「STORM」、「MOTHER」、「DrumSolo」、「BassSolo」、メンバー紹介を含むMCの一部がカット）され当日の23時5分から[NHKBSハイビジョンで放送された](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")・[BS2でも](../Page/NHK衛星第2テレビジョン.md "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月1日](../Page/1月1日.md "wikilink")に再放送）。また、2008年[1月13日](../Page/1月13日.md "wikilink")25時15分よりNHK総合で『一夜限りの復活ライヴLUNA SEA沈黙の7年を超えて』というドキュメンタリーが放送された。
 
 2008年[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")には、ライブの模様及びライブ当日のリハーサル風景を収録した2枚組[DVD](../Page/DVD.md "wikilink")が発売され、公演の丁度1年後となる2008年12月24日に特典映像を省いた[Blu-ray Disc版が発売された](../Page/Blu-ray_Disc.md "wikilink")。ブルーレイディスク版はDVDマスターを[アップコンバート](https://ja.wikipedia.org/wiki/アップコンバート "wikilink")された映像が収録されている。
 
@@ -27,20 +27,20 @@
 
 </dl>
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/MOTHER_(LUNA_SEAのアルバム)" title="wikilink">LOVELESS</a></li>
+<li><a href="../Page/MOTHER_(LUNA_SEAのアルバム).md" title="wikilink">LOVELESS</a></li>
 <li><a href="../Page/IMAGE_(LUNA_SEAのアルバム).md" title="wikilink">Déjàvu</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/EDEN_(アルバム)" title="wikilink">JESUS</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/IN_MY_DREAM_(WITH_SHIVER)" title="wikilink">SLAVE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/END_OF_SORROW" title="wikilink">END OF SORROW</a></li>
+<li><a href="../Page/EDEN_(アルバム).md" title="wikilink">JESUS</a></li>
+<li><a href="../Page/IN_MY_DREAM_(WITH_SHIVER).md" title="wikilink">SLAVE</a></li>
+<li><a href="../Page/END_OF_SORROW.md" title="wikilink">END OF SORROW</a></li>
 <li><a href="../Page/TRUE_BLUE_(LUNA_SEAの曲).md" title="wikilink">TRUE BLUE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MOTHER_(LUNA_SEAのアルバム)" title="wikilink">FACE TO FACE</a></li>
+<li><a href="../Page/MOTHER_(LUNA_SEAのアルバム).md" title="wikilink">FACE TO FACE</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/gravity_(LUNA_SEAの曲)" title="wikilink">gravity</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/STYLE_(LUNA_SEAのアルバム)" title="wikilink">RA-SE-N</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/EDEN_(アルバム)" title="wikilink">Providence</a></li>
+<li><a href="../Page/STYLE_(LUNA_SEAのアルバム).md" title="wikilink">RA-SE-N</a></li>
+<li><a href="../Page/EDEN_(アルバム).md" title="wikilink">Providence</a></li>
 <li><a href="../Page/IMAGE_(LUNA_SEAのアルバム).md" title="wikilink">MOON</a></li>
 <li>Drum solo &amp; Bass solo</li>
 <li><a href="../Page/LUNA_SEA_(アルバム).md" title="wikilink">FATE</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/SHINE_(アルバム)" title="wikilink">BREATHE</a></li>
+<li><a href="../Page/SHINE_(アルバム).md" title="wikilink">BREATHE</a></li>
 <li><a href="../Page/STORM_(LUNA_SEAの曲).md" title="wikilink">STORM</a></li>
 <li><a href="../Page/DESIRE_(LUNA_SEAの曲).md" title="wikilink">DESIRE</a></li>
 <li><a href="../Page/LUNA_SEA_(アルバム).md" title="wikilink">TIME IS DEAD</a></li>
@@ -54,8 +54,8 @@
 <ol>
 <li><a href="../Page/I_for_You.md" title="wikilink">I for You</a></li>
 <li>White Christmas</li>
-<li><a href="https://ja.wikipedia.org/wiki/IN_MY_DREAM_(WITH_SHIVER)" title="wikilink">IN MY DREAM (WITH SHIVER)</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/BELIEVE_(LUNA_SEAの曲)" title="wikilink">BELIEVE</a>　</li>
+<li><a href="../Page/IN_MY_DREAM_(WITH_SHIVER).md" title="wikilink">IN MY DREAM (WITH SHIVER)</a></li>
+<li><a href="../Page/BELIEVE_(LUNA_SEAの曲).md" title="wikilink">BELIEVE</a>　</li>
 <li><a href="../Page/MOTHER_(Single_Version).md" title="wikilink">MOTHER</a></li>
 <li><a href="../Page/LUNA_SEA_(アルバム).md" title="wikilink">PRECIOUS...</a></li>
 <li><a href="../Page/IMAGE_(LUNA_SEAのアルバム).md" title="wikilink">WISH</a></li>

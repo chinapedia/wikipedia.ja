@@ -1,7 +1,7 @@
-> この記事は[ \(PUFFY\)](https://ja.wikipedia.org/wiki/_\(PUFFY\))から翻訳されています。
+> この記事は[青い涙 \(PUFFYの曲\)](https://ja.wikipedia.org/wiki/青い涙_\(PUFFYの曲\))から翻訳されています。
 
 
-「**青い涙**」（あおいなみだ）は、[PUFFY](../Page/PUFFY.md "wikilink")の楽曲で、14枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")発売。発売元は[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+「**青い涙**」（あおいなみだ）は、[PUFFY](../Page/PUFFY.md "wikilink")の楽曲で、14枚目の[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")発売。発売元は[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")。
 
 次作および次回リリース予定のアルバムにつながる、'B級[GSバンドをカヴァー](../Page/グループ・サウンズ.md "wikilink")'というコンセプトの下に制作。
 

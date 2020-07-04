@@ -1,12 +1,12 @@
-> この記事は[ The Wolf Whistling Song](https://ja.wikipedia.org/wiki/_The_Wolf_Whistling_Song)から翻訳されています。
+> この記事は[リンゴ日和 〜The Wolf Whistling Song](https://ja.wikipedia.org/wiki/リンゴ日和_〜The_Wolf_Whistling_Song)から翻訳されています。
 
 
-「**リンゴ日和 〜The Wolf Whistling Song**」（リンゴびより ザ・ウルフ・ホイッスリング・ソング）は、[ROCKY CHACKの](https://ja.wikipedia.org/wiki/ROCKY_CHACK "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")に[JVCエンタテインメント](https://ja.wikipedia.org/wiki/JVCエンタテインメント "wikilink")から発売された。
+「**リンゴ日和 〜The Wolf Whistling Song**」（リンゴびより ザ・ウルフ・ホイッスリング・ソング）は、[ROCKY CHACKの](../Page/ROCKY_CHACK.md "wikilink")8枚目の[シングル](../Page/シングル.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")に[JVCエンタテインメント](../Page/JVCエンタテインメント.md "wikilink")から発売された。
 
 ## 概要
 
-  - 表題曲「リンゴ日和 〜The Wolf Whistling Song」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[狼と香辛料](https://ja.wikipedia.org/wiki/狼と香辛料 "wikilink")』の[エンディングテーマとして使用された](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
-  - テレビアニメ『狼と香辛料』オープニングテーマ曲である、[清浦夏実](https://ja.wikipedia.org/wiki/清浦夏実 "wikilink")の2ndシングル『[旅の途中](https://ja.wikipedia.org/wiki/旅の途中_\(清浦夏実の曲\) "wikilink")』と同日発売された。
+  - 表題曲「リンゴ日和 〜The Wolf Whistling Song」は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[狼と香辛料](https://ja.wikipedia.org/wiki/狼と香辛料 "wikilink")』の[エンディングテーマとして使用された](../Page/主題歌.md "wikilink")。
+  - テレビアニメ『狼と香辛料』オープニングテーマ曲である、[清浦夏実](../Page/清浦夏実.md "wikilink")の2ndシングル『[旅の途中](../Page/旅の途中_\(清浦夏実の曲\).md "wikilink")』と同日発売された。
 
 ## 収録内容
 
@@ -21,9 +21,9 @@
 
 ## タイアップ
 
-| 曲名                             | タイアップ                                                                                                                                                                                                                                        |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| リンゴ日和 〜The Wolf Whistling Song | [UHF系各局放送](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[狼と香辛料](https://ja.wikipedia.org/wiki/狼と香辛料 "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
+| 曲名                             | タイアップ                                                                                                                                                                                                                     |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| リンゴ日和 〜The Wolf Whistling Song | [UHF系各局放送](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[狼と香辛料](https://ja.wikipedia.org/wiki/狼と香辛料 "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink") |
 
 ## 外部リンク
 

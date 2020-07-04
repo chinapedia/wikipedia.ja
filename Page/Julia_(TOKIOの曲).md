@@ -16,7 +16,6 @@
         作詞・作曲・編曲：[ジョー・リノイエ](../Page/ジョー・リノイエ.md "wikilink")
     <!-- end list -->
       - [国分太一](../Page/国分太一.md "wikilink")主演 [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")･[日本テレビ系月曜ドラマ](../Page/日本テレビ放送網.md "wikilink")『[せいぎのみかた](../Page/せいぎのみかた.md "wikilink")』オープニングテーマ
-      - [国分太一](../Page/国分太一.md "wikilink")、[長瀬智也](../Page/長瀬智也.md "wikilink")のツイン・リードボーカルであり、長瀬のソロパートが最も多い。またCメロには国分のソロパートも存在している。
 2.  **あたってくだけろ\!**（3:31）
       -
         作詞：[岡部真理子](https://ja.wikipedia.org/wiki/岡部真理子 "wikilink")、作曲：[馬場一嘉](https://ja.wikipedia.org/wiki/馬場一嘉 "wikilink")、編曲：[駒形弘行](https://ja.wikipedia.org/wiki/駒形弘行 "wikilink")

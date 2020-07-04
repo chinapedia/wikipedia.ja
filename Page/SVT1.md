@@ -5,7 +5,7 @@
 
 ## 概要
 
-SVT1は1956年に[スウェーデン・ラジオ](https://ja.wikipedia.org/wiki/スウェーデン・ラジオ "wikilink")のテレビ部門として開局。1969年に[SVT2](https://ja.wikipedia.org/wiki/SVT2 "wikilink")（当時はTV2）が開局以降はTV1と呼ばれていた。
+SVT1は1956年に[スウェーデン・ラジオ](https://ja.wikipedia.org/wiki/スウェーデン・ラジオ "wikilink")のテレビ部門として開局。1969年に[SVT2](../Page/SVT2.md "wikilink")（当時はTV2）が開局以降はTV1と呼ばれていた。
 
 ## 主な番組
 

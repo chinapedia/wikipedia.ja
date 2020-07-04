@@ -13,10 +13,10 @@
 ## 収録曲
 
 1.  **Together for Christmas**　（3:40）
-      - 作詞: Seiko Matsuda 、作曲: Seiko Matsuda・[Ryo Ogura](https://ja.wikipedia.org/wiki/小倉良 "wikilink") 、編曲: [Yuji Toriyama](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
+      - 作詞: Seiko Matsuda 、作曲: Seiko Matsuda・[Ryo Ogura](../Page/小倉良.md "wikilink") 、編曲: [Yuji Toriyama](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
     <!-- end list -->
       -
-        冬唄[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『[Winter Tales](../Page/Winter_Tales.md "wikilink")』（1996.11.1）に収録された。
+        冬唄[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『[Winter Tales](../Page/Winter_Tales.md "wikilink")』（1996.11.1）に収録された。
 2.  **夜空へドライブ ～A wink to Santa**　（4:10）
       - 作詞: Seiko Matsuda 、作曲: Seiko Matsuda・Ryo Ogura 、編曲: Ryo Ogura
 3.  **You're My World ～微笑みにかえて～**　（4:50）
@@ -64,8 +64,8 @@
 
 ## 関連項目
 
-  - [クリスマスの音楽一覧](https://ja.wikipedia.org/wiki/クリスマスの音楽一覧 "wikilink")
-  - [1993年の音楽](https://ja.wikipedia.org/wiki/1993年の音楽 "wikilink")　
+  - [クリスマスの音楽一覧](../Page/クリスマスの音楽一覧.md "wikilink")
+  - [1993年の音楽](../Page/1993年の音楽.md "wikilink")　
   - [金色のリボン](../Page/金色のリボン.md "wikilink")
       - 初のクリスマス・アルバム。CDの単独発売はされていない。
   - [Snow Garden](../Page/Snow_Garden_\(松田聖子のアルバム\).md "wikilink")
@@ -73,7 +73,7 @@
 
 ## 関連人物
 
-  - [小倉良](https://ja.wikipedia.org/wiki/小倉良 "wikilink")
+  - [小倉良](../Page/小倉良.md "wikilink")
   - [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
 
 [Category:松田聖子のアルバム](https://ja.wikipedia.org/wiki/Category:松田聖子のアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:クリスマス・アルバム](https://ja.wikipedia.org/wiki/Category:クリスマス・アルバム "wikilink")

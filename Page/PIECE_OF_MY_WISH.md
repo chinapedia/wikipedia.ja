@@ -21,6 +21,7 @@
 ## カバー
 
   - [カレン・トン](../Page/カレン・トン.md "wikilink")（1992年、「情如夢」というタイトルで広東語アルバム『[First Love](https://ja.wikipedia.org/wiki/First_Love "wikilink")』）
+  - [萬芳](https://ja.wikipedia.org/wiki/萬芳 "wikilink")（1992年、「思念」というタイトルでアルバム『[真情](https://ja.wikipedia.org/wiki/真情 "wikilink")』）
   - [SMOOTH ACE](../Page/SMOOTH_ACE.md "wikilink")（2002年、アルバム『LOVE STORY〜AVEC PIANO〜』）
   - [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")（2003年、アルバム『[KOYANAGI the COVERS PRODUCT 2](../Page/KOYANAGI_the_COVERS_PRODUCT_2.md "wikilink")』）
   - [中西保志](../Page/中西保志.md "wikilink")（2007年、アルバム『STANDARDS 2』）

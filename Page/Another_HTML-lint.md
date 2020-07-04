@@ -42,7 +42,7 @@
 
   - [I'm k16](http://www.asahi-net.or.jp/~rh5k-isn/) - 作者サイト
   - [Another HTML-lintのウェブサイト](http://openlab.ring.gr.jp/k16/htmllint/)
-  - [Another HTML-lint 5](http://www.htmllint.net/) - 株式会社[ジゾン](https://ja.wikipedia.org/wiki/ジゾン "wikilink")（)が提供する無償のサービスで、Another HTML-lintを拡張してHTML5のチェックも可能にしたもの。
+  - [Another HTML-lint 5](http://www.htmllint.net/) - [ハートコア](https://ja.wikipedia.org/wiki/ハートコア "wikilink")株式会社（)が提供する無償のサービスで、Another HTML-lintを拡張してHTML5のチェックも可能にしたもの。
 
 [Category:HTML](https://ja.wikipedia.org/wiki/Category:HTML "wikilink") [Category:ウェブアクセシビリティ](https://ja.wikipedia.org/wiki/Category:ウェブアクセシビリティ "wikilink")
 

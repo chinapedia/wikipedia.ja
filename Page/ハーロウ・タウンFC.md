@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハーロウ・タウンFC](https://ja.wikipedia.org/wiki/ハーロウ・タウンFC)から翻訳されています。
 
 
 **ハーロウ・タウン・フットボール・クラブ**（**Harlow Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")の[エセックス](../Page/エセックス.md "wikilink")州[ハーロウ](https://ja.wikipedia.org/wiki/ハーロウ "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

@@ -1,4 +1,4 @@
-> この記事は[ Ticket To LOVE](https://ja.wikipedia.org/wiki/_Ticket_To_LOVE)から翻訳されています。
+> この記事は[好きさ 〜Ticket To LOVE〜](https://ja.wikipedia.org/wiki/好きさ_〜Ticket_To_LOVE〜)から翻訳されています。
 
 
 「**好きさ 〜Ticket To Love〜**」（すきさ チケット・トゥ・ラブ）は、[TOKIO](../Page/TOKIO.md "wikilink")の6作目の[シングル](../Page/シングル.md "wikilink")である。
@@ -11,7 +11,7 @@
 
 1.  **好きさ 〜Ticket To Love〜**
       -
-        作詞：[工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink")、作曲：[都志見隆](https://ja.wikipedia.org/wiki/都志見隆 "wikilink")、編曲：[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")
+        作詞：[工藤哲雄](https://ja.wikipedia.org/wiki/工藤哲雄 "wikilink")、作曲：[都志見隆](../Page/都志見隆.md "wikilink")、編曲：[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")
     <!-- end list -->
       - TOKIO出演 [ハウス食品](../Page/ハウス食品.md "wikilink")「[バーモントカレー](../Page/バーモントカレー.md "wikilink")」TV-CMソング
       - 山口と長瀬によるツイン・リードボーカル曲であるが、長瀬のパートが多くなっている。

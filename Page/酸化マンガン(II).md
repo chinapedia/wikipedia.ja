@@ -5,16 +5,16 @@
 
 ## 合成方法
 
-[硝酸マンガン(II)](https://ja.wikipedia.org/wiki/硝酸マンガン\(II\) "wikilink")六水和物を大気中で300 ℃まで加熱すると、[二酸化窒素](../Page/二酸化窒素.md "wikilink")の発生終了後に β-MnO<sub>2</sub> が得られる。これを粉砕し、[水素](https://ja.wikipedia.org/wiki/水素 "wikilink")中・1200 ℃以下で[還元](../Page/還元.md "wikilink")すると酸化マンガンが得られる。
+[硝酸マンガン(II)](https://ja.wikipedia.org/wiki/硝酸マンガン\(II\) "wikilink")六水和物を大気中で300 ℃まで加熱すると、[二酸化窒素](../Page/二酸化窒素.md "wikilink")の発生終了後に β-MnO<sub>2</sub> が得られる。これを粉砕し、[水素](../Page/水素.md "wikilink")中・1200 ℃以下で[還元](../Page/還元.md "wikilink")すると酸化マンガンが得られる。
 
   -
-    <ce>Mn(NO3)2 \\centerdot 6H2O -\> MnO2\\ + 2NO2\\ + 6H2O</ce>
-    <ce>MnO2\\ + H2 -\> MnO\\ + H2O</ce>
+    <chem>Mn(NO3)2 \\centerdot 6H2O -\> MnO2\\ + 2NO2\\ + 6H2O</chem>
+    <chem>MnO2\\ + H2 -\> MnO\\ + H2O</chem>
 
 または[炭酸マンガン](https://ja.wikipedia.org/wiki/炭酸マンガン "wikilink")を減圧下・500 ℃で数十時間、ないし水素中で1000 ℃・20分加熱することでも生成される。
 
   -
-    <ce>MnCO3 -\> MnO\\ + CO2</ce>
+    <chem>MnCO3 -\> MnO\\ + CO2</chem>
 
 ## 性質
 

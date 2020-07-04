@@ -1,12 +1,12 @@
 > この記事は[MUSIC OF MY HEART](https://ja.wikipedia.org/wiki/MUSIC_OF_MY_HEART)から翻訳されています。
 
 
-『**MUSIC OF MY HEART**』（みゅーじっく おぶ まい はーと）は、[三重エフエム放送](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")の番組。提供は、三重県下の[JAバンク](https://ja.wikipedia.org/wiki/JAバンク "wikilink")。 2003年4月5日から放送されている。2005年4月2日から番組がリニューアルされ、コーナー、パーソナリティが一新された。
+『**MUSIC OF MY HEART**』（みゅーじっく おぶ まい はーと）は、[三重エフエム放送](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")の番組。提供は、三重県下の[JAバンク](../Page/JAバンク.md "wikilink")。 2003年4月5日から放送されている。2005年4月2日から番組がリニューアルされ、コーナー、パーソナリティが一新された。
 
 ## パーソナリティ
 
 2003年4月5日 - 2005年3月26日 ： [Honda Keiko](https://ja.wikipedia.org/wiki/Honda_Keiko "wikilink")
-2005年4月2日 - 2017年3月25日 ： [高橋正純](https://ja.wikipedia.org/wiki/高橋正純 "wikilink")
+2005年4月2日 - 2017年3月25日 ： [高橋正純](../Page/高橋正純.md "wikilink")
 2017年4月1日 - 現在 ： [水城あやの](https://ja.wikipedia.org/wiki/水城あやの "wikilink")
 
 ## コーナー

@@ -1,7 +1,7 @@
-> この記事は[VS!!](https://ja.wikipedia.org/wiki/VS!!)から翻訳されています。
+> この記事は[鶴瓶VSぶっっっっちゃけ美女バラエティ新年会!!](https://ja.wikipedia.org/wiki/鶴瓶VSぶっっっっちゃけ美女バラエティ新年会!!)から翻訳されています。
 
 
-『**鶴瓶VSぶっっっっちゃけ美女バラエティ新年会\!\!**』（つるべブイエスぶっっっっちゃけびじょバラエティしんねんかい\!\!）は、一部[フジテレビ系列局で放送された](../Page/フジネットワーク.md "wikilink")[関西テレビ製作の](../Page/関西テレビ放送.md "wikilink")[トーク](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[特番である](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。製作局の関西テレビでは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")（[水曜](../Page/水曜日.md "wikilink")） 9:30 - 11:50に放送。
+『**鶴瓶VSぶっっっっちゃけ美女バラエティ新年会\!\!**』（つるべブイエスぶっっっっちゃけびじょバラエティしんねんかい\!\!）は、一部[フジテレビ系列局で放送された](../Page/フジネットワーク.md "wikilink")[関西テレビ製作の](../Page/関西テレビ放送.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[特番である](../Page/特別番組.md "wikilink")。製作局の関西テレビでは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")（[水曜](../Page/水曜日.md "wikilink")） 9:30 - 11:50に放送。
 
 ## 番組内容
 
@@ -21,23 +21,23 @@
   - [マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")
   - [三船美佳](https://ja.wikipedia.org/wiki/三船美佳 "wikilink")
   - [山本梓](https://ja.wikipedia.org/wiki/山本梓 "wikilink")
-  - [山本モナ](https://ja.wikipedia.org/wiki/山本モナ "wikilink")
-  - [梨花](https://ja.wikipedia.org/wiki/梨花 "wikilink")
+  - [山本モナ](../Page/山本モナ.md "wikilink")
+  - [梨花](../Page/梨花.md "wikilink")
 
 ### 復路チーム
 
-  - [青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink")
+  - [青田典子](../Page/青田典子.md "wikilink")
   - [麻木久仁子](https://ja.wikipedia.org/wiki/麻木久仁子 "wikilink")
   - [柴田理恵](https://ja.wikipedia.org/wiki/柴田理恵 "wikilink")
   - [中澤裕子](../Page/中澤裕子.md "wikilink")
   - [西川史子](../Page/西川史子.md "wikilink")
-  - [堀ちえみ](https://ja.wikipedia.org/wiki/堀ちえみ "wikilink")
-  - [松居一代](https://ja.wikipedia.org/wiki/松居一代 "wikilink")
+  - [堀ちえみ](../Page/堀ちえみ.md "wikilink")
+  - [松居一代](../Page/松居一代.md "wikilink")
   - [室井佑月](https://ja.wikipedia.org/wiki/室井佑月 "wikilink")
 
 ### ナレーター
 
-  - [坂上みき](https://ja.wikipedia.org/wiki/坂上みき "wikilink")
+  - [坂上みき](../Page/坂上みき.md "wikilink")
 
 ## スタッフ
 
@@ -64,7 +64,7 @@
   - MA：阿左美茂樹
   - 音効：福永真弓
   - TK：草野麻里
-  - 協力：[テイクシステムズ](https://ja.wikipedia.org/wiki/テイクシステムズ "wikilink")、[共立](https://ja.wikipedia.org/wiki/共立_\(照明\) "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[チトセアート](../Page/チトセアート.md "wikilink")、[ダダ](../Page/ダダ_\(会社\).md "wikilink")、[テレフィット](https://ja.wikipedia.org/wiki/テレフィット "wikilink")、[ヤマモリ](https://ja.wikipedia.org/wiki/ヤマモリ_\(アクリル装飾\) "wikilink")、京花園、東京特殊効果、マルチバックス、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")、M\&M
+  - 協力：[テイクシステムズ](../Page/テイクシステムズ.md "wikilink")、[共立](../Page/共立_\(照明\).md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[チトセアート](../Page/チトセアート.md "wikilink")、[ダダ](../Page/ダダ_\(会社\).md "wikilink")、[テレフィット](https://ja.wikipedia.org/wiki/テレフィット "wikilink")、[ヤマモリ](https://ja.wikipedia.org/wiki/ヤマモリ_\(アクリル装飾\) "wikilink")、京花園、東京特殊効果、マルチバックス、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、[ZACK](https://ja.wikipedia.org/wiki/フリーダム・オブ・ザック "wikilink")、M\&M
   - 広報：大村貴子（KTV）
   - AP：平出聡
   - ディレクター：世良田佳男
@@ -72,7 +72,7 @@
   - プロデューサー：小寺健太（KTV）、工藤浩之、小西寛
   - チーフプロデューサー：大澤徹也（KTV）
   - 企画協力：[デンナーシステムズ](https://ja.wikipedia.org/wiki/デンナーシステムズ "wikilink")（表示無し）
-  - 制作協力：[K-max](https://ja.wikipedia.org/wiki/ケイマックス "wikilink")
+  - 制作協力：[K-max](../Page/ケイマックス.md "wikilink")
   - 制作著作：関西テレビ
 
 ## 放送局
@@ -146,7 +146,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a></p></td>
 <td><p>2008年1月20日</p></td>
 <td><p>15:00 - 17:20</p></td>

@@ -7,9 +7,9 @@
 
 [1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")設立。略称は**JFL**。
 
-先発の[テレビ](https://ja.wikipedia.org/wiki/テレビジョン "wikilink")・ラジオネットワークが行っている加盟局同士の[ニュース](../Page/ニュース.md "wikilink")や[スポーツ中継](https://ja.wikipedia.org/wiki/スポーツ中継 "wikilink")、番組供給などとは大きく異なり、JFLの理念は**各加盟局ごとステーションカラーの自主性・独自性が大きく尊重されている**ため、所謂東京キー局から放送される全国ネット番組が他のネットワークに比べて極力抑えられ、ネット番組においても各加盟局ごとに「[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")」として独自制作されることが少なくない点である。それ故に、通常、[放送局](../Page/放送局.md "wikilink")による[ネットワークでは](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\) "wikilink")、在京局が[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")、[在阪局](https://ja.wikipedia.org/wiki/在阪局 "wikilink")や[在名局](https://ja.wikipedia.org/wiki/在名局 "wikilink")が[準キー局](https://ja.wikipedia.org/wiki/準キー局 "wikilink")と位置付けられているが、JFLにおいては、上記理由から**キー局・準キー局の概念が存在しない**。但し全国ネットされている一部の番組については[J-WAVE](../Page/J-WAVE.md "wikilink")が制作に携わっている為、事実上の幹事局と認識されている。
+先発の[テレビ](https://ja.wikipedia.org/wiki/テレビジョン "wikilink")・ラジオネットワークが行っている加盟局同士の[ニュース](../Page/ニュース.md "wikilink")や[スポーツ中継](../Page/スポーツ中継.md "wikilink")、番組供給などとは大きく異なり、JFLの理念は**各加盟局ごとステーションカラーの自主性・独自性が大きく尊重されている**ため、所謂東京キー局から放送される全国ネット番組が他のネットワークに比べて極力抑えられ、ネット番組においても各加盟局ごとに「[企画ネット番組](../Page/企画ネット番組.md "wikilink")」として独自制作されることが少なくない点である。それ故に、通常、[放送局](../Page/放送局.md "wikilink")による[ネットワークでは](../Page/ネットワーク_\(放送\).md "wikilink")、在京局が[キー局](../Page/キー局.md "wikilink")、[在阪局](https://ja.wikipedia.org/wiki/在阪局 "wikilink")や[在名局](https://ja.wikipedia.org/wiki/在名局 "wikilink")が[準キー局](../Page/準キー局.md "wikilink")と位置付けられているが、JFLにおいては、上記理由から**キー局・準キー局の概念が存在しない**。但し全国ネットされている一部の番組については[J-WAVE](../Page/J-WAVE.md "wikilink")が制作に携わっている為、事実上の幹事局と認識されている。
 
-また、他の（先発の）テレビ・ラジオネットワークと違い、事務局サイトを持たない（グループの説明はJ-WAVE内にあるのみ）。
+また、他の先発のテレビ・ラジオネットワークと違い、事務局サイトを持たず、グループの説明はJ-WAVE内にあるのみである。
 
 ## 加盟局
 
@@ -32,7 +32,7 @@
 <td><p>2015年7月30日より<a href="https://ja.wikipedia.org/wiki/radiko" title="wikilink">radiko</a>再送信を開始[1]。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><strong><a href="../Page/J-WAVE.md" title="wikilink">J-WAVE</a></strong></p></td>
 <td><p>エフエムジャパン</p></td>
 <td></td>
@@ -46,14 +46,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
 <td><p><strong><a href="../Page/FM802.md" title="wikilink">FM802</a></strong></p></td>
 <td><p>エフエムはちまるに</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MegaNet" title="wikilink">MegaNet</a>加盟の<a href="../Page/FM_COCOLO.md" title="wikilink">FM COCOLOも運営</a>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CROSS_FM" title="wikilink">CROSS FM</a></strong></p></td>
 <td><p>-</p></td>
 <td><p>1993年9月1日 - 2008年6月30日までは<a href="https://ja.wikipedia.org/wiki/株式会社" title="wikilink">株式会社</a><a href="../Page/エフエム九州.md" title="wikilink">エフエム九州</a>が運営。<br />
@@ -65,14 +65,31 @@
 
 ## 旧加盟局
 
-| エリア                              | 愛称          | 社名                                             | 旧社名 | 備考        |
-| -------------------------------- | ----------- | ---------------------------------------------- | --- | --------- |
-| [新潟県](../Page/新潟県.md "wikilink") | **FM PORT** | [新潟県民エフエム放送](../Page/新潟県民エフエム放送.md "wikilink") | \-  | 加入後すぐに解消。 |
-|                                  |             |                                                |     |           |
+<table>
+<thead>
+<tr class="header">
+<th><p>エリア</p></th>
+<th><p>愛称</p></th>
+<th><p>社名</p></th>
+<th><p>旧社名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
+<td><p><strong>FM PORT</strong></p></td>
+<td><p><a href="../Page/新潟県民エフエム放送.md" title="wikilink">新潟県民エフエム放送</a></p></td>
+<td><p>-</p></td>
+<td><p>加入後すぐに解消。<br />
+<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a>閉局予定[2]</p></td>
+</tr>
+</tbody>
+</table>
 
 ## ネット番組
 
-2014年現在では、J-WAVEが幹事となり、他の4局が「連携する形」の体制を敷いている。これは前述通り、JFLの理念自体が「各局のステーションカラーを生かして、連携をとる」というものからであり\[2\]、表向きJ-WAVEはキー・ステーションともいえるが、あくまで「幹事・制作局」でしかない。
+2014年現在では、J-WAVEが幹事となり、他の4局が「連携する形」の体制を敷いている。これは前述通り、JFLの理念自体が「各局のステーションカラーを生かして、連携をとる」というものからであり\[3\]、表向きJ-WAVEはキー・ステーションともいえるが、あくまで「幹事・制作局」でしかない。
 
 ### J-WAVE制作
 
@@ -112,7 +129,7 @@
 
 #### 過去に制作された番組
 
-  - [CABIN](https://ja.wikipedia.org/wiki/キャビン_\(たばこ\) "wikilink") HEAT WAVE
+  - [CABIN](../Page/キャビン_\(たばこ\).md "wikilink") HEAT WAVE
   - [I.W. HARPER](https://ja.wikipedia.org/wiki/I.W._HARPER "wikilink") STYLE IN THE CITY
 
 <!-- end list -->
@@ -171,7 +188,7 @@
 
 <!-- end list -->
 
-  - [ASIENCE](https://ja.wikipedia.org/wiki/アジエンス "wikilink") [SPIRIT OF ASIA](https://ja.wikipedia.org/wiki/SPIRIT_OF_ASIA "wikilink")
+  - [ASIENCE](../Page/アジエンス.md "wikilink") [SPIRIT OF ASIA](https://ja.wikipedia.org/wiki/SPIRIT_OF_ASIA "wikilink")
 
 <!-- end list -->
 
@@ -180,7 +197,7 @@
 
 <!-- end list -->
 
-  - [Netz](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink") [STYLE STUDIO](https://ja.wikipedia.org/wiki/STYLE_STUDIO "wikilink")（2009年4月 - 2011年3月）
+  - [Netz](../Page/ネッツ店.md "wikilink") [STYLE STUDIO](https://ja.wikipedia.org/wiki/STYLE_STUDIO "wikilink")（2009年4月 - 2011年3月）
 
 <!-- end list -->
 
@@ -216,7 +233,7 @@
 
 <!-- end list -->
 
-  - [BRIDGESTONE](../Page/ブリヂストン.md "wikilink") [AUTOMOBILE RADIO](https://ja.wikipedia.org/wiki/AUTOMOBILE_RADIO "wikilink")
+  - [BRIDGESTONE](../Page/ブリヂストン.md "wikilink") [AUTOMOBILE RADIO](../Page/AUTOMOBILE_RADIO.md "wikilink")
 
 <!-- end list -->
 
@@ -239,7 +256,7 @@
 <!-- end list -->
 
   -
-    全局時差ネット\[3\]。
+    全局時差ネット\[4\]。
 
 <!-- end list -->
 
@@ -266,7 +283,7 @@
 <!-- end list -->
 
   -
-    2015年4月よりFM802で時差ネット放送開始。2015年10月から2017年3月まではZIP-FMにて同時ネット、FM NORTH WAVE、CROSS FMにて時差ネット\[4\]\[5\]\[6\]\[7\]。2017年4月から2018年3月までは、再びFM802のみの時差ネットだった。2018年4月からはJ-WAVEのみ放送を継続。
+    2015年4月よりFM802で時差ネット放送開始。2015年10月から2017年3月まではZIP-FMにて同時ネット、FM NORTH WAVE、CROSS FMにて時差ネット\[5\]\[6\]\[7\]\[8\]。2017年4月から2018年3月までは、再びFM802のみの時差ネットだった。2018年4月からはJ-WAVEのみ放送を継続。
 
 #### 祝日特番
 
@@ -275,7 +292,7 @@
 <!-- end list -->
 
   -
-    JFL発足5周年を記念してJ-WAVEのスタジオから全局ネットで放送された、JFL初の同時生放送番組。ナビゲーターは[小林克也](../Page/小林克也.md "wikilink")、ゲストとして[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のメンバーが全員出演した\[8\]。
+    JFL発足5周年を記念してJ-WAVEのスタジオから全局ネットで放送された、JFL初の同時生放送番組。ナビゲーターは[小林克也](../Page/小林克也.md "wikilink")、ゲストとして[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のメンバーが全員出演した\[9\]。
 
 <!-- end list -->
 
@@ -284,16 +301,16 @@
 <!-- end list -->
 
   -
-    5局共同制作（放送時間とメインDJは放送局別に異なっていた）\[9\]。
+    5局共同制作（放送時間とメインDJは放送局別に異なっていた）\[10\]。
 
 <!-- end list -->
 
-  - [Café NESCAFÉ](https://ja.wikipedia.org/wiki/ネスカフェ "wikilink") presents MEET AT BOOK CAFÉ (2013年11月3日 9:00 - 17:55)
+  - [Café NESCAFÉ](../Page/ネスカフェ.md "wikilink") presents MEET AT BOOK CAFÉ (2013年11月3日 9:00 - 17:55)
 
 <!-- end list -->
 
   -
-    [HOLIDAY SPECIALとしてFM](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL "wikilink")802、ZIP-FMと同時生放送\[10\]。
+    [HOLIDAY SPECIALとしてFM](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")802、ZIP-FMと同時生放送\[11\]。
 
 <!-- end list -->
 
@@ -302,7 +319,7 @@
 <!-- end list -->
 
   -
-    [ホリスペとして](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL "wikilink")5局ネットでの放送だったが、大阪地区は[FM COCOLOでの放送となった](../Page/FM_COCOLO.md "wikilink")\[11\]。
+    [ホリスペとして](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")5局ネットでの放送だったが、大阪地区は[FM COCOLOでの放送となった](../Page/FM_COCOLO.md "wikilink")\[12\]。
 
 <!-- end list -->
 
@@ -311,11 +328,11 @@
 <!-- end list -->
 
   -
-    ホリスペとして全国同時ネット\[12\]。
+    ホリスペとして全国同時ネット\[13\]。
 
 <!-- end list -->
 
-  - JFL SPECIAL FOR THE NEXT 2014 〜LIFETIME MUSIC〜 \[13\]（2014年11月3日 18:00 - 19:55）
+  - JFL SPECIAL FOR THE NEXT 2014 〜LIFETIME MUSIC〜 \[14\]（2014年11月3日 18:00 - 19:55）
 
 <!-- end list -->
 
@@ -329,7 +346,7 @@
 <!-- end list -->
 
   -
-    5局共同制作（時差ネット）\[14\]。
+    5局共同制作（時差ネット）\[15\]。
 
 <!-- end list -->
 
@@ -338,7 +355,7 @@
 <!-- end list -->
 
   -
-    5局時差ネット\[15\]。
+    5局時差ネット\[16\]。
 
 <!-- end list -->
 
@@ -347,11 +364,11 @@
 <!-- end list -->
 
   -
-    4局時差ネット\[16\]（FM NORTH WAVEを除く）。
+    4局時差ネット\[17\]（FM NORTH WAVEを除く）。
 
 ### 系列局制作
 
-  - [ROYCE'](https://ja.wikipedia.org/wiki/ロイズコンフェクト "wikilink") SWEET MUSIC
+  - [ROYCE'](../Page/ロイズコンフェクト.md "wikilink") SWEET MUSIC
 
 <!-- end list -->
 
@@ -360,7 +377,7 @@
 
 ### JFL共同制作
 
-  - [Power Of Music](https://ja.wikipedia.org/wiki/Power_Of_Music "wikilink")（毎年9月 2007年まで）
+  - [Power Of Music](../Page/Power_Of_Music.md "wikilink")（毎年9月 2007年まで）
 
 <!-- end list -->
 
@@ -374,7 +391,7 @@
 <!-- end list -->
 
   -
-    2013年\[17\]にJFL設立20周年を記念して企画された。2014年\[18\]以降も企画を継続。
+    2013年\[18\]にJFL設立20周年を記念して企画された。2014年\[19\]以降も企画を継続。
 
 <!-- end list -->
 
@@ -383,7 +400,7 @@
 <!-- end list -->
 
   -
-    2008年よりFM802で行われていたキャンペーン企画。2016年、JFL5局共同キャンペーンとして展開した\[19\]\[20\]。
+    2008年よりFM802で行われていたキャンペーン企画。2016年、JFL5局共同キャンペーンとして展開した\[20\]\[21\]。
 
 <!-- end list -->
 
@@ -397,21 +414,21 @@
 
 <!-- end list -->
 
-  - [HOLIDAY SPECIAL](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL "wikilink")
+  - [HOLIDAY SPECIAL](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")
 
 <!-- end list -->
 
   -
-    主にJFL発足記念の[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")で、企画ネット番組に似た形式で放送される。一部時間帯でJFL各局を結び、JFL全局にネットされる。
+    主にJFL発足記念の[特別番組](../Page/特別番組.md "wikilink")で、企画ネット番組に似た形式で放送される。一部時間帯でJFL各局を結び、JFL全局にネットされる。
 
-※上記以外にもJFL共同キャンペーンによる特別番組や、特番の事前番組などが共同制作・または下記のような企画ネット番組として放送されることがある。
+上記以外にもJFL共同キャンペーンによる特別番組や、特番の事前番組などが共同制作・または下記のような企画ネット番組として放送されることがある。
 
 #### 過去に制作された番組
 
   - WARNING HIKKI ATTACK\!\!（1998年10月 - 1999年3月）
-  - [HITS CUTS NOW](https://ja.wikipedia.org/wiki/HITS_CUTS_NOW "wikilink")（1998年1月 - 2002年3月）
-  - [TRANS J-NIC online](https://ja.wikipedia.org/wiki/TRANS_J-NIC_online "wikilink")（2003年4月 - 2004年3月）
-  - [BEAT DELUXE](https://ja.wikipedia.org/wiki/BEAT_DELUXE "wikilink")（2004年4月 - 2010年3月）
+  - [HITS CUTS NOW](../Page/HITS_CUTS_NOW.md "wikilink")（1998年1月 - 2002年3月）
+  - [TRANS J-NIC online](../Page/TRANS_J-NIC_online.md "wikilink")（2003年4月 - 2004年3月）
+  - [BEAT DELUXE](../Page/BEAT_DELUXE.md "wikilink")（2004年4月 - 2010年3月）
   - [RADIO KICKS\!](https://ja.wikipedia.org/wiki/RADIO_KICKS! "wikilink")（2008年10月 - 2012年9月）
 
 <!-- end list -->
@@ -421,58 +438,50 @@
 
 ### 企画ネット番組
 
-  - [HOT 100](https://ja.wikipedia.org/wiki/HOT_100 "wikilink")
-      - [TOKIO HOT 100](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")（J-WAVE）
-      - [ZIP HOT 100](https://ja.wikipedia.org/wiki/ZIP_HOT_100 "wikilink")（ZIP-FM）
-      - [OSAKAN HOT 100](https://ja.wikipedia.org/wiki/OSAKAN_HOT_100 "wikilink")（FM802）
+  - [HOT 100](../Page/HOT_100.md "wikilink")
+      - [TOKIO HOT 100](../Page/TOKIO_HOT_100.md "wikilink")（J-WAVE）
+      - [ZIP HOT 100](../Page/ZIP_HOT_100.md "wikilink")（ZIP-FM）
+      - [OSAKAN HOT 100](../Page/OSAKAN_HOT_100.md "wikilink")（FM802）
       - [SAPPORO HOT 100](../Page/SAPPORO_HOT_100.md "wikilink")（NORTH WAVE）
   - [JOMO MORNING GREETING](https://ja.wikipedia.org/wiki/JOMO_MORNING_GREETING "wikilink")
-
-:\* J-WAVE・FM802・ZIP-FMにて放送
-
+      - J-WAVE・FM802・ZIP-FMにて放送
   - [FREE SPIRIT](https://ja.wikipedia.org/wiki/FREE_SPIRIT "wikilink")
-
-:\* FM802・CROSS FMにて放送
+      - FM802・CROSS FMにて放送
 
 #### 過去に制作された番組
 
-  - [REAL-EYES](https://ja.wikipedia.org/wiki/REAL-EYES "wikilink")
+  - [REAL-EYES](../Page/REAL-EYES.md "wikilink")
       - [TOKYO REAL-EYES](https://ja.wikipedia.org/wiki/TOKYO_REAL-EYES "wikilink")
-
-:\* J-WAVEのみ放送継続
-
-  - [NESCAFE GOLDBLEND INNER SKETCHES](https://ja.wikipedia.org/wiki/NESCAFE_GOLDBLEND_INNER_SKETCHES "wikilink")
-
-:\* J-WAVE・FM802にて放送
-
+      - J-WAVEのみ放送継続
+  - [NESCAFE GOLDBLEND INNER SKETCHES](../Page/NESCAFE_GOLDBLEND_INNER_SKETCHES.md "wikilink")
+  - J-WAVE・FM802にて放送
   - College Radio Japan
-
-:\* FM NORTH WAVE・CROSS FMにて放送
+      - FM NORTH WAVE・CROSS FMにて放送
 
 ## 協力体制
 
-上記のようにJFLは他のラジオネットワークとは性格が大きく異なっているが、JFL各局相互によるスタジオ等の提供など、いわゆる[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")による番組制作上の協力体制は整っている。
+上記のようにJFLは他のラジオネットワークとは性格が大きく異なっているが、JFL各局相互によるスタジオ等の提供など、いわゆる[裏送り](../Page/裏送り.md "wikilink")による番組制作上の協力体制は整っている。
 
-※具体的にはJ-WAVEのみで放送されているレギュラー番組において、その番組出演者がスケジュールの都合上により、他のJFL加盟局の地域にいる場合（主にアーティストのコンサートツアーなどの理由）、その地域のJFL局からの裏送りでの放送となる。またその際にスタジオ等を提供したJFL局では、通常の番組編成通りに裏送りされている番組とは異なる、レギュラー番組が放送される\[21\]。
+具体的にはJ-WAVEのみで放送されているレギュラー番組において、その番組出演者がアーティストのコンサートツアーなどの理由などのスケジュールの都合上により、他のJFL加盟局の地域にいる場合、その地域のJFL局からの裏送りでの放送となる。またその際にスタジオ等を提供したJFL局では、通常の番組編成通りに裏送りされている番組とは異なる、レギュラー番組が放送される\[22\]。
 
-また近年では全国的な[コミュニティFM局開局に伴って](../Page/コミュニティ放送.md "wikilink")、J-WAVEを配信している放送局では、J-WAVEにスタジオ等を提供するケースも出てきている。（下記参照）
+また近年では全国的な[コミュニティFM局開局に伴って](../Page/コミュニティ放送.md "wikilink")、J-WAVEを配信している放送局では、後述するようにJ-WAVEにスタジオ等を提供するケースも出てきている。
 
 ### コミュニティFMとの関係
 
-全国的にコミュニティFM局の開局が続いているが、多くの放送局では全編自社制作を行うことは、人員的・予算的な理由からほぼ不可能に近い為、番組配信会社が存在する。このうち、JFL加盟局のサービスエリア外の局を中心に、自社制作番組以外の時間帯では、[通信衛星](../Page/通信衛星.md "wikilink")の[USEN440](https://ja.wikipedia.org/wiki/USEN440 "wikilink")、ならびに[SOUND PLANET](../Page/SOUND_PLANET.md "wikilink")（[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")、以前は[DIGITAL J-WAVE 505](https://ja.wikipedia.org/wiki/DIGITAL_J-WAVE_505 "wikilink")）を経由してJ-WAVEを配信する放送局も少なくない。この関係は「宇多田ヒカルのTres Bien\! Bohemian」の放送時には社会的にも注目された。ちなみに、最初にJ-WAVEの配信を始めたコミュニティFM局は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")の[えふえむ・エヌ・ワン](https://ja.wikipedia.org/wiki/えふえむ・エヌ・ワン "wikilink")である（現在は終了）。また、ZIP-FMを除くJFL系列においてもコミュニティFM局に配信を実施している。
+全国的にコミュニティFM局の開局が続いているが、多くの放送局では全編自社制作を行うことは、人員的・予算的な理由からほぼ不可能に近い為、番組配信会社が存在する。このうち、JFL加盟局のサービスエリア外の局を中心に、自社制作番組以外の時間帯では、[通信衛星](../Page/通信衛星.md "wikilink")の[USEN440](https://ja.wikipedia.org/wiki/USEN440 "wikilink")、ならびに[SOUND PLANET](../Page/SOUND_PLANET.md "wikilink")（[USEN](../Page/USEN.md "wikilink")、以前は[DIGITAL J-WAVE 505](https://ja.wikipedia.org/wiki/DIGITAL_J-WAVE_505 "wikilink")）を経由してJ-WAVEを配信する放送局も少なくない。この関係は「宇多田ヒカルのTres Bien\! Bohemian」の放送時には社会的にも注目された。ちなみに、最初にJ-WAVEの配信を始めたコミュニティFM局は、[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")の[えふえむ・エヌ・ワン](../Page/えふえむ・エヌ・ワン.md "wikilink")である（現在は終了）。また、ZIP-FMを除くJFL系列においてもコミュニティFM局に配信を実施している。
 
-過去にはJFL加盟局への配慮もあった為か、JFL各局の放送対象地域と重複するコミュニティFM局については、J-WAVEの配信を抑える傾向にあったが、現在では直接的に放送対象地域が重複する北海道の[ラジオふらの](https://ja.wikipedia.org/wiki/ラジオふらの "wikilink")（FM NORTH WAVEと重複）・福岡県の[ドリームスエフエム](https://ja.wikipedia.org/wiki/ドリームスエフエム放送 "wikilink")（CROSS FMと重複）において、早朝・深夜また週末を中心に同局の配信を実施している。
+過去にはJFL加盟局への配慮もあった為か、JFL各局の放送対象地域と重複するコミュニティFM局については、J-WAVEの配信を抑える傾向にあったが、現在では直接的に放送対象地域が重複する北海道の[ラジオふらの](../Page/ラジオふらの.md "wikilink")（FM NORTH WAVEと重複）・福岡県の[ドリームスエフエム](../Page/ドリームスエフエム放送.md "wikilink")（CROSS FMと重複）において、早朝・深夜また週末を中心に同局の配信を実施している。
 
-またJFL各局の放送対象地域に入っていないものの、事実上可聴可能な[サービスエリア](../Page/サービスエリア.md "wikilink")では、[FM Haro\!](https://ja.wikipedia.org/wiki/浜松エフエム放送 "wikilink")（ZIP-FMエリア）[FM GENKI](https://ja.wikipedia.org/wiki/姫路シティFM21 "wikilink")（FM802エリア）などで同局の配信が行われている。
+またJFL各局の放送対象地域に入っていないものの、事実上可聴可能な[サービスエリア](../Page/サービスエリア.md "wikilink")では、[FM Haro\!](../Page/浜松エフエム放送.md "wikilink")（ZIP-FMエリア）[FM GENKI](../Page/姫路シティFM21.md "wikilink")（FM802エリア）などで同局の配信が行われている。
 
 一方で[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")のコミュニティFM局では、ほとんどの地域がJ-WAVEのサービスエリアに該当する為に配信は行われなかったが、2011年1月に開局した[M waveが配信を開始している](https://ja.wikipedia.org/wiki/まえばしCITYエフエム "wikilink")。但し、関東地方においての加盟局（ZIP-FM、FM802など）の逆配信は行われていない。
 
-最近ではJFL加盟局が存在しない地方でも、J-WAVEの配信を行っている放送局が有る場合にスタジオ等を提供して放送するケースも増えてきている。以下に同局の番組「[OH\! MY RADIO](https://ja.wikipedia.org/wiki/OH!_MY_RADIO "wikilink")」（現・「[RADIPEDIA](https://ja.wikipedia.org/wiki/RADIPEDIA "wikilink")」）での具体例を挙げる。
+最近ではJFL加盟局が存在しない地方でも、J-WAVEの配信を行っている放送局が有る場合にスタジオ等を提供して放送するケースも増えてきている。以下に同局の番組「[OH\! MY RADIO](../Page/OH!_MY_RADIO.md "wikilink")」（現・「[RADIPEDIA](https://ja.wikipedia.org/wiki/RADIPEDIA "wikilink")」）での具体例を挙げる。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月2日 - [森山直太朗](../Page/森山直太朗.md "wikilink")が[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")でのイベントに出演した後の放送の為、[ラジオ3から放送](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月20日 - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")メンバーのMAKIDAIが、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")の[ひろしまPステーション（現・FMちゅーピー）から放送](https://ja.wikipedia.org/wiki/中国コミュニケーションネットワーク "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink")12月2日 - [森山直太朗](../Page/森山直太朗.md "wikilink")が[仙台市](../Page/仙台市.md "wikilink")でのイベントに出演した後の放送の為、[ラジオ3から放送](../Page/仙台シティエフエム.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink")2月20日 - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")メンバーのMAKIDAIが、[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")の[ひろしまPステーション（現・FMちゅーピー）から放送](../Page/中国コミュニケーションネットワーク.md "wikilink")。
 
-コミュニティFM局でJ-WAVEをそのまま流すデメリットとしては、J-WAVEの放送エリア[天気予報](../Page/天気予報.md "wikilink")・[交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")となる点である。
+コミュニティFM局でJ-WAVEをそのまま流すデメリットとしては、J-WAVEの放送エリアの[天気予報](../Page/天気予報.md "wikilink")・[交通情報](../Page/交通情報.md "wikilink")がそのまま流れてしまう点である。
 
 ### J-WAVE 配信局一覧
 
@@ -480,24 +489,24 @@
 
 #### 北海道・東北
 
-  - [ラジオふらの](https://ja.wikipedia.org/wiki/ラジオふらの "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[富良野市](../Page/富良野市.md "wikilink")）
-  - [FM-JAGA](https://ja.wikipedia.org/wiki/エフエムおびひろ "wikilink")（北海道[帯広市](../Page/帯広市.md "wikilink")）：2019年9月配信終了
-  - [Be FM](https://ja.wikipedia.org/wiki/ビーエフエム "wikilink")（[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")）
-  - [エフエムアップルウェーブ](https://ja.wikipedia.org/wiki/エフエムアップルウェーブ "wikilink")（青森県[弘前市](../Page/弘前市.md "wikilink")）
+  - [ラジオふらの](../Page/ラジオふらの.md "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[富良野市](../Page/富良野市.md "wikilink")）
+  - [FM-JAGA](../Page/エフエムおびひろ.md "wikilink")（北海道[帯広市](../Page/帯広市.md "wikilink")）：2019年9月配信終了
+  - [Be FM](../Page/ビーエフエム.md "wikilink")（[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[八戸市](https://ja.wikipedia.org/wiki/八戸市 "wikilink")）
+  - [エフエムアップルウェーブ](../Page/エフエムアップルウェーブ.md "wikilink")（青森県[弘前市](../Page/弘前市.md "wikilink")）
   - [横手かまくらエフエム](https://ja.wikipedia.org/wiki/横手コミュニティFM放送 "wikilink")（[秋田県](../Page/秋田県.md "wikilink")[横手市](../Page/横手市.md "wikilink")）
-  - [ラヂオもりおか](https://ja.wikipedia.org/wiki/ラヂオもりおか "wikilink")（[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")）
-  - [カシオペアFM](https://ja.wikipedia.org/wiki/カシオペア市民情報ネットワーク "wikilink")（岩手県[二戸市](../Page/二戸市.md "wikilink")）
+  - [ラヂオもりおか](../Page/ラヂオもりおか.md "wikilink")（[岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")）
+  - [カシオペアFM](../Page/カシオペア市民情報ネットワーク.md "wikilink")（岩手県[二戸市](../Page/二戸市.md "wikilink")）
   - [きたかみE\&Beエフエム](../Page/北上ケーブルテレビ.md "wikilink")（岩手県[北上市](../Page/北上市.md "wikilink")）
   - [FMあすも](https://ja.wikipedia.org/wiki/一関コミュニティFM "wikilink")（岩手県[一関市](../Page/一関市.md "wikilink")）
   - [FMねまらいん](https://ja.wikipedia.org/wiki/FMねまらいん "wikilink")（岩手県[大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")）：2018年配信終了
-  - [ラジオ3](https://ja.wikipedia.org/wiki/仙台シティエフエム "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](https://ja.wikipedia.org/wiki/仙台市 "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")）
-  - [FMいずみ](https://ja.wikipedia.org/wiki/せんだい泉エフエム放送 "wikilink")（宮城県仙台市[泉区](../Page/泉区_\(仙台市\).md "wikilink")）
+  - [ラジオ3](../Page/仙台シティエフエム.md "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")）
+  - [FMいずみ](../Page/せんだい泉エフエム放送.md "wikilink")（宮城県仙台市[泉区](../Page/泉区_\(仙台市\).md "wikilink")）
   - [BAY WAVE](../Page/エフエムベイエリア.md "wikilink")（宮城県[塩竈市](../Page/塩竈市.md "wikilink")）
   - [ラジオ石巻](../Page/石巻コミュニティ放送.md "wikilink")（宮城県[石巻市](../Page/石巻市.md "wikilink")）
   - [H@\!FM](https://ja.wikipedia.org/wiki/登米コミュニティエフエム "wikilink")（宮城県[登米市](https://ja.wikipedia.org/wiki/登米市 "wikilink")）
-  - [ラジオモンスター](https://ja.wikipedia.org/wiki/山形コミュニティ放送 "wikilink")（[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[山形市](../Page/山形市.md "wikilink")）
-  - [ハーバーRADIO](https://ja.wikipedia.org/wiki/酒田エフエム放送 "wikilink")（山形県[酒田市](../Page/酒田市.md "wikilink")）
-  - [FM 愛'S](https://ja.wikipedia.org/wiki/エフエム会津 "wikilink")（福島県[会津若松市](https://ja.wikipedia.org/wiki/会津若松市 "wikilink")）
+  - [ラジオモンスター](../Page/山形コミュニティ放送.md "wikilink")（[山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")）
+  - [ハーバーRADIO](../Page/酒田エフエム放送.md "wikilink")（山形県[酒田市](../Page/酒田市.md "wikilink")）
+  - [FM 愛'S](../Page/エフエム会津.md "wikilink")（福島県[会津若松市](https://ja.wikipedia.org/wiki/会津若松市 "wikilink")）
 
 #### 関東
 
@@ -505,56 +514,56 @@
 
 #### 中部
 
-  - [FMぜんこうじ](https://ja.wikipedia.org/wiki/ながのコミュニティ放送 "wikilink")（[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")）
-  - [iステーション](https://ja.wikipedia.org/wiki/飯田エフエム放送 "wikilink")（長野県[飯田市](../Page/飯田市.md "wikilink")）
-  - [FMまつもと](https://ja.wikipedia.org/wiki/エフエムまつもと "wikilink")（長野県[松本市](https://ja.wikipedia.org/wiki/松本市 "wikilink")）
-  - [FM KENTO](https://ja.wikipedia.org/wiki/けんと放送 "wikilink")（[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")）
-  - [ラヂオは〜と](https://ja.wikipedia.org/wiki/燕三条エフエム放送 "wikilink")（新潟県[三条市](../Page/三条市.md "wikilink")・[燕市](../Page/燕市.md "wikilink")）
+  - [FMぜんこうじ](../Page/ながのコミュニティ放送.md "wikilink")（[長野県](../Page/長野県.md "wikilink")[長野市](../Page/長野市.md "wikilink")）
+  - [iステーション](../Page/飯田エフエム放送.md "wikilink")（長野県[飯田市](../Page/飯田市.md "wikilink")）
+  - [FMまつもと](https://ja.wikipedia.org/wiki/エフエムまつもと "wikilink")（長野県[松本市](../Page/松本市.md "wikilink")）
+  - [FM KENTO](../Page/けんと放送.md "wikilink")（[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")）
+  - [ラヂオは〜と](../Page/燕三条エフエム放送.md "wikilink")（新潟県[三条市](../Page/三条市.md "wikilink")・[燕市](../Page/燕市.md "wikilink")）
   - [長岡移動電話システム](https://ja.wikipedia.org/wiki/FMながおか "wikilink")（新潟県[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）
-  - [City FM](https://ja.wikipedia.org/wiki/富山シティエフエム "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")）
+  - [City FM](../Page/富山シティエフエム.md "wikilink")（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")）
   - [ラジオ・ミュー](../Page/新川コミュニティ放送.md "wikilink")（富山県[黒部市](../Page/黒部市.md "wikilink")）
   - [エフエムいみず](../Page/エフエムいみず.md "wikilink")（富山県[射水市](../Page/射水市.md "wikilink")）
-  - [FM-Hi\!](https://ja.wikipedia.org/wiki/シティエフエム静岡 "wikilink")（[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[葵区](https://ja.wikipedia.org/wiki/葵区 "wikilink")）
-  - [FM Haro\!](https://ja.wikipedia.org/wiki/浜松エフエム放送 "wikilink")（静岡県[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[中区](https://ja.wikipedia.org/wiki/中区_\(浜松市\) "wikilink")）
-  - [COAST-FM](https://ja.wikipedia.org/wiki/エフエムぬまづ "wikilink")（静岡県[沼津市](../Page/沼津市.md "wikilink")）
-  - [Radio-f](https://ja.wikipedia.org/wiki/富士コミュニティエフエム放送 "wikilink")（静岡県[富士市](../Page/富士市.md "wikilink")）
+  - [FM-Hi\!](../Page/シティエフエム静岡.md "wikilink")（[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")[葵区](../Page/葵区.md "wikilink")）
+  - [FM Haro\!](../Page/浜松エフエム放送.md "wikilink")（静岡県[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[中区](../Page/中区_\(浜松市\).md "wikilink")）
+  - [COAST-FM](../Page/エフエムぬまづ.md "wikilink")（静岡県[沼津市](../Page/沼津市.md "wikilink")）
+  - [Radio-f](../Page/富士コミュニティエフエム放送.md "wikilink")（静岡県[富士市](../Page/富士市.md "wikilink")）
 
 #### 近畿・中国・四国
 
-  - [YES-fm](https://ja.wikipedia.org/wiki/エフエムちゅうおう "wikilink")（[大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](https://ja.wikipedia.org/wiki/大阪市 "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")）：2018年配信終了
+  - [YES-fm](../Page/エフエムちゅうおう.md "wikilink")（[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")）：2018年配信終了
   - [BAN-BANラジオ](../Page/BAN-BANテレビ.md "wikilink")（[兵庫県](../Page/兵庫県.md "wikilink")[加古川市](https://ja.wikipedia.org/wiki/加古川市 "wikilink")）
-  - [FM GENKI](https://ja.wikipedia.org/wiki/姫路シティFM21 "wikilink")（[兵庫県](../Page/兵庫県.md "wikilink")[姫路市](https://ja.wikipedia.org/wiki/姫路市 "wikilink")）
-  - [ビーチステーション](https://ja.wikipedia.org/wiki/南紀白浜コミュニティ放送 "wikilink")（[和歌山県](../Page/和歌山県.md "wikilink")[西牟婁郡](../Page/西牟婁郡.md "wikilink")[白浜町](../Page/白浜町.md "wikilink")）
-  - [RADIO BIRD](https://ja.wikipedia.org/wiki/FM鳥取 "wikilink")（[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")）
+  - [FM GENKI](../Page/姫路シティFM21.md "wikilink")（[兵庫県](../Page/兵庫県.md "wikilink")[姫路市](../Page/姫路市.md "wikilink")）
+  - [ビーチステーション](../Page/南紀白浜コミュニティ放送.md "wikilink")（[和歌山県](../Page/和歌山県.md "wikilink")[西牟婁郡](../Page/西牟婁郡.md "wikilink")[白浜町](../Page/白浜町.md "wikilink")）
+  - [RADIO BIRD](../Page/FM鳥取.md "wikilink")（[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")）
   - [FMくらしき](https://ja.wikipedia.org/wiki/FMくらしき "wikilink")（[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")）
-  - [FMちゅーピー](https://ja.wikipedia.org/wiki/中国コミュニケーションネットワーク "wikilink")（[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[中区](../Page/中区_\(広島市\).md "wikilink")）
-  - [レディオBINGO](https://ja.wikipedia.org/wiki/エフエムふくやま "wikilink")（広島県[福山市](../Page/福山市.md "wikilink")）
-  - [FMわっしょい](https://ja.wikipedia.org/wiki/ぷらざFM "wikilink")（[山口県](../Page/山口県.md "wikilink")[防府市](../Page/防府市.md "wikilink")）：2013年配信終了
-  - [NANAKO](https://ja.wikipedia.org/wiki/エフエム萩 "wikilink")（山口県[萩市](../Page/萩市.md "wikilink")）
-  - [FM SUN](https://ja.wikipedia.org/wiki/エフエムサン "wikilink")（[香川県](../Page/香川県.md "wikilink")[坂出市](https://ja.wikipedia.org/wiki/坂出市 "wikilink")）
-  - [Whale Station](https://ja.wikipedia.org/wiki/高知シティエフエムラジオ放送 "wikilink")（[高知県](../Page/高知県.md "wikilink")[高知市](../Page/高知市.md "wikilink")）
+  - [FMちゅーピー](../Page/中国コミュニケーションネットワーク.md "wikilink")（[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")[中区](../Page/中区_\(広島市\).md "wikilink")）
+  - [レディオBINGO](../Page/エフエムふくやま.md "wikilink")（広島県[福山市](../Page/福山市.md "wikilink")）
+  - [FMわっしょい](../Page/ぷらざFM.md "wikilink")（[山口県](../Page/山口県.md "wikilink")[防府市](../Page/防府市.md "wikilink")）：2013年配信終了
+  - [NANAKO](../Page/エフエム萩.md "wikilink")（山口県[萩市](../Page/萩市.md "wikilink")）
+  - [FM SUN](../Page/エフエムサン.md "wikilink")（[香川県](../Page/香川県.md "wikilink")[坂出市](../Page/坂出市.md "wikilink")）
+  - [Whale Station](../Page/高知シティエフエムラジオ放送.md "wikilink")（[高知県](../Page/高知県.md "wikilink")[高知市](../Page/高知市.md "wikilink")）
 
 #### 九州
 
-  - [ドリームスエフエム](https://ja.wikipedia.org/wiki/ドリームスエフエム放送 "wikilink")（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[久留米市](../Page/久留米市.md "wikilink")）
-  - [シティエフエム都城](https://ja.wikipedia.org/wiki/シティエフエム都城 "wikilink")（[宮崎県](../Page/宮崎県.md "wikilink")[都城市](https://ja.wikipedia.org/wiki/都城市 "wikilink")）
-  - [FRIENDS FM762](https://ja.wikipedia.org/wiki/鹿児島シティエフエム "wikilink")（[鹿児島県](https://ja.wikipedia.org/wiki/鹿児島県 "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")）
-  - [エフエムみやこ](https://ja.wikipedia.org/wiki/エフエムみやこ "wikilink")（[沖縄県](../Page/沖縄県.md "wikilink")[宮古島市](https://ja.wikipedia.org/wiki/宮古島市 "wikilink")）
+  - [ドリームスエフエム](../Page/ドリームスエフエム放送.md "wikilink")（[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")）
+  - [シティエフエム都城](../Page/シティエフエム都城.md "wikilink")（[宮崎県](../Page/宮崎県.md "wikilink")[都城市](https://ja.wikipedia.org/wiki/都城市 "wikilink")）
+  - [FRIENDS FM762](../Page/鹿児島シティエフエム.md "wikilink")（[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")）
+  - [エフエムみやこ](../Page/エフエムみやこ.md "wikilink")（[沖縄県](../Page/沖縄県.md "wikilink")[宮古島市](../Page/宮古島市.md "wikilink")）
 
 ### FM NORTH WAVE 配信局
 
-  - [FMはな](https://ja.wikipedia.org/wiki/FMなかしべつ放送 "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[中標津町](../Page/中標津町.md "wikilink")）：2010年配信終了
-  - [FMびゅー](https://ja.wikipedia.org/wiki/室蘭まちづくり放送 "wikilink")（北海道[室蘭市](../Page/室蘭市.md "wikilink")）
+  - [FMはな](../Page/FMなかしべつ放送.md "wikilink")（[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[中標津町](../Page/中標津町.md "wikilink")）：2010年配信終了
+  - [FMびゅー](../Page/室蘭まちづくり放送.md "wikilink")（北海道[室蘭市](../Page/室蘭市.md "wikilink")）
       - [wi-radio](https://ja.wikipedia.org/wiki/wi-radio "wikilink")（北海道[伊達市](../Page/伊達市_\(北海道\).md "wikilink")）
 
 ### FM802 配信局
 
-  - [Radio Sweet](https://ja.wikipedia.org/wiki/びわ湖キャプテン "wikilink")（[滋賀県](../Page/滋賀県.md "wikilink")[東近江市](https://ja.wikipedia.org/wiki/東近江市 "wikilink")）
+  - [Radio Sweet](../Page/びわ湖キャプテン.md "wikilink")（[滋賀県](../Page/滋賀県.md "wikilink")[東近江市](../Page/東近江市.md "wikilink")）
   - [DARAZ FM](https://ja.wikipedia.org/wiki/DARAZコミュニティ放送 "wikilink")（[鳥取県](../Page/鳥取県.md "wikilink")[米子市](../Page/米子市.md "wikilink")）：2014年配信終了
 
 ### CROSS FM 配信局
 
-  - [green pocket](https://ja.wikipedia.org/wiki/エフエム小国 "wikilink")（[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[小国町](../Page/小国町_\(熊本県\).md "wikilink")）：J-WAVEからの切り替え、2018年3月配信終了。\[22\]
+  - [green pocket](../Page/エフエム小国.md "wikilink")（[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[小国町](../Page/小国町_\(熊本県\).md "wikilink")）：J-WAVEからの切り替え、2018年3月配信終了。\[23\]
 
 ## 脚注
 
@@ -569,24 +578,25 @@
 [Category:JAPAN_FM_LEAGUE](https://ja.wikipedia.org/wiki/Category:JAPAN_FM_LEAGUE "wikilink") [Category:日本の民放ネットワーク](https://ja.wikipedia.org/wiki/Category:日本の民放ネットワーク "wikilink") [Category:バブル景気](https://ja.wikipedia.org/wiki/Category:バブル景気 "wikilink") [Category:1993年設立の組織](https://ja.wikipedia.org/wiki/Category:1993年設立の組織 "wikilink")
 
 1.
-2.  J-WAVE TIME TABLE 2013.8 pp.8-9　より
-3.
-4.  [Antenna TRAVELLING WITHOUT MOVING](http://www.j-wave.co.jp/original/travelling/) - J-WAVE 81.3 FM RADIO 2015年10月1日閲覧
-5.  [野村訓市｜DJ INDEX](http://www.fmnorth.co.jp/dj/dj_nomura.asp) - FM NORTH WAVE 2015年10月1日閲覧
-6.  [SUNDAY TIME TABLE](http://zip-fm.co.jp/pro_index/time_table/sun.asp) - ZIP-FM77.8 2015年10月1日閲覧
-7.  [cross fm 番組表](http://crossfm.co.jp/contpgms/w_main.php?oya_id=418) 2015年10月18日閲覧
-8.
+2.  [停波のお知らせ](https://www.fmport.com/topics/images/2020top/200331PORT_teiha.pdf)
+3.  J-WAVE TIME TABLE 2013.8 pp.8-9　より
+4.
+5.  [Antenna TRAVELLING WITHOUT MOVING](http://www.j-wave.co.jp/original/travelling/) - J-WAVE 81.3 FM RADIO 2015年10月1日閲覧
+6.  [野村訓市｜DJ INDEX](http://www.fmnorth.co.jp/dj/dj_nomura.asp) - FM NORTH WAVE 2015年10月1日閲覧
+7.  [SUNDAY TIME TABLE](http://zip-fm.co.jp/pro_index/time_table/sun.asp) - ZIP-FM77.8 2015年10月1日閲覧
+8.  [cross fm 番組表](http://crossfm.co.jp/contpgms/w_main.php?oya_id=418) 2015年10月18日閲覧
 9.
 10.
 11.
 12.
 13.
 14.
-15. "[DEAN FUJIOKA、藤原さくら…ACCESS\!春のキャンペーンソング制作秘話が聞けるかも？FM802特番決定！](http://top.tsite.jp/news/j-pop/i/28567119/)" - T-SITE 2016年4月27日閲覧
-16.
+15.
+16. "[DEAN FUJIOKA、藤原さくら…ACCESS\!春のキャンペーンソング制作秘話が聞けるかも？FM802特番決定！](http://top.tsite.jp/news/j-pop/i/28567119/)" - T-SITE 2016年4月27日閲覧
 17.
 18.
 19.
 20.
-21. 例として、J-WAVEの朝の番組「[J-WAVE TOKYO MORNING RADIO](https://ja.wikipedia.org/wiki/J-WAVE_TOKYO_MORNING_RADIO "wikilink")」では、ナビゲーターに俳優の[別所哲也](../Page/別所哲也.md "wikilink")を当てていることもあって、彼が大阪にいるときには、FM802から裏送りで番組を行ったことがある。
-22.
+21.
+22. 例として、J-WAVEの朝の番組「[J-WAVE TOKYO MORNING RADIO](https://ja.wikipedia.org/wiki/J-WAVE_TOKYO_MORNING_RADIO "wikilink")」では、ナビゲーターに俳優の[別所哲也](../Page/別所哲也.md "wikilink")を当てていることもあって、彼が大阪にいるときには、FM802から裏送りで番組を行ったことがある。
+23.

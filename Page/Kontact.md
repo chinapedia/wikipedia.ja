@@ -1,7 +1,7 @@
 > この記事は[Kontact](https://ja.wikipedia.org/wiki/Kontact)から翻訳されています。
 
 
-**Kontact**は[KDE](../Page/KDE.md "wikilink")用の[個人情報マネージャと](https://ja.wikipedia.org/wiki/Personal_Information_Manager "wikilink")[グループウェア](../Page/グループウェア.md "wikilink")ソフトウェアスイートである。カレンダー、コンタクト、To-doリスト、ニュースとメールをサポートする。多くのアプリケーションをアプリケーション内に組み込むために[KPart](https://ja.wikipedia.org/wiki/KPart "wikilink")sを利用している。
+**Kontact**は[KDE](../Page/KDE.md "wikilink")用の[個人情報マネージャと](../Page/Personal_Information_Manager.md "wikilink")[グループウェア](../Page/グループウェア.md "wikilink")ソフトウェアスイートである。カレンダー、コンタクト、To-doリスト、ニュースとメールをサポートする。多くのアプリケーションをアプリケーション内に組み込むために[KPart](https://ja.wikipedia.org/wiki/KPart "wikilink")sを利用している。
 
 ## コンポーネント
 
@@ -14,7 +14,7 @@ Kontactは以下を組み込んでいる。
   - To-do: [KOrganizer](https://ja.wikipedia.org/wiki/KOrganizer "wikilink")
   - ジャーナル: [KOrganizer](https://ja.wikipedia.org/wiki/KOrganizer "wikilink")
   - メモ: [KNotes](https://ja.wikipedia.org/wiki/KNotes "wikilink") - KDE Notes Management
-  - フィード: [Akregator](https://ja.wikipedia.org/wiki/Akregator "wikilink") - KDE[フィードリーダー](https://ja.wikipedia.org/wiki/フィードリーダー "wikilink")
+  - フィード: [Akregator](https://ja.wikipedia.org/wiki/Akregator "wikilink") - KDE[フィードリーダー](../Page/フィードリーダー.md "wikilink")
   - ニュース ([Usenet](https://ja.wikipedia.org/wiki/Usenet "wikilink")): [KNode](https://ja.wikipedia.org/wiki/KNode "wikilink")
   - ニュースティッカー: [KNewsTicker](https://ja.wikipedia.org/wiki/KNewsTicker "wikilink")
   - 天気: [KWeather](https://ja.wikipedia.org/wiki/KWeather "wikilink")
@@ -24,7 +24,7 @@ Kontactは以下を組み込んでいる。
 ## 関連項目
 
   - [David Vignoni](https://ja.wikipedia.org/wiki/David_Vignoni "wikilink"): アイコンのデザイナ
-  - [Evolution (ソフトウェア)](https://ja.wikipedia.org/wiki/Evolution_\(ソフトウェア\) "wikilink")
+  - [Evolution (ソフトウェア)](../Page/Evolution_\(ソフトウェア\).md "wikilink")
 
 ## 外部リンク
 

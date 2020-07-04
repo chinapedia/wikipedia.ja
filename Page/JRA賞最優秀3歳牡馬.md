@@ -359,7 +359,7 @@
 <td><p>7戦4勝<br />
 東京優駿</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バンブー牧場" title="wikilink">バンブー牧場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/布施正" title="wikilink">布施正</a></p></td>
+<td><p><a href="../Page/布施正.md" title="wikilink">布施正</a></p></td>
 <td><p>竹田辰一</p></td>
 <td></td>
 </tr>

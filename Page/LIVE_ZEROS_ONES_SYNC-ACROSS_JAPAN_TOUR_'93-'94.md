@@ -1,7 +1,7 @@
 > この記事は[LIVE ZEROS ONES SYNC-ACROSS JAPAN TOUR \'93-\'94](https://ja.wikipedia.org/wiki/LIVE_ZEROS_ONES_SYNC-ACROSS_JAPAN_TOUR_\'93-\'94)から翻訳されています。
 
 
-『**LIVE ZEROS ONES SYNC-ACROSS JAPAN TOUR '93-'94**』（ライブ・ゼロス・ワンス・シンク・アクロス・ジャパン・ツアー・ナインティースリー・トゥ・ナインティーフォー）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月15日にリリースされた[accessのライブアルバム](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\) "wikilink")。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")。
+『**LIVE ZEROS ONES SYNC-ACROSS JAPAN TOUR '93-'94**』（ライブ・ゼロス・ワンス・シンク・アクロス・ジャパン・ツアー・ナインティースリー・トゥ・ナインティーフォー）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月15日にリリースされた[accessのライブアルバム](../Page/Access_\(音楽ユニット\).md "wikilink")。発売元は[ファンハウス](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")。
 
 ## 概要
 

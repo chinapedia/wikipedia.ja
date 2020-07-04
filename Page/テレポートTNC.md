@@ -1,7 +1,7 @@
-> この記事は[TNC](https://ja.wikipedia.org/wiki/TNC)から翻訳されています。
+> この記事は[テレポートTNC](https://ja.wikipedia.org/wiki/テレポートTNC)から翻訳されています。
 
 
-『**テレポートTNC**』（テレポートティーエヌシー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ西日本](../Page/テレビ西日本.md "wikilink")が[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")[夕](https://ja.wikipedia.org/wiki/夕 "wikilink")方6時台に放送していた[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")向けの[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。
+『**テレポートTNC**』（テレポートティーエヌシー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ西日本](../Page/テレビ西日本.md "wikilink")が[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方6時台に放送していた[福岡県](../Page/福岡県.md "wikilink")向けの[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")。
 
 ## 番組概要
 
@@ -37,13 +37,13 @@
 ## 関連項目
 
   - [FNNニュースレポート6:00](../Page/FNNニュースレポート6:00.md "wikilink")
-  - [TNCニュース](https://ja.wikipedia.org/wiki/TNCニュース "wikilink")
+  - [TNCニュース](../Page/TNCニュース.md "wikilink")
   - [テレポート](https://ja.wikipedia.org/wiki/テレポート "wikilink")
-      - [テレポートあきた](https://ja.wikipedia.org/wiki/テレポートあきた "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）
+      - [テレポートあきた](../Page/テレポートあきた.md "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")）
       - [テレポート山形](https://ja.wikipedia.org/wiki/テレポート山形 "wikilink")（[山形テレビ](../Page/山形テレビ.md "wikilink")）
       - [FTVテレポート](../Page/FTVテレポート.md "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")）
       - [中日ニュース テレポートとやま](../Page/中日ニュース_テレポートとやま.md "wikilink")（[富山テレビ](../Page/富山テレビ放送.md "wikilink")）
-  - [TNCスーパータイム NEWS\&SPORTS](https://ja.wikipedia.org/wiki/TNCスーパータイム_NEWS&SPORTS "wikilink") - 後番組。
-  - [TNCニュースレポート5:30](https://ja.wikipedia.org/wiki/TNCニュースレポート5:30 "wikilink") - [週末](https://ja.wikipedia.org/wiki/週末 "wikilink")のみに放送。
+  - [TNCスーパータイム NEWS\&SPORTS](../Page/TNCスーパータイム_NEWS&SPORTS.md "wikilink") - 後番組。
+  - [TNCニュースレポート5:30](https://ja.wikipedia.org/wiki/TNCニュースレポート5:30 "wikilink") - [週末](../Page/週末.md "wikilink")のみに放送。
 
 [Category:1978年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1978年のテレビ番組_\(日本\) "wikilink") [Category:テレビ西日本の帯番組](https://ja.wikipedia.org/wiki/Category:テレビ西日本の帯番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink")

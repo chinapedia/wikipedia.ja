@@ -1,18 +1,18 @@
-> この記事は[FX](https://ja.wikipedia.org/wiki/FX)から翻訳されています。
+> この記事は[FXザ・シリーズ](https://ja.wikipedia.org/wiki/FXザ・シリーズ)から翻訳されています。
 
 
-『**F/X THE SERIES**』（*F/X ザ・シリーズ*） は、[1996年](../Page/1996年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に渡り、[アメリカで放映された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[サスペンス](https://ja.wikipedia.org/wiki/サスペンス "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の映画『[F/X 引き裂かれたトリック](https://ja.wikipedia.org/wiki/F/X_引き裂かれたトリック "wikilink")』のテレビシリーズ版。
+『**F/X THE SERIES**』（*F/X ザ・シリーズ*） は、[1996年](../Page/1996年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に渡り、[アメリカで放映された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[サスペンス](../Page/サスペンス.md "wikilink")[アクション](https://ja.wikipedia.org/wiki/アクション "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")の映画『[F/X 引き裂かれたトリック](https://ja.wikipedia.org/wiki/F/X_引き裂かれたトリック "wikilink")』のテレビシリーズ版。
 
-日本では[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に販売用ビデオとレンタルビデオで一部のエピソードを先行して視聴できたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降全国の地上波放送局と[AXN](https://ja.wikipedia.org/wiki/AXN "wikilink")で放映された。
+日本では[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に販売用ビデオとレンタルビデオで一部のエピソードを先行して視聴できたが、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")以降全国の地上波放送局と[AXN](../Page/AXN.md "wikilink")で放映された。
 
 ## 登場人物
 
   - ローランド・"ロリー"・タイラー (Roland 'Rollie' Tyler)
-    演：[キャメロン・ダッド](https://ja.wikipedia.org/wiki/キャメロン・ダッド "wikilink") ([Cameron Daddo](https://ja.wikipedia.org/wiki/:en:Cameron_Daddo "wikilink"))、吹替：[石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")
+    演：[キャメロン・ダッド](https://ja.wikipedia.org/wiki/キャメロン・ダッド "wikilink") ([Cameron Daddo](https://ja.wikipedia.org/wiki/:en:Cameron_Daddo "wikilink"))、吹替：[石丸博也](../Page/石丸博也.md "wikilink")
   - レオ・マッカーシー (Leo McCarthy)
-    演：[ケビン・ダブソン](https://ja.wikipedia.org/wiki/ケビン・ダブソン "wikilink") ([Kevin Dobson](https://ja.wikipedia.org/wiki/:en:Kevin_Dobson "wikilink"))、吹替：[菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")
+    演：[ケビン・ダブソン](https://ja.wikipedia.org/wiki/ケビン・ダブソン "wikilink") ([Kevin Dobson](https://ja.wikipedia.org/wiki/:en:Kevin_Dobson "wikilink"))、吹替：[菅生隆之](../Page/菅生隆之.md "wikilink")
   - ルシンダ・スコット (Lucinda Scott)
-    演：[キャリー＝アン・モス](https://ja.wikipedia.org/wiki/キャリー＝アン・モス "wikilink") ([Carrie-Anne Moss](https://ja.wikipedia.org/wiki/:en:Carrie-Anne_Moss "wikilink"))、吹替：[塩田朋子](../Page/塩田朋子.md "wikilink")
+    演：[キャリー＝アン・モス](../Page/キャリー＝アン・モス.md "wikilink") ([Carrie-Anne Moss](https://ja.wikipedia.org/wiki/:en:Carrie-Anne_Moss "wikilink"))、吹替：[塩田朋子](../Page/塩田朋子.md "wikilink")
   - アンジェラ・"アンジー"・ラミレス (Angela 'Angie' Ramirez)
     演：[クリスティナ・コックス](https://ja.wikipedia.org/wiki/クリスティナ・コックス "wikilink") ([Christina Cox](https://ja.wikipedia.org/wiki/:en:Christina_Cox "wikilink"))、吹替：[伊倉一恵](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink")
 

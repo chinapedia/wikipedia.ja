@@ -36,7 +36,7 @@
   -
 
       -
-        [ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")、流行通信等、ミュージシャン、ファッション、CFまであらゆるメディアをかけぬけた[フォトグラファー](https://ja.wikipedia.org/wiki/フォトグラファー "wikilink")。[2004年](../Page/2004年.md "wikilink")、不慮の事故により急逝。37歳没。
+        [ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")、[SMAP](../Page/SMAP.md "wikilink")、[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")、流行通信等、ミュージシャン、ファッション、CFまであらゆるメディアをかけぬけた[フォトグラファー](https://ja.wikipedia.org/wiki/フォトグラファー "wikilink")。[2004年](../Page/2004年.md "wikilink")、不慮の事故により急逝。37歳没。
 
 ### サポートメンバー
 

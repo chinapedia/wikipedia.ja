@@ -1,15 +1,15 @@
-> この記事は[ STR1](https://ja.wikipedia.org/wiki/_STR1)から翻訳されています。
+> この記事は[トロ・ロッソ STR1](https://ja.wikipedia.org/wiki/トロ・ロッソ_STR1)から翻訳されています。
 
 
-**トロ・ロッソ STR1**（*Toro Rosso STR1*）は[スクーデリア・トロ・ロッソ](https://ja.wikipedia.org/wiki/スクーデリア・トロ・ロッソ "wikilink")が[2006年のF1世界選手権](https://ja.wikipedia.org/wiki/2006年のF1世界選手権 "wikilink")に投入した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")。
+**トロ・ロッソ STR1**（*Toro Rosso STR1*）は[スクーデリア・トロ・ロッソ](../Page/スクーデリア・トロ・ロッソ.md "wikilink")が[2006年のF1世界選手権](../Page/2006年のF1世界選手権.md "wikilink")に投入した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")。
 
 ## 開発
 
-[ミナルディ](https://ja.wikipedia.org/wiki/ミナルディ "wikilink")を買収して発足したトロ・ロッソにとって最初のF1マシンとなる。兄弟チームである[レッドブルが](https://ja.wikipedia.org/wiki/レッドブル・レーシング "wikilink")2005年に使用した[RB1をもとに](https://ja.wikipedia.org/wiki/レッドブル・RB1 "wikilink")2006年のレギュレーションにあわせて改修したものである。
+[ミナルディ](https://ja.wikipedia.org/wiki/ミナルディ "wikilink")を買収して発足したトロ・ロッソにとって最初のF1マシンとなる。兄弟チームである[レッドブルが](../Page/レッドブル・レーシング.md "wikilink")2005年に使用した[RB1をもとに](../Page/レッドブル・RB1.md "wikilink")2006年のレギュレーションにあわせて改修したものである。
 
-本来であればオリジナルマシンで戦うという[コンコルド協定](https://ja.wikipedia.org/wiki/コンコルド協定 "wikilink")に違反するが、[国際自動車連盟](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink") (FIA) の[マックス・モズレー](../Page/マックス・モズレー.md "wikilink")会長が、もととなったマシンを製造したのはレッドブル・レーシングではなく、既に消滅した[ジャガーであるため](https://ja.wikipedia.org/wiki/ジャガー・レーシング "wikilink")、協定違反ではない、との公式コメントを出したことで、正式に使用が認められた。
+本来であればオリジナルマシンで戦うという[コンコルド協定](../Page/コンコルド協定.md "wikilink")に違反するが、[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (FIA) の[マックス・モズレー](../Page/マックス・モズレー.md "wikilink")会長が、もととなったマシンを製造したのはレッドブル・レーシングではなく、既に消滅した[ジャガーであるため](../Page/ジャガー・レーシング.md "wikilink")、協定違反ではない、との公式コメントを出したことで、正式に使用が認められた。
 
-この年から2.4L V8エンジンを使うことが義務付けられていたが、特例として回転数などを制限した、コスワース3L [V10エンジンの使用も認められた](https://ja.wikipedia.org/wiki/V型10気筒 "wikilink")。
+この年から2.4L V8エンジンを使うことが義務付けられていたが、特例として回転数などを制限した、コスワース3L [V10エンジンの使用も認められた](../Page/V型10気筒.md "wikilink")。
 
 ## スペック
 
@@ -24,10 +24,10 @@
 
 ### エンジン
 
-  - エンジン名 [コスワース](https://ja.wikipedia.org/wiki/コスワース "wikilink")[TJ2006シリーズ14](https://ja.wikipedia.org/wiki/フォード・コスワース・CRエンジン "wikilink")
+  - エンジン名 [コスワース](../Page/コスワース.md "wikilink")[TJ2006シリーズ14](https://ja.wikipedia.org/wiki/フォード・コスワース・CRエンジン "wikilink")
   - 気筒数・角度 制限\*付きV型10気筒・90度
   - 排気量 2,998cc
-  - 燃料 [シェル](https://ja.wikipedia.org/wiki/ロイヤル・ダッチ・シェル "wikilink")
+  - 燃料 [シェル](../Page/ロイヤル・ダッチ・シェル.md "wikilink")
 
 \*[リストリクター](../Page/リストリクター.md "wikilink")と回転数規制
 
@@ -97,9 +97,9 @@
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2006年中国グランプリ" title="wikilink">CHN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
+<td><p><a href="../Page/2006年日本グランプリ_(4輪).md" title="wikilink">JPN</a><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年ブラジルグランプリ" title="wikilink">BRA</a><br />
+<td><p><a href="../Page/2006年ブラジルグランプリ.md" title="wikilink">BRA</a><br />
 </p></td>
 <td></td>
 <td></td>
@@ -108,9 +108,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年のF1世界選手権" title="wikilink">2006</a></p></td>
+<td><p><a href="../Page/2006年のF1世界選手権.md" title="wikilink">2006</a></p></td>
 <td><p>20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィタントニオ・リウッツィ" title="wikilink">リウッツィ</a></p></td>
+<td><p><a href="../Page/ヴィタントニオ・リウッツィ.md" title="wikilink">リウッツィ</a></p></td>
 <td><p><small>11</small></p></td>
 <td><p><small>11</small></p></td>
 <td><p><small>Ret</small></p></td>
@@ -134,7 +134,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・スピード" title="wikilink">スピード</a></p></td>
+<td><p><a href="../Page/スコット・スピード.md" title="wikilink">スピード</a></p></td>
 <td><p><small>13</small></p></td>
 <td><p><small>Ret</small></p></td>
 <td><p><small>9</small></p></td>

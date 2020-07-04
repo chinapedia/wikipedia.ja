@@ -1,13 +1,13 @@
-> この記事は[GA](https://ja.wikipedia.org/wiki/GA)から翻訳されています。
+> この記事は[GA文庫大賞](https://ja.wikipedia.org/wiki/GA文庫大賞)から翻訳されています。
 
 
-**GA文庫大賞**（ジーエーぶんこたいしょう）とは[SBクリエイティブ](https://ja.wikipedia.org/wiki/SBクリエイティブ "wikilink")主催の公募新人[文学賞](../Page/文学賞.md "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")より第1回募集開始。前後期制。審査は大賞創設以前からの投稿・持ち込みと同様に[GA文庫](https://ja.wikipedia.org/wiki/GA文庫 "wikilink")編集部が行う。
+**GA文庫大賞**（ジーエーぶんこたいしょう）とは[SBクリエイティブ](../Page/SBクリエイティブ.md "wikilink")主催の公募新人[文学賞](../Page/文学賞.md "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")より第1回募集開始。前後期制。審査は大賞創設以前からの投稿・持ち込みと同様に[GA文庫](../Page/GA文庫.md "wikilink")編集部が行う。
 
 本項では、並行して募集されていた**GA文庫テーマ大賞**についても解説する。
 
 ## GA文庫大賞
 
-賞金・商品は大賞が正賞の楯と副賞300万円、優秀賞は同100万円、奨励賞は同20万円（2018年現在）。GA文庫大賞前期/後期の応募作品の中から奨励賞・期待賞が選出され、さらに奨励賞の中から大賞・優秀賞が選考される。応募形態は、創設当初から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までプリントアウトされた紙媒体（手書き原稿、感熱紙印刷、両面印刷不可）を募集していたが、テキストデータ（拡張子が.txtのファイル）の記録媒体の送付に変わり、[2016年](../Page/2016年.md "wikilink")からはWEB応募へとって変わった。[2018年](../Page/2018年.md "wikilink")から大賞受賞者・[2019年](../Page/2019年.md "wikilink")以降は大賞に加え金賞受賞者に限り、副賞として[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")のコミックサイト兼アプリである**[ガンガンONLINE](https://ja.wikipedia.org/wiki/ガンガンONLINE "wikilink")**・**[マンガUP\!](https://ja.wikipedia.org/wiki/マンガUP! "wikilink")**内の『**ガンガンGA**』コンテンツにてコミカライズ化権を贈呈することが決定した。
+賞金・商品は大賞が正賞の楯と副賞300万円、優秀賞は同100万円、奨励賞は同20万円（2018年現在）。GA文庫大賞前期/後期の応募作品の中から奨励賞・期待賞が選出され、さらに奨励賞の中から大賞・優秀賞が選考される。応募形態は、創設当初から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までプリントアウトされた紙媒体（手書き原稿、感熱紙印刷、両面印刷不可）を募集していたが、テキストデータ（拡張子が.txtのファイル）の記録媒体の送付に変わり、[2016年](../Page/2016年.md "wikilink")からはWEB応募へとって変わった。[2018年](../Page/2018年.md "wikilink")から大賞受賞者・[2019年](../Page/2019年.md "wikilink")は大賞に加え金賞受賞者・[2020年](../Page/2020年.md "wikilink")は大賞・金賞に加えガンガンGA特別賞に限り、副賞として[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")のコミックサイト兼アプリである**[ガンガンONLINE](https://ja.wikipedia.org/wiki/ガンガンONLINE "wikilink")**・**[マンガUP\!](https://ja.wikipedia.org/wiki/マンガUP! "wikilink")**内の『**ガンガンGA**』コンテンツにてコミカライズ化権を贈呈することが決定した。
 
 ### 募集開始前の投稿・持ち込み作品について
 
@@ -581,7 +581,7 @@
 <tr class="odd">
 <td><p>奨励賞</p></td>
 <td><p>|ロード・オブ・キャッスル<br />
-（<a href="https://ja.wikipedia.org/wiki/城なし城主の英雄譚_彼女のファイアボールが当たらない!" title="wikilink">城なし城主の英雄譚 彼女のファイアボールが当たらない！</a>）</p></td>
+（<a href="https://ja.wikipedia.org/wiki/城なし城主の英雄譚" title="wikilink">城なし城主の英雄譚 彼女のファイアボールが当たらない！</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/阿樹翔" title="wikilink">阿樹翔</a></p></td>
 <td></td>
 </tr>
@@ -609,20 +609,45 @@
 <tr class="odd">
 <td><p>【夕立朱人】 タナトスキッズ 【売名中】<br />
 （<a href="https://ja.wikipedia.org/wiki/【配信中】女神チャンネル!_え、これ売名ですの!?" title="wikilink">【配信中】女神チャンネル！ え、これ売名ですの！？</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徳山銀次郎" title="wikilink">徳山銀次郎</a> &lt;!--</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/徳山銀次郎" title="wikilink">徳山銀次郎</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第12回<br />
 （<a href="../Page/2019年.md" title="wikilink">2019年</a>）</p></td>
-<td><p>未定</p></td>
-<td><p><em>その商人の弟子、剣につき</em></p></td>
-<td><p><em>蒼機純</em></p></td>
+<td><p>金賞</p></td>
+<td><p>|<em>忘れえぬ魔女の物語</em></p></td>
+<td><p><em>宇佐楢春</em></p></td>
 </tr>
 <tr class="odd">
-<td><p><em>ヴィーヴル</em></p></td>
-<td><p><em>アマサカナタ</em> --&gt;</p></td>
+<td><p><em>貴サークルは“救世主”に配置されました</em></p></td>
+<td><p><em>小田一文</em></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>銀賞</p></td>
+<td><p>|<em>その商人の弟子、剣につき</em></p></td>
+<td><p><em>蒼機純</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>ヴィーヴル</em><br />
+（<em>竜歌の巫女と二度目の誓い</em>）</p></td>
+<td><p><em>アマサカナタ</em></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>カンスト村のご隠居デーモンさん 〜すべてが終わったあとのスローライフ譚〜</em></p></td>
+<td><p><em>西山暁之亮</em></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>俺とコイツの推しはサイコーにカワイイ！</em></p></td>
+<td><p><em>りんごかげき</em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -631,7 +656,7 @@
 
 ## 関連項目
 
-  - [GA文庫](https://ja.wikipedia.org/wiki/GA文庫 "wikilink")
+  - [GA文庫](../Page/GA文庫.md "wikilink")
 
 ## 外部リンク
 

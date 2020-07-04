@@ -36,7 +36,7 @@
   - [松原秀樹](../Page/松原秀樹.md "wikilink")：[Electric Bass](../Page/エレクトリックベース.md "wikilink") (\#1,3)
   - [種子田健](../Page/種子田健.md "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#2,4)
   - [佐橋佳幸](../Page/佐橋佳幸.md "wikilink")：[Guitar](../Page/ギター.md "wikilink") (\#1,3)
-  - [河村"カースケ"智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") (\#1,3)
+  - [河村"カースケ"智康](../Page/河村智康.md "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") (\#1,3)
   - [佐藤芳明](https://ja.wikipedia.org/wiki/佐藤芳明 "wikilink")：[Accordion](../Page/アコーディオン.md "wikilink") (\#2,4)
   - [後藤勇一郎](https://ja.wikipedia.org/wiki/後藤勇一郎 "wikilink")ストリングス：[Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink") (\#1,3)
   - [山本拓夫](../Page/山本拓夫.md "wikilink")：[Clarinet](../Page/クラリネット.md "wikilink") (\#2,4)

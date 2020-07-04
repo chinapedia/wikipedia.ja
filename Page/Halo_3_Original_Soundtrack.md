@@ -1,7 +1,7 @@
 > この記事は[Halo 3 Original Soundtrack](https://ja.wikipedia.org/wiki/Halo_3_Original_Soundtrack)から翻訳されています。
 
 
-『**ヘイロー3：オリジナル・サウンドトラック**』（Halo 3 Original Soundtrack）はビデオゲーム『[Halo 3](../Page/Halo_3.md "wikilink")』のサウンドトラックである。アメリカでは[2007年](../Page/2007年.md "wikilink")の[11月20日](../Page/11月20日.md "wikilink")に発売され、日本では少し遅れて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")に発売された\[1\]。
+『**ヘイロー3：オリジナル・サウンドトラック**』（Halo 3 Original Soundtrack）はビデオゲーム『[Halo 3](../Page/Halo_3.md "wikilink")』のサウンドトラックである。アメリカでは[2007年](../Page/2007年.md "wikilink")の[11月20日](../Page/11月20日.md "wikilink")に発売され、日本では少し遅れて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")に発売された\[1\]。
 
 [演奏](../Page/演奏.md "wikilink")は『[Gears of War](../Page/Gears_of_War.md "wikilink")』や『[ランボー/最後の戦場](https://ja.wikipedia.org/wiki/ランボー/最後の戦場 "wikilink")』などの楽曲も担当した[ノースウェスト・シンフォニア](https://ja.wikipedia.org/wiki/ノースウェスト・シンフォニア "wikilink")（Northwest Sinfonia）。
 

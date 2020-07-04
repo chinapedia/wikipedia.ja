@@ -1,9 +1,9 @@
-> この記事は[DANCE](https://ja.wikipedia.org/wiki/DANCE)から翻訳されています。
+> この記事は[あさってDANCE](https://ja.wikipedia.org/wiki/あさってDANCE)から翻訳されています。
 
 
-『**あさってDANCE**』（あさってダンス）は、[山本直樹](../Page/山本直樹.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1989年](../Page/1989年.md "wikilink")より[小学館](../Page/小学館.md "wikilink")の漫画雑誌『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』に連載された。単行本は、1989年から[1991年](../Page/1991年.md "wikilink")にかけて小学館の[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")より全7巻、[1994年](../Page/1994年.md "wikilink")に[弓立社](https://ja.wikipedia.org/wiki/弓立社 "wikilink")より全7巻、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[1999年](../Page/1999年.md "wikilink")にかけて[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")より全4巻で刊行されている。
+『**あさってDANCE**』（あさってダンス）は、[山本直樹](../Page/山本直樹.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[1989年](../Page/1989年.md "wikilink")より[小学館](../Page/小学館.md "wikilink")の漫画雑誌『[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")』に連載された。単行本は、1989年から[1991年](../Page/1991年.md "wikilink")にかけて小学館の[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")より全7巻、[1994年](../Page/1994年.md "wikilink")に[弓立社](../Page/弓立社.md "wikilink")より全7巻、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[1999年](../Page/1999年.md "wikilink")にかけて[太田出版](../Page/太田出版.md "wikilink")より全4巻で刊行されている。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から1991年にかけて[18禁OVA](https://ja.wikipedia.org/wiki/18禁OVA "wikilink")化、1991年と[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に実写映画化された。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から1991年にかけて[18禁OVA](https://ja.wikipedia.org/wiki/18禁OVA "wikilink")化、1991年と[2005年](../Page/2005年.md "wikilink")に実写映画化された。
 
 ## あらすじ
 
@@ -15,21 +15,21 @@
 
   - 声の出演
 
-:\* [菊池正美](https://ja.wikipedia.org/wiki/菊池正美 "wikilink")
+:\* [菊池正美](../Page/菊池正美.md "wikilink")
 
-:\* [佐々木優子](https://ja.wikipedia.org/wiki/佐々木優子 "wikilink")
+:\* [佐々木優子](../Page/佐々木優子.md "wikilink")
 
 :\* [高杉翔](https://ja.wikipedia.org/wiki/高杉翔 "wikilink")
 
-:\* [大泉滉](https://ja.wikipedia.org/wiki/大泉滉 "wikilink")
+:\* [大泉滉](../Page/大泉滉.md "wikilink")
 
-:\* [大塚芳忠](https://ja.wikipedia.org/wiki/大塚芳忠 "wikilink")
+:\* [大塚芳忠](../Page/大塚芳忠.md "wikilink")
 
 :\* [緒方賢一](../Page/緒方賢一.md "wikilink")
 
-:\* [梅津秀行](https://ja.wikipedia.org/wiki/梅津秀行 "wikilink")
+:\* [梅津秀行](../Page/梅津秀行.md "wikilink")
 
-:\* [桜井敏治](https://ja.wikipedia.org/wiki/桜井敏治 "wikilink")
+:\* [桜井敏治](../Page/桜井敏治.md "wikilink")
 
   - スタッフ
 
@@ -43,33 +43,33 @@
 
   - キャスト
 
-:\* 日比野綾：[中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")
+:\* 日比野綾：[中嶋朋子](../Page/中嶋朋子.md "wikilink")
 
-:\* 寺山スエキチ：[石橋保](https://ja.wikipedia.org/wiki/石橋保 "wikilink")
+:\* 寺山スエキチ：[石橋保](../Page/石橋保.md "wikilink")
 
 :\* 深川深雪：[裕木奈江](https://ja.wikipedia.org/wiki/裕木奈江 "wikilink")
 
-:\* 唐笑孤鬼：[ベンガル](https://ja.wikipedia.org/wiki/ベンガル_\(俳優\) "wikilink")
+:\* 唐笑孤鬼：[ベンガル](../Page/ベンガル_\(俳優\).md "wikilink")
 
 :\* 霜村雅味：[石野真子](../Page/石野真子.md "wikilink")
 
 :\* 池津はじめ：[中島陽典](../Page/中島陽典.md "wikilink")
 
-:\* 寺山大吉：[柄本明](https://ja.wikipedia.org/wiki/柄本明 "wikilink")
+:\* 寺山大吉：[柄本明](../Page/柄本明.md "wikilink")
 
 :\* 立見弁護士：[大杉漣](../Page/大杉漣.md "wikilink")
 
-:\* 長谷川：[菅田俊](https://ja.wikipedia.org/wiki/菅田俊 "wikilink")
+:\* 長谷川：[菅田俊](../Page/菅田俊.md "wikilink")
 
 :\* 床屋の親父：[蛭子能収](../Page/蛭子能収.md "wikilink")
 
-:\* [徳井優](https://ja.wikipedia.org/wiki/徳井優 "wikilink")、[木下ほうか](https://ja.wikipedia.org/wiki/木下ほうか "wikilink")、[小河麻衣子](https://ja.wikipedia.org/wiki/小河麻衣子 "wikilink")、[大久保了](https://ja.wikipedia.org/wiki/大久保了 "wikilink")、[ジーコ内山](https://ja.wikipedia.org/wiki/ジーコ内山 "wikilink")　ほか
+:\* [徳井優](../Page/徳井優.md "wikilink")、[木下ほうか](../Page/木下ほうか.md "wikilink")、[小河麻衣子](https://ja.wikipedia.org/wiki/小河麻衣子 "wikilink")、[大久保了](https://ja.wikipedia.org/wiki/大久保了 "wikilink")、[ジーコ内山](https://ja.wikipedia.org/wiki/ジーコ内山 "wikilink")　ほか
 
   - スタッフ
 
-:\* 監督：[磯村一路](https://ja.wikipedia.org/wiki/磯村一路 "wikilink")
+:\* 監督：[磯村一路](../Page/磯村一路.md "wikilink")
 
-:\* プロデューサー：[桝井省志](https://ja.wikipedia.org/wiki/桝井省志 "wikilink")
+:\* プロデューサー：[桝井省志](../Page/桝井省志.md "wikilink")
 
 :\* 脚本：[香川まさひと](https://ja.wikipedia.org/wiki/香川まさひと "wikilink")
 
@@ -115,27 +115,27 @@
 
   - キャスト
 
-:\* 日比野綾：[黒沢愛](https://ja.wikipedia.org/wiki/黒沢愛 "wikilink")
+:\* 日比野綾：[黒沢愛](../Page/黒沢愛.md "wikilink")
 
-:\* スエキチ：[松田洋昌](https://ja.wikipedia.org/wiki/松田洋昌 "wikilink")（[ハイキングウォーキング](https://ja.wikipedia.org/wiki/ハイキングウォーキング "wikilink")）
+:\* スエキチ：[松田洋昌](https://ja.wikipedia.org/wiki/松田洋昌 "wikilink")（[ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")）
 
-:\* 霜村雅味：[川村亜紀](https://ja.wikipedia.org/wiki/川村亜紀 "wikilink")
+:\* 霜村雅味：[川村亜紀](../Page/川村亜紀.md "wikilink")
 
-:\* 深川深雪：[のはら歩](https://ja.wikipedia.org/wiki/のはら歩 "wikilink")
+:\* 深川深雪：[のはら歩](../Page/のはら歩.md "wikilink")
 
-:\* 寺山スエ：[山本早織](https://ja.wikipedia.org/wiki/山本早織 "wikilink")
+:\* 寺山スエ：[山本早織](../Page/山本早織.md "wikilink")
 
-:\* [星野あかり](https://ja.wikipedia.org/wiki/星野あかり "wikilink")
+:\* [星野あかり](../Page/星野あかり.md "wikilink")
 
 :\* [鈴木Q太郎](https://ja.wikipedia.org/wiki/鈴木Q太郎 "wikilink")（ハイキングウォーキング）
 
-:\* [松田優](https://ja.wikipedia.org/wiki/松田優 "wikilink")
+:\* [松田優](../Page/松田優.md "wikilink")
 
   - スタッフ
 
 :\* 監督：[本田隆一](https://ja.wikipedia.org/wiki/本田隆一 "wikilink")
 
-:\* 製作：福井政文、渡辺純一、多井久晃、臼井一郎、[叶井俊太郎](https://ja.wikipedia.org/wiki/叶井俊太郎 "wikilink")
+:\* 製作：福井政文、渡辺純一、多井久晃、臼井一郎、[叶井俊太郎](../Page/叶井俊太郎.md "wikilink")
 
 :\* プロデューサー：小林洋一、掛川義光、高津戸顕、大橋孝史、黒須功
 

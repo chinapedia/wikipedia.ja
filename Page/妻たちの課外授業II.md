@@ -47,11 +47,15 @@
 
 ## スタッフ
 
-  - プロデュース：[川原康彦](https://ja.wikipedia.org/wiki/川原康彦 "wikilink")、[関根康](https://ja.wikipedia.org/wiki/関根康 "wikilink")
-  - 脚本：[畑嶺明](../Page/畑嶺明.md "wikilink")、大原豊、[内館牧子](../Page/内館牧子.md "wikilink")
-  - 演出：[篠木為八男](https://ja.wikipedia.org/wiki/篠木為八男 "wikilink")、細野英延、小葉松慎、[水田伸生](../Page/水田伸生.md "wikilink")、結城章介
-  - 音楽：[羽田健太郎](../Page/羽田健太郎.md "wikilink")
-  - 製作著作：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[松竹株式会社](https://ja.wikipedia.org/wiki/松竹株式会社 "wikilink")
+  - プロデュース - [川原康彦](https://ja.wikipedia.org/wiki/川原康彦 "wikilink")（日本テレビ）、[関根康](https://ja.wikipedia.org/wiki/関根康 "wikilink")（松竹）
+  - 脚本 - [畑嶺明](../Page/畑嶺明.md "wikilink")、大原豊、[内館牧子](../Page/内館牧子.md "wikilink")
+  - 演出 - [篠木為八男](https://ja.wikipedia.org/wiki/篠木為八男 "wikilink")、細野英延、小葉松慎、[水田伸生](../Page/水田伸生.md "wikilink")、結城章介
+  - 音楽 - [羽田健太郎](../Page/羽田健太郎.md "wikilink")
+  - 音楽ディレクター - [鈴木清司](../Page/鈴木清司.md "wikilink")
+  - 音効 - [倉橋静男](https://ja.wikipedia.org/wiki/倉橋静男 "wikilink")
+  - 製作協力 - [松竹](../Page/松竹.md "wikilink")株式会社
+  - 技術協力 - [生田スタジオ](../Page/生田スタジオ.md "wikilink")
+  - 製作・著作：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")
 
 ## 主題歌
 

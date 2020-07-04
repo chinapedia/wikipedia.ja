@@ -1,4 +1,4 @@
-> この記事は[ \(jealkb\)](https://ja.wikipedia.org/wiki/_\(jealkb\))から翻訳されています。
+> この記事は[誓い \(jealkbの曲\)](https://ja.wikipedia.org/wiki/誓い_\(jealkbの曲\))から翻訳されています。
 
 
 「**誓い**」（ちかい）は、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")のメジャーデビューシングル。発売元は[jkb records](https://ja.wikipedia.org/wiki/jkb_records "wikilink")/[R and C Ltd.](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")。
@@ -29,6 +29,5 @@
 
 ## 外部リンク
 
-  - [jealkb Official WebSite: 誓い](http://jealkb.laff.jp/official/2011/02/post-4d82.html)
-
+  -
 [Category:Jealkbの楽曲](https://ja.wikipedia.org/wiki/Category:Jealkbの楽曲 "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")

@@ -1,11 +1,11 @@
-> この記事は[CIEL \(\)](https://ja.wikipedia.org/wiki/CIEL_\(\))から翻訳されています。
+> この記事は[CIEL \(雑誌\)](https://ja.wikipedia.org/wiki/CIEL_\(雑誌\))から翻訳されています。
 
 
-『**CIEL**』（シエル）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")・[角川書店](../Page/角川書店.md "wikilink")レーベルから発行されている[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")[漫画雑誌](https://ja.wikipedia.org/wiki/漫画雑誌 "wikilink")。2016年11月30日発売の2017年1月号をもって紙媒体としては休刊となり、以降は[電子書籍](../Page/電子書籍.md "wikilink")としてのみの発行となる\[1\]。また、同出版社から発行されていた隔月刊漫画雑誌『**CIEL TresTres**』（シエル トレトレ）についてもここで記述する。
+『**CIEL**』（シエル）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")・[角川書店](../Page/角川書店.md "wikilink")レーベルから発行されている[隔月刊](https://ja.wikipedia.org/wiki/逐次刊行物#隔月刊 "wikilink")[漫画雑誌](../Page/漫画雑誌.md "wikilink")。2016年11月30日発売の2017年1月号をもって紙媒体としては休刊となり、以降は[電子書籍](../Page/電子書籍.md "wikilink")としてのみの発行となる\[1\]。また、同出版社から発行されていた隔月刊漫画雑誌『**CIEL TresTres**』（シエル トレトレ）についてもここで記述する。
 
 ## 概要
 
-[月刊Asuka](https://ja.wikipedia.org/wiki/月刊Asuka "wikilink")の増刊号として[1994年](../Page/1994年.md "wikilink")に創刊され、後に独立。主に、[BL作品](../Page/ボーイズラブ.md "wikilink")、[少女漫画](../Page/少女漫画.md "wikilink")作品が掲載されている。奇数月30日発売。本誌連載の[単行本](../Page/単行本.md "wikilink")は、[あすかコミックスCL-DXで刊行されている](https://ja.wikipedia.org/wiki/あすかコミックス#あすかコミックスCL-DX "wikilink")。
+[月刊Asuka](../Page/月刊Asuka.md "wikilink")の増刊号として[1994年](../Page/1994年.md "wikilink")に創刊され、後に独立。主に、[BL作品](../Page/ボーイズラブ.md "wikilink")、[少女漫画](../Page/少女漫画.md "wikilink")作品が掲載されている。奇数月30日発売。本誌連載の[単行本](../Page/単行本.md "wikilink")は、[あすかコミックスCL-DXで刊行されている](https://ja.wikipedia.org/wiki/あすかコミックス#あすかコミックスCL-DX "wikilink")。
 
 ## 主な執筆陣
 
@@ -19,7 +19,7 @@
     [高城リョウ](https://ja.wikipedia.org/wiki/高城リョウ "wikilink")
     [高口里純](../Page/高口里純.md "wikilink")　
     [高永ひなこ](https://ja.wikipedia.org/wiki/高永ひなこ "wikilink")
-    [中村春菊](https://ja.wikipedia.org/wiki/中村春菊 "wikilink")
+    [中村春菊](../Page/中村春菊.md "wikilink")
     ホームラン・拳
     街子マドカ
 
@@ -37,7 +37,7 @@
     果桃なばこ
     [高城リョウ](https://ja.wikipedia.org/wiki/高城リョウ "wikilink")
     つげ雨夜
-    [中村春菊](https://ja.wikipedia.org/wiki/中村春菊 "wikilink")
+    [中村春菊](../Page/中村春菊.md "wikilink")
     三島一彦
     [みなみ遥](https://ja.wikipedia.org/wiki/みなみ遥 "wikilink")
     [大和名瀬](../Page/大和名瀬.md "wikilink")
@@ -58,6 +58,7 @@
 
   - [公式サイト（KADOKAWA/角川書店）](http://www.kadokawa.co.jp/ciel/)
 
+  -
 [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:角川書店の漫画雑誌](https://ja.wikipedia.org/wiki/Category:角川書店の漫画雑誌 "wikilink") [Category:隔月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:隔月刊漫画雑誌 "wikilink") [Category:やおい漫画](https://ja.wikipedia.org/wiki/Category:やおい漫画 "wikilink") [Category:1994年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1994年創刊の雑誌 "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink") [Category:月刊Asuka](https://ja.wikipedia.org/wiki/Category:月刊Asuka "wikilink") [Category:CIEL](https://ja.wikipedia.org/wiki/Category:CIEL "wikilink")
 
 1.  [雑誌『CIEL』休刊のお知らせ](http://shoten.kadokawa.co.jp/ciel/info/2772.php)

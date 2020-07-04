@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[セント・オールバンズ・シティFC](https://ja.wikipedia.org/wiki/セント・オールバンズ・シティFC)から翻訳されています。
 
 
-**セント・オールバンズ・シティ・フットボール・クラブ**（**St Albans City Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ハートフォードシャー](https://ja.wikipedia.org/wiki/ハートフォードシャー "wikilink")州、[セント・オールバンズ](https://ja.wikipedia.org/wiki/セント・オールバンズ "wikilink")を本拠地とするサッカークラブチームである。2007-2008シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
+**セント・オールバンズ・シティ・フットボール・クラブ**（**St Albans City Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ハートフォードシャー](../Page/ハートフォードシャー.md "wikilink")州、[セント・オールバンズ](https://ja.wikipedia.org/wiki/セント・オールバンズ "wikilink")を本拠地とするサッカークラブチームである。2007-2008シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
 
 ## タイトル
 

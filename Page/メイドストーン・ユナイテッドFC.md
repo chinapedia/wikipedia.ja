@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[メイドストーン・ユナイテッドFC](https://ja.wikipedia.org/wiki/メイドストーン・ユナイテッドFC)から翻訳されています。
 
 
 **メイドストーン・ユナイテッド・フットボール・クラブ**（Maidstone United Football Club）は[イングランド](../Page/イングランド.md "wikilink")、[ケント州](https://ja.wikipedia.org/wiki/ケント州 "wikilink")、[メイドストーン](https://ja.wikipedia.org/wiki/メイドストーン "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・ナショナル](https://ja.wikipedia.org/wiki/カンファレンス・ナショナル "wikilink")（5部相当）に所属。
@@ -130,6 +130,22 @@
 ### 国際タイトル
 
   - なし
+
+## 歴代監督
+
+  - [ボブ・ホートン](https://ja.wikipedia.org/wiki/ボブ・ホートン "wikilink") 1971-1975
+
+## 歴代所属選手
+
+  - [ロイ・ホジソン](../Page/ロイ・ホジソン.md "wikilink") 1971-1972
+
+  - [ボブ・ホートン](https://ja.wikipedia.org/wiki/ボブ・ホートン "wikilink") 1971-1975
+
+  - [ギャリー・ブリーン](../Page/ギャリー・ブリーン.md "wikilink") 1991-1992
+
+  - [クリス・スモーリング](https://ja.wikipedia.org/wiki/クリス・スモーリング "wikilink") 2007-2008
+
+  - [ザヴォン・ハインズ](https://ja.wikipedia.org/wiki/ザヴォン・ハインズ "wikilink") 2017
 
 ## 外部リンク
 

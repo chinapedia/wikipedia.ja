@@ -64,7 +64,7 @@
 <!-- end list -->
 
   - 第3回（4月24日）
-      - 「わがまま姫」出演：[吉野公佳](../Page/吉野公佳.md "wikilink")、[明石亮太朗](https://ja.wikipedia.org/wiki/明石亮太朗 "wikilink")
+      - 「わがまま姫」出演：[吉野公佳](../Page/吉野公佳.md "wikilink")、[明石亮太朗](../Page/明石亮太朗.md "wikilink")
       - 「10センチの勇気」出演：[村松克巳](https://ja.wikipedia.org/wiki/村松克巳 "wikilink")、[山路和弘](../Page/山路和弘.md "wikilink")
       - 「泥棒医者」出演：[川原和久](../Page/川原和久.md "wikilink")、[神谷昌志](https://ja.wikipedia.org/wiki/神谷昌志 "wikilink")
       - 「想いを込めた花束」出演：[井筒森介](https://ja.wikipedia.org/wiki/井筒森介 "wikilink")、[高橋理恵子](../Page/高橋理恵子.md "wikilink")、[今村理恵](../Page/今村理恵.md "wikilink")
@@ -106,7 +106,7 @@
   - 第8回（5月29日）
       - 「オトメの放課後・魔術編」出演：[馬渕英里何](https://ja.wikipedia.org/wiki/馬渕英里何 "wikilink")、[戸田昌弘](https://ja.wikipedia.org/wiki/戸田昌弘 "wikilink")
       - 「オトメの放課後・プラクラ編」出演：[岩崎ひろみ](../Page/岩崎ひろみ.md "wikilink")、[古谷未央](https://ja.wikipedia.org/wiki/古谷未央 "wikilink")、[たかはし等](https://ja.wikipedia.org/wiki/たかはし等 "wikilink")、[京晋佑](https://ja.wikipedia.org/wiki/京晋佑 "wikilink")
-      - 「オトメの放課後・修羅場編」出演：[酒井幸枝](https://ja.wikipedia.org/wiki/酒井幸枝 "wikilink")、[藤元八重子](https://ja.wikipedia.org/wiki/藤元八重子 "wikilink")、[梶原阿貴](https://ja.wikipedia.org/wiki/梶原阿貴 "wikilink")、[長田江身子](../Page/長田江身子.md "wikilink")
+      - 「オトメの放課後・修羅場編」出演：[酒井幸枝](https://ja.wikipedia.org/wiki/酒井幸枝 "wikilink")、[藤元八重子](https://ja.wikipedia.org/wiki/藤元八重子 "wikilink")、[梶原阿貴](../Page/梶原阿貴.md "wikilink")、[長田江身子](../Page/長田江身子.md "wikilink")
       - 「オトメの放課後・家出編」出演：[石橋けい](../Page/石橋けい.md "wikilink")
 
 <!-- end list -->

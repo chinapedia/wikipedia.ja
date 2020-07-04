@@ -5,7 +5,7 @@
 
 ## 概要
 
-11thシングル「[TEAR'S LIBERATION](../Page/TEAR'S_LIBERATION.md "wikilink")」以来7年ぶり、活動再開後初のシングル。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ろみひー](../Page/ろみひー.md "wikilink")』エンディングテーマに起用され、累計売上は6.2万枚を記録した\[1\]。本作のリリースに先駆けて[2001年](../Page/2001年.md "wikilink")11月にリリースされた[浅倉大介](../Page/浅倉大介.md "wikilink")のベストアルバム『[DecAde 〜The BEST of Daisuke Asakura〜](https://ja.wikipedia.org/wiki/DecAde_〜The_BEST_of_Daisuke_Asakura〜 "wikilink")』のCD-EXTRAにて試聴版が公開されていた。カップリングには[1994年](../Page/1994年.md "wikilink")12月に行われた「SYNC-ACROSS JAPAN TOUR '94 DELICATE PLANET ARENA STYLE」[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演で演奏された「LOOK-A-HEAD」（1stアルバム『[FAST ACCESS](../Page/FAST_ACCESS.md "wikilink")』収録曲）のライブ音源を収録。初回特典として[2002年](../Page/2002年.md "wikilink")2月に[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")で行われたイベント「reception 2.2」の参加応募券を封入。
+11thシングル「[TEAR'S LIBERATION](../Page/TEAR'S_LIBERATION.md "wikilink")」以来7年ぶり、活動再開後初のシングル。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ろみひー](../Page/ろみひー.md "wikilink")』エンディングテーマに起用され、累計売上は6.2万枚を記録した\[1\]。本作のリリースに先駆けて[2001年](../Page/2001年.md "wikilink")11月にリリースされた[浅倉大介](../Page/浅倉大介.md "wikilink")のベストアルバム『[DecAde 〜The BEST of Daisuke Asakura〜](../Page/DecAde_〜The_BEST_of_Daisuke_Asakura〜.md "wikilink")』のCD-EXTRAにて試聴版が公開されていた。カップリングには[1994年](../Page/1994年.md "wikilink")12月に行われた「SYNC-ACROSS JAPAN TOUR '94 DELICATE PLANET ARENA STYLE」[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演で演奏された「LOOK-A-HEAD」（1stアルバム『[FAST ACCESS](../Page/FAST_ACCESS.md "wikilink")』収録曲）のライブ音源を収録。初回特典として[2002年](../Page/2002年.md "wikilink")2月に[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")で行われたイベント「reception 2.2」の参加応募券を封入。
 
 ## 収録曲
 

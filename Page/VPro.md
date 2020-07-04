@@ -39,9 +39,10 @@ vProにはいくつかの種類があり、デスクトップPC向けの「vPro 
 ## 関連項目
 
   - [Intel Core 2](../Page/Intel_Core_2.md "wikilink")
+  - [Intel Core](../Page/Intel_Core.md "wikilink")
   - [インテル バーチャライゼーション・テクノロジー](../Page/インテル_バーチャライゼーション・テクノロジー.md "wikilink")
   - [インテル アクティブ・マネジメント・テクノロジー](https://ja.wikipedia.org/wiki/インテル_アクティブ・マネジメント・テクノロジー "wikilink")
-  - [Viiv](../Page/Viiv.md "wikilink")
+  - [インテル マネジメント・エンジン](https://ja.wikipedia.org/wiki/インテル_マネジメント・エンジン "wikilink")
   - [Centrino](../Page/Centrino.md "wikilink")
 
 ## 外部リンク

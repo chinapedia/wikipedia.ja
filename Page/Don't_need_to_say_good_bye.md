@@ -5,7 +5,7 @@
 
 ## 概要
 
-シングルのテーマは「卒業」。累計ではアルバムの先行シングルながらも35万枚以上売り上げたが、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")「[恋のダンスサイト](../Page/恋のダンスサイト.md "wikilink")」、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")「[ギブス](../Page/ギブス_\(曲\).md "wikilink")」「[罪と罰](../Page/罪と罰_\(椎名林檎の曲\).md "wikilink")」、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")「[ヒトリノ夜](https://ja.wikipedia.org/wiki/ヒトリノ夜 "wikilink")」と発売日が重なってチャート激戦を繰り広げたため、5位に留まった。
+シングルのテーマは「卒業」。累計ではアルバムの先行シングルながらも35万枚以上売り上げたが、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」、[モーニング娘。](../Page/モーニング娘。.md "wikilink")「[恋のダンスサイト](../Page/恋のダンスサイト.md "wikilink")」、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")「[ギブス](../Page/ギブス_\(曲\).md "wikilink")」「[罪と罰](../Page/罪と罰_\(椎名林檎の曲\).md "wikilink")」、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")「[ヒトリノ夜](../Page/ヒトリノ夜.md "wikilink")」と発売日が重なってチャート激戦を繰り広げたため、5位に留まった。
 
 ## 収録曲
 

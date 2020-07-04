@@ -5,7 +5,7 @@
 
 ## 概要
 
-通常盤と初回限定盤の2種類で発売。アルバムの発売記念として[名古屋](../Page/名古屋.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")・[東京](../Page/東京.md "wikilink")・[広島](https://ja.wikipedia.org/wiki/広島 "wikilink")・[福岡](../Page/福岡.md "wikilink")の計6か所でライブイベントが開催された。
+通常盤と初回限定盤の2種類で発売。アルバムの発売記念として[名古屋](../Page/名古屋.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")・[東京](../Page/東京.md "wikilink")・[広島](../Page/広島.md "wikilink")・[福岡](../Page/福岡.md "wikilink")の計6か所でライブイベントが開催された。
 
 ## 収録曲
 

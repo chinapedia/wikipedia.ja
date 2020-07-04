@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バーシュリーFC](https://ja.wikipedia.org/wiki/バーシュリーFC)から翻訳されています。
 
 
 **バーシュリー・フットボールクラブ**（**Bashley Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ハンプシャー州](https://ja.wikipedia.org/wiki/ハンプシャー州 "wikilink")、[ニューミルトン](https://ja.wikipedia.org/wiki/ニューミルトン "wikilink")近郊、[バーシュリー](https://ja.wikipedia.org/wiki/バーシュリー "wikilink")を本拠地とするサッカークラブチームである。2012-2013シーズンは[サウザンプレミアリーグ・プレミアディヴィジョン](https://ja.wikipedia.org/wiki/サウザンプレミアフットボールリーグ・プレミアディヴィジョン "wikilink")（7部相当）に所属。

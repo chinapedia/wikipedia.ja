@@ -7,7 +7,7 @@
 
 さまざまな[レコード会社](../Page/レコード会社.md "wikilink")の共同企画で発売されている“[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")”シリーズの中の1枚で、[1960年代](../Page/1960年代.md "wikilink")を代表する女性歌手のひとり、西田佐知子の[廉価版](../Page/廉価版.md "wikilink")ベスト・アルバム。[リマスタリング音源のため](https://ja.wikipedia.org/wiki/マスタリング#リマスタリング "wikilink")、過去のベスト盤よりも音質が向上している。
 
-『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』で歌われた全9曲\[1\]を含めた代表曲が収録されている。かけ出しの頃の[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")が作曲した「**[くれないホテル](https://ja.wikipedia.org/wiki/くれないホテル "wikilink")**」は広く知られてはいないものの、筒美の楽曲だけが収録された集大成[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[THE HIT MAKER -筒美京平の世界-](https://ja.wikipedia.org/wiki/THE_HIT_MAKER_-筒美京平の世界- "wikilink")』（2006年4月5日発売：MHCL-771/776）にも、数多い筒美作品の中から選ばれ収録された。
+『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』で歌われた全9曲\[1\]を含めた代表曲が収録されている。かけ出しの頃の[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")が作曲した「**[くれないホテル](../Page/くれないホテル.md "wikilink")**」は広く知られてはいないものの、筒美の楽曲だけが収録された集大成[CD-BOX](https://ja.wikipedia.org/wiki/CD-BOX "wikilink")『[THE HIT MAKER -筒美京平の世界-](https://ja.wikipedia.org/wiki/THE_HIT_MAKER_-筒美京平の世界- "wikilink")』（2006年4月5日発売：MHCL-771/776）にも、数多い筒美作品の中から選ばれ収録された。
 
 歌詞ブックレット冒頭には、2ページにわたって西田の芸歴を振り返った[ライナー・ノーツ](https://ja.wikipedia.org/wiki/ライナー・ノーツ "wikilink")付き。[CDジャケットでは](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、収録曲のレコード盤ジャケット写真を並べ掲載している。
 
@@ -28,7 +28,7 @@
 5.  **[一対一のブルース](https://ja.wikipedia.org/wiki/一対一のブルース/夜が切ない "wikilink")**（2:49）
       - 作詞: 梅本たかし、作曲: 望月弘、編曲: 藤原秀行
       - 1962年の[ヴォーカル再録音版](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-6.  **[エリカの花散るとき](https://ja.wikipedia.org/wiki/エリカの花散るとき "wikilink")**（3:40）
+6.  **[エリカの花散るとき](../Page/エリカの花散るとき.md "wikilink")**（3:40）
       - 作詞: 水木かおる、作曲・編曲: 藤原秀行
       - [第14回NHK紅白歌合戦](../Page/第14回NHK紅白歌合戦.md "wikilink") 歌唱曲
 7.  **[故郷のように](https://ja.wikipedia.org/wiki/故郷のように "wikilink")**（2:14）
@@ -59,10 +59,10 @@
       - [第18回NHK紅白歌合戦](../Page/第18回NHK紅白歌合戦.md "wikilink") 歌唱曲
 17. **夜霧のむこうに**（3:30）
       - 作詞: 三浦やす代、作曲: オダ・マナブ、編曲: 伊部晴美
-18. **[あの人に逢ったら](https://ja.wikipedia.org/wiki/あの人に逢ったら "wikilink")**（3:11）
+18. **[あの人に逢ったら](../Page/あの人に逢ったら.md "wikilink")**（3:11）
       - 作詞: 岩谷時子、作曲・編曲: 宮川泰
       - [第19回NHK紅白歌合戦](../Page/第19回NHK紅白歌合戦.md "wikilink") 歌唱曲
-19. **[くれないホテル](https://ja.wikipedia.org/wiki/くれないホテル "wikilink")**（3:20）
+19. **[くれないホテル](../Page/くれないホテル.md "wikilink")**（3:20）
       - 作詞: [橋本淳](../Page/橋本淳_\(作詞家\).md "wikilink")、作曲・編曲: [筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")
 20. **[星のナイト・クラブ](https://ja.wikipedia.org/wiki/星のナイト・クラブ "wikilink")**（3:07）
       - 作詞: 橋本淳、作曲・編曲: 筒美京平

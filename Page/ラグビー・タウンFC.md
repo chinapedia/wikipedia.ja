@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ラグビー・タウンFC](https://ja.wikipedia.org/wiki/ラグビー・タウンFC)から翻訳されています。
 
 
 **ラグビー・タウン・フットボールクラブ**（**Rugby Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ウォリックシャー州](https://ja.wikipedia.org/wiki/ウォリックシャー州 "wikilink")、[ラグビーを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/ラグビー_\(ウォリックシャー\) "wikilink")。2010-2011シーズンは[サウザンプレミアフットボールリーグ・ディヴィジョン1・ミッドランズ](https://ja.wikipedia.org/wiki/サウザンプレミアフットボールリーグ・ディヴィジョン1・ミッドランズ "wikilink")（8部相当）に所属。

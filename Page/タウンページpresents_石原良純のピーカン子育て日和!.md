@@ -31,7 +31,7 @@
 野球中継の延長時には休止になる場合あり</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/STVラジオ" title="wikilink">STVラジオ</a></p></td>
+<td><p><a href="../Page/STVラジオ.md" title="wikilink">STVラジオ</a></p></td>
 <td><p>日曜 20:00 - 20:30 （変更無し）</p></td>
 <td></td>
 <td></td>
@@ -57,7 +57,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a></p></td>
 <td><p>日曜 18:00 - 18:30 （変更無し）</p></td>
 <td></td>
 <td></td>
@@ -87,7 +87,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a></p></td>
 <td><p>日曜 17:00 - 17:30 （変更無し）</p></td>
 <td></td>
 <td></td>
@@ -218,7 +218,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/長崎放送" title="wikilink">長崎放送</a></p></td>
+<td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>JRN・NRN系列</p></td>
 <td><p>土曜 19:30 - 20:00</p></td>
 <td></td>

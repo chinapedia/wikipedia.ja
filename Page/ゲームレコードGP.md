@@ -77,7 +77,7 @@
   - [ガルウィング](https://ja.wikipedia.org/wiki/ガルウィング_\(お笑いコンビ\) "wikilink")（鈴木俊之、柴田嘉孝）
   - [ガンバレイ・シウバ](../Page/ダブルネーム.md "wikilink")
   - [きくりん](../Page/きくりん.md "wikilink")
-  - [グラップラーたかし](https://ja.wikipedia.org/wiki/Gたかし "wikilink")
+  - [グラップラーたかし](../Page/Gたかし.md "wikilink")
   - [グレゴリオ](https://ja.wikipedia.org/wiki/グレゴリオ "wikilink")（幸内渉、宮田裕仁）
   - [コジャ](https://ja.wikipedia.org/wiki/コジャ "wikilink")
   - [Theかれー王](https://ja.wikipedia.org/wiki/Theかれー王 "wikilink")
@@ -98,7 +98,7 @@
   - [JJポリマー](https://ja.wikipedia.org/wiki/JJポリマー "wikilink")（成田優介、大森よしき）
   - しゃーしゃーま（一般参加者）
   - [ジャングルボーボー](https://ja.wikipedia.org/wiki/ジャングルボーボー "wikilink")（将悟、ぼびぃ小川）
-  - [新宿カウボーイ](https://ja.wikipedia.org/wiki/新宿カウボーイ "wikilink")（[かねきよ勝則](../Page/かねきよ勝則.md "wikilink")、石沢勤）
+  - [新宿カウボーイ](../Page/新宿カウボーイ.md "wikilink")（[かねきよ勝則](../Page/かねきよ勝則.md "wikilink")、石沢勤）
   - [スパローズ](../Page/スパローズ.md "wikilink")（[森田悟](https://ja.wikipedia.org/wiki/森田悟 "wikilink")、[大和一孝](../Page/大和一孝.md "wikilink")）
   - [関口ジョニーズ](https://ja.wikipedia.org/wiki/関口ジョニーズ "wikilink")
   - [ゾオサン](https://ja.wikipedia.org/wiki/ゾオサン "wikilink")（岩尾誠竜、加藤正洋）
@@ -1000,7 +1000,7 @@
 </tr>
 <tr class="even">
 <td><p>60</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/闘いの挽歌" title="wikilink">闘いの挽歌</a></p></td>
+<td><p><a href="../Page/闘いの挽歌.md" title="wikilink">闘いの挽歌</a></p></td>
 <td><p>ステージ1 無傷で中ボス撃退 タイムトライアル</p></td>
 <td><p>アキラボーイ</p></td>
 <td><p>17秒86</p></td>

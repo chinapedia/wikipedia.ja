@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヘイスティングス・ユナイテッドFC](https://ja.wikipedia.org/wiki/ヘイスティングス・ユナイテッドFC)から翻訳されています。
 
 
 **ヘイスティングス・ユナイテッド・フットボール・クラブ**（**Hastings United Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[イースト・サセックス州](https://ja.wikipedia.org/wiki/イースト・サセックス州 "wikilink")、[ヘイスティングス](../Page/ヘイスティングス.md "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[イスミアンリーグ・ディヴィジョン1・サウス](https://ja.wikipedia.org/wiki/イスミアンリーグ・ディヴィジョン1・サウス "wikilink")（8部相当）に所属。
@@ -7,7 +7,7 @@
 
 **一試合最多観客動員数**
 
-  - 4,888人 vs [ノッティンガム・フォレスト](https://ja.wikipedia.org/wiki/ノッティンガム・フォレストFC "wikilink") 1996
+  - 4,888人 vs [ノッティンガム・フォレスト](../Page/ノッティンガム・フォレストFC.md "wikilink") 1996
 
 ## タイトル
 

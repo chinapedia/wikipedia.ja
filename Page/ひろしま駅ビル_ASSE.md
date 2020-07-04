@@ -124,7 +124,7 @@
 ## 外部リンク
 
   - [ひろしま駅ビルASSE](https://www.ekie.jp/asse/)
-  - [ekie](https://www.ekie.jp/ekie/)
+  - [ekie](https://www.ekie.jp/)
 
 [Category:広島県のショッピングセンター](https://ja.wikipedia.org/wiki/Category:広島県のショッピングセンター "wikilink") [Category:広島市南区の建築物](https://ja.wikipedia.org/wiki/Category:広島市南区の建築物 "wikilink") [Category:中国地方の駅ビル](https://ja.wikipedia.org/wiki/Category:中国地方の駅ビル "wikilink") [Category:広島県の映画館](https://ja.wikipedia.org/wiki/Category:広島県の映画館 "wikilink") [Category:1965年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1965年竣工の日本の建築物 "wikilink") [Category:広島市の商業施設](https://ja.wikipedia.org/wiki/Category:広島市の商業施設 "wikilink") [Category:広島駅](https://ja.wikipedia.org/wiki/Category:広島駅 "wikilink")
 

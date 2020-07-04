@@ -1,12 +1,12 @@
-> この記事は[Earthship ](https://ja.wikipedia.org/wiki/Earthship_)から翻訳されています。
+> この記事は[Earthship 〜宇宙船地球号〜](https://ja.wikipedia.org/wiki/Earthship_〜宇宙船地球号〜)から翻訳されています。
 
 
 『**Earthship 〜宇宙船地球号〜**』（アースシップ うちゅうせんちきゅうごう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性5人組ダンス＆ボーカルユニット [SweetS](https://ja.wikipedia.org/wiki/SweetS "wikilink") の8枚目のシングル。
 
 ## 概要
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")に [avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink") から発売された。
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ 『[うえきの法則](https://ja.wikipedia.org/wiki/うえきの法則 "wikilink")』 の第2期エンディングテーマ曲。
+  - [2005年](../Page/2005年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に [avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink") から発売された。
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ 『[うえきの法則](../Page/うえきの法則.md "wikilink")』 の第2期エンディングテーマ曲。
   - カップリングでは[賛美歌](../Page/賛美歌.md "wikilink")に挑戦している。
 
 ## CD

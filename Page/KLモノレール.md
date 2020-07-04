@@ -1,15 +1,15 @@
-> この記事は[KL](https://ja.wikipedia.org/wiki/KL)から翻訳されています。
+> この記事は[KLモノレール](https://ja.wikipedia.org/wiki/KLモノレール)から翻訳されています。
 
 
-**KLモノレール**（ケイエル-モノレール、）は、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[クアラルンプール](../Page/クアラルンプール.md "wikilink")市・[KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink")から[ティティワンサ駅](https://ja.wikipedia.org/wiki/ティティワンサ駅 "wikilink")を結ぶ、アルヴェーグ式[モノレール](../Page/モノレール.md "wikilink")である。
+**KLモノレール**（ケイエル-モノレール、）は、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[クアラルンプール](../Page/クアラルンプール.md "wikilink")市・[KLセントラル駅](https://ja.wikipedia.org/wiki/KLセントラル駅 "wikilink")から[ティティワンサ駅](../Page/ティティワンサ駅.md "wikilink")を結ぶ、アルヴェーグ式[モノレール](../Page/モノレール.md "wikilink")である。
 
 ## 概要
 
-11駅8.6kmの路線で、最高速度80km/hで全区間を19分で結んでいる。運賃は距離制で、[RM](https://ja.wikipedia.org/wiki/リンギット "wikilink")1.20〜2.50。全駅で自動改札が設置されている。
+11駅8.6kmの路線で、最高速度80km/hで全区間を19分で結んでいる。運賃は距離制で、[RM](../Page/リンギット.md "wikilink")1.20〜2.50。全駅で自動改札が設置されている。
 
-当初は[日立製作所](../Page/日立製作所.md "wikilink")の[モノレール技術によって建設が始められたが](https://ja.wikipedia.org/wiki/日立モノレール "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に起こった[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")の影響で同年12月に工事は中断してしまう。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月に国内で車両や建設を調達してコストダウンを図ることとなり、国内の企業によって工事を再開。総工費11億8千万[リンギット](https://ja.wikipedia.org/wiki/リンギット "wikilink")で、[2003年](../Page/2003年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に開業した。 しかしKLモノレール開業以降、経営にあたっていた**KLインフラストラクチャグループ**は多額の減価償却費や利子支払による損失を被り、会計年度の[2004年](../Page/2004年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")には、1508万リンギットの収益に対して、4624万リンギットの純損失を計上したと発表。このため政府系金融機関に借入を申し入れる。
+当初は[日立製作所](../Page/日立製作所.md "wikilink")の[モノレール技術によって建設が始められたが](https://ja.wikipedia.org/wiki/日立モノレール "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に起こった[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")の影響で同年12月に工事は中断してしまう。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月に国内で車両や建設を調達してコストダウンを図ることとなり、国内の企業によって工事を再開。総工費11億8千万[リンギット](../Page/リンギット.md "wikilink")で、[2003年](../Page/2003年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に開業した。 しかしKLモノレール開業以降、経営にあたっていた**KLインフラストラクチャグループ**は多額の減価償却費や利子支払による損失を被り、会計年度の[2004年](../Page/2004年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")には、1508万リンギットの収益に対して、4624万リンギットの純損失を計上したと発表。このため政府系金融機関に借入を申し入れる。
 
-[2007年](../Page/2007年.md "wikilink")4月に政府間との話し合いがもたれ、[2007年](../Page/2007年.md "wikilink")11月にマレーシア政府100％出資の**ナショナル・インフラストラクチャ・カンパニー**（略称：SPNB, マレー語：Syarikat Prasarana Negara Berhad, 英語：National Infrastructure Company Limited）に売却した。同時に、[ラピドKL](https://ja.wikipedia.org/wiki/ラピドKL "wikilink")が運営を開始した。
+[2007年](../Page/2007年.md "wikilink")4月に政府間との話し合いがもたれ、[2007年](../Page/2007年.md "wikilink")11月にマレーシア政府100％出資の**ナショナル・インフラストラクチャ・カンパニー**（略称：SPNB, マレー語：Syarikat Prasarana Negara Berhad, 英語：National Infrastructure Company Limited）に売却した。同時に、[ラピドKL](../Page/ラピドKL.md "wikilink")が運営を開始した。
 
 ## 車両
 
@@ -30,21 +30,21 @@
 <tbody>
 <tr class="odd">
 <td><p>MR11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ティティワンサ駅" title="wikilink">ティティワンサ駅</a></p></td>
+<td><p><a href="../Page/ティティワンサ駅.md" title="wikilink">ティティワンサ駅</a></p></td>
 <td><p>Titiwangsa</p></td>
 <td><p>0.0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラピドKLアンパン線" title="wikilink">ラピドKLアンパン線</a>/スリ・プタリン線(AG3 SP3)</p></td>
+<td><p><a href="../Page/ラピドKLアンパン線.md" title="wikilink">ラピドKLアンパン線</a>/スリ・プタリン線(AG3 SP3)</p></td>
 </tr>
 <tr class="even">
 <td><p>MR10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チョウ・キット駅" title="wikilink">チャウ・キット駅</a></p></td>
+<td><p><a href="../Page/チョウ・キット駅.md" title="wikilink">チャウ・キット駅</a></p></td>
 <td><p>Chow Kit</p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 </tr>
 <tr class="odd">
 <td><p>MR9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メダン・トゥアンク駅" title="wikilink">メダン・トゥアンク駅</a></p></td>
+<td><p><a href="../Page/メダン・トゥアンク駅.md" title="wikilink">メダン・トゥアンク駅</a></p></td>
 <td><p>Medan Tuanku</p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -58,7 +58,7 @@
 </tr>
 <tr class="odd">
 <td><p>MR7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラジャ・チュラン駅" title="wikilink">ラジャ・チュラン駅</a></p></td>
+<td><p><a href="../Page/ラジャ・チュラン駅.md" title="wikilink">ラジャ・チュラン駅</a></p></td>
 <td><p>Raja Chulan</p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -82,11 +82,11 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ハン・トゥア駅" title="wikilink">ハン・トゥア駅</a></p></td>
 <td><p>Hang Tuah</p></td>
 <td><p> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラピドKLアンパン線" title="wikilink">ラピドKLアンパン線</a>/スリ・プタリン線(AG9 SP9)</p></td>
+<td><p><a href="../Page/ラピドKLアンパン線.md" title="wikilink">ラピドKLアンパン線</a>/スリ・プタリン線(AG9 SP9)</p></td>
 </tr>
 <tr class="odd">
 <td><p>MR3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マハラジャレラ駅" title="wikilink">マハラジャレラ駅</a></p></td>
+<td><p><a href="../Page/マハラジャレラ駅.md" title="wikilink">マハラジャレラ駅</a></p></td>
 <td><p>Maharajalela</p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -104,7 +104,7 @@
 <td><p>KL Sentral</p></td>
 <td><p>8.6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KTMインターシティ" title="wikilink">KTMインターシティ</a>・<a href="https://ja.wikipedia.org/wiki/KTMコミューター" title="wikilink">KTMコミューター</a>(KA01)・<a href="https://ja.wikipedia.org/wiki/ラピドKLクラナ・ジャヤ線" title="wikilink">ラピドKLクラナ・ジャヤ線</a>(KJ15)<br />
-<a href="https://ja.wikipedia.org/wiki/KLIAエクスプレス" title="wikilink">KLIAエクスプレス</a>(KE1)・<a href="https://ja.wikipedia.org/wiki/KLIAトランジット" title="wikilink">KLIAトランジット</a>(KT1)</p></td>
+<a href="../Page/KLIAエクスプレス.md" title="wikilink">KLIAエクスプレス</a>(KE1)・<a href="https://ja.wikipedia.org/wiki/KLIAトランジット" title="wikilink">KLIAトランジット</a>(KT1)</p></td>
 </tr>
 </tbody>
 </table>
@@ -112,7 +112,7 @@
 ## 関連項目
 
   - [マレーシアのモノレール](https://ja.wikipedia.org/wiki/マレーシアのモノレール "wikilink")
-  - [マレーシアの鉄道](https://ja.wikipedia.org/wiki/マレーシアの鉄道 "wikilink")
+  - [マレーシアの鉄道](../Page/マレーシアの鉄道.md "wikilink")
 
 ## 外部リンク
 

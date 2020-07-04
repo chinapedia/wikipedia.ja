@@ -55,7 +55,7 @@
 | ------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [小林好美](https://ja.wikipedia.org/wiki/小林好美 "wikilink") | [星野優位](https://ja.wikipedia.org/wiki/星野優位 "wikilink") | [佐々木貴志](https://ja.wikipedia.org/wiki/佐々木貴志 "wikilink") |
 | [2007年](../Page/2007年.md "wikilink")                    | [小林好美](https://ja.wikipedia.org/wiki/小林好美 "wikilink") | [大樂竜也](https://ja.wikipedia.org/wiki/大樂竜也 "wikilink") | [佐々木貴志](https://ja.wikipedia.org/wiki/佐々木貴志 "wikilink") |
-| [2006年](../Page/2006年.md "wikilink")                    | [佐合潔](https://ja.wikipedia.org/wiki/佐合潔 "wikilink")   | [松本康](https://ja.wikipedia.org/wiki/松本康 "wikilink")   | [佐合潔](https://ja.wikipedia.org/wiki/佐合潔 "wikilink")     |
+| [2006年](../Page/2006年.md "wikilink")                    | [佐合潔](https://ja.wikipedia.org/wiki/佐合潔 "wikilink")   | [松本康](../Page/松本康.md "wikilink")                      | [佐合潔](https://ja.wikipedia.org/wiki/佐合潔 "wikilink")     |
 | [2005年](../Page/2005年.md "wikilink")                    | \-                                                    | [佐合潔](https://ja.wikipedia.org/wiki/佐合潔 "wikilink")   | [三苫進](https://ja.wikipedia.org/wiki/三苫進 "wikilink")     |
 
 ## 外部リンク

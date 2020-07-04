@@ -6,9 +6,9 @@
 ## 略歴
 
   - [2002年](../Page/2002年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") leaf of reason を結成。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") KENICHI、JIN、TAIMEIの3人がメンバーとなり現在の leaf of reason の形となって活動を始める。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") [FM横浜](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")「[YOKOHAMA MUSIC AWARD](../Page/YOKOHAMA_MUSIC_AWARD.md "wikilink")」の特別企画「未発表魂」（未発表曲のグランプリを決める企画）で「タイムアウトのない夏」がグランプリを受賞。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") シングル「タイムアウトのない夏」が、[tvk](../Page/テレビ神奈川.md "wikilink")「高校野球速報(2006年)」及びFM横浜「モーニングステップ」内の高校野球情報コーナー(2006年)のテーマソングに。
+  - [2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") KENICHI、JIN、TAIMEIの3人がメンバーとなり現在の leaf of reason の形となって活動を始める。
+  - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") [FM横浜](../Page/横浜エフエム放送.md "wikilink")「[YOKOHAMA MUSIC AWARD](../Page/YOKOHAMA_MUSIC_AWARD.md "wikilink")」の特別企画「未発表魂」（未発表曲のグランプリを決める企画）で「タイムアウトのない夏」がグランプリを受賞。
+  - [2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") シングル「タイムアウトのない夏」が、[tvk](../Page/テレビ神奈川.md "wikilink")「高校野球速報(2006年)」及びFM横浜「モーニングステップ」内の高校野球情報コーナー(2006年)のテーマソングに。
   - [2007年](../Page/2007年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") 「希望の旗」が、tvk「[YOKOHAMA MUSIC EXPLORER](https://ja.wikipedia.org/wiki/YOKOHAMA_MUSIC_EXPLORER "wikilink")」主催の第1回YMEレコード大賞で奨励賞を受賞。
 
 ## メンバー

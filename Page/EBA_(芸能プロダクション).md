@@ -1,4 +1,4 @@
-> この記事は[EBA \(\)](https://ja.wikipedia.org/wiki/EBA_\(\))から翻訳されています。
+> この記事は[EBA \(芸能プロダクション\)](https://ja.wikipedia.org/wiki/EBA_\(芸能プロダクション\))から翻訳されています。
 
 
 **株式会社EBA**（イービーエー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能プロダクション](../Page/芸能事務所.md "wikilink")。
@@ -7,7 +7,7 @@
 
 芸能部門の**EBAプロダクション**。関係者や業界などにおいては、社名を通常「エバ」と発音することが多い。
 
-会社所在地は[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区六本木](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")7丁目4番1号であり、芸能事務所「[研音](../Page/研音グループ.md "wikilink")」の本社ビルと同じ住所となるが、研音との資本・提携関係は一切無い。
+会社所在地は[東京都](../Page/東京都.md "wikilink")[港区六本木](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")7丁目4番1号であり、芸能事務所「[研音](../Page/研音グループ.md "wikilink")」の本社ビルと同じ住所となるが、研音との資本・提携関係は一切無い。
 
 社名のEBAは「Emotional Beauty Artist」に由来する。
 
@@ -23,7 +23,7 @@
   - [倉本夏希](https://ja.wikipedia.org/wiki/倉本夏希 "wikilink")
   - [矢口海](https://ja.wikipedia.org/wiki/矢口海 "wikilink")
   - [菊池由香](https://ja.wikipedia.org/wiki/菊池由香 "wikilink")
-  - [松田侑子](https://ja.wikipedia.org/wiki/松田侑子 "wikilink")
+  - [松田侑子](../Page/松田侑子.md "wikilink")
   - [吉野ひろみ](../Page/吉野ひろみ.md "wikilink")
   - [雪乃りお](https://ja.wikipedia.org/wiki/雪乃りお "wikilink")
   - [川田穣二](https://ja.wikipedia.org/wiki/川田穣二 "wikilink")
@@ -67,7 +67,7 @@
 
 ### タレント
 
-  - [田代綾夏](https://ja.wikipedia.org/wiki/田代綾夏 "wikilink")（現在は[ネットアージュ](https://ja.wikipedia.org/wiki/ネットアージュ "wikilink")に所属）
+  - [田代綾夏](https://ja.wikipedia.org/wiki/田代綾夏 "wikilink")（現在は[ネットアージュ](../Page/ネットアージュ.md "wikilink")に所属）
 
 ## 外部リンク
 

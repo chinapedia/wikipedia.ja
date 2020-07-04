@@ -87,7 +87,7 @@
   - [6号向島線](../Page/首都高速6号向島線.md "wikilink")：[江戸橋JCT](../Page/江戸橋ジャンクション.md "wikilink")～[箱崎JCT](../Page/箱崎ジャンクション.md "wikilink")
   - [9号深川線](../Page/首都高速9号深川線.md "wikilink")：全線
   - [11号台場線](../Page/首都高速11号台場線.md "wikilink")：全線
-  - [湾岸線](../Page/首都高速湾岸線.md "wikilink")\[1\]：[辰巳JCT](https://ja.wikipedia.org/wiki/辰巳ジャンクション "wikilink")～[本牧JCT](../Page/本牧ジャンクション.md "wikilink")
+  - [湾岸線](../Page/首都高速湾岸線.md "wikilink")\[1\]：[辰巳JCT](../Page/辰巳ジャンクション.md "wikilink")～[本牧JCT](../Page/本牧ジャンクション.md "wikilink")
   - [1号羽田線](../Page/首都高速1号羽田線.md "wikilink")・[K1横羽線](../Page/首都高速神奈川1号横羽線.md "wikilink")：全線
   - [K3狩場線](../Page/首都高速神奈川3号狩場線.md "wikilink")：本牧JCT～[石川町JCT](../Page/石川町ジャンクション.md "wikilink")
   - [K5大黒線](../Page/首都高速神奈川5号大黒線.md "wikilink")：全線

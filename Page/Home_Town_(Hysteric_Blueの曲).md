@@ -1,11 +1,11 @@
-> この記事は[Home Town \(Hysteric Blue\)](https://ja.wikipedia.org/wiki/Home_Town_\(Hysteric_Blue\))から翻訳されています。
+> この記事は[Home Town \(Hysteric Blueの曲\)](https://ja.wikipedia.org/wiki/Home_Town_\(Hysteric_Blueの曲\))から翻訳されています。
 
 
 「**Home Town**」（ホーム・タウン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[Hysteric Blueの楽曲で](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")、13枚目のシングル。前作から約10カ月振りのリリース。
 
 ## 収録曲
 
-  - 全曲、編曲：[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")\&Hysteric Blue
+  - 全曲、編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")\&Hysteric Blue
 
 <!-- end list -->
 
@@ -18,7 +18,7 @@
       -
         作詞・作曲：たくや
     <!-- end list -->
-      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[スパイラル -推理の絆-](https://ja.wikipedia.org/wiki/スパイラル_〜推理の絆〜 "wikilink")』エンディングテーマ
+      - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[スパイラル -推理の絆-](../Page/スパイラル_〜推理の絆〜.md "wikilink")』エンディングテーマ
 3.  **メーデー**
       -
         作詞・作曲：たくや

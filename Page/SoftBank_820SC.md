@@ -1,19 +1,19 @@
 > この記事は[SoftBank 820SC](https://ja.wikipedia.org/wiki/SoftBank_820SC)から翻訳されています。
 
 
-**SoftBank 820SC**（ソフトバンク はちにいまる エスシー）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[サムスン電子](../Page/サムスン電子.md "wikilink")によって開発された、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink") ([SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")) [端末](../Page/端末.md "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")発売。
+**SoftBank 820SC**（ソフトバンク はちにいまる エスシー）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[サムスン電子](../Page/サムスン電子.md "wikilink")によって開発された、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[第三世代携帯電話](https://ja.wikipedia.org/wiki/第三世代携帯電話 "wikilink") ([SoftBank 3G](../Page/SoftBank_3G.md "wikilink")) [端末](../Page/端末.md "wikilink")である。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")発売。
 
 ## 主な機能・サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                                                |
-| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")                                 |
-| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| ~~[S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")~~                       |
-| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")                    |
-| [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")                                    |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                             |
+| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")              |
+| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| ~~[S\!FeliCa](../Page/S!FeliCa.md "wikilink")~~                       |
+| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink") |
+| [ワンセグ](../Page/ワンセグ.md "wikilink")                                    |
 
 ## 特徴
 
@@ -26,7 +26,7 @@
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")
+  - [ワンセグ](../Page/ワンセグ.md "wikilink")
 
 ## 外部リンク
 

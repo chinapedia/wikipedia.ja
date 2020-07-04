@@ -3,15 +3,15 @@
 
 **L-VOKAL**（エル-ヴォーカル、[1979年](../Page/1979年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。本名、**飯田壮ローレンスジェファーズ**。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。シニカルな視点で描き出されるリリックと、心地よいフローが印象的なヒップホップアーティスト。
+[東京都](../Page/東京都.md "wikilink")出身。シニカルな視点で描き出されるリリックと、心地よいフローが印象的なヒップホップアーティスト。
 
 ## 略歴
 
-  - 1979年、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人の父と[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の母との間に生まれる。幼少から高校まで[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")で育ち、[セント・メリーズ・インターナショナル・スクール](https://ja.wikipedia.org/wiki/セント・メリーズ・インターナショナル・スクール "wikilink")卒業後[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リーハイ大学](https://ja.wikipedia.org/wiki/リーハイ大学 "wikilink")で心理学を専攻する。
-  - 2002年、DJ TONKのアルバム「Aquarian Soul」にCocoa Brovaz（SMIF-N-WESSUN）や[Mummy-D](https://ja.wikipedia.org/wiki/Mummy-D "wikilink")等とともに参加。これをキッカケに本格的なキャリアをスタートさせる。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[Bach Logic](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink")、[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")、[I-DeA](../Page/I-DeA.md "wikilink")、GICODE、DJ WHOOKID、[Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")、など、数々の国内外アーティストとの客演を重ねる。
+  - 1979年、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人の父と[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の母との間に生まれる。幼少から高校まで[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")で育ち、[セント・メリーズ・インターナショナル・スクール](https://ja.wikipedia.org/wiki/セント・メリーズ・インターナショナル・スクール "wikilink")卒業後[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リーハイ大学](https://ja.wikipedia.org/wiki/リーハイ大学 "wikilink")で心理学を専攻する。
+  - 2002年、DJ TONKのアルバム「Aquarian Soul」にCocoa Brovaz（SMIF-N-WESSUN）や[Mummy-D](../Page/Mummy-D.md "wikilink")等とともに参加。これをキッカケに本格的なキャリアをスタートさせる。[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[Bach Logic](https://ja.wikipedia.org/wiki/Bach_Logic "wikilink")、[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")、[I-DeA](../Page/I-DeA.md "wikilink")、GICODE、DJ WHOOKID、[Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")、など、数々の国内外アーティストとの客演を重ねる。
   - 2006年、1stアルバム「Laughin'」を発売。（2010年に再発。初回プレス盤（現在は廃盤）はネットオークションで高額取引をされており、再発盤には入っていない「ウェッサイvsセンターGUY」という楽曲が収録されている。また、2010年にはアナログ盤「Laughin'-EP」として発売された。）
   - 2007年、インディレーベル「MATENRO RECORDS」をDOC-DEEと立ち上げ、アルバム「麻天楼」を発売。発売と同時に完売する異例のヒットとなった。再プレス後も完売を繰り返すロングセールスを記録している。紙ジャケ仕様。（2014年8月現在では[iTunes Storeで販売されている](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。\[1\]）「麻天楼〜夏場所〜」を発売。邦楽HIPHOP MIXCDのパイオニア的な作品として人気を集め、即完売となる。オフィシャルブログ[「吾輩はエルである」](http://lv.1979.jp/)を開始。
-  - 2008年、ユニバーサルとメジャー契約。1stシングル『万歳』を発売。同曲のMVはスペースシャワーMusic Video Awardにノミネートされた。続けて、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")を参加した2ndシングル「Step Up 」、2ndアルバム「FREE」を発売。メジャーと共にインディーズでもMIXCD「麻天楼〜春場所〜」、「麻天楼〜冬場所〜」を発売。
+  - 2008年、ユニバーサルとメジャー契約。1stシングル『万歳』を発売。同曲のMVはスペースシャワーMusic Video Awardにノミネートされた。続けて、[KREVA](../Page/KREVA.md "wikilink")を参加した2ndシングル「Step Up 」、2ndアルバム「FREE」を発売。メジャーと共にインディーズでもMIXCD「麻天楼〜春場所〜」、「麻天楼〜冬場所〜」を発売。
   - 2009年、DAG FORCE、DJ SHU-GとMIXCD「BARS\&VIBES」を発売。配信限定シングル「PRIMARYCOLORS feat.[Spontania](../Page/Spontania.md "wikilink"),[Micro](../Page/Micro.md "wikilink"),NAO」、「EDUTAINMENT feat.[K-DUB SHINE](https://ja.wikipedia.org/wiki/K-DUB_SHINE "wikilink")」を発売。
   - 2010年、自身3枚目のアルバム「LOVIN’」、MIXCD「麻天楼-秋場所〜ちょっと早めの収穫祭〜」をMATENRO RECORDSより発売。また、[AKLO](https://ja.wikipedia.org/wiki/AKLO "wikilink")と「BETTER HALVES」というプロジェクトを発足。シングル「ONE WAY OUT」を発売し、収録曲のリミックスコンテストを開催した。
   - 2010年12月、業界初の音楽楽曲付きのキャンディー「BLING BLING CANDY」を自身のサイトで独占販売。
@@ -21,7 +21,7 @@
   - 2011年12月、靴下専門ショップ「ANDSOX」、JAZZY SPORTとコラボし、靴下付きダウンロードシングル『CITY LIGHTS』を発売。
   - 2011年12月31日、「Amebreak AWARD 2011 BEST ALBUM」の第4位、「Amebreak AWARD 2011 BEST SONGS」の第3位に選ばれる。\[3\]\[4\]
   - 2012年7月18日、これまでの自身の楽曲を集めたMIXCD『Best Of L-VOKAL』、それを含むこれまでのアルバムを集めたセット『5輪BOX SET』を発売。
-  - 2013年9月11日、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")フルプロデュースの5thアルバム『別人Lボーカル』を発売。先行配信されたシングル「YO\!YOU\!」はiTunesヒップホップチャートで第1位を記録する。
+  - 2013年9月11日、[KREVA](../Page/KREVA.md "wikilink")フルプロデュースの5thアルバム『別人Lボーカル』を発売。先行配信されたシングル「YO\!YOU\!」はiTunesヒップホップチャートで第1位を記録する。
   - 2013年9月11日、6thアルバム『卒業』を発売。
 
 ## ディスコグラフィ
@@ -38,24 +38,24 @@
 | M-4 | 健康ソング(Clean Ver.)                                                            |
 |     |                                                                              |
 
-  - **STEP UP feat.[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")**　（2008年6月18日）
+  - **STEP UP feat.[KREVA](../Page/KREVA.md "wikilink")**　（2008年6月18日）
 
 |     | 『STEP UP』                                                                       |
 | --- | ------------------------------------------------------------------------------- |
-| M-1 | STEP UP feat.[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")            |
+| M-1 | STEP UP feat.[KREVA](../Page/KREVA.md "wikilink")                               |
 | M-2 | Smooth Operator feat. [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink") |
 | M-3 | FLOW                                                                            |
 | M-4 | Carioca                                                                         |
 
   - **BLING BLING CANDY**　（2010年12月）
 
-|     | 『BLING BLING CANDY』                                                                    |
-| --- | -------------------------------------------------------------------------------------- |
-| M-1 | WONDERFUL X'MAS - L-VOKAL, EGO, [Dr.K](https://ja.wikipedia.org/wiki/KREVA "wikilink") |
-| M-2 | RTソング                                                                                  |
-| M-3 | 興味ねえ remix DJ OASIS remix - BETTER HALVES                                              |
-| M-4 | MISONIKOMIX vol.2 - DJ TWISTED-T                                                       |
-|     |                                                                                        |
+|     | 『BLING BLING CANDY』                                                 |
+| --- | ------------------------------------------------------------------- |
+| M-1 | WONDERFUL X'MAS - L-VOKAL, EGO, [Dr.K](../Page/KREVA.md "wikilink") |
+| M-2 | RTソング                                                               |
+| M-3 | 興味ねえ remix DJ OASIS remix - BETTER HALVES                           |
+| M-4 | MISONIKOMIX vol.2 - DJ TWISTED-T                                    |
+|     |                                                                     |
 
   - **SWAG & MOJITO**　（2011年8月26日）
 
@@ -83,24 +83,24 @@
 
   - **LAUGHIN**'　（2006年3月29日）
 
-|      | 『Laughin'』                                                                                                                    |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------- |
-| M-1  | Laughin’                                                                                                                      |
-| M-2  | I G.A.F.                                                                                                                      |
-| M-3  | IRONY 24                                                                                                                      |
-| M-4  | ウェッサイvsセンターGUY Feat.DJ YUTAKA                                                                                                 |
-| M-5  | プロタゴニスト Feat.SORASANZEN,Shen                                                                                                  |
-| M-6  | I Shall Proceed                                                                                                               |
-| M-7  | 表裏一体 Feat.[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"),[JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink") |
-| M-8  | KIYOSHI                                                                                                                       |
-| M-9  | アメリカンビーフ                                                                                                                      |
-| M-10 | Sticky pt.4 Feat.SPHERE of INFLUENCE,JAMOSA,DOC-DEE                                                                           |
-| M-11 | TOKYO 摩天楼 Feat.[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink"),Bay4k                                                  |
-| M-12 | Keep Laughin’                                                                                                                 |
-| M-13 | 4:20                                                                                                                          |
-| M-14 | Music Business                                                                                                                |
-| M-15 | Just Hustlin’                                                                                                                 |
-|      |                                                                                                                               |
+|      | 『Laughin'』                                                                                                 |
+| ---- | ---------------------------------------------------------------------------------------------------------- |
+| M-1  | Laughin’                                                                                                   |
+| M-2  | I G.A.F.                                                                                                   |
+| M-3  | IRONY 24                                                                                                   |
+| M-4  | ウェッサイvsセンターGUY Feat.DJ YUTAKA                                                                              |
+| M-5  | プロタゴニスト Feat.SORASANZEN,Shen                                                                               |
+| M-6  | I Shall Proceed                                                                                            |
+| M-7  | 表裏一体 Feat.[VERBAL](../Page/VERBAL.md "wikilink"),[JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink") |
+| M-8  | KIYOSHI                                                                                                    |
+| M-9  | アメリカンビーフ                                                                                                   |
+| M-10 | Sticky pt.4 Feat.SPHERE of INFLUENCE,JAMOSA,DOC-DEE                                                        |
+| M-11 | TOKYO 摩天楼 Feat.[SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink"),Bay4k                               |
+| M-12 | Keep Laughin’                                                                                              |
+| M-13 | 4:20                                                                                                       |
+| M-14 | Music Business                                                                                             |
+| M-15 | Just Hustlin’                                                                                              |
+|      |                                                                                                            |
 
   - **FREE**　（2008年8月27日）
 
@@ -112,7 +112,7 @@
 | M-4  | HATER HATER                                                                                 |
 | M-5  | FREE feat.[Micro](../Page/Micro.md "wikilink")                                              |
 | M-6  | KIRABI                                                                                      |
-| M-7  | CITY LIVING feat.[NIPPS](https://ja.wikipedia.org/wiki/NIPPS "wikilink")                    |
+| M-7  | CITY LIVING feat.[NIPPS](../Page/NIPPS.md "wikilink")                                       |
 | M-8  | ZERO                                                                                        |
 | M-9  | TIME IS HONEY                                                                               |
 | M-10 | YAKA                                                                                        |
@@ -126,29 +126,29 @@
 
   - **LOVIN**'　（2010年3月3日）
 
-|      | 『LOVIN'』                                                                                                                             |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| M-1  | INTRO by ラモちゃん                                                                                                                       |
-| M-2  | LOVE 24                                                                                                                              |
-| M-3  | つかっちまえ                                                                                                                               |
-| M-4  | JUST LOVE IT feat [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink"), [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink") |
-| M-5  | EDUTAINMENT feat [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")                                                 |
-| M-6  | PEKOCHANG feat [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")                                                               |
-| M-7  | KOTOBA feat 秋田犬どぶろく、MEGA-G                                                                                                           |
-| M-8  | SLEEP                                                                                                                                |
-| M-9  | HEKESH feat 業界関係者S                                                                                                                   |
-| M-10 | OVERFLOW feat 業界関係者E                                                                                                                 |
-| M-11 | 9,1009,2009,3009                                                                                                                     |
-| M-12 | I'M A HUSTLER                                                                                                                        |
-| M-13 | MADE IN JAPAN feat X-MAN                                                                                                             |
-| M-14 | INTERLUDE                                                                                                                            |
-| M-15 | BEST                                                                                                                                 |
-| M-16 | PASTNOWFUTURE feat 名取香り                                                                                                              |
-| M-17 | 4:21                                                                                                                                 |
-| M-18 | BONUS 1: PRIMARY COLORS feat [Spontania](../Page/Spontania.md "wikilink"), NAO, [Micro](../Page/Micro.md "wikilink")                 |
-| M-19 | BONUS 2: PRIMARY COLORS remix feat [Spontania](../Page/Spontania.md "wikilink"), NAO, [Micro](../Page/Micro.md "wikilink")           |
-| M-20 | AAAAA                                                                                                                                |
-|      |                                                                                                                                      |
+|      | 『LOVIN'』                                                                                                                   |
+| ---- | -------------------------------------------------------------------------------------------------------------------------- |
+| M-1  | INTRO by ラモちゃん                                                                                                             |
+| M-2  | LOVE 24                                                                                                                    |
+| M-3  | つかっちまえ                                                                                                                     |
+| M-4  | JUST LOVE IT feat [VERBAL](../Page/VERBAL.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink")                             |
+| M-5  | EDUTAINMENT feat [K DUB SHINE](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")                                       |
+| M-6  | PEKOCHANG feat [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink")                                                     |
+| M-7  | KOTOBA feat 秋田犬どぶろく、MEGA-G                                                                                                 |
+| M-8  | SLEEP                                                                                                                      |
+| M-9  | HEKESH feat 業界関係者S                                                                                                         |
+| M-10 | OVERFLOW feat 業界関係者E                                                                                                       |
+| M-11 | 9,1009,2009,3009                                                                                                           |
+| M-12 | I'M A HUSTLER                                                                                                              |
+| M-13 | MADE IN JAPAN feat X-MAN                                                                                                   |
+| M-14 | INTERLUDE                                                                                                                  |
+| M-15 | BEST                                                                                                                       |
+| M-16 | PASTNOWFUTURE feat 名取香り                                                                                                    |
+| M-17 | 4:21                                                                                                                       |
+| M-18 | BONUS 1: PRIMARY COLORS feat [Spontania](../Page/Spontania.md "wikilink"), NAO, [Micro](../Page/Micro.md "wikilink")       |
+| M-19 | BONUS 2: PRIMARY COLORS remix feat [Spontania](../Page/Spontania.md "wikilink"), NAO, [Micro](../Page/Micro.md "wikilink") |
+| M-20 | AAAAA                                                                                                                      |
+|      |                                                                                                                            |
 
   - 『LIVIN'』　（2011年10月14日）
   - 『別人Lボーカル』　（2013年9月11日）
@@ -299,7 +299,7 @@
 | [SONPUB](https://ja.wikipedia.org/wiki/SONPUB "wikilink")『80T.O 08 HAHA』（2008年9月10日） |
 | ------------------------------------------------------------------------------------ |
 
-  - THE MAGIC feat.[WISE](https://ja.wikipedia.org/wiki/WISE "wikilink"),L-VOKAL
+  - THE MAGIC feat.[WISE](../Page/WISE.md "wikilink"),L-VOKAL
 
 | [MAKAI](https://ja.wikipedia.org/wiki/MAKAI "wikilink")『[STARS](https://ja.wikipedia.org/wiki/STARS_\(MAKAIのアルバム\) "wikilink")』（2008年9月24日） |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -336,8 +336,8 @@
 
   - 俺の×××は宇宙一 ／　L-VOKAL
 
-| [くレーベル](https://ja.wikipedia.org/wiki/くレーベル "wikilink")『\[其の五\]その後は吾郎の五曲』（2009年6月17日） |
-| ------------------------------------------------------------------------------------- |
+| [くレーベル](../Page/くレーベル.md "wikilink")『\[其の五\]その後は吾郎の五曲』（2009年6月17日） |
+| ------------------------------------------------------------------ |
 
   - 無くない\!無くない\! feat. KREVA, L-VOKAL, AMIDA
 

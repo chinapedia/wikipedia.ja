@@ -112,7 +112,7 @@
 
 ## 関連項目
 
-  - [JRホテルグループ](https://ja.wikipedia.org/wiki/JRホテルグループ "wikilink")
+  - [JRホテルグループ](../Page/JRホテルグループ.md "wikilink")
   - [阪急阪神ホテルズ](../Page/阪急阪神ホテルズ.md "wikilink")
 
 ## 脚注

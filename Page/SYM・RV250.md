@@ -1,13 +1,13 @@
-> この記事は[SYMRV250](https://ja.wikipedia.org/wiki/SYMRV250)から翻訳されています。
+> この記事は[SYM・RV250](https://ja.wikipedia.org/wiki/SYM・RV250)から翻訳されています。
 
 
-**SYM・RV250**とは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[SYM](https://ja.wikipedia.org/wiki/SYM "wikilink")より発売された[スクーター](https://ja.wikipedia.org/wiki/スクーター "wikilink")タイプの[オートバイ](../Page/オートバイ.md "wikilink")である。
+**SYM・RV250**とは[2006年](../Page/2006年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に[SYM](../Page/SYM.md "wikilink")より発売された[スクーター](../Page/スクーター.md "wikilink")タイプの[オートバイ](../Page/オートバイ.md "wikilink")である。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に国内販売が開始された。[2007年](../Page/2007年.md "wikilink")よりインジェクションタイプのRV250EFIがラインナップに加わった。
+[2006年](../Page/2006年.md "wikilink")に国内販売が開始された。[2007年](../Page/2007年.md "wikilink")よりインジェクションタイプのRV250EFIがラインナップに加わった。
 
-[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")では[2002年](../Page/2002年.md "wikilink")まで排気量規制のため排気量150cc以上のオートバイは販売することができなかった。しかし排気量の規制緩和により、台湾の競合メーカー[キムコ](https://ja.wikipedia.org/wiki/キムコ "wikilink")の[グランドディンク250](https://ja.wikipedia.org/wiki/グランドディンク250 "wikilink")・[エキサイティング250](https://ja.wikipedia.org/wiki/エキサイティング250 "wikilink")とほぼ同時期に販売が開始された。
+[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")では[2002年](../Page/2002年.md "wikilink")まで排気量規制のため排気量150cc以上のオートバイは販売することができなかった。しかし排気量の規制緩和により、台湾の競合メーカー[キムコ](../Page/キムコ.md "wikilink")の[グランドディンク250](https://ja.wikipedia.org/wiki/グランドディンク250 "wikilink")・[エキサイティング250](https://ja.wikipedia.org/wiki/エキサイティング250 "wikilink")とほぼ同時期に販売が開始された。
 
 台湾メーカーとしては250ccクラスのオートバイは未知の領域であるため、初期不良が多いと販売店などで説明される。また、輸入車であるため、組み立ては各販売店で行われる。そのため仕上がりのレベルは各販売店の技術者の技術レベルに左右されることも、初期不良の多さにつながっており、国産ほどの品質は望めないというのが販売店の見解である。
 

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハンプトン・アンド・リッジモンド・ボロFC](https://ja.wikipedia.org/wiki/ハンプトン・アンド・リッジモンド・ボロFC)から翻訳されています。
 
 
 **ハンプトン・アンド・リッチモンド・フットボール・クラブ**（**Hampton & Richmond Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[リッジモンドを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/リッチモンド・アポン・テムズ・ロンドン特別区 "wikilink")。2009-2010シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。

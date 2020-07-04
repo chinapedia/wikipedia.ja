@@ -1,17 +1,17 @@
 > この記事は[MEIKO](https://ja.wikipedia.org/wiki/MEIKO)から翻訳されています。
 
 
-**MEIKO**（めいこ）とは[クリプトン・フューチャー・メディア](../Page/クリプトン・フューチャー・メディア.md "wikilink")が販売している[音声合成](https://ja.wikipedia.org/wiki/音声合成 "wikilink")・[デスクトップミュージック](../Page/デスクトップミュージック.md "wikilink")（DTM）[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")発売\[1\]。
+**MEIKO**（めいこ）とは[クリプトン・フューチャー・メディア](../Page/クリプトン・フューチャー・メディア.md "wikilink")が販売している[音声合成](../Page/音声合成.md "wikilink")・[デスクトップミュージック](../Page/デスクトップミュージック.md "wikilink")（DTM）[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")発売\[1\]。
 
 ## 製品概要
 
-クリプトン・フューチャー・メディアが開発販売している[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")音源の一つで、[ヤマハ](../Page/ヤマハ.md "wikilink")の開発した音声合成エンジン「[VOCALOID](../Page/VOCALOID.md "wikilink")（ボーカロイド）」を採用した初めての日本語版ソフトである。[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[拝郷メイコ](https://ja.wikipedia.org/wiki/拝郷メイコ "wikilink")\[2\]の音声を素材として歌声をデータベース化、[音階](../Page/音階.md "wikilink")や[歌詞](../Page/歌詞.md "wikilink")を入力することで、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")パートや[バックコーラスを作成することが出来る](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。適する音楽ジャンルなどは特に明示されておらずポップス、ロック、ジャズ、R\&B、童謡まで幅広く歌いこなすとされている\[3\]。MEIKOの名前は音声を担当した拝郷メイコの名前から取られた\[4\]</ref>。
+クリプトン・フューチャー・メディアが開発販売している[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")音源の一つで、[ヤマハ](../Page/ヤマハ.md "wikilink")の開発した音声合成エンジン「[VOCALOID](../Page/VOCALOID.md "wikilink")（ボーカロイド）」を採用した初めての日本語版ソフトである。[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[拝郷メイコ](../Page/拝郷メイコ.md "wikilink")\[2\]の音声を素材として歌声をデータベース化、[音階](../Page/音階.md "wikilink")や[歌詞](../Page/歌詞.md "wikilink")を入力することで、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")パートや[バックコーラスを作成することが出来る](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。適する音楽ジャンルなどは特に明示されておらずポップス、ロック、ジャズ、R\&B、童謡まで幅広く歌いこなすとされている\[3\]。MEIKOの名前は音声を担当した拝郷メイコの名前から取られた\[4\]</ref>。
 
 2014年2月4日には、VOCALOID3に対応した「MEIKO V3」が発売された\[5\]。
 
 ### パッケージイラスト
 
-MEIKOのパッケージには、マイクを握った女の子のアニメ風の絵が描かれている\[6\]\[7\]\[8\]</ref>。バーチャルインストゥルメント（仮想楽器）のパッケージにはそのソフトが再現する楽器のイメージが描かれるのが一般的であった\[9\]。先行して発売されていた英ZERO-G社製VOCALOIDの[LEONとLOLAでは唇のリアルな画像が描かれていた](https://ja.wikipedia.org/wiki/LEON・LOLA "wikilink")。MEIKOでは当初マイクのイラストが候補として挙がっていたという\[10\]。しかしDTM未経験者も興味を持ちやすいようにとの考えから、マイクの案は破棄され「歌っている人格」をアピールするためMEIKOの名前をイメージした女の子のイラストを採用することになった。イラストについては、動きがあり躍動感やリズムを感じさせることにこだわったという\[11\]。このパッケージイラストを手がけたのは、当時クリプトンの社員であった\[12\][わっしー](https://ja.wikipedia.org/wiki/わっしー "wikilink")によるもの。なお、MEIKO V3のイラストは、初音ミク V3のイラストを手がけたiXimaが担当している。なお初代MEIKOとは若干ながらも一部装飾品が変更されている（[ネックレス](https://ja.wikipedia.org/wiki/ネックレス "wikilink")や[ブレスレット](https://ja.wikipedia.org/wiki/ブレスレット "wikilink")の追加など。ただし初代ともKAITO以降にある[ヘッドセットマイクは無い](https://ja.wikipedia.org/wiki/ヘッドセット_\(音響機器\) "wikilink")）。
+MEIKOのパッケージには、マイクを握った女の子のアニメ風の絵が描かれている\[6\]\[7\]\[8\]</ref>。バーチャルインストゥルメント（仮想楽器）のパッケージにはそのソフトが再現する楽器のイメージが描かれるのが一般的であった\[9\]。先行して発売されていた英ZERO-G社製VOCALOIDの[LEONとLOLAでは唇のリアルな画像が描かれていた](https://ja.wikipedia.org/wiki/LEON・LOLA "wikilink")。MEIKOでは当初マイクのイラストが候補として挙がっていたという\[10\]。しかしDTM未経験者も興味を持ちやすいようにとの考えから、マイクの案は破棄され「歌っている人格」をアピールするためMEIKOの名前をイメージした女の子のイラストを採用することになった。イラストについては、動きがあり躍動感やリズムを感じさせることにこだわったという\[11\]。このパッケージイラストを手がけたのは、当時クリプトンの社員であった\[12\][わっしー](https://ja.wikipedia.org/wiki/わっしー "wikilink")によるもの。なお、MEIKO V3のイラストは、初音ミク V3のイラストを手がけたiXimaが担当している。なお初代MEIKOとは若干ながらも一部装飾品が変更されている（[ネックレス](../Page/ネックレス.md "wikilink")や[ブレスレット](../Page/ブレスレット.md "wikilink")の追加など。ただし初代ともKAITO以降にある[ヘッドセットマイクは無い](../Page/ヘッドセット_\(音響機器\).md "wikilink")）。
 
 このパッケージイラストは同ソフトヒットの一因とされ\[13\]、キャラクターイラストの使用という路線は後の[CVシリーズなどの同社製VOCALOIDにも引き継がれている](../Page/キャラクター・ボーカル・シリーズ.md "wikilink")。
 
@@ -29,7 +29,7 @@ MEIKOのパッケージには、マイクを握った女の子のアニメ風の
 
 初音ミクをはじめとするキャラクター・ボーカル・シリーズはキャラクターが歌うというイメージを前面に押し出した商品である。初音ミクのキャラクターとしての人気が高まるにつれ元々キャラクター商品ではなかったMEIKOをもまた「初音ミクの関連キャラクター」として受容されるようになり\[23\]、キャラクターとしての人気を広げた。
 
-2007年以降、MEIKOを用いて作成されたオリジナル曲やカバー曲、パッケージのキャラクターを用いた[PVなどが多数制作されニコニコ動画などに投稿されている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。また、2007年9月にニコニコ動画に投稿された[ワンカップP](https://ja.wikipedia.org/wiki/ワンカップP "wikilink")による動画「初音ミクが来ないのでまだスネています」でMEIKOで歌わせた「ワンカップを一気飲み　明日は届くといいな」という歌詞をきっかけに酒好きというイメージが広まり\[24\]、2011年に発売されたMEIKOのフィギュアにも、一升瓶にワンカップ、グラスなどの小物を付属させるといった形で取り入れられている\[25\]。
+2007年以降、MEIKOを用いて作成されたオリジナル曲やカバー曲、パッケージのキャラクターを用いた[PVなどが多数制作されニコニコ動画などに投稿されている](../Page/ミュージック・ビデオ.md "wikilink")。また、2007年9月にニコニコ動画に投稿された[ワンカップP](https://ja.wikipedia.org/wiki/ワンカップP "wikilink")による動画「初音ミクが来ないのでまだスネています」でMEIKOで歌わせた「ワンカップを一気飲み　明日は届くといいな」という歌詞をきっかけに酒好きというイメージが広まり\[24\]、2011年に発売されたMEIKOのフィギュアにも、一升瓶にワンカップ、グラスなどの小物を付属させるといった形で取り入れられている\[25\]。
 
 ## メディアミックス
 
@@ -50,7 +50,7 @@ MEIKOのパッケージには、マイクを握った女の子のアニメ風の
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalostar_feat.初音ミク" title="wikilink">Vocalostar</a></p></td>
 <td><p>オムニバス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エグジットチューンズ" title="wikilink">EXIT TUNES</a></p></td>
+<td><p><a href="../Page/エグジットチューンズ.md" title="wikilink">EXIT TUNES</a></p></td>
 <td><p>2009年6月17日</p></td>
 </tr>
 <tr class="even">
@@ -75,7 +75,7 @@ NONSTOP MIX COLLECTION</a></p></td>
 <tr class="odd">
 <td><p>Cinnamon Philosophy</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/OSTER_project" title="wikilink">OSTER project</a> feat.初音ミク</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/5pb." title="wikilink">5pb.</a>Records</p></td>
+<td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a>Records</p></td>
 <td><p>2010年10月27日</p></td>
 </tr>
 <tr class="even">
@@ -93,7 +93,7 @@ NONSTOP MIX COLLECTION</a></p></td>
 <tr class="even">
 <td><p>VOCALO LOVERS</p></td>
 <td><p>オムニバス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドリーミュージック" title="wikilink">ドリーミュージック</a></p></td>
+<td><p><a href="../Page/ドリーミュージック.md" title="wikilink">ドリーミュージック</a></p></td>
 <td><p>2011年3月2日</p></td>
 </tr>
 <tr class="odd">
@@ -239,16 +239,16 @@ Complete Collection</a></p></td>
 ### 漫画・書籍
 
   - [はちゅねミクの日常 ろいぱら\!](../Page/はちゅねミクの日常_ろいぱら!.md "wikilink")
-    初音ミクの[デフォルメ](https://ja.wikipedia.org/wiki/デフォルメ "wikilink")キャラクター、はちゅねミクを主人公にしたおんたまによる[4コマ漫画](../Page/4コマ漫画.md "wikilink")。MEIKOをモデルにした\[26\]**メィコ**というキャラクターが登場する。[月刊コンプエース](https://ja.wikipedia.org/wiki/月刊コンプエース "wikilink")2008年2月号より連載。
+    初音ミクの[デフォルメ](../Page/デフォルメ.md "wikilink")キャラクター、はちゅねミクを主人公にしたおんたまによる[4コマ漫画](../Page/4コマ漫画.md "wikilink")。MEIKOをモデルにした\[26\]**メィコ**というキャラクターが登場する。[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")2008年2月号より連載。
   - 初音ミクMIXING BOX（[講談社](../Page/講談社.md "wikilink")）
     2008年[9月25日](../Page/9月25日.md "wikilink")発売。クリプトン・フューチャー・メディアの運営する投稿サイト「[ピアプロ](../Page/ピアプロ.md "wikilink")」で公募された楽曲やイラスト等の作品を収録しており、MEIKOを用いた作品も収録されている。
   - 「[悪ノ娘](https://ja.wikipedia.org/wiki/悪ノ娘 "wikilink")」ノベルシリーズ（作：悪ノP（[mothy](https://ja.wikipedia.org/wiki/mothy "wikilink")）、出版：[PHP研究所](../Page/PHP研究所.md "wikilink")）
     悪ノP（mothy）が鏡音リン・レンを用いて発表した「[悪ノ娘](https://ja.wikipedia.org/wiki/悪ノ娘 "wikilink")」をはじめとする楽曲の小説化。2010年8月から2012年3月にかけて全4巻が発売された。MEIKOをモデルにしたキャラクター「ジェルメイヌ=アヴァドニア」が登場する。
-  - [悪ノ召使](https://ja.wikipedia.org/wiki/悪ノ娘#漫画『悪ノ召使』 "wikilink")（漫画：猫山宮緒、原案：mothy_悪ノP、出版：[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")）
-    悪ノP（mothy）が鏡音リン・レンを用いて発表した楽曲の漫画化。VOCALOIDをモデルにしたキャラクターが登場する。「[月刊コミックラッシュ](https://ja.wikipedia.org/wiki/月刊コミックラッシュ "wikilink")」2010年11月号より連載。
+  - [悪ノ召使](https://ja.wikipedia.org/wiki/悪ノ娘#漫画『悪ノ召使』 "wikilink")（漫画：猫山宮緒、原案：mothy_悪ノP、出版：[ジャイブ](../Page/ジャイブ.md "wikilink")）
+    悪ノP（mothy）が鏡音リン・レンを用いて発表した楽曲の漫画化。VOCALOIDをモデルにしたキャラクターが登場する。「[月刊コミックラッシュ](../Page/月刊コミックラッシュ.md "wikilink")」2010年11月号より連載。
   - 週刊 はじめての初音ミク（作：林健太郎、出版：[集英社](../Page/集英社.md "wikilink")）
     『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』2010年40号より連載のギャグ[4コマ漫画](../Page/4コマ漫画.md "wikilink")で、MEIKOも登場する。
-  - [ちびミクさん](https://ja.wikipedia.org/wiki/ちびミクさん "wikilink")（作：みなみ、出版：[マイクロマガジン社](https://ja.wikipedia.org/wiki/マイクロマガジン社 "wikilink")）
+  - [ちびミクさん](https://ja.wikipedia.org/wiki/ちびミクさん "wikilink")（作：みなみ、出版：[マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")）
     初音ミクをデフォルメした「ちびミク」を主人公とする4コマ漫画で、MEIKOも登場する。連載はWEB上で行われ、2011年9月にコミック第1巻が発売された。
   - [桜ノ雨](https://ja.wikipedia.org/wiki/桜ノ雨 "wikilink")、Fire◎Flower（原作・原案：halyosy、著：藤田遼、スタジオ・ハードデラックス、出版：PHP研究所）
     halyosy（森晴義）が初音ミクを用いて発表した曲「桜ノ雨」の小説化。MEIKOをモデルにしたキャラクター「芽依子」が登場する。第1作が2012年3月に発売。2作目となる僕らが巡り逢えた奇跡が2013年3月、3作目となる僕らはここで逢おうが2014年3月に発売。スピンオフのFire◎Flower:十人十色に輝いた日々が2013年8月、Fire◎Flower 君を好きでいられて良かったが2015年3月に発売された。
@@ -301,15 +301,15 @@ Complete Collection</a></p></td>
 
 ### ゲーム
 
-  - [スカッとゴルフ パンヤ](https://ja.wikipedia.org/wiki/スカッとゴルフ_パンヤ "wikilink")（[ゲームポット](https://ja.wikipedia.org/wiki/ゲームポット "wikilink")）
+  - [スカッとゴルフ パンヤ](../Page/スカッとゴルフ_パンヤ.md "wikilink")（[ゲームポット](https://ja.wikipedia.org/wiki/ゲームポット "wikilink")）
     2009年[6月25日](../Page/6月25日.md "wikilink")から[7月9日](../Page/7月9日.md "wikilink")までMEIKO衣装と、MEIKOを元に創作された[派生キャラクターである](https://ja.wikipedia.org/wiki/VOCALOIDの派生キャラクター "wikilink")[咲音メイコの衣装が販売された](https://ja.wikipedia.org/wiki/VOCALOIDの派生キャラクター#咲音メイコ "wikilink")\[27\]。
   - [初音ミク -Project DIVA-](https://ja.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")（[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")）
-    初音ミクを主役とする[PlayStation Portable用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。2009年7月2日発売の第1弾よりMEIKO、咲音メイコがキャラクターとして登場、2010年7月29日発売の「初音ミク -Project DIVA- 2nd」にはMEIKOを用いた楽曲も収録されている。
+    初音ミクを主役とする[PlayStation Portable用ゲームソフト](../Page/PlayStation_Portable.md "wikilink")。2009年7月2日発売の第1弾よりMEIKO、咲音メイコがキャラクターとして登場、2010年7月29日発売の「初音ミク -Project DIVA- 2nd」にはMEIKOを用いた楽曲も収録されている。
   - [トキメキファンタジー ラテール](../Page/トキメキファンタジー_ラテール.md "wikilink")（[ゲームポット](https://ja.wikipedia.org/wiki/ゲームポット "wikilink")）
     2009年12月に、背中ファッション装備「ねんどろいどぷち MEIKO・KAITO」が実装された\[28\]。
   - 初音ミク ボカロ×ライブ\!（クリプトン）
-    VOCALOIDのキャラクターをプロデューサーとして育成する携帯電話向けの育成型シミュレーションゲーム\[29\]。[モバゲータウンで](https://ja.wikipedia.org/wiki/Mobage "wikilink")2010年5月20日より\[30\]、[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")で同年8月10日より\[31\]提供されている。
-  - TinierMe、[アットゲームズ](https://ja.wikipedia.org/wiki/アットゲームズ "wikilink")（[ジークレスト](https://ja.wikipedia.org/wiki/ジークレスト "wikilink")）
+    VOCALOIDのキャラクターをプロデューサーとして育成する携帯電話向けの育成型シミュレーションゲーム\[29\]。[モバゲータウンで](../Page/Mobage.md "wikilink")2010年5月20日より\[30\]、[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")で同年8月10日より\[31\]提供されている。
+  - TinierMe、[アットゲームズ](../Page/アットゲームズ.md "wikilink")（[ジークレスト](https://ja.wikipedia.org/wiki/ジークレスト "wikilink")）
     英語版のTinierMeで2010年7月20日より\[32\]、日本語版のアットゲームでは8月3日より\[33\]期間限定でMEIKOになりきれるアイテムなどを販売。
   - [初音ミク and Future Stars Project mirai](https://ja.wikipedia.org/wiki/初音ミク_and_Future_Stars_Project_mirai "wikilink")（セガ）
     2012年3月8日発売の[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用音楽ゲーム。
@@ -317,7 +317,7 @@ Complete Collection</a></p></td>
     2013年9月19日より9月22日までコラボレーションイベント「囚われし歌姫たち～1～」\[34\]、10月7日より10月14日まで「囚われし歌姫たち～2～」が開催され「踊り子「MEIKO」」が配布された\[35\]。
   - [ファンタジーアース ゼロ](../Page/ファンタジーアース_ゼロ.md "wikilink")（GMOゲームポット）
     2014年5月23日から開始され6月23日の定期メンテナンス開始まで、『初音ミク』をはじめとしたボーカロイドたちをモチーフとした衣装（防具やアクセサリー）が登場した他、コラボレーション期間中、ゲーム内の「システム＞オプション＞操作」タブから、『初音ミク』がデザインされたチャットエモーションに変更することができた\[36\]。
-  - [ディバインゲート](https://ja.wikipedia.org/wiki/ディバインゲート "wikilink")([ガンホー・オンライン・エンターテイメント](https://ja.wikipedia.org/wiki/ガンホー・オンライン・エンターテイメント "wikilink"))
+  - [ディバインゲート](https://ja.wikipedia.org/wiki/ディバインゲート "wikilink")([ガンホー・オンライン・エンターテイメント](../Page/ガンホー・オンライン・エンターテイメント.md "wikilink"))
     2014年6月24日から7月6日にかけてコラボレーションしたイベントエリアが4回あり、『ディバインゲート』のお馴染みのユニットがバーチャル・シンガーに扮した姿で各ダンジョンに登場する\[37\]。MEIKOとしてはコラボスクラッチのユニットとして配布される\[38\]。
   - ポケットランド（ジークレスト）
     2014年6月24日より「初音ミク」らバーチャル・シンガーキャラクターとのコラボレーション企画が開始された\[39\]。
@@ -335,7 +335,7 @@ Complete Collection</a></p></td>
     2015年8月31日から9月30日まで『初音ミク』らバーチャル・シンガーとのコラボを実施した\[46\]\[47\]。
   - [消滅都市](https://ja.wikipedia.org/wiki/消滅都市 "wikilink")（Wright Flyer Studios）
     2016年2月10日から2月24日まで『初音ミク』らバーチャル・シンガーとのコラボを実施した\[48\]。大型アップデートされた『消滅都市2』でもコラボしている。
-  - タワー オブ プリンセス（[フィールズ](https://ja.wikipedia.org/wiki/フィールズ_\(企業\) "wikilink")）
+  - タワー オブ プリンセス（[フィールズ](../Page/フィールズ_\(企業\).md "wikilink")）
     2016年9月8日から9月29日まで『初音ミク』らバーチャル・シンガーとのコラボを実施した\[49\]。
   - ゴシックは魔法乙女〜さっさと契約しなさい！〜（[ケイブ](../Page/ケイブ.md "wikilink")）
     2017年8月31日から9月28日まで『初音ミク』らバーチャル・シンガーとのコラボレーションを実施した\[50\]。
@@ -387,10 +387,10 @@ Complete Collection</a></p></td>
   -
 ## 関連項目
 
-  - [音声合成](https://ja.wikipedia.org/wiki/音声合成 "wikilink")
+  - [音声合成](../Page/音声合成.md "wikilink")
   - [デスクトップミュージック](../Page/デスクトップミュージック.md "wikilink")
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
-  - [拝郷メイコ](https://ja.wikipedia.org/wiki/拝郷メイコ "wikilink")
+  - [拝郷メイコ](../Page/拝郷メイコ.md "wikilink")
   - [KAITO](https://ja.wikipedia.org/wiki/KAITO "wikilink")
 
 ## 外部リンク

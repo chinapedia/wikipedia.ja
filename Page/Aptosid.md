@@ -1,7 +1,7 @@
 > この記事は[Aptosid](https://ja.wikipedia.org/wiki/Aptosid)から翻訳されています。
 
 
-**aptosid**（アプトシッド）は、[Debian GNU/Linuxの開発者向けリリースであるDebian](../Page/Debian.md "wikilink") Sid/unstable（不安定版）をベースにした[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である。2010年の9月初旬まではsiduxの名前で知られていた。[i686と](https://ja.wikipedia.org/wiki/P6マイクロアーキテクチャ "wikilink")[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")アーキテクチャ向けに[GUIでハードディスクに](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[インストール](../Page/インストール.md "wikilink")できる[Live CDの形で配布されている](https://ja.wikipedia.org/wiki/Live_CD "wikilink")。
+**aptosid**（アプトシッド）は、[Debian GNU/Linuxの開発者向けリリースであるDebian](../Page/Debian.md "wikilink") Sid/unstable（不安定版）をベースにした[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")である。2010年の9月初旬まではsiduxの名前で知られていた。[i686と](../Page/P6マイクロアーキテクチャ.md "wikilink")[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")アーキテクチャ向けに[GUIでハードディスクに](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[インストール](../Page/インストール.md "wikilink")できる[Live CDの形で配布されている](../Page/Live_CD.md "wikilink")。
 
 aptosidはかつて[kanotix](https://ja.wikipedia.org/wiki/kanotix "wikilink")開発者だったStefan Lippers-Hollmann (slh)を含む開発チームによってメンテナンスされている。sidux時代、開発者チームによって[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")のsidux e.V.が設立され、siduxの商標などの管理を行っていたが、その後siduxの開発チームとsidux e.Vのメンバーとの間に意見の相違がおこり、siduxの名前での開発は2010年の夏に停止し、プロジェクトはaptosidと改名された。
 

@@ -1,11 +1,11 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSベストスポーツ](https://ja.wikipedia.org/wiki/BSベストスポーツ)から翻訳されています。
 
 
-『**BSベストスポーツ**』は、[NHK BS1で毎週](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")[土曜日](../Page/土曜日.md "wikilink")に放送されていた[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組である。
+『**BSベストスポーツ**』は、[NHK BS1で毎週](../Page/NHK_BS1.md "wikilink")[土曜日](../Page/土曜日.md "wikilink")に放送されていた[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組である。
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から2年間、月に一回放送された『[ベストスポーツUSA](https://ja.wikipedia.org/wiki/ベストスポーツUSA "wikilink")』を、毎週のレギュラー放送に拡充させて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月に放送を開始した番組。[視聴者](https://ja.wikipedia.org/wiki/視聴者 "wikilink")のリクエストによる[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の3大スポーツである[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、[NFL](../Page/NFL.md "wikilink")、[NBA](../Page/NBA.md "wikilink")、欧州サッカーでは[イングランド](../Page/イングランド.md "wikilink")の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")、[イタリア](../Page/イタリア.md "wikilink")の[セリエAなど](../Page/セリエA_\(サッカー\).md "wikilink")、1週間の名場面や印象に残るプレーを振り返る（PLAY BACK）。[欧米](../Page/欧米.md "wikilink")スポーツの最新情報を生島や現地在住のスポーツジャーナリストによる解説、現地レポーターによるファン目線からのレポート（スタジアムグルメリポート）などが紹介されるほか、選手のリクエスト曲をBGMにしてファインプレーや珍プレーを流し、最後に生島が観戦お勧めの試合を紹介する流れになっている。MLBのシーズン開幕前には2時間弱の拡大版で放送される。BSベストスポーツ増刊号として、「[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink") 2009年の安打全て見せます」、「イチロー2244安打全て見せます」（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")、11:00 - 18:00、途中BSニュースで数回の中断あり）などが放送された。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から2年間、月に一回放送された『[ベストスポーツUSA](https://ja.wikipedia.org/wiki/ベストスポーツUSA "wikilink")』を、毎週のレギュラー放送に拡充させて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）4月に放送を開始した番組。[視聴者](../Page/視聴者.md "wikilink")のリクエストによる[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の3大スポーツである[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、[NFL](../Page/NFL.md "wikilink")、[NBA](../Page/NBA.md "wikilink")、欧州サッカーでは[イングランド](../Page/イングランド.md "wikilink")の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")、[イタリア](../Page/イタリア.md "wikilink")の[セリエAなど](../Page/セリエA_\(サッカー\).md "wikilink")、1週間の名場面や印象に残るプレーを振り返る（PLAY BACK）。[欧米](../Page/欧米.md "wikilink")スポーツの最新情報を生島や現地在住のスポーツジャーナリストによる解説、現地レポーターによるファン目線からのレポート（スタジアムグルメリポート）などが紹介されるほか、選手のリクエスト曲をBGMにしてファインプレーや珍プレーを流し、最後に生島が観戦お勧めの試合を紹介する流れになっている。MLBのシーズン開幕前には2時間弱の拡大版で放送される。BSベストスポーツ増刊号として、「[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink") 2009年の安打全て見せます」、「イチロー2244安打全て見せます」（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")、11:00 - 18:00、途中BSニュースで数回の中断あり）などが放送された。
 
 [2014年](../Page/2014年.md "wikilink")からは平日に放送されている[「ワールドスポーツMLB（年度上半期）&11（同下半期）」と番組を統合](https://ja.wikipedia.org/wiki/ワールドスポーツMLB_/_11 "wikilink")（祝日を含め、完全帯番組として毎日放送。下半期については金曜日休止）するため、「ベストスポーツ」としての放送は[2014年](../Page/2014年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")で終了となった。
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
   -
-    ※[スポーツ中継](https://ja.wikipedia.org/wiki/スポーツ中継 "wikilink")他のために放送日時の変更あり。以前は[衛星ハイビジョンでも放送されていたが](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")、2008年度で終了した。
+    ※[スポーツ中継](../Page/スポーツ中継.md "wikilink")他のために放送日時の変更あり。以前は[衛星ハイビジョンでも放送されていたが](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、2008年度で終了した。
 
 ## 出演者
 
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - [生島淳](https://ja.wikipedia.org/wiki/生島淳 "wikilink") （スポーツライター）
+  - [生島淳](../Page/生島淳.md "wikilink") （スポーツライター）
   - [新井麻希](https://ja.wikipedia.org/wiki/新井麻希 "wikilink") （フリーアナウンサー\[1\]）
 
 <!-- end list -->
@@ -42,12 +42,12 @@
 
 <!-- end list -->
 
-  - 月刊[岡島秀樹](https://ja.wikipedia.org/wiki/岡島秀樹 "wikilink") （2010年まで）
+  - 月刊[岡島秀樹](../Page/岡島秀樹.md "wikilink") （2010年まで）
 
 <!-- end list -->
 
   -
-    前月の[ピッチング](https://ja.wikipedia.org/wiki/ピッチング "wikilink")を妻・[栗原由佳](https://ja.wikipedia.org/wiki/栗原由佳 "wikilink")のインタビューに答えるスタイルで解説していた。
+    前月の[ピッチング](../Page/ピッチング.md "wikilink")を妻・[栗原由佳](../Page/栗原由佳.md "wikilink")のインタビューに答えるスタイルで解説していた。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 <!-- end list -->
 
   -
-    前月のピッチングをインタビューで解説。上原はこの企画のために[髭](https://ja.wikipedia.org/wiki/髭 "wikilink")は剃っても、もみあげは残したままにしている。
+    前月のピッチングをインタビューで解説。上原はこの企画のために[髭](../Page/髭.md "wikilink")は剃っても、もみあげは残したままにしている。
 
 ## 過去の出演者
 
@@ -64,9 +64,9 @@
 
 <!-- end list -->
 
-  - [神田愛花](https://ja.wikipedia.org/wiki/神田愛花 "wikilink")
+  - [神田愛花](../Page/神田愛花.md "wikilink")
   - [荒木美和](../Page/荒木美和.md "wikilink")
-  - [橋本奈穂子](https://ja.wikipedia.org/wiki/橋本奈穂子 "wikilink")
+  - [橋本奈穂子](../Page/橋本奈穂子.md "wikilink")
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 ## 関連項目
 
-  - [NHK衛星放送番組一覧](https://ja.wikipedia.org/wiki/NHK衛星放送番組一覧 "wikilink")
+  - [NHK衛星放送番組一覧](../Page/NHK衛星放送番組一覧.md "wikilink")
   - [MLBハイライト](../Page/MLBハイライト.md "wikilink")
   - [ワールドスポーツMLB / 11](https://ja.wikipedia.org/wiki/ワールドスポーツMLB_/_11 "wikilink")（2013年度から平日[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")として開始。2014年度からは土曜・日曜日を含めた完全帯番組となる）
 

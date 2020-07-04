@@ -9,7 +9,7 @@
 
 ある。CDでは[慶太のパートであった部分をライブでは](../Page/橘慶太.md "wikilink")[龍一が歌唱しており](../Page/緒方龍一.md "wikilink")、CDとライブで若干ヴォーカルが異なっている。
 
-C/W曲の「永遠の途中」はスウェーデン女性歌手[シャロッテ・ペレッリ](https://ja.wikipedia.org/wiki/シャロッテ・ペレッリ "wikilink")のアルバム「Gone too long」の収録曲「Believ in love again」のカバー曲。原曲は「永遠の途中」より3ヶ月早くリリースされた。なお、同曲は後に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のロックバンド[TRAX](../Page/TRAX.md "wikilink")のアルバム『初雨』にて「Sad Wedding Song」として韓国語カバーされている。
+C/W曲の「永遠の途中」はスウェーデン女性歌手[シャロッテ・ペレッリ](https://ja.wikipedia.org/wiki/シャロッテ・ペレッリ "wikilink")のアルバム「Gone too long」の収録曲「Believe in love again」のカバー曲。原曲は「永遠の途中」より3ヶ月早くリリースされた。なお、同曲は後に[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")のロックバンド[TRAX](../Page/TRAX.md "wikilink")のアルバム『初雨』にて「Sad Wedding Song」として韓国語カバーされている。
 
 ## 収録曲
 

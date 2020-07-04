@@ -11,7 +11,7 @@
 
   - （Esbjörn Svensson、[ピアノ](../Page/ピアノ.md "wikilink")）
 
-  - ダン・ベルグルンド（Dan Berglund、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - ダン・ベルグルンド（Dan Berglund、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
 
   - マグヌス・オストロム（Magnus Öström、[ドラム](../Page/ドラムセット.md "wikilink")）
 

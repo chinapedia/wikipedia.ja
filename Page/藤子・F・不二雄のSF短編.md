@@ -1,7 +1,7 @@
 > この記事は[藤子・F・不二雄のSF短編](https://ja.wikipedia.org/wiki/藤子・F・不二雄のSF短編)から翻訳されています。
 
 
-**藤子・F・不二雄のSF短編**（ふじこ・F・ふじおのSFたんぺん）では、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")が発表したSF（SUKOSHI FUSHIGI\[1\]）短編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")およびこのSF短編を収録した単行本について扱う。
+**藤子・F・不二雄のSF短編**（ふじこ・F・ふじおのSFたんぺん）では、[漫画家](../Page/漫画家.md "wikilink")の[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")が発表したSF（SUKOSHI FUSHIGI\[1\]）短編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")およびこのSF短編を収録した単行本について扱う。
 
 ## 概要
 
@@ -53,7 +53,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
 
 :; 『少年SF短篇』 全6巻
 
-:: 1989年発売。『マンガ少年』および『週刊少年サンデー』を中心に少年誌に掲載された作品を収録。〈サンコミックス（以下SC）〉および〈てんとう虫コミックス（以下TC）〉に収録されたていた29話に、『SFシアター』および〈ゴールデンコミックス（以下GC）〉に収録されていた各1話の31話を再収録。これに初収録となる「[ベソとこたつと宇宙船](https://ja.wikipedia.org/wiki/ベソとこたつと宇宙船 "wikilink")」を加え計32話を収録している。
+:: 1989年発売。『マンガ少年』および『週刊少年サンデー』を中心に少年誌に掲載された作品を収録。〈サンコミックス（以下SC）〉および〈てんとう虫コミックス（以下TC）〉に収録されていた29話に、『SFシアター』および〈ゴールデンコミックス（以下GC）〉に収録されていた各1話の31話を再収録。これに初収録となる「[ベソとこたつと宇宙船](https://ja.wikipedia.org/wiki/ベソとこたつと宇宙船 "wikilink")」を加え計32話を収録している。
 
 :; 『異色SF短篇』 全3巻
 
@@ -141,7 +141,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
 
   - 『藤子・F・不二雄 SF全短篇』 [中央公論社](../Page/中央公論新社.md "wikilink")〈中公愛蔵版〉 全3巻
     1.  「[カンビュセスの籤](https://ja.wikipedia.org/wiki/カンビュセスの籤 "wikilink")」 1987年2月20日初版発行、ISBN 4-12-001549-1
-    2.  「[みどりの守り神](https://ja.wikipedia.org/wiki/みどりの守り神 "wikilink")」 1987年3月20日初版発行、ISBN 4-12-001557-2
+    2.  「[みどりの守り神](../Page/みどりの守り神.md "wikilink")」 1987年3月20日初版発行、ISBN 4-12-001557-2
     3.  「[征地球論](../Page/征地球論.md "wikilink")」 1988年5月25日初版発行、ISBN 4-12-001677-3
   - [中央公論社](../Page/中央公論新社.md "wikilink")〈[藤子不二雄ランド](../Page/藤子不二雄ランド.md "wikilink")〉 \[5\]
       - 『少年SF短篇』 全6巻
@@ -230,7 +230,7 @@ SF短編を収録した単行本を発行名義で大別し、さらにレーベ
 
 [劇団21世紀FOX](../Page/劇団21世紀FOX.md "wikilink")で複数回短編を原作にした作品が舞台化されている。
 
-  - [1989年](../Page/1989年.md "wikilink") 『SUKOSHI FUSHIGI もの語り』（[北村想](../Page/北村想.md "wikilink")作。単行本化\[27\]）オムニバス作品。原作は「[オヤジ・ロック](https://ja.wikipedia.org/wiki/オヤジ・ロック "wikilink")」・「[コロリころげた木の根っ子](https://ja.wikipedia.org/wiki/コロリころげた木の根っ子 "wikilink")」・「[三万三千平米](https://ja.wikipedia.org/wiki/三万三千平米 "wikilink")」・「[定年退食](../Page/定年退食.md "wikilink")」・「[あのバカは荒野をめざす](https://ja.wikipedia.org/wiki/あのバカは荒野をめざす "wikilink")」・「[夢カメラ](https://ja.wikipedia.org/wiki/夢カメラ "wikilink")」・「[カンビュセスの籤](https://ja.wikipedia.org/wiki/カンビュセスの籤 "wikilink")」・「[流血鬼](../Page/流血鬼.md "wikilink")」。「コロリころげた木の根っ子」部分で[内海賢二](../Page/内海賢二.md "wikilink")、「三万三千平米」部分で[キートン山田](../Page/キートン山田.md "wikilink")が客演しており、「流血鬼」部分では劇団員の[山口勝平](../Page/山口勝平.md "wikilink")が主役を演じた。また戯曲本には実際には舞台化されなかった『[世界名作童話](https://ja.wikipedia.org/wiki/世界名作童話 "wikilink")』部分の脚本も収録されている。
+  - [1989年](../Page/1989年.md "wikilink") 『SUKOSHI FUSHIGI もの語り』（[北村想](../Page/北村想.md "wikilink")作。単行本化\[27\]）オムニバス作品。原作は「[オヤジ・ロック](https://ja.wikipedia.org/wiki/オヤジ・ロック "wikilink")」・「[コロリころげた木の根っ子](../Page/コロリころげた木の根っ子.md "wikilink")」・「[三万三千平米](https://ja.wikipedia.org/wiki/三万三千平米 "wikilink")」・「[定年退食](../Page/定年退食.md "wikilink")」・「[あのバカは荒野をめざす](https://ja.wikipedia.org/wiki/あのバカは荒野をめざす "wikilink")」・「[夢カメラ](https://ja.wikipedia.org/wiki/夢カメラ "wikilink")」・「[カンビュセスの籤](https://ja.wikipedia.org/wiki/カンビュセスの籤 "wikilink")」・「[流血鬼](../Page/流血鬼.md "wikilink")」。「コロリころげた木の根っ子」部分で[内海賢二](../Page/内海賢二.md "wikilink")、「三万三千平米」部分で[キートン山田](../Page/キートン山田.md "wikilink")が客演しており、「流血鬼」部分では劇団員の[山口勝平](../Page/山口勝平.md "wikilink")が主役を演じた。また戯曲本には実際には舞台化されなかった『[世界名作童話](https://ja.wikipedia.org/wiki/世界名作童話 "wikilink")』部分の脚本も収録されている。
   - [1994年](../Page/1994年.md "wikilink") 『SUKOSHI FUSHIGI もの語り・Ⅱ〜あたらしき 緑の日々〜』 北村想作
   - [2001年](../Page/2001年.md "wikilink") 「新世紀SFトライアングル」として3作品が作られた。
       - 『2001-』 [小林大祐](../Page/小金丸大和.md "wikilink")（演劇制作体V-NET）構成脚色・演出、[たてかべ和也](../Page/たてかべ和也.md "wikilink")・[一城みゆ希](../Page/一城みゆ希.md "wikilink")らが客演。原作は「光陰」、「間引き」、「宇宙人」、「カンビュセスの籤」。

@@ -1,7 +1,7 @@
 > この記事は[SMAP 008 TACOMAX](https://ja.wikipedia.org/wiki/SMAP_008_TACOMAX)から翻訳されています。
 
 
-『**SMAP 008 TACOMAX**』（スマップ ゼロゼロハチ タコマックス）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の8枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1996年](../Page/1996年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**SMAP 008 TACOMAX**』（スマップ ゼロゼロハチ タコマックス）は、[SMAP](../Page/SMAP.md "wikilink")の8枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1996年](../Page/1996年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 

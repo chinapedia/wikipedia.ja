@@ -1,7 +1,7 @@
-> この記事は[\'06    IN YOKOHAMA STADIUM](https://ja.wikipedia.org/wiki/\'06____IN_YOKOHAMA_STADIUM)から翻訳されています。
+> この記事は[横浜ロマンスポルノ\'06 〜キャッチ ザ ハネウマ〜 IN YOKOHAMA STADIUM](https://ja.wikipedia.org/wiki/横浜ロマンスポルノ\'06_〜キャッチ_ザ_ハネウマ〜_IN_YOKOHAMA_STADIUM)から翻訳されています。
 
 
-『**横浜ロマンスポルノ'06 〜キャッチ ザ ハネウマ〜 IN YOKOHAMA STADIUM**』（よこはまロマンスポルノ'06 キャッチ ザ ハネウマ イン よこはまスタジアム）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")のライブビデオ。DVD版は2007年2月28日、Blu-ray版は2011年12月21日にリリースされた。制作・発売元は[SME Records](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")、[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")より販売 (DVD：SEBL-66/67、Blu-ray：SEXL-6)。
+『**横浜ロマンスポルノ'06 〜キャッチ ザ ハネウマ〜 IN YOKOHAMA STADIUM**』（よこはまロマンスポルノ'06 キャッチ ザ ハネウマ イン よこはまスタジアム）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")のライブビデオ。DVD版は2007年2月28日、Blu-ray版は2011年12月21日にリリースされた。制作・発売元は[SME Records](../Page/エスエムイーレコーズ.md "wikilink")、[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")より販売 (DVD：SEBL-66/67、Blu-ray：SEXL-6)。
 
 ## 概要
 
@@ -15,48 +15,48 @@
 
 ### DISC-1
 
-1.  **[タネウマライダー](https://ja.wikipedia.org/wiki/ハネウマライダー "wikilink")**
+1.  **[タネウマライダー](../Page/ハネウマライダー.md "wikilink")**
       -
         ライブ当時最新の20thシングルカップリング曲。
         **タネウマちゃん**のホイッスルで演奏が始まる。キャノンテープが発射される。
-2.  **[幸せについて本気出して考えてみた](https://ja.wikipedia.org/wiki/幸せについて本気出して考えてみた "wikilink")**
+2.  **[幸せについて本気出して考えてみた](../Page/幸せについて本気出して考えてみた.md "wikilink")**
       -
         8thシングル。
-3.  **[サウダージ](https://ja.wikipedia.org/wiki/サウダージ_\(曲\) "wikilink")**
+3.  **[サウダージ](../Page/サウダージ_\(曲\).md "wikilink")**
       -
         4thシングル。
-4.  **[天気職人](https://ja.wikipedia.org/wiki/シスター_\(ポルノグラフィティの曲\) "wikilink")**
+4.  **[天気職人](../Page/シスター_\(ポルノグラフィティの曲\).md "wikilink")**
       -
         昭仁が冒頭の歌詞を忘れてしまう一幕がある。
-5.  **[シスター](https://ja.wikipedia.org/wiki/シスター_\(ポルノグラフィティの曲\) "wikilink")**
+5.  **[シスター](../Page/シスター_\(ポルノグラフィティの曲\).md "wikilink")**
       -
         15thシングル。
 6.  **[ジョバイロ](https://ja.wikipedia.org/wiki/ジョバイロ/DON'T_CALL_ME_CRAZY "wikilink")**
       -
         19thシングル。曲中に歌詞が飛ぶところも。
-7.  **[メリッサ](https://ja.wikipedia.org/wiki/メリッサ_\(曲\) "wikilink")**
+7.  **[メリッサ](../Page/メリッサ_\(曲\).md "wikilink")**
       -
         12thシングル。
-8.  **[ヒトリノ夜](https://ja.wikipedia.org/wiki/ヒトリノ夜 "wikilink")**
+8.  **[ヒトリノ夜](../Page/ヒトリノ夜.md "wikilink")**
       -
         2ndシングル。
 9.  **Before Century 〜 [Century Lovers](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")**
       -
         ライブの定番曲。また、昭仁は歌詞をド忘れしたり、曲が始まるまでの時間を持て余すことの多い晴一によるお遊び要素などがある。
-10. **[うたかた](https://ja.wikipedia.org/wiki/THUMPχ "wikilink")**
+10. **[うたかた](../Page/THUMPχ.md "wikilink")**
       -
         冒頭部分にセミやヒグラシの鳴き声がアレンジとして使用されている。
-11. **[夕陽と星空と僕](https://ja.wikipedia.org/wiki/愛が呼ぶほうへ "wikilink")**
+11. **[夕陽と星空と僕](../Page/愛が呼ぶほうへ.md "wikilink")**
       -
         演奏時の時間帯は黄昏時であり、実際に会場で時間を確かめてこの曲の演奏順を決めた。
-12. **[何度も](https://ja.wikipedia.org/wiki/THUMPχ "wikilink")**
+12. **[何度も](../Page/THUMPχ.md "wikilink")**
 13. **[グラヴィティ（ロマンスギター）](https://ja.wikipedia.org/wiki/m-CABI "wikilink")**
       -
-        [インスト曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。後のアルバム『[m-CABI](https://ja.wikipedia.org/wiki/m-CABI "wikilink")』では歌詞が付け加えられ「グラヴィティ」として収録された。
-14. **[ジューンブライダー](https://ja.wikipedia.org/wiki/ハネウマライダー "wikilink")**
+        [インスト曲](../Page/器楽曲.md "wikilink")。後のアルバム『[m-CABI](https://ja.wikipedia.org/wiki/m-CABI "wikilink")』では歌詞が付け加えられ「グラヴィティ」として収録された。
+14. **[ジューンブライダー](../Page/ハネウマライダー.md "wikilink")**
       -
         ライブ当時最新の20thシングルカップリング曲。
-15. **[Winding Road](https://ja.wikipedia.org/wiki/Winding_Road_\(ポルノグラフィティの曲\) "wikilink")**
+15. **[Winding Road](../Page/Winding_Road_\(ポルノグラフィティの曲\).md "wikilink")**
       -
         本ライブで初披露された曲で、ライブが行われた当時は未発表曲。同年10月4日に21stシングルして発売された。
         この曲を以てそのまま終了し、DISC-2へと移る。
@@ -66,35 +66,35 @@
 1.  **[愛なき…](https://ja.wikipedia.org/wiki/foo? "wikilink")**
       -
         このライブで久々に演奏された。
-2.  **[ラック](https://ja.wikipedia.org/wiki/ラック_\(ポルノグラフィティの曲\) "wikilink")**
+2.  **[ラック](../Page/ラック_\(ポルノグラフィティの曲\).md "wikilink")**
       -
         14thシングル。
 3.  **[空想科学少年](https://ja.wikipedia.org/wiki/foo? "wikilink")**
-4.  **[POISON](https://ja.wikipedia.org/wiki/Words_of_雪之丞 "wikilink")**
+4.  **[POISON](../Page/Words_of_雪之丞.md "wikilink")**
       -
-        [布袋寅泰](../Page/布袋寅泰.md "wikilink")のカバー曲。[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")のトリビュートアルバム『[Words of 雪之丞](https://ja.wikipedia.org/wiki/Words_of_雪之丞 "wikilink")』に収録されている。
-5.  **[プッシュプレイ](https://ja.wikipedia.org/wiki/THUMPχ "wikilink")**
-6.  **[NaNaNa サマーガール](https://ja.wikipedia.org/wiki/NaNaNa_サマーガール "wikilink")**
+        [布袋寅泰](../Page/布袋寅泰.md "wikilink")のカバー曲。[森雪之丞](../Page/森雪之丞.md "wikilink")のトリビュートアルバム『[Words of 雪之丞](../Page/Words_of_雪之丞.md "wikilink")』に収録されている。
+5.  **[プッシュプレイ](../Page/THUMPχ.md "wikilink")**
+6.  **[NaNaNa サマーガール](../Page/NaNaNa_サマーガール.md "wikilink")**
       -
         18thシングル。この曲を皮切りに、ポルノグラフィティの夏うた「ミュージック・アワー」「ハネウマライダー」へと続く。また2番のサビの歌詞を昭仁が間違えているところも。
         ステージ脇で「NA」「×3」のパネルを持っているのは前述のライブ・サポーターである\[2\]。
-7.  **[ミュージック・アワー](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")**
+7.  **[ミュージック・アワー](../Page/ミュージック・アワー.md "wikilink")**
       -
         3rdシングル。ライブ定番である「164ver.」に「165ver.」を合わせたスタイルで演奏され、また、歌詞の一部を「PORNO」に変えるといった新しい演出を加えるなど、ライブ用アレンジとなっている。新藤晴一曰く、「ハネウマ・バージョン」とのこと。
         ライブ・サポーターはチアの衣装になりポンポン振りをしている\[3\]。
-8.  **[ハネウマライダー](https://ja.wikipedia.org/wiki/ハネウマライダー "wikilink")**
+8.  **[ハネウマライダー](../Page/ハネウマライダー.md "wikilink")**
       -
         ライブ当時最新の20thシングル。本編最終曲。コンサートタイトルを冠した楽曲で、アレンジメントがされている。
 
 **アンコール**
 
-1.  **[愛が呼ぶほうへ](https://ja.wikipedia.org/wiki/愛が呼ぶほうへ "wikilink")**
+1.  **[愛が呼ぶほうへ](../Page/愛が呼ぶほうへ.md "wikilink")**
       -
         13thシングル。アコースティックバージョンでの演奏。
 2.  **[ロマンチスト・エゴイスト](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")**
       -
         イントロを長くしメンバー紹介。このライブで久々に演奏された。
-3.  **[ジレンマ](https://ja.wikipedia.org/wiki/ヒトリノ夜 "wikilink")**
+3.  **[ジレンマ](../Page/ヒトリノ夜.md "wikilink")**
       -
         本ライブラストナンバーで、それぞれのソロがあり、また、最後に花火が打ち上げられる。
 
@@ -118,12 +118,12 @@
 
 ## 外部リンク
 
-  - [ポルノグラフィティ公式サイト](http://www.pornograffitti.jp/)
+  - [ポルノグラフィティ公式サイト](https://www.pornograffitti.jp/)
   - [ソニー・ミュージックエンタテインメントによる紹介ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
-      - [DVD](http://www.sonymusic.co.jp/Music/Arch/SMER/PornoGraffitti/SEBL-66)
-      - [Blu-ray](http://www.sonymusic.co.jp/Music/Arch/SMER/PornoGraffitti/SEXL-6)
+      - [DVD](https://www.sonymusic.co.jp/artist/PornoGraffitti/discography/SEBL-66)
+      - [Blu-ray](https://www.sonymusic.co.jp/artist/PornoGraffitti/discography/SEXL-6)
 
-[Category:ポルノグラフィティの映像作品](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティの映像作品 "wikilink") [Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:ポルノグラフィティの映像作品](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティの映像作品 "wikilink") [Category:2006年のコンサート](https://ja.wikipedia.org/wiki/Category:2006年のコンサート "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
 
 1.
 2.  公式ファンクラブ love up\! 会報23号(2006年8月)

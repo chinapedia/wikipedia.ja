@@ -1,11 +1,11 @@
 > この記事は[GOH HOTODA](https://ja.wikipedia.org/wiki/GOH_HOTODA)から翻訳されています。
 
 
-**GOH HOTODA**（ほとだ ごう、**本名:保土田 剛（読み同じ）**、[1960年](../Page/1960年.md "wikilink") - ）は、日本の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、ミックスエンジニア。妻は[NOKKO](../Page/NOKKO.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[国立市](../Page/国立市.md "wikilink")出身\[1\]。
+**GOH HOTODA**（ゴウ・ホトダ、本名：**保土田 剛**（読み同じ）、[1960年](../Page/1960年.md "wikilink") - ）は、日本の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、ミックスエンジニア。妻は[NOKKO](../Page/NOKKO.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[国立市](../Page/国立市.md "wikilink")出身\[1\]。
 
 ## 経歴
 
-[1960年](../Page/1960年.md "wikilink")、[東京都](../Page/東京都.md "wikilink")で生まれる。父親は彫刻家の樋口シン、母親は声楽家。[1970年](../Page/1970年.md "wikilink")、家族で[アメリカに渡り](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、幼少期を[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")で過ごす。中学生時代は東京の祖母の家で暮らす\[2\]。
+[1960年](../Page/1960年.md "wikilink")、[東京都](../Page/東京都.md "wikilink")で生まれる。父親は彫刻家の[樋口シン](https://ja.wikipedia.org/wiki/樋口シン "wikilink")、母親は声楽家。[1970年](../Page/1970年.md "wikilink")、家族で[アメリカに渡り](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、幼少期を[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")で過ごす。中学生時代は東京の祖母の家で暮らす\[2\]。
 
 [1979年](../Page/1979年.md "wikilink")に再び渡米し、[シカゴ](../Page/シカゴ.md "wikilink")のPSスタジオでアルバイトの電話番に始まり、アシスタント・エンジニアとして、数多くの[ジャズ](../Page/ジャズ.md "wikilink")や[ブルース](../Page/ブルース.md "wikilink")のレコーディングを経験する。
 
@@ -40,7 +40,7 @@
   - [公式サイト](http://hotoda.com/)
 
   -
-[Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の音響技術者](https://ja.wikipedia.org/wiki/Category:日本の音響技術者 "wikilink")
+[Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本の音響技術者](https://ja.wikipedia.org/wiki/Category:日本の音響技術者 "wikilink") [Category:帰国子女](https://ja.wikipedia.org/wiki/Category:帰国子女 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1960年生](https://ja.wikipedia.org/wiki/Category:1960年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  ”[第123回 Goh Hotoda 氏 プロデューサー / ミックス・エンジニア](https://www.musicman-net.com/relay/63274)”. musicman-net. (2014年10月6日). 2018年12月31日閲覧。
 2.

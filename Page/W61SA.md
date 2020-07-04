@@ -1,11 +1,11 @@
 > この記事は[W61SA](https://ja.wikipedia.org/wiki/W61SA)から翻訳されています。
 
 
-**W61SA**（ダブリュ 61エスエイ）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪）が開発・製造し、[京セラ](../Page/京セラ.md "wikilink")が日本国内向けに発売した、[auブランドを展開する](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X WIN対応](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。
+**W61SA**（ダブリュ 61エスエイ）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪）が開発・製造し、[京セラ](../Page/京セラ.md "wikilink")が日本国内向けに発売した、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X WIN対応](../Page/CDMA_1X_WIN.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。
 
 ## 特徴
 
-[W54SA](../Page/W54SA.md "wikilink")を基に再設計し、基本的な性能は[EZ FeliCa](https://ja.wikipedia.org/wiki/EZ_FeliCa "wikilink")（[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")）が搭載されていない点を除けばベース機のW54SAと大きな差はないが、世界初の3.0インチ・フルワイド[QVGA](https://ja.wikipedia.org/wiki/QVGA "wikilink")有機ELディスプレイの採用やカメラの画素数\[1\]、データフォルダの容量\[2\]などが変更されている。デザインは他社の[SoftBank 921SH及び](../Page/SoftBank_921SH.md "wikilink")[P905iTV](../Page/P905iTV.md "wikilink")に近い「<RUBY><RB>Full Front Style</RB><RP>（</RP><RT>フル　フロント　スタイル</RT><RP>）</RP></RUBY>」（フルスライド式）を採用。閉じた状態ではボタンがなくメインディスプレイのみが存在する。またディスプレイ部にタッチセンサーを搭載しているので、閉じている状態でも「ワンセグ」や「LISMO」などの一部操作ができる。また、W54SAに無い機能としてFMトランスミッターを搭載しているのでBluetooth対応機器が無い場合でもカーラジオなどで音楽を聞ける。 本端末は京セラへの移管後に発売された端末ではあるが、同時期に開発されていた[W63SA](https://ja.wikipedia.org/wiki/W63SA "wikilink")とは異なり、生産打ち切りまで三洋電機名義で製造されていた。
+[W54SA](../Page/W54SA.md "wikilink")を基に再設計し、基本的な性能は[EZ FeliCa](../Page/EZ_FeliCa.md "wikilink")（[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")）が搭載されていない点を除けばベース機のW54SAと大きな差はないが、世界初の3.0インチ・フルワイド[QVGA](https://ja.wikipedia.org/wiki/QVGA "wikilink")有機ELディスプレイの採用やカメラの画素数\[1\]、データフォルダの容量\[2\]などが変更されている。デザインは他社の[SoftBank 921SH及び](../Page/SoftBank_921SH.md "wikilink")[P905iTV](../Page/P905iTV.md "wikilink")に近い「<RUBY><RB>Full Front Style</RB><RP>（</RP><RT>フル　フロント　スタイル</RT><RP>）</RP></RUBY>」（フルスライド式）を採用。閉じた状態ではボタンがなくメインディスプレイのみが存在する。またディスプレイ部にタッチセンサーを搭載しているので、閉じている状態でも「ワンセグ」や「LISMO」などの一部操作ができる。また、W54SAに無い機能としてFMトランスミッターを搭載しているのでBluetooth対応機器が無い場合でもカーラジオなどで音楽を聞ける。 本端末は京セラへの移管後に発売された端末ではあるが、同時期に開発されていた[W63SA](../Page/W63SA.md "wikilink")とは異なり、生産打ち切りまで三洋電機名義で製造されていた。
 
 ## 沿革
 
@@ -17,13 +17,13 @@
 
 ## 対応サービス
 
-  - [LISMO](https://ja.wikipedia.org/wiki/LISMO "wikilink")（ビデオクリップ・LISMO Video・オーディオ機器連携（[LISMO Port](https://ja.wikipedia.org/wiki/au_Music_Port "wikilink")）対応）
-  - EZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」
+  - [LISMO](../Page/LISMO.md "wikilink")（ビデオクリップ・LISMO Video・オーディオ機器連携（[LISMO Port](https://ja.wikipedia.org/wiki/au_Music_Port "wikilink")）対応）
+  - EZ「[着うたフル](../Page/着うたフル.md "wikilink")」
   - EZ「[着うた](../Page/着うた.md "wikilink")」
-  - au Media Tuner（[EZテレビ](https://ja.wikipedia.org/wiki/EZテレビ "wikilink")（[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")）・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")）
-  - [EZ・FM](https://ja.wikipedia.org/wiki/EZ・FM "wikilink")
-  - [EZナビウォーク](https://ja.wikipedia.org/wiki/EZナビウォーク "wikilink")（声de入力・3Dナビ）
-  - [EZ助手席ナビ](https://ja.wikipedia.org/wiki/EZ助手席ナビ "wikilink")
+  - au Media Tuner（[EZテレビ](../Page/EZテレビ.md "wikilink")（[ワンセグ](../Page/ワンセグ.md "wikilink")）・[EZチャンネルプラス](../Page/EZチャンネルプラス.md "wikilink")）
+  - [EZ・FM](../Page/EZ・FM.md "wikilink")
+  - [EZナビウォーク](../Page/EZナビウォーク.md "wikilink")（声de入力・3Dナビ）
+  - [EZ助手席ナビ](../Page/EZ助手席ナビ.md "wikilink")
   - 安心ナビ
   - 災害時ナビ
   - [EZニュースフラッシュ](../Page/EZニュースフラッシュ.md "wikilink")
@@ -32,20 +32,20 @@
   - [au one](https://ja.wikipedia.org/wiki/au_one "wikilink") My Page
   - [グローバルエキスパート](https://ja.wikipedia.org/wiki/グローバルエキスパート "wikilink")
   - [デコレーションメール](https://ja.wikipedia.org/wiki/デコレーションメール "wikilink")
-  - [EZアプリ(BREW)](https://ja.wikipedia.org/wiki/BREW "wikilink")
+  - [EZアプリ(BREW)](../Page/BREW.md "wikilink")
       - EZアプリ「Full Game\!」にも対応
   - 絵しゃべりメール
   - ラッピングメール
-  - [テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")
+  - [テレビ電話](../Page/テレビ電話.md "wikilink")
   - ケータイ探せて安心サービス
   - 安心ロックサービス
   - アドレス帳預けて安心サービス
   - [赤外線通信](https://ja.wikipedia.org/wiki/赤外線通信 "wikilink") ([IrDA](../Page/IrDA.md "wikilink"))
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - バイリンガル機能
   - ペア機能
   - でか文字
-  - [オープンアプリプレイヤー](https://ja.wikipedia.org/wiki/オープンアプリプレイヤー "wikilink")
+  - [オープンアプリプレイヤー](../Page/オープンアプリプレイヤー.md "wikilink")
   - マルチプレイウィンドウ（2画面表示）
   - [大修館書店](../Page/大修館書店.md "wikilink")によるモバイル辞典（[明鏡](https://ja.wikipedia.org/wiki/明鏡 "wikilink")国語/[ジーニアス](https://ja.wikipedia.org/wiki/ジーニアス "wikilink")英和・和英）
   - PCドキュメントビューアー

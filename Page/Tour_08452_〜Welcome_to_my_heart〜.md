@@ -1,7 +1,7 @@
-> この記事は[Tour 08452 Welcome to my heart](https://ja.wikipedia.org/wiki/Tour_08452_Welcome_to_my_heart)から翻訳されています。
+> この記事は[Tour 08452 〜Welcome to my heart〜](https://ja.wikipedia.org/wiki/Tour_08452_〜Welcome_to_my_heart〜)から翻訳されています。
 
 
-『**Tour 08452 〜Welcome to my heart〜**』（ツアー ゼロハチヨンゴウニ ウェルカム トゥ マイ ハート）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")のライブビデオ。2000年9月6日にリリース。[SME Records制作](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")（発売元は[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")・SME Records）、[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")より販売（[VHS](../Page/VHS.md "wikilink")：SRVM-5699／[DVD](../Page/DVD.md "wikilink")：SRBL-1084）。
+『**Tour 08452 〜Welcome to my heart〜**』（ツアー ゼロハチヨンゴウニ ウェルカム トゥ マイ ハート）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")のライブビデオ。2000年9月6日にリリース。[SME Records制作](../Page/エスエムイーレコーズ.md "wikilink")（発売元は[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")・SME Records）、[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")より販売（[VHS](../Page/VHS.md "wikilink")：SRVM-5699／[DVD](../Page/DVD.md "wikilink")：SRBL-1084）。
 
 ## 概要
 
@@ -16,11 +16,11 @@
 2.  **[マシンガントーク](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")**
 3.  **[ライオン](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")**
 4.  **[リビドー](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")**
-5.  **[PRIME](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")**
+5.  **[PRIME](../Page/ミュージック・アワー.md "wikilink")**
       -
-        2000年7月発売のシングル「[ミュージック・アワー](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")で、ライブの時点では未発表曲であった。
+        2000年7月発売のシングル「[ミュージック・アワー](../Page/ミュージック・アワー.md "wikilink")」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")で、ライブの時点では未発表曲であった。
 6.  **[Heart Beat](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")**
-7.  **[ジレンマ](https://ja.wikipedia.org/wiki/ヒトリノ夜 "wikilink")**
+7.  **[ジレンマ](../Page/ヒトリノ夜.md "wikilink")**
 
 ## 当日ライブセットリスト
 
@@ -45,7 +45,7 @@
 11. **PRIME**<small>(当時未発表)</small>
 12. **<span style="color:red">Century Lovers</span>**
       -
-        渋谷ON AIR EAST公演(2000/04/20)に収録された音源が[ミュージック・アワー](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")に収録されている。
+        渋谷ON AIR EAST公演(2000/04/20)に収録された音源が[ミュージック・アワー](../Page/ミュージック・アワー.md "wikilink")に収録されている。
 13. **<span style="color:red">アポロ</span>**
 14. **Heart Beat**
 
@@ -62,9 +62,9 @@
 
 ## 外部リンク
 
-  - [ポルノグラフィティ公式サイト](http://www.pornograffitti.jp/)
+  - [ポルノグラフィティ公式サイト](https://www.pornograffitti.jp/)
   - [ソニー・ミュージックエンタテインメントによる紹介ページ](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
-      - [VHS](http://www.sonymusic.co.jp/Music/Arch/SMER/PornoGraffitti/SRVM-5699)
-      - [DVD](http://www.sonymusic.co.jp/Music/Arch/SMER/PornoGraffitti/SRBL-1084)
+      - [VHS](https://www.sonymusic.co.jp/artist/PornoGraffitti/discography/SRVM-5699)
+      - [DVD](https://www.sonymusic.co.jp/artist/PornoGraffitti/discography/SRBL-1084)
 
-[Category:ポルノグラフィティの映像作品](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティの映像作品 "wikilink") [Category:2000年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2000年の音楽関連の映像作品 "wikilink") [Category:ライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:ライブ・ビデオ "wikilink")
+[Category:ポルノグラフィティの映像作品](https://ja.wikipedia.org/wiki/Category:ポルノグラフィティの映像作品 "wikilink") [Category:2000年のコンサート](https://ja.wikipedia.org/wiki/Category:2000年のコンサート "wikilink") [Category:2000年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2000年のライブ・ビデオ "wikilink")

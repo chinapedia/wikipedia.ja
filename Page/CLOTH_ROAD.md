@@ -1,7 +1,7 @@
 > この記事は[CLOTH ROAD](https://ja.wikipedia.org/wiki/CLOTH_ROAD)から翻訳されています。
 
 
-『**CLOTH ROAD**』（クロスロオド）は、脚本：[倉田英之](../Page/倉田英之.md "wikilink")、作画：[okama](https://ja.wikipedia.org/wiki/okama "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](https://ja.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、2003年12月号から2011年6月号まで連載されていた。単行本は全11巻。話数単位は、本編は「Stitch-」（スティッチ）、番外編は「Snap-」（スナップ）。
+『**CLOTH ROAD**』（クロスロオド）は、脚本：[倉田英之](../Page/倉田英之.md "wikilink")、作画：[okama](https://ja.wikipedia.org/wiki/okama "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[ウルトラジャンプ](../Page/ウルトラジャンプ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、2003年12月号から2011年6月号まで連載されていた。単行本は全11巻。話数単位は、本編は「Stitch-」（スティッチ）、番外編は「Snap-」（スナップ）。
 
 ## ストーリー
 
@@ -274,6 +274,18 @@
     デザイナーが使用する手甲型のミシンで、指や腕に連動して動作する。人間の腕サイズのものから大型のトラックほどの大きさのものまでさまざまなサイズであり、大きくなるほど繊細な作業が可能となるが、装着者への負担も増す。トーガ曰く「神に近付くために作られた義手」。
 
 ## 書誌情報
+
+1.  2004年8月19日発売、ISBN 4-08-876669-5
+2.  2005年4月19日発売、ISBN 4-08-876793-4
+3.  2006年2月17日発売、ISBN 4-08-877032-3
+4.  2007年2月19日発売、ISBN 978-4-08-877166-3
+5.  2007年12月19日発売、ISBN 978-4-08-877334-6
+6.  2008年5月19日発売、ISBN 978-4-08-877452-7
+7.  2009年6月19日発売、ISBN 978-4-08-877673-6
+8.  2009年12月18日発売、ISBN 978-4-08-877781-8
+9.  2010年9月17日発売、ISBN 978-4-08-879006-0
+10. 2011年5月19日発売、ISBN 978-4-08-879151-7
+11. 2011年6月17日発売、ISBN 978-4-08-879165-4
 
 ## VOMIC
 

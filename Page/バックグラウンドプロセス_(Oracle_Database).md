@@ -1,7 +1,7 @@
 > この記事は[バックグラウンドプロセス \(Oracle Database\)](https://ja.wikipedia.org/wiki/バックグラウンドプロセス_\(Oracle_Database\))から翻訳されています。
 
 
-**バックグラウンドプロセス**とは、[データベース](../Page/データベース.md "wikilink")である[Oracle Databaseのシステムを管理する](../Page/Oracle_Database.md "wikilink")[プロセス](../Page/プロセス.md "wikilink")である。バックグラウンドで動作する。[ファイルと](https://ja.wikipedia.org/wiki/ファイル_\(Oracle_Database\) "wikilink")[システムグローバル領域](https://ja.wikipedia.org/wiki/システムグローバル領域 "wikilink")の仲介役となる。[インスタンス](../Page/インスタンス.md "wikilink")の実行中に[メモリーを管理したり](../Page/記憶装置.md "wikilink")、[データ](../Page/データ.md "wikilink")を[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")に書き込んだりする。
+**バックグラウンドプロセス**とは、[データベース](../Page/データベース.md "wikilink")である[Oracle Databaseのシステムを管理する](../Page/Oracle_Database.md "wikilink")[プロセス](../Page/プロセス.md "wikilink")である。バックグラウンドで動作する。[ファイルと](../Page/ファイル_\(Oracle_Database\).md "wikilink")[システムグローバル領域](../Page/システムグローバル領域.md "wikilink")の仲介役となる。[インスタンス](../Page/インスタンス.md "wikilink")の実行中に[メモリーを管理したり](../Page/記憶装置.md "wikilink")、[データ](../Page/データ.md "wikilink")を[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")に書き込んだりする。
 
 ## 7つの主要なバックグラウンドプロセス
 
@@ -27,7 +27,7 @@ Oracle Databaseのシステムを監視する。[インスタンス](../Page/イ
 
 ## DBWR
 
-メモリの「データベースバッファキャッシュ\[1\]」上のデータをディスクの「データファイル\[2\]」に書き込む。データベースバッファキャッシュは[システムグローバル領域](https://ja.wikipedia.org/wiki/システムグローバル領域 "wikilink")の一部である。
+メモリの「データベースバッファキャッシュ\[1\]」上のデータをディスクの「データファイル\[2\]」に書き込む。データベースバッファキャッシュは[システムグローバル領域](../Page/システムグローバル領域.md "wikilink")の一部である。
 
 Oracle Databaseでは、メモリ上でデータの処理を完了させてからディスクのファイルに書き込む。書き込むデータの順番はLRU([Least Recently Used](../Page/Least_Recently_Used.md "wikilink"))という[アルゴリズム](../Page/アルゴリズム.md "wikilink")で決定する。
 
@@ -85,8 +85,8 @@ ARCHを起動する数は、「LOG_ARCHIVE_MAX_PROCESSES」という初期化パ
 
 [Category:オラクル](https://ja.wikipedia.org/wiki/Category:オラクル "wikilink")
 
-1.  [システムグローバル領域](https://ja.wikipedia.org/wiki/システムグローバル領域 "wikilink")を参照。
-2.  [ファイル (Oracle Database)を参照](https://ja.wikipedia.org/wiki/ファイル_\(Oracle_Database\) "wikilink")。
+1.  [システムグローバル領域](../Page/システムグローバル領域.md "wikilink")を参照。
+2.  [ファイル (Oracle Database)を参照](../Page/ファイル_\(Oracle_Database\).md "wikilink")。
 3.
 4.
 5.

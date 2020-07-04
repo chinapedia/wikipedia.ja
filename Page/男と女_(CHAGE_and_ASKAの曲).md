@@ -1,7 +1,7 @@
 > この記事は[男と女 \(CHAGE and ASKAの曲\)](https://ja.wikipedia.org/wiki/男と女_\(CHAGE_and_ASKAの曲\))から翻訳されています。
 
 
-「**男と女**」（おとことおんな）は、[チャゲ&飛鳥](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の5枚目の[シングル](../Page/シングル.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。発売元は[ワーナー・パイオニア](../Page/ワーナーミュージック・ジャパン.md "wikilink")（現：ワーナーミュージック・ジャパン）。
+「**男と女**」（おとことおんな）は、[チャゲ&飛鳥](../Page/CHAGE_and_ASKA.md "wikilink")（現：CHAGE and ASKA）の楽曲。自身の5作目の[シングル](../Page/シングル.md "wikilink")として、[ワーナー・パイオニア](../Page/ワーナーミュージック・ジャパン.md "wikilink")（現：ワーナーミュージック・ジャパン）から[1981年](../Page/1981年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。
 
 ## 背景
 

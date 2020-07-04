@@ -1,9 +1,9 @@
-> この記事は[BASTARD!! --](https://ja.wikipedia.org/wiki/BASTARD!!_--)から翻訳されています。
+> この記事は[BASTARD!! -虚ろなる神々の器-](https://ja.wikipedia.org/wiki/BASTARD!!_-虚ろなる神々の器-)から翻訳されています。
 
 
-『**BASTARD\!\! -虚ろなる神々の器-**』（バスタード うつろなるかみがみのうつわ）は、[1996年](../Page/1996年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に[セタから発売された](https://ja.wikipedia.org/wiki/セタ_\(企業\) "wikilink")[PlayStation用](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。
+『**BASTARD\!\! -虚ろなる神々の器-**』（バスタード うつろなるかみがみのうつわ）は、[1996年](../Page/1996年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に[セタから発売された](https://ja.wikipedia.org/wiki/セタ_\(企業\) "wikilink")[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。
 
-シナリオは[ベニー松山](https://ja.wikipedia.org/wiki/ベニー松山 "wikilink")。キャラクターデザインは[羽山淳一](../Page/羽山淳一.md "wikilink")。
+シナリオは[ベニー松山](../Page/ベニー松山.md "wikilink")。キャラクターデザインは[羽山淳一](../Page/羽山淳一.md "wikilink")。
 
 ## 概要
 
@@ -166,7 +166,7 @@
   - 魔雷妃
     森の侵入者を排除しようとする。
   - 三男神
-    「[テウターテス](https://ja.wikipedia.org/wiki/テウタテス "wikilink")」「エスス」「タラニス」の三兄弟。全員残酷な性格をしている。
+    「[テウターテス](../Page/テウタテス.md "wikilink")」「エスス」「タラニス」の三兄弟。全員残酷な性格をしている。
   - 暗黒僧
     正体不明の不気味な人物。牛骨のような仮面をつけて一行を惑わす。
 

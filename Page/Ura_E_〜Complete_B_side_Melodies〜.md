@@ -1,7 +1,7 @@
-> この記事は[Ura E Complete B side Melodies](https://ja.wikipedia.org/wiki/Ura_E_Complete_B_side_Melodies)から翻訳されています。
+> この記事は[Ura E 〜Complete B side Melodies〜](https://ja.wikipedia.org/wiki/Ura_E_〜Complete_B_side_Melodies〜)から翻訳されています。
 
 
-『**ura E 〜Complete B side Melodies〜**』（うらイー コンプリート・ビー・サイド・メロディーズ）は、[ZONEの](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")[シングル](../Page/シングル.md "wikilink")A面以外の曲や[アルバム](../Page/アルバム.md "wikilink")収録曲のみを集めた裏[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。解散約1周年を記念した企画盤。
+『**ura E 〜Complete B side Melodies〜**』（うらイー コンプリート・ビー・サイド・メロディーズ）は、[ZONEの](../Page/ZONE_\(バンド\).md "wikilink")[シングル](../Page/シングル.md "wikilink")A面以外の曲や[アルバム](../Page/アルバム.md "wikilink")収録曲のみを集めた裏[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。解散約1周年を記念した企画盤。
 
 ## 解説
 
@@ -15,20 +15,20 @@
 
 ## 収録曲
 
-1.  **fortune** - 『[GOOD DAYS](https://ja.wikipedia.org/wiki/GOOD_DAYS_\(ZONEの曲\) "wikilink")』より
+1.  **fortune** - 『[GOOD DAYS](../Page/GOOD_DAYS_\(ZONEの曲\).md "wikilink")』より
 2.  **mind** - 『[僕の手紙](https://ja.wikipedia.org/wiki/僕の手紙 "wikilink")』より
 3.  **風のはじまる場所** - 『[Z](../Page/Z_\(ZONEのアルバム\).md "wikilink")』より
 4.  **愛花** - 『[笑顔日和](../Page/笑顔日和.md "wikilink")』より
 5.  **Once Again** - 『[glory colors 〜風のトビラ〜](https://ja.wikipedia.org/wiki/glory_colors_〜風のトビラ〜 "wikilink")』より
 6.  **JET** - 『[夢ノカケラ・・・](https://ja.wikipedia.org/wiki/夢ノカケラ・・・ "wikilink")』より
-7.  **GO\!** - 『[O](https://ja.wikipedia.org/wiki/O_\(ZONEのアルバム\) "wikilink")』より
-8.  **Like** - 『[N](https://ja.wikipedia.org/wiki/N_\(ZONEのアルバム\) "wikilink")』より
-9.  **空想と現実の夜明け** - 『[白い花](https://ja.wikipedia.org/wiki/白い花_\(ZONEの曲\) "wikilink")』より
-10. **ROCKING** - 『[N](https://ja.wikipedia.org/wiki/N_\(ZONEのアルバム\) "wikilink")』より
-11. **For Tomorrow** - 『[証](https://ja.wikipedia.org/wiki/証_\(ZONEの曲\) "wikilink")』、『[O](https://ja.wikipedia.org/wiki/O_\(ZONEのアルバム\) "wikilink")』より
-12. **Sae Zuri** - 『[O](https://ja.wikipedia.org/wiki/O_\(ZONEのアルバム\) "wikilink")』より
+7.  **GO\!** - 『[O](../Page/O_\(ZONEのアルバム\).md "wikilink")』より
+8.  **Like** - 『[N](../Page/N_\(ZONEのアルバム\).md "wikilink")』より
+9.  **空想と現実の夜明け** - 『[白い花](../Page/白い花_\(ZONEの曲\).md "wikilink")』より
+10. **ROCKING** - 『[N](../Page/N_\(ZONEのアルバム\).md "wikilink")』より
+11. **For Tomorrow** - 『[証](../Page/証_\(ZONEの曲\).md "wikilink")』、『[O](../Page/O_\(ZONEのアルバム\).md "wikilink")』より
+12. **Sae Zuri** - 『[O](../Page/O_\(ZONEのアルバム\).md "wikilink")』より
 13. **H・A・N・A・B・I 〜君がいた夏〜 Ocean Version** - シングル『[H・A・N・A・B・I 〜君がいた夏〜](https://ja.wikipedia.org/wiki/H・A・N・A・B・I_〜君がいた夏〜 "wikilink")』のOcean Versionの4人特別バージョン
-14. **アルバム** - 『[卒業](https://ja.wikipedia.org/wiki/卒業_\(ZONEの曲\) "wikilink")』より
+14. **アルバム** - 『[卒業](../Page/卒業_\(ZONEの曲\).md "wikilink")』より
 15. **旅立ち・・・** - 『[E 〜Complete A side Singles〜](../Page/E_〜Complete_A_side_Singles〜.md "wikilink")』より
 16. **一緒にいたかった** - 『[一雫](../Page/一雫.md "wikilink")』より
 

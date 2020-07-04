@@ -493,7 +493,7 @@ II期芝生エリア "メガKobe"</p></td>
 <td><ul>
 <li><a href="https://ja.wikipedia.org/wiki/おとぎ話_(バンド)" title="wikilink">おとぎ話</a></li>
 <li><a href="../Page/ジン_(バンド).md" title="wikilink">ジン</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ミドリ_(バンド)" title="wikilink">ミドリ</a></li>
+<li><a href="../Page/ミドリ_(バンド).md" title="wikilink">ミドリ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/avengers_in_sci-fi" title="wikilink">avengers in sci-fi</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ghostnote" title="wikilink">ghostnote</a></li>
 <li><a href="../Page/Good_Dog_Happy_Men.md" title="wikilink">Good Dog Happy Men</a></li>

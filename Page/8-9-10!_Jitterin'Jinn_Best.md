@@ -1,7 +1,7 @@
 > この記事は[8-9-10! Jitterin\'Jinn Best](https://ja.wikipedia.org/wiki/8-9-10!_Jitterin\'Jinn_Best)から翻訳されています。
 
 
-『**8-9-10\! Jitterin'Jinn Best**』（エイト ナイン テン\! ジッタリン ジン ベスト）は、[1999年](../Page/1999年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に発売された[JITTERIN'JINN](https://ja.wikipedia.org/wiki/JITTERIN'JINN "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
+『**8-9-10\! Jitterin'Jinn Best**』（エイト ナイン テン\! ジッタリン ジン ベスト）は、[1999年](../Page/1999年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に発売された[JITTERIN'JINN](../Page/JITTERIN'JINN.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。
 
 ## 解説
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
 1.  **エヴリデイ**
-    『[DOKIDOKI](https://ja.wikipedia.org/wiki/DOKIDOKI "wikilink")』収録曲。
+    『[DOKIDOKI](../Page/DOKIDOKI.md "wikilink")』収録曲。
 2.  **SINKY-YORK**
     『DOKIDOKI』収録曲。
 3.  **アニー**
@@ -24,11 +24,11 @@
 4.  **相合傘 (Album Ver.)**
     『DOKIDOKI』収録曲。
 5.  **プレゼント (Album Ver.)**
-    『[Hi-King](https://ja.wikipedia.org/wiki/Hi-King "wikilink")』収録曲。
+    『[Hi-King](../Page/Hi-King.md "wikilink")』収録曲。
 6.  **プリプリダーリン**
     『Hi-King』収録曲。
 7.  **[にちようび](https://ja.wikipedia.org/wiki/にちようび "wikilink") (Album Ver.)**
-    『[パンチアウト](https://ja.wikipedia.org/wiki/パンチアウト "wikilink")』収録曲。
+    『[パンチアウト](../Page/パンチアウト.md "wikilink")』収録曲。
 8.  **[夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\) "wikilink")**
     『パンチアウト』収録曲。
 9.  **バイ バイ ハニー**

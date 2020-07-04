@@ -5,11 +5,11 @@
 
 ## 概要
 
-2007年に発売したアルバム『[HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")』の発売後に行われたアリーナツアーをDVD化した作品。本作には[2007年](../Page/2007年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")に[日本ガイシホール](https://ja.wikipedia.org/wiki/名古屋市総合体育館 "wikilink")（旧 名古屋レインボーホール）で行われたライブの模様を収録しており、Mr.Children史上初めて、関東圏外で行われたライブが映像化された。
+2007年に発売したアルバム『[HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")』の発売後に行われたアリーナツアーをDVD化した作品。本作には[2007年](../Page/2007年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")に[日本ガイシホール](../Page/名古屋市総合体育館.md "wikilink")（旧 名古屋レインボーホール）で行われたライブの模様を収録しており、Mr.Children史上初めて、関東圏外で行われたライブが映像化された。
 
-また、このライブではバックスタンドにも観客を入れた円形ステージを採用しており、会場の広さの割にステージと観客の距離が近かったが、結果として故意に物を投げ込む事態が発生。「youthful days」ではタオルが、「ランニングハイ」ではペットボトルが投げ込まれた。また、終演後のステージ挨拶時では映像が一部カットされている（最前列の女性客が持っていた向日葵の造花を[桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")に渡そうとするも、桜井が受け取りを拒否する場面）。
+また、このライブではバックスタンドにも観客を入れた円形ステージを採用しており、会場の広さの割にステージと観客の距離が近かったが、結果として故意に物を投げ込む事態が発生。「youthful days」ではタオルが、「ランニングハイ」ではペットボトルが投げ込まれた。また、終演後のステージ挨拶時では映像が一部カットされている（最前列の女性客が持っていた向日葵の造花を[桜井和寿](../Page/桜井和寿.md "wikilink")に渡そうとするも、桜井が受け取りを拒否する場面）。
 
-映像編集を担当したのは前作に引き続きイエローブレインだが、今回[丹下紘希](https://ja.wikipedia.org/wiki/丹下紘希 "wikilink")はパッケージやコンテンツ制作のみに携わり、代わって谷聰志が総合映像プロデュースを担当した。モニターの映像をビデオに合成したり、色数を減らしたモノトーンのような編集がなされている。
+映像編集を担当したのは前作に引き続きイエローブレインだが、今回[丹下紘希](../Page/丹下紘希.md "wikilink")はパッケージやコンテンツ制作のみに携わり、代わって谷聰志が総合映像プロデュースを担当した。モニターの映像をビデオに合成したり、色数を減らしたモノトーンのような編集がなされている。
 
 このツアーからサポートメンバーを大きく入れ替え、「[regress or progress '96-'97 tour final IN TOKYO DOME](https://ja.wikipedia.org/wiki/regress_or_progress_'96-'97_tour_final_IN_TOKYO_DOME "wikilink")」以来、約10年ぶりにホーンセクションが復活し、キーボードや打ち込みで代用していたストリングスを生音で演奏した。
 
@@ -17,9 +17,9 @@
 
 ## 演奏
 
-  - [桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")：Vocal & Guitar
-  - [田原健一](https://ja.wikipedia.org/wiki/田原健一 "wikilink")：Guitar
-  - [中川敬輔](https://ja.wikipedia.org/wiki/中川敬輔 "wikilink")：Bass
+  - [桜井和寿](../Page/桜井和寿.md "wikilink")：Vocal & Guitar
+  - [田原健一](../Page/田原健一.md "wikilink")：Guitar
+  - [中川敬輔](../Page/中川敬輔.md "wikilink")：Bass
   - [鈴木英哉](../Page/鈴木英哉.md "wikilink")：Drums
   - [小林武史](../Page/小林武史.md "wikilink")：Keyboards
   - 登坂亮太：Chorus
@@ -35,11 +35,11 @@
 ### Disc 1
 
 1.  **[彩り](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")**
-2.  **[and I love you](https://ja.wikipedia.org/wiki/四次元_Four_Dimensions "wikilink")**
+2.  **[and I love you](../Page/四次元_Four_Dimensions.md "wikilink")**
       -
         ツアーでは初となる原曲キーでの演奏。意図的にテンポを速めて演奏されており、3番のメロディーを変えて歌っている。
 3.  **[youthful days](https://ja.wikipedia.org/wiki/youthful_days "wikilink")**
-4.  **[箒星](https://ja.wikipedia.org/wiki/箒星_\(曲\) "wikilink")**
+4.  **[箒星](../Page/箒星_\(曲\).md "wikilink")**
       -
         モニターには流星のような映像が流れている。
 5.  **[Another Story](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")**
@@ -50,15 +50,15 @@
       -
         31stシングル「[旅立ちの唄](../Page/旅立ちの唄_\(Mr.Childrenの曲\).md "wikilink")」のカップリングに、このライブ音源が収録されている。
 8.  **[PIANO MAN](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")**
-9.  **[ランニングハイ](https://ja.wikipedia.org/wiki/四次元_Four_Dimensions "wikilink")**
-10. **[Imagine](https://ja.wikipedia.org/wiki/イマジン_\(ジョン・レノンの曲\) "wikilink")**
+9.  **[ランニングハイ](../Page/四次元_Four_Dimensions.md "wikilink")**
+10. **[Imagine](../Page/イマジン_\(ジョン・レノンの曲\).md "wikilink")**
       -
         [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")のカバー曲。ここから「Any」までノンストップで演奏する。
 11. **[CENTER OF UNIVERSE](https://ja.wikipedia.org/wiki/Q_\(アルバム\)#収録曲 "wikilink")**
 12. **[Dance Dance Dance](https://ja.wikipedia.org/wiki/Atomic_Heart#収録曲 "wikilink")**
       -
         1番は打ち込みによるテクノアレンジで、2番から本来のバンドサウンドへ変化する。
-13. **[フェイク](https://ja.wikipedia.org/wiki/フェイク_\(Mr.Childrenの曲\) "wikilink")**
+13. **[フェイク](../Page/フェイク_\(Mr.Childrenの曲\).md "wikilink")**
       -
         前曲の締めにこの曲のイントロが流れ始める。終盤、次曲へ繋ぐためのアレンジが追加されている。
 14. **[Any](../Page/Any.md "wikilink")**
@@ -76,10 +76,10 @@
 4.  **[Worlds end](https://ja.wikipedia.org/wiki/IラブU#収録曲 "wikilink")**
       -
         モニターに映された文字が画面にダビングされて流れている。
-5.  **[終わりなき旅](https://ja.wikipedia.org/wiki/終わりなき旅 "wikilink")**
+5.  **[終わりなき旅](../Page/終わりなき旅.md "wikilink")**
       -
         歌詞に合わせて、昭和の時代を映したモノクロの映像がバックに流れている。
-6.  **[しるし](https://ja.wikipedia.org/wiki/しるし_\(Mr.Childrenの曲\) "wikilink")**
+6.  **[しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")**
 7.  **[あんまり覚えてないや](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")**
       -
         ここからアンコール。2番を鈴木に歌わせようと桜井がアイコンタクトを送るが、鈴木が遠慮する場面がある。
@@ -89,4 +89,4 @@
       -
         「[ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes "wikilink")」でも披露したアコースティックバージョン。
 
-[Category:Mr.Childrenの映像作品](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの映像作品 "wikilink") [Category:2007年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2007年の音楽関連の映像作品 "wikilink")
+[Category:Mr.Childrenの映像作品](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの映像作品 "wikilink") [Category:2007年のコンサート](https://ja.wikipedia.org/wiki/Category:2007年のコンサート "wikilink") [Category:2007年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2007年のライブ・ビデオ "wikilink")

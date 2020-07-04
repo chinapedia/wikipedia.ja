@@ -7,9 +7,9 @@
 
   - [2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、同志社大学内で結成。
   - [2002年](../Page/2002年.md "wikilink")[6月](../Page/6月.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")として辻本が加入。
-  - [2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、第1回[京都学生祭典](https://ja.wikipedia.org/wiki/京都学生祭典 "wikilink")「全国学生音楽コンテスト」でグランプリを受賞。
+  - [2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、第1回[京都学生祭典](../Page/京都学生祭典.md "wikilink")「全国学生音楽コンテスト」でグランプリを受賞。
   - [2004年](../Page/2004年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")「[White mini album](https://ja.wikipedia.org/wiki/White_mini_album "wikilink")」でインディーズデビュー。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月](../Page/8月.md "wikilink")、杉岡が脱退、現在の3人体制となる。
+  - [2006年](../Page/2006年.md "wikilink")[8月](../Page/8月.md "wikilink")、杉岡が脱退、現在の3人体制となる。
   - [2009年](../Page/2009年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")、[シングル](../Page/シングル.md "wikilink")「[ODYSSEY](https://ja.wikipedia.org/wiki/ODYSSEY_\(Chicago_Poodleの曲\) "wikilink")」でメジャーデビュー。
   - [2011年](../Page/2011年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")、初のベストアルバム「[HISTORY I](https://ja.wikipedia.org/wiki/HISTORY_I "wikilink")」をリリース。
 
@@ -21,9 +21,9 @@
 
   - \-
 
-  - [大阪府](https://ja.wikipedia.org/wiki/大阪府 "wikilink")出身。
+  - [大阪府](../Page/大阪府.md "wikilink")出身。
 
-  - [同志社大学](https://ja.wikipedia.org/wiki/同志社大学 "wikilink")経済学部卒。
+  - [同志社大学](../Page/同志社大学.md "wikilink")経済学部卒。
 
   - ヴォーカル、キーボード、全楽曲の作曲を担当。
 
@@ -37,7 +37,7 @@
 
   - \-
 
-  - [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身。
+  - [京都府](../Page/京都府.md "wikilink")出身。
 
   - 同志社大学[大学院](https://ja.wikipedia.org/wiki/大学院 "wikilink")法学研究科修了。
 
@@ -53,7 +53,7 @@
 
   - \-
 
-  - [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身。
+  - [京都府](../Page/京都府.md "wikilink")出身。
 
   - 同志社大学商学部卒。
 
@@ -71,7 +71,7 @@
 
   - 本名は、杉岡秀紀。
 
-  - [奈良県](https://ja.wikipedia.org/wiki/奈良県 "wikilink")出身。
+  - [奈良県](../Page/奈良県.md "wikilink")出身。
 
   - 同志社大学大学院総合政策科学研究科博士前期課程修了。
 
@@ -81,7 +81,7 @@
 
   - 2013年には舞鶴市の市制70周年を記念して作られたイメージソング『My hometown 舞鶴-このタカラモノを未来へ-』の作詞を担当している。
 
-  - 現在は[福知山公立大学](https://ja.wikipedia.org/wiki/福知山公立大学 "wikilink")の[准教授](https://ja.wikipedia.org/wiki/准教授 "wikilink")として教鞭を執る。
+  - 現在は[福知山公立大学](../Page/福知山公立大学.md "wikilink")の[准教授](../Page/准教授.md "wikilink")として教鞭を執る。
 
 <!-- end list -->
 
@@ -115,13 +115,13 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/夢_(Chicago_Poodleの曲)" title="wikilink">夢</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月8日.md" title="wikilink">11月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Songs_4_one_day_EP" title="wikilink">Songs 4 one day EP</a></strong><br />
 「Hello」 … <a href="../Page/エフエム鹿児島.md" title="wikilink">FM鹿児島</a>「W-ing Up」2008年6月度エンディングテーマ</p></td>
 <td><p>153位</p></td>
@@ -244,7 +244,7 @@
 |        | 発売日                                                                                         | タイトル                                                                                                        | 週間最高位 |
 | ------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----- |
 | インディーズ |                                                                                             |                                                                                                             |       |
-| 1st    | [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") | **[one](https://ja.wikipedia.org/wiki/one_\(Chicago_Poodleのアルバム\) "wikilink")**                             |       |
+| 1st    | [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")                    | **[one](https://ja.wikipedia.org/wiki/one_\(Chicago_Poodleのアルバム\) "wikilink")**                             |       |
 | 2nd    | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")   | **[ピアノロマン](https://ja.wikipedia.org/wiki/ピアノロマン "wikilink")**                                               | 207位  |
 | メジャー   |                                                                                             |                                                                                                             |       |
 | 1st    | [2009年](../Page/2009年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")                  | **[僕旅](https://ja.wikipedia.org/wiki/僕旅 "wikilink")**                                                       | 41位   |
@@ -279,7 +279,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/NEW_OLD_FASHIONED" title="wikilink">NEW OLD FASHIONED</a></strong></p></td>
 </tr>
 <tr class="even">

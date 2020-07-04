@@ -34,4 +34,4 @@
   - [公式サイト](http://orange.half-life2.com/)
   - [オレンジボックス（Xbox360日本語版）](http://marketplace.xbox.com/ja-JP/Product/The-Orange-Box/66acd000-77fe-1000-9115-d8024541080f)
 
-[Category:ハーフライフ](https://ja.wikipedia.org/wiki/Category:ハーフライフ "wikilink") [Category:Steam](https://ja.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink")
+[Category:ハーフライフ](https://ja.wikipedia.org/wiki/Category:ハーフライフ "wikilink") [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:Valveのゲームソフト](https://ja.wikipedia.org/wiki/Category:Valveのゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_360用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_360用ソフト "wikilink") [Category:PlayStation_3用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_3用ソフト "wikilink")

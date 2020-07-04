@@ -1,22 +1,22 @@
-> この記事は[EJ](https://ja.wikipedia.org/wiki/EJ)から翻訳されています。
+> この記事は[スバル・EJ型エンジン](https://ja.wikipedia.org/wiki/スバル・EJ型エンジン)から翻訳されています。
 
 
 **EJ型エンジン**とは、[SUBARU](../Page/SUBARU.md "wikilink")（[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")以前は[富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")名義）が製造していた[水平対向4気筒](https://ja.wikipedia.org/wiki/水平対向4気筒 "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](https://ja.wikipedia.org/wiki/スバルのエンジン系列名 "wikilink")。
 
-[EA型エンジンの後継機種として開発された](https://ja.wikipedia.org/wiki/スバル・EA型エンジン "wikilink")。本項では[スバル・アルシオーネSVX](https://ja.wikipedia.org/wiki/スバル・アルシオーネSVX "wikilink")に搭載された発展バージョンであるEG33[水平対向6気筒](https://ja.wikipedia.org/wiki/水平対向6気筒 "wikilink")エンジンも便宜上、記述する。
+[EA型エンジンの後継機種として開発された](https://ja.wikipedia.org/wiki/スバル・EA型エンジン "wikilink")。本項では[スバル・アルシオーネSVX](../Page/スバル・アルシオーネSVX.md "wikilink")に搭載された発展バージョンであるEG33[水平対向6気筒](https://ja.wikipedia.org/wiki/水平対向6気筒 "wikilink")エンジンも便宜上、記述する。
 
 ## 概要
 
   - 生産期間
-      - [1988年](../Page/1988年.md "wikilink")12月 - [2019年](../Page/2019年.md "wikilink")12月
+      - 1988年12月 - 2020年3月
 
-EA型エンジンが[クランクシャフト](https://ja.wikipedia.org/wiki/クランクシャフト "wikilink")を支持する[ベアリングが](../Page/軸受.md "wikilink")3つであったのに対して、EJ型エンジンでは5つとなり高出力化へと対応した。しかし、このためにクランクシャフト長が延び、[ボアピッチ](https://ja.wikipedia.org/wiki/ボアピッチ "wikilink")が広くなっている。ボア拡大により排気量を大幅に上げることが可能となったが、実際の性能との関連によらず『[ショートストローク](https://ja.wikipedia.org/wiki/ショートストローク "wikilink")のために低回転域のトルクが細い』と評されることが多い。
+EA型エンジンが[クランクシャフト](../Page/クランクシャフト.md "wikilink")を支持する[ベアリングが](../Page/軸受.md "wikilink")3つであったのに対して、EJ型エンジンでは5つとなり高出力化へと対応した。しかし、このためにクランクシャフト長が延び、[ボアピッチ](https://ja.wikipedia.org/wiki/ボアピッチ "wikilink")が広くなっている。ボア拡大により排気量を大幅に上げることが可能となったが、実際の性能との関連によらず『[ショートストローク](https://ja.wikipedia.org/wiki/ショートストローク "wikilink")のために低回転域のトルクが細い』と評されることが多い。
 
 ## 構造的特徴
 
 直系の先祖となる[EA型エンジン](https://ja.wikipedia.org/wiki/スバル・EA型エンジン "wikilink")([スバル1000](https://ja.wikipedia.org/wiki/スバル1000 "wikilink")から搭載)と同じく水冷方式を採用し、コンパクトネスを重視したため隣接するシリンダー間が比較的狭くクランクシャフトは薄いウェブ、大きなクランクピン-ジャーナルのオーバーラップを持つ形状をしており、俗に剃刀クランクと呼ばれることもある。切れ角を伴うフロントタイヤ間に搭載されるため、横幅へのサイズ的要求もありストロークをあまり大きくすることはできず、ショートストローク・ビックボアなプロフィールを持つ。\[1\]
 
-一般的なエンジンにあるメインベアリングキャップは存在せず、対向する[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")がこれを兼ねるため、支持剛性は高いものとなる。開放口は下側のオイルパン取り付け部のみである。左右シリンダーブロックはクランクシャフト軸にて分割され、一般的なエンジンにおけるハーフスカート形状をしており、ボルト結合されている。
+一般的なエンジンにあるメインベアリングキャップは存在せず、対向する[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")がこれを兼ねるため、支持剛性は高いものとなる。開放口は下側のオイルパン取り付け部のみである。左右シリンダーブロックはクランクシャフト軸にて分割され、一般的なエンジンにおけるハーフスカート形状をしており、ボルト結合されている。
 
 この構造によりコンロッドキャップをシリンダブロック内で分離することが困難であり、コンロッド-ピストンを一体でシリンダーから抜くことは難しいため、シリンダーブロックの前後にはピストンピンの脱着を行うサービスホールが設けられている（ピストンピン取り外し用に専用工具が設定されている。）。分解・組み立ての際にはここを通してピストンとコンロッドを分離し、コンロッドはクランクシャフトに組み付いた状態で脱着する。
 
@@ -26,7 +26,7 @@ EA型エンジンが[クランクシャフト](https://ja.wikipedia.org/wiki/ク
 
 ### EJ15
 
-  - 種類：[SOHC](../Page/SOHC.md "wikilink") [16バルブ](https://ja.wikipedia.org/wiki/マルチバルブ "wikilink") [EGI](../Page/燃料噴射装置.md "wikilink")
+  - 種類：[SOHC](../Page/SOHC.md "wikilink") [16バルブ](../Page/マルチバルブ.md "wikilink") [EGI](../Page/燃料噴射装置.md "wikilink")
   - 排気量：1,493cc
   - ボア: 85.0 [mm](../Page/ミリメートル.md "wikilink")
   - ストローク: 65.8 mm
@@ -108,11 +108,11 @@ EA型エンジンが[クランクシャフト](https://ja.wikipedia.org/wiki/ク
 
 ### EJ20
 
-[スバル・EJ20](https://ja.wikipedia.org/wiki/スバル・EJ20 "wikilink")を参照。
+[スバル・EJ20](../Page/スバル・EJ20.md "wikilink")を参照。
 
 ### EJ22
 
-  - 種類：[SOHC](../Page/SOHC.md "wikilink")/[DOHC](../Page/DOHC.md "wikilink") 16バルブ [EGI](../Page/燃料噴射装置.md "wikilink") [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")/[ターボ](../Page/ターボチャージャー.md "wikilink")
+  - 種類：[SOHC](../Page/SOHC.md "wikilink")/[DOHC](../Page/DOHC.md "wikilink") 16バルブ [EGI](../Page/燃料噴射装置.md "wikilink") [NA](../Page/自然吸気.md "wikilink")/[ターボ](../Page/ターボチャージャー.md "wikilink")
   - 排気量：2,212cc
   - ボア: 96.9 mm
   - ストローク: 75.0 mm
@@ -137,11 +137,11 @@ EA型エンジンが[クランクシャフト](https://ja.wikipedia.org/wiki/ク
 <!-- end list -->
 
   - [レガシィ](../Page/スバル・レガシィ.md "wikilink")（BF7/B,BG/B）
-  - [インプレッサ](../Page/スバル・インプレッサ.md "wikilink")（GC8改→impreza WRXSTi 22B)
+  - [インプレッサ](../Page/スバル・インプレッサ.md "wikilink")（GC8改→インプレッサ 22B-STi Version)
 
 ### EJ25
 
-  - 種類：[SOHC](../Page/SOHC.md "wikilink")/[DOHC](../Page/DOHC.md "wikilink")　16バルブ　[EGI](../Page/燃料噴射装置.md "wikilink") [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")/[ターボ](../Page/ターボチャージャー.md "wikilink")
+  - 種類：[SOHC](../Page/SOHC.md "wikilink")/[DOHC](../Page/DOHC.md "wikilink")　16バルブ　[EGI](../Page/燃料噴射装置.md "wikilink") [NA](../Page/自然吸気.md "wikilink")/[ターボ](../Page/ターボチャージャー.md "wikilink")
   - 排気量：2.457L
   - ボア: 99.5 mm
   - ストローク: 79.0 mm
@@ -179,9 +179,9 @@ EA型エンジンが[クランクシャフト](https://ja.wikipedia.org/wiki/ク
 
 ## EG33
 
-[スバル・アルシオーネSVX](https://ja.wikipedia.org/wiki/スバル・アルシオーネSVX "wikilink")の専用エンジンとして設計された水平対向6気筒エンジン。ブロックはEJ22に2気筒を追加して6気筒とし（[ER27と同じ手法](https://ja.wikipedia.org/wiki/スバル・EA型エンジン#ER27 "wikilink")）、[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")とバルブトレーンには新設計の狭角DOHCが採用された。[EZ36の登場までの間](https://ja.wikipedia.org/wiki/スバル・EZ型エンジン#EZ36 "wikilink")、スバルブランドの市販エンジン（乗用車用）では最大排気量だった。
+[スバル・アルシオーネSVX](../Page/スバル・アルシオーネSVX.md "wikilink")の専用エンジンとして設計された水平対向6気筒エンジン。ブロックはEJ22に2気筒を追加して6気筒とし（[ER27と同じ手法](https://ja.wikipedia.org/wiki/スバル・EA型エンジン#ER27 "wikilink")）、[シリンダーヘッド](https://ja.wikipedia.org/wiki/シリンダーヘッド "wikilink")とバルブトレーンには新設計の狭角DOHCが採用された。[EZ36の登場までの間](https://ja.wikipedia.org/wiki/スバル・EZ型エンジン#EZ36 "wikilink")、スバルブランドの市販エンジン（乗用車用）では最大排気量だった。
 
-  - 種類：[DOHC](../Page/DOHC.md "wikilink") 24バルブ [EGI](../Page/燃料噴射装置.md "wikilink") [NA](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")
+  - 種類：[DOHC](../Page/DOHC.md "wikilink") 24バルブ [EGI](../Page/燃料噴射装置.md "wikilink") [NA](../Page/自然吸気.md "wikilink")
   - 排気量：3,318cc
   - ボア: 96.9 mm
   - ストローク: 75.0 mm
@@ -202,7 +202,7 @@ EA型エンジンが[クランクシャフト](https://ja.wikipedia.org/wiki/ク
 
 <!-- end list -->
 
-  - [スバル・アルシオーネSVX](https://ja.wikipedia.org/wiki/スバル・アルシオーネSVX "wikilink")（CXD/V/W）
+  - [スバル・アルシオーネSVX](../Page/スバル・アルシオーネSVX.md "wikilink")（CXD/V/W）
 
 ## 脚注
 

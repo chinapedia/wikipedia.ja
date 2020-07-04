@@ -1,11 +1,11 @@
-> この記事は[ UX](https://ja.wikipedia.org/wiki/_UX)から翻訳されています。
+> この記事は[ラストレジオン UX](https://ja.wikipedia.org/wiki/ラストレジオン_UX)から翻訳されています。
 
 
-**ラストレジオン UX**（LAST LEGION UX）は、[1999年](../Page/1999年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[NINTENDO64](../Page/NINTENDO64.md "wikilink")用対戦アクションゲーム。開発は、[ユークス](https://ja.wikipedia.org/wiki/ユークス "wikilink")、イラストは、[大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")が担当している。
+**ラストレジオン UX**（LAST LEGION UX）は、[1999年](../Page/1999年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[NINTENDO64](../Page/NINTENDO64.md "wikilink")用対戦アクションゲーム。開発は、[ユークス](../Page/ユークス.md "wikilink")、イラストは、[大河原邦男](../Page/大河原邦男.md "wikilink")が担当している。
 
 ## 概要
 
-[NINTENDO64](../Page/NINTENDO64.md "wikilink")世代でロボットアクションといえば、[プレイステーションの](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[アーマード・コア](../Page/アーマード・コア.md "wikilink")や[セガサターン](../Page/セガサターン.md "wikilink")（及びアーケード）の[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")が有名であるが、本作も操縦型ロボット兵器を使用した1対1の[サードパーソン・シューティング](https://ja.wikipedia.org/wiki/サードパーソン・シューティング "wikilink")形式の対戦アクションの一つである。
+[NINTENDO64](../Page/NINTENDO64.md "wikilink")世代でロボットアクションといえば、[プレイステーションの](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アーマード・コア](../Page/アーマード・コア.md "wikilink")や[セガサターン](../Page/セガサターン.md "wikilink")（及びアーケード）の[バーチャロン](https://ja.wikipedia.org/wiki/バーチャロン "wikilink")が有名であるが、本作も操縦型ロボット兵器を使用した1対1の[サードパーソン・シューティング](https://ja.wikipedia.org/wiki/サードパーソン・シューティング "wikilink")形式の対戦アクションの一つである。
 
 地水火風（[四大元素](https://ja.wikipedia.org/wiki/四大元素 "wikilink")）に分けられたパワーストーンと呼ばれる鉱石を動力として駆動する人型兵器「レジオン」と、世界を統一する「UNION」に対立する戦闘集団「ライドレイド」が、タイムワープが可能な施設を占拠。「創世記」と呼ばれる時代にタイムワープしていったライドレイドを追跡し、その目的を知る事がストーリーモードの大筋である。
 

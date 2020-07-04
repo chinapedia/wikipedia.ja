@@ -117,7 +117,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・ローレンソン" title="wikilink">マーク・ローレンソン</a></p></td>
+<td><p><a href="../Page/マーク・ローレンソン.md" title="wikilink">マーク・ローレンソン</a></p></td>
 <td></td>
 <td></td>
 <td></td>

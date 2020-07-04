@@ -1,19 +1,19 @@
-> この記事は[KANSAI1](https://ja.wikipedia.org/wiki/KANSAI1)から翻訳されています。
+> この記事は[KANSAI1週間](https://ja.wikipedia.org/wiki/KANSAI1週間)から翻訳されています。
 
 
 『**KANSAI1週間**』（かんさい1しゅうかん」）とは、[講談社](../Page/講談社.md "wikilink")が[1999年](../Page/1999年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")まで[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")で発行していた都市情報[雑誌](../Page/雑誌.md "wikilink")の名称。通称『**カンイチ**』。2010年[6月8日](../Page/6月8日.md "wikilink")発売号をもって休刊した。
 
 ## 概要
 
-[1999年](../Page/1999年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")創刊。[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")で発行の『[TOKYO★1週間](https://ja.wikipedia.org/wiki/TOKYO★1週間 "wikilink")』の姉妹誌として講談社から創刊。また関西地区向けの情報誌では『[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")関西版』（ぴあ株式会社）、『[関西ウォーカー](https://ja.wikipedia.org/wiki/関西ウォーカー "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")。現在は[角川マーケティング](https://ja.wikipedia.org/wiki/角川マーケティング "wikilink")が刊行\[1\]）に続き3誌目となる。
+[1999年](../Page/1999年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")創刊。[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")で発行の『[TOKYO★1週間](https://ja.wikipedia.org/wiki/TOKYO★1週間 "wikilink")』の姉妹誌として講談社から創刊。また関西地区向けの情報誌では『[ぴあ](../Page/ぴあ.md "wikilink")関西版』（ぴあ株式会社）、『[関西ウォーカー](https://ja.wikipedia.org/wiki/関西ウォーカー "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")。現在は[角川マーケティング](https://ja.wikipedia.org/wiki/角川マーケティング "wikilink")が刊行\[1\]）に続き3誌目となる。
 
-創刊から9年近くはTOKYOと同じく講談社より発行していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")より発行元が[サンケイリビング新聞社](https://ja.wikipedia.org/wiki/サンケイリビング新聞社 "wikilink")に移行した。
+創刊から9年近くはTOKYOと同じく講談社より発行していたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")より発行元が[サンケイリビング新聞社](../Page/サンケイリビング新聞社.md "wikilink")に移行した。
 
 ## 特徴
 
-主に[大阪を中心とする](https://ja.wikipedia.org/wiki/大阪府 "wikilink")[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")の若者向け情報（[デート](https://ja.wikipedia.org/wiki/デート "wikilink")スポット、[グルメ](https://ja.wikipedia.org/wiki/グルメ "wikilink")、[映画](../Page/映画.md "wikilink")、[音楽](../Page/音楽.md "wikilink")など）を掲載していた。また、各分野に精通したライターやタレントらによる連載企画なども充実しており、常に若い世代からの支持を得ていた。
+主に[大阪を中心とする](../Page/大阪府.md "wikilink")[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")の若者向け情報（[デート](../Page/デート.md "wikilink")スポット、[グルメ](https://ja.wikipedia.org/wiki/グルメ "wikilink")、[映画](../Page/映画.md "wikilink")、[音楽](../Page/音楽.md "wikilink")など）を掲載していた。また、各分野に精通したライターやタレントらによる連載企画なども充実しており、常に若い世代からの支持を得ていた。
 
-[インターネット](https://ja.wikipedia.org/wiki/インターネット "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")と連動した企画も行っている。刊行中は本誌表紙または一部ページに[QRコード](../Page/QRコード.md "wikilink")が掲載されておりバーコードリーダー対応携帯電話で読み取るとクーポン券や最新情報が入手できた。なお、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からは[Twitter](../Page/Twitter.md "wikilink")による展開も開始されている。
+[インターネット](../Page/インターネット.md "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")と連動した企画も行っている。刊行中は本誌表紙または一部ページに[QRコード](../Page/QRコード.md "wikilink")が掲載されておりバーコードリーダー対応携帯電話で読み取るとクーポン券や最新情報が入手できた。なお、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からは[Twitter](../Page/Twitter.md "wikilink")による展開も開始されている。
 
 表紙は毎号、女性タレント（男性タレントの場合もある）が1～2名に登場しており、本誌ではトップページの「COVER GIRLS BEST★HIT\!」にも登場していた。
 
@@ -29,7 +29,7 @@
 
 ## テレビ番組表
 
-  - テレビ情報ページには2週間（14日）分のテレビ番組表を掲載。1ページに1日分が掲載されており、左から「2 [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")」「4 [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")」「6 [ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")」「8 [関西テレビ](../Page/関西テレビ放送.md "wikilink")」「10 [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")」の順。それらの右にはハーフサイズで上から「19 [テレビ大阪](../Page/テレビ大阪.md "wikilink")」「36 [サンテレビ](../Page/サンテレビジョン.md "wikilink")」が掲載され一番右（奇数ページの場合は一番左）には三分の一のサイズで上から「デジタル1 [NHK衛星第一](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")」、「デジタル2 [NHK衛星第二](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")」、「12 [NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")」が掲載されていた。なおフルサイズのみ[Gコード](https://ja.wikipedia.org/wiki/Gコード "wikilink")が掲載されていた。
+  - テレビ情報ページには2週間（14日）分のテレビ番組表を掲載。1ページに1日分が掲載されており、左から「2 [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")」「4 [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")」「6 [ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")」「8 [関西テレビ](../Page/関西テレビ放送.md "wikilink")」「10 [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")」の順。それらの右にはハーフサイズで上から「19 [テレビ大阪](../Page/テレビ大阪.md "wikilink")」「36 [サンテレビ](../Page/サンテレビジョン.md "wikilink")」が掲載され一番右（奇数ページの場合は一番左）には三分の一のサイズで上から「デジタル1 [NHK衛星第一](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")」、「デジタル2 [NHK衛星第二](../Page/NHK衛星第2テレビジョン.md "wikilink")」、「12 [NHK教育](../Page/NHK教育テレビジョン.md "wikilink")」が掲載されていた。なおフルサイズのみ[Gコード](../Page/Gコード.md "wikilink")が掲載されていた。
   - また、各日番組表の下には当日放送の番組の中から4番組が紹介（映画放送日の場合は別枠で「今日の注目映画」を1番組掲載）されていた。
   - なお、最終号は通常より8日多い3週間+1日（22日）分の番組表を掲載している。
 
@@ -68,7 +68,7 @@
 
 ## 関連項目
 
-  - [タウン情報誌](https://ja.wikipedia.org/wiki/タウン情報誌 "wikilink")
+  - [タウン情報誌](../Page/タウン情報誌.md "wikilink")
 
 ## 脚注・出典
 

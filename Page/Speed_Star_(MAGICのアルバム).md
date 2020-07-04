@@ -1,7 +1,7 @@
-> この記事は[Speed Star \(MAGIC\)](https://ja.wikipedia.org/wiki/Speed_Star_\(MAGIC\))から翻訳されています。
+> この記事は[Speed Star \(MAGICのアルバム\)](https://ja.wikipedia.org/wiki/Speed_Star_\(MAGICのアルバム\))から翻訳されています。
 
 
-**Speed Star**（スピード・スター）は[MAGICの](https://ja.wikipedia.org/wiki/マジック_\(バンド\) "wikilink")4枚目のアルバム。
+**Speed Star**（スピード・スター）は[MAGICの](../Page/マジック_\(バンド\).md "wikilink")4枚目のアルバム。
 
 ## 内容
 
@@ -24,7 +24,7 @@ CDジャーナルは「独立独歩、ロカビリー一筋で頑張っている
         作詞:船橋孝樹、作曲:山口憲一・魚海洋司、編曲:魚海洋司・MAGIC
 4.  MOTHER
       -
-        作詞:[上澤津孝](https://ja.wikipedia.org/wiki/上澤津孝 "wikilink")、作曲:山口憲一、編曲:魚海洋司・MAGIC
+        作詞:[上澤津孝](../Page/上澤津孝.md "wikilink")、作曲:山口憲一、編曲:魚海洋司・MAGIC
 5.  クロスロード
       -
         作詞:船橋孝樹、作曲:山口憲一、編曲:魚海洋司・MAGIC

@@ -1,7 +1,7 @@
 > この記事は[Sun Grid Engine](https://ja.wikipedia.org/wiki/Sun_Grid_Engine)から翻訳されています。
 
 
-**Sun Grid Engine**とは、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")/[コンピュータ・クラスター](../Page/コンピュータ・クラスター.md "wikilink")環境における[ジョブ管理システム](https://ja.wikipedia.org/wiki/ジョブ管理システム "wikilink")。開発は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の援助により[オープンソース](../Page/オープンソース.md "wikilink")の形態で行われ、サンから商用版の N1 Grid Engine が発売されていた。
+**Sun Grid Engine**とは、[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")/[コンピュータ・クラスター](../Page/コンピュータ・クラスター.md "wikilink")環境における[ジョブ管理システム](../Page/ジョブ管理システム.md "wikilink")。開発は[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の援助により[オープンソース](../Page/オープンソース.md "wikilink")の形態で行われ、サンから商用版の N1 Grid Engine が発売されていた。
 
 2010年のオラクルによるサン・マイクロシステムズの買収に伴い、Oracle Grid Engineとしてオラクルから発売されることとなる。 また、2010年には当初のオープンソースのWebサイトが閉鎖されSun Grid Engineは6.2u5で開発は終了している。
 
@@ -17,14 +17,14 @@ Open Grid Schedulerは2014年時点ではメーリングリスト等のコミュ
 
 [Xml-qstat.jpg](https://ja.wikipedia.org/wiki/File:Xml-qstat.jpg "fig:Xml-qstat.jpg")
 
-  - [AIX](https://ja.wikipedia.org/wiki/AIX "wikilink")
+  - [AIX](../Page/AIX.md "wikilink")
   - [BSD](../Page/BSD.md "wikilink") - [FreeBSD](../Page/FreeBSD.md "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink")
   - [HP-UX](../Page/HP-UX.md "wikilink")
-  - [IRIX](https://ja.wikipedia.org/wiki/IRIX "wikilink")
-  - [Linux](https://ja.wikipedia.org/wiki/Linux "wikilink")
+  - [IRIX](../Page/IRIX.md "wikilink")
+  - [Linux](../Page/Linux.md "wikilink")
   - [Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")
   - [Solaris](../Page/Solaris.md "wikilink")
-  - [SUPER-UX](https://ja.wikipedia.org/wiki/SUPER-UX "wikilink")
+  - [SUPER-UX](../Page/SUPER-UX.md "wikilink")
   - [Tru64](https://ja.wikipedia.org/wiki/Tru64 "wikilink")
   - [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - [Z/OS](https://ja.wikipedia.org/wiki/Z/OS "wikilink")

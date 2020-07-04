@@ -12,13 +12,13 @@
 
 ### 元メンバー
 
-  - **[伊藤ツヨシ](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")**（THE STREET BEATS参加前後に[JUN SKY WALKER(S)に在籍](https://ja.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")。）
+  - **[伊藤ツヨシ](https://ja.wikipedia.org/wiki/伊藤毅_\(ベーシスト\) "wikilink")**（THE STREET BEATS参加前後に[JUN SKY WALKER(S)に在籍](../Page/JUN_SKY_WALKER\(S\).md "wikilink")。）
   - **島田健二**
-  - **[市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")**（脱退後[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")、[POTSHOT](https://ja.wikipedia.org/wiki/POTSHOT "wikilink")に参加。現在は[ROCK'N'ROLL GYPSIES](https://ja.wikipedia.org/wiki/ROCK'N'ROLL_GYPSIES "wikilink")）
+  - **[市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")**（脱退後[GEENA](https://ja.wikipedia.org/wiki/GEENA "wikilink")、[POTSHOT](../Page/POTSHOT.md "wikilink")に参加。現在は[ROCK'N'ROLL GYPSIES](https://ja.wikipedia.org/wiki/ROCK'N'ROLL_GYPSIES "wikilink")）
   - **小川昌司**（1987年3月～1988年5月、1991年3月～1993年7月 在籍）
   - **[上田ケンジ](../Page/上田ケンジ.md "wikilink")**（元[KENZI & THE TRIPS](https://ja.wikipedia.org/wiki/KENZI_&_THE_TRIPS "wikilink")、元[the PILLOWS](https://ja.wikipedia.org/wiki/the_PILLOWS "wikilink")）
-  - **[牟田昌広](https://ja.wikipedia.org/wiki/牟田昌広 "wikilink")**（元[THE MAGNETS](https://ja.wikipedia.org/wiki/THE_MAGNETS "wikilink")。1993年～1997年にサポートドラマーとしてTHE STREET BEATS在籍。[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")を経て2011年に正式加入。）
-  - **[エンリケ](https://ja.wikipedia.org/wiki/ENRIQUE "wikilink")**（元[BARBEE BOYS](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")。現在はソロ、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")のバックバンドを務める。）
+  - **[牟田昌広](https://ja.wikipedia.org/wiki/牟田昌広 "wikilink")**（元[THE MAGNETS](https://ja.wikipedia.org/wiki/THE_MAGNETS "wikilink")。1993年～1997年にサポートドラマーとしてTHE STREET BEATS在籍。[SADS](../Page/SADS.md "wikilink")を経て2011年に正式加入。）
+  - **[エンリケ](https://ja.wikipedia.org/wiki/ENRIQUE "wikilink")**（元[BARBEE BOYS](../Page/BARBEE_BOYS.md "wikilink")。現在はソロ、[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")のバックバンドを務める。）
   - **長野裕治**（現在は[The Beat Go'sのベーシストとして九州を中心に活動中](https://ja.wikipedia.org/wiki/The_Beat_Go's "wikilink")。）
   - **谷元敦**（2010年12月末まで在籍）
 
@@ -28,7 +28,7 @@
 
 1984年、ØKIとSEIZI（兄弟）を中心に広島にて結成\[3\]。1988年、[Invitationよりアルバム](../Page/Invitation_\(レーベル\).md "wikilink")『NAKED HEART』をリリースしメジャーデビュー。 結成当初より幾度かのメンバーチェンジを経て、2011年より現在のメンバーになった。 2014年に結成30周年を迎えた。
 
-1994年前後にアコースティックなサウンドに接近したことはあったものの、ほぼ一貫して[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")や[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")（SEIZIのボーカルで「[ステイ・オア・ゴー](https://ja.wikipedia.org/wiki/ステイ・オア・ゴー "wikilink")」をカバーしている）といったバンドを念頭に置いた[パンク・ロック](../Page/パンク・ロック.md "wikilink")、[ロックンロール](../Page/ロックンロール.md "wikilink")にこだわった活動を展開している。
+1994年前後にアコースティックなサウンドに接近したことはあったものの、ほぼ一貫して[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")や[ザ・クラッシュ](../Page/ザ・クラッシュ.md "wikilink")（SEIZIのボーカルで「[ステイ・オア・ゴー](../Page/ステイ・オア・ゴー.md "wikilink")」をカバーしている）といったバンドを念頭に置いた[パンク・ロック](../Page/パンク・ロック.md "wikilink")、[ロックンロール](../Page/ロックンロール.md "wikilink")にこだわった活動を展開している。
 
 メジャー・シーンでのレコードリリースから遠ざかった時期でも活動を停止することなく、毎年のように春・秋と精力的に全国ツアーを行っており、[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")・ナミキジャンクション（現：SECOND CRUTCH）といったライブハウスを本拠地にしている。毎年夏に行われるイベント「BEATSMANIA」では、通常のライブの中ではあまり演奏されない楽曲を中心にセットリストを組むなど、長い歴史を生かした活動も行っている。 ファンクラブ名は「BEATBOX」。1999年には、彼ら自身のオリジナルレーベル「NEOVISION」を立ち上げた。
 
@@ -293,7 +293,7 @@
 7.  *ワイルドサイドの友へ* （1994年2月23日）全13曲
       -
         これまでとは変わり、『青の季節』に代表されるアコースティックサウンドを前面に押し出した作品。このアルバムの正式メンバーはØKIとSEIZIの二人。
-        収録曲「バード」「突然、夏の嵐のように」はOVA「高校武闘伝[クローズ](https://ja.wikipedia.org/wiki/クローズ "wikilink")」の挿入歌として提供された。また「I WANNA CHANGE」は後に映画「クローズZERO」シリーズの主題歌として提供された。
+        収録曲「バード」「突然、夏の嵐のように」はOVA「高校武闘伝[クローズ](../Page/クローズ.md "wikilink")」の挿入歌として提供された。また「I WANNA CHANGE」は後に映画「クローズZERO」シリーズの主題歌として提供された。
 8.  *SPIRITUAL LIFE* （1995年4月21日）全12曲
       -
         「街の灯」「GOD BLESS YOU」「いのちの音」といった人気曲の他、現在もライブ終了後のエンディングSEとして会場で流れる「旅人の詩」を収録。
@@ -375,46 +375,52 @@
         24枚目のフルアルバム。表題曲「約束の場所」をはじめ「歌うたいのクロニクル」「情熱の彼方」「紺碧の空高く」など日本語を重視した歌詞が秀逸な楽曲が揃う作品。
 34. ワンダフルライフ （2017年11月3日）全13曲
       -
-        バラード曲、レア曲を一挙収録したライブコンピレーションアルバム。表題曲「ワンダフルライフ」「吟遊詩人のように」「愛こそはすべて？」「風が舞う日に」など初のライブ音源化多数。DEBUT 30 YEARS 記念プロダクトの一環として制作された作品。ライブ会場・通販限定版。
+        バラード曲、レア曲を一挙収録したライブコンピレーションアルバム。表題曲「ワンダフルライフ」「吟遊詩人のように」「愛こそはすべて？」「風が舞う日に」など初のライブ音源化多数。DEBUT 30 YEARS 記念プロダクトの一環として制作された作品。ライブ会場・通販限定盤。完売。
 35. 魂のクロニクル 〜DEBUT 30 YEARS BEST〜 （2018年4月4日）2枚組 全42曲
       -
         メジャーデビュー30周年を記念して発表された2枚組ベスト盤。「BOYS BE A HERO」「約束できない」「I WANNA CHANGE」「十代の衝動」「遥か繋がる未来」など歴代の代表曲・人気曲を網羅したオールタイムベスト。
-36. 旅人の詩 〜35th ANNIVERSARY BALLADS BEST〜（2019年4月3日）
+36. *MEMORIAL LIVE ～THANKS\! DEBUT 30 YEARS～* （2018年10月27日）全18曲
       -
-        結成35周年記念アルバム。THE STREET BEATS初のバラードセレクション。VICL-65164 全16曲
-37. ALL TIME BEATS 〜35TH ANNIVERSARY LIVE〜（2019年11月2日予定）
+        メジャーデビュー30周年記念ライブCD。初のライブ音源化となる楽曲が多数収録された作品。ライブ会場・通販限定盤。
+37. 旅人の詩 〜35th ANNIVERSARY BALLADS BEST〜（2019年4月3日）全16曲
       -
-        結成35周年記念ライブCD。NVL-3026 全15曲予定
+        結成35周年記念アルバム。THE STREET BEATS初のバラードセレクション。「I WANNA CHANGE」の新録バージョンを収録。VICL-65164
+38. *ALL TIME BEATS ～35th ANNIVERSARY LIVE～*（2019年11月2日）全15曲
+      -
+        結成35周年記念ライブCD。結成初期のナンバーから近年の曲まで満遍なく選曲されたオールタイムなライブアルバム。ライブ会場・通販限定盤。
+39. 生きた*証を残す旅* （2020年4月8日）全10曲
+      -
+        27枚目のフルアルバム。バンドが新たな境地に立ったことを如実に感じさせる作品。ミディアムなロッカバラードの表題曲「生きた証を残す旅」をはじめ「遠く見える灯」「海鳴りのロンド」、SEIZI初のバラード「愛する人へ」等、歌詞・メロディ共に卓越したミディアム、バラード曲が揃う作品。その中にあってひときわ暖かい歌詞と琴線に触れるメロディーで“旅空の下でまたいつか会おうぜ”と歌われる「旅空」はミュージックビデオが制作されTHE STREET BEATS公式YouTubeチャンネル<https://www.youtube.com/channel/UCxO0wV3BLVcgz8HXQ-p6uqA?sub_confirmation=1>で公開されている。
 
 ### VHS/DVD
 
-| 枚  | 発売日          | タイトル                                        | 形態  | 品番       | 備考                                                                                                     |
-| -- | ------------ | ------------------------------------------- | --- | -------- | ------------------------------------------------------------------------------------------------------ |
-| 1  | 1988年11月21日  | **NAKED HEART**                             | VHS | VTM-157  |                                                                                                        |
-| 2  | 1989年5月21日   | **PROCESS**                                 | VHS | VTM-185  |                                                                                                        |
-| 3  | 1991年3月21日   | **STANDING STANDING**                       | VHS | VIVL-28  |                                                                                                        |
-| 4  | 1996年12月8日   | **BEST MIND**                               | VHS | VIVL-195 |                                                                                                        |
-| 5  | 2001年3月17日   | **LIVE MY SOUL**                            | VHS | NVL-3004 | 初のライヴビデオ。ライヴ会場・通販限定。                                                                                   |
-| 6  | 2004年10月1日   | **BEATS IS OUR LIFE**                       | DVD | NVL-4009 | 初のライヴDVD。結成20周年記念ライブの東京公演に加え、デビュー前の映像など多数のレア映像を収録。ライヴ会場・通販限定。                                          |
-| 7  | 2005年3月16日   | **ETERNAL FILMS 1988-2005**                 | DVD | VIBL-249 | 1stビデオ『NAKED HEART』から4th『BEST MINDS』までのVHSを完全収録し、新作PV、未公開PVなどを加えたヒストリーDVD。17thアルバム『ETERNAL ROCK』と同時発売。 |
-| 8  | 2006年3月8日    | **LIVE\! FIST GO UP\!**                     | DVD | NVL-4010 | 初のライブ映像化となるコアなナンバーを多数収録したライブDVD。ライヴ会場・通販限定。                                                            |
-| 9  | 2009年10月11日  | **GO\!STRAIGHT\! 〜25TH ANNIVERSARY LIVE〜**  | DVD | NVL-4515 | 結成25周年記念ライヴ「さすらいの歌」の東京公演2日目を、MCを含め完全収録したライヴDVD。ライヴ会場・通販限定。                                             |
-| 10 | 2011年11月18日  | **BRAVE FIST FESTA**                        | DVD | NVL-3018 | 2011年10月10日に行われた「岩手三陸復興支援LIVE in 宮古」を、MCを含め完全収録したライヴドキュメントDVD。ライヴ会場・通販限定。                              |
-| 11 | 2014年10月18日  | **LONGEST WAY 〜30TH ANNIVERSARY LIVE〜**     | DVD | NVL-4519 | 2014年6月14日東京新宿LOFTで開催された「結成30周年記念ライヴ」を収録したライヴDVD。ライブ映像20曲＋PV4曲＋ツアーダイジェストを収録。ライヴ会場・通販限定。                |
-| 12 | 2018年10月27日  | **MEMORIAL LIVE 〜THANKS\! DEBUT 30 YEARS〜** | DVD | NVL-4523 | デビュー30周年メモリアルライブDVD。メモリアルライブの熱気と感動をMCまで含む全編ノーカット収録。116分 全21曲＋特典映像。ライヴ会場・通販限定。                          |
-| 13 | 2019年11月2日予定 | **ALL TIME BEATS 〜35TH ANNIVERSARY LIVE〜**  | DVD | NVL-4525 | 114分予定 全21曲予定。ライヴ会場・通販限定。                                                                              |
+| 枚  | 発売日         | タイトル                                        | 形態  | 品番       | 備考                                                                                                     |
+| -- | ----------- | ------------------------------------------- | --- | -------- | ------------------------------------------------------------------------------------------------------ |
+| 1  | 1988年11月21日 | **NAKED HEART**                             | VHS | VTM-157  |                                                                                                        |
+| 2  | 1989年5月21日  | **PROCESS**                                 | VHS | VTM-185  |                                                                                                        |
+| 3  | 1991年3月21日  | **STANDING STANDING**                       | VHS | VIVL-28  |                                                                                                        |
+| 4  | 1996年12月8日  | **BEST MIND**                               | VHS | VIVL-195 |                                                                                                        |
+| 5  | 2001年3月17日  | **LIVE MY SOUL**                            | VHS | NVL-3004 | 初のライヴビデオ。ライヴ会場・通販限定。                                                                                   |
+| 6  | 2004年10月1日  | **BEATS IS OUR LIFE**                       | DVD | NVL-4009 | 初のライヴDVD。結成20周年記念ライブの東京公演に加え、デビュー前の映像など多数のレア映像を収録。ライヴ会場・通販限定。                                          |
+| 7  | 2005年3月16日  | **ETERNAL FILMS 1988-2005**                 | DVD | VIBL-249 | 1stビデオ『NAKED HEART』から4th『BEST MINDS』までのVHSを完全収録し、新作PV、未公開PVなどを加えたヒストリーDVD。17thアルバム『ETERNAL ROCK』と同時発売。 |
+| 8  | 2006年3月8日   | **LIVE\! FIST GO UP\!**                     | DVD | NVL-4010 | 初のライブ映像化となるコアなナンバーを多数収録したライブDVD。ライヴ会場・通販限定。                                                            |
+| 9  | 2009年10月11日 | **GO\!STRAIGHT\! 〜25TH ANNIVERSARY LIVE〜**  | DVD | NVL-4515 | 結成25周年記念ライヴ「さすらいの歌」の東京公演2日目を、MCを含め完全収録したライヴDVD。ライヴ会場・通販限定。                                             |
+| 10 | 2011年11月18日 | **BRAVE FIST FESTA**                        | DVD | NVL-3018 | 2011年10月10日に行われた「岩手三陸復興支援LIVE in 宮古」を、MCを含め完全収録したライヴドキュメントDVD。ライヴ会場・通販限定。                              |
+| 11 | 2014年10月18日 | **LONGEST WAY 〜30TH ANNIVERSARY LIVE〜**     | DVD | NVL-4519 | 2014年6月14日東京新宿LOFTで開催された「結成30周年記念ライヴ」を収録したライヴDVD。ライブ映像20曲＋PV4曲＋ツアーダイジェストを収録。ライヴ会場・通販限定。                |
+| 12 | 2018年10月27日 | **MEMORIAL LIVE 〜THANKS\! DEBUT 30 YEARS〜** | DVD | NVL-4523 | デビュー30周年メモリアルライブDVD。メモリアルライブの熱気と感動をMCまで含む全編ノーカット収録。116分 全21曲＋特典映像。ライヴ会場・通販限定。                          |
+| 13 | 2019年11月2日  | **ALL TIME BEATS 〜35TH ANNIVERSARY LIVE〜**  | DVD | NVL-4525 | 結成35周年記念ライブDVD。初期曲から近年の曲まで満遍なく選曲された全21曲。ライヴ会場・通販限定。                                                    |
 
 ## タイアップ
 
-| 年     | 曲名                 | タイアップ                                                                            | 収録CD                     |
-| ----- | ------------------ | -------------------------------------------------------------------------------- | ------------------------ |
-| 1988年 | **突然、夏の嵐のように**     | OVA『[クローズ](https://ja.wikipedia.org/wiki/クローズ "wikilink")』に楽曲提供。                 | シングル『青の季節』               |
-| 2007年 | **I WANNA CHANGE** | 映画『[クローズZERO](../Page/クローズZERO.md "wikilink")』オープニングテーマ                          | シングル『約束できない（バラッドヴァージョン）』 |
-| 2009年 | **I WANNA CHANGE** | 映画『[クローズZERO II](https://ja.wikipedia.org/wiki/クローズZERO_II "wikilink")』オープニングテーマ | シングル『約束できない（バラッドヴァージョン）』 |
-|       |                    |                                                                                  |                          |
-|       | **ファイティングポーズ**     | 大阪のボクシング番組のエンディング曲                                                               | シングル『街の灯』                |
-| 2015年 | **その先の明日へ**        | 映画『赤浜ロックンロール』エンディングテーマ曲                                                          | シングル『その先の明日へ』            |
-|       |                    |                                                                                  |                          |
+| 年     | 曲名                 | タイアップ                                                                            | 収録CD          |
+| ----- | ------------------ | -------------------------------------------------------------------------------- | ------------- |
+| 1998年 | **突然、夏の嵐のように**     | OVA『[クローズ](../Page/クローズ.md "wikilink")』に楽曲提供。                                    | アルバム『旅人の詩』    |
+| 2007年 | **I WANNA CHANGE** | 映画『[クローズZERO](../Page/クローズZERO.md "wikilink")』オープニングテーマ                          | アルバム『魂のクロニクル』 |
+| 2009年 | **I WANNA CHANGE** | 映画『[クローズZERO II](https://ja.wikipedia.org/wiki/クローズZERO_II "wikilink")』オープニングテーマ | アルバム『魂のクロニクル』 |
+|       |                    |                                                                                  |               |
+| 2009年 | **さすらいの歌**         | 映画『[クローズZERO II](https://ja.wikipedia.org/wiki/クローズZERO_II "wikilink")』エンディングテーマ | アルバム『魂のクロニクル』 |
+| 2015年 | **その先の明日へ**        | 映画『赤浜ロックンロール』エンディングテーマ                                                           | シングル『その先の明日へ』 |
+|       |                    |                                                                                  |               |
 
 ## バンドスコア
 
@@ -429,12 +435,13 @@
 
   - 初期のアルバムは、CDの他に、レコードやカセットでも同時発売されている。
   - 広島出身であることから、ØKIは熱狂的な[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")ファンである。
-  - ØKIが通った当時の中学校で[坪井直](https://ja.wikipedia.org/wiki/坪井直 "wikilink")が[教頭](../Page/教頭.md "wikilink")先生をしていた\[6\]。
+  - ØKIが通った当時の中学校で[坪井直](../Page/坪井直.md "wikilink")が[教頭](../Page/教頭.md "wikilink")先生をしていた\[6\]。
   - 同郷で同時期に活動していたバンドに[ユニコーンがいるが](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")、練習している場所が別だったことと、音楽的志向が違うことからあまり交流はなかった。
   - 漫画家[高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")とØKIは親交が深く、彼のコミックに2人の対談や、「魂が求めるもの」の歌詞が収録されることもあった。
   - ØKIは映画『[クローズZERO](../Page/クローズZERO.md "wikilink")』において、シリーズを通して予告編のナレーション、2作目『クローズZEROⅡ』ではエンディング前のナレーション（原作での坊屋春道の最初の名言）を務めた。
   - ØKIはBSドラマ『[つながった世界](https://ja.wikipedia.org/wiki/つながった世界 "wikilink")』のvol.1「いのちの音」でメインキャストの1人として出演した。
-  - ØKIはTV-CM「サントリー BLACK BOSS」「日産 JUKE」「日産 NOTE MEDALIST」「JRA G1プロモーション2012春」「キリンFIREダブルマウンテン」「ブラウンオーラルBプラチナホワイト」「ブリヂストンREGNO」等のナレーションを務めた。
+  - ØKIはTV-CM「サントリー BLACK BOSS」「日産 JUKE」「日産 NOTE MEDALIST」「JRA G1プロモーション2012春」「キリンFIREダブルマウンテン」「ブラウンオーラルBプラチナホワイト」「ブリヂストンREGNO」「サッポロ本格辛口」「HiGH & LOW THE WORST」等のナレーションを務めた。
+  - OKIはNHK BSプレミアムのドラマ「八つ墓村」(演出：吉田照幸。2019年10月放送）のオープニングシーンに田治見庄左エ門役で出演した。
 
 ## 脚注
 

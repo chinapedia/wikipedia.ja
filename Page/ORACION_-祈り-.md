@@ -37,7 +37,7 @@
 
   - ORACIÓN －祈り－
       - アルバム『[来生たかおSONGS](https://ja.wikipedia.org/wiki/来生たかおSONGS "wikilink")』（1995年）
-      - アルバム『[GOLDEN☆BEST 来生たかお ビジターズ](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_来生たかお_ビジターズ "wikilink")』（2004年）
+      - アルバム『[GOLDEN☆BEST 来生たかお ビジターズ](../Page/GOLDEN☆BEST_来生たかお_ビジターズ.md "wikilink")』（2004年）
       - CD-BOX『[来生たかお作品集 Times Go By](https://ja.wikipedia.org/wiki/来生たかお作品集_Times_Go_By "wikilink")』（2001年）
   - イントロダクションを待っても
       - CD-BOX『[来生たかお作品集 Times Go By](https://ja.wikipedia.org/wiki/来生たかお作品集_Times_Go_By "wikilink")』（2001年）

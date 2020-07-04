@@ -1,11 +1,11 @@
 > この記事は[Over....](https://ja.wikipedia.org/wiki/Over....)から翻訳されています。
 
 
-**Over....**は、日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[12012](https://ja.wikipedia.org/wiki/12012 "wikilink")のインディーズ8th[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月15日](../Page/11月15日.md "wikilink")にリリース。
+**Over....**は、日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")[12012](../Page/12012.md "wikilink")のインディーズ8th[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")にリリース。
 
 ## 作品情報
 
-  - 「[PISTOL](https://ja.wikipedia.org/wiki/PISTOL_\(曲\) "wikilink")」「[罠](https://ja.wikipedia.org/wiki/罠_\(12012の曲\) "wikilink")」と続いた3ヶ月連続リリースの第3弾で、「PISTOL」～「罠」と紡がれてきた物語の完結編にあたる。
+  - 「[PISTOL](https://ja.wikipedia.org/wiki/PISTOL_\(曲\) "wikilink")」「[罠](../Page/罠_\(12012の曲\).md "wikilink")」と続いた3ヶ月連続リリースの第3弾で、「PISTOL」～「罠」と紡がれてきた物語の完結編にあたる。
   - 12012のインディーズ時代の最後のマキシシングル。
 
 ## 収録内容

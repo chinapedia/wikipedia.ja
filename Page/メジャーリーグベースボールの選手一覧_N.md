@@ -1,4 +1,4 @@
-> この記事は[ N](https://ja.wikipedia.org/wiki/_N)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 N](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_N)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**N**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Xavier_Nady" title="wikilink">Xavier Nady</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゼイビア・ネイディ" title="wikilink">ゼイビア・ネイディ</a></p></td>
+<td><p><a href="../Page/ゼイビア・ネイディ.md" title="wikilink">ゼイビア・ネイディ</a></p></td>
 <td><p>2000</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Micheal_Nakamura" title="wikilink">Micheal Nakamura</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイケル中村" title="wikilink">マイケル中村</a></p></td>
+<td><p><a href="../Page/マイケル中村.md" title="wikilink">マイケル中村</a></p></td>
 <td><p>2003</p></td>
 <td><p>2004</p></td>
 <td></td>
@@ -319,7 +319,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Nathan" title="wikilink">Joe Nathan</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ネイサン" title="wikilink">ジョー・ネイサン</a></p></td>
+<td><p><a href="../Page/ジョー・ネイサン.md" title="wikilink">ジョー・ネイサン</a></p></td>
 <td><p>1999</p></td>
 <td><p>2016</p></td>
 <td></td>
@@ -531,7 +531,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ron_Necciai" title="wikilink">Ron Necciai</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロン・ネッチアイ" title="wikilink">ロン・ネッチアイ</a></p></td>
+<td><p><a href="../Page/ロン・ネッチアイ.md" title="wikilink">ロン・ネッチアイ</a></p></td>
 <td><p>1952</p></td>
 <td><p>1952</p></td>
 <td></td>
@@ -545,7 +545,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Troy_Neel" title="wikilink">Troy Neel</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トロイ・ニール" title="wikilink">トロイ・ニール</a></p></td>
+<td><p><a href="../Page/トロイ・ニール.md" title="wikilink">トロイ・ニール</a></p></td>
 <td><p>1992</p></td>
 <td><p>1994</p></td>
 <td></td>
@@ -685,7 +685,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bry_Nelson" title="wikilink">Bry Nelson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブライアン・ネルソン" title="wikilink">ブライアン・ネルソン</a></p></td>
+<td><p><a href="../Page/ブライアン・ネルソン.md" title="wikilink">ブライアン・ネルソン</a></p></td>
 <td><p>2002</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -853,7 +853,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Robb_Nen" title="wikilink">Robb Nen</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロブ・ネン" title="wikilink">ロブ・ネン</a></p></td>
+<td><p><a href="../Page/ロブ・ネン.md" title="wikilink">ロブ・ネン</a></p></td>
 <td><p>1993</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -1000,7 +1000,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Phil_Nevin" title="wikilink">Phil Nevin</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィル・ネビン" title="wikilink">フィル・ネビン</a></p></td>
+<td><p><a href="../Page/フィル・ネビン.md" title="wikilink">フィル・ネビン</a></p></td>
 <td><p>1995</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -1021,7 +1021,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Don_Newcombe" title="wikilink">Don Newcombe</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドン・ニューカム" title="wikilink">ドン・ニューカム</a></p></td>
+<td><p><a href="../Page/ドン・ニューカム.md" title="wikilink">ドン・ニューカム</a></p></td>
 <td><p>1949</p></td>
 <td><p>1960</p></td>
 <td></td>
@@ -1105,7 +1105,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Alan_Newman" title="wikilink">Alan Newman</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・ニューマン" title="wikilink">アラン・ニューマン</a></p></td>
+<td><p><a href="../Page/アラン・ニューマン.md" title="wikilink">アラン・ニューマン</a></p></td>
 <td><p>1999</p></td>
 <td><p>2000</p></td>
 <td></td>
@@ -1434,7 +1434,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hugh_Nicol" title="wikilink">Hugh Nicol</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヒュー・ニコル" title="wikilink">ヒュー・ニコル</a></p></td>
+<td><p><a href="../Page/ヒュー・ニコル.md" title="wikilink">ヒュー・ニコル</a></p></td>
 <td><p>1881</p></td>
 <td><p>1890</p></td>
 <td></td>
@@ -1504,7 +1504,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Niekro" title="wikilink">Joe Niekro</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ニークロ" title="wikilink">ジョー・ニークロ</a></p></td>
+<td><p><a href="../Page/ジョー・ニークロ.md" title="wikilink">ジョー・ニークロ</a></p></td>
 <td><p>1967</p></td>
 <td><p>1988</p></td>
 <td></td>
@@ -1518,7 +1518,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Phil_Niekro" title="wikilink">Phil Niekro</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィル・ニークロ" title="wikilink">フィル・ニークロ</a></p></td>
+<td><p><a href="../Page/フィル・ニークロ.md" title="wikilink">フィル・ニークロ</a></p></td>
 <td><p>1964</p></td>
 <td><p>1987</p></td>
 <td><p>殿堂入り</p></td>
@@ -1644,7 +1644,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Melvin_Nieves" title="wikilink">Melvin Nieves</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/メルビン・ニエベス" title="wikilink">メルビン・ニエベス</a></p></td>
+<td><p><a href="../Page/メルビン・ニエベス.md" title="wikilink">メルビン・ニエベス</a></p></td>
 <td><p>1992</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -1693,7 +1693,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_Nilsson" title="wikilink">Dave Nilsson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デーブ・ニルソン" title="wikilink">デーブ・ニルソン</a></p></td>
+<td><p><a href="../Page/デーブ・ニルソン.md" title="wikilink">デーブ・ニルソン</a></p></td>
 <td><p>1992</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -1770,7 +1770,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jayson_Nix" title="wikilink">Jayson Nix</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・ニックス" title="wikilink">ジェイソン・ニックス</a></p></td>
+<td><p><a href="../Page/ジェイソン・ニックス.md" title="wikilink">ジェイソン・ニックス</a></p></td>
 <td><p>2008</p></td>
 <td><p>2014</p></td>
 <td></td>
@@ -1812,7 +1812,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Trot_Nixon" title="wikilink">Trot Nixon</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トロット・ニクソン" title="wikilink">トロット・ニクソン</a></p></td>
+<td><p><a href="../Page/トロット・ニクソン.md" title="wikilink">トロット・ニクソン</a></p></td>
 <td><p>1996</p></td>
 <td><p>2008</p></td>
 <td></td>
@@ -1984,7 +1984,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Takahito_Nomura" title="wikilink">Takahito Nomura</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野村貴仁" title="wikilink">野村貴仁</a></p></td>
+<td><p><a href="../Page/野村貴仁.md" title="wikilink">野村貴仁</a></p></td>
 <td><p>2002</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -2352,7 +2352,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Dom_Nunez" title="wikilink">Dom Nunez</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドム・ヌニェス" title="wikilink">ドム・ヌニェス</a></p></td>
+<td><p><a href="../Page/ドム・ヌニェス.md" title="wikilink">ドム・ヌニェス</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -2457,7 +2457,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Nuxhall" title="wikilink">Joe Nuxhall</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ナックスホール" title="wikilink">ジョー・ナックスホール</a></p></td>
+<td><p><a href="../Page/ジョー・ナックスホール.md" title="wikilink">ジョー・ナックスホール</a></p></td>
 <td><p>1944</p></td>
 <td><p>1966</p></td>
 <td></td>

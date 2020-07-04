@@ -7,7 +7,7 @@
 
 アルバム・タイトルは当初、『GOOD-BYE THOUSAND LOVERS…SEE YOU TONIGHT』（アルバム発売前に行われた、[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")公演と同タイトル）だったが、「（ファンの人達を連想させる“Thousand Lovers”という表記は）ファンのみんなに対して、キツいタイトルかもしれない」との考えから、本タイトルに変更された。
 
-先行シングルとしてリリースされた「[OKINAWA](../Page/OKINAWA.md "wikilink")」\[1\]は本作収録に際し、オープニングSEがイントロに加えられたほか、歌詞が新たに最終行に一行追加されている。また、「飴色の街」と「Reason…」は後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「飴色の街」はの[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]、「End of The Night」は発売のリメイク・アルバム『[EARPLAY 〜REBIRTH 2〜](https://ja.wikipedia.org/wiki/EARPLAY_〜REBIRTH_2〜 "wikilink")』\[4\]にてそれぞれ[セルフカバー](../Page/セルフカバー.md "wikilink")された。
+先行シングルとしてリリースされた「[OKINAWA](../Page/OKINAWA.md "wikilink")」\[1\]は本作収録に際し、オープニングSEがイントロに加えられたほか、歌詞が新たに最終行に一行追加されている。また、「飴色の街」と「Reason…」は後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』\[2\]に収録されたほか、「飴色の街」はの[アルバム](../Page/スタジオ・アルバム.md "wikilink")『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』\[3\]、「End of The Night」は発売のリメイク・アルバム『[EARPLAY 〜REBIRTH 2〜](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』\[4\]にてそれぞれ[セルフカバー](../Page/セルフカバー.md "wikilink")された。
 
 ## 収録曲
 
@@ -296,4 +296,4 @@
 1.  「[OKINAWA](../Page/OKINAWA.md "wikilink")」 発売 OM ⁄ [BMG VICTOR](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMGビクター "wikilink") SCD:M10D-103
 2.  『[1988-1993](https://ja.wikipedia.org/wiki/1988-1993 "wikilink")』 発売 OM ⁄ BMG FUNHOUSE 2CD:BVCR-18018/9
 3.  『[THE PAST & THEN](https://ja.wikipedia.org/wiki/THE_PAST_&_THEN "wikilink")』 発売 IDEAK ⁄ [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") CD+DVD:BVCR-18054\~55【初回生産限定盤】, CD:BVCR-11076【通常盤】
-4.  『[EARPLAY 〜REBIRTH 2〜](https://ja.wikipedia.org/wiki/EARPLAY_〜REBIRTH_2〜 "wikilink")』 [2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") BVCL-1063/4【初回限定生産盤】 / BVCL-1065【通常盤】
+4.  『[EARPLAY 〜REBIRTH 2〜](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』 [2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") BVCL-1063/4【初回限定生産盤】 / BVCL-1065【通常盤】

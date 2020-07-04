@@ -57,4 +57,4 @@
 
   - [GAMECITY文庫](http://www.gamecity.ne.jp/gcbunko/)
 
-[Category:GAMECITY文庫](https://ja.wikipedia.org/wiki/Category:GAMECITY文庫 "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink")
+[Category:GAMECITY文庫](https://ja.wikipedia.org/wiki/Category:GAMECITY文庫 "wikilink") [Category:コーエーテクモゲームス](https://ja.wikipedia.org/wiki/Category:コーエーテクモゲームス "wikilink") [Category:文庫本](https://ja.wikipedia.org/wiki/Category:文庫本 "wikilink") [Category:ライトノベルレーベル](https://ja.wikipedia.org/wiki/Category:ライトノベルレーベル "wikilink") [Category:2007年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:2007年刊行開始の刊行物 "wikilink")

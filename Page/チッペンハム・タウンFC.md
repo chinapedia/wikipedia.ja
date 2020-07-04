@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チッペンハム・タウンFC](https://ja.wikipedia.org/wiki/チッペンハム・タウンFC)から翻訳されています。
 
 
 **チッペンハム・タウン・フットボールクラブ**（**Chippenham Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ウィルトシャー州](https://ja.wikipedia.org/wiki/ウィルトシャー州 "wikilink")、[ノース・ウィルトシャー](https://ja.wikipedia.org/wiki/ノース・ウィルトシャー "wikilink")、[チッペンハム](https://ja.wikipedia.org/wiki/チッペンハム "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。

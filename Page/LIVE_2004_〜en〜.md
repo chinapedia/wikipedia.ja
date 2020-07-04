@@ -70,6 +70,6 @@ DISC2枚共にメニュー画面が数パターン収録されており、メニ
 
 1.  **[波](../Page/マグマ_\(アルバム\).md "wikilink")**
       -
-        上記のとおりツアー前半でのみ演奏され、[広島](https://ja.wikipedia.org/wiki/広島 "wikilink")公演より「水平線」と入れ替えとなった。稲葉がギター演奏をしている。DISC2のメニューにあるシークレットチャプターから再生できる。
+        上記のとおりツアー前半でのみ演奏され、[広島](../Page/広島.md "wikilink")公演より「水平線」と入れ替えとなった。稲葉がギター演奏をしている。DISC2のメニューにあるシークレットチャプターから再生できる。
 
 [Category:稲葉浩志の映像作品](https://ja.wikipedia.org/wiki/Category:稲葉浩志の映像作品 "wikilink") [Category:2004年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2004年のライブ・ビデオ "wikilink") [Category:ビーイング関連映像作品](https://ja.wikipedia.org/wiki/Category:ビーイング関連映像作品 "wikilink")

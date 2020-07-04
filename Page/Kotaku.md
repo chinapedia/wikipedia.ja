@@ -5,7 +5,7 @@
 
 ## 概要
 
-Kotaku.comは、テレビゲームを扱うブログである。[ディスカバリーチャンネル](https://ja.wikipedia.org/wiki/ディスカバリーチャンネル "wikilink")、SpikeTVなどのテレビ局番組に編集者が出演しており、雑誌の引用回数も多く知名度が高い。[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[豪州](../Page/オーストラリア.md "wikilink")・[英国など主要なゲーム市場国に編集者を置いている](https://ja.wikipedia.org/wiki/イギリス "wikilink")。
+Kotaku.comは、テレビゲームを扱うブログである。[ディスカバリーチャンネル](../Page/ディスカバリーチャンネル.md "wikilink")、SpikeTVなどのテレビ局番組に編集者が出演しており、雑誌の引用回数も多く知名度が高い。[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[豪州](../Page/オーストラリア.md "wikilink")・[英国など主要なゲーム市場国に編集者を置いている](https://ja.wikipedia.org/wiki/イギリス "wikilink")。
 
 記事には自由にコメントを書き込めるが、過度に差別的・性的な発言をするとコメント投稿が禁じられる。
 
@@ -49,4 +49,4 @@ Kotakuという名前は、日本語の[オタク](https://ja.wikipedia.org/wiki
 1.  [Kotaku FAQ](http://archive.is/20120727030805/kotaku.com/gaming/notag/kotaku-faq-22008.php)
 2.  [コタク・ジャパンについて ｜ コタク・ジャパン](http://archive.is/http://kotaku.jp/about.html)
 3.  [コタク・ジャパン更新終了のお知らせ ｜ コタク・ジャパン](http://archive.is/http://www.kotaku.jp/2016/04/thank-you-for-six-years-we-are-moving-to-gizmodo-japan.html)
-4.  [Listen To The Secret Tecmo Tape](http://kotaku.com/5028957/listen-to-the-secret-tecmo-tape) - 内容は当時のテクモ社長[安田善巳](https://ja.wikipedia.org/wiki/安田善巳 "wikilink")と岡本好古副部長(当時)の会話を岡本が収録したもの。
+4.  [Listen To The Secret Tecmo Tape](http://kotaku.com/5028957/listen-to-the-secret-tecmo-tape) - 内容は当時のテクモ社長[安田善巳](../Page/安田善巳.md "wikilink")と岡本好古副部長(当時)の会話を岡本が収録したもの。

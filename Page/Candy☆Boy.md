@@ -1,9 +1,9 @@
-> この記事は[CandyBoy](https://ja.wikipedia.org/wiki/CandyBoy)から翻訳されています。
+> この記事は[Candy☆Boy](https://ja.wikipedia.org/wiki/Candy☆Boy)から翻訳されています。
 
 
-『**Candy☆Boy**』（キャンディ ボーイ）は、[AICによる短編](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")[Webアニメ](https://ja.wikipedia.org/wiki/Webアニメ "wikilink")。 AICが提唱するアニメプロジェクト「[アニメ2.0](https://ja.wikipedia.org/wiki/アニメ2.0 "wikilink")」の第1作である。
+『**Candy☆Boy**』（キャンディ ボーイ）は、[AICによる短編](../Page/アニメインターナショナルカンパニー.md "wikilink")[Webアニメ](../Page/Webアニメ.md "wikilink")。 AICが提唱するアニメプロジェクト「[アニメ2.0](https://ja.wikipedia.org/wiki/アニメ2.0 "wikilink")」の第1作である。
 
-『Candy☆Boy』自体は全1話で、[2007年](../Page/2007年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[超\!アニメロと](../Page/超!放送局.md "wikilink")[ニコニコ動画](https://ja.wikipedia.org/wiki/ニコニコ動画 "wikilink")で、後に[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")\[1\]で無料配信開始された。
+『Candy☆Boy』自体は全1話で、[2007年](../Page/2007年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[超\!アニメロと](../Page/超!放送局.md "wikilink")[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")で、後に[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")\[1\]で無料配信開始された。
 
 新シリーズ『**Candy boy**』全7話が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から2009年にかけてニコニコ動画で配信開始された。
 
@@ -18,19 +18,19 @@
 ## 登場人物
 
   - 櫻井 奏（さくらい かなで）
-    声 - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")
-    高校2年生、[美術部所属](https://ja.wikipedia.org/wiki/美術_\(教科\) "wikilink")。[6月21日](../Page/6月21日.md "wikilink")生まれ。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長162cm・体重57kg。スリーサイズ：B83/W60/H89。黒髪。
-    雪乃の[双子の妹](https://ja.wikipedia.org/wiki/双生児 "wikilink")。進学のため北海道\[6\]から雪乃と共に上京し、学生寮に住んでいる。美術大学への進学を希望しているが、雪乃と離れるのは嫌であり、日々葛藤している。趣味は画を描くことと、おまけの[ボトルキャップ](https://ja.wikipedia.org/wiki/ボトルキャップ "wikilink")集め。
+    声 - [生天目仁美](../Page/生天目仁美.md "wikilink")
+    高校2年生、[美術部所属](../Page/美術_\(教科\).md "wikilink")。[6月21日](../Page/6月21日.md "wikilink")生まれ。[血液型AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長162cm・体重57kg。スリーサイズ：B83/W60/H89。黒髪。
+    雪乃の[双子の妹](../Page/双生児.md "wikilink")。進学のため北海道\[6\]から雪乃と共に上京し、学生寮に住んでいる。美術大学への進学を希望しているが、雪乃と離れるのは嫌であり、日々葛藤している。趣味は画を描くことと、おまけの[ボトルキャップ](../Page/ボトルキャップ.md "wikilink")集め。
     物事を深く考えすぎるきらいがあるが、雪乃曰く「カナちゃんはたまに変なスイッチが入る」との言葉通り、クリスマスプレゼントでおそろいのピアスを買うため、衝動的に帰郷の為の費用を使い込んでしまったり、夢に出た雪乃の子キツネのコスプレ？のような空想のものをデッサンの課題に描いて提出してしまい、進級が危なくなるなど後先考えず暴走することがある。
   - 櫻井 雪乃（さくらい ゆきの）
-    声 - [柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")
+    声 - [柚木涼香](../Page/柚木涼香.md "wikilink")
     高校2年生、[水泳](../Page/水泳.md "wikilink")部所属。6月21日生まれ。血液型AB型。身長163cm・体重55kg。スリーサイズ：B85/W58/H91。茶髪。
-    奏の双子の姉。やや[電波の入っている](https://ja.wikipedia.org/wiki/電波系 "wikilink")[天然だが](https://ja.wikipedia.org/wiki/天然ボケ "wikilink")、成績は優秀。1日1回は奏を怒らせ、[ほっぺを引っ張られている](https://ja.wikipedia.org/wiki/頬 "wikilink")。そのため、雪乃のほっぺはよく伸びかなりやわらかくなった。趣味は部活の水泳と[ブログ](../Page/ブログ.md "wikilink")、奏の[写真](../Page/写真.md "wikilink")を撮ること。
+    奏の双子の姉。やや[電波の入っている](../Page/電波系.md "wikilink")[天然だが](../Page/天然ボケ.md "wikilink")、成績は優秀。1日1回は奏を怒らせ、[ほっぺを引っ張られている](../Page/頬.md "wikilink")。そのため、雪乃のほっぺはよく伸びかなりやわらかくなった。趣味は部活の水泳と[ブログ](../Page/ブログ.md "wikilink")、奏の[写真](../Page/写真.md "wikilink")を撮ること。
     家族へのお土産を渡す前に食べてしまい奏に怒られるが、実はもう一箱買ってあることを奏には内緒にしてあるなど、好きな相手にちょっかいを出す子供のようにワザと奏を怒らせている節がある。
   - 神山 咲夜（かみやま さくや）
-    声 - [加藤英美里](https://ja.wikipedia.org/wiki/加藤英美里 "wikilink")
+    声 - [加藤英美里](../Page/加藤英美里.md "wikilink")
     高校1年生、水泳部所属。[8月17日](../Page/8月17日.md "wikilink")生まれ。血液型A型。身長147cm。スリーサイズ：B91/W56/H85。
-    雪乃の部活の後輩。奏を偏愛しており、雪乃を買収して奏の写真や持ち物を密かに集めたりと、[ストーカー](https://ja.wikipedia.org/wiki/ストーカー "wikilink")のような行動をしている。裏表のある性格で実は結構黒い。大手ゼネコンの社長令嬢であり、家は超が付くほどのお金持ちだが、お嬢様のために少々浮世離れしている。実家通学だが、ある目的のために「無理矢理入寮計画」を画策している。趣味は[ネットオークションと](https://ja.wikipedia.org/wiki/インターネットオークション "wikilink")[カヌー](../Page/カヌー.md "wikilink")、奏の観察。
+    雪乃の部活の後輩。奏を偏愛しており、雪乃を買収して奏の写真や持ち物を密かに集めたりと、[ストーカー](../Page/ストーカー.md "wikilink")のような行動をしている。裏表のある性格で実は結構黒い。大手ゼネコンの社長令嬢であり、家は超が付くほどのお金持ちだが、お嬢様のために少々浮世離れしている。実家通学だが、ある目的のために「無理矢理入寮計画」を画策している。趣味は[ネットオークションと](../Page/インターネットオークション.md "wikilink")[カヌー](../Page/カヌー.md "wikilink")、奏の観察。
   - 櫻井 雫（さくらい しずく）
     声 - [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")
     中学1年生。[9月28日](../Page/9月28日.md "wikilink")生まれ。血液型AB型。身長143cm・体重43kg。スリーサイズ：B71/?/?。
@@ -52,8 +52,8 @@
   - プロデューサー (Candy☆Boy) - 小田桐克典
   - プロデューサー (Candy boy) - 高橋憲一
   - アニメーションプロデューサー - 福家日左夫
-  - アニメーション制作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
-  - 製作 (Candy☆Boy) - [DREAMUSIC・](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink")
+  - アニメーション制作 - [AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
+  - 製作 (Candy☆Boy) - [DREAMUSIC・](../Page/ドリーミュージック.md "wikilink")
   - 製作 (Candy boy) - Candyboy PROJECT
   - 主題歌 (Candy boy) - [nayuta](https://ja.wikipedia.org/wiki/nayuta "wikilink")「Bring up …LOVE」（2008年[8月13日](../Page/8月13日.md "wikilink")）
 
@@ -102,13 +102,13 @@
 
 ## 漫画
 
-『月刊[コミックフラッパー](https://ja.wikipedia.org/wiki/コミックフラッパー "wikilink")』で、2009年12月号から2010年10月号まで連載。作画は[峠比呂](https://ja.wikipedia.org/wiki/峠比呂 "wikilink")。
+『月刊[コミックフラッパー](../Page/コミックフラッパー.md "wikilink")』で、2009年12月号から2010年10月号まで連載。作画は[峠比呂](https://ja.wikipedia.org/wiki/峠比呂 "wikilink")。
 
 『フラッパーモバイル』でも、モバイル版が無料配信されていた。単行本には漫画版とモバイル版の双方が収録され、監督のほしかわたかふみがゲストとして寄稿している。
 
   - 単行本
 
-:\* [DRM](https://ja.wikipedia.org/wiki/ドリーミュージック "wikilink")/2008CP（原作）・峠比呂（作画） 『Candy boy』 [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")〈[MFコミックス フラッパーシリーズ](https://ja.wikipedia.org/wiki/MFコミックス "wikilink")〉、全2巻
+:\* [DRM](../Page/ドリーミュージック.md "wikilink")/2008CP（原作）・峠比呂（作画） 『Candy boy』 [メディアファクトリー](../Page/メディアファクトリー.md "wikilink")〈[MFコミックス フラッパーシリーズ](../Page/MFコミックス.md "wikilink")〉、全2巻
 
 :\*\# 2010年6月30日初版第1刷発行（2010年6月23日発売）、ISBN 978-4-8401-3331-9
 
@@ -118,7 +118,7 @@
 
 『**web Radio Candy boy〜かなちゃんのいぬ間に〜**』全20回が、『Candy boy』に並行して、2008年[7月18日](../Page/7月18日.md "wikilink")から2009年[6月12日](../Page/6月12日.md "wikilink")までの不定期金曜日に、ニコニコ動画の[ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/ニコニコアニメチャンネル "wikilink")で配信された。
 
-パーソナリティは[柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink") (櫻井雪乃 役) と[加藤英美里](https://ja.wikipedia.org/wiki/加藤英美里 "wikilink") (神山咲夜 役)。ゲストとして第4回（2008年[9月12日](../Page/9月12日.md "wikilink")）に[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink") (櫻井奏 役)。なおサブタイトルの「かなちゃんのいぬ間に」は、櫻井奏（かなちゃん）がいないことを示している。
+パーソナリティは[柚木涼香](../Page/柚木涼香.md "wikilink") (櫻井雪乃 役) と[加藤英美里](../Page/加藤英美里.md "wikilink") (神山咲夜 役)。ゲストとして第4回（2008年[9月12日](../Page/9月12日.md "wikilink")）に[生天目仁美](../Page/生天目仁美.md "wikilink") (櫻井奏 役)。なおサブタイトルの「かなちゃんのいぬ間に」は、櫻井奏（かなちゃん）がいないことを示している。
 
 第10回・第11回（2008年12月5日・19日）は、カラオケボックス[パセラ](../Page/パセラ.md "wikilink")とのコラボレーション企画「ニコニコアニメチャンネル×パセラ」の一環として、パセラ[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")店で収録された。
 
@@ -139,12 +139,12 @@
   -
   - [Candy boy](http://www.at-x.com/program_detail/index.html/2470/) - AT-X
 
-[Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:2008年のアニメ](https://ja.wikipedia.org/wiki/Category:2008年のアニメ "wikilink") [Category:2008年のOVA](https://ja.wikipedia.org/wiki/Category:2008年のOVA "wikilink") [Category:日本のオリジナルWebアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルWebアニメ "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/Category:ニコニコアニメチャンネル "wikilink") [Category:ドワンゴのアニメ作品](https://ja.wikipedia.org/wiki/Category:ドワンゴのアニメ作品 "wikilink") [Category:双子を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:双子を題材としたアニメ作品 "wikilink") [Category:東京都を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台とした作品 "wikilink") [Category:北海道を舞台とした作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台とした作品 "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:コミックフラッパー](https://ja.wikipedia.org/wiki/Category:コミックフラッパー "wikilink") [Category:百合マンガ・アニメ](https://ja.wikipedia.org/wiki/Category:百合マンガ・アニメ "wikilink")
+[Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:2008年のアニメ](https://ja.wikipedia.org/wiki/Category:2008年のアニメ "wikilink") [Category:2008年のOVA](https://ja.wikipedia.org/wiki/Category:2008年のOVA "wikilink") [Category:日本のオリジナルWebアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルWebアニメ "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/Category:ニコニコアニメチャンネル "wikilink") [Category:ドワンゴのアニメ作品](https://ja.wikipedia.org/wiki/Category:ドワンゴのアニメ作品 "wikilink") [Category:双子を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:双子を題材としたアニメ作品 "wikilink") [Category:東京都を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京都を舞台としたアニメ作品 "wikilink") [Category:北海道を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:北海道を舞台としたアニメ作品 "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:2009年の漫画](https://ja.wikipedia.org/wiki/Category:2009年の漫画 "wikilink") [Category:コミックフラッパー](https://ja.wikipedia.org/wiki/Category:コミックフラッパー "wikilink") [Category:百合マンガ・アニメ](https://ja.wikipedia.org/wiki/Category:百合マンガ・アニメ "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  より正確に言うと、[日高町の出身](https://ja.wikipedia.org/wiki/日高町_\(北海道\) "wikilink")。3話にて雪化粧した[日高本線](https://ja.wikipedia.org/wiki/日高本線 "wikilink")[清畠駅](https://ja.wikipedia.org/wiki/清畠駅 "wikilink")が登場する。
+6.  より正確に言うと、[日高町の出身](../Page/日高町_\(北海道\).md "wikilink")。3話にて雪化粧した[日高本線](https://ja.wikipedia.org/wiki/日高本線 "wikilink")[清畠駅](../Page/清畠駅.md "wikilink")が登場する。
 7.  [アニメ系専門★ニコニコアニメチャンネルオープン！](http://blog.nicovideo.jp/niconews/2008/04/001068.html)- ニコニコインフォ（2008年4月2日）

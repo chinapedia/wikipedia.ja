@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヘイズ・アンド・イェディング・ユナイテッドFC](https://ja.wikipedia.org/wiki/ヘイズ・アンド・イェディング・ユナイテッドFC)から翻訳されています。
 
 
 **ヘイズ・アンド・イェディング・ユナイテッド・フットボール・クラブ**（**Hayes & Yeading United Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[ヘイズを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/ヘイズ・ロンドン特別区 "wikilink")。2017-2018シーズンは[サザンフットボールリーグ・ディヴィジョン1・セントラル](https://ja.wikipedia.org/wiki/サザンフットボールリーグ・ディヴィジョン1・セントラル "wikilink")（8部相当）に所属。

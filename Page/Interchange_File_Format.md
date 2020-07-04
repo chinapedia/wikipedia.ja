@@ -1,7 +1,7 @@
 > この記事は[Interchange File Format](https://ja.wikipedia.org/wiki/Interchange_File_Format)から翻訳されています。
 
 
-**Interchange File Format**（**IFF**）は、汎用[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の一種。1985年に[エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")が、[コモドール](https://ja.wikipedia.org/wiki/コモドール "wikilink")の [Amiga](../Page/Amiga.md "wikilink") 向けに異なるアプリケーション間でのデータ転送を容易にするために開発した。
+**Interchange File Format**（**IFF**）は、汎用[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の一種。1985年に[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")が、[コモドール](../Page/コモドール.md "wikilink")の [Amiga](../Page/Amiga.md "wikilink") 向けに異なるアプリケーション間でのデータ転送を容易にするために開発した。
 
 IFF には典型的な[拡張子](../Page/拡張子.md "wikilink")は存在しない。*.iff* という拡張子のファイルは [ILBM](https://ja.wikipedia.org/wiki/ILBM "wikilink") フォーマットであることが多い。ILBM は IFF を使った画像フォーマットではあるが、IFFフォーマットを使っているのは ILBM だけではない（多くの場合、IFFファイルの拡張子はそれほど重要ではない）。
 
@@ -24,13 +24,13 @@ IFFファイルは全体として1つのグループチャンク（FORM か LIST
   - 16SV （標本ごとに16ビットを使用する音声フォーマット）
   - [8SVX](https://ja.wikipedia.org/wiki/8SVX "wikilink") （標本ごとに8ビットを使用する音声フォーマット）
   - ACBM （**A**miga **C**ontiguous **B**it**M**ap - PCXに似た画像フォーマット。マイクロソフトの AmigaBasic で使われた）
-  - [AIFF](https://ja.wikipedia.org/wiki/AIFF "wikilink") （音声フォーマット）
+  - [AIFF](../Page/AIFF.md "wikilink") （音声フォーマット）
   - ANBM （アニメーションフォーマット。[ILBM](https://ja.wikipedia.org/wiki/ILBM "wikilink")を複合した形式で、個々の画像を次々表示する）
   - [ANIM](https://ja.wikipedia.org/wiki/ANIM "wikilink") （アニメーションフォーマット）
   - BIFF8 （[Microsoft Excelでかつて使われていた形式](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")）
-  - [Alias/Wavefront Maya](https://ja.wikipedia.org/wiki/Maya "wikilink") ファイルフォーマット （画像およびシーン記述）
+  - [Alias/Wavefront Maya](../Page/Maya.md "wikilink") ファイルフォーマット （画像およびシーン記述）
   - [Word 文書](../Page/Microsoft_Word.md "wikilink") （Word 97 までのフォーマット）
-  - [DjVu](https://ja.wikipedia.org/wiki/DjVu "wikilink") （高解像度の画像を埋め込める文書フォーマット）
+  - [DjVu](../Page/DjVu.md "wikilink") （高解像度の画像を埋め込める文書フォーマット）
   - DR2D （二次元ベクターフォーマット）
   - EMOD （QuadraComposer モジュールフォーマット）
   - FNTR （[ラスターフォントフォーマット](../Page/フォント.md "wikilink")）
@@ -40,7 +40,7 @@ IFFファイルは全体として1つのグループチャンク（FORM か LIST
   - GSCR （楽譜フォーマット）
   - IFRS （Blorb とも。[インタラクティブフィクション](https://ja.wikipedia.org/wiki/インタラクティブフィクション "wikilink")用フォーマット）
   - IFZS （Quetzal とも。[ゾーク](../Page/ゾーク.md "wikilink")の内部インタプリタ用プログラムファイル）
-  - [ILBM](https://ja.wikipedia.org/wiki/ILBM "wikilink") （[ビットマップ画像](https://ja.wikipedia.org/wiki/ビットマップ画像 "wikilink")フォーマット）
+  - [ILBM](https://ja.wikipedia.org/wiki/ILBM "wikilink") （[ビットマップ画像](../Page/ビットマップ画像.md "wikilink")フォーマット）
   - LWOB （[LightWave](../Page/LightWave.md "wikilink") 3次元オブジェクトフォーマット）
   - LWO2 （[LightWave](../Page/LightWave.md "wikilink") 3次元オブジェクトフォーマット）
   - PDEF （Deluxe Print page definition）
@@ -56,12 +56,12 @@ IFFファイルは全体として1つのグループチャンク（FORM か LIST
 
 ## IFFフォーマットのクローンおよび派生フォーマット
 
-  - [RIFF](../Page/Resource_Interchange_File_Format.md "wikilink") - [マイクロソフト](../Page/マイクロソフト.md "wikilink")と[IBM](../Page/IBM.md "wikilink")による派生フォーマット。違いは、先頭に "RIFF" という文字列がある点と、整数表現に[リトルエンディアンを使っている点である](https://ja.wikipedia.org/wiki/エンディアン "wikilink")。例えば[AVIや](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")はRIFFの一種である。ビッグエンディアン版の RIFX も定義されているが、ほとんど使われていない。
-  - [TIFF](../Page/Tagged_Image_File_Format.md "wikilink") - [アルダス](../Page/アルダス.md "wikilink")が [PostScript](../Page/PostScript.md "wikilink") に高色深度の[ビットマップ画像](https://ja.wikipedia.org/wiki/ビットマップ画像 "wikilink")を含めるべく設計したフォーマット。IFF のようなチャンク構造を持つが、画像のフォーマット自体は ILBM ではない。
+  - [RIFF](../Page/Resource_Interchange_File_Format.md "wikilink") - [マイクロソフト](../Page/マイクロソフト.md "wikilink")と[IBM](../Page/IBM.md "wikilink")による派生フォーマット。違いは、先頭に "RIFF" という文字列がある点と、整数表現に[リトルエンディアンを使っている点である](https://ja.wikipedia.org/wiki/エンディアン "wikilink")。例えば[AVIや](../Page/Audio_Video_Interleave.md "wikilink")[WAV](../Page/WAV.md "wikilink")はRIFFの一種である。ビッグエンディアン版の RIFX も定義されているが、ほとんど使われていない。
+  - [TIFF](../Page/Tagged_Image_File_Format.md "wikilink") - [アルダス](../Page/アルダス.md "wikilink")が [PostScript](../Page/PostScript.md "wikilink") に高色深度の[ビットマップ画像](../Page/ビットマップ画像.md "wikilink")を含めるべく設計したフォーマット。IFF のようなチャンク構造を持つが、画像のフォーマット自体は ILBM ではない。
   - 標準[MIDI](../Page/MIDI.md "wikilink")フォーマットはIFFの基本概念を取り入れているが、IFFの規格には従っていない。
   - [PNGもIFFからチャンクの概念を取り入れているが](../Page/Portable_Network_Graphics.md "wikilink")、構造は異なる。
-  - [QuickTime](../Page/QuickTime.md "wikilink") (.mov) と [MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink") もIFFのチャンクの概念を取り入れているが、それを「アトム」と呼んでおり、配置が異なる。また、4GBを超えるチャンクも扱える。
-  - [3dstudio](https://ja.wikipedia.org/wiki/3ds_Max "wikilink") (.3ds) はチャンク名に4バイトではなく2バイトを使った3次元シーンフォーマット
+  - [QuickTime](../Page/QuickTime.md "wikilink") (.mov) と [MP4](../Page/MP4.md "wikilink") もIFFのチャンクの概念を取り入れているが、それを「アトム」と呼んでおり、配置が異なる。また、4GBを超えるチャンクも扱える。
+  - [3dstudio](../Page/3ds_Max.md "wikilink") (.3ds) はチャンク名に4バイトではなく2バイトを使った3次元シーンフォーマット
   - [Nero Burning ROMは](../Page/Nero_Burning_ROM.md "wikilink")、CDイメージファイルのフォーマットにIFFチャンクの概念を使っている。ただしチャンクデータは最後尾にある。また、用語もIFFとは異なる。
 
 ## 外部リンク

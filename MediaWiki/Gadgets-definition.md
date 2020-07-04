@@ -25,6 +25,8 @@
   - checkSignature\[ResourceLoader|default\]|checkSignature.js
   - checkSignature-suppressWhenMinor\[ResourceLoader\]|checkSignature-suppressWhenMinor.js
   - modifyEditsection\[ResourceLoader\]|modifyEditsection.js
+  - charinsert\[ResourceLoader|default\]|charinsert.js
+  - charinsert-core\[ResourceLoader|hidden|dependencies=jquery.textSelection,user,mediawiki.storage\]|charinsert-styles.css|charinsert-core.js
 
 ## appearance-gadgets
 

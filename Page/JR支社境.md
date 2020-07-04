@@ -340,7 +340,7 @@
 
 <!-- end list -->
 
-  - [上越線](https://ja.wikipedia.org/wiki/上越線 "wikilink")
+  - [上越線](../Page/上越線.md "wikilink")
 
 <!-- end list -->
 

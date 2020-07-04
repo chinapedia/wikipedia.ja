@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[エドウィン・L・メカム](https://ja.wikipedia.org/wiki/エドウィン・L・メカム)から翻訳されています。
 
 
 **エドウィン・リアード・メカム**（**Edwin Leard Mechem**, [1912年](../Page/1912年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")）は、[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")選出の共和党の政治家。1951年-1955年、1957-1959年、1961-1962年の3期のニューメキシコ州[知事](https://ja.wikipedia.org/wiki/知事#アメリカ "wikilink")、1962年から1964年までニューメキシコ選出の[アメリカ合衆国上院](../Page/アメリカ合衆国上院.md "wikilink")議員であった。

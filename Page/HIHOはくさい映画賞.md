@@ -1,17 +1,17 @@
-> この記事は[HIHO](https://ja.wikipedia.org/wiki/HIHO)から翻訳されています。
+> この記事は[HIHOはくさい映画賞](https://ja.wikipedia.org/wiki/HIHOはくさい映画賞)から翻訳されています。
 
 
 **HIHOはくさい映画賞**（ひほうはくさいえいがしょう）は、映画雑誌『[映画秘宝](../Page/映画秘宝.md "wikilink")』で発表されていた、その年度において最低の[日本映画](../Page/日本映画.md "wikilink")、[監督](../Page/映画監督.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")などを決定する賞であった。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") からは邦画だけでなく洋画を含めた、「映画秘宝ベスト10」投票者によるワースト映画ランキング**HIHOはくさいアワード**となった。
 
 ## 概要
 
-「はくさい映画賞」は、『映画秘宝』に毎月連載されていた「日本映画縛り首」の担当者3名「バッド・ムービー・アミーゴス」（[江戸木純](https://ja.wikipedia.org/wiki/江戸木純 "wikilink")、[柳下毅一郎](https://ja.wikipedia.org/wiki/柳下毅一郎 "wikilink")、クマちゃん）により決定されていた。名称は「映画秘宝」元編集長の[田野辺尚人](https://ja.wikipedia.org/wiki/田野辺尚人 "wikilink")が命名。「日本映画縛り首」の『[スキヤキ・ウエスタン ジャンゴ](https://ja.wikipedia.org/wiki/スキヤキ・ウエスタン・ジャンゴ "wikilink")』の回で、クマちゃんが「[スキヤキに](../Page/すき焼き.md "wikilink")[白菜は入れねーだろ](../Page/ハクサイ.md "wikilink")」と発言したところ、映画秘宝の関係者や読者の間で「スキヤキに白菜を入れる入れない」論争が起こったことに由来する。[2007年](../Page/2007年.md "wikilink")度に第1回が開始され、『映画秘宝』[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月号に結果が発表された。
+「はくさい映画賞」は、『映画秘宝』に毎月連載されていた「日本映画縛り首」の担当者3名「バッド・ムービー・アミーゴス」（[江戸木純](https://ja.wikipedia.org/wiki/江戸木純 "wikilink")、[柳下毅一郎](../Page/柳下毅一郎.md "wikilink")、クマちゃん）により決定されていた。名称は「映画秘宝」元編集長の[田野辺尚人](https://ja.wikipedia.org/wiki/田野辺尚人 "wikilink")が命名。「日本映画縛り首」の『[スキヤキ・ウエスタン ジャンゴ](https://ja.wikipedia.org/wiki/スキヤキ・ウエスタン・ジャンゴ "wikilink")』の回で、クマちゃんが「[スキヤキに](../Page/すき焼き.md "wikilink")[白菜は入れねーだろ](../Page/ハクサイ.md "wikilink")」と発言したところ、映画秘宝の関係者や読者の間で「スキヤキに白菜を入れる入れない」論争が起こったことに由来する。[2007年](../Page/2007年.md "wikilink")度に第1回が開始され、『映画秘宝』[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月号に結果が発表された。
 
-そもそも母体となっていた「日本映画縛り首」において、制作会社、映画監督、脚本家、出演俳優たちに対する激しい批判が行われており、極めて私的な基準による選考がなされていた。このような批評スタイルには賛否両論があり、[大高宏雄](https://ja.wikipedia.org/wiki/大高宏雄 "wikilink")は名指しこそしないが、「あら探し的に映画産業をエキセントリックに批判することだけは避けたい。それはあまりにも真っ当過ぎるからだ」と、自著『日本映画のヒット力』（[ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")）や『[キネマ旬報](https://ja.wikipedia.org/wiki/キネマ旬報 "wikilink")』の連載記事にて皮肉たっぷりに記している。
+そもそも母体となっていた「日本映画縛り首」において、制作会社、映画監督、脚本家、出演俳優たちに対する激しい批判が行われており、極めて私的な基準による選考がなされていた。このような批評スタイルには賛否両論があり、[大高宏雄](https://ja.wikipedia.org/wiki/大高宏雄 "wikilink")は名指しこそしないが、「あら探し的に映画産業をエキセントリックに批判することだけは避けたい。それはあまりにも真っ当過ぎるからだ」と、自著『日本映画のヒット力』（[ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")）や『[キネマ旬報](../Page/キネマ旬報.md "wikilink")』の連載記事にて皮肉たっぷりに記している。
 
 ## 批評の主な例
 
-  - 「100万人は殺している[ヒーロー](https://ja.wikipedia.org/wiki/ヒーロー "wikilink")が復讐否定を唱えるのはおかしい」 - 『[GOEMON](https://ja.wikipedia.org/wiki/GOEMON_\(映画\) "wikilink")』（2009年）について。
+  - 「100万人は殺している[ヒーロー](../Page/ヒーロー.md "wikilink")が復讐否定を唱えるのはおかしい」 - 『[GOEMON](https://ja.wikipedia.org/wiki/GOEMON_\(映画\) "wikilink")』（2009年）について。
   - 「[パンク・ロック](../Page/パンク・ロック.md "wikilink")に対する愛情がない」 - 『[少年メリケンサック](https://ja.wikipedia.org/wiki/少年メリケンサック "wikilink")』（2009年）について。
   - 「『[超能力](../Page/超能力.md "wikilink")を人のために』とか偽善」 - 『[KIDS](../Page/KIDS_\(2008年の映画\).md "wikilink")』（2008年）、他について。
   - 「安易に[時代劇](../Page/時代劇.md "wikilink")を[無国籍風にするべきではない](https://ja.wikipedia.org/wiki/無国籍#その他 "wikilink")」 - 『[スキヤキ・ウエスタン ジャンゴ](../Page/スキヤキ・ウエスタン_ジャンゴ.md "wikilink")』（2007年）、他について。
@@ -23,36 +23,36 @@
 
   - 作品賞 - [どろろ](../Page/どろろ_\(映画\).md "wikilink")
   - 最低監督賞 - [行定勲](../Page/行定勲.md "wikilink")（『[遠くの空に消えた](../Page/遠くの空に消えた.md "wikilink")』『[クローズド・ノート](../Page/クローズド・ノート.md "wikilink")』）
-  - 最低主演男優賞 - [田村正和](../Page/田村正和.md "wikilink")（『[ラストラブ](https://ja.wikipedia.org/wiki/ラストラブ "wikilink")』）
+  - 最低主演男優賞 - [田村正和](../Page/田村正和.md "wikilink")（『[ラストラブ](../Page/ラストラブ.md "wikilink")』）
   - 最低主演女優賞 - [竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")（『[ミッドナイト イーグル](https://ja.wikipedia.org/wiki/ミッドナイト_イーグル "wikilink")』『クローズド・ノート』）
-  - 最低助演男優賞 - [石黒賢](https://ja.wikipedia.org/wiki/石黒賢 "wikilink")（『[未来予想図 〜ア・イ・シ・テ・ルのサイン〜](https://ja.wikipedia.org/wiki/未来予想図_〜ア・イ・シ・テ・ルのサイン〜 "wikilink")』『ミッドナイト イーグル』）
-  - 最低助演女優賞 - [もたいまさこ](https://ja.wikipedia.org/wiki/もたいまさこ "wikilink")（『[めがね](../Page/めがね_\(映画\).md "wikilink")』）
-  - 最低脚本賞 - [NAKA雅MURA](https://ja.wikipedia.org/wiki/NAKA雅MURA "wikilink")（『[どろろ](../Page/どろろ_\(映画\).md "wikilink")』『[スキヤキ・ウエスタン ジャンゴ](https://ja.wikipedia.org/wiki/スキヤキ・ウエスタン・ジャンゴ "wikilink")』）
-  - 生涯功労賞 - [角川春樹](https://ja.wikipedia.org/wiki/角川春樹 "wikilink")（『[蒼き狼 〜地果て海尽きるまで〜](https://ja.wikipedia.org/wiki/蒼き狼_〜地果て海尽きるまで〜 "wikilink")』『[椿三十郎](https://ja.wikipedia.org/wiki/椿三十郎_\(2007年の映画\) "wikilink")』）
+  - 最低助演男優賞 - [石黒賢](https://ja.wikipedia.org/wiki/石黒賢 "wikilink")（『[未来予想図 〜ア・イ・シ・テ・ルのサイン〜](../Page/未来予想図_〜ア・イ・シ・テ・ルのサイン〜.md "wikilink")』『ミッドナイト イーグル』）
+  - 最低助演女優賞 - [もたいまさこ](../Page/もたいまさこ.md "wikilink")（『[めがね](../Page/めがね_\(映画\).md "wikilink")』）
+  - 最低脚本賞 - [NAKA雅MURA](../Page/NAKA雅MURA.md "wikilink")（『[どろろ](../Page/どろろ_\(映画\).md "wikilink")』『[スキヤキ・ウエスタン ジャンゴ](https://ja.wikipedia.org/wiki/スキヤキ・ウエスタン・ジャンゴ "wikilink")』）
+  - 生涯功労賞 - [角川春樹](../Page/角川春樹.md "wikilink")（『[蒼き狼 〜地果て海尽きるまで〜](../Page/蒼き狼_〜地果て海尽きるまで〜.md "wikilink")』『[椿三十郎](../Page/椿三十郎_\(2007年の映画\).md "wikilink")』）
 
 ### 第2回（2008年度）
 
   - 最低作品賞 - [少林少女](../Page/少林少女.md "wikilink")
-  - 最低監督賞 - [樋口真嗣](https://ja.wikipedia.org/wiki/樋口真嗣 "wikilink")（『[隠し砦の三悪人 THE LAST PRINCESS](https://ja.wikipedia.org/wiki/隠し砦の三悪人_THE_LAST_PRINCESS "wikilink")』）
+  - 最低監督賞 - [樋口真嗣](../Page/樋口真嗣.md "wikilink")（『[隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")』）
   - 最低主演男優賞 - [大沢たかお](../Page/大沢たかお.md "wikilink")（『[築地魚河岸三代目](https://ja.wikipedia.org/wiki/築地魚河岸三代目#2008年映画版 "wikilink")』『[ICHI](https://ja.wikipedia.org/wiki/ICHI "wikilink")』）
   - 最低主演女優賞 - [田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")（『[銀色のシーズン](../Page/銀色のシーズン.md "wikilink")』『築地魚河岸三代目』『[山桜](https://ja.wikipedia.org/wiki/山桜_\(映画\) "wikilink")』「[犬と私の10の約束](https://ja.wikipedia.org/wiki/犬と私の10の約束 "wikilink")』）
   - 最低助演男優賞 - [南原清隆](../Page/南原清隆.md "wikilink")（『[L change the worLd](https://ja.wikipedia.org/wiki/L_change_the_worLd "wikilink")』）
-  - 最低助演女優賞 - [香椎由宇](https://ja.wikipedia.org/wiki/香椎由宇 "wikilink")（『[252 生存者あり](https://ja.wikipedia.org/wiki/252_生存者あり "wikilink")』）
+  - 最低助演女優賞 - [香椎由宇](https://ja.wikipedia.org/wiki/香椎由宇 "wikilink")（『[252 生存者あり](../Page/252_生存者あり.md "wikilink")』）
   - 生涯功労賞 - [吉永小百合](../Page/吉永小百合.md "wikilink")（『[母べえ](../Page/母べえ.md "wikilink")』『[まぼろしの邪馬台国](https://ja.wikipedia.org/wiki/まぼろしの邪馬台国#映画 "wikilink")』他長年の功績により）
-  - 最低脚本賞 - [浅野妙子](https://ja.wikipedia.org/wiki/浅野妙子 "wikilink")（『ICHI』）
-  - 最低主題歌賞 - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")（『隠し砦の三悪人 THE LAST PRINCESS』）
+  - 最低脚本賞 - [浅野妙子](../Page/浅野妙子.md "wikilink")（『ICHI』）
+  - 最低主題歌賞 - [KREVA](../Page/KREVA.md "wikilink")（『隠し砦の三悪人 THE LAST PRINCESS』）
   - 特別賞 - [ワーナー・ブラザース映画](https://ja.wikipedia.org/wiki/ワーナー_エンターテイメント_ジャパン "wikilink")（『L change the WorLd』『[Sweet Rain](https://ja.wikipedia.org/wiki/死神の精度#映画 "wikilink")』『[スシ王子](../Page/銀幕版_スシ王子!_〜ニューヨークへ行く〜.md "wikilink")』『[スカイクロラ](https://ja.wikipedia.org/wiki/スカイ・クロラシリーズ#映画 "wikilink")』『ICHI』『252 生存者あり』の配給）
 
 ### 第3回（2009年度）
 
   - 最低作品賞 - [スノープリンス 禁じられた恋のメロディ](https://ja.wikipedia.org/wiki/スノープリンス_禁じられた恋のメロディ "wikilink")
-  - 最低監督賞 - [崔洋一](https://ja.wikipedia.org/wiki/崔洋一 "wikilink")（『[カムイ外伝](https://ja.wikipedia.org/wiki/カムイ外伝#実写映画 "wikilink")』）
+  - 最低監督賞 - [崔洋一](../Page/崔洋一.md "wikilink")（『[カムイ外伝](https://ja.wikipedia.org/wiki/カムイ外伝#実写映画 "wikilink")』）
   - 最低主演男優賞 - [織田裕二](../Page/織田裕二.md "wikilink")（『[アマルフィ 女神の報酬](https://ja.wikipedia.org/wiki/アマルフィ_女神の報酬 "wikilink")』）
   - 最低主演女優賞 - [長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")（『[群青 愛が沈んだ海の色](https://ja.wikipedia.org/wiki/群青_\(小説\)#映画 "wikilink")」「[曲がれ\!スプーン](https://ja.wikipedia.org/wiki/曲がれ!スプーン "wikilink")』）
-  - 最低助演男優賞 - [ゲイリー・オールドマン](https://ja.wikipedia.org/wiki/ゲイリー・オールドマン "wikilink")（『[レイン・フォール/雨の牙](https://ja.wikipedia.org/wiki/レイン・フォール/雨の牙 "wikilink")』）
-  - 最低助演女優賞 - [マイコ](https://ja.wikipedia.org/wiki/マイコ_\(モデル\) "wikilink")（『[山形スクリーム](https://ja.wikipedia.org/wiki/山形スクリーム "wikilink")』『[ブラック会社に勤めてるんだが、もう俺は限界かもしれない](https://ja.wikipedia.org/wiki/ブラック会社に勤めてるんだが、もう俺は限界かもしれない "wikilink")』『スノープリンス 禁じられた恋のメロディ』）
+  - 最低助演男優賞 - [ゲイリー・オールドマン](../Page/ゲイリー・オールドマン.md "wikilink")（『[レイン・フォール/雨の牙](https://ja.wikipedia.org/wiki/レイン・フォール/雨の牙 "wikilink")』）
+  - 最低助演女優賞 - [マイコ](https://ja.wikipedia.org/wiki/マイコ_\(モデル\) "wikilink")（『[山形スクリーム](https://ja.wikipedia.org/wiki/山形スクリーム "wikilink")』『[ブラック会社に勤めてるんだが、もう俺は限界かもしれない](../Page/ブラック会社に勤めてるんだが、もう俺は限界かもしれない.md "wikilink")』『スノープリンス 禁じられた恋のメロディ』）
   - 最低脚本賞 - 受賞者なし（受賞作『[アマルフィ 女神の報酬](https://ja.wikipedia.org/wiki/アマルフィ_女神の報酬 "wikilink")』の脚本家が無記名のため）
-  - 最低作曲賞 - [羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")（『[ROOKIES -卒業-](https://ja.wikipedia.org/wiki/ROOKIES#映画『ROOKIES_-卒業-』 "wikilink")』）
+  - 最低作曲賞 - [羽毛田丈史](../Page/羽毛田丈史.md "wikilink")（『[ROOKIES -卒業-](https://ja.wikipedia.org/wiki/ROOKIES#映画『ROOKIES_-卒業-』 "wikilink")』）
   - 最低特殊効果賞 - [浅野秀二](https://ja.wikipedia.org/wiki/浅野秀二 "wikilink")（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")）（『カムイ外伝』）
   - 最低新人賞 - [ステファニー](../Page/ステファニー_\(1987年生の歌手\).md "wikilink")（『[プライド](https://ja.wikipedia.org/wiki/プライド_\(一条ゆかりの漫画\)#映画 "wikilink")』）
   - 特別功労賞 - [亀山千広](../Page/亀山千広.md "wikilink")（『アマルフィ 女神の報酬』『[サイドウェイズ](https://ja.wikipedia.org/wiki/サイドウェイズ "wikilink")』『曲がれ\!スプーン』『[TOKYO JOE マフィアを売った男](https://ja.wikipedia.org/wiki/TOKYO_JOE_マフィアを売った男 "wikilink")』）
@@ -74,7 +74,7 @@
   - 1位：[SUPER8/スーパーエイト](https://ja.wikipedia.org/wiki/SUPER8/スーパーエイト "wikilink")
   - 2位：[エンジェルウォーズ](https://ja.wikipedia.org/wiki/エンジェルウォーズ "wikilink")
   - 3位：[世界侵略：ロサンゼルス決戦](https://ja.wikipedia.org/wiki/世界侵略：ロサンゼルス決戦 "wikilink")
-  - 4位：[ワイルド7](https://ja.wikipedia.org/wiki/ワイルド7 "wikilink")
+  - 4位：[ワイルド7](../Page/ワイルド7.md "wikilink")
   - 5位：[モンスターズ/地球外生命体](https://ja.wikipedia.org/wiki/モンスターズ/地球外生命体 "wikilink")
   - 6位：[スコット・ピルグリム VS. 邪悪な元カレ軍団](https://ja.wikipedia.org/wiki/スコット・ピルグリム_VS._邪悪な元カレ軍団 "wikilink")
   - 7位：[カウボーイ＆エイリアン](https://ja.wikipedia.org/wiki/カウボーイ_&_エイリアン_\(映画\) "wikilink")、[タンタンの冒険/ユニコーン号の秘密](https://ja.wikipedia.org/wiki/タンタンの冒険/ユニコーン号の秘密 "wikilink")
@@ -121,7 +121,7 @@
   - 3位：[ギャラクシー街道](https://ja.wikipedia.org/wiki/ギャラクシー街道 "wikilink")
   - 4位：[進撃の巨人 ATTACK ON TITAN エンド オブ ザ ワールド](https://ja.wikipedia.org/wiki/進撃の巨人#実写映画 "wikilink")
   - 5位：[アベンジャーズ/エイジ・オブ・ウルトロン](https://ja.wikipedia.org/wiki/アベンジャーズ/エイジ・オブ・ウルトロン "wikilink")
-  - 6位：[ファンタスティック・フォー](https://ja.wikipedia.org/wiki/ファンタスティック・フォー "wikilink")
+  - 6位：[ファンタスティック・フォー](../Page/ファンタスティック・フォー.md "wikilink")
   - 7位：[チャッピー](https://ja.wikipedia.org/wiki/チャッピー_\(映画\) "wikilink")
   - 8位：[セッション](https://ja.wikipedia.org/wiki/セッション_\(映画\) "wikilink")、[トゥモローランド](https://ja.wikipedia.org/wiki/トゥモローランド_\(映画\) "wikilink")
   - 10位：[ジュラシック・ワールド](https://ja.wikipedia.org/wiki/ジュラシック・ワールド "wikilink")
@@ -166,13 +166,13 @@
 
 ## 関連書籍・出典
 
-  - バッド・ムービー・アミーゴスの日本映画最終戦争\!〈邦画バブル死闘編〉2007-2008年版 [江戸木純](https://ja.wikipedia.org/wiki/江戸木純 "wikilink")、[柳下毅一郎](https://ja.wikipedia.org/wiki/柳下毅一郎 "wikilink")、クマちゃん [洋泉社](https://ja.wikipedia.org/wiki/洋泉社 "wikilink") ISBN 4-86248-380-1
+  - バッド・ムービー・アミーゴスの日本映画最終戦争\!〈邦画バブル死闘編〉2007-2008年版 [江戸木純](https://ja.wikipedia.org/wiki/江戸木純 "wikilink")、[柳下毅一郎](../Page/柳下毅一郎.md "wikilink")、クマちゃん [洋泉社](../Page/洋泉社.md "wikilink") ISBN 4-86248-380-1
   - 日本映画空振り大三振〜くたばれ\!ROOKIES 江戸木純、柳下毅一郎、クマちゃん 洋泉社 ISBN 978-4-8624-8575-5
 
 ## 関連項目
 
   - [文春きいちご賞](../Page/文春きいちご賞.md "wikilink")
-  - [蛇いちご賞](https://ja.wikipedia.org/wiki/蛇いちご賞 "wikilink")
+  - [蛇いちご賞](../Page/蛇いちご賞.md "wikilink")
   - [ゴールデンラズベリー賞](../Page/ゴールデンラズベリー賞.md "wikilink")
 
 [Category:日本の映画賞](https://ja.wikipedia.org/wiki/Category:日本の映画賞 "wikilink") [Category:ユーモアの賞](https://ja.wikipedia.org/wiki/Category:ユーモアの賞 "wikilink")

@@ -1,11 +1,11 @@
-> この記事は[SMRT](https://ja.wikipedia.org/wiki/SMRT)から翻訳されています。
+> この記事は[SMRTコーポレーション](https://ja.wikipedia.org/wiki/SMRTコーポレーション)から翻訳されています。
 
 
-**SMRTコーポレーション**（**SMRT Corporation** ）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[公共交通](https://ja.wikipedia.org/wiki/公共交通 "wikilink")を提供・運営する大手企業。シンガポールでは[ComfortDelGro](https://ja.wikipedia.org/wiki/ComfortDelGro "wikilink")に次ぐ第2位の規模である。2000年3月6日に設立され[持株会社](../Page/持株会社.md "wikilink")として2000年7月26日に[シンガポール証券取引所](../Page/シンガポール証券取引所.md "wikilink")に上場した。同国政府の陸運庁[LTA](https://ja.wikipedia.org/wiki/LTA "wikilink")の計画のもと、いくつかの完全子会社を通して、シンガポールで[地下鉄](https://ja.wikipedia.org/wiki/地下鉄 "wikilink")・[バス](../Page/バス_\(交通機関\).md "wikilink")・[タクシー](../Page/タクシー.md "wikilink")などを運営する。交通機関に関するコンサル事業や広告事業、エンジニアリング事業などのその他サービスも行う。2017年、[ライドシェア](https://ja.wikipedia.org/wiki/ライドシェア "wikilink")大手の[グラブ](https://ja.wikipedia.org/wiki/グラブ "wikilink")への部門売却の話が持ち上がった\[1\]。
+**SMRTコーポレーション**（**SMRT Corporation** ）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の[公共交通](https://ja.wikipedia.org/wiki/公共交通 "wikilink")を提供・運営する大手企業。シンガポールでは[ComfortDelGro](https://ja.wikipedia.org/wiki/ComfortDelGro "wikilink")に次ぐ第2位の規模である。2000年3月6日に設立され[持株会社](../Page/持株会社.md "wikilink")として2000年7月26日に[シンガポール証券取引所](../Page/シンガポール証券取引所.md "wikilink")に上場した。同国政府の陸運庁[LTA](https://ja.wikipedia.org/wiki/LTA "wikilink")の計画のもと、いくつかの完全子会社を通して、シンガポールで[地下鉄](../Page/地下鉄.md "wikilink")・[バス](../Page/バス_\(交通機関\).md "wikilink")・[タクシー](../Page/タクシー.md "wikilink")などを運営する。交通機関に関するコンサル事業や広告事業、エンジニアリング事業などのその他サービスも行う。2017年、[ライドシェア](https://ja.wikipedia.org/wiki/ライドシェア "wikilink")大手の[グラブ](https://ja.wikipedia.org/wiki/グラブ "wikilink")への部門売却の話が持ち上がった\[1\]。
 
 ## 子会社
 
-  - [SMRT Trains](https://ja.wikipedia.org/wiki/SMRTトレインズ "wikilink") Ltd [1](http://www.smrt.com.sg/Trains.aspx) (以前はSingapore MRT Ltd)
+  - [SMRT Trains](../Page/SMRTトレインズ.md "wikilink") Ltd [1](http://www.smrt.com.sg/Trains.aspx) (以前はSingapore MRT Ltd)
   - [SMRT Investments Pte Ltd](http://smrt.com.sg)
   - [SMRT Capital Ltd](http://smrt.com.sg)
   - [SMRT Far East Ltd](http://smrt.com.sg)
@@ -38,8 +38,8 @@
 シンガポールの主な公共交通を以下の子会社を通して運営している。
 
   - [SMRT Buses](https://ja.wikipedia.org/wiki/SMRTバス "wikilink") – 北部、北西部にて1190台のバスを運行
-  - [SMRT Trains](https://ja.wikipedia.org/wiki/SMRTトレインズ "wikilink") – [MRTの](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")[東西線](https://ja.wikipedia.org/wiki/MRT東西線 "wikilink")、[南北線](https://ja.wikipedia.org/wiki/MRT南北線 "wikilink")、[環状線を運行し](https://ja.wikipedia.org/wiki/MRT環状線 "wikilink")、86駅を運営している。
-  - SMRT Light Rail – [LRTブキ・パンジャン線](https://ja.wikipedia.org/wiki/LRTブキ・パンジャン線 "wikilink")を運行し、14の駅を運営している。
+  - [SMRT Trains](../Page/SMRTトレインズ.md "wikilink") – [MRTの](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット_\(シンガポール\) "wikilink")[東西線](../Page/MRT東西線.md "wikilink")、[南北線](https://ja.wikipedia.org/wiki/MRT南北線 "wikilink")、[環状線を運行し](https://ja.wikipedia.org/wiki/MRT環状線 "wikilink")、86駅を運営している。
+  - SMRT Light Rail – [LRTブキ・パンジャン線](../Page/LRTブキ・パンジャン線.md "wikilink")を運行し、14の駅を運営している。
   - SMRT Taxis
 
 ## 統計

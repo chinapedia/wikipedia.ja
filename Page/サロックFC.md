@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[サロックFC](https://ja.wikipedia.org/wiki/サロックFC)から翻訳されています。
 
 
-**サロック・フットボール・クラブ**（**Thurrock Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[エセックス](../Page/エセックス.md "wikilink")州、[グレイズを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Grays "wikilink")。2017-2018シーズンは[イスミアンリーグ・プレミアディヴィジョン](https://ja.wikipedia.org/wiki/イスミアンリーグ・プレミアディヴィジョン "wikilink")（7部相当）に所属。
+**サロック・フットボール・クラブ**（**Thurrock Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[エセックス](../Page/エセックス.md "wikilink")州、[グレイズを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/w:Grays "wikilink")。2017-2018シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。
 
 ## 概要
 

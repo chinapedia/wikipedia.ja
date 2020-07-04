@@ -8,11 +8,11 @@
 主に[Javaプラットフォーム](../Page/Javaプラットフォーム.md "wikilink")（[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")）上で動作し、既存の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")のプログラムと容易に連携させることができる。2.13.0時点ではほかに[JavaScript](../Page/JavaScript.md "wikilink")への[トランスパイル](https://ja.wikipedia.org/wiki/トランスパイル "wikilink")や[LLVM](../Page/LLVM.md "wikilink")もサポートする\[2\]。 また、過去には下記のプラットフォームもサポートしていたが、現在は開発が中断している。
 
   - [.NET Framework](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")\[3\]
-  - [Java Platform, Micro Edition](../Page/Java_Platform,_Micro_Edition.md "wikilink") [CLDC](https://ja.wikipedia.org/wiki/Connected_Limited_Device_Configuration "wikilink")
+  - [Java Platform, Micro Edition](../Page/Java_Platform,_Micro_Edition.md "wikilink") [CLDC](../Page/Connected_Limited_Device_Configuration.md "wikilink")
 
 ## 歴史
 
-Scalaは2001年にスイス・ローザンヌにあるスイス連邦工科大学 (EPFL) のマーティン・オーダスキー教授によって設計された。マーティン・オーダスキー教授はFunnelという関数型言語の[ペトリネット](../Page/ペトリネット.md "wikilink")を合わせた言語の開発に携わっていた。オーダスキーは過去にGeneral Javaと[javac](https://ja.wikipedia.org/wiki/javac "wikilink")の開発に携わった事があった。
+Scalaは2001年にスイス・ローザンヌにあるスイス連邦工科大学 (EPFL) の教授によって設計された。マーティン・オーダスキー教授はFunnelという関数型言語の[ペトリネット](../Page/ペトリネット.md "wikilink")を合わせた言語の開発に携わっていた。オーダスキーは過去にGeneral Javaと[javac](https://ja.wikipedia.org/wiki/javac "wikilink")の開発に携わった事があった。
 
 Scalaは2003年の暮れに内部で公開された後、2004年の始めにJavaのプラットフォームにリリースされ、2004年の6月に.NETのプラットフォームに公開された。Ver2.0は2006年3月にリリースされたが、.NETのサポートは2012年に中止になった。
 
@@ -25,15 +25,15 @@ Scalaは2003年の暮れに内部で公開された後、2004年の始めにJava
   - 全てがオブジェクトとして扱われるオブジェクト指向言語である。
   - [静的型付け](https://ja.wikipedia.org/wiki/静的型付け "wikilink")を行う関数型言語である。静的型付けのため、コンパイル時点でのエラー（特に型関連の）検出が得意である。
   - 型（クラス）をJavaなどと比べてより容易に作ることができ、また、型を使った条件分岐をはじめとして、型に関する機能が豊富なため、メソッドやフィールドを束ねるだけのクラスではなく、型に積極的な意味を持たせてのプログラミングが可能である。
-  - [型推論](https://ja.wikipedia.org/wiki/型推論 "wikilink")をサポートし、多くの場面で型を自動的に補ってくれる。
+  - [型推論](../Page/型推論.md "wikilink")をサポートし、多くの場面で型を自動的に補ってくれる。
   - 純粋関数型言語的な、val（定数）と不変List, Set, Mapという組み合わせでもプログラミングできるし、より手続き型的なvar（変数）と可変List, Set, Mapという組み合わせでもプログラミングができる。
-  - 関数もオブジェクトとして利用可能であり、[カリー化](https://ja.wikipedia.org/wiki/カリー化 "wikilink")が可能。
+  - 関数もオブジェクトとして利用可能であり、[カリー化](../Page/カリー化.md "wikilink")が可能。
   - パターンマッチを利用可能であり、任意のクラスをグループ化してパターンマッチで判定させることが可能（CASEクラス）。
   - implicit def と言う宣言を用いて、既存の[クラスを拡張したような記述が可能](../Page/クラス_\(コンピュータ\).md "wikilink")。
   - traitクラスを用いた、Mix-in機能を持つ。
-  - [クロージャ](https://ja.wikipedia.org/wiki/クロージャ "wikilink")をサポートする。
+  - [クロージャ](../Page/クロージャ.md "wikilink")をサポートする。
   - [XMLを直接プログラム内部に記述可能](../Page/Extensible_Markup_Language.md "wikilink")。
-  - [遅延評価](https://ja.wikipedia.org/wiki/遅延評価 "wikilink")のある関数型言語であるため、無限リストを扱え、標準ライブラリにそのためのクラスが提供されている。
+  - [遅延評価](../Page/遅延評価.md "wikilink")のある関数型言語であるため、無限リストを扱え、標準ライブラリにそのためのクラスが提供されている。
   - [構文解析](../Page/構文解析.md "wikilink")のための、が標準ライブラリに入っている。
 
 ## 例
@@ -105,10 +105,10 @@ Martin Oderskyによると、Scala開発の動機は2つの仮説による。
 
 [Twitter](../Page/Twitter.md "wikilink")がバックエンドを[Ruby](../Page/Ruby.md "wikilink")からScalaに[2009年](../Page/2009年.md "wikilink")に移行した\[4\]のを初め、大型のソフトウェアでの利用例がいくつか存在する。
 
-  - [Foursquare](https://ja.wikipedia.org/wiki/Foursquare "wikilink")はScalaと[Lift](https://ja.wikipedia.org/wiki/Lift "wikilink")[フレームワークを利用している](https://ja.wikipedia.org/wiki/ソフトウェアフレームワーク "wikilink")\[5\]。（Liftは[Ruby on Rails類似の機能を持つScala上のフレームワーク](https://ja.wikipedia.org/wiki/Ruby_on_Rails "wikilink")）
-  - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の大手[新聞](../Page/新聞.md "wikilink")[ガーディアン](https://ja.wikipedia.org/wiki/ガーディアン "wikilink")は[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")ウェブサイトの運用を[Java](https://ja.wikipedia.org/wiki/Java "wikilink")からScalaに移行すると発表した。
+  - [Foursquare](https://ja.wikipedia.org/wiki/Foursquare "wikilink")はScalaと[Lift](https://ja.wikipedia.org/wiki/Lift "wikilink")[フレームワークを利用している](https://ja.wikipedia.org/wiki/ソフトウェアフレームワーク "wikilink")\[5\]。（Liftは[Ruby on Rails類似の機能を持つScala上のフレームワーク](../Page/Ruby_on_Rails.md "wikilink")）
+  - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の大手[新聞](../Page/新聞.md "wikilink")[ガーディアン](../Page/ガーディアン.md "wikilink")は[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")ウェブサイトの運用を[Java](https://ja.wikipedia.org/wiki/Java "wikilink")からScalaに移行すると発表した。
   - [LinkedIn](https://ja.wikipedia.org/wiki/LinkedIn "wikilink")
-  - [スイス銀行](https://ja.wikipedia.org/wiki/スイス銀行 "wikilink")
+  - [スイス銀行](../Page/スイス銀行.md "wikilink")
   - [ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")
   - [Apache Spark](https://ja.wikipedia.org/wiki/Apache_Spark "wikilink")
   - [スタディサプリ](https://ja.wikipedia.org/wiki/スタディサプリ "wikilink")
@@ -119,7 +119,7 @@ Martin Oderskyによると、Scala開発の動機は2つの仮説による。
 
   - [Java](https://ja.wikipedia.org/wiki/Java "wikilink")
   - [Java仮想マシン](../Page/Java仮想マシン.md "wikilink") (JVM)
-  - [Groovy](https://ja.wikipedia.org/wiki/Groovy "wikilink")
+  - [Groovy](../Page/Groovy.md "wikilink")
   - [Kotlin](https://ja.wikipedia.org/wiki/Kotlin "wikilink")
   - [Kojo](https://ja.wikipedia.org/wiki/Kojo "wikilink")
 
@@ -133,7 +133,7 @@ Martin Oderskyによると、Scala開発の動機は2つの仮説による。
   - [日本Scalaユーザーズグループ (ScalaJP)](http://jp.scala-users.org/)
   - [sbt — sbt Documentation](http://www.scala-sbt.org/) - ScalaおよびJava向けのビルドツール
 
-[Category:プログラミング言語](https://ja.wikipedia.org/wiki/Category:プログラミング言語 "wikilink") [Category:関数型言語](https://ja.wikipedia.org/wiki/Category:関数型言語 "wikilink") [Category:オブジェクト指向言語](https://ja.wikipedia.org/wiki/Category:オブジェクト指向言語 "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
+[Category:プログラミング言語](https://ja.wikipedia.org/wiki/Category:プログラミング言語 "wikilink") [Category:関数型言語](https://ja.wikipedia.org/wiki/Category:関数型言語 "wikilink") [Category:オブジェクト指向言語](https://ja.wikipedia.org/wiki/Category:オブジェクト指向言語 "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Java仮想マシンで動作するプログラミング言語](https://ja.wikipedia.org/wiki/Category:Java仮想マシンで動作するプログラミング言語 "wikilink")
 
 1.  [Scala: Martin Odersky, Scala -- the Simple Parts](https://www.youtube.com/watch?v=ecekSCX3B4Q:SF)
 2.  [The Scala Programming Language](https://www.scala-lang.org/)内Scara runs on...セクション

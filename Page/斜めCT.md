@@ -1,4 +1,4 @@
-> この記事は[CT](https://ja.wikipedia.org/wiki/CT)から翻訳されています。
+> この記事は[斜めCT](https://ja.wikipedia.org/wiki/斜めCT)から翻訳されています。
 
 
 **斜めCT**（ななめCT）とは、[X線](../Page/X線.md "wikilink")検査装置のうち傾斜[コーンビーム方式](https://ja.wikipedia.org/wiki/コーンビーム方式 "wikilink")を用いた[CT装置を指す](../Page/コンピュータ断層撮影.md "wikilink")。

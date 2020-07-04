@@ -1,7 +1,7 @@
-> この記事は[ Love Collection](https://ja.wikipedia.org/wiki/_Love_Collection)から翻訳されています。
+> この記事は[ラブ・コレ 東京Love Collection](https://ja.wikipedia.org/wiki/ラブ・コレ_東京Love_Collection)から翻訳されています。
 
 
-『**ラブ・コレ 東京Love Collection**』（ラブ・コレ とうきょうラブコレクション）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")から[5月26日](../Page/5月26日.md "wikilink")の期間、[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")無料[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")「[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」で[ネット配信](../Page/ネット配信.md "wikilink")された連続[ラブコメディ](https://ja.wikipedia.org/wiki/ラブコメディ "wikilink")・ドラマである。また、パート2が2006年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[12月22日](../Page/12月22日.md "wikilink")の期間、配信された。「1」は1話45分の全10話、「2」は1話30分の全8話で、毎週金曜日に新たに1話ずつ配信。「1」では[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、「2」では[国分佐智子](https://ja.wikipedia.org/wiki/国分佐智子 "wikilink")がそれぞれ主演している。
+『**ラブ・コレ 東京Love Collection**』（ラブ・コレ とうきょうラブコレクション）は、[2006年](../Page/2006年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")から[5月26日](../Page/5月26日.md "wikilink")の期間、[USEN](../Page/USEN.md "wikilink")無料[パソコン](../Page/パーソナルコンピュータ.md "wikilink")[テレビ](../Page/テレビ.md "wikilink")「[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」で[ネット配信](../Page/ネット配信.md "wikilink")された連続[ラブコメディ](../Page/ラブコメディ.md "wikilink")・ドラマである。また、パート2が2006年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")から[12月22日](../Page/12月22日.md "wikilink")の期間、配信された。「1」は1話45分の全10話、「2」は1話30分の全8話で、毎週金曜日に新たに1話ずつ配信。「1」では[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、「2」では[国分佐智子](https://ja.wikipedia.org/wiki/国分佐智子 "wikilink")がそれぞれ主演している。
 
 ## ラブ・コレ 東京Love Collection
 
@@ -12,18 +12,18 @@
 ### キャスト
 
   - 原彩果（24歳）：[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")
-  - 川野のりこ（24歳）：[星野真里](https://ja.wikipedia.org/wiki/星野真里 "wikilink")
-  - 鈴木夏樹（23歳）：[松本莉緒](https://ja.wikipedia.org/wiki/松本莉緒 "wikilink")
+  - 川野のりこ（24歳）：[星野真里](../Page/星野真里.md "wikilink")
+  - 鈴木夏樹（23歳）：[松本莉緒](../Page/松本莉緒.md "wikilink")
   - 高木まゆみ：[有坂来瞳](https://ja.wikipedia.org/wiki/有坂来瞳 "wikilink")
   - 赤塚たろう：[少路勇介](../Page/少路勇介.md "wikilink")
-  - 中村ジン：[川口覚](https://ja.wikipedia.org/wiki/川口覚 "wikilink")
-  - 沢村絵里：[柴田かよこ](https://ja.wikipedia.org/wiki/柴田かよこ "wikilink")
-  - オサム：[波岡一喜](https://ja.wikipedia.org/wiki/波岡一喜 "wikilink")
+  - 中村ジン：[川口覚](../Page/川口覚.md "wikilink")
+  - 沢村絵里：[柴田かよこ](../Page/柴田かよこ.md "wikilink")
+  - オサム：[波岡一喜](../Page/波岡一喜.md "wikilink")
   - 柏木：[松田一三](https://ja.wikipedia.org/wiki/松田一三 "wikilink")
   - 牧野：[薬師寺保栄](https://ja.wikipedia.org/wiki/薬師寺保栄 "wikilink")
   - 井上香苗：[矢部美穂](https://ja.wikipedia.org/wiki/矢部美穂 "wikilink")
-  - 山田みどり：[青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink")
-  - 甲斐優馬：[松尾敏伸](https://ja.wikipedia.org/wiki/松尾敏伸 "wikilink")
+  - 山田みどり：[青田典子](../Page/青田典子.md "wikilink")
+  - 甲斐優馬：[松尾敏伸](../Page/松尾敏伸.md "wikilink")
 
 ### スタッフ
 
@@ -44,11 +44,11 @@
   - 若月亜衣（30歳）：[国分佐智子](https://ja.wikipedia.org/wiki/国分佐智子 "wikilink")
   - 緒方さつき（30歳）：[畑野ひろ子](https://ja.wikipedia.org/wiki/畑野ひろ子 "wikilink")
   - 観音寺真紀（30歳）：[さとう珠緒](https://ja.wikipedia.org/wiki/さとう珠緒 "wikilink")
-  - 山崎真一：[小日向文世](https://ja.wikipedia.org/wiki/小日向文世 "wikilink")
-  - 山崎慶一：[斉藤祥太](https://ja.wikipedia.org/wiki/斉藤祥太 "wikilink")
+  - 山崎真一：[小日向文世](../Page/小日向文世.md "wikilink")
+  - 山崎慶一：[斉藤祥太](../Page/斉藤祥太.md "wikilink")
   - 坂下裕二：[金子貴俊](../Page/金子貴俊.md "wikilink")
   - ヒロ：[桐島優介](https://ja.wikipedia.org/wiki/桐島優介 "wikilink")
-  - 若月銀次朗：[高杉亘](https://ja.wikipedia.org/wiki/高杉亘 "wikilink")
+  - 若月銀次朗：[高杉亘](../Page/高杉亘.md "wikilink")
   - 伊藤香苗：[横山めぐみ](https://ja.wikipedia.org/wiki/横山めぐみ "wikilink")
   - 上田容子：[高野杏子](https://ja.wikipedia.org/wiki/高野杏子 "wikilink")
   - 若月路子：[千うらら](https://ja.wikipedia.org/wiki/千うらら "wikilink")
@@ -57,7 +57,7 @@
 
   - 脚本：[小野沢美暁](https://ja.wikipedia.org/wiki/小野沢美暁 "wikilink")、[山崎淳也](https://ja.wikipedia.org/wiki/山崎淳也 "wikilink")
   - 演出：[柿沼竹生](https://ja.wikipedia.org/wiki/柿沼竹生 "wikilink")、[日名子雅彦](https://ja.wikipedia.org/wiki/日名子雅彦 "wikilink")
-  - 主題歌：[Yum\!Yum\!ORANGE](https://ja.wikipedia.org/wiki/Yum!Yum!ORANGE "wikilink") 「Brand New Days」
+  - 主題歌：[Yum\!Yum\!ORANGE](../Page/Yum!Yum!ORANGE.md "wikilink") 「Brand New Days」
 
 ## DVD
 

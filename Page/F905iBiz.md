@@ -38,9 +38,9 @@ F903iBSCとは異なり、カメラは装備されている（後述の通り使
 
 ## 歴史
 
-  - [2007年](../Page/2007年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [電気通信端末機器審査協会](https://ja.wikipedia.org/wiki/電気通信端末機器審査協会 "wikilink") (JATE)通過
+  - [2007年](../Page/2007年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [電気通信端末機器審査協会](../Page/電気通信端末機器審査協会.md "wikilink") (JATE)通過
   - 2007年11月29日 - [技術基準適合証明](https://ja.wikipedia.org/wiki/技術基準適合証明 "wikilink") (TELEC) 通過
-  - 2007年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - [連邦通信委員会](https://ja.wikipedia.org/wiki/連邦通信委員会 "wikilink") (FCC) 通過
+  - 2007年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - [連邦通信委員会](../Page/連邦通信委員会.md "wikilink") (FCC) 通過
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月12日](../Page/2月12日.md "wikilink") - 開発発表
   - 2008年[2月20日](../Page/2月20日.md "wikilink") - 発売開始
 

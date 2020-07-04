@@ -1,39 +1,39 @@
-> この記事は[KEIRIN\'96](https://ja.wikipedia.org/wiki/KEIRIN\'96)から翻訳されています。
+> この記事は[KEIRINグランプリ\'96](https://ja.wikipedia.org/wiki/KEIRINグランプリ\'96)から翻訳されています。
 
 
-**KEIRINグランプリ'96**（けいりんぐらんぷりきゅうじゅうろく）は[1996年](../Page/1996年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](https://ja.wikipedia.org/wiki/立川競輪場 "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金6000万円（副賞込み）\[1\]。
+**KEIRINグランプリ'96**（けいりんぐらんぷりきゅうじゅうろく）は[1996年](../Page/1996年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")に[立川競輪場](../Page/立川競輪場.md "wikilink")で開催された[KEIRINグランプリ](../Page/KEIRINグランプリ.md "wikilink")である。優勝賞金6000万円（副賞込み）\[1\]。
 
 車券売上額は106億4770万8000円、入場者数は39,793人であった。
 
 ## 出場選手
 
-| 車番                                                                                                                                                          | 選手                                                      | 登録[都道府県](../Page/都道府県.md "wikilink")                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
-| 1                                                                                                                                                           | [神山雄一郎](https://ja.wikipedia.org/wiki/神山雄一郎 "wikilink") | [栃木](https://ja.wikipedia.org/wiki/栃木県 "wikilink")      |
-| 2                                                                                                                                                           | [児玉広志](../Page/児玉広志.md "wikilink")                      | [香川](../Page/香川県.md "wikilink")                         |
-| 3                                                                                                                                                           | [吉岡稔真](https://ja.wikipedia.org/wiki/吉岡稔真 "wikilink")   | [福岡](https://ja.wikipedia.org/wiki/福岡県 "wikilink")      |
-| 4                                                                                                                                                           | [松本整](https://ja.wikipedia.org/wiki/松本整 "wikilink")     | [京都](https://ja.wikipedia.org/wiki/京都府 "wikilink")      |
-| <span style="background-color:#fff;"><span style="color:#ffffff;">1</span><span style="color:#000000;">5</span><span style="color:#ffffff;">1</span></span> | [海田和裕](../Page/海田和裕.md "wikilink")                      | [三重](https://ja.wikipedia.org/wiki/三重県 "wikilink")      |
-| 6                                                                                                                                                           | [十文字貴信](https://ja.wikipedia.org/wiki/十文字貴信 "wikilink") | [茨城](https://ja.wikipedia.org/wiki/茨城県 "wikilink")      |
-| <span style="background-color:#000"><span style="color:#000000;">1</span><span style="color:#ffffff;">7</span><span style="color:#000000;">1</span></span>  | **[小橋正義](../Page/小橋正義.md "wikilink")**                  | [岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink")\[2\] |
-| 8                                                                                                                                                           | [三宅伸](https://ja.wikipedia.org/wiki/三宅伸 "wikilink")     | 岡山                                                      |
-| <span style="background-color:#f00;"><span style="color:#ff0000;">1</span><span style="color:#ffffff;">9</span><span style="color:#ff0000;">1</span></span> | [後閑信一](https://ja.wikipedia.org/wiki/後閑信一 "wikilink")   | [群馬](https://ja.wikipedia.org/wiki/群馬県 "wikilink")      |
+| 車番                                                                                                                                                          | 選手                                                  | 登録[都道府県](../Page/都道府県.md "wikilink")                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
+| 1                                                                                                                                                           | [神山雄一郎](../Page/神山雄一郎.md "wikilink")                | [栃木](https://ja.wikipedia.org/wiki/栃木県 "wikilink")      |
+| 2                                                                                                                                                           | [児玉広志](../Page/児玉広志.md "wikilink")                  | [香川](../Page/香川県.md "wikilink")                         |
+| 3                                                                                                                                                           | [吉岡稔真](../Page/吉岡稔真.md "wikilink")                  | [福岡](../Page/福岡県.md "wikilink")                         |
+| 4                                                                                                                                                           | [松本整](../Page/松本整.md "wikilink")                    | [京都](../Page/京都府.md "wikilink")                         |
+| <span style="background-color:#fff;"><span style="color:#ffffff;">1</span><span style="color:#000000;">5</span><span style="color:#ffffff;">1</span></span> | [海田和裕](../Page/海田和裕.md "wikilink")                  | [三重](https://ja.wikipedia.org/wiki/三重県 "wikilink")      |
+| 6                                                                                                                                                           | [十文字貴信](../Page/十文字貴信.md "wikilink")                | [茨城](../Page/茨城県.md "wikilink")                         |
+| <span style="background-color:#000"><span style="color:#000000;">1</span><span style="color:#ffffff;">7</span><span style="color:#000000;">1</span></span>  | **[小橋正義](../Page/小橋正義.md "wikilink")**              | [岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink")\[2\] |
+| 8                                                                                                                                                           | [三宅伸](https://ja.wikipedia.org/wiki/三宅伸 "wikilink") | 岡山                                                      |
+| <span style="background-color:#f00;"><span style="color:#ff0000;">1</span><span style="color:#ffffff;">9</span><span style="color:#ff0000;">1</span></span> | [後閑信一](../Page/後閑信一.md "wikilink")                  | [群馬](https://ja.wikipedia.org/wiki/群馬県 "wikilink")      |
 
 ## 競走内容
 
-[アトランタオリンピックで銅メダルを獲得した十文字が特例](https://ja.wikipedia.org/wiki/1996年アトランタオリンピック "wikilink")\[3\]で出場、またその十文字を同じくアトランタオリンピックに出場した神山がマークするということで、**アトランタ[ライン](https://ja.wikipedia.org/wiki/ライン_\(競輪\) "wikilink")**の結成が話題となった。
+[アトランタオリンピックで銅メダルを獲得した十文字が特例](https://ja.wikipedia.org/wiki/1996年アトランタオリンピック "wikilink")\[3\]で出場、またその十文字を同じくアトランタオリンピックに出場した神山がマークするということで、**アトランタ[ライン](../Page/ライン_\(競輪\).md "wikilink")**の結成が話題となった。
 
-このレース、神山が圧倒的な人気を集め、車番連勝単式の最終[オッズ](https://ja.wikipedia.org/wiki/オッズ "wikilink")の1番人気は1-9で5.0倍、2番人気は1-3で10.1倍、3番人気は1-2で10.5倍であった。
+このレース、神山が圧倒的な人気を集め、車番連勝単式の最終[オッズ](../Page/オッズ.md "wikilink")の1番人気は1-9で5.0倍、2番人気は1-3で10.1倍、3番人気は1-2で10.5倍であった。
 
 選手紹介での並びは、十文字 - 神山のアトランタラインに後閑が3番手を固め、その後ろに単騎の児玉が追走。この他、三宅 - 小橋の同県ライン、単騎の吉岡をこれも単騎だった松本がマークして出来た九近即席ラインに、中近ラインを組めなかった海田は単騎の自力勝負を選択、といった流れに。
 
 スタートは十文字が取る。3周目までに誘導員の後ろは、十文字 - 神山 - 後閑 - 児玉 - 吉岡 - 松本 - 海田 - 三宅 - 小橋 で落ち着く。
 
-赤板（残り2周）あたりで三宅が動き出し、内に包まれた十文字は一旦下がって態勢を立て直す。[打鐘](https://ja.wikipedia.org/wiki/打鐘 "wikilink")が入って（残り1周半）十文字が先行態勢に入り、最終HS（残り1周）では外の十文字と内の三宅の叩きあいとなって、その外を吉岡が捲る形に。1センター（残り3/4周）あたりで十文字が主導権を握るも、最終BS（残り半周）で外からの吉岡の捲りに併せて神山が番手捲りを打つ。このとき小橋は神山の番手にもぐりこむ。
+赤板（残り2周）あたりで三宅が動き出し、内に包まれた十文字は一旦下がって態勢を立て直す。[打鐘](../Page/打鐘.md "wikilink")が入って（残り1周半）十文字が先行態勢に入り、最終HS（残り1周）では外の十文字と内の三宅の叩きあいとなって、その外を吉岡が捲る形に。1センター（残り3/4周）あたりで十文字が主導権を握るも、最終BS（残り半周）で外からの吉岡の捲りに併せて神山が番手捲りを打つ。このとき小橋は神山の番手にもぐりこむ。
 
 問題はここからで、2センター（残り1/4周）から最終4角（残り1/8周）にかけて、大量落車が発生する。
 
-2センターの時点で神山が抜け出し、後を小橋が追う展開に。その後ろで吉岡が懸命の追走、続いて外から松本・児玉・十文字がほぼ併走状態、次に外から海田・三宅がほぼ並び、最後に後閑、となった。ちょうど2センター過ぎたあたりで十文字が急にバランスを崩して落車、そのあおりでほぼ真横の児玉・松本も[ドミノ倒し](https://ja.wikipedia.org/wiki/ドミノ倒し "wikilink")のように落車、さらに松本の前輪が吉岡の後輪に接触し吉岡も落車、三宅も松本の落車のあおりを食らって落車、海田も避け切れず乗り上げ落車…と、4角あたりで6人が落車するという、グランプリ史上前代未聞の展開となった。
+2センターの時点で神山が抜け出し、後を小橋が追う展開に。その後ろで吉岡が懸命の追走、続いて外から松本・児玉・十文字がほぼ併走状態、次に外から海田・三宅がほぼ並び、最後に後閑、となった。ちょうど2センター過ぎたあたりで十文字が急にバランスを崩して落車、そのあおりでほぼ真横の児玉・松本も[ドミノ倒し](../Page/ドミノ倒し.md "wikilink")のように落車、さらに松本の前輪が吉岡の後輪に接触し吉岡も落車、三宅も松本の落車のあおりを食らって落車、海田も避け切れず乗り上げ落車…と、4角あたりで6人が落車するという、グランプリ史上前代未聞の展開となった。
 
 落車発生の時点で4角を過ぎていた神山と小橋の[一騎討ち](../Page/一騎討ち.md "wikilink")となり、最後は小橋が差し切って優勝。2着は神山、3着はしんがりを走っていたため大外を避けて周って落車を免れた後閑、となった。
 
@@ -43,17 +43,17 @@
 
 ## 競走結果
 
-| 着順 | 選手                                                      | [決まり手](../Page/決まり手.md "wikilink") | 上がりタイム・着差 |
-| -- | ------------------------------------------------------- | ---------------------------------- | --------- |
-| 1  | **[小橋正義](../Page/小橋正義.md "wikilink")**                  | 差                                  | 11秒5      |
-| 2  | [神山雄一郎](https://ja.wikipedia.org/wiki/神山雄一郎 "wikilink") | 捲                                  | 1輪        |
-| 3  | [後閑信一](https://ja.wikipedia.org/wiki/後閑信一 "wikilink")   |                                    | 大差        |
-| 4  | [吉岡稔真](https://ja.wikipedia.org/wiki/吉岡稔真 "wikilink")   |                                    | （落車再入）    |
-| 棄  | [児玉広志](../Page/児玉広志.md "wikilink")                      |                                    | （落車）      |
-| 棄  | [海田和裕](../Page/海田和裕.md "wikilink")                      |                                    | （落車）      |
-| 棄  | [十文字貴信](https://ja.wikipedia.org/wiki/十文字貴信 "wikilink") |                                    | （落車）      |
-| 棄  | [三宅伸](https://ja.wikipedia.org/wiki/三宅伸 "wikilink")     |                                    | （落車）      |
-| 失  | [松本整](https://ja.wikipedia.org/wiki/松本整 "wikilink")     |                                    | （落車）      |
+| 着順 | 選手                                                  | [決まり手](../Page/決まり手.md "wikilink") | 上がりタイム・着差 |
+| -- | --------------------------------------------------- | ---------------------------------- | --------- |
+| 1  | **[小橋正義](../Page/小橋正義.md "wikilink")**              | 差                                  | 11秒5      |
+| 2  | [神山雄一郎](../Page/神山雄一郎.md "wikilink")                | 捲                                  | 1輪        |
+| 3  | [後閑信一](../Page/後閑信一.md "wikilink")                  |                                    | 大差        |
+| 4  | [吉岡稔真](../Page/吉岡稔真.md "wikilink")                  |                                    | （落車再入）    |
+| 棄  | [児玉広志](../Page/児玉広志.md "wikilink")                  |                                    | （落車）      |
+| 棄  | [海田和裕](../Page/海田和裕.md "wikilink")                  |                                    | （落車）      |
+| 棄  | [十文字貴信](../Page/十文字貴信.md "wikilink")                |                                    | （落車）      |
+| 棄  | [三宅伸](https://ja.wikipedia.org/wiki/三宅伸 "wikilink") |                                    | （落車）      |
+| 失  | [松本整](../Page/松本整.md "wikilink")                    |                                    | （落車）      |
 
 ### 配当金額
 
@@ -69,6 +69,9 @@
 ## エピソード
 
   - 翌日の[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")各紙には、『グ"乱"プリ』・『大波乱』・『転倒、転倒、転倒』・『大量落車』といった大見出しが踊り\[7\]、中には1面で取り扱った新聞もあった。
+
+<!-- end list -->
+
   - 車券売上額が初めて100億円を突破した大会であり、現在まで1レースの売上額としても唯一の100億円超えかつ過去最高ともなっている。
       - 10億6443万7900円 - 本場
 
@@ -96,7 +99,7 @@
 
 1.  [十文字 コケちゃった](http://cache.yahoofs.jp/search/cache?c=qRBhvEW_O8QJ&p=1996&u=www.idolreport.jp/ad/keirin/keiringp08/playback/1996/index.html)（[アーカイブ](http://archive.is/oOevu)）
 2.  小橋は当時岡山。後に[新潟に転籍](../Page/新潟県.md "wikilink")。
-3.  KEIRINグランプリでは、当年における[世界選手権自転車競技大会](https://ja.wikipedia.org/wiki/世界選手権自転車競技大会 "wikilink")や[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")での自転車[トラックレース](https://ja.wikipedia.org/wiki/トラックレース "wikilink")競技における個人種目成績優秀者（メダリスト）にも出場資格が与えられることがある。
+3.  KEIRINグランプリでは、当年における[世界選手権自転車競技大会](../Page/世界選手権自転車競技大会.md "wikilink")や[夏季オリンピック](../Page/夏季オリンピック.md "wikilink")での自転車[トラックレース](../Page/トラックレース.md "wikilink")競技における個人種目成績優秀者（メダリスト）にも出場資格が与えられることがある。
 4.  そのまま途中棄権すると賞金が20%減額されることや、完走した選手が3人しかおらず4着賞金700万円が手に入る可能性があったため。
 5.  全員ゴール線前で形だけ自転車に乗りゴール線を跨いだものの、特に三宅の車体は大きく破損しており、とても漕げるような代物ではなくなっていた。
 6.  この冷静な判断で吉岡は4着賞金700万円を獲得、178,409,511円でこの年の賞金王に君臨している。ちなみに、優勝した小橋には副賞込みで賞金6千万円が贈られている。

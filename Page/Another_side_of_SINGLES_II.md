@@ -1,7 +1,7 @@
 > この記事は[Another side of SINGLES II](https://ja.wikipedia.org/wiki/Another_side_of_SINGLES_II)から翻訳されています。
 
 
-**another side of SINGLES II**（アナザー・サイド・オブ・シングルス・ツー）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")3枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")発売。
+**another side of SINGLES II**（アナザー・サイド・オブ・シングルス・ツー）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")3枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")発売。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **この世界の果てで**
       -

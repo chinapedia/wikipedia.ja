@@ -23,7 +23,7 @@
   - **Rosa**
       - [DANCE BOX](https://ja.wikipedia.org/wiki/DANCE_BOX "wikilink") - Remix Version
       - [Miho's Select](../Page/Miho's_Select.md "wikilink") - Album Version
-      - [COLLECTION III](https://ja.wikipedia.org/wiki/COLLECTION_III "wikilink")
+      - [COLLECTION III](../Page/COLLECTION_III.md "wikilink")
       - [TREASURY](../Page/TREASURY.md "wikilink")
       - [Complete SINGLES BOX](https://ja.wikipedia.org/wiki/Complete_SINGLES_BOX "wikilink")
       - R40本命アイドル（オムニバスアルバム）

@@ -1,13 +1,13 @@
-> この記事は[RF](https://ja.wikipedia.org/wiki/RF)から翻訳されています。
+> この記事は[RF接続](https://ja.wikipedia.org/wiki/RF接続)から翻訳されています。
 
 
-**RF接続**（RFせつぞく）とは複数の[通信機器](../Page/通信機器.md "wikilink")を接続する場合、[ベースバンド](https://ja.wikipedia.org/wiki/ベースバンド "wikilink")（基底帯域）ではなく[変調後のRF帯域にて接続することである](../Page/変調方式.md "wikilink")。RFとは[高周波](https://ja.wikipedia.org/wiki/高周波 "wikilink")（Radio Frequency）信号のことである。ここでは、映像機器の商品用語であるRF接続について解説する。
+**RF接続**（RFせつぞく）とは複数の[通信機器](../Page/通信機器.md "wikilink")を接続する場合、[ベースバンド](https://ja.wikipedia.org/wiki/ベースバンド "wikilink")（基底帯域）ではなく[変調後のRF帯域にて接続することである](../Page/変調方式.md "wikilink")。RFとは[高周波](../Page/高周波.md "wikilink")（Radio Frequency）信号のことである。ここでは、映像機器の商品用語であるRF接続について解説する。
 
 ## 概要
 
 映像機器を[テレビ受像機](../Page/テレビ受像機.md "wikilink")に接続する方法のひとつで、[テレビ放送](https://ja.wikipedia.org/wiki/テレビ放送 "wikilink")と同じ形式の映像信号をテレビ放送と同じ形式で変調したRF信号をテレビ受像機の[アンテナ](../Page/アンテナ.md "wikilink")入力から[チューナー](https://ja.wikipedia.org/wiki/チューナー "wikilink")を通して放送チャンネルのひとつのように表示させるものである。
 
-外部入力端子を備えないテレビ受像機が一般的だったころに、[ビデオテープレコーダー](https://ja.wikipedia.org/wiki/ビデオテープレコーダー "wikilink")（ビデオデッキ）・[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")機・[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（パソコン）などの映像機器を接続するのに利用された。これらの映像機器の多くは映像信号を[VHFアナログテレビ放送の](../Page/超短波.md "wikilink")[1ch（チャンネル）または](https://ja.wikipedia.org/wiki/1チャンネル "wikilink")[2chと同じ形式にする](https://ja.wikipedia.org/wiki/2チャンネル "wikilink")[RF変調器](../Page/変調方式.md "wikilink")（RFモジュレータ）を内蔵しており、その出力は放送[電波](../Page/電波.md "wikilink")と[混合されてテレビ受像機のアンテナ入力に接続された](https://ja.wikipedia.org/wiki/混合器 "wikilink")。RF接続のための出力端子は[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")と呼ばれ、端子形状としては[RCA端子](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")やF型端子を使用するものが多い。テレビ受像機に外部入力端子を装備するのが一般的になるにつれて映像機器にRF端子が付くことは少なくなったが、オプションとしてRF変調器が販売されることもある。RF接続のための出力チャンネルについては[衛星放送](../Page/衛星放送.md "wikilink")チューナーなど、13ch～15chに変換するものもある。
+外部入力端子を備えないテレビ受像機が一般的だったころに、[ビデオテープレコーダー](https://ja.wikipedia.org/wiki/ビデオテープレコーダー "wikilink")（ビデオデッキ）・[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")機・[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（パソコン）などの映像機器を接続するのに利用された。これらの映像機器の多くは映像信号を[VHFアナログテレビ放送の](../Page/超短波.md "wikilink")[1ch（チャンネル）または](https://ja.wikipedia.org/wiki/1チャンネル "wikilink")[2chと同じ形式にする](https://ja.wikipedia.org/wiki/2チャンネル "wikilink")[RF変調器](../Page/変調方式.md "wikilink")（RFモジュレータ）を内蔵しており、その出力は放送[電波](../Page/電波.md "wikilink")と[混合されてテレビ受像機のアンテナ入力に接続された](../Page/混合器.md "wikilink")。RF接続のための出力端子は[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")と呼ばれ、端子形状としては[RCA端子](../Page/RCA端子.md "wikilink")やF型端子を使用するものが多い。テレビ受像機に外部入力端子を装備するのが一般的になるにつれて映像機器にRF端子が付くことは少なくなったが、オプションとしてRF変調器が販売されることもある。RF接続のための出力チャンネルについては[衛星放送](../Page/衛星放送.md "wikilink")チューナーなど、13ch～15chに変換するものもある。
 
 この接続を利用してアンテナとブースターやテレビ用のアンテナ分配器を使用すれば、容易に複数のテレビに映像と音声を分配することが可能。その為、学校の校内放送などで使われている。
 
@@ -30,8 +30,8 @@
   - [レーザーアクティブ](../Page/レーザーアクティブ.md "wikilink")（RFモジュレータJA-RF3Lで対応）
   - [PC-FX](../Page/PC-FX.md "wikilink")（商品名は調査中。端子形状はレーザーアクティブと同じ）
   - [セガサターン](../Page/セガサターン.md "wikilink")（RFユニットHSS-0110で対応）
-  - [ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")・[ネオジオCD](https://ja.wikipedia.org/wiki/ネオジオCD "wikilink")（RFコンバータFCG-8で対応）
-  - [PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")・[PS one](../Page/PS_one.md "wikilink")・[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（RFUケーブルSCPH-1060（初期型PS専用）・RFUアダプターキットSCPH-1120・SCPH-10070\[3\]）で対応）
+  - [ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")・[ネオジオCD](../Page/ネオジオCD.md "wikilink")（RFコンバータFCG-8で対応）
+  - [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")・[PS one](../Page/PS_one.md "wikilink")・[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")（RFUケーブルSCPH-1060（初期型PS専用）・RFUアダプターキットSCPH-1120・SCPH-10070\[3\]）で対応）
   - [Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")（RFアダプタで対応）
   - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")（RFアダプタHKT-8820で対応。日本未発売）
 

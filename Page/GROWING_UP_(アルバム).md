@@ -27,11 +27,11 @@
 7.  **GROOVY CREW**　
       -
         作詞：Hi-STANDARD / 作曲：ジョン・フォガティ
-8.  **SATURDAY NIGHT**　
+8.  **[SATURDAY NIGHT](https://ja.wikipedia.org/wiki/サタデー・ナイト "wikilink")**　
       -
         作詞：Bill Martin Phil Coulter / 作曲：Bill Martin Phil Coulter
         [ベイ・シティ・ローラーズ](../Page/ベイ・シティ・ローラーズ.md "wikilink")のカバー。
-9.  **CALIFORNIA DREAMIN**'　
+9.  **[CALIFORNIA DREAMIN'](https://ja.wikipedia.org/wiki/夢のカリフォルニア_\(曲\) "wikilink")**　
       -
         作詞：Michele Gillian John Phillips / 作曲：Michele Gillian John Phillips
         [ママス&パパス](../Page/ママス&パパス.md "wikilink")のカバー。

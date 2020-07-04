@@ -1,9 +1,9 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[月は無慈悲な夜の女王 \(TRPGリプレイ\)](https://ja.wikipedia.org/wiki/月は無慈悲な夜の女王_\(TRPGリプレイ\))から翻訳されています。
 
 
-**月は無慈悲な夜の女王**（つきはむじひなよるのじょおう）は[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")(TRPG)『[ナイトウィザード](https://ja.wikipedia.org/wiki/ナイトウィザード "wikilink")』の[リプレイ作品](https://ja.wikipedia.org/wiki/リプレイ_\(TRPG\) "wikilink")。2008年2月に発売されたナイトウィザードのファンブック『フライ・ミー・トゥ・ザ・ムーン』に書き下ろし作品として掲載された。
+**月は無慈悲な夜の女王**（つきはむじひなよるのじょおう）は[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")(TRPG)『[ナイトウィザード](../Page/ナイトウィザード.md "wikilink")』の[リプレイ作品](../Page/リプレイ_\(TRPG\).md "wikilink")。2008年2月に発売されたナイトウィザードのファンブック『フライ・ミー・トゥ・ザ・ムーン』に書き下ろし作品として掲載された。
 
-リプレイの執筆は[ゲームマスター](https://ja.wikipedia.org/wiki/ゲームマスター "wikilink")でもある[伊藤和幸](https://ja.wikipedia.org/wiki/伊藤和幸 "wikilink")が担当。イラスト担当は[みかきみかこ](../Page/みかきみかこ.md "wikilink")と真琴。
+リプレイの執筆は[ゲームマスター](../Page/ゲームマスター.md "wikilink")でもある[伊藤和幸](https://ja.wikipedia.org/wiki/伊藤和幸 "wikilink")が担当。イラスト担当は[みかきみかこ](../Page/みかきみかこ.md "wikilink")と真琴。
 
 ## 概要
 
@@ -11,11 +11,11 @@
 
 このボイスドラマ「無常の月」はリプレイ「月は無慈悲な夜の女王」を原作とし、その登場人物の一人「月代一臣」をメインにリプレイの物語に月代の過去の描写が追加されている形になっている。本項目ではこのボイスドラマについても併せて解説する。
 
-リプレイのプレイヤーは前作のファンブックから[声優](../Page/声優.md "wikilink")の[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")、[F.E.A.R.の](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")[菊池たけし](https://ja.wikipedia.org/wiki/菊池たけし "wikilink")、それに[ナイトウィザード The ANIMATIONで志宝エリスを演じた](https://ja.wikipedia.org/wiki/ナイトウィザード_The_ANIMATION "wikilink")[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")、菊池と同じくF.E.A.Rの[遠藤卓司](../Page/遠藤卓司.md "wikilink")である。
+リプレイのプレイヤーは前作のファンブックから[声優](../Page/声優.md "wikilink")の[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")、[F.E.A.R.の](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")[菊池たけし](../Page/菊池たけし.md "wikilink")、それに[ナイトウィザード The ANIMATIONで志宝エリスを演じた](https://ja.wikipedia.org/wiki/ナイトウィザード_The_ANIMATION "wikilink")[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")、菊池と同じくF.E.A.Rの[遠藤卓司](../Page/遠藤卓司.md "wikilink")である。
 
 また、発売が延期になった「[愛はさだめ、さだめは死](https://ja.wikipedia.org/wiki/愛はさだめ、さだめは死_\(TRPGリプレイ\) "wikilink")」やルール体系は同じでもアニメの物語を背景にした[ナイトウィザード The ANIMATIONのDVD限定版に収録されているリプレイ](https://ja.wikipedia.org/wiki/ナイトウィザード_The_ANIMATION "wikilink")「[ベル・ゲーム 〜虚像のエコー〜](https://ja.wikipedia.org/wiki/ベル・ゲーム_〜虚像のエコー〜 "wikilink")」とは違って、2ndの世界観（マジカルウォーフェア後の世界）を元にした事実上の最初のリプレイである。
 
-本作のタイトルは[ロバート・A・ハインライン](../Page/ロバート・A・ハインライン.md "wikilink")の[SF小説](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[月は無慈悲な夜の女王](https://ja.wikipedia.org/wiki/月は無慈悲な夜の女王 "wikilink")』から取られている。
+本作のタイトルは[ロバート・A・ハインライン](../Page/ロバート・A・ハインライン.md "wikilink")の[SF小説](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")『[月は無慈悲な夜の女王](../Page/月は無慈悲な夜の女王.md "wikilink")』から取られている。
 
 ## あらすじ
 
@@ -29,8 +29,8 @@
 
 なお、各キャラクターの総合レベルは1であり、全てウィザードクラスLv.1、スタイルクラスLv.0となっている。
 
-  - 蘭堂舞（らんどう まい、[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")）
-    [ウィザードクラス](https://ja.wikipedia.org/wiki/キャラクタークラス "wikilink")：転生者
+  - 蘭堂舞（らんどう まい、[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")）
+    [ウィザードクラス](../Page/キャラクタークラス.md "wikilink")：転生者
     スタイルクラス：アタッカー
     [PC番号](https://ja.wikipedia.org/wiki/ハンドアウト#PC番号 "wikilink")：PC1
     属性：〈火〉 / 〈冥〉
@@ -53,7 +53,7 @@
     解説：輝明学園秋葉原校高等部に通う高校2年生、17歳の少女。以前はお嬢様\[1\]だったため上品な振る舞いをする。しかし、8年前に両親をゴルスに殺害される。その仇を討つために魔王リオン＝グンタと契約、魔王を使役する力を得る。
     終盤、魔王アゼル＝イブリス（百合子のプレイヤーである植田自身が声をあてている）の力を用いてゴルスを討ち、本懐を遂げた。
     両親の友人で命の恩人でもある月代一臣を「おじさま」と慕い敬っている。リプレイでは描写がほぼなかったが、ボイスドラマにおいては月代に慕情を抱いていることが語られている。
-  - 十文字冴絵（じゅうもんじ さえ、[菊池たけし](https://ja.wikipedia.org/wiki/菊池たけし "wikilink")）
+  - 十文字冴絵（じゅうもんじ さえ、[菊池たけし](../Page/菊池たけし.md "wikilink")）
     ウィザードクラス：聖職者
     スタイルクラス：[ヒーラー](https://ja.wikipedia.org/wiki/ヒーラー "wikilink")
     PC番号：PC4
@@ -65,7 +65,7 @@
 
 ### ノンプレイヤーキャラクター
 
-[GMが操作するキャラクター](https://ja.wikipedia.org/wiki/ゲームマスター "wikilink")。[NPC](https://ja.wikipedia.org/wiki/ノンプレイヤーキャラクター "wikilink")。
+[GMが操作するキャラクター](../Page/ゲームマスター.md "wikilink")。[NPC](../Page/ノンプレイヤーキャラクター.md "wikilink")。
 
   - 朔野美景（さくの みかげ）
     輝明学園秋葉原校高等部に通う高校1年生で、蘭堂舞の幼馴染。凛華の転生体の一人。
@@ -103,27 +103,27 @@
 ### キャスト
 
   - 月代一臣（[古谷徹](../Page/古谷徹.md "wikilink")）
-  - 蘭堂舞（[宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")）
-  - 朔野美景（[清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")）
+  - 蘭堂舞（[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")）
+  - 朔野美景（[清水香里](../Page/清水香里.md "wikilink")）
   - 神宮寺百合子（[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")）
-  - 十文字冴絵（[明坂聡美](https://ja.wikipedia.org/wiki/明坂聡美 "wikilink")）
-  - リオン＝グンタ（[柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")）
-  - ゴルス（[矢薙直樹](https://ja.wikipedia.org/wiki/矢薙直樹 "wikilink")）
+  - 十文字冴絵（[明坂聡美](../Page/明坂聡美.md "wikilink")）
+  - リオン＝グンタ（[柚木涼香](../Page/柚木涼香.md "wikilink")）
+  - ゴルス（[矢薙直樹](../Page/矢薙直樹.md "wikilink")）
   - ハーティ（村上歌菜）
-  - 凛華（[清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")）
+  - 凛華（[清水香里](../Page/清水香里.md "wikilink")）
   - アンゼロット（[小暮英麻](../Page/小暮英麻.md "wikilink")）
   - 神宮寺涼（[影平隆一](../Page/影平隆一.md "wikilink")）
-  - 柊蓮司（[矢薙直樹](https://ja.wikipedia.org/wiki/矢薙直樹 "wikilink")）
+  - 柊蓮司（[矢薙直樹](../Page/矢薙直樹.md "wikilink")）
   - 緋室灯（[小暮英麻](../Page/小暮英麻.md "wikilink")）
 
 #### こぼれ話
 
-  - 月代一臣のCVに古谷徹がキャスティングされている理由としては、前々作のファンブック「[パワー・オブ・ラブ](https://ja.wikipedia.org/wiki/愚者の楽園 "wikilink")」で[池田秀一](../Page/池田秀一.md "wikilink")をキャスティングしたこと、F.E.A.R製のTRPG「[トーキョーN◎VA](../Page/トーキョーN◎VA.md "wikilink")」のドラマCDに出演した（ちなみに植田佳奈が前作ファンブック「[リーチ・フォー・ザ・スターズ](../Page/最果てで君を待つ扉.md "wikilink")」でリプレイのプレイヤーとドラマCDの出演をオファーされた理由も、「トーキョーN◎VA」のドラマCDに参加したことが理由の一つとして上げられている）こと、かつて「[おこんないでね](https://ja.wikipedia.org/wiki/おこんないでね "wikilink")」（著：[田中としひさ](https://ja.wikipedia.org/wiki/田中としひさ "wikilink")/出版:[アスキー](../Page/アスキー_\(企業\).md "wikilink")）というTRPGのドキュメンタリーコミックの企画で[機動戦士ガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム "wikilink")のTRPGをプレイしたことがある（このときの古谷は「いいですよ。でも僕[シャアやりますからね](https://ja.wikipedia.org/wiki/シャア・アズナブル "wikilink")」と宣言し、実際にシャア・アズナブルのPLとしてプレイしていた）ことなどが上げられている。
-  - 朔野美景と凛華の武器が[レーヴァテイン](https://ja.wikipedia.org/wiki/レーヴァテイン "wikilink")であるため、CVとしてキャスティングされた清水香里から「剣の名前…レーヴァテインって言葉でいいんですよね？」と質問された菊池たけしが動揺したと収録のレポートマンガ（作：[みかきみかこ](../Page/みかきみかこ.md "wikilink")）に描かれている。これは「[魔法少女リリカルなのはシリーズ](../Page/魔法少女リリカルなのはシリーズ.md "wikilink")」において、清水がCVを勤める[シグナムが同名異音の武器](https://ja.wikipedia.org/wiki/ヴォルケンリッター#シグナム "wikilink")「レヴァンティン」を使用するためである。この一件は[ふぃあ通](https://ja.wikipedia.org/wiki/ふぃあ通 "wikilink")でも話のネタにされ、菊池は当惑していた。後に菊池はこの事に付いて「フライ・ミー・トゥ・ザ・ムーン」の注釈で「わかる人にはわかる惨劇」「ほんとに恥ずかしかった」と振り返り、ファンブック「[オペレーション・ケイオス](https://ja.wikipedia.org/wiki/聖なる夜に小さな願いを "wikilink")」の後書きでも、冥刻王メイオルティスのCVに[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")を起用した経緯に触れたくだりで（清水及び「なのは」の名こそ伏せているものの）この出来事に触れている。
+  - 月代一臣のCVに古谷徹がキャスティングされている理由としては、前々作のファンブック「[パワー・オブ・ラブ](../Page/愚者の楽園.md "wikilink")」で[池田秀一](../Page/池田秀一.md "wikilink")をキャスティングしたこと、F.E.A.R製のTRPG「[トーキョーN◎VA](../Page/トーキョーN◎VA.md "wikilink")」のドラマCDに出演した（ちなみに植田佳奈が前作ファンブック「[リーチ・フォー・ザ・スターズ](../Page/最果てで君を待つ扉.md "wikilink")」でリプレイのプレイヤーとドラマCDの出演をオファーされた理由も、「トーキョーN◎VA」のドラマCDに参加したことが理由の一つとして上げられている）こと、かつて「[おこんないでね](https://ja.wikipedia.org/wiki/おこんないでね "wikilink")」（著：[田中としひさ](https://ja.wikipedia.org/wiki/田中としひさ "wikilink")/出版:[アスキー](../Page/アスキー_\(企業\).md "wikilink")）というTRPGのドキュメンタリーコミックの企画で[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")のTRPGをプレイしたことがある（このときの古谷は「いいですよ。でも僕[シャアやりますからね](../Page/シャア・アズナブル.md "wikilink")」と宣言し、実際にシャア・アズナブルのPLとしてプレイしていた）ことなどが上げられている。
+  - 朔野美景と凛華の武器が[レーヴァテイン](../Page/レーヴァテイン.md "wikilink")であるため、CVとしてキャスティングされた清水香里から「剣の名前…レーヴァテインって言葉でいいんですよね？」と質問された菊池たけしが動揺したと収録のレポートマンガ（作：[みかきみかこ](../Page/みかきみかこ.md "wikilink")）に描かれている。これは「[魔法少女リリカルなのはシリーズ](../Page/魔法少女リリカルなのはシリーズ.md "wikilink")」において、清水がCVを勤める[シグナムが同名異音の武器](https://ja.wikipedia.org/wiki/ヴォルケンリッター#シグナム "wikilink")「レヴァンティン」を使用するためである。この一件は[ふぃあ通](../Page/ふぃあ通.md "wikilink")でも話のネタにされ、菊池は当惑していた。後に菊池はこの事に付いて「フライ・ミー・トゥ・ザ・ムーン」の注釈で「わかる人にはわかる惨劇」「ほんとに恥ずかしかった」と振り返り、ファンブック「[オペレーション・ケイオス](https://ja.wikipedia.org/wiki/聖なる夜に小さな願いを "wikilink")」の後書きでも、冥刻王メイオルティスのCVに[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")を起用した経緯に触れたくだりで（清水及び「なのは」の名こそ伏せているものの）この出来事に触れている。
 
 ### スタッフ
 
-  - 原作・監修 - [菊池たけし](https://ja.wikipedia.org/wiki/菊池たけし "wikilink")([F.E.A.R.](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink"))
+  - 原作・監修 - [菊池たけし](../Page/菊池たけし.md "wikilink")([F.E.A.R.](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink"))
   - 脚本 - [丹藤武敏](https://ja.wikipedia.org/wiki/丹藤武敏 "wikilink")、[伊藤和幸](https://ja.wikipedia.org/wiki/伊藤和幸 "wikilink")(F.E.A.R.)
   - 音響監督 - 関根奈美(ドリーム・フォース)
   - エンジニア - 成田一明
@@ -136,12 +136,12 @@
   - 音響制作 - ドリームフォース
   - プロデューサー - 菊池たけし(F.E.A.R.)、矢薙直樹(フリーマーチ)
   - 進行管理 - 菊池たけし（F.E.A.R.）
-  - 製作 - [ファーイースト・アミューズメント・リサーチ](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")
+  - 製作 - [ファーイースト・アミューズメント・リサーチ](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")
 
 ### 主題歌
 
   - オープニングテーマ『FLY INTO THE NIGHT』
-    作詞：[江幡育子](https://ja.wikipedia.org/wiki/江幡育子 "wikilink")([ZIZZ STUDIO](https://ja.wikipedia.org/wiki/ZIZZ_STUDIO "wikilink"))／作曲：[磯江俊道](https://ja.wikipedia.org/wiki/磯江俊道 "wikilink")(ZIZZ STUDIO)／歌：[小暮英麻](../Page/小暮英麻.md "wikilink")
+    作詞：[江幡育子](https://ja.wikipedia.org/wiki/江幡育子 "wikilink")([ZIZZ STUDIO](../Page/ZIZZ_STUDIO.md "wikilink"))／作曲：[磯江俊道](../Page/磯江俊道.md "wikilink")(ZIZZ STUDIO)／歌：[小暮英麻](../Page/小暮英麻.md "wikilink")
   - エンディングテーマ『月衣』
     作詞：[いとうかなこ](https://ja.wikipedia.org/wiki/いとうかなこ "wikilink")／作曲：磯江俊道(ZIZZ STUDIO)／歌：いとうかなこ
 
@@ -151,8 +151,8 @@
 
 ## 関連項目
 
-  - [菊池たけし](https://ja.wikipedia.org/wiki/菊池たけし "wikilink")
-  - [ナイトウィザード](https://ja.wikipedia.org/wiki/ナイトウィザード "wikilink")
+  - [菊池たけし](../Page/菊池たけし.md "wikilink")
+  - [ナイトウィザード](../Page/ナイトウィザード.md "wikilink")
 
 [Category:ナイトウィザードのリプレイ](https://ja.wikipedia.org/wiki/Category:ナイトウィザードのリプレイ "wikilink")
 

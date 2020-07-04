@@ -124,7 +124,7 @@
 ## 外部リンク
 
   - ランティス紹介ページ
-      - [オリジナルサウンドトラック「ソウキュウノハテ」](http://lantis.jp/new-release/data.php?id=c84446c5d558dac3fb1eb4b3bc6343ba)
-      - [キャラクターイメージソングアルバム「oratorio」](http://lantis.jp/new-release/data.php?id=d194d63e5d239064d79faac9e7dccf46)
+      - [オリジナルサウンドトラック「ソウキュウノハテ」](https://www.lantis.jp/release-item/LACA-5644.html)
+      - [キャラクターイメージソングアルバム「oratorio」](https://www.lantis.jp/release-item/LACA-5661.html)
 
 [Category:2007年のサウンドトラック](https://ja.wikipedia.org/wiki/Category:2007年のサウンドトラック "wikilink") [Category:テレビアニメのサウンドトラック](https://ja.wikipedia.org/wiki/Category:テレビアニメのサウンドトラック "wikilink") [Category:ランティスのサウンドトラック](https://ja.wikipedia.org/wiki/Category:ランティスのサウンドトラック "wikilink")

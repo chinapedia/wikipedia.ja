@@ -12,24 +12,24 @@
 
 ## 収録内容
 
-1.  **[アポロ](https://ja.wikipedia.org/wiki/アポロ_\(曲\) "wikilink")**
+1.  **[アポロ](../Page/アポロ_\(曲\).md "wikilink")**
       -
         曲のテーマ通り、映像の中には月面や宇宙服などが登場する。
-2.  **[ヒトリノ夜](https://ja.wikipedia.org/wiki/ヒトリノ夜 "wikilink")**
+2.  **[ヒトリノ夜](../Page/ヒトリノ夜.md "wikilink")**
       -
         白黒の映像となっている。(一瞬だけカラーになる時間も。)
-3.  **[ミュージック・アワー](https://ja.wikipedia.org/wiki/ミュージック・アワー "wikilink")**
-4.  **[サウダージ](https://ja.wikipedia.org/wiki/サウダージ_\(曲\) "wikilink")**
+3.  **[ミュージック・アワー](../Page/ミュージック・アワー.md "wikilink")**
+4.  **[サウダージ](../Page/サウダージ_\(曲\).md "wikilink")**
       -
         メンバーは、相当な時間をかけた特殊メイクにより老人と化している。
-5.  **[サボテン](https://ja.wikipedia.org/wiki/サボテン_\(ポルノグラフィティの曲\) "wikilink")**
+5.  **[サボテン](../Page/サボテン_\(ポルノグラフィティの曲\).md "wikilink")**
 
 ・撮影ではモーションコントロールを使用している
 
-1.  **[ダイアリー00/08/26](https://ja.wikipedia.org/wiki/サボテン_\(ポルノグラフィティの曲\) "wikilink")**
+1.  **[ダイアリー00/08/26](../Page/サボテン_\(ポルノグラフィティの曲\).md "wikilink")**
       -
         上記のPVのドキュメントになっている。
-        歌詞があるカップリング曲でPVが存在するのはこの曲のみ（歌詞がないカップリング曲ではシングル「[音のない森](https://ja.wikipedia.org/wiki/音のない森 "wikilink")」収録の「awe」と「sonic」）である。
+        歌詞があるカップリング曲でPVが存在するのはこの曲のみ（歌詞がないカップリング曲ではシングル「[音のない森](../Page/音のない森.md "wikilink")」収録の「awe」と「sonic」）である。
     <!-- end list -->
     1.  メイキング映像
     2.  TV-SPOT集

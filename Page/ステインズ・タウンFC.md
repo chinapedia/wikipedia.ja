@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ステインズ・タウンFC](https://ja.wikipedia.org/wiki/ステインズ・タウンFC)から翻訳されています。
 
 
 **スタインズ・タウン・フットボール・クラブ**（**Staines Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[サリー州](https://ja.wikipedia.org/wiki/サリー州 "wikilink")[スペルソーン](https://ja.wikipedia.org/wiki/スペルソーン "wikilink")地区[スタインズ](https://ja.wikipedia.org/wiki/スタインズ "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

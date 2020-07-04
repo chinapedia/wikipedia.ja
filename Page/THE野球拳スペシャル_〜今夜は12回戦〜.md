@@ -1,7 +1,7 @@
 > この記事は[THE野球拳スペシャル 〜今夜は12回戦〜](https://ja.wikipedia.org/wiki/THE野球拳スペシャル_〜今夜は12回戦〜)から翻訳されています。
 
 
-『**THE野球拳スペシャル〜今夜は12回戦〜**』（ザ やきゅうけんスペシャル こんやはじゅうにかいせん）は、[ソシエッタ代官山](https://ja.wikipedia.org/wiki/ソシエッタ代官山 "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")に発売した、[セガサターン](../Page/セガサターン.md "wikilink")用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
+『**THE野球拳スペシャル〜今夜は12回戦〜**』（ザ やきゅうけんスペシャル こんやはじゅうにかいせん）は、[ソシエッタ代官山](../Page/ソシエッタ代官山.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")に発売した、[セガサターン](../Page/セガサターン.md "wikilink")用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
 
 ## 概要
 
@@ -65,7 +65,7 @@
 
 ## 脚注
 
-[Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:1995年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1995年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink")
+[Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:1995年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1995年のアダルトゲーム "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:実写取り込みを用いたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:実写取り込みを用いたコンピュータゲーム "wikilink")
 
 1.  じゃんけんに5回勝てば相手の女の子は全裸となり、対戦者の勝利となる。コンピューターの設定がひどく難しくなされているために、勝利するのは普通にじゃんけんをするよりもはるかに難しい。
 2.  対戦者が5回勝った際、女の子が全裸になる画面が出ると同時に、その周辺に平仮名一文字が表示される。これは、ソフト発売記念として行われた懸賞に使用されていたクイズの暗号である。現在は、この懸賞は終了しているため、何ら意味を持たない。また、ゲームにおいても何ら支障はない。

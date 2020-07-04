@@ -1,7 +1,7 @@
 > この記事は[Psychic Entertainment Sound](https://ja.wikipedia.org/wiki/Psychic_Entertainment_Sound)から翻訳されています。
 
 
-『'''Psychic Entertainment Sound ''' ―Mr. Maric World』（サイキック･エンターテイメント･サウンド ミスターマリック･ワールド）は、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と[Mr.マリック](../Page/Mr.マリック.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")にリリースしたアルバムCD。品番はESCB-1086。初のオリジナルの[インストゥルメンタルアルバム](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。このアルバムの制作が決まっていたために、Mr.マリックが小室のソロツアー『[Digitalian is eating breakfast](../Page/Digitalian_is_eating_breakfast.md "wikilink")』ファイナルにゲスト出演していた。（詳しくは[Mr.マリック\#経歴](https://ja.wikipedia.org/wiki/Mr.マリック#経歴 "wikilink")参照のこと）
+『'''Psychic Entertainment Sound ''' ―Mr. Maric World』（サイキック･エンターテイメント･サウンド ミスターマリック･ワールド）は、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と[Mr.マリック](../Page/Mr.マリック.md "wikilink")が[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")にリリースしたアルバムCD。品番はESCB-1086。初のオリジナルの[インストゥルメンタルアルバム](../Page/器楽曲.md "wikilink")。このアルバムの制作が決まっていたために、Mr.マリックが小室のソロツアー『[Digitalian is eating breakfast](../Page/Digitalian_is_eating_breakfast.md "wikilink")』ファイナルにゲスト出演していた。（詳しくは[Mr.マリック\#経歴](https://ja.wikipedia.org/wiki/Mr.マリック#経歴 "wikilink")参照のこと）
 
 ## トラックリスト
 
@@ -13,7 +13,7 @@
 
 ## 参加ミュージシャン
 
-  - [日向大介](https://ja.wikipedia.org/wiki/日向大介 "wikilink") - [ギター](../Page/ギター.md "wikilink")、[シンセベース](../Page/シンセベース.md "wikilink")、[シンクラヴィア](https://ja.wikipedia.org/wiki/シンクラヴィア "wikilink")オペレーター
-  - [伊東俊郎](https://ja.wikipedia.org/wiki/伊東俊郎 "wikilink") - [ミキシング](https://ja.wikipedia.org/wiki/ミキシング "wikilink")
+  - [日向大介](https://ja.wikipedia.org/wiki/日向大介 "wikilink") - [ギター](../Page/ギター.md "wikilink")、[シンセベース](../Page/シンセベース.md "wikilink")、[シンクラヴィア](../Page/シンクラヴィア.md "wikilink")オペレーター
+  - [伊東俊郎](https://ja.wikipedia.org/wiki/伊東俊郎 "wikilink") - [ミキシング](../Page/ミキシング.md "wikilink")
 
 [Category:1990年のアルバム](https://ja.wikipedia.org/wiki/Category:1990年のアルバム "wikilink") [Category:小室哲哉のアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉のアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink")

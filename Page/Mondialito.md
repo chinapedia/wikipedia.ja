@@ -7,7 +7,7 @@
 
 2002年 Junko（vo）と笛岡俊哉(compose)によって結成。 [トーレ・ヨハンソン](https://ja.wikipedia.org/wiki/トーレ・ヨハンソン "wikilink")らとともにワールドカップコンピレーションに参加。 [club8](https://ja.wikipedia.org/wiki/club8 "wikilink")のヨハンプロデュース曲を含む1stアルバム『note of dawn』をリリース。
 
-2004年 2ndアルバム「avant la pluie」をリリース。 収録曲の「notre echec」は[森田童子](https://ja.wikipedia.org/wiki/森田童子 "wikilink")の[ぼくたちの失敗](https://ja.wikipedia.org/wiki/ぼくたちの失敗 "wikilink")をフランス語で歌ったもので、韓国の企業[LG](https://ja.wikipedia.org/wiki/LG "wikilink")のCMに使用された。
+2004年 2ndアルバム「avant la pluie」をリリース。 収録曲の「notre echec」は[森田童子](../Page/森田童子.md "wikilink")の[ぼくたちの失敗](https://ja.wikipedia.org/wiki/ぼくたちの失敗 "wikilink")をフランス語で歌ったもので、韓国の企業[LG](https://ja.wikipedia.org/wiki/LG "wikilink")のCMに使用された。
 
 2005年 3rdアルバム「mondialito」をリリース。 フランス音楽界の旗手[Benjamin Biolayの最新作に参加のcelineをコーラスに迎えている](https://ja.wikipedia.org/wiki/Benjamin_Biolay "wikilink")。
 

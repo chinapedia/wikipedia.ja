@@ -1,7 +1,7 @@
-> この記事は[ WORLD CHAMPIONSHIP 2008](https://ja.wikipedia.org/wiki/_WORLD_CHAMPIONSHIP_2008)から翻訳されています。
+> この記事は[遊☆戯☆王デュエルモンスターズ WORLD CHAMPIONSHIP 2008](https://ja.wikipedia.org/wiki/遊☆戯☆王デュエルモンスターズ_WORLD_CHAMPIONSHIP_2008)から翻訳されています。
 
 
-**遊☆戯☆王デュエルモンスターズ WORLD CHAMPIONSHIP 2008**（ゆうぎおうデュエルモンスターズ ワールドチャンピオンシップ2008）は、[2007年](../Page/2007年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[コナミデジタルエンタテインメント](https://ja.wikipedia.org/wiki/コナミデジタルエンタテインメント "wikilink")から発売された[遊☆戯☆王オフィシャルカードゲーム デュエルモンスターズを題材としたゲームソフトである](https://ja.wikipedia.org/wiki/遊☆戯☆王オフィシャルカードゲーム "wikilink")。
+**遊☆戯☆王デュエルモンスターズ WORLD CHAMPIONSHIP 2008**（ゆうぎおうデュエルモンスターズ ワールドチャンピオンシップ2008）は、[2007年](../Page/2007年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から発売された[遊☆戯☆王オフィシャルカードゲーム デュエルモンスターズを題材としたゲームソフトである](../Page/遊☆戯☆王オフィシャルカードゲーム.md "wikilink")。
 
 ## 概要
 
@@ -165,14 +165,14 @@ DS版で初搭載されたタッグデュエルを行う世界。
 ### 遊☆戯☆王
 
   - [闇遊戯](../Page/武藤遊戯.md "wikilink")
-    [ブラック・マジシャン](https://ja.wikipedia.org/wiki/ブラック・マジシャン "wikilink")を中心とした魔法使いデッキを使用する。
+    [ブラック・マジシャン](../Page/ブラック・マジシャン.md "wikilink")を中心とした魔法使いデッキを使用する。
   - [海馬瀬人](../Page/海馬瀬人.md "wikilink")
     [青眼の白龍](../Page/青眼の白龍.md "wikilink")やブラッド・ヴォルスといった、原作に準じたデッキを使用する。
   - [城之内克也](https://ja.wikipedia.org/wiki/城之内克也 "wikilink")
     戦士族に[真紅眼の黒竜](https://ja.wikipedia.org/wiki/真紅眼の黒竜 "wikilink")や人造人間－サイコ・ショッカーを加えたデッキを使用する。
-  - [ペガサス・J・クロフォード](https://ja.wikipedia.org/wiki/ペガサス・J・クロフォード "wikilink")
+  - [ペガサス・J・クロフォード](../Page/ペガサス・J・クロフォード.md "wikilink")
     トゥーンで構成したデッキを使用する。
-  - [闇マリク](https://ja.wikipedia.org/wiki/マリク・イシュタール "wikilink")
+  - [闇マリク](../Page/マリク・イシュタール.md "wikilink")
     溶岩魔神ラヴァ・ゴーレムといった悪魔族デッキで構成されたデッキを使用する。
   - [闇獏良](https://ja.wikipedia.org/wiki/獏良了 "wikilink")
     ウィジャ盤の死のメッセージ完成による勝利を目的としたデッキを使用する。

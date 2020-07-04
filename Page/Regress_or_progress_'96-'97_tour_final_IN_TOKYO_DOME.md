@@ -7,17 +7,17 @@
 
 過去の映像作品はドキュメンタリービデオとPV集だったため、完全なライブビデオとしては初の作品。1996年から1997年にかけて行われたライブツアー「regress or progress '96-'97」の締めとなるファイナル追加公演[福岡ドーム](../Page/福岡ドーム.md "wikilink")、[東京ドーム](../Page/東京ドーム.md "wikilink")（2days）のうち、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")東京ドーム2日目の映像が収録されている。実際のコンサートではこの他に「[虹の彼方へ](https://ja.wikipedia.org/wiki/Kind_of_Love#収録曲 "wikilink")」「[幸せのカテゴリー](https://ja.wikipedia.org/wiki/BOLERO_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")」「[シーソーゲーム 〜勇敢な恋の歌〜](../Page/シーソーゲーム_〜勇敢な恋の歌〜.md "wikilink")」も歌われたが、このビデオではカットされている。また、最後の「ボレロ」を歌い終わった後に照明が上がり、ステージの端から端へと挨拶をしに行っているが、そのシーンもカットされている。カットの理由は公的に語られていないため不明。
 
-ライブツアーのコンセプトは「**OUT OF DEEP SEA （深海からの脱出）**」で、中盤ではアルバム『[深海](https://ja.wikipedia.org/wiki/深海_\(アルバム\) "wikilink")』を大きなアレンジを加えずに全曲演奏した。他のMr.Childrenのライブツアーとは異質な雰囲気を漂わせている。
+ライブツアーのコンセプトは「**OUT OF DEEP SEA （深海からの脱出）**」で、中盤ではアルバム『[深海](../Page/深海_\(アルバム\).md "wikilink")』を大きなアレンジを加えずに全曲演奏した。他のMr.Childrenのライブツアーとは異質な雰囲気を漂わせている。
 
 ## 演奏
 
-  - [桜井和寿](https://ja.wikipedia.org/wiki/桜井和寿 "wikilink")：Vocal & Guitar
-  - [田原健一](https://ja.wikipedia.org/wiki/田原健一 "wikilink")：Guitar
-  - [中川敬輔](https://ja.wikipedia.org/wiki/中川敬輔 "wikilink")：Bass
+  - [桜井和寿](../Page/桜井和寿.md "wikilink")：Vocal & Guitar
+  - [田原健一](../Page/田原健一.md "wikilink")：Guitar
+  - [中川敬輔](../Page/中川敬輔.md "wikilink")：Bass
   - [鈴木英哉](../Page/鈴木英哉.md "wikilink")：Drums
-  - [浦清英](https://ja.wikipedia.org/wiki/浦清英 "wikilink")：Keyboards
+  - [浦清英](../Page/浦清英.md "wikilink")：Keyboards
   - [河口修二](../Page/河口修二.md "wikilink")：Guitar, Chorus
-  - [小幡英之](https://ja.wikipedia.org/wiki/小幡英之 "wikilink")：Saxophone
+  - [小幡英之](../Page/小幡英之.md "wikilink")：Saxophone
   - 長田功：Trumpet
 
 ## 収録曲
@@ -38,7 +38,7 @@
         4人とも座り、アコースティック・アレンジでゆったりと演奏した。
 7.  **[my life](https://ja.wikipedia.org/wiki/Versus_\(アルバム\)#収録曲 "wikilink")**
       -
-        [MCを挟んでから演奏](https://ja.wikipedia.org/wiki/司会 "wikilink")。
+        [MCを挟んでから演奏](../Page/司会.md "wikilink")。
 8.  **[Dive](https://ja.wikipedia.org/wiki/深海_\(アルバム\)#収録曲 "wikilink")**
       -
         ここから21曲目までアルバム『深海』の全曲演奏。
@@ -51,7 +51,7 @@
 13. **[Making Songs](https://ja.wikipedia.org/wiki/深海_\(アルバム\)#収録曲 "wikilink")**
       -
         CD音源とは違い、今までに発表したMr.Childrenの様々な楽曲をミックスした音となっている。
-14. **[名もなき詩](https://ja.wikipedia.org/wiki/名もなき詩 "wikilink")**
+14. **[名もなき詩](../Page/名もなき詩.md "wikilink")**
 15. **[So Let's Get Truth](https://ja.wikipedia.org/wiki/深海_\(アルバム\)#収録曲 "wikilink")**
       -
         桜井がソロで弾き語り。
@@ -73,7 +73,7 @@
         最後はテンポを上げたオリジナルのアレンジが加えられている。
 24. **[everybody goes -秩序のない現代にドロップキック-](https://ja.wikipedia.org/wiki/everybody_goes_-秩序のない現代にドロップキック- "wikilink")**
 25. **[ALIVE](https://ja.wikipedia.org/wiki/BOLERO_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")**
-26. **[Everything (It's you)](https://ja.wikipedia.org/wiki/Everything_\(It's_you\) "wikilink")**
+26. **[Everything (It's you)](../Page/Everything_\(It's_you\).md "wikilink")**
 27. **[ボレロ](https://ja.wikipedia.org/wiki/BOLERO_\(Mr.Childrenのアルバム\)#収録曲 "wikilink")**
 
 [Category:Mr.Childrenの映像作品](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの映像作品 "wikilink") [Category:1997年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:1997年の音楽関連の映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

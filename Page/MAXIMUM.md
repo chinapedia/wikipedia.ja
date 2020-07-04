@@ -7,8 +7,8 @@
 
   - ヒットしたシングル5枚が収録された1stアルバム。
   - 初回限定盤のみ[ヴェルファーレ](../Page/ヴェルファーレ.md "wikilink")の入場無料チケット封入。
-  - デビュー曲「[恋するヴェルファーレダンス 〜Saturday Night〜](https://ja.wikipedia.org/wiki/恋するヴェルファーレダンス_〜Saturday_Night〜 "wikilink")」を除く全ての収録曲が[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")のカバー楽曲で占められている。このような手法は[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") with [SUPER MONKEY'Sの](https://ja.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")1stアルバムでも見られたが、この作品のヒット後、ユーロビートのカバーが[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")からデビューする女性アイドルグループ（[D\&D](https://ja.wikipedia.org/wiki/D&D_\(音楽ユニット\) "wikilink")、[Folder5](https://ja.wikipedia.org/wiki/Folder5 "wikilink")、[HINOIチーム](../Page/HINOIチーム.md "wikilink")）の1stアルバムのプロデュース手法として定着した。
-  - [オリコン週間アルバムチャートで初登場首位を獲得](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、その後通算4週（合算週含む）にわたって首位を獲得し、ミリオンセラーを達成。
+  - デビュー曲「[恋するヴェルファーレダンス 〜Saturday Night〜](https://ja.wikipedia.org/wiki/恋するヴェルファーレダンス_〜Saturday_Night〜 "wikilink")」を除く全ての収録曲が[ユーロビート](../Page/ユーロビート.md "wikilink")のカバー楽曲で占められている。このような手法は[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") with [SUPER MONKEY'Sの](../Page/SUPER_MONKEY'S.md "wikilink")1stアルバムでも見られたが、この作品のヒット後、ユーロビートのカバーが[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")からデビューする女性アイドルグループ（[D\&D](../Page/D&D_\(音楽ユニット\).md "wikilink")、[Folder5](../Page/Folder5.md "wikilink")、[HINOIチーム](../Page/HINOIチーム.md "wikilink")）の1stアルバムのプロデュース手法として定着した。
+  - [オリコン週間アルバムチャートで初登場首位を獲得](../Page/オリコンチャート.md "wikilink")、その後通算4週（合算週含む）にわたって首位を獲得し、ミリオンセラーを達成。
   - 2012年3月21日、「エイベックス創業25周年カウントダウンイヤー企画第1弾」として、「マスターピース・シリーズ」紙ジャケットで再リリースされた。
 
 ## 収録曲

@@ -13,7 +13,7 @@
 
 「[THE BEST OF LOVE](https://ja.wikipedia.org/wiki/THE_BEST_OF_LOVE "wikilink")」はシングル\[6\]として先行リリースされていたが、本作収録に際し再レコーディングされている。
 
-「AUGUST RAIN」は後に2作目のバラード・ベスト・アルバム『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[7\]に、「TAKE IT AWAY」はセルフカバー・アルバム『[EARPLAY 〜REBIRTH 2〜](https://ja.wikipedia.org/wiki/EARPLAY_〜REBIRTH_2〜 "wikilink")』\[8\]に、それぞれリテイク・ヴァージョンが収録された。
+「AUGUST RAIN」は後に2作目のバラード・ベスト・アルバム『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』\[7\]に、「TAKE IT AWAY」はセルフカバー・アルバム『[EARPLAY 〜REBIRTH 2〜](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』\[8\]に、それぞれリテイク・ヴァージョンが収録された。
 
 後に本作は[第28回日本レコード大賞優秀アルバム賞受賞作となった](https://ja.wikipedia.org/wiki/第28回日本レコード大賞#優秀アルバム賞 "wikilink")。
 
@@ -281,4 +281,4 @@
 5.  「PILE DRIVER (CLUB MIX) b/w PILE DRIVER (DUB VERSION)」発売 AIR ⁄ RVC 12inch:RAL-1002
 6.  「[THE BEST OF LOVE](https://ja.wikipedia.org/wiki/THE_BEST_OF_LOVE "wikilink")」 発売 AIR ⁄ RVC EP:RAS-540
 7.  『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』 発売 OM ⁄ BMG VICTOR CD:BVCR-65
-8.  『[EARPLAY 〜REBIRTH 2〜](https://ja.wikipedia.org/wiki/EARPLAY_〜REBIRTH_2〜 "wikilink")』 [2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") BVCL-1063/4【初回限定生産盤】 / BVCL-1065【通常盤】
+8.  『[EARPLAY 〜REBIRTH 2〜](../Page/EARPLAY_〜REBIRTH_2〜.md "wikilink")』 [2020年](../Page/2020年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink")発売 IDEAK ⁄ [ARIOLA JAPAN](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink") ⁄ [Sony Music Labels Inc.](../Page/ソニー・ミュージックレコーズ.md "wikilink") BVCL-1063/4【初回限定生産盤】 / BVCL-1065【通常盤】

@@ -1,7 +1,7 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[グロスター・シティAFC](https://ja.wikipedia.org/wiki/グロスター・シティAFC)から翻訳されています。
 
 
-**グロスター・シティ・アソシエーション・フットボールクラブ**（**Gloucester City Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[グロスターシャー州](https://ja.wikipedia.org/wiki/グロスターシャー州 "wikilink")、[グロスター](https://ja.wikipedia.org/wiki/グロスター "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
+**グロスター・シティ・アソシエーション・フットボールクラブ**（**Gloucester City Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[グロスターシャー州](https://ja.wikipedia.org/wiki/グロスターシャー州 "wikilink")、[グロスター](../Page/グロスター.md "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
 
 ## タイトル
 

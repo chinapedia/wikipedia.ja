@@ -1,11 +1,11 @@
-> この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
+> この記事は[JRA賞最優秀アラブ](https://ja.wikipedia.org/wiki/JRA賞最優秀アラブ)から翻訳されています。
 
 
 **JRA賞最優秀アラブ**（ジェイアールエーしょう さいゆうしゅうアラブ）は、かつて存在した[JRA賞](../Page/JRA賞.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した[アングロアラブ](../Page/アングロアラブ.md "wikilink")系競走馬に対して記者投票を行いその合計票数が1位だった馬が選出された。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")末にアラブ系競走が廃止されたのに伴い、同賞も廃止された。賞名および表彰団体は[JRA賞](../Page/JRA賞.md "wikilink")年度代表馬と同様に啓衆社賞、優駿賞、JRA賞に引き継がれていた。
 
 ## 歴代受賞馬
 
-[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")は旧表記。
+[馬齢](../Page/馬齢.md "wikilink")は旧表記。
 
 ### 啓衆社賞時代
 
@@ -28,14 +28,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/タツトモ" title="wikilink">タツトモ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>21戦14勝<br />
-<a href="https://ja.wikipedia.org/wiki/読売カップ" title="wikilink">読売カップ</a>(春)</p></td>
+<a href="../Page/読売カップ.md" title="wikilink">読売カップ</a>(春)</p></td>
 <td><p>黒崎利平</p></td>
 <td><p>武輔彦</p></td>
 <td><p>隅蔵次市</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セイユウ" title="wikilink">セイユウ</a></p></td>
+<td><p><a href="../Page/セイユウ.md" title="wikilink">セイユウ</a></p></td>
 <td><p>牡3</p></td>
 <td><p>11戦9勝</p></td>
 <td><p>日高種畜牧場</p></td>
@@ -44,7 +44,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1957年.md" title="wikilink">1957年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セイユウ" title="wikilink">セイユウ</a></p></td>
+<td><p><a href="../Page/セイユウ.md" title="wikilink">セイユウ</a></p></td>
 <td><p>牡4</p></td>
 <td><p>22戦16勝<br />
 読売カップ(春・秋)、セントライト記念</p></td>
@@ -172,7 +172,7 @@
 <td><p>堀伊八</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ムツミシゲル" title="wikilink">ムツミシゲル</a></p></td>
 <td><p>牡5</p></td>
 <td><p>18戦10勝<br />
@@ -249,7 +249,7 @@
 <td><p>下村得治</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1976年" title="wikilink">1976年</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トクノハルオー" title="wikilink">トクノハルオー</a></p></td>
 <td><p>牡5</p></td>
 <td><p>15戦7勝<br />
@@ -353,7 +353,7 @@
 <td><p>8戦3勝<br />
 <a href="../Page/タマツバキ記念.md" title="wikilink">タマツバキ記念</a></p></td>
 <td><p>正和山本牧場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田文吾" title="wikilink">武田文吾</a></p></td>
+<td><p><a href="../Page/武田文吾.md" title="wikilink">武田文吾</a></p></td>
 <td><p>中村眞一</p></td>
 <td></td>
 </tr>
@@ -389,7 +389,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アキヒロホマレ" title="wikilink">アキヒロホマレ</a></p></td>
+<td><p><a href="../Page/アキヒロホマレ.md" title="wikilink">アキヒロホマレ</a></p></td>
 <td><p>牡3</p></td>
 <td><p>7戦6勝</p></td>
 <td><p>西村耕司</p></td>
@@ -440,18 +440,18 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/1991年" title="wikilink">1991年</a></p></td>
+<td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アフェクトダンサー" title="wikilink">アフェクトダンサー</a></p></td>
 <td><p>牝3</p></td>
 <td><p>9戦7勝<br />
 </p></td>
 <td><p>斉藤雅宣</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/嶋田功" title="wikilink">嶋田功</a></p></td>
+<td><p><a href="../Page/嶋田功.md" title="wikilink">嶋田功</a></p></td>
 <td><p>辰巳屋</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1992年" title="wikilink">1992年</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マリンワン" title="wikilink">マリンワン</a></p></td>
 <td><p>牡3</p></td>
 <td><p>7戦6勝</p></td>
@@ -483,11 +483,11 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1995年" title="wikilink">1995年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ムーンリットガール" title="wikilink">ムーンリットガール</a></p></td>
+<td><p><a href="../Page/ムーンリットガール.md" title="wikilink">ムーンリットガール</a></p></td>
 <td><p>牝4</p></td>
 <td><p>8戦4勝</p></td>
 <td><p>中野順一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森秀行" title="wikilink">森秀行</a></p></td>
+<td><p><a href="../Page/森秀行.md" title="wikilink">森秀行</a></p></td>
 <td><p>小塚美近</p></td>
 <td></td>
 </tr>

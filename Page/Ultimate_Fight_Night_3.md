@@ -31,7 +31,7 @@
 ### メインカード
 
   - 第5試合 ミドル級 5分3R
-    ○  [クリス・リーベン](https://ja.wikipedia.org/wiki/クリス・リーベン "wikilink") vs.  [ホルヘ・リベラ](https://ja.wikipedia.org/wiki/ホルヘ・リベラ_\(格闘家\) "wikilink") ×
+    ○  [クリス・リーベン](../Page/クリス・リーベン.md "wikilink") vs.  [ホルヘ・リベラ](https://ja.wikipedia.org/wiki/ホルヘ・リベラ_\(格闘家\) "wikilink") ×
     1R 1:44 TKO（レフェリーストップ：右フック）
   - 第6試合 ウェルター級 5分3R
     ○  [ジョシュ・バークマン](https://ja.wikipedia.org/wiki/ジョシュ・バークマン "wikilink") vs.  ドリュー・フィケット ×

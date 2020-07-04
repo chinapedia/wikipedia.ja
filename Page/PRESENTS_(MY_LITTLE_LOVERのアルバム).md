@@ -1,4 +1,4 @@
-> この記事は[PRESENTS \(MY LITTLE LOVER\)](https://ja.wikipedia.org/wiki/PRESENTS_\(MY_LITTLE_LOVER\))から翻訳されています。
+> この記事は[PRESENTS \(MY LITTLE LOVERのアルバム\)](https://ja.wikipedia.org/wiki/PRESENTS_\(MY_LITTLE_LOVERのアルバム\))から翻訳されています。
 
 
 『**PRESENTS**』（プレゼンツ）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")に発売された[MY LITTLE LOVERの](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(Hysteric Blue\)](https://ja.wikipedia.org/wiki/_\(Hysteric_Blue\))から翻訳されています。
+> この記事は[だいすき \(Hysteric Blueの曲\)](https://ja.wikipedia.org/wiki/だいすき_\(Hysteric_Blueの曲\))から翻訳されています。
 
 
 『**だいすき**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Hysteric Blueの](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")9枚目のシングル。
@@ -11,7 +11,7 @@
 
 1.  **だいすき**
       -
-        作詞：たくや 作曲：ナオキ 編曲：[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")\&Hysteric Blue
+        作詞：たくや 作曲：ナオキ 編曲：[佐久間正英](../Page/佐久間正英.md "wikilink")\&Hysteric Blue
 2.  **青い空**
       -
         作詞・作曲：たくや 編曲：佐久間正英\&Hysteric Blue

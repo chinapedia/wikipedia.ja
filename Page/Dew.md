@@ -151,7 +151,7 @@
 </tr>
 <tr class="odd">
 <td><p>季節を追いかけて</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/第64回秋季関東地区高校野球大会" title="wikilink">第64回秋季関東地区高校野球大会</a>ダイジェスト～ROAD TO センバツ～」 エンディング曲 <a href="../Page/スズキ_(企業).md" title="wikilink">スズキ</a>・<a href="https://ja.wikipedia.org/wiki/スズキ・パレット" title="wikilink">新型パレットCMソング</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/第64回秋季関東地区高校野球大会" title="wikilink">第64回秋季関東地区高校野球大会</a>ダイジェスト～ROAD TO センバツ～」 エンディング曲 <a href="../Page/スズキ_(企業).md" title="wikilink">スズキ</a>・<a href="../Page/スズキ・パレット.md" title="wikilink">新型パレットCMソング</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -1,4 +1,4 @@
-> この記事は[LRT](https://ja.wikipedia.org/wiki/LRT)から翻訳されています。
+> この記事は[LRTブキ・パンジャン線](https://ja.wikipedia.org/wiki/LRTブキ・パンジャン線)から翻訳されています。
 
 
 **LRTブキ・パンジャン線**（LRTブキ・パンジャンせん、Bukit Panjang LRT Line）とは、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")[SMRTトレインズ](../Page/SMRTトレインズ.md "wikilink")が運営する[新交通システム](../Page/新交通システム.md "wikilink")、[ライト・レール・トランジット](https://ja.wikipedia.org/wiki/ライト・レール・トランジット "wikilink")の路線である。
@@ -9,7 +9,7 @@
 
 なお、[テン・マイル・ジャンクション車両基地](https://ja.wikipedia.org/wiki/テン・マイル・ジャンクション車両基地 "wikilink")へ分岐する枝線は、\[BP5\][フォエニック駅](https://ja.wikipedia.org/wiki/フォエニック駅 "wikilink")と\[BP6\][ブキ・パンジャン駅](https://ja.wikipedia.org/wiki/ブキ・パンジャン駅 "wikilink")のどちらからも入ることができる。以前はテン・マイル・ジャンクション車両基地の付近に\[BP14\][テン・マイル・ジャンクション駅](https://ja.wikipedia.org/wiki/テン・マイル・ジャンクション駅 "wikilink")が存在したが、2019年に廃止された。
 
-無人運転となっていて、住民プライバシーの配慮から、住宅に接近する個所では、[六甲ライナーの](https://ja.wikipedia.org/wiki/神戸新交通六甲アイランド線 "wikilink")[1000型のように](https://ja.wikipedia.org/wiki/神戸新交通1000型電車 "wikilink")、窓ガラスにスモークが自動的に掛かるようになっている。
+無人運転となっていて、住民プライバシーの配慮から、住宅に接近する個所では、[六甲ライナーの](https://ja.wikipedia.org/wiki/神戸新交通六甲アイランド線 "wikilink")[1000型のように](../Page/神戸新交通1000型電車.md "wikilink")、窓ガラスにスモークが自動的に掛かるようになっている。
 
 ## 沿革
 
@@ -137,7 +137,7 @@
 ## 関連項目
 
   - [SMRT Trains](https://ja.wikipedia.org/wiki/SMRT_Trains "wikilink")
-  - [シンガポールの鉄道](https://ja.wikipedia.org/wiki/シンガポールの鉄道 "wikilink")
+  - [シンガポールの鉄道](../Page/シンガポールの鉄道.md "wikilink")
   - [ライト・レール・トランジット](https://ja.wikipedia.org/wiki/ライト・レール・トランジット "wikilink")
 
 [Category:シンガポールの鉄道路線](https://ja.wikipedia.org/wiki/Category:シンガポールの鉄道路線 "wikilink") [Category:案内軌条式鉄道路線](https://ja.wikipedia.org/wiki/Category:案内軌条式鉄道路線 "wikilink")

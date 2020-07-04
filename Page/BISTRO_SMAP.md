@@ -95,7 +95,7 @@
 
 #### 国会議員
 
-政界からは、放送当時現職の国会議員として、[1999年](../Page/1999年.md "wikilink")6月14日に[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")、[2000年](../Page/2000年.md "wikilink")7月9日に[田中眞紀子](../Page/田中眞紀子.md "wikilink")、[2005年](../Page/2005年.md "wikilink")3月14日に[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")、[2006年](../Page/2006年.md "wikilink")12月18日に[杉村太蔵](../Page/杉村太蔵.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月18日に[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")、[2013年](../Page/2013年.md "wikilink")4月22日に[石破茂](https://ja.wikipedia.org/wiki/石破茂 "wikilink")が来店している。なお、首相退任後の[細川護熙](../Page/細川護熙.md "wikilink")も[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月18日に出演している。
+政界からは、放送当時現職の国会議員として、[1999年](../Page/1999年.md "wikilink")6月14日に[小泉純一郎](https://ja.wikipedia.org/wiki/小泉純一郎 "wikilink")、[2000年](../Page/2000年.md "wikilink")7月9日に[田中眞紀子](../Page/田中眞紀子.md "wikilink")、[2005年](../Page/2005年.md "wikilink")3月14日に[安倍晋三](../Page/安倍晋三.md "wikilink")、[2006年](../Page/2006年.md "wikilink")12月18日に[杉村太蔵](../Page/杉村太蔵.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月18日に[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")、[2013年](../Page/2013年.md "wikilink")4月22日に[石破茂](https://ja.wikipedia.org/wiki/石破茂 "wikilink")が来店している。なお、首相退任後の[細川護熙](../Page/細川護熙.md "wikilink")も[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月18日に出演している。
 
 ##### 出演後に内閣総理大臣
 

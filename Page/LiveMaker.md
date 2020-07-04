@@ -16,7 +16,7 @@
         「LiveMaker」のメインツール。[シナリオ](https://ja.wikipedia.org/wiki/シナリオ "wikilink")を記述するための[エディタ](https://ja.wikipedia.org/wiki/エディタ "wikilink")。従来では不可能であった[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")での操作で、シナリオ分岐などを実現していた。
   - GraphicsGale for LiveMaker
       -
-        [アニメーション](../Page/アニメーション.md "wikilink")に対応した[グラフィック](https://ja.wikipedia.org/wiki/グラフィック "wikilink")エディタ。
+        [アニメーション](../Page/アニメーション.md "wikilink")に対応した[グラフィック](../Page/グラフィック.md "wikilink")エディタ。
   - LiveCinema
       -
         シネマ（スライドアニメーション）を編集するためのソフトウェア。

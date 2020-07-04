@@ -1,7 +1,7 @@
-> この記事は[ATTACK ALL AROUND \(\)](https://ja.wikipedia.org/wiki/ATTACK_ALL_AROUND_\(\))から翻訳されています。
+> この記事は[ATTACK ALL AROUND \(アルバム\)](https://ja.wikipedia.org/wiki/ATTACK_ALL_AROUND_\(アルバム\))から翻訳されています。
 
 
-『**ATTACK ALL AROUND**』（アタックオールアラウンド）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの初の](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**ATTACK ALL AROUND**』（アタックオールアラウンド）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[AAAの初の](../Page/AAA_\(音楽グループ\).md "wikilink")[ベストアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -10,7 +10,7 @@
       - 初回盤【CD2枚組＋DVD】：5000円（税込）
       - 通常盤【CD2枚組＋DVD】：5000円（税込）
       - CD ONLY【CD2枚組】：3300円（税込）
-  - デビュー曲の「[BLOOD on FIRE](https://ja.wikipedia.org/wiki/BLOOD_on_FIRE "wikilink")」から「[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")」までを収録。ボーナストラックには、コラボシングル2曲を収録。
+  - デビュー曲の「[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")」から「[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")」までを収録。ボーナストラックには、コラボシングル2曲を収録。
   - 写真集にはAAAがパーティーをしている写真と個人のソロ写真と歌詞カードを掲載している。歌詞カードには曲ごとのジャケット写真が掲載されている。
   - 豪華盤には特典ディスクとしてこれまでの全48集のCM、アルバム曲PV4曲、このパッケージのために撮りおろしたスペシャルバラエティ映像「AAA No.1決定　ゲーム選手権\!\!」を収録。
 
@@ -18,25 +18,25 @@
 
 ### CD DISC1
 
-1.  **[BLOOD on FIRE](https://ja.wikipedia.org/wiki/BLOOD_on_FIRE "wikilink")(4:29)**
+1.  **[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")(4:29)**
       -
         1stシングル。
-2.  **[Friday Party](https://ja.wikipedia.org/wiki/Friday_Party "wikilink")(3:57)**
+2.  **[Friday Party](../Page/Friday_Party.md "wikilink")(3:57)**
       -
         2ndシングル。
-3.  **[きれいな空](https://ja.wikipedia.org/wiki/きれいな空 "wikilink")(4:38)**
+3.  **[きれいな空](../Page/きれいな空.md "wikilink")(4:38)**
       -
         3rdシングル。
-4.  **[DRAGON FIRE](https://ja.wikipedia.org/wiki/DRAGON_FIRE "wikilink")(4:32)**
+4.  **[DRAGON FIRE](../Page/DRAGON_FIRE.md "wikilink")(4:32)**
       -
         4thシングル。
-5.  **[ハレルヤ](https://ja.wikipedia.org/wiki/ハレルヤ_\(AAAの曲\) "wikilink")(3:57)**
+5.  **[ハレルヤ](../Page/ハレルヤ_\(AAAの曲\).md "wikilink")(3:57)**
       -
         5thシングル。
-6.  **[Shalala キボウの歌](https://ja.wikipedia.org/wiki/Shalala_キボウの歌 "wikilink")(4:09)**
+6.  **[Shalala キボウの歌](../Page/Shalala_キボウの歌.md "wikilink")(4:09)**
       -
         6thシングル。
-7.  **[ハリケーン・リリ、ボストン・マリ (Original long version)](https://ja.wikipedia.org/wiki/ハリケーン・リリ、ボストン・マリ "wikilink")(6:18)**
+7.  **[ハリケーン・リリ、ボストン・マリ (Original long version)](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")(6:18)**
       -
         7thシングル。
 8.  **[ソウルエッジボーイ](https://ja.wikipedia.org/wiki/ソウルエッジボーイ/キモノジェットガール "wikilink")(3:57)**
@@ -45,22 +45,22 @@
 9.  **[キモノジェットガール](https://ja.wikipedia.org/wiki/ソウルエッジボーイ/キモノジェットガール "wikilink")(3:01)**
       -
         8thシングル「ソウルエッジボーイ/キモノジェットガール」の2曲目。
-10. **[Let it beat\!](https://ja.wikipedia.org/wiki/Let_it_beat! "wikilink")(4:43)**
+10. **[Let it beat\!](../Page/Let_it_beat!.md "wikilink")(4:43)**
       -
         9thシングル。
-11. **["Q"](https://ja.wikipedia.org/wiki/"Q" "wikilink")(4:16)**
+11. **["Q"](../Page/"Q".md "wikilink")(4:16)**
       -
         10thシングル。
-12. **[チューインガム](https://ja.wikipedia.org/wiki/チューインガム_\(曲\) "wikilink")(5:08)**
+12. **[チューインガム](../Page/チューインガム_\(曲\).md "wikilink")(5:08)**
       -
         11thシングル。
 
 ### CD DISC2
 
-1.  **[Samurai heart -侍魂-](https://ja.wikipedia.org/wiki/Black&White "wikilink")(4:04)**
+1.  **[Samurai heart -侍魂-](../Page/Black&White.md "wikilink")(4:04)**
       -
         12thシングル「Black\&White」の1曲目。
-2.  **[Winter lander\!\!](https://ja.wikipedia.org/wiki/Black&White "wikilink")(4:13)**
+2.  **[Winter lander\!\!](../Page/Black&White.md "wikilink")(4:13)**
       -
         12thシングル「Black\&White」の2曲目。
 3.  **[Get チュー\!](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")(3:53)**
@@ -90,7 +90,7 @@
 11. **[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")(3:14)**
       -
         17thシングル。
-12. **[いざゆけ若鷹軍団](https://ja.wikipedia.org/wiki/いざゆけ若鷹軍団 "wikilink")2007** 〜FUKUOKA SoftBank HAWKS with AAA〜(4:42)
+12. **[いざゆけ若鷹軍団](../Page/いざゆけ若鷹軍団.md "wikilink")2007** 〜FUKUOKA SoftBank HAWKS with AAA〜(4:42)
       -
         ボーナストラック。
 13. **[Climax Jump](../Page/Climax_Jump.md "wikilink")** 〜AAA DEN-O form〜(4:04)

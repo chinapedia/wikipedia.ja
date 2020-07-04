@@ -7,16 +7,16 @@
 
   - [ジャケットのシールコピー](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")（帯はない）：**あなたの心の中の透明な空へ旅したい…。**
   - 先行[シングル](../Page/シングル.md "wikilink")「[Marrakech〜マラケッシュ〜](../Page/Marrakech〜マラケッシュ〜.md "wikilink")」（1988年4月14日）のアルバム・バージョンを含む。
-  - 米国の有名[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")・[デイヴィッド・フォスター](https://ja.wikipedia.org/wiki/デイヴィッド・フォスター "wikilink")を迎えた意欲作。レコーディングに際し、レッスンを受けて発声法などを全て変えたとされる（リリース当時のインタビュー記事より）。この頃から、アイドル歌謡からシンガー路線へとシフトして行ったとされる。
+  - 米国の有名[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")・[デイヴィッド・フォスター](../Page/デイヴィッド・フォスター.md "wikilink")を迎えた意欲作。レコーディングに際し、レッスンを受けて発声法などを全て変えたとされる（リリース当時のインタビュー記事より）。この頃から、アイドル歌謡からシンガー路線へとシフトして行ったとされる。
   - 「[抱いて…](https://ja.wikipedia.org/wiki/抱いて… "wikilink")」は[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")されていないにも関わらず人気が高い。アンケート形式で収録曲を決めるアルバム『[Another Side of Seiko 27](../Page/Another_Side_of_Seiko_27.md "wikilink")』において第4位にランクインした。「檜不動産」 "ワコーレマンション" の[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")にも起用された。
   - 「続・赤いスイートピー」は1982年のヒットソング「[赤いスイートピー](../Page/赤いスイートピー.md "wikilink")」の後日談を描いた楽曲で、作詞も[松本隆](../Page/松本隆.md "wikilink")が継続した。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[夜のヒットスタジオDELUXE](https://ja.wikipedia.org/wiki/夜のヒットスタジオDELUXE "wikilink")」において、この2曲を[メドレー](../Page/メドレー.md "wikilink")形式で披露した事がある。
   - シングル盤と同様に、「No.1」には[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[ア・カペラ](../Page/ア・カペラ.md "wikilink")グループ「The Nylons」が参加している。
-  - [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")で最後に首位を獲得したアルバムである。
+  - [オリコンチャート](../Page/オリコンチャート.md "wikilink")で最後に首位を獲得したアルバムである。
 
 ## 収録曲
 
 1.  **Blue**　（4:01）
-      - 作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[Tom Keane](https://ja.wikipedia.org/wiki/W:The_Keane_Brothers "wikilink")・[Michael Landau](https://ja.wikipedia.org/wiki/W:Michael_Landau "wikilink")・[David Foster](https://ja.wikipedia.org/wiki/デイヴィッド・フォスター "wikilink")／編曲：David Foster
+      - 作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[Tom Keane](https://ja.wikipedia.org/wiki/W:The_Keane_Brothers "wikilink")・[Michael Landau](https://ja.wikipedia.org/wiki/W:Michael_Landau "wikilink")・[David Foster](../Page/デイヴィッド・フォスター.md "wikilink")／編曲：David Foster
 2.  **[Marrakech](../Page/Marrakech〜マラケッシュ〜.md "wikilink")**　（4:07）
       - 作詞：松本隆／作曲：[Steve Kipner](https://ja.wikipedia.org/wiki/W:Steve_Kipner "wikilink")・Paul Bliss／編曲：Steve Kipner・Paul Bliss・David Foster
     <!-- end list -->
@@ -26,7 +26,7 @@
       - 作詞・作曲：[Randy Goodrum](https://ja.wikipedia.org/wiki/W:Randy_Goodrum "wikilink")・David Foster／編曲：David Foster
     <!-- end list -->
       -
-        デイヴィッド・フォスターとの[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")曲。
+        デイヴィッド・フォスターとの[デュエット](../Page/デュエット.md "wikilink")曲。
 4.  **You Can't Find Me**　（4:18）
       - 作詞：松本隆／作曲・編曲：[Jay Graydon](https://ja.wikipedia.org/wiki/W:Jay_Graydon "wikilink")・David Foster
 5.  **[抱いて…](https://ja.wikipedia.org/wiki/抱いて… "wikilink")**　（4:34）

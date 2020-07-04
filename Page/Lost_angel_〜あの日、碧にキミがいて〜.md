@@ -1,4 +1,4 @@
-> この記事は[Lost angel ](https://ja.wikipedia.org/wiki/Lost_angel_)から翻訳されています。
+> この記事は[Lost angel 〜あの日、碧にキミがいて〜](https://ja.wikipedia.org/wiki/Lost_angel_〜あの日、碧にキミがいて〜)から翻訳されています。
 
 
 『**lost angel 〜あの日、碧にキミがいて〜**』（ロストエンジェル 〜あのひ、あおにキミがいて〜）は、[2004年](../Page/2004年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に発売されたDVD作品。
@@ -11,7 +11,7 @@
 
 ## キャスト
 
-  - サチ：[水橋貴己](https://ja.wikipedia.org/wiki/水橋貴己 "wikilink")
+  - サチ：[水橋貴己](../Page/水橋貴己.md "wikilink")
   - タケ：[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink")
   - サチ（幼少時代）：[今泉野乃香](../Page/今泉野乃香.md "wikilink")
   - タケ（幼少時代）：[栗原玲央](https://ja.wikipedia.org/wiki/栗原玲央 "wikilink")
@@ -26,8 +26,8 @@
 ## スタッフ
 
   - 監督：[西浦正記](../Page/西浦正記.md "wikilink")
-  - 脚本：[川邊優子](https://ja.wikipedia.org/wiki/川邊優子 "wikilink")
-  - プロデュース：鈴木芳治、[清水淳司](https://ja.wikipedia.org/wiki/清水淳司 "wikilink")
+  - 脚本：[川邊優子](../Page/川邊優子.md "wikilink")
+  - プロデュース：鈴木芳治、[清水淳司](../Page/清水淳司.md "wikilink")
   - 撮影：安藝孝仁
   - 照明：田代良男
   - 照明助手：蓮池力
@@ -43,8 +43,8 @@
   - MA：田辺邦明
   - 音楽：イヤトイ
   - 音響効果：佐藤卓嗣
-  - 協力：[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[H.I.S](https://ja.wikipedia.org/wiki/H.I.S "wikilink")、Hard Rock HOTEL PAITAYA、L'espace Vision、[ビデオスタッフ](https://ja.wikipedia.org/wiki/ビデオスタッフ "wikilink")、[東新](https://ja.wikipedia.org/wiki/ザ・ホライズン "wikilink")
-  - 制作：[tomax](https://ja.wikipedia.org/wiki/トゥーマックス "wikilink")、[FCC](https://ja.wikipedia.org/wiki/フジクリエイティブコーポレーション "wikilink")
+  - 協力：[ANA](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")、[H.I.S](https://ja.wikipedia.org/wiki/H.I.S "wikilink")、Hard Rock HOTEL PAITAYA、L'espace Vision、[ビデオスタッフ](../Page/ビデオスタッフ.md "wikilink")、[東新](https://ja.wikipedia.org/wiki/ザ・ホライズン "wikilink")
+  - 制作：[tomax](https://ja.wikipedia.org/wiki/トゥーマックス "wikilink")、[FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")
   - 製作著作：[avex group](https://ja.wikipedia.org/wiki/avex_group "wikilink")
 
 ## 外部リンク

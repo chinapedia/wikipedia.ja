@@ -684,13 +684,13 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴスホークケン" title="wikilink">ゴスホークケン</a></p></td>
+<td><p><a href="../Page/ゴスホークケン.md" title="wikilink">ゴスホークケン</a></p></td>
 <td><p>牡2</p></td>
 <td><p>3戦2勝<br />
 朝日杯フューチュリティステークス</p></td>
 <td><p>Four Horsemen's Ranch</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/斎藤誠_(競馬)" title="wikilink">斎藤誠</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤田与志男" title="wikilink">藤田与志男</a></p></td>
+<td><p><a href="../Page/斎藤誠_(競馬).md" title="wikilink">斎藤誠</a></p></td>
+<td><p><a href="../Page/藤田与志男.md" title="wikilink">藤田与志男</a></p></td>
 <td><p>282/289</p></td>
 </tr>
 <tr class="even">

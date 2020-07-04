@@ -1,12 +1,12 @@
 > この記事は[LOVE@MESSENGER](https://ja.wikipedia.org/wiki/LOVE@MESSENGER)から翻訳されています。
 
 
-「**LOVE@MESSENGER**」（ラブ・メッセンジャー）は、[野中藍](https://ja.wikipedia.org/wiki/野中藍 "wikilink")の3作目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に [スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")から「[トキメキの言葉](https://ja.wikipedia.org/wiki/トキメキの言葉 "wikilink")」と同時リリースされた。（発売元・販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
+「**LOVE@MESSENGER**」（ラブ・メッセンジャー）は、[野中藍](../Page/野中藍.md "wikilink")の3作目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に [スターチャイルド](../Page/スターチャイルド.md "wikilink")から「[トキメキの言葉](../Page/トキメキの言葉.md "wikilink")」と同時リリースされた。（発売元・販売元は[キングレコード](../Page/キングレコード.md "wikilink")）
 
 ## 概要
 
-  - 表題曲「LOVE@MESSENGER」は、[ユーロ調ベースのポップスナンバー](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")。積極的な想いをテーマに、野中自身のユーモアを描いたものとなっており、サビには自身の名前とかけた歌詞が用いられているなど、詞・曲ともに弾けたものとなっている。
-  - [ミュージッククリップは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、「[夢のドライブ](https://ja.wikipedia.org/wiki/夢のドライブ "wikilink")」「トキメキの言葉」から一転し、独創的な雰囲気の演出が織り込まれている。
+  - 表題曲「LOVE@MESSENGER」は、[ユーロ調ベースのポップスナンバー](../Page/ユーロビート.md "wikilink")。積極的な想いをテーマに、野中自身のユーモアを描いたものとなっており、サビには自身の名前とかけた歌詞が用いられているなど、詞・曲ともに弾けたものとなっている。
+  - [ミュージッククリップは](../Page/ミュージック・ビデオ.md "wikilink")、「[夢のドライブ](../Page/夢のドライブ.md "wikilink")」「トキメキの言葉」から一転し、独創的な雰囲気の演出が織り込まれている。
 
 ## 収録内容
 
@@ -16,7 +16,7 @@
 
 1.  **LOVE@MESSENGER** \[3:59\]
       -
-        作詞：[村野直球](https://ja.wikipedia.org/wiki/村野直球 "wikilink")、作曲：[住吉中](https://ja.wikipedia.org/wiki/住吉中 "wikilink")、編曲：[YUPA](https://ja.wikipedia.org/wiki/Yu-pan "wikilink")
+        作詞：[村野直球](https://ja.wikipedia.org/wiki/村野直球 "wikilink")、作曲：[住吉中](https://ja.wikipedia.org/wiki/住吉中 "wikilink")、編曲：[YUPA](../Page/Yu-pan.md "wikilink")
 2.  **LOVE@MESSENGER Ai-rock ver.** \[3:56\]
       -
         作詞：村野直球、作曲：住吉中、編曲：YUPA

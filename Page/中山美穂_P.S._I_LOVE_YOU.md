@@ -53,6 +53,6 @@
 
 ネット局数はHITACHI CRESCENT TIMEが冠についていた期間は[HITACHI FAN\! FUN\! TODAYと同じ](../Page/HITACHI_FAN!_FUN!_TODAY.md "wikilink")（北海道は[北海道放送](../Page/HBCラジオ.md "wikilink")、中京広域圏は[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、近畿広域圏は[ラジオ大阪](../Page/大阪放送.md "wikilink")、福岡県は[九州朝日放送](../Page/KBCラジオ.md "wikilink")、沖縄県は[琉球放送](../Page/琉球放送.md "wikilink")にネット）。
 
-なお、放送末期（1994年4月 - ）に東海ラジオでのネットが復活した（30分枠として）。 [朝日放送では](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")、[ラジオ大阪が打ち切り後](../Page/大阪放送.md "wikilink")、日曜22:30から「資生堂ハートコンシャスタイム」のサブタイトルで最終回まで放送された。
+なお、放送末期（1994年4月 - ）に東海ラジオでのネットが復活した（30分枠として）。 [朝日放送では](../Page/朝日放送ラジオ.md "wikilink")、[ラジオ大阪が打ち切り後](../Page/大阪放送.md "wikilink")、日曜22:30から「資生堂ハートコンシャスタイム」のサブタイトルで最終回まで放送された。
 
 [Category:中山美穂](https://ja.wikipedia.org/wiki/Category:中山美穂 "wikilink") [Category:ニッポン放送の番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の番組の歴史 "wikilink") [Category:ニッポン放送のトーク番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のトーク番組 "wikilink") [Category:ニッポン放送の一社提供番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の一社提供番組 "wikilink") [Category:日立グループ単独提供番組](https://ja.wikipedia.org/wiki/Category:日立グループ単独提供番組 "wikilink") [Category:資生堂一社提供番組](https://ja.wikipedia.org/wiki/Category:資生堂一社提供番組 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:1990年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のラジオ番組_\(日本\) "wikilink")

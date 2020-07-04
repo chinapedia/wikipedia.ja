@@ -7,7 +7,7 @@
 
   - [2007年](../Page/2007年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")発売。全3タイプ同時発売、Aタイプ・Bタイプ各DVD付、Cタイプ『[魔人探偵脳噛ネウロ](https://ja.wikipedia.org/wiki/魔人探偵脳噛ネウロ "wikilink")』スペシャルイラストジャケット仕様。
   - 2ヵ月連続リリースシングルの第2弾である。
-  - オリコン週間チャートでは初登場8位を記録し、「[the WORLD/アルミナ](https://ja.wikipedia.org/wiki/the_WORLD/アルミナ "wikilink")」からの4作連続トップ10入りを果たした。
+  - [オリコン](../Page/オリコン.md "wikilink")週間チャートでは初登場8位を記録し、「[the WORLD/アルミナ](https://ja.wikipedia.org/wiki/the_WORLD/アルミナ "wikilink")」からの4作連続トップ10入りを果たした。
   - また、『魔人探偵脳噛ネウロ』第17話「追【チェイス】」放送時には、咲人が[声優](../Page/声優.md "wikilink")として通行人役を演じた。
   - [RUKA](../Page/RUKA.md "wikilink")のソロ・プロジェクト[The LEGENDARY SIX NINEのシングル](https://ja.wikipedia.org/wiki/RUKA#The_LEGENDARY_SIX_NINE "wikilink")「Cruel」にはDIRTYの[カバー](../Page/カバー.md "wikilink")が「？？？」として収録されている。
 

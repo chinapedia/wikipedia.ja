@@ -1,4 +1,4 @@
-> この記事は[Mi \(\)](https://ja.wikipedia.org/wiki/Mi_\(\))から翻訳されています。
+> この記事は[Mi \(テキストエディタ\)](https://ja.wikipedia.org/wiki/Mi_\(テキストエディタ\))から翻訳されています。
 
 
 **mi** (エムアイ) は、[Macintosh](../Page/Macintosh.md "wikilink")用のフリーの[テキストエディタ](../Page/テキストエディタ.md "wikilink")。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")に対応する。最新バージョンは、3.0.2。旧名はミミカキエディット。

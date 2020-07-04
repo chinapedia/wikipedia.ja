@@ -3,7 +3,7 @@
 
 「**OK\!**」（オーケー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優](../Page/声優.md "wikilink")・[歌手](../Page/歌手.md "wikilink")の[松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")の7作目の[シングル](../Page/シングル.md "wikilink")。
 
-[2000年](../Page/2000年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")にリリース、発売元・販売元は[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")（ZMDP-1062）。
+1999年[10月14日](../Page/10月14日.md "wikilink")にリリース、発売元・販売元は[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")（ZMDP-1062）。
 
 ## 概要
 

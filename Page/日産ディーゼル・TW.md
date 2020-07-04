@@ -1,19 +1,19 @@
-> この記事は[TW](https://ja.wikipedia.org/wiki/TW)から翻訳されています。
+> この記事は[日産ディーゼル・TW](https://ja.wikipedia.org/wiki/日産ディーゼル・TW)から翻訳されています。
 
 
-**TW**は日産ディーゼル工業（現[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")）がかつて製造していた後2軸[大型](https://ja.wikipedia.org/wiki/大型自動車 "wikilink")[トラックである](../Page/貨物自動車.md "wikilink")。 [thumb](https://ja.wikipedia.org/wiki/ファイル:6TW11.jpg "wikilink")
+**TW**は日産ディーゼル工業（現[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")）がかつて製造していた後2軸[大型](../Page/大型自動車.md "wikilink")[トラックである](../Page/貨物自動車.md "wikilink")。 [thumb](https://ja.wikipedia.org/wiki/ファイル:6TW11.jpg "wikilink")
 
 ## 歴史
 
 ### 初代（1957-1971年）
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_Diesel,_6TW12,_White_Truck.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:5TWDC11H-70.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:4TW18SC-70.jpg "wikilink") [1957年](../Page/1957年.md "wikilink")に[ボンネット型の](https://ja.wikipedia.org/wiki/ボンネット_\(自動車\) "wikilink")6TWが登場。後2軸型で10.5t積みは当時日本国内では最大級であった。エンジンは[2ストローク](../Page/2ストローク機関.md "wikilink")[UD6を搭載](https://ja.wikipedia.org/wiki/ユニフロー掃気ディーゼルエンジン "wikilink")。後に日産ディーゼルの手でレストアされ、第36回[東京モーターショー](../Page/東京モーターショー.md "wikilink")で展示された。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Nissan_Diesel,_6TW12,_White_Truck.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:5TWDC11H-70.jpg "wikilink") [サムネイル](https://ja.wikipedia.org/wiki/ファイル:4TW18SC-70.jpg "wikilink") [1957年](../Page/1957年.md "wikilink")に[ボンネット型の](https://ja.wikipedia.org/wiki/ボンネット_\(自動車\) "wikilink")6TWが登場。後2軸型で10.5t積みは当時日本国内では最大級であった。エンジンは[2ストローク](../Page/2ストローク機関.md "wikilink")[UD6を搭載](../Page/ユニフロー掃気ディーゼルエンジン.md "wikilink")。後に日産ディーゼルの手でレストアされ、第36回[東京モーターショー](../Page/東京モーターショー.md "wikilink")で展示された。
 
 [1960年](../Page/1960年.md "wikilink")、[キャブオーバー](../Page/キャブオーバー.md "wikilink")型6TWDC12が登場。
 
-[1964年](../Page/1964年.md "wikilink")、[サングレイトの登場でキャブオーバー型](https://ja.wikipedia.org/wiki/日産ディーゼル・サングレイト "wikilink")6TWDCはサングレイトスタイルに変更。6TWC13、6TWDC14が発売される。
+[1964年](../Page/1964年.md "wikilink")、[サングレイトの登場でキャブオーバー型](../Page/日産ディーゼル・サングレイト.md "wikilink")6TWDCはサングレイトスタイルに変更。6TWC13、6TWDC14が発売される。
 
-[1967年](../Page/1967年.md "wikilink")、[直5](https://ja.wikipedia.org/wiki/直列5気筒 "wikilink")・[UD5型エンジンの開発によりキャブオーバー型](https://ja.wikipedia.org/wiki/ユニフロー掃気ディーゼルエンジン "wikilink")5TWDCがサングレイトのラインナップに追加される。
+[1967年](../Page/1967年.md "wikilink")、[直5](../Page/直列5気筒.md "wikilink")・[UD5型エンジンの開発によりキャブオーバー型](../Page/ユニフロー掃気ディーゼルエンジン.md "wikilink")5TWDCがサングレイトのラインナップに追加される。
 
 現在、初代モデルの1台(6TW12)がUDトラックス本社内のUDエクスペリエンス・センターで[サングレイト](https://ja.wikipedia.org/wiki/サングレイト "wikilink")(UEG681)と共に展示されている。 {{-}}
 

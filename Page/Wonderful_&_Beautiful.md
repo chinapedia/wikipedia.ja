@@ -6,7 +6,7 @@
 ## 概要
 
   - 「Wonderland」は、2007年[12月15日](../Page/12月15日.md "wikilink")公開の[映画](../Page/映画.md "wikilink")「[スマイル 聖夜の奇跡](../Page/スマイル_聖夜の奇跡.md "wikilink")」の[主題歌](../Page/主題歌.md "wikilink")である。
-  - 「リズム」は、[茜空に引き続き](../Page/茜空_\(曲\).md "wikilink")[JRAイメージソング起用されている](../Page/日本中央競馬会.md "wikilink")。
+  - 「リズム」は、[茜空に引き続き](../Page/茜空_\(曲\).md "wikilink")[JRAイメージソングに起用されている](../Page/日本中央競馬会.md "wikilink")。
   - 初回盤特典「“Wonderful & Beautiful” ペアウィンターグローブ」、「Christmas Message Mail from レミオロメン」応募パスワード封入。デジパック仕様。
   - 「Wonderful & Beautiful」は、「[SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")'08」の「GROUP VIDEO部門」ノミネート作品。
 

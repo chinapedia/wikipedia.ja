@@ -1,17 +1,17 @@
 > この記事は[Deep Impact](https://ja.wikipedia.org/wiki/Deep_Impact)から翻訳されています。
 
 
-「**Deep Impact**」（ディープ・インパクト）は、[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
+「**Deep Impact**」（ディープ・インパクト）は、[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")発売。発売元は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。
 
 ## 解説
 
-[ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")をフィーチャリングして発表された作品。この作品で[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")は自ら[ロックの最前衛に位置している事を認識し](../Page/ロック_\(音楽\).md "wikilink")、自らの天性の才能と努力を自画自賛した。[山田マン](../Page/山田マン.md "wikilink")、Qとの濃厚で攻撃的な[ラップ](../Page/ラップ.md "wikilink")が繰り広げられている。シングルの累計売上は70万枚以上を記録\[1\]。
+[ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")をフィーチャリングして発表された作品。この作品で[降谷建志](../Page/降谷建志.md "wikilink")は自ら[ロックの最前衛に位置している事を認識し](../Page/ロック_\(音楽\).md "wikilink")、自らの天性の才能と努力を自画自賛した。[山田マン](../Page/山田マン.md "wikilink")、Qとの濃厚で攻撃的な[ラップ](../Page/ラップ.md "wikilink")が繰り広げられている。シングルの累計売上は70万枚以上を記録\[1\]。
 
-トラックは[1988年](../Page/1988年.md "wikilink")に発売されたEric B. & RakimのMicrophone Fiendを意識し同じ元ネタを使用している。 元ネタは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身の[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")/[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")のバンド[アヴェレージ・ホワイト・バンド](https://ja.wikipedia.org/wiki/アヴェレージ・ホワイト・バンド "wikilink")の[1975年](../Page/1975年.md "wikilink")に発売されたSchool Boy Crush。
+トラックは[1988年](../Page/1988年.md "wikilink")に発売されたEric B. & RakimのMicrophone Fiendを意識し同じ元ネタを使用している。 元ネタは[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身の[ファンク](../Page/ファンク.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")/[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")のバンド[アヴェレージ・ホワイト・バンド](https://ja.wikipedia.org/wiki/アヴェレージ・ホワイト・バンド "wikilink")の[1975年](../Page/1975年.md "wikilink")に発売されたSchool Boy Crush。
 
-PVには[SBKのHAKUCHOがギター担当で出演している](https://ja.wikipedia.org/wiki/スケボーキング "wikilink")。
+PVには[SBKのHAKUCHOがギター担当で出演している](../Page/スケボーキング.md "wikilink")。
 
-[SONYの](../Page/ソニー.md "wikilink")「[MDウォークマン](https://ja.wikipedia.org/wiki/ウォークマン "wikilink")」のCMソングに起用された。
+[SONYの](../Page/ソニー.md "wikilink")「[MDウォークマン](../Page/ウォークマン.md "wikilink")」のCMソングに起用された。
 
 サンプリング曲の権利問題で長らく音楽配信では発売されていなかったが、問題が解消されたことで2012年8月8日から携帯電話でのダウンロード販売が、同年8月22日から[iTunes Storeやスマートフォンでのダウンロード販売が開始された](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[2\]。
 

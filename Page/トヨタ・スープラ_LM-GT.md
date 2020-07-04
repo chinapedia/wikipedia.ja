@@ -19,7 +19,7 @@
 
 ### 28号車（トラスト）
 
-28号車のドライバーには[ジョージ・フーシェ](../Page/ジョージ・フーシェ.md "wikilink")、[スティーヴン・アンドスカー](https://ja.wikipedia.org/wiki/スティーヴン・アンドスカー "wikilink")、[トーマス・ダニエルソン](https://ja.wikipedia.org/wiki/トーマス・ダニエルソン "wikilink")が起用された。しかし、レース本番間近となった95年4月の[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")でのテストでクラッシュ、急遽エントリーがキャンセルされてしまう事態になる。\[2\] ちなみにこの車の[リア](../Page/前後.md "wikilink")・[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")は[トヨタ・TS010](../Page/トヨタ・TS010.md "wikilink")のフロントに使用されていた物である。\[3\]
+28号車のドライバーには[ジョージ・フーシェ](../Page/ジョージ・フーシェ.md "wikilink")、[スティーヴン・アンドスカー](../Page/スティーブン・アンドスカー.md "wikilink")、[トーマス・ダニエルソン](https://ja.wikipedia.org/wiki/トーマス・ダニエルソン "wikilink")が起用された。しかし、レース本番間近となった95年4月の[富士スピードウェイ](https://ja.wikipedia.org/wiki/富士スピードウェイ "wikilink")でのテストでクラッシュ、急遽エントリーがキャンセルされてしまう事態になる。\[2\] ちなみにこの車の[リア](../Page/前後.md "wikilink")・[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")は[トヨタ・TS010](../Page/トヨタ・TS010.md "wikilink")のフロントに使用されていた物である。\[3\]
 
 主なスポンサーは、[日綜産業](https://ja.wikipedia.org/wiki/日綜産業 "wikilink")・[ゲーテハウス](https://ja.wikipedia.org/wiki/ゲーテハウス "wikilink")・トヨタ自動車・ダンロップ・[シビエ](https://ja.wikipedia.org/wiki/シビエ "wikilink")である。
 

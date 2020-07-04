@@ -10,7 +10,7 @@
   - 高度アクセス解析 - 高度なアクセス解析機能が使用できる。有料会員の場合、解析機能が強化される。
   - [スパムフィルタ](../Page/スパム_\(メール\).md "wikilink") - 悪質なコメントやトラックバックを禁止できる。
   - タグ機能 - 記事・画像・音声・動画それぞれにタグを付けることができる。
-  - [メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")のみでの登録が可能 - メールアドレスのみでの登録が可能で、会員登録（住所等入力）の必要がない。
+  - [メールアドレス](../Page/メールアドレス.md "wikilink")のみでの登録が可能 - メールアドレスのみでの登録が可能で、会員登録（住所等入力）の必要がない。
 
 <!-- end list -->
 
@@ -32,18 +32,18 @@
 
 ### 無料プラン
 
-  - 記事は容量無制限／画像・音声・動画は計1000[MBの容量](https://ja.wikipedia.org/wiki/メガバイト "wikilink")
+  - 記事は容量無制限／画像・音声・動画は計1000[MBの容量](../Page/メガバイト.md "wikilink")
       - 画像は[GIF](../Page/Graphics_Interchange_Format.md "wikilink")／[JPEG](../Page/JPEG.md "wikilink")／[PNG](../Page/Portable_Network_Graphics.md "wikilink")／[BMP形式で](../Page/Windows_bitmap.md "wikilink")1枚当たり1MBまで
       - 音声は[MP3](../Page/MP3.md "wikilink")形式で1ファイル当たり5MBまで
-      - 動画は[AVI](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")／[MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")／[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")／[M4V](https://ja.wikipedia.org/wiki/MP4 "wikilink")／[WMV](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")／[3GP](https://ja.wikipedia.org/wiki/3GPP "wikilink")／[3G2](https://ja.wikipedia.org/wiki/3GPP2 "wikilink")／[RAM](https://ja.wikipedia.org/wiki/RAM "wikilink")形式で1ファイル当たり5MBまで
+      - 動画は[AVI](../Page/Audio_Video_Interleave.md "wikilink")／[MP4](../Page/MP4.md "wikilink")／[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")／[M4V](../Page/MP4.md "wikilink")／[WMV](../Page/Windows_Media_Video.md "wikilink")／[3GP](../Page/3GPP.md "wikilink")／[3G2](../Page/3GPP2.md "wikilink")／[RAM](https://ja.wikipedia.org/wiki/RAM "wikilink")形式で1ファイル当たり5MBまで
 
 ### 有料プラン
 
-  - 記事は容量無制限／画像・音声・動画は計3000[MBの容量](https://ja.wikipedia.org/wiki/メガバイト "wikilink")
+  - 記事は容量無制限／画像・音声・動画は計3000[MBの容量](../Page/メガバイト.md "wikilink")
       - 画像は[GIF](../Page/Graphics_Interchange_Format.md "wikilink")／[JPEG](../Page/JPEG.md "wikilink")／[PNG](../Page/Portable_Network_Graphics.md "wikilink")／[BMP形式で](../Page/Windows_bitmap.md "wikilink")1枚当たり5MBまで
       - 音声は[MP3](../Page/MP3.md "wikilink")形式で1ファイル当たり10MBまで
-      - 動画は[AVI](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")／[MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")／[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")／[M4V](https://ja.wikipedia.org/wiki/MP4 "wikilink")／[WMV](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")／[3GP](https://ja.wikipedia.org/wiki/3GPP "wikilink")／[3G2](https://ja.wikipedia.org/wiki/3GPP2 "wikilink")／[RAM](https://ja.wikipedia.org/wiki/RAM "wikilink")形式で1ファイル当たり10MBまで
-      - Word、Excel、Powerpoint、[PDF](../Page/Portable_Document_Format.md "wikilink")、[txtファイルのアップロードが可能](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")
+      - 動画は[AVI](../Page/Audio_Video_Interleave.md "wikilink")／[MP4](../Page/MP4.md "wikilink")／[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")／[M4V](../Page/MP4.md "wikilink")／[WMV](../Page/Windows_Media_Video.md "wikilink")／[3GP](../Page/3GPP.md "wikilink")／[3G2](../Page/3GPP2.md "wikilink")／[RAM](https://ja.wikipedia.org/wiki/RAM "wikilink")形式で1ファイル当たり10MBまで
+      - Word、Excel、Powerpoint、[PDF](../Page/Portable_Document_Format.md "wikilink")、[txtファイルのアップロードが可能](../Page/テキストファイル.md "wikilink")
   - アクセス解析の高機能化
   - 広告表示なし
   - 1アカウント当たりのブログ開設数が10ブログに

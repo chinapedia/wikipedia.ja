@@ -11,8 +11,6 @@
 
 なお、この[アルバム](../Page/アルバム.md "wikilink")発売日の翌日に彼らは[東京国際展示場](../Page/東京国際展示場.md "wikilink")にて10周年記念ライブ「NEVER SOLD OUT CAPACITY∞」を行っている。
 
-アルバムタイトルと、アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
-
 ## 収録曲
 
 全[作詞](../Page/作詞.md "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")（「SILENT NIGHT」を除く）

@@ -1,7 +1,7 @@
 > この記事は[Windy Shadow](https://ja.wikipedia.org/wiki/Windy_Shadow)から翻訳されています。
 
 
-『**Windy Shadow**』（ウィンディー・シャドウ）は、[松田聖子](../Page/松田聖子.md "wikilink")通算10枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。[1984年](../Page/1984年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")に[CBS・ソニーから発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+『**Windy Shadow**』（ウィンディー・シャドウ）は、[松田聖子](../Page/松田聖子.md "wikilink")通算10枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。[1984年](../Page/1984年.md "wikilink")[12月8日](../Page/12月8日.md "wikilink")に[CBS・ソニーから発売された](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 ## 解説
 
@@ -31,23 +31,23 @@
 ## 収録曲
 
 1.  **マンハッタンでブレックファスト**　（4:26）
-      - 作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲・編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲・編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 2.  **薔薇とピストル**　（3:41）
       - 作詞：松本隆／作曲：SEIKO／編曲：大村雅朗
 3.  **今夜はソフィストケート**　（4:15)
       - 作詞：松本隆／作曲：[Holland Rose](../Page/佐野元春.md "wikilink")／編曲：大村雅朗
 4.  **そよ風のフェイント**　（3:19）
-      - 作詞：松本隆／作曲：[矢野顕子](../Page/矢野顕子.md "wikilink")／編曲：[戸塚修](https://ja.wikipedia.org/wiki/戸塚修 "wikilink")
+      - 作詞：松本隆／作曲：[矢野顕子](../Page/矢野顕子.md "wikilink")／編曲：[戸塚修](../Page/戸塚修.md "wikilink")
 5.  **[ハートのイアリング](../Page/ハートのイアリング.md "wikilink")**　（4:05）
       - 作詞：松本隆／作曲：Holland Rose／編曲：大村雅朗
 6.  **Dancing Café**　（3:55）
-      - 作詞：松本隆／作曲：[杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")／編曲：[船山基紀](https://ja.wikipedia.org/wiki/船山基紀 "wikilink")
+      - 作詞：松本隆／作曲：[杉真理](../Page/杉真理.md "wikilink")／編曲：[船山基紀](../Page/船山基紀.md "wikilink")
 7.  **MAUI**　（3:50）
-      - 作詞：松本隆／作曲：[NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")／編曲：大村雅朗
+      - 作詞：松本隆／作曲：[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")／編曲：大村雅朗
 8.  **銀色のオートバイ**　（4:54）
-      - 作詞：松本隆／作曲：[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")／編曲：戸塚修
+      - 作詞：松本隆／作曲：[林哲司](../Page/林哲司.md "wikilink")／編曲：戸塚修
 9.  **[ピンクのモーツァルト](../Page/ピンクのモーツァルト.md "wikilink")**　（3:57）
-      - 作詞：松本隆／作曲：[細野晴臣](../Page/細野晴臣.md "wikilink")／編曲：細野晴臣・[松任谷正隆](https://ja.wikipedia.org/wiki/松任谷正隆 "wikilink")
+      - 作詞：松本隆／作曲：[細野晴臣](../Page/細野晴臣.md "wikilink")／編曲：細野晴臣・[松任谷正隆](../Page/松任谷正隆.md "wikilink")
 10. **Star**　（5:08）
       - 作詞：松本隆／作曲：林哲司／編曲：大村雅朗
 

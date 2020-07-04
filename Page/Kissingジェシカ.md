@@ -15,27 +15,27 @@
 
 ## キャスト
 
-| 役名            | 俳優                                                                            | 日本語吹替                                                       |
-| ------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| ジェシカ・スタイン     | [ジェニファー・ウェストフェルド](https://ja.wikipedia.org/wiki/ジェニファー・ウェストフェルド "wikilink")   | [佐々木優子](../Page/佐々木優子.md "wikilink")                        |
-| ヘレン・クーパー      | [ヘザー・ジャーゲンセン](https://ja.wikipedia.org/wiki/ヘザー・ジャーゲンセン "wikilink")           | [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")       |
-| ジョシュ・マイヤーズ    | [スコット・コーエン](https://ja.wikipedia.org/wiki/スコット・コーエン "wikilink")               | [佐久田修](https://ja.wikipedia.org/wiki/佐久田修 "wikilink")       |
-| ジュディ・スタイン     | [トーヴァ・フェルドシャー](https://ja.wikipedia.org/wiki/トーヴァ・フェルドシャー "wikilink")         | [火野カチコ](https://ja.wikipedia.org/wiki/火野カチコ "wikilink")     |
-| ダン・“ダニー”・スタイン | [デイヴィッド・アーロン・ベイカー](https://ja.wikipedia.org/wiki/デイヴィッド・アーロン・ベイカー "wikilink") | [小形満](../Page/小形満.md "wikilink")                            |
-| シドニー・スタイン     | [ロバート・アリ](https://ja.wikipedia.org/wiki/ロバート・アリ "wikilink")                   | [小山武宏](../Page/小山武宏.md "wikilink")                          |
-| ジョーン          | [ジャッキー・ホフマン](https://ja.wikipedia.org/wiki/ジャッキー・ホフマン "wikilink")             | [寺内よりえ](../Page/寺内よりえ.md "wikilink")                        |
-| マーティン         | [マイケル・マストロ](https://ja.wikipedia.org/wiki/マイケル・マストロ "wikilink")               | [中村大樹](../Page/中村大樹.md "wikilink")                          |
-| セバスチャン        | [カーソン・エルロッド](https://ja.wikipedia.org/wiki/カーソン・エルロッド "wikilink")             | [根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")       |
-| スタンリー         | [ピーター・ハーシュ](https://ja.wikipedia.org/wiki/ピーター・ハーシュ "wikilink")               | [石井隆夫](../Page/石井隆夫.md "wikilink")                          |
-| グランマ・エスター     | [エスター・ワームフェルド](https://ja.wikipedia.org/wiki/エスター・ワームフェルド "wikilink")         | [鳳芳野](../Page/鳳芳野.md "wikilink")                            |
-| スティーブン        | [マイケル・ショーウォルター](https://ja.wikipedia.org/wiki/マイケル・ショーウォルター "wikilink")       | [三宅健太](../Page/三宅健太.md "wikilink")                          |
-| グレッグ          | [マイケル・イーリー](https://ja.wikipedia.org/wiki/マイケル・イーリー "wikilink")               | [浜田賢二](../Page/浜田賢二.md "wikilink")                          |
-| チャールズ         | [ジョン・ハム](https://ja.wikipedia.org/wiki/ジョン・ハム_\(俳優\) "wikilink")              | [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")                          |
-| ナンパ男\#1       |                                                                               | [木村雅史](../Page/木村雅史.md "wikilink")                          |
-| ハワード          | [ニック・コーリー](https://ja.wikipedia.org/wiki/ニック・コーリー "wikilink")                 | [下山吉光](../Page/下山吉光.md "wikilink")                          |
-| アーティスト        | [アリシア・ライナー](https://ja.wikipedia.org/wiki/アリシア・ライナー "wikilink")               | [きのしたゆうこ](https://ja.wikipedia.org/wiki/きのしたゆうこ "wikilink") |
-| レイチェル         | [ジェニファー・カータ](https://ja.wikipedia.org/wiki/ジェニファー・カータ "wikilink")             | [大野エリ](../Page/大野エリ.md "wikilink")                          |
-| ローリー          | [イラナ・レビン](https://ja.wikipedia.org/wiki/イラナ・レビン "wikilink")                   | [重松朋](../Page/重松朋.md "wikilink")                            |
+| 役名            | 俳優                                                                            | 日本語吹替                                                   |
+| ------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
+| ジェシカ・スタイン     | [ジェニファー・ウェストフェルド](https://ja.wikipedia.org/wiki/ジェニファー・ウェストフェルド "wikilink")   | [佐々木優子](../Page/佐々木優子.md "wikilink")                    |
+| ヘレン・クーパー      | [ヘザー・ジャーゲンセン](https://ja.wikipedia.org/wiki/ヘザー・ジャーゲンセン "wikilink")           | [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")   |
+| ジョシュ・マイヤーズ    | [スコット・コーエン](https://ja.wikipedia.org/wiki/スコット・コーエン "wikilink")               | [佐久田修](https://ja.wikipedia.org/wiki/佐久田修 "wikilink")   |
+| ジュディ・スタイン     | [トーヴァ・フェルドシャー](https://ja.wikipedia.org/wiki/トーヴァ・フェルドシャー "wikilink")         | [火野カチコ](https://ja.wikipedia.org/wiki/火野カチコ "wikilink") |
+| ダン・“ダニー”・スタイン | [デイヴィッド・アーロン・ベイカー](https://ja.wikipedia.org/wiki/デイヴィッド・アーロン・ベイカー "wikilink") | [小形満](../Page/小形満.md "wikilink")                        |
+| シドニー・スタイン     | [ロバート・アリ](https://ja.wikipedia.org/wiki/ロバート・アリ "wikilink")                   | [小山武宏](../Page/小山武宏.md "wikilink")                      |
+| ジョーン          | [ジャッキー・ホフマン](https://ja.wikipedia.org/wiki/ジャッキー・ホフマン "wikilink")             | [寺内よりえ](../Page/寺内よりえ.md "wikilink")                    |
+| マーティン         | [マイケル・マストロ](https://ja.wikipedia.org/wiki/マイケル・マストロ "wikilink")               | [中村大樹](../Page/中村大樹.md "wikilink")                      |
+| セバスチャン        | [カーソン・エルロッド](https://ja.wikipedia.org/wiki/カーソン・エルロッド "wikilink")             | [根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")   |
+| スタンリー         | [ピーター・ハーシュ](https://ja.wikipedia.org/wiki/ピーター・ハーシュ "wikilink")               | [石井隆夫](../Page/石井隆夫.md "wikilink")                      |
+| グランマ・エスター     | [エスター・ワームフェルド](https://ja.wikipedia.org/wiki/エスター・ワームフェルド "wikilink")         | [鳳芳野](../Page/鳳芳野.md "wikilink")                        |
+| スティーブン        | [マイケル・ショーウォルター](https://ja.wikipedia.org/wiki/マイケル・ショーウォルター "wikilink")       | [三宅健太](../Page/三宅健太.md "wikilink")                      |
+| グレッグ          | [マイケル・イーリー](https://ja.wikipedia.org/wiki/マイケル・イーリー "wikilink")               | [浜田賢二](../Page/浜田賢二.md "wikilink")                      |
+| チャールズ         | [ジョン・ハム](https://ja.wikipedia.org/wiki/ジョン・ハム_\(俳優\) "wikilink")              | [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")                      |
+| ナンパ男\#1       |                                                                               | [木村雅史](../Page/木村雅史.md "wikilink")                      |
+| ハワード          | [ニック・コーリー](https://ja.wikipedia.org/wiki/ニック・コーリー "wikilink")                 | [下山吉光](../Page/下山吉光.md "wikilink")                      |
+| アーティスト        | [アリシア・ライナー](https://ja.wikipedia.org/wiki/アリシア・ライナー "wikilink")               | [きのしたゆうこ](../Page/きのしたゆうこ.md "wikilink")                |
+| レイチェル         | [ジェニファー・カータ](https://ja.wikipedia.org/wiki/ジェニファー・カータ "wikilink")             | [大野エリ](../Page/大野エリ.md "wikilink")                      |
+| ローリー          | [イラナ・レビン](https://ja.wikipedia.org/wiki/イラナ・レビン "wikilink")                   | [重松朋](../Page/重松朋.md "wikilink")                        |
 
   - 日本語版制作スタッフ
 
@@ -59,4 +59,4 @@
   -
   -
   -
-[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:アメリカ合衆国のLGBT関連映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のLGBT関連映画 "wikilink") [Category:アメリカ合衆国のロマンティック・コメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のロマンティック・コメディ映画 "wikilink") [Category:LGBT関連コメディ映画](https://ja.wikipedia.org/wiki/Category:LGBT関連コメディ映画 "wikilink") [Category:レズビアン関連映画](https://ja.wikipedia.org/wiki/Category:レズビアン関連映画 "wikilink") [Category:マンハッタンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:マンハッタンを舞台とした映画作品 "wikilink") [Category:舞台劇の映画化作品](https://ja.wikipedia.org/wiki/Category:舞台劇の映画化作品 "wikilink") [Category:フォックス・サーチライト・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:フォックス・サーチライト・ピクチャーズの作品 "wikilink")
+[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:アメリカ合衆国のLGBT関連映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のLGBT関連映画 "wikilink") [Category:アメリカ合衆国のロマンティック・コメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のロマンティック・コメディ映画 "wikilink") [Category:LGBT関連コメディ映画](https://ja.wikipedia.org/wiki/Category:LGBT関連コメディ映画 "wikilink") [Category:レズビアン関連映画](https://ja.wikipedia.org/wiki/Category:レズビアン関連映画 "wikilink") [Category:マンハッタンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:マンハッタンを舞台とした映画作品 "wikilink") [Category:舞台劇の映画化作品](https://ja.wikipedia.org/wiki/Category:舞台劇の映画化作品 "wikilink") [Category:マーセロ・ザーヴォスの作曲映画](https://ja.wikipedia.org/wiki/Category:マーセロ・ザーヴォスの作曲映画 "wikilink") [Category:フォックス・サーチライト・ピクチャーズの作品](https://ja.wikipedia.org/wiki/Category:フォックス・サーチライト・ピクチャーズの作品 "wikilink")

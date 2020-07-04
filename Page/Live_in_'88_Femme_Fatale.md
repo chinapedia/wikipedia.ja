@@ -19,7 +19,7 @@ CDジャーナルと[HMV](../Page/HMV.md "wikilink")はともに『Live in '88 F
 
 | title2 = [不思議](../Page/Wonder_\(中森明菜のアルバム\).md "wikilink") | lyrics2 = [吉田美奈子](https://ja.wikipedia.org/wiki/吉田美奈子 "wikilink") | music2 = 吉田美奈子 | length2 =
 
-| title3 = [FAREWELL](../Page/Stock_\(中森明菜のアルバム\).md "wikilink") | lyrics3 = 許瑛子 | music3 = [佐藤健](https://ja.wikipedia.org/wiki/佐藤健_\(作曲家\) "wikilink") | length3 =
+| title3 = [FAREWELL](../Page/Stock_\(中森明菜のアルバム\).md "wikilink") | lyrics3 = 許瑛子 | music3 = [佐藤健](../Page/佐藤健_\(作曲家\).md "wikilink") | length3 =
 
 | title4 = [まだ充分じゃない](../Page/Stock_\(中森明菜のアルバム\).md "wikilink") | lyrics4 = [佐藤ありす](../Page/佐藤ありす.md "wikilink") | music4 = [林哲司](../Page/林哲司.md "wikilink") | length4 =
 

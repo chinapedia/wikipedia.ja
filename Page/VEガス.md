@@ -10,7 +10,7 @@
   - [神経ガス](../Page/神経ガス.md "wikilink")
   - [V剤](https://ja.wikipedia.org/wiki/V剤 "wikilink")
       - [VGガス](../Page/VGガス.md "wikilink")
-      - [VMガス](https://ja.wikipedia.org/wiki/VMガス "wikilink")
+      - [VMガス](../Page/VMガス.md "wikilink")
       - [VPガス](../Page/VPガス.md "wikilink")
       - [VXガス](../Page/VXガス.md "wikilink")
 

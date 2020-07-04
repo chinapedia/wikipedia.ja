@@ -1,7 +1,7 @@
 > この記事は[AFCテルフォード・ユナイテッド](https://ja.wikipedia.org/wiki/AFCテルフォード・ユナイテッド)から翻訳されています。
 
 
-**アソシエーション・フットボール・クラブ・テルフォード・ユナイテッド**（**Association Football Club Telford United**）は[イングランド](../Page/イングランド.md "wikilink")、[シュロップシャー](../Page/シュロップシャー.md "wikilink")州、[テルフォード・アンド・レキン](https://ja.wikipedia.org/wiki/テルフォード・アンド・レキン "wikilink")を本拠地とするサッカークラブチームである。2018-2019シーズンは[カンファレンス・ノース](https://ja.wikipedia.org/wiki/カンファレンス・ノース "wikilink")（6部相当）に所属。
+**アソシエーション・フットボール・クラブ・テルフォード・ユナイテッド**（**Association Football Club Telford United**）は[イングランド](../Page/イングランド.md "wikilink")、[シュロップシャー](../Page/シュロップシャー.md "wikilink")州、[テルフォード・アンド・レキン](https://ja.wikipedia.org/wiki/テルフォード・アンド・レキン "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[カンファレンス・ノース](https://ja.wikipedia.org/wiki/カンファレンス・ノース "wikilink")（6部相当）に所属。
 
 ## クラブ各種記録
 

@@ -80,6 +80,6 @@
 
 ## 外部リンク
 
-  - [crystal3 〜サーカス ヴォーカルコレクション〜 Vol.3](http://lantis.jp/new-release/data.php?id=a7d9b27982348270ba59e3ba6f383ad7)
+  - [crystal3 〜サーカス ヴォーカルコレクション〜 Vol.3](https://www.lantis.jp/release-item/LACA-5592.html)
 
 [Category:CIRCUSの音楽](https://ja.wikipedia.org/wiki/Category:CIRCUSの音楽 "wikilink") [Category:D.C._〜ダ・カーポ〜シリーズのアルバム](https://ja.wikipedia.org/wiki/Category:D.C._〜ダ・カーポ〜シリーズのアルバム "wikilink") [Category:ランティスのアルバム](https://ja.wikipedia.org/wiki/Category:ランティスのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

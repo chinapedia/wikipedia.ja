@@ -113,11 +113,11 @@
 
 ## エピソード
 
-  - 当レースに出場した全9選手は2007年[12月27日](../Page/12月27日.md "wikilink")より実施され、合計18名の在籍者で構成される初代[S級S班選手でもあった](https://ja.wikipedia.org/wiki/競輪選手#S級S班の概要 "wikilink")。S級S班の地位は、2008年[12月26日](../Page/12月26日.md "wikilink")まで保障されることになっている\[4\]。
+  - 地上波中継は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")《[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列 全14局ネット》が放送したが、この年で[テレビ東京系列](https://ja.wikipedia.org/wiki/テレビ東京系列 "wikilink")としては、最後のKEIRINグランプリ中継になっている\[4\]。
 
-<!-- end list -->
+### 競走データ
 
-  - 地上波中継は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")《[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")系列 全14局ネット》が放送したが、この年で[テレビ東京系列](https://ja.wikipedia.org/wiki/テレビ東京系列 "wikilink")としては、最後のKEIRINグランプリ中継になっている\[5\]。
+  - 当レースに出場した全9選手は2007年[12月27日](../Page/12月27日.md "wikilink")より実施され、合計18名の在籍者で構成される初代[S級S班選手でもあった](https://ja.wikipedia.org/wiki/競輪選手#S級S班の概要 "wikilink")。S級S班の地位は、2008年[12月26日](../Page/12月26日.md "wikilink")まで保障されることになっている\[5\]。
 
 <!-- end list -->
 
@@ -130,6 +130,6 @@
 1.  [伏見が６年ぶり２度目Ｖ](http://cache.yahoofs.jp/search/cache?c=XRM5e5swiWgJ&p=2007&u=www.idolreport.jp%2Fad%2Fkeirin%2Fkeiringp08%2Fplayback%2F2007%2Findex.html)（[アーカイブ](http://archive.is/yT0w7)）
 2.  [『KEIRINグランプリ07【GP】』出場予定選手の決定について](http://keirin.jp/pc/dfw/portal/guest/news/2007khn/12/news20071204_01.html)
 3.  [『KEIRINグランプリ07【GP】』 共同インタビュー](http://keirin.jp/pc/dfw/portal/guest/report/graderace/grandprix/H19/28/int_GP_H19_0_1.html)
-4.  [S級S班選手の決定について](http://keirin.jp/pc/dfw/portal/guest/news/2007khn/12/news20071204_02.html) KEIRINホームページ 2007年12月4日閲覧
-5.  翌年から[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")に移行している。
+4.  翌年から[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")に移行している。
+5.  [S級S班選手の決定について](http://keirin.jp/pc/dfw/portal/guest/news/2007khn/12/news20071204_02.html) KEIRINホームページ 2007年12月4日閲覧
 6.  [伏見が6年ぶりの栄冠　競輪グランプリ](http://sankei.jp.msn.com/sports/other/071230/oth0712301812005-n1.htm) 産経新聞 2007年12月30日閲覧

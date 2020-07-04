@@ -5,17 +5,17 @@
 
 ## 主な機能・サービス
 
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")対応
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")対応
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                                                |
-| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")                                 |
-| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [S\!FeliCa](https://ja.wikipedia.org/wiki/S!FeliCa "wikilink")                           |
-| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")                    |
-| [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")                                    |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                             |
+| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")              |
+| [PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [S\!FeliCa](../Page/S!FeliCa.md "wikilink")                           |
+| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink") |
+| [ワンセグ](../Page/ワンセグ.md "wikilink")                                    |
 
 ## 特徴
 
@@ -29,7 +29,7 @@
 ## 関連項目
 
   - [ソフトバンクモバイルの端末一覧](https://ja.wikipedia.org/wiki/ソフトバンクモバイルの端末一覧 "wikilink")
-  - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")
+  - [ワンセグ](../Page/ワンセグ.md "wikilink")
 
 <!-- end list -->
 

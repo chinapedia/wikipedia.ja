@@ -1,7 +1,7 @@
-> この記事は[Firefly](https://ja.wikipedia.org/wiki/Firefly)から翻訳されています。
+> この記事は[Firefly〜僕は生きていく](https://ja.wikipedia.org/wiki/Firefly〜僕は生きていく)から翻訳されています。
 
 
-「**Firefly〜僕は生きていく**」（ファイヤーフライ ぼくはいきていく）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](https://ja.wikipedia.org/wiki/2月6日 "wikilink")に発売された[槇原敬之](../Page/槇原敬之.md "wikilink")の38枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Firefly〜僕は生きていく**」（ファイヤーフライ ぼくはいきていく）は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")に発売された[槇原敬之](../Page/槇原敬之.md "wikilink")の38枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 

@@ -9,20 +9,20 @@
 
 <!-- end list -->
 
-  - [Windows Media PlayerなどのDirectShow対応](https://ja.wikipedia.org/wiki/Windows_Media_Player "wikilink")[メディアプレーヤー](https://ja.wikipedia.org/wiki/メディアプレーヤー "wikilink")で[Matroska](https://ja.wikipedia.org/wiki/Matroska "wikilink")や[MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")を再生するのに利用されている。
+  - [Windows Media PlayerなどのDirectShow対応](../Page/Windows_Media_Player.md "wikilink")[メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")で[Matroska](../Page/Matroska.md "wikilink")や[MP4](../Page/MP4.md "wikilink")を再生するのに利用されている。
 
 <!-- end list -->
 
-  - [Windows ムービーメーカーの発行時](https://ja.wikipedia.org/wiki/Windows_ムービーメーカー "wikilink") に、これが常駐していると[フリーズ](../Page/フリーズ.md "wikilink")する。
+  - [Windows ムービーメーカーの発行時](../Page/Windows_ムービーメーカー.md "wikilink") に、これが常駐していると[フリーズ](../Page/フリーズ.md "wikilink")する。
 
 ## 対応形式
 
-  - [AVI](https://ja.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")
-  - [Matroska](https://ja.wikipedia.org/wiki/Matroska "wikilink")
-  - [MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")
+  - [AVI](../Page/Audio_Video_Interleave.md "wikilink")
+  - [Matroska](../Page/Matroska.md "wikilink")
+  - [MP4](../Page/MP4.md "wikilink")
   - [MPEG-2 TS](../Page/MPEG-2システム.md "wikilink")
-  - [Ogg](https://ja.wikipedia.org/wiki/Ogg "wikilink")
-  - [Ogg Media](https://ja.wikipedia.org/wiki/Ogg_Media "wikilink")
+  - [Ogg](../Page/Ogg.md "wikilink")
+  - [Ogg Media](../Page/Ogg_Media.md "wikilink")
   - [WebM](https://ja.wikipedia.org/wiki/WebM "wikilink")
 
 ## 動作環境
@@ -48,6 +48,6 @@
 
 ## 外部リンク
 
-  - [1](http://haali.su/mkv/)
+  - [公式サイト](http://haali.su/mkv/)
 
 [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:マルチメディアソフトウェア](https://ja.wikipedia.org/wiki/Category:マルチメディアソフトウェア "wikilink")

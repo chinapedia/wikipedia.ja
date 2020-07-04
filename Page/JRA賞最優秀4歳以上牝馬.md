@@ -308,12 +308,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1981年.md" title="wikilink">1981年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラフオンテース" title="wikilink">ラフオンテース</a></p></td>
+<td><p><a href="../Page/ラフオンテース.md" title="wikilink">ラフオンテース</a></p></td>
 <td><p>牝5</p></td>
 <td><p>13戦4勝<br />
 <a href="../Page/小倉記念.md" title="wikilink">小倉記念</a></p></td>
 <td><p>中脇次作</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/布施正" title="wikilink">布施正</a></p></td>
+<td><p><a href="../Page/布施正.md" title="wikilink">布施正</a></p></td>
 <td><p>小柴タマヲ</p></td>
 </tr>
 <tr class="odd">
@@ -358,7 +358,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1986年" title="wikilink">1986年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タカラスチール" title="wikilink">タカラスチール</a></p></td>
+<td><p><a href="../Page/タカラスチール.md" title="wikilink">タカラスチール</a></p></td>
 <td><p>牝5</p></td>
 <td><p>10戦1勝<br />
 <a href="../Page/マイルチャンピオンシップ.md" title="wikilink">マイルチャンピオンシップ</a></p></td>

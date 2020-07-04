@@ -1,7 +1,7 @@
-> この記事は[TIMER3](https://ja.wikipedia.org/wiki/TIMER3)から翻訳されています。
+> この記事は[時間救助隊TIMER3](https://ja.wikipedia.org/wiki/時間救助隊TIMER3)から翻訳されています。
 
 
-『**時間救助隊TIMER3**』（じかんきゅうじょたいタイマースリー）は、[能田達規](https://ja.wikipedia.org/wiki/能田達規 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[講談社](../Page/講談社.md "wikilink")『[月刊少年シリウス](https://ja.wikipedia.org/wiki/月刊少年シリウス "wikilink")』にて、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月号（創刊号）から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月号まで不定期連載された。全5話、全1巻。この世の悲劇を無くすため、時間を3分間だけ遡って活動できる「時間救助隊TIMER3」が、[事故](../Page/事故.md "wikilink")や[自然災害](../Page/自然災害.md "wikilink")で命を失ってしまう人を助けるストーリー。
+『**時間救助隊TIMER3**』（じかんきゅうじょたいタイマースリー）は、[能田達規](../Page/能田達規.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[講談社](../Page/講談社.md "wikilink")『[月刊少年シリウス](../Page/月刊少年シリウス.md "wikilink")』にて、[2005年](../Page/2005年.md "wikilink")7月号（創刊号）から[2006年](../Page/2006年.md "wikilink")11月号まで不定期連載された。全5話、全1巻。この世の悲劇を無くすため、時間を3分間だけ遡って活動できる「時間救助隊TIMER3」が、[事故](../Page/事故.md "wikilink")や[自然災害](../Page/自然災害.md "wikilink")で命を失ってしまう人を助けるストーリー。
 
 ## あらすじ
 
@@ -27,6 +27,6 @@
   - SSスーツ（スーパースピードスーツ）
     着用した人間の動く速度や考える速さを100倍にしてくれるパワードスーツ。そのため、これを着た人間には外の世界がほぼ止まって見える。[重力加速度](../Page/重力加速度.md "wikilink")（G）も背中のGブースターで人工的に10倍にできる。
   - T3豆タンク（タイマースリーまめタンク）
-    [線路上でSS](https://ja.wikipedia.org/wiki/線路_\(鉄道\) "wikilink")（スーパースピード）タイム速度100キロ（[時速](https://ja.wikipedia.org/wiki/時速 "wikilink")1万km）以上を出す事で3分過去に戻れるタイムマシン。原理としては[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の鉄道網2万7733km超の導電鉄線を利用して量子化した自らを移動、日本中を往復運動することによりドップラーローレンツ効果で自らを光速化、約3分の時間を遡ることができるという。タイムスリップ後は日本の線路上のどこにでも出現できる。
+    [線路上でSS](../Page/線路_\(鉄道\).md "wikilink")（スーパースピード）タイム速度100キロ（[時速](https://ja.wikipedia.org/wiki/時速 "wikilink")1万km）以上を出す事で3分過去に戻れるタイムマシン。原理としては[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の鉄道網2万7733km超の導電鉄線を利用して量子化した自らを移動、日本中を往復運動することによりドップラーローレンツ効果で自らを光速化、約3分の時間を遡ることができるという。タイムスリップ後は日本の線路上のどこにでも出現できる。
 
 [Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:月刊少年シリウス](https://ja.wikipedia.org/wiki/Category:月刊少年シリウス "wikilink") [Category:タイムトラベルを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材とした漫画作品 "wikilink") [Category:パワードスーツ・プロテクターを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:パワードスーツ・プロテクターを題材とした漫画作品 "wikilink") [Category:人命救助を題材とした作品](https://ja.wikipedia.org/wiki/Category:人命救助を題材とした作品 "wikilink")

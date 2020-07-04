@@ -93,7 +93,7 @@
   -
   - [十面埋伏](http://www.hkmdb.com/db/movies/view.mhtml?id=10669&display_set=big5)  - 香港影庫
 
-[Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:香港の叙事詩的映画](https://ja.wikipedia.org/wiki/Category:香港の叙事詩的映画 "wikilink") [Category:武侠映画](https://ja.wikipedia.org/wiki/Category:武侠映画 "wikilink") [Category:唐朝を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:唐朝を舞台とした映画作品 "wikilink") [Category:人物の入れ代わりを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材とした映画作品 "wikilink") [Category:張芸謀の監督映画](https://ja.wikipedia.org/wiki/Category:張芸謀の監督映画 "wikilink") [Category:梅林茂の作曲映画](https://ja.wikipedia.org/wiki/Category:梅林茂の作曲映画 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink")
+[Category:2004年の映画](https://ja.wikipedia.org/wiki/Category:2004年の映画 "wikilink") [Category:香港のアクション映画](https://ja.wikipedia.org/wiki/Category:香港のアクション映画 "wikilink") [Category:香港の叙事詩的映画](https://ja.wikipedia.org/wiki/Category:香港の叙事詩的映画 "wikilink") [Category:武侠映画](https://ja.wikipedia.org/wiki/Category:武侠映画 "wikilink") [Category:唐朝を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:唐朝を舞台とした映画作品 "wikilink") [Category:人物の入れ代わりを題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人物の入れ代わりを題材とした映画作品 "wikilink") [Category:ウクライナで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ウクライナで製作された映画作品 "wikilink") [Category:張芸謀の監督映画](https://ja.wikipedia.org/wiki/Category:張芸謀の監督映画 "wikilink") [Category:梅林茂の作曲映画](https://ja.wikipedia.org/wiki/Category:梅林茂の作曲映画 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink")
 
 1.  映画パンフレットP42、及びメイキングDVD『Lovers外伝』
 2.  映画パンフレットP42、及びメイキングDVD『Lovers外伝』

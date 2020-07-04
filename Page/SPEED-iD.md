@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")、THE OTHER SIDEの優朗（Vo）とHAL（Dr）を中心に結成。
+[1992年](../Page/1992年.md "wikilink")、THE OTHER SIDEの優朗（Vo）とHAL（Dr）を中心に結成。
 
 [1993年](../Page/1993年.md "wikilink")に[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink")でデビューライブ。フリーウィルやKEY PARTYに在籍し4枚のオリジナルアルバムと1枚のライヴアルバムを発表。数回の全国ツアーやホール規模でのワンマンライヴを経て、 2000年にはゴスの本拠地ドイツにてアルバムリリースと全独ツアーを決行。ヨーロッパにてカルト的支持を集めるGERMAN GOTHシーンの重鎮「THE ANGINA PECTORIS」とのカップリングによる同ツアーにより
 
@@ -16,7 +16,7 @@
 ## メンバー
 
   - Vo.H.L.EURO(優朗) : ex.THE OTHER SIDE。現在は、自らがプロデュースする[function code();でも活動中](https://ja.wikipedia.org/wiki/functioncode "wikilink")。
-  - Dr.J.P.HAL.J : ex.THE OTHER SIDE、[LAB. THE BASEMENT](https://ja.wikipedia.org/wiki/LAB._THE_BASEMENT "wikilink")。現在は、function code();でも活動中。
+  - Dr.J.P.HAL.J : ex.THE OTHER SIDE、[LAB. THE BASEMENT](../Page/LAB._THE_BASEMENT.md "wikilink")。現在は、function code();でも活動中。
   - Gt. MARQUEE : ex.[the HAREM Q](https://ja.wikipedia.org/wiki/the_HAREM_Q "wikilink")
   - Ba. HIKO : ex.[Vogue](../Page/ヴォーグ_\(バンド\).md "wikilink")
 

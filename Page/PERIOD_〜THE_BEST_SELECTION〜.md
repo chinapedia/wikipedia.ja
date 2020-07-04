@@ -1,7 +1,7 @@
-> この記事は[PERIOD THE BEST SELECTION](https://ja.wikipedia.org/wiki/PERIOD_THE_BEST_SELECTION)から翻訳されています。
+> この記事は[PERIOD 〜THE BEST SELECTION〜](https://ja.wikipedia.org/wiki/PERIOD_〜THE_BEST_SELECTION〜)から翻訳されています。
 
 
-**PERIOD 〜THE BEST SELECTION〜**（ピリオド ザ・ベスト・セレクション）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")2枚目の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")発売。
+**PERIOD 〜THE BEST SELECTION〜**（ピリオド ザ・ベスト・セレクション）は、[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")発売。
 
 ## 解説
 
@@ -11,7 +11,7 @@ LUNA SEAの“終幕”直前にリリースされたベスト・アルバム。
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")･[作曲](../Page/作曲.md "wikilink")･[編曲](../Page/編曲.md "wikilink"):[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 ※印はニュー・レコーディング。
 
 1.  **[LOVE SONG](../Page/LOVE_SONG_\(LUNA_SEAの曲\).md "wikilink")**
@@ -26,11 +26,11 @@ LUNA SEAの“終幕”直前にリリースされたベスト・アルバム。
 4.  **[TONIGHT](../Page/TONIGHT_\(LUNA_SEAの曲\).md "wikilink")**
       -
         13thシングル。
-5.  **[END OF SORROW](https://ja.wikipedia.org/wiki/END_OF_SORROW "wikilink")**
+5.  **[END OF SORROW](../Page/END_OF_SORROW.md "wikilink")**
       -
-        7thシングル。出だしの声はシングルバージョンのものだが、曲自体は『[STYLE](https://ja.wikipedia.org/wiki/STYLE_\(LUNA_SEAのアルバム\) "wikilink")』に収録されているバージョンのものが使用されている。
+        7thシングル。出だしの声はシングルバージョンのものだが、曲自体は『[STYLE](../Page/STYLE_\(LUNA_SEAのアルバム\).md "wikilink")』に収録されているバージョンのものが使用されている。
 6.  **[ROSIER](../Page/ROSIER.md "wikilink")**
-    :3rdシングル。本作に収録されているのは、4thアルバム『[MOTHER](https://ja.wikipedia.org/wiki/MOTHER_\(LUNA_SEAのアルバム\) "wikilink")』に収録されているバージョン。
+    :3rdシングル。本作に収録されているのは、4thアルバム『[MOTHER](../Page/MOTHER_\(LUNA_SEAのアルバム\).md "wikilink")』に収録されているバージョン。
 7.  **[TRUE BLUE](../Page/TRUE_BLUE_\(LUNA_SEAの曲\).md "wikilink")**
       -
         4thシングル。
@@ -43,7 +43,7 @@ LUNA SEAの“終幕”直前にリリースされたベスト・アルバム。
 10. **LOVELESS**
       -
         4thアルバム『MOTHER』収録曲。
-11. **[BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(LUNA_SEAの曲\) "wikilink")** ※
+11. **[BELIEVE](../Page/BELIEVE_\(LUNA_SEAの曲\).md "wikilink")** ※
       -
         1stシングル。
 12. **Déjàvu** ※

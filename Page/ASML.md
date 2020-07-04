@@ -7,11 +7,11 @@
 
 [right](https://ja.wikipedia.org/wiki/ファイル:ASML_headquarters_Veldhoven.jpg "wikilink")[IDMや](https://ja.wikipedia.org/wiki/:en:_Integrated_device_manufacturer "wikilink")[ファウンドリ](../Page/ファウンドリ.md "wikilink")などの半導体メーカーは、[ムーアの法則](../Page/ムーアの法則.md "wikilink")に従い、製造するIC（[集積回路](../Page/集積回路.md "wikilink")）を年々微細化する。ICの製造工程では、30から40回[シリコンウェハー](../Page/シリコンウェハー.md "wikilink")に露光するため、露光機の性能がICの性能を左右すると言っても過言ではない。その為、ASMLは継続的に研究開発を行っている\[1\]。
 
-近年の露光機には、光源に[紫外線](../Page/紫外線.md "wikilink")を発するArF[エキシマレーザー](https://ja.wikipedia.org/wiki/エキシマレーザー "wikilink")が使用されており、さらに[液浸](https://ja.wikipedia.org/wiki/液浸 "wikilink")露光技術が用いられる。2007年には液浸露光装置の[解像度が](../Page/分解能.md "wikilink")37[ナノメートル](../Page/ナノメートル.md "wikilink")に達した。\[2\]
+近年の露光機には、光源に[紫外線](../Page/紫外線.md "wikilink")を発するArF[エキシマレーザー](https://ja.wikipedia.org/wiki/エキシマレーザー "wikilink")が使用されており、さらに[液浸](../Page/液浸.md "wikilink")露光技術が用いられる。2007年には液浸露光装置の[解像度が](../Page/分解能.md "wikilink")37[ナノメートル](../Page/ナノメートル.md "wikilink")に達した。\[2\]
 
 光学系は[カール・ツァイス](../Page/カール・ツァイス.md "wikilink")が供給し、[蛍石](../Page/蛍石.md "wikilink")や[石英](../Page/石英.md "wikilink")が[レンズ](../Page/レンズ.md "wikilink")に使用されている。近年では反射鏡を組み合わせた光学系もある。
 
-ASMLは[液浸](https://ja.wikipedia.org/wiki/液浸 "wikilink")の採用によって2003年以降、躍進した\[3\]。2006年に出荷された「XT:1700i」は45nm世代の量産に向けたArF液浸スキャナーで、光学系の開口数（N.A.）が1.20と、初めてこれまでの限界とされてきた1.00を超えた\[4\]。
+ASMLは[液浸](../Page/液浸.md "wikilink")の採用によって2003年以降、躍進した\[3\]。2006年に出荷された「XT:1700i」は45nm世代の量産に向けたArF液浸スキャナーで、光学系の開口数（N.A.）が1.20と、初めてこれまでの限界とされてきた1.00を超えた\[4\]。
 
 ## 世界シェア・ランキング
 

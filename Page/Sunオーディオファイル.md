@@ -1,9 +1,9 @@
-> この記事は[Sun](https://ja.wikipedia.org/wiki/Sun)から翻訳されています。
+> この記事は[Sunオーディオファイル](https://ja.wikipedia.org/wiki/Sunオーディオファイル)から翻訳されています。
 
 
 **Sunオーディオファイル**（サン - ）別名：**Au file format**は、[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")が策定した[音声ファイルフォーマット](../Page/音声ファイルフォーマット.md "wikilink")。[NeXT](../Page/NeXT.md "wikilink")のシステムや初期のWebでよく使われた。当初はヘッダ部分がなく、8ビットの[μ-lawで符号化された形式で固定されていた](../Page/G.711.md "wikilink")（サンプリングレートは8000Hz）。他のベンダーのハードウェアは、ビデオクロック信号の関連でサンプリングレート 8192Hz とされていることが多かった。その後、6個の32ビットワードで構成されるヘッダ部が追加され、さらにオプション的情報格納域があって、データがあるという形式になった（[エンディアン](https://ja.wikipedia.org/wiki/エンディアン "wikilink")はビッグ）。
 
-現在では様々な[デジタルオーディオ](../Page/デジタルオーディオ.md "wikilink")形式をサポートしているが、[μ-lawアルゴリズム](https://ja.wikipedia.org/wiki/μ-lawアルゴリズム "wikilink")による符号化が使われることが多い。これは、[SPARCstation](https://ja.wikipedia.org/wiki/SPARCstation "wikilink") 1 で採用された方式で、[SunOS](https://ja.wikipedia.org/wiki/SunOS "wikilink") は `/dev/audio` を通してアプリケーションに符号化機能を提供していた。このため、これが[UNIX](../Page/UNIX.md "wikilink")での音声の符号化方式の[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となった。
+現在では様々な[デジタルオーディオ](../Page/デジタルオーディオ.md "wikilink")形式をサポートしているが、[μ-lawアルゴリズム](https://ja.wikipedia.org/wiki/μ-lawアルゴリズム "wikilink")による符号化が使われることが多い。これは、[SPARCstation](https://ja.wikipedia.org/wiki/SPARCstation "wikilink") 1 で採用された方式で、[SunOS](../Page/SunOS.md "wikilink") は `/dev/audio` を通してアプリケーションに符号化機能を提供していた。このため、これが[UNIX](../Page/UNIX.md "wikilink")での音声の符号化方式の[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")となった。
 
 ## フォーマット
 
@@ -31,8 +31,8 @@
 <li>3 = 16ビット線形<a href="../Page/パルス符号変調.md" title="wikilink">PCM</a></li>
 <li>4 = 24ビット線形<a href="../Page/パルス符号変調.md" title="wikilink">PCM</a></li>
 <li>5 = 32ビット線形<a href="../Page/パルス符号変調.md" title="wikilink">PCM</a></li>
-<li>6 = 32ビット<a href="https://ja.wikipedia.org/wiki/IEEE_754" title="wikilink">IEEE浮動小数点数</a></li>
-<li>7 = 64ビット<a href="https://ja.wikipedia.org/wiki/IEEE_754" title="wikilink">IEEE浮動小数点数</a></li>
+<li>6 = 32ビット<a href="../Page/IEEE_754.md" title="wikilink">IEEE浮動小数点数</a></li>
+<li>7 = 64ビット<a href="../Page/IEEE_754.md" title="wikilink">IEEE浮動小数点数</a></li>
 <li>8 = 断片化されたサンプルデータ</li>
 <li>9 = DSPプログラム</li>
 <li>10 = 8ビット<a href="../Page/固定小数点数.md" title="wikilink">固定小数点数</a></li>
@@ -62,7 +62,7 @@
 </tbody>
 </table>
 
-符号化方式は第三ワードの「エンコーディング」で指定される。2 から 7 は非圧縮の[PCMであり](../Page/パルス符号変調.md "wikilink")、[可逆圧縮](../Page/可逆圧縮.md "wikilink")である。23 から 26 はADPCMであり、[非可逆圧縮](../Page/非可逆圧縮.md "wikilink")である（圧縮比は約4:1）。1 と 27 はそれぞれ μ-law と A-law であり、どちらも非可逆である。他には[DSPコマンドやデータもあり](https://ja.wikipedia.org/wiki/デジタル信号処理 "wikilink")、[NeXT](../Page/NeXT.md "wikilink") の MusicKit というソフトウェアで処理されるよう設計されている。
+符号化方式は第三ワードの「エンコーディング」で指定される。2 から 7 は非圧縮の[PCMであり](../Page/パルス符号変調.md "wikilink")、[可逆圧縮](../Page/可逆圧縮.md "wikilink")である。23 から 26 はADPCMであり、[非可逆圧縮](../Page/非可逆圧縮.md "wikilink")である（圧縮比は約4:1）。1 と 27 はそれぞれ μ-law と A-law であり、どちらも非可逆である。他には[DSPコマンドやデータもあり](../Page/デジタル信号処理.md "wikilink")、[NeXT](../Page/NeXT.md "wikilink") の MusicKit というソフトウェアで処理されるよう設計されている。
 
 なお、PCMデータは符号付で符号化される（符号なしではない）。
 

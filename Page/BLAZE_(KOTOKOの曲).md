@@ -1,4 +1,4 @@
-> この記事は[BLAZE \(KOTOKO\)](https://ja.wikipedia.org/wiki/BLAZE_\(KOTOKO\))から翻訳されています。
+> この記事は[BLAZE \(KOTOKOの曲\)](https://ja.wikipedia.org/wiki/BLAZE_\(KOTOKOの曲\))から翻訳されています。
 
 
 「**BLAZE**」（ブレイズ）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")のメジャー11作目の[シングル](../Page/シングル.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月12日](../Page/3月12日.md "wikilink")に[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")から発売された。
@@ -9,13 +9,13 @@
 
 1.  **BLAZE** \[5:04\]
       -
-        作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")
-          - [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系テレビアニメ](../Page/TBSテレビ.md "wikilink")『[灼眼のシャナII](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』後期[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+        作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")
+          - [MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系テレビアニメ](../Page/TBSテレビ.md "wikilink")『[灼眼のシャナII](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")』後期[オープニングテーマ](../Page/主題歌.md "wikilink")
 2.  **Sociometry** \[4:44\]
       -
         作詞：KOTOKO／作曲・編曲：[C.G mix](../Page/C.G_mix.md "wikilink")
-          - MBS・TBS系テレビアニメ『灼眼のシャナII』後期[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
-3.  BLAZE（[instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")）
+          - MBS・TBS系テレビアニメ『灼眼のシャナII』後期[エンディングテーマ](../Page/主題歌.md "wikilink")
+3.  BLAZE（[instrumental](../Page/器楽曲.md "wikilink")）
 4.  Sociometry（instrumental）
 
 ## 収録アルバム

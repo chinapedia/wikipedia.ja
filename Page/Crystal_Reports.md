@@ -5,7 +5,7 @@
 
 カスタムアプリケーション開発の中で帳票機能として利用されるケースも多く、Microsoftのソフトウェア開発環境である[Visual StudioなどにはVisual](https://ja.wikipedia.org/wiki/Visual_Studio "wikilink") Studio2008まで、Crystal ReportsのOEMバージョンが統合されていた。なおVS2010以降は標準バンドルが廃止されており、無償アドオン（SAP Crystal Reports for Microsoft Visual Studio.Net）をSAP社よりダウンロードし、開発環境へインストールすることで継続して開発環境の利用が可能。また、JAVAの開発環境として広く利用されるEclipseへもCrystal Reportsアドインが公開されており無償で開発環境を利用することができる。
 
-**Crystal Reports**（クリスタルレポート）は、帳票アプリケーションとして、または帳票ツールとして単独での利用ができる以外に、SAPの[ビジネスインテリジェンス](https://ja.wikipedia.org/wiki/ビジネスインテリジェンス "wikilink")（BI）アプリケーションのフルスイートである「SAP BusinessObjects Business Intelligence プラットフォーム」の中で帳票ツールとしての位置づけでも利用することができる。このスイート製品の中では、モバイル環境でのCrystal Reportsのレポート活用やスケジュール繰り返し実行など、中規模から大規模での利用が容易に行える工夫が多数準備されている。
+**Crystal Reports**（クリスタルレポート）は、帳票アプリケーションとして、または帳票ツールとして単独での利用ができる以外に、SAPの[ビジネスインテリジェンス](../Page/ビジネスインテリジェンス.md "wikilink")（BI）アプリケーションのフルスイートである「SAP BusinessObjects Business Intelligence プラットフォーム」の中で帳票ツールとしての位置づけでも利用することができる。このスイート製品の中では、モバイル環境でのCrystal Reportsのレポート活用やスケジュール繰り返し実行など、中規模から大規模での利用が容易に行える工夫が多数準備されている。
 
 ## 関連書籍
 
@@ -19,7 +19,7 @@
       - [SAP IQ](https://ja.wikipedia.org/wiki/SAP_IQ "wikilink")
       - [SAP SQL Anywhere](https://ja.wikipedia.org/wiki/SAP_SQL_Anywhere "wikilink")
       - [Microsoft SQL Server](https://ja.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
-      - [Microsoft Access](https://ja.wikipedia.org/wiki/Microsoft_Access "wikilink")
+      - [Microsoft Access](../Page/Microsoft_Access.md "wikilink")
       - [Oracle Database](../Page/Oracle_Database.md "wikilink")
       - [Oracle MySQL](https://ja.wikipedia.org/wiki/Oracle_MySQL "wikilink")
       - [Oracle Hyperion Essbase](https://ja.wikipedia.org/wiki/Oracle_Hyperion_Essbase "wikilink")
@@ -46,8 +46,8 @@
       - [Lotus Notes](https://ja.wikipedia.org/wiki/Lotus_Notes "wikilink")
       - [Microsoft Exchange Server](../Page/Microsoft_Exchange_Server.md "wikilink")
   - [Microsoft Excelなどのスプレッドシート](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")
-  - [ウェブサービス](https://ja.wikipedia.org/wiki/ウェブサービス "wikilink")、[ODBC](../Page/Open_Database_Connectivity.md "wikilink")、[JDBC](../Page/JDBC.md "wikilink")、[OLAP](https://ja.wikipedia.org/wiki/OLAP "wikilink")を通じてアクセスできるデータソース
-  - [テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")
+  - [ウェブサービス](https://ja.wikipedia.org/wiki/ウェブサービス "wikilink")、[ODBC](../Page/Open_Database_Connectivity.md "wikilink")、[JDBC](../Page/JDBC.md "wikilink")、[OLAP](../Page/OLAP.md "wikilink")を通じてアクセスできるデータソース
+  - [テキストファイル](../Page/テキストファイル.md "wikilink")
   - [XML](../Page/Extensible_Markup_Language.md "wikilink")
 
 ## 関連製品

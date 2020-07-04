@@ -48,4 +48,4 @@
     8.  夏の魔法 (Bosom MIX) - ボーナス・トラック
     9.  ピカソ (Deux Femmef MIX) - ボーナス・トラック
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:1999年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に解散した音楽グループ "wikilink")

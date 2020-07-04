@@ -1,16 +1,16 @@
 > この記事は[AZRAEL](https://ja.wikipedia.org/wiki/AZRAEL)から翻訳されています。
 
 
-**AZRAEL**（アズリエル）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[東京](../Page/東京.md "wikilink")を中心に活動する[パワーメタル](https://ja.wikipedia.org/wiki/パワーメタル "wikilink")バンドである。ボーカル・AKIRAの超絶ハイトーンが特徴的。2000年にメジャーデビューを果たした。
+**AZRAEL**（アズリエル）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[東京](../Page/東京.md "wikilink")を中心に活動する[パワーメタル](../Page/パワーメタル.md "wikilink")バンドである。ボーカル・AKIRAの超絶ハイトーンが特徴的。2000年にメジャーデビューを果たした。
 
 ## メンバー
 
   - AKIRA（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）Prophesiaのボーカルとしても活動中
   - TAKE（[ギター](../Page/ギター.md "wikilink")）バンドリーダー
-  - AKKKI （[ギター](../Page/ギター.md "wikilink")）[ちびらり](https://ja.wikipedia.org/wiki/ちびらり "wikilink")のギターとしても活動中
+  - AKKKI （[ギター](../Page/ギター.md "wikilink")）[ちびらり](../Page/ちびらり.md "wikilink")のギターとしても活動中
   - YUTAKA（[ドラムス](../Page/ドラムセット.md "wikilink")）
-  - TAKUYA（[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")）
-  - YASU （[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）GRAND FINALEのベースとしても活動中
+  - TAKUYA（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）
+  - YASU （[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）GRAND FINALEのベースとしても活動中
 
 ## ディスコグラフィー
 

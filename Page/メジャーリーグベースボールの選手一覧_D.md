@@ -2887,7 +2887,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Travis_Demeritte" title="wikilink">Travis Demeritte</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トラビス・デメリット" title="wikilink">トラビス・デメリット</a></p></td>
+<td><p><a href="../Page/トラビス・デメリット.md" title="wikilink">トラビス・デメリット</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>

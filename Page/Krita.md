@@ -1,13 +1,13 @@
 > この記事は[Krita](https://ja.wikipedia.org/wiki/Krita)から翻訳されています。
 
 
-**Krita**（クリータ、クリタ\[1\]）は、[オープンソースソフトウェア](https://ja.wikipedia.org/wiki/オープンソースソフトウェア "wikilink")として開発されている[ペイントソフト](https://ja.wikipedia.org/wiki/ペイントソフト "wikilink")である。
+**Krita**（クリータ、クリタ\[1\]）は、[オープンソースソフトウェア](../Page/オープンソースソフトウェア.md "wikilink")として開発されている[ペイントソフト](../Page/ペイントソフト.md "wikilink")である。
 
 [KDE](../Page/KDE.md "wikilink")プロジェクトが開発したKDEプラットホーム用の[オフィススイート](../Page/オフィススイート.md "wikilink")・**KOffice**（現・[Calligra Suite](../Page/Calligra_Suite.md "wikilink")）に含まれる**KImage**として開発が始まった\[2\]。[Calligra Suiteの一部として](../Page/Calligra_Suite.md "wikilink")、[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")系OSで動作するが、単体での配布もされており、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")など他のOSにも対応している。[GPL](https://ja.wikipedia.org/wiki/GPL "wikilink")ライセンスで配布される[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であるが、機能が強化された商用版も販売されている（後述）。
 
 ## 概要・特徴
 
-[Photoshop](https://ja.wikipedia.org/wiki/Photoshop "wikilink")や[GIMP](../Page/GIMP.md "wikilink")などの[フォトレタッチ](https://ja.wikipedia.org/wiki/フォトレタッチ "wikilink")ソフトよりも、[Painter](https://ja.wikipedia.org/wiki/Painter "wikilink")や[SAI](https://ja.wikipedia.org/wiki/SAI "wikilink")などのペイントソフトに近い操作性を持つ。元々は「KImage Shop」として、名前の通りPhotoshopを意識した方向性のソフトとして1998年頃より開発がスタートしたが、2004年頃にPainterを意識した方向性に改められた。2005年にKOffice1.4の一員としてリリースされたKrita 1.4が初版。2013年、Kritaの開発をサポートするKrita財団がオランダで立ち上げられ、リリースは財団から行われている。
+[Photoshop](https://ja.wikipedia.org/wiki/Photoshop "wikilink")や[GIMP](../Page/GIMP.md "wikilink")などの[フォトレタッチ](https://ja.wikipedia.org/wiki/フォトレタッチ "wikilink")ソフトよりも、[Painter](../Page/Painter.md "wikilink")や[SAI](../Page/SAI.md "wikilink")などのペイントソフトに近い操作性を持つ。元々は「KImage Shop」として、名前の通りPhotoshopを意識した方向性のソフトとして1998年頃より開発がスタートしたが、2004年頃にPainterを意識した方向性に改められた。2005年にKOffice1.4の一員としてリリースされたKrita 1.4が初版。2013年、Kritaの開発をサポートするKrita財団がオランダで立ち上げられ、リリースは財団から行われている。
 
 [Kiki the Cyber Squirrelと言うマスコットキャラクターがいる](https://ja.wikipedia.org/wiki/キキ_\(マスコット\) "wikilink")。
 

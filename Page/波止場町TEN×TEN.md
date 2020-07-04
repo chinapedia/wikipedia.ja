@@ -1,13 +1,13 @@
-> この記事は[TENTEN](https://ja.wikipedia.org/wiki/TENTEN)から翻訳されています。
+> この記事は[波止場町TEN×TEN](https://ja.wikipedia.org/wiki/波止場町TEN×TEN)から翻訳されています。
 
 
-**波止場町TEN×TEN**（はとばちょうてんてん）は[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")にある文化施設。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")にオープンした。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Kobe_hatobacho_tenten01s3872.jpg "wikilink")
+**波止場町TEN×TEN**（はとばちょうてんてん）は[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")にある文化施設。[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")にオープンした。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Kobe_hatobacho_tenten01s3872.jpg "wikilink")
 
 ## 概要
 
 クリエーターの発掘を主目的に開設された。「シーサイドマリンツーリズム」を活動のキーワードに掲げ、[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")[神戸グランドアンカー](https://ja.wikipedia.org/wiki/神戸グランドアンカー "wikilink")が企画・運営を担う。建物はかつての[神戸港](../Page/神戸港.md "wikilink")国産埠頭の倉庫「神戸国産上屋1号」・「神戸国産上屋2号」を使用する。
 
-神戸港一帯は[みなとオアシス](https://ja.wikipedia.org/wiki/みなとオアシス "wikilink")として登録していて、**みなとオアシスKOBE**の中突堤・高浜地区における基本施設である。2018年2月28日移転となり、3月1日より元町通6丁目にて TEN×TEN神戸元町 として活動を開始している。
+神戸港一帯は[みなとオアシス](../Page/みなとオアシス.md "wikilink")として登録していて、**みなとオアシスKOBE**の中突堤・高浜地区における基本施設である。2018年2月28日移転となり、3月1日より元町通6丁目にて TEN×TEN神戸元町 として活動を開始している。
 
 ## 施設
 
@@ -43,12 +43,12 @@
 
 ## 周辺情報
 
-[ハーバーランドと](../Page/神戸ハーバーランド.md "wikilink")[メリケンパーク](https://ja.wikipedia.org/wiki/メリケンパーク "wikilink")のほぼ中間に位置する。
+[ハーバーランドと](../Page/神戸ハーバーランド.md "wikilink")[メリケンパーク](../Page/メリケンパーク.md "wikilink")のほぼ中間に位置する。
 
-  - [中突堤中央ターミナル](https://ja.wikipedia.org/wiki/中突堤中央ターミナル "wikilink") - 国産埠頭を埋め立てて建設された施設
-  - [中突堤](https://ja.wikipedia.org/wiki/中突堤 "wikilink")
-  - [神戸海洋博物館](https://ja.wikipedia.org/wiki/神戸海洋博物館 "wikilink")
-  - [神戸ポートタワー](https://ja.wikipedia.org/wiki/神戸ポートタワー "wikilink")
+  - [中突堤中央ターミナル](../Page/中突堤中央ターミナル.md "wikilink") - 国産埠頭を埋め立てて建設された施設
+  - [中突堤](../Page/中突堤.md "wikilink")
+  - [神戸海洋博物館](../Page/神戸海洋博物館.md "wikilink")
+  - [神戸ポートタワー](../Page/神戸ポートタワー.md "wikilink")
 
 ## 関連項目
 

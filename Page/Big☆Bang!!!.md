@@ -1,15 +1,15 @@
-> この記事は[BigBang!!!](https://ja.wikipedia.org/wiki/BigBang!!!)から翻訳されています。
+> この記事は[Big☆Bang!!!](https://ja.wikipedia.org/wiki/Big☆Bang!!!)から翻訳されています。
 
 
-『**Big☆Bang\!\!\!**』（ビッグバン）は、[中川翔子](https://ja.wikipedia.org/wiki/中川翔子 "wikilink")の1枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**Big☆Bang\!\!\!**』（ビッグバン）は、[中川翔子](../Page/中川翔子.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")に[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")より発売された。販売元は[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")より発売された。販売元は[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")。
 
 ## 概要
 
 中川翔子にとって、初のオリジナルアルバムである。ちなみに、中川はこの作品以前にカヴァー・ミニアルバムをリリースしているので、アルバム作品としては通算3作目になる。ミニアルバムと同じく、「CD」および「CD+DVD」の2パターンで発売された。付属DVDには「スカシカシパンすこし変?」や、中川翔子のデビューしてから今までの歌手としての軌跡の映像で構成された「calling location」のビデオクリップが収録。
 
-構成は、シングルからデビュー曲『[Brilliant Dream](../Page/Brilliant_Dream.md "wikilink")』をはじめ、『[ストロベリmelody](../Page/ストロベリmelody.md "wikilink")』、『[空色デイズ](../Page/空色デイズ.md "wikilink")』、『[snow tears](https://ja.wikipedia.org/wiki/snow_tears "wikilink")』のメインタイトル4曲と『空色デイズ』のカップリング曲「happily ever after」の計5曲、[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")テーマ曲「We can do it\!\!」をはじめとする新曲含む全12曲を収録。なお、うち1曲は『スカシカシパン』のテーマソングで、タレントの[山田五郎](../Page/山田五郎.md "wikilink")が[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")をし歌にも参加した「スカシカシパンすこし変?」がボーナストラックとして収録。
+構成は、シングルからデビュー曲『[Brilliant Dream](../Page/Brilliant_Dream.md "wikilink")』をはじめ、『[ストロベリmelody](../Page/ストロベリmelody.md "wikilink")』、『[空色デイズ](../Page/空色デイズ.md "wikilink")』、『[snow tears](https://ja.wikipedia.org/wiki/snow_tears "wikilink")』のメインタイトル4曲と『空色デイズ』のカップリング曲「happily ever after」の計5曲、[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")テーマ曲「We can do it\!\!」をはじめとする新曲含む全12曲を収録。なお、うち1曲は『スカシカシパン』のテーマソングで、タレントの[山田五郎](../Page/山田五郎.md "wikilink")が[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")をし歌にも参加した「スカシカシパンすこし変?」がボーナストラックとして収録。
 
 楽曲提供には「空色デイズ」などの作詞を担当したmeg rockをはじめ、バンドメンバーである加藤大祐・黒須克彦・nishi-kenを中心とした作家陣が参加している。
 
@@ -35,21 +35,21 @@
 5.  **[Brilliant Dream -shoko☆planet mix-](../Page/Brilliant_Dream.md "wikilink")** \[4:40\]
       -
         作詞・作曲：[sabohani](https://ja.wikipedia.org/wiki/sabohani "wikilink")／編曲：nishi-ken
-        1stシングル　アニメ「[吉宗](https://ja.wikipedia.org/wiki/吉宗_\(パチスロ\) "wikilink")」オープニングテーマ
+        1stシングル　アニメ「[吉宗](../Page/吉宗_\(パチスロ\).md "wikilink")」オープニングテーマ
         本作はシングルとは異なるアレンジのremixバージョンとなっている。
 6.  **フルーツポンチ** \[4:08\]
       -
         作詞：[花れん](https://ja.wikipedia.org/wiki/花れん_\(ミュージシャン\) "wikilink")／作曲：[小林治郎](https://ja.wikipedia.org/wiki/小林治郎 "wikilink")／編曲：加藤大祐
-        2006年10月～2007年9月に放送されていた[ラジオ大阪系](https://ja.wikipedia.org/wiki/大阪放送 "wikilink")「[しょこたんごっこ](https://ja.wikipedia.org/wiki/しょこたんごっこ "wikilink")」の初代オープニング
+        2006年10月～2007年9月に放送されていた[ラジオ大阪系](../Page/大阪放送.md "wikilink")「[しょこたんごっこ](https://ja.wikipedia.org/wiki/しょこたんごっこ "wikilink")」の初代オープニング
         本作にて初CD化だが、歌詞と編曲がラジオバージョンと異なる。
 7.  **[ストロベリmelody](../Page/ストロベリmelody.md "wikilink")** \[5:17\]
       -
         作詞：[渡邉亜希子](https://ja.wikipedia.org/wiki/渡邉亜希子 "wikilink")、中川翔子／作曲・編曲：[Shinnosuke](https://ja.wikipedia.org/wiki/SOUL'd_OUT#メンバー "wikilink")
-        2ndシングル　TBS「[ワナゴナ](https://ja.wikipedia.org/wiki/ワナゴナ "wikilink")」テーマソング
+        2ndシングル　TBS「[ワナゴナ](../Page/ワナゴナ.md "wikilink")」テーマソング
 8.  **pretty please chocolate on top** \[4:44\]
       -
-        作詞：meg rock／作曲：[YOFFY](https://ja.wikipedia.org/wiki/YOFFY "wikilink")／編曲：[大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink")
-        「[呪文降臨〜マジカル・フォース](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー/呪文降臨〜マジカル・フォース "wikilink")」の作曲者である[YOFFY](https://ja.wikipedia.org/wiki/YOFFY "wikilink")に、同曲のような「魔法少女っぽいイメージで」\[1\]、「ツンデレの魔女っ子みたいな曲」\[2\]と中川が依頼して制作された。
+        作詞：meg rock／作曲：[YOFFY](../Page/YOFFY.md "wikilink")／編曲：[大石憲一郎](https://ja.wikipedia.org/wiki/大石憲一郎 "wikilink")
+        「[呪文降臨〜マジカル・フォース](https://ja.wikipedia.org/wiki/魔法戦隊マジレンジャー/呪文降臨〜マジカル・フォース "wikilink")」の作曲者である[YOFFY](../Page/YOFFY.md "wikilink")に、同曲のような「魔法少女っぽいイメージで」\[1\]、「ツンデレの魔女っ子みたいな曲」\[2\]と中川が依頼して制作された。
 9.  **calling location** \[3:42\]
       -
         作詞：meg rock／作曲・編曲：黒須克彦
@@ -67,7 +67,7 @@
 12. **スカシカシパンすこし変?**（ボーナストラック） \[2:37\]
       -
         作詞・作曲：[山田五郎](../Page/山田五郎.md "wikilink")／編曲：加藤大祐
-        アニメ「[スカシカシパンマン](https://ja.wikipedia.org/wiki/スカシカシパンマン "wikilink")」テーマソング
+        アニメ「[スカシカシパンマン](../Page/スカシカシパンマン.md "wikilink")」テーマソング
         。
         。
 

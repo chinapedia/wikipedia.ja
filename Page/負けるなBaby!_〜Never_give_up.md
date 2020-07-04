@@ -1,7 +1,7 @@
 > この記事は[負けるなBaby! 〜Never give up](https://ja.wikipedia.org/wiki/負けるなBaby!_〜Never_give_up)から翻訳されています。
 
 
-「**負けるなBaby\! 〜Never give up**」（まけるなベイビー ネヴァー ギヴ アップ）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された。
+「**負けるなBaby\! 〜Never give up**」（まけるなベイビー ネヴァー ギヴ アップ）は、[SMAP](../Page/SMAP.md "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[1992年](../Page/1992年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")に[ビクター音楽産業](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）から発売された。
 
 ## 概要
 

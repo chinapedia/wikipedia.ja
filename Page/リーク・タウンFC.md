@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[リーク・タウンFC](https://ja.wikipedia.org/wiki/リーク・タウンFC)から翻訳されています。
 
 
 **リーク・タウン・フットボールクラブ**（**Leek Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[スタッフォードシャー](../Page/スタッフォードシャー.md "wikilink")、[スタッフォードシャー・ムーアランズ](https://ja.wikipedia.org/wiki/スタッフォードシャー・ムーアランズ "wikilink")、リークを本拠地とするサッカークラブチームである。2017-2018シーズンは[ノーザンプレミアリーグ・ディヴィジョン1・サウス](https://ja.wikipedia.org/wiki/ノーザンプレミアリーグ・ディヴィジョン1・サウス "wikilink")（8部相当）に所属。

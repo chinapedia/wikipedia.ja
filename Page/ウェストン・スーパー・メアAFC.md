@@ -1,7 +1,7 @@
-> この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
+> この記事は[ウェストン・スーパー・メアAFC](https://ja.wikipedia.org/wiki/ウェストン・スーパー・メアAFC)から翻訳されています。
 
 
-**ウェストン・スーパーメア・アソシエーション・フットボール・クラブ**（**Weston-super-Mare Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[サマセット](https://ja.wikipedia.org/wiki/サマセット "wikilink")州、[ウェストン＝スーパー＝メア](https://ja.wikipedia.org/wiki/ウェストン＝スーパー＝メア "wikilink")を本拠地とするサッカークラブチームである。2016-2017シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
+**ウェストン・スーパーメア・アソシエーション・フットボール・クラブ**（**Weston-super-Mare Association Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[サマセット](../Page/サマセット.md "wikilink")州、[ウェストン＝スーパー＝メア](https://ja.wikipedia.org/wiki/ウェストン＝スーパー＝メア "wikilink")を本拠地とするサッカークラブチームである。2016-2017シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
 
 ## タイトル
 

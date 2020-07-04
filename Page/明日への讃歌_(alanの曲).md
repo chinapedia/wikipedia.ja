@@ -5,7 +5,7 @@
 
 ## 解説
 
-表題曲のサビ部分はチベット民謡独特の高音[フェイク](../Page/フェイク.md "wikilink")を駆使して歌いあげている。[DVD](../Page/DVD.md "wikilink")には表題曲のプロモーションビデオとメイキングビデオを収録。表題曲の作詞を担当した[野島伸司](../Page/野島伸司.md "wikilink")は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[らいおんハート](../Page/らいおんハート.md "wikilink")」以来、7年ぶりの書き下ろしとなった。
+表題曲のサビ部分はチベット民謡独特の高音[フェイク](../Page/フェイク.md "wikilink")を駆使して歌いあげている。[DVD](../Page/DVD.md "wikilink")には表題曲のプロモーションビデオとメイキングビデオを収録。表題曲の作詞を担当した[野島伸司](../Page/野島伸司.md "wikilink")は[SMAP](../Page/SMAP.md "wikilink")の「[らいおんハート](../Page/らいおんハート.md "wikilink")」以来、7年ぶりの書き下ろしとなった。
 
 カップリング曲の「桜モダン」は、2011年に[西陣製作の](../Page/西陣_\(企業\).md "wikilink")[パチンコ機](https://ja.wikipedia.org/wiki/パチンコ機 "wikilink")『[CR花満開 彩](../Page/CR花満開.md "wikilink")』の[大当たり中ラウンドソングとして採用され](https://ja.wikipedia.org/wiki/イメージソング "wikilink")、同機の促販用非売品CD「花満開 彩 オリジナルサウンドトラック」にも収録された。
 

@@ -36,7 +36,7 @@
 
 1.  **KISSして　Music Clip**
       -
-        監督：[黒田秀樹](https://ja.wikipedia.org/wiki/黒田秀樹 "wikilink")
+        監督：[黒田秀樹](../Page/黒田秀樹.md "wikilink")
 
 ## 収録アルバム
 

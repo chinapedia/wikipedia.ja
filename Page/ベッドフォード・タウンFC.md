@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ベッドフォード・タウンFC](https://ja.wikipedia.org/wiki/ベッドフォード・タウンFC)から翻訳されています。
 
 
 **ベッドフォード・タウン・フットボールクラブ**（**Bedford Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ベッドフォードシャー州](https://ja.wikipedia.org/wiki/ベッドフォードシャー州 "wikilink")、[ベッドフォード](https://ja.wikipedia.org/wiki/ベッドフォード "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[サザンフットボールリーグ・ディヴィジョン1・セントラル](https://ja.wikipedia.org/wiki/サザンフットボールリーグ・ディヴィジョン1・セントラル "wikilink")（8部相当）に所属。

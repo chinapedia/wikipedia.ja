@@ -22,6 +22,6 @@
 
 ## 外部リンク
 
-  - [ランティスによる紹介ページ](http://lantis.jp/new-release/data.php?id=67bfc3fb6d96c68dd7d4e9ddff1d9916)
+  - [ランティスによる紹介ページ](https://www.lantis.jp/release-item/LACM-4234.html)
 
 [Category:2005年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:2005年のデビュー・シングル "wikilink") [Category:ランティスの楽曲](https://ja.wikipedia.org/wiki/Category:ランティスの楽曲 "wikilink") [Category:宮崎羽衣の楽曲](https://ja.wikipedia.org/wiki/Category:宮崎羽衣の楽曲 "wikilink") [Category:藤間仁が制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤間仁が制作した楽曲 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink")

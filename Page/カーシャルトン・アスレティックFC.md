@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[カーシャルトン・アスレティックFC](https://ja.wikipedia.org/wiki/カーシャルトン・アスレティックFC)から翻訳されています。
 
 
 **カーシャルトン・アスレティック・フットボール・クラブ**（**Carshalton Athletic Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[サットン・ロンドン特別区](https://ja.wikipedia.org/wiki/サットン・ロンドン特別区 "wikilink")内、[カーシャルトン](https://ja.wikipedia.org/wiki/カーシャルトン "wikilink")を本拠地とするサッカークラブチームである。2019-2020シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

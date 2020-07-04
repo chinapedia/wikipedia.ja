@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヒッチン・タウンFC](https://ja.wikipedia.org/wiki/ヒッチン・タウンFC)から翻訳されています。
 
 
 **ヒッチン・タウン・フットボールクラブ**（**Hichin Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ハートフォードシャー州](https://ja.wikipedia.org/wiki/ハートフォードシャー州 "wikilink")、[ノース・ハートフォードシャー](https://ja.wikipedia.org/wiki/ノース・ハートフォードシャー "wikilink")市、[ヒッチン](https://ja.wikipedia.org/wiki/ヒッチン "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[サザンフットボールリーグ・プレミアディヴィジョン](../Page/サザンフットボールリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

@@ -1,4 +1,4 @@
-> この記事は[Candy \(\)](https://ja.wikipedia.org/wiki/Candy_\(\))から翻訳されています。
+> この記事は[Candy \(松田聖子のアルバム\)](https://ja.wikipedia.org/wiki/Candy_\(松田聖子のアルバム\))から翻訳されています。
 
 
 『**Candy**』（キャンディ）は、[松田聖子](../Page/松田聖子.md "wikilink")通算6枚目の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1982年11月10日発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
@@ -7,7 +7,7 @@
 
   - 帯コピー:**こころはバロックカラー、いま あなたとティータイム…聖子。**
   - 先行シングル「野ばらのエチュード」を含む。
-  - [ティン・パン・アレーの一員で](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")[YMOのメンバーでも知られる](../Page/イエロー・マジック・オーケストラ.md "wikilink")[細野晴臣](../Page/細野晴臣.md "wikilink")から初提供を受けた。作詞の[松本隆](../Page/松本隆.md "wikilink")を筆頭に、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")・[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")・[原田真二](https://ja.wikipedia.org/wiki/原田真二 "wikilink")・[南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")など全曲男性の作家で構成されている。
+  - [ティン・パン・アレーの一員で](../Page/ティン・パン・アレー_\(バンド\).md "wikilink")[YMOのメンバーでも知られる](../Page/イエロー・マジック・オーケストラ.md "wikilink")[細野晴臣](../Page/細野晴臣.md "wikilink")から初提供を受けた。作詞の[松本隆](../Page/松本隆.md "wikilink")を筆頭に、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")・[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")・[原田真二](../Page/原田真二.md "wikilink")・[南佳孝](../Page/南佳孝.md "wikilink")など全曲男性の作家で構成されている。[シンセサイザー](../Page/シンセサイザー.md "wikilink")を多用して製作された楽曲も今作から収録されている。
   - 「Candy（キャンディ）」という題にもあるとおり、松田の独特の甘い歌声が遺憾なく発揮された作品である。後に松田のこの声を"キャンディボイス"と称して親しむ者も見受けられるが、このアルバム名に由縁していると考えられる。
   - [ジャケットには松田が自転車にまたがり微笑むショットが使用された](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")。当作品以前のジャケットはベスト盤も含めて全て松田の顔のアップであったため、アルバムでは初めて全身が写った作品となっている（シングルでは「[白いパラソル](../Page/白いパラソル.md "wikilink")」がある）。また、自身初のダブルジャケット仕様である。
   - 2006年7月19日に発売された74枚組CD BOX『[Seiko Matsuda](../Page/Seiko_Matsuda.md "wikilink")』に、デジタル・[リマスタリング](https://ja.wikipedia.org/wiki/リマスタリング "wikilink")仕様、かつ[LPサイズジャケットにリニューアルされて同梱された](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。リマスター盤の個別販売はない。
@@ -16,7 +16,7 @@
 ## 収録曲
 
 1.  **星空のドライブ**　（3:30）
-      - 作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")／編曲：[大村雅朗](https://ja.wikipedia.org/wiki/大村雅朗 "wikilink")
+      - 作詞：[松本隆](../Page/松本隆.md "wikilink")／作曲：[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")／編曲：[大村雅朗](../Page/大村雅朗.md "wikilink")
 2.  **四月のラブレター**　（3:02）
       - 作詞：松本隆／作曲：[大瀧詠一](../Page/大瀧詠一.md "wikilink")／編曲：多羅尾伴内
 3.  **未来の花嫁**　（4:19）
@@ -26,7 +26,7 @@
         1990年代以降も、コンサートで披露される機会が比較的多い楽曲。
         『[Another Side of Seiko 27](../Page/Another_Side_of_Seiko_27.md "wikilink")』の投票では第7位にランクイン。
 4.  **モッキンバード**　（2:57）
-      - 作詞：松本隆／作曲：[南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")／編曲：大村雅朗
+      - 作詞：松本隆／作曲：[南佳孝](../Page/南佳孝.md "wikilink")／編曲：大村雅朗
     <!-- end list -->
       -
         当アルバム曲で唯一、他の作品に収録されていないナンバー。
@@ -35,7 +35,7 @@
     <!-- end list -->
       -
         細野晴臣の初起用作品。
-        [ブルージュは](https://ja.wikipedia.org/wiki/ブルッヘ "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[フランドル地方にある古都である](https://ja.wikipedia.org/wiki/フランデレン地域圏 "wikilink")。
+        [ブルージュは](../Page/ブルッヘ.md "wikilink")、[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")・[フランドル地方にある古都である](https://ja.wikipedia.org/wiki/フランデレン地域圏 "wikilink")。
 6.  **Rock'n'roll Good-bye**　（3:10）
       - 作詞：松本隆／作曲：大瀧詠一／編曲：多羅尾伴内
 7.  **電話でデート**　（3:31）
@@ -44,14 +44,14 @@
       - 作詞：松本隆／作曲：財津和夫／編曲：大村雅朗
     <!-- end list -->
       -
-        『[第33回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第33回NHK紅白歌合戦 "wikilink")』歌唱曲
+        『[第33回NHK紅白歌合戦](../Page/第33回NHK紅白歌合戦.md "wikilink")』歌唱曲
 9.  **黄色いカーディガン**　（5:02）
       - 作詞：松本隆／作曲：細野晴臣／編曲：大村雅朗
 10. **真冬の恋人たち**　（4:42）
       - 作詞：松本隆／作曲・編曲：大村雅朗
     <!-- end list -->
       -
-        途中、台詞のような男性パート（クレジット表記にあるとおり、この男性は[杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")である）がある。
+        途中、台詞のような男性パート（クレジット表記にあるとおり、この男性は[杉真理](../Page/杉真理.md "wikilink")である）がある。
         『Another Side of Seiko 27』では第12位にランクイン。
 
 ## 関連作品

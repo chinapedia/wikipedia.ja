@@ -1,24 +1,24 @@
-> この記事は[WAYAYA!](https://ja.wikipedia.org/wiki/WAYAYA!)から翻訳されています。
+> この記事は[WAYAYAあはっ!](https://ja.wikipedia.org/wiki/WAYAYAあはっ!)から翻訳されています。
 
 
 『**WAYAYAあはっ\!**』（わややあはっ）は、[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")（メ〜テレ）で放送された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。全152回。放送時間は毎週土曜10:55 - 11:45（[JST](../Page/日本標準時.md "wikilink")） 。
 
 ## 概要
 
-前番組『[WAYAYA丼](https://ja.wikipedia.org/wiki/WAYAYA丼 "wikilink")』の後継番組で、前番組の末期と同様に[東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")各地のレジャーやグルメのリポートを主体としていた。
+前番組『[WAYAYA丼](../Page/WAYAYA丼.md "wikilink")』の後継番組で、前番組の末期と同様に[東海3県](../Page/東海3県.md "wikilink")各地のレジャーやグルメのリポートを主体としていた。
 
-前番組から引き続き[高山トモヒロ](https://ja.wikipedia.org/wiki/高山トモヒロ "wikilink")、[佐藤倫子](https://ja.wikipedia.org/wiki/佐藤倫子 "wikilink")、[山田泰三](https://ja.wikipedia.org/wiki/山田泰三 "wikilink")らがレギュラーを務めていたが、その他のレギュラー陣はリポーター勢を中心に大幅に入れ替えられた。前番組の末期から可能になった[携帯サイトからの視聴者プレゼント応募受付も引き続き実施していたが](https://ja.wikipedia.org/wiki/公式サイト_\(携帯電話\) "wikilink")、応募受付時間は番組スタートから終了後15分までに限定されていた。
+前番組から引き続き[高山トモヒロ](../Page/高山トモヒロ.md "wikilink")、[佐藤倫子](https://ja.wikipedia.org/wiki/佐藤倫子 "wikilink")、[山田泰三](../Page/山田泰三.md "wikilink")らがレギュラーを務めていたが、その他のレギュラー陣はリポーター勢を中心に大幅に入れ替えられた。前番組の末期から可能になった[携帯サイトからの視聴者プレゼント応募受付も引き続き実施していたが](../Page/公式サイト_\(携帯電話\).md "wikilink")、応募受付時間は番組スタートから終了後15分までに限定されていた。
 
 ## 出演者
 
 ### 司会
 
-  - [高山トモヒロ](https://ja.wikipedia.org/wiki/高山トモヒロ "wikilink")（[ケツカッチン](https://ja.wikipedia.org/wiki/ケツカッチン_\(お笑いコンビ\) "wikilink")） - 「旅してあはっ\!」のリポーターも兼任。
+  - [高山トモヒロ](../Page/高山トモヒロ.md "wikilink")（[ケツカッチン](../Page/ケツカッチン_\(お笑いコンビ\).md "wikilink")） - 「旅してあはっ\!」のリポーターも兼任。
 
 ### レギュラー
 
-  - [山田泰三](https://ja.wikipedia.org/wiki/山田泰三 "wikilink")（当時メ〜テレアナウンサー） - 途中降板。
-  - [田中菜月](https://ja.wikipedia.org/wiki/菜月 "wikilink") - 途中降板。
+  - [山田泰三](../Page/山田泰三.md "wikilink")（当時メ〜テレアナウンサー） - 途中降板。
+  - [田中菜月](../Page/菜月.md "wikilink") - 途中降板。
   - [大嶽まどか](../Page/大嶽まどか.md "wikilink")（当時メ〜テレアナウンサー）
   - [佐藤倫子](https://ja.wikipedia.org/wiki/佐藤倫子 "wikilink")（当時メ〜テレアナウンサー）
   - [堂野浩久](https://ja.wikipedia.org/wiki/堂野浩久 "wikilink")（メ〜テレアナウンサー）
@@ -39,7 +39,7 @@
 ## 主な放送内容
 
   - 旅してあはっ\!
-    レギュラー陣とリポーター勢が東海3県各地を旅する模様を放送していたコーナーで、毎回現地の飲食店もリポートしていた。回によっては[横浜中華街](https://ja.wikipedia.org/wiki/横浜中華街 "wikilink")や[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")、果ては[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")にまで足を伸ばすこともあった。
+    レギュラー陣とリポーター勢が東海3県各地を旅する模様を放送していたコーナーで、毎回現地の飲食店もリポートしていた。回によっては[横浜中華街](../Page/横浜中華街.md "wikilink")や[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")、果ては[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")にまで足を伸ばすこともあった。
   - お料理レシピであはっ\!
     佐藤が料理作りに挑戦していたコーナー。
   - グルメであはっ\!

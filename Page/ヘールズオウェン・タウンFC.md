@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヘールズオウェン・タウンFC](https://ja.wikipedia.org/wiki/ヘールズオウェン・タウンFC)から翻訳されています。
 
 
 **ヘールズオウェン・タウン・フットボールクラブ**（**Halesowen Town Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ウェスト・ミッドランズ州](https://ja.wikipedia.org/wiki/ウェスト・ミッドランズ州 "wikilink")、[ダドレー](https://ja.wikipedia.org/wiki/ダドレー "wikilink")市、[ヘールズオウェン](https://ja.wikipedia.org/wiki/ヘールズオウェン "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[ノーザンプレミアリーグ・プレミアディヴィジョン](../Page/ノーザンプレミアリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

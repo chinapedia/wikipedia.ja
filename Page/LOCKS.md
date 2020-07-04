@@ -5,7 +5,7 @@
 
 ## 解説
 
-前作『[THE TWILIGHT VALLEY](https://ja.wikipedia.org/wiki/THE_TWILIGHT_VALLEY "wikilink")』から1年5ヶ月振りとなるアルバム。初回限定盤A（[CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD-Video.md "wikilink")）、初回限定盤B（CD＋DVD）、通常盤（CDのみ）の合計3形態でのリリースとなる（3形態同時発売は初）。なお、パッケージのジャケットやレーベルデザイン等はそれぞれ異なるが、CDの収録内容は3形態共通である。初回限定盤に付属するDVDの収録内容はAとBそれぞれ異なっており、初回限定盤AのDVDには[2007年](../Page/2007年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[京都](https://ja.wikipedia.org/wiki/京都府 "wikilink")・[仁和寺](../Page/仁和寺.md "wikilink")で行われたスペシャルライブから3曲が、初回限定盤BのDVDには[PV](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")3曲が、それぞれ収録されている。
+前作『[THE TWILIGHT VALLEY](../Page/THE_TWILIGHT_VALLEY.md "wikilink")』から1年5ヶ月振りとなるアルバム。初回限定盤A（[CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD-Video.md "wikilink")）、初回限定盤B（CD＋DVD）、通常盤（CDのみ）の合計3形態でのリリースとなる（3形態同時発売は初）。なお、パッケージのジャケットやレーベルデザイン等はそれぞれ異なるが、CDの収録内容は3形態共通である。初回限定盤に付属するDVDの収録内容はAとBそれぞれ異なっており、初回限定盤AのDVDには[2007年](../Page/2007年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[京都](../Page/京都府.md "wikilink")・[仁和寺](../Page/仁和寺.md "wikilink")で行われたスペシャルライブから3曲が、初回限定盤BのDVDには[PV](../Page/ミュージック・ビデオ.md "wikilink")3曲が、それぞれ収録されている。
 
 本作のリリースは前年に発売されたシングル「[世界はまわると言うけれど](../Page/世界はまわると言うけれど.md "wikilink")」に封入されていたフライヤーで告知されていたが、「LOCKS（仮）」と仮タイトルであり、発売日も2008年初春だった。その後2008年1月に公式ホームページで正式なタイトルと発売日が発表された。2008年[2月13日](../Page/2月13日.md "wikilink")にはGARNET CROWのオフィシャルサイト内に『LOCKS』特設サイトがオープンし、アルバム紹介の他、[中村由利によるライナーノーツ等が公開された](https://ja.wikipedia.org/wiki/中村由利_\(歌手\) "wikilink")。
 
@@ -47,13 +47,13 @@
 
 『GARNET CROW Special live in 仁和寺』
 
-1.  **[まぼろし](https://ja.wikipedia.org/wiki/まぼろし_\(GARNET_CROWの曲\) "wikilink")**
-2.  **[Holy ground](https://ja.wikipedia.org/wiki/SPARKLE_〜筋書き通りのスカイブルー〜 "wikilink")**
+1.  **[まぼろし](../Page/まぼろし_\(GARNET_CROWの曲\).md "wikilink")**
+2.  **[Holy ground](../Page/SPARKLE_〜筋書き通りのスカイブルー〜.md "wikilink")**
 3.  **[世界はまわると言うけれど](../Page/世界はまわると言うけれど.md "wikilink")**
 
 ### 初回限定盤B
 
-[Music Clip](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")
+[Music Clip](../Page/ミュージック・ビデオ.md "wikilink")
 
 1.  **[世界はまわると言うけれど](../Page/世界はまわると言うけれど.md "wikilink")**
 2.  **[涙のイエスタデー](../Page/涙のイエスタデー.md "wikilink")**

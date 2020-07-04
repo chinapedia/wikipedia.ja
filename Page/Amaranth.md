@@ -9,26 +9,26 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:The_Wounded_Angel_-_Hugo_Simberg.jpg "wikilink")\]\] ビデオは「[Nemo](../Page/Nemo.md "wikilink")」を監督した[アンティ・ヨキネン](https://ja.wikipedia.org/wiki/アンティ・ヨキネン "wikilink")が再びメガフォンを取って撮影が行われ、[ヒューゴ・シンベリ](../Page/ヒューゴ・シンベリ.md "wikilink")の絵画『[傷ついた天使](https://ja.wikipedia.org/wiki/傷ついた天使 "wikilink")』をテーマにし、物語性のある映像になった。
 
-このビデオは[ニュークリア・ブラスト](https://ja.wikipedia.org/wiki/ニュークリア・ブラスト "wikilink")より[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")上で2007年8月8日に公開された。
+このビデオは[ニュークリア・ブラスト](../Page/ニュークリア・ブラスト.md "wikilink")より[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")上で2007年8月8日に公開された。
 
 ## While Your Lips Are Still Red
 
-シングルに収録された「While Your Lips Are Still Red」は2007年映画『[LIEKSA\!](https://ja.wikipedia.org/wiki/LIEKSA! "wikilink")』の主題歌。[ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink")が書き、[マルコ・ヒエタラ](https://ja.wikipedia.org/wiki/マルコ・ヒエタラ "wikilink")が歌った。演奏はこの2人とドラムス担当の[ユッカ・ネヴァライネン](https://ja.wikipedia.org/wiki/ユッカ・ネヴァライネン "wikilink")。映画のシーンと組み合わせたミュージック・ビデオも撮影された。
+シングルに収録された「While Your Lips Are Still Red」は2007年映画『[LIEKSA\!](https://ja.wikipedia.org/wiki/LIEKSA! "wikilink")』の主題歌。[ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink")が書き、[マルコ・ヒエタラ](../Page/マルコ・ヒエタラ.md "wikilink")が歌った。演奏はこの2人とドラムス担当の[ユッカ・ネヴァライネン](../Page/ユッカ・ネヴァライネン.md "wikilink")。映画のシーンと組み合わせたミュージック・ビデオも撮影された。
 
 ## トラック・リスト
 
 ### スパインファーム・レコード
 
-[スパインファーム・レコード](https://ja.wikipedia.org/wiki/スパインファーム・レコード "wikilink")からは2007年8月22日にリリースされた。シングル「Amaranth」2バージョンを全て収録した2枚組。
+[スパインファーム・レコード](../Page/スパインファーム・レコード.md "wikilink")からは2007年8月22日にリリースされた。シングル「Amaranth」2バージョンを全て収録した2枚組。
 
 #### ディスク 1
 
-| \# | 題名                                                            | 作者                                                                    | 時間    | 備考                   |
-| -- | ------------------------------------------------------------- | --------------------------------------------------------------------- | ----- | -------------------- |
-| 1  | "Amaranth"                                                    | [ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink") | 03:57 |                      |
-| 2  | "Reach"                                                       | ツォーマス・ホロパイネン                                                          | 03:57 | ヒエタラが歌う「Amaranth」デモ版 |
-| 3  | "[Eva (Orchestral Version)](../Page/Eva_\(曲\).md "wikilink")" | ツォーマス・ホロパイネン                                                          | 04:28 |                      |
-| 4  | "While Your Lips Are Still Red"                               | ツォーマス・ホロパイネン                                                          | 04:22 |                      |
+| \# | 題名                                                            | 作者                                                 | 時間    | 備考                   |
+| -- | ------------------------------------------------------------- | -------------------------------------------------- | ----- | -------------------- |
+| 1  | "Amaranth"                                                    | [ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink") | 03:57 |                      |
+| 2  | "Reach"                                                       | ツォーマス・ホロパイネン                                       | 03:57 | ヒエタラが歌う「Amaranth」デモ版 |
+| 3  | "[Eva (Orchestral Version)](../Page/Eva_\(曲\).md "wikilink")" | ツォーマス・ホロパイネン                                       | 04:28 |                      |
+| 4  | "While Your Lips Are Still Red"                               | ツォーマス・ホロパイネン                                       | 04:22 |                      |
 
 #### ディスク 2
 
@@ -39,7 +39,7 @@
 
 ### ニュークリア・ブラスト
 
-[ニュークリア・ブラスト](https://ja.wikipedia.org/wiki/ニュークリア・ブラスト "wikilink")からは2007年8月24日と31日にリリースされた。CDが2バージョン、以上2枚組のデジパック版、DVDが1バージョン、合計4バージョンでリリースされた。
+[ニュークリア・ブラスト](../Page/ニュークリア・ブラスト.md "wikilink")からは2007年8月24日と31日にリリースされた。CDが2バージョン、以上2枚組のデジパック版、DVDが1バージョン、合計4バージョンでリリースされた。
 
 #### バージョン 1
 
@@ -71,10 +71,10 @@
 ## 演奏者
 
   - [アネット・オルゾン](../Page/アネット・オルゾン.md "wikilink") - 歌
-  - [ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
-  - [エンプ・ヴオリネン](https://ja.wikipedia.org/wiki/エンプ・ヴオリネン "wikilink") - [ギター](../Page/ギター.md "wikilink")
-  - [ユッカ・ネヴァライネン](https://ja.wikipedia.org/wiki/ユッカ・ネヴァライネン "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-  - [マルコ・ヒエタラ](https://ja.wikipedia.org/wiki/マルコ・ヒエタラ "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース・ギター "wikilink")、歌
+  - [ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
+  - [エンプ・ヴオリネン](../Page/エンプ・ヴオリネン.md "wikilink") - [ギター](../Page/ギター.md "wikilink")
+  - [ユッカ・ネヴァライネン](../Page/ユッカ・ネヴァライネン.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [マルコ・ヒエタラ](../Page/マルコ・ヒエタラ.md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース・ギター "wikilink")、歌
 
 [lt:Dark Passion Play\#Amaranth](https://ja.wikipedia.org/wiki/lt:Dark_Passion_Play#Amaranth "wikilink")
 

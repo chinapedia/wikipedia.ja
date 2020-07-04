@@ -1,7 +1,7 @@
 > この記事は[VG Chartz](https://ja.wikipedia.org/wiki/VG_Chartz)から翻訳されています。
 
 
-**VGChartz**は、[家庭用ゲーム機や](../Page/ゲーム機.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")の売上データを地域別かつ包括的に予想し公開している[ウェブサイト](../Page/ウェブサイト.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にBrett Waltonによって設立された\[1\]。
+**VGChartz**は、[家庭用ゲーム機や](../Page/ゲーム機.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")の売上データを地域別かつ包括的に予想し公開している[ウェブサイト](../Page/ウェブサイト.md "wikilink")。[2005年](../Page/2005年.md "wikilink")にBrett Waltonによって設立された\[1\]。
 
 ## 概要
 

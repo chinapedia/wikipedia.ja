@@ -5,7 +5,7 @@
 
 ## 概要
 
-当時の[J-POP](../Page/J-POP.md "wikilink")界の若手ミュージシャンたちが出演していた[深夜番組](../Page/深夜番組.md "wikilink")で、ブレイク前の[シャ乱Q](../Page/シャ乱Q.md "wikilink")、[ウルフルズ](../Page/ウルフルズ.md "wikilink")、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")、[及川光博](../Page/及川光博.md "wikilink")、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")、[馬場俊英](../Page/馬場俊英.md "wikilink")らもレギュラーコーナーを持って出演していた。特に及川の担当コーナー「愛と芸術の日々」は、及川自身の作品としてDVD化されている。
+当時の[J-POP](../Page/J-POP.md "wikilink")界の若手ミュージシャンたちが出演していた[深夜番組](../Page/深夜番組.md "wikilink")で、ブレイク前の[シャ乱Q](../Page/シャ乱Q.md "wikilink")、[ウルフルズ](../Page/ウルフルズ.md "wikilink")、[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")、[及川光博](../Page/及川光博.md "wikilink")、[モーニング娘。](../Page/モーニング娘。.md "wikilink")、[馬場俊英](../Page/馬場俊英.md "wikilink")らもレギュラーコーナーを持って出演していた。特に及川の担当コーナー「愛と芸術の日々」は、及川自身の作品としてDVD化されている。
 
 番組は主に、ミュージシャンそれぞれの個性を生かしたバラエティコーナーと、彼らが出演するライブイベントや[プロモーションビデオを紹介する](../Page/ミュージック・ビデオ.md "wikilink")「CHECK THE ARTIST」のコーナー、音楽CDの実売数と視聴者からのリクエストを基にした番組独自のランキングを発表する「HIT CHART」のコーナー、番組主催のライブイベントの模様や東海テレビまつりの模様を放送する「Coming Generation」のコーナーによって構成されていた。バラエティコーナーは、放送末期では[斎藤ノブが担当する](../Page/斎藤ノヴ.md "wikilink")「Nobu's Bar」のコーナーと、[岡本真来](https://ja.wikipedia.org/wiki/岡本真来 "wikilink")が担当する「わらしべ大作戦\!」のコーナーを主軸にしていた。
 
@@ -41,7 +41,7 @@
   - [Something ELse](../Page/Something_ELse.md "wikilink")
   - [S.D.B.B.](https://ja.wikipedia.org/wiki/S.D.B.B. "wikilink")
   - [hal](https://ja.wikipedia.org/wiki/hal "wikilink") - 「めざせファーストレディー halが行く\!」
-  - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")
+  - [モーニング娘。](../Page/モーニング娘。.md "wikilink")
   - [The LOVE](../Page/The_LOVE.md "wikilink")
   - [米倉利紀](../Page/米倉利紀.md "wikilink")
   - [馬場俊英](../Page/馬場俊英.md "wikilink")

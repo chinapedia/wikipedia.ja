@@ -1,7 +1,7 @@
-> この記事は[JOURNEY \(THE ALFEE\)](https://ja.wikipedia.org/wiki/JOURNEY_\(THE_ALFEE\))から翻訳されています。
+> この記事は[JOURNEY \(THE ALFEEのアルバム\)](https://ja.wikipedia.org/wiki/JOURNEY_\(THE_ALFEEのアルバム\))から翻訳されています。
 
 
-『**JOURNEY**』（ジャーニー）は、[1992年](https://ja.wikipedia.org/wiki/1992年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")に発売された[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
+『**JOURNEY**』（ジャーニー）は、[1992年](../Page/1992年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")に発売された[THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。
 
 ## 収録曲
 
@@ -26,11 +26,11 @@
         フジテレビ主催の恐竜展『最後の恐竜王国』テーマソング。
 10. **Someday (London Re-mix)**
       -
-        [大阪国際女子マラソン](https://ja.wikipedia.org/wiki/大阪国際女子マラソン "wikilink")イメージソングをアレンジしたもの。
+        [大阪国際女子マラソン](../Page/大阪国際女子マラソン.md "wikilink")イメージソングをアレンジしたもの。
         「Promised Love」のカップリング曲。
 11. **壁の向こうのFreedom -24th March,1989-**
       -
-        1989年秋のRESISTANCEツアーで初披露された曲。このアルバムでようやく収録された。[ベルリンの壁崩壊](https://ja.wikipedia.org/wiki/ベルリンの壁崩壊 "wikilink")をテーマとしている。
+        1989年秋のRESISTANCEツアーで初披露された曲。このアルバムでようやく収録された。[ベルリンの壁崩壊](../Page/ベルリンの壁崩壊.md "wikilink")をテーマとしている。
         ライヴではアレンジが変更されたバージョンで演奏されたことがあった。またベルリン公演ではそれをベースにし「Freedom On The Other Side Of The Wall」とのタイトルで英語バージョンで披露された。
         高見沢のソロバージョンも存在する(「[Berin Calling](https://ja.wikipedia.org/wiki/Berin_Calling "wikilink")」に収録)。
 
@@ -42,13 +42,13 @@
       - 高見沢俊彦
       - 桜井賢
       - 坂崎幸之助
-      - [長谷川浩二](https://ja.wikipedia.org/wiki/長谷川浩二 "wikilink")（[Drums](../Page/ドラムセット.md "wikilink")）
-      - [菊地圭介](https://ja.wikipedia.org/wiki/菊地圭介 "wikilink")（[Keyboards](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink")）
+      - [長谷川浩二](../Page/長谷川浩二.md "wikilink")（[Drums](../Page/ドラムセット.md "wikilink")）
+      - [菊地圭介](../Page/菊地圭介.md "wikilink")（[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")）
 
 <!-- end list -->
 
-  - [佐藤準](https://ja.wikipedia.org/wiki/佐藤準 "wikilink")（編曲 & Keyboards）\#6
-  - [服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")（[Strings arrangement](https://ja.wikipedia.org/wiki/ストリングス "wikilink")） \#11
+  - [佐藤準](../Page/佐藤準.md "wikilink")（編曲 & Keyboards）\#6
+  - [服部隆之](../Page/服部隆之.md "wikilink")（[Strings arrangement](https://ja.wikipedia.org/wiki/ストリングス "wikilink")） \#11
 
 ## カタログ
 

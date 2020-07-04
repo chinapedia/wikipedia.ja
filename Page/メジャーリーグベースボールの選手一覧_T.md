@@ -347,7 +347,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chuck_Tanner" title="wikilink">Chuck Tanner</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チャック・タナー" title="wikilink">チャック・タナー</a></p></td>
+<td><p><a href="../Page/チャック・タナー.md" title="wikilink">チャック・タナー</a></p></td>
 <td><p>1955</p></td>
 <td><p>1962</p></td>
 <td></td>
@@ -2016,7 +2016,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Lane_Thomas" title="wikilink">Lane Thomas</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レーン・トーマス" title="wikilink">レーン・トーマス</a></p></td>
+<td><p><a href="../Page/レーン・トーマス.md" title="wikilink">レーン・トーマス</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>

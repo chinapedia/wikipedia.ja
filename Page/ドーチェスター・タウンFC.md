@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ドーチェスター・タウンFC](https://ja.wikipedia.org/wiki/ドーチェスター・タウンFC)から翻訳されています。
 
 
-**ドーチェスター・タウン・フットボール・クラブ**（**Dorchester Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ドーセット](https://ja.wikipedia.org/wiki/ドーセット "wikilink")州[ドーチェスター](https://ja.wikipedia.org/wiki/ドーチェスター "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[サザンフットボールリーグ・プレミアディヴィジョン](https://ja.wikipedia.org/wiki/サザンフットボールリーグ・プレミアディヴィジョン "wikilink")（7部相当）に所属。
+**ドーチェスター・タウン・フットボール・クラブ**（**Dorchester Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ドーセット](../Page/ドーセット.md "wikilink")州[ドーチェスター](https://ja.wikipedia.org/wiki/ドーチェスター "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[サザンフットボールリーグ・プレミアディヴィジョン](../Page/サザンフットボールリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。
 
 ## タイトル
 

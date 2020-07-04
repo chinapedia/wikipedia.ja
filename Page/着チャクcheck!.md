@@ -1,18 +1,18 @@
-> この記事は[check!](https://ja.wikipedia.org/wiki/check!)から翻訳されています。
+> この記事は[着チャクcheck!](https://ja.wikipedia.org/wiki/着チャクcheck!)から翻訳されています。
 
 
 **着チャクcheck\!**（ちゃくちゃくちぇっく）は、[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink") （K-MIX）の[ラジオ番組](../Page/ラジオ番組.md "wikilink")及び公式[携帯サイト](https://ja.wikipedia.org/wiki/携帯サイト "wikilink")での[着うた](../Page/着うた.md "wikilink")・[着ボイス](https://ja.wikipedia.org/wiki/着ボイス "wikilink")の配信サービスである。
 
 ## 沿革
 
-  - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[auでは](https://ja.wikipedia.org/wiki/Au_\(携帯電話\) "wikilink")2007年12月より、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")では2008年2月より配信サービスを開始した。
+  - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[auでは](../Page/Au_\(携帯電話\).md "wikilink")2007年12月より、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")では2008年2月より配信サービスを開始した。
   - 2008年1月1日より、本サービス・[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")を紹介する同名の番組が開始された。
-  - 2012年11月30日、au向けの「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」の配信を終了\[1\]。
+  - 2012年11月30日、au向けの「[着うたフル](../Page/着うたフル.md "wikilink")」の配信を終了\[1\]。
   - 2013年3月28日に番組が終了、月末を以って配信サービスを終了した。
 
 ## 留意点
 
-管理委託先の方針により、[携帯電話](../Page/携帯電話.md "wikilink")を[機種変更](https://ja.wikipedia.org/wiki/機種変更 "wikilink")した場合（同一[キャリアの場合を含む](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")）、[SDカードに保存した楽曲を新しい端末で聴くことができない仕様である](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")\[2\]。
+管理委託先の方針により、[携帯電話](../Page/携帯電話.md "wikilink")を[機種変更](../Page/機種変更.md "wikilink")した場合（同一[キャリアの場合を含む](../Page/電気通信事業者.md "wikilink")）、[SDカードに保存した楽曲を新しい端末で聴くことができない仕様である](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")\[2\]。
 
 ## 配信内容
 
@@ -20,16 +20,16 @@
 
 ### 着ボイス
 
-  - [廣木弓子](https://ja.wikipedia.org/wiki/廣木弓子 "wikilink") - 「ヒッヒッヒッヒッヒー」
+  - [廣木弓子](../Page/廣木弓子.md "wikilink") - 「ヒッヒッヒッヒッヒー」
   - [高原由香子](../Page/高原由香子.md "wikilink")
-  - [小林千穂](https://ja.wikipedia.org/wiki/小林千穂 "wikilink")
+  - [小林千穂](../Page/小林千穂.md "wikilink")
   - [東城佑香](https://ja.wikipedia.org/wiki/東城佑香 "wikilink")
   - [河村由美](../Page/河村由美_\(アナウンサー\).md "wikilink")
   - [宮本淳子](../Page/宮本淳子.md "wikilink")
-  - [高橋正純](https://ja.wikipedia.org/wiki/高橋正純 "wikilink")
-  - [柴田聡](https://ja.wikipedia.org/wiki/柴田聡 "wikilink")
+  - [高橋正純](../Page/高橋正純.md "wikilink")
+  - [柴田聡](../Page/柴田聡.md "wikilink")
   - [神谷幸恵](../Page/神谷幸恵.md "wikilink")
-  - [久保ひとみ](https://ja.wikipedia.org/wiki/久保ひとみ "wikilink")
+  - [久保ひとみ](../Page/久保ひとみ.md "wikilink")
   - [ボサノバカサノバ](https://ja.wikipedia.org/wiki/ボサノバカサノバ "wikilink")（Sho1、吉澤秀人）
 
 ### 番組ジングル
@@ -37,21 +37,21 @@
   - K-MIXのステーション[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")（5パターン）
   - K-MIXステーションジングル2009
   - [K-MIX 2ストライク1ボール](https://ja.wikipedia.org/wiki/K-MIX_2ストライク1ボール "wikilink")（2パターン）
-  - [SHIZUOKA TOP40](https://ja.wikipedia.org/wiki/SHIZUOKA_TOP40 "wikilink")（2パターン）
-  - [K-MIX Radio the Boom\!](https://ja.wikipedia.org/wiki/Radio_the_Boom! "wikilink")（2バージョン）
+  - [SHIZUOKA TOP40](../Page/SHIZUOKA_TOP40.md "wikilink")（2パターン）
+  - [K-MIX Radio the Boom\!](../Page/Radio_the_Boom!.md "wikilink")（2バージョン）
   - [K-MIX WEEKEND ヤッホー\!\!](../Page/WEEKEND_ヤッホー!!.md "wikilink")（2パターン）
   - [K-MIX CARAMEL POCKET](../Page/CARAMEL_POCKET.md "wikilink") - 「メシ・リク」
 
 ### 着うた・着うたフル
 
   - ボサノバカサノバ
-  - [K-MIX 8×8](https://ja.wikipedia.org/wiki/K-MIX_8×8 "wikilink")
+  - [K-MIX 8×8](../Page/K-MIX_8×8.md "wikilink")
       - [京太朗と晴彦](https://ja.wikipedia.org/wiki/京太朗と晴彦 "wikilink")
       - [カミナリグモ](https://ja.wikipedia.org/wiki/カミナリグモ "wikilink") - カヴァー企画「カミナリズム」
       - [ズータンズ](https://ja.wikipedia.org/wiki/ズータンズ "wikilink")
   - [Dew](../Page/Dew.md "wikilink")
-  - [APOGEE](https://ja.wikipedia.org/wiki/APOGEE "wikilink")
-  - [神谷幸恵](../Page/神谷幸恵.md "wikilink")の独立宣言 - [オーディション](https://ja.wikipedia.org/wiki/オーディション "wikilink")ファイナリスト
+  - [APOGEE](../Page/APOGEE.md "wikilink")
+  - [神谷幸恵](../Page/神谷幸恵.md "wikilink")の独立宣言 - [オーディション](../Page/オーディション.md "wikilink")ファイナリスト
 
 ## 脚注
 

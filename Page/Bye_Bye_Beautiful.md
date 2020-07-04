@@ -5,7 +5,7 @@
 
 ## ビデオ
 
-ビデオでは男性メンバー4人の代わりに女性4人が登場する。これについて[ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink")は「ただの自虐ネタ。ロックンロールだよ」と語っている。
+ビデオでは男性メンバー4人の代わりに女性4人が登場する。これについて[ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink")は「ただの自虐ネタ。ロックンロールだよ」と語っている。
 
 ## トラック・リスト
 
@@ -36,9 +36,9 @@
 ## 演奏者
 
   - [アネット・オルゾン](../Page/アネット・オルゾン.md "wikilink") - [歌](../Page/歌.md "wikilink")
-  - [ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
-  - [エンプ・ヴオリネン](https://ja.wikipedia.org/wiki/エンプ・ヴオリネン "wikilink") - [ギター](../Page/ギター.md "wikilink")
-  - [ユッカ・ネヴァライネン](https://ja.wikipedia.org/wiki/ユッカ・ネヴァライネン "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
-  - [マルコ・ヒエタラ](https://ja.wikipedia.org/wiki/マルコ・ヒエタラ "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース・ギター "wikilink")、歌
+  - [ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
+  - [エンプ・ヴオリネン](../Page/エンプ・ヴオリネン.md "wikilink") - [ギター](../Page/ギター.md "wikilink")
+  - [ユッカ・ネヴァライネン](../Page/ユッカ・ネヴァライネン.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [マルコ・ヒエタラ](../Page/マルコ・ヒエタラ.md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース・ギター "wikilink")、歌
 
 [Category:ナイトウィッシュの楽曲](https://ja.wikipedia.org/wiki/Category:ナイトウィッシュの楽曲 "wikilink") [Category:2008年のシングル](https://ja.wikipedia.org/wiki/Category:2008年のシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

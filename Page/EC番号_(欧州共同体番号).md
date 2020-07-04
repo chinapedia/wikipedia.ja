@@ -1,4 +1,4 @@
-> この記事は[EC \(\)](https://ja.wikipedia.org/wiki/EC_\(\))から翻訳されています。
+> この記事は[EC番号 \(欧州共同体番号\)](https://ja.wikipedia.org/wiki/EC番号_\(欧州共同体番号\))から翻訳されています。
 
 
 **EC番号**とは[欧州共同体](../Page/欧州共同体.md "wikilink")(EC)の委員会が定めた化学物質の同定番号で、**EINECS番号**、**ELINCS番号**、**NLP番号**から構成される。\[1\]　広義には、EC List No. を加えることがある。

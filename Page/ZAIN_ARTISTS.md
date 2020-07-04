@@ -45,7 +45,7 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")（ビーイングに吸収合併、現在は[レコード・レーベル](https://ja.wikipedia.org/wiki/レコード・レーベル "wikilink")）
-  - [VERMILLION](https://ja.wikipedia.org/wiki/VERMILLION "wikilink") - [B'z](../Page/B'z.md "wikilink")の個人事務所
+  - [VERMILLION](../Page/VERMILLION.md "wikilink") - [B'z](../Page/B'z.md "wikilink")の個人事務所
 
 ## 外部リンク
 

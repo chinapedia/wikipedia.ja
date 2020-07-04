@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヘンドンFC](https://ja.wikipedia.org/wiki/ヘンドンFC)から翻訳されています。
 
 
 **ヘンドン・フットボール・クラブ**（**Hendon Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")、[バーネット・ロンドン特別区](https://ja.wikipedia.org/wiki/バーネット・ロンドン特別区 "wikilink")内、[ヘンドン](https://ja.wikipedia.org/wiki/ヘンドン "wikilink")を本拠地とするサッカークラブチームである。2008-2009シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

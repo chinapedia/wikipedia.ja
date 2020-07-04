@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[コービー・タウンFC](https://ja.wikipedia.org/wiki/コービー・タウンFC)から翻訳されています。
 
 
-**コービー・タウン・フットボールクラブ**（**Corby Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ノーサンプトンシャー](https://ja.wikipedia.org/wiki/ノーサンプトンシャー "wikilink")の[コービー](../Page/コービー.md "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[ノーザンプレミアリーグ・ディヴィジョン1・サウス](https://ja.wikipedia.org/wiki/ノーザンプレミアリーグ・ディヴィジョン1・サウス "wikilink")（8部相当）に所属。
+**コービー・タウン・フットボールクラブ**（**Corby Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ノーサンプトンシャー](../Page/ノーサンプトンシャー.md "wikilink")の[コービー](../Page/コービー.md "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[ノーザンプレミアリーグ・ディヴィジョン1・サウス](https://ja.wikipedia.org/wiki/ノーザンプレミアリーグ・ディヴィジョン1・サウス "wikilink")（8部相当）に所属。
 
 ## タイトル
 

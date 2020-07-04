@@ -1,7 +1,7 @@
-> この記事は[ DT](https://ja.wikipedia.org/wiki/_DT)から翻訳されています。
+> この記事は[七夜物語 DT異聞](https://ja.wikipedia.org/wiki/七夜物語_DT異聞)から翻訳されています。
 
 
-『**七夜物語 DT異聞**』（ななやものがたり でぃーてぃーいぶん）は、[和智正喜](https://ja.wikipedia.org/wiki/和智正喜 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[甚六](https://ja.wikipedia.org/wiki/甚六 "wikilink")が担当。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ゲーム『[DT Lords of Genomes](../Page/DT_Lords_of_Genomes.md "wikilink")』の外伝作品である。しかし、タイトルに「異聞」とあるように、原作とは設定が異なっている。
+『**七夜物語 DT異聞**』（ななやものがたり でぃーてぃーいぶん）は、[和智正喜](../Page/和智正喜.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[甚六](https://ja.wikipedia.org/wiki/甚六 "wikilink")が担当。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ゲーム『[DT Lords of Genomes](../Page/DT_Lords_of_Genomes.md "wikilink")』の外伝作品である。しかし、タイトルに「異聞」とあるように、原作とは設定が異なっている。
 
 ## あらすじ
 
@@ -18,7 +18,7 @@
   - 流沢 亮作（ながれさわ りょうさく）
     一馬の父親。
   - 田永 優（たなが まさる）
-    一馬の同級生。「銘菓 星鳴饅頭本舗」の七代目。年齢に不釣り合いな貫禄を持ち、一馬と親子に間違われることも少なくない。亮作曰く、[片岡千恵蔵](https://ja.wikipedia.org/wiki/片岡千恵蔵 "wikilink")に瓜二つ。
+    一馬の同級生。「銘菓 星鳴饅頭本舗」の七代目。年齢に不釣り合いな貫禄を持ち、一馬と親子に間違われることも少なくない。亮作曰く、[片岡千恵蔵](../Page/片岡千恵蔵.md "wikilink")に瓜二つ。
   - 仁美 理佐（ひとみ りさ）
     東京のテレビ制作会社の社員。親は「月影荘」を経営していた。
   - 神木（かみき）

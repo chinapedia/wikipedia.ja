@@ -5,7 +5,7 @@
 
 ## 内容
 
-織田が唯一リリースしたミニアルバムで、ジャケットには、盟友である[古村敏比古](https://ja.wikipedia.org/wiki/古村敏比古 "wikilink")が登場している。タイトル通り、ワイルドさを強調したイメージを軸にしている。
+織田が唯一リリースしたミニアルバムで、ジャケットには、盟友である[古村敏比古](../Page/古村敏比古.md "wikilink")が登場している。タイトル通り、ワイルドさを強調したイメージを軸にしている。
 
 ## 収録曲
 
@@ -26,9 +26,9 @@
   - [吉川忠英](../Page/吉川忠英.md "wikilink") - ギター
   - 関昌夫 - ベース
   - 岡崎しげる - ベース
-  - [山田亘](https://ja.wikipedia.org/wiki/山田亘 "wikilink") - ドラム
+  - [山田亘](../Page/山田亘.md "wikilink") - ドラム
   - 滝本孝延 - ドラム
   - 木村誠 - パーカッション
-  - [坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink") - ボーカル
+  - [坪倉唯子](../Page/坪倉唯子.md "wikilink") - ボーカル
 
 [Category:織田哲郎のアルバム](https://ja.wikipedia.org/wiki/Category:織田哲郎のアルバム "wikilink") [Category:CBSソニーのアルバム](https://ja.wikipedia.org/wiki/Category:CBSソニーのアルバム "wikilink") [Category:1987年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1987年のミニ・アルバム "wikilink")

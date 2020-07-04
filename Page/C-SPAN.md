@@ -5,7 +5,7 @@
 
 ## 概要
 
-C-SPANは[1979年](../Page/1979年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")に開局。主に議会中継や、[一般教書演説](../Page/一般教書演説.md "wikilink")や[民主党全国大会](https://ja.wikipedia.org/wiki/民主党全国大会 "wikilink")、[共和党全国大会](https://ja.wikipedia.org/wiki/共和党全国大会 "wikilink")などの生中継行事、アーカイブなどが中心である。
+C-SPANは[1979年](../Page/1979年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")に開局。主に議会中継や、[一般教書演説](../Page/一般教書演説.md "wikilink")や[民主党全国大会](../Page/民主党全国大会.md "wikilink")、[共和党全国大会](https://ja.wikipedia.org/wiki/共和党全国大会 "wikilink")などの生中継行事、アーカイブなどが中心である。
 
 本部は首都の[ワシントンD.C.](../Page/ワシントンD.C..md "wikilink")にある。
 

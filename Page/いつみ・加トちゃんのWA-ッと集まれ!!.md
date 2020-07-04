@@ -5,7 +5,7 @@
 
 ## 概要
 
-11年半続いた『[クイズ・ドレミファドン\!](../Page/クイズ・ドレミファドン!.md "wikilink")』の後を受けてスタート。司会は[逸見政孝](../Page/逸見政孝.md "wikilink")と[加藤茶](../Page/加藤茶.md "wikilink")が務めていた。当時結成して間もなかった[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")のテレビ初レギュラー番組でもあった。当時まだ小学生だった[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")は、自己紹介の際に「プロデューサー（フジテレビの[井上信悟](../Page/井上信悟.md "wikilink")）の名前と字が違う慎吾です！」と発言していた。
+11年半続いた『[クイズ・ドレミファドン\!](../Page/クイズ・ドレミファドン!.md "wikilink")』の後を受けてスタート。司会は[逸見政孝](../Page/逸見政孝.md "wikilink")と[加藤茶](../Page/加藤茶.md "wikilink")が務めていた。当時結成して間もなかった[SMAP](../Page/SMAP.md "wikilink")のテレビ初レギュラー番組でもあった。当時まだ小学生だった[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")は、自己紹介の際に「プロデューサー（フジテレビの[井上信悟](../Page/井上信悟.md "wikilink")）の名前と字が違う慎吾です！」と発言していた。
 
 放送開始前には「WA\!いつみ情報総研」という仮題が付けられていた。この年の期首特別番組『[なるほど\!ザ・春の祭典スペシャル](../Page/FNS番組対抗!なるほど!ザ・春秋の祭典スペシャル.md "wikilink")』にも番組はこのタイトルで出演した。
 
@@ -13,7 +13,7 @@
 
   - [逸見政孝](../Page/逸見政孝.md "wikilink")
   - [加藤茶](../Page/加藤茶.md "wikilink")
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
+  - [SMAP](../Page/SMAP.md "wikilink")
   - [国分太一](../Page/国分太一.md "wikilink") - 番組放送当時は[TOKIO](../Page/TOKIO.md "wikilink")の結成前で、SMAPのサポートメンバーを務めていた。
   - [EGG5](https://ja.wikipedia.org/wiki/EGG5 "wikilink")
 

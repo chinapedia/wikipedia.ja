@@ -1,7 +1,7 @@
-> この記事は[Forever \(\)](https://ja.wikipedia.org/wiki/Forever_\(\))から翻訳されています。
+> この記事は[Forever \(松田聖子のアルバム\)](https://ja.wikipedia.org/wiki/Forever_\(松田聖子のアルバム\))から翻訳されています。
 
 
-『**Forever**』（フォーエバー）は、[松田聖子](../Page/松田聖子.md "wikilink")（通算31枚目）の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1998年5月8日発売。発売元は[マーキュリー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+『**Forever**』（フォーエバー）は、[松田聖子](../Page/松田聖子.md "wikilink")（通算31枚目）の[オリジナルアルバム](../Page/アルバム.md "wikilink")。1998年5月8日発売。発売元は[マーキュリー・ミュージックエンタテインメント](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -16,7 +16,7 @@
 1.  **Forever**　（4:45）
 2.  **[恋する想い〜Fall in love〜](../Page/恋する想い〜Fall_in_love〜.md "wikilink")**　（4:47）
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](https://ja.wikipedia.org/wiki/スーパーテレビ情報最前線 "wikilink")』エンディング・テーマ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スーパーテレビ情報最前線](../Page/スーパーテレビ情報最前線.md "wikilink")』エンディング・テーマ
 3.  **眠れない夜**　（4:04）
 4.  **Can't Say Goodbye**　（4:39）
 5.  **悲しい秘密**　（4:25）
@@ -26,7 +26,7 @@
 9.  **Dear Father**　（4:44）
 10. **[I Love You](../Page/恋する想い〜Fall_in_love〜.md "wikilink")**　（5:02）
       - 全作詞: Seiko Matsuda
-      - 全作曲: Seiko Matsuda・[Ryo Ogura](https://ja.wikipedia.org/wiki/小倉良 "wikilink")
+      - 全作曲: Seiko Matsuda・[Ryo Ogura](../Page/小倉良.md "wikilink")
       - 編曲: [Yuji Toriyama](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink") 、小倉良・栗尾直樹（M-9・10）、小倉良・[石塚知生](../Page/石塚知生.md "wikilink")（M-5）
 
 ## 関連作品
@@ -44,11 +44,11 @@
 
 ## 関連項目
 
-  - [1998年の音楽](https://ja.wikipedia.org/wiki/1998年の音楽 "wikilink")
+  - [1998年の音楽](../Page/1998年の音楽.md "wikilink")
 
 ## 関連人物
 
-  - [小倉良](https://ja.wikipedia.org/wiki/小倉良 "wikilink")
+  - [小倉良](../Page/小倉良.md "wikilink")
   - [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
 
 [Category:松田聖子のアルバム](https://ja.wikipedia.org/wiki/Category:松田聖子のアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")

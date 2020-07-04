@@ -1,4 +1,4 @@
-> この記事は[NAR4](https://ja.wikipedia.org/wiki/NAR4)から翻訳されています。
+> この記事は[NARグランプリサラブレッド4歳以上最優秀馬](https://ja.wikipedia.org/wiki/NARグランプリサラブレッド4歳以上最優秀馬)から翻訳されています。
 
 
 **NARグランプリサラブレッド4歳以上最優秀馬**は、[NARグランプリ](../Page/NARグランプリ.md "wikilink")の[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")部門の1つ。該当年度中に活躍した4歳以上馬が対象となる。創設は1994年。2010年に廃止された。なお、本項では2011年より創設された**NARグランプリサラブレッド4歳以上最優秀牡馬**、**NARグランプリサラブレッド4歳以上最優秀牝馬**についても取り扱う。
@@ -7,7 +7,7 @@
 
 ### NARグランプリサラブレッド4歳以上最優秀馬
 
-[馬齢](https://ja.wikipedia.org/wiki/馬齢 "wikilink")は2000年までは旧表記。
+[馬齢](../Page/馬齢.md "wikilink")は2000年までは旧表記。
 
 <table>
 <thead>
@@ -59,10 +59,10 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アブクマポーロ" title="wikilink">アブクマポーロ</a></p></td>
+<td><p><a href="../Page/アブクマポーロ.md" title="wikilink">アブクマポーロ</a></p></td>
 <td><p>牡6</p></td>
 <td><p>9戦6勝<br />
-<a href="https://ja.wikipedia.org/wiki/東海ステークス" title="wikilink">東海ウインターステークス</a></p></td>
+<a href="../Page/東海ステークス.md" title="wikilink">東海ウインターステークス</a></p></td>
 <td><p>高澤俊雄</p></td>
 <td><p>船橋</p></td>
 <td><p><a href="../Page/出川克己.md" title="wikilink">出川克己</a></p></td>
@@ -70,7 +70,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アブクマポーロ" title="wikilink">アブクマポーロ</a></p></td>
+<td><p><a href="../Page/アブクマポーロ.md" title="wikilink">アブクマポーロ</a></p></td>
 <td><p>牡7</p></td>
 <td><p>9戦8勝<br />
 <a href="../Page/川崎記念.md" title="wikilink">川崎記念</a>、<a href="../Page/帝王賞.md" title="wikilink">帝王賞</a>、<a href="../Page/東京大賞典.md" title="wikilink">東京大賞典</a></p></td>
@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トーホウエンペラー" title="wikilink">トーホウエンペラー</a></p></td>
+<td><p><a href="../Page/トーホウエンペラー.md" title="wikilink">トーホウエンペラー</a></p></td>
 <td><p>牡5</p></td>
 <td><p>10戦5勝<br />
 <a href="../Page/東京大賞典.md" title="wikilink">東京大賞典</a></p></td>
@@ -114,7 +114,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トーホウエンペラー" title="wikilink">トーホウエンペラー</a></p></td>
+<td><p><a href="../Page/トーホウエンペラー.md" title="wikilink">トーホウエンペラー</a></p></td>
 <td><p>牡6</p></td>
 <td><p>8戦3勝<br />
 <a href="../Page/マイルチャンピオンシップ南部杯.md" title="wikilink">マイルチャンピオンシップ南部杯</a></p></td>
@@ -125,13 +125,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ネームヴァリュー" title="wikilink">ネームヴァリュー</a></p></td>
+<td><p><a href="../Page/ネームヴァリュー.md" title="wikilink">ネームヴァリュー</a></p></td>
 <td><p>牝5</p></td>
 <td><p>10戦4勝<br />
 <a href="../Page/帝王賞.md" title="wikilink">帝王賞</a></p></td>
 <td><p>飛野牧場</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>（有）飛野牧場</p></td>
 </tr>
 <tr class="odd">
@@ -139,32 +139,32 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ナイキアディライト" title="wikilink">ナイキアディライト</a></p></td>
 <td><p>牡4</p></td>
 <td><p>8戦2勝<br />
-<a href="https://ja.wikipedia.org/wiki/かしわ記念" title="wikilink">かしわ記念</a></p></td>
+<a href="../Page/かしわ記念.md" title="wikilink">かしわ記念</a></p></td>
 <td><p>ハシモトファーム</p></td>
 <td><p>船橋</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/出川龍一" title="wikilink">出川龍一</a></p></td>
 <td><p>小野スミ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アジュディミツオー" title="wikilink">アジュディミツオー</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/アジュディミツオー.md" title="wikilink">アジュディミツオー</a></p></td>
 <td><p>牡4</p></td>
 <td><p>5戦1勝<br />
 <a href="../Page/東京大賞典.md" title="wikilink">東京大賞典</a></p></td>
 <td><p>藤川ファーム</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>織戸眞男</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アジュディミツオー" title="wikilink">アジュディミツオー</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/アジュディミツオー.md" title="wikilink">アジュディミツオー</a></p></td>
 <td><p>牡5</p></td>
 <td><p>6戦4勝<br />
-<a href="../Page/川崎記念.md" title="wikilink">川崎記念</a>、<a href="https://ja.wikipedia.org/wiki/かしわ記念" title="wikilink">かしわ記念</a>、<a href="../Page/帝王賞.md" title="wikilink">帝王賞</a></p></td>
+<a href="../Page/川崎記念.md" title="wikilink">川崎記念</a>、<a href="../Page/かしわ記念.md" title="wikilink">かしわ記念</a>、<a href="../Page/帝王賞.md" title="wikilink">帝王賞</a></p></td>
 <td><p>藤川ファーム</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>織戸眞男</p></td>
 </tr>
 <tr class="even">
@@ -172,7 +172,7 @@
 <td><p><a href="../Page/フジノウェーブ.md" title="wikilink">フジノウェーブ</a></p></td>
 <td><p>牡5</p></td>
 <td><p>7戦4勝<br />
-<a href="https://ja.wikipedia.org/wiki/JBCスプリント" title="wikilink">JBCスプリント</a></p></td>
+<a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a></p></td>
 <td><p>笹島政信</p></td>
 <td><p>大井</p></td>
 <td><p><a href="../Page/高橋三郎_(競馬).md" title="wikilink">高橋三郎</a></p></td>
@@ -186,7 +186,7 @@
 <a href="../Page/帝王賞.md" title="wikilink">帝王賞</a></p></td>
 <td><p>ハシモトファーム</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>ダーレー・ジャパン・ファーム（有）</p></td>
 </tr>
 <tr class="even">
@@ -194,10 +194,10 @@
 <td><p><a href="../Page/フリオーソ_(2004年生).md" title="wikilink">フリオーソ</a></p></td>
 <td><p>牡5</p></td>
 <td><p>6戦1勝<br />
-<a href="https://ja.wikipedia.org/wiki/ダイオライト記念" title="wikilink">ダイオライト記念</a></p></td>
+<a href="../Page/ダイオライト記念.md" title="wikilink">ダイオライト記念</a></p></td>
 <td><p>ハシモトファーム</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>ダーレー・ジャパン・ファーム（有）</p></td>
 </tr>
 <tr class="odd">
@@ -208,7 +208,7 @@
 <a href="../Page/帝王賞.md" title="wikilink">帝王賞</a></p></td>
 <td><p>ハシモトファーム</p></td>
 <td><p>船橋</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p>ダーレー・ジャパン・ファーム（有）</p></td>
 </tr>
 </tbody>
@@ -236,10 +236,10 @@
 <td><p><a href="../Page/フリオーソ_(2004年生).md" title="wikilink">フリオーソ</a></p></td>
 <td><p>牡7</p></td>
 <td><p>3戦2勝<br />
-<a href="../Page/川崎記念.md" title="wikilink">川崎記念</a>、<a href="https://ja.wikipedia.org/wiki/かしわ記念" title="wikilink">かしわ記念</a></p></td>
+<a href="../Page/川崎記念.md" title="wikilink">川崎記念</a>、<a href="../Page/かしわ記念.md" title="wikilink">かしわ記念</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハシモトファーム" title="wikilink">ハシモトファーム</a></p></td>
 <td><p><a href="../Page/船橋競馬場.md" title="wikilink">船橋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川島正行" title="wikilink">川島正行</a></p></td>
+<td><p><a href="../Page/川島正行.md" title="wikilink">川島正行</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダーレー・ジャパン・ファーム" title="wikilink">ダーレー・ジャパン・ファーム</a>（有）</p></td>
 </tr>
 <tr class="even">
@@ -270,7 +270,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/サミットストーン" title="wikilink">サミットストーン</a></p></td>
 <td><p>牡6</p></td>
 <td><p>10戦3勝<br />
-<a href="../Page/浦和記念.md" title="wikilink">浦和記念</a>、<a href="https://ja.wikipedia.org/wiki/大井記念" title="wikilink">大井記念</a>、<a href="../Page/東京大賞典.md" title="wikilink">東京大賞典</a>3着</p></td>
+<a href="../Page/浦和記念.md" title="wikilink">浦和記念</a>、<a href="../Page/大井記念.md" title="wikilink">大井記念</a>、<a href="../Page/東京大賞典.md" title="wikilink">東京大賞典</a>3着</p></td>
 <td><p>（有）レキシントンファーム</p></td>
 <td><p>船橋</p></td>
 <td><p>矢野義幸</p></td>
@@ -282,7 +282,7 @@
 <td><p>牡4</p></td>
 <td><p>8戦1勝<br />
 浦和記念、かしわ記念3着、<a href="../Page/帝王賞.md" title="wikilink">帝王賞</a>3着</p></td>
-<td><p>辻牧場</p></td>
+<td><p><a href="../Page/辻牧場.md" title="wikilink">辻牧場</a></p></td>
 <td><p>大井</p></td>
 <td><p>森下淳平</p></td>
 <td><p>（有）辻牧場</p></td>
@@ -291,8 +291,8 @@
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソルテ" title="wikilink">ソルテ</a></p></td>
 <td><p>牡6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/さきたま杯" title="wikilink">さきたま杯</a>、かしわ記念2着</p></td>
-<td></td>
+<td><p><a href="../Page/さきたま杯.md" title="wikilink">さきたま杯</a>、かしわ記念2着</p></td>
+<td><p>下村繁正</p></td>
 <td><p>大井</p></td>
 <td><p>寺田新太郎</p></td>
 <td></td>
@@ -302,9 +302,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルドッグボス" title="wikilink">ブルドッグボス</a></p></td>
 <td><p>牡5</p></td>
 <td><p><a href="../Page/クラスターカップ.md" title="wikilink">クラスターカップ</a></p></td>
-<td></td>
+<td><p>鮫川啓一</p></td>
 <td><p>浦和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小久保智" title="wikilink">小久保智</a></p></td>
+<td><p><a href="../Page/小久保智.md" title="wikilink">小久保智</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -312,19 +312,19 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/キタサンミカヅキ" title="wikilink">キタサンミカヅキ</a></p></td>
 <td><p>牡8</p></td>
 <td><p><a href="../Page/東京盃.md" title="wikilink">東京盃</a></p></td>
-<td></td>
+<td><p>広中稔</p></td>
 <td><p>船橋</p></td>
 <td><p><a href="../Page/佐藤賢二.md" title="wikilink">佐藤賢二</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブルドッグボス" title="wikilink">ブルドッグボス</a></p></td>
+<td><p>ブルドッグボス</p></td>
 <td><p>牡7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/JBCスプリント" title="wikilink">JBCスプリント</a></p></td>
-<td></td>
+<td><p><a href="../Page/JBCスプリント.md" title="wikilink">JBCスプリント</a></p></td>
+<td><p>鮫川啓一</p></td>
 <td><p>浦和</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小久保智" title="wikilink">小久保智</a></p></td>
+<td><p>小久保智</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -356,7 +356,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/グランド牧場" title="wikilink">グランド牧場</a></p></td>
 <td><p><a href="../Page/笠松競馬場.md" title="wikilink">笠松</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柳江仁" title="wikilink">柳江仁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Dr.コパ" title="wikilink">小林祥晃</a></p></td>
+<td><p><a href="../Page/Dr.コパ.md" title="wikilink">小林祥晃</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a></p></td>
@@ -397,7 +397,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/サンバビーン" title="wikilink">サンバビーン</a></p></td>
 <td><p>牝5</p></td>
 <td><p>6戦2勝[1]<br />
-<a href="https://ja.wikipedia.org/wiki/ノースクイーンカップ" title="wikilink">ノースクイーンカップ</a>、<a href="https://ja.wikipedia.org/wiki/ビューチフル・ドリーマーカップ" title="wikilink">ビューチフル・ドリーマーカップ</a></p></td>
+<a href="../Page/ノースクイーンカップ.md" title="wikilink">ノースクイーンカップ</a>、<a href="https://ja.wikipedia.org/wiki/ビューチフル・ドリーマーカップ" title="wikilink">ビューチフル・ドリーマーカップ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡田牧場" title="wikilink">岡田牧場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホッカイドウ競馬" title="wikilink">北海道</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中淳司" title="wikilink">田中淳司</a></p></td>
@@ -408,7 +408,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/トーコーヴィーナス" title="wikilink">トーコーヴィーナス</a></p></td>
 <td><p>牝4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/読売レディス杯" title="wikilink">読売レディス杯</a>、<a href="https://ja.wikipedia.org/wiki/秋桜賞" title="wikilink">秋桜賞</a>、<a href="../Page/レディスプレリュード.md" title="wikilink">レディスプレリュード</a>2着</p></td>
-<td></td>
+<td><p>坂東牧場</p></td>
 <td><p>兵庫</p></td>
 <td><p>吉行龍穂</p></td>
 <td></td>
@@ -418,7 +418,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ララベル_(競走馬)" title="wikilink">ララベル</a></p></td>
 <td><p>牝5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/JBCレディスクラシック" title="wikilink">JBCレディスクラシック</a></p></td>
-<td></td>
+<td><p><a href="../Page/社台ファーム.md" title="wikilink">社台ファーム</a></p></td>
 <td><p>大井</p></td>
 <td><p>荒山勝徳</p></td>
 <td></td>
@@ -427,8 +427,8 @@
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディアマルコ" title="wikilink">ディアマルコ</a></p></td>
 <td><p>牝5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/兵庫サマークイーン賞" title="wikilink">兵庫サマークイーン賞</a>、<a href="https://ja.wikipedia.org/wiki/佐賀ヴィーナスカップ" title="wikilink">佐賀ヴィーナスカップ</a>、<a href="https://ja.wikipedia.org/wiki/秋桜賞" title="wikilink">秋桜賞</a></p></td>
-<td></td>
+<td><p><a href="../Page/兵庫サマークイーン賞.md" title="wikilink">兵庫サマークイーン賞</a>、<a href="https://ja.wikipedia.org/wiki/佐賀ヴィーナスカップ" title="wikilink">佐賀ヴィーナスカップ</a>、<a href="https://ja.wikipedia.org/wiki/秋桜賞" title="wikilink">秋桜賞</a></p></td>
+<td><p>松平牧場</p></td>
 <td><p>高知</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/那俄性哲也" title="wikilink">那俄性哲也</a></p></td>
 <td></td>
@@ -437,10 +437,10 @@
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クレイジーアクセル" title="wikilink">クレイジーアクセル</a></p></td>
 <td><p>牝4</p></td>
-<td><p>　</p></td>
-<td></td>
+<td><p><a href="../Page/クイーン賞.md" title="wikilink">クイーン賞</a>、ビューチフルドリーマーカップ、ノースクイーンカップ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川上牧場" title="wikilink">川上牧場</a></p></td>
 <td><p>大井</p></td>
-<td></td>
+<td><p>渡邉和雄</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -450,8 +450,8 @@
 
 ## 受賞者についての出典
 
-  - [NARグランプリ](http://www.keiba.go.jp/about/grandprix.html)
-      - [ＮＡＲグランプリ歴代受賞者一覧](http://www.keiba.go.jp/about/grandprix_award.html)
+  - [NARグランプリ](https://www.keiba.go.jp/about/grandprix.html)
+      - [ＮＡＲグランプリ歴代受賞者一覧](https://www.keiba.go.jp/about/grandprix_award.html)
 
 [Category:NARグランプリ](https://ja.wikipedia.org/wiki/Category:NARグランプリ "wikilink")
 

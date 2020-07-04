@@ -1,11 +1,11 @@
-> この記事は[VLT](https://ja.wikipedia.org/wiki/VLT)から翻訳されています。
+> この記事は[超大型望遠鏡VLT](https://ja.wikipedia.org/wiki/超大型望遠鏡VLT)から翻訳されています。
 
 
-**VLT**(Very Large Telescope)は[ヨーロッパ南天天文台](https://ja.wikipedia.org/wiki/ヨーロッパ南天天文台 "wikilink")が[チリ](../Page/チリ.md "wikilink")・[パラナル天文台](https://ja.wikipedia.org/wiki/パラナル天文台 "wikilink")に建設した、口径8.2mの[望遠鏡](https://ja.wikipedia.org/wiki/望遠鏡 "wikilink")4台の総称。[紫外線](../Page/紫外線.md "wikilink")から[中間赤外線](https://ja.wikipedia.org/wiki/中間赤外線 "wikilink")までの波長の[電磁波](../Page/電磁波.md "wikilink")を観測し、4台を[光ファイバー](https://ja.wikipedia.org/wiki/光ファイバー "wikilink")で結合して[干渉計](https://ja.wikipedia.org/wiki/干渉計 "wikilink")として運用することも可能である。
+**VLT**(Very Large Telescope)は[ヨーロッパ南天天文台](../Page/ヨーロッパ南天天文台.md "wikilink")が[チリ](../Page/チリ.md "wikilink")・[パラナル天文台](../Page/パラナル天文台.md "wikilink")に建設した、口径8.2mの[望遠鏡](../Page/望遠鏡.md "wikilink")4台の総称。[紫外線](../Page/紫外線.md "wikilink")から[中間赤外線](https://ja.wikipedia.org/wiki/中間赤外線 "wikilink")までの波長の[電磁波](../Page/電磁波.md "wikilink")を観測し、4台を[光ファイバー](../Page/光ファイバー.md "wikilink")で結合して[干渉計](https://ja.wikipedia.org/wiki/干渉計 "wikilink")として運用することも可能である。
 
 ## 概要
 
-4台の口径8.2m望遠鏡をUnit Telescope(UT)と呼ぶ。1998年5月に1台目の望遠鏡が[ファーストライト](https://ja.wikipedia.org/wiki/ファーストライト "wikilink")。その後2000年までに残り3台が完成し、それぞれAntu、Kueyen、Melipal、Yepunという名前が与えられた。これは[チリ](../Page/チリ.md "wikilink")の[先住民](https://ja.wikipedia.org/wiki/先住民 "wikilink")である[マプチェ族](../Page/マプチェ族.md "wikilink")の言葉で[太陽](https://ja.wikipedia.org/wiki/太陽 "wikilink")、[月](https://ja.wikipedia.org/wiki/月 "wikilink")、[南十字星](https://ja.wikipedia.org/wiki/南十字星 "wikilink")、[金星](https://ja.wikipedia.org/wiki/金星 "wikilink")という意味を持っている。4台の望遠鏡にはそれぞれ3種類の観測装置が備えられており、さらに4台を結合して干渉計として使う際に使用される観測装置が3種類設置されている。また、望遠鏡を格納するドームは[すばる望遠鏡](https://ja.wikipedia.org/wiki/すばる望遠鏡 "wikilink")の場合と同様、大気のゆらぎを抑えるために円筒形をしている。
+4台の口径8.2m望遠鏡をUnit Telescope(UT)と呼ぶ。1998年5月に1台目の望遠鏡が[ファーストライト](https://ja.wikipedia.org/wiki/ファーストライト "wikilink")。その後2000年までに残り3台が完成し、それぞれAntu、Kueyen、Melipal、Yepunという名前が与えられた。これは[チリ](../Page/チリ.md "wikilink")の[先住民](https://ja.wikipedia.org/wiki/先住民 "wikilink")である[マプチェ族](../Page/マプチェ族.md "wikilink")の言葉で[太陽](../Page/太陽.md "wikilink")、[月](https://ja.wikipedia.org/wiki/月 "wikilink")、[南十字星](https://ja.wikipedia.org/wiki/南十字星 "wikilink")、[金星](https://ja.wikipedia.org/wiki/金星 "wikilink")という意味を持っている。4台の望遠鏡にはそれぞれ3種類の観測装置が備えられており、さらに4台を結合して干渉計として使う際に使用される観測装置が3種類設置されている。また、望遠鏡を格納するドームは[すばる望遠鏡](https://ja.wikipedia.org/wiki/すばる望遠鏡 "wikilink")の場合と同様、大気のゆらぎを抑えるために円筒形をしている。
 
 ## 観測装置
 
@@ -35,7 +35,7 @@
 ### 学問・技術
 
   - [天文学](../Page/天文学.md "wikilink")
-  - [天文台](../Page/天文台.md "wikilink") - [ヨーロッパ南天天文台](https://ja.wikipedia.org/wiki/ヨーロッパ南天天文台 "wikilink")
+  - [天文台](../Page/天文台.md "wikilink") - [ヨーロッパ南天天文台](../Page/ヨーロッパ南天天文台.md "wikilink")
 
 ### 施設
 

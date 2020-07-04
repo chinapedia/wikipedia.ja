@@ -146,7 +146,7 @@ Ultra Music Power</p></td>
 <a href="https://ja.wikipedia.org/wiki/大沢あかね" title="wikilink">大沢あかね</a></p></td>
 <td><p>Xmasメドレー</p></td>
 <td><p>Hey! Say! BEST<br />
-<a href="https://ja.wikipedia.org/wiki/A.B.C-Z" title="wikilink">A.B.C.</a><br />
+<a href="../Page/A.B.C-Z.md" title="wikilink">A.B.C.</a><br />
 <a href="https://ja.wikipedia.org/wiki/Kis-My-Ft.2" title="wikilink">Kis-My-Ft.2</a></p></td>
 </tr>
 <tr class="odd">
@@ -172,7 +172,7 @@ Ultra Music Power</p></td>
 <tr class="even">
 <td><p>2月2日</p></td>
 <td><p><a href="../Page/勝俣州和.md" title="wikilink">勝俣州和</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/LIPS_(KAT-TUNの曲)" title="wikilink">LIPS</a></p></td>
+<td><p><a href="../Page/LIPS_(KAT-TUNの曲).md" title="wikilink">LIPS</a></p></td>
 <td><p>Hey! Say! BEST<br />
 <a href="../Page/上田竜也.md" title="wikilink">上田竜也</a><br />
 <a href="../Page/中丸雄一.md" title="wikilink">中丸雄一</a></p></td>
@@ -453,7 +453,7 @@ Fly high</p></td>
 <td><p>薮宏太<br />
 八乙女光<br />
 Kis-My-Ft.2<br />
-<a href="https://ja.wikipedia.org/wiki/A.B.C-Z" title="wikilink">A.B.C-Z</a></p></td>
+<a href="../Page/A.B.C-Z.md" title="wikilink">A.B.C-Z</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10月18日</p></td>
@@ -853,7 +853,7 @@ Ultra Music Power</p></td>
   - アシスタントプロデューサー - 橋本佳奈
   - デスク - 大橋真理
   - ディレクター - 大橋豪、井上雅晴、柴幸伸、浦和飯店、川勝茂、河野督
-  - プロデューサー - [松澤潤](https://ja.wikipedia.org/wiki/松澤潤 "wikilink")
+  - プロデューサー - [松澤潤](../Page/松澤潤.md "wikilink")
   - 製作・著作 - テレビ東京
 
 ## 放送局
@@ -964,7 +964,7 @@ Ultra Music Power</p></td>
 
 ## 外部リンク
 
-  - [Hi\! Hey\! Say\!](http://www.tv-tokyo.co.jp/hiheysay/)
+  - [Hi\! Hey\! Say\!](https://www.tv-tokyo.co.jp/hiheysay/)
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink") [Category:薮宏太](https://ja.wikipedia.org/wiki/Category:薮宏太 "wikilink") [Category:八乙女光](https://ja.wikipedia.org/wiki/Category:八乙女光 "wikilink") [Category:Hey\!_Say\!_JUMP](https://ja.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:小山慶一郎](https://ja.wikipedia.org/wiki/Category:小山慶一郎 "wikilink")
 

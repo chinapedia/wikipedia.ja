@@ -266,7 +266,7 @@
 <td><p><strong>SOD陵辱病棟 The プレミアム</strong></p></td>
 <td><p>SDMS-395</p></td>
 <td><p><a href="../Page/SODクリエイト.md" title="wikilink">SODクリエイト</a></p></td>
-<td><p>共演：<a href="../Page/寧々_(AV女優).md" title="wikilink">寧々</a>、<a href="../Page/妃乃ひかり.md" title="wikilink">妃乃ひかり</a>、<a href="../Page/香坂杏奈.md" title="wikilink">香坂杏奈</a>、<a href="../Page/しじみ_(女優).md" title="wikilink">持田茜</a>、<a href="../Page/亜紗美.md" title="wikilink">亜紗美</a>、<a href="https://ja.wikipedia.org/wiki/晶エリー" title="wikilink">大沢佑香</a>、<a href="../Page/姫野りむ.md" title="wikilink">姫野りむ</a></p></td>
+<td><p>共演：<a href="../Page/寧々_(AV女優).md" title="wikilink">寧々</a>、<a href="../Page/妃乃ひかり.md" title="wikilink">妃乃ひかり</a>、<a href="../Page/香坂杏奈.md" title="wikilink">香坂杏奈</a>、<a href="../Page/しじみ_(女優).md" title="wikilink">持田茜</a>、<a href="../Page/亜紗美.md" title="wikilink">亜紗美</a>、<a href="../Page/晶エリー.md" title="wikilink">大沢佑香</a>、<a href="../Page/姫野りむ.md" title="wikilink">姫野りむ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1091,7 +1091,7 @@
 <td><p><strong>拘束椅子Lbian</strong></p></td>
 <td><p>DDT-248</p></td>
 <td><p>Dogma</p></td>
-<td><p>共演：<a href="https://ja.wikipedia.org/wiki/晶エリー" title="wikilink">晶エリー</a></p></td>
+<td><p>共演：<a href="../Page/晶エリー.md" title="wikilink">晶エリー</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1591,7 +1591,7 @@ DEEP KISS &amp; SEX KINGDOM FINAL</strong></p></td>
 <td><p><strong>2本チンポの男がAV業界に殴りこみ!</strong></p></td>
 <td><p>RKI-065</p></td>
 <td><p>ROOKIE</p></td>
-<td><p>共演：<a href="https://ja.wikipedia.org/wiki/晶エリー" title="wikilink">晶エリー</a>、加藤はる希、杉浦アリス</p></td>
+<td><p>共演：<a href="../Page/晶エリー.md" title="wikilink">晶エリー</a>、加藤はる希、杉浦アリス</p></td>
 <td></td>
 </tr>
 <tr class="even">

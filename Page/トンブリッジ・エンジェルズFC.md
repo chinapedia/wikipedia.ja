@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[トンブリッジ・エンジェルズFC](https://ja.wikipedia.org/wiki/トンブリッジ・エンジェルズFC)から翻訳されています。
 
 
 **トンブリッジ・エンジェルズ・フットボール・クラブ**（Tonbridge Angels Football Club）は、[イングランド](../Page/イングランド.md "wikilink")、[ケント州](https://ja.wikipedia.org/wiki/ケント州 "wikilink")[トンブリッジ・アンド・モーリング](https://ja.wikipedia.org/wiki/トンブリッジ・アンド・モーリング "wikilink")地区の[トンブリッジを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/:en:Tonbridge "wikilink")。2017-2018シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。

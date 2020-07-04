@@ -1,4 +1,4 @@
-> この記事は[ZAR \(\)](https://ja.wikipedia.org/wiki/ZAR_\(\))から翻訳されています。
+> この記事は[ZAR \(バンド\)](https://ja.wikipedia.org/wiki/ZAR_\(バンド\))から翻訳されています。
 
 
 **ZAR** (ツァー)は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")出身の[ハードロック](../Page/ハードロック.md "wikilink")・バンドである。
@@ -9,15 +9,15 @@
 
 ## ジョン・ロートンとの関係
 
-初代シンガーは[ルシファーズ・フレンド](../Page/ルシファーズ・フレンド.md "wikilink")～[ユーライア・ヒープ](https://ja.wikipedia.org/wiki/ユーライア・ヒープ "wikilink")の[ジョン・ロートン](https://ja.wikipedia.org/wiki/ジョン・ロートン "wikilink")（John Lawton）。高音の歌声で、[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")～[レインボーの](https://ja.wikipedia.org/wiki/レインボー_\(バンド\) "wikilink")[リッチー・ブラックモア](../Page/リッチー・ブラックモア.md "wikilink")が起用を打診したこともある。トミー・クラウスが以前に率いていたバンド、REBELでもシンガーを務めており、イギリス人ながらドイツのロック界と関係が深い人物である。イギリスとドイツの行き来が困難だったことから、1stアルバムの完成後程なく脱退しているが、3rdアルバムに1曲友情出演しており、その後も交流があるようだ。
+初代シンガーは[ルシファーズ・フレンド](../Page/ルシファーズ・フレンド.md "wikilink")～[ユーライア・ヒープ](../Page/ユーライア・ヒープ.md "wikilink")の[ジョン・ロートン](../Page/ジョン・ロートン.md "wikilink")（John Lawton）。高音の歌声で、[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")～[レインボーの](../Page/レインボー_\(バンド\).md "wikilink")[リッチー・ブラックモア](../Page/リッチー・ブラックモア.md "wikilink")が起用を打診したこともある。トミー・クラウスが以前に率いていたバンド、REBELでもシンガーを務めており、イギリス人ながらドイツのロック界と関係が深い人物である。イギリスとドイツの行き来が困難だったことから、1stアルバムの完成後程なく脱退しているが、3rdアルバムに1曲友情出演しており、その後も交流があるようだ。
 
 ## メンバー
 
-  - トミー・クラウス (Tommy Clauss) - [ギター](../Page/ギター.md "wikilink") ※全作品に参加。4thアルバムでは[ベースも兼任した](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
-  - [ジョン・ロートン](https://ja.wikipedia.org/wiki/ジョン・ロートン "wikilink") (John Lawton) - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") ※1990年発表の1stアルバム全曲、及び1993年発表の3rdアルバムのうち1曲に参加（Thommy Blochとのデュエット）。
+  - トミー・クラウス (Tommy Clauss) - [ギター](../Page/ギター.md "wikilink") ※全作品に参加。4thアルバムでは[ベースも兼任した](../Page/ベース_\(弦楽器\).md "wikilink")。
+  - [ジョン・ロートン](../Page/ジョン・ロートン.md "wikilink") (John Lawton) - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") ※1990年発表の1stアルバム全曲、及び1993年発表の3rdアルバムのうち1曲に参加（Thommy Blochとのデュエット）。
   - Thommy Bloch - ボーカル ※2ndから4thアルバムまで参加。
   - Andre Sauber - ボーカル ※5thアルバムから加入。
-  - Jerry Schaefer - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\) "wikilink") ※1stから4thアルバムまで参加。4thアルバムでは[ドラムスも兼任](../Page/ドラムセット.md "wikilink")。
+  - Jerry Schaefer - [キーボード](../Page/キーボード_\(楽器\).md "wikilink") ※1stから4thアルバムまで参加。4thアルバムでは[ドラムスも兼任](../Page/ドラムセット.md "wikilink")。
   - Bernd Grunen - [ベース](../Page/エレクトリックベース.md "wikilink") ※2ndアルバム参加。
   - Wolf Urban - ベース ※3rdアルバムのみ参加。
   - Peter Kumpf - ドラムス ※1st、2ndアルバムに参加。
@@ -28,7 +28,7 @@
 
 ### アルバム
 
-  - 『[リヴ・ユア・ライフ・フォエヴァー](https://ja.wikipedia.org/wiki/Live_Your_Life_Forever "wikilink")』 - *Live Your Life Forever* (1990年)
+  - 『[リヴ・ユア・ライフ・フォエヴァー](../Page/Live_Your_Life_Forever.md "wikilink")』 - *Live Your Life Forever* (1990年)
   - 『ソーテッド・アウト』 - *Sorted Out* (1991年)
   - 『フロム・ウェルカム…トゥ・グッドバイ』 - *From Welcome... To Goodbye* (1993年)
   - 『ホーリー・リズム・オブ・ネイチャー』 - *The Holy Rhythm Of Nature* (1995年)

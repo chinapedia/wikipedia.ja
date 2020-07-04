@@ -7,9 +7,9 @@
 
 [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[バンドを紹介する](../Page/バンド_\(音楽\).md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")『[Break Out](../Page/Break_Out_\(テレビ番組\).md "wikilink")』出身。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")にシングル「SkY」にて[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2000年](../Page/2000年.md "wikilink")まで[メジャーレーベル](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")にて活動していた。 その後、[2001年](../Page/2001年.md "wikilink")[5月3日](https://ja.wikipedia.org/wiki/5月3日 "wikilink")、インディーズにて解散。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")にシングル「SkY」にて[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2000年](../Page/2000年.md "wikilink")まで[メジャーレーベル](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")にて活動していた。 その後、[2001年](../Page/2001年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")、インディーズにて解散。
 
-[2012年](../Page/2012年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")復興支援チャリティーライブ「Sailing to the NEW WORLD」にて復活予定。  当時のビジュアルシーンの中では珍しく、メロディと歌唱力が評価されデビューが決まった。 ボーカル石山竜市の魅力についてはTV朝日系ブレイクアウトの番中でプロデューサーである[ジョー・リノイエ](https://ja.wikipedia.org/wiki/ジョー・リノイエ "wikilink")氏が熱く語っている。 そしてプロデューサーが二人もつくという異例のPMは当時TV番組などでも大きく取り上げられた。
+[2012年](../Page/2012年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")復興支援チャリティーライブ「Sailing to the NEW WORLD」にて復活予定。  当時のビジュアルシーンの中では珍しく、メロディと歌唱力が評価されデビューが決まった。 ボーカル石山竜市の魅力についてはTV朝日系ブレイクアウトの番中でプロデューサーである[ジョー・リノイエ](../Page/ジョー・リノイエ.md "wikilink")氏が熱く語っている。 そしてプロデューサーが二人もつくという異例のPMは当時TV番組などでも大きく取り上げられた。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
   - 高崎智彰（たかさきともあき）
     [メインギター](https://ja.wikipedia.org/wiki/メインギター "wikilink")担当。
   - Yuki（ゆき）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - Ryo（りょう）
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。
 
@@ -81,7 +81,7 @@ FOLLOW THE WIND　<a href="https://ja.wikipedia.org/wiki/新潟テレビ21" titl
 <td><p>WILL</p></td>
 <td><p>1998年9月23日</p></td>
 <td><p>CODA-1628</p></td>
-<td><p>WILL　テレビ朝日系 <a href="https://ja.wikipedia.org/wiki/目撃!ドキュン" title="wikilink">目撃!ドキュン</a> ED曲<br />
+<td><p>WILL　テレビ朝日系 <a href="../Page/目撃!ドキュン.md" title="wikilink">目撃!ドキュン</a> ED曲<br />
 Waitin' For The Rain　<a href="../Page/新潟日産自動車.md" title="wikilink">新潟日産</a> CMソング</p></td>
 </tr>
 <tr class="odd">

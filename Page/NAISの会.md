@@ -6,7 +6,7 @@
 ## メンバー
 
   - N:[根本匠](../Page/根本匠.md "wikilink")
-  - A:[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")
+  - A:[安倍晋三](../Page/安倍晋三.md "wikilink")
   - I:[石原伸晃](../Page/石原伸晃.md "wikilink")
   - S:[塩崎恭久](../Page/塩崎恭久.md "wikilink")
 

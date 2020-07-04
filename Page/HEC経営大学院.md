@@ -106,7 +106,7 @@ HECのMSc in Managementは、フィナンシャル・タイムズのランキン
   - [ポール・レイノー](../Page/ポール・レノー.md "wikilink") - 元[フランス首相](../Page/フランスの首相.md "wikilink")、元フランス[戦争大臣](../Page/国防省_\(フランス\).md "wikilink")、元[フランス外務大臣](https://ja.wikipedia.org/wiki/外務大臣_\(フランス\) "wikilink")、元フランス[財務大臣](https://ja.wikipedia.org/wiki/フランス経済・財政・産業省 "wikilink")
   - [フランソワ・オランド](../Page/フランソワ・オランド.md "wikilink") - 元[フランス大統領](https://ja.wikipedia.org/wiki/フランスの大統領 "wikilink")。元大統領候補[セゴレーヌ・ロワイヤル](../Page/セゴレーヌ・ロワイヤル.md "wikilink")の前夫（事実婚）
   - [パスカル・ラミー](https://ja.wikipedia.org/wiki/パスカル・ラミー "wikilink") - [世界貿易機関](../Page/世界貿易機関.md "wikilink")（WTO）事務局長、元[欧州委員](../Page/欧州委員会.md "wikilink")
-  - [ドミニク・ストロス＝カーン](../Page/ドミニク・ストロス＝カーン.md "wikilink") - 元フランス[経済・財政・産業大臣](https://ja.wikipedia.org/wiki/フランス経済・財政・産業省 "wikilink")、元[IMF](https://ja.wikipedia.org/wiki/IMF "wikilink")専務理事
+  - [ドミニク・ストロス＝カーン](../Page/ドミニク・ストロス＝カーン.md "wikilink") - 元フランス[経済・財政・産業大臣](https://ja.wikipedia.org/wiki/フランス経済・財政・産業省 "wikilink")、元[IMF専務理事](../Page/国際通貨基金.md "wikilink")
   - [ジャン＝ルイ・ボルロー](../Page/ジャン＝ルイ・ボルロー.md "wikilink") - 元フランス環境・持続的発展・計画大臣、元[経済・財政・雇用大臣](https://ja.wikipedia.org/wiki/フランス経済・財政・産業省 "wikilink")
   - [ヴァレリー・ペクレス](https://ja.wikipedia.org/wiki/ヴァレリー・ペクレス "wikilink") - 元フランス高等教育・研究大臣、元経済・財政・産業大臣、現[イル＝ド＝フランス地域圏](../Page/イル＝ド＝フランス地域圏.md "wikilink")知事
   - [エルヴェ・ド・シャレット](https://ja.wikipedia.org/wiki/エルヴェ・ド・シャレット "wikilink") - 元[フランス外務大臣](https://ja.wikipedia.org/wiki/外務大臣_\(フランス\) "wikilink")

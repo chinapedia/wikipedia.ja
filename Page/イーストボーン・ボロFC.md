@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[イーストボーン・ボロFC](https://ja.wikipedia.org/wiki/イーストボーン・ボロFC)から翻訳されています。
 
 
-**イーストボーン・ボロ・フットボール・クラブ**（**Eastbourne Borough Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[イースト・サセックス](https://ja.wikipedia.org/wiki/イースト・サセックス "wikilink")州、[イーストボーン](../Page/イーストボーン.md "wikilink")を本拠地とするサッカークラブチームである。2012-2013シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
+**イーストボーン・ボロ・フットボール・クラブ**（**Eastbourne Borough Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[イースト・サセックス](../Page/イースト・サセックス.md "wikilink")州、[イーストボーン](../Page/イーストボーン.md "wikilink")を本拠地とするサッカークラブチームである。2012-2013シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。
 
 ## 歴史
 

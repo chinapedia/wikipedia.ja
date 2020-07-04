@@ -1,9 +1,9 @@
-> この記事は[JXTG](https://ja.wikipedia.org/wiki/JXTG)から翻訳されています。
+> この記事は[JXTGエネルギー知多製造所](https://ja.wikipedia.org/wiki/JXTGエネルギー知多製造所)から翻訳されています。
 
 
-**JXTGエネルギー知多製造所**（ジェイエックスティージーエネルギーちたせいぞうしょ）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[知多市](../Page/知多市.md "wikilink")にある[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の[石油化学](https://ja.wikipedia.org/wiki/石油化学 "wikilink")製造施設である。
+**JXTGエネルギー知多製造所**（ジェイエックスティージーエネルギーちたせいぞうしょ）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[知多市](../Page/知多市.md "wikilink")にある[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")の[石油化学](../Page/石油化学.md "wikilink")製造施設である。
 
-かつては[原油](https://ja.wikipedia.org/wiki/原油 "wikilink")の精製を行っていたが、[2001年](../Page/2001年.md "wikilink")（平成13年）6月に原油精製を休止し、現在は[石油化学](https://ja.wikipedia.org/wiki/石油化学 "wikilink")工場として機能している。グループの製油所から仕入れた[ナフサ](../Page/ナフサ.md "wikilink")や[灯油](../Page/灯油.md "wikilink")をもとに、[ベンゼン](../Page/ベンゼン.md "wikilink")・[トルエン](https://ja.wikipedia.org/wiki/トルエン "wikilink")・[キシレン](../Page/キシレン.md "wikilink")などを生産している。
+かつては[原油](../Page/原油.md "wikilink")の精製を行っていたが、[2001年](../Page/2001年.md "wikilink")（平成13年）6月に原油精製を休止し、現在は[石油化学](../Page/石油化学.md "wikilink")工場として機能している。グループの製油所から仕入れた[ナフサ](../Page/ナフサ.md "wikilink")や[灯油](../Page/灯油.md "wikilink")をもとに、[ベンゼン](../Page/ベンゼン.md "wikilink")・[トルエン](https://ja.wikipedia.org/wiki/トルエン "wikilink")・[キシレン](../Page/キシレン.md "wikilink")などを生産している。
 
 ## 概要
 
@@ -12,7 +12,7 @@
   - 所在地 - 愛知県知多市北浜町25番地
   - 敷地面積 - 131万[m<sup>2</sup>](../Page/平方メートル.md "wikilink")\[1\]
   - 従業員数 - 141人（2015年3月31日現在）\[2\]
-  - [原油](https://ja.wikipedia.org/wiki/原油 "wikilink")処理能力 - 0[バレル](../Page/バレル.md "wikilink")/日
+  - [原油](../Page/原油.md "wikilink")処理能力 - 0[バレル](../Page/バレル.md "wikilink")/日
 
 ### 主な生産品
 
@@ -39,7 +39,7 @@
 
 括弧内には処理能力を示す。
 
-  - [接触改質](https://ja.wikipedia.org/wiki/接触改質 "wikilink")装置 （23,500バレル/日）
+  - [接触改質](../Page/接触改質.md "wikilink")装置 （23,500バレル/日）
   - パラキシレン製造装置 （400,000トン/年）
   - シクロヘキサン製造装置 （220,000トン/年）
 
@@ -53,14 +53,14 @@
   - [1993年](../Page/1993年.md "wikilink")（平成5年）12月 - 日鉱共石がジャパンエナジーに社名変更。
   - [1996年](../Page/1996年.md "wikilink")（平成8年）4月 - [ISO9001認証取得](../Page/ISO_9000.md "wikilink")。
   - [1999年](../Page/1999年.md "wikilink")（平成11年）[3月5日](../Page/3月5日.md "wikilink") - [ISO14001認証取得](../Page/ISO_14000.md "wikilink")。
-  - [2001年](../Page/2001年.md "wikilink")（平成13年）6月 - [常圧蒸留装置](https://ja.wikipedia.org/wiki/常圧蒸留装置 "wikilink")などの原油処理設備を休止、原油処理を終了。
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）6月 - [常圧蒸留装置](../Page/常圧蒸留装置.md "wikilink")などの原油処理設備を休止、原油処理を終了。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[7月1日](../Page/7月1日.md "wikilink") - JX日鉱日石エネルギー発足に伴い、JX日鉱日石エネルギー知多製造所となる。
-  - [2016年](../Page/2016年.md "wikilink")（平成28年）[1月1日](https://ja.wikipedia.org/wiki/1月1日 "wikilink") - JX日鉱日石エネルギーがJXエネルギーに商号変更。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）[1月1日](../Page/1月1日.md "wikilink") - JX日鉱日石エネルギーがJXエネルギーに商号変更。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）4月1日 - JXエネルギーがJXTGエネルギーに商号変更。
 
 ## その他
 
-  - かつては、[名古屋臨海鉄道](https://ja.wikipedia.org/wiki/名古屋臨海鉄道 "wikilink")[知多駅](https://ja.wikipedia.org/wiki/知多駅 "wikilink")へ繋がる、製品出荷用の[鉄道](../Page/鉄道.md "wikilink")路線（[専用側線](https://ja.wikipedia.org/wiki/専用鉄道 "wikilink")）を有していた。
+  - かつては、[名古屋臨海鉄道](../Page/名古屋臨海鉄道.md "wikilink")[知多駅](../Page/知多駅.md "wikilink")へ繋がる、製品出荷用の[鉄道](../Page/鉄道.md "wikilink")路線（[専用側線](../Page/専用鉄道.md "wikilink")）を有していた。
 
 ## 脚注
 

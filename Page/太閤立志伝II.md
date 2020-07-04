@@ -1,9 +1,9 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[太閤立志伝II](https://ja.wikipedia.org/wiki/太閤立志伝II)から翻訳されています。
 
 
-『**太閤立志伝II**』（たいこうりっしでん・ツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")（同社は[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")と呼称）。「[太閤立志伝シリーズ](../Page/太閤立志伝シリーズ.md "wikilink")」の第2作。音楽は[岩崎琢](https://ja.wikipedia.org/wiki/岩崎琢 "wikilink")が担当。
+『**太閤立志伝II**』（たいこうりっしでん・ツー）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に[光栄](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")（同社は[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")と呼称）。「[太閤立志伝シリーズ](../Page/太閤立志伝シリーズ.md "wikilink")」の第2作。音楽は[岩崎琢](../Page/岩崎琢.md "wikilink")が担当。
 
-[PC-98版が発売された後](../Page/PC-9800シリーズ.md "wikilink")、さまざまなパソコン機種や[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")などに移植された。[廉価版](https://ja.wikipedia.org/wiki/廉価版 "wikilink")も「[コーエー定番シリーズ](https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ "wikilink")」やPC HOME版などで発売されている。特に[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")に『[麻雀大会 Special](https://ja.wikipedia.org/wiki/麻雀大会 "wikilink")II』とのツインキャンペーン版も発売されている。またWindows版は[Windows2000には非対応となっている](../Page/Microsoft_Windows_2000.md "wikilink")。
+[PC-98版が発売された後](../Page/PC-9800シリーズ.md "wikilink")、さまざまなパソコン機種や[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")などに移植された。[廉価版](../Page/廉価版.md "wikilink")も「[コーエー定番シリーズ](https://ja.wikipedia.org/wiki/コーエーテクモ定番シリーズ "wikilink")」やPC HOME版などで発売されている。特に[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[2005年](../Page/2005年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")に『[麻雀大会 Special](https://ja.wikipedia.org/wiki/麻雀大会 "wikilink")II』とのツインキャンペーン版も発売されている。またWindows版は[Windows2000には非対応となっている](../Page/Microsoft_Windows_2000.md "wikilink")。
 
 なお本項では、本作をベースにしている携帯電話ゲーム『Mobile太閤立志伝』についても併せて記述する。
 
@@ -17,7 +17,7 @@
 
 また、初代で信長は秀吉が主命に失敗するなどして信頼度が低下すると、秀吉を問答無用で手討ちにしたり（PC-98版ではそのシーンが克明に表示される）、朝廷工作で成果を挙げられないと「お前には失望した、もう2度と戻ってこなくていい」と忍者から伝令を受けたりするが、本作では信頼度が下がっても「解雇だけは勘弁してやる、次やったら承知せんぞ」といった台詞だけになり、描写に変化が見られる。
 
-[PlayStation版や](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")版ではWindows版ではドット絵で描かれていたグラフィックが一部[ポリゴン](../Page/ポリゴン.md "wikilink")が用いられるようになり、戦闘時には[陣形](https://ja.wikipedia.org/wiki/陣形 "wikilink")や特殊戦術の要素が存在する。
+[PlayStation版や](../Page/PlayStation_\(ゲーム機\).md "wikilink")[セガサターン](../Page/セガサターン.md "wikilink")版ではWindows版ではドット絵で描かれていたグラフィックが一部[ポリゴン](../Page/ポリゴン.md "wikilink")が用いられるようになり、戦闘時には[陣形](../Page/陣形.md "wikilink")や特殊戦術の要素が存在する。
 
 ## 能力値・技能
 
@@ -69,13 +69,13 @@ PC版（他機種は自動戦闘）のみ、戦闘モードに入ると時間の
   - 主人公の特技の内「剣術」「築城」「乱波」「茶道」が削除された。
   - 「港」コマンドが削除された。　四国、九州へは指定の通路以外からは行けなくなった。
   - 「忍者屋敷」、「寺院」の「大名情報」、「南蛮寺」の「外交情報」が削除された。　代わりに、他家城の「情報」コマンドで城と武将情報が聞けるようになっている。　
-  - 『[太閤立志伝III](https://ja.wikipedia.org/wiki/太閤立志伝III "wikilink")』から公卿が[菊亭晴季](https://ja.wikipedia.org/wiki/菊亭晴季 "wikilink")のみとなったからか、「公家宅」コマンドが削除され、「皇居」に入ると、菊亭に工作を依頼できるようになった。
+  - 『[太閤立志伝III](../Page/太閤立志伝III.md "wikilink")』から公卿が[菊亭晴季](https://ja.wikipedia.org/wiki/菊亭晴季 "wikilink")のみとなったからか、「公家宅」コマンドが削除され、「皇居」に入ると、菊亭に工作を依頼できるようになった。
   - 同行者システムが削除された。
-  - グラフィックは主に『[太閤立志伝V](https://ja.wikipedia.org/wiki/太閤立志伝V "wikilink")』のものに変更された。
+  - グラフィックは主に『[太閤立志伝V](../Page/太閤立志伝V.md "wikilink")』のものに変更された。
 
 ## 関連項目
 
-  - [三國無双](https://ja.wikipedia.org/wiki/三國無双 "wikilink") - 隠しキャラクターとして「とーきち」が登場する。姿は本作の家庭用ゲーム機版の2頭身ポリゴンキャラクターで、専用BGMは堺・平戸の町のテーマをアレンジしたものになっている。
+  - [三國無双](../Page/三國無双.md "wikilink") - 隠しキャラクターとして「とーきち」が登場する。姿は本作の家庭用ゲーム機版の2頭身ポリゴンキャラクターで、専用BGMは堺・平戸の町のテーマをアレンジしたものになっている。
 
 ## 外部リンク
 

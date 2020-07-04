@@ -1,11 +1,11 @@
 > この記事は[INCAPACITANTS](https://ja.wikipedia.org/wiki/INCAPACITANTS)から翻訳されています。
 
 
-**INCAPACITANTS**（インキャパシタンツ）は、[1981年](../Page/1981年.md "wikilink")に[非常階段のメンバーである](https://ja.wikipedia.org/wiki/非常階段_\(バンド\) "wikilink")**T.美川**の[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")として、[大阪](../Page/大阪.md "wikilink")でスタートした[ノイズバンド](../Page/ノイズミュージック.md "wikilink")。[ハナタラシ](https://ja.wikipedia.org/wiki/ハナタラシ "wikilink")の[山塚アイ](https://ja.wikipedia.org/wiki/山塚アイ "wikilink")とのセッションなども記録されているが、1990年代以降は同じく非常階段のメンバーであったコサカイフミオとのDUO形式のユニットとして、主にライブ演奏を活動の中心としている。
+**INCAPACITANTS**（インキャパシタンツ）は、[1981年](../Page/1981年.md "wikilink")に[非常階段のメンバーである](../Page/非常階段_\(バンド\).md "wikilink")**T.美川**の[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")として、[大阪](../Page/大阪.md "wikilink")でスタートした[ノイズバンド](../Page/ノイズミュージック.md "wikilink")。[ハナタラシ](../Page/ハナタラシ.md "wikilink")の[山塚アイ](https://ja.wikipedia.org/wiki/山塚アイ "wikilink")とのセッションなども記録されているが、1990年代以降は同じく非常階段のメンバーであったコサカイフミオとのDUO形式のユニットとして、主にライブ演奏を活動の中心としている。
 
-[1999年](../Page/1999年.md "wikilink")以降、海外でのライブ公演も増え、非常階段や[MERZBOWと共に世界的に名を知られる存在となった](https://ja.wikipedia.org/wiki/秋田昌美 "wikilink")。
+[1999年](../Page/1999年.md "wikilink")以降、海外でのライブ公演も増え、非常階段や[MERZBOWと共に世界的に名を知られる存在となった](../Page/秋田昌美.md "wikilink")。
 
-日本国内では[アルケミーレコード](https://ja.wikipedia.org/wiki/アルケミーレコード "wikilink")からのアルバムリリースが主であるが、海外レーベルからの作品リリースも多数ある。
+日本国内では[アルケミーレコード](../Page/アルケミーレコード.md "wikilink")からのアルバムリリースが主であるが、海外レーベルからの作品リリースも多数ある。
 
 ## メンバー
 

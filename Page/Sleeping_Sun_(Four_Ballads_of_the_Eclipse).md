@@ -1,9 +1,9 @@
 > この記事は[Sleeping Sun \(Four Ballads of the Eclipse\)](https://ja.wikipedia.org/wiki/Sleeping_Sun_\(Four_Ballads_of_the_Eclipse\))から翻訳されています。
 
 
-『**Sleeping Sun**』（スリーピング・サン）は Nightwish が発表した[バラード](../Page/バラード.md "wikilink")。アルバム『[オーシャンボーン](https://ja.wikipedia.org/wiki/オーシャンボーン "wikilink")』のヒットを受けて[ドラッカー・エンターテインメント](https://ja.wikipedia.org/wiki/ドラッカー・エンターテインメント "wikilink")が[ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink")に作曲を依頼して完成した曲で、「**4 Ballads Of The Eclipse**」と題された[シングル](../Page/シングル.md "wikilink")としてリリースされた。
+『**Sleeping Sun**』（スリーピング・サン）は Nightwish が発表した[バラード](../Page/バラード.md "wikilink")。アルバム『[オーシャンボーン](../Page/オーシャンボーン.md "wikilink")』のヒットを受けて[ドラッカー・エンターテインメント](../Page/ドラッカー・エンターテインメント.md "wikilink")が[ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink")に作曲を依頼して完成した曲で、「**4 Ballads Of The Eclipse**」と題された[シングル](../Page/シングル.md "wikilink")としてリリースされた。
 
-また1999年末頃から同アルバムの[ボーナス・トラック](https://ja.wikipedia.org/wiki/ボーナス・トラック "wikilink")として収録されることになった。2005年に再発売されたときは [CD](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink") だけでなく [DVD](../Page/DVD.md "wikilink") でもリリースされ、その際の題名は「**Ballads To The Eclipse**」とされた。
+また1999年末頃から同アルバムの[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として収録されることになった。2005年に再発売されたときは [CD](https://ja.wikipedia.org/wiki/コンパクト・ディスク "wikilink") だけでなく [DVD](../Page/DVD.md "wikilink") でもリリースされ、その際の題名は「**Ballads To The Eclipse**」とされた。
 
 内容は1999年8月に起きた[日食](../Page/日食.md "wikilink")に捧げるものになっている。録音されたのは1999年5～6月で、[Caverock Studio](https://ja.wikipedia.org/wiki/Caverock_Studio "wikilink") / [Finnvox Studios](https://ja.wikipedia.org/wiki/Finnvox_Studios "wikilink") の2箇所で行われた。
 
@@ -38,15 +38,15 @@
 
 ## 演奏者
 
-  - [ターヤ・トゥルネン](https://ja.wikipedia.org/wiki/ターヤ・トゥルネン "wikilink") - [歌](../Page/歌.md "wikilink")
-  - [ツォーマス・ホロパイネン](https://ja.wikipedia.org/wiki/ツォーマス・ホロパイネン "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
-  - [エンプ・ヴオリネン](https://ja.wikipedia.org/wiki/エンプ・ヴオリネン "wikilink") - [ギター](../Page/ギター.md "wikilink")
-  - [ユッカ・ネヴァライネン](https://ja.wikipedia.org/wiki/ユッカ・ネヴァライネン "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+  - [ターヤ・トゥルネン](../Page/ターヤ・トゥルネン.md "wikilink") - [歌](../Page/歌.md "wikilink")
+  - [ツォーマス・ホロパイネン](../Page/ツォーマス・ホロパイネン.md "wikilink") - [キーボード](../Page/鍵盤楽器.md "wikilink")
+  - [エンプ・ヴオリネン](../Page/エンプ・ヴオリネン.md "wikilink") - [ギター](../Page/ギター.md "wikilink")
+  - [ユッカ・ネヴァライネン](../Page/ユッカ・ネヴァライネン.md "wikilink") - [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
   - [サミ・ヴェンスケ](https://ja.wikipedia.org/wiki/サミ・ヴェンスケ "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース・ギター "wikilink")
 
 ## ビデオ
 
-出演したのは[ターヤ・トゥルネン](https://ja.wikipedia.org/wiki/ターヤ・トゥルネン "wikilink")のみで、赤く染めた髪はここ以外では見られない珍しいルックスになっている。フィンランドの様々な自然を巡る映像で、草原、岸辺、森林などが見られる。撮影地は[イヴァロ](https://ja.wikipedia.org/wiki/イヴァロ "wikilink")と[イナリ湖](https://ja.wikipedia.org/wiki/イナリ湖 "wikilink")。
+出演したのは[ターヤ・トゥルネン](../Page/ターヤ・トゥルネン.md "wikilink")のみで、赤く染めた髪はここ以外では見られない珍しいルックスになっている。フィンランドの様々な自然を巡る映像で、草原、岸辺、森林などが見られる。撮影地は[イヴァロ](https://ja.wikipedia.org/wiki/イヴァロ "wikilink")と[イナリ湖](../Page/イナリ湖.md "wikilink")。
 
 ### スタッフ
 

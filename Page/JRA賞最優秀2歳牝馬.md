@@ -323,12 +323,12 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1979年.md" title="wikilink">1979年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラフオンテース" title="wikilink">ラフオンテース</a></p></td>
+<td><p><a href="../Page/ラフオンテース.md" title="wikilink">ラフオンテース</a></p></td>
 <td><p>牝3</p></td>
 <td><p>5戦5勝<br />
 阪神3歳ステークス</p></td>
 <td><p>中脇次作</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/布施正" title="wikilink">布施正</a></p></td>
+<td><p><a href="../Page/布施正.md" title="wikilink">布施正</a></p></td>
 <td><p>小柴タマヲ</p></td>
 <td></td>
 </tr>
@@ -709,7 +709,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/トールポピー" title="wikilink">トールポピー</a></p></td>
+<td><p>|<a href="../Page/トールポピー.md" title="wikilink">トールポピー</a></p></td>
 <td><p>牝2</p></td>
 <td><p>4戦2勝<br />
 阪神ジュベナイルフィリーズ</p></td>

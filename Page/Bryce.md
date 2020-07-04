@@ -31,4 +31,4 @@
   - [公式サイト](http://www.daz3d.com/i.x/software/bryce/)
   - [Bryce 3D and 3DS Max Tutorials](http://freeitsolutions.com/3ds/?search=bryce) (en)
 
-[Category:3DCGソフトウェア](https://ja.wikipedia.org/wiki/Category:3DCGソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:1994年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1994年のソフトウェア "wikilink")
+[Category:フラクタル・ソフトウェア](https://ja.wikipedia.org/wiki/Category:フラクタル・ソフトウェア "wikilink") [Category:3DCGソフトウェア](https://ja.wikipedia.org/wiki/Category:3DCGソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:1994年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1994年のソフトウェア "wikilink")

@@ -1,9 +1,9 @@
 > この記事は[PKCS](https://ja.wikipedia.org/wiki/PKCS)から翻訳されています。
 
 
-**PKCS** (Public-Key Cryptography Standards) は、[RSAセキュリティ](https://ja.wikipedia.org/wiki/RSAセキュリティ "wikilink")により考案され公開された[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")標準のグループを示す。
+**PKCS** (Public-Key Cryptography Standards) は、[RSAセキュリティ](../Page/RSAセキュリティ.md "wikilink")により考案され公開された[公開鍵暗号](../Page/公開鍵暗号.md "wikilink")標準のグループを示す。
 
-[RSAセキュリティ](https://ja.wikipedia.org/wiki/RSAセキュリティ "wikilink")は、[RSA暗号](../Page/RSA暗号.md "wikilink")アルゴリズムの（2000年に期限が切れた）[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")に対するライセンス権を割り当て、幾つかの他の鍵に関する特許（例：[Schnorr](https://ja.wikipedia.org/wiki/Schnorr "wikilink")特許）も同様に取得した。このように、[RSAセキュリティ](https://ja.wikipedia.org/wiki/RSAセキュリティ "wikilink")および、その研究部門である RSA Labs は、公開鍵技術利用の普及と促進に関心を持っており、その結果、RSA は PKCS 標準を開発した。RSA は彼らが必要であると考えた変更や改良は行うと告知し、PKCS 標準を管理し続けた。そのため PKCS 標準は多くの意味において、その名前にかかわらず本当の産業標準ではなかった。全てではないが、近年になって PKCS の一部は一つ以上の標準化組織（有名なところでは[IETF](https://ja.wikipedia.org/wiki/IETF "wikilink") [PKIX](https://ja.wikipedia.org/wiki/PKIX "wikilink") ワーキンググループ）により'標準化'手続きに入っている。
+[RSAセキュリティ](../Page/RSAセキュリティ.md "wikilink")は、[RSA暗号](../Page/RSA暗号.md "wikilink")アルゴリズムの（2000年に期限が切れた）[特許](../Page/特許.md "wikilink")に対するライセンス権を割り当て、幾つかの他の鍵に関する特許（例：[Schnorr](https://ja.wikipedia.org/wiki/Schnorr "wikilink")特許）も同様に取得した。このように、[RSAセキュリティ](../Page/RSAセキュリティ.md "wikilink")および、その研究部門である RSA Labs は、公開鍵技術利用の普及と促進に関心を持っており、その結果、RSA は PKCS 標準を開発した。RSA は彼らが必要であると考えた変更や改良は行うと告知し、PKCS 標準を管理し続けた。そのため PKCS 標準は多くの意味において、その名前にかかわらず本当の産業標準ではなかった。全てではないが、近年になって PKCS の一部は一つ以上の標準化組織（有名なところでは[IETF](https://ja.wikipedia.org/wiki/IETF "wikilink") [PKIX](https://ja.wikipedia.org/wiki/PKIX "wikilink") ワーキンググループ）により'標準化'手続きに入っている。
 
 <table>
 <caption>PKCS 標準の一覧</caption>
@@ -44,13 +44,13 @@
 <td><p>PKCS #5</p></td>
 <td><p>2.1</p></td>
 <td><p>パスワードに基づく暗号化の標準</p></td>
-<td><p>RFC 8018 および  を参照。</p></td>
+<td><p>RFC 8018 および <a href="../Page/PBKDF2.md" title="wikilink">PBKDF2</a> を参照。</p></td>
 </tr>
 <tr class="even">
 <td><p>PKCS #6</p></td>
 <td><p>1.5</p></td>
 <td><p>拡張された証明書構文の標準</p></td>
-<td><p>古い<a href="https://ja.wikipedia.org/wiki/X.509" title="wikilink">X.509</a>v1証明書の仕様に対する拡張を規定。X.509v3により破棄。</p></td>
+<td><p>古い<a href="../Page/X.509.md" title="wikilink">X.509</a>v1証明書の仕様に対する拡張を規定。X.509v3により破棄。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/PKCS7" title="wikilink">PKCS #7</a></p></td>
@@ -74,7 +74,7 @@
 <td><p>PKCS #10</p></td>
 <td><p>1.7</p></td>
 <td><p><a href="../Page/証明書署名要求.md" title="wikilink">証明書署名要求</a></p></td>
-<td><p>RFC 2986 参照。公開鍵の認証を要求するために<a href="https://ja.wikipedia.org/wiki/認証局" title="wikilink">認証局</a>へ送信されるメッセージのフォーマット。<a href="../Page/証明書署名要求.md" title="wikilink">証明書署名要求</a>を参照。</p></td>
+<td><p>RFC 2986 参照。公開鍵の認証を要求するために<a href="../Page/認証局.md" title="wikilink">認証局</a>へ送信されるメッセージのフォーマット。<a href="../Page/証明書署名要求.md" title="wikilink">証明書署名要求</a>を参照。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -86,7 +86,7 @@
 <td></td>
 <td><p>1.1</p></td>
 <td><p>個人情報交換構文の標準</p></td>
-<td><p>RFC 7292 参照。パスワードに基づく<a href="https://ja.wikipedia.org/wiki/共通鍵" title="wikilink">鍵（暗号）により保護された</a><a href="https://ja.wikipedia.org/wiki/秘密鍵" title="wikilink">秘密鍵</a>と、それに関連する<a href="https://ja.wikipedia.org/wiki/X.509" title="wikilink">公開鍵証明書を保管するために一般に利用されるファイルフォーマットの定義</a>。PFXは PKCS#12 の旧称である。</p>
+<td><p>RFC 7292 参照。パスワードに基づく<a href="https://ja.wikipedia.org/wiki/共通鍵" title="wikilink">鍵（暗号）により保護された</a><a href="https://ja.wikipedia.org/wiki/秘密鍵" title="wikilink">秘密鍵</a>と、それに関連する<a href="../Page/X.509.md" title="wikilink">公開鍵証明書を保管するために一般に利用されるファイルフォーマットの定義</a>。PFXは PKCS#12 の旧称である。</p>
 <p>これは、複数の組み込みオブジェクト、例えば複数の証明書を格納できるコンテナフォーマットである。通常、パスワードにより保護/暗号化される。</p>
 <p>Java の鍵ストアのフォーマットとして利用できる。Tomcat では利用できるが Apache では利用<strong>できない</strong>。</p></td>
 </tr>

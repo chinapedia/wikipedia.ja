@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハーロウ・ボロFC](https://ja.wikipedia.org/wiki/ハーロウ・ボロFC)から翻訳されています。
 
 
 **ハーロウ・ボロ・フットボール・クラブ**（**Harrow Borough Football Club**）は[イングランド](../Page/イングランド.md "wikilink")、[ロンドン](../Page/ロンドン.md "wikilink")西部、[ハーロウを本拠地とするサッカークラブチームである](https://ja.wikipedia.org/wiki/ハーロウ（ロンドン） "wikilink")。2008-2009シーズンは[イスミアンリーグ・プレミアディヴィジョン](../Page/イスミアンリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。
@@ -12,7 +12,7 @@
 
 **一試合最多観客動員数**
 
-  - 3,000人 vs [ウェルドストーン](https://ja.wikipedia.org/wiki/ウェルドストーンFC "wikilink") FAカップ 1946
+  - 3,000人 vs [ウェルドストーン](../Page/ウェルドストーンFC.md "wikilink") FAカップ 1946
 
 **一試合最多得点勝利試合**
 

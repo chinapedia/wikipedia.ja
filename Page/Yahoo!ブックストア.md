@@ -39,7 +39,7 @@
   - [ハーレクイン](../Page/ハーレクイン_\(出版社\).md "wikilink")（ハーレクイン社・[ソフトバンククリエイティブ](https://ja.wikipedia.org/wiki/ソフトバンククリエイティブ "wikilink")）
   - [ルチルSWEET](https://ja.wikipedia.org/wiki/ルチル_\(雑誌\) "wikilink")（[幻冬舎コミックス](../Page/幻冬舎コミックス.md "wikilink")）
   - [くらげバンチ](https://ja.wikipedia.org/wiki/月刊コミック@バンチ "wikilink")（[新潮社](../Page/新潮社.md "wikilink")）
-  - [BE・LOVE](https://ja.wikipedia.org/wiki/BE・LOVE "wikilink")子育て＆カルチャーコミックセレクション（[講談社](../Page/講談社.md "wikilink")）
+  - [BE・LOVE](../Page/BE・LOVE.md "wikilink")子育て＆カルチャーコミックセレクション（[講談社](../Page/講談社.md "wikilink")）
   - [おりおん☆](https://ja.wikipedia.org/wiki/おりおん☆ "wikilink")無料マガジン（[ゴマブックス](../Page/ゴマブックス.md "wikilink")）
 
 ### 配信を終了した主な無料ウェブコミック誌
@@ -54,7 +54,7 @@
   - [GENZO EX.](https://ja.wikipedia.org/wiki/MAGNA#臨時増刊のGENZO_EX. "wikilink")（[幻冬舎コミックス](../Page/幻冬舎コミックス.md "wikilink")）
   - [近代麻雀](../Page/近代麻雀.md "wikilink")/近代麻雀オリジナル（[竹書房](../Page/竹書房.md "wikilink")）
   - [コミックエッセイ劇場](../Page/コミックエッセイ劇場.md "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）
-  - [コミック三国志マガジン](https://ja.wikipedia.org/wiki/コミック三国志マガジン "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）
+  - [コミック三国志マガジン](../Page/コミック三国志マガジン.md "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）
   - [コミックヒストリア](https://ja.wikipedia.org/wiki/コミックヒストリア "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）
   - [デジタル漫画アクション](https://ja.wikipedia.org/wiki/漫画アクション "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）
   - [JOURすてきな主婦たち](https://ja.wikipedia.org/wiki/JOURすてきな主婦たち "wikilink")（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）
@@ -74,7 +74,7 @@
 
   - [るろうに剣心 -明治剣客浪漫譚-](../Page/るろうに剣心_-明治剣客浪漫譚-.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）2013年9月
   - [ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）2013年11月
-  - [DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE "wikilink")（[集英社](../Page/集英社.md "wikilink")）2013年11月
+  - [DEATH NOTE](../Page/DEATH_NOTE.md "wikilink")（[集英社](../Page/集英社.md "wikilink")）2013年11月
   - [花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")（[集英社](../Page/集英社.md "wikilink")）2013年11月
   - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")（[講談社](../Page/講談社.md "wikilink")）2013年12月
   - [鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）2013年12月-2014年1月

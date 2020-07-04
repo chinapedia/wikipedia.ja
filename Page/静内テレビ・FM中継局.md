@@ -1,7 +1,7 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[静内テレビ・FM中継局](https://ja.wikipedia.org/wiki/静内テレビ・FM中継局)から翻訳されています。
 
 
-**静内テレビ・FM中継局**（しずないてれびえふえむちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[新ひだか町](https://ja.wikipedia.org/wiki/新ひだか町 "wikilink")に置かれているテレビとFMラジオ放送の中継局。ここではデジタル新局として設置された**三石本町テレビ中継局**、アナログテレビ放送のみで廃止された**東静内テレビ中継局**と**歌笛テレビ中継局**についても記述する。
+**静内テレビ・FM中継局**（しずないてれびえふえむちゅうけいきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[新ひだか町](../Page/新ひだか町.md "wikilink")に置かれているテレビとFMラジオ放送の中継局。ここではデジタル新局として設置された**三石本町テレビ中継局**、アナログテレビ放送のみで廃止された**東静内テレビ中継局**と**歌笛テレビ中継局**についても記述する。
 
 ## 静内テレビ・FM中継局
 
@@ -14,10 +14,10 @@
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">リモコン<br />
 番号</a>[1]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のテレビジョン放送局" title="wikilink">放送局名</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">チャンネル<br />
+<th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
 番号</a>[2][3][4][5]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a>[6][7]</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a>[8]</p></th>
@@ -44,7 +44,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK室蘭放送局" title="wikilink">室蘭</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>32</p></td>
 <td><p>68W</p></td>
 <td><p><a href="../Page/全国放送.md" title="wikilink">全国</a></p></td>
@@ -56,7 +56,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>NHK<br />
-室蘭<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+室蘭<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>50</p></td>
 <td><p>北海道</p></td>
 <td></td>
@@ -68,7 +68,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p>STV<br />
-<a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ放送</a></p></td>
+<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a></p></td>
 <td><p>31 → 35[12]</p></td>
 <td><p>68W</p></td>
 <td></td>
@@ -235,7 +235,7 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p>空中線<br />
 電力</p></th>
 <th><p>ERP</p></th>
@@ -250,7 +250,7 @@
 <tr class="odd">
 <td><p>84.0<a href="https://ja.wikipedia.org/wiki/メガヘルツ" title="wikilink">MHz</a></p></td>
 <td><p>NHK<br />
-室蘭<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+室蘭<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>10W</p></td>
 <td><p>26W</p></td>
 <td><p>水平偏波</p></td>

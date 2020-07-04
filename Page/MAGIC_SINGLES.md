@@ -5,13 +5,13 @@
 
 ## 内容
 
-[メルダック在籍時のシングルとライブで演奏してきたそのカップリングを中心に収録](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")。トラック1〜11及び16はその9年後にリリースした「[MAGIC SUPER BEST](../Page/MAGIC_SUPER_BEST.md "wikilink")」と同じ。
+[メルダック在籍時のシングルとライブで演奏してきたそのカップリングを中心に収録](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。トラック1〜11及び16はその9年後にリリースした「[MAGIC SUPER BEST](../Page/MAGIC_SUPER_BEST.md "wikilink")」と同じ。
 
 ## 収録曲
 
 1.  STREET ANGEL
       -
-        作詞：[上澤津孝](https://ja.wikipedia.org/wiki/上澤津孝 "wikilink")　作曲：[久米浩司](https://ja.wikipedia.org/wiki/久米浩司 "wikilink")　編曲：MAGIC
+        作詞：[上澤津孝](../Page/上澤津孝.md "wikilink")　作曲：[久米浩司](https://ja.wikipedia.org/wiki/久米浩司 "wikilink")　編曲：MAGIC
 2.  ブラッディ・マリーの夜
       -
         作詞：上澤津孝　作曲:[山口憲一](../Page/山口憲一.md "wikilink")　編曲：MAGIC
@@ -30,9 +30,9 @@
 7.  マリアのように抱きしめてくれ
       -
         作詞：上澤津孝　作曲：山口憲一・久米浩司　編曲：MAGIC
-8.  [あの夏が聴こえてくる](https://ja.wikipedia.org/wiki/あの夏が聴こえてくる "wikilink")
+8.  [あの夏が聴こえてくる](../Page/あの夏が聴こえてくる.md "wikilink")
       -
-        作詞：[小田佳奈子](https://ja.wikipedia.org/wiki/小田佳奈子 "wikilink")　作曲・編曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
+        作詞：[小田佳奈子](../Page/小田佳奈子.md "wikilink")　作曲・編曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
 9.  [SUMMER ROSE](https://ja.wikipedia.org/wiki/SUMMER_ROSE "wikilink")
       -
         作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink") 作曲・編曲：魚海洋司
@@ -41,7 +41,7 @@
         作詞：上澤津孝・松井五郎　作曲・編曲：織田哲郎
 11. [STAND UP, BOY](https://ja.wikipedia.org/wiki/STAND_UP,_BOY "wikilink")
       -
-        作詞：[竜真知子](https://ja.wikipedia.org/wiki/竜真知子 "wikilink")　作曲・編曲：[NOBODY](https://ja.wikipedia.org/wiki/NOBODY_\(ロックバンド\) "wikilink")
+        作詞：[竜真知子](../Page/竜真知子.md "wikilink")　作曲・編曲：[NOBODY](../Page/NOBODY_\(ロックバンド\).md "wikilink")
 12. ライ麦畑でつかまえて
       -
         作詞：上澤津孝　作曲：山口憲一　編曲：MAGIC

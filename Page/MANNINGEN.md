@@ -938,6 +938,6 @@ misono</p></td>
 
 ## 外部リンク
 
-  - [フジテレビホームページ](http://www.fujitv.co.jp/index.html)
+  - [フジテレビホームページ](https://www.fujitv.co.jp/index.html)
 
 [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink")

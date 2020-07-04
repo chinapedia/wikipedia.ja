@@ -1,4 +1,4 @@
-> この記事は[ W](https://ja.wikipedia.org/wiki/_W)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 W](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_W)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**W**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。
@@ -172,7 +172,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Doug_Waechter" title="wikilink">Doug Waechter</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダグ・ウェクター" title="wikilink">ダグ・ウェクター</a></p></td>
+<td><p><a href="../Page/ダグ・ウェクター.md" title="wikilink">ダグ・ウェクター</a></p></td>
 <td><p>2003</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Billy_Wagner" title="wikilink">Billy Wagner</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビリー・ワグナー" title="wikilink">ビリー・ワグナー</a></p></td>
+<td><p><a href="../Page/ビリー・ワグナー.md" title="wikilink">ビリー・ワグナー</a></p></td>
 <td><p>1995</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -424,7 +424,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tim_Wakefield" title="wikilink">Tim Wakefield</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ティム・ウェイクフィールド" title="wikilink">ティム・ウェイクフィールド</a></p></td>
+<td><p><a href="../Page/ティム・ウェイクフィールド.md" title="wikilink">ティム・ウェイクフィールド</a></p></td>
 <td><p>1992</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -648,14 +648,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jamie_Walker_(baseball)" title="wikilink">Jamie Walker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイミー・ウォーカー" title="wikilink">ジェイミー・ウォーカー</a></p></td>
+<td><p><a href="../Page/ジェイミー・ウォーカー.md" title="wikilink">ジェイミー・ウォーカー</a></p></td>
 <td><p>1997</p></td>
 <td><p>2009</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jeremy_Walker_(baseball)" title="wikilink">Jeremy Walker</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェレミー・ウォーカー_(野球)" title="wikilink">ジェレミー・ウォーカー</a></p></td>
+<td><p><a href="../Page/ジェレミー・ウォーカー_(野球).md" title="wikilink">ジェレミー・ウォーカー</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -739,7 +739,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pete_Walker" title="wikilink">Pete Walker</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピート・ウォーカー_(野球)" title="wikilink">ピート・ウォーカー</a></p></td>
+<td><p><a href="../Page/ピート・ウォーカー_(野球).md" title="wikilink">ピート・ウォーカー</a></p></td>
 <td><p>1995</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -1096,7 +1096,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Jared_Walsh" title="wikilink">Jared Walsh</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャレッド・ウォルシュ" title="wikilink">ジャレッド・ウォルシュ</a></p></td>
+<td><p><a href="../Page/ジャレッド・ウォルシュ.md" title="wikilink">ジャレッド・ウォルシュ</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -1292,7 +1292,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bill_Wambsganss" title="wikilink">Bill Wambsganss</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビル・ワムズガンス" title="wikilink">ビル・ワムズガンス</a></p></td>
+<td><p><a href="../Page/ビル・ワムズガンス.md" title="wikilink">ビル・ワムズガンス</a></p></td>
 <td><p>1914</p></td>
 <td><p>1926</p></td>
 <td></td>
@@ -1319,17 +1319,17 @@
 <td><p>殿堂入り</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Chien-Ming_Wang" title="wikilink">Chien-Ming Wang</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/王建民" title="wikilink">王建民</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Chien-Ming_Wang" title="wikilink">Chien-Ming Wang</a></p></td>
+<td><p><a href="../Page/王建民.md" title="wikilink">王建民</a></p></td>
 <td><p>2005</p></td>
-<td></td>
+<td><p>2016</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Wei-Chung_Wang" title="wikilink">Wei-Chung Wang</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Wei-Chung_Wang" title="wikilink">Wei-Chung Wang</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/王維中" title="wikilink">王維中</a></p></td>
 <td><p>2014</p></td>
-<td></td>
+<td><p>2019</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1761,7 +1761,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jarrod_Washburn" title="wikilink">Jarrod Washburn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャロッド・ウォッシュバーン" title="wikilink">ジャロッド・ウォッシュバーン</a></p></td>
+<td><p><a href="../Page/ジャロッド・ウォッシュバーン.md" title="wikilink">ジャロッド・ウォッシュバーン</a></p></td>
 <td><p>1998</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -2013,7 +2013,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Watson" title="wikilink">Bob Watson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ワトソン" title="wikilink">ボブ・ワトソン</a></p></td>
+<td><p><a href="../Page/ボブ・ワトソン.md" title="wikilink">ボブ・ワトソン</a></p></td>
 <td><p>1966</p></td>
 <td><p>1984</p></td>
 <td></td>
@@ -2041,14 +2041,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_Watson" title="wikilink">Mark Watson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーク・ワトソン" title="wikilink">マーク・ワトソン</a></p></td>
+<td><p><a href="../Page/マーク・ワトソン.md" title="wikilink">マーク・ワトソン</a></p></td>
 <td><p>2000</p></td>
 <td><p>2003</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mark_Watson_(baseball)" title="wikilink">Matt Watson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マット・ワトソン" title="wikilink">マット・ワトソン</a></p></td>
+<td><p><a href="../Page/マット・ワトソン.md" title="wikilink">マット・ワトソン</a></p></td>
 <td><p>2003</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -2197,7 +2197,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_Weathers" title="wikilink">David Weathers</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・ウェザース" title="wikilink">デービッド・ウェザース</a></p></td>
+<td><p><a href="../Page/デビッド・ウェザース.md" title="wikilink">デービッド・ウェザース</a></p></td>
 <td><p>1991</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -2253,7 +2253,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jered_Weaver" title="wikilink">Jered Weaver</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェレッド・ウィーバー" title="wikilink">ジェレッド・ウィーバー</a></p></td>
+<td><p><a href="../Page/ジェレッド・ウィーバー.md" title="wikilink">ジェレッド・ウィーバー</a></p></td>
 <td><p>2006</p></td>
 <td><p>2017</p></td>
 <td></td>
@@ -2337,7 +2337,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brandon_Webb" title="wikilink">Brandon Webb</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブランドン・ウェブ" title="wikilink">ブランドン・ウェブ</a></p></td>
+<td><p><a href="../Page/ブランドン・ウェブ.md" title="wikilink">ブランドン・ウェブ</a></p></td>
 <td><p>2003</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -2568,7 +2568,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Rickie_Weeks" title="wikilink">Rickie Weeks</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リッキー・ウィークス" title="wikilink">リッキー・ウィークス</a></p></td>
+<td><p><a href="../Page/リッキー・ウィークス.md" title="wikilink">リッキー・ウィークス</a></p></td>
 <td><p>2003</p></td>
 <td></td>
 <td></td>
@@ -2953,7 +2953,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Greg_Wells_(baseball)" title="wikilink">Greg Wells</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブーマー・ウェルズ" title="wikilink">グレッグ・ウェルズ</a></p></td>
+<td><p><a href="../Page/ブーマー・ウェルズ.md" title="wikilink">グレッグ・ウェルズ</a></p></td>
 <td><p>1981</p></td>
 <td><p>1982</p></td>
 <td></td>
@@ -3009,7 +3009,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Vernon_Wells" title="wikilink">Vernon Wells</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーノン・ウェルズ_(野球)" title="wikilink">バーノン・ウェルズ</a></p></td>
+<td><p><a href="../Page/バーノン・ウェルズ_(野球).md" title="wikilink">バーノン・ウェルズ</a></p></td>
 <td><p>1999</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3198,7 +3198,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jayson_Werth" title="wikilink">Jayson Werth</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイソン・ワース" title="wikilink">ジェイソン・ワース</a></p></td>
+<td><p><a href="../Page/ジェイソン・ワース.md" title="wikilink">ジェイソン・ワース</a></p></td>
 <td><p>2002</p></td>
 <td><p>2017</p></td>
 <td></td>
@@ -3268,7 +3268,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_West_(baseball)" title="wikilink">David West</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・ウェスト_(野球)" title="wikilink">デビッド・ウエスト</a></p></td>
+<td><p><a href="../Page/デビッド・ウェスト_(野球).md" title="wikilink">デビッド・ウエスト</a></p></td>
 <td><p>1988</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -3338,7 +3338,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jake_Westbrook" title="wikilink">Jake Westbrook</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェイク・ウエストブルック" title="wikilink">ジェイク・ウエストブルック</a></p></td>
+<td><p><a href="../Page/ジェイク・ウエストブルック.md" title="wikilink">ジェイク・ウエストブルック</a></p></td>
 <td><p>2000</p></td>
 <td><p>2013</p></td>
 <td></td>
@@ -3556,7 +3556,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dan_Wheeler" title="wikilink">Dan Wheeler</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダン・ウィーラー" title="wikilink">ダン・ウィーラー</a></p></td>
+<td><p><a href="../Page/ダン・ウィーラー.md" title="wikilink">ダン・ウィーラー</a></p></td>
 <td><p>1999</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -3836,7 +3836,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Derrick_White_(baseball)" title="wikilink">Derrick White</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デリック・ホワイト" title="wikilink">デリック・ホワイト</a></p></td>
+<td><p><a href="../Page/デリック・ホワイト.md" title="wikilink">デリック・ホワイト</a></p></td>
 <td><p>1993</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -3934,7 +3934,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jerry_White_(baseball)" title="wikilink">Jerry White</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェリー・ホワイト" title="wikilink">ジェリー・ホワイト</a></p></td>
+<td><p><a href="../Page/ジェリー・ホワイト.md" title="wikilink">ジェリー・ホワイト</a></p></td>
 <td><p>1974</p></td>
 <td><p>1986</p></td>
 <td></td>
@@ -3990,14 +3990,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rondell_White" title="wikilink">Rondell White</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロンデル・ホワイト" title="wikilink">ロンデル・ホワイト</a></p></td>
+<td><p><a href="../Page/ロンデル・ホワイト.md" title="wikilink">ロンデル・ホワイト</a></p></td>
 <td><p>1993</p></td>
 <td><p>2007</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Roy_White" title="wikilink">Roy White</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロイ・ホワイト" title="wikilink">ロイ・ホワイト</a></p></td>
+<td><p><a href="../Page/ロイ・ホワイト.md" title="wikilink">ロイ・ホワイト</a></p></td>
 <td><p>1965</p></td>
 <td><p>1979</p></td>
 <td></td>
@@ -4046,7 +4046,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Will_White" title="wikilink">Will White</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウィル・ホワイト" title="wikilink">ウィル・ホワイト</a></p></td>
+<td><p><a href="../Page/ウィル・ホワイト.md" title="wikilink">ウィル・ホワイト</a></p></td>
 <td><p>1877</p></td>
 <td><p>1886</p></td>
 <td></td>
@@ -4172,7 +4172,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Terry_Whitfield" title="wikilink">Terry Whitfield</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テリー・ウィットフィールド" title="wikilink">テリー・ウィットフィールド</a></p></td>
+<td><p><a href="../Page/テリー・ウィットフィールド.md" title="wikilink">テリー・ウィットフィールド</a></p></td>
 <td><p>1974</p></td>
 <td><p>1986</p></td>
 <td></td>
@@ -4221,7 +4221,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Darrell_Whitmore" title="wikilink">Darrell Whitmore</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダレル・ウィットモア" title="wikilink">ダレル・ウィットモア</a></p></td>
+<td><p><a href="../Page/ダレル・ウィットモア.md" title="wikilink">ダレル・ウィットモア</a></p></td>
 <td><p>1993</p></td>
 <td><p>1995</p></td>
 <td></td>
@@ -4403,7 +4403,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Brad_Wieck" title="wikilink">Brad Wieck</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラッド・ウィック" title="wikilink">ブラッド・ウィック</a></p></td>
+<td><p><a href="../Page/ブラッド・ウィック.md" title="wikilink">ブラッド・ウィック</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
@@ -4599,7 +4599,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hoyt_Wilhelm" title="wikilink">Hoyt Wilhelm</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホイト・ウィルヘルム" title="wikilink">ホイト・ウィルヘルム</a></p></td>
+<td><p><a href="../Page/ホイト・ウィルヘルム.md" title="wikilink">ホイト・ウィルヘルム</a></p></td>
 <td><p>1952</p></td>
 <td><p>1972</p></td>
 <td><p>殿堂入り</p></td>
@@ -4683,7 +4683,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Stevie_Wilkerson" title="wikilink">Stevie Wilkerson</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティービー・ウィルカーソン" title="wikilink">スティービー・ウィルカーソン</a></p></td>
+<td><p><a href="../Page/スティービー・ウィルカーソン.md" title="wikilink">スティービー・ウィルカーソン</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td></td>
@@ -4844,7 +4844,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bernie_Williams" title="wikilink">Bernie Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バーニー・ウィリアムス" title="wikilink">バーニー・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/バーニー・ウィリアムス.md" title="wikilink">バーニー・ウィリアムズ</a></p></td>
 <td><p>1991</p></td>
 <td><p>2006</p></td>
 <td><p>外野手、Bernabé Williams Figueroa Jr.</p></td>
@@ -4900,7 +4900,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dallas_Williams" title="wikilink">Dallas Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダラス・ウイリアムズ" title="wikilink">ダラス・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/ダラス・ウイリアムズ.md" title="wikilink">ダラス・ウィリアムズ</a></p></td>
 <td><p>1981</p></td>
 <td><p>1983</p></td>
 <td></td>
@@ -4921,7 +4921,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_Williams_(2000s_pitcher)" title="wikilink">Dave Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デーブ・ウィリアムス" title="wikilink">デーブ・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/デーブ・ウィリアムス.md" title="wikilink">デーブ・ウィリアムズ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2007</p></td>
 <td><p>投手、David Aaron Williams</p></td>
@@ -4942,7 +4942,7 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/:en:Devin_Williams_(baseball)" title="wikilink">Devin Williams</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビン・ウィリアムズ_(野球)" title="wikilink">デビン・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/デビン・ウィリアムズ_(野球).md" title="wikilink">デビン・ウィリアムズ</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td></td>
@@ -4963,7 +4963,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dick_Williams" title="wikilink">Dick Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ディック・ウィリアムズ" title="wikilink">ディック・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/ディック・ウィリアムズ.md" title="wikilink">ディック・ウィリアムズ</a></p></td>
 <td><p>1951</p></td>
 <td><p>1964</p></td>
 <td><p>殿堂入り</p></td>
@@ -5033,7 +5033,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Glenn_Williams" title="wikilink">Glenn Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレン・ウィリアムス" title="wikilink">グレン・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/グレン・ウィリアムス.md" title="wikilink">グレン・ウィリアムズ</a></p></td>
 <td><p>2005</p></td>
 <td><p>2005</p></td>
 <td></td>
@@ -5313,7 +5313,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ted_Williams" title="wikilink">Ted Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テッド・ウィリアムズ" title="wikilink">テッド・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/テッド・ウィリアムズ.md" title="wikilink">テッド・ウィリアムズ</a></p></td>
 <td><p>1939</p></td>
 <td><p>1960</p></td>
 <td><p>殿堂入り</p></td>
@@ -5362,7 +5362,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Woody_Williams" title="wikilink">Woody Williams</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウッディ・ウィリアムズ" title="wikilink">ウッディ・ウィリアムズ</a></p></td>
+<td><p><a href="../Page/ウッディ・ウィリアムズ.md" title="wikilink">ウッディ・ウィリアムズ</a></p></td>
 <td><p>1993</p></td>
 <td><p>2007</p></td>
 <td><p>投手、Gregory Scott Williams</p></td>
@@ -5411,7 +5411,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Scott_Williamson" title="wikilink">Scott Williamson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スコット・ウィリアムソン" title="wikilink">スコット・ウィリアムソン</a></p></td>
+<td><p><a href="../Page/スコット・ウィリアムソン.md" title="wikilink">スコット・ウィリアムソン</a></p></td>
 <td><p>1999</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -5439,7 +5439,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Carl_Willis" title="wikilink">Carl Willis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カール・ウィリス" title="wikilink">カール・ウィリス</a></p></td>
+<td><p><a href="../Page/カール・ウィリス.md" title="wikilink">カール・ウィリス</a></p></td>
 <td><p>1984</p></td>
 <td><p>1995</p></td>
 <td></td>
@@ -5453,7 +5453,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dontrelle_Willis" title="wikilink">Dontrelle Willis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドントレル・ウィリス" title="wikilink">ドントレル・ウィリス</a></p></td>
+<td><p><a href="../Page/ドントレル・ウィリス.md" title="wikilink">ドントレル・ウィリス</a></p></td>
 <td><p>2003</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -5467,7 +5467,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Joe_Willis_(baseball)" title="wikilink">Joe Willis</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ウィリス" title="wikilink">ジョー・ウィリス</a></p></td>
+<td><p><a href="../Page/ジョー・ウィリス.md" title="wikilink">ジョー・ウィリス</a></p></td>
 <td><p>1911</p></td>
 <td><p>1913</p></td>
 <td></td>
@@ -5719,7 +5719,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Craig_Wilson_(first_baseman)" title="wikilink">Craig Wilson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレイグ・ウィルソン" title="wikilink">クレイグ・ウィルソン</a></p></td>
+<td><p><a href="../Page/クレイグ・ウィルソン.md" title="wikilink">クレイグ・ウィルソン</a></p></td>
 <td><p>2001</p></td>
 <td><p>2007</p></td>
 <td><p>一塁手、Craig Allan Wilson</p></td>
@@ -5733,7 +5733,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Desi_Wilson" title="wikilink">Desi Wilson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デジ・ウィルソン" title="wikilink">デシー・ウィルソン</a></p></td>
+<td><p><a href="../Page/デジ・ウィルソン.md" title="wikilink">デシー・ウィルソン</a></p></td>
 <td><p>1996</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -5831,7 +5831,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Hack_Wilson" title="wikilink">Hack Wilson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハック・ウィルソン" title="wikilink">ハック・ウィルソン</a></p></td>
+<td><p><a href="../Page/ハック・ウィルソン.md" title="wikilink">ハック・ウィルソン</a></p></td>
 <td><p>1923</p></td>
 <td><p>1934</p></td>
 <td><p>殿堂入り</p></td>
@@ -5978,7 +5978,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Nigel_Wilson" title="wikilink">Nigel Wilson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナイジェル・ウィルソン" title="wikilink">ナイジェル・ウィルソン</a></p></td>
+<td><p><a href="../Page/ナイジェル・ウィルソン.md" title="wikilink">ナイジェル・ウィルソン</a></p></td>
 <td><p>1993</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -6006,7 +6006,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Preston_Wilson" title="wikilink">Preston Wilson</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プレストン・ウィルソン" title="wikilink">プレストン・ウィルソン</a></p></td>
+<td><p><a href="../Page/プレストン・ウィルソン.md" title="wikilink">プレストン・ウィルソン</a></p></td>
 <td><p>1998</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -6188,7 +6188,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Gordie_Windhorn" title="wikilink">Gordie Windhorn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴーディ・ウィンドホーン" title="wikilink">ゴーディ・ウィンドホーン</a></p></td>
+<td><p><a href="../Page/ゴーディ・ウィンドホーン.md" title="wikilink">ゴーディ・ウィンドホーン</a></p></td>
 <td><p>1959</p></td>
 <td><p>1962</p></td>
 <td></td>
@@ -6237,7 +6237,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Dave_Winfield" title="wikilink">Dave Winfield</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デーブ・ウィンフィールド" title="wikilink">デーブ・ウィンフィールド</a></p></td>
+<td><p><a href="../Page/デーブ・ウィンフィールド.md" title="wikilink">デーブ・ウィンフィールド</a></p></td>
 <td><p>1973</p></td>
 <td><p>1995</p></td>
 <td><p>殿堂入り</p></td>
@@ -6349,7 +6349,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Randy_Winn" title="wikilink">Randy Winn</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ランディ・ウィン" title="wikilink">ランディ・ウィン</a></p></td>
+<td><p><a href="../Page/ランディ・ウィン.md" title="wikilink">ランディ・ウィン</a></p></td>
 <td><p>1998</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -6405,7 +6405,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Matt_Winters" title="wikilink">Matt Winters</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マット・ウインタース" title="wikilink">マット・ウィンタース</a></p></td>
+<td><p><a href="../Page/マット・ウインタース.md" title="wikilink">マット・ウィンタース</a></p></td>
 <td><p>1989</p></td>
 <td><p>1989</p></td>
 <td></td>
@@ -6580,7 +6580,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Shannon_Withem" title="wikilink">Shannon Withem</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シャノン・ウィッテム" title="wikilink">シャノン・ウィッテム</a></p></td>
+<td><p><a href="../Page/シャノン・ウィッテム.md" title="wikilink">シャノン・ウィッテム</a></p></td>
 <td><p>1998</p></td>
 <td><p>1998</p></td>
 <td></td>
@@ -6636,7 +6636,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kevin_Witt" title="wikilink">Kevin Witt</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケビン・ウィット" title="wikilink">ケビン・ウィット</a></p></td>
+<td><p><a href="../Page/ケビン・ウィット.md" title="wikilink">ケビン・ウィット</a></p></td>
 <td><p>1998</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -6808,7 +6808,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Bob_Wolcott" title="wikilink">Bob Wolcott</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボブ・ウォルコット" title="wikilink">ボブ・ウォルコット</a></p></td>
+<td><p><a href="../Page/ボブ・ウォルコット.md" title="wikilink">ボブ・ウォルコット</a></p></td>
 <td><p>1995</p></td>
 <td><p>1999</p></td>
 <td></td>
@@ -6899,7 +6899,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Larry_Wolfe" title="wikilink">Larry Wolfe</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラリー・ウルフ" title="wikilink">ラリー・ウルフ</a></p></td>
+<td><p><a href="../Page/ラリー・ウルフ.md" title="wikilink">ラリー・ウルフ</a></p></td>
 <td><p>1977</p></td>
 <td><p>1980</p></td>
 <td></td>
@@ -6990,7 +6990,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tony_Womack" title="wikilink">Tony Womack</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トニー・ウォマック" title="wikilink">トニー・ウォマック</a></p></td>
+<td><p><a href="../Page/トニー・ウォマック.md" title="wikilink">トニー・ウォマック</a></p></td>
 <td><p>1993</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -7053,7 +7053,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Brandon_Wood" title="wikilink">Brandon Wood</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブランドン・ウッド" title="wikilink">ブランドン・ウッド</a></p></td>
+<td><p><a href="../Page/ブランドン・ウッド.md" title="wikilink">ブランドン・ウッド</a></p></td>
 <td><p>2007</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -7144,14 +7144,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Kerry_Wood" title="wikilink">Kerry Wood</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ケリー・ウッド" title="wikilink">ケリー・ウッド</a></p></td>
+<td><p><a href="../Page/ケリー・ウッド.md" title="wikilink">ケリー・ウッド</a></p></td>
 <td><p>1998</p></td>
 <td><p>2012</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mike_Wood_(baseball)" title="wikilink">Mike Wood</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マイク・ウッド" title="wikilink">マイク・ウッド</a></p></td>
+<td><p><a href="../Page/マイク・ウッド.md" title="wikilink">マイク・ウッド</a></p></td>
 <td><p>2003</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -7403,7 +7403,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Woodward" title="wikilink">Chris Woodward</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・ウッドウォード" title="wikilink">クリス・ウッドワード</a></p></td>
+<td><p><a href="../Page/クリス・ウッドウォード.md" title="wikilink">クリス・ウッドワード</a></p></td>
 <td><p>1999</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -7536,7 +7536,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Tim_Worrell" title="wikilink">Tim Worrell</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ティム・ウォーレル" title="wikilink">ティム・ウォーレル</a></p></td>
+<td><p><a href="../Page/ティム・ウォーレル.md" title="wikilink">ティム・ウォーレル</a></p></td>
 <td><p>1993</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -7578,7 +7578,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Craig_Worthington" title="wikilink">Craig Worthington</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クレイグ・ワーシントン" title="wikilink">クレイグ・ワーシントン</a></p></td>
+<td><p><a href="../Page/クレイグ・ワーシントン.md" title="wikilink">クレイグ・ワーシントン</a></p></td>
 <td><p>1988</p></td>
 <td><p>1996</p></td>
 <td></td>
@@ -7691,7 +7691,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Clyde_Wright" title="wikilink">Clyde Wright</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クライド・ライト" title="wikilink">クライド・ライト</a></p></td>
+<td><p><a href="../Page/クライド・ライト.md" title="wikilink">クライド・ライト</a></p></td>
 <td><p>1966</p></td>
 <td><p>1975</p></td>
 <td></td>
@@ -7726,7 +7726,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:David_Wright" title="wikilink">David Wright</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビッド・ライト" title="wikilink">デビッド・ライト</a></p></td>
+<td><p><a href="../Page/デビッド・ライト.md" title="wikilink">デビッド・ライト</a></p></td>
 <td><p>2004</p></td>
 <td><p>2018</p></td>
 <td></td>
@@ -7789,7 +7789,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Jaret_Wright" title="wikilink">Jaret Wright</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャレット・ライト" title="wikilink">ジャレット・ライト</a></p></td>
+<td><p><a href="../Page/ジャレット・ライト.md" title="wikilink">ジャレット・ライト</a></p></td>
 <td><p>1997</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -7887,7 +7887,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Ron_Wright_(baseball)" title="wikilink">Ron Wright</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロン・ライト_(野球)" title="wikilink">ロン・ライト</a></p></td>
+<td><p><a href="../Page/ロン・ライト_(野球).md" title="wikilink">ロン・ライト</a></p></td>
 <td><p>2002</p></td>
 <td><p>2002</p></td>
 <td></td>
@@ -8156,7 +8156,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Marvell_Wynne_(baseball)" title="wikilink">Marvell Wynne</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーベル・ウイン" title="wikilink">マーベル・ウィン</a></p></td>
+<td><p><a href="../Page/マーベル・ウイン.md" title="wikilink">マーベル・ウィン</a></p></td>
 <td><p>1983</p></td>
 <td><p>1990</p></td>
 <td></td>

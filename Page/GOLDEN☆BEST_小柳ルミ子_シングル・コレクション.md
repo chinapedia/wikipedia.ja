@@ -114,7 +114,7 @@
 13. **[通りゃんせ帰りゃんせ](https://ja.wikipedia.org/wiki/通りゃんせ帰りゃんせ "wikilink")**（3:53）
       - 作詞: 岡田冨美子、作曲: [小杉保夫](../Page/小杉保夫.md "wikilink")、編曲: 高田弘
 14. **[お久しぶりね](../Page/お久しぶりね.md "wikilink")**（3:50）
-      - 作詞・作曲: [杉本真人](../Page/杉本真人.md "wikilink")、編曲: [梅垣達志](https://ja.wikipedia.org/wiki/梅垣達志 "wikilink")
+      - 作詞・作曲: [杉本真人](../Page/杉本真人.md "wikilink")、編曲: [梅垣達志](../Page/梅垣達志.md "wikilink")
       - [第34回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第34回NHK紅白歌合戦 "wikilink") 歌唱曲
 15. **[今さらジロー](../Page/今さらジロー.md "wikilink")**（4:00）
       - 作詞・作曲: 杉本真人、編曲: 梅垣達志

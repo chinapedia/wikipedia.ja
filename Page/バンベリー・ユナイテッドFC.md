@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[バンベリー・ユナイテッドFC](https://ja.wikipedia.org/wiki/バンベリー・ユナイテッドFC)から翻訳されています。
 
 
 **バンベリー・ユナイテッド・フットボールクラブ**（**Banbury United Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[オックスフォードシャー州](https://ja.wikipedia.org/wiki/オックスフォードシャー州 "wikilink")[チャーウェル](https://ja.wikipedia.org/wiki/チャーウェル "wikilink")郡[バンベリー](https://ja.wikipedia.org/wiki/バンベリー "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[サザンフットボールリーグ・プレミアディヴィジョン](../Page/サザンフットボールリーグ・プレミアディヴィジョン.md "wikilink")（7部相当）に所属。
@@ -76,7 +76,7 @@
 <!-- end list -->
 
   -
-    vs [オックスフォード・シティ](https://ja.wikipedia.org/wiki/オックスフォード・シティFC "wikilink") 1948-1949
+    vs [オックスフォード・シティ](../Page/オックスフォード・シティFC.md "wikilink") 1948-1949
 
 ## 過去の成績
 

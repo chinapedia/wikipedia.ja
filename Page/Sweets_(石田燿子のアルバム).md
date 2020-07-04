@@ -1,7 +1,7 @@
-> この記事は[Sweets \(\)](https://ja.wikipedia.org/wiki/Sweets_\(\))から翻訳されています。
+> この記事は[Sweets \(石田燿子のアルバム\)](https://ja.wikipedia.org/wiki/Sweets_\(石田燿子のアルバム\))から翻訳されています。
 
 
-『**sweets**』（スウィーツ）は、[2003年](../Page/2003年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売された[石田燿子](https://ja.wikipedia.org/wiki/石田燿子 "wikilink")のファースト・フルアルバム。
+『**sweets**』（スウィーツ）は、[2003年](../Page/2003年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売された[石田燿子](../Page/石田燿子.md "wikilink")のファースト・フルアルバム。
 
 ## 概要
 
@@ -16,10 +16,10 @@
       - 作詞：石田燿子、作曲：[奥井雅美](../Page/奥井雅美.md "wikilink")、編曲：D.R.Y
 3.  White Destiny
       - 作詞：飯塚麻純、作曲・編曲：大森俊之
-      - テレビアニメ『[新白雪姫伝説プリーティア](https://ja.wikipedia.org/wiki/新白雪姫伝説プリーティア "wikilink")』オープニングテーマ
+      - テレビアニメ『[新白雪姫伝説プリーティア](../Page/新白雪姫伝説プリーティア.md "wikilink")』オープニングテーマ
 4.  proof of life
       - 作詞：石田燿子、作曲：奥井雅美、編曲：安田尊行・HAYA10
-      - 『[アニメTV](https://ja.wikipedia.org/wiki/アニメTV "wikilink")』エンディングテーマ
+      - 『[アニメTV](../Page/アニメTV.md "wikilink")』エンディングテーマ
 5.  永遠の花
       - 作詞：[相田毅](https://ja.wikipedia.org/wiki/相田毅 "wikilink")、作曲・編曲：[増田俊郎](../Page/増田俊郎_\(作曲家\).md "wikilink")
       - テレビアニメ『[藍より青し](../Page/藍より青し.md "wikilink")』オープニングテーマ
@@ -31,9 +31,9 @@
 8.  壊れかけた花
       - 作詞：川村サイコ、作曲・編曲：福士健太郎
 9.  [Sugar Baby Love](https://ja.wikipedia.org/wiki/Sugar_Baby_Love/Snow_flower "wikilink")
-      - 作詞・作曲：TONY WADDINGTON・W.BICERTON、日本語詞：[Joe Lemon](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")、編曲：[光宗信吉](https://ja.wikipedia.org/wiki/光宗信吉 "wikilink")
+      - 作詞・作曲：TONY WADDINGTON・W.BICERTON、日本語詞：[Joe Lemon](../Page/森雪之丞.md "wikilink")、編曲：[光宗信吉](../Page/光宗信吉.md "wikilink")
       - テレビアニメ『[ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")』オープニングテーマ
-      - [ルベッツ](https://ja.wikipedia.org/wiki/ルベッツ "wikilink")のカバー、日本では[Wink](../Page/Wink.md "wikilink")がカバーしており、音源はそちらをベースにしている。
+      - [ルベッツ](../Page/ルベッツ.md "wikilink")のカバー、日本では[Wink](../Page/Wink.md "wikilink")がカバーしており、音源はそちらをベースにしている。
 10. 真実の扉（Album Version）
       - 作詞：こさかなおみ、作曲：[川井憲次](../Page/川井憲次.md "wikilink")、編曲：[渡辺剛](../Page/渡辺剛_\(キーボード奏者\).md "wikilink")
 11. Thankful

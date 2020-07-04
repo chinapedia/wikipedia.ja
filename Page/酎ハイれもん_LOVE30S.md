@@ -1,4 +1,4 @@
-> この記事は[ LOVE30S](https://ja.wikipedia.org/wiki/_LOVE30S)から翻訳されています。
+> この記事は[酎ハイれもん LOVE30S](https://ja.wikipedia.org/wiki/酎ハイれもん_LOVE30S)から翻訳されています。
 
 
 『**酎ハイれもんLOVE30S**』（ちゅうハイれもん ラブサーティーズ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に株式会社ワンダーキッズより発売された[OVA](../Page/OVA.md "wikilink")。[史村翔](https://ja.wikipedia.org/wiki/史村翔 "wikilink")／[しのはら勉](https://ja.wikipedia.org/wiki/しのはら勉 "wikilink")が[講談社](../Page/講談社.md "wikilink")「[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")」に連載していた[漫画作品](https://ja.wikipedia.org/wiki/漫画作品 "wikilink")『**酎ハイれもん**』が原作。
@@ -33,19 +33,19 @@
   - パブリシスト：山脇知子、吉田健
   - 制作デスク：吉岡優一
   - 演出助手：鈴木敏明
-  - アニメーション制作：[土田プロダクション](https://ja.wikipedia.org/wiki/土田プロダクション "wikilink")
+  - アニメーション制作：[土田プロダクション](../Page/土田プロダクション.md "wikilink")
   - 販売元：株式会社ポニー（現.(株)ポニーキャニオン）
   - 製作・著作・発売元：株式会社ワンダーキッズ
   - 品番：V98F8061(VHS)・X98F8061(Betamax) 本編45分、定価9800円、Hi-Fi ステレオ（台詞と効果音のみモノラル）
 
 ## 主な内容
 
-痛快無比の無頼派刑事、辰巳五郎が見せるハードアクションに、おてんばマキとのちょっぴり不器用なラブロマンスの取り合わせ。思い出の1960年代ヒットポップスに乗せて送る世界初のハードボイルドアニメ。主な曲目は、ダイアナ・[雨にぬれても](../Page/雨にぬれても.md "wikilink")・[レモンのキッス](https://ja.wikipedia.org/wiki/レモンのキッス "wikilink")・[君はわが運命](https://ja.wikipedia.org/wiki/君は我が運命 "wikilink") 他。
+痛快無比の無頼派刑事、辰巳五郎が見せるハードアクションに、おてんばマキとのちょっぴり不器用なラブロマンスの取り合わせ。思い出の1960年代ヒットポップスに乗せて送る世界初のハードボイルドアニメ。主な曲目は、ダイアナ・[雨にぬれても](../Page/雨にぬれても.md "wikilink")・[レモンのキッス](../Page/レモンのキッス.md "wikilink")・[君はわが運命](https://ja.wikipedia.org/wiki/君は我が運命 "wikilink") 他。
 
 ## キャスト
 
-  - 辰巳五郎：[世良公則](https://ja.wikipedia.org/wiki/世良公則 "wikilink")
-  - 藤田麻紀：[平野文](https://ja.wikipedia.org/wiki/平野文 "wikilink")
+  - 辰巳五郎：[世良公則](../Page/世良公則.md "wikilink")
+  - 藤田麻紀：[平野文](../Page/平野文.md "wikilink")
   - 白川龍ノ介：[井上和彦](../Page/井上和彦_\(声優\).md "wikilink")
 
 ## 付随情報

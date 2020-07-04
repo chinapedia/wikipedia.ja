@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[チェルムスフォード・シティFC](https://ja.wikipedia.org/wiki/チェルムスフォード・シティFC)から翻訳されています。
 
 
 **チェルムスフォード・シティ・フットボール・クラブ**（**Chelmsford City Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")・[チェルムスフォード](https://ja.wikipedia.org/wiki/チェルムスフォード "wikilink")を本拠地とするサッカークラブチームである。2018-19シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。

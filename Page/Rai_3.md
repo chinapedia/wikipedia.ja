@@ -16,7 +16,7 @@
 ## 関連項目
 
   - [イタリア放送協会](../Page/イタリア放送協会.md "wikilink")
-  - [Rai 1](https://ja.wikipedia.org/wiki/Rai_1 "wikilink")
+  - [Rai 1](../Page/Rai_1.md "wikilink")
   - [Rai 2](../Page/Rai_2.md "wikilink")
 
 ## 外部リンク

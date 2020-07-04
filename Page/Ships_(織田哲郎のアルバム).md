@@ -1,11 +1,11 @@
-> この記事は[Ships \(\)](https://ja.wikipedia.org/wiki/Ships_\(\))から翻訳されています。
+> この記事は[Ships \(織田哲郎のアルバム\)](https://ja.wikipedia.org/wiki/Ships_\(織田哲郎のアルバム\))から翻訳されています。
 
 
 『**Ships**』（シップス）は[織田哲郎](../Page/織田哲郎.md "wikilink")のアルバム。
 
 ## 内容
 
-ミニアルバム『[WILDLIFE](../Page/WILDLIFE.md "wikilink")』から半年後にリリースしたアルバム。「Wild Heart Beat」は[サックス奏者の](../Page/サクソフォーン.md "wikilink")[古村敏比古](https://ja.wikipedia.org/wiki/古村敏比古 "wikilink")が作詞を担当した。「Someday/Somewhere」は後に、[MAGICがカバーした](https://ja.wikipedia.org/wiki/マジック_\(バンド\) "wikilink")（織田がプロデュースした『[あの夏が聴こえてくる](../Page/あの夏が聴こえてくる_\(アルバム\).md "wikilink")』）。
+ミニアルバム『[WILDLIFE](../Page/WILDLIFE.md "wikilink")』から半年後にリリースしたアルバム。「Wild Heart Beat」は[サックス奏者の](../Page/サクソフォーン.md "wikilink")[古村敏比古](../Page/古村敏比古.md "wikilink")が作詞を担当した。「Someday/Somewhere」は後に、[MAGICがカバーした](../Page/マジック_\(バンド\).md "wikilink")（織田がプロデュースした『[あの夏が聴こえてくる](../Page/あの夏が聴こえてくる_\(アルバム\).md "wikilink")』）。
 
 ## 収録曲
 
@@ -30,18 +30,18 @@
 ## 参加ミュージシャン
 
   - 織田哲郎 - ボーカル、ギター、キーボード
-      - [葉山たけし](https://ja.wikipedia.org/wiki/葉山たけし "wikilink") - ギター、コーラス
+      - [葉山たけし](../Page/葉山たけし.md "wikilink") - ギター、コーラス
       - [北島健二](../Page/北島健二.md "wikilink")（[FENCE OF DEFENSE](../Page/FENCE_OF_DEFENSE.md "wikilink")） - ギター
       - 吉田隆一 - ベース
       - 岡沢章 - ベース
       - 伊藤広規 - ベース
-      - [山田亘](https://ja.wikipedia.org/wiki/山田亘 "wikilink")（FENCE OF DEFNSE） - ドラム
+      - [山田亘](../Page/山田亘.md "wikilink")（FENCE OF DEFNSE） - ドラム
       - 竜英介 - ドラム
       - [青山純](../Page/青山純.md "wikilink") - ドラム
       - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink") - パーカッション
       - 古村敏比古 - サックス、コーラス
       - [山本拓夫](../Page/山本拓夫.md "wikilink") - サックス
-      - [坪倉唯子](https://ja.wikipedia.org/wiki/坪倉唯子 "wikilink") - コーラス
+      - [坪倉唯子](../Page/坪倉唯子.md "wikilink") - コーラス
       - [古川真一](https://ja.wikipedia.org/wiki/古川真一 "wikilink") - コーラス
 
 ## 関連項目

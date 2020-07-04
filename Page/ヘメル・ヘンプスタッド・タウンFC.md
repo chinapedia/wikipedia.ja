@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヘメル・ヘンプスタッド・タウンFC](https://ja.wikipedia.org/wiki/ヘメル・ヘンプスタッド・タウンFC)から翻訳されています。
 
 
 **ヘメル・ヘンプステッド・タウン・フットボールクラブ**（**Hemel Hempstead Town Football Club**）は、[イングランド](../Page/イングランド.md "wikilink")、[ハートフォードシャー州](https://ja.wikipedia.org/wiki/ハートフォードシャー州 "wikilink")[ダコラム](https://ja.wikipedia.org/wiki/ダコラム "wikilink")の[ヘメル・ヘンプスタッド](https://ja.wikipedia.org/wiki/ヘメル・ヘンプスタッド "wikilink")を本拠地とするサッカークラブチームである。2017-2018シーズンは[カンファレンス・サウス](https://ja.wikipedia.org/wiki/カンファレンス・サウス "wikilink")（6部相当）に所属。

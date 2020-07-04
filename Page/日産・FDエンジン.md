@@ -1,7 +1,7 @@
-> この記事は[FD](https://ja.wikipedia.org/wiki/FD)から翻訳されています。
+> この記事は[日産・FDエンジン](https://ja.wikipedia.org/wiki/日産・FDエンジン)から翻訳されています。
 
 
-**FDエンジン**とは、[日産自動車](https://ja.wikipedia.org/wiki/日産自動車 "wikilink")が主に[トラック](../Page/貨物自動車.md "wikilink")・[バス用として用いるため](../Page/バス_\(交通機関\).md "wikilink")、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）で生産されていた[水冷](https://ja.wikipedia.org/wiki/水冷 "wikilink")[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
+**FDエンジン**とは、[日産自動車](../Page/日産自動車.md "wikilink")が主に[トラック](../Page/貨物自動車.md "wikilink")・[バス用として用いるため](../Page/バス_\(交通機関\).md "wikilink")、[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）で生産されていた[水冷](../Page/水冷.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")の系列である。
 
 ## バリエーション
 
@@ -9,7 +9,7 @@
 
 #### FD33
 
-  - [排気量](https://ja.wikipedia.org/wiki/排気量 "wikilink")3,298 [cc](../Page/立方センチメートル.md "wikilink")　[直噴式](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")
+  - [排気量](../Page/排気量.md "wikilink")3,298 [cc](../Page/立方センチメートル.md "wikilink")　[直噴式](https://ja.wikipedia.org/wiki/燃焼室#直接噴射式 "wikilink")
   - 最高[出力](https://ja.wikipedia.org/wiki/出力 "wikilink")/発生回転数 : 100 [PS](https://ja.wikipedia.org/wiki/馬力#仏馬力 "wikilink")（74 [kW](../Page/ワット.md "wikilink")）/3,600 [rpm](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")
   - 最大[トルク](../Page/トルク.md "wikilink")/発生回転数 : 23.5 kg・m（230 [N・m](https://ja.wikipedia.org/wiki/ニュートンメートル "wikilink")）/2,000 rpm
   - 燃料 : [軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")
@@ -59,7 +59,7 @@
 ## 搭載された車種
 
   - FD33
-      - [アトラス](../Page/日産・アトラス.md "wikilink")/[コンドル](https://ja.wikipedia.org/wiki/UD・コンドル "wikilink")（H40）1984年2月-1986年11月
+      - [アトラス](../Page/日産・アトラス.md "wikilink")/[コンドル](../Page/UD・コンドル.md "wikilink")（H40）1984年2月-1986年11月
   - FD33T
       - アトラス/コンドル（H40）1983年1月-1986年11月
       - シビリアン（W40）1984年7月-1988年5月

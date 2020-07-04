@@ -9,7 +9,7 @@
 
 先行シングルとしてリリースされた「You're My Only Shinin' Star」のセルフカヴァーはバラード・ベスト・アルバム『[TEARS BALLAD](https://ja.wikipedia.org/wiki/TEARS_BALLAD "wikilink")』以来2度目となるが、オリジナルの日本語詞では今回が初。本作ではアルバム・ヴァージョンで収録。
 
-本作唯一の新曲「君という名の僕におしえたい」は、先行シングル「[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」に“Introduction”としてカップリングで収録されていた曲のフル・ヴァージョン。ほとんどテレビ出演をしない角松が[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』でのスタジオ・ライブに同曲と「You're My Only Shinin' Star」で出演、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")と共演した\[1\]。
+本作唯一の新曲「君という名の僕におしえたい」は、先行シングル「[You're My Only Shinin' Star](../Page/You're_My_Only_Shinin'_Star.md "wikilink")」に“Introduction”としてカップリングで収録されていた曲のフル・ヴァージョン。ほとんどテレビ出演をしない角松が[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』でのスタジオ・ライブに同曲と「You're My Only Shinin' Star」で出演、[SMAP](../Page/SMAP.md "wikilink")と共演した\[1\]。
 
 ブックレットの女性は角松自身の女装。
 

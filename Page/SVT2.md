@@ -5,7 +5,7 @@
 
 ## 概要
 
-SVT2は1969年に[スウェーデン・ラジオ](https://ja.wikipedia.org/wiki/スウェーデン・ラジオ "wikilink")のテレビ第2チャンネルとして開局。当時の名称はTV2であった。主な番組としては[サーミ語](https://ja.wikipedia.org/wiki/サーミ語 "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、スウェーデン手話の番組や、映画も放映されている。
+SVT2は1969年に[スウェーデン・ラジオ](https://ja.wikipedia.org/wiki/スウェーデン・ラジオ "wikilink")のテレビ第2チャンネルとして開局。当時の名称はTV2であった。主な番組としては[サーミ語](../Page/サーミ語.md "wikilink")、[フィンランド語](../Page/フィンランド語.md "wikilink")、スウェーデン手話の番組や、映画も放映されている。
 
 ## 主な番組
 

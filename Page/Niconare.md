@@ -1,7 +1,7 @@
 > この記事は[Niconare](https://ja.wikipedia.org/wiki/Niconare)から翻訳されています。
 
 
-**niconare**（ニコナレ）とは、かつて[ドワンゴ](../Page/ドワンゴ.md "wikilink")が提供していた[スライド](https://ja.wikipedia.org/wiki/スライド "wikilink")共有サービスである。
+**niconare**（ニコナレ）とは、かつて[ドワンゴ](../Page/ドワンゴ.md "wikilink")が提供していた[スライド](../Page/スライド.md "wikilink")共有サービスである。
 
 ## 概要 
 
@@ -96,7 +96,7 @@ niconareは、スライドを作るだけでなく、作ったスライドに対
 ## 関連項目
 
   - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
-  - [スライド](https://ja.wikipedia.org/wiki/スライド "wikilink")
+  - [スライド](../Page/スライド.md "wikilink")
 
 ## 外部リンク
 

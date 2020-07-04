@@ -72,14 +72,14 @@
 <!-- end list -->
 
   - 第11試合 ウェルター級 5分3R
-    ○  [ギルバート・バーンズ](https://ja.wikipedia.org/wiki/ギルバート・バーンズ "wikilink") vs.  [タイロン・ウッドリー](https://ja.wikipedia.org/wiki/タイロン・ウッドリー "wikilink") ×
+    ○  [ギルバート・バーンズ](../Page/ギルバート・バーンズ.md "wikilink") vs.  [タイロン・ウッドリー](https://ja.wikipedia.org/wiki/タイロン・ウッドリー "wikilink") ×
     5R終了 判定3-0（50-45、50-44、50-44）
 
 ### 各賞
 
   -
     **ファイト・オブ・ザ・ナイト**：ブランドン・ロイバル vs. [ティム・エリオット](https://ja.wikipedia.org/wiki/ティム・エリオット "wikilink")
-    **パフォーマンス・オブ・ザ・ナイト**：[ギルバート・バーンズ](https://ja.wikipedia.org/wiki/ギルバート・バーンズ "wikilink")、[マッケンジー・ダーン](https://ja.wikipedia.org/wiki/マッケンジー・ダーン "wikilink")
+    **パフォーマンス・オブ・ザ・ナイト**：[ギルバート・バーンズ](../Page/ギルバート・バーンズ.md "wikilink")、[マッケンジー・ダーン](https://ja.wikipedia.org/wiki/マッケンジー・ダーン "wikilink")
     各選手にはボーナスとして5万ドルが授与された。
 
 ### カード変更

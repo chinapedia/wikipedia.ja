@@ -43,7 +43,7 @@
     準グランプリ：[8°25](https://ja.wikipedia.org/wiki/8°25 "wikilink")（ぱつこ）\[23\]
     審査員特別賞：[竹川由華](https://ja.wikipedia.org/wiki/竹川由華 "wikilink")\[24\]
     ベストスマイル賞：[水咲優美](https://ja.wikipedia.org/wiki/水咲優美 "wikilink")\[25\]
-    ピュアグラマー賞：[未梨一花](https://ja.wikipedia.org/wiki/未梨一花 "wikilink")\[26\]
+    ピュアグラマー賞：[未梨一花](../Page/未梨一花.md "wikilink")\[26\]
     その他のファイナル進出者：水原乙、小森ほたる、Azully、宮本なる\[27\]
 
 ## 準決勝進出者

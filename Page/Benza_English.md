@@ -9,7 +9,7 @@
 
 ## 概要
 
-『The Benza 』シリーズ１のサブキャストがメインになって繰り広げられる所もスピンオフ作品 メインのロケ地は[Tokyo Cowboysでお馴染みのBar恵比寿What](https://ja.wikipedia.org/wiki/Tokyo_Cowboys "wikilink") The Dickens\! や、新宿、中野を中心に行われている。 １話約25分程度。番組の内容は、英会話番組やレッスンでは教えてくれないような”役に立たない英語や韓国語”を　各国のキャスト達が教えてくれる。 本作はダブル監督の作品となっており、日本人の西坂來人監督ががメインであるBARシーンやいんこ先生のコーナーを担当。 イギリス人の[マイケル・ウィリアムズ (映画監督)監督が英語の多い番組VTRシーンやディビットのシーンを担当](../Page/マイケル・ウィリアムズ_\(映画監督\).md "wikilink")。脚本は、『The Benza 』シリーズ１に引き続き、アメリカ人のクリス・マッコームス、翻訳は川畑誠仁。
+『The Benza 』シリーズ１のサブキャストがメインになって繰り広げられる所もスピンオフ作品 メインのロケ地は[Tokyo Cowboysでお馴染みのBar恵比寿What](../Page/Tokyo_Cowboys.md "wikilink") The Dickens\! や、新宿、中野を中心に行われている。 １話約25分程度。番組の内容は、英会話番組やレッスンでは教えてくれないような”役に立たない英語や韓国語”を　各国のキャスト達が教えてくれる。 本作はダブル監督の作品となっており、日本人の西坂來人監督ががメインであるBARシーンやいんこ先生のコーナーを担当。 イギリス人の[マイケル・ウィリアムズ (映画監督)監督が英語の多い番組VTRシーンやディビットのシーンを担当](../Page/マイケル・ウィリアムズ_\(映画監督\).md "wikilink")。脚本は、『The Benza 』シリーズ１に引き続き、アメリカ人のクリス・マッコームス、翻訳は川畑誠仁。
 
 ## あらすじ
 
@@ -130,9 +130,9 @@
 
 :; 3. 君の光 / The Benza Cast (135)
 
-:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink"), [MITSUGI](https://ja.wikipedia.org/wiki/MITSUGI "wikilink")
+:: 作詞：[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink"), [MITSUGI](../Page/MITSUGI.md "wikilink")
 
-:: 作曲：[MITSUGI](https://ja.wikipedia.org/wiki/MITSUGI "wikilink")
+:: 作曲：[MITSUGI](../Page/MITSUGI.md "wikilink")
 
 :: 歌唱：[ハンナ・グレース](https://ja.wikipedia.org/wiki/ハンナ・グレース "wikilink")
 
@@ -172,7 +172,7 @@
   - 撮影 - [渡邉泰裕](https://ja.wikipedia.org/wiki/渡邉泰裕 "wikilink")、[久保田雅哉](https://ja.wikipedia.org/wiki/久保田雅哉 "wikilink")、[マイケル・ウィリアムズ](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ "wikilink")
   - 音楽 - [野宮任裕](https://ja.wikipedia.org/wiki/野宮任裕 "wikilink")
   - 編集 - [西坂來人](../Page/西坂來人.md "wikilink")、[マイケル・ウィリアムズ](https://ja.wikipedia.org/wiki/マイケル・ウィリアムズ "wikilink")、[クリス・マッコームス](https://ja.wikipedia.org/wiki/クリス・マッコームス "wikilink")
-  - 製作 - [Tokyo Cowboys](https://ja.wikipedia.org/wiki/Tokyo_Cowboys "wikilink")
+  - 製作 - [Tokyo Cowboys](../Page/Tokyo_Cowboys.md "wikilink")
 
 
 

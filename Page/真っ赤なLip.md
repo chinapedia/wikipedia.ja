@@ -13,7 +13,7 @@
 
 | Last single = [「今日、ナニカノハズミデ生きている」](../Page/「今日、ナニカノハズミデ生きている」.md "wikilink")
 （[1999年](../Page/1999年.md "wikilink")） | This single = **真っ赤なLip**
-（2020年） | Next single = [抱き寄せ 高まる 君の体温と共に](https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に "wikilink")
+（2020年） | Next single = [抱き寄せ 高まる 君の体温と共に](../Page/抱き寄せ_高まる_君の体温と共に.md "wikilink")
 （2020年） | Misc =  | EAN = | Tracklist = }} 「**真っ赤なLip**」は、[WANDS](../Page/WANDS.md "wikilink")の16thシングル。[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")に[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")より発売された。表題曲について公式サイトでは「スリリングで挑発的なロック・チューン」と紹介されている\[9\]。
 
 ## 概要

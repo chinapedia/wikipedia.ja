@@ -16,7 +16,7 @@
 
 PVは、冒頭のドラマパートにおいて「3人から始まり――」という文言から始まっており、プロジェクト開始時となる2010年から2012年での主要メディアであった『[電撃G's magazine](../Page/電撃G's_magazine.md "wikilink")』連載のイラストノベルおよび[漫画版ではなく](https://ja.wikipedia.org/wiki/ラブライブ!#漫画 "wikilink")、本CD発売から7年前の2013年から放送を開始した[テレビアニメ版の設定をベースにした作りとなっている](https://ja.wikipedia.org/wiki/ラブライブ!_\(テレビアニメ\) "wikilink")。
 
-発売にあたり、全国10箇所（[東京](../Page/東京.md "wikilink")、[横浜](../Page/横浜.md "wikilink")、[広島](https://ja.wikipedia.org/wiki/広島 "wikilink")、[大阪](../Page/大阪.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")、[福岡](../Page/福岡.md "wikilink")、[札幌](../Page/札幌.md "wikilink")、[高知](https://ja.wikipedia.org/wiki/高知 "wikilink")、[静岡](../Page/静岡.md "wikilink")）の各鉄道駅にてそれぞれのキャラの広告ポスターが展開された\[1\]。
+発売にあたり、全国10箇所（[東京](../Page/東京.md "wikilink")、[横浜](../Page/横浜.md "wikilink")、[広島](../Page/広島.md "wikilink")、[大阪](../Page/大阪.md "wikilink")、[名古屋](../Page/名古屋.md "wikilink")、[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")、[福岡](../Page/福岡.md "wikilink")、[札幌](../Page/札幌.md "wikilink")、[高知](https://ja.wikipedia.org/wiki/高知 "wikilink")、[静岡](../Page/静岡.md "wikilink")）の各鉄道駅にてそれぞれのキャラの広告ポスターが展開された\[1\]。
 
 ## チャート成績
 

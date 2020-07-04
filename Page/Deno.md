@@ -1,7 +1,7 @@
 > この記事は[Deno](https://ja.wikipedia.org/wiki/Deno)から翻訳されています。
 
 
-**Deno**は、[V8](https://ja.wikipedia.org/wiki/V8_\(JavaScriptエンジン\) "wikilink") [JavaScriptエンジン](https://ja.wikipedia.org/wiki/JavaScriptエンジン "wikilink")及び[Rust](https://ja.wikipedia.org/wiki/Rust_\(プログラミング言語\) "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")に基づいた、[JavaScript](../Page/JavaScript.md "wikilink")及び[TypeScript](https://ja.wikipedia.org/wiki/TypeScript "wikilink")の[ランタイム環境である](https://ja.wikipedia.org/wiki/ランタイムシステム "wikilink")。[Node.js](https://ja.wikipedia.org/wiki/Node.js "wikilink")の作者である[ライアン・ダール](https://ja.wikipedia.org/wiki/ライアン・ダール "wikilink")によって作成され、セキュリティと生産性に焦点を当てている\[1\]。ライアン・ダールが2018年に行った講演「Node.jsに関する10の反省点」で発表された\[2\]。Denoは単一の[実行ファイル](../Page/実行ファイル.md "wikilink")内でランタイム環境と[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")の両方の役割を明示的に引き受けるので、別途パッケージ管理システムを必要としない\[3\]\[4\]。
+**Deno**は、[V8](https://ja.wikipedia.org/wiki/V8_\(JavaScriptエンジン\) "wikilink") [JavaScriptエンジン](https://ja.wikipedia.org/wiki/JavaScriptエンジン "wikilink")及び[Rust](https://ja.wikipedia.org/wiki/Rust_\(プログラミング言語\) "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")に基づいた、[JavaScript](../Page/JavaScript.md "wikilink")及び[TypeScript](https://ja.wikipedia.org/wiki/TypeScript "wikilink")の[ランタイム環境である](https://ja.wikipedia.org/wiki/ランタイムシステム "wikilink")。[Node.js](https://ja.wikipedia.org/wiki/Node.js "wikilink")の作者である[ライアン・ダール](../Page/ライアン・ダール.md "wikilink")によって作成され、セキュリティと生産性に焦点を当てている\[1\]。ライアン・ダールが2018年に行った講演「Node.jsに関する10の反省点」で発表された\[2\]。Denoは単一の[実行ファイル](../Page/実行ファイル.md "wikilink")内でランタイム環境と[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")の両方の役割を明示的に引き受けるので、別途パッケージ管理システムを必要としない\[3\]\[4\]。
 
 ## 歴史
 

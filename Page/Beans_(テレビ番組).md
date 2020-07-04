@@ -13,7 +13,7 @@
 ### 現在の出演者
 
   - [古谷崇洋](https://ja.wikipedia.org/wiki/古谷崇洋 "wikilink")（南海放送アナウンサー、2019年4月5日 - ）
-  - [甲斐彩加](https://ja.wikipedia.org/wiki/甲斐彩加 "wikilink")（南海放送アナウンサー、2020年4月4日 - ）
+  - [甲斐彩加](../Page/甲斐彩加.md "wikilink")（南海放送アナウンサー、2020年4月4日 - ）
 
 ### 過去の出演者
 

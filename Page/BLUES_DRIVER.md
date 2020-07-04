@@ -1,7 +1,7 @@
 > この記事は[BLUES DRIVER](https://ja.wikipedia.org/wiki/BLUES_DRIVER)から翻訳されています。
 
 
-**BLUES DRIVER**（ブルースドライバー）は、[メガテラ・ゼロ](https://ja.wikipedia.org/wiki/メガテラ・ゼロ "wikilink")と[ろまん西野](https://ja.wikipedia.org/wiki/ろまん西野 "wikilink")の2人による音楽ユニット。略称は**ブルドラ**。2020年に結成。レーベルはポニーキャニオン。
+**BLUES DRIVER**（ブルースドライバー）は、[メガテラ・ゼロ](https://ja.wikipedia.org/wiki/メガテラ・ゼロ "wikilink")と[ろまん西野](../Page/ろまん西野.md "wikilink")の2人による音楽ユニット。略称は**ブルドラ**。2020年に結成。レーベルはポニーキャニオン。
 
 ## 概要
 

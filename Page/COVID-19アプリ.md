@@ -42,7 +42,7 @@
   - [地理空間情報](../Page/地理空間情報.md "wikilink")
   - [Folding@home](https://ja.wikipedia.org/wiki/Folding@home#ウイルス "wikilink")
   - [TraceTogether](../Page/TraceTogether.md "wikilink")
-  - [まもりあいJAPAN](https://ja.wikipedia.org/wiki/まもりあいJAPAN "wikilink")
+  - [まもりあいJAPAN](../Page/まもりあいJAPAN.md "wikilink")
 
 ## 外部リンク
 

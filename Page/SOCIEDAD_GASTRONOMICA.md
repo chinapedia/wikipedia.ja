@@ -11,7 +11,7 @@
 
 ## ナビゲーター
 
-  - [横山エリカ](https://ja.wikipedia.org/wiki/横山エリカ "wikilink")
+  - [横山エリカ](../Page/横山エリカ.md "wikilink")
   - [馬場康夫](https://ja.wikipedia.org/wiki/馬場康夫 "wikilink")（インタビューアー）
 
 ## 脚注

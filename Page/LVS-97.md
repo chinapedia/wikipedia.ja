@@ -18,7 +18,7 @@
 LVS-97は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2004年](../Page/2004年.md "wikilink")にかけて50両が製造され、[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")（[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")）を始めとするロシア連邦の各都市に導入された。製造過程で座席や窓の配置を始めとした設計変更が行われ、特に[2000年](../Page/2000年.md "wikilink")以降に製造された車両は前面デザインが変わり[グラスファイバー](https://ja.wikipedia.org/wiki/グラスファイバー "wikilink")が用いられるようになった他、[2001年](../Page/2001年.md "wikilink")からは乗降扉の形状や先頭車体の扉配置も変更された。これらの車両は電気機器や車体形状の違いにより、以下の形式に分類される。
 
   - **LVS-97K**（ЛВС-97К、71-147） - LVS-97における基本形式。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2002年](../Page/2002年.md "wikilink")までに41両が製造された。主電動機には直流電動機、制御装置には[抵抗制御](../Page/抵抗制御.md "wikilink")方式が導入された。
-  - **LVS-97M**（ЛВС-97М、71-147）、 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に2両が製造された試作形式で、[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")方式（[IGBT](https://ja.wikipedia.org/wiki/IGBT "wikilink")素子）が用いられた。うち[ヴィテプスク](https://ja.wikipedia.org/wiki/ヴィテプスク "wikilink")（[ヴィテプスク市電](https://ja.wikipedia.org/wiki/ヴィーツェプスク市電 "wikilink")）に導入された1両は試験終了後に消費電力を抑えた[VVVFインバータ制御](../Page/VVVFインバータ制御.md "wikilink")の「LVS-97A」に改造された一方、[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")に導入された1両についてはペテルブルク電気車両博物館（Ретро-трамвай — петербургская классика）に保存されている\[2\]。
+  - **LVS-97M**（ЛВС-97М、71-147）、 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に2両が製造された試作形式で、[電機子チョッパ制御](../Page/電機子チョッパ制御.md "wikilink")方式（[IGBT](https://ja.wikipedia.org/wiki/IGBT "wikilink")素子）が用いられた。うち[ヴィテプスク](https://ja.wikipedia.org/wiki/ヴィテプスク "wikilink")（[ヴィテプスク市電](../Page/ヴィーツェプスク市電.md "wikilink")）に導入された1両は試験終了後に消費電力を抑えた[VVVFインバータ制御](../Page/VVVFインバータ制御.md "wikilink")の「LVS-97A」に改造された一方、[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")に導入された1両についてはペテルブルク電気車両博物館（Ретро-трамвай — петербургская классика）に保存されている\[2\]。
   - **LVS-97A**（ЛВС-97А、71-147А） - 主電動機に[誘導電動機](../Page/誘導電動機.md "wikilink")を用い、[VVVFインバータ制御](../Page/VVVFインバータ制御.md "wikilink")装置を搭載した形式。LVS-97Mから改造された1両に加え、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[2003年](../Page/2003年.md "wikilink")の間に6両が新造された。
   - **LVS-97A-01**（ЛВС-97А-01、71-151А） - [2004年](../Page/2004年.md "wikilink")に1両が試作された形式。電気機器はLVS-97Aと同様だが、後方車体の大部分が[低床構造となっている](../Page/超低床電車.md "wikilink")。
 
@@ -64,7 +64,7 @@ LVS-97が導入された都市は以下の通りである\[3\]。
 <tr class="odd">
 <td><p><a href="../Page/ベラルーシ.md" title="wikilink">ベラルーシ</a></p></td>
 <td><p><a href="../Page/ヴィーツェプスク.md" title="wikilink">ヴィーツェプスク</a><br />
-(<a href="https://ja.wikipedia.org/wiki/ヴィーツェプスク市電" title="wikilink">ヴィーツェプスク市電</a>)</p></td>
+(<a href="../Page/ヴィーツェプスク市電.md" title="wikilink">ヴィーツェプスク市電</a>)</p></td>
 <td><p>1両</p></td>
 <td></td>
 </tr>

@@ -67,7 +67,7 @@
     声 - [三村遙佳](https://ja.wikipedia.org/wiki/三村遙佳 "wikilink")
     ごく普通の生活をしている庶民派。
   - 寿 沙希
-    声 - [葉月ひまり](https://ja.wikipedia.org/wiki/葉月ひまり "wikilink")
+    声 - [葉月ひまり](../Page/葉月ひまり.md "wikilink")
     謎めいた雰囲気の少女。勉強が苦手。
 
 ### その他

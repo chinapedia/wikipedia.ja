@@ -29,7 +29,7 @@
 <td><ul>
 <li>パイディダッリ - </li>
 <li>K・ラヴィンドラ・レッディ - </li>
-<li>シュリニヴァス - <a href="https://ja.wikipedia.org/wiki/ヴェンネラ・キショール" title="wikilink">ヴェンネラ・キショール</a></li>
+<li>シュリニヴァス - <a href="../Page/ヴェンネラ・キショール.md" title="wikilink">ヴェンネラ・キショール</a></li>
 <li>スーダルシャン - </li>
 <li>バンギナパッリ・バンガラーム・ナイドゥ - </li>
 <li>アンジャニヤ・プラサード - <a href="../Page/タニケッラ・バラニ.md" title="wikilink">タニケッラ・バラニ</a></li>
